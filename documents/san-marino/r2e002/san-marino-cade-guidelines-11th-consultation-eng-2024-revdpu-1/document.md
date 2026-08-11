@@ -12,7 +12,7 @@ Eleventh consultation of Member  States on the application of the Convention and
 
 ## 1. Introduction
 
-The Convention against Discrimination in Education ('the Convention') and the Recommendation against  Discrimination  in  Education  ('the  Recommendation'),  adopted  by  UNESCO's  General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'ad vance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
+The Convention against Discrimination in Education ('the Convention') and the Recommendation against Discrimination in Education ('the Recommendation'), adopted by UNESCO's General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'advance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
 
 The right to education is one of the key principles underpinning the Education 2030 agenda and Sustainable Development Goal 4 (SDG4) adopted by the international community in 2015. SDG 4 seeks to ensure the full enjoyment of the right to education as fundamental to achieving sustainable development. Its scope captures the multidimensional nature of the right to education.
 
@@ -42,7 +42,7 @@ There are differences in the legal nature of the obligations under the Conventio
 
 Bearing in mind the differences in legal scope inherent to the nature of these two categories of instruments,  the  content  of  the  Recommendation  is  identical  to  that  of  the  Convention.  Member States are expected to give effect to it in national legislation and education policies.
 
-The  reporting  obligation  under  the  provisions  of  Article  VII  of  the  Convention  and  of  the Recommendation is the same. Article VIII of UNESCO's Constitution states that ' Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General  Conference,  reports  on  the  laws,  regulations  and  statistics  relating  to  its  educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to i n Article IV, paragraph 4' . Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
+The reporting obligation under the provisions of Article VII of the Convention and of the Recommendation is the same. Article VIII of UNESCO's Constitution states that “Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General Conference, reports on the laws, regulations and statistics relating to its educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4”. Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
 
 > 1 https://www.unesco.org/en/right-education/evolving
 
@@ -118,7 +118,7 @@ MONICA CAVALLI
 
 Email and telephone number of contact person: monica.cavalli@pa.sm - ++378 885098
 
-# Ratification and applicability of the Convention against Discrimination in Education 10
+# I. Ratification and applicability of the Convention against Discrimination in Education 10
 
 - Is your country a State Party to the Convention?
 
@@ -136,7 +136,7 @@ No: Does your country plan to ratify this instrument?
 
 - Please  briefly  explain  the  steps  that  have  been  taken  and  timeline  when relevant, any difficulties encountered (legal, institutional, political or practical) in completing the ratification process. And how UNESCO can assist:
 
-Convention ratified on the 2 nd March 2020. Decree no. 38
+Convention ratified on the 2nd March 2020. Decree no. 38
 
  No, not considering ratification. Please explain why:
 
@@ -168,7 +168,7 @@ Convention ratified on the 2 nd March 2020. Decree no. 38
 
 Information could also be given about the judicial, administrative and other competent authorities having jurisdiction with respect to the right to education.
 
-# Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the  context  of Sustainable Development Goal 4 (SDG4)
+# II. Information on the implementation of the Convention or Recommendation in the context of Sustainable Development Goal 4 (SDG4)
 
 ## 1. Towards an inclusive non-discriminatory education system
 
@@ -198,7 +198,7 @@ For reference: This notably is covered under SDG target 4.1 and partly target 4.
 
 > 13 See: Article/Paragraph 1(1).
 
-> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programm es'.
+> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'.
 
 [[END OF PAGE 6]]
 
@@ -206,17 +206,17 @@ For reference: This notably is covered under SDG target 4.1 and partly target 4.
 
  Legal texts 15 prohibit discrimination and guarantee equal access to education:
 
-- In pre-primary education (including early learning and care)
+✓ In pre-primary education (including early learning and care)
 
-- In primary education
+✓ In primary education
 
-- In secondary education
+✓ In secondary education
 
-- In technical and vocational education and training
+✓ In technical and vocational education and training
 
-- In higher education
+✓ In higher education
 
-- In adult education and alternative learning
+✓ In adult education and alternative learning
 
 - Please indicate the relevant legal provisions:
 
@@ -228,15 +228,15 @@ Exclusion, any kind of discrimination (Law 12 February 1998 no.21)
 
  Policies, programmes and initiatives aim to prohibit and prevent discrimination and ensure equal access to education
 
-- In pre-primary education (including early learning and care)
+✓ In pre-primary education (including early learning and care)
 
-- In primary education
+✓ In primary education
 
-- In secondary education
+✓ In secondary education
 
-- In technical and vocational education and training
+✓ In technical and vocational education and training
 
-- In higher education
+✓ In higher education
 
 In adult education and alternative learning
 
@@ -248,13 +248,13 @@ Framework law no.69/2023 on San Marino higher education
 
  Combatting discrimination in terms of curriculum:
 
-- In pre-primary education (including early learning and care)
+✓ In pre-primary education (including early learning and care)
 
-- In primary education
+✓ In primary education
 
-- In secondary education
+✓ In secondary education
 
-- In technical and vocational education and training
+✓ In technical and vocational education and training
 
 In higher education
 
@@ -286,21 +286,21 @@ experience of "us" - Educate on the elimination of violence against women.
 
 #### General measures:
 
-- Legislation provides for inclusive education for all
+✓ Legislation provides for inclusive education for all
 
-- Policy measures aim to enhance inclusion in education for all
+✓ Policy measures aim to enhance inclusion in education for all
 
-- Teachers are trained on inclusive education 16 and to value diversity
+✓ Teachers are trained on inclusive education 16 and to value diversity
 
-- Multiple and flexible learning pathways 17 are provided for
+✓ Multiple and flexible learning pathways 17 are provided for
 
-- Curricula and teaching methods are inclusive in design 18
+✓ Curricula and teaching methods are inclusive in design 18
 
-- Multilingual and intercultural education is supported
+✓ Multilingual and intercultural education is supported
 
 > 16 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
 
-> 17 Multiple and flexible learning pathways are 'entry points and re -entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge,  skills  and  c ompetencies  acquired  through  nonformal  and  informal  education'  ( Education  2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
+> 17 Multiple and flexible learning pathways are 'entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education' (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
 
 > 18 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
 
@@ -310,7 +310,7 @@ experience of "us" - Educate on the elimination of violence against women.
 
  Other:
 
-- Initiatives to address discrimination and promote cultural diversity and mutual acceptance
+✓ Initiatives to address discrimination and promote cultural diversity and mutual acceptance
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
@@ -344,7 +344,7 @@ Concerning  students  with  disabilities,  developmental  disorders  or  foreign
 
  Ensuring gender parity in science, technology, engineering and mathematics (STEM)
 
-> 20 ' Gendersensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
+> 20 'Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
 
 > 21 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
 
@@ -466,23 +466,39 @@ o Adapting curricula and teaching and learning methods to their needs for nation
 
 #### People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations 28 :
 
-- Legislation provides for their right to education
+✓ Legislation provides for their right to education
 
-- Policy measures aim to enhance their right to education
+✓ Policy measures aim to enhance their right to education
 
-- Inclusion in mainstream schools is ensured
+✓ Inclusion in mainstream schools is ensured
 
-- Positive or affirmative action measures are provided for
+✓ Positive or affirmative action measures are provided for
 
-- All administrative barriers to access education are removed
+✓ All administrative barriers to access education are removed
 
-- Alternative administrative procedures (placement tests, portfolio of evidence, etc.) to overcome administrative barriers 29 are provided for
+✓ Alternative administrative procedures (placement tests, portfolio of evidence, etc.) to overcome administrative barriers 29 are provided for
 
-- Teachers are specifically trained to ensure their inclusion
+✓ Teachers are specifically trained to ensure their inclusion
+
+✓ Financial incentives and fellowships are provided for
+
+✓ Auxiliary assistance is provided
+
+ Multiple and flexible learning pathways 31 are provided
+
+✓ Curricula are rid of all stereotypes 32 and bias
+
+ Accelerated learning programmes are provided
+
+✓ Non-formal and/or alternative education programmes are provided
+
+✓ Language classes to newcomers are provided for
+
+✓ Multilingualism and intercultural education are encouraged
 
 > 27 Supra note 16.
 
-> 28 ' Trapped  populations  are  those  who  are  unable  to  migrate  to  safe  locations  and  remain  trapped  in  locations vulnerable to the impacts of climate hazards' ( UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2).
+> 28 'Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards' (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2).
 
 > 29 While lack of documentation (such as identity papers, birth certificates, residency permits, etc.) should not be an obstacle to access education, these can constitute a barrier to education See: UNESCO publication: Handbook on the right to education, 2018, p. 96.
 
@@ -490,27 +506,9 @@ o Adapting curricula and teaching and learning methods to their needs for nation
 
 > 32 Supra note 16.
 
-- Financial incentives and fellowships are provided for
-
-- Auxiliary assistance is provided
-
- Multiple and flexible learning pathways 31 are provided
-
-- Curricula are rid of all stereotypes 32 and bias
-
- Accelerated learning programmes are provided
-
-- Non-formal and/or alternative education programmes are provided
-
-- Language classes to newcomers are provided for
-
-- Multilingualism and intercultural education are encouraged
-
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
-
-- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
  Teachers are trained to combat stigmatisation 30
 
@@ -534,11 +532,11 @@ Referring to Ukranian refugees the main challenge was the lack of time. Hosting 
 
 #### People with disabilities:
 
-- Legislation provides for their right to education
+✓ Legislation provides for their right to education
 
-- Policy measures aim to enhance their right to education
+✓ Policy measures aim to enhance their right to education
 
-- Inclusion in mainstream schools is ensured
+✓ Inclusion in mainstream schools is ensured
 
  Special schools are used as resource centers to inclusive schools
 
@@ -548,23 +546,23 @@ Referring to Ukranian refugees the main challenge was the lack of time. Hosting 
 
  Other
 
-- Mainstream teachers are specifically trained on disabilities
+✓ Mainstream teachers are specifically trained on disabilities
 
  Teachers are trained to combat stigmatisation 33
 
-- Auxiliary assistance is provided
+✓ Auxiliary assistance is provided
 
-- Curricula and teaching and learning methods are adapted
+✓ Curricula and teaching and learning methods are adapted
 
-- Curricula are rid of all stereotypes 34 and bias
+✓ Curricula are rid of all stereotypes 34 and bias
 
-- Education infrastructure and learning materials are adapted
+✓ Education infrastructure and learning materials are adapted
+
+- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
 > 30 Supra note 15.
 
-33
-
-> Supra note 15.
+> 33 Supra note 15.
 
 > 34 Supra note 16.
 
@@ -574,23 +572,21 @@ Referring to Ukranian refugees the main challenge was the lack of time. Hosting 
 
 Law 21 November 1990 no.141 - Framework Law for the Protection of the Rights and Social Integration of People with Disabilities
 
-36
-
 - What challenges were encountered in realizing the right to education of people with disabilities? If needed, brief quantitative information may be added.
 
 #### Students from poor households:
 
  Financial incentives and fellowships for school enrolment are provided
 
- Transport, meals and education material are subsidised  or  provided  free  of  charge  beyond compulsory education
+ Transport, meals and education material are subsidised or provided free of charge beyond compulsory education
 
-- Positive or affirmative action measures are provided
+✓ Positive or affirmative action measures are provided
 
  Other:
 
  Teachers are trained to combat stigmatisation 35
 
-- Curricula are rid of all stereotypes 36 and bias
+✓ Curricula are rid of all stereotypes 36 and bias
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
@@ -598,11 +594,11 @@ Law 21/1998- art.1 '… The education and training system, the family and other 
 
 - What  challenges  were  encountered  in  realizing  the  right  to  education  of  students  from  poor households? If needed, brief quantitative information may be added.
 
-## Progress made with respect to implementing the right to education across all levels and forms of education
+## 2. Progress made with respect to implementing the right to education across all levels and forms of education
 
 > 35 Supra note 15.
 
-Supra note 16.
+> 36 Supra note 16.
 
 [[END OF PAGE 14]]
 
@@ -610,7 +606,7 @@ Supra note 16.
 
 ### 2.1 Early childhood care and education
 
-For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explicitly  provided  for  in  the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initi ally recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent  Declaration  and  Commitments  to  Action  for  Transforming  Early  Childhood  Care  and Education 38 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre -primary education'.
+For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education 38. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked):
 
@@ -618,13 +614,13 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
  Prior to pre-primary education, ECCE services are affordable
 
-- ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
+✓ ECCE services are accessible on a non-discriminatory basis
 
-- ECCE services are accessible on a nondiscriminatory basis
+✓ ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
 - Please elaborate further on the measures taken:
 
-Law  21/1998art.1  '… respecting  the  autonomy  of  each  sphere  and  the  duties  of  each institution, protect and promote the growth of the individual and the development of his or her abilities and aptitudes, for an active and responsible inclusion in society. In school, the right to education and training of every person is implemented, without discrimination of any kind and with respect for the freedom and identity of each …'
+Law 21/1998-art.1 “…respecting the autonomy of each sphere and the duties of each institution, protect and promote the growth of the individual and the development of his or her abilities and aptitudes, for an active and responsible inclusion in society. In school, the right to education and training of every person is implemented, without discrimination of any kind and with respect for the freedom and identity of each…”
 
 - Is compulsory and free of charge pre-primary education available?
 
@@ -668,25 +664,25 @@ The cost of the canteen is at expense of the family
 
 ### 2.2 Primary and secondary education
 
-For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclus ive, equitable, quality primary and secondary education -of which at least nine years are compulsory.'
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education – of which at least nine years are compulsory.'
 
 #### Primary education
 
 - Please provide the age of enrolment and duration of primary education:
 
-- Primary education is not free.
-
-- Please list the relevant laws and policies. Where applicable, provide information on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., exam fees, schools supplies, uniforms, transport and compulsory levies on parents). Brief quantitative information may be added.
-
 Age of enrolment: 6. Duration of primary education: 5 years
 
 - Is primary education compulsory and free of charge?
 
-- Primary education is compulsory
+✓ Primary education is compulsory
 
  Primary education is not compulsory.
 
- Primary education is free of charge.
+ Primary education is free of charge.
+
+✓ Primary education is not free.
+
+- Please list the relevant laws and policies. Where applicable, provide information on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., exam fees, schools supplies, uniforms, transport and compulsory levies on parents). Brief quantitative information may be added.
 
 [[END OF PAGE 16]]
 
@@ -712,7 +708,9 @@ Foundation literacy
 
 Numeracy
 
-Social and emotional learning Others
+Social and emotional learning
+
+Others
 
  Disparity in learning outcomes
 
@@ -750,21 +748,19 @@ School is compulsory still the age of 16.
 
 [[START OF PAGE 18]]
 
-### 2.3 Higher education
-
  Upper secondary education is not compulsory.
 
  Upper secondary education is free of charge
 
-- Upper secondary education is not free of charge.
+✓ Upper secondary education is not free of charge.
 
-- Please list the relevant laws and policies. Where applicable, provide information on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., exam fees, schools supplies, uniforms,  transport  and  compulsory  levies  on  parents).  Brief  quantitative  information  may  be added.
+- Please list the relevant laws and policies. Where applicable, provide information on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., exam fees, schools supplies, uniforms, transport and compulsory levies on parents). Brief quantitative information may be added.
 
 The cost of the books and transport are partially is at expense of the family
 
 - Please indicate whether the legal minimum age for employment is aligned with the end of compulsory education:
 
-For reference: The employment laws and those related to compulsory education are interdependent and mutually reinforce each other. If the minimum age of employment is below that of compulsory education,  the  child  is  at  risk  of  dropping  out  of  school  to  work  and  therefore  not  completing compulsory education. On the other hand, if compulsory education is lower than the minimum age of employment, once the child has completed compulsory education, the door is open to child exploitation and the violation of labour laws.
+For reference: The employment laws and those related to compulsory education are interdependent and mutually reinforce each other. If the minimum age of employment is below that of compulsory education, the child is at risk of dropping out of school to work and therefore not completing compulsory education. On the other hand, if compulsory education is lower than the minimum age of employment, once the child has completed compulsory education, the door is open to child exploitation and the violation of labour laws.
 
 Yes o No o
 
@@ -792,6 +788,8 @@ Law 21/1998 - Art.3
 
 - Please elaborate. Brief quantitative information may be added.
 
+### 2.3 Higher education
+
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
@@ -802,7 +800,7 @@ For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  pr
 
  Higher education is free of charge
 
-- Higher  education  is  accessible  on  the  basis  of  individual  capacity  (as  assessed  by  reference  to relevant qualifications and experience)
+✓ Higher education is accessible on the basis of individual capacity (as assessed by reference to relevant qualifications and experience)
 
 ✓ Higher education is accessible through financial incentives and scholarships
 
@@ -816,7 +814,7 @@ For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  pr
 
 Administrative Regulations:
 
-https://www.unirsm.sm/segreteria-studenti/wp- content/uploads/sites/41/2023/05/040_Decreto_Rettore_Adempimenti_Amm_Vi_Immatricol azioni_e_Iscrizioni_2020.pdf_firmato.pdf
+https://www.unirsm.sm/segreteria-studenti/wp-content/uploads/sites/41/2023/05/040_Decreto_Rettore_Adempimenti_Amm_Vi_Immatricolazioni_e_Iscrizioni_2020.pdf_firmato.pdf
 
 - Please list the relevant laws and policies. Where applicable, provide information on the direct costs  (e.g.,  enrolment  fees  and  tuition  fees)  and  indirect  costs  (e.g.,  exam  fees,  university supplies, transport, accommodation). Brief quantitative information may be added.
 
@@ -826,9 +824,9 @@ Enrolment fees and tuition fees, transport and accommodation are at expense of t
 
  Limited access
 
-- Issues of equity and inclusion
+✓ Issues of equity and inclusion
 
-- Low number of professionally trained professors
+✓ Low number of professionally trained professors
 
 > 39 Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'.
 
@@ -858,7 +856,7 @@ For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides 
 
  Provision of literacy programmes
 
-- Provision  of  continuous  learning  (such  as  learning  programmes  to  develop  knowledge,  skills, abilities, or competencies for personal and professional development)
+✓ Provision of continuous learning (such as learning programmes to develop knowledge, skills, abilities, or competencies for personal and professional development)
 
  Provision of free of charge learning opportunities
 
@@ -898,27 +896,27 @@ For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides 
 
 ## 3. Quality education provision and learning environment
 
-For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends state s to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
+For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
 
 ### 3.1 General measures
 
 - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding:
 
-- State monitoring and inspections
+✓ State monitoring and inspections
 
-- Health and sanitation
+✓ Health and sanitation
 
-- Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools))
+✓ Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools))
 
-- Infrastructure
+✓ Infrastructure
 
-- Curriculum
+✓ Curriculum
 
-- Student-teacher ratio
+✓ Student-teacher ratio
 
-- School fees (if relevant)
+✓ School fees (if relevant)
 
-- Other
+✓ Other
 
 Since 2022 psychologists work in San Marino schools providing support to pupils and teachers.
 
@@ -929,8 +927,6 @@ You may include information on policies, protocols or codes of conduct.
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
-
-### 3.2 Education personnel
 
 Law 21/1998 - General Rules on Education -
 
@@ -954,19 +950,21 @@ Law 21/1998 - General Rules on Education -
 
 - Please elaborate. Brief quantitative information may be added.
 
-Investments  and  expenditures  for  Educational  high  educational  standards  need  big investments.  Nowadays  parental  support  to  education  in  not  always  adequate,  making teachers tasks even more challenging.
+Investments and expenditures for Educational high educational standards need big investments. Nowadays parental support to education in not always adequate, making teachers tasks even more challenging.
+
+### 3.2 Education personnel
 
 For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'.
 
 - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked):
 
-- Teacher training is provided without discrimination.
+✓ Teacher training is provided without discrimination.
 
-- Teachers' average salaries are competitive or at least comparable to those paid in other professions requiring similar or equivalent qualifications (at all levels).
+✓ Teachers' average salaries are competitive or at least comparable to those paid in other professions requiring similar or equivalent qualifications (at all levels).
 
-- Initial training and continuous professional development are provided.
+✓ Initial training and continuous professional development are provided.
 
-- Minimum standards and qualifications required for the teaching profession.
+✓ Minimum standards and qualifications required for the teaching profession.
 
  Measures taken to strengthen the social status and attractiveness of the teaching profession.
 
@@ -996,7 +994,7 @@ For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides 
 
 o Low quality educational infrastructure and materials
 
-- o High student - teacher ratio
+o High student – teacher ratio
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -1006,13 +1004,13 @@ For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provid
 
 - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked):
 
-- Curriculum includes human rights education.
+✓ Curriculum includes human rights education.
 
-- Educational and/or extracurricular activities are organized on human rights education.
+✓ Educational and/or extracurricular activities are organized on human rights education.
 
  Other:
 
-Law  No.96/20 19 ' Establishment of the teaching of Ethics, Culture and Society ' - 2019 and 2021 Curricula guidelines
+Law No.96/2019 “Establishment of the teaching of Ethics, Culture and Society” - 2019 and 2021 Curricula guidelines
 
 - Please elaborate on each of the measures taken:
 
@@ -1044,7 +1042,7 @@ For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommenda
 
  Legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of non-state educational institutions. Please specify what is covered:
 
-- Registration
+✓ Registration
 
 > 42 Private, faith-based, NGOs, community actors.
 
@@ -1054,25 +1052,25 @@ For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommenda
 
 [[START OF PAGE 25]]
 
-- State monitoring and inspections
+✓ State monitoring and inspections
 
-- Qualifications of teachers
+✓ Qualifications of teachers
 
-- Health and sanitation
+✓ Health and sanitation
 
-- Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools)
+✓ Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools)
 
-- Infrastructure
+✓ Infrastructure
 
-- Curriculum
+✓ Curriculum
 
-- Student-teacher ratio
+✓ Student-teacher ratio
 
-- School fees
+✓ School fees
 
-- School closures
+✓ School closures
 
-- Other
+✓ Other
 
 There are no private institutions at the present time in San Marino
 
@@ -1110,15 +1108,15 @@ Digital education is both an opportunity for enhancing access but also can lead 
 
 Please indicate the relevant text and provisions:
 
-- Core legislations, policies, strategies or plans for the management, privacy, security, storage, transfer, use, and sharing of education data internally and externally to ensure the right to privacy of learners and education stakeholders (e.g., informed consent, transparent usage policies, etc.)
+✓ Core legislations, policies, strategies or plans for the management, privacy, security, storage, transfer, use, and sharing of education data internally and externally to ensure the right to privacy of learners and education stakeholders (e.g., informed consent, transparent usage policies, etc.)
 
-- Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.
+✓ Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.
 
  Measures to remove barriers to accessing digital content 45 , including ensuring access to curriculum- aligned  digital  content  available  on  free,  public,  multi-modal  national  platforms;  high-quality content  is  available  in  core  subjects,  official  national  language(s),  and  designed  with  inclusive features to assist learners with disabilities.
 
-- Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a culture of digital innovation and growth anchored in equity and inclusion that enables ongoing professional development for existing and emerging staff.
+✓ Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a culture of digital innovation and growth anchored in equity and inclusion that enables ongoing professional development for existing and emerging staff.
 
-- Future-ready  skills  (including  digital  skills,  data  and  AI  competencies,  critical  thinking,  etc.) integrated into formal curriculum at all levels of education
+✓ Future-ready  skills  (including  digital  skills,  data  and  AI  competencies,  critical  thinking,  etc.) integrated into formal curriculum at all levels of education
 
  Measures address the digital divide, including ensuring access to reliable electricity, meaningful internet  connectivity  at  school  and  at  home,  devices  suitable  for  learning  and  teaching,  safe  and sustainable software and secure platforms, and integrated education data systems.
 
@@ -1126,21 +1124,22 @@ Please indicate the relevant text and provisions:
 
 - Please elaborate on each of the measures taken:
 
-Law  95/2019  experimentation  of  Curricular  Indications  for  the  San  Marino  School Delegate Decree 164/2024 - Provisions for preventing and combating cyberbullying
+Law  95/2019  experimentation  of  Curricular  Indications  for  the  San  Marino  School
+Delegate Decree 164/2024 - Provisions for preventing and combating cyberbullying
 
 - What challenges were encountered in digital education provision (check all that apply)?
 
-- Lack of quality, curriculum-aligned  digital teaching and learning content that supports flexible learning and teaching pathways
+✓ Lack of quality, curriculum-aligned  digital teaching and learning content that supports flexible learning and teaching pathways
 
-- Lack of equity and inclusion in digital learning solutions
+✓ Lack of equity and inclusion in digital learning solutions
 
-- inadequate safety measures and IT
+✓ inadequate safety measures and IT
 
  Limited access to internet and/or electricity
 
  Limited access to hardware (devices, chargers, etc.)
 
-- Difficulty in regulating the use of digital education solutions
+✓ Difficulty in regulating the use of digital education solutions
 
 > 45 Lack of internet connection, basic infrastructure or devices.
 
@@ -1152,9 +1151,9 @@ support to respond to issues of child online safety or reduce cyber security ris
 
  Other:
 
-- Difficulty in sustainably financing digital education solutions at national scale
+✓ Difficulty in sustainably financing digital education solutions at national scale
 
-- Lack of digital skills development for meaningful use of digital technology in teaching practice
+✓ Lack of digital skills development for meaningful use of digital technology in teaching practice
 
  Disjointed or fragmented solutions that are not centrally systematized or regulated
 
@@ -1162,15 +1161,15 @@ support to respond to issues of child online safety or reduce cyber security ris
 
 ## 4 Strengthening governance systems
 
-For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and  accessible  data  are available' ( para. 18).
+For reference: The Education 2030 Framework for Action states “to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and  accessible  data  are available” (para. 18).
 
 - Please indicate the measures taken in terms of governance (several items may be ticked):
 
-- Monitoring mechanisms to assess compliance with the right to education obligations, including through management information systems.
+✓ Monitoring mechanisms to assess compliance with the right to education obligations, including through management information systems.
 
  Monitoring results are made public. Please provide the link:
 
-- Monitoring processes are participatory, inclusive and regular.
+✓ Monitoring processes are participatory, inclusive and regular.
 
  Sector-wide and multisector approach is adopted to education governance.
 
@@ -1190,17 +1189,17 @@ For reference: The Education 2030 Framework for Action states "to ensure quality
 
 - What challenges were encountered in terms of governance?
 
-- Budgetary constraints
+✓ Budgetary constraints
 
-- Lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels
+✓ Lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels
 
- P oor dialogue with teachers' trade unions
+ Poor dialogue with teachers’ trade unions
 
  Other:
 
  Absence of supportive/ inconsistent/obsolete legal and policy environment
 
-- Lack or weakness of monitoring systems - including the lack of reliable data
+✓ Lack or weakness of monitoring systems – including the lack of reliable data
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -1212,7 +1211,7 @@ For reference: UNESCO governing bodies have underlined the need for awareness ra
 
  Translation of the Convention/Recommendation into the national and possibly local languages
 
-- Dissemination and advocacy of the core content of the Convention/Recommendation or the core principles of the right to education including through appropriate materials and resources
+✓ Dissemination and advocacy of the core content of the Convention/Recommendation or the core principles of the right to education including through appropriate materials and resources
 
  Activities undertaken or supported by the National Commission to promote non-discrimination and equality of educational opportunities and to foster debate on critical issues in relation to the rights enshrined in the instruments
 
