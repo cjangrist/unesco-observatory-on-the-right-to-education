@@ -54,7 +54,8 @@ TITRE XII -DU CONSEIL NATIONAL DE LA MÉDIATION
 
 [[START OF PAGE 2]]
 
-TITRE XIII -DE LA RÉVISION TITRE XIV - DES DISPOSITIONS TRANSITOIRES ET FINALES
+TITRE XIII - DE LA RÉVISION
+TITRE XIV - DES DISPOSITIONS TRANSITOIRES ET FINALES
 
 ## P R E A M B U L E
 
@@ -76,11 +77,22 @@ Convaincu que le suffrage universel est la seule source de la légitimité du po
 
 S'opposant fermement à la conquête du pouvoir par la force et à toute forme de dictature et d'oppression, ainsi qu'à tout acte de division et d'entretien de la haine,
 
-Convaincu qu'il est essentiel que les droits de l'Homme soient protégés par un régime de droit, Convaincu de la nécessité de l'intégration politique, économique et sociale africaine au plan sous-régional et régional, Désireux de nouer des liens d'amitié avec tous les peuples sur la base des principes d'égalité, de solidarité, d'intérêts réciproques et du respect mutuel de la souveraineté nationale ainsi que de l'intégrité territoriale, Réitérant sa volonté de coopérer dans la paix et l'amitié avec tous les États, d'œuvrer pour l'Union Africaine conformément à l'Acte Constitutif adopté le 12 juillet 2000, de promouvoir le règlement pacifique des différends entre États dans le respect de la Justice, de l'Égalité, de la Liberté et de la Souveraineté des Peuples, Réaffirme son adhésion à la Charte de l'Organisation des Nations Unies, à la Déclaration Universelle des Droits de l'Homme du 10 décembre 1948, aux Pactes Internationaux du 16 décembre 1966 relatifs aux droits économiques, sociaux et culturels d'une part et aux droits civils et politiques d'autre part, Réaffirme son attachement à la Charte Africaine des Droits de l'Homme et des Peuples du 27 juin 1981, Réaffirme son adhésion à toutes les Conventions Internationales dûment ratifiées, notamment celle relative à l'interdiction de toute forme de discrimination à l'égard des femmes ainsi que celle relative à la protection des droits de l'enfant.
+Convaincu qu'il est essentiel que les droits de l'Homme soient protégés par un régime de droit,
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+Convaincu de la nécessité de l'intégration politique, économique et sociale africaine au plan sous-régional et régional,
+
+Désireux de nouer des liens d'amitié avec tous les peuples sur la base des principes d'égalité, de solidarité, d'intérêts réciproques et du respect mutuel de la souveraineté nationale ainsi que de l'intégrité territoriale,
+
+Réitérant sa volonté de coopérer dans la paix et l'amitié avec tous les États, d'œuvrer pour l'Union Africaine conformément à l'Acte Constitutif adopté le 12 juillet 2000, de promouvoir le règlement pacifique des différends entre États dans le respect de la Justice, de l'Égalité, de la Liberté et de la Souveraineté des Peuples,
+
+Réaffirme son adhésion à la Charte de l'Organisation des Nations Unies, à la Déclaration Universelle des Droits de l'Homme du 10 décembre 1948, aux Pactes Internationaux du 16 décembre 1966 relatifs aux droits économiques, sociaux et culturels d'une part et aux droits civils et politiques d'autre part,
+
+Réaffirme son attachement à la Charte Africaine des Droits de l'Homme et des Peuples du 27 juin 1981,
+
+Réaffirme son adhésion à toutes les Conventions Internationales dûment ratifiées, notamment celle relative à l'interdiction de toute forme de discrimination à l'égard des femmes ainsi que celle relative à la protection des droits de l'enfant.
 
 ## TITRE I DES BASES FONDAMENTALES DE LA SOCIÉTÉ
 
@@ -213,11 +225,12 @@ Les mesures portant atteinte à l'inviolabilité du domicile ou la restreignant 
 La propriété et les biens des personnes ainsi que le patrimoine de la Nation sont inviolables. L'Etat et les collectivités territoriales ainsi que tous les citoyens se doivent de les protéger.
 
 #### Art.15 :
-Tous les citoyens sont égaux devant les charges publiques et notamment devant répartir. Ils supportent, en toute solidarité, les charges résultant des calamités naturelles ou des maladies endémiques, épidémiques ou incurables.
+Tous les citoyens sont égaux devant les charges publiques et notamment devant
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+répartir. Ils supportent, en toute solidarité, les charges résultant des calamités naturelles ou des maladies endémiques, épidémiques ou incurables.
 
 #### Art.16 :
 La défense de la Patrie est un devoir pour tout citoyen.
@@ -371,11 +384,12 @@ Le Président de la République a l'initiative des lois. Il les promulgue dans l
 
 Il peut néanmoins, avant l'expiration de ce délai, demander à l'Assemblée Nationale une nouvelle délibération de la loi ou de certaines de ses dispositions. Cette demande doit être motivée et la nouvelle délibération ne peut être refusée. Elle intervient obligatoirement au cours de la même session. L'adoption, en l'état, du texte soumis à cette nouvelle délibération ne peut
 
-alors intervenir qu'à la majorité qualifiée des deux tiers (2/3) des membres qui composent l'Assemblée Nationale.
+alors intervenir qu'à la majorité qualifiée des deux tiers (2/3) des membres qui composent
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+l'Assemblée Nationale.
 
 Le Président de la République promulgue cette loi dans le mois qui suit la clôture de la session parlementaire.
 
@@ -429,11 +443,12 @@ En cas de condamnation, la décision qui la prononce est transmise par le Prési
 
 En cas de démission, le Président de la République notifie celle-ci par lettre au Président de la Cour Constitutionnelle et en informe la Nation par message.
 
-Le scrutin pour l'élection du nouveau Président doit intervenir quarante-cinq (45) jours au La personnalité exerçant les fonctions de Président de la République à titre provisoire ne peut être candidate à cette élection.
+Le scrutin pour l'élection du nouveau Président doit intervenir quarante-cinq (45) jours au
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+La personnalité exerçant les fonctions de Président de la République à titre provisoire ne peut être candidate à cette élection.
 
 En cas de démission, de destitution, d'empêchement définitif ou de décès, le Président de la République est suppléé par le Président de l'Assemblée Nationale.
 
@@ -545,6 +560,8 @@ Lorsque l'Assemblée Nationale adopte une motion de censure ou lorsqu'elle désa
 
 #### Art.49:
 Le peuple centrafricain élit, au suffrage universel direct, des citoyens qui constituent le PARLEMENT et qui portent le titre de DÉPUTÉ .
+
+Le Parlement de la République Centrafricaine est constitué en une Assemblée unique qui
 
 [[END OF PAGE 15]]
 
