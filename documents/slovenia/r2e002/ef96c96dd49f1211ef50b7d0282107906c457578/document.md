@@ -4,35 +4,35 @@ Opozorilo:  Neuradno  prečiščeno  besedilo  predpisa  predstavlja  zgolj  inf
 
 Neuradno prečiščeno besedilo Zakona o osnovni šoli obsega:
 
--Zakon o osnovni šoli - ZOsn (Uradni list RS, št. 12/96 z dne 29. 2. 1996),
+- Zakon o osnovni šoli – ZOsn (Uradni list RS, št. 12/96 z dne 29. 2. 1996),
 
--Zakon o spremembah zakona o osnovni šoli - ZOsn-A (Uradni list RS, št. 33/97 z dne 6. 6. 1997),
+- Zakon o spremembah zakona o osnovni šoli – ZOsn-A (Uradni list RS, št. 33/97 z dne 6. 6. 1997),
 
--Zakon o spremembah in dopolnitvah zakona o osnovni šoli - ZOsn-B (Uradni list RS, št. 59/01 z dne 19. 7. 2001),
+- Zakon o spremembah in dopolnitvah zakona o osnovni šoli – ZOsn-B (Uradni list RS, št. 59/01 z dne 19. 7. 2001),
 
--Zakon o spremembah in dopolnitvah Zakona o osnovni šoli - ZOsn-C (Uradni list RS, št. 71/04 z dne 30. 6. 2004),
+- Zakon o spremembah in dopolnitvah Zakona o osnovni šoli – ZOsn-C (Uradni list RS, št. 71/04 z dne 30. 6. 2004),
 
--Zakon o osnovni  šoli  -  uradno  prečiščeno  besedilo  -  ZOsn-UPB1  (Uradni  list  RS,  št. 23/05 z dne 10. 3. 2005),
+- Zakon o osnovni šoli – uradno prečiščeno besedilo – ZOsn-UPB1 (Uradni list RS, št. 23/05 z dne 10. 3. 2005),
 
--Zakon o spremembah in dopolnitvah Zakona o osnovni šoli - ZOsn-D (Uradni list RS, št. 53/05 z dne 31. 5. 2005),
+- Zakon o spremembah in dopolnitvah Zakona o osnovni šoli – ZOsn-D (Uradni list RS, št. 53/05 z dne 31. 5. 2005),
 
--Zakon o osnovni  šoli  -  uradno  prečiščeno  besedilo  -  ZOsn-UPB2  (Uradni  list  RS,  št. 70/05 z dne 26. 7. 2005),
+- Zakon o osnovni šoli – uradno prečiščeno besedilo – ZOsn-UPB2 (Uradni list RS, št. 70/05 z dne 26. 7. 2005),
 
--Zakon o spremembah in dopolnitvah Zakona o osnovni šoli - ZOsn-E (Uradni list RS, št. 60/06 z dne 9. 6. 2006),
+- Zakon o spremembah in dopolnitvah Zakona o osnovni šoli – ZOsn-E (Uradni list RS, št. 60/06 z dne 9. 6. 2006),
 
--Zakon o osnovni  šoli  -  uradno  prečiščeno  besedilo  -  ZOsn-UPB3  (Uradni  list  RS,  št. 81/06 z dne 31. 7. 2006),
+- Zakon o osnovni šoli – uradno prečiščeno besedilo – ZOsn-UPB3 (Uradni list RS, št. 81/06 z dne 31. 7. 2006),
 
--Zakon o spremembah in dopolnitvah Zakona o osnovni šoli - ZOsn-F (Uradni list RS, št. 102/07 z dne 9. 11. 2007),
+- Zakon o spremembah in dopolnitvah Zakona o osnovni šoli – ZOsn-F (Uradni list RS, št. 102/07 z dne 9. 11. 2007),
 
--Zakon  o  spremembi  Zakona  o  spremembah  in  dopolnitvah  Zakona  o  osnovni  šoli  ZOsn-G (Uradni list RS, št. 107/10 z dne 29. 12. 2010),
+- Zakon o spremembi Zakona o spremembah in dopolnitvah Zakona o osnovni šoli – ZOsn-G (Uradni list RS, št. 107/10 z dne 29. 12. 2010),
 
--Zakon o spremembah in dopolnitvah Zakona o osnovni šoli - ZOsn-H (Uradni list RS, št. 87/11 z dne 2. 11. 2011),
+- Zakon o spremembah in dopolnitvah Zakona o osnovni šoli – ZOsn-H (Uradni list RS, št. 87/11 z dne 2. 11. 2011),
 
--Zakon  za  uravnoteženje  javnih  financ  -  ZUJF  (Uradni  list  RS,  št.  40/12  z  dne  30.  5. 2012),
+- Zakon za uravnoteženje javnih financ – ZUJF (Uradni list RS, št. 40/12 z dne 30. 5. 2012),
 
--Zakon o spremembah in dopolnitvah Zakona o osnovni šoli - ZOsn-I (Uradni list RS, št. 63/13 z dne 26. 7. 2013),
+- Zakon o spremembah in dopolnitvah Zakona o osnovni šoli – ZOsn-I (Uradni list RS, št. 63/13 z dne 26. 7. 2013),
 
--Zakon  o  spremembah  in  dopolnitvah  Zakona  o  organizaciji  in  financiranju  vzgoje  in izobraževanja - ZOFVI-L (Uradni list RS, št. 46/16 z dne 30. 6. 2016).
+- Zakon o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja – ZOFVI-L (Uradni list RS, št. 46/16 z dne 30. 6. 2016).
 
 # ZAKON o osnovni šoli (ZOsn)
 
@@ -50,7 +50,7 @@ Ta  zakon  ureja  osnovnošolsko  izobraževanje,  ki  ga  izvajajo  javne  in  
 
 [[START OF PAGE 2]]
 
-S tem zakonom se v pravni red Republike Slovenije prenaša Direktiva 77/486/EGS  Evropskega  sveta  z  dne  25.  julija  1977  o  izobraževanju  otrok  delavcev migrantov (UL L št. 199 z dne 6. avgusta 1977, str. 32-33).
+S tem zakonom se v pravni red Republike Slovenije prenaša Direktiva 77/486/EGS Evropskega sveta z dne 25. julija 1977 o izobraževanju otrok delavcev migrantov (UL L št. 199 z dne 6. avgusta 1977, str. 32–33).
 
 #### 2. člen (cilji izobraževanja)
 
@@ -180,9 +180,9 @@ Učenci z učnimi težavami so učenci, ki brez prilagoditev metod in  oblik del
 
 Osnovna šola mora sodelovati z zdravstvenimi zavodi pri izvajanju zdravstvenega varstva učencev, zlasti pri izvedbi obveznih zdravniških pregledov za otroke, vpisane v prvi razred, rednih sistematičnih zdravstvenih pregledov v času šolanja in cepljenj.
 
-## PROGRAM IN ORGANIZACIJA DELA V OSNOVNI ŠOLI
+## II. PROGRAM IN ORGANIZACIJA DELA V OSNOVNI ŠOLI
 
-### Program osnovnošolskega izobraževanja
+### 1. Program osnovnošolskega izobraževanja
 
 #### 14. člen (program osnovne šole)
 
@@ -204,9 +204,7 @@ Obvezni  program  obsega  obvezne  predmete,  izbirne  predmete  in  ure  oddel�
 
 Osnovna  šola  za  vse  učence  izvaja  pouk  iz  naslednjih  obveznih  predmetov: slovenščine  in  italijanščine  ali  madžarščine  na  narodno  mešanih  območjih,  tujega  jezika, zgodovine,  družbe,  geografije,  domovinske  in  državljanske  kulture  in  etike,  matematike, naravoslovja,  spoznavanja  okolja,  naravoslovja  in  tehnike,  kemije,  biologije,  fizike,  likovne umetnosti, glasbene umetnosti, športa, tehnike in tehnologije ter gospodinjstva.
 
-Za  učence  s  posebnimi  potrebami,  ki  so  usmerjeni  v  prilagojeni  izobraževalni program  z  enakovrednim  izobrazbenim  standardom,  šola  poleg  obveznih  predmetov  iz s
-
-prvega odstavka tega člena izvaja še specialno-pedagoške dejavnosti, določene predmetnikom.
+Za učence s posebnimi potrebami, ki so usmerjeni v prilagojeni izobraževalni program z enakovrednim izobrazbenim standardom, šola poleg obveznih predmetov iz prvega odstavka tega člena izvaja še specialno-pedagoške dejavnosti, določene s predmetnikom.
 
 #### 17. člen
 
@@ -214,7 +212,7 @@ prvega odstavka tega člena izvaja še specialno-pedagoške dejavnosti, določen
 
 Poleg  obveznih  predmetov  mora  osnovna  šola  za  učence  7.,  8.  in  9.  razreda izvajati pouk iz izbirnih predmetov.
 
-Šola  mora  ponuditi  pouk  najmanj  treh  izbirnih  predmetov  iz  družboslovnohumanističnega sklopa in najmanj treh iz naravoslovno-tehničnega sklopa. V okviru družboslovno-humanističnega sklopa mora šola ponuditi pouk tujega jezika, nekonfesionalni pouk o verstvih in etiki ter pouk retorike.
+Šola mora ponuditi pouk najmanj treh izbirnih predmetov iz družboslovno-humanističnega sklopa in najmanj treh iz naravoslovno-tehničnega sklopa. V okviru družboslovno-humanističnega sklopa mora šola ponuditi pouk tujega jezika, nekonfesionalni pouk o verstvih in etiki ter pouk retorike.
 
 Učenec izbere dve uri pouka izbirnih predmetov tedensko, lahko pa tudi tri ure, če
 
@@ -232,7 +230,7 @@ Poleg  obveznih  predmetov  osnovna  šola  za  učence  7.,  8.  in  9.  razred
 
 [[START OF PAGE 6]]
 
-Šola ponudi pouk najmanj enega izbirnega predmeta iz družboslovnohumanističnega sklopa in enega iz naravoslovnega sklopa.
+Šola ponudi pouk najmanj enega izbirnega predmeta iz družboslovno-humanističnega sklopa in enega iz naravoslovnega sklopa.
 
 Učenec izbere eno uro pouka izbirnega predmeta tedensko.
 
@@ -318,13 +316,11 @@ Osnovna šola lahko organizira tudi druge dejavnosti, ki jih določi z letnim de
 
 Zasebna šola določi program osnovne šole v skladu s svojimi akti.
 
-Zasebna osnovna šola izvaja pouk iz naslednjih obveznih predmetov: slovenščine in  italijanščine  ali  madžarščine  na  narodno  mešanih  območjih,  matematike,  prvega  tujega enega naravoslovnega  in  enega  družboslovnega  predmeta  in  vsaj  enega  predmeta  s  področja
-
-jezika, zgodovine, domovinske in državljanske kulture in etike, športa, vsaj umetnosti.
+Zasebna osnovna šola izvaja pouk iz naslednjih obveznih predmetov: slovenščine in italijanščine ali madžarščine na narodno mešanih območjih, matematike, prvega tujega jezika, zgodovine, domovinske in državljanske kulture in etike, športa, vsaj enega naravoslovnega in enega družboslovnega predmeta in vsaj enega predmeta s področja umetnosti.
 
 Zasebne šole, ki izvajajo program osnovne šole po posebnih pedagoških načelih (Steiner,  Decroly,  Montessori  ipd.),  lahko  oblikujejo  program  osnovne  šole  ne  glede  na določbo prejšnjega odstavka tega člena v skladu s temi načeli tako, da zagotovijo minimalna znanja, ki omogočajo zaključitev osnovnošolskega izobraževanja.
 
-### Predmetnik in učni načrt
+### 2. Predmetnik in učni načrt
 
 #### 29. člen
 
@@ -338,7 +334,7 @@ in minimalno število ur, potrebnih za uresničevanje učnega načrta.
 
 Ne  glede  na  določbe  prvega  odstavka  tega  člena  lahko  šola  v  posameznem razredu  drugače  razporedi  tedensko  število  ur  pouka  posameznih  predmetov  (fleksibilni predmetnik). Pouk  slovenščine in italijanščine ali  madžarščine  na  narodno  mešanih območjih, matematike, tujega jezika kot obveznega predmeta in športa šola lahko razporedi znotraj obdobja dveh zaporednih tednov.
 
-- S predmetniki prilagojenih programov  se  določijo dejavnosti.
+S predmetniki prilagojenih programov se določijo tudi specialno-pedagoške dejavnosti.
 
 #### 30. člen
 
@@ -346,13 +342,11 @@ Ne  glede  na  določbe  prvega  odstavka  tega  člena  lahko  šola  v  posame
 
 Program zasebne osnovne šole mora pri predmetih iz drugega odstavka 28. člena tega zakona zagotavljati učencem doseganje vsaj enakovrednega izobrazbenega standarda, kot ga zagotavlja program javne osnovne šole.
 
-### Načrtovanje dela v osnovni šoli
+### 3. Načrtovanje dela v osnovni šoli
 
 #### 31. člen (letni delovni načrt)
 
-- Z  letnim  delovnim  načrtom  se  določijo  vsebina,  obseg  in  razporeditev  vzgojnoizobraževalnega  in  drugega  dela  v  skladu  s  predmetnikom  in  učnim  načrtom  in  obseg, vsebina  in  razporeditev  interesnih  in  drugih  dejavnosti,  ki  jih  izvaja  šola.  Določi  se  delo šolske svetovalne službe in drugih služb, delo šolske knjižnice, aktivnosti, s katerimi se šola vključuje v okolje, obseg dejavnosti, s katerimi šola zagotavlja zdrav razvoj učencev, oblike
-
-- tudi  specialno-pedagoške
+Z letnim delovnim načrtom se določijo vsebina, obseg in razporeditev vzgojno-izobraževalnega in drugega dela v skladu s predmetnikom in učnim načrtom in obseg, vsebina in razporeditev interesnih in drugih dejavnosti, ki jih izvaja šola. Določi se delo šolske svetovalne službe in drugih služb, delo šolske knjižnice, aktivnosti, s katerimi se šola vključuje v okolje, obseg dejavnosti, s katerimi šola zagotavlja zdrav razvoj učencev, oblike
 
 [[END OF PAGE 8]]
 
@@ -372,7 +366,7 @@ Osnovna šola na svoji spletni strani predstavi podatke o šoli, značilnosti pr
 
 Predstavitev iz prvega odstavka tega člena je staršem na vpogled v pisni obliki v prostorih šole.
 
-### Organizacija osnovnošolskega izobraževanja
+### 4. Organizacija osnovnošolskega izobraževanja
 
 #### 33. člen (vzgojno-izobraževalna obdobja)
 
@@ -430,7 +424,7 @@ Učenci posameznega razreda so razporejeni v oddelke.
 
 Izjemoma  so  zaradi  majhnega  števila  učenci  dveh  ali več  razredov lahko razporejeni v en kombiniran oddelek.
 
-Če zaradi majhnega števila učencev ni mogoče organizirati pouka po razredih in oddelkih  -  majhne  osnovne  šole,  osnovne  šole  v  zdravstvenih  organizacijah  in  podobno, osnovna šola organizira individualno ali skupinsko vzgojno-izobraževalno delo z učenci.
+Če zaradi majhnega števila učencev ni mogoče organizirati pouka po razredih in oddelkih – majhne osnovne šole, osnovne šole v zdravstvenih organizacijah in podobno, osnovna šola organizira individualno ali skupinsko vzgojno-izobraževalno delo z učenci.
 
 Učenci  enega  ali  več  razredov  ali  oddelkov  so  pri  vzgojno-izobraževalnem  delu lahko razporejeni v učne skupine.
 
@@ -494,7 +488,7 @@ tega zakona, niso obvezne za zasebne šole.
 
 Šola  v  naravi  je  organizirana  oblika  vzgojno-izobraževalnega  dela,  ki  poteka strnjeno  tri  ali  več  dni  izven  prostora  šole.  Za  učence,  ki  se  šole  v  naravi  ne  udeležijo, osnovna šola v tem času organizira primerljive dejavnosti.
 
-### Organizacija pouka
+### 5. Organizacija pouka
 
 #### 40. člen
 
@@ -506,9 +500,7 @@ diferencira delo z učenci glede na njihove zmožnosti.
 
 - V  4.,  5.,  6.  in  7.  razredu  se  pri  slovenščini  in  italijanščini  ali  madžarščini  na narodno mešanih območjih ter pri matematiki in tujem jeziku lahko pouk v obsegu največ ene četrtine ur, namenjenih tem predmetom, organizira v manjših učnih skupinah. Pouk v manjših učnih skupinah se v 4. razredu začne izvajati v mesecu aprilu.
 
-- V  8.  in  9.  razredu  se  pri  slovenščini  in  italijanščini  ali  madžarščini  na  narodno mešanih  območjih  ter  pri  matematiki  in  tujem  jeziku  lahko  pouk  vse  leto  organizira  z
-
-- razporeditvijo učencev v manjše učne skupine.
+V 8. in 9. razredu se pri slovenščini in italijanščini ali madžarščini na narodno mešanih območjih ter pri matematiki in tujem jeziku lahko pouk vse leto organizira z razporeditvijo učencev v manjše učne skupine.
 
 Če  zaradi  majhnega  števila  učencev  ni  mogoče  organizirati  pouka  v  skladu  s prejšnjim odstavkom, učitelj pri pouku in pri drugih oblikah organiziranega dela, delo z učenci diferencira glede na njihove zmožnosti.
 
@@ -522,9 +514,7 @@ diferencira delo z učenci glede na njihove zmožnosti.
 
 (prilagojeni programi)
 
-V  šolah,  ki  izvajajo  prilagojen  izobraževalni  program  z  nižjim  izobrazbenim standardom,  učitelj  od  1.  do  9.  razreda  pri  pouku  vseh  predmetov  in  pri  drugih  oblikah (notranja
-
-organiziranega dela diferencira delo z učenci glede na njihove zmožnosti diferenciacija).
+V šolah, ki izvajajo prilagojen izobraževalni program z nižjim izobrazbenim standardom, učitelj od 1. do 9. razreda pri pouku vseh predmetov in pri drugih oblikah organiziranega dela diferencira delo z učenci glede na njihove zmožnosti (notranja diferenciacija).
 
 [[END OF PAGE 12]]
 
@@ -680,7 +670,7 @@ Učence  s  posebnimi  potrebami  iz  prvega  odstavka  12.  člena  tega  zakon
 
 Učenec,  ki v devetih letih ni končal osnovnošolskega  izobraževanja,  sme nadaljevati šolanje še dve leti in tako obdrži status učenca. Šola učenca in njegove starše posebej seznani s pravico do podaljšanega statusa.
 
-Če  učenec,  ki  ima  podaljšan  status,  z  neprimernim  odnosom  ovira  vzgojnoizobraževalno delo, lahko ravnatelj na predlog učiteljskega zbora ne glede na določilo prvega odstavka tega člena med šolskim letom oziroma ob koncu šolskega leta odloči, da je učenec izključen iz te osnovne šole.
+Če učenec, ki ima podaljšan status, z neprimernim odnosom ovira vzgojno-izobraževalno delo, lahko ravnatelj na predlog učiteljskega zbora ne glede na določilo prvega odstavka tega člena med šolskim letom oziroma ob koncu šolskega leta odloči, da je učenec izključen iz te osnovne šole.
 
 Učenec  iz  prvega  odstavka  tega  člena  obdrži  status  učenca  tudi,  če  nadaljuje šolanje kot odrasel.
 
@@ -802,9 +792,7 @@ pridobi mnenje učiteljskega zbora in sveta staršev.
 
 Učencu  se  lahko  izreče  vzgojni  opomin,  kadar  krši  dolžnosti  in  odgovornosti, določene  z  zakonom,  drugimi  predpisi,  akti  šole  in  ko  vzgojne  dejavnosti  oziroma  vzgojni ukrepi ob predhodnih kršitvah niso dosegli namena.
 
-Vzgojni opomin šola lahko izreče za kršitve, ki so storjene v času pouka, dnevih drugih dejavnosti, ki so opredeljene v letnem delovnem načrtu, hišnem redu, pravilih šolskega reda
-
-dejavnosti in drugih organiziranih oblikah vzgojno-izobraževalne  dejavnosti  ter in drugih aktih šole.
+Vzgojni opomin šola lahko izreče za kršitve, ki so storjene v času pouka, dnevih dejavnosti in drugih organiziranih oblikah vzgojno-izobraževalne dejavnosti ter drugih dejavnosti, ki so opredeljene v letnem delovnem načrtu, hišnem redu, pravilih šolskega reda in drugih aktih šole.
 
 Učencu  lahko  šola  izreče  vzgojni  opomin  v  posameznem  šolskem  letu  največ
 
@@ -836,9 +824,9 @@ Učenec in njegovi starši lahko pisno podajo ugovor razredniku ali šolski svet
 
 Določbe 60.d, 60.e in 60.f člena niso obvezne za zasebne šole.
 
-## PREVERJANJE, OCENJEVANJE IN NAPREDOVANJE UČENCEV
+## V. PREVERJANJE, OCENJEVANJE IN NAPREDOVANJE UČENCEV
 
-### Preverjanje in ocenjevanje
+### 1. Preverjanje in ocenjevanje
 
 #### 61. člen
 
@@ -948,7 +936,7 @@ Ravnatelj najpozneje v treh dneh po prejemu ugovora imenuje komisijo. Med člani
 
 Če  komisija  ugotovi,  da  je  pri  ugotavljanju  dosežka  učenca  pri  nacionalnem preverjanju  znanja  prišlo  do  pisne  ali  računske  napake,  se  postopek  ugotavljanja  dosežka ponovi. Odločitev komisije je dokončna.
 
-### Napredovanje iz razreda v razred
+### 3. Napredovanje iz razreda v razred
 
 #### 69. člen (napredovanje)
 
@@ -1076,9 +1064,7 @@ Osnovna šola izda učencem, ki zaključijo osnovnošolsko izobraževanje, zaklj
 
 V zaključno spričevalo se vpišejo učenčeve ocene iz 9. razreda.
 
-Učencem,  ki  so  končali  prilagojen  izobraževalni  program  z  nižjim  izobrazbenim razreda.  Če  učenec  pri posameznih  predmetih  prehaja  v  izobraževalni  program  osnovne  šole,  se  to  navede  v
-
-standardom,  se  v  zaključno  spričevalo  vpišejo ocene  iz 9. zaključnem spričevalu.
+Učencem, ki so končali prilagojen izobraževalni program z nižjim izobrazbenim standardom, se v zaključno spričevalo vpišejo ocene iz 9. razreda. Če učenec pri posameznih predmetih prehaja v izobraževalni program osnovne šole, se to navede v zaključnem spričevalu.
 
 Učencem,  ki  so  končali  posebni  program  vzgoje  in  izobraževanja,  se  izda zaključno potrdilo z opisno oceno dosežkov učenca. Če se je učenec občasno vključeval v
 
@@ -1214,13 +1200,10 @@ Osnovna šola zbira, obdeluje, shranjuje, posreduje in uporablja podatke, vsebov
 
 Osnovna šola vodi naslednje zbirke podatkov:
 
-- zbirko podatkov o učencih, vpisanih v osnovno šolo, in njihovih starših,
-
-- zbirko  podatkov  o  napredovanju  učencev,  izdanih  spričevalih,  vzgojnih  opominih  in drugih listinah,
-
-- zbirko podatkov o gibalnih sposobnostih in morfoloških značilnostih učencev,
-
-- zbirko podatkov o učencih, ki potrebujejo pomoč oziroma svetovanje.
+1. zbirko podatkov o učencih, vpisanih v osnovno šolo, in njihovih starših,
+2. zbirko podatkov o napredovanju učencev, izdanih spričevalih, vzgojnih opominih in drugih listinah,
+3. zbirko podatkov o gibalnih sposobnostih in morfoloških značilnostih učencev,
+4. zbirko podatkov o učencih, ki potrebujejo pomoč oziroma svetovanje.
 
 Zbirka podatkov iz 1. točke prejšnjega odstavka obsega:
 
@@ -1238,9 +1221,7 @@ Osebni  podatki  iz  3.  točke  prvega  odstavka  tega  člena  se  zbirajo  v 
 
 [[START OF PAGE 30]]
 
-Zbirka podatkov iz 4. točke prvega odstavka tega člena obsega poleg podatkov iz
-
-- in 2. točke prvega odstavka tega člena še:
+Zbirka podatkov iz 4. točke prvega odstavka tega člena obsega poleg podatkov iz 1. in 2. točke prvega odstavka tega člena še:
 
 -družinsko in socialno anamnezo;
 
@@ -1348,7 +1329,7 @@ Z globo od 500 do 1000 eurov se za prekršek kaznuje starše, če:
 
 -izobraževanje njihovega otroka na domu ne poteka v skladu z 89., 90. in 91. členom tega zakona, če gre za razloge na strani staršev.
 
-## Zakon o osnovni šoli - ZOsn (Uradni list RS, št. 12/96)
+## Zakon o osnovni šoli – ZOsn (Uradni list RS, št. 12/96)
 vsebuje naslednje prehodne in končne določbe:
 
 ### »XII. PREHODNE IN KONČNE DOLOČBE
@@ -1449,7 +1430,7 @@ Z uveljavitvijo tega zakona preneha veljati zakon o osnovni šoli (Uradni list S
 
 Ta  zakon  začne  veljati  petnajsti  dan  po  objavi  v  Uradnem  listu  Republike Slovenije.«.
 
-## Zakon  o  spremembah  zakona  o  osnovni  šoli  -  ZOsn-A  (Uradni  list  RS,  št.  33/97)
+## Zakon o spremembah zakona o osnovni šoli – ZOsn-A (Uradni list RS, št. 33/97)
 spreminja 104. člena zakona tako, da se glasi:
 
 #### »104. člen (predmetnik in učni načrt)
@@ -1512,7 +1493,7 @@ ter vsebuje naslednjo končno določbo:
 
 Ta  zakon  začne  veljati  petnajsti  dan  po  objavi  v  Uradnem  listu  Republike Slovenije.«.
 
-## Zakon o spremembah in dopolnitvah zakona o osnovni šoli - ZOsn-B (Uradni list RS, št. 59/01)
+## Zakon o spremembah in dopolnitvah zakona o osnovni šoli – ZOsn-B (Uradni list RS, št. 59/01)
 spreminja 103. člen zakona tako, da se glasi:
 
 #### »103. člen (izpopolnjevanje znanja)
@@ -1581,14 +1562,14 @@ ter vsebuje naslednjo končno določbo:
 
 Ta  zakon  začne  veljati  petnajsti  dan  po  objavi  v  Uradnem  listu  Republike Slovenije.«.
 
-## Zakon o spremembah in dopolnitvah Zakona o osnovni šoli - ZOsn-C (Uradni list RS, št. 71/04)
+## Zakon o spremembah in dopolnitvah Zakona o osnovni šoli – ZOsn-C (Uradni list RS, št. 71/04)
 vsebuje naslednjo končno določbo:
 
 #### »3. člen
 
 Ta  zakon  začne  veljati  naslednji  dan  po  objavi  v  Uradnem  listu  Republike Slovenije.«.
 
-## Zakon o spremembah in dopolnitvah Zakona o osnovni šoli - ZOsn-D (Uradni list RS, št. 53/05)
+## Zakon o spremembah in dopolnitvah Zakona o osnovni šoli – ZOsn-D (Uradni list RS, št. 53/05)
 spreminja 108. člen zakon tako, da se glasi:
 
 #### »108. člen (zaključno preverjanje znanja)
@@ -1611,7 +1592,7 @@ Podzakonski akt iz osmega odstavka 64. člena zakona izda minister najkasneje v 
 
 Ta  zakon  začne  veljati  naslednji  dan  po  objavi  v  Uradnem  listu  Republike Slovenije,  uporabljati  pa  se  začne  1. 9.  2005.  Do  začetka  uporabe  tega  zakona  se uporabljajo določbe Zakona o osnovni šoli (Uradni list RS, št. 12/96, 33/97, 59/01 in 71/04).«.
 
-## Zakon o spremembah in dopolnitvah Zakona o osnovni šoli - ZOsn-E (Uradni list RS, št. 60/06)
+## Zakon o spremembah in dopolnitvah Zakona o osnovni šoli – ZOsn-E (Uradni list RS, št. 60/06)
 vsebuje naslednje prehodne in končne določbe:
 
 ### »PREHODNE IN KONČNE DOLOČBE
@@ -1626,7 +1607,7 @@ Podzakonski akt iz sedmega odstavka 40. člena zakona izda minister najkasneje v
 
 #### 7. člen
 
-Do začetka uporabe tega zakona se uporabljajo določbe Zakona o osnovni šoli (Uradni list RS, št. 70/05 - uradno prečiščeno besedilo).
+Do začetka uporabe tega zakona se uporabljajo določbe Zakona o osnovni šoli (Uradni list RS, št. 70/05 – uradno prečiščeno besedilo).
 
 Z dnem uveljavitve tega zakona preneha veljati Pravilnik o podrobnejših pogojih za organizacijo  nivojskega  pouka  v  9-letni  osnovni  šoli  (Uradni  list  RS,  št.  27/99,  38/99  in 51/03),  določbe  1.,  2.,  3.  in  5. člena  pa  se  uporabljajo  do  zaključka  pouka  v  šolskem  letu 2005/2006.
 
@@ -1634,7 +1615,7 @@ Z dnem uveljavitve tega zakona preneha veljati Pravilnik o podrobnejših pogojih
 
 Ta  zakon  začne  veljati  naslednji  dan  po  objavi  v  Uradnem  listu  Republike Slovenije,  uporabljati  pa  se  začne  1. septembra  2006,  razen  petega  odstavka  40. člena zakona, ki se začne uporabljati naslednji dan po uveljavitvi tega zakona.«.
 
-## Zakon o spremembah in dopolnitvah Zakona o osnovni šoli - ZOsn-F (Uradni list RS, št. 102/07)
+## Zakon o spremembah in dopolnitvah Zakona o osnovni šoli – ZOsn-F (Uradni list RS, št. 102/07)
 vsebuje naslednje prehodne in končne določbe:
 
 [[END OF PAGE 39]]
@@ -1701,7 +1682,7 @@ Pravilnik o prilagajanju šolskih obveznosti (Uradni list RS, št. 89/98) se za 
 
 Ta  zakon  začne  veljati  petnajsti  dan  po  objavi  v  Uradnem  listu  Republike Slovenije, uporabljati pa se začne 1. septembra 2008.«.
 
-## Zakon o spremembi Zakona o spremembah in dopolnitvah Zakona o osnovni šoli ZOsn-G  (Uradni  list  RS,  št.  107/10)  spreminja  47.  člen  Zakona  o  spremembah  in dopolnitvah Zakona o osnovni šoli  - ZOsn-F (Uradni list RS, št.  102/07) tako, da se glasi:
+## Zakon o spremembi Zakona o spremembah in dopolnitvah Zakona o osnovni šoli – ZOsn-G (Uradni list RS, št. 107/10) spreminja 47. člen Zakona o spremembah in dopolnitvah Zakona o osnovni šoli – ZOsn-F (Uradni list RS, št. 102/07) tako, da se glasi:
 
 #### »47. člen (predmetnik in učni načrt)
 
@@ -1727,7 +1708,7 @@ ter vsebuje naslednjo končno določbo:
 
 Ta  zakon  začne  veljati  petnajsti  dan  po  objavi  v  Uradnem  listu  Republike Slovenije.«.
 
-## Zakon o spremembah in dopolnitvah Zakona o osnovni šoli - ZOsn-H (Uradni list RS, št. 87/11) vsebuje naslednje prehodne in končne določbe:
+## Zakon o spremembah in dopolnitvah Zakona o osnovni šoli – ZOsn-H (Uradni list RS, št. 87/11) vsebuje naslednje prehodne in končne določbe:
 
 ### »PREHODNE IN KONČNE DOLOČBE
 
@@ -1753,7 +1734,7 @@ V šolskem letu 2015/2016 se prične izvajati prvi tuji jezik kot obvezen predme
 
 [[START OF PAGE 43]]
 
-Učenci  9.  razreda  v  šolskem  letu  2013/2014  opravljajo  nacionalno  preverjanje znanja  v  skladu  z  Zakonom  o  osnovni  šoli  (Uradni  list  RS,  št.  81/06  -  uradno  prečiščeno besedilo, 102/07 in 107/10).
+Učenci 9. razreda v šolskem letu 2013/2014 opravljajo nacionalno preverjanje znanja v skladu z Zakonom o osnovni šoli (Uradni list RS, št. 81/06 – uradno prečiščeno besedilo, 102/07 in 107/10).
 
 #### 47. člen (razveljavitev)
 
@@ -1787,7 +1768,7 @@ S 1. septembrom 2013 se začnejo uporabljati določbe:
 
 Ta  zakon  začne  veljati  petnajsti  dan  po  objavi  v  Uradnem  listu  Republike Slovenije, uporabljati pa se začne 1. septembra 2012.«.
 
-## Zakon za uravnoteženje javnih financ - ZUJF (Uradni list RS, št. 40/12) spreminja 45. člen Zakona o spremembah in dopolnitvah Zakona o osnovni šoli - ZOsn-H (Uradni list RS, št. 87/11) tako, da se glasi:
+## Zakon za uravnoteženje javnih financ – ZUJF (Uradni list RS, št. 40/12) spreminja 45. člen Zakona o spremembah in dopolnitvah Zakona o osnovni šoli – ZOsn-H (Uradni list RS, št. 87/11) tako, da se glasi:
 
 #### »45. člen (postopno uvajanje prvega tujega jezika v 1. razred)
 
@@ -1801,25 +1782,25 @@ V šolskih letih 2013/2014 in 2014/2015 se uvede postopno uvajanje prvega tujega
 
 V šolskem letu 2015/2016 se prične izvajati prvi tuji jezik kot obvezen predmet v skladu s predmetnikom za vse učence, ki so vpisani v 1. razred.«;
 
-spreminja  46.  člen  Zakona  o  spremembah  in  dopolnitvah  Zakona  o  osnovni  šoli  ZOsn-H (Uradni list RS, št. 87/11) tako, da se glasi:
+spreminja 46. člen Zakona o spremembah in dopolnitvah Zakona o osnovni šoli – ZOsn-H (Uradni list RS, št. 87/11) tako, da se glasi:
 
 #### »46. člen (izvedba nacionalnega preverjanja znanja)
 
-Učenci  9.  razreda  v  šolskem  letu  2013/2014  opravljajo  nacionalno  preverjanje znanja  v  skladu  z  Zakonom  o  osnovni  šoli  (Uradni  list  RS,  št.  81/06  -  uradno  prečiščeno besedilo, 102/07 in 107/10).«;
+Učenci 9. razreda v šolskem letu 2013/2014 opravljajo nacionalno preverjanje znanja v skladu z Zakonom o osnovni šoli (Uradni list RS, št. 81/06 – uradno prečiščeno besedilo, 102/07 in 107/10).«;
 
-spreminja  48.  člen  Zakona  o  spremembah  in  dopolnitvah  Zakona  o  osnovni  šoli  ZOsn-H (Uradni list RS, št. 87/11) tako, da se glasi:
+spreminja 48. člen Zakona o spremembah in dopolnitvah Zakona o osnovni šoli – ZOsn-H (Uradni list RS, št. 87/11) tako, da se glasi:
 
 #### »48. člen (predpisi, ki prenehajo veljati)
 
 31. avgusta 2012 prenehajo veljati Pravilnik o izvajanju diferenciacije pri pouku v osnovni šoli (Uradni list RS, št. 63/06), Pravilnik o vzgojnih opominih v osnovni šoli (Uradni list  RS,  št.  76/08)  in  Pravilnik  o  postopnem  uvajanju  drugega  tujega  jezika  v  osnovni  šoli (Uradni  list  RS,  št.  47/08  in  12/11).  Določbe  12.,  13.  in  14.  člena  Pravilnika  o  postopnem uvajanju drugega tujega jezika v osnovni šoli se uporabljajo do 31. avgusta 2015.«;
 
-spreminja  49.  člen  Zakona  o  spremembah  in  dopolnitvah  Zakona  o  osnovni  šoli  ZOsn-H (Uradni list RS, št. 87/11) tako, da se glasi:
+spreminja 49. člen Zakona o spremembah in dopolnitvah Zakona o osnovni šoli – ZOsn-H (Uradni list RS, št. 87/11) tako, da se glasi:
 
 #### »49. člen (začetek uporabe zakona)
 
-- septembra 2012 se začnejo uporabljati določbe 8., 10., 11., 12., 12.a, 17., 19.a, 26.,  29.,  32.,  petega  odstavka  33.  člena,  36.,  40.,  44.,  49.,  60.f,  65.,  prvega,  drugega  in tretjega odstavka 69. člena, prvega in drugega odstavka 75. člena, 84., 84.a, 86., 87., 89., 90., 91. člena in druga alinea 101. člena zakona.
+1. septembra 2012 se začnejo uporabljati določbe 8., 10., 11., 12., 12.a, 17., 19.a, 26., 29., 32., petega odstavka 33. člena, 36., 40., 44., 49., 60.f, 65., prvega, drugega in tretjega odstavka 69. člena, prvega in drugega odstavka 75. člena, 84., 84.a, 86., 87., 89., 90., 91. člena in druga alinea 101. člena zakona.
 
-- septembra  2013  se  začnejo  uporabljati  določbe  16.,  18.,  18.a,  20.,  20.a, drugega odstavka 28. člena, 38. (razen drugega stavka šestega odstavka), 39.a, 61., 63., 64.,  prvega odstavka 67. člena, prvega in drugega odstavka 35. člena, četrtega in petega odstavka 69. člena, prvega, drugega in tretjega odstavka 83. člena in šesta alinea desetega odstavka 95. člena zakona.«;
+1. septembra 2013 se začnejo uporabljati določbe 16., 18., 18.a, 20., 20.a, drugega odstavka 28. člena, 38. (razen drugega stavka šestega odstavka), 39.a, 61., 63., 64., prvega odstavka 67. člena, prvega in drugega odstavka 35. člena, četrtega in petega odstavka 69. člena, prvega, drugega in tretjega odstavka 83. člena in šesta alinea desetega odstavka 95. člena zakona.«;
 
 [[END OF PAGE 44]]
 
@@ -1839,7 +1820,7 @@ določa tudi:
 
 V  šolskem  letu  2012/2013  evidenca  iz  desetega  odstavka  95.  člena  zakona namesto  zaključnih  ocen  iz  šeste  alinee  desetega  odstavka  95.  člena  zakona  vsebuje zaključne  ocene  učenca  pri  posameznih  predmetih  v  9.  razredu,  pri  predmetih  tehnika  in tehnologija ter državljanska in domovinska vzgoja ter etika pa zaključni oceni iz 8. razreda.
 
-Do  začetka  uporabe  določb  iz  prvega  in  drugega  odstavka  tega  člena  se uporabljajo  določbe  Zakona  o  osnovni  šoli  (Uradni  list  RS,  št.  81/06  -  uradno  prečiščeno besedilo, 102/07 in 107/10).«;
+Do začetka uporabe določb iz prvega in drugega odstavka tega člena se uporabljajo določbe Zakona o osnovni šoli (Uradni list RS, št. 81/06 – uradno prečiščeno besedilo, 102/07 in 107/10).«;
 
 ter vsebuje naslednjo končno določbo:
 
@@ -1849,7 +1830,7 @@ ter vsebuje naslednjo končno določbo:
 
 Ta  zakon  začne  veljati  naslednji  dan  po  objavi  v  Uradnem  listu  Republike Slovenije.«.
 
-## Zakon o spremembah in dopolnitvah Zakona o osnovni šoli - ZOsn-I (Uradni list RS, št. 63/13) spreminja 45. člen Zakona o spremembah in dopolnitvah Zakona o osnovni šoli - ZOsn-H (Uradni list RS, št. 87/11) tako, da se glasi:
+## Zakon o spremembah in dopolnitvah Zakona o osnovni šoli – ZOsn-I (Uradni list RS, št. 63/13) spreminja 45. člen Zakona o spremembah in dopolnitvah Zakona o osnovni šoli – ZOsn-H (Uradni list RS, št. 87/11) tako, da se glasi:
 
 [[END OF PAGE 45]]
 
@@ -1863,23 +1844,23 @@ Načrt  in  pogoje  uvajanja  prvega  tujega  jezika  v  2.  razred  podrobneje 
 
 minister najkasneje do 28. februarja 2014.«;
 
-spreminja  48.  člen  Zakona  o  spremembah  in  dopolnitvah  Zakona  o  osnovni  šoli  ZOsn-H (Uradni list RS, št. 87/11) tako, da se glasi:
+spreminja 48. člen Zakona o spremembah in dopolnitvah Zakona o osnovni šoli – ZOsn-H (Uradni list RS, št. 87/11) tako, da se glasi:
 
 #### »48. člen (predpisi, ki prenehajo veljati)
 
 31. avgusta 2012 prenehajo veljati Pravilnik o izvajanju diferenciacije pri pouku v osnovni šoli (Uradni list RS, št. 63/06), Pravilnik o vzgojnih opominih v osnovni šoli (Uradni list  RS,  št.  76/08)  in  Pravilnik  o  postopnem  uvajanju  drugega  tujega  jezika  v  osnovni  šoli (Uradni  list  RS,  št.  47/08  in  12/11).  Določbe  12.,  13.  in  14.  člena  Pravilnika  o  postopnem uvajanju drugega tujega jezika v osnovni šoli se uporabljajo do 31. avgusta 2016.«;
 
-spreminja  49.  člen  Zakona  o  spremembah  in  dopolnitvah  Zakona  o  osnovni  šoli  ZOsn-H (Uradni list RS, št. 87/11) tako, da se glasi:
+spreminja 49. člen Zakona o spremembah in dopolnitvah Zakona o osnovni šoli – ZOsn-H (Uradni list RS, št. 87/11) tako, da se glasi:
 
 #### »49. člen (začetek uporabe zakona)
 
-- septembra 2012 se začnejo uporabljati določbe 8., 10., 11., 12., 12.a, 17., 19.a, 26.,  29.,  32.,  petega  odstavka  33.  člena,  36.,  40.,  44.,  49.,  60.f,  65.,  prvega,  drugega  in tretjega odstavka 69. člena, prvega in drugega odstavka 75. člena, 84., 84.a, 86., 87., 89., 90., 91. člena in druga alinea 101. člena zakona.
+1. septembra 2012 se začnejo uporabljati določbe 8., 10., 11., 12., 12.a, 17., 19.a, 26., 29., 32., petega odstavka 33. člena, 36., 40., 44., 49., 60.f, 65., prvega, drugega in tretjega odstavka 69. člena, prvega in drugega odstavka 75. člena, 84., 84.a, 86., 87., 89., 90., 91. člena in druga alinea 101. člena zakona.
 
-- septembra  2013  se  začnejo  uporabljati  določbe  16.,  18.,  18.a,  20.,  20.a, drugega  odstavka  28.  člena,  38.  (razen  drugega  stavka  šestega  odstavka),  61.,  63.,  64., prvega  odstavka  67.  člena,  prvega  in  drugega  odstavka  35.  člena,  četrtega  in  petega odstavka 69. člena, prvega, drugega in tretjega odstavka 83. člena in šesta alinea desetega odstavka 95. člena zakona.
+1. septembra 2013 se začnejo uporabljati določbe 16., 18., 18.a, 20., 20.a, drugega odstavka 28. člena, 38. (razen drugega stavka šestega odstavka), 61., 63., 64., prvega odstavka 67. člena, prvega in drugega odstavka 35. člena, četrtega in petega odstavka 69. člena, prvega, drugega in tretjega odstavka 83. člena in šesta alinea desetega odstavka 95. člena zakona.
 
-- septembra 2015 se začne uporabljati 39.a člen zakona.«;
+1. septembra 2015 se začne uporabljati 39.a člen zakona.«;
 
-spreminja 221. člen Zakona za uravnoteženje javnih financ - ZUJF (Uradni list RS, št. 40/12) tako, da se glasi:
+spreminja 221. člen Zakona za uravnoteženje javnih financ – ZUJF (Uradni list RS, št. 40/12) tako, da se glasi:
 
 #### »221. člen
 
@@ -1893,7 +1874,7 @@ spreminja 221. člen Zakona za uravnoteženje javnih financ - ZUJF (Uradni list 
 
 - V  šolskem  letu  2012/2013  evidenca  iz  desetega  odstavka  95.  člena  zakona namesto  zaključnih  ocen  iz  šeste  alinee  desetega  odstavka  95.  člena  zakona  vsebuje zaključne  ocene  učenca  pri  posameznih  predmetih  v  9.  razredu,  pri  predmetih  tehnika  in tehnologija ter državljanska in domovinska vzgoja ter etika pa zaključni oceni iz 8. razreda.
 
-Do  začetka  uporabe  določb  iz  prvega  in  drugega  odstavka  tega  člena  se uporabljajo  določbe  Zakona  o  osnovni  šoli  (Uradni  list  RS,  št.  81/06  -  uradno  prečiščeno besedilo, 102/07 in 107/10).«;
+Do začetka uporabe določb iz prvega in drugega odstavka tega člena se uporabljajo določbe Zakona o osnovni šoli (Uradni list RS, št. 81/06 – uradno prečiščeno besedilo, 102/07 in 107/10).«;
 
 ter vsebuje naslednje prehodne in končne določbe:
 
@@ -1909,7 +1890,7 @@ Zasebne  šole  uskladijo  predmetnike  in  učne  načrte  v  skladu  s  tem  z
 
 #### 22. člen (uvajanje neobveznega izbirnega predmeta)
 
-- septembra  2014  se  začne  uporabljati  20.a  člen  zakona,  in  sicer  postopoma tako, da se v šolskem letu 2014/15 uvede pouk neobveznega izbirnega predmeta za učence 4. in 7. razreda, v šolskem letu 2015/16 za učence 5. in 8. razreda, v šolskem letu 2016/17 pa še za učence 6. in 9. razreda.
+1. septembra 2014 se začne uporabljati 20.a člen zakona, in sicer postopoma tako, da se v šolskem letu 2014/15 uvede pouk neobveznega izbirnega predmeta za učence 4. in 7. razreda, v šolskem letu 2015/16 za učence 5. in 8. razreda, v šolskem letu 2016/17 pa še za učence 6. in 9. razreda.
 
 Ne glede na določbo prejšnjega odstavka se za učence 1. razreda začne izvajati pouk prvega tujega jezika kot neobvezni izbirni predmet v šolskem letu 2015/16.
 
@@ -1929,7 +1910,7 @@ Z  dnem  uveljavitve  tega  zakona  preneha  veljati  Pravilnik  o  postopnem  u
 
 Ta  zakon  začne  veljati  naslednji  dan  po  objavi  v  Uradnem  listu  Republike Slovenije.«.
 
-## Zakon o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja - ZOFVI-L (Uradni list RS, št. 46/16) vsebuje naslednjo končno določbo:
+## Zakon o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja – ZOFVI-L (Uradni list RS, št. 46/16) vsebuje naslednjo končno določbo:
 
 #### »17. člen (začetek veljavnosti in uporabe zakona)
 
