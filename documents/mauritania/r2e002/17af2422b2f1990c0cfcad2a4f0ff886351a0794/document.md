@@ -4,7 +4,7 @@
 
 (avec les projets d'amendements soumis au référendum du 25 juin 2006)
 
-سم لله ب يم ال رحمن ا ال رح
+بسم الله الرحمن الرحيم
 
 ## P R E A M B U L E
 
@@ -110,10 +110,10 @@ Le Président de la République est le Chef de l'Etat. Il est de religion musulm
 ### Article 24 :
 Le Président de la République est le gardien de la Constitution. Il incarne l'Etat. Il assure, par son arbitrage, le fonctionnement continu et régulier des pouvoirs publics. Il est garant de l'indépendance nationale et de l'intégrité du territoire.
 ### Article 25 :
-Le Président de la République exerce le pouvoir exécutif. Il préside le Conseil des Ministres. (nouveau) : Le Président de la République est élu pour cinq ans au suffrage
+Le Président de la République exerce le pouvoir exécutif. Il préside le Conseil des Ministres.
 
-### Article 26
-universel direct.
+### Article 26 (nouveau) :
+Le Président de la République est élu pour cinq ans au suffrage universel direct.
 
 [[END OF PAGE 3]]
 
@@ -274,9 +274,8 @@ Le Président de l'Assemblée Nationale est élu pour la durée de la législatu
 
 ## TITRE IV DES RAPPORTS ENTRE LE POUVOIR LEGISLATIF ET LE POUVOIR EXECUTIF
 
-### Article 56
-
-: La loi est votée par le Parlement.
+### Article 56 :
+La loi est votée par le Parlement.
 
 ### Article 57 :
 Sont du domaine de la loi :
@@ -324,10 +323,8 @@ Les projets et propositions de lois sont à la demande du Gouvernement ou de l'A
 
 Les projets et propositions pour lesquels une telle demande n'a pas été faite sont envoyés à l'une des commissions permanentes dont le nombre est limité à cinq (5) dans chaque Assemblée.
 
-: Après l'ouverture du débat, le Gouvernement peut s'opposer à l'examen de tout
-
-### Article 65
-amendement qui n'a pas été antérieurement soumis à la commission.
+### Article 65 :
+Après l'ouverture du débat, le Gouvernement peut s'opposer à l'examen de tout amendement qui n'a pas été antérieurement soumis à la commission.
 
 Si le Gouvernement le demande, l'Assemblée saisie se prononce par un seul vote sur tout ou partie du texte en discussion en ne retenant que les amendements proposés ou acceptés par lui.
 
@@ -368,9 +365,9 @@ L'ordre du jour des Assemblées comporte, par priorité et dans l'ordre que le G
 Une séance par semaine est réservée par priorité aux questions des membres du Parlement et aux réponses du Gouvernement.
 
 ### Article 70 :
-Le Président de la République promulgue les lois dans un délai de huit (8) jours au plus tôt et de trente (30) jours au plus tard suivant la transmission qui lui est faite par le Parlement. loi pour une deuxième lecture. Si l'Assemblée Nationale se prononce pour l'adoption à la majorité de ses membres, la loi est promulguée et publiée dans le délai prévu à l'alinéa
+Le Président de la République promulgue les lois dans un délai de huit (8) jours au plus tôt et de trente (30) jours au plus tard suivant la transmission qui lui est faite par le Parlement.
 
-Le Président de la République peut, pendant ce délai, renvoyer le projet ou la proposition de précédent.
+Le Président de la République peut, pendant ce délai, renvoyer le projet ou la proposition de loi pour une deuxième lecture. Si l'Assemblée Nationale se prononce pour l'adoption à la majorité de ses membres, la loi est promulguée et publiée dans le délai prévu à l'alinéa précédent.
 
 ### Article 71 :
 L'état de siège et l'état d'urgence sont décrétés par le Président de la République pour une durée maximale de trente (30) jours. Cette durée peut être prorogée par le Parlement. Celui-ci se réunit de plein droit s'il n'est pas en session.
