@@ -7,12 +7,13 @@ Avd. I Lover og sentrale forskrifter mv.
 Utgitt i henhold til lov 19. juni 1969 nr. 53.
 
 Kunngjort 21. juni 2019 kl. 17.35
+PDF-versjon 21. juni 2019
 
 21.06.2019 nr. 60
 
 # Lov om endringar i opplæringslova, folkehøgskolelova, friskolelova m.m. (plikt til å tilby skoletur med overnatting, skolebyte for elevar i vidaregåande opplæring, opplæring i kvensk, samansetjing av yrkesopplæringsnemnder, politiattest i vidaregåande skole m.m.)
 
-Prop.88 L (2018-2019), Innst.298 L (2018-2019), Lovvedtak 68 (2018-2019). Stortingets første og andre gongs behandling hv. 4. og 11. juni 2019. Fremja av Kunnskapsdepartementet.
+Prop.88 L (2018–2019), Innst.298 L (2018–2019), Lovvedtak 68 (2018–2019). Stortingets første og andre gongs behandling hv. 4. og 11. juni 2019. Fremja av Kunnskapsdepartementet.
 
 Endringar i følgjande lover:
 
@@ -37,8 +38,6 @@ Når minst tre elevar med kvensk/norskfinsk bakgrunn ved grunnskolar i Troms og 
 § 2-12 tredje ledd skal lyde:
 
 For private grunnskolar gjeld også §§ 2-2, 2-5 første, andre, tredje og sjette ledd, 2-11, 8-2, 9-1, 9-2, 9-3, 9-4, 9-5, 9-6, 9-7, kapittel 9 A, §§ 10-1, 10-2, 10-6, 10-6a, 10-9, 11-1, 11-2, 11-4, 11-7, 11-10, 13-3b, 13-5, 13-7a, 13-10, 14-1, 14-4, 15-3 og 15-4.
-
-PDF-versjon 21. juni 2019
 
 For ev. rettelser se nederst i den elektroniske versjonen: https://lovdata.no/LTI/lov/2019-06-21-60
 
@@ -86,7 +85,7 @@ Personar som er dømde for seksuelle overgrep mot mindreårige, kan ikkje tilset
 
 § 12-3 andre ledd skal lyde:
 
-Nemnda skal ha medlemmer med personlege varamedlemmer som til saman skal ha brei innsikt i heile fag- og yrkesopplæringa og i nærings- og sysselsetjingsspørsmål. Det skal i alle høve nemnast opp medlemmer frå partane i arbeidslivet etter forslag frå arbeidstakarorganisasjonane og etter forslag frå arbeidsgivarorganisasjonane. Alle organisasjonar som er representerte i organ for samarbeid om fag- og yrkesopplæringa jf. § 12-1, har rett til å vere representerte i nemnda. Partane i arbeidslivet skal ha fleirtal i nemnda. Dessutan skal det nemnast opp minst éin representant for elevar, lærlingar, praksisbrevkandidatar eller lærekandidatar etter forslag frå organisasjonar eller organ som representerer desse. Fylkeskommunen kan be lærarorganisasjonane om forslag til medlemmer i nemnda.
+Nemnda skal ha medlemmer med personlege varamedlemmer som til saman skal ha brei innsikt i heile fag- og yrkesopplæringa og i nærings- og sysselsetjingsspørsmål. Det skal i alle høve nemnast opp medlemmer frå partane i arbeidslivet etter forslag frå arbeidstakarorganisasjonane og etter forslag frå arbeidsgivarorganisasjonane. Alle organisasjonar som er representerte i organ for samarbeid om fag- og yrkesopplæringa jf. § 12-1, har rett til å vere representerte i nemnda. Partane i arbeidslivet skal ha fleirtal i nemnda. Dessutan skal det nemnast opp minst éin representant for elevar, lærlingar, praksisbrevkandidatar
 
 For ev. rettelser se nederst i den elektroniske versjonen: https://lovdata.no/LTI/lov/2019-06-21-60
 
@@ -95,6 +94,8 @@ For ev. rettelser se nederst i den elektroniske versjonen: https://lovdata.no/LT
 [[START OF PAGE 3]]
 
 3
+
+eller lærekandidatar etter forslag frå organisasjonar eller organ som representerer desse. Fylkeskommunen kan be lærarorganisasjonane om forslag til medlemmer i nemnda.
 
 Ny § 13-7 b skal lyde:
 
@@ -150,7 +151,7 @@ For yrker som omfattes av lov 2. juli 1999 nr. 64 om helsepersonell m.v. og lov 
 
 § 20 første ledd skal lyde:
 
-Den ansvarlige myndigheten skal innen tre dager varsle ansvarlige myndigheter i samtlige øvrige EØSstater om en yrkesutøver har fått begrenset retten til å utøve yrket av nasjonale myndigheter eller domstoler, både midlertidig og permanent. Dette gjelder for yrkesutøvere som utøver et lovregulert yrke med opplæring av mindreårige, herunder barnehage.
+Den ansvarlige myndigheten skal innen tre dager varsle ansvarlige myndigheter i samtlige øvrige EØS-stater om en yrkesutøver har fått begrenset retten til å utøve yrket av nasjonale myndigheter eller domstoler, både midlertidig og permanent. Dette gjelder for yrkesutøvere som utøver et lovregulert yrke med opplæring av mindreårige, herunder barnehage.
 
 ## V
 
