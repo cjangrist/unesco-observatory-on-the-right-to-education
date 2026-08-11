@@ -40,7 +40,7 @@ Os artigos 11. o , 12. o , 13. o , 31. o e 59. o da Lei n. o 46/86, de 14 de Out
 
 - e ) Suscitar o desejo permanente de aperfeiçoamento cultural e profissional e possibilitar a correspondente concretização, integrando os conhecimentos que vão sendo adquiridos numa estrutura intelectual sistematizadora do conhecimento de cada geração, na lógica de educação ao longo da vida e de investimento geracional e intergeracional, visando realizar a unidade do processo formativo;
 
-- f ) Estimular o conhecimento dos problemas do mundo de hoje, num horizonte de globalidade, emparticular os nacionais, regionais e europeus, prestar serviços especializados à comunidade e estabelecer com esta uma relação de reciprocidade;
+- f ) Estimular o conhecimento dos problemas do mundo de hoje, num horizonte de globalidade, em particular os nacionais, regionais e europeus, prestar serviços especializados à comunidade e estabelecer com esta uma relação de reciprocidade;
 
 - g ) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . h ) Promover e valorizar a língua e a cultura portuguesas;
 
@@ -240,11 +240,9 @@ o
 
 3 - . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .»
 
-o
-
-#### Aditamento à Lei n. 46/86, de 14 de Outubro
-
 ### Artigo 2. o
+
+#### Aditamento à Lei n. o 46/86, de 14 de Outubro
 
 São aditados os artigos 13. o -A, 13. o -B e 13. o -C à Lei n. o 46/86, de 14 de Outubro (Lei de Bases do Sistema Educativo), alterada pela Lei n. o 115/97, de 19 de Setembro, com a seguinte redacção:
 
@@ -324,7 +322,7 @@ recursos humanos e organizativos necessários à realização de investigação 
 
 #### Alteração à Lei n. o 37/2003, de 22 de Agosto
 
-O artigo 16. o da Lei n. o 37/2003, de 22 de Agosto (estabelece as fases do financiamento do ensino superior), passa a ter a seguinte redacção:
+O artigo 16. o da Lei n. o 37/2003, de 22 de Agosto (estabelece as bases do financiamento do ensino superior), passa a ter a seguinte redacção:
 
 ##### «Artigo 16. o
 
@@ -342,7 +340,7 @@ O artigo 16. o da Lei n. o 37/2003, de 22 de Agosto (estabelece as fases do fina
 
 - 6 - O valor da propina devida pela inscrição nos restantes programas de estudos é fixado pelos órgãos a que se refere o artigo 17. o
 
-- 7 (Anterior n. o 4.)
+- 7 - (Anterior n. o 4.)
 
 - 8 - Sempre que as universidades, os institutos politécnicos e os estabelecimentos de ensino superior não integrados e as respectivas unidades orgânicas com auto-
 
@@ -362,7 +360,7 @@ Promulgada em 14 de Agosto de 2005.
 
 Publique-se.
 
-OPresidente da República, JORGE SAMPAIO.
+O Presidente da República, JORGE SAMPAIO.
 
 Referendada em 18 de Agosto de 2005.
 
@@ -412,7 +410,7 @@ DIÁRIO DA REPÚBLICA - I SÉRIE-A
 
 - a ) O Estado não pode atribuir-se o direito de programar a educação e a cultura segundo quaisquer directrizes filosóficas, estéticas, políticas, ideológicas ou religiosas;
 
-- b ) Oensino público não será confessional;
+- b ) O ensino público não será confessional;
 
 - c ) É garantido o direito de criação de escolas particulares e cooperativas.
 
@@ -424,7 +422,7 @@ DIÁRIO DA REPÚBLICA - I SÉRIE-A
 
 ###### Princípios organizativos
 
-Osistema educativo organiza-se de forma a:
+O sistema educativo organiza-se de forma a:
 
 - a ) Contribuir para a defesa da identidade nacional e para o reforço da fidelidade à matriz histórica de Portugal, através da consciencialização relativamente ao património cultural do povo português, no quadro da tradição universalista europeia e da crescente interdependência e necessária solidariedade entre todos os povos do mundo;
 
@@ -528,7 +526,7 @@ N. o 166 - 30 de Agosto de 2005
 
 ###### Universalidade
 
-- 1 - Oensino básico é universal, obrigatório e gratuito e tem a duração de nove anos.
+- 1 - O ensino básico é universal, obrigatório e gratuito e tem a duração de nove anos.
 
 - 2 - Ingressam no ensino básico as crianças que completem 6 anos de idade até 15 de Setembro.
 
@@ -592,9 +590,9 @@ DIÁRIO DA REPÚBLICA - I SÉRIE-A
 
 - a ) No 1. o ciclo, o ensino é globalizante, da responsabilidade de um professor único, que pode ser coadjuvado em áreas especializadas;
 
-- c ) No 3. o ciclo, o ensino organiza-se segundo um plano curricular unificado, integrando áreas vocacionais diversificadas, e desenvolve-se em regime de um professor por disciplina ou grupo de disciplinas.
-
 - b ) No 2. o ciclo, o ensino organiza-se por áreas interdisciplinares de formação básica e desenvolve-se predominantemente em regime de professor por área;
+
+- c ) No 3. o ciclo, o ensino organiza-se segundo um plano curricular unificado, integrando áreas vocacionais diversificadas, e desenvolve-se em regime de um professor por disciplina ou grupo de disciplinas.
 
 - 2 - A articulação entre os ciclos obedece a uma sequencialidade progressiva, conferindo a cada ciclo a função de completar, aprofundar e alargar o ciclo anterior, numa perspectiva de unidade global do ensino básico.
 
@@ -602,9 +600,9 @@ DIÁRIO DA REPÚBLICA - I SÉRIE-A
 
 - a ) Para o 1. o ciclo, o desenvolvimento da linguagem oral e a iniciação e progressivo domínio da leitura e da escrita, das noções essenciais da aritmética e do cálculo, do meio físico e social e das expressões plástica, dramática, musical e motora;
 
-- c ) Para o 3. o ciclo, a aquisição sistemática e diferenciada da cultura moderna, nas suas dimensões humanística, literária, artística, física e desportiva, científica e tecnológica, indispensável ao ingresso na vida activa e ao prosseguimento de estudos, bem como a orientação escolar e profissional que faculte a opção de formação subsequente ou de inserção na vida activa, com respeito pela realização autónoma da pessoa humana.
-
 - b ) Para o 2. o ciclo, a formação humanística, artística, física e desportiva, científica e tecnológica e a educação moral e cívica, visando habilitar os alunos a assimilar e interpretar crítica e criativamente a informação, de modo a possibilitar a aquisição de métodos e instrumentos de trabalho e de conhecimento que permitam o prosseguimento da sua formação, numa perspectiva do desenvolvimento de atitudes activas e conscientes perante a comunidade e os seus problemas mais importantes;
+
+- c ) Para o 3. o ciclo, a aquisição sistemática e diferenciada da cultura moderna, nas suas dimensões humanística, literária, artística, física e desportiva, científica e tecnológica, indispensável ao ingresso na vida activa e ao prosseguimento de estudos, bem como a orientação escolar e profissional que faculte a opção de formação subsequente ou de inserção na vida activa, com respeito pela realização autónoma da pessoa humana.
 
 - 4 - Em escolas especializadas do ensino básico podem ser reforçadas componentes de ensino artístico
 
@@ -620,7 +618,7 @@ ou de educação física e desportiva, sem prejuízo da formação básica.
 
 ###### Objectivos
 
-Oensino secundário tem por objectivos:
+O ensino secundário tem por objectivos:
 
 - a ) Assegurar o desenvolvimento do raciocínio, da reflexão e da curiosidade científica e o aprofundamento dos elementos fundamentais de uma cultura humanística, artística, científica e técnica que constituam suporte cognitivo e metodológico apropriado para o eventual prosseguimento de estudos e para a inserção na vida activa;
 
@@ -688,7 +686,7 @@ e profissionalizante e de língua e cultura portuguesas adequadas à natureza do
 
 - e ) Suscitar o desejo permanente de aperfeiçoamento cultural e profissional e possibilitar a correspondente concretização, integrando os conhecimentos que vão sendo adquiridos numa estrutura intelectual sistematizadora do conhecimento de cada geração, na lógica de educação ao longo da vida e de investimento geracional e intergeracional, visando realizar a unidade do processo formativo;
 
-- f ) Estimular o conhecimento dos problemas do mundo de hoje, num horizonte de globalidade, emparticular os nacionais, regionais e europeus, prestar serviços especializados à comunidade e estabelecer com esta uma relação de reciprocidade;
+- f ) Estimular o conhecimento dos problemas do mundo de hoje, num horizonte de globalidade, em particular os nacionais, regionais e europeus, prestar serviços especializados à comunidade e estabelecer com esta uma relação de reciprocidade;
 
 - g ) Continuar a formação cultural e profissional dos cidadãos pela promoção de formas adequadas de extensão cultural;
 
@@ -810,7 +808,7 @@ as condições para que os cursos existentes e a criar correspondam globalmente 
 
 11 - Só podem conferir um dado grau académico numa determinada área os estabelecimentos de ensino superior que disponham de um corpo docente próprio, qualificado nessa área, e dos demais recursos humanos e materiais que garantam o nível e a qualidade da formação adquirida.
 
-12 - Só podem conferir o grau de doutor numa determinada área os estabelecimentos de ensino superior universitário que, para além das condições a que se refere o número anterior, demonstrem possuir, nessa área, os recursos humanos e organizativos necessários à realização de investigação e uma experiência acumulada nesse domínio sujeita a avaliação e concretizada numa produção científica e académica relevantes.
+12 - Só podem conferir o grau de doutor numa determinada área os estabelecimentos de ensino superior universitário que, para além das condições a que se refere o número anterior, demonstrem possuir, nessa área, os recursos humanos e organizativos necessários à reali-
 
 [[END OF PAGE 8]]
 
@@ -821,6 +819,8 @@ as condições para que os cursos existentes e a criar correspondam globalmente 
 DIÁRIO DA REPÚBLICA - I SÉRIE-A
 
 N. o 166 - 30 de Agosto de 2005
+
+zação de investigação e uma experiência acumulada nesse domínio sujeita a avaliação e concretizada numa produção científica e académica relevantes.
 
 ##### Artigo 15. o
 
@@ -874,15 +874,15 @@ N. o 166 - 30 de Agosto de 2005
 
 - 1 - Constituem modalidades especiais de educação escolar:
 
-- a ) Aeducação especial;
+- a ) A educação especial;
 
-- b ) Aformação profissional;
+- b ) A formação profissional;
 
-- c ) Oensino recorrente de adultos;
+- c ) O ensino recorrente de adultos;
 
-- d ) Oensino a distância;
+- d ) O ensino a distância;
 
-- e ) Oensino português no estrangeiro.
+- e ) O ensino português no estrangeiro.
 
 - 2 - Cada uma destas modalidades é parte integrante da educação escolar, mas rege-se por disposições especiais.
 
@@ -898,9 +898,9 @@ N. o 166 - 30 de Agosto de 2005
 
 - a ) O desenvolvimento das potencialidades físicas e intelectuais;
 
-- b ) Aajuda na aquisição da estabilidade emocional;
+- b ) A ajuda na aquisição da estabilidade emocional;
 
-- c ) Odesenvolvimento das possibilidades de comunicação;
+- c ) O desenvolvimento das possibilidades de comunicação;
 
 - d ) A redução das limitações provocadas pela deficiência;
 
@@ -1240,7 +1240,7 @@ N. o 166 - 30 de Agosto de 2005
 
 ###### Regionalização
 
-Oplaneamento e reorganização da rede escolar, assim como a construção e manutenção dos edifícios escolares e seu equipamento, devem assentar numa política de regionalização efectiva, com definição clara das competências dos intervenientes, que, para o efeito, devem contar com os recursos necessários.
+O planeamento e reorganização da rede escolar, assim como a construção e manutenção dos edifícios escolares e seu equipamento, devem assentar numa política de regionalização efectiva, com definição clara das competências dos intervenientes, que, para o efeito, devem contar com os recursos necessários.
 
 ##### Artigo 42. o
 
@@ -1294,7 +1294,7 @@ Oplaneamento e reorganização da rede escolar, assim como a construção e manu
 
 - f ) Os centros regionais de recursos educativos.
 
-3 - Para o apoio e complementaridade dos recursos educativos existentes nas escolas e ainda com o objectivo de racionalizar o uso dos meios disponíveis será incentivada a criação de centros regionais que disponham de recursos apropriados e de meios que permitam criar outros, de acordo com as necessidades de inovação educativa.
+3 - Para o apoio e complementaridade dos recursos educativos existentes nas escolas e ainda com o objectivo
 
 [[END OF PAGE 13]]
 
@@ -1305,6 +1305,8 @@ N. o 166 - 30 de Agosto de 2005
 DIÁRIO DA REPÚBLICA - I SÉRIE-A
 
 5135
+
+de racionalizar o uso dos meios disponíveis será incentivada a criação de centros regionais que disponham de recursos apropriados e de meios que permitam criar outros, de acordo com as necessidades de inovação educativa.
 
 ##### Artigo 45. o
 
@@ -1574,7 +1576,7 @@ O regime de transição do sistema actual para o previsto na presente lei consta
 
 1 - Serão tomadas medidas no sentido de dotar os ensinos básico e secundário com docentes habilitados profissionalmente, mediante modelos de formação inicial conformes com o disposto na presente lei, de forma a tornar desnecessária a muito curto prazo a contratação em regime permanente de professores sem habilitação profissional.
 
-2 - Será organizado um sistema de profissionalização em exercício para os docentes devidamente habilitados actualmente em exercício ou que venham a ingressar no ensino de modo a garantir-lhes uma formação profissional equivalente à ministrada nas instituição de formação inicial para os respectivos níveis de ensino.
+2 - Será organizado um sistema de profissionalização em exercício para os docentes devidamente habilitados actualmente em exercício ou que venham a ingressar no ensino de modo a garantir-lhes uma for-
 
 [[END OF PAGE 16]]
 
@@ -1585,6 +1587,8 @@ O regime de transição do sistema actual para o previsto na presente lei consta
 DIÁRIO DA REPÚBLICA - I SÉRIE-A
 
 N. o 166 - 30 de Agosto de 2005
+
+mação profissional equivalente à ministrada nas instituição de formação inicial para os respectivos níveis de ensino.
 
 - 3 - Na determinação dos contingentes a estabelecer para os cursos de formação inicial de professores a entidade competente deve ter em consideração a relação entre o número de professores habilitados já em exercício e a previsão de vagas disponíveis no termo de um período transitório de cinco anos.
 
@@ -1630,7 +1634,7 @@ O artigo 134. o do Código do Imposto sobre o Rendimento das Pessoas Singulares,
 
 ###### Dever de fiscalização em especial
 
-Afiscalização em especial das disposições do presente Código rege-se pelo disposto no artigo 63. o da lei geral tributária, aprovada pelo Decreto-Lei n. o 398/98, de 17 de Dezembro, e no Regime Complementar do Procedimento de Inspecção Tributária, aprovado pelo Decreto-Lei n. o 413/98, de 31 de Dezembro.»
+A fiscalização em especial das disposições do presente Código rege-se pelo disposto no artigo 63. o da lei geral tributária, aprovada pelo Decreto-Lei n. o 398/98, de 17 de Dezembro, e no Regime Complementar do Procedimento de Inspecção Tributária, aprovado pelo Decreto-Lei n. o 413/98, de 31 de Dezembro.»
 
 ### Artigo 2. o
 
@@ -1642,19 +1646,49 @@ Os artigos 4. o , 69. o e 125. o do Código do Imposto sobre o Rendimento das Pe
 
 [. . .]
 
-- d ) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . e ) Incrementos patrimoniais derivados de aquisições a título gratuito respeitantes a:
+1 - ..........................................
 
-- Direitos reais sobre bens imóveis situados em território português;
+2 - ..........................................
 
-- Bens móveis registados ou sujeitos a registo em Portugal;
+3 - ..........................................
 
-- Partes representativas do capital e outros valores mobiliários cuja entidade emitente tenha sede ou direcção efectiva em território português;
+- a ) .........................................
 
-- Direitos de propriedade industrial, direitos de autor e direitos conexos registados ou sujeitos a registo em Portugal;
+- b ) .........................................
 
-- Direitos de crédito sobre entidades com residência, sede ou direcção efectiva em território português;
+- c ) .........................................
 
-- Partes representativas do capital de sociedades que não tenham sede ou direcção efectiva em território português e cujo activo seja predominantemente constituído por direitos reais sobre imóveis situados no referido território.
+1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+6) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+7) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+8) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- d ) .........................................
+
+- e ) Incrementos patrimoniais derivados de aquisições a título gratuito respeitantes a:
+
+1) Direitos reais sobre bens imóveis situados em território português;
+
+2) Bens móveis registados ou sujeitos a registo em Portugal;
+
+3) Partes representativas do capital e outros valores mobiliários cuja entidade emitente tenha sede ou direcção efectiva em território português;
+
+4) Direitos de propriedade industrial, direitos de autor e direitos conexos registados ou sujeitos a registo em Portugal;
+
+5) Direitos de crédito sobre entidades com residência, sede ou direcção efectiva em território português;
+
+6) Partes representativas do capital de sociedades que não tenham sede ou direcção efectiva em território português e cujo activo seja predominantemente constituído por direitos reais sobre imóveis situados no referido território.
 
 4 - . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
