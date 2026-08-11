@@ -18,7 +18,7 @@ L'enseignement supérieur et la recherche scientifique sont fondés sur les prin
 L'enseignement  supérieur  œuvre  à  la  poursuite  du  développement  de  l'enseignement  en  langue arabe dans les différents domaines de formation tout en permettant au besoin d'être dispensé en langues  étrangères ;  comme  il  œuvre  à  la  promotion  des  langues  nationales :  Pular,  Soninké  et Wolof.
 
 #### Article 2 :
-La politique nationale en d'enseignement supérieur et de recherche scientifique relève de la  responsabilité  de  l'Etat  qui  en  assure  la  planification,  l'organisation,  le  développement    la régulation  et  l'orientation  selon  les  besoins  économiques,  sociaux  et  culturels  du  pays,  avec  le concours  de  la  communauté  scientifique,  et  des  partenaires  économiques  et  sociaux.  L'action  de l'Etat  s'exerce,  entre  autres,  par  le  moyen  de  contrats  programmes  avec  les  établissements d'enseignement supérieur et/ou de recherche scientifique.
+La politique nationale en matière d'enseignement supérieur et de recherche scientifique relève de la responsabilité de l'Etat qui en assure la planification, l'organisation, le développement, la régulation et l'orientation selon les besoins économiques, sociaux et culturels du pays, avec le concours de la communauté scientifique, et des partenaires économiques et sociaux. L'action de l'Etat s'exerce, entre autres, par le moyen de contrats programmes avec les établissements d'enseignement supérieur et/ou de recherche scientifique.
 
 Le contrat programme définit, dans le cadre de la politique nationale d'enseignement supérieur et de recherche scientifique, les obligations et les résultats à atteindre par les établissements d'enseignement supérieur et/ou de recherche scientifique et les moyens correspondants.
 
@@ -27,7 +27,7 @@ L'enseignement supérieur et la recherche scientifique ont pour objectifs :
 
  La formation des compétents et leur promotion ainsi que le développement et la diffusion des connaissances dans tous les domaines du savoir, en vue d'assurer à tous le bénéfice du progrès de la science ;
 
- La valorisation, la vulgarisation du patrimoine culturel national et l'encrage des valeurs islamiques ;
+ La valorisation, la vulgarisation du patrimoine culturel national et l'ancrage des valeurs islamiques ;
 
 [[END OF PAGE 1]]
 
@@ -38,17 +38,19 @@ L'enseignement supérieur et la recherche scientifique ont pour objectifs :
 - La maîtrise et le développement des sciences, des techniques et du savoir-faire par la recherche et l'innovation.
 
 #### Article 4 :
-L'enseignement supérieur et la recherche scientifique sont liés de telle manière que l'un participe au développement de l'autre. Ils sont organisés au sein des établissements d'enseignement supérieur et/ou de recherche scientifique. L'enseignement  supérieur  comprend  l'enseignement  supérieur  public  et  l'enseignement  supérieur privé.  L'enseignement  supérieur  est  assuré  dans  les  universités  ainsi  que  dans  les  établissements d'enseignement  supérieur  ne  relevant  pas  des  universités.  Il  est  dispensé  en  mode  présentiel  ou distance aux titulaires, au moins, du baccalauréat mauritanien ou de diplômes équivalents. Les  activités  de  recherche  scientifique  sont  entreprises  par  les  établissements  d'enseignement supérieur et de recherche et les établissements de recherche scientifique.
+L'enseignement supérieur et la recherche scientifique sont liés de telle manière que l'un participe au développement de l'autre. Ils sont organisés au sein des établissements d'enseignement supérieur et/ou de recherche scientifique. L'enseignement supérieur comprend l'enseignement supérieur public et l'enseignement supérieur privé. L'enseignement supérieur est assuré dans les universités ainsi que dans les établissements d'enseignement supérieur ne relevant pas des universités. Il est dispensé en mode présentiel ou à distance aux titulaires, au moins, du baccalauréat mauritanien ou de diplômes équivalents. Les activités de recherche scientifique sont entreprises par les établissements d'enseignement supérieur et de recherche et les établissements de recherche scientifique.
 
 #### Article  5 :
-Les  enseignements  dispensés  dans  les  établissements  d'enseignement  supérieur  sont organisés  en  cycles  et  filières.  Ils  sont  sanctionnés  par  des  diplômes  nationaux  ou  des  diplômes délivrés dans le cadre de partenariats. L'enseignement  supérieur  comporte  l'ensemble  des  parcours  de  formation  qui  font  suite  au Baccalauréat  mauritanien  ou  diplôme  admis  en  équivalence.  En  dehors  des  études  spécifiées  au paragraphe  suivant.  Il  est  organisé  en  trois  cycles  aboutissant  chacun  à  un  diplôme  universitaire selon le système Licence-Master-doctorat (LMD). Les études d'ingénierie, de médecine, de pharmacie, de stomatologie, de médecine vétérinaire, les études  dans  les  établissements  supérieurs  professionnels  et  certaines  études  spécifiques  dans  les établissements d'enseignements supérieurs sont organisées en cycles qui tiennent compte de leurs propres particularités et conformément aux normes internationales en vigueur. Pour chaque établissement, la durée de chaque cycle et l'intitulé des diplôme correspondants sont fixés par arrêté du Ministre chargé de l'enseignement supérieur ou par arrêté conjoint du Ministre chargé de l'enseignement supérieur et du Ministre concerné le cas échéant, après avis conforme du conseil national de l'enseignement et de la recherche scientifique, objet du titre V de la présente loi. Les  enseignements  doivent  baser  l'acquisition  des  modules  sur  des  évaluations  régulières  en permettant à l'étudiant de capitaliser les modules acquis.
+Les enseignements dispensés dans les établissements d'enseignement supérieur sont organisés en cycles et filières. Ils sont sanctionnés par des diplômes nationaux ou des diplômes délivrés dans le cadre de partenariats. L'enseignement supérieur comporte l'ensemble des parcours de formation qui font suite au Baccalauréat mauritanien ou diplôme admis en équivalence. En dehors des études spécifiées au paragraphe suivant. Il est organisé en trois cycles aboutissant chacun à un diplôme universitaire selon le système Licence-Master-doctorat (LMD). Les études d'ingénierie, de médecine, de pharmacie, de stomatologie, de médecine vétérinaire, les études dans les établissements supérieurs professionnels et certaines études spécifiques dans les établissements d'enseignements supérieurs sont organisées en cycles qui tiennent compte de leurs propres particularités et conformément aux normes internationales en vigueur. Pour chaque établissement, la durée de chaque cycle et l'intitulé des diplômes correspondants sont fixés par arrêté du Ministre chargé de l'enseignement supérieur ou par arrêté conjoint du Ministre chargé de l'enseignement supérieur et du Ministre concerné le cas échéant, après avis conforme du conseil national de l'enseignement supérieur et de la recherche scientifique, objet du titre V de la présente loi. Les enseignements doivent baser l'acquisition des modules sur des évaluations régulières en permettant à l'étudiant de capitaliser les modules acquis.
 
 #### Article 6 :
-Les  conditions  d'accès  aux  cycles  et  filières,  le  régime  des  études,  les  modalités d'évaluation et les conditions d'obtention des diplômes sont fixés par arrêté du Ministre chargé de l'enseignement supérieur ou par arrêté conjoint du Ministre chargé de l'enseignement supérieur et du  ministre  concerné  le  cas  échéant,  après  avis  conforme  du  conseil  national  de  l'enseignement supérieur et de la recherche scientifique.
+Les conditions d'accès aux cycles et filières, le régime des études, les modalités d'évaluation et les conditions d'obtention des diplômes sont fixés par arrêté du Ministre chargé de
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+l'enseignement supérieur ou par arrêté conjoint du Ministre chargé de l'enseignement supérieur et du ministre concerné le cas échéant, après avis conforme du conseil national de l'enseignement supérieur et de la recherche scientifique.
 
 #### Article 7 :
 Les établissements dispensant des formations sanctionnées par un diplôme d'enseignement supérieur rendent publique des statistiques comportant les indicateurs de réussite aux examens et aux diplômes, de poursuite d'études et d'insertion professionnelle des étudiants.
@@ -56,7 +58,7 @@ Les établissements dispensant des formations sanctionnées par un diplôme d'en
 #### Article  8 :
 Le  système  d'enseignement  supérieur  et  de  recherche  scientifique  est  soumis,  dans  sa globalité,  à  une  évaluation  régulière  du  conseil  national  de  l'enseignement  supérieur  et  de  la recherche  scientifique,  portant  sur  son  efficacité  interne  et  externe  et  touchant  tous  les  aspects administratifs, pédagogiques, scientifiques, de recherche et de gouvernance.
 
-Le  Conseil  National  de  l'Enseignement  Supérieur  et  de  la  Scientifique  peut  recourir  à  l'expertise nationale ou étrangère pour mener à bien ses évaluations.
+Le Conseil National de l'Enseignement Supérieur et de la Recherche Scientifique peut recourir à l'expertise nationale ou étrangère pour mener à bien ses évaluations.
 
 ## Titre II : De l'Enseignement Supérieur Public
 
@@ -94,10 +96,10 @@ Les Universités Publiques ont pour mission principale de :
  Contribuer au rayonnement scientifique et culturel du pays.
 
 #### Article  12 :
-Les  Universités  Publiques  sont  pluridisciplinaires  et  peuvent,  le  cas  échéant,  être spécialisées.  Elles  regroupent  des  établissements  d'enseignement,  de  formation  et  de  recherche dénommés établissements universitaires ainsi que des services d'université et des services communs. Sont considérés au sens de la présente loi, comme établissements universités, les facultés, les écoles, les instituts et les centres qui relèvent de l'université.
+Les Universités Publiques sont pluridisciplinaires et peuvent, le cas échéant, être spécialisées. Elles regroupent des établissements d'enseignement, de formation et de recherche dénommés établissements universitaires ainsi que des services d'université et des services communs. Sont considérés au sens de la présente loi, comme établissements universitaires, les facultés, les écoles, les instituts et les centres qui relèvent de l'université.
 
 #### Article  13 :
-Les  Universités  Publiques  peuvent  assurer  par  voie  de  convention  des  prestations  de services  à  titre  onéreux,  exploiter  des  brevets  et  licences  et  commercialiser  les  produits  d  leurs activités.
+Les Universités Publiques peuvent assurer par voie de convention des prestations de services à titre onéreux, exploiter des brevets et licences et commercialiser les produits de leurs activités.
 
 Elles peuvent également, pour certaines activités de formation et de recherche, passer des contrats avec les institutions et entreprises publiques et privés.
 
@@ -109,22 +111,28 @@ Cet organe présente un rapport annuel au conseil d'administration, objet de l'a
 #### Article 15 :
 L'Université Publique est administrée par un Conseil d'Administration qui comprend des membres  de  droit, des représentants élus du personnel enseignant et de recherche, des représentants élus du personnel administratif, technique et de service, des représentants élus des étudiants ainsi que des personnalités extérieures.
 
-La composition, le fonctionnement et les modalités de désignation des membres non élus du Conseil d'Administration  de  l'Université  Publique  sont  fixés  par  décret.  Les  modalités  d'élection  des membres élus au Conseil d'Administration de l'Université sont définies par le règlement intérieur de l'univercité. Le Conseil d'Administration de l'Université Publique désigne en son sein un comité de gestion chargé des questions administratives et financières comprenant, outre le Président du Conseil d'Administration qui le préside, 4 membres. Le Conseil d'Administration de l'Université Publique crée en son sein un Conseil de Discipline et crée des commissions spéciales le cas échéant.
+La composition, le fonctionnement et les modalités de désignation des membres non élus du Conseil d'Administration de l'Université Publique sont fixés par décret. Les modalités d'élection des
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
+membres élus au Conseil d'Administration de l'Université sont définies par le règlement intérieur de l'université.
+
+Le Conseil d'Administration de l'Université Publique désigne en son sein un comité de gestion chargé des questions administratives et financières comprenant, outre le Président du Conseil d'Administration qui le préside, 4 membres.
+
+Le Conseil d'Administration de l'Université Publique crée en son sein un Conseil de Discipline et crée des commissions spéciales le cas échéant.
+
 La composition, les attributions et le fonctionnement du conseil de discipline sont fixés par arrêté du Ministre chargé de l'enseignement supérieur.
 
 #### Article  16 :
-Le  Conseil  d'Administration  délibère  sur  toutes  les  questions  relatives  aux  missions  de bonne marche de l'Université. A cet effet il :
+Le Conseil d'Administration délibère sur toutes les questions relatives aux missions et à la bonne marche de l'Université. A cet effet il :
 
 - Vote le budget et approuve les comptes ;
 
 - Approuve  les  accords  et  les  conventions  notamment  ceux  passés  avec  les  établissements d'enseignement supérieur et de recherche publics ou privés, nationaux ou étrangers ;
 
-- Approuve les projets de création de composantes et de structures universitaires et donne son avis sur les demandes d'accréditation d filières de formation et des organes de recherche ;
+- Approuve les projets de création de composantes et de structures universitaires et donne son avis sur les demandes d'accréditation de filières de formation et des organes de recherche ;
 
 - Approuve le projet de contrat programme de l'université ;
 
@@ -135,10 +143,10 @@ Le  Conseil  d'Administration  délibère  sur  toutes  les  questions  relative
 - Approuve  le  rapport  annuel  d'activités  qui  comprend  un  bilan  et  un  projet  présenté  par  le président
 
 #### Article  17 :
-Un  Conseil  Pédagogique  et  Scientifique  est  chargé  au  sein  de  chaque  université  de  la coordination, du suivi et de l'évaluation des aspects scientifiques, académique, pédagogiques et de recherche. La composition, les attributions et le fonctionnement de ce conseil sont fixés par décret.
+Un Conseil Pédagogique et Scientifique est chargé au sein de chaque université de la coordination, du suivi et de l'évaluation des aspects scientifiques, académiques, pédagogiques et de recherche. La composition, les attributions et le fonctionnement de ce conseil sont fixés par décret.
 
 #### Article 18 :
-L'Université Publique est dirigée par un président nommé par décret, par les enseignants chercheurs, pour une période de quatre ans renouvelable une seule fois. Les critères et procédures des sélections du président sont fixés par décret.
+L'Université Publique est dirigée par un président nommé par décret, parmi les enseignants chercheurs, pour une période de quatre ans renouvelable une seule fois. Les critères et procédures de sélection du président sont fixés par décret.
 
 Le président de l'université exerce le pouvoir disciplinaire sur le personnel de l'université conformément aux dispositions de la présente loi et de ses textes d'application.
 
@@ -198,16 +206,16 @@ Les  établissements  universitaires  sont  gérés  par  des  Conseils  d'Etabl
 
 Le  doyen  et  le  directeur  sont  nommés  par  le  Conseil  d'Administration  de  l'université  suite  à  leur élection par le Conseil de leur établissement respectif. Les compétences, les conditions d'éligibilité et les modalités du scrutin du doyen et du directeur sont fixées par décret.
 
-Le  doyen  et  le  directeur  sont  respectivement  assistés  par  un  vice-doyen  et  un  directeur  adjoint nommés par le conseil d'administration de l'université sur proposition du doyen ou du directeur. Les mandats du vice-doyen et du directeur adjoint cessent avec ceux du doyen et du directeur. Ils sont assistés  également  par  des  secrétaires  généraux  nommés  par  arrêté  du  ministre  chargé  de l'enseignement supérieur. Dans le cas où le Doyen ou le Directeur cesse ses fonctions, pour quelque cause que ce soit, le vice-
+Le doyen et le directeur sont respectivement assistés par un vice-doyen et un directeur adjoint nommés par le conseil d'administration de l'université sur proposition du doyen ou du directeur. Les mandats du vice-doyen et du directeur adjoint cessent avec ceux du doyen et du directeur. Ils sont assistés également par des secrétaires généraux nommés par arrêté du ministre chargé de l'enseignement supérieur.
 
-doyen ou le directeur  adjoint  assure  l'intérim.  La  procédure  de  sélection  d'un  nouveau  Doyen  ou Directeur est aussitôt engagée.
+Dans le cas où le Doyen ou le Directeur cesse ses fonctions, pour quelque cause que ce soit, le vice-doyen ou le directeur adjoint assure l'intérim. La procédure de sélection d'un nouveau Doyen ou Directeur est aussitôt engagée.
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
 #### Article  23 :
-Le  doyen  ou  le  directeur  assure  le  fonctionnement  de  l'établissement  universitaire  et coordonne l'ensemble de ses activités conformément au règlement intérieur de l'université. Il  préside  le  Conseil  de  l'établissement  et  arrêté  l'ordre  du  jour  dans  les  conditions  fixées  par  le règlement intérieur de ce Conseil. Il  gère  l'ensemble  des  personnels  affectés  à  l'établissement,  veille  au  bon  déroulement  des enseignements,  de  la  recherche  et  des  évaluations  pédagogiques,  et  prend  toutes  mesures appropriées à cette fin. Il  veille,  sous  la  supervision  du  président  de  l'université,  au  respect  de  la  législation  et  de  la réglementation en vigueur et du règlement intérieur de l'université dans l'enceinte de l'établissement et peut prendre dans ce cadre toutes les mesures que les circonstances exigent. Il  est  ordonnateur  du  budget  de  l'établissement  dans  les  limites  fixées  par  la  présente  loi  et  ses textes d'application.
+Le doyen ou le directeur assure le fonctionnement de l'établissement universitaire et coordonne l'ensemble de ses activités conformément au règlement intérieur de l'université. Il préside le Conseil de l'établissement et arrête l'ordre du jour dans les conditions fixées par le règlement intérieur de ce Conseil. Il gère l'ensemble des personnels affectés à l'établissement, veille au bon déroulement des enseignements, de la recherche et des évaluations pédagogiques, et prend toutes mesures appropriées à cette fin. Il veille, sous la supervision du président de l'université, au respect de la législation et de la réglementation en vigueur et du règlement intérieur de l'université dans l'enceinte de l'établissement et peut prendre dans ce cadre toutes les mesures que les circonstances exigent. Il est ordonnateur du budget de l'établissement dans les limites fixées par la présente loi et ses textes d'application.
 
 #### Article  24 :
 Le  Conseil  de  l'Etablissement  comprend  des  membres  de  droit,  des  personnalités extérieures  représentant  le  milieu  socio-économique,  des  représentants  élus  des  enseignants chercheurs  et/ou  chercheurs,  des  personnels  administratifs,  techniques  et  de  service  et  des représentants élus des étudiants. La composition des conseils d'établissements et les modalités de leur fonctionnement sont fixées par décret.
@@ -218,9 +226,9 @@ Le Conseil d'établissement :
 
 -propose les projets de création des départements de formation, des laboratoires et centres de recherche ;
 
--exerce le  pouvoir disciplinaires  à  l'égard  des  étudiants  conformément  aux  dispositions  du décret de création de l'établissement ;
+-exerce le pouvoir disciplinaire à l'égard des étudiants conformément aux dispositions du décret de création de l'établissement ;
 
--propose au Conseil d'Administration de l'Université toute réforme des formations assurées au sein de l'établissement, toutes les mesures propres à améliorer l'insertion professionnelle  des  diplômes  ainsi  que  les  mesures  visant  à  améliorer  l'orientation  et  la formation des étudiants ;
+-propose au Conseil d'Administration de l'Université toute réforme des formations assurées au sein de l'établissement, toutes les mesures propres à améliorer l'insertion professionnelle des diplômés ainsi que les mesures visant à améliorer l'orientation et la formation des étudiants ;
 
 -prend toutes mesures à améliorer la gestion de l'établissement et garantir la qualité de la formation et de la recherche ;
 
@@ -231,16 +239,16 @@ Le Conseil d'établissement :
 [[START OF PAGE 9]]
 
 #### Article 25 :
-Chaque établissement universitaire comprend un Conseil Pédagogique, Scientifique et de Recherche, un Conseil de Discipline et le cas échéant des commissions ad hoc. Le  Conseil  Pédagogique,  Scientifique  et  de  Recherche  est  chargé  de  proposer  toutes  mesures relatives aux questions scientifiques, pédagogiques, académiques et de recherche. La  composition,  les  attributions  et  le  fonctionnement  du  Conseil  Pédagogique,  Scientifique  et  de Recherche sont fixés par décret. Le Conseil de discipline est chargé de faire respecter les règles de conduite régissant les étudiants et de veiller à la police générale ans l'établissement. Ses attributions, sa composition et les règles de
+Chaque établissement universitaire comprend un Conseil Pédagogique, Scientifique et de Recherche, un Conseil de Discipline et le cas échéant des commissions ad hoc. Le Conseil Pédagogique, Scientifique et de Recherche est chargé de proposer toutes mesures relatives aux questions scientifiques, pédagogiques, académiques et de recherche. La composition, les attributions et le fonctionnement du Conseil Pédagogique, Scientifique et de Recherche sont fixés par décret. Le Conseil de discipline est chargé de faire respecter les règles de conduite régissant les étudiants et de veiller à la police générale dans l'établissement. Ses attributions, sa composition et les règles de
 
 procédures disciplinaires sont fixées par arrêté du ministre chargé de l'enseignement supérieur.
 
 ### Chapitre 3 : Des Etablissements Publics d'Enseignement Supérieur ne relevant pas des Universités
 
 #### Article  26 :
-Les  Etablissements  Publics  d'Enseignement  Supérieur  ne  relevant  pas  des  Universités sont créés par décret sous forme d'écoles ou d'instituts. Ce sont des établissements publics dotés de la  personnalisé  morale  et  jouissant  de  l'autonomie  administrative,  financière  et  pédagogique,  qui participent  avec  les  Universités  à  l'effort  national  d'accueil  et  de  formation  des  étudiants  et  de recherche. Ces établissements sont soumis, en matière de formation, de recherche et de gestion de carrière des enseignants  chercheurs,  chercheurs  et  enseignants  technologues  aux  normes  fixées  par  le  Conseil National de l'Enseignement Supérieur et de la Recherche Scientifique, objet du titre V de la présente loi.
+Les Etablissements Publics d'Enseignement Supérieur ne relevant pas des Universités sont créés par décret sous forme d'écoles ou d'instituts. Ce sont des établissements publics dotés de la personnalité morale et jouissant de l'autonomie administrative, financière et pédagogique, qui participent avec les Universités à l'effort national d'accueil et de formation des étudiants et de recherche. Ces établissements sont soumis, en matière de formation, de recherche et de gestion de carrière des enseignants chercheurs, chercheurs et enseignants technologues aux normes fixées par le Conseil National de l'Enseignement Supérieur et de la Recherche Scientifique, objet du titre V de la présente loi.
 
-Ces établissements ont pour mission principales
+Ces établissements ont pour missions principales
 
 -d'assurer la formation initiale et la formation continue dans les domaines relatifs au secteur dont ils relèvent ;
 
@@ -279,7 +287,7 @@ Les  délibérations  du  conseil  d'administration  de  l'établissement  relat
 
 Le Conseil d'Administration de l'établissement désigne en son sein un comité de gestion chargé des questions administratives et financières comprenant, outre le président du Conseil d'Administration qui le préside, 4 membres.
 
-Le  Conseil  d'Administration  de  l'établissement  créé en  son  sein  un  Conseil  de  Discipline  et,  le  cas échéant, des commissions ad hoc.
+Le Conseil d'Administration de l'établissement crée en son sein un Conseil de Discipline et, le cas échéant, des commissions ad hoc.
 
 La composition, les attributions et le fonctionnement du Conseil de Discipline sont fixés par arrêté du Ministre de tutelle.
 
@@ -289,7 +297,7 @@ Au sein de chaque établissement, un Conseil Pédagogique Scientifique et de Rec
 La composition, les attributions et le fonctionnement de ce conseil sont fixés par décret.
 
 #### Article  29 :
-Les  Etablissements  Publics  d'Enseignement  Supérieur  ne  relevant  pas  des  Universités sont  dirigés  par  des  directeurs  nommés  parmi  les  enseignants  chercheurs  par  décret  pour  une période de quatre ans renouvelable une seule fois. Les sélectons des directeurs sont fixés par décret.
+Les Etablissements Publics d'Enseignement Supérieur ne relevant pas des Universités sont dirigés par des directeurs nommés parmi les enseignants chercheurs par décret pour une période de quatre ans renouvelable une seule fois. Les critères et procédures de sélection des directeurs sont fixés par décret.
 
 Le Directeur assure le fonctionnement de l'établissement et coordonne l'ensemble de ses activités. Il est  ordonnateur  du  budget  de  l'établissement.  Il  gère  l'ensemble  des  personnels  affectés  à l'établissement, veille au bon déroulement des enseignements et des évaluations pédagogiques et prend toutes les mesures appropriées à cette fin.
 
@@ -370,7 +378,7 @@ L'établissement  privé  d'enseignement  supérieur  est  dirigé  par  un  pr�
 #### Article 40 :
 L'établissement privé d'enseignement supérieur doit disposer d'enseignants chercheurs dont les qualifications sont en rapport avec la nature des formations qu'il dispense. Ses enseignants permanents et contractuels doivent représenter au moins 50% de son personnel enseignant. Un  cahier  de  charges,  établi  par  arrêté  du  Ministre  chargé  de  l'enseignement  supérieur,  fixe  les ressources à mobiliser par l'établissement privé d'enseignement supérieur ainsi que les conditions d'études pour chaque cycle et filière autorisés.
 #### Article 41 :
-Tous les documents émanent de l'établissement privé d'enseignement supérieur doivent comporter l'expression « établissement privé » en caractères identiques à ceux utilisés pour le nom proprement dit. Ils  doivent  également comporter  les  numéros  et  dates  d'autorisation  d'ouverture et/ou d'agrément accordés par le Ministre chargé de l'enseignement supérieur. Ces établissements ne  peuvent  porter  les  mêmes  noms  que  ceux  donnés  aux  établissements  publics  d'enseignement supérieur. Les  publicités  concernant  les  établissements  privés  d'enseignement  supérieur  ne  doivent  pas comporter  des  renseignements  de  nature  à  induire  en  erreur  les  étudiants,  leurs  parents  ou l'ensemble  des  usagers  notamment  sur  la  nature  des  études,  leurs  durées  et  les  débouchés éventuels. Il est interdit à tout établissement privé n'ayant pas obtenu les autorisations de création, d'ouverture et d'accréditation de filières visées à l'article 35 de la présente loi d'utiliser des termes de nature à faire croire que ledit établissement assure un enseignement supérieur.
+Tous les documents émanant de l'établissement privé d'enseignement supérieur doivent comporter l'expression « établissement privé » en caractères identiques à ceux utilisés pour le nom proprement dit. Ils doivent également comporter les numéros et dates d'autorisation d'ouverture et/ou d'agrément accordés par le Ministre chargé de l'enseignement supérieur. Ces établissements ne peuvent porter les mêmes noms que ceux donnés aux établissements publics d'enseignement supérieur. Les publicités concernant les établissements privés d'enseignement supérieur ne doivent pas comporter des renseignements de nature à induire en erreur les étudiants, leurs parents ou l'ensemble des usagers notamment sur la nature des études, leurs durées et les débouchés éventuels. Il est interdit à tout établissement privé n'ayant pas obtenu les autorisations de création, d'ouverture et d'accréditation de filières visées à l'article 35 de la présente loi d'utiliser des termes de nature à faire croire que ledit établissement assure un enseignement supérieur.
 
 [[END OF PAGE 13]]
 
@@ -422,14 +430,14 @@ Les établissements publics de recherche scientifique sont dotés d'un Conseil d
 Ont pour charge de réaliser les activités de recherche au sein des établissements publics de recherche scientifique, les chercheurs, les enseignants chercheurs, les personnels contractuels et les personnels détachés soumis à la législation en vigueur.
 
 #### Article  49 :
-Les  établissements  privés  de  recherche  scientifique  sont  crées  sur  autorisation  du Ministre  de  tutelle  après  avis  conforme  du  conseil  national  de  l'enseignement  supérieur  et  de  la recherche scientifique. Les conditions d'attribution ou de retrait de cette autorisation sont fixées par arrêté du Ministre de tutelle  sur  avis  conforme  du  conseil  national  de  l'enseignement  supérieur  et  de  la  recherche scientifique. Une  autorisation  du  Ministre  de  tutelle  est  exigée,  après  avis  conforme  du  conseil  national  de l'enseignement supérieur et de la recherche scientifique, en cas de modification touchant la nature
+Les établissements privés de recherche scientifique sont créés sur autorisation du Ministre de tutelle après avis conforme du conseil national de l'enseignement supérieur et de la recherche scientifique. Les conditions d'attribution ou de retrait de cette autorisation sont fixées par arrêté du Ministre de tutelle sur avis conforme du conseil national de l'enseignement supérieur et de la recherche scientifique. Une autorisation du Ministre de tutelle est exigée, après avis conforme du conseil national de l'enseignement supérieur et de la recherche scientifique, en cas de modification touchant la nature
 
 des activités ou la vocation de l'établissement privé de recherche scientifique.
 
 ## Titre V : Du Conseil National de l'Enseignement Supérieur et de la Recherche Scientifique
 
 #### Article 50 :
-Il  est crée, auprès du Ministre chargé de l'enseignement supérieur, un organe consultatif dénommé  « Conseil  National  de  l'Enseignement  Supérieur  et  de  la  Recherche  Scientifique »  qui donne son avis sur toutes les questions pédagogiques, des politiques et stratégies de développement de l'enseignement supérieur et de la recherche scientifique.
+Il est créé, auprès du Ministre chargé de l'enseignement supérieur, un organe consultatif dénommé « Conseil National de l'Enseignement Supérieur et de la Recherche Scientifique » qui donne son avis sur toutes les questions pédagogiques, des politiques et stratégies de développement de l'enseignement supérieur et de la recherche scientifique.
 
 [[END OF PAGE 15]]
 
@@ -437,7 +445,7 @@ Il  est crée, auprès du Ministre chargé de l'enseignement supérieur, un orga
 
 A cet effet, il donne son avis sur :
 
- l'orientation et la coordination de l'enseignement supérieur et de recherche scientifique ;
+ l'orientation et la coordination de l'enseignement supérieur et de la recherche scientifique ;
 
  la création des établissements d'enseignement supérieur et/ou de recherche scientifique ;
 
@@ -449,7 +457,7 @@ A cet effet, il donne son avis sur :
 
  les normes et critères de qualité de l'enseignement supérieur et de la recherche scientifique ;
 
- l'évaluation  des  filières  d'enseignement,  les  organes  de  recherche  et  les  établissements d'enseignement supérieur et/ou de recherche scientifique ;
+ l'évaluation des filières d'enseignement, des organes de recherche et des établissements d'enseignement supérieur et/ou de recherche scientifique ;
 
  la détermination des normes nationales relatives à la carrière des enseignants du supérieur et  des  chercheurs, et  l'application  de  ces  normes  par  les  différents  établissements  publics d'enseignement supérieur ;
 
@@ -500,7 +508,7 @@ Est  chargé  des  œuvres  universitaires,  un  centre  national  ayant  statut
 L'organisation  et  le  fonctionnement  du  centre  national  des  œuvres  universitaires,  placé  sous  la tutelle du ministre chargé de l'enseignement supérieur, sont fixés par décret.
 
 #### Article  61:
-Le  centre  national  des  œuvres  universitaires,  à  pour  mission  de  fournir  les  prestations sociales aux étudiants des établissements publics de l'enseignement supérieur sur le sol national. Il veille à adapter ces prestations aux besoins de leurs études. A cet effet, il peut produire ou vendre des biens et/ou services. Il est notamment chargé de gérer :
+Le centre national des œuvres universitaires, a pour mission de fournir les prestations sociales aux étudiants des établissements publics de l'enseignement supérieur sur le sol national. Il veille à adapter ces prestations aux besoins de leurs études. A cet effet, il peut produire ou vendre des biens et/ou services. Il est notamment chargé de gérer :
 
  Les bourses et les aides sociales ;
 
@@ -516,14 +524,14 @@ Le  centre  national  des  œuvres  universitaires,  à  pour  mission  de  four
 
  Le transport universitaire
 
-Pour mener à bien, le centre national des œuvres universitaires peut faire appel, dans le cadre de contrats et marchés précis, aux prestations d'opérateurs privés.
+Pour mener à bien ses missions, le centre national des œuvres universitaires peut faire appel, dans le cadre de contrats et marchés précis, aux prestations d'opérateurs privés.
 
 ## Titre IX : Des Mesures Incitatives
 
 #### Article 62 :
 Les établissements d'enseignement supérieur et/ou de recherche scientifique bénéficient d'incitations  fiscales  et  non  fiscales  particulières  pour  leurs  opérations  d'acquisitions  de  biens d'équipement et de biens immeubles nécessaires à l'exercice de leur mission.
 
-Un système fiscal approprié et incitatif est mis en place d'encourager les institutions d'enseignement supérieur et/ou de recherche scientifique.
+Un système fiscal approprié et incitatif est mis en place afin d'encourager les institutions d'enseignement supérieur et/ou de recherche scientifique.
 
 Les  mesures  incitatives  prévues  aux  alinéas  ci-dessus  sont  accordées  dans  le  cadre  de  la  loi  des finances et de contrats passés entre l'Etat et les établissements bénéficiaires qui sont soumis à une évaluation périodique de leurs résultats pédagogiques, de recherche, de leur gestion administrative et financière et de leur gouvernance.
 
@@ -551,7 +559,7 @@ Les  établissements  publics  d'enseignement  supérieur  et/ou  de  recherche 
 Sont  abrogées  toutes  les  dispositions  antérieures  contraires  à  celles  de  la  présente  loi notamment  celles  de  l'ordonnance  N°2006-007  du  20  février  2006  portant  organisation  de l'enseignement supérieur.
 
 #### Article 68 :
-La présente loi sera publiée au Journal Officiel de République Islamique de Mauritanie et exécutée comme loi de l'Etat.
+La présente loi sera publiée au Journal Officiel de la République Islamique de Mauritanie et exécutée comme loi de l'Etat.
 
 # 1.5 LOI 92.018  DU 7 DÉCEMBRE 1992  FIXANT LES FÊTES LÉGALES EN MAURITANIE
 
@@ -581,7 +589,7 @@ Les fêtes légales sont chômées et payées
 [[START OF PAGE 20]]
 
 ## ART  3 :
-En  outres  et  si  des  circonstances  particulieres  le  justifiant,  le  Président  de  la  République pourra par décret, déclarer fériées et chômées d'autres journées ou partie de journée au cours de la même année.
+En outre et si des circonstances particulières le justifient, le Président de la République pourra par décret, déclarer fériées et chômées d'autres journées ou partie de journée au cours de la même année.
 
 Le décret précisera si la journée ou partie de journée chômée sera récupérée ou exceptionnellement payée.
 
@@ -589,6 +597,6 @@ Le décret précisera si la journée ou partie de journée chômée sera récup�
 Sont abrogées toutes dispositions antérieures contraires.
 
 ## ART 5 :
-La présente loi sera publiée suivant la procédure d'urgence et exécuter comme loi de l'Etat.
+La présente loi sera publiée suivant la procédure d'urgence et exécutée comme loi de l'Etat.
 
 [[END OF PAGE 20]]
