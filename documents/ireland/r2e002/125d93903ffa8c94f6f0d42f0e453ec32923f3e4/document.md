@@ -16,45 +16,39 @@ Number 14 of
 
 [[START OF PAGE 3]]
 
-Section
-
-- Definition
-
-- Amendment of section 2 of Act of 1998
-
-- Amendment of section 9 of Act of 1998
-
-- Amendment of section 10 of Act of 1998
-
-- Amendment of section 15 of Act of 1998
-
-- Amendment of section 23 of Act of 1998
-
-- Appeals
-
-- Additional provision in respect of children with special educational needs
-
-- Admission to schools
-
-- Amendment of Education (Welfare) Act 2000
-
-- Amendment of Equal Status Act 2000
-
-- Repeals
-
-- Short title, collective citation and commencement
-
-Number
-
-14
-
-of
-
-2018
+Number 14 of 2018
 
 # EDUCATION (ADMISSION TO SCHOOLS) ACT 2018
 
 ## CONTENTS
+
+Section
+
+1. Definition
+
+2. Amendment of section 2 of Act of 1998
+
+3. Amendment of section 9 of Act of 1998
+
+4. Amendment of section 10 of Act of 1998
+
+5. Amendment of section 15 of Act of 1998
+
+6. Amendment of section 23 of Act of 1998
+
+7. Appeals
+
+8. Additional provision in respect of children with special educational needs
+
+9. Admission to schools
+
+10. Amendment of Education (Welfare) Act 2000
+
+11. Amendment of Equal Status Act 2000
+
+12. Repeals
+
+13. Short title, collective citation and commencement
 
 1
 
@@ -69,6 +63,23 @@ Education (Admission to Schools) Act 2018.
 [2018.]
 
 ## ACTS REFERRED TO
+
+Arbitration Act 2010 (No. 1)
+Child and Family Agency Act 2013 (No. 40)
+Child Care Act 1991 (No. 17)
+Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010 (No. 24)
+Education (Amendment) Act 2012 (No. 14)
+Education (Miscellaneous Provisions) Act 2007 (No. 9)
+Education (Welfare) Act 2000 (No. 22)
+Education Act 1998 (No. 51)
+Education Acts 1878 to 2012
+Education and Training Boards Act 2013 (No. 11)
+Education for Persons with Special Educational Needs Act 2004 (No. 30)
+Equal Status Act 2000 (No. 8)
+Equal Status Acts 2000 to 2015
+Equality (Miscellaneous Provisions) Act 2015 (No. 43)
+Mental Health Act 2001 (No. 25)
+Social Welfare Consolidation Act 2005 (No. 26)
 
 2
 
@@ -88,19 +99,19 @@ of
 
 An Act to make provision, in the interests of the common good, that a school recognised in accordance with section 10 of the Education Act 1998 shall prepare and publish an admission policy and that such policy shall include a statement that the school shall not discriminate in its admission of a student to the school on specified grounds, and to provide that in certain circumstances the patron or Minister may issue a direction to a board of management in relation to the admission of students to a school and to provide that in certain circumstances the patron may appoint an independent person to comply with such direction, and to provide that in certain circumstances the National Council for Special Education or the Child and Family Agency may designate a school or centre for education which a child is to attend, and to provide an amended appeals process where a student has been expelled or suspended from, or has failed to gain admission to, a school; and to provide that, following a report from the National Council for Special Education, in certain circumstances the Minister may issue a direction in respect of the additional provision of education for children with special educational needs; to amend section 7 of the Equal Status Act 2000 in relation to its application to recognised primary schools, to further amend that Act to provide for the application for admission to recognised primary schools by students of minority religions; and for those and other purposes to amend the Education Act 1998, the Education (Welfare) Act 2000, the Education for Persons with Special Educational Needs Act 2004 and the Education (Miscellaneous Provisions) Act 2007, and to provide for related matters.
 
-[18 th July , 2018]
+[18th July, 2018]
 
 Be it enacted by the Oireachtas as follows:
 
 ## Definition
 
-- In this Act 'Act of 1998' means the Education Act 1998.
+1. In this Act “Act of 1998” means the Education Act 1998.
 
 ## Amendment of section 2 of Act of 1998
 
-- Section 2 of the Act of 1998 is amended by the insertion of the following definition:
+2. Section 2 of the Act of 1998 is amended by the insertion of the following definition:
 
-' 'admission policy' has the meaning assigned to it by section 62 (inserted by section 9 of the Education (Admission to Schools) Act 2018 );'.
+“ ‘admission policy’ has the meaning assigned to it by section 62 (inserted by section 9 of the Education (Admission to Schools) Act 2018);”.
 
 3
 
@@ -112,7 +123,7 @@ Be it enacted by the Oireachtas as follows:
 
 ## Amendment of section 9 of Act of 1998
 
-- Section 9 of the Act of 1998 is amended-
+3. Section 9 of the Act of 1998 is amended—
 
 (a) in paragraph (i), by the substitution of 'under this Act' for 'under section 33', and
 
@@ -120,11 +131,11 @@ Be it enacted by the Oireachtas as follows:
 
 ## Amendment of section 10 of Act of 1998
 
-- Section 10 of the Act of 1998 is amended in paragraph (f) of subsection (2) by the substitution of 'with this Act and such regulations as may be made by the Minister from time to time under this Act' for 'with such regulations as may be made by the Minister from time to time under section 33 and with this Act'.
+4. Section 10 of the Act of 1998 is amended in paragraph (f) of subsection (2) by the substitution of 'with this Act and such regulations as may be made by the Minister from time to time under this Act' for 'with such regulations as may be made by the Minister from time to time under section 33 and with this Act'.
 
 ## Amendment of section 15 of Act of 1998
 
-- Section 15 of the Act of 1998 is amended in subsection (2)(d)-
+5. Section 15 of the Act of 1998 is amended in subsection (2)(d)—
 
 (a) by the substitution of 'subject to this Act, publish the admission policy of the school' for 'publish, in such manner as the board with the agreement of the patron considers appropriate, the policy of the school concerning admission to and participation in the school, including the policy of the school relating to the expulsion and suspension of students and admission to and participation by students with disabilities or who have other special educational needs,', and
 
@@ -132,7 +143,7 @@ Be it enacted by the Oireachtas as follows:
 
 ## Amendment of section 23 of Act of 1998
 
-- Section 23 (amended by section 6 of the Education (Amendment) Act 2012) of the Act of 1998 is amended-
+6. Section 23 (amended by section 6 of the Education (Amendment) Act 2012) of the Act of 1998 is amended—
 
 (a) in subsection (1), by the substitution of the following paragraph for paragraph (a):
 
@@ -150,19 +161,19 @@ and
 
 [[START OF PAGE 7]]
 
+[2018.]
+
 Education (Admission to Schools) Act 2018.
 
-[ No . 14. ]
-
-[2018.]
+[No. 14.]
 
 ## Appeals
 
-(1) The Act of 1998 is amended by the substitution of the following section for section 29:
+7. (1) The Act of 1998 is amended by the substitution of the following section for section 29:
 
 ### 'Appeals
 
-(1) Where a board or a person acting on behalf of a board-
+29. (1) Where a board or a person acting on behalf of a board—
 
 (a) permanently excludes a student from a school,
 
@@ -176,7 +187,7 @@ Education (Admission to Schools) Act 2018.
 
 the parent of the student, or in the case of a student who has reached the age of 18 years, the student (each of whom is, in this section and sections 29A to 29F, referred to as an applicant), may, within such period as may be determined in procedures under section 29B, and following the conclusion of any review under section 29C or any appeal procedures provided by the school in accordance with this Act, appeal a decision in accordance with this section and sections 29A to 29F.
 
-- In this section and sections 29A to 29F-
+(2) In this section and sections 29A to 29F—
 
 ' Act of 2018 ' means the Education (Admission to Schools) Act 2018 ;
 
@@ -206,13 +217,13 @@ S.7 [ No . 14. ] Education (Admission to Schools) Act 2018. [2018.]
 
 'student' includes a person in relation to whom an application for admission to a school has been made and that person or his or her parents may appeal against a decision to refuse to admit him or her in the same manner as a student or his or her parents may appeal a decision under this section.'.
 
-- The Act of 1998 is amended by the insertion of the following sections after section 29:
+(2) The Act of 1998 is amended by the insertion of the following sections after section 29:
 
 ### 'Establishment of appeals panels and appeals committees
 
 - 29A. (1) The Minister shall, from time to time, establish one or more panels of suitable persons (in this section referred to as an 'appeals panel') to consider appeals under section 29.
 
-- A member of an appeals panel-
+(2) A member of an appeals panel—
 
 (a) shall be appointed to the panel for such period as the Minister may determine,
 
@@ -222,11 +233,11 @@ S.7 [ No . 14. ] Education (Admission to Schools) Act 2018. [2018.]
 
 (d) shall   be   independent   and   impartial   in   carrying   out   his   or   her functions.
 
-- Where the Minister receives a notice of appeal under section 29, he or she shall establish a committee of 3 members of an appeals panel to consider the appeal concerned (in this section and sections 29B to 29F referred to as an 'appeals committee').
+(3) Where the Minister receives a notice of appeal under section 29, he or she shall establish a committee of 3 members of an appeals panel to consider the appeal concerned (in this section and sections 29B to 29F referred to as an 'appeals committee').
 
-- The Minister shall nominate one member of an appeals committee to be the chairperson of the committee for the purposes of the appeal concerned   and,   in   the   case   of   an   equal   division   of   votes,   the chairperson shall have a second or casting vote.
+(4) The Minister shall nominate one member of an appeals committee to be the chairperson of the committee for the purposes of the appeal concerned and, in the case of an equal division of votes, the chairperson shall have a second or casting vote.
 
-- The Minister may, where he or she considers it necessary to do so-
+(5) The Minister may, where he or she considers it necessary to do so—
 
 (a) prior to an oral hearing in respect of an appeal under section 29(1) (a), (b) or (c)(ii), or
 
@@ -234,7 +245,7 @@ S.7 [ No . 14. ] Education (Admission to Schools) Act 2018. [2018.]
 
 replace a member of an appeals committee (including the chairperson) with another member of an appeals panel.
 
-- The Minister may furnish such support of an administrative nature to an appeals committee as the Minister considers necessary to enable the appeals committee to perform its functions.
+(6) The Minister may furnish such support of an administrative nature to an appeals committee as the Minister considers necessary to enable the appeals committee to perform its functions.
 
 6
 
@@ -248,7 +259,7 @@ Education (Admission to Schools) Act 2018.
 
 [ No . 14. ] S.7
 
-- An   appeals committee   shall   act   in   accordance   with   procedures determined under section 29B.
+(7) An appeals committee shall act in accordance with procedures determined under section 29B.
 
 ### Procedures in relation to appeals
 
@@ -306,7 +317,7 @@ Education (Admission to Schools) Act 2018.
 
 (l) such   other consequential   or   ancillary  matters as   the   Minister considers appropriate.
 
-- An appeals committee, an applicant and a board shall comply with procedures determined by the Minister under this section.
+(2) An appeals committee, an applicant and a board shall comply with procedures determined by the Minister under this section.
 
 ### Review by board of decision to refuse admission
 
@@ -318,7 +329,7 @@ Education (Admission to Schools) Act 2018.
 
 within such period as may be determined by the Minister, request in writing a review by the board of the decision to refuse admission.
 
-- A request under subsection (1) shall-
+(2) A request under subsection (1) shall—
 
 (a) be based on the implementation  of the school's  admission policy and the content of its annual admission notice, and
 
@@ -332,11 +343,11 @@ within such period as may be determined by the Minister, request in writing a re
 
 [[START OF PAGE 11]]
 
+[2018.]
+
 Education (Admission to Schools) Act 2018.
 
-[ No . 14. ] S.7
-
-[2018.]
+[No. 14.] S.7
 
 (a) the   request   for   a   review   has   not   been   made   within   the   period determined by the Minister, or
 
@@ -348,9 +359,9 @@ Education (Admission to Schools) Act 2018.
 
 the board shall notify the applicant that it is not in a position to review the decision to refuse admission and the reasons therefor.
 
-- Subject to subsection (3), a board shall, following a request under subsection   (1),   within   such   period   as   may   be   determined   by   the Minister, review the decision to refuse admission having regard to the grounds set out in the request for review.
+(4) Subject to subsection (3), a board shall, following a request under subsection (1), within such period as may be determined by the Minister, review the decision to refuse admission having regard to the grounds set out in the request for review.
 
-- Following a review under subsection (4) the board shall issue the applicant with-
+(5) Following a review under subsection (4) the board shall issue the applicant with—
 
 (a) a statement confirming that there was no failure or error in making the decision to refuse admission, or
 
@@ -360,13 +371,13 @@ the board shall notify the applicant that it is not in a position to review the 
 
 (ii) whether or not such failure or error had a material effect on the outcome of the application.
 
-- Where a board issues a statement under subsection (5)(b) and the failure or error concerned had a material effect on the outcome of the application for admission, the board shall rectify that failure or error-
+(6) Where a board issues a statement under subsection (5)(b) and the failure or error concerned had a material effect on the outcome of the application for admission, the board shall rectify that failure or error—
 
 (a) where the failure or error related to the admission of a student to a school or special class, by admitting the student to the school or special class concerned, or
 
 (b) where the failure or error related to a student's ranking on the waiting list, by adjusting the ranking of the student on the waiting list.
 
-- In this section and section 29E 'waiting list' means, in relation to a school, the waiting list compiled in accordance with section 62(7)(i) by the school concerned.
+(7) In this section and section 29E 'waiting list' means, in relation to a school, the waiting list compiled in accordance with section 62(7)(i) by the school concerned.
 
 9
 
@@ -384,13 +395,13 @@ Education (Admission to Schools) Act 2018.
 
 - 29D. (1) An   appeals   committee   shall,   in   accordance   with   procedures determined by the Minister under section 29B, hold an oral hearing for the purposes of an appeal under section 29(1)(a), (b) or (c)(ii).
 
-- For the purposes of an appeal under section 29(1)(a), (b) or (c)(ii)-
+(2) For the purposes of an appeal under section 29(1)(a), (b) or (c)(ii)—
 
 (a) oral hearings shall be conducted with the minimum of formality consistent with giving all parties a fair hearing, and
 
 (b) an appeals committee may, where it is of the opinion that reaching agreement on the matters the subject of the appeal is practicable in the circumstances, provide such assistance to the parties to reach agreement as the committee considers appropriate.
 
-- For the purposes of an oral hearing under this section-
+(3) For the purposes of an oral hearing under this section—
 
 (a) the Child and Family Agency, or
 
@@ -398,7 +409,7 @@ Education (Admission to Schools) Act 2018.
 
 may make such submissions, if any, to an appeals committee as it or they consider or considers appropriate.
 
-- In  hearing   and   determining   an   appeal   under   section   29   against   a decision to which subsection (1)(a) or (b) of that section relates, an appeals committee shall have regard to-
+(4) In hearing and determining an appeal under section 29 against a decision to which subsection (1)(a) or (b) of that section relates, an appeals committee shall have regard to—
 
 (a) the nature, scale and persistence of any behaviour alleged to have given rise to, or contributed to, the decision made by or on behalf of the board and whether or not such behaviour is confined to specific classes in the school concerned,
 
@@ -416,11 +427,11 @@ may make such submissions, if any, to an appeals committee as it or they conside
 
 [[START OF PAGE 13]]
 
+[2018.]
+
 Education (Admission to Schools) Act 2018.
 
-[ No . 14. ] S.7
-
-[2018.]
+[No. 14.] S.7
 
 (f) any evidence that the behaviour of the student has impacted on the safety, health and welfare of teachers, staff or other students of the school,
 
@@ -442,17 +453,17 @@ Education (Admission to Schools) Act 2018.
 
 (k) such other matters as the appeals committee considers relevant.
 
-- Nothing   in   subsection   (4)   affects   the   obligation   of   an   appeals committee to allow an appeal under section 29(1)(a) if the parent of the student or the student, as the case may be, shows that subsection (1) or (4) of section 24 of the Act of 2000 has not been complied with in relation to that exclusion.
+(5) Nothing in subsection (4) affects the obligation of an appeals committee to allow an appeal under section 29(1)(a) if the parent of the student or the student, as the case may be, shows that subsection (1) or (4) of section 24 of the Act of 2000 has not been complied with in relation to that exclusion.
 
-- Following an oral hearing under this section an appeals committee shall-
+(6) Following an oral hearing under this section an appeals committee shall—
 
 (a) come   to   its   conclusion   having   examined   and   considered   the evidence and materials made available to it, and
 
 (b) make a preliminary decision in relation to the appeal.
 
-- An appeals committee shall, by notice in writing, notify the Minister, the applicant, the board and, where the Child and Family Agency or the National Council for Special Education made submissions at the oral hearing, the Agency or the Council of its preliminary decision under subsection (6), the reasons for its preliminary decision and, where it proposes to allow an appeal, its proposed direction to the board.
+(7) An appeals committee shall, by notice in writing, notify the Minister, the applicant, the board and, where the Child and Family Agency or the National Council for Special Education made submissions at the oral hearing, the Agency or the Council of its preliminary decision under subsection (6), the reasons for its preliminary decision and, where it proposes to allow an appeal, its proposed direction to the board.
 
-- An applicant, the board, and where the Child and Family Agency or the National Council for Special Education made submissions at the
+(8) An applicant, the board, and where the Child and Family Agency or the National Council for Special Education made submissions at the
 
 11
 
@@ -460,17 +471,17 @@ Education (Admission to Schools) Act 2018.
 
 [[START OF PAGE 14]]
 
-Education (Admission to Schools) Act 2018.
+S.7 [No. 14.]
 
-S.7 [ No . 14. ]
+Education (Admission to Schools) Act 2018.
 
 [2018.]
 
 oral hearing in accordance with procedures under section 29B, the Agency   or   the   Council   may,   make   observations   to   the   appeals committee in relation to its preliminary decision and any proposed direction.
 
-- An appeals committee shall, having considered any observations made under subsection (8), make its final decision.
+(9) An appeals committee shall, having considered any observations made under subsection (8), make its final decision.
 
-- Subject to subsection (9),  an appeals committee shall,  in its  final decision-
+(10) Subject to subsection (9), an appeals committee shall, in its final decision—
 
 (a) allow the appeal, or
 
@@ -484,17 +495,17 @@ oral hearing in accordance with procedures under section 29B, the Agency   or   
 
 (c) where it   allows   an   appeal   under   section   29(1)(c)(ii),   include   a direction to the board to admit the student.
 
-- An appeals committee shall, by notice in writing, inform the Minister of its final decision and the reasons for its final decision and, where it allows an appeal, shall forward to the Minister a copy of the direction included in its final decision.
+(12) An appeals committee shall, by notice in writing, inform the Minister of its final decision and the reasons for its final decision and, where it allows an appeal, shall forward to the Minister a copy of the direction included in its final decision.
 
-- The Minister shall, as soon as practicable after he or she receives a notice under subsection (12), forward to the applicant, the board and, where the Child and Family Agency or the National Council for Special Education made submissions at the oral hearing, the Agency or the Council-
+(13) The Minister shall, as soon as practicable after he or she receives a notice under subsection (12), forward to the applicant, the board and, where the Child and Family Agency or the National Council for Special Education made submissions at the oral hearing, the Agency or the Council—
 
 (a) a copy of the final decision of the appeals committee and the reasons for its decision, and
 
 (b) where the appeals committee has allowed an appeal, a copy of the direction included in the final decision of the appeals committee.
 
-- A board shall comply with a direction under subsection (11).
+(14) A board shall comply with a direction under subsection (11).
 
-- In this section, 'Act of 2000' means the Education (Welfare) Act 2000.
+(15) In this section, 'Act of 2000' means the Education (Welfare) Act 2000.
 
 ### Appeals under section 29(1)(c)(i)
 
@@ -506,21 +517,21 @@ oral hearing in accordance with procedures under section 29B, the Agency   or   
 
 [[START OF PAGE 15]]
 
+[2018.]
+
 Education (Admission to Schools) Act 2018.
 
-[ No . 14. ] S.7
-
-[2018.]
+[No. 14.] S.7
 
 available to and relied upon when the decision to refuse admission was made.
 
-- Following the determination of an appeal under section 29(1)(c)(i), an appeals committee shall make a decision to-
+(2) Following the determination of an appeal under section 29(1)(c)(i), an appeals committee shall make a decision to—
 
 (a) allow the appeal, or
 
 (b) disallow the appeal.
 
-- Where an appeals committee allows an appeal under section 29(1)(c) (i) its decision shall include a direction to the board to-
+(3) Where an appeals committee allows an appeal under section 29(1)(c)(i) its decision shall include a direction to the board to—
 
 (a) admit the student, or
 
@@ -532,13 +543,13 @@ available to and relied upon when the decision to refuse admission was made.
 
 (b) where it allows an appeal, forward to the Minister a copy of the direction issued under subsection (3).
 
-- The Minister shall, as soon as practicable after he or she receives a notice under subsection (4) forward to the applicant and the board-
+(5) The Minister shall, as soon as practicable after he or she receives a notice under subsection (4) forward to the applicant and the board—
 
 (a) a copy of the decision of the appeals committee under subsection (2) and the reasons for its decision, and
 
 (b) where the appeals committee has allowed an appeal, a copy of the direction of the appeals committee under subsection (3).
 
-- A board shall comply with a direction under subsection (3).
+(6) A board shall comply with a direction under subsection (3).
 
 ### Miscellaneous provisions in relation to appeals under section 29
 
@@ -570,25 +581,25 @@ S.7 [ No . 14. ] Education (Admission to Schools) Act 2018. [2018.]
 
 (iii) the   applicant   did   not   request   a   review   by   the   board   of   the decision to refuse admission.
 
-- An appeals committee shall, by notice in writing, inform the Minister where it decides in accordance with subsection (1) to refuse to hear or determine, or to refuse to continue to hear or determine, an appeal under section 29.
+(2) An appeals committee shall, by notice in writing, inform the Minister where it decides in accordance with subsection (1) to refuse to hear or determine, or to refuse to continue to hear or determine, an appeal under section 29.
 
-- A notice under subsection (2) shall include the committee's reasons for refusing  to   hear   or   determine,   or   refusing   to   continue   to   hear   or determine, the appeal concerned.
+(3) A notice under subsection (2) shall include the committee's reasons for refusing to hear or determine, or refusing to continue to hear or determine, the appeal concerned.
 
-- The Minister shall, as soon as practicable after he or she receives a notice under subsection (2), forward the applicant and the board a copy of the decision of the appeals committee and the reasons for its decision.
+(4) The Minister shall, as soon as practicable after he or she receives a notice under subsection (2), forward the applicant and the board a copy of the decision of the appeals committee and the reasons for its decision.
 
-- An   applicant   may,   after   receiving   a   copy   of   a   decision   under subsection (4), request the Minister to review the decision.
+(5) An applicant may, after receiving a copy of a decision under subsection (4), request the Minister to review the decision.
 
-- Where the Minister receives a request under subsection (5) he or she shall, as soon as practicable and subject to subsection (7), appoint a member of an appeals panel established under section 29A to review the decision.
+(6) Where the Minister receives a request under subsection (5) he or she shall, as soon as practicable and subject to subsection (7), appoint a member of an appeals panel established under section 29A to review the decision.
 
-- A person appointed under subsection (6) shall not have been a member of the appeals committee that made the decision in relation to the request concerned.
+(7) A person appointed under subsection (6) shall not have been a member of the appeals committee that made the decision in relation to the request concerned.
 
-- A person appointed under subsection (6) shall review the decision in accordance with procedures under section 29B and, following the review shall make a recommendation to the Minister-
+(8) A person appointed under subsection (6) shall review the decision in accordance with procedures under section 29B and, following the review shall make a recommendation to the Minister—
 
 (a) that the decision of the appeals committee is upheld, or
 
 (b) that the decision of the appeals committee is set aside.
 
-- Where the Minister receives a recommendation under subsection (8) (b),   he   or   she   shall   set   aside   the   decision   and   direct   the   appeals committee to proceed to hear or determine, or continue to hear and determine, the appeal concerned.
+(9) Where the Minister receives a recommendation under subsection (8)(b), he or she shall set aside the decision and direct the appeals committee to proceed to hear or determine, or continue to hear and determine, the appeal concerned.
 
 14
 
@@ -596,13 +607,13 @@ S.7 [ No . 14. ] Education (Admission to Schools) Act 2018. [2018.]
 
 [[START OF PAGE 17]]
 
-Education (Admission to Schools) Act 2018.
-
-[ No . 14. ] S.7
-
 [2018.]
 
-- Subject to subsection (1), where an issue relating to a decision to refuse   a   student   admission   to   a   school   or   permanently   exclude   a student from a school would be capable of being the subject of-
+Education (Admission to Schools) Act 2018.
+
+[No. 14.] S.7
+
+(10) Subject to subsection (1), where an issue relating to a decision to refuse a student admission to a school or permanently exclude a student from a school would be capable of being the subject of—
 
 (a) an appeal under section 29, and
 
@@ -610,21 +621,21 @@ Education (Admission to Schools) Act 2018.
 
 then an appeal under section 29 and a designation under section 67 may not, in respect of the same student, be made at the same time.
 
-- Where an appeal under section 29 has been unsuccessful in respect of a student, nothing in subsection (10) shall preclude a designation being made under section 67 in respect of the same student.
+(11) Where an appeal under section 29 has been unsuccessful in respect of a student, nothing in subsection (10) shall preclude a designation being made under section 67 in respect of the same student.
 
-- An appeals  committee   may  draw   such   inferences   as   it   considers appropriate as a result of any failure of a party to an appeal to provide any information required or requested in accordance with procedures under section 29B.'.
+(12) An appeals committee may draw such inferences as it considers appropriate as a result of any failure of a party to an appeal to provide any information required or requested in accordance with procedures under section 29B.'.
 
-- The amendments effected by subsections (1) and (2) shall not apply to an appeal to the   Secretary   General   under   section   29   of   the   Act   of   1998   made   before   the commencement of this section and section 29 shall continue to apply in relation to such appeals as if the amendments concerned had not been made.
+(3) The amendments effected by subsections (1) and (2) shall not apply to an appeal to the Secretary General under section 29 of the Act of 1998 made before the commencement of this section and section 29 shall continue to apply in relation to such appeals as if the amendments concerned had not been made.
 
 ## Additional provision in respect of children with special educational needs
 
-- Part VI of the Act of 1998 is amended by the insertion of the following section after section 37:
+8. Part VI of the Act of 1998 is amended by the insertion of the following section after section 37:
 
 '37A. (1)Where the Council is of the opinion that there is insufficient capacity in an area in relation to the provision of education for children with special educational needs, the Council shall inform the Minister by notice in writing of its opinion and the reasons for its opinion and shall specify the type of provision in respect of which there is insufficient capacity.
 
-- Where, following consultation with the Minister and having regard to any information provided to the Council by the Minister in relation to any planned additional provision of education for children with special educational   needs   and   available   land   and   buildings,   the   Council remains of the opinion that there is insufficient capacity in an area for the provision of education to children with special educational needs, it shall prepare and submit a report on the matter to the Minister.
+(2) Where, following consultation with the Minister and having regard to any information provided to the Council by the Minister in relation to any planned additional provision of education for children with special educational needs and available land and buildings, the Council remains of the opinion that there is insufficient capacity in an area for the provision of education to children with special educational needs, it shall prepare and submit a report on the matter to the Minister.
 
-- A report under subsection (2) shall specify-
+(3) A report under subsection (2) shall specify—
 
 (a) the   existing   provision   of   education   for   children   with   special educational   needs   in   the   area   concerned,   having   regard   to   the generality of provision of education within the area,
 
@@ -644,9 +655,9 @@ S.8 [ No . 14. ] Education (Admission to Schools) Act 2018. [2018.]
 
 (e) such other matters as the Council considers appropriate.
 
-- Prior to preparing a report under subsection (2), the Council shall consult with the Minister, bodies representative of patrons, national associations of parents, recognised school management organisations and   recognised   trade   unions   and   staff   associations   representing teachers.
+(4) Prior to preparing a report under subsection (2), the Council shall consult with the Minister, bodies representative of patrons, national associations of parents, recognised school management organisations and recognised trade unions and staff associations representing teachers.
 
-(a) Where, on receipt of a report submitted under subsection (2), the Minister is of the opinion that a relevant person in respect of a school referred to in the report should make additional provision for children with special educational needs, he or she shall serve a notice in writing on the relevant person.
+(5) (a) Where, on receipt of a report submitted under subsection (2), the Minister is of the opinion that a relevant person in respect of a school referred to in the report should make additional provision for children with special educational needs, he or she shall serve a notice in writing on the relevant person.
 
 (b) A notice under paragraph (a) shall-
 
@@ -658,7 +669,7 @@ S.8 [ No . 14. ] Education (Admission to Schools) Act 2018. [2018.]
 
 (c) On receipt of any representations made under paragraph (b)(iii), the Minister may consult the relevant person.
 
-- Where-
+(6) Where—
 
 (a) on   consideration   of   a   report   submitted   to   the   Minister   under subsection (2),
 
@@ -672,15 +683,15 @@ S.8 [ No . 14. ] Education (Admission to Schools) Act 2018. [2018.]
 
 [[START OF PAGE 19]]
 
+[2018.]
+
 Education (Admission to Schools) Act 2018.
 
-[ No . 14. ] S.8
-
-[2018.]
+[No. 14.] S.8
 
 the Minister remains of the opinion that the relevant person should make   additional   provision   in   respect   of   children   with   special educational needs, the Minister shall serve a notice in writing on the relevant person.
 
-- A notice under subsection (6) shall-
+(7) A notice under subsection (6) shall—
 
 (a) set out the Minister's opinion that the relevant person should make additional provision in respect of children with special educational needs and state the reasons for his or her opinion,
 
@@ -690,13 +701,13 @@ the Minister remains of the opinion that the relevant person should make   addit
 
 (d) set   out   any   proposed   property   arrangements,   including   any arrangements   in   relation to the provision of additional accommodation   on   the   school   premises   and   the   funding arrangements the Minister shall provide for that purpose, in order to assist   the   school   in   increasing   its   provision   of   education   for children with special educational needs.
 
-- On receipt of a notice under subsection (6) the patron or any other person  or   body  in   relation   to   whom   the   ownership   of   the   school premises   is   vested   may,   in   respect   of   the   matters   referred   to   in subsection (7)(d), not later than 14 days from the service of the notice, make representations to the Minister.
+(8) On receipt of a notice under subsection (6) the patron or any other person or body in relation to whom the ownership of the school premises is vested may, in respect of the matters referred to in subsection (7)(d), not later than 14 days from the service of the notice, make representations to the Minister.
 
-- Where, following any representations under subsection (8), and such further consultation as the Minister considers appropriate, the Minister and the patron or any other person or body in relation to whom the ownership of the school premises is vested fail to agree arrangements in relation to the matters referred to in subsection (7)(d), the Minister may refer the matter to arbitration and, subject to section 29 of the Arbitration Act 2010, that Act shall apply to an arbitration under this section.
+(9) Where, following any representations under subsection (8), and such further consultation as the Minister considers appropriate, the Minister and the patron or any other person or body in relation to whom the ownership of the school premises is vested fail to agree arrangements in relation to the matters referred to in subsection (7)(d), the Minister may refer the matter to arbitration and, subject to section 29 of the Arbitration Act 2010, that Act shall apply to an arbitration under this section.
 
-- On receipt of a notice under subsection (6) a board of management may, in respect of the matters referred to in paragraph (a), (b) or (c) of subsection (7), not later than 14 days from the service of the notice, make representations to the Minister.
+(10) On receipt of a notice under subsection (6) a board of management may, in respect of the matters referred to in paragraph (a), (b) or (c) of subsection (7), not later than 14 days from the service of the notice, make representations to the Minister.
 
-- Where,   after   consideration   of   any   representations   made   under subsections (8)  and (10) and, where the Minister has referred the matter to arbitration under subsection (9), following the conclusion of the arbitration process, the Minister remains of the opinion that a school should make additional provision in respect of children with special educational needs, he or she shall by notice in writing request
+(11) Where, after consideration of any representations made under subsections (8) and (10) and, where the Minister has referred the matter to arbitration under subsection (9), following the conclusion of the arbitration process, the Minister remains of the opinion that a school should make additional provision in respect of children with special educational needs, he or she shall by notice in writing request
 
 17
 
@@ -718,7 +729,7 @@ the board of management to agree to increasing such provision and such notice sh
 
 (c) any other matter the Minister considers appropriate.
 
-(a) The board of management shall, not later than 14 days from the service of a notice under subsection (11), by notice in writing to the Minister-
+(12) (a) The board of management shall, not later than 14 days from the service of a notice under subsection (11), by notice in writing to the Minister—
 
 (i) agree   to   increasing   its   provision   for   children   with   special educational needs in accordance with the terms of the notice under subsection (11), or
 
@@ -726,7 +737,7 @@ the board of management to agree to increasing such provision and such notice sh
 
 (b) Where a board of management fails by notice in writing to agree to increasing its provision for children with special educational needs in accordance with the terms of a notice under subsection (11), within 14 days from the service of a notice under that subsection, the board of management shall, for the purposes of this section, be regarded as having refused to increase such provision.
 
-- Where, pursuant to subsection (12), a board of management refuses to increase its provision for children with special educational needs, and the   Minister   remains   of   the   opinion   that   the   school   should   make additional provision in respect of children with special educational needs, the Minister shall by notice in writing-
+(13) Where, pursuant to subsection (12), a board of management refuses to increase its provision for children with special educational needs, and the Minister remains of the opinion that the school should make additional provision in respect of children with special educational needs, the Minister shall by notice in writing—
 
 (a) inform the patron of his or her opinion that such school should make such additional   provision,   and   state   the   reasons   for   that opinion,
 
@@ -734,9 +745,9 @@ the board of management to agree to increasing such provision and such notice sh
 
 (c) furnish the patron with a copy of the notice given to the board of management under subsection (11) and, where applicable, a copy of   the   refusal   by   the   board   of   management   provided   under subsection (12).
 
-- The patron may make representations to the Minister in respect of a notice under subsection (13) not later than 14 days from the service of a notice under that subsection.
+(14) The patron may make representations to the Minister in respect of a notice under subsection (13) not later than 14 days from the service of a notice under that subsection.
 
-- Where the Minister, after consideration of any representations made under subsection (14), remains of the opinion that a school should make   additional   provision   in   respect   of   children   with   special
+(15) Where the Minister, after consideration of any representations made under subsection (14), remains of the opinion that a school should make additional provision in respect of children with special
 
 18
 
@@ -744,19 +755,19 @@ the board of management to agree to increasing such provision and such notice sh
 
 [[START OF PAGE 21]]
 
+[2018.]
+
 Education (Admission to Schools) Act 2018.
 
-[ No . 14. ] S.8
-
-[2018.]
+[No. 14.] S.8
 
 educational needs, he or she may inform the patron and the board of management   of   his   or   her   intention   to   give   a   direction   under subsection (17) and shall serve a copy of a draft of the direction on the patron and the board of management.
 
-- The patron and the board of management may, within 14 days from the service of the copy of the draft direction, make representations in writing to the Minister in relation to the draft direction.
+(16) The patron and the board of management may, within 14 days from the service of the copy of the draft direction, make representations in writing to the Minister in relation to the draft direction.
 
-- Where the Minister, after consideration of any representations made under subsection (16), remains of the opinion that a school should make   additional   provision   in   respect   of   children   with   special educational needs, the Minister shall serve a direction (in this section referred to as a 'Ministerial direction') on the patron.
+(17) Where the Minister, after consideration of any representations made under subsection (16), remains of the opinion that a school should make additional provision in respect of children with special educational needs, the Minister shall serve a direction (in this section referred to as a 'Ministerial direction') on the patron.
 
-- A Ministerial direction may include such amendments to the draft direction   served   under   subsection   (15)   as   the   Minister   considers appropriate   having   regard   to   any   representations   made   under subsection (16) and shall specify that the patron shall, within 10 days, direct the board to comply with the terms of the Ministerial direction, which terms shall include:
+(18) A Ministerial direction may include such amendments to the draft direction served under subsection (15) as the Minister considers appropriate having regard to any representations made under subsection (16) and shall specify that the patron shall, within 10 days, direct the board to comply with the terms of the Ministerial direction, which terms shall include:
 
 (a) the   measures   to   be   taken   by   the   board   in   relation   to   making additional provision for children with special educational needs,
 
@@ -764,9 +775,9 @@ educational needs, he or she may inform the patron and the board of management  
 
 (c) any other matter the Minister considers appropriate.
 
-- The patron and, following a direction by the patron, the board of management shall comply with a Ministerial direction.
+(19) The patron and, following a direction by the patron, the board of management shall comply with a Ministerial direction.
 
-(a) The following documents shall be published in accordance with paragraph (b):
+(20) (a) The following documents shall be published in accordance with paragraph (b):
 
 (i) any notices issued by the Minister under this section;
 
@@ -778,7 +789,7 @@ educational needs, he or she may inform the patron and the board of management  
 
 (b) The Minister shall publish the documents referred to in paragraph (a) on the website of the Department of Education and Skills not later   than   7   days   from   the   date   on   which   he   or   she   issues   or receives them, or, in the case of a draft direction referred to in paragraph (a)(iii) or a Ministerial direction, not later than 7 days from the date he or she serves the draft direction or direction concerned.
 
-- The Minister shall-
+(21) The Minister shall—
 
 19
 
@@ -786,31 +797,31 @@ educational needs, he or she may inform the patron and the board of management  
 
 [[START OF PAGE 22]]
 
-S.8 [ No . 14. ] Education (Admission to Schools) Act 2018. [2018.]
-
-## Admission to schools
-
-- The Act of 1998 is amended by the insertion of the following Part after Part IX:
-
-### 'Part X
-
-### ADMISSION TO SCHOOLS
+S.8 [No. 14.] Education (Admission to Schools) Act 2018. [2018.]
 
 (a) not later than 3 years after section 8 of the Education (Admission to Schools) Act 2018 comes into operation, commence a review of the operation of this section, and
 
 (b) not later than 12 months after the expiration of the said 3 years, make a report to each House of the Oireachtas of his or her findings and conclusions resulting from that review.
 
-- In this section-
+(22) In this section—
 
 'Council' means the National Council for Special Education;
 
 'relevant person', in relation to a school, means the patron, the board of management or any other person or body in relation to whom the ownership of the school premises is vested;
 
-'resources'  includes   resources   made   available   by  the   Minister   and allocated by the Council.'.
+'resources' includes resources made available by the Minister and allocated by the Council.'.
+
+## Admission to schools
+
+9. The Act of 1998 is amended by the insertion of the following Part after Part IX:
+
+### 'Part X
+
+### ADMISSION TO SCHOOLS
 
 #### Definitions
 
-60. In this Part-
+60. In this Part—
 
 'Act of 2000' means the Equal Status Act 2000;
 
@@ -822,7 +833,7 @@ S.8 [ No . 14. ] Education (Admission to Schools) Act 2018. [2018.]
 
 'board' includes a committee established under section 44(1) or 44(7) of the Education and Training Boards Act 2013;
 
-'independent person' in relation to a school, does not include-
+'independent person' in relation to a school, does not include—
 
 (a) the patron of the school,
 
@@ -838,11 +849,11 @@ S.8 [ No . 14. ] Education (Admission to Schools) Act 2018. [2018.]
 
 [[START OF PAGE 23]]
 
+[2018.]
+
 Education (Admission to Schools) Act 2018.
 
-[ No . 14. ] S.9
-
-[2018.]
+[No. 14.] S.9
 
 (e) a spouse, civil partner (within the meaning of the Civil Partnership and  Certain   Rights   and   Obligations   of   Cohabitants  Act   2010), child, parent, brother or sister of a person specified in paragraph (a), (b), (c) or (d);
 
@@ -882,7 +893,7 @@ Education (Admission to Schools) Act 2018.
 
 #### Admission statement
 
-(1) Subject   to   subsection   (2),   the   admission   policy   of   a   school   shall include   a   statement   (in   this   Part   referred   to   as   an   'admission statement') that the school shall not discriminate in its admission of a student to the school on-
+61. (1) Subject to subsection (2), the admission policy of a school shall include a statement (in this Part referred to as an 'admission statement') that the school shall not discriminate in its admission of a student to the school on—
 
 (a) the gender ground of the student or the applicant in respect of the student concerned,
 
@@ -916,11 +927,11 @@ Education (Admission to Schools) Act 2018.
 
 [[START OF PAGE 25]]
 
+[2018.]
+
 Education (Admission to Schools) Act 2018.
 
-[ No . 14. ] S.9
-
-[2018.]
+[No. 14.] S.9
 
 which promotes certain religious values, the admission statement of the   school   shall   include   a   statement   that   the   school   does   not discriminate   in   relation   to   the   admission   of   students   where   it refuses to admit as a student a person who is not of a particular religious denomination and it is proved that the refusal is essential to maintain the ethos of the school,
 
@@ -930,13 +941,13 @@ which promotes certain religious values, the admission statement of the   school
 
 (f) a school that, in addition to the general admission of students has, with the approval of the Minister, established a class to provide an education exclusively for students with a category or categories of special educational needs specified by the Minister, the admission statement of the school shall include a statement that the school may refuse to admit to the class concerned a student who does not have the specified category of special educational needs concerned.
 
-- In this section 'civil status ground', 'disability ground', 'discriminate', 'family status ground', 'gender ground', 'ground of race', 'religion ground',   'sexual   orientation   ground'   and   'Traveller   community ground' shall be construed in accordance with section 3 of the Act of 2000.
+(3) In this section 'civil status ground', 'disability ground', 'discriminate', 'family status ground', 'gender ground', 'ground of race', 'religion ground', 'sexual orientation ground' and 'Traveller community ground' shall be construed in accordance with section 3 of the Act of 2000.
 
 #### Admission policy
 
-(1) Subject to this Act, regulations under this Act  and such terms and conditions   as   may   be   attached   to   recognition   of   a   school   by   the Minister under section 10, the board of the school shall following consultation with the patron, parents of students attending the school, the staff of the school, and such other persons as the Minister may determine, prepare a draft admission policy in respect of the school.
+62. (1) Subject to this Act, regulations under this Act and such terms and conditions as may be attached to recognition of a school by the Minister under section 10, the board of the school shall following consultation with the patron, parents of students attending the school, the staff of the school, and such other persons as the Minister may determine, prepare a draft admission policy in respect of the school.
 
-(a) The first   draft   admission   policy   under   subsection   (1)   shall   be prepared by the board as soon as practicable and in any event not later than 3 months after the commencement of this subsection.
+(2) (a) The first draft admission policy under subsection (1) shall be prepared by the board as soon as practicable and in any event not later than 3 months after the commencement of this subsection.
 
 (b) Where a board proposes making any amendments to its admission policy the board shall prepare a revised draft admission policy and
 
@@ -954,19 +965,19 @@ Education (Admission to Schools) Act 2018.
 
 this section shall, with any necessary modifications, apply to that draft as if it were a draft admission policy under subsection (1).
 
-- The board shall submit the draft admission policy prepared under subsection (1) to the patron for approval.
+(3) The board shall submit the draft admission policy prepared under subsection (1) to the patron for approval.
 
-- The   patron   following   consideration   of   the   draft   admission   policy submitted   under   subsection  (3)  and   within   the   prescribed   period shall-
+(4) The patron following consideration of the draft admission policy submitted under subsection (3) and within the prescribed period shall—
 
 (a) approve the draft, or
 
 (b) approve the draft subject to modifications.
 
-- Where the patron  has   approved   the   draft   admission   policy   under subsection  (4)(b), the patron shall return the draft to the board and specify the modifications to be made to the draft and the board shall, as soon as practicable, make the specified modifications and return the amended draft to the patron and the patron shall approve the amended draft.
+(5) Where the patron has approved the draft admission policy under subsection (4)(b), the patron shall return the draft to the board and specify the modifications to be made to the draft and the board shall, as soon as practicable, make the specified modifications and return the amended draft to the patron and the patron shall approve the amended draft.
 
-- Where   the   patron   has   approved   a   draft   admission   policy   under subsection (4)(a) or an amended draft under subsection (5) the patron shall forward the approved policy to the board and the board shall, within the prescribed period, publish the policy (in this Act referred to as an 'admission policy').
+(6) Where the patron has approved a draft admission policy under subsection (4)(a) or an amended draft under subsection (5) the patron shall forward the approved policy to the board and the board shall, within the prescribed period, publish the policy (in this Act referred to as an 'admission policy').
 
-- An admission policy shall-
+(7) An admission policy shall—
 
 (a) set out the characteristic spirit and general objectives of the school,
 
@@ -1116,7 +1127,7 @@ and
 
 (r) contain   such   additional   information   as   may   be   prescribed   in regulations under section 65.
 
-- Notwithstanding subsection (7)(e)(iii) in relation to-
+(8) Notwithstanding subsection (7)(e)(iii) in relation to—
 
 (a) a   school   approved   by   the   Minister   to   provide   an   education exclusively for students with a specified category or categories of special educational needs, or
 
@@ -1124,7 +1135,7 @@ and
 
 a student's academic ability, skills or aptitude may be considered or taken into account insofar only as is necessary in order to ascertain whether or not the student has the category of special educational needs concerned.
 
-(a) Notwithstanding   subsection   (7)(e)(iii),   and   subject   to   this subsection, an Irish language school may prioritise the admission of
+(9) (a) Notwithstanding subsection (7)(e)(iii), and subject to this subsection, an Irish language school may prioritise the admission of
 
 28
 
@@ -1166,13 +1177,13 @@ a student where the school is satisfied that the student has attained a level of
 
 S.9 [ No . 14. ] Education (Admission to Schools) Act 2018. [2018.]
 
-- Subsection (7)(e)(vi)  shall not apply to selection criteria based on a student's connection to the school by virtue of-
+(10) Subsection (7)(e)(vi) shall not apply to selection criteria based on a student's connection to the school by virtue of—
 
 (a) a sibling of the student concerned attending or having attended the school, or
 
 (b) a parent or grandparent of the student concerned having previously attended the school, provided the maximum number of places filled pursuant   to   that   criterion   does   not   exceed   25   per   cent   of   the available places as set out in the school's annual admission notice for the school year concerned.
 
-(a) Notwithstanding  subsection   (7)(e)(vii),   a   school   may   apply   a selection criterion based on the date on which an application for admission or an expression of interest in applying for admission was   received   by   the   school   where,   prior   to   the   coming   into operation of this subsection the school had confirmed, in writing, to the person who made the application or expression of interest that the   name   of   the   child   in   respect   of   whom   the   application   or expression of interest had been made had been placed on a list maintained   by  the   school   for   the   purpose   of   allocating   school places in the school year concerned.
+(11) (a) Notwithstanding subsection (7)(e)(vii), a school may apply a selection criterion based on the date on which an application for admission or an expression of interest in applying for admission was received by the school where, prior to the coming into operation of this subsection the school had confirmed, in writing, to the person who made the application or expression of interest that the name of the child in respect of whom the application or expression of interest had been made had been placed on a list maintained by the school for the purpose of allocating school places in the school year concerned.
 
 (b) Paragraph (a) shall cease to have effect 5 years after it comes into operation.
 
@@ -1184,11 +1195,11 @@ S.9 [ No . 14. ] Education (Admission to Schools) Act 2018. [2018.]
 
 #### Annual admission notice
 
-(1) Subject to this Act and any regulations made under this Act, the board of a school shall, each year, prepare a notice (in this Part referred to as an 'annual admission notice') in respect of the admission of students to the school for the school year concerned.
+63. (1) Subject to this Act and any regulations made under this Act, the board of a school shall, each year, prepare a notice (in this Part referred to as an 'annual admission notice') in respect of the admission of students to the school for the school year concerned.
 
-- The board shall, prior to accepting applications for admission to the school for the school year concerned, in the prescribed manner and within the prescribed period, publish the annual admission notice.
+(2) The board shall, prior to accepting applications for admission to the school for the school year concerned, in the prescribed manner and within the prescribed period, publish the annual admission notice.
 
-- An annual admission notice shall-
+(3) An annual admission notice shall—
 
 (a) provide details in relation to how to obtain-
 
@@ -1232,7 +1243,7 @@ Education (Admission to Schools) Act 2018.
 
 (4) In relation to-
 
-(a) a   boarding   school,   different   dates   may   be   provided   under subsection   (3)(b)   in   respect   of   the   residential   and   the   nonresidential places in the school concerned, and
+(a) a boarding school, different dates may be provided under subsection (3)(b) in respect of the residential and the non-residential places in the school concerned, and
 
 (b) a school with a special class, different dates may be provided under subsection (3)(b) in respect of places in the special class concerned.
 
@@ -1248,11 +1259,11 @@ Education (Admission to Schools) Act 2018.
 
 [2018.]
 
-- In this section, a reference to admission to a school means a reference to admission to the intake group of the school or admission to a special class in the school.
+(5) In this section, a reference to admission to a school means a reference to admission to the intake group of the school or admission to a special class in the school.
 
 #### Prohibition on charging admission and enrolment fees
 
-(1) Subject to subsection (2), a board or person acting on a board's behalf shall   not   charge   fees   for,   or   seek   payments   or   contributions (howsoever described) as a condition of-
+64. (1) Subject to subsection (2), a board or person acting on a board's behalf shall not charge fees for, or seek payments or contributions (howsoever described) as a condition of—
 
 (a) an application for admission of a student to the school, or
 
@@ -1270,9 +1281,9 @@ Education (Admission to Schools) Act 2018.
 
 #### Regulations
 
-(1) The Minister may, having regard to  the principles of inclusion and equality of access to and participation in education and the principles of   efficiency,   effectiveness,   clarity   and   fairness   for   applicants   and schools,  and   following   consultation   with   bodies   representative   of patrons, national associations of parents,   recognised   school management   organisations   and   recognised   trade   unions   and   staff associations representing teachers, make regulations for the purpose of the preparation and publication by schools of admission policies and the admission of students to schools.
+65. (1) The Minister may, having regard to the principles of inclusion and equality of access to and participation in education and the principles of efficiency, effectiveness, clarity and fairness for applicants and schools, and following consultation with bodies representative of patrons, national associations of parents, recognised school management organisations and recognised trade unions and staff associations representing teachers, make regulations for the purpose of the preparation and publication by schools of admission policies and the admission of students to schools.
 
-- Regulations under this section may-
+(2) Regulations under this section may—
 
 (a) contain different provisions in relation to different categories of schools or different categories of students, and
 
@@ -1290,7 +1301,7 @@ Education (Admission to Schools) Act 2018.
 
 [2018.]
 
-- Without   prejudice   to   the   generality   of   subsection   (1)   and   (2), regulations   under   this   section   may   provide   for   all   or   any   of   the following:
+(3) Without prejudice to the generality of subsection (1) and (2), regulations under this section may provide for all or any of the following:
 
 (a) requirements in relation to the preparation and publication of an admission policy including all or any of the following:
 
@@ -1360,9 +1371,9 @@ date on which a school may accept applications for admission and setting the clo
 
 #### Co-operation between boards
 
-(1) The Minister may, from time to time, subject to subsection (2), and following consultation with the patron or patrons and the boards of the schools concerned, direct 2 or more boards to co-operate with each other in relation to the admission processes of the schools concerned.
+66. (1) The Minister may, from time to time, subject to subsection (2), and following consultation with the patron or patrons and the boards of the schools concerned, direct 2 or more boards to co-operate with each other in relation to the admission processes of the schools concerned.
 
-- The Minister may make a direction under this section where-
+(2) The Minister may make a direction under this section where—
 
 34
 
@@ -1380,7 +1391,7 @@ Education (Admission to Schools) Act 2018.
 
 (b) the Minister considers, having regard to the effective and efficient use of resources, that it is in the best interests of the students in an area that the boards in respect of which the direction is to apply shall   co-operate   with   each   other   in   relation   to   the   admission processes of the schools concerned.
 
-- A direction under this section-
+(3) A direction under this section—
 
 (a) shall be in writing,
 
@@ -1388,7 +1399,7 @@ Education (Admission to Schools) Act 2018.
 
 (c) may set out procedures in relation to co-operation by the boards in respect of the admission processes of the schools concerned.
 
-- The Minister,  where   he   or   she   considers   it   appropriate   to   do   so, following consultation with the patron or patrons and the boards of the schools concerned, may-
+(4) The Minister, where he or she considers it appropriate to do so, following consultation with the patron or patrons and the boards of the schools concerned, may—
 
 (a) amend a direction under this section,
 
@@ -1396,9 +1407,9 @@ Education (Admission to Schools) Act 2018.
 
 (c) cancel a direction under this section.
 
-- A board shall comply with a direction under this section.
+(5) A board shall comply with a direction under this section.
 
-(a) A board may,   in   order   to   facilitate   the   efficient   admission   of students,   provide   a   patron   or   another   board   with   a   list   of   the students in relation to whom-
+(6) (a) A board may, in order to facilitate the efficient admission of students, provide a patron or another board with a list of the students in relation to whom—
 
 (i) an application for admission to the school concerned has been received,
 
@@ -1430,7 +1441,7 @@ Education (Admission to Schools) Act 2018.
 
 #### Designation of school by Council or Child and Family Agency
 
-(1) In the case of a child with special educational needs, the Council may-
+67. (1) In the case of a child with special educational needs, the Council may—
 
 (a) of its own volition, or
 
@@ -1438,7 +1449,7 @@ Education (Admission to Schools) Act 2018.
 
 designate the school which the child is to attend and that school shall admit the child upon being directed by the Council to do so.
 
-- In making a designation under subsection (1), the Council shall have regard to-
+(2) In making a designation under subsection (1), the Council shall have regard to—
 
 (a) the special educational needs of the child concerned,
 
@@ -1452,7 +1463,7 @@ designate the school which the child is to attend and that school shall admit th
 
 (f) the ability of the school to accommodate the child concerned and to meet his or her special educational needs, including that ability when resources are made available to the school, in accordance with the policies relating to education generally and the education of children with special educational needs, which are formulated from time to time by the Minister.
 
-- The Agency may, in the case of a child other than a child in relation to whom a designation under subsection (1) may be made-
+(3) The Agency may, in the case of a child other than a child in relation to whom a designation under subsection (1) may be made—
 
 (a) of its own volition, where the child has no school place, or
 
@@ -1472,7 +1483,7 @@ Education (Admission to Schools) Act 2018.
 
 designate the school which the child is to attend and that school shall admit the child, upon being directed by the Agency to do so.
 
-- In making a designation under subsection (3), the Agency shall have regard to-
+(4) In making a designation under subsection (3), the Agency shall have regard to—
 
 (a) the wishes of the child's parents,
 
@@ -1482,17 +1493,17 @@ designate the school which the child is to attend and that school shall admit th
 
 (d) the school  that,   in   the  Agency's   view,   it   would   be   in   the   best interests of the child to attend.
 
-- Where a school is designated under subsection (1) or (3), the board of the school may, not later than the date determined in procedures under subsection (19), appeal the decision to an appeals committee.
+(5) Where a school is designated under subsection (1) or (3), the board of the school may, not later than the date determined in procedures under subsection (19), appeal the decision to an appeals committee.
 
-- Subject to subsection (7), on hearing an appeal under subsection (5) an appeals committee shall within the  period determined in procedures under subsection (19)-
+(6) Subject to subsection (7), on hearing an appeal under subsection (5) an appeals committee shall within the period determined in procedures under subsection (19)—
 
 (a) allow the appeal and cancel the designation, or
 
 (b) dismiss the appeal.
 
-- The appeals committee shall, in reaching its decision, allow an appeal under   subsection   (5)   and   cancel   the   designation   only   where   it   is satisfied that the Agency or the Council has failed to comply with any of the requirements of this section or the school has established that the decision of the Agency or the Council, as the case may be, is unreasonable.
+(7) The appeals committee shall, in reaching its decision, allow an appeal under subsection (5) and cancel the designation only where it is satisfied that the Agency or the Council has failed to comply with any of the requirements of this section or the school has established that the decision of the Agency or the Council, as the case may be, is unreasonable.
 
-- Where-
+(8) Where—
 
 (a) the   Council   has   failed   or   refused   to   make   a   designation   under subsection (1) pursuant to a request under paragraph (b) of that subsection   within   the period   determined   in   procedures   under subsection (19), or
 
@@ -1500,7 +1511,7 @@ designate the school which the child is to attend and that school shall admit th
 
 the parents concerned may, within the period determined in procedures under subsection (19), appeal to an appeals committee against the failure or refusal to make a designation.
 
-- On hearing an appeal under subsection (8), an appeals committee shall, within the  period determined in procedures under subsection (19)-
+(9) On hearing an appeal under subsection (8), an appeals committee shall, within the period determined in procedures under subsection (19)—
 
 37
 
@@ -1522,23 +1533,23 @@ S.9 [ No . 14. ] Education (Admission to Schools) Act 2018. [2018.]
 
 a committee shall give reasons for its decision.
 
-- The Minister shall appoint one or more than one committee (in this section referred to as an 'appeals committee') to hear and determine appeals under this section.
+(11) The Minister shall appoint one or more than one committee (in this section referred to as an 'appeals committee') to hear and determine appeals under this section.
 
-- An appeals committee shall be independent in the performance of its functions.
+(12) An appeals committee shall be independent in the performance of its functions.
 
-- An appeals committee shall consist of a chairperson and such number of ordinary members as may be determined by the Minister, and, in the case of an equal division of votes, the chairperson shall have a casting vote.
+(13) An appeals committee shall consist of a chairperson and such number of ordinary members as may be determined by the Minister, and, in the case of an equal division of votes, the chairperson shall have a casting vote.
 
-- The chairperson and ordinary members of an appeals committee shall be appointed by the Minister from among persons who have a special interest in or knowledge of education and shall, in the case of any appeal concerning a child with special educational needs, include at least one person who has a special interest in or knowledge in relation to the education of persons with special educational needs.
+(14) The chairperson and ordinary members of an appeals committee shall be appointed by the Minister from among persons who have a special interest in or knowledge of education and shall, in the case of any appeal concerning a child with special educational needs, include at least one person who has a special interest in or knowledge in relation to the education of persons with special educational needs.
 
-- The term of office of the chairperson and the ordinary members of an appeals committee shall be for such period as shall be determined by the Minister.
+(15) The term of office of the chairperson and the ordinary members of an appeals committee shall be for such period as shall be determined by the Minister.
 
-- The chairperson or an ordinary member of an appeals committee may resign by letter addressed to the Minister.
+(16) The chairperson or an ordinary member of an appeals committee may resign by letter addressed to the Minister.
 
-- The chairperson or an ordinary member of an appeals committee may be removed from office by the Minister for stated misbehaviour.
+(17) The chairperson or an ordinary member of an appeals committee may be removed from office by the Minister for stated misbehaviour.
 
-- The chairperson and the ordinary members of an appeals committee shall be paid such allowances for expenses as the Minister, with the consent   of   the   Minister   for   Public   Expenditure   and   Reform,   may determine.
+(18) The chairperson and the ordinary members of an appeals committee shall be paid such allowances for expenses as the Minister, with the consent of the Minister for Public Expenditure and Reform, may determine.
 
-- The Minister may, in the interests of the operation of an efficient appeals process under this section and following consultation with the Minister for Children and Youth Affairs, the Council, the Agency,
+(19) The Minister may, in the interests of the operation of an efficient appeals process under this section and following consultation with the Minister for Children and Youth Affairs, the Council, the Agency,
 
 38
 
@@ -1574,11 +1585,11 @@ bodies   representative   of   patrons,   national   associations   of   parents
 
 #### Direction to board and appointment of independent person by patron
 
-(1) Subject to this section, the patron of a school may issue a direction to the board of a school and, where the board has failed to comply with the direction, the patron may appoint an independent person.
+68. (1) Subject to this section, the patron of a school may issue a direction to the board of a school and, where the board has failed to comply with the direction, the patron may appoint an independent person.
 
-- A patron shall, by notice in writing, inform a board where he or she proposes to issue a direction under this section.
+(2) A patron shall, by notice in writing, inform a board where he or she proposes to issue a direction under this section.
 
-- A notice under subsection (2) shall-
+(3) A notice under subsection (2) shall—
 
 (a) state that the patron is of the opinion that-
 
@@ -1610,9 +1621,9 @@ S.9 [ No . 14. ] Education (Admission to Schools) Act 2018. [2018.]
 
 (d) state   that   the   board   may  make   representations   to   the   patron   in relation to the proposed direction not later than 14 days after the service of the notice.
 
-- The patron may issue a direction in writing to the board where, having considered any representations made by the board pursuant to a notice under   subsection   (2),   the   patron   remains   of   the   opinion   that subparagraph (i), (ii), (iii), (iv) or (v) of subsection (3)(a) applies.
+(4) The patron may issue a direction in writing to the board where, having considered any representations made by the board pursuant to a notice under subsection (2), the patron remains of the opinion that subparagraph (i), (ii), (iii), (iv) or (v) of subsection (3)(a) applies.
 
-- A direction under this section shall-
+(5) A direction under this section shall—
 
 (a) state   that   the   patron   is   of   the   opinion,   having   considered   any representations   made   by   the   board   pursuant   to   a   notice   under subsection (2), that he or she should issue a direction to the board,
 
@@ -1622,11 +1633,11 @@ S.9 [ No . 14. ] Education (Admission to Schools) Act 2018. [2018.]
 
 (d) set out the period within which the remedial action shall be taken.
 
-- A board shall comply with a direction under this section.
+(6) A board shall comply with a direction under this section.
 
-- Where the patron is of the opinion that the board has failed to comply with  a   direction   under   this   section,   the   patron   may,   by   notice   in writing,   inform   the   board   that   he   or   she   proposes   to   appoint   an independent person under subsection (9)(b).
+(7) Where the patron is of the opinion that the board has failed to comply with a direction under this section, the patron may, by notice in writing, inform the board that he or she proposes to appoint an independent person under subsection (9)(b).
 
-- A notice under subsection (7) shall-
+(8) A notice under subsection (7) shall—
 
 (a) state that the patron is of the opinion that the board has failed to comply with a direction under this section,
 
@@ -1636,7 +1647,7 @@ S.9 [ No . 14. ] Education (Admission to Schools) Act 2018. [2018.]
 
 (d) state   that   the   board   may  make   representations   to   the   patron   in relation to the proposed appointment not later than 14 days after the service of the notice.
 
-- Where, having considered any representations made pursuant to a notice under subsection (7), the patron remains of the opinion that the board has failed to comply with a direction under this section, the patron may, where he or she considers it is appropriate to do so-
+(9) Where, having considered any representations made pursuant to a notice under subsection (7), the patron remains of the opinion that the board has failed to comply with a direction under this section, the patron may, where he or she considers it is appropriate to do so—
 
 (a) forward   a   copy   of   the   notice   under   subsection   (7)   and   any representations made pursuant to that notice to the Minister, and
 
@@ -1654,25 +1665,25 @@ Education (Admission to Schools) Act 2018.
 
 (b) appoint an independent person or persons, who, in the opinion of the patron, has the relevant knowledge and experience, to carry out the remedial action set out in the direction.
 
-- An appointment under subsection (9)(b) shall be subject to the consent of the Minister and shall be for such period as the patron, with the consent of the Minister, determines.
+(10) An appointment under subsection (9)(b) shall be subject to the consent of the Minister and shall be for such period as the patron, with the consent of the Minister, determines.
 
-- The patron may, with the consent of the Minister, extend the period referred to in subsection (10).
+(11) The patron may, with the consent of the Minister, extend the period referred to in subsection (10).
 
-- The patron shall, by notice in writing, inform the board where he or she has appointed an independent person under subsection (9)(b) and give reasons for the appointment.
+(12) The patron shall, by notice in writing, inform the board where he or she has appointed an independent person under subsection (9)(b) and give reasons for the appointment.
 
-- A  person   appointed   under   subsection   (9)(b)   shall carry   out   the remedial action set out in the direction under this section within such period as the patron, with the consent of the Minister, may direct.
+(13) A person appointed under subsection (9)(b) shall carry out the remedial action set out in the direction under this section within such period as the patron, with the consent of the Minister, may direct.
 
-- The board, teachers and other members of the staff of the school shall co-operate (including giving access to all relevant records) with a person   appointed   under   subsection   (9)(b)   in   relation   to   the performance by that person of his or her functions under this Act.
+(14) The board, teachers and other members of the staff of the school shall co-operate (including giving access to all relevant records) with a person appointed under subsection (9)(b) in relation to the performance by that person of his or her functions under this Act.
 
-- In  this   section   and   section   69   a   reference   to   an   admission   policy includes a reference to an annual admission notice.
+(15) In this section and section 69 a reference to an admission policy includes a reference to an annual admission notice.
 
 #### Direction to board by Minister
 
-(1) Subject to this section, the Minister may issue a direction to a board.
+69. (1) Subject to this section, the Minister may issue a direction to a board.
 
-- The Minister shall, by notice in writing, inform the patron and the board where he or she proposes to issue a direction under this section.
+(2) The Minister shall, by notice in writing, inform the patron and the board where he or she proposes to issue a direction under this section.
 
-- A notice under subsection (2) shall-
+(3) A notice under subsection (2) shall—
 
 (a) state that the Minister is of the opinion that-
 
@@ -1704,15 +1715,15 @@ S.9 [ No . 14. ] Education (Admission to Schools) Act 2018. [2018.]
 
 (d) state that the patron and the board may make representations to the Minister in relation to the proposed direction not later than 14 days after the service of the notice.
 
-- Where the Minister, having considered any representations made by the patron and the board pursuant to a notice under subsection (2), remains of the opinion that subparagraph (i), (ii), (iii), (iv) or (v)  of subsection (3)(a) applies the Minister may nominate a person (in this section referred to as an 'authorised person') who, in the opinion of the Minister, has the relevant knowledge and experience to prepare a report for the purposes of this section.
+(4) Where the Minister, having considered any representations made by the patron and the board pursuant to a notice under subsection (2), remains of the opinion that subparagraph (i), (ii), (iii), (iv) or (v) of subsection (3)(a) applies the Minister may nominate a person (in this section referred to as an 'authorised person') who, in the opinion of the Minister, has the relevant knowledge and experience to prepare a report for the purposes of this section.
 
-- The Minister shall, by notice in writing, inform the patron and the board where he or she has appointed an authorised person under subsection (4) and give reasons for the appointment.
+(5) The Minister shall, by notice in writing, inform the patron and the board where he or she has appointed an authorised person under subsection (4) and give reasons for the appointment.
 
-- The   authorised   person   shall,   within   such   period   as   the   Minister specifies, prepare and furnish to the Minister a report for the purposes of this section (in this section referred to as a report).
+(6) The authorised person shall, within such period as the Minister specifies, prepare and furnish to the Minister a report for the purposes of this section (in this section referred to as a report).
 
-- The Minister, may where he or she considers it appropriate to do so, extend the period referred to in subsection (6).
+(7) The Minister, may where he or she considers it appropriate to do so, extend the period referred to in subsection (6).
 
-- When preparing a report an authorised person shall, having regard to the opinion of the Minister stated in the notice under subsection (2) and any representations made to the Minister by the patron or the board pursuant to that notice, do one or more of the following-
+(8) When preparing a report an authorised person shall, having regard to the opinion of the Minister stated in the notice under subsection (2) and any representations made to the Minister by the patron or the board pursuant to that notice, do one or more of the following—
 
 (a) ascertain whether or not a board has prepared and published an admission policy in accordance with this Act, and where he or she considers that the admission policy of the school has not been so prepared or published, set out the remedial action which he or she considers should be taken by the board,
 
@@ -1738,9 +1749,9 @@ set out the remedial action which he or she considers should be taken by the boa
 
 (e) ascertain whether or not the board has complied with a direction under section 29D, 29E, 66, 67(1) or 67(3), and where he or she considers that the board has not so complied, set out the remedial action which he or she considers should be taken by the board.
 
-- Where,   having   considered   a   report,   the   Minister   remains   of   the opinion that subparagraph (i), (ii), (iii), (iv) or (v) of subsection (3)(a) applies, the Minister may issue a direction in writing to the board of the school concerned.
+(9) Where, having considered a report, the Minister remains of the opinion that subparagraph (i), (ii), (iii), (iv) or (v) of subsection (3)(a) applies, the Minister may issue a direction in writing to the board of the school concerned.
 
-- A direction under this section shall-
+(10) A direction under this section shall—
 
 (a) state that the Minister is of the opinion, having regard to the report, that he or she should issue a direction to the board,
 
@@ -1752,19 +1763,19 @@ set out the remedial action which he or she considers should be taken by the boa
 
 (e) set out the period within which the remedial action shall be taken.
 
-- The Minister shall forward a copy of a direction under this section to the patron.
+(11) The Minister shall forward a copy of a direction under this section to the patron.
 
-- A board shall comply with a direction under this section.
+(12) A board shall comply with a direction under this section.
 
-- The patron, board, teachers and other members of the staff of the school   shall   co-operate   (including   giving   access   to   all   relevant records) with an authorised person in relation to the performance by that person of his or her functions under this Act.
+(13) The patron, board, teachers and other members of the staff of the school shall co-operate (including giving access to all relevant records) with an authorised person in relation to the performance by that person of his or her functions under this Act.
 
-- An authorised person shall be paid by the Minister such remuneration (if any) and such allowances for expenses as the Minister, with the approval of the Minister for Public Expenditure and Reform, may determine.
+(14) An authorised person shall be paid by the Minister such remuneration (if any) and such allowances for expenses as the Minister, with the approval of the Minister for Public Expenditure and Reform, may determine.
 
 #### Request to patron by Minister
 
-(1) Where the Minister is of the opinion that a board has failed to comply with a direction under section 69, he or she may, by notice in writing, inform the patron and the board.
+70. (1) Where the Minister is of the opinion that a board has failed to comply with a direction under section 69, he or she may, by notice in writing, inform the patron and the board.
 
-- A notice under subsection (1) shall-
+(2) A notice under subsection (1) shall—
 
 (a) state that the Minister is of the opinion that the board has failed to comply with a direction under section 69,
 
@@ -1780,15 +1791,15 @@ S.9 [ No . 14. ] Education (Admission to Schools) Act 2018. [2018.]
 
 (c) state  that   the   patron   and   the   board   may,   within   14   days   of   the notice,   make   representations   to   the   Minister   in   relation   to  the Minister's opinion.
 
-- Where the Minister remains of the opinion, having considered any representations made pursuant to a notice under subsection (1), that the board has failed to comply with a direction under section 69, he or she may request the patron of the school concerned to direct the board to comply with the direction under section 69.
+(3) Where the Minister remains of the opinion, having considered any representations made pursuant to a notice under subsection (1), that the board has failed to comply with a direction under section 69, he or she may request the patron of the school concerned to direct the board to comply with the direction under section 69.
 
-- A patron shall comply with a request of the Minister under subsection (3).
+(4) A patron shall comply with a request of the Minister under subsection (3).
 
-- A board shall comply with a direction of the patron under subsection (3).
+(5) A board shall comply with a direction of the patron under subsection (3).
 
-- Where, following a direction by the patron to the board to comply with a direction under section 69, the patron is of the opinion that the board has failed to comply with the direction the patron shall, by notice in writing, inform the board.
+(6) Where, following a direction by the patron to the board to comply with a direction under section 69, the patron is of the opinion that the board has failed to comply with the direction the patron shall, by notice in writing, inform the board.
 
-- A notice under subsection (6) shall-
+(7) A notice under subsection (6) shall—
 
 (a) state that the patron is of the opinion that the board has failed to comply with a direction under section 69,
 
@@ -1798,15 +1809,15 @@ S.9 [ No . 14. ] Education (Admission to Schools) Act 2018. [2018.]
 
 (d) state   that   the   board   may  make   representations   to   the   patron   in relation to the proposed appointment not later than 14 days after the service of the notice.
 
-- Where the patron  remains   of   the   opinion,   having   considered   any representations   made   by   the   board   pursuant   to   a   notice   under subsection (6), that the board has failed to comply with a direction under section 69, the patron shall appoint an independent person who, in the patron's opinion, has the relevant knowledge and experience to carry out the remedial action set out in the direction under section 69.
+(8) Where the patron remains of the opinion, having considered any representations made by the board pursuant to a notice under subsection (6), that the board has failed to comply with a direction under section 69, the patron shall appoint an independent person who, in the patron's opinion, has the relevant knowledge and experience to carry out the remedial action set out in the direction under section 69.
 
-- The patron shall forward to the Minister a copy of a notice under subsection (6) and any representations made pursuant to that notice.
+(9) The patron shall forward to the Minister a copy of a notice under subsection (6) and any representations made pursuant to that notice.
 
-- An appointment under subsection (8) shall be for such period as the patron determines, and shall be subject to the consent of the Minister.
+(10) An appointment under subsection (8) shall be for such period as the patron determines, and shall be subject to the consent of the Minister.
 
-- A patron may, with the consent of the Minister, extend the period referred to in subsection (10).
+(11) A patron may, with the consent of the Minister, extend the period referred to in subsection (10).
 
-- A person appointed under subsection (8) shall carry out the remedial action set out in the direction under section 69 within such period as the patron, with the consent of the Minister, may direct.
+(12) A person appointed under subsection (8) shall carry out the remedial action set out in the direction under section 69 within such period as the patron, with the consent of the Minister, may direct.
 
 44
 
@@ -1820,11 +1831,11 @@ Education (Admission to Schools) Act 2018.
 
 [2018.]
 
-- The board, teachers and other members of the staff of the school shall co-operate (including giving access to all relevant records) with a person appointed under subsection (8) in relation to the performance by that person of his or her functions under this Act.'.
+(13) The board, teachers and other members of the staff of the school shall co-operate (including giving access to all relevant records) with a person appointed under subsection (8) in relation to the performance by that person of his or her functions under this Act.'.
 
 ## Amendment of Education (Welfare) Act 2000
 
-- The Education (Welfare) Act 2000 is amended-
+10. The Education (Welfare) Act 2000 is amended—
 
 (a) in   subsection   (1)   of   section   23,   by   the   insertion   of   'and   publish'   after   'in accordance with subsection (2),', and
 
@@ -1842,7 +1853,7 @@ Education (Admission to Schools) Act 2018.
 
 ## Amendment of Equal Status Act 2000
 
-- The Equal Status Act 2000 is amended-
+11. The Equal Status Act 2000 is amended—
 
 (a) in section 7(3)-
 
@@ -1852,7 +1863,7 @@ Education (Admission to Schools) Act 2018.
 
 (ii) by the insertion of the following paragraphs after paragraph (c):
 
-'(ca) where the establishment is a school providing primary or postprimary education to students and the objective of the school is to provide   education   in   an   environment   which   promotes   certain religious values, it refuses to admit as a student a person who is not
+'(ca) where the establishment is a school providing primary or post-primary education to students and the objective of the school is to provide education in an environment which promotes certain religious values, it refuses to admit as a student a person who is not
 
 45
 
@@ -1866,37 +1877,37 @@ Education (Admission to Schools) Act 2018.
 
 [2018.]
 
+of a particular religious denomination and it is proved that the refusal is essential to maintain the ethos of the school,
+
+(cb) where the establishment is a recognised primary school and it admits as a student a person in accordance with section 7A (inserted by section 11(b) of the Education (Admission to Schools) Act 2018).',
+
+and
+
+(iii) by the substitution of the following subsection for subsection (6) (inserted by section 15(c) of the Equality (Miscellaneous Provisions) Act 2015):
+
+'(6) In this section—
+
+'member state of the European Economic Area' means a state that is a contracting party to the Agreement on the European Economic Area signed at Oporto on 2 May 1992, as adjusted by all subsequent amendments to that Agreement;
+
+'recognised primary school' means a primary school—
+
+(a) designated by the Minister for Education and Skills under subsection (1) of section 10 of the Education Act 1998 to be a school recognised for the purposes of that Act, or
+
+(b) deemed to be a school recognised in accordance with the said section 10.',
+
 and
 
 (b) by the insertion of the following section after section 7:
 
 ### 'Recognised primary schools
 
-- 7A. (1) When making an application for admission to a recognised primary school, an applicant may provide-
+7A. (1) When making an application for admission to a recognised primary school, an applicant may provide—
 
-(a) a statement confirming that the student in respect of whom the application relates is a member of a minority religion and that the applicant   wishes   the   student   to   be   educated   in   a   school   that provides   a   programme   of   religious   instruction   or   religious education which is of the same religious ethos as, or a similar religious ethos to, the religious ethos of the minority religion of the student concerned, and
+(a) a statement confirming that the student in respect of whom the application relates is a member of a minority religion and that the applicant wishes the student to be educated in a school that provides a programme of religious instruction or religious education which is of the same religious ethos as, or a similar religious ethos to, the religious ethos of the minority religion of the student concerned, and
 
-(b) any evidence that the applicant wishes to include to support the statement   that   the   student   in   respect   of   whom   the   application relates is a member of a minority religion.
+(b) any evidence that the applicant wishes to include to support the statement that the student in respect of whom the application relates is a member of a minority religion.
 
-- A  recognised   primary   school   may,   following   an   application   in accordance with subsection (1) and in accordance with this section, give priority to the admission of a student where the school is satisfied that-
-
-and
-
-(iii) by the substitution of the following subsection for subsection (6) (inserted by section 15(c) of the Equality (Miscellaneous Provisions) Act 2015):
-
-'(6) In this section-
-
-'member state of the European Economic Area' means a state that is a contracting party to the Agreement on the European Economic Area signed   at   Oporto   on   2   May   1992,   as   adjusted   by   all   subsequent amendments to that Agreement;
-
-'recognised primary school' means a primary school-
-
-(a) designated   by   the   Minister   for   Education   and   Skills   under subsection (1) of section 10 of the  Education Act 1998  to be a school recognised for the purposes of that Act, or
-
-(b) deemed to be a school recognised in accordance with the said section 10.',
-
-of a particular religious denomination and it is proved that the refusal is essential to maintain the ethos of the school,
-
-(cb) where the establishment   is   a   recognised   primary  school   and   it admits   as   a   student   a   person   in   accordance   with   section   7A (inserted by section 11(b) of the Education (Admission to Schools) Act 2018 ).',
+(2) A recognised primary school may, following an application in accordance with subsection (1) and in accordance with this section, give priority to the admission of a student where the school is satisfied that—
 
 46
 
@@ -1914,23 +1925,23 @@ Education (Admission to Schools) Act 2018.
 
 (b) the   school   provides   a   programme   of   religious   instruction   or religious education which is of the same religious ethos as, or a similar   religious   ethos   to,   the   religious   ethos   of   the   minority religion of the student concerned.
 
-- In satisfying itself in accordance with subsection (2)(a) a recognised primary school shall take into account only-
+(3) In satisfying itself in accordance with subsection (2)(a) a recognised primary school shall take into account only—
 
 (a) the statement that the applicant has provided in accordance with subsection (1)(a), and
 
 (b) any evidence that the applicant has provided in accordance with subsection (1)(b).
 
-(a) Subject to paragraph (b), a recognised primary school may not for the purpose of admission to the school concerned rank, in order of preference, by virtue of the particular religious denomination of a student who has satisfied the school in accordance with subsection (2) as against students of other religious denominations who have satisfied the school concerned in accordance with that subsection.
+(4) (a) Subject to paragraph (b), a recognised primary school may not for the purpose of admission to the school concerned rank, in order of preference, by virtue of the particular religious denomination of a student who has satisfied the school in accordance with subsection (2) as against students of other religious denominations who have satisfied the school concerned in accordance with that subsection.
 
 (b) Nothing   in   paragraph   (a)   shall   preclude   a   recognised   primary school from applying the selection criteria set out in the school's admission   policy   to   students   who   have   satisfied   the   school   in accordance with subsection (2), where the number of such students is greater than the number of places available.
 
-- The Minister for Education and Skills shall-
+(5) The Minister for Education and Skills shall—
 
 (a) not later than 5 years after section 11 of the Education (Admission to Schools) Act 2018 comes into operation, commence a review of the operation of this section, and
 
 (b) not later than 12 months after the expiration of the said 5 years, make a report to each House of the Oireachtas of his or her findings and conclusions resulting from that review.
 
-- In this section-
+(6) In this section—
 
 'Act of 1998' means the Education Act 1998;
 
@@ -1948,13 +1959,19 @@ Education (Admission to Schools) Act 2018.
 
 S.11 [ No . 14. ] Education (Admission to Schools) Act 2018. [2018.]
 
+Statistics Office in the most recent census report published by that office setting out the final result of a census of population of the State (whether or not that is the most recent such census of population);
+
+'recognised primary school' has the same meaning as it has in section 7;
+
+'student' has the same meaning as it has in Part X of the Act of 1998.'.
+
 ## Repeals
 
-- The following are repealed:
+12. The following are repealed:
 
 (a) section 33(g) of the Act of 1998;
 
-(b) section 10 of the  Education for Persons with Special Educational Needs Act 2004;
+(b) section 10 of the Education for Persons with Special Educational Needs Act 2004;
 
 (c) section 19 of the Education (Welfare) Act 2000;
 
@@ -1962,21 +1979,15 @@ S.11 [ No . 14. ] Education (Admission to Schools) Act 2018. [2018.]
 
 ## Short title, collective citation and commencement
 
-(1) This Act may be cited as the Education (Admission to Schools) Act 2018.
+13. (1) This Act may be cited as the Education (Admission to Schools) Act 2018.
 
-- The  Education Acts 1878 to 2012  and this Act (other than sections  10 , 11 and paragraphs (b) , (c) and (d) of section 12 ) may be cited together as the Education Acts 1878 to 2018.
+(2) The Education Acts 1878 to 2012 and this Act (other than sections 10, 11 and paragraphs (b), (c) and (d) of section 12) may be cited together as the Education Acts 1878 to 2018.
 
-- The Equal Status Acts 2000 to 2015 and section 11 may be cited together as the Equal Status Acts 2000 to 2018.
+(3) The Equal Status Acts 2000 to 2015 and section 11 may be cited together as the Equal Status Acts 2000 to 2018.
 
-- Subject to subsection (5) , this Act shall come into operation on such day or days as the Minister for Education and Skills may appoint by order or orders either generally or with reference to any particular purpose or provision and different days may be so appointed for different purposes or different provisions.
+(4) Subject to subsection (5), this Act shall come into operation on such day or days as the Minister for Education and Skills may appoint by order or orders either generally or with reference to any particular purpose or provision and different days may be so appointed for different purposes or different provisions.
 
-- Section  11 shall   come   into   operation   on   such   day   or   days   as   the   Minister   for Education   and   Skills   may,   after   consultation   with   the   Minister   for   Justice   and Equality,   appoint   by   order   or   orders   either   generally   or   with   reference   to   any particular purpose or provision and different days may be so appointed for different purposes or different provisions.
-
-Statistics Office in the most recent census report published by that office setting out the final result of a census of population of the State (whether or not that is the most recent such census of population);
-
-'recognised primary school' has the same meaning as it has in section 7;
-
-'student' has the same meaning as it has in Part X of the Act of 1998.'.
+(5) Section 11 shall come into operation on such day or days as the Minister for Education and Skills may, after consultation with the Minister for Justice and Equality, appoint by order or orders either generally or with reference to any particular purpose or provision and different days may be so appointed for different purposes or different provisions.
 
 48
 
