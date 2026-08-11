@@ -14,25 +14,125 @@ July 2010, Beijing
 
 ## Table of Contents
 
+PREAMBLE 5
+SECTION I: GENERAL STRATEGY 6
+CHAPTER 1: GUIDELINES AND EXECUTIVE PRINCIPLES 6
+(1) Guidelines. 6
+(2) Executive principles. 7
+CHAPTER 2: STRATEGIC GOALS AND THEMES 8
+(3) Strategic goals. 9
+(4) Strategic themes. 10
+Box 1: Major goals for education development from 2009 to 2020 11
+Box 2: Major goals for human resource development from 2009 to 2020 12
+SECTION II: DEVELOPMENT MISSIONS 12
+CHAPTER 3: PRESCHOOL EDUCATION 12
+(5) Basically universalizing preschool education. 12
+(6) Defining government responsibilities. 12
+(7) Strengthening preschool education in rural areas. 13
+CHAPTER 4: COMPULSORY EDUCATION 13
+(8) Consolidating, enhancing nine-year compulsory education. 13
+(9) Promoting balanced development in compulsory education. 14
+(10) Lessening schoolwork burdens on primary, middle school students. 15
+CHAPTER 5: SENIOR MIDDLE SCHOOL EDUCATION 16
+(11) Accelerating popularization of senior middle school education 16
+(12) Improving students' quality in all respects in senior middle school. 16
+(13) Promoting diversification of senior middle schools. 16
+CHAPTER 6: VOCATIONAL EDUCATION 16
+(14) Intensifying efforts in developing vocational education. 16
+(15) Mobilizing the enthusiasm of industries and enterprises in vocational education. 17
+(16) Speeding up vocational education development to meet the needs of rural areas. 18
+(17) Making vocational education more appealing. 18
+CHAPTER 7: HIGHER EDUCATION 18
+(18) Raising higher education quality in an all-round way. 18
+(19) Bettering cultivation of talents or professionals. 19
+(20) Elevating research levels. 19
+(21) Buttressing social service capacities. 20
+(22) Optimizing a distinctive higher education structure. 20
+CHAPTER 8: FURTHER OR CONTINUING EDUCATION 21
 2
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
+(23) Accelerating development in further education. 21
+(24) Putting further education under a sound framework. 21
+(25) Building a flexible, open system for lifelong education. 22
+CHAPTER 9: EDUCATION FOR ETHNIC MINORITIES 22
+(26) Valuing and supporting education for ethnic minorities. 22
+(27) Raising education quality for ethnic minorities. 23
+CHAPTER 10: SPECIAL EDUCATION 24
+(28) Caring for and supporting special education. 24
+(29) Improving special education system. 24
+(30) Perfecting guarantees for special education. 24
+SECTION III: EDUCATIONAL SYSTEM REFORMS 24
+CHAPTER 11: REFORM OF CULTIVATION SYSTEM FOR TALENTS OR PROFESSIONALS 25
+(31) Updating concepts on talent or professional cultivation. 25
+(32) Innovating cultivation mode for talent or professional. 25
+(33) Improving assessment of quality of education and assessment of talents 26
+CHAPTER 12: REFORM OF EXAMINATIONS AND ENROLLMENT SYSTEMS 26
+(34) Advancing examination and enrollment reform. 26
+(35) Revamping examinations and enrollment at secondary stage. 27
+(36) Improving examinations and enrollment at tertiary stage. 27
+(37) Raising information transparency, enhancing social supervision. 28
+CHAPTER 13: BUILDING A MODERN SCHOOL SYSTEM 28
+(38) Further separating government functions from school management and detaching school governance from school operation. 28
+(39) Extending school decision-making power. 29
+(40) Introducing a modern college system with Chinese characteristics. 29
+(41) Improving primary and middle school management. 30
+CHAPTER 14: REFORM ON SCHOOL-RUNNING SYSTEM 30
+(42) Stepping up reform of schools' operational systems. 30
+(43) Strong support for nongovernmental education. 31
+(44) Managing nongovernmental schools according to law. 31
+CHAPTER 15: REFORM OF EDUCATION ADMINISTRATION SYSTEM 32
+(45) Improving the education administration system with strong coordination and well-defined rights, responsibilities. 32
+(46) Stepping up overall planning for education under provincial administration. 32
+(47) Changing government functions on education. 33
+CHAPTER 16: FURTHER OPENING CHINA'S EDUCATION 34
+(48) Promoting international exchanges and cooperation. 34
+(49) Introducing quality education resources abroad. 34
+(50) Upgrading exchanges and cooperation. 34
+SECTION IV: GUARANTEEING MEASURES 35
+CHAPTER 17: STRENGTHENING BUILDING OF THE TEACHERS' CONTINGENT 35
+(51) Building a vast contingent of quality teachers. 36
+(52) Promoting professional ethics among teachers. 36
+(53) Raising teachers' professional efficiency. 36
 3
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
+(54) Heightening teachers' social status, salaries, benefits. 37
+(55) Streamlining administration over teachers. 37
+CHAPTER 18: ENSURING EDUCATION INPUT 38
+(56) Increasing education investment. 38
+(57) Improving distribution mechanism 39
+(58) Tightening up fund management. 40
+CHAPTER 19: ACCELERATING INFORMATIZATION IN EDUCATION 41
+(59) Speeding up information infrastructure construction 41
+(60) Developing and applying more quality education resources. 41
+(61) Building state education information management system 41
+CHAPTER 20: PROMOTING RULE OF LAW IN EDUCATION 42
+(62) Improving educational legislations. 42
+(63) Boosting all-round administration by law 42
+(64) Vigorously advance on-campus rule of law. 42
+(65) Enhancing superintendence, supervision and accountability. 43
+CHAPTER 21: MAJOR PROJECTS AND PILOT REFORM PROGRAMS 43
+(66) Major projects to be organized and undertaken 43
+(67) Pilot reform to be undertaken. 46
+CHAPTER 22: INTENSIFYING ORGANIZATION AND LEADERSHIP 48
+(68) Shoring up and improving the leaderships over education. 48
+(69) Stepping up Party building in the realm of education. 49
+(70) Maintaining harmony and stability in education system. 50
+IMPLEMENTATION 50
 4
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-In accordance with the strategic arrangement of the 17 th Communist Party of China National Congress to 'give priority to education and turn China into a country rich in human resources', this Plan is formulated to enhance citizens' overall quality, boost educational development in a scientific way, and speed up socialist modernization.
+In accordance with the strategic arrangement of the 17th Communist Party of China National Congress to 'give priority to education and turn China into a country rich in human resources', this Plan is formulated to enhance citizens' overall quality, boost educational development in a scientific way, and speed up socialist modernization.
 
 ## PREAMBLE
 
@@ -40,7 +140,7 @@ A nation's enduring future hinges on education. Education is the cornerstone of 
 
 The Party and the State have all along put a premium on education. Since the founding of the People's Republic of China, the entire Party and society, working hard  under  the  leadership  of  Party's  three  generations  of  central  collective leadership with Comrades Mao Zedong, Deng Xiaoping and Jiang Zemin at the core,  and  the  Party's  Central  Committee  with  Comrade  Hu  Jintao  as  General Secretary,  have  blazed  a  road  to  develop  socialist  education  with  Chinese characteristics, established the world's largest education system, and guaranteed the right to education for billions of Chinese. Education funding is growing  by  large  margins,  while  school-running  conditions  have  improved dramatically;  education  reform  is  going  steadily  in  depth,  as  school-running proficiency is rising without letup. Since the beginning of the 21st century, free compulsory  education  has  become  the  norm  in  urban  and  rural  areas,  while vocational education has made headway fast. In the meantime, higher education reached  a  new  stage  of  popularization,  as  rural  education  grew  in  strength. Remarkable  progress  has  also  been  made  in  achieving  education  equity. Education development has vastly enhanced the quality of the entire nation, and stimulated  innovation  in  science,  technology  and  cultural  prosperity,  thereby making irreplaceable and significant contributions to China's economic growth, social  progress,  and  the  betterment  of  people's  livelihood.  In  the  intervening years, our nation has accomplished the transition from a populous nation to a nation with larger scale of human resource.
 
-The world today is undergoing great development, profound changes and major adjustments.  Both  world  multi-polarization  and  economic  globalization  are witnessing  in-depth  development.  Science  and  technology  are  making  rapid strides,  and  competition  for  talents  or  professionals  is  intensifying  with  each passing day. China is currently at a key stage for reform and development, as all-round  progress  is  being  made  in  economic,  political,  cultural  and  social development as well as in promoting ecological civilization. As industrialization, informatization, urbanization, marketization, and internationalization develop in depth,  China  is  seeing  increasing  pressure  from  its  vast  population,  limited natural resources, the environment, and its transformation of economic growth pattern. All those have highlighted the pressing need to enhance citizens' quality and cultivate innovative personnel. The future development and great rejuvenation of the Chinese nation are predicated on talents or professionals, and on education.
+The world today is undergoing great development, profound changes and major adjustments. Both world multi-polarization and economic globalization are witnessing in-depth development. Science and technology are making rapid strides, and competition for talents or professionals is intensifying with each passing day. China is currently at a key stage for reform and development, as all-round progress is being made in economic, political, cultural and social development as well as in promoting ecological civilization. As industrialization, informatization, urbanization, marketization, and internationalization develop in
 
 5
 
@@ -48,7 +148,9 @@ The world today is undergoing great development, profound changes and major adju
 
 [[START OF PAGE 6]]
 
-In  the  face  of  unprecedented  opportunities  and  challenges,  we  must  stay levelheaded about the fact that education in this nation is still lagging behind the requirements of national socioeconomic development and people's demand for fine  education.  Our  concept  of  education  and  our  teaching  contents  and methodology are relatively outdated, schoolwork burdens on primary and middle school  students  too  heavy,  the  promotion  of  quality  education  arrested,  our students  weak  in  their  adaptability  to  society,  and  innovative,  practical  and versatile professionals in acute shortage. Our education system and mechanisms are yet  perfect.  Schools  lack  vitality  in  their  operations,  and  the structure and geographical distribution of education resources are yet to be put on an even keel. Impoverished and ethnic autonomous areas are trailing behind in education development, which is also uneven between urban and rural areas and between different regions. Education funding cannot keep up with demands, and education is yet to be accorded the strategic priority it deserves. To receive quality education is the outcry of the people, and to deepen education reform has been public's shared desire.
+depth, China is seeing increasing pressure from its vast population, limited natural resources, the environment, and its transformation of economic growth pattern. All those have highlighted the pressing need to enhance citizens' quality and cultivate innovative personnel. The future development and great rejuvenation of the Chinese nation are predicated on talents or professionals, and on education.
+
+In the face of unprecedented opportunities and challenges, we must stay levelheaded about the fact that education in this nation is still lagging behind the requirements of national socioeconomic development and people's demand for fine education. Our concept of education and our teaching contents and methodology are relatively outdated, schoolwork burdens on primary and middle school students too heavy, the promotion of quality education arrested, our students weak in their adaptability to society, and innovative, practical and versatile professionals in acute shortage. Our education system and mechanisms are yet perfect. Schools lack vitality in their operations, and the structure and geographical distribution of education resources are yet to be put on an even keel. Impoverished and ethnic autonomous areas are trailing behind in education development, which is also uneven between urban and rural areas and between different regions. Education funding cannot keep up with demands, and education is yet to be accorded the strategic priority it deserves. To receive quality education is the outcry of the people, and to deepen education reform has been public's shared desire.
 
 The  destiny  of  our  nation  rests  on  education.  People  across  the  country  are duty-bound to rejuvenate education. Education development should always be put  in  a  prioritized  position  on  Party  and  state  agenda.  In  line  with  the requirements to reach out to modernization, the world and the future, and to meet the demands for building a moderately prosperous society in all respects and an innovative country, it is imperative  to regard  cultivation of  people  as  a fundamental  mission,  draw  strength  from  reform  and  innovation,  improve education equity, carry out quality oriented education in an all-round way, push forward scientific education development from a new historical starting point, and speed up the transition from the world's largest education system to one of the world's best, and from a country with larger scale of human resource to a country rich in human resources. Only thus can we make still greater contributions to the great  rejuvenation  of  the  Chinese  nation  and  the  advancement  of  world civilization.
 
@@ -140,23 +242,29 @@ learn how to use their hands and minds, how to survive, make a living, and behav
 
  Stressing all-round development. Moral education, intellectual education, physical  education,  and  aesthetic  education  shall  be  stepped  up  and improved in an all-round way. It is imperative to give equal footings to cultural learning and moral edification, to theoretical study and social practice, and to all-round  development  and  individual  characteristics.  Great  importance should be attached to physical health. We must guarantee students' physical education  courses  and  time  for  extracurricular  activities,  and  improve  the quality  of  physical  education.  In  the  mean  time,  fine  education  in  mental health  shall  be  provided  to  improve  students'  mental  and  physical  health. Education  in  aesthetics  shall  be  intensified  to  instill  a  cultured  aesthetical taste  and  enhance  their  cultural  attainment.  Labor  education  should  be strengthened, to cultivate their love for work and the working people. Due attention shall be paid to education in personal and campus safety, human life,  national defense, and sustainable development. Education in morality, intelligence, physical health and aesthetics should be integrated. Students' overall quality shall be further honed, with a view to turn them into socialist builders  and  successors  that  are  well  developed  morally,  intellectually, physically and aesthetically.
 
+#### Box 1:    Major goals for education development from 2009 to 2020
+
 Indicators | Units | 2009 | 2015 | 2020
 --- | --- | --- | --- | ---
-Preschool education
-Number of children in kindergartens Gross attendance rate for those entering kindergartens 1 year before starting school Gross attendance rate for those entering kindergartens 2 years before starting school Gross attendance rate for those entering kindergartens 3 years before starting school | Million % % % | 26.58 74.0 65.0 50.9 | 34.0 85.0 70.0 | 40.0 95.0 80.0 70.0
-Nine-year compulsory education | 60.0
-Number of students in school Retention rate of students education* | Million % | 157.72 90.8 | 93.5 45.0 | 165.0 95.0
-Senior middle school
-Number of students in school Gross enrollment rate | Million % | 46.24 79.2 | 161.0 | 47.0
-Number of students in secondary vocational schools | Million | 87.0 | 90.0
-Vocational education
-Number of students in higher vocational colleges | Million Million | 21.79 12.8 | 22.5 13.9 | 23.5 14.8
-Higher education**
-Total enrollments Number of university/college students on campus | Million Million | 29.79 28.26 | 33.5 30.8 1.7 | 35.5 33.0 2.0
-1.4
-of which: number of postgraduates | % | 24.2 | 36.0 | 40.0
-
-#### Box 1:    Major goals for education development from 2009 to 2020
+Preschool education | | | |
+Number of children in kindergartens | Million | 26.58 | 34.0 | 40.0
+Gross attendance rate for those entering kindergartens 1 year before starting school | % | 74.0 | 85.0 | 95.0
+Gross attendance rate for those entering kindergartens 2 years before starting school | % | 65.0 | 70.0 | 80.0
+Gross attendance rate for those entering kindergartens 3 years before starting school | % | 50.9 | 60.0 | 70.0
+Nine-year compulsory education | | | |
+Number of students in school | Million | 157.72 | 161.0 | 165.0
+Retention rate of students | % | 90.8 | 93.5 | 95.0
+Senior middle school education* | | | |
+Number of students in school | Million | 46.24 | 45.0 | 47.0
+Gross enrollment rate | % | 79.2 | 87.0 | 90.0
+Vocational education | | | |
+Number of students in secondary vocational schools | Million | 21.79 | 22.5 | 23.5
+Number of students in higher vocational colleges | Million | 12.8 | 13.9 | 14.8
+Higher education** | | | |
+Total enrollments | Million | 29.79 | 33.5 | 35.5
+Number of university/college students on campus | Million | 28.26 | 30.8 | 33.0
+of which: number of postgraduates | Million | 1.4 | 1.7 | 2.0
+ | % | 24.2 | 36.0 | 40.0
 
 11
 
@@ -165,21 +273,21 @@ of which: number of postgraduates | % | 24.2 | 36.0 | 40.0
 [[START OF PAGE 12]]
 
 Gross enrollment rate
---- | --- | --- | --- | ---
+
 Further or continuing education
 Number of on-the-job learners in further or continuing education | million times | 166.0 | 290.0 | 350.0
 
 Note: * including students in secondary vocational schools; ** including students in higher vocational colleges.
 
+#### Box 2:    Major goals for human resource development from 2009 to 2020
+
 Indicators | Units | 2009 | 2015 | 2020
 --- | --- | --- | --- | ---
 Number of people with higher education | Million | 98.3 | 145.0 | 195.0
-Average number of years of education received by the working-age(20-59 years old) population of which: percentage of those having received | Year | 9.5 | 10.5 | 11.2
-higher education | % | 9.9 | 15.0 | 20.0
-Average number of years of education received by newly-added members of the workforce of which: percentage of those having received senior middle school or higher education | Year | 12.4 | 13.3 | 13.5
-% | 67.0 | 87.0 | 90.0
-
-#### Box 2:    Major goals for human resource development from 2009 to 2020
+Average number of years of education received by the working-age(20-59 years old) population | Year | 9.5 | 10.5 | 11.2
+of which: percentage of those having received higher education | % | 9.9 | 15.0 | 20.0
+Average number of years of education received by newly-added members of the workforce | Year | 12.4 | 13.3 | 13.5
+of which: percentage of those having received senior middle school or higher education | % | 67.0 | 87.0 | 90.0
 
 ## SECTION II: DEVELOPMENT MISSIONS
 
@@ -191,13 +299,15 @@ Preschool education is key to physical and mental growth of the children and to 
 
 #### (6) Defining government responsibilities.
 
-Preschool  education  shall  be  listed  in  urban  and  new  socialist  countryside development plans.  A  government-led  kindergarten  management  mechanism, which includes social participation and pools both public and private resources, shall  be  established.  Stepped-up  efforts  should  be  made  to  develop  public kindergartens,  and  to  support  non-governmental  ones.  Government  shall increase input, so that the costs involved are shared on a rational basis. Support shall be given to families that cannot afford preschool education. Management of preschool  education  should  be  improved,  while  kindergarten  management standards shall be drawn up. An approval system for kindergarten establishment shall be established, and administrative approaches to regulate tuition fees shall be  improved.  We  should  strictly  implement  the  qualification  standards  for preschool  teachers,  and  enhance  teachers'  trainings,  so  as  to  improve  their overall quality. Kindergarten teachers' social status, salaries and benefits shall be guaranteed in accordance with relevant laws. Preschool education shall be put under  the  overall  guidance  and  administration  of  the  government's  education departments, and the departments concerned should perform their respective duties and mobilize the entire society to strengthen preschool education.
+Preschool education shall be listed in urban and new socialist countryside development plans. A government-led kindergarten management mechanism, which includes social participation and pools both public and private resources, shall be established. Stepped-up efforts should be made to develop public kindergartens, and to support non-governmental ones. Government shall increase input, so that the costs involved are shared on a rational basis. Support shall be given to families that cannot afford preschool education. Management of preschool education should be improved, while kindergarten management
 
 12
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+standards shall be drawn up. An approval system for kindergarten establishment shall be established, and administrative approaches to regulate tuition fees shall be improved. We should strictly implement the qualification standards for preschool teachers, and enhance teachers' trainings, so as to improve their overall quality. Kindergarten teachers' social status, salaries and benefits shall be guaranteed in accordance with relevant laws. Preschool education shall be put under the overall guidance and administration of the government's education departments, and the departments concerned should perform their respective duties and mobilize the entire society to strengthen preschool education.
 
 #### (7) Strengthening preschool education in rural areas.
 
@@ -267,13 +377,13 @@ Curricular reform shall be pushed forward in depth, and syllabi implemented in a
 
 #### (13) Promoting diversification of senior middle schools.
 
-The  school-running  system  shall  be  diversified,  and  high-quality  education resources  shall  be  expanded.  It  is  also  necessary  to  diversify  the  modes  of education and meet the needs of students with different potentials. More ways and means for discovering and cultivating innovative personnel shall be explored. Senior middle schools shall be encouraged to distinguish themselves with unique features,  and,  if  possible  offer  vocational  trainings .  The  mode  of  developing comprehensive  senior  middle  schools  shall  be  studied.  Vocational  education shall be offered through various ways to students at school and graduates who have failed to enter college.
+The school-running system shall be diversified, and high-quality education resources shall be expanded. It is also necessary to diversify the modes of education and meet the needs of students with different potentials. More ways and means for discovering and cultivating innovative personnel shall be explored. Senior middle schools shall be encouraged to distinguish themselves with unique features, and, if possible, offer vocational trainings. The mode of developing comprehensive senior middle schools shall be studied. Vocational education shall be offered through various ways to students at school and graduates who have failed to enter college.
 
-### Chapter 6 Vocational Education
+### Chapter 6: Vocational Education
 
 #### (14) Intensifying efforts in developing vocational education.
 
-Expanding vocational education must be given more precedence partly because it  is  a  major  channel  through  which  to  boost  economic  growth,  promote employment,  improve  people's  livelihood  and  address  issues  pertinent  to agriculture,  rural  areas  and  farmers,  and  partly  because  it  is  a  key  link  in mitigating  structural  conflicts  between  labor  supply  and  demand.  Vocational education  should  reach  out  to  people  and  society,  and  cultivate  work  ethics, occupational  skills,  employability  and  career-starting  abilities  in  students.  By 2020, a modern vocational education system with well coordinated secondary and higher vocational education shall have  come  to  stay to meet  the requirements of adjusting the economic development mode and restructuring the industries,  to  embody  the  philosophy  for  lifelong  education,  and  to  satisfy  the demand of the people for vocational education and the needs of the economy and society for high-caliber workers and skilled personnel.
+Expanding vocational education must be given more precedence partly because
 
 16
 
@@ -281,9 +391,11 @@ Expanding vocational education must be given more precedence partly because it  
 
 [[START OF PAGE 17]]
 
-Governments  must  be  responsible  to  make  pragmatic  moves  to  expand vocational education, incorporate it in socioeconomic and industrial development programs,  and  adapt  its  scale  and  range  of  programs  to  socioeconomic development  needs.  Secondary  and  higher  vocational  education  shall  be developed  under  overall  planning.  Sound  mechanisms  shall  be  introduced  to enable  funds  injection  in  multiple  channels  so  as  to  increase  investment  in vocational education.
+it is a major channel through which to boost economic growth, promote employment, improve people's livelihood and address issues pertinent to agriculture, rural areas and farmers, and partly because it is a key link in mitigating structural conflicts between labor supply and demand. Vocational education should reach out to people and society, and cultivate work ethics, occupational skills, employability and career-starting abilities in students. By 2020, a modern vocational education system with well coordinated secondary and higher vocational education shall have come to stay to meet the requirements of adjusting the economic development mode and restructuring the industries, to embody the philosophy for lifelong education, and to satisfy the demand of the people for vocational education and the needs of the economy and society for high-caliber workers and skilled personnel.
 
-Major efforts shall be concentrated on quality improvement. School instruction and student learning shall be further transformed into serviceand employment-oriented  model.  Talents  or  professionals  shall  be  cultivated  by integrating work with study, through collaboration between schools and enterprises,  and  by  filling  students  in  work  posts  in  fieldwork.  Classroom education  shall  be  developed  simultaneously  with  occupational  training,  and full-time schools be developed along with part-time schools. Basic operational standards  for  vocational  schools  shall  be  worked  out.  The  cultivation  of  a teaching force, which is proficient in both theories and skills and the construction of  training  bases  should  be  strengthened  for  upgrading  the  fundamentals  of vocational  education.  We  shall  establish  and  improve  a  system  for  skilled personnel  to  teach  in  the  vocational  schools.  The  standards  for  teachers' credentials and the methods for accrediting professional technical titles shall be tailored to the peculiarities of vocational education. A feasible system shall be set up  to  guarantee  the  quality  of  vocational  education.  Vocational  schools  shall invite enterprises to join in teaching quality evaluation, and hold competitions of occupational skills.
+Governments must be responsible to make pragmatic moves to expand vocational education, incorporate it in socioeconomic and industrial development programs, and adapt its scale and range of programs to socioeconomic development needs. Secondary and higher vocational education shall be developed under overall planning. Sound mechanisms shall be introduced to enable funds injection in multiple channels so as to increase investment in vocational education.
+
+Major efforts shall be concentrated on quality improvement. School instruction and student learning shall be further transformed into service- and employment-oriented model. Talents or professionals shall be cultivated by integrating work with study, through collaboration between schools and enterprises, and by filling students in work posts in fieldwork. Classroom education shall be developed simultaneously with occupational training, and full-time schools be developed along with part-time schools. Basic operational standards for vocational schools shall be worked out. The cultivation of a teaching force, which is proficient in both theories and skills and the construction of training bases should be strengthened for upgrading the fundamentals of vocational education. We shall establish and improve a system for skilled personnel to teach in the vocational schools. The standards for teachers' credentials and the methods for accrediting professional technical titles shall be tailored to the peculiarities of vocational education. A feasible system shall be set up to guarantee the quality of vocational education. Vocational schools shall invite enterprises to join in teaching quality evaluation, and hold competitions of occupational skills.
 
 #### (15) Mobilizing the enthusiasm of industries and enterprises in vocational education.
 
@@ -307,7 +419,7 @@ State policy support of vocational education shall be improved, free-of-charge s
 
 #### (18) Raising higher education quality in an all-round way.
 
-Higher education performs the important task of cultivating high-caliber professionals,  developing  science,  technology  and  culture,  and  promoting  the socialist modernization drive. Raising quality is at the heart of this task, and a basic requirement of the effort to build the nation into a power to be reckoned with in  the  global  higher  education  landscape.  By  2020,  the  structure  of  higher education shall become more balanced and distinctive, and it shall also go up a notch in talent or professional cultivation, scientific research and social service as a whole. Quite a few world-famous universities with original features shall come to  the  fore;  some  of  them  shall  have  reached  or  approached  the  level  of world-class universities. China's higher education shall have vastly sharpened its global competitive edge.
+Higher education performs the important task of cultivating high-caliber
 
 18
 
@@ -315,15 +427,17 @@ Higher education performs the important task of cultivating high-caliber profess
 
 [[START OF PAGE 19]]
 
+professionals, developing science, technology and culture, and promoting the socialist modernization drive. Raising quality is at the heart of this task, and a basic requirement of the effort to build the nation into a power to be reckoned with in the global higher education landscape. By 2020, the structure of higher education shall become more balanced and distinctive, and it shall also go up a notch in talent or professional cultivation, scientific research and social service as a whole. Quite a few world-famous universities with original features shall come to the fore; some of them shall have reached or approached the level of world-class universities. China's higher education shall have vastly sharpened its global competitive edge.
+
 #### (19) Bettering cultivation of talents or professionals.
 
-The fostering of young talents or professionals shall command a central position in college work, and  no  effort shall be spared  to produce  high-caliber professionals and top-notch innovators with steadfast faith, moral integrity, rich knowledge,  and  superb  abilities.  Input  in  teaching  shall  be  boosted  for  this purpose. Teaching shall be as the primary content of teacher assessment. Letting professors to teach lower grade students shall be set as an important system. The building of the infrastructure shall be stepped up, including laboratories, onand off-campus fieldwork bases, teaching programs and textbooks. Reform of classroom instruction and student learning shall be deepened. A credit system shall  be  promoted  and  improved,  an  elastic  schooling  system  installed,  and liberal  arts  and  sciences  mingled.  Students  shall  be  urged  to  participate  in scientific research; teaching in practice intensified. The employment entrepreneurship education and career guidance service shall be strengthened. A  new  framework  shall  be  provided  to  rally  the  efforts  of  higher  educational institutions, research institutes, industries and enterprises in fostering talents or professionals. A project to ensure undergraduate teaching quality and transform college  education  shall  be  undertaken  comprehensively.  Governance  over teaching shall be tightened up, and teaching quality guaranteed institutionally. College teaching evaluation shall be improved. Students shall be fully motivated and inspired to study diligently and by taking the initiative into their own hands; they  shall  also  be  urged  to  study  hard,  heighten  their  sense  of  honesty  and credibility, and develop a good style of study.
+The fostering of young talents or professionals shall command a central position in college work, and no effort shall be spared to produce high-caliber professionals and top-notch innovators with steadfast faith, moral integrity, rich knowledge, and superb abilities. Input in teaching shall be boosted for this purpose. Teaching shall be as the primary content of teacher assessment. Letting professors to teach lower grade students shall be set as an important system. The building of the infrastructure shall be stepped up, including laboratories, on- and off-campus fieldwork bases, teaching programs and textbooks. Reform of classroom instruction and student learning shall be deepened. A credit system shall be promoted and improved, an elastic schooling system installed, and liberal arts and sciences mingled. Students shall be urged to participate in scientific research; teaching in practice intensified. The employment entrepreneurship education and career guidance service shall be strengthened. A new framework shall be provided to rally the efforts of higher educational institutions, research institutes, industries and enterprises in fostering talents or professionals. A project to ensure undergraduate teaching quality and transform college education shall be undertaken comprehensively. Governance over teaching shall be tightened up, and teaching quality guaranteed institutionally. College teaching evaluation shall be improved. Students shall be fully motivated and inspired to study diligently and by taking the initiative into their own hands; they shall also be urged to study hard, heighten their sense of honesty and credibility, and develop a good style of study.
 
 Major efforts shall be devoted to revamping the education of postgraduates. A system shall be installed to put research projects on sciences and engineering technologies  under  the  patronage  and  responsibility  of  mentors,  along  with  a relevant  financial  assistance  system.  A  'double  mentor  system'  shall  be introduced so as to combine production, scholarship and research in grooming postgraduate  students.  A  postgraduate  education  innovation  plan  shall  come underway.  We  shall  strengthen  management  and  improve  continuously  the quality of postgraduates, especially doctor candidates.
 
 #### (20) Elevating research levels.
 
-It is essential to make the most of the pivotal role of higher educational institutions in the state innovation system by encouraging them to contribute to innovation in knowledge, technology, national defense, and to regional innovation systems.
+It is essential to make the most of the pivotal role of higher educational institutions in the state innovation system by encouraging them to contribute to innovation in
 
 19
 
@@ -331,7 +445,9 @@ It is essential to make the most of the pivotal role of higher educational insti
 
 [[START OF PAGE 20]]
 
-Researches  in  natural  science,  technological  science,  philosophy  and  social sciences  shall  be  carried  out  in  a  big  way.  While  serving  national  objectives, higher educational institutions shall also give their researchers a free hand to explore  the  unknown,  and  intensify  basic  researches.  Researches  in  applied sciences shall be strengthened, with the main thrust on major practical issues. Higher educational institutions, research institutes and enterprises shall be urged to  share  scientific  and  technological  resources.  Higher  educational  institutions shall be encouraged to renovate their organizational patterns, cultivate interdisciplinary  teams  that  combine  research  and  teaching,  and  promote interaction between them. Personnel training and innovation shall be combined to give full play to the role of graduate  students  in  scientific  research. Construction  of  crucial  college  research  and  innovation  bases  and  sci-tech innovation  platforms  shall  be  stepped  up.  Mechanisms  for  innovation-  and quality-oriented  evaluation  of  research  results  shall  be  ameliorated.  Higher educational institutions shall also take an active part in studying and developing Marxist theories. A program for boosting college studies in philosophy and social sciences shall be carried out in depth.
+knowledge, technology, national defense, and to regional innovation systems.
+
+Researches in natural science, technological science, philosophy and social sciences shall be carried out in a big way. While serving national objectives, higher educational institutions shall also give their researchers a free hand to explore the unknown, and intensify basic researches. Researches in applied sciences shall be strengthened, with the main thrust on major practical issues. Higher educational institutions, research institutes and enterprises shall be urged to share scientific and technological resources. Higher educational institutions shall be encouraged to renovate their organizational patterns, cultivate interdisciplinary teams that combine research and teaching, and promote interaction between them. Personnel training and innovation shall be combined to give full play to the role of graduate students in scientific research. Construction of crucial college research and innovation bases and sci-tech innovation platforms shall be stepped up. Mechanisms for innovation- and quality-oriented evaluation of research results shall be ameliorated. Higher educational institutions shall also take an active part in studying and developing Marxist theories. A program for boosting college studies in philosophy and social sciences shall be carried out in depth.
 
 #### (21) Buttressing social service capacities.
 
@@ -339,7 +455,7 @@ Higher educational institutions shall foster a willingness to take the initiativ
 
 #### (22) Optimizing a distinctive higher education structure.
 
-A  dynamic  regulatory  framework  shall  be  set  up,  and  the  higher  education structure optimized without letup to meet national and regional socioeconomic development needs. The optimization of disciplines and sequences of courses, and  the  restructuring  of  faculties  shall  be  focused  on  promoting  disciplinary crossing  and  integration,  on  expanding  the  cultivation  of  professionals  with applicable expertise and versatile talent or professional, and on accelerating the development  of  degree-granting  graduate  studies  in  specified  fields.  Higher education's geographical structure shall be optimized, and a special fund set up in  support  of  local  higher  education  development.  The  Higher  Education Rejuvenation Plan for Central and Western Regions shall be carried out. New college enrollment quotas shall be tipped in favor of central and western regions that are poor in higher education resources, and eastern colleges' enrollment in central  and  western  regions  expanded.  Eastern  colleges  shall  be  urged  to redouble their support for their western counterparts, and east China shall be encouraged to take the lead in developing higher education. We will establish sound systems of military personnel training that integrate military with civilian purposes and combine military efforts with civilian support.
+A dynamic regulatory framework shall be set up, and the higher education structure optimized without letup to meet national and regional socioeconomic development needs. The optimization of disciplines and sequences of courses, and the restructuring of faculties shall be focused on promoting disciplinary crossing and integration, on expanding the cultivation of professionals with applicable expertise and versatile talent or professional, and on accelerating the development of degree-granting graduate studies in specified fields. Higher education's geographical structure shall be optimized, and a special fund set up in support of local higher education development. The Higher Education Rejuvenation Plan for Central and Western Regions shall be carried out. New college enrollment quotas shall be tipped in favor of central and western regions that are poor in higher education resources, and eastern colleges' enrollment in central and western regions expanded. Eastern colleges shall be urged to redouble their support for their western counterparts, and east China shall be encouraged to take the lead in developing higher education. We will establish
 
 20
 
@@ -347,7 +463,9 @@ A  dynamic  regulatory  framework  shall  be  set  up,  and  the  higher  educat
 
 [[START OF PAGE 21]]
 
-Higher  educational  institutions  shall  be  urged  to  run  themselves  in  distinctive ways,  and  be  categorized  and  governed  accordingly.  The  impact  of  policy guidance  and  resource  allocation  shall  be  brought  into  play  to  guide  higher educational institutions to position themselves properly in the higher education system, overcome the tendency toward homogeneity, foster distinctive school-running philosophies and styles, distinguish themselves at different levels and in different fields, and strive to be the best.
+sound systems of military personnel training that integrate military with civilian purposes and combine military efforts with civilian support.
+
+Higher educational institutions shall be urged to run themselves in distinctive ways, and be categorized and governed accordingly. The impact of policy guidance and resource allocation shall be brought into play to guide higher educational institutions to position themselves properly in the higher education system, overcome the tendency toward homogeneity, foster distinctive school-running philosophies and styles, distinguish themselves at different levels and in different fields, and strive to be the best.
 
 The building of first-class universities and faculties shall be accelerated. Project 985 shall be carried out in innovative ways on the basis of establishing crucial disciplines and faculties and a platform for innovation in advantageous disciplines. Project 211 shall move  on, and projects devoted to distinguished and advantageous  disciplines  shall be  initiated.  College  governance  shall  be improved, competitive mechanisms introduced, performance evaluation conducted, and dynamic management carried out. Higher educational institutions shall be urged to open their best faculties to the world, and to participate in or set up collaborative  international  academic  organizations  or  global  science  plans; they shall also be encouraged to join top-notch education and research institutes abroad in establishing united research and development centers. The building of world-class  and  high-level  universities  shall  pick  up  speed,  so  as  to  cultivate top-notch  innovators  and  world-class  disciplines,  achieve  original  results  at advanced  level  in  the  world,  and  contribute  to  the  effort  to  raise  the  nation's comprehensive strength.
 
@@ -359,13 +477,15 @@ Designed for all members of society who have finished school education, adults i
 
 #### (24) Putting further education under a sound framework.
 
-The government shall set up trans-departmental coordinating organizations to provide overall planning and guidance for further education. Further education shall be included in the general development plans of industries and localities. Administrative  departments  or  associations  of  industries  shall  take  charge  of drawing up further education plans and procedures for their respective industries and trades. Enactment of legislation on further education shall be speeded up. Sound incentive mechanisms shall be introduced to further education. Further education shall be linked to personnel management system involving performance evaluation, appointment, title recognition, and vocational registration,  among  others.  Individuals  shall  be  encouraged  to  receive  further education in various forms, and employers shall be urged to provide conditions for employees to receive further education. Supervision and evaluation on further education shall be tightened up.
+The government shall set up trans-departmental coordinating organizations to provide overall planning and guidance for further education. Further education shall be included in the general development plans of industries and localities. Administrative departments or associations of industries shall take charge of
 
 21
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
+
+drawing up further education plans and procedures for their respective industries and trades. Enactment of legislation on further education shall be speeded up. Sound incentive mechanisms shall be introduced to further education. Further education shall be linked to personnel management system involving performance evaluation, appointment, title recognition, and vocational registration, among others. Individuals shall be encouraged to receive further education in various forms, and employers shall be urged to provide conditions for employees to receive further education. Supervision and evaluation on further education shall be tightened up.
 
 #### (25) Building a flexible, open system for lifelong education.
 
@@ -437,9 +557,9 @@ The  key  to  the  ongoing  education  reform  lies  in  upgrading  the  concept
 
 We will meet the needs of national and social development and follow the regular patterns of education and the growth of talents or professionals. We will deepen education and teaching reforms, renovate education and teaching methods, and explore a variety of approaches of cultivation, so as to bring about a situation in which  talents  or  professionals  emerge  in  a  constant  stream,  and  top-notch innovators come forth without letup.
 
-Putting  a  premium  on  integrating  learning  with  thinking.  We  will  advocate teaching  to  be  heuristic,  exploratory,  discussion-based,  and  participatory,  and help students learn how to study. We will stimulate student's curiosity, develop their interest and hobbies, and foster a fine environment for independent thinking, exploration and  innovation. To  meet  the requirements of  socioeconomic development and progress in science and technology, curricular reform should be  stepped  up,  more  and  better  textbooks  compiled,  and  a  textbook  quality monitoring system set up and strengthened steadily. We will study and define the coral knowledge to be mastered by students in different periods of education, and formulate  mechanisms  by  which  teaching  contents  are  renewed.  The  role  of information technology shall be brought into full play, and public sharing of quality teaching resources promoted.
+Putting a premium on integrating learning with thinking. We will advocate teaching to be heuristic, exploratory, discussion-based, and participatory, and help students learn how to study. We will stimulate student's curiosity, develop their interest and hobbies, and foster a fine environment for independent thinking, exploration and innovation. To meet the requirements of socioeconomic development and progress in science and technology, curricular reform should be stepped up, more and better textbooks compiled, and a textbook quality monitoring system set up and strengthened steadily. We will study and define the core knowledge to be mastered by students in different periods of education, and formulate mechanisms by which teaching contents are renewed. The role of information technology shall be brought into full play, and public sharing of quality teaching resources promoted.
 
-Paying  due  attention  to  unity  of  learning  and  practicing.  We  will  persist  in combining teaching with labor and social practice. We will develop practice and activity  courses,  and  improve  the  effects  of  scientific  experiments,  productive practice and skills training for students. Public education resources shall be fully utilized  to  diversify  off-campus  and  extracurricular  activities.  More  after-school activity venues for primary and middle school students shall be built. Students' associations  and  organizations  shall  be  put  under  guidance.  Students  will  be encouraged to take active part in volunteer service and programs for public good.
+Paying due attention to unity of learning and practicing. We will persist in combining teaching with labor and social practice. We will develop practice and activity courses, and improve the effects of scientific experiments, productive
 
 25
 
@@ -447,6 +567,7 @@ Paying  due  attention  to  unity  of  learning  and  practicing.  We  will  per
 
 [[START OF PAGE 26]]
 
+practice and skills training for students. Public education resources shall be fully utilized to diversify off-campus and extracurricular activities. More after-school activity venues for primary and middle school students shall be built. Students’ associations and organizations shall be put under guidance. Students will be encouraged to take active part in volunteer service and programs for public good.
 Teaching  students  according  to  their  aptitude.  We  will  be  mindful  of  the differences  between  students  in  conduct  and  personality  and  develop  every student's  potential.  Innovative  teaching  management  approaches  shall  be promoted,  such  as  graded  teaching,  students  taking  the  same  course  from different teachers, academic credit system, and a mentoring and tutorial system. Mechanisms shall be set up to assist students with learning difficulties. The way in  which  top  students  are  groomed  shall  be  improved;  and  assistance  and guidance shall be offered to students who want to skip grades, transfer to other schools  or  majors,  or  select  advanced  courses.  Open,  equal  and  competitive approaches shall be improved in school and college enrollment. The method of recruiting students by recommendation from middle schools shall be improved, and the way graduate students are cultivated innovated. Ways and means shall be explored for the cultivation of top students in senior middle schools and higher educational institutions.
 
 #### (33)  Improving  assessment  of  quality  of  education  and  assessment  of talents
@@ -459,13 +580,15 @@ We will  improve  the  evaluation  and  selection  of  talents  or  professional
 
 #### (34) Advancing examination and enrollment reform.
 
-Matriculation reform shall serve as the breakthrough in the effort to terminate the practice that a single round of examinations decides the destiny of a student, and the  breakthrough  in  the  implementation  of  quality-oriented  education  and  the cultivation  of  innovative  personnel.  Methods  for  detaching  enrollment  from entrance examinations shall be explored in the principle of facilitating selection of students through scientific approaches, promoting better development  of students,  and  safeguarding  social  justice.  Professional  institutions  shall  be entrusted  to  organize  the  implementation  of  these  methods  under  overall government administration; schools shall make their own enrollment decisions according to law; and students shall be offered multiple choices. All these are designed  to  gradually  bring  about  a  new  examination  and  enrollment  system whereby  examinations  are  given  in  different  categories,  and  students  are evaluated  comprehensively  and  enrolled  in  diverse  ways.  We  will  step  up management of examinations, improve the functions of professional examination organizations, and improve the ability and quality of services. We will set up a national  education  examination  steering  commission  to  study  and  formulate examination reform plans and guide pilots programs.
+Matriculation reform shall serve as the breakthrough in the effort to terminate the practice that a single round of examinations decides the destiny of a student, and
 
 26
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+
+the breakthrough in the implementation of quality-oriented education and the cultivation of innovative personnel. Methods for detaching enrollment from entrance examinations shall be explored in the principle of facilitating selection of students through scientific approaches, promoting better development of students, and safeguarding social justice. Professional institutions shall be entrusted to organize the implementation of these methods under overall government administration; schools shall make their own enrollment decisions according to law; and students shall be offered multiple choices. All these are designed to gradually bring about a new examination and enrollment system whereby examinations are given in different categories, and students are evaluated comprehensively and enrolled in diverse ways. We will step up management of examinations, improve the functions of professional examination organizations, and improve the ability and quality of services. We will set up a national education examination steering commission to study and formulate examination reform plans and guide pilots programs.
 
 #### (35) Revamping examinations and enrollment at secondary stage.
 
@@ -477,13 +600,15 @@ Reform of the contents and forms of examinations shall be deepened, with the emp
 
 Categorized  college  entrance  examinations  shall  be  introduced  step  by  step. National  examinations  for  4-year  regular  university/college  entrance  shall  be organized uniformly across the nation, and vocational higher education examinations organized by provinces, autonomous regions and municipalities. Provinces,  autonomous  regions  and  municipalities  shall  choose  their  own enrollment  methods  for  adult  higher  education.  We  will  deepen  the  reform  in entrance  examinations  of  graduate  students,  step  up  the  testing  of  students' innovative  abilities,  and  give  play  to  mentors  and  regulate  their  roles  in  the selection and enrollment process.
 
-We will improve quota allocation and enrollment of higher education institutions, and introduce and enhance a sound and diverse enrollment mechanism, which is conducive  to  promoting  equal  opportunities  in  enrollment  and  the  selection outstanding  personnel.  Unified  national  entrance  examination  scores  shall continue to serve as the basis for 4-year regular university/college enrollment, and be combined with academic aptitude tests and overall quality evaluation to enroll outstanding students. Higher educational institutions may, on the basis of interview  or  testing  results,  enroll  candidates  that  have  exceptional  talent  or professional or skills and are up to education requirements. Senior middle school graduates that excel in studies or are well-developed in an all-round way may be enrolled  through  recommendation.  Qualified  candidates  willing  to  take  jobs  in industries or trades or areas designated by the government may sign agreements with  higher  educational  institutions  before  they  are  enrolled  for  studies  in preparation  for  such  jobs.  Special  procedures  shall  be  designed  to  enroll,  as exceptions, those who have made outstanding contributions to practical work or who have special talents or professionals.
+We will improve quota allocation and enrollment of higher education institutions,
 
 27
 
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
+
+and introduce and enhance a sound and diverse enrollment mechanism, which is conducive to promoting equal opportunities in enrollment and the selection outstanding personnel. Unified national entrance examination scores shall continue to serve as the basis for 4-year regular university/college enrollment, and be combined with academic aptitude tests and overall quality evaluation to enroll outstanding students. Higher educational institutions may, on the basis of interview or testing results, enroll candidates that have exceptional talent or professional or skills and are up to education requirements. Senior middle school graduates that excel in studies or are well-developed in an all-round way may be enrolled through recommendation. Qualified candidates willing to take jobs in industries or trades or areas designated by the government may sign agreements with higher educational institutions before they are enrolled for studies in preparation for such jobs. Special procedures shall be designed to enroll, as exceptions, those who have made outstanding contributions to practical work or who have special talents or professionals.
 
 #### (37) Raising information transparency, enhancing social supervision.
 
@@ -493,13 +618,15 @@ The system whereby information  on  examinations  and  enrollment  is  released 
 
 #### (38)  Further  separating  government  functions  from  school  management and detaching school governance from school operation.
 
-It is imperative to take the reality of the nation and the requirements of the times into  consideration  to  build  a  modern  school  system  in  which  schools  are  run according to law, under autonomous governance and democratic supervision, and  with public participation, and  to foster a new  relationship  between government, schools and society. In line with state requirements on administrative institutional reform, we shall define the government's administrative power and responsibilities, and define the rights and responsibilities of different kinds of schools. We shall explore different types of school management system and mode, to suit different kinds of education and talent cultivation and to avoid resemblance of schools. Management of school goals  and  performance  shall  be  put  under  an  effective  framework.  A  sound school-affair  publicizing  system  shall  be  set  up  to  put  schools  under  the supervision of faculty, students and the public. With the reform of classification of public institutions, we will explore management mechanisms and policies that are suited  to  conditions  of  schools  and  end  the  tendency  of  bureaucracy.  The practice  of  bestowing  administrative  rank  on  schools,  and  the  ways  in  which schools are run like government appendages should be phased out.
+It is imperative to take the reality of the nation and the requirements of the times into consideration to build a modern school system in which schools are run according to law, under autonomous governance and democratic supervision, and with public participation, and to foster a new relationship between government, schools and society. In line with state requirements on administrative institutional reform, we shall define the government’s administrative power and responsibilities, and define the rights and responsibilities of different kinds of schools. We shall explore different types of school management system and mode, to suit different kinds of education and talent cultivation and to avoid resemblance of schools. Management of school goals and performance shall be put under an effective framework. A sound school-affair publicizing system shall be set up to put schools under the supervision of faculty, students and the public. With the reform of classification of
 
 28
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
+
+public institutions, we will explore management mechanisms and policies that are suited to conditions of schools and end the tendency of bureaucracy. The practice of bestowing administrative rank on schools, and the ways in which schools are run like government appendages should be phased out.
 
 #### (39) Extending school decision-making power.
 
@@ -511,7 +638,7 @@ School governance shall be restructured. Public higher educational institutions 
 
 Enhancing  institution  construction.  All  kinds  of  higher  educational  institutions should  draft  their  constitutions  according  to  law,  act  on  such  constitutions  in governance and operation, respect academic freedom and furnish a friendly and relaxed academic environment, and carry out systems for appointment, teaching and  work  post  management  in  an  all-round  way.  They  should  establish scientifically assessment frameworks and incentive mechanisms.
 
-Broadening  collaboration  with  society.  Explorations  shall  be  made  for  the establishment  of  college  councils  or  boards  of  directors.  Mechanisms  with long-term  efficacy  shall  be  introduced  to  intensify  public  support  for  and supervision over school development. Feasible patterns shall be experimented with for close collaboration with industries and enterprises in school development; and higher educational institutions, research institutes and social organizations shall  improve  the  way  their  resources  are  shared.  Effective  coordinating  and cooperative mechanisms  shall be formulated so that higher educational institutions  can  better  serve  economic  growth  and  social  progress.  College logistics outsourcing shall be promoted.
+Broadening collaboration with society. Explorations shall be made for the establishment of college councils or boards of directors. Mechanisms with long-term efficacy shall be introduced to intensify public support for and supervision over school development. Feasible patterns shall be experimented with for close collaboration with industries and enterprises in school development; and higher educational institutions, research institutes and social organizations
 
 29
 
@@ -519,7 +646,9 @@ Broadening  collaboration  with  society.  Explorations  shall  be  made  for  t
 
 [[START OF PAGE 30]]
 
-Promoting  professional  evaluation.  Professional  institutions  and  intermediary agencies  shall  be  encouraged  to  evaluate  the  level  and  quality  of  college disciplines,  faculties  and  courses.  To meet that end, a scientific and standard evaluation system shall be installed. Ways and means for cooperation with the first  class  international  education  assessment  agencies  and  for  establishing  a college evaluation approaches with Chinese characteristics shall be explored. An annual report release system on college quality shall be instituted.
+shall improve the way their resources are shared. Effective coordinating and cooperative mechanisms shall be formulated so that higher educational institutions can better serve economic growth and social progress. College logistics outsourcing shall be promoted.
+
+Promoting professional evaluation. Professional institutions and intermediary agencies shall be encouraged to evaluate the level and quality of college disciplines, faculties and courses. To meet that end, a scientific and standard evaluation system shall be installed. Ways and means for cooperation with the first class international education assessment agencies and for establishing a college evaluation approaches with Chinese characteristics shall be explored. An annual report release system on college quality shall be instituted.
 
 #### (41) Improving primary and middle school management.
 
@@ -531,13 +660,15 @@ It  is  necessary to improve the system that holds the principals accountable in
 
 We will uphold the principle that education is for public good. A vigorous system shall be put in place whereby schools provide diverse forms of schooling and are run by multiple entities under government guidance and with public participation; and a pattern shall be brought about in which the government takes the lead in running schools while public and nongovernmental schools grow simultaneously. We will give full play to the society's initiative in participating in education, further stimulate  the vitality  of  education,  and  meet  the  multi-layer  and  diverse educational needs of the public.
 
-The  ongoing  reform  of  the  public  school  system  shall  be  deepened,  and industries,  enterprises  and  institutions  shall  be  encouraged  to  join  in  the operation  of  public  schools,  support  development  of  weak  schools,  expand excellent  education  resources,  invigorate  school-running  efforts  and  raise school-running  efficiency.  Localities  shall  proceed  from  the  reality  to  conduct experiments of school running cooperation between public schools and delegated management of schools, in a bid to explore ways of school running and to boost performances of schools.
+The ongoing reform of the public school system shall be deepened, and industries, enterprises and institutions shall be encouraged to join in the operation of public schools, support development of weak schools, expand excellent education resources, invigorate school-running efforts and raise school-running efficiency. Localities shall proceed from the reality to conduct experiments of school running cooperation between public schools and delegated management of schools, in a bid to explore ways of school running and
 
 30
 
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
+
+to boost performances of schools.
 
 The way noncompulsory education is offered shall be improved. The government should conduct incentive policies, advocate fair competition and guide nongovernmental funds to education through diverse channels.
 
@@ -551,13 +682,15 @@ Policies concerning fiscal support for nongovernmental  schools  shall be improv
 
 #### (44) Managing nongovernmental schools according to law.
 
-Departments  of  education  shall  set  up ad  hoc organs  to  provide  overall coordination,  planning  and  administration  for  nongovernmental  education.  We actively  explore  classification  management  for  profit-making  and  nonprofit nongovernmental  schools.  We  will  standardize  legal  person  registration  of nongovernmental  schools.  The  governance  structure  for  nongovernmental schools as corporate bodies shall be straightened out. School councils or boards of directors shall be established in these schools according to law to guarantee that their principals can exercise their legal power. A supervisory system shall be promoted step by step. Party organizations should play an active role in their nongovernmental  schools,  and  the  system  of  supervisory  commissioners  for such schools improved. The right of teachers, staff and workers to participate in democratic governance and supervision over nongovernmental schools shall be implemented. Legal mechanisms for the changes and withdrawals of nongovernmental schools shall be installed. Nongovernmental schools' property rights  shall  be  well  defined.  Financial,  accounting  and  asset  management systems shall be established in nongovernmental schools according to law. No organizations  or  individuals  are  allowed  to  encroach  upon  school  assets, withdraw  school  funds  surreptitiously  or  embezzle  school  outlay.  Precaution mechanisms against school-running risks and an information disclosure system shall be furnished for nongovernmental schools. Public participation in governing and  supervision  of  these  schools  shall  be  expanded,  and  evaluation  of  their performance tightened up.
+Departments of education shall set up ad hoc organs to provide overall coordination, planning and administration for nongovernmental education. We actively explore classification management for profit-making and nonprofit nongovernmental schools. We will standardize legal person registration of nongovernmental schools. The governance structure for nongovernmental schools as corporate bodies shall be straightened out. School councils or boards of directors shall be established in these schools according to law to guarantee that their principals can exercise their legal power. A supervisory system shall be promoted step by step. Party organizations should play an active role in their nongovernmental schools, and the system of supervisory commissioners for such schools improved. The right of teachers, staff and workers to participate in democratic governance and supervision over nongovernmental schools shall be
 
 31
 
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
+
+implemented. Legal mechanisms for the changes and withdrawals of nongovernmental schools shall be installed. Nongovernmental schools’ property rights shall be well defined. Financial, accounting and asset management systems shall be established in nongovernmental schools according to law. No organizations or individuals are allowed to encroach upon school assets, withdraw school funds surreptitiously or embezzle school outlay. Precaution mechanisms against school-running risks and an information disclosure system shall be furnished for nongovernmental schools. Public participation in governing and supervision of these schools shall be expanded, and evaluation of their performance tightened up.
 
 ### Chapter 15: Reform of Education Administration System
 
@@ -567,13 +700,15 @@ We will focus on the transformation of government functions and decentralization
 
 #### (46) Stepping up overall planning for education under provincial administration.
 
-Provincial  governments'  overall  planning  and  coordination  of  all  kinds  of education at all levels under their jurisdiction shall be further extended. They shall coordinate  administration  over  compulsory  education,  achieve  a  balanced development  of  urban  and  rural  compulsory  education,  and  implement  fiscal responsibilities for compulsory education according to law. Provincial governments  shall  also  promote  rational  geographical  distribution  of  regular senior middle schools and secondary vocational schools, speed up progress in universalizing  senior  middle  school  education,  and  provide  more  support  for impoverished  areas  to  develop  senior  middle  school  education;  promote coordinated growth of vocational education and the public sharing of resources, and  support  industries  and  enterprise  in  developing  vocational  education; improve  the  system  whereby  provincial  governments  play  the  leading  role  in higher education administration, regulate the geographical distribution of higher educational  institutions  and  set  up  or  readjust  the  layout  of  disciplines  and faculties,  and  improve  higher  education's  governance  and  school-running proficiency. Provincial governments shall examine and endorse the establishment of higher educational institutions that offer courses leading to a junior  college  diploma,  and  endorse  the  establishment  of  higher  educational institutions under their jurisdiction to offer baccalaureate degrees; in the case of higher  educational  institutions  and  institutions  designated  to  grant  master's degrees on their students, the provincial governments shall specify the faculties or  departments  where  such  degrees  should  be  conferred.  The  fiscal  transfer payment systems at and below the provincial level shall be improved, and the financial support for less developed regions stepped up. Provincial governments shall set appropriate executive benchmarks to define the operational conditions and faculty sizes for schools at all levels and of all varieties in accordance with state-mandated  standards  and  local  conditions;  and  promote  comprehensive education  reform  under  an  overall  plan,  facilitate  regional  collaboration  in education,  and  upgrade  education's  service  for  socioeconomic  development. The  governments  of  cities,  prefectures  and  counties  shall  be  supported  and urged to honor their responsibilities and do a good job in running various types of education under their jurisdiction.
+Provincial governments’ overall planning and coordination of all kinds of education at all levels under their jurisdiction shall be further extended. They shall coordinate administration over compulsory education, achieve a balanced development of urban and rural compulsory education, and implement fiscal responsibilities for compulsory education according to law. Provincial governments shall also promote rational geographical distribution of regular senior middle schools and secondary vocational schools, speed up progress in universalizing senior middle school education, and provide more support for impoverished areas to develop senior middle school education; promote coordinated growth of vocational education and the public sharing of resources, and support industries and enterprise in developing vocational education; improve the system whereby provincial governments play the leading role in
 
 32
 
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
+
+higher education administration, regulate the geographical distribution of higher educational institutions and set up or readjust the layout of disciplines and faculties, and improve higher education’s governance and school-running proficiency. Provincial governments shall examine and endorse the establishment of higher educational institutions that offer courses leading to a junior college diploma, and endorse the establishment of higher educational institutions under their jurisdiction to offer baccalaureate degrees; in the case of higher educational institutions and institutions designated to grant master’s degrees on their students, the provincial governments shall specify the faculties or departments where such degrees should be conferred. The fiscal transfer payment systems at and below the provincial level shall be improved, and the financial support for less developed regions stepped up. Provincial governments shall set appropriate executive benchmarks to define the operational conditions and faculty sizes for schools at all levels and of all varieties in accordance with state-mandated standards and local conditions; and promote comprehensive education reform under an overall plan, facilitate regional collaboration in education, and upgrade education’s service for socioeconomic development. The governments of cities, prefectures and counties shall be supported and urged to honor their responsibilities and do a good job in running various types of education under their jurisdiction.
 
 #### (47) Changing government functions on education.
 
@@ -643,7 +778,7 @@ Education of teachers in career goals and work ethics shall be stepped up with a
 
 The system shall be improved and good plans drawn up for teachers' cultivation and training. The composition of teachers shall be optimized, and their academic and pedagogical proficiency boosted. Key teachers, those teachers who are also engineers, academic leaders and school principals shall be cultivated through advanced studies and training, academic exchanges and financial assistance on projects. Renowned teachers and mentors in various academic disciplines shall be brought to the fore.
 
-Capacity building among primary and middle school teachers shall be intensified, with emphasis on rural teachers. The mechanisms with which to replenish the ranks of rural teachers shall be innovated. The frameworks and policies shall be adopted better to attract more outstanding professionals to teach in schools. Free education  for  normal  university  students  shall  be  advanced.  A  plan  to  set  up special teaching posts shall be implemented more forcefully to attract teachers to rural schools offering compulsory education. Workable compensation mechanisms  shall  be  endorsed  to  encourage  college  graduates  to  teach  in remote  areas.  The  teachers'  training  system  shall  be  improved,  with  funding pledged in government budgets. All teachers shall undergo training every five years. The bilingual teachers training must be strengthened in minority-inhabited areas. The training of school principals shall be stepped up, and due attention paid to drilling instructors and class advisors. Reform of teachers' education shall be  deepened  to  construct  an  open  and  flexible  educational  system  in  which normal universities play the most important role, comprehensive universities can get  involved.  The  mode  of  education  shall  be  renovated,  fieldwork  and  other practical  activities  intensified,  training  in  teachers'  work  ethics  and  instruction proficiency stepped up, and the overall training quality promoted.
+Capacity building among primary and middle school teachers shall be intensified, with emphasis on rural teachers. The mechanisms with which to replenish the ranks of rural teachers shall be innovated. The frameworks and policies shall be adopted better to attract more outstanding professionals to teach in schools. Free education for normal university students shall be advanced. A plan to set up special teaching posts shall be implemented more forcefully to attract teachers to rural schools offering compulsory education. Workable compensation mechanisms shall be endorsed to encourage college graduates to teach in remote areas. The teachers’ training system shall be improved, with funding pledged in government budgets. All teachers shall undergo training every five years. The bilingual teachers training must be strengthened in minority-inhabited areas. The training of school principals shall be stepped up, and due attention paid to drilling instructors and class advisors. Reform of teachers’ education shall be deepened to construct an open and flexible educational system in which normal universities play the most important role, comprehensive universities can
 
 36
 
@@ -651,7 +786,9 @@ Capacity building among primary and middle school teachers shall be intensified,
 
 [[START OF PAGE 37]]
 
-The ranks  of  vocational  school  and  college  teachers  shall  be  increased,  with redoubled efforts centered on boosting the number of those holding both teacher and engineer certificates. Vocational school and college teachers shall receive more intensive training. Colleges and large and medium-sized enterprises shall be  urged  to  pool  their  efforts  to  build  teacher-engineer  training  centers.  A workable  framework  shall  be  set  up  for  teachers  to  practice  regularly  in enterprises  as  engineers;  personnel  red  tape  shall  be  streamlined  so  that experienced engineers and technicians and skilled workers can be employed as full-time or guest teachers in vocational schools and  colleges; and  the percentage of teachers that also hold technical or vocational credentials shall be increased.
+get involved. The mode of education shall be renovated, fieldwork and other practical activities intensified, training in teachers’ work ethics and instruction proficiency stepped up, and the overall training quality promoted.
+
+The ranks of vocational school and college teachers shall be increased, with redoubled efforts centered on boosting the number of those holding both teacher and engineer certificates. Vocational school and college teachers shall receive more intensive training. Colleges and large and medium-sized enterprises shall be urged to pool their efforts to build teacher-engineer training centers. A workable framework shall be set up for teachers to practice regularly in enterprises as engineers; personnel red tape shall be streamlined so that experienced engineers and technicians and skilled workers can be employed as full-time or guest teachers in vocational schools and colleges; and the percentage of teachers that also hold technical or vocational credentials shall be increased.
 
 It is imperative to put together a contingent of high-caliber college teachers, with major effort devoted to boosting the numbers of middle-aged and young teachers and  innovative  teams.  College/university  teachers'  proficiency  in  teaching, innovative research and social service shall be improved intensively. Interdisciplinary  and  trans-organizational  collaboration  shall  be  stepped  up  to bring about high-level teams of innovative teachers and researchers. Personnel and compensation management shall be overhauled so that teachers can be dedicated to teaching and research wholeheartedly, and outstanding middle-aged and young teachers can come to the fore. Programs such as those designed  to  bring  in  high-level  talents  from  overseas,  the  Cheung  Kong Scholarship Awards and the National Award for Outstanding Young Scientists shall be promoted in colleges to acquire academic leaders with global influence.
 
@@ -661,7 +798,7 @@ The  working,  learning  and  living  conditions  for  teachers  shall  be  bett
 
 #### (55) Streamlining administration over teachers.
 
-The teachers' permit system shall be revamped and strictly carried out. The state shall set credential standards for the recruitment of teachers, update requirements  for  formal  schooling  records  and  moral  conduct.  Primary  and middles school teachers' credentials shall be registered at regular intervals, and unified examination and certification of such credentials shall be organized by education  administrative departments  at  the  provincial level.  County-level education administrative departments take charge of the recruitment, employment,  accreditation,  training  and  assessment  of  primary  and  middle school teachers in accordance with regulations.
+The teachers’ permit system shall be revamped and strictly carried out. The state
 
 37
 
@@ -669,7 +806,9 @@ The teachers' permit system shall be revamped and strictly carried out. The stat
 
 [[START OF PAGE 38]]
 
-Standards shall be gradually unified for the size of the teaching faculty of primary and middle schools in both urban and rural areas, with preferential standards adopted  for  schools  in  remote  and  border  areas.  Standards  shall  also  be furnished for the size of college faculty and kindergarten payrolls. The sequences of  academic  titles  for  teachers  in  primary  and  middle  schools  and  vocational schools shall be unified, and senior academic titles and teaching posts set up in these  schools.  Administration  over  school  work  posts  shall  be  tightened  up, employment procedures renovated, employer activities regulated, and workable incentive mechanisms adopted to ensure teachers sufficient incentive to work and  innovate.  Mechanisms  for  the  rotation  of  compulsory  education  school teachers  and  principals  shall  be  improved.  Urban  primary  and  middle  school teachers should, in principle, have worked for at least one year in rural schools or schools with disadvantaged teaching facilities and faculty before they can apply for senior titles and positions. Management of teachers shall be tightened up, and sound  mechanisms  introduced  concerning  the  removal  of  teachers.  Strict credential requirements shall be prescribed and a rank structure introduced for school  principals;  the  effort  to  fill  school  principals'  posts  with  professional educators shall be promoted in an effort to promote professionalism among them and improve their school-governance proficiency.
+shall set credential standards for the recruitment of teachers, update requirements for formal schooling records and moral conduct. Primary and middles school teachers’ credentials shall be registered at regular intervals, and unified examination and certification of such credentials shall be organized by education administrative departments at the provincial level. County-level education administrative departments take charge of the recruitment, employment, accreditation, training and assessment of primary and middle school teachers in accordance with regulations.
+
+Standards shall be gradually unified for the size of the teaching faculty of primary and middle schools in both urban and rural areas, with preferential standards adopted for schools in remote and border areas. Standards shall also be furnished for the size of college faculty and kindergarten payrolls. The sequences of academic titles for teachers in primary and middle schools and vocational schools shall be unified, and senior academic titles and teaching posts set up in these schools. Administration over school work posts shall be tightened up, employment procedures renovated, employer activities regulated, and workable incentive mechanisms adopted to ensure teachers sufficient incentive to work and innovate. Mechanisms for the rotation of compulsory education school teachers and principals shall be improved. Urban primary and middle school teachers should, in principle, have worked for at least one year in rural schools or schools with disadvantaged teaching facilities and faculty before they can apply for senior titles and positions. Management of teachers shall be tightened up, and sound mechanisms introduced concerning the removal of teachers. Strict credential requirements shall be prescribed and a rank structure introduced for school principals; the effort to fill school principals’ posts with professional educators shall be promoted in an effort to promote professionalism among them and improve their school-governance proficiency.
 
 Favorable  conditions  should  be  provided  to  encourage  teachers  and  school principals to innovate in practice, bring new ideas into the philosophy, patterns and methodology of education, and cultivate distinctive teaching and school-running  styles.  A  contingent  of  educators  shall  be  brought  to  the  fore. Schools should be put into the hands of educators. The meritorious deeds of model teachers shall be commended and publicized effectively, and honorary titles conferred on teachers and education workers who have made outstanding contributions.
 
@@ -679,7 +818,7 @@ Favorable  conditions  should  be  provided  to  encourage  teachers  and  schoo
 
 Education funding is a basic and strategic investment in support of long-term national development, a material foundation for the cause of education, and a major function of state budget. The system, in which education fund is raised from  various  sectors  with  government  input  as  the  main  source,  shall  be strengthened, and the overall investment in education shall be increased by a big margin.
 
-Governments  at  all  levels  shall  optimize  the  structure  of  fiscal  expenditures, coordinate various revenues, and give priority to education in expenditure. The Education Law and related legislation shall be enforced strictly to ensure that fiscal  budget  and  its  excess  revenue  are  formed  and  distributed  in  a  way  to ensure  the  stipulated  funding  growth  requirement  for  education,  and  that  the growth rate of fiscal appropriation on education is markedly higher than that of the regular  fiscal  revenue,  and  that  the  average  per-student  education  expense, public spending, and teachers' salaries increase steadily. An education surtax accounting for  3%  of  the  value-added  tax,  business  tax  and  consumption  tax shall  be  levied  in  full  and  spent  specifically  on  educational  undertakings.  The portion of fiscal (public) expenditure on education in GDP shall be raised to 4% by 2012.
+Governments at all levels shall optimize the structure of fiscal expenditures,
 
 38
 
@@ -687,7 +826,9 @@ Governments  at  all  levels  shall  optimize  the  structure  of  fiscal  expen
 
 [[START OF PAGE 39]]
 
-Nongovernmental  investment  is  a  major  part  of  education  investment.  The school-running enthusiasm of all walks of life shall be mobilized, and channels shall  be  expanded to make more social fund infuse into education. Favorable financial, tax, monetary and land-use policies shall be implemented to channel nongovernmental donations and investment into schools. Cost-sharing mechanisms  for  noncompulsory  education  shall  be  improved,  and  tuition standards  shall  be  readjusted  in  light  of  economic  development  conditions, training cost and bearing capacity of people. Stimulus mechanisms for donations to  education  shall  be  improved,  including  the  regulations  to  ensure  that  such donations to public welfare are deducted from donors' pre-tax income.
+coordinate various revenues, and give priority to education in expenditure. The Education Law and related legislation shall be enforced strictly to ensure that fiscal budget and its excess revenue are formed and distributed in a way to ensure the stipulated funding growth requirement for education, and that the growth rate of fiscal appropriation on education is markedly higher than that of the regular fiscal revenue, and that the average per-student education expense, public spending, and teachers’ salaries increase steadily. An education surtax accounting for 3% of the value-added tax, business tax and consumption tax shall be levied in full and spent specifically on educational undertakings. The portion of fiscal (public) expenditure on education in GDP shall be raised to 4% by 2012.
+
+Nongovernmental investment is a major part of education investment. The school-running enthusiasm of all walks of life shall be mobilized, and channels shall be expanded to make more social fund infuse into education. Favorable financial, tax, monetary and land-use policies shall be implemented to channel nongovernmental donations and investment into schools. Cost-sharing mechanisms for noncompulsory education shall be improved, and tuition standards shall be readjusted in light of economic development conditions, training cost and bearing capacity of people. Stimulus mechanisms for donations to education shall be improved, including the regulations to ensure that such donations to public welfare are deducted from donors’ pre-tax income.
 
 #### (57) Improving distribution mechanism
 
@@ -711,13 +852,15 @@ The national financial aid policy shall be made to work more effectively. Steps 
 
 Finance  should  be  managed  according  to  law  and  financial  and  economic disciplines should be enforced strictly. Mechanisms shall be set up to facilitate scientific and meticulous fiscal management. State budgets shall be compiled on a  scientific  footing,  and  budgetary  execution  efficiency  shall  be  raised.  A consultancy  commission  for  higher  education  funding  shall  be  established  to enhance rationality of fund distribution. School financial and accounting systems shall  be  tightened  up,  and  internal  audit  and  control  of  fund  use  shall  be strengthened. Improving the regulatory functions of the education funding, chief accountants  shall  be  appointed  in  colleges  on  a  trial  basis  to  raise  the professional  level  in  fund  use  and  asset  management.  The  government  shall appoint chief accountants to public colleges. Surveillance over spending shall be stepped  up,  and  major  construction  projects  shall  be  subject  to  stringent overall-process audit, so as to ensure that such funds are utilized in standardized, safe  and  effective  ways.  A  basic  data  bank  for  education  outlays  shall  be established  and  improved  steadily  to  raise  the  informatization  level  of  fund management.  Financial  risk  of  schools  must  be  prevented.  A  mechanism  for evaluating  funding  efficiency  shall  be  set  up,  and  the  use  of  funds  on  major projects shall be put under intensified evaluation and examination. Management of  state  assets  in  schools  shall  be  tightened  up,  and  the  allocation,  use  and disposal of such assets shall be put on a sound basis, so as to prevent losses and raise the fund use utility.
 
-Fees collected by schools shall be better managed; and schools' fee-collecting behavior and deployment of such fees shall be standardized. It is imperative to be industrious and thrifty in running schools, ban extravagance and waste, and build conservation-minded schools.
+Fees collected by schools shall be better managed; and schools’ fee-collecting
 
 40
 
 [[END OF PAGE 40]]
 
 [[START OF PAGE 41]]
+
+behavior and deployment of such fees shall be standardized. It is imperative to be industrious and thrifty in running schools, ban extravagance and waste, and build conservation-minded schools.
 
 ### Chapter 19: Accelerating Informatization in Education
 
@@ -733,13 +876,15 @@ Information technology shall be put into intensive use, teachers' proficiency in
 
 #### (61) Building state education information management system
 
-Requirements shall be stipulated for basic school data management to hasten up the  informatization  and  standardization  of  school  running.  Informatization  of government administration over education shall be promoted, so as to accumulate basic data, grasp the overall situation, intensify dynamic monitoring, and  raise  administrative  efficiency.  Education  administrative  resources  of  all kinds  and  at  all  levels  shall  be  integrated,  and  a  state  public  education administrative service platform shall be built to provide scientific reference for overall policy decisions and offer general education information for the public, and raise the modernization level of education administration steadily.
+Requirements shall be stipulated for basic school data management to hasten up
 
 41
 
 [[END OF PAGE 41]]
 
 [[START OF PAGE 42]]
+
+the informatization and standardization of school running. Informatization of government administration over education shall be promoted, so as to accumulate basic data, grasp the overall situation, intensify dynamic monitoring, and raise administrative efficiency. Education administrative resources of all kinds and at all levels shall be integrated, and a state public education administrative service platform shall be built to provide scientific reference for overall policy decisions and offer general education information for the public, and raise the modernization level of education administration steadily.
 
 ### Chapter 20: Promoting Rule of Law in Education
 
@@ -863,13 +1008,15 @@ prescribed  for  per  student  school  outlay  and  per-student  fiscal  funding
 
 Party committees and governments at all levels should put themselves under the guidance  of  Deng  Xiaoping  Theory  and  the  important  thought  of  'Three Represents',  carry  out  the  scientific  outlook  on  development  in  depth,  regard promoting the priority development of education as their foremost responsibility, adopt leadership systems and decision-making mechanisms, and to study and address major problems occurring in education reform and development and all the  hot  issues  that  rivet  public  concern.  It  is  imperative  to  list  scientific development  on  education  as  a  major  item  in  examining  and  evaluating  the performance  of  Party  committees  and  governments  at  all  levels,  and  set  up relevant examination and accountability systems for it. Governments at all levels shall report to their respective people's congresses or standing committees at regular intervals on their work on education. Members of Party and government leadership  at  all  levels  shall  be  designated  to  maintain  contact  with  schools. Relevant departments shall honor their commitments to education reform and development, and expand the people's right to know on the cause of education and participation in education.
 
-Studies of the state's general education policies and developmental strategies shall be stepped up, and the level of scientific education policymaking shall be elevated.  Educational  scientific  research  personnel  shall  be  encouraged  and supported to integrate theory with practice,  explore  in  depth  the  principles  on socialist  educational  development  with  Chinese  characteristics,  research  and give answers on the major theoretical and practical issues involving educational reform and development, promote the scientific development of education.
+Studies of the state’s general education policies and developmental strategies shall be stepped up, and the level of scientific education policymaking shall be elevated. Educational scientific research personnel shall be encouraged and supported to integrate theory with practice, explore in depth the principles on socialist educational development with Chinese characteristics, research and give answers on the major theoretical and practical issues involving educational
 
 48
 
 [[END OF PAGE 48]]
 
 [[START OF PAGE 49]]
+
+reform and development, promote the scientific development of education.
 
 #### (69) Stepping up Party building in the realm of education.
 
@@ -881,7 +1028,7 @@ School governing or managerial bodies and the ranks of school leaders should be 
 
 Party  organizations'  coverage  should  be  extended  forcefully  and  their  work innovated, and they should be imbued with vitality and vigor. It is necessary to get the best out of the role of grass-roots Party organizations in schools as combat bastions, and give full play to the vanguard and exemplary role of Party members. More outstanding young teachers and students should be admitted into the Party, and due importance attached to the work of the Communist Youth League and the Young Pioneers in schools.
 
-Redoubled efforts should be made to promote a fine Party style of work, clean and honest school governance, and professional ethics in the realm of education. Fine social morals shall be advocated vigorously, such as maintaining close ties with  the  masses,  truth-seeking  and  pragmatic  ways  of  working,  diligence  and plain living, as well as criticism and self-criticism. The principle of getting at both the symptoms and root causes of problems and rectifying them comprehensively, and  paying  equal  attention  to  crackdown  and  precaution  measures  that  also emphasize  prevention  shall  be  upheld  to  tone  up  the  system  for  punishing criminal offences and preventing corruption in ways that give expression to the distinct  attributes  of  the  education  system.  A  strict  accountability  system  for fostering the fine Party style of work and building a clean and honest government shall  be  instituted.  Innovation  in  education,  supervision,  reform  and  institution building shall be promoted with redoubled efforts. Corruption shall be cracked down  upon  mercilessly.  It  is  also  essential  to  run  education  and  standardize school management strictly, and actively promote the openness of government and school affairs. Unhealthy tendencies and malpractices of all descriptions that harm the interests of the masses shall be corrected resolutely.
+Redoubled efforts should be made to promote a fine Party style of work, clean and honest school governance, and professional ethics in the realm of education. Fine social morals shall be advocated vigorously, such as maintaining close ties with the masses, truth-seeking and pragmatic ways of working, diligence and plain living, as well as criticism and self-criticism. The principle of getting at both the symptoms and root causes of problems and rectifying them comprehensively, and paying equal attention to crackdown and precaution measures that also emphasize prevention shall be upheld to tone up the system for punishing criminal offences and preventing corruption in ways that give expression to the
 
 49
 
@@ -889,13 +1036,15 @@ Redoubled efforts should be made to promote a fine Party style of work, clean an
 
 [[START OF PAGE 50]]
 
+distinct attributes of the education system. A strict accountability system for fostering the fine Party style of work and building a clean and honest government shall be instituted. Innovation in education, supervision, reform and institution building shall be promoted with redoubled efforts. Corruption shall be cracked down upon mercilessly. It is also essential to run education and standardize school management strictly, and actively promote the openness of government and school affairs. Unhealthy tendencies and malpractices of all descriptions that harm the interests of the masses shall be corrected resolutely.
+
 #### (70) Maintaining harmony and stability in education system.
 
 Schools  shall  strengthen  ideological  and  political  work.  Strengthening  the campus culture, the building of congenial campuses under such watchwords as peace and stability, civilization, green garden and harmonious shall be carried out  in  depth.  Emphasizing  on  solving  the  practical  problems  for  teachers, students and staff, the feasible mechanisms to investigate and settle disputes and conflicts  must  be  adopted.  School  emergency  management  system  shall maintain  a  high  level  of  readiness,  so  that  various  kinds  of  incidents  can  be handled properly. On-campus Internet security management must be enhanced, a  sound  security  system  and  working  mechanism  must  be  established  and improved, including the staff defense, material defense, and technical security measures.  Education  in  safety  precaution  for  teachers  and  students,  campus safety  management  shall  be  intensified.  The  ability  of  disaster  prevention, emergency response and prevention  of  criminal  activities  must  be  enhanced. Schools  and  education  departments  should  strengthen  the  comprehensive maintenance of public security on campus and surrounding areas for teachers and students to have a working, learning and living environment that is peaceful, stable, orderly, harmonious and dynamic.
 
 ## IMPLEMENTATION
 
-This Outline for medium- and long-term education reform and development is the first of its kind for the nation in the 21 st century, and encompasses a broad range of  endeavors  over  a  long  period  of  time.  Its  mission  is  weighty,  and  its requirements are demanding. It should be implemented in real earnest through close-knit arrangements and meticulous organization, so as to ensure that all the listed tasks are carried out in a down-to-earth way.
+This Outline for medium- and long-term education reform and development is the first of its kind for the nation in the 21st century, and encompasses a broad range of endeavors over a long period of time. Its mission is weighty, and its requirements are demanding. It should be implemented in real earnest through close-knit arrangements and meticulous organization, so as to ensure that all the listed tasks are carried out in a down-to-earth way.
 
  Defining  goals  and  tasks,  and  allotting  responsibilities  in  pragmatic ways. It  is  an  important  responsibility  for  the  Party  committees  and governments at all levels to implement this Outline. The departments and regions concerned should divide up the goals and tasks among them, define their division of responsibilities and work under a unified leadership of the CPC  Central  Committee  and  the  State  Council  in  compliance  with  the arrangements  and  requirements  prescribed  in  this  Outline.  The  State Council's education administrative departments are duty-bound to organize and coordinate the execution of this  Plan  Outline.  The  other  departments concerned should cooperate actively and closely to ensure that a good and solid job is done in translating this Outline into reality.
 
