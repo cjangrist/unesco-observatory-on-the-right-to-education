@@ -1,4 +1,5 @@
 [[START OF PAGE 1]]
+# CONSTITUCIÓN DE LA REPUBLICA DE CUBA
 
 ## Indice
 NOTA PREÁMBULO CONSTITUCIÓN
@@ -59,9 +60,9 @@ Capítulo XIV:
 
 Sistema electoral
 
-Capítulo XV
+Capítulo XV:
 
-: Reforma Constitucional
+Reforma Constitucional
 
 DISPOSICIÓN ESPECIAL
 
@@ -79,7 +80,6 @@ El 12 de julio de 1992 fue aprobada en sesión convocada al efecto, de la Asambl
 
 La Constitución también fue modificada con el fin de garantizar y ampliar el ejercicio de numerosos derechos y libertades fundamentales y los derechos civiles y políticos de los ciudadanos y extranjeros.
 
-# CONSTITUCIÓN DE LA REPUBLICA DE CUBA
 
 [[END OF PAGE 1]]
 
@@ -92,7 +92,7 @@ Comisión de Asuntos Constitucionales y Jurídicos de la Asamblea Nacional del P
 ## PREÁMBULO
 
 ### NOSOTROS, CIUDADANOS CUBANOS,
-herederos y continuadores del trabajo creador y de las tradiciones de combatividad, firmeza, heroísmo y sacrificio forjadas por nuestros antecesores; por los aborígenes que prefirieron muchas veces el exterminio a la sumisión; por los esclavos que se rebelaron contra sus amos; por los que despertaron la conciencia nacional y el ansia cubana de patria y libertad; por los patriotas que en 1868 iniciaron las guerras de independencia contra el colonialismo español y los que en el último impulso de 1895 las llevaron a la victoria de 1898, que les fuera arrebatada por la intervención y ocupación militar del imperialismo yanqui; por los obreros, campesinos, estudiantes e intelectuales que lucharon durante más de cincuenta años contra el dominio imperialista, la corrupción política, la falta de derechos y libertades populares, el desempleo y la explotación impuesta por capitalistas y terratenientes; por los que promovieron, integraron y desarrollaron las primeras organizaciones de obreros y de campesinos, difundieron las ideas socialistas y fundaron los primeros movimientos marxista y marxista-leninista; por los integrantes de la vanguardia de la generación del centenario del natalicio de Martí, que nutridos por su magisterio nos condujeron a la victoria revolucionaria popular de Enero; por los que, con el sacrifico de sus vidas, defendieron la Revolución contribuyendo a su definitiva consolidación; por los que masivamente cumplieron heroicas misiones internacionalistas;
+herederos y continuadores del trabajo creador y de las tradiciones de combatividad, firmeza, heroísmo y sacrificio forjadas por nuestros antecesores; por los aborígenes que prefirieron muchas veces el exterminio a la sumisión; por los esclavos que se rebelaron contra sus amos; por los que despertaron la conciencia nacional y el ansia cubana de patria y libertad; por los patriotas que en 1868 iniciaron las guerras de independencia contra el colonialismo español y los que en el último impulso de 1895 las llevaron a la victoria de 1898, que les fuera arrebatada por la intervención y ocupación militar del imperialismo yanqui; por los obreros, campesinos, estudiantes e intelectuales que lucharon durante más de cincuenta años contra el dominio imperialista, la corrupción política, la falta de derechos y libertades populares, el desempleo y la explotación impuesta por capitalistas y terratenientes; por los que promovieron, integraron y desarrollaron las primeras organizaciones de obreros y de campesinos, difundieron las ideas socialistas y fundaron los primeros movimientos marxista y marxista-leninista; por los integrantes de la vanguardia de la generación del centenario del natalicio de Martí, que nutridos por su magisterio nos condujeron a la victoria revolucionaria popular de Enero; por los que, con el sacrificio de sus vidas, defendieron la Revolución contribuyendo a su definitiva consolidación; por los que masivamente cumplieron heroicas misiones internacionalistas;
 ### GUIADOS
 por el ideario de José Martí y las ideas político-sociales de Marx, Engels y Lenin;
 ### APOYADOS
@@ -102,11 +102,13 @@ pueblos del mundo, especialmente los de América Latina y del Caribe;
 
 ### DECIDIDOS
 
-a llevar adelante la Revolución triunfadora del Moncada y del Granma, de la Sierra y de Girón encabezada por Fidel Castro que, sustentada en la más estrecha unidad de todas las fuerzas revolucionarias y del pueblo, conquistó la plena independencia nacional, estableció el poder revolucionario, realizó las transformaciones democráticas, inició la construcción del socialismo y, con el Partido Comunista al frente, la continúa con el objetivo final de edificar la sociedad comunista;
+a llevar adelante la Revolución triunfadora del Moncada y del Granma, de la Sierra y de Girón encabezada por Fidel Castro que, sustentada en la más estrecha unidad de todas las fuerzas revolucionarias y del pueblo, conquistó la plena independencia nacional, estableció el poder revolucionario, realizó las transformaciones
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+democráticas, inició la construcción del socialismo y, con el Partido Comunista al frente, la continúa con el objetivo final de edificar la sociedad comunista;
 
 ### CONSCIENTES
 
@@ -139,22 +141,24 @@ Los símbolos nacionales son los que han presidido por más de cien años las lu
 #### ARTICULO 5.
 El Partido Comunista de Cuba, martiano y marxista-leninista, vanguardia organizada de la nación cubana, es la fuerza dirigente superior de la sociedad y del Estado, que organiza y orienta los esfuerzos comunes hacia los altos fines de la construcción del socialismo y el avance hacia la sociedad comunista.
 #### ARTICULO 6.
-La Unión de Jóvenes Comunistas, organización de la juventud cubana de avanzada, cuenta con el
-
-reconocimiento y el estímulo del Estado en su función primordial de promover la participación activa de las masas juveniles en las tareas de la edificación socialista y de preparar adecuadamente a los jóvenes como ciudadanos conscientes y capaces de asumir responsabilidades cada día mayores en beneficio de nuestra sociedad.
-#### ARTICULO 7.
-El Estado socialista cubano reconoce y estimula a las organizaciones de masas y sociales, surgidas en el proceso histórico de las luchas de nuestro pueblo, que agrupan en su seno a distintos sectores de la población, representan sus intereses específicos y los incorporan a las tareas de la edificación, consolidación y defensa de la sociedad socialista.
-#### ARTICULO 8.
-El Estado reconoce, respeta y garantiza la libertad religiosa. En la República de Cuba, las instituciones religiosas están separadas del Estado. Las distintas creencias y religiones gozan de igual consideración.
+La Unión de Jóvenes Comunistas, organización de la juventud cubana de avanzada, cuenta con el reconocimiento y el estímulo del Estado en su función primordial de promover la participación activa de las
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
+masas juveniles en las tareas de la edificación socialista y de preparar adecuadamente a los jóvenes como ciudadanos conscientes y capaces de asumir responsabilidades cada día mayores en beneficio de nuestra sociedad.
+
+#### ARTICULO 7.
+El Estado socialista cubano reconoce y estimula a las organizaciones de masas y sociales, surgidas en el proceso histórico de las luchas de nuestro pueblo, que agrupan en su seno a distintos sectores de la población, representan sus intereses específicos y los incorporan a las tareas de la edificación, consolidación y defensa de la sociedad socialista.
+
+#### ARTICULO 8.
+El Estado reconoce, respeta y garantiza la libertad religiosa. En la República de Cuba, las instituciones religiosas están separadas del Estado. Las distintas creencias y religiones gozan de igual consideración.
+
 #### ARTICULO 9.
 El Estado:
 
-- realiza la voluntad del pueblo trabajador y
+a) realiza la voluntad del pueblo trabajador y
 
 - encauza los esfuerzos de la nación en la construcción del socialismo;
 
@@ -184,7 +188,7 @@ b) como Poder del pueblo, en servicio del propio pueblo, garantiza
 
 - que no haya persona que no tenga acceso al estudio, la cultura y el deporte;
 
-- trabaja por lograr que no haya familia que no tenga una vivienda confortable.
+c) trabaja por lograr que no haya familia que no tenga una vivienda confortable.
 
 #### ARTICULO 10.
 Todos los órganos del Estado, sus dirigentes, funcionarios y empleados, actúan dentro de los límites de sus respectivas competencias y tienen la obligación de observar estrictamente la legalidad socialista y velar por su respeto en la vida de toda la sociedad.
@@ -192,26 +196,53 @@ Todos los órganos del Estado, sus dirigentes, funcionarios y empleados, actúan
 #### ARTICULO 11.
 El Estado ejerce su soberanía:
 
-- sobre todo el territorio nacional, integrado por la Isla de Cuba, la Isla de la Juventud, las demás islas y cayos adyacentes, las aguas interiores y el mar territorial en la extensión que fija la ley y el espacio aéreo que sobre éstos se extiende;
+a) sobre todo el territorio nacional, integrado por la Isla de Cuba, la Isla de la Juventud, las demás islas y cayos adyacentes, las aguas interiores y el mar territorial en la extensión que fija la ley y el espacio aéreo que sobre éstos se extiende;
 
-- sobre el medio ambiente y los recursos naturales del país;
+b) sobre el medio ambiente y los recursos naturales del país;
 
-- sobre los recursos naturales, tanto vivos como no vivos, de las aguas, el lecho y el subsuelo de la zona económica marítima de la República, en la extensión que fija la ley, conforme a la práctica internacional. La República de Cuba repudia y considera ilegales y nulos los tratados, pactos o concesiones concertados en condiciones de desigualdad o que desconocen o disminuyen su soberanía y su integridad territorial. Las relaciones económicas, diplomáticas y políticas con cualquier otro Estado no podrán ser jamás negociadas bajo agresión, amenaza o coerción de una potencia extranjera.
+c) sobre los recursos naturales, tanto vivos como no vivos, de las aguas, el lecho y el subsuelo de la zona económica marítima de la República, en la extensión que fija la ley, conforme a la práctica internacional. La República de Cuba repudia y considera ilegales y nulos los tratados, pactos o concesiones concertados en condiciones de desigualdad o que desconocen o disminuyen su soberanía y su integridad territorial. Las relaciones económicas, diplomáticas y políticas con cualquier otro Estado no podrán ser jamás negociadas bajo agresión, amenaza o coerción de una potencia extranjera.
 
 #### ARTICULO 12.
-La República de Cuba hace suyos los principios antimperialistas e internacionalistas, y a) ratifica su aspiración de paz digna, verdadera y válida para todos los Estados, grandes y pequeños, débiles y poderosos, asentada en el respeto a la independencia y soberanía de los pueblos y el derecho a la autodeterminación; b) funda sus relaciones internacionales en los principios de igualdad de derechos, libre determinación de los pueblos, integridad territorial, independencia de los Estados, la cooperación internacional en beneficio e interés mutuo y equitativo, el arreglo pacifico de controversias en pie de igualdad y respeto y los demás principios proclamados en la Carta de las Naciones Unidas y en otros tratados internacionales de los cuales Cuba sea parte; c) reafirma su voluntad de integración y colaboración con los países de América Latina y del Caribe, cuya identidad común y necesidad histórica de avanzar juntos hacia la integración económica y política para lograr la verdadera independencia, nos permitiría alcanzar el lugar que nos corresponde en el mundo; ch) propugna la unidad de todos los países del Tercer Mundo, frente a la política imperialista y neocolonialista que persigue la limitación o subordinación de la soberanía de nuestros pueblos y agravar las condiciones económicas de explotación y opresión de las naciones subdesarrolladas; d)condena al imperialismo, promotor y sostén de todas las manifestaciones fascistas, colonialistas, neocolonialistas y racistas, como la principal fuerza de agresión y de guerra y el peor enemigo de los pueblos; e) repudia la intervención directa o indirecta en los asuntos internos o externos de cualquier Estado y, por tanto, la agresión armada, el bloqueo económico, así como cualquier otra forma de coerción económica o política, la violencia física contra personas residentes en otros países, u otro tipo de injerencia y amenaza a la integridad de los Estados y de los elementos políticos, económicos y culturales de las naciones; f) rechaza la violación del derecho irrenunciable y soberano de todo Estado a regular el uso y los beneficios de las telecomunicaciones en su territorio, conforme a la práctica universal y a los convenios internacionales que ha suscrito; g) califica de delito internacional la guerra de agresión y de conquista, reconoce la legitimidad de las luchas por la liberación nacional, así como la resistencia armada a la agresión, y considera su deber internacionalista solidarizarse con el agredido y con los pueblos que combaten por su liberación y autodeterminación; h) basa sus relaciones con los países que edifican el socialismo en la amistad fraternal, la cooperación y la ayuda mutua, asentadas en los objetivos comunes de la construcción de la nueva sociedad; i) mantiene relaciones de amistad con los países que, teniendo un régimen político, social y económico diferente, respetan su soberanía, observan las normas de convivencia entre los Estados, se atienen a los principios de mutuas conveniencias y adoptan una actitud recíproca con nuestro país.
-#### ARTICULO 13.
-La República de Cuba concede asilo a los perseguidos por sus ideales o luchas por los derechos democráticos, contra el imperialismo, el fascismo, el colonialismo y el neocolonialismo; contra la discriminación y el racismo; por la liberación nacional; por los derechos y reivindicaciones de los trabajadores, campesinos y estudiantes; por sus actividades políticas, científicas, artísticas y literarias progresistas, por el socialismo y la paz.
-#### ARTICULO 14.
-En la República de Cuba rige el sistema de economía basado en la propiedad socialista de todo el pueblo sobre los medios fundamentales de producción y en la supresión de la explotación del hombre por el hombre. También rige el principio de distribución socialista "de cada cual según su capacidad, a cada cual según su trabajo". La ley establece las regulaciones que garantizan el efectivo cumplimiento de este principio.
-#### ARTICULO 15.
-Son de propiedad estatal socialista de todo el pueblo: a) las tierras que no pertenecen a los agricultores pequeños o cooperativas integradas por éstos, el subsuelo, las minas, los recursos naturales tanto vivos como no vivos dentro de la zona económica marítima de la República, los bosques, las aguas y las vías de comunicación; b) los centrales azucareros, las fábricas, los medios fundamentales de transporte, y cuantas empresas, bancos e fábricas, empresas e instalaciones económicas y centros científicos, sociales, culturales y deportivos construidos, instalaciones han sido nacionalizados y expropiados a los imperialistas, latifundistas y burgueses, así como las fomentados o adquiridos por el Estado y los que en el futuro construya, fomente o adquiera.
+La República de Cuba hace suyos los principios antiimperialistas e internacionalistas, y
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-(this page came through the extractor with no text)
+a) ratifica su aspiración de paz digna, verdadera y válida para todos los Estados, grandes y pequeños, débiles y poderosos, asentada en el respeto a la independencia y soberanía de los pueblos y el derecho a la autodeterminación;
+
+b) funda sus relaciones internacionales en los principios de igualdad de derechos, libre determinación de los pueblos, integridad territorial, independencia de los Estados, la cooperación internacional en beneficio e interés mutuo y equitativo, el arreglo pacífico de controversias en pie de igualdad y respeto y los demás principios proclamados en la Carta de las Naciones Unidas y en otros tratados internacionales de los cuales Cuba sea parte;
+
+c) reafirma su voluntad de integración y colaboración con los países de América Latina y del Caribe, cuya identidad común y necesidad histórica de avanzar juntos hacia la integración económica y política para lograr la verdadera independencia, nos permitiría alcanzar el lugar que nos corresponde en el mundo;
+
+ch) propugna la unidad de todos los países del Tercer Mundo, frente a la política imperialista y neocolonialista que persigue la limitación o subordinación de la soberanía de nuestros pueblos y agravar las condiciones económicas de explotación y opresión de las naciones subdesarrolladas;
+
+d) condena al imperialismo, promotor y sostén de todas las manifestaciones fascistas, colonialistas, neocolonialistas y racistas, como la principal fuerza de agresión y de guerra y el peor enemigo de los pueblos;
+
+e) repudia la intervención directa o indirecta en los asuntos internos o externos de cualquier Estado y, por tanto, la agresión armada, el bloqueo económico, así como cualquier otra forma de coerción económica o política, la violencia física contra personas residentes en otros países, u otro tipo de injerencia y amenaza a la integridad de los Estados y de los elementos políticos, económicos y culturales de las naciones;
+
+f) rechaza la violación del derecho irrenunciable y soberano de todo Estado a regular el uso y los beneficios de las telecomunicaciones en su territorio, conforme a la práctica universal y a los convenios internacionales que ha suscrito;
+
+g) califica de delito internacional la guerra de agresión y de conquista, reconoce la legitimidad de las luchas por la liberación nacional, así como la resistencia armada a la agresión, y considera su deber internacionalista solidarizarse con el agredido y con los pueblos que combaten por su liberación y autodeterminación;
+
+h) basa sus relaciones con los países que edifican el socialismo en la amistad fraternal, la cooperación y la ayuda mutua, asentadas en los objetivos comunes de la construcción de la nueva sociedad;
+
+i) mantiene relaciones de amistad con los países que, teniendo un régimen político, social y económico diferente, respetan su soberanía, observan las normas de convivencia entre los Estados, se atienen a los principios de mutuas conveniencias y adoptan una actitud recíproca con nuestro país.
+
+#### ARTICULO 13.
+La República de Cuba concede asilo a los perseguidos por sus ideales o luchas por los derechos democráticos, contra el imperialismo, el fascismo, el colonialismo y el neocolonialismo; contra la discriminación y el racismo; por la liberación nacional; por los derechos y reivindicaciones de los trabajadores, campesinos y estudiantes; por sus actividades políticas, científicas, artísticas y literarias progresistas, por el socialismo y la paz.
+
+#### ARTICULO 14.
+En la República de Cuba rige el sistema de economía basado en la propiedad socialista de todo el pueblo sobre los medios fundamentales de producción y en la supresión de la explotación del hombre por el hombre.
+
+También rige el principio de distribución socialista "de cada cual según su capacidad, a cada cual según su trabajo". La ley establece las regulaciones que garantizan el efectivo cumplimiento de este principio.
+
+#### ARTICULO 15.
+Son de propiedad estatal socialista de todo el pueblo:
+
+a) las tierras que no pertenecen a los agricultores pequeños o cooperativas integradas por éstos, el subsuelo, las minas, los recursos naturales tanto vivos como no vivos dentro de la zona económica marítima de la República, los bosques, las aguas y las vías de comunicación;
+
+b) los centrales azucareros, las fábricas, los medios fundamentales de transporte, y cuantas empresas, bancos e instalaciones han sido nacionalizados y expropiados a los imperialistas, latifundistas y burgueses, así como las fábricas, empresas e instalaciones económicas y centros científicos, sociales, culturales y deportivos construidos, fomentados o adquiridos por el Estado y los que en el futuro construya, fomente o adquiera.
 
 [[END OF PAGE 5]]
 
@@ -305,28 +336,28 @@ La ciudadanía cubana se adquiere por nacimiento o por naturalización.
 #### ARTICULO 29.
 Son ciudadanos cubanos por nacimiento:
 
-- los nacidos en el territorio nacional, con excepción de los hijos de extranjeros que se encuentren al servicio de su gobierno o de organismos internacionales. La ley establece los requisitos y las formalidades para el caso de los hijos de los extranjeros residentes no permanentes en el país;
+a) los nacidos en el territorio nacional, con excepción de los hijos de extranjeros que se encuentren al servicio de su gobierno o de organismos internacionales. La ley establece los requisitos y las formalidades para el caso de los hijos de los extranjeros residentes no permanentes en el país;
 
-- los nacidos en el extranjero de padre o madre cubanos, que se hallen cumpliendo misión oficial;
+b) los nacidos en el extranjero de padre o madre cubanos, que se hallen cumpliendo misión oficial;
 
-- los nacidos en el extranjero de padre o madre cubanos, previo el cumplimiento de las formalidades que la ley señala;
+c) los nacidos en el extranjero de padre o madre cubanos, previo el cumplimiento de las formalidades que la ley señala;
 
-- ch) los nacidos fuera del territorio nacional, de padre o madre naturales de la República de Cuba que hayan perdido la ciudadanía cubana, siempre que la reclamen en la forma que señala la ley;
+ch) los nacidos fuera del territorio nacional, de padre o madre naturales de la República de Cuba que hayan perdido la ciudadanía cubana, siempre que la reclamen en la forma que señala la ley;
 
-- los extranjeros que por méritos excepcionales alcanzados en las luchas por la liberación de Cuba fueron considerados ciudadanos cubanos por nacimiento.
+d) los extranjeros que por méritos excepcionales alcanzados en las luchas por la liberación de Cuba fueron considerados ciudadanos cubanos por nacimiento.
 
 #### ARTICULO 30.
 Son ciudadanos cubanos por naturalización:
 
-- los extranjeros que adquieren la ciudadanía de acuerdo con lo establecido en la ley;
+a) los extranjeros que adquieren la ciudadanía de acuerdo con lo establecido en la ley;
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-- los que hubiesen servido a la lucha armada contra la tiranía derrocada el primero de enero de 1959, siempre que acrediten esa condición en la forma legalmente establecida;
+b) los que hubiesen servido a la lucha armada contra la tiranía derrocada el primero de enero de 1959, siempre que acrediten esa condición en la forma legalmente establecida;
 
-- los que habiendo sido privados arbitrariamente de su ciudadanía de origen obtengan la cubana por acuerdo expreso del Consejo de Estado.
+c) los que habiendo sido privados arbitrariamente de su ciudadanía de origen obtengan la cubana por acuerdo expreso del Consejo de Estado.
 
 #### ARTICULO 31.
 Ni el matrimonio ni su disolución afectan la ciudadanía de los cónyuges o de sus hijos.
@@ -382,31 +413,31 @@ El Estado orienta, fomenta y promueve la educación, la cultura y las ciencias e
 
 En su política educativa y cultural se atiene a los postulados siguientes:
 
-- fundamenta su política educacional y cultural en los avances de la ciencia y la técnica, el ideario marxista y martiano, la tradición pedagógica progresista cubana y la universal;
+a) fundamenta su política educacional y cultural en los avances de la ciencia y la técnica, el ideario marxista y martiano, la tradición pedagógica progresista cubana y la universal;
 
-- la enseñanza es función del Estado y es gratuita. Se basa en las conclusiones y aportes de la ciencia y en la relación más estrecha del estudio con la vida, el trabajo y la producción.
+b) la enseñanza es función del Estado y es gratuita. Se basa en las conclusiones y aportes de la ciencia y en la relación más estrecha del estudio con la vida, el trabajo y la producción.
 
 El Estado mantiene un amplio sistema de becas para los estudiantes y proporciona múltiples facilidades de estudio a los trabajadores a fin de que puedan alcanzar los más altos niveles posibles de conocimientos y habilidades.
 
 La ley precisa la integración y estructura del sistema nacional de enseñanza, así como el alcance de la obligatoriedad de estudiar y define la preparación general básica que, como mínimo, debe adquirir todo ciudadano;
 
-- promover la educación patriótica y la formación comunista de las nuevas generaciones y la preparación de los niños, jóvenes y adultos para la vida social.
+c) promover la educación patriótica y la formación comunista de las nuevas generaciones y la preparación de los niños, jóvenes y adultos para la vida social.
 
 Para realizar este principio se combinan la educación general y las especializadas de carácter científico, técnico o artístico, con el trabajo, la investigación para el desarrollo, la educación física, el deporte y la participación en actividades políticas, sociales y de preparación militar;
 
-- ch) es libre la creación artística siempre que su contenido no sea contrario a la Revolución. Las formas de expresión en el arte son libres;
+ch) es libre la creación artística siempre que su contenido no sea contrario a la Revolución. Las formas de expresión en el arte son libres;
 
-- el Estado, a fin de elevar la cultura del pueblo, se ocupa de fomentar y desarrollar la educación artística, la vocación para la creación y el cultivo del arte y la capacidad para apreciarlo;
+d) el Estado, a fin de elevar la cultura del pueblo, se ocupa de fomentar y desarrollar la educación artística, la vocación para la creación y el cultivo del arte y la capacidad para apreciarlo;
 
-- la actividad creadora e investigativa en la ciencia es libre. El Estado estimula y viabiliza la investigación y prioriza la dirigida a resolver los problemas que atañen al interés de la sociedad y al beneficio del pueblo;
+e) la actividad creadora e investigativa en la ciencia es libre. El Estado estimula y viabiliza la investigación y prioriza la dirigida a resolver los problemas que atañen al interés de la sociedad y al beneficio del pueblo;
 
-- el Estado propicia que los trabajadores se incorporen a la labor científica y al desarrollo de la ciencia;
+f) el Estado propicia que los trabajadores se incorporen a la labor científica y al desarrollo de la ciencia;
 
-- el Estado orienta, fomenta y promueve la cultura física y el deporte en todas sus manifestaciones como medio de educación y contribución a la formación integral de los ciudadanos;
+g) el Estado orienta, fomenta y promueve la cultura física y el deporte en todas sus manifestaciones como medio de educación y contribución a la formación integral de los ciudadanos;
 
-- el Estado defiende la identidad de la cultura cubana y vela por la conservación del patrimonio cultural y la riqueza artística e histórica de la nación. Protege los monumentos nacionales y los lugares notables por su belleza natural o por su reconocido valor artístico o histórico;
+h) el Estado defiende la identidad de la cultura cubana y vela por la conservación del patrimonio cultural y la riqueza artística e histórica de la nación. Protege los monumentos nacionales y los lugares notables por su belleza natural o por su reconocido valor artístico o histórico;
 
-- el Estado promueve la participación de los ciudadanos a través de las organizaciones de masas y sociales del país en la realización de su política educacional y cultural.
+i) el Estado promueve la participación de los ciudadanos a través de las organizaciones de masas y sociales del país en la realización de su política educacional y cultural.
 
 #### ARTICULO 40.
 La niñez y la juventud disfrutan de particular protección por parte del Estado y la sociedad. La familia, la escuela, los órganos estatales y las organizaciones de masas y sociales tienen el deber de prestar especial atención a la formación integral de la niñez y la juventud.
@@ -530,22 +561,20 @@ El cumplimiento estricto de la Constitución y de las leyes es deber inexcusable
 ### Capítulo VIII ESTADO DE EMERGENCIA
 
 #### ARTICULO 67.
-En caso o ante la inminencia de desastres naturales o catástrofes u otras circunstancias que por parte de él, y durante su vigencia disponer la movilización de la población.
+En caso o ante la inminencia de desastres naturales o catástrofes u otras circunstancias que por su naturaleza, proporción o entidad afecten el orden interior, la seguridad del país o la estabilidad del Estado, el Presidente del Consejo de Estado puede declarar el estado de emergencia en todo el territorio nacional o en una parte de él, y durante su vigencia disponer la movilización de la población.
 
-su naturaleza, proporción o entidad afecten el orden interior, la seguridad del país o la estabilidad del Estado, el Presidente del Consejo de Estado puede declarar el estado de emergencia en todo el territorio nacional o en una La ley regula la forma en que se declara el estado de emergencia, sus efectos y su terminación. Igualmente
-
-determina los derechos y deberes fundamentales reconocidos por la Constitución, cuyo ejercicio debe ser regulado de manera diferente durante la vigencia del estado de emergencia.
+La ley regula la forma en que se declara el estado de emergencia, sus efectos y su terminación. Igualmente determina los derechos y deberes fundamentales reconocidos por la Constitución, cuyo ejercicio debe ser regulado de manera diferente durante la vigencia del estado de emergencia.
 
 ### Capítulo IX PRINCIPIOS DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS ÓRGANOS ESTATALES
 
 #### ARTICULO 68.
 Los órganos del Estado se integran y desarrollan su actividad sobre la base de los principios de la democracia socialista que se expresan en las reglas siguientes:
 
-- todos los órganos representativos de poder del Estado son electivos y renovables;
+a) todos los órganos representativos de poder del Estado son electivos y renovables;
 
-- las masas populares controlan la actividad de los órganos estatales, de los diputados, de los delegados y de los funcionarios;
+b) las masas populares controlan la actividad de los órganos estatales, de los diputados, de los delegados y de los funcionarios;
 
-- los elegidos tienen el deber de rendir cuenta de su actuación y pueden ser revocados de sus cargos en cualquier momento;
+c) los elegidos tienen el deber de rendir cuenta de su actuación y pueden ser revocados de sus cargos en cualquier momento;
 
 [[END OF PAGE 12]]
 
@@ -553,11 +582,11 @@ Los órganos del Estado se integran y desarrollan su actividad sobre la base de 
 
 ch) cada órgano estatal desarrolla ampliamente, dentro del marco de su competencia, la iniciativa encaminada al aprovechamiento de los recursos y posibilidades locales y a la incorporación de las organizaciones de masas y sociales a su actividad;
 
-- las disposiciones de los órganos estatales superiores son obligatorias para los inferiores;
+d) las disposiciones de los órganos estatales superiores son obligatorias para los inferiores;
 
-- los órganos estatales inferiores responden ante los superiores y les rinden cuenta de su gestión;
+e) los órganos estatales inferiores responden ante los superiores y les rinden cuenta de su gestión;
 
-- la libertad de discusión, el ejercicio de la crítica y autocrítica y la subordinación de la minoría a la mayoría rigen en todos los órganos estatales colegiados.
+f) la libertad de discusión, el ejercicio de la crítica y autocrítica y la subordinación de la minoría a la mayoría rigen en todos los órganos estatales colegiados.
 
 ### Capítulo X ÓRGANOS SUPERIORES DEL PODER POPULAR
 
@@ -579,40 +608,40 @@ La Asamblea Nacional del Poder Popular, al constituirse para una nueva legislatu
 #### ARTICULO 74.
 La Asamblea Nacional del Poder Popular elige, de entre sus diputados, al Consejo de Estado, integrado por un Presidente, un Primer Vicepresidente, cinco Vicepresidentes, un Secretario y veintitrés miembros más.
 
-- El Presidente del Consejo de Estado es jefe de Estado y jefe de Gobierno.
+El Presidente del Consejo de Estado es jefe de Estado y jefe de Gobierno.
 
 El Consejo de Estado es responsable ante la Asamblea Nacional del Poder Popular y le rinde cuenta de todas sus actividades.
 
 #### ARTICULO 75.
 Son atribuciones de la Asamblea Nacional del Poder Popular:
 
-- acordar reformas de la Constitución conforme a lo establecido en el artículo 137;
+a) acordar reformas de la Constitución conforme a lo establecido en el artículo 137;
 
-- aprobar, modificar o derogar las leyes y someterlas previamente a la consulta popular cuando lo estime procedente en atención a la índole de la legislación de que se trate;
+b) aprobar, modificar o derogar las leyes y someterlas previamente a la consulta popular cuando lo estime procedente en atención a la índole de la legislación de que se trate;
 
-- decidir acerca de la constitucionalidad de las leyes, decretos-leyes, decretos y demás disposiciones generales;
+c) decidir acerca de la constitucionalidad de las leyes, decretos-leyes, decretos y demás disposiciones generales;
 
-- ch) revocar en todo o en parte los decretos-leyes que haya dictado el Consejo de Estado;
+ch) revocar en todo o en parte los decretos-leyes que haya dictado el Consejo de Estado;
 
-- discutir y aprobar los planes nacionales de desarrollo económico y social;
+d) discutir y aprobar los planes nacionales de desarrollo económico y social;
 
-- discutir y aprobar el presupuesto del Estado;
+e) discutir y aprobar el presupuesto del Estado;
 
-- aprobar los principios del sistema de planificación y de dirección de la economía nacional;
+f) aprobar los principios del sistema de planificación y de dirección de la economía nacional;
 
-- acordar el sistema monetario y crediticio;
+g) acordar el sistema monetario y crediticio;
 
-- aprobar los lineamientos generales de la política exterior e interior;
+h) aprobar los lineamientos generales de la política exterior e interior;
 
-- declarar el estado de guerra en caso de agresión militar y aprobar los tratados de paz;
+i) declarar el estado de guerra en caso de agresión militar y aprobar los tratados de paz;
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
-- establecer y modificar la división político-administrativa del país conforme a lo establecido en el artículo 102;
+j) establecer y modificar la división político-administrativa del país conforme a lo establecido en el artículo 102;
 
-- elegir al Presidente, al Vicepresidente y al Secretario de la Asamblea Nacional;
+k) elegir al Presidente, al Vicepresidente y al Secretario de la Asamblea Nacional;
 
 l) elegir al Presidente, al Primer Vicepresidente, a los Vicepresidentes, al Secretario y a los demás miembros del Consejo de Estado;
 
@@ -620,25 +649,25 @@ ll) designar, a propuesta del Presidente del Consejo de Estado, al Primer Vicepr
 
 m) elegir al Presidente, a los Vicepresidentes y a los demás Jueces del Tribunal Supremo Popular;
 
-- elegir al Fiscal General y a los Vicefiscales generales de la República;
+n) elegir al Fiscal General y a los Vicefiscales generales de la República;
 
-- ñ) nombrar comisiones permanentes y temporales;
+ñ) nombrar comisiones permanentes y temporales;
 
-- revocar la elección o designación de las personas elegidas o designadas por ella;
+o) revocar la elección o designación de las personas elegidas o designadas por ella;
 
 p) ejercer la más alta fiscalización sobre los órganos del Estado y del Gobierno;
 
-- conocer, evaluar y adoptar las decisiones pertinentes sobre los informes de rendición de cuenta que le presenten el Consejo de Estado, el Consejo de Ministros, el Tribunal Supremo Popular, la Fiscalía General de la República y las Asambleas Provinciales del Poder Popular;
+q) conocer, evaluar y adoptar las decisiones pertinentes sobre los informes de rendición de cuenta que le presenten el Consejo de Estado, el Consejo de Ministros, el Tribunal Supremo Popular, la Fiscalía General de la República y las Asambleas Provinciales del Poder Popular;
 
-- revocar los decretos-leyes del Consejo de Estado y los decretos o disposiciones del Consejo de Ministros que contradigan la Constitución o las leyes;
+r) revocar los decretos-leyes del Consejo de Estado y los decretos o disposiciones del Consejo de Ministros que contradigan la Constitución o las leyes;
 
-- revocar o modificar los acuerdos o disposiciones de los órganos locales del Poder Popular que violen la Constitución, las leyes, los decretos-leyes, decretos y demás disposiciones dictadas por un órgano de superior jerarquía a los mismos; o los que afecten los intereses de otras localidades o los generales del país;
+s) revocar o modificar los acuerdos o disposiciones de los órganos locales del Poder Popular que violen la Constitución, las leyes, los decretos-leyes, decretos y demás disposiciones dictadas por un órgano de superior jerarquía a los mismos; o los que afecten los intereses de otras localidades o los generales del país;
 
-- conceder amnistías;
+t) conceder amnistías;
 
 u) disponer la convocatoria de referendos en los casos previstos en la Constitución y en otros que la propia Asamblea considere procedente;
 
-- acordar su reglamento;
+v) acordar su reglamento;
 
 w) las demás que le confiere esta Constitución.
 
@@ -697,45 +726,45 @@ Tiene carácter colegiado y, a los fines nacionales e internacionales, ostenta l
 #### ARTICULO 90.
 Son atribuciones del Consejo de Estado:
 
-- disponer la celebración de sesiones extraordinarias de la Asamblea Nacional del Poder Popular;
+a) disponer la celebración de sesiones extraordinarias de la Asamblea Nacional del Poder Popular;
 
-- acordar la fecha de las elecciones para la renovación periódica de la Asamblea Nacional del Poder Popular;
+b) acordar la fecha de las elecciones para la renovación periódica de la Asamblea Nacional del Poder Popular;
 
-- dictar decretos-leyes, entre uno y otro período de sesiones de la Asamblea Nacional del Poder Popular;
+c) dictar decretos-leyes, entre uno y otro período de sesiones de la Asamblea Nacional del Poder Popular;
 
-- ch) dar a las leyes vigentes, en caso necesario, una interpretación general y obligatoria;
+ch) dar a las leyes vigentes, en caso necesario, una interpretación general y obligatoria;
 
-- ejercer la iniciativa legislativa;
+d) ejercer la iniciativa legislativa;
 
-- disponer lo pertinente para realizar los referendos que acuerde la Asamblea Nacional del Poder Popular;
+e) disponer lo pertinente para realizar los referendos que acuerde la Asamblea Nacional del Poder Popular;
 
-- decretar la movilización general cuando la defensa del país lo exija y asumir las facultades de declarar la guerra en caso de agresión o concertar la paz, que la Constitución asigna a la Asamblea Nacional del Poder Popular, cuando ésta se halle en receso y no pueda ser convocada con la seguridad y urgencia necesarias;
+f) decretar la movilización general cuando la defensa del país lo exija y asumir las facultades de declarar la guerra en caso de agresión o concertar la paz, que la Constitución asigna a la Asamblea Nacional del Poder Popular, cuando ésta se halle en receso y no pueda ser convocada con la seguridad y urgencia necesarias;
 
-- sustituir, a propuesta de su Presidente, a los miembros del Consejo de Ministros entre uno y otro período de sesiones de la Asamblea Nacional del Poder Popular;
+g) sustituir, a propuesta de su Presidente, a los miembros del Consejo de Ministros entre uno y otro período de sesiones de la Asamblea Nacional del Poder Popular;
 
-- impartir instrucciones de carácter general a los tribunales a través del Consejo de Gobierno del Tribunal Supremo Popular;
+h) impartir instrucciones de carácter general a los tribunales a través del Consejo de Gobierno del Tribunal Supremo Popular;
 
-- impartir instrucciones a la Fiscalía General de la República;
+i) impartir instrucciones a la Fiscalía General de la República;
 
-- designar y remover, a propuesta de su Presidente, a los representantes diplomáticos de Cuba ante otros Estados;
+j) designar y remover, a propuesta de su Presidente, a los representantes diplomáticos de Cuba ante otros Estados;
 
-- otorgar condecoraciones y títulos honoríficos;
+k) otorgar condecoraciones y títulos honoríficos;
 
-- nombrar comisiones;
+l) nombrar comisiones;
 
-- ll) conceder indultos;
+ll) conceder indultos;
 
-- ratificar y denunciar tratados internacionales;
+m) ratificar y denunciar tratados internacionales;
 
-- otorgar o negar el beneplácito a los representantes diplomáticos de otros Estados;
+n) otorgar o negar el beneplácito a los representantes diplomáticos de otros Estados;
 
-- ñ) suspender las disposiciones del Consejo de Ministros y los acuerdos y disposiciones de las Asambleas Locales del Poder Popular que no se ajusten a la Constitución o a las leyes, o cuando afecten los intereses de otras localidades o los generales del país, dando cuenta a la Asamblea Nacional del Poder Popular en la primera sesión que celebre después de acordada dicha suspensión;
+ñ) suspender las disposiciones del Consejo de Ministros y los acuerdos y disposiciones de las Asambleas Locales del Poder Popular que no se ajusten a la Constitución o a las leyes, o cuando afecten los intereses de otras localidades o los generales del país, dando cuenta a la Asamblea Nacional del Poder Popular en la primera sesión que celebre después de acordada dicha suspensión;
 
-- revocar los acuerdos y disposiciones de las Administraciones Locales del Poder Popular que contravengan la Constitución, las leyes, los decretos-leyes, los decretos y demás disposiciones dictadas por un órgano de superior jerarquía, o cuando afecten los intereses de otras localidades o los generales del país;
+o) revocar los acuerdos y disposiciones de las Administraciones Locales del Poder Popular que contravengan la Constitución, las leyes, los decretos-leyes, los decretos y demás disposiciones dictadas por un órgano de superior jerarquía, o cuando afecten los intereses de otras localidades o los generales del país;
 
-- aprobar su reglamento;
+p) aprobar su reglamento;
 
-- las demás que le confieran la Constitución y las leyes o le encomiende la Asamblea Nacional del Poder Popular.
+q) las demás que le confieran la Constitución y las leyes o le encomiende la Asamblea Nacional del Poder Popular.
 
 #### ARTICULO 91.
 Todas las decisiones del Consejo de Estado son adoptadas por el voto favorable de la mayoría simple de sus integrantes.
@@ -750,29 +779,29 @@ Las atribuciones del Presidente del Consejo de Estado y Jefe de Gobierno son las
 
 [[START OF PAGE 17]]
 
-- representar al Estado y al Gobierno y dirigir su política general;
+a) representar al Estado y al Gobierno y dirigir su política general;
 
-- organizar y dirigir las actividades y convocar y presidir las sesiones del Consejo de Estado y las del Consejo de Ministros;
+b) organizar y dirigir las actividades y convocar y presidir las sesiones del Consejo de Estado y las del Consejo de Ministros;
 
-- controlar y atender el desenvolvimiento de las actividades de los ministerios y demás organismos centrales de la Administración;
+c) controlar y atender el desenvolvimiento de las actividades de los ministerios y demás organismos centrales de la Administración;
 
-- ch) asumir la dirección de cualquier ministerio u organismo central de la Administración;
+ch) asumir la dirección de cualquier ministerio u organismo central de la Administración;
 
-- proponer a la Asamblea Nacional del Poder Popular, una vez elegido por ésta, los miembros del Consejo de Ministros;
+d) proponer a la Asamblea Nacional del Poder Popular, una vez elegido por ésta, los miembros del Consejo de Ministros;
 
-- aceptar las renuncias de los miembros del Consejo de Ministros, o bien proponer a la Asamblea Nacional del Poder Popular o al Consejo de Estado, según proceda, la sustitución de cualquiera de ellos y, en ambos casos, los sustitutos correspondientes;
+e) aceptar las renuncias de los miembros del Consejo de Ministros, o bien proponer a la Asamblea Nacional del Poder Popular o al Consejo de Estado, según proceda, la sustitución de cualquiera de ellos y, en ambos casos, los sustitutos correspondientes;
 
-- recibir las cartas credenciales de los jefes de las misiones extranjeras. Esta función podrá ser delegada en cualquiera de los Vicepresidentes del Consejo de Estado;
+f) recibir las cartas credenciales de los jefes de las misiones extranjeras. Esta función podrá ser delegada en cualquiera de los Vicepresidentes del Consejo de Estado;
 
-- desempeñar la Jefatura Suprema de todas las instituciones armadas y determinar su organización general;
+g) desempeñar la Jefatura Suprema de todas las instituciones armadas y determinar su organización general;
 
-- presidir el Consejo de Defensa Nacional;
+h) presidir el Consejo de Defensa Nacional;
 
-- declarar el Estado de Emergencia en los casos previstos por esta Constitución, dando cuenta de su decisión, tan pronto las circunstancias lo permitan, a la Asamblea Nacional del Poder Popular o al Consejo de Estado, de no poder reunirse aquélla, a los efectos legales procedentes;
+i) declarar el Estado de Emergencia en los casos previstos por esta Constitución, dando cuenta de su decisión, tan pronto las circunstancias lo permitan, a la Asamblea Nacional del Poder Popular o al Consejo de Estado, de no poder reunirse aquélla, a los efectos legales procedentes;
 
-- firmar decretos-leyes y otros acuerdos del Consejo de Estado y las disposiciones legales adoptadas por el Consejo de Ministros o su Comité Ejecutivo y ordenar su publicación en la Gaceta Oficial de la República;
+j) firmar decretos-leyes y otros acuerdos del Consejo de Estado y las disposiciones legales adoptadas por el Consejo de Ministros o su Comité Ejecutivo y ordenar su publicación en la Gaceta Oficial de la República;
 
-- las demás que por esta Constitución o las leyes se le atribuyan.
+k) las demás que por esta Constitución o las leyes se le atribuyan.
 
 #### ARTICULO 94.
 En caso de ausencia, enfermedad o muerte del Presidente del Consejo de Estado lo sustituye en sus funciones el Primer Vicepresidente.
@@ -793,47 +822,47 @@ que median entre una y otra de sus reuniones.
 #### ARTICULO 98.
 Son atribuciones del Consejo de Ministros:
 
-- organizar y dirigir la ejecución de las actividades políticas, económicas, culturales, científicas, sociales y de defensa acordadas por la Asamblea Nacional del Poder Popular;
+a) organizar y dirigir la ejecución de las actividades políticas, económicas, culturales, científicas, sociales y de defensa acordadas por la Asamblea Nacional del Poder Popular;
 
-- proponer los proyectos de planes generales de desarrollo económico-social del Estado y, una vez aprobados por la Asamblea Nacional del Poder Popular, organizar, dirigir y controlar su ejecución;
+b) proponer los proyectos de planes generales de desarrollo económico-social del Estado y, una vez aprobados por la Asamblea Nacional del Poder Popular, organizar, dirigir y controlar su ejecución;
 
-- dirigir la política exterior de la República y las relaciones con otros gobiernos;
+c) dirigir la política exterior de la República y las relaciones con otros gobiernos;
 
-- ch) aprobar tratados internacionales y someterlos a la ratificación del Consejo de Estado;
+ch) aprobar tratados internacionales y someterlos a la ratificación del Consejo de Estado;
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
-- dirigir y controlar el comercio exterior;
+d) dirigir y controlar el comercio exterior;
 
-- elaborar el proyecto de presupuesto del Estado y una vez aprobado por la Asamblea Nacional del Poder Popular, velar por su ejecución;
+e) elaborar el proyecto de presupuesto del Estado y una vez aprobado por la Asamblea Nacional del Poder Popular, velar por su ejecución;
 
-- adoptar medidas para fortalecer el sistema monetario y crediticio;
+f) adoptar medidas para fortalecer el sistema monetario y crediticio;
 
-- elaborar proyectos legislativos y someterlos a la consideración de la Asamblea Nacional del Poder Popular o del Consejo de Estado, según proceda;
+g) elaborar proyectos legislativos y someterlos a la consideración de la Asamblea Nacional del Poder Popular o del Consejo de Estado, según proceda;
 
-- proveer a la defensa nacional, al mantenimiento del orden y la seguridad interiores, a la protección de los derechos ciudadanos, así como a la salvaguarda de vidas y bienes en caso de desastres naturales;
+h) proveer a la defensa nacional, al mantenimiento del orden y la seguridad interiores, a la protección de los derechos ciudadanos, así como a la salvaguarda de vidas y bienes en caso de desastres naturales;
 
-- dirigir la administración del Estado, y unificar, coordinar y fiscalizar la actividad de los organismos de la Administración Central y de las Administraciones Locales;
+i) dirigir la administración del Estado, y unificar, coordinar y fiscalizar la actividad de los organismos de la Administración Central y de las Administraciones Locales;
 
-- ejecutar las leyes y acuerdos de la Asamblea Nacional del Poder Popular, así como los decretos-leyes y disposiciones del Consejo de Estado y, en caso necesario, dictar los reglamentos correspondientes;
+j) ejecutar las leyes y acuerdos de la Asamblea Nacional del Poder Popular, así como los decretos-leyes y disposiciones del Consejo de Estado y, en caso necesario, dictar los reglamentos correspondientes;
 
-- dictar decretos y disposiciones sobre la base y en cumplimiento de las leyes vigentes y controlar su ejecución;
+k) dictar decretos y disposiciones sobre la base y en cumplimiento de las leyes vigentes y controlar su ejecución;
 
 l) revocar las decisiones de las Administraciones subordinadas a las Asambleas Provinciales o Municipales del Poder Popular, adoptadas en función de las facultades delegadas por los organismos de la Administración Central del Estado, cuando contravengan las normas superiores que les sean de obligatorio cumplimiento;
 
 ll) proponer a las Asambleas Provinciales y Municipales del Poder Popular revocar las disposiciones que sean adoptadas en su actividad específica, por las administraciones provinciales y municipales a ellas subordinadas, cuando contravengan las normas aprobadas por los organismos de la Administración Central del Estado, en el ejercicio de sus atribuciones;
 
-- revocar las disposiciones de los Jefes de organismos de la Administración Central del Estado, cuando contravengan las normas superiores que les sean de obligatorio cumplimiento;
+m) revocar las disposiciones de los Jefes de organismos de la Administración Central del Estado, cuando contravengan las normas superiores que les sean de obligatorio cumplimiento;
 
-- proponer a la Asamblea Nacional del Poder Popular o al Consejo de Estado la suspensión de los acuerdos de las Asambleas Locales del Poder Popular que contravengan las leyes y demás disposiciones vigentes, o que afecten los intereses de otras comunidades o los generales del país;
+n) proponer a la Asamblea Nacional del Poder Popular o al Consejo de Estado la suspensión de los acuerdos de las Asambleas Locales del Poder Popular que contravengan las leyes y demás disposiciones vigentes, o que afecten los intereses de otras comunidades o los generales del país;
 
-- ñ) crear las comisiones que estimen necesarias para facilitar el cumplimiento de las tareas que le están asignadas;
+ñ) crear las comisiones que estimen necesarias para facilitar el cumplimiento de las tareas que le están asignadas;
 
-- designar y remover funcionarios de acuerdo con las facultades que le confiere la ley;
+o) designar y remover funcionarios de acuerdo con las facultades que le confiere la ley;
 
-- realizar cualquier otra función que le encomiende la Asamblea Nacional del Poder Popular o el Consejo de Estado.
+p) realizar cualquier otra función que le encomiende la Asamblea Nacional del Poder Popular o el Consejo de Estado.
 
 La ley regula la organización y funcionamiento del Consejo de Ministros.
 
@@ -843,15 +872,15 @@ El Consejo de Ministros es responsable y rinde cuenta, periódicamente, de todas
 #### ARTICULO 100.
 Son atribuciones de los miembros del Consejo de Ministros:
 
-- dirigir los asuntos y tareas del Ministerio u organismo a su cargo, dictando las resoluciones y disposiciones necesarias a ese fin;
+a) dirigir los asuntos y tareas del Ministerio u organismo a su cargo, dictando las resoluciones y disposiciones necesarias a ese fin;
 
-- dictar, cuando no sea atribución expresa de otro órgano estatal, los reglamentos que se requieran para la ejecución y aplicación de las leyes y decretos-leyes que les conciernen;
+b) dictar, cuando no sea atribución expresa de otro órgano estatal, los reglamentos que se requieran para la ejecución y aplicación de las leyes y decretos-leyes que les conciernen;
 
-- asistir a las sesiones del Consejo de Ministros, con voz y voto, y presentar a éste proyectos de leyes, decretosleyes, decretos, resoluciones, acuerdos o cualquier otra proposición que estimen conveniente;
+c) asistir a las sesiones del Consejo de Ministros, con voz y voto, y presentar a éste proyectos de leyes, decretos-leyes, decretos, resoluciones, acuerdos o cualquier otra proposición que estimen conveniente;
 
-- ch) nombrar, conforme a la ley, los funcionarios que les corresponden;
+ch) nombrar, conforme a la ley, los funcionarios que les corresponden;
 
-- cualquier otra que le atribuyan la Constitución y las leyes.
+d) cualquier otra que le atribuyan la Constitución y las leyes.
 
 [[END OF PAGE 18]]
 
@@ -898,50 +927,50 @@ a) cumplir y hacer cumplir las leyes y demás disposiciones de carácter general
 
 [[START OF PAGE 20]]
 
-- aprobar y controlar, conforme a la política acordada por los organismos nacionales competentes, la ejecución del plan y del presupuesto ordinario de ingresos y gastos de la provincia;
+b) aprobar y controlar, conforme a la política acordada por los organismos nacionales competentes, la ejecución del plan y del presupuesto ordinario de ingresos y gastos de la provincia;
 
-- elegir y revocar al Presidente y Vicepresidente de la propia Asamblea;
+c) elegir y revocar al Presidente y Vicepresidente de la propia Asamblea;
 
-- ch) designar y sustituir al Secretario de la Asamblea;
+ch) designar y sustituir al Secretario de la Asamblea;
 
-- participar en la elaboración y control de la ejecución del presupuesto y el plan técnico-económico del Estado, correspondiente a las entidades radicadas en su territorio y subordinadas a otras instancias, conforme a la ley;
+d) participar en la elaboración y control de la ejecución del presupuesto y el plan técnico-económico del Estado, correspondiente a las entidades radicadas en su territorio y subordinadas a otras instancias, conforme a la ley;
 
-- controlar y fiscalizar la actividad del órgano de administración de la provincia auxiliándose para ello de sus comisiones de trabajo;
+e) controlar y fiscalizar la actividad del órgano de administración de la provincia auxiliándose para ello de sus comisiones de trabajo;
 
-- designar y sustituir a los miembros del órgano de Administración provincial, a propuesta de su Presidente;
+f) designar y sustituir a los miembros del órgano de Administración provincial, a propuesta de su Presidente;
 
-- determinar conforme a los principios establecidos por el Consejo de Ministros la organización, funcionamiento y tareas de las entidades encargadas de realizar las actividades económicas, de producción y servicios, educacionales, de salud, culturales, deportivas, de protección del medio ambiente y recreativas, que están subordinadas al órgano de Administración provincial;
+g) determinar conforme a los principios establecidos por el Consejo de Ministros la organización, funcionamiento y tareas de las entidades encargadas de realizar las actividades económicas, de producción y servicios, educacionales, de salud, culturales, deportivas, de protección del medio ambiente y recreativas, que están subordinadas al órgano de Administración provincial;
 
-- adoptar acuerdos sobre los asuntos de administración concernientes a su demarcación territorial y que, según la ley, no corresponda a la competencia general de la Administración Central del Estado o a la de los órganos municipales de poder estatal;
+h) adoptar acuerdos sobre los asuntos de administración concernientes a su demarcación territorial y que, según la ley, no corresponda a la competencia general de la Administración Central del Estado o a la de los órganos municipales de poder estatal;
 
-- aprobar la creación y organización de los Consejos Populares a propuesta de las Asambleas Municipales del Poder Popular;
+i) aprobar la creación y organización de los Consejos Populares a propuesta de las Asambleas Municipales del Poder Popular;
 
-- revocar, en el marco de su competencia, las decisiones adoptadas por el órgano de administración de la provincia, o proponer su revocación al Consejo de Ministros, cuando hayan sido adoptadas en función de facultades delegadas por los organismos de la Administración Central del Estado;
+j) revocar, en el marco de su competencia, las decisiones adoptadas por el órgano de administración de la provincia, o proponer su revocación al Consejo de Ministros, cuando hayan sido adoptadas en función de facultades delegadas por los organismos de la Administración Central del Estado;
 
-- conocer y evaluar los informes de rendición de cuenta que les presenten su órgano de Administración y las Asambleas del Poder Popular de nivel inferior, y adoptar las decisiones pertinentes sobre ellos;
+k) conocer y evaluar los informes de rendición de cuenta que les presenten su órgano de Administración y las Asambleas del Poder Popular de nivel inferior, y adoptar las decisiones pertinentes sobre ellos;
 
-- formar y disolver comisiones de trabajo;
+l) formar y disolver comisiones de trabajo;
 
-- ll) atender todo lo relativo a la aplicación de la política de cuadros que tracen los órganos superiores del Estado;
+ll) atender todo lo relativo a la aplicación de la política de cuadros que tracen los órganos superiores del Estado;
 
-- fortalecer la legalidad, el orden interior y la capacidad defensiva del país;
+m) fortalecer la legalidad, el orden interior y la capacidad defensiva del país;
 
-- cualquier otra que les atribuyan la Constitución y las leyes.
+n) cualquier otra que les atribuyan la Constitución y las leyes.
 
 #### ARTICULO 106.
 Dentro de los límites de su competencia, las Asambleas Municipales del Poder Popular tienen las atribuciones siguientes:
 
-- cumplir y hacer cumplir las leyes y demás disposiciones de carácter general adoptadas por los órganos superiores del Estado;
+a) cumplir y hacer cumplir las leyes y demás disposiciones de carácter general adoptadas por los órganos superiores del Estado;
 
-- elegir y revocar al Presidente y al Vicepresidente de la Asamblea;
+b) elegir y revocar al Presidente y al Vicepresidente de la Asamblea;
 
-- designar y sustituir al Secretario de la Asamblea;
+c) designar y sustituir al Secretario de la Asamblea;
 
-- ch) ejercer la fiscalización y el control de las entidades de subordinación municipal, apoyándose en sus comisiones de trabajo;
+ch) ejercer la fiscalización y el control de las entidades de subordinación municipal, apoyándose en sus comisiones de trabajo;
 
-- revocar o modificar los acuerdos y disposiciones de los órganos o autoridades subordinadas a ella, que infrinjan la Constitución, las leyes, los decretos-leyes, los decretos, resoluciones y otras disposiciones dictados por los órganos superiores del Estado o que afecten los intereses de la comunidad, de otros territorios, o los generales del país, o proponer su revocación al Consejo de Ministros, cuando hayan sido adoptados en función de facultades delegadas por los organismos de la Administración Central del Estado;
+d) revocar o modificar los acuerdos y disposiciones de los órganos o autoridades subordinadas a ella, que infrinjan la Constitución, las leyes, los decretos-leyes, los decretos, resoluciones y otras disposiciones dictados por los órganos superiores del Estado o que afecten los intereses de la comunidad, de otros territorios, o los generales del país, o proponer su revocación al Consejo de Ministros, cuando hayan sido adoptados en función de facultades delegadas por los organismos de la Administración Central del Estado;
 
-- adoptar acuerdos y dictar disposiciones dentro del marco de la Constitución y de las leyes vigentes, sobre asuntos de interés municipal y controlar su aplicación;
+e) adoptar acuerdos y dictar disposiciones dentro del marco de la Constitución y de las leyes vigentes, sobre asuntos de interés municipal y controlar su aplicación;
 
 [[END OF PAGE 20]]
 
@@ -1110,9 +1139,9 @@ Para que se considere elegido un diputado o un delegado es necesario que haya ob
 ### Capítulo XV REFORMA CONSTITUCIONAL
 
 #### ARTICULO 137.
-Esta Constitución sólo puede ser reformada por la Asamblea Nacional del Poder Popular mediante acuerdo adoptado, en votación nominal, por una mayoría no inferior a las dos terceras partes del número total de sus integrantes, excepto en lo que se refiere al sistema político, social y económico, cuyo carácter irrevocable lo establece el artículo 3 del Capítulo I, y la prohibición de negociar bajo agresión, amenaza o coerción de una potencia extranjera, como se dispone en el Artículo 11. Si la reforma se refiere a la integración y facultades de la Asamblea Nacional del Poder Popular o de su Consejo favorable de la mayoría de los ciudadanos con derecho electoral, en referendo convocado al efecto por la propia
+Esta Constitución sólo puede ser reformada por la Asamblea Nacional del Poder Popular mediante acuerdo adoptado, en votación nominal, por una mayoría no inferior a las dos terceras partes del número total de sus integrantes, excepto en lo que se refiere al sistema político, social y económico, cuyo carácter irrevocable lo establece el artículo 3 del Capítulo I, y la prohibición de negociar bajo agresión, amenaza o coerción de una potencia extranjera, como se dispone en el Artículo 11.
 
-de Estado o a derechos y deberes consagrados en la Constitución, requiere, además, la ratificación por el voto Asamblea.
+Si la reforma se refiere a la integración y facultades de la Asamblea Nacional del Poder Popular o de su Consejo de Estado o a derechos y deberes consagrados en la Constitución, requiere, además, la ratificación por el voto favorable de la mayoría de los ciudadanos con derecho electoral, en referendo convocado al efecto por la propia Asamblea.
 
 ### DISPOSICIÓN ESPECIAL
 
