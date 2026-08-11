@@ -1,8 +1,11 @@
 [[START OF PAGE 1]]
+Federal Ministry of Education and Research
 
 # Reform of Vocational Education and Training in Germany
 
 ## The 2005 Vocational Training Act (Berufsbildungsgesetz 2005)
+
+VOCATIONAL EDUCATION
 
 [[END OF PAGE 1]]
 
@@ -27,7 +30,7 @@ Printed on recycled paper
 
 # Reform of Vocational Education and Training in Germany
 
-## The 2005 Vocational Training Act (Berufsbildungsgesetz 2005)
+## – The 2005 Vocational Training Act – (Berufsbildungsgesetz 2005)
 
 [[END OF PAGE 3]]
 
@@ -53,17 +56,9 @@ Upon  the  conclusion  of  the  parliamentary  deliberations,  the  German  Bund
 
 In the course of the legislative process, but also in the parallel deliberations of the Commission on Federalism, agreement was reached that the current distribution of powers  between  the  Federation  and  the  Länder  is  appropriate:  The  Federation accordingly  has  the  power  to  enact  legislation  governing  vocational  training provided outside of schools,  whereas  the  Länder  are  responsible  for  school-based vocational education and training. The revised Vocational Training Act responds to this  by  conceding the Länder greater scope for action at the interfaces of the two spheres of competence - in matters such as the admission of graduates of full-time vocational school training courses to examinations administered by the chambers, for example, or the crediting of previously acquired vocational school qualifications.  The  Länder  are  also  accorded  scope  to  independently  address specific  administrative  and  organizational  issues,  such  as  deciding  which  Land authority shall be responsible for the revocable recognition of technical qualifications.
 
-1
-
-2
-
-3
-
-Bundestag Printed Paper 15/3980.
-
-Bundestag Printed Paper 15/4752.
-
-Federal Law Gazette (BGBl.), Part I, p. 931.
+1 Bundestag Printed Paper 15/3980.
+2 Bundestag Printed Paper 15/4752.
+3 Federal Law Gazette (BGBl.), Part I, p. 931.
 
 [[END OF PAGE 5]]
 
@@ -83,13 +78,15 @@ In particular, it has been made clear in the list of optional additional content
 
 The  possibility  of  taking  the  final  examination  in  two  parts  administered  at different times (so-called 'extended final examination') has been enshrined as an equivalent  standard  option  in  the  law  governing  vocational  education  and training. Incorporation of this option has led to changes especially in the part of the Vocational Training Act governing examinations.
 
-Likewise new is the possibility of providing in the initial training regulations for the teaching  and  testing  of  additional  skills  that  are  of  relevance  for  initial  training. Such provision can consist  of  the  inclusion  of  additional  optional  modules  in  the initial  training  regulations  as  well  as  the  inclusion  of  parts  of  other  initial  and further training regulations. This will serve to not only broaden marketable skills and  thus  enhance  employability  but  also  more  effectively  dovetail  initial  and further training.
+Likewise new is the possibility of providing in the initial training regulations for the teaching and testing of additional skills that are of relevance for initial training. Such provision can consist of the inclusion of additional optional modules in the
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
 6
+
+initial training regulations as well as the inclusion of parts of other initial and further training regulations. This will serve to not only broaden marketable skills and thus enhance employability but also more effectively dovetail initial and further training.
 
 The so-called 'experimentation clause' (section 6 of the revised Vocational Training Act), i.e. the statutory basis for the authorization of testing, has been broadened in a number of  respects.  Firstly,  through  the  isolation  of  this  statutory  basis  from  the context of the so-called exclusivity principle pursuant to section 28 subsections (1) and (2) of the 1969 Vocational Training Act, the point has been clarified that testing authorization  ordinances  need  not  be  limited  to  exceptions  to  the  exclusivity principle.  Secondly,  the  thrust  of  testing  authorization  ordinances,  which  was already oriented towards new forms of initial training and new training occupations, has been broadened to cover new types of examinations.
 
@@ -99,13 +96,15 @@ The decision as to whether and to what extent previous education or training at 
 
 The  regulations  governing  admission  to  the  final  examination  have  also  been amended  for  so-called 'outsiders'. Section 43 subsection (2) of the revised Vocational Training Act now stipulates that the decision as to which qualification pathways are as a rule to be deemed equivalent to initial training pursuant to the Vocational Training Act shall be transferred to the Land governments. This affords the Länder the opportunity to offer high-calibre marketable qualifications through full-time vocational school training courses that are implemented in line with the structures and content of initial training pursuant to the Vocational Training Act and lead to a final examination administered pursuant to the Vocational Training Act. On the one hand, this arrangement merges the power of decision (establishment of full-fledged school-based training courses by the Länder) with the responsibility for integrating such courses into the system of vocational education and training. On the other hand, it also serves in particular to eliminate unnecessary and cost-intensive time spent in the education and training system.
 
-Especially teachers at part-time vocational schools [Berufsschulen] have now been given an opportunity within the framework of so-called 'expert opinions' to have a say in parts of the final examination. Part-time vocational school performance can thus  have  a  greater  impact  on  the  outcome  of  the  final  examination  than  was previously the case. On application of the trainee, moreover, a record of part-time vocational  school  performance  can  now  be  entered  on  the  actual  examination certificate issued by the chamber.
+Especially teachers at part-time vocational schools [Berufsschulen] have now been given an opportunity within the framework of so-called 'expert opinions' to have a say in parts of the final examination. Part-time vocational school performance can thus have a greater impact on the outcome of the final examination than was previously the case. On application of the trainee, moreover, a record of part-time
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
 7
+
+vocational school performance can now be entered on the actual examination certificate issued by the chamber.
 
 In certain cases, teachers on the vocational training committee are granted voting rights.
 
@@ -121,13 +120,15 @@ The provisions contained in sections 20 to 24 and scattered through Part 6 of th
 
 ## Federal Institute for Vocational Education and Training
 
-A  key  change  in  the  provisions  governing  the  Federal  Institute  for  Vocational Education and Training is a reduction of the number of organs. The functions of the previous  Central  Committee  and  the  previous  Permanent  Committee  have  been consolidated under a new Board. At the same time, the number of members of the Board has been reduced from 53 to 29. The equal weighting of the votes of the four groups comprising the Board has thereby been retained. The committees of experts have  been  eliminated,  as  has  the  Länder  Committee,  whereby  the  tasks  of  the Länder Committee  can largely be shouldered by the parallel Bund-Länder Coordinating  Committee.  The  reduction  in  the  number  of  organs  of  the  Federal Institute  for  Vocational  Education  and  Training  has  been  accompanied  by  the establishment  of  a  new  Research  Council.  This  step  was  taken  in  response  to developments in institutional research in recent years.
+A key change in the provisions governing the Federal Institute for Vocational Education and Training is a reduction of the number of organs. The functions of the previous Central Committee and the previous Permanent Committee have been consolidated under a new Board. At the same time, the number of members of the Board has been reduced from 53 to 29. The equal weighting of the votes of the four groups comprising the Board has thereby been retained. The committees of experts
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
 8
+
+have been eliminated, as has the Länder Committee, whereby the tasks of the Länder Committee can largely be shouldered by the parallel Bund-Länder Coordinating Committee. The reduction in the number of organs of the Federal Institute for Vocational Education and Training has been accompanied by the establishment of a new Research Council. This step was taken in response to developments in institutional research in recent years.
 
 [[END OF PAGE 9]]
 
@@ -315,11 +316,9 @@ Section 103  Equivalence  of  Final  Examination  Certificates  as  a  Consequen
 
 (1) Vocational training shall be provided
 
-- in companies engaged in economic activity, in comparable institutions not engaged  in  economic  activity,  especially  those  of  the  public  service,  in establishments of members of the independent professions, and in households (in-company training);
-
-- in vocational schools (school-based vocational training); and
-
-- in other vocational training facilities outside the system of school-based and in-company training (non-company training).
+1. in companies engaged in economic activity, in comparable institutions not engaged in economic activity, especially those of the public service, in establishments of members of the independent professions, and in households (in-company training);
+2. in vocational schools (school-based vocational training); and
+3. in other vocational training facilities outside the system of school-based and in-company training (non-company training).
 
 (2)  The  learning  locations  specified  in  subsection  (1)  shall  collaborate  in  the provision of vocational training (cooperation among learning locations).
 
@@ -331,11 +330,9 @@ Section 103  Equivalence  of  Final  Examination  Certificates  as  a  Consequen
 
 (2) This Act shall not apply to
 
-- vocational training provided in study courses imparting specific vocational qualifications or in comparable study courses at higher education institutions  on  the  basis  of  the  Framework  Act  for  Higher  Education [ Hochschulrahmengesetz ] and the higher education acts of the Länder;
-
-- vocational training provided under an employment relationship governed by public law;
-
-- vocational  training  provided  on  merchant  vessels  flying  the  flag  of  the Federal Republic of Germany  pursuant  to the Law of the Flag Act [ Flaggenrechtsgesetz ],  insofar as such vessels are not engaged in small-scale deep-sea fishing or in coastal fishing.
+1. vocational training provided in study courses imparting specific vocational qualifications or in comparable study courses at higher education institutions on the basis of the Framework Act for Higher Education [Hochschulrahmengesetz] and the higher education acts of the Länder;
+2. vocational training provided under an employment relationship governed by public law;
+3. vocational training provided on merchant vessels flying the flag of the Federal Republic of Germany pursuant to the Law of the Flag Act [Flaggenrechtsgesetz], insofar as such vessels are not engaged in small-scale deep-sea fishing or in coastal fishing.
 
 [[END OF PAGE 16]]
 
@@ -367,11 +364,9 @@ Section 103  Equivalence  of  Final  Examination  Certificates  as  a  Consequen
 
 (1) The initial training regulations shall specify
 
-- the designation of the training occupation to be recognized;
-
-- the duration of initial training, which shall not be more than three or fewer than two years;
-
-- the vocational skills, knowledge and qualifications to at least be imparted in
+1. the designation of the training occupation to be recognized;
+2. the duration of initial training, which shall not be more than three or fewer than two years;
+3. the vocational skills, knowledge and qualifications to at least be imparted in
 
 [[END OF PAGE 17]]
 
@@ -379,7 +374,7 @@ Section 103  Equivalence  of  Final  Examination  Certificates  as  a  Consequen
 
 17
 
-- the course of initial training (training occupation profile);
+the course of initial training (training occupation profile);
 
 - an outline of the syllabus and timetable to be followed when imparting the vocational skills, knowledge and qualifications (overall training plan);
 
@@ -387,19 +382,13 @@ Section 103  Equivalence  of  Final  Examination  Certificates  as  a  Consequen
 
 (2) The initial training regulations may provide that
 
-- initial training take place in progressive  stages  according  to  specific syllabuses and timetables; provision shall be made at the end of each stage for a certificate of competence qualifying trainees to both engage in a form of  skilled  occupational  activity  pursuant  to  section  1  subsection  (3)  and continue initial training in successive stages (training by stages);
-
-- the final examination be taken in two parts administered at different times;
-
-- notwithstanding section 4 subsection (4), initial training may, if the parties to the contract so agree, be continued in this training occupation pursuant to  the  new  provisions,  whereby  credit  shall  be  given  for  the  period  of training already undergone pursuant to the rescinded provisions;
-
-- initial  training  in  another  relevant  occupation  may  be  credited  towards initial training in the occupation governed by the initial training regulations,  taking  into  account  the  vocational  skills,  knowledge  and qualifications acquired in the course of such previous training;
-
-- over  and above the training occupation profile described in subsection (1), number 3, additional vocational skills, knowledge and qualifications may be imparted to supplement or broaden vocational competence;
-
-- parts of initial training be provided in suitable facilities outside the training premises  if  and  to  the  extent  necessary  for  the  purposes  of  training (intercompany training);
-
-- trainees keep a written record of their initial training.
+1. initial training take place in progressive stages according to specific syllabuses and timetables; provision shall be made at the end of each stage for a certificate of competence qualifying trainees to both engage in a form of skilled occupational activity pursuant to section 1 subsection (3) and continue initial training in successive stages (training by stages);
+2. the final examination be taken in two parts administered at different times;
+3. notwithstanding section 4 subsection (4), initial training may, if the parties to the contract so agree, be continued in this training occupation pursuant to the new provisions, whereby credit shall be given for the period of training already undergone pursuant to the rescinded provisions;
+4. initial training in another relevant occupation may be credited towards initial training in the occupation governed by the initial training regulations, taking into account the vocational skills, knowledge and qualifications acquired in the course of such previous training;
+5. over and above the training occupation profile described in subsection (1), number 3, additional vocational skills, knowledge and qualifications may be imparted to supplement or broaden vocational competence;
+6. parts of initial training be provided in suitable facilities outside the training premises if and to the extent necessary for the purposes of training (intercompany training);
+7. trainees keep a written record of their initial training.
 
 When  framing  initial  training  regulations,  attention  shall  always  be  given  to whether arrangements pursuant to numbers 1, 2 and 4 are sensible and feasible.
 
@@ -435,11 +424,7 @@ In  the  absence  of  other  provisions,  the  competent  body  shall  arrange  
 
 #### Subdivision 1 Establishment of the Initial Training Relationship
 
-Subsection (2) shall enter into force on 1 August 2009. At the same time, subsection (1), third sentence, shall
-
-cease to be in force.
-
-5
+5 Subsection (2) shall enter into force on 1 August 2009. At the same time, subsection (1), third sentence, shall cease to be in force.
 
 [[END OF PAGE 19]]
 
@@ -463,23 +448,15 @@ cease to be in force.
 
 (1)  After  the  conclusion  of  an  initial  training  contract,  training  employers  shall without delay, and in any event before the commencement of initial training, set down the essential stipulations of the contract pursuant to the second sentence in writing; the electronic form shall be excluded. The contract document shall at least specify
 
-- the  nature,  syllabus,  timetable  and  purpose  of  the  initial  training,  and  in particular the form of occupational activity for which initial training is to be provided;
-
-- the commencement and the duration of initial training,
-
-- any initial training measures taking place outside the training premises;
-
-- the length of the normal daily hours of initial training;
-
-- the length of the probationary period;
-
-- the payment of an allowance and the rate to be applied;
-
-- the amount of holiday leave;
-
-- the conditions under which the initial training contract may be terminated;
-
-- a  general  reference  to  collective  agreements,  plant  agreements  or  service agreements applicable to the initial training relationship.
+1. the nature, syllabus, timetable and purpose of the initial training, and in particular the form of occupational activity for which initial training is to be provided;
+2. the commencement and the duration of initial training,
+3. any initial training measures taking place outside the training premises;
+4. the length of the normal daily hours of initial training;
+5. the length of the probationary period;
+6. the payment of an allowance and the rate to be applied;
+7. the amount of holiday leave;
+8. the conditions under which the initial training contract may be terminated;
+9. a general reference to collective agreements, plant agreements or service agreements applicable to the initial training relationship.
 
 (2) The document shall be signed by the training employers, the trainees and the trainees' statutory representatives.
 
@@ -499,13 +476,10 @@ cease to be in force.
 
 (2) Any agreement providing for
 
-- an obligation of trainees to pay compensation for their initial training;
-
-- contractual penalties;
-
-- the exclusion or limitation of claims to compensation for damages;
-
-- determination of the rate of compensation for damages as a lump sum shall be null and void.
+1. an obligation of trainees to pay compensation for their initial training;
+2. contractual penalties;
+3. the exclusion or limitation of claims to compensation for damages;
+4. determination of the rate of compensation for damages as a lump sum shall be null and void.
 
 #### Subdivision 2 Obligations of Trainees
 
@@ -513,17 +487,12 @@ cease to be in force.
 
 Trainees shall make every effort to acquire the vocational competence necessary for them to achieve the purpose of their initial training. They shall in particular be obligated to
 
-- carefully perform the tasks entrusted to them as part of their initial training;
-
-- take part in initial training measures for which they have been granted time off under section 15;
-
-- follow the instructions given to them within the framework of their initial training by training employers, instructors or any other persons entitled to give them such instructions;
-
-- have  regard  for  the  rules  of  behaviour  to  be  observed  on  the  training premises,
-
-- use tools, machinery and other equipment with due care;
-
-- not reveal any business or trade secrets.
+1. carefully perform the tasks entrusted to them as part of their initial training;
+2. take part in initial training measures for which they have been granted time off under section 15;
+3. follow the instructions given to them within the framework of their initial training by training employers, instructors or any other persons entitled to give them such instructions;
+4. have regard for the rules of behaviour to be observed on the training premises,
+5. use tools, machinery and other equipment with due care;
+6. not reveal any business or trade secrets.
 
 #### Subdivision 3 Obligations of Training Employers
 
@@ -537,15 +506,11 @@ Trainees shall make every effort to acquire the vocational competence necessary 
 
 (1) Training employers shall
 
-- ensure that the vocational competence necessary for trainees to achieve the purpose of their initial training is imparted to them and provide such initial training systematically in accordance with a syllabus and a timetable and in a form appropriate to the aim in view so that the purpose of the training can be achieved within the specified period;
-
-- provide the initial training themselves or expressly entrust such training  to an instructor;
-
-- furnish  to  trainees  free  of  charge  the  materials,  in  particular  tools  and supplies, necessary for their initial training and the passing of their interim and final examinations, even if such examinations take place after the end of the initial training relationship;
-
-- urge trainees to attend part-time vocational school and to keep their written initial  training  records  up  to  date,  insofar  as  such  records  are  required  as part of their initial training, and inspect such records;
-
-- ensure  that  trainees  are  encouraged  to  develop  their  personality  and  that they are protected from physical or moral danger.
+1. ensure that the vocational competence necessary for trainees to achieve the purpose of their initial training is imparted to them and provide such initial training systematically in accordance with a syllabus and a timetable and in a form appropriate to the aim in view so that the purpose of the training can be achieved within the specified period;
+2. provide the initial training themselves or expressly entrust such training to an instructor;
+3. furnish to trainees free of charge the materials, in particular tools and supplies, necessary for their initial training and the passing of their interim and final examinations, even if such examinations take place after the end of the initial training relationship;
+4. urge trainees to attend part-time vocational school and to keep their written initial training records up to date, insofar as such records are required as part of their initial training, and inspect such records;
+5. ensure that trainees are encouraged to develop their personality and that they are protected from physical or moral danger.
 
 (2)  Trainees  shall  only  be  entrusted  with  tasks  that  serve  the  purpose  of  their initial training and are commensurate with their physical abilities.
 
@@ -583,15 +548,11 @@ Training employers shall grant trainees the necessary time off to attend part-ti
 
 ##### Section 19 Continued Payment of the Allowance
 
-- Trainees shall also be paid the allowance
-
-- for time off granted under section 15;
-
-- for up to a maximum of six weeks if they
-
-- are available for initial training but training is not provided; or
-
-- are  prevented  for  any  other  personal  reason  beyond  their  control  from discharging their obligations under the initial training contract.
+(1) Trainees shall also be paid the allowance
+1. for time off granted under section 15;
+2. for up to a maximum of six weeks if they
+a) are available for initial training but training is not provided; or
+b) are prevented for any other personal reason beyond their control from discharging their obligations under the initial training contract.
 
 (2)  If  trainees  are  prevented  for  a  valid  reason  from  availing  themselves  of benefits in kind during the time their allowance continues to be paid, they shall be granted compensation in lieu thereof in accordance with the value determined for such benefits under section 17 subsection (2).
 
@@ -621,9 +582,8 @@ The  initial  training  relationship  shall  begin  with  a  probationary  perio
 
 (2)  After  the  expiry  of  the  probationary  period,  the  initial  training  relationship may only be terminated
 
-- for a valid reason without notice;
-
-- by  trainees  on  four  weeks'  notice  if  they  wish  to  cease  initial  training  or undergo initial training for another form of occupational activity.
+1. for a valid reason without notice;
+2. by trainees on four weeks' notice if they wish to cease initial training or undergo initial training for another form of occupational activity.
 
 (3) Notice of termination must be given in writing; in cases covered by subsection (2) it must also state the reasons for termination.
 
@@ -659,11 +619,9 @@ Insofar  as  no  employment  relationship  has  been  agreed,  persons  who  are
 
 ##### Section 27 Suitability of Training Premises
 
-- Trainees may only be engaged and given initial training if
-
-- the  nature  and  equipment  of  the  training  premises  are  suitable  for  initial training; and
-
-- the ratio between the number of trainees and the number of training places or  the  number  of  skilled  staff  employed  is  appropriate  (unless  such  other ratio is not detrimental to initial training).
+(1) Trainees may only be engaged and given initial training if
+1. the nature and equipment of the training premises are suitable for initial training; and
+2. the ratio between the number of trainees and the number of training places or the number of skilled staff employed is appropriate (unless such other ratio is not detrimental to initial training).
 
 [[END OF PAGE 25]]
 
@@ -695,9 +653,9 @@ Persons  shall  in  particular  be  deemed  to  not  have  the  necessary  perso
 
 26
 
-- are not allowed to employ children and young persons or
+1. are not allowed to employ children and young persons or
 
-- have been guilty of repeated or serious contraventions of this Act or of the provisions and regulations issued on the basis of this Act.
+2. have been guilty of repeated or serious contraventions of this Act or of the provisions and regulations issued on the basis of this Act.
 
 ##### Section 30 Technical Qualifications
 
@@ -705,11 +663,11 @@ Persons  shall  in  particular  be  deemed  to  not  have  the  necessary  perso
 
 (2) Persons shall be deemed to possess the necessary vocational skills, knowledge and qualifications if they
 
-- have passed the final examination in a technical field corresponding to the training occupation;
+1. have passed the final examination in a technical field corresponding to the training occupation;
 
-- have  passed  a  recognized  examination  at  a  training  facility  or  before  an examination authority or a final examination at a state or state-accredited school in a technical field corresponding to the training occupation; or
+2. have  passed  a  recognized  examination  at  a  training  facility  or  before  an examination authority or a final examination at a state or state-accredited school in a technical field corresponding to the training occupation; or
 
-- have passed a final examination at a German higher education institution in a technical field corresponding to the training occupation
+3. have passed a final examination at a German higher education institution in a technical field corresponding to the training occupation
 
 and have been employed in a practical capacity for an appropriate period in their own occupation.
 
@@ -717,11 +675,11 @@ and have been employed in a practical capacity for an appropriate period in thei
 
 (4) The Federal Ministry of Economics and Labour or such other ministry as may be  competent,  acting  in  agreement  with  the  Federal  Ministry  of  Education  and Research  and  after  consulting  the  Board  of  the  Federal  Institute  for  Vocational Education and Training, may by ordinance which shall not require the consent of the Bundesrat prescribe in respect of individual training occupations that notwithstanding  subsection  (2)  persons  shall  only  be  deemed  to  possess  the necessary vocational skills, knowledge and qualifications to be technically qualified if they
 
-- meet  the  prerequisites  set  out  in  subsection  (2),  number  2  or  3,  and  have been employed in a practical capacity for an appropriate period in their own occupation or if they
+1. meet  the  prerequisites  set  out  in  subsection  (2),  number  2  or  3,  and  have been employed in a practical capacity for an appropriate period in their own occupation or if they
 
-- meet  the  prerequisites  set  out  in  subsection  (2),  number  3,  and  have  been employed  in  a  practical  capacity  for  an  appropriate  period  in  their  own occupation or
+2. meet  the  prerequisites  set  out  in  subsection  (2),  number  3,  and  have  been employed  in  a  practical  capacity  for  an  appropriate  period  in  their  own occupation or
 
-- are licensed to practice an independent profession or have been appointed to public office.
+3. are licensed to practice an independent profession or have been appointed to public office.
 
 [[END OF PAGE 27]]
 
@@ -771,21 +729,21 @@ If  no  remedy  is  possible,  or  if  there  is  a  likelihood  of  danger  to 
 
 (2) The essential stipulations for each initial training relationship shall include
 
-- the surname, first name, date of birth and address of the trainees;
+1. the surname, first name, date of birth and address of the trainees;
 
-- the  sex,  nationality,  general-education  school-leaving  certificate,  generaleducation or vocational school last attended, and school-leaving class of the trainees;
+2. the  sex,  nationality,  general-education  school-leaving  certificate,  general-education or vocational school last attended, and school-leaving class of the trainees;
 
-- the  surname,  first  name  and  address  of  the  statutory  representatives,  if necessary;
+3. the  surname,  first  name  and  address  of  the  statutory  representatives,  if necessary;
 
-- the training occupation;
+4. the training occupation;
 
-- the  date  of  conclusion  of  the  initial  training  contract,  period  of  initial training, probationary period;
+5. the  date  of  conclusion  of  the  initial  training  contract,  period  of  initial training, probationary period;
 
-- the date of commencement of initial training;
+6. the date of commencement of initial training;
 
-- the  name  and  address  of  the  training  employers,  address  of  the  training premises;
+7. the  name  and  address  of  the  training  employers,  address  of  the  training premises;
 
-- the  surname,  first  name  and  sex  of  the  instructors  and  the  nature  of  their technical qualifications.
+8. the  surname,  first  name  and  sex  of  the  instructors  and  the  nature  of  their technical qualifications.
 
 [[END OF PAGE 29]]
 
@@ -797,11 +755,11 @@ If  no  remedy  is  possible,  or  if  there  is  a  likelihood  of  danger  to 
 
 (1) An initial training contract and amendments to its essential stipulations shall be entered in the register if
 
-- the  initial  training  contract  complies  with  this  Act  and  with  the  initial training regulations;
+1. the  initial  training  contract  complies  with  this  Act  and  with  the  initial training regulations;
 
-- the  persons  engaging  trainees  and  providing  initial  training  have  the necessary  personal  and  technical  qualifications  and  the  training  premises are  suitable  for  the  engagement  of  trainees  and  for  the  provision  of  their initial training; and
+2. the  persons  engaging  trainees  and  providing  initial  training  have  the necessary  personal  and  technical  qualifications  and  the  training  premises are  suitable  for  the  engagement  of  trainees  and  for  the  provision  of  their initial training; and
 
-- in  the  case  of  trainees  under  the  age  of  18  years,  the  medical  certificate concerning the initial medical examination pursuant to section 32 subsection  (1)  of  the  Act  on  the  Protection  of  Young  People  at  Work [Jugendarbeitsschutzgesetz] is submitted for perusal.
+3. in  the  case  of  trainees  under  the  age  of  18  years,  the  medical  certificate concerning the initial medical examination pursuant to section 32 subsection  (1)  of  the  Act  on  the  Protection  of  Young  People  at  Work [Jugendarbeitsschutzgesetz] is submitted for perusal.
 
 (2) Entry shall be denied or an entry shall be deleted if the conditions for entry are not fulfilled and the shortcomings are not remedied in accordance with section 32 subsection  (2).  Furthermore,  an  entry  shall  be  deleted  if  the  medical  certificate concerning the first re-examination pursuant to section 33 subsection (1) of the Act on the Protection of Young People at Work is not submitted for perusal at the latest on the date of the trainees' registration to take an interim examination or the first part  of  the  final  examination  and  if  the  shortcomings  are  not  remedied  in accordance with section 32 subsection (2).
 
@@ -813,9 +771,9 @@ If  no  remedy  is  possible,  or  if  there  is  a  likelihood  of  danger  to 
 
 (2) Training employers shall give notice of
 
-- any  previous  general  or  vocational  education  or  training  received  by trainees,
+1. any  previous  general  or  vocational  education  or  training  received  by trainees,
 
-- the appointment of instructors.
+2. the appointment of instructors.
 
 [[END OF PAGE 30]]
 
@@ -831,7 +789,7 @@ If  no  remedy  is  possible,  or  if  there  is  a  likelihood  of  danger  to 
 
 (2)  Examinees  shall  be  issued  a  certificate.  Training  employers  shall  inform trainees of the results of the final examination upon the latter's request. In the case of  final  examinations  taken  in  two  parts  administered  at  different  times,  trainees shall be informed of the results of the first part of the final examination in writing.
 
-(3)  Upon  application  by  trainees,  the  certificate  shall  be  accompanied  by  an English and French translation. Upon application by trainees, a record of their parttime vocational school performance may be entered on the certificate.
+(3)  Upon  application  by  trainees,  the  certificate  shall  be  accompanied  by  an English and French translation. Upon application by trainees, a record of their part-time vocational school performance may be entered on the certificate.
 
 (4) No fee shall be payable by trainees in connection with their final examination.
 
@@ -881,27 +839,27 @@ The  object  of  the  final  examination  shall  be  to  determine  whether  exa
 
 (1)  The  board  of  examiners  shall  take  decisions  concerning  the  grades  to  be awarded for examination performance in individual areas and for overall examination performance as well as decisions concerning the passing or failing of the final examination.
 
-(2) To prepare the decisions to be taken pursuant to subsection (1), the chair may charge at least two members of the board of examiners with the assessment of nonoral examination performance in individual areas. The persons so charged shall not belong to the same group of members.
+(2) To prepare the decisions to be taken pursuant to subsection (1), the chair may charge at least two members of the board of examiners with the assessment of non-oral examination performance in individual areas. The persons so charged shall not belong to the same group of members.
 
 (3) The members charged pursuant to subsection (2) shall document the essential aspects of performance and specify facts of relevance for the assessment.
 
 ##### Section 43 Admission to the Final Examination
 
-- Trainees shall be admitted to the final examination if
+(1) Trainees shall be admitted to the final examination if
 
-- they have completed their period of initial training or their period of initial training  is  due  to  end  no  later  than  two  months  after  the  date  set  for  the examination;
+1. they have completed their period of initial training or their period of initial training  is  due  to  end  no  later  than  two  months  after  the  date  set  for  the examination;
 
-- they  have  taken  the  prescribed  interim  examinations  and  have  kept  the prescribed written initial training records; and
+2. they  have  taken  the  prescribed  interim  examinations  and  have  kept  the prescribed written initial training records; and
 
-- their  initial  training relationship has been entered in the register of initial training  relationships  or  has  not  been  so  entered  for  a  reason  beyond  the control of the trainees or their statutory representatives.
+3. their  initial  training relationship has been entered in the register of initial training  relationships  or  has  not  been  so  entered  for  a  reason  beyond  the control of the trainees or their statutory representatives.
 
 (2)  Persons  shall  likewise  be  admitted  to  the  final  examination  if  they  have undergone initial training at a vocational school or some other vocational training facility and  this qualification pathway  corresponds  to initial training for a recognized training occupation. A qualification pathway shall correspond to initial training for a recognized training occupation if
 
-- it  is  equivalent  in  terms  of  subject  matter,  standards  and  duration  to  the respective initial training regulations;
+1. it  is  equivalent  in  terms  of  subject  matter,  standards  and  duration  to  the respective initial training regulations;
 
-- it is pursued in a systematic manner, in particular within the framework of a syllabus and timetable; and
+2. it is pursued in a systematic manner, in particular within the framework of a syllabus and timetable; and
 
-- an appropriate proportion of practical specialized initial training is ensured through cooperation between learning locations.
+3. an appropriate proportion of practical specialized initial training is ensured through cooperation between learning locations.
 
 The Land governments shall be authorized, after consulting the Land vocational training committee, to prescribe by ordinance which qualification pathways fulfil the conditions set out in the first and second sentences. The authorization may be further transferred by ordinance to supreme Land authorities. 6
 
@@ -923,7 +881,7 @@ The Land governments shall be authorized, after consulting the Land vocational t
 
 ##### Section 45 Admission in Special Cases
 
-(1) Trainees may, after consultation with their training employers and their parttime vocational school, be admitted to the final examination before the expiry of their period of initial training if their performance so warrants.
+(1) Trainees may, after consultation with their training employers and their part-time vocational school, be admitted to the final examination before the expiry of their period of initial training if their performance so warrants.
 
 (2)  Persons  shall  also  be  admitted  to  the  final  examination  if  they  produce evidence that they have been employed in the occupation for which they wish to take  the  examination  for  a  period  at  least  one  and  a  half  times  as  long  as  is prescribed  for  the  period  of  initial  training.  Periods  of  initial  training  in  another relevant  training  occupation  shall  also  be  deemed  to  be  periods  of  employment. The production of evidence of such minimum period of employment pursuant to the  first  sentence  may  be  waived  wholly  or  in  part  if  applicants  convincingly demonstrate,  by  producing  certificates  or  in  some  other  manner,  that  they  have acquired  the  vocational  competence  justifying  admission  to  the  examination. Foreign education and training qualifications and periods of employment abroad shall thereby be taken into account.
 
@@ -999,15 +957,15 @@ The Federal Ministry of Education and Research may by ordinance which shall not 
 
 (1)  As  a  basis  for  a  uniform  system  of  further  training,  the  Federal  Ministry  of Education  and  Research,  acting  in agreement  with  the  Federal  Ministry  of Economics  and  Labour  or  such  other  ministry  as  may  be  competent  and  after consulting the Board of the Federal Institute for Vocational Education and Training, may by ordinance which shall not require the consent of the Bundesrat recognize further training qualifications and issue examination rules herefor (further training regulations).
 
-- The further training regulations shall specify
+(2) The further training regulations shall specify
 
-- the designation of the further training qualification;
+1. the designation of the further training qualification;
 
-- the purpose, subject matter and requirements of the examination;
+2. the purpose, subject matter and requirements of the examination;
 
-- the conditions for admission to the examination; and
+3. the conditions for admission to the examination; and
 
-- the examination procedure.
+4. the examination procedure.
 
 (3) Notwithstanding subsection (1), further training regulations in occupations in the field of agriculture, including domestic service in agriculture, shall be issued by the  Federal  Ministry  of  Consumer  Protection,  Food  and  Agriculture,  acting  in agreement with the Federal Ministry of Education and Research; further training regulations in domestic service shall be issued by the Federal Ministry of Economics and  Labour,  acting  in  agreement  with  the  Federal  Ministry  of  Education  and Research.
 
@@ -1041,13 +999,13 @@ The Federal Ministry of Economics and Labour or such other ministry as may be co
 
 As a basis for an orderly and uniform system of retraining, the Federal Ministry of Education  and  Research,  acting  in agreement  with  the  Federal  Ministry  of Economics  and  Labour  or  such  other  ministry  as  may  be  competent  and  after consulting the Board of the Federal Institute for Vocational Education and Training, may by ordinance which shall not require the consent of the Bundesrat  specify
 
-- the designation of the retraining qualification;
+1. the designation of the retraining qualification;
 
-- the purpose, subject matter, nature and duration of retraining;
+2. the purpose, subject matter, nature and duration of retraining;
 
-- the  requirements  of  the  retraining  examination  and  the  conditions  for admission to the examination; and
+3. the  requirements  of  the  retraining  examination  and  the  conditions  for admission to the examination; and
 
-- the examination procedure for the retraining qualification
+4. the examination procedure for the retraining qualification
 
 taking into consideration the special requirements of adult vocational training (retraining regulations).
 
@@ -1189,9 +1147,9 @@ The  competent  ministry,  acting  in  agreement  with  the  Federal  Ministry  
 
 (1)  In  the  public  service,  the  supreme  federal  authority  shall  designate  for  the Federation the competent body for its purview
 
-- in cases covered by sections 32, 33 and 76 of this Act as well as sections 23, 24 and 41a of the Crafts and Trade Code;
+1. in cases covered by sections 32, 33 and 76 of this Act as well as sections 23, 24 and 41a of the Crafts and Trade Code;
 
-- for vocational training in occupational sectors other than those covered by sections 71 and 72 of this Act.
+2. for vocational training in occupational sectors other than those covered by sections 71 and 72 of this Act.
 
 The foregoing shall also apply to the legal entities, institutions and foundations established under public law which are subject to federal supervision.
 
@@ -1215,13 +1173,13 @@ The churches and other religious communities established under public law shall 
 
 ##### Section 76 Supervision, Advice
 
-- The competent body shall supervise the provision of
+(1) The competent body shall supervise the provision of
 
-- vocational training preparation;
+1. vocational training preparation;
 
-- initial training; and
+2. initial training; and
 
-- retraining
+3. retraining
 
 and  shall  provide  support  in  the  form  of  advice  to  the  persons  involved  in vocational training. To this end it shall appoint training advisers.
 
@@ -1271,33 +1229,33 @@ and  shall  provide  support  in  the  form  of  advice  to  the  persons  invol
 
 (1)  The vocational training committee shall be informed of and consulted on all important matters connected with vocational training. Within the scope of its tasks, it shall endeavour to steadily improve the quality of vocational training.
 
-- Important matters in connection with which the vocational training committee is to be consulted shall include in particular:
+(2) Important matters in connection with which the vocational training committee is to be consulted shall include in particular:
 
-- the issuance of administrative principles concerning the suitability of initial training  and  retraining  premises,  the  keeping  of  written  initial  training records,  reduction  of  the  period  of  initial  training,  early  admission  to  the final  examination,  administration  of  examinations  and  the  provision  of intercompany  and  non-company  training  as  well  as the issuance of administrative guidelines for vocational training;
+1. the issuance of administrative principles concerning the suitability of initial training  and  retraining  premises,  the  keeping  of  written  initial  training records,  reduction  of  the  period  of  initial  training,  early  admission  to  the final  examination,  administration  of  examinations  and  the  provision  of intercompany  and  non-company  training  as  well  as the issuance of administrative guidelines for vocational training;
 
-- implementation  of  the  measures  recommended  by  the  Land  vocational training committee;
+2. implementation  of  the  measures  recommended  by  the  Land  vocational training committee;
 
-- substantial changes to the content of the sample initial training contract.
+3. substantial changes to the content of the sample initial training contract.
 
-- Important matters in connection with which the vocational training committee is to be informed shall include in particular:
+(3) Important matters in connection with which the vocational training committee is to be informed shall include in particular:
 
-- the number  and  nature of the vocational training preparation and retraining measures reported to the competent body as well as the number and nature of the initial training relationships entered in the register;
+1. the number  and  nature of the vocational training preparation and retraining measures reported to the competent body as well as the number and nature of the initial training relationships entered in the register;
 
-- the  number  and  results  of  examinations  administered  as  well  as  the experience gained in the process;
+2. the  number  and  results  of  examinations  administered  as  well  as  the experience gained in the process;
 
-- activities  of  the  training  advisers  pursuant  to  section 76  subsection  (1), second sentence;
+3. activities  of  the  training  advisers  pursuant  to  section 76  subsection  (1), second sentence;
 
-- new  forms,  subject  matter  and  methods  of  vocational  training  for  the geographical and technical sphere of competence of the competent body;
+4. new  forms,  subject  matter  and  methods  of  vocational  training  for  the geographical and technical sphere of competence of the competent body;
 
-- opinions or proposals communicated by the competent body to other bodies and authorities, insofar as these concern the implementation of this Act or of regulations issued on the basis of this Act;
+5. opinions or proposals communicated by the competent body to other bodies and authorities, insofar as these concern the implementation of this Act or of regulations issued on the basis of this Act;
 
-- construction of intercompany training centres of its own;
+6. construction of intercompany training centres of its own;
 
-- decisions pursuant to subsection (5) as well as budget estimates adopted for the provision of vocational training, with the exception of personnel costs;
+7. decisions pursuant to subsection (5) as well as budget estimates adopted for the provision of vocational training, with the exception of personnel costs;
 
-- procedures for settling disputes arising out of initial training relationships;
+8. procedures for settling disputes arising out of initial training relationships;
 
-- labour market issues, insofar as that they affect vocational training within the sphere of competence of the competent body.
+9. labour market issues, insofar as that they affect vocational training within the sphere of competence of the competent body.
 
 [[END OF PAGE 46]]
 
@@ -1361,15 +1319,15 @@ The  vocational  training  committee  shall  draw  up  its  own  rules  of  proc
 
 The object of vocational training research shall be to
 
-- clarify the fundamentals of vocational training;
+1. clarify the fundamentals of vocational training;
 
-- track  domestic,  European  and  international  developments  in  vocational training;
+2. track  domestic,  European  and  international  developments  in  vocational training;
 
-- identify  standards  for  the  subject  matter  and  objectives  of  vocational training;
+3. identify  standards  for  the  subject  matter  and  objectives  of  vocational training;
 
-- pave the way for further developments in the field of vocational training to meet changing economic, societal and technical requirements;
+4. pave the way for further developments in the field of vocational training to meet changing economic, societal and technical requirements;
 
-- further the development of instruments and procedures for the provision of vocational training and promote the transfer of knowledge and technology.
+5. further the development of instruments and procedures for the provision of vocational training and promote the transfer of knowledge and technology.
 
 ##### Section 85 Objectives of Vocational Training Planning
 
@@ -1389,17 +1347,17 @@ The object of vocational training research shall be to
 
 (2) The report shall specify
 
-- for the preceding calendar year
+1. for the preceding calendar year
 
-- on  the  basis  of  the  data  furnished  by  the  competent  bodies,  the  initial training  contracts  entered  in  the  register  of  initial  training  relationships pursuant to this Act or pursuant to the Crafts and Trade Code which were concluded  during  the  twelve  months  prior  to  1 October  of  the  preceding year and were still in existence on 30 September of the preceding year, as well as
+a) on  the  basis  of  the  data  furnished  by  the  competent  bodies,  the  initial training  contracts  entered  in  the  register  of  initial  training  relationships pursuant to this Act or pursuant to the Crafts and Trade Code which were concluded  during  the  twelve  months  prior  to  1 October  of  the  preceding year and were still in existence on 30 September of the preceding year, as well as
 
-- the  number  of  initial  training  places  offered  to  the  Federal  Employment Agency  for  placement  which  were  not  filled  on  30  September  of  the preceding  year  and  the  number  of  persons  registered  with  the  Federal Employment Agency on that date as seeking initial training places;
+b) the  number  of  initial  training  places  offered  to  the  Federal  Employment Agency  for  placement  which  were  not  filled  on  30  September  of  the preceding  year  and  the  number  of  persons  registered  with  the  Federal Employment Agency on that date as seeking initial training places;
 
-- for the current calendar year
+2. for the current calendar year
 
-- the number of persons expected to be seeking initial training places up to 30 September of the current year,
+a) the number of persons expected to be seeking initial training places up to 30 September of the current year,
 
-- an estimate of the number of initial training places expected to be on offer up to 30 September of the current year.
+b) an estimate of the number of initial training places expected to be on offer up to 30 September of the current year.
 
 ##### Section 87 Purpose and Compilation of Vocational Training Statistics
 
@@ -1411,9 +1369,9 @@ The object of vocational training research shall be to
 
 ##### Section 88 Surveys
 
-- The annual federal statistics shall comprise
+(1) The annual federal statistics shall comprise
 
-- for  trainees:  sex,  nationality,  training  occupation,  year  of  initial  training; prematurely  terminated  initial  training  relationships  indicating  training occupation, sex, year of initial training, termination during the probationary period; newly concluded initial training contracts indicating
+1. for  trainees:  sex,  nationality,  training  occupation,  year  of  initial  training; prematurely  terminated  initial  training  relationships  indicating  training occupation, sex, year of initial training, termination during the probationary period; newly concluded initial training contracts indicating
 
 [[END OF PAGE 50]]
 
@@ -1421,15 +1379,15 @@ The object of vocational training research shall be to
 
 50
 
-- training occupation, reduction of the period of initial training, sex, year of birth, previous education and training, employment agency district; followup contracts for training by stages indicating the training occupation;
+training occupation, reduction of the period of initial training, sex, year of birth, previous education and training, employment agency district; follow-up contracts for training by stages indicating the training occupation;
 
-- for instructors: sex, technical qualifications and teaching qualifications;
+2. for instructors: sex, technical qualifications and teaching qualifications;
 
-- for  examinees  in  the  area  of  vocational  training:  sex,  occupational  sector, reduction of the period of training, form of admission to the examination, repetition  of  the  examination,  successful  completion  of  the  examination and designation of the qualification obtained;
+3. for examinees in the area of vocational training: sex, occupational sector, reduction of the period of training, form of admission to the examination, repetition of the examination, successful completion of the examination and designation of the qualification obtained;
 
-- for training advisers: age according to age groups, sex, previous education and training, type of advisory activity, technical competence and visits paid to training premises;
+4. for training advisers: age according to age groups, sex, previous education and training, type of advisory activity, technical competence and visits paid to training premises;
 
-- for  participants  in  vocational  training  preparation  measures,  insofar  as providers are subject to the notification obligation under section 70 subsection (2): sex, age, nationality.
+5. for participants in vocational training preparation measures, insofar as providers are subject to the notification obligation under section 70 subsection (2): sex, age, nationality.
 
 (2) The competent bodies shall be obliged to furnish such information.
 
@@ -1447,49 +1405,49 @@ The  Federal Institute for Vocational Education  and  Training  is a federal ins
 
 (3)  The  Federal  Institute  for  Vocational  Education  and  Training  shall  have  the following further tasks:
 
-- in accordance with the instructions of the competent federal ministry,
+1. in accordance with the instructions of the competent federal ministry,
 
 [[END OF PAGE 51]]
 
 [[START OF PAGE 52]]
 
-##### Section 92 Board
-
-(1)  In  addition  to  the  tasks  assigned  to  it  under  other  provisions  of  this  Act,  the Board shall have the following further tasks:
-
-- It shall determine  the  affairs of the Federal Institute for Vocational Education  and  Training  insofar  as  these  have  not  been  assigned  to  the President;
-
-- It shall advise the Federal Government on basic issues relating to vocational education and training and may submit an opinion on the draft Report on Vocational Education and Training;
-
 51
 
-- to  take  part  in  the  drafting  of  initial  training  regulations  and  other ordinances to be issued under this Act or under Part Two of the Crafts and Trade Code;
+a) to take part in the drafting of initial training regulations and other ordinances to be issued under this Act or under Part Two of the Crafts and Trade Code;
 
-- to take part in the preparation of the Report on Vocational Education and Training;
+b) to take part in the preparation of the Report on Vocational Education and Training;
 
-- to take part in the compilation of vocational training statistics pursuant to section 87;
+c) to take part in the compilation of vocational training statistics pursuant to section 87;
 
-- to promote pilot schemes, including scientific monitoring and evaluation;
+d) to promote pilot schemes, including scientific monitoring and evaluation;
 
-- to  take  part  in  international  cooperation  in  the  field  of  vocational education and training;
+e) to take part in international cooperation in the field of vocational education and training;
 
-- to assume further administrative tasks of the Federation for the promotion of vocational education and training;
+f) to assume further administrative tasks of the Federation for the promotion of vocational education and training;
 
-- in  accordance  with  general  administrative  provisions  of  the  competent federal  ministry,  to implement  the  promotion  of  intercompany  training centres and support the planning, establishment and further development of these facilities;
+2. in accordance with general administrative provisions of the competent federal ministry, to implement the promotion of intercompany training centres and support the planning, establishment and further development of these facilities;
 
-- to maintain and publish the register of recognized training occupations;
+3. to maintain and publish the register of recognized training occupations;
 
-- to  carry  out  the  tasks  described  in  the  Distance  Learning  Protection  Act  in accordance  with  the  guidelines  issued  by  the  Board  and  approved  by  the competent  federal  ministry  and  to  contribute  to  the  improvement  and extension of vocational distance learning through  the promotion  of development projects.
+4. to carry out the tasks described in the Distance Learning Protection Act in accordance with the guidelines issued by the Board and approved by the competent federal ministry and to contribute to the improvement and extension of vocational distance learning through the promotion of development projects.
 
-(4)  The  Federal  Institute  for  Vocational  Education  and  Training  may,  with  the consent of the Federal Ministry of Education and Research, conclude contracts with parties outside the federal administration for the assumption of further tasks.
+(4) The Federal Institute for Vocational Education and Training may, with the consent of the Federal Ministry of Education and Research, conclude contracts with parties outside the federal administration for the assumption of further tasks.
 
 ##### Section 91 Organs
 
 The organs of the Federal Institute for Vocational Education and Training shall be:
 
-- the Board;
+1. the Board;
 
-- the President.
+2. the President.
+
+##### Section 92 Board
+
+(1) In addition to the tasks assigned to it under other provisions of this Act, the Board shall have the following further tasks:
+
+1. It shall determine the affairs of the Federal Institute for Vocational Education and Training insofar as these have not been assigned to the President;
+
+2. It shall advise the Federal Government on basic issues relating to vocational education and training and may submit an opinion on the draft Report on Vocational Education and Training;
 
 [[END OF PAGE 52]]
 
@@ -1497,13 +1455,13 @@ The organs of the Federal Institute for Vocational Education and Training shall 
 
 52
 
-- It shall determine the annual research programme;
+3. It shall determine the annual research programme;
 
-- It  may make recommendations concerning the uniform application of this Act;
+4. It may make recommendations concerning the uniform application of this Act;
 
-- It  may  state  its  views  on  the  draft  ordinances  prepared  by  the  Federal Institute  for  Vocational  Education  and  Training  pursuant  to  section  4 subsection  (1),  taking  into  account  the  corresponding  draft  framework curricula for school-based training;
+5. It may state its views on the draft ordinances prepared by the Federal Institute for Vocational Education and Training pursuant to section 4 subsection (1), taking into account the corresponding draft framework curricula for school-based training;
 
-- It shall determine  the  affairs of the Federal Institute for Vocational Education  and  Training  specified  in  section  90  subsection  (3),  numbers  3 and 4, and in section 97 subsection (4).
+6. It shall determine the affairs of the Federal Institute for Vocational Education and Training specified in section 90 subsection (3), numbers 3 and 4, and in section 97 subsection (4).
 
 (2) The President shall inform the Board without delay of instructions to carry out tasks  pursuant  to  section  90  subsection  (3),  number  1,  and  of  administrative provisions issued pursuant to section 90 subsection (3), number 2.
 
@@ -1533,17 +1491,17 @@ The organs of the Federal Institute for Vocational Education and Training shall 
 
 (1)  The  President  shall  represent  the  Federal  Institute  for  Vocational  Education and Training judicially and extrajudicially. He or she shall manage the administrative affairs of the Federal Institute for Vocational Education and Training and execute its tasks. Insofar as he or she is not obliged to observe instructions and general  administrative  provisions  of  the  competent  federal  ministry  (section  90 subsection (3), numbers 1 and 2), he or she shall execute these tasks in accordance with the guidelines of the Board.
 
-(2)  The  President  and  the  Deputy  President  shall  be  appointed  by  the  Federal President - the former on the proposal of the Federal Government and the latter on the proposal of the Federal Ministry of Education and Research in agreement with the President - and simultaneously accorded civil servant status.
+(2) The President and the Deputy President shall be appointed by the Federal President – the former on the proposal of the Federal Government and the latter on the proposal of the Federal Ministry of Education and Research in agreement with the President – and simultaneously accorded civil servant status.
 
 ##### Section 94 Research Council
 
 (1)  The  Research  Council  shall  advise  the  organs  of  the  Federal  Institute  for Vocational Education and Training by means of opinions and recommendations in respect of
 
-- the  research  programme of the Federal Institute for Vocational Education and Training;
+1. the research programme of the Federal Institute for Vocational Education and Training;
 
-- the cooperation of the Institute with higher education institutions and other research institutions; und
+2. the cooperation of the Institute with higher education institutions and other research institutions; und
 
-- the  annual  reports  on  the  results  of  research  by  the  Federal  Institute  for Vocational Education and Training.
+3. the annual reports on the results of research by the Federal Institute for Vocational Education and Training.
 
 (2)  The  Council  shall  receive  all  information  necessary  for  the  execution  of  its tasks  from  the  President  of  the  Federal  Institute  for  Vocational  Education  and Training. Upon request the Council shall be informed in detail of the research work of the Federal Institute for Vocational Education and Training within the framework of an annual conference.
 
@@ -1563,9 +1521,16 @@ The organs of the Federal Institute for Vocational Education and Training shall 
 
 (1) A permanent subcommittee of the Board shall be established for the purpose of advising the Federal Institute for Vocational Education and Training in respect of its  tasks in the area of vocational education and training of disabled persons. This Disabled Persons Committee shall endeavour to ensure that consideration is given to the special vocational education and training requirements of disabled persons and that vocational education and training of disabled persons is coordinated with other measures to promote their participation in working life. The Federal Institute for Vocational Education and Training shall consider the proposals put forward by the Committee when taking decisions concerning the implementation of research projects pertaining to the vocational education and training of disabled persons.
 
-(2)  The  Committee  shall  consist  of  17  members  who  shall  be  appointed  by  the President  for  a  period  not  exceeding  four  years.  One  reappointment  shall  be permitted. The members of the Committee shall be appointed on the proposal of the Advisory Council for the Participation of People with Disabilities (Section 64 of Book Nine of the Social Code) and, namely, one member to represent the employees, one member to represent the employers, three members to represent organizations of disabled persons, one member to represent the Federal Employment Agency, one member to represent the statutory pension insurance scheme, one member to represent the statutory accident insurance scheme, one member to represent private welfare organizations, two members to represent vocational rehabilitation institutions, six  additional  persons  who  are  experts  in  the  area  of  vocational  education  and training of disabled persons and are employed at vocational training
-
-- establishments or outpatient services for the disabled.
+(2) The Committee shall consist of 17 members who shall be appointed by the President for a period not exceeding four years. One reappointment shall be permitted. The members of the Committee shall be appointed on the proposal of the Advisory Council for the Participation of People with Disabilities (Section 64 of Book Nine of the Social Code) and, namely,
+one member to represent the employees,
+one member to represent the employers,
+three members to represent organizations of disabled persons,
+one member to represent the Federal Employment Agency,
+one member to represent the statutory pension insurance scheme,
+one member to represent the statutory accident insurance scheme,
+one member to represent private welfare organizations,
+two members to represent vocational rehabilitation institutions,
+six additional persons who are experts in the area of vocational education and training of disabled persons and are employed at vocational training establishments or outpatient services for the disabled.
 
 (3)  The  Committee  may  invite  disabled  persons  who  are  undergoing  initial training, further training or retraining to participate in its deliberations.
 
@@ -1595,11 +1560,11 @@ The organs of the Federal Institute for Vocational Education and Training shall 
 
 ##### Section 98 Statutes
 
-- The  statutes  of  the  Federal  Institute  for  Vocational  Education  and  Training shall specify details of
+(1) The statutes of the Federal Institute for Vocational Education and Training shall specify details of
 
-- the manner and method for the discharge of tasks (section 90 subsections (2) and (3)) as well as
+1. the manner and method for the discharge of tasks (section 90 subsections (2) and (3)) as well as
 
-- the organization of the Institute.
+2. the organization of the Institute.
 
 [[END OF PAGE 56]]
 
@@ -1647,21 +1612,21 @@ The Federal Institute for Vocational Education and Training shall, insofar as no
 
 (1) A regulatory offence shall be deemed to have been committed by any person who
 
-- contrary to section 11 subsection (1), first sentence, also in conjunction with subsection  (4),  fails  to  set  down  in  writing  the  essential  stipulations  of  a contract  or  any  essential  amendments  thereto,  or  fails  to  do  so  correctly, completely, in the prescribed manner or in good time;
+1. contrary to section 11 subsection (1), first sentence, also in conjunction with subsection (4), fails to set down in writing the essential stipulations of a contract or any essential amendments thereto, or fails to do so correctly, completely, in the prescribed manner or in good time;
 
-- contrary to section 11 subsection (3), also in conjunction with subsection (4), fails to provide a copy of the document or fails to do so in good time;
+2. contrary to section 11 subsection (3), also in conjunction with subsection (4), fails to provide a copy of the document or fails to do so in good time;
 
-- contrary to section 14 subsection (2) entrusts trainees with a task which does not serve the purpose of their initial training;
+3. contrary to section 14 subsection (2) entrusts trainees with a task which does not serve the purpose of their initial training;
 
-- contrary  to  section 15,  first  sentence,  also  in  conjunction  with  the  second sentence, fails to grant trainees time off;
+4. contrary to section 15, first sentence, also in conjunction with the second sentence, fails to grant trainees time off;
 
-- contrary  to  section 28  subsection  (1)  or  subsection  (2)  engages  trainees  or provides initial training;
+5. contrary to section 28 subsection (1) or subsection (2) engages trainees or provides initial training;
 
-- acts contrary to an enforceable order pursuant to section 33 subsection (1) or subsection (2);
+6. acts contrary to an enforceable order pursuant to section 33 subsection (1) or subsection (2);
 
-- contrary  to  section 36  subsection  (1),  first  or  second  sentence,  each  also  in conjunction with the third sentence, fails to apply for an entry in the register specified therein, or fails to do so in good time, or fails to attach a copy of the document setting out the contract, or
+7. contrary to section 36 subsection (1), first or second sentence, each also in conjunction with the third sentence, fails to apply for an entry in the register specified therein, or fails to do so in good time, or fails to attach a copy of the document setting out the contract, or
 
-- contrary to section 76 subsection (2) fails to furnish information or fails to do
+8. contrary to section 76 subsection (2) fails to furnish information or fails to do
 
 [[END OF PAGE 58]]
 
@@ -1691,15 +1656,11 @@ The Land governments shall be authorized to issue ordinances transferring to the
 
 7
 
-Translator's note: Term used in the German Democratic Republic until the mid-1980s for the set of
+Translator's note: Term used in the German Democratic Republic until the mid-1980s for the set of regulations governing training in skilled occupations.
 
 8
 
-regulations governing training in skilled occupations.
-
-Translator's note: Term used in the German Democratic Republic after the mid-1980s for the set of
-
-regulations governing training in skilled occupations.
+Translator's note: Term used in the German Democratic Republic after the mid-1980s for the set of regulations governing training in skilled occupations.
 
 [[END OF PAGE 59]]
 
@@ -1711,21 +1672,28 @@ regulations governing training in skilled occupations.
 
 ## Federal Ministry of Education and Research:
 
-Information on the reform of http://www.bmbf.de/en/1644.php vocational education and training
+Information on the reform of vocational education and training
+http://www.bmbf.de/en/1644.php
 
 ## German Bundestag:
 
-DIP - Documentation and Information http://dip.bundestag.de/ System for Parliamentary Materials (for Bundestag printed papers)
+DIP – Documentation and Information System for Parliamentary Materials
+(for Bundestag printed papers)
+http://dip.bundestag.de/
 
 ## Promulgation of the Vocational Training Act in the Federal Law Gazette:
 
-Gesetz zur Reform der berufBundesgesetzblatt - Jahrgang 2005, lichen Bildung (BerufsbildungsTeil I Nr. 20 vom 31. März 2005, reformgesetz - BerBiRefG) Seite 931 vom 23. März 2005
+Gesetz zur Reform der beruflichen Bildung (Berufsbildungsreformgesetz – BerBiRefG) vom 23. März 2005
+
+Bundesgesetzblatt – Jahrgang 2005, Teil I Nr. 20 vom 31. März 2005, Seite 931
 
 ## Bundestag printed papers concerning the Vocational Training Reform Act:
 
-15/3980 Entwurf eines Gesetzes zur Reform der beruflichen Bildung (Berufsbildungsreformgesetz - BerBiRefG) (draft of the Vocational Training Reform Act)
+15/3980 Entwurf eines Gesetzes zur Reform der beruflichen Bildung (Berufsbildungsreformgesetz – BerBiRefG)
+(draft of the Vocational Training Reform Act)
 
-15/4752 Beschlussempfehlung und Bericht des Ausschusses Bildung, Forschung und Technikfolgenabschätzung zum Berufsbildungsreformgesetz (recommendation for a decision and report of the Committee on Education, Research and Technology Assessment on the Vocational Training Reform Act)
+15/4752 Beschlussempfehlung und Bericht des Ausschusses Bildung, Forschung und Technikfolgenabschätzung zum Berufsbildungsreformgesetz
+(recommendation for a decision and report of the Committee on Education, Research and Technology Assessment on the Vocational Training Reform Act)
 
 [[END OF PAGE 60]]
 
@@ -1737,11 +1705,13 @@ Gesetz zur Reform der berufBundesgesetzblatt - Jahrgang 2005, lichen Bildung (Be
 
 [[START OF PAGE 62]]
 
-This  publication  is  distributed  free  of  charge  by  the German  Federal  Ministry  of  Education  and  Research as part of its public relations work. It is not intended for commercial sale. It may not be used by political parties, candidates  or  electoral  assistants  during  an  election campaign. This applies to parliamentary, state assembly  and  local  government  elections  as  well  as  to  elec-
+This publication is distributed free of charge by the German Federal Ministry of Education and Research as part of its public relations work. It is not intended for commercial sale. It may not be used by political parties, candidates or electoral assistants during an election campaign. This applies to parliamentary, state assembly and local government elections as well as to elections to the European Parliament.
 
-tions to the European Parliament. In  particular  the  distribution  of  this  publication  at election  events  and  at  the  information  stands  of political  parties,  as  well  as  the  insertion,  printing  or affixing  of  party  political    information,  are  regarded  as improper use. The  distribution  of  this  publication  to  third  parties  as a form of campaign publicity is also prohibited.
+In particular the distribution of this publication at election events and at the information stands of political parties, as well as the insertion, printing or affixing of party political information, are regarded as improper use.
 
-Regardless  of  how  recipients  came  into  possession  of this  publication  and  how  many  copies  of  it  they  may have,  it  may  not  be  used  in  a  manner  that  may  be considered as showing the partisanship of the Federal Government  in  favour  of  individual  political  groups, even if not within the context of an upcoming election.
+The distribution of this publication to third parties as a form of campaign publicity is also prohibited.
+
+Regardless of how recipients came into possession of this publication and how many copies of it they may have, it may not be used in a manner that may be considered as showing the partisanship of the Federal Government in favour of individual political groups, even if not within the context of an upcoming election.
 
 [[END OF PAGE 62]]
 
