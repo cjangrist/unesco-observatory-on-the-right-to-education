@@ -6,11 +6,26 @@ NATIONAL ASSEMBLY
 
 -------
 
+THE SOCIALIST REPUBLIC OF VIETNAM
+Independence– Freedom – Happiness
+
+---------------
+
 Law No. 08/2012/QH13
+
+Hanoi, June 18, 2012
+
+# LAW ON HIGHER EDUCATION
+
+Pursuant to the Constitution 1992 of the Socialist Republic of Vietnam amended and supplemented under the Resolution No. 51/2001/QH10;
+
+The National Assembly promulgates the Law on Higher Education.
+
+## Chapter I GENERAL PROVISIONS
 
 #### Article 1. Scope of regulation
 
-This Law specifies the organization, duties and authority of higher education institutions, the activities of  training,  science  and  technology,  international  cooperation,  higher education quality assessment and assurance, the lecturers, the students, the higher education institutions property and finance, and the State management of higher education.
+This Law specifies the organization, duties and authority of higher education institutions, the activities of training, science and technology, international cooperation, higher education quality assessment and assurance, the lecturers, the students, the higher education institutions property and finance, and the State management of higher education.
 
 #### Article 2. Subjects of application
 
@@ -24,31 +39,19 @@ The organization and operation of higher education institutions and higher educa
 
 In this Law, the following terms are construed as follows:
 
-- Formal  education  is  the  form  of  education  in  which  full-time  courses  are  provided  at  higher education institutions in order to implement a training program at a certain level of higher education.
+1. Formal education is the form of education in which full-time courses are provided at higher education institutions in order to implement a training program at a certain level of higher education.
 
-- Continuing education, including in-service training and distance learning, is the form of education in which the classes and courses are provided at higher education institutions or associate education facilities  depending  on  the  students'  demand  in  order  to  implement  a  college  or  university  training program.
+2. Continuing education, including in-service training and distance learning, is the form of education in which the classes and courses are provided at higher education institutions or associate education facilities depending on the students’ demand in order to implement a college or university training program.
 
-- A training profession is a collection of knowledge and professional skills of a certain profession or science. A training profession includes various majors.
+3. A training profession is a collection of knowledge and professional skills of a certain profession or science. A training profession includes various majors.
 
 4. A majors is a collection of advanced professional skills and knowledge of a profession.
 
-- Connected higher education is a solution for training management by which the students may use their existing education results to study further in the same profession or when they shift to another profession or level.
+5. Connected higher education is a solution for training management by which the students may use their existing education results to study further in the same profession or when they shift to another profession or level.
 
-- The  skill  and  knowledge  standards  of  the  training  program  is  the  minimum  requirement  for knowledge and skills that a student must obtain after completing the training program
+6. The skill and knowledge standards of the training program is the minimum requirement for knowledge and skills that a student must obtain after completing the training program
 
-- Non-profit foreign-capitalized higher education institutions and private higher education institutions are higher education institutions of which the cumulative annual profit is not shared but to reinvest in
-
-THE SOCIALIST REPUBLIC OF VIETNAM Independence- Freedom - Happiness
-
---------------- Hanoi, June 18, 2012
-
-# LAW ON HIGHER EDUCATION
-
-Pursuant to the Constitution 1992 of the Socialist Republic of Vietnam amended and supplemented under the Resolution No. 51/2001/QH10;
-
-The National Assembly promulgates the Law on Higher Education.
-
-## Chapter I GENERAL PROVISIONS
+7. Non-profit foreign-capitalized higher education institutions and private higher education institutions are higher education institutions of which the cumulative annual profit is not shared but to reinvest in
 
 [[END OF PAGE 1]]
 
@@ -76,13 +79,13 @@ the higher education institution development; the shareholders or contributors d
 
 - The  master's  program  provides  students  with  fundamental  scientific  knowledge  and  advanced research  skills  of  a  certain  science  or  a  certain  profession,  with  the  ability  to  work  independently, creatively and the capability of detecting and solving the problems related to the trained profession;
 
-- The  doctorate  program  provides  the  graduate  students  with  advanced  knowledge  of  theoretical and practical skills, with the ability to do researches independently and creatively in order to develop new  knowledge,  discover  new  natural-social  laws  and  principles,  solve new  scientific  and technological problems, guide the science research and professional activities.
+- The doctorate program provides the graduate students with advanced knowledge of theoretical and practical skills, with the ability to do researches independently and creatively in order to develop new knowledge, discover new natural—social laws and principles, solve new scientific and technological problems, guide the science research and professional activities.
 
 #### Article 6. The levels and training forms of higher education
 
 - The levels of higher education include: college, university, master's and doctorate.
 
-The Minister of Education and Training shall cooperate with other Ministries and Heads of ministeriallevel agencies to specify the training of practical skills and advanced application for the graduates in a number of special profession.
+The Minister of Education and Training shall cooperate with other Ministries and Heads of ministerial-level agencies to specify the training of practical skills and advanced application for the graduates in a number of special profession.
 
 2.  The  levels  of  higher  education  are  provided  in  2  forms  being  formal  education  and  continuing education.
 
@@ -174,7 +177,7 @@ Basing on the Prime Minister's provision, the higher education institutions shal
 
 #### Article 11. Higher education institution network planning
 
-- Higher  education  institution  network  planning  is  the  arrangement  of  the  system  of  colleges, universities, academies with appropriate professions and training levels for the population, geographical locations nationwide and locally in each period, consistent with the strategy for socioeconomic development and National defense and security.
+- Higher education institution network planning is the arrangement of the system of colleges, universities, academies with appropriate professions and training levels for the population, geographical locations nationwide and locally in each period, consistent with the strategy for socio-economic development and National defense and security.
 
 - Principles of higher education institution network planning
 
@@ -708,13 +711,15 @@ e)  The  contents  of  training  programs  in  the  form  of  continuing  educat
 
 2. Higher education textbooks:
 
-a) Higher education textbooks must specify the requirements for knowledge and skills in the training program of each subject and each profession, aiming for the targets of the training level b)  The  Ministry  of  Education  and  Training  shall  organize  the  compilation  of  the  textbooks  for  the political theory and National defense subjects;
+a) Higher education textbooks must specify the requirements for knowledge and skills in the training program of each subject and each profession, aiming for the targets of the training level
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
 This translation is only for reference - 15
+
+b) The Ministry of Education and Training shall organize the compilation of the textbooks for the political theory and National defense subjects;
 
 c) The principals of higher education institutions shall organize the compilation or select and approve the higher education textbooks in accordance with the appraisal from the textbook appraisal council established by the principal;
 
@@ -746,13 +751,15 @@ c) The graduate students completing the doctorate program shall do the dissertat
 
 2.  Educational  institutions  shall  print  and  issued  diplomas  to  students,  disclosing  the  information about the diplomas on their websites.
 
-3.  The  Minister  of  Education  and  Training  shall  specify  the  higher  education  diplomas  form;  the printing,  management,  issuance,  recall  and  annulment  of  higher  education  diplomas;  specify  the responsibilities  and  authority  for  diploma  issuance  of  Vietnam's  higher  education  institutions  in training cooperation with foreign higher education institutions; specify the responsibilities of foreigncapitalized  higher  education  institutions  issuing  higher  education  diplomas  in  Vietnam;  sign  the mutual diploma recognition agreements with other countries and international organizations; specify the  procedures  for  recognizing  the  higher  education  diplomas  issued  by  foreign  higher  education institutions.
+3. The Minister of Education and Training shall specify the higher education diplomas form; the printing, management, issuance, recall and annulment of higher education diplomas; specify the responsibilities and authority for diploma issuance of Vietnam’s higher education institutions in training cooperation with foreign higher education institutions; specify the responsibilities of foreign-capitalized higher education institutions issuing higher education diplomas in Vietnam; sign the mutual diploma recognition agreements with other countries and international organizations; specify
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
 
 This translation is only for reference - 16
+
+the procedures for recognizing the higher education diplomas issued by foreign higher education institutions.
 
 4.  The  Minister  of  Education  and  Training  shall  take  lead  and  cooperate  with  other  Ministries  and Heads  of  ministerial-level  agencies  to  specify  the  diplomas  for  recognizing  the  practice  and application skills of persons that undergo extensive training after university graduation in a number of special profession.
 
@@ -1036,7 +1043,7 @@ The principals of higher education institutions shall prioritize the recruitment
 
 7.  Being  entitled  to  sign  visiting  lecturer  and  scientific  research  contracts  with  higher  education institutions and scientific research institutions as prescribed by law.
 
-8.  Being  given  lecturers'  titles,  awarded  the  'People's  educator',  'Elite  educator'  titles  and  get commendation as prescribed by law.
+8. Being given lecturers' titles, awarded the “People’s educator”, “Elite educator” titles and get commendation as prescribed by law.
 
 9. Other duties and authority as prescribed by law provisions.
 
@@ -1272,25 +1279,25 @@ This translation is only for reference - 26
 
 Organizations and individuals committing one of the following acts shall be liable to administrative sanctions  depending  on  the  nature  and  extent  of  the  violations;  individuals  may  also  be  liable  to criminal prosecution and pay compensation for the damage (if any) as prescribed by law:
 
-- Establishing higher education institutions or organizing education activities illegally;
+1. Establishing higher education institutions or organizing education activities illegally;
 
-- Violating the provisions on the organization and operation of higher education institutions.
+2. Violating the provisions on the organization and operation of higher education institutions.
 
-- Illegally publishing, printing and issuing materials;
+3. Illegally publishing, printing and issuing materials;
 
-- Forging profiles, violating regulations on the enrolment, examinations and issuance of diplomas or certificates.
+4. Forging profiles, violating regulations on the enrolment, examinations and issuance of diplomas or certificates.
 
-- Offending the dignity or the body of lecturers, educational managers; mistreating students;
+5. Offending the dignity or the body of lecturers, educational managers; mistreating students;
 
-- Violating provisions on higher education quality assurance and assessment
+6. Violating provisions on higher education quality assurance and assessment
 
-- Causing disturbance in higher education institutions;
+7. Causing disturbance in higher education institutions;
 
-- Causing budget loss, misusing higher education activities to gain profit illegally;
+8. Causing budget loss, misusing higher education activities to gain profit illegally;
 
-- Causing damage to the facilities of higher education institutions;
+9. Causing damage to the facilities of higher education institutions;
 
-- Other acts of violations of law provisions on higher education.
+10. Other acts of violations of law provisions on higher education.
 
 ## Chapter XII IMPLEMENTATION PROVISIONS
 
