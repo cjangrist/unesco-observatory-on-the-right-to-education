@@ -1,12 +1,24 @@
 [[START OF PAGE 1]]
 
+# COMPULSORY EDUCATION ACT
+
+(CHAPTER 51)1
+
+Base Versions
+
+Act 27 of 2000 → REVISEDEDITION 2001
+
+An Act to provide for compulsory primary education in Singapore and for matters connected therewith.
+
+[1st January 2003]
+
 ## Short title
 
-- This Act may be cited as the Compulsory Education Act.
+1. This Act may be cited as the Compulsory Education Act.
 
 ## Interpretation
 
-- In this Act, unless the context otherwise requires -
+2. In this Act, unless the context otherwise requires —
 
 "Board" means the Compulsory Education Board established under section 5;
 
@@ -14,7 +26,7 @@
 
 "Director-General" means the Director-General of Education, and includes such officers of the Ministry of Education as may from time to time be authorised to exercise the functions of the Director-General of Education under section 5 of the Education Act (Cap. 87);
 
-"national primary school" means any institution for the provision of full-time primary education, being -
+"national primary school" means any institution for the provision of full-time primary education, being —
 
 (a) a school organised and conducted directly by the Government;
 
@@ -30,40 +42,70 @@
 
 ## Compulsory primary education
 
--(1)   A child of compulsory school age who is (a) born after 1st January 1996;
+3. —(1) A child of compulsory school age who is —
 
-> 1 http://statutes.agc.gov.sg/non_version/cgi-bin/cgi_retrieve.pl?actno=REVED-
+(a) born after 1st January 1996;
 
-> 51&doctitle=COMPULSORY%20EDUCATION%20ACT%0a&date=latest&method=part
-
-# COMPULSORY EDUCATION ACT
-
-(CHAPTER 51) 1
-
-Act 27 of 2000
----
-
-An Act to provide for compulsory primary education in Singapore and for matters connected therewith.
-
-[1st January 2003]
-
+1 http://statutes.agc.gov.sg/non_version/cgi-bin/cgi_retrieve.pl?actno=REVED-51&doctitle=COMPULSORY%20EDUCATION%20ACT%0a&date=latest&method=part
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-(b) a citizen of Singapore; and (c) residing in Singapore, shall attend regularly as a pupil at a national primary school. (2)   Where a child of compulsory school age fails to attend regularly as a pupil at a national primary school as required under subsection (1), each parent of the child shall be guilty of an offence. (3)   This section shall not apply (a) to a child of compulsory school age for whom a parent presents within a reasonable time a prescribed reason to the satisfaction of the Director-General for the absence of the child at a national primary school; or (b) to a child of compulsory school age who is exempted under section 4.
+(b) a citizen of Singapore; and
+
+(c) residing in Singapore,
+
+shall attend regularly as a pupil at a national primary school.
+
+(2) Where a child of compulsory school age fails to attend regularly as a pupil at a national primary school as required under subsection (1), each parent of the child shall be guilty of an offence.
+
+(3) This section shall not apply —
+
+(a) to a child of compulsory school age for whom a parent presents within a reasonable time a prescribed reason to the satisfaction of the Director-General for the absence of the child at a national primary school; or
+
+(b) to a child of compulsory school age who is exempted under section 4.
 
 ## Exemption
 
-4. -(1)   The Minister may, by order published in the Gazette and subject to such terms or conditions as he may impose, exempt any child of compulsory school age or class of children of compulsory school age from section 3.
+4. —(1) The Minister may, by order published in the Gazette and subject to such terms or conditions as he may impose, exempt any child of compulsory school age or class of children of compulsory school age from section 3.
 
-- An exemption granted under this section may be revoked at any time.
+(2) An exemption granted under this section may be revoked at any time.
 
 ## Establishment and constitution of Compulsory Education Board
 
--(1)   There shall be established a body to be known as the Compulsory Education Board. (2)   The Board shall consist of such number of members as the Minister may, in his discretion, appoint. (3)   The Minister shall appoint one of the members of the Board as chairman. (4)   Subject to subsections (5) and (6), a member of the Board shall hold and vacate his office in accordance with the terms of his appointment and shall, on ceasing to be a member, be eligible for reappointment. (5)   A member of the Board may resign his office at any time by giving notice in writing to the Minister. (6)   If the Minister is satisfied that a member of the Board (a) is guilty of neglect of duty or misconduct; (b) has become a bankrupt or made an arrangement with his creditors; (c) is incapacitated by physical or mental illness; or (d) is otherwise unable or unfit to discharge the functions of a member, the Minister may remove him from such office. (7)   The validity of any proceedings of the Board shall not be affected by any vacancy among its members or by any defect in the appointment of any member. (8)   At any meeting of the Board, one-half of the number of members shall constitute a quorum. (9)   The chairman shall preside at all meetings of the Board at which he is present and, in his absence, the members present shall elect one of their number to act as chairman of that meeting. (10)   The Board may delegate to any person all or any of its duties or powers under this Act. (11)   All questions arising at any meeting of the Board shall be decided by a majority of votes of the members present and, in the case of an equality of votes, the chairman or, in his absence, the member presiding shall have a casting vote. (12)   Subject to the provisions of this Act, the Board may regulate its own procedure in such
+5. —(1) There shall be established a body to be known as the Compulsory Education Board.
 
-- manner as it thinks fit.
+(2) The Board shall consist of such number of members as the Minister may, in his discretion, appoint.
+
+(3) The Minister shall appoint one of the members of the Board as chairman.
+
+(4) Subject to subsections (5) and (6), a member of the Board shall hold and vacate his office in accordance with the terms of his appointment and shall, on ceasing to be a member, be eligible for reappointment.
+
+(5) A member of the Board may resign his office at any time by giving notice in writing to the Minister.
+
+(6) If the Minister is satisfied that a member of the Board —
+
+(a) is guilty of neglect of duty or misconduct;
+
+(b) has become a bankrupt or made an arrangement with his creditors;
+
+(c) is incapacitated by physical or mental illness; or
+
+(d) is otherwise unable or unfit to discharge the functions of a member,
+
+the Minister may remove him from such office.
+
+(7) The validity of any proceedings of the Board shall not be affected by any vacancy among its members or by any defect in the appointment of any member.
+
+(8) At any meeting of the Board, one-half of the number of members shall constitute a quorum.
+
+(9) The chairman shall preside at all meetings of the Board at which he is present and, in his absence, the members present shall elect one of their number to act as chairman of that meeting.
+
+(10) The Board may delegate to any person all or any of its duties or powers under this Act.
+
+(11) All questions arising at any meeting of the Board shall be decided by a majority of votes of the members present and, in the case of an equality of votes, the chairman or, in his absence, the member presiding shall have a casting vote.
+
+(12) Subject to the provisions of this Act, the Board may regulate its own procedure in such manner as it thinks fit.
 
 [[END OF PAGE 2]]
 
@@ -71,7 +113,7 @@ An Act to provide for compulsory primary education in Singapore and for matters 
 
 ## Duties and powers of Board
 
-6. -(1)   The duties of the Board shall be -
+6. —(1) The duties of the Board shall be —
 
 (a) to investigate whether the provisions of this Act have been or are being contravened;
 
@@ -79,7 +121,7 @@ An Act to provide for compulsory primary education in Singapore and for matters 
 
 (c) generally to do all such acts and things as are necessary to be carried out under the provisions of this Act.
 
-(2)  For the purpose of performing its duties under this Act, the Board may -
+(2) For the purpose of performing its duties under this Act, the Board may —
 
 (a) hear and examine witnesses on oath;
 
@@ -95,9 +137,9 @@ An Act to provide for compulsory primary education in Singapore and for matters 
 
 ## Penalties
 
-7. -(1)   Any person who is guilty of an offence under section 3 (2) shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+7. —(1) Any person who is guilty of an offence under section 3 (2) shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(2)   Any person who -
+(2) Any person who —
 
 (a) refuses to attend any hearing of the Board;
 
@@ -123,9 +165,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [[START OF PAGE 4]]
 
-10. No suit or other legal proceedings shall lie personally against (a) any member of the Board; or (b) any other person acting under the direction of the Board, for anything which is in good faith done or intended to be done in the execution or purported
+10. No suit or other legal proceedings shall lie personally against —
 
-execution of this Act.
+(a) any member of the Board; or
+
+(b) any other person acting under the direction of the Board,
+
+for anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
 
 ## Operation of this Act not to affect Education Act
 
