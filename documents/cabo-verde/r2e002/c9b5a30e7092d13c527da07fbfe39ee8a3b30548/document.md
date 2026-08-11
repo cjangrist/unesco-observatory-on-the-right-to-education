@@ -24,7 +24,7 @@ Procede à primeira alteração ao Decreto-Legislativo n.º 2/2010, de 7 de maio
 
 ### Resolução nº 123/2018:
 
-Institui o 'Dia Nacional dos Direitos Humanos' a ser comemorado, anualmente e em todo o território nacional, no dia 25 de setembro.....................................................................................................1954
+Institui o “Dia Nacional dos Direitos Humanos” a ser comemorado, anualmente e em todo o território nacional, no dia 25 de setembro.....................................................................................................1954
 
 I Série
 
@@ -40,7 +40,7 @@ https://kiosk.incv.cv
 
 Documento descarregado pelo utilizador Maria do Livramento (10.73.103.254) em 14-12-2018 15:56:59. © Todos os direitos reservados. A cópia ou distribuição não autorizada é proibida.
 
-1934	I    SÉRIE -  N O    80  «B. O.»  DA REPÚBLICA  DE  CABO  VERDE  - 7   DE   DEZEMBRO  DE   2018
+1934 I SÉRIE — Nº 80 «B. O.» DA REPÚBLICA DE CABO VERDE — 7 DE DEZEMBRO DE 2018
 
 # PRESIDÊNCIA DA REPÚBLICA
 
@@ -88,11 +88,7 @@ Palácio do Presidente da República, na Praia, aos 6 de Dezembro de 2018. - O P
 
 de 7 de dezembro
 
-O Decreto-Legislativo n.º 2/2010, de 7 de maio, que revê as Bases do Sistema Educativo, é um diploma que trouxe um conjunto de inovações, com o maior alcance no que se refere aos princípios, objetivos, organização e o funcionamento do sistema educativo cabo-verdiano. Todavia, decorridos 8 anos sobre a sua aprovação, afigura-se necessária a alteração deste diploma legal, num contexto em que o futuro político, económico, social e cultural do
-
-https://kiosk.incv.cv
-
-país depende do comprometimento da sociedade caboverdiana na materialização de uma agenda ambiciosa e adequada para o setor da Educação.
+O Decreto-Legislativo n.º 2/2010, de 7 de maio, que revê as Bases do Sistema Educativo, é um diploma que trouxe um conjunto de inovações, com o maior alcance no que se refere aos princípios, objetivos, organização e o funcionamento do sistema educativo cabo-verdiano. Todavia, decorridos 8 anos sobre a sua aprovação, afigura-se necessária a alteração deste diploma legal, num contexto em que o futuro político, económico, social e cultural do país depende do comprometimento da sociedade cabo-verdiana na materialização de uma agenda ambiciosa e adequada para o setor da Educação.
 
 O programa do Governo da IX Legislatura propõe edificar um sistema educativo integrado no conceito de economia do conhecimento que, da base ao topo, oriente as crianças, adolescentes, jovens e adultos para um domínio pró eficiente das línguas, das ciências integradas, das tecnologias e para a construção de um perfil cosmopolita aberto ao mundo, capaz de interiorizar valores intrínsecos ao saber ser e estar, de responsabilização mútuas, enquanto membros da comunidade, de preparação para a aprendizagem ao longo da vida, cultura de investigação, experimentação e inovação. Nisto consiste a estratégia do Governo para a educação em Cabo Verde e que enforma a alteração da presente Lei de Bases do Sistema Educativo.
 
@@ -104,14 +100,14 @@ Assume-se a gratuitidade do ensino básico obrigatório sob a modalidade de ofer
 
 No ensino básico, com o desenvolvimento de competências e a revisão dos curricula, pretende-se, no 1.º ciclo, o desenvolvimento oral da língua portuguesa e a iniciação e progressivo domínio da leitura e da escrita, das noções essenciais da aritmética e do cálculo, das ciências integradas e das expressões plástica, dramática, musical, motora e da educação moral e cívica. No 2º ciclo pretende-se reforçar a proficiência linguística, de matemática, de ciências naturais e humanas, com a introdução das línguas estrangeiras, das tecnologias com carater instrumental e transversal, capazes de proporcionar o desenvolvimento de competências básicas nos alunos, bem como vivenciar valores da cidadania, designadamente de defesa e proteção do ambiente, solidariedade, responsabilidade social, igualdade e respeito pelas diferenças, numa perspetiva transversal.
 
-A reorganização dos ensinos básico e secundário fazse pela necessidade de alargar efetivamente o ensino básico universal, obrigatório e gratuito com a duração de 8 anos e à adequação do ensino secundário aos desafios de desenvolvimento do país.
+A reorganização dos ensinos básico e secundário faz-se pela necessidade de alargar efetivamente o ensino básico universal, obrigatório e gratuito com a duração de 8 anos e à adequação do ensino secundário aos desafios de desenvolvimento do país.
 
 O ensino básico passa a compreender dois ciclos de aprendizagem sequenciais, de quatro anos cada.
 
 O ensino secundário passa a ter um ciclo único de quatro anos, do 9º ao 12º ano de escolaridade, e estrutura-se em duas vias alternativas, via geral e via técnica, podendo os
 
 2 618000 012227
-
+https://kiosk.incv.cv
 367221B6-E4AA-42D9-8C78-AFE62A8C9196
 
 [[END OF PAGE 2]]
@@ -120,7 +116,7 @@ O ensino secundário passa a ter um ciclo único de quatro anos, do 9º ao 12º 
 
 Documento descarregado pelo utilizador Maria do Livramento (10.73.103.254) em 14-12-2018 15:56:59. © Todos os direitos reservados. A cópia ou distribuição não autorizada é proibida.
 
-I  SÉRIE - N O   80  «B. O.»  DA REPÚBLICA DE CABO  VERDE  - 7   DE   DEZEMBRO  DE   2018 1935
+I SÉRIE — Nº 80 «B. O.» DA REPÚBLICA DE CABO VERDE — 7 DE DEZEMBRO DE 2018 1935
 
 alunos optar por uma delas. Isto requer uma aposta forte no reforço do programa de orientação escolar, vocacional e profissional, que de forma organizada, deverá iniciar a sua intervenção junto dos alunos do 2.º ciclo do ensino básico obrigatório, com a realização de dinâmicas e aplicação de instrumentos bem identificados que permitam aos alunos estarem em condições de escolher as áreas de maior interesse para a sua integração no ensino secundário.
 
@@ -136,54 +132,65 @@ Ao abrigo da autorização legislativa concedida pela Lei n.º 39/IX/2018, de 16
 
 No uso da faculdade conferida pela alínea b ) do n.º 2 do artigo 204.º da Constituição, o Governo decreta o seguinte:
 
+#### Artigo 1.º
+
 ##### Objeto
 
 O presente diploma procede à primeira alteração ao Decreto-Legislativo n.º 2/2010, de 7 de maio, que define as Bases do Sistema Educativo.
 
 #### Artigo 2.º
 
-##### Alteraç ões
+##### Alterações
 
 São alterados os artigos 12.º, 14.º, 15.º, 16.º, 17.º, 18.º, 19.º, 22.º, 23.º, 24.º, 25.º, 26.º, 28.º, 54.º, 55.º, 56.º, 57.º, 58.º e 59.º do Decreto-Legislativo nº 2/2010, de 7 de maio, que passam a ter a seguinte redação:
 
-#### 'Artigo 12.º
-[…] 1. […]
+#### “Artigo 12.º
 
-- A educação pré-escolar visa proporcionar a formação e o desenvolvimento das potencialidades das crianças, de forma equilibrada para a sua socialização e preparação necessárias ao ingresso na educação escolar.
+[…]
 
-- A Educação extraescolar engloba as atividades de alfabetização, de educação básica de jovens e adultos e de formação profissional numa perspetiva de aprendizagem ao longo da vida, articulando-se com a educação escolar.
+1. […]
 
-https://kiosk.incv.cv
+2. A educação pré-escolar visa proporcionar a formação e o desenvolvimento das potencialidades das crianças, de forma equilibrada para a sua socialização e preparação necessárias ao ingresso na educação escolar.
+
+3. […]
+
+4. A Educação extraescolar engloba as atividades de alfabetização, de educação básica de jovens e adultos e de formação profissional numa perspetiva de aprendizagem ao longo da vida, articulando-se com a educação escolar.
+
+5. […]
 
 #### Artigo 14.º
 
 […]
 
-- A gratuitidade no ensino básico traduz-se na isenção de propinas, taxas e emolumentos relacionados com a matrícula, inscrições e certificação do aproveitamento.
+1. […]
 
-- O Estado promove a criação de condições para alargar progressivamente a gratuitidade ao ensino secundário.
+2. A gratuitidade no ensino básico traduz-se na isenção de propinas, taxas e emolumentos relacionados com a matrícula, inscrições e certificação do aproveitamento.
 
-- A gratuitidade no ensino secundário traduz-se na isenção de propinas.
+3. O Estado promove a criação de condições para alargar progressivamente a gratuitidade ao ensino secundário.
 
-- Os alunos dos ensinos básico e secundário dispõem ainda de apoios no âmbito da ação social escolar, nos termos da lei aplicável.
+4. A gratuitidade no ensino secundário traduz-se na isenção de propinas.
+
+5. Os alunos dos ensinos básico e secundário dispõem ainda de apoios no âmbito da ação social escolar, nos termos da lei aplicável.
 
 #### Artigo 15.º
 
 […]
 
-- Para efeitos do presente diploma, entende-se por currículo nacional, o conjunto das aprendizagens a desenvolver pelos alunos que frequentem o sistema educativo referido no artigo 12.º.
+1. Para efeitos do presente diploma, entende-se por currículo nacional, o conjunto das aprendizagens a desenvolver pelos alunos que frequentem o sistema educativo referido no artigo 12.º.
 
-- O currículo nacional, tendo por base os perfis de saída, concretiza-se através da definição dos planos de estudo que integram disciplinas e ou áreas disciplinares, das modalidades de avaliação e da elaboração dos materiais curriculares, nos termos aprovados por diploma próprio.
+2. O currículo nacional, tendo por base os perfis de saída, concretiza-se através da definição dos planos de estudo que integram disciplinas e ou áreas disciplinares, das modalidades de avaliação e da elaboração dos materiais curriculares, nos termos aprovados por diploma próprio.
+
+#### Artigo 16.º
 
 […]
 
-- A educação pré-escolar enquadra-se nos objetivos da universalização do acesso à educação, visando, por um lado, o desenvolvimento da criança e, por outro, a sua socialização e preparação para o ingresso na educação escolar.
+1. A educação pré-escolar enquadra-se nos objetivos da universalização do acesso à educação, visando, por um lado, o desenvolvimento da criança e, por outro, a sua socialização e preparação para o ingresso na educação escolar.
 
-- A educação pré-escolar destina-se a  todas as crianças a partir do ano em que atinjam os 4 anos de idade.
+2. A educação pré-escolar destina-se a todas as crianças a partir do ano em que atinjam os 4 anos de idade.
 
-3. [ Revogado ]
+3. [Revogado]
 
-- A universalização da educação pré-escolar implica para o Estado o dever de garantir as condições e medidas que permitam o acesso de todas as crianças à educação pré-escolar.
+4. A universalização da educação pré-escolar implica para o Estado o dever de garantir as condições e medidas que permitam o acesso de todas as crianças à educação pré-escolar.
 
 #### Artigo 17.º
 
@@ -191,19 +198,19 @@ https://kiosk.incv.cv
 
 […]
 
-- a ) […]
+a) […]
 
-b ) […]
+b) […]
 
-- c ) […]
+c) […]
 
-- d ) […]
+d) […]
 
-- e )  Possibilitar  a  familiarização  das  crianças  com a língua portuguesa e o desenvolvimento de habilidades motoras, psicomotoras e normas de convivências positivas necessárias ao ingresso no 1.º ano do ensino básico;
+e) Possibilitar a familiarização das crianças com a língua portuguesa e o desenvolvimento de habilidades motoras, psicomotoras e normas de convivências positivas necessárias ao ingresso no 1.º ano do ensino básico;
 
-f) [ Anterior alínea e) ]
+f) [Anterior alínea e)]
 
-g ) [ Anterior alínea f) ]
+g) [Anterior alínea f)]
 
 #### Artigo 18.º
 
@@ -211,14 +218,12 @@ g ) [ Anterior alínea f) ]
 
 1. […]
 
-- A educação pré-escolar faz-se em jardins-de-infância oficialmente reconhecidos.
+2. A educação pré-escolar faz-se em jardins-de-infância oficialmente reconhecidos.
 
 3. […]
 
 2 618000 012227
-
-5. […]
-
+https://kiosk.incv.cv
 367221B6-E4AA-42D9-8C78-AFE62A8C9196
 
 [[END OF PAGE 3]]
@@ -227,17 +232,17 @@ g ) [ Anterior alínea f) ]
 
 Documento descarregado pelo utilizador Maria do Livramento (10.73.103.254) em 14-12-2018 15:56:59. © Todos os direitos reservados. A cópia ou distribuição não autorizada é proibida.
 
-1936	I    SÉRIE -  N O    80  «B. O.»  DA REPÚBLICA  DE  CABO  VERDE  - 7   DE   DEZEMBRO  DE   2018
+1936 I SÉRIE — Nº 80 «B. O.» DA REPÚBLICA DE CABO VERDE — 7 DE DEZEMBRO DE 2018
 
 #### Artigo 19.º
 
 […]
 
-- O ensino básico obrigatório proporciona às crianças e jovens uma formação fundamental para a vida, promovendo o domínio de conhecimentos básicos científicos, naturais, humanistas e sociais, bem como técnicas de aprendizagens diversificadas, que contribuam para a sua realização pessoal e social, enquanto cidadãos.
+1. O ensino básico obrigatório proporciona às crianças e jovens uma formação fundamental para a vida, promovendo o domínio de conhecimentos básicos científicos, naturais, humanistas e sociais, bem como técnicas de aprendizagens diversificadas, que contribuam para a sua realização pessoal e social, enquanto cidadãos.
 
-[ Revogado ]
+2. [Revogado]
 
-[ Revogado ]
+3. [Revogado]
 
 #### Artigo 22.º
 
@@ -245,67 +250,65 @@ Documento descarregado pelo utilizador Maria do Livramento (10.73.103.254) em 14
 
 […]
 
-- a ) […]
+a) […]
 
-- b ) […]
+b) […]
 
-- c )  Fomentar  a  aquisição  de  conhecimentos  que contribuam para a compreensão, preservação e sustentabilidade do meio;
+c) Fomentar a aquisição de conhecimentos que contribuam para a compreensão, preservação e sustentabilidade do meio;
 
-- d ) Fortalecer atitudes, hábitos e valores de natureza ética  e  os  vínculos  de  família,  os  laços  de solidariedade humana e de respeito recíproco em que se assenta a vida social;
+d) Fortalecer atitudes, hábitos e valores de natureza ética e os vínculos de família, os laços de solidariedade humana e de respeito recíproco em que se assenta a vida social;
 
-- e ) Promover o conhecimento, apreço e respeito pelos valores que consubstanciam a identidade cultural cabo-verdiana;
+e) Promover o conhecimento, apreço e respeito pelos valores que consubstanciam a identidade cultural cabo-verdiana;
 
-- f ) Desenvolver a capacidade de aprender, tendo como ferramentas basilares o pleno domínio da leitura e interpretação da escrita e do cálculo;
+f) Desenvolver a capacidade de aprender, tendo como ferramentas basilares o pleno domínio da leitura e interpretação da escrita e do cálculo;
 
-- g ) [ Revogado ]
+g) [Revogado]
 
-- h ) Promover o domínio da língua portuguesa como instrumento  de  comunicação  e  de  estudo,  e desenvolver a capacidade de compreensão e interpretação oral e escrita;
+h) Promover o domínio da língua portuguesa como instrumento de comunicação e de estudo, e desenvolver a capacidade de compreensão e interpretação oral e escrita;
 
-- i )  Proporcionar  a  aprendizagem  de  duas  línguas estrangeiras, e a utilização das tecnologias de informação e comunicação como instrumentos de aprendizagem;
+i) Proporcionar a aprendizagem de duas línguas estrangeiras, e a utilização das tecnologias de informação e comunicação como instrumentos de aprendizagem;
 
-- j ) Promover o reconhecimento e o respeito por todos os ofícios e profissões.
+j) Promover o reconhecimento e o respeito por todos os ofícios e profissões.
 
 #### Artigo 23.º
 
 […]
 
-- O ensino básico tem a duração de oito anos e compreende dois ciclos sequenciais, de quatro anos cada, organizados da seguinte forma:
+1. O ensino básico tem a duração de oito anos e compreende dois ciclos sequenciais, de quatro anos cada, organizados da seguinte forma:
 
-- a ) No 1º ciclo, o ensino é globalizante, da responsabilidade de um professor, que pode ser coadjuvado em áreas especializadas;
+a) No 1º ciclo, o ensino é globalizante, da responsabilidade de um professor, que pode ser coadjuvado em áreas especializadas;
 
-- b )  No  2º  ciclo,  o  ensino  organiza-se  segundo  um plano curricular unificado, que integra áreas vocacionais diversificadas, e desenvolve-se em regime de pluridocência;
+b) No 2º ciclo, o ensino organiza-se segundo um plano curricular unificado, que integra áreas vocacionais diversificadas, e desenvolve-se em regime de pluridocência;
 
-- c )  [ Revogada ]
+c) [Revogada]
 
-- Os dois últimos anos do ensino básico constituem anos de transição para o ensino secundário e consequentemente anos de iniciação da orientação escolar, vocacional e profissional que faculte a opção de formação subsequente.
+2. Os dois últimos anos do ensino básico constituem anos de transição para o ensino secundário e consequentemente anos de iniciação da orientação escolar, vocacional e profissional que faculte a opção de formação subsequente.
 
-[…]
+3. […]
 
-- a ) Para o 1º ciclo, o desenvolvimento oral da língua portuguesa e a iniciação e progressivo domínio da leitura e da escrita, das noções essenciais da aritmética e do cálculo, das ciências integradas e das expressões plástica, dramática, musical, motora e da educação moral e cívica;
+a) Para o 1º ciclo, o desenvolvimento oral da língua portuguesa e a iniciação e progressivo domínio da leitura e da escrita, das noções essenciais da aritmética e do cálculo, das ciências integradas e das expressões plástica, dramática, musical, motora e da educação moral e cívica;
 
-- b ) Para o 2º ciclo, a formação, a aquisição sistemática e diferenciada da cultura moderna nas suas vertentes teórica e prática, humanística, literária, científica, artística e tecnológica, física e desportiva e a educação moral e cívica, com enfase no desenvolvimento de aptidões básicas polivalentes indispensáveis ao desenvolvimento do  pensamento  crítico,  da  comunicação,  da colaboração e da criatividade, que possibilite a preparação para a vida ativa e o prosseguimento de estudos;
+b) Para o 2º ciclo, a formação, a aquisição sistemática e diferenciada da cultura moderna nas suas vertentes teórica e prática, humanística, literária, científica, artística e tecnológica, física e desportiva e a educação moral e cívica, com enfase no desenvolvimento de aptidões básicas polivalentes indispensáveis ao desenvolvimento do pensamento crítico, da comunicação, da colaboração e da criatividade, que possibilite a preparação para a vida ativa e o prosseguimento de estudos;
 
-- c ) [ Revogada ]
+c) [Revogada]
 
-[ Revogado ]
+4. [Revogado]
 
-- Os planos curriculares do ensino básico integram áreas curriculares disciplinares e de enriquecimento curricular, em termos a estabelecer por diploma próprio.
+5. Os planos curriculares do ensino básico integram áreas curriculares disciplinares e de enriquecimento curricular, em termos a estabelecer por diploma próprio.
 
-- No final do ensino básico, o aluno pode prosseguir os estudos secundários, ou ainda seguir um curso de formação profissional, nos termos e condições a definir em diploma próprio.
+6. No final do ensino básico, o aluno pode prosseguir os estudos secundários, ou ainda seguir um curso de formação profissional, nos termos e condições a definir em diploma próprio.
 
-[ Anterior n.º 6 ]
-
-https://kiosk.incv.cv
+7. [Anterior n.º 6]
 
 #### Artigo 24.º
 
 […]
 
-- O ensino secundário dá continuidade ao ensino básico e permite o desenvolvimento dos conhecimentos, aptidões e capacidades intelectuais e emocionais, a par de uma formação humanista contemporânea, necessárias à intervenção criativa na sociedade, essenciais na construção do projeto de vida.
+1. O ensino secundário dá continuidade ao ensino básico e permite o desenvolvimento dos conhecimentos, aptidões e capacidades intelectuais e emocionais, a par de uma formação humanista contemporânea, necessárias à intervenção criativa na sociedade, essenciais na construção do projeto de vida.
 
-- O ensino secundário visa possibilitar a aquisição das bases científico-tecnológicas e culturais necessárias ao prosseguimento de estudos e ingresso na vida ativa e, em particular permite, pelas vias técnicas, artísticas e profissionais, a aquisição de qualificações e competências profissionais para inserção no mundo laboral.
+2. O ensino secundário visa possibilitar a aquisição das bases científico-tecnológicas e culturais necessárias ao prosseguimento de estudos e ingresso na vida ativa e, em particular permite, pelas vias técnicas, artísticas e profissionais, a aquisição de qualificações e competências profissionais para inserção no mundo laboral.
 
-- As condições de acesso e permanência no ensino secundário são definidas em diploma próprio.
+3. As condições de acesso e permanência no ensino secundário são definidas em diploma próprio.
 
 #### Artigo 25.º
 
@@ -313,16 +316,16 @@ https://kiosk.incv.cv
 
 […]
 
-- a ) Desenvolver a capacidade de análise, criatividade, e despertar o espírito de pesquisa e de investigação;
+a) Desenvolver a capacidade de análise, criatividade, e despertar o espírito de pesquisa e de investigação;
 
-- b )  Possibilitar  a  aquisição  das  bases  científicas, tecnológicas e culturais necessárias, quer ao prosseguimento de estudos, quer ao ingresso na vida profissional ativa;
+b) Possibilitar a aquisição das bases científicas, tecnológicas e culturais necessárias, quer ao prosseguimento de estudos, quer ao ingresso na vida profissional ativa;
 
-- c ) Reforçar a capacidade de comunicação e expressão oral e escrita, aprofundar e alargar as competências linguísticas das línguas oficiais adquiridas nos ciclos precedentes;
+c) Reforçar a capacidade de comunicação e expressão oral e escrita, aprofundar e alargar as competências linguísticas das línguas oficiais adquiridas nos ciclos precedentes;
 
-- d )  Desenvolver  as  capacidades  de  aprendizagem, tendo em vista a aquisição de conhecimentos, habilidades e a consolidação de atitudes e valores éticos e morais;
+d) Desenvolver as capacidades de aprendizagem, tendo em vista a aquisição de conhecimentos, habilidades e a consolidação de atitudes e valores éticos e morais;
 
 2 618000 012227
-
+https://kiosk.incv.cv
 367221B6-E4AA-42D9-8C78-AFE62A8C9196
 
 [[END OF PAGE 4]]
@@ -331,65 +334,67 @@ https://kiosk.incv.cv
 
 Documento descarregado pelo utilizador Maria do Livramento (10.73.103.254) em 14-12-2018 15:56:59. © Todos os direitos reservados. A cópia ou distribuição não autorizada é proibida.
 
-I  SÉRIE - N O   80  «B. O.»  DA REPÚBLICA DE CABO  VERDE  - 7   DE   DEZEMBRO  DE   2018 1937
+I SÉRIE — Nº 80 «B. O.» DA REPÚBLICA DE CABO VERDE — 7 DE DEZEMBRO DE 2018 1937
 
-- e )  Proporcionar  orientação  escolar,  vocacional  e profissional que possibilite uma opção consciente para o prosseguimento dos estudos ou inserção no mundo laboral;
+e) Proporcionar orientação escolar, vocacional e profissional que possibilite uma opção consciente para o prosseguimento dos estudos ou inserção no mundo laboral;
 
-- f ) […]
+f) […]
 
-- g ) Propiciar o desenvolvimento contínuo dos valores morais,  éticos  e  cívicos  e  da  personalidade, criando nos jovens atitudes e hábitos de relação e cooperação, quer no plano dos seus vínculos familiares, quer no da intervenção consciente e responsável na sociedade;
+g) Propiciar o desenvolvimento contínuo dos valores morais, éticos e cívicos e da personalidade, criando nos jovens atitudes e hábitos de relação e cooperação, quer no plano dos seus vínculos familiares, quer no da intervenção consciente e responsável na sociedade;
 
-- h ) Garantir a continuidade de aprendizagem das duas línguas estrangeiras iniciadas no ensino básico e a introdução de outras línguas estrangeiras facultativas, de acordo com a capacidade de oferta e das especificidades locais;
+h) Garantir a continuidade de aprendizagem das duas línguas estrangeiras iniciadas no ensino básico e a introdução de outras línguas estrangeiras facultativas, de acordo com a capacidade de oferta e das especificidades locais;
 
-- i ) […]
+i) […]
 
 #### Artigo 26.º
 
 […]
 
-[…]
+1. […]
 
-- O ensino secundário tem a duração de quatro anos, num ciclo único, do 9º ao 12º ano de escolaridade, e estrutura-se em duas vias opcionais, via geral e via técnica.
+2. O ensino secundário tem a duração de quatro anos, num ciclo único, do 9º ao 12º ano de escolaridade, e estrutura-se em duas vias opcionais, via geral e via técnica.
 
-- a ) [ Revogada ]
+a) [Revogada]
 
-- b ) [ Revogada ]
+b) [Revogada]
 
-- No final do ensino secundário, o aluno pode prosseguir os estudos superiores, ou ainda seguir um curso de formação profissional, inicial ou complementar, nos termos e condições a definir em diploma próprio.
+3. No final do ensino secundário, o aluno pode prosseguir os estudos superiores, ou ainda seguir um curso de formação profissional, inicial ou complementar, nos termos e condições a definir em diploma próprio.
 
-- A conclusão do ensino secundário confere direito à atribuição de certificado e de um diploma, que certifica a formação adquirida e a qualificação obtida.
+4. A conclusão do ensino secundário confere direito à atribuição de certificado e de um diploma, que certifica a formação adquirida e a qualificação obtida.
 
-5. [ Revogado ]
+5. [Revogado]
 
-- Na via técnica pode ser conferida a dupla certificação, académica e profissional, nos termos a regulamentar em diploma próprio.
-
-- A via geral do ensino secundário destina-se ao aprofundamento e ao reforço das aprendizagens adquiridas no ensino básico e aquisição das bases científicas, tecnológicas e culturais necessárias ao prosseguimento de estudos ou ingresso na vida ativa.
-
-- A via técnica do ensino secundário destina-se a aquisição de conhecimentos científicos e tecnológicos, competências sociais e profissionais para a obtenção de uma especialização adequada, visando a inserção no mundo laboral, sem prejuízo do prosseguimento de estudos superiores.
-
-- A educação extraescolar tem como objetivo promover o desenvolvimento pessoal, escolar e profissional, que favoreça a participação ativa dos jovens e adultos na sociedade numa perspetiva de aprendizagem ao longo da vida.
-
-[ Revogado ]
-
-- A educação extraescolar desenvolve-se em duas vertentes:
-
-- a )  A  educação  básica  de  adultos,  que  abrange  a alfabetização e ações de educação permanente numa perspetiva de elevação do nível cultural, cientifico e tecnológico;
-
-- b )  A  formação  profissional,  numa  perspetiva  de capacitação para o exercício de uma profissão e de integração no mundo laboral.
+6. Na via técnica pode ser conferida a dupla certificação, académica e profissional, nos termos a regulamentar em diploma próprio.
 
 7. [Anterior n.º 6]
+
 #### Artigo 28.º
+
 […]
 
-3. [ Revogado ]
+1. A via geral do ensino secundário destina-se ao aprofundamento e ao reforço das aprendizagens adquiridas no ensino básico e aquisição das bases científicas, tecnológicas e culturais necessárias ao prosseguimento de estudos ou ingresso na vida ativa.
+
+2. A via técnica do ensino secundário destina-se a aquisição de conhecimentos científicos e tecnológicos, competências sociais e profissionais para a obtenção de uma especialização adequada, visando a inserção no mundo laboral, sem prejuízo do prosseguimento de estudos superiores.
+
+3. [Revogado]
+
 #### Artigo 54.º
+
 […]
 
-https://kiosk.incv.cv
+1. A educação extraescolar tem como objetivo promover o desenvolvimento pessoal, escolar e profissional, que favoreça a participação ativa dos jovens e adultos na sociedade numa perspetiva de aprendizagem ao longo da vida.
 
-c ) [ Revogada ]
+2. [Revogado]
 
-- Em cada uma dessas vertentes se desenvolve processos educativos próprios de uma educação formal e não formal, organizadas por unidades capitalizáveis, constituindo uma modalidade que apela à flexibilidade, à adaptabilidade dos ritmos de aprendizagem à disponibilidade, aos conhecimentos e às experiências de vida dos jovens e adultos.
+3. A educação extraescolar desenvolve-se em duas vertentes:
+
+a) A educação básica de adultos, que abrange a alfabetização e ações de educação permanente numa perspetiva de elevação do nível cultural, cientifico e tecnológico;
+
+b) A formação profissional, numa perspetiva de capacitação para o exercício de uma profissão e de integração no mundo laboral.
+
+c) [Revogada]
+
+4. Em cada uma dessas vertentes se desenvolve processos educativos próprios de uma educação formal e não formal, organizadas por unidades capitalizáveis, constituindo uma modalidade que apela à flexibilidade, à adaptabilidade dos ritmos de aprendizagem à disponibilidade, aos conhecimentos e às experiências de vida dos jovens e adultos.
 
 #### Artigo 55.º
 
@@ -397,41 +402,41 @@ c ) [ Revogada ]
 
 […]
 
-a ) […]
+a) […]
 
-- b ) Contribuir para a efetiva igualdade de oportunidades educativas e profissionais dos jovens e adultos, que não frequentaram ou não concluíram o ensino básico na idade escolar;
+b) Contribuir para a efetiva igualdade de oportunidades educativas e profissionais dos jovens e adultos, que não frequentaram ou não concluíram o ensino básico na idade escolar;
 
-- c ) […]
+c) […]
 
-- d ) Promover a articulação preferencial entre o ensino básico de jovens e adultos e a formação profissional;
+d) Promover a articulação preferencial entre o ensino básico de jovens e adultos e a formação profissional;
 
-e ) […]
+e) […]
 
 f) […]
 
-g ) [ Revogada ]
+g) [Revogada]
 
 #### Artigo 56.º
 
 ##### Educação básica de jovens e adultos
 
-- A educação básica de jovens e adultos articula a formação geral básica e a formação profissional de base e destina-se aos indivíduos com 15 ou mais anos, com ou sem passado escolar.
+1. A educação básica de jovens e adultos articula a formação geral básica e a formação profissional de base e destina-se aos indivíduos com 15 ou mais anos, com ou sem passado escolar.
 
-- Através da modalidade especial de ensino, presencial ou à distância, podendo assumir um percurso modular, é assegurada uma nova oportunidade de acesso à escolaridade aos indivíduos, nomeadamente jovens e adultos, com ou sem passado escolar, que não frequentaram a escola em idade escolar ou a abandonaram precocemente, bem como aqueles que a procuram por razões de desenvolvimento pessoal, social ou profissional.
+2. Através da modalidade especial de ensino, presencial ou à distância, podendo assumir um percurso modular, é assegurada uma nova oportunidade de acesso à escolaridade aos indivíduos, nomeadamente jovens e adultos, com ou sem passado escolar, que não frequentaram a escola em idade escolar ou a abandonaram precocemente, bem como aqueles que a procuram por razões de desenvolvimento pessoal, social ou profissional.
 
-- Este nível de ensino organiza-se em dois ciclos:
+3. Este nível de ensino organiza-se em dois ciclos:
 
-- a )  O  1º  ciclo,  com  a  duração  de  dois  anos,  visa  o desenvolvimento  de  capacidade  de  leitura, escrita, cálculo e interpretação;
+a) O 1º ciclo, com a duração de dois anos, visa o desenvolvimento de capacidade de leitura, escrita, cálculo e interpretação;
 
-- b )  O  2º  ciclo,  com  a  duração  de  três  anos,  visa  o aprofundamento e consolidação dos conhecimentos e competências adquiridos do ciclo precedente e a iniciação à formação profissional de base;
+b) O 2º ciclo, com a duração de três anos, visa o aprofundamento e consolidação dos conhecimentos e competências adquiridos do ciclo precedente e a iniciação à formação profissional de base;
 
-- c ) [ Revogada ]
+c) [Revogada]
 
-- O ensino básico de jovens e adultos organiza-se de forma autónoma no  que respeita às condições de acesso, currículos, programas de ensino e sistema de avaliação.
-
-367221B6-E4AA-42D9-8C78-AFE62A8C9196
+4. O ensino básico de jovens e adultos organiza-se de forma autónoma no que respeita às condições de acesso, currículos, programas de ensino e sistema de avaliação.
 
 2 618000 012227
+https://kiosk.incv.cv
+367221B6-E4AA-42D9-8C78-AFE62A8C9196
 
 [[END OF PAGE 5]]
 
@@ -439,29 +444,29 @@ g ) [ Revogada ]
 
 Documento descarregado pelo utilizador Maria do Livramento (10.73.103.254) em 14-12-2018 15:56:59. © Todos os direitos reservados. A cópia ou distribuição não autorizada é proibida.
 
-1938	I    SÉRIE -  N O    80  «B. O.»  DA REPÚBLICA  DE  CABO  VERDE  - 7   DE   DEZEMBRO  DE   2018
+1938 I SÉRIE — Nº 80 «B. O.» DA REPÚBLICA DE CABO VERDE — 7 DE DEZEMBRO DE 2018
 
-- Ao jovem e adulto é atribuído o respetivo certificado de aproveitamento, no 1º ciclo, e um diploma e o certificado de ensino básico de adultos, no final do 2º ciclo.
+5. Ao jovem e adulto é atribuído o respetivo certificado de aproveitamento, no 1º ciclo, e um diploma e o certificado de ensino básico de adultos, no final do 2º ciclo.
 
-- A conclusão do ensino básico de adultos pode conferir ao formando um diploma de dupla certificação da componente escolar e da qualificação profissional.
+6. A conclusão do ensino básico de adultos pode conferir ao formando um diploma de dupla certificação da componente escolar e da qualificação profissional.
 
-7. [ Anterior n. º 5]
+7. [Anterior n.º 5]
 
-- A organização e funcionamento da educação Básica de Adultos, bem como o sistema de avaliação e os diplomas e certificados a conferir, são objetos de regulamentação própria.
+8. A organização e funcionamento da educação Básica de Adultos, bem como o sistema de avaliação e os diplomas e certificados a conferir, são objetos de regulamentação própria.
 
 #### Artigo 57.º
 
 ##### Formação Profissional e Aprendizagem ao Longo da Vida
 
-- A formação profissional e aprendizagem são organizadas numa perspetiva de capacitação de jovens e adultos para o exercício de uma profissão, por forma a responder às necessidades nacionais de desenvolvimento e a inclusão social.
+1. A formação profissional e aprendizagem são organizadas numa perspetiva de capacitação de jovens e adultos para o exercício de uma profissão, por forma a responder às necessidades nacionais de desenvolvimento e a inclusão social.
 
-- A formação profissional e ações de aprendizagem, no âmbito da educação básica, desenvolvem-se em centros específicos, empresas ou serviços, com base em acordos e protocolos celebrados entre os diversos departamentos estatais e não estatais, numa perspetiva de capacitação de jovens e adultos para o mundo laboral.
+2. A formação profissional e ações de aprendizagem, no âmbito da educação básica, desenvolvem-se em centros específicos, empresas ou serviços, com base em acordos e protocolos celebrados entre os diversos departamentos estatais e não estatais, numa perspetiva de capacitação de jovens e adultos para o mundo laboral.
 
-- A formação profissional básica de jovens e adultos e de aprendizagem ao longo da vida podem ser desenvolvidas através da modalidade especial de ensino presencial ou à distância, podendo assumir percurso modular.
+3. A formação profissional básica de jovens e adultos e de aprendizagem ao longo da vida podem ser desenvolvidas através da modalidade especial de ensino presencial ou à distância, podendo assumir percurso modular.
 
-- A formação profissional e de aprendizagem ao longo da vida pode proporcionar um diploma, que confere uma certificação profissional, visando a integração, reintegração e progressão de jovens e adultos no mundo laboral.
+4. A formação profissional e de aprendizagem ao longo da vida pode proporcionar um diploma, que confere uma certificação profissional, visando a integração, reintegração e progressão de jovens e adultos no mundo laboral.
 
-- A organização e funcionamento das ações de formação profissional e de aprendizagem ao longo da vida, bem como a avaliação e os diplomas e certificados a conferir, são objetos de regulamentação própria.
+5. A organização e funcionamento das ações de formação profissional e de aprendizagem ao longo da vida, bem como a avaliação e os diplomas e certificados a conferir, são objetos de regulamentação própria.
 
 #### Artigo 58.º
 
@@ -470,9 +475,10 @@ Documento descarregado pelo utilizador Maria do Livramento (10.73.103.254) em 14
 São proporcionados cursos à distância, enquanto modalidade especial de formação que permita ampliar as oportunidades de formação socioprofissional e cultural nos locais de trabalho e no âmbito doméstico, como oportunidade de aprendizagem, através de abordagens pedagógicas inovadoras, adequada às características dos participantes e às demandas do conhecimento, e bem assim às exigências das respetivas atividades profissionais.
 
 #### Artigo 59.º
+
 […]
 
-A coordenação das ações de planeamento e gestão das atividades de educação básica de jovens e adultos e de formação profissional de jovens e adultos é feita através de mecanismos de articulação interministerial e interdepartamental.'
+A coordenação das ações de planeamento e gestão das atividades de educação básica de jovens e adultos e de formação profissional de jovens e adultos é feita através de mecanismos de articulação interministerial e interdepartamental.”
 
 #### Artigo 3.º
 
@@ -484,9 +490,7 @@ A gratuitidade no ensino secundário é efetivada de forma faseada e progressiva
 
 ##### Revogações
 
-São ainda revogados os artigos 27.º e 29.º do DecretoLegislativo n.º 2/2010, de 7 de maio.
-
-https://kiosk.incv.cv
+São ainda revogados os artigos 27.º e 29.º do Decreto-Legislativo n.º 2/2010, de 7 de maio.
 
 #### Artigo 5.º
 
@@ -529,7 +533,7 @@ Entre as principais novações, destaca-se, como se prevê no presente diploma, 
 Desde logo, atento aos objetivos plasmados no Programa de Governo para a presente VII Legislatura, nesta revisão da lei de Bases do Sistema Educativo salienta-se a necessidade de regulação mais apropriada do subsistema de ensino pré-escolar, privilegiando o desenvolvimento de uma política integrada com vista a ampliar as condições
 
 2 618000 012227
-
+https://kiosk.incv.cv
 367221B6-E4AA-42D9-8C78-AFE62A8C9196
 
 [[END OF PAGE 6]]
@@ -538,7 +542,7 @@ Desde logo, atento aos objetivos plasmados no Programa de Governo para a present
 
 Documento descarregado pelo utilizador Maria do Livramento (10.73.103.254) em 14-12-2018 15:56:59. © Todos os direitos reservados. A cópia ou distribuição não autorizada é proibida.
 
-I  SÉRIE - N O   80  «B. O.»  DA REPÚBLICA DE CABO  VERDE  - 7   DE   DEZEMBRO  DE   2018 1939
+I SÉRIE — Nº 80 «B. O.» DA REPÚBLICA DE CABO VERDE — 7 DE DEZEMBRO DE 2018 1939
 
 para a generalização da educação pré-escolar, ao mesmo tempo que se clarifica o papel do Governo, sobretudo no que tange, de um lado, às medidas de coordenação, de orientação pedagógica e de formação do pessoal concernentes e, de outro lado, quanto à determinação dos objetivos gerais e diversos dispositivos para a educação das crianças antes da escolaridade obrigatória.
 
@@ -548,7 +552,7 @@ Preconiza ainda o presente diploma a possibilidade de ser alargada, gradativamen
 
 Com efeito, prevê-se que o novo modelo de ensino básico compreenda três ciclos sequenciais, sendo primeiro de quatro anos e o segundo e o terceiro de dois anos cada, em articulação sequencial progressiva, conferindo-se a cada ciclo a função de completar, aprofundar e alargar o ciclo anterior, numa perspetiva de unidade global do ensino básico.
 
-Por outro lado, decorrente dos reflexos imediatos da opção e medida do alargamento do ensino básico, recortase neste diploma uma nova formatação curricular do subsistema de ensino secundário.
+Por outro lado, decorrente dos reflexos imediatos da opção e medida do alargamento do ensino básico, recorta-se neste diploma uma nova formatação curricular do subsistema de ensino secundário.
 
 Assim, o ensino secundário, que passará a ser de quatro anos, compreenderá dois ciclos de dois anos cada, prevendo que o 1º ciclo abarque o 9º e o 10º Anos de escolaridade com uma via geral, que constitui um ciclo de consolidação do ensino básico e de orientação vocacional e o 2º ciclo, abrangendo o 11º e o 12º Anos de escolaridade, com uma via geral e uma via técnica profissionalizante.
 
@@ -558,11 +562,9 @@ Com efeito, decorrente dos reflexos imediatos das opções curriculares recorta-
 
 De resto, com este novo modelo do ensino secundário, implicando adaptação de novas matrizes curriculares específicas, criam-se igualmente condições adequadas ao estabelecimento de um quadro favorecedor da implementação articulada da formação complementar profissionalizante, na linha do reforço da integração entre o sistema educativo e o sistema de formação profissional, proporcionando uma rápida transição dos jovens da escola para o mundo do trabalho.
 
-No que tange ao ensino superior, também pretende- se introduzir importantes novações, promovendo novos padrões de qualidade, designadamente quanto aos objetivos e à redefinição do regime dos estabelecimentos de ensino, bem como em relação ao regime de acesso e ao alargamento de graus académicos e diplomas correspondentes, incluindo a fase pós-doutoramento.
+No que tange ao ensino superior, também pretende-se introduzir importantes novações, promovendo novos padrões de qualidade, designadamente quanto aos objetivos e à redefinição do regime dos estabelecimentos de ensino, bem como em relação ao regime de acesso e ao alargamento de graus académicos e diplomas correspondentes, incluindo a fase pós-doutoramento.
 
 Nesta revisão, opta-se ainda pela eliminação do grau académico de bacharelato, assim como o grau de ensino médio do sistema educativo formal, atento à dimensão atual da oferta formativa do mercado, em que instituições privadas se pontificam.
-
-https://kiosk.incv.cv
 
 Por outro lado, atribui-se aos estabelecimentos do ensino superior a faculdade de organizarem cursos de formação pós-secundária, que não conferem graus académicos, mas de natureza profissionalizante, cursos aos quais se poderá conferir diploma de Estudos Superiores Profissionais, creditáveis, em determinadas condições, para o prosseguimento de cursos superiores com grau de licenciatura.
 
@@ -580,10 +582,10 @@ Clarificam-se, assim, neste subsistema, as modalidades de implementação da for
 
 Ainda no âmbito do subsistema da educação extraescolar, prevê-se a instituição de mecanismos de articulação interdepartamental, visando a coordenação das ações e do planeamento das atividades de educação básica de adultos e de formação profissional.
 
-Conforme acima ficou assinalado, nesta revisão pretendese dar especial atenção à qualificação do pessoal docente, que constitui um recurso fundamental para o sucesso dos objetivos traçados nos diversos subsistemas do sistema de ensino em Cabo Verde.
+Conforme acima ficou assinalado, nesta revisão pretende-se dar especial atenção à qualificação do pessoal docente, que constitui um recurso fundamental para o sucesso dos objetivos traçados nos diversos subsistemas do sistema de ensino em Cabo Verde.
 
 2 618000 012227
-
+https://kiosk.incv.cv
 367221B6-E4AA-42D9-8C78-AFE62A8C9196
 
 [[END OF PAGE 7]]
@@ -592,9 +594,9 @@ Conforme acima ficou assinalado, nesta revisão pretendese dar especial atençã
 
 Documento descarregado pelo utilizador Maria do Livramento (10.73.103.254) em 14-12-2018 15:56:59. © Todos os direitos reservados. A cópia ou distribuição não autorizada é proibida.
 
-1940	I    SÉRIE -  N O    80  «B. O.»  DA REPÚBLICA  DE  CABO  VERDE  - 7   DE   DEZEMBRO  DE   2018
+1940 I SÉRIE — Nº 80 «B. O.» DA REPÚBLICA DE CABO VERDE — 7 DE DEZEMBRO DE 2018
 
-Consequentemente, neste particular, propugna-se que em todos os subsistemas do ensino, incluindo no préescolar, os docentes tenham formação qualificada, obtida em estabelecimento de ensino superior que confira ou não graus académicos superiores, sendo proporcionada a formação em exercício, nos termos em que tem vindo a acontecer, até aqui, com determinadas classes do pessoal docente.
+Consequentemente, neste particular, propugna-se que em todos os subsistemas do ensino, incluindo no pré-escolar, os docentes tenham formação qualificada, obtida em estabelecimento de ensino superior que confira ou não graus académicos superiores, sendo proporcionada a formação em exercício, nos termos em que tem vindo a acontecer, até aqui, com determinadas classes do pessoal docente.
 
 Assim, prevê-se a flexibilização do regime do pessoal docente dos diversos subsistemas do ensino que exerçam atividade nos estabelecimentos de ensino público, particularizando as especificidades do ensino superior.
 
@@ -634,11 +636,7 @@ O sistema educativo abrange o conjunto das instituições de educação que func
 
 - A coordenação e supervisão da política educativa e do funcionamento do respetivo sistema são da competência dos departamentos governamentais responsáveis pelas áreas da Educação e do Ensino Superior.
 
-- Cabe aos departamentos governamentais responsáveis pelas áreas da Educação e do Ensino Superior, conforme o caso, assegurar que todas as instituições educativas
-
-https://kiosk.incv.cv
-
-observam as disposições relativas aos princípios, estrutura, objetivos e programas em vigor no ensino público, particular e cooperativo e aos demais programas de índole especializada, competindo-lhe ainda definir as condições de validação dos respetivos diplomas para efeito de obtenção de equivalência.
+- Cabe aos departamentos governamentais responsáveis pelas áreas da Educação e do Ensino Superior, conforme o caso, assegurar que todas as instituições educativas observam as disposições relativas aos princípios, estrutura, objetivos e programas em vigor no ensino público, particular e cooperativo e aos demais programas de índole especializada, competindo-lhe ainda definir as condições de validação dos respetivos diplomas para efeito de obtenção de equivalência.
 
 #### Artigo 4.º
 
@@ -670,7 +668,7 @@ observam as disposições relativas aos princípios, estrutura, objetivos e prog
 
 - A educação visa a formação integral do indivíduo.
 
-- A formação obtida por meio da educação deve ligarse estreitamente ao trabalho, de molde a proporcionar a aquisição de conhecimentos, qualificações, valores e comportamentos que possibilitem ao cidadão integrar-se na comunidade e contribuir para o seu constante progresso.
+- A formação obtida por meio da educação deve ligar-se estreitamente ao trabalho, de molde a proporcionar a aquisição de conhecimentos, qualificações, valores e comportamentos que possibilitem ao cidadão integrar-se na comunidade e contribuir para o seu constante progresso.
 
 - No quadro da ação educativa, a eliminação do analfabetismo é tarefa fundamental.
 
@@ -683,7 +681,7 @@ observam as disposições relativas aos princípios, estrutura, objetivos e prog
 O sistema educativo dirige-se a todos os indivíduos, independentemente da idade, sexo, nível socioeconómico, intelectual ou cultural, crença religiosa ou convicção filosófica de cada um.
 
 2 618000 012227
-
+https://kiosk.incv.cv
 367221B6-E4AA-42D9-8C78-AFE62A8C9196
 
 [[END OF PAGE 8]]
@@ -692,9 +690,7 @@ O sistema educativo dirige-se a todos os indivíduos, independentemente da idade
 
 Documento descarregado pelo utilizador Maria do Livramento (10.73.103.254) em 14-12-2018 15:56:59. © Todos os direitos reservados. A cópia ou distribuição não autorizada é proibida.
 
-1941
-
-I  SÉRIE - N O   80  «B. O.»  DA REPÚBLICA DE CABO  VERDE  - 7   DE   DEZEMBRO  DE   2018
+I SÉRIE — Nº 80 «B. O.» DA REPÚBLICA DE CABO VERDE — 7 DE DEZEMBRO DE 2018 1941
 
 #### Artigo 7.º
 
@@ -732,7 +728,7 @@ O processo educativo integra a formação teórica e a formação prática, cont
 
 - e ) Promover a investigação, a criatividade e a inovação com vista à elevação do nível de conhecimento e de qualificação dos cidadãos, enquanto fatores de desenvolvimento nacional;
 
-- Preparar o educando para uma constante reflexão sobre os valores espirituais, estéticos, morais e  cívicos  e  proporcionar-lhe  um  equilibrado desenvolvimento físico;
+- f ) Preparar o educando para uma constante reflexão sobre os valores espirituais, estéticos, morais e cívicos e proporcionar-lhe um equilibrado desenvolvimento físico;
 
 - g ) Reforçar a consciência e a unidade nacionais;
 
@@ -745,8 +741,6 @@ O processo educativo integra a formação teórica e a formação prática, cont
 - k ) Fomentar a participação das populações na atividade educativa e na gestão democrática do ensino.
 
 - Os objetivos da política educativa entendem-se, adequam-se e executam-se de harmonia com as linhas orientadoras da estratégia de desenvolvimento nacional.
-
-https://kiosk.incv.cv
 
 #### Artigo 11.º
 
@@ -766,7 +760,7 @@ https://kiosk.incv.cv
 
 - e )  Incentivar  o  espírito  criativo  e  a  adaptação  às mutações da sociedade, da ciência e da tecnologia no mundo moderno;
 
-- Promover o espírito de compreensão, solidariedade e paz internacionais.
+- f ) Promover o espírito de compreensão, solidariedade e paz internacionais.
 
 # CAPÍTULO III
 
@@ -791,7 +785,7 @@ https://kiosk.incv.cv
 - O sistema educativo integra ainda a componente de formação técnico-profissional e articula-se estreitamente como o sistema nacional de formação e aprendizagem profissional.
 
 2 618000 012227
-
+https://kiosk.incv.cv
 367221B6-E4AA-42D9-8C78-AFE62A8C9196
 
 [[END OF PAGE 9]]
@@ -800,7 +794,7 @@ https://kiosk.incv.cv
 
 Documento descarregado pelo utilizador Maria do Livramento (10.73.103.254) em 14-12-2018 15:56:59. © Todos os direitos reservados. A cópia ou distribuição não autorizada é proibida.
 
-1942	I    SÉRIE -  N O    80  «B. O.»  DA REPÚBLICA  DE  CABO  VERDE  - 7   DE   DEZEMBRO  DE   2018
+1942 I SÉRIE — Nº 80 «B. O.» DA REPÚBLICA DE CABO VERDE — 7 DE DEZEMBRO DE 2018
 
 #### Artigo 13.º
 
@@ -868,8 +862,6 @@ São objetivos essenciais da educação pré-escolar:
 
 - g ) Favorecer a revelação de características específicas da criança e garantir uma eficiente orientação das suas capacidades.
 
-https://kiosk.incv.cv
-
 #### Artigo 18.º
 
 ##### Organização
@@ -898,8 +890,6 @@ https://kiosk.incv.cv
 
 [ Revogado ]
 
-2 618000 012227
-
 #### Artigo 20.º
 
 ##### Ingresso
@@ -924,6 +914,8 @@ São objetivos do ensino básico:
 
 - b ) Desenvolver capacidades de imaginação, observação, reflexão, como meios de afirmação pessoal;
 
+2 618000 012227
+https://kiosk.incv.cv
 367221B6-E4AA-42D9-8C78-AFE62A8C9196
 
 [[END OF PAGE 10]]
@@ -932,9 +924,7 @@ São objetivos do ensino básico:
 
 Documento descarregado pelo utilizador Maria do Livramento (10.73.103.254) em 14-12-2018 15:56:59. © Todos os direitos reservados. A cópia ou distribuição não autorizada é proibida.
 
-1943
-
-I  SÉRIE - N O   80  «B. O.»  DA REPÚBLICA DE CABO  VERDE  - 7   DE   DEZEMBRO  DE   2018
+I SÉRIE — Nº 80 «B. O.» DA REPÚBLICA DE CABO VERDE — 7 DE DEZEMBRO DE 2018 1943
 
 - c )  Fomentar  a  aquisição  de  conhecimentos  que contribuam para a compreensão, preservação e sustentabilidade do meio;
 
@@ -980,8 +970,6 @@ I  SÉRIE - N O   80  «B. O.»  DA REPÚBLICA DE CABO  VERDE  - 7   DE   DEZEMB
 
 - No final do ensino básico, o aluno pode prosseguir os estudos secundários, ou ainda seguir um curso de formação profissional, nos termos e condições a definir em diploma próprio.
 
-https://kiosk.incv.cv
-
 7. A conclusão com aproveitamento do ensino básico confere o direito à atribuição de um diploma, devendo igualmente ser certificado o aproveitamento de qualquer ano ou ciclo, quando solicitado.
 
 ### Subsecção II
@@ -1021,7 +1009,7 @@ São objetivos do ensino secundário:
 - h ) Garantir a continuidade de aprendizagem das duas línguas estrangeiras iniciadas no ensino básico
 
 2 618000 012227
-
+https://kiosk.incv.cv
 367221B6-E4AA-42D9-8C78-AFE62A8C9196
 
 [[END OF PAGE 11]]
@@ -1030,47 +1018,69 @@ São objetivos do ensino secundário:
 
 Documento descarregado pelo utilizador Maria do Livramento (10.73.103.254) em 14-12-2018 15:56:59. © Todos os direitos reservados. A cópia ou distribuição não autorizada é proibida.
 
-1944	I    SÉRIE -  N O    80  «B. O.»  DA REPÚBLICA  DE  CABO  VERDE  - 7   DE   DEZEMBRO  DE   2018
+1944 I SÉRIE — Nº 80 «B. O.» DA REPÚBLICA DE CABO VERDE — 7 DE DEZEMBRO DE 2018
 
-- e a introdução de outras línguas estrangeiras facultativas, de acordo com a capacidade de oferta e das especificidades locais;
+e a introdução de outras línguas estrangeiras facultativas, de acordo com a capacidade de oferta e das especificidades locais;
 
-- i ) Criar hábitos de trabalho, individual e em grupo, e favorecer o desenvolvimento de atitudes de reflexão metódica, de abertura de espírito, de sensibilidade e de disponibilidade e adaptação à mudança.
+i) Criar hábitos de trabalho, individual e em grupo, e favorecer o desenvolvimento de atitudes de reflexão metódica, de abertura de espírito, de sensibilidade e de disponibilidade e adaptação à mudança.
 
 #### Artigo 26.º
 
 ##### Organização
 
-- Têm acesso ao ensino secundário os alunos que tenham completado com aproveitamento o ensino básico.
+1. Têm acesso ao ensino secundário os alunos que tenham completado com aproveitamento o ensino básico.
 
-- O ensino secundário tem a duração de quatro anos, num ciclo único, do 9º ao 12º ano de escolaridade, e estrutura-se em duas vias opcionais, via geral e via técnica.
+2. O ensino secundário tem a duração de quatro anos, num ciclo único, do 9º ao 12º ano de escolaridade, e estrutura-se em duas vias opcionais, via geral e via técnica.
 
-- a ) [ Revogada ]
+a) [Revogada]
 
-- b ) [ Revogada ]
+b) [Revogada]
 
-- No final do ensino secundário, o aluno pode prosseguir os estudos superiores, ou ainda seguir um curso de formação profissional, inicial ou complementar, nos termos e condições a definir em diploma próprio.
+3. No final do ensino secundário, o aluno pode prosseguir os estudos superiores, ou ainda seguir um curso de formação profissional, inicial ou complementar, nos termos e condições a definir em diploma próprio.
 
-- A conclusão do ensino secundário confere direito à atribuição de certificado e de um diploma, que certifica a formação adquirida e a qualificação obtida.
+4. A conclusão do ensino secundário confere direito à atribuição de certificado e de um diploma, que certifica a formação adquirida e a qualificação obtida.
 
-5. [ Revogado ]
+5. [Revogado]
 
-- Na via técnica pode ser conferida a dupla certificação, académica e profissional, nos termos a regulamentar em diploma próprio.
+6. Na via técnica pode ser conferida a dupla certificação, académica e profissional, nos termos a regulamentar em diploma próprio.
 
-- É garantida a permeabilidade entre a via do ensino geral e a via do ensino técnico, nos termos e condições a estabelecer por diploma regulamentar.
+7. É garantida a permeabilidade entre a via do ensino geral e a via do ensino técnico, nos termos e condições a estabelecer por diploma regulamentar.
 
 #### Artigo 27.º
+
+[Revogado]
+
+#### Artigo 28.º
+
+##### Via geral e via técnica do ensino secundário
+
+1. A via geral do ensino secundário destina-se ao aprofundamento e ao reforço das aprendizagens adquiridas no ensino básico e aquisição das bases científicas, tecnológicas e culturais necessárias ao prosseguimento de estudos ou ingresso na vida ativa.
+
+2. A via técnica do ensino secundário destina-se a aquisição de conhecimentos científicos e tecnológicos, competências sociais e profissionais para a obtenção de uma especialização adequada, visando a inserção no mundo laboral, sem prejuízo do prosseguimento de estudos superiores.
+
+3. [Revogado]
+
+#### Artigo 29.º
+
+[Revogado]
+
+#### Artigo 30.º
+
+##### Matrizes curriculares
+
+As matrizes curriculares do ensino secundário integram componentes de formação geral, de formação sociocultural, de formação específica, de formação tecnológica, de formação técnico-artística e técnica, nos termos definidos por Decreto-Lei.
 
 #### Artigo 31.º
 
 ##### Formação artística
 
-- Através da via do ensino técnico ou do ano complementar do ensino secundário, os estabelecimentos de ensino secundário podem ministrar cursos de índole artística.
+1. Através da via do ensino técnico ou do ano complementar do ensino secundário, os estabelecimentos de ensino secundário podem ministrar cursos de índole artística.
 
-- Estes cursos têm uma organização curricular e regras de funcionamento próprias de acordo com a sua especificidade, a definir em diploma próprio.
+2. Estes cursos têm uma organização curricular e regras de funcionamento próprias de acordo com a sua especificidade, a definir em diploma próprio.
 
-- Os cursos de formação artística abarcam as atividades artísticas mais significativas para o desenvolvimento cultural do país e a sua rede escolar é definida em função da evolução dessas atividades.
+3. Os cursos de formação artística abarcam as atividades artísticas mais significativas para o desenvolvimento cultural do país e a sua rede escolar é definida em função da evolução dessas atividades.
 
-- Aos alunos que terminarem com aproveitamento, os cursos de formação artísticas é atribuído o competente diploma.
+4. Aos alunos que terminarem com aproveitamento, os cursos de formação artísticas é atribuído o competente diploma.
 
 ### Subsecção III
 
@@ -1080,23 +1090,23 @@ Documento descarregado pelo utilizador Maria do Livramento (10.73.103.254) em 14
 
 ##### Âmbito do ensino superior
 
-- O ensino superior compreende o ensino universitário e o ensino politécnico.
+1. O ensino superior compreende o ensino universitário e o ensino politécnico.
 
-- O ensino universitário visa, através da promoção da investigação e da criação do saber, assegurar uma sólida preparação científica, técnica e cultural dos indivíduos, habilitando-os para o desenvolvimento das capacidades de conceção, análise crítica e inovação para o exercício de atividades profissionais, socioeconómicas e culturais.
+2. O ensino universitário visa, através da promoção da investigação e da criação do saber, assegurar uma sólida preparação científica, técnica e cultural dos indivíduos, habilitando-os para o desenvolvimento das capacidades de conceção, análise crítica e inovação para o exercício de atividades profissionais, socioeconómicas e culturais.
 
-- O ensino politécnico visa, através da promoção da investigação aplicada e de desenvolvimento, proporcionar aos indivíduos conhecimentos científicos de índole teórica e prática e uma sólida formação cultural e técnica de nível superior, desenvolvendo as suas capacidades de inovação e de análise crítica, de compreensão e solução de problemas concretos, com vista ao exercício de atividades profissionais.
+3. O ensino politécnico visa, através da promoção da investigação aplicada e de desenvolvimento, proporcionar aos indivíduos conhecimentos científicos de índole teórica e prática e uma sólida formação cultural e técnica de nível superior, desenvolvendo as suas capacidades de inovação e de análise crítica, de compreensão e solução de problemas concretos, com vista ao exercício de atividades profissionais.
 
 #### Artigo 33.º
 
 ##### Estabelecimentos
 
-- O ensino universitário é ministrado em universidades e em escolas universitárias não integradas.
+1. O ensino universitário é ministrado em universidades e em escolas universitárias não integradas.
 
-- O ensino politécnico é ministrado em institutos politécnicos e em escolas superiores especializadas nos domínios da tecnologia, das artes e da educação, entre outros.
+2. O ensino politécnico é ministrado em institutos politécnicos e em escolas superiores especializadas nos domínios da tecnologia, das artes e da educação, entre outros.
 
-- As universidades podem ser constituídas por escolas, institutos ou faculdades diferenciadas e ou por departamentos, centros ou outras unidades funcionais, podendo ainda integrar escolas superiores do ensino politécnico.
+3. As universidades podem ser constituídas por escolas, institutos ou faculdades diferenciadas e ou por departamentos, centros ou outras unidades funcionais, podendo ainda integrar escolas superiores do ensino politécnico.
 
-- Os institutos politécnicos podem ser constituídos por escolas e ou departamentos ou outras unidades funcionais.
+4. Os institutos politécnicos podem ser constituídos por escolas e ou departamentos ou outras unidades funcionais.
 
 #### Artigo 34.º
 
@@ -1104,36 +1114,12 @@ Documento descarregado pelo utilizador Maria do Livramento (10.73.103.254) em 14
 
 São objetivos do ensino superior:
 
-- a ) Desenvolver capacidade de conceção, de inovação, de investigação, de análise crítica e de decisão;
+a) Desenvolver capacidade de conceção, de inovação, de investigação, de análise crítica e de decisão;
 
-- b ) Formar quadros nas diferentes áreas de conhecimento, aptos para a inserção em sectores profissionais e para a participação no desenvolvimento da sociedade cabo-verdiana, e colaborar na sua formação contínua;
+b) Formar quadros nas diferentes áreas de conhecimento, aptos para a inserção em sectores profissionais e para a participação no desenvolvimento da sociedade cabo-verdiana, e colaborar na sua formação contínua;
 
 2 618000 012227
-
-[ Revogado ]
-
-#### Artigo 28.º
-
-##### Via geral e via técnica do ensino secundário
-
-- A via geral do ensino secundário destina-se ao aprofundamento e ao reforço das aprendizagens adquiridas no ensino básico e aquisição das bases científicas, tecnológicas e culturais necessárias ao prosseguimento de estudos ou ingresso na vida ativa.
-
-- A via técnica do ensino secundário destina-se a aquisição de conhecimentos científicos e tecnológicos, competências sociais e profissionais para a obtenção de uma especialização adequada, visando a inserção no mundo laboral, sem prejuízo do prosseguimento de estudos superiores.
-
-[ Revogado ]
-
-[ Revogado ]
-
-#### Artigo 29.º
-
-#### Artigo 30.º
-
-##### Matrizes curriculares
-
-As matrizes curriculares do ensino secundário integram componentes de formação geral, de formação sociocultural, de formação específica, de formação tecnológica, de formação técnico-artística e técnica, nos termos definidos por Decreto-Lei.
-
 https://kiosk.incv.cv
-
 367221B6-E4AA-42D9-8C78-AFE62A8C9196
 
 [[END OF PAGE 12]]
@@ -1142,7 +1128,7 @@ https://kiosk.incv.cv
 
 Documento descarregado pelo utilizador Maria do Livramento (10.73.103.254) em 14-12-2018 15:56:59. © Todos os direitos reservados. A cópia ou distribuição não autorizada é proibida.
 
-I  SÉRIE - N O   80  «B. O.»  DA REPÚBLICA DE CABO  VERDE  - 7   DE   DEZEMBRO  DE   2018 1945
+I SÉRIE — Nº 80 «B. O.» DA REPÚBLICA DE CABO VERDE — 7 DE DEZEMBRO DE 2018 1945
 
 - c ) Estimular o pensamento reflexivo, a criação cultural, o  desenvolvimento  do  espírito  científico  e  a capacidade empreendedora;
 
@@ -1184,8 +1170,6 @@ I  SÉRIE - N O   80  «B. O.»  DA REPÚBLICA DE CABO  VERDE  - 7   DE   DEZEMB
 
 - b ) Os titulares de qualificações pós-secundárias nas áreas correspondentes às dos cursos superiores a que se candidatam.
 
-https://kiosk.incv.cv
-
 5. Compete aos estabelecimentos de ensino superior organizar o processo de avaliação da capacidade para a frequência, bem como o de seleção e seriação dos candidatos ao ingresso nos respetivos cursos.
 
 6. O Estado deve criar as condições para que os cursos existentes e a serem criados correspondam globalmente às necessidades em quadros qualificados, às aspirações individuais e à elevação do nível educativo, cultural e científico do País, para que seja garantida a qualidade do ensino ministrado.
@@ -1217,7 +1201,7 @@ https://kiosk.incv.cv
 - No ensino superior são conferidos os graus académicos de licenciado, mestre e doutor.
 
 2 618000 012227
-
+https://kiosk.incv.cv
 367221B6-E4AA-42D9-8C78-AFE62A8C9196
 
 [[END OF PAGE 13]]
@@ -1226,7 +1210,7 @@ https://kiosk.incv.cv
 
 Documento descarregado pelo utilizador Maria do Livramento (10.73.103.254) em 14-12-2018 15:56:59. © Todos os direitos reservados. A cópia ou distribuição não autorizada é proibida.
 
-1946	I    SÉRIE -  N O    80  «B. O.»  DA REPÚBLICA  DE  CABO  VERDE  - 7   DE   DEZEMBRO  DE   2018
+1946 I SÉRIE — Nº 80 «B. O.» DA REPÚBLICA DE CABO VERDE — 7 DE DEZEMBRO DE 2018
 
 - Os estabelecimentos de ensino superior podem, nos termos do presente diploma, ministrar cursos não conferentes de grau académico, cuja conclusão, com aproveitamento, confere a atribuição de um diploma.
 
@@ -1278,8 +1262,6 @@ Documento descarregado pelo utilizador Maria do Livramento (10.73.103.254) em 14
 
 - A conclusão, com aproveitamento, do grau de mestre é certificada por uma carta magistral.
 
-https://kiosk.incv.cv
-
 #### Artigo 40.º
 
 ##### Doutoramento
@@ -1313,7 +1295,7 @@ https://kiosk.incv.cv
 - As universidades podem conferir o grau de doutor 'honoris causa' a individualidades eminentes nacionais ou estrangeiras, nos termos, e condições que vierem a constar de regulamento a elaborar por cada instituição.
 
 2 618000 012227
-
+https://kiosk.incv.cv
 367221B6-E4AA-42D9-8C78-AFE62A8C9196
 
 [[END OF PAGE 14]]
@@ -1322,7 +1304,7 @@ https://kiosk.incv.cv
 
 Documento descarregado pelo utilizador Maria do Livramento (10.73.103.254) em 14-12-2018 15:56:59. © Todos os direitos reservados. A cópia ou distribuição não autorizada é proibida.
 
-I  SÉRIE - N O   80  «B. O.»  DA REPÚBLICA DE CABO  VERDE  - 7   DE   DEZEMBRO  DE   2018 1947
+I SÉRIE — Nº 80 «B. O.» DA REPÚBLICA DE CABO VERDE — 7 DE DEZEMBRO DE 2018 1947
 
 - A atribuição de doutoramento 'honoris causa' a individualidades estrangeiras deve ser precedida de audição do membro do Governo responsável pela área dos Negócios Estrangeiros.
 
@@ -1364,9 +1346,7 @@ O Governo, por Decreto-Lei, regula as demais condições de atribuição dos gra
 
 - Sem prejuízo do disposto nos números anteriores, o Governo regula, por Decreto-Lei, o regime de financiamento do ensino superior, tendo em conta, designadamente, os seguintes princípios:
 
-- a ) Princípio da comparticipação financeira do Estado, entendido no sentido de que a este cabe
-
-- contribuir, na medida dos recursos disponíveis, para fomentar o acesso ao ensino superior e maximizar a capacitação e especialização dos recursos humanos em áreas relevantes para o desenvolvimento;
+- a ) Princípio da comparticipação financeira do Estado, entendido no sentido de que a este cabe contribuir, na medida dos recursos disponíveis, para fomentar o acesso ao ensino superior e maximizar a capacitação e especialização dos recursos humanos em áreas relevantes para o desenvolvimento;
 
 - b ) Princípio da cogestão, que se traduz na criação de mecanismos para a comparticipação de elementos da sociedade civil na gestão das instituições de ensino superior e no controlo social da qualidade da formação nelas ministrada;
 
@@ -1380,9 +1360,7 @@ O Governo, por Decreto-Lei, regula as demais condições de atribuição dos gra
 
 - g )  Princípio da autonomia, nos termos do qual as instituições de ensino superior, independentemente da sua natureza jurídica, e sem prejuízo do disposto na lei, devem assegurar a mobilização dos recursos indispensáveis para o financiamento dos custos da formação que ministrarem;
 
-- h )  Princípio  da  sustentabilidade,  que  implica  a necessidade de uma avaliação sistemática dos meios e recursos necessários para a implementação das medidas de política e das atividades de ensino, investigação e extensão, numa lógica de  continuidade  e  de  irreversibilidade,  com a manutenção dos mais elevados padrões de resultados académicos.
-
-https://kiosk.incv.cv
+- h ) Princípio da sustentabilidade, que implica a necessidade de uma avaliação sistemática dos meios e recursos necessários para a implementação das medidas de política e das atividades de ensino, investigação e extensão, numa lógica de continuidade e de irreversibilidade, com a manutenção dos mais elevados padrões de resultados académicos.
 
 #### Artigo 47.º
 
@@ -1403,7 +1381,7 @@ https://kiosk.incv.cv
 - Entende-se por educação especial, para os efeitos do presente diploma, a modalidade de educação escolar ministrada preferencialmente em estabelecimentos regulares de ensino a favor de alunos portadores de necessidades educativas especiais.
 
 2 618000 012227
-
+https://kiosk.incv.cv
 367221B6-E4AA-42D9-8C78-AFE62A8C9196
 
 [[END OF PAGE 15]]
@@ -1412,7 +1390,7 @@ https://kiosk.incv.cv
 
 Documento descarregado pelo utilizador Maria do Livramento (10.73.103.254) em 14-12-2018 15:56:59. © Todos os direitos reservados. A cópia ou distribuição não autorizada é proibida.
 
-1948	I    SÉRIE -  N O    80  «B. O.»  DA REPÚBLICA  DE  CABO  VERDE  - 7   DE   DEZEMBRO  DE   2018
+1948 I SÉRIE — Nº 80 «B. O.» DA REPÚBLICA DE CABO VERDE — 7 DE DEZEMBRO DE 2018
 
 - As crianças e jovens portadores de deficiências físicas ou mentais beneficiam de cuidados educativos adequados, cabendo ao Estado a responsabilidade de:
 
@@ -1474,7 +1452,7 @@ O Estado providencia ainda no sentido de serem criadas condições especializada
 
 2. Entre as modalidades de ensino recorrente de adultos a instituir, figura o ensino noturno de qualquer ciclo ou nível.
 
-3. As ações de ensino recorrente devem ser organizadas de maneira flexível em função das características dos seus alunos e das necessidades de desenvolvimento cultural e socioeconómico do Pais.
+3. As ações de ensino recorrente devem ser organizadas de maneira flexível em função das características dos seus alunos e das necessidades de desenvolvimento cultural e socioeconómico do País.
 
 #### Artigo 53.º
 
@@ -1516,9 +1494,7 @@ https://kiosk.incv.cv
 
 Documento descarregado pelo utilizador Maria do Livramento (10.73.103.254) em 14-12-2018 15:56:59. © Todos os direitos reservados. A cópia ou distribuição não autorizada é proibida.
 
-1949
-
-I  SÉRIE - N O   80  «B. O.»  DA REPÚBLICA DE CABO  VERDE  - 7   DE   DEZEMBRO  DE   2018
+I SÉRIE — Nº 80 «B. O.» DA REPÚBLICA DE CABO VERDE — 7 DE DEZEMBRO DE 2018 1949
 
 - A educação extraescolar desenvolve-se em duas vertentes:
 
@@ -1614,7 +1590,7 @@ https://kiosk.incv.cv
 
 Documento descarregado pelo utilizador Maria do Livramento (10.73.103.254) em 14-12-2018 15:56:59. © Todos os direitos reservados. A cópia ou distribuição não autorizada é proibida.
 
-1950	I    SÉRIE -  N O    80  «B. O.»  DA REPÚBLICA  DE  CABO  VERDE  - 7   DE   DEZEMBRO  DE   2018
+1950 I SÉRIE — Nº 80 «B. O.» DA REPÚBLICA DE CABO VERDE — 7 DE DEZEMBRO DE 2018
 
 # CAPÍTULO IV
 
@@ -1666,15 +1642,11 @@ Os estabelecimentos de ensino organizam atividades de reforço e acompanhamento 
 
 ##### Ação social escolar
 
-- O Estado desenvolve um conjunto de ações no âmbito social e escolar, de acordo com os princípios estabelecidos
-
-- sobre a matéria no número 1 do artigo 79.º do presente diploma, a fim de compensar os alunos pertencentes a famílias com carência socioeconómicas.
+- O Estado desenvolve um conjunto de ações no âmbito social e escolar, de acordo com os princípios estabelecidos sobre a matéria no número 1 do artigo 79.º do presente diploma, a fim de compensar os alunos pertencentes a famílias com carência socioeconómicas.
 
 - A coordenação dos programas de ação social e a administração das suas fontes de financiamento, cabem ao organismo competente do departamento governamental responsável pela área da Educação.
 
 - A ação social escolar concretiza-se ao nível do ensino público, mediante princípios normativos contido em diploma próprio.
-
-https://kiosk.incv.cv
 
 #### Artigo 66.º
 
@@ -1719,7 +1691,7 @@ Os direitos, regalias e deveres dos trabalhadores estudantes, bem como as respet
 - Ao pessoal docente dos estabelecimentos públicos de ensino superior poderá aplicar-se o regime jurídico geral das relações de trabalho, caso assim for estipulado no respetivo Estatuto.
 
 2 618000 012227
-
+https://kiosk.incv.cv
 367221B6-E4AA-42D9-8C78-AFE62A8C9196
 
 [[END OF PAGE 18]]
@@ -1728,7 +1700,7 @@ Os direitos, regalias e deveres dos trabalhadores estudantes, bem como as respet
 
 Documento descarregado pelo utilizador Maria do Livramento (10.73.103.254) em 14-12-2018 15:56:59. © Todos os direitos reservados. A cópia ou distribuição não autorizada é proibida.
 
-I  SÉRIE - N O   80  «B. O.»  DA REPÚBLICA DE CABO  VERDE  - 7   DE   DEZEMBRO  DE   2018 1951
+I SÉRIE — Nº 80 «B. O.» DA REPÚBLICA DE CABO VERDE — 7 DE DEZEMBRO DE 2018 1951
 
 ## Secção I
 
@@ -1775,8 +1747,6 @@ I  SÉRIE - N O   80  «B. O.»  DA REPÚBLICA DE CABO  VERDE  - 7   DE   DEZEMB
 - A formação dos docentes a que se refere o número anterior é fomentada mediante criação de condições para a frequência de cursos que confiram ou não graus académicos superiores, nos termos do presente diploma, devendo incluir, para além das componentes curriculares dos respetivos ciclos de estudos, conteúdos específicos das ciências da educação, das metodologias, da prática pedagógica e da investigação aplicada.
 
 - Compete à entidade de regulação a que se refere o número 2 do artigo 46.º a verificação dos requisitos e objetivos previstos nos números 1 e 2, com poderes para conceder ou denegar autorização a qualquer instituição de ensino organizada para ministrar a formação de docentes.
-
-https://kiosk.incv.cv
 
 #### Artigo 73.º
 
@@ -1833,7 +1803,7 @@ A formação de quadros no estrangeiro é objeto de adequado planeamento, a real
 - O sistema público de ensino deve ser considerado como uma prioridade da política nacional, na elaboração e aprovação do Orçamento Geral do Estado e do Plano Nacional de Desenvolvimento, caso houver.
 
 2 618000 012227
-
+https://kiosk.incv.cv
 367221B6-E4AA-42D9-8C78-AFE62A8C9196
 
 [[END OF PAGE 19]]
@@ -1842,7 +1812,7 @@ A formação de quadros no estrangeiro é objeto de adequado planeamento, a real
 
 Documento descarregado pelo utilizador Maria do Livramento (10.73.103.254) em 14-12-2018 15:56:59. © Todos os direitos reservados. A cópia ou distribuição não autorizada é proibida.
 
-1952	I    SÉRIE -  N O    80  «B. O.»  DA REPÚBLICA  DE  CABO  VERDE  - 7   DE   DEZEMBRO  DE   2018
+1952 I SÉRIE — Nº 80 «B. O.» DA REPÚBLICA DE CABO VERDE — 7 DE DEZEMBRO DE 2018
 
 - Os órgãos do poder local devem cooperar com o Governo na mobilização e disponibilização de recursos financeiros necessários ao sistema público de ensino.
 
@@ -1954,9 +1924,7 @@ https://kiosk.incv.cv
 
 Documento descarregado pelo utilizador Maria do Livramento (10.73.103.254) em 14-12-2018 15:56:59. © Todos os direitos reservados. A cópia ou distribuição não autorizada é proibida.
 
-1953
-
-I  SÉRIE - N O   80  «B. O.»  DA REPÚBLICA DE CABO  VERDE  - 7   DE   DEZEMBRO  DE   2018
+I SÉRIE — Nº 80 «B. O.» DA REPÚBLICA DE CABO VERDE — 7 DE DEZEMBRO DE 2018 1953
 
 - O ensino particular ou cooperativo rege-se por estatuto próprio que deve subordinar-se ao disposto no presente diploma.
 
@@ -1990,7 +1958,7 @@ O sistema educativo, no âmbito da formação profissional, nos subsistemas da e
 
 - a ) A gratuitidade e a obrigatoriedade do ensino;
 
-- b ) Diretivas e planos curriculares da educação préescolar, do ensino básico e do ensino secundário;
+- b ) Diretivas e planos curriculares da educação pré-escolar, do ensino básico e do ensino secundário;
 
 - c ) A gestão dos estabelecimentos de ensino básico;
 
@@ -1998,7 +1966,7 @@ O sistema educativo, no âmbito da formação profissional, nos subsistemas da e
 
 - e ) O novo estatuto do pessoal docente;
 
-- A instituição de um serviço competente para a regulação, acreditação e avaliação do ensino superior;
+- f ) A instituição de um serviço competente para a regulação, acreditação e avaliação do ensino superior;
 
 - g ) A revisão do Regime Jurídico do Ensino Superior.
 
@@ -2021,8 +1989,6 @@ Da aplicação do sistema educativo previsto no presente diploma não podem resu
 - Os cursos médios já concluídos ou a concluir nos termos dos números anteriores produzem os efeitos previstos na legislação vigente à data da entrada em vigor do presente diploma.
 
 - Os indivíduos habilitados com cursos médios podem ingressar no ensino superior nas mesmas condições que os titulares de curso do ensino secundário.
-
-https://kiosk.incv.cv
 
 #### Artigo 91.º
 
@@ -2075,7 +2041,7 @@ Referendado em 3 de maio de 2010
 O Primeiro-Ministro, José Maria Pereira Neves
 
 2 618000 012227
-
+https://kiosk.incv.cv
 367221B6-E4AA-42D9-8C78-AFE62A8C9196
 
 [[END OF PAGE 21]]
@@ -2084,7 +2050,7 @@ O Primeiro-Ministro, José Maria Pereira Neves
 
 Documento descarregado pelo utilizador Maria do Livramento (10.73.103.254) em 14-12-2018 15:56:59. © Todos os direitos reservados. A cópia ou distribuição não autorizada é proibida.
 
-1954	I    SÉRIE -  N O    80  «B. O.»  DA REPÚBLICA  DE  CABO  VERDE  - 7   DE   DEZEMBRO  DE   2018
+1954 I SÉRIE — Nº 80 «B. O.» DA REPÚBLICA DE CABO VERDE — 7 DE DEZEMBRO DE 2018
 
 # Resolução nº 123/2018
 
@@ -2116,13 +2082,13 @@ Nos termos do n.º 2 do artigo 165.º da Constituição, o Governo aprova a segu
 
 ##### Objeto
 
-É instituído o 'Dia Nacional dos Direitos Humanos' a ser comemorado, anualmente e em todo o território nacional, no dia 25 de setembro.
+É instituído o “Dia Nacional dos Direitos Humanos” a ser comemorado, anualmente e em todo o território nacional, no dia 25 de setembro.
 
 #### Artigo 2.º
 
 ##### Objetivos
 
-O 'Dia Nacional dos Direitos Humanos' tem como objetivos, entre outros:
+O “Dia Nacional dos Direitos Humanos” tem como objetivos, entre outros:
 
 - a ) Construir e reforçar a consciência cívica através de ações educativas, de sensibilização e reflexão sobre a problemática do Direitos Humanos em Cabo Verde;
 
