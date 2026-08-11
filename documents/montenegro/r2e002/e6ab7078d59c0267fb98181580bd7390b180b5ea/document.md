@@ -4,9 +4,9 @@
 
 Pursuant to article 88 item 2 of the Constitution of the  Republic of Montenegro I pronounce
 
-# ON PROMULGATING LAW ON CHANGES AND AMENDMENTS OF LAW
+# EDICT
 
-# EDICT ON PRIMARY EDUCATION
+# ON PROMULGATING LAW ON CHANGES AND AMENDMENTS OF LAW ON PRIMARY EDUCATION
 
 I promulgate the Law on Changes and Amendments of Law on Primary Education,  adopted  by  the  Constitutional  Assembly  of  the  Republic  of Montenegro, at the sixth meeting of the first regular session in 2007, on 25th July  2007.
 
@@ -114,7 +114,7 @@ In article 49 paragraph 1 after word »period« comma shall be inserted instead 
 
 In  article  50  after  paragraph  2  a  new  paragraph  3  shall  be  added;  it reads: »The  manner  of  calculating  the    average  of  positive  marks  shall  be
 
-- regulated closer by regulation of the Ministry«.
+regulated closer by regulation of the Ministry«.
 
 ## Article 16
 
@@ -134,13 +134,23 @@ Former paragraphs 2 and 3 shall become paragraphs 3 and 4.
 
 ## Article 19
 
-In article 76 paragraph 6 shall change and read: »The teaching process in the fifth grade shall be delivered by gradeteaching instructor, or  teacher  who  has  completed twoyears post-secondary school or the Faculty for Teacher Training, except for the instruction of foreign language,  engineering  and  informatics,  and  one  of  the  subjects:  physical education,  fine  art  and  musical  culture,  which  shall  be  executed  by  the subject-teaching lecturer«. Paragraph 7 shall change and read: »The  teaching  process  in  the  sixth  grade  shall  be  organized  as  the subject  teaching.  The  teaching  process  shall  be  delivered  by  the  subjectteaching lecturer who has completed the Faculty for Teacher Training or Art Academy«. After paragraph 7 a new paragraph 8 shall be added; it reads:
+In article 76 paragraph 6 shall change and read:
+
+»The teaching process in the fifth grade shall be delivered by grade-teaching instructor, or teacher who has completed twoyears post-secondary school or the Faculty for Teacher Training, except for the instruction of foreign
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-»Exceptionally to  paragraphs 5 and 6 of this article, teaching process in the fourth and fifth grade may be delivered by grade-teaching instructor, or teacher who has completed twoyears post-secondary education or Faculty for Teacher  Training,  if  no  subject-teaching  lecturers  have  applied  on  the advertisement«.
+language, engineering and informatics, and one of the subjects: physical education, fine art and musical culture, which shall be executed by the subject-teaching lecturer«.
+
+Paragraph 7 shall change and read:
+
+»The teaching process in the sixth grade shall be organized as the subject teaching. The teaching process shall be delivered by the subject-teaching lecturer who has completed the Faculty for Teacher Training or Art Academy«.
+
+After paragraph 7 a new paragraph 8 shall be added; it reads:
+
+»Exceptionally to paragraphs 5 and 6 of this article, teaching process in the fourth and fifth grade may be delivered by grade-teaching instructor, or teacher who has completed twoyears post-secondary education or Faculty for Teacher Training, if no subject-teaching lecturers have applied on the advertisement«.
 
 ## Article 20
 
