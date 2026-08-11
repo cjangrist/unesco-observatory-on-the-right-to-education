@@ -116,11 +116,11 @@ its operation fails to fulfil the requirements and obligations referred to in su
 
 ##### Section 11a. Professional specialisation programmes (Amendment 1173/2014)
 
-- Professional specialisation programmes offered by universities of applied sciences are studies intended to be completed after a higher education degree and designed for degree holders in order to promote their professional development and specialisation. They are intended to generate competence in areas of expertise for which no marketbased provision of education is available.
+- Professional specialisation programmes offered by universities of applied sciences are studies intended to be completed after a higher education degree and designed for degree holders in order to promote their professional development and specialisation. They are intended to generate competence in areas of expertise for which no market-based provision of education is available.
 
 - Provisions on the joint objectives and minimum scope of professional specialisation programmes are issued by government decree. Studies offered by universities of applied sciences in the form of business activities under section 5(3) are not provided as professional specialisation programmes.
 
-- Only studies for which the study requirements have been agreed upon in interuniversity of applied sciences cooperation can be provided as professional specialisation programmes. Cooperation with representatives of business and industry must be carried out during the agreement procedure. Further provisions on agreements on professional specialisation programmes, the content of the agreements and the provision of the programmes are issued by government decree.
+- Only studies for which the study requirements have been agreed upon in inter-university of applied sciences cooperation can be provided as professional specialisation programmes. Cooperation with representatives of business and industry must be carried out during the agreement procedure. Further provisions on agreements on professional specialisation programmes, the content of the agreements and the provision of the programmes are issued by government decree.
 
 - A public register is maintained of agreements on professional specialisation programmes. Further provisions on the public register and information to be included in it are issued by government decree.
 
@@ -140,7 +140,7 @@ its operation fails to fulfil the requirements and obligations referred to in su
 
 - A university of applied sciences may arrange degree studies which are geared to a group of students and which have been commissioned and paid for by the Finnish State, another state, an international organisation, a Finnish or foreign public corporation, a foundation or a private corporation ( commissioned education ).
 
-- Commissioned education may not be arranged for citizens of states belonging to the European Economic Area or for persons or their family members who are deemed comparable to European Union citizens under European Union treaties or under a treaty concluded by the European Union and its Member States with another contracting party. Nor may commissioned education be arranged for persons who, under the Aliens Act (301/2004), have a European Union Blue Card, a continuous or a permanent residence permit or a long-term resident's European Union residence permit issued to third-country nationals, nor for any family members of the above. The Aliens Act is applied in the definition of persons regarded as family members. Persons participating in commissioned education are governed by sections 25-27, 3340 and 57-61 of this Act.
+- Commissioned education may not be arranged for citizens of states belonging to the European Economic Area or for persons or their family members who are deemed comparable to European Union citizens under European Union treaties or under a treaty concluded by the European Union and its Member States with another contracting party. Nor may commissioned education be arranged for persons who, under the Aliens Act (301/2004), have a European Union Blue Card, a continuous or a permanent residence permit or a long-term resident's European Union residence permit issued to third-country nationals, nor for any family members of the above. The Aliens Act is applied in the definition of persons regarded as family members. Persons participating in commissioned education are governed by sections 25-27, 33-40 and 57-61 of this Act.
 
 - Tuition provided in the form of commissioned education must relate to a field of education specified in the operating licence of the university of applied sciences. The arrangement of commissioned education may not undermine the undergraduate and graduate education provided by the university of applied sciences. The university of applied sciences must charge a fee for commissioned education covering at least the costs incurring from it. The party who commissions the education is entitled to charge participating students fees in accordance with the legal provisions or other practices in the country where the education is offered.
 
@@ -300,7 +300,7 @@ The language of administration of a university of applied sciences is the same a
 
 [[START OF PAGE 10]]
 
-- start. In Crafts and Design, Media and Visual Arts, Theatre and Dance, and Music the requirement may be artistic activity of corresponding duration instead of work experience. An acceptable requirement for holders of an upper secondary or a postsecondary qualification awarded by a vocational college who have subsequently studied for an applicable university or university of applied sciences degree may also be work experience acquired before the completion of the higher education degree.
+- start. In Crafts and Design, Media and Visual Arts, Theatre and Dance, and Music the requirement may be artistic activity of corresponding duration instead of work experience. An acceptable requirement for holders of an upper secondary or a post-secondary qualification awarded by a vocational college who have subsequently studied for an applicable university or university of applied sciences degree may also be work experience acquired before the completion of the higher education degree.
 
 - Eligible applicants for professional teacher education have such education and work experience that is required for working as a teacher in a university of applied sciences or in vocational education and training.
 
@@ -404,7 +404,7 @@ applicant categories to gain admission in terms of equitable treatment of all ap
 
 - Students are considered to have begun their degree studies as of the date they accepted a student place at a university of applied sciences.
 
-- A transfer student's right to complete degree studies is determined on the basis of the degree for which the student was given the right to complete a degree with the transfer. The time that the student, whether registered for attendance or nonattendance, has spent pursuing the studies on which the transfer is based is counted towards the normative duration of studies.
+- A transfer student's right to complete degree studies is determined on the basis of the degree for which the student was given the right to complete a degree with the transfer. The time that the student, whether registered for attendance or non-attendance, has spent pursuing the studies on which the transfer is based is counted towards the normative duration of studies.
 
 ##### Section 30a. Extension of the right to study (Amendment 325/2015)
 
@@ -785,7 +785,7 @@ Unless otherwise provided elsewhere by law, an appeal against an administrative 
 
 - a person responsible for student healthcare for the purpose of ensuring the student's health and safety and guiding the student to the necessary support measures;
 
-) a person responsible for practical training for the purpose of ensuring the safety of the student and the safety of staff and customers at the place of training; and
+- a person responsible for practical training for the purpose of ensuring the safety of the student and the safety of staff and customers at the place of training; and
 
 - the police and a representative of the university of applied sciences who is primarily responsible for investigating threats to security for the purpose of assessing if there is an immediate threat to safety or if the student's state of health endangers the safety of others involved in the assessment.
 
@@ -829,12 +829,12 @@ Unless otherwise provided elsewhere by law, an appeal against an administrative 
 
 [[START OF PAGE 26]]
 
-- Universities of applied sciences applying for the transfer of an operating licence or for an operating licence must ensure that the universities of applied sciences under this Act are capable of being organised and commence full operations as universities of applied sciences under this Act on 1 January 2015.
+10. Universities of applied sciences applying for the transfer of an operating licence or for an operating licence must ensure that the universities of applied sciences under this Act are capable of being organised and commence full operations as universities of applied sciences under this Act on 1 January 2015.
 
-- Provisions in section 43 notwithstanding, restrictions on the number of students and unit prices under the funding system of 2014 shall be taken into account in the transitional period from 2015 to 2016 through funding instalments calculated individually for each university of applied sciences.
+11. Provisions in section 43 notwithstanding, restrictions on the number of students and unit prices under the funding system of 2014 shall be taken into account in the transitional period from 2015 to 2016 through funding instalments calculated individually for each university of applied sciences.
 
-- Upon application, the Ministry of Education and Culture shall, for years 2015 and 2016, grant universities of applied sciences funding to cover the value added taxes referred to in section 30 of the Value Added Tax Act.
+12. Upon application, the Ministry of Education and Culture shall, for years 2015 and 2016, grant universities of applied sciences funding to cover the value added taxes referred to in section 30 of the Value Added Tax Act.
 
-- In 2016, the Ministry of Education and Culture shall compensate upon application the increases in unit price that universities of applied sciences have been entitled to under section 32(2) of the Act on the Financing of Educational and Cultural Provision (1705/2009).
+13. In 2016, the Ministry of Education and Culture shall compensate upon application the increases in unit price that universities of applied sciences have been entitled to under section 32(2) of the Act on the Financing of Educational and Cultural Provision (1705/2009).
 
 [[END OF PAGE 26]]
