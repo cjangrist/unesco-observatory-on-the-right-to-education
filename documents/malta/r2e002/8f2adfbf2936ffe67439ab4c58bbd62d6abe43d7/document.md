@@ -2,6 +2,9 @@
 
 # A STRATEGIC PLAN FOR THE PREVENTION OF EARLY SCHOOL LEAVING IN MALTA
 
+2014
+
+MINISTRY FOR EDUCATION AND EMPLOYMENT
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
@@ -26,6 +29,83 @@ Evarist Bartolo Minister for Education and Employment
 
 ## INDEX
 
+The context of ESL 5
+
+1.1 What is ESL? 7
+1.2 ESL in Malta 7
+1.3 Addressing ESL in the EU 8
+1.4 Addressing ESL in Malta 9
+1.5 Guiding Principles 9
+
+2. Meeting the challenge of Early School Leaving: cross sectoral cooperation and monitoring 11
+
+2.1 Setting up an Inter-Ministerial Committee 13
+2.2 Setting up an ESL Unit 14
+2.3 Setting up an ESL working group within MEDE 15
+2.4 Constructing a comprehensive data collection framework 17
+
+3. Meeting the challenge of Early School Leaving: preventive measures 19
+
+A. Early childhood education and care 21
+
+3.1 Providing free childcare 21
+
+B. Making schools relevant and meaningful for every student 21
+
+3.2 Educating for and through diversity 21
+3.3 Meeting the needs of high achievers 22
+3.4 Setting up middle schools: making caring community schools possible 23
+
+C. Supporting children at risk through innovative teaching and learning tools and through school and community based solutions 24
+
+3.5 Developing e-Learning content to better respond to student learning needs 24
+3.6 Tapping mobile technology for more student engagement 24
+3.7 Funding for a School based approach to reducing ESL 25
+
+D. Reintroducing vocational education in the secondary schools as an alternative learning pathway 26
+
+3.8 Introducing a well structured vocational education pathway in Maltese secondary schools 26
+
+E. Transition processes, flexible pathways and career guidance 28
+
+3.9 Strengthening the transition process across educational pathways 28
+3.10 Review and consolidate the career guidance service across levels 29
+3.11 Honing the potential of the Secondary School Certificate and Profile 30
+
+F. Parents, not any more the silent partner 30
+
+3.12 Harnessing and strengthening parental support to combat ESL 31
+
+G. Combating ESL through teacher training 31
+
+3.13 Supporting teachers to address the ESL challenge 31
+
+4. Meeting the challenge of Early School Leaving: intervention measures 33
+
+A. Early warning systems 35
+
+4.1 Developing early warning systems and enabling timely action 35
+
+B. Support networks for students at risk 36
+
+4.2 Consolidating support networks around students at risk 36
+4.3 Harnessing Youth Workers’ support for older students 37
+4.4 Empowering students with social, emotional and behavioural difficulties 37
+4.5 Supporting teenage mothers to stay in education and training 38
+4.6 Supporting students and parents through after-school support programmes 39
+4.7 Supporting students at risk in the secondary school 39
+
+5. Meeting the challenge of Early School Leaving: compensation measures 43
+
+A. Reintegration programmes at further education levels 45
+
+5.1 Striking strategic partnerships for an effective second chance education for students at risk 45
+5.2 Providing quality second chance education for persons with a disability for better life chances 47
+5.3 Implementing the Youth Guarantee Scheme to reach out to young people at risk 48
+
+6. Measuring the success of the implementation of this strategic plan for the prevention of ESL in Malta: the strategy at a glance 53
+
+7. Glossary 57
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
@@ -56,7 +136,7 @@ The European Union (EU) has set five targets to be reached by 2020.  One of thes
 
 ### 1.1 What is ESL?
 
-The EU defines early school leavers as those 'young people leaving education and training with no more than lower secondary education.'   1    Early school leavers are those who will have limited life chances, will be channelled towards dead-end jobs if any, are more prone to join the working or non-working poor and are at risk of social exclusion.  Early school leavers are thus those who will be less likely to fulfil their potential as human beings, as active citizens and as principal actors in the labour market.
+The EU defines early school leavers as those “young people leaving education and training with no more than lower secondary education.” 1 Early school leavers are those who will have limited life chances, will be channelled towards dead-end jobs if any, are more prone to join the working or non-working poor and are at risk of social exclusion. Early school leavers are thus those who will be less likely to fulfil their potential as human beings, as active citizens and as principal actors in the labour market.
 
 ### 1.2 ESL in Malta
 
@@ -77,7 +157,7 @@ Total Further (Vocational) | 6,454 | 23%
 
 Despite the progress Malta has made to increase the number of students in further and higher education, data for 2013 shows that only about half the students in form 5 in May of that year managed to get a pass (grade 5 or better) in Maths, Maltese, English and Physics.  Other worrying statistics show that in state schools, 23.9% of those sitting for SEC exams in May 2013 did not get a grade from 1 to 5 in any subject they sat for.
 
-> 1 Education,  Audiovisual  and  Culture  Executive  Agency  (2013) Education and Training  in  Europe  2020.   Responses  from  the  EU  Member States.  Eurydice Report. Available from: http:/ /eacea.ec.europa.eu/education/eurydice/documents/thematic_reports/163EN.pdf. (Accessed: 20.03.2014). p.17.
+> 1 Education, Audiovisual and Culture Executive Agency (2013) Education and Training in Europe 2020. Responses from the EU Member States. Eurydice Report. Available from: http://eacea.ec.europa.eu/education/eurydice/documents/thematic_reports/163EN.pdf. (Accessed: 20.03.2014). p.17.
 
 > 2  	Ministry of Education and Employment (2012) An Early School Leaving Strategy for Malta. Malta: Office of the Permanent Secretary, Ministry of Education and Employment. p.77
 
@@ -85,7 +165,7 @@ Despite the progress Malta has made to increase the number of students in furthe
 
 > 4  	Ibid., p.78
 
-> 5  	European Commission (2013) Reducing early school leaving: Key messages and policy support.  Final Report of the Thematic Working Group on Early School Leaving November 2013. Available from: http:/ /ec.europa.eu/education/policy/strategic-framework/doc/esl-group-report_ en.pdf. (Accessed: 20.03.2014), p.32. See also information from Eurostat for 2013.  Available from: http:/ /appsso.eurostat.ec.europa.eu/nui/ show.do?dataset=edat_lfse_14&lang=en. (Accessed: 09.05.2014)
+> 5 European Commission (2013) Reducing early school leaving: Key messages and policy support. Final Report of the Thematic Working Group on Early School Leaving November 2013. Available from: http://ec.europa.eu/education/policy/strategic-framework/doc/esl-group-report_en.pdf. (Accessed: 20.03.2014), p.32. See also information from Eurostat for 2013. Available from: http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=edat_lfse_14&lang=en. (Accessed: 09.05.2014)
 
 > 6  	National Commission for Further and Higher Education (2013) NCFHE Further and Higher Education Statistics 2012.  Report of the Survey held by the National Commission for Further and Higher Education October 2013. Malta: NCFHE. p.16-19
 
@@ -122,7 +202,7 @@ Figure 2: Framework with regard to the Design of Strategies directed to Tackle E
 
 > 7 Data provided by the Office of the Permanent Secretary, MEDE, March 2014.
 
-> 8 European Commission (2011) Commission Staff Working Paper, Reducing Early School Leaving:  Accompanying  Document to  the  Proposal for  a Council Recommendation on Policies to Reduce Early School Leaving. SEC (2011) 96 final. Available from:  http:/ /eur-lex.europa.eu/ LexUriServ/LexUriServ.do?uri=SEC:2011:0096:FIN:EN:PDF. (Accessed on: 20.03.2013)
+> 8 European Commission (2011) Commission Staff Working Paper, Reducing Early School Leaving: Accompanying Document to the Proposal for a Council Recommendation on Policies to Reduce Early School Leaving. SEC (2011) 96 final. Available from: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=SEC:2011:0096:FIN:EN:PDF. (Accessed on: 20.03.2013)
 
 > 9 Ibid., p.13
 
@@ -186,7 +266,7 @@ The document A Strategic Plan Towards Preventing Early School Leaving in Malta e
 
 This document recommends the following policy principles which should guide Malta's strategic response to ESL:
 
-- ESL concerns Maltese society in general.  Facing up to ESL concerns schools, parents and communities, and has to be tackled through a strategic alliance between policy makers, educators, employers, trade unions and civil society, with a view to develop educational solutions that are relevant to students in today's socioeconomic realities, stretched as they are in a local-global tension that oscillates between local communities, the Nation State, the EU, and the wider world;
+- ESL concerns Maltese society in general. Facing up to ESL concerns schools, parents and communities, and has to be tackled through a strategic alliance between policy makers, educators, employers, trade unions and civil society, with a view to develop educational solutions that are relevant to students in today's socio-economic realities, stretched as they are in a local-global tension that oscillates between local communities, the Nation State, the EU, and the wider world;
 
 - the concept of the school as an institution should be revisited.  Schools are not enclosed citadels but an important stakeholder within civil society. They need to reach out and build bridges with communities in order to look for solutions to ESL that respond to student diversity and learning needs;
 
@@ -234,7 +314,7 @@ This document recommends the following policy principles which should guide Malt
 
 Tackling ESL entails a sustained long-term effort that brings together all the stakeholders, from policy makers to school administrators, teachers, parents, trade unions, employers, as well as researchers. Actions need also to be informed by continuous research that informs policy by giving feedback on implementation processes.
 
-### 2.l Setting up an Inter-Ministerial Committee
+### 2.1 Setting up an Inter-Ministerial Committee
 
 Early School Leaving is a horizontal issue that cuts across the remit of various Ministries.  For this reason this strategic plan suggests a comprehensive, wide ranging but also cohesive approach towards tackling the issue of ESL in Malta. Working across structural and organisation borders and parameters in a concerted way will insure a wide scope of action that is at the same time focused on obtaining concrete results.
 
@@ -358,13 +438,15 @@ This strategic plan strongly suggests that MEDE should seek to complement the wo
 
 - constructing a robust data collection framework that conforms to methodological standards set by NSO and Eurostat, for the on-going collation of key data sets within the education sector.
 
-A  collaborative,  inter-ministerial  approach  to  the  collection  and  sharing  of  data  would  make  this  research framework more comprehensive and effective. It would inform future policy  making  and  implementation  at national, college or school level. It would entail an on-going process of monitoring for progress and effectiveness. It would also lay the basis for a better collaborative and more focused approach towards reducing ESL at both the national and the local level. Thus, in line with the Framework for the Education Strategy For Malta 2014-2024, this strategic plan suggests the setting up of a comprehensive data system that would include the following important information about students:
+A collaborative, inter-ministerial approach to the collection and sharing of data would make this research framework more comprehensive and effective. It would inform future policy making and implementation at
 
 17
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
+
+national, college or school level. It would entail an on-going process of monitoring for progress and effectiveness. It would also lay the basis for a better collaborative and more focused approach towards reducing ESL at both the national and the local level. Thus, in line with the Framework for the Education Strategy For Malta 2014-2024, this strategic plan suggests the setting up of a comprehensive data system that would include the following important information about students:
 
 - gender and nationality;
 
@@ -442,15 +524,17 @@ To avert ESL, schools need to see that nobody falls by the wayside and that scho
 
 #### 3.2 Educating for and through diversity
 
-Maltese schools are becoming more heterogeneous than ever before in terms of country of origin, language, culture and religion.  Foreign students are becoming always more frequent in schools and colleges.  The National Curriculum Framework (NCF) embraces the principles of diversity and inclusion. It states that the principle of diversity 'encompasses that an individual is unique and recognises individual differences whether these stem from dimensions of race; ethnicity; gender; sexual orientation; socio-economic status; age; physical, mental or intellectual  abilities;  religious  beliefs;  political  beliefs;  or  other  ideologies.'  12     With  regards  to  students  from migrant families, all these aspects of diversity are closely intertwined in what may be a very complex socioeconomic situation that oscillates from total social inclusion to total exclusion.
+Maltese schools are becoming more heterogeneous than ever before in terms of country of origin, language, culture and religion. Foreign students are becoming always more frequent in schools and colleges. The National
 
-> 11  	See for example European Commission (2013) Reducing early school leaving: Key messages and policy support.  Final Report of the Thematic Working Group on Early School Leaving November 2013. Available from: http:/ /ec.europa.eu/education/policy/strategic-framework/doc/eslgroup-report_en.pdf. (Accessed: 20.03.2014). p.18
+> 11 See for example European Commission (2013) Reducing early school leaving: Key messages and policy support. Final Report of the Thematic Working Group on Early School Leaving November 2013. Available from: http://ec.europa.eu/education/policy/strategic-framework/doc/esl-group-report_en.pdf. (Accessed: 20.03.2014). p.18
 
 21
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
+
+Curriculum Framework (NCF) embraces the principles of diversity and inclusion. It states that the principle of diversity “encompasses that an individual is unique and recognises individual differences whether these stem from dimensions of race; ethnicity; gender; sexual orientation; socio-economic status; age; physical, mental or intellectual abilities; religious beliefs; political beliefs; or other ideologies.” 12 With regards to students from migrant families, all these aspects of diversity are closely intertwined in what may be a very complex socio-economic situation that oscillates from total social inclusion to total exclusion.
 
 This strategic plan strongly suggests that schools recognise this reality and address it through their ten-year, school based plans, as part of the Framework For The Education Strategy For Malta 2014-2024 by adopting a number of intervention measures including:
 
@@ -496,7 +580,7 @@ Research shows that schools with large populations do not provide an ideal educa
 
 In the past decade the Maltese Government has invested a lot in state-of-the-art secondary schools that have also resulted, however, in secondary school populations that run into hundreds.  In September 2014 MEDE will be introducing middle schools for forms 1 and 2 of the secondary school, while forms 3, 4 and 5 (the last three years of the compulsory school) will have separate buildings and administrations. The aim of this reform is to avoid problems usually related to large schools such as bullying of older students on younger students, the impersonal relationships in large groups, and the problems related to students passing through the turbulent mid-adolescent years. Smaller middle schools will prevent early school leaving by creating smaller and safer school communities that  are  more  conducive  to  learning,  where  student-teacher  and  student-student  relationships  are  easier  to forge, and teachers can give more individual attention to students.
 
-In  view  of  this  reform  this  strategic  plan  suggests  that  MEDE  monitors  the  phasing  in  of  middle  schools  in September 2014 in order to see that schools exploit the smaller size of the school and the smaller teacherstudent ratio in a way that:
+In view of this reform this strategic plan suggests that MEDE monitors the phasing in of middle schools in September 2014 in order to see that schools exploit the smaller size of the school and the smaller teacher-student ratio in a way that:
 
 - the individual needs of the students are met and that ever less students feel left out or incapable of engaging with school life;
 
@@ -512,7 +596,7 @@ In  view  of  this  reform  this  strategic  plan  suggests  that  MEDE  monitor
 
 This strategic plan recommends that MEDE monitors the phasing in of middle schools in the secondary school cycle to ensure that smaller sized school communities result in more caring and more responsive schools that find strength in better student-teacher relationships and better parent involvement in their children's education with a view to preventing the possibility of students becoming disengaged or feeling left out.
 
-> 13    See  for  example:  http:/ /www.communityworksinstitute.org/cwjonline/essays/a_essaystext/grauer_smallsch1.html#sthash.rLgorLgo.dpuf. (Accessed: 20.03.2014).
+> 13 See for example: http://www.communityworksinstitute.org/cwjonline/essays/a_essaystext/grauer_smallsch1.html#sthash.rLgorLgo.dpuf. (Accessed: 20.03.2014).
 
 23
 
@@ -544,7 +628,7 @@ This strategic plan recommends that investment in e-Learning infrastructure is c
 
 #### 3.6 Tapping mobile technology for more student engagement
 
-In line with the NCF students will be given the opportunity to follow individual learning pathways to ensure that each child develops his or her full learning potential. In a classroom environment that is becoming always more characterised by diversity of ability, attitudes, and socio-cultural and economic backgrounds, new teaching and learning tools need to be tapped.  In this regard MEDE is considering tablet computing devices as a technological tool worth assessing in terms of their capabilities of increasing access to learning and of achieving a one-toone teacher-student relationship.  A One Tablet Per Child initiative is being piloted in order to evaluate the best solution for anywhere-anytime learning for the primary school classroom. The piloting team is also focusing on how this new technology can contribute to reaching the aims of the National Literacy Strategy.
+In line with the NCF students will be given the opportunity to follow individual learning pathways to ensure that each child develops his or her full learning potential. In a classroom environment that is becoming always more characterised by diversity of ability, attitudes, and socio-cultural and economic backgrounds, new teaching and learning tools need to be tapped. In this regard MEDE is considering tablet computing devices as a technological tool worth assessing in terms of their capabilities of increasing access to learning and of achieving a one-to-one teacher-student relationship. A One Tablet Per Child initiative is being piloted in order to evaluate the best solution for anywhere-anytime learning for the primary school classroom. The piloting team is also focusing on how this new technology can contribute to reaching the aims of the National Literacy Strategy.
 
 In  April  2014  the  use of different  kinds of  tablets will  be  piloted  in  a  number of year  4 classrooms  through teacher training and mentoring. In September 2014 the tablets will be used as teaching and learning tools in the classrooms involved in the pilot study. At the end of the scholastic year 2014-2015 the characteristics of an ideal prototype will be laid out by the piloting team and a programme for a national roll-out through a public private partnership will be put in place.
 
@@ -610,7 +694,7 @@ At a wider level MEDE will also be cooperating with CEDEFOP to address the chall
 
 > 15  Ministry of Education and Employment (2012) A National Curriculum Framework for All. Malta: Ministry of Education and Employment. p.40-41
 
-> 16  European Commission (2011) Commission Staff Working Paper.  Reducing early school leaving. Accompanying document to the Proposal for a Council recommendation on policies to reduce early school leaving. {COM (2011) 19}. Available from:  http:/ /eur-lex.europa.eu/LexUriServ/ LexUriServ.do?uri=SEC:2011:0096:FIN:EN:PDF. (Accessed on: 20.03.2013)
+> 16  European Commission (2011) Commission Staff Working Paper.  Reducing early school leaving. Accompanying document to the Proposal for a Council recommendation on policies to reduce early school leaving. {COM (2011) 19}. Available from:  http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=SEC:2011:0096:FIN:EN:PDF. (Accessed on: 20.03.2013)
 
 26
 
@@ -630,7 +714,7 @@ The main objectives of the study on apprenticeships would be to carry out in-dep
 
 In view of this, this strategic plan recommends that:
 
-- the MQF level 3 home-grown alternatives to the BTEC courses are piloted together with the new homegrown qualification in Agribusiness and Animal Husbandry in the initial 10 schools as well as in the new school that will host the new VET course;
+- the MQF level 3 home-grown alternatives to the BTEC courses are piloted together with the new home-grown qualification in Agribusiness and Animal Husbandry in the initial 10 schools as well as in the new school that will host the new VET course;
 
 - the implementation of the home-grown courses is monitored, and the teaching, learning and assessment processes are reviewed for effectiveness in addressing students' needs and aspirations;
 
@@ -680,7 +764,7 @@ One of the aims of introducing the state school colleges system was to ease tran
 
 This strategic plan recommends that the proposed ESLWG facilitates discussion and cooperation between stakeholders to assess and strengthen the transition programmes in place today in order to support students as they move from one cycle of education to the other, from early years to further and higher education.
 
-> 17   Education, Audiovisual and Cultural Executive Agency (2013) Education and Training in Europe 2020.  Responses from the EU Member States.  Eurydice Report. Available from: http:/ /eacea.ec.europa.eu/education/eurydice/documents/thematic_reports/163EN.pdf. (Accessed: 20.03.2014). p.25
+> 17   Education, Audiovisual and Cultural Executive Agency (2013) Education and Training in Europe 2020.  Responses from the EU Member States.  Eurydice Report. Available from: http://eacea.ec.europa.eu/education/eurydice/documents/thematic_reports/163EN.pdf. (Accessed: 20.03.2014). p.25
 
 > 18  Ministry of Education, Youth and Employment (2005) For All Children To Succeed.  A New Network Organisation For Quality Education in Malta. Malta: Ministry of Education, Youth and Employment.  p.25-26
 
@@ -736,7 +820,7 @@ This strategic plan suggests that the effectiveness of the mechanism that suppor
 
 ##### Strategic Action 3.11  Honing the potential of the Secondary School Certificate and Profile
 
-This strategic plan supports the introduction of the SSCP for the accreditation of formal, informal and nonformal learning of students in compulsory schooling. This mechanism is to be monitored for effectiveness to ensure that it becomes a tool for potential early school leavers to enter further and higher education pathways in order to have better life chances.
+This strategic plan supports the introduction of the SSCP for the accreditation of formal, informal and non-formal learning of students in compulsory schooling. This mechanism is to be monitored for effectiveness to ensure that it becomes a tool for potential early school leavers to enter further and higher education pathways in order to have better life chances.
 
 ### F.  Parents, not any more the silent partner
 
@@ -750,7 +834,7 @@ The document Reducing early school leaving: Key messages and policy support. Fin
 
 [[START OF PAGE 31]]
 
-'important for gaining recognition, demonstrating and celebrating achievements, raising self-esteem and selfrespect.'  20
+'important for gaining recognition, demonstrating and celebrating achievements, raising self-esteem and self-respect.'  20
 
 #### 3.12 Harnessing and strengthening parental support to combat ESL
 
@@ -772,19 +856,21 @@ The document Reducing early school leaving: Key messages and policy support. Fin
 
 #### 3.13 Supporting teachers to address the ESL challenge
 
-In recent years a lot of reforms have been going on within the education sector in Malta. Some major changes relate to the removal of streaming, the introduction of the benchmarking examination, and the phasing in of e-Learning infrastructure, e-Learning tools and e-Content. For various reasons Maltese schools have become increasingly  mixed  ability,  multi-cultural  communities.  Social  problems  and  poverty  have  also  become  more accentuated in more areas across the Maltese islands and are not contained phenomena anymore.
+In recent years a lot of reforms have been going on within the education sector in Malta. Some major changes relate to the removal of streaming, the introduction of the benchmarking examination, and the phasing in of
 
-> 20 European Commission (2013) Reducing early school leaving: Key messages and policy support.  Final Report of the Thematic Working Group on Early School Leaving November 2013. Available from: http:/ /ec.europa.eu/education/policy/strategic-framework/doc/esl-group-report_ en.pdf. (Accessed: 20.03.2014). p.22
+> 20 European Commission (2013) Reducing early school leaving: Key messages and policy support.  Final Report of the Thematic Working Group on Early School Leaving November 2013. Available from: http://ec.europa.eu/education/policy/strategic-framework/doc/esl-group-report_en.pdf. (Accessed: 20.03.2014). p.22
 
 > 21  Ministry of Education (1999) Creating the Future Together.  National Minimum Curriculum .  Malta: Ministry of Education. p.44-45
 
-> 22 European Commission (2013) Reducing early school leaving: Key messages and policy support.  Final Report of the Thematic Working Group on Early School Leaving November 2013. Available from: http:/ /ec.europa.eu/education/policy/strategic-framework/doc/esl-group-report_ en.pdf. (Accessed: 20.03.2014). p.22
+> 22 European Commission (2013) Reducing early school leaving: Key messages and policy support.  Final Report of the Thematic Working Group on Early School Leaving November 2013. Available from: http://ec.europa.eu/education/policy/strategic-framework/doc/esl-group-report_en.pdf. (Accessed: 20.03.2014). p.22
 
 31
 
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
+
+e-Learning infrastructure, e-Learning tools and e-Content. For various reasons Maltese schools have become increasingly mixed ability, multi-cultural communities. Social problems and poverty have also become more accentuated in more areas across the Maltese islands and are not contained phenomena anymore.
 
 It is more urgent than ever before that teachers are equipped and given the necessary support to address the individual needs of their students and thus actively giving their share to reduce ESL. Teachers with the necessary competences with regards to student centred, inquiry based learning will make inclusive classrooms a success for an ever wider number of students. This is vital in classroom environments populated by students with different abilities and learning needs, high and low achievers, students with a disability, students from different cultural, racial and ethnic groups, and the whole array of students that make every school such a diverse community.
 
@@ -840,9 +926,9 @@ This strategic plan strongly suggests that:
 
 - the E1 platform is extended to church and independent schools so that the phenomenon of ESL in these schools can be monitored and addressed;
 
-> 23 European Commission (2011) Commission Staff Working Paper.  Reducing early school leaving. Accompanying document to the Proposal for a Council recommendation on policies to reduce early school leaving.  SEC (2011) 96 final. Available from:  http:/ /eur-lex.europa.eu/LexUriServ/ LexUriServ.do?uri=SEC:2011:0096:FIN:EN:PDF. (Accessed on: 20.03.2013). p.25
+> 23 European Commission (2011) Commission Staff Working Paper.  Reducing early school leaving. Accompanying document to the Proposal for a Council recommendation on policies to reduce early school leaving.  SEC (2011) 96 final. Available from:  http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=SEC:2011:0096:FIN:EN:PDF. (Accessed on: 20.03.2013). p.25
 
-> 24	European Commission (2013) Reducing early school leaving: Key messages and policy support.  Final Report of the Thematic Working Group on Early School Leaving November 2013. Available from: http:/ /ec.europa.eu/education/policy/strategic-framework/doc/esl-group-report_ en.pdf. (Accessed: 20.03.2014). p.21
+> 24	European Commission (2013) Reducing early school leaving: Key messages and policy support.  Final Report of the Thematic Working Group on Early School Leaving November 2013. Available from: http://ec.europa.eu/education/policy/strategic-framework/doc/esl-group-report_en.pdf. (Accessed: 20.03.2014). p.21
 
 35
 
@@ -850,7 +936,7 @@ This strategic plan strongly suggests that:
 
 [[START OF PAGE 36]]
 
-- every school has access to psychosocial professionals that can help to address absenteeism through multidisciplinary teams that support the child, the family and the school staff;
+- every school has access to psychosocial professionals that can help to address absenteeism through multi-disciplinary teams that support the child, the family and the school staff;
 
 - a structured system of community based action is developed whereby psychosocial support services from other agencies outside MEDE, especially those present in the community such as at AĊĊESS centres, work in close cooperation with MEDE staff to support the child and his or her family whenever situations leading to absenteeism occur in the child's life;
 
@@ -878,13 +964,15 @@ This  strategic  policy  acknowledges  the  fact  that  youth  workers,  social 
 
 - adopt systematic, outcome-based services with an integrated evaluation process that aim at early identification of students at risk, timely concerted action, effective support to child and family, and the drafting, implementing and monitoring of support programmes for children and their families.
 
-This strategic plan also entices schools to build better links with the surrounding communities in order to bring the communities into the schools and take the schools out into the community. This will lead to better mutual relationships between schools and families and will also contribute towards the mutual consolidation of formal and informal support networks that nurture student wellbeing, especially for students at risk. In this manner, a collaborative holistic approach will aim to promote self-confidence and self-esteem, develop life and problem solving skills, practise social skills, link the student to appropriate community services, and ultimately facilitate the student's engagement in education and training.
+This strategic plan also entices schools to build better links with the surrounding communities in order to bring the communities into the schools and take the schools out into the community. This will lead to better mutual relationships between schools and families and will also contribute towards the mutual consolidation of formal and informal support networks that nurture student wellbeing, especially for students at risk. In this manner, a collaborative holistic approach will aim to promote self-confidence and self-esteem, develop life and problem
 
 36
 
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
+
+solving skills, practise social skills, link the student to appropriate community services, and ultimately facilitate the student's engagement in education and training.
 
 ##### Strategic Action 4.2  Consolidating support networks around students at risk
 
@@ -974,13 +1062,15 @@ The Gozo College Boys' Secondary School has opted to implement a variation of th
 
 Similarly, St Ignatius College Handaq Boys' Secondary School has opted to design an in-house, tailor made, CCP for form 3 students at risk of becoming early school leavers, with a core curriculum that is complemented by a programme of vocational courses that are in the process of obtaining MQF Level 1 accreditation by NCFHE. The teachers running this programme have been recruited in-house on a voluntary basis.
 
-An emergency intervention measure has also been taken in the scholastic year 2013-2014 to address the needs of form 5 students who had not applied to sit for any Secondary Education Certificate (SEC) examinations at the end of the scholastic year in May 2014. These students were almost de facto early school leavers. To entice them to consider going into further education, MEDE put together a varied programme with the help of ESLU, the Vocational Education Unit and the psychosocial services at DSS. This was based on VET, basic skills, ICT and soft skills. This was made possible through the cooperation of MCAST, ETC, Microsoft, Aġenzija Żgħażagħ, and FES. Out of a possible 350 students who were interviewed, 230 showed interest in joining this Alternative Learning Programme (ALP). The programme will come to an end in September 2014. The aim is to give these students the possibility of obtaining an MQF level 1 qualification and entice them to consider going into further education at MCAST, ITS or the Youth.Inc programme.
+An emergency intervention measure has also been taken in the scholastic year 2013-2014 to address the needs of form 5 students who had not applied to sit for any Secondary Education Certificate (SEC) examinations at the
 
 39
 
 [[END OF PAGE 39]]
 
 [[START OF PAGE 40]]
+
+end of the scholastic year in May 2014. These students were almost de facto early school leavers. To entice them to consider going into further education, MEDE put together a varied programme with the help of ESLU, the Vocational Education Unit and the psychosocial services at DSS. This was based on VET, basic skills, ICT and soft skills. This was made possible through the cooperation of MCAST, ETC, Microsoft, Aġenzija Żgħażagħ, and FES. Out of a possible 350 students who were interviewed, 230 showed interest in joining this Alternative Learning Programme (ALP). The programme will come to an end in September 2014. The aim is to give these students the possibility of obtaining an MQF level 1 qualification and entice them to consider going into further education at MCAST, ITS or the Youth.Inc programme.
 
 The difference between the CCP offered at form 3 and the ALP offered at form 5 is that the first is school based and participating students remain within mainstream education. The ALP is a pull-out, centrally organised programme, offered  in  different  campuses  belonging  to  different  institutions  within  MEDE.  Ideally,  students needing alternative learning programmes are catered for within mainstream institutions and within the school communities where they belong. Thus, this strategic plan strongly suggests that:
 
@@ -1070,7 +1160,7 @@ Similarly the Institute for Tourism Studies (ITS) is developing its own foundati
 
 FES runs the Youth.Inc programme for young people who have completed compulsory education without the basic qualifications. It offers participants a mixture of basic skills, life skills and a variety of hands-on, employment related learning opportunities.  It is a full time course that includes also a work placement. Successful participants will acquire a general certificate of education at MQF level 1 and would be able to proceed to a second full-time course leading to MQF level 2.
 
-> 26 European Commission (2013) Reducing early school leaving: Key messages and policy support.  Final Report of the Thematic Working Group on Early School Leaving November 2013. Available from: http:/ /ec.europa.eu/education/policy/strategic-framework/doc/esl-group-report_ en.pdf. (Accessed: 20.03.2014).  p.23-24
+> 26 European Commission (2013) Reducing early school leaving: Key messages and policy support.  Final Report of the Thematic Working Group on Early School Leaving November 2013. Available from: http://ec.europa.eu/education/policy/strategic-framework/doc/esl-group-report_en.pdf. (Accessed: 20.03.2014).  p.23-24
 
 45
 
@@ -1091,43 +1181,14 @@ All these measures contribute to lower Malta's ESL rate. We do, however, need to
 ##### Drop-out rate at ITS, MCAST and the University Junior College 30
 
 Drop-out rate from ITS courses
-
-Year
-
-Percentage
-
-2010/2011
-
-22.0%
+Year | 2010/2011 | 2011/2012 | 2012/2013
+Percentage | 22.0% | 13.3% | 16.7%
 
 Drop-out rate from MCAST courses
-
-Year
-
-Percentage
-
-2010/2011
-
-11.7%
-
-2011/2012
-
-13.3%
-
-2011/2012
-
-14.7%
-
-2012/2013
-
-16.7%
-
-2012/2013
-
-13.0%
+Year | 2010/2011 | 2011/2012 | 2012/2013
+Percentage | 11.7% | 14.7% | 13.0%
 
 Drop-out rate from University Junior College courses
---- | --- | ---
 Year | 2010/2011 | 2011/2012
 Percentage for 1st year students 9.35% | 9.35% | 9.11%
 Percentage for 2nd year students | 1.52% | 0.73%
@@ -1140,9 +1201,9 @@ This strategic plan recommends that in order to consolidate the different second
 
 > 27 Data provided by Directorate for Lifelong Learning, March 2014.
 
-> 28 Eurostat. http:/ /ws.eures.com.mt/AnnualReport2011/sections/05/index.php.  Accessed: 25.03.2014.
+> 28 Eurostat. http://ws.eures.com.mt/AnnualReport2011/sections/05/index.php.  Accessed: 25.03.2014.
 
-> 29 European Commission (2011) Commission Staff Working Paper.  Reducing early school leaving. Accompanying document to the Proposal for a Council recommendation on policies to reduce early school leaving.  SEC (2011) 96 final. Available from:  http:/ /eur-lex.europa.eu/LexUriServ/ LexUriServ.do?uri=SEC:2011:0096:FIN:EN:PDF. (Accessed on: 20.03.2013). p.32
+> 29 European Commission (2011) Commission Staff Working Paper.  Reducing early school leaving. Accompanying document to the Proposal for a Council recommendation on policies to reduce early school leaving.  SEC (2011) 96 final. Available from:  http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=SEC:2011:0096:FIN:EN:PDF. (Accessed on: 20.03.2013). p.32
 
 > 30 Data provided by the Office of the Permanent Secretary, Ministry for Education and Employment, March 2014.
 
@@ -1154,7 +1215,7 @@ This strategic plan recommends that in order to consolidate the different second
 
 - the  ESLWG helps institutions  that  offer  basic  skills  training  (literacy,  numeracy  and  ICT)  to  develop  new teaching methods that are more appropriate for second chance education and that strategically move away from conventional teaching methods usually associated with compulsory schooling. They are particularly enticed to explore ways of embedding learning in VET hands-on activities as well as by exploring new teaching and learning smart technologies;
 
-- the Youth.Inc programme should be reviewed to highlight its strengths and weaknesses and to build upon this exercise in order to develop an accredited MQF level 3 programme by the end of academic year 20142015. Youth.Inc should also discuss with ITS and MCAST in order to explore ways how to secure permeability between Youth.Inc and other pathways at ITS and MCAST;
+- the Youth.Inc programme should be reviewed to highlight its strengths and weaknesses and to build upon this exercise in order to develop an accredited MQF level 3 programme by the end of academic year 2014-2015. Youth.Inc should also discuss with ITS and MCAST in order to explore ways how to secure permeability between Youth.Inc and other pathways at ITS and MCAST;
 
 - the Naxxar Higher Secondary School is to seriously consider banking upon the success of its revision courses and develop revision courses for students who have not managed to obtain any passes in SEC examinations at the end of secondary education. DES should help in finding the necessary physical and human resources to extend the Naxxar campus to make these courses possible in the near future;
 
@@ -1172,13 +1233,15 @@ This strategic plan wholly supports the consolidation of the mainstreaming of st
 
 Both MCAST and ITS offer courses for students with a disability to empower them for independent living through employment. Courses combine basic skills, personal and interpersonal skills, and employment-related skills. ITS offers a one-year MQF level 1 course entitled Key Skills for Independent Living while MCAST offers a two-year Pathway to Independent Living course. The DSS offers a similar educational pathway for students with a disability who have finished compulsory school at the Dun Manwel Attard Young Adult Resource Centre in Wardija. For its  part, ETC cooperates with NGOs such as Inspire and Richmond Foundation to offer personalised training courses for persons with a disability. It also runs a scheme that offers jobs with Local Councils to persons with a disability seeking employment. Youth.Inc are also flexible enough to host young persons with a disability in their programmes. Notwithstanding these initiatives, circumstantial evidence suggests that the number of young people with a disability who are in education, training or employment is very low and many persons with a disability go off the radar once they leave compulsory school.
 
-This strategic plan recommends that the proposed ESLU liaises with NSO, DRD, DSS, the Kummissjoni Nazzjonali għal Persuni b'Diżabilità (KNPD), Aġenzija Sapport and any other relevant organisation in order to get a clear picture of who are the persons with a disability leaving compulsory education that are neither in education nor in employment. It also recommends that the Inter-Ministerial committee (strategic action 2.1) enables different agencies, particularly from MEDE and from the Ministry for the Family and Social Solidarity (MFSS) to seek ways how the families of young persons with a disability can be better supported so that young persons with a disability receive their entitlement in terms of education, training and employment, with a view to secure better life chances and where possible, independent lives. It is also important that the ESLWG (strategic action 2.3) brings together educational institutions such as DSS, MCAST, ITS, Youth.Inc and ETC in an effort to review the transition process from compulsory to further and higher education. The ESLWG should also enable educational institutions involved with second chance education of persons with a disability to establish a sound link with trade unions and employers, and also explore further the idea of social cooperatives with stakeholders from the Maltese cooperative movement. Keeping young persons with a disability in second chance education and training and facilitating their transition into employment is a duty which the state has to fulfil in order to secure these persons' entitlement to personal fulfilment and independent living.
+This strategic plan recommends that the proposed ESLU liaises with NSO, DRD, DSS, the Kummissjoni Nazzjonali għal Persuni b'Diżabilità (KNPD), Aġenzija Sapport and any other relevant organisation in order to get a clear
 
 47
 
 [[END OF PAGE 47]]
 
 [[START OF PAGE 48]]
+
+picture of who are the persons with a disability leaving compulsory education that are neither in education nor in employment. It also recommends that the Inter-Ministerial committee (strategic action 2.1) enables different agencies, particularly from MEDE and from the Ministry for the Family and Social Solidarity (MFSS) to seek ways how the families of young persons with a disability can be better supported so that young persons with a disability receive their entitlement in terms of education, training and employment, with a view to secure better life chances and where possible, independent lives. It is also important that the ESLWG (strategic action 2.3) brings together educational institutions such as DSS, MCAST, ITS, Youth.Inc and ETC in an effort to review the transition process from compulsory to further and higher education. The ESLWG should also enable educational institutions involved with second chance education of persons with a disability to establish a sound link with trade unions and employers, and also explore further the idea of social cooperatives with stakeholders from the Maltese cooperative movement. Keeping young persons with a disability in second chance education and training and facilitating their transition into employment is a duty which the state has to fulfil in order to secure these persons' entitlement to personal fulfilment and independent living.
 
 ##### Strategic Action 5.2  Providing quality second chance education for young persons with a disability for better life chances
 
@@ -1190,7 +1253,7 @@ In April 2013, in a Council Recommendation, EU Member States endorsed the Youth 
 
 MEDE is the Maltese entity responsible for implementing the Youth Guarantee Scheme in Malta. For the past months the Ministry has been collating administrative data to profile youths between 15 and 24 and who are NEETs. Through the social benefit register,  the  unemployment  register  and  the  Labour  Force  Survey,  MEDE compiled a breakdown of who these NEETs are. The graphical illustration below shows the five heterogeneous groups identified 32 :
 
-> 31  Council Recommendation of 22 April 2013 on Establishing a Youth Guarantee 2013/C 120/01.  Available from: http:/ /eur-lex.europa.eu/legalcontent/EN/ALL/;jsessionid=yn1pTynHknd6HJb1BsmmnXnx8LTyKNTShJp5rnMTSycWvQg17NCV!-639655971?uri=CELEX:32013H0426(01). (Accessed: 26.03.2014).
+> 31  Council Recommendation of 22 April 2013 on Establishing a Youth Guarantee 2013/C 120/01.  Available from: http://eur-lex.europa.eu/legal-content/EN/ALL/;jsessionid=yn1pTynHknd6HJb1BsmmnXnx8LTyKNTShJp5rnMTSycWvQg17NCV!-639655971?uri=CELEX:32013H0426(01). (Accessed: 26.03.2014).
 
 > 32 Data provided by the Jobs+ Unit, Ministry for Education and Employment, March 2014.  See also Ministry for Education and Employment (2014) The National Employment Policy. Malta: MEDE.  p.85-87
 
@@ -1292,7 +1355,7 @@ This strategic plan strongly entices MEDE to carry out an on-going review of the
 
 - increase its capacity and ability to reach out more effectively to other vulnerable groups;
 
-- empower unemployed young people to move out of the vicious cycle of the benefit trap or 'assistencialism' 33 through re-integration into education and training and a smooth transition into employment;
+- empower unemployed young people to move out of the vicious cycle of the benefit trap or ‘assistencialism’33 through re-integration into education and training and a smooth transition into employment;
 
 - explore different kinds of public-private partnerships that will enable unemployed young persons to acquire employment-relevant skills and a positive work ethic.
 
@@ -1324,9 +1387,11 @@ This strategic plan recommends that the pilot project for the implementation of 
 
 The following matrix identifies the strategic actions that make up this strategic plan and maps out key performance indicators that will be used to monitor the implementation of this strategy.
 
-1. Aim: reducing ESL rate in Malta to 10% by 2020 2. Implementation and monitoring systems
+1. Aim: reducing ESL rate in Malta to 10% by 2020
 
-2.2 ESL Unit
+2. Implementation and monitoring systems
+
+2.1 Inter-ministerial committee | 2.2 ESL Unit
 
 2.4 Constructing a comprehensive data collection framework
 
@@ -1335,19 +1400,17 @@ The following matrix identifies the strategic actions that make up this strategi
 Strategic pillars | Strategic actions | Performance indicators | Strategic pillars | Strategic actions
 A. Early childhood education and care | 3.1 Providing free childcare | More children attend childcare. | A. Early warning systems | 4.1 Developing early warning systems and enabling timely action
 B. Making schools relevant for every student | 3.2 Educating for and through diversity | Schools are able to reach out to students with different abilities and from different socio-economic and cultural backgrounds | B. support networks for students at risk | 4.2 Consolidating support networks around students at risk.
-3.3 Meeting the needs of high achievers | Schools are able to reach out to high achieving students | 4.3 Harnessing Youth Workers' support for older students
-3.4 Setting up middle schools: making caring community schools possible | Middle schools are set up in every state college | 4.4 Empowering students with social, emotional and behavioural difficulties
-C. Supporting children at risk through innovative teaching and learning tools and community based solutions | 3.5 Developing e-Learning content to better respond to student learning needs | Teachers are able to use eLearning tools in the classroom for better student attainment | 4.5 Supporting teenage mothers to stay in education and training
-3.6 Tapping mobile technology for more student engagement | Tablets are phased into schools as from year 4 upwards | 4.6 Supporting students and Parents through after-school support programmes.
-3.7 Funding for a school based approach to reducing ESL | School based plans for tackling ESL receive medium to long term funding. | 4.7 Supporting students at risk in the secondary school
-D. Re-introducing Vocational education in the secondary schools as an alternative learning pathway | 3.8 Introducing a well structured vocational pathway in Maltese secondary schools | VET is introduced in the secondary schools at par with academically oriented subjects
-E. Transition processes, flexible pathways and career guidance | 3.9 Strengthening the transition process across educational pathways | Transition processes between school cycles are strengthened through new services for students and parents
-3.10 Reviewing and consolidating career guidance across levels | Career guidance becomes more entrenched in mainstream schools
-3.11 Honing the potential of the Secondary School Certificate and Profile | The SSCP is reviewed continuously for effectiveness to become a tool for progression into higher cycles of education and training
-F. Parents, not any more the silent partner | 3.12 Harnessing and strengthening parental support to combat ESL | More initiatives for the structural integration of parents in schools are taken
-G. Combating ESL through teacher training | 3.13 Supporting teachers to address the ESL challenge | A teacher training institute is set up to empower teachers to keep up with the many developments taking place in Maltese society and in our educational sytem
-
-2.1 Inter-ministerial committee
+ | 3.3 Meeting the needs of high achievers | Schools are able to reach out to high achieving students | | 4.3 Harnessing Youth Workers’ support for older students
+ | 3.4 Setting up middle schools: making caring community schools possible | Middle schools are set up in every state college | | 4.4 Empowering students with social, emotional and behavioural difficulties
+C. Supporting children at risk through innovative teaching and learning tools and community based solutions | 3.5 Developing e-Learning content to better respond to student learning needs | Teachers are able to use eLearning tools in the classroom for better student attainment | | 4.5 Supporting teenage mothers to stay in education and training
+ | 3.6 Tapping mobile technology for more student engagement | Tablets are phased into schools as from year 4 upwards | | 4.6 Supporting students and Parents through after-school support programmes.
+ | 3.7 Funding for a school based approach to reducing ESL | School based plans for tackling ESL receive medium to long term funding. | | 4.7 Supporting students at risk in the secondary school
+D. Re-introducing Vocational education in the secondary schools as an alternative learning pathway | 3.8 Introducing a well structured vocational pathway in Maltese secondary schools | VET is introduced in the secondary schools at par with academically oriented subjects | |
+E. Transition processes, flexible pathways and career guidance | 3.9 Strengthening the transition process across educational pathways | Transition processes between school cycles are strengthened through new services for students and parents | |
+ | 3.10 Reviewing and consolidating career guidance across levels | Career guidance becomes more entrenched in mainstream schools | |
+ | 3.11 Honing the potential of the Secondary School Certificate and Profile | The SSCP is reviewed continuously for effectiveness to become a tool for progression into higher cycles of education and training | |
+F. Parents, not any more the silent partner | 3.12 Harnessing and strengthening parental support to combat ESL | More initiatives for the structural integration of parents in schools are taken | |
+G. Combating ESL through teacher training | 3.13 Supporting teachers to address the ESL challenge | A teacher training institute is set up to empower teachers to keep up with the many developments taking place in Maltese society and in our educational sytem | |
 
 54
 
@@ -1362,14 +1425,16 @@ G. Combating ESL through teacher training | 3.13 Supporting teachers to address 
 Performance indicators | Strategic pillars | Strategic actions | Performance indicators
 --- | --- | --- | ---
 Prompt action is taken to improve student performance in the early years and to reduce absenteeism. | A. Reintegration programmes at further education levels | 5.1 Striking strategic partnerships for an effective second chance education for students at risk | More students go into second chance education, more students complete second chance education leading to MQF level 3
-Psychosocial networks cooperate more in their bid to respond to the needs of students at risk. | 5.2 Providing quality second chance education for persons with a disability for better life chances | More disabled students get into second chance education
-Youth workers are present in more places to support youths. | 5.3 Implementing the Youth Guarantee Scheme to reach out to young people at risk | More initiatives are taken under the Youth Guarantee Scheme in order to reach out to other target groups
-Support for SEBD students is more effective in reponding to students' needs and in re-integrating them into mainstream education.
-More teenage mothers continue with their education after childbirth.
-More students and parents make use of after-school support programmes.
-An alternative learning programme is developed to cater for the needs of vulnerable students in mainstream schools and that would include a VET component.
+Psychosocial networks cooperate more in their bid to respond to the needs of students at risk. | | 5.2 Providing quality second chance education for persons with a disability for better life chances | More disabled students get into second chance education
+Youth workers are present in more places to support youths. | | 5.3 Implementing the Youth Guarantee Scheme to reach out to young people at risk | More initiatives are taken under the Youth Guarantee Scheme in order to reach out to other target groups
+Support for SEBD students is more effective in reponding to students’ needs and in re-integrating them into mainstream education. | | |
+More teenage mothers continue with their education after childbirth. | | |
+More students and parents make use of after-school support programmes. | | |
+An alternative learning programme is developed to cater for the needs of vulnerable students in mainstream schools and that would include a VET component. | | |
+
 Legend
-Already Started Will start by end 2014
+Already Started
+Will start by end 2014
 Already exists but need reviewing
 Still to commence
 
@@ -1424,7 +1489,7 @@ EUPA: | European Union Programmes Agency
 FES: | Foundation for Educational Services
 IMC: | Inter-Ministerial Committee
 ITS: | Institute for Tourism Studies
-KNPD: | Kummissjoni Nazzjonali għal Persuni b'Diżabilità
+KNPD: | Kummissjoni Nazzjonali għal Persuni b’Diżabilità
 LFS: | Labour Force Survey
 LSA: | Learning Support Assistant
 MCAST: | Malta College for Art, Science and Technology
@@ -1444,7 +1509,8 @@ PSCD: | Personal, Social and Career Development
 SEC: | Secondary Education Certificate
 SSCP: | Secondary School Certificate and Profile
 TIMMS: | Trends in International Mathematics and Science Study
-UOM: VET: | University of Malta Vocational Education and Training
+UOM: | University of Malta
+VET: | Vocational Education and Training
 
 59
 
@@ -1458,6 +1524,10 @@ UOM: VET: | University of Malta Vocational Education and Training
 
 [[START OF PAGE 61]]
 
-Great Siege Road, Floriana, Malta esl.mede@gov.mt www.education.gov.mt
+MINISTRY FOR EDUCATION AND EMPLOYMENT
+
+Great Siege Road, Floriana, Malta
+esl.mede@gov.mt
+www.education.gov.mt
 
 [[END OF PAGE 61]]
