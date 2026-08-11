@@ -22,27 +22,27 @@ In accordance with section 2(3) of that Act, these Regulations are made with the
 
 F1 2016 c. 5.
 
+## PART 1
+
+### Preliminary
+
 ###### Citation and commencement
 
--(1)  These Regulations may be cited as the Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016.
+1.—(1)  These Regulations may be cited as the Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016.
 
-- Parts 1, 2, 3 and 5 of these Regulations come into force 21 days after the day on which these Regulations are made.
+(2)  Parts 1, 2, 3 and 5 of these Regulations come into force 21 days after the day on which these Regulations are made.
 
-- Part 4 of these Regulations comes into force on 1st September 2017.
+(3)  Part 4 of these Regulations comes into force on 1st September 2017.
 
 ###### Interpretation
 
--(1)  In these Regulations-
+2.—(1)  In these Regulations—
 
 'the Act' means the Childcare Act 2016;
 
 'the Commissioners' means the Commissioners for Her Majesty's Revenue and Customs;
 
 [ F2 'coronavirus' means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2);
-
-## PART 1
-
-### Preliminary
 
 [[END OF PAGE 1]]
 
@@ -116,7 +116,7 @@ Changes to legislation: There are currently no known outstanding effects for the
 
 'the Tribunal' means the First-tier Tribunal.
 
-- A person's age for the purposes of establishing that person's 'minimum weekly income'-
+(2)  A person's age for the purposes of establishing that person's 'minimum weekly income'—
 
 (a) except in the circumstances in sub-paragraph (b), is that person's age when that person, or that person's partner, makes the declaration;
 
@@ -152,7 +152,7 @@ Changes to legislation: There are currently no known outstanding effects for the
 
 ###### Description of a qualifying child of working parents
 
--(1)  For the purposes of section 1(2)(c) of the Act, a young child is of a specified description if the young child-
+3.—(1)  For the purposes of section 1(2)(c) of the Act, a young child is of a specified description if the young child—
 
 (a) has attained the age of three years or will attain the age of three years within 16 weeks beginning with the day on which the declaration was made in relation to that child; and
 
@@ -178,7 +178,7 @@ Changes to legislation: There are currently no known outstanding effects for the
 
 (d) article 25 of the Children (Northern Ireland) Order 1995 F15 (with the modification that for the reference to a local authority there is substituted a reference to an authority within the meaning of article 2 of that Order).
 
-- A child is not looked after by a local authority for the purposes of this regulation-
+(3)  A child is not looked after by a local authority for the purposes of this regulation—
 
 (a) during any period which is in the nature of a short-term break or is one of a series of such breaks for the purposes of providing respite for the person with whom the child normally lives;
 
@@ -280,7 +280,7 @@ Changes to legislation: There are currently no known outstanding effects for the
 
 Finance Act 2013 (c. 29). Section 809E was amended by paragraph 152 of Schedule 45 and paragraph 5 of Schedule 46 to the Finance Act 2013 and paragraph 4 of Schedule 27 to the Finance Act 2009 (c. 10).
 
-###### [ F21 Specified conditions relating to the parent, and any partner of the parent, of the child foster parents
+###### [ F21 Specified conditions relating to the parent, and any partner of the parent, of the child – foster parents
 
 4A. -(1)  This regulation applies in relation to a child falling within regulations 3(3)(ba) to (bd).
 
@@ -346,7 +346,7 @@ Changes to legislation: There are currently no known outstanding effects for the
 
 (d) the parent expects all the parent's income that exceeds £100,000 to be mainly attributable to earnings from work undertaken directly or indirectly as a result of the incidence or transmission of coronavirus. ]
 
-- The condition in paragraph (10) is treated as not being met by any parent if-
+(11)  The condition in paragraph (10) is treated as not being met by any parent if—
 
 (a) the parent has made, or expects to make, a claim under section 809B of the Income Tax Act 2007 (claim for remittance basis to apply) for the relevant tax year, or
 
@@ -422,9 +422,11 @@ Changes to legislation: There are currently no known outstanding effects for the
 
 (5)  The period specified in this paragraph is, in relation to a declaration made by the person or the person's partner, the tax year in which the date of the declaration falls.
 
-(6)  In this regulation, 'the relevant threshold' is the product of the calculation-
+(6)  In this regulation, 'the relevant threshold' is the product of the calculation—
 
-where-
+M × W
+
+where—
 
 M is the minimum weekly income; and
 
@@ -464,7 +466,7 @@ Changes to legislation: There are currently no known outstanding effects for the
 
 (4)  In calculating a self-employed person's income, receipts and expenses of a capital nature are to be disregarded.
 
-(5)    A  person's  expected  income  may  include  income  from  a  person's  employment  and  selfemployment taken together.
+(5)    A person's expected income may include income from a person's employment and self-employment taken together.
 
 (6)  For the purposes of paragraph (5) a person may not rely on the condition in regulation 5(1) (b)(ii).
 
@@ -478,7 +480,7 @@ F26 2003 c. 1.
 
 (b) that person's subsequent three declarations.
 
-(2)  A 'start-up period' is the period of 12 months following the commencement by the selfemployed person of any trade, profession or vocation.
+(2)  A 'start-up period' is the period of 12 months following the commencement by the self-employed person of any trade, profession or vocation.
 
 (3)  A self-employed person cannot rely on a second or subsequent start-up period (in relation to the commencement by that person of a new trade profession or vocation) unless at least 48 months have passed since the end of the previous start-up period.
 
@@ -488,7 +490,7 @@ F27 S.I. 2015/448.
 
 ###### Qualifying paid work [ F28 and work outside role as a foster parent]: time off in connection with sickness or parenting
 
--(1)  This regulation applies for any period during which a person-
+8.—(1)  This regulation applies for any period during which a person—
 
 (a) is paid statutory sick pay under Part 11 of the Social Security Contributions and Benefits Act 1992 F29 or Part 11 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 F30 ;
 
@@ -538,7 +540,7 @@ Changes to legislation: There are currently no known outstanding effects for the
 
 (2A)  Subject to paragraphs (3) and (4) where the person is a foster parent within regulation 4A, the person is regarded as being in paid work outside their role as a foster parent. ]
 
-(3)  Paragraph (2) does not apply unless, immediately before the start of the period in any subparagraph of paragraph (1), either-
+(3)  Paragraph (2) does not apply unless, immediately before the start of the period in any sub-paragraph of paragraph (1), either—
 
 10
 
@@ -621,7 +623,7 @@ Changes to legislation: There are currently no known outstanding effects for the
 
 ###### Qualifying paid work [ F55 and paid work outside role as a foster parent]: caring, incapacity for work or limited capability for work
 
--(1)  This regulation applies for any period during which-
+9.—(1)  This regulation applies for any period during which—
 
 [ F56 (a) a person ('P') has-
 
@@ -1001,7 +1003,7 @@ Changes to legislation: There are currently no known outstanding effects for the
 
 until the end of the declaration period after the declaration period in which that determination is made.
 
-- In  this  regulation,  'declaration  period'  and  'subsequent  declaration  period'  have  the meanings given in regulation 15(1).
+(5)  In this regulation, 'declaration period' and 'subsequent declaration period' have the meanings given in regulation 15(1).
 
 - F94 Word in reg. 16(3)(a) omitted (31.8.2018) by virtue of The Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018 (S.I. 2018/794), regs. 1, 24(a)
 
@@ -1019,15 +1021,15 @@ F98 Pt. 2 Ch. 4 heading substituted (31.8.2018) by The Childcare (Disqualificati
 
 ###### Determination by the Commissioners
 
--(1)  Where a person makes a declaration in accordance with regulation 13 or a reconfirming declaration in accordance with regulation 16, the Commissioners must make a determination as to whether the criteria in section 1(2)(b), (c) and (d) of the Act are met in relation to the child in respect of whom the declaration is made.
+17.—(1)  Where a person makes a declaration in accordance with regulation 13 or a reconfirming declaration in accordance with regulation 16, the Commissioners must make a determination as to whether the criteria in section 1(2)(b), (c) and (d) of the Act are met in relation to the child in respect of whom the declaration is made.
 
-- Where the Commissioners make a determination under paragraph (1) they must notify the person who makes the declaration of the determination.
+(2)  Where the Commissioners make a determination under paragraph (1) they must notify the person who makes the declaration of the determination.
 
-- A  notification  under  paragraph  (2)  is  to  be  made  by  electronic  communications  unless paragraph (4) applies.
+(3)  A notification under paragraph (2) is to be made by electronic communications unless paragraph (4) applies.
 
-- Where a notification under paragraph (2) is to be made to a person to whom regulation 14(3) applies, the notification is to be made in writing other than by electronic communications.
+(4)  Where a notification under paragraph (2) is to be made to a person to whom regulation 14(3) applies, the notification is to be made in writing other than by electronic communications.
 
-- The person who makes the declaration is deemed to be notified under paragraph (2) on the date on which the notification is sent.
+(5)  The person who makes the declaration is deemed to be notified under paragraph (2) on the date on which the notification is sent.
 
 ###### [ F99 Determination by the responsible local authority
 
@@ -1601,7 +1603,7 @@ Changes to legislation: There are currently no known outstanding effects for the
 
 (b) an early years childminder agency inspection report has not yet been published in respect of the agency.
 
-- The requirement in paragraph (1) does not apply where-
+(4)  The requirement in paragraph (1) does not apply where-
 
 (a) the  local  authority  has  reasonable  grounds  to  believe  that  the  person  with  whom  the arrangements referred to in paragraph (1) are intended to be made is not able to satisfy a requirement imposed in respect of the early years provision; or
 
@@ -1663,7 +1665,7 @@ Changes to legislation: There are currently no known outstanding effects for the
 
 (d) are otherwise necessary for the effective administration of the arrangements.
 
-- But a local authority may not impose requirements which-
+(2)  But a local authority may not impose requirements which-
 
 (a) where the arrangements are made with an early years provider-
 
@@ -1755,9 +1757,9 @@ F109 1998 c. 31. Section 123(4) was amended by paragraph 34 of Schedule 2 to the
 
 ###### Children Act 2004
 
--(1)  The Children Act 2004 F110 is amended as follows.
+42. -(1)  The Children Act 2004 F110 is amended as follows.
 
-- In section 18(2) (director of children's services)-
+(2)  In section 18(2) (director of children's services)-
 
 (a) at the end of paragraph (e) omit the 'and'; and
 
@@ -1767,7 +1769,7 @@ F109 1998 c. 31. Section 123(4) was amended by paragraph 34 of Schedule 2 to the
 
 (g) any function conferred on the authority under section 2 of the Childcare Act 2016.'.
 
-- In section 23(3) (sections 20 to 22: interpretation)-
+(3)  In section 23(3) (sections 20 to 22: interpretation)-
 
 (a) at the end of paragraph (c) omit the 'and'; and
 
@@ -1781,7 +1783,7 @@ F110 2004 c. 31. Section 18(2) and 23(3) were amended by section 16 of, and para
 
 ###### Education and Inspections Act 2006
 
-- In the Education and Inspections Act 2006 F111 ,  in section 135(1) (functions to which this Chapter applies and related activities)-
+43. In the Education and Inspections Act 2006 F111 ,  in section 135(1) (functions to which this Chapter applies and related activities)-
 
 (a) at the end of paragraph (e) omit the 'and'; and
 
@@ -1807,7 +1809,18 @@ Signed by the authority of the Secretary of State for Education
 
 Department for Education
 
-We consent Caroline Dinenage Parliamentary Under Secretary of State Robert Syms Stephen Barclay Two of the Lords Commissioners of Her Majesty's Treasury
+Caroline Dinenage
+
+Parliamentary Under Secretary of State
+
+We consent
+
+Robert Syms
+
+Stephen Barclay
+
+Two of the Lords Commissioners of Her
+Majesty's Treasury
 
 34
 
@@ -1854,7 +1867,6 @@ An impact assessment has not been produced for this instrument as no impact on t
 [[START OF PAGE 36]]
 
 Changes to legislation:
----
 There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016.
 
 [[END OF PAGE 36]]
