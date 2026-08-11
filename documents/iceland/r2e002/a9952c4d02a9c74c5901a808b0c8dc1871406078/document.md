@@ -10,7 +10,7 @@ No. 87, 12 June 2008
 
 ### Article 1 Scope
 
-This  Act  covers  the  education  and  recruitment  of  teachers  and  head  teachers  in  preschools,  compulsory  schools  and  upper  secondary  schools,  and  to  the  legal  protection  of  their occupational qualifications and title.
+This  Act  covers  the  education  and  recruitment  of  teachers  and  head  teachers  in  pre-schools,  compulsory  schools  and  upper  secondary  schools,  and  to  the  legal  protection  of  their occupational qualifications and title.
 
 ### Article 2 Objective
 
@@ -164,13 +164,13 @@ If  no  qualified  Pre-school  teacher  applies  for  an  advertised  post  as  
 
 ### Article 18 Exemption committee for compulsory schools
 
-The Minister of Education, Science and Culture appoints an exemption committee for the compulsory school for a four-year term. The committee shall be comprised of four members, one representative  nominated  by  a  general  association  of  teachers,  one  representative  from  the Association  of  Local  Authorities  in  Iceland,  one  representative  nominated  by  the  cooperation committee of higher education institutions and one representative appointed without nomination who shall chair the committee. Same number of alternates shall be appointed in the same manner.
-
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
 6
+
+The Minister of Education, Science and Culture appoints an exemption committee for the compulsory school for a four-year term. The committee shall be comprised of four members, one representative  nominated  by  a  general  association  of  teachers,  one  representative  from  the Association  of  Local  Authorities  in  Iceland,  one  representative  nominated  by  the  cooperation committee of higher education institutions and one representative appointed without nomination who shall chair the committee. Same number of alternates shall be appointed in the same manner.
 
 It  is  not  permitted to recruit other individuals than those that fulfil the provision of this Act  as  teachers  in  public  compulsory  schools  or  in  other  corresponding  schools,  cf.  the Compulsory School Act.
 
@@ -190,13 +190,15 @@ The Minister of Education, Science and Culture appoints an exemption committee f
 
 It  is  not  permitted to recruit other individuals than those that fulfil the provision of this Act  as  teachers  in  public  upper  secondary  schools  or  in  other  corresponding  schools,  cf.  the Upper Secondary School Act.
 
-If nobody fulfilling the requirements of this Act should apply for an advertised teaching post  despite  numerous  advertisements,  the  head  teacher  may  apply  for  an  exemption  to  the exemption committee for upper secondary schools to hire a particular employee for teaching as a temporary  measure,  but  never  for  more  than  a  year  at  a  time.  The  exemption  committee  is permitted to deviate from the requirements for repeating an advertisement when an exemption is requested to re-hire an individual who is studying for a teacher certificate. A confirmation of the study and a study progress plan shall accompany such an application. The head teacher is not required to approach the exemption committee if the teaching post involves teaching 240 minutes a week or less, cf. Article 13, paragraph 3.
+If nobody fulfilling the requirements of this Act should apply for an advertised teaching post  despite  numerous  advertisements,  the  head  teacher  may  apply  for  an  exemption  to  the exemption committee for upper secondary schools to hire a particular employee for teaching as a temporary  measure,  but  never  for  more  than  a  year  at  a  time.  The  exemption  committee  is
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
 7
+
+permitted to deviate from the requirements for repeating an advertisement when an exemption is requested to re-hire an individual who is studying for a teacher certificate. A confirmation of the study and a study progress plan shall accompany such an application. The head teacher is not required to approach the exemption committee if the teaching post involves teaching 240 minutes a week or less, cf. Article 13, paragraph 3.
 
 Decisions of the exemption committee may be appealed to the Minister. An appeal does not delay the legal effect of the exemption committee's decision.
 
@@ -234,9 +236,9 @@ The Minister of Education, Science and Culture grants a licence document to teac
 
 - The licence of Compulsory school teacher, who is specialised in teaching the younger children, also grants permission to teach the older groups in pre-school.
 
-- The licence of a Pre-school teacher, who is specialised in teaching the older children, also grants permission to teach children in 1 st -3 rd grade of compulsory school.
+- The licence of a Pre-school teacher, who is specialised in teaching the older children, also grants permission to teach children in 1st-3rd grade of compulsory school.
 
-- The licence of an Upper secondary school teacher also grants permission for teaching in his/her field of speciality in 8 th -10 th grade of compulsory school.
+- The licence of an Upper secondary school teacher also grants permission for teaching in his/her field of speciality in 8th-10th grade of compulsory school.
 
 - The licence of a Compulsory school teacher, who has completed at least 120 credit units specialisation in a particular subject, grants permission to teach in the field of speciality in basic courses in the upper secondary school.
 
@@ -258,13 +260,15 @@ Compulsory school teachers and Upper secondary school teachers holding a licence
 
 This Act shall enter into force on 1 July 2008. At the same time, Act no. 86/1998 on the Education  and  Recruitment  of  Pre-School  Teachers,  Compulsory  School  Teachers  and  Upper Secondary School Teachers shall be repealed.
 
-Provisions of Articles 3, 4 and 5 shall apply to those who start their education after the entry into force of this Act. Up until 1 July 2011, those that get a licence for teaching in preschools, compulsory and upper secondary schools shall have completed a Bachelor's degree and the required Teacher Certification Studies.
+Provisions of Articles 3, 4 and 5 shall apply to those who start their education after the entry into force of this Act. Up until 1 July 2011, those that get a licence for teaching in pre-
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
 9
+
+schools, compulsory and upper secondary schools shall have completed a Bachelor's degree and the required Teacher Certification Studies.
 
 As of 1 August 2008 the Act on Rights and Duties of Compulsory School Teachers and Principals no. 72/1996 shall be repealed.
 
