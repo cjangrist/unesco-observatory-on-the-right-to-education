@@ -16,15 +16,15 @@ Text in Bulgarian: Закон за професионалното образов
 
 Article 1. (1) This Act shall regulate the social relations in connection with:
 
-- ensuring the right to vocational education and training of the citizens according to their personal interests and possibilities;
+1. ensuring the right to vocational education and training of the citizens according to their personal interests and possibilities;
 
-- meeting  the  needs  for  qualified  manpower  which  is  competitive  on  the  labour market;
+2. meeting the needs for qualified manpower which is competitive on the labour market;
 
-- providing  conditions for  functioning and development of the system of vocational education  and  training  based  on  cooperation  between  its  institutions  and  the  bodies  of  the executive power and the local independent government and the social partners.
+3. providing conditions for functioning and development of the system of vocational education and training based on cooperation between its institutions and the bodies of the executive power and the local independent government and the social partners.
 
-- The Act shall regulate the organisation, institutions, management and financing of the system of vocational education and training.
+(2) The Act shall regulate the organisation, institutions, management and financing of the system of vocational education and training.
 
-(Supplemented,  SG  No.  103/2002)  The  primary  and  the  secondary  education received respectively in the vocational schools and in the vocational secondary schools shall be  stipulated  by  the  Public  Education  Act,  the  Level  of  Education,  General  Education Minimum and Curriculum Act and by the state educational requirements inasmuch as this Act does not provide otherwise.
+(3) (Supplemented, SG No. 103/2002) The primary and the secondary education received respectively in the vocational schools and in the vocational secondary schools shall be stipulated by the Public Education Act, the Level of Education, General Education Minimum and Curriculum Act and by the state educational requirements inasmuch as this Act does not provide otherwise.
 
 #### Purpose of the system of vocational education and training
 
@@ -34,15 +34,15 @@ Article 1. (1) This Act shall regulate the social relations in connection with:
 
 Article 3. The basic tasks of the system of vocational education and training shall be:
 
-- acquisition of professional qualification;
+1. acquisition of professional qualification;
 
-(new,  SG  No.  103/2002,  amended,  SG  No.  77/2005  )  acquisition  of  legitimate qualification  for  professions  whose  practising  requires  such  qualification,  including  the practising of regulated professions;
+2. (new, SG No. 103/2002, amended, SG No. 77/2005 ) acquisition of legitimate qualification for professions whose practising requires such qualification, including the practising of regulated professions;
 
-(renumbered  from  item  2  -  SG  No.  103/2002)  continuous  improvement  of  the professional qualification;
+3. (renumbered from item 2 - SG No. 103/2002) continuous improvement of the professional qualification;
 
-(renumbered from item 3 - SG No. 103/2002) formation of a motivation system for realisation in the civil society;
+4. (renumbered from item 3 - SG No. 103/2002) formation of a motivation system for realisation in the civil society;
 
-(renumbered from item 4 - SG No. 103/2002) formation and general culture on the basis of the national and al human values.
+5. (renumbered from item 4 - SG No. 103/2002) formation and general culture on the basis of the national and all human values.
 
 [[END OF PAGE 1]]
 
@@ -60,9 +60,9 @@ Article  5. (1)  (Amended,  SG  No.  103/2002)  Vocational  orientation  shall  
 
 1. initial vocational training - acquisition of initial qualification for a profession or part of a profession;
 
-- continuous  vocational  training  -  improvement  of  the  acquired  qualification  for  a profession or part of a profession.
+2. continuous vocational training - improvement of the acquired qualification for a profession or part of a profession.
 
-- Vocational education shall ensure the acquisition of the general education minimum for secondary education and the acquisition of qualification for a profession.
+(3) Vocational education shall ensure the acquisition of the general education minimum for secondary education and the acquisition of qualification for a profession.
 
 ## Chapter Two GENERAL REQUIREMENTS FOR THE ORGANISATION IN THE SYSTEM OF VOCATIONAL EDUCATION AND TRAINING
 
@@ -80,19 +80,19 @@ Article 6. (1) Vocational orientation, vocational training and vocational traini
 
 Article  7. (Amended,  SG  No.  77/2005  )  (1)  The  list  of  regulated  professions  in  the Republic of Bulgaria shall be adopted by the Council of Ministers, based on a proposal made by the Minister of Education and Science after coordination with the Minister of Labour and Social  Policy,  as  well  as  with  the  respective  branch  ministers  and  with  the  representative organisations of employers and of employees on national level.
 
-- The structural elements of the list referred to in Para. 1 shall be:
+(2) The structural elements of the list referred to in Para. 1 shall be:
 
-- the names of the professions which are regulated according to Bulgarian legislation;
+1. the names of the professions which are regulated according to Bulgarian legislation;
 
-- the statutory instrument which determines them as regulated professions;
+2. the statutory instrument which determines them as regulated professions;
 
-- the  authorities  which  are  competent  to  grant  or  acknowledge  the  legal  capacity  to practice the respective regulated profession.
+3. the authorities which are competent to grant or acknowledge the legal capacity to practice the respective regulated profession.
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-(3) The Council of Ministers shall determine the terms and procedure for maintaining the list referred
+(3) The Council of Ministers shall determine the terms and procedure for maintaining the list referred to in Para. 1.
 
 #### Classification Characteristics of the List of Professions for Vocational Education and Training
 
@@ -102,33 +102,35 @@ Article 8. (1)  Professions and specialities shall be classified in professional
 
 (3) The  following  shall  be  required  for the respective degrees  of professional qualification:
 
-- for first degree - acquired professional competence for practising professions which include routine activities carried out under permanent conditions;
+1. for first degree - acquired professional competence for practising professions which include routine activities carried out under permanent conditions;
 
-- for  second  degree  -  acquired  professional  competence  for  practising  professions which include activities of complex nature carried out under changing conditions;
+2. for second degree - acquired professional competence for practising professions which include activities of complex nature carried out under changing conditions;
 
-- for third degree - acquired professional competence for practising professions which include  activities  of  complex  nature  carried  out  under  changing  conditions,  as  well  as assuming responsibility for the work of other persons;
+3. for third degree - acquired professional competence for practising professions which include activities of complex nature carried out under changing conditions, as well as assuming responsibility for the work of other persons;
 
-(amended, SG No. 103/2002) for fourth degree - acquired professional competence for practising professions which include a wide range of activities of complex nature carried out under changing conditions, as well as assuming managerial responsibilities for the work of other persons and for the allocation of resources.
+4. (amended, SG No. 103/2002) for fourth degree - acquired professional competence for practising professions which include a wide range of activities of complex nature carried out under changing conditions, as well as assuming managerial responsibilities for the work of other persons and for the allocation of resources.
 
-- The  minimum  entry  educational  level  for  acquiring  the  respective  degrees  of professional qualification shall be:
+(4) The minimum entry educational level for acquiring the respective degrees of professional qualification shall be:
 
-- for first degree - completed 6th grade;
+1. for first degree - completed 6th grade;
 
-- for second and third degree - completed 7th degree or primary education;
+2. for second and third degree - completed 7th degree or primary education;
 
-- for fourth degree - completed secondary education.
+3. for fourth degree - completed secondary education.
 
-- The graduating educational level for acquiring the respective professional qualification degrees shall be:
+(5) The graduating educational level for acquiring the respective professional qualification degrees shall be:
 
-- for first degree:
+1. for first degree:
 
-- primary education - for students;
+a) primary education - for students;
 
-- primary education or completed 6th or 7th grade - for persons aged 16 and over;
+b) primary education or completed 6th or 7th grade - for persons aged 16 and over;
 
-- for  second  degree  -  completed  10th  or  11th  grade,  acquired  right  to  take  state matriculation  examinations  for  completion  of  secondary  education  or  completed  secondary education;
+2. for second degree - completed 10th or 11th grade, acquired right to take state matriculation examinations for completion of secondary education or completed secondary education;
 
-(supplemented, SG No. 103/2002) for third degree - secondary education or acquired right  to  take  state  matriculation  examinations  for  completion  of  secondary  education; determined by the state educational requirements for acquiring qualification on professions.
+3. (supplemented, SG No. 103/2002) for third degree - secondary education or acquired right to take state matriculation examinations for completion of secondary education;
+
+(6) The graduating educational level for acquiring qualification on part of a profession shall be determined by the state educational requirements for acquiring qualification on professions.
 
 ### Section II Conditions and Procedure for Acquisition of Professional Qualification
 
@@ -136,9 +138,9 @@ Article 8. (1)  Professions and specialities shall be classified in professional
 
 Article 9. (1) The following shall have the right to conduct training for acquisition of professional qualification:
 
-(supplemented, SG No. 103/2002) vocational schools, vocational secondary schools, vocational colleges, art schools and centres for vocational training;
+1. (supplemented, SG No. 103/2002) vocational schools, vocational secondary schools, vocational colleges, art schools and centres for vocational training;
 
-(amended, SG No. 103/2002) junior secondary schools, primary schools, secondary general  education  schools,  special  and  sports  schools,  secondary  schools  and  profiled secondary  schools  in  individual  classes  of  them  -  on  the  basis  of  an  order  issued  by  the
+2. (amended, SG No. 103/2002) junior secondary schools, primary schools, secondary general education schools, special and sports schools, secondary schools and profiled secondary schools in individual classes of them - on the basis of an order issued by the
 
 [[END OF PAGE 3]]
 
@@ -146,57 +148,57 @@ Article 9. (1) The following shall have the right to conduct training for acquis
 
 Minister  of  Education  and  Science,  if  they  meet  the  conditions  determined  by  the  state educational requirements.
 
-- Training  for  acquisition  of  professional  qualification  may  be  conducted  by ministries,  municipalities,  organisations  of  the  employers,  organisations  of  employees  and individual employers.
+(2) Training for acquisition of professional qualification may be conducted by ministries, municipalities, organisations of the employers, organisations of employees and individual employers.
 
-- Training  for  acquisition  of  professional  qualification  may  also  be  conducted through individual work.
+(3) Training for acquisition of professional qualification may also be conducted through individual work.
 
 #### Framework Programmes for Acquisition of Professional Qualification (Amended, SG No. 103/2002)
 
-Article 10. (1) (Amended,  SG  No.  103/2002)  The  acquisition  of  professional qualification  in  the  system  of  vocational  education  and  training  shall  be  regulated  by framework programmes approved by the Minister of Education and Science.
+Article 10. (1) (Amended, SG No. 103/2002) The acquisition of professional qualification in the system of vocational education and training shall be regulated by framework programmes approved by the Minister of Education and Science.
 
-- The programmes referred to in Paragraph 1 shall determine the age and the entry educational and qualification level of the candidates, as well as the contents and the duration of the vocational education and vocational training.
+(2) The programmes referred to in Paragraph 1 shall determine the age and the entry educational and qualification level of the candidates, as well as the contents and the duration of the vocational education and vocational training.
 
-- The programmes referred to in Paragraph 1 shall be:
+(3) The programmes referred to in Paragraph 1 shall be:
 
-- A  Programmes  for initial vocational training for acquiring first degree of professional qualification;
+1. A Programmes for initial vocational training for acquiring first degree of professional qualification;
 
-- B  Programmes  for  initial  vocational  training  for  acquiring  second  degree  of professional qualification;
+2. B Programmes for initial vocational training for acquiring second degree of professional qualification;
 
-- C  Programmes  for  vocational  education  for  acquiring  second  or  third  degree  of professional qualification;
+3. C Programmes for vocational education for acquiring second or third degree of professional qualification;
 
-- D programmes for vocational education for acquiring fourth degree of professional qualification;
+4. D programmes for vocational education for acquiring fourth degree of professional qualification;
 
-- E Programmes for initial vocational training for acquiring qualification on part of a profession;
+5. E Programmes for initial vocational training for acquiring qualification on part of a profession;
 
-- F  Programmes  for  continuous  vocational  training  and  updating  or  expanding  the acquired professional qualification, as well as for acquiring first, second and third degree of professional qualification.
+6. F Programmes for continuous vocational training and updating or expanding the acquired professional qualification, as well as for acquiring first, second and third degree of professional qualification.
 
 #### Programmes for Students
 
 Article 11. Students may be trained under the following programmes:
 
-- A Programmes with duration of up to 3 years for students with completed 6th grade at the least;
+1. A Programmes with duration of up to 3 years for students with completed 6th grade at the least;
 
-- B Programmes with duration of up to 4 years for students with completed primary education or with a completed secondary education grade;
+2. B Programmes with duration of up to 4 years for students with completed primary education or with a completed secondary education grade;
 
-(Amended,  SG  No.  103/2002)  C  Programmes  with  duration  of  4  or  5  years  for students with completed primary education or 6 years for students with completed 7th grade, and  in  the  art  schools  -  up  to  4  years  after  primary  education  or  a  completed  secondary education grade;
+3. (Amended, SG No. 103/2002) C Programmes with duration of 4 or 5 years for students with completed primary education or 6 years for students with completed 7th grade, and in the art schools - up to 4 years after primary education or a completed secondary education grade;
 
-- E  Programmes with duration of up to 1 year for students with completed primary education or a completed secondary education grade.
+4. E Programmes with duration of up to 1 year for students with completed primary education or a completed secondary education grade.
 
 #### Programmes for Persons Aged 16 and Over
 
 Article  12. The  programmes  under  which  persons  aged  16  and  over  may  be  trained shall be:
 
-- A Programmes with duration of up to 1 year for persons with completed 6th grade at the least;
+1. A Programmes with duration of up to 1 year for persons with completed 6th grade at the least;
 
-- B  Programmes  with  duration  of  1  year  for  persons  with  a  completed  secondary education grade or with completed secondary education;
+2. B Programmes with duration of 1 year for persons with a completed secondary education grade or with completed secondary education;
 
-(New, SG No. 103/2002) C Programmes, with a duration of respectively 4 or 5 years for persons with completed primary education;
+3. (New, SG No. 103/2002) C Programmes, with a duration of respectively 4 or 5 years for persons with completed primary education;
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-4. (Renumbered from Item - SG No. 103/2002) D Programmes with duration of up to 2 years for persons with completed secondary education;
+4. (Renumbered from Item 3 - SG No. 103/2002) D Programmes with duration of up to 2 years for persons with completed secondary education;
 
 5.  (Renumbered  from  Item  4  -  SG  No.  103/2002)  E  Programmes  with  duration determined by the specific vocational training documentation;
 
@@ -254,19 +256,19 @@ Article 17. (1) The forms of education, the organisational forms and the educati
 
 Article 18. The institutions in the system of vocational education and training shall be:
 
-- vocational schools;
+1. vocational schools;
 
-- vocational secondary schools;
+2. vocational secondary schools;
 
-(new, SG No. 103/2002) art schools;
+3. (new, SG No. 103/2002) art schools;
 
-(renumbered from item 3 - SG No. 103/2002) vocational colleges;
+4. (renumbered from item 3 - SG No. 103/2002) vocational colleges;
 
-(renumbered from item 4 - SG No. 103/2002) centres for vocational training;
+5. (renumbered from item 4 - SG No. 103/2002) centres for vocational training;
 
-(renumbered from item 5 - SG No. 103/2002) centres for information and vocational orientation;
+6. (renumbered from item 5 - SG No. 103/2002) centres for information and vocational orientation;
 
-(repealed, SG No. 103/2002)
+7. (repealed, SG No. 103/2002)
 
 8.  (renumbered from item 6 - SG No. 103/2002) centres for qualification of training specialists;
 
@@ -367,7 +369,7 @@ Article 26. (1)  (Amended, SG No. 103/2002) State and municipal schools may carr
 
 #### Structure and Content of the Framework Programmes for Vocational Education
 
-(Title mended, SG No. 103/2002)
+(Title amended, SG No. 103/2002)
 
 Article 27. (1) The structure of the programmes for vocational education shall include general  education  training,  obligatory  vocational  training  -  general,  branch  and  specific  for each  profession,  obligatory  foreign  language  studies  related  to  the  profession  and  optional studies - mandatorily elective and optional.
 
@@ -420,27 +422,27 @@ Article 29. Practical  training  shall  be  organised  as  educational  practice
 
 Article 30. (1) Practical training shall be carried out in:
 
-- educational and production facilities of the schools;
+1. educational and production facilities of the schools;
 
-- educational  and  production  facilities  of  similar  schools  or  centres  for  vocational training in the Republic of Bulgaria and abroad;
+2. educational and production facilities of similar schools or centres for vocational training in the Republic of Bulgaria and abroad;
 
-- enterprises of natural and legal persons;
+3. enterprises of natural and legal persons;
 
-- educational and production facilities with the enterprises.
+4. educational and production facilities with the enterprises.
 
-- The educational and production facilities shall be equipped according to the state educational requirements for acquiring qualification on professions.
+(2) The educational and production facilities shall be equipped according to the state educational requirements for acquiring qualification on professions.
 
-- Conditions in compliance with the state educational requirement for safe conditions of  tuition,  education  and  work  shall  be  provided  in  the  places  for  carrying  out  practical training.
+(3) Conditions in compliance with the state educational requirement for safe conditions of tuition, education and work shall be provided in the places for carrying out practical training.
 
 #### Organisation of Practical Training
 
 Article 31. (1) Practical training shall be carried out as educational training, educational practical and practical educational activities.
 
-- Schools shall conclude contracts for carrying out practical training in the locations referred to in Article 30, Paragraph 1, items 2, 3 and 4.
+(2) Schools shall conclude contracts for carrying out practical training in the locations referred to in Article 30, Paragraph 1, items 2, 3 and 4.
 
-- Schools  may  organise  independently  and/or  in  co-operation  with  natural  or  legal persons production of products and services meeting the state educational requirements for acquiring qualification on professions or the vocational training documentation of the school or of the applicant for vocational training.
+(3) Schools may organise independently and/or in co-operation with natural or legal persons production of products and services meeting the state educational requirements for acquiring qualification on professions or the vocational training documentation of the school or of the applicant for vocational training.
 
-(New,  SG  No.  103/2002)  The  organisation  and  financing  of  practical  education shall be carried out under conditions and following a procedure determined with an ordinance of the Minister of Education and Science in coordination with the Minister of Finance.
+(4) (New, SG No. 103/2002) The organisation and financing of practical education shall be carried out under conditions and following a procedure determined with an ordinance of the Minister of Education and Science in coordination with the Minister of Finance.
 
 ### Section IV Vocational Education and Vocational Training for Students with Special Educational Needs and/or Chronic Diseases, for Students from Raising and Educating Children Deprived of Parental Care and for Persons Deviant Behaviour
 
@@ -451,13 +453,13 @@ Article 31. (1) Practical training shall be carried out as educational training,
 
 Article  32. (1)  Vocational  education  and  vocational  training  shall  be  organised  for persons with special educational needs corresponding to their respective handicap.
 
-- Vocational  education  or  vocational  training  shall  be  organised  for  students  with sensor handicaps on professions or parts of professions, the training and practising of which are suitable for their health status.
+(2) Vocational education or vocational training shall be organised for students with sensor handicaps on professions or parts of professions, the training and practising of which are suitable for their health status.
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
-- Vocational  training  on  part  of  a  profession  or  on  a  profession  for  acquiring  first degree of professional qualification shall be organised for mentally handicapped students.
+(3) Vocational training on part of a profession or on a profession for acquiring first degree of professional qualification shall be organised for mentally handicapped students.
 
 #### Vocational Education and Vocational Training of Students with Chronic Diseases
 
@@ -488,7 +490,7 @@ Article  32. (1)  Vocational  education  and  vocational  training  shall  be  o
 
 - Article 32e. (1) The professions referred to in Articles 32 and 32a shall be determined by the Ministry of Education and Science and by the Ministry of Health, those referred to in Article  32b  and  32c  -  by  the  Ministry  of  Education  and  Science  and  those  referred  to  in Article 32d - by the Ministry of Education and Science and the Ministry of Justice.
 
-- Admitted in the vocational schools and in the vocational secondary schools shall be in a class up to 5 students with sensor lesions, with chronic diseases and/or physical lesions, as  well  as  students  from  the  homes  for  raising  and  educating  children  deprived  of  parental care.
+(2) Admitted in the vocational schools and in the vocational secondary schools shall be in a class up to 5 students with sensor lesions, with chronic diseases and/or physical lesions, as well as students from the homes for raising and educating children deprived of parental care.
 
 ## Chapter Five GRADUATION, CERTIFICATION AND ACKNOWLEDGEMENT OF VOCATIONAL EDUCATION AND VOCATIONAL TRAINING
 
@@ -498,11 +500,11 @@ Article  32. (1)  Vocational  education  and  vocational  training  shall  be  o
 
 Article 33. (1) Vocational education shall be concluded by:
 
-- state matriculation examinations for graduating secondary education according to the Level of Education, General Education Minimum and Curriculum Act;
+1. state matriculation examinations for graduating secondary education according to the Level of Education, General Education Minimum and Curriculum Act;
 
-(amended, SG  No.  103/2002) state examinations for acquiring professional qualification - theory of the profession and practice of the profession.
+2. (amended, SG No. 103/2002) state examinations for acquiring professional qualification - theory of the profession and practice of the profession.
 
-(Amended and supplemented, SG No. 103/2002) Vocational training in A, B, C and D  Programmes  shall be concluded by state examinations for acquiring professional qualification - theory of the profession and practice of the profession.
+(2) (Amended and supplemented, SG No. 103/2002) Vocational training in A, B, C and D Programmes shall be concluded by state examinations for acquiring professional qualification - theory of the profession and practice of the profession.
 
 [[END OF PAGE 11]]
 
@@ -534,7 +536,7 @@ Article  35. (1)  (Supplemented,  SG  No.  103/2002)  The  commissions  for  hol
 
 Article 36. (1) The state examinations on theory of the profession and on practice of the  profession  shall  be  carried  out  according  to  national  examination  programmes  in compliance with the state educational requirements for acquiring qualification on professions.
 
-(2) (Amended,  SG  No.  28/2005, SG  No. 94/2005) The national examination programmes shall be approved by the Minister of Education and Science, and for art schools by the Minister of Culture.
+(2) (Amended, SG No. 28/2005, SG No. 94/2005) The national examination programmes shall be approved by the Minister of Education and Science, and for art schools - by the Minister of Culture.
 
 #### Examinations for Acquiring Professional Qualification in Vocational Training
 
@@ -549,9 +551,9 @@ Article 38. (1) The completion of vocational education shall be certified by:
 
 [[START OF PAGE 13]]
 
-- diploma for completed secondary education;
+1. diploma for completed secondary education;
 
-- certificate for professional qualification;
+2. certificate for professional qualification;
 
 3. (supplemented, SG No. 77/2005 ) certificate for legal capacity issued for professions whose exercising requires legal capacity, including the exercising of regulated professions.
 
@@ -565,7 +567,7 @@ Article 38. (1) The completion of vocational education shall be certified by:
 
 (3)  A  certificate  for  vocational  training  shall  be  issued  for  completed  vocational training  for  acquiring  qualification  on  part  of  a  profession,  for  updating  or  widening  the professional qualification.
 
-(4) The content of the documents referred to in Paragraphs 1 and 2 shall be determined according  to  the  state  educational  requirements  for  the  documents  in  the  public  education system and for acquiring qualification on professions and those referred to in Paragraph 3 with the state educational requirement for the documents in the public education system and the specific documentation referred to in Article 13, Paragraph 2.
+(4) The content of the documents referred to in Paragraphs 1 and 2 shall be determined according to the state educational requirements for the documents in the public education system and for acquiring qualification on professions and those referred to in Paragraph 3 - with the state educational requirement for the documents in the public education system and the specific documentation referred to in Article 13, Paragraph 2.
 
 (5)  (Amended,  SG  No.  77/2005  )  The  conditions  and  the  procedure  for  issuing  a certificate for legal capacity shall be determined by ordinances of the Minister of Education and Science unless otherwise provided by a law.
 
@@ -599,7 +601,7 @@ Article 41. (1)  The National Agency for Vocational Education and Training shall
 
 (2) (Amended, SG No. 103/2002) The National Agency for Vocational Education and Training shall be a state body for licensing activities in the system of vocational education and training, as well as for coordination between the institutions related to vocational orientation, education and training.
 
-- The  National  Agency  for  Vocational  Education  and  Training  shall  carry  out  its activities in compliance with this Act and with rules approved by the Council of Ministers.
+(3) The National Agency for Vocational Education and Training shall carry out its activities in compliance with this Act and with rules approved by the Council of Ministers.
 
 #### Functions of the National Agency for Vocational Education and Training
 
@@ -607,31 +609,31 @@ Article 41. (1)  The National Agency for Vocational Education and Training shall
 
 Article 42. The National Agency for Vocational Education and Training shall:
 
-- develop and approve criteria for licensing and the related documentation;
+1. develop and approve criteria for licensing and the related documentation;
 
-- issue and withdraw licences for vocational training and vocational orientation;
+2. issue and withdraw licences for vocational training and vocational orientation;
 
-- develop and propose to the Minister of Education and Science:
+3. develop and propose to the Minister of Education and Science:
 
-- the List of professions for vocational education and training;
+a) the List of professions for vocational education and training;
 
-- the state educational requirements for acquiring qualification on professions;
+b) the state educational requirements for acquiring qualification on professions;
 
-- participate  in  developing  the  state  educational  requirements  for  the  documents  for the  public  education  system  and  for  the  system  of  assessment  in  their  part  for  vocational education and training;
+4. participate in developing the state educational requirements for the documents for the public education system and for the system of assessment in their part for vocational education and training;
 
-(supplemented, SG No. 77/2005 ) on the basis of the documents referred to in Article 38,  Paragraph 5, develop and approve unified requirements for the conditions, organisation and contents of vocational training for professions whose practising requires legal capacity and for regulated professions which is carried out by the centres for vocational training;
+5. (supplemented, SG No. 77/2005 ) on the basis of the documents referred to in Article 38, Paragraph 5, develop and approve unified requirements for the conditions, organisation and contents of vocational training for professions whose practising requires legal capacity and for regulated professions which is carried out by the centres for vocational training;
 
-- submit opinions and motivated proposals to the Minister of Education and Science for changes in the register referred to in § 1, Paragraph 2 of the supplementary provisions of the Public Education Act regarding the institutions in the system of vocational education and training;
+6. submit opinions and motivated proposals to the Minister of Education and Science for changes in the register referred to in § 1, Paragraph 2 of the supplementary provisions of the Public Education Act regarding the institutions in the system of vocational education and training;
 
-- assign the carrying out and the implementation of scientific research in the sphere of vocational education, training and orientation;
+7. assign the carrying out and the implementation of scientific research in the sphere of vocational education, training and orientation;
 
-- coordinate  the  activities  on  the  drawing  up  of  strategies  for  development  and improvement of vocational education and training;
+8. coordinate the activities on the drawing up of strategies for development and improvement of vocational education and training;
 
-- contribute  to  the  international  acknowledgement  of  the  documents  for  vocational education and vocational training;
+9. contribute to the international acknowledgement of the documents for vocational education and vocational training;
 
-- create  and  maintain  a  register  of  the  centres  for  vocational  training  and  of  the centres for information and vocational orientation.
+10. create and maintain a register of the centres for vocational training and of the centres for information and vocational orientation.
 
-- approve  the  programmes  for  training  outside  the  state  educational  requirements referred  to  in  Article  16,  items  3  and  7  of  the  Public  Education  Act,  as  well  as  the programmes  for  educational  services  carried  out  by  natural  or  legal  persons  to  children, students and persons aged 16 and over.
+11. approve the programmes for training outside the state educational requirements referred to in Article 16, items 3 and 7 of the Public Education Act, as well as the programmes for educational services carried out by natural or legal persons to children, students and persons aged 16 and over.
 
 #### Managing Bodies and Executive Bodies
 
@@ -646,11 +648,11 @@ Article 44. (1) The Managing Board shall consist of a chairperson and 24 members
 
 [[START OF PAGE 15]]
 
-- eight representatives of ministries;
+1. eight representatives of ministries;
 
-- eight representatives of the organisations of the employers;
+2. eight representatives of the organisations of the employers;
 
-- eight representatives of the organisations of employees on a national level;
+3. eight representatives of the organisations of employees on a national level;
 
 (2)  The  representatives  referred  to  in  Paragraph  1  shall  be  determined  pursuant  to  a procedure  stipulated  by  the  Rules  of  operation  of  the  National  Agency  for  Vocational Education and Training.
 
@@ -662,19 +664,19 @@ Article 44. (1) The Managing Board shall consist of a chairperson and 24 members
 
 Article 45. (1) The mandate of the chairperson and of the members of the Managing Board shall be four years. One person may not be member of the Managing Board for more than two consecutive mandates.
 
-- Half of the members of the Managing Board shall be renewed by quotas every two years.
+(2) Half of the members of the Managing Board shall be renewed by quotas every two years.
 
-- A  member of the  Managing Board shall be released before the expiration of the mandate:
+(3) A member of the Managing Board shall be released before the expiration of the mandate:
 
-- upon written proposal by the institutions referred to in Article 44, Paragraph 1;
+1. upon written proposal by the institutions referred to in Article 44, Paragraph 1;
 
-- for systematic non-fulfilment of his/her duties;
+2. for systematic non-fulfilment of his/her duties;
 
-- for factual impossibility to fulfil his/her duties for a period longer than 6 months;
+3. for factual impossibility to fulfil his/her duties for a period longer than 6 months;
 
-- upon his/her written request.
+4. upon his/her written request.
 
-- The  decision  for  release  under  Paragraph  3,  item  2  and  3  shall  be  taken  by  a common majority of the members of the board.
+(4) The decision for release under Paragraph 3, item 2 and 3 shall be taken by a common majority of the members of the board.
 
 (5)  The  completion  of  the  Managing  Board  by  a  new  member  shall  be  carried  out following  the  procedure  stipulated  by  the  Rules  of  operation  of  the  National  Agency  for Vocational Education and Training.
 
@@ -684,23 +686,23 @@ Article 45. (1) The mandate of the chairperson and of the members of the Managin
 
 Article  46. (1)  The  Managing  Board  shall  hold  its  meetings  at  least  once  in  three months.  Its  meetings  shall  be  considered  regular  if  at  least  two  thirds  of  its  members  are present.
 
-- The Managing Board shall make decisions by open voting and common majority of the members of the board.
+(2) The Managing Board shall make decisions by open voting and common majority of the members of the board.
 
 #### Functions of the Managing Board
 
 Article 47. The Managing Board shall:
 
-(Repealed, SG No. 103/2002)
+1. (Repealed, SG No. 103/2002)
 
-- make decisions to open procedures for licensing;
+2. make decisions to open procedures for licensing;
 
-- establish expert commissions on professional branches and an expert commission on vocational orientation and determine their tasks and members;
+3. establish expert commissions on professional branches and an expert commission on vocational orientation and determine their tasks and members;
 
-(amended, SG No. 103/2002) on the basis of the reports of the expert commissions, make decisions for licensing;
+4. (amended, SG No. 103/2002) on the basis of the reports of the expert commissions, make decisions for licensing;
 
-(amended, SG No. 103/2002) inform the Ministry of Education and Science about the  licensed  centres  for  vocational  training  and  centres  for  information  and  vocational orientation;
+5. (amended, SG No. 103/2002) inform the Ministry of Education and Science about the licensed centres for vocational training and centres for information and vocational orientation;
 
-- make  proposals  to  the  Ministry  of  Education  and  Science  for  development  and improvement of the system of vocational education and training, as well as for changes in the
+6. make proposals to the Ministry of Education and Science for development and improvement of the system of vocational education and training, as well as for changes in the
 
 [[END OF PAGE 15]]
 
@@ -768,7 +770,7 @@ Article 49a. (New, SG No. 103/2002) (1) The licence shall give the right to carr
 
 (6)  The  Chairperson  of  the  National  Agency  for  Vocational  Education  and  Training shall refuse to issue licence in the cases when:
 
-- all documents under Paragraph 2 have not been presented;
+1. all documents under Paragraph 2 have not been presented;
 
 2. the documents under Paragraph 2 do not meet the requirements of this Act and of the Rules of operation of the National Agency for Vocational Education and Training.
 
@@ -788,23 +790,23 @@ Article 49a. (New, SG No. 103/2002) (1) The licence shall give the right to carr
 
 - carries out vocational training or vocational orientation in violation of the obtained licence.
 
-(Amended, SG No. 30/2006) The order of the Chairperson of the National Agency for  Vocational  Education  and  Training  referred  to  in  Paragraph  10  and  the  refusal  to  issue licence under Paragraph 6 may be appealed pursuant to the Administrative Procedure Code.
+(11) (Amended, SG No. 30/2006) The order of the Chairperson of the National Agency for Vocational Education and Training referred to in Paragraph 10 and the refusal to issue licence under Paragraph 6 may be appealed pursuant to the Administrative Procedure Code.
 
 #### Information Activity of the National Agency for Vocational Education and Training
 
 Article 50. The National Agency for Vocational Education and Training shall publish a bulletin which shall contain:
 
-(Repealed, SG No. 103/2002)
+1. (Repealed, SG No. 103/2002)
 
-(amended, SG No. 103/2002) criteria, procedures and documentation for licensing of centres for vocational training and of centres for information and vocational orientation;
+2. (amended, SG No. 103/2002) criteria, procedures and documentation for licensing of centres for vocational training and of centres for information and vocational orientation;
 
-- List of Professions for Vocational Education and Training;
+3. List of Professions for Vocational Education and Training;
 
-(amended, SG No. 103/2002) the institutions licensed by the National Agency for Vocational Education and Training;
+4. (amended, SG No. 103/2002) the institutions licensed by the National Agency for Vocational Education and Training;
 
-(Repealed, SG No. 103/2002)
+5. (Repealed, SG No. 103/2002)
 
-(Repealed, SG No. 103/2002)
+6. (Repealed, SG No. 103/2002)
 
 ### Section II Functions of the Ministries, Municipalities and of the Social Partners Regarding Vocational Education and Training
 
@@ -816,107 +818,107 @@ Article 51. (1) The Ministry of Education and Science shall implement the state 
 
 [[START OF PAGE 18]]
 
-- adopting the state educational requirements for acquiring qualification for professions;
+1. adopting the state educational requirements for acquiring qualification for professions;
 
-- approving the List of Professions for Vocational Education and Training;
+2. approving the List of Professions for Vocational Education and Training;
 
-- 2a. (new, SG No. 77/2005) proposing for approval to the Council of Ministers the List of Regulated Professions in the Republic of Bulgaria;
+2a. (new, SG No. 77/2005) proposing for approval to the Council of Ministers the List of Regulated Professions in the Republic of Bulgaria;
 
-- maintaining  the  register  referred  to  in  §  1,  Paragraph  2  of  the  supplementary provisions of the Public Education Act regarding the institutions in the system of vocational education and training;
+3. maintaining the register referred to in § 1, Paragraph 2 of the supplementary provisions of the Public Education Act regarding the institutions in the system of vocational education and training;
 
-- approving the state admission plan for state and municipal schools;
+4. approving the state admission plan for state and municipal schools;
 
-- providing conditions for the fulfilment of the state educational requirements for the system of the professional education and training;
+5. providing conditions for the fulfilment of the state educational requirements for the system of the professional education and training;
 
-- approving programmes for qualification in the system of vocational education and training;
+6. approving programmes for qualification in the system of vocational education and training;
 
-- organising the vocational orientation;
+7. organising the vocational orientation;
 
-(amended,  SG  No.  103/2002)  determining  independently  or  jointly  with  the respective  competent  ministry  the  professions  for  students  with  special  educational  needs and/or with chronic diseases and persons with deviant behaviour;
+8. (amended, SG No. 103/2002) determining independently or jointly with the respective competent ministry the professions for students with special educational needs and/or with chronic diseases and persons with deviant behaviour;
 
-- allocating  the  financial  resources  approved  by  its  budget  for  vocational  education and training and control their utilisation;
+9. allocating the financial resources approved by its budget for vocational education and training and control their utilisation;
 
-- analysing the results and the efficiency of vocational education and training;
+10. analysing the results and the efficiency of vocational education and training;
 
-- appointing its representatives in the Managing Board and in the expert commissions of the National Agency for Vocational Education and Training;
+11. appointing its representatives in the Managing Board and in the expert commissions of the National Agency for Vocational Education and Training;
 
-(new,  SG  No.  77/2005)  acting  as  national  coordinator  of  activities  related  to acknowledgement of professional qualification and legal capacity.
+12. (new, SG No. 77/2005) acting as national coordinator of activities related to acknowledgement of professional qualification and legal capacity.
 
-- The  inspectorates  for  education  of  the  Ministry  of  Education  and  Science  shall implement  the  state  policy  in  the  sphere  of  the  vocational  education  and  training  in  the respective region by:
+(2) The inspectorates for education of the Ministry of Education and Science shall implement the state policy in the sphere of the vocational education and training in the respective region by:
 
-- coordinating the interaction between the schools, the centres for vocational training and  the  centres  for  information  and  vocational  orientation  and  the  regional  employment offices  and  the  employment  bureaux,  with  the  hygiene  and  epidemiological  inspectorates, with the bodies of the local independent government and with the regional structures of the social partners;
+1. coordinating the interaction between the schools, the centres for vocational training and the centres for information and vocational orientation and the regional employment offices and the employment bureaux, with the hygiene and epidemiological inspectorates, with the bodies of the local independent government and with the regional structures of the social partners;
 
-- coordinating the proposals of the schools for the state admission plan;
+2. coordinating the proposals of the schools for the state admission plan;
 
-- participating  in  the  organisation  of  the  examinations  for  acquiring  professional qualification.
+3. participating in the organisation of the examinations for acquiring professional qualification.
 
 #### Functions of the Ministry of Labour and Social Policy
 
 Article 52. The Ministry of Labour and Social Policy shall participate in implementing the state policy in the sphere of vocational education and training by:
 
-- determining  the  needs  of  vocational  education  and  training  by  analysing  the tendencies in the development of the labour market;
+1. determining the needs of vocational education and training by analysing the tendencies in the development of the labour market;
 
-- participating in the development, coordination and updating of the state educational requirements for acquiring qualification on professions;
+2. participating in the development, coordination and updating of the state educational requirements for acquiring qualification on professions;
 
-- participating in the coordination of the List of Professions for Vocational Education and Training;
+3. participating in the coordination of the List of Professions for Vocational Education and Training;
 
-- determining the requirements for healthy and safe conditions in the practical training and controlling their fulfilment through the regional labour inspectorates;
+4. determining the requirements for healthy and safe conditions in the practical training and controlling their fulfilment through the regional labour inspectorates;
 
-- participating in the coordination of the state admission plan in the schools through the regional employment offices;
+5. participating in the coordination of the state admission plan in the schools through the regional employment offices;
 
-- participating in the organising of vocational orientation;
+6. participating in the organising of vocational orientation;
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
 
-- appointing its representatives in the Managing Board and in the expert commissions of the National Agency for Vocational Education and Training.
+7. appointing its representatives in the Managing Board and in the expert commissions of the National Agency for Vocational Education and Training.
 
 #### Functions of the Ministry of Health
 
 Article 53. The Ministry of Health shall:
 
-- participate  in  the  coordination  of  the  List  of  Professions  for  Vocational  Education and Training;
+1. participate in the coordination of the List of Professions for Vocational Education and Training;
 
-- determine the chronic diseases and physical handicaps which are counter indicative for vocational education and vocational training on professions of the List of Professions for Vocational Education and Training;
+2. determine the chronic diseases and physical handicaps which are counter indicative for vocational education and vocational training on professions of the List of Professions for Vocational Education and Training;
 
-(amended, SG No. 103/2002) determine, jointly with the Ministry of Education and Science, the professions for which the vocational education and vocational training is suitable for the health status of the trainees with chronic diseases and physical injuries, with sensor injuries and mental backwardness;
+3. (amended, SG No. 103/2002) determine, jointly with the Ministry of Education and Science, the professions for which the vocational education and vocational training is suitable for the health status of the trainees with chronic diseases and physical injuries, with sensor injuries and mental backwardness;
 
-- determine  requirements  for  the  health  conditions  in  the  practical  training  and  the hygiene and physiological requirements for the weekly programmes, as well as control their fulfilment through the bodies of the State Sanitary Control;
+4. determine requirements for the health conditions in the practical training and the hygiene and physiological requirements for the weekly programmes, as well as control their fulfilment through the bodies of the State Sanitary Control;
 
-(supplemented, SG No. 103/2002) appoint its representatives in the Managing Board and  in  the  expert  commission  for  vocational  orientation  of  the  National  Agency  for Vocational Education and Training;
+5. (supplemented, SG No. 103/2002) appoint its representatives in the Managing Board and in the expert commission for vocational orientation of the National Agency for Vocational Education and Training;
 
 #### Functions of the Branch Ministries
 
 Article 54. The branch ministries shall:
 
-- participate  in  the  development,  coordination  and  updating  of  the  state  educational requirements for acquiring qualification on professions;
+1. participate in the development, coordination and updating of the state educational requirements for acquiring qualification on professions;
 
-- participate in the development, coordination and updating the List of Professions for Vocational Education and Training;
+2. participate in the development, coordination and updating the List of Professions for Vocational Education and Training;
 
-- propose changes in the register referred to in § 1, Paragraph 2 of the supplementary provisions of the Public Education Act regarding the institutions in the system of vocational education and training;
+3. propose changes in the register referred to in § 1, Paragraph 2 of the supplementary provisions of the Public Education Act regarding the institutions in the system of vocational education and training;
 
-(supplemented,  SG  No.  103/2002)  participate  in  the  coordination  of  the  state admission plan for the schools they finance;
+4. (supplemented, SG No. 103/2002) participate in the coordination of the state admission plan for the schools they finance;
 
-- allocate  the  financial  resources  for  vocational  education  and  vocational  training approved by their budget and control their spending;
+5. allocate the financial resources for vocational education and vocational training approved by their budget and control their spending;
 
-(amended, SG No. 103/2002) appoint their representatives in the Managing Board and  in  the  expert  commissions  in  the  professional  divisions  of  the  National  Agency  for Vocational Education and Training.
+6. (amended, SG No. 103/2002) appoint their representatives in the Managing Board and in the expert commissions in the professional divisions of the National Agency for Vocational Education and Training.
 
 #### Functions of the Municipalities
 
 Article 55. Municipalities shall participate in forming the policy in the sphere of the vocational education and training on their territories regarding:
 
-- the need for specialists;
+1. the need for specialists;
 
-- the  vocational  orientation  of  students,  unemployed  persons,  as  well  as  of  other persons;
+2. the vocational orientation of students, unemployed persons, as well as of other persons;
 
-- the  changes  in  the  register  referred  to  in  §  1,  Paragraph  2  of  the  supplementary provisions of the Public Education Act regarding the institutions in the system of vocational education and training;
+3. the changes in the register referred to in § 1, Paragraph 2 of the supplementary provisions of the Public Education Act regarding the institutions in the system of vocational education and training;
 
-- the  allocation  of  the  financial  resources  approved  by  their  budget  for  vocational education, training and orientation and control their spending;
+4. the allocation of the financial resources approved by their budget for vocational education, training and orientation and control their spending;
 
-- the development of the material and technical facilities of the schools, of the centres for vocational training and the centres for information and vocational orientation by financial resources from the municipal budgets;
+5. the development of the material and technical facilities of the schools, of the centres for vocational training and the centres for information and vocational orientation by financial resources from the municipal budgets;
 
-- the determining of the state admission plan for the schools.
+6. the determining of the state admission plan for the schools.
 
 [[END OF PAGE 19]]
 
@@ -926,35 +928,35 @@ Article 55. Municipalities shall participate in forming the policy in the sphere
 
 Article 56. The organisations of employers shall:
 
-- participate in the development, updating and coordination of the List of Professions for Vocational Education and Training;
+1. participate in the development, updating and coordination of the List of Professions for Vocational Education and Training;
 
-- propose changes in the register referred to in § 1, Paragraph 2 of the supplementary provisions of the Public Education Act regarding the institutions in the system of vocational education and training;
+2. propose changes in the register referred to in § 1, Paragraph 2 of the supplementary provisions of the Public Education Act regarding the institutions in the system of vocational education and training;
 
-- participate  in  the  development,  coordination  and  updating  of  the  state  educational requirements for acquiring qualification on professions;
+3. participate in the development, coordination and updating of the state educational requirements for acquiring qualification on professions;
 
-- participate in the organisation and holding of examinations for acquiring professional  qualification  and  propose  representatives  for  participation  in  the  examination commissions;
+4. participate in the organisation and holding of examinations for acquiring professional qualification and propose representatives for participation in the examination commissions;
 
-- appoint their representatives in the management board and in the expert commissions of the National Agency for Vocational Education and Training;
+5. appoint their representatives in the management board and in the expert commissions of the National Agency for Vocational Education and Training;
 
 #### Functions of the Organisations of Employees on the National Level
 
 Article 57. The organisations of employees on the national level shall:
 
-- participate  in  the  updating  of  the  state  educational  requirements  for  acquiring qualification on professions;
+1. participate in the updating of the state educational requirements for acquiring qualification on professions;
 
-- participate in the development, updating and coordination of the List of Professions for Vocational Education and Training;
+2. participate in the development, updating and coordination of the List of Professions for Vocational Education and Training;
 
-- appoint their representatives to the Managing Board and in the Expert Commission for vocational orientation of the National Agency for Vocational Education and Training.
+3. appoint their representatives to the Managing Board and in the Expert Commission for vocational orientation of the National Agency for Vocational Education and Training.
 
 #### Functions of the Branch Trade Unions
 
 Article 58. Branch trade union organisations shall:
 
-- defend the interests of trainees before the employers on issues of employment and insurance relations in carrying out the practical training in the enterprises;
+1. defend the interests of trainees before the employers on issues of employment and insurance relations in carrying out the practical training in the enterprises;
 
-- participate  in  organising  and  holding  the  examinations  for  acquiring  professional qualification and propose representatives for participation in the examination commissions;
+2. participate in organising and holding the examinations for acquiring professional qualification and propose representatives for participation in the examination commissions;
 
-- appoint their representatives to the expert commissions in professional branches of the National Agency for Vocational Education and Training.
+3. appoint their representatives to the expert commissions in professional branches of the National Agency for Vocational Education and Training.
 
 ## Chapter Seven FINANCING VOCATIONAL EDUCATION, TRAINING AND ORIENTATION
 
@@ -962,49 +964,49 @@ Article 58. Branch trade union organisations shall:
 
 Article 59. (1)  State  and  municipal schools, centres for vocational education, centres for  information  and  vocational  orientation  and  centres  for  qualification  of  the  training specialists shall be financed by:
 
-- the state budget;
+1. the state budget;
 
-- the budgets of the municipalities;
+2. the budgets of the municipalities;
 
-- sponsorship, donations, wills;
+3. sponsorship, donations, wills;
 
-- own revenue;
+4. own revenue;
 
-- national and international programmes.
+5. national and international programmes.
 
-(New, SG No. 103/2002) other sources.
+6. (New, SG No. 103/2002) other sources.
 
-- The subsidy from the state budget and from the budgets of the municipalities shall provide financial resources for:
+(2) The subsidy from the state budget and from the budgets of the municipalities shall provide financial resources for:
 
-- support of the vocational education in state and municipal schools;
+1. support of the vocational education in state and municipal schools;
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
 
-- administrative  and  financial  servicing  of  the  state  and  municipal  centres  for vocational training and centres for information and vocational orientation, as well as of the centres for qualification of training specialists;
+2. administrative and financial servicing of the state and municipal centres for vocational training and centres for information and vocational orientation, as well as of the centres for qualification of training specialists;
 
-- support of vocational orientation in the state and municipal centres for information and vocational orientation;
+3. support of vocational orientation in the state and municipal centres for information and vocational orientation;
 
-- the  support  of  the  qualification  of  persons  carrying  out  vocational  training  in  the centres for qualification of training specialists.
+4. the support of the qualification of persons carrying out vocational training in the centres for qualification of training specialists.
 
-(Repealed, SG No. 103/2002)
+(3) (Repealed, SG No. 103/2002)
 
-- State and municipal institutions in the system of vocational education and training shall draw up budgets.
+(4) State and municipal institutions in the system of vocational education and training shall draw up budgets.
 
-- Own  revenue  shall  be  used  for  support  and  development  of  the  material  and technical  facilities.  The  subsidies  from  the  state  budget  and  from  the  budgets  of  the municipalities shall not be reduced for the account of the own revenue.
+(5) Own revenue shall be used for support and development of the material and technical facilities. The subsidies from the state budget and from the budgets of the municipalities shall not be reduced for the account of the own revenue.
 
-- Vocational colleges and centres for vocational training shall collect education fees from individuals and corporate bodies.
+(6) Vocational colleges and centres for vocational training shall collect education fees from individuals and corporate bodies.
 
-- State and municipal centres for information and vocational orientation shall also be financed by additional activities determined by their regulations.
+(7) State and municipal centres for information and vocational orientation shall also be financed by additional activities determined by their regulations.
 
 #### Financing of the National Agency for Vocational Education and Training
 
 Article  60. (1)  (Amended,  SG  No.  103/2002)  The  National  Agency  for  Vocational Education  and  Training  shall  be  financed  by  resources  from  the  state  budget,  from  own revenue, sponsorship, donations, wills, etc.
 
-- The National Agency for Vocational Education and Training shall collect fees for the issuance of licences for vocational training and for vocational orientation according to a tariff approved by the Council of Ministers.
+(2) The National Agency for Vocational Education and Training shall collect fees for the issuance of licences for vocational training and for vocational orientation according to a tariff approved by the Council of Ministers.
 
-(Repealed, SG No. 103/2002)
+(3) (Repealed, SG No. 103/2002)
 
 #### Financing of Vocational Education outside the State Educational Requirements
 
@@ -1023,21 +1025,21 @@ Article 63. (1) The right to exercise a regulated profession shall be certified 
 
 [[START OF PAGE 22]]
 
-- diploma for completed professional education;
+1. diploma for completed professional education;
 
-- document certifying professional qualification;
+2. document certifying professional qualification;
 
-- document certifying the acquired legal right to exercise a regulated profession.
+3. document certifying the acquired legal right to exercise a regulated profession.
 
-- The authorities competent to acknowledge legal capacity to practice the respective regulated profession may require from the person applying for acknowledgement to provide, in addition to the documents referred to in Para. 1, evidence of the contents and duration of the completed education and training.
+(2) The authorities competent to acknowledge legal capacity to practice the respective regulated profession may require from the person applying for acknowledgement to provide, in addition to the documents referred to in Para. 1, evidence of the contents and duration of the completed education and training.
 
 #### Powers of the Acknowledging Authorities
 
 Article 64. The acknowledging authority may not refuse access to or right to exercise the  respective  regulated  profession  under  the  conditions  valid  for  Bulgarian  citizens  to  a Bulgarian  citizen  or  citizen  of  a  member  state  of  the  European  Union  and  the  European economic space who has acquired the respective qualification in these states on the grounds of lack of sufficient qualification, where the person applying for acknowledgement:
 
-- holds a diploma or another document required in any of these states for access to or exercise of the same profession on its territory which have been obtained in these states, or
+1. holds a diploma or another document required in any of these states for access to or exercise of the same profession on its territory which have been obtained in these states, or
 
-- during the last 10 years has exercised this profession full-time for at least two years or for a period equivalent to two full-time years in a member state of the European Union and the European economic space in which this profession is not regulated and holds a document for professional qualification issued by the respective competent authority.
+2. during the last 10 years has exercised this profession full-time for at least two years or for a period equivalent to two full-time years in a member state of the European Union and the European economic space in which this profession is not regulated and holds a document for professional qualification issued by the respective competent authority.
 
 #### Professional Experience
 
@@ -1045,11 +1047,11 @@ Article 65. (1) The acknowledging authority may require from the person applying
 
 (2) The duration of the required professional experience referred to in Para. 1 may not exceed:
 
-- twice the duration of the lacking period of education and training, where this period refers to the training cycle following secondary education and/or to professional experience controlled by training supervisor and ending with an examination;
+1. twice the duration of the lacking period of education and training, where this period refers to the training cycle following secondary education and/or to professional experience controlled by training supervisor and ending with an examination;
 
-- the  period  of  lacking  professional  experience,  where  this  experience  refers  to professional practice aided by a qualified specialist.
+2. the period of lacking professional experience, where this experience refers to professional practice aided by a qualified specialist.
 
-- The required professional experience referred to in Paras. 1 and 2 may not exceed 4 years.
+(3) The required professional experience referred to in Paras. 1 and 2 may not exceed 4 years.
 
 #### Adjustment Training and Examination for Acknowledgement of Legal Capacity
 
@@ -1091,45 +1093,45 @@ Article 68. (1) The acknowledging authorities shall issue a motivated resolution
 
 § 1. Within the meaning of this Act:
 
-"Professional  branch"  shall  mean  an  aggregate  of  professions  in  a  branch  of  the economy or another sphere of public life determined by the National Branch Classification, in accordance  with  the  respective  sphere  of  education  pursuant  to  the  International  Standard Classification of Education.
+1. "Professional branch" shall mean an aggregate of professions in a branch of the economy or another sphere of public life determined by the National Branch Classification, in accordance with the respective sphere of education pursuant to the International Standard Classification of Education.
 
-"Profession" shall mean a type of work activity for which vocational education and vocational training are organised.
+2. "Profession" shall mean a type of work activity for which vocational education and vocational training are organised.
 
-"Part  of  a  profession"  shall  mean  a  separate  work  activity  within  a  profession  for which vocational training can be organised.
+3. "Part of a profession" shall mean a separate work activity within a profession for which vocational training can be organised.
 
-"Speciality" shall mean  an independently separated work  activity within a profession.
+4. "Speciality" shall mean an independently separated work activity within a profession.
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
 
-"Professional  qualification"  shall  mean  qualification  on  a  profession  or  part  of  a profession  which  includes  the  combination  of  professional  competence  and  the  general education knowledge and skills necessary for their formation.
+5. "Professional qualification" shall mean qualification on a profession or part of a profession which includes the combination of professional competence and the general education knowledge and skills necessary for their formation.
 
-"Professional  competence"  shall  mean  personal  qualities  formed  on  the  basis  of acquired knowledge and skills which contribute to initiative, teamwork and quality practising of a profession according to the state educational requirements for acquiring qualification on a profession.
+6. "Professional competence" shall mean personal qualities formed on the basis of acquired knowledge and skills which contribute to initiative, teamwork and quality practising of a profession according to the state educational requirements for acquiring qualification on a profession.
 
-"Professional qualification degree" shall mean the volume and content of professional competence and the general education knowledge and skill necessary for their formation.
+7. "Professional qualification degree" shall mean the volume and content of professional competence and the general education knowledge and skill necessary for their formation.
 
-"Deviant  behaviour"  shall  mean  a  behaviour  which  contradicts  public  norms  and which is subject to moral and legal sanctions.
+8. "Deviant behaviour" shall mean a behaviour which contradicts public norms and which is subject to moral and legal sanctions.
 
-(Repealed, SG No. 103/2002)
+9. (Repealed, SG No. 103/2002)
 
-"Legal capacity" shall mean acknowledged possession of an obligatory amount of professional competence which gives right to practise specific work activities.
+10. "Legal capacity" shall mean acknowledged possession of an obligatory amount of professional competence which gives right to practise specific work activities.
 
-(New,  SG  No.  77/2005)  "Regulated  profession"  shall  mean  an  activity  or  set  of activities the practicing of which is regulated by primary and secondary statutory instruments and  administrative  regulations  for  possession  of  specific  professional  qualification,  legal capacity or membership in a professional organisation working towards the maintenance of high  standards  in  the  respective  area,  for  which  it  has  been  specifically  recognised  by  the government.
+11. (New, SG No. 77/2005) "Regulated profession" shall mean an activity or set of activities the practicing of which is regulated by primary and secondary statutory instruments and administrative regulations for possession of specific professional qualification, legal capacity or membership in a professional organisation working towards the maintenance of high standards in the respective area, for which it has been specifically recognised by the government.
 
 § 1a. (New, SG No. 77/2005, effective as of the date of coming into force of the Treaty for the Republic of Bulgaria's accession to the European Union) For the purposes of Chapter Eight of this Act:
 
-"Diploma" shall mean any document issued by a competent authority in a member state  of  the  European  Union  and  the  European  economic  space  evidencing  that  its  holder possesses the theoretical and professional qualification for access to or exercise of a regulated profession in this member state of the European Union and the European economic space.
+1. "Diploma" shall mean any document issued by a competent authority in a member state of the European Union and the European economic space evidencing that its holder possesses the theoretical and professional qualification for access to or exercise of a regulated profession in this member state of the European Union and the European economic space.
 
-"Document  for  professional  qualification"  shall  mean  any  document  issued  by  a competent authority in a member state of the European Union and the European economic space  evidencing  that  its  holder  possesses  a  set  of  professional  competencies  and  the knowledge and skills necessary for their formation.
+2. "Document for professional qualification" shall mean any document issued by a competent authority in a member state of the European Union and the European economic space evidencing that its holder possesses a set of professional competencies and the knowledge and skills necessary for their formation.
 
-"Document  for  legal  capacity"  shall  mean  any  document  issued  by  a  competent authority in a member state of the European Union and the European economic space which evidences that the holder possesses the mandatory set of professional competencies enabling him or her to exercise a legal profession.
+3. "Document for legal capacity" shall mean any document issued by a competent authority in a member state of the European Union and the European economic space which evidences that the holder possesses the mandatory set of professional competencies enabling him or her to exercise a legal profession.
 
-"Professional  experience"  shall  mean  the  period  of  time  in  which  the  person applying for acknowledgement has exercised legally the respective profession in a member state of the European Union and the European economic space.
+4. "Professional experience" shall mean the period of time in which the person applying for acknowledgement has exercised legally the respective profession in a member state of the European Union and the European economic space.
 
-"Adjustment training" shall mean the practicing of a regulated profession under the control of a qualified specialist on the territory of the Republic of Bulgaria.
+5. "Adjustment training" shall mean the practicing of a regulated profession under the control of a qualified specialist on the territory of the Republic of Bulgaria.
 
-"Examination  for  acknowledgement  of  legal  capacity"  shall  mean  the  test  of  the professional  knowledge  of  the  person  applying  for  acknowledgement  which  aims  to  assess that  person's  ability  to  exercise  a  regulated  profession  on  the  territory  of  the  Republic  of Bulgaria.
+6. "Examination for acknowledgement of legal capacity" shall mean the test of the professional knowledge of the person applying for acknowledgement which aims to assess that person's ability to exercise a regulated profession on the territory of the Republic of Bulgaria.
 
 § 2. The List of Professions for Vocational Education and Training shall also include the list referred to in Article 42, Paragraph 6 of the Public Education Act.
 
@@ -1141,7 +1143,7 @@ Article 68. (1) The acknowledging authorities shall issue a motivated resolution
 
 and the Ministry of Transport, inasmuch as something else is not provided by the acts for their establishment and by the provisions of the special laws regarding their structure and activities.
 
-§ 3a. (New, SG No. 77/2005, effective as of the date of coming into force of the Treaty for the Republic of BulgariaТs accession to the European Union) The legal right to exercise a regulated profession within the meaning of § 1, item 11 shall be acknowledged pursuant to this Act, unless otherwise provided in a special law.
+§ 3a. (New, SG No. 77/2005, effective as of the date of coming into force of the Treaty for the Republic of Bulgaria's accession to the European Union) The legal right to exercise a regulated profession within the meaning of § 1, item 11 shall be acknowledged pursuant to this Act, unless otherwise provided in a special law.
 
 ## TRANSITIONAL AND FINAL PROVISIONS
 
@@ -1169,17 +1171,17 @@ and the Ministry of Transport, inasmuch as something else is not provided by the
 
 [[START OF PAGE 26]]
 
-- certificate  pursuant  to  Article  15,  Paragraph  1,  item  2  of  the  Public  Education  Act  without taking state exams referred to in Article 36, Paragraph 1
+certificate  pursuant  to  Article  15,  Paragraph  1,  item  2  of  the  Public  Education  Act  without taking state exams referred to in Article 36, Paragraph 1
 
-- The  students  referred  to  in  Paragraph  1  shall  take  the  exams  for  acquiring professional qualification - in theory with a summarised syllabus or defence of diploma thesis and in practice according to an assignment determined by the school and after successfully completed 12th grade.
+(2) The  students  referred  to  in  Paragraph  1  shall  take  the  exams  for  acquiring professional qualification - in theory with a summarised syllabus or defence of diploma thesis and in practice according to an assignment determined by the school and after successfully completed 12th grade.
 
 § 7c. (New - SG No. 29/03) (1) The persons completing during the 2002 - 2003 school year their education in professions and specialities with admission after completed secondary education shall not take state exams for acquiring of professional qualification referred to in Article 36, Paragraph 1.
 
-- The  persons  referred  to  in  Paragraph  1  shall  take  exams  for  acquiring  of  second and/or third degree of professional qualification envisaged in the study plans according to § 7:
+(2) The  persons  referred  to  in  Paragraph  1  shall  take  exams  for  acquiring  of  second and/or third degree of professional qualification envisaged in the study plans according to § 7:
 
-- for  acquiring  of  second  degree  of  professional  qualification  -  in  theory  with  a summarised syllabus and in practice according to an assignment determined by the school;
+1. for  acquiring  of  second  degree  of  professional  qualification  -  in  theory  with  a summarised syllabus and in practice according to an assignment determined by the school;
 
-- for  acquiring  of  third  degree  of  professional  qualification  -  in  theory  with  a summarised syllabus or defence of diploma thesis and in practice according to an assignment determined by the school.
+2. for  acquiring  of  third  degree  of  professional  qualification  -  in  theory  with  a summarised syllabus or defence of diploma thesis and in practice according to an assignment determined by the school.
 
 §  8. Half  of  the  members  of  the  Managing  Board  of  the  National  Agency  for Vocational  Education  and  Training,  during  the  first  mandate,  shall  be  renewed  by  four representatives of each the quotas of the organisations of employees on national level by cast and by four representatives of the ministries quota.
 
@@ -1187,7 +1189,7 @@ and the Ministry of Transport, inasmuch as something else is not provided by the
 
 "7.  vocational secondary schools - from 8th or 9th grade through 12th or 13th grade including;
 
-- vocational - from 7th or 8th grade with duration of the education of up to three years, from 9th grade - with duration of the education up to four years and vocational colleges after completed secondary education - with duration of the education of up to two years;".
+8. vocational - from 7th or 8th grade with duration of the education of up to three years, from 9th grade - with duration of the education up to four years and vocational colleges after completed secondary education - with duration of the education of up to two years;".
 
 § 10. In the Protection in Cases of Unemployment and Promotion of Employment Act (promulgated,  SG  No.  120/1997;  amended,  SG  No.  155/1998,  SG  Nos.  26  and  50/1999) Section I of Chapter Six "Professional Qualification" and § 1, item 8 of the supplementary provisions shall be repealed.
 
