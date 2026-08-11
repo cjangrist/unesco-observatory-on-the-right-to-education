@@ -6,17 +6,17 @@
 
 ### A. About the 1974 Recommendation
 
-- UNESCO's 1974 Recommendation concerning Education for International Understanding,  Co-operation  and  Peace  and  Education  relating  to  Human  Rights  and Fundamental  Freedoms 1 (the ' 1974  Recommendation' )  aims  to  promote  international education and world peace through understanding, solidarity and cooperation. It was adopted on 19 November 1974 by the General Conference of UNESCO at its 18th session.
+1. UNESCO’s 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms¹ (the “1974 Recommendation”) aims to promote international education and world peace through understanding, solidarity and cooperation. It was adopted on 19 November 1974 by the General Conference of UNESCO at its 18th session.
 
-- The 1974 Recommendation applies to formal, non-formal and informal education and to all levels, from pre-primary to tertiary and adult education and lifelong learning. The General Conference recommended ' that Member States should apply ' the provisions included in the 1974 Recommendation ' by taking whatever legislative or other steps ' that provide institutional (e.g.  policies  and  legal  frameworks)  and  pedagogical  (e.g.  curricula,  teacher  training, educational materials, equipment, and student assessment) support for its  implementation, based on the ' objectives ', referred to in paragraph 4 of the 1974 Recommendation , ' regarded as major guiding principles of education policy '  including: an international dimension and a global  perspective  on  education,  cultural  diversity,  interdependence,  communication, rights and responsibilities, international solidarity and cooperation, and problem solving.
+2. The 1974 Recommendation applies to formal, non-formal and informal education and to all levels, from pre-primary to tertiary and adult education and lifelong learning. The General Conference recommended “that Member States should apply” the provisions included in the 1974 Recommendation “by taking whatever legislative or other steps” that provide institutional (e.g. policies and legal frameworks) and pedagogical (e.g. curricula, teacher training, educational materials, equipment, and student assessment) support for its implementation, based on the “objectives”, referred to in paragraph 4 of the 1974 Recommendation, “regarded as major guiding principles of education policy” including: an international dimension and a global perspective on education, cultural diversity, interdependence, communication, rights and responsibilities, international solidarity and cooperation, and problem solving.
 
-- Today, the principles of the 1974 Recommendation apply equally well to Education for Sustainable Development (ESD) and to Global Citizenship Education (GCED) and therefore represent a powerful tool for promoting the 2030 Agenda for Sustainable Development and in particular SDG Target 4.7 on the promotion of sustainable development and global citizenship through  education,  Target  12.8  on  access  to  information  on  sustainable  development  and Target 13.3 on climate change education.
+3. Today, the principles of the 1974 Recommendation apply equally well to Education for Sustainable Development (ESD) and to Global Citizenship Education (GCED) and therefore represent a powerful tool for promoting the 2030 Agenda for Sustainable Development and in particular SDG Target 4.7 on the promotion of sustainable development and global citizenship through education, Target 12.8 on access to information on sustainable development and Target 13.3 on climate change education.
 
-- The  General  Conference  in  its  39th  session  recommended  the  use  of  the 1974 Recommendation reporting process to support the implementation and monitoring of Target 4.7 of Sustainable Development Goal 4 (39 C/Resolution 79). The UNESCO Executive Board at its 209th session approved the use of the current guidelines for both the monitoring of the 1974 Recommendation and the collection of data needed for the following global SDG indicator for which UNESCO is custodian (209 EX/Decision 18.II):
+4. The General Conference in its 39th session recommended the use of the 1974 Recommendation reporting process to support the implementation and monitoring of Target 4.7 of Sustainable Development Goal 4 (39 C/Resolution 79). The UNESCO Executive Board at its 209th session approved the use of the current guidelines for both the monitoring of the 1974 Recommendation and the collection of data needed for the following global SDG indicator for which UNESCO is custodian (209 EX/Decision 18.II):
 
-- 4.7.1,  12.8.1  and  13.3.1: The extent to which (i) global  citizenship  education  and (ii) education  for  sustainable  development  are  mainstreamed  in  (a)  national  education policies; (b) curricula; (c) teacher education and (d) student assessment.
+4.7.1, 12.8.1 and 13.3.1: The extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education and (d) student assessment.
 
-- Questions marked with an asterisk (*) will be used in the calculation of the respective indicators  ( Table  1 ).  As  approved  by  the  Inter-Agency  and  Expert  Group  on  the  SDG Indicators, the indicators will be calculated for primary and secondary education only.
+5. Questions marked with an asterisk (*) will be used in the calculation of the respective indicators (Table 1). As approved by the Inter-Agency and Expert Group on the SDG Indicators, the indicators will be calculated for primary and secondary education only.
 
 Table 1 Questions used in the calculation of the global SDG indicator for Targets 4.7, 12.8 and 13.3
 
@@ -34,19 +34,19 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 ### B. Reporting obligations
 
-- The General Conference, at its 18th session, when adopting the 1974 Recommendation recommended ' that Member States submit […] reports concerning the action taken by them in pursuance of this recommendation '. Moreover, in accordance with Article VIII of UNESCO's Constitution ' Each Member State shall submit to the Organization […] reports […] on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4 .'
+6. The General Conference, at its 18th session, when adopting the 1974 Recommendation recommended “that Member States submit […] reports concerning the action taken by them in pursuance of this recommendation”. Moreover, in accordance with Article VIII of UNESCO’s Constitution “Each Member State shall submit to the Organization […] reports […] on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4.”
 
-- Thus, all UNESCO Member States are expected to report on the steps they have taken  to  implement  the 1974  Recommendation preferably  by  completing  the  following questionnaire. Such reporting takes place every four years.
+7. Thus, all UNESCO Member States are expected to report on the steps they have taken to implement the 1974 Recommendation preferably by completing the following questionnaire. Such reporting takes place every four years.
 
 ## II. Guidelines for completion of the questionnaire
 
-- This  questionnaire  and  its  accompanying  guidelines  are  addressed  to  Ministers responsible for relations with UNESCO. The questionnaire is typically completed by Ministries of Education and other government authorities responsible for education. Responses should cover, as far as possible, education at all levels of government, including sub-national levels where applicable as well as education outside the government sector.
+8. This questionnaire and its accompanying guidelines are addressed to Ministers responsible for relations with UNESCO. The questionnaire is typically completed by Ministries of Education and other government authorities responsible for education. Responses should cover, as far as possible, education at all levels of government, including sub-national levels where applicable as well as education outside the government sector.
 
-- National respondents are encouraged to consult widely both within, across and beyond government, including with Ministries of Environment, with national human rights institutions, the education sector, civil society partners and others, as necessary, to gather the information needed to complete the questionnaire.
+9. National respondents are encouraged to consult widely both within, across and beyond government, including with Ministries of Environment, with national human rights institutions, the education sector, civil society partners and others, as necessary, to gather the information needed to complete the questionnaire.
 
-- Responses to the seventh consultation should cover:
+10. Responses to the seventh consultation should cover:
 
-(i)      the time period 2017-2020;
+(i) the time period 2017-2020;
 
 (ii) education at all levels of formal education from pre-primary to tertiary education as well as non-formal education;
 
@@ -54,25 +54,25 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 (iv) where possible, education outside the government sector.
 
-- To assist  countries  in  responding  to  this  questionnaire,  UNESCO  has  developed  the following  set  of  global  citizenship  education  and  education  for  sustainable  development themes. The list is based on a review of current common practices in many countries as well as a review of relevant literature. While the terms ESD and GCED may be used differently in some countries, the list of themes typically captures what are seen as key elements of Target 4.7.  Please  refer  to  the  definitions  of  key  terms  in Section  III before  completing  the questionnaire.
+11. To assist countries in responding to this questionnaire, UNESCO has developed the following set of global citizenship education and education for sustainable development themes. The list is based on a review of current common practices in many countries as well as a review of relevant literature. While the terms ESD and GCED may be used differently in some countries, the list of themes typically captures what are seen as key elements of Target 4.7. Please refer to the definitions of key terms in Section III before completing the questionnaire.
 
 ### Global citizenship education and education for sustainable development
 
-- cultural diversity and tolerance
+1. cultural diversity and tolerance
 
-- 1.1 international or intercultural understanding, solidarity and cooperation
+1.1 international or intercultural understanding, solidarity and cooperation
 
-- 1.2 intercultural and interreligious dialogue
+1.2 intercultural and interreligious dialogue
 
-- 1.3 local, national and/or global citizenship
+1.3 local, national and/or global citizenship
 
-- gender equality education
+2. gender equality education
 
-- 2.1 gender-based equal opportunities
+2.1 gender-based equal opportunities
 
-- 2.2 gender equality and justice
+2.2 gender equality and justice
 
-- 2.3 gender roles, identity and stereotypes
+2.3 gender roles, identity and stereotypes
 
 2
 
@@ -80,55 +80,55 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 [[START OF PAGE 3]]
 
-- human rights education
+3. human rights education
 
-- 3.1 equality  and  non-discrimination  based  on race, colour,  language, religion, disability,  political  or  other  opinion,  national  or  social  origin,  birth  or  other status
+3.1 equality and non-discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status
 
-- 3.2 human rights values, human dignity, justice, inclusion and participation
+3.2 human rights values, human dignity, justice, inclusion and participation
 
-- 3.3 respect for  human  rights  and  fundamental  freedoms  (as  outlined  in international conventions and declarations)
+3.3 respect for human rights and fundamental freedoms (as outlined in international conventions and declarations)
 
-- peace and non-violence
+4. peace and non-violence
 
-- 4.1 friendly relations among peoples and nations
+4.1 friendly relations among peoples and nations
 
-- 4.2 challenging negative stereotypes, promoting peaceful solutions, learning to live together, including others and preventing violent extremism
+4.2 challenging negative stereotypes, promoting peaceful solutions, learning to live together, including others and preventing violent extremism
 
-- 4.3 preventing all forms of violence including bullying, verbal abuse and genderbased violence
+4.3 preventing all forms of violence including bullying, verbal abuse and gender-based violence
 
-- climate change education
+5. climate change education
 
-- 5.1 mitigation
+5.1 mitigation
 
-- 5.2 adaptation
+5.2 adaptation
 
-- 5.3 impact reduction
+5.3 impact reduction
 
-- 5.4 early warning
+5.4 early warning
 
-- environmental sustainability
+6. environmental sustainability
 
-- 6.1 caring for the planet, protecting nature
+6.1 caring for the planet, protecting nature
 
-- 6.2 environmental justice
+6.2 environmental justice
 
-- 6.3 biodiversity, water
+6.3 biodiversity, water
 
-- human survival and well-being
+7. human survival and well-being
 
-- 7.1 environmental health as it pertains to  human well-being, disaster risk reduction
+7.1 environmental health as it pertains to human well-being, disaster risk reduction
 
-- 7.2 health of the planet for future generations
+7.2 health of the planet for future generations
 
-- 7.3 sustainable cities and communities
+7.3 sustainable cities and communities
 
-- sustainable consumption and production
+8. sustainable consumption and production
 
-- 8.1 responsible and sustainable lifestyles
+8.1 responsible and sustainable lifestyles
 
-- 8.2 green economy, green jobs
+8.2 green economy, green jobs
 
-- 8.3 sustainable energy
+8.3 sustainable energy
 
 3
 
@@ -147,7 +147,7 @@ Themes of global citizenship and education for sustainable development
 4. Peace and non-violence | Education about peace and peace-building, mediation, conflict prevention and resolution, non-violence, reconciliation and living together peacefully. It includes advocating for friendly relations among peoples and nations, challenging negative stereotypes, promoting peaceful solutions, learning to live together and preventing violent extremism and other forms of violence including bullying.
 5. Climate change education | Education to help people, in particular youth, understand, address, mitigate, and adapt to the impacts of climate change. It encourages changes in attitudes and behaviours needed to put the world on a more sustainable development path and build a new generation of climate change-aware citizens. It covers various responses to climate change including mitigation, adaptation, impact reduction and early warning.
 6. Environmental sustainability | Education about responsible interactions with the environment to avoid depletion or degradation and to promote environmental quality and health. It includes, caring for the planet and protecting nature, environmental justice, biodiversity and water.
-7. Human survival and well- being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
+7. Human survival and well-being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
 
 4
 
@@ -233,7 +233,7 @@ Others (please specify) :
 
 ## VI. Questionnaire
 
-### Laws and policies (preamble and paras 4 and 7 of the 1974 Recommendation )
+### A. Laws and policies (preamble and paras 4 and 7 of the 1974 Recommendation)
 
 #### A1a. Please  describe any  specific national or sub-national laws, legislation or legal framework(s) in your country that govern the promotion of global citizenship education (GCED) and/or education for sustainable development (ESD). Explain whether GCED and/or ESD themes 2  are mentioned explicitly or are inferred and what types or levels of education are covered.
 
@@ -259,11 +259,11 @@ Education and Training Act 2020 No 38 (as at 25 September 2020), Public Act Cont
 
 #### *A2 Please indicate which GCED and ESD themes are covered in national or sub-national laws, legislation or legal frameworks on education by entering the appropriate number in each white cell.
 
-#### A3a.  Please  describe  any  specific  current  national  or  sub-national  education  policies, frameworks  or  strategic  objectives  in  your  country  that  promote  global  citizenship education  (GCED)  and/or  education  for  sustainable  development  (ESD).  Explain whether GCED and/or ESD themes 3  are mentioned explicitly or are inferred and what types or levels of education are covered.
+KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
 
 National | Sub-national
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Pre- primary | Primary/ secondary | Tertiary* | Non- formal | Pre- primary | Primary/ secondary | Tertiary | Non- formal
+Pre-primary | Primary/secondary | Tertiary* | Non-formal | Pre-primary | Primary/secondary | Tertiary | Non-formal
 1. | Cultural diversity and tolerance | 1 | 1 | 99 | 99 | 99 | 99 | 99 | 99
 2. | Gender equality | 0 | 0 | 99 | 99 | 99 | 99 | 99 | 99
 3. | Human rights | 0 | 0 | 99 | 99 | 99 | 99 | 99 | 99
@@ -273,23 +273,19 @@ Pre- primary | Primary/ secondary | Tertiary* | Non- formal | Pre- primary | Pri
 7. | Human survival and well-being | 0 | 0 | 99 | 99 | 99 | 99 | 99 | 99
 8. | Sustainable consumption and production | 0 | 0 | 99 | 99 | 99 | 99 | 99 | 99
 
-KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
-
 * New Zealand tertiary education providers have autonomy over the programmes of study and training that they provide. This autonomy is provided for in legislation.
 
-The Statement of National Education and Learning Priorities (NELP) sets priorities pre-primary and primary and  secondary  education,  and  the  Tertiary  Education  Strategy  (TES)  2020  sets  priorities  for  tertiary education.
+#### A3a. Please describe any specific current national or sub-national education policies, frameworks or strategic objectives in your country that promote global citizenship education (GCED) and/or education for sustainable development (ESD). Explain whether GCED and/or ESD themes³ are mentioned explicitly or are inferred and what types or levels of education are covered.
+
+The Statement of National Education and Learning Priorities (NELP) sets priorities pre-primary and primary and secondary education, and the Tertiary Education Strategy (TES) 2020 sets priorities for tertiary education.
 
 The objectives and priorities are:
 
 - OBJECTIVE 1: LEARNERS AT THE CENTRE
-
-- o Priority 1: Ensure places of learning are safe, inclusive and free from racism, discrimination and bullying
-
-- o Priority 2: Have high aspirations for every learner/ākonga, a nd support these by partnering with their whānau and communities to design and deliver education that responds to their needs, and sustains their identities, languages and cultures
-
+  - Priority 1: Ensure places of learning are safe, inclusive and free from racism, discrimination and bullying
+  - Priority 2: Have high aspirations for every learner/ākonga, and support these by partnering with their whānau and communities to design and deliver education that responds to their needs, and sustains their identities, languages and cultures
 - OBJECTIVE 2: BARRIER-FREE ACCESS
-
-- o Priority 3: Reduce barriers to education for all, including for Māori and Pacific learners/ākonga, disabled learners/ākonga and those with learning support needs
+  - Priority 3: Reduce barriers to education for all, including for Māori and Pacific learners/ākonga, disabled learners/ākonga and those with learning support needs
 
 > 3 See the schema described in paragraph 11 of Section II of these guidelines.
 
@@ -359,19 +355,19 @@ Textbook development | 99 | 99 | 99 | 99
 Teacher education and training | 99 | 99 | 99 | 99
 Assessment of student outcomes | 99 | 99 | 99 | 99
 
-### Curriculum (paras 4 and 10-19 of the 1974 Recommendation )
+### B. Curriculum (paras 4 and 10-19 of the 1974 Recommendation)
 
 #### B1a. Please describe in which ways GCED and ESD are mainstreamed in school curricula. Indicate  whether  topics  are  taught  as  standalone  subjects  or  are  integrated  into  the curricula of other subjects. Explain whether GCED and/or ESD themes 4  are mentioned explicitly or are inferred and what types or levels of education are covered.
 
 ##### Early Childhood Education
 
-In New Zealand, learning and development in the early childhood setting is holistic - fostering learning partnerships  between  teachers,  parents  and  families  to  provide  wider  context  of  the  child's  world. The curriculum  framework  and  Te  Whāriki  (the  Ministr y  of  Education's  early  childhood  curriculum  policy statement) set expectations that children will be empowered to learn and grow in a holistic way, as part of their families and communities and through responsive and reciprocal relationships.
+In New Zealand, learning and development in the early childhood setting is holistic - fostering learning partnerships between teachers, parents and families to provide wider context of the child's world. The curriculum framework and Te Whāriki (the Ministry of Education's early childhood curriculum policy statement) set expectations that children will be empowered to learn and grow in a holistic way, as part of their families and communities and through responsive and reciprocal relationships.
 
 Licensed early childhood service providers are required to plan, implement, and evaluate a curriculum that enhances children's learning and development. Their curriculum must provide experiences that encourage children to be confident in their own culture and develop an understanding of and respect for other cultures. Their curriculum must acknowledge and reflect the unique place of Māori in New Zealand society. This socio-cultural context reflects the principles of cultural diversity and tolerance and also upholds equality and non-discrimination practices.
 
 ##### Schools
 
-Schools in New Zealand are self-managing which means that each school makes decisions on learning programmes that best fit the needs of their students within the framework of the National Curriculum. The National Curriculum sets the direction for student learning and comprises two documents: The New Zealand Curriculum (NZC) for Englishmedium schools and Te Mārautanga o Aotearoa (TMoA) for Māori Medium schools.
+Schools in New Zealand are self-managing which means that each school makes decisions on learning programmes that best fit the needs of their students within the framework of the National Curriculum. The National Curriculum sets the direction for student learning and comprises two documents: The New Zealand Curriculum (NZC) for English-medium schools and Te Mārautanga o Aotearoa (TMoA) for Māori Medium schools.
 
 > 4 See the schema described in paragraph 11 of Section II of these guidelines.
 
@@ -393,9 +389,9 @@ Through provision of resources, professional development for teachers, funding o
 
 New Zealand tertiary education providers have autonomy over the programmes of study and training that they provide. This autonomy is provided for in legislation. Many tertiary education programmes reflect and promote the guiding principles in their curriculum and in the skills and values that they teach.
 
-All  tertiary  education  providers  are  subject  to  New  Zealand  law  concerning  human  rights  and  nondiscrimination. Public tertiary education institutions have legal duties to: acknowledge the principles of the Treaty  of  Waitangi;  encourage  the  greatest  possible  participation  by  the  communities  they  serve  (with emphasis on groups under-represented among their students); ensure they do not discriminate unfairly; and ensure proper standards of integrity, including in concern for students' wellbeing.
+All tertiary education providers are subject to New Zealand law concerning human rights and non-discrimination. Public tertiary education institutions have legal duties to: acknowledge the principles of the Treaty of Waitangi; encourage the greatest possible participation by the communities they serve (with emphasis on groups under-represented among their students); ensure they do not discriminate unfairly; and ensure proper standards of integrity, including in concern for students’ wellbeing.
 
-The Government is required by law to publish a Tertiary Education Strategy (TES) that addresses its longterm  economic,  social  and  environmental  goals  and  the  development  aspirations  of  M ā ori  and  other population  groups.  Key  priorities  in  the  current  TES  include  imp roving  outcomes  for  Māori  and Pacific people, getting at-risk young people into a career, and improving adult literacy and numeracy. Funding and quality assurance systems include requirements, performance measures and incentives for providers to continually lift their performance in improving education outcomes for priority groups.
+The Government is required by law to publish a Tertiary Education Strategy (TES) that addresses its long-term economic, social and environmental goals and the development aspirations of Māori and other population groups. Key priorities in the current TES include improving outcomes for Māori and Pacific people, getting at-risk young people into a career, and improving adult literacy and numeracy. Funding and quality assurance systems include requirements, performance measures and incentives for providers to continually lift their performance in improving education outcomes for priority groups.
 
 Many providers have strong equity plans to promote the achievement of particular groups such as learners from  low  socio-economic  backgrounds,  people  with  disabilities,  and  refugee  and  migrant  learners. Numerous sector and provider-level strategies and programmes are in place to advance participation of groups in particular areas, such as women in trades and engineering. The Government expects that activity of  this  kind  will  continue  to  be  built  upon  so  that  all  learners  experience  an  inclusive  tertiary  education system that supports achievement and therefore improves outcomes from study.
 
@@ -451,7 +447,7 @@ To commemorate the centenary of the First World War and New Zealand's significan
 
 #### *B2 Please indicate which GCED and ESD themes are taught as part of the curriculum at each level of education by entering the appropriate number in each white cell.
 
-#### *B3 Please indicate in which subjects or fields of study GCED and ESD are taught in primary and secondary education by entering the appropriate number in each white cell.
+KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | --- | ---
@@ -464,9 +460,11 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 7. | Human survival and well-being | 9 | 9 | 9 | 9
 8. | Sustainable consumption and production | 9 | 9 | 9 | 9
 
+#### *B3 Please indicate in which subjects or fields of study GCED and ESD are taught in primary and secondary education by entering the appropriate number in each white cell.
+
 KEY: 0 = no, 1 = yes, 9 = unknown
 
-Cultural diversity and tolerance | Gender equality | Human rights | Peace and non- violence | Climate change | Environmental sustainability | Human survival and well- being | Sustainable consumption and production
+Cultural diversity and tolerance | Gender equality | Human rights | Peace and non-violence | Climate change | Environmental sustainability | Human survival and well-being | Sustainable consumption and production
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Arts | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9
 Civics, civil or citizenship education | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
@@ -481,8 +479,6 @@ Science | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9
 Social studies | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9
 Integrated studies | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
 Other (please specify)
-
-KEY: 0 = no, 1 = yes, 9 = unknown
 
 15
 
@@ -508,7 +504,7 @@ KEY: 0 = no, 1 = yes, 9 = unknown
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | --- | ---
 3. | Human rights education
-3.1 | equality and non- discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status | 9 | 9 | 9 | 99
+3.1 | equality and non-discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status | 9 | 9 | 9 | 99
 3.2 | human rights values, human dignity, justice, inclusion and participation | 9 | 9 | 9 | 99
 3.3 | respect for human rights and fundamental freedoms (as outlined in international conventions and declarations) | 9 | 9 | 9 | 99
 
@@ -570,7 +566,7 @@ In  order  to  meet  the  Standards,  teachers  are  expected  to  design  learn
 
 The ITE Requirements set a clear expectation for ITE programmes to prepare graduates to be able to meet the Standards (in a supported environment) and uphold the expectations of the Code and the values that underpin it.
 
-##### National Education and Learning Priorities link here
+##### National Education and Learning Priorities - link here
 
 The  Government  has  recently  issued  the  first  statement  of  National  Education  and  Learning  Priorities (NELP). The NELP is a statutory document which sets out the priorities for schools that will ensure the success and wellbeing of all learners. They encourage all places of learning to focus on:
 
@@ -609,7 +605,7 @@ For teachers of other subjects | 9 | 9 | 9 | 99
 
 #### *C3 Please indicate on which GCED and ESD themes pre-service or in-service training is available for teachers, trainers and educators at each level of education by entering the appropriate number in each white cell.
 
-#### *C4   Please  indicate  whether  teachers,  trainers  and  educators  are  trained  to  teach  the following  dimensions  of  learning  in  GCED  and  ESD.  Please  enter  the  appropriate number in each white cell.
+KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | --- | ---
@@ -622,7 +618,7 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 7. | Human survival and well-being | 1 | 1 | 1 | 99
 8. | Sustainable consumption and production | 0 | 0 | 0 | 99
 
-KEY: 0 = no, 1 = yes, 9 = unknown
+#### *C4 Please indicate whether teachers, trainers and educators are trained to teach the following dimensions of learning in GCED and ESD. Please enter the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -641,14 +637,14 @@ Attitudes and behaviours | 1 | 1 | 9 | 99
 
 #### *C5 Please indicate whether teachers, trainers and educators are trained to use the following approaches to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
 
+KEY: 0 = no, 1 = yes, 9 = unknown
+
 Global citizenship and education for sustainable development
 --- | ---
 GCED/ESD are taught as separate subject(s) | 0
-Cross curriculum approach ( e.g. GCED/ESD are taught in more than one subject but not throughout the curriculum ) | 1
-Integrated approach ( e.g. GCED/ESD are taught throughout the whole curriculum ) | 9
-Whole school approach (e.g. GCED/ESD are integrated in the school ethos, management, governance, curriculum, teacher training, teaching practices, the learning environment, and in learning experiences in the community and life outside school ) | 9
-
-KEY: 0 = no, 1 = yes, 9 = unknown
+Cross curriculum approach (e.g. GCED/ESD are taught in more than one subject but not throughout the curriculum) | 1
+Integrated approach (e.g. GCED/ESD are taught throughout the whole curriculum) | 9
+Whole school approach (e.g. GCED/ESD are integrated in the school ethos, management, governance, curriculum, teacher training, teaching practices, the learning environment, and in learning experiences in the community and life outside school) | 9
 
 ### D. Student assessment (paras 4 and 5 of the 1974 Recommendation )
 
@@ -670,9 +666,7 @@ New Zealand has no standardised assessments in primary schooling.
 
 [[START OF PAGE 21]]
 
-#### *D2 Please indicate whether the GCED and ESD themes below are generally included in student  assessments  or  examinations  at  each  level  of  education  by  entering  the appropriate number in each white cell.
-
-#### *D3 Please indicate which of the dimensions of learning in GCED and ESD below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
+#### *D2 Please indicate whether the GCED and ESD themes below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -687,14 +681,16 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 7. | Human survival and well-being | 9 | 9 | 9 | 99
 8. | Sustainable consumption and production | 9 | 9 | 9 | 99
 
+#### *D3 Please indicate which of the dimensions of learning in GCED and ESD below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
+
+KEY: 0 = no, 1 = yes, 9 = unknown
+
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
 Knowledge | 9 | 9 | 9 | 99
 Skills | 9 | 9 | 9 | 99
 Values | 9 | 9 | 9 | 99
 Attitudes and behaviours | 9 | 9 | 9 | 99
-
-KEY: 0 = no, 1 = yes, 9 = unknown
 
 21
 
@@ -708,23 +704,15 @@ KEY: 0 = no, 1 = yes, 9 = unknown
 
 KEY:
 
-0 Not at all
+0 Not at all — GCED and ESD are not mainstreamed.
 
-- 1 Partially
+1 Partially — Some GCED and/or ESD themes⁶ are mainstreamed. Select this option if GCED is mainstreamed but ESD is not (or vice versa).
 
-- 2 Extensively
+2 Extensively — Most GCED and ESD themes are mainstreamed.
 
-9 Not known
+9 Not known — It is not known whether GCED and ESD are mainstreamed or not.
 
-99 Not applicable GCED and ESD are not mainstreamed.
-
-Some GCED and/or ESD themes 6  are mainstreamed. Select this option if GCED is mainstreamed but ESD is not (or vice versa).
-
-Most GCED and ESD themes are mainstreamed.
-
-It is not known whether GCED and ESD are mainstreamed or not.
-
-The given level of government does not have responsibility for the given component (policies, curricula, teacher education or student assessment) and/or does not have responsibility for the given level or type of education. This may occur at the national level in federal countries where education is the responsibility of individual states or at the sub-national level in small countries where there is only one level of government.
+99 Not applicable — The given level of government does not have responsibility for the given component (policies, curricula, teacher education or student assessment) and/or does not have responsibility for the given level or type of education. This may occur at the national level in federal countries where education is the responsibility of individual states or at the sub-national level in small countries where there is only one level of government.
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | --- | ---
@@ -755,13 +743,13 @@ Sub-national
 
 New Zealand is implementing the Reform of Vocational Education (RoVE) to create a strong, unified, sustainable  system  for  all  New  Zealand  vocational  education  that  delivers  the  skills  that  learners, employers and communities need to thrive.
 
-RoVE is the biggest transformation New Zealand's vocational education and training system has seen in 30 years. In relation to the Education for Sustainable Development and Global Citizenship Education goals, the new unified system will enhance culturally inclusive and equitable vocational training and education (goals 4 and 1 respectively). It aims to deliver to the unique needs of all learners, including those who have been traditionally underserved, such as Māori, Pacific peoples, and disabled learners:
+RoVE is the biggest transformation New Zealand’s vocational education and training system has seen in 30 years. In relation to the Education for Sustainable Development and Global Citizenship Education goals, the new unified system will enhance culturally inclusive and equitable vocational training and education (goals 4 and 1 respectively). It aims to deliver to the unique needs of all learners, including those who have been traditionally under-served, such as Māori, Pacific peoples, and disabled learners:
 
-- For Māori, the new system will prioritise Māori success and work with Māori to shift to increased culturally  responsive teaching and learning, where learners know they are valued. The new Te Pūkenga - New Zealand Institute of Skills and Technology (see https://xn--tepkenga-szb.ac.nz/ourpathway/ ) will be expected to reflect Māori Crown partnerships in its decision making and actions to  deliver  for  Māori,  and  a  commitment  to  Māori  Crown  partnerships  is  included  as  part  of  the legislative provisions for Te Pūkenga. RoVE is also a chance to make sure there is a much stronger voice for Māori businesses and iwi development through the creation of Workforce Development Councils (see https://www.tec.govt.nz/rove/workforce-development-councils/).
+- For Māori, the new system will prioritise Māori success and work with Māori to shift to increased culturally responsive teaching and learning, where learners know they are valued. The new Te Pūkenga - New Zealand Institute of Skills and Technology (see https://xn--tepkenga-szb.ac.nz/our-pathway/) will be expected to reflect Māori Crown partnerships in its decision making and actions to deliver for Māori, and a commitment to Māori Crown partnerships is included as part of the legislative provisions for Te Pūkenga. RoVE is also a chance to make sure there is a much stronger voice for Māori businesses and iwi development through the creation of Workforce Development Councils (see https://www.tec.govt.nz/rove/workforce-development-councils/).
 
-- For  Pacific,  Te  Pūkenga  will  promote  equitable  access  to  learning  opportunities  an d  provide culturally  responsive  delivery  approaches  through  on  the  job  training  or  through  providers.  Te Pūkenga also aims to foster stronger relationship building with Pacific employers and communities to design a system that allows a sense of belonging and integrates Pacific identities, languages, and cultural values.
+- For Pacific, Te Pūkenga will promote equitable access to learning opportunities and provide culturally responsive delivery approaches through on the job training or through providers. Te Pūkenga also aims to foster stronger relationship building with Pacific employers and communities to design a system that allows a sense of belonging and integrates Pacific identities, languages, and cultural values.
 
-- For disabled learners and those with additional learning needs, the changes will make vocational education  more  accessible  through  stronger  connections  between  providers  and  schools,  and between providers and employers. These connections will help disabled learners and learners with additional  learning  support  needs  transition  into  vocational  education  and  employment.  Te Pūkenga's charter also creates expectations, responsibilities and oppor tunities to support disabled learners and people with additional learning support needs.
+- For disabled learners and those with additional learning needs, the changes will make vocational education more accessible through stronger connections between providers and schools, and between providers and employers. These connections will help disabled learners and learners with additional learning support needs transition into vocational education and employment. Te Pūkenga’s charter also creates expectations, responsibilities and opportunities to support disabled learners and people with additional learning support needs.
 
 More information on RoVE can be found here:
 
@@ -777,7 +765,7 @@ https://conversation.education.govt.nz/conversations/reform-of-vocational-educat
 
 #### G1 Please  describe  any  major  initiatives  that  have  been  undertaken  to  promote  GCED and/or ESD in adult education and other forms of non-formal education including youth education, out-of-school  education,  etc.  Describe  briefly  the  outcomes and  impact  of such initiatives and provide examples of good practices.
 
-The Government funds specific non-formal adult education programmes to provide adults with communitybased education, foundation skills, and pathways into other learning opportunities that meet community learning needs.
+The Government funds specific non-formal adult education programmes to provide adults with community-based education, foundation skills, and pathways into other learning opportunities that meet community learning needs.
 
 The Government has increased funding for adult and community education (ACE) by $3.56m a year from 2021 to strengthen health and wellbeing within communities, promote social inclusion and participation, and address barriers to the labour market in light of COVID-19. Total funding for ACE in 2021 will be around $27m.
 
@@ -809,11 +797,11 @@ ESD is not a specific priority for Government-funded ACE programmes. However, co
 
 catalyst for GCED collaborations and works to support the implementation of the SDGs in New Zealand.
 
-- The National Commission's GCED Strategic Plan 2018-2021 outlines that they will deliver at least one GCED related event per year in New Zealand. Past examples included the GCED Award in 2018, which recognised a wide range of organisations, including schools, doing outstanding work across the country to encourage responsible and active global citizenship. In 2019 the National Commission commissioned five wellrespected academics and thinkers: Māori, P acific, academic, teacher, and youth to write a paper discussing GCED from their own unique position, ideas and experiences. A GCED panel discussion featuring their perspectives was then held. In 2020 the National Commission held a GCED ideas exchange, which traversed subjects such as: the arts in dealing with trauma, spirituality, prison education, mental health and innovation - highlighting that GCED takes  many  forms  and  locations  while  reaching  people  of  all  ages.  While  the  National Commission's GCED Strategy will be reviewed in 2021, it is likely that they will continue to develop similar initiatives in 2021 and years to come.
+- The National Commission’s GCED Strategic Plan 2018-2021 outlines that they will deliver at least one GCED related event per year in New Zealand. Past examples included the GCED Award in 2018, which recognised a wide range of organisations, including schools, doing outstanding work across the country to encourage responsible and active global citizenship. In 2019 the National Commission commissioned five well-respected academics and thinkers: Māori, Pacific, academic, teacher, and youth to write a paper discussing GCED from their own unique position, ideas and experiences. A GCED panel discussion featuring their perspectives was then held. In 2020 the National Commission held a GCED ideas exchange, which traversed subjects such as: the arts in dealing with trauma, spirituality, prison education, mental health and innovation - highlighting that GCED takes many forms and locations while reaching people of all ages. While the National Commission’s GCED Strategy will be reviewed in 2021, it is likely that they will continue to develop similar initiatives in 2021 and years to come.
 
-- The UNESCO Aotearoa Youth Leaders, a group of 10 young leaders, work as advisors to the National Commission, ambassadors  to UNESCO's  values  and  connectors to their  own communities. They are actively engaged in GCED initiatives and examples include holding booths about the SDGs and te ao Māori at Festival for the Future and Create1World, participating in a Gamefroot  hack-a-thon  to  develop  games  centred  around  the  SDGs,  providing  advice  at  the Environmental Protecti on Agency's rangatahi Māori hui on the importance of involving youth when addressing environmental issues, and many others. The Youth Diversity Forum was a key National Commission  initiative  developed  in  collaboration  with  the  Ngāi  Tahu  and  the  Human  Rights Commission;  held  in  October  2019  to  support  a  cross-ethnic  discussion,  addressing  racism, education and spirituality in response to the mosque attacks of 15 March. A youth leader has been attending a series of UNESCO online workshops on the transformative power of Education for Sustainable Development (ESD) for the work beyond COVID-19.
+- The UNESCO Aotearoa Youth Leaders, a group of 10 young leaders, work as advisors to the National Commission, ambassadors to UNESCO’s values and connectors to their own communities. They are actively engaged in GCED initiatives and examples include holding booths about the SDGs and te ao Māori at Festival for the Future and Create1World, participating in a Gamefroot hack-a-thon to develop games centred around the SDGs, providing advice at the Environmental Protection Agency’s rangatahi Māori hui on the importance of involving youth when addressing environmental issues, and many others. The Youth Diversity Forum was a key National Commission initiative developed in collaboration with the Ngāi Tahu and the Human Rights Commission; held in October 2019 to support a cross-ethnic discussion, addressing racism, education and spirituality in response to the mosque attacks of 15 March. A youth leader has been attending a series of UNESCO online workshops on the transformative power of Education for Sustainable Development (ESD) for the work beyond COVID-19.
 
-- The  National  Commission  also  supports  many  GCED  initiatives  in  New  Zealand  through  its UNESCO  Contestable  Activity  Fund.  For  example,  we  funded  a  project  that  explored  ESD approaches in relation to benefits for Māori and Pacific Island early childhood children and whānau, incorporating  notions  of  civic  learning,  democracy,  equity,  and  social  justice.  A  more  recent example the National Commission supported is the development of Te Rito Toi , an online resource for  teachers  to  use  the  arts  to  support  wellbeing  as  students  returned  to  classrooms  during COVID19. The Ha Ora section of the site in te reo Māori provided the first significant resources to assist teaching in Māori -medium schools in over fifteen years.
+- The National Commission also supports many GCED initiatives in New Zealand through its UNESCO Contestable Activity Fund. For example, we funded a project that explored ESD approaches in relation to benefits for Māori and Pacific Island early childhood children and whānau, incorporating notions of civic learning, democracy, equity, and social justice. A more recent example the National Commission supported is the development of Te Rito Toi, an online resource for teachers to use the arts to support wellbeing as students returned to classrooms during COVID19. The Ha Ora section of the site in te reo Māori provided the first significant resources to assist teaching in Māori-medium schools in over fifteen years.
 
 - New  Zealanders  are  involved  in  many  international  UNESCO  projects  associated  with  ESD, including Untouched World Foundation, which has been actively involved with UNESCO's Global Action  Programme  on  ESD  (GAP).  Recently  Associate  Professors  Jenny  Ritchie  and  Sandy Morrison have led a New Zealand contribution to a global research project 'Reorienting Education and Training Systems to Improve the Lives of Indigenous and Marginalized Youth' led by UNESCO Chair  Professor  Charles  Hopkins  of  York  University,  Toronto.  The  National  Commission  often participates in international GCED/ ESD engagements. In March 2017 the National Commission funded three representatives, including a high school student, to present at the Third UNESCO Forum  on  Global  Citizenship  Education  in  Ottawa,  Canada.  In  November  2017,  a  UNESCO Aotearoa Youth leader participated in the Asia-Pacific Regional Workshop for Youth Leadership Training on Education for ESD. The workshop is part of a series of youth training taking place globally under the Global Action Programme on Education. In July 2019 it supported a delegation of a UNESCO Aotearoa Youth Leader, a teacher and an academic GCED expert to attend the UNESCO Forum on ESD/ GCED in Hanoi. The National Commission submitted a proposal to hold a  booth  and  a  workshop  at  the  UNESCO  ESD  Conference  in  Berlin  in  May  2020,  which  was postponed due to COVID. We have instead attended the UNESCO ESD online webinars leading up to the Conference.
 
@@ -827,18 +815,18 @@ catalyst for GCED collaborations and works to support the implementation of the 
 
 Award winner) presented on GCED in the New Zealand curriculum and various GCED initiatives, including those of Patea Area School and the National Commission.
 
-#### H2 Please indicate which types of activities are available that promote international cooperation at each level of education by entering the appropriate number in each white cell.
+#### H2 Please indicate which types of activities are available that promote international co-operation at each level of education by entering the appropriate number in each white cell.
+
+KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
-Hosting of international meetings on GCED and/or ESD | 0 (The New Zealand National Commission for UNESCO's focus is domestic, so hosts national meetings on GCED but not international) | 0 (The New Zealand National Commission for UNESCO's focus is domestic, so hosts national meetings on GCED but not international) | 0 (The New Zealand National Commission for UNESCO's focus is domestic, so hosts national meetings on GCED but not international) | 9
+Hosting of international meetings on GCED and/or ESD | 0 (The New Zealand National Commission for UNESCO’s focus is domestic, so hosts national meetings on GCED but not international) | 0 (The New Zealand National Commission for UNESCO’s focus is domestic, so hosts national meetings on GCED but not international) | 0 (The New Zealand National Commission for UNESCO’s focus is domestic, so hosts national meetings on GCED but not international) | 9
 Participation in international meetings abroad on GCED and/or ESD | 1 | 1 | 1 | 9
 Support for programmes hosting foreign students, researchers and/or teachers | 1 | 1 | 1 | 9
 Membership of international networks including ASPnet | 1 | 1 | 1 | 9
 Joint research projects on GCED and/or ESD with foreign institutions | 1 | 1 | 1 | 9
 Other activities (please specify):
-
-KEY: 0 = no, 1 = yes, 9 = unknown
 
 26
 
@@ -856,13 +844,13 @@ New Zealand is fortunate to have no current detected community transmission of C
 
 In March of 2020 New Zealand closed all education institutions (early learning services, schools and tertiary providers) as part of a national lockdown and then reopened them over April and May. In August and September New Zealand closed and then reopened educational institutions in one region (Auckland) in response to a community outbreak.
 
-We manage education responses to the level of COVID-19 risk by means of a four level Alert System. Details of the system and guidance for different types of education institutions can be found on COVID19 - Education in New Zealand. This site has links to more detailed information for education as well as to the National Alert system. It is important to note that education advice takes its lead from decisions and guidance from our Ministry of Health.
+We manage education responses to the level of COVID-19 risk by means of a four level Alert System. Details of the system and guidance for different types of education institutions can be found on COVID-19 – Education in New Zealand. This site has links to more detailed information for education as well as to the National Alert system. It is important to note that education advice takes its lead from decisions and guidance from our Ministry of Health.
 
 However, it is worth noting that this did not constrain the 1974 Recommendation as classes resumed online.
 
 The New Zealand education system is highly devolved with limited pre-existing options for distance learning. During lockdown, schools had to rapidly switch from face-to-face to distance models of delivery, and different schools have taken different approaches. There was a stronger focus on keeping students engaged and being mindful of their wellbeing in the process of adapting to the new environment, taking in consideration family circumstances and emotional impacts of such unprecedented times.
 
-#### I2 Please provide any other relevant information or clarifications regarding the implementation of the 1974 Recommendation or the mainstreaming of GCED and ESD in your country's education system.
+#### I2 Please provide any other relevant information or clarifications regarding the implementation of the 1974 Recommendation or the mainstreaming of GCED and ESD in your country’s education system.
 
 The Education and Training Act 2020 establishes and regulations the education system in New Zealand with the purpose of (among other things) providing New Zealanders and those studying in New Zealand with the skills, knowledge and capabilities that they need to fully participate in the labour market, society and their communities.
 
