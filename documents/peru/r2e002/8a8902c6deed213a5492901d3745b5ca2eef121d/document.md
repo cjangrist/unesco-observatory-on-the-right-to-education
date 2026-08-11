@@ -16,7 +16,7 @@ Ha dado la Ley siguiente:
 
 ### DECLARACIÓN Y OBJETIVOS
 
-#### Artículo 1°. Declaratoria de interés y necesidad públicos
+#### Artículo 1°. - Declaratoria de interés y necesidad públicos
 
 Decláranse de interés y necesidad públicos:
 
@@ -126,11 +126,11 @@ a disposición del público. Es también el promotor de las obras de los autores
 
 - Industria  gráfica :  Sector  fabril  encargado  de  los  procesos  industriales  mediante  los cuales se reproduce el libro impreso o productos editoriales afines en soporte material. Esos  procesos  requieren  de  una  materia  prima  básica  (papel)  y  de  un  insumo  básico (tintas)  y  se  realizan  empleando  placas  fotosensibles  y  máquinas  impresoras  (o  su equivalente en procesos digitales). Complementa estos procesos la fase de encuadernación del libro o productos editoriales afines.
 
-- International  Standard  Book  Number-ISBN: Código  alfanumérico  empleado  para normalizar  internacionalmente  el  registro  y  la  identificación  del  libro  y  los  productos editoriales afines, para facilitar su circulación.
+- International Standard Book Number–ISBN: Código alfanumérico empleado para normalizar internacionalmente el registro y la identificación del libro y los productos editoriales afines, para facilitar su circulación.
 
-- International  Standard  Music  Number-ISMN: Código  alfanumérico  empleado  para normalizar internacionalmente el registro y la identificación de las publicaciones musicales o fonográficas, para facilitar su circulación.
+- International Standard Music Number–ISMN: Código alfanumérico empleado para normalizar internacionalmente el registro y la identificación de las publicaciones musicales o fonográficas, para facilitar su circulación.
 
-- International  Standard  Serial  Number  -  ISSN: Código  alfanumérico  empleado  para normalizar internacionalmente el registro y la identificación de las publicaciones seriadas o periódicas.
+- International Standard Serial Number – ISSN: Código alfanumérico empleado para normalizar internacionalmente el registro y la identificación de las publicaciones seriadas o periódicas.
 
 - Lector: El que usa el libro para informarse o deleitarse con lo que lee.
 
@@ -390,11 +390,13 @@ La presente ley promueve:
 
 #### Artículo 18°.- Crédito Tributario por reinversión
 
-Durante 12 (doce) años, a partir del 1º de enero del año siguiente de la vigencia de la presente Ley,  las  empresas  a  que  se  refiere  el  numeral  1  del  artículo  anterior,  que  reinviertan  total  o parcialmente  su  renta  neta,  imponible,  determinada  de  conformidad  al  TUO  de  la  Ley  del Impuesto a la Renta, y su Reglamento, en bienes y servicios para el desarrollo de su propia actividad  empresarial  o  en  el  establecimiento  de  otras  empresas  de  estos  rubros,  tendrán derecho  a  un  crédito  tributario  por  reinversión  equivalente  a  la  tasa  del  impuesto  a  la  renta vigente, aplicable sobre el monto reinvertido, de acuerdo a Ley.
+Durante 12 (doce) años, a partir del 1º de enero del año siguiente de la vigencia de la presente Ley, las empresas a que se refiere el numeral 1 del artículo anterior, que reinviertan total o parcialmente su renta neta, imponible, determinada de conformidad al TUO de la Ley del Impuesto a la Renta, y su Reglamento, en bienes y servicios para el desarrollo de su propia actividad empresarial o en el establecimiento de otras empresas de estos rubros, tendrán
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+
+derecho a un crédito tributario por reinversión equivalente a la tasa del impuesto a la renta vigente, aplicable sobre el monto reinvertido, de acuerdo a Ley.
 
 Las empresas que ofrecen servicios de preprensa y las de industria gráfica gozarán de este beneficio, siempre que participen en la realización de proyectos editoriales amparados por la presente ley.
 
@@ -512,7 +514,7 @@ El Estado promueve el respeto a los derechos de la propiedad intelectual y comba
 
 - 32.3 Están exonerados de solicitar la autorización del autor, titular, editor o entidad que los represente  y  de  efectuar  el  pago  de  la  retribución  compensatoria,  los  supuestos establecidos  en  el  artículo  22  de  la  Decisión  Andina  351  y  el  artículo  43º  del  Decreto Legislativo No. 822.
 
-#### Artículo 33°.Reproducción de libros y productos editoriales afines .
+#### Artículo 33°.- Reproducción de libros y productos editoriales afines.
 
 La reproducción por medios reprográficos, digitales u otros, creados o por crearse, de libros y productos editoriales afines, se regirá por lo establecido en la legislación sobre derechos de autor y la Decisión 351 del Acuerdo de Cartagena.
 
