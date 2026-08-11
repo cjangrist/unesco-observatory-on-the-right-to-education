@@ -16,9 +16,9 @@ May 2016
 
 List of Abbreviations
 
-- Introduction
+- 1. Introduction
 
-- Background
+- 2. Background
 
 - 2.1. General Review of the State of Play
 
@@ -26,7 +26,7 @@ List of Abbreviations
 
 - 2.3. Institutional Framework
 
-- Strategy
+- 3. Strategy
 
 - 3.1. Guiding Principles and Commitments
 
@@ -36,7 +36,7 @@ List of Abbreviations
 
 - 3.4. Specific Strategic Objectives in Given Areas
 
-- Implementation, Monitoring and Assessment Mechanisms
+- 4. Implementation, Monitoring and Assessment Mechanisms
 
 Annexes
 
@@ -58,13 +58,38 @@ Annexes
 
 ## LIST OF ABBREVIATIONS
 
+ARRC Agency for Realization of Rights of Communities
+ATJPP Academy for Training of Judges and Public Prosecutors
+SI State Inspectorates
+ULSG Units of Local Self-Government
+AC Associations of Citizens
+LPPD Law on the Prevention of and Protection against Discrimination
+ISPA Institute for Social Protection Activities
+CPD Commission for Protection against Discrimination
+MoI Ministry of the Interior
+MoH Ministry of Health
+MISA Ministry of Information Society and Administration
+MFA Ministry of Foreign Affairs
+IO's International Organizations
+MES Ministry of Education and Science
+MoJ Ministry of Justice
+MLSP Ministry of Labour and Social Policy
+MTC Ministry of Transport and Communications
+NAP National Action Plan
+Ombudsman Ombudsman’s Office
+NENDS National Equality and Non-Discrimination Strategy
+OSCE Organization for Security and Co-operation in Europe
+SEA Secretariat for European Affairs
+SIFA Secretariat for Implementation of the Framework Agreement
+SP’s Social Partners
+
 3
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-## INTRODUCTION
+## 1. INTRODUCTION
 
 Human rights belong to all human beings regardless of their national or ethnic origin, gender,  sex,  skin  colour,  religion,  age,  disability,  sexual  orientation,  gender  identity, language,  or  any  other  status.  Human  rights  are  interlinked,  interdependent  and indivisible. They are universal and are guaranteed under laws, conventions, customary and  international  law,  as  well  as  under  general  principles  and  other  sources  of international law. The principle of universality of  human rights is the cornerstone of international human rights law. This principle, which was for the first time enshrined in the  1948  Universal  Declaration  of  Human  Rights,  is  set  forth  under  a  number  of international human rights conventions, declarations, and resolutions. The 1993 Vienna World Conference on Human Rights placed upon states the obligation to promote and protect  all  human  rights,  regardless  of  the  states'  political,  economic,  and  cultural systems.
 
@@ -74,7 +99,7 @@ Non-discrimination  is  a  comprehensive  principle  of  international  human  r
 
 In  2012,  the  Government  of  the  Republic  of  Macedonia  adopted  the  first  National Equality and Non-Discrimination Strategy covering the 2012-2015 period. With a view to  assessing  the  progress  made,  i.e.  taking  stock  of  the  Strategy  implementation  and establishing  whether  the  desired  results  were  reached,  in  cooperation  with  the  OSCE Mission in Skopje, in 2015, the Ministry of Labour and Social Policy made an Evaluation of the Strategy, which produced guidelines and provided the basis for the new National Strategy for the 2016-2020 period.
 
-The  2016-2020  National  Equality  and  Non-Discrimination  Strategy  is  a  strategic document  of  the  Government  of  the  Republic  of  Macedonia,  which  defines  the  goals, measures,  indicators  and  key  policy  makers  in  designing  the  policy  for  promotion  of rights and  equal opportunities in various areas of social life, defining as well responsible implementing agencies and all stakeholders in attaining equality and nondiscrimination in the Republic of Macedonia.
+The  2016-2020  National  Equality  and  Non-Discrimination  Strategy  is  a  strategic document  of  the  Government  of  the  Republic  of  Macedonia,  which  defines  the  goals, measures,  indicators  and  key  policy  makers  in  designing  the  policy  for  promotion  of rights and  equal opportunities in various areas of social life, defining as well responsible implementing agencies and all stakeholders in attaining equality and non-discrimination in the Republic of Macedonia.
 
 Different  from  the  previous  Strategy,  this  Strategy  takes  into  account  all  grounds  of discrimination  in  line  with  the  Law  on  the  Prevention  of  and  Protection  against Discrimination  (Article  3)  and  conceptually  it  applies  to  discrimination  in  all  areas, grouped  as  follows:  employment  and  labour  relations;  education,  science,  sports  and culture;  social  security  (social  protection,  pension and  disability  insurance  and  health care);  justice  and  administration;  and  access  to  goods  and  services,  in  following  with recommendations  given  by  UN  human  rights  mechanisms  relating  to  the  Republic  of Macedonia.
 
@@ -104,7 +129,7 @@ The  drafting  of  the  National  Equality  and  Non-Discrimination  Strategy  w
 
 The  text  of  the  National  Equality  and  Non-Discrimination  Strategy  was  drafted  by  a Working Group, composed of representatives of in-line ministries at the Government of the  Republic  of  Macedonia,  as  well  as  of  representatives  of  the  Commission  for Protection against Discrimination, the Ombudsman's Office, the Agency for Realization of Rights of Communities, and representatives of civil society organizations, working in the area of discrimination prevention and protection.
 
-The groundwork for this Strategy was laid by the previously prepared Evaluation of the first 2012-2015 National Equality and Non-Discrimination Strategy on grounds of age, gender,  ethnic  affiliation,  and  mental  and  physical  disability.  In  the  first  stage  of  the preparation of the Evaluation, the OSCE Mission in Skopje and the Ministry of Labour and  Social  Policy  recruited  three  experts.  The  Evaluation  of  the  2012-2015  National Equality and Non-Discrimination Strategy on grounds of mental and physical disability, ethnic affiliation, age, and gender underlines that the Strategy has had a greatly positive role in developing a policy for addressing the issue of discrimination in the Republic of Macedonia.  In  addition,  the  Evaluation  recommends  implementation  of  the  nondiscrimination  and  equal  opportunity  concepts  by  undertaking  a  coordinated  set  of measures and activities that would have a systemic effect, both at the central and at the local level. In this regard, there must be sustained public awareness raising and building of capacities of relevant actors and stakeholders. It is necessary to take into consideration  accumulated  knowledge  and  new  trends  with  a  view  to  advancing  the legislation  that  would  incorporate  international  standards.  Relevant  institutions  and organizations  have  established  good  cooperation  and  partnerships  in  the  last  period, which forms a solid basis to intensify the pace of implementation of activities. The new NENDS applies to all grounds of discrimination and requires provision of more funds to carry out envisaged activities.
+The groundwork for this Strategy was laid by the previously prepared Evaluation of the first 2012-2015 National Equality and Non-Discrimination Strategy on grounds of age, gender,  ethnic  affiliation,  and  mental  and  physical  disability.  In  the  first  stage  of  the preparation of the Evaluation, the OSCE Mission in Skopje and the Ministry of Labour and  Social  Policy  recruited  three  experts.  The  Evaluation  of  the  2012-2015  National Equality and Non-Discrimination Strategy on grounds of mental and physical disability, ethnic affiliation, age, and gender underlines that the Strategy has had a greatly positive
 
 5
 
@@ -112,11 +137,13 @@ The groundwork for this Strategy was laid by the previously prepared Evaluation 
 
 [[START OF PAGE 6]]
 
+role in developing a policy for addressing the issue of discrimination in the Republic of Macedonia. In addition, the Evaluation recommends implementation of the non-discrimination and equal opportunity concepts by undertaking a coordinated set of measures and activities that would have a systemic effect, both at the central and at the local level. In this regard, there must be sustained public awareness raising and building of capacities of relevant actors and stakeholders. It is necessary to take into consideration accumulated knowledge and new trends with a view to advancing the legislation that would incorporate international standards. Relevant institutions and organizations have established good cooperation and partnerships in the last period, which forms a solid basis to intensify the pace of implementation of activities. The new NENDS applies to all grounds of discrimination and requires provision of more funds to carry out envisaged activities.
+
 The Evaluation and the Working Group consultations were utilized to set the priority discrimination grounds, strategic goals, and activities for the period from 2016 to 2020.
 
 Representatives  of  state  institutions,  civil  society  organizations  and  of  international organizations, participants in the public debate held in Skopje, on 17 December 2015, as well  as  the  additional  comments  given  during  or  after  the  said  public  debate  greatly contributed to drafting the National Equality and Non-Discrimination Strategy. Most of the presented proposals were integrated in the Strategy itself.
 
-## BACKGROUND
+## 2. BACKGROUND
 
 ### 2.1. General Review of the State of Play
 
@@ -136,7 +163,7 @@ In March 2007, in following with the contemporary democratic civic concept, and 
 
 The main task of the Ministry of Labour and Social Policy, i.e. of the Sector is to work on the  promotion  of  equal  opportunities  and  equality,  and  on  the  prevention  of  and protection against any form of discrimination.
 
-The Sector for Equal Opportunities is also tasked with ensuring inter-sector and interministerial  cooperation,  as  well  as  cooperation  with  the  civil  society  sector  and  with social partners, beings tasked as well with monitoring the implementation of the Law on Equal Opportunities of Women and Men, the Law on the Prevention of and Protection against  Discrimination,  and  other  laws  and  programs  pertaining  to  this  area,  while coordinating the work and  monitoring the implementation of policies, measures and activities.
+The Sector for Equal Opportunities is also tasked with ensuring inter-sector and inter-ministerial  cooperation,  as  well  as  cooperation  with  the  civil  society  sector  and  with social partners, beings tasked as well with monitoring the implementation of the Law on Equal Opportunities of Women and Men, the Law on the Prevention of and Protection against  Discrimination,  and  other  laws  and  programs  pertaining  to  this  area,  while coordinating the work and  monitoring the implementation of policies, measures and activities.
 
 ### 2.2. Legal Framework
 
@@ -212,13 +239,15 @@ Article  26:  All  persons  are  equal  before  the  law  and  are  entitled  wi
 
 ##### International Convention on the Elimination of All Forms of Racial Discrimination
 
-Article  1:  In  this  Convention,  the  term  "racial  discrimination"  shall  mean  any distinction,  exclusion,  restriction  or  preference  based  on  race,  colour,  descent,  or national or ethnic origin which has the purpose or effect of nullifying or impairing the recognition,  enjoyment  or  exercise,  on  an  equal  footing,  of  human  rights  and fundamental freedoms in the political, economic, social, cultural or any other field of public life.
+Article  1:  In  this  Convention,  the  term  "racial  discrimination"  shall  mean  any distinction,  exclusion,  restriction  or  preference  based  on  race,  colour,  descent,  or
 
 9
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
+national or ethnic origin which has the purpose or effect of nullifying or impairing the recognition,  enjoyment  or  exercise,  on  an  equal  footing,  of  human  rights  and fundamental freedoms in the political, economic, social, cultural or any other field of public life.
 
 ##### Convention on the Elimination of All Forms of Discrimination against Women
 
@@ -228,9 +257,9 @@ Article I: For the purposes of the present Convention, the term "discrimination 
 
 Article 2:
 
-- States Parties shall respect and ensure the rights set forth in the present Convention to each child within their jurisdiction without discrimination of any kind, irrespective of the child's or his or her parent's or legal guardian's race, colour, sex, language, religion, political or other opinion, national, ethnic or social origin, property, disability, birth or other status.
+1. States Parties shall respect and ensure the rights set forth in the present Convention to each child within their jurisdiction without discrimination of any kind, irrespective of the child's or his or her parent's or legal guardian's race, colour, sex, language, religion, political or other opinion, national, ethnic or social origin, property, disability, birth or other status.
 
-- States  Parties  shall  take  all  appropriate  measures  to  ensure  that  the  child  is protected against all forms of discrimination or punishment on the basis of the status, activities,  expressed  opinions,  or  beliefs  of  the  child's  parents,  legal  guardians,  or family members.
+2. States  Parties  shall  take  all  appropriate  measures  to  ensure  that  the  child  is protected against all forms of discrimination or punishment on the basis of the status, activities,  expressed  opinions,  or  beliefs  of  the  child's  parents,  legal  guardians,  or family members.
 
 ##### Convention for the Protection of Human Rights and Fundamental Freedoms
 
@@ -242,15 +271,15 @@ The  enjoyment  of  the  rights  and  freedoms  set  forth  in  this  Convention
 
 Article 1:
 
-- The enjoyment of any right set forth by law shall be secured without discrimination on any ground such as sex, race, colour, language, religion, political or other opinion, national or social origin, association with a national minority, property, birth or other status.
+1. The enjoyment of any right set forth by law shall be secured without discrimination on any ground such as sex, race, colour, language, religion, political or other opinion, national or social origin, association with a national minority, property, birth or other status.
 
-- No one shall be discriminated against by any public authority on any ground such as those mentioned in paragraph 1.
+2. No one shall be discriminated against by any public authority on any ground such as those mentioned in paragraph 1.
 
 ##### Framework Convention for the Protection of National Minorities
 
 Article 4:
 
-- The Parties undertake to guarantee to persons belonging to national minorities the right of equality before the law and of equal protection of the law. In this respect, any discrimination based on belonging to a national minority shall be prohibited.
+1. The Parties undertake to guarantee to persons belonging to national minorities the right of equality before the law and of equal protection of the law. In this respect, any discrimination based on belonging to a national minority shall be prohibited.
 
 10
 
@@ -288,7 +317,7 @@ Ministries with specific competences relating to equality/non-discrimination are
 
 The  Secretariat  for  Implementation  of  the  Framework  Agreement  (SIFA) has specific competences,  especially as regards discrimination on grounds  of ethnic affiliation.  Furthermore,  the  Ministry  of  Education  and  Science  and  the  Ministry  of Culture,  each  have  separate  departments,  having  specific  tasks  relating  to  equality  of communities in the respective areas of competence of these two Ministries.
 
-The Ministry of Labour and Social Policy is the key importance ministry in relation to legislation  in  the  area  of  non-discrimination  and  equal  opportunities.  The  Ministry  is actively involved in raising the awareness about gender issues and non-discrimination among central and local authorities. The Ministry of Labour and Social Policy fulfils this task through its Sector for  Equal Opportunities. All Ministries have assigned officers coordinators  for  equal  opportunities  for  women  and  men,  who  are  tasked  with implementing activities in order to pursue the competence of the Ministry for ensuring equal opportunities.
+The Ministry of Labour and Social Policy is the key importance ministry in relation to legislation  in  the  area  of  non-discrimination  and  equal  opportunities.  The  Ministry  is actively involved in raising the awareness about gender issues and non-discrimination among central and local authorities. The Ministry of Labour and Social Policy fulfils this task through its Sector for  Equal Opportunities. All Ministries have assigned officers - coordinators  for  equal  opportunities  for  women  and  men,  who  are  tasked  with implementing activities in order to pursue the competence of the Ministry for ensuring equal opportunities.
 
 #### The Judiciary
 
@@ -328,7 +357,7 @@ The main social partners are associations of workers and associations of employe
 
 The  associations  of  workers  and  of  employers,  respectively  are  one  of  the  most important  partners  in  protecting  rights  of  workers,  especially  against  discriminatory practices.
 
-Other relevant stakeholders are civil society organizations which are active in areas of legislation, i.e. support to drafting laws by offering comparative analysis, reviews of the current  situation,  defining  proposals;  strengthening  the  awareness-  promotion  of  the equality concept, campaigns for fight against discrimination; institutional developmentcapacity building, participation in working groups established within state institutions; and  monitoring  the  situation  with  equality  /  discrimination  -  identification  of  cases, public opinion surveys about citizens' perceptions.
+Other relevant stakeholders are civil society organizations which are active in areas of legislation, i.e. support to drafting laws by offering comparative analysis, reviews of the current  situation,  defining  proposals;  strengthening  the  awareness-  promotion  of  the equality concept, campaigns for fight against discrimination; institutional development-capacity building, participation in working groups established within state institutions; and  monitoring  the  situation  with  equality  /  discrimination  -  identification  of  cases, public opinion surveys about citizens' perceptions.
 
 #### The International Community
 
@@ -344,7 +373,7 @@ Institutions and organizations, which are part of the international community, s
 
 ### Vision
 
-Implementation of human rights and ensuring equal opportunities and nondiscrimination of all people in the Republic of Macedonia in all areas of social life.
+Implementation of human rights and ensuring equal opportunities and non-discrimination of all people in the Republic of Macedonia in all areas of social life.
 
 ### Mission
 
@@ -386,7 +415,7 @@ The general goal of the National Equality and Non-Discrimination Strategy is pre
 ##### Advancing the legal framework for equal opportunities and non-discrimination
 --- | --- | --- | ---
 Activity | Implementing Agencies | Indicators | Timeframe
-Harmonization of the Macedonian legislation with international standards and advancement of the legislative framework | Government of the Republic of Macedonia, the Assembly of the Republic of Macedonia, MLSP, MES, MoI, MoJ, MISA, MoH, ARRC | - Number of submitted initiatives for amendments to relevant laws, in line with the Analysis of the alignment of the domestic legislation on equality and non-discrimination (2015); - Number of amended and supplemented laws; - Number of laws harmonized with the Principles relating to the Status of National Institutions (The Paris | 2016-2020
+Harmonization of the Macedonian legislation with international standards and advancement of the legislative framework | Government of the Republic of Macedonia, the Assembly of the Republic of Macedonia, MLSP, MES, MoI, MoJ, MISA, MoH, ARRC | - Number of submitted initiatives for amendments to relevant laws, in line with the Analysis of the alignment of the domestic legislation on equality and non-discrimination (2015); - Number of amended and supplemented laws; - Number of laws harmonized with the Principles relating to the Status of National Institutions (The Paris Principles). | 2016-2020
 MLSP | - Law Amending and Supplementing the Law on the Prevention of and Protection against Discrimination in line with analyses and recommendations to incorporate international standards | 2016-2017
 Ombudsman | - Law Amending and Supplementing the Law on the Ombudsman's Office, expanding its competences and harmonization with the Principles relating to the | 2016-2017
 
@@ -398,8 +427,8 @@ Ombudsman | - Law Amending and Supplementing the Law on the Ombudsman's Office, 
 
 Status of National Institutions (The Paris Principles)
 --- | --- | --- | ---
-ARRC | - Amendments and | 2016-2017
-Ratification implementation international instruments | and of legal | - Adopted Law on the Ratification of the III Optional Protocol to the Convention on the Rights of the Child | 2016-2018
+ARRC | - Amendments and supplements to the Law on the Promotion and Protection of Rights of Persons Belonging to Communities which Represent less than 20% of the total population | 2016-2017
+Ratification and implementation of international legal instruments |  | - Adopted Law on the Ratification of the III Optional Protocol to the Convention on the Rights of the Child | 2016-2018
 -Adopted Law on the Ratification of the Istanbul Convention | 2016-2018
 - Adopted Law on the Ratification of the European Charter for Regional or Minority Languages | 2016-2018
 -Adopted Law on the Ratification of the Optional Protocol to the International Covenant on Economic, Social and Cultural Rights | 2016-2018
@@ -421,7 +450,7 @@ Amendments and supplements to the Law on Insurance in Case of Unemployment | MLS
 Amendments and supplements to the Law on Employment of Foreign Nationals | MLSP | -Law on Employment of Foreign Nationals harmonized with the Law on the Prevention of and Protection against Discrimination and with the Labour Relations Law | 2018-2020
 ##### 1.2. Specific Strategic Goals- Education, Science, Sports, and Culture
 Harmonization of the Macedonian education legislation with international standards | MES, Bureau for Development of Education | - Incorporated provisions on the establishment of an inclusive education system | 2017-2020
-Harmonization of the Law on Primary Education with the Law on the Prevention of and Protection against Discrimination | MES, Bureau for Development of Education | - Incorporated provisions aimed at overcoming the issue of segregation of Roma children; - Drafted new Rulebook on the Categorization of Children with Special Needs; - Defined conditions for enrolment of children with special needs in regular primary and secondary schools with a view to | 2017-2020
+Harmonization of the Law on Primary Education with the Law on the Prevention of and Protection against Discrimination | MES, Bureau for Development of Education | - Incorporated provisions aimed at overcoming the issue of segregation of Roma children; - Drafted new Rulebook on the Categorization of Children with Special Needs; - Defined conditions for enrolment of children with special needs in regular primary and secondary schools with a view to promoting inclusion. | 2017-2020
 Harmonization of the Law on Secondary Education with the Law on the Prevention of and Protection against Discrimination | MES, Bureau for Development of Education | - Incorporated provisions for overcoming the issue of segregation of Roma children; -Professional qualifications that children acquire in secondary vocational | 2017-2020
 
 17
@@ -432,10 +461,10 @@ Harmonization of the Law on Secondary Education with the Law on the Prevention o
 
 schools for children with special needs harmonized with the labour market demands; - Drafted new Rulebook on the Categorization of Children with Special Needs.
 --- | --- | --- | ---
-Harmonization of the Law on Higher Education with the Law on the Prevention of and Protection against Discrimination | MES, Bureau for Development Education | of - Principles on equality and non-discrimination incorporated in the general provisions of the Law on Higher Education with a view to accommodating the needs of students with disabilities; - Adopted secondary legislation on the adjustments of the education process in line with needs of students with | 2017-2020
+Harmonization of the Law on Higher Education with the Law on the Prevention of and Protection against Discrimination | MES, Bureau for Development of Education | - Principles on equality and non-discrimination incorporated in the general provisions of the Law on Higher Education with a view to accommodating the needs of students with disabilities; - Adopted secondary legislation on the adjustments of the education process in line with needs of students with disabilities. | 2017-2020
 Amendments and supplements to the Law on Textbooks | MES, Bureau for Development of Education | - Expanded provisions on the grounds for withdrawing textbooks, which would include all discriminatory grounds set forth in the Law on the Prevention of and Protection against Discrimination or any other grounds envisaged under a law or under a ratified international treaty; - Introduced provisions regulation the procedure for compulsory examination of every textbook from the perspective of non- discrimination and equal opportunities before the printing of textbooks, following the obligatory issuance of an expert opinion by the MLSP. | 2017-2020
 Amendments and supplements to the Law on the Teacher Training Academy | MES, Bureau for Development of Education | - The concepts of non- discrimination and human rights has been incorporated in the education system | 2016-2020
-Amendments and | Agency for Youth and - | The Law has been | 2017-2020
+Amendments and | Agency for Youth and | - The Law has been | 2017-2020
 
 18
 
@@ -503,7 +532,7 @@ Amendments and supplements to the Law on Procedures for Illegally Constructed Bu
 Harmonization of the Law on the Media with the Law on the Prevention of and Protection against Discrimination | Agency for Audio and Audiovisual Media Services | - Harmonization with the Law on the Prevention of and Protection against Discrimination | 2017-2020
 Amendments and supplements to the Law on Banks | Ministry of Finance | -Anti-discrimination provisions incorporated in the Law | 2017- 2020
 Amendments and supplements to the Law on Insurance | Ministry of Finance | -Anti-discrimination provisions incorporated in the Law | 2016- 2020
-Amendments to the Decision on Allocation of Subsidized Apartments and on the conditions for use of such apartments constructed under the Program for construction and | Ministry of Transport and Communications | - Amended Rulebook on allocation of subsidized apartments in following with the principle of equal access | 2016-2017
+Amendments to the Decision on Allocation of Subsidized Apartments and on the conditions for use of such apartments constructed under the Program for construction and maintenance of | Ministry of Transport and Communications | - Amended Rulebook on allocation of subsidized apartments in following with the principle of equal access | 2016-2017
 
 22
 
@@ -542,8 +571,8 @@ Monitoring the implementation of the conclusions and recommendations for promoti
 
 recommendations under the Discrimination (Employment and Occupation) Convention, 1958 (No. 111).
 --- | --- | --- | ---
-Building capacities of institutions and organizations at the national and local level | Government of the Republic of Macedonia, MLSP, MES, Ministry of Transport and Communications, units of local self- government, Commission for against - | Number of implemented general and specialized trainings for employees in state and public institutions on the issue of recognizing discrimination and on available protection mechanisms - Number of implemented advanced trainings, which incorporate international human rights standards and which involve a wide scope | On continual basis.
-Protection Discrimination, Ombudsman, social partners and associations of citizens | of participants coming from various institutions, including persons at managerial posts and assessment of the impact of implemented trainings; - Building local level capacities (Coordinators and Commissions for Equal Opportunities); - Finding forms of making mechanisms for protection against discrimination available at the local level. | On continual basis.
+Building capacities of institutions and organizations at the national and local level | Government of the Republic of Macedonia, MLSP, MES, Ministry of Transport and Communications, units of local self-government, Commission for Protection against Discrimination, Ombudsman, social partners and associations of citizens | - Number of implemented general and specialized trainings for employees in state and public institutions on the issue of recognizing discrimination and on available protection mechanisms | On continual basis.
+ |  | - Number of implemented advanced trainings, which incorporate international human rights standards and which involve a wide scope of participants coming from various institutions, including persons at managerial posts and assessment of the impact of implemented trainings; - Building local level capacities (Coordinators and Commissions for Equal Opportunities); - Finding forms of making mechanisms for protection against discrimination available at the local level. | On continual basis.
 Generating knowledge about the situation with discrimination in the Republic of Macedonia | MLSP, Commission for Protection against Discrimination, Ombudsman, ARRC, MES, Bureau for Education Development, associations of citizens | - Number of conducted researches and analyses; - Analysis of the situation with discrimination on grounds of gender and gender identity; - Analysis of the situation with discrimination on grounds of mental and physical disability. | 2016 -2020
 Establishment of database on implemented trainings, trained persons, trained trainers and training materials | MLSP | - Database on implemented trainings, trained persons, trained trainers and training materials and regular updating of the database which is to be found on a website | 2016-2020
 
@@ -557,9 +586,9 @@ Establishment of an independent mechanism for monitoring the implementation of t
 --- | --- | --- | ---
 ##### 2.1. Specific Strategic Objectives- Employment and Labour Relations
 Providing information to employees about their rights and introducing them to the concept of non-discrimination and mobbing in the workplace | MLSP, OSCE, Commission for Protection against Discrimination, associations of citizens and social partners | - Number of organized trainings, educational and informative events | 2016-2020
-Providing information to employers about workers' rights and introducing them to the concept of non- discrimination and mobbing in the workplace | MLSP, OSCE, Commission for Protection against Discrimination, associations of citizens and social partners - | Number of organized trainings, educational and informative events | 2016-2020
-Building the capacities of the State Labour Inspectorate on the issue of recognizing discrimination | MLSP, associations of citizens and social partners - | Number of organized trainings, educational and informative events | 2016-2020
-Enhancing the capacities of trade unions for addressing cases of discrimination | Trade Unions | - Number of organized trainings for trade union members; -Number of participants in the trainings; -Results of the evaluation done by participants in the trainings; -Number of prepared and distributed non- discrimination handbooks to trade union members | 2016-2020
+Providing information to employers about workers' rights and introducing them to the concept of non-discrimination and mobbing in the workplace | MLSP, OSCE, Commission for Protection against Discrimination, associations of citizens and social partners | - Number of organized trainings, educational and informative events | 2016-2020
+Building the capacities of the State Labour Inspectorate on the issue of recognizing discrimination | MLSP, associations of citizens and social partners | - Number of organized trainings, educational and informative events | 2016-2020
+Enhancing the capacities of trade unions for addressing cases of discrimination | Trade Unions | - Number of organized trainings for trade union members; -Number of participants in the trainings; -Results of the evaluation done by participants in the trainings; -Number of prepared and distributed non-discrimination handbooks to trade union members | 2016-2020
 Monitoring the application of the principle of equitable representation of the Roma and other minority ethnic groups in the area of employment | The Ombudsman's Office | -Annual reports on equitable representation in the area of employment, relevant analysis and processed statistics | 2016-2020
 Analysis of the situation | MLSP, Polio Plus and | -Conducted analysis of the | 2016-2020
 
@@ -588,17 +617,17 @@ Establishment of a system in regular schools for application of the inclusive ed
 trainings for the teaching staff for work with children with disabilities; - Established teams for inclusion in regular schools; - Adjusted accessibility and availability in schools for children with special needs; - Established individual programs and established teams for inclusion in schools (primary and secondary education) ; -Prepared audio books for all levels of education for all subjects; - Piloted service for rehabilitation of children with visual and hearing impairments in one regular primary school.
 --- | --- | --- | ---
 Redefining the criteria for financial projects of associations of citizens applied by the Ministry of Culture | Ministry of Culture | - Established criteria for financing of projects by the Ministry of Culture in line with the principle of equal opportunities | 2016 - 2020
-Analysis of textbooks and of programs from the perspective of non- discrimination and equal opportunities | MES, MLSP, associations of citizens | - Conducted analyses and prepared recommendations for removing discriminatory contents from textbooks | 2016-2020
-Sensitizing employees in secondary and primary schools about cases of non-discrimination , especially in multi- ethnic communities | MES | - Number of implemented trainings for employees in education institutions; -Number of participants in the trainings; -Results of the evaluation done by participants in the trainings. | 2016-2020
-Sensitizing pupils/students in primary and secondary schools about cases of non-discrimination, especially in multi- ethnic communities | MES | - Number of implemented trainings for pupils/students in education institutions; -Number of participants in the trainings; -Results of the evaluation done by participants in the trainings. | 2016-2020
-
+Analysis of textbooks and of programs from the perspective of non-discrimination and equal opportunities | MES, MLSP, associations of citizens | - Conducted analyses and prepared recommendations for removing discriminatory contents from textbooks | 2016-2020
+Sensitizing employees in secondary and primary schools about cases of non-discrimination , especially in multi-ethnic communities | MES | - Number of implemented trainings for employees in education institutions; -Number of participants in the trainings; -Results of the evaluation done by participants in the trainings. | 2016-2020
+Sensitizing pupils/students in primary and secondary schools about cases of non-discrimination, especially in multi-ethnic communities | MES | - Number of implemented trainings for pupils/students in education institutions; -Number of participants in the trainings; -Results of the evaluation done by participants in the trainings. | 2016-2020
+##### 2.3. Specific Strategic Goals – Social Security (Social Protection, Pension and Disability Insurance and Health Care)
 28
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
 
-Sensitizing employees in Social Work Centres about non- discrimination | MLSP | - Number of trainings organized for employees of Social Work Centres; -Number of participants in the trainings; -Results of the evaluation done by participants in the trainings. | 2016-2020
+Sensitizing employees in Social Work Centres about non-discrimination | MLSP | - Number of trainings organized for employees of Social Work Centres; -Number of participants in the trainings; -Results of the evaluation done by participants in the trainings. | 2016-2020
 --- | --- | --- | ---
 Generating knowledge about the situation and establishment of eventual discrimination and harassment by the staff in health care institutions | MoH, Commission for Protection against Discrimination | - Conducted situation testing; - Conducted research of discrimination and harassment by staff in health care institutions | 2016-2020
 Improving health care for persons suffering rare diseases | MoH | Conducted Analysis for improvement of health care for persons suffering rare diseases | 2016-2020
@@ -616,13 +645,13 @@ Building capacities of judges and public prosecutors regarding the issue of burd
 
 Building the capacities of judges and public prosecutors on the issue of discrimination | Academy for Training of Judges and Public Prosecutors, Commission for Protection against Discrimination, associations of citizens | - Number of implemented trainings about the issue of discrimination on grounds of mental and physical disability, and racial and ethnic discrimination | 2016-2020
 --- | --- | --- | ---
-Sensitizing police officers about the non- discrimination concept | MoI | - Number of implemented trainings for police officers; -Number of participants in the trainings; -Results of the evaluation done by participants in the training. | 2016-2020
+Sensitizing police officers about the non-discrimination concept | MoI | - Number of implemented trainings for police officers; -Number of participants in the trainings; -Results of the evaluation done by participants in the training. | 2016-2020
 Monitoring cases of hate crime | Coordination Body, MoI Basic Public Prosecutor's Office, courts | - Information and database on hate crime cases | 2016-2020
 ##### 2. 5. Specific Strategic Objectives - Access to Goods and Services
 Ensuring relevant access to goods and services for all age groups | MLSP, units of local self-government, Ministry of Transport and Communications | - Established accessible and available assistance and support services for the elderly | 2016-2020
 - Improved living conditions in institutions housing and organizing care for all age groups;
 - Introduced sound signalization at traffic lights.
-Direct active involvement of units of local self-government in recognizing the needs of persons with disabilities and active inclusion of such persons in all processes at the local level | Units of local self- government | - Action Plans adopted by units of local self- government with a view to ensuring unimpeded access for persons with disabilities | 2016-2020
+Direct active involvement of units of local self-government in recognizing the needs of persons with disabilities and active inclusion of such persons in all processes at the local level | Units of local self-government | - Action Plans adopted by units of local self-government with a view to ensuring unimpeded access for persons with disabilities | 2016-2020
 - Implementation of legal provisions on unimpeded access and movement to and within buildings and application of standards and norms for urban planning | Ministry of Transport and Communications Inspectorate, units of local self-government | - Number of conducted inspections of the implementation of legal provisions on unimpeded access and movement to and within buildings and of application of standards and norms for urban planning | 2016-2020
 
 30
@@ -637,7 +666,7 @@ Direct active involvement of units of local self-government in recognizing the n
 
 Activity | Implementing agencies | Indicators | Timeframe
 --- | --- | --- | ---
-Pursuance of continual activities for raising the public awareness about recognizing forms of discrimination and raising the awareness about promotion of the concepts of non- discrimination and equal opportunities | Government of the Republic of Macedonia, MLSP, MES, Ministry of Transport and Communications, units of local self- government, social partners and associations of citizens | - Conducted media campaign aimed at raising the awareness in the society about equality and non- discrimination of vulnerable categories of citizens on all discriminatory grounds referred to in the Law on the Prevention of and Protection against Discrimination or on any other grounds set forth under a law or under a ratified treaty | On continual basis
+Pursuance of continual activities for raising the public awareness about recognizing forms of discrimination and raising the awareness about promotion of the concepts of non-discrimination and equal opportunities | Government of the Republic of Macedonia, MLSP, MES, Ministry of Transport and Communications, units of local self-government, social partners and associations of citizens | - Conducted media campaign aimed at raising the awareness in the society about equality and non-discrimination of vulnerable categories of citizens on all discriminatory grounds referred to in the Law on the Prevention of and Protection against Discrimination or on any other grounds set forth under a law or under a ratified treaty | On continual basis
 Undertaking measures for prevention of hate speech and violence and other forms of discrimination against ethnic communities, women, LGBTI persons, persons with disabilities and similar | Commission for Protection against Discrimination, MLSP, associations of citizens | - Conducted campaigns, organized events, debates and other activities to raise the public awareness about the issue of prevention of hate speech and violence; - Increased number of procedures instituted ex officio by the Commission for Protection against Discrimination against discrimination and harassment committed by using the media and mass communication outlets | 2016-2020
 Preparation of Eurobarometer on equal opportunities | Commission for Protection against Discrimination | - Prepared Analysis of the situation with respect to equal opportunities | 2016-2018
 Organization of participatory forums with persons belonging to ethnic communities | ARRC | - Established practice of organizing participatory forums aimed at detecting priorities of a given ethnic community | 2016-2020
@@ -652,13 +681,13 @@ Organization of Open Days with units of local self-government | Commission for P
 local self-government
 --- | --- | --- | ---
 ##### 3.1. Specific Strategic Objectives- Employment and Labour Relations
-Raising the awareness among employers in the private and public sector about discrimination against women on grounds of their martial status, age and | MLSP, Employment Agency of the Republic of Macedonia, social partners and associations of citizens | - Number of organized working meetings, public debates, press releases published and enhanced controls | 2016-2020
-Informing workers about their rights and about the non- discrimination concept | MLSP, Employment Agency of the Republic of Macedonia, Commission for Protection against Discrimination, Ombudsman, social partners and associations of citizens | - Number of organized debates, discussions, public events, pres releases published in electronic and printed media outlets, radio and TV programs, and similar | 2016-2020
+Raising the awareness among employers in the private and public sector about discrimination against women on grounds of their martial status, age and pregnancy | MLSP, Employment Agency of the Republic of Macedonia, social partners and associations of citizens | - Number of organized working meetings, public debates, press releases published and enhanced controls | 2016-2020
+Informing workers about their rights and about the non-discrimination concept | MLSP, Employment Agency of the Republic of Macedonia, Commission for Protection against Discrimination, Ombudsman, social partners and associations of citizens | - Number of organized debates, discussions, public events, pres releases published in electronic and printed media outlets, radio and TV programs, and similar | 2016-2020
 Promotion of an open labour market that would be of primary relevance in employment of persons with disabilities | MLSP, Employment Agency of the Republic of Macedonia, associations of citizens | - Number of organized debates, discussions, public events, press releases published in electronic and printed media outlets, radio and TV programs, and similar | 2016-2020
 Raising the awareness of employers about the equal value of the work of persons with disabilities, as well as about the issue of equal value of work on grounds of gender | MLSP, Employment Agency of the Republic of Macedonia | - Number of organized debates, discussions, public events, press releases published in electronic and printed media outlets, radio and TV programs, and similar | 2016-2020
 ##### 3.2. Specific Strategic Goals- Education, Science, Sports, and Culture
-Raising the awareness of persons belonging to communities that present less than 20% of the population about the right to regular instruction in their language and having an optional subject teaching | ARRC | - Conducted campaign for dissemination of information about rights, a handbook, brochures, fliers | 2016-2020
-Raising the awareness of parents and of the teaching staff about | MES, Associations of Citizens - | Conducted campaign for dissemination of information about rights, a | 2016-2020
+Raising the awareness of persons belonging to communities that present less than 20% of the population about the right to regular instruction in their language and having an optional subject teaching their mother tongue | ARRC | - Conducted campaign for dissemination of information about rights, a handbook, brochures, fliers | 2016-2020
+Raising the awareness of parents and of the teaching staff about | MES, Associations of Citizens | - Conducted campaign for dissemination of information about rights, a | 2016-2020
 
 32
 
@@ -670,12 +699,12 @@ inclusive education for children with disabilities | handbook, brochures, fliers
 --- | --- | --- | ---
 Promotion of the concept of equality and non-discrimination at all levels of education | MES, Bureau for Education Development, associations of citizens | - Number of organized meetings, discussions, debates at kindergartens, schools, faculties; - Distributed educational and promotional material; - Preparation and adoption of internal documents for prevention of discrimination in schools. | 2016-2020
 Organization of cultural events by persons belonging to communities | ARRC | - Organized annual cultural events | 2016-2020
-##### 3.3. Specific Strategic Goals - Social Security (Social Protection, Pension and Disability Insurance and Health Care)
-Promotion of the equality and non- discrimination concepts in the social sphere with a focus on the gender equality element | MLSP | - Number of organized events, meetings, discussions and debates with vulnerable categories of citizens | 2016-2020
+##### 3.3. Specific Strategic Goals – Social Security (Social Protection, Pension and Disability Insurance and Health Care)
+Promotion of the equality and non-discrimination concepts in the social sphere with a focus on the gender equality element | MLSP | - Number of organized events, meetings, discussions and debates with vulnerable categories of citizens | 2016-2020
 ##### 3.4. Specific Strategic Objectives- Justice and Administration
 Promotion of equality and non-discrimination in access to justice | MoJ, Ombudsman, Commission for Protection against Discrimination | - Number of organized debates, public events, press conferences, etc. | 2016-2020
 Raising the public awareness about and recognizing discrimination among asylum seekers | MoI, MLSP | -Distributed informational and educational materials about consequences of bogus asylum applications | 2016-2020
-Strengthening the capacities and competences of border control officers with respect to the principle of non-discrimination and the issue of racial profiling | MLSP, Commission for Protection against Discrimination, the OSCE and MoI - - | Number of implemented educational workshops; Informational and educational material. | 2017-2020
+Strengthening the capacities and competences of border control officers with respect to the principle of non-discrimination and the issue of racial profiling | MLSP, Commission for Protection against Discrimination, the OSCE and MoI | - Number of implemented educational workshops; - Informational and educational material. | 2017-2020
 ##### 3. 5. Specific Strategic Objectives - Access to Goods and Services
 Promotion of accessible and available environment and | -Conducted campaign and distributed informational and educational material | 2016-2020
 
