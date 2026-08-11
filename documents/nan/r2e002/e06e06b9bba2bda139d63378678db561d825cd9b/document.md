@@ -3,21 +3,21 @@
 # Law on Preschool Education
 the consolidated text of the law OG 10/97 , 107/07 , 94/13 , 98/19 effective 01/01/2019
 
-## GENERAL PROVISIONS
+## I. GENERAL PROVISIONS
 
 #### Article 1 (OG 94/13 )
 
 (1) This Law regulates preschool education and care for preschool children (hereinafter: preschool education) as part of the system of education and care for children.
 
-- Preschool education shall include programs of education, health care, nutrition and social care provided in kindergartens in accordance with this Act.
+(2) Preschool education shall include programs of education, health care, nutrition and social care provided in kindergartens in accordance with this Act.
 
-- Kindergartens are public institutions that carry out the activity of preschool education as a public service.
+(3) Kindergartens are public institutions that carry out the activity of preschool education as a public service.
 
 (4) The terms used in this Act for persons of male gender are neutral and refer to both male and female persons.
 
 #### Article 1a (OG 94/13 )
 
-- As a public authority, the kindergarten shall perform the following tasks:
+(1) As a public authority, the kindergarten shall perform the following tasks:
 
 - enrollment of children in kindergarten and printouts of children from kindergarten, with proper documentation,
 
@@ -25,7 +25,7 @@ the consolidated text of the law OG 10/97 , 107/07 , 94/13 , 98/19 effective 01/
 
 - entering kindergarten data into a common electronic register.
 
-- When a kindergarten decides on the right, obligation or legal interest of a child, parent or guardian or other natural or legal person in connection with the activities referred to in paragraph 1 of this Article or other activities performed by it as a public authority, it shall act in accordance with the provisions of the law governing the general administrative procedure.
+(2) When a kindergarten decides on the right, obligation or legal interest of a child, parent or guardian or other natural or legal person in connection with the activities referred to in paragraph 1 of this Article or other activities performed by it as a public authority, it shall act in accordance with the provisions of the law governing the general administrative procedure.
 
 [[END OF PAGE 1]]
 
@@ -37,9 +37,9 @@ Counties, the City of Zagreb, cities and municipalities (hereinafter: units of l
 
 #### Article 3
 
-- Preschool education shall be organized and implemented for children from the age of 6 months to the beginning of primary school.
+(1) Preschool education shall be organized and implemented for children from the age of 6 months to the beginning of primary school.
 
-- Preschool education shall be realized in accordance with the developmental characteristics and needs of children, as well as the social, cultural, religious and other needs of families.
+(2) Preschool education shall be realized in accordance with the developmental characteristics and needs of children, as well as the social, cultural, religious and other needs of families.
 
 #### Article 4
 
@@ -55,53 +55,53 @@ Preschool education is realized on the basis of the State Pedagogical Standard o
 
 The state pedagogical standard of preschool education determines:
 
-- benchmarks for the number of children in educational groups,
+1. benchmarks for the number of children in educational groups,
 
-- the structure of the program in terms of duration and purpose,
+2. the structure of the program in terms of duration and purpose,
 
-- benchmarks for the number of educators, professional assistants and other kindergarten workers,
+3. benchmarks for the number of educators, professional assistants and other kindergarten workers,
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-- criteria for financing kindergarten programs,
+4. criteria for financing kindergarten programs,
 
-- material and financial working conditions,
+5. material and financial working conditions,
 
-- preschool education of children with special needs (children with disabilities and gifted children),
+6. preschool education of children with special needs (children with disabilities and gifted children),
 
-- pre-school education of children of Croatian citizens abroad,
+7. pre-school education of children of Croatian citizens abroad,
 
-- pre-school education of children belonging to national minorities,
+8. pre-school education of children belonging to national minorities,
 
-- Pre-school structure.
+9. Pre-school structure.
 
-- National pedagogical standard of pre-school education
+11. National pedagogical standard of pre-school education
 
-## ESTABLISHMENT AND STARTING OF A KINDERGARTEN
+## II. ESTABLISHMENT AND STARTING OF A KINDERGARTEN
 
-### Establishing a kindergarten
+### 1. Establishing a kindergarten
 
 #### Article 7
 
-- Kindergarten may establish:
+(1) Kindergarten may establish:
 
-- The Republic of Croatia,
+1. The Republic of Croatia,
 
-- units of local and regional self-government,
+2. units of local and regional self-government,
 
-- religious communities,
+3. religious communities,
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-- other legal and natural persons.
+4. other legal and natural persons.
 
-- The kindergarten may be jointly established by local and regional self-government units and natural and legal persons.
+(2) The kindergarten may be jointly established by local and regional self-government units and natural and legal persons.
 
-- The Republic of Croatia shall establish a kindergarten by a law or regulation of the Government of the Republic of Croatia or by a decision of the Ministry responsible for education.
+(3) The Republic of Croatia shall establish a kindergarten by a law or regulation of the Government of the Republic of Croatia or by a decision of the Ministry responsible for education.
 
 #### Article 8
 
@@ -127,27 +127,27 @@ The Kindergarten Establishment Act contains the provisions prescribed by the Ins
 
 [[START OF PAGE 5]]
 
-### Registration of the kindergarten in the court register
+### 2. Registration of the kindergarten in the court register
 
 #### Article 10 (OG 98/19 )
 
-- Pursuant to the provisions of this Act, the activities related to the provision of preschool education activities shall be performed by the administrative body of the county, that is, the City of Zagreb, within the scope of which it is entrusted with performing state administration tasks related to those activities.
+(1) Pursuant to the provisions of this Act, the activities related to the provision of preschool education activities shall be performed by the administrative body of the county, that is, the City of Zagreb, within the scope of which it is entrusted with performing state administration tasks related to those activities.
 
-- The kindergarten founder shall file an application for entry in the court register after obtaining:
+(2) The kindergarten founder shall file an application for entry in the court register after obtaining:
 
 - Decision issued by the Ministry responsible for education that the act establishing the kindergarten is in accordance with the law,
 
 - decision of the competent administrative body of the county or city office of the City of Zagreb in charge of education, which authorizes the beginning of performing the activity of preschool education.
 
-### Issuance of a decision on starting a kindergarten activity
+### 3. Issuance of a decision on starting a kindergarten activity
 
 #### Article 11 (OG 94/13 )
 
-- A kindergarten may commence its operations after having obtained a decision to start work.
+(1) A kindergarten may commence its operations after having obtained a decision to start work.
 
-- The decision referred to in paragraph 1 of this Article shall be issued by the competent administrative body of the county, that is, the City Office of the City of Zagreb, if the kindergarten meets the conditions for commencement of the kindergarten activity.
+(2) The decision referred to in paragraph 1 of this Article shall be issued by the competent administrative body of the county, that is, the City Office of the City of Zagreb, if the kindergarten meets the conditions for commencement of the kindergarten activity.
 
-- The procedure for determining the fulfillment of the conditions for starting kindergarten shall be carried out in accordance with the provisions of the law governing the general administrative procedure, and shall be carried out by an expert commission appointed by the competent administrative body of the county, or city office of the City of Zagreb.
+(3) The procedure for determining the fulfillment of the conditions for starting kindergarten shall be carried out in accordance with the provisions of the law governing the general administrative procedure, and shall be carried out by an expert commission appointed by the competent administrative body of the county, or city office of the City of Zagreb.
 
 (4) If during the performance of the activity the headquarters of the kindergarten, or the premises in which the kindergarten performs the activity or part of the activity, changes or another condition prescribed by law and pursuant to the law issued by the regulation for performing the activity of the kindergarten, the kindergarten is obliged before the beginning of work. in changed conditions apply for the issuance of a decision to start working in changed conditions.
 
@@ -171,13 +171,13 @@ The conditions for starting a kindergarten are:
 
 - evidence that other conditions prescribed by law have been fulfilled, and by regulations adopted by law.
 
-### Prohibition of business activities
+### 4. Prohibition of business activities
 
 #### Article 13
 
 The kindergarten, which no longer fulfills the conditions laid down in Article 12 of this Act, shall be prohibited by the educational inspector after the measures have been taken and propose to the commercial court at which the kindergarten is entered in the court register to decide on its termination.
 
-### Kindergarten development plan and network
+### 5. Kindergarten development plan and network
 
 [[END OF PAGE 6]]
 
@@ -185,39 +185,39 @@ The kindergarten, which no longer fulfills the conditions laid down in Article 1
 
 #### Article 14 (OG 94/13 )
 
-- The representative body of the local and regional self-government unit and the City of Zagreb shall adopt a plan for the kindergarten network in its area.
+(1) The representative body of the local and regional self-government unit and the City of Zagreb shall adopt a plan for the kindergarten network in its area.
 
-- Based on the plans referred to in paragraph 1 of this Article, the county representative body shall coordinate the development of a kindergarten network in its area.
+(2) Based on the plans referred to in paragraph 1 of this Article, the county representative body shall coordinate the development of a kindergarten network in its area.
 
-- The kindergarten network shall determine the kindergartens and other legal entities carrying out the activity of preschool education in the area for which the network is established, with all their facilities where the programs are implemented.
+(3) The kindergarten network shall determine the kindergartens and other legal entities carrying out the activity of preschool education in the area for which the network is established, with all their facilities where the programs are implemented.
 
-- The kindergarten network must meet the requirements of accessibility and rational organization of kindergartens and programs for preschool children in accordance with their needs and abilities.
+(4) The kindergarten network must meet the requirements of accessibility and rational organization of kindergartens and programs for preschool children in accordance with their needs and abilities.
 
 ## III. NATIONAL CURRICULUM FOR KINDERGARTEN AND EDUCATION AND KINDERGARTEN PROGRAMS
 
 #### Article 15 (OG 94/13 )
 
-- Early childhood and pre-school education shall be provided on the basis of the national curriculum for preschool education (hereinafter: the national curriculum) and the kindergarten curriculum.
+(1) Early childhood and pre-school education shall be provided on the basis of the national curriculum for preschool education (hereinafter: the national curriculum) and the kindergarten curriculum.
 
-- The national curriculum establishes values, principles, general educational goals and contents of all activities and programs, approaches and ways of working with early and pre-school children, educational goals in the areas of children's development and their competences, and evaluation.
+(2) The national curriculum establishes values, principles, general educational goals and contents of all activities and programs, approaches and ways of working with early and pre-school children, educational goals in the areas of children's development and their competences, and evaluation.
 
-- The national curriculum shall be adopted by the minister responsible for education.
+(3) The national curriculum shall be adopted by the minister responsible for education.
 
-- The kindergarten curriculum shall be adopted by the governing council of the kindergarten by September 30 of the current pedagogical year, which shall determine: the program, the purpose of the program, the program holders, the manner of realization of the program, the time of the program activity and the method of evaluation.
+(4) The kindergarten curriculum shall be adopted by the governing council of the kindergarten by September 30 of the current pedagogical year, which shall determine: the program, the purpose of the program, the program holders, the manner of realization of the program, the time of the program activity and the method of evaluation.
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-- The content and duration of the pre-school program shall be prescribed by the minister competent for education by ordinance.
+(5) The content and duration of the pre-school program shall be prescribed by the minister competent for education by ordinance.
 
-- Rulebook on the content and duration of preschool programs
+12. Rulebook on the content and duration of preschool programs
 
-- Decision on adopting the National Curriculum for Early and Preschool Education
+13. Decision on adopting the National Curriculum for Early and Preschool Education
 
 #### Article 15a (OG 94/13 )
 
-- In the kindergarten the following are realized:
+(1) In the kindergarten the following are realized:
 
 - regular programs of care, education, education, health care, nutrition and social care for children of early and preschool age that are adapted to the developmental needs of children and their capabilities and abilities,
 
@@ -231,11 +231,11 @@ The kindergarten, which no longer fulfills the conditions laid down in Article 1
 
 - early language learning programs and other programs of artistic, cultural, religious and sports content.
 
-- Depending on the needs of the children and the requirements of the parents, the kindergarten may carry out programs in accordance with the provisions of the State pedagogical standard of preschool education.
+(2) Depending on the needs of the children and the requirements of the parents, the kindergarten may carry out programs in accordance with the provisions of the State pedagogical standard of preschool education.
 
-- The programs referred to in paragraphs 1 and 2 of this Article shall be approved by the ministry responsible for education.
+(3) The programs referred to in paragraphs 1 and 2 of this Article shall be approved by the ministry responsible for education.
 
-- If in the course of performing the activity for which the kindergarten is established, the activity is expanded by the implementation of new programs or the kindergarten changes the program, the kindergarten is obliged to submit a request for the approval referred to in paragraph 3 of this Article before the start of the implementation of the program.
+(4) If in the course of performing the activity for which the kindergarten is established, the activity is expanded by the implementation of new programs or the kindergarten changes the program, the kindergarten is obliged to submit a request for the approval referred to in paragraph 3 of this Article before the start of the implementation of the program.
 
 [[END OF PAGE 8]]
 
@@ -253,7 +253,7 @@ The kindergarten, which no longer fulfills the conditions laid down in Article 1
 
 - supplementing family upbringing and establishing open cooperation with parents and the immediate children's environment through their openness.
 
-- The working hours of kindergartens must be adapted to the needs of children and working parents.
+(2) The working hours of kindergartens must be adapted to the needs of children and working parents.
 
 #### Article 17
 
@@ -271,15 +271,15 @@ The kindergarten, which no longer fulfills the conditions laid down in Article 1
 
 [[START OF PAGE 10]]
 
-- Social welfare programs in kindergartens shall be established by the minister competent for social welfare.
+(2) Social welfare programs in kindergartens shall be established by the minister competent for social welfare.
 
-- The programs referred to in paragraphs 1 and 2 of this Article shall be approved by the minister responsible for education.
+(3) The programs referred to in paragraphs 1 and 2 of this Article shall be approved by the minister responsible for education.
 
-- The program of children's health care, hygiene and proper nutrition of children in kindergartens
+7. The program of children's health care, hygiene and proper nutrition of children in kindergartens
 
 #### Article 19
 
-- The kindergarten shall organize and carry out educational work with children divided into groups of fullday, half-day, multi-day or shorter day care.
+(1) The kindergarten shall organize and carry out educational work with children divided into groups of full-day, half-day, multi-day or shorter day care.
 
 (2) The organization and implementation of educational work in kindergartens in accordance with paragraph 1 of this Article shall be conducted on the basis of the State pedagogical standard of pre-school education referred to in Article 6 of this Act.
 
@@ -287,13 +287,13 @@ The kindergarten, which no longer fulfills the conditions laid down in Article 1
 
 (1) Priority in enrolling children in kindergartens owned by a unit of local and regional self-government or state-owned shall be given to children of parents of victims and invalids of the war, children of families with three or more children, children of working parents, children with disabilities, children of single parents and children in foster families, children in the year before primary school and children of parents receiving child allowance.
 
-- The manner of realizing the benefits of enrolling children in kindergarten shall be determined by the founder of the kindergarten by his act.
+(2) The manner of realizing the benefits of enrolling children in kindergarten shall be determined by the founder of the kindergarten by his act.
 
 #### Article 21
 
-- The kindergarten shall carry out its activity on the basis of the annual plan and work program adopted for the teaching year running from September 1 of the current year to August 31 of the following year.
+(1) The kindergarten shall carry out its activity on the basis of the annual plan and work program adopted for the teaching year running from September 1 of the current year to August 31 of the following year.
 
-- The annual plan and program of work for the pedagogical year shall be adopted by the governing board of the kindergarten by 30 September.
+(2) The annual plan and program of work for the pedagogical year shall be adopted by the governing board of the kindergarten by 30 September.
 
 [[END OF PAGE 10]]
 
@@ -309,7 +309,7 @@ The size of the kindergarten, depending on the number of educational groups of c
 
 (1) Work with children of early and preschool age shall be organized in nursery and kindergarten educational groups.
 
-- Preschool education programs may be implemented through:
+(2) Preschool education programs may be implemented through:
 
 - in primary schools,
 
@@ -317,11 +317,11 @@ The size of the kindergarten, depending on the number of educational groups of c
 
 (3) The preschool education program and the work of the organizational unit within the legal entity referred to in paragraph 2 of this Article shall be conducted by the manager in accordance with the law, the act of incorporation and the statute of the legal entity.
 
-- The special conditions and criteria for the implementation of the program referred to in paragraph 2 of this Article shall be laid down by the minister responsible for education.
+(4) The special conditions and criteria for the implementation of the program referred to in paragraph 2 of this Article shall be laid down by the minister responsible for education.
 
 (5) The competent administrative body of the county, that is, the City Office of the City of Zagreb, shall determine the fulfillment of the conditions for the beginning of work and implementation of the program referred to in paragraph 2 of this Article.
 
-- Rulebook on special conditions and criteria for the realization of the preschool education program
+3. Rulebook on special conditions and criteria for the realization of the preschool education program
 
 [[END OF PAGE 11]]
 
@@ -329,23 +329,23 @@ The size of the kindergarten, depending on the number of educational groups of c
 
 #### Article 23a (Official Gazette 94/13 - effective 31 August 2014)
 
-- The preschool program is compulsory for all children in the year preceding primary school.
+(1) The preschool program is compulsory for all children in the year preceding primary school.
 
-- The preschool program for children attending kindergarten shall be integrated into the regular kindergarten preschool program.
+(2) The preschool program for children attending kindergarten shall be integrated into the regular kindergarten preschool program.
 
-- The obliged preschooler who does not attend kindergarten shall enroll the preschool program at the kindergarten or elementary school closest to his / her place of residence, which implement the preschool program for children not attending kindergarten.
+(3) The obliged preschooler who does not attend kindergarten shall enroll the preschool program at the kindergarten or elementary school closest to his / her place of residence, which implement the preschool program for children not attending kindergarten.
 
-- In the absence of a kindergarten or primary school in a particular area implementing a preschool program, the unit of local or regional self-government shall be obliged to ensure the implementation of the preschool program for children referred to in paragraph 3 of this Article, in such a way as to ensure the transport of children to the nearest kindergarten or elementary school providing the preschool program, if it is not more than 20 kilometers from the child's place of residence.
+(4) In the absence of a kindergarten or primary school in a particular area implementing a preschool program, the unit of local or regional self-government shall be obliged to ensure the implementation of the preschool program for children referred to in paragraph 3 of this Article, in such a way as to ensure the transport of children to the nearest kindergarten or elementary school providing the preschool program, if it is not more than 20 kilometers from the child's place of residence.
 
 (5) If the nearest kindergarten or primary school implementing the preschool program referred to in paragraph 4 of this Article is more than 20 kilometers from the place of residence of the child, the unit of local or regional self-government shall establish the kindergarten / its branch or organize the program elementary school preschools within 20 kilometers of the child's place of residence.
 
 ## IV. KINDERGARTEN WORKERS
 
-### Educational workers and other workers
+### 1. Educational workers and other workers
 
 #### Article 24 (OG 94/13 )
 
-- The following educational workers shall be employed in the kindergarten in the field of nursing, education, social and health care and child care: educator and professional associate (pedagogue, psychologist, speech therapist and rehabilitator) and nurse as health care manager.
+(1) The following educational workers shall be employed in the kindergarten in the field of nursing, education, social and health care and child care: educator and professional associate (pedagogue, psychologist, speech therapist and rehabilitator) and nurse as health care manager.
 
 [[END OF PAGE 12]]
 
@@ -359,13 +359,13 @@ The size of the kindergarten, depending on the number of educational groups of c
 
 (5) In addition to the persons referred to in paragraph 4 of this Article, the activities of educators who carry out the preschool program at primary schools may be performed by persons who fulfill the conditions for performing the activities of classroom teacher in primary school in accordance with a special regulation.
 
-- The duties of an associate may be performed by a person who has completed a university degree or a specialist degree of a relevant type.
+(6) The duties of an associate may be performed by a person who has completed a university degree or a specialist degree of a relevant type.
 
 (7) The activities of a nurse may be performed by a person who has completed undergraduate university study or professional nursing studies, or studies that have obtained a university degree in nursing in accordance with previous regulations, as well as a person who has completed a university graduate study or specialist nursing study .
 
 (8) The appropriate type of education of educational workers and the level and type of education of other workers in kindergarten shall be prescribed by an ordinance by the minister competent for education.
 
-- Rulebook on the type of professional qualification of professional staff and the type and degree of professional qualification of other staff in kindergarten
+4. Rulebook on the type of professional qualification of professional staff and the type and degree of professional qualification of other staff in kindergarten
 
 #### Article 25 (OG 94/13 )
 
@@ -381,17 +381,17 @@ The size of the kindergarten, depending on the number of educational groups of c
 
 [[START OF PAGE 15]]
 
-### Establishing an employment relationship in kindergarten
+### 2. Establishing an employment relationship in kindergarten
 
 #### Article 26 (OG 94/13 )
 
 (1) Employment in a kindergarten shall be based on a contract of employment based on a competition.
 
-- The decision on the publication of the competition shall be taken by the Administrative Council.
+(2) The decision on the publication of the competition shall be taken by the Administrative Council.
 
-- The vacancy notice shall be published on the web pages and bulletin boards of the Croatian Employment Service, as well as on the web pages and bulletin boards of the kindergarten, and the deadline for receipt of candidates' applications may not be less than eight days.
+(3) The vacancy notice shall be published on the web pages and bulletin boards of the Croatian Employment Service, as well as on the web pages and bulletin boards of the kindergarten, and the deadline for receipt of candidates' applications may not be less than eight days.
 
-- By way of derogation from paragraph 1 of this Article, employment may be based on a contract of employment and without a vacancy:
+(4) By way of derogation from paragraph 1 of this Article, employment may be based on a contract of employment and without a vacancy:
 
 - when the performance of the job does not suffer a delay until the employment is established on the basis of a competition, but not longer than 60 days,
 
@@ -415,31 +415,31 @@ The size of the kindergarten, depending on the number of educational groups of c
 
 Kindergarten educators and associates who have a fixed-term employment contract may, for justifiable reasons determined by the kindergarten governing boards, establish a non-competitive employment relationship in another kindergarten.
 
-### Trainees
+### 3. Trainees
 
 #### Article 28
 
-- An educator and a professional associate who is employed for the first time as an educator or professional associate in a kindergarten shall start working as an intern.
+(1) An educator and a professional associate who is employed for the first time as an educator or professional associate in a kindergarten shall start working as an intern.
 
-- The internship shall last one year.
+(2) The internship shall last one year.
 
-- After completing the traineeship, the trainee shall pass the professional examination.
+(3) After completing the traineeship, the trainee shall pass the professional examination.
 
-- The trainee who does not pass the professional examination within one year from the day on which his traineeship expired shall cease working in the kindergarten.
+(4) The trainee who does not pass the professional examination within one year from the day on which his traineeship expired shall cease working in the kindergarten.
 
-- The time limit referred to in paragraph 4 of this Article shall not run during maternity leave, temporary incapacity for work and military service.
+(5) The time limit referred to in paragraph 4 of this Article shall not run during maternity leave, temporary incapacity for work and military service.
 
-- An educator and a professional associate with no work experience may take an internship and pass the professional exam without having an employment relationship (volunteer work).
+(6) An educator and a professional associate with no work experience may take an internship and pass the professional exam without having an employment relationship (volunteer work).
 
-- The manner and conditions for passing the professional examination, as well as the program of apprenticeship, shall be prescribed by the minister competent for education.
+(7) The manner and conditions for passing the professional examination, as well as the program of apprenticeship, shall be prescribed by the minister competent for education.
 
-- Rulebook on the manner and conditions for taking the professional exam of kindergarten teachers and associates in kindergarten
+2. Rulebook on the manner and conditions for taking the professional exam of kindergarten teachers and associates in kindergarten
 
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
 
-### Professional development and advancement of educators and professional associates in professional positions
+### 4. Professional development and advancement of educators and professional associates in professional positions
 
 #### Article 29
 
@@ -447,19 +447,19 @@ Educators and associates are obliged to undergo professional training in accorda
 
 #### Article 30
 
-- Educators and professional associates may, while employed, advance in the profession and acquire the position of mentor and advisor.
+(1) Educators and professional associates may, while employed, advance in the profession and acquire the position of mentor and advisor.
 
-- The procedure, manner and conditions for advancement of the profession and the acquisition of official positions shall be prescribed by the minister competent for education.
+(2) The procedure, manner and conditions for advancement of the profession and the acquisition of official positions shall be prescribed by the minister competent for education.
 
-- Ordinance on the manner and conditions for advancement in the profession and promotion to the positions of educators and professional associates in kindergartens
+1. Ordinance on the manner and conditions for advancement in the profession and promotion to the positions of educators and professional associates in kindergartens
 
-### Termination of employment of educators and professional associates
+### 5. Termination of employment of educators and professional associates
 
 #### Article 31
 
-- An educator and an associate whose psychophysical status during work in a kindergarten is impaired to the extent that it substantially reduces his / her work capacity shall be referred for medical examination.
+(1) An educator and an associate whose psychophysical status during work in a kindergarten is impaired to the extent that it substantially reduces his / her work capacity shall be referred for medical examination.
 
-- The decision on referral for medical examination shall be made by the Administrative Council, upon the proposal of the Director.
+(2) The decision on referral for medical examination shall be made by the Administrative Council, upon the proposal of the Director.
 
 [[END OF PAGE 17]]
 
@@ -483,7 +483,7 @@ Educator and expert associate terminate employment:
 
 - in other cases established by this Law and the Labor Law.
 
-### Exercises and experimental work in kindergartens
+### 6. Exercises and experimental work in kindergartens
 
 #### Article 33
 
@@ -499,25 +499,25 @@ Educator and expert associate terminate employment:
 
 - programs of the VET Center for the training of employed professional workers and the promotion of professional work.
 
-- The manner of work and the criteria for financing kindergartens that implement the programs referred to in paragraph 1 of this Article shall be prescribed by the minister responsible for education.
+(2) The manner of work and the criteria for financing kindergartens that implement the programs referred to in paragraph 1 of this Article shall be prescribed by the minister responsible for education.
 
-- Rulebook on Exercises and Experimental Programs in Kindergartens and on Kindergartens as Vocational Development Centers
+9. Rulebook on Exercises and Experimental Programs in Kindergartens and on Kindergartens as Vocational Development Centers
 
-## KINDERGARTEN MANAGEMENT
+## V. KINDERGARTEN MANAGEMENT
 
-### Governing Council
+### 1. Governing Council
 
 #### Article 34
 
-- The kindergarten shall be managed by a governing council.
+(1) The kindergarten shall be managed by a governing council.
 
-- The Governing Council shall consist of 5 to 7 members.
+(2) The Governing Council shall consist of 5 to 7 members.
 
-- At least half of the members of the Administrative Council shall be appointed by the founder from among public employees, one member shall be elected by the parents of the children of the service users, and the other members of the Administrative Council shall be elected by secret ballot from the kindergarten teachers and professional associates.
+(3) At least half of the members of the Administrative Council shall be appointed by the founder from among public employees, one member shall be elected by the parents of the children of the service users, and the other members of the Administrative Council shall be elected by secret ballot from the kindergarten teachers and professional associates.
 
-- The term of office of the members of the Governing Board shall be four years.
+(4) The term of office of the members of the Governing Board shall be four years.
 
-- The composition and number of members of the Governing Council, the method of election or appointment of its members, the manner of work and decision-making shall be determined by the act on the establishment and the statute of the kindergarten.
+(5) The composition and number of members of the Governing Council, the method of election or appointment of its members, the manner of work and decision-making shall be determined by the act on the establishment and the statute of the kindergarten.
 
 [[END OF PAGE 19]]
 
@@ -539,15 +539,15 @@ Educator and expert associate terminate employment:
 
 - performs other tasks stipulated by the act on the foundation and the statute of the kindergarten.
 
-- For kindergartens founded by the Republic of Croatia, the Ministry responsible for education shall give, or make decisions on behalf of the founder, the consent and decisions on behalf of the founder.
+(2) For kindergartens founded by the Republic of Croatia, the Ministry responsible for education shall give, or make decisions on behalf of the founder, the consent and decisions on behalf of the founder.
 
-### Kindergarten Director
+### 2. Kindergarten Director
 
 #### Article 36
 
-- The kindergarten director shall be the kindergarten manager and professional head.
+(1) The kindergarten director shall be the kindergarten manager and professional head.
 
-- In addition to the tasks specified in the Law on Institutions, the Director:
+(2) In addition to the tasks specified in the Law on Institutions, the Director:
 
 - propose an annual work plan and program,
 
@@ -566,21 +566,21 @@ Educator and expert associate terminate employment:
 
 (1) In the event of temporary impediment to performing the principal's duties, the kindergarten director shall be replaced by a person from among the members of the preschool council.
 
-- The person referred to in paragraph 1 of this Article shall be appointed by the Administrative Council in the manner regulated by the kindergarten statute.
+(2) The person referred to in paragraph 1 of this Article shall be appointed by the Administrative Council in the manner regulated by the kindergarten statute.
 
-- The person who replaces the director has the right and duty to perform those tasks of the director whose execution cannot be delayed until the director returns.
+(3) The person who replaces the director has the right and duty to perform those tasks of the director whose execution cannot be delayed until the director returns.
 
 #### Article 38
 
 The provisions of this Act relating to the manner of election and the term of office of the Governing Board and the Director shall not apply to the kindergarten established by the religious community, or other natural and legal person referred to in Article 7, paragraph 1, item 4 of this Act.
 
-### Educational Council
+### 3. Educational Council
 
 #### Article 39
 
-- The kindergarten expert body shall be the educational council.
+(1) The kindergarten expert body shall be the educational council.
 
-- The Educational Council shall be composed of all educators, professional assistants and health workers who carry out the preschool education program in kindergarten.
+(2) The Educational Council shall be composed of all educators, professional assistants and health workers who carry out the preschool education program in kindergarten.
 
 (3) The Educational Council participates in the establishment of the plan and program of the kindergarten work, monitors its implementation, discusses and decides on professional issues of work, encourages and promotes professional work, and performs other professional tasks stipulated by the law, the act on establishment and the statute of the kindergarten.
 
@@ -606,7 +606,7 @@ The provisions of this Act relating to the manner of election and the term of of
 
 #### Article 43
 
-- Union organizing in kindergartens is free.
+(1) Union organizing in kindergartens is free.
 
 (2) In the event of a strike, the strike committee, the kindergarten director and the governing council shall be obliged to provide adequate care, nutrition, health care, and other child care attending the kindergarten program during the strike.
 
@@ -616,13 +616,13 @@ The provisions of this Act relating to the manner of election and the term of of
 
 #### Article 44
 
-- The Ministry competent for education shall supervise the implementation of this Act and the regulations adopted thereunder.
+(1) The Ministry competent for education shall supervise the implementation of this Act and the regulations adopted thereunder.
 
-- Inspection supervision shall be carried out by the educational inspection in accordance with a special law.
+(2) Inspection supervision shall be carried out by the educational inspection in accordance with a special law.
 
-- The professional and pedagogical supervision of the work of educators and professional assistants shall be carried out within the scope of the Ministry by the professional competent pedagogical supervisors and other professional persons authorized by the minister competent for education.
+(3) The professional and pedagogical supervision of the work of educators and professional assistants shall be carried out within the scope of the Ministry by the professional competent pedagogical supervisors and other professional persons authorized by the minister competent for education.
 
-- The manner of performing professional pedagogical supervision and the rights, duties and powers of professional pedagogical supervisors and other persons authorized for professional pedagogical supervision shall be regulated by a separate law.
+(4) The manner of performing professional pedagogical supervision and the rights, duties and powers of professional pedagogical supervisors and other persons authorized for professional pedagogical supervision shall be regulated by a separate law.
 
 [[END OF PAGE 24]]
 
@@ -646,7 +646,7 @@ The provisions of this Act relating to the manner of election and the term of of
 
 (1) The kindergarten shall cease to operate under the conditions and in the manner prescribed by the Institutions Act and this Act.
 
-- The decision on termination of kindergarten shall determine the term and manner of termination of his or her work and regulate the manner of allocation of children who attended kindergarten to other appropriate institutions.
+(2) The decision on termination of kindergarten shall determine the term and manner of termination of his or her work and regulate the manner of allocation of children who attended kindergarten to other appropriate institutions.
 
 #### Article 47
 
@@ -656,7 +656,7 @@ The provisions of Articles 44 to 46 of this Law shall apply mutatis mutandis to 
 
 [[START OF PAGE 26]]
 
-## KINDERGARTEN FINANCING
+## IX. KINDERGARTEN FINANCING
 #### Article 48 (OG 94/13 )
 (1) The founder of a kindergarten shall be obliged to provide funds for the establishment and operation of a kindergarten. (2) The kindergarten shall provide funds by selling services on the market and from other sources in accordance with the law. (3) If two or more founders jointly establish a kindergarten, the funds referred to in paragraph 1 of this Article shall be provided by the founders in accordance with the act of incorporation. (4) The kindergarten, which has established units of local and regional self-government, charges its services from the parents-users of services, in accordance with the criteria determined by the representative body of that unit, except for the preschool program, which is free of charge for parents. (5) The funds referred to in paragraph 4 of this Article shall be paid into the budget of the local and regional self-government unit that established the kindergarten or the kindergarten giro account, if so decided by the representative body of the local and regional self-government unit.
 #### Article 49
@@ -668,9 +668,9 @@ The provisions of Articles 44 to 46 of this Law shall apply mutatis mutandis to 
 
 #### Article 50 (OG 94/13 )
 
-- Part of the funds for public needs programs in the field of preschool education shall be provided in the state budget.
+(1) Part of the funds for public needs programs in the field of preschool education shall be provided in the state budget.
 
-- In accordance with paragraph 1 of this Article, public education shall be considered as education programs:
+(2) In accordance with paragraph 1 of this Article, public education shall be considered as education programs:
 
 - for children with disabilities and gifted children,
 
@@ -680,17 +680,17 @@ The provisions of Articles 44 to 46 of this Law shall apply mutatis mutandis to 
 
 - pre-school program.
 
-- The manner of disposal of funds from the state budget and the criteria for co-financing individual programs referred to in paragraph 2 of this Article shall be prescribed by the minister responsible for education.
+(3) The manner of disposal of funds from the state budget and the criteria for co-financing individual programs referred to in paragraph 2 of this Article shall be prescribed by the minister responsible for education.
 
-- Rulebook on the manner of disposal of the state budget funds and the criteria for co-financing of the preschool education program
+5. Rulebook on the manner of disposal of the state budget funds and the criteria for co-financing of the preschool education program
 
 #### Article 51
 
-- The regulations governing the salaries, allowances and other income of public servants and employees of employees shall apply to the determination and calculation of salaries, allowances and other income of kindergarten workers owned by a unit of local and regional self-government or the Republic of Croatia. in primary education, if these regulations are more favorable to workers.
+(1) The regulations governing the salaries, allowances and other income of public servants and employees of employees shall apply to the determination and calculation of salaries, allowances and other income of kindergarten workers owned by a unit of local and regional self-government or the Republic of Croatia. in primary education, if these regulations are more favorable to workers.
 
-- On behalf of kindergarten workers, the union collectively negotiates and signs a collective agreement with the founder of the institution, ie the financier.
+(2) On behalf of kindergarten workers, the union collectively negotiates and signs a collective agreement with the founder of the institution, ie the financier.
 
-## KINDERGARTEN DOCUMENTATION
+## X. KINDERGARTEN DOCUMENTATION
 
 #### Article 52
 
@@ -698,19 +698,19 @@ The provisions of Articles 44 to 46 of this Law shall apply mutatis mutandis to 
 
 [[START OF PAGE 28]]
 
-- The kindergarten shall keep pedagogical and health records and records on children.
+(1) The kindergarten shall keep pedagogical and health records and records on children.
 
-- Forms of pedagogical documentation and records shall be prescribed by the minister competent for education.
+(2) Forms of pedagogical documentation and records shall be prescribed by the minister competent for education.
 
-- The forms of health documentation and records shall be prescribed by the minister competent for health.
+(3) The forms of health documentation and records shall be prescribed by the minister competent for health.
 
-- The means for keeping the documentation referred to in paragraph 1 of this Article shall be provided by the founder of the kindergarten.
+(4) The means for keeping the documentation referred to in paragraph 1 of this Article shall be provided by the founder of the kindergarten.
 
-- Rulebook on forms and contents of pedagogical documentation and records of children in kindergarten
+6. Rulebook on forms and contents of pedagogical documentation and records of children in kindergarten
 
-- Rulebook on forms of health documentation of preschool children and records in kindergarten
+8. Rulebook on forms of health documentation of preschool children and records in kindergarten
 
-## PROHIBITION OF SALES AND SALES IN KINDERGARTENS
+## XI. PROHIBITION OF SALES AND SALES IN KINDERGARTENS
 
 #### Article 52a (OG 94/13 )
 
@@ -720,7 +720,7 @@ The promotion and sale of goods and / or services that do not serve the purposes
 
 #### Article 52b (OG 94/13 )
 
-- A kindergarten shall be fined in the amount of HRK 10,000 to HRK 15,000 for:
+(1) A kindergarten shall be fined in the amount of HRK 10,000 to HRK 15,000 for:
 
 - if he did not adopt the kindergarten curriculum in accordance with the provisions of this Act,
 
@@ -742,15 +742,15 @@ The promotion and sale of goods and / or services that do not serve the purposes
 
 - if he acts contrary to the provisions of Article 25 of this Law.
 
-- The responsible person in the kindergarten shall also be fined from HRK 5,000 to 8,000 for the offense referred to in paragraph 1 of this Article.
+(2) The responsible person in the kindergarten shall also be fined from HRK 5,000 to 8,000 for the offense referred to in paragraph 1 of this Article.
 
 ## XIII. TRANSITIONAL AND FINAL PROVISIONS
 
 #### Article 53
 
-- The state pedagogical standard of preschool education referred to in Article 6 of this Act shall be adopted by the Parliament of the Republic of Croatia within 6 months from the day this Law enters into force.
+(1) The state pedagogical standard of preschool education referred to in Article 6 of this Act shall be adopted by the Parliament of the Republic of Croatia within 6 months from the day this Law enters into force.
 
-- The implementing rules referred to in Article 14 (2) and (3), Article 17 (1), Article 18 (1) and (2), Article 22, Article 23 (4), Article 24 (3). , Article 28 (7), Article 30 (2), Article 33 (2), Article 50 (3), Article 52 (2) and (3) of this Act shall be obliged to issue the authorized state administration bodies determined by this Law. within six months from the entry into force of this Act.
+(2) The implementing rules referred to in Article 14 (2) and (3), Article 17 (1), Article 18 (1) and (2), Article 22, Article 23 (4), Article 24 (3). , Article 28 (7), Article 30 (2), Article 33 (2), Article 50 (3), Article 52 (2) and (3) of this Act shall be obliged to issue the authorized state administration bodies determined by this Law. within six months from the entry into force of this Act.
 
 #### Article 54
 
@@ -804,7 +804,7 @@ Individuals who have been authorized to perform childcare activities on their ow
 
 #### Article 60
 
-With the entry into force of this Act, the Law on Social Care for Preschool Children (Official Gazette 18/91 consolidated text and 27/93) shall cease to apply.
+With the entry into force of this Act, the Law on Social Care for Preschool Children (Official Gazette 18/91 - consolidated text and 27/93) shall cease to apply.
 
 #### Article 61
 
@@ -824,11 +824,11 @@ NN 94/13
 
 #### Article 22
 
-- The national curriculum and the Ordinance referred to in Article 7 of this Act shall be adopted by the minister responsible for education within one year from the day this Law enters into force.
+(1) The national curriculum and the Ordinance referred to in Article 7 of this Act shall be adopted by the minister responsible for education within one year from the day this Law enters into force.
 
-- The ordinance referred to in Article 11 of this Act shall be passed by the minister competent for education within six months from the day this Law enters into force.
+(2) The ordinance referred to in Article 11 of this Act shall be passed by the minister competent for education within six months from the day this Law enters into force.
 
-- The provisions of the Ordinance on the type of professional qualification of professional employees and the type and degree of professional qualification of other employees in kindergarten (Official Gazette 133/97) shall remain in force until the Ordinance referred to in paragraph 2 of this Article enters into force. unless contrary to the provisions of this Act.
+(3) The provisions of the Ordinance on the type of professional qualification of professional employees and the type and degree of professional qualification of other employees in kindergarten (Official Gazette 133/97) shall remain in force until the Ordinance referred to in paragraph 2 of this Article enters into force. unless contrary to the provisions of this Act.
 
 #### Article 23
 
