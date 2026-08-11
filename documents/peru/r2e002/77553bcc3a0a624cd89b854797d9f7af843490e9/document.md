@@ -5,7 +5,9 @@ Ministerio
 de Educación
 
 R e p ú b l i c a   d e l   P e r ú
-
+Década de la Educación Inclusiva 2003-2012
+Año del Centenario de Machu Picchu para el Mundo
+1 4   d e   S e t i e m b r e   d e   2 0 1 1
 LEY Nº 24029 EL PRESIDENTE DE LA REPUBLICA POR CUANTO: El Congreso de la República del Perú; Ha dado la ley siguiente:
 
 # LEY DEL PROFESORADO
@@ -45,12 +47,6 @@ Son objetivos de la formación del profesor:
 
 - Mantener una actitud permanente de perfeccionamiento ético, profesional y cívico, que le permita integrarse a su medio de trabajo y en la comunidad local; y,
 
-Década de la Educación Inclusiva 2003-2012
-
-Año del Centenario de Machu Picchu para el Mundo
-
-1 4   d e   S e t i e m b r e   d e   2 0 1 1
-
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
@@ -64,7 +60,7 @@ Las Universidades y los Institutos Superiores Pedagógicos consideran en la form
 ###### Artículo 8.
 El título de los profesionales en educación es el de Profesor, que es otorgado por los Institutos Superiores Pedagógicos. Las Universidades otorgan ese título o el de Licenciado en Educación. Ambos son equivalentes para el ejercicio profesional y para el ascenso en la carrera pública. Los estudios efectuados en los primeros son convalidables en las Universidades de acuerdo con la ley y los estatutos de cada uno de ellas para hacer cualquier otro estudio, inclusive los de segunda especialidad profesional. (*)
 
-(*) Artículo modificado por el Artículo 1 de la Ley Nº 25212, publicada el 20-05-90, cuyo texto es el siguiente: " Artículo 8.El título de los profesionales en educación es el de Profesor otorgado por los Institutos Superiores Pedagógicos. Las universidades otorgan este título o el de Licenciado en Educación, siendo éstos equivalentes para el ejercicio profesional y para el ascenso en la Carrera Pública. Los estudios efectuados en los primeros son convalidables en las universidades de acuerdo con la ley y con los estatutos de cada una de ellas para hacer cualquier otro estudio, inclusive los de segunda especialidad profesional. Los profesionales titulados en Institutos Superiores Pedagógicos, tienen derecho a solicitar en cualquier universidad del país que cuenten con Facultades de Educación, la obtención de grado académico de Bachiller en Educación, previa exoneración del procedimiento ordinario del concurso de admisión y con la debida convalidación de los estudios efectuados en su correspondiente profesionalización. Los estudios de complementación para el grado de Bachiller, no excederán de dos semestres académicos".
+(*) Artículo modificado por el Artículo 1 de la Ley Nº 25212, publicada el 20-05-90, cuyo texto es el siguiente: "Artículo 8.- El título de los profesionales en educación es el de Profesor otorgado por los Institutos Superiores Pedagógicos. Las universidades otorgan este título o el de Licenciado en Educación, siendo éstos equivalentes para el ejercicio profesional y para el ascenso en la Carrera Pública. Los estudios efectuados en los primeros son convalidables en las universidades de acuerdo con la ley y con los estatutos de cada una de ellas para hacer cualquier otro estudio, inclusive los de segunda especialidad profesional. Los profesionales titulados en Institutos Superiores Pedagógicos, tienen derecho a solicitar en cualquier universidad del país que cuenten con Facultades de Educación, la obtención de grado académico de Bachiller en Educación, previa exoneración del procedimiento ordinario del concurso de admisión y con la debida convalidación de los estudios efectuados en su correspondiente profesionalización. Los estudios de complementación para el grado de Bachiller, no excederán de dos semestres académicos".
 
 ###### Artículo 9.
 La revalidación y convalidación de estudios seguidos en el extranjero se hacen en los Institutos Superiores Pedagógicos, o en las Universidades que tienen Facultad de Educación, tomándose en cuenta los acuerdos internacionales.
@@ -82,7 +78,7 @@ El Ministerio de Educación promueve la profesionalización de quienes ejercen s
 ###### Artículo 11.
 El personal en servicio docente del Estado sin título pedagógico; ingresa a la Carrera Pública del Profesorado en su primer nivel al obtener el título de Profesor o Licenciado en Educación. (*)
 
-(*) Artículo modificado por el Artículo 1 de la Ley Nº 25212, publicada el 20-05-90, cuyo texto es el siguiente: " Artículo 11.El personal en servicio docente sin título pedagógico ingresa a la Carrera Pública del Profesorado hasta por el tercer nivel, según su tiempo de servicios al obtener el título de Profesor o el de Licenciado en Educación".
+(*) Artículo modificado por el Artículo 1 de la Ley Nº 25212, publicada el 20-05-90, cuyo texto es el siguiente: "Artículo 11.- El personal en servicio docente sin título pedagógico ingresa a la Carrera Pública del Profesorado hasta por el tercer nivel, según su tiempo de servicios al obtener el título de Profesor o el de Licenciado en Educación".
 
 ###### Artículo 12.
 El Ministerio de Educación ofrece programas de perfeccionamiento y especialización profesional, en los Institutos Superiores Pedagógicos de gestión estatal y previo convenio, en las Universidades y en los Institutos Superiores Pedagógicos de gestión no estatal. Con igual objeto ofrece becas en el país y en el extranjero. La oferta de programas y becas se hace proporcionalmente a todas las regiones del país. Tienen acceso preferente a ella los profesores que no han gozado de sus beneficios en el quinquenio anterior.
@@ -137,26 +133,25 @@ Los profesores del Estado tienen derecho a licencia con percepción de sus remun
 
 - Por beca para su perfeccionamiento o especialización en el país, en el extranjero, hasta por dos años;
 
-- Para realizar, previo concurso, estudios e investigación de acuerdo con las normas y cuotas que establece 'el Ministerio de Educación, durante un año cada siete años de servicios continuos;
+- Para realizar, previo concurso, estudios e investigación de acuerdo con las normas y cuotas que establece “el Ministerio de Educación, durante un año cada siete años de servicios continuos;
 
 - Por representación sindical para dirigentes nacionales y departamentales; y,
 
 - Para asumir la representación del Perú en eventos internacionales de carácter deportiva, cultural, sindical y otros que señale el reglamento por el plazo máximo de treinta días. (*)
 
-(*) Artículo modificado por el Artículo 1 de la Ley Nº 25212, publicada el 20-05-90, cuyo texto es el siguiente: " Artículo 16.Los profesores al servicio del Estado, tienen derecho a licencias con percepción de sus remuneraciones, conforme a las disposiciones pertinentes, en los siguientes casos: a. Por maternidad, enfermedad, accidentes o siniestros, según lo establecido por el régimen de
+(*) Artículo modificado por el Artículo 1 de la Ley Nº 25212, publicada el 20-05-90, cuyo texto es el siguiente: "Artículo 16.- Los profesores al servicio del Estado, tienen derecho a licencias con percepción de sus remuneraciones, conforme a las disposiciones pertinentes, en los siguientes casos: a. Por maternidad, enfermedad, accidentes o siniestros, según lo establecido por el régimen de
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
 Seguridad Social;
---- | ---
-b. | Por fallecimiento de cónyuge, padres e hijos, por ocho (8) días, si el deceso se produce en la provincia donde presta servicios el profesor, y por quince (15) días si se produce en provincia distinta;
-c. | Por becas para su perfeccionamiento o especialización en educación, sea en el país o en el extranjero, hasta por dos años, en estricto orden de capacidad y méritos;
-d. | Para realizar, previo concurso, estudios o investigaciones de conformidad a los programas y cuotas que establece el Ministerio de Educación, durante un año, cada siete años continuos;
-e. | Por representación sindical para dirigentes nacionales, regionales y provinciales;
-f. | Para asumir la representación del Perú en eventos internacionales de carácter deportivo, cultural, sindical y otros que señala el reglamento, por un plazo máximo de treinta días; y,
-g. | Por estudios de profesionalización, durante el mes de marzo, para los docentes no titulados".
+b. Por fallecimiento de cónyuge, padres e hijos, por ocho (8) días, si el deceso se produce en la provincia donde presta servicios el profesor, y por quince (15) días si se produce en provincia distinta;
+c. Por becas para su perfeccionamiento o especialización en educación, sea en el país o en el extranjero, hasta por dos años, en estricto orden de capacidad y méritos;
+d. Para realizar, previo concurso, estudios o investigaciones de conformidad a los programas y cuotas que establece el Ministerio de Educación, durante un año, cada siete años continuos;
+e. Por representación sindical para dirigentes nacionales, regionales y provinciales;
+f. Para asumir la representación del Perú en eventos internacionales de carácter deportivo, cultural, sindical y otros que señala el reglamento, por un plazo máximo de treinta días; y,
+g. Por estudios de profesionalización, durante el mes de marzo, para los docentes no titulados".
 ###### Artículo 17.
 Los profesoras del Estado, tienen derecho a licencia, sin goce de remuneraciones, como profesores, en los casos siguientes:
 
@@ -175,8 +170,7 @@ Dentro de la jornada laboral del profesorado del Estado en todos los niveles y m
 funcionamiento no sea compatible con la jornada laboral ordinaria. (*)
 
 (*) Artículo modificado por el Artículo 1 de la Ley Nº 25212, publicada el 20-05-90, cuyo texto es el siguiente:
----
-" Artículo 18.- La jornada laboral ordinaria de los profesores al servicio del Estado, en centros y programas educativos, sea cual fuere el nivel y modalidad, es de 24 horas pedagógicas. Cada hora pedagógica tiene una duración de 45 minutos.
+"Artículo 18.- La jornada laboral ordinaria de los profesores al servicio del Estado, en centros y programas educativos, sea cual fuere el nivel y modalidad, es de 24 horas pedagógicas. Cada hora pedagógica tiene una duración de 45 minutos.
 Para los casos que, por razones de nivel educativo, modalidad, especialidad o disponibilidad de horas, en los centros educativos, el trabajo de profesor se extiende más allá de la jornada laboral; se paga por cada hora adicional 1 / 24ava. parte de la remuneración de 24 horas pedagógicas de cada nivel de la carrera magisterial hasta 30 horas pedagógicas".
 
 ###### Artículo 19.
@@ -191,7 +185,7 @@ La jornada laboral para los Directores de centros educativos de cualquier nivel 
 
 (*) Artículo modificado por el Artículo 1 de la Ley Nº 25212, publicada el 20-05-90, cuyo texto es el siguiente:
 
-" Artículo 20.La jornada ordinaria para el Personal Directivo y Jerárquico de cualquier nivel y modalidad, como para el Personal Docente del nivel Educación Superior, es de 40 horas a la semana.
+"Artículo 20.- La jornada ordinaria para el Personal Directivo y Jerárquico de cualquier nivel y modalidad, como para el Personal Docente del nivel Educación Superior, es de 40 horas a la semana.
 
 Las remuneraciones para los profesores con jornada de 40 horas, es igual a ciento treinta por ciento (130%) de la remuneración del profesor de 24 horas de su mismo nivel de la Carrera Pública Magisterial".
 
@@ -208,7 +202,7 @@ El reconocimiento oficial de los sindicatos y asociaciones se hace de acuerdo a 
 
 (*) Artículo modificado por el Artículo 1 de la Ley Nº 25212, publicada el 20-05-90, cuyo texto es el siguiente:
 
-" Artículo 21.El profesor tiene derecho a libre sindicalización y asociación. El Ministerio de Educación reconoce y garantiza el desarrollo de las funciones del personal que ejerza representación sindical o asociativa, en armonía con la ley específica de la materia.
+"Artículo 21.- El profesor tiene derecho a libre sindicalización y asociación. El Ministerio de Educación reconoce y garantiza el desarrollo de las funciones del personal que ejerza representación sindical o asociativa, en armonía con la ley específica de la materia.
 
 Los afiliados a los sindicatos tienen derecho a solicitar que las cotizaciones gremiales sean descontadas por planillas. El profesor o docente tiene derecho a solicitar no ser descontado por dicho concepto.
 
@@ -227,11 +221,8 @@ El Ministerio de Educación, el Ministerio de Vivienda y Construcción y las ent
 
 [[START OF PAGE 8]]
 
-" Artículo 22.- El Ministerio de Educación en coordinación con el Ministerio de Vivienda y
----
-Construcción y con las organizaciones representativas del Magisterio, promueven la ejecución de programas de construcción y financiamiento de viviendas propias para los profesores.
-Constitúyase el "Proyecto Especial de Vivienda Magisterial" con autonomía técnica, económica y administrativa y como unidad ejecutiva conformada por un Directorio y por los órganos técnicos y administrativos correspondientes. El Directorio está conformado por representantes del Ministerio de
-Educación, del Ministerio de Vivienda y Construcción y mayoritariamente con delegados de las organizaciones representativas del Magisterio.
+"Artículo 22.- El Ministerio de Educación en coordinación con el Ministerio de Vivienda y Construcción y con las organizaciones representativas del Magisterio, promueven la ejecución de programas de construcción y financiamiento de viviendas propias para los profesores.
+Constitúyase el "Proyecto Especial de Vivienda Magisterial" con autonomía técnica, económica y administrativa y como unidad ejecutiva conformada por un Directorio y por los órganos técnicos y administrativos correspondientes. El Directorio está conformado por representantes del Ministerio de Educación, del Ministerio de Vivienda y Construcción y mayoritariamente con delegados de las organizaciones representativas del Magisterio.
 El Estado reserva para el Magisterio el 20% de viviendas en todos los programas que efectúe".
 
 ###### Artículo 23.
@@ -242,8 +233,7 @@ El Ministerio de Educación apoya la instalación de la Casa del Maestro, farmac
 centros asistenciales, bazares y centros de recreación, de cultura y de turismo. (*)
 
 (*) Artículo modificado por el Artículo 1 de la Ley Nº 25212, publicada el 20-05-90, cuyo texto es el siguiente:
----
-" Artículo 24.- Créase en el Ministerio de Educación el Fondo "Casa del Maestro", para la construcción de sedes magisteriales, administrado por sus organizaciones representativas, a fin de atender prestaciones asistenciales de abastecimiento, de recreación, cultura, actualización profesional y turismo para profesores".
+"Artículo 24.- Créase en el Ministerio de Educación el Fondo "Casa del Maestro", para la construcción de sedes magisteriales, administrado por sus organizaciones representativas, a fin de atender prestaciones asistenciales de abastecimiento, de recreación, cultura, actualización profesional y turismo para profesores".
 
 ###### Artículo 25.
 El Ministerio de Educación fomenta y apoya la producción intelectual de los profesores facilitando la edición de las obras que significan una contribución al desarrollo de la educación nacional y la cultura.
@@ -303,7 +293,6 @@ Los niveles magisteriales de la Carrera Pública del Profesorado son ocho. El ti
 [[START OF PAGE 10]]
 
 En el Nivel II : Cinco años,
----
 En el Nivel III : Cinco años,
 En el Nivel IV : Cinco años, y
 En el Nivel V : Indefinido.
@@ -316,10 +305,9 @@ El ejercicio profesional del profesorado se realiza en dos áreas:
 - Administración de la educación, que se cumple por las funciones de investigación, tecnicopedagógicas o administración vinculada con la educación. (*)
 
 (*) Artículo modificado por el Artículo 1 de la Ley Nº 25212, publicada el 20-05-90, cuyo texto es el siguiente:
---- | ---
-" Artículo 31.- El ejercicio profesional del profesor se realiza en dos áreas:
-a. | Docencia, se cumple mediante la acción educativa en los centros y programas educativos respectivos en relación directa con el educando; y,
-b. | Administración de la Educación, que se cumple por las funciones de la administración de la educación, de investigación y técnico-pedagógicas vinculadas con la educación".
+"Artículo 31.- El ejercicio profesional del profesor se realiza en dos áreas:
+a. Docencia, se cumple mediante la acción educativa en los centros y programas educativos respectivos en relación directa con el educando; y,
+b. Administración de la Educación, que se cumple por las funciones de la administración de la educación, de investigación y técnico-pedagógicas vinculadas con la educación".
 
 ###### Artículo 32.
 Los cargos de las áreas de la Docencia y de la Administración de la Educación, así como su ubicación en cada nivel de la Carrera, se determinan en el Reglamento, teniendo en cuenta que la Carrera Pública del Profesorado está estructurada por niveles y no por cargos, El profesional de la educación puede ascender hasta el octavo nivel y desempeñar los cargos comprendidos en cualquiera
@@ -345,8 +333,7 @@ institución de formación docente, serán nombrados de preferencia y a su solic
 [[START OF PAGE 11]]
 
 (*) Artículo modificado por el Artículo 1 de la Ley Nº 25212, publicada el 20-05-90, cuyo texto es el siguiente:
----
-" Artículo 34.- El ingreso a la Carrera Pública del Profesorado se efectúa por nombramiento en el primer nivel y en el área de la Docencia, en Centros y Programas Educativos del Estado; los nombramientos deben hacerse para zonas rurales o urbanas de menor desarrollo relativo de la región de origen del profesor.
+"Artículo 34.- El ingreso a la Carrera Pública del Profesorado se efectúa por nombramiento en el primer nivel y en el área de la Docencia, en Centros y Programas Educativos del Estado; los nombramientos deben hacerse para zonas rurales o urbanas de menor desarrollo relativo de la región de origen del profesor.
 En cada repartición desconcentrada del Ministerio de Educación se efectúa la evaluación del profesorado por un Comité constituido para tal efecto el que se sujeta a las normas de los Artículos 37, 38, 39 y 40 de la Ley Nº 24029.
 Los que al graduarse hayan ocupado los dos primeros puestos en el cuadro de méritos de cada institución de formación docente serán nombrados de preferencia y a su solicitud en la localidad que ellos escojan en la jurisdicción señalada en el primer párrafo del presente artículo".
 
@@ -368,30 +355,18 @@ La evaluación de los profesores es permanente e integral.
 
 ###### Artículo 38.
 En el proceso de la evaluación se consideran las siguientes aspectos básicos:
-
 - Antecedentes profesionales:
-
-- ring2 Títulos o grados obtenidos con posterioridad al título profesional en educación;
-
-- ring2 Estudios de perfeccionamiento y especialización, o ponencias y trabajos presentados en congresos pedagógicos y científicos;
-
-- ring2 Tiempo de servicios; y,
-
-- ring2 Cargos desempeñados.
-
+- Títulos o grados obtenidos con posterioridad al título profesional en educación;
+- Estudios de perfeccionamiento y especialización, o ponencias y trabajos presentados en congresos pedagógicos y científicos;
+- Tiempo de servicios; y,
+- Cargos desempeñados.
 - Desempeño laboral:
-
-- ring2 Eficiencia en el servicio;
-
-- ring2 Asistencia y puntualidad; y,
-
-- ring2 Participación en trabajo comunal.
-
+- Eficiencia en el servicio;
+- Asistencia y puntualidad; y,
+- Participación en trabajo comunal.
 - Méritos:
-
-- ring2 Distinciones y reconocimiento oficiales; y,
-
-- ring2 Producción intelectual.
+- Distinciones y reconocimiento oficiales; y,
+- Producción intelectual.
 
 Los Institutos Superiores Pedagógicos evalúan su profesorado de acuerdo con sus propios reglamentos, previamente aprobados por el Ministerio de Educación.
 
@@ -413,9 +388,8 @@ Un sistema único regula los ascensos en la Carrera. Los puntajes y los procedim
 El ascenso del primero al segundo nivel de la carrera es automático, al cumplir el tiempo mínimo de permanencia establecido para ese nivel.
 
 Los ascensos entre el segundo y el octavo nivel se realizan mediante evaluación y haber cumplido el tiempo mínimo de permanencia real y efectivo establecido para cada nivel. (*)
----
 (*) Artículo modificado por el Artículo 1 de la Ley Nº 25212, publicada el 20-05-90, cuyo texto es el siguiente:
-" Artículo 43.- El ascenso del primer al segundo nivel de la carrera es automático al cumplir el tiempo mínimo de permanencia establecido para ese nivel.
+"Artículo 43.- El ascenso del primer al segundo nivel de la carrera es automático al cumplir el tiempo mínimo de permanencia establecido para ese nivel.
 Los ascensos entre el segundo y el quinto nivel se realicen mediante evaluación, al haber cumplido el tiempo mínimo de permanencia real y efectivo establecido para cada nivel.
 Para los Profesores o Licenciados en Educación, los años de estudios de formación profesional son acumulados al tiempo de servicios a partir de los doce y medio (12.5) años de servicios para las mujeres y de los quince (15) años para los varones".
 
@@ -455,10 +429,16 @@ El cese de los profesores en servicio se produce por:
 Los ceses previstos en los incisos b) y e) del artículo anterior se efectúan previo proceso administrativo.(*)
 
 (*) Artículo modificado por el Artículo 1 de la Ley Nº 25212, publicada el 20-05-90, cuyo texto es el siguiente:
----
-" Artículo 45.- El cese de los profesores en servicio se produce por:
-a. A su solicitud; b. Por abandono injustificado del cargo; c. Por incapacidad física o mental debidamente comprobada; d. Por límite de edad;
-
+"Artículo 45.- El cese de los profesores en servicio se produce por:
+a. A su solicitud;
+b. Por abandono injustificado del cargo;
+c. Por incapacidad física o mental debidamente comprobada;
+d. Por límite de edad;
+e. Por aplicación de sanción disciplinaria; y,
+f. Por muerte.
+Voluntariamente, cesan por tiempo de servicios las mujeres al cumplir 25 años y los varones 30, el ejercicio docente. En ambos casos se incluirá el tiempo de estudios de formación profesional.
+Los ceses previstos en los incisos b) y e) del presente artículo se efectúan previo proceso administrativo.
+En los ceses previstos en los incisos c) y d), el profesor con nivel inferior al V, cesará con el nivel inmediato superior al que tenía al momento de solicitar su cese".
 #### CAPITULO XII
 
 ##### DE LAS REMUNERACIONES
@@ -476,8 +456,7 @@ bonificación correspondiente.(*)
 [[START OF PAGE 14]]
 
 (*) Artículo modificado por el Artículo 1 de la Ley Nº 25212, publicada el 20-05-90, cuyo texto es el siguiente:
----
-" Artículo 48.- El profesor tiene derecho a percibir una bonificación especial mensual por preparación de clases y evaluación equivalente al 30% de su remuneración total.
+"Artículo 48.- El profesor tiene derecho a percibir una bonificación especial mensual por preparación de clases y evaluación equivalente al 30% de su remuneración total.
 El Personal Directivo y Jerárquico, así como el Personal Docente de la Administración de Educación, así como el Personal Docente de Educación Superior incluidos en la presente ley, perciben, además, una bonificación adicional por el desempeño del cargo y por la preparación de documentos de gestión equivalente al 5% de su remuneración total.
 El profesor que presta servicios en: zona de frontera, Selva, zona rural, altura excepcional, zona de menor desarrollo relativo y emergencia tiene derecho a percibir una bonificación por zona diferenciada del 10% de su remuneración permanente por cada uno de los conceptos señalados hasta un máximo de tres".
 
@@ -486,16 +465,15 @@ La remuneración compensatoria por tiempo de servicios se otorga al momento del 
 ###### Artículo 50.
 Los profesores tienen derecho al goce íntegro de sus remuneraciones en caso de enfermedad degenerativa o de incapacidad física o mental contraidas en servicio o con ocasión del mismo. 
 ###### Artículo 51.
-El profesor tiene derecho a un subsidio por luto al fallecer su cónyuge, equivalente a dos remuneraciones o pensiones, y subsidio equivalente a una remuneración o pensión por fallecimiento del padre y madre. Al fallecer el profesor, activo o pensionista, el cónyuge, hijos, padres o hermanos, en forma excluyente, tienen derecho a un subsidio de tres remuneraciones o pensiones. (* De conformidad con el Artículo 1 del Decreto Supremo Nº 041-2001-ED publicado el 19-06-2001, se precisa que las remuneraciones a las que se refiere este artículo debe ser entendidas como remuneraciones totales, tal como lo prevé la definición contenida en el Decreto Supremo Nº 051-91PCM.)
+El profesor tiene derecho a un subsidio por luto al fallecer su cónyuge, equivalente a dos remuneraciones o pensiones, y subsidio equivalente a una remuneración o pensión por fallecimiento del padre y madre. Al fallecer el profesor, activo o pensionista, el cónyuge, hijos, padres o hermanos, en forma excluyente, tienen derecho a un subsidio de tres remuneraciones o pensiones. (* De conformidad con el Artículo 1 del Decreto Supremo Nº 041-2001-ED publicado el 19-06-2001, se precisa que las remuneraciones a las que se refiere este artículo debe ser entendidas como remuneraciones totales, tal como lo prevé la definición contenida en el Decreto Supremo Nº 051-91-PCM.)
 
 ###### Artículo 52.
 Los profesores tienen derecho a una gratificación de medio sueldo básico tanto por Fiestas Patrias como por Navidad y al goce de un subsidio por escolaridad. (*)
 
 (*) Artículo modificado por el Artículo 1 de la Ley Nº 25212, publicada el 20-05-90, cuyo texto es el siguiente:
----
-" Artículo 52.- El profesor tiene derecho a percibir además una remuneración total permanente por Fiestas Patrias, por Navidad y por Escolaridad en el mes de marzo; este concepto de remuneración total permanente no incluye bonificaciones.
+"Artículo 52.- El profesor tiene derecho a percibir además una remuneración total permanente por Fiestas Patrias, por Navidad y por Escolaridad en el mes de marzo; este concepto de remuneración total permanente no incluye bonificaciones.
 El profesor tiene derecho a percibir dos remuneraciones íntegras al cumplir 20 años de servicios, la mujer, y 25 años de servicios, el varón; y tres remuneraciones íntegras, al cumplir 25 años de servicios, la mujer, y 30 años de servicios, los varones.
-El profesor percibe una remuneración personal de dos por ciento (2%) de la remuneración básica por cada año de servicios cumplidos". (* De conformidad con el Artículo 1 del Decreto Supremo Nº 041- 2001-ED publicado el 19-06-2001, se precisa que las remuneraciones íntegras a las que se refiere este artículo debe ser entendidas como remuneraciones totales, tal como lo prevé la definición
+El profesor percibe una remuneración personal de dos por ciento (2%) de la remuneración básica por cada año de servicios cumplidos". (* De conformidad con el Artículo 1 del Decreto Supremo Nº 041-2001-ED publicado el 19-06-2001, se precisa que las remuneraciones íntegras a las que se refiere este artículo debe ser entendidas como remuneraciones totales, tal como lo prevé la definición
 
 [[END OF PAGE 14]]
 
@@ -512,10 +490,8 @@ La reasignación del profesorado se efectúa en los términos y condiciones que 
 Para desempeñar un cargo de confianza, de los establecidos en el Capítulo IV del Título III del Decreto Legislativo Nº 217 se requiere como mínimo ser Profesor del VII Nivel y tener no menos de quince años de servicios. El nombramiento no está sujeto a ningún otro requisito. Al dejar el cargo de confianza retorna al nivel magisterial que tenía en la Carrera Pública del Profesorado. (*)
 
 (*) Artículo modificado por el Artículo 1 de la Ley Nº 25212, publicada el 20-05-90, cuyo texto es el siguiente:
----
-" Artículo 53.- La reasignación del profesorado se efectúa en los términos y condiciones que señale el Reglamento, previa publicidad de las plazas disponibles. Para desempeñar un cargo de confianza, de los establecidos en el Capítulo IV, Título III, del Decreto Legislativo Nº 217, se requiere como mínimo tener título de profesor y haber desempeñado la función docente oficial por un tiempo no menor de 15 años de servicios los varones y 12.5 años las mujeres. El nombramiento no está sujeto a ningún otro requisito. Al dejar el cargo de confianza se reintegrará al que tenía en al Carrera Pública del Profesorado".
+"Artículo 53.- La reasignación del profesorado se efectúa en los términos y condiciones que señale el Reglamento, previa publicidad de las plazas disponibles. Para desempeñar un cargo de confianza, de los establecidos en el Capítulo IV, Título III, del Decreto Legislativo Nº 217, se requiere como mínimo tener título de profesor y haber desempeñado la función docente oficial por un tiempo no menor de 15 años de servicios los varones y 12.5 años las mujeres. El nombramiento no está sujeto a ningún otro requisito. Al dejar el cargo de confianza se reintegrará al que tenía en al Carrera Pública del Profesorado".
 
-(*) Artículo modificado por el Artículo 1 de la Ley Nº 25212, publicada el 20-05-90, cuyo texto es el siguiente: " Artículo 53.La reasignación del profesorado se efectúa en los términos y condiciones que señale el Reglamento, previa publicidad de las plazas disponibles. Para desempeñar un cargo de confianza, de los establecidos en el Capítulo IV, Título III, del Decreto Legislativo Nº 217, se requiere como mínimo tener título de profesor y haber desempeñado la función docente oficial por un tiempo no menor de 15 años de servicios los varones y 12.5 años las mujeres. El nombramiento no está sujeto a ningún otro requisito. Al dejar el cargo de confianza se reintegrará al que tenía en al Carrera Pública del Profesorado". 
 ###### Artículo 54.
 La permuta se efectúa a solicitud de los interesados siempre que sean del mismo nivel y lo pidan hasta el tercer trimestre de año escolar. Se harán efectivos en el año siguiente debiendo permanecer por lo menos un año en sus nuevas colocaciones. El Reglamento determina las normas y procedimientos. 
 ###### Artículo 55.
@@ -537,8 +513,7 @@ Los profesores que prestan servicios en zona de menor desarrollo relativo, en lu
 Las pensiones de cesantía y jubilación del profesorado al servicio del Estado no sometidas al régimen de Seguridad Social del Perú, se nivelan automáticamente con las remuneraciones vigentes para el profesorado en servicio, con arreglo a ley. (*)
 
 (*) Artículo modificado por el Artículo 1 de la Ley Nº 25212, publicada el 20-05-90, cuyo texto es el siguiente:
----
-" Artículo 58.- Las pensiones de cesantía y jubilación del profesor al servicio del Estado se nivelan automáticamente con las remuneraciones vigentes para el profesorado en servicio activo". (*Artículo derogado por Tercera Disposición Final de la Ley N° 28449, publicado el 30-12-2004. )
+"Artículo 58.- Las pensiones de cesantía y jubilación del profesor al servicio del Estado se nivelan automáticamente con las remuneraciones vigentes para el profesorado en servicio activo". (*Artículo derogado por Tercera Disposición Final de la Ley N° 28449, publicado el 30-12-2004. )
 
 ###### Artículo 59.
 Las pensiones de cesantía se otorgan a los profesores al amparo del Decreto Ley Nº 20530, con base en el último sueldo percibido con todas las bonificaciones pensionables. (* Artículo derogado por Tercera Disposición Final de la Ley N° 28449, publicado el 30-12-2004.)
@@ -569,9 +544,8 @@ El profesor cesante o jubilado tiene además los siguientes derechos:
 ###### Artículo 61.
 El servicio particular comprende a los profesores que trabajan en el área de la Docencia en centros y programas educativos de gestión no estatal. (*)
 
-(*) Artículo modificado por la Primera Disposición Final del Decreto Ley Nº 26011, publicado el 27-12- 92, cuyo texto es el siguiente:
----
-" Artículo 61.- El servicio particular comprende a los profesores que trabajan en el área de la docencia en centros y programas educativos de régimen laboral de la actividad privada, así éstos
+(*) Artículo modificado por la Primera Disposición Final del Decreto Ley Nº 26011, publicado el 27-12-92, cuyo texto es el siguiente:
+"Artículo 61.- El servicio particular comprende a los profesores que trabajan en el área de la docencia en centros y programas educativos de régimen laboral de la actividad privada, así éstos
 
 [[END OF PAGE 16]]
 
@@ -586,7 +560,7 @@ Su jornada laboral tiene el límite máximo señalado en el Artículo 19 de la p
 
 (*) Artículo modificado por el Artículo 1 de la Ley Nº 25212, publicada el 20-05-90, cuyo texto es el siguiente:
 
-" Artículo 62.El profesorado del servicio particular está sujeto al régimen laboral de la actividad privada.
+"Artículo 62.- El profesorado del servicio particular está sujeto al régimen laboral de la actividad privada.
 
 La jornada laboral se sujeta a lo establecido en el Artículo 18 de la presente ley.
 
@@ -612,7 +586,7 @@ Los que poseen título en otras profesiones de nivel educativo superior tienen d
 
 (*) Artículo modificado por el Artículo 1 de la Ley Nº 25212, publicada el 20-05-90, cuyo texto es el siguiente:
 
-" Artículo 64.El personal docente en servicio sin título pedagógico, ingresa a la Carrera Pública del Profesorado al obtener este título.
+"Artículo 64.- El personal docente en servicio sin título pedagógico, ingresa a la Carrera Pública del Profesorado al obtener este título.
 
 Los auxiliares de educación son considerados como personal docente sin título pedagógico en servicio. El reglamento normará las características de sus funciones".
 
@@ -640,13 +614,13 @@ interino, se agrupa según sus estudios, del siguiente modo:
 El Ministerio de Educación establece para dicho personal una escala diferenciada de remuneraciones. (*)
 
 (*) Artículo modificado por el Artículo 1 de la Ley Nº 25212, publicada el 20-05-90, cuyo texto es el siguiente:
----
-" Artículo 66.- El personal docente en servicio sin título profesional en educación y con nombramiento interino, se agrupa según sus estudios, de la siguiente manera:
-a. Con estudios pedagógicos concluidos; b. Con título profesional no pedagógico; c. Con estudios pedagógicos no concluidos; y,
-El Ministerio de Educación establece para dicho personal una escala diferenciada de remuneraciones.
+"Artículo 66.- El personal docente en servicio sin título profesional en educación y con nombramiento interino, se agrupa según sus estudios, de la siguiente manera:
+a. Con estudios pedagógicos concluidos;
+b. Con título profesional no pedagógico;
+c. Con estudios pedagógicos no concluidos; y,
 d. Con estudios no pedagógicos del nivel superior educativo.
-Queda prohibido el nombramiento de personal docente en calidad de titular o de interino para
-aquellas personas que sólo cuentan con estudios completos de Educación Secundaria".
+El Ministerio de Educación establece para dicho personal una escala diferenciada de remuneraciones.
+Queda prohibido el nombramiento de personal docente en calidad de titular o de interino para aquellas personas que sólo cuentan con estudios completos de Educación Secundaria".
 
 ###### Artículo 67.
 Corresponden al personal docente en servicio al que se refiere este Capítulo, los derechos y deberes que esta Ley señala, en particular los del Capítulo IV de su Título II, que sean compatibles con su situación de docentes sin título pedagógico. Los que laboren durante un año tendrán derecho a ser reubicados en las vacantes que se produzcan, observándose el orden de prioridad señalado en el artículo anterior. 
@@ -690,9 +664,7 @@ Las plazas correspondientes a los cargos Directivos o Jerárquicos de los Centro
 El profesorado del Area de la Docencia, por esta única vez, asciende un nivel de la carrera pública por el mérito de su tiempo de servicios docentes oficiales computados al 31 de Diciembre de 1982, sin otra excepción que la de quienes; hubiesen sido sancionados con suspensión en el quinquenio 1980-1984. (*)
 
 (*) Disposición modificada por el Artículo 1 de la Ley Nº 25212, publicada el 20-05-90, cuyo texto es el siguiente:
----
-" Primera.- El profesorado del área de la docencia, por excepción de lo previsto en el artículo 11 de la presente Ley por esta única vez, es ubicado en el nivel de la carrera pública que le corresponde
-
+"Primera.- El profesorado del área de la docencia, por excepción de lo previsto en el artículo 11 de la presente Ley por esta única vez, es ubicado en el nivel de la carrera pública que le corresponde
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
@@ -704,9 +676,8 @@ La remuneración básica correspondiente al Primer Nivel Magisterial se fija en 
 
 Ésta escala se aplicará progresivamente. (*)
 
-(*) Disposición modificada por el Artículo 1 de la Ley Nº 25212, publicada el 20-05-90, cuyo texto es el siguiente: artículo 30 de la presente Ley no será menor de 6.2 Unidades Remunerativas Públicas; así como el
-
-" Segunda.La remuneración básica correspondiente al primer nivel magisterial establecida en el índice remunerativo del quinto nivel es equivalente al que tiene un Viceministro de Estado".
+(*) Disposición modificada por el Artículo 1 de la Ley Nº 25212, publicada el 20-05-90, cuyo texto es el siguiente:
+"Segunda.- La remuneración básica correspondiente al primer nivel magisterial establecida en el artículo 30 de la presente Ley no será menor de 6.2 Unidades Remunerativas Públicas; así como el índice remunerativo del quinto nivel es equivalente al que tiene un Viceministro de Estado".
 
 ###### Tercera.
 Los Bachilleres Profesionales en Educación egresados de las Escuelas Superiores de Educación Profesional, se ubican hasta el Segundo Nivel de la carrera al cumplir la permanencia exigida. Para ascender a los otros niveles deben optar el título de Profesor. Para el efecto tienen derecho de convalidar las asignaturas de Formación Profesional que hubieran cursado. 
@@ -721,7 +692,7 @@ efecto se observará la prioridad señalada en el Artículo Nº 66. (*)
 
 el siguiente:
 
-" Quinta.Los docentes en actual servicio, con nombramiento interino, que estuvieron comprendidos en el inciso e) del artículo 66 de la Ley Nº 24029, se mantendrán en ese grupo hasta acreditar estudios de educación superior".
+"Quinta.- Los docentes en actual servicio, con nombramiento interino, que estuvieron comprendidos en el inciso e) del artículo 66 de la Ley Nº 24029, se mantendrán en ese grupo hasta acreditar estudios de educación superior".
 
 ###### Sexta.
 El Reglamento de la presente Ley se expedirá dentro de noventa días calendarios a partir de la fecha de su promulgación. 
@@ -737,7 +708,7 @@ sin efecto los procedimientos y requisitos que contravengan esta disposición.
 ###### Octava.
 Para los efectos de la financiación y aplicación progresiva de la presente Ley en los nuevos rubros que ella contiene, el Presupuesto General del Sector Público para 1985 creará una Cuenta de Orden 'Desarrollo Magisterial'. (*)
 
-(*) Disposición modificada por el Artículo 1 de la Ley Nº 25212, publicada el 20-05-90, cuyo texto es el siguiente: " Octava.Para los efectos de la financiación o aplicación de la presente Ley, créase el "Fondo Nacional de Desarrollo Magisterial", con rentas de carácter tributario destinado a financiar las mejoras de índole remunerativo, bienestar social y laboral de los trabajadores estatales comprendidos en esta Ley.
+(*) Disposición modificada por el Artículo 1 de la Ley Nº 25212, publicada el 20-05-90, cuyo texto es el siguiente: "Octava.- Para los efectos de la financiación o aplicación de la presente Ley, créase el "Fondo Nacional de Desarrollo Magisterial", con rentas de carácter tributario destinado a financiar las mejoras de índole remunerativo, bienestar social y laboral de los trabajadores estatales comprendidos en esta Ley.
 
 ###### Novena.
 Las Direcciones Departamentales y Zonales de Educación y demás cargos administrativos y docentes que estén servidos por profesores que no reúnen los requisitos de esta Ley, serán provistos por nuevo personal que satisfagan dichos requisitos. 
