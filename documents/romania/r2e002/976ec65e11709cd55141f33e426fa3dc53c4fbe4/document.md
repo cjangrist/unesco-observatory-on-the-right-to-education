@@ -8,21 +8,131 @@
 
 ## CONTENTS
 
+TITLE I GENERAL PROVISIONS ....................................................................................................... 5
+TITLE II: PRE-UNIVERSITY EDUCATION ...................................................................................... 7
+CHAPTER I: GENERAL PROVISIONS............................................................................................... 7
+CHAPTER II: STRUCTURE OF THE NATIONAL PRE-UNIVERSITY EDUCATIONAL SYSTEM .................................................................................................................................................... 8
+Section 1. General provisions .............................................................................................................................. 8
+Section 2. Ante-pre-school education ................................................................................................................... 8
+Section 3. Pre-school education ........................................................................................................................... 8
+Section 4. Primary education ............................................................................................................................... 8
+Section 5. Middle education ................................................................................................................................. 9
+Section 6. High school education ......................................................................................................................... 9
+Section 7. Vocational and technological education ............................................................................................. 9
+Section 8. Vocational education ........................................................................................................................... 9
+Section 9. Pre-university military education. ..................................................................................................... 10
+Section 10. Arts and sports education ................................................................................................................ 10
+Section 11. Post-high school education ............................................................................................................. 11
+Section 12. Education for persons belonging to national minorities ................................................................ 11
+Section 13. Special and special-integrated education ........................................................................................ 13
+Section 14. Education for children and young people able to achieve outstanding performance ..................... 14
+Section 15. “School After School” learning programme ................................................................................... 14
+Section 16. Educational alternatives .................................................................................................................. 14
+Section 17. Private and denominational education ............................................................................................ 14
+CHAPTER III: EDUCATIONAL NETWORK ................................................................................... 15
+CHAPTER IV: PRE-UNIVERSITY EDUCATION CURRICULUM .............................................. 15
+CHAPTER V: SCHOOL RESULT EVALUATION ........................................................................... 17
+Section 1. General provisions regarding evaluation.......................................................................................... 17
+Section 2. The structure and characteristics of the school evaluations ............................................................. 17
+CHAPTER VI: HUMAN RESOURCES .............................................................................................. 19
+Section 1. Education beneficiaries ..................................................................................................................... 19
+Section 2. Pre-university education staff ............................................................................................................ 20
+CHAPTER VII: SYSTEM AND EDUCATIONAL FACILITIES MANAGEMENT ..................... 21
+Section 1. General Framework .......................................................................................................................... 21
+Section 2. The management of education facilities ............................................................................................ 22
+Section 3. Other institutions connected to pre-university education .................................................................. 23
+CHAPTER VIII: PRE-ACADEMIC FINANCING AND MATERIAL BASIS ............................... 24
+Section 1. General provisions ............................................................................................................................ 24
+Section 2. The material basis of the pre-academic education ............................................................................ 26
+
 Page 2 of 75
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-Section 1
-
-. General provisions ............................................................................................................................  42
+TITLE III: HIGHER EDUCATION .................................................................................................... 26
+CHAPTER I: GENERAL PROVISIONS............................................................................................. 26
+CHAPTER II: THE ORGANIZATIONAL STRUCTURE OF THE HIGHER EDUCATION INSTITUTIONS ...................................................................................................................................... 29
+CHAPTER III: THE ORGANIZATION OF THE HIGHER EDUCATION .................................. 30
+Section 1. The Structure of the Academic Year .................................................................................................. 30
+Section 2. Academic Educational Programs ...................................................................................................... 30
+Section 3. Forms of organization ....................................................................................................................... 31
+Section 4. Educational Service Agreements ....................................................................................................... 31
+Section 5. Admission to educational programs .................................................................................................. 31
+Section 6. Graduation examinations .................................................................................................................. 31
+Section 7. Evaluations during the academic years ............................................................................................. 32
+Section 8. Diplomas ........................................................................................................................................... 32
+Section 9. Education credits ............................................................................................................................... 32
+Section 10. Cycle I – Bachelor’s degree educational studies ............................................................................ 32
+Section 11. Cycle II – Master’s degree education .............................................................................................. 33
+Section 12. Ciclul III - PhD education ............................................................................................................... 33
+CHAPTER IV: POST-GRADUATE EDUCATION ORGANIZATION .......................................... 36
+Section 1. Postgraduate programs ..................................................................................................................... 36
+Section 2 Training and ongoing professional development postgraduate programs ......................................... 36
+CHAPTER V: HIGHER MEDICAL EDUCATION ........................................................................... 37
+Section 1 Organization and operation of the higher medical education. Medical and veterinary higher education ............................................................................................................................................................ 37
+Section 2. Regulation of other specific aspects .................................................................................................. 37
+CHAPTER VI: MILITARY HIGHER EDUCATION AND HIGHER EDUCATION OF INTELLIGENCE, PUBLIC ORDER AND NATIONAL SECURITY ............................................. 37
+Section 1. Organization and operation .............................................................................................................. 37
+Section 2. Management and financing of the institutions .................................................................................. 38
+Section 3. Human Resources .............................................................................................................................. 38
+Section 4. Academic life ..................................................................................................................................... 38
+CHAPTER VII: HIGHER ARTISTIC AND SPORTS EDUCATION ............................................. 38
+CHAPTER VIII: RESEARCH AND ACADEMIC CREATION ACTIVITY ................................. 39
+CHAPTER IX: PROMOTING QUALITY IN HIGHER EDUCATION AND RESEARCH ......... 39
+Section 1. General provisions ............................................................................................................................ 39
+Section 2. Supporting individual excellence....................................................................................................... 40
+CHAPTER X: PROMOTING THE UNIVERSITY FOCUSED ON THE STUDENT ................... 40
+Section 1. General provisions ............................................................................................................................ 40
+Section 2. Registering the students, Single Register of Transcripts of the Universities ..................................... 41
+CHAPTER XI: UNIVERSITY MANAGEMENT ............................................................................... 42
+Section 1. General provisions ............................................................................................................................ 42
 
 Page 3 of 75
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+Section 2. The attributions of the University Senate, the rector, the administrative board, the dean and the department manager ........................................................................................................................................... 44
+Section 3. Role of the State in higher education................................................................................................. 45
+CHAPTER XII: THE UNIVERSITIES FINANCING AND ASSETS .............................................. 46
+Section 1. General provisions ............................................................................................................................ 46
+Section 2. Private higher and confessional education organization and operation .......................................... 48
+Section 3. Establishment of private higher educational institutions and private higher confessional educational institutions ....................................................................................................................................... 48
+Section 4. Assets of private higher educational institutions and private higher confessional educational institutions .......................................................................................................................................................... 48
+Section 5. Dissolution of private higher educational institutions and private higher confessional educational institutions ....................................................................................................................................... 48
+Section 6. Financing private higher educational institutions and private higher confessional educational institutions .......................................................................................................................................................... 48
+TITLE IV: THE STATUTE OF THE TEACHING STAFF .............................................................. 49
+CHAPTER I: THE STATUTE OF THE TEACHING STAFF IN THE PRE-UNIVERSITY EDUCATION .......................................................................................................................................... 49
+Section 1. General provisions ............................................................................................................................ 49
+Section 2. Initial and continuous training. Teaching career .............................................................................. 49
+Section 3. The teaching positions and the auxiliary positions - Conditions for holding the positions .............. 52
+Section 4. Forms of employment of the teaching staff ........................................................................................ 53
+Section 5. The managerial, vocational guidance and control positions ............................................................ 55
+Section 6. The teaching workload ...................................................................................................................... 56
+Section 7. Distinctions ........................................................................................................................................ 57
+Section 8. Rights and obligations ....................................................................................................................... 58
+Section 9. The teaching staff’s right to security ................................................................................................. 58
+Section 10. The right to participation in the social life ...................................................................................... 58
+Section 11. Disciplinary and patrimonial responsibility .................................................................................... 59
+Section 12. Retirement ....................................................................................................................................... 60
+CHAPTER II: STATUTE OF THE TEACHING STAFF IN THE HIGHER EDUCATION AND RESEARCH INSTITUTIONS ..................................................................................................... 60
+Section 1. University teaching workload ............................................................................................................ 60
+Section 2. Holding the teaching positions and the teaching jobs ....................................................................... 63
+Section 3. Evaluation of the teaching staff’ quality ............................................................................................ 64
+Section 4. Rights and obligations of the teaching staff ...................................................................................... 64
+Section 5. University ethics ................................................................................................................................ 65
+Section 6. Distinctions ........................................................................................................................................ 66
+Section 7. Disciplinary sanctions ....................................................................................................................... 66
+Section 8. Penalties enforced on breaches of university ethics and proper conduct in research activities ....... 67
+Section 9. The income of the teaching and research staff .................................................................................. 67
+TITLE V: LIFE-LONG LEARNING ................................................................................................... 68
+CHAPTER I: GENERAL DISPOSITIONS ......................................................................................... 68
+CHAPTER II: RESPONSIBILITIES REGARDING THE LIFE-LONG LEARNING .................. 68
+TITLE VI LEGAL LIABILITY ............................................................................................................ 72
+TITLE VII: FINAL AND TRANSIENT PROVISIONS ..................................................................... 73
 
 Page 4 of 75
 
@@ -134,7 +244,7 @@ Page 5 of 75
 
 #### Art. 7
 
-(1) In Educational facilities and institutions and in all the facilities dedicated to vocational training and education, all the activities violating the moral standards, as well as any other activities which may endanger children's and young people's health and physical and psychical integrity are forbidden, as well as the health of the teaching staff, auxiliary staff and nonteaching staff. Political activities and religious indoctrination are also forbidden.
+(1) In Educational facilities and institutions and in all the facilities dedicated to vocational training and education, all the activities violating the moral standards, as well as any other activities which may endanger children's and young people's health and physical and psychical integrity are forbidden, as well as the health of the teaching staff, auxiliary staff and non-teaching staff. Political activities and religious indoctrination are also forbidden.
 
 (2) The privatization of the public Educational facilities and institutions is forbidden.
 
@@ -156,7 +266,7 @@ e) The efficient use of the resources; The state provides basic finance for all 
 
 (2) Public  education  is  free  of  charge,  in  compliance  with  the law.  For  certain  educational  activities,  levels  and  curricula, taxes may be charged under the terms set by this law.
 
-(3) The  Ministry  of  Education,  Research,  Youth,  and  Sports, through its  specialized  body,  sets  the  annual  standard  cost  per pupil  or  preschooler,  on  which  the  fundamental  financing  is based. All pupils and preschoolers attending public preuniversity education, as well as private compulsory pupils and preschoolers attending general compulsory education, vocational, high-school, private and religious education, accredited and regularly assessed educational institutions benefit  from  the  amount  in  question,  in  compliance  with  the applicable law.
+(3) The Ministry of Education, Research, Youth, and Sports, through its specialized body, sets the annual standard cost per pupil or preschooler, on which the fundamental financing is based. All pupils and preschoolers attending public pre-university education, as well as private compulsory pupils and preschoolers attending general compulsory education, vocational, high-school, private and religious education, accredited and regularly assessed educational institutions benefit from the amount in question, in compliance with the applicable law.
 
 (4) Pre-university education shall be basically financed according to the 'financial resource follows the pupil' principle, based  on  which  the  budgetary  allowance  due  for  a  pupil  or preschooler is transferred to the educational institution attended by the pupil or preschooler in question, observing the provisions of par. (2), (3)and (4).
 
@@ -194,7 +304,7 @@ e) The efficient use of the resources; The state provides basic finance for all 
 
 (5) The State and other stakeholders support financially pupils' and students' high-performance national and international activities.
 
-(6) The State guarantees equal right to education to all  people with  disabilities  or  with  special  education  needs.  Special  and special-integrated education is part of the national preuniversity system.
+(6) The State guarantees equal right to education to all people with disabilities or with special education needs. Special and special-integrated education is part of the national pre-university system.
 
 (7) Special  and  special-integrated  education  represents  a  form of education in school which is differentiated, adapted and also a form of educational, social and medical support dedicated to persons with disabilities or special educational requests.
 
@@ -231,7 +341,7 @@ The cults officially acknowledged by the state may request the Ministry of Educa
 
 (2) The  obligation  to  attend  the  10-year  daytime  education ceases at 18 years old.
 
-(3) In order to fulfil the objectives of education and vocational training  through  the  national  education  system,  state  highschool education is generalized and free.
+(3) In order to fulfil the objectives of education and vocational training through the national education system, state high-school education is generalized and free.
 
 #### Art. 17
 
@@ -251,7 +361,7 @@ During pre-university education, except post high-school education,  children  r
 
 a) with minimum 300 pupils;
 
-b) with minimum  300  pupils  and  preschoolers and antepreschoolers;
+b) with minimum 300 pupils and preschoolers and ante-preschoolers;
 
 c) with minimum 150 preschoolers and ante-preschoolers;
 
@@ -273,7 +383,7 @@ d) with minimum 100 pupils and/or preschoolers, in the case of special education
 
 #### Art. 21
 
-(1) The  pre-university  educational  system  is  open.  In  preuniversity education, pupils' transfer from one school to another, from one form to another, from one profile to another and  from  one  programme  to  another  may  be  performed  under the  terms  stipulated  in  the  methodology  of  the  Ministry  of Education, Research, Youth, and Sports.
+(1) The pre-university educational system is open. In pre-university education, pupils' transfer from one school to another, from one form to another, from one profile to another and from one programme to another may be performed under the terms stipulated in the methodology of the Ministry of Education, Research, Youth, and Sports.
 
 (2) The students attending state and private preuniversity education  may  transfer  to  other  state  or  private  educational institutions, upon the approval of the host institution.
 
@@ -301,17 +411,13 @@ Page 7 of 75
 
 (1) The national pre-university educational system includes the following levels:
 
-a) Early education (0 - 6 years), including the ante-preschool level  (0-3  years)  and  pre-school  education  (3-6  years),  which includes the little  group,  the  medium  group and the big  group
+a) Early education (0 – 6 years), including the ante-preschool level (0-3 years) and pre-school education (3-6 years), which includes the little group, the medium group and the big group
 
-b) primary  education  which  includes  the  preparatory  grade and 1 st - 4 th grades;
+b) primary education which includes the preparatory grade and 1st – 4th grades;
 
-- c)
-
-- the secondary education, which includes: the lower secondary or middle education, which includes
-
--5 th -9 th grades,
-
--the higher or high school education, which includes 10 th -12 th/13th high school grades, with the following programmes: theoretical vocational and technological.
+c) the secondary education, which includes:
+- the lower secondary or middle education, which includes 5th –9th grades,
+- the higher or high school education, which includes 10th –12th/13th high school grades, with the following programmes: theoretical vocational and technological.
 
 d) Training, between 6 months and 2 years;
 
@@ -323,7 +429,7 @@ e)  Tertiary  non-university  education,  which  includes  post-high school educ
 
 (1) General  compulsory  education  is  made  up  of  primary  and secondary inferior education.
 
-(2) Technical  education  comprises  grades  12  and  13  of  highschool education, technological programme.
+(2) Technical education comprises grades 12 and 13 of high-school education, technological programme.
 
 (3) The training and technical education is made up of: training, technical and post high-school education.
 
@@ -337,13 +443,13 @@ e)  Tertiary  non-university  education,  which  includes  post-high school educ
 
 #### Art. 26
 
-The  Ministry  of  Education,  Research,  Youth  and  Sports  may establish,  through  a  government  resolution,  the  operation  of some  pilot,  experimental  and  application  units  within  preuniversity education.
+The Ministry of Education, Research, Youth and Sports may establish, through a government resolution, the operation of some pilot, experimental and application units within pre-university education.
 
 ### Section 2. Ante-pre-school education
 
 #### Art. 27
 
-(1) Ante-pre-school  education  is  organized  in  crèches  a nd,  as the case may be, in kindergartens and day-care centres.
+(1) Ante-pre-school education is organized in crèches and, as the case may be, in kindergartens and day-care centres.
 
 (2) The  organization of the early ante-preschool education institutions, the educational content, quality standards and organization methodology for this type of education are decided by Government Decision initiated by the Ministry of Education, Research, Youth, and Sports, within 12 months of the coming into force of the present law.
 
@@ -391,7 +497,7 @@ Page 8 of 75
 
 (2) The Ministry of Education, Research, Youth, and Sports, in cooperation  with  the  public  local  administration  authorities, through  the  school  inspectorates,  may  organize  'The  Second Chance'  type  educational  programmes  with  the  purpose  of promoting middle education for the persons who exceed the age corresponding to this grade by more than 4 years, and who, for various  reasons,  failed  to  graduate  from  lower  secondary  of middle school.
 
-(3) Middle  education  graduates  who  do  not  accede  to  highschool education may graduate by the time they are 18 from at least one training programme enabling them to get a qualification according to the national qualification framework.
+(3) Middle education graduates who do not accede to high-school education may graduate by the time they are 18 from at least one training programme enabling them to get a qualification according to the national qualification framework.
 
 ### Section 6. High school education
 
@@ -447,7 +553,9 @@ Education, Research, Youth, and Sports.
 
 (5) Vocational  education  graduates  who  pass  the  qualification exam may accede to low-attendance high-school education.
 
-Page 9 of 75 (6) Middle  education  graduates  who  discontinue  their  studies may graduate, by the time they are 18, from at least one training programme enabling them to get a qualification in accordance with he national Qualification Framework.
+(6) Middle education graduates who discontinue their studies may graduate, by the time they are 18, from at least one training programme enabling them to get a qualification in accordance with he national Qualification Framework.
+
+Page 9 of 75
 
 [[END OF PAGE 9]]
 
@@ -465,7 +573,7 @@ a) Recognition within the tertiary non-university education of the  skills  obta
 
 b) Partial  financing  for  enrolment  in  state  post-high-school educational institutions;
 
-- Special scholarships and other forms of material support.
+c) Special scholarships and other forms of material support.
 
 ### Section 9. Pre-university military education.
 
@@ -521,9 +629,9 @@ The  provisions  of  the  present  law  are  applied  to  the  area  of defence,
 
 (3) In the arts and sports education:
 
-- The  education  is  usually  made  starting  with  the  middle education;
+a) The education is usually made starting with the middle education;
 
-- pupils may only be enrolled based on the evaluation of the specific aptitudes;
+b) pupils may only be enrolled based on the evaluation of the specific aptitudes;
 
 Page 10 of 75
 
@@ -531,11 +639,11 @@ Page 10 of 75
 
 [[START OF PAGE 11]]
 
-- the framework schooling plans are adapted to the specificity of this type of education;
+c) the framework schooling plans are adapted to the specificity of this type of education;
 
-- The  specialty  subjects  are  studied  according  to  classes, groups or individually, according to the criteria set by the Ministry of Education, Research, Youth and Sport;
+d) The specialty subjects are studied according to classes, groups or individually, according to the criteria set by the Ministry of Education, Research, Youth and Sport;
 
-- The art  and  sports  high  school  syllabi  are  in  compliance with  the  educational  objectives set for the profile in question.
+e) The art and sports high school syllabi are in compliance with the educational objectives set for the profile in question.
 
 (4) For the professional sports and artistic activity, the Ministry of Education, Research, Youth, and Sports may organize, at the proposal of the local authorities, school inspectorates, the Ministry of Culture and National Assets and/or cultural public institutions  school  clubs  and  state  pre-university  educational institutions with integrated or additional sports or arts teaching programme.
 
@@ -565,41 +673,41 @@ Page 10 of 75
 
 (4) The  Ministry  of  Education,  Research,  Youth,  and  Sports cooperates with institutions, organizations, and  other legal entities or individuals, with the purpose  of providing  the financial  and material resources necessary  for  the  smooth performance  of  the  integrated  or  additional arts or sports education,  as  well  as  for  the  regional  and  national  artistic  and sports activities.
 
+### Section 11. Post-high school education
+
 #### Art. 44
 
-(1) Post-high  school  education  is  organized  for  professional qualifications registered in the National Qualifications Register, set by Ministry of Education, Research, Youth, and Sports and approved by Government decision.
+(1) Post-high school education is organized for professional qualifications registered in the National Qualifications Register, set by Ministry of Education, Research, Youth, and Sports and approved by Government decision.
 
-(2) Post-high  school  education  is  part  of  the  vocational  and technical education and is partially subsidized by the State.
+(2) Post-high school education is part of the vocational and technical education and is partially subsidized by the State.
 
 (3) Post-high school education forms part of the vocational and technical education and is fully subsidized by the state.
 
-- Foreman schools are post-high school educational institutions.
+(4) Foreman schools are post-high school educational institutions.
 
-(5) Post-high school education lasts 1-3 years, according to the complexity  of  the  qualification  and  to  the  number  of  required professional credits for education and professional training.
+(5) Post-high school education lasts 1-3 years, according to the complexity of the qualification and to the number of required professional credits for education and professional training.
 
-(6) State  post-high  school  education,  organized  in  compliance with  the  provisions  of  this  law,  is  financed  through  the  local budgets  of  the  territorial-administrative  units,  and  from  sums provided  from  the  Government  Budget  incomes  and  from  the local  budget  incomes.  Education  may  also  be  financed  by applicants,  legal  entities  or  individuals,  through  a  contract concluded  with  the  school  that  provides  the  education.  The State  supports  and  stimulates,  financially  or  otherwise,  posthigh school education programmes, in public -private partnership.
+(6) State post-high school education, organized in compliance with the provisions of this law, is financed through the local budgets of the territorial-administrative units, and from sums provided from the Government Budget incomes and from the local budget incomes. Education may also be financed by applicants, legal entities or individuals, through a contract concluded with the school that provides the education. The State supports and stimulates, financially or otherwise, post-high school education programmes, in public – private partnership.
 
-(7) The  number  of  students  for  the  State  post-high  school education is approved by Government Decision. As an exception, the number of students for the State post-high school education  fully  financed  by  the  applicants,  legal  entities  or individuals,  is  approved  by  the  school  inspectorate  and  is communicated by the Ministry of Education, Research, Youth, and Sports.
+(7) The number of students for the State post-high school education is approved by Government Decision. As an exception, the number of students for the State post-high school education fully financed by the applicants, legal entities or individuals, is approved by the school inspectorate and is communicated by the Ministry of Education, Research, Youth, and Sports.
 
-(8) The  admission  to  post-high  school  education  is  made  in compliance  with  the  general  criteria  set  by  the  Ministry  of Education, Research, Youth, and Sports, based on a methodology developed by the educational institution, by consulting the stakeholders.
+(8) The admission to post-high school education is made in compliance with the general criteria set by the Ministry of Education, Research, Youth, and Sports, based on a methodology developed by the educational institution, by consulting the stakeholders.
 
-(9) High  school  graduates  with  or  without  a  baccalaureate diploma may enrol for post-high school education, in compliance with paragraph (7).
+(9) High school graduates with or without a baccalaureate diploma may enrol for post-high school education, in compliance with paragraph (7).
 
-(10) The credits for education and professional training obtained during post high-school education may  be  recognized  for graduates with a high-school diploma by universities, based on the  University  Senate's decisions, as study credits transferable for the level of the graduation paper.
+(10) The credits for education and professional training obtained during post high-school education may be recognized for graduates with a high-school diploma by universities, based on the University Senate's decisions, as study credits transferable for the level of the graduation paper.
 
 ### Section 12. Education for persons belonging to national minorities
 
 #### Art. 45
 
-(1) Persons  belonging  to  national  minorities  have  the  right  to study and receive instruction in their mother tongue, at all levels and forms of education with appropriate request, in compliance with this law.
+(1) Persons belonging to national minorities have the right to study and receive instruction in their mother tongue, at all levels and forms of education with appropriate request, in compliance with this law.
 
 (2) Taking into account local needs, groups, classes, sections or school units with teaching in the languages of national minorities may be established, upon request of parents or legal guardians and in compliance with the provisions of law.
 
-(3) Any  Romanian  citizen  or  citizen  of  the  EU  or  Swiss Confederacy may enrol and study, irrespective of their mother tongue  and  of  the  language  in  which  he/she  has  previously studied, to all forms of education in the Romanian language, in the  languages  of  the  national  minorities,  or  in  international languages.
+(3) Any Romanian citizen or citizen of the EU or Swiss Confederacy may enrol and study, irrespective of their mother tongue and of the language in which he/she has previously studied, to all forms of education in the Romanian language, in the languages of the national minorities, or in international languages.
 
 (4) High school and vocational classes with groups of students on various qualifications may be organized within the sole units
-
-### Section 11. Post-high school education
 
 Page 11 of 75
 
@@ -798,7 +906,7 @@ Upon graduation from special education, the ministry of  education,  Research,  
 
 (3) The  private educational institutions are free and open institutions  autonomous  both  from  the  organizational  point  of view  as  economically  and  financially  and  are  based  on  the private property, guaranteed by the constitution.
 
-(4) The  Romanian  Agency  for  Quality Assurance in Preuniversity  Education  grants  temporary  operating  licenses  and accreditations to private and denominational pre-university educational  institutions,  and  periodically  evaluates  them,  in compliance with the applicable law.
+(4) The Romanian Agency for Quality Assurance in Pre-university Education grants temporary operating licenses and accreditations to private and denominational pre-university educational institutions, and periodically evaluates them, in compliance with the applicable law.
 
 (5) The private and denominational accredited educational institutions are supported by the state, and the conditions are set by governmental resolution.
 
@@ -886,7 +994,7 @@ h)  Special  education  for  pupils  with  serious  disabilities:  the group wit
 
 (3) The syllabi establish for each subject the study field/preparation manner of the curriculum, the pursued objectives and describe their basic theoretical, experimental and practical content, offering general methodological guidance for their achievement.
 
-(4) The  framework  schooling  plans  and  syllabi  for  the  preuniversity compulsory and optional subjects, or training modules are elaborated by competent institutions and organisms of the Ministry of Education, Research, Youth, and Sports, and are  approved  by  order  of  the  minister  of  education,  research, youth and sports.
+(4) The framework schooling plans and syllabi for the pre-university compulsory and optional subjects, or training modules are elaborated by competent institutions and organisms of the Ministry of Education, Research, Youth, and Sports, and are approved by order of the minister of education, research, youth and sports.
 
 (5) Upon  school  decision,  the  curriculum  is  made  up  both  of optional subject packages, offered at national, regional and local level  and  also  of  subject  packages  offered  at  the  level  of  the educational institutions. The board of the educational institution,  after  consulting  the  pupils,  the  parents  and  on  the basis  of  the  available  resources,  sets  the  curriculum,  on  the school decision.
 
@@ -934,15 +1042,15 @@ b) Communication competence in foreign languages;
 
 c) Basic mathematics, sciences and technological sciences competences;
 
-- Computer  skills  (using  the  information  technology  in order to acquire knowledge and solve problems);
+d) Computer skills (using the information technology in order to acquire knowledge and solve problems);
 
-- Social and civic skills;
+e) Social and civic skills;
 
-- Entrepreneurial skills;
+f) Entrepreneurial skills;
 
 g) Cultural expression and sensitization skills.
 
-- Learning abilities.
+h) Learning abilities.
 
 (2) Physical education and sports in pre-university education are included in the common part of the curricula
 
@@ -1024,13 +1132,13 @@ Page 16 of 75
 
 (5) At the end of 9 th grade, based on a methodology elaborated by the Ministry of Education, Research, Youth, and Sports, the national  compulsory  trans-curricular  evaluation  of  all  students will be performed. The results of the evaluation are expressed as a  score  similar  to  the  score  used  in  international  tests.  The evaluation is made by means of the following tests:
 
-- a written test in Romanian language and literature;
+a) a written test in Romanian language and literature;
 
-- a written test in maternal language;
+b) a written test in maternal language;
 
-- a trans-curricular written  test  on  mathematics  and sciences;
+c) a trans-curricular written test on mathematics and sciences;
 
-- a written test in a worldwide spoken language;
+d) a written test in a worldwide spoken language;
 
 e) a  practical  computer  test,  taken  in  the  course  of  the school year;
 
@@ -1046,7 +1154,7 @@ f) an oral trans-curricular test for the evaluation of civic and social skills, 
 
 #### Art. 76
 
-(1) After graduating from middle education, pupils attend highschool or vocational education.
+(1) After graduating from middle education, pupils attend high-school or vocational education.
 
 Page 17 of 75
 
@@ -1066,11 +1174,9 @@ b)  If  the  number  of  candidates  exceeds  the  number  of  places offered by
 
 #### Art. 77
 
-(1) High  school  graduates  receive  a  graduation  diploma,  the school transcript, part of the educational portfolio, attesting the completion of high school studies and giving graduates the right to  access  post-high  school  education,  in  compliance  with  the
+(1) High school graduates receive a graduation diploma, the school transcript, part of the educational portfolio, attesting the completion of high school studies and giving graduates the right to access post-high school education, in compliance with the law, as well as the right to take the baccalaureate examination.
 
-law, as well as the right to take the baccalaureate examination. (2) Those  pupils  who  have  graduated  from  the  12 th and  13 th
-
-grade shall take the national baccalaureate examination.
+(2) Those pupils who have graduated from the 12th and 13th grade shall take the national baccalaureate examination.
 
 (3) High  school  graduates  who  take  and  pass  the  national baccalaureate examination also receive a baccalaureate diploma, which entitles  them  to  access  higher  education,  in  compliance with the law.
 
@@ -1166,7 +1272,7 @@ c)  The arithmetic mean, calculated with two decimals, of the marks they have ob
 
 #### Art. 79
 
-(1) The main beneficiaries of pre-university education are antepreschoolers, preschoolers and pupils.
+(1) The main beneficiaries of pre-university education are ante-preschoolers, preschoolers and pupils.
 
 (2) The secondary beneficiaries of pre-university education are the ante-preschoolers', preschoolers', and pupils' families.
 
@@ -1180,7 +1286,7 @@ c)  The arithmetic mean, calculated with two decimals, of the marks they have ob
 
 #### Art. 81
 
-(1) Ante-preschoolers, preschoolers and pupils from preuniversity educational institutions have equal rights to education, through extra-curricular activities organized the Ministry of Education, Research, Youth, and Sports.
+(1) Ante-preschoolers, preschoolers and pupils from pre-university educational institutions have equal rights to education, through extra-curricular activities organized the Ministry of Education, Research, Youth, and Sports.
 
 (2) Extra-curricular  activities  are  performed  in  pre-university educational  institutions,  clubs,  children  palaces,  school  camps, sports, travelling and leisure bases, or other institutions accredited for this purpose.
 
@@ -1188,7 +1294,7 @@ c)  The arithmetic mean, calculated with two decimals, of the marks they have ob
 
 #### Art. 82
 
-(1) Pupils attending the daytime  courses  of the state preuniversity educational institutions may be granted high performance, merit, study, and social aid scholarships financed from  the  Government  Budget,  local  budgets  or  from  other sources.
+(1) Pupils attending the daytime courses of the state pre-university educational institutions may be granted high performance, merit, study, and social aid scholarships financed from the Government Budget, local budgets or from other sources.
 
 (2) The  amount  of  the  scholarships  granted  from  the  state budget and their number are set annually by a resolution of the local council, respectively of the county  council or local councils of the districts of Bucharest.
 
@@ -1211,8 +1317,6 @@ Page 19 of 75
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
-
-### Section 2. Pre-university education staff
 
 (3) The sanitary permit necessary for the operation of the public education institutions is free of charge.
 
@@ -1244,7 +1348,9 @@ Page 19 of 75
 
 #### Art. 87
 
-(1) Educational institutions may receive donations from within the  country  and  from  abroad,  in  compliance  with  the  law,  if such  donations  are  made  with  the  purpose  of  supporting  the educational policy of the national education system and if they do not contravene to the interests of the Romanian State and the applicable law.
+(1) Educational institutions may receive donations from within the country and from abroad, in compliance with the law, if such donations are made with the purpose of supporting the educational policy of the national education system and if they do not contravene to the interests of the Romanian State and the applicable law.
+
+### Section 2. Pre-university education staff
 
 #### Art. 88
 
@@ -1326,7 +1432,7 @@ i) ensures the homologation of the educational tools;
 
 j) ensures the organizational framework for the selection and proper training of students with special skills;
 
-k) ensures the specialized education and psychopedagogical support for the children with disabilities or special needs;
+k) ensures the specialized education and psycho-pedagogical support for the children with disabilities or special needs;
 
 l) analyzes the way in which social protection is implemented  in  the  education  system  and  proposes  proper measures to the government and to the competent local authorities;
 
@@ -1344,7 +1450,7 @@ r) decides the structure of the school year;
 
 s) drafts  methodologies  and  regulations  in  order  to  ensure  a homogenous framework for the implementation of the national educational policies;
 
-t) builds  and  ensures  the  optimum  operation  of  the  elearning school platform, as well of the virtual school library;
+t) builds and ensures the optimum operation of the e-learning school platform, as well of the virtual school library;
 
 u) drafts specific norms for the construction of schools and their endowment;
 
@@ -1380,23 +1486,23 @@ Page 21 of 75
 
 [[START OF PAGE 22]]
 
-- the county school inspectorate present an annual report regarding  the  education  in  the  county,  Bucharest  respectively. This report is made public;
+i) the county school inspectorate present an annual report regarding the education in the county, Bucharest respectively. This report is made public;
 
-- approves, at the proposal of the local council or county councils the foundation of new facilities for preschool, primary and secondary education;
+j) approves, at the proposal of the local council or county councils the foundation of new facilities for preschool, primary and secondary education;
 
-- applies the national educational policies at county/Bucharest level;
+k) applies the national educational policies at county/Bucharest level;
 
-- provides education facilities and institutions with counselling and support in managing human resources and jobs at county level and in Bucharest;
+l) provides education facilities and institutions with counselling and support in managing human resources and jobs at county level and in Bucharest;
 
-- monitors  the  constitution,  lay  off  and  occupation  of teaching positions within the education facilities;
+m) monitors the constitution, lay off and occupation of teaching positions within the education facilities;
 
-- manages the database regarding the qualified teachers hired  teaching  staff  in  the  education  facilities  and  the  entire database of education;
+n) manages the database regarding the qualified teachers hired teaching staff in the education facilities and the entire database of education;
 
-- submits to the approval of the Ministry of Education, Research,  Youth,  and  Sports  the  educational  network  in  their territory, proposed  by the local public administrations, in compliance with the educational policy, the strategic documents regarding economic and social development at regional, county and local level, after having consulted the interested education facilities, the economic agents and social partners;
+o) submits to the approval of the Ministry of Education, Research, Youth, and Sports the educational network in their territory, proposed by the local public administrations, in compliance with the educational policy, the strategic documents regarding economic and social development at regional, county and local level, after having consulted the interested education facilities, the economic agents and social partners;
 
-- Carries  out  regular  audits  of  the  human  resources  of pre-university education;
+p) Carries out regular audits of the human resources of pre-university education;
 
-- Ensures the collection  of  statistics  data  for  the  nation system of indicators regarding education
+q) Ensures the collection of statistics data for the nation system of indicators regarding education
 
 (2) The structure of the county school inspectorates and that of the  school  inspectorate  of  Bucharest  is  decided  by  an  order  of the Minister of Education, Research, Youth, and Sports.
 
@@ -1420,41 +1526,41 @@ b) If the board of directors is made up of 9 members, 4 of them are members of t
 
 2  representatives  of  the  local  council  and  2  representatives  of the  parents.  The  headmaster  and  the  deputy  headmaster  are rightful  members  of  the  board  of  directors  from  the  quota allotted  to  the  teaching  staff  of  the  educational  institution  in question;
 
-- If  the  Board  of  Directors  is  made  up  of  13  members,  6  of them  are  teaching  staff,  1  representative  of  the  mayor,  3 representatives of the local council and 3 representatives of the parents. The headmaster and the deputy headmaster are rightful members of  the  board  from  the  quota  allotted  to  the  teaching staff of the educational institution in question.
+c) If the Board of Directors is made up of 13 members, 6 of them are teaching staff, 1 representative of the mayor, 3 representatives of the local council and 3 representatives of the parents. The headmaster and the deputy headmaster are rightful members of the board from the quota allotted to the teaching staff of the educational institution in question.
 
-- The  Board  of  directors  is  the  management  body  of  the educational institution. A representative of the pupils, acting as an observer, usually attends the meetings of the Board.
+(3) The Board of directors is the management body of the educational institution. A representative of the pupils, acting as an observer, usually attends the meetings of the Board.
 
-- After the constitution of the Board, its members appoint one of  the  teaching  staff  as  chairman,  by  the  secret  vote  of  the majority.  The  chairman  is  appointed  for  one  year  at  the  most, chairs the Board meetings and signs the decisions made during this period.
+(4) After the constitution of the Board, its members appoint one of the teaching staff as chairman, by the secret vote of the majority. The chairman is appointed for one year at the most, chairs the Board meetings and signs the decisions made during this period.
 
-- In  the  private  and  denominational  education,  the  Board  of directors  also  includes  representatives  of  the  founders.  The founders appoint the person who will run the Board of directors. In the compulsory educational institutions, the board of Directors also includes a representative of the local council.
+(5) In the private and denominational education, the Board of directors also includes representatives of the founders. The founders appoint the person who will run the Board of directors. In the compulsory educational institutions, the board of Directors also includes a representative of the local council.
 
 (6) The  Board  of  directors  convenes  each  month  or  when necessary at  the request of the headmaster or two thirds of its members. The framework methodology for the organization and operation  of  the  board  of  directors  is  set  by  an  order  of  the minister of education, research, youth and sports.
 
-- The Board of Directors has the following main tasks:
+(7) The Board of Directors has the following main tasks:
 
-- adopts  the  draft  budget  and  approves  the  budgetary allocation at the level of the educational institution;
+a) adopts the draft budget and approves the budgetary allocation at the level of the educational institution;
 
-- approves the institutional development plan drafted by the School Principal of the facility;
+b) approves the institutional development plan drafted by the School Principal of the facility;
 
-- approves the curriculum at the proposal of the teacher's council;
+c) approves the curriculum at the proposal of the teacher's council;
 
-- decides the position of the school in the relation with third parties;
+d) decides the position of the school in the relation with third parties;
 
-- organizes the exams for the position of school principal and deputy principle;
+e) organizes the exams for the position of school principal and deputy principle;
 
-- approves the employment plan of the teaching staff and auxiliary teaching staff, as well as the non-teaching employment draft;
+f) approves the employment plan of the teaching staff and auxiliary teaching staff, as well as the non-teaching employment draft;
 
-- approves  the  professional  development  programs  for the teaching staff at the proposal of the Teacher's Council;
+g) approves the professional development programs for the teaching staff at the proposal of the Teacher's Council;
 
-- sanctions the disciplinary, ethical or professional breaches of the teaching staff, according to the law;
+h) sanctions the disciplinary, ethical or professional breaches of the teaching staff, according to the law;
 
-- approves  the  examination  commissions  and  validates the results of the exams;
+i) approves the examination commissions and validates the results of the exams;
 
-- approves the schedule of the educational institution;
+j) approves the schedule of the educational institution;
 
-- assumes  public  responsibility  for  the  performance  of the educational institution, together with the principle;
+k) assumes public responsibility for the performance of the educational institution, together with the principle;
 
-- carries out any other attributions set by the orders and methodologies of the minister of education, research, youth and sports,  respectively  of  the  Ministry  of  Education,  Research, Youth and Sports.
+l) carries out any other attributions set by the orders and methodologies of the minister of education, research, youth and sports, respectively of the Ministry of Education, Research, Youth and Sports.
 
 (8) The decisions of the Board of Directors are carried by the majority  of  the  votes  of  the  all  those  present,  except  those stipulated under Art. 93. The decisions of the board of directors concerning staff, for instance the procedures to follow in order to  fill  the  positions,  the  management  posts,  the  award  of  the performance grading, the restriction of the activity, the award of marks, the  sanctioning  and  so  on  are  carried  by  a  secret  vote. The members of the Board of Directors who have a conflict of interests shall not participate in the vote.
 
@@ -1500,29 +1606,29 @@ i) coordinates the collection of statistical data and sends them  to  the  schoo
 
 (2) The Teachers' Council has the following tasks:
 
-- manages and ensures the quality of the didactic act;
+a) manages and ensures the quality of the didactic act;
 
-- sets  the  code  of  professional  ethics  and  monitors  its application;
+b) sets the code of professional ethics and monitors its application;
 
-- validates  the  self-evaluation  papers  of  the  employed staff  of  the  educational  institution,  on  the  basis  of which the annual mark is determined;
+c) validates the self-evaluation papers of the employed staff of the educational institution, on the basis of which the annual mark is determined;
 
-- proposes  to  the  Board  of  Directors  measures  for  the optimization of the didactic process;
+d) proposes to the Board of Directors measures for the optimization of the didactic process;
 
-- proposes  to  the  Board  of  Directors  the  curriculum available for the facility;
+e) proposes to the Board of Directors the curriculum available for the facility;
 
-- proposes to the Board of Directors the award and titles of 'teacher of the year' to the staff with special results;
+f) proposes to the Board of Directors the award and titles of 'teacher of the year' to the staff with special results;
 
-- approves the disciplinary actions against students;
+g) approves the disciplinary actions against students;
 
-- proposes to the Board of Directors the sanctioning of the  teaching  staff  for  bad  results,  breaching  of  the professional ethics;
+h) proposes to the Board of Directors the sanctioning of the teaching staff for bad results, breaching of the professional ethics;
 
-- proposes to the Board the initiation of legal procedures in the case of the teaching staff with poor performance or  responsible  for  the  infringement  of  the  code  of ethics;
+i) proposes to the Board the initiation of legal procedures in the case of the teaching staff with poor performance or responsible for the infringement of the code of ethics;
 
-- proposes  to  the  Board  of  Directors  the  training  and continuous learning programs for the teaching staff;
+j) proposes to the Board of Directors the training and continuous learning programs for the teaching staff;
 
-- appoints the teaching staff to the Board of Directors;
+k) appoints the teaching staff to the Board of Directors;
 
-- performs other tasks decided by the Board of Directors.
+l) performs other tasks decided by the Board of Directors.
 
 ### Section 3. Other institutions connected to pre-university education
 
@@ -1542,13 +1648,13 @@ i) coordinates the collection of statistical data and sends them  to  the  schoo
 
 a) psycho-pedagogical/psychological support services, provided via the county centres and the psychopedagogical/psychological practices;
 
-- speech  therapy  services,  provide  via  the  interschool speech therapy practices and centres;
+b) speech therapy services, provide via the interschool speech therapy practices and centres;
 
-- educational and professional counselling and evaluation;
+c) educational and professional counselling and evaluation;
 
-- school mediation, provided by school mediators;
+d) school mediation, provided by school mediators;
 
-- consultancy services for inclusive education, provided by the inclusive education school centres.
+e) consultancy services for inclusive education, provided by the inclusive education school centres.
 
 (7) The  structure,  organization  and  operation  of  the  County Centre of Educational Resources and Support are decided by a regulation  approved  by  order  of  the  minister  of  education, research, youth and sports.
 
@@ -1582,7 +1688,7 @@ Page 23 of 75
 
 (1) Pre-academic unit financing includes basic financing, complementary financing and additional financing.
 
-(2) The state ensures the basic financing for pre-school children and  obligatory  school  students,  registered  with  the  public  and private education facilities, which are accredited and periodically  assessed,  as  well  as  for  the  special  public  highschool  students.  Basic  financing  takes  place  based  on  and within the limits of the standard cost per student or child, based on  the  methodology  drafted  by  the  Ministry  of  Education, Research, Youth, and Sports.
+(2) The state ensures the basic financing for pre-school children and obligatory school students, registered with the public and private education facilities, which are accredited and periodically assessed, as well as for the special public high-school students. Basic financing takes place based on and within the limits of the standard cost per student or child, based on the methodology drafted by the Ministry of Education, Research, Youth, and Sports.
 
 (3) In the private pre-academic educational system, the tuition is decided  by  each  education  institution  or  facility,  according  to the legislation in force.
 
@@ -1596,23 +1702,23 @@ Page 23 of 75
 
 (1) The Ministry of Education, Research, Youth, and Sports has the right to initiate financial and human resources policies in the field of education , and collaborates with other ministries, local authorities, associative structures representing local authorities, parents'  association,  professional  associations  of  the  teaching staff, as well as with the representative trade unions.
 
-(2) Local councils and the county council, or the local councils of the Bucharest sectors may contribute from their own budgets to the basic and  complementary  financing  of  public preacademic education units.
+(2) Local councils and the county council, or the local councils of the Bucharest sectors may contribute from their own budgets to the basic and complementary financing of public pre-academic education units.
 
 #### Art. 104
 
-(1) The  basic  financing  ensures  the  performance  if  the  preacademic education process in normal conditions, in compliance with the national standards.
+(1) The basic financing ensures the performance if the pre-academic education process in normal conditions, in compliance with the national standards.
 
 (2) The basic financing is ensured from the State budget, from amounts  deducted  from  the  value  added  tax  and  from  other revenues to the State budget, through the local budgets, for the following categories of costs:
 
-- wage costs, bonuses, allowances and other entitlements in cash, provided by the law, and the related contributions;
+a) wage costs, bonuses, allowances and other entitlements in cash, provided by the law, and the related contributions;
 
-- staff's ongoing training and assessment costs;
+b) staff's ongoing training and assessment costs;
 
-- students' periodical internal assessment costs;
+c) students' periodical internal assessment costs;
 
-- material and service costs;
+d) material and service costs;
 
-- current maintenance costs.
+e) current maintenance costs.
 
 (3) Schools' basic financing results from multiplying the standard cost per student/preschooler by specific coefficients of the schools and by the number of students and is approved by Government resolution on an yearly basis.
 
@@ -1624,21 +1730,21 @@ Page 23 of 75
 
 #### Art. 105
 
-(1) The complementary financing ensures capital expenditures, social expenditures and other costs associated to the public preuniversity education process.
+(1) The complementary financing ensures capital expenditures, social expenditures and other costs associated to the public pre-university education process.
 
 (2) The  complementary  financing  is  ensured  from  the  local budgets of the administrative and territorial units to  which the pre-university  educational  units  are  attached,  from  amounts deducted from the value added tax, for the following categories of expenses:
 
-- investments, capital repairs, consolidations;
+a) investments, capital repairs, consolidations;
 
-- subsidies for boarding schools and canteens;
+b) subsidies for boarding schools and canteens;
 
-- expenses for the periodic evaluation of students;
+c) expenses for the periodic evaluation of students;
 
-- expenses with the students' scholarships;
+d) expenses with the students' scholarships;
 
-- expenses with the students' transportation, in compliance with the provisions of Art. 84 paragraph (1);
+e) expenses with the students' transportation, in compliance with the provisions of Art. 84 paragraph (1);
 
-- commuting expenses incurred by the teaching staff, in compliance with the law;
+f) commuting expenses incurred by the teaching staff, in compliance with the law;
 
 g) expenses for the periodical mandatory medical examination  of  the  employees  in  the  pre-academic  education system,  except  for  those  who,  according  to  law,  benefit  from free medical support;
 
@@ -1648,11 +1754,11 @@ Page 24 of 75
 
 [[START OF PAGE 25]]
 
-- expenses  for  school  competitions  and  extra-curricular activities organized in the educational system;
+h) expenses for school competitions and extra-curricular activities organized in the educational system;
 
-- costs incurred for the provision of the health and safety at work, for the staff employed, preschoolers and students;
+i) costs incurred for the provision of the health and safety at work, for the staff employed, preschoolers and students;
 
-- emergency situation management;
+j) emergency situation management;
 
 k) costs  for  the  participation  into  European  educational and vocational training cooperation projects.
 
@@ -1708,7 +1814,7 @@ a) the fund for the financing of the national programs of the Ministry of Educat
 
 b) the  local  component  afferent  to  the  ongoing  projects, co-financed by the Romanian Government and by international financial  bodies,  as  well  as  the  reimbursement  of  the  external loans afferent to those projects;
 
-- the scholarships for the students from the Republic of Moldova,  as  well  as  the  scholarships  for  the  foreign  students and for the Romanian students abroad;
+c) the scholarships for the students from the Republic of Moldova, as well as the scholarships for the foreign students and for the Romanian students abroad;
 
 d) the organization of evaluations, simulations and national exams;
 
@@ -1718,7 +1824,7 @@ f) the financing, based on Government decisions, initiated  by  the  Ministry  o
 
 g) the  financing  of  social  protection  national  programs, decided by specific regulations;
 
-h) the  financing  for  the  organization,  for  students,  of competitions for their subjects and professional, technical, scientific,  creative  competitions  and  cultural-artistic  festivals, sports championships and competitions, at national and international level, as well as international school Olympiads.
+h) the financing for the organization, for students, of competitions for their subjects and professional, technical, scientific, creative competitions and cultural-artistic festivals,
 
 Page 25 of 75
 
@@ -1726,6 +1832,7 @@ Page 25 of 75
 
 [[START OF PAGE 26]]
 
+sports championships and competitions, at national and international level, as well as international school Olympiads.
 (2) The financing of the expenses regarding the school inspectorates,  the  houses  of  the  teaching  staff,  children  and students' clubs and palaces, psycho-pedagogical and educational support centres and offices, school Sports clubs, is ensured  from  the  state  budget,  through  the  budget  of  the Ministry of Education, Research, Youth, and Sports.
 
 (3) The school sports clubs as well as the children and students' clubs  and  palaces  may  also  be  financed  by  the  local  public government authorities.
@@ -1750,7 +1857,7 @@ Page 25 of 75
 
 (5) The buildings referred to in paragraphs (2)-(4), owned based on rental, lease of bailment contracts are not part of the public local or county property, or of the State property, their owners being other natural persons or legal entities.
 
-(6) The  purpose  of  the  resource  base  belonging  to  the  preacademic education institutions and facilities can be changed by the local authorities, only with the approval of the Ministry of Education, Research, Youth, and Sports. Otherwise, the modification deeds are null and void, and the deed is considered a  criminal  offence  and  is  punished  according  to  the  criminal law.
+(6) The  purpose  of  the  resource  base  belonging  to  the  pre-academic education institutions and facilities can be changed by the local authorities, only with the approval of the Ministry of Education, Research, Youth, and Sports. Otherwise, the modification deeds are null and void, and the deed is considered a  criminal  offence  and  is  punished  according  to  the  criminal law.
 
 #### Art. 113
 
@@ -1765,7 +1872,7 @@ The  registration  of  the  right  of  property  on  the  immovable goods belong
 
 (2) The higher education is ensured by universities, academies, institutes, higher education schools, and other such, here in after referred to as higher education institutions or universities.
 
-(3) The higher education institutions  may be public or private, or religious. They are legal persons of public utility, have a nonprofit public interest character and are apolitical.
+(3) The higher education institutions  may be public or private, or religious. They are legal persons of public utility, have a non-profit public interest character and are apolitical.
 
 #### Art. 115
 
@@ -1799,19 +1906,19 @@ ii. by scientific research, innovation and technologic transfer,  collective  an
 
 (1) The  national  higher  educational  system  is  based  on  the following principles:
 
-- the principle of university autonomy;
+a) the principle of university autonomy;
 
-- the principle of academic freedom;
+b) the principle of academic freedom;
 
-- the principle of public responsibility;
+c) the principle of public responsibility;
 
-- the principle of quality assurance;
+d) the principle of quality assurance;
 
-- the principle of equity;
+e) the principle of equity;
 
-- the principle of managerial and financial efficiency;
+f) the principle of managerial and financial efficiency;
 
-- the principle of transparency;
+g) the principle of transparency;
 
 h) the  principle  of  observing  the  students  and  academic staff's rights and freedoms;
 
@@ -1893,7 +2000,7 @@ d) to  ensure  managerial  and  the  efficiency  in  using  the resources,  in  
 
 e) to ensure transparency for all its decisions and activities, according to the legislation in force;
 
-f) to observe the academic freedom of the teaching, nonteaching and research staff, as  well as the students' rights  and freedoms.
+f) to observe the academic freedom of the teaching, non-teaching and research staff, as  well as the students' rights  and freedoms.
 
 (2) In the case of religious universities, the public responsibility is  extended  to  observing  the  status  and  the  dogmatic  and canonical provisions specific to the respective sect.
 
@@ -1989,19 +2096,19 @@ c) the educational, administrative and technical measures taken  in  order  to  
 
 (2) The  Rector  of  the  university  has  the  obligation  present  a report  on  the  university's  status,  on  an  annual  basis,  no  later than in the first working day of the month of April of each year. The report is published on the site of the university and is sent to all the stakeholders. Such report includes at least:
 
-- the financial situation of the universities, on financing sources and types of expenses;
+a) the financial situation of the universities, on financing sources and types of expenses;
 
-- the situation of each study programme;
+b) the situation of each study programme;
 
-- the situation of the university's staff;
+c) the situation of the university's staff;
 
-- the results of the research activities;
+d) the results of the research activities;
 
-- the situation of the quality of the activities performed in universities;
+e) the situation of the quality of the activities performed in universities;
 
 f) the situation of the observance of the academic ethics and of the ethics of the research activity;
 
-- the situation of the vacancies;
+g) the situation of the vacancies;
 
 h) the situation of the professional insertion of the graduates from previous promotions.
 
@@ -2115,11 +2222,11 @@ Page 30 of 75
 
 The study programme forms of organization are:
 
-- daily  attendance  studies,  characterised  by  education and/or  research  activities  scheduled  during  the  whole  day, specific  to  each  cycle  of  university  studies,  approximately evenly distributed on a  weekly/daily basis during the semester and implying the direct meeting, in the university space, of the students with the teaching and research staff;
+i. daily  attendance  studies,  characterised  by  education and/or  research  activities  scheduled  during  the  whole  day, specific  to  each  cycle  of  university  studies,  approximately evenly distributed on a  weekly/daily basis during the semester and implying the direct meeting, in the university space, of the students with the teaching and research staff;
 
-- low attendance studies, characterised by activities that are mainly dedicated to synthesis and practical training, scheduled in a compact and periodical way, implying the direct meeting,  in  the  university  space,  of  the  students  with  the teaching and research staff, completed by other training means specific to the distance education;
+ii. low attendance studies, characterised by activities that are mainly dedicated to synthesis and practical training, scheduled in a compact and periodical way, implying the direct meeting,  in  the  university  space,  of  the  students  with  the teaching and research staff, completed by other training means specific to the distance education;
 
-- distance education, characterised by the use of electronic, computerized and communication means specific to self-teaching and self-evaluation activities completed by specific tutoring activities.
+iii. distance education, characterised by the use of electronic, computerized and communication means specific to self-teaching and self-evaluation activities completed by specific tutoring activities.
 
 #### Art. 140
 
@@ -2167,15 +2274,15 @@ The  higher  education  institution  signs  with  each  registered student/post-
 
 (1) The higher education graduation exams are:
 
-- the  bachelor's  degree  examination,  for  the  bachelor's degree educational studies, or a diploma exam for the engineering study areas;
+a) the  bachelor's  degree  examination,  for  the  bachelor's degree educational studies, or a diploma exam for the engineering study areas;
 
-- the dissertation, for the masters cycle;
+b) the dissertation, for the masters cycle;
 
-- the defence of the PhD thesis;
+c) the defence of the PhD thesis;
 
-- the certification exam,  for  the specialization  postgraduate educational studies;
+d) the certification exam,  for  the specialization  postgraduate educational studies;
 
-- the  selection  exam,  which  precedes  the  bachelor's degree examination, for the students/graduates that come from institutions or programs that are under liquidation.
+e) the  selection  exam,  which  precedes  the  bachelor's degree examination, for the students/graduates that come from institutions or programs that are under liquidation.
 
 (2) The examinations mentioned under paragraph (1) are organized and carried out only by the accredited higher education units, based on an internal regulation approved by the institution's Senate and which observes the master methodology approved  by  the  Ministry  of  Education,  Research,  Youth,  and Sports within 6 months from the date this law enters in force.
 
@@ -2259,8 +2366,9 @@ The  Rector  may  revoke  an  education  certificate  or  diploma, with the appr
 
 (2) For daily attendance, the specific duration of the bachelor's degree education program is, as the case may be, of 3-4 years and  corresponds  to  a  minimum  number  of  60  credits  for  an academic year. The duration of the bachelor's degree education for engineering is of 4 years.
 
-Page 32 of 75 (3) A  minimum  percentage  of  5%  of  the  number  of  students with daily attendance may attend, A minimum percentage of 5%
+(3) A  minimum  percentage  of  5%  of  the  number  of  students with daily attendance may attend, A minimum percentage of 5%
 
+Page 32 of 75
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
@@ -2287,7 +2395,7 @@ of the number of students with daily attendance may attend, 2 years in one, exce
 
 (1) The  diploma  awarded  after  the  graduation  of  a  bachelor's degree education is called 'a bachelor's diploma' or, as the case may  be,  an  'engineering  diploma'  or  an  urban  landscaper's diploma.
 
-(2) The bachelor's diploma, the engineering diploma or, as the case  may  be,  the  urban  landscaper's  diploma  include  all  the information  necessary  to  describe  the  graduated  educational program,  including  the  form  of  attendance  and  the  obtained title. The bachelor's diploma, the engineering diploma or, as the case may be, the urban landscaper's diploma is accompanied by the 'diploma's supplement' ş i which is issued free of charge, in Romanian and in a commonly used foreign language.
+(2) The bachelor's diploma, the engineering diploma or, as the case  may  be,  the  urban  landscaper's  diploma  include  all  the information  necessary  to  describe  the  graduated  educational program,  including  the  form  of  attendance  and  the  obtained title. The bachelor's diploma, the engineering diploma or, as the case may be, the urban landscaper's diploma is accompanied by the 'diploma's supplement' şi which is issued free of charge, in Romanian and in a commonly used foreign language.
 
 ### Section 11. Cycle II - Master's degree education
 
@@ -2399,7 +2507,7 @@ The PhD may be in Romanian, in the language of the national minorities or in a f
 
 #### Art. 162
 
-(1) The PhD education may take place under a co-tutorship, in which  case  the  students  carries  out  his/her  activity  under  the simultaneous guidance of a tutor in Romania and another one in a different country, or a under the guidance of two tutors from different universities in Romania, based on a written agreement between  the  institutions  involved.  PhD  education  under  a  cotutorship may also be organized if the PhD mentors are from the same  IOSUD,  but  have  different  study  specialties/areas,  or  if one  of  the  PhD  mentors  has  reached  the  retirement  age,  in compliance with the university Charter.
+(1) The PhD education may take place under a co-tutorship, in which  case  the  students  carries  out  his/her  activity  under  the simultaneous guidance of a tutor in Romania and another one in a different country, or a under the guidance of two tutors from different universities in Romania, based on a written agreement between  the  institutions  involved.  PhD  education  under  a  co-tutorship may also be organized if the PhD mentors are from the same  IOSUD,  but  have  different  study  specialties/areas,  or  if one  of  the  PhD  mentors  has  reached  the  retirement  age,  in compliance with the university Charter.
 
 Page 34 of 75
 
@@ -2497,9 +2605,9 @@ Page 35 of 75
 
 (1) In  case  the  quality  or  professional  ethics  standards  are  not observed,  the  Ministry  of  Education,  Research,  Youth,  and Sports, based on external evaluation reports drafted as the case may  be,  by  the  National  Council  for  Titles,  Diplomas  and Certificates, National Research Council, the University Council of  Ethics  and  Management  or  and  National  Council  of  Ethics for Research, Technological Development and Innovation, may take the following measures, alternatively or simultaneously:
 
-- to withdraw the PhD mentor competence;
+a) to withdraw the PhD mentor competence;
 
-- to withdraw the PhD title;
+b) to withdraw the PhD title;
 
 c) to withdraw the accreditation of the doctoral organising school, which implies the withdrawal of the right to organize  admissions  for  PhD  programs  in  order  to  select  new students;
 
@@ -2513,9 +2621,9 @@ c) to withdraw the accreditation of the doctoral organising school, which implie
 
 The postgraduate programs are:
 
-- post-PhD programs for advanced research;
+a) post-PhD programs for advanced research;
 
-- postgraduate training and ongoing professional development programs.
+b) postgraduate training and ongoing professional development programs.
 
 ### Section 1. Postgraduate programs
 
@@ -2523,15 +2631,15 @@ The postgraduate programs are:
 
 (1) The advanced research post-PhD programs:
 
-- are programs dedicated to persons who  have received  a  scientific  PhD  diploma  with  at  least  5 years  before  being  admitted  into  the  post-PhD program  and  who  which  to  improve  in  another institution that the one in which they have obtained the PhD title;
+a) are programs dedicated to persons who  have received  a  scientific  PhD  diploma  with  at  least  5 years  before  being  admitted  into  the  post-PhD program  and  who  which  to  improve  in  another institution that the one in which they have obtained the PhD title;
 
-- ensures to the post-PhD researcher the institutional framework for the development of researches;
+b) ensures to the post-PhD researcher the institutional framework for the development of researches;
 
-- have a duration of minimum 1 year;
+c) have a duration of minimum 1 year;
 
-- se may  be  financed  by  public institutions or economic operators;
+d) se may  be  financed  by  public institutions or economic operators;
 
-- within  higher  educational  institutions,  performed in a PhD organizing school based on the research plan  proposed  by  the  post-PhD  researcher  and approved by the hosting institution.
+e) within  higher  educational  institutions,  performed in a PhD organizing school based on the research plan  proposed  by  the  post-PhD  researcher  and approved by the hosting institution.
 
 (2) Within  higher  educational  institutions,  post-PhD  programs may  only  be  organized  in  PhD  program  organizing  schools accredited to organize such programs. Post-PhD programs may also be organized in research and development units.
 
@@ -2577,7 +2685,7 @@ c) university  studies  for  a  master's  degree  have  60-120 transferable ECTS
 
 d) doctoral studies total 240 transferable credits, and the advanced  studies  attended  in  PhD  organizing  schools  total  60 credits;  PhD  studies  may  be  organized  in  UOD  and  IOSUD established  by  consortiums  between  universities  and  hospitals or clinics.
 
-(2) The higher education institutions in the medical and veterinary field accredited based on quality criteria,  may organize forms of education provided in paragraph (1) and postPhD and professional training programs: residency, specialization,  complementary  studies,  for  medical  certificates and ongoing medical and pharmaceutical training certificates.
+(2) The higher education institutions in the medical and veterinary field accredited based on quality criteria,  may organize forms of education provided in paragraph (1) and post-PhD and professional training programs: residency, specialization,  complementary  studies,  for  medical  certificates and ongoing medical and pharmaceutical training certificates.
 
 (3) The doctoral  studies  for  the  graduates  for  the  graduates  of human, veterinary medical and pharmaceutical school last for 4 years.
 
@@ -2743,7 +2851,7 @@ Other aspects  specific  to  the  activity  performed  in  these  areas shall  b
 
 (1) Universities' assessment is made with the purpose of:
 
-- temporary authorisation and accreditation;
+a) temporary authorisation and accreditation;
 
 b) Ranking  the educational programs and classifying universities.
 
@@ -2753,11 +2861,11 @@ b) Ranking  the educational programs and classifying universities.
 
 (4) Universities are classified, based in the assessment provided at paragraph (3), in 3 categories:
 
-- universities, mainly for education;
+a) universities, mainly for education;
 
 b) universities  for  education  and  scientific  research  and artistic creation;
 
-- universities of advanced research and education.
+c) universities of advanced research and education.
 
 (5) The  assessment  provided  at  paragraph  (3)  is  made  by  a consortium  including:  ARACIS  with  student  representatives, CNCS, CNATDCU and an international body with competences in the education institution ranking and classification selected based on a contest .
 
@@ -2815,13 +2923,13 @@ b) public  universities  are  allocated  a  separate  fund  for institutional  d
 
 The  forms  of  support  for  the  teaching  staff,  students  and researchers with outstanding performance include:
 
-- study  or  research  grants  at  universities  in  the  country or abroad, granted through competition;
+a) study  or  research  grants  at  universities  in  the  country or abroad, granted through competition;
 
-- grants for performing and completing research, including PhD thesis;
+b) grants for performing and completing research, including PhD thesis;
 
-- approval certain flexible educational routes, that allow speeding up university studies;
+c) approval certain flexible educational routes, that allow speeding up university studies;
 
-- creating support instruments and mechanisms for their professional insertion in the country, so that they capitalize at a high level both their talent and those acquired by training.
+d) creating support instruments and mechanisms for their professional insertion in the country, so that they capitalize at a high level both their talent and those acquired by training.
 
 ## CHAPTER X: PROMOTING THE UNIVERSITY FOCUSED ON THE STUDENT
 
@@ -3131,9 +3239,9 @@ d) performs  such  other  attributions  as  provided  by  the University Charter
 
 (13) The  university  board  ensures,  under  the  leadership  of  the rector,  or  of  another  person  designated  through  the  University Charter,  in  the  case  of  the  private  and  private  confessional universities,  the  operational  management of the  university and applies the strategic decisions of the University Senate. Moreover, the board:
 
-- sets the budget of the institution in terms of operations;
+a) sets the budget of the institution in terms of operations;
 
-- approves the budget execution and the annual balance;
+b) approves the budget execution and the annual balance;
 
 c) approves  the  proposals  made  for  organising  contests for teaching and research positions;
 
@@ -3147,7 +3255,7 @@ Page 44 of 75
 
 [[START OF PAGE 45]]
 
-f) proposes to the  University  Senate long- and  mediumterm strategies of the university and policies on university areas of interest.
+f) proposes to the  University  Senate long- and  medium-term strategies of the university and policies on university areas of interest.
 
 (14) Students  have  at  least  one  representative  in  the  ethics, accommodation, quality assurance and other social committees.
 
@@ -3201,7 +3309,7 @@ g) elaborates the budget draft for higher education as part of the education bud
 
 h) checks and manages the national system of indicators and databases suitable for monitoring and forecasting its evolution in relation to the labour market;
 
-- supports studies and research on higher education;
+i) supports studies and research on higher education;
 
 j) publishes an annual report concerning the higher education status.
 
@@ -3377,7 +3485,7 @@ Page 47 of 75
 
 [[START OF PAGE 48]]
 
-(2) Remaining  funds  at  the  end  of  the  year  from  the  budget execution  stipulated  in  the  institutional  agreements  and  also funds related to scientific research academic and extrabudgetary  revenue,  remain  available  to  universities  and  are included in the revenues and expenditures budget of the institution,  without  amounts  payable  to  the  state  budget  and without affecting allocations form the state budget for next year.
+(2) Remaining  funds  at  the  end  of  the  year  from  the  budget execution  stipulated  in  the  institutional  agreements  and  also funds related to scientific research academic and extra-budgetary  revenue,  remain  available  to  universities  and  are included in the revenues and expenditures budget of the institution,  without  amounts  payable  to  the  state  budget  and without affecting allocations form the state budget for next year.
 
 #### Art. 226
 
@@ -3453,9 +3561,9 @@ b) legal entities.
 
 The financing sources of private higher educational institutions and private higher confessional educational institutions include:
 
-- the amounts contributed by their founders;
+a) the amounts contributed by their founders;
 
-- the tuition fee and other educational fees;
+b) the tuition fee and other educational fees;
 
 c) sponsorships, donations, grants, financing granted on a competitive basis, exploitation of the research, development and innovation sources, and other legal sources.
 
@@ -3475,13 +3583,13 @@ Page 48 of 75
 
 The statute regulates:
 
-- the  positions,  the  competences,  the  responsibilities,  the specific rights and obligations of the teaching staff and the auxiliary  staff,  as  well  as  of  the  managerial,  vocational guidance and control staff;
+a) the  positions,  the  competences,  the  responsibilities,  the specific rights and obligations of the teaching staff and the auxiliary  staff,  as  well  as  of  the  managerial,  vocational guidance and control staff;
 
-- the initial and continuous training of the teaching staff and of the managerial, vocational guidance and control staff;
+b) the initial and continuous training of the teaching staff and of the managerial, vocational guidance and control staff;
 
-- the conditions and the methods for holding the teaching and auxiliary  jobs  and  positions,  the  managerial,  vocational guidance and control positions as well as the conditions and methods for the dismissal from these jobs and positions, for ceasing  the  activity  and  for  retiring  of  the  teaching  and auxiliary staff;
+c) the conditions and the methods for holding the teaching and auxiliary  jobs  and  positions,  the  managerial,  vocational guidance and control positions as well as the conditions and methods for the dismissal from these jobs and positions, for ceasing  the  activity  and  for  retiring  of  the  teaching  and auxiliary staff;
 
-- the criteria for regulating and granting distinctions and for applying the sanctions.
+d) the criteria for regulating and granting distinctions and for applying the sanctions.
 
 #### Art. 233
 
@@ -3503,9 +3611,9 @@ The statute regulates:
 
 a) the performance of any trade activity within the educational institution or in the bordering area;
 
-- the trade with obscene or pornographic written, audio or visual materials;
+b) the trade with obscene or pornographic written, audio or visual materials;
 
-- the public performance of lubricious activities or others that involve the obscene exhibition of the body.
+c) the public performance of lubricious activities or others that involve the obscene exhibition of the body.
 
 #### Art. 235
 
@@ -3517,11 +3625,11 @@ b) the military, intelligence, public order, national security and civil teachin
 
 c) the  military,  intelligence,  public  order  and  national security  teaching  staff  have  the  rights  and  duties  arising  from this  law  and  from  the  quality  of  active  militaries,  respectively from the quality of civil servant with special status;
 
-- for the teaching positions corresponding to the military, intelligence, public order and national security instructors, the conditions required to fill such positions, as well as the teaching workloads, competences and responsibilities are set though own instructions;
+d) for the teaching positions corresponding to the military, intelligence, public order and national security instructors, the conditions required to fill such positions, as well as the teaching workloads, competences and responsibilities are set though own instructions;
 
-- the teaching staff training is made in compliance with the  provisions  of  this  law  and  with  the  specific military, intelligence, public order and national security regulations;
+e) the teaching staff training is made in compliance with the  provisions  of  this  law  and  with  the  specific military, intelligence, public order and national security regulations;
 
-- the  teaching staff,  including  the  military,  intelligence, public order and national security teaching staff may obtain the tenure and the teaching degrees in compliance with the conditions set in this law.
+f) the  teaching staff,  including  the  military,  intelligence, public order and national security teaching staff may obtain the tenure and the teaching degrees in compliance with the conditions set in this law.
 
 ### Section 2. Initial and continuous training. Teaching career
 
@@ -3529,15 +3637,9 @@ c) the  military,  intelligence,  public  order  and  national security  teachin
 
 (1) The initial training for holding a teaching position includes:
 
-a)
+a) the  initial,  theoretic  and  specialized  training  in  the universities during special programmes accredited in accordance with the law;
 
-the  initial,  theoretic  and  specialized  training  in  the
-
-universities during special programmes
-
-accordance with the law;
-
-- a master of arts in teaching of 2 years;
+b) a master of arts in teaching of 2 years;
 
 c) the practice  period  during one  school  year  in an educational  institution,  under  the  coordination  of  a  mentor teacher.
 
@@ -3555,13 +3657,13 @@ c) the practice  period  during one  school  year  in an educational  institutio
 
 (1) The students and the graduates of the higher education who
 
-accredited in choose the teaching career are obliged to graduate the two-year courses of a Master of Arts in teaching.
-
 Page 49 of 75
 
 [[END OF PAGE 49]]
 
 [[START OF PAGE 50]]
+
+choose the teaching career are obliged to graduate the two-year courses of a Master of Arts in teaching.
 
 (2) The learning programmes of the Master of Arts in teaching are  established  according  to  the  professional  standards  for  the teaching positions and are approved by the Ministry of Education,  Research,  Youth,  and  Sports,  and  accredited  in compliance with the law.
 
@@ -3711,13 +3813,15 @@ f) the development and extension of the cross competences  in  the  interaction 
 
 (5) Apart from one or several specializations, the teaching staff may  acquire  didactic  competences  for  the  disciplines  in  the same  fundamental  area  as  the  graduation  area,  by  training programmes by Government decision.
 
-(6) The  teaching  staff,  as  well  as  the  managerial,  vocational guidance  and  control  staff  in  the  pre-university  education  is obliged to participate periodically to continuous training programs so as to cumulate at least 90 professional transferable credits  every  5  years,  starting  from  the  date  the  exam  for permanent teacher certification was passed.
+(6) The teaching staff, as well as the managerial, vocational guidance and control staff in the pre-university education is
 
 Page 51 of 75
 
 [[END OF PAGE 51]]
 
 [[START OF PAGE 52]]
+
+obliged to participate periodically to continuous training programs so as to cumulate at least 90 professional transferable credits every 5 years, starting from the date the exam for permanent teacher certification was passed.
 
 (7) The professional training programs enter the attributes of the higher education institutions and develop according to specific methodological norms.
 
@@ -3731,7 +3835,7 @@ Page 51 of 75
 
 (3) Only the teachers who are members of the national body of experts in educational management can hold managerial, vocational guidance and control positions in the education units and the school inspectorates.
 
-### Section 3. The teaching positions and the auxiliary positions Conditions for holding the positions
+### Section 3. The teaching positions and the auxiliary positions - Conditions for holding the positions
 
 #### Art. 247
 
@@ -3755,7 +3859,7 @@ h) in  the  inter  school  speech  therapy  centres  and  in  the school  workro
 
 i) in the Teaching Staff Resource Centres: methodologist teacher,  associate  professor,  trainer,  professional  development mentor;
 
-j) in  the  school  sports  clubs:  teacher,  coach,  coachteacher;
+j) in the school sports clubs: teacher, coach, coach-teacher;
 
 k) for extra school activities: teacher;
 
@@ -3785,15 +3889,15 @@ b) graduation of the two-year Master of Arts in teaching. (2) In order to perfor
 
 The auxiliary staff is composed of:
 
-- librarian, resource teacher, editor;
+a) librarian, resource teacher, editor;
 
-- computer specialist;
+b) computer specialist;
 
-- laboratory assistant;
+c) laboratory assistant;
 
-- technician;
+d) technician;
 
-- school pedagogue;
+e) school pedagogue;
 
 Page 52 of 75
 
@@ -3805,7 +3909,31 @@ f) extra school education instructor; g) social assistant; h) chorus master; i) 
 
 #### Art. 250
 
-The following conditions must be accomplished for holding the auxiliary positions: a) for the position of librarian, resource teacher and editor -  the  graduation  with  degree  of  an  education  institution,  the library  management  section,  or  of  other  education  institutions whose  graduates  have  studied  during  the  schooling  period  the profile disciplines in the library management area; the librarian, resource teacher and editor positions can be held by graduates of the postgraduate institutions or of high school with a degree in  the  area  /  the  graduation  with  degree  of  an  education institution, the library management section, or of other education institutions whose graduates have studied during the schooling period the profile disciplines in the library management  area;  the  librarian,  resource  teacher  and  editor positions  can  also  be  held  by  other  graduates  with  degree  of higher  education  institutions,  postgraduate  institutions  or  high school, on fixed term, if they have followed an initiation course in the area; b) for  the  computer specialist position - graduation  with degree of a higher education institution, or of a specialized preuniversity training unit; c) for  the  position  of  laboratory  assistant  -  graduation with degree of a higher education institution, of a postgraduate institution or of the specific high school; d) technician -the graduation of a postgraduate institution or of the specific high school, graduation with degree in the profile of the job of a postgraduate institution or of high school,  followed  by  an  initiation  course  in  the  area,  under  the conditions  established  by  order  of  the  minister  of  Education, Research, Youth, and Sports; e) for  the  position  of  school  pedagogue  -  graduation  of high school by baccalaureate exam; f) for the position of extracurricular education instructorgraduation  with  degree  of  a  higher  education  institution,  of  a special postgraduate school, or of a pedagogical high school or its  equivalent  or  of  other  high  school  and  the  graduation  of special  studies for  obtaining  the  certificate  of  professional qualification for this position; g) for  the  position  of  social  assistant  -  graduation  of  a specialized higher education institution of long or short duration,  by  graduation  exam  /  final  examination  or  of  a postgraduate  sanitary  school  or  of  a  postgraduate  school  for paediatric nurses; h) for  the  position  of  chorus  master  -  graduation  of  a specialized higher education institution of long or short duration, or of a specialized high school; i) for the position of school mediator - graduation with a graduation degree in the specialization  social assistance or the graduation  with  a  baccalaureate  diploma  of  the  pedagogical high school, the school mediator specialization, or the graduation  with  a  baccalaureate  diploma  of  any  other  high school, followed by a professional training course in the school mediator specialization, approved by the Ministry of Education, Research, Youth, and Sports; j) for  the  position  of  secretar y -  graduation  of  higher education  institution,  respectively  of  a  high  school  with  a baccalaureate  diploma  or  the  graduation  of  a  postgraduate education institution, for secretariat activities, in the secretariat technician specialty; k) for the position of financial administrator - meeting the conditions stipulated by the current legislation for the position of accountant, chief-accountant; l) for the position of asset manager  meeting the conditions  provided  in  the  applicable  law  for  the  position engineer/ junior engineer, economist.
+The following conditions must be accomplished for holding the auxiliary positions:
+
+a) for the position of librarian, resource teacher and editor – the graduation with degree of an education institution, the library management section, or of other education institutions whose graduates have studied during the schooling period the profile disciplines in the library management area; the librarian, resource teacher and editor positions can be held by graduates of the postgraduate institutions or of high school with a degree in the area / the graduation with degree of an education institution, the library management section, or of other education institutions whose graduates have studied during the schooling period the profile disciplines in the library management area; the librarian, resource teacher and editor positions can also be held by other graduates with degree of higher education institutions, postgraduate institutions or high school, on fixed term, if they have followed an initiation course in the area;
+
+b) for the computer specialist position – graduation with degree of a higher education institution, or of a specialized pre-university training unit;
+
+c) for the position of laboratory assistant – graduation with degree of a higher education institution, of a postgraduate institution or of the specific high school;
+
+d) technician – the graduation of a postgraduate institution or of the specific high school, graduation with degree in the profile of the job of a postgraduate institution or of high school, followed by an initiation course in the area, under the conditions established by order of the minister of Education, Research, Youth, and Sports;
+
+e) for the position of school pedagogue – graduation of high school by baccalaureate exam;
+
+f) for the position of extracurricular education instructor – graduation with degree of a higher education institution, of a special postgraduate school, or of a pedagogical high school or its equivalent or of other high school and the graduation of special studies for obtaining the certificate of professional qualification for this position;
+
+g) for the position of social assistant - graduation of a specialized higher education institution of long or short duration, by graduation exam / final examination or of a postgraduate sanitary school or of a postgraduate school for paediatric nurses;
+
+h) for the position of chorus master - graduation of a specialized higher education institution of long or short duration, or of a specialized high school;
+
+i) for the position of school mediator – graduation with a graduation degree in the specialization social assistance or the graduation with a baccalaureate diploma of the pedagogical high school, the school mediator specialization, or the graduation with a baccalaureate diploma of any other high school, followed by a professional training course in the school mediator specialization, approved by the Ministry of Education, Research, Youth, and Sports;
+
+j) for the position of secretary - graduation of higher education institution, respectively of a high school with a baccalaureate diploma or the graduation of a postgraduate education institution, for secretariat activities, in the secretariat technician specialty;
+
+k) for the position of financial administrator – meeting the conditions stipulated by the current legislation for the position of accountant, chief-accountant;
+
+l) for the position of asset manager – meeting the conditions provided in the applicable law for the position engineer/ junior engineer, economist.
 
 #### Art. 251
 
@@ -3819,13 +3947,13 @@ The following conditions must be accomplished for holding the auxiliary position
 
 The  qualified teaching staff who  do  not hold  permanent positions  and  who  took  part  into  the  national  appointment contest  in  the  last  3  years,  before  the  enactment  of  this  law, were graded with 7 as a minimum and occupied a position/chair,  become  the  holder  of  the  position/chair  in  the school in question if: a) the viability of the position/chair is verified;
 
-- the board of the school in question agrees.
+b) the board of the school in question agrees.
 
 ### Section 4. Forms of employment of the teaching staff
 
 #### Art. 254
 
-(1) In the education institutions or in the school consortiums the teaching staff can be employed with an individual long term or short term employment contract of at least one school year with the possibility to extend the contract, respectively in the payment per hour, under the conditions of the law.
+(1) In the education institutions or in the school consortiums the teaching staff can be employed with an individual long term or short term employment contract of at least one school year with the possibility to extend the contract, respectively in the
 
 Page 53 of 75
 
@@ -3833,7 +3961,9 @@ Page 53 of 75
 
 [[START OF PAGE 54]]
 
-(2) The teaching positions in the education institution or in the school  consortium  are  established  according  to  the  current norms on the learning formations.
+payment per hour, under the conditions of the law.
+
+(2) The teaching positions in the education institution or in the school consortium are established according to the current norms on the learning formations.
 
 (3) In the public, and private pre-university education the teaching  positions  are  held  after  a  job  competition  organized within the education institution with legal personality according to  the  framework  methodology  elaborated  by  the  Ministry  of Education, Research, Youth.
 
@@ -3871,9 +4001,9 @@ b) the presentation of a curriculum vitae and the participation to an employment
 
 a) to the permanently employed teachers in an education institution  in  order  to  supplement  the  required  number  of official teaching workload;
 
-- to debutant teachers who perform their practical training;
+b) to debutant teachers who perform their practical training;
 
-- to the candidates who were not distributed after the job competition organized at the level of the education unit or the school consortiums;
+c) to the candidates who were not distributed after the job competition organized at the level of the education unit or the school consortiums;
 
 d) to retired teachers in compliance with the professional competence criteria
 
@@ -3919,7 +4049,7 @@ Page 54 of 75
 
 (4) The  vocational  guidance  and  control  positions  in  the  pre university education are distributed at:
 
-- the school inspectorates: school inspector;
+a) the school inspectorates: school inspector;
 
 b) at  the  Ministry  of  Education,  Research,  Youth,  and Sports:  general  inspector,  main  inspector  for  a  specialization, other positions set by Government decision.
 
@@ -3955,7 +4085,7 @@ b) at  the  Ministry  of  Education,  Research,  Youth,  and Sports:  general  i
 
 (2) The  general  school  inspectors,  the  assistant  general  school inspectors  and  the  directors  of  the  Teaching  Staff  Resource Centre conclude the management contract with the minister of Education,  Research,  Youth,  and  Sports.  The  management contract can be extended with the consent of the parties after the evaluation of the management performances.
 
-(3) The  directors  of  the  units  for  extra  school  activities  are appointed  by  the  general  school  inspector  or  the  minister  of Education,  Research,  Youth,  and  Sports  according  to  their subordination,  after  a  public  job  competition  based  on  the methodology elaborated by the Ministry of Education, Research, Youth, and Sports. The director concludes a management contract  with  the  general  school  inspector  or  the minister of Education, Research, Youth, and Sports, according to their subordination. The management contract can be extended with the consent of the parties after the evaluation of the management performances.
+(3) The directors of the units for extra school activities are appointed by the general school inspector or the minister of Education, Research, Youth, and Sports according to their subordination, after a public job competition based on the methodology elaborated by the Ministry of Education, Research, Youth, and Sports. The director concludes a management contract with the general school inspector or the minister of Education, Research, Youth, and Sports, according to their subordination. The management contract can be extended with the consent of the parties after the evaluation of
 
 Page 55 of 75
 
@@ -3963,15 +4093,17 @@ Page 55 of 75
 
 [[START OF PAGE 56]]
 
+the management performances.
+
 #### Art. 260
 
 (1) The managerial positions in the school inspectorates and the director position of the Teaching Staff Resource Centre can be hold  after  a  job  competition  by  the  permanently  employed teachers  with  bachelor's  degrees  who  are  members  of  the national  body  of  experts  in  educational  management  and  who comply with the professional and managerial competence criteria and with the moral prestige, evaluated by:
 
-- curriculum vitae;
+a) curriculum vitae;
 
 b) the  qualities  proven  in  the  teaching  activity  and  on previous managerial, vocational guidance and control positions in the national education system;
 
-- the title of doctor or the didactical qualification level I;
+c) the title of doctor or the didactical qualification level I;
 
 d) the  grade  ' foarte  bine '  -  'very  good'  in  the  past  5 years;
 
@@ -4013,9 +4145,9 @@ b) for  the  position  of  assistant  general  school  inspector and director of
 
 (4) The  competition  for  holding  the  vocational  guidance  and control positions comprises the following:
 
-- analysis and evaluation of the curriculum vitae;
+a) analysis and evaluation of the curriculum vitae;
 
-- special inspection at the classroom;
+b) special inspection at the classroom;
 
 c) practical  test:  assistance  during  the  teaching,  analysis of the lesson and drawing up of the minutes on the inspection;
 
@@ -4039,7 +4171,7 @@ e) written test according to the profile of the position they candidate for.
 
 (1) The  activity  of  the  teaching  staff  is  performed  in  a  daily interval  of  8  hours,  respectively  40  hours  per  week,  and comprises:
 
-a) activities of teaching  learning  -  evaluation  and practical  training,  and  examinations  at  the  end  of  the  study cycle, according to the educational plans;
+a) activities of teaching – learning – evaluation and practical training, and examinations at the end of the study cycle, according to the educational plans;
 
 b) activities of methodological and scientific training;
 
@@ -4113,7 +4245,7 @@ g) one position for a resource teacher in the documentation and information cent
 
 a) public gratification point;
 
-b) 'Gheorghe Laz ă r' diploma, I st , II nd and III rd class;
+b) 'Gheorghe Lazăr' diploma, Ist, IInd and IIIrd class;
 
 c)  certificate  of  excellence,  which  is  granted  to  the retired  and  the  retiring  teaching  staff  that  had  an  excellent activity in the education.
 
@@ -4281,7 +4413,7 @@ b) the  minister  of  Education,  Research,  Youth,  and Sports  for  all  the  
 
 (1) For the teaching personnel working in pre-university education  institution,  the  director  or  at  least  two  thirds  of  the total  number  of  members  in  the  administrative  board  may propose the sanction. The sanctions approved by the administrative  board  are  applied  and  communicated  under  a decision of the director of the pre university education institution.
 
-(2) For the  management  staff  in  the  pre-university  educational institutions, the school Board may propose the sanction, which shall  be  communicated  under  a  decision  of  the  general  school inspectorate.
+(2) For the management staff in the pre-university educational
 
 Page 59 of 75
 
@@ -4289,7 +4421,9 @@ Page 59 of 75
 
 [[START OF PAGE 60]]
 
-(3) For  the  management  of  school  inspectorates  and  teaching staff clubs  ( Ro.  casele  corpului  didactic ), the  proposal  to penalise  shall  be  made  by  the  minister  of  education,  research, youth  and  sports  and  shall  be  communicated  by  means  of  an order.
+institutions, the school Board may propose the sanction, which shall be communicated under a decision of the general school inspectorate.
+
+(3) For the management of school inspectorates and teaching staff clubs (Ro. casele corpului didactic), the proposal to penalise shall be made by the minister of education, research, youth and sports and shall be communicated by means of an order.
 
 (4) For the vocational guidance and control staff in the Ministry of  Education,  Research,  Youth,  and  Sports,  the  minister  of education,  Research,  Youth,  and  Sports,  respectively  the  State secretary or the hierarchic superior of the respective person can propose the sanction, which shall be communicated by means of an order.
 
@@ -4319,23 +4453,23 @@ The  patrimonial  responsibility of the teaching and  of the auxiliary staff as 
 
 (1) The  teaching  positions  in  the  higher  education  institutions are the following:
 
-- assistant professor;
+a) assistant professor;
 
-- university lecturer;
+b) university lecturer;
 
-- lecturer;
+c) lecturer;
 
-- university professor.
+d) university professor.
 
 (2) The  research  positions  in  the  higher  education  institutions are the following:
 
 a) research assistant;
 
-- scientific researcher;
+b) scientific researcher;
 
-- scientific researcher, III rd degree;
+c) scientific researcher, IIIrd degree;
 
-- scientific researcher, II nd degree;
+d) scientific researcher, IInd degree;
 
 e) scientific researcher, I st degree.
 
@@ -4363,11 +4497,11 @@ d) scientific  researcher,  I st degree  equals  to  university professor.
 
 (2) The teaching positions and the number of jobs are established keeping into account the following:
 
-- the education plans;
+a) the education plans;
 
-- the learning formations;
+b) the learning formations;
 
-- the teaching and research norms.
+c) the teaching and research norms.
 
 (3) The occupied or  the  vacant  teaching  and  research  jobs  are hierarchically enlisted in the teaching positions chart, mentioning  the  corresponding  teaching  and  research  positions and the weekly number of hours distributed per official teaching workload,  seminaries,  practical  work  or  laboratory  projects, project  mentoring, undergraduate  student  and  PhD  student mentoring,  practical  specialty  work,  research  and  equivalent activities, for the disciplines in the education plan.
 
@@ -4385,9 +4519,9 @@ Page 60 of 75
 
 (7) The general classification of auxiliary teaching and research positions  in  the  higher  education  and  the  level  of  the  studies requested for these positions are elaborated by the Ministry of Education,  Research,  Youth,  and  Sports  together with the Ministry of Work, Family and Social Security.
 
-(8) The  auxiliary  teaching  and  research  staff  and  the  nonteaching  staff  are  employed  after  a  job  competition  organized by  the  faculty  or  the  doctoral  school,  in  accordance  with  the law.
+(8) The auxiliary teaching and research staff and the non-teaching staff are employed after a job competition organized by the faculty or the doctoral school, in accordance with the law.
 
-(9) The  duties  of  the  auxiliary  teaching  staff  and  the  nonteaching  staff  are  established  in  the  individual  job  description that is approved, as the case may be, by the dean or by the head of department or by the leader of the doctoral school, and that should be endorsed by the rector and should be attached to the individual employment contract.
+(9) The duties of the auxiliary teaching staff and the non-teaching staff are established in the individual job description that is approved, as the case may be, by the dean or by the head of department or by the leader of the doctoral school, and that should be endorsed by the rector and should be attached to the individual employment contract.
 
 #### Art. 287
 
@@ -4459,7 +4593,7 @@ d)  assistant  professor:  11,  including  activities  mentioned  at paragraph (
 
 (18) The research staff with short term or long term employment contract can hold distinct positions in the departments, doctoral schools, research and micro production units or centres.
 
-(19) The research staff in the higher education performs specific activities  established  in  the  individual  job  description  by  the management  of  the  department,  or  the  management  of  the doctoral school.
+(19) The research staff in the higher education performs specific
 
 Page 61 of 75
 
@@ -4467,7 +4601,9 @@ Page 61 of 75
 
 [[START OF PAGE 62]]
 
-(20) The  auxiliary  and  the  non-teaching  staff  in  the  higher education perform specific activities established in the individual  job  description.  In  state-owned  higher  educational institutions, the weekly  work  time  is  identical  to  the  one established  for  the  staff  with  equivalent  positions  in  the  other sectors of the State, in accordance with the law.
+activities established in the individual job description by the management of the department, or the management of the doctoral school.
+
+(20) The auxiliary and the non-teaching staff in the higher education perform specific activities established in the individual job description. In state-owned higher educational institutions, the weekly work time is identical to the one established for the staff with equivalent positions in the other sectors of the State, in accordance with the law.
 
 (21) The  personnel  holding  management  positions  in  a  higher education institution  or  performing  guidance  and  control  tasks as per the Ministry of Education, Research, Youth and Sports, may enjoy a reduction of the workload by not more than 30%, subject to the approval of the University Senate.
 
@@ -4593,7 +4729,7 @@ The universities decide on holding the teaching positions, on the evaluation,  t
 
 (1) The job habilitation involves the following:
 
-- Preparing an habilitation thesis;
+a) Preparing an habilitation thesis;
 
 b) Publicly defending the habilitation thesis in front of a specialty  commission  assigned  by  CNATDCU  (The  National Commission  for  the  Attestation  of  University  Titles,  Degrees, Certificates),  that  should  be  formed  of  at  least  3  people  who should be PhD mentors in Romania or abroad;
 
@@ -4601,7 +4737,7 @@ c) Admitting  the  habilitation  thesis  after  being  publicly defended;
 
 d) Getting the habilitation certificate.
 
-(2) The habilitation thesis must prove the teaching and research capacities  and  performances.  That  thesis  should  present  in  a document  way  the  professional  achievements  obtained  after getting the PhD, should prove the originality and relevance of the academic,  scientific  and  professional  contributions  and should be capable of anticipating an independent development of the candidate's future research and/or academic career.
+(2) The habilitation thesis must prove the teaching and research capacities and performances. That thesis should present in a document way the professional achievements obtained after getting the PhD, should prove the originality and relevance of
 
 Page 63 of 75
 
@@ -4609,7 +4745,9 @@ Page 63 of 75
 
 [[START OF PAGE 64]]
 
-(3) Only people who  hold a PhD  diploma  and who  are compliant with the minimal standards that are established as per Art. 219, paragraph (1), letter a) may sign up for the habilitation exam.
+the academic, scientific and professional contributions and should be capable of anticipating an independent development of the candidate's future research and/or academic career.
+
+(3) Only people who hold a PhD diploma and who are compliant with the minimal standards that are established as per Art. 219, paragraph (1), letter a) may sign up for the habilitation exam.
 
 (4) The habilitation application must be lodged with CNATDCU (The National  Commission  for  the  Attestation  of University Titles, Degrees, Certificates).
 
@@ -4651,7 +4789,7 @@ d)  complying  with  the  teaching  position  occupation  standards, that  are  
 
 (8) In the medical  higher  education  the candidates in the competition for holding the position of assistant professor must have at least the title of resident. The  positions for the disciplines  that  have  no  correspondent  in  the  network  of  the Ministry  of  Health  and  the  positions  related  to  pre-clinical positions are exceptions of the above.
 
-(9) In the medical  higher  education,  the  candidates  in  the competition for holding the position of lecturer ( Sef de Lucrari ) and university lecturer ( conferentiar ) must also have the title of specialist physician, whereas the candidates in the competition to occupy a professor's position must also be primary doctors. The  positions  associated  to  disciplines  that  do  not  have  a corresponding position in the network of the Ministry of Health and the pre-clinical disciplines are an exception to this rule.
+(9) In the medical higher education, the candidates in the competition for holding the position of lecturer (Şef de Lucrari) and university lecturer (conferentiar) must also have the title of specialist physician, whereas the candidates in the competition to occupy a professor's position must also be primary doctors. The positions associated to disciplines that do not have a corresponding position in the network of the Ministry of Health and the pre-clinical disciplines are an exception to this rule.
 
 ### Section 3. Evaluation of the teaching staff' quality
 
@@ -4683,7 +4821,7 @@ d)  complying  with  the  teaching  position  occupation  standards, that  are  
 
 (4) The  teaching  and  research  staff  has  the  right  to  publish studies, Art.s, volumes or works of art, and to apply for national or  international  grants,  with  no  restrictions  of  the  academic freedom.
 
-(5) The teaching  and  research  staff  has  the  right  to  be  part  of union associations and organizations, of professional and cultural associations and organizations, national and international, as well as of political associations legally established, in accordance with the law.
+(5) The teaching and research staff has the right to be part of union associations and organizations, of professional and cultural associations and organizations, national and international, as well as of political associations legally
 
 Page 64 of 75
 
@@ -4691,7 +4829,9 @@ Page 64 of 75
 
 [[START OF PAGE 65]]
 
-(6) The permanently employed (' titular ') professors employed on teaching positions in the education who have been chosen in the Parliament, named in the Government or who hold special positions  in  a  body  of  the  Parliament,  Legislative  Council, Constitutional Court, Ombudsman, the Presidential Administration, the Government and the Ministry of Education, Research,  Youth,  and  Sports  as  well  as  those  who  have  been chosen by the Parliament for the central bodies of the State have the right to reserve the teaching position during the period they hold these offices.  The  teaching staff  may  combine  their teaching  or  research  activities  with  these  public  positions  all throughout their terms in office.
+established, in accordance with the law.
+
+(6) The permanently employed ('titular') professors employed on teaching positions in the education who have been chosen in the Parliament, named in the Government or who hold special positions in a body of the Parliament, Legislative Council, Constitutional Court, Ombudsman, the Presidential Administration, the Government and the Ministry of Education, Research, Youth, and Sports as well as those who have been chosen by the Parliament for the central bodies of the State have the right to reserve the teaching position during the period they hold these offices. The teaching staff may combine their teaching or research activities with these public positions all throughout their terms in office.
 
 (7) The stipulations of paragraph (6) also apply to the permanently  employed  (' titular ')  professors  employed  on  a teaching  position  in  the  education  who  hold  the  office  of prefect, sub prefect, president and vice president of the county council,  mayor,  vice  mayor  as  well  as  to  the  professors  on managerial,  vocational  guidance  and  control  positions  in  the system of education, culture, youth and Sports. The management and the specialization staff in the Teaching  Staff Resource  Centre  enjoy  the  same  rights;  the  teaching  staff appointed  as  management  staff  or  for  specialization  offices within the public authorities and institutions, commissions and agencies that are subordinated to the Presidential Administration,  the  Parliament  or  the  Government  shall  also enjoy these rights.
 
@@ -4727,17 +4867,17 @@ The  teaching staff and the students are protected in the academia by  the  auth
 
 (1) Every university shall have a university ethics commission. (2) The  structure  and membership  of  the  university  ethics commission shall be proposed by the Board, should be endorsed by the University Senate and approved by the Rector. Commission members must be people with professional prestige  and  moral  authority.  People  holding  any  rector,  prorector, pro-dean, administrative manager, department director or director  of  an  R&D,  design,  micro-production  institution  may not be members of the university ethics commission.
 
-- The university  ethics  commission  shall  have  the  following responsibilities:
+(3) The university ethics commission shall have the following responsibilities:
 
-- Analyse and resolve the breaches of university ethics, based on reports or ex officio, according to the university code of ethics and deontology;
+a. Analyse and resolve the breaches of university ethics, based on reports or ex officio, according to the university code of ethics and deontology;
 
-- Prepares  an  annual  report  covering  compliance  with university ethics and ethics of the research activities, that must be  submitted  to  the  rector,  the  University  Senate  and  that  is  a public document;
+b. Prepares an annual report covering compliance with university ethics and ethics of the research activities, that must be submitted to the rector, the University Senate and that is a public document;
 
-- Contributes in the preparation of the university code of ethics and deontology, which is submitted to the Senate so that it can be approved and included in the University Charter;
+c. Contributes in the preparation of the university code of ethics and deontology, which is submitted to the Senate so that it can be approved and included in the University Charter;
 
-- Holds  attributions  that  are  established  as  per  Law 206/2004 governing proper conduct in scientific research activities, technological development and innovation, as amended;
+d. Holds attributions that are established as per Law 206/2004 governing proper conduct in scientific research activities, technological development and innovation, as amended;
 
-- Holds  any  other  responsibilities  that  are  established under  this  law  or  that  are  established  as  per  the  University Charter, according to the laws in force.
+e. Holds any other responsibilities that are established under this law or that are established as per the University Charter, according to the laws in force.
 
 #### Art. 307
 
@@ -4745,7 +4885,7 @@ The  decisions  of  the  university  ethics  commission  must  be endorsed  by  
 
 #### Art. 308
 
-- Any person from inside or outside the university may report
+(1) Any person from inside or outside the university may report
 
 Page 65 of 75
 
@@ -4765,21 +4905,19 @@ Further to such a report, the university ethics commission shall start  the  pro
 
 The  following  deeds  are  considered  serious  violations  against proper conduct in scientific and university activities:
 
-- Plagiarism  of  the  research  or  publications  of  other authors;
+a) Plagiarism of the research or publications of other authors;
 
-- Fabricating results or replaces the results with fictitious data;
+b) Fabricating results or replaces the results with fictitious data;
 
-- Inserting false information in grant or fund applications.
+c) Inserting false information in grant or fund applications.
 
 ### Section 6. Distinctions
 
 #### Art. 311
 
-- The teaching personnel working in higher education institutions  shall  be  awarded  higher  merit  levels,  that  are granted  by  means  of  a  contest.  These  higher  merit  levels shall be granted for 16% of the teaching positions that exist in a higher education institution and account for 25% of the base salary. The merit level shall be granted for five years.
+(1) The teaching personnel working in higher education institutions shall be awarded higher merit levels, that are granted by means of a contest. These higher merit levels shall be granted for 16% of the teaching positions that exist in a higher education institution and account for 25% of the base salary. The merit level shall be granted for five years.
 
-The orders and medals that can be granted to the teaching
-
-(2) staff are the following:
+(2) The orders and medals that can be granted to the teaching staff are the following:
 
 a)  'Spiru  Haret'  Order,  the  classes  'Commander,  Knight and Officer'; the order is granted to the teaching staff holding managerial,  vocational  guidance  and  control  positions  in  the higher education;
 
@@ -4853,7 +4991,7 @@ Page 66 of 75
 
 The penalties that can be enforced on the teacing and research personnel  and  the  auxiliary  teaching  and  research  staff  by  the university  ethics  commission  for  breaches  of  the  university ethics  or  vor  violations  of  proper  conduct  principles  while conducting scientific research are the following
 
-- Written warning;
+a) Written warning;
 
 b) reduction  of  the  basic  income  cumulated  if  necessary with the managerial, vocational guidance and control allowance;
 
@@ -4867,9 +5005,9 @@ e) the cancellation of the employment contract on disciplinary grounds.
 
 Penalties shall be enforced by the university ethics commission on undergraduate students and PhD students for breaches of the university ethics. Students may
 
-- get a written warning;
+a) get a written warning;
 
-- be expelled;
+b) be expelled;
 
 c) get  other  penalties  that  are  specified  in  the  university code ethics and deontology.
 
@@ -4897,7 +5035,7 @@ The penalties established by the university ethics and deontology  commission  s
 
 For  all  violations  against  proper  conduct  principles  in  R&D activities,  committed  by  employees  of  the  higher  education institutions,  that  have  been  found  and  proven,  the  National Council for Ethics of Scientific Research, Technological Development and Innovation shall establish the enforcement of one or more of the following penalties:
 
-- Written warning;
+a) Written warning;
 
 b) Withdrawal  and/or  correction  of  all  papers  that  have been published in violation of proper conduct rules;
 
@@ -5135,11 +5273,11 @@ Page 69 of 75
 
 (1) The  attributions  of  the  Community  Permanent  Learning Centres at local level are the following:
 
-- they perform surveys and analyses on the education and professional training need at local level;
+a) they perform surveys and analyses on the education and professional training need at local level;
 
-- they elaborate local intervention plans in the area of the permanent education;
+b) they elaborate local intervention plans in the area of the permanent education;
 
-- they provide educational services for the children, the young and the adults by:
+c) they provide educational services for the children, the young and the adults by:
 
 i)  remedial  programs  for  acquiring  or  completing  the  key competences, including educational programs of the type 'The second  chance',  or  programs  of  the  type  'Priority  education areas'  for  the  young  and  the  adults  who  have  early  exit  the education system or who do not have a professional qualification.
 
@@ -5147,31 +5285,31 @@ ii) programs for validating the results of the non formal and informal learning;
 
 iii)  programs  for  developing  the  professional  competences for qualification/requalification, professional retraining, perfecting, specialization, professional initiation;
 
-- iv) programs for entrepreneurship education;
+iv) programs for entrepreneurship education;
 
-- personal development programs or leisure programs;
+v) personal development programs or leisure programs;
 
-- vi) organization of promotion activities of the participation to the permanent learning of all the community members;
+vi) organization of promotion activities of the participation to the permanent learning of all the community members;
 
-- they provide information, orientation and counselling services on:
+d) they provide information, orientation and counselling services on:
 
-- the access to education and professional training programs;
+i) the access to education and professional training programs;
 
-- ii)  the  validation  of  the  non  formal  and  informal  learning results;
+ii) the validation of the non formal and informal learning results;
 
-- iii) preparation for holding a job;
+iii) preparation for holding a job;
 
-- they  provide  evaluation  and  certification  services of the non formal and informal learning results;
+e) they provide evaluation and certification services of the non formal and informal learning results;
 
-- they provide the access of the community members to modern means of information and communication;
+f) they provide the access of the community members to modern means of information and communication;
 
-- they  promote  the  partnership  with  the  economic environment;
+g) they promote the partnership with the economic environment;
 
-- they implement the instruments developed at European level, Europass and Youthpass, the Linguistic Passport, as well as the permanent education portfolio;
+h) they implement the instruments developed at European level, Europass and Youthpass, the Linguistic Passport, as well as the permanent education portfolio;
 
-- they  manage  information  on  the  participation  of the beneficiaries to the centre's services;
+i) they manage information on the participation of the beneficiaries to the centre's services;
 
-- The methodology of accreditation, periodic evaluation, organization and operation of the CLPC  is approved by governmental decision.
+(2) The methodology of accreditation, periodic evaluation, organization and operation of the CLPC is approved by governmental decision.
 
 #### Art. 345
 
@@ -5187,7 +5325,7 @@ d) the validation of the learning results -represents the process whereby it is 
 
 e) the certification of the learning results -represents the process during which the results obtained by the person who learns in various contexts, are formally confirmed after an assessment process. It ends with a degree or a certificate.
 
-(2) The acknowledgement of the results of the learning process is  a  process  whereby  the  results  of  the  validated  learning process  are  certified  and  validated  by  granting  learning  result units or qualifications.
+(2) The acknowledgement of the results of the learning process is a process whereby the results of the validated learning
 
 Page 70 of 75
 
@@ -5195,7 +5333,9 @@ Page 70 of 75
 
 [[START OF PAGE 71]]
 
-(3) The learning results in non formal and informal contexts are identified, evaluated and recognised on the basis of a methodology elaborated by the Ministry of Education, Research,  Youth,  and  Sports,  the  Ministry  of  Labour,  Family and Social Affairs and the National Qualification Authority and are approved by governmental decision. The Ministry of Education,  Research,  Youth,  and  Sports  shall  prepare  and approve  under  order  of  the  Minister  of  Education,  Research, Youth  and  Sports  the  methodology  for  the  recognition  of  the non  formal  and  informal  learning  results  of  the  teaching  staff and  for  their  being  considered  as  credits  for  education  and professional training.
+process are certified and validated by granting learning result units or qualifications.
+
+(3) The learning results in non formal and informal contexts are identified, evaluated and recognised on the basis of a methodology elaborated by the Ministry of Education, Research, Youth, and Sports, the Ministry of Labour, Family and Social Affairs and the National Qualification Authority and are approved by governmental decision. The Ministry of Education, Research, Youth, and Sports shall prepare and approve under order of the Minister of Education, Research, Youth and Sports the methodology for the recognition of the non formal and informal learning results of the teaching staff and for their being considered as credits for education and professional training.
 
 #### Art. 346
 
@@ -5261,13 +5401,15 @@ e) Job placement -  represents  the  support  offered  to  the individuals for f
 
 (1) The  Ministry  of  Education,  Research,  Youth,  and  Sports work together with the Ministry of Labour, Family and Social Affairs  for  the  quality  increase,  for  the  synchronization  and continuity of the career counselling and orientation activities a person enjoys during his lifetime.
 
-(2) The Ministries referred to under paragraph (1) establish by common order the joint instruments and methodologies related to the training of specialists in counselling and orientation, the utilization  of  the  EUROPASS  and  Youthpass  instruments,  the organization of common activities with the purpose of sensitizing  the  teachers  and  trainers,  parents,  but  also  of  the general public with regard to the dimension of counselling and orientation within education and professional training.
+(2) The Ministries referred to under paragraph (1) establish by common order the joint instruments and methodologies related to the training of specialists in counselling and orientation, the utilization of the EUROPASS and Youthpass instruments, the
 
 Page 71 of 75
 
 [[END OF PAGE 71]]
 
 [[START OF PAGE 72]]
+
+organization of common activities with the purpose of sensitizing the teachers and trainers, parents, but also of the general public with regard to the dimension of counselling and orientation within education and professional training.
 
 #### Art. 354
 
@@ -5327,13 +5469,15 @@ ii. The failure to comply with the provisions of Art. 143 (5), with a fine betwe
 
 (2) The  minor  offence  shall  be  established  and  the  minor offence-related  fines  provided  under  paragraph  (1)  a)  shall  be enforced  by  the  individuals  authorized  by  the  mayor  in  this respect,  further  to  the  complaint  submitted  by  the  board  of directors of the educational unit.
 
-(3) The  minor  offence  shall  be  established  and  the  minor offence-related  fines  provided  under  paragraph  (1)  a)  shall  be enforced by police officers  or  agencies  within  the  Ministry  of Administration and the Interior, competent in the field.
+(3) The minor offence shall be established and the minor offence-related fines provided under paragraph (1) a) shall be
 
 Page 72 of 75
 
 [[END OF PAGE 72]]
 
 [[START OF PAGE 73]]
+
+enforced by police officers or agencies within the Ministry of Administration and the Interior, competent in the field.
 
 # TITLE VII: FINAL AND TRANSIENT PROVISIONS
 
@@ -5355,7 +5499,7 @@ d) the  high  school  entrance  exam  shall  be  organized according to the prov
 
 e) the  measure  of  giving  EUR  500  for  the  permanent education of each new born shall become applicable as of 2013;
 
-f) the measure of introducing the standard cost per pupil and  the  "financing  according  to  pupil'  principle  shall  become applicable as of 2012;
+f) the measure of introducing the standard cost per pupil and the "financing according to pupil” principle shall become applicable as of 2012;
 
 g) the  provisions  of  Art.  8  shall  enter  into  force  as  of  1 January 2012.
 
@@ -5385,11 +5529,11 @@ the end of the 4 year period after the entry into force hereof.
 
 On  the  date  when  this  law  enters  into  force,  the  State  higher education institutions with teaching activities in the language of national  minorities,  having  the  statute  of  multicultural  and multi-language universities, as provided by this law, shall be the following:
 
-(1) Babe ş -Bolyai  University  in  Cluj-Napoca  -  in  Romanian, Hungarian and German languages;
+(1) Babeş-Bolyai University in Cluj-Napoca - in Romanian, Hungarian and German languages;
 
-(2) Medicine  and  Pharmacy  University  in  Târgu  Mure ş -  in Romanian and Hungarian languages;
+(2) Medicine and Pharmacy University in Târgu Mureş - in Romanian and Hungarian languages;
 
-(3) University  of  Theatre  Arts  in  Târgu  Mure ş -  in  Romanian and Hungarian languages.
+(3) University of Theatre Arts in Târgu Mureş - in Romanian and Hungarian languages.
 
 #### Art. 364
 
@@ -5409,77 +5553,77 @@ Page 73 of 75
 
 # LIST OF DEFINITIONS FOR THE TERMS AND EXPRESSIONS USED HEREIN
 
-- Empowerment - the certification of an individual's capacity to coordinate PhD dissertations and hold the didactic and research position of professor;
+(1) Empowerment - the certification of an individual's capacity to coordinate PhD dissertations and hold the didactic and research position of professor;
 
-- Accreditation - the process whereby the concerned educational unit/institution/organization  acquires,  based  on  the  external evaluation conducted in accordance with this law, the right to organize entrance examinations, carry out the learning process, organize end-of- study exams and issue diplomas and certificates acknowledged by the Ministry of Education, Research, Youth and Sports;
+(2) Accreditation - the process whereby the concerned educational unit/institution/organization acquires, based on the external evaluation conducted in accordance with this law, the right to organize entrance examinations, carry out the learning process, organize end-of-study exams and issue diplomas and certificates acknowledged by the Ministry of Education, Research, Youth and Sports;
 
-- Education quality assurance - the capacity of an educational service supplier organization to provide educational programs  according  to  announced  standards,  ensured  by  a  set  of actions meant to develop the institutional capacity, and draft, plan and implement  study  programs,  which  builds  the  beneficiaries'  trust  in  the fact  that  the  educational  service  supplier  organization  meets  quality standards;
+(3) Education quality assurance - the capacity of an educational service supplier organization to provide educational programs according to announced standards, ensured by a set of actions meant to develop the institutional capacity, and draft, plan and implement study programs, which builds the beneficiaries' trust in the fact that the educational service supplier organization meets quality standards;
 
-- Provisional functioning authorization - the process whereby  the  concerned  educational  unit/institution/organization,  based on the external evaluation performed in accordance with this law, by the quality  assurance  agencies  authorized  to  operate  on  the  Romanian territory,  acquires  the  capacity  of  education  service  supplier,  under  a decision of the relevant local administration authority and under Government decision. The authorization for provisional functioning gives the right to organize entrance examinations and organize and carry out the learning process;
+(4) Provisional functioning authorization - the process whereby the concerned educational unit/institution/organization, based on the external evaluation performed in accordance with this law, by the quality assurance agencies authorized to operate on the Romanian territory, acquires the capacity of education service supplier, under a decision of the relevant local administration authority and under Government decision. The authorization for provisional functioning gives the right to organize entrance examinations and organize and carry out the learning process;
 
-- Direct beneficiaries of education and vocational training - ante  pre-school  children,  pre-school  children,  pupils  and  students,  as well as adults enrolled in a form of education and vocational training;
+(5) Direct beneficiaries of education and vocational training - ante pre-school children, pre-school children, pupils and students, as well as adults enrolled in a form of education and vocational training;
 
-- Indirect beneficiaries of education and vocational training -families of direct beneficiaries, employers, the local community and generally, the entire society;
+(6) Indirect beneficiaries of education and vocational training - families of direct beneficiaries, employers, the local community and generally, the entire society;
 
-- National Qualifications'  Framework - a tool used to establish  qualifications,  in  line  with  a  set  of  criteria  corresponding  to certain specific  learning  levels.  The  National  Qualifications' Framework is  aimed  at  integrating  and  coordinating  national  qualification  sub- systems  and  enhancing  transparency,  access,  progress  and  quality  of qualifications according to the labour market and the civil society;
+(7) National Qualifications' Framework - a tool used to establish qualifications, in line with a set of criteria corresponding to certain specific learning levels. The National Qualifications' Framework is aimed at integrating and coordinating national qualification sub-systems and enhancing transparency, access, progress and quality of qualifications according to the labour market and the civil society;
 
-- National  Framework  of  Higher  Education  Qualifications, hereinafter  referred  to  as  CNCIS -  the  tool  used  to  establish  the structure of qualifications in higher education. CNCIS is meant to ensure coherence  of  the  qualifications  and  the  degrees  obtained  within  the higher education system. CNCIS ensures national acknowledgement, as well as international compatibility and comparability of the qualifications obtained  through  higher  education.  CNCIS  is  part  of  the  National Qualifications' Framework defined under item 7;
+(8) National Framework of Higher Education Qualifications, hereinafter referred to as CNCIS - the tool used to establish the structure of qualifications in higher education. CNCIS is meant to ensure coherence of the qualifications and the degrees obtained within the higher education system. CNCIS ensures national acknowledgement, as well as international compatibility and comparability of the qualifications obtained through higher education. CNCIS is part of the National Qualifications' Framework defined under item 7;
 
-- Qualification  - the formal result of an evaluation and validation  process,  obtained  when  a  competent  body  establishes  that, further  to  the  learning  process,  a  person  obtained  results  according  to certain preset standards;
+(9) Qualification - the formal result of an evaluation and validation process, obtained when a competent body establishes that, further to the learning process, a person obtained results according to certain preset standards;
 
-- Education quality - the total set of characteristics of a study program  or  vocational  qualification  program  or  of  its  provider,  meeting the quality standards and the beneficiaries' expectations;
+(10) Education quality - the total set of characteristics of a study program or vocational qualification program or of its provider, meeting the quality standards and the beneficiaries' expectations;
 
-- Daytime  care  center -  a  State  institution  or  an  institution owned by a nongovernmental organization where children with deficiencies and transportable are hosted and cared for throughout the day;
+(11) Daytime care center - a State institution or an institution owned by a nongovernmental organization where children with deficiencies and transportable are hosted and cared for throughout the day;
 
-- Education  center -  an  educational  unit  organized  by  the Ministry of Education, Research, Youth and Sports or by non- governmental organizations, in partnership with the Ministry of Education, Research,  Youth and Sports, meant  for the recovery, compensation, rehabilitation and school and social integration of various categories of children/pupils/young people with deficiencies;
+(12) Education center - an educational unit organized by the Ministry of Education, Research, Youth and Sports or by non-governmental organizations, in partnership with the Ministry of Education, Research, Youth and Sports, meant for the recovery, compensation, rehabilitation and school and social integration of various categories of children/pupils/young people with deficiencies;
 
-- University  scientific  research -  scientific  research  itself, artistic creation and activities specific to high performances in sports;
+(13) University scientific research - scientific research itself, artistic creation and activities specific to high performances in sports;
 
-- Competence -  the  proven  capacity  to  select,  combine  and adequately  use  the  knowledge,  skills  and  other  assets  consisting  in values and attitudes in order to successfully solve a certain category of job  or  learning  situations,  as  well  as  for  professional  or  personal development under efficacy and efficiency conditions;
+(14) Competence - the proven capacity to select, combine and adequately use the knowledge, skills and other assets consisting in values and attitudes in order to successfully solve a certain category of job or learning situations, as well as for professional or personal development under efficacy and efficiency conditions;
 
-- Vocational  competences -  a  unitary  and  dynamic  set  of knowledge  and  skills.  The  following  keywords  are  used  to  describe knowledge:  knowing,  understanding  and  use  of  specific  language, explanation  and  interpretation.  The  following  keywords  are  used  to describe skills: implementation, transfer and problem solving, critical and constructive reflection, creativity and innovation;
+(15) Vocational competences - a unitary and dynamic set of knowledge and skills. The following keywords are used to describe knowledge: knowing, understanding and use of specific language, explanation and interpretation. The following keywords are used to describe skills: implementation, transfer and problem solving, critical and constructive reflection, creativity and innovation;
 
-- Transversal  competences -  value  and  attitude  assets  that go  beyond  a  certain  study  area/program  and  is  described  by  the following  keywords:  autonomy  and  accountability,  social  interaction, personal and professional development;
+(16) Transversal competences - value and attitude assets that go beyond a certain study area/program and is described by the following keywords: autonomy and accountability, social interaction, personal and professional development;
 
-- Education  quality  control  in  pre-university  educational units - operational activities and techniques, implemented on a systematic  basis  by  an  inspection  authority  appointed  to  verify  the compliance with preset standards;
+(17) Education quality control in pre-university educational units - operational activities and techniques, implemented on a systematic basis by an inspection authority appointed to verify the compliance with preset standards;
 
-- Vocational  training  credits -  the  overall  outcomes  of  the learning acquired by an individual during a vocational training program, used  to  indicate  the  progress  made  and  the  complementation  of  a training  program  which  results  in  obtaining  a  qualification.  Credits  are used to permit the transfer from one qualification to another, from one qualification level to another and from one learning system to another;
+(18) Vocational training credits - the overall outcomes of the learning acquired by an individual during a vocational training program, used to indicate the progress made and the complementation of a training program which results in obtaining a qualification. Credits are used to permit the transfer from one qualification to another, from one qualification level to another and from one learning system to another;
 
-- Transferable study credits - are value numbers allocated to course units and other didactic activities. Transferrable study credits are used to estimate, on average, the amount of all types of work done by a student  to  acquire  the  knowledge  and  the  competences  specific  to  a subject field;
+(19) Transferable study credits - are value numbers allocated to course units and other didactic activities. Transferrable study credits are used to estimate, on average, the amount of all types of work done by a student to acquire the knowledge and the competences specific to a subject field;
 
-- Criterion - a set of standards regarding a key organizational and operational aspect of an education service supplier/providing unit/institution during the process of provisional functioning authorization/accreditation/quality evaluation and assurance;
+(20) Criterion - a set of standards regarding a key organizational and operational aspect of an education service supplier/providing unit/institution during the process of provisional functioning authorization/accreditation/quality evaluation and assurance;
 
-- Knowledge - the outcome of acquiring, by learning, a set of facts, principles, theories and practices related to a certain work or study field;
+(21) Knowledge - the outcome of acquiring, by learning, a set of facts, principles, theories and practices related to a certain work or study field;
 
-- ECTS - European Credit Transfer and Accumulation System;
+(22) ECTS - European Credit Transfer and Accumulation System;
 
-- ECVET -  European  Credit  for  Vocational  Education  and Training;
+(23) ECVET - European Credit for Vocational Education and Training;
 
-- Education - the overall processes of implementing programs and activities of learning and creating academic or vocational competences. Education includes learning activities both in a formal, and in a non-formal or informal context;
+(24) Education - the overall processes of implementing programs and activities of learning and creating academic or vocational competences. Education includes learning activities both in a formal, and in a non-formal or informal context;
 
-- Education and vocational training - a coherent and permanent set of learning activities and experiences undergone by the learning  subject  during  the  entire  period  of  his/her  educational-training route;
+(25) Education and vocational training - a coherent and permanent set of learning activities and experiences undergone by the learning subject during the entire period of his/her educational-training route;
 
-- EQF -  The  European  Qualifications  Framework  for  lifelong learning  is  a  benchmark  used  to  compare  the  qualification  levels  of various qualification systems, which promotes both lifelong learning and equal opportunities in a knowledge-based society, as well as the further integration  of  citizens  on  the  European  labor  market,  while  respecting the great diversity of national educational systems;
+(26) EQF - The European Qualifications Framework for lifelong learning is a benchmark used to compare the qualification levels of various qualification systems, which promotes both lifelong learning and equal opportunities in a knowledge-based society, as well as the further integration of citizens on the European labor market, while respecting the great diversity of national educational systems;
 
-- Institutional evaluation of quality - the multi-criteria examination  of  education  quality,  of  the  extent  to  which  an  education service  supplier/providing  unit/institution and  its programs  fulfill  the standards  and  the  reference  standards.  When  quality  evaluation  is conducted  by  the  organization,  it  shall  be  carried  out  as  an  internal evaluation.  When  quality  evaluation  is  conducted  by  a  specialized national  or  worldwide  agency,  it  shall  be  carried  out  as  an  external evaluation;
+(27) Institutional evaluation of quality - the multi-criteria examination of education quality, of the extent to which an education service supplier/providing unit/institution and its programs fulfill the standards and the reference standards. When quality evaluation is conducted by the organization, it shall be carried out as an internal evaluation. When quality evaluation is conducted by a specialized national or worldwide agency, it shall be carried out as an external evaluation;
 
-- Evaluation of learning outcomes - the process whereby it is established  that  an  individual  acquired  certain  knowledge,  skills  and competences;
+(28) Evaluation of learning outcomes - the process whereby it is established that an individual acquired certain knowledge, skills and competences;
 
-- Performance  indicator -  a  tool  measuring  the  degree  to which an activity carried out by the education service supplier/providing unit/institution  was  fulfilled,  as  compared  to  standards  and  reference standards  respectively.  The  minimal  level  of  performance  indicators corresponds to the requirements of a standard. The maximum level of performance indicators corresponds to the requirements of a reference standard, is optional and differentiates quality on a hierarchical, progressive basis;
+(29) Performance indicator - a tool measuring the degree to which an activity carried out by the education service supplier/providing unit/institution was fulfilled, as compared to standards and reference standards respectively. The minimal level of performance indicators corresponds to the requirements of a standard. The maximum level of performance indicators corresponds to the requirements of a reference standard, is optional and differentiates quality on a hierarchical, progressive basis;
 
-- Education  quality  improvement -  the  evaluation,  analysis and  permanent corrective  activity  carried  out  by  the  education  service supplier/providing unit/institution, based on the selection and adoption of the  most  appropriate procedures, and  also on the selection  and implementation of reference standards;
+(30) Education quality improvement - the evaluation, analysis and permanent corrective activity carried out by the education service supplier/providing unit/institution, based on the selection and adoption of the most appropriate procedures, and also on the selection and implementation of reference standards;
 
-- Education  - a  public  service  organized  under  a  public  law legal  regime  for  the  purpose  of  ensuring  the  education  and  vocational training of the young generation;
+(31) Education - a public service organized under a public law legal regime for the purpose of ensuring the education and vocational training of the young generation;
 
-- Full-time,  part-time,  distance  learning- organization  forms of didactic processes involving:
+(32) Full-time, part-time, distance learning - organization forms of didactic processes involving:
 
-- compulsory attendance for full-time learning;
+a) compulsory attendance for full-time learning;
 
-- replacement of teaching hours with individual study activities and  periodical,  usually  weekly  meetings  with  pupils/students/course attendants  in  order  to  carry  out  the  compulsory  applicative  activities provided  in  the  learning  framework  plans/learning  plans,  for  part-time education;
+b) replacement of teaching hours with individual study activities and periodical, usually weekly meetings with pupils/students/course attendants in order to carry out the compulsory applicative activities provided in the learning framework plans/learning plans, for part-time education;
 
-- replacement of teaching hours with individual study activities and periodical meetings, holding of seminars in a tutoring and compulsory  system  for  all  the  didactic  activities  that  develop  practical competences and skills in a face to face system for distance learning;
+c) replacement of teaching hours with individual study activities and periodical meetings, holding of seminars in a tutoring and compulsory system for all the didactic activities that develop practical competences and skills in a face to face system for distance learning;
 
-- Mandate - the period when  a person, appointed in a management position by vote or further to a contest, in an educational unit/institution  within  the  national  education  system,  implements  the managerial  program  based  on  which  it  was  vested.  The  mandate duration is 4 years;
+(33) Mandate - the period when a person, appointed in a management position by vote or further to a contest, in an educational unit/institution within the national education system, implements the managerial program based on which it was vested. The mandate duration is 4 years;
 
 Page 74 of 75
 
@@ -5489,7 +5633,7 @@ Page 74 of 75
 
 (34) Organization interested in providing educational services -  a  legal  entity  which  includes  learning  activities  in  its  charter  and undergoes  the  authorization  process  in  order  to  become  an  education service supplier;
 
-(35) "Second  Chance'  Educational  Programs -  educational programs aimed at supporting children/young people/adults who left the educational  system  too  soon,  without  having  completed  the  primary and/or  secondary  education,  exceeding  by  at  least  4  years  the  school age corresponding to such levels, so as to make it possible for them to complement and finalize the compulsory learning programs and to obtain a vocational qualification;
+(35) "Second Chance" Educational Programs - educational programs aimed at supporting children/young people/adults who left the educational system too soon, without having completed the primary and/or secondary education, exceeding by at least 4 years the school age corresponding to such levels, so as to make it possible for them to complement and finalize the compulsory learning programs and to obtain a vocational qualification;
 
 (36) Vocational  qualification  programs -  the  educational  offer which  leads  to  acquiring  a  vocational  qualification  registered  in  the National Qualifications' Register;
 
@@ -5505,7 +5649,7 @@ Page 74 of 75
 
 (42) National register of qualifications -  is  a  national  database including the description of all the qualifications in Romania;
 
-(43) Learning  outcomes  means  what  a  person  understands, knows  and  is  capable  to  do  at  the  end  of  a  learning  process.  The learning  outcomes  consist  in  the  knowledge,  skills  and  competences acquired during various formal, non-formal and informal learning experiences;
+(43) Learning outcomes - means what a person understands, knows and is capable to do at the end of a learning process. The learning outcomes consist in the knowledge, skills and competences acquired during various formal, non-formal and informal learning experiences;
 
 (44) National  education  system -  consists  in  all  the  accredited State,  particular  and  religious  educational  units  and  institutions,  of various  types,  levels  and  organization  forms  of  the  education  and vocational training activity;
 
@@ -5533,13 +5677,13 @@ b) the organization by subject matters and groups that include no more than 25 p
 
 (54) Transfer  of  learning  outcomes  and  related  credits -  the process whereby learning outcomes and related credits are transferred to and integrated within the vocational training program attended by the studying person;
 
-(55) Acknowledgement of learning outcomes and related credits  the  process  whereby  the  acquired,  evaluated  and  validated learning  outcomes  and  credits  are  granted  an  official  status  for  the purpose of obtaining the vocational qualification certificate;
+(55) Acknowledgement of learning outcomes and related credits - the process whereby the acquired, evaluated and validated learning outcomes and credits are granted an official status for the purpose of obtaining the vocational qualification certificate;
 
 (56) Certification  of  learning  outcomes -  the  process  whereby the  outcomes  of  the  learning  acquired  by  the  studying  individual  are formally confirmed following an evaluation process;
 
 (57) Public  education -  is  the  equivalent  of  State  education,  as defined in the Constitution of Romania, as republished;
 
-(58) Private education is the equivalent of nonpublic education, as defined in the Constitution of Romania, as republished. ş
+(58) Private education - is the equivalent of nonpublic education, as defined in the Constitution of Romania, as republished.
 
 Page 75 of 75
 
