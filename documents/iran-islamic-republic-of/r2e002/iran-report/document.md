@@ -1,6 +1,6 @@
 [[START OF PAGE 1]]
 
-# Information on the legislative, judicial, administrative and other measures taken by the State at the national level
+# I. Information on the legislative, judicial, administrative and other measures taken by the State at the national level
 
 ## 1. Ratification of the Convention
 
@@ -34,7 +34,7 @@ Describe:
 
 -the obstacles, whether legal, institutional, political or practical
 
-- Considering the variety of educational institutions in Iran (the Ministry of Education; the Ministry of Science, Research and Technology; the Ministry of Health and Medical Education; and the Organization for Technical and Vocational Education), ratification of  the  Convention  calls  for  intersectoral  coordination,  which  is  in  turn  a  time consuming process.
+2. Considering the variety of educational institutions in Iran (the Ministry of Education; the Ministry of Science, Research and Technology; the Ministry of Health and Medical Education; and the Organization for Technical and Vocational Education), ratification of the Convention calls for intersectoral coordination, which is in turn a time consuming process.
 
 -the means of overcoming them
 
@@ -45,6 +45,8 @@ UNESCO can help to sensitize  and  encourage  policy-makers  and  authorities  t
 ### 1.2 If  the  1962  Protocol  instituting  a  Conciliation  and  Good  Offices  Commission  to  be responsible  for  seeking  the  settlement  of  any  disputes  which  may  arise  between States Parties to the Convention against Discrimination in Education 1  is not ratified yet:
 
 - Does your country plan to ratify this instrument?
+
+Yes/No: Not yet
 
 - Please indicate the stage of ratification process reached by your country.
 
@@ -58,10 +60,6 @@ UNESCO can help to sensitize  and  encourage  policy-makers  and  authorities  t
 
 - Please explain which are the obstacles or difficulties encountered in completing the ratification process and the means of overcoming them.
 
-Yes/No:
-
-Not yet
-
 Describe:
 
 -the obstacles, whether legal, institutional, political or practical
@@ -70,7 +68,7 @@ Describe:
 
 -the extent to which UNESCO can assist in completing the process
 
-## Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
+## 2. Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
 
 ### 2.1 In case your country is a State Party to the Convention:
 
@@ -92,11 +90,11 @@ exclusion in terms of gender, race, ethnicity and nationality is acceptable in e
 
 This seeks information on whether the provisions of the Convention are guaranteed in  a  domestic  legal  instrument  (Constitution,  legislative  text  or  other  national provisions)
 
-#### Several Articles in the I.R. of Iran ' s Constitutional Law guarantee the Convention :
+#### Several Articles in the I.R. of Iran’s Constitutional Law guarantee the Convention:
 
 - By virtue of Article 20 of the Constitution, "all nationals" either woman or man, are equally supported by law and enjoy all basic, political, economic, social and cultural rights, observing principles of Islam.
 
-- Para 3 of Article 3, particularly Article 30 of the Constitution has charged the Government with the duty to provide free education and physical training for all up to the end of the upper secondary level of education as well as the means of studying on a free-of-charge basis for the sake of the nation ' s self-sufficiency.
+- Para 3 of Article 3, particularly Article 30 of the Constitution has charged the Government with the duty to provide free education and physical training for all up to the end of the upper secondary level of education as well as the means of studying on a free-of-charge basis for the sake of the nation’s self-sufficiency.
 
 - As per the law on supplying means and facilities of education for Iranian children and adolescents approved in 1974, the Government is obliged to provide the requirements of free education for all children (regardless of their gender) as well as necessary education facilities for disadvantaged children who may be deprived of education due to financial problems.
 
@@ -104,7 +102,7 @@ This seeks information on whether the provisions of the Convention are guarantee
 
 - Para 3 of the above law reads: Provision of essential grounds for maintaining sustainable cultural, economic and political autonomy through familiarizing students with sciences, technologies, industries and crafts needed by their society based on priorities of the country.
 
-- Para 4 of the above law emphasizes the flourishing and training of students' talents and reinforcing the spirit of curiosity, exploration, search, discovery, innovation and creativity in all cultural, technical, and Islamic domains, negating degreecenteredness in education.
+- Para 4 of the above law emphasizes the flourishing and training of students' talents and reinforcing the spirit of curiosity, exploration, search, discovery, innovation and creativity in all cultural, technical, and Islamic domains, negating degree-centeredness in education.
 
 - Para 6 of the the Law on Goals underscores the provision of free education for all up to completion of the upper secondary level of education.
 
@@ -117,9 +115,7 @@ This seeks information on whether the provisions of the Convention are guarantee
 [[START OF PAGE 4]]
 
 children, Para 11 of these policies pays special attention to promoting physical education and sports and improving the physical and mental health of students (with girl students being attached priority to ).
----
-Para 12 of the General Policies on the 4 th Economic, Social and Cultural
-Development Plan has put the stress on extending efforts for the realization of social justice, creation of equal opportunities, enhancing educational indicators and ensuring good health for all.
+9. Para 12 of the General Policies on the 4th Economic, Social and Cultural Development Plan has put the stress on extending efforts for the realization of social justice, creation of equal opportunities, enhancing educational indicators and ensuring good health for all.
 
 > 1 The Protocol was adopted in 1962. For more information on this Commission: http://portal.unesco.org/en/ev.php-URL_ID=23762&URL_DO=DO_TOPIC&URL_SECTION=201.html
 
@@ -229,7 +225,7 @@ The following section offers an example of the activities undertaken by the Cent
 
 - Organising a training course on cultural interactions with foreign students in schools for 4240 school headmasters of the schools accommodating refugees. These training courses were implemented in nine provinces of the Country.
 
-- Organising a health-education campaign and lifeskills' training courses for more than 1000 school pupils and their families, offering them health and training kits.
+- Organising a health-education campaign and life-skills’ training courses for more than 1000 school pupils and their families, offering them health and training kits.
 
 - A number of 15 school houses were built in refugee prone regions between 2005 and 2015 (each construction project is completed between 60 to 90 days).
 
@@ -273,11 +269,9 @@ In Pre-Primary Education, the percentage of first grade students who completed a
 
 In Primary Education the access indicator showed an upward trend as well. The net intake rate in first grade grew from 91.2% in 1991-92 to 97.5% in 2009-10.
 
-Also, the gross intake rate for the first grade of primary education rose from 119.2% in 199192 to 108% in 2009-10.
+Also, the gross intake rate for the first grade of primary education rose from 119.2% in 1991-92 to 108% in 2009-10.
 
-The Net Enrolment Ratio increased from 95.7% in 1991-92  to 99% in 2009-10. The gross enrolment ratio showed a descending trend. This is from 109.4% in 1991-92 to 102% in 2009-
-
-10. The percentage of girl school pupils grew from 46.6% in 1991-92 to 48.5% in 2009-10.
+The Net Enrolment Ratio increased from 95.7% in 1991-92 to 99% in 2009-10. The gross enrolment ratio showed a descending trend. This is from 109.4% in 1991-92 to 102% in 2009-10. The percentage of girl school pupils grew from 46.6% in 1991-92 to 48.5% in 2009-10.
 
 The repetition rate in primary education by grade dropped from 7% (grade 1), 4.5% (grade 2), 2.7% (grade 3), 2.99% (grade 4) and 1.46% (grade 5) to 2%, 1.2%, 0.90%, 0.90% and 0.55% respectively (2000-01 to 2009-10).
 
@@ -285,7 +279,7 @@ The Survival rate to grade 5 showed an upward trend from 88.83% to 91.84% in 200
 
 The pupil-class ratio showed a decreasing trend from 30 pupils in 1991-92 down to 22.1% in 2009-10.
 
-The pupil-teacher ratio has also decreased from 35.5 students in 1991-92 to 24.7% in 2008-09. The  indicator  of  teachers  with  university  qualifications  has  remarkably  increased  due  to measures taken during the recent years to upgrade teachers' educational qualifications and their degrees such that this rate has increased from 2.1% in 1991-92 to72.16% in 2008-09. The main  reasons  for  such  increase  are  attributed  to  facilities  provided  by  the  Ministry  of Education in the form of inservice courses as well as Bachelor's degree programs.
+The pupil-teacher ratio has also decreased from 35.5 students in 1991-92 to 24.7% in 2008-09. The indicator of teachers with university qualifications has remarkably increased due to measures taken during the recent years to upgrade teachers’ educational qualifications and their degrees such that this rate has increased from 2.1% in 1991-92 to72.16% in 2008-09. The main reasons for such increase are attributed to facilities provided by the Ministry of Education in the form of in-service courses as well as Bachelor’s degree programs.
 
 In Lower Secondary Education, the trend of indicators kept growing during the years of plan such that the accessibility indicator revealed a noticeable growth. The net intake rate increased from 55.26% in 1991-92 to 98.7% in 2006-07.
 
@@ -295,7 +289,7 @@ Generally, the improvement of accessibility indicators for lower secondary Educa
 
 The pupil-class ratio and the pupil-teacher ratio showed favorable trends during the years of the plan. The average of pupils per class decreased from 32.5 students in 1991-92 to 24 students in 2009-10. Furthermore, the average of pupil per teacher showed a decreasing trend of 29.2 students in 1991-92 down to 21.33% in 2008-09.
 
-To  encourage  teachers  to  upgrade  their  educational  degrees  in  the  time  limit  of  the  plan, important policies have been implemented such that the indicator of teachers with university qualifications has  significantly  increased  and  the  percentage  of  teachers  holding  associate degrees grew from 88.4% in 1991-92 to 97% in 2000-01 and 98% in 2006-07. Meanwhile, the percentage of teachers with Bachelor's degrees and higher reached from 27.04% in 2000 -01 to 48.55%  in  2006-07.  The  main  reason  for  such  a  growth  lies  in  the  facilities  available  for continuing studies of teachers.
+To encourage teachers to upgrade their educational degrees in the time limit of the plan, important policies have been implemented such that the indicator of teachers with university qualifications has significantly increased and the percentage of teachers holding associate degrees grew from 88.4% in 1991-92 to 97% in 2000-01 and 98% in 2006-07. Meanwhile, the percentage of teachers with Bachelor’s degrees and higher reached from 27.04% in 2000-01 to 48.55% in 2006-07. The main reason for such a growth lies in the facilities available for continuing studies of teachers.
 
 9
 
@@ -305,7 +299,7 @@ To  encourage  teachers  to  upgrade  their  educational  degrees  in  the  time
 
 In theoretical upper secondary, pre-university, technical and vocational and Kar-o-Danesh (work and Knowledge) education, indicators suggest a promising and favourable situation in terms of the gross enrolment ratio for theoretical upper secondary and pre-university levels increasing from 68.7% in 2000-01 to 60.9% in 2006-07. While the indicator for technical and vocational  and  Kar-o-Danesh  (work  and  Knowledge)  programs  were  28.35%  and  22.90% during 2000-01 and 2006-07, respectively.
 
-The ratio of female students per total enrolments for theoretical upper secondary and preuniversity  reached from  44.75%  in  2000-01  to  50.30%  in  2006-07.  The  same  indicator  for technical and vocational upper secondary and Kar-o-Danesh (work and Knowledge) programs increased from 36.89% in 2000-01 to 37.76% in 2006-07.
+The ratio of female students per total enrolments for theoretical upper secondary and pre-university reached from 44.75% in 2000-01 to 50.30% in 2006-07. The same indicator for technical and vocational upper secondary and Kar-o-Danesh (work and Knowledge) programs increased from 36.89% in 2000-01 to 37.76% in 2006-07.
 
 The percentage of teachers with academic qualifications at theoretical upper secondary and pre-university showed a rather desirable growth, increasing from 89.73% in 2000-01 up to 92.80% in 2006-07.
 
@@ -319,7 +313,7 @@ The share of different educational levels from the total educational budget with
 
 About 0.9% went to pre-primary education, 30 % went to primary education, 21.5% went to lower secondary, 25.9% went to the upper secondary level, 18% goes to higher education and almost 2.5% goes to non formal technical and vocational education. Almost 1% of the total educational budget was allocated to literacy.
 
-As a whole, the Islamic Republic of Iran intensified its national will to accomplish the Dakar Framework for Action (implementation of Education For All) by the Ministry of Education and all other relevant organizations and ministries. The results of these strengthened efforts are well manifested in the growing indicators of the plan during the S tudy's implementation time. This effort indicates an optimized will power, while revealing efforts of all stakeholders in attaining the goals of EFA.
+As a whole, the Islamic Republic of Iran intensified its national will to accomplish the Dakar Framework for Action (implementation of Education For All) by the Ministry of Education and all other relevant organizations and ministries. The results of these strengthened efforts are well manifested in the growing indicators of the plan during the Study’s implementation time. This effort indicates an optimized will power, while revealing efforts of all stakeholders in attaining the goals of EFA.
 
 ### 2.2 Please indicate how strategies and programmes are being implemented with a view to ensuring, in your country, equality of educational opportunities (in terms of access, participation and completion).
 
@@ -347,7 +341,7 @@ Please describe the actions planned and taken in your country to ensure inclusio
 
 Here please describe measures taken for instance to give special consideration to gender equity and equality in education including addressing gender-based violence, and the educational needs of the poor, economically and socially marginalized and other vulnerable groups, including people with disabilities.
 
-1. In recent years, several plans have been implemented on increasing the intake and survival rates of school-aged children with emphasis on vulnerable and out-of-reach children, with a focus  on  girl  students  in  less  developed  regions.  A  success  story  is  the  joint  project  of  the Ministry of Education and the UNICEF office in Tehran on rural girls ' intake growth and quality enhancement in less developed villages of the country. In the first phase of the project, in addition to educational analysis, sociological and psychological analysis were also used to prepare and apply a suitable model on attracting the attention of local participants as well as the  involvement  of  learners  who  are  inhabitants  of    in  border  villages  of  Sistan  and Balouchestan province with the lowest intake and enrolment rates in the whole country as compared to other provinces.
+1. In recent years, several plans have been implemented on increasing the intake and survival rates of school-aged children with emphasis on vulnerable and out-of-reach children, with a focus on girl students in less developed regions. A success story is the joint project of the Ministry of Education and the UNICEF office in Tehran on rural girls’ intake growth and quality enhancement in less developed villages of the country. In the first phase of the project, in addition to educational analysis, sociological and psychological analysis were also used to prepare and apply a suitable model on attracting the attention of local participants as well as the involvement of learners who are inhabitants of in border villages of Sistan and Balouchestan province with the lowest intake and enrolment rates in the whole country as compared to other provinces.
 
 11
 
@@ -355,7 +349,7 @@ Here please describe measures taken for instance to give special consideration t
 
 [[START OF PAGE 12]]
 
-The above project was implemented and evaluated in the school year 2002-2003 through 20042005 in three regions of high priority in Sistan and Balouchestan (Dashtyari, Kenarak, and Nikshahr Nomads).  The  results  of  the  project  revealed  that  besides  enhancing  girls ' self confidence and the local community ' s  trust  in  the  school  environment,  promotion rate also increased by an average of 8%. Based on the results of the first phase of the pilot plan, the above project was implemented in 7 provinces since October 2007, three provinces with the financial and technical support of the UNICEF Office in Tehran and four other provinces with support  from  the  General Education  Deputy  Office,  under the supervision  of  EFA Coordination Management  on  a  semi  centralized basis, aimed  at the adoption and implementation of a model fit for enhancing intake rates and education quality of girl students in less developed rural regions.
+The above project was implemented and evaluated in the school year 2002-2003 through 2004-2005 in three regions of high priority in Sistan and Balouchestan (Dashtyari, Kenarak, and Nikshahr Nomads). The results of the project revealed that besides enhancing girls’ self confidence and the local community’s trust in the school environment, promotion rate also increased by an average of 8%. Based on the results of the first phase of the pilot plan, the above project was implemented in 7 provinces since October 2007, three provinces with the financial and technical support of the UNICEF Office in Tehran and four other provinces with support from the General Education Deputy Office, under the supervision of EFA Coordination Management on a semi centralized basis, aimed at the adoption and implementation of a model fit for enhancing intake rates and education quality of girl students in less developed rural regions.
 
 2. Taking advantage of the capacities of lower/upper secondary, pre-university and nomadic education centers. Currently, the above schools play an invaluable role in preventing drop-outs of graduates of the primary fifth grade and lower secondary third grade and other students having no access to daily conventional schools in the deprived, under-populated and tribal regions of the Country. In these schools, students are supplied with three meals, dormitory and other  educational  and  training facilities  for  free.  The  number  of  this  type  of  schools  has increased from 2111 to 3239 with a growth rate of 53.43% during the years of study, and the number of students enrolled by these schools grew from 350,201 persons in 2000 to 456,591 in the last year of study (2006) with a 30.38% growth.
 
@@ -381,7 +375,7 @@ In Primary Education the access indicator shows an upward trend as well. The net
 
 The Net Enrolment Ratio increased from 95.7% in 1991-92  to 99% in 2009-10. The gross enrolment ratio shows a descending trend that is from 109.4% in 1991-92 to 102% in 2009-10. The percentage of girls from total grew from 46.6% in 1991-92 up to 48.5% in 2009-10. The repetition rate in primary education by grade has dropped from 7% (grade 1), 4.5% (grade 2), 2.7% (grade 3), 2.99% (grade 4) and 1.46% (grade 5) to 2%, 1.2%, 0.90%, 0.90% and 0.55%, respectively (2000-01 to 2009-10).
 
-The Survival rate to Grade 5 has shown an upward trend from88.83% to 91.84% in 2006 and 92.81% in 2008. The pupil-class ratio shows a decreasing trend from 30 pupils in 1991-92 down to 22.1% in 2009-10. The pupil-teacher ratio has also decreased from 35.5 students in 1991-92 to 24.7% in 2008-09. The indicator of teachers with university qualifications has remarkably increased due to measures taken during the recent years to promote teachers' educational degrees such that from 2.1% in 1991-92, it reached up to72.16% in 2008-09. The main reasons for such increase are attributed to facilities provided by the Ministry of Education in the form of inservice courses as well as Bachelor's degree programs.
+The Survival rate to Grade 5 has shown an upward trend from88.83% to 91.84% in 2006 and 92.81% in 2008. The pupil-class ratio shows a decreasing trend from 30 pupils in 1991-92 down to 22.1% in 2009-10. The pupil-teacher ratio has also decreased from 35.5 students in 1991-92 to 24.7% in 2008-09. The indicator of teachers with university qualifications has remarkably increased due to measures taken during the recent years to promote teachers’ educational degrees such that from 2.1% in 1991-92, it reached up to72.16% in 2008-09. The main reasons for such increase are attributed to facilities provided by the Ministry of Education in the form of in-service courses as well as Bachelor’s degree programs.
 
 In addition to the above, the Directorate General for Primary Education has undertaken the following activities since 2014:
 
@@ -445,11 +439,13 @@ In this part, details should be provided on the difficulties experimented by you
 
 - Please  provide  information  on  the  general  availability  and  accessibility  to  all  of secondary education, including technical and vocational secondary education and training in your country.
 
-III. | Indicators suggest a promising and favourable situation in terms of the gross enrolment ratio for theoretical upper secondary and pre-university levels,
---- | ---
-IV. | increasing from 68.7% in 2000-01 up to 60.9% in 2006-07. While the indicator for technical & vocational and Kar-o-Danesh (work & Knowledge) programs were 28.35% and 22.90% during 2000-01 and 2006-07 respectively.
-V. | The ratio of female students per total enrolment rates for theoretical upper secondary and pre-university reached from 44.75% in 2000-01 to 50.30% in 2006- 07. The same indicator for technical and vocational upper secondary and Kar-o- Danesh (work and Knowledge) programs increased from 36.89% in 2000-01 to
-VI. | The percentage of teachers with academic qualifications at theoretical upper secondary and pre-university levels shows a rather desirable growth, increasing from 89.73% in 2000-01 to 92.80% in 2006-07.The pupil-class ratio for theoretical upper secondary and pre-university courses was favorable and decreased from 30 students in 2000-01 to 23.5 students in 2006-07. The same situation exists for pupils- teacher ratio with 29.3 students in 2000-01 down to 21.6 students in 2006-07.
+III. Indicators suggest a promising and favourable situation in terms of the gross enrolment ratio for theoretical upper secondary and pre-university levels,
+
+IV. increasing from 68.7% in 2000-01 up to 60.9% in 2006-07. While the indicator for technical & vocational and Kar-o-Danesh (work & Knowledge) programs were 28.35% and 22.90% during 2000-01 and 2006-07 respectively.
+
+V. The ratio of female students per total enrolment rates for theoretical upper secondary and pre-university reached from 44.75% in 2000-01 to 50.30% in 2006-07. The same indicator for technical and vocational upper secondary and Kar-o-Danesh (work and Knowledge) programs increased from 36.89% in 2000-01 to 37.76% in 2006-07.
+
+VI. The percentage of teachers with academic qualifications at theoretical upper secondary and pre-university levels shows a rather desirable growth, increasing from 89.73% in 2000-01 to 92.80% in 2006-07.The pupil-class ratio for theoretical upper secondary and pre-university courses was favorable and decreased from 30 students in 2000-01 to 23.5 students in 2006-07. The same situation exists for pupils-teacher ratio with 29.3 students in 2000-01 down to 21.6 students in 2006-07.
 
 Information on access to technical and vocational education and training in 2013-2014 are as follows:
 
@@ -473,7 +469,7 @@ Information on access to technical and vocational education and training in 2013
 
 Activities undertaken in the 2013-2014 academic year in the area of technical and vocational education are as follows:
 
-- Implementing training and production programmes in the area of agriculture in leastdeveloped regions, at 105 technical and vocational education and training centres, and planning the implementation of similar programmes in industries and services, with emphasis on income-raising from selling student products.
+- Implementing training and production programmes in the area of agriculture in least-developed regions, at 105 technical and vocational education and training centres, and planning the implementation of similar programmes in industries and services, with emphasis on income-raising from selling student products.
 
 - Encouraging donors to build and equip technical and vocational education and training centres.
 
@@ -501,7 +497,9 @@ Yes/No: yes
 
 ➔ If so, please describe the extent to which it is.
 
-1-  Article  (30)  of  the  Constitution  of  the  I.R.  of  Iran  has  committed  the  Ministry  of Education  to  providing  free  tools  of  education  up  to  the  upper  secondary  level  for  all children, especially for those children living  in deprived and less developed areas. 2-Para  3  of  Article  3,  particularly  Article  30  of  the  Constitution  has  entrusted  the Government with the duty to provide free education and physical training for all up to the end of the upper secondary educational level as well as the means of study on a free-ofcharge basis for the sake of the country's self-sufficiency.
+1- Article (30) of the Constitution of the I.R. of Iran has committed the Ministry of Education to providing free tools of education up to the upper secondary level for all children, especially for those children living in deprived and less developed areas.
+
+2-Para 3 of Article 3, particularly Article 30 of the Constitution has entrusted the Government with the duty to provide free education and physical training for all up to the end of the upper secondary educational level as well as the means of study on a free-of-charge basis for the sake of the country's self-sufficiency.
 
 Please also provide details on the difficulties experienced by your government in the realization  of  universal  access  to  free  secondary  education.  Please  provide quantitative and descriptive information on these difficulties and on the progress realized.
 
@@ -533,7 +531,7 @@ Our activities in this field were of a multi-dimensional nature:
 
 - Diversifying the Iranian higher education system:
 
--Different courses offered (full-time by day, full-time by evening, parttime, virtual…);
+i. -Different courses offered (full-time by day, full-time by evening, part-time, virtual…);
 
 ii.-Establishing research-based doctoral courses; and
 
@@ -547,13 +545,21 @@ In addition, in 2011, the Skill and Technology Education System was established 
 
 Please provide information on the financial costs to receive education in higher public  or  private  Education  institutions.  Please  include  explanations  about  both public  and  private  institutions.  Please  also  provide  quantitative  and  descriptive information on the difficulties experienced by your government as regards access to higher education and on the progress realized.
 
-Subsequent to the adoption of the Women's Rights and Responsibilities Charter by the Islamic Republic of Iran, in its 570 th  sessions the High Council for the Cultural Revolution, especially focused on and emphasized the need to set policies to enhance women's  Participation  in  Higher  Education,  in  order  to  combat  discrimination against  women  and  use  their  expertise  in  Higher  Education  and  enhance  their participation and involvement in this area. As early as the 1990s, girl students were deprived  of  equal  educational  opportunities  with  male  students;  this  was  most specifically  exercised  in  certain  areas  of  arts,  engineering  and  technical  studies. Within  the  past  67  years,  the  Iranian  Higher  Education  system  has  developed considerably with a view to the number of universities and higher education centres, the number and composition of university intakes and alumni and faculty members. In this view, the number of women enrollees has increased from 40169 in 1989 to 513535 in 2010, showing an average annual growth rate of 20 percents. Access to higher education has never been the subject of discrimination between ethnic groups in Iran. In this regards a law on regional quota-sharing since the early 1980s has helped boost interested applicants' intake rates in wellknown universities and in the most sought-after disciplines.
+Subsequent to the adoption of the Women’s Rights and Responsibilities Charter by the Islamic Republic of Iran, in its 570th sessions the High Council for the Cultural
 
 18
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
+
+Revolution, especially focused on and emphasized the need to set policies to enhance women’s Participation in Higher Education, in order to combat discrimination against women and use their expertise in Higher Education and enhance their participation and involvement in this area. As early as the 1990s, girl students were deprived of equal educational opportunities with male students; this was most specifically exercised in certain areas of arts, engineering and technical studies.
+
+Within the past 67 years, the Iranian Higher Education system has developed considerably with a view to the number of universities and higher education centres, the number and composition of university intakes and alumni and faculty members.
+
+In this view, the number of women enrollees has increased from 40169 in 1989 to 513535 in 2010, showing an average annual growth rate of 20 percents.
+
+Access to higher education has never been the subject of discrimination between ethnic groups in Iran. In this regards a law on regional quota-sharing since the early 1980s has helped boost interested applicants’ intake rates in wellknown universities and in the most sought-after disciplines.
 
 19
 
@@ -714,7 +720,7 @@ This  project  was  approved  after  performing  precise  scientific  studies  a
 
 This project has been initiated to add to the quality of educational and training efforts at all 5 grades of primary education, to build up religious, ethical and social concepts, to pave the way for more active involvement of students in developing curricula, to grow creative and critical thinking among students and to add to their dignity.
 
-Methodology: The project is  launched  within  the  framework  of  105  work  units  at  five educational grades (first 20 work units- second 16 work units-third 23 work units-fourth 21 work units and fifth 25 work units), including various subjects, concepts and skills in religious, ethical, social and … domains. They are incorporated into teachers ' guidebooks and performed as educational and training extra-curricular activities during the week, between formal curricula or at leisure time.
+Methodology: The project is launched within the framework of 105 work units at five educational grades (first 20 work units- second 16 work units-third 23 work units-fourth 21 work units and fifth 25 work units), including various subjects, concepts and skills in religious, ethical, social and… domains. They are incorporated into teachers’ guidebooks and performed as educational and training extra-curricular activities during the week, between formal curricula or at leisure time.
 
 Achievements and conclusions: Dynamic involvement of students at school's affairs; active participation of teachers in training activities; improvement of students' conduct, manner and discipline; boosting the spirit of self-confidence and self-belief in students; boosting the spirit of responsibility, critical thinking and optimum use of time, facilities and positive attitude towards spiritual issues.
 
@@ -776,7 +782,7 @@ Educating  pupils  into  pious,  responsible,  committed  and  knowledgeable  mu
 
 In  the  context  of  rapid  privatization  of  education,  the  information  should  also indicate  how  the  Government  is  regulating  private  education  providers  and  is ensuring compliance with minimum standards of education. The information should also  demonstrate  how  your  government  guarantees  that  the  development  of private  education  does  not  generate  discriminations  and  to  what  extent  private schools offer a relevant alternative in your country.
 
-Since 2005 a by-law on private educational institutions and non-profit institutions has come into force. This by-law concerns the preuniversity educational  level. Additionally, a by-law concerning the establishment of non-governmental and nonprofit institutions of higher education was adopted by the High Council of the Cultural Revolution in October 1985. The High Council of the Cultural Revolution is among the main policy-making bodies in education in Iran.
+Since 2005 a by-law on private educational institutions and non-profit institutions has come into force. This by-law concerns the preuniversity educational  level. Additionally, a by-law concerning the establishment of non-governmental and non-profit institutions of higher education was adopted by the High Council of the Cultural Revolution in October 1985. The High Council of the Cultural Revolution is among the main policy-making bodies in education in Iran.
 
 Moreover, the Islamic Azad University, a private educational institute at the higher education level in Iran, was officially established in may-June 1982.
 
@@ -808,7 +814,7 @@ However, the use of local and ethnic languages in the press and media and teachi
 
 # III. Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
 
-## 1. Challenges and obstacles -Please provide information on
+## 1. Challenges and obstacles – Please provide information on
 
 ### 1.1 The difficulties and obstacles encountered in the process of implementing the key provisions of the Convention/Recommendation.
 
@@ -844,7 +850,7 @@ Organizing expert meetings and exchange of views between parliamentary members a
 
 UNESCO  governing  bodies  have  underlined  the  need  for  awareness-raising. Given the importance of normative action at the national level, the Convention must be given wide dissemination, with the support of National Commissions.
 
--Translation  the  'Convention  against  Discrimination  in  Education  into  the Persian language.
+-Translation  the  “Convention  against  Discrimination  in  Education  into  the Persian language.
 
 -Distributing the above convention among the Ministers of Education and Science, Research  and  Technology  as  well  as  the  Research  and  Education  Standing Committee  of  the  Islamic  Consultative  Assembly  (The  Islamic  Parliament  of Iran).
 
