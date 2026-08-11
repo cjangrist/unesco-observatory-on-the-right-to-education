@@ -96,9 +96,9 @@ DE EDUCACIÓN y cumplido, archívese.
 
 Fdo:
 
-Prof. Domingo de Cara - Secretario General del Consejo Federal de Educación
-
 Prof. Alberto Sileoni - Ministro de Educación de la Nación
+
+Prof. Domingo de Cara - Secretario General del Consejo Federal de Educación
 
 Resolución CFE Nº 155/11
 
@@ -110,11 +110,37 @@ Resolución CFE Nº 155/11
 
 Consejo Federal de Educación
 
-### INDICE
-
 # ANEXO I
 
 ## EDUCACIÓN ESPECIAL
+
+### INDICE
+
+Presentación 4
+1. La modalidad Educación Especial 4
+1.1. Los marcos normativos y el sistema educativo 4
+1.2. La modalidad Educación Especial en la Ley de Educación Nacional 5
+1.3. La inclusión, una definición política para garantizar el derecho a la educación 6
+1.4. Las personas con discapacidad, sujetos de derecho 7
+2. Políticas de la Modalidad 7
+2.1. Acerca del gobierno de la modalidad 9
+2.2. Acerca de las escuelas, los equipos docentes y los equipos técnicos educativos 10
+3. La Educación Especial y los niveles educativos 10
+3.1. Nivel Inicial 11
+3.1.1. Atención a la primera infancia (0 a 3 años) 11
+3.1.2. Atención a la infancia de 4 y 5 años 11
+3.2. Nivel Primario 12
+3.3. Educación para Adolescentes y Jóvenes con Discapacidad 13
+3.4. Educación Permanente para Adultos con Discapacidad 14
+3.5. Formación Docente 15
+4. La Educación Especial y otras modalidades del sistema educativo 16
+4.1. Educación Técnico Profesional 16
+4.2. Educación Artística 16
+4.3. Educación Permanente de Jóvenes y Adultos 16
+4.4. Educación Rural 16
+4.5. Educación Intercultural Bilingüe 16
+4.6. Educación en Contextos de privación de libertad 16
+4.7. Educación domiciliaria y hospitalaria 16
 
 [[END OF PAGE 3]]
 
@@ -126,30 +152,28 @@ Consejo Federal de Educación
 
 ### Presentación
 
-- En  este  documento  se  plantea  la  política  de  la  modalidad,  en  vistas  a  profundizar  la articulación con los diferentes niveles y otras modalidades del Sistema Educativo para asegurar una cultura inclusiva en todas las instituciones educativas. Coherente con este marco, el Plan Nacional de Educación Obligatoria (Resolución del CFE Nº 79) señala:
+1. En  este  documento  se  plantea  la  política  de  la  modalidad,  en  vistas  a  profundizar  la articulación con los diferentes niveles y otras modalidades del Sistema Educativo para asegurar una cultura inclusiva en todas las instituciones educativas. Coherente con este marco, el Plan Nacional de Educación Obligatoria (Resolución del CFE Nº 79) señala:
 
-'Mejorar  la  calidad  implica  colocar  la  enseñanza  en  el  centro  de  las  preocupaciones  y desafíos  de  la  política  educativa,  a  los  efectos  de  garantizar  el  derecho  de  todos  los  niños, niñas, jóvenes y adultos a acceder a los conocimientos necesarios para la participación en la vida  de  manera  crítica  y  transformadora.  Esto  supone  desarrollar  políticas  que  tengan  como preocupación  las  propuestas  que  la  escuela  ofrece,  no  solo  en  términos  de  contenidos  sino también  respecto  de  los  procesos  de  transmisión,  las  formas  de  organización  así  como  las condiciones pedagógicas y materiales en que tiene lugar. Producir mejores condiciones para el cotidiano escolar tanto para alumnos/as como para docentes implica una preocupación por los modos en que es posible verificar la igualdad en el acceso a los conocimientos para todos los niños, jóvenes y adultos'.
+2. 'Mejorar  la  calidad  implica  colocar  la  enseñanza  en  el  centro  de  las  preocupaciones  y desafíos  de  la  política  educativa,  a  los  efectos  de  garantizar  el  derecho  de  todos  los  niños, niñas, jóvenes y adultos a acceder a los conocimientos necesarios para la participación en la vida  de  manera  crítica  y  transformadora.  Esto  supone  desarrollar  políticas  que  tengan  como preocupación  las  propuestas  que  la  escuela  ofrece,  no  solo  en  términos  de  contenidos  sino también  respecto  de  los  procesos  de  transmisión,  las  formas  de  organización  así  como  las condiciones pedagógicas y materiales en que tiene lugar. Producir mejores condiciones para el cotidiano escolar tanto para alumnos/as como para docentes implica una preocupación por los modos en que es posible verificar la igualdad en el acceso a los conocimientos para todos los niños, jóvenes y adultos'.
 
-- Este encuadre de política educativa exige una reorganización de la educación especial que permita el acompañamiento de las trayectorias escolares de los/as alumnos/as con discapacidad en los niveles del Sistema Educativo y promueva que las escuelas especiales se constituyan progresivamente en un espacio destinado específicamente a aquellos/as niños/as que, por la complejidad o especificidad de su problemática, requieran este espacio educativo específico. Ello implica, asimismo, contemplar una estructura organizacional donde el personal docente y los equipos técnicos profesionales afectados a la modalidad cumplan sus funciones dentro del nuevo marco que se plantea en el presente documento.
+3. Este encuadre de política educativa exige una reorganización de la educación especial que permita el acompañamiento de las trayectorias escolares de los/as alumnos/as con discapacidad en los niveles del Sistema Educativo y promueva que las escuelas especiales se constituyan progresivamente en un espacio destinado específicamente a aquellos/as niños/as que, por la complejidad o especificidad de su problemática, requieran este espacio educativo específico. Ello implica, asimismo, contemplar una estructura organizacional donde el personal docente y los equipos técnicos profesionales afectados a la modalidad cumplan sus funciones dentro del nuevo marco que se plantea en el presente documento.
 
 ### 1. La modalidad Educación Especial
 
 #### 1.1. Los marcos normativos y el sistema educativo 1
 
-- Los marcos normativos y las políticas públicas procuran direccionar, desarrollar y acompañar los cambios. Se toman como base en el presente documento, entre otros:
+4. Los marcos normativos y las políticas públicas procuran direccionar, desarrollar y acompañar los cambios. Se toman como base en el presente documento, entre otros:
 
-- La Constitución Nacional que establece el derecho de enseñar y aprender 2 .
+5. La Constitución Nacional que establece el derecho de enseñar y aprender 2 .
 
 6. La Ley 26.061 de Protección Integral de Los Derechos de Las Niñas, Niños Y Adolescentes, en  base  a  la  Convención  sobre  los  Derechos  del  Niño  que  'tiene  por  objeto  la  protección integral de los derechos de las niñas, niños y adolescentes que se encuentren en el territorio de la República Argentina' 3 .
 
 > 1 Véase:  Ministerio  de  Educación,  Ciencia  y  Tecnología  y  Programa  de  Naciones  Unidas  para  el Desarrollo (2008): Educación integral de adolescentes y jóvenes. Buenos Aires.
 
-> 3 'Los Organismos del Estado tienen la responsabilidad indelegable de establecer, controlar y garantizar el cumplimiento de las políticas públicas con carácter federal.
-
 > 2 'Todos  los  habitantes  de  la  Nación  gozan  de  los  siguientes  derechos,  conforme  las  leyes  que reglamenten su ejercicio, a saber: (…) de enseñar y aprender' (Art. 14).
 
+> 3 'Los Organismos del Estado tienen la responsabilidad indelegable de establecer, controlar y garantizar el cumplimiento de las políticas públicas con carácter federal.
 > En la formulación y ejecución de políticas públicas y su prestación, es prioritario para los Organismos del Estado  mantener  siempre  presente  el  interés  superior  de  las  personas  sujetos  de  esta  Ley  y  la asignación  privilegiada  de  los  recursos  públicos  que  las  garanticen'  (Art.  5)  […]  'las  niñas,  niños  y adolescentes  con  capacidades  especiales  tienen  todos  los  derechos  y  garantías  consagrados  y reconocidos por esta Ley, además de los inherentes a su condición específica.
-
 > Los  Organismos  del  Estado,  la  familia  y  la  sociedad  deben  asegurarles  el  pleno  desarrollo  de  su personalidad hasta el máximo de sus potencialidades, así como el goce de una vida plena y digna' (Art. 15).
 
 [[END OF PAGE 4]]
@@ -172,17 +196,17 @@ Consejo Federal de Educación
 
 11. Uno de los fines y objetivos de la política educativa nacional es 'Brindar a las personas con discapacidades,  temporales  o  permanentes,  una  propuesta  pedagógica  que  les  permita  el máximo  desarrollo  de  sus  posibilidades,  la  integración  y  el  pleno  ejercicio  de  sus  derechos' (LEN Art. 11 Inc. n).
 
-- La definición de la Educación Especial como Modalidad, implica brindar a los/as alumnos/as con  discapacidad,  más  allá  del  tipo  de  escuela  al  que  asistan,  una  clara  pertenencia  a  los Niveles  del  Sistema,  superando  de  esta  forma  consideraciones  anteriores  que  aludían  a subsistemas segmentados 6 .
+12. La definición de la Educación Especial como Modalidad, implica brindar a los/as alumnos/as con  discapacidad,  más  allá  del  tipo  de  escuela  al  que  asistan,  una  clara  pertenencia  a  los Niveles  del  Sistema,  superando  de  esta  forma  consideraciones  anteriores  que  aludían  a subsistemas segmentados 6 .
 
-- La  extensión  de  la  obligatoriedad  y  el  reconocimiento  de  las  personas  con  discapacidad como sujetos  de derecho, ponen  en el  centro  de  las  preocupaciones  la  necesidad  de  definir políticas  específicas  que  garanticen  su  educación  y  sus  trayectorias  escolares  completas, expresado  específicamente  en  el  Capítulo  VIII  Educación  Especial  de  la  Ley  de  Educación Nacional:
+13. La  extensión  de  la  obligatoriedad  y  el  reconocimiento  de  las  personas  con  discapacidad como sujetos  de derecho, ponen  en el  centro  de  las  preocupaciones  la  necesidad  de  definir políticas  específicas  que  garanticen  su  educación  y  sus  trayectorias  escolares  completas, expresado  específicamente  en  el  Capítulo  VIII  Educación  Especial  de  la  Ley  de  Educación Nacional:
 
-'La  Educación  Especial  es  la  modalidad  del  Sistema  Educativo  destinada  a  asegurar  el derecho a  la  educación  de  las  personas  con  discapacidades,  temporales  o  permanentes,  en todos los niveles y modalidades del Sistema. La Educación Especial se rige por el principio de inclusión  educativa,  de  acuerdo  con  el  inciso  n)  del  artículo  11  de  esta  Ley.  La  Educación Especial brinda atención educativa en todas aquellas problemáticas específicas que no puedan ser abordadas por la educación común. El Ministerio de Educación, Ciencia y Tecnología, en acuerdo con el Consejo Federal de Educación garantizará la integración de los/as alumnos/as con discapacidades temporales o permanentes en todos los niveles y modalidades según las posibilidades de cada persona' (LEN Art. 42).
+14. 'La  Educación  Especial  es  la  modalidad  del  Sistema  Educativo  destinada  a  asegurar  el derecho a  la  educación  de  las  personas  con  discapacidades,  temporales  o  permanentes,  en todos los niveles y modalidades del Sistema. La Educación Especial se rige por el principio de inclusión  educativa,  de  acuerdo  con  el  inciso  n)  del  artículo  11  de  esta  Ley.  La  Educación Especial brinda atención educativa en todas aquellas problemáticas específicas que no puedan ser abordadas por la educación común. El Ministerio de Educación, Ciencia y Tecnología, en acuerdo con el Consejo Federal de Educación garantizará la integración de los/as alumnos/as con discapacidades temporales o permanentes en todos los niveles y modalidades según las posibilidades de cada persona' (LEN Art. 42).
 
 > 4 Ley Nº 26.378.
 
-> 6 LEN N°  26.206. Art. 17.
-
 > 5 Arts. 79 y 80.
+
+> 6 LEN N°  26.206. Art. 17.
 
 [[END OF PAGE 5]]
 
@@ -208,15 +232,15 @@ Consejo Federal de Educación
 
 - una cultura educativa en la cual todos/as se sientan partícipes.
 
-- La  Organización  de  las  Naciones  Unidas  para  la  Educación,  la  Ciencia  y  la  Cultura (UNESCO) define la inclusión como 'una estrategia dinámica para responder en forma proactiva a la diversidad de los/as estudiantes y concebir las diferencias individuales no como problema sino como oportunidades para enriquecer el aprendizaje' 7 .
+16. La  Organización  de  las  Naciones  Unidas  para  la  Educación,  la  Ciencia  y  la  Cultura (UNESCO) define la inclusión como 'una estrategia dinámica para responder en forma proactiva a la diversidad de los/as estudiantes y concebir las diferencias individuales no como problema sino como oportunidades para enriquecer el aprendizaje' 7 .
 
-- La  inclusión consiste en  transformar  los  sistemas  educativos  y  otros  entornos  de aprendizaje para responder a las diferentes necesidades de los/as alumnos/as. Ello implica que hay tiempos distintos, estrategias diferentes y recursos diversos para el aprendizaje de todos/as los  alumnos/as.  En  este  marco,  las  necesidades  de  los/as  alumnos/as  son  vistas  como necesidades  de  la  institución  y  las diferencias están  dadas  por  los  estilos, ritmos y/o motivaciones para el aprendizaje.
+17. La  inclusión consiste en  transformar  los  sistemas  educativos  y  otros  entornos  de aprendizaje para responder a las diferentes necesidades de los/as alumnos/as. Ello implica que hay tiempos distintos, estrategias diferentes y recursos diversos para el aprendizaje de todos/as los  alumnos/as.  En  este  marco,  las  necesidades  de  los/as  alumnos/as  son  vistas  como necesidades  de  la  institución  y  las diferencias están  dadas  por  los  estilos, ritmos y/o motivaciones para el aprendizaje.
 
-- Garantizar el  derecho  a la  educación de  todas  las personas con discapacidad  exige que todos los/as alumnos/as con discapacidad estén en aquella escuela que los beneficie en mayor medida,  tomando  como  referencia  el  currículum  común  y  elaborando,  en  base  a  este, estrategias diversificadas que contemplen la complejidad o especificidad de la problemática de los/as estudiantes, de manera de implementar las configuraciones de apoyo que se requieran 8 .
+18. Garantizar el  derecho  a la  educación de  todas  las personas con discapacidad  exige que todos los/as alumnos/as con discapacidad estén en aquella escuela que los beneficie en mayor medida,  tomando  como  referencia  el  currículum  común  y  elaborando,  en  base  a  este, estrategias diversificadas que contemplen la complejidad o especificidad de la problemática de los/as estudiantes, de manera de implementar las configuraciones de apoyo que se requieran 8 .
 
-- Inclusión e integración deben vincularse y repensarse en las prácticas. La inclusión es un principio que contribuye a mejorar las condiciones de los entornos para acoger a todos/as. La integración escolar, por su parte, es una estrategia educativa que tiende a la inclusión de los/as alumnos/as con discapacidad, siempre que sea posible, en la escuela de educación común, con las  configuraciones  de  apoyo  necesarias.  En  aquellos  casos  en  que  la  complejidad  de  la problemática  de  los/as  alumnos/as  con  discapacidad  requiera  que  su  trayectoria  escolar  se desarrolle en el ámbito de la escuela especial, se diversificará el currículum para acceder a los contenidos escolares, con los apoyos personales y las configuraciones de apoyo necesarias.
+19. Inclusión e integración deben vincularse y repensarse en las prácticas. La inclusión es un principio que contribuye a mejorar las condiciones de los entornos para acoger a todos/as. La integración escolar, por su parte, es una estrategia educativa que tiende a la inclusión de los/as alumnos/as con discapacidad, siempre que sea posible, en la escuela de educación común, con las  configuraciones  de  apoyo  necesarias.  En  aquellos  casos  en  que  la  complejidad  de  la problemática  de  los/as  alumnos/as  con  discapacidad  requiera  que  su  trayectoria  escolar  se desarrolle en el ámbito de la escuela especial, se diversificará el currículum para acceder a los contenidos escolares, con los apoyos personales y las configuraciones de apoyo necesarias.
 
-'El debate sobre la educación inclusiva y la integración no se refiere a una dicotomía entre políticas y modelos de integración e inclusión -como si se pudiera integrar sin incluir o incluir sin integrar-, sino más bien a determinar en qué medida se está avanzando en el entendimiento de que toda escuela tiene la responsabilidad moral de incluir a todos y cada uno. En los últimos quince  años  aproximadamente,  el  concepto  de  educación  inclusiva  ha  evolucionado  hacia  la idea de que todos los niños y jóvenes, no obstante las diversidades culturales, sociales y de
+20. 'El debate sobre la educación inclusiva y la integración no se refiere a una dicotomía entre políticas y modelos de integración e inclusión -como si se pudiera integrar sin incluir o incluir sin integrar-, sino más bien a determinar en qué medida se está avanzando en el entendimiento de que toda escuela tiene la responsabilidad moral de incluir a todos y cada uno. En los últimos quince  años  aproximadamente,  el  concepto  de  educación  inclusiva  ha  evolucionado  hacia  la idea de que todos los niños y jóvenes, no obstante las diversidades culturales, sociales y de
 
 > 7 UNESCO (2005:12). Guidelines for Inclusión: Ensuring Access to Education for All. París, Ediciones de la UNESCO.
 
@@ -234,35 +258,35 @@ aprendizaje,  deberían  tener  oportunidades  de  aprendizaje  equivalentes  en
 
 #### 1.4. Las personas con discapacidad, sujetos de derecho
 
-- El modelo social de la discapacidad es sostenido por la Organización Mundial de la Salud (OMS)  y  por  el  marco  de  las  Convenciones  y  principios  de  derechos  humanos.  Para  este modelo, la discapacidad no es un atributo de la persona, sino un conjunto de condiciones que responden a la interacción entre las características del individuo y el contexto social. En este sentido, la discapacidad es un resultado negativo de la interacción entre una condición personal (la deficiencia) y el medio (debido a sus barreras).
+21. El modelo social de la discapacidad es sostenido por la Organización Mundial de la Salud (OMS)  y  por  el  marco  de  las  Convenciones  y  principios  de  derechos  humanos.  Para  este modelo, la discapacidad no es un atributo de la persona, sino un conjunto de condiciones que responden a la interacción entre las características del individuo y el contexto social. En este sentido, la discapacidad es un resultado negativo de la interacción entre una condición personal (la deficiencia) y el medio (debido a sus barreras).
 
-- La Convención  sobre  los  Derechos  de  las  Personas  con  Discapacidad 10 , primera convención del siglo XXI, señala que:
+22. La Convención  sobre  los  Derechos  de  las  Personas  con  Discapacidad 10 , primera convención del siglo XXI, señala que:
 
-'Las personas con discapacidad incluyen aquellas que tengan deficiencias físicas, mentales, intelectuales  o  sensoriales  (...)  que,  al  interactuar  con  distintas  barreras,  puedan  impedir  su participación plena y efectiva en igualdad de condiciones con las demás' (Art. 1).
+23. 'Las personas con discapacidad incluyen aquellas que tengan deficiencias físicas, mentales, intelectuales  o  sensoriales  (...)  que,  al  interactuar  con  distintas  barreras,  puedan  impedir  su participación plena y efectiva en igualdad de condiciones con las demás' (Art. 1).
 
-- Los valores que promueve el paradigma de la inclusión se basan en el reconocimiento de la persona  con  discapacidad  como  sujeto  de  derecho.  Todas  las  personas  con  discapacidad, como sujetos  políticos,  tienen  derecho  a  la  palabra,  no  sólo  a  manifestar  sus  necesidades  y deseos,  sino  también  a  participar  con  sus  opiniones  en  la  toma  de  decisiones  sobre  todos aquellos  aspectos  que  los  afectan  o  inciden  sobre  su  vida  personal  y  el  ejercicio  de  su ciudadanía.
+24. Los valores que promueve el paradigma de la inclusión se basan en el reconocimiento de la persona  con  discapacidad  como  sujeto  de  derecho.  Todas  las  personas  con  discapacidad, como sujetos  políticos,  tienen  derecho  a  la  palabra,  no  sólo  a  manifestar  sus  necesidades  y deseos,  sino  también  a  participar  con  sus  opiniones  en  la  toma  de  decisiones  sobre  todos aquellos  aspectos  que  los  afectan  o  inciden  sobre  su  vida  personal  y  el  ejercicio  de  su ciudadanía.
 
-- Tres principios sustentan el enfoque de educación basado en los derechos :
+25. Tres principios sustentan el enfoque de educación basado en los derechos:
 
-- el derecho a una educación de calidad;
+1. acceso a una educación obligatoria y gratuita;
 
-- acceso a una educación obligatoria y gratuita;
+2. el derecho a una educación de calidad;
 
-- igualdad, inclusión y no discriminación 11 .
+3. igualdad, inclusión y no discriminación 11 .
 
 ### 2. Políticas de la Modalidad
 
-- La modalidad Educación Especial, de acuerdo a la Ley Nacional de Educación, desarrollará las  políticas  correspondientes  para  garantizar  trayectorias  educativas  integrales  de  los/as alumnos/as con discapacidad.
+26. La modalidad Educación Especial, de acuerdo a la Ley Nacional de Educación, desarrollará las  políticas  correspondientes  para  garantizar  trayectorias  educativas  integrales  de  los/as alumnos/as con discapacidad.
 
-- Para dar cumplimiento al Capítulo VIII de la Ley Nº 26.206, los Ministerios de Educación Provinciales y de la Ciudad Autónoma de Buenos Aires, junto al Ministerio Nacional a través de la  Coordinación  Nacional  de  Educación  Especial  se  comprometen  de  manera  progresiva    a partir del año 2012 12 , a:
+27. Para dar cumplimiento al Capítulo VIII de la Ley Nº 26.206, los Ministerios de Educación Provinciales y de la Ciudad Autónoma de Buenos Aires, junto al Ministerio Nacional a través de la  Coordinación  Nacional  de  Educación  Especial  se  comprometen  de  manera  progresiva    a partir del año 2012 12 , a:
 
 - generar mecanismos de articulación con otros ministerios y organismos del Estado que atienden  a  personas  con  discapacidades,  temporales  o  permanentes,  para  garantizar  el ejercicio  de  sus  derechos.  Será  fundamental  establecer  y  lograr  la  complementariedad  y  la concurrencia de las diferentes áreas del Estado, como ser: Salud, Desarrollo Social, Trabajo, Derechos Humanos, más otras que puedan incorporarse en función del objetivo propuesto;
 
 > 9 UNESCO (2008): 'La educación inclusiva: el camino hacia el futuro'. Cuadragésima octava Conferencia Internacional de Educación. Ginebra, 25 - 28 de noviembre.
 
-> 11 UNESCO (2005): Guidelines for inclusión: Ensuring Access to Education for All. París. Ediciones de la UNESCO.
+> 10 ONU (2006): Convención sobre los Derechos de las Personas con Discapacidad.
 
-> 10 ONU (2006): Convención sobre los Derechos de las Personas con Discapacidad .
+> 11 UNESCO (2005): Guidelines for inclusión: Ensuring Access to Education for All. París. Ediciones de la UNESCO.
 
 > 12 Resolución del CFE Nº 134.
 
@@ -376,7 +400,7 @@ alumnos/as,  a  las  características  reales  y  concretas  del  contexto  de  
 
 ### 3.  La Educación Especial y los niveles educativos
 
-- Estrategias  específicas  por  nivel  educativo  de  acuerdo  a  las  dimensiones:  trayectorias escolares, escuela/ enseñanza y desarrollo institucional.
+30. Estrategias  específicas  por  nivel  educativo  de  acuerdo  a  las  dimensiones:  trayectorias escolares, escuela/ enseñanza y desarrollo institucional.
 
 > 14 Ley 24.901/97 de Prestaciones de Servicios Básicos.
 
@@ -392,9 +416,9 @@ Consejo Federal de Educación
 
 ##### 3.1.1. Atención a la primera infancia (0 a 3 años)
 
-- La  intervención  temprana  en  la  población  infantil  susceptible  de  alguna  limitación  en  su proceso de desarrollo es la mejor política para superar las desventajas individuales que provoca la discapacidad.
+31. La  intervención  temprana  en  la  población  infantil  susceptible  de  alguna  limitación  en  su proceso de desarrollo es la mejor política para superar las desventajas individuales que provoca la discapacidad.
 
-- Para dar cumplimiento al Capítulo VIII de la Ley Nº 26.206, los Ministerios de Educación Provinciales y de la Ciudad Autónoma de Buenos Aires, junto al Ministerio Nacional a través de la Coordinación Nacional se comprometen de manera progresiva, a partir del año 2012, a:
+32. Para dar cumplimiento al Capítulo VIII de la Ley Nº 26.206, los Ministerios de Educación Provinciales y de la Ciudad Autónoma de Buenos Aires, junto al Ministerio Nacional a través de la Coordinación Nacional se comprometen de manera progresiva, a partir del año 2012, a:
 
 - establecer las regulaciones jurisdiccionales, en el marco de las normativas nacionales, y los  medios  necesarios  en  articulación  con  los  organismos  que  atienden  a  personas  con discapacidades en su primera infancia;
 
@@ -438,9 +462,9 @@ Consejo Federal de Educación
 
 #### 3.2. Nivel Primario
 
-- La política educativa de este nivel está orientada al desarrollo de acciones para la inclusión de todos/as los/as alumnos/as en el Sistema Educativo y a garantizar el cumplimiento pleno de su derecho a una educación de calidad.
+37. La política educativa de este nivel está orientada al desarrollo de acciones para la inclusión de todos/as los/as alumnos/as en el Sistema Educativo y a garantizar el cumplimiento pleno de su derecho a una educación de calidad.
 
-- Para dar cumplimiento al Capítulo VIII de la Ley Nº 26.206, los Ministerios de Educación Provinciales y de la Ciudad Autónoma de Buenos Aires, junto al Ministerio Nacional a través de la  Coordinación  Nacional  de  Educación  Especial  se  comprometen  de  manera  progresiva,  a partir del año 2012 en cada una de las dimensiones, a:
+38. Para dar cumplimiento al Capítulo VIII de la Ley Nº 26.206, los Ministerios de Educación Provinciales y de la Ciudad Autónoma de Buenos Aires, junto al Ministerio Nacional a través de la  Coordinación  Nacional  de  Educación  Especial  se  comprometen  de  manera  progresiva,  a partir del año 2012 en cada una de las dimensiones, a:
 
 ##### 39. Dimensión: Trayectorias Escolares
 
@@ -488,9 +512,9 @@ los/as  alumnos/as con discapacidad en las escuelas en las que se encuentren (es
 
 #### 3.3. Educación para Adolescentes y Jóvenes con Discapacidad
 
-- Hasta el presente, la estrategia predominante para la atención educativa de adolescentes y jóvenes con discapacidad ha estado abocada casi exclusivamente a la formación laboral, sin brindar  propuestas  pedagógicas  acordes  a  su  franja  etárea  que  consideren  otras  áreas  y propendan al desarrollo integral y autónomo de esta población en su pasaje a la vida adulta, respetando sus intereses, motivaciones y necesidades.
+42. Hasta el presente, la estrategia predominante para la atención educativa de adolescentes y jóvenes con discapacidad ha estado abocada casi exclusivamente a la formación laboral, sin brindar  propuestas  pedagógicas  acordes  a  su  franja  etárea  que  consideren  otras  áreas  y propendan al desarrollo integral y autónomo de esta población en su pasaje a la vida adulta, respetando sus intereses, motivaciones y necesidades.
 
-- Para dar cumplimiento al Capítulo VIII de la Ley Nº 26.206, los Ministerios de Educación Provinciales y de la Ciudad Autónoma de Buenos Aires, junto al Ministerio Nacional a través de la  Coordinación  Nacional  de  Educación  Especial  se  comprometen  de  manera  progresiva,  a partir del año 2012 en cada una de las dimensiones, a:
+43. Para dar cumplimiento al Capítulo VIII de la Ley Nº 26.206, los Ministerios de Educación Provinciales y de la Ciudad Autónoma de Buenos Aires, junto al Ministerio Nacional a través de la  Coordinación  Nacional  de  Educación  Especial  se  comprometen  de  manera  progresiva,  a partir del año 2012 en cada una de las dimensiones, a:
 
 ##### 44. Dimensión Trayectorias Escolares
 
@@ -542,7 +566,7 @@ Consejo Federal de Educación
 
 #### 3.4. Educación Permanente para Adultos con Discapacidad
 
-- Para dar cumplimiento al Capítulo VIII de la Ley Nº 26.206, los Ministerios de Educación Provinciales y de la Ciudad Autónoma de Buenos Aires, junto al Ministerio Nacional a través de la Coordinación Nacional se comprometen de manera progresiva, a partir del año 2012, a:
+47. Para dar cumplimiento al Capítulo VIII de la Ley Nº 26.206, los Ministerios de Educación Provinciales y de la Ciudad Autónoma de Buenos Aires, junto al Ministerio Nacional a través de la Coordinación Nacional se comprometen de manera progresiva, a partir del año 2012, a:
 
 - Impulsar propuestas de formación permanente, a las cuales puedan acceder aquellos/as adultos, a partir de los 20/22 años con discapacidad innata o adquirida que hayan finalizado o
 
@@ -600,9 +624,9 @@ Consejo Federal de Educación
 
 ### 4. La Educación Especial y otras modalidades del sistema educativo
 
-- La  modalidad  de  Educación  Especial  articulará  con  las  otras  modalidades  del  Sistema Educativo en vistas a avanzar en el desarrollo de trayectorias educativas integrales de calidad para los/as estudiantes con discapacidad,  considerando las particularidades regionales, lingüísticas culturales, contextuales y otras.
+52. La  modalidad  de  Educación  Especial  articulará  con  las  otras  modalidades  del  Sistema Educativo en vistas a avanzar en el desarrollo de trayectorias educativas integrales de calidad para los/as estudiantes con discapacidad,  considerando las particularidades regionales, lingüísticas culturales, contextuales y otras.
 
-- Para dar cumplimiento al Capítulo VIII de la Ley Nº 26.206, los Ministerios de Educación Provinciales y de la Ciudad Autónoma de Buenos Aires se comprometen de manera progresiva, a partir del año 2012, a fortalecer la articulación con cada una de las modalidades:
+53. Para dar cumplimiento al Capítulo VIII de la Ley Nº 26.206, los Ministerios de Educación Provinciales y de la Ciudad Autónoma de Buenos Aires se comprometen de manera progresiva, a partir del año 2012, a fortalecer la articulación con cada una de las modalidades:
 
 #### 4.1. Educación Técnico Profesional
 
