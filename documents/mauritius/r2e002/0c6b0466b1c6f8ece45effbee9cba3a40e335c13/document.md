@@ -6,9 +6,9 @@
 
 [[START OF PAGE 2]]
 
-March 2016
-
 Mauritius National Assembly
+
+March 2016
 
 [[END OF PAGE 2]]
 
@@ -32,6 +32,78 @@ GN 54/1968 - 12 March 1968
 
 ## CHAPTER I - THE STATE AND THE CONSTITUTION
 
+- 1 The State
+
+- 2 Constitution is supreme law
+
+## CHAPTER II - PROTECTION OF FUNDAMENTAL RIGHTS AND FREEDOMS OF THE INDIVIDUAL
+
+- 3 Fundamental rights and freedoms of the individual
+
+- 4 Protection of right to life
+
+- 5 Protection of right to personal liberty
+
+- 6 Protection from slavery and forced labour
+
+- 7 Protection from inhuman treatment
+
+- 8 Protection from deprivation of property
+
+- 9 Protection for privacy of home and other property
+
+- 10 Provisions to secure protection of law
+
+- 11 Protection of freedom of conscience
+
+- 12 Protection of freedom of expression
+
+- 13 Protection of freedom of assembly and association
+
+- 14 Protection of freedom to establish schools
+
+- 15 Protection of freedom of movement
+
+- 16 Protection from discrimination
+
+- 17 Enforcement of protective provisions
+
+- 17A Payment of retiring allowances to Members
+
+- 18 Derogations from fundamental rights and freedoms under emergency powers
+
+- 19 Interpretation and savings
+
+## CHAPTER III - CITIZENSHIP
+
+- 20 Persons who became citizens on 12 March 1968
+
+- 21 Persons entitled to be registered as citizens
+
+- 22 Persons born in Mauritius after 11 March 1968
+
+- 23 Persons born outside Mauritius after 11 March 1968
+
+- 24 Marriage to a citizen of Mauritius
+
+- 25 Commonwealth citizens
+
+- 26 Powers of Parliament
+
+- 27 Interpretation
+
+## CHAPTER IV - THE PRESIDENT AND THE VICE-PRESIDENT OF THE REPUBLIC OF MAURITIUS
+
+- 28 The President
+
+- 29 The Vice-President
+
+- 30 Removal of the President and the Vice-President
+
+- 30A Privileges and immunities
+
+- 30B Oaths to be taken by the President and the Vice-President
+
 * This Constitution was originally published as the Schedule to the Mauritius Independence Order 1968 in GN 54 of 1968. The Order was complemented in the UK by the Mauritius Independence Act 1968. The Mauritius Independence Order 1968 and the Mauritius Independence Act (UK) were last officially published in Mauritius in the Revised Laws of Mauritius 1981 Vol. 1.
 
 1
@@ -43,6 +115,104 @@ GN 54/1968 - 12 March 1968
 ## CHAPTER V - PARLIAMENT
 ### PART I - THE NATIONAL ASSEMBLY
 
+- 31 Parliament of Mauritius
+
+- 32 Speaker and Deputy Speaker
+
+- 33 Qualifications for membership
+
+- 34 Disqualifications for membership
+
+- 35 Tenure of office of members
+
+- 36 Vacation of seat on sentence
+
+- 36A Validity of previous elections
+
+- 37 Determination of questions as to membership
+
+- 38 Electoral Commissions
+
+- 39 Constituencies
+
+- 40 Electoral Commissioner
+
+- 41 Functions of Electoral Supervisory Commission and Electoral Commissioner
+
+- 42 Qualifications of electors
+
+- 43 Disqualifications of electors
+
+- 44 Right to vote at elections
+
+### PART II - LEGISLATION AND PROCEDURE IN NATIONAL ASSEMBLY
+
+- 45 Power to make laws
+
+- 46 Mode of exercise of legislative power
+
+- 47 Alteration of Constitution
+
+- 48 Regulation of procedure in National Assembly
+
+- 49 Official language
+
+- 50 Presiding in National Assembly
+
+- 51 National Assembly may transact business notwithstanding vacancies
+
+- 52 Quorum
+
+- 53 Voting
+
+- 54 Bills, motions and petitions
+
+- 55 Oath of allegiance
+
+- 56 Sessions
+
+- 57 Prorogation and dissolution of Parliament
+
+## CHAPTER VI - THE EXECUTIVE
+
+- 58 Executive authority of Mauritius
+
+- 59 Ministers
+
+- 60 Tenure of office of Ministers
+
+- 61 The Cabinet
+
+- 62 Assignment of responsibilities to Ministers
+
+- 63 Performance of functions of Prime Minister during absence or illness
+
+- 64 Exercise of President’s functions
+
+- 65 President to be kept informed
+
+- 66 Junior Ministers
+
+- 67 Oaths to be taken by Ministers and Junior Ministers
+
+- 68 Direction of government departments
+
+- 69 Attorney-General
+
+- 70 Secretary to the Cabinet
+
+- 71 Commissioner of Police
+
+- 72 Director of Public Prosecutions
+
+- 73 Leader of Opposition
+
+- 73A –
+
+- 74 Constitution of offices
+
+- 75 Prerogative of mercy
+
 2
 
 [[END OF PAGE 5]]
@@ -50,6 +220,98 @@ GN 54/1968 - 12 March 1968
 [[START OF PAGE 6]]
 
 ## CHAPTER VIA - THE RODRIGUES REGIONAL ASSEMBLY
+
+- 75A The Rodrigues Regional Assembly
+
+- 75B Powers of the Regional Assembly
+
+- 75C Executive Council
+
+- 75D Rodrigues Capital and Consolidated Funds
+
+- 75E Alteration of certain written laws
+
+## CHAPTER VII - THE JUDICATURE
+
+- 76 Supreme Court
+
+- 77 Appointment of Judges of Supreme Court
+
+- 78 Tenure of office of Judges of Supreme Court
+
+- 79 Oaths to be taken by Judges
+
+- 80 Courts of Appeal
+
+- 81 Appeals to the Judicial Committee
+
+- 82 Supreme Court and subordinate courts
+
+- 83 Original jurisdiction of Supreme Court in constitutional questions
+
+- 84 Reference of constitutional questions to Supreme Court
+
+## CHAPTER VIII - SERVICE COMMISSIONS AND THE PUBLIC SERVICE
+
+- 85 Judicial and Legal Service Commission
+
+- 86 Appointment of judicial and legal officers
+
+- 87 Appointment of principal representatives of Mauritius abroad
+
+- 88 Public Service Commission
+
+- 89 Appointment of public officers
+
+- 90 Disciplined Forces Service Commission
+
+- 91 Appointment in the Disciplined Forces
+
+- 91A Public Bodies Appeal Tribunal
+
+- 92 Tenure of office of members of Commissions and the Ombudsman
+
+- 93 Removal of certain officers
+
+- 94 Pension laws and protection of pension rights
+
+- 95 Power of Commissions in relation to pensions
+
+## CHAPTER IX - THE OMBUDSMAN
+
+- 96 Office of the Ombudsman
+
+- 97 Investigations by Ombudsman
+
+- 98 Procedure in respect of investigations
+
+- 99 Disclosure of information
+
+- 100 Proceedings after investigation
+
+- 101 Discharge of functions of Ombudsman
+
+- 102 Supplementary and ancillary provision
+
+- 102A –
+
+## CHAPTER X - FINANCE
+
+- 103 Consolidated Fund
+
+- 104 Withdrawals from Consolidated Fund or other public funds
+
+- 105 Authorisation of expenditure
+
+- 106 Authorisation of expenditure in advance of appropriation
+
+- 107 Contingencies Fund
+
+- 108 Remuneration of certain officers
+
+- 109 Public debt
+
+- 110 Director of Audit
 
 3
 
@@ -109,6 +371,10 @@ ____________________
 
 [[START OF PAGE 8]]
 
+# THE CONSTITUTION
+
+## CHAPTER I - THE STATE AND THE CONSTITUTION
+
 ### 1 The State
 
 Mauritius shall be a sovereign democratic State which shall be known as the Republic of Mauritius. [Amended 48/91]
@@ -149,13 +415,9 @@ or if he dies as the result of a lawful act of war.
 
 ### 5 Protection of right to personal liberty
 
-- No person shall be deprived of his personal liberty save as may be authorised by law -
+(1) No person shall be deprived of his personal liberty save as may be authorised by law -
 
 (a) in consequence of his unfitness to plead to a criminal charge or in execution of the sentence or order of a court, whether in Mauritius or elsewhere, in respect of a criminal offence of which he has been convicted;
-
-# THE CONSTITUTION
-
-## CHAPTER I - THE STATE AND THE CONSTITUTION
 
 5
 
@@ -185,11 +447,11 @@ or if he dies as the result of a lawful act of war.
 
 (2) Any person who is arrested or detained shall be informed as soon as reasonably practicable, in a language that he understands, of the reasons for his arrest or detention.
 
-- Any person who is arrested or detained -
+(3) Any person who is arrested or detained -
 
 (a) for the purpose of bringing him before a court in execution of the order of a court;
 
-(b) upon reasonable suspicion of his having committed, or being about to commit a criminal offence; or
+(b) upon reasonable suspicion of his having committed, or being about to commit, a criminal offence; or
 
 (c) upon reasonable suspicion of his being likely to commit breaches of the peace,
 
@@ -241,11 +503,11 @@ and who is not released, shall be afforded reasonable facilities to consult a le
 
 ### 6 Protection from slavery and forced labour
 
-- No person shall be held in slavery or servitude.
+(1) No person shall be held in slavery or servitude.
 
-- No person shall be required to perform forced labour.
+(2) No person shall be required to perform forced labour.
 
-- For the purposes of this section, the expression 'forced labour' does not include -
+(3) For the purposes of this section, the expression “forced labour” does not include -
 
 (a) any labour required in consequence of the sentence or order of a court;
 
@@ -383,7 +645,7 @@ except so far as that provision or, as the case may be, the thing done under its
 
 (1) Where any person is charged with a criminal offence, then, unless the charge is withdrawn, the case shall be afforded a fair hearing within a reasonable time by an independent and impartial court established by law.
 
-- Every person who is charged with a criminal offence -
+(2) Every person who is charged with a criminal offence -
 
 (a) shall be presumed to be innocent until he is proved or has pleaded guilty;
 
@@ -441,7 +703,7 @@ and, except with his own consent, the trial shall not take place in his absence 
 
 [[START OF PAGE 16]]
 
-(12) In this section 'criminal offence' means a crime, misdemeanour or contravention punishable under the law of Mauritius.
+(12) In this section “criminal offence” means a crime, misdemeanour or contravention punishable under the law of Mauritius.
 
 [Amended 40/00; 4/02]
 
@@ -511,7 +773,7 @@ except so far as that provision or, as the case may be, the thing done under its
 
 (3) No person shall be prevented from sending to any such school a child of whom that person is parent or guardian by reason only that the school is not a school established or maintained by the Government.
 
-(4) In subsection (3), 'child' includes a stepchild and a child adopted in a manner recognised by law, and 'parent' shall be construed accordingly.
+(4) In subsection (3), “child” includes a stepchild and a child adopted in a manner recognised by law, and “parent” shall be construed accordingly.
 
 ### 15 Protection of freedom of movement
 
@@ -563,7 +825,7 @@ Provided that a person whose freedom of movement has been restricted by virtue o
 
 (2) Subject to subsections (6), (7) and (8), no person shall be treated in a discriminatory manner by any person acting in the performance of any public function conferred by any law or otherwise in the performance of the functions of any public office or any public authority.
 
-(3) In this section, 'discriminatory' means affording different treatment to different persons attributable wholly or mainly to their respective descriptions by race, caste, place of origin, political opinions, colour, creed or sex whereby persons of one such description are subjected to disabilities or restrictions to which persons of another such description are not made subject or are accorded privileges or advantages that are not accorded to persons of another such description.
+(3) In this section, “discriminatory” means affording different treatment to different persons attributable wholly or mainly to their respective descriptions by race, caste, place of origin, political opinions, colour, creed or sex whereby persons of one such description are subjected to disabilities or restrictions to which persons of another such description are not made subject or are accorded privileges or advantages that are not accorded to persons of another such description.
 
 15
 
@@ -571,7 +833,7 @@ Provided that a person whose freedom of movement has been restricted by virtue o
 
 [[START OF PAGE 19]]
 
-- Subsection (1) shall not apply to any law so far as that law makes provision -
+(4) Subsection (1) shall not apply to any law so far as that law makes provision -
 
 (a) for the appropriation of revenues or other funds of Mauritius;
 
@@ -589,7 +851,7 @@ Provided that a person whose freedom of movement has been restricted by virtue o
 
 (8) Subsection  (2)  shall  not  affect  any  discretion  relating  to  the  institution,  conduct  or discontinuance of civil or criminal proceedings in any court that is vested in any person by or under this Constitution or any other law.
 
-[Amended 23/95: 35/11]
+[Amended 23/95; 35/11]
 
 ### 17 Enforcement of protective provisions
 
@@ -667,13 +929,13 @@ Provided that no resolution for the purposes of paragraph (a), (b), (c) or (d) s
 
 (1) In this Chapter -
 
-'contravention', in relation to any requirement, includes a failure to comply with that requirement, and cognate expressions shall be construed accordingly;
+“contravention”, in relation to any requirement, includes a failure to comply with that requirement, and cognate expressions shall be construed accordingly;
 
-'court', means any court of law having jurisdiction in Mauritius, including the Judicial Committee, but excepting, save in sections 4 and 6 and this section, a court established by a disciplinary law;
+“court”, means any court of law having jurisdiction in Mauritius, including the Judicial Committee, but excepting, save in sections 4 and 6 and this section, a court established by a disciplinary law;
 
-'legal representative', means a person lawfully in or entitled to be in Mauritius and entitled to practise in Mauritius as a barrister or, except in relation to proceedings before a court in which an attorney has no right of audience, as an attorney;
+“legal representative”, means a person lawfully in or entitled to be in Mauritius and entitled to practise in Mauritius as a barrister or, except in relation to proceedings before a court in which an attorney has no right of audience, as an attorney;
 
-'member', in relation to a disciplined force, includes any person who, under the law regulating the discipline of that force, is subject to that discipline.
+“member”, in relation to a disciplined force, includes any person who, under the law regulating the discipline of that force, is subject to that discipline.
 
 (2) Nothing contained in section 5(4), 15(4) or 18(3) shall be construed as entitling a person to legal representation at public expense.
 
@@ -691,7 +953,7 @@ Provided that no resolution for the purposes of paragraph (a), (b), (c) or (d) s
 
 [[START OF PAGE 22]]
 
-- In this Chapter 'period of public emergency' means any period during which -
+(7) In this Chapter “period of public emergency” means any period during which -
 
 (a) Mauritius is engaged in any war;
 
@@ -699,17 +961,17 @@ Provided that no resolution for the purposes of paragraph (a), (b), (c) or (d) s
 
 (c) there is in force a resolution of the Assembly supported by the votes of a majority of all the members of the Assembly declaring that democratic institutions in Mauritius are threatened by subversion.
 
-- A Proclamation made by the President for the purposes of subsection (7) -
+(8) A Proclamation made by the President for the purposes of subsection (7) -
 
 (a) shall, when the Assembly is sitting or when arrangements have already been made for it to meet within 7 days of the date of the Proclamation, lapse unless within 7 days the Assembly by resolution approves the Proclamation;
 
-(b) shall, when the Assembly is not sitting and no arrangements have been made for it to meet  within  7  days,  lapse  unless  within  21  days  it  meets  and  approves  the Proclamation by resolution;
+(b) shall, when the Assembly is not sitting and no arrangements have been made for it to meet within 7 days, lapse unless within 21 days it meets and approves the Proclamation by resolution;
 
 (c) may be revoked at any time by the President, or by resolution of the Assembly:
 
 Provided that no resolution for the purposes of paragraph (a) or (b) shall be passed unless it is supported by the votes of a majority of all members of the Assembly.
 
-- A resolution passed by the Assembly for the purposes of subsection (7)(c) -
+(9) A resolution passed by the Assembly for the purposes of subsection (7)(c) -
 
 (a) shall remain in force for such period, not exceeding 12 months, as the Assembly may specify in the resolution;
 
@@ -725,9 +987,9 @@ Provided that no resolution for the purposes of paragraph (a) or (b) shall be pa
 
 (1) Every person who, having been born in Mauritius, was on 11 March 1968 a citizen of the United Kingdom and Colonies became a citizen of Mauritius on 12 March 1968.
 
-- Every person who, on 11 March 1968, was a citizen of the United Kingdom and Colonies -
+(2) Every person who, on 11 March 1968, was a citizen of the United Kingdom and Colonies -
 
-(a) having become such a citizen under the British Nationality Act 1948 1 , by virtue of his having been naturalised by the Governor of the former Colony of Mauritius as a British subject before that Act came into force; or
+(a) having become such a citizen under the British Nationality Act 1948¹, by virtue of his having been naturalised by the Governor of the former Colony of Mauritius as a British subject before that Act came into force; or
 
 (b) having become such a citizen by virtue of his having been naturalised or registered by the Governor of the former Colony of Mauritius under that Act,
 
@@ -739,7 +1001,7 @@ became a citizen of Mauritius on 12 March 1968.
 
 [Amended 23/95]
 
-- 1 1948 c 56 (UK)
+1 1948 c 56 (UK)
 
 19
 
@@ -749,7 +1011,7 @@ became a citizen of Mauritius on 12 March 1968.
 
 ### 21 Persons entitled to be registered as citizens
 
-- Any person who, on 12 March 1968, was or had been married to another person -
+(1) Any person who, on 12 March 1968, was or had been married to another person -
 
 (a) who became a citizen of Mauritius by virtue of section 20; or
 
@@ -793,11 +1055,11 @@ Provided that the right to be registered as a citizen of Mauritius under this se
 
 (1) Every person who under this Constitution or any other law is a citizen of Mauritius or under any enactment for the time being in force in any country to which this section applies is a citizen of that country shall, by virtue of that citizenship, have the status of a Commonwealth citizen.
 
-(2) Every person who is a British subject without citizenship under the British Nationality Act 1948 2 , or continues to be a British subject under section 2 of that Act or is a British subject under the British Nationality Act 1965 3 shall, by virtue of that status, have the status of a Commonwealth citizen.
+(2) Every person who is a British subject without citizenship under the British Nationality Act 1948², or continues to be a British subject under section 2 of that Act or is a British subject under the British Nationality Act 1965³ shall, by virtue of that status, have the status of a Commonwealth citizen.
 
-> 2 1948 c 56 (UK)
+2 1948 c 56 (UK)
 
-> 3 1965 c 34 (UK)
+3 1965 c 34 (UK)
 
 20
 
@@ -825,7 +1087,7 @@ Parliament may make provision -
 
 ### 27 Interpretation
 
-(1) In this Chapter, 'British protected person' means a person who is a British protected person for the purposes of the British Nationality Act 1948 4 .
+(1) In this Chapter, “British protected person” means a person who is a British protected person for the purposes of the British Nationality Act 1948⁴.
 
 (2) For the purposes of this Chapter, a person born aboard a registered ship or aircraft, or aboard an unregistered ship or aircraft of the government of any country, shall be deemed to have been born in the place in which the ship or aircraft was registered or, as the case may be, in that country.
 
@@ -837,7 +1099,7 @@ Parliament may make provision -
 
 ### 28 The President
 
-- There shall be a President who shall -
+(1) There shall be a President who shall -
 
 (a) be the Head of State and Commander-in-Chief of the Republic of Mauritius;
 
@@ -849,7 +1111,7 @@ Parliament may make provision -
 
 (iii) the unity of the diverse Mauritian nation is maintained and strengthened.
 
-- 4 1948 c 56 (UK)
+4 1948 c 56 (UK)
 
 21
 
@@ -857,9 +1119,9 @@ Parliament may make provision -
 
 [[START OF PAGE 25]]
 
-(1A)  Subject  to  section  64,  the  President  shall,  in  the  exercise  of  his  functions  under  this Constitution or any other law, act in accordance with the principles set out in subsection (1)(b).
+(1A) Subject to section 64, the President shall, in the exercise of his functions under this Constitution or any other law, act in accordance with the principles set out in subsection (1)(b).
 
-(a) The President shall -
+(2) (a) The President shall -
 
 (i) be elected by the Assembly on a motion made by the Prime Minister and supported by the votes of a majority of all the members of the Assembly; and
 
@@ -869,7 +1131,7 @@ Parliament may make provision -
 
 (3) No person shall be eligible for election to the office of President unless he is a citizen of Mauritius who is not less than 40 years of age and has resided in Mauritius for a period of not less than 5 years immediately preceding the election.
 
-- Where a person is elected to the office of President, he shall not, whilst in office, -
+(4) Where a person is elected to the office of President, he shall not, whilst in office, -
 
 (a) hold any other office of emolument, whether under the Constitution or otherwise;
 
@@ -877,7 +1139,7 @@ Parliament may make provision -
 
 (5) The President shall, at the expiry of his term, continue to hold office until another person assumes office as President.
 
-- The office of the President shall become vacant -
+(6) The office of the President shall become vacant -
 
 (a) subject to subsection (5), at the expiry of his term of office;
 
@@ -907,9 +1169,9 @@ by the Chief Justice.
 
 ### 29 The Vice-President
 
-- Subject to subsection (7), there shall be a Vice-President of the Republic of Mauritius.
+(1) Subject to subsection (7), there shall be a Vice-President of the Republic of Mauritius.
 
-- The Vice-President shall -
+(2) The Vice-President shall -
 
 (a) be elected in the manner specified in section 28(2)(a)(i) and, subject to this section and section 30, hold office for a term of 5 years and shall be eligible for re-election;
 
@@ -985,7 +1247,7 @@ by the Chief Justice.
 
 (5) Where the Assembly supports a motion under subsection (3)(c), it may suspend the President or the Vice-President from performing the functions of his office.
 
-- A suspension under subsection (5) shall cease to have effect where -
+(6) A suspension under subsection (5) shall cease to have effect where -
 
 (a) a  report  under  subsection  (3)(d)  does  not  recommend  that  the  President  or  the Vice-President ought to be removed from office; or
 
@@ -1049,9 +1311,9 @@ by the Chief Justice.
 
 (b) A motion under paragraph (a) shall not be the subject matter of a debate in the Assembly.
 
-- A person who is a Minister shall not be qualified for election as Speaker or Deputy Speaker.
+(2) A person who is a Minister shall not be qualified for election as Speaker or Deputy Speaker.
 
-- The office of the Speaker or the Deputy Speaker shall become vacant -
+(3) The office of the Speaker or the Deputy Speaker shall become vacant -
 
 (a) where -
 
@@ -1147,7 +1409,7 @@ Subject to section 34, a person shall be qualified to be elected as a member of 
 
 #### 34 Disqualifications for membership
 
-- No person shall be qualified to be elected as a member of the Assembly who -
+(1) No person shall be qualified to be elected as a member of the Assembly who -
 
 (a) is, by virtue of his own act, under any acknowledgement of allegiance, obedience or adherence to a power or state outside the Commonwealth;
 
@@ -1171,7 +1433,7 @@ Subject to section 34, a person shall be qualified to be elected as a member of 
 
 (2) Where it is prescribed by Parliament that any office in the public service or the service of a local authority is not to be regarded as such an office for the purposes of this section, a person shall not be regarded for the purposes of this section as a public officer or a local government officer, as the case may be, by reason only that he holds, or is acting in, that office.
 
-- For the purpose of this section -
+(3) For the purpose of this section -
 
 (a) 2 or more terms of imprisonment that are required to be served consecutively shall be regarded as a single term of imprisonment for the aggregate period of those terms; and
 
@@ -1179,7 +1441,7 @@ Subject to section 34, a person shall be qualified to be elected as a member of 
 
 #### 35 Tenure of office of members
 
-- The seat in the Assembly of a member shall become vacant -
+(1) The seat in the Assembly of a member shall become vacant -
 
 (a) upon a dissolution of Parliament;
 
@@ -1219,7 +1481,7 @@ Provided that the Speaker (or, where the office of Speaker is vacant or he is fo
 
 (2) Where at any time before the member vacates his seat he is granted a free pardon or his conviction is set aside or his sentence is reduced to a term of imprisonment of less than 12 months or a punishment, other than imprisonment is substituted, his seat in the Assembly shall not become vacant under subsection (1) and he may again perform his functions as a member of the Assembly.
 
-- For the purpose of this section -
+(3) For the purpose of this section -
 
 (a) 2 or more terms of imprisonment that are required to be served consecutively shall be regarded as a single term of imprisonment for the aggregate period of those terms; and
 
@@ -1243,7 +1505,7 @@ Notwithstanding any provision of this Constitution relating to the election of m
 
 #### 37 Determination of questions as to membership
 
-- The Supreme Court shall have jurisdiction to hear and determine any question whether -
+(1) The Supreme Court shall have jurisdiction to hear and determine any question whether -
 
 (a) any person has been validly elected as a member of the Assembly;
 
@@ -1263,7 +1525,7 @@ Notwithstanding any provision of this Constitution relating to the election of m
 
 and, where it is made by a person other than the Attorney-General, the Attorney-General may intervene and may then appear or be represented in the proceedings.
 
-- Parliament may make provision with respect to -
+(5) Parliament may make provision with respect to -
 
 (a) the circumstances and manner in which and the imposition of conditions upon which any application may be made to the Supreme Court for the determination of any question under this section; and
 
@@ -1359,7 +1621,7 @@ Provided that the number of inhabitants of a constituency may be greater or less
 
 (b) either he has resided in Mauritius for a period of not less than 2 years immediately before such date as may be prescribed by Parliament or he is domiciled in Mauritius and is resident there on the prescribed date.
 
-- No person shall be entitled to be registered as an elector -
+(2) No person shall be entitled to be registered as an elector -
 
 (a) in more than one constituency; or
 
@@ -1435,9 +1697,9 @@ Provided that no such person shall be entitled so to vote if on the date prescri
 
 #### 47 Alteration of Constitution
 
-- Subject to this section, Parliament may alter this Constitution.
+(1) Subject to this section, Parliament may alter this Constitution.
 
-- A Bill for an Act of Parliament to alter any of the following provisions of this Constitution -
+(2) A Bill for an Act of Parliament to alter any of the following provisions of this Constitution -
 
 (a) this section;
 
@@ -1551,7 +1813,7 @@ Provided that the place at which any session of the Assembly is to be held may b
 
 (2) A session of the Assembly shall be held from time to time so that a period of 12 months shall not intervene between the last sitting of the Assembly in one session and its first sitting in the next session.
 
-- The President may address the Assembly at the first sitting of every session.
+(3) The President may address the Assembly at the first sitting of every session.
 
 (4) Writs for a general election of members of the Assembly shall be issued within 60 days of the date of any dissolution of Parliament and a session of the Assembly shall be appointed to commence within 30 days of the date prescribed for polling at any general election.
 
@@ -1597,7 +1859,7 @@ Provided that the life of Parliament shall not be extended under this subsection
 
 ### 58 Executive authority of Mauritius
 
-- The executive authority of Mauritius is vested in the President.
+(1) The executive authority of Mauritius is vested in the President.
 
 (2) Except as otherwise provided in this Constitution, that authority may be exercised by the President either directly or through officers subordinate to him.
 
@@ -1637,7 +1899,7 @@ Provided that -
 
 Provided that the President shall not remove the Prime Minister from office within the period of 10 days immediately following the date prescribed for polling at that general election unless he is satisfied that a party or party alliance in opposition to the Government and registered for the purposes of that general election under paragraph 2 of the First Schedule has at that general election gained a majority of all seats in the Assembly.
 
-- The office of Prime Minister or any other Minister shall become vacant -
+(3) The office of Prime Minister or any other Minister shall become vacant -
 
 (a) where he ceases to be a member of the Assembly otherwise than by reason of a dissolution of Parliament; or
 
@@ -1645,7 +1907,7 @@ Provided that the President shall not remove the Prime Minister from office with
 
 Provided that paragraph (b) shall not apply to the office of Attorney-General where the holder thereof was not a member of the Assembly on the preceding dissolution of Parliament.
 
-- The office of a Minister (other than the Prime Minister) shall become vacant -
+(4) The office of a Minister (other than the Prime Minister) shall become vacant -
 
 (a) where the President, acting in accordance with the advice of the Prime Minister, so directs;
 
@@ -1659,11 +1921,11 @@ Provided that paragraph (b) shall not apply to the office of Attorney-General wh
 
 ### 61 The Cabinet
 
-- There shall be a Cabinet for Mauritius consisting of the Prime Minister and the other Ministers.
+(1) There shall be a Cabinet for Mauritius consisting of the Prime Minister and the other Ministers.
 
 (2) The functions of the Cabinet shall be to advise the President in the government of Mauritius and the Cabinet shall be collectively responsible to the Assembly for any advice given to the President by or under the general authority of the Cabinet and for all things done by or under the authority of any Minister in execution of his office.
 
-- Subsection (2) shall not apply in relation to -
+(3) Subsection (2) shall not apply in relation to -
 
 (a) the appointment and removal from office of Ministers and Junior Ministers, the assigning of responsibility to any Minister under section 62, or the authorisation of another Minister to perform the functions of the Prime Minister during absence or illness;
 
@@ -1731,11 +1993,11 @@ The Prime Minister shall keep the President fully informed concerning the genera
 
 (1) Subject  to  this  section,  the  President,  acting  in  accordance  with  the  advice  of  the Prime Minister, may appoint Junior Ministers from among the members of the Assembly to assist Ministers in the performance of their duties.
 
-- The number of Junior Ministers shall not exceed 10.
+(2) The number of Junior Ministers shall not exceed 10.
 
 (3) Where occasion arises for making appointments while the Assembly is dissolved, a person who  was  a  member  of  the Assembly  immediately  before  the  dissolution  may  be  appointed  as  a Junior Minister.
 
-- The office of a Junior Minister shall become vacant -
+(4) The office of a Junior Minister shall become vacant -
 
 (a) where the President, acting in accordance with the advice of the Prime Minister, so directs;
 
@@ -1793,15 +2055,15 @@ Provided that he shall not be entitled to vote in the Assembly.
 
 ### 70 Secretary to Cabinet
 
-- There shall be a Secretary to Cabinet whose office shall be a public office.
+(1) There shall be a Secretary to Cabinet whose office shall be a public office.
 
 (2) The Secretary to Cabinet shall be responsible, in accordance with such instructions as may be given to him by the Prime Minister, for arranging the business for, and keeping the minutes of, the Cabinet or any of its committees and for conveying the decisions of the Cabinet or any of its committees to  the  appropriate  person  or  authority,  and  shall  have  such  other  functions  as  the  Prime  Minister may direct.
 
 ### 71 Commissioner of Police
 
-- There shall be a Commissioner of Police whose office shall be a public office.
+(1) There shall be a Commissioner of Police whose office shall be a public office.
 
-- The Police Force shall be under the command of the Commissioner of Police.
+(2) The Police Force shall be under the command of the Commissioner of Police.
 
 (3) The Prime Minister, or such other Minister as may be authorised in that behalf by the Prime Minister, may give to the Commissioner of Police such general directions of policy with respect to the maintenance of public safety and public order as he may consider necessary and the Commissioner shall comply with such directions or cause them to be complied with.
 
@@ -1811,7 +2073,7 @@ Provided that he shall not be entitled to vote in the Assembly.
 
 (1) There shall be a Director of Public Prosecutions whose office shall be a public office and who shall be appointed by the Judicial and Legal Service Commission.
 
-(2) No person shall be qualified to hold or act in the office of Director or Public Prosecutions unless he is qualified for appointment as a Judge of the Supreme Court.
+(2) No person shall be qualified to hold or act in the office of Director of Public Prosecutions unless he is qualified for appointment as a Judge of the Supreme Court.
 
 40
 
@@ -1841,7 +2103,7 @@ Provided that the power conferred on the Director of Public Prosecutions by subs
 
 ### 73 Leader of Opposition
 
-- There shall be a Leader of the Opposition who shall be appointed by the President.
+(1) There shall be a Leader of the Opposition who shall be appointed by the President.
 
 (2) Where the President has occasion to appoint a Leader of the Opposition, he shall in his own deliberate judgment appoint -
 
@@ -1851,7 +2113,7 @@ Provided that the power conferred on the Director of Public Prosecutions by subs
 
 Provided that, where occasion arises for making an appointment while Parliament is dissolved, a person who was a member of the Assembly immediately before the dissolution may be appointed Leader of the Opposition.
 
-- The office of the Leader of the Opposition shall become vacant -
+(3) The office of the Leader of the Opposition shall become vacant -
 
 (a) where, after any general election, he is informed by the President that the President is about to appoint another person as Leader of the Opposition;
 
@@ -1897,9 +2159,9 @@ Subject to this Constitution and any other law, the President may constitute off
 
 (d) remit the whole or part of any punishment imposed on any person for an offence or of any penalty or forfeiture otherwise due to the State on account of any offence.
 
-(2) There shall be a Commission on the Prerogative of Mercy (referred to in this section as 'the Commission') consisting of a chairman and not less that 2 other members appointed by the President, acting in his own deliberate judgment.
+(2) There shall be a Commission on the Prerogative of Mercy (referred to in this section as 'the Commission') consisting of a chairman and not less than 2 other members appointed by the President, acting in his own deliberate judgment.
 
-- A member of the Commission shall vacate his seat on the Commission -
+(3) A member of the Commission shall vacate his seat on the Commission -
 
 (a) at  the  expiration  of  any  term  of  appointment  specified  in  the  instrument  of  his appointment; or
 
@@ -1935,13 +2197,13 @@ Subject to this Constitution and any other law, the President may constitute off
 
 ### 75B Powers of the Regional Assembly
 
-- Subject to this Constitution, the Regional Assembly -
+(1) Subject to this Constitution, the Regional Assembly -
 
 (a) shall have such powers and functions as may be prescribed and, in particular, the power to propose and adopt Bills in relation to the matters for which it shall be responsible, which Bills, when adopted by Parliament in such manner as may be prescribed, shall be known as Regional Assembly Laws and shall be so designated in the Short Title;
 
 (b) may make regulations which shall be known as Regional Assembly Regulations and shall be so designated in the Heading.
 
-- Regional Assembly Laws and Regional Assembly Regulations shall apply only to Rodrigues.
+(2) Regional Assembly Laws and Regional Assembly Regulations shall apply only to Rodrigues.
 
 [Added 32/01]
 
@@ -1949,7 +2211,7 @@ Subject to this Constitution and any other law, the President may constitute off
 
 (1) There  shall  be  an  Executive  Council  of  the  Regional  Assembly  comprising  of  the Chief Commissioner and Deputy Chief Commissioner and such number of Commissioners as may be prescribed.
 
-(2) The Chief Commissioner and the Deputy Chief and the Commissioners shall be elected or appointed in such manner as may be prescribed.
+(2) The Chief Commissioner and the Deputy Chief Commissioner and the Commissioners shall be elected or appointed in such manner as may be prescribed.
 
 (3) The Chief Commissioner and the other Commissioners shall have such powers and exercise such functions as may be prescribed.
 
@@ -2006,7 +2268,7 @@ Provided that if the office of Chief Justice is vacant or if the person holding 
 
 (6) Where the office of Senior Puisne Judge is vacant or the person holding that office is acting as Chief Justice or is for any reason unable to perform the functions of the office, such one of the Judges of the Supreme Court as the President, acting in accordance with the advice of the Chief Justice, may appoint shall act in the office of Senior Puisne Judge.
 
-(7) Where the office of any Puisne Judge is vacant or where a person holding the office of Puisne Judge is acting as Chief Justice or as Senior Puisne Judge or is for any reason unable to perform the functions of his office or where the Prime Minister, having been informed by the Chief Justice that the state of business in the Supreme Court requires that the number of Judges should be temporarily increased and having consulted with the Chief Justice, request the President to appoint an additional Judge, the President, acting in accordance with the advice of the Judicial and Legal Service Commission, may appoint a person qualified for appointment as a Judge of the Supreme Court to act as a Puisne Judge of that court:
+(7) Where the office of any Puisne Judge is vacant or where a person holding the office of Puisne Judge is acting as Chief Justice or as Senior Puisne Judge or is for any reason unable to perform the functions of his office or where the Prime Minister, having been informed by the Chief Justice that the state of business in the Supreme Court requires that the number of Judges should be temporarily increased and having consulted with the Chief Justice, requests the President to appoint an additional Judge, the President, acting in accordance with the advice of the Judicial and Legal Service Commission, may appoint a person qualified for appointment as a Judge of the Supreme Court to act as a Puisne Judge of that court:
 
 Provided that a person may act as a Puisne Judge notwithstanding that he has attained the age prescribed for the purposes of section 78(1).
 
@@ -2234,7 +2496,7 @@ Provided that, before advising the President to appoint to any such office a per
 
 (ii) in the case of a public officer who has been seconded for duty or transferred to a body corporate established by law for public purposes, to that body corporate.
 
-- This section shall not apply to -
+(3) This section shall not apply to -
 
 (a) the office of Chief Justice or Senior Puisne Judge;
 
@@ -2334,7 +2596,7 @@ Provided  that  appointments  to  the  office  of  Commissioner  of  Police  sha
 
 (8) Where an appointment lapses or is terminated under subsection (7), no compensation shall or become payable to the holder for loss of office by reason of the lapse or termination of his appointment.
 
-- Notwithstanding any other provision of the Constitution -
+(9) Notwithstanding any other provision of the Constitution -
 
 (a) proceedings before the Public Bodies Appeal Tribunal shall not be held in public, except where the Tribunal decides otherwise with the agreement of the parties to an appeal;
 
@@ -2360,7 +2622,7 @@ Provided  that  appointments  to  the  office  of  Commissioner  of  Police  sha
 
 (14) Where  the  question  of  removing  a  member  has  been  referred  to  a  tribunal  under subsection (13), the President, acting in his own deliberate judgment, may suspend the member from performing the functions of his office and any such suspension may at any time be revoked by the President, acting in his own deliberate judgment, and shall in any case cease to have effect where the tribunal recommends to the President that the member should not be removed.
 
-- The offices of the staff of the Public Bodies Appeal Tribunal shall be public offices.
+(15) The offices of the staff of the Public Bodies Appeal Tribunal shall be public offices.
 
 (16) There shall be such provision as may be prescribed for such supplementary or ancillary matters as may appear necessary or expedient in consequence of any of the provision of this section.
 
@@ -2474,7 +2736,7 @@ or any law in force at a later date that is not less favourable to that person.
 
 ### 95 Power of Commissions in relation to pensions
 
-- Where under any law any person or authority has a discretion -
+(1) Where under any law any person or authority has a discretion -
 
 (a) to decide whether or not any pensions benefits shall be granted; or
 
@@ -2486,7 +2748,7 @@ those benefits shall be granted and may not be withheld, reduced in amount or su
 
 (3) The appropriate Commission shall not concur under subsection (1) or (2) in action taken on the ground that any person who holds or has held the office of Electoral Commissioner, Director of Public Prosecutions, Judge of the Supreme Court, Commissioner of Police, Ombudsman or Director of Audit has been guilty of misbehaviour unless he has been removed from office by reason of such misbehaviour.
 
-- In this section, 'the appropriate Commission' means -
+(4) In this section, 'the appropriate Commission' means -
 
 (a) in the case of benefits for which any person may be eligible in respect of the service in the public service of a person who, immediately before he ceased to be a public officer, was subject to the disciplinary control of the Judicial and Legal Service Commission or that have been granted in respect of such service, the Judicial and Legal Service Commission;
 
@@ -2517,7 +2779,7 @@ determination of civil proceedings to which he is a party to the extent to which
 ## CHAPTER IX - THE OMBUDSMAN
 ### 96 Office of Ombudsman
 
-- There shall be an Ombudsman, whose office shall be a public office.
+(1) There shall be an Ombudsman, whose office shall be a public office.
 
 (2) The Ombudsman shall be appointed by the President, acting after consultation with the Prime Minister, the Leader of the Opposition and such other persons, if any, as appear to the President, acting in his own deliberate judgment, to be leaders of parties in the Assembly.
 
@@ -2537,7 +2799,7 @@ determination of civil proceedings to which he is a party to the extent to which
 
 (c) he considers it desirable to do so of his own motion.
 
-- This section applies to the following officers and authorities -
+(2) This section applies to the following officers and authorities -
 
 (a) any department of the Government;
 
@@ -2635,13 +2897,15 @@ Provided that -
 
 (4) No person shall be required or authorised by virtue of this section to furnish any information or answer any question or produce any document relating to proceedings of the Cabinet or any committee of Cabinet, and for the purposes of this subsection, a certificate issued by the Secretary to the Cabinet with the approval of the Prime Minister and certifying that any information, question or document so relates shall be conclusive.
 
-(5) The Attorney-General may give notice to the Ombudsman, with respect to any document or information specified in the notice, or any class of documents or information so specified, that in his opinion the disclosure of that document or information, or of documents or information of that class, would be contrary to the public interest in relation to defence, external relations or internal security; and where such a notice is given nothing in this section shall be construed as authorising or requiring the Ombudsman or any member of his staff to communicate to any person for any purpose any document or information specified in the notice, or any document or information of a class so specified.
+(5) The Attorney-General may give notice to the Ombudsman, with respect to any document or information specified in the notice, or any class of documents or information so specified, that in his opinion the disclosure of that document or information, or of documents or information of that class, would be contrary to the public interest in relation to defence, external relations or internal security; and
 
 58
 
 [[END OF PAGE 61]]
 
 [[START OF PAGE 62]]
+
+where such a notice is given nothing in this section shall be construed as authorising or requiring the Ombudsman or any member of his staff to communicate to any person for any purpose any document or information specified in the notice, or any document or information of a class so specified.
 
 (6) Subject to subsection (3), no person shall be compelled for the purposes of an investigation under section 97 to give any evidence or produce any document which he could not be compelled to give or produce in proceedings before the Supreme Court.
 
@@ -2659,7 +2923,7 @@ Provided that -
 
 (d) otherwise unjust or manifestly unreasonable.
 
-- Where in any case to which this section applies the Ombudsman is of the opinion -
+(2) Where in any case to which this section applies the Ombudsman is of the opinion -
 
 (a) that the matter should be given further consideration;
 
@@ -2718,7 +2982,7 @@ All revenues or other money raised or received for the purposes of the Governmen
 
 ### 104 Withdrawals from Consolidated Fund or other public funds
 
-- No money shall be withdrawn from the Consolidated Fund except -
+(1) No money shall be withdrawn from the Consolidated Fund except -
 
 (a) to meet expenditure that is charged upon the Fund by this Constitution or by any other law in force in Mauritius; or
 
@@ -2726,7 +2990,7 @@ All revenues or other money raised or received for the purposes of the Governmen
 
 (2) No  money  shall  be  withdrawn  from  any  public  fund  of  Mauritius,  other  than  the Consolidated Fund, unless the issue of that money has been authorised by or under a law.
 
-- No money shall be withdrawn from the Consolidated Fund except in the manner prescribed.
+(3) No money shall be withdrawn from the Consolidated Fund except in the manner prescribed.
 
 (4) The deposit of any money forming part of the Consolidated Fund with a bank or with the Crown Agents for Overseas Governments and Administrations or the investment of any such money in such securities as may be prescribed shall not be regarded as a withdrawal of that money from the Fund for the purposes of this section.
 
@@ -2746,7 +3010,7 @@ All revenues or other money raised or received for the purposes of the Governmen
 
 [[START OF PAGE 64]]
 
-- Where in any financial year it is found -
+(3) Where in any financial year it is found -
 
 (a) that the amount appropriated by the appropriation law for the purposes included in any head of expenditure is insufficient or that a need has arisen for expenditure for a purpose for which no amount has been appropriated by the appropriation law; or
 
@@ -2788,7 +3052,7 @@ Where the Appropriation law in respect of any financial year has not come into o
 
 ### 109 Public debt
 
-- All debt charges for which Mauritius is liable shall be a charge on the Consolidated Fund.
+(1) All debt charges for which Mauritius is liable shall be a charge on the Consolidated Fund.
 
 (2) For the purposes of this section, 'debt charges' includes interest, sinking fund charges, the repayment or amortisation of debt, and all expenditure in connection with the raising of loans on the security of the revenues of Mauritius or the Consolidated Fund and the service and redemption of debt thereby created.
 
@@ -2918,7 +3182,7 @@ Provided that -
 
 ### 112 References to public office
 
-- In this Constitution, 'public office' -
+(1) In this Constitution, 'public office' -
 
 (a) shall be construed as including the offices of Judges of the Supreme Court, the offices of members of all other courts of law in Mauritius (other than courts martial), the offices of members of the Police Force and the offices of the President's personal staff; and
 
@@ -2942,7 +3206,7 @@ Provided that -
 
 (2) Notwithstanding  any  provision  to  the  contrary  in  this  Constitution,  but  subject  to subsection (3), an appointment made under section 87 or 89(3)(h) shall be for such term as may be specified in the instrument of appointment.
 
-- 1889 c 63 (UK)
+* 1889 c 63 (UK)
 
 64
 
@@ -2950,7 +3214,7 @@ Provided that -
 
 [[START OF PAGE 68]]
 
-- An appointment to which subsection (2) applies -
+(3) An appointment to which subsection (2) applies -
 
 (a) subject to paragraph (b), shall terminate at the expiry of the term specified in the instrument of appointment;
 
