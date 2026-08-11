@@ -146,9 +146,11 @@ BE IT THEREFORE ENACTED by the Parliament of the Republic of South Africa, as fo
 
 ### 1     Definitions
 
-(1) In this Act, unless the context indicates otherwise'age' includes the conditions of disadvantage and vulnerability suffered by persons on the basis of their age, especially advanced age; 'clerk of the equality court' means a clerk of an equality court appointed or designated in terms of section 17, read with section 31, and includes any reference to 'a clerk'; 'Commission for Gender Equality' means the Commission for Gender Equality referred to in section 187 of the Constitution; 'complainant' means any person who alleges any contravention of this Act and who
-
-institutes proceedings in terms of the Act;
+(1) In this Act, unless the context indicates otherwise-
+'age' includes the conditions of disadvantage and vulnerability suffered by persons on the basis of their age, especially advanced age;
+'clerk of the equality court' means a clerk of an equality court appointed or designated in terms of section 17, read with section 31, and includes any reference to 'a clerk';
+'Commission for Gender Equality' means the Commission for Gender Equality referred to in section 187 of the Constitution;
+'complainant' means any person who alleges any contravention of this Act and who institutes proceedings in terms of the Act;
 
 [[END OF PAGE 3]]
 
@@ -162,8 +164,9 @@ institutes proceedings in terms of the Act;
 
 'Department' means the Department of Justice and Constitutional Development;
 
-'discrimination' means any act or omission, including a policy, law, rule, practice, condition or situation which directly or indirectly(a) imposes burdens, obligations or disadvantage on; or (b) withholds benefits, opportunities or advantages from,
-
+'discrimination' means any act or omission, including a policy, law, rule, practice, condition or situation which directly or indirectly-
+(a) imposes burdens, obligations or disadvantage on; or
+(b) withholds benefits, opportunities or advantages from,
 any person on one or more of the prohibited grounds;
 
 'equality' includes the full and equal enjoyment of rights and freedoms as contemplated in the Constitution and includes de jure and de facto equality and also equality in terms of outcomes;
@@ -286,13 +289,13 @@ The objects of this Act are-
 
 ### 3     Interpretation of Act
 
-- Any person applying this Act must interpret its provisions to give effect to-
+(1) Any person applying this Act must interpret its provisions to give effect to-
 
 (a) the Constitution, the provisions of which include the promotion of equality through legislative and other measures designed to protect or advance persons disadvantaged by past and present unfair discrimination;
 
 (b) the Preamble, the objects and guiding principles of this Act, thereby fulfilling the spirit, purport and objects of this Act.
 
-- Any person interpreting this Act may be mindful of-
+(2) Any person interpreting this Act may be mindful of-
 
 (a) any relevant law or code of practice in terms of a law;
 
@@ -312,7 +315,7 @@ The objects of this Act are-
 
 ### 4     Guiding principles
 
-- In the adjudication of any proceedings which are instituted in terms of or under this Act, the following principles should apply:
+(1) In the adjudication of any proceedings which are instituted in terms of or under this Act, the following principles should apply:
 
 (a) The expeditious and informal processing of cases, which facilitate participation by the parties to the proceedings;
 
@@ -324,7 +327,7 @@ The objects of this Act are-
 
 (e) the development of special skills and capacity for persons applying this Act in order to ensure effective implementation and administration thereof.
 
-- In the application of this Act the following should be recognised and taken into account:
+(2) In the application of this Act the following should be recognised and taken into account:
 
 (a) The existence of systemic discrimination and inequalities, particularly in respect of race, gender and disability in all spheres of life as a result of past and present unfair discrimination, brought about by colonialism, the apartheid system and patriarchy; and
 
@@ -334,11 +337,12 @@ The objects of this Act are-
 
 ### 5     Application of Act
 
-- This Act binds the State and all persons.
+(1) This Act binds the State and all persons.
 
-- If any conflict relating to a matter dealt with in this Act arises between this Act and the provisions of any other law, other than the Constitution or an Act of Parliament expressly amending this Act, the provisions of this Act must prevail.
+(2) If any conflict relating to a matter dealt with in this Act arises between this Act and the provisions of any other law, other than the Constitution or an Act of Parliament expressly amending this Act, the provisions of this Act must prevail.
 
-- This Act does not apply to any person to whom and to the extent to which the Employment Equity Act, 1998 ( Act 55 of 1998 ), applies. [Date of commencement of s. 5: 1 September 2000.]
+(3) This Act does not apply to any person to whom and to the extent to which the Employment Equity Act, 1998 ( Act 55 of 1998 ), applies.
+[Date of commencement of s. 5: 1 September 2000.]
 
 ## CHAPTER 2 PREVENTION, PROHIBITION AND ELIMINATION OF UNFAIR DISCRIMINATION, HATE SPEECH AND HARASSMENT (ss 6-12)
 
@@ -408,7 +412,7 @@ Subject to section 6, no person may unfairly discriminate against any person on 
 
 ### 10     Prohibition of hate speech
 
-- Subject to the proviso in section 12, no person may publish, propagate, advocate or communicate words based on one or more of the prohibited grounds, against any person, that could reasonably be construed to demonstrate a clear intention to-
+(1) Subject to the proviso in section 12, no person may publish, propagate, advocate or communicate words based on one or more of the prohibited grounds, against any person, that could reasonably be construed to demonstrate a clear intention to-
 
 (a) be hurtful;
 
@@ -416,7 +420,7 @@ Subject to section 6, no person may unfairly discriminate against any person on 
 
 (c) promote or propagate hatred.
 
-- Without prejudice to any remedies of a civil nature under this Act, the court may, in accordance with section 21 (2) (n) and where appropriate, refer any case dealing with the publication, advocacy, propagation or communication of hate speech as contemplated in subsection (1), to the Director of Public Prosecutions having jurisdiction for the institution of criminal proceedings in terms of the common law or relevant legislation.
+(2) Without prejudice to any remedies of a civil nature under this Act, the court may, in accordance with section 21 (2) (n) and where appropriate, refer any case dealing with the publication, advocacy, propagation or communication of hate speech as contemplated in subsection (1), to the Director of Public Prosecutions having jurisdiction for the institution of criminal proceedings in terms of the common law or relevant legislation.
 
 ### 11     Prohibition of harassment
 
@@ -436,13 +440,13 @@ that could reasonably be construed or reasonably be understood to demonstrate a 
 
 ### 13     Burden of proof
 
-- If the complainant makes out a prima facie case of discrimination-
+(1) If the complainant makes out a prima facie case of discrimination-
 
 (a) the respondent must prove, on the facts before the court, that the discrimination did not take place as alleged; or
 
 (b) the respondent must prove that the conduct is not based on one or more of the prohibited grounds.
 
-- If the discrimination did take place-
+(2) If the discrimination did take place-
 
 (a) on a ground in paragraph (a) of the definition of 'prohibited grounds', then it is unfair, unless the respondent proves that the discrimination is fair;
 
@@ -460,9 +464,9 @@ that could reasonably be construed or reasonably be understood to demonstrate a 
 
 ### 14     Determination of fairness or unfairness
 
-- It is not unfair discrimination to take measures designed to protect or advance persons or categories of persons disadvantaged by unfair discrimination or the members of such groups or categories of persons.
+(1) It is not unfair discrimination to take measures designed to protect or advance persons or categories of persons disadvantaged by unfair discrimination or the members of such groups or categories of persons.
 
-- In determining whether the respondent has proved that the discrimination is fair, the following must be taken into account:
+(2) In determining whether the respondent has proved that the discrimination is fair, the following must be taken into account:
 
 (a) The context;
 
@@ -470,7 +474,7 @@ that could reasonably be construed or reasonably be understood to demonstrate a 
 
 (c) whether the discrimination reasonably and justifiably differentiates between persons according to objectively determinable criteria, intrinsic to the activity concerned.
 
-- The factors referred to in subsection (2) (b) include the following:
+(3) The factors referred to in subsection (2) (b) include the following:
 
 (a) Whether the discrimination impairs or is likely to impair human dignity;
 
@@ -502,7 +506,7 @@ In cases of hate speech and harassment section 14 does not apply.
 
 ### 16     Equality courts and presiding officers
 
-- For the purposes of this Act, but subject to section 31-
+(1) For the purposes of this Act, but subject to section 31-
 
 [[END OF PAGE 10]]
 
@@ -530,7 +534,7 @@ Provided that any proceedings pending before an equality court which are not fin
 
 (d) the head of an administrative region contemplated in paragraph (c) must, subject to subsection (2), designate in writing any magistrate or additional magistrate as a presiding officer of the equality court.
 
-- Only a judge, magistrate or additional magistrate who has completed a training course as a presiding officer of an equality court-
+(2) Only a judge, magistrate or additional magistrate who has completed a training course as a presiding officer of an equality court-
 
 (a) before the date of commencement of section 31; or
 
@@ -538,13 +542,13 @@ Provided that any proceedings pending before an equality court which are not fin
 
 and whose name has been included on the list contemplated in subsection (4) (a) , may be designated as such in terms of subsection (1).
 
-- The Judges President and the heads of administrative regions must-
+(3) The Judges President and the heads of administrative regions must-
 
 (a) take all reasonable steps within available resources to designate at least one presiding officer for each equality court within his or her area of jurisdiction; and
 
 (b) without delay, inform the Director-General of the Department of any judge, magistrate or additional magistrate who has completed a training course as contemplated in section 31 (4) and (5) or who has been designated in terms of subsection (1).
 
-- The Director-General of the Department must compile and keep a list of every judge, magistrate and additional magistrate who has-
+(4) The Director-General of the Department must compile and keep a list of every judge, magistrate and additional magistrate who has-
 
 (a) completed a training course as contemplated in section 31 (4) and (5); or
 
@@ -556,11 +560,12 @@ and whose name has been included on the list contemplated in subsection (4) (a) 
 
 (b) been designated as a presiding officer of an equality court in terms of subsection (1).
 
-- A presiding officer must perform the functions and duties and exercise the powers assigned to or conferred on him or her under this Act or any other law. [S. 16 substituted by s. 1 of Act 52 of 2002.]
+(5) A presiding officer must perform the functions and duties and exercise the powers assigned to or conferred on him or her under this Act or any other law.
+[S. 16 substituted by s. 1 of Act 52 of 2002.]
 
 ### 17     Clerks of equality courts
 
-(a) Subject to subsection (2) and the laws governing the public service, the Director-General of the Department may, for every equality court, appoint or designate one or more officers in the Department, or may appoint one or more persons in the prescribed manner and on the prescribed conditions, as clerks of the equality court, who must generally assist the court to which they are attached in performing its functions and who must perform the functions as may be prescribed.
+(1) (a) Subject to subsection (2) and the laws governing the public service, the Director-General of the Department may, for every equality court, appoint or designate one or more officers in the Department, or may appoint one or more persons in the prescribed manner and on the prescribed conditions, as clerks of the equality court, who must generally assist the court to which they are attached in performing its functions and who must perform the functions as may be prescribed.
 
 [Para. (a) substituted by s. 2 (a) of Act 52 of 2002.]
 
@@ -568,7 +573,7 @@ and whose name has been included on the list contemplated in subsection (4) (a) 
 
 [Para. (b) substituted by s. 2 (a) of Act 52 of 2002.]
 
-- Only an officer or person contemplated in subsection (1) (a) who has completed a training course as clerk of an equality court-
+(2) Only an officer or person contemplated in subsection (1) (a) who has completed a training course as clerk of an equality court-
 
 (a) before the date of commencement of section 31; or
 
@@ -578,7 +583,7 @@ and whose name has been included on the list contemplated in subsection (3), may
 
 [Sub-s. (2) added by s. 2 (b) of Act 52 of 2002.]
 
-- The Director-General of the Department must compile and keep a list of every officer or person who has-
+(3) The Director-General of the Department must compile and keep a list of every officer or person who has-
 
 (a) completed a training course as contemplated in section 31 (6); or
 
@@ -586,7 +591,7 @@ and whose name has been included on the list contemplated in subsection (3), may
 
 [Sub-s. (3) added by s. 2 (b) of Act 52 of 2002.]
 
-- The Director-General may, subject to such conditions as he or she may determine, in writing delegate any power conferred on him or her by this section to an officer employed by the Department, but shall not be divested of any power so delegated and may amend or set aside any decision of the delegatee made in the exercise of such power.
+(4) The Director-General may, subject to such conditions as he or she may determine, in writing delegate any power conferred on him or her by this section to an officer employed by the Department, but shall not be divested of any power so delegated and may amend or set aside any decision of the delegatee made in the exercise of such power.
 
 [Sub-s. (4) added by s. 29 of Act 55 of 2003.]
 
@@ -624,7 +629,7 @@ and in so far as no other provision has been made in the regulations under secti
 
 ### 20     Institution of proceedings in terms of or under Act
 
-- Proceedings under this Act may be instituted by-
+(1) Proceedings under this Act may be instituted by-
 
 (a) any person acting in their own interest;
 
@@ -650,7 +655,7 @@ and in so far as no other provision has been made in the regulations under secti
 
 (b) If the presiding officer decides that the matter is to be heard in the equality court, the presiding officer must refer the matter to the clerk of the equality court who must within the prescribed period of such referral assign a date of hearing of the matter.
 
-- The presiding officer, before making a decision to refer a matter as contemplated in subsection (3), must take all relevant circumstances into account, including the following:
+(4) The presiding officer, before making a decision to refer a matter as contemplated in subsection (3), must take all relevant circumstances into account, including the following:
 
 (a) The personal circumstances of the parties and particularly the complainant;
 
@@ -662,15 +667,15 @@ and in so far as no other provision has been made in the regulations under secti
 
 (e) the views of the appropriate functionary at any contemplated alternative forum.
 
-(a) If the presiding officer decides that the matter must be referred to an alternative forum he or she must, in the prescribed manner, make an order, directing the clerk of the equality court to transfer the matter to the alternative forum mentioned in the order.
+(5) (a) If the presiding officer decides that the matter must be referred to an alternative forum he or she must, in the prescribed manner, make an order, directing the clerk of the equality court to transfer the matter to the alternative forum mentioned in the order.
 
 (b) When making an order contemplated in paragraph (a) , the presiding officer may attach to the order any comments he or she deems necessary for the attention of the alternative forum.
 
-- On receipt of an order referred to in subsection (5), the clerk of the equality court must transfer the matter and notify the parties to the matter of the transfer in the prescribed manner.
+(6) On receipt of an order referred to in subsection (5), the clerk of the equality court must transfer the matter and notify the parties to the matter of the transfer in the prescribed manner.
 
-- On receipt of a matter transferred to it, the alternative forum in question must deal with the matter expeditiously in terms of its powers and functions.
+(7) On receipt of a matter transferred to it, the alternative forum in question must deal with the matter expeditiously in terms of its powers and functions.
 
-- If the alternative forum referred to in subsection (7)-
+(8) If the alternative forum referred to in subsection (7)-
 
 (a) fails to deal with the matter within a reasonable period in the circumstances; or
 
@@ -678,11 +683,11 @@ and in so far as no other provision has been made in the regulations under secti
 
 the alternative forum must, in the prescribed manner, refer the matter back to the equality court from which it was transferred, for adjudication, within the prescribed period from the date on which it was returned to the equality court.
 
-- The State and constitutional institutions must, as far as reasonably possible, assist any person wishing to institute proceedings in terms of or under this Act, amongst others, by ensuring that the person is directed to the appropriate functionary in order to take the necessary action in the furtherance of the matter in question.
+(9) The State and constitutional institutions must, as far as reasonably possible, assist any person wishing to institute proceedings in terms of or under this Act, amongst others, by ensuring that the person is directed to the appropriate functionary in order to take the necessary action in the furtherance of the matter in question.
 
 ### 21     Powers and functions of equality court
 
-- The equality court before which proceedings are instituted in terms of or under this Act must hold an inquiry in the prescribed manner and determine whether unfair discrimination, hate speech or harassment, as the case may be, has taken place, as alleged.
+(1) The equality court before which proceedings are instituted in terms of or under this Act must hold an inquiry in the prescribed manner and determine whether unfair discrimination, hate speech or harassment, as the case may be, has taken place, as alleged.
 
 [[END OF PAGE 14]]
 
@@ -690,28 +695,27 @@ the alternative forum must, in the prescribed manner, refer the matter back to t
 
 ...
 
-(2) After holding an inquiry, the court may make an appropriate order in circumstances, including-
----
-an interim order;
-a declaratory order;
-an order making a settlement between the parties to the proceedings an order of court;
-an order for the payment of any damages in respect of any proven financial loss, including future loss, or in respect of impairment of dignity, pain and suffering or emotional and psychological suffering, as a result of the unfair discrimination, hate speech or harassment in
-after hearing the views of the parties or, in the absence of the respondent, the views of the complainant in the matter, an order for the payment of damages in the form of an award to an appropriate body or organisation;
-an order restraining unfair discriminatory practices or directing that specific steps be taken to stop the unfair discrimination, hate speech or harassment;
-an order to make specific opportunities and privileges unfairly denied in the circumstances, available to the complainant in question;
-an order for the implementation of special measures to address the unfair discrimination, hate speech or harassment in question;
-an order directing the reasonable accommodation of a group or class of persons by the respondent;
-an order that an unconditional apology be made;
-an order requiring the respondent to undergo an audit of specific policies or practices as determined by the court;
-an appropriate order of a deterrent nature, including the recommendation to the appropriate authority, to suspend or revoke the licence of a person;
-a directive requiring the respondent to make regular progress reports to the court or to the relevant constitutional institution regarding the implementation of the court's order;
-an order directing the clerk of the equality court to submit the matter to the Director of Public Prosecutions having jurisdiction for the possible institution of criminal proceedings in terms of the common law or relevant legislation;
-an appropriate order of costs against any party to the proceedings;
-an order to comply with any provision of the Act.
+(2) After holding an inquiry, the court may make an appropriate order in the circumstances, including-
+(a) an interim order;
+(b) a declaratory order;
+(c) an order making a settlement between the parties to the proceedings an order of court;
+(d) an order for the payment of any damages in respect of any proven financial loss, including future loss, or in respect of impairment of dignity, pain and suffering or emotional and psychological suffering, as a result of the unfair discrimination, hate speech or harassment in question;
+(e) after hearing the views of the parties or, in the absence of the respondent, the views of the complainant in the matter, an order for the payment of damages in the form of an award to an appropriate body or organisation;
+(f) an order restraining unfair discriminatory practices or directing that specific steps be taken to stop the unfair discrimination, hate speech or harassment;
+(g) an order to make specific opportunities and privileges unfairly denied in the circumstances, available to the complainant in question;
+(h) an order for the implementation of special measures to address the unfair discrimination, hate speech or harassment in question;
+(i) an order directing the reasonable accommodation of a group or class of persons by the respondent;
+(j) an order that an unconditional apology be made;
+(k) an order requiring the respondent to undergo an audit of specific policies or practices as determined by the court;
+(l) an appropriate order of a deterrent nature, including the recommendation to the appropriate authority, to suspend or revoke the licence of a person;
+(m) a directive requiring the respondent to make regular progress reports to the court or to the relevant constitutional institution regarding the implementation of the court's order;
+(n) an order directing the clerk of the equality court to submit the matter to the Director of Public Prosecutions having jurisdiction for the possible institution of criminal proceedings in terms of the common law or relevant legislation;
+(o) an appropriate order of costs against any party to the proceedings;
+(p) an order to comply with any provision of the Act.
 
-- An order made by an equality court in terms of or under this Act has the effect of an order of the said court made in a civil action, where appropriate.
+(3) An order made by an equality court in terms of or under this Act has the effect of an order of the said court made in a civil action, where appropriate.
 
-- The court may, during or after an inquiry, refer-
+(4) The court may, during or after an inquiry, refer-
 
 (a) its concerns in any proceedings before it, particularly in the case of persistent contravention or failure to comply with a provision of this Act or in the case of systemic unfair discrimination, hate speech or
 
@@ -725,19 +729,19 @@ harassment to any relevant constitutional institution for further investigation;
 
 (b) any proceedings before it to any relevant constitutional institution or appropriate body for mediation, conciliation or negotiation.
 
-- The court has all ancillary powers necessary or reasonably incidental to the performance of its functions and the exercise of its powers, including the power to grant interlocutory orders or interdicts.
+(5) The court has all ancillary powers necessary or reasonably incidental to the performance of its functions and the exercise of its powers, including the power to grant interlocutory orders or interdicts.
 
 ### 22     Assessors
 
-- In any proceedings in terms of or under this Act, the court may, at the request of either party, or of its own accord if the presiding officer considers it to be in the interests of justice, summon to its assistance one or two persons who are suitable and available and who may be willing to sit and act as assessors.
+(1) In any proceedings in terms of or under this Act, the court may, at the request of either party, or of its own accord if the presiding officer considers it to be in the interests of justice, summon to its assistance one or two persons who are suitable and available and who may be willing to sit and act as assessors.
 
-- Assessors appointed in terms of subsection (1) are, subject to subsection (3), deemed to be members of the court for purposes of this Act.
+(2) Assessors appointed in terms of subsection (1) are, subject to subsection (3), deemed to be members of the court for purposes of this Act.
 
-- Any matter of law arising for decision at the proceedings concerned and any question as to whether a matter for decision is a matter of fact or a matter of law must be decided by the presiding officer in the prescribed manner.
+(3) Any matter of law arising for decision at the proceedings concerned and any question as to whether a matter for decision is a matter of fact or a matter of law must be decided by the presiding officer in the prescribed manner.
 
-- On all matters of fact the finding or decision of the majority of the members of the court is the finding or decision of the court, and in the event of one assessor, the finding or decision of the court prevails.
+(4) On all matters of fact the finding or decision of the majority of the members of the court is the finding or decision of the court, and in the event of one assessor, the finding or decision of the court prevails.
 
-(a) If an assessor dies, or in the opinion of the presiding officer becomes unable to act as an assessor, or is for any reason absent, or has been ordered to recuse himself or herself or has recused himself or herself, at any stage before the completion of the proceedings concerned, the presiding officer may, in the interests of justice and after due consideration of the arguments put forward by the parties to the proceedings or their legal representatives-
+(5) (a) If an assessor dies, or in the opinion of the presiding officer becomes unable to act as an assessor, or is for any reason absent, or has been ordered to recuse himself or herself or has recused himself or herself, at any stage before the completion of the proceedings concerned, the presiding officer may, in the interests of justice and after due consideration of the arguments put forward by the parties to the proceedings or their legal representatives-
 
 (i)     direct that the proceedings continue before the remaining member or members of the court;
 
@@ -747,7 +751,7 @@ harassment to any relevant constitutional institution for further investigation;
 
 (b) The presiding officer must give reasons for any direction referred to in subparagraph (i) or (ii).
 
-(a) A presiding officer who is assisted by assessors at an enquiry where a party to the proceedings has an order made against him or her must record the reasons for his or her opinion-
+(6) (a) A presiding officer who is assisted by assessors at an enquiry where a party to the proceedings has an order made against him or her must record the reasons for his or her opinion-
 
 (i)     if that party to the proceedings is not assisted by a legal representative; and
 
@@ -811,7 +815,7 @@ harassment to any relevant constitutional institution for further investigation;
 
 ...
 
-- to promote equality, and develop guidelines, including codes in respect of reasonable accommodation;
+to promote equality, and develop guidelines, including codes in respect of reasonable accommodation;
 
 (iv)     provide assistance, advice and training on issues of equality;
 
@@ -829,15 +833,15 @@ harassment to any relevant constitutional institution for further investigation;
 
 (c) request from the Department, in the prescribed manner, regular reports regarding the number of cases and the nature and outcome thereof.
 
-- All Ministers must implement measures within the available resources which are aimed at the achievement of equality in their areas of responsibility by-
+(4) All Ministers must implement measures within the available resources which are aimed at the achievement of equality in their areas of responsibility by-
 
 (a) eliminating any form of unfair discrimination or the perpetuation of inequality in any law, policy or practice for which those Ministers are responsible; and
 
 (b) preparing and implementing equality plans in the prescribed manner, the contents of which must include a time frame for implementation of such plans, formulated in consultation with the Minister of Finance.
 
-(a) The equality plans must, within two years after the commencement of this Act, be submitted to the South African Human Rights Commission to be dealt with in the prescribed manner.
-
-(b) The South African Human Rights Commission must consult with the Commission on Gender Equality when dealing with the plans contemplated in paragraph (a) . [Date of commencement of s. 25: to be proclaimed.]
+(5) (a) The equality plans must, within two years after the commencement of this Act, be submitted to the South African Human Rights Commission to be dealt with in the prescribed manner.
+(b) The South African Human Rights Commission must consult with the Commission on Gender Equality when dealing with the plans contemplated in paragraph (a) .
+[Date of commencement of s. 25: to be proclaimed.]
 
 ### 26     Responsibility of persons operating in public domain to promote equality
 
@@ -859,7 +863,7 @@ It is the responsibility of any person directly or indirectly contracting with t
 
 ### 27     Social commitment by all persons to promote equality
 
-(1) Pursuant to section 26, all persons, non-governmental organisations, communitybased organisations and traditional institutions must promote equality in their relationships with other bodies and in their public activities.
+(1) Pursuant to section 26, all persons, non-governmental organisations, community-based organisations and traditional institutions must promote equality in their relationships with other bodies and in their public activities.
 
 (2) The Minister must develop regulations in relation to this Act and other Ministers may develop regulations in relation to other Acts which require companies, closed corporations, partnerships, clubs, sports organisations, corporate entities and associations, where appropriate, in a manner proportional to their size, resources and influence, to prepare equality plans or abide by prescribed codes of practice or report to a body or institution on measures to promote equality.
 
@@ -869,9 +873,9 @@ It is the responsibility of any person directly or indirectly contracting with t
 
 (1) If it is proved in the prosecution of any offence that unfair discrimination on the grounds of race, gender or disability played a part in the commission of the offence, this must be regarded as an aggravating circumstance for purposes of sentence.
 
-- The South African Human Rights Commission must, in its report referred to in section 15 of the Human Rights Commission Act, 1994 ( Act 54 of 1994 ), include an assessment on the extent to which unfair discrimination on the grounds of race, gender and disability persists in the Republic, the effects thereof and recommendations on how best to address the problems.
+(2) The South African Human Rights Commission must, in its report referred to in section 15 of the Human Rights Commission Act, 1994 ( Act 54 of 1994 ), include an assessment on the extent to which unfair discrimination on the grounds of race, gender and disability persists in the Republic, the effects thereof and recommendations on how best to address the problems.
 
-(a) The State, institutions performing public functions and all persons have a duty and responsibility, in particular to-
+(3) (a) The State, institutions performing public functions and all persons have a duty and responsibility, in particular to-
 
 (i)     eliminate discrimination on the grounds of race, gender and disability;
 
@@ -909,7 +913,10 @@ It is the responsibility of any person directly or indirectly contracting with t
 
 [Date of commencement of sub-s. (3): 1 September 2000.]
 
-(4) The Schedule is also intended to provide an illustrative list of practices that are or may be unfair discrimination in order to(a) address and eliminate these practices; and (b) assist persons in interpreting their experiences and practices. [Date of commencement of sub-s. (4): 1 September 2000.]
+(4) The Schedule is also intended to provide an illustrative list of practices that are or may be unfair discrimination in order to-
+(a) address and eliminate these practices; and
+(b) assist persons in interpreting their experiences and practices.
+[Date of commencement of sub-s. (4): 1 September 2000.]
 
 (5) The illustrative list of practices in the Schedule is not conclusive and must be considered and revised by the Equality Review Committee on a continuous basis.
 
@@ -920,14 +927,13 @@ It is the responsibility of any person directly or indirectly contracting with t
 ### 30     Regulations
 
 (1) The Minister may, and where required in the circumstances, must, make regulations relating to-
---- | ---
-(a) | the procedures to be followed at or in connection with an inquiry in terms of or under this Act, including the manner in which proceedings must be instituted, the referral of matters contemplated in section 20 and the hearing of urgent matters;
-(b) | the form of any application, authority, certificate, consent, notice, order, process, register or subpoena to be made, given, issued or kept in terms of or under this Act, and any other form required in carrying out the provisions of this Act;
-(c) | the granting of legal aid at State expense in appropriate cases in consultation with the Legal Aid Board;
-(d) | the appearance of persons on behalf of the parties to the proceedings in court, which may include suitable persons other than attorneys or advocates;
-(e) | the appointment, powers, duties and functions of a clerk of an equality court;
-(f) | the attendance of witnesses in cases arising from the application of this Act and the payment of witness fees;
-(g) | the confirmation of court orders emanating from magistrates' courts sitting as equality courts as contemplated in section 19 (3) (a) ;
+(a) the procedures to be followed at or in connection with an inquiry in terms of or under this Act, including the manner in which proceedings must be instituted, the referral of matters contemplated in section 20 and the hearing of urgent matters;
+(b) the form of any application, authority, certificate, consent, notice, order, process, register or subpoena to be made, given, issued or kept in terms of or under this Act, and any other form required in carrying out the provisions of this Act;
+(c) the granting of legal aid at State expense in appropriate cases in consultation with the Legal Aid Board;
+(d) the appearance of persons on behalf of the parties to the proceedings in court, which may include suitable persons other than attorneys or advocates;
+(e) the appointment, powers, duties and functions of a clerk of an equality court;
+(f) the attendance of witnesses in cases arising from the application of this Act and the payment of witness fees;
+(g) the confirmation of court orders emanating from magistrates' courts sitting as equality courts as contemplated in section 19 (3) (a) ;
 
 [[END OF PAGE 20]]
 
@@ -989,7 +995,7 @@ It is the responsibility of any person directly or indirectly contracting with t
 
 (1) Despite section 16 (1) no proceedings may be instituted in any court unless a presiding officer and one or more clerks are available.
 
-- For purposes of giving full effect to this Act and making the Act as accessible as possible-
+(2) For purposes of giving full effect to this Act and making the Act as accessible as possible-
 
 (a) and in giving effect to subsection (1), judges, magistrates or additional magistrates, as the case may be, and clerks referred to in subsection (1) may be-
 
@@ -1003,7 +1009,7 @@ respectively, for one or more equality courts;
 
 (3) The Director-General of the Department must take all reasonable steps within the available resources of the Department to ensure that a clerk is available for each court in the Republic.
 
-- The Chief Justice must, in consultation with the Judicial Service Commission and the Magistrates Commission, develop the content of training courses with a view to building a dedicated and experienced pool of trained and specialised presiding officers, for purposes of presiding in court proceedings as contemplated in this Act, by providing-
+(4) The Chief Justice must, in consultation with the Judicial Service Commission and the Magistrates Commission, develop the content of training courses with a view to building a dedicated and experienced pool of trained and specialised presiding officers, for purposes of presiding in court proceedings as contemplated in this Act, by providing-
 
 (a) social context training for presiding officers; and
 
@@ -1051,7 +1057,7 @@ The Minister must, immediately, upon promulgation of this Act, by notice in the 
 
 ### 33     Powers, functions and term of office of Equality Review Committee
 
-- The Equality Review Committee-
+(1) The Equality Review Committee-
 
 (a) must advise the Minister about the operation of this Act;
 
@@ -1061,15 +1067,15 @@ The Minister must, immediately, upon promulgation of this Act, by notice in the 
 
 (d) has the other powers and functions as prescribed.
 
-- The Equality Review Committee may conduct its business and proceedings at its meetings as it deems fit.
+(2) The Equality Review Committee may conduct its business and proceedings at its meetings as it deems fit.
 
-- Members of the Equality Review Committee referred to in section 32 (a) , (d) and (e) are appointed for a period of five years and may be reappointed upon the expiry of their term of office.
+(3) Members of the Equality Review Committee referred to in section 32 (a) , (d) and (e) are appointed for a period of five years and may be reappointed upon the expiry of their term of office.
 
-- The other terms and conditions of appointment of members of the Equality Review Committee are as prescribed.
+(4) The other terms and conditions of appointment of members of the Equality Review Committee are as prescribed.
 
-- The administrative work connected with the performance of the functions of the Equality Review Committee must be performed by officers designated by the DirectorGeneral of the Department.
+(5) The administrative work connected with the performance of the functions of the Equality Review Committee must be performed by officers designated by the Director-General of the Department.
 
-- The members of the Equality Review Committee referred to in-
+(6) The members of the Equality Review Committee referred to in-
 
 (a) section 32 (d) and (e) are entitled to the remuneration, allowances and other benefits; and
 
@@ -1097,7 +1103,7 @@ as may be determined by the Minister in consultation with the Minister of Financ
 
 [Date of commencement of sub-s. (1): 1 September 2000.]
 
-- Nothing in this section-
+(2) Nothing in this section-
 
 (a) affects the ordinary jurisdiction of the courts to determine disputes that may be resolved by the application of law on these grounds;
 
@@ -1191,7 +1197,7 @@ as may be determined by the Minister in consultation with the Minister of Financ
 
 [[START OF PAGE 26]]
 
-...
+
 
 (b) Imposing terms, conditions or practices that perpetuate the consequences of past unfair discrimination or exclusion regarding access to financial resources.
 
