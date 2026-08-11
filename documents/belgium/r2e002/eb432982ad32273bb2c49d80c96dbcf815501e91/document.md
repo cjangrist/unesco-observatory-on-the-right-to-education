@@ -50,11 +50,7 @@ file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/B
 
 LA CONSTITUTION BELGE
 
-(art. 168 bis )
-
-(Moniteur belge du 22 août 2012)
-
-(33) Modification du 19 juillet 2012
+(33) | Modification du 19 juillet 2012 | (art. 168bis) | (Moniteur belge du 22 août 2012)
 
 (NL=Nederlandse tekst - DE=deutscher Text) (NL - DE)
 
@@ -124,6 +120,10 @@ LA CONSTITUTION BELGE
 
 (NL=Nederlandse versie - DE=Deutsche Fassung)
 
+## TITRE Ier DE LA BELGIQUE FÉDÉRALE, DE SES COMPOSANTES ET DE SON TERRITOIRE
+
+(NL - DE)
+
 ###### Art. 1 er
 
 La Belgique est un État fédéral qui se compose des communautés et des régions.
@@ -160,11 +160,7 @@ Les subdivisions des provinces ne peuvent être établies que par la loi.
 
 Les limites de l'État, des provinces et des communes ne peuvent être changées ou rectifiées qu'en vertu d'une loi.
 
-## TITRE Ier bis DES OBJECTIFS DE POLITIQUE GÉNÉRALE DE LA BELGIQUE FÉDÉRALE, DES COMMUNAUTÉS ET DES RÉGIONS
-
-## TITRE Ier DE LA BELGIQUE FÉDÉRALE, DE SES COMPOSANTES ET DE SON TERRITOIRE
-
-(NL - DE)
+## TITRE Ierbis DES OBJECTIFS DE POLITIQUE GÉNÉRALE DE LA BELGIQUE FÉDÉRALE, DES COMMUNAUTÉS ET DES RÉGIONS
 
 file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
 
@@ -173,6 +169,8 @@ file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/B
 [[START OF PAGE 4]]
 
 LA CONSTITUTION BELGE
+
+(NL - DE)
 
 ###### Art. 7bis
 
@@ -470,6 +468,10 @@ file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/B
 
 LA CONSTITUTION BELGE
 
+### CHAPITRE Ier DES CHAMBRES FÉDÉRALES
+
+(NL - DE)
+
 ###### Art. 42
 
 Les membres des deux Chambres représentent la Nation, et non uniquement ceux qui les ont élus.
@@ -519,10 +521,6 @@ Néanmoins, chaque Chambre se forme en comité secret, sur la demande de son pr�
 Elle décide ensuite, à la majorité absolue, si la séance doit être reprise en public sur le même sujet.
 
 ###### Art. 48
-
-### CHAPITRE Ier DES CHAMBRES FÉDÉRALES
-
-(NL - DE)
 
 file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
 
@@ -689,6 +687,8 @@ Une indemnité annuelle à imputer sur la dotation destinée à couvrir les dép
 La Chambre détermine le montant des retenues qui peuvent être faites sur l'indemnité à titre de contribution aux caisses de retraite ou de pension qu'elle juge à propos d'instituer.
 
 #### Section II Du Sénat
+
+(NL - DE)
 
 ###### Art. 67 (modification de la terminologie)
 
@@ -1274,6 +1274,8 @@ Les dispositions constitutionnelles relatives aux membres des Gouvernements de c
 
 ##### Sous-section Ire Des compétences des communautés
 
+(NL - DE)
+
 ###### Art. 127 (modification de la terminologie)
 
 § 1 er . Les Parlements de la Communauté française et de la Communauté flamande, chacun pour ce qui le concerne, règlent par décret :
@@ -1282,11 +1284,11 @@ Les dispositions constitutionnelles relatives aux membres des Gouvernements de c
 
 - 2° l'enseignement, à l'exception :
 
-- de la fixation du début et de la fin de l'obligation scolaire;
+a) de la fixation du début et de la fin de l'obligation scolaire;
 
-- des conditions minimales pour la délivrance des diplômes;
+b) des conditions minimales pour la délivrance des diplômes;
 
-- du régime des pensions;
+c) du régime des pensions;
 
 - 3° la coopération entre les communautés, ainsi que la coopération internationale, y compris la conclusion de traités, pour les matières visées aux 1° et 2°.
 
@@ -1370,6 +1372,10 @@ file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/B
 
 LA CONSTITUTION BELGE
 
+##### Sous-section II Des compétences des régions
+
+(NL - DE)
+
 ###### Art. 134
 
 Les lois prises en exécution de l'article 39 déterminent la force juridique des règles que les organes qu'elles créent prennent dans les matières qu'elles déterminent.
@@ -1407,10 +1413,6 @@ Ces compétences sont exercées, selon le cas, par voie de décrets, d'arrêtés
 Sur proposition de leurs Gouvernements respectifs, le Parlement de la Communauté germanophone et le Parlement de la Région wallonne peuvent, chacun par décret, décider d'un commun accord que le Parlement et le Gouvernement de la Communauté germanophone exercent, dans la région de langue allemande, en tout ou en partie, des compétences de la Région wallonne.
 
 Ces compétences sont exercées, selon le cas, par voie de décrets, d'arrêtés ou de règlements.
-
-##### Sous-section II Des compétences des régions
-
-(NL - DE)
 
 file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
 
@@ -1576,7 +1578,7 @@ Cette désignation se fait sur présentation motivée de la commission de nomina
 
 Dans le cas de désignation à la fonction de premier président de la Cour de cassation ou de premier président des cours, les assemblées générales concernées de ces cours émettent un avis motivé selon le mode déterminé par la loi, préalablement à la présentation visée à l'alinéa précédent.
 
-Le président et les présidents de section de la Cour de cassation, les présidents de chambre des cours et les viceprésidents des tribunaux sont désignés à ces fonctions par les cours et tribunaux en leur sein, dans les conditions et selon le mode déterminés par la loi.
+Le président et les présidents de section de la Cour de cassation, les présidents de chambre des cours et les vice-présidents des tribunaux sont désignés à ces fonctions par les cours et tribunaux en leur sein, dans les conditions et selon le mode déterminés par la loi.
 
 Sans préjudice des dispositions de l'article 152, la loi détermine la durée des désignations à ces fonctions.
 
@@ -1940,6 +1942,10 @@ file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/B
 
 LA CONSTITUTION BELGE
 
+DE LA FORCE PUBLIQUE
+
+(NL - DE)
+
 ###### Art. 182
 
 Le mode de recrutement de l'armée est déterminé par la loi. Elle règle également l'avancement, les droits et les obligations des militaires.
@@ -1985,10 +1991,6 @@ Le texte de la Constitution est établi en français, en néerlandais et en alle
 Aucune loi, aucun arrêté ou règlement d'administration générale, provinciale ou communale, n'est obligatoire qu'après avoir été publié dans la forme déterminée par la loi.
 
 ###### Art. 191
-
-DE LA FORCE PUBLIQUE
-
-(NL - DE)
 
 file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
 
@@ -2104,7 +2106,7 @@ Dans ce cas, les Chambres ne pourront délibérer si deux tiers au moins des mem
 
 (modification de la terminologie)
 
-- Les dispositions de l'article 85 seront pour la première fois d'application à la descendance de S.A.R. le Prince Albert, Félix, Humbert, Théodore, Christian, Eugène, Marie, Prince de Liège, Prince de Belgique, étant entendu que le mariage de S.A.R. la Princesse Astrid, Joséphine, Charlotte, Fabrizia, Elisabeth, Paola, Marie, Princesse de Belgique, avec Lorenz, Archiduc d'Autriche-Este, est censé avoir obtenu le consentement visé à l'article 85, alinéa 2.
+I. - Les dispositions de l'article 85 seront pour la première fois d'application à la descendance de S.A.R. le Prince Albert, Félix, Humbert, Théodore, Christian, Eugène, Marie, Prince de Liège, Prince de Belgique, étant entendu que le mariage de S.A.R. la Princesse Astrid, Joséphine, Charlotte, Fabrizia, Elisabeth, Paola, Marie, Princesse de Belgique, avec Lorenz, Archiduc d'Autriche-Este, est censé avoir obtenu le consentement visé à l'article 85, alinéa 2.
 
 Jusqu'à ce moment, les dispositions suivantes restent d'application.
 
@@ -2114,15 +2116,15 @@ Sera déchu de ses droits à la couronne, le prince qui se serait marié sans le
 
 Toutefois, il pourra être relevé de cette déchéance par le Roi ou par ceux qui, à son défaut, exercent ses pouvoirs dans les cas prévus par la Constitution, et ce moyennant l'assentiment des deux Chambres.
 
-(abrogé le 6 décembre 2005)
+II. - (abrogé le 6 décembre 2005)
 
-- L'article 125 est d'application pour les faits postérieurs au 8 mai 1993.
+III. - L'article 125 est d'application pour les faits postérieurs au 8 mai 1993.
 
-(abrogé le 6 décembre 2005)
+IV. - (abrogé le 6 décembre 2005)
 
-(abrogé le 6 décembre 2005)
+V. - (abrogé le 6 décembre 2005)
 
-- § 1 er . (abrogé le 6 décembre 2005)
+VI. - § 1 er . (abrogé le 6 décembre 2005)
 
 § 2. (abrogé le 6 décembre 2005)
 
@@ -2362,7 +2364,7 @@ LA CONSTITUTION BELGE
 
 ### Modification du 23 mars 2000
 
-#### Article 22 bis
+#### Article 22bis
 
 - Documents parlementaires du Sénat n os  2-21/1 à 6
 
@@ -2434,7 +2436,7 @@ LA CONSTITUTION BELGE
 
 - Chronologie du dossier
 
-#### Article 11 bis
+#### Article 11bis
 
 - Documents parlementaires du Sénat n os  2-465/1 à 5
 
@@ -2498,7 +2500,7 @@ LA CONSTITUTION BELGE
 
 ### Modification du 2 février 2005
 
-#### Article 14 bis
+#### Article 14bis
 
 file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
 
@@ -2522,7 +2524,7 @@ LA CONSTITUTION BELGE
 
 ### Modifications du 25 février 2005
 
-#### Article 41, article 67, article 68, article 111, article 115, article 116, article 117, article 118, article 118 bis , article 119, article 120, article 122, article 123, article 125, article 127, article 128, article 129, article 130, article 132, article 136, article 137, article 138, article 139, article 140, article 162, article 166, article 167, article 175, article 176, article 177, article 178 , titre IX
+#### Article 41, article 67, article 68, article 111, article 115, article 116, article 117, article 118, article 118bis, article 119, article 120, article 122, article 123, article 125, article 127, article 128, article 129, article 130, article 132, article 136, article 137, article 138, article 139, article 140, article 162, article 166, article 167, article 175, article 176, article 177, article 178 , titre IX
 
 - Documents parlementaires de la Chambre des représentants n os  51-1326/1 à 4
 
@@ -2628,7 +2630,7 @@ LA CONSTITUTION BELGE
 
 ### Modifications du 25 avril 2007
 
-#### Titre 1 bis et article 7 bis
+#### Titre 1bis et article 7bis
 
 - Documents parlementaires du Sénat n os  3-1778/1 à 4
 
@@ -2684,7 +2686,7 @@ LA CONSTITUTION BELGE
 
 ### Modification du 22 décembre 2008
 
-#### Article 22 bis
+#### Article 22bis
 
 - Documents parlementaires de la Chambre des représentants n os  52-0175/1 à 7
 
@@ -2730,7 +2732,7 @@ LA CONSTITUTION BELGE
 
 - Chronologie du dossier
 
-#### Article 157 bis
+#### Article 157bis
 
 - Documents parlementaires de la Chambre des représentants n os  53-2141/1 à 6
 
@@ -2758,7 +2760,7 @@ LA CONSTITUTION BELGE
 
 - Chronologie du dossier
 
-#### Article 168 bis
+#### Article 168bis
 
 - Documents parlementaires du Sénat n os  5-1562/1 à 4
 
