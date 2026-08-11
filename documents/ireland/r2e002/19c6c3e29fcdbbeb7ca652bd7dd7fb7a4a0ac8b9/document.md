@@ -80,13 +80,15 @@ The first phase of Junior Cycle Reform commenced with the introduction of Englis
 
 #### 2.1.3 Learning for Life reforms in further education and training and in higher education
 
-There are major reform programmes underway in both further education and training and in higher education. Driven by the Department's vision and the need to invest in people, these reforms will see the implementation of the  further  education  and  training  strategy  and  the  higher  education  strategy  to  improve  performance  and accountability and provide learners with the opportunities to reach their full potential and contribute to Ireland's economic, social and cultural development. Learning for Life initiatives for 2015 include the development of a new National Skills Strategy, further roll out of targeted Education and Training initiatives under the Skills to Work brand;  enhanced employer engagement and the  activation of the  Apprenticeship Implementation  Plan including a call for proposals from employers and providers leading to the development of apprenticeships in new areas.
+There are major reform programmes underway in both further education and training and in higher education. Driven by the Department's vision and the need to invest in people, these reforms will see the implementation of the further education and training strategy and the higher education strategy to improve performance and accountability and provide learners with the opportunities to reach their full potential and contribute to Ireland's economic, social and cultural development. Learning for Life initiatives for 2015 include the development of a new National Skills Strategy, further roll out of targeted Education and Training initiatives under the Skills to
 
 3
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+Work brand; enhanced employer engagement and the activation of the Apprenticeship Implementation Plan including a call for proposals from employers and providers leading to the development of apprenticeships in new areas.
 
 #### 2.1.4 Development of a new National Skills Strategy
 
@@ -118,12 +120,12 @@ The Department is committed to ensuring learners are provided with more flexible
 
 [[START OF PAGE 5]]
 
-### 2.1 | Learning for Life
---- | --- | --- | ---
+### 2.1 Learning for Life
+--- | --- | ---
 Milestones 2015 | Section/Agency Responsible
-2.1.1 National and Numeracy Implementation | Literacy Strategy | 2.1.1.1 Web based Aistear and Siolta Practice Guide published Q 2 2.1.1.2 Integrated language (Irish and English) curriculum for the first four years of primary school published (implementation September 2016) Q2 2.1.1.3 New primary maths curriculum for first four years of primary school consultation and development underway Q2 2.1.1.4 Review of Senior Cycle subject specifications in the Sciences, Agricultural Science, Economics and Applied Maths underway 2.1.1.5 New Senior Cycle subject specification in Politics and Society in development 2.1.1.6 New foreign Languages in Education Strategy published Q3 2.1.1.7 Report on the analysis of standardised test data returned by primary schools for 2011/2012 and 2012/2013 published Q1 2.1.1.8 Standardised test data from all primary schools returned 2014/2015 Q2 2.1.1.9 Field work in post-primary schools for PISA 2015 (Programme for International Assessment) completed Q1 2.1.1.10 Field work in primary and post- primary schools for TIMSS 2015 (trend in International Maths and Science Study) completed Q2 2.1.1.11 Interim Review of the National Literacy and Numeracy Strategy carried | Early Years Education Section Curriculum and Assessment Unit Inspectorate NCCA Educational Research Centre
-2.1.2 Junior Reform | Cycle | 2.1.2.1 Development of new science curriculum and assessment arrangements for Junior Cycle Q2 | Curriculum and Assessment Unit NCCA SEC
-2.1.4 National Strategy | Skills | 2.1.4.1 National Skills Strategy developed, Q3 | Higher Education Policy and Skills Section Further Education and Training Section
+2.1.1 National Literacy and Numeracy Strategy Implementation | 2.1.1.1 Web based Aistear and Siolta Practice Guide published Q 2 2.1.1.2 Integrated language (Irish and English) curriculum for the first four years of primary school published (implementation September 2016) Q2 2.1.1.3 New primary maths curriculum for first four years of primary school consultation and development underway Q2 2.1.1.4 Review of Senior Cycle subject specifications in the Sciences, Agricultural Science, Economics and Applied Maths underway 2.1.1.5 New Senior Cycle subject specification in Politics and Society in development 2.1.1.6 New foreign Languages in Education Strategy published Q3 2.1.1.7 Report on the analysis of standardised test data returned by primary schools for 2011/2012 and 2012/2013 published Q1 2.1.1.8 Standardised test data from all primary schools returned 2014/2015 Q2 2.1.1.9 Field work in post-primary schools for PISA 2015 (Programme for International Assessment) completed Q1 2.1.1.10 Field work in primary and post-primary schools for TIMSS 2015 (trend in International Maths and Science Study) completed Q2 2.1.1.11 Interim Review of the National Literacy and Numeracy Strategy carried out and new targets set Q4 | Early Years Education Section Curriculum and Assessment Unit Inspectorate NCCA Educational Research Centre
+2.1.2 Junior Cycle Reform | 2.1.2.1 Development of new science curriculum and assessment arrangements for Junior Cycle Q2 | Curriculum and Assessment Unit NCCA SEC
+2.1.4 National Skills Strategy | 2.1.4.1 National Skills Strategy developed, Q3 | Higher Education Policy and Skills Section Further Education and Training Section
 2.1.5 Activation Agenda: Targeted | 2.1.5.1 The second round of the Momentum programme, providing some | Further Education and Training Section Higher Education Policy and Skills
 
 5
@@ -142,7 +144,7 @@ Education and Training Initiatives | 6,500 places, will be completed in Q3 A fur
 
 #### 2.2.1 Early Years sector
 
-The Department is working closely with the Department of Children and Youth Affairs on quality improvement within the early-years sector. It will support the operation of Better Start the newly established quality support service for the sector which will deploy a team of early year's specialists as mentors/advisers working with earlyyears services on quality improvement.   During 2015, the NCCA will publish a web-based Aistear and Síolta Practice Guide which will host a range of interactive resources and materials in support of quality in practice.  A new Early Years Education Advisory Group will be established.
+The Department is working closely with the Department of Children and Youth Affairs on quality improvement within the early-years sector. It will support the operation of Better Start the newly established quality support service for the sector which will deploy a team of early year's specialists as mentors/advisers working with early-years services on quality improvement. During 2015, the NCCA will publish a web-based Aistear and Síolta Practice Guide which will host a range of interactive resources and materials in support of quality in practice. A new Early Years Education Advisory Group will be established.
 
 To  complement  the  work  of  the  Child  and  Family  Agency  pre-school  inspectorate  (TUSLA),  the  DES Inspectorate  is  planning  for  the  introduction  of  focused  inspections  on  the  quality  of  educational  provision  in early childhood education settings participating in the Free Pre-School Year Programme.
 
@@ -213,7 +215,7 @@ The  final  Code  of  Practice  Policy  for  Providers  of  Programmes  of  Educ
 Milestones 2015 | Section/Agency Responsible
 2.2.1 Quality in Early Years | 2.2.1.1 Early year's educational inspections active Q3 2.2.1.2 Educational inspection for early years, reports published Q4 | Inspectorate
 2.2.2 Increasing autonomy and accountability of schools | 2.2.2.1 Proposals for consultation process on increasing the autonomy and accountability of our schools developed | Central Policy Unit Inspectorate
-2.2.3 Implementation of new School self- evaluation (SSE) model and roll out of new models of school inspection in all schools. | 2.2.3.1 Criteria for SSE of leadership and management developed in consultation with relevant partners Q4 2.2.3.2 Pilot evaluations conducted under new inspection models commenced Q1 2.2.3.3 A collaborative research project with a number of primary and post- primary schools on how schools provide for students' wellbeing commenced in December 2014. An interim research report will be available in Q4 | Inspectorate
+2.2.3 Implementation of new School self-evaluation (SSE) model and roll out of new models of school inspection in all schools. | 2.2.3.1 Criteria for SSE of leadership and management developed in consultation with relevant partners Q4 2.2.3.2 Pilot evaluations conducted under new inspection models commenced Q1 2.2.3.3 A collaborative research project with a number of primary and post-primary schools on how schools provide for students' wellbeing commenced in December 2014. An interim research report will be available in Q4 | Inspectorate
 
 8
 
@@ -262,7 +264,7 @@ A new model for the allocation of resource and learning support teachers for all
 
 #### 2.3.5 Widening participation in higher education
 
-A new National Access Plan for higher education will be developed to promote access for disadvantaged groups and  to  put  in  place  coherent  pathways  from  second  level  education,  from  further  education  and  other  nontraditional entry routes with the objective of progressing towards the Bologna Process objective of ensuring that the student body entering, participating in and completing higher education at all levels reflects the diversity of Ireland's population.
+A new National Access Plan for higher education will be developed to promote access for disadvantaged groups and to put in place coherent pathways from second level education, from further education and other non-traditional entry routes with the objective of progressing towards the Bologna Process objective of ensuring that the student body entering, participating in and completing higher education at all levels reflects the diversity of Ireland's population.
 
 10
 
@@ -274,6 +276,8 @@ A new National Access Plan for higher education will be developed to promote acc
 
 The Department has commenced work on the development of a more strategic approach to social inclusion across the continuum of education. In 2015 this work will focus on a mapping and analysis of current policies and programmes and the preparation of a policy document to direct future provision in this area.
 
+### 2.3: Supporting Inclusion and Diversity
+
 Milestones 2015 | Section/Agency Responsible
 --- | --- | ---
 2.3.1 Reform of school practice | 2.3.1.1 Education (Admission to School) Bill published Q2 2.3.1.2 Parent and Student Charter underpinning principles published Q2 | School Governance Section
@@ -282,8 +286,6 @@ Milestones 2015 | Section/Agency Responsible
 2.3.4 New allocation model for special needs teaching resources | 2.3.4.1 Proposal for new allocation model for special needs teaching resources developed Q1 | Special Education Section
 2.3.5 Widening participation in higher education | 2.3.5.1 National Access Plan for Higher Education launched Q2 | Higher Education Equity of Access and Qualifications Section HEA
 2.3.6 Developing a life-course approach to social inclusion in education | 2.3.6.1 Paper on life-course approach to Social Inclusion in Education completed Q4 | Social Inclusion Section
-
-### 2.3: Supporting Inclusion and Diversity
 
 ### 2.4 Departmental/Sector Specific Reform Projects: Building the right systems and infrastructure
 
@@ -327,13 +329,15 @@ The new single on-line student grant application system will, following the curr
 
 #### 2.4.8 Improving our capacity in relation to data management, data analytics, research and evaluation
 
-The Department aims to maximise the use of data and enhance our analytical and research capacity to support the  development  and  evaluation  of  policies  and  service  delivery.  A  scoping  exercise  to  determine  the  best approach  to  achieve  this  was  completed  in  2014  and  a  course  of  action  in  relation  to  data  management, research and evaluation capacity was proposed and accepted. An implementation plan outlining specific actions and associated timelines will be developed in Q1 2015. Activity in these inter-related areas will be overseen by the Data, Evaluation & Research MAC sub-committee (DERMS).
+The Department aims to maximise the use of data and enhance our analytical and research capacity to support the development and evaluation of policies and service delivery. A scoping exercise to determine the best approach to achieve this was completed in 2014 and a course of action in relation to data management, research and evaluation capacity was proposed and accepted. An implementation plan outlining specific actions
 
 12
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+and associated timelines will be developed in Q1 2015. Activity in these inter-related areas will be overseen by the Data, Evaluation & Research MAC sub-committee (DERMS).
 
 ### 2.4 Building the right systems and infrastructure
 --- | --- | ---
@@ -423,7 +427,7 @@ Payments in Schools | Proposal re. online payment system solution for schools co
 
 [[START OF PAGE 17]]
 
-Assistive technology scheme
+Assistive technology scheme | Report on potential to outsource the assistive technology scheme Q4 | Public Service Reform Programme Office
 
 ### 3.5 Public Procurement
 
@@ -446,10 +450,6 @@ Milestones 2015 | Section/Agency Responsible
 --- | --- | ---
 Strategy Statement | Department's Statement of Strategy 2015 to 2017 published Q1 | Corporate Services
 Business Process Improvement | Evaluation of Business Process Improvement complete Q1 | Human Resources
-
-Report on potential to outsource the assistive technology scheme Q4
-
-Public Service Reform Programme Office
 
 17
 
@@ -523,7 +523,7 @@ Preliminary  scoping  work  on  grade  rationalisation  has  commenced.    This 
 
 #### 4.2.2 Further reduction in management numbers
 
-Preliminary  scoping  work  has  been  conducted  in  the  education  sector.  However,  given  the  crosssectoral nature of the issue, plans will need to be advanced on a public service wide level, as any one sector will not be able to advance such proposals in isolation from other sectors.  Proposals will need to be  developed  and agreed  centrally,  in  conjunction  with  sectoral  input.  Our  Department  continues  to monitor  central  progress  in  relation  to  this  matter  and  liaise  as  appropriate  with  other  sectors  and Government Departments.
+Preliminary scoping work has been conducted in the education sector. However, given the cross-sectoral nature of the issue, plans will need to be advanced on a public service wide level, as any one sector will not be able to advance such proposals in isolation from other sectors. Proposals will need to be developed and agreed centrally, in conjunction with sectoral input. Our Department continues to monitor central progress in relation to this matter and liaise as appropriate with other sectors and Government Departments.
 
 ### 4.3 Redeployment
 
@@ -547,7 +547,7 @@ New work sharing arrangements have been implemented with effect from 1 July 2013
 
 #### 4.7.1 Expert Group (fixed-term/part-time employment in lecturing)
 
-The Haddington Road Agreement outlined that an Expert Group would be established to consider and report on the level of fixed-term and part-time employment in lecturing, having regard to the importance for  lecturers of employment stability and security and taking account of system and institution needs. The  independent  chair  of  this  Expert  Group  has  been  appointed  and  the  work  of  the  group  has commenced.  As the group is chaired independently the Department does not wish to impose a timescale on the working of the Group, nor seek to pre-empt the outcome of the group.
+The Haddington Road Agreement outlined that an Expert Group would be established to consider and report on the level of fixed-term and part-time employment in lecturing, having regard to the importance for lecturers of employment stability and security and taking account of system and institution needs. The independent chair of this Expert Group has been appointed and the work of the group has commenced. As the group is chaired independently the Department does not wish to impose a time-scale on the working of the Group, nor seek to pre-empt the outcome of the group.
 
 #### 4.7.2 Expert Group (fixed-term/part-time employment in teaching)
 
@@ -574,90 +574,41 @@ Issues in relation to contracts for Adult Education Tutors were raised by the Un
 ## Appendix 1
 
 Education and Training Reform Board
-
 Chaired by the Secretary General, Séan O Foghlu
 
 Integrated Reform Delivery Plan
-
 SRO: Assistant Secretary, Ruth Carmody
-
 Programme Manager and Shared Services Advisor
 
-Further Education and Training
-
-Reform  (ETB/SOLAS) Programme
-
-Higher Education Strategy
-
-Individual Projects
-
-Project 2
-
-Project N
-
-ETB/SOLAS Programme Board
-
-Chaired by the Secretary General, Séan
-
-O Foghlu
-
-Higher Education Programme  Board
-
-Chaired by the Deputy Secretary, Mary
-
-Doyle
-
-Project  Steering Group (provides
-
-governance for one or more projects)
-
-Chaired by SRO or Programme Manager
-
 The Reform Board:
-
-
-
-Approves Plans (programme and project as appropriate)
-
-
-
-Reviews progress reports (quarterly)
-
-
-
-Resolves issues escalated by Programme Boards or Project
-
-Steering Groups
-
-
-
-Reports progress to Department of Expenditure and
-
-Reform and Cabinet
+ Approves Plans (programme and project as appropriate)
+ Reviews progress reports (quarterly)
+ Resolves issues escalated by Programme Boards or Project Steering Groups
+ Reports progress to Department of Expenditure and Reform and Cabinet
 
 The Programme Office:
+Supports the Reform Board and other programme boards, project offices and project steering groups as appropriate
 
-Supports the Reform Board and other
+Further Education and Training Reform (ETB/SOLAS) Programme
+ETB/SOLAS Programme Board
+Chaired by the Secretary General, Séan O Foghlu
+Reports progress to
 
-programme boards, project offices and
+Higher Education Strategy
+Higher Education Programme Board
+Chaired by the Deputy Secretary, Mary Doyle
+Reports progress to
 
-project steering groups as appropriate
+Individual Projects
+Project Steering Group (provides governance for one or more projects)
+Chaired by SRO or Programme Manager
+Reports progress to
 
-Reports
-
-progress  to
-
-Reports
-
-progress  to
-
-Reports
-
-progress to
-
+Project 2
+Project N
 Report Progress to:
 
-PMO Governance   January  2014
+PMO Governance January 2014
 
 22
 
