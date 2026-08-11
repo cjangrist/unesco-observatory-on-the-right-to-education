@@ -24,8 +24,6 @@ Per tal de donar resposta a la realitat específica de cada centre, correspon al
 
 Així doncs, el present decret defineix en els seus principis generals els objectius per al conjunt d'aquest nivell educatiu, el seu plantejament lingüístic i les condicions d'accés.
 
-Govern
-
 Al capítol II, s'estructuren les modalitats, les diferents assignatures que les composen, el seu pla d'estudis, es descriuen els elements dels diferents programes i es regulen els aspectes organitzatius.
 
 En el capítol de l'avaluació, es concreten els mecanismes i els documents per al procés d'avaluació per aquest nivell educatiu. La principal novetat és la introducció de la prova oficial de batxillerat que complementa l'avaluació final dels cursos de batxillerat i garanteix l'objectivitat necessària per a l'obtenció del títol de batxiller. Per tal de vetllar per la qualitat del nivell educatiu i la correcta aplicació dels processos d'avaluació i d'acreditació es crea la comissió de qualitat del nivell de batxillerat.
@@ -41,31 +39,31 @@ A proposta del Ministeri d'Educació, Formació Professional, Joventut i Esports
 
 Els objectius del batxillerat s'orienten a desenvolupar en l'alumne capacitats relacionades amb les llengües, amb la cultura, les habilitats socials i de participació ciutadana, de desenvolupament personal, d'aprendre a aprendre, habilitats relacionades amb la metodologia científica, l'ús de les tecnologies de la informació i la comunicació i en les capacitats específiques relacionades amb l'orientació.
 
-- Mostrar un ús ric, subtil i precís de la llengua catalana per a comprendre i produir textos en tota la diversitat de registres de l'àmbit acadèmic, social, literari i de la comunicació, manifestant un domini dels aspectes formals de la llengua.
+1. Mostrar un ús ric, subtil i precís de la llengua catalana per a comprendre i produir textos en tota la diversitat de registres de l'àmbit acadèmic, social, literari i de la comunicació, manifestant un domini dels aspectes formals de la llengua.
 
-- Utilitzar la llengua francesa i la llengua castellana de manera flexible i eficaç que li permeti comprendre i produir textos complexos de l'àmbit acadèmic, social, literari i de la comunicació,
+2. Utilitzar la llengua francesa i la llengua castellana de manera flexible i eficaç que li permeti comprendre i produir textos complexos de l'àmbit acadèmic, social, literari i de la comunicació, demostrant un ús controlat dels aspectes formals de la llengua.
 
-demostrant un ús controlat dels aspectes formals de la llengua.
+3. Tenir un coneixement de la llengua anglesa que li permeti interactuar amb certa fluïdesa i espontaneïtat, comprendre i produir textos relativament complexos, orals i escrits, en l'àmbit social, acadèmic, literari i de la comunicació.
 
-- Tenir un coneixement de la llengua anglesa que li permeti interactuar amb certa fluïdesa i espontaneïtat, comprendre i produir textos relativament complexos, orals i escrits, en l'àmbit social, acadèmic, literari i de la comunicació.
+4. Comprendre el món i la realitat d'Andorra a partir de la seva història, tradició i herència cultural, i la interacció entre els esdeveniments del present i els corrents de pensament.
 
-- Comprendre el món i la realitat d'Andorra a partir de la seva història, tradició i herència cultural, i la interacció entre els esdeveniments del present i els corrents de pensament.
+5. Analitzar i valorar críticament les problemàtiques del món contemporani, considerant les dependències intercontinentals, la comunicació entre les diferents cultures i les interaccions a través de l'espai i el temps.
 
-- Analitzar i valorar críticament les problemàtiques del món contemporani, considerant les dependències intercontinentals, la comunicació entre les diferents cultures i les interaccions a través de l'espai i el temps.
+6. Assumir els principis i valors democràtics, tot respectant la diversitat, els drets i llibertats fonamentals, i exercir solidaritats socials, econòmiques i ecològiques.
 
-- Assumir els principis i valors democràtics, tot respectant la diversitat, els drets i llibertats fonamentals, i exercir solidaritats socials, econòmiques i ecològiques.
+7. Consolidar les competències cíviques i ciutadanes, exercint una participació activa i responsable.
 
-- Consolidar les competències cíviques i ciutadanes, exercint una participació activa i responsable.
+8. Apropiar-se d'elements de les diverses expressions culturals i estètiques i manifestar la pròpia expressió creativa, d'idees, d'experiències i d'emocions.
 
-- Apropiar-se d'elements de les diverses expressions culturals i estètiques i manifestar la pròpia expressió creativa, d'idees, d'experiències i d'emocions.
+9. Mostrar un grau d'autoconeixement, d'autonomia, d'iniciativa personal, de maduresa intel·lectual i emocional que li permeti construir el seu projecte de futur.
 
-- Mostrar un grau d'autoconeixement, d'autonomia, d'iniciativa personal, de maduresa intel·lectual i emocional que li permeti construir el seu projecte de futur.
+10. Adoptar uns hàbits saludables i d'esforç per assolir un equilibri i benestar personal.
 
-- Adoptar uns hàbits saludables i d'esforç per assolir un equilibri i benestar personal.
+11. Utilitzar, en situacions individuals i de grup, amb autonomia i eficàcia, un repertori ampli d'estratègies de treball, de resolució de problemes i de recerca i tractament de la informació, adaptant-les a les característiques de les situacions que se li plantegen i als seus recursos personals, en especial la seva competència plurilingüe.
 
-- Utilitzar, en situacions individuals i de grup, amb autonomia i eficàcia, un repertori ampli d'estratègies de treball, de resolució de problemes i de recerca i tractament de la informació, adaptant-les a les característiques de les situacions que se li plantegen i als seus recursos personals, en especial la seva competència plurilingüe.
+12. Aplicar els procediments del mètode científic per la resolució de problemes, per ampliar i produir coneixements, en el marc de les diferents disciplines.
 
-- Aplicar els procediments del mètode científic per la resolució de problemes, per ampliar i produir coneixements, en el marc de les diferents disciplines.
+Govern
 
 [[END OF PAGE 1]]
 
@@ -89,7 +87,7 @@ Butlletí Oficial del Principat d'Andorra
 
 El nivell de batxillerat té com a finalitat ampliar en els seus alumnes la competència plurilingüe, necessària en un context globalitzat, i capacitar-los per accedir a estudis superiors en entorns lingüístics i culturals diversos.
 
-Ambaquest objectiu l'aprenentatge de llengües és un dels principals eixos de l'estructura del pla d'estudis del batxillerat i s'organitza al voltant de les assignatures pròpiament lingüístiques i la vehiculació de diferents assignatures en llengua catalana, castellana, francesa i anglesa.
+Amb aquest objectiu l'aprenentatge de llengües és un dels principals eixos de l'estructura del pla d'estudis del batxillerat i s'organitza al voltant de les assignatures pròpiament lingüístiques i la vehiculació de diferents assignatures en llengua catalana, castellana, francesa i anglesa.
 
 En concret, al finalitzar el nivell educatiu de batxillerat, els alumnes han de poder expressar-se en llengua catalana de manera rica i matisada en una gran diversitat de registres i situacions comunicatives formals, amb un domini de la varietat estàndard i un reconeixement de les principals variants lingüístiques.
 
@@ -133,11 +131,11 @@ El batxillerat ofereix tres opcions, tècnic, científic i humanístic, que es d
 
 a) batxillerat artístic i de la comunicació
 
-- batxillerat científic i tecnològic
+b) batxillerat científic i tecnològic
 
-- batxillerat econòmic i social
+c) batxillerat econòmic i social
 
-- batxillerat humanístic i lingüístic
+d) batxillerat humanístic i lingüístic
 
 ### Article 8
 
@@ -193,7 +191,7 @@ El pla d'estudis es recull a l'annex 1 del present decret.
 ### Article 14
 #### Programes
 
-Els programes de les assignatures de batxillerat s'estructuren en una introducció, la contribució a l'educació per a la ciutadania, les competències disciplinàries, els continguts, l'avaluació -orientacions i criteris -i orientacions didàctiques.
+Els programes de les assignatures de batxillerat s'estructuren en una introducció, la contribució a l'educació per a la ciutadania, les competències disciplinàries, els continguts, l'avaluació - orientacions i criteris - i orientacions didàctiques.
 
 Els programes es recullen en l'annex 2 del present decret.
 
@@ -209,7 +207,7 @@ El seu desenvolupament, en el marc de cada assignatura i en les activitats de ce
 ### Article 16
 #### Projecte Curricular de Centre
 
-El projecte curricular de centre és el document que recull les decisions en relació als diferents components curricul a r s , defineix els mitjans i l e s característiques de la intervenció pedagògica per dotar-la de coherència al llarg del nivell educatiu i facilitar-ne la planificació.
+El projecte curricular de centre és el document que recull les decisions en relació als diferents components curriculars, defineix els mitjans i les característiques de la intervenció pedagògica per dotar-la de coherència al llarg del nivell educatiu i facilitar-ne la planificació.
 
 El projecte curricular de centre és específic per a cada centre. Concreta els diferents components curriculars a partir de les finalitats del nivell educatiu i dels programes, tenint en compte les especificitats del context, la singularitat dels alumnes i dels altres sectors de la comunitat educativa del centre.
 
@@ -276,7 +274,7 @@ Butlletí Oficial del Principat d'Andorra
 
 1. La junta d'avaluació és l'òrgan encarregat de prendre decisions sobre les mesures educatives en relació al procés d'ensenyament i aprenentatge de l'alumne, així com la promoció o permanència en finalitzar el primer curs, i d'emetre les notes finals de primer i de segon curs.
 
-2. La junta d'avaluació es compon dels membres que se citen a continuació i que desenvolupen l e s f uncions següents:
+2. La junta d'avaluació es compon dels membres que se citen a continuació i que desenvolupen les funcions següents:
 
 a) el director de centre com a president de la junta, convoca la junta d'avaluació per a cada grup classe i vetlla pel seu correcte funcionament.
 
@@ -298,17 +296,17 @@ e) el psicopedagog, aporta informació complementària sobre l'orientació acad�
 
 7. A l'acta d'avaluació hi consta:
 
-- els cognoms i nom dels alumnes
+a) els cognoms i nom dels alumnes
 
-- el curs escolar
+b) el curs escolar
 
-- el grup classe
+c) el grup classe
 
-- la modalitat
+d) la modalitat
 
-- les assignatures
+e) les assignatures
 
-- les notes obtingudes
+f) les notes obtingudes
 
 g) la mitjana de les notes amb coeficient
 
@@ -339,7 +337,7 @@ En casos excepcionals, es pot autoritzar la promoció d'un alumne amb quatre ass
 
 #### Permanència
 
-Els alumnes que no promocionen a segon curs han de tornar a cursar integrament el primer curs.
+Els alumnes que no promocionen a segon curs han de tornar a cursar íntegrament el primer curs.
 
 ## Capítol IV. Prova oficial de batxillerat
 
@@ -360,9 +358,9 @@ La prova oficial de batxillerat s'estructura en diferents proves, segons cada mo
 
 a. Batxillerat artístic i de la comunicació:
 
-- llengua i literatura catalanes
+a) llengua i literatura catalanes
 
-- llengua anglesa
+b) llengua anglesa
 
 [[END OF PAGE 4]]
 
@@ -374,71 +372,71 @@ Butlletí Oficial del Principat d'Andorra
 
 Núm. 101 - any 19 - 28.11.2007
 
-- llengua castellana
+c) llengua castellana
 
-- llengua francesa
+d) llengua francesa
 
-- filosofia
+e) filosofia
 
-- història de les arts
+f) història de les arts
 
-- arts plàstiques i gràfiques
+g) arts plàstiques i gràfiques
 
 h) comunicació i realització audiovisual
 
 b. Batxillerat científic i tecnològic:
 
-- llengua i literatura catalanes
+a) llengua i literatura catalanes
 
-- llengua anglesa
+b) llengua anglesa
 
-- llengua castellana
+c) llengua castellana
 
-- llengua francesa
+d) llengua francesa
 
-- filosofia
+e) filosofia
 
-- biologia o dibuix tècnic
+f) biologia o dibuix tècnic
 
-- física i química
+g) física i química
 
-- matemàtiques
+h) matemàtiques
 
-- Batxillerat econòmic i social:
+c. Batxillerat econòmic i social:
 
-- llengua i literatura catalanes
+a) llengua i literatura catalanes
 
-- llengua anglesa
+b) llengua anglesa
 
-- llengua castellana
+c) llengua castellana
 
-- llengua francesa
+d) llengua francesa
 
-- filosofia
+e) filosofia
 
-- economia
+f) economia
 
-- història
+g) història
 
 h) matemàtiques aplicades a les ciències socials
 
-- Batxillerat humanístic i lingüístic:
+d. Batxillerat humanístic i lingüístic:
 
-- llengua i literatura catalanes
+a) llengua i literatura catalanes
 
-- llengua anglesa
+b) llengua anglesa
 
-- llengua i literatura castellanes
+c) llengua i literatura castellanes
 
-- llengua i literatura franceses
+d) llengua i literatura franceses
 
-- filosofia
+e) filosofia
 
-- literatura universal
+f) literatura universal
 
-- història
+g) història
 
-- llengua i cultura llatina
+h) llengua i cultura llatina
 
 L'annex 3 determina, per a cada modalitat, les assignatures, els coeficients, les llengües vehiculars, així com les proves, la seva tipologia i les competències que s'avaluen en cadascuna d'elles.
 
@@ -485,17 +483,17 @@ L'acta d'acreditació és un document oficial signat per tots els membres del co
 
 A l'acta d'acreditació hi consta:
 
-- els cognoms i nom dels alumnes
+a) els cognoms i nom dels alumnes
 
-- any acadèmic
+b) any acadèmic
 
-- la modalitat
+c) la modalitat
 
 d) la nota mitjana dels dos cursos de batxillerat
 
 e) la nota de la prova oficial de batxillerat
 
-- la nota de batxillerat
+f) la nota de batxillerat
 
 g) la resolució APTE o NO APTE
 
@@ -640,8 +638,8 @@ Llengua i literatura castellanes II | 3 | 3 | Castellà
 Llengua i literatura angleses II | 3 | 3 | Anglès
 Història II | 4 | 3 | Català
 Història de les arts II | 3 | 4 | Castellà
-Arts plàstiques i gràfiques II | 3 o 5 | 4 o 5 | Francès
-Comunicació i realització audiovisual II | 3 o 5 | 4 o 5 | Català
+Arts plàstiques i gràfiques II | 3 o 5* | 4 o 5** | Francès
+Comunicació i realització audiovisual II | 3 o 5* | 4 o 5** | Català
 Filosofia II | 3 | 3 | Català
 Assignatures optatives (a cursar-ne dues)
 Publicitat II | 2 | 2 | Català
@@ -649,7 +647,7 @@ Cinema II | 2 | 2 | Català
 Música II | 2 | 2 | Català
 Dibuix tècnic II | 2 | 2 | Català
 Aplicacions informàtiques al disseny | 2 | 2 | Castellà
-Literatura universal | 2 | 2 | Francès B2aB2aB2a
+Literatura universal | 2 | 2 | Francès***
 Llengua alemanya II | 2 | 2 | Alemany
 Llengua italiana II | 2 | 2 | Italià
 Llengua portuguesa II | 2 | 2 | Portuguès
@@ -660,11 +658,11 @@ Total assignatures | 34 | 36
 Tutoria | 0 | 0 | -
 Total global | 34 | 36
 
-B2a L'alumne tria quina de les dues assignatures ('Arts plàstiques i gràfiques II' o 'Comunicació i realització audiovisual II') vol cursar a 5h i quina a 3h segons el seu itinerari curricular (o artístic o comunicació).
+* L'alumne tria quina de les dues assignatures ('Arts plàstiques i gràfiques II' o 'Comunicació i realització audiovisual II') vol cursar a 5h i quina a 3h segons el seu itinerari curricular (o artístic o comunicació).
 
-- B2aB2a En funció de les hores setmanals en què es cursa l'assignatura, 3h o 5h, el seu coeficient és, respectivament, 4 i 5.
+** En funció de les hores setmanals en què es cursa l'assignatura, 3h o 5h, el seu coeficient és, respectivament, 4 i 5.
 
-> B2aB2aB2a L'assignatura de 'Literatura universal' es vehicula en llengua francesa però els textos literaris en català, francès, castellà i anglès, es tracten en la llengua d'origen.
+*** L'assignatura de 'Literatura universal' es vehicula en llengua francesa però els textos literaris en català, francès, castellà i anglès, es tracten en la llengua d'origen.
 
 [[END OF PAGE 7]]
 
@@ -688,8 +686,8 @@ Llengua i literatura angleses I | 3 | 3 | Anglès
 Història | 2 | 3 | Català
 Matemàtiques I | 4 | 5 | Castellà
 Física i química I | 4 | 4 | Francès
-Informàtica I | 2 | 3 | Català
-Biologia I o Dibuix tècnic I | 3 | 4 | Català
+Informàtica I* | 2 | 3 | Català
+Biologia I o Dibuix tècnic I** | 3 | 4 | Català
 Educació física I | 2 | 3 | Francès
 Assignatures optatives (a cursar-ne dues)
 Dibuix tècnic I o Biologia I | 2 | 2 | Català
@@ -699,8 +697,7 @@ Psicologia | 2 | 2 | Castellà
 Llengua alemanya I | 2 | 2 | Alemany
 Llengua italiana I | 2 | 2 | Italià
 Llengua portuguesa I | 2 | 2 | Portuguès
-Total assignatures
-33 | 39
+Total assignatures | 33 | 39
 Tutoria | 1 | 0 | Català
 Total global | 34 | 39
 
@@ -714,8 +711,8 @@ Llengua i literatura angleses II | 3 | 3 | Anglès
 Filosofia | 3 | 3 | Català
 Matemàtiques II | 5 | 5 | Castellà
 Física i química II | 5 | 4 | Francès
-Informàtica II | 2 | 3 | Català
-Biologia II o Dibuix tècnic II B2aB2aB2a | 3 | 4 | Català
+Informàtica II* | 2 | 3 | Català
+Biologia II o Dibuix tècnic II** | 3 | 4 | Català
 Assignatures optatives (a cursar-ne dues)
 Dibuix tècnic II o Biologia II | 2 | 2 | Català
 Ciències de la terra II | 2 | 2 | Català
@@ -725,14 +722,13 @@ Llengua alemanya II | 2 | 2 | Alemany
 Llengua italiana II | 2 | 2 | Italià
 Llengua portuguesa II | 2 | 2 | Portuguès
 Educació física II | 2 | 2 | Francès
-Total assignatures
-34 | 36
+Total assignatures | 34 | 36
 Tutoria | 0 | 0 | -
 Total global | 34 | 36
 
-B2a L'assignatura d''Informàtica' es vehicula en català, però els textos de l'assignatura es treballen en anglès.
+* L'assignatura d''Informàtica' es vehicula en català, però els textos de l'assignatura es treballen en anglès.
 
-B2aB2a Els alumnes han d'escollir entre 'Biologia I i II' i 'Dibuix tècnic I i II', a partir del seu itinerari d'especialitat, sigui científic o tecnològic. Els alumnes que triïn una assignatura han de cursar obligatòriament l'altra com a optativa.
+** Els alumnes han d'escollir entre 'Biologia I i II' i 'Dibuix tècnic I i II', a partir del seu itinerari d'especialitat, sigui científic o tecnològic. Els alumnes que triïn una assignatura han de cursar obligatòriament l'altra com a optativa.
 
 [[END OF PAGE 8]]
 
@@ -756,7 +752,7 @@ Llengua i literatura angleses I | 3 | 3 | Anglès
 Història I | 3 | 4 | Català
 Economia I | 4 | 5 | Francès
 Matemàtiques aplicades a les ciències socials I | 3 | 4 | Castellà
-Informàtica I | 2 | 3 | Català
+Informàtica I* | 2 | 3 | Català
 Geografia | 3 | 3 | Català
 Educació física I | 2 | 3 | Francès
 Assignatures optatives (a cursar-ne dues)
@@ -767,8 +763,7 @@ Turisme | 2 | 2 | Francès
 Llengua alemanya I | 2 | 2 | Alemany
 Llengua italiana I | 2 | 2 | Italià
 Llengua portuguesa I | 2 | 2 | Portuguès
-Total assignatures | 33
-39
+Total assignatures | 33 | 39
 Tutoria | 1 | 0 | Català
 Total global | 34 | 39
 
@@ -782,7 +777,7 @@ Llengua i literatura angleses II | 3 | 3 | Anglès
 Història II | 3 | 4 | Català
 Economia II | 5 | 5 | Francès
 Matemàtiques aplicades a les ciències socials II | 4 | 4 | Castellà
-Informàtica II | 2 | 3 | Català
+Informàtica II* | 2 | 3 | Català
 Filosofia | 4 | 3 | Català
 Assignatures optatives (a cursar-ne dues)
 Tècniques d'administració i gestió d'empreses | 2 | 2 | Francès
@@ -799,7 +794,7 @@ Total assignatures | 34 | 36
 Tutoria | 0 | 0 | -
 Total global | 34 | 36
 
-> B2a L'assignatura d''Informàtica' es vehicula en català, però els textos de l'assignatura es treballen en anglès.
+* L'assignatura d''Informàtica' es vehicula en català, però els textos de l'assignatura es treballen en anglès.
 
 [[END OF PAGE 9]]
 
@@ -823,7 +818,7 @@ Llengua i literatura angleses I | 4 | 4 | Anglès
 Història I | 2 | 3 | Català
 Filosofia I | 4 | 5 | Català
 Llatí I | 3 | 4 | Castellà
-Literatura universal I | 2 | 3 | Francès
+Literatura universal I | 2 | 3 | Francès*
 Educació física I | 2 | 3 | Francès
 Assignatures optatives (a cursar-ne dues)
 Grec I | 2 | 2 | Català
@@ -835,8 +830,7 @@ Música I | 2 | 2 | Català
 Cinema I | 2 | 2 | Català
 Psicologia | 2 | 2 | Castellà
 Turisme | 2 | 2 | Francès
-Total assignatures | 33
-39
+Total assignatures | 33 | 39
 Tutoria | 1 | 0 | Català
 Total global | 34 | 39
 
@@ -850,7 +844,7 @@ Llengua i literatura angleses II | 4 | 4 | Anglès
 Història II | 3 | 3 | Català
 Filosofia II | 4 | 5 | Català
 Llatí II | 4 | 4 | Castellà
-Literatura universal II | 2 | 3 | Francès
+Literatura universal II | 2 | 3 | Francès*
 Assignatures optatives (a cursar-ne dues)
 Grec II | 2 | 2 | Català
 Llengua alemanya II | 2 | 2 | Alemany
@@ -866,7 +860,7 @@ Total assignatures | 34 | 36
 Tutoria | 0 | 0 | -
 Total global | 34 | 36
 
-> B2a La llengua vehicular és la llengua francesa però els textos literaris en català, francès, castellà i anglès, es tracten en la llengua d'origen.
+* La llengua vehicular és la llengua francesa però els textos literaris en català, francès, castellà i anglès, es tracten en la llengua d'origen.
 
 [[END OF PAGE 10]]
 
@@ -884,7 +878,7 @@ Núm. 101 - any 19 - 28.11.2007
 
 #### 1. Introducció
 
-El programa pretén que l'alumne s'apropiï d'un procés de recerca autònom i creatiu, amb l'ajuda dels suports visuals del conjunt d'obres d'art estudiades. El camp d'investigació dels diferents àmbits plàstics i artístics afronta totes les grans problemàtiques que s'han fet paleses al llarg del segle XXI i que encara continuen vigents (al voltant del color, la matèria, la forma, l'organització de l'espai pictòric, el volum, l'entorn, la imatge i el cos). El conjunt d'aquestes problemàtiques s'ha de considerar tant des del punt de vista de les qüestions materials, tècniques i operacionals com dels aspectes simbòlics, semàntics i semiològics. A mesura que els alumnes assoleixin coneixements tècnics i teòrics, adoptaran un vocabulari personal d'expressió plàstica i artística tot explorantne el potencial en funció d'una intenció donada.
+El programa pretén que l'alumne s'apropiï d'un procés de recerca autònom i creatiu, amb l'ajuda dels suports visuals del conjunt d'obres d'art estudiades. El camp d'investigació dels diferents àmbits plàstics i artístics afronta totes les grans problemàtiques que s'han fet paleses al llarg del segle XXI i que encara continuen vigents (al voltant del color, la matèria, la forma, l'organització de l'espai pictòric, el volum, l'entorn, la imatge i el cos). El conjunt d'aquestes problemàtiques s'ha de considerar tant des del punt de vista de les qüestions materials, tècniques i operacionals com dels aspectes simbòlics, semàntics i semiològics. A mesura que els alumnes assoleixin coneixements tècnics i teòrics, adoptaran un vocabulari personal d'expressió plàstica i artística tot explorant-ne el potencial en funció d'una intenció donada.
 
 El programa s'organitza sobre la base d'uns principis sòlids d'estratègia didàctica, a fi i efecte de permetre a l'alumne d'adquirir un mètode de recerca, una pràctica de l'experimentació, un domini de la reflexió i una experiència de l'argumentació constructives. No es tracta, en cap cas, d'un taller de pràctica lliure.
 
@@ -898,65 +892,65 @@ La relació entre l'emocional i el racional, entre l'universal i el personal, en
 
 #### 3. Competències disciplinàries
 
-- Organitzar elements plàstics en un espai pictòric o espacial en funció d'una intenció precisa.
+1. Organitzar elements plàstics en un espai pictòric o espacial en funció d'una intenció precisa.
 
-- Posar en sinergia els coneixements i les competències adequades a un procés determinat.
+2. Posar en sinergia els coneixements i les competències adequades a un procés determinat.
 
-- Construir una estratègia de recerca i una gestió de projecte segons unes directrius determinades.
+3. Construir una estratègia de recerca i una gestió de projecte segons unes directrius determinades.
 
-- Defensar i argumentar les seves opcions plàstiques i artístiques.
+4. Defensar i argumentar les seves opcions plàstiques i artístiques.
 
-- Comprendre i dominar el vocabulari específic que caracteritza la pràctica de les arts plàstiques i de la reflexió crítica estètica.
+5. Comprendre i dominar el vocabulari específic que caracteritza la pràctica de les arts plàstiques i de la reflexió crítica estètica.
 
-- Conèixer i dominar les principals pràctiques plàstiques que s'utilitzen al segle XXI en la seva dimensió, el seu potencial i les seves especificitats, així com aplicar-les en una pràctica original i personal.
+6. Conèixer i dominar les principals pràctiques plàstiques que s'utilitzen al segle XXI en la seva dimensió, el seu potencial i les seves especificitats, així com aplicar-les en una pràctica original i personal.
 
-- Comprendre i dominar els reptes simbòlics, expressius, semiològics i semàntics de la seva pràctica plàstica i artística.
+7. Comprendre i dominar els reptes simbòlics, expressius, semiològics i semàntics de la seva pràctica plàstica i artística.
 
-- Localitzar i explicitar les correlacions entre la seva pràctica i els grans corrents artístics contemporanis.
+8. Localitzar i explicitar les correlacions entre la seva pràctica i els grans corrents artístics contemporanis.
 
-- Emetre un judici i argumentar-lo en relació amb una creació plàstica o gràfica.
+9. Emetre un judici i argumentar-lo en relació amb una creació plàstica o gràfica.
 
 #### 4. Continguts
 
 ##### Primer curs
 
-- Al voltant del color.
+1. Al voltant del color.
 
 - 1.1. Rol del color en la comunicació visual, els còmics i els dibuixos animats.
 
 - 1.2. Utilització expressiva del color
 
-- Al voltant de la matèria.
+2. Al voltant de la matèria.
 
 - 2.1. Utilització i variació dels suports i dels materials, les eines, les postures i la gestualitat.
 
 - 2.2. Operacions plàstiques: marques, empremtes, rascades, fregaments, emmotllaments, intervenció en els suports, intervencions en els materials.
 
-- Al voltant de la forma.
+3. Al voltant de la forma.
 
 - 3.1. Utilització de les tècniques de representació gràfiques: proporcions i modelatges.
 
 - 3.2. Les representacions de la figura humana i les representacions de l'espai en les aplicacions infogràfiques.
 
-- Al voltant de l'organització de l'espai pictòric.
+4. Al voltant de l'organització de l'espai pictòric.
 
 - 4.1. Els elements de l'espai pictòric.
 
 - 4.2. Ritmes, dinàmiques, estructures.
 
-- Al voltant del volum.
+5. Al voltant del volum.
 
 - 5.1. Relació amb l'espai.
 
 - 5.2. Relació amb la llum.
 
-- Al voltant de l'entorn.
+6. Al voltant de l'entorn.
 
 - 6.1. Utilització de materials reciclables naturals, industrials.
 
 - 6.2. Explotació d'un lloc natural, cultural.
 
-- Al voltant de la imatge.
+7. Al voltant de la imatge.
 
 - 7.1. Relació entre objecte i imatge.
 
@@ -974,13 +968,13 @@ Butlletí Oficial del Principat d'Andorra
 
 - 7.3. Intervenció sobre la imatge: alteració, degradació, integració, associació, dissociació.
 
-- Al voltant del cos.
+8. Al voltant del cos.
 
 - 8.1. Les representacions del cos.
 
 - 8.2. Les representacions del moviment.
 
-- Al voltant dels dibuixos animats.
+9. Al voltant dels dibuixos animats.
 
 - 9.1. Realització audiovisual.
 
@@ -988,39 +982,39 @@ Butlletí Oficial del Principat d'Andorra
 
 ##### Segon curs
 
-- Al voltant del color.
+1. Al voltant del color.
 
 - 1.1. Contrasts successius, contrasts simultanis, complementarietat i valor del color.
 
-- Al voltant de la matèria.
+2. Al voltant de la matèria.
 
 - 2.1. Combinacions diverses d'aglutinants, pigments, sorres, pastes, coles.
 
 - 2.2. Collages, acoblaments, muntatges, instal·lacions, materials naturals i industrials.
 
-- Al voltant de la forma.
+3. Al voltant de la forma.
 
 - 3.1. Utilització de les tècniques de representació gràfiques (perspectives, anamorfosis).
 
-- Al voltant de l'organització de l'espai pictòric.
+4. Al voltant de l'organització de l'espai pictòric.
 
 - 4.1. Posada en confrontació dels diferents espais pictòrics.
 
 - 4.2. Exploració de les nocions d'harmonia, composició, expressió.
 
-- Al voltant del volum.
+5. Al voltant del volum.
 
 - 5.1. Acoblaments de materials naturals i/o industrials.
 
 - 5.2. Instal·lacions, entorns, utilització de tècniques mixtes i multimèdia.
 
-- Al voltant de l'entorn.
+6. Al voltant de l'entorn.
 
 - 6.1. Intervenció, instal·lació, recorregut.
 
-- 6.2. Escenografia, espai sonor, performance .
+- 6.2. Escenografia, espai sonor, performance.
 
-- Al voltant de la imatge.
+7. Al voltant de la imatge.
 
 - 7.1. Estudi de les relacions entre signe i significat en una imatge.
 
@@ -1030,13 +1024,13 @@ Butlletí Oficial del Principat d'Andorra
 
 - 7.4. Intervenció sobre la imatge: permuta, combinació, declinació, enquadrament, desenquadrament, reenquadrament.
 
-- Al voltant del cos.
+8. Al voltant del cos.
 
 - 8.1. El cos dins la imatge
 
-- 8.2. Action painting, performances .
+- 8.2. Action painting, performances.
 
-- Al voltant dels dibuixos animats.
+9. Al voltant dels dibuixos animats.
 
 - 9.1. Realització d'una pel·lícula d'animació.
 
@@ -1052,11 +1046,11 @@ Els coneixements biològics s'inscriuen, juntament amb altres coneixements cient
 
 Les especificitats de la biologia són:
 
--El ràpid renovament dels coneixements en aquest àmbit, i la seva reinversió sovint espectacular a través de la recerca aplicada, situa sovint aquesta disciplina com a capdavantera en els mitjans de comunicació el que pot fer-la indubtablement atractiva però al mateix temps també sospitosa i suscitar, lògicament, neguit.
+- El ràpid renovament dels coneixements en aquest àmbit, i la seva reinversió sovint espectacular a través de la recerca aplicada, situa sovint aquesta disciplina com a capdavantera en els mitjans de comunicació el que pot fer-la indubtablement atractiva però al mateix temps també sospitosa i suscitar, lògicament, neguit.
 
 - L'evolució dels coneixements té com a conseqüència directa un canvi necessari dels programes a un ritme més ràpid que en el passat.
 
-- Aquesta evolució té conseqüències pel que fa a la conscienciació de la fragilitat de les hipòtesis i / o conclusions emeses pels investigadors, els quals en el passat van erigir certituds molt ràpidament. La introducció d'elements d'història de les ciències, que mostrarien l'evolució dels coneixements, prepararia per realitzar una anàlisi crítica i ajudaria a no caure en el dogmatisme.
+- Aquesta evolució té conseqüències pel que fa a la conscienciació de la fragilitat de les hipòtesis i/o conclusions emeses pels investigadors, els quals en el passat van erigir certituds molt ràpidament. La introducció d'elements d'història de les ciències, que mostrarien l'evolució dels coneixements, prepararia per realitzar una anàlisi crítica i ajudaria a no caure en el dogmatisme.
 
 - Una visió global sobre l'excel·lent desenvolupament de les ciències de la vida, durant aquesta darrera meitat de segle, permet observar un enfocament, força molecular, que es podria qualificar de reductor, un enriquiment tècnic i nous modes de tractament de les informacions que han portat a privilegiar en l'estudi dels problemes biològics la globalitat en detriment de la particularitat (descuidant d'aquesta manera l'individu i la seva diversitat), un desenvolupament considerable de la neurobiologia i de les ciències cognitives, una introducció massiva de les aplicacions biotecnològiques en els àmbits de la salut i del món vegetal (que es voldria que estiguessin dotades de noves propietats), uns elements que obrin tot un camp nou de reflexió sobre les relacions entre ciència i societat.
 
@@ -1074,7 +1068,7 @@ Núm. 101 - any 19 - 28.11.2007
 
 L'ensenyament de la biologia articula unes dimensions cognitives a unes dimensions afectives i a diverses opinions. Aquestes darreres no poden ser ignorades perquè poden funcionar com a obstacles per a l'adquisició de nous coneixements. Identificar valors, actituds i normes permetria dominar millor les pròpies interaccions amb l'adquisició de coneixements.
 
-Un treball previ a tot ensenyament, que podria recolzar-se en els treballs de diversos comitès d'ètica, podria ser el d'especificar les conviccions, els límits de la validesa científica dels discursos filosòfics amb relació a un sistema de valors ètics, filosòfics i / o religiosos.
+Un treball previ a tot ensenyament, que podria recolzar-se en els treballs de diversos comitès d'ètica, podria ser el d'especificar les conviccions, els límits de la validesa científica dels discursos filosòfics amb relació a un sistema de valors ètics, filosòfics i/o religiosos.
 
 La biologia ajuda a la formació ciutadana desenvolupant determinades actituds i responsabilitzant-nos a través de l'adquisició de nocions pròpies per conèixer millor el món i actuar de manera més autònoma en els àmbits de la salut i de la higiene personal i familiar, del manteniment dels equilibris ecològics, de les activitats professionals amb relació a la biologia. Així ens pot ajudar a adquirir:
 
@@ -1088,23 +1082,23 @@ La biologia ajuda a la formació ciutadana desenvolupant determinades actituds i
 
 #### 3. Competències disciplinàries
 
-- Comprendre els grans conceptes de la biologia.
+1. Comprendre els grans conceptes de la biologia.
 
-- Adquirir les competències en l'aplicació intel·lectual i pràctica d'aquests conceptes.
+2. Adquirir les competències en l'aplicació intel·lectual i pràctica d'aquests conceptes.
 
-- Desenvolupar-se personal i socialment en una perspectiva ciutadana responsable i autònoma.
+3. Desenvolupar-se personal i socialment en una perspectiva ciutadana responsable i autònoma.
 
-- Realitzar enquestes d'opinió a la població sobre els grans problemes explicitats al paràgraf anterior.
+4. Realitzar enquestes d'opinió a la població sobre els grans problemes explicitats al paràgraf anterior.
 
-- Desenvolupar un esperit rigorós i crític recolzat en un raonament científic.
+5. Desenvolupar un esperit rigorós i crític recolzat en un raonament científic.
 
-- Crear una aproximació positiva de cara a aquesta i/o a altres ciències per a la comprensió dels grans conceptes biològics - herència, reproducció, origen comú de les espècies, regulacions fisiològiques i neurofisiològiques, immunitat i complementarietat dels metabolismes - contribuint a la unitat de l'ésser viu.
+6. Crear una aproximació positiva de cara a aquesta i/o a altres ciències per a la comprensió dels grans conceptes biològics - herència, reproducció, origen comú de les espècies, regulacions fisiològiques i neurofisiològiques, immunitat i complementarietat dels metabolismes - contribuint a la unitat de l'ésser viu.
 
 #### 4. Continguts
 
 ##### Primer curs
 
-- L'organisme i el seu funcionament
+1. L'organisme i el seu funcionament
 
 - 1.1 L'activitat física i els paràmetres fisiològics
 
@@ -1112,7 +1106,7 @@ La biologia ajuda a la formació ciutadana desenvolupant determinades actituds i
 
 - 1.3 Les funcions de l'organisme durant una activitat física
 
-- Cèl·lula, ADN i unitat de l'ésser viu
+2. Cèl·lula, ADN i unitat de l'ésser viu
 
 - 2.1 La cèl·lula: unitat estructural i funcional
 
@@ -1120,7 +1114,7 @@ La biologia ajuda a la formació ciutadana desenvolupant determinades actituds i
 
 - 2.3 Parentiu i diversitat dels organismes
 
-- Del genotip al fenotip, relacions amb l'entorn
+3. Del genotip al fenotip, relacions amb l'entorn
 
 - 3.1 La diversitat dels fenotips
 
@@ -1130,7 +1124,7 @@ La biologia ajuda a la formació ciutadana desenvolupant determinades actituds i
 
 - 3.4 Les relacions entre gens, fenotips i entorn
 
-- La morfogènesi vegetal i l'establiment del fenotip
+4. La morfogènesi vegetal i l'establiment del fenotip
 
 - 4.1 La diversitat morfològica dels vegetals
 
@@ -1138,13 +1132,13 @@ La biologia ajuda a la formació ciutadana desenvolupant determinades actituds i
 
 - 4.3 L'auxina i el creixement vegetal
 
-- La regulació de la glicèmia i els fenotips diabètics
+5. La regulació de la glicèmia i els fenotips diabètics
 
 - 5.1 L'homeòstat glicèmic
 
 - 5.2 Els fenotips diabètics
 
-- Dos temes a escollir entre els quatre proposats a continuació
+6. Dos temes a escollir entre els quatre proposats a continuació
 
 - 6.1 Alimentació, producció alimentària, entorn
 
@@ -1214,15 +1208,15 @@ Butlletí Oficial del Principat d'Andorra
 
 ##### Segon curs
 
-- Parentiu dels éssers vius actuals i fòssils - Filogènesi - Evolució
+7. Parentiu dels éssers vius actuals i fòssils - Filogènesi - Evolució
 
 - 7.1 La recerca de parentiu en els vertebrats - L'establiment de les filogènies
 
-- 7.2 El llinatge humà -El lloc de l'Home en el regne animal
+- 7.2 El llinatge humà - El lloc de l'Home en el regne animal
 
 - 7.3 De l'Australopitec a l'Homo sapiens
 
-- Estabilitat i variabilitat dels genomes i evolució
+8. Estabilitat i variabilitat dels genomes i evolució
 
 - 8.1 L'aportació de l'estudi dels genomes: les innovacions genètiques
 
@@ -1232,7 +1226,7 @@ Butlletí Oficial del Principat d'Andorra
 
 - 8.4 Estudi de l'impacte de les mutacions genètiques
 
-- La procreació
+9. La procreació
 
 - 9.1 La reproducció sexuada
 
@@ -1258,7 +1252,7 @@ Butlletí Oficial del Principat d'Andorra
 
 - 9.3.4 Domini de la procreació: regulació dels naixements i ajuda medicalitzada per a la procreació
 
-- L'immunologia
+10. L'immunologia
 
 - 10.1 Una malaltia que afecta el sistema immunitari: la sida (síndrome d'immunodeficiència adquirida)
 
@@ -1282,7 +1276,7 @@ Butlletí Oficial del Principat d'Andorra
 
 - 10.3.2 El fenotip immunitari: interacció entre el genotip i l'entorn
 
-- El funcionament del sistema nerviós
+11. El funcionament del sistema nerviós
 
 - 11.1 Les propietats integradores dels centres nerviosos i el funcionament de les neurones
 
@@ -1292,7 +1286,7 @@ Butlletí Oficial del Principat d'Andorra
 
 - 11.2 El còrtex sensorial i la plasticitat del sistema nerviós central
 
-- Medicaments del sistema nerviós central i drogues
+12. Medicaments del sistema nerviós central i drogues
 
 - 12.1 Els mecanismes de la dependència
 
@@ -1300,7 +1294,7 @@ Butlletí Oficial del Principat d'Andorra
 
 - 12.3 Modulació de l'activitat sinàptica per unes molècules exògenes: un exemple, la morfina
 
-- Diversitat i complementarietat dels metabolismes
+13. Diversitat i complementarietat dels metabolismes
 
 - 13.1 Del carboni mineral als components de l'ésser viu: el carboni i la fotosíntesi
 
@@ -1336,21 +1330,21 @@ L'eina que utilitzarem serà, essencialment, la de la semiologia de la imatge. M
 
 A primer cop d'ull, sembla com si la comprensió de la comunicació audiovisual és espontània i natural, siguin quins siguin els missatges que es transmeten. En certa manera, és una il·lusió de transparència de les imatges i els sons que tenen la particularitat de tenir, amb el que presenten, un fort poder de semblança que dissimula els codis utilitzats, és a dir, el significat subjacent produït pel realitzador en el moment de prendre la imatge o realitzar el muntatge. Desenvolupar competències en l'anàlisi i la producció de missatges audiovisuals permet formar individus informats, amb més capacitat per donar una opinió crítica respecte de la quantitat cada vegada més important, i que no deixa de créixer, de les imatges i els sons difosos pels mitjans de comunicació de masses.
 
-Rarament, la creació audiovisual és el fet d'un sol individu. Més aviat es tracta del producte del treball d'un equip, en què cadascun treballa, segons les seves competències, compartint les tasques i en el respecte dels altres. Dur a terme una producció audiovisual requereix haver de passar per un cert nombre d'etapes que mobilitzen competències molt diverses i que difícilment poden ser assumides per un sol individu. El treball en equip és intrínsec a l'activitat i, generalment, de la seva qualitat depèn la pròpia qualitat del producte ja acabat. Existeix doncs una necessitat de col·laborar que també es tradueix, en el moment de l'aprenentatge, per la descoberta dels diferents 'oficis' de l ' a u diovisual. D'aquesta manera, cada un pot, en funció dels seus gustos, els seus interessos, descobrir quines són les competències que posarà al servei del grup de producció. Una altra conseqüència és la responsabilització de tots respecte del grup i el treball que cal realitzar. Això requereix la capacitat indispensable de saber escoltar, respectar els altres i col·laborar, capacitats que cada alumne podrà reinvertir en les seves relacions amb els altres.
+Rarament, la creació audiovisual és el fet d'un sol individu. Més aviat es tracta del producte del treball d'un equip, en què cadascun treballa, segons les seves competències, compartint les tasques i en el respecte dels altres. Dur a terme una producció audiovisual requereix haver de passar per un cert nombre d'etapes que mobilitzen competències molt diverses i que difícilment poden ser assumides per un sol individu. El treball en equip és intrínsec a l'activitat i, generalment, de la seva qualitat depèn la pròpia qualitat del producte ja acabat. Existeix doncs una necessitat de col·laborar que també es tradueix, en el moment de l'aprenentatge, per la descoberta dels diferents 'oficis' de l'audiovisual. D'aquesta manera, cada un pot, en funció dels seus gustos, els seus interessos, descobrir quines són les competències que posarà al servei del grup de producció. Una altra conseqüència és la responsabilització de tots respecte del grup i el treball que cal realitzar. Això requereix la capacitat indispensable de saber escoltar, respectar els altres i col·laborar, capacitats que cada alumne podrà reinvertir en les seves relacions amb els altres.
 
 #### 3. Competències disciplinàries
 
-- Designar els elements materials del missatge.
+1. Designar els elements materials del missatge.
 
-- Dir quins són els codis que relacionant aquests elements són a la base del significat.
+2. Dir quins són els codis que relacionant aquests elements són a la base del significat.
 
-- Comprendre el principi de funcionament de les eines utilitzades en el marc de la realització d'una producció audiovisual: càmera, micròfon, taula de muntatge.
+3. Comprendre el principi de funcionament de les eines utilitzades en el marc de la realització d'una producció audiovisual: càmera, micròfon, taula de muntatge.
 
-- Fer funcionar de manera pertinent i adaptada els diversos aparells utilitzats.
+4. Fer funcionar de manera pertinent i adaptada els diversos aparells utilitzats.
 
-- Produir missatges que comportin imatges visuals i sonores.
+5. Produir missatges que comportin imatges visuals i sonores.
 
-- Dominar les diferents etapes d'un procés de realització.
+6. Dominar les diferents etapes d'un procés de realització.
 
 #### 4. Continguts
 
@@ -1358,15 +1352,15 @@ Rarament, la creació audiovisual és el fet d'un sol individu. Més aviat es tr
 
 ###### I - Els models de la comunicació
 
-- El telègraf.
+1. El telègraf.
 
-- L'orquestra.
+2. L'orquestra.
 
-- L'hipertext.
+3. L'hipertext.
 
 Aquí, la comunicació es presenta com un debat amagat entre els actors d'una mateixa estructura social, el significat del qual no es dóna d'entrada sinó que resulta de les lectures de les interpretacions que en facin aquests actors.
 
-- La selecció del model.
+4. La selecció del model.
 
 Hem triat tres exemples entre una multitud de models existents. Tots no són adequats per treballar amb els alumnes, i cada un correspon a preocupacions particulars de la persona que l'utilitza. És el motiu pel qual ens hem inclinat, a l'hora de triar, per l'esquema circular de Lasswell i de Jakobson. Té el mèrit de ser senzill i permet la identificació ràpida dels seus elements.
 
@@ -1374,7 +1368,7 @@ Hem triat tres exemples entre una multitud de models existents. Tots no són ade
 
 ###### I - Aproximació Semiològica
 
-- La imatge visual.
+1. La imatge visual.
 
 - 1.1. La imatge com a sistema de signes.
 
@@ -1406,7 +1400,7 @@ Hem triat tres exemples entre una multitud de models existents. Tots no són ade
 
 - 1.3.3. Profunditat.
 
-- la nitidesa, el flou , el mogut.
+- la nitidesa, el flou, el mogut.
 
 - el color, el blanc i negre.
 
@@ -1450,7 +1444,7 @@ Butlletí Oficial del Principat d'Andorra
 
 - Classificació les connotacions.
 
-- La imatge visual múltiple.
+2. La imatge visual múltiple.
 
 - 2.1. La imatge tabular: el còmic i la fotonovel·la.
 
@@ -1474,9 +1468,9 @@ Butlletí Oficial del Principat d'Andorra
 
 - La noció de pla.
 
-- Els raccords .
+- Els raccords.
 
-- El so.
+3. El so.
 
 - 3.1. Els diàlegs, el comentari, els efectes sonors, la música.
 
@@ -1496,7 +1490,7 @@ Butlletí Oficial del Principat d'Andorra
 
 - 3.2.1. Estructuració de l'espai mitjançant la creació de paisatges sonors, i estructuració del temps a través de la continuïtat o la discontinuïtat dels diàlegs, el recobriment dels talls d'imatges.
 
-- Algunes nocions de dret.
+4. Algunes nocions de dret.
 
 - 4.1. La propietat intel·lectual en les imatges i els sons - el copyright.
 
@@ -1506,7 +1500,7 @@ Butlletí Oficial del Principat d'Andorra
 
 ###### II - Aproximació tècnica
 
-- Coneixement i domini de l'eina vídeo.
+1. Coneixement i domini de l'eina vídeo.
 
 - 1.1. Els formats de la imatge.
 
@@ -1576,7 +1570,7 @@ Butlletí Oficial del Principat d'Andorra
 
 ###### III - Aproximació pràxica: la realització audiovisual
 
-- Metodologia.
+1. Metodologia.
 
 - 1.1. Definició d'un projecte de comunicació.
 
@@ -1594,7 +1588,7 @@ Butlletí Oficial del Principat d'Andorra
 
 Núm. 101 - any 19 - 28.11.2007
 
-1.4. Repartir les tasques (els 'oficis' de la imatge: realitzadors, actors, operadors de so, script , llum, etc..).
+1.4. Repartir les tasques (els 'oficis' de la imatge: realitzadors, actors, operadors de so, script, llum, etc..).
 
 - 1.5. El rodatge.
 
@@ -1622,63 +1616,63 @@ Les recerques i les pràctiques en el marc del dibuix tècnic ofereixen un espai
 
 Les competències assenyalades en negreta corresponen a les competències a adquirir quan es cursa l'assignatura a dues hores per setmana.
 
-- Analitzar les dades formals, estructurals i funcionals d'un objecte.
+1. Analitzar les dades formals, estructurals i funcionals d'un objecte.
 
-- Analitzar dades, necessitats i limitacions.
+2. Analitzar dades, necessitats i limitacions.
 
-- Dominar els diferents mitjans de representació d'objectes, volums i espais.
+3. Dominar els diferents mitjans de representació d'objectes, volums i espais.
 
-- Emetre hipòtesis de recerca i de propostes de resolució.
+4. Emetre hipòtesis de recerca i de propostes de resolució.
 
-- Conèixer els diferents sistemes de representació d'objectes, volums i espais.
+5. Conèixer els diferents sistemes de representació d'objectes, volums i espais.
 
-- Utilitzar les eines i els materials específics de les arts gràfiques i tècniques.
+6. Utilitzar les eines i els materials específics de les arts gràfiques i tècniques.
 
-- Utilitzar les TIC en les representacions gràfiques del pla i l'espai.
+7. Utilitzar les TIC en les representacions gràfiques del pla i l'espai.
 
-- Demostrar una capacitat d'inventiva, de presa de riscos i de justificació de les decisions preses.
+8. Demostrar una capacitat d'inventiva, de presa de riscos i de justificació de les decisions preses.
 
-- Crear un projecte en funció d'una demanda específica. Definir un concepte, presentar-lo i argumentar-lo. Triar els codis de representació més apropiats per al desenvolupament del projecte.
+9. Crear un projecte en funció d'una demanda específica. Definir un concepte, presentar-lo i argumentar-lo. Triar els codis de representació més apropiats per al desenvolupament del projecte.
 
 10. Presentar el projecte propi, amb l'ajuda dels coneixements tècnics i culturals, en una comunicació oral, escrita o per mitjans gràfics, tradicionals o informàtics.
 
-- Avaluar el valor tècnic i el valor d'ús d'un objecte.
+11. Avaluar el valor tècnic i el valor d'ús d'un objecte.
 
-- Comprendre les implicacions tecnològiques, econòmiques, sociològiques i culturals de les creacions dels projectistes i dels dissenyadors del segle XX.
+12. Comprendre les implicacions tecnològiques, econòmiques, sociològiques i culturals de les creacions dels projectistes i dels dissenyadors del segle XX.
 
-- Dominar una representació gràfica de plànols de conjunt i de detall.
+13. Dominar una representació gràfica de plànols de conjunt i de detall.
 
 #### 4. Continguts
 
 ##### Primer curs
 
-- Estudi de les imatges, dels objectes i dels entorns en funció de la seva forma, la seva estructura, el seu funcionament, la seva fabricació, la seva utilització.
+1. Estudi de les imatges, dels objectes i dels entorns en funció de la seva forma, la seva estructura, el seu funcionament, la seva fabricació, la seva utilització.
 
-- Utilització de les eines i materials específics al disseny tècnic.
+2. Utilització de les eines i materials específics al disseny tècnic.
 
-- Utilització dels recursos informàtics i dels programaris gràfics.
+3. Utilització dels recursos informàtics i dels programaris gràfics.
 
-- Utilització dels sistemes de representació convencional descriptiva (plans, talls, elevacions, projeccions, traçats fonamentals, geometria plana i mètrica).
+4. Utilització dels sistemes de representació convencional descriptiva (plans, talls, elevacions, projeccions, traçats fonamentals, geometria plana i mètrica).
 
-- Utilització dels sistemes de representació normalitzat americà i europeu (formats, escales, cotacions).
+5. Utilització dels sistemes de representació normalitzat americà i europeu (formats, escales, cotacions).
 
-- Presa en consideració d'una proposició, d'un estudi de cas.
+6. Presa en consideració d'una proposició, d'un estudi de cas.
 
-- Anàlisi de les dades, de les necessitats i de les limitacions.
+7. Anàlisi de les dades, de les necessitats i de les limitacions.
 
-- Definició dels criteris i dels eixos de recerca.
+8. Definició dels criteris i dels eixos de recerca.
 
-- Aplicació dels processos de recerca documental.
+9. Aplicació dels processos de recerca documental.
 
 ##### Segon curs
 
-- Estudi de les imatges, dels objectes i dels entorns en funció del context de la seva creació en els seus aspectes tecnològics, econòmics, ergonòmics i sociològic.
+1. Estudi de les imatges, dels objectes i dels entorns en funció del context de la seva creació en els seus aspectes tecnològics, econòmics, ergonòmics i sociològic.
 
-- Utilització dels sistemes de representació convencional perspectiva (perspectiva caballera, axonomètrica, dièdrica, cònica).
+2. Utilització dels sistemes de representació convencional perspectiva (perspectiva caballera, axonomètrica, dièdrica, cònica).
 
-- Creació i realització d'una maqueta amb l'ajuda d'un programari gràfic.
+3. Creació i realització d'una maqueta amb l'ajuda d'un programari gràfic.
 
-- Disseny d'estudi, d'observació, de detall, de matèria, de textura.
+4. Disseny d'estudi, d'observació, de detall, de matèria, de textura.
 
 [[END OF PAGE 17]]
 
@@ -1690,29 +1684,29 @@ Butlletí Oficial del Principat d'Andorra
 
 5365
 
-- Croquis, esquemes, roughs , story boards .
+5. Croquis, esquemes, roughs, story boards.
 
-- Maqueta, volum, plecs, acoblaments.
+6. Maqueta, volum, plecs, acoblaments.
 
-- Tipografia, logos, paginació.
+7. Tipografia, logos, paginació.
 
-- Formulació d'hipòtesis de recerca i de proposicions de resolució.
+8. Formulació d'hipòtesis de recerca i de proposicions de resolució.
 
-- Definició del concepte i desenvolupament d'una argumentació.
+9. Definició del concepte i desenvolupament d'una argumentació.
 
-- Desenvolupament d'una recerca aprofundida.
+10. Desenvolupament d'una recerca aprofundida.
 
-- Maqueta i realització final.
+11. Maqueta i realització final.
 
-- Modelatge i comunicació.
+12. Modelatge i comunicació.
 
 ### Economia I i II
 
 #### 1. Introducció
 
-L'economia es defineix sovint tant pel seu objectiu com pel seu projecte. L'objectiu de l'economia representa l'estudi de les relacions entre els homes i també entre les seves organitzacions pel que fa a béns que donen lloc a les activitats de producció, de distribució, d'intercanvi i de consum, en el marc d'una estructura social determinada. La funció de l'economia representa l'òptima assignació de recursos rars de la col·lectivitat, en funció dels i nteressos dels agents econòmics (presents i futurs) que la composen (sobre aquest punt de vista, l'economia no és només una disciplina positiva i analítica sinó també normativa i praxeològica). Així, doblement definida, l'economia és a la vegada social, humana, moral i política.
+L'economia es defineix sovint tant pel seu objectiu com pel seu projecte. L'objectiu de l'economia representa l'estudi de les relacions entre els homes i també entre les seves organitzacions pel que fa a béns que donen lloc a les activitats de producció, de distribució, d'intercanvi i de consum, en el marc d'una estructura social determinada. La funció de l'economia representa l'òptima assignació de recursos rars de la col·lectivitat, en funció dels interessos dels agents econòmics (presents i futurs) que la composen (sobre aquest punt de vista, l'economia no és només una disciplina positiva i analítica sinó també normativa i praxeològica). Així, doblement definida, l'economia és a la vegada social, humana, moral i política.
 
-Tot i que Marcel Mauss parli de 'fet social global', cada ciència social exigeix una abstracció que li és pròpia i la qüestió es planteja de saber si porta tot i així a una intel·ligibilitat específica i autònoma. Davant les nombroses definicions proposades de l'economia, sempre més o menys circulars i que no arriben clarament a diferenciar entre la part econòmica i la part social, estem portats a considerar l'economia com una 'totalitat': només pot ser definida per ella mateixa, és a dir a partir dels diferents i múltiples discursos que pretenen ser dits per economistes, discursos obligadament parcials, fundats en nombroses subjectivitats (la de la tria de l'objecte d'estudi, la de la seva definició i la del punt de vista adoptat per al seu plantejament) però que reivindica tota l'objectivitat de l a seva anàlisi. Com a conseqüència, l'economia és a la vegada una disciplina plural, que aplega diversos paradigmes en el sentit de Kuhn o diversos programes de recerca en el sentit de Lakatos, i una disciplina amb un enfocament científic: els seus mètodes privil e g i e n l ' e l a b o r a c i ó de models, representacions de fenòmens a través d'elements abstractes organitzats i posats en coherència en una estructura. En aquest punt cal recordar tres característiques importants de la modelització econòmica: és a la vegada formal (amb els seus aspectes figuratiu i demostratiu), teòrica (d'aquí la necessitat de validar el model per la confrontació a les dades empíriques) i amb finalitats pròpies (els models no tenen només un objectiu descriptiu i explicatiu, també han de permetre la previsió, la simulació i la prescripció). Cal notar que paral·lelament a la construcció de models, les teories econòmiques també proposen mètodes post factum , considerades com heterodoxes però força pertinents: és així per als mètodes 'interpretatius' com la teoria de la regulació i per als mètodes 'comprensius' com la teoria de les convencions.
+Tot i que Marcel Mauss parli de 'fet social global', cada ciència social exigeix una abstracció que li és pròpia i la qüestió es planteja de saber si porta tot i així a una intel·ligibilitat específica i autònoma. Davant les nombroses definicions proposades de l'economia, sempre més o menys circulars i que no arriben clarament a diferenciar entre la part econòmica i la part social, estem portats a considerar l'economia com una 'totalitat': només pot ser definida per ella mateixa, és a dir a partir dels diferents i múltiples discursos que pretenen ser dits per economistes, discursos obligadament parcials, fundats en nombroses subjectivitats (la de la tria de l'objecte d'estudi, la de la seva definició i la del punt de vista adoptat per al seu plantejament) però que reivindica tota l'objectivitat de la seva anàlisi. Com a conseqüència, l'economia és a la vegada una disciplina plural, que aplega diversos paradigmes en el sentit de Kuhn o diversos programes de recerca en el sentit de Lakatos, i una disciplina amb un enfocament científic: els seus mètodes privilegien l'elaboració de models, representacions de fenòmens a través d'elements abstractes organitzats i posats en coherència en una estructura. En aquest punt cal recordar tres característiques importants de la modelització econòmica: és a la vegada formal (amb els seus aspectes figuratiu i demostratiu), teòrica (d'aquí la necessitat de validar el model per la confrontació a les dades empíriques) i amb finalitats pròpies (els models no tenen només un objectiu descriptiu i explicatiu, també han de permetre la previsió, la simulació i la prescripció). Cal notar que paral·lelament a la construcció de models, les teories econòmiques també proposen mètodes post factum, considerades com heterodoxes però força pertinents: és així per als mètodes 'interpretatius' com la teoria de la regulació i per als mètodes 'comprensius' com la teoria de les convencions.
 
 En la manera de modelitzar i darrere de les teories sobre les visions de l'home, de la societat i del món hi ha plantejaments reveladors d'un veritable procediment filosòfic. De fet, això és particularment propi de la concepció d'A. Smith, considerat com el pare no només de l'escola clàssica sinó també de l'economia moderna. Les seves 'Investigacions sobre la naturalesa i les causes de la riquesa de les nacions' es recolzen en la seva 'Teoria dels sentiments morals'.
 
@@ -1740,7 +1734,7 @@ L'aprenentatge de la ciutadania està articulat en tres eixos:
 
 2. De viure conjuntament en societat a la ciutadania.
 
-- Ciutadania i institucions polítiques.
+3. Ciutadania i institucions polítiques.
 
 ##### 2. 1. L'exercici de la ciutadania: de la paraula a «viure conjuntament»
 
@@ -1798,17 +1792,17 @@ El debat argumentat és un mètode útil per exercitar els alumnes a la vida dem
 
 #### 3. Competències disciplinàries
 
-- Comprendre les economies i les societats contemporànies així com les implicacions de les eleccions econòmiques i socials i conèixer els elements fonamentals de l'anàlisi econòmica.
+1. Comprendre les economies i les societats contemporànies així com les implicacions de les eleccions econòmiques i socials i conèixer els elements fonamentals de l'anàlisi econòmica.
 
-- Aplicar mètodes eficaços d'observació i d'anàlisi rigorosa dels fenòmens econòmics i socials, i les capacitats de raonament i de reflexió.
+2. Aplicar mètodes eficaços d'observació i d'anàlisi rigorosa dels fenòmens econòmics i socials, i les capacitats de raonament i de reflexió.
 
-- Desenvolupar l'autonomia intel·lectual i l'esperit crític, la capacitat per expressar la pròpia opinió i per fonamentar les pròpies eleccions.
+3. Desenvolupar l'autonomia intel·lectual i l'esperit crític, la capacitat per expressar la pròpia opinió i per fonamentar les pròpies eleccions.
 
 #### 4. Continguts
 
 ##### Primer curs
 
-- L'activitat econòmica.
+1. L'activitat econòmica.
 
 - 1.1. El problema econòmic.
 
@@ -1824,7 +1818,7 @@ El debat argumentat és un mètode útil per exercitar els alumnes a la vida dem
 
 - 1.3.2. El corrent intervencionista (keynesià): holisme metodològic i principi macroeconòmic de la regulació dirigida per l'Estat.
 
-- L'organització social.
+2. L'organització social.
 
 - 2.1. L'estructura de la població i els règims demogràfics.
 
@@ -1832,7 +1826,7 @@ El debat argumentat és un mètode útil per exercitar els alumnes a la vida dem
 
 - 2.3. Els mòduls d'anàlisi de l'estratificació social.
 
-- L'anàlisi microeconòmica.
+3. L'anàlisi microeconòmica.
 
 - 3.1. El consumidor i la seva demanda.
 
@@ -1848,7 +1842,7 @@ El debat argumentat és un mètode útil per exercitar els alumnes a la vida dem
 
 - 3.3.4. Mercats des productes i mercats dels factors de producció (capital i treball)
 
-- L'anàlisi macroeconòmica.
+4. L'anàlisi macroeconòmica.
 
 - 4.1. Les operacions sobre béns i serveis.
 
@@ -1870,7 +1864,7 @@ El debat argumentat és un mètode útil per exercitar els alumnes a la vida dem
 
 ##### Segon curs
 
-- El finançament de l'economia.
+1. El finançament de l'economia.
 
 - 1.1. L'equilibri financer dels agents econòmics i el sistema financer de l'economia nacional.
 
@@ -1884,7 +1878,7 @@ El debat argumentat és un mètode útil per exercitar els alumnes a la vida dem
 
 - 1.3. Els mercats de capitals i les institucions financeres.
 
-- Les relacions econòmiques internacionals
+2. Les relacions econòmiques internacionals
 
 - 2.1. La balança de pagaments i el seu equilibri.
 
@@ -1902,7 +1896,7 @@ El debat argumentat és un mètode útil per exercitar els alumnes a la vida dem
 
 - 2.2.3. L'economia política internacional.
 
-- La dinàmica econòmica
+3. La dinàmica econòmica
 
 - 3.1. La inflació i l'atur.
 
@@ -1944,7 +1938,7 @@ Núm. 101 - any 19 - 28.11.2007
 
 - 3.3. Els cicles i les crisis.
 
-- L'economia pública
+4. L'economia pública
 
 - 4.1. Els rols de l'Estat.
 
@@ -1958,7 +1952,7 @@ Núm. 101 - any 19 - 28.11.2007
 
 - 4.3. Les teories de la intervenció de l'Estat.
 
-- El sistema econòmic capitalista
+5. El sistema econòmic capitalista
 
 - 5.1. El sistema capitalista: característiques.
 
@@ -2002,13 +1996,13 @@ Butlletí Oficial del Principat d'Andorra
 
 5369
 
-- En un món saturat de tecnologia i que imposa modes de vida exageradament sedentaris que provoquen dificultats de tipus fisiològic (sobretot una tendència general a l'obesitat), contribueix a una educació per a la salut;
+1. En un món saturat de tecnologia i que imposa modes de vida exageradament sedentaris que provoquen dificultats de tipus fisiològic (sobretot una tendència general a l'obesitat), contribueix a una educació per a la salut;
 
-- En un món social generador de dificultats d'integració de certs grups de joves, contribueix a la socialització dels adolescents i a una educació per a la ciutadania. Aquests components, en especial, es manifesten en pràctiques que impliquen la comprensió del sentit de la norma (sobretot del seu caràcter essencial en la regulació de les relacions pel que fa a tercers) i el seu respecte, la recerca d'un resultat òptim en condicions estandarditzades i en la confrontació competitiva, la qual cosa suposa haver de conciliar una implicació màxima i un respecte per l'adversari. En educació física, les situacions són ocasions per instaurar una comprensió en acte i de fet de la lògica de les accions regulades, d'una reflexió sobre la utilitat i la funció de les normes i, per extensió, una presa de consciència dels drets i els deures inherents a qualsevol acció ciutadana.
+2. En un món social generador de dificultats d'integració de certs grups de joves, contribueix a la socialització dels adolescents i a una educació per a la ciutadania. Aquests components, en especial, es manifesten en pràctiques que impliquen la comprensió del sentit de la norma (sobretot del seu caràcter essencial en la regulació de les relacions pel que fa a tercers) i el seu respecte, la recerca d'un resultat òptim en condicions estandarditzades i en la confrontació competitiva, la qual cosa suposa haver de conciliar una implicació màxima i un respecte per l'adversari. En educació física, les situacions són ocasions per instaurar una comprensió en acte i de fet de la lògica de les accions regulades, d'una reflexió sobre la utilitat i la funció de les normes i, per extensió, una presa de consciència dels drets i els deures inherents a qualsevol acció ciutadana.
 
 3. Pel seu ancoratge en activitats motrius en context, demana una relació amb el món a la mida del cos i de la corporeïtat, i contribueix a una educació per a l'ecologia;
 
-- Per la seva proximitat amb les pràctiques esportives extraescolars, permet als alumnes de participar a aquesta nova cultura corporal universal alhora que adquirir una lucidesa i un esperit crític respecte d'aquesta cultura;
+4. Per la seva proximitat amb les pràctiques esportives extraescolars, permet als alumnes de participar a aquesta nova cultura corporal universal alhora que adquirir una lucidesa i un esperit crític respecte d'aquesta cultura;
 
 5. Per la seva proximitat amb les pràctiques extraescolars de lleure, representa per als alumnes l'ocasió de fer uns aprenentatges susceptibles de ser invertits en el camp professional del marc esportiu i de lleure.
 
@@ -2066,7 +2060,7 @@ Nivell 1: Nedar tant de temps i ràpidament en crol com en qualsevol altre estil
 
 Nivell 2: Nedar molt de temps i ràpidament sobre un recorregut que imposi canvis d'estil (ventral - dorsal, alternada - simultània), a partir d'un projecte personal explícit.
 
-Nivell 3: Nedar molt de temps i ràpidament com a mínim en tres estils de natació esportiva, tot respectant l es obligacions reglamentàries, a partir d'un projecte personal explícit.
+Nivell 3: Nedar molt de temps i ràpidament com a mínim en tres estils de natació esportiva, tot respectant les obligacions reglamentàries, a partir d'un projecte personal explícit.
 
 ##### 4.2. Les experiències motrius del tipus II
 
@@ -2146,9 +2140,7 @@ El programa de filosofia proposa un equilibri entre:
 
 - El caràcter particular d'una disciplina abstracta i que depèn fortament en relació amb el llenguatge, que s'aborda més tard.
 
-- La relació de la filosofia amb qüestions particulars i diverses (qüestions de dret, de ciència, de literatura, de re-
-
-ligió, etc.), que crea un risc de dispersió i de desorientació.
+- La relació de la filosofia amb qüestions particulars i diverses (qüestions de dret, de ciència, de literatura, de religió, etc.), que crea un risc de dispersió i de desorientació.
 
 · Les problemàtiques tradicionals bastant codificades d'una forma de pensament tant antiga com la civilització europea.
 
@@ -2160,7 +2152,7 @@ En relació al món actual, aquest es caracteritza per ser a la vegada local, re
 
 Els objectius que persegueix el seu ensenyament son triples:
 
-a) Afavorir una reflexió 'de naturalesa filosòfica', és a dir conceptual i intel·lectual més que d'ordre del sentiment i de l a creença, útil al desenvolupament personal a través del domini de les capacitats d'anàlisi, d'argumentació i de contextualització de les qüestions.
+a) Afavorir una reflexió 'de naturalesa filosòfica', és a dir conceptual i intel·lectual més que d'ordre del sentiment i de la creença, útil al desenvolupament personal a través del domini de les capacitats d'anàlisi, d'argumentació i de contextualització de les qüestions.
 
 b) Contribuir a la presa de consciència de la pertinença a una cultura europea a través d'algunes de les seves realitzacions més importants.
 
@@ -2194,19 +2186,19 @@ Les qüestions abordades i l'esperit en què aquestes són abordades han d'ajuda
 
 #### 3. Competències disciplinàries
 
-- Comprendre un text abstracte, argumentat o no, identificant les afirmacions principals, les raons que es donen al llarg de l'argumentació, les il·lustracions o exemples que serveixen a la persuasió, les intencions de persuasió de l'autor.
+1. Comprendre un text abstracte, argumentat o no, identificant les afirmacions principals, les raons que es donen al llarg de l'argumentació, les il·lustracions o exemples que serveixen a la persuasió, les intencions de persuasió de l'autor.
 
-- Reformular un text en altres termes presentant les seves articulacions i resultats.
+2. Reformular un text en altres termes presentant les seves articulacions i resultats.
 
-- Identificar un cert nombre de grans posicions filosòfiques de la tradició: realisme, empirisme, idealisme, entre altres.
+3. Identificar un cert nombre de grans posicions filosòfiques de la tradició: realisme, empirisme, idealisme, entre altres.
 
-- Comprendre la distinció entre coneixement, creença, probabilitat, evidència i prova.
+4. Comprendre la distinció entre coneixement, creença, probabilitat, evidència i prova.
 
-- Comprendre de manera simple però clara un cert nombre de nocions com les d'individu, comunitat, nació, dret, obligació, norma, moral.
+5. Comprendre de manera simple però clara un cert nombre de nocions com les d'individu, comunitat, nació, dret, obligació, norma, moral.
 
-- Aprehendre els reptes d'algunes qüestions metafísiques com les de llibertat, món, Déu, existència, essència, llibertat.
+6. Aprehendre els reptes d'algunes qüestions metafísiques com les de llibertat, món, Déu, existència, essència, llibertat.
 
-- Aprehendre els reptes epistemològics i metafísics dels processos de les ciències, de les tècniques i de les construccions institucionals.
+7. Aprehendre els reptes epistemològics i metafísics dels processos de les ciències, de les tècniques i de les construccions institucionals.
 
 #### 4. Continguts
 
@@ -2214,79 +2206,79 @@ Les qüestions abordades i l'esperit en què aquestes són abordades han d'ajuda
 
 ###### I. L'acció
 
-- El treball i la tècnica empírica.
+1. El treball i la tècnica empírica.
 
-- El treball i l'associació: solidaritat social i divisió del treball, organització de les tasques.
+2. El treball i l'associació: solidaritat social i divisió del treball, organització de les tasques.
 
-- La tècnica i la naturalesa.
+3. La tècnica i la naturalesa.
 
-- El cos, el benestar, la malaltia, la mort.
+4. El cos, el benestar, la malaltia, la mort.
 
-- El ritus, l'art, la religió.
+5. El ritus, l'art, la religió.
 
 ###### II. El coneixement
 
-- El coneixement empíric i la seva transmissió: els aprenentatges i els sabers fer.
+1. El coneixement empíric i la seva transmissió: els aprenentatges i els sabers fer.
 
-- El costum, la creença, el dubte, el saber: el naixement del racionalisme.
+2. El costum, la creença, el dubte, el saber: el naixement del racionalisme.
 
-- Les primeres etapes científiques: condicions intel·lectuals i condicions socials.
+3. Les primeres etapes científiques: condicions intel·lectuals i condicions socials.
 
-- La ciència, la lògica, l'experiència i l'observació.
+4. La ciència, la lògica, l'experiència i l'observació.
 
 ###### III. L'ésser humà
 
-- L'ésser humà i la intel·ligència.
+1. L'ésser humà i la intel·ligència.
 
-- L'ésser humà i el llenguatge.
+2. L'ésser humà i el llenguatge.
 
-- L'ésser humà i les regles.
+3. L'ésser humà i les regles.
 
-- L'ésser humà, la natura i el més enllà.
+4. L'ésser humà, la natura i el més enllà.
 
 ##### Segon curs (totes les modalitats de batxillerat)
 
 ###### I. L'acció
 
-- Tècnica, tecnologia i ciència: la noció de tecnociència.
+1. Tècnica, tecnologia i ciència: la noció de tecnociència.
 
-- Tècnica, tecnologia i natura: tècnica, medi ambient, transformació de la naturalesa i preocupació per la natura.
+2. Tècnica, tecnologia i natura: tècnica, medi ambient, transformació de la naturalesa i preocupació per la natura.
 
-- Acció col·lectiva, acció complexa i comunicació.
+3. Acció col·lectiva, acció complexa i comunicació.
 
-- La responsabilitat de l'acció.
+4. La responsabilitat de l'acció.
 
-- Treball, divisió, organització, automatització.
+5. Treball, divisió, organització, automatització.
 
-- El cos, la medicina i la vida, les biotecnologies.
+6. El cos, la medicina i la vida, les biotecnologies.
 
-- L'art, el lleure i la diversió.
+7. L'art, el lleure i la diversió.
 
 ###### II. El coneixement
 
-- Què és una ciència: teoria, càlcul, experiència i experimentació, la construcció de l'observació, la refutació, la prova.
+1. Què és una ciència: teoria, càlcul, experiència i experimentació, la construcció de l'observació, la refutació, la prova.
 
-- Ciència i societat.
+2. Ciència i societat.
 
-- La ciència i el mite: passat i present.
+3. La ciència i el mite: passat i present.
 
-- Ciències de la naturalesa, ciències humanes.
+4. Ciències de la naturalesa, ciències humanes.
 
 ###### III. L'ésser humà
 
-- L'home en l'univers.
+1. L'home en l'univers.
 
-- L'home en la història de la vida.
+2. L'home en la història de la vida.
 
-- La diversitat humana.
+3. La diversitat humana.
 
-- L'home, el cervell, el llenguatge, els signes i la intel·ligència.
+4. L'home, el cervell, el llenguatge, els signes i la intel·ligència.
 
-- L'home i l'autòmat (robot).
+5. L'home i l'autòmat (robot).
 
-- L'home, la mort, el món.
+6. L'home, la mort, el món.
 
-- Llibertat o determinació.
+7. Llibertat o determinació.
 
 [[END OF PAGE 25]]
 
@@ -2300,47 +2292,47 @@ Butlletí Oficial del Principat d'Andorra
 
 ###### IV. La societat
 
-- La sociabilitat: simpatia, dependència, egoisme, altruisme.
+1. La sociabilitat: simpatia, dependència, egoisme, altruisme.
 
-- Família, comuna, clan, país, nació.
+2. Família, comuna, clan, país, nació.
 
-- La societat, les regles i el dret.
+3. La societat, les regles i el dret.
 
-- La llibertat, la responsabilitat, la solidaritat.
+4. La llibertat, la responsabilitat, la solidaritat.
 
-- La política, la moral i la vida col·lectiva.
+5. La política, la moral i la vida col·lectiva.
 
-- Els valors i l'ètica.
+6. Els valors i l'ètica.
 
-###### Iniciació a la història del pensament
+###### V. Iniciació a la història del pensament
 
-- El platonisme.
+1. El platonisme.
 
-- L'aristotelisme.
+2. L'aristotelisme.
 
-- La teologia medieval.
+3. La teologia medieval.
 
-- El racionalisme cartesià.
+4. El racionalisme cartesià.
 
-- L'empirisme.
+5. L'empirisme.
 
-- El pensament crític kantià (la revolució copernicana i l'orientació vers l'idealisme).
+6. El pensament crític kantià (la revolució copernicana i l'orientació vers l'idealisme).
 
-- L'idealisme.
+7. L'idealisme.
 
-- El materialisme.
+8. El materialisme.
 
-- La filosofia de la vida (Nietzsche, Ortega).
+9. La filosofia de la vida (Nietzsche, Ortega).
 
-- El relativisme.
+10. El relativisme.
 
-- L'escepticisme.
+11. L'escepticisme.
 
-- El pensament zen.
+12. El pensament zen.
 
-- El confucianisme.
+13. El confucianisme.
 
-- El budisme.
+14. El budisme.
 
 ### Física i química I i II
 
@@ -2358,7 +2350,7 @@ Quan es parla de física i química, cal evocar també les relacions forjades en
 
 #### 2. Contribució a l'educació per a la ciutadania
 
-Si la física i la química ens ajuden a entendre millor el món en el qual vivim, aquestes dues disciplines permeten també de modificar-lo de manera significativa, a través de l es produccions tecnològiques. Així, el llançament en l'atmosfera de nous gasos (els freons) inventats pels químics ha malmès greument la capa protectora d'ozó. A més, després de l'evolució dels coneixements en física nuclear, una nova indústria ha vist la llum, els residus de la qual representen una greu amenaça per al nostre medi ambient. Només amb això, aquests dos exemples mostren fins a quin punt la física i la química són dues disciplines que no poden ignorar els problemes mediambientals.
+Si la física i la química ens ajuden a entendre millor el món en el qual vivim, aquestes dues disciplines permeten també de modificar-lo de manera significativa, a través de les produccions tecnològiques. Així, el llançament en l'atmosfera de nous gasos (els freons) inventats pels químics ha malmès greument la capa protectora d'ozó. A més, després de l'evolució dels coneixements
 
 [[END OF PAGE 26]]
 
@@ -2369,6 +2361,8 @@ Si la física i la química ens ajuden a entendre millor el món en el qual vivi
 Butlletí Oficial del Principat d'Andorra
 
 Núm. 101 - any 19 - 28.11.2007
+
+en física nuclear, una nova indústria ha vist la llum, els residus de la qual representen una greu amenaça per al nostre medi ambient. Només amb això, aquests dos exemples mostren fins a quin punt la física i la química són dues disciplines que no poden ignorar els problemes mediambientals.
 
 D'altra banda, la pràctica experimental de les ciències físiques i químiques es presta sorprenentment bé a l'aprenentatge de normes de vida que s'inscriuen en una educació ciutadana. Per exemple, els treballs pràctics de química sovint són l'ocasió de tractar les qüestions de toxicitat dels productes químics (però també domèstics), d'emmagatzematge i de tractament de residus, de normes de seguretat en el laboratori (però també a casa). Al mateix temps, els continguts d'electricitat permeten enfocar les qüestions de seguretat elèctrica, ja sigui a nivell de dispositius materials (disjuntor, fusible, presa de terra, etc.), o de les persones (perill d'electrocució).
 
@@ -2384,35 +2378,35 @@ D'aquesta manera s'espera que a la fi d'aquest conjunt d'ensenyaments, l'alumne 
 
 #### 3. Competències disciplinàries
 
-- Analitzar una situació, un experiment, un document, amb el vocabulari científic adaptat a la física i a la química.
+1. Analitzar una situació, un experiment, un document, amb el vocabulari científic adaptat a la física i a la química.
 
-- Utilitzar els coneixements adquirits en la matèria per plantejar i resoldre els problemes d'aplicació tot analitzant de manera crítica els resultats obtinguts que hauran de ser expressats amb les xifres significatives i les unitats adequades.
+2. Utilitzar els coneixements adquirits en la matèria per plantejar i resoldre els problemes d'aplicació tot analitzant de manera crítica els resultats obtinguts que hauran de ser expressats amb les xifres significatives i les unitats adequades.
 
-- Identificar els paràmetres que tenen un rol en un fenomen físic o químic.
+3. Identificar els paràmetres que tenen un rol en un fenomen físic o químic.
 
-- Recolzar-se en un model per elaborar una argumentació en el marc d'un procediment científic.
+4. Recolzar-se en un model per elaborar una argumentació en el marc d'un procediment científic.
 
-- Discutir la pertinència, la coherència i la lògica d'una argumentació científica.
+5. Discutir la pertinència, la coherència i la lògica d'una argumentació científica.
 
-- Formar, a través de l'experimentació, la mentalitat per ser rigorós, per seguir un mètode científic i per ser crític:
+6. Formar, a través de l'experimentació, la mentalitat per ser rigorós, per seguir un mètode científic i per ser crític:
 
-- Respectar les normes de seguretat en el laboratori (per a les persones, el material i els productes).
+7. Respectar les normes de seguretat en el laboratori (per a les persones, el material i els productes).
 
-- Descriure i analitzar una experiència (dispositiu i protocol experimentals).
+8. Descriure i analitzar una experiència (dispositiu i protocol experimentals).
 
-- Reconèixer, anomenar i utilitzar el material de laboratori.
+9. Reconèixer, anomenar i utilitzar el material de laboratori.
 
-- Realitzar un dispositiu experimental senzill a partir d'un esquema descriptiu.
+10. Realitzar un dispositiu experimental senzill a partir d'un esquema descriptiu.
 
-- Expressar un resultat amb un nombre de xifres significatius compatibles amb les condicions de l'experiment.
+11. Expressar un resultat amb un nombre de xifres significatius compatibles amb les condicions de l'experiment.
 
-- Analitzar una corba.
+12. Analitzar una corba.
 
 13. Fer l'estudi estadístic d'una sèrie de mesures independents utilitzant una calculadora, un full de càlcul o diferents programaris dedicats a certs problemes de la física i de la química.
 
-- Entendre la condició epistemològica precària dels conceptes, dels models, de les lleis i de les teories científiques.
+14. Entendre la condició epistemològica precària dels conceptes, dels models, de les lleis i de les teories científiques.
 
-- Emetre una opinió crítica sobre la contribució dels coneixements científics en l'evolució i el desenvolupament de la societat actual.
+15. Emetre una opinió crítica sobre la contribució dels coneixements científics en l'evolució i el desenvolupament de la societat actual.
 
 16. Utilitzar els coneixements adquirits en física i en química per entendre el que impliquen les tries col·lectives o individuals de la societat, com les tries energètiques, mediambientals, etc., per participar a les tries de la societat andorrana en matèria de desenvolupament tecnològic i de condicionament del territori del Principat, en particular, i del planeta, en general.
 
@@ -2420,59 +2414,59 @@ D'aquesta manera s'espera que a la fi d'aquest conjunt d'ensenyaments, l'alumne 
 
 ##### Física: Primer curs
 
-- Les interaccions fonamentals
+1. Les interaccions fonamentals
 
-- 1.1. Partícules elementals.
+1.1. Partícules elementals.
 
-- 1.2. Interaccions fonamentals.
+1.2. Interaccions fonamentals.
 
-- 1.3. Interaccions i cohesió de la matèria a diverses escales.
+1.3. Interaccions i cohesió de la matèria a diverses escales.
 
-- Les forces i els moviments
+2. Les forces i els moviments
 
-- 2.1. Moviment d'un sòlid indeformable.
+2.1. Moviment d'un sòlid indeformable.
 
-- 2.2. Forces macroscòpiques que s'exerceixen en un sòlid.
+2.2. Forces macroscòpiques que s'exerceixen en un sòlid.
 
-- 2.3. Aproximació a les lleis de Newton aplicades al centre d'inèrcia.
+2.3. Aproximació a les lleis de Newton aplicades al centre d'inèrcia.
 
-- El treball mecànic i l'energia
+3. El treball mecànic i l'energia
 
-- 3.1. Treball d'una força.
+3.1. Treball d'una força.
 
-- 3.2. Potència d'una força.
+3.2. Potència d'una força.
 
-- 3.3. Treball i energia cinètica.
+3.3. Treball i energia cinètica.
 
-- 3.4. Treball i energia potencial gravitatòria.
+3.4. Treball i energia potencial gravitatòria.
 
-- 3.5. Treball i energia interna.
+3.5. Treball i energia interna.
 
-- 3.6. La transferència tèrmica.
+3.6. La transferència tèrmica.
 
-- 3.7. La radiació: un altre tipus de transferència energètica.
+3.7. La radiació: un altre tipus de transferència energètica.
 
-- 3.8. Energia d'un sistema.
+3.8. Energia d'un sistema.
 
-- Els circuits elèctrics resistius en corrents continu i altern
+4. Els circuits elèctrics resistius en corrents continu i altern
 
-- 4.1. El corrent elèctric.
+4.1. El corrent elèctric.
 
-- 4.2. Intensitat del corrent elèctric.
+4.2. Intensitat del corrent elèctric.
 
-- 4.3. Tensió elèctrica.
+4.3. Tensió elèctrica.
 
-- 4.4. Resistència elèctrica.
+4.4. Resistència elèctrica.
 
-- 4.5. Circuits resistius en corrent altern.
+4.5. Circuits resistius en corrent altern.
 
-- 4.6. Transferència d'energia al nivell d'un generador i d'un receptor.
+4.6. Transferència d'energia al nivell d'un generador i d'un receptor.
 
-- 4.7. Comportament global d'un circuit.
+4.7. Comportament global d'un circuit.
 
-- El camp magnètic i les forces electromagnètiques
+5. El camp magnètic i les forces electromagnètiques
 
-- 5.1. Camp magnètic.
+5.1. Camp magnètic.
 
 [[END OF PAGE 27]]
 
@@ -2490,7 +2484,7 @@ Butlletí Oficial del Principat d'Andorra
 
 - 5.4. Acoblament magnètic.
 
-- L'òptica geomètrica
+6. L'òptica geomètrica
 
 - 6.1. Enfocament energètic de la llum.
 
@@ -2506,117 +2500,117 @@ Butlletí Oficial del Principat d'Andorra
 
 ##### Química: Primer curs
 
-- Un enfocament històric i experimental de la química
+1. Un enfocament històric i experimental de la química
 
-- 1.1. Les espècies químiques.
+1.1. Les espècies químiques.
 
-- 1.2. Extracció, separació i identificació d'espècies químiques.
+1.2. Extracció, separació i identificació d'espècies químiques.
 
-- 1.3. Síntesi d'una espècie química.
+1.3. Síntesi d'una espècie química.
 
-- Les transformacions químiques
+2. Les transformacions químiques
 
-- 2.1. El mol.
+2.1. El mol.
 
-- 2.2. Modelització de la transformació: la reacció química.
+2.2. Modelització de la transformació: la reacció química.
 
-- 2.3. Balanços de matèria.
+2.3. Balanços de matèria.
 
-- La química orgànica
+3. La química orgànica
 
-- 3.1. Importància de la química orgànica.
+3.1. Importància de la química orgànica.
 
-- 3.2. Fórmules químiques dels hidrocarburs.
+3.2. Fórmules químiques dels hidrocarburs.
 
-- 3.3. Modificació de la cadena carbonada.
+3.3. Modificació de la cadena carbonada.
 
-- 3.4. Els grups característics: iniciació a la reactivitat.
+3.4. Els grups característics: iniciació a la reactivitat.
 
-- La termoquímica
+4. La termoquímica
 
-- 4.1. La cohesió de la matèria.
+4.1. La cohesió de la matèria.
 
-- 4.2. Les transformacions de la matèria: aspectes energètics i efectes tèrmics.
+4.2. Les transformacions de la matèria: aspectes energètics i efectes tèrmics.
 
-- 4.3. Algunes aplicacions al quotidià dels efectes tèrmics.
-
-- Ones
-
-- 1.1. Introducció als fenòmens de propagació.
-
-- 1.2. Ones mecàniques progressives periòdiques.
-
-- 1.3. La llum: model ondulatori.
-
-- Transformacions nuclears
-
-- 2.1. Desintegració radioactiva.
-
-- 2.2. Nucli, massa, energia.
-
-- Evolució temporal dels sistemes elèctrics
-
-- 3.1. El cas d'un dipol RC.
-
-- 3.2. El cas d'un dipol RL.
-
-- 3.3. El cas d'un dipol RLC.
-
-- Evolució temporal dels sistemes mecànics
-
-- 4.1. Variació del vector velocitat per un sòlid no isolat.
-
-- 4.2. Estudi de la caiguda de cossos pesants.
-
-- 4.3. El cas ideal de la caiguda lliure vertical.
-
-- 4.4. Moviment de projectils en un camp gravitatori uniforme.
-
-- 4.5. Satèl·lits i planetes.
-
-- 4.6. Els sistemes mecànics oscil·lants.
-
-- 4.7. El fenomen de ressonància.
-
-- 4.8. Aspectes energètics.
-
-- Obertura cap al món quàntic
+4.3. Algunes aplicacions al quotidià dels efectes tèrmics.
 
 ##### Física: Segon curs
 
+1. Ones
+
+1.1. Introducció als fenòmens de propagació.
+
+1.2. Ones mecàniques progressives periòdiques.
+
+1.3. La llum: model ondulatori.
+
+2. Transformacions nuclears
+
+2.1. Desintegració radioactiva.
+
+2.2. Nucli, massa, energia.
+
+3. Evolució temporal dels sistemes elèctrics
+
+3.1. El cas d'un dipol RC.
+
+3.2. El cas d'un dipol RL.
+
+3.3. El cas d'un dipol RLC.
+
+4. Evolució temporal dels sistemes mecànics
+
+4.1. Variació del vector velocitat per un sòlid no isolat.
+
+4.2. Estudi de la caiguda de cossos pesants.
+
+4.3. El cas ideal de la caiguda lliure vertical.
+
+4.4. Moviment de projectils en un camp gravitatori uniforme.
+
+4.5. Satèl·lits i planetes.
+
+4.6. Els sistemes mecànics oscil·lants.
+
+4.7. El fenomen de ressonància.
+
+4.8. Aspectes energètics.
+
+5. Obertura cap al món quàntic
+
 ##### Química: Segon curs
 
-- Les solucions aquoses iòniques
+1. Les solucions aquoses iòniques
 
-- 1.1. Dissolució d'una espècie iònica sòlida.
+1.1. Dissolució d'una espècie iònica sòlida.
 
-- 1.2. Conductivitat d'una solució iònica.
+1.2. Conductivitat d'una solució iònica.
 
-- Estudi de les reaccions d'oxidoreducció en solució
+2. Estudi de les reaccions d'oxidoreducció en solució
 
-- 2.1. Les reaccions d'oxidoreducció.
+2.1. Les reaccions d'oxidoreducció.
 
-- 2.2. Dosificacions directes.
+2.2. Dosificacions directes.
 
-- Cinètica química
+3. Cinètica química
 
-- 3.1. Transformacions químiques lentes i ràpides.
+3.1. Transformacions químiques lentes i ràpides.
 
-- 3.2. Seguiment temporal d'una transformació.
+3.2. Seguiment temporal d'una transformació.
 
-- 3.3. Interpretació microscòpica.
+3.3. Interpretació microscòpica.
 
-- Els equilibris químics
+4. Els equilibris químics
 
-- 4.1. Equilibris químics.
+4.1. Equilibris químics.
 
-- 4.2. Estat d'equilibri d'un sistema en solució.
+4.2. Estat d'equilibri d'un sistema en solució.
 
-- Estudi de les reaccions acidobàsiques en solució
+5. Estudi de les reaccions acidobàsiques en solució
 
-- 5.1. Les reaccions acidobàsiques.
+5.1. Les reaccions acidobàsiques.
 
-- 5.2. pH i dosificació d'una solució iònica.
+5.2. pH i dosificació d'una solució iònica.
 
 ### Geografia
 
@@ -2624,13 +2618,13 @@ Butlletí Oficial del Principat d'Andorra
 
 La geografia és indispensable per a la vida i per a la supervivència de l'home d'ahir, d'avui i sobretot de demà. Aquesta ciència de l'espai terrestre permet situar-se en relació als avantatges i inconvenients d'aquest mateix espai i la situació dels altres éssers vius.
 
-En aquest sentit, la geografia ha permès primer explotar i gestionar els recursos propers i progressivament descodificar els móns més allunyats, primer anomenant-los i després descrivintlos.
+En aquest sentit, la geografia ha permès primer explotar i gestionar els recursos propers i progressivament descodificar els móns més allunyats, primer anomenant-los i després descrivint-los.
 
 Des del seu origen, és a través de les representacions mentals que s'ha elaborat i encara s'elabora el coneixement geogràfic del món, tot i que els progressos de la ciència permeten realitzar-ho amb més facilitat.
 
 La geografia ja no és només un enfocament analític de les relacions dels homes amb l'entorn natural. L'antiga distinció geografia física / geografia humana ha quedat desfasada perquè resultava inoperant. La geografia ha de tenir un lloc de referent constant en les activitats dels homes agrupats en societats que produeixen unes civilitzacions. És aquesta òptica la que permet l'estudi i la comprensió del marc espacial en el qual s'inscriuen les seves diferents activitats (materials però també culturals). És per això que el concepte central que li dóna sentit és el d'espai produït per les societats per apropiar-se-la, limitar-la, estructurar-la, per explotar-la i gestionar-la. Llavors esdevé el seu territori.
 
-Cal donar preferència al perquè en detriment del què i del com, el que significa tenir en compte la seva descripció, a condició que es formuli en problema, és a dir, que es posi en una perspectiva social, idealment prospectiva, estudiar la muntanya com a medi natural important per si mateix, però que només té sentit de societat si la situem en l'ús que en fan, en faran i que n'han fet els homes. Aquest ús depèn de les representacions mentals molt determinades per les pertinences socials i espacials i per les inversions individuals. Segons si un és jove o gran, home o dona, ecologista, agricultor, geòleg, poeta, turista, excursionista o esquiador, vianant o gestor, no es veurà la muntanya de la mateixa manera.
+Cal donar preferència al perquè en detriment del què i del com, el que significa tenir en compte la seva descripció, a condició que es formuli en problema, és a dir, que es posi en una perspectiva social, idealment prospectiva, estudiar la
 
 [[END OF PAGE 28]]
 
@@ -2642,6 +2636,10 @@ Butlletí Oficial del Principat d'Andorra
 
 Núm. 101 - any 19 - 28.11.2007
 
+muntanya com a medi natural important per si mateix, però que només té sentit de societat si la situem en l'ús que en fan, en faran i que n'han fet els homes.
+
+Aquest ús depèn de les representacions mentals molt determinades per les pertinences socials i espacials i per les inversions individuals. Segons si un és jove o gran, home o dona, ecologista, agricultor, geòleg, poeta, turista, excursionista o esquiador, vianant o gestor, no es veurà la muntanya de la mateixa manera.
+
 D'altra banda, en tots els àmbits de les activitats dels homes i fins i tot en altres disciplines, la geografia és apta per permetre tenir en compte les articulacions dels territoris, entre allò proper (Andorra) i allò llunyà (Europa, el Món), entre la dimensió local i la dimensió global.
 
 #### 2. Contribució a l'educació per a la ciutadania
@@ -2652,39 +2650,39 @@ L'horitzó de vida de les joves generacions, fins i tot les andorranes, ja no é
 
 #### 3. Competències disciplinàries
 
-- Dominar els mitjans conceptuals i instrumentals per llegir, descriure i entendre els diferents paisatges locals, emprant diferents suports: estudi de camp, fotografies, fins i tot aèries, estudi de mapes a diferents escales,etc.
+1. Dominar els mitjans conceptuals i instrumentals per llegir, descriure i entendre els diferents paisatges locals, emprant diferents suports: estudi de camp, fotografies, fins i tot aèries, estudi de mapes a diferents escales,etc.
 
-- Plantejar les diferents problemàtiques derivades de la producció de l'espai.
+2. Plantejar les diferents problemàtiques derivades de la producció de l'espai.
 
-- Entendre i utilitzar la situació de l'espai andorrà com a punt de contacte entre la Península Ibèrica, França i la resta del continent europeu.
+3. Entendre i utilitzar la situació de l'espai andorrà com a punt de contacte entre la Península Ibèrica, França i la resta del continent europeu.
 
-- Reflexionar sobre la dialèctica enclavament/xarxa troncal.
+4. Reflexionar sobre la dialèctica enclavament/xarxa troncal.
 
-- Ser capaç de situar l'evolució dels microestats (Andorra, Mònaco, Liechtenstein, etc.), en una Europa en profundes mutacions.
+5. Ser capaç de situar l'evolució dels microestats (Andorra, Mònaco, Liechtenstein, etc.), en una Europa en profundes mutacions.
 
-- Identificar els desplaçaments successius de la Unió Europea cap al sud i cap a l'est.
+6. Identificar els desplaçaments successius de la Unió Europea cap al sud i cap a l'est.
 
-- Analitzar els canvis en els territoris que modifiquen les velles referències espacials, en concret les que estan relacionades a l'estat-nació heretades del segle XIX.
+7. Analitzar els canvis en els territoris que modifiquen les velles referències espacials, en concret les que estan relacionades a l'estat-nació heretades del segle XIX.
 
-- Contextualitzar el sentiment de pertinència regional i la força d'atracció d'allò que ens dóna refugi en la dimensió local.
+8. Contextualitzar el sentiment de pertinència regional i la força d'atracció d'allò que ens dóna refugi en la dimensió local.
 
-- Entendre i actuar en la societat en la que vivim amb les seves diferents herències com a ciutadà democràtic, per conèixer i respectar altres civilitzacions i valors.
+9. Entendre i actuar en la societat en la que vivim amb les seves diferents herències com a ciutadà democràtic, per conèixer i respectar altres civilitzacions i valors.
 
 #### 4. Continguts
 
 ##### Continguts conceptuals
 
-###### I. El paisatge local, punt de partida essencial per conèixer i entendre el concepte d'espai produït per les societats. Sistemàticament, s'agafarà un exemple d'un altre lloc d'Europa per compararho. Els tipus de paisatges a tractar són:
+###### I. El paisatge local, punt de partida essencial per conèixer i entendre el concepte d'espai produït per les societats. Sistemàticament, s'agafarà un exemple d'un altre lloc d'Europa per comparar-ho. Els tipus de paisatges a tractar són:
 
-- Un paisatge rural significatiu de l'activitat agrícola, les modificacions de la influència agrícola sobre els diferents medis andorrans (ús de feixes degut al relleu i importància de l'exposició pels climes)
+1. Un paisatge rural significatiu de l'activitat agrícola, les modificacions de la influència agrícola sobre els diferents medis andorrans (ús de feixes degut al relleu i importància de l'exposició pels climes)
 
-- Un lloc turístic andorrà, per exemple un balneari o una estació d'esports d'hivern, amb estudi de l'espai emprat.
+2. Un lloc turístic andorrà, per exemple un balneari o una estació d'esports d'hivern, amb estudi de l'espai emprat.
 
-- Una ciutat dedicada al comerç, amb extensió a l'espai emprat (xarxa de ciutats).
+3. Una ciutat dedicada al comerç, amb extensió a l'espai emprat (xarxa de ciutats).
 
-- Un espai industrial.
+4. Un espai industrial.
 
-- Un espai residencial.
+5. Un espai residencial.
 
 ###### II. La situació espacial i l'organització del territori andorrà
 
@@ -2700,19 +2698,19 @@ Crida a l'articulació i a la interacció de les escales espacials per mostrar i
 
 ###### IV. El Principat en el mapa mundial
 
-- Andorra en el seu entorn pròxim.
+1. Andorra en el seu entorn pròxim.
 
-- El punt de contacte dels Pirineus i la comunitat transfronterera (interregió)
+2. El punt de contacte dels Pirineus i la comunitat transfronterera (interregió)
 
-- Les relacions d'Andorra amb França i amb Espanya.
+3. Les relacions d'Andorra amb França i amb Espanya.
 
-- Andorra a Europa.
+4. Andorra a Europa.
 
-- La mutació de les situacions espacials i socials dels territoris europeus.
+5. La mutació de les situacions espacials i socials dels territoris europeus.
 
-- La integració europea, el lloc dels microestats.
+6. La integració europea, el lloc dels microestats.
 
-- Andorra en el món.
+7. Andorra en el món.
 
 [[END OF PAGE 29]]
 
@@ -2724,51 +2722,49 @@ Butlletí Oficial del Principat d'Andorra
 
 5377
 
-###### El Principat davant els grans reptes planetaris
+###### V. El Principat davant els grans reptes planetaris
 
-- El desenvolupament sostenible.
+1. El desenvolupament sostenible.
 
-- Les grans desigualtats (econòmiques, demogràfiques, culturals, de salut, etc.).
+2. Les grans desigualtats (econòmiques, demogràfiques, culturals, de salut, etc.).
 
-- Els grans equilibris geopolítics del món.
+3. Els grans equilibris geopolítics del món.
 
-- Les grans solidaritats socials i les línies de fractura econòmiques, polítiques i militars.
+4. Les grans solidaritats socials i les línies de fractura econòmiques, polítiques i militars.
 
-###### El medi ambient
+###### VI. El medi ambient
 
-- La geografia de riscos: allaus, inundacions, pol·lucions, riscos industrials.
+1. La geografia de riscos: allaus, inundacions, pol·lucions, riscos industrials.
 
-- El tractament de residus.
+2. El tractament de residus.
 
-- L'aigua, disponibilitat i disposició.
+3. L'aigua, disponibilitat i disposició.
 
-- Contextos socioespacials, els transports, la distribució per zones urbanes, la seguretat, la salut, la cultura.
+4. Contextos socioespacials, els transports, la distribució per zones urbanes, la seguretat, la salut, la cultura.
 
-- La muntanya, els conflictes pels seus diferents usos (turisme, reserva natural, pastura, silvícola, agrícola, etc.) i les qüestions d'ordenació i d'accessibilitat.
+5. La muntanya, els conflictes pels seus diferents usos (turisme, reserva natural, pastura, silvícola, agrícola, etc.) i les qüestions d'ordenació i d'accessibilitat.
 
-- Els grans tipus de turisme.
+6. Els grans tipus de turisme.
 
 ##### Continguts procedimentals
 
-- Realització de comparacions entre indrets i temps diferents per entendre que l'organització del territori és el resultat de l'acció del passat, present i futur de les societats.
+1. Realització de comparacions entre indrets i temps diferents per entendre que l'organització del territori és el resultat de l'acció del passat, present i futur de les societats.
 
-- Anàlisi la importància del medi natural en l'organització dels territoris passats, presents i futurs (partir de l'exemple local i projectar-ho en el cas d'un punt determinat)
+2. Anàlisi la importància del medi natural en l'organització dels territoris passats, presents i futurs (partir de l'exemple local i projectar-ho en el cas d'un punt determinat)
 
-- Realització de comparacions entre les grans divisions geopolítiques del món, les solidaritats i els conflictes que hi estan relacionats.
+3. Realització de comparacions entre les grans divisions geopolítiques del món, les solidaritats i els conflictes que hi estan relacionats.
 
-- Canvi d'escala espacial (mostrar en què la pol·lució local és correlativa o no a un fenomen més general)
+4. Canvi d'escala espacial (mostrar en què la pol·lució local és correlativa o no a un fenomen més general)
 
-- Descripció d'un paisatge representatiu de les activitats humanes (aplicar a un paisatge desconegut uns mètodes i unes tècniques coneguts a Andorra)
+5. Descripció d'un paisatge representatiu de les activitats humanes (aplicar a un paisatge desconegut uns mètodes i unes tècniques coneguts a Andorra)
 
-- Comparació dels sistemes socials i les estructures espacials resultants (per exemple, l'organització urbana d'Andor-
+6. Comparació dels sistemes socials i les estructures espacials resultants (per exemple, l'organització urbana d'Andorra la Vella amb una ciutat equivalent a Espanya i a França)
 
-ra la Vella amb una ciutat equivalent a Espanya i a França)
+7. Comprensió del què representen les xarxes (pols i fluxos) en l'organització del territori (situar les relacions viàries andorranes amb la xarxa pirinenca…)
 
-- Comprensió del què representen les xarxes (pols i fluxos) en l'organització del territori (situar les relacions viàries andorranes amb la xarxa pirinenca…)
+8. Anàlisi d'un cas de posada en perill del medi ambient i proposar diferents solucions per limitar-ne els efectes (partir de l'actualitat local per transferir-ho a un altre punt)
 
-- Anàlisi d'un cas de posada en perill del medi ambient i proposar diferents solucions per limitar-ne els efectes (partir de l'actualitat local per transferir-ho a un altre punt)
-
-- Anàlisi d'una situació, fet que suposa:
+9. Anàlisi d'una situació, fet que suposa:
 
 - el domini conceptual
 
@@ -2776,13 +2772,13 @@ ra la Vella amb una ciutat equivalent a Espanya i a França)
 
 - el domini instrumental de les eines necessàries
 
-- Comunicació i debat amb relació als temes d'estudi
+10. Comunicació i debat amb relació als temes d'estudi
 
-- Defensa d'un punt de vista en el marc d'un debat argumentat
+11. Defensa d'un punt de vista en el marc d'un debat argumentat
 
-- Concepció, interpretació i comunicació de manera pertinent i eficaç de les informacions espacials
+12. Concepció, interpretació i comunicació de manera pertinent i eficaç de les informacions espacials
 
-- Utilització de les tècniques cartogràfiques i infogràfiques (manuals i informàtiques)
+13. Utilització de les tècniques cartogràfiques i infogràfiques (manuals i informàtiques)
 
 ### Història de les arts I i II
 
@@ -2794,7 +2790,7 @@ El coneixement de les obres d'art de tots els temps i la comprensió de la postu
 
 La història de l'art és la història de les empremtes materials que l'home ha deixat de les seves representacions del món i la seva relació amb el món, de l'entorn que percep i l'univers que habita, i és travessada pel flux tens de les comunicacions entre les diferents cultures i les diferents civilitzacions a través del temps i l'espai.
 
-sense tenir en compte els antecedents religiosos, polítics, filosòfics, científics, socials, econòmics i tecnològics de cada època.
+La història de l'art no es pot concebre sense tenir en compte els antecedents religiosos, polítics, filosòfics, científics, socials, econòmics i tecnològics de cada època.
 
 Es nodreix de la interacció i les influències creuades de tots els esdeveniments i tots els corrents de pensament que travessa.
 
@@ -2824,113 +2820,113 @@ La cultura nacional andorrana ha de ser citada quan sigui possible en correlaci�
 
 #### 3. Competències disciplinàries
 
-- Conèixer l'ordre cronològic dels grans corrents artístics i comprendre els fonaments principals del seu encadenament.
+1. Conèixer l'ordre cronològic dels grans corrents artístics i comprendre els fonaments principals del seu encadenament.
 
-- Examinar i explicar la influència dels fenòmens històrics, polítics, religiosos, filosòfics, científics, socials, econòmics i tecnològics en l'evolució i la successió dels corrents artístics.
+2. Examinar i explicar la influència dels fenòmens històrics, polítics, religiosos, filosòfics, científics, socials, econòmics i tecnològics en l'evolució i la successió dels corrents artístics.
 
-- Conèixer i comprendre l'evolució de l'estatus de l'artista, l'obra, el patrocinador i el destinatari.
+3. Conèixer i comprendre l'evolució de l'estatus de l'artista, l'obra, el patrocinador i el destinatari.
 
-- Reconèixer, identificar, classificar les obres d'art més conegudes de la història de la humanitat.
+4. Reconèixer, identificar, classificar les obres d'art més conegudes de la història de la humanitat.
 
-- Reconèixer i situar les obres d'art dels altres continents i comprendre la seva influència en l'evolució de l'art occidental.
+5. Reconèixer i situar les obres d'art dels altres continents i comprendre la seva influència en l'evolució de l'art occidental.
 
-- Observar, descriure, analitzar, interpretar una obra d'art i fer-ne una descripció gràfica.
+6. Observar, descriure, analitzar, interpretar una obra d'art i fer-ne una descripció gràfica.
 
-- Dominar el vocabulari específic de l'estudi descriptiu i històric de les obres d'art.
+7. Dominar el vocabulari específic de l'estudi descriptiu i històric de les obres d'art.
 
-- Localitzar, aïllar, comparar, utilitzar els elements pertinents d'un estudi d'estil.
+8. Localitzar, aïllar, comparar, utilitzar els elements pertinents d'un estudi d'estil.
 
-- Reconstituir i comprendre la postura dels artistes tot situant-los en el seu context històric.
+9. Reconstituir i comprendre la postura dels artistes tot situant-los en el seu context històric.
 
-- Localitzar, catalogar, explicitar les relacions semiològiques (signes) i semàntiques (sentit) en una obra d'art.
+10. Localitzar, catalogar, explicitar les relacions semiològiques (signes) i semàntiques (sentit) en una obra d'art.
 
-- Formular una valoració estètica i comunicar-la de forma argumentada, escrita, oral i gràfica.
+11. Formular una valoració estètica i comunicar-la de forma argumentada, escrita, oral i gràfica.
 
-- Citar en el moment oportú les referències artístiques implicades en el seu propi procés de recerca i creació.
+12. Citar en el moment oportú les referències artístiques implicades en el seu propi procés de recerca i creació.
 
 #### 4. Continguts
 
 ##### Primer curs
 
-- Estudi dels grans corrents artístics del passat, des dels primers homes fins a la fi del segle XIX.
+1. Estudi dels grans corrents artístics del passat, des dels primers homes fins a la fi del segle XIX.
 
-- 1.1. Prehistòria.
+1.1. Prehistòria.
 
-- 1.1.1. Estils i moviments: Lascaux, Chauvet, Cosquier, Altamira, Tassili.
+1.1.1. Estils i moviments: Lascaux, Chauvet, Cosquier, Altamira, Tassili.
 
-- 1.1.2. Objectes d'estudi: pintura rupestre, escultura, empremtes, grafismes, objectes usuals.
+1.1.2. Objectes d'estudi: pintura rupestre, escultura, empremtes, grafismes, objectes usuals.
 
-- 2. Antiguitat.
+1.2. Antiguitat.
 
-- 1.2.1. Estils i moviments: Egipte, Creta, Grècia, Roma, art dels ibers.
+1.2.1. Estils i moviments: Egipte, Creta, Grècia, Roma, art dels ibers.
 
-- 1.2.2. Objectes d'estudi: arquitectura, escultura, fresc, mosaic, objectes ornamentals.
+1.2.2. Objectes d'estudi: arquitectura, escultura, fresc, mosaic, objectes ornamentals.
 
-- 1.3. Edat Mitjana.
+1.3. Edat Mitjana.
 
-- 1.3.1. Estils i moviments: art bizantí, art romànic, art gòtic, art islàmic, art mudèjar, art mossàrab.
+1.3.1. Estils i moviments: art bizantí, art romànic, art gòtic, art islàmic, art mudèjar, art mossàrab.
 
-- 1.3. 2. Objectes d'estudi: arquitectura, escultura, fresc, mosaic, vidriera, manuscrits.
+1.3.2. Objectes d'estudi: arquitectura, escultura, fresc, mosaic, vidriera, manuscrits.
 
-- 1.4. Renaixement.
+1.4. Renaixement.
 
-- 1.4.1. Estils i moviments: el trecento , el quattrocento , arts clàssic i barroc italians, art flamenc, l'edat d'or espanyola, art rococó.
+1.4.1. Estils i moviments: el trecento, el quattrocento, arts clàssic i barroc italians, art flamenc, l'edat d'or espanyola, art rococó.
 
-- 1.4.2. Objectes d'estudi: arquitectura, escultura, pintura, dibuix, retrat, natura morta, arts ornamentals.
+1.4.2. Objectes d'estudi: arquitectura, escultura, pintura, dibuix, retrat, natura morta, arts ornamentals.
 
-- 1.5. Segle XIX.
+1.5. Segle XIX.
 
-- 1.5.1. Estils i moviments: art neoclàssic, art romàntic, art realista, impressionisme, postimpressionisme, puntillisme, art japonès.
+1.5.1. Estils i moviments: art neoclàssic, art romàntic, art realista, impressionisme, postimpressionisme, puntillisme, art japonès.
 
-- 1.5.2. Objectes d'estudi: arquitectura, escultura, pintura, paisatge, dibuix, fotografia, objectes manufacturats.
+1.5.2. Objectes d'estudi: arquitectura, escultura, pintura, paisatge, dibuix, fotografia, objectes manufacturats.
 
-- Anàlisi d'una obra d'art descomponent-ne els diferents paràmetres plàstics (formes, materials, colors, grafismes, organització de l'espai…).
+2. Anàlisi d'una obra d'art descomponent-ne els diferents paràmetres plàstics (formes, materials, colors, grafismes, organització de l'espai…).
 
-- Identificació de les articulacions entre els diferents paràmetres plàstics en funció de les intencions de l'artista.
+3. Identificació de les articulacions entre els diferents paràmetres plàstics en funció de les intencions de l'artista.
 
-- Ubicació de l'obra d'art en una època, un moviment o un corrent artístic.
+4. Ubicació de l'obra d'art en una època, un moviment o un corrent artístic.
 
-- Comparació de dues obres d'art d'un mateix artista, un mateix moviment o una mateixa època i de treure'n conclusions de caràcter plàstic, artístic o sociològic.
+5. Comparació de dues obres d'art d'un mateix artista, un mateix moviment o una mateixa època i de treure'n conclusions de caràcter plàstic, artístic o sociològic.
 
-- Redacció d'una dissertació a partir d'un estudi comparatiu entre dues obres d'art, situant les obres en el seu context històric i artístic.
+6. Redacció d'una dissertació a partir d'un estudi comparatiu entre dues obres d'art, situant les obres en el seu context històric i artístic.
 
-- Aplicació dels coneixements d'història de l'art en la pròpia pràctica artística.
+7. Aplicació dels coneixements d'història de l'art en la pròpia pràctica artística.
 
 ##### Segon curs
 
-- Estudi dels grans corrents artístics i artistes principals del segle XX
+1. Estudi dels grans corrents artístics i artistes principals del segle XX
 
-- 1.1. Anys 1900
+1.1. Anys 1900
 
-- 1.1.1. Moviments: modernisme, art nouveau , expressionisme, fauvisme, cubisme, art africà,
+1.1.1. Moviments: modernisme, art nouveau, expressionisme, fauvisme, cubisme, art africà,
 
-- 1.1.2. Artistes principals: Antoni Gaudí, Mucha, Gallé, Edvard Munch, Henri Matisse, Pablo Picasso i màscares dogon.
+1.1.2. Artistes principals: Antoni Gaudí, Mucha, Gallé, Edvard Munch, Henri Matisse, Pablo Picasso i màscares dogon.
 
-- 2. Anys 1910
+1.2. Anys 1910
 
-- 1.2.1. Moviments: abstracció, Bauhaus, futurisme, cronofotografia, dadaisme, rayogrames
+1.2.1. Moviments: abstracció, Bauhaus, futurisme, cronofotografia, dadaisme, rayogrames
 
-- 1.2.2. Artistes principals: Vassili Kandinsky, Piet Mondrian, Giacomo Balla, Jules-Étienne Marey, Marcel Duchamp i Man Ray.
+1.2.2. Artistes principals: Vassili Kandinsky, Piet Mondrian, Giacomo Balla, Jules-Étienne Marey, Marcel Duchamp i Man Ray.
 
-- 1.3. Anys 1920
+1.3. Anys 1920
 
-- 1.3.1. Moviments: surrealisme i poemes-objectes.
+1.3.1. Moviments: surrealisme i poemes-objectes.
 
-- 1.3.2. Artistes principals: Joan Miró i Salvador Dalí.
+1.3.2. Artistes principals: Joan Miró i Salvador Dalí.
 
-- 1.4. Anys 1940
+1.4. Anys 1940
 
-- 1.4.1. Moviments: art brut i cobra.
+1.4.1. Moviments: art brut i cobra.
 
-- 1.4.2. Artistes principals: Jean Dubuffet i Nicolas de Staël.
+1.4.2. Artistes principals: Jean Dubuffet i Nicolas de Staël.
 
-- 1.5. Anys 1950
+1.5. Anys 1950
 
-- 1.5.1. Moviments: expressionisme, abstracte, pop art i land art .
+1.5.1. Moviments: expressionisme, abstracte, pop art i land art.
 
-- 1.5.2. Artistes principals: Jackson Pollock, Antoni Tàpies, Andy Warhol i John Galsworthy.
+1.5.2. Artistes principals: Jackson Pollock, Antoni Tàpies, Andy Warhol i John Galsworthy.
 
-- 1.6. Anys 1960
+1.6. Anys 1960
 
 [[END OF PAGE 31]]
 
@@ -2942,27 +2938,27 @@ Butlletí Oficial del Principat d'Andorra
 
 5379
 
-- 1.6.1. Moviments: nouveau réalisme i art conceptual.
+1.6.1. Moviments: nouveau réalisme i art conceptual.
 
-- 1.6.2. Artistes principals: Arman, César, Daniel Spoerri, Joseph Beuys i Joseph Kosuth.
+1.6.2. Artistes principals: Arman, César, Daniel Spoerri, Joseph Beuys i Joseph Kosuth.
 
-- 1.7. Anys 1970
+1.7. Anys 1970
 
-- 1.7.1. Moviments: figuració lliure.
+1.7.1. Moviments: figuració lliure.
 
-- 1.7.2. Artistes principals: Francis Bacon i J.-Michel Basquiat.
+1.7.2. Artistes principals: Francis Bacon i J.-Michel Basquiat.
 
-- 1.8. Anys 1980
+1.8. Anys 1980
 
-- 1.8.1. Moviments: postmodernisme.
+1.8.1. Moviments: postmodernisme.
 
-- 1.8.2. Artistes principals: Frank O. Gehry i Ieoh Ming Pei.
+1.8.2. Artistes principals: Frank O. Gehry i Ieoh Ming Pei.
 
-- Redacció d'una dissertació a partir d'un estudi comparatiu entre diverses obres d'art, situant les obres en el seu context històric, artístic, sociològic, ideològic i tecnològic.
+2. Redacció d'una dissertació a partir d'un estudi comparatiu entre diverses obres d'art, situant les obres en el seu context històric, artístic, sociològic, ideològic i tecnològic.
 
-- Explicitació de les correlacions existents entre els mètodes artístics i tècnics dels grans artistes del segle XX i la seva pròpia pràctica artística.
+3. Explicitació de les correlacions existents entre els mètodes artístics i tècnics dels grans artistes del segle XX i la seva pròpia pràctica artística.
 
-- Aproximació a algunes obres recents i de processos de recerca d'artistes plàstics actuals com Miquel Barceló, Christian Boltanski, Titus Carmel, Christo, Robert Combas, Olivier Debré, Hervé Di Rosa, Rebecca Horn, Ilya Kabakov, Ernest Pignon Ernest, Germaine Richier, Niki de SaintPhalle, Pierre Soulages, Ousmane Sow.
+4. Aproximació a algunes obres recents i de processos de recerca d'artistes plàstics actuals com Miquel Barceló, Christian Boltanski, Titus Carmel, Christo, Robert Combas, Olivier Debré, Hervé Di Rosa, Rebecca Horn, Ilya Kabakov, Ernest Pignon Ernest, Germaine Richier, Niki de Saint-Phalle, Pierre Soulages, Ousmane Sow.
 
 ### Història I i II
 
@@ -2990,15 +2986,15 @@ El coneixement d'aquests processos és una necessitat cívica, i l'anàlisi crí
 
 #### 3. Competències disciplinàries
 
-- Distingir els grans períodes històrics, situar-los cronològicament i caracteritzar-los segons els seus criteris d'identificació (naturalesa dels poders, nivell tecnològic, composició social, organització i produccions econòmiques, projeccions culturals i representacions)
+1. Distingir els grans períodes històrics, situar-los cronològicament i caracteritzar-los segons els seus criteris d'identificació (naturalesa dels poders, nivell tecnològic, composició social, organització i produccions econòmiques, projeccions culturals i representacions)
 
-- Apropiar-se d'un patrimoni (del local a l'universal) i conservar-ne una memòria, basada en referències, conceptuals, cronològiques i espacials.
+2. Apropiar-se d'un patrimoni (del local a l'universal) i conservar-ne una memòria, basada en referències, conceptuals, cronològiques i espacials.
 
-- Adquirir facultats intel·lectuals que reflecteixin les modalitats del mètode històric: esperit crític, curiositat i imaginació, sentit de la complexitat, la diversitat i les evolucions, capacitat d'anàlisi dels vincles de causalitat i de síntesi per a realitzar una narració històrica coherent.
+3. Adquirir facultats intel·lectuals que reflecteixin les modalitats del mètode històric: esperit crític, curiositat i imaginació, sentit de la complexitat, la diversitat i les evolucions, capacitat d'anàlisi dels vincles de causalitat i de síntesi per a realitzar una narració històrica coherent.
 
-- Informar-se amb autonomia progressiva, a través del domini de les tècniques diverses de la documentació.
+4. Informar-se amb autonomia progressiva, a través del domini de les tècniques diverses de la documentació.
 
-- Caracteritzar i classificar els documents reunits o proposats (naturalesa,
+5. Caracteritzar i classificar els documents reunits o proposats (naturalesa,
 
 [[END OF PAGE 32]]
 
@@ -3026,11 +3022,11 @@ origen, data, contingut) per analitzar-los abans de relacionar-los.
 
 ###### Primer curs
 
-A. -Les transformacions econòmiques, socials i polítiques a Europa, Amèrica del Nord i Japó de mitjan segle XIX a 1914
+A. - Les transformacions econòmiques, socials i polítiques a Europa, Amèrica del Nord i Japó de mitjan segle XIX a 1914
 
 A. 1. Creixement econòmic i revolució tecnològica: expansió del capitalisme industrial i financer; naixement de les grans regions industrials; les dues Europees i l'emergència econòmica dels Estats Units i el Japó.
 
-A. 2. Conseqüències socials i polítiques de la industrialització: urbanització i afirmació d'una societat burgesa; el mónobrer; liberalisme, sindicalisme i socialisme; les reivindicacions democràtiques.
+A. 2. Conseqüències socials i polítiques de la industrialització: urbanització i afirmació d'una societat burgesa; el món obrer; liberalisme, sindicalisme i socialisme; les reivindicacions democràtiques.
 
 A. 3. Nacionalitats i nacionalismes: desenvolupament del sentiment nacional a Europa i els moviments nacionals, les ' unificacions ' alemanya i italiana i les reivindicacions nacionals a Europa central i els Balcans; el despertar de les autonomies i les reivindicacions nacionals a Espanya; vells i nous estats-nació el 1914 (mapa de síntesi).
 
@@ -3054,7 +3050,7 @@ B. 5. La Segona Guerra Mundial: les grans fases del conflicte i el seu caràcter
 
 ###### Segon Curs
 
-A. - El món contemporani, globalització i interdependències (des del 1945 fins als nostres dies)
+A. - El món contemporani, globalització i interdependències (des del 1945 - fins als nostres dies)
 
 A. 1. Les relacions internacionals: naturalesa i periodització de la guerra freda, la confrontació planetària de dos ' models ' (1947-1989/91) i els conflictes perifèrics (Pròxim Orient, Sud-est Asiàtic); la desaparició de l'URSS i els nous desequilibris internacionals; la crisi de l'ONU i la superpotència dels Estats Units; l'emergència de l'islamisme.
 
@@ -3070,7 +3066,7 @@ Entre les cinc propostes fetes, el professor n'ha d'escollir dues, creuant-les a
 
 B. 1. L'Islam i el món musulmà: les bases de l'Islam, tercera religió monoteista; les etapes de l'expansió musulmana i la cultura musulmana; l'Islam i el món àrab, unitat i diversitats, els conflictes del Pròxim Orient i de l'Orient Mitjà en el segle XX; l'Islam xiïta i la revolució iraniana; l'Islam al sud-est asiàtic.
 
-B. 2. La civilització xinesa: els grans trets de la civilització xinesa tradicional i l'herència imperial (confucionisme, taoisme, budisme); la Xina comunista del maoisme al pragmatisme (19492003); Xina, primera potència del segle XXI?
+B. 2. La civilització xinesa: els grans trets de la civilització xinesa tradicional i l'herència imperial (confucionisme, taoisme, budisme); la Xina comunista del maoisme al pragmatisme (1949-2003); Xina, primera potència del segle XXI?
 
 [[END OF PAGE 33]]
 
@@ -3082,15 +3078,15 @@ Butlletí Oficial del Principat d'Andorra
 
 5381
 
-B. 3. El món indi i l'hinduisme: els grans corrents culturals i religiosos de la península Índia; l'Índia britànica (17571947); la 'via índica', la democràcia més gran del món i les paradoxes del seu desenvolupament.
+B. 3. El món indi i l'hinduisme: els grans corrents culturals i religiosos de la península Índia; l'Índia britànica (1757-1947); la 'via índica', la democràcia més gran del món i les paradoxes del seu desenvolupament.
 
-B. 4. Àfrica negra: civilitzacions diverses; una religiositat amb fonts diverses (animisme, cristianisme, islamisme); un mónfracturat per l'explotació esclavista i les herències de la colonització; quines possibilitats de desenvolupament per a l'Àfrica Negra?
+B. 4. Àfrica negra: civilitzacions diverses; una religiositat amb fonts diverses (animisme, cristianisme, islamisme); un món fracturat per l'explotació esclavista i les herències de la colonització; quines possibilitats de desenvolupament per a l'Àfrica Negra?
 
 B. 5. Amèrica llatina: les civilitzacions precolombines; els xocs de la ' conquesta '; les independències del segle XIX; societats mestisses a la recerca d'estats democràtics i de desenvolupament sostenible.
 
 ##### Continguts per a la modalitat del batxillerat científic i tecnològic
 
-A. -Les transformacions econòmiques, socials i polítiques a Europa i Amèrica del Nord de mitjan segle XIX a 1914
+A. - Les transformacions econòmiques, socials i polítiques a Europa i Amèrica del Nord de mitjan segle XIX a 1914
 
 A. 1. Creixement econòmic i revolució tecnològica: expansió del capitalisme industrial i financer; naixement de les grans regions industrials; les dues Europees i l'emergència econòmica dels Estats Units i el Japó.
 
@@ -3158,7 +3154,7 @@ Butlletí Oficial del Principat d'Andorra
 
 Núm. 101 - any 19 - 28.11.2007
 
-Preparar el futur, però també conservar el passat, són dues voluntats que suposen un domini de l e s eines informàtiques, cal conèixer les evolucions de les tècniques per entendre el funcionament de les societats, de l'economia, dels individus, dels mitjans de comunicació, etc. i, per tant, projectar-se en el futur i orientar-se professionalment. Però projectar-se suposa conèixer d'on es comença, les noves tecnologies faciliten a tots la possibilitat de recerques visitant pàgines web, informant-se de com estava el món abans de la situació que vivim actualment.
+Preparar el futur, però també conservar el passat, són dues voluntats que suposen un domini de les eines informàtiques, cal conèixer les evolucions de les tècniques per entendre el funcionament de les societats, de l'economia, dels individus, dels mitjans de comunicació, etc. i, per tant, projectar-se en el futur i orientar-se professionalment. Però projectar-se suposa conèixer d'on es comença, les noves tecnologies faciliten a tots la possibilitat de recerques visitant pàgines web, informant-se de com estava el món abans de la situació que vivim actualment.
 
 Aquest doble enfocament que faciliten les noves tecnologies sempre ha estat el de l'ensenyament, preparar el futur amb coneixement del passat, però el professor mai no ha pogut posar tants mitjans per a la recerca d'aquest coneixement. Totes les assignatures es recolzen en les noves tecnologies, es pot dibuixar, es poden fer proves, es pot imaginar, amb l'ajut dels ordinadors. Aquesta democratització de l'eina informàtica és la conseqüència del naixement de la xarxa Internet que construint bases de dades immenses dóna sentit als múltiples usos de la informàtica, es pot: escriure, comunicar, informar-se, escoltar, aprendre, reunir-se, vendre, comprar, descobrir, etc. per Internet.
 
@@ -3172,7 +3168,7 @@ Per tant, aquest programa té com a objectiu permetre a tots els alumnes de l'Es
 
 Les Noves tecnologies modifiquen les pràctiques dels individus i així la seva introducció indueix nous riscos ètics. Per tant, caldrà associar a la formació de les Tecnologies de la Informació i de la Comunicació (TIC) una reflexió ètica sobre el seu ús i el respecte de les normes internacionals i les lleis que se'n deriven.
 
-El respecte dels Drets Humans i, en particular, el respecte dels Drets d'autor i de les Obres ha de guiar l'ús de les noves tecnologies. L'ús de les TIC i, en particular, d'Internet pot donar una falsa sensació als internautes que els seus actes a la Xarxa no poden ser vistos i, que per tant, n'estarien exempts. Aquest seria el cas, per exemple, d'algú que es descarrega una pel·lícula d'Internet de manera fraudulenta. Cal tenir en compte que el respecte de l a l l e i és una qüestió ineluctable.
+El respecte dels Drets Humans i, en particular, el respecte dels Drets d'autor i de les Obres ha de guiar l'ús de les noves tecnologies. L'ús de les TIC i, en particular, d'Internet pot donar una falsa sensació als internautes que els seus actes a la Xarxa no poden ser vistos i, que per tant, n'estarien exempts. Aquest seria el cas, per exemple, d'algú que es descarrega una pel·lícula d'Internet de manera fraudulenta. Cal tenir en compte que el respecte de la llei és una qüestió ineluctable.
 
 La seguretat i la protecció de la privadesa en el tractament de la informació i de les dades personals i professionals és una qüestió cabdal en una societat de la informació. En aquest cas és totalment necessari respectar les normes que regeixen la gestió de les dades.
 
@@ -3180,27 +3176,27 @@ Les fonts de la informació han de ser verificades, donat que les informacions q
 
 #### 3. Competències disciplinàries
 
-- Cercar informació, classificar-la, analitzar-la, discutir-la en grup.
+1. Cercar informació, classificar-la, analitzar-la, discutir-la en grup.
 
-- Realitzar documents amb l'ajuda d'eines informàtiques
+2. Realitzar documents amb l'ajuda d'eines informàtiques
 
-- Presentar documents realitzats en línia. Idear i construir una pàgina web i seguritzar les dades.
+3. Presentar documents realitzats en línia. Idear i construir una pàgina web i seguritzar les dades.
 
-- Comunicar i realitzar intercanvis a distància amb l'ajuda de les TIC.
+4. Comunicar i realitzar intercanvis a distància amb l'ajuda de les TIC.
 
-- Realitzar projectes amb un treball en grup utilitzant programaris ofimàtics i científics o tecnològics i adaptar-los al treball dut a terme (fulls de càlcul, bases de dades, Pre.A.O, P.A.O etc...)
+5. Realitzar projectes amb un treball en grup utilitzant programaris ofimàtics i científics o tecnològics i adaptar-los al treball dut a terme (fulls de càlcul, bases de dades, Pre.A.O, P.A.O etc...)
 
-- Guardar i arxivar els treballs a la xarxa i a l'ordinador (en diferents tipus de suports)
+6. Guardar i arxivar els treballs a la xarxa i a l'ordinador (en diferents tipus de suports)
 
-- Utilitzar i dominar els programaris específics a les disciplines científiques i tecnològiques, econòmiques i socials, descobrir les possibilitats d'ús de les TIC en els àmbits de les ciències i de les tecnologies i les eines de gestió empresarial moderna (gestió, organització, creació, concepció, DRH etc...).
+7. Utilitzar i dominar els programaris específics a les disciplines científiques i tecnològiques, econòmiques i socials, descobrir les possibilitats d'ús de les TIC en els àmbits de les ciències i de les tecnologies i les eines de gestió empresarial moderna (gestió, organització, creació, concepció, DRH etc...).
 
-- Dominar, instal·lar i utilitzar els ordinadors i l'entorn digital.
+8. Dominar, instal·lar i utilitzar els ordinadors i l'entorn digital.
 
 #### 4. Continguts
 
 ##### Primer Curs (totes les opcions)
 
-- Domini de l'entorn de l'ordinador.
+1. Domini de l'entorn de l'ordinador.
 
 - 1.1. Teclat: utilitzar totes les tecles, combinacions i dreceres.
 
@@ -3220,111 +3216,111 @@ Butlletí Oficial del Principat d'Andorra
 
 - 1.4. Les connexions: Canó de projecció, càmera digital, memòria USB.
 
-- 1.5. Suports d'emmagatzematge: CD, DVD,disc dur, disquet, memòria USB
+1.5. Suports d'emmagatzematge: CD, DVD, disc dur, disquet, memòria USB
 
-- Domini de la comunicació
+2. Domini de la comunicació
 
-- 2.1. Internet: cerca d'informació, anàlisi i classificació, i verificació (fonts i confrontació de les fonts).
+2.1. Internet: cerca d'informació, anàlisi i classificació, i verificació (fonts i confrontació de les fonts).
 
-- 2.2. Correu: enviar i rebre missatges amb diversos documents adjunts, gestionar i crear l'agenda pròpia.
+2.2. Correu: enviar i rebre missatges amb diversos documents adjunts, gestionar i crear l'agenda pròpia.
 
-- 2.3. Utilitzar els recursos documentals: saber cercar informació en un centre de documentació.
+2.3. Utilitzar els recursos documentals: saber cercar informació en un centre de documentació.
 
-- 2.4. Instal·lar una connexió Internet: els diferents tipus de connexions ADSL, Wi-Fi.
+2.4. Instal·lar una connexió Internet: els diferents tipus de connexions ADSL, Wi-Fi.
 
-- 2.5. Crear un bloc propi: crear i gestionar el propi bloc.
+2.5. Crear un bloc propi: crear i gestionar el propi bloc.
 
-- 2.6. Utilitzar un entorn digital de treball: connectar-se a un entorn digital de treball, i als recursos i cursos.
+2.6. Utilitzar un entorn digital de treball: connectar-se a un entorn digital de treball, i als recursos i cursos.
 
-- Tractament de dades
+3. Tractament de dades
 
-- 3.1. Tractament de textos: aplicació a les diferents assignatures, escriptura i elaboració, creació de documents complexos (amb imatges, esquemes i gràfics)
+3.1. Tractament de textos: aplicació a les diferents assignatures, escriptura i elaboració, creació de documents complexos (amb imatges, esquemes i gràfics)
 
-- 3.2. Full de càlcul: aplicació a les diferents disciplines, ús dels fulls de càlcul, creació de fórmules de càlcul, creació de gràfics.
+3.2. Full de càlcul: aplicació a les diferents disciplines, ús dels fulls de càlcul, creació de fórmules de càlcul, creació de gràfics.
 
-- 3.3. Presentació Assistida per Ordenador: aplicació a les diferents assignatures, presentació de treballs en forma de diapositives.
+3.3. Presentació Assistida per Ordenador: aplicació a les diferents assignatures, presentació de treballs en forma de diapositives.
 
-- 3.4. Tractament de la imatge: utilitzar una càmera digital i tractar les imatges, inserir imatges d'una càmera digital, d'Internet, d'un escàner en diferents documents.
+3.4. Tractament de la imatge: utilitzar una càmera digital i tractar les imatges, inserir imatges d'una càmera digital, d'Internet, d'un escàner en diferents documents.
 
-- TICE i ciutadania
+4. TICE i ciutadania
 
-- 4.1. Cerca i anàlisi de la informació: debats a classe a partir de diferents documents, confrontació dels diferents punts de vista dels alumnes.
+4.1. Cerca i anàlisi de la informació: debats a classe a partir de diferents documents, confrontació dels diferents punts de vista dels alumnes.
 
-- 4.2. Els drets i obres, i productes multimèdia.
+4.2. Els drets i obres, i productes multimèdia.
 
-- 4.2.1. Noció sobre els drets d'autor i la protecció del treball i de les obres
+4.2.1. Noció sobre els drets d'autor i la protecció del treball i de les obres
 
-- 4.2.2. Què és un producte multimèdia, respecte dels copyright i dels drets d'autor i de propietat industrial.
+4.2.2. Què és un producte multimèdia, respecte dels copyright i dels drets d'autor i de propietat industrial.
 
 ##### Segon curs
 
 ###### Per al batxillerat econòmic i social
 
-- Tractament de dades.
+1. Tractament de dades.
 
-- 1.1. Full de càlcul i gràfiques: ús de fulls de càlcul, realització de gràfiques a partir de dades estadístiques, fórmules per al càlcul en economia.
+1.1. Full de càlcul i gràfiques: ús de fulls de càlcul, realització de gràfiques a partir de dades estadístiques, fórmules per al càlcul en economia.
 
-- 1.2. Presentació i Presentació Assistida per Ordinador en profunditat (integració de dades multimèdia i creació de CD Rom o DVD).
+1.2. Presentació i Presentació Assistida per Ordinador en profunditat (integració de dades multimèdia i creació de CD Rom o DVD).
 
-- 1.3. Bases de dades: creació i explotació d'una base de dades, creació de taules i consultes. Aplicació en un model de gestió d'empresa.
+1.3. Bases de dades: creació i explotació d'una base de dades, creació de taules i consultes. Aplicació en un model de gestió d'empresa.
 
-- 1.4. Utilització dels programaris específics a les disciplines econòmiques i social, per exemple un programari que permeti realitzar enquestes, estadístiques, simulacions.
+1.4. Utilització dels programaris específics a les disciplines econòmiques i social, per exemple un programari que permeti realitzar enquestes, estadístiques, simulacions.
 
-- Treball en línia
+2. Treball en línia
 
-- 2.1. Realització de formularis en línia: preparació d'un formulari d'enquesta, posar-lo en línia i provar-lo.
+2.1. Realització de formularis en línia: preparació d'un formulari d'enquesta, posar-lo en línia i provar-lo.
 
-- 2.2. Creació d'un bloc: comunicació i intercanvi amb els companys i el professor de l'assignatura.
+2.2. Creació d'un bloc: comunicació i intercanvi amb els companys i el professor de l'assignatura.
 
-- Presentació del treball i compartiment de coneixements
+3. Presentació del treball i compartiment de coneixements
 
-- 3.1. Anàlisi crítica col·lectiva: Recuperació o realització de documents amb l'ajuda de l'eina TIC i realització a classe d'una anàlisi crítica col·lectiva.
+3.1. Anàlisi crítica col·lectiva: Recuperació o realització de documents amb l'ajuda de l'eina TIC i realització a classe d'una anàlisi crítica col·lectiva.
 
-- 3.2. Gestió el/s bloc/s del grup-classe: manteniment i seguiment del o dels bloc/s.
+3.2. Gestió el/s bloc/s del grup-classe: manteniment i seguiment del o dels bloc/s.
 
-- TIC i ciutadania.
+4. TIC i ciutadania.
 
-- 4.1. Ètica a la xarxa i respecte dels ciutadans.
+4.1. Ètica a la xarxa i respecte dels ciutadans.
 
-- 4.2. Respecte de la creació.
+4.2. Respecte de la creació.
 
 ###### Per al batxillerat científic i tecnològic
 
-- Tractament de dades.
+1. Tractament de dades.
 
-- 1.1. Full de càlcul i gràfiques: ús de fulls de càlcul, realització de gràfiques a partir de dades estadístiques, fórmules per al càlcul en economia.
+1.1. Full de càlcul i gràfiques: ús de fulls de càlcul, realització de gràfiques a partir de dades estadístiques, fórmules per al càlcul en economia.
 
-- 1.2. Presentació i Presentació Assistida per Ordinador en profunditat (integració de dades multimèdia i creació de CD Rom o DVD).
+1.2. Presentació i Presentació Assistida per Ordinador en profunditat (integració de dades multimèdia i creació de CD Rom o DVD).
 
-- 1.3. Bases de dades: creació i explotació d'una base de dades, creació de taules i consultes. Aplicació en un model científic o tècnic
+1.3. Bases de dades: creació i explotació d'una base de dades, creació de taules i consultes. Aplicació en un model científic o tècnic
 
-- 1.4. Utilització i domini de programaris específics a les ciències i tecnologies.
+1.4. Utilització i domini de programaris específics a les ciències i tecnologies.
 
-- Treball en línia.
+2. Treball en línia.
 
-- 2.1. Utilització i connexió d'una xarxa informàtica simple: connexió de dues màquines amb l'ajuda d'un cable creuat i configuració de la xarxa donant drets als usuaris.
+2.1. Utilització i connexió d'una xarxa informàtica simple: connexió de dues màquines amb l'ajuda d'un cable creuat i configuració de la xarxa donant drets als usuaris.
 
-- 2.2. Protecció del propi microordinador.
+2.2. Protecció del propi microordinador.
 
-- 2.2.1. Instal·lació d'un programari de tallafoc.
+2.2.1. Instal·lació d'un programari de tallafoc.
 
-- 2.2.2. Utilització i configuració d'un antivirus.
+2.2.2. Utilització i configuració d'un antivirus.
 
-- 2.2.3. Creació d'un bloc.
+2.2.3. Creació d'un bloc.
 
-- 2.2.4. Comunicació i intercanvi amb els companys i el professor de l'assignatura.
+2.2.4. Comunicació i intercanvi amb els companys i el professor de l'assignatura.
 
-- Presentació del treball i posada en comú dels coneixements.
+3. Presentació del treball i posada en comú dels coneixements.
 
-- 3.1. Treball cooperatiu (treballar en equip per a la realització d'un projecte tècnic o científic) Definició del projecte, recerques documentals, tries, repartició de les tasques, organització del treball, concepció i realització
+3.1. Treball cooperatiu (treballar en equip per a la realització d'un projecte tècnic o científic) Definició del projecte, recerques documentals, tries, repartició de les tasques, organització del treball, concepció i realització
 
-- 3.2. Anàlisi crítica col·lectiva. Recuperació o realització de documents amb l'ajuda de l'eina TIC i realització a classe d'una anàlisi crítica col·lectiva
+3.2. Anàlisi crítica col·lectiva. Recuperació o realització de documents amb l'ajuda de l'eina TIC i realització a classe d'una anàlisi crítica col·lectiva
 
-- TIC i ciutadania.
+4. TIC i ciutadania.
 
-- 4.1. Ètica de la Xarxa i respecte dels ciutadans.
+4.1. Ètica de la Xarxa i respecte dels ciutadans.
 
-- 4.2. Respecte de la creació.
+4.2. Respecte de la creació.
 
 [[END OF PAGE 36]]
 
@@ -3356,7 +3352,7 @@ Per tant, el programa s'organitzarà al voltant de dos eixos fonamentals:
 
 2. La descripció dels elements més importants que constitueixen la llengua i la cultura llatines.
 
-Amb les altres disciplines de ciències humanes, l'ensenyament de llatí permet conèixer millor l'especificitat i la identitat del poble andorrà i ressaltar la importància del món grecoromà en la cultura pròpia. El dret, els orígens de la llengua que parlem, les monedes de l'època i certs topònims (Les Escaldes, Lòria, la Massana, Encamp, Casamanya, etc.) donen testimoni de la influència romana a Andorra. Polibi, quan relata el pas d'Hanibal a través dels Pirineus, cita per primera vegada els andosins . Per tant, la presència romana va marcar el substrat cultural d'aquest territori pirinenc, el qual, poc a poc i amb l'aparició medieval, va definir la seva personalitat com a poble.
+Amb les altres disciplines de ciències humanes, l'ensenyament de llatí permet conèixer millor l'especificitat i la identitat del poble andorrà i ressaltar la importància del món grecoromà en la cultura pròpia. El dret, els orígens de la llengua que parlem, les monedes de l'època i certs topònims (Les Escaldes, Lòria, la Massana, Encamp, Casamanya, etc.) donen testimoni de la influència romana a Andorra. Polibi, quan relata el pas d'Hanibal a través dels Pirineus, cita per primera vegada els andosins. Per tant, la presència romana va marcar el substrat cultural d'aquest territori pirinenc, el qual, poc a poc i amb l'aparició medieval, va definir la seva personalitat com a poble.
 
 L'estudi conjunt de la història i de la civilització romanes, tan riques en prolongaments en el món actual, i de la llengua de la qual ha sorgit la seva llengua així com la dels països veïns també permet als joves andorrans tenir consciència de la seva identitat europea alimentats per una font comuna i entendre millor els esdeveniments i idees d'avui dia en diferents nivells: polític, històric, moral, intel·lectual i artístic.
 
@@ -3384,29 +3380,29 @@ Butlletí Oficial del Principat d'Andorra
 
 5385
 
-Aquest ensenyament fomenta també el seu enriquiment cultural . Desenvolupa la sensibilitat i afavoreix la conscienciació d'altres tipus de percepció del que és real: a través de la reflexió nascuda del contacte amb una civilització antiga, en l'estranyesa i, al mateix temps, en la seva sorprenent proximitat, l'alumne s'obre a altres tipus de pensament i d'expressió de la persona. El coneixement de mites desenvolupa la seva imaginació i li revela els fonaments d'una cultura encara viva; la localització dels elements culturals que han modelat Andorra i construït Europa, i que travessen encara avui les nostres societats, li permet de conèixer millor el món actual. Així descobreix que el coneixement de fets molt antics pot servir com a clau per entendre esdeveniments més recents.
+Aquest ensenyament fomenta també el seu enriquiment cultural. Desenvolupa la sensibilitat i afavoreix la conscienciació d'altres tipus de percepció del que és real: a través de la reflexió nascuda del contacte amb una civilització antiga, en l'estranyesa i, al mateix temps, en la seva sorprenent proximitat, l'alumne s'obre a altres tipus de pensament i d'expressió de la persona. El coneixement de mites desenvolupa la seva imaginació i li revela els fonaments d'una cultura encara viva; la localització dels elements culturals que han modelat Andorra i construït Europa, i que travessen encara avui les nostres societats, li permet de conèixer millor el món actual. Així descobreix que el coneixement de fets molt antics pot servir com a clau per entendre esdeveniments més recents.
 
 Aquest ensenyament contribueix també a la seva formació per a la vida en societat afavorint la conscienciació dels seus propis valors i de la seva relativitat, en contacte amb altres maneres de pensar i de viure en societat. L'alumne descobreix la diversitat, a través del temps, les societats humanes i els codis que les regeixen. En l'estudi de la societat antiga -l'organització social i política, les seves diferències i les seves revoltes, l'organització de la família, se'l porta a reflexionar sobre el funcionament de la seva pròpia societat, els fonaments del poder, les relacions entre els homes, el lloc de les dones... La noció de Pax romana pot donar-li elements de raonament de cara a la mundialització actual. Així, en contacte amb els tipus de pensament antics -polítics, religiosos i filosòfics- es desenvolupa la seva pròpia capacitat de reflexionar millor, argumentar i deliberar.
 
-Aquest ensenyament permet finalment , a cadascú, d'adquirir un millor domini dels « i nstruments » de l a comunicació: a través de l'estudi de la llengua llatina - etimologia, estructures morfosintàctiques...-, adquireix eines per aprofundir la comprensió de la seva pròpia llengua i la pot comparar amb les llengües romanes conegudes. A través de l'estudi de la retòrica pren consciència de la força d'un idioma que domina i d'un discurs construït, uns avantatges importants per a la seva vida personal i la seva participació en la vida de la comunitat.
+Aquest ensenyament permet finalment, a cadascú, d'adquirir un millor domini dels «instruments» de la comunicació: a través de l'estudi de la llengua llatina - etimologia, estructures morfosintàctiques...-, adquireix eines per aprofundir la comprensió de la seva pròpia llengua i la pot comparar amb les llengües romanes conegudes. A través de l'estudi de la retòrica pren consciència de la força d'un idioma que domina i d'un discurs construït, uns avantatges importants per a la seva vida personal i la seva participació en la vida de la comunitat.
 
 #### 3. Competències disciplinàries
 
-- Interpretar de manera coherent el contingut d'un text de dificultat mitjana, sabent fer servir els coneixements morfosintàctics, lèxics i de civilització.
+1. Interpretar de manera coherent el contingut d'un text de dificultat mitjana, sabent fer servir els coneixements morfosintàctics, lèxics i de civilització.
 
-- Relacionar fets lingüístics de la llengua llatina amb els de la pròpia llengua o a la inversa.
+2. Relacionar fets lingüístics de la llengua llatina amb els de la pròpia llengua o a la inversa.
 
-- Reflexionar sobre elements que fan part d'un sistema lingüístic.
+3. Reflexionar sobre elements que fan part d'un sistema lingüístic.
 
-- Identificar les principals manifestacions de la cultura romana, assenyalant la seva repercussió en la història d'Occident.
+4. Identificar les principals manifestacions de la cultura romana, assenyalant la seva repercussió en la història d'Occident.
 
-- Extreure amb esperit crític informació i conclusions a partir de tota mena de fonts amb relació a la cultura clàssica.
+5. Extreure amb esperit crític informació i conclusions a partir de tota mena de fonts amb relació a la cultura clàssica.
 
-- Constatar la supervivència de la cultura clàssica a Occident com a model d'imitació i com a font d'imaginari i substrat cultural viu encara avui dia.
+6. Constatar la supervivència de la cultura clàssica a Occident com a model d'imitació i com a font d'imaginari i substrat cultural viu encara avui dia.
 
-- Valorar els coneixements culturals adquirits com a element clau per entendre fets històrics i culturals posteriors de l'entorn geogràfic i cultural al qual l'alumne pertany.
+7. Valorar els coneixements culturals adquirits com a element clau per entendre fets històrics i culturals posteriors de l'entorn geogràfic i cultural al qual l'alumne pertany.
 
-- Valorar positivament l'esperit eclèctic i pragmàtic dels romans com a element integrador de diferents corrents de pensament i actituds de la història d'Occident.
+8. Valorar positivament l'esperit eclèctic i pragmàtic dels romans com a element integrador de diferents corrents de pensament i actituds de la història d'Occident.
 
 #### 4. Continguts
 
@@ -3414,53 +3410,53 @@ Aquest ensenyament permet finalment , a cadascú, d'adquirir un millor domini de
 
 ###### Continguts conceptuals
 
-- Origen i evolució de la llengua llatina.
+1. Origen i evolució de la llengua llatina.
 
-- 1.1. Origen, àmbits i etapes de la llengua llatina.
+1.1. Origen, àmbits i etapes de la llengua llatina.
 
-- 1.2. Del llatí a les llengües romanes.
+1.2. Del llatí a les llengües romanes.
 
-- Sintaxi.
+2. Sintaxi.
 
-- 2.1. L'accés a la lectura de textos requereix primer el reconeixement i després el domini dels elements de sintaxi que els construeixen.
+2.1. L'accés a la lectura de textos requereix primer el reconeixement i després el domini dels elements de sintaxi que els construeixen.
 
-- 2.2. Els elements constitutius de la frase llatina i l'ordre de les paraules.
+2.2. Els elements constitutius de la frase llatina i l'ordre de les paraules.
 
-- 2.3. Les relacions entre la declinació llatina i els grups funcionals catalans.
+2.3. Les relacions entre la declinació llatina i els grups funcionals catalans.
 
-- 2.4. Les expansions del nom: epítets i relatives.
+2.4. Les expansions del nom: epítets i relatives.
 
-- 2.5. Els valors dels temps de la narrativa: present, passat, futur.
+2.5. Els valors dels temps de la narrativa: present, passat, futur.
 
-- 2.6. L'expressió del temps i del lloc (localització de l'ablatiu absolut)
+2.6. L'expressió del temps i del lloc (localització de l'ablatiu absolut)
 
-- 2.7. L'expressió de la causa (grups nominals, independents coordinades, subordinades a l'indicatiu, cum + subjuntiu, localització del complement agent)
+2.7. L'expressió de la causa (grups nominals, independents coordinades, subordinades a l'indicatiu, cum + subjuntiu, localització del complement agent)
 
-- 2.8. La percepció de l'oposició entre el valor de l'indicatiu i el del subjuntiu.
+2.8. La percepció de l'oposició entre el valor de l'indicatiu i el del subjuntiu.
 
-- Morfologia nominal, pronominal i verbal.
+3. Morfologia nominal, pronominal i verbal.
 
-L'accés a la lectura de textos implica el reconeixement dels indicis formals que són els sufixos i les terminacions; l'alumne ha de memoritzar aquests elements per la comprensió del sistemadefuncionament de la llengua llatina.
+L'accés a la lectura de textos implica el reconeixement dels indicis formals que són els sufixos i les terminacions; l'alumne ha de memoritzar aquests elements per la comprensió del sistema de funcionament de la llengua llatina.
 
-- 3.1. Nocions de base de fonètica llatina.
+3.1. Nocions de base de fonètica llatina.
 
-- 3.2. Característiques d'una llengua flexional
+3.2. Característiques d'una llengua flexional
 
-- 3.3. Morfologia nominal: els noms i els graus dels adjectius, les tres primeres declinacions.
+3.3. Morfologia nominal: els noms i els graus dels adjectius, les tres primeres declinacions.
 
-- 3.4. Morfologia pronominal: el pronomrelatiu (i l'interrogatiu - indefinit).
+3.4. Morfologia pronominal: el pronom relatiu (i l'interrogatiu - indefinit).
 
-- 3.5. Morfologia verbal.
+3.5. Morfologia verbal.
 
-- 3.6. Present i pretèrit imperfet, futur de l'indicatiu a l'actiu (i al passiu).
+3.6. Present i pretèrit imperfet, futur de l'indicatiu a l'actiu (i al passiu).
 
-- 3.7. Pretèrit imperfet i pretèrit plusquamperfet de l'indicatiu a l'actiu.
+3.7. Pretèrit imperfet i pretèrit plusquamperfet de l'indicatiu a l'actiu.
 
-- 3.8. L'infinitiu i el participi.
+3.8. L'infinitiu i el participi.
 
-- 3.9. Localització del subjuntiu present i imperfecte.
+3.9. Localització del subjuntiu present i imperfecte.
 
-- El lèxic llatí.
+4. El lèxic llatí.
 
 L'aprenentatge del vocabulari i la seva memorització estan organitzats en funció de la seva aparició en textos o de la seva relació amb les nocions estudiades i en funció de la freqüència del seu ús.
 
@@ -3474,135 +3470,135 @@ Butlletí Oficial del Principat d'Andorra
 
 Núm. 101 - any 19 - 28.11.2007
 
-- 4.1. Mots eines, locucions i expressions llatines utilitzades amb més freqüència
+4.1. Mots eines, locucions i expressions llatines utilitzades amb més freqüència
 
-- 4.2. Àmbits semàntics i famílies lèxiques, amb relació als textos i a les nocions estudiades.
+4.2. Àmbits semàntics i famílies lèxiques, amb relació als textos i a les nocions estudiades.
 
-- 4.3. Nocions d'etimologia i d'evolució dels mots i conceptes : per exemple 'res', etc.
+4.3. Nocions d'etimologia i d'evolució dels mots i conceptes: per exemple 'res', etc.
 
-- Literatura romana
+5. Literatura romana
 
-- 5.1. Ciceró, Titus Lívius, Plaute, Terenci, Petroni.
+5.1. Ciceró, Titus Lívius, Plaute, Terenci, Petroni.
 
-- 5.2. Gèneres: història i epopeia, el teatre, la novel·la, el discurs.
+5.2. Gèneres: història i epopeia, el teatre, la novel·la, el discurs.
 
-- 5.3. Registres o tonalitats: comicitat, sàtira i paròdia, l'eloqüència.
+5.3. Registres o tonalitats: comicitat, sàtira i paròdia, l'eloqüència.
 
-- Unitat política i cultural romana.
+6. Unitat política i cultural romana.
 
-- 6.1. Els orígens de Roma i la monarquia romana.
+6.1. Els orígens de Roma i la monarquia romana.
 
-- 6.2. La primera república (509-272 abans JC) i la conquesta del Mediterrani (segles III-I abans JC).
+6.2. La primera república (509-272 abans JC) i la conquesta del Mediterrani (segles III-I abans JC).
 
-- 6.3. Conceptes característics del pensament dels romans.
+6.3. Conceptes característics del pensament dels romans.
 
-- 6.4. Vida quotidiana: la família i la casa romana: domus, insulae, villae . Les relacions socials.
+6.4. Vida quotidiana: la família i la casa romana: domus, insulae, villae. Les relacions socials.
 
-- 6.5. La religió: cultes i divinitats.
+6.5. La religió: cultes i divinitats.
 
-- 6.6. L'armada romana, les vies romanes, els intercanvis econòmics.
+6.6. L'armada romana, les vies romanes, els intercanvis econòmics.
 
-- Supervivència de la cultura clàssica a Europa.
+7. Supervivència de la cultura clàssica a Europa.
 
-- 7.1. Presència d'elements culturals clàssics en arts, literatura, cinema, publicitat.
+7.1. Presència d'elements culturals clàssics en arts, literatura, cinema, publicitat.
 
-- 7.2. Elements romans en els usos i costums actuals.
+7.2. Elements romans en els usos i costums actuals.
 
-- 7.3. Roma i la seva història en la tradició literària o artística.
+7.3. Roma i la seva història en la tradició literària o artística.
 
-- 7.4. Expressions llatines d'ús habitual en la pròpia llengua.
+7.4. Expressions llatines d'ús habitual en la pròpia llengua.
 
 ###### Continguts procedimentals
 
-- Localització d'elements clau (gramaticals, lèxics, culturals) en un text llatí.
+1. Localització d'elements clau (gramaticals, lèxics, culturals) en un text llatí.
 
-- Emissió i confrontació d'hipòtesis sobre el sentit general de cada text estudiat.
+2. Emissió i confrontació d'hipòtesis sobre el sentit general de cada text estudiat.
 
-- Lectura comprensiva de textos llatins, en llengua original o en traducció quan es tracta de textos més difícils o tractats a títol complementari.
+3. Lectura comprensiva de textos llatins, en llengua original o en traducció quan es tracta de textos més difícils o tractats a títol complementari.
 
-- Interpretació o traducció de textos llatins simples, amb anàlisi morfosintàctica quan es cregui convenient i comentari de les nocions culturals conegudes.
+4. Interpretació o traducció de textos llatins simples, amb anàlisi morfosintàctica quan es cregui convenient i comentari de les nocions culturals conegudes.
 
-- Localització del gènere literari d'un text.
+5. Localització del gènere literari d'un text.
 
-- Breu exposició sobre un fet de civilització o d'història.
+6. Breu exposició sobre un fet de civilització o d'història.
 
-- Confrontació de fets culturals i lingüístics entre el llatí i les llengües i la cultura vehiculars.
+7. Confrontació de fets culturals i lingüístics entre el llatí i les llengües i la cultura vehiculars.
 
-- Ús de la llengua llatina per justificar fets lingüístics de la pròpia llengua.
+8. Ús de la llengua llatina per justificar fets lingüístics de la pròpia llengua.
 
-- Establiment de relacions lèxiques.
+9. Establiment de relacions lèxiques.
 
-- Aprenentatge de vocabulari, en context i organitzat al voltant dels mots eines i dels camps lèxics freqüentment trobats en els textos estudiats.
+10. Aprenentatge de vocabulari, en context i organitzat al voltant dels mots eines i dels camps lèxics freqüentment trobats en els textos estudiats.
 
-- Elaboració directament en llatí de frases elementals a partir de les nocions i del vocabulari coneguts (resum d'un text llegit o traduït, descripció d'un document iconogràfic...)
+11. Elaboració directament en llatí de frases elementals a partir de les nocions i del vocabulari coneguts (resum d'un text llegit o traduït, descripció d'un document iconogràfic...)
 
-- Jocs d'enriquiment en llatí d'un mot o d'un grup de mots.
+12. Jocs d'enriquiment en llatí d'un mot o d'un grup de mots.
 
-- Manipulació del diccionari.
+13. Manipulació del diccionari.
 
-- Ús de diferents recursos: textos, restes arqueològiques, representacions figurades.
+14. Ús de diferents recursos: textos, restes arqueològiques, representacions figurades.
 
-- Recerca d'informacions i ús de recursos documentals diversos: diccionaris, enciclopèdies, vídeos, documents iconogràfics, Internet.
+15. Recerca d'informacions i ús de recursos documentals diversos: diccionaris, enciclopèdies, vídeos, documents iconogràfics, Internet.
 
-- Realització de sortides: emplaçaments arqueològics, observació de ciutats contemporànies.
+16. Realització de sortides: emplaçaments arqueològics, observació de ciutats contemporànies.
 
 ##### Segon curs
 
 ###### Continguts conceptuals
 
-- Evolució de la llengua llatina.
+1. Evolució de la llengua llatina.
 
-- 1.1. El llatí medieval. El llatí relatiu a l'humanisme. El neollatí.
+1.1. El llatí medieval. El llatí relatiu a l'humanisme. El neollatí.
 
-- Sintaxi.
+2. Sintaxi.
 
-- 2.1. L'accés a la lectura de textos requereix el reconeixement i més endavant el domini dels elements de sintaxi que els construeixen.
+2.1. L'accés a la lectura de textos requereix el reconeixement i més endavant el domini dels elements de sintaxi que els construeixen.
 
-- 2.2. Els elements constitutius de la frase llatina raonablement complexa: les relatives (aprofundiment), ut, cum , l'oració d'infinitiu.
+2.2. Els elements constitutius de la frase llatina raonablement complexa: les relatives (aprofundiment), ut, cum, l'oració d'infinitiu.
 
-- 2.3. La percepció de l'oposició entre el valor de l'indicatiu i el del subjuntiu: la injunció, l'expressió de finalitat i de dubte, les relatives al subjuntiu
+2.3. La percepció de l'oposició entre el valor de l'indicatiu i el del subjuntiu: la injunció, l'expressió de finalitat i de dubte, les relatives al subjuntiu
 
-- 2.4. La interrogació indirecta.
+2.4. La interrogació indirecta.
 
-- 2.5. L'ablatiu absolut: aprofundiment
+2.5. L'ablatiu absolut: aprofundiment
 
-- 2.6. La hipòtesi simple
+2.6. La hipòtesi simple
 
-- Morfologia nominal, pronominal i verbal.
+3. Morfologia nominal, pronominal i verbal.
 
-- 3.1. La 4 B61 i 5 B61 declinacions.
+3.1. La 4a i 5a declinacions.
 
-- 3.2. Morfologia pronominal: els adjectius- pronoms demostratius, d'identitat i emfàtics.
+3.2. Morfologia pronominal: els adjectius- pronoms demostratius, d'identitat i emfàtics.
 
-- 3.3. Morfologia verbal.
+3.3. Morfologia verbal.
 
-- 3.4. El present i el pretèrit imperfecte del subjuntiu a l'actiu i al passiu.
+3.4. El present i el pretèrit imperfecte del subjuntiu a l'actiu i al passiu.
 
-- 3.5. La veu passiva del perfectum tant en l'indicatiu com en el subjuntiu.
+3.5. La veu passiva del perfectum tant en l'indicatiu com en el subjuntiu.
 
-- 3.6. L'imperatiu.
+3.6. L'imperatiu.
 
-- El lèxic llatí.
+4. El lèxic llatí.
 
-- 4.1. Àmbits semàntics i famílies lèxiques.
+4.1. Àmbits semàntics i famílies lèxiques.
 
-- 4.2. Locucions i expressions llatines d'ús més freqüent.
+4.2. Locucions i expressions llatines d'ús més freqüent.
 
-- 4.3. Nocions d'etimologia i d'evolució dels mots i conceptes.
+4.3. Nocions d'etimologia i d'evolució dels mots i conceptes.
 
-- Literatura.
+5. Literatura.
 
-- 5.1. Virgili, L'Eneida , Tàcit: De Agricola , Sèneca, Epistulae , Horaci i Ovidi, Fragments de Catul, Tibul.
+5.1. Virgili, L'Eneida, Tàcit: De Agricola, Sèneca, Epistulae, Horaci i Ovidi, Fragments de Catul, Tibul.
 
-- 2. Nocions de base de la prosòdia llatina
+5.2. Nocions de base de la prosòdia llatina
 
-- 5.3. Gèneres: la poesia, la carta, l'assaig filosòfic
+5.3. Gèneres: la poesia, la carta, l'assaig filosòfic
 
-- 5.4. Tonalitats
+5.4. Tonalitats
 
-- Unitat política i cultural romana.
+6. Unitat política i cultural romana.
 
-- 6.1 Els triumvirats i la dictadura de Cèsar.
+6.1 Els triumvirats i la dictadura de Cèsar.
 
 [[END OF PAGE 39]]
 
@@ -3624,7 +3620,7 @@ Butlletí Oficial del Principat d'Andorra
 
 - 6.6. Els edificis essencials de la vida pública, la noció d' otium .
 
-- Supervivència de la cultura clàssica a Europa.
+7. Supervivència de la cultura clàssica a Europa.
 
 - 7.1. La influència de Roma des del segle VI fins avui.
 
@@ -3634,39 +3630,39 @@ Butlletí Oficial del Principat d'Andorra
 
 ###### Continguts procedimentals
 
-- Lectura comprensiva de textos llatins, presentats sols o acompanyats de la seva traducció.
+1. Lectura comprensiva de textos llatins, presentats sols o acompanyats de la seva traducció.
 
-- Interpretació o traducció de textos llatins de dificultat mitjana, amb anàlisi morfosintàctica quan es cregui necessària, i localització de les nocions culturals conegudes.
+2. Interpretació o traducció de textos llatins de dificultat mitjana, amb anàlisi morfosintàctica quan es cregui necessària, i localització de les nocions culturals conegudes.
 
-- Localització del gènere literari, de la tonalitat d'un text, amb relació a l'anàlisi del seu objectiu.
+3. Localització del gènere literari, de la tonalitat d'un text, amb relació a l'anàlisi del seu objectiu.
 
-- Comentari d'un text, una part de la qual ha estat traduïda per l'alumne, extraient els punts essencials del text.
+4. Comentari d'un text, una part de la qual ha estat traduïda per l'alumne, extraient els punts essencials del text.
 
-- Comentari de documents iconogràfics.
+5. Comentari de documents iconogràfics.
 
-- Exposició breu sobre un fet de civilització o d'història.
+6. Exposició breu sobre un fet de civilització o d'història.
 
-- Relació entre la literatura llatina i les representacions artístiques de l'antiguitat o posteriors.
+7. Relació entre la literatura llatina i les representacions artístiques de l'antiguitat o posteriors.
 
-- Ús del diccionari.
+8. Ús del diccionari.
 
-- Aprenentatge de vocabulari, en context i organitzat al voltant dels mots eines i dels camps lèxics freqüentment trobats en els textos estudiats.
+9. Aprenentatge de vocabulari, en context i organitzat al voltant dels mots eines i dels camps lèxics freqüentment trobats en els textos estudiats.
 
-- Textos molt simples i curts elaborats en llatí per l'alumne a partir de les nocions i del vocabulari coneguts (resum d'un text llegit o traduït, descripció d'un document iconogràfic...)
+10. Textos molt simples i curts elaborats en llatí per l'alumne a partir de les nocions i del vocabulari coneguts (resum d'un text llegit o traduït, descripció d'un document iconogràfic...)
 
-- Joc d'enriquiment en llatí de com a mínim una frase
+11. Joc d'enriquiment en llatí de com a mínim una frase
 
-- Confrontació de fets culturals i lingüístics entre el llatí i les llengües i la cultura vehiculars.
+12. Confrontació de fets culturals i lingüístics entre el llatí i les llengües i la cultura vehiculars.
 
-- Ús de la llengua llatina per justificar fets lingüístics de la pròpia llengua.
+13. Ús de la llengua llatina per justificar fets lingüístics de la pròpia llengua.
 
-- Establiment de relacions lèxiques
+14. Establiment de relacions lèxiques
 
-- Ús, i potser confrontació, de diverses fonts: textos, j aciments arqueològics, representacions figurades
+15. Ús, i potser confrontació, de diverses fonts: textos, jaciments arqueològics, representacions figurades
 
-- Obtenir informació sobre la civilització llatina a partir de recursos documentals diversos: diccionaris, enciclopèdies, vídeos, documents iconogràfics, Internet, Cd Roms, museus...
+16. Obtenir informació sobre la civilització llatina a partir de recursos documentals diversos: diccionaris, enciclopèdies, vídeos, documents iconogràfics, Internet, Cd Roms, museus...
 
-- Realització de sortides: jaciments arqueològics, observació de ciutats contemporànies...
+17. Realització de sortides: jaciments arqueològics, observació de ciutats contemporànies...
 
 ### Literatura universal I i II
 
@@ -3674,13 +3670,13 @@ Butlletí Oficial del Principat d'Andorra
 
 L'ensenyament de la literatura universal que s'imparteix al nivell del batxillerat proposa a l'alumne aprofundir en la literatura, ampliar la seva cultura i ajudar-lo a formar el seu pensament tot aprenent a situar-la en el corrent de la història i en relació amb altres països.
 
-Atès que coneixerà les obres literàries essencials que han marcat la història de les idees o de les formes, aquesta matèria ha de permetre a l'alumne reforçar la seva autonomia intel·lectual i formarse unes facultats de judici pròpies. Afavoreix també la seva formació personal, ja que nodreix el seu imaginari. En donar-li ocasions de descobrir-se a si mateix i de comprendre millor els altres, contribueix finalment a la constitució d'una cultura personal i compartida.
+Atès que coneixerà les obres literàries essencials que han marcat la història de les idees o de les formes, aquesta matèria ha de permetre a l'alumne reforçar la seva autonomia intel·lectual i formar-se unes facultats de judici pròpies. Afavoreix també la seva formació personal, ja que nodreix el seu imaginari. En donar-li ocasions de descobrir-se a si mateix i de comprendre millor els altres, contribueix finalment a la constitució d'una cultura personal i compartida.
 
 La literatura universal ha de permetre, en efecte, conèixer millor el patrimoni cultural que envolta l'alumne perquè pugui comprendre millor el present a la llum del passat. Les obres literàries que es proposen per a l'estudi es posen en relació amb les expressions artístiques i es confronten amb altres llenguatges, especialment amb el de la imatge.
 
 Tant si es tracta d'adquirir un bagatge cultural, de desenvolupar la seva sensibilitat literària o el seu judici personal, o de reforçar les seves competències en matèria de comunicació, aquesta assignatura ha de respondre a una finalitat doble: procurar a l'alumne un enriquiment en el present i una base per al seu futur.
 
-L'assignatura de literatura universal I i II no està destinada a formar especialistes en literatura sinó que la seva finalitat és que alumnes,que la cursin puguin percebre la riquesa de l'aportació de la literatura en general.
+L'assignatura de literatura universal I i II no està destinada a formar especialistes en literatura sinó que la seva finalitat és que alumnes, que la cursin puguin percebre la riquesa de l'aportació de la literatura en general.
 
 Gràcies a un enfocament històric, aquesta assignatura pot ajudar l'alumne, que sovint té coneixements de diversos àmbits, a trobar els lligams que els uneixen i a donar-los un sentit. Aprendrà a establir els vincles entre la literatura universal i la història de les idees, o entre la història dels fets o política, i les obres literàries. De la mateixa manera, l'estudi dels moviments literaris enriquit amb els documents iconogràfics, permetrà a l'alumne construir la noció de moviment cultural i de percebre els fenòmens d'alternança i de permanència en matèria estètica.
 
@@ -3714,27 +3710,27 @@ Finalment, aquesta assignatura permet a cadascun adquirir un domini millor dels 
 
 #### 3. Competències disciplinàries
 
-- Conèixer les grans corrents de la història de la literatura i la successió dels principals corrents literaris i estètics a Europa.
+1. Conèixer les grans corrents de la història de la literatura i la successió dels principals corrents literaris i estètics a Europa.
 
-- Situar les obres en el seu context.
+2. Situar les obres en el seu context.
 
-- Enriquir la pròpia percepció dels textos pel fet de tenir en compte els contextos històric, social, artístic.
+3. Enriquir la pròpia percepció dels textos pel fet de tenir en compte els contextos històric, social, artístic.
 
-- Comprendre la noció de moviment literari, i construir la noció de moviment cultural a partir de l'enriquiment d'aquest enfocament mitjançant l'establiment de vincles amb l e s altres expressions artístiques.
+4. Comprendre la noció de moviment literari, i construir la noció de moviment cultural a partir de l'enriquiment d'aquest enfocament mitjançant l'establiment de vincles amb les altres expressions artístiques.
 
-- Conèixer les característiques dels moviments literaris i artístics més importants.
+5. Conèixer les característiques dels moviments literaris i artístics més importants.
 
-- Prestar atenció a la gènesi i l'evolució dels gèneres literaris principals.
+6. Prestar atenció a la gènesi i l'evolució dels gèneres literaris principals.
 
-- Reconèixer les tonalitats utilitzades més sovint (lírica, èpica, tràgica o còmica, patètica o irònica…) i vincular-les amb el context i la intenció de l'autor.
+7. Reconèixer les tonalitats utilitzades més sovint (lírica, èpica, tràgica o còmica, patètica o irònica…) i vincular-les amb el context i la intenció de l'autor.
 
-- Descobrir els indicis textuals (llengua, elements culturals, …) que permeten datar els textos.
+8. Descobrir els indicis textuals (llengua, elements culturals, …) que permeten datar els textos.
 
-- Aprofundir en el domini de la llengua i les seves figures d'estil.
+9. Aprofundir en el domini de la llengua i les seves figures d'estil.
 
-- Exercir la reflexió personal mitjançant l'anàlisi dels textos.
+10. Exercir la reflexió personal mitjançant l'anàlisi dels textos.
 
-- Ampliar la cultura literària amb lectures personals.
+11. Ampliar la cultura literària amb lectures personals.
 
 12. Utilitzar els recursos documentals de tot tipus.
 
@@ -3742,47 +3738,47 @@ Finalment, aquesta assignatura permet a cadascun adquirir un domini millor dels 
 
 ##### Continguts conceptuals
 
-###### Reflexió sobre la naturalesa i l'estatut del text literari
+###### I. Reflexió sobre la naturalesa i l'estatut del text literari
 
-- Què és un text literari? Reflexió sobre la noció de literatura enfront les altres formes d'art, els altres textos. Enfocament i evolucions.
+1. Què és un text literari? Reflexió sobre la noció de literatura enfront les altres formes d'art, els altres textos. Enfocament i evolucions.
 
-- Identitat i rol(s) de l'escriptor.
+2. Identitat i rol(s) de l'escriptor.
 
-- Text i temporalitat: el temps de l'escriptura el text i els seus contextos (històric, social, artístic).
+3. Text i temporalitat: el temps de l'escriptura el text i els seus contextos (històric, social, artístic).
 
-- 3.1. El temps de la ficció.
+3.1. El temps de la ficció.
 
-- 3.2. El temps del lector: recepció, comprensió i interpretacions…
+3.2. El temps del lector: recepció, comprensió i interpretacions…
 
-- La complexitat de l'acte d'escriure: l'enunciat / la modelització / el punt de vista, relacions emissor / receptor, l'autor i les seves màscares, l'autor i el seu públic.
+4. La complexitat de l'acte d'escriure: l'enunciat / la modelització / el punt de vista, relacions emissor / receptor, l'autor i les seves màscares, l'autor i el seu públic.
 
-- La noció de moviment literari i cultural.
+5. La noció de moviment literari i cultural.
 
-###### Les formes literàries
+###### II. Les formes literàries
 
-- Els gèneres literaris.
+1. Els gèneres literaris.
 
-- 1.1 Novel·la i narrativa curta, conte, epopeia, poesia, faula, teatre…, les seves característiques i el vocabulari específic.
+1.1 Novel·la i narrativa curta, conte, epopeia, poesia, faula, teatre…, les seves característiques i el vocabulari específic.
 
-- 1.2 Formes i evolució dels tres gèneres principals:
+1.2 Formes i evolució dels tres gèneres principals:
 
-- 1.2.1. la poesia.
+1.2.1. la poesia.
 
-- 1.2.2. la narrativa.
+1.2.2. la narrativa.
 
-- 1.2.3. el teatre …
+1.2.3. el teatre …
 
-- Els tons: tràgic, patètic, còmic, irònic, líric, èpic, fantàstic …
+2. Els tons: tràgic, patètic, còmic, irònic, líric, èpic, fantàstic …
 
-- La noció de mite, de motiu o 'topos': origen, constitució i evolució.
+3. La noció de mite, de motiu o 'topos': origen, constitució i evolució.
 
-- Les eines del llenguatge:
+4. Les eines del llenguatge:
 
 - consolidar les nocions fonamentals d'anàlisi del text i dominar-ne el vocabulari específic.
 
 - les figures d'estil: de les més senzilles a les més subtils.
 
-###### La literatura europea
+###### III. La literatura europea
 
 [[END OF PAGE 41]]
 
@@ -3794,7 +3790,7 @@ Butlletí Oficial del Principat d'Andorra
 
 5389
 
-- Les obres fundadores: un patrimoni doble
+1. Les obres fundadores: un patrimoni doble
 
 - 1.1. L'herència judeocristiana: la Bíblia.
 
@@ -3812,7 +3808,7 @@ Butlletí Oficial del Principat d'Andorra
 
 - L'herència llatina: La comèdia, Virgili i l'epopeia, l'eloqüència.
 
-- De la literatura medieval a l'humanisme
+2. De la literatura medieval a l'humanisme
 
 - 2.1 L'edat mitjana.
 
@@ -3830,11 +3826,11 @@ Butlletí Oficial del Principat d'Andorra
 
 - 2.1.3 Textos i autors:
 
--La chanson de Roland, Cantar del mioCid , Tristany i Isolda de Béroul, Le lai du chèvrefeuille de Marie de France, la Queste del Saint-Graal : el cicle arturià i Chrétien de Troyes, Martorell.
+- La chanson de Roland, Cantar del mio Cid, Tristany i Isolda de Béroul, Le lai du chèvrefeuille de Marie de France, la Queste del Saint-Graal: el cicle arturià i Chrétien de Troyes, Martorell.
 
-- G de Lorris, Le roman de la rose, RamonLlull, Dante : la Divina Comèdia.
+- G de Lorris, Le roman de la rose, Ramon Llull, Dante: la Divina Comèdia.
 
--Le roman de Renart, El Corbacho.
+- Le roman de Renart, El Corbacho.
 
 - March, Rutebeuf, Villon.
 
@@ -3844,15 +3840,15 @@ Butlletí Oficial del Principat d'Andorra
 
 2.2.2 Textos i autors:
 
--els precursors , Boccaccio, el Decameró , Petrarca, Bernat Metge.
+- els precursors, Boccaccio, el Decameró, Petrarca, Bernat Metge.
 
--la recerca humanista : Erasme, Elogi de la follia , More, Utopia, Rabelais, Pantagruel.
+- la recerca humanista: Erasme, Elogi de la follia, More, Utopia, Rabelais, Pantagruel.
 
--el trontoll del món cristià : Machiavel, Luter et Calví, D'Aubigné, les Tragiques , textos sobre la colonització de Montaigne, Bartolomé de las Casas.
+- el trontoll del món cristià: Machiavel, Luter et Calví, D'Aubigné, les Tragiques, textos sobre la colonització de Montaigne, Bartolomé de las Casas.
 
--la renovació de les formes de la llengua : L'Ariosto, Orland furiós , els poetes de la Pléïade -Du Bellay, Ronsard-, Juan Boscán, Luis de Góngora.
+- la renovació de les formes de la llengua: L'Ariosto, Orland furiós, els poetes de la Pléïade -Du Bellay, Ronsard-, Juan Boscán, Luis de Góngora.
 
-- El segle XVII
+3. El segle XVII
 
 - 3.1. Barroc i classicisme.
 
@@ -3862,13 +3858,13 @@ Butlletí Oficial del Principat d'Andorra
 
 - 3.1.3. Autors i textos:
 
-- Cervantes: DonQuixot, Scarron, Tristan L'Hermite.
+- Cervantes: Don Quixot, Scarron, Tristan L'Hermite.
 
 - El segle del teatre : Shakespeare, Calderón, Molière, Racine.
 
 - La reflexió moral : La Fontaine, Mme de Sévigné, La Bruyère.
 
-- El segle XVIII.
+4. El segle XVIII.
 
 - 4.1 El moviment de les llums i el despertar d'una altra sensibilitat.
 
@@ -3882,7 +3878,7 @@ Butlletí Oficial del Principat d'Andorra
 
 - 4.1.3 El descobriment del jo: la novel·la (d'amor, epistolar…), el drama.
 
-- El segle XIX:
+5. El segle XIX:
 
 - 5.1 Del romanticisme al realisme.
 
@@ -3896,13 +3892,13 @@ Butlletí Oficial del Principat d'Andorra
 
 - 5.1.5 El segle de la novel·la: del desplegament de l'imaginari i del jo al realisme.
 
-- Scott, Ivanhoe , les germanes Brontë, (Poe, Hoffmann), Wilde …
+- W. Scott, Ivanhoe, les germanes Brontë, (Poe, Hoffmann), Wilde …
 
 - Dickens, Fontane, Balzac, Flaubert, Stendhal, Galdós.
 
 - el naturalisme: Zola, Pardo Bazán, B. Ibáñez …
 
-- El segle XX.
+6. El segle XX.
 
 - 6.1 Modernitat, Surrealisme i exploracions contemporànies.
 
@@ -3942,7 +3938,7 @@ Núm. 101 - any 19 - 28.11.2007
 
 6.4.3 La literatura marcada per la guerra, poesia de la resistència, literatura dels camps …
 
-###### Una obertura fora d'Europa.
+###### IV. Una obertura fora d'Europa.
 
 - La literatura africana: Ch. Achebe, Things fall Appart . C. Laye, L'enfant noir .
 
@@ -3952,27 +3948,27 @@ Núm. 101 - any 19 - 28.11.2007
 
 ##### Continguts procedimentals
 
-- Lectura personal d'obres literàries, almenys cinc durant el curs, algunes a iniciativa del professor i altres que a elecció de l'alumne.
+1. Lectura personal d'obres literàries, almenys cinc durant el curs, algunes a iniciativa del professor i altres que a elecció de l'alumne.
 
-- Anàlisi de textos sota la direcció del professor on s'ha de donar importància a la contextualització.
+2. Anàlisi de textos sota la direcció del professor on s'ha de donar importància a la contextualització.
 
-- Identificació dels tons literaris i els seus vincles amb el context i la visió de l'autor (utilització de la ironia en períodes de censura…).
+3. Identificació dels tons literaris i els seus vincles amb el context i la visió de l'autor (utilització de la ironia en períodes de censura…).
 
-- Domini de les figures d'estil i identificació dels seus vincles amb el context sociohistòric (la lítote, la hipèrbole…).
+4. Domini de les figures d'estil i identificació dels seus vincles amb el context sociohistòric (la lítote, la hipèrbole…).
 
-- Escriptura d'invenció o de transposició d'un to a l'altre.
+5. Escriptura d'invenció o de transposició d'un to a l'altre.
 
-- Estudi dels vincles entre les obres literàries i artístiques a través de documents iconogràfics, vídeos, visites a museus, pel·lícules ...
+6. Estudi dels vincles entre les obres literàries i artístiques a través de documents iconogràfics, vídeos, visites a museus, pel·lícules ...
 
-- Elaboració per part de l'alumne de notes de lectura.
+7. Elaboració per part de l'alumne de notes de lectura.
 
-- Ressenyes de lectures, espectacles, visites culturals ...
+8. Ressenyes de lectures, espectacles, visites culturals ...
 
-- Utilització dels recursos documentals, especialment les tecnologies de la informació i la comunicació per a l'ensenyament.
+9. Utilització dels recursos documentals, especialment les tecnologies de la informació i la comunicació per a l'ensenyament.
 
-- Treball de recerca autònom. Elaboració d'un dossier (cf. infra).
+10. Treball de recerca autònom. Elaboració d'un dossier (cf. infra).
 
-- Alternança entre el treball individual i el treball col·lectiu: l'alumne confronta la seva intuïció dels textos amb la reacció de l'ensenyant, la dels altres alumnes, amb altres documents.
+11. Alternança entre el treball individual i el treball col·lectiu: l'alumne confronta la seva intuïció dels textos amb la reacció de l'ensenyant, la dels altres alumnes, amb altres documents.
 
 ### Llengua i literatura angleses I i II
 
@@ -4000,7 +3996,7 @@ Aquest alumne estarà format i preparat per a un procés de globalització, i in
 
 D'aquesta manera, l'ensenyament de les llengües s'integra a la resta dels ensenyaments generals i es relaciona amb ells a través d'una interdisciplinarietat raonada o construïda, sempre que sigui possible, en un projecte de formació global de l'alumne, sigui quina sigui la llengua.
 
-Per bé que siguin comunes a totes les llengües, cal insistir molt especialment sobre aquestes exigències quan parlem de la llengua anglesa, una llengua anomenada 'internacional', que no es pot veure reduïda a una eina ensenyada amb una única finalitat vehicular, descontextualitzada i sense cultura. Així doncs, és molt important que l'aprenentatge sigui per a l'alumne l'ocasió de conscienciarse de la molt gran diversitat lingüística i cultural dels móns anglòfons.
+Per bé que siguin comunes a totes les llengües, cal insistir molt especialment sobre aquestes exigències quan parlem de la llengua anglesa, una llengua anomenada 'internacional', que no es pot veure reduïda a una eina ensenyada amb una única finalitat vehicular, descontextualitzada i sense cultura. Així doncs, és molt important que l'aprenentatge sigui per a l'alumne l'ocasió de conscienciar-se de la molt gran diversitat lingüística i cultural dels móns anglòfons.
 
 [[END OF PAGE 43]]
 
@@ -4014,15 +4010,15 @@ Butlletí Oficial del Principat d'Andorra
 
 #### 3. Competències disciplinàries
 
-- Participar en una situació de conversa.
+1. Participar en una situació de conversa.
 
-- Comprendre l'essencial de missatges orals o escrits en una llengua moderna.
+2. Comprendre l'essencial de missatges orals o escrits en una llengua moderna.
 
-- Efectuar un treball interpretatiu que, més enllà del que és explícit, tindrà com objectiu una comprensió de l'implícit.
+3. Efectuar un treball interpretatiu que, més enllà del que és explícit, tindrà com objectiu una comprensió de l'implícit.
 
-- Presentar, formular de nou, explicar o comentar, de manera elaborada, per escrit o oralment, opinions o punts de vista, a partir de documents escrits o orals que comporten una informació o un conjunt d'informacions.
+4. Presentar, formular de nou, explicar o comentar, de manera elaborada, per escrit o oralment, opinions o punts de vista, a partir de documents escrits o orals que comporten una informació o un conjunt d'informacions.
 
-- Defensar diferents punts de vista i opinions, conduir una argumentació.
+5. Defensar diferents punts de vista i opinions, conduir una argumentació.
 
 #### 4. Continguts
 
@@ -4116,7 +4112,7 @@ Es tracta doncs de donar als alumnes un sistema de referències culturals propi 
 
 Primer eix possible: la memòria o tot allò que ha construït la cultura. Les ciutats i els indrets que poden il·lustrar aquest tema: l'imperi britànic (Delhi, Hong Kong), immigració i emigració (Irlanda, Nova York, Liverpool, Sydney)
 
-Possibles suports. Fragments de: True History of the Kelly Gang , de Peter Carey, respecte d'Austràlia; ToTheIsland , de Janet Frame, sobre Nova Zelanda; Fragrant Harbour , de John Lanchester, respecte de Hong Kong; Angela's Ashes , de Franck McCourt, sobre Irlanda; AnInsular Possession , de Timothy Mo, pel que fa a Hong Kong.
+Possibles suports. Fragments de: True History of the Kelly Gang, de Peter Carey, respecte d'Austràlia; To The Island, de Janet Frame, sobre Nova Zelanda; Fragrant Harbour, de John Lanchester, respecte de Hong Kong; Angela's Ashes, de Franck McCourt, sobre Irlanda; An Insular Possession, de Timothy Mo, pel que fa a Hong Kong.
 
 Segon eix possible: els intercanvis. Temes, ciutats, llocs que poden il·lustrar: el comerç, el turisme, el joc (Las Vegas, Atlantic City), els parcs nacionals i d'atracció, la moda (Londres, New York), la indústria del cinema (Hollywood, Bollywood), el món de l'espectacle (West End, Broadway)
 
@@ -4138,13 +4134,13 @@ Suports possibles. Fragments de: I Knew Why the Caged Bird Sings , de Maya Angel
 
 ##### Segon curs
 
-###### Comunicació
+###### 1. Comunicació
 
 ###### 1.1. La comprensió
 
 - 1.1.1. Comprensió oral
 
-Cal continuar l'aprenentatge d'una estratègia de comprensió del significat amb l'objectiu de desenvolupar l'autonomia de l'alumne. Caldrà tenir cura, per tant, de presentar suports accessibles i alhora variats (diàlegs, converses de la vida quotidiana, entrevistes, discussions, ebats, testimoniatges, etc.), en què in -tervinguin diversos interlocutors i accents. La comprensió de l'oral ha de ser objecte d'avaluacions regulars.
+Cal continuar l'aprenentatge d'una estratègia de comprensió del significat amb l'objectiu de desenvolupar l'autonomia de l'alumne. Caldrà tenir cura, per tant, de presentar suports accessibles i alhora variats (diàlegs, converses de la vida quotidiana, entrevistes, discussions, debats, testimoniatges, etc.), en què intervinguin diversos interlocutors i accents. La comprensió de l'oral ha de ser objecte d'avaluacions regulars.
 
 ###### 1.1.2. Comprensió escrita
 
@@ -4170,7 +4166,7 @@ Caldrà desenvolupar l'aproximació contrastiva, aplicada en el primer nivell, p
 
 Després d'haver explorat alguns aspectes determinants de les cultures anglòfones en el nivell anterior, és convenient considerar els lligams entre l'àrea anglòfona i la resta del món. El món angloparlant, en expansió contínua des de l'emergència dels Estats Units en tant que superpotència després de la segona guerra mundial, ha esdevingut encara més important amb l'acceleració de les noves tecnologies de la informació i la comunicació (Internet). Esdevinguda una llengua internacional, l'anglès ja rivalitza en alguns països amb la pròpia llengua nacional, per bé que, en contrapartida, rep aportacions externes que l'enriqueixen i la dinamitzen. Si bé és veritat que s'ha d'ensenyar un anglès estàndard, també cal que els alumnes s'adonin que aquesta llengua es troba en constant evolució.
 
-El domini d'una llengua vehicular és un objectiu essencial, que no és incompatible, però, amb la necessària percepció de l'anglès com a llengua d'una o de diverses cultures. Des d'aquest punt de vista, es poden organitzar les relacions entre els països anglòfons i la resta del món al voltant de dos grans eixos, comacontactes i conflictes de cultures.
+El domini d'una llengua vehicular és un objectiu essencial, que no és incompatible, però, amb la necessària percepció de l'anglès com a llengua d'una o de diverses cultures. Des d'aquest punt de vista, es poden organitzar les relacions entre els països anglòfons i la resta del món al voltant de dos grans eixos, com a contactes i conflictes de cultures.
 
 Els eixos de reflexions i suports que es donen a continuació constitueixen possibles pistes d'explotació i no s'han de tractar, de cap manera, de manera exhaustiva.
 
@@ -4192,7 +4188,7 @@ Butlletí Oficial del Principat d'Andorra
 
 Núm. 101 - any 19 - 28.11.2007
 
-Possibles suports (textos), fragments de: Chinua Achebe, Things Fall Apart ; J.M. Coetzee, Boyhood, Youth ; E.M. Forster, APassage to India ; Graham Greene, The Quiet American ; Henry James, The Europeans ; David Malouf, Remembering Babylon ; VS Naipaul, In a Free State
+Possibles suports (textos), fragments de: Chinua Achebe, Things Fall Apart; J.M. Coetzee, Boyhood, Youth; E.M. Forster, A Passage to India; Graham Greene, The Quiet American; Henry James, The Europeans; David Malouf, Remembering Babylon; VS Naipaul, In a Free State
 
 Possibles suports audiovisuals: documentals de televisió, pel·lícules irlandeses i westerns de John Ford, pel·lícules de Spike Lee, etc.
 
@@ -4242,17 +4238,17 @@ L'objectiu de l'Escola Andorrana és la formació d'un ciutadà amb un màxim de
 
 #### 3. Competències disciplinàries
 
-- Comprendre i ser capaç d'interpretar els nivells explícits i implícits d'un discurs escrit o oral en llengua castellana.
+1. Comprendre i ser capaç d'interpretar els nivells explícits i implícits d'un discurs escrit o oral en llengua castellana.
 
-- Participar a tot tipus de situacions de diàleg i adaptar el lèxic i l'entonació a l'interlocutor i a la pròpia situació comunicativa.
+2. Participar a tot tipus de situacions de diàleg i adaptar el lèxic i l'entonació a l'interlocutor i a la pròpia situació comunicativa.
 
-- Expressar-se oralment i per escrit mitjançant diferents tipus de text, estructurar-los, utilitzar diferents mecanismes lingüístics per dotar-los de coherència i cohesió i adaptar-los a la situació comunicativa.
+3. Expressar-se oralment i per escrit mitjançant diferents tipus de text, estructurar-los, utilitzar diferents mecanismes lingüístics per dotar-los de coherència i cohesió i adaptar-los a la situació comunicativa.
 
-- Llegir, visualitzar i comentar tot tipus de document escrit, oral, audiovisual o gràfic; identificar-ne el tema, evidenciar-ne les característiques formals i estètiques i indicar la complementarietat entre els recursos verbals i no verbals emprats.
+4. Llegir, visualitzar i comentar tot tipus de document escrit, oral, audiovisual o gràfic; identificar-ne el tema, evidenciar-ne les característiques formals i estètiques i indicar la complementarietat entre els recursos verbals i no verbals emprats.
 
-- Relacionar l'obra i l'autor de qualsevol tipus de document escrit, oral, audiovisual o gràfic, amb un context històric, polític, cultural i literari concret.
+5. Relacionar l'obra i l'autor de qualsevol tipus de document escrit, oral, audiovisual o gràfic, amb un context històric, polític, cultural i literari concret.
 
-- Defensar un punt de vista i conduir una argumentació.
+6. Defensar un punt de vista i conduir una argumentació.
 
 [[END OF PAGE 47]]
 
@@ -4264,17 +4260,17 @@ Butlletí Oficial del Principat d'Andorra
 
 5395
 
-- Sintetitzar, tant a l'oral com a l'escrit, diferents tipus de textos formals i indicar-ne les idees principals, secundàries i la intenció comunicativa.
+7. Sintetitzar, tant a l'oral com a l'escrit, diferents tipus de textos formals i indicar-ne les idees principals, secundàries i la intenció comunicativa.
 
-- Aplicar les normes que regulen la gramàtica de la llengua castellana a textos orals i escrits a partir de les regles de morfologia, sintaxi, ortografia, prosòdia, fonètica i fonologia.
+8. Aplicar les normes que regulen la gramàtica de la llengua castellana a textos orals i escrits a partir de les regles de morfologia, sintaxi, ortografia, prosòdia, fonètica i fonologia.
 
-- Classificar cronològicament els períodes més significatius de la història de la llengua castellana i evidenciar els trets fonamentals de cada període i la seva evolució fins a l'actualitat.
+9. Classificar cronològicament els períodes més significatius de la història de la llengua castellana i evidenciar els trets fonamentals de cada període i la seva evolució fins a l'actualitat.
 
-- Documentar-se, tractar la informació de manera crítica i presentar-la amb mitjans tradicionals i amb les noves tecnologies de la informació i la comunicació.
+10. Documentar-se, tractar la informació de manera crítica i presentar-la amb mitjans tradicionals i amb les noves tecnologies de la informació i la comunicació.
 
-- Analitzar el lloc que ocupa la llengua castellana a Andorra, a Europa i en el món, a partir de criteris històrics, econòmics i polítics.
+11. Analitzar el lloc que ocupa la llengua castellana a Andorra, a Europa i en el món, a partir de criteris històrics, econòmics i polítics.
 
-- Relacionar la llengua castellana amb les altres llengües de l'Escola Andorrana.
+12. Relacionar la llengua castellana amb les altres llengües de l'Escola Andorrana.
 
 #### 4. Continguts
 
@@ -4282,115 +4278,115 @@ Butlletí Oficial del Principat d'Andorra
 
 ###### Continguts conceptuals
 
-###### Llengua oral i escrita
+###### I. Llengua oral i escrita
 
-- La comunicació i el llenguatge: situar-se en un context, saber construir el seu pensament, enllaçar significant i significat.
+1. La comunicació i el llenguatge: situar-se en un context, saber construir el seu pensament, enllaçar significant i significat.
 
-- El discurs oral: estudi i producció, adaptació a la situació de comunicació.
+2. El discurs oral: estudi i producció, adaptació a la situació de comunicació.
 
-- Comunicació escrita: anàlisi de produccions i de registres de llengua.
+3. Comunicació escrita: anàlisi de produccions i de registres de llengua.
 
-- Tipologia del discurs: narració, descripció, argumentació, diàleg, etc.
+4. Tipologia del discurs: narració, descripció, argumentació, diàleg, etc.
 
-- Metodologies de l'anàlisi del discurs: lectura, lectura expressiva, esquemes, resums.
+5. Metodologies de l'anàlisi del discurs: lectura, lectura expressiva, esquemes, resums.
 
-###### Reflexió sobre la llengua
+###### II. Reflexió sobre la llengua
 
-- La gramàtica.
+1. La gramàtica.
 
-- 1.1. Text, frase i mot.
+1.1. Text, frase i mot.
 
-- 1.2. Tipus de frases: Les proposicions simples i les proposicions compostes i subordinades.
+1.2. Tipus de frases: Les proposicions simples i les proposicions compostes i subordinades.
 
-- 1.3. Categories gramaticals.
+1.3. Categories gramaticals.
 
-- 1.4. Sintaxi: estructures i funcions.
+1.4. Sintaxi: estructures i funcions.
 
-- Lèxic.
+2. Lèxic.
 
-- 2.1. Estructura del mot: lexema i morfema.
+2.1. Estructura del mot: lexema i morfema.
 
-- 2.2. Derivació i composició.
+2.2. Derivació i composició.
 
-- 2.3. Camps lèxics i semàntics.
+2.3. Camps lèxics i semàntics.
 
-- 2.4. Lèxic i diccionari.
+2.4. Lèxic i diccionari.
 
-- El significat.
+3. El significat.
 
-- L'etimologia: origen dels mots i evolució fonètica, morfològica i semàntica.
+4. L'etimologia: origen dels mots i evolució fonètica, morfològica i semàntica.
 
-- L'ortografia: reflexió metalingüística sobre les particularitats ortogràfiques.
+5. L'ortografia: reflexió metalingüística sobre les particularitats ortogràfiques.
 
-###### Creació i discurs.
+###### III. Creació i discurs.
 
-- La literatura, les arts plàstiques i les creacions audiovisuals en una dimensió estètica i cultural.
+1. La literatura, les arts plàstiques i les creacions audiovisuals en una dimensió estètica i cultural.
 
-- Les literatures: literatura de l'oral, novel·la, novel·les curtes, lírica, la cançó, el teatre, el periodisme, el cinema; estructures, tècniques, procediments.
+2. Les literatures: literatura de l'oral, novel·la, novel·les curtes, lírica, la cançó, el teatre, el periodisme, el cinema; estructures, tècniques, procediments.
 
-- Estudi diacrònic dels moviments literaris a Espanya i de la seva història:
+3. Estudi diacrònic dels moviments literaris a Espanya i de la seva història:
 
-- L'Espanya de les tres religions, l'edat mitjana (romances, Poema del Mío Cid, textos del Califat de Còrdova).
+a. L'Espanya de les tres religions, l'edat mitjana (romances, Poema del Mío Cid, textos del Califat de Còrdova).
 
-- La novel·la picaresca del segle XVI (El Lazarillo de Tormes, Fernando de Rojas).
+b. La novel·la picaresca del segle XVI (El Lazarillo de Tormes, Fernando de Rojas).
 
-- La novel·la moderna (Don Quijote de la Mancha, Don Miguel de Cervantes).
+c. La novel·la moderna (Don Quijote de la Mancha, Don Miguel de Cervantes).
 
-- El teatre i la poesia del Segle d'or castellà (Lope de Vega, Don Luís de Góngora, Quevedo, Calderón de la Barca).
+d. El teatre i la poesia del Segle d'or castellà (Lope de Vega, Don Luís de Góngora, Quevedo, Calderón de la Barca).
 
-- Tècniques de comentari, d'anàlisi de suports artístics, literaris, iconogràfics, pictòrics, periodístics, audiovisuals.
+4. Tècniques de comentari, d'anàlisi de suports artístics, literaris, iconogràfics, pictòrics, periodístics, audiovisuals.
 
-###### Usos de la llengua
+###### IV. Usos de la llengua
 
-- Els registres de llengua.
+1. Els registres de llengua.
 
-- El lloc de la llengua espanyola en el món.
+2. El lloc de la llengua espanyola en el món.
 
-- Els usos de la llengua en els diferents països hispanoparlants.
+3. Els usos de la llengua en els diferents països hispanoparlants.
 
-- La tipologia dels discursos: literatura, administració, llengua del carrer.
+4. La tipologia dels discursos: literatura, administració, llengua del carrer.
 
 ###### Continguts procedimentals
 
-- Recollida i tractament de les informacions a partir de fonts escrites i orals, de documents audiovisuals i informàtics.
+1. Recollida i tractament de les informacions a partir de fonts escrites i orals, de documents audiovisuals i informàtics.
 
-- Lectura expressiva de textos de diversos tipus.
+2. Lectura expressiva de textos de diversos tipus.
 
-- Anàlisi del discurs oral.
+3. Anàlisi del discurs oral.
 
-- Anàlisi de textos escrits.
+4. Anàlisi de textos escrits.
 
-- Tècniques de l'exposició oral a partir de diversos tipus de documents.
+5. Tècniques de l'exposició oral a partir de diversos tipus de documents.
 
-- Comentari de text.
+6. Comentari de text.
 
-- Producció i expressió de discursos orals.
+7. Producció i expressió de discursos orals.
 
-- Redacció i expressió de textos escrits.
+8. Redacció i expressió de textos escrits.
 
-- Correcció de textos escrits i orals (paginació, entonació, tria de lèxic, morfosintaxi).
+9. Correcció de textos escrits i orals (paginació, entonació, tria de lèxic, morfosintaxi).
 
-- Estudi de la llengua castellana en la seva dimensió lingüística respecte de les altres llengües estudiades.
+10. Estudi de la llengua castellana en la seva dimensió lingüística respecte de les altres llengües estudiades.
 
-- Estudi del lloc que ocupa la llengua castellana al Principat d'Andorra.
+11. Estudi del lloc que ocupa la llengua castellana al Principat d'Andorra.
 
-- Lectura d'autors espanyols de la llista de temes i autors que es dóna a continuació.
+12. Lectura d'autors espanyols de la llista de temes i autors que es dóna a continuació.
 
-- Treball a partir d'obres fílmiques.
+13. Treball a partir d'obres fílmiques.
 
-- Treball a partir de traduccions d'obres literàries.
+14. Treball a partir de traduccions d'obres literàries.
 
-- Treball sobre formes artístiques contemporànies i clàssiques (pintura, cançons).
+15. Treball sobre formes artístiques contemporànies i clàssiques (pintura, cançons).
 
 ##### Segon curs
 
 ###### Continguts conceptuals
 
-###### Llengua oral i escrita
+###### I. Llengua oral i escrita
 
-- Comunicació a l'oral i a l'escrit.
+1. Comunicació a l'oral i a l'escrit.
 
-- Tècnica del resum, del comentari, de la traducció, traducció directa i traducció inversa, del comentari comparat, eventualment introducció a l'exercici de la dissertació per als alumnes que hagin escollit la branca
+2. Tècnica del resum, del comentari, de la traducció, traducció directa i traducció inversa, del comentari comparat, eventualment introducció a l'exercici de la dissertació per als alumnes que hagin escollit la branca
 
 [[END OF PAGE 48]]
 
@@ -4404,117 +4400,117 @@ Núm. 101 - any 19 - 28.11.2007
 
 de lletres i vulguin cursar estudis literaris a França.
 
-###### Reflexió sobre la llengua
+###### II. Reflexió sobre la llengua
 
-- Història de la llengua.
+1. Història de la llengua.
 
-- Fonologia.
+2. Fonologia.
 
-- 2.1 . Conceptes generals de fonologia i fonètica. La síl·laba.
+2.1 . Conceptes generals de fonologia i fonètica. La síl·laba.
 
-- 2.2 . El sistema vocàlic - tònic i àton - i el sistema consonàntic.
+2.2 . El sistema vocàlic - tònic i àton - i el sistema consonàntic.
 
-- 2.3 . Fenòmens de contacte vocàlic i consonàntic.
+2.3 . Fenòmens de contacte vocàlic i consonàntic.
 
-- 3 Gramàtica.
+3 Gramàtica.
 
-- 3.1 . Estructura del text: els connectors.
+3.1 . Estructura del text: els connectors.
 
-- 3.2 . Frase composta: juxtaposició, coordinació i subordinació.
+3.2 . Frase composta: juxtaposició, coordinació i subordinació.
 
-- 4 Lèxic.
+4 Lèxic.
 
-- 4.1 . Relacions per al significat: polisèmia i homonímia, sinonímia i antonímia, hiperònim i hipònim.
+4.1 . Relacions per al significat: polisèmia i homonímia, sinonímia i antonímia, hiperònim i hipònim.
 
-- 4.2 . Formació del lèxic: mots vulgars, mots cultes.
+4.2 . Formació del lèxic: mots vulgars, mots cultes.
 
-- 4.3 . Locucions i frases fetes.
+4.3 . Locucions i frases fetes.
 
-- Comunicació no verbal i dimensió intercultural.
+5. Comunicació no verbal i dimensió intercultural.
 
-###### Discurs literari i artístic.
+###### III. Discurs literari i artístic.
 
-- La literatura, les arts plàstiques, la pintura i el cinema en la seva dimensió de comunicació, des d'un punt de vista estètic i cultural.
+1. La literatura, les arts plàstiques, la pintura i el cinema en la seva dimensió de comunicació, des d'un punt de vista estètic i cultural.
 
-- Història i caracterització dels moviments i dels corrents artístics espanyols.
+2. Història i caracterització dels moviments i dels corrents artístics espanyols.
 
-- Estudi diacrònic dels moviments literaris a Espanya i Llatinoamèrica i de la seva història:
+3. Estudi diacrònic dels moviments literaris a Espanya i Llatinoamèrica i de la seva història:
 
-- 3.1 . Espanya.
+3.1 . Espanya.
 
-- La literatura del segle XVIII (Jovellanos, Fernando de Moratín).
+a. La literatura del segle XVIII (Jovellanos, Fernando de Moratín).
 
-- Espanya i el romanticisme (Bécquer).
+b. Espanya i el romanticisme (Bécquer).
 
-- La generació del 98 (Unamuno, Azorín).
+c. La generació del 98 (Unamuno, Azorín).
 
-- La generació del 27 (Salinas, Lorca, Guillén, Hernández, Alberti, Aleixandre).
+d. La generació del 27 (Salinas, Lorca, Guillén, Hernández, Alberti, Aleixandre).
 
-- El teatre i la novel·la contemporània abans de la transició (Goytisolo, Marsé, Delibes, Cela)
+e. El teatre i la novel·la contemporània abans de la transició (Goytisolo, Marsé, Delibes, Cela)
 
-- El teatre i la novel·la actual (Torrente Ballester, Gala, Pérez Reverte, Muñoz Molina).
+f. El teatre i la novel·la actual (Torrente Ballester, Gala, Pérez Reverte, Muñoz Molina).
 
-- 3.2 . Llatinoamèrica.
+3.2 . Llatinoamèrica.
 
-- El modernisme (Rubén Darío (Nicaragua)), els pares fundadors de la literatura Hispanoamericana (Gabriela Mistral (Xile)).
+a. El modernisme (Rubén Darío (Nicaragua)), els pares fundadors de la literatura Hispanoamericana (Gabriela Mistral (Xile)).
 
 b. Les relacions entre l'ésser humà i la naturalesa (Horacio Quiroga (Uruguai), Rómulo Gallegos (Veneçuela)).
 
-- El real meravellós (Miguel Angel Asturias (Guatemala), Alejo Carpentier (Cuba)).
+c. El real meravellós (Miguel Angel Asturias (Guatemala), Alejo Carpentier (Cuba)).
 
-- El real transfigurat (García Márquez (Colòmbia)).
+d. El real transfigurat (García Márquez (Colòmbia)).
 
-- L'indigenisme (José María Arguedas (Perú)).
+e. L'indigenisme (José María Arguedas (Perú)).
 
-- La poesia compromesa (Nicolás Guillén (Cuba), Pablo Neruda (Xile)).
+f. La poesia compromesa (Nicolás Guillén (Cuba), Pablo Neruda (Xile)).
 
-- El teatre i la novel·la actual (Isabel Allende (Perú)).
+g. El teatre i la novel·la actual (Isabel Allende (Perú)).
 
-- Estructura, tècniques, elements d'estil i de retòrica.
+4. Estructura, tècniques, elements d'estil i de retòrica.
 
-- Comentari i expressió.
+5. Comentari i expressió.
 
-###### Usos de la llengua.
+###### IV. Usos de la llengua.
 
-- Coneixement dels diferents accents respecte de la norma lingüística del castellà.
+1. Coneixement dels diferents accents respecte de la norma lingüística del castellà.
 
 ###### Continguts procedimentals
 
-- Comprensió i lectura expressiva de textos periodístics i literaris.
+1. Comprensió i lectura expressiva de textos periodístics i literaris.
 
-- Comprensió de formes orals de discurs.
+2. Comprensió de formes orals de discurs.
 
-- Recollida i tractament de diferents fonts d'informació en llengua espanyola.
+3. Recollida i tractament de diferents fonts d'informació en llengua espanyola.
 
-- Utilització de les eines informàtiques i de totes les noves tecnologies.
+4. Utilització de les eines informàtiques i de totes les noves tecnologies.
 
-- Reproducció d'un missatge oral segons un model.
+5. Reproducció d'un missatge oral segons un model.
 
-- Reproducció d'un text escrit segons un model.
+6. Reproducció d'un text escrit segons un model.
 
-- Redacció de textos escrits.
+7. Redacció de textos escrits.
 
-- Lectura d'obres literàries (vegeu llista en annex).
+8. Lectura d'obres literàries (vegeu llista en annex).
 
-- Caracterització de gèneres literaris.
+9. Caracterització de gèneres literaris.
 
 10. Treball a partir d'adaptacions cinematogràfiques d'obres literàries.
 
-- Treball sobre fragments d'obres o de les obres lligades a gèneres i a moviments artístics precisos, en interdisciplinarietat amb les altres llengües.
+11. Treball sobre fragments d'obres o de les obres lligades a gèneres i a moviments artístics precisos, en interdisciplinarietat amb les altres llengües.
 
-- Comentari i anàlisi del text literari en relació amb el context de producció.
+12. Comentari i anàlisi del text literari en relació amb el context de producció.
 
-- Producció adequada de textos escrits, de produccions àudio, audiovisuals, de documents destinats a Internet.
+13. Producció adequada de textos escrits, de produccions àudio, audiovisuals, de documents destinats a Internet.
 
-- Identificació de funcionalitats lingüístiques.
+14. Identificació de funcionalitats lingüístiques.
 
-- Anàlisi sintàctica de la frase i els seus components.
+15. Anàlisi sintàctica de la frase i els seus components.
 
-- Identificació oral i escrita de normes i les seves variants.
+16. Identificació oral i escrita de normes i les seves variants.
 
-- Pràctica de la traducció inversa i de la traducció directa gramatical.
+17. Pràctica de la traducció inversa i de la traducció directa gramatical.
 
-- Comprensió institucional, sociolingüística i psicolingüística d'una societat multicultural i plurilingüe a partir de l'exemple andorrà i del lloc que l'espanyol ocupa a Andorra.
+18. Comprensió institucional, sociolingüística i psicolingüística d'una societat multicultural i plurilingüe a partir de l'exemple andorrà i del lloc que l'espanyol ocupa a Andorra.
 
 ### Llengua i literatura catalanes I i II
 
@@ -4538,11 +4534,15 @@ Aquest objectiu general s'assoleix aprofundint i ampliant els coneixements ling�
 
 A través de l'accés a textos i documents de naturalesa i origen diversos, mitjançant la utilització d'instruments, tècniques i recursos diversos, l'assignatura de llengua i literatura catalanes ha de dur l'alumne a:
 
--comprendre profundament tota mena de discurs, i - avaluar-los de manera crítica
+- comprendre profundament tota mena de discurs, i
 
-- expressar i argumentar els seus propis criteris, i - contrastar-los amb els dels altres.
+- avaluar-los de manera crítica
 
-El projecte didàctic multilingüe, el context sociolingüístic del país, la composició pluricultural de la població d'Andorra, han de recolzar la llengua i la cultura del país, a través de l'assignatura de llengua i literatura catalanes , en el seu paper de referència per als alumnes de l'últim nivell educatiu de l'Escola Andorrana.
+- expressar i argumentar els seus propis criteris, i
+
+- contrastar-los amb els dels altres.
+
+El projecte didàctic multilingüe, el context sociolingüístic del país, la composició pluricultural de la població d'Andorra, han de recolzar la llengua i la cultura del país, a través de l'assignatura de llengua i literatura catalanes, en el seu paper de referència per als alumnes de l'últim nivell educatiu de l'Escola Andorrana.
 
 #### 2. Contribució a l'educació per a la ciutadania
 
@@ -4564,7 +4564,7 @@ Entre les competències que s'enumeren a continuació, algunes són generals, at
 
 Per bé que se citin en l'assignatura de llengua i literatura catalanes pel fet de ser estudiades més especialment, les competències que concerneixen la llengua vehicular de l'Escola Andorrana afecten el conjunt de les disciplines i de la vida escolar en llengua catalana. El procediment per adquirir aquestes competències, com també la seva avaluació, no hauria de dependre únicament de l'assignatura de llengua.
 
-- Comprendre el significat literal d'un document com també el seu significat profund i implícit.
+1. Comprendre el significat literal d'un document com també el seu significat profund i implícit.
 
 - identificar el document, el tipus de text.
 
@@ -4574,13 +4574,13 @@ Per bé que se citin en l'assignatura de llengua i literatura catalanes pel fet 
 
 - esquematitzar l'organització d'un document.
 
--justificar el significat implícit i profund, a partir d'elements objectius (formals o contextuals, retòrics) i subjectius vinculats a la recepció.
+- justificar el significat implícit i profund, a partir d'elements objectius (formals o contextuals, retòrics) i subjectius vinculats a la recepció.
 
-- Participar a tot tipus de conversa i discussió; demostrar la seva cortesia en respectar les normes de l'ortoèpia.
+2. Participar a tot tipus de conversa i discussió; demostrar la seva cortesia en respectar les normes de l'ortoèpia.
 
 - fer preguntes durant una comunicació en viu o durant una telecomunicació a distància.
 
--respondre a preguntes durant una comunicació en viu o durant una telecomunicació a distància.
+- respondre a preguntes durant una comunicació en viu o durant una telecomunicació a distància.
 
 - formular opinions.
 
@@ -4590,9 +4590,9 @@ Per bé que se citin en l'assignatura de llengua i literatura catalanes pel fet 
 
 - formular suggeriments, acceptacions, crítiques.
 
--adaptar el nivell de llengua (lèxic, fraseologia, entonació, pauses) a la situació de comunicació.
+- adaptar el nivell de llengua (lèxic, fraseologia, entonació, pauses) a la situació de comunicació.
 
-- Expressar-se oralment i per escrit a través de diferents tipus de discursos, amb fluïdesa, correcció, coherència i en adequació amb les situacions comunicatives.
+3. Expressar-se oralment i per escrit a través de diferents tipus de discursos, amb fluïdesa, correcció, coherència i en adequació amb les situacions comunicatives.
 
 - resumir l'opinió d'una altra persona.
 
@@ -4652,13 +4652,13 @@ Núm. 101 - any 19 - 28.11.2007
 
 - presentar de manera organitzada el resultat d'aquesta comparació; apreciar el grau d'originalitat de l'obra analitzada.
 
-6. Adoptar una actitud receptiva i oberta davant de les manifestacions literàries, culturals i artístiques, i apreciarne l'abast humanístic i la capacitat per representar el món exterior.
+6. Adoptar una actitud receptiva i oberta davant de les manifestacions literàries, culturals i artístiques, i apreciar-ne l'abast humanístic i la capacitat per representar el món exterior.
 
 - reunir les dades objectives de la manifestació literària, cultural o artística (utilització del paratext, de fulletons de presentació, etc.) i exposar-les de manera escrita o oral.
 
 -situar, descriure allò que sorprèn, que estranya, que xoca … el que és més familiar, més conegut, més comú.
 
--intercanviar impressions, justificarles a partir dels recursos de l'anàlisi, matisar-les (eventualment) després de l'intercanvi.
+-intercanviar impressions, justificar-les a partir dels recursos de l'anàlisi, matisar-les (eventualment) després de l'intercanvi.
 
 - reunir informacions sobre el procediment d'elaboració de la manifestació literària o artística.
 
@@ -4730,7 +4730,7 @@ Butlletí Oficial del Principat d'Andorra
 
 - produir oralment textos argumentals.
 
-- Reunir, seleccionar, tractar la informació amb un esperit crític.
+11. Reunir, seleccionar, tractar la informació amb un esperit crític.
 
 - identificar de manera precisa el tema de la recerca, si cal, dividir-lo en mots clau.
 
@@ -4746,7 +4746,7 @@ Butlletí Oficial del Principat d'Andorra
 
 -contrastar fonts documentals diferents relatives a un mateix tema.
 
-- Utilitzar els processadors informàtics per elaborar i presentar produccions individuals o col·lectives.
+12. Utilitzar els processadors informàtics per elaborar i presentar produccions individuals o col·lectives.
 
 - utilitzar els tractaments de text.
 
@@ -4764,7 +4764,7 @@ Butlletí Oficial del Principat d'Andorra
 
 - realitzar, individualment o en grup, un informe, un cartell o un fresc, una pàgina web, una documentació informatitzada per acompanyar/guiar una exposició oral (PAO); realitzar un diari en grup.
 
-- Reflexionar sobre els components textuals, morfosintàctics, lèxics, semàntics, fonològics, ortogràfics de la llengua catalana, tot comparant-los amb els d'altres llengües presents a l'Escola Andorrana i, eventualment, en el país, amb la finalitat d'accelerar el raonament metalingüístic i millorar les produccions.
+13. Reflexionar sobre els components textuals, morfosintàctics, lèxics, semàntics, fonològics, ortogràfics de la llengua catalana, tot comparant-los amb els d'altres llengües presents a l'Escola Andorrana i, eventualment, en el país, amb la finalitat d'accelerar el raonament metalingüístic i millorar les produccions.
 
 -evidenciar la progressió d'un text mitjançant la identificació dels marcadors i dels connectors.
 
@@ -4788,7 +4788,7 @@ Butlletí Oficial del Principat d'Andorra
 
 - utilitzar, segons les necessitats, diccionaris etimològics, diccionaris històrics de la llengua, diccionaris normatius, diccionaris descriptius, glossaris, llibres de vocabulari i de lèxic especialitzats.
 
-- aproximar-se a la història de la correspondència so- grafia en llengua catalana, i, ocasionalment, comparar-la amb d'altres llengües estudiades o conegudes.
+- aproximar-se a la història de la correspondència so-grafia en llengua catalana, i, ocasionalment, comparar-la amb d'altres llengües estudiades o conegudes.
 
 - adquirir nocions de notació fonètica.
 
@@ -4804,7 +4804,7 @@ Butlletí Oficial del Principat d'Andorra
 
 -estudiar la situació sociolingüística d'Andorra.
 
-- Observar i apreciar la diversitat lingüística i, en especial, reflexionar sobre les interferències entre les llengües en contacte a partir de la realitat de l'entorn.
+17. Observar i apreciar la diversitat lingüística i, en especial, reflexionar sobre les interferències entre les llengües en contacte a partir de la realitat de l'entorn.
 
 [[END OF PAGE 52]]
 
@@ -4836,7 +4836,7 @@ Núm. 101 - any 19 - 28.11.2007
 
 ###### Continguts conceptuals
 
-###### Llengua oral i escrita
+###### 1. Llengua oral i escrita
 
 - 1.1. Comunicació i llenguatge: situació, elements de comunicació i intenció comunicativa; relació entre significant i significat.
 
@@ -4848,7 +4848,7 @@ Núm. 101 - any 19 - 28.11.2007
 
 - 1.5. Tècniques auxiliars per comprendre els discursos: la lectura, la producció oral, el tema, el resum, l'esquema.
 
-###### Reflexió sobre la llengua
+###### 2. Reflexió sobre la llengua
 
 - 2.1. La gramàtica textual.
 
@@ -4862,7 +4862,7 @@ Núm. 101 - any 19 - 28.11.2007
 
 - 2.6. Les convencions ortogràfiques: nocions d'història comparada de l'ortografia, algunes especificitats gràfiques del català.
 
-###### Discurs creatiu
+###### 3. Discurs creatiu
 
 - 3.1. La literatura, les creacions audiovisuals com fenomen de comunicació, estètic i cultural.
 
@@ -4872,7 +4872,7 @@ Núm. 101 - any 19 - 28.11.2007
 
 - 3.4. Tècniques auxiliars d'aproximació al discurs creatiu: comentari, seqüenciació, comparació, imitació.
 
-###### Usos de la llengua
+###### 4. Usos de la llengua
 
 - 4.1. La variació lingüística.
 
@@ -4884,45 +4884,45 @@ Núm. 101 - any 19 - 28.11.2007
 
 ###### Continguts procedimentals
 
-- Recull, selecció i tractament de fonts orals, escrites, audiovisuals, informàtiques.
+1. Recull, selecció i tractament de fonts orals, escrites, audiovisuals, informàtiques.
 
-- Lectura expressiva i comprensiva de textos formals i literaris.
+2. Lectura expressiva i comprensiva de textos formals i literaris.
 
-- Interpretació de discursos o missatges orals formals.
+3. Interpretació de discursos o missatges orals formals.
 
-- Interpretació, ampliació, canvi de focalització dels textos escrits formals.
+4. Interpretació, ampliació, canvi de focalització dels textos escrits formals.
 
-- Presentacions orals, amb el recolzament de documents iconogràfics, auditius, multimèdia.
+5. Presentacions orals, amb el recolzament de documents iconogràfics, auditius, multimèdia.
 
-- Anàlisi del text, la frase i els seus elements.
+6. Anàlisi del text, la frase i els seus elements.
 
-- Producció, enregistrament i reproducció eventual de missatges orals formals, utilitzant el model adequat.
+7. Producció, enregistrament i reproducció eventual de missatges orals formals, utilitzant el model adequat.
 
-- Producció de textos escrits de caràcter formal, en el model adequat, amb o sense l'ajut d'eines informàtiques.
+8. Producció de textos escrits de caràcter formal, en el model adequat, amb o sense l'ajut d'eines informàtiques.
 
-- Correcció de textos escrits i discursos orals amb normes de paginació i ortografia (en l'escrit), d'entonació (en l'oral), de lèxic, de morfosintaxi.
+9. Correcció de textos escrits i discursos orals amb normes de paginació i ortografia (en l'escrit), d'entonació (en l'oral), de lèxic, de morfosintaxi.
 
-- Confrontació dels conceptes lingüístics amb els d'altres llengües estudiades o presents en l'entorn.
+10. Confrontació dels conceptes lingüístics amb els d'altres llengües estudiades o presents en l'entorn.
 
-- Anàlisi de la situació de la llengua catalana a Andorra.
+11. Anàlisi de la situació de la llengua catalana a Andorra.
 
-- Realització i buidat d'enquestes de tipus dialectològic i sociolingüístic.
+12. Realització i buidat d'enquestes de tipus dialectològic i sociolingüístic.
 
-- Lectura guiada d'autors actuals de la llengua catalana, en especial autors andorrans i audició de cançons
+13. Lectura guiada d'autors actuals de la llengua catalana, en especial autors andorrans i audició de cançons
 
-- Lectura personal d'obres actuals en català o d'adaptacions d'obres antigues (recull de narracions, d'articles, de poemes, de cançons).
+14. Lectura personal d'obres actuals en català o d'adaptacions d'obres antigues (recull de narracions, d'articles, de poemes, de cançons).
 
-- Veure i analitzar obres cinematogràfiques adaptades de la literatura.
+15. Veure i analitzar obres cinematogràfiques adaptades de la literatura.
 
-- Lectura d'autors actuals universals (en especial en les llengües no estudiades a l'Escola Andorrana) traduïdes al català.
+16. Lectura d'autors actuals universals (en especial en les llengües no estudiades a l'Escola Andorrana) traduïdes al català.
 
-- Visualització de la totalitat o de fragments de pel·lícules catalanes o de pel·lícules doblades al català.
+17. Visualització de la totalitat o de fragments de pel·lícules catalanes o de pel·lícules doblades al català.
 
-- Anàlisi i interpretació de textos literaris, cançons, pel·lícules, tenint en compte els contextos en què se situen.
+18. Anàlisi i interpretació de textos literaris, cançons, pel·lícules, tenint en compte els contextos en què se situen.
 
-- Producció de textos literaris / creatius, de documents àudio o multimèdia, d'acord amb les estructures del gènere, amb les tècniques i els recursos corresponents.
+19. Producció de textos literaris / creatius, de documents àudio o multimèdia, d'acord amb les estructures del gènere, amb les tècniques i els recursos corresponents.
 
-- Anàlisi i producció d'exposicions orals argumentades: enunciat del problema, introducció, il·lustració del desenvolupament, conclusió, connexions lògiques.
+20. Anàlisi i producció d'exposicions orals argumentades: enunciat del problema, introducció, il·lustració del desenvolupament, conclusió, connexions lògiques.
 
 [[END OF PAGE 53]]
 
@@ -4942,13 +4942,13 @@ Butlletí Oficial del Principat d'Andorra
 
 ###### Continguts conceptuals
 
-###### Llengua oral i escrita
+###### 1. Llengua oral i escrita
 
 - 1.1. Comunicació escrita i oral, el discurs, el text.
 
 - 1.2. Tècniques auxiliars: el resum, l'esquema, l'estructura, el comentari crític, la transposició, la traducció, la comparació.
 
-###### Reflexió sobre la llengua
+###### 2. Reflexió sobre la llengua
 
 - 2.1. Variants geolingüístiques.
 
@@ -4964,7 +4964,7 @@ Butlletí Oficial del Principat d'Andorra
 
 - 2.7. La comunicació no verbal la seva dimensió intercultural.
 
-###### Discurs literari i cinematogràfic
+###### 3. Discurs literari i cinematogràfic
 
 - 3.1. La literatura i el cinema com a fenomen de comunicació, estètic i cultural.
 
@@ -4974,11 +4974,9 @@ Butlletí Oficial del Principat d'Andorra
 
 - 3.4. Comentari literari, comparació d'obres (cinema i literatura en especial), estudis monogràfics, sinopsis diacròniques i sincròniques.
 
-- 3.5. Aproximació a la literatura oral, dels gèneres populars i del seu naixement fins als nostres dies, en la litera-
+- 3.5. Aproximació a la literatura oral, dels gèneres populars i del seu naixement fins als nostres dies, en la literatura (en especial la literatura andorrana), el cinema…
 
-tura (en especial la literatura andorrana), el cinema…
-
-###### Usos de la llengua
+###### 4. Usos de la llengua
 
 - 4.1. La variació lingüística: dialectes i registres.
 
@@ -4992,25 +4990,25 @@ tura (en especial la literatura andorrana), el cinema…
 
 ###### Continguts procedimentals
 
-- Comprensió i lectura expressiva de textos formals i literaris.
+1. Comprensió i lectura expressiva de textos formals i literaris.
 
-- Interpretació de discursos o missatges orals formals.
+2. Interpretació de discursos o missatges orals formals.
 
-- Explicitació i resum de discursos orals i escrits.
+3. Explicitació i resum de discursos orals i escrits.
 
-- Recull de textos en fonts i llengües diverses, selecció, tractament de la informació manualment i amb mitjans informàtics.
+4. Recull de textos en fonts i llengües diverses, selecció, tractament de la informació manualment i amb mitjans informàtics.
 
-- Producció de missatges orals, formals, segons els estàndards.
+5. Producció de missatges orals, formals, segons els estàndards.
 
 6. Producció de textos escrits de caràcter formal, segons els estàndards.
 
-- Producció, paginació, correcció de textos escrits, amb les eines tradicionals i informàtiques.
+7. Producció, paginació, correcció de textos escrits, amb les eines tradicionals i informàtiques.
 
-- Lectura d'obres, fragments d'obres, adaptacions d'obres d'autors catalans des dels orígens fins al segle XIX.
+8. Lectura d'obres, fragments d'obres, adaptacions d'obres d'autors catalans des dels orígens fins al segle XIX.
 
-- Lectura i audició de produccions de la literatura popular, en especial de l'andorrana.
+9. Lectura i audició de produccions de la literatura popular, en especial de l'andorrana.
 
-- Lectura de produccions literàries andorranes o que parlin d'Andorra, relacionades amb la literatura oral i el període que s'estipula al punt 8.
+10. Lectura de produccions literàries andorranes o que parlin d'Andorra, relacionades amb la literatura oral i el període que s'estipula al punt 8.
 
 11. Lectura d'obres completes o fragments, que corresponguin als gèneres i als períodes que s'estipulen en els punts 8 i 10, llegir literatures estrangeres traduïdes a la llengua catalana.
 
@@ -5020,7 +5018,7 @@ tura (en especial la literatura andorrana), el cinema…
 
 14. Producció de textos literaris, documents àudio, audiovisuals, pàgines Internet, d'acord amb les estructures del gènere, els recursos lingüístics, estilístics i retòrics corresponents.
 
-- Identificació d'unitats lingüístiques, les seves funcions i les seves relacions.
+15. Identificació d'unitats lingüístiques, les seves funcions i les seves relacions.
 
 16. Anàlisi de la frase i els seus elements.
 
@@ -5028,9 +5026,9 @@ tura (en especial la literatura andorrana), el cinema…
 
 18. Pràctica i anàlisi de la traducció al o del català.
 
-- Aproximació contrastiva dels conceptes lingüístics, entre el català i les altres llengües estudiades a l'Escola Andorrana o presents al si de la població.
+19. Aproximació contrastiva dels conceptes lingüístics, entre el català i les altres llengües estudiades a l'Escola Andorrana o presents al si de la població.
 
-- Aproximació institucional, sociolingüística i psicolingüística d'una societat multilingüe i pluricultural partint de l'exemple andorrà.
+20. Aproximació institucional, sociolingüística i psicolingüística d'una societat multilingüe i pluricultural partint de l'exemple andorrà.
 
 ### Llengua i literatura franceses I i II
 
@@ -5038,7 +5036,7 @@ tura (en especial la literatura andorrana), el cinema…
 
 L'ensenyament de l'assignatura de llengua i literatura franceses I i II que s'imparteix a batxillerat, participa a les finalitats generals de l'educació i pretén que l'alumne pugui adquirir un major domini de la llengua, descobrir o aprofundir en la literatura en llengua francesa, ampliar la seva cultura i, alhora, ajudar-lo a construir el seu pensament.
 
-L'ensenyament de la llengua i la literatura franceses ha de permetre a l'alumne adquirir una autonomia, tant lingüística comintel·lectual, per poder abordar amb profit i benefici, documents d'àmbit divers i exercir les seves facultats de judici gràcies a una llengua rica i variada. També contribueix a formar una cultura a través de la lectura de textos de tota mena i, en especial, d'obres literàries de les quals extreu el significat.
+L'ensenyament de la llengua i la literatura franceses ha de permetre a l'alumne adquirir una autonomia, tant lingüística com intel·lectual, per poder abordar amb profit i benefici, documents d'àmbit divers i exercir les seves facultats de judici gràcies a una llengua rica i variada. També contribueix a formar una cultura a través de la lectura de textos de tota mena i, en especial, d'obres literàries de les quals extreu el significat.
 
 [[END OF PAGE 54]]
 
@@ -5066,7 +5064,7 @@ En tractar-se d'una assignatura que es complementa amb d'altres ensenyaments imp
 
 Alguns d'aquests alumnes continuaran els seus estudis universitaris a França. Per a aquests, és important que en finalitzar els seus estudis secundaris, tinguin un coneixement aprofundit de la llengua i la cultura franceses i que l'Escola Andorrana els doni la possibilitat de familiaritzar-se amb una aproximació a la literatura i els tipus d'anàlisis i exercicis que es practiquen a l'altre costat dels Pirineus. En definitiva, aquest ensenyament pot participar realment en una millor integració dels alumnes al món laboral i/o als estudis universitaris.
 
-Per poder respondre a aquests objectius, sembla essencial no compartimentar l'aproximació dels diversos àmbits d'expressió -literatura, llengua, arts-, diversificar els suports proposats per a aquest ensenyament -textos literaris o no, documents iconogràfics, vídeos, pel·lícules i també, però, centrar les diverses activitats de classe ? la lectura, l'escriptura, l'oral i el treball sobre la llengua ¯ al voltant d'un mateix objecte d'estudi: tema, genere o corrent literari.
+Per poder respondre a aquests objectius, sembla essencial no compartimentar l'aproximació dels diversos àmbits d'expressió –literatura, llengua, arts–, diversificar els suports proposats per a aquest ensenyament –textos literaris o no, documents iconogràfics, vídeos, pel·lícules i també, però, centrar les diverses activitats de classe – la lectura, l'escriptura, l'oral i el treball sobre la llengua – al voltant d'un mateix objecte d'estudi: tema, genere o corrent literari.
 
 D'aquesta manera, tant l'estudi de la llengua i la literatura com el descobriment de la cultura francesa en els seus aspectes més diversos, contribuiran a desenvolupar les competències dels alumnes des del punt de vista de la qualitat de la seva expressió, la seva maduresa intel·lectual, el seu enriquiment cultural i el desenvolupament de la seva creativitat.
 
@@ -5074,11 +5072,11 @@ D'aquesta manera, tant l'estudi de la llengua i la literatura com el descobrimen
 
 Des d'aquestes perspectives, l'ensenyament de la llengua i la literatura franceses contribueix a conscienciar l'alumne i fer desenvolupi valors i actituds essencials per a la seva educació com a ciutadà.
 
-Aquest ensenyament contribueix a la seva obertura intel·lectual a través de l'interès i la curiositat que suscita en ell una altra cultura, i gràcies a la comprensió que permet de les manifestacions literàries i artístiques d'una civilització. Així, afavoreix el desenvolupament de la seva sensibilitat i el reconeixement dels lligams que hi ha entre les diverses expressions d'aquesta cultura: tipus de vida, literatura, altres arts. A través del contacte privilegiat que estableix amb la literatura, l'alumne descobreix la importància del contacte amb les obres com a font d'enriquiment personal i el rigor necessari per comprendre els textos. Aleshores, comprèn millor com l'estudi dels contextos ? històric, sociocultural ? ajuda a comprendre una obra a fons. Per copsar aquests diversos àmbits, desenvolupa el seu esperit crític i la seva creativitat, sobretot amb la utilització de les diverses fonts d'informació i de les noves tecnologies.
+Aquest ensenyament contribueix a la seva obertura intel·lectual a través de l'interès i la curiositat que suscita en ell una altra cultura, i gràcies a la comprensió que permet de les manifestacions literàries i artístiques d'una civilització. Així, afavoreix el desenvolupament de la seva sensibilitat i el reconeixement dels lligams que hi ha entre les diverses expressions d'aquesta cultura: tipus de vida, literatura, altres arts. A través del contacte privilegiat que estableix amb la literatura, l'alumne descobreix la importància del contacte amb les obres com a font d'enriquiment personal i el rigor necessari per comprendre els textos. Aleshores, comprèn millor com l'estudi dels contextos – històric, sociocultural – ajuda a comprendre una obra a fons. Per copsar aquests diversos àmbits, desenvolupa el seu esperit crític i la seva creativitat, sobretot amb la utilització de les diverses fonts d'informació i de les noves tecnologies.
 
 A través de la confrontació amb d'altres modes de percepció de la realitat, alhora diferents i pròxims, aquest ensenyament contribueix a la descoberta d'un mateix i a la formació per a la vida en societat: Permet a l'alumne prendre consciència dels seus propis valors i de la seva relativitat en el contacte amb d'altres maneres de pensar i viure en societat. També l'ajuda a copsar la diversitat, a través del temps i l'espai, de les expressions humanes i els codis que les regulen. La identificació dels elements culturals que han afaiçonat, al mateix temps, Andorra i França, revela a l'alumne que pertanyen a una cultura comú, i això li permet comprendre millor l'Europa llatina.
 
-També permet a cadascú adquirir un millor domini dels 'instruments' de la comunicació. Mitjançant l'estudi de la llengua francesa ? etimologia, estructures morfosintàctiques ? i les relacions que pot establir amb el català, enriqueix la seva percepció dels fenòmens lingüístics i adquireix eines per poder aprofundir en la comprensió de la seva pròpia llengua i comparar-la amb les llengües romàniques que coneix. Amb l'anàlisi aprofundida dels textos ?retòrica, tonalitats?, i a través de l'exigència d'organització de la seva pròpia expressió, aquest ensenyament ajuda a conscienciar-se sobre la força que té un llenguatge dominat i un discurs construït. Així, desenvolupa la seva capacitat per reflexionar, argumentar i deliberar millor, elements cabdals per a la seva vida personal i la seva participació a la vida de la comunitat.
+També permet a cadascú adquirir un millor domini dels “instruments” de la comunicació. Mitjançant l'estudi de la llengua francesa – etimologia, estructures morfosintàctiques – i les relacions que pot establir amb el català, enriqueix la seva percepció dels fenòmens lingüístics i adquireix eines per poder aprofundir en la comprensió de la seva pròpia llengua i comparar-la amb les llengües romàniques que coneix. Amb l'anàlisi aprofundida dels textos –retòrica, tonalitats–, i a través de l'exigència d'organització de la seva pròpia expressió, aquest ensenyament ajuda a conscienciar-se sobre la força que té un llenguatge dominat i un discurs construït. Així, desenvolupa la seva capacitat per reflexionar, argumentar i deliberar millor, elements cabdals per a la seva vida personal i la seva participació a la vida de la comunitat.
 
 [[END OF PAGE 55]]
 
@@ -5110,69 +5108,69 @@ Els alumnes de la modalitat de Batxillerat humanístic i lingüístic i aquells 
 
 ###### Continguts conceptuals
 
-###### Llengua oral i escrita
+###### I. Llengua oral i escrita
 
-- Llenguatge i comunicació
+1. Llenguatge i comunicació
 
 - situació, elements de comunicació i intencionalitat comunicativa
 
-- Comunicació no lingüística: el gest, la posició corporal, l'entonació, la mirada
+2. Comunicació no lingüística: el gest, la posició corporal, l'entonació, la mirada
 
-- Llengua oral
+3. Llengua oral
 
 - ús espontani i ús planificat
 
-- Tipologies textuals
+4. Tipologies textuals
 
--narració, descripció, exposició, diàleg, injunció, carta
+- narració, descripció, exposició, diàleg, injunció, carta
 
-- L'estudi de l'argumentació
+5. L'estudi de l'argumentació
 
 - la construcció, els connectors lògics
 
-- Tècniques auxiliars
+6. Tècniques auxiliars
 
 - el subjecte, l'esquema i l'estructura
 
-###### Reflexió sobre la llengua
+###### II. Reflexió sobre la llengua
 
-- Sons i fonemes
+1. Sons i fonemes
 
-- Les frases i els seus elements
+2. Les frases i els seus elements
 
-- Lèxic i semàntica: la formació dels mots, origen, famílies de mots. Noció de camp lexical i de camp semàntic
+3. Lèxic i semàntica: la formació dels mots, origen, famílies de mots. Noció de camp lexical i de camp semàntic
 
-- Les convencions ortogràfiques: les concordances simples, els homònims més habituals
+4. Les convencions ortogràfiques: les concordances simples, els homònims més habituals
 
-###### Discurs literari i coneixements culturals
+###### III. Discurs literari i coneixements culturals
 
-- La literatura com a fenomen comunicatiu, estètic i cultural.
+1. La literatura com a fenomen comunicatiu, estètic i cultural.
 
-- Estudi de la noció de moviment literari i cultural.
+2. Estudi de la noció de moviment literari i cultural.
 
-- Les formes literàries: narració, lírica, teatre. Localització dels elements característics. (enunciació, puntuació, jocs de sonoritats, …).
+3. Les formes literàries: narració, lírica, teatre. Localització dels elements característics. (enunciació, puntuació, jocs de sonoritats, …).
 
-- Les tonalitats essencials: còmica, tràgica, èpica, lírica.
+4. Les tonalitats essencials: còmica, tràgica, èpica, lírica.
 
-- Localització de les figures d'estil més freqüents: comparació i metàfora.
+5. Localització de les figures d'estil més freqüents: comparació i metàfora.
 
-- Estudi de cinc conjunts, obres o agrupaments temàtics, representatius de les obres o els corrents literaris i culturals més importants.
+6. Estudi de cinc conjunts, obres o agrupaments temàtics, representatius de les obres o els corrents literaris i culturals més importants.
 
-###### Usos de la llengua
+###### IV. Usos de la llengua
 
-- La llengua estàndard i les seves variants
+1. La llengua estàndard i les seves variants
 
 ###### Continguts procedimentals
 
-- Comprendre textos orals i escrits
+1. Comprendre textos orals i escrits
 
-- Analitzar la frase complexa i els seus elements
+2. Analitzar la frase complexa i els seus elements
 
-- Llegir de manera expressiva textos, representar fragments o escenes de teatre, recitar poemes
+3. Llegir de manera expressiva textos, representar fragments o escenes de teatre, recitar poemes
 
-- Prendre breument la paraula: formular de nou, evocar un succés, informar sobre una obra (llibre, pel·lícula, obra d'art...), presentar un text literari o un document iconogràfic
+4. Prendre breument la paraula: formular de nou, evocar un succés, informar sobre una obra (llibre, pel·lícula, obra d'art...), presentar un text literari o un document iconogràfic
 
-- Produir textos escrits relacionats amb l'objecte d'estudi de la seqüència:
+5. Produir textos escrits relacionats amb l'objecte d'estudi de la seqüència:
 
 [[END OF PAGE 56]]
 
@@ -5186,113 +5184,113 @@ Núm. 101 - any 19 - 28.11.2007
 
 - escrits d'anàlisi o argumentació
 
--escrits funcionals (resum, redacció d'una carta)
+- escrits funcionals (resum, redacció d'una carta)
 
-*escrits més creatius (diàleg de teatre, poema, joc de transposició d'un gènere literari a l'altre, d'una tonalitat a l'altra)
+- *escrits més creatius (diàleg de teatre, poema, joc de transposició d'un gènere literari a l'altre, d'una tonalitat a l'altra)
 
-- Aprenentatge metodològic: la introducció, l'apartat, la conclusió, la presentació d'un document
+6. Aprenentatge metodològic: la introducció, l'apartat, la conclusió, la presentació d'un document
 
-- Aplicar, a les situacions reals, coneixements bàsics sobre els mecanismes de la comunicació, tot tenint en compte les variants lingüístiques emprades i el context sociolingüístic
+7. Aplicar, a les situacions reals, coneixements bàsics sobre els mecanismes de la comunicació, tot tenint en compte les variants lingüístiques emprades i el context sociolingüístic
 
-- Utilitzar instruments i tècniques per seleccionar i interpretar textos literaris.
+8. Utilitzar instruments i tècniques per seleccionar i interpretar textos literaris.
 
-- Lectura, dirigida pel professor, d'obres literàries i fragments restituïts en la cronologia i el seu context
+9. Lectura, dirigida pel professor, d'obres literàries i fragments restituïts en la cronologia i el seu context
 
-- Lectura personal d'obres abordables i més aviat curtes: narracions breus, contes o novel·les curtes, poemes.
+10. Lectura personal d'obres abordables i més aviat curtes: narracions breus, contes o novel·les curtes, poemes.
 
-- Relacionar els textos literaris amb el context històric, social, cultural i artístic.
+11. Relacionar els textos literaris amb el context històric, social, cultural i artístic.
 
-*Identificar la llengua i la seva situació històrica
+12. *Identificar la llengua i la seva situació històrica
 
-*Relacions establertes entre el francès i les llengües estudiades (llatí, català, castellà)
+13. *Relacions establertes entre el francès i les llengües estudiades (llatí, català, castellà)
 
 ##### Segon curs
 
 ###### Continguts conceptuals
 
-###### Llengua oral i escrita
+###### I. Llengua oral i escrita
 
-- Comunicació escrita: el text i les seves característiques: coherència, correcció.
+1. Comunicació escrita: el text i les seves característiques: coherència, correcció.
 
-- Tipologies textuals: argumentació, exposició, diàleg, injunció.
+2. Tipologies textuals: argumentació, exposició, diàleg, injunció.
 
-- Tècniques auxiliars: el resum, l'esquema, la redacció i el comentari crític.
+3. Tècniques auxiliars: el resum, l'esquema, la redacció i el comentari crític.
 
-###### Reflexió sobre la llengua
+###### II. Reflexió sobre la llengua
 
-- Les frases i els seus elements
+1. Les frases i els seus elements
 
-- La frase complexa: coordinació, juxtaposició, subordinació, els connectors lògics
+2. La frase complexa: coordinació, juxtaposició, subordinació, els connectors lògics
 
-- Lèxic i semàntica: definicions i sinònims.
+3. Lèxic i semàntica: definicions i sinònims.
 
-- La correcció ortogràfica: les concordances quan s'utilitza l'auxiliar avoir , els verbs reflexius.
+4. La correcció ortogràfica: les concordances quan s'utilitza l'auxiliar avoir, els verbs reflexius.
 
-* Els lligams entre les llengües romàniques: castellà, català, francès (lèxic, morfologia)
+5. * Els lligams entre les llengües romàniques: castellà, català, francès (lèxic, morfologia)
 
-###### Discurs literari
+###### III. Discurs literari
 
-- Els gèneres literaris: relat, poesia, teatre, la literatura d'idees, biografia/autobiografia
+1. Els gèneres literaris: relat, poesia, teatre, la literatura d'idees, biografia/autobiografia
 
-- Les figures d'estil i els procediments oratoris
+2. Les figures d'estil i els procediments oratoris
 
-- Les tonalitats literàries: èpica, patètica, irònica, polèmica
+3. Les tonalitats literàries: èpica, patètica, irònica, polèmica
 
-- Estudi dels principals moviments literaris i culturals del segle XVI al segle XX, autors i obres significatives
+4. Estudi dels principals moviments literaris i culturals del segle XVI al segle XX, autors i obres significatives
 
-- Comentari literari
+5. Comentari literari
 
-###### Usos de la llengua
+###### IV. Usos de la llengua
 
-- Els llenguatges especialitzats: econòmic, jurídic, científic, anàlisi de la imatge, literari.
+1. Els llenguatges especialitzats: econòmic, jurídic, científic, anàlisi de la imatge, literari.
 
 ###### V. Història de la literatura
 
-- Quadres cronològics
+1. Quadres cronològics
 
-- els principals moviments literaris des del segle XVI al segle XX: l'humanisme, l'edat mitjana, la Pléiade , el barroc, el classicisme, el moviment dels Il·lustrats, el romanticisme, el realisme, el naturalisme, el simbolisme, el surrealisme, l'absurd, el Nouveau roman . (facultatiu: l'edat mitjana)
+- els principals moviments literaris des del segle XVI al segle XX: l'humanisme, l'edat mitjana, la Pléiade, el barroc, el classicisme, el moviment dels Il·lustrats, el romanticisme, el realisme, el naturalisme, el simbolisme, el surrealisme, l'absurd, el Nouveau roman. (facultatiu: l'edat mitjana)
 
 ###### Continguts procedimentals
 
-- Comprendre textos orals i escrits
+1. Comprendre textos orals i escrits
 
-- Distingir els aspectes fonètics distintius d'una llengua
+2. Distingir els aspectes fonètics distintius d'una llengua
 
-- Llegir de manera expressiva textos, representar escenes de teatre o recitar poemes
+3. Llegir de manera expressiva textos, representar escenes de teatre o recitar poemes
 
-- Prendre breument la paraula: formular de nou, evocar un succés, informar sobre una obra (llibre, pel·lícula, obra d'art,...), presentar un text literari o un document iconogràfic
+4. Prendre breument la paraula: formular de nou, evocar un succés, informar sobre una obra (llibre, pel·lícula, obra d'art,...), presentar un text literari o un document iconogràfic
 
-- Produir textos escrits relacionats amb l'objecte d'estudi de la seqüència:
+5. Produir textos escrits relacionats amb l'objecte d'estudi de la seqüència:
 
 - escrits d'anàlisi o argumentació
 
--escrits funcionals (resum, redacció d'una carta)
+- escrits funcionals (resum, redacció d'una carta)
 
-*escrits més creatius (diàleg de teatre, poema, joc de transposició d'un gènere literari a l'altre, d'una tonalitat a l'altra)
+- *escrits més creatius (diàleg de teatre, poema, joc de transposició d'un gènere literari a l'altre, d'una tonalitat a l'altra)
 
-- Aprenentatge metodològic: organitzar un petit discurs argumentat (introducció, desenvolupament sostingut amb exemples precisos, conclusió)
+6. Aprenentatge metodològic: organitzar un petit discurs argumentat (introducció, desenvolupament sostingut amb exemples precisos, conclusió)
 
-- Relació entre textos literaris i context històric, social, cultural i artístic
+7. Relació entre textos literaris i context històric, social, cultural i artístic
 
-- Utilitzar instruments i tècniques per seleccionar i interpretar textos literaris
+8. Utilitzar instruments i tècniques per seleccionar i interpretar textos literaris
 
-- Aplicar, a les situacions reals, coneixements bàsics sobre els mecanismes de la comunicació, tenint en compte les variants lingüístiques emprades i el context sociolingüístic
+9. Aplicar, a les situacions reals, coneixements bàsics sobre els mecanismes de la comunicació, tenint en compte les variants lingüístiques emprades i el context sociolingüístic
 
-- Lectura, dirigida pel professor, de fragments i obres literàries del segle XVI al segle XX. ( l'edat mitjana)
+10. Lectura, dirigida pel professor, de fragments i obres literàries del segle XVI al segle XX. ( l'edat mitjana)
 
-- Analitzar textos i comentar-los.
+11. Analitzar textos i comentar-los.
 
-- Lectura personal d'obres abordables i més aviat curtes: narracions, novel·les, poemes, obres de teatre.
+12. Lectura personal d'obres abordables i més aviat curtes: narracions, novel·les, poemes, obres de teatre.
 
-- Identificar la llengua i la situació històrica
+13. Identificar la llengua i la situació històrica
 
-* Relacions establertes entre el francès i les llengües estudiades (llatí, català, castellà)
+14. * Relacions establertes entre el francès i les llengües estudiades (llatí, català, castellà)
 
 ### Matemàtiques aplicades a les ciències socials I i II
 
 #### 1. Introducció
 
-Una educació científica té com a objectiu situar l'ensenyament de les mat emàtiques en l a seva dimensió epistemològica subratllant la presència de la resolució de problemes - motor del seu desenvolupament - i el de la veritat matemàtica.
+Una educació científica té com a objectiu situar l'ensenyament de les matemàtiques en la seva dimensió epistemològica subratllant la presència de la resolució de problemes - motor del seu desenvolupament - i el de la veritat matemàtica.
 
 Les matemàtiques apareixen massa sovint com un cos d'enunciats sense 'origen', mentre que tenen relació amb unes pràctiques, sovint molt antigues, i que tenen una llarga història com la de l'escriptura, inscrita en la de la humanitat. Cal entendre que el desenvolupament dels coneixements matemàtics es basa en ampliacions successives dels models matemàtics per augmentar els seus camps d'aplicació, i això tant en el desenvolupament individual com en els processos històrics a nivell d'una comunitat. La comparació amb el desenvolupament dels models econòmics pot aportar també un recolzament interessant per als alumnes.
 
@@ -5312,7 +5310,7 @@ La tecnologia es desenvolupa de manera ràpida avui en dia i la qüestió de l'�
 
 #### 2. Contribució a l'educació per a la ciutadania
 
-L'ensenyament de matemàtiques no es limita a l'adquisició de continguts i de mètodes, sinó que també ha d'aportar la seva contribució a l'educació de l'home i del ciutadà. En particular, el desenvolupament dels procediments matemàtics ha de reforçar la formació intel·lectual del ciutadà pel rigor, l'anàlisi crítica, les capacitats d'observació, d'experimentació i d'imaginació, l'anticipació de decisions a través del càlcul i el raonament, les capacitats d'expressió i de comunicació, el debat, l'argumentació, les qualitats d'ordre i de cura en els documents scrits produïts a destinació d'altres alumnes o del professor, i sobretot en la redacció de demostració.
+L'ensenyament de matemàtiques no es limita a l'adquisició de continguts i de mètodes, sinó que també ha d'aportar la seva contribució a l'educació de l'home i del ciutadà. En particular, el desenvolupament dels procediments matemàtics ha de reforçar la formació intel·lectual del ciutadà pel rigor, l'anàlisi crítica, les capacitats d'observació, d'experimentació i d'imaginació, l'anticipació de decisions a través del càlcul i el raonament, les capacitats d'expressió i de comunicació, el debat, l'argumentació, les qualitats d'ordre i de cura en els documents escrits produïts a destinació d'altres alumnes o del professor, i sobretot en la redacció de demostració.
 
 Les matemàtiques també contribueixen a l'enriquiment de l'ús de la llengua per part dels alumnes i de diversos àmbits de representació dels objectes matemàtics, en particular per la pràctica de comunicació amb els altres, del debat i de l'argumentació. És necessari mostrar als alumnes la necessitat d'un llenguatge precís, sense que aquesta exigència sigui considerada com a arbitrària pels alumnes.
 
@@ -5328,15 +5326,15 @@ El ciutadà, a més d'estar confrontat a unes informacions científiques per la 
 
 #### 3. Competències disciplinàries
 
-- Aplicar els grans tipus de raonaments en matemàtiques i entendre què és una demostració matemàtica amb relació a les proves de les altres ciències.
+1. Aplicar els grans tipus de raonaments en matemàtiques i entendre què és una demostració matemàtica amb relació a les proves de les altres ciències.
 
-- Adquirir el domini de les tècniques de càlcul numèric i algebraic sobre els nombres i les expressions algebraiques; saber realitzar correctament una pràctica de càlcul exacte o de càlcul aproximat.
+2. Adquirir el domini de les tècniques de càlcul numèric i algebraic sobre els nombres i les expressions algebraiques; saber realitzar correctament una pràctica de càlcul exacte o de càlcul aproximat.
 
-- Dominar les tècniques algebraiques de resolució d'equacions, d'inequacions i de sistemes d'equacions;
+3. Dominar les tècniques algebraiques de resolució d'equacions, d'inequacions i de sistemes d'equacions;
 
-- Identificar les relacions entre l'aritmètica, l'àlgebra, la geometria i l'anàlisi, i posar-les en relació entre elles per resoldre de manera més pertinent o fàcil els diferents problemes.
+4. Identificar les relacions entre l'aritmètica, l'àlgebra, la geometria i l'anàlisi, i posar-les en relació entre elles per resoldre de manera més pertinent o fàcil els diferents problemes.
 
-- Dominar la lectura de la informació, sobretot la informació amb xifres, la seva crítica argumentada i el seu tractament.
+5. Dominar la lectura de la informació, sobretot la informació amb xifres, la seva crítica argumentada i el seu tractament.
 
 [[END OF PAGE 58]]
 
@@ -5348,17 +5346,17 @@ Butlletí Oficial del Principat d'Andorra
 
 Núm. 101 - any 19 - 28.11.2007
 
-- Triar o canviar de registre de representació (gràfica, quadres, algebraica, etc.) per tractar de manera pertinent i eficaç les dades.
+6. Triar o canviar de registre de representació (gràfica, quadres, algebraica, etc.) per tractar de manera pertinent i eficaç les dades.
 
-- Entendre i aplicar un procediment de modelització per estudiar fenòmens en matemàtiques o en economia.
+7. Entendre i aplicar un procediment de modelització per estudiar fenòmens en matemàtiques o en economia.
 
-- Dominar i utilitzar correctament les eines informàtiques (calculadores, ordinadors, fulls de càlcul, programaris gràfics, càlcul simbòlic, geometria dinàmica) en els diferents blocs del programa.
+8. Dominar i utilitzar correctament les eines informàtiques (calculadores, ordinadors, fulls de càlcul, programaris gràfics, càlcul simbòlic, geometria dinàmica) en els diferents blocs del programa.
 
 #### 4. Continguts
 
 ##### Primer curs
 
-###### Àlgebra
+###### 1. Àlgebra
 
 - 1.1. Polinomis amb una indeterminada: Grau d'un polinomi, arrel d'un polinomi. Operacions amb polinomis. Factorització d'un polinomi.
 
@@ -5382,7 +5380,7 @@ Núm. 101 - any 19 - 28.11.2007
 
 - 1.5. Sistemes d'inequacions lineals amb dues incògnites. Resolució gràfica.
 
-###### Anàlisi: estudi de les funcions
+###### 2. Anàlisi: estudi de les funcions
 
 - 2.1. Generalitats sobre les funcions reals d'una variable real: Definició o representació a partir de diferents formes (definició a partir d'una situació, fórmula, quadres de valors, representació gràfica, calculadores...); Estudi global (conjunt de definició, paritat, periodicitat, variacions, signe, extrem…).
 
@@ -5408,7 +5406,7 @@ Núm. 101 - any 19 - 28.11.2007
 
 - 2.3.5. Aplicació econòmica: Elasticitat d'una magnitud amb relació a una altra.
 
-###### Anàlisi: estudis de les successions
+###### 3. Anàlisi: estudis de les successions
 
 - 3.1. Definicions d'una successió numèrica.
 
@@ -5422,7 +5420,7 @@ Núm. 101 - any 19 - 28.11.2007
 
 - 3.2.1. Càlcul de la suma de 'n' termes consecutius.
 
-- 3.3. Successions convergents, límits infinits (Caldrà evitar tota definició en i N i es donarà solament una idea intuïtiva de la noció de límits).
+- 3.3. Successions convergents, límits infinits (Caldrà evitar tota definició en ε i N i es donarà solament una idea intuïtiva de la noció de límits).
 
 - 3.3.1. Operacions sobre els límits, límit d'una successió aritmètica o geomètrica
 
@@ -5432,9 +5430,9 @@ Núm. 101 - any 19 - 28.11.2007
 
 - 3.4.2. Modelització de situacions que duguin a successions aritmètiques o geomètriques.
 
-- 3.4.3. Estudi de l ' e v o l u c i ó de fenòmens discrets econòmics (capital invertit amb interessos fixes o compostos, préstecs, creixement demogràfic...).
+- 3.4.3. Estudi de l'evolució de fenòmens discrets econòmics (capital invertit amb interessos fixes o compostos, préstecs, creixement demogràfic...).
 
-###### Complements en el pla i en l'espai
+###### 4. Complements en el pla i en l'espai
 
 - 4.1. Vectors del pla i de l'espai: càlcul vectorial elemental (addició, diferèn-
 
@@ -5458,7 +5456,7 @@ cia, producte per un nombre i combinacions lineals de vectors), vectors col·lin
 
 - 4.3.1. Equacions cartesianes d'una recta o d'un pla en l'espai.
 
-###### Percentatges i estadística
+###### 5. Percentatges i estadística
 
 - 5.1. Percentatge com a relació d'una part al tot o relació de dues magnituds.
 
@@ -5478,7 +5476,7 @@ cia, producte per un nombre i combinacions lineals de vectors), vectors col·lin
 
 ##### Segon curs
 
-###### Àlgebra i geometria
+###### 1. Àlgebra i geometria
 
 - 1.1. Resolució de sistemes lineals d'equacions amb i sense paràmetres de diverses variables: mètode de GAUSS.
 
@@ -5498,7 +5496,7 @@ cia, producte per un nombre i combinacions lineals de vectors), vectors col·lin
 
 ###### 1.4. Càlcul matricial
 
-- 1.4.1. Noció de matrius, el cas dels vectorslínies o columnes: operacions, dimensió, Multiplicació d'una matriu per un vector, Multiplicació de dues matrius, exemples d'ús per descriure situacions amb nombroses dades.
+- 1.4.1. Noció de matrius, el cas dels vectors-línies o columnes: operacions, dimensió, Multiplicació d'una matriu per un vector, Multiplicació de dues matrius, exemples d'ús per descriure situacions amb nombroses dades.
 
 - 1.4.2. Aplicació per a la resolució de sistema d'equacions lineals.
 
@@ -5506,7 +5504,7 @@ cia, producte per un nombre i combinacions lineals de vectors), vectors col·lin
 
 - 1.4.4. Càlcul a mà i ús de la calculadora o de l'ordinador (full de càlcul).
 
-###### Anàlisi: funcions
+###### 2. Anàlisi: funcions
 
 - 2.1. Aprofundiments sobre les nocions de límit finit o infinit.
 
@@ -5546,13 +5544,13 @@ contínua sobre un interval I i a i b dues reals en I. Per tot real k comprès e
 
 - 2.4.5. Creixement comparat de les funcions exponencials, potències enteres i logaritmes.
 
-- 2.4.6. Estudi de les funcions del tipus x → In(u(x)) on u és una funció estrictament positiva sobre un interval. Noció de derivada logarítmica. Derivades logarítmiques d'un producte o d'un quocient.
+- 2.4.6. Estudi de les funcions del tipus x → ln(u(x)) on u és una funció estrictament positiva sobre un interval. Noció de derivada logarítmica. Derivades logarítmiques d'un producte o d'un quocient.
 
 2.4.7. Referències semilogarítmiques
 
 - 2.4.8. Aplicació econòmica: Increment mitjà relatiu d'una funció entre dos valors i creixement instantani relatiu en un punt. Estudi de la variació d'una funció en percentatge en funció d'una variació de la variable en percentatge: Elasticitat d'una magnitud amb relació a una altra.
 
-###### Anàlisi: estudi de les successions
+###### 3. Anàlisi: estudi de les successions
 
 - 3.1. Aprofundiment sobre la noció de límit finit o infinit d'una sèrie.
 
@@ -5576,11 +5574,11 @@ Núm. 101 - any 19 - 28.11.2007
 
 - 3.6. Modelització de situacions per successions aritmètiques i geomètriques (interessos simples i composats...) o que hi facin referència.
 
-- 3.7. Exemple d'estudi de successions que verifiquin una relació de recurrència del tipus u B6eB2bB31 = au B6e + b; Exemple de situacions (evolució d'una població, reemborsament de préstec...) modelitzades per unes sèries com aquestes.
+- 3.7. Exemple d'estudi de successions que verifiquin una relació de recurrència del tipus uₙ₊₁ = auₙ + b; Exemple de situacions (evolució d'una població, reemborsament de préstec...) modelitzades per unes sèries com aquestes.
 
-- 3.8. Exemples de successions que verifiquin una relació de recurrència del tipus u B6eB2bB32 = au B6eB2bB31 + bu B6e ; Exemple de situacions modelitzades per unes sèries com aquestes.
+- 3.8. Exemples de successions que verifiquin una relació de recurrència del tipus uₙ₊₂ = auₙ₊₁ + buₙ; Exemple de situacions modelitzades per unes sèries com aquestes.
 
-###### Anàlisi: integral d'una funció contínua sobre un interval
+###### 4. Anàlisi: integral d'una funció contínua sobre un interval
 
 - 4.1. Relació amb àrees.
 
@@ -5600,7 +5598,7 @@ Núm. 101 - any 19 - 28.11.2007
 
 - 4.9. Aplicacions a funcions econòmiques: cost total i cost marginal.
 
-###### Estadística
+###### 5. Estadística
 
 - 5.1. Exemples de sèries estadístiques amb dues variables. Representacions per un núvol de punts, punt mig. Ús eventual de referències semilogarítmiques.
 
@@ -5670,15 +5668,15 @@ El ciutadà, a més d'estar confrontat a unes informacions científiques per la 
 
 #### 3. Competències disciplinàries
 
-- Aplicar els grans tipus de raonaments en matemàtiques i entendre què és una demostració matemàtica amb relació a les proves de les altres ciències.
+1. Aplicar els grans tipus de raonaments en matemàtiques i entendre què és una demostració matemàtica amb relació a les proves de les altres ciències.
 
-- Adquirir el domini de les tècniques de càlcul numèric i algebraic sobre els nombres i les expressions algebraiques; realitzar correctament una pràctica de càlcul exacte o de càlcul aproximat.
+2. Adquirir el domini de les tècniques de càlcul numèric i algebraic sobre els nombres i les expressions algebraiques; realitzar correctament una pràctica de càlcul exacte o de càlcul aproximat.
 
-- Identificar les relacions entre l'aritmètica, l'àlgebra, la geometria i l'anàlisi, i posar-les en relació entre elles per resoldre de manera més pertinent o fàcil els diferents problemes.
+3. Identificar les relacions entre l'aritmètica, l'àlgebra, la geometria i l'anàlisi, i posar-les en relació entre elles per resoldre de manera més pertinent o fàcil els diferents problemes.
 
-- Entendre i aplicar un procediment de modelització per estudiar els fenòmens en matemàtiques o en altres assignatures.
+4. Entendre i aplicar un procediment de modelització per estudiar els fenòmens en matemàtiques o en altres assignatures.
 
-- Dominar i utilitzar correctament les eines informàtiques (calculadores, ordinadors, fulls de càlcul, programaris gràfics, càlcul simbòlic, geometria dinàmica) en els diferents blocs del programa.
+5. Dominar i utilitzar correctament les eines informàtiques (calculadores, ordinadors, fulls de càlcul, programaris gràfics, càlcul simbòlic, geometria dinàmica) en els diferents blocs del programa.
 
 #### 4. Continguts
 
@@ -5702,7 +5700,7 @@ El ciutadà, a més d'estar confrontat a unes informacions científiques per la 
 
 - 1.3. Polinomis de segon grau: càlcul de les arrels, relacions de les sumes i productes de les arrels, aplicació a l'estudi d'una funció polinòmica de segon grau o de tercer, signe d'un trinomi.
 
-###### Anàlisi: estudi de les funcions
+###### 2. Anàlisi: estudi de les funcions
 
 - 2.1. Generalitats sobre les funcions reals d'una variable real: Definició o representació a partir de diferents formes (definició a partir d'una situació, fórmula, quadres de valors, representació gràfica, calculadores...); Estudi global (conjunt de definició, paritat, periodicitat, variacions, signe, extrem…).
 
@@ -5722,7 +5720,7 @@ opció (fórmula, quadre, gràfic…). En particular es tractarà de saber triar
 
 2.2. Estudi de les funcions de referència: les funcions polinòmiques, racionals, trigonomètriques.
 
-2.3. Límit en un punt i continuïtat en un punt; límit a l'infinit: Aplicació a l'estudi local d'una funció, determinació, quan n'hi ha, de les asímptotes verticals, horitzontals, i obliqües (en casos simples). Es tracta essencialment de casos on la funció es pot escriure com a f(x) = ax + b + u(x) on u(x) tendeix cap a 0 quan x tendeix cap a + o -.
+2.3. Límit en un punt i continuïtat en un punt; límit a l'infinit: Aplicació a l'estudi local d'una funció, determinació, quan n'hi ha, de les asímptotes verticals, horitzontals, i obliqües (en casos simples). Es tracta essencialment de casos on la funció es pot escriure com a f(x) = ax + b + u(x) on u(x) tendeix cap a 0 quan x tendeix cap a +∞ o -∞.
 
 2.4. Derivada d'una funció en un punt i sobre un interval.
 
@@ -5734,13 +5732,13 @@ opció (fórmula, quadre, gràfic…). En particular es tractarà de saber triar
 
 - 2.5. Aplicació a problemes d'optimització de magnituds (llargada, àrea, volum, angle...).
 
-###### Anàlisi: estudis de les successions
+###### 3. Anàlisi: estudis de les successions
 
 - 3.1. Definicions d'una successió numèrica.
 
-- 3.1.1. Diferents modes de generacions (funcional u(n) = f(n), per recurrència u = f(u ), tabulacions).
+- 3.1.1. Diferents modes de generacions (funcional u(n) = f(n), per recurrència uₙ₊₁ = f(uₙ), tabulacions).
 
-- B6e B6eB2bB31 3.1.2. Diferents modes de representació i tractament (algebraic, gràfic, quadre de valors).
+- 3.1.2. Diferents modes de representació i tractament (algebraic, gràfic, quadre de valors).
 
 3.1.3. Sentit de variació, successions creixents, successions decreixents.
 
@@ -5750,7 +5748,7 @@ opció (fórmula, quadre, gràfic…). En particular es tractarà de saber triar
 
 3.2.1. Càlcul de la suma d'n termes consecutius.
 
-3.3. Successions convergents, límits infinits (Caldrà evitar tota definició en i N i es donarà solament una idea intuïtiva de la noció de límits).
+3.3. Successions convergents, límits infinits (Caldrà evitar tota definició en ε i N i es donarà solament una idea intuïtiva de la noció de límits).
 
 3.3.1. Operacions sobre els límits, límit d'una successió aritmètica o geomètrica.
 
@@ -5762,7 +5760,7 @@ opció (fórmula, quadre, gràfic…). En particular es tractarà de saber triar
 
 3.4.2. Modelització de situacions que duguin a successions aritmètiques o geomètriques
 
-3.4.3. Estudi de l ' e v o l u c i ó de fenòmens discrets (capital invertit en interessos simples o compostos, préstecs, desintegració d'una substància radioactiva, datació d'un organisme antic, creixement demogràfic...)
+3.4.3. Estudi de l'evolució de fenòmens discrets (capital invertit en interessos simples o compostos, préstecs, desintegració d'una substància radioactiva, datació d'un organisme antic, creixement demogràfic...)
 
 ###### 4. Geometria vectorial: pla i espai vectorial
 
@@ -5818,13 +5816,13 @@ Butlletí Oficial del Principat d'Andorra
 
 - 6.2. Fórmules d'addició i de duplicació: aplicació al càlcul de línies trigonomètriques
 
-- 6.3. Els teoremes del sinus i del cosinus en el triangle (fórmules a B32 = b B32 + c B32 -2b.c.cosA; S = 1/2b.c.sinA; a/sin A=b/sin B=c/sin C ).
+- 6.3. Els teoremes del sinus i del cosinus en el triangle (fórmules a² = b² + c² – 2b.c.cosA; S = 1/2b.c.sinA; a/sin A=b/sin B=c/sin C ).
 
 - 6.4. Aplicació a la resolució de triangles qualssevol, al càlcul de distàncies, d'angles, d'àrees i de volums sobre unes configuracions del pla o de l'espai.
 
 - 6.5. Equacions trigonomètriques: Resolució d'equacions trigonomètriques i interpretació
 
-###### Estadística
+###### 7. Estadística
 
 - 7.1. Estudi i representació de les sèries estadístiques.
 
@@ -5848,7 +5846,7 @@ Butlletí Oficial del Principat d'Andorra
 
 - 1.2. Resolució de sistemes lineals d'equacions amb i sense paràmetres: Mètode de GAUSS o per combinacions lineals o per substitució (el cas de 2 o de tres incògnites).
 
-###### Anàlisi: funcions
+###### 2. Anàlisi: funcions
 
 - 2.1. Aprofundiments sobre les nocions de límit finit o infinit.
 
@@ -5890,7 +5888,7 @@ Butlletí Oficial del Principat d'Andorra
 
 - 2.5.2. Estudi d'algunes situacions una modelització de les quals és de la forma y'=ay+b o està relacionada amb y'=ay+b.
 
-###### Anàlisi: estudi de les successions
+###### 3. Anàlisi: estudi de les successions
 
 - 3.1. Aprofundiment sobre la noció de límit finit o infinit d'una successió.
 
@@ -5902,7 +5900,7 @@ Butlletí Oficial del Principat d'Andorra
 
 - 3.5. Successions adjacents i teorema de les successions adjacents; aplicació a l'escriptura decimal il·limitada d'un nombre real.
 
-###### Anàlisi: integral d'una funció contínua sobre un interval
+###### 4. Anàlisi: integral d'una funció contínua sobre un interval
 
 - 4.1. Relació amb àrees.
 
@@ -5920,7 +5918,7 @@ Butlletí Oficial del Principat d'Andorra
 
 - 4.8. Càlcul d'integrals definides i aplicació al càlcul d'àrees i al càlcul de volums.
 
-###### Pla i espai vectorial
+###### 5. Pla i espai vectorial
 
 - 5.1. Càlcul vectorial: Aprofundiment sobre els vectors del pla i de l'espai. Vectors lliures, bases.
 
@@ -5934,7 +5932,7 @@ Butlletí Oficial del Principat d'Andorra
 
 Núm. 101 - any 19 - 28.11.2007
 
-- 5.2. El producte escalar de dos vectors del pla o de l'espai, el producte vectorial de dos vectors en l'espai, el producte mixt de t r e s vectors: Interpretació i propietats. Càlcul del producte escalar de dos vectors sobre el pla i en l'espai, aplicació del producte escalar per determinar la norma d'un vector o l'angle entre dos vectors. Càlcul d'angles, de llargades i d'àrees. Aplicacions geomètriques.
+- 5.2. El producte escalar de dos vectors del pla o de l'espai, el producte vectorial de dos vectors en l'espai, el producte mixt de tres vectors: Interpretació i propietats. Càlcul del producte escalar de dos vectors sobre el pla i en l'espai, aplicació del producte escalar per determinar la norma d'un vector o l'angle entre dos vectors. Càlcul d'angles, de llargades i d'àrees. Aplicacions geomètriques.
 
 - 5.3. Baricentre d'un sistema de punts ponderats en el pla o l'espai:
 
@@ -5942,7 +5940,7 @@ Núm. 101 - any 19 - 28.11.2007
 
 - 5.3.2. Aplicació a l'estudi de configuració i a problemes d'alineació de punts, d'incidència de rectes.
 
-###### Geometria afí i analítica
+###### 6. Geometria afí i analítica
 
 - 6.1. Referències en el pla i en l'espai.
 
@@ -5960,7 +5958,7 @@ Núm. 101 - any 19 - 28.11.2007
 
 - 6.5.1. Angle entre dues rectes, recta i pla, dos plans.
 
-###### Nombres complexos i semblances
+###### 7. Nombres complexos i semblances
 
 - 7.1. Els nombres complexos:
 
@@ -5972,7 +5970,7 @@ Núm. 101 - any 19 - 28.11.2007
 
 - 7.2.2. El cas de les isometries.
 
-- 7.2.3. Caracterització complexa: Tota semblança amb una escriptura complexa de la forma z' = az+b o z' = az +b (a no nul).
+- 7.2.3. Caracterització complexa: Tota semblança amb una escriptura complexa de la forma z' = az+b o z' = az̄+b (a no nul).
 
 - 7.2.4. Estudi de les semblances directes.
 
@@ -5980,7 +5978,7 @@ Núm. 101 - any 19 - 28.11.2007
 
 - 7.2.6. Aplicacions geomètriques de les semblances a l'estudi de configuracions i, de recerca de llocs geomètrics.
 
-###### Probabilitat
+###### 8. Probabilitat
 
 - 8.1. L'atzar. Experiència aleatòria. Univers, esdeveniments elementals, esdeveniment impossible, esdeveniments incompatibles, esdeveniments contraris, unió de dos esdeveniments, intersecció de dos esdeveniments.
 
@@ -6004,7 +6002,7 @@ Núm. 101 - any 19 - 28.11.2007
 
 - 8.6.2. Llei de Bernoulli, llei binomial; esperança i variància d'aquestes lleis, aplicacions.
 
-###### Aritmètica
+###### 9. Aritmètica
 
 - 9.1. Estudi de la divisibilitat en N i Z.
 
@@ -6043,12 +6041,12 @@ Butlletí Oficial del Principat d'Andorra
 Assignatures | Coeficients | Llengua de la prova | S'avalua en les proves de | Avaluació de competències | Percentatges en relació als coeficients | Tipus de prova | Durada de la prova
 --- | --- | --- | --- | --- | --- | --- | ---
 Llengua i literatura catalanes | 4 | Catalana | Llengua catalana | - comprensió i expressió oral | 50% | Oral | 30 min.
-Filosofia | - comprensió i expressió escrita | 50% | Escrita
+ |  |  | Filosofia | - comprensió i expressió escrita | 50% | Escrita | 
 Llengua i literatura angleses | 3 | Anglesa | Llengua anglesa | - comprensió i expressió oral - comprensió escrita | 100% | Oral | 30 min.
 Llengua i literatura castellanes | 3 | Castellana | Llengua castellana | - comprensió i expressió oral | 50 % | Oral | 30 min.
-Història de les arts | - comprensió i expressió escrita | 50% | Escrita
+ |  |  | Història de les arts | - comprensió i expressió escrita | 50% | Escrita | 
 Llengua i literatura franceses | 3 | Francesa | Llengua francesa | - comprensió i expressió escrita | 50 % | Escrita | 2 h
-Arts plàstiques i gràfiques | - comprensió i expressió oral | 50 % | Oral | 30 min.
+ |  |  | Arts plàstiques i gràfiques | - comprensió i expressió oral | 50 % | Oral | 30 min.
 Filosofia | 3 | Catalana | Filosofia | - competències en filosofia | 100% | Escrita | 2 h
 Història de les arts | 4 | Castellana | Història de les arts | - competències en història de les arts | 100% | Escrita | 3 h
 Arts plàstiques i gràfiques | 5 | Francesa | Arts plàstiques i gràfiques | - competències en arts plàstiques i gràfiques | 100% | Escrita i presentació oral | Escrita: 2 h
@@ -6059,17 +6057,17 @@ Comunicació i realització audiovisual | 5 | Catalana | Comunicació i realitza
 Assignatures | Coeficients | Llengua de la prova | S'avalua en les proves de | Avaluació de competències | Percentatges en relació als coeficients | Tipus de prova | Durada de la prova
 --- | --- | --- | --- | --- | --- | --- | ---
 Llengua i literatura catalanes | 4 | Catalana | Llengua -catalana | - comprensió i expressió oral | 50% | Oral | 30 min.
-Filosofia | - comprensió i expressió escrita | 50% | Escrita
+ |  |  | Filosofia | - comprensió i expressió escrita | 50% | Escrita | 
 Llengua i literatura angleses | 3 | Anglesa | Llengua anglesa | - comprensió i expressió oral - comprensió escrita | 100% | Oral | 30 min.
 Llengua i literatura castellanes | 3 | Castellana | Llengua castellana | - comprensió i expressió oral | 50% | Oral | 30 min.
-- comprensió i expressió escrita | 50% | Escrita | 2 h
+ |  |  |  | - comprensió i expressió escrita | 50% | Escrita | 2 h
 Llengua i literatura franceses | 3 | Francesa | Llengua francesa | - comprensió i expressió oral | 50 % | Oral | 30 min
-Física i química | - comprensió i expressió escrita | 50 % | Escrita
+ |  |  | Física i química | - comprensió i expressió escrita | 50 % | Escrita | 
 Filosofia | 3 | Catalana | Filosofia | - competències en filosofia | 100% | Escrita | 2 h
 Matemàtiques | 5 | Castellana | Matemàtiques | - competències en matemàtiques | 100% | Escrita | 3 h
-Física i Química | 4 | Francesa | Física i Química | - competències en física química | 100% | Escrita | Part teòrica: 2 h Part pràctica. 1 h
+Física i Química | 4 | Francesa | Física i Química | - competències en física i química | 100% | Escrita | Part teòrica: 2 h Part pràctica. 1 h
 Biologia o | 4 | Catalana | Biologia | - competències en biologia o dibuix tècnic | 100% | Escrita | Part teòrica: 2 h Part pràctica. 1 h
-Dibuix tècnic | Dibuix tècnic | 3 h
+Dibuix tècnic |  |  | Dibuix tècnic |  |  |  | 3 h
 
 [[END OF PAGE 66]]
 
@@ -6085,13 +6083,13 @@ Núm. 101 - any 19 - 28.11.2007
 
 Assignatures | Coeficients | Llengua de la prova | S'avalua en les proves de | Avaluació de competències | Percentatges en relació als coeficients | Tipus de prova | Durada de la prova
 --- | --- | --- | --- | --- | --- | --- | ---
-Llengua i literatura catalanes | 4 | Catalana | Llengua catalana Filosofia | - comprensió i expressió oral | 50% | Oral | 30 min.
-- comprensió i expressió escrita | 50% | Escrita
+Llengua i literatura catalanes | 4 | Catalana | Llengua catalana | - comprensió i expressió oral | 50% | Oral | 30 min.
+ |  |  | Filosofia | - comprensió i expressió escrita | 50% | Escrita | 
 Llengua i literatura angleses | 3 | Anglesa | Llengua anglesa | - comprensió i expressió oral - comprensió escrita | 100% | Oral | 30 min.
 Llengua i literatura castellanes | 3 | Castellana | Llengua castellana | - comprensió i expressió oral | 50% | Oral | 30 min.
-- comprensió i expressió escrita | 50% | Escrita | 2 h
+ |  |  |  | - comprensió i expressió escrita | 50% | Escrita | 2 h
 Llengua i literatura franceses | 3 | Francesa | Llengua francesa | - comprensió i expressió oral | 50 % | Oral | 30 min
-Economia | - comprensió i expressió escrita | 50 % | Escrita
+ |  |  | Economia | - comprensió i expressió escrita | 50 % | Escrita | 
 Filosofia | 3 | Catalana | Filosofia | - competències en filosofia | 100% | Escrita | 2 h
 Matemàtiques aplicades a les ciències socials | 4 | Castellana | Matemàtiques aplicades a les ciències socials | - competències en matemàtiques aplicades a les ciències socials | 100% | Escrita | 3 h
 Economia | 5 | Francesa | Economia | - competències en economia | 100% | Escrita | 3 h
@@ -6102,12 +6100,12 @@ Història | 4 | Catalana | Història | - competències història | 100% | Escrit
 Assignatures | Coeficients | Llengua de la prova | S'avalua en les proves de | Avaluació de competències | Percentatges en relació als coeficients | Tipus de prova | Durada de la prova
 --- | --- | --- | --- | --- | --- | --- | ---
 Llengua i literatura catalanes | 5 | Catalana | Llengua i literatura catalana | - comprensió i expressió oral - literatura | 60% | Oral | 30 min.
-Filosofia | - comprensió i expressió escrita | 40% | Escrita
+ |  |  | Filosofia | - comprensió i expressió escrita | 40% | Escrita | 
 Llengua i literatura angleses | 4 | Anglesa | Llengua anglesa | - comprensió i expressió oral - comprensió escrita | 100% | Oral | 30 min.
 Llengua i literatura castellanes | 4 | Castellana | Llengua i literatura castellanes | - comprensió escrita i expressió oral - literatura | 60% | Oral | 30 min.
-Cultura llatina | - comprensió i expressió escrita | 40% | Escrita
+ |  |  | Cultura llatina | - comprensió i expressió escrita | 40% | Escrita | 
 Llengua i literatura franceses | 4 | Francesa | Llengua i literatura franceses | - comprensió escrita i expressió oral - literatura | 60% | Oral | 30 min.
-Literatura universal | - expressió escrita | 40% | Escrita
+ |  |  | Literatura universal | - expressió escrita | 40% | Escrita | 
 Filosofia | 5 | Catalana | Filosofia | - competències en filosofia | 100% | Escrita | 3 h
 Llengua i cultura llatina | 4 | Castellana | Llengua i cultura llatina | - competències en llengua i cultura llatina | 100% | Escrita | 3 h
 Literatura universal | 3 | Francesa | Literatura universal | - competències en literatura universal | 100% | Escrita | 3 h
