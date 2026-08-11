@@ -4,7 +4,8 @@
 
 Quote:
 
-"General Anti-Discrimination Act of 14th August 2006 (Federal Law Gazette I, page 1897), last amended by Article 19, para 10 of the Act of 12th December 2007 (Federal Law Gazette I, page 2840)' Status: Last amended by Article 19 para 10 of the Act of 12th December 2007 I 2840
+"General Anti-Discrimination Act of 14th August 2006 (Federal Law Gazette I, page 1897), last amended by Article 19, para 10 of the Act of 12th December 2007 (Federal Law Gazette I, page 2840)”
+Status: Last amended by Article 19 para 10 of the Act of 12th December 2007 I 2840
 
 The Bundestag has passed the following Act:
 
@@ -18,27 +19,27 @@ The purpose of this Act is to prevent or to stop discrimination on the grounds o
 
 ##### Section 2 Scope
 
-- For the purposes of this Act, any discrimination within the meaning of Section 1 shall be inadmissible in relation to:
+(1) For the purposes of this Act, any discrimination within the meaning of Section 1 shall be inadmissible in relation to:
 
-- conditions  for  access  to  dependent  employment  and  self-employment,  including  selection  criteria  and  recruitment conditions, whatever the branch of activity and at all levels of professional hierarchy, including promotion;
+1. conditions for access to dependent employment and self-employment, including selection criteria and recruitment conditions, whatever the branch of activity and at all levels of professional hierarchy, including promotion;
 
-- employment  conditions  and  working  conditions,  including  pay  and  reasons  for  dismissal,  in  particular  in  contracts between  individuals,  collective  bargaining  agreements  and  measures  to  implement  and  terminate  an  employment relationship, as well as for promotion;
+2. employment conditions and working conditions, including pay and reasons for dismissal, in particular in contracts between individuals, collective bargaining agreements and measures to implement and terminate an employment relationship, as well as for promotion;
 
-- access  to  all  types  and  to  all  levels  of  vocational  guidance,  vocational  training,  advanced  vocational  training  and retraining, including practical work experience;
+3. access to all types and to all levels of vocational guidance, vocational training, advanced vocational training and retraining, including practical work experience;
 
-- membership of and involvement in an organisation of workers or employers or any organisation whose members carry on a particular profession, including all benefits provided for by such organisations;
+4. membership of and involvement in an organisation of workers or employers or any organisation whose members carry on a particular profession, including all benefits provided for by such organisations;
 
-- social protection, including social security and health care;
+5. social protection, including social security and health care;
 
-- social advantages;
+6. social advantages;
 
-- education;
+7. education;
 
-- access to and supply of goods and services which are available to the public, including housing.
+8. access to and supply of goods and services which are available to the public, including housing.
 
-- Section 33c Social Code, Book I and Section 19a Social Code, Book IV shall apply to social benefits. The Company Pensions Act ( Betriebsrentengesetz ) shall apply to company pension schemes.
+(2) Section 33c Social Code, Book I and Section 19a Social Code, Book IV shall apply to social benefits. The Company Pensions Act (Betriebsrentengesetz) shall apply to company pension schemes.
 
-- The application of other prohibitions of discrimination or laws on equal treatment shall remain unaffected by this Act. The same shall apply, mutatis mutandis , to provisions under public law which serve the protection of specific groups of persons.
+(3) The application of other prohibitions of discrimination or laws on equal treatment shall remain unaffected by this Act. The same shall apply, mutatis mutandis, to provisions under public law which serve the protection of specific groups of persons.
 
 > 1 This law serves to transpose the following into German law:
 
@@ -84,13 +85,13 @@ Notwithstanding the grounds referred to under Sections 8 to 10 and 20, unequal t
 
 (1) For the purposes of this Act, "employee" shall refer to
 
-- persons in dependent employment (salaried employees, workers);
+1. persons in dependent employment (salaried employees, workers);
 
-- persons employed for the purposes of their vocational training;
+2. persons employed for the purposes of their vocational training;
 
-- persons of similar status on account of their dependent economic status, including those engaged in home work and those equal in law to home workers.
+3. persons of similar status on account of their dependent economic status, including those engaged in home work and those equal in law to home workers.
 
-"Employee"  shall  here  also  refer  to  those  applying  for  an  employment  relationship  and  persons  whose  employment relationship has ended.
+"Employee" shall here also refer to those applying for an employment relationship and persons whose employment relationship has ended.
 
 (2) For the purposes of Part 2, "employer" shall refer to natural and legal persons as well as unincorporated firms with legal capacity employing persons referred to in Subsection (1). Where employees are transferred to a third party for the performance of work and services, the employer shall also be classified as such within the meaning of Part 2. The client or intermediary shall take the place of the employer in the case of employees engaged in home work and those equal in law to home workers.
 
@@ -128,17 +129,17 @@ Notwithstanding the grounds referred to under Sections 8 to 10 and 20, unequal t
 
 Notwithstanding Section 8, a difference of treatment on grounds of age shall likewise not constitute discrimination if it is  objectively  and  reasonably  justified  by  a  legitimate  aim.  The  means  of  achieving  that  aim  must  be  appropriate  and necessary. Such differences of treatment may include, among others:
 
-- the setting of special conditions for access to employment and vocational training, as well as particular employment and working conditions, including remuneration and dismissal conditions, to ensure the vocational integration of young people, older workers and persons with caring responsibilities and to ensure their protection;
+1. the setting of special conditions for access to employment and vocational training, as well as particular employment and working conditions, including remuneration and dismissal conditions, to ensure the vocational integration of young people, older workers and persons with caring responsibilities and to ensure their protection;
 
-- the fixing of minimum conditions of age, professional experience or seniority in service for access to employment or to certain advantages linked to employment;
+2. the fixing of minimum conditions of age, professional experience or seniority in service for access to employment or to certain advantages linked to employment;
 
-- the fixing of a maximum age for recruitment which is based on specific training requirements of the post in question or the need for a reasonable period of employment before retirement;
+3. the fixing of a maximum age for recruitment which is based on specific training requirements of the post in question or the need for a reasonable period of employment before retirement;
 
-- the fixing of upper age limits in company social security systems as a precondition for membership of or the drawing of an old-age pension or for invalidity benefits, including fixing different age limits within the context of these systems for  certain  employees  or  categories  of  employees  and  the  use  of  criteria  regarding  age  within  the  context  of  these systems for the purposes of actuarial calculations;
+4. the fixing of upper age limits in company social security systems as a precondition for membership of or the drawing of an old-age pension or for invalidity benefits, including fixing different age limits within the context of these systems for certain employees or categories of employees and the use of criteria regarding age within the context of these systems for the purposes of actuarial calculations;
 
-- agreements providing for the termination of the employment relationship without dismissal at a point in time when the employee may apply for payment of an old-age pension; Section 41 Social Code, Book VI shall remain unaffected;
+5. agreements providing for the termination of the employment relationship without dismissal at a point in time when the employee may apply for payment of an old-age pension; Section 41 Social Code, Book VI shall remain unaffected;
 
-- differentiating between social benefits within the meaning of the Works Constitution Act ( Betriebsverfassungsgesetz ), where the parties have created a regulation governing compensation based on age or length of service whereby the employee's chances on the labour market (which are decisively dependent on his or her age) have recognisably been taken into consideration by means of emphasising age relatively strongly, or employees who are economically secure are  excluded  from  social  benefits  because  they  may  be  eligible  to  draw  an  old-age  pension  after  drawing unemployment benefit.
+6. differentiating between social benefits within the meaning of the Works Constitution Act (Betriebsverfassungsgesetz), where the parties have created a regulation governing compensation based on age or length of service whereby the employee's chances on the labour market (which are decisively dependent on his or her age) have recognisably been taken into consideration by means of emphasising age relatively strongly, or employees who are economically secure are excluded from social benefits because they may be eligible to draw an old-age pension after drawing unemployment benefit.
 
 [[END OF PAGE 4]]
 
@@ -226,9 +227,9 @@ as well as any associations thereof.
 
 (1) Any discrimination on the grounds of race or ethnic origin, sex, religion, disability, age or sexual orientation shall be illegal when founding, executing or terminating civil-law obligations which
 
-- typically  arise  without  regard  of person  in  a  large  number  of  cases  under  comparable  conditions  (bulk  business)  or where the regard of person is of subordinate significance on account of the obligation and the comparable conditions arise in a large number of cases ; or which
+1. typically arise without regard of person in a large number of cases under comparable conditions (bulk business) or where the regard of person is of subordinate significance on account of the obligation and the comparable conditions arise in a large number of cases; or which
 
-- have as their object a private-law insurance.
+2. have as their object a private-law insurance.
 
 (2)  Any  discrimination  on  the  grounds  of  race  or  ethnic  origin  shall  furthermore  be  illegal  within  the  meaning  of Section 2(1) Nos 5 to 8 when founding, executing or terminating other civil-law obligations.
 
@@ -246,27 +247,27 @@ as well as any associations thereof.
 
 (1) Differences of treatment on grounds of religion, disability, age, sexual orientation or sex shall not be deemed to be a violation of the prohibition of discrimination if they are based on objective grounds. Such differences of treatment may include, among others, where the difference of treatment
 
-- serves the avoidance of threats, the prevention of damage or another purpose of a comparable nature;
+1. serves the avoidance of threats, the prevention of damage or another purpose of a comparable nature;
 
-- satisfies the requirement of protection of privacy or personal safety;
+2. satisfies the requirement of protection of privacy or personal safety;
 
-- grants special advantages and there is no interest in enforcing equal treatment;
+3. grants special advantages and there is no interest in enforcing equal treatment;
 
-- is based on the concerned person's religion and is justified with regard to the exercise of the right to freedom of religion or the right to self-determination of religious communities, facilities affiliated to them (regardless of their legal form) and organisations which have undertaken conjointly to practice a religion or belief, given their respective ethos.
+4. is based on the concerned person's religion and is justified with regard to the exercise of the right to freedom of religion or the right to self-determination of religious communities, facilities affiliated to them (regardless of their legal form) and organisations which have undertaken conjointly to practice a religion or belief, given their respective ethos.
 
 (2) Differences of treatment on the ground of sex shall only be permitted in case of the application of Section 19(1) No 2 with reference to premiums and benefits where the use of sex is a determining factor in the assessment of risk based on relevant and accurate actuarial and statistical data. Costs arising from pregnancy and maternity may on no account lead to the  payment  of  different  premiums  and  benefits.  Differences  of  treatment  on  the  ground  of  religion,  disability,  age  or sexual orientation in the case of application of Section 19(1) No 2 shall be permissible only where these are based on recognised principles of risk-adequate calculations, in particular on an assessment of risk based on actuarial calculations which are in turn based on statistical surveys.
 
 ##### Section 21 Enforcement
 
-- Where a breach of the prohibition of discrimination occurs, the disadvantaged person may, regardless of further claims being asserted, demand that the discriminatory conduct be stopped. Where other discrimination is to be feared, he or she may sue for an injunction.
+(1) Where a breach of the prohibition of discrimination occurs, the disadvantaged person may, regardless of further claims being asserted, demand that the discriminatory conduct be stopped. Where other discrimination is to be feared, he or she may sue for an injunction.
 
-- Where  a  violation  of  the  prohibition  of  discrimination  occurs,  the  person  responsible  for  committing  the discrimination shall be obligated to compensate for any damage arising therefrom. This shall not apply where the person committing the discrimination is not responsible for the breach of duty. The person suffering discrimination may demand appropriate compensation in money for the damage, however not for economic loss.
+(2) Where a violation of the prohibition of discrimination occurs, the person responsible for committing the discrimination shall be obligated to compensate for any damage arising therefrom. This shall not apply where the person committing the discrimination is not responsible for the breach of duty. The person suffering discrimination may demand appropriate compensation in money for the damage, however not for economic loss.
 
-- Claims in tort shall remain unaffected.
+(3) Claims in tort shall remain unaffected.
 
-- The  person  responsible  for  committing  the  discrimination  shall  not  be  permitted  to  refer  to  an  agreement  which derogates from the prohibition of discrimination.
+(4) The person responsible for committing the discrimination shall not be permitted to refer to an agreement which derogates from the prohibition of discrimination.
 
-- Any claims arising from Subsections (1) and (2) must be asserted within a period of two months. After the expiry of the time limit the claim may only be asserted when the disadvantaged person was prevented from meeting the deadline through no fault of their own.
+(5) Any claims arising from Subsections (1) and (2) must be asserted within a period of two months. After the expiry of the time limit the claim may only be asserted when the disadvantaged person was prevented from meeting the deadline through no fault of their own.
 
 ### Part 4 Defence of Rights
 
@@ -292,13 +293,13 @@ Where, in case of conflict, one of the parties is able to establish facts from w
 
 ##### Section 24 Special Regulation Applying to Public-Law Employment Relationships
 
-The provisions of this Act shall apply, mutatis mutandis , taking into consideration their special legal relationship, to
+The provisions of this Act shall apply, mutatis mutandis, taking into consideration their special legal relationship, to
 
-- civil servants of the Federal Administration, the Länder , local authorities, local authority associations, as well as other public-law  bodies,  institutions  and  foundations  under  the  jurisdiction  of  the  Federal  Administration  or  one  of  the Länder ;
+1. civil servants of the Federal Administration, the Länder, local authorities, local authority associations, as well as other public-law bodies, institutions and foundations under the jurisdiction of the Federal Administration or one of the Länder;
 
-- judges of the Federal Administration and the Länder ;
+2. judges of the Federal Administration and the Länder;
 
-- persons undertaking alternative military service ( Zivildienstleistende )  and recognised conscientious objectors, insofar as they are required to undertake alternative military service.
+3. persons undertaking alternative military service (Zivildienstleistende) and recognised conscientious objectors, insofar as they are required to undertake alternative military service.
 
 ### Part 6 Anti-Discrimination Agency
 
@@ -316,13 +317,13 @@ The provisions of this Act shall apply, mutatis mutandis , taking into considera
 
 (3) The official relationship under public law shall end, unless by death,
 
-- with the assembly of a new Bundestag;
+1. with the assembly of a new Bundestag;
 
-- with the end of the period of office upon the incumbent reaching the age limit set out in Section 41(1) Federal Civil Servants Act ( Bundesbeamtengesetz );
+2. with the end of the period of office upon the incumbent reaching the age limit set out in Section 41(1) Federal Civil Servants Act (Bundesbeamtengesetz);
 
-- upon the incumbent being discharged.
+3. upon the incumbent being discharged.
 
-The Federal Minister for Family Affairs, Senior Citizens, Women and Youth shall discharge the head of the Federal AntiDiscrimination Agency upon his or her request or when grounds arise which, in the case of a judge appointed for life, would give rise to discharge from duty. In the event of the termination of the official relationship under public law, the head of the Federal Anti-Discrimination Agency shall receive a certificate executed by the Federal Minister for Family Affairs,  Senior  Citizens,  Women  and  Youth.  The  discharge  shall  become  effective  upon  the  handing  over  of  the certificate.
+The Federal Minister for Family Affairs, Senior Citizens, Women and Youth shall discharge the head of the Federal Anti-Discrimination Agency upon his or her request or when grounds arise which, in the case of a judge appointed for life, would give rise to discharge from duty. In the event of the termination of the official relationship under public law, the head of the Federal Anti-Discrimination Agency shall receive a certificate executed by the Federal Minister for Family Affairs, Senior Citizens, Women and Youth. The discharge shall become effective upon the handing over of the certificate.
 
 (4) The legal relationship between the head of the Federal Anti-Discrimination Agency and the Federal Administration shall  be  regulated  by  contract  with  the  Federal  Ministry  for  Family  Affairs,  Senior  Citizens,  Women  and  Youth.  The contract shall require the consent of the Federal Government.
 
@@ -338,17 +339,17 @@ The Federal Minister for Family Affairs, Senior Citizens, Women and Youth shall 
 
 (2) The Federal Anti-Discrimination Agency shall give independent assistance to persons addressing themselves to the Agency in accordance with Subsection (1) in asserting their rights to protection against discrimination. Such assistance may, among other things, involve
 
-- providing  information  concerning  claims  and  possible  legal  action  based  on  legal  provisions  providing  protection against discrimination;
+1. providing information concerning claims and possible legal action based on legal provisions providing protection against discrimination;
 
-- arranging for advice to be provided by another authority;
+2. arranging for advice to be provided by another authority;
 
-- endeavouring to achieve an out-of-court settlement between the involved parties.
+3. endeavouring to achieve an out-of-court settlement between the involved parties.
 
 Where responsibility lies either with a Parliamentary Commissioner of the German Bundestag or a Federal Government Commissioner, the Federal Anti-Discrimination Agency shall immediately pass on the matters of the person referred to in Subsection (1), with their prior approval.
 
 (3) The Federal Anti-Discrimination Agency shall take on and independently carry out the following tasks, insofar as no Parliamentary Commissioner of the Bundestag or Federal Government Commissioner is competent in the matter:
 
-- publicity work;
+1. publicity work;
 
 2.  measures to prevent discrimination on any of the grounds referred to in Section 1;
 
@@ -362,7 +363,7 @@ Where responsibility lies either with a Parliamentary Commissioner of the German
 
 (1)  In  cases  in  accordance  with  Section  27(2)  second  sentence,  No  3,  the  Federal  Anti-Discrimination  Agency  may request the involved parties to make submissions, insofar as the person who has turned to the Agency in accordance with Section 27(1) has consented thereto.
 
-(2)  All  federal  authorities  and  other  federal  public  offices  shall  be  under  the  obligation  to  assist  the  Federal  AntiDiscrimination  Agency  in  carrying  out  its  tasks,  in  particular  to  supply  the  necessary  information.  The  provisions regarding the protection of personal data shall remain unaffected.
+(2) All federal authorities and other federal public offices shall be under the obligation to assist the Federal Anti-Discrimination Agency in carrying out its tasks, in particular to supply the necessary information. The provisions regarding the protection of personal data shall remain unaffected.
 
 ##### Section 29 Co-operation with Non-Governmental Organisations and Other Institutions
 
