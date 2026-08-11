@@ -16,9 +16,9 @@ Any reference in this Act to 'the Minister' or 'the Ministry' not accompanied by
 
  [This Act shall apply to the University of Iceland, the University of Akureyri, the Agricultural University of Iceland, and Hólaskóli - Hólar University College, which operate as public higher education institutions accountable to the Minister.] (1) In this Act, public higher education institutions are referred to as 'public HEIs'.
 
- The [Minister] (1) shall publish a notice (3) on public HEIs operating pursuant to this Act. (1) (2) (3)
+ The [Minister](2) shall publish a notice(3) on public HEIs operating pursuant to this Act.
 
-Act No 56/2013, Article 1. Act No 50/2010, Article 1. Notice No 753/2013.
+(1)Act No 56/2013, Article 1. (2)Act No 50/2010, Article 1. (3)Notice No 753/2013.
 
 ### Article 2 … (1)
 
@@ -40,17 +40,17 @@ Act No 56/2013, Article 1. Act No 50/2010, Article 1. Notice No 753/2013.
 
  The organisational units of a public HEI shall be the following:
 
-- Schools and departments within the meaning of Section IV of this Act;
+a. Schools and departments within the meaning of Section IV of this Act;
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-- Academic bodies under the authority of the Governing Council, as decided by that body;
+b. Academic bodies under the authority of the Governing Council, as decided by that body;
 
-- Academic bodies under the authority of schools or departments, as decided by their Governing Boards;
+c. Academic bodies under the authority of schools or departments, as decided by their Governing Boards;
 
-- Academic bodies that operate on the basis of a lex specialis .
+d. Academic bodies that operate on the basis of a lex specialis.
 
  Rules (1) laid down by the Governing Council of the public HEI may specify other names for schools and departments as referred to in the first paragraph, item a, and that other types of organisational units be used as the basis of the institution's activities.
 
@@ -76,23 +76,23 @@ Act No 56/2013, Article 1. Act No 50/2010, Article 1. Notice No 753/2013.
 
  In addition to the Rector, the Governing Council of a public HEI with fewer students than 5,000 shall be comprised of the following six members, nominated for a two-year term:
 
-[Two members representing the academic community, nominated by the institution's Representative Assembly.] (1)
+1. [Two members representing the academic community, nominated by the institution's Representative Assembly.](1)
 
-- One member nominated by an institution-wide students' union.
+2. One member nominated by an institution-wide students' union.
 
-[One member nominated by the Minister.] (1)
+3. [One member nominated by the Minister.](1)
 
-- Two members nominated by those members of the Council already in place.
+4. Two members nominated by those members of the Council already in place.
 
- In addition to the Rector, the Governing Council of a public HEI with a larger number of students than 5,000 shall be comprised of the following ten members, nominated for a two- year term:
+ In addition to the Rector, the Governing Council of a public HEI with a larger number of students than 5,000 shall be comprised of the following ten members, nominated for a two-year term:
 
-[Three] (1) members representing the academic community, nominated by the institution's Representative Assembly.
+1. [Three](1) members representing the academic community, nominated by the institution's Representative Assembly.
 
-- Two members nominated by an institution-wide students' union.
+2. Two members nominated by an institution-wide students' union.
 
-[Two members nominated by the Minister.] (1)
+3. [Two members nominated by the Minister.](1)
 
-[Three] (1) members nominated by those members of the Council already in place.
+4. [Three](1) members nominated by those members of the Council already in place.
 
  An alternate member shall be nominated for each member nominated according to the second paragraph, points 1, 2 and 3, and the third paragraph, points 1, 2 and 3.
 
@@ -242,9 +242,8 @@ Act No 56/2013, Article 5.
 
  An employment contract for an academic position may be of indefinite duration or for a fixed term of up to five years. Under special circumstances a temporary employment contract may be extended for up to two years beyond the five-year limit.
 
-- Rules No 263/2010, cf. No 1100/2011, No 846/2013, No 482/2015 and No 548/2015. Rules No 747/2012. Act No 50/2010, Article 9.
-
-(2)
+(1)Rules No 263/2010, cf. No 1100/2011, No 846/2013, No 482/2015 and No 548/2015. Rules No 747/2012.
+(2)Act No 50/2010, Article 9.
 
 ## Section VI Students
 
@@ -256,17 +255,17 @@ Act No 56/2013, Article 5.
 
  The Governing Council shall, where appropriate on a proposal by the relevant school, adopt more detailed rules (1) on the following:
 
-- Qualification requirements over and above the matriculation examination for certain undergraduate study programmes;
+a. Qualification requirements over and above the matriculation examination for certain undergraduate study programmes;
 
-- Admission requirements for certain postgraduate study programmes;
+b. Admission requirements for certain postgraduate study programmes;
 
-- Entrance or assessment examinations to be conducted in certain study programmes;
+c. Entrance or assessment examinations to be conducted in certain study programmes;
 
-- Assessment of the experience, knowledge and skills of students who have not completed formal upper-secondary education.
+d. Assessment of the experience, knowledge and skills of students who have not completed formal upper-secondary education.
 
  Any rules limiting the number of students admitted to particular study programmes shall be laid down for each academic year individually. Such rules shall take into account the public HEI's potential for providing instruction in the relevant study programme. The Governing Council may adopt rules limiting the number of students admitted to particular study programmes provided that the prevailing conditions prevent the admission of all applicants.
 
-- Rules No 1042/2003, cf. No 277/2006, No 1057/2006, No 190/2013 and No 1042/2015. Rules No 319/2009, cf. No 371/2009, No 463/2009, No 215/2011, No 498/2011, No 193/2012, No 137/2013, No 931/2013, No 22/2015 and No 274/2015. Rules No 972/2009, cf. No 155/2010 and No 139/2014. Rules No 153/2010, cf. No 153/2011, No 1307/2011, No 556/2012, No 801/2012, No 75/2013, No 308/2013, No 1234/2013, No 316/2014, No 1093/2014 og No 226/2015. Rules No 154/2010, cf. No 1196/2012. Rules No 154/2011, cf. No 599/2012 and No 1195/2012. Rules No 155/2011. Rules No 213/2011. Rules No 214/2011, cf. No 606/2014. Rules No 500/2011, cf. No 187/2013 and No 547/2015. Rules No 501/2011. Rules No 641/2011. Rules No 642/2011. Rules No 643/2011, cf. No 95/2012, No 188/2013 and No 1078/2013. Rules No 188/2012, cf. No 317/2014. Rules No 286/2012. Rules No 928/2013, cf. No 23/2015. Rules No 140/2014, cf. No 1097/2014. Rules No 244/2014. Rules No 24/2015.
+(1)Rules No 1042/2003, cf. No 277/2006, No 1057/2006, No 190/2013 and No 1042/2015. Rules No 319/2009, cf. No 371/2009, No 463/2009, No 215/2011, No 498/2011, No 193/2012, No 137/2013, No 931/2013, No 22/2015 and No 274/2015. Rules No 972/2009, cf. No 155/2010 and No 139/2014. Rules No 153/2010, cf. No 153/2011, No 1307/2011, No 556/2012, No 801/2012, No 75/2013, No 308/2013, No 1234/2013, No 316/2014, No 1093/2014 og No 226/2015. Rules No 154/2010, cf. No 1196/2012. Rules No 154/2011, cf. No 599/2012 and No 1195/2012. Rules No 155/2011. Rules No 213/2011. Rules No 214/2011, cf. No 606/2014. Rules No 500/2011, cf. No 187/2013 and No 547/2015. Rules No 501/2011. Rules No 641/2011. Rules No 642/2011. Rules No 643/2011, cf. No 95/2012, No 188/2013 and No 1078/2013. Rules No 188/2012, cf. No 317/2014. Rules No 286/2012. Rules No 928/2013, cf. No 23/2015. Rules No 140/2014, cf. No 1097/2014. Rules No 244/2014. Rules No 24/2015.
 
 ### Article 19 Students' rights and obligations
 
@@ -328,9 +327,9 @@ of appeal instituted in accordance with the Higher Education Act. The filing of 
 
  In this Act, the term continuing education is defined as:
 
-- Courses for higher education graduates in their respective areas of expertise;
+a. Courses for higher education graduates in their respective areas of expertise;
 
-- Supplementary education for higher education graduates on an interdisciplinary basis, leading to a final examination or the award of a degree pursuant to Article 22.] (1)
+b. Supplementary education for higher education graduates on an interdisciplinary basis, leading to a final examination or the award of a degree pursuant to Article 22.](1)
 
 (1) Act No 50/2010, Article 11, read in conjunction with Transitional Provision II of the same Act.
 
@@ -342,25 +341,26 @@ of appeal instituted in accordance with the Higher Education Act. The filing of 
 
  In addition to the budget appropriation provided pursuant to the first paragraph, public HEIs may generate income through:
 
-- Registration fees paid by students enrolling for their studies, up to [75,000 ISK] (1) per student on an annual basis; the income generated by the public HEI from such fees may not exceed the sum of its expenses in relation to the enrolment of students and services provided to students, other than expenses related to teaching and research activities;
+a. Registration fees paid by students enrolling for their studies, up to [75,000 ISK](1) per student on an annual basis; the income generated by the public HEI from such fees may not exceed the sum of its expenses in relation to the enrolment of students and services provided to students, other than expenses related to teaching and research activities;
 
-- Fees intended to cover the issue of certified transcripts and the preparation, administration and evaluation of assessment, entrance, repeat and distance examinations;
+b. Fees intended to cover the issue of certified transcripts and the preparation, administration and evaluation of assessment, entrance, repeat and distance examinations;
 
-- Fees for services rendered in addition to those which a public HEI has an obligation to provide;
+c. Fees for services rendered in addition to those which a public HEI has an obligation to provide;
 
-- Fees for services rendered by the public HEI on the basis of an agreement with the [Ministry], (2) as provided in Article 21, second paragraph, item d, of the Higher Education Act;
+d. Fees for services rendered by the public HEI on the basis of an agreement with the [Ministry],(2) as provided in Article 21, second paragraph, item d, of the Higher Education Act;
 
-[Fees for continuing education provided pursuant to Article 23a], (3)
+e. [Fees for continuing education provided pursuant to Article 23a],(3)
 
-[f. Fees for lifelong learning for the public]; (3)
+[f. Fees for lifelong learning for the public];(3)
 
-[g. Fees for the handling and processing of applications from citizens of countries outside the European Economic Area, other than students from the Faroe Islands and Greenland.] (4) [Registration fees pursuant to item a may be collected in instalments distributed proportionally over the academic year.] (5)
+[g. Fees for the handling and processing of applications from citizens of countries outside the European Economic Area, other than students from the Faroe Islands and Greenland.](4)
+[Registration fees pursuant to item a may be collected in instalments distributed proportionally over the academic year.](5)
 
  A 15 per cent surcharge may be added to the registration fee stipulated in the second paragraph, item a, in the case of students who are given permission to enrol outside the normal enrolment period.
 
  The Governing Council shall adopt more detailed rules on the collection of fees and the allocation of income therefrom pursuant to this Article. The Council may adopt rules stipulating a reduced registration fee for low-income students who have a disability within the meaning of Article 2 of the Act on the affairs of disabled people, No 59/1992. Such rules may take into account certain income limits and stipulate a reduction taking the form of either a fixed sum or a proportion of the registration fee. Furthermore, the Governing Council may adopt rules allocating part of the income from the registration fee to student associations providing social services.
 
-- Act No 140/2013, Article 23. (2) Act No 126/2011, Article 488. (3) Act No 50/2010, Article 12, read in conjunction with Transitional Provision II of the same Act. (4) Act No 56/2013, Article 6. (5) Act No 171/2011, Article 1.
+(1)Act No 140/2013, Article 23. (2)Act No 126/2011, Article 488. (3)Act No 50/2010, Article 12, read in conjunction with Transitional Provision II of the same Act. (4)Act No 56/2013, Article 6. (5)Act No 171/2011, Article 1.
 
 ### Article 25 Service agreements
 
