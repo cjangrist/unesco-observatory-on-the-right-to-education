@@ -44,7 +44,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 9. National respondents are encouraged to consult widely both within, across and beyond government, including with Ministries of Environment, with national human rights institutions, the education sector, civil society partners and others, as necessary, to gather the information needed to complete the questionnaire.
 
-- Responses to the seventh consultation should cover:
+10. Responses to the seventh consultation should cover:
 
 (i)      the time period 2017-2020;
 
@@ -58,7 +58,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 ### Global citizenship education and education for sustainable development
 
-- cultural diversity and tolerance
+- 1. cultural diversity and tolerance
 
 - 1.1 international or intercultural understanding, solidarity and cooperation
 
@@ -66,7 +66,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 1.3 local, national and/or global citizenship
 
-- gender equality education
+- 2. gender equality education
 
 - 2.1 gender-based equal opportunities
 
@@ -80,23 +80,23 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 [[START OF PAGE 3]]
 
-- human rights education
+- 3. human rights education
 
-- 3.1 equality  and  non-discrimination  based  on race, colour,  language, religion, disability,  political  or  other  opinion,  national  or  social  origin,  birth  or  other status
+- 3.1 equality and non-discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status
 
 - 3.2 human rights values, human dignity, justice, inclusion and participation
 
-- 3.3 respect for  human  rights  and  fundamental  freedoms  (as  outlined  in international conventions and declarations)
+- 3.3 respect for human rights and fundamental freedoms (as outlined in international conventions and declarations)
 
-- peace and non-violence
+- 4. peace and non-violence
 
 - 4.1 friendly relations among peoples and nations
 
 - 4.2 challenging negative stereotypes, promoting peaceful solutions, learning to live together, including others and preventing violent extremism
 
-- 4.3 preventing all forms of violence including bullying, verbal abuse and genderbased violence
+- 4.3 preventing all forms of violence including bullying, verbal abuse and gender-based violence
 
-- climate change education
+- 5. climate change education
 
 - 5.1 mitigation
 
@@ -106,7 +106,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 5.4 early warning
 
-- environmental sustainability
+- 6. environmental sustainability
 
 - 6.1 caring for the planet, protecting nature
 
@@ -114,15 +114,15 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 6.3 biodiversity, water
 
-- human survival and well-being
+- 7. human survival and well-being
 
-- 7.1 environmental health as it pertains to  human well-being, disaster risk reduction
+- 7.1 environmental health as it pertains to human well-being, disaster risk reduction
 
 - 7.2 health of the planet for future generations
 
 - 7.3 sustainable cities and communities
 
-- sustainable consumption and production
+- 8. sustainable consumption and production
 
 - 8.1 responsible and sustainable lifestyles
 
@@ -147,7 +147,7 @@ Themes of global citizenship and education for sustainable development
 4. Peace and non-violence | Education about peace and peace-building, mediation, conflict prevention and resolution, non-violence, reconciliation and living together peacefully. It includes advocating for friendly relations among peoples and nations, challenging negative stereotypes, promoting peaceful solutions, learning to live together and preventing violent extremism and other forms of violence including bullying.
 5. Climate change education | Education to help people, in particular youth, understand, address, mitigate, and adapt to the impacts of climate change. It encourages changes in attitudes and behaviours needed to put the world on a more sustainable development path, and build a new generation of climate change-aware citizens. It covers various responses to climate change including mitigation, adaptation, impact reduction and early warning.
 6. Environmental sustainability | Education about responsible interactions with the environment to avoid depletion or degradation and to promote environmental quality and health. It includes, caring for the planet and protecting nature, environmental justice, biodiversity and water.
-7. Human survival and well- being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
+7. Human survival and well-being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
 
 4
 
@@ -187,16 +187,7 @@ Vocational education | Education that is designed for learners to acquire the kn
 
 [[START OF PAGE 7]]
 
-## Information about the respondent
-
-Republic of Korea
----
-
-Korean National Commission for UNESCO
----
-
-31 January 2021
----
+## IV. Information about the respondent
 
 Country:
 
@@ -296,10 +287,23 @@ Lastly , the ROK also has a legal framework to promote and support UNESCO activi
 
 #### A1b. Please provide the full names of any laws, legislation or legal frameworks referred to in A1a and, where possible, web links to relevant documents.
 
-* Official Egnlish translations are available. Please click the hyperlinks. 1. Framework Act on Education 2. National Human Rights Commission of Korea 3-1. Framework Act on Gender Equality 3-2. Enforcement Decree of the Framework Act on Gender Equality 4. Unification Education Support Act 5-1. Act on the Prevention of and Countermeasures Against Violence in Schools 5-2. Enforcement Decree of the Act on the Prevention of and Countermeasures Against Violence in Schools 6. Youth Activity Promotion Act 7. Child Welfare Act 8-1. Multicultural Families Support Act 8-2. Enfocement Decree of the Multicultural Families Support Act (Presidential Decree) 9. Environmental Education Promotion Act 10. Social Welfare Services Act 11-1. Character Education Promotion Act 11-2. Enforcement Decree of Character Education Promotion Act
----
-Act on UNESCO Activities * English translation is available only as document. No website link is available.
-12.
+* Official Egnlish translations are available. Please click the hyperlinks.
+1. Framework Act on Education
+2. National Human Rights Commission of Korea
+3-1. Framework Act on Gender Equality
+3-2. Enforcement Decree of the Framework Act on Gender Equality
+4. Unification Education Support Act
+5-1. Act on the Prevention of and Countermeasures Against Violence in Schools
+5-2. Enforcement Decree of the Act on the Prevention of and Countermeasures Against Violence in Schools
+6. Youth Activity Promotion Act
+7. Child Welfare Act
+8-1. Multicultural Families Support Act
+8-2. Enfocement Decree of the Multicultural Families Support Act (Presidential Decree)
+9. Environmental Education Promotion Act
+10. Social Welfare Services Act
+11-1. Character Education Promotion Act
+11-2. Enforcement Decree of Character Education Promotion Act
+12. Act on UNESCO Activities * English translation is available only as document. No website link is available.
 
 10
 
@@ -313,11 +317,11 @@ KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given lev
 
 National | Sub-national
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Pre- primary | Primary/ secondary | Tertiary | Non- formal | Pre- primary | Primary/ secondary | Tertiary | Non- formal
+Pre-primary | Primary/secondary | Tertiary | Non-formal | Pre-primary | Primary/secondary | Tertiary | Non-formal
 1. | Cultural diversity and tolerance | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 2. | Gender equality | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 3. | Human rights | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
-4. | Peace and non- violence | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
+4. | Peace and non-violence | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 5. | Climate change | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 6. | Environmental sustainability | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 7. | Human survival and well-being | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
@@ -329,7 +333,7 @@ The Republic of Korea launched its Comprehensive Plan for Sustainable Devleopmen
 
 * In South Korea the MOE establishes key policy frameworks on specific issues/thematic areas at the national level and each MPOE then establishes its own respective policy framework in line with those of the MOE. Each MPOE is independent and has the power to choose its own foci and develop its own programmes depending on the local context and demands.
 
-All  the  themes  of  ESD/GCED  listed  in  this  questionnaire  are  explicitly  mentioned  in  key  policy documents of both the Ministry of Education and the 17 MPOEs, though each theme is included to varying degrees . Some themes, such as education for gender equality and human rights, are considered to be cross-cutting themes and are most explicitly backed up by the legal framework, whereas some others, such  as  peace  and  non-violence,  human  survival  and  well-being,  and  sustainable  consumption  and production, are promoted mostly through school-based activities supported by MPOEs. The most visible themes in terms of policies concerning learning content and large-scale budgetary and policy support can be  observed  in  the  policies  concerning  'democratic  citizenship  education,'  on  the  one  hand,  and 'multicultural education' and 'environmental education', on the other, all of which are covered by policy plans announced each year by the MOE, and subsequently MPOEs. As mentioned in section A1 above, democratic citizenship education has a firm basis in the Framework Act on Education as well as the national curriculum framework, while multicultural education and environmental education also have specific legal frameworks explicitly and  exclusively  dedicated  to  them.  Policies  for  multicultural  education  in  South Korea  used  to  be  narrowly  focused  on  support  for  'multicultural  families'  with  an  'assimilationist' perspective in the past, but the policy perspective has changed significantly since 2016 into more of a 'global citizenship' perspective emphasizing the values of inclusion and pluralism and invoking a broader identity as members of the global community. From a slightly different angle, South Korea's 'Character Education' also  contains  policy  frameworks  supporting  SDG  4.7.  Although  Character  Education  was  initially introduced  from  a  more  conservative  perspective,  it  is  also  becoming  more  aligned  with  education  for democratic citizenship and global citizenship under a 2 nd comprehensive plan (2021-2025) for this type of education established under the current government. In addition, since 2020, particularly with the pandemic and growing awareness of environmenal issues, South Korea has also witnessed a burgeoning emphasis on education  related  to  sustainable  development.  Led  by  the  Seoul  Metropolitan  Office  of  Education,  the country's  17  MPOEs  are  preparing  comprehensive  plans  for  what  they  call  'education  for  ecological transition.'
+All the themes of ESD/GCED listed in this questionnaire are explicitly mentioned in key policy documents of both the Ministry of Education and the 17 MPOEs, though each theme is included to varying degrees. Some themes, such as education for gender equality and human rights, are considered to
 
 > 3 See the schema described in paragraph 11 of Section II of these guidelines.
 
@@ -339,7 +343,9 @@ All  the  themes  of  ESD/GCED  listed  in  this  questionnaire  are  explicitly
 
 [[START OF PAGE 12]]
 
-GCED/ESD themes  are  explictly  mentioned  in  the  aforementioned  policy  documents  as  key  features. GCED/ESD per se are also explicitly mentioned in the policy frameworks as interlocking or cross-cutting themes, or presented as specific education programmes and activities. The MOE and MPOEs have also been establishing various annual plans for specific education programmes exclusively for GCED/ESD, such as the Annual Plan for the GCED Lead Teachers Programme (Ministry of Education, 2017, 2018, 2019, 2020).  A  number  of  MPOEs  have  also  established  their  own  policy  frameworks.  For  example,  the superintendent (a position elected by local popular vote)* of the Seoul Metropolitan Office of Education (2018-2022) put 'peace' as one of his seven campaign pledges (Goal 4: Peace). The pledge included a number themes related to SDG 4.7 in its targets, such as '(4-1-1) Foundations for and Implementaion of Peace Education,' '(4-2-2) Comprehensive Implementation of Multicultural Education,' '(4-3-1) Promotion of Global Gitizenship Education,' and '(4-3-3) Global Exchange and Cooperation for Internationalization of Education.'
+be cross-cutting themes and are most explicitly backed up by the legal framework, whereas some others, such as peace and non-violence, human survival and well-being, and sustainable consumption and production, are promoted mostly through school-based activities supported by MPOEs. The most visible themes in terms of policies concerning learning content and large-scale budgetary and policy support can be observed in the policies concerning 'democratic citizenship education,' on the one hand, and 'multicultural education' and 'environmental education', on the other, all of which are covered by policy plans announced each year by the MOE, and subsequently MPOEs. As mentioned in section A1 above, democratic citizenship education has a firm basis in the Framework Act on Education as well as the national curriculum framework, while multicultural education and environmental education also have specific legal frameworks explicitly and exclusively dedicated to them. Policies for multicultural education in South Korea used to be narrowly focused on support for 'multicultural families' with an 'assimilationist' perspective in the past, but the policy perspective has changed significantly since 2016 into more of a 'global citizenship' perspective emphasizing the values of inclusion and pluralism and invoking a broader identity as members of the global community. From a slightly different angle, South Korea's 'Character Education' also contains policy frameworks supporting SDG 4.7. Although Character Education was initially introduced from a more conservative perspective, it is also becoming more aligned with education for democratic citizenship and global citizenship under a 2nd comprehensive plan (2021-2025) for this type of education established under the current government. In addition, since 2020, particularly with the pandemic and growing awareness of environmenal issues, South Korea has also witnessed a burgeoning emphasis on education related to sustainable development. Led by the Seoul Metropolitan Office of Education, the country's 17 MPOEs are preparing comprehensive plans for what they call 'education for ecological transition.'
+
+GCED/ESD themes are explictly mentioned in the aforementioned policy documents as key features. GCED/ESD per se are also explicitly mentioned in the policy frameworks as interlocking or cross-cutting themes, or presented as specific education programmes and activities. The MOE and MPOEs have also been establishing various annual plans for specific education programmes exclusively for GCED/ESD, such as the Annual Plan for the GCED Lead Teachers Programme (Ministry of Education, 2017, 2018, 2019, 2020). A number of MPOEs have also established their own policy frameworks. For example, the superintendent (a position elected by local popular vote)* of the Seoul Metropolitan Office of Education (2018-2022) put 'peace' as one of his seven campaign pledges (Goal 4: Peace). The pledge included a number themes related to SDG 4.7 in its targets, such as '(4-1-1) Foundations for and Implementaion of Peace Education,' '(4-2-2) Comprehensive Implementation of Multicultural Education,' '(4-3-1) Promotion of Global Gitizenship Education,' and '(4-3-3) Global Exchange and Cooperation for Internationalization of Education.'
 
 * The superintendent (the highest post in each MPOE) in South Korea is an official elected by a local popular vote. Since 2014, the majority of the superintendents (14 out of 17 MPOEs) elected through local elections are deemed 'progressive', implying in South Korea that they tend to be committed to education for democratic citizenship, peace, social justice, gender equity, multiculturalism, and environmental sustainability. Even those MPOEs that do not fall into such a political category would still perceive GCED to be highly necessary in terms of the skills required for the globalizing world of the 21st century.
 
@@ -357,7 +363,7 @@ The 2020 study investigated the extent to which GCED is mainstreamed in educatio
 
 The following policy documents are available only in Korean. All the comprehensive or annual plans by the MOE on specific themes are followed by those of the MPOEs, which align both with MOE frameworks and with locally specific foci and contexts.
 
-- Official English translation is not available. The hyperlinks are for the websites in Korean.
+* Official English translation is not available. The hyperlinks are for the websites in Korean.
 
 - Annual Plan for Education, MOE
 
@@ -371,13 +377,13 @@ The following policy documents are available only in Korean. All the comprehensi
 
 - Operation Support Plan for ASPnet (Seoul Metropolitan Office of Education, 2017)
 
-- 2 nd Comprehensive Plan for Environmental Education (2016-2020) (the 3rd Plan is currently in preparation)
+- 2nd Comprehensive Plan for Environmental Education (2016-2020) (the 3rd Plan is currently in preparation)
 
 - Comprehensive Plan for the Promotion of Democratic Citizenship Education (MOE, 2018)
 
 - Plans for Democratic Citizenship Education for Schools from some of the 17 MPOEs
 
-- 2 nd Comprehensive Plan for Character Education
+- 2nd Comprehensive Plan for Character Education
 
 - Various Plans related to human rights and human rights education (MOE, MPOEs) (e.g., Plan for the Promotion of Labor-related Human Rights Education, MOE, 2020)
 
@@ -447,21 +453,21 @@ The values and principles of GCED/ESD are both explicated and implied in the Fra
 
 Based on this ideal and ultimate goal of education, the 'Vision of an Educated Person' in the National Curriculum is specified as follows:
 
-- A self-determined person who cultivates his/her identity and actively develops his/her career and life through holistic growth/development;
+A. A self-determined person who cultivates his/her identity and actively develops his/her career and life through holistic growth/development;
 
-- A creative person who pursues novelty and innovation through diverse ideas and challenges while firmly grounded upon basic competencies;
+B. A creative person who pursues novelty and innovation through diverse ideas and challenges while firmly grounded upon basic competencies;
 
-- A cultivated person who appreciates and promotes the cultures of humankind on the basis of cultural literacy and understanding of diverse values; and
+C. A cultivated person who appreciates and promotes the cultures of humankind on the basis of cultural literacy and understanding of diverse values; and
 
-- A person who lives in harmony with others, fulfilling the ethics of caring and sharing, as a democratic citizen with a sense of community and connection to the global world.
+D. A person who lives in harmony with others, fulfilling the ethics of caring and sharing, as a democratic citizen with a sense of community and connection to the global world.
 
 Such values and philosophies are expected to be diffused throughout the subject-specific curricula as well - although there are still some segments of subject content that present contradictory positions and need further modification in the future.
 
 The Framework also articulates the concept of 'Equal Opportunities for All Students', which has much in common with the values of GCED/ESD. For instance, the Framework encourages schools and educators to:
 
-- Guide students to avoid biases about gender roles, educational levels and occupations, religions, regions of residence, ethnicities, nationalities, and so forth.
+A. Guide students to avoid biases about gender roles, educational levels and occupations, religions, regions of residence, ethnicities, nationalities, and so forth.
 
-- Provide support for authentic learning experiences for slow learners, students with disabilities, gifted students in certain areas, returnees from overseas, students from multicultural families, and so forth.
+B. Provide support for authentic learning experiences for slow learners, students with disabilities, gifted students in certain areas, returnees from overseas, students from multicultural families, and so forth.
 
 (...)
 
@@ -473,11 +479,11 @@ The Framework also articulates the concept of 'Equal Opportunities for All Stude
 
 [[START OF PAGE 16]]
 
-- In the case of courses on religion,schools must offer multiple courses on different religions to ensure students' right of choice. However, in the case of religion-affiliated schools, where students enroll willingly, a single course may be offered with the consent of parents and students.
+E. In the case of courses on religion,schools must offer multiple courses on different religions to ensure students' right of choice. However, in the case of religion-affiliated schools, where students enroll willingly, a single course may be offered with the consent of parents and students.
 
 ###### GCED/ESD content integrated into various/relevant subjects
 
-First, throughout the subject-specific curricula across grades, concepts such as sustainable development, global citizenhip, social justice, human rights, peace and non-violent conflict resolution, gender equity, antidiscrimination, multiculturalism and pluralism, democracy, cooperation among individuals, and international cooperation, among other relevant topics, are explicitly introduced as learning content as well as values to cultivate . This is achieved mostly through, but not limited to, subjects like social studies and ethics.
+First, throughout the subject-specific curricula across grades, concepts such as sustainable development, global citizenhip, social justice, human rights, peace and non-violent conflict resolution, gender equity, anti-discrimination, multiculturalism and pluralism, democracy, cooperation among individuals, and international cooperation, among other relevant topics, are explicitly introduced as learning content as well as values to cultivate. This is achieved mostly through, but not limited to, subjects like social studies and ethics.
 
 In  addition  to sometimes explicitly  and  directly  discussing GCED/ESD themes ,  the  subject-specific curricula also offer various entry points through which GCED/ESD themes can be introduced . Both of these approaches take place through the main components of the curricula, called 'achievement standards (expected  learning  outcomes)',  'learning  elements',  and/or  'teaching-learning  methods.'  Achievement standards (or expected learning outcomes) are particularly important since they also set the range of content and competencies on which students will be assessed. Therefore, teachers are expected to cover all these achievement  standards  in  one  way  or  another.  GCED/ESD  themes  often  appear  in  these  achievement standards, which provide the strongest entry points for mainstreaming when it comes to the curriculum. For example , 'Moral Education,' one of the mandatory subjects for primary and lower secondary education in South Korea, has achievement standards/expected learning outcomes as follows:
 
@@ -519,13 +525,17 @@ The Exam-Free Semester Policy , which was implemented in 2016, allows at least o
 
 ###### Possibility for Standalone Subject - not mainstreamed, but possible
 
-While there is no subject called 'global citizenship education' or 'education for sustainable development' in the  National  Curriculum,  there  are  subject  categories  called  'the  middle  school  Elective  Subjects curriculum' and 'the high school Life/Liberal Arts curriculum' under which 'schools may offer a new elective or life/liberal arts course, if necessary. In this case, they should take necessary procedures according to the guidelines provided by the Metropolitan and Provincial Office of Education' (Framework 2015). Certain MPOEs might allow schools to set up GCED as one of those subjects. For instance, the Seoul Metropolitan Office of Education has developed a series of textbooks on GCED (2017) together with the Gyeonggi Provincial Office of Education and the Gangwon Provincial Office of Education. The Seoul Metropolitan Office of Education has also provided guidance that allows interested schools to set up GCED as a stand-alone subject in the 'elective subject group' at lower secondary level or the 'life-liberal art subject group' at the upper secondary level. However, since examples of such cases are rare in the overall education system, this  option  cannot  at  present  be  seen  as  a  means  to  mainstream  GCED/ESD.  Additionally,  its efficacy has not yet been monitored and needs to be examined in the future.
+While there is no subject called 'global citizenship education' or 'education for sustainable development' in the National Curriculum, there are subject categories called 'the middle school Elective Subjects
 
 17
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
+
+curriculum' and 'the high school Life/Liberal Arts curriculum' under which "schools may offer a new elective or life/liberal arts course, if necessary. In this case, they should take necessary procedures according to the guidelines provided by the Metropolitan and Provincial Office of Education" (Framework 2015).
+
+Certain MPOEs might allow schools to set up GCED as one of those subjects. For instance, the Seoul Metropolitan Office of Education has developed a series of textbooks on GCED (2017) together with the Gyeonggi Provincial Office of Education and the Gangwon Provincial Office of Education. The Seoul Metropolitan Office of Education has also provided guidance that allows interested schools to set up GCED as a stand-alone subject in the 'elective subject group' at lower secondary level or the 'life-liberal art subject group' at the upper secondary level. However, since examples of such cases are rare in the overall education system, this option cannot at present be seen as a means to mainstream GCED/ESD. Additionally, its efficacy has not yet been monitored and needs to be examined in the future.
 
 #### B1b. Please provide examples of curricula in which GCED and/or ESD are mainstreamed and, where possible, web links to relevant documents.
 
@@ -545,11 +555,11 @@ In addition to the explanation above in B1a on how GCED/ESD are mainstreamed in 
 
 [6  SS  07-04]  Nurture attitudes that  respect  different values  and  cultures through  an  understanding of human life and its relation to the environment by exploring: regional/local diversity; cultural aspects such as  clothing,  food,  housing of  diverse  lifestyles;  natural  factors  such  as  climate  and  terrain;  and  other aspects of human life such as religions and traditions.
 
-[6 SS 08-06] Explore challenges in building a sustainable future, such as expansion of environmentallyfriendly production, fighting poverty and hunger and malnutrition, and elimination of cultural prejudice and discrimination, and actively participate in seeking solutions to these issues as global citizens.
+[6 SS 08-06] Explore challenges in building a sustainable future, such as expansion of environmentally-friendly production, fighting poverty and hunger and malnutrition, and elimination of cultural prejudice and discrimination, and actively participate in seeking solutions to these issues as global citizens.
 
 [10 ISS 04-01] Understand the meaning of human rights, recent citizen revolutions, and changes in human rights  over  time;  research  examples  of  the  expansion  of  human  rights  into  a  variety  of  areas  such  as housing, safety, and the contemporary environment.
 
-[10  ISS  04-03]  Utilize  human  rights  indices  presented  by  international  organizations  and/or  nongovernmental organizations to learn about patterns and aspects of human rights-related issues in each region of the world and to explore possible solutions to these issues.
+[10 ISS 04-03] Utilize human rights indices presented by international organizations and/or non-governmental organizations to learn about patterns and aspects of human rights-related issues in each region of the world and to explore possible solutions to these issues.
 
 [10  ISS  05-03]  Discuss  how  differences  in  the  regional  distribution  of  resources,  labor,  capital,  and production costs etc. cause international divisions in labor and trade; discuss the positive and negative aspects of the expansion of international trade in the lives of individuals and national economies through examination of specific pertinent examples.
 
@@ -645,7 +655,7 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
-Cultural diversity and tolerance | Gender equality | Human rights | Peace and non- violence | Climate change | Environmental sustainability | Human survival and well- being | Sustainable consumption and production
+Cultural diversity and tolerance | Gender equality | Human rights | Peace and non-violence | Climate change | Environmental sustainability | Human survival and well-being | Sustainable consumption and production
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Arts | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Civics, civil or citizenship education | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
@@ -690,7 +700,7 @@ KEY: 0 = no, 1 = yes, 9 = unknown
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | --- | ---
 3. | Human rights education
-3.1 | equality and non- discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status | 1 | 1 | 1 | 1
+3.1 | equality and non-discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status | 1 | 1 | 1 | 1
 3.2 | human rights values, human dignity, justice, inclusion and participation | 1 | 1 | 1 | 1
 3.3 | respect for human rights and fundamental freedoms (as outlined in international conventions and declarations) | 1 | 1 | 1 | 1
 
@@ -700,7 +710,7 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 
 [[START OF PAGE 23]]
 
-### C. Teacher education (including the training of trainers and educators) (paras 4 and 3337 of the 1974 Recommendation )
+### C. Teacher education (including the training of trainers and educators) (paras 4 and 33-37 of the 1974 Recommendation )
 
 #### C1a. Please describe in which ways GCED and ESD are mainstreamed in initial training and in  continuing  professional  development  of  teachers,  trainers  and  educators.  Indicate whether all teachers, trainers and educators or only some are required to receive training to teach GCED and/or ESD.
 
@@ -722,11 +732,11 @@ For in-service training, the 17 MPOEs are the key providers/actors. GCED policie
 
 The MOE also cooperates with the 17 MPOEs on GCED teacher education for in-service teachers. One example is APCEIU's GCED Lead Teachers Program sponsored by the MOE since 2015. To implement a more democratic, transformative and sustainable education, the programme offers teacher-centred research and continuous capacity-building opportunities for Korean teachers to enhance their capacities in carrying out GCED teaching and increase their research abilities to identify various GCED practices. Each year, four national GCED lead teachers from each MPOE are trained by APCEIU and the MOE. They implement various GCED activities such as developing learners' GCED knowledge, skills, values and attitudes in their educational  settings,  and  developing  GCED  teaching  and  learning  materials.  GCED  lead  teachers  also organize GCED study associations in their provinces, hold special lectures, and research GCED-related issues and pedagogies, with the help of each MPOE. The national lead teachers also train provincial lead teachers of GCED in their provinces annually, in cooperation with the 17 MPOEs. The total number of national and provincial lead teachers trained since 2015 is approximately 4,000 so far. The GCED lead teachers programme runs on an application basis, not on a mandatory basis.
 
-The ROK Government also provides online teacher training on GCED through KOICA and APCEIU. In particular, the government has provided support for APCEIU to manage the GCED Online Campus, which targets  educators,  youth,  and  the  general  public  both  within  South  Korea  and  abroad.  since  2016.The campus collaborates with the Ban Ki-moon Centre for Global Citizens (BKMC) in Vienna, to provide Elearning programmes that focus on fostering global citizenship and gender equality to achieve the SDGs. It has  open  courses  and  advanced  courses  that  give  an  overview  of  GCED,  and  cover  pedagogies,  best practices, advocacy, curriculum development, and topics relating to GCED, as well as general and special lectures on the thematic area of GCED. APCEIU has also collaborated with the private education company I-Scream Media on a Public-Private Partnership (PPP) to  develop a GCED course for Korean teachers. The course was launched in 2020 and contains 30 lectures on subjects such as the SDGs, the GCED concept, transformative pedagogies, GCED implementation in and outside the classroom, thematic areas of GCED, development of GCED action plans, etc. Most of the GCED lead teachers and teachers interested in GCED in South Korea are taking this course and utilizing the lessons for their educational activities.
+The ROK Government also provides online teacher training on GCED through KOICA and APCEIU. In particular, the government has provided support for APCEIU to manage the GCED Online Campus, which targets educators, youth, and the general public both within South Korea and abroad. since 2016.The campus collaborates with the Ban Ki-moon Centre for Global Citizens (BKMC) in Vienna, to provide E-learning programmes that focus on fostering global citizenship and gender equality to achieve the SDGs. It has open courses and advanced courses that give an overview of GCED, and cover pedagogies, best practices, advocacy, curriculum development, and topics relating to GCED, as well as general and special lectures on the thematic area of GCED. APCEIU has also collaborated with the private education company I-Scream Media on a Public-Private Partnership (PPP) to develop a GCED course for Korean teachers. The course was launched in 2020 and contains 30 lectures on subjects such as the SDGs, the GCED concept, transformative pedagogies, GCED implementation in and outside the classroom, thematic areas of GCED, development of GCED action plans, etc. Most of the GCED lead teachers and teachers interested in GCED in South Korea are taking this course and utilizing the lessons for their educational activities.
 
 KOICA is also pursuing a PPP on GCED in cooperation with I-Scream Media, offering yet another GCED course  for  Korean  educators.  This  course  consists  of  30  lectures  covering  global  issues,  Official Development Aid (ODA), GCED practices in The Republic of Korea and abroad, and GCED pedagogies, etc.    The  course  emphasizes  that  GCED  issues  are  closely  related  to  international  development  and cooperation issues, and to ODA.
 
-Last but not least,  a range of civil society organizations in South Korea, such as PEACEMOMO, Beautiful Store, Amnesty International Korea, Good Neighbours, and World Vision also carry out GCED-related activities, including teacher education for pre- and in-service teachers and civic educators. For example, PEACEMOMO, which specializes in peace education, has organized various workshops to support school teachers, civic educators and teacher trainers in the subjects of peace education and GCED. World Vision has  implemented  a  nationwide  'Schools  of  Global  Citizenship'  project  in  which  the  organization collaborated with 489 South Korean schools to organize GCED-related activities, including teacher training workshops  for  GCED  twice  a  year  and  GCED  online  workshops  on  peace,  human  rights,  and  the environment. Good Neighbours, which organizes various GCED-related projects, has run teacher training workshops  on  human  rights,  including  children's  rights,  for  pre-primary  school  teachers,  primary  and secondary teachers, and civic educators. Beautiful Store mainly focuses on fostering responsible consumer behaviour and global citizenship by highlighting fair trade and environmental protection.
+Last but not least, a range of civil society organizations in South Korea, such as PEACEMOMO, Beautiful Store, Amnesty International Korea, Good Neighbours, and World Vision also carry out GCED-related activities, including teacher education for pre- and in-service teachers and civic educators. For example,
 
 24
 
@@ -734,7 +744,9 @@ Last but not least,  a range of civil society organizations in South Korea, such
 
 [[START OF PAGE 25]]
 
-#### C1b. Please provide examples of teacher training policies or curricula in which GCED and/or ESD are mainstreamed and, where possible, web links to relevant documents. If  possible, include examples related to initial training and to continuing professional development.
+PEACEMOMO, which specializes in peace education, has organized various workshops to support school teachers, civic educators and teacher trainers in the subjects of peace education and GCED. World Vision has implemented a nationwide 'Schools of Global Citizenship' project in which the organization collaborated with 489 South Korean schools to organize GCED-related activities, including teacher training workshops for GCED twice a year and GCED online workshops on peace, human rights, and the environment. Good Neighbours, which organizes various GCED-related projects, has run teacher training workshops on human rights, including children's rights, for pre-primary school teachers, primary and secondary teachers, and civic educators. Beautiful Store mainly focuses on fostering responsible consumer behaviour and global citizenship by highlighting fair trade and environmental protection.
+
+#### C1b. Please provide examples of teacher training policies or curricula in which GCED and/or ESD are mainstreamed and, where possible, web links to relevant documents. If possible, include examples related to initial training and to continuing professional development.
 
 English versions of the documents listed below are not available
 
@@ -780,7 +792,7 @@ how to teach the content of peace education and GCED in their classroom. In addi
 
 ###### iii) Promoting Peace Education and GCED and Establishing Networks
 
--Management of Teacher Training on Peace Education and GCED: In partnership with GCEDrelated organizations such as APCEIU, the SMOE provides customized teacher training and workshops on peace education and GCED for teachers in Seoul. These trainings and workshops have become a significant platform for peace education and GCED by developing a training curriculum to integrate peace education into GCED, sharing best practices with teachers and offering online workshops on GCED, etc. The SMOE previously tended to treat peace education and GCED separately in its teacher education, but recognizing the synergy between peace education and GCED, has integrated peace education into GCED in the area of teacher education since 2020.
+-Management of Teacher Training on Peace Education and GCED: In partnership with GCED-related organizations such as APCEIU, the SMOE provides customized teacher training and workshops on peace education and GCED for teachers in Seoul. These trainings and workshops have become a significant platform for peace education and GCED by developing a training curriculum to integrate peace education into GCED, sharing best practices with teachers and offering online workshops on GCED, etc. The SMOE previously tended to treat peace education and GCED separately in its teacher education, but recognizing the synergy between peace education and GCED, has integrated peace education into GCED in the area of teacher education since 2020.
 
 As the office of education for the capital of the Republic of Korea, the SMOE acts as a role model for other MPOEs in  carrying out various GCED activities and projects that support teachers to implement GCED in their local context, and and in developing GCED policy and curricula in the area of teacher education.
 
@@ -872,9 +884,9 @@ Since student assessments are supposed to be based on the expected learning outc
 
 [9 ME 03-01] Understand that human dignity, human rights, and gender equality are universal values from a moral standpoint; be able to empathize with and care about others, based on due respect for their human rights and resistance against various forms of social prejudices. 1) Why are human dignity and human rights important? 2) How do we treat social minorities? 3) How do we promote gender equality? ( k, b, a)
 
-[9 ME 03-03] Cultivate the ethics of a global citizen by understanding moral values/ethics required for global citizens, recognizing various moral issues arising in the global eommunity and developing a proactive attitude to participation in solving such problems. 1) Am I global citizen? 2) What are the ethical/moral issues that global citizens face? 3. How can we solve these ethical/moral issues? ( k,b,a )
+[9 ME 03-03] Cultivate the ethics of a global citizen by understanding moral values/ethics required for global citizens, recognizing various moral issues arising in the global eommunity and developing a pro-active attitude to participation in solving such problems. 1) Am I global citizen? 2) What are the ethical/moral issues that global citizens face? 3. How can we solve these ethical/moral issues? ( k,b,a )
 
-[9 ME 04-01] Understand the importance to human life of humanity living in harmony with nature ; understand the need for the protection of the environment from various perspectives. Evaluate the impact of human consumption patterns on the environment from the point of view of ecological sustainability; acquire practical environmentally-friendly life skills. 1. Are human beings the master of nature? 2. What are the connections between environmental values and consumption patterns? 3. What concrete action can be taken for an eco-friendly life? (k, b, v, a)
+[9 ME 04-01] Understand the importance to human life of humanity living in harmony with nature; understand the need for the protection of the environment from various perspectives. Evaluate the impact of human consumption patterns on the environment from the point of view of ecological sustainability; acquire practical environmentally-friendly life skills. 1. Are human beings the master of
 
 28
 
@@ -882,9 +894,11 @@ Since student assessments are supposed to be based on the expected learning outc
 
 [[START OF PAGE 29]]
 
-[6  SS  (Social  Studies)  07-04]  Nurture  attitudes  that  respect  different  values  and  cultures  through  an understanding of human life and its relation to the environment by exploring: regional/local diversity; cultural aspects such as clothing, food, and housing of diverse lifestyles; natural factors such as climate and terrain; and other aspects of human life such as religions and traditions. (k, b, v)
+nature? 2. What are the connections between environmental values and consumption patterns? 3. What concrete action can be taken for an eco-friendly life? (k, b, v, a)
 
-[6 SS 08-06] Explore challenges in building a sustainable future, such as expansion of environmentallyfriendly production, fighting poverty and hunger and malnutrition, and elimination of cultural prejudice and discrimination; actively participate in seeking solutions to these issues as global citizens. (k ,b, v)
+[6 SS (Social Studies) 07-04] Nurture attitudes that respect different values and cultures through an understanding of human life and its relation to the environment by exploring: regional/local diversity; cultural aspects such as clothing, food, and housing of diverse lifestyles; natural factors such as climate and terrain; and other aspects of human life such as religions and traditions. (k, b, v)
+
+[6 SS 08-06] Explore challenges in building a sustainable future, such as expansion of environmentally-friendly production, fighting poverty and hunger and malnutrition, and elimination of cultural prejudice and discrimination; actively participate in seeking solutions to these issues as global citizens. (k ,b, v)
 
 [9  EE (Environmental Education) 03-12] Suggest various measures to respond to climate changes by classifying  such measures into those to be taken by individuals and those to be taken by societies at regional, national and global levels; present your suggestions and relate them to your own personal roles and responsibilities. (k, b, v, a)
 
@@ -892,7 +906,7 @@ Since student assessments are supposed to be based on the expected learning outc
 
 [10  ISS  (Integrated  Social  Studies)  04-01]  Understand  the  meaning  of  human  rights,  recent  citizen revolutions, and changes in human rights over time; research examples of the expansion of human rights into a variety of areas such as housing, safety, and the contemporary environment. (k, b)
 
-[10  ISS  04-03]  Utilize  human  rights  indices  presented  by  international  organizations  and/or  nongovernmental organizations to learn about  patterns and aspects of human rights-related issues in each region of the world and to explore possible solutions to these issues. (k, b, v)
+[10  ISS  04-03]  Utilize  human  rights  indices  presented  by  international  organizations  and/or  non-governmental organizations to learn about  patterns and aspects of human rights-related issues in each region of the world and to explore possible solutions to these issues. (k, b, v)
 
 [10  ISS  05-03]  Discuss  how  differences  in  the  regional  distribution  of  resources,  labor,  capital,  and production costs etc. cause international divisions in labor and trade; and discuss the positive and negative aspects of the expansion of international trade in the lives of individuals and the national economy through examinination of specific pertinent examples. (k, b)
 
@@ -1003,7 +1017,7 @@ TVET in South Korea is part of formal education at the upper secondary level. Mi
 
 Since technical high schools also share some common curriculum with other high schools, GCED/ESD themes are often introduced as cross-cutting themes in the curriculum. However, interest from the TVET field  in  GCED/ESD  themes  is  shaped  by  the  particular  needs  of  TVET  and  may  centre  around  a  few particular thematic areas.
 
-One noticeable initiative  is  a  recent  effort  to  increase  and  enhance  human  rights  education  relevant  to students in TVET, who are prospective workers but also engaged in various apprenticeship programmes. As noted above in B1, the Ministry of Education has established a Plan for the Promotion of Labor-related Human Rights Education to enhance students' awareness of legal and ethical dimensions of human rights and their competencies to deal with any infringement on human rights or discriminatory situations. Some experts and teachers, however, also point out the shortcoming in this promotion of human rights and human rights education by indicating that students also need to learn to reflect on their own prejudices and actions to prevent themselves from infringing upon the rights of others. This is particularly important in rapidly changing work environments, especially those of manufacturing, where students in TVET are more likely to encounter linguistic, ethnic and cultural diversity. Hence, it has been suggested that education for antidiscrimination, social justice, and international understanding should be strengthened particularly in TVET, with more life-relevant content, methods, and materials.
+One noticeable initiative  is  a  recent  effort  to  increase  and  enhance  human  rights  education  relevant  to students in TVET, who are prospective workers but also engaged in various apprenticeship programmes. As noted above in B1, the Ministry of Education has established a Plan for the Promotion of Labor-related Human Rights Education to enhance students' awareness of legal and ethical dimensions of human rights and their competencies to deal with any infringement on human rights or discriminatory situations. Some experts and teachers, however, also point out the shortcoming in this promotion of human rights and human rights education by indicating that students also need to learn to reflect on their own prejudices and actions to prevent themselves from infringing upon the rights of others. This is particularly important in rapidly changing work environments, especially those of manufacturing, where students in TVET are more likely to encounter linguistic, ethnic and cultural diversity. Hence, it has been suggested that education for anti-discrimination, social justice, and international understanding should be strengthened particularly in TVET, with more life-relevant content, methods, and materials.
 
 Global competencies, including intercultural literacy, is another area in which technical high schools have an interest. The MOE and MPOEs provide some exchange programmes to enhance global competencies and  intercultural  literacy.  APCEIU,  with  the  support  of  the  MOE  and  MPOEs,  has  also  operated international teacher exchange programmes in TVET for many years.
 
@@ -1013,13 +1027,15 @@ Another area of interest to technical high schools is the issue of changing envi
 
 #### G1 Please  describe  any  major  initiatives  that  have  been  undertaken  to  promote  GCED and/or ESD in adult education and other forms of non-formal education including youth education, out-of-school  education,  etc.  Describe  briefly  the  outcomes and  impact  of such initiatives and provide examples of good practices.
 
-South Korea's current lifelong education system, including adult education, stems from the country's 1999 Lifelong Education Act. The Act triggered a state-led structuring of adult learning that trickles down from the national level (e.g. development of frameworks and guidelines) to the regional and local levels (e.g. management of networks of adult learning providers and promotion of the usage of underutilized public spaces  as  learning  spaces).  Furthermore,  the  Act  specified  that  lifelong  educators  should  receive professional training and placements.
+South Korea's current lifelong education system, including adult education, stems from the country's 1999 Lifelong Education Act. The Act triggered a state-led structuring of adult learning that trickles down from the national level (e.g. development of frameworks and guidelines) to the regional and local levels (e.g. management of networks of adult learning providers and promotion of the usage of underutilized public
 
 32
 
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
+
+spaces as learning spaces). Furthermore, the Act specified that lifelong educators should receive professional training and placements.
 
 As the legal basis for adult education in the ROK, the Act brought transformations in the 1990s, with education  in  general,  including  adult  learning  education,  reflecting  a  growing  discourse  related  to  the environment, working women, human rights, unification and welfare. Citizenship education helped address local  and  environmental  matters,  supported  marginalized  women's  voices  to  be  heard,  and  brought consumer-related  issues  to  greater  prominence.  Interest  in  GCED  in  South  Korea  has  been  growing particularly since globalization. However, GCED has a relatively short history in the country and still lacks the recognition and consensus needed to establish its position in the education sector. There have been delays in enacting GCED-related legislation, and a complete survey of national statistics in this area has yet to be carried out.
 
@@ -1043,11 +1059,11 @@ As part of the ROK Government response, APCEIU, the National Institute for Lifel
 
 ##### [Research]
 
-Research on GCED/ESD has been carried out by a number of stakeholders. Some national institutes and expert groups affiliated with, or requested by, the MOE and the MPOEs have been conducting policy studies on GCED/ESD and their related themes. These studies are often completed to assess the feasibility and strategies of certain policies that the MOE or the MPOEs might be planning. Policy studies on education for democratic citizenship, multiculturalism, and ecological transition, for example, are among these policyoriented research programmes. Recently, APCEIU launched a series of studies on peace education in/for South Korea in 2020, and will hopefully conduct similar studies in/for Northeast Asia in the coming years. These  studies  take  the  muti-dimensional,  holistic  approach  of  UNESCO's  peace  education  as  a  set  of parameters for education ideally to pursue. The research results are intended to be shared with policymakers at the national and provincial levels so that a holistic vision of peace education can be integrated into core policies, including the national curriculum expected to be revised in 2022.
+Research on GCED/ESD has been carried out by a number of stakeholders. Some national institutes and expert groups affiliated with, or requested by, the MOE and the MPOEs have been conducting policy studies on GCED/ESD and their related themes. These studies are often completed to assess the feasibility and strategies of certain policies that the MOE or the MPOEs might be planning. Policy studies on education for democratic citizenship, multiculturalism, and ecological transition, for example, are among these policy-oriented research programmes. Recently, APCEIU launched a series of studies on peace education in/for South Korea in 2020, and will hopefully conduct similar studies in/for Northeast Asia in the coming years. These  studies  take  the  muti-dimensional,  holistic  approach  of  UNESCO's  peace  education  as  a  set  of parameters for education ideally to pursue. The research results are intended to be shared with policymakers at the national and provincial levels so that a holistic vision of peace education can be integrated into core policies, including the national curriculum expected to be revised in 2022.
 
 In recent years, there has also been a growing interest in the monitoring of GCED/ESD. Several MPOEs have conducted research to monitor their own programmes, for instance. At the national level, APCEIU has conducted a series of situational analyses and research for monitoring. As a UNESCO Category 2 Centre specialized in GCED, APCEIU was also requested to be the focal point for SDG 4.7 in South Korea, where it  is  hosted.  In  this  context,  APCEIU  has continued its efforts to contribute to the establishment of the monitoring system for 4.7 in South Korea. It has conducted a number of situational analyses of GCED in the curriculum, in K-12 in general and in the field of lifelong learning, as well as studies on monitoring systems and indicators. Examples of these analyses include A Study on the Development of Indicators and Monitoring Framework for GCED in South Korea (2019) and A Study on the Monitoring Framework of GCED in South Korea (2020). The studies are part of a series of recent efforts to develop a monitoring system in South Korea that can both align itself with the global indicator SDG 4.7.1 and reflect the domestic context and feasibility. Based on this research, a set of more refined and specific indicators have been suggested to the Commission for the K-SDGs as domestic indicators, although the development of a feasible and efficient system to collect data utilizing those indicators and tools remains a task to be pursued in the upcoming years. Further thematic indicators that include qualitative data also need to be developed in the coming years to illuminate the processes, challenges and possibilities for GCED/ESD so that meaningful interventions in policy and practice can be proposed.
 
-Other research includes studies of issue-based approaches and a number of small-scale, practice-oriented research  studies  conducted  by  teachers  and  practitioners  to  further  develop  pedagogies  and  teachinglearning materials and resources. The MPOEs often support teachers in their research activities while the MOE, through APCEIU, also supports research groups organized by some active GCED Lead Teachers. The emerging themes in this year of the COVID pandemic are GCED in times of crisis and for the vision of a post-pandemic world. In this vein, a number of research studies have been conducted to re-articulate the  importance  and  role  of  GCED  in  relation  to  the  issues  that  have  arisen  or  intensified  during  the pandemic, such as new and old forms of discrimination, problems of the infodemic age, the importance of media literacy, the defense and rethinking of democracy, notions of the commons, and the need to transform human relationships with ecology. Such issue-based research studies have been conducted both by scholars, for  the  reconceptualization  of  research,  and  by  teachers,  for  the  basis  from  which  to  develop  teaching materials and methods.
+Other research includes studies of issue-based approaches and a number of small-scale, practice-oriented research  studies  conducted  by  teachers  and  practitioners  to  further  develop  pedagogies  and  teaching-learning materials and resources. The MPOEs often support teachers in their research activities while the MOE, through APCEIU, also supports research groups organized by some active GCED Lead Teachers. The emerging themes in this year of the COVID pandemic are GCED in times of crisis and for the vision of a post-pandemic world. In this vein, a number of research studies have been conducted to re-articulate the  importance  and  role  of  GCED  in  relation  to  the  issues  that  have  arisen  or  intensified  during  the pandemic, such as new and old forms of discrimination, problems of the infodemic age, the importance of media literacy, the defense and rethinking of democracy, notions of the commons, and the need to transform human relationships with ecology. Such issue-based research studies have been conducted both by scholars, for  the  reconceptualization  of  research,  and  by  teachers,  for  the  basis  from  which  to  develop  teaching materials and methods.
 
 ##### [International Cooperation]
 
@@ -1063,7 +1079,7 @@ To promote multilateral collaboration and strengthen the leadership of GCED impl
 
 The ROK Government has also striven to enhance understanding of GCED among a wider audience. In particular, the Ministry of Education has been cooperating with the Ministry of Foreign Affairs, UNESCO Headquarters  and  APCEIU  in  organizing  the  International  Conference  on  GCED  since  2016.  The conference serves as a platform to share pedagogy and practices in GCED with participants from various backgrounds, including GCED  specialized  institutes, GCED  experts  and  practitioners, education policymakers  and  representatives  of  international  organizations,  from  all  around  the  world.  The  5th International Conference on GCED was held successfully through virtual platforms in November 2020 under the theme 'Fostering Solidarity and Hope through GCED.'
 
-With the support of APCEIU, the Republic of Korea has been working closely with UNESCO to provide a series of initiatives to bring GCED stakeholders (e.g. education authorities, teaching professionals, research institutes)  together  since  2013.  In  particular,  since  2017,  the  South  Korean  Government  has  provided support to APCEIU to jumpstart the formation and activities of regional GCED networks in five regions, the  Arab  States,  Asia-Pacific,  Europe  and  North  America,  Latin  America and the  Caribbean,  and  SubSaharan Africa. This year's supported activities include GCED MOOC Development targeting youths in Latin  America  and  the  Caribbean,  GCED  material  development  for  Asia  and  the  Pacific,  a  GCED curriculum  desk  review  and  GCED  integration  roadmap  for  the  Sub-Saharan  Africa  region,  GCED curriculum development in the Arab States region, and a research project to strengthen the Europe and North America Regional GCED Network.
+With the support of APCEIU, the Republic of Korea has been working closely with UNESCO to provide a series of initiatives to bring GCED stakeholders (e.g. education authorities, teaching professionals, research institutes)  together  since  2013.  In  particular,  since  2017,  the  South  Korean  Government  has  provided support to APCEIU to jumpstart the formation and activities of regional GCED networks in five regions, the  Arab  States,  Asia-Pacific,  Europe  and  North  America,  Latin  America and the  Caribbean,  and  Sub-Saharan Africa. This year's supported activities include GCED MOOC Development targeting youths in Latin  America  and  the  Caribbean,  GCED  material  development  for  Asia  and  the  Pacific,  a  GCED curriculum  desk  review  and  GCED  integration  roadmap  for  the  Sub-Saharan  Africa  region,  GCED curriculum development in the Arab States region, and a research project to strengthen the Europe and North America Regional GCED Network.
 
 On the global level, the Republic of Korea has been working with UNESCO Headquarters and APCEIU to initiate the Annual Meeting of the GCED Actors' Platform as an effort to gather regional coordinators and partners  working  on  GCED  and  provide  a  discussion  platform  to  coordinate  activities  and  enhance synergies. The inaugural meeting of the platform was held in Seoul in September 2019 with a focus on GCED  capacity  building  for  teachers/educators,  and  the  second  meeting  was  conducted  virtually  in November 2020 on the topic of GCED research.
 
@@ -1075,7 +1091,7 @@ In recognition of its increasing role within the global community as well as its
 
 [[START OF PAGE 36]]
 
-#### H2 Please indicate which types of activities are available that promote international cooperation at each level of education by entering the appropriate number in each white cell.
+#### H2 Please indicate which types of activities are available that promote international co-operation at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -1086,7 +1102,7 @@ Participation in international meetings abroad on GCED and/or ESD | 9 | 1 | 1 | 
 Support for programmes hosting foreign students, researchers and/or teachers | 1 | 1 | 1 | 1
 Membership of international networks including ASPnet | 1 | 1 | 1 | 1
 Joint research projects on GCED and/or ESD with foreign institutions | 9 | 1 | 1 | 1
-Other activities (please specify): | International Teacher Exchange Programme* (sponsored by the ROK MOE, organized by APCEIU, in cooperation with the MOEs of the partner countries) | GCED Actor's Platform, Global and Regional GCED Networks, International Conference on GCED, etc. (initiated by APCEIU)
+Other activities (please specify): |  | International Teacher Exchange Programme* (sponsored by the ROK MOE, organized by APCEIU, in cooperation with the MOEs of the partner countries) |  | GCED Actor's Platform, Global and Regional GCED Networks, International Conference on GCED, etc. (initiated by APCEIU)
 
 * Sponsored by the ROK MOE and organized by APCEIU, in cooperation with the MOEs of 7 partner countries. Approx. 200 teachers annually from 8 participating countries, including South Korea, are provided opportunities to teach, learn and exchange knowledge and experience in host schools of partner countries for a semester
 
