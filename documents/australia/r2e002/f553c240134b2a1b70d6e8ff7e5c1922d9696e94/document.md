@@ -1,6 +1,6 @@
 [[START OF PAGE 1]]
 
-2010-2020
+2010–2020
 
 # National Disability Strategy
 
@@ -16,7 +16,7 @@ ISBN: 978-1-921647-74-1
 
 © Commonwealth of Australia 2011
 
-This work is copyright. Apart from any use as permitted under the Copyright Act 1968, no part may be reproduced by any process without prior written permission from the Commonwealth available from the Commonwealth Copyright Administration, Attorney-General's Department. Requests and inquiries concerning reproduction and rights should be addressed to the Commonwealth Copyright Administration, AttorneyGeneral's, Robert Garran Offices, National Circuit, Canberra ACT 2600 or posted at http://www.ag.gov.au/cca
+This work is copyright. Apart from any use as permitted under the Copyright Act 1968, no part may be reproduced by any process without prior written permission from the Commonwealth available from the Commonwealth Copyright Administration, Attorney-General’s Department. Requests and inquiries concerning reproduction and rights should be addressed to the Commonwealth Copyright Administration, Attorney-General’s, Robert Garran Offices, National Circuit, Canberra ACT 2600 or posted at http://www.ag.gov.au/cca
 
 Copies of this booklet are available to download at www.fahcsia.gov.au or www.coag.gov.au If you would like a copy in Braille or audio, please phone 1800 050 009 or email nationaldisabilityst@fahcsia.gov.au TTY users phone 1800 555 677 and ask for 1800 050 009.
 
@@ -30,13 +30,13 @@ This document was designed and printed by an Australian Disability Enterprise.
 
 All governments are committed to a national approach to supporting people with disability to maximise their potential and participate as equal citizens in Australian society.
 
-The development of this National Disability Strategy is the first time in Australia's history that all governments have committed to a unified, national approach to improving the lives of people with disability, their families and carers, and to providing leadership for a community-wide shift in attitudes.
+The development of this National Disability Strategy is the first time in Australia’s history that all governments have committed to a unified, national approach to improving the lives of people with disability, their families and carers, and to providing leadership for a community-wide shift in attitudes.
 
 This commitment recognises the need for greater collaboration and coordination by all governments, industry and communities to address the challenges faced by people with disability. A new approach is needed to guide policies and program development by all levels of government and actions by the whole community, now and into the future.
 
 This Strategy builds on the significant work undertaken to date by all governments. The National Disability Agreement, signed by Commonwealth, state and territory governments in 2008, was an important first step towards a new, cooperative approach by Australian governments to supporting Australians with disability. By ratifying in 2008 the United Nations Convention on the Rights of Persons with Disabilities, Australia joined other countries in a global effort to promote the equal and active participation of all people with disability.
 
-The National Disability Strategy will complement these and other actions, looking beyond the specialist disability sector and Australia's international obligations. It will focus our efforts towards achieving a society that is inclusive and enabling, providing equality and the opportunity for each person to fulfil their potential.
+The National Disability Strategy will complement these and other actions, looking beyond the specialist disability sector and Australia’s international obligations. It will focus our efforts towards achieving a society that is inclusive and enabling, providing equality and the opportunity for each person to fulfil their potential.
 
 The National Disability Strategy is endorsed by:
 
@@ -52,7 +52,7 @@ The Hon. Paul Henderson MLA, Chief Minister of the Northern Territory
 Mr Jon Stanhope MLA, Chief Minister of the Australian Capital Territory
 Councillor Genia McCaffery, President Australian Local Government Association
 
-National Disability Strategy 2010-2020 Summary Document
+National Disability Strategy 2010–2020 Summary Document
 
 1
 
@@ -82,7 +82,7 @@ Outcome: People with disability live in accessible and well designed communities
 
 2
 
-National Disability Strategy 2010-2020 Summary Document
+National Disability Strategy 2010–2020 Summary Document
 
 [[END OF PAGE 4]]
 
@@ -90,10 +90,10 @@ National Disability Strategy 2010-2020 Summary Document
 
 ### Areas for future action
 
-1. 1 | Improve access and increase participation of people with disability in sporting, recreational, social, religious and cultural activities whether as participants, spectators, organisers, staff or volunteers.
+1.1 | Improve access and increase participation of people with disability in sporting, recreational, social, religious and cultural activities whether as participants, spectators, organisers, staff or volunteers.
 --- | ---
 1.2 | Support the development of strong social networks for people with disability.
-1.3 | Monitor adherence to and evaluate the effectiveness of the Disability (Access to Premises - Buildings) Standards 2010 and Disability Standards for Accessible Public Transport 2002 and improve the accessibility of reports.
+1.3 | Monitor adherence to and evaluate the effectiveness of the Disability (Access to Premises – Buildings) Standards 2010 and Disability Standards for Accessible Public Transport 2002 and improve the accessibility of reports.
 1.4 | Promote the development of Disability Access Facilitation Plans by airlines and airport operators to improve communication between operators and passengers with disability.
 1.5 | All levels of government develop approaches to increase the provision of universal design in public and private housing in both new builds and modification of existing stock.
 1.6 | Improve community awareness of the benefits of universal design.
@@ -101,7 +101,7 @@ National Disability Strategy 2010-2020 Summary Document
 1.8 | All governments adopt the mandated conformance levels for web accessibility as a baseline requirement to ensure more people with disability have access to online information and services.
 1.9 | Use the National Broadband Network as an enabling technology platform to deliver innovative services, communication and support for people with disability, their families and carers.
 
-National Disability Strategy 2010-2020 Summary Document
+National Disability Strategy 2010–2020 Summary Document
 
 3
 
@@ -131,7 +131,7 @@ Outcome: People with disability have their rights promoted, upheld and protected
 
 4
 
-National Disability Strategy 2010-2020 Summary Document
+National Disability Strategy 2010–2020 Summary Document
 
 [[END OF PAGE 6]]
 
@@ -144,16 +144,16 @@ National Disability Strategy 2010-2020 Summary Document
 2.2 | Monitor and ensure compliance with international human rights obligations.
 2.3 | Develop strategies to reduce violence, abuse and neglect of people with disability.
 2.4 | Review restrictive legislation and practices from a human rights perspective.
-2.5 | Examine recommendations arising from the report of the Joint Standing Committee on Migration on migration treatment of disability, Enabling Australia
+2.5 | Examine recommendations arising from the report of the Joint Standing Committee on Migration on migration treatment of disability, Enabling Australia.
 2.6 | Improve the reach and effectiveness of all complaint mechanisms.
 2.7 | Provide greater support for people with disability with heightened vulnerabilities to participate in legal processes on an equal basis with others.
-2.8 | Ensure people with disability have every opportunity to be active participants in the civic life of the community-as jurors, board members and elected representatives.
+2.8 | Ensure people with disability have every opportunity to be active participants in the civic life of the community—as jurors, board members and elected representatives.
 2.9 | Support people with disability with heightened vulnerabilities in any contacts with the criminal justice system, with an emphasis on early identification, diversion and support.
 2.10 | Ensure that people with disability leaving custodial facilities have improved access to support in order to reduce recidivism. This may include income and accommodation support and education, pre-employment, training and employment services.
 2.11 | Support independent advocacy to protect the rights of people with disability.
 2.12 | Ensure supported decision-making safeguards for those people who need them are in place, including accountability of guardianship and substitute decision-makers.
 
-National Disability Strategy 2010-2020 Summary Document
+National Disability Strategy 2010–2020 Summary Document
 
 5
 
@@ -177,7 +177,7 @@ Outcome: People with disability, their families and carers have economic securit
 
 6
 
-National Disability Strategy 2010-2020 Summary Document
+National Disability Strategy 2010–2020 Summary Document
 
 [[END OF PAGE 8]]
 
@@ -195,7 +195,7 @@ National Disability Strategy 2010-2020 Summary Document
 3.7 | At the review points of the National Affordable Housing Agreement and related National Partnership agreements, parties agree to consider including strategies consistent with the Strategy, to ensure they address the housing needs of people with disability.
 3.8 | Consider the implications for economic security for people with disability, their families and carers arising from investigation into a national long-term care and support scheme.
 
-National Disability Strategy 2010-2020 Summary Document
+National Disability Strategy 2010–2020 Summary Document
 
 7
 
@@ -221,7 +221,7 @@ Outcome: People with disability, their families and carers have access to a rang
 
 8
 
-National Disability Strategy 2010-2020 Summary Document
+National Disability Strategy 2010–2020 Summary Document
 
 [[END OF PAGE 10]]
 
@@ -239,7 +239,7 @@ National Disability Strategy 2010-2020 Summary Document
 4.7 | Collaborate with providers of universal personal and community support services to improve access for people with disability.
 4.8 | Promote and sustain community support networks which provide information and support to families and carers.
 
-National Disability Strategy 2010-2020 Summary Document
+National Disability Strategy 2010–2020 Summary Document
 
 9
 
@@ -267,7 +267,7 @@ their participation in an inclusive high quality education system that is respon
 
 10
 
-National Disability Strategy 2010-2020 Summary Document
+National Disability Strategy 2010–2020 Summary Document
 
 [[END OF PAGE 12]]
 
@@ -277,7 +277,7 @@ National Disability Strategy 2010-2020 Summary Document
 
 5.1 | Reduce barriers and simplify access for people with disability to a high quality inclusive education system including early learning, child care, school and further education.
 --- | ---
-5.2 | At the review points of the National Education Agreement, the National Agreement for Skills and Workforce Development, Smarter Schools-Improving Teacher Quality National Partnership and other learning and skills-related National Partnerships, parties agree to consider including strategies, consistent with the Strategy, and performance indicators to ensure they address the needs of students with disability.
+5.2 | At the review points of the National Education Agreement, the National Agreement for Skills and Workforce Development, Smarter Schools—Improving Teacher Quality National Partnership and other learning and skills-related National Partnerships, parties agree to consider including strategies, consistent with the Strategy, and performance indicators to ensure they address the needs of students with disability.
 5.3 | Develop innovative learning strategies and supports for students with disability which are accessible, reliable and responsive to strengthen their aspirations and enable them to reach their full potential.
 5.4 | Investigate options for reporting on educational outcomes of students with disability.
 5.5 | Identify and establish best practice for transition planning and support through all stages of learning and from education to employment.
@@ -285,7 +285,7 @@ National Disability Strategy 2010-2020 Summary Document
 5.7 | Ensure the Early Years Learning Framework, Australian Curriculum and national assessment processes incorporate the needs of students with disability within an inclusive education framework.
 5.8 | Promote leadership development for people with disability.
 
-National Disability Strategy 2010-2020 Summary Document
+National Disability Strategy 2010–2020 Summary Document
 
 11
 
@@ -311,7 +311,7 @@ Outcome: People with disability attain highest possible health and wellbeing out
 
 12
 
-National Disability Strategy 2010-2020 Summary Document
+National Disability Strategy 2010–2020 Summary Document
 
 [[END OF PAGE 14]]
 
@@ -329,7 +329,7 @@ National Disability Strategy 2010-2020 Summary Document
 6.7 | Ensure informal and supported decision makers are part of preventative, diagnostic and treatment programs where necessary and appropriate, always ensuring the rights of the individual are respected and protected.
 6.8 | Further develop the evidence base for the social and environmental determinants of health and ensure it informs the development and implementation of programs and policies.
 
-National Disability Strategy 2010-2020 Summary Document
+National Disability Strategy 2010–2020 Summary Document
 
 13
 
