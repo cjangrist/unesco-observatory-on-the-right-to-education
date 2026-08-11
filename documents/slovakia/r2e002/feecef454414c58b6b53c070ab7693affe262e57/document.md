@@ -88,11 +88,11 @@ The state symbols of the Slovak Republic are the state emblem, the state flag, t
 ### Section One GENERAL PROVISIONS
 #### Article 11
 
+Repealed
+
 #### Article 12
 
 (1) All human beings are free and equal in dignity and in rights. Their fundamental rights and freedoms are sanctioned, inalienable, imprescriptible and irreversible. (2) Fundamental rights shall be guaranteed in the Slovak Republic to everyone regardless of sex, race, colour, language, belief and religion, political affiliation or other conviction, national or social origin, nationality or ethnic origin, property, descent or any other status. No one shall be aggrieved , discriminated against or favoured on any of these grounds.
-
-Repealed
 
 [[END OF PAGE 2]]
 
@@ -166,7 +166,7 @@ Every person shall be entitled to his or her rights.
 
 - Everyone shall have the right to own property. Property rights of all owners shall be uniformly construed and equally protected by law. The right of inheritance is guaranteed.
 
-, The law shall establish certain property, which is necessary for the purposes of safeguarding the needs of the society, the development of the national economy and the public interest, except the property defined in Art. 4 of this Constitution as the exclusive property of the State, the municipality or specific legal persons. A law may also lay down which property only individual citizens or legal persons residing in the Slovak Republic may own.
+(2) , The law shall establish certain property, which is necessary for the purposes of safeguarding the needs of the society, the development of the national economy and the public interest, except the property defined in Art. 4 of this Constitution as the exclusive property of the State, the municipality or specific legal persons. A law may also lay down which property only individual citizens or legal persons residing in the Slovak Republic may own.
 
 - The ownership is binding. It shall not be misused causing injury to others or in contradiction with the public interests protected by the law. The exercise of right in property must not be detrimental to the health of other people, nature, cultural sites or the environment beyond the margin laid down by a law.
 
@@ -418,9 +418,9 @@ Only law shall lay down which conduct is a criminal offence and which punishment
 ### Section Eight JOINT PROVISIONS TO TITLE ONE AND TITLE TWO
 #### Article 51
 
-- The rights defined in Arts. 35 , 36 , 37 para.4, Arts.38 to 42 and 44 to 46 of this Constitution may be claimed only within the restrictions of the laws implementing these provisions. duties in a time of war, a war state, an exceptional state or an emergency state shall be laid down by a
+- The rights defined in Arts. 35, 36, 37 para.4, Arts.38 to 42 and 44 to 46 of this Constitution may be claimed only within the restrictions of the laws implementing these provisions.
 
-- The conditions and extent of restriction of the fundamental rights and freedoms and the extent of constitutional law.
+- The conditions and extent of restriction of the fundamental rights and freedoms and the extent of duties in a time of war, a war state, an exceptional state or an emergency state shall be laid down by a constitutional law.
 
 #### Article 52
 
@@ -564,6 +564,8 @@ In matters of territorial self-administration and for securing the tasks of self
 
 [[START OF PAGE 12]]
 
+#### Article 69
+
 (1) Municipal authorities are a) the municipal representation, b) the mayor of municipality.
 
 (2) Municipal representation shall consist of representatives of municipal representation. The municipality inhabitants permanently residing therein elect the
@@ -609,7 +611,6 @@ The National Council of the Slovak Republic shall be the sole constitutional and
 
 (1) The Members of Parliament are elected by universal, equal and direct suffrage by secret ballot. (2) Any citizen who has the right to vote, has attained 21 years of age and has permanent residency in
 
-#### Article 69
 
 [[END OF PAGE 12]]
 
@@ -866,15 +867,15 @@ The procedures for holding a referendum shall be laid down by a law.
 ### Section One THE PRESIDENT OF THE SLOVAK REPUBLIC
 #### Article 101
 
-- The Head of the Slovak Republic shall be the President. The President shall represent the Slovak her decisions. The President shall perform the office according to his or her conscience and
-
-- Republic externally and internally, shall ensure the regular operation of Constitutional bodies by his or convictions, and shall not be bound by orders. (2) Citizens of the Slovak Republic shall elect the President by secret ballot for a five-year term in direct elections. Citizens who have the right to vote for the National Council of the Slovak Republic shall have the right to vote for a President. (3) Candidates for President shall be proposed by at least 15 Members of Parliament or by citizens who have the right to vote for the National Council of the Slovak Republic on the basis of a petition signed by at least 15,000 citizens. Proposals for elections shall be delivered to the President of the National Council of the Slovak Republic at the latest within 21 days of the announcement of elections. (4) A candidate shall be elected a President, if he or she receives an absolute majority of valid votes of legitimate voters. If none of the candidates receives the necessary majority of votes, a second round shall be held within 14 days of the voting. The two candidates who gained the greatest number of valid votes shall proceed to the second round. In the second round, the candidate who gained the greatest number of valid votes from participating voters shall be elected President. (5) If one of the two candidates who gained the most of the valid votes in the first round ceases to be eligible for election as President before the second round of voting or resigns his or her right as a candidate, the candidate who received the next greatest number of valid votes shall proceed to the second round of voting. If there are not two candidates for the second round of voting, the second round shall not be held, and the President of the National Council of the Slovak Republic shall announce new elections so that they take place within 60 days of their announcement. (6) If only one candidate applies for the post of President, the elections shall be held; he or she shall be elected President if he or she gains an absolute majority of the valid votes of participating voters. (7) The elected candidate shall take up the post of President on taking an oath. The oath shall be taken before the National Council of the Slovak Republic to the President of the Constitutional Court of the Slovak Republic at noon of the day on which the term of office of the previous President is to terminate. (8) If the term in office of the President ends prematurely, the elected candidate shall take the oath and take up the post of President at noon of the day following the day when the results of the election are announced. (9) The Constitutional Court of the Slovak Republic shall decide whether Presidential elections have been held in conformity with the Constitution and the law.
+- The Head of the Slovak Republic shall be the President. The President shall represent the Slovak Republic externally and internally, shall ensure the regular operation of Constitutional bodies by his or her decisions. The President shall perform the office according to his or her conscience and convictions, and shall not be bound by orders. (2) Citizens of the Slovak Republic shall elect the President by secret ballot for a five-year term in direct elections. Citizens who have the right to vote for the National Council of the Slovak Republic shall have the right to vote for a President. (3) Candidates for President shall be proposed by at least 15 Members of Parliament or by citizens who have the right to vote for the National Council of the Slovak Republic on the basis of a petition signed by at least 15,000 citizens. Proposals for elections shall be delivered to the President of the National Council of the Slovak Republic at the latest within 21 days of the announcement of elections. (4) A candidate shall be elected a President, if he or she receives an absolute majority of valid votes of legitimate voters. If none of the candidates receives the necessary majority of votes, a second round shall be held within 14 days of the voting. The two candidates who gained the greatest number of valid votes shall proceed to the second round. In the second round, the candidate who gained the greatest number of valid votes from participating voters shall be elected President. (5) If one of the two candidates who gained the most of the valid votes in the first round ceases to be eligible for election as President before the second round of voting or resigns his or her right as a candidate, the candidate who received the next greatest number of valid votes shall proceed to the second round of voting. If there are not two candidates for the second round of voting, the second round shall not be held, and the President of the National Council of the Slovak Republic shall announce new elections so that they take place within 60 days of their announcement. (6) If only one candidate applies for the post of President, the elections shall be held; he or she shall be elected President if he or she gains an absolute majority of the valid votes of participating voters. (7) The elected candidate shall take up the post of President on taking an oath. The oath shall be taken before the National Council of the Slovak Republic to the President of the Constitutional Court of the Slovak Republic at noon of the day on which the term of office of the previous President is to terminate. (8) If the term in office of the President ends prematurely, the elected candidate shall take the oath and take up the post of President at noon of the day following the day when the results of the election are announced. (9) The Constitutional Court of the Slovak Republic shall decide whether Presidential elections have been held in conformity with the Constitution and the law.
 
 - A law shall lay down further details on presidential elections.
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
+
+#### Article 102
 
 - The President
 
@@ -924,7 +925,6 @@ authority during war, a state of war, an exceptional state, shall be laid down b
 
 - Details of exercising the constitutional powers of the President according to paragraph 1 may be laid down by a law.
 
-#### Article 102
 
 [[END OF PAGE 18]]
 
@@ -978,9 +978,7 @@ authority during war, a state of war, an exceptional state, shall be laid down b
 
 #### Article 107
 
-The President may be prosecuted only for a wilful infringement of the Constitution or for treason. The National Council of the Slovak Republic shall decide on the bringing of a prosecution on a President by a three-fifth majority of all Members of Parliament. Slovak Republic, which shall decide on it in plenary session. A condemning decision of the Constitutional Court of the Slovak Republic shall mean the loss of the presidential post and of the
-
-The National Council of the Slovak Republic shall file the prosecution to the Constitutional Court of the eligibility to regain this post.
+The President may be prosecuted only for a wilful infringement of the Constitution or for treason. The National Council of the Slovak Republic shall decide on the bringing of a prosecution on a President by a three-fifth majority of all Members of Parliament. The National Council of the Slovak Republic shall file the prosecution to the Constitutional Court of the Slovak Republic, which shall decide on it in plenary session. A condemning decision of the Constitutional Court of the Slovak Republic shall mean the loss of the presidential post and of the eligibility to regain this post.
 
 ### Section Two THE GOVERNMENT OF THE SLOVAK REPUBLIC
 #### Article 108
@@ -989,9 +987,7 @@ The Government of the Slovak Republic shall be the supreme executive body.
 
 #### Article 109
 
-- The Government shall consist of the Prime Minister, Deputy Prime Ministers and Ministers. (2) The discharge of the post of a member of the Government shall be incompatible with discharge of a Member's of Parliament mandate, with discharge of legal person, which pursues an entrepreneurial activity or with another economic or gainful activities apart from the administration of his or her own property and scientific, pedagogical, literary or artistic
-
-- a post in another public authority, with public service relationship, with employment or with a similar labour relation, with an entrepreneurial activity, with membership in governing or control body of a activity.
+- The Government shall consist of the Prime Minister, Deputy Prime Ministers and Ministers. (2) The discharge of the post of a member of the Government shall be incompatible with discharge of a Member's of Parliament mandate, with discharge of a post in another public authority, with public service relationship, with employment or with a similar labour relation, with an entrepreneurial activity, with membership in governing or control body of a legal person, which pursues an entrepreneurial activity or with another economic or gainful activities apart from the administration of his or her own property and scientific, pedagogical, literary or artistic activity.
 
 #### Article 110
 
@@ -1237,6 +1233,8 @@ interpretation is generally binding from the date of its promulgation.
 
 #### Article 132
 
+Repealed
+
 #### Article 133
 
 There is no possibility of lodging an appeal against a decision of the Constitutional Court.
@@ -1271,15 +1269,15 @@ The head of the Constitutional Court shall be the President, he or she may be su
 
 - An appointed judge of the Constitutional Court shall renounce his or her membership in a political
 
-Repealed
+
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
 
-- party or a political movement prior to taking the oath.
+party or a political movement prior to taking the oath.
 
-- The judges of the Constitutional Court shall hold their offices as a profession. The performance of this profession shall be incompatible with the post in another body of public authority, with public service relationship, with employment, with the similar labour relation, with an entrepreneurial activity, with membership in governing or control body of a legal person, which pursues an entrepreneurial activity or with another economic or gainful activities apart from the administration of his or her own property .', and scientific, pedagogical, literary or artistic activity.
+- The judges of the Constitutional Court shall hold their offices as a profession. The performance of this profession shall be incompatible with the post in another body of public authority, with public service relationship, with employment, with the similar labour relation, with an entrepreneurial activity, with membership in governing or control body of a legal person, which pursues an entrepreneurial activity or with another economic or gainful activities apart from the administration of his or her own property .”, and scientific, pedagogical, literary or artistic activity.
 
 - On the day when a judge assumes his or her judicial office, his or her mandate of a Member of Parliament and membership in the Government of the Slovak Republic shall terminate.
 
@@ -1325,10 +1323,8 @@ The details of the structure of and of proceedings before the Constitutional Cou
 - three members who are appointed and recalled by the Government of the Slovak Republic
 
 - As a member of the Judiciary Council of the Slovak Republic according to paragraph 1, letters b) to
-
-- may be appointed person who is of impeccable
-
-- character and has university education in law and at least 15 years of professional practice.
+d) may be appointed person who is of impeccable
+character and has university education in law and at least 15 years of professional practice.
 
 - The term of office of members of the Judicial Council of the Slovak Republic shall be five years.
 
@@ -1381,8 +1377,7 @@ decisions, measures or other actions of bodies of public authority, if laid down
 #### Article 144
 
 - Judges, in the performance of their function, shall be independent and, in decision making shall be bound by the Constitution, by constitutional law, by
-
-- international treaty pursuant to Art. 7, paras. 2 and 5, and by law.
+international treaty pursuant to Art. 7, paras. 2 and 5, and by law.
 
 - If a Court assumes that other generally binding legal regulation, its part, or its individual provisions which concern a pending matter contradicts the Constitution, constitutional law, international treaty pursuant to Art. 7, para. 5 or law, it shall suspend the proceedings and shall submit a proposal for the commence of proceedings according to Art. 125, para. 1. Legal opinion of the Constitutional Court of the Slovak Republic contained in the decision shall be binding for the Court.
 
@@ -1402,11 +1397,11 @@ on a proposal of the Judiciary Council of the Slovak Republic from judges of the
 
 [[START OF PAGE 28]]
 
-ratified by the Slovak Republic and were promulgated in the manner laid down by a law , and by laws; I shall interpret laws and decide according to my profound convictions, independently and impartially.' (5) Upon taking this oath, a judge assumes his or her function.
+ratified by the Slovak Republic and were promulgated in the manner laid down by a law , and by laws; I shall interpret laws and decide according to my profound convictions, independently and impartially.” (5) Upon taking this oath, a judge assumes his or her function.
 
 #### Article 145a
 
-(1) If an appointed judge is a member of a political party or a political movement, he or she shall be obliged to resign his or her membership in them prior to taking the oath. (2) A judge shall perform the post as a profession. The discharge of a function of a judge is incompatible with a post in any other public authority body, with a state service relationship, with an employment, or with a similar labour relation, with an entrepreneurial activity, with a membership in the governing or control body of a legal person, which performs an entrepreneurial activity, or with other economic or gainful activity, other than the administration of his or her own property, scientific, pedagogical, literary or artistic activity, and with membership in the Judiciary Council of the Slovak Republic.'.
+(1) If an appointed judge is a member of a political party or a political movement, he or she shall be obliged to resign his or her membership in them prior to taking the oath. (2) A judge shall perform the post as a profession. The discharge of a function of a judge is incompatible with a post in any other public authority body, with a state service relationship, with an employment, or with a similar labour relation, with an entrepreneurial activity, with a membership in the governing or control body of a legal person, which performs an entrepreneurial activity, or with other economic or gainful activity, other than the administration of his or her own property, scientific, pedagogical, literary or artistic activity, and with membership in the Judiciary Council of the Slovak Republic.”.
 
 #### Article 146
 
@@ -1457,7 +1452,7 @@ Further details of the appointment, recall, powers and duties of public prosecut
 
 - The function of the public defender of rights shall terminate on the day of finality of a judgment, whereby the public defender of rights was convicted of a willful criminal offence or whereby he was convicted of a criminal offence and the court did not decide his case on a probationary suspension of the imprisonment sentence, or he lost eligibility for election.
 
-- The National Council of the Slovak Republic may recall the public defender of rights if his longterm health condition, lasting for at least three months, does not allow him to duly perform the duties arising from the function.
+- The National Council of the Slovak Republic may recall the public defender of rights if his long-term health condition, lasting for at least three months, does not allow him to duly perform the duties arising from the function.
 
 - Details  of  the  election  and  recall  of  the  public  defender  of  rights,  his  competence,  conditions  of execution of the function, manner  of legal protection, and  on presentation of proposals for commencement of  proceedings before the Constitutional Court of the Slovak Republic according to Art.   130  sect.  1,  lett.  f)  and  on  application  of  rights  of  natural  persons  and legal  entities  shall  be specified by law.
 
