@@ -2,6 +2,11 @@
 
 # The National Curriculum Framework
 
+National Curriculum
+
+NIE
+NATIONAL INSTITUTE OF EDUCATION
+
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
@@ -14,15 +19,36 @@ National Curriculum Framework
 
 ## TABLE OF CONTENTS
 
-27
-
-30
-
-40
-
-43
-
-69
+1. INTRODUCTION 3
+2. VISION 6
+3. PRINCIPLES 7
+4. SHARED VALUES 9
+5. FOCUS FOR LEARNING 11
+6. KEY COMPETENCIES
+Practising Islam 14
+Understanding and Managing Self 15
+Thinking Critically and Creatively 15
+Relating to People 15
+Making Meaning 16
+Living a Healthy Life 17
+Learning Sustainable Practices 17
+Using Technology and Media 17
+7. ORGANISATION OF LEARNING 19
+8. KEY LEARNING AREAS
+Islam and Spirituality 23
+Language and Communication 27
+Mathematics 30
+Environment, Science and Technology 33
+Health and Wellbeing 37
+Social Sciences 40
+Creative Arts 43
+Entrepreneurship 47
+9. MEDIUM OF INSTRUCTION 52
+10. EFFECTIVE PEDAGOGY 53
+11. ASSESSMENT & REPORTING. 57
+12. ACCOUNTABILITY MEASURES 60
+13. CURRICULUM MANAGEMENT 61
+14. GLOSSARY OF TERMS 69
 
 April 2014
 
@@ -32,11 +58,13 @@ April 2014
 
 National Institute of Education
 
+National Curriculum Framework
+
 3
 
 ## INTRODUCTION
 
-The  National  Curriculum  defines  the  learning  experiences  of  children  aged  4  -  18  in  schools  in  the Maldives, and describes what they should know, understand, value and be able to do at each stage of their development. It is a framework that provides the structural basis of school education and makes explicit the vision that this curriculum sets out to achieve; the principlesthat guide its design; the shared values that Maldivian society deems important; and thekey competencies that all children and young people are expected to acquire through schooling, upon which all learning is organised. The framework also describes how learning is structured across the stages of schooling and categorised into different key learning areas. It further identifies effective pedagogy to be adopted and the roles of all key players in creating positive learning experiences in schools.
+The National Curriculum defines the learning experiences of children aged 4 – 18 in schools in the Maldives, and describes what they should know, understand, value and be able to do at each stage of their development. It is a framework that provides the structural basis of school education and makes explicit the vision that this curriculum sets out to achieve; the principles that guide its design; the shared values that Maldivian society deems important; and the key competencies that all children and young people are expected to acquire through schooling, upon which all learning is organised. The framework also describes how learning is structured across the stages of schooling and categorised into different key learning areas. It further identifies effective pedagogy to be adopted and the roles of all key players in creating positive learning experiences in schools.
 
 The National Curriculum  reflects contemporary  thinking  on  what  children  and  young  people  need  to succeed in life, and how schools can best help them achieve this. Taking into account the views of a large  number  of  stakeholder  groups  across  the  nation,  over  a  period  of  time,  and  incorporating  the recommendations of international research and educational theory on curriculum design and delivery, this framework offers a broad and balanced curriculum that provides rich experiences in learning with equal emphasis on developing knowledge, skills, values and attitudes in order to cater to the holistic development of the child. The key competencies that students will achieve through this curriculum will provide them with the tools to deal effectively with the opportunities and challenges which they will encounter now, as young people, and in future, as adults.
 
@@ -44,23 +72,23 @@ There  are  three  main  features  of  this  framework  that  make  it  differen
 
 The National Curriculum  takes  a  broad  view  of  curriculum  as  the  entire  planned  learning  experience offered in schools. As such, the framework details what we are trying to achieve, how learning would be organised and how its impact would be measured. It does not therefore simply stipulate what needs to be taught; but creates a vision of the kind of young people we want in our society, and the values that we uphold and would like to instil in the generations to come. It further specifies how learning would be
 
-National Curriculum Framework
-
 April 2014
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-National Institute of Education 4
+National Institute of Education
 
 National Curriculum Framework
+
+4
 
 structured and what measures schools and other stakeholders within the system would need to take to effectively implement this curriculum.
 
 The focus on eight key competencies that all children and young people must achieve is a major shift in the design of the curriculum. These key competencies will form the common core of achievement. The previously  strong  focus  on  subjects  and  time  allocation  has  been  diminished  by  emphasising  the necessity of achieving the knowledge, skills, values and attitudes identified within each key competency. The  National  Curriculum  shows  the  links  between  the  key  competencies  and  the  key  learning  areas, encouraging  learning  at  lower  levels  of  schooling  to  be  integrated  and  for  strong  links  between disciplines to be developed at higher levels.
 
-A third distinct feature of this framework is that it maps out the learning that students will experience across the stages of schooling. This would ensure that there are smooth transitions between stages, and encourage a developmental and integrated approach to curriculum planning, teaching and learning. By providing a map of the total span of a student's schooling, it provides continuity and consistency in a student's education. Although schooling is divided into six main stages, this approach ensures that at each stage, the focus remains the same: a vision to develop young people who are motivated to learn and explore; individuals who are confidentand competent, while being productive and responsiblecontributors in the society.
+A third distinct feature of this framework is that it maps out the learning that students will experience across the stages of schooling. This would ensure that there are smooth transitions between stages, and encourage a developmental and integrated approach to curriculum planning, teaching and learning. By providing a map of the total span of a student’s schooling, it provides continuity and consistency in a student’s education. Although schooling is divided into six main stages, this approach ensures that at each stage, the focus remains the same: a vision to develop young people who are motivated to learn and explore; individuals who are confident and competent, while being productive and responsible contributors in the society.
 
 Using the National Curriculum Framework as its basis, syllabus statements will be developed for each key learning area, incorporating within them, the cross cutting key competencies. In addition to this, curriculum  support  materials  for  schools  and  teachers  will  be  developed  and  on-going  professional development programmes  must be provided for teachers and schools to lead to successful implementation.
 
@@ -77,6 +105,51 @@ National Institute of Education
 National Curriculum Framework
 
 5
+
+NIE
+NATIONAL INSTITUTE OF EDUCATION
+National Curriculum
+
+Map of the National Curriculum
+The curriculum as an entire planned learning experience is underpinned by a broad set of knowledge, skills, values and attitudes.
+
+What are we trying to achieve?
+
+Vision
+Successful individuals who are motivated to learn and explore; inquisitive and eager to seek, use and create knowledge | Confident and competent individuals who have a firm belief in Islam, a strong sense of self and cultural identity, and believe in their own capabilities | Responsible and productive contributors to their own family, their local community and the global society
+
+Principles
+Islam | Identity & Culture | Human rights, Democracy & Justice | Holistic Development | Personal Excellence | Inclusivity | Preparation for Life | Relevance
+
+Shared Values
+values relating to Self | values relating to Family & Others | values relating to Local & Global Community | values relating to the Environment
+
+Focus for Learning
+Knowledge and Understanding | Skills | Values and Attitudes
+
+How do we organise learning?
+
+Key Competencies
+Practising Islam | Understanding & Managing Self | Thinking Critically & Creatively | Relating to People | Making Meaning | Living a Healthy Life | Using Sustainable Practices | Using Technology & the Media
+
+Key Learning Areas
+Islam & Spirituality | Language & Communication | Mathematics | Environment, Science & Technology | Health & Wellbeing | Social Sciences | Creative Arts | Entrepreneurship
+
+Subjects
+Islam; Tharbiya; Quran | English; Dhivehi; Foreign Lang; Dh. Lit; Eng. Lit; Arabic | Math | Biology; Marine Science; Chemistry; Science; Physics | Health & PE | Geography; Social Studies; History | Art; Music | B. St; V.E; ACC; IT,Tour; ICT; Econ
+
+Effective Pedagogy
+Creating a positive learning environment | Connecting prior learning to new learning | Fostering reflective practice | Making learning meaningful | Catering to individual differences
+
+How well are we achieving this?
+
+Ways to Evaluate Impact
+Measuring learning across all dimensions | Using multiple methods | Involving the whole school community | Using feedback | Reflecting on learning and creating a continuous improvement cycle
+
+Accountability Measures
+National standards | Positive behaviour | Contribution to the society | Better choices in life | Further education and employment
+
+Draft: 09Apr 2014
 
 Figure 1: Map of the National Curriculum
 
@@ -118,6 +191,8 @@ April 2014
 
 National Institute of Education
 
+National Curriculum Framework
+
 7
 
 ## PRINCIPLES
@@ -140,15 +215,17 @@ The National Curriculum upholds human  rights, democracy  and justice. It strive
 
 The  National  Curriculum  promotes  the  holistic  development  of  the  child.  It  focuses  on  enhancing students'  spiritual,  moral,  social,  cultural,  physical  and  mental  development,  and  thereby  the  overall wellbeing of the individual.
 
-National Curriculum Framework
-
 April 2014
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-National Institute of Education 8
+National Institute of Education
+
+National Curriculum Framework
+
+8
 
 ### Principle 5: Personal Excellence
 
@@ -166,8 +243,6 @@ The National Curriculum fosters the development of skills in preparation for lif
 
 The National Curriculum offers learning that is purposeful, and encourages students to see the value of what they are learning. It ensures that learning is relevant to their present and future lives, by exploring significant  contemporary  and  emerging  issues  such  as  technology,  sustainability,  enterprise  and citizenship.
 
-National Curriculum Framework
-
 April 2014
 
 [[END OF PAGE 8]]
@@ -182,43 +257,16 @@ National Curriculum Framework
 
 ## SHARED VALUES
 
-Values  refer  to  deeply  held  ideas  and  beliefs  that  define  what  is  acceptable  in  a  society.  Values  are conveyed through thoughts and actions, which qualify our personal conduct and our interaction with others.They are priorities that help to distinguish what is right from wrong, and guide young people to live  a  meaningful  life,  in  harmony  with  others.  The  values  that  the  National  Curriculum  encourages students to hold are those that are deemed vital to grow as an individual, to thrive in our society and to live peaceably in a diverse world.
+Values refer to deeply held ideas and beliefs that define what is acceptable in a society. Values are conveyed through thoughts and actions, which qualify our personal conduct and our interaction with others. They are priorities that help to distinguish what is right from wrong, and guide young people to live a meaningful life, in harmony with others. The values that the National Curriculum encourages students to hold are those that are deemed vital to grow as an individual, to thrive in our society and to live peaceably in a diverse world.
 
-Students  acquire  values  implicitly  through  what  they  hear,  see,  read  and  experience.  They  give importance to those beliefs inherent in the actions of their role models. For this reason,  parents and educators - including teachers and school leaders - should reflect on their own values and how these are translated into the curricular content, the learning environment, and the mode of teaching.
+Students acquire values implicitly through what they hear, see, read and experience. They give importance to those beliefs inherent in the actions of their role models. For this reason, parents and educators – including teachers and school leaders – should reflect on their own values and how these are translated into the curricular content, the learning environment, and the mode of teaching.
 
 The following table describes values under four categories. These are neither exclusive nor exhaustive, and are presented in alphabetical order under each category.
 
-Values relating to self
-
-The values identified in this category relate to understanding and respecting oneself, and to empower oneself to pursue excellence.
-
- Honesty and trustworthiness : show sincerity, be honest and seek the truth.
-
- Individual uniqueness : hold oneself with dignity and respect, acknowledging that each individual has a unique identity.
-
-Values relating to family and others
-
-The values identified in this category relate to understanding and respecting others; to being sensitive to individual differences as well as the rights and responsibilities of others.
-
- Care and compassion : show care and compassion towards oneself and others.
-
- Cooperation : strive to work and live cooperatively; to resolve differences in peaceful, nonviolent and constructive ways.
-
-Values relating to local and global community
-
-The values identified in this category relate to encouraging civic responsibility and contribution; to accept diversity within a democratic society and to champion social justice.
-
- Adaptability : develop the flexibility and resilience to adapt to changing conditions.
-
- Contribution : recognise that every individual has something positive to contribute to society, and observe ways of maximising
-
-Values relating to the environment
-
-The values identified in this category relate to understanding and preserving the Maldivian culture and heritage; and to promote ideas of conservation and sustainable development.
-
- Preserving diversity : appreciate the richness of our native habitat and their fragility; recognise ways of balancing how to enjoy them today and conserve them for the future.
-
- Respecting cultural heritage : understand
+Values relating to self | Values relating to family and others | Values relating to local and global community | Values relating to the environment
+--- | --- | --- | ---
+The values identified in this category relate to understanding and respecting oneself, and to empower oneself to pursue excellence. | The values identified in this category relate to understanding and respecting others; to being sensitive to individual differences as well as the rights and responsibilities of others. | The values identified in this category relate to encouraging civic responsibility and contribution; to accept diversity within a democratic society and to champion social justice. | The values identified in this category relate to understanding and preserving the Maldivian culture and heritage; and to promote ideas of conservation and sustainable development.
+ Honesty and trustworthiness: show sincerity, be honest and seek the truth.  Individual uniqueness: hold oneself with dignity and respect, acknowledging that each individual has a unique identity. |  Care and compassion: show care and compassion towards oneself and others.  Cooperation: strive to work and live cooperatively; to resolve differences in peaceful, non-violent and constructive ways. |  Adaptability: develop the flexibility and resilience to adapt to changing conditions.  Contribution: recognise that every individual has something positive to contribute to society, and observe ways of maximising |  Preserving diversity: appreciate the richness of our native habitat and their fragility; recognise ways of balancing how to enjoy them today and conserve them for the future.  Respecting cultural heritage: understand
 
 April 2014
 
@@ -232,8 +280,7 @@ National Curriculum Framework
 
 10
 
- Initiative and enterprise : developthe confidence to take initiative and be enterprising in responding to life's challenges.  Integrity : demonstrate principles of ethical and moral conduct, showing consistency between words and actions.  Sense of duty : show awareness and take personal responsibility for one's actions both in and outside school and in future life.  Sense of spirituality : build a strong sense of connection with Allah (SWT) and the teachings of Prophet Muhammad (SAW).  The pursuit of personal excellence : demonstrate the determination to strive for excellence and take pride in work both within and outside school. |  Family and home environment : recognise own role in creating a secure and caring family and environment.  Individual differences : recognising that each individual is unique and has differing levels of ability and distinct viewpoints.  Respect : treat others with dignity, respect and consideration and value their achievements.  Rights and responsibilities : developawareness of one's own and others' rights and the corresponding responsibilities. | one's contribution.  Participation and citizenship : understand own role and how to actively participate in a democratic society.  Social justice : respect human rights and stand up for the rights of others.  Understanding and tolerance : acquire the tolerance to live in harmony with others, and understand, accept, and respect the uniqueness of individuals within and across nations. | and respect the unique Maldivian culture and heritage, including our distinctive language, rich history and traditions.  Sustainability : develop sustainable practices that promote and improve social, political, economical, cultural and environmental conditions of the Maldives and the world.
---- | --- | --- | ---
+ Initiative and enterprise: develop the confidence to take initiative and be enterprising in responding to life’s challenges.  Integrity: demonstrate principles of ethical and moral conduct, showing consistency between words and actions.  Sense of duty: show awareness and take personal responsibility for one’s actions both in and outside school and in future life.  Sense of spirituality: build a strong sense of connection with Allah (SWT) and the teachings of Prophet Muhammad (SAW).  The pursuit of personal excellence: demonstrate the determination to strive for excellence and take pride in work both within and outside school. |  Family and home environment: recognise own role in creating a secure and caring family and environment.  Individual differences: recognising that each individual is unique and has differing levels of ability and distinct viewpoints.  Respect: treat others with dignity, respect and consideration and value their achievements.  Rights and responsibilities: develop awareness of one’s own and others’ rights and the corresponding responsibilities. | one’s contribution.  Participation and citizenship: understand own role and how to actively participate in a democratic society.  Social justice: respect human rights and stand up for the rights of others.  Understanding and tolerance: acquire the tolerance to live in harmony with others, and understand, accept, and respect the uniqueness of individuals within and across nations. | and respect the unique Maldivian culture and heritage, including our distinctive language, rich history and traditions.  Sustainability: develop sustainable practices that promote and improve social, political, economical, cultural and environmental conditions of the Maldives and the world.
 
 Table 1: Shared Values
 
@@ -257,7 +304,7 @@ The  National  Curriculum  promotes  a  holistic  approach  to  education,  plac
 
 Students learn best when they are engaged in rich tasks. They attain a deep level of understanding when connections can be made to things that they can relate. Ideas and concepts get internalised better when relations are shown between principles and practices; when facts are linked between the past and the
 
-present; and when they need to actively engage with the learning area through thinking and application. Therefore,  the  learning  experiences  provided  to  students  must  consider  how  to  set  up  knowledgecentred environments where they can be actively engaged in learning. In such environments, teachers consider  what  students  already  know  about  a  given  area  of  knowledge  and  how  to  help  them  to construct new understandings based on their prior knowledge. Teachers need to provide students with learning  experiences  in  a  hierarchical  manner  from  knowledge  to  synthesis  level  where  appropriate. They need to provide feedback throughout the learning process, guiding students to make sense of new information.
+present; and when they need to actively engage with the learning area through thinking and application. Therefore, the learning experiences provided to students must consider how to set up knowledge-centred environments where they can be actively engaged in learning. In such environments, teachers consider what students already know about a given area of knowledge and how to help them to construct new understandings based on their prior knowledge. Teachers need to provide students with learning experiences in a hierarchical manner from knowledge to synthesis level where appropriate. They need to provide feedback throughout the learning process, guiding students to make sense of new information.
 
 ### Skills
 
@@ -269,9 +316,11 @@ April 2014
 
 [[START OF PAGE 12]]
 
-National Institute of Education 12
+National Institute of Education
 
 National Curriculum Framework
+
+12
 
 appropriate to the expected task; of the use of reasoning in writing; and developing skills necessary for effective learning.
 
@@ -297,6 +346,15 @@ National Curriculum Framework
 
 ## KEY COMPETENCIES
 
+Practising Islam
+Understanding and managing self
+Living a healthy life
+Relating to people
+Thinking critically and creatively
+Making meaning
+Using technology and the media
+Using sustainable practices
+
 Figure 3: Key Competencies
 
 The  National  Curriculum  specifies  eight  key  competencies  which  are  essential  for  individuals  to  live, learn and contribute as active members of our nation and the world. These key competencies provide the  basis  for  lifelong  learning  and  employability  in  a  progressive  and  challenging  world.  Each  key competency is built on a combination of cognitive and practical skills, knowledge, values, attitudes, and other social and behavioural components.
@@ -311,35 +369,35 @@ April 2014
 
 National Institute of Education
 
-14
-
 National Curriculum Framework
 
-Students are presented with various opportunities, throughout their school life, which challenge them to  acquire  and  strengthen  these  eight  interrelated  key  competencies.They  are  exposed  to  different aspects  of  these  key  competencies  at  different  stages  of  their  learning  experience,  with  the  aim  of acquiring all eight key competencies by the end of schooling.
+14
+
+Students are presented with various opportunities, throughout their school life, which challenge them to acquire and strengthen these eight interrelated key competencies. They are exposed to different aspects of these key competencies at different stages of their learning experience, with the aim of acquiring all eight key competencies by the end of schooling.
 
 The eight key competencies that the National Curriculum promotes are:
 
-- Practising Islam
+1. Practising Islam
 
-- Understanding and Managing Self
+2. Understanding and Managing Self
 
-- Thinking Critically and Creatively
+3. Thinking Critically and Creatively
 
-- Relating to People
+4. Relating to People
 
-- Making Meaning
+5. Making Meaning
 
-- Living a Healthy Life
+6. Living a Healthy Life
 
-- UsingSustainable Practices
+7. Using Sustainable Practices
 
-- Using Technology and the Media
+8. Using Technology and the Media
 
 ### Practising Islam
 
-Nurturing students in the Islamic faith and enhancing their understanding of Islam as a complete way of life is imperative for them to function as practising Muslims. This key competency therefore focuses on the area of Islamic values which include beliefs, manners, rights, responsibilities, attitudes and moral literacy skills.Students are presented with authentic activities which help them understand how religious obligations are fulfilled and through these teachings, it is envisaged that a strong Muslim identity, based on the underpinnings of the Noble Quran and the teachings of the Prophet Muhammad (SAW), will be built in students.
+Nurturing students in the Islamic faith and enhancing their understanding of Islam as a complete way of life is imperative for them to function as practising Muslims. This key competency therefore focuses on the area of Islamic values which include beliefs, manners, rights, responsibilities, attitudes and moral literacy skills. Students are presented with authentic activities which help them understand how religious obligations are fulfilled and through these teachings, it is envisaged that a strong Muslim identity, based on the underpinnings of the Noble Quran and the teachings of the Prophet Muhammad (SAW), will be built in students.
 
-Young people who have a firm belief in Islam follow the Noble Qur'an and Sunnah . They realise that the purpose  of  life  is  to  obey  and  worship  Allah  (SWT)  and  to  achieve  wellbeing  in  this  world  and  the hereafter. These students adhere to the tenets of Islam and follow Islam in all aspects of their lives.
+Young people who have a firm belief in Islam follow the Noble Qur’an and Sunnah. They realise that the purpose of life is to obey and worship Allah (SWT) and to achieve wellbeing in this world and the hereafter. These students adhere to the tenets of Islam and follow Islam in all aspects of their lives.
 
 April 2014
 
@@ -355,7 +413,7 @@ National Curriculum Framework
 
 ### Understanding and Managing Self
 
-This key competency encompasses the skills, attitudes and knowledge necessary to understand oneself, and to develop and maintain a realistic positive selfimage. It also develops motivation and goal setting skills.  The  ability  to  plan,  implement  plans  and  evaluate  one's  performance  are  all  aspects  of  self management which are essential in developing an enterprising attitude in students.
+This key competency encompasses the skills, attitudes and knowledge necessary to understand oneself, and to develop and maintain a realistic positive self image. It also develops motivation and goal setting skills. The ability to plan, implement plans and evaluate one’s performance are all aspects of self management which are essential in developing an enterprising attitude in students.
 
 Students who have these attributes are able to seek pathways to improved knowledge and competence so that they are able to apply lifelong learning autonomously. They identify what is important to them and direct their attention and efforts towards those things, by setting personal goals. They also develop an eagerness to pursue personal excellence in all aspects of life.
 
@@ -385,7 +443,7 @@ Students who have good social skills develop the ability to read and manage thei
 
 ### Making Meaning
 
-The ability to use language, symbols and textis one of the most fundamental competencies individuals need  to  acquire  in  order  to  be  active  and  contributing  members  of  a  society.  This  key  competency enablesstudents to use language effectively for various purposes such as communicating information, experiences, feelings and ideas. Other aspects of this competency include exploringand interpretingsymbolic representationsas well as visual texts. Students also acquire an awareness of the different social and cultural conventions used in various contexts.
+The ability to use language, symbols and text is one of the most fundamental competencies individuals need to acquire in order to be active and contributing members of a society. This key competency enables students to use language effectively for various purposes such as communicating information, experiences, feelings and ideas. Other aspects of this competency include exploring and interpreting symbolic representations as well as visual texts. Students also acquire an awareness of the different social and cultural conventions used in various contexts.
 
 Students who are competent in making meaning use a range of communication skills comfortably. They use  language,  interpret  symbolic  representations,  visual  texts  and  movements  to  make  meaning  in various contexts. Students also learn to read and produce a wide range of texts, including multi-media, transactional, mathematical, scientific, technological and literary texts using different media.
 
@@ -401,9 +459,9 @@ April 2014
 
 National Institute of Education
 
-17
-
 National Curriculum Framework
+
+17
 
 Through the experiences gained, students understand the relationship between their lifestyle choices and  health.  They  are  aware  that  regular  physical  activity,  rest  and  proper  diet,  will  help  them  live  a quality life.  They  live  life  in  a  manner  that  reflects  their  values  and  attitudes while  being  considerate about the choices and decisions made in various aspects of life.
 
@@ -413,7 +471,7 @@ This key competency aims to raise awareness of the necessity to engage in sustai
 
 Students  who  understand  the  ecology  of  Allah's  creation  believe  that  everyone  has  a  role  to  play  in building a sustainable future. As a result, they use sustainable practices in all aspects of their lives. They also  have  a  global  understanding  of  the  concepts  of  interdependence  and  shared  responsibilities  of global  citizens  in  creating  a  more  sustainable  future  in  terms  of  environmental  integrity,  economic viability and a just society for present and future generations.
 
-### Using Technology andthe Media
+### Using Technology and the Media
 
 This  key  competency enhances  the  ability  to  use  a  variety  of  technologies  as  a  tool  for  learning  and communication. As technology is a powerful platform to capture and disseminate information across the world, students need to master the information literacy skills they need in order to become sensitive consumers and creative producers of information. Therefore, young people need opportunities to use and manage  information  effectively and question the authenticity, accuracy and reliability of information.  They  also  need  to  be  aware  of  the  roles  of  the  media  in  informing,  influencing  and entertaining society and also differentiate between reality and the world portrayed by the media.
 
@@ -425,9 +483,11 @@ April 2014
 
 [[START OF PAGE 18]]
 
-National Institute of Education 18
+National Institute of Education
 
 National Curriculum Framework
+
+18
 
 which  information  is  needed  at  any  given  time  and  for  which  purpose,  how  and  where  to  locate  it, evaluate the reliability and relevance of information and use it productively. Students connect, create, and share information and experiences locally and globally using technology. It enables them to master content and extend their investigations, to become more self directed, and to assume greater control over their own learning. Additionally, students adapt to the changing nature of technologies and media and use technology safely and responsibly.
 
@@ -452,19 +512,19 @@ The  National  Curriculum  recognises  four  main  phases  of  schooling:  found
 Age (at start) | Grade | Key Stage | Phase
 --- | --- | --- | ---
 17 | 12 | KS5 | Higher Secondary
-16 | 11
+16 | 11 |  |
 15 | 10 | KS4 | Lower Secondary
-14 | 9
-13 | 8 | KS3
-12 | 7
-11 | 6 | Primary
-10 | 5 | KS2
-9 | 4
-8 | 3 | KS1
-7 | 2
-6 | 1
+14 | 9 |  |
+13 | 8 | KS3 |
+12 | 7 |  |
+11 | 6 | KS2 | Primary
+10 | 5 |  |
+9 | 4 |  |
+8 | 3 | KS1 |
+7 | 2 |  |
+6 | 1 |  |
 5 | UKG | Foundation | Foundation
-4 | LKG
+4 | LKG |  |
 
 Table 2: Phases and Key Stages
 
@@ -494,7 +554,7 @@ In  addition, teachers should observe and record student achievements in various
 
 ### Primary Phase
 
-The primary phase of school education begins at key stage 1 (grades 1 - 3), and continues till the end of key stage 2 (grades 4 - 6). These six years of primary education are compulsory for all. The purpose of primary education is to create a love for learning and to provide a foundation of skills for a lifetime of learning.
+The primary phase of school education begins at key stage 1 (grades 1 – 3), and continues till the end of key stage 2 (grades 4 – 6). These six years of primary education are compulsory for all. The purpose of primary education is to create a love for learning and to provide a foundation of skills for a lifetime of learning.
 
 April 2014
 
@@ -504,9 +564,9 @@ April 2014
 
 National Institute of Education
 
-21
-
 National Curriculum Framework
+
+21
 
 During  this  phase,  opportunities  have  to  be  provided  for  students  to  enjoy  learning,  to  explore  and discover new things as well as to try different ways of presenting information and creating knowledge. Learning  should  be  geared  to  ensure  that  children  take  risks,  learn  from  mistakes,  and  progress. Students should also be encouraged to take responsibility and become independent learners. In order for  students  to  gain  these  experiences,  they  need  to  be  exposed  to  a  wide  range  of  activities  that develop their essential knowledge, skills and values.
 
@@ -526,27 +586,29 @@ April 2014
 
 [[START OF PAGE 22]]
 
-National Institute of Education 22
+National Institute of Education
 
 National Curriculum Framework
+
+22
 
 ## KEY LEARNING AREAS
 
 The National Curriculum identifies eight key learning areas which define the knowledge, understanding, skills,  attitudes  and values that all young people need to acquire in order to be successful, confident, competent, responsible and productive individuals.
 
-All  eightkey  learning  areas  are  essential  for  a  broad and  balanced education  that promotes students' holistic  development. The National Curriculum is therefore, organised in such a way that all students undertake learning in all eight areas during the two foundation years as well as during the six years of primary education (Grades 1-6) and the first 2 years (Grades 7 & 8) of lower secondary education. By the end of Key Stage 3 it is expected that students would have a strong foundation in all key learning areas, and be ready to focus on some areas in more depth. However, even at this stage, it is recommended that students select their subjects from a range of key learning areas, rather than limiting themselves to a limited few.
+All eight key learning areas are essential for a broad and balanced education that promotes students’ holistic development. The National Curriculum is therefore, organised in such a way that all students undertake learning in all eight areas during the two foundation years as well as during the six years of primary education (Grades 1-6) and the first 2 years (Grades 7 & 8) of lower secondary education. By the end of Key Stage 3 it is expected that students would have a strong foundation in all key learning areas, and be ready to focus on some areas in more depth. However, even at this stage, it is recommended that students select their subjects from a range of key learning areas, rather than limiting themselves to a limited few.
 
 The eight key learning areas comprise of the following:
 
-In Islam and Spirituality , students learn about the teachings of the Noble Qur'an and Sunnah, develop a firm belief in Allah and practice Islamic principles.
+In Islam and Spirituality, students learn about the teachings of the Noble Qur’an and Sunnah, develop a firm belief in Allah and practice Islamic principles.
 
-In Language and Communication ,  students  learn  how  to  communicate  effectively  and  confidently  in both Dhivehi and English. Opportunities to learn other languages are also made available.
+In Language and Communication, students learn how to communicate effectively and confidently in both Dhivehi and English. Opportunities to learn other languages are also made available.
 
-In Mathematics students  learn  the  process  of  enquiry,  discovery  and  verification  and  to  apply mathematical ideas, rules and procedures to particular situations and problems.
+In Mathematics students learn the process of enquiry, discovery and verification and to apply mathematical ideas, rules and procedures to particular situations and problems.
 
-In Environment, Science and Technology ,  students  learn  about  the  physical  environment,  and  about how science and technology impact our lives, and how students can use these to be innovative.
+In Environment, Science and Technology, students learn about the physical environment, and about how science and technology impact our lives, and how students can use these to be innovative.
 
-In Health  and  Wellbeing ,  students  explore  concepts  of  a  healthy  lifestyle,  including  how  to  be emotionally, physically and socially well-adjusted individuals.
+In Health and Wellbeing, students explore concepts of a healthy lifestyle, including how to be emotionally, physically and socially well-adjusted individuals.
 
 In Social Sciences students learn to value their roots, explore the past and understand their contexts, and learn about interrelationships between people across time, environments and cultures in order to develop civic efficacy.
 
@@ -558,13 +620,13 @@ April 2014
 
 National Institute of Education
 
-23
-
 National Curriculum Framework
 
-In Creative  Arts ,  students  learn  how  to  foster  their  creativity,  imagination  and  the  use  of  senses  to communicate, express ideas, experiences and feelings.
+23
 
-In Entrepreneurship ,  students gain the knowledge and skills required to take the initiative to become innovators of new ideas and to become competent in business-related fields.
+In Creative Arts, students learn how to foster their creativity, imagination and the use of senses to communicate, express ideas, experiences and feelings.
+
+In Entrepreneurship, students gain the knowledge and skills required to take the initiative to become innovators of new ideas and to become competent in business-related fields.
 
 The underlying principles of each key learning area and how they contribute to the development of the key competencies are outlined below. (NB. Details regarding the expected learning outcomes for each Key Stage in each key learning area are provided in the relevant syllabus statements for each subject.)
 
@@ -584,9 +646,11 @@ April 2014
 
 [[START OF PAGE 24]]
 
-National Institute of Education 24
+National Institute of Education
 
 National Curriculum Framework
+
+24
 
 #### How is Islam & Spirituality structured?
 
@@ -596,14 +660,14 @@ From  Foundation  Stage  to  Higher  Secondary  sector,  Islam  and  Spiritualit
 
 The learning area is organized in six strands:
 
-##### Quranic  Knowledge :
-The  focus  of  this  strand  is  to  teach  Quran  and  its  knowledge  in  its  true  sense. Students will be taught the necessary skills to recite Quran. Further, some chapters ( Surats )  of  Quran will be taught to the students together with its meanings. In addition, the different topics of Quranic knowledge will also be taught to the students. As such students realize that the accusations laid against Quran by its enemies are false and baseless. This in turn will make the students appreciate the true purpose about the revelation of Quran and will come to believe and live according to the teachings of Quran.
+##### Quranic Knowledge:
+The focus of this strand is to teach Quran and its knowledge in its true sense. Students will be taught the necessary skills to recite Quran. Further, some chapters (Surats) of Quran will be taught to the students together with its meanings. In addition, the different topics of Quranic knowledge will also be taught to the students. As such students realize that the accusations laid against Quran by its enemies are false and baseless. This in turn will make the students appreciate the true purpose about the revelation of Quran and will come to believe and live according to the teachings of Quran.
 
-##### Hadith (sayings)  of  the  Prophet  Muhammad  (SAW):
-This  strand  explores  the  lessons  learned  from the Sunnah .  Further,  the  students  will  be  taught  to  research  the  Sunnah  (exemplary  conduct)  of  the Prophet Muhammad (SAW) and establish the importance and legal status that Sunnah occupies in Islam. This will then expose the fallacy of the accusations levied against Sunnah and the lack of any verifiable proof that can be established scientifically in such arguments.
+##### Hadith (sayings) of the Prophet Muhammad (SAW):
+This strand explores the lessons learned from the Sunnah. Further, the students will be taught to research the Sunnah (exemplary conduct) of the Prophet Muhammad (SAW) and establish the importance and legal status that Sunnah occupies in Islam. This will then expose the fallacy of the accusations levied against Sunnah and the lack of any verifiable proof that can be established scientifically in such arguments.
 
-##### Articles of Iman :
-The students will also be taught the Articles of Iman in conjunction with the purpose of creating and establishing humans in order to develop the Islamic personality of the students and true faith in the hearts of the students. The strand also focuses on factors that can prevent the built up of such  a  faith  in  the  hearts  of  the  students  in  addition  to  the  benefits  such  a  faith  can  bring  to  the individuals and the community.
+##### Articles of Iman:
+The students will also be taught the Articles of Iman in conjunction with the purpose of creating and establishing humans in order to develop the Islamic personality of the students and true faith in the hearts of the students. The strand also focuses on factors that can prevent the built up of such a faith in the hearts of the students in addition to the benefits such a faith can bring to the individuals and the community.
 
 April 2014
 
@@ -613,24 +677,24 @@ April 2014
 
 National Institute of Education
 
-25
-
 National Curriculum Framework
 
-##### Islamic Jurisprudence :
-Through this strand students will be taught the basics of conducting Islamic life with the purpose of keeping all activities of life under the guidance of God in accordance with the rulings of  Quran,  the  traditions  of  the  Prophet  Muhammad  (SAW)  and  the  rulings  of  the  learned  people. Students will also be taught the expansion of the subject in the different periods of Islamic rule.
+25
 
-##### Islamic  History,  Culture  and  Civilization:
-This  strand  is  about  Islamic  History,  Culture  and  Civilization beginning from the time of the Prophet Muhammad (SAW) tracing the development in different periods of Islamic rule with focus on the obstacles to the calling and how they were met and overcome. Students will research Muslim citizenship and civilization and derive valuable lessons from such a study.
+##### Islamic Jurisprudence:
+Through this strand students will be taught the basics of conducting Islamic life with the purpose of keeping all activities of life under the guidance of God in accordance with the rulings of Quran, the traditions of the Prophet Muhammad (SAW) and the rulings of the learned people. Students will also be taught the expansion of the subject in the different periods of Islamic rule.
 
-##### Islamic discipline :
-This strand explores Islamic discipline. Students will learn to conduct their daily actions and  activities  according  to  Islamic  conduct  and  maintain  their  life  sincerely,  faithfully,  and  truthfully under the Islamic principles. As such the students will learn to love being on the true path and advocate for the truth and justice and deny fallacy and evil.The purpose of teaching Islam and spirituality is to enable the students to live in accordance to the doctrines of Islam.
+##### Islamic History, Culture and Civilization:
+This strand is about Islamic History, Culture and Civilization beginning from the time of the Prophet Muhammad (SAW) tracing the development in different periods of Islamic rule with focus on the obstacles to the calling and how they were met and overcome. Students will research Muslim citizenship and civilization and derive valuable lessons from such a study.
+
+##### Islamic discipline:
+This strand explores Islamic discipline. Students will learn to conduct their daily actions and activities according to Islamic conduct and maintain their life sincerely, faithfully, and truthfully under the Islamic principles. As such the students will learn to love being on the true path and advocate for the truth and justice and deny fallacy and evil. The purpose of teaching Islam and spirituality is to enable the students to live in accordance to the doctrines of Islam.
 
 #### How does Islam & Spirituality contribute to the development of the key competencies?
 
 ##### Practising Islam
 
-Islam and Spirituality encompasses the teachings of Islam according to the Noble Quran and Sunnah of the  prophet  Muhammad  (SAW).  Additionally,  teaching  experiences  in  Islamic  Tharbiya  focuses  of character  building  and  it  promotes  the  Islamic  code  of  personal  practice.  As  a  result,  students understand how Muslims should conduct their lives and they would be conscious of their responsibility to Allah.
+Islam and Spirituality encompasses the teachings of Islam according to the Noble Quran and Sunnah of the prophet Muhammad (SAW). Additionally, teaching experiences in Islamic Tharbiya focuses of character building and it promotes the Islamic code of personal practice. As a result, students understand how Muslims should conduct their lives and they would be conscious of their responsibility to Allah.
 
 ##### Understanding and Managing Self
 
@@ -694,7 +758,7 @@ Language  is  a  fundamental  factor  that  contributes  to  students'  intellec
 
 The purpose of teaching Dhivehi language at school is to consolidate and expand students' literacy skills, to enable them to express their thoughts and feelings, to make informed decisions about personal and social issues, inculcate a love for the language and literature and to instil a spirit of maintaining their heritage.
 
-The aim of teaching English Language is to enable students to use the language effectively for academic, professional and social purposes, with fluency, accuracy and confidence. Students learn how to improve their  use  of  English  in  a  variety  of  situations,  understanding  how  to  read  texts  and  other  source materials, and how to extract information, initiate conversations and respond to questions both orally and in  writing.  Students  study  various  literary  texts  in  order  to  get  a  more  holistic  understanding  of themselves as people, and the wider society around them.
+The aim of teaching English Language is to enable students to use the language effectively for academic, professional and social purposes, with fluency, accuracy and confidence. Students learn how to improve their use of English in a variety of situations, understanding how to read texts and other source materials, and how to extract information, initiate conversations and respond to questions both orally
 
 April 2014
 
@@ -708,7 +772,9 @@ National Curriculum Framework
 
 28
 
-Additionally,  it  is  recognised  that  students  need  to  be  proficient  in  multiple  languages  in  order  to communicate  in  a  variety  of  contexts  and  appreciate  the  cultures  of  speakers  of  other  languages. Therefore,  Modern  Foreign  Language(s)  enable  students  to  achieve  greater  fluency,  accuracy  and confidence in the language(s) as it is spoken and written, thereby improving their communication skills.
+and in writing. Students study various literary texts in order to get a more holistic understanding of themselves as people, and the wider society around them.
+
+Additionally, it is recognised that students need to be proficient in multiple languages in order to communicate in a variety of contexts and appreciate the cultures of speakers of other languages. Therefore, Modern Foreign Language(s) enable students to achieve greater fluency, accuracy and confidence in the language(s) as it is spoken and written, thereby improving their communication skills.
 
 #### How is Language and Communication structured?
 
@@ -736,7 +802,7 @@ National Curriculum Framework
 29
 
 #### How does Language and Communication contribute to the development of the key competencies?
-##### Practising Islam/Understanding and managing self/Living a healthy life/Using sustainablepractices
+##### Practising Islam/Understanding and managing self/Living a healthy life/Using sustainable practices
 Language and communication as a learning area offers learners with different experiences and opportunities to build these competencies through oral, reading and writing skills.
 
 ##### Relating to people
@@ -866,7 +932,7 @@ Learning experiences in Mathematics  embed  technology  as a means  to strengthe
 
 #### What is Environment, Science and Technology about?
 
-This  key  learning  area  is  a  universal  discipline  which  explores  the  natural  world  and  its  phenomena through systematic and organised inquiry. Science systematically questions, investigates, predicts and explains events in the universe. It uses logical procedures based on experimentation to gather evidence and develop explanations which become established body of processes, principles and facts. Scientific knowledge and skills help students to understand the natural world, especially our local environment. Through science, students are given opportunities to explore environmental issues which are important to the Maldivian community and the wider world.The use of scientific knowledge has paved the way for technological advancement in every aspect of life. Thus, technology is also an essential part of science.
+This key learning area is a universal discipline which explores the natural world and its phenomena through systematic and organised inquiry. Science systematically questions, investigates, predicts and explains events in the universe. It uses logical procedures based on experimentation to gather evidence and develop explanations which become established body of processes, principles and facts. Scientific knowledge and skills help students to understand the natural world, especially our local environment. Through science, students are given opportunities to explore environmental issues which are important to the Maldivian community and the wider world. The use of scientific knowledge has paved the way for technological advancement in every aspect of life. Thus, technology is also an essential part of science.
 
 National Curriculum Framework
 
@@ -927,7 +993,7 @@ National Curriculum Framework
 ##### Working  scientifically:
 This  is  a  process  strand  which  outlines  the  inquiry  and  investigation  skills students  develop  through  their  study  of  science.  This  strand  would  be  integrated  in  all  the  content strands.
 
-From the Foundation Stage till the end of Key Stage 3, students will study the five strands mentioned above. Students in Key Stage 4 and key Stage 5,have the option to choose one or more disciplines of science from a range of subjects offered in the schools such as marine biology, chemistry, physics or biology.These content areas will provide a basis for specialisations, in a wider range of programmes, for example, biochemistry, education for sustainability, agriculture, horticulture, human biology, environmental science.
+From the Foundation Stage till the end of Key Stage 3, students will study the five strands mentioned above. Students in Key Stage 4 and key Stage 5, have the option to choose one or more disciplines of science from a range of subjects offered in the schools such as marine biology, chemistry, physics or biology. These content areas will provide a basis for specialisations, in a wider range of programmes, for example, biochemistry, education for sustainability, agriculture, horticulture, human biology, environmental science.
 
 #### How does Environment, Science and Technology contribute to the development of key competencies?
 
@@ -967,7 +1033,7 @@ Science  consists  of  signs,  symbols  and  equations.  Students  have  to  und
 
 ##### Living a healthy life
 
-In science, students acquire knowledge, skills and values related to aspects such as nutrition, healthy life styles, diseases and bodyfunctions. Students gain insight into past and present trendsin living a healthy life. In addition, students would acquire the knowledge and skills to make informed decisions regarding a healthy life.
+In science, students acquire knowledge, skills and values related to aspects such as nutrition, healthy life styles, diseases and body functions. Students gain insight into past and present trends in living a healthy life. In addition, students would acquire the knowledge and skills to make informed decisions regarding a healthy life.
 
 ##### Using sustainable practices
 
@@ -1113,7 +1179,7 @@ National Curriculum Framework
 The  study  of  people,  places,  and  human-environment  interactions assists learners to understand the relationship that exist between the people and environment as they create their spatial views and geographic perspectives of the world.
 
 ##### The  Economic  World:
-This  strand  provides  an  understanding  about  the  ways  people  participate  in economic activities and about the consumptions, production, and distribution of goods and services. It helps the students to understand how to manage their needs that often exceed the limited resources and the role of interdependency of the world economy and the role of technology in economic decisionmaking.
+This strand provides an understanding about the ways people participate in economic activities and about the consumptions, production, and distribution of goods and services. It helps the students to understand how to manage their needs that often exceed the limited resources and the role of interdependency of the world economy and the role of technology in economic decision-making.
 
 ##### Time, Continuity and Change:
 Students learn about events, experiences, and actions and the changing ways in which these have been interpreted over time. This helps them to understand what life was like in the past and how things change and develop so that they can imagine a possible future.
@@ -1156,7 +1222,7 @@ Students  use  language,  symbols  and  texts,  together  with  a  range  of  or
 
 ##### Thinking critically and creatively
 
-Students  use  creativity  in  investigating  and  solving  societal  issues.  They  also  use  reasoning  and evaluation in order to make  informed  decisions and implement  relevant social actions.These experiences  enable  students  to  accept  a  variety  of  possible  answers  to  the  same  problem  and  use different methodologies to inquire social issues.
+Students use creativity in investigating and solving societal issues. They also use reasoning and evaluation in order to make informed decisions and implement relevant social actions. These experiences enable students to accept a variety of possible answers to the same problem and use different methodologies to inquire social issues.
 
 April 2014
 
@@ -1174,9 +1240,9 @@ National Curriculum Framework
 
 The  learning  experiences  provided  in  social  sciences  require  students  to  make    choices  based  on  a criteria,  carry  out  the  initiatives  necessary  to  develop  one's  choice,  and  take  responsibility  for  one's decisions in social, personal and physical domains.
 
-##### Usingsustainable practices
+##### Using sustainable practices
 
-Students select the most appropriate combination of economic, social and environmental activities for today  and  the  future.They  choose  between  different  courses  of  individual  and  social  actions  by reflecting on their potential consequences and manage resources well.In addition, they reflect on ways to manage needs that often exceeds limited resources.
+Students select the most appropriate combination of economic, social and environmental activities for today and the future. They choose between different courses of individual and social actions by reflecting on their potential consequences and manage resources well. In addition, they reflect on ways to manage needs that often exceeds limited resources.
 
 ##### Using technology and media
 
@@ -1186,7 +1252,7 @@ Students  will  be  given  opportunities  to  identify,  locate  and  access  ap
 
 #### What is Creative Arts about?
 
-Creative arts comprises of Drama, Music and Movement and Visual arts. They are means of expression that recognise different cultures, andvalue the unique culture of the Maldives. These art forms are often used in interrelated ways, but each has its own distinct language, both verbal and non-verbal. Through creative arts students express and communicate ideas, feelings and experiences using images, sounds and movements.
+Creative arts comprises of Drama, Music and Movement and Visual arts. They are means of expression that recognise different cultures, and value the unique culture of the Maldives. These art forms are often used in interrelated ways, but each has its own distinct language, both verbal and non-verbal. Through creative arts students express and communicate ideas, feelings and experiences using images, sounds and movements.
 
 April 2014
 
@@ -1200,15 +1266,15 @@ National Curriculum Framework
 
 #### Why study Creative Arts?
 
-Creative Arts play a significant role in nurturing creativity and in the broad-based education aimed at developing  the  'whole'  child.  It  also  contributes  to  develop,  share  and  pass  on  values,  ideas  and understandings of ourselves, our history, our culture and our world to future generations. Creative Arts help  students  to  value  the  forms  and  practices  of  both  traditional  and  contemporary  Maldivian performing, musical and visual arts. It promotes students' personal and cultural identity and prepares them  for  lifelong  involvement  in  the  appreciation  of  the  arts.  Specialist  studies  in  the  Creative  Arts enable students to progress and contribute to a variety of careers in the creative industries.
+Creative Arts play a significant role in nurturing creativity and in the broad-based education aimed at developing the “whole” child. It also contributes to develop, share and pass on values, ideas and understandings of ourselves, our history, our culture and our world to future generations. Creative Arts help students to value the forms and practices of both traditional and contemporary Maldivian performing, musical and visual arts. It promotes students' personal and cultural identity and prepares them for lifelong involvement in the appreciation of the arts. Specialist studies in the Creative Arts enable students to progress and contribute to a variety of careers in the creative industries.
 
-Arts education builds students' artistic skills, knowledge and understanding. It also helps sharpenstudents' perception of the world and give them new ways of looking at things. Through the development of artistic literacy, creation, presentation, interpreting, viewing, and listening students, are able to participate in, interpret, value, and enjoy the arts throughout their lives.
+Arts education builds students' artistic skills, knowledge and understanding. It also helps sharpen students' perception of the world and give them new ways of looking at things. Through the development of artistic literacy, creation, presentation, interpreting, viewing, and listening students, are able to participate in, interpret, value, and enjoy the arts throughout their lives.
 
 #### How is Creative Arts organised?
 
 Creative  Arts  in  the  National  Curriculum  is  structured  under  three  strands  of  Drama,  Music  and Movement and Visual arts. Each of these disciplines recognise its own body of knowledge and means of inquiry.  However,  they  share  a  number  of  overlapping  concepts  and  skills  related  to  creativity  and expression, analysing and interpreting observations and experiences and the communication of ideas, thoughts and feelings.
 
-From the Foundation Stage till  the  end  of  Key  Stage  3,  students  study  all  three  disciplines.From  Key Stage 4, students are provided with the basis for specialist teaching and learning programmes in Art & Design, Music or Drama. Specialist studies are believed to give a solid foundation of arts that would help students in their pursuit of careers in the creative industries or further studies in art related courses.
+From the Foundation Stage till the end of Key Stage 3, students study all three disciplines. From Key Stage 4, students are provided with the basis for specialist teaching and learning programmes in Art & Design, Music or Drama. Specialist studies are believed to give a solid foundation of arts that would help students in their pursuit of careers in the creative industries or further studies in art related courses.
 
 ##### Drama:
 Drama  provides  students  with  opportunities  to  look  at  contemporary  drama  practices  of making, performing and appreciating drama. These drama practices enable students to be active, experiential, and reflective, and students develop knowledge, understanding and skills that pertain to each of these practices.
@@ -1245,7 +1311,9 @@ Students plan and manage their time and take responsibility in choosing material
 
 ##### Thinking critically and creatively
 
-April 2014 Creative Arts enrich students' cognitive skills and stimulate creative action and response by engaging students  with  connecting,  thinking,  imagination,  senses  and  feelings.Students  use  various  sensory modes,  traditional  and  electronic  media  and  tools  and  individual  and  group  experiences  to  solve
+Creative Arts enrich students' cognitive skills and stimulate creative action and response by engaging students with connecting, thinking, imagination, senses and feelings. Students use various sensory modes, traditional and electronic media and tools and individual and group experiences to solve
+
+April 2014
 
 [[END OF PAGE 45]]
 
@@ -1265,7 +1333,7 @@ Through  the  learning  area,  students  develop  their  ability  to  learn  and
 
 ##### Making meaning
 
-Creative  arts  encompassforms  of  communication  extending  beyond  reading,  writing,  listening  and speaking. Communicating in the creative arts means learning to translate ideas through dance, music and  movement  and  visual  arts.  Students  participate  in  the  communication  process  as  receivers: observing,  analysing,  evaluating,  critiquing  and  interacting.  They  also  learn  to  interpret  information, ideas, express feelings and experiences using images, movements, sounds, signs and symbols in order to make sense of their world.
+Creative arts encompass forms of communication extending beyond reading, writing, listening and speaking. Communicating in the creative arts means learning to translate ideas through dance, music and movement and visual arts. Students participate in the communication process as receivers: observing, analysing, evaluating, critiquing and interacting. They also learn to interpret information, ideas, express feelings and experiences using images, movements, sounds, signs and symbols in order to make sense of their world.
 
 ##### Living a healthy life
 
@@ -1295,7 +1363,7 @@ Entrepreneurship involves the ability to handle uncertainty, respond positively 
 
 #### Why teach Entrepreneurship?
 
-Through this key learning area, students are exposed to challenging educational activities that develop entrepreneurial thinking and a can do attitude.Apart from this, students have access to a wide range of learning tools that enhance the capacity to see the world in new ways. Students also develop the mental habit  of  developing  and  testing  multiple  ideas  as  well  as  practical  skills  that  help  them  to  engage  in industrial or commercial occupations and become productive members of the community.
+Through this key learning area, students are exposed to challenging educational activities that develop entrepreneurial thinking and a can do attitude. Apart from this, students have access to a wide range of learning tools that enhance the capacity to see the world in new ways. Students also develop the mental habit of developing and testing multiple ideas as well as practical skills that help them to engage in industrial or commercial occupations and become productive members of the community.
 
 National Curriculum Framework
 
@@ -1341,7 +1409,7 @@ National Institute of Education
 
 ##### Thinking critically and creatively
 
-Entrepreneurship is about identifying students' abilities and encouraging them to become innovative. Through entrepreneurship students are exposed to learning experiences that require them to generate new  ideas,  carry  out  new  ventures  and  learn  how  to  overcome  the  challenges  they  face.Therefore, students get ample opportunities to develop critical and creative thinking skills.
+Entrepreneurship is about identifying students' abilities and encouraging them to become innovative. Through entrepreneurship students are exposed to learning experiences that require them to generate new ideas, carry out new ventures and learn how to overcome the challenges they face. Therefore, students get ample opportunities to develop critical and creative thinking skills.
 
 ##### Relating to people
 
@@ -1349,7 +1417,7 @@ Entrepreneurship requires students to work in partnership with others in order t
 
 ##### Making meaning
 
-Entrepreneurship  requires  students to  understand  different  scenarios,  and  develop  strategic  plans  to implement and test ideas and interpret the outcomes.  Students also develop effective communication skills and innovative ways to present their ideas and suggestionswhich are essential components of this key competency.
+Entrepreneurship requires students to understand different scenarios, and develop strategic plans to implement and test ideas and interpret the outcomes. Students also develop effective communication skills and innovative ways to present their ideas and suggestions which are essential components of this key competency.
 
 ##### Living a healthy life & using sustainable practices
 
@@ -1388,6 +1456,162 @@ National Institute of Education
 National Curriculum Framework
 
 51
+
+Organisation of learning across the key stages
+
+Practising Islam
+Understanding & Managing Self
+Thinking Critically & Creatively
+Relating to People
+Living a Healthy Life
+Making Meaning
+Using Technology & the Media
+Using Sustainable Practices
+
+Foundation
+F
+LKG, UKG
+Islam & Spirituality
+Language & Communication
+Mathematics
+Health & Wellbeing
+Social Science
+Environmental Science & Technology
+Creative Arts
+Entrepreneurship
+
+Primary
+Islam & Spirituality
+Language & Communication
+Mathematics
+Health & Wellbeing
+Social Science
+Environmental Science & Technology
+Creative Arts
+Entrepreneurship
+
+Key stage 1
+Gr 1, 2 & 3
+Core subjects
+Islam
+Quran
+Dhiv
+Eng
+Math
+Health & P.E
+Social Studies
+Science
+Creative Arts
+ICT
+Entrepreneurship
+Optional subject
+Arabic
+
+Key stage 2
+Gr 4, 5 & 6
+Core subjects
+Islam
+Quran
+Dhiv
+Eng
+Math
+Health & P.E
+Social Studies
+Science
+Creative Arts
+ICT
+Entrepreneurship
+Optional subject
+Arabic
+
+Lower Secondary
+Islam & Spirituality
+Language & Communication
+Mathematics
+Health & Wellbeing
+Social Science
+Environmental Science & Technology
+Creative Arts
+Entrepreneurship
+
+Key stage 3
+Gr 7 & 8
+Core subjects
+Islam
+Quran
+Dhiv
+Eng
+Math
+Health & P.E
+Social Studies (Geography & Citizenship)
+Science (Physics, Chemistry & Biology)
+Creative Arts (Drama, Music & Visual Arts)
+ICT
+Business St (Economics & Business St)
+Optional subject
+Arabic
+
+Key stage 4
+Gr 9 & 10
+Core subjects
+Islam
+Quran
+Dhiv
+Eng
+Math
+Health & P.E
+Social Studies
+Electives (choose any 4 subjects selected from at least two KLAs. A minimum of two subjects should be selected from Science & Technology)
+History
+Geography
+Physics
+Chemistry
+Biology
+Marine Sci
+Fisheries Sci
+Combined Science
+Business St
+Economics
+Accounting
+Travel & Tourism
+Design & Technology
+Computer Studies
+Vocational Studies
+Art
+Music
+Eng. Lit.
+Dhiv. Lit.
+Foreign Lang (Arabic, French, German, Mandarin)
+
+Higher Secondary
+Islam & Spirituality
+Language & Communication
+
+Key stage 5
+Gr 11 & 12
+Core subjects
+Islam
+Dhiv Lang
+Electives (choose any 3 subjects)
+Mathematics with Statistics
+Mathematics & Mechanics
+History
+Geography
+Physics
+Chemistry
+Biology
+Marine Sci
+Business St
+Principles of Accounts
+Economics
+Business St
+Art
+Quran & Sunnah
+English
+Eng. Lit.
+Dhiv. Lit.
+
+DRAFT, 09 Apr 2014
 
 April 2014
 
@@ -1429,9 +1653,16 @@ While planning teaching and learning, schools should be flexible and support the
 
 The National Curriculum is based on five pedagogical dimensions, as depicted in the figure below:
 
-April 2014
+Effective pedagogy
+Creating a positive learning environment
+Connecting prior learning to new learning
+Fostering reflective practice
+Making learning meaningful
+Recognising individual differences
 
 Figure: 4 Pedagogical Dimensions
+
+April 2014
 
 [[END OF PAGE 53]]
 
@@ -1541,6 +1772,17 @@ National Curriculum Framework
 
 The following figure depicts the recommended cycle of assessment to be followed in schools.
 
+Planning learning process according to curriculum goals
+Use assessment information to identify what we want students to achieve
+Set learning outcomes
+Ensure that students are clear about what is to be learnt and what success look like
+Identify pedagogical approaches
+Identify the strategies that can be used for teaching and learning the intended goal
+Assess learning
+Gather and record information to identify how children can learn better
+Uses, interprets and records
+Communicate and report the results obtained from the assessment
+
 Figure 8 : Process of Assessment in Schools
 
 ### Principles of Assessment
@@ -1559,6 +1801,8 @@ April 2014
 
 National Institute of Education 59
 
+National Curriculum Framework
+
 #### Assessment uses multiple methods
 
 The type of assessment techniques used should be related to the learning outcomes and the purpose of assessment. At the same time, educators should note that important decisions about learners should not be made only on the basis of a test score. A wide range of assessment techniques should be used to gain a broader picture of student learning. Furthermore, the type of assessment techniques used should be closely  related  to the  learning  outcomes  and  the  purpose of  assessment.  Some of  the  techniques which  could  be  used  to  assess  students  include  observations,  concept  mapping,  portfolio  and conferencing.
@@ -1574,8 +1818,6 @@ Assessment should be used for learning and it should provide clear information a
 #### Assessment reflects on learning and creates a continuous improvement cycle
 
 Assessment should be used to collect and gather evidence of educational effectiveness at various levels of schooling. Schools should track students' progress based on the assessments and rate their learning against the knowledge, skills and behaviours that are critical for success in their learning. This allows
-
-National Curriculum Framework
 
 April 2014
 
@@ -1637,7 +1879,7 @@ A clear indicator of the success of the curriculum is related to the number of s
 
 Effective management of the curriculum requires schools to provide direction to curriculum delivery and manage the teaching process efficiently to support student learning. There should be well developed procedures  such  as  curriculum  management  plans,  professional  development  programmes  that  align with the curriculum and specifications for monitoring and evaluating the curriculum.
 
-While  implementing  the  curriculum,  a  strong  emphasis  should  be  placed  on  providing  a  holistic education  which  is  concerned  with  the  growth  of  students'  intellectual,  emotional,  social,  physical, artistic, creative and spiritual potentials. Therefore, school leaders need to be familiar with the design and the underlying principles of the curriculum. They also need to establish a mechanism by which the vision,  values  and  the  key  competencies  can  be  addressed  in  the  teaching  and  learning  process  to ensure  that  students  who  leave  school  attain  good  results,  show  positive  behaviour,  make  better choices in life, contribute positively to society and are encouraged to take further studies or are well prepared for employment. The following specifies areas to which key consideration needs to be given in order to manage the curriculum effectively.
+While implementing the curriculum, a strong emphasis should be placed on providing a holistic education which is concerned with the growth of students' intellectual, emotional, social, physical, artistic, creative and spiritual potentials. Therefore, school leaders need to be familiar with the design and the underlying principles of the curriculum. They also need to establish a mechanism by which the vision, values and the key competencies can be addressed in the teaching and learning process to ensure that students who leave school attain good results, show positive behaviour, make better choices in life, contribute positively to society and are encouraged to take further studies or are well
 
 April 2014
 
@@ -1650,6 +1892,8 @@ National Institute of Education
 National Curriculum Framework
 
 62
+
+prepared for employment. The following specifies areas to which key consideration needs to be given in order to manage the curriculum effectively.
 
 ### Creating a suitable learning environment
 
@@ -1889,6 +2133,8 @@ April 2014
 
 National Institute of Education 68
 
+National Curriculum Framework
+
  collaborate with the school  and support the learning process.
 
  participate in their children's efforts to achieve the learning outcomes across the curriculum.
@@ -1898,8 +2144,6 @@ National Institute of Education 68
  ensure that their children are adequately nourished, acquire adequate sleep and rest and is fully equipped for school.
 
  create a home environment that supports learning.
-
-National Curriculum Framework
 
 April 2014
 
