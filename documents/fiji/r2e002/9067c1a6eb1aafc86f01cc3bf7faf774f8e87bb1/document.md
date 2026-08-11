@@ -31,7 +31,7 @@ This  policy  confirms  the  Ministry  of  Education,  Heritage,  &  Arts  (here
 
 ### MoEHA Mission
 
-'…the  provision  of  a  holistic,  inclusive,  responsive  and  empowering  education  system  that enables all children to realize their full potential, appreciate fully their inheritance, take pride in their national and cultural identity and contribute fully to sustainable national development' .
+“…the  provision  of  a  holistic,  inclusive,  responsive  and  empowering  education  system  that enables all children to realize their full potential, appreciate fully their inheritance, take pride in their national and cultural identity and contribute fully to sustainable national development”.
 
 This policy translates the mission as MoEHA's commitment to:
 
@@ -99,13 +99,15 @@ Furthermore, child abuse has risen rapidly in Fiji, not only in homes and on the
 
 Besides, there is also the social shame attached to abuse. This intensifies and increases the traumatic experiences of the victims and it is exacerbated by the indifferent negative responses of those who should report the abuse or those to whom the report is entrusted.
 
-At the MoEHA, all of its policies contain issues pertaining to child protection and enhancement of  children's  future.  Firstly  developed  in  2010  and  constantly  reviewed  every  year,  the  Child Protection Policy will directly address protection, identification, managing and reporting incidents of child abuse, child labour, trafficking, neglect and exploitation, so that wherever the MoEHA conducts its business, whether in the offices, schools or other teaching/learning environments, they should all be child friendly where safety, health and care of all students is promoted.
+At the MoEHA, all of its policies contain issues pertaining to child protection and enhancement of children's future. Firstly developed in 2010 and constantly reviewed every year, the Child Protection Policy will directly address protection, identification, managing and reporting incidents
 
 3
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+of child abuse, child labour, trafficking, neglect and exploitation, so that wherever the MoEHA conducts its business, whether in the offices, schools or other teaching/learning environments, they should all be child friendly where safety, health and care of all students is promoted.
 
 ## 4.0 DEFINITIONS
 
@@ -257,7 +259,7 @@ Sarcastic and derogatory remarks put orally to children.
 
 - 5.26 The Family Law Act (2003)
 
-- 5.27 Universal  Periodic  Review  (UPR)  -  National  Report  Submitted  in  Accordance with Paragraph 15 (A) of the Annex to Human Rights Council Resolution 5/1 2010.
+- 5.27 Universal  Periodic  Review  (UPR)  –  National  Report  Submitted  in  Accordance with Paragraph 15 (A) of the Annex to Human Rights Council Resolution 5/1 – 2010.
 
 6
 
@@ -387,15 +389,21 @@ Staff to be aware:
 
 Staff must never use internal systems such as computers, mobile phones, or video and digital cameras inappropriately and never to exploit or harass children, or to access child pornography through any medium.
 
-## 8.0 EFFECTIVE DATE……………………………………20 th  January, 2015.
+## 8.0 EFFECTIVE DATE……………………………………20th January, 2015.
 
-## 9.0 REVIEW DATE………………………………………...20 th  January, 2018.
+## 9.0 REVIEW DATE………………………………………...20th January, 2018.
 
 ## 10.0  KEY SEARCH WORDS
 
 Abuse, Emotional Abuse, TRB, Physical Abuse, Sexual Abuse, Substance Abuse, Child labour.
 
 ## 11.0  APPROVED  BY  THE  HONOURABLE  MINISTER  FOR  EDUCATION,  HERITAGE  & ARTS, DR. MAHENDRA REDDY.
+
+Signature
+
+Date
+
+21/01/2015
 
 10
 
@@ -823,9 +831,7 @@ The following are good practices that need to be observed as much as possible:
 
 - Reports sexual assault by caretaker.
 
-It must be recognized that the above list is not exhaustive, but also that the presence of one or more of the indications is not proof that abuse is taking place. It is NOT the responsibility of those working in MoEHA and schools to decide that child abuse is occurring. It IS their responsibility to act on any concerns.
-
-Note:
+Note: It must be recognized that the above list is not exhaustive, but also that the presence of one or more of the indications is not proof that abuse is taking place. It is NOT the responsibility of those working in MoEHA and schools to decide that child abuse is occurring. It IS their responsibility to act on any concerns.
 
 20
 
@@ -835,81 +841,71 @@ Note:
 
 ## APPENDIX 10
 
-### PROPOSED SCHOOLS CHILD PROTECTION POLICY DRAFT FLOW - CHART PART 1
-
-Is it disclosure of abuse of the child?
-
-No     Is it a claim by staff of MOEHA?
-
-Yes                             No
-
-Yes
-
-Advice Referral to CPO
-
-Does the claim form a suspicion of abuse?
-
-No
-
-Yes
-
-Is the claim a Child Abuse Report?
-
-No
-
-Unsure
-
-Yes
-
-Does the child need Medical care, or Immediate Protection?
-
-No
+### PROPOSED SCHOOLS CHILD PROTECTION POLICY DRAFT FLOW – CHART PART 1
 
 Start
 
 ALERT
 
-Support &
+Is it disclosure of abuse of the child?
 
-Reassure
+- Yes
 
-Child
+  - Clarify claim
 
-Clarify claim
+  - Support & Reassure
 
-claim
+  - Does the claim form a suspicion of abuse?
 
-End
+    - No
 
-End
+      - No further Action
 
-No further
+      - End
 
-Action
+    - Yes
 
-Discuss with CPO
+      - Discuss with CPO
 
-End
+      - Is the claim a Child Abuse Report?
 
-No further
+        - No
 
-Action
+          - No further Action
 
-Report to Principal/Head
+          - End
 
-Teacher/School Management
+        - Unsure
 
-Prepare Report
+        - Yes
 
-Take to Hospital
+          - Prepare Report
 
-Refer to DSW
+          - Report to Principal/Head Teacher/School Management
 
-Refer to MoEHA
+          - Does the child need Medical care, or Immediate Protection?
 
-District Office
+            - No
 
-End
+              - End
+
+            - Refer to MoEHA District Office
+
+              - Take to Hospital
+
+              - Refer to DSW
+
+- No
+
+  - Is it a claim by staff of MOEHA?
+
+    - No
+
+    - Yes
+
+      - Advice Referral to CPO
+
+      - End
 
 21
 
@@ -919,35 +915,21 @@ End
 
 ## APPENDIX 11
 
-### PROPOSED MoEHA CHILD PROTECTION POLICY DRAFT FLOW - CHART PART 2
+### PROPOSED MoEHA CHILD PROTECTION POLICY DRAFT FLOW – CHART PART 2
 
-Report from School
-
-Head
-
-Divisional
-
-CPO/Counsellor
+Report from School Head
 
 District Education Office
 
-Refer report to Fiji
+Divisional CPO/Counsellor
 
-Police
+- Refer report to D/Primary, D/Secondary, IRD, HRM, and PSE.
 
-Refer report to DSW
+- Refer report to DSW
 
-Refer report to
+- Refer report to Fiji Police
 
-D/Primary,
-
-D/Secondary, IRD,
-
-HRM, and PSE.
-
-Refer report to Ministry
-
-of Health
+- Refer report to Ministry of Health
 
 22
 
