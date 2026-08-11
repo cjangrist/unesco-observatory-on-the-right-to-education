@@ -1,6 +1,6 @@
 [[START OF PAGE 1]]
 
-# Decree-Law no 54/2008, July 6
+# Decree-Law no 54/2018, July 6
 
 The Program of the XXI Constitutional Government establishes as one of the priorities of the governmental action supporting/waging on an inclusive school where each and every one  of  the  students,  regardless  of  their  personal  and  social  situation,  find  answers  that enable them to acquire a level of education and training which will enable them to be fully socially  integrated.  This  political  priority  realizes  the  right  of  each  pupil  to  an  inclusive education that responds to their potentialities, expectations and needs within the framework of a common and plural educational endeavour that provides everyone with the sense of participation and belonging in authentic conditions of equity, contributing thus, decisively, for greater levels of social cohesion.
 
@@ -8,11 +8,13 @@ The  commitment  to  inclusive  education,  as  defined  by  UNESCO  (2009),  as
 
 At  the  centre  of  the  school  activity  are  the  curriculum  and  student  learning.  In  this assumption, this decree-law has as central axis of orientation the need of each school to recognize the added value of the diversity of its students, finding ways to deal with that difference, adjusting the teaching processes to the individual characteristics and conditions of  each  student,  mobilizing  the  means  at  its  disposal  so  that  everyone  learns  and participates in the life of the educational community. This implies a decisive commitment on the autonomy of schools and their professionals, namely through the reinforcement of the intervention of special education teachers, as an active part of the educational teams in the definition of strategies and in the monitoring of curricular diversification. Conscious of the  professional  competences  that  exist  in  Portuguese  schools,  the  Government  now intends  to  create  conditions  so  that  they  can  raise  the  quality  standards  of  the  different offers of education and training. Even in cases where greater difficulty in participating in the  curriculum  is  identified,  it  is  up  to  each  school  to  define  the  process  in  which  it identifies  the  barriers  to  learning  with  which  the  student  is  confronted,  considering  the diversity of strategies to overcome them, in order to ensure that each student has access to the  curriculum  and  to  the  learning,  taking  each  and  every  one  to  the  limit  of  their  own potential.
 
-The methodological options underlying this decree-law are based on universal design for learning  and  a  multilevel  approach  to  access  the  curriculum.  This  approach  is  based  on flexible curricular models, systematic monitoring of the effectiveness of the continuum of implemented interventions, the dialogue between teachers with parents or caregivers, and in the choice of measures to support learning, organized at different levels of intervention, according to the educational responses necessary for each student to acquire a common base of competences, valuing their potential and interests.
+The methodological options underlying this decree-law are based on universal design for learning  and  a  multilevel  approach  to  access  the  curriculum.  This  approach  is  based  on flexible curricular models, systematic monitoring of the effectiveness of the continuum of implemented interventions, the dialogue between teachers with parents or caregivers, and
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+in the choice of measures to support learning, organized at different levels of intervention, according to the educational responses necessary for each student to acquire a common base of competences, valuing their potential and interests.
 
 Thus,  there  is  a  moving  away  from  the  rationale  that  it  is  necessary  to  categorize  to intervene. Rather, it is sought to ensure that the Profile of the students at the end of Compulsory Schooling i is reached by all, even if it is through differentiated learning paths that allow each student to progress in the curriculum in a way that ensures their educational success. The present decree-law provides an continuous and integrated approach to the school path of each student, assuring quality throughout all compulsory schooling.
 
@@ -76,19 +78,19 @@ d)  'Specific  curricular  areas',  those  which  include  vision  training,  th
 
 f) 'School health team', the team of health professionals from health  centre clusters or local health units (ACES/ULS) that, when referred, and in collaboration with children or young people with special health needs, the general and family medicine teams and other health services, the family and the school, develops an individual health plan, supports and monitors its implementation and eventual revision;
 
-'Early childhood intervention', the package of integrated support measures focusing on young children and the family, including preventive and rehabilitative actions, namely in the field of education, health and social assistance;
+g) 'Early childhood intervention', the package of integrated support measures focusing on young children and the family, including preventive and rehabilitative actions, namely in the field of education, health and social assistance;
 
-'Special  health  needs',  (SHN),  the  needs  resulting  from  physical  and  mental  health problems that have an impact on functioning, produce severe limitations in any organ or body system,  involving  irregularities  in  school  attendance  and  that  may  compromise  the learning process;
+h) 'Special  health  needs',  (SHN),  the  needs  resulting  from  physical  and  mental  health problems that have an impact on functioning, produce severe limitations in any organ or body system,  involving  irregularities  in  school  attendance  and  that  may  compromise  the learning process;
 
 i)  'Individual  Transition  Plan',  the  plan  designed  three  years  before  the  limit  age  of compulsory schooling, for each young student attending school with significant adjustments, designed according to the interests, skills and expectations of the student and their family, as complement to their individual educational program;
 
-'Individual  health  plan  (IHP)',  a  plan  designed  by  the  school  health  team  within  the scope of the National School Health Program, for each child or young person with SHE, which includes the results of the evaluation of health conditions and identifies the health measures to be implemented in order to improve the learning process;
+j) 'Individual  health  plan  (IHP)',  a  plan  designed  by  the  school  health  team  within  the scope of the National School Health Program, for each child or young person with SHE, which includes the results of the evaluation of health conditions and identifies the health measures to be implemented in order to improve the learning process;
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-"Individual Educational Program", a program designed for each pupil, resulting from a person-centred planning, which identifies learning support measures that promote access and participation in inclusive settings.
+k) "Individual Educational Program", a program designed for each pupil, resulting from a person-centred planning, which identifies learning support measures that promote access and participation in inclusive settings.
 
 #### Article 3 rd
 
@@ -96,21 +98,21 @@ i)  'Individual  Transition  Plan',  the  plan  designed  three  years  before  
 
 Guiding principles of inclusive education:
 
-- Universal educability, the assumption that all children and pupils have the ability to  learn and to develop in their education;
+a) Universal educability, the assumption that all children and pupils have the ability to  learn and to develop in their education;
 
-- Equity, the guarantee that all children and pupils have access to the necessary support to realize their learning and development potential;
+b) Equity, the guarantee that all children and pupils have access to the necessary support to realize their learning and development potential;
 
-- Inclusion,  the  right  of  all  children  and  pupils  to  access  and  participate,  fully  and effectively, in the same educational contexts;
+c) Inclusion,  the  right  of  all  children  and  pupils  to  access  and  participate,  fully  and effectively, in the same educational contexts;
 
-- Customization, the pupil-centred educational planning so that measures are decided on a case-by-case basis according to their needs, potential, interests and preferences, through a multilevel approach;
+d) Customization, the pupil-centred educational planning so that measures are decided on a case-by-case basis according to their needs, potential, interests and preferences, through a multilevel approach;
 
-- Flexibility, the flexible management of the curriculum, the school spaces and times, so that the educational action in its methods, times, instruments and activities can respond to the singularities of each student;
+e) Flexibility, the flexible management of the curriculum, the school spaces and times, so that the educational action in its methods, times, instruments and activities can respond to the singularities of each student;
 
-- Self-determination, the respect for personal autonomy, taking into account not only the needs of the students but also their interests and preferences, and the expression of their cultural  and  linguistic  identity,  creating  opportunities  for  the  realization  of  their  right  to participate in decision-making
+f) Self-determination, the respect for personal autonomy, taking into account not only the needs of the students but also their interests and preferences, and the expression of their cultural  and  linguistic  identity,  creating  opportunities  for  the  realization  of  their  right  to participate in decision-making
 
-- Parental involvement, the parents and guardians right to participation and information regarding all aspects of the educational process of their child;
+g) Parental involvement, the parents and guardians right to participation and information regarding all aspects of the educational process of their child;
 
-- Minimum  interference,  the  technical  and  educational  intervention  shall  be  developed exclusively by entities and institutions whose action proves to be necessary to effectively promote the personal and educational development of children or pupils, respecting their private and family life.
+h) Minimum  interference,  the  technical  and  educational  intervention  shall  be  developed exclusively by entities and institutions whose action proves to be necessary to effectively promote the personal and educational development of children or pupils, respecting their private and family life.
 
 #### Article 4 st
 
@@ -126,15 +128,15 @@ matters related to the education of their child, as well as access all informati
 
 2 - Pursuant the provisions of the preceding paragraph, parents or guardians have the right to:
 
-- Participate in multidisciplinary team meetings;
+a) Participate in multidisciplinary team meetings;
 
-- Participate in the preparation and evaluation of the individual educational program;
+b) Participate in the preparation and evaluation of the individual educational program;
 
-- Request the review of the individual educational program;
+c) Request the review of the individual educational program;
 
-- Consult the individual school file of the pupil;
+d) Consult the individual school file of the pupil;
 
-- Have adequate and clear information about the child's education.
+e) Have adequate and clear information about the child's education.
 
 3 - When parents or guardians are proven not to exercise their powers of participation, it is up  to  the  school  to  initiate  appropriate  measures  in  accordance  with  the  identified educational needs.
 
@@ -192,15 +194,15 @@ matters related to the education of their child, as well as access all informati
 
 2 - Among others, universal measures are, namely:
 
-- differentiated instruction;
+a) differentiated instruction;
 
-- curricular accommodations;
+b) curricular accommodations;
 
-- curriculum enrichment;
+c) curriculum enrichment;
 
-- The promotion of pro-social behaviour;
+d) The promotion of pro-social behaviour;
 
-- An intervention, with academic or behavioural focus, in small groups.
+e) An intervention, with academic or behavioural focus, in small groups.
 
 3 - Universal measures are mobilized for all students, including those in need of selective or additional  measures,  aiming  to  promote  personal,  interpersonal  and  social  intervention development.
 
@@ -212,17 +214,17 @@ matters related to the education of their child, as well as access all informati
 
 - 2 - Selective measures are:
 
-- Differentiated curricular pathways;
+a) Differentiated curricular pathways;
 
-- Non-significant curricular adaptations;
+b) Non-significant curricular adaptations;
 
-- Psycho-pedagogical support;
+c) Psycho-pedagogical support;
 
-- Anticipation and reinforcement of learning;
+d) Anticipation and reinforcement of learning;
 
-- Tutorial support;
+e) Tutorial support;
 
-3 - The monitoring and evaluation of the efficacy of the selective measures application is carried  out  by  those  responsible  for  its  implementation,  as  defined  in  the  technicalpedagogical report.
+3 - The monitoring and evaluation of the efficacy of the selective measures application is carried  out  by  those  responsible  for  its  implementation,  as  defined  in  the  technical-pedagogical report.
 
 4  -  The  selective  measures  are  implemented  with  the  material  and  human  resources available in the school.
 
@@ -248,7 +250,7 @@ a) The completion of the school year by subject;
 
 b) significant curricular adaptations;
 
-- individual transition plan;
+c) individual transition plan;
 
 d) The development of structured teaching methodologies and strategies;
 
@@ -280,19 +282,19 @@ a) Special education teachers;
 
 b) Specialized technicians;
 
-- Operational assistants, preferably with specific training.
+c) Operational assistants, preferably with specific training.
 
 2 - Specific organizational resources to support learning and inclusion are:
 
-- The multidisciplinary team of support to inclusive education;
+a) The multidisciplinary team of support to inclusive education;
 
-- The learning support centre;
+b) The learning support centre;
 
-- Reference schools in the area of vision/blindness;
+c) Reference schools in the area of vision/blindness;
 
-- Reference schools for bilingual education;
+d) Reference schools for bilingual education;
 
-- Reference schools for early childhood intervention;
+e) Reference schools for early childhood intervention;
 
 f) Resource centres for information and communication technology for special education.
 
@@ -328,33 +330,33 @@ f)  Special  education  establishments  with  a  cooperation  agreement  with  t
 
 - 3 - The permanent members of the multidisciplinary team are:
 
-- One of the teachers who assists the school director;
+a) One of the teachers who assists the school director;
 
-- A special education teacher;
+b) A special education teacher;
 
-- Three members of the pedagogical council with functions of pedagogical coordination in the different levels of education and teaching;
+c) Three members of the pedagogical council with functions of pedagogical coordination in the different levels of education and teaching;
 
-- A psychologist.
+d) A psychologist.
 
 - 4 - The variable members of the multidisciplinary team are all related to the student being discussed:  the  head  teacher,  other  teachers  of  the  student,  technicians  of  the  resource centre for inclusion (RCI) and other technicians who intervene with the student.
 
 - 5 - It is the responsibility of the school director to designate:
 
-- The permanent members;
+a) The permanent members;
 
-- The coordinator, in consultation with the permanent members of the multidisciplinary team;
+b) The coordinator, in consultation with the permanent members of the multidisciplinary team;
 
-- The meeting place.
+c) The meeting place.
 
 - 6 - It is up to the coordinator of the multidisciplinary team:
 
-- To identify the variable members referred to in paragraph 4;
+a) To identify the variable members referred to in paragraph 4;
 
-- To summon the members of the team for meetings;
+b) To summon the members of the team for meetings;
 
-- To manage the work;
+c) To manage the work;
 
-- To adopt the necessary procedures in order to guarantee the participation of the parents or guardians in the terms of article 4, and generate consensus in answering posed questions.
+d) To adopt the necessary procedures in order to guarantee the participation of the parents or guardians in the terms of article 4, and generate consensus in answering posed questions.
 
 [[END OF PAGE 11]]
 
@@ -364,17 +366,17 @@ f)  Special  education  establishments  with  a  cooperation  agreement  with  t
 
 8 - It is the responsibility of the multidisciplinary team:
 
-- To raise awareness of the educational community towards inclusive education;
+a) To raise awareness of the educational community towards inclusive education;
 
-- To propose the learning support measures to be mobilized;
+b) To propose the learning support measures to be mobilized;
 
-- To follow up and to monitor the implementation of the learning support measures;
+c) To follow up and to monitor the implementation of the learning support measures;
 
-- To  provide  advice  to  teachers  about  the  implementation  of  inclusive  pedagogical practices;
+d) To  provide  advice  to  teachers  about  the  implementation  of  inclusive  pedagogical practices;
 
-- To prepare the technical-pedagogical report provided for in article 21 st and, if applicable, the individual educational program and the  individual transition plan, in articles 24 th and 25 th respectively;
+e) To prepare the technical-pedagogical report provided for in article 21 st and, if applicable, the individual educational program and the  individual transition plan, in articles 24 th and 25 th respectively;
 
-- To follow up on the functioning of the learning support centre.
+f) To follow up on the functioning of the learning support centre.
 
 - 9 - The work to be carried out by the multidisciplinary team, namely the mobilization of the  learning  support  measures,  as  well  as  the  preparation  of  the  technical-pedagogical report  and  the  individual  educational  program,  when  carried  out  by  teachers,  is  to  be carried  out  and  accounted  for  within  the  non-lecture  portion  of  their  regular  work schedule.
 
@@ -386,11 +388,11 @@ f)  Special  education  establishments  with  a  cooperation  agreement  with  t
 
 - 2 - The learning support centre, in collaboration with the other services and structures of the school, has the following general objectives:
 
-- To support the inclusion of children and youth in the group/class and in the routines and activities of the school, namely through the diversification of strategies to access to the curriculum;
+a) To support the inclusion of children and youth in the group/class and in the routines and activities of the school, namely through the diversification of strategies to access to the curriculum;
 
-- To promote and to support access to training, higher education and integration in postschool life;
+b) To promote and to support access to training, higher education and integration in post-school life;
 
-- To  promote  and  to  support  access  to  leisure  activities,  social  participation  and independent living.
+c) To  promote  and  to  support  access  to  leisure  activities,  social  participation  and independent living.
 
 - 3  -  The  educational  act  promoted  by  the  learning  support  centre  is  subordinate  to  the action developed in the pupil's class, calling for the intervention of all educational agents, namely the special education teacher.
 
@@ -404,17 +406,17 @@ f)  Special  education  establishments  with  a  cooperation  agreement  with  t
 
 - 6 - The specific objectives of the learning support centre are:
 
-- To promote the quality of student participation in the activities of the class to which they belong to and in other learning contexts;
+a) To promote the quality of student participation in the activities of the class to which they belong to and in other learning contexts;
 
-- To support the teachers of the group or class to which the students belong;
+b) To support the teachers of the group or class to which the students belong;
 
-- To  support  the  creation  of  learning  resources  and  assessment  tools  for  the  various components of the curriculum;
+c) To  support  the  creation  of  learning  resources  and  assessment  tools  for  the  various components of the curriculum;
 
-- To develop interdisciplinary intervention methodologies that facilitates the processes of learning, autonomy and adaptation to the school context;
+d) To develop interdisciplinary intervention methodologies that facilitates the processes of learning, autonomy and adaptation to the school context;
 
-- To promote the development of structured environments, rich in communication and interaction, which promote learning;
+e) To promote the development of structured environments, rich in communication and interaction, which promote learning;
 
-- To support the organization of the transition process to post-school life.
+f) To support the organization of the transition process to post-school life.
 
 - 7  -  It  is  the  responsibility  of  the  school  director  to  define  the  functioning  space  of  the learning support centre with the aim to yield the greatest use of the existing resources in the school.
 
@@ -424,13 +426,13 @@ f)  Special  education  establishments  with  a  cooperation  agreement  with  t
 
 - 1 - Reference schools in the field of vision/blindness constitute a specialized educational response in the following areas:
 
-- Braille literacy, contemplating the application of all specific spellings;
+a) Braille literacy, contemplating the application of all specific spellings;
 
-- Orientation and mobility;
+b) Orientation and mobility;
 
-- Assistive products/devices to access the curriculum;
+c) Assistive products/devices to access the curriculum;
 
-- Activities of daily living and social skills.
+d) Activities of daily living and social skills.
 
 - 2  -  Reference  schools  in  the  field  of  vision/blindness  include  teachers  with  specialized training in special education in the area of  vision/blindness and have specific equipment and materials that guarantee access to information and curriculum.
 
@@ -440,15 +442,15 @@ f)  Special  education  establishments  with  a  cooperation  agreement  with  t
 
 - 3 - It is the responsibility of teachers with specialized training in special education in the field of vision/blindness:
 
-- To promote the development of emerging reading and writing skills in Braille, in preschool education;
+a) To promote the development of emerging reading and writing skills in Braille, in pre-school education;
 
-- To teach the curriculum area of Braille literacy contemplating the application of all the specific spelling, in primary and secondary education;
+b) To teach the curriculum area of Braille literacy contemplating the application of all the specific spelling, in primary and secondary education;
 
-- To ensure the evaluation of functional vision in order to define the adequate strategies and materials;
+c) To ensure the evaluation of functional vision in order to define the adequate strategies and materials;
 
-- To promote the development of competencies in the areas referred to in sub-paragraphs b), c) and d) of paragraph 1;
+d) To promote the development of competencies in the areas referred to in sub-paragraphs b), c) and d) of paragraph 1;
 
-- To ensure support to teachers and their synergies with parents or caregivers.
+e) To ensure support to teachers and their synergies with parents or caregivers.
 
 - 4 - It is the responsibility of the schools referred to in the preceding paragraphs to organize differentiated instruction responses according to levels of education and teaching and the characteristics of the students, namely through access to the curriculum and participation in school activities, promoting the student's inclusion.
 
@@ -458,11 +460,11 @@ f)  Special  education  establishments  with  a  cooperation  agreement  with  t
 
 1  -  The  reference  schools  for  bilingual  education  constitute  a  specialized  educational response with the objective of implementing the bilingual education model, as an assurance of access to the common national curriculum, ensuring in particular:
 
-- The development of Portuguese Sign Language (PSL) as the first language (L1);
+a) The development of Portuguese Sign Language (PSL) as the first language (L1);
 
-- The development of the written Portuguese language as a second language (L2);
+b) The development of the written Portuguese language as a second language (L2);
 
-- The establishment of moments for reflection and training, including in the area of  PSL, promoting collaborative work among different professionals, families and the educational community in general.
+c) The establishment of moments for reflection and training, including in the area of  PSL, promoting collaborative work among different professionals, families and the educational community in general.
 
 - 2 - The reference schools for bilingual education include teachers with specialized training in  special  education  in  the  area  of  deafness,  PSL  teachers,  PSL  interpreters  and  speech therapists.
 
@@ -520,25 +522,25 @@ the characteristics of the pupils, namely through access to the curriculum, part
 
 a) The implementation of measures to support learning and inclusion;
 
-- The  development  of  the  individual  educational  program  and  the  individual  transition plan;
+b) The  development  of  the  individual  educational  program  and  the  individual  transition plan;
 
-- The promotion of independent living;
+c) The promotion of independent living;
 
-- The support of the multidisciplinary team;
+d) The support of the multidisciplinary team;
 
-- The promotion of parental empowerment actions;
+e) The promotion of parental empowerment actions;
 
-- The development of curricular enrichment activities;
+f) The development of curricular enrichment activities;
 
-- Vocational guidance;
+g) Vocational guidance;
 
-- Access to higher education;
+h) Access to higher education;
 
-- The integration into vocational training programs;
+i) The integration into vocational training programs;
 
-- Support in the area of accessibility;
+j) Support in the area of accessibility;
 
-- Other necessary actions for the implementation of the measures to support learning and inclusion provided for in this Decree-Law.
+k) Other necessary actions for the implementation of the measures to support learning and inclusion provided for in this Decree-Law.
 
 - 3  -  The  partnerships  referred  to  in  the  previous  numbers  are  established  through  the signing of cooperation protocols.
 
@@ -580,17 +582,17 @@ a) The implementation of measures to support learning and inclusion;
 
 [[START OF PAGE 18]]
 
-- The identification of the factors that facilitate and hinder the progress and development of  a  specific  student's  learning,  namely  school  factors,  contextual  factors,  and  individual factors;
+a) The identification of the factors that facilitate and hinder the progress and development of  a  specific  student's  learning,  namely  school  factors,  contextual  factors,  and  individual factors;
 
-- The measures to support learning and inclusion to be mobilized;
+b) The measures to support learning and inclusion to be mobilized;
 
-- The operational method of each measure, including objectives, targets and performance indicators;
+c) The operational method of each measure, including objectives, targets and performance indicators;
 
-- The  persons  responsible  for  implementing  the  measures  to  support  learning  and inclusion;
+d) The  persons  responsible  for  implementing  the  measures  to  support  learning  and inclusion;
 
-- The  procedures  for  assessing  the  efficacy  of  each  measure  and,  when  applicable,  the efficacy of the individual educational program;
+e) The  procedures  for  assessing  the  efficacy  of  each  measure  and,  when  applicable,  the efficacy of the individual educational program;
 
-- The relationship with the specific support resources for inclusion defined in article 11 th .
+f) The relationship with the specific support resources for inclusion defined in article 11 th .
 
 - 3 -  The  multidisciplinary  team  shall  consult  with  parents  or  guardians  during  the development of the technical-pedagogical report.
 
@@ -600,13 +602,13 @@ a) The implementation of measures to support learning and inclusion;
 
 - 6  -  Whenever  significant  curricular  adaptations  are  proposed,  the  technical-pedagogical report  shall  be  accompanied  by  an  individual  educational  program,  which  integrates  the technical-pedagogical report.
 
-- The report shall be completed no later than 30 working days after the presentation to the school director of the request for need for measures to support learning and inclusion in accordance with the procedure referred to in Article 20 th , paragraph 2.
+7. The report shall be completed no later than 30 working days after the presentation to the school director of the request for need for measures to support learning and inclusion in accordance with the procedure referred to in Article 20 th , paragraph 2.
 
 8 - The technical-pedagogical report is an integral part of the pupil's individual file, without prejudice to the confidentiality to which it is subject under the law.
 
 9  -  The  implementation  of  the  measures  foreseen  in  the  technical-pedagogical  report depends on the agreement of parents or guardians.
 
-10 -  The  coordinator  of  the  implementation  of  the  measures  proposed  in  the  technicalpedagogical report is the kindergarten teacher, the class teacher or the head teacher, as the case may be.
+10 -  The  coordinator  of  the  implementation  of  the  measures  proposed  in  the  technical-pedagogical report is the kindergarten teacher, the class teacher or the head teacher, as the case may be.
 
 [[END OF PAGE 18]]
 
@@ -652,11 +654,11 @@ a) The implementation of measures to support learning and inclusion;
 
 - 3 - The individual educational program shall contain the following elements:
 
-- The total number of school time, according to the respective level of education;
+a) The total number of school time, according to the respective level of education;
 
-- The  assistive  products/devices,  when  appropriate  and  necessary  for  access  and participation in the curriculum;
+b) The  assistive  products/devices,  when  appropriate  and  necessary  for  access  and participation in the curriculum;
 
-- The strategies for transition between cycles and levels of education, when applicable.
+c) The strategies for transition between cycles and levels of education, when applicable.
 
 - 4  -  Without  prejudice  to  the  evaluation  to  be  carried  out  by  each  teacher,  the  individual educational  program is  monitored  and  evaluated  according  to  the  terms  provided  in  the technical-pedagogical report.
 
@@ -668,7 +670,7 @@ a) The implementation of measures to support learning and inclusion;
 
 ##### Individual transition plan
 
-1 -Whenever the student has an individual educational program, this shall be complemented by an individual transition plan designed to promote the transition to postschool life and, whenever possible, to the establishment of a professional activity.
+1 -Whenever the student has an individual educational program, this shall be complemented by an individual transition plan designed to promote the transition to post-school life and, whenever possible, to the establishment of a professional activity.
 
 2.  The  individual  transition  plan  shall  be  guided  by  the  principles  of  universality  of education, equity, inclusion, flexibility and self-determination.
 
@@ -710,27 +712,27 @@ All  information  resulting  from  technical  and  educational  interventions,  
 
 (a)  The  diversification  of  instruments  for  the  collection  of  information,  such  as  surveys, interviews, video or audio recordings;
 
-- The test/exam sheets in accessible formats, namely, Braille, tables and maps in relief, Daisy format, digital;
+b) The test/exam sheets in accessible formats, namely, Braille, tables and maps in relief, Daisy format, digital;
 
-- The interpretation in PSL;
+c) The interpretation in PSL;
 
-- The use of assistive products/devices;
+d) The use of assistive products/devices;
 
-- Extra time for the test;
+e) Extra time for the test;
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
 
-- Transcription of the answers;
+f) Transcription of the answers;
 
-- Reading of the test/exam sheets;
+g) Reading of the test/exam sheets;
 
-- The use of a separate room;
+h) The use of a separate room;
 
-- Supervised breaks;
+i) Supervised breaks;
 
-- Colour identification code in the test/exam sheets.
+j) Colour identification code in the test/exam sheets.
 
 - 3  -  The  adaptations  to  the  internal  evaluation  process  are  a  responsibility  of  the  school, without prejudice to the obligation to make public the results of the evaluation, at the times designated by the school for all pupils.
 
@@ -740,25 +742,25 @@ All  information  resulting  from  technical  and  educational  interventions,  
 
 (a) The use of assistive products/devices;
 
-- Exiting the exam room during the test/examination;
+b) Exiting the exam room during the test/examination;
 
-- Adaptation of space or material resources;
+c) Adaptation of space or material resources;
 
-- The presence of a Portuguese Sign Language interpreter;
+d) The presence of a Portuguese Sign Language interpreter;
 
-- The use of the Portuguese Language Dictionary;
+e) The use of the Portuguese Language Dictionary;
 
-- The implementation of adapted tests/exams.
+f) The implementation of adapted tests/exams.
 
 - 6  -  In  secondary  education,  the  school  may  request  authorization  from  the  National Examining Jury to make the following adaptations to the external evaluation process:
 
-- The realization of a Portuguese Second Language (PL2) exam;
+a) The realization of a Portuguese Second Language (PL2) exam;
 
-- The support presence of a teacher;
+b) The support presence of a teacher;
 
-- The use of support instruments to the application of criteria for the classification of tests for students with dyslexia, as provided for in the Regulation of external evaluation tests;
+c) The use of support instruments to the application of criteria for the classification of tests for students with dyslexia, as provided for in the Regulation of external evaluation tests;
 
-- The use of extra time.
+d) The use of extra time.
 
 - 7  -  The  adaptations  to  the  external  evaluation  process  must  be  included  in  the  pupil's school file.
 
@@ -792,7 +794,7 @@ All  information  resulting  from  technical  and  educational  interventions,  
 
 ##### Transition regime for pupils with the extinct individual specific curriculum measure
 
-1 - The pupils who, at the date of coming into force of this decree-law, are covered by the specific individual curriculum measure, provided for in article 16 th , paragraph  e) and article 21 st of  Decree-Law  nº.  3/2008,  January  7,  modified  by  Law  no.  21/2008,  May  12,  shall have its individual educational program reassessed by the multidisciplinary team to identify the  need  for  measures  to  support  learning  and  inclusion,  and  to  develop  the  technicalpedagogical report provided for in article 21 st of this Decree-Law.
+1 - The pupils who, at the date of coming into force of this decree-law, are covered by the specific individual curriculum measure, provided for in article 16 th , paragraph  e) and article 21 st of  Decree-Law  nº.  3/2008,  January  7,  modified  by  Law  no.  21/2008,  May  12,  shall have its individual educational program reassessed by the multidisciplinary team to identify the  need  for  measures  to  support  learning  and  inclusion,  and  to  develop  the  technical-pedagogical report provided for in article 21 st of this Decree-Law.
 
 [[END OF PAGE 23]]
 
@@ -860,12 +862,6 @@ The multidisciplinary teams to support inclusive education shall start within 30
 
 [[START OF PAGE 26]]
 
-The following shall be repealed:
-
-- Decree-Law no. 3/2008, January 7, amended by Law no. 21/2008, May 12;
-
-b) Ordinance No. 201-C/2015, July 10.
-
 #### Article 37 th
 
 ##### Regulation
@@ -892,6 +888,12 @@ The application of this decree-law to the Autonomous Regions of the Azores and M
 
 ##### Repealing order
 
+The following shall be repealed:
+
+a) Decree-Law no. 3/2008, January 7, amended by Law no. 21/2008, May 12;
+
+b) Ordinance No. 201-C/2015, July 10.
+
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
@@ -904,6 +906,6 @@ The application of this decree-law to the Autonomous Regions of the Azores and M
 
 2  -  Without  prejudice  of  the  defined  in  the  preceding  paragraph,  and  to  the  regime provided for in article 31, schools shall apply to the preparation of the 2018-2019 school year.
 
-> i Profile of the students at the end of Compulsory Schooling : reference document for the organization of the entire education system. It aims to contribute to the organization and management of curricula and to the definition of pedagogical strategies, methodologies and procedures.https://dge.mec.pt/sites/default/files/Curriculo/Projeto_Autonomia_e_Flexi bilidade/perfil_dos_alunos.pdf
+> i Profile of the students at the end of Compulsory Schooling: reference document for the organization of the entire education system. It aims to contribute to the organization and management of curricula and to the definition of pedagogical strategies, methodologies and procedures.https://dge.mec.pt/sites/default/files/Curriculo/Projeto_Autonomia_e_Flexibilidade/perfil_dos_alunos.pdf
 
 [[END OF PAGE 27]]
