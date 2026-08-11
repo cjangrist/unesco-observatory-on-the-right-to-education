@@ -16,9 +16,14 @@ g) Expandir la incorporación de las tecnologías de la información y de la com
 ### ARTICULO 3º
 - El presupuesto consolidado del Gobierno nacional, las provincias y la Ciudad Autónoma de Buenos Aires destinado a la educación, la ciencia y la tecnología se incrementará progresivamente hasta alcanzar, en el año 2010, una participación del SEIS POR CIENTO (6%) en el Producto Interno Bruto (PIB).
 ### ARTICULO 4º
-- A fin de lograr el cumplimiento de los objetivos descriptos en el artículo 2° de la presente ley, el gasto consolidado en educación, ciencia y tecnología del Gobierno nacional crecerá anualmente -
+- A fin de lograr el cumplimiento de los objetivos descriptos en el artículo 2° de la presente ley, el gasto consolidado en educación, ciencia y tecnología del Gobierno nacional crecerá anualmente —respecto del año 2005—, de acuerdo a los porcentajes que se consignan en el siguiente cuadro:
 
-respecto del año 2005-, de acuerdo a los porcentajes que se consignan en el siguiente cuadro:
+Año | GEC/PIB Meta anual en % | Aumento acumulado del gasto en educación, ciencia y tecnología del Gobierno Nacional
+2006 | 4,7 | GEN 2005 x (PIB 2006/2005-1) + 40% x (4,7%-GEC 2005/PIB 2005x100) x PIB 2006
+2007 | 5,0 | GEN 2005 x (PIB 2007/2005-1) + 40% x (5,0%-GEC 2005/PIB 2005x100) x PIB 2007
+2008 | 5,3 | GEN 2005 x (PIB 2008/2005-1) + 40% x (5,3%-GEC 2005/PIB 2005x100) x PIB 2008
+2009 | 5,6 | GEN 2005 x (PIB 2009/2005-1) + 40% x (5,6%-GEC 2005/PIB 2005x100) x PIB 2009
+2010 | 6,0 | GEN 2005 x (PIB 2010/2005-1) + 40% x (6,0%-GEC 2005/PIB 2005x100) x PIB 2010
 
 Donde:  GEC: Gasto consolidado en educación, ciencia y tecnología.  PIB: Producto Interno Bruto.  GEN: Gasto en educación, ciencia y tecnología del Gobierno nacional.  40% = Participación del Gobierno nacional en el esfuerzo de inversión adicional para el cumplimiento de la Meta de crecimiento anual de GEC/PIB. El Gobierno nacional financiará con sus recursos los programas destinados a cumplir los objetivos especificados en los incisos j) y k) del artículo 2° de la presente ley en lo atinente a instituciones y organismos dependientes del Estado nacional.
 
@@ -29,26 +34,54 @@ Donde:  GEC: Gasto consolidado en educación, ciencia y tecnología.  PIB:
 La distribución de los recursos incrementales de jurisdicción nacional destinados a la educación no universitaria, universitaria y el sistema científico-tecnológico deberá realizarse conforme a las participaciones actuales del Gasto Educativo Consolidado del año 2005.
 
 ### ARTICULO 5º
-- A fin de lograr el cumplimiento de los objetivos descriptos en el artículo 2° de la presente ley, el gasto consolidado en educación, ciencia y tecnología de las provincias y de la Ciudad Autónoma de Buenos Aires se incrementará anualmente -respecto del año 2005-, de acuerdo a los porcentajes que se consignan en el siguiente cuadro:
+- A fin de lograr el cumplimiento de los objetivos descriptos en el artículo 2° de la presente ley, el gasto consolidado en educación, ciencia y tecnología de las provincias y de la Ciudad Autónoma de Buenos Aires se incrementará anualmente —respecto del año 2005—, de acuerdo a los porcentajes que se consignan en el siguiente cuadro:
+
+Año | GEC/PIB Meta anual en % | Aumento acumulado del gasto en educación, ciencia y tecnología de las Provincias y la CIUDAD AUTONOMA DE BUENOS AIRES
+2006 | 4,7 | GEP 2005 x (PIB 2006/2005-1) + 60% x (4,7%-GEC 2005/PIB 2005x100) x PIB 2006
+2007 | 5,0 | GEP 2005 x (PIB 2007/2005-1) + 60% x (5,0%-GEC 2005/PIB 2005x100) x PIB 2007
+2008 | 5,3 | GEP 2005 x (PIB 2008/2005-1) + 60% x (5,3%-GEC 2005/PIB 2005x100) x PIB 2008
+2009 | 5,6 | GEP 2005 x (PIB 2009/2005-1) + 60% x (5,6%-GEC 2005/PIB 2005x100) x PIB 2009
+2010 | 6,0 | GEP 2005 x (PIB 2010/2005-1) + 60% x (6,0%-GEC 2005/PIB 2005x100) x PIB 2010
 
 Donde:  GEC: Gasto consolidado en educación, ciencia y tecnología.  PIB: Producto Interno Bruto.  GEP: Gasto en educación, ciencia y tecnología de las provincias y Ciudad Autónoma de Buenos Aires.  60% = Participación de los Gobiernos provinciales y de la Ciudad Autónoma de Buenos Aires en el esfuerzo de inversión adicional para el cumplimiento de la meta de crecimiento anual de GEC/PIB. Este incremento se destinará prioritariamente a: i) mejorar las remuneraciones docentes, ii) adecuar las respectivas plantas orgánicas funcionales a fin de asegurar la atención de una matrícula creciente, iii) jerarquizar la carrera docente garantizando su capacitación con el objeto de mejorar la calidad educativa.
 ### ARTICULO 6º
-- A los efectos de los cálculos previstos en los artículos 4° y 5° de la presente ley, se utilizará el Producto Interno Bruto contemplado en la presentación del proyecto de Ley de Presupuesto de la Administración Nacional. En los ejercicios fiscales en donde no haya incremento en el PIB o cuando la variación del mismo no genere el incremento en la recaudación exigible para alcanzar las metas financieras previstas, la meta anual deberá adecuarse proporcionalmente al incremento de la recaudación. Podrán las partes, de común acuerdo, en cada convenio bilateral redefinir plazos, condiciones y alcances de los compromisos asumidos. coparticipables en los términos del inciso 3 del artículo 75 de la Constitución Nacional con la finalidad de
+- A los efectos de los cálculos previstos en los artículos 4° y 5° de la presente ley, se utilizará el Producto Interno Bruto contemplado en la presentación del proyecto de Ley de Presupuesto de la Administración Nacional. En los ejercicios fiscales en donde no haya incremento en el PIB o cuando la variación del mismo no genere el incremento en la recaudación exigible para alcanzar las metas financieras previstas, la meta anual deberá adecuarse proporcionalmente al incremento de la recaudación. Podrán las partes, de común acuerdo, en cada convenio bilateral redefinir plazos, condiciones y alcances de los compromisos asumidos.
 
 ### ARTICULO 7º
-- Establécese, por el plazo de CINCO (5) años, una asignación específica de recursos garantizar condiciones equitativas y solidarias en el sistema educativo nacional, y de coadyuvar a la disponibilidad de los recursos previstos en el artículo 5° de la presente ley en los presupuestos de las Provincias y de la Ciudad Autónoma de Buenos Aires. Será objeto de tal afectación el incremento, respecto del año 2005, de los recursos anuales coparticipables correspondientes a las provincias y a la Ciudad Autónoma de Buenos Aires en el Régimen de la Ley N° 23.548 y sus modificatorias y complementarias. El monto total anual de la afectación referida será equivalente al SESENTA POR CIENTO (60%) del incremento en la participación del gasto consolidado en educación, ciencia y tecnología en el Producto Interno Bruto, según surge del segundo sumando del cuadro del artículo 5° de la presente ley.
-### ARTICULO 8º
-- La determinación del monto de la asignación específica correspondiente a cada provincia y a la Ciudad Autónoma de Buenos Aires a partir del monto total que surge de la aplicación del artículo anterior, se efectuará conforme a un índice que se construirá anualmente en función de los siguientes criterios: a) La participación de la matrícula de cada provincia y de la Ciudad Autónoma de Buenos Aires en el total de los niveles inicial a superior no universitario, correspondiente a todos los tipos de educación (ponderación OCHENTA POR CIENTO (80%). b) La incidencia relativa de la ruralidad en el total de la matrícula de educación común de cada provincia y de la Ciudad Autónoma de Buenos Aires (ponderación DIEZ POR CIENTO (10%). c) La participación de la población no escolarizada de TRES (3) a DIECISIETE (17) años de cada Provincia y de la Ciudad Autónoma de Buenos Aires en el total (ponderación DIEZ POR CIENTO (10%). Para la determinación anual del índice de contribución será de aplicación obligatoria la información suministrada por: 1) la DIRECCION NACIONAL DE INFORMACION Y EVALUACION DE LA CALIDAD EDUCATIVA del MINISTERIO DE EDUCACION, CIENCIA Y TECNOLOGIA en su relevamiento anual para los criterios a y b, y 2) el INSTITUTO NACIONAL DE ESTADISTICA Y CENSOS del MINISTERIO DE ECONOMIA Y PRODUCCION para el criterio c. En este último caso, la información se referirá a los datos del último censo nacional disponible. En ningún caso se utilizarán datos de población no escolarizada que resulten de extrapolaciones a períodos posteriores al último censo nacional. La determinación de los importes afectados se realizará a los efectos de que cada jurisdicción refleje en su presupuesto anual el compromiso financiero derivado de la aplicación del artículo 5° de la presente ley. El índice que se aplicará para cada jurisdicción en el año 2006 será el que figura en el ANEXO I. Para los años siguientes, el MINISTERIO DE EDUCACION, CIENCIA Y TECNOLOGIA calculará y comunicará el referido índice para la elaboración del proyecto de Ley de Presupuesto de la Administración Nacional del respectivo año.
-### ARTICULO 9º
-- Créase, en el ámbito del MINISTERIO DE EDUCACION, CIENCIA Y TECNOLOGIA, el Programa Nacional de Compensación Salarial Docente, cuyo objetivo será el contribuir a la compensación de las desigualdades en el salario inicial docente en aquellas provincias en las cuales se evalúe fehacientemente que, a pesar del esfuerzo financiero destinado al sector y de las mejoras de la eficiencia en la asignación de los recursos, no resulte posible superar dichas desigualdades. En la reglamentación de la presente ley, el Poder Ejecutivo nacional, con la participación del Consejo Federal de Cultura y Educación, fijará criterios de asignación tendientes a compensar las desigualdades existentes entre las diferentes jurisdicciones mediante un porcentaje de los recursos determinados en el artículo 4° que se destinarán al Programa Nacional de Compensación Salarial Docente, así como su operatoria y los requisitos que deberán cumplir las provincias y la Ciudad Autónoma de Buenos Aires para acceder a los recursos.
-### ARTICULO 10º
-- El MINISTERIO DE EDUCACION, CIENCIA Y TECNOLOGIA juntamente con el Consejo Federal de Cultura y Educación y las entidades gremiales docentes con representación nacional, acordarán un convenio marco que incluirá pautas generales referidas a: a) condiciones laborales, b) calendario educativo, c) salario mínimo docente y d) carrera docente.
+- Establécese, por el plazo de CINCO (5) años, una asignación específica de recursos coparticipables en los términos del inciso 3 del artículo 75 de la Constitución Nacional con la finalidad de garantizar condiciones equitativas y solidarias en el sistema educativo nacional, y de coadyuvar a la
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-(this page came through the extractor with no text)
+disponibilidad de los recursos previstos en el artículo 5° de la presente ley en los presupuestos de las Provincias y de la Ciudad Autónoma de Buenos Aires.
+
+Será objeto de tal afectación el incremento, respecto del año 2005, de los recursos anuales coparticipables correspondientes a las provincias y a la Ciudad Autónoma de Buenos Aires en el Régimen de la Ley N° 23.548 y sus modificatorias y complementarias.
+
+El monto total anual de la afectación referida será equivalente al SESENTA POR CIENTO (60%) del incremento en la participación del gasto consolidado en educación, ciencia y tecnología en el Producto Interno Bruto, según surge del segundo sumando del cuadro del artículo 5° de la presente ley.
+
+### ARTICULO 8º
+- La determinación del monto de la asignación específica correspondiente a cada provincia y a la Ciudad Autónoma de Buenos Aires a partir del monto total que surge de la aplicación del artículo anterior, se efectuará conforme a un índice que se construirá anualmente en función de los siguientes criterios:
+
+a) La participación de la matrícula de cada provincia y de la Ciudad Autónoma de Buenos Aires en el total de los niveles inicial a superior no universitario, correspondiente a todos los tipos de educación (ponderación OCHENTA POR CIENTO (80%).
+
+b) La incidencia relativa de la ruralidad en el total de la matrícula de educación común de cada provincia y de la Ciudad Autónoma de Buenos Aires (ponderación DIEZ POR CIENTO (10%).
+
+c) La participación de la población no escolarizada de TRES (3) a DIECISIETE (17) años de cada Provincia y de la Ciudad Autónoma de Buenos Aires en el total (ponderación DIEZ POR CIENTO (10%).
+
+Para la determinación anual del índice de contribución será de aplicación obligatoria la información suministrada por: 1) la DIRECCION NACIONAL DE INFORMACION Y EVALUACION DE LA CALIDAD EDUCATIVA del MINISTERIO DE EDUCACION, CIENCIA Y TECNOLOGIA en su relevamiento anual para los criterios a y b, y 2) el INSTITUTO NACIONAL DE ESTADISTICA Y CENSOS del MINISTERIO DE ECONOMIA Y PRODUCCION para el criterio c. En este último caso, la información se referirá a los datos del último censo nacional disponible. En ningún caso se utilizarán datos de población no escolarizada que resulten de extrapolaciones a períodos posteriores al último censo nacional.
+
+La determinación de los importes afectados se realizará a los efectos de que cada jurisdicción refleje en su presupuesto anual el compromiso financiero derivado de la aplicación del artículo 5° de la presente ley.
+
+El índice que se aplicará para cada jurisdicción en el año 2006 será el que figura en el ANEXO I. Para los años siguientes, el MINISTERIO DE EDUCACION, CIENCIA Y TECNOLOGIA calculará y comunicará el referido índice para la elaboración del proyecto de Ley de Presupuesto de la Administración Nacional del respectivo año.
+
+### ARTICULO 9º
+- Créase, en el ámbito del MINISTERIO DE EDUCACION, CIENCIA Y TECNOLOGIA, el Programa Nacional de Compensación Salarial Docente, cuyo objetivo será el contribuir a la compensación de las desigualdades en el salario inicial docente en aquellas provincias en las cuales se evalúe fehacientemente que, a pesar del esfuerzo financiero destinado al sector y de las mejoras de la eficiencia en la asignación de los recursos, no resulte posible superar dichas desigualdades.
+
+En la reglamentación de la presente ley, el Poder Ejecutivo nacional, con la participación del Consejo Federal de Cultura y Educación, fijará criterios de asignación tendientes a compensar las desigualdades existentes entre las diferentes jurisdicciones mediante un porcentaje de los recursos determinados en el artículo 4° que se destinarán al Programa Nacional de Compensación Salarial Docente, así como su operatoria y los requisitos que deberán cumplir las provincias y la Ciudad Autónoma de Buenos Aires para acceder a los recursos.
+
+### ARTICULO 10º
+- El MINISTERIO DE EDUCACION, CIENCIA Y TECNOLOGIA juntamente con el Consejo Federal de Cultura y Educación y las entidades gremiales docentes con representación nacional, acordarán un convenio marco que incluirá pautas generales referidas a: a) condiciones laborales, b) calendario educativo, c) salario mínimo docente y d) carrera docente.
 
 [[END OF PAGE 4]]
 
@@ -65,9 +98,11 @@ Donde:  GEC: Gasto consolidado en educación, ciencia y tecnología.  PIB:
 ### ARTICULO 15º
 - Para acceder a los recursos previstos anualmente en los Presupuestos de la Administración Pública Nacional en función de los objetivos de la presente ley, las provincias y la Ciudad Autónoma de Buenos Aires deberán dar cumplimiento a las condiciones y requisitos que establezca la reglamentación de la presente ley y los convenios a que se refiere el artículo 12.
 ### ARTICULO 16º
-- A los efectos de dotar de una mayor transparencia a la gestión pública, la estructura programática de los presupuestos anuales de las provincias y de la Ciudad Autónoma de Buenos Aires deberá reflejar en forma separada la asignación de los recursos transferidos en virtud de lo establecido por el artículo 4° y afectados en virtud de lo establecido por el artículo 5° de la presente ley, de modo de facilitar su seguimiento, monitoreo y evaluación en los términos que establezca la reglamentación de la presente ley. El Gobierno nacional, las provincias y la Ciudad Autónoma de Buenos Aires deberán presentar regularmente la información sobre la ejecución presupuestaria de los recursos asignados a la educación, informando en particular sobre el gasto por alumno, la participación del gasto en educación en el gasto público total, el grado de cumplimiento de las metas físicas y financieras comprometidas y las inversiones realizadas en el período. Esta información deberá estar disponible públicamente en sus páginas web durante el año de ejecución presupuestaria, para corroborar el cumplimiento de las metas establecidas en la presente ley. sistema de información física y financiera conforme a los clasificadores presupuestarios utilizados por la Ley
+- A los efectos de dotar de una mayor transparencia a la gestión pública, la estructura programática de los presupuestos anuales de las provincias y de la Ciudad Autónoma de Buenos Aires deberá reflejar en forma separada la asignación de los recursos transferidos en virtud de lo establecido por el artículo 4° y afectados en virtud de lo establecido por el artículo 5° de la presente ley, de modo de facilitar su seguimiento, monitoreo y evaluación en los términos que establezca la reglamentación de la presente ley.
 
-El Consejo Federal de Cultura y Educación será el organismo encargado de evaluar el funcionamiento del N° 25.917 con el objeto de garantizar la homogeneidad de la información y el estricto cumplimiento de los compromisos entre las partes.
+El Gobierno nacional, las provincias y la Ciudad Autónoma de Buenos Aires deberán presentar regularmente la información sobre la ejecución presupuestaria de los recursos asignados a la educación, informando en particular sobre el gasto por alumno, la participación del gasto en educación en el gasto público total, el grado de cumplimiento de las metas físicas y financieras comprometidas y las inversiones realizadas en el período. Esta información deberá estar disponible públicamente en sus páginas web durante el año de ejecución presupuestaria, para corroborar el cumplimiento de las metas establecidas en la presente ley.
+
+El Consejo Federal de Cultura y Educación será el organismo encargado de evaluar el funcionamiento del sistema de información física y financiera conforme a los clasificadores presupuestarios utilizados por la Ley N° 25.917 con el objeto de garantizar la homogeneidad de la información y el estricto cumplimiento de los compromisos entre las partes.
 
 [[END OF PAGE 5]]
 
@@ -103,6 +138,33 @@ ALBERTO BALESTRINI. - DANIEL O. SCIOLI. - Enrique Hidalgo. - Juan Estrada.
 
 [[START OF PAGE 7]]
 
-(this page came through the extractor with no text)
+Determinación del índice de recursos coparticipables afectados para el Año 2006, según jurisdicción.
+
+Jurisdicción | Distribución de matrícula 2003 (%) | Incidencia Ruralidad 2003 (%) | Distribución de población no escolarizada 2001 (%) | Matrícula (80%) | Incidencia Ruralidad (10%) | Población no escolarizada (10%) | Porcentaje de Afectación
+Buenos Aires | 36,8% | 2,25% | 26,6% | 29,44% | 0,07% | 2,66% | 32,17%
+Catamarca | 1,1% | 24,33% | 1,3% | 0,87% | 0,75% | 0,13% | 1,75%
+Chaco | 3,2% | 16,62% | 5,6% | 2,53% | 0,51% | 0,56% | 3,60%
+Chubut | 1,3% | 10,74% | 1,2% | 1,02% | 0,33% | 0,12% | 1,46%
+C.A.B.A. | 6,3% | 0,00% | 1,9% | 5,06% | 0,00% | 0,19% | 5,25%
+Córdoba | 8,0% | 9,23% | 8,0% | 6,41% | 0,28% | 0,80% | 7,50%
+Corrientes | 2,9% | 17,43% | 4,3% | 2,32% | 0,54% | 0,43% | 3,29%
+Entre Ríos | 3,2% | 13,41% | 3,9% | 2,53% | 0,41% | 0,39% | 3,33%
+Formosa | 1,7% | 18,93% | 2,5% | 1,36% | 0,58% | 0,25% | 2,20%
+Jujuy | 2,0% | 11,78% | 2,4% | 1,63% | 0,36% | 0,24% | 2,24%
+La Pampa | 0,8% | 14,10% | 1,0% | 0,60% | 0,43% | 0,10% | 1,13%
+La Rioja | 0,9% | 18,21% | 1,0% | 0,76% | 0,56% | 0,10% | 1,42%
+Mendoza | 4,3% | 15,07% | 5,4% | 3,44% | 0,46% | 0,54% | 4,44%
+Misiones | 3,1% | 26,98% | 5,9% | 2,49% | 0,83% | 0,59% | 3,92%
+Neuquén | 1,6% | 7,92% | 1,4% | 1,29% | 0,24% | 0,14% | 1,68%
+Río Negro | 1,8% | 11,28% | 1,6% | 1,44% | 0,35% | 0,16% | 1,94%
+Salta | 3,6% | 16,03% | 4,8% | 2,88% | 0,49% | 0,48% | 3,85%
+San Juan | 1,6% | 16,25% | 2,3% | 1,31% | 0,50% | 0,23% | 2,05%
+San Luis | 1,1% | 11,84% | 1,2% | 0,86% | 0,37% | 0,12% | 1,34%
+Santa Cruz | 0,6% | 1,54% | 0,4% | 0,52% | 0,05% | 0,04% | 0,60%
+Santa Fe | 7,8% | 9,41% | 6,7% | 6,22% | 0,29% | 0,67% | 7,18%
+Stgo. Del Estero | 2,4% | 31,52% | 4,3% | 1,93% | 0,97% | 0,43% | 3,34%
+T. Del Fuego | 0,4% | 1,59% | 0,2% | 0,29% | 0,05% | 0,02% | 0,36%
+Tucumán | 3,5% | 17,69% | 6,1% | 2,80% | 0,55% | 0,61% | 3,96%
+Total | 100% | 9,75% | 100,0% | 80,00% | 10,00% | 10,00% | 100,00%
 
 [[END OF PAGE 7]]
