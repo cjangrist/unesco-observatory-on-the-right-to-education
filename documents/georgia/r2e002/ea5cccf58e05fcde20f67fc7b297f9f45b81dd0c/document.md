@@ -1,5 +1,11 @@
 [[START OF PAGE 1]]
 
+# Law of Georgia
+
+## On Development of Quality of Education
+
+## Chapter I General Provisions
+
 ### Article 1. Aim of the Law
 
 The aim of this Law is to define legal foundation of mechanisms of assistance to development of quality of education.
@@ -18,7 +24,7 @@ Body Authorized for External Mechanisms of Assistance to Development of Quality 
 
 ### Article 3. National Center for Educational Quality Enhancement
 
-- Legal  Entity  of  Public  Law  -  The  National  Center  for  Educational  Quality  Enhancement further  referred  as  the  Center)  is  created  within  the  management  of  the  Ministry  of  Education  and Science of Georgia (further referred as the Ministry).
+- Legal  Entity  of  Public  Law  -  The  National  Center  for  Educational  Quality  Enhancement (further  referred  as  the  Center)  is  created  within  the  management  of  the  Ministry  of  Education  and Science of Georgia (further referred as the Ministry).
 
 - The Center is independent in its activities.  It performs in adherence  with the principles of publicity  and  transparency,  Constitution  of  Georgia,  International  Agreements  and  Conventions  that Georgia is a part of, this Law, other legislative acts, Provision of the Center, approved by the Ministry and other legal acts.
 
@@ -39,12 +45,6 @@ Body Authorized for External Mechanisms of Assistance to Development of Quality 
 - Shall perform other competences provided by the Legislation of Georgia.
 
 ### Article 4. Legal Status of the Center
-
-# Law of Georgia
-
-## On Development of Quality of Education
-
-## Chapter I General Provisions
 
 [[END OF PAGE 1]]
 
@@ -158,7 +158,7 @@ The Center, within its competence:
 
 ### Article 9. Self Evaluation of Status Seeker
 
-The first step of performance of Authorization is self evaluation, performed by the status seeker in  accordance  with  the  forms,  previously  provided  by  the  National  Center  for  Educational  Quality Enhancementto the status seeker.
+The first step of performance of Authorization is self evaluation, performed by the status seeker in  accordance  with  the  forms,  previously  provided  by  the  National  Center  for  Educational  Quality Enhancement to the status seeker.
 
 ### Article 10. Authorization Experts Team
 
@@ -397,7 +397,7 @@ General Principles of Definition of Cost and Time of Services Provided by the Ce
 
 - Legal Entity of Public Law - the National Center for Educational Quality Enhancement to be defined  as  a  legal  successor  of  the  Ministry  of  Education  and  Science  of  Georgia  in  the  part  of performed  and  current  activities  of  the  Office  of  Licensing,  Legalization  and  Apostil  of  the  Legal Support Department of the Ministry of Education and Science of Georgia.
 
-- Measures to be tasked connected with the reorganization of the Legal Entity of Public Law the National Center for Educational Accreditation into the Legal Entity of Public Law - the National Center of Development of Quality of Education. Till the end of these activities functions of the Legal Entity of Public Law - the National Center for Educational Quality Enhancement are fulfilled by the Legal Entity of Public Law - the National Center for Educational Accreditation and the functions of the Office of Licensing, Legalization and Apostil of the Legal Support Department of the Ministry of Education and Science of Georgia are fulfilled by the Ministry of Education and Science of Georgia.
+- Measures to be tasked connected with the reorganization of the Legal Entity of Public Law – the National Center for Educational Accreditation into the Legal Entity of Public Law - the National Center of Development of Quality of Education. Till the end of these activities functions of the Legal Entity of Public Law - the National Center for Educational Quality Enhancement are fulfilled by the Legal Entity of Public Law - the National Center for Educational Accreditation and the functions of the Office of Licensing, Legalization and Apostil of the Legal Support Department of the Ministry of Education and Science of Georgia are fulfilled by the Ministry of Education and Science of Georgia.
 
 [[END OF PAGE 8]]
 
@@ -410,6 +410,6 @@ This Law shall enter into force from September 1, 2010.
 
 The President of Georgia Michael Saakashvili
 
-Tbilisi, July 21, 2010. N 3531 რს
+Tbilisi, July 21, 2010. N 3531 – რს
 
 [[END OF PAGE 9]]
