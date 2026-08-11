@@ -4,6 +4,12 @@ Ministerio de Educación
 
 R e p ú b l i c a   d e l   P e r ú
 
+Década de la Educación Inclusiva 2003-2012
+
+Año del Centenario de Machu Picchu para el Mundo
+
+1 4   d e   S e t i e m b r e   d e   2 0 1 1
+
 # LEY Nº 29062
 
 EL PRESIDENTE DE LA REPÚBLICA POR CUANTO: La Comisión Permanente del Congreso de la República ha dado la Ley siguiente: LA COMISIÓN PERMANENTE DEL CONGRESO DE LA REPÚBLICA; Ha dado la Ley siguiente:
@@ -33,12 +39,6 @@ Están comprendidos en las disposiciones de la presente Ley los profesores que p
 El profesor es un profesional de la educación, con título de profesor o licenciado en educación, con calificaciones y competencias debidamente certificadas que, en su calidad de agente fundamental del proceso educativo, presta un servicio público esencial dirigido a concretar el derecho de los estudiantes y de la comunidad a una enseñanza de calidad, equidad y pertinencia. Requiere de desarrollo integral y de una formación continua e intercultural.
 
 #### Artículo 4º .- Marco ético y ciudadano de la profesión docente
-
-Década de la Educación Inclusiva 2003-2012
-
-Año del Centenario de Machu Picchu para el Mundo
-
-1 4   d e   S e t i e m b r e   d e   2 0 1 1
 
 [[END OF PAGE 1]]
 
@@ -85,46 +85,60 @@ a) El Escalafón Magisterial es un sistema nacional, descentralizado y público,
 #### Artículo 11º .- Requisitos para postular a la Carrera Pública Magisterial
 El ingreso a la Carrera Pública Magisterial es por concurso público. Para participar en el concurso público de acceso a una plaza vacante se requiere cumplir con los siguientes requisitos: a. Poseer título de profesor o licenciado en educación, otorgado por una institución de formación docente acreditada en el país o en el exterior. En este último caso, el título debe ser revalidado en el Perú. b. Ser miembro del Colegio de Profesores del Perú. c. Gozar de buena salud, física y mental, que permita ejercer la docencia, sin perjuicio de lo establecido en la Ley Nº 27050 modificada por la Ley Nº 28164. d. No haber sido condenado ni estar incurso en proceso penal por delito doloso. e. No encontrarse inhabilitado por motivos de destitución, despido o resolución judicial que así lo indique. Para postular a una plaza vacante de Educación Básica, en instituciones educativas ubicadas en zonas de frontera, se requiere, además, ser peruano de nacimiento. Para postular a plazas vacantes de instituciones educativas ubicadas en comunidades donde predomina la lengua originaria, el profesor debe acreditar, además, el dominio de la lengua materna de los educandos y el conocimiento de la cultura local.
 #### Artículo 12º .- Concurso público para el ingreso a la Carrera Pública Magisterial
-El Ministerio de Educación es el responsable de planificar, conducir, monitorear y evaluar el proceso de ingreso a la Carrera Pública Magisterial. Autoriza anualmente la convocatoria a concurso público para acceder a plazas vacantes. El concurso público se caracteriza por ser objetivo, transparente, imparcial y confiable. Se realiza en dos etapas: a) La primera a cargo del Ministerio de Educación para acreditar las capacidades y competencias del docente, a través de una prueba nacional. Esta comprende además la evaluación psicológica. b) La segunda se desarrolla en la Institución Educativa entre quienes hayan aprobado la primera etapa. En ésta se evalúa la capacidad didáctica del docente, así como su conocimiento de la cultura y lengua materna de los educandos. El Ministerio de Educación elabora, en coordinación con el órgano operador correspondiente del Sistema Nacional de Evaluación, Acreditación y Certificación de la Calidad Educativa - SINEACE, los indicadores e instrumentos de evaluación, teniendo en cuenta la pluriculturalidad y diversidad regional. La relación de plazas vacantes por institución educativa es elaborada por la Unidad de Gestión Educativa Local y refrendada a nivel regional y nacional, en función de las necesidades de los servicios educativos y teniendo en consideración lo dispuesto en el artículo 36º de la Ley Nº 27050 y su modificatoria, la Ley Nº 28164.
+El Ministerio de Educación es el responsable de planificar, conducir, monitorear y evaluar el proceso de ingreso a la Carrera Pública Magisterial. Autoriza anualmente la convocatoria a concurso público para acceder a plazas vacantes. El concurso público se caracteriza por ser objetivo, transparente, imparcial y confiable. Se realiza en dos etapas: a) La primera a cargo del Ministerio de Educación para acreditar las capacidades y competencias del docente, a través de una prueba nacional. Esta comprende además la evaluación psicológica. b) La segunda se desarrolla en la Institución Educativa entre quienes hayan aprobado la primera etapa. En ésta se evalúa la capacidad didáctica del docente, así como su conocimiento de la cultura y lengua materna de los educandos. El Ministerio de Educación elabora, en coordinación con el órgano operador correspondiente del Sistema Nacional de Evaluación, Acreditación y Certificación de la Calidad Educativa – SINEACE, los indicadores e instrumentos de evaluación, teniendo en cuenta la pluriculturalidad y diversidad regional. La relación de plazas vacantes por institución educativa es elaborada por la Unidad de Gestión Educativa Local y refrendada a nivel regional y nacional, en función de las necesidades de los servicios educativos y teniendo en consideración lo dispuesto en el artículo 36º de la Ley Nº 27050 y su modificatoria, la Ley Nº 28164.
 #### Artículo 13º .- Comité de Evaluación de la Institución Educativa
-La evaluación para el ingreso a la Carrera Pública Magisterial en la Institución Educativa es realizada por el Comité de Evaluación presidido por el Director e integrado, además, por el coordinador académico del área y un representante de los docentes del nivel educativo del evaluado. Participan también dos (2) representantes de los padres de familia con voz y voto. La modalidad de elección y características de participación de los representantes de los padres de familia y del profesor es establecida en el reglamento de la presente Ley. La evaluación para el ingreso a la Carrera Pública Magisterial, en las Instituciones Educativas unidocentes o multigrado, la realiza la Unidad de Gestión Educativa Local o la entidad correspondiente. La Unidad de Gestión Educativa Local o la entidad correspondiente supervisa, en su jurisdicción, el desarrollo de la evaluación y presta asesoría y apoyo técnico a las Instituciones Educativas para la aplicación de los instrumentos de evaluación.
-#### Artículo 14º .- Ingreso a la Carrera Pública Magisterial
-El profesor que obtuvo la más alta calificación en el concurso público realizado en la Institución Educativa es declarado ganador e ingresa a la Carrera Pública Magisterial. La Unidad de Gestión Educativa Local o la entidad correspondiente expide la resolución de nombramiento en el primer Nivel Magisterial.
-#### Artículo 15º .- Inserción del docente en la Carrera Pública Magisterial
-La inserción docente es la primera etapa de la formación del profesor en servicio. Tiene como propósito desarrollar la autonomía profesional y otras capacidades y competencias para que pueda cumplir plenamente las funciones de docencia, investigación y gestión educativa. La inserción docente se desarrolla mediante un programa que permite dotar de orientación y asesoría al profesor recién incorporado a la Carrera Pública Magisterial. El programa está a cargo del profesor mejor calificado de la Institución Educativa. El profesor que aprueba satisfactoriamente el periodo de inserción obtendrá un puntaje adicional aplicable a la primera evaluación ordinaria, conforme a los criterios que establezca el reglamento.
-#### Artículo 16º .- Acceso a otros cargos del Área de Gestión Pedagógica
-Los profesores que desempeñan funciones de coordinación académica, asesoría y jefatura son designados previo concurso público. El reglamento de la presente Ley definirá los requisitos y procedimientos para acceder a estos cargos. El personal jerárquico y el que realice actividades de orientación y tutoría compartirán sus horas de trabajo en el aula con los educandos, en el horario establecido para el cumplimiento de estas funciones. Las evaluaciones para el acceso, así como para el desempeño laboral de los especialistas en educación, de las diferentes instancias de gestión educativa descentralizada, se realizan en la instancia respectiva. El reglamento de la presente Ley señala el número y características de los miembros de la Comisión.
+La evaluación para el ingreso a la Carrera Pública Magisterial en la Institución Educativa es realizada por el Comité de Evaluación presidido por el Director e integrado, además, por el coordinador
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
+académico del área y un representante de los docentes del nivel educativo del evaluado. Participan también dos (2) representantes de los padres de familia con voz y voto. La modalidad de elección y características de participación de los representantes de los padres de familia y del profesor es establecida en el reglamento de la presente Ley.
+La evaluación para el ingreso a la Carrera Pública Magisterial, en las Instituciones Educativas unidocentes o multigrado, la realiza la Unidad de Gestión Educativa Local o la entidad correspondiente.
+La Unidad de Gestión Educativa Local o la entidad correspondiente supervisa, en su jurisdicción, el desarrollo de la evaluación y presta asesoría y apoyo técnico a las Instituciones Educativas para la aplicación de los instrumentos de evaluación.
+#### Artículo 14º .- Ingreso a la Carrera Pública Magisterial
+El profesor que obtuvo la más alta calificación en el concurso público realizado en la Institución Educativa es declarado ganador e ingresa a la Carrera Pública Magisterial. La Unidad de Gestión Educativa Local o la entidad correspondiente expide la resolución de nombramiento en el primer Nivel Magisterial.
+#### Artículo 15º .- Inserción del docente en la Carrera Pública Magisterial
+La inserción docente es la primera etapa de la formación del profesor en servicio. Tiene como propósito desarrollar la autonomía profesional y otras capacidades y competencias para que pueda cumplir plenamente las funciones de docencia, investigación y gestión educativa.
+La inserción docente se desarrolla mediante un programa que permite dotar de orientación y asesoría al profesor recién incorporado a la Carrera Pública Magisterial. El programa está a cargo del profesor mejor calificado de la Institución Educativa.
+El profesor que aprueba satisfactoriamente el periodo de inserción obtendrá un puntaje adicional aplicable a la primera evaluación ordinaria, conforme a los criterios que establezca el reglamento.
+#### Artículo 16º .- Acceso a otros cargos del Área de Gestión Pedagógica
+Los profesores que desempeñan funciones de coordinación académica, asesoría y jefatura son designados previo concurso público. El reglamento de la presente Ley definirá los requisitos y procedimientos para acceder a estos cargos. El personal jerárquico y el que realice actividades de orientación y tutoría compartirán sus horas de trabajo en el aula con los educandos, en el horario establecido para el cumplimiento de estas funciones.
+Las evaluaciones para el acceso, así como para el desempeño laboral de los especialistas en educación, de las diferentes instancias de gestión educativa descentralizada, se realizan en la instancia respectiva.
+El reglamento de la presente Ley señala el número y características de los miembros de la Comisión.
 ## CAPÍTULO V
 
 ### INGRESO A CARGOS DIRECTIVOS EN EL ÁREA DE GESTIÓN INSTITUCIONAL
 #### Artículo 17º .- Concurso público para cubrir cargos directivos
-El Ministerio de Educación convoca a concurso público para cubrir plazas de Director y Subdirector de las Instituciones y Programas Educativos. El concurso está a cargo de la Unidad de Gestión Educativa Local y se realiza en función de las necesidades del servicio educativo. Se caracteriza por ser objetivo, transparente, imparcial y confiable.
-#### Artículo 18º .- Funciones del Director y requisitos para postular al cargo
-El Director es la máxima autoridad y el representante legal de la institución educativa. Es el responsable de los procesos de gestión educativa, pedagógica y administrativa. Promueve las mejores condiciones materiales y de clima institucional para el adecuado desempeño profesional de los docentes y para que los educandos logren aprendizajes significativos. El Director depende jerárquicamente de la Unidad de Gestión Educativa Local. Se accede al cargo de Director mediante concurso público. Para postular a una plaza orgánica presupuestada de Director de una Institución Educativa, se requiere: a) Haber permanecido por lo menos dos (2) años en el II Nivel Magisterial. En el caso de postular a institución educativa unidocente, multigrado, intercultural bilingüe, haber permanecido por lo menos un (1) año en el II Nivel. b) Presentar un perfil de proyecto de desarrollo de la institución o programa educativo al que postula. c) Gozar de buena salud física y mental, sin perjuicio de lo establecido en la Ley Nº 27050 y su modificatoria, la Ley Nº 28164. d) No encontrarse inhabilitado por motivos de destitución, despido o resolución judicial debidamente consentida y ejecutoriada.
-#### Artículo 19º .- Funciones del Subdirector y requisitos para postular al cargo
-El Subdirector es un profesor que ejerce un cargo de responsabilidad directiva, colaborando con el Director en la gestión pedagógica y administrativa de la Institución Educativa. Para ser Subdirector se requiere una experiencia docente no menor de tres (3) años y ganar el concurso público para el cargo. La existencia de la plaza de Subdirector se sujetará a la normatividad que emita el Ministerio de Educación.
-#### Artículo 20º .- Acceso al cargo de Director o Subdirector
-En el concurso para acceder al cargo de Director o Subdirector se tienen en cuenta las evaluaciones del postulante sobre su desempeño como docente o directivo, y las competencias determinadas en el reglamento de la presente Ley. De acuerdo a la oferta de matrícula, modalidades y niveles educativos, las Instituciones Educativas pueden tener uno o más Subdirectores. De preferencia, los Directores que por primera vez asuman el cargo lo harán en instituciones educativas con menos de veinticuatro (24) secciones.
-#### Artículo 21º .- Evaluación del desempeño laboral del Director y del Subdirector
-El Director y Subdirector son evaluados cada tres (3) años en su desempeño laboral. En especial, se tendrán en cuenta los resultados de la evaluación de los aprendizajes de los estudiantes de la Institución Educativa. Como criterios complementarios de evaluación se consideran los progresos en la ejecución del proyecto educativo institucional y el trabajo en equipo de los profesores. En el caso del Director se evalúa, además, la gestión institucional y técnicopedagógica. Si el Director o Subdirector aprueban la evaluación, se procede a su ratificación por tres (3) años más, mediante una resolución de la Unidad de Gestión Educativa Local o de la entidad correspondiente. Si no aprobaran la evaluación o sin causa justificada no se presentaran a ésta, se da por concluida la designación en el cargo y son ubicados en su plaza de origen o una equivalente.
-#### Artículo 22º .- Conformación del Comité de Evaluación
-Las evaluaciones para el acceso y el desempeño laboral del Director serán realizadas por el Comité de Evaluación conformado por el Director de la Unidad de Gestión Educativa Local o su representante, quien lo preside y tiene voto dirimente; el Jefe del Área de Gestión Pedagógica; el Jefe del Área de Gestión Institucional; un representante de la Asociación de Padres de Familia de la Institución Educativa a la que postula o en la que labora el evaluado según corresponda. La modalidad de elección y las características de participación del representante de los padres de familia es establecida por el reglamento de la presente Ley. El Ministerio de Educación elaborará, en coordinación con el órgano operador del SINEACE, los indicadores e instrumentos de evaluación.
+El Ministerio de Educación convoca a concurso público para cubrir plazas de Director y Subdirector de las Instituciones y Programas Educativos. El concurso está a cargo de la Unidad de Gestión Educativa
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-(this page came through the extractor with no text)
+Local y se realiza en función de las necesidades del servicio educativo. Se caracteriza por ser objetivo, transparente, imparcial y confiable.
+#### Artículo 18º .- Funciones del Director y requisitos para postular al cargo
+El Director es la máxima autoridad y el representante legal de la institución educativa. Es el responsable de los procesos de gestión educativa, pedagógica y administrativa. Promueve las mejores condiciones materiales y de clima institucional para el adecuado desempeño profesional de los docentes y para que los educandos logren aprendizajes significativos. El Director depende jerárquicamente de la Unidad de Gestión Educativa Local.
+Se accede al cargo de Director mediante concurso público.
+Para postular a una plaza orgánica presupuestada de Director de una Institución Educativa, se requiere: a) Haber permanecido por lo menos dos (2) años en el II Nivel Magisterial. En el caso de postular a institución educativa unidocente, multigrado, intercultural bilingüe, haber permanecido por lo menos un (1) año en el II Nivel. b) Presentar un perfil de proyecto de desarrollo de la institución o programa educativo al que postula. c) Gozar de buena salud física y mental, sin perjuicio de lo establecido en la Ley Nº 27050 y su modificatoria, la Ley Nº 28164. d) No encontrarse inhabilitado por motivos de destitución, despido o resolución judicial debidamente consentida y ejecutoriada.
+#### Artículo 19º .- Funciones del Subdirector y requisitos para postular al cargo
+El Subdirector es un profesor que ejerce un cargo de responsabilidad directiva, colaborando con el Director en la gestión pedagógica y administrativa de la Institución Educativa.
+Para ser Subdirector se requiere una experiencia docente no menor de tres (3) años y ganar el concurso público para el cargo. La existencia de la plaza de Subdirector se sujetará a la normatividad que emita el Ministerio de Educación.
+#### Artículo 20º .- Acceso al cargo de Director o Subdirector
+En el concurso para acceder al cargo de Director o Subdirector se tienen en cuenta las evaluaciones del postulante sobre su desempeño como docente o directivo, y las competencias determinadas en el reglamento de la presente Ley. De acuerdo a la oferta de matrícula, modalidades y niveles educativos, las Instituciones Educativas pueden tener uno o más Subdirectores.
+De preferencia, los Directores que por primera vez asuman el cargo lo harán en instituciones educativas con menos de veinticuatro (24) secciones.
+#### Artículo 21º .- Evaluación del desempeño laboral del Director y del Subdirector
+El Director y Subdirector son evaluados cada tres (3) años en su desempeño laboral. En especial, se tendrán en cuenta los resultados de la evaluación de los aprendizajes de los estudiantes de la Institución Educativa. Como criterios complementarios de evaluación se consideran los progresos en la ejecución del proyecto educativo institucional y el trabajo en equipo de los profesores. En el caso del Director se evalúa, además, la gestión institucional y técnicopedagógica.
+Si el Director o Subdirector aprueban la evaluación, se procede a su ratificación por tres (3) años más, mediante una resolución de la Unidad de Gestión Educativa Local o de la entidad correspondiente. Si no aprobaran la evaluación o sin causa justificada no se presentaran a ésta, se da por concluida la
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
+designación en el cargo y son ubicados en su plaza de origen o una equivalente.
+#### Artículo 22º .- Conformación del Comité de Evaluación
+Las evaluaciones para el acceso y el desempeño laboral del Director serán realizadas por el Comité de Evaluación conformado por el Director de la Unidad de Gestión Educativa Local o su representante, quien lo preside y tiene voto dirimente; el Jefe del Área de Gestión Pedagógica; el Jefe del Área de Gestión Institucional; un representante de la Asociación de Padres de Familia de la Institución Educativa a la que postula o en la que labora el evaluado según corresponda. La modalidad de elección y las características de participación del representante de los padres de familia es establecida por el reglamento de la presente Ley.
+El Ministerio de Educación elaborará, en coordinación con el órgano operador del SINEACE, los indicadores e instrumentos de evaluación.
 ## CAPÍTULO VI
 
 ### ASCENSO Y PERMANENCIA EN LA CARRERA PÚBLICA MAGISTERIAL
@@ -132,7 +146,12 @@ Las evaluaciones para el acceso y el desempeño laboral del Director serán real
 #### Artículo 23º .- Definición del ascenso
 El ascenso es un mecanismo de promoción y reconocimiento de la formación y experiencia adquiridas, del desempeño e idoneidad profesional y del dominio creciente de determinadas competencias del profesor en su Nivel Magisterial, lo que lo habilita para asumir nuevas y mayores responsabilidades, a la vez que le da acceso a una mejor remuneración.
 #### Artículo 24º .- Finalidad y criterios de la evaluación para el ascenso
-La evaluación para el ascenso tiene una finalidad primordialmente formativa, orientada a mejorar, tanto la práctica educativa como el desempeño laboral de los profesores. Es un proceso permanente, integral, sistemático, objetivo, transparente y confiable; normado, monitoreado y evaluado por el Ministerio de Educación. La evaluación para el ascenso considera los siguientes criterios: Esenciales: a. Formación: Se refiere a los estudios de actualización, capacitación y perfeccionamiento del profesor, así como a los diplomados, postgrados u otros títulos profesionales de rango universitario, los que dan lugar a puntaje en las evaluaciones de ascenso. b. Idoneidad profesional: Se refiere a la acreditación de las competencias específicas requeridas para ejercer la función. c. Compromiso ético: Se refiere al comportamiento ético y moral del docente. d. Calidad de desempeño: Se refiere a lo señalado en el artículo 29º de la presente Ley. Complementarios: a. Reconocimiento de méritos: Se refiere a los cargos desempeñados, producción intelectual y distinciones o reconocimientos. b. Experiencia: Se refiere al tiempo de servicios en el sector público y/o privado. El reglamento de la presente Ley precisará el valor porcentual de cada uno de estos criterios de evaluación para el ascenso y establecerá las competencias y conocimientos necesarios para cada Nivel Magisterial. Los indicadores e instrumentos de evaluación para el ascenso serán elaborados por el Ministerio de Educación en coordinación con el órgano operador del SINEACE.
+La evaluación para el ascenso tiene una finalidad primordialmente formativa, orientada a mejorar, tanto la práctica educativa como el desempeño laboral de los profesores. Es un proceso permanente, integral, sistemático, objetivo, transparente y confiable; normado, monitoreado y evaluado por el Ministerio de Educación.
+La evaluación para el ascenso considera los siguientes criterios:
+Esenciales: a. Formación: Se refiere a los estudios de actualización, capacitación y perfeccionamiento del profesor, así como a los diplomados, postgrados u otros títulos profesionales de rango universitario, los que dan lugar a puntaje en las evaluaciones de ascenso. b. Idoneidad profesional: Se refiere a la acreditación de las competencias específicas requeridas para ejercer la función. c. Compromiso ético: Se refiere al comportamiento ético y moral del docente. d. Calidad de desempeño: Se refiere a lo señalado en el artículo 29º de la presente Ley.
+Complementarios: a. Reconocimiento de méritos: Se refiere a los cargos desempeñados, producción intelectual y distinciones o reconocimientos. b. Experiencia: Se refiere al tiempo de servicios en el sector público y/o privado.
+El reglamento de la presente Ley precisará el valor porcentual de cada uno de estos criterios de evaluación para el ascenso y establecerá las competencias y conocimientos necesarios para cada Nivel Magisterial.
+Los indicadores e instrumentos de evaluación para el ascenso serán elaborados por el Ministerio de Educación en coordinación con el órgano operador del SINEACE.
 
 [[END OF PAGE 7]]
 
@@ -147,14 +166,19 @@ Los profesores que logren los puntajes más altos en el concurso público para e
 #### Artículo 28º .- Evaluación del desempeño del profesor
 La evaluación del desempeño es permanente, integral, obligatoria y de dos (2) tipos: a) Ordinaria, se realiza cada tres (3) años. b) Extraordinaria, para quienes desaprueban la evaluación del desempeño. Se realiza al año siguiente de la desaprobación y busca verificar la superación de las deficiencias encontradas en la evaluación ordinaria.
 #### Artículo 29º .- Factores de evaluación del desempeño
-La evaluación del desempeño del profesor está a cargo del Comité de Evaluación de la Institución Educativa. Además de los criterios establecidos en el artículo 24º, se consideran los siguientes factores: i. Logros obtenidos en función a su tarea pedagógica. ii. Grado de cumplimiento de las funciones y responsabilidades del profesor en función de la planificación curricular anual y en su contribución al logro de los objetivos de desarrollo institucional. iii. Dominio del currículo, de los contenidos pedagógicos del área y/o nivel, de los aspectos metodológicos y de los procesos de evaluación. iv. Innovación pedagógica. v. Autoevaluación. Los profesores que no aprueben la evaluación en una primera y segunda oportunidad, son capacitados y asistidos para el fortalecimiento de sus capacidades pedagógicas. Si después de esta capacitación vuelven a desaprobar son retirados de la Carrera Pública Magisterial. El reglamento de la Ley establece tanto el procedimiento con el que se apoya al profesor, como el de su retiro del ejercicio docente, cuando hubiere lugar; asimismo, los procedimientos y organización de la evaluación en las escuelas unidocente, multigrado e intercultural bilingüe. Los indicadores e instrumentos de evaluación del desempeño docente serán elaborados por el Ministerio de Educación en coordinación con el órgano operador del SINEACE.
-#### Artículo 30º .- Administración de la evaluación para el ascenso y el desempeño
-El Ministerio de Educación establece la política y normas de evaluación para el ascenso y el desempeño docente. La Unidad de Gestión Educativa Local o la entidad correspondiente supervisan, en su jurisdicción, el desarrollo de las evaluaciones de desempeño del profesor y prestan asesoría y apoyo técnico a las instituciones educativas para la aplicación de los instrumentos de evaluación y seguimiento de indicadores, para lo cual podrán suscribir convenios con instituciones especializadas públicas o privadas.
+La evaluación del desempeño del profesor está a cargo del Comité de Evaluación de la Institución Educativa.
+Además de los criterios establecidos en el artículo 24º, se consideran los siguientes factores: i. Logros obtenidos en función a su tarea pedagógica. ii. Grado de cumplimiento de las funciones y responsabilidades del profesor en función de la planificación curricular anual y en su contribución al logro de los objetivos de desarrollo institucional. iii. Dominio del currículo, de los contenidos pedagógicos del área y/o nivel, de los aspectos metodológicos y de los procesos de evaluación. iv. Innovación pedagógica. v. Autoevaluación.
+Los profesores que no aprueben la evaluación en una primera y segunda oportunidad, son capacitados y asistidos para el fortalecimiento de sus capacidades pedagógicas. Si después de esta capacitación vuelven a desaprobar son retirados de la Carrera Pública Magisterial.
+El reglamento de la Ley establece tanto el procedimiento con el que se apoya al profesor, como el de su retiro del ejercicio docente, cuando hubiere lugar; asimismo, los procedimientos y organización de la evaluación en las escuelas unidocente, multigrado e intercultural bilingüe.
+Los indicadores e instrumentos de evaluación del desempeño docente serán elaborados por el
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
+Ministerio de Educación en coordinación con el órgano operador del SINEACE.
+#### Artículo 30º .- Administración de la evaluación para el ascenso y el desempeño
+El Ministerio de Educación establece la política y normas de evaluación para el ascenso y el desempeño docente. La Unidad de Gestión Educativa Local o la entidad correspondiente supervisan, en su jurisdicción, el desarrollo de las evaluaciones de desempeño del profesor y prestan asesoría y apoyo técnico a las instituciones educativas para la aplicación de los instrumentos de evaluación y seguimiento de indicadores, para lo cual podrán suscribir convenios con instituciones especializadas públicas o privadas.
 ## CAPÍTULO VII
 
 ### DERECHOS, DEBERES Y SANCIONES
@@ -179,7 +203,7 @@ c. Destitución del servicio.
 
 [[START OF PAGE 11]]
 
-Las sanciones indicadas en los literales 'b' y 'c' se aplican previo proceso administrativo disciplinario, cuya duración no será mayor a cuarenta y cinco (45) días hábiles improrrogables, durante los cuales el profesor imputado podrá hacer sus descargos y ejercer el derecho a ser escuchado. Cuando el proceso administrativo contra un profesor se origina en una denuncia administrativa sobre la presunta comisión de un delito de violación de la libertad sexual y/o sobre conductas de hostigamiento sexual en agravio de un estudiante, mientras concluya este proceso administrativo sumario, el profesor es suspendido en el ejercicio de su función docente o directiva, con goce de haber. El reglamento de la Ley indica el procedimiento.
+Las sanciones indicadas en los literales “b” y “c” se aplican previo proceso administrativo disciplinario, cuya duración no será mayor a cuarenta y cinco (45) días hábiles improrrogables, durante los cuales el profesor imputado podrá hacer sus descargos y ejercer el derecho a ser escuchado. Cuando el proceso administrativo contra un profesor se origina en una denuncia administrativa sobre la presunta comisión de un delito de violación de la libertad sexual y/o sobre conductas de hostigamiento sexual en agravio de un estudiante, mientras concluya este proceso administrativo sumario, el profesor es suspendido en el ejercicio de su función docente o directiva, con goce de haber. El reglamento de la Ley indica el procedimiento.
 #### Artículo 34º .- Causales de amonestación
 El incumplimiento de las obligaciones del profesor, debidamente comprobado, es causal de amonestación. Esta sanción es impuesta por la autoridad inmediata al profesor o al personal jerárquico o directivo de la Institución Educativa, según sea el caso. La imposición de esta sanción se efectúa con observancia de las garantías constitucionales del debido proceso.
 #### Artículo 35º .- Causales de suspensión
@@ -193,7 +217,7 @@ aplicación de estas sanciones.
 
 [[START OF PAGE 12]]
 
-Aplicada la sanción se comunica al Consejo Superior del Empleo Público - COSEP para que sea incluida en el Registro Nacional de Sanciones de Destitución y Despido.
+Aplicada la sanción se comunica al Consejo Superior del Empleo Público – COSEP para que sea incluida en el Registro Nacional de Sanciones de Destitución y Despido.
 #### Artículo 37º .- Registro de las sanciones
 Las sanciones administrativas y las sentencias judiciales aplicadas al profesor serán consignadas en el registro personal del Escalafón Magisterial.
 
@@ -217,17 +241,37 @@ El Ministerio de Educación y las Direcciones Regionales de Educación destinan 
 ### REMUNERACIONES, INCENTIVOS Y ESTÍMULOS
 
 #### Artículo 43º .- Política de remuneraciones
-Las remuneraciones, gratificaciones, asignaciones e incentivos en la Carrera Pública Magisterial son determinados por el Gobierno Nacional. Los gobiernosregionales y locales pueden complementar, con sus presupuestos, el financiamiento de otras asignaciones o bonificaciones que consideren necesarias, teniendo en consideración lo establecido en la presente Ley. El profesional de la educación, a servicio de otras dependencias públicas, puede desempeñar un cargo más por función docente, siempre que no exista incompatibilidad horaria. Los citados profesores tienen derecho a percibir el total de ingresos que, por todo concepto, se percibe en cada uno de los cargos que ejercen.
+Las remuneraciones, gratificaciones, asignaciones e incentivos en la Carrera Pública Magisterial son determinados por el Gobierno Nacional. Los gobiernos regionales y locales pueden complementar, con
+
+[[END OF PAGE 12]]
+
+[[START OF PAGE 13]]
+
+sus presupuestos, el financiamiento de otras asignaciones o bonificaciones que consideren necesarias, teniendo en consideración lo establecido en la presente Ley.
+El profesional de la educación, al servicio de otras dependencias públicas, puede desempeñar un cargo más por función docente, siempre que no exista incompatibilidad horaria. Los citados profesores tienen derecho a percibir el total de ingresos que, por todo concepto, se percibe en cada uno de los cargos que ejercen.
 #### Artículo 44º .- Remuneraciones y asignaciones
-La remuneración mensual percibida por un profesor se establece de acuerdo al Nivel Magisterial al que pertenece. Adicionalmente puede recibir asignaciones temporales, cuyo monto puede variar de un período presupuestal a otro. Las asignaciones son temporales y permanentes, y se otorgan por los siguientes conceptos: a. Ejercicio del cargo de Director, Subdirector o personal jerárquico en las Instituciones Educativas. b. Trabajo en Instituciones unidocentes o multigrado del ámbito rural o zona de frontera. c. Asesoría. d. Excelencia profesional. e. Desempeño.
+La remuneración mensual percibida por un profesor se establece de acuerdo al Nivel Magisterial al que pertenece. Adicionalmente puede recibir asignaciones temporales, cuyo monto puede variar de un período presupuestal a otro.
+Las asignaciones son temporales y permanentes, y se otorgan por los siguientes conceptos: a. Ejercicio del cargo de Director, Subdirector o personal jerárquico en las Instituciones Educativas. b. Trabajo en Instituciones unidocentes o multigrado del ámbito rural o zona de frontera. c. Asesoría. d. Excelencia profesional. e. Desempeño.
 #### Artículo 45º .- Remuneración por Niveles Magisteriales
 La remuneración del profesor es fijada, a escala única nacional, para cada Nivel Magisterial conforme a los índices siguientes: a. La remuneración del profesor del II Nivel Magisterial es quince por ciento (15%) mayor que la remuneración fijada para el profesor del I Nivel Magisterial. b. La remuneración del profesor del III Nivel Magisterial es treinta por ciento (30%) mayor que la remuneración fijada para el profesor del I Nivel Magisterial. c. La remuneración del profesor del IV Nivel Magisterial es cincuenta por ciento (50%) mayor que la remuneración fijada para el profesor del I Nivel Magisterial. d. La remuneración del profesor del V Nivel Magisterial es cien por ciento (100%) mayor que la remuneración fijada para el profesor del I Nivel Magisterial.
 #### Artículo 46º .- Asignación por el ejercicio de cargo directivo
-El Director de Institución Educativa, en tanto desempeñe dicho cargo en Institución Educativa polidocente, percibe la siguiente asignación: · Quince por ciento (15%) de su remuneración íntegra mensual si dirige una Institución Educativa con un (1) turno de funcionamiento. · Veinte por ciento (20%) de su remuneración íntegra mensual si dirige una Institución Educativa con dos (2) turnos de funcionamiento. · Cuarenta por ciento (40%) de su remuneración íntegra mensual si dirige una Institución Educativa con tres (3) turnos de funcionamiento. El Subdirector, en tanto desempeñe dicho cargo, percibe una asignación equivalente al diez por ciento (10%) de su remuneración íntegra mensual; los otros cargos jerárquicos una asignación equivalente al cinco por ciento (5%) de su remuneración íntegra.
+El Director de Institución Educativa, en tanto desempeñe dicho cargo en Institución Educativa polidocente, percibe la siguiente asignación:
+• Quince por ciento (15%) de su remuneración íntegra mensual si dirige una Institución Educativa con un (1) turno de funcionamiento.
+• Veinte por ciento (20%) de su remuneración íntegra mensual si dirige una Institución Educativa con dos (2) turnos de funcionamiento.
+• Cuarenta por ciento (40%) de su remuneración íntegra mensual si dirige una Institución Educativa con tres (3) turnos de funcionamiento.
+El Subdirector, en tanto desempeñe dicho cargo, percibe una asignación equivalente al diez por ciento (10%) de su remuneración íntegra mensual; los otros cargos jerárquicos una asignación equivalente al cinco por ciento (5%) de su remuneración íntegra.
 #### Artículo 47º .- Asignación por trabajo en Instituciones Unidocentes o Multigrado en ámbito rural
-El profesor tiene derecho a percibir una asignación mensual por trabajar en Instituciones Educativas unidocentes o multigrado. Percibe treinta por ciento (30%) adicional a la remuneración íntegra mensual si trabaja en una institución unidocente; y, diez por ciento (10%) adicional si lo hace en una Institución Educativa multigrado o polidocente ubicada en áreas calificadas como rurales o de frontera. Las asignaciones por este concepto se dejan de percibir cuando el profesor deja de prestar servicios efectivos en las Instituciones Educativas indicadas en el presente artículo.
+El profesor tiene derecho a percibir una asignación mensual por trabajar en Instituciones Educativas
+
+[[END OF PAGE 13]]
+
+[[START OF PAGE 14]]
+
+unidocentes o multigrado. Percibe treinta por ciento (30%) adicional a la remuneración íntegra mensual si trabaja en una institución unidocente; y, diez por ciento (10%) adicional si lo hace en una Institución Educativa multigrado o polidocente ubicada en áreas calificadas como rurales o de frontera.
+Las asignaciones por este concepto se dejan de percibir cuando el profesor deja de prestar servicios efectivos en las Instituciones Educativas indicadas en el presente artículo.
 #### Artículo 48º .- Asignación por excelencia profesional
-El Ministerio de Educación establece un programa especial de reconocimiento a la excelencia profesional para los profesores que más destaquen en el área de su especialidad, tengan maestría o doctorado, acrediten los conocimientos, habilidades y competencias que el programa determine y ejecuten actividades de capacitación y otros apoyos dirigidos al desarrollo profesional del magisterio y de las Instituciones Educativas. Los profesores que voluntariamente deseen participar en este programa, y califiquen para pertenecer a él, tienen derecho a recibir una asignación anual equivalente a una remuneración mensual de su Nivel Magisterial por el período que establezca el reglamento de la presente Ley.
+El Ministerio de Educación establece un programa especial de reconocimiento a la excelencia profesional para los profesores que más destaquen en el área de su especialidad, tengan maestría o doctorado, acrediten los conocimientos, habilidades y competencias que el programa determine y ejecuten actividades de capacitación y otros apoyos dirigidos al desarrollo profesional del magisterio y de las Instituciones Educativas.
+Los profesores que voluntariamente deseen participar en este programa, y califiquen para pertenecer a él, tienen derecho a recibir una asignación anual equivalente a una remuneración mensual de su Nivel Magisterial por el período que establezca el reglamento de la presente Ley.
 #### Artículo 49º .- De la asignación por asesoría
 Los profesores que realicen tareas de asesoría a uno o más profesores en período de inserción recibirán, durante nueve (9) meses lectivos, una asignación equivalente al diez por ciento (10%) de su remuneración mensual.
 #### Artículo 50º .- Asignación por desempeño destacado
@@ -239,29 +283,14 @@ El profesor tiene derecho a percibir una asignación mensual por preparación de
 #### Artículo 53º .- Subsidio por luto y sepelio
 El profesor tiene derecho a subsidio por luto y sepelio al fallecer su cónyuge. Este es equivalente a una remuneración íntegra o a una pensión. También tiene derecho a un subsidio equivalente a una remuneración íntegra o a una pensión por fallecimiento del padre o la madre. Al fallecer el profesor, activo o pensionista, el cónyuge, hijos, padres o hermanos, en esa prelación y en forma excluyente, tienen derecho al subsidio de dos (2) remuneraciones íntegras o pensiones.
 #### Artículo 54º .- Compensación por Tiempo de Servicios y remuneración personal
-El profesor recibe remuneración compensatoria por tiempo de servicios, la que se otorga al momento de su cese a razón de dos (2) remuneraciones totales permanentes por año o fracción mayor a seis (6)
-
-[[END OF PAGE 12]]
-
-[[START OF PAGE 13]]
-
-(this page came through the extractor with no text)
-
-[[END OF PAGE 13]]
-
-[[START OF PAGE 14]]
-
-(this page came through the extractor with no text)
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
-meses de servicios oficiales. Percibe, además, una remuneración personal del dos por ciento (2%) de su remuneración por cada año de servicios cumplidos.
+El profesor recibe remuneración compensatoria por tiempo de servicios, la que se otorga al momento de su cese a razón de dos (2) remuneraciones totales permanentes por año o fracción mayor a seis (6) meses de servicios oficiales. Percibe, además, una remuneración personal del dos por ciento (2%) de su remuneración por cada año de servicios cumplidos.
 #### Artículo 55º .- Premios y estímulos
-El Ministerio de Educación y los gobiernos regionales y locales, según corresponda, mediante resolución de la autoridad competente, reconocen el sobresaliente ejercicio de la función docente o directiva a través de: a. Mención honorífica con el otorgamiento de las Palmas Magisteriales y otros reconocimientos similares. b. Agradecimientos, felicitaciones y condecoraciones mediante resolución directoral, ministerial o suprema. c. Viajes de estudio, becas y pasantías al interior del país o al exterior, previo concurso.
-
-d. Otras acciones que determine la autoridad correspondiente.
+El Ministerio de Educación y los gobiernos regionales y locales, según corresponda, mediante resolución de la autoridad competente, reconocen el sobresaliente ejercicio de la función docente o directiva a través de: a. Mención honorífica con el otorgamiento de las Palmas Magisteriales y otros reconocimientos similares. b. Agradecimientos, felicitaciones y condecoraciones mediante resolución directoral, ministerial o suprema. c. Viajes de estudio, becas y pasantías al interior del país o al exterior, previo concurso. d. Otras acciones que determine la autoridad correspondiente.
 
 ## CAPÍTULO X
 
@@ -272,21 +301,42 @@ El profesor se encuentra en servicio activo en la Carrera Pública Magisterial d
 #### Artículo 57º .- Reasignaciones
 La reasignación es la acción de personal mediante la cual el profesor se desplaza de un cargo a otro igual o similar, en cualquiera de las áreas magisteriales, sin modificar el Nivel Magisterial alcanzado. Se efectúa previa publicación de las plazas vacantes.
 #### Artículo 58º .- Causales de reasignación
-Las reasignaciones son otorgadas mediante resolución de la instancia educativa descentralizada de destino y proceden: a. Por razones de salud que impidan al docente prestar servicios en forma permanente en la Institución Educativa desde la cual solicita la reasignación. Las razones de salud, indicadas en el certificado médico que sustente la solicitud de reasignación, son nueva y debidamente comprobadas por la Unidad de Gestión Educativa Local de destino a través de instituciones médicas. b. Por interés personal o unidad familiar. En este caso se requiere haber trabajado por lo menos dos (2) años en la Institución Educativa desde la cual se solicita la reasignación. c. Por necesidad de servicio cuando lo exija el comportamiento de la matrícula de los estudiantes, en cumplimiento del artículo 90º de la Ley General de Educación, Ley Nº 28044. Asimismo, para efectos de restaurar el clima laboral y garantizar el servicio educativo en los casos de ruptura de relaciones humanas. d. Por evacuación por emergencia. En las reasignaciones se da preferencia, en igualdad de condiciones académicas y administrativas, al profesor que más tiempo haya permanecido en Instituciones Educativas ubicadas en áreas calificadas como rurales o de frontera. En el caso de las Instituciones Educativas unidocentes y multigrado, el reglamento de la presente Ley establece los procedimientos para la reasignación.
-#### Artículo 59º .- Permuta
-La permuta es la acción de personal que se realiza cuando dos docentes del mismo Nivel Educativo y Magisterial acuerdan intercambiar su permanencia en las Instituciones Educativas donde laboran. La solicitud de permuta procede luego de permanecer, por lo menos, dos (2) años trabajando en la Institución Educativa de origen.
-#### Artículo 60º .- Encargo
-El encargo es la acción de personal que consiste en ocupar el puesto del titular mientras dure la ausencia de este, para desempeñar funciones de responsabilidad directiva. El encargo es de carácter temporal y excepcional y no puede exceder de un (1) año. El reglamento de la presente Ley establecerá los requisitos correspondientes.
-#### Artículo 61º .- Licencias
-La licencia es el derecho y la autorización que tiene el profesor para no asistir a la Institución Educativa por uno (1) o más días. Se formaliza mediante resolución de la autoridad competente. Los profesores tienen derecho a licencias: a. Con goce de remuneraciones · Por incapacidad temporal. · Por maternidad. · Por siniestros. · Por fallecimiento de padres, cónyuge o hijos. · Por becas para perfeccionamiento o especialización en Educación y especialidades afines, autorizadas por el Ministerio de Educación, las Direcciones Regionales de Educación y las Unidades de Gestión Educativa Local. · Para realizar estudios o investigaciones autorizados por el Ministerio de Educación o Unidades de Gestión Educativa Local. · Por capacitación organizada y/o autorizada por el Ministerio de Educación, las Direcciones Regionales de Educación, las Unidades de Gestión Educativa Local o las entidades correspondientes. · Por asumir representación oficial en eventos nacionales y/o internacionales de carácter científico, educativo, cultural y deportivo. · Por citación expresa, judicial, militar o policial. · Por desempeño de funciones públicas y/o cargos de confianza. · Por representación sindical. · Por enfermedad considerada profesional cuando se produce en acción directa de trabajo o con ocasión de este. b. Sin goce de remuneraciones · Por motivos particulares distintos a los detallados en el acápite a. · Por capacitación no oficializada. · Por enfermedad grave del padre, cónyuge e hijos. · Por desempeño de funciones públicas rentadas.
-#### Artículo 62º .- Inhabilitaciones
-El profesor queda inhabilitado por resolución judicial firme que conlleve la inhabilitación para ejercer la función pública.
+Las reasignaciones son otorgadas mediante resolución de la instancia educativa descentralizada de destino y proceden: a. Por razones de salud que impidan al docente prestar servicios en forma permanente en la Institución Educativa desde la cual solicita la reasignación. Las razones de salud, indicadas en el certificado médico que sustente la solicitud de reasignación, son nueva y debidamente comprobadas por la Unidad de Gestión Educativa Local de destino a través de instituciones médicas. b. Por interés personal o unidad familiar. En este caso se requiere haber trabajado por lo menos dos (2) años en la Institución Educativa desde la cual se solicita la reasignación. c. Por necesidad de servicio cuando lo exija el comportamiento de la matrícula de los estudiantes, en cumplimiento del artículo 90º de la Ley General de Educación, Ley Nº 28044. Asimismo, para efectos de restaurar el clima laboral y garantizar el servicio educativo en los casos de ruptura de relaciones humanas. d. Por evacuación por emergencia.
+En las reasignaciones se da preferencia, en igualdad de condiciones académicas y administrativas, al profesor que más tiempo haya permanecido en Instituciones Educativas ubicadas en áreas calificadas como rurales o de frontera.
+En el caso de las Instituciones Educativas unidocentes y multigrado, el reglamento de la presente Ley
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
 
-(this page came through the extractor with no text)
+establece los procedimientos para la reasignación.
+#### Artículo 59º .- Permuta
+La permuta es la acción de personal que se realiza cuando dos docentes del mismo Nivel Educativo y Magisterial acuerdan intercambiar su permanencia en las Instituciones Educativas donde laboran. La solicitud de permuta procede luego de permanecer, por lo menos, dos (2) años trabajando en la Institución Educativa de origen.
+#### Artículo 60º .- Encargo
+El encargo es la acción de personal que consiste en ocupar el puesto del titular mientras dure la ausencia de este, para desempeñar funciones de responsabilidad directiva. El encargo es de carácter temporal y excepcional y no puede exceder de un (1) año. El reglamento de la presente Ley establecerá los requisitos correspondientes.
+#### Artículo 61º .- Licencias
+La licencia es el derecho y la autorización que tiene el profesor para no asistir a la Institución Educativa por uno (1) o más días. Se formaliza mediante resolución de la autoridad competente.
+Los profesores tienen derecho a licencias:
+a. Con goce de remuneraciones
+• Por incapacidad temporal.
+• Por maternidad.
+• Por siniestros.
+• Por fallecimiento de padres, cónyuge o hijos.
+• Por becas para perfeccionamiento o especialización en Educación y especialidades afines, autorizadas por el Ministerio de Educación, las Direcciones Regionales de Educación y las Unidades de Gestión Educativa Local.
+• Para realizar estudios o investigaciones autorizados por el Ministerio de Educación o Unidades de Gestión Educativa Local.
+• Por capacitación organizada y/o autorizada por el Ministerio de Educación, las Direcciones Regionales de Educación, las Unidades de Gestión Educativa Local o las entidades correspondientes.
+• Por asumir representación oficial en eventos nacionales y/o internacionales de carácter científico, educativo, cultural y deportivo.
+• Por citación expresa, judicial, militar o policial.
+• Por desempeño de funciones públicas y/o cargos de confianza.
+• Por representación sindical.
+• Por enfermedad considerada profesional cuando se produce en acción directa de trabajo o con ocasión de este.
+b. Sin goce de remuneraciones
+• Por motivos particulares distintos a los detallados en el acápite a.
+• Por capacitación no oficializada.
+• Por enfermedad grave del padre, cónyuge e hijos.
+• Por desempeño de funciones públicas rentadas.
+#### Artículo 62º .- Inhabilitaciones
+El profesor queda inhabilitado por resolución judicial firme que conlleve la inhabilitación para ejercer la función pública.
 
 [[END OF PAGE 16]]
 
@@ -335,7 +385,7 @@ Los profesores que están bajo el régimen de la Carrera Pública Magisterial y 
 ### OCTAVA .-
 Los profesores de las instituciones públicas que acrediten el tiempo de servicios y los requisitos establecidos podrán postular al Nivel que les corresponda de acuerdo a las plazas disponibles que determine el Ministerio de Educación. Para efectos del primer párrafo, el reglamento establecerá un puntaje como bonificación por los méritos demostrados durante los servicios educativos brindados en una institución privada.
 ### NOVENA .-
-El Ministerio de Educación reglamentará la presente Ley dentro de los ciento ochenta (180) días calendario, siguientes a su publicación en el Diario Oficial 'El Peruano'. Asimismo, establecerá el cronograma de aplicación.
+El Ministerio de Educación reglamentará la presente Ley dentro de los ciento ochenta (180) días calendario, siguientes a su publicación en el Diario Oficial “El Peruano”. Asimismo, establecerá el cronograma de aplicación.
 ### DÉCIMA .-
 Deróganse los artículos 1º y 2º de la Ley Nº 27911 sólo en lo que se opongan a la presente
 
