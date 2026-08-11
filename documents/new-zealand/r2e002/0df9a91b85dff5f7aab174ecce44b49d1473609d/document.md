@@ -1,12 +1,16 @@
 [[START OF PAGE 1]]
 
-# New Zealand Disability Strategy 2016-2026
+# New Zealand Disability Strategy 2016–2026
+
+Office for Disability Issues
+Te Tari Mō Ngā Take Hauātanga
+Administered by the Ministry of Social Development
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-NEW ZEALAND DISABILITY STRATEGY 2016-2026
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 Published November 2016 Ministry of Social Development PO Box 1556 Wellington 6140 New Zealand
 
@@ -28,9 +32,29 @@ Page 2
 
 [[START OF PAGE 3]]
 
-NEW ZEALAND DISABILITY STRATEGY fi   -fi fi
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 ## Contents
+
+Foreword – Minister for Disability Issues 5
+Executive Summary 6
+Our journey – an introduction 9
+Our vision – where to from here 11
+Who we are – our community 12
+Principles and approaches 16
+Our outcomes – priorities for change 22
+Outcome 1: education 24
+Outcome 2: employment and economic security 26
+Outcome 3: health and wellbeing 28
+Outcome 4: rights protection and justice 30
+Outcome 5: accessibility 32
+Outcome 6: attitudes 34
+Outcome 7: choice and control 36
+Outcome 8: leadership 38
+Making it work 40
+Getting it going – who is involved 48
+Glossary 49
+Appendix 1 – The Reference Group 50
 
 Page 3
 
@@ -38,9 +62,9 @@ Page 3
 
 [[START OF PAGE 4]]
 
-NEW ZEALAND DISABILITY STRATEGY fi   -fi fi
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
-## Foreword - Minister for Disability Issues
+## Foreword – Minister for Disability Issues
 
 We have come a long way since the first New Zealand Disability Strategy was agreed in 2001. The aim of the strategy was to eliminate barriers to enable disabled people to reach their potential and participate fully in the community.
 
@@ -56,7 +80,7 @@ Since ratifying the Convention in 2008, we have established a unique mechanism f
 
 We have reaffirmed our lead role internationally on the rights of disabled people.
 
-The development of the New Zealand Disability Strategy 2016-2026 has given us an opportunity to reflect not just on our progress, but also what we are still learning as a country about disability and how we can keep improving the lives of disabled people.
+The development of the New Zealand Disability Strategy 2016–2026 has given us an opportunity to reflect not just on our progress, but also what we are still learning as a country about disability and how we can keep improving the lives of disabled people.
 
 We must continue to acknowledge and respect the diversity within the disability community and recognise the value it adds to the community.
 
@@ -76,13 +100,13 @@ Page 4
 
 [[START OF PAGE 5]]
 
-NEW ZEALAND DISABILITY STRATEGY 2016-2026
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 Our government is committed to continuing to improve the lives of disabled people and the New Zealand Disability Strategy will guide the government to achieve this over the next 10 years.
 
 The direction and priorities outlined in the Strategy are based on what disabled people have said is most important to them.
 
-During the two-stage consultation process, more than 1130 people attended the workshops we held throughout the country. We also received around 770 submissions from individuals and organisations via our ' Join the Conversation' website.
+During the two-stage consultation process, more than 1130 people attended the workshops we held throughout the country. We also received around 770 submissions from individuals and organisations via our ‘Join the Conversation’ website.
 
 It is this strong foundation that gives us confidence in this Strategy guiding the work of government agencies for the next 10 years. After all, disabled people are experts in their own lives.
 
@@ -106,7 +130,7 @@ Page 5
 
 [[START OF PAGE 6]]
 
-NEW ZEALAND DISABILITY STRATEGY 2016-2026
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 ## Executive Summary
 
@@ -114,13 +138,13 @@ The New Zealand Disability Strategy (the Strategy) will guide the work of govern
 
 ### The vision of this Strategy is:
 
-- New Zealand is a non-disabling society - a place where disabled people have an equal opportunity to achieve their goals and aspirations, and all of New Zealand works together to make this happen.
+- New Zealand is a non-disabling society – a place where disabled people have an equal opportunity to achieve their goals and aspirations, and all of New Zealand works together to make this happen.
 
 ### Three sets of principles and two approaches will help implement the Strategy
 
 The principles and approaches will help make sure the disabled community is visible, acknowledged and respected on an equal basis with others, and that disabled people can live a life with dignity and feel valued.
 
-The three principles are: Te Tiriti o Waitangi, the Convention on the Rights of Persons with Disabilities, and ensuring disabled people are involved in decision-making that impacts them. The two approaches are: Investing in our whole lives - a long-term approach, and Specific and mainstream services - a twin-track approach.
+The three principles are: Te Tiriti o Waitangi, the Convention on the Rights of Persons with Disabilities, and ensuring disabled people are involved in decision-making that impacts them. The two approaches are: Investing in our whole lives – a long-term approach, and Specific and mainstream services – a twin-track approach.
 
 Page 6
 
@@ -128,41 +152,41 @@ Page 6
 
 [[START OF PAGE 7]]
 
-NEW ZEALAND DISABILITY STRATEGY 2016-2026
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 ### The Strategy identifies eight outcome areas
 
 The outcome areas that will contribute to achieving the vision of the Strategy are:
 
-#### Outcome 1 - education
+#### Outcome 1 – education
 
 We get an excellent education and achieve our potential throughout our lives
 
-#### Outcome 2 - employment and economic security
+#### Outcome 2 – employment and economic security
 
 We have security in our economic situation and can achieve our full potential
 
-#### Outcome 3 - health and wellbeing
+#### Outcome 3 – health and wellbeing
 
 We have the highest attainable standards of health and wellbeing
 
-#### Outcome 4 - rights protection and justice
+#### Outcome 4 – rights protection and justice
 
 Our rights are protected, we feel safe, understood and are treated fairly and equitably by the justice system
 
-#### Outcome 5 - accessibility
+#### Outcome 5 – accessibility
 
 We access all places, services and information with ease and dignity
 
-#### Outcome 6 - attitudes
+#### Outcome 6 – attitudes
 
 We are treated with dignity and respect
 
-#### Outcome 7 - choice and control
+#### Outcome 7 – choice and control
 
 We have choice and control over our lives
 
-#### Outcome 8 - leadership
+#### Outcome 8 – leadership
 
 We have great opportunities to demonstrate our leadership.
 
@@ -176,7 +200,7 @@ Page 7
 
 [[START OF PAGE 8]]
 
-NEW ZEALAND DISABILITY STRATEGY fi   -fi fi
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 Figure 1 | Disability Strategy Framework
 
@@ -188,7 +212,7 @@ Principles and Approaches
 
 Vision
 
-New Zealand is a non-disabling society - a place where disabled people have an equal opportunity to achieve their goals and aspirations, and all of New Zealand works together to make this happen.
+New Zealand is a non-disabling society – a place where disabled people have an equal opportunity to achieve their goals and aspirations, and all of New Zealand works together to make this happen.
 
 Outcomes
 
@@ -234,15 +258,15 @@ Page 8
 
 [[START OF PAGE 9]]
 
-NEW ZEALAND DISABILITY STRATEGY fi   -fi fi
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
-## Our journey - an introduction
+## Our journey – an introduction
 
 He aha te mea nui o te ao? He tangata! He tangata! He tangata!
 
 What is the most important thing in the world? It is people! It is people! It is people!
 
-### The New Zealand Disability Strategy - A map to guide our way
+### The New Zealand Disability Strategy – A map to guide our way
 
 The New Zealand Disability Strategy (the Strategy) will guide the work of government agencies on disability issues from 2016 to 2026.
 
@@ -268,7 +292,7 @@ Page 9
 
 [[START OF PAGE 10]]
 
-NEW ZEALAND DISABILITY STRATEGY 2016-2026
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 ### Written from the perspective of disabled people
 
@@ -286,11 +310,11 @@ Page 10
 
 [[START OF PAGE 11]]
 
-NEW ZEALAND DISABILITY STRATEGY fi   -fi fi
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
-## Our vision where to from here
+## Our vision – where to from here
 
-New Zealand is a non-disabling society a place where disabled people have an equal opportunity to achieve their goals and aspirations, and all of New Zealand works together to make this happen.
+New Zealand is a non-disabling society – a place where disabled people have an equal opportunity to achieve their goals and aspirations, and all of New Zealand works together to make this happen.
 
 The Strategy's Vision
 
@@ -304,9 +328,9 @@ Page 11
 
 [[START OF PAGE 12]]
 
-NEW ZEALAND DISABILITY STRATEGY fi   -fi fi
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
-## Who we are our community
+## Who we are – our community
 
 We are children, young people and adults, we are parents and grandparents. We are also friends, family and whānau. What we want is no different to anyone else in New Zealand; we want to belong, contribute to our families and whānau and participate in our communities.
 
@@ -328,7 +352,7 @@ Page 12
 
 [[START OF PAGE 13]]
 
-NEW ZEALAND DISABILITY STRATEGY 2016-2026
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 ### The language about disability is really important
 
@@ -356,7 +380,7 @@ Page 13
 
 [[START OF PAGE 14]]
 
-NEW ZEALAND DISABILITY STRATEGY 2016-2026
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 The points below describe some of the rich diversity within our community:
 
@@ -388,7 +412,7 @@ Page 14
 
 [[START OF PAGE 15]]
 
-NEW ZEALAND DISABILITY STRATEGY 2016-2026
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 - Disability and sexuality is also important for our community. Some of our members do not identify as part of the gender binary (male or female) or have a predominant sexual orientation. There can also be an incorrect perception that disabled people do not have sexual needs or desires.
 
@@ -410,7 +434,7 @@ Page 15
 
 [[START OF PAGE 16]]
 
-NEW ZEALAND DISABILITY STRATEGY fi   -fi fi
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 ## Principles and approaches
 
@@ -420,15 +444,15 @@ Principles
 
 Te Tiriti o Waitangi
 
-A whole-of- life and long-term approach to social investment
-
 Convention on the Rights of Persons with Disabilities
-
-Specific and mainstream supports and services - a twin-track aproach
 
 Ensuring disabled people are involved in decision-making that impacts them
 
-Approaches The principles and approaches that will be used to implement the Strategy are outlined in this section; they are the 'how' to complement the outcomes (which are the 'what').
+A whole-of-life and long-term approach to social investment
+
+Specific and mainstream supports and services — a twin-track approach
+
+Approaches
 
 Page 16
 
@@ -436,7 +460,9 @@ Page 16
 
 [[START OF PAGE 17]]
 
-NEW ZEALAND DISABILITY STRATEGY 2016-2026
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
+
+The principles and approaches that will be used to implement the Strategy are outlined in this section; they are the ‘how’ to complement the outcomes (which are the ‘what’).
 
 The principles and approaches will help make sure all of our community is visible, acknowledged and respected on an equal basis with others, and that we can live a life with dignity and feel valued.
 
@@ -450,9 +476,9 @@ This section has three sets of principles:
 
 It also has two approaches:
 
-- Investing in our whole lives - a long-term approach
+- Investing in our whole lives – a long-term approach
 
-- Specific and mainstream services - a twin-track approach.
+- Specific and mainstream services – a twin-track approach.
 
 Figure 2 on the previous page illustrates the connection between the principles and approaches.
 
@@ -462,11 +488,11 @@ Page 17
 
 [[START OF PAGE 18]]
 
-NEW ZEALAND DISABILITY STRATEGY 2016-2026
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 ### Principles
 
-The principles of both Te Tiriti o Waitangi and the Convention will be reflected in the way this Strategy is implemented; they are for everyone and apply to Māori and non-Māori, disabled people and nondisabled people. The principles are a framework for building a positive relationship between disabled people and the Government.
+The principles of both Te Tiriti o Waitangi and the Convention will be reflected in the way this Strategy is implemented; they are for everyone and apply to Māori and non-Māori, disabled people and non-disabled people. The principles are a framework for building a positive relationship between disabled people and the Government.
 
 #### 1.	 Principles of Te Tiriti o Waitangi
 
@@ -486,7 +512,7 @@ Page 18
 
 [[START OF PAGE 19]]
 
-NEW ZEALAND DISABILITY STRATEGY 2016-2026
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 #### 2.	 Principles of the Convention on the Rights of Persons with Disabilities
 
@@ -520,7 +546,7 @@ Page 19
 
 [[START OF PAGE 20]]
 
-NEW ZEALAND DISABILITY STRATEGY 2016-2026
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 ### Approaches
 
@@ -548,9 +574,9 @@ Page 20
 
 [[START OF PAGE 21]]
 
-NEW ZEALAND DISABILITY STRATEGY 2016-2026
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
-#### 2.	 Specific and mainstream supports and services - a twin-track approach
+#### 2.	 Specific and mainstream supports and services – a twin-track approach
 
 A twin-track approach is about making sure mainstream services and supports are inclusive of, and accessible to, us and that services and supports that are specific to us as disabled people are also available. This approach is not about having to choose between the specific or mainstream option; rather it is about having the right access to the right high quality support or service, at the right time and in the right place.
 
@@ -582,9 +608,9 @@ Page 21
 
 [[START OF PAGE 22]]
 
-NEW ZEALAND DISABILITY STRATEGY fi   -fi fi
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
-## Our outcomes priorities for change
+## Our outcomes – priorities for change
 
 Figure 3 | Interconnections of outcomes
 
@@ -628,15 +654,15 @@ Page 22
 
 [[START OF PAGE 23]]
 
-NEW ZEALAND DISABILITY STRATEGY 2016-2026
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 The eight outcomes that will contribute towards achieving the vision of the Strategy are outlined in this section.
 
 Each outcome has two parts to it:
 
-- A description of what our future looks like - this is an aspirational description of what things should look like for disabled people in the future. This will help make sure that everyone has the same understanding about what the future should look like and that all actions are consistent with this.
+- A description of what our future looks like – this is an aspirational description of what things should look like for disabled people in the future. This will help make sure that everyone has the same understanding about what the future should look like and that all actions are consistent with this.
 
-- What this means - this describes at a high level what needs to happen to achieve the aspirational description. It also gives direction to what needs to happen in implementation.
+- What this means – this describes at a high level what needs to happen to achieve the aspirational description. It also gives direction to what needs to happen in implementation.
 
 - For each outcome, the first bullet point states that disabled people are consulted on and actively involved in the development and implementation of legislation and policies concerning the outcome area.
 
@@ -652,7 +678,7 @@ Page 23
 
 [[START OF PAGE 24]]
 
-NEW ZEALAND DISABILITY STRATEGY 2016-2026
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 ### Outcome 1: education
 
@@ -664,11 +690,11 @@ Our learning pathway supports us to develop friendships and social skills, as we
 
 All local schools and education services (including early childhood, primary secondary, tertiary, kohanga reo and kura kaupapa Māori) are welcoming and provide a great inclusive education for us. We have trained teachers and educators who support and believe in our progress and achievement, and value our contribution to the learning environment.
 
-Education is provided in a way that supports our personal, academic and social development, both in and out of the formal schooling system. This includes making sure that those of us who use different languages (in particular New Zealand Sign Language), and other modes or means of communication, have ready access to them to achieve and progress. Information will be made available at the right time to those who support us, both when we are young or for those of us who need on-going support. This will help us succeed - whatever our individual education pathway may look like.
+Education is provided in a way that supports our personal, academic and social development, both in and out of the formal schooling system. This includes making sure that those of us who use different languages (in particular New Zealand Sign Language), and other modes or means of communication, have ready access to them to achieve and progress. Information will be made available at the right time to those who support us, both when we are young or for those of us who need on-going support. This will help us succeed – whatever our individual education pathway may look like.
 
 We are treated with respect and dignity by those around us in the education system, including our peers and those who teach and support us. The love and expertise of our families and whānau and their wish to see us succeed in education will be honoured without question.
 
-As we move on to tertiary and life-long learning, the transition periods are smooth, with the right information and supports available at the right time - particularly when our needs or situations change.
+As we move on to tertiary and life-long learning, the transition periods are smooth, with the right information and supports available at the right time – particularly when our needs or situations change.
 
 Page 24
 
@@ -676,7 +702,7 @@ Page 24
 
 [[START OF PAGE 25]]
 
-NEW ZEALAND DISABILITY STRATEGY 2016-2026
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 ##### What this means:
 
@@ -696,7 +722,7 @@ Page 25
 
 [[START OF PAGE 26]]
 
-NEW ZEALAND DISABILITY STRATEGY fi   -fi fi
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 ### Outcome 2: employment and economic security
 
@@ -722,7 +748,7 @@ Page 26
 
 [[START OF PAGE 27]]
 
-NEW ZEALAND DISABILITY STRATEGY 2016-2026
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 ##### What this means:
 
@@ -742,7 +768,7 @@ Page 27
 
 [[START OF PAGE 28]]
 
-NEW ZEALAND DISABILITY STRATEGY fi   -fi fi
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 ### Outcome 3: health and wellbeing
 
@@ -768,7 +794,7 @@ Page 28
 
 [[START OF PAGE 29]]
 
-NEW ZEALAND DISABILITY STRATEGY 2016-2026
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 ##### What this means:
 
@@ -790,7 +816,7 @@ Page 29
 
 [[START OF PAGE 30]]
 
-NEW ZEALAND DISABILITY STRATEGY fi   -fi fi
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 ### Outcome 4: rights protection and justice
 
@@ -802,7 +828,7 @@ We will continue to be treated with fairness and respect at all stages of our jo
 
 Those of us who need services or supports specific to our impairment will receive them, wherever possible, the first time we interact with the justice system. We will continue to receive these supports in a way that does not require us to keep telling our story or risk missing out on something we need, unless our needs change. The people we interact with have a good understanding of any impact our impairment may have on our journey, and take this into account as appropriate.
 
-Those of us who need support to communicate or make decisions receive it in an appropriate way at the right time, and those decisions are recognised and respected. We will continue to be recognised as a person before the law. We feel secure exercising our rights as there are appropriate safeguards in place, even if we need support to make decisions and understand what's happening.
+Those of us who need support to communicate or make decisions receive it in an appropriate way at the right time, and those decisions are recognised and respected. We will continue to be recognised as a person before the law. We feel secure exercising our rights as there are appropriate safeguards in place, even if we need support to make decisions and understand what’s happening.
 
 For those of us who end up in the youth or adult justice system, the transition out of it is accompanied by rehabilitation services that recognise and understand our impairment, and help us to find a positive place in society.
 
@@ -816,13 +842,13 @@ Page 30
 
 [[START OF PAGE 31]]
 
-NEW ZEALAND DISABILITY STRATEGY 2016-2026
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 ##### What this means:
 
 - Disabled people are consulted on and actively involved in the development and implementation of legislation and policies concerning justice, violence and abuse prevention and human rights.
 
-- The justice sector is barrier-free and inclusive of disabled people with supports and services specific to a person's impairment provided readily when required.
+- The justice sector is barrier-free and inclusive of disabled people with supports and services specific to a person’s impairment provided readily when required.
 
 - All justice sector professionals treat disabled people with dignity and respect.
 
@@ -836,7 +862,7 @@ Page 31
 
 [[START OF PAGE 32]]
 
-NEW ZEALAND DISABILITY STRATEGY fi   -fi fi
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 ### Outcome 5: accessibility
 
@@ -846,11 +872,11 @@ NEW ZEALAND DISABILITY STRATEGY fi   -fi fi
 
 We have access to warm, safe and affordable housing that meets our needs and enables us to make choices about where we go to school or work and to fully participate as members of our families, whānau and communities.
 
-We can get from one place to another easily and safely, for example from home to school, work or to a friend's house. We can also access all public buildings, spaces and facilities with dignity and on an equal basis with others.
+We can get from one place to another easily and safely, for example from home to school, work or to a friend’s house. We can also access all public buildings, spaces and facilities with dignity and on an equal basis with others.
 
 We feel safe taking public transport to get around and are treated well when we do so. Our needs are also appropriately considered when planning for new transport services. Private transport services are responsive to and inclusive of us. For those of us who need it, there is access to specific transport options that are affordable, readily available and easy to use.
 
-Information and communications are easy for us to access in formats and languages that are right for us, including in our country's official languages of Te Reo Māori and New Zealand Sign Language. This helps us to be independent because we do not have to rely on other people. We use technology on the same basis as everyone else; those of us who need specific technology solutions will have access to these in a way that is innovative, progressive and helps to eliminate barriers. The evolving opportunities presented by new technology helps us to achieve our goals.
+Information and communications are easy for us to access in formats and languages that are right for us, including in our country’s official languages of Te Reo Māori and New Zealand Sign Language. This helps us to be independent because we do not have to rely on other people. We use technology on the same basis as everyone else; those of us who need specific technology solutions will have access to these in a way that is innovative, progressive and helps to eliminate barriers. The evolving opportunities presented by new technology helps us to achieve our goals.
 
 Our accessible communities are free of barriers (for example, access to shops, banks, entertainment, churches, parks, and so on), which enables us to participate and contribute on an equal basis with non-disabled people.
 
@@ -860,7 +886,7 @@ Page 32
 
 [[START OF PAGE 33]]
 
-NEW ZEALAND DISABILITY STRATEGY 2016-2026
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 ##### What this means:
 
@@ -880,7 +906,7 @@ Page 33
 
 [[START OF PAGE 34]]
 
-NEW ZEALAND DISABILITY STRATEGY fi   -fi fi
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 ### Outcome 6: attitudes
 
@@ -904,7 +930,7 @@ Page 34
 
 [[START OF PAGE 35]]
 
-NEW ZEALAND DISABILITY STRATEGY 2016-2026
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 ##### What this means:
 
@@ -922,7 +948,7 @@ Page 35
 
 [[START OF PAGE 36]]
 
-NEW ZEALAND DISABILITY STRATEGY fi   -fi fi
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 ### Outcome 7: choice and control
 
@@ -932,9 +958,7 @@ NEW ZEALAND DISABILITY STRATEGY fi   -fi fi
 
 When we are young, our families, whānau and carers will be supported to help us grow up. Our views as children and those of our families, whānau and carers will be considered when choices are made about what supports and services we receive and what things work best for us. There will also be respect for the evolving capacities of disabled children, and ensuring their input into decisions that affect them.
 
-As we get older we will make our own choices and decisions on things that affect how we live our
-
-lives, including where we live. Some of us may need support some of the time or all of the time. Plans or decisions that affect, or have implications for us, will not be developed without our involvement or consent. We have access to information in ways that help us understand what is happening so that we give consent in an informed way.
+As we get older we will make our own choices and decisions on things that affect how we live our lives, including where we live. Some of us may need support some of the time or all of the time. Plans or decisions that affect, or have implications for us, will not be developed without our involvement or consent. We have access to information in ways that help us understand what is happening so that we give consent in an informed way.
 
 Those of us who need support to communicate or make decisions receive it in an appropriate way at the right time and those decisions are recognised and respected. The way this support is provided will be empowering and will help build our confidence. In the rare circumstances when decisions need to be made on our behalf, they are based on the best interpretation of our will and preferences, as opposed to just thinking about what is in our best interests. Needing support does not diminish our independence or our ability to have choice and control over our lives.
 
@@ -948,7 +972,7 @@ Page 36
 
 [[START OF PAGE 37]]
 
-NEW ZEALAND DISABILITY STRATEGY 2016-2026
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 ##### What this means:
 
@@ -964,7 +988,7 @@ Page 37
 
 [[START OF PAGE 38]]
 
-NEW ZEALAND DISABILITY STRATEGY fi   -fi fi
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 ### Outcome 8: leadership
 
@@ -986,7 +1010,7 @@ Page 38
 
 [[START OF PAGE 39]]
 
-NEW ZEALAND DISABILITY STRATEGY 2016-2026
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 ##### What this means:
 
@@ -994,7 +1018,7 @@ NEW ZEALAND DISABILITY STRATEGY 2016-2026
 
 - Disabled people are recognised as experts in their own lives.
 
-- People in leadership roles in the public, private and not-forprofit sectors will be supported to see themselves as allies to the disability community. They will work in partnership with disabled people on things that are important to them.
+- People in leadership roles in the public, private and not-for-profit sectors will be supported to see themselves as allies to the disability community. They will work in partnership with disabled people on things that are important to them.
 
 - Decision-making on issues regarding leadership, in particular those specific to disabled people, is informed by robust data and evidence.
 
@@ -1004,9 +1028,7 @@ Page 39
 
 [[START OF PAGE 40]]
 
-NEW ZEALAND DISABILITY STRATEGY fi   -fi fi
-
-## Making it work
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 Figure 4 Governance and Monitoring
 
@@ -1064,7 +1086,7 @@ Issues
 
 •	 Disabled
 
-People's
+People’s
 
 Organisations
 
@@ -1082,21 +1104,23 @@ of Persons
 
 with Disabilities
 
+## Making it work
+
 Page 40
 
 [[END OF PAGE 40]]
 
 [[START OF PAGE 41]]
 
-NEW ZEALAND DISABILITY STRATEGY 2016-2026
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 This section outlines how the Strategy will be implemented.
 
 It has two parts:
 
-- Keeping on track with progress
+1. Keeping on track with progress
 
-- Achieving practical action
+2. Achieving practical action
 
 - Disability Action Plan
 
@@ -1104,11 +1128,11 @@ It has two parts:
 
 - Monitoring implementation
 
-- Convention on the Rights of Persons with Disabilities - making rights a reality
+- Convention on the Rights of Persons with Disabilities – making rights a reality
 
-- Making sure the priorities are right - how consultation will work.
+- Making sure the priorities are right – how consultation will work.
 
-An area of strength for the disability community and sector is that it is diverse, with a range of perspectives. This includes different experiences, areas of expertise and representation (either being representative of a particular group or more formally representing an organisation/group) and advocacy. This is sometimes referred to as wearing many different 'hats'. We are also recognised as experts in our own lives and making sure we are involved in decision-making on issues that impact on us leads to better quality results.
+An area of strength for the disability community and sector is that it is diverse, with a range of perspectives. This includes different experiences, areas of expertise and representation (either being representative of a particular group or more formally representing an organisation/group) and advocacy. This is sometimes referred to as wearing many different ‘hats’. We are also recognised as experts in our own lives and making sure we are involved in decision-making on issues that impact on us leads to better quality results.
 
 All of these perspectives are important in different ways for the governance and independent monitoring mechanisms, as well as the consultation processes that will support the effective implementation of this Strategy. These mechanisms and processes should aim to reflect the diversity and the changing nature of the disability community.
 
@@ -1120,7 +1144,7 @@ Page 41
 
 [[START OF PAGE 42]]
 
-NEW ZEALAND DISABILITY STRATEGY 2016-2026
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 ### Keeping on track with progress
 
@@ -1134,7 +1158,7 @@ It is a priority for the Government that progress toward implementing the Strate
 
 - who is responsible for collecting it
 
-- where proxies are needed and how information gaps will be addressed. (Note: 'proxy' or 'proxies' means 'something similar'. Proxy indicators are used when the required data is not available, so a similar indicator is used instead.)
+- where proxies are needed and how information gaps will be addressed. (Note: ‘proxy’ or ‘proxies’ means ‘something similar’. Proxy indicators are used when the required data is not available, so a similar indicator is used instead.)
 
 The Outcomes Framework will also help make sure there is continuous learning and improvement prior to a final evaluation of the Strategy in 2026.
 
@@ -1146,7 +1170,7 @@ Page 42
 
 [[START OF PAGE 43]]
 
-NEW ZEALAND DISABILITY STRATEGY 2016-2026
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 ### Achieving practical action
 
@@ -1168,7 +1192,7 @@ There are other strategies and plans that are also relevant to the Disability St
 
 As a Government Strategy, decisions on implementation will be made by Cabinet.
 
-These will be informed by the existing governance mechanisms for the Disability Action Plan: the Chief Executives' Group on Disability Issues (and associated Senior Officials Group) and Disabled People's Organisations.
+These will be informed by the existing governance mechanisms for the Disability Action Plan: the Chief Executives’ Group on Disability Issues (and associated Senior Officials Group) and Disabled People’s Organisations.
 
 Page 43
 
@@ -1176,17 +1200,17 @@ Page 43
 
 [[START OF PAGE 44]]
 
-NEW ZEALAND DISABILITY STRATEGY 2016-2026
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 #### Monitoring implementation
 
 The Independent Monitoring Mechanism (IMM) will help provide an independent perspective on progress toward achieving the outcomes and goals of the Disability Strategy.
 
-The IMM was established by the Government in 2011. It fulfils an obligation for the Government under the Convention to have an independent mechanism to promote, protect and monitor implementation under Article 33 of the Convention. It is made up of the Human Rights Commission, Office of the Ombudsman and the Convention Coalition Monitoring Group (a group of Disabled People's Organisations).
+The IMM was established by the Government in 2011. It fulfils an obligation for the Government under the Convention to have an independent mechanism to promote, protect and monitor implementation under Article 33 of the Convention. It is made up of the Human Rights Commission, Office of the Ombudsman and the Convention Coalition Monitoring Group (a group of Disabled People’s Organisations).
 
-The Strategy is the primary vehicle for progressive realisation of the Convention. Therefore it is appropriate for the IMM to provide an independent perspective on implementation of the Strategy. This will not however, be seen to limit in any way, the IMM's mandate to monitor the Convention.
+The Strategy is the primary vehicle for progressive realisation of the Convention. Therefore it is appropriate for the IMM to provide an independent perspective on implementation of the Strategy. This will not however, be seen to limit in any way, the IMM’s mandate to monitor the Convention.
 
-#### Convention on the Rights of Persons with Disabilities - making rights a reality
+#### Convention on the Rights of Persons with Disabilities – making rights a reality
 
 Every four years, the Government reports to and receives Concluding Observations from the United Nations Committee on the Rights of Persons with Disabilities. Concluding Observations recognise areas of good progress but also include recommendations on things that need to be improved.
 
@@ -1200,7 +1224,7 @@ Page 44
 
 [[START OF PAGE 45]]
 
-NEW ZEALAND DISABILITY STRATEGY 2016-2026
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 #### Consultation
 
@@ -1214,16 +1238,16 @@ Page 45
 
 [[START OF PAGE 46]]
 
-NEW ZEALAND DISABILITY STRATEGY 2016-2026
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
-### Making it work - a schedule of implementation
+### Making it work – a schedule of implementation
 
 Year | What happens
 --- | ---
-2016 | • New Disability Strategy 2016-2026 agreed by Cabinet
-2017 | • Public consultation process to develop the Outcomes Framework for the Strategy • Outcomes Framework for the Strategy agreed by Cabinet • Update of the Disability Action Plan - to align with the new Strategy • Annual report from Minister for Disability Issues, including baseline information against the Outcomes Framework where possible
+2016 | • New Disability Strategy 2016–2026 agreed by Cabinet
+2017 | • Public consultation process to develop the Outcomes Framework for the Strategy • Outcomes Framework for the Strategy agreed by Cabinet • Update of the Disability Action Plan – to align with the new Strategy • Annual report from Minister for Disability Issues, including baseline information against the Outcomes Framework where possible
 2018 | • Government reports to and receives Concluding Observations from the United Nations Committee on the Rights of Persons with Disabilities • Government receives recommendations from the Independent Monitoring Mechanism • Annual report from Minister for Disability Issues against Outcomes Framework
-2019 | • Public consultation process to develop new Disability Action Plan (to include recommendations from the United Nations Committee/Independent Monitoring Mechanism) • New Disability Action Plan (2019-2022) agreed by Cabinet
+2019 | • Public consultation process to develop new Disability Action Plan (to include recommendations from the United Nations Committee/Independent Monitoring Mechanism) • New Disability Action Plan (2019–2022) agreed by Cabinet • Annual report from Minister for Disability Issues against Outcomes Framework
 2020 | • Annual report from Minister for Disability Issues against Outcomes Framework
 2021 | • Public consultation process for mid-point update of Disability Action Plan • Updated Disability Action Plan to be agreed by Cabinet • Annual report from Minister for Disability Issues against Outcomes Framework
 
@@ -1233,15 +1257,15 @@ Page 46
 
 [[START OF PAGE 47]]
 
-NEW ZEALAND DISABILITY STRATEGY 2016-2026
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 Year | What happens
 --- | ---
-2022 | • Government reports to and receives recommendations from the United Nations Committee • Government receives report from the Independent Monitoring Mechanism
-2023 | • Public consultation process to develop new Disability Action Plan (to include recommendations from the United Nations Committee/Independent Monitoring Mechanism) • New Disability Action Plan (2023-2026) agreed by Cabinet
+2022 | • Government reports to and receives recommendations from the United Nations Committee • Government receives report from the Independent Monitoring Mechanism • Annual report from Minister for Disability Issues against Outcomes Framework
+2023 | • Public consultation process to develop new Disability Action Plan (to include recommendations from the United Nations Committee/Independent Monitoring Mechanism) • New Disability Action Plan (2023–2026) agreed by Cabinet • Annual update report from Minister for Disability Issues against Outcomes Framework
 2024 | • Annual report from Minister for Disability Issues against Disability Outcomes Framework
 2025 | • Public consultation process for mid-point update of Disability Action Plan • Annual report from Minister for Disability Issues against Outcomes Framework
-2026 | • Government reports to and receives recommendations from the United Nations Committee • Government receives report from the Independent Monitoring Mechanism • Evaluation of the Strategy (and Disability Action Plans) • Annual report from Minister for Disability Issues against Outcomes Framework • End of current Disability Strategy 2016-2026. Next steps to be confirmed
+2026 | • Government reports to and receives recommendations from the United Nations Committee • Government receives report from the Independent Monitoring Mechanism • Evaluation of the Strategy (and Disability Action Plans) • Annual report from Minister for Disability Issues against Outcomes Framework • End of current Disability Strategy 2016–2026. Next steps to be confirmed
 
 Page 47
 
@@ -1249,29 +1273,29 @@ Page 47
 
 [[START OF PAGE 48]]
 
-NEW ZEALAND DISABILITY STRATEGY fi   -fi fi
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
-## Getting it going who is involved
+## Getting it going – who is involved
 
 Achieving the vision and outcomes of the Strategy will take all New Zealanders working together. With rights there also come responsibilities, for everyone. There are also some key groups who have particular responsibilities under the Strategy. They are:
 
-- Disabled people, families, whānau, allies and the disability community and sector - providing input through governance, independent perspectives and public consultation.
+- Disabled people, families, whānau, allies and the disability community and sector – providing input through governance, independent perspectives and public consultation.
 
-- Cabinet - responsible for considering regular reports and making decisions on implementation of the Strategy through the Disability Action Plan.
+- Cabinet – responsible for considering regular reports and making decisions on implementation of the Strategy through the Disability Action Plan.
 
-- Ministerial Committee on Disability Issues - supports co-ordination of implementation across government.
+- Ministerial Committee on Disability Issues – supports co-ordination of implementation across government.
 
-- Independent Monitoring Mechanism - responsible for providing an independent perspective on implementation of the Strategy.
+- Independent Monitoring Mechanism – responsible for providing an independent perspective on implementation of the Strategy.
 
-- Chief Executives' Group on Disability Issues (and Senior Officials Group) and Disabled People's Organisations - responsible for governance and coordination of the Disability Action Plans.
+- Chief Executives’ Group on Disability Issues (and Senior Officials Group) and Disabled People’s Organisations – responsible for governance and coordination of the Disability Action Plans.
 
-- Government agencies - responsible for implementing the Strategy according to the priorities agreed in the Disability Action Plan.
+- Government agencies – responsible for implementing the Strategy according to the priorities agreed in the Disability Action Plan.
 
-- All New Zealanders - breaking down the barriers of a disabling society and supporting implementation of the Strategy.
+- All New Zealanders – breaking down the barriers of a disabling society and supporting implementation of the Strategy.
 
-- Local Territorial Authorities (City, District and Regional Councils) - consider their responsibility for disabled people in the space they oversee, in line with the Strategy and the Convention.
+- Local Territorial Authorities (City, District and Regional Councils) – consider their responsibility for disabled people in the space they oversee, in line with the Strategy and the Convention.
 
-- Private sector, businesses and Non-Governmental Organisations - ensure their business as usual is inclusive and responsive to disabled people on an equal basis with others.
+- Private sector, businesses and Non-Governmental Organisations – ensure their business as usual is inclusive and responsive to disabled people on an equal basis with others.
 
 Page 48
 
@@ -1279,7 +1303,7 @@ Page 48
 
 [[START OF PAGE 49]]
 
-NEW ZEALAND DISABILITY STRATEGY fi   -fi fi
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 ## Glossary
 
@@ -1297,7 +1321,7 @@ Equality means that everyone gets the same opportunities
 
 Equity is recognising that sometimes people need different things in order to be equal
 
-Impairment is a problem with the functioning of, or the structure of someone's body
+Impairment is a problem with the functioning of, or the structure of someone’s body
 
 Investing is about spending time, energy or money on something
 
@@ -1321,37 +1345,37 @@ Page 49
 
 [[START OF PAGE 50]]
 
-NEW ZEALAND DISABILITY STRATEGY fi   -fi fi
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
-## Appendix 1 The Reference Group
+## Appendix 1 – The Reference Group
 
 Members of the New Zealand Disability Strategy Revision Reference Group (for further details on each member of the group please refer to the Office for Disability Issues website): www.odi.govt.nz
 
 Colleen Brown MNZM, from Auckland, brings a families perspective.
 
-Robbie Francis , from Hamilton, brings the perspective of young people and lived experience of disability.
+Robbie Francis, from Hamilton, brings the perspective of young people and lived experience of disability.
 
-Lance Girling-Butcher QSM, from New Plymouth is a nominated Disabled People's Organisations (DPOs) representative. Lance became blind as an adult.
+Lance Girling-Butcher QSM, from New Plymouth is a nominated Disabled People’s Organisations (DPOs) representative. Lance became blind as an adult.
 
-Peggy Koopman-Boyden CNZM, from Hamilton brings an older person's perspective from research and personal experience.
+Peggy Koopman-Boyden CNZM, from Hamilton brings an older person’s perspective from research and personal experience.
 
-Clive Lansink , from Auckland, is a nominated DPOs representative. Clive is blind and is a strong advocate for disabled people speaking for themselves.
+Clive Lansink, from Auckland, is a nominated DPOs representative. Clive is blind and is a strong advocate for disabled people speaking for themselves.
 
-Victoria Manning (Co-Chair) MNZM, from Wellington is also the Chair of the NZSL Board. Victoria is Deaf and also brings 20 years' experience in disability policy.
+Victoria Manning (Co-Chair) MNZM, from Wellington is also the Chair of the NZSL Board. Victoria is Deaf and also brings 20 years’ experience in disability policy.
 
-David Matthews , from Christchurch and Wellington, brings a service provider's perspective.
+David Matthews, from Christchurch and Wellington, brings a service provider’s perspective.
 
-Papaalii Seiuli Johnny Siaosi , from Auckland, brings a perspective from mental health and addictions consumers, their families and Pasefika communities.
+Papaalii Seiuli Johnny Siaosi, from Auckland, brings a perspective from mental health and addictions consumers, their families and Pasefika communities.
 
 Dr Martin Sullivan QSO, from Palmerston North, brings his perspective as a disabled person.
 
-Hamish Taverner , from Palmerston North, speaks up for the rights of people with learning disabilities. He brings the perspective of lived experience of this disability.
+Hamish Taverner, from Palmerston North, speaks up for the rights of people with learning disabilities. He brings the perspective of lived experience of this disability.
 
-Jonny Wilkinson , from Whangarei, brings the perspective of a person with lived experience of disability.
+Jonny Wilkinson, from Whangarei, brings the perspective of a person with lived experience of disability.
 
 Gary Williams MNZM, from Christchurch, is a self-employed disability consultant bringing over 40 years of expertise in the disability sector. Gary also brings a perspective of a Māori disabled person.
 
-Government agencies had two representatives on the group. During the development of the Strategy, these representatives were Brian Coffey (Ministry of Education), Kathy Brightwell (Ministry of Health) and Sacha O'Dea (Ministry of Social Development).
+Government agencies had two representatives on the group. During the development of the Strategy, these representatives were Brian Coffey (Ministry of Education), Kathy Brightwell (Ministry of Health) and Sacha O’Dea (Ministry of Social Development).
 
 Paul Brown from the Office of the Ombudsman was an observer.
 
@@ -1363,7 +1387,7 @@ Page 50
 
 [[START OF PAGE 51]]
 
-NEW ZEALAND DISABILITY STRATEGY 2016-2026
+NEW ZEALAND DISABILITY STRATEGY 2016–2026
 
 Page 51
 
