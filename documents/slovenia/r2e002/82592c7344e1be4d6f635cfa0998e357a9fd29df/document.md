@@ -1,12 +1,12 @@
 [[START OF PAGE 1]]
 
-<Tit l e >   L a w   o n   p r e s c h o o l   i n s t i t u t i o n s < / T i t l e >
+<Title> Law on preschool institutions</Title>
 
-<META name="keywords" content=" SL O , ENL  , T04">
+<META name="description" content=" ">
 
-<META name="description" cont e nt = "   " >
+<META name="keywords" content=" SLO , ENL , T04">
 
-<!-- N O S E A R C H S T A R T - - >
+<!--NOSEARCHSTART-->
 
 # Law on Preschool Institutions
 
@@ -24,7 +24,7 @@ This Act shall regulate preschool education provided by public and private presc
 
 (Basic Tasks of Preschool Institutions)
 
-The basic tasks of preschool institutions shall be to assist parents in holistic child care, to improve the quality of life for families and children, and to create conditions for the development of children s physical and mental capacities.
+The basic tasks of preschool institutions shall be to assist parents in holistic child care, to improve the quality of life for families and children, and to create conditions for the development of childrenís physical and mental capacities.
 
 ### Article 3
 
@@ -34,13 +34,15 @@ Preschool  education  in  preschool  institutions  shall  be  a  component  part
 
 - democracy,
 
-- staff s autonomy, professionalism and responsibility,
-
 - pluralism,
+
+- staffís autonomy, professionalism and responsibility,
 
 - equal opportunity for children and parents, taking into account differences among children,
 
-- keeping a balance among various aspects of the child s physical and mental development.
+- choice and the right to be different,
+
+- keeping a balance among various aspects of the childís physical and mental development.
 
 ### Article 4
 
@@ -50,9 +52,9 @@ The goals of preschool education in preschool institutions shall be:
 
 - to develop the ability to understand and accept oneself and the others;
 
-- to develop the capacity to recognize feelings and encourage emotional experience and expression;
-
 - to develop the capacity to negotiate, allow for differences and to participate in groups;
+
+- to develop the capacity to recognize feelings and encourage emotional experience and expression;
 
 - to foster curiosity, inquisitive spirit, imagination and intuition and the development of independent thinking;
 
@@ -60,17 +62,15 @@ The goals of preschool education in preschool institutions shall be:
 
 - to encourage artistic experience and expression;
 
-- choice and the right to be different,
-
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
 - to transfer the knowledge in various fields of science and daily life;
 
-- to develop children s independence in personal hygiene and in the care for their health.
-
 - to encourage physical and motor development;
+
+- to develop childrenís independence in personal hygiene and in the care for their health.
 
 ### Article 5 (Language)
 
@@ -120,7 +120,7 @@ More detailed requirements and procedures for the implementation of the right de
 
 (Placement in Public Preschool Institutions to Be Guaranteed)
 
-When there is no public preschool institution in a child s home community or the existing public preschool institution has no places available, although the number of applicants meets the criteria and standards for the formation of an additional class, the local community shall have the obligation to initiate  a  procedure  to  provide  additional  places  within  a  public  preschool  institution  or  launch  a tender for granting a concession within 30 days after the parents  expression of such an interest at the latest.
+When there is no public preschool institution in a childís home community or the existing public preschool institution has no places available, although the number of applicants meets the criteria and standards for the formation of an additional class, the local community shall have the obligation to initiate a procedure to provide additional places within a public preschool institution or launch a tender for granting a concession within 30 days after the parentsí expression of such an interest at the latest.
 
 ### Article 11
 
@@ -144,9 +144,9 @@ Programs for preschool children shall include:
 
 - the name of the program,
 
-- educational fields and objectives,
-
 - philosophical premises,
+
+- educational fields and objectives,
 
 - manners and forms of cooperation with parents.
 
@@ -268,7 +268,7 @@ If the number of children registered exceeds the number of places available, dec
 
 The composition of and work procedures for an admission committee and admission criteria shall be set forth by the council of a preschool institution in agreement with the founder. The committee shall be appointed by the principal.
 
-Upon a child s admission to a preschool institution, parents shall submit the child s health certificate issued by a pediatrician.
+Upon a childís admission to a preschool institution, parents shall submit the childís health certificate issued by a pediatrician.
 
 In  admitting  children  to  a  preschool  institution,  preference  shall  be  given  to  children  from economically disadvantaged families submitting the appropriate certificate of a welfare center..
 
@@ -284,7 +284,7 @@ Children with special needs shall be given preference in admission to preschool 
 
 The organization and detailed components of school life in preschool institutions shall be set forth by annual work plans adopted by the councils of preschool institutions.
 
-Annual  work  plans  shall  determine  the  institution  s  organization  and  operating  hours,  programs, education and care of children in family child care facilities, placement of children in classes, work of professional and other staff in the institution, cooperation with parents, cooperation with education and  care,  health  and  other  facilities,  tutoring  of  probationary  teachers,  community  relations, cooperation  with  schools  training  staff  in  the  field  of  preschool  education,  staff  development programs,  work  programs  of  institution  s  professional  bodies,  and  personnel,  material  and  other requirements for carrying out the educational process.
+Annual work plans shall determine the institutionís organization and operating hours, programs, education and care of children in family child care facilities, placement of children in classes, work of professional and other staff in the institution, cooperation with parents, cooperation with education and care, health and other facilities, tutoring of probationary teachers, community relations, cooperation with schools training staff in the field of preschool education, staff development programs, work programs of institutionís professional bodies, and personnel, material and other requirements for carrying out the educational process.
 
 ### Article 22 (Subordinate Legislation Concerning Educational Records)
 
@@ -322,9 +322,9 @@ The register of occasional home child care providers shall include:
 
 - name, family name, address and telephone number at which the provider is accessible,
 
-- sex,
-
 - date of birth,
+
+- sex,
 
 - formal qualifications,
 
@@ -338,9 +338,9 @@ The register shall include:
 
 - name, family name and address,
 
-- legal base for the prohibition of the occasional home child care provision.
-
 - date of birth, and
+
+- legal base for the prohibition of the occasional home child care provision.
 
 The data of this register is permanent and may be forwarded only to preschool institutions specified in Article 23 of this Act.
 
@@ -352,9 +352,9 @@ Preschool education programs shall be funded by:
 
 - public resources,
 
-- fees paid by parents,
-
 - founders,
+
+- fees paid by parents,
 
 - donations and other resources.
 
@@ -392,9 +392,9 @@ Funding for the following shall be provided from the state budget:
 
 - preschool classes in hospitals operating at the state level,
 
-- the  higher  cost  of  classes  provided  education  in  Italian  and  bilingual  education  classes  in Slovene and Hungarian as well as classes of Romany children,
-
 - preschool classes in state founded educational institutions for children with special needs,
+
+- the higher cost of classes provided education in Italian and bilingual education classes in Slovene and Hungarian as well as classes of Romany children,
 
 - part of investments in premises and equipment in areas with nationally mixed population.
 
@@ -418,11 +418,11 @@ Prices  of  programs  of  the  preceding  Article  shall  be  determined  by  th
 
 #### Article 32 (Determination of Fees Paid by Parents)
 
-Fees to be paid by parents shall be determined by local communities on the basis of a scale that groups parents into classes based on the income per family member in comparison with the average salary in the Republic of Slovenia and on a family s assets.
+Fees to be paid by parents shall be determined by local communities on the basis of a scale that groups parents into classes based on the income per family member in comparison with the average salary in the Republic of Slovenia and on a familyís assets.
 
 Parents  receiving  supplementary  allowance  pursuant  to  welfare  regulations  shall  be  exempt  from paying the fees.
 
-In  exceptional  cases,  local  communities  may,  on  the  basis  of  the  opinion  of  the  competent  tax authority or welfare service, consider other facts and circumstances reflecting a family s true social status  in  addition  to  the  income  and  property  specified  in  paragraph  one  of  this  Article,  when determining the fee to be paid by parents.
+In exceptional cases, local communities may, on the basis of the opinion of the competent tax authority or welfare service, consider other facts and circumstances reflecting a familyís true social status in addition to the income and property specified in paragraph one of this Article, when determining the fee to be paid by parents.
 
 If more than one child attends the preschool institution, the fee for older children shall be decreased by one class.
 
@@ -444,9 +444,9 @@ Private  preschool  institutions  shall  be  eligible  for  funding  by  local  
 
 - at least half-day programs are offered;
 
-- preschool teachers are employed on a regular or some other basis in compliance with the law and other regulations;
-
 - the number of children enrolled is sufficient to form at least two classes;
+
+- preschool teachers are employed on a regular or some other basis in compliance with the law and other regulations;
 
 - access is open for all children.
 
@@ -476,7 +476,7 @@ The funding and obligations of a private preschool institution shall be determin
 
 #### Article 37 (Funding of Home Preschool Education)
 
-On the basis of a decree issued by a school authority, preschool education institutions and other legal entities  providing  home  preschool  education  shall  be  eligible  for  funding  in  the  same  amount  as provided to private preschool institutions by the local community of children s permanent residence.
+On the basis of a decree issued by a school authority, preschool education institutions and other legal entities providing home preschool education shall be eligible for funding in the same amount as provided to private preschool institutions by the local community of childrenís permanent residence.
 
 ### 4. Preschool Education Development
 
@@ -484,19 +484,19 @@ On the basis of a decree issued by a school authority, preschool education insti
 
 The following shall be funded from the state budget:
 
-- research  and  experiments,  in-service  education  and  training,  information  and  documentary services,
+- research and experiments, in-service education and training, information and documentary services,
 
 - professional meetings;
 
-- employment and training of probationary teachers;
-
 - School for Principals;
+
+- employment and training of probationary teachers;
 
 - scholarships for students in education and tuition fee subsidies;
 
-- national awards to educators;
-
 - periodicals for children and professional periodicals and subsidies for professional publications;
+
+- national awards to educators;
 
 - international cooperation.
 
@@ -518,7 +518,7 @@ Preschool institutions and other legal entities providing preschool education pr
 
 (Qualification Requirements)
 
-Educational  activities  in  public  preschool  institutions  shall  be  performed  by  preschool  teachers, preschool teachers  assistants, counselors, health and hygiene professional, nutritionist, and others.
+Educational activities in public preschool institutions shall be performed by preschool teachers, preschool teachersí assistants, counselors, health and hygiene professional, nutritionist, and others.
 
 Preschool teachers of classes offering special programs for children with special needs of preschool age shall complete the same level of education as required for other preschool teachers and shall possess a special education qualification.
 
@@ -530,7 +530,7 @@ Preschool teachers shall possess:
 
 - an  undergraduate  university  degree  in  the  appropriate  field  and  a  certificate  obtained  by  a completion of a course of study in preschool education.
 
-Preschool teacher s assistants shall:
+Preschool teacherís assistants shall:
 
 - possess  a  secondary  school  diploma  obtained  by  the  completion  of  education  programs specializing in preschool education; or
 
@@ -550,7 +550,7 @@ Health and hygiene professionals and nutritionists shall possess at least a shor
 
 The  work  load  of  preschool  teachers  shall  include  preparation  for,  planning  and  execution  of educational activities, cooperation with parents, and participation in the organization of life and work in preschool institutions.
 
-The  work  load  of  preschool  teacher  s  assistants  shall  include  their  cooperation  with  preschool teachers in the preparation, planning and execution of educational activities in the group and other tasks related to the activities of preschool institutions.
+The work load of preschool teacherís assistants shall include their cooperation with preschool teachers in the preparation, planning and execution of educational activities in the group and other tasks related to the activities of preschool institutions.
 
 Pursuant to the stipulations of the law and collective agreement regulating the full weekly work load, the  weekly  number  of  contact  hours  shall  not  exceed  30  for  preschool  teachers  and  35  for  their assistants.
 
@@ -570,15 +570,15 @@ Preschool institutions shall collect, process, store, submit, keep and use the p
 
 In  order  to  provide  preschool  education,  monitor  the  activities  and  for  statistical  use,  preschool institutions shall keep the following files:
 
-- records of enrolled and admitted children;
+1. records of enrolled and admitted children;
 
-- records of fees paid by parents;
+2. records of fees paid by parents;
 
-- records of children needing support and counseling;
+3. records of children needing support and counseling;
 
-- records of occasional home child care providers.
+4. records of occasional home child care providers.
 
-### Contents and Objectives of Individual Records
+### b) Contents and Objectives of Individual Records
 
 #### Article 44
 
@@ -588,11 +588,11 @@ Records of enrolled and admitted children shall include:
 
 - first and family name and address of children and their parents;
 
-- address  and  telephone  number  of  the  individual  who  can  be  reached  during  child  s  stay  at preschool;
+- childrenís date of birth and sex;
 
-- children s date of birth and sex;
+- address and telephone number of the individual who can be reached during childís stay at preschool;
 
-- data on children s health characteristics necessary for the reasons of children s safety and working with them.
+- data on childrenís health characteristics necessary for the reasons of childrenís safety and working with them.
 
 13
 
@@ -600,7 +600,7 @@ Records of enrolled and admitted children shall include:
 
 [[START OF PAGE 14]]
 
-Children s personal data shall be collected to enable appropriate work with children in carrying out the programs and cooperation with parents.
+Childrenís personal data shall be collected to enable appropriate work with children in carrying out the programs and cooperation with parents.
 
 #### Article 45
 
@@ -612,7 +612,7 @@ The records of fees paid by parents shall contain the data on:
 
 - individual fee amounts to be paid by parents,
 
-- parents  monthly fee payments.
+- parentsí monthly fee payments.
 
 Records of the previous paragraph shall be kept for the purpose of monitoring monthly payments.
 
@@ -622,9 +622,9 @@ Records of the social status of the families of children attending a preschool i
 
 - income, revenue and property of family members;
 
-- other facts and circumstances influencing the amount of the fee;
-
 - number of family members;
+
+- other facts and circumstances influencing the amount of the fee;
 
 - fees paid by parents.
 
@@ -634,17 +634,21 @@ Local  communities  shall  collect  data  for  line  three  of  paragraph  six  
 
 Founders may delegate the authority to collect data and keep records of the social status of families to preschool institutions.
 
+#### Article 46
+
+(Records of Children Needing Support and Counseling)
+
 Records of children needing support and counseling shall include:
 
 - family and social anamnesis,
 
-- diagnostic procedures,
-
 - development anamnesis,
+
+- diagnostic procedures,
 
 - procedures for professional support,
 
-- expert opinions of other institutions: welfare centers, health institutions,  counseling  and educational support centers.
+- expert opinions of other institutions: welfare centers, health institutions, counseling and educational support centers.
 
 14
 
@@ -654,7 +658,7 @@ Records of children needing support and counseling shall include:
 
 Personal  data  on  children  needing  support  and  counseling  shall  be  collected  on  the  basis  of  the judgment of the counseling service.
 
-Personal data specified in paragraph one shall be collected in agreement with pupil s parents or legal guardians,  with  the  exception  of  cases  when  pupils  are  endangered  by  their  families  and  need protection.
+Personal data specified in paragraph one shall be collected in agreement with pupilís parents or legal guardians, with the exception of cases when pupils are endangered by their families and need protection.
 
 Counselors  shall  be  obliged  to  treat  information  specified  in  paragraph  one  of  this  Article  with professional confidentiality. Other professionals receiving such data due to the nature of their work shall also treat the data with professional confidentiality.
 
@@ -682,7 +686,7 @@ Preschool institutions may disclose data from their records to the ministry havi
 
 Preschool  institutions  and  local  communities  may  disclose  data  from  their  records  to  other administrative bodies or to other organization if they are authorized by law to use such data.
 
-When processed, personally identifiable data may be used and published only in a form that does not disclose an individual s identity.
+When processed, personally identifiable data may be used and published only in a form that does not disclose an individualís identity.
 
 #### Article 51
 
@@ -716,9 +720,9 @@ Preschool officers responsible for the operations of preschool institution shall
 
 - a preschool teacher and his/her assistant jointly teach less than six hours in a first age group or
 
-- a child care professional that does not meet qualification requirements is employed on a tenure basis (Article 40);
-
 - less than four hours in the seconds age group (paragraph two of Article 17),
+
+- a child care professional that does not meet qualification requirements is employed on a tenure basis (Article 40);
 
 - mandatory records are not maintained (Articles 43, 44, 45, 46, 47, 48, 49 and 50).
 
@@ -762,13 +766,13 @@ Preschool teachers having meet the requirements for teaching in preschool instit
 
 Preschool teachers with a four-year secondary school degree in nursing or health care and at least five years of work experience on that job on the day of entry into force of this Act may continue to work as preschool teachers.
 
-### Article 58 (Preschool Teacher s Assistants)
+### Article 58 (Preschool Teacherís Assistants)
 
-Employees working as preschool teacher s assistants or preschool teachers who, on the day of entry into  force  of  this  Act,  possess  a  four-year  secondary  school  degree  and  have  five  years  of  work experience in the field of preschool education or have completed a school for preschool teacher s assistants  and  have  ten  years  of  work  experience  may  continue  to  work  as  preschool  teacher  s assistants in compliance with this Act.
+Employees working as preschool teacherís assistants or preschool teachers who, on the day of entry into force of this Act, possess a four-year secondary school degree and have five years of work experience in the field of preschool education or have completed a school for preschool teacherís assistants and have ten years of work experience may continue to work as preschool teacherís assistants in compliance with this Act.
 
-Employees working as preschool teacher s assistants who, on the day of entry into force of this Act, do not have a degree stipulated for preschool teacher s assistants shall obtain it within seven years after entry into force of this Act at the latest or their employment shall be terminated.
+Employees working as preschool teacherís assistants who, on the day of entry into force of this Act, do not have a degree stipulated for preschool teacherís assistants shall obtain it within seven years after entry into force of this Act at the latest or their employment shall be terminated.
 
-Employees  specified  in  the  preceding  paragraph  who  have  completed  a  school  for  preschool teacher s assistants or have five years of work experience in preschool education shall not be required to complete a vocational course in preschool education.
+Employees specified in the preceding paragraph who have completed a school for preschool teacherís assistants or have five years of work experience in preschool education shall not be required to complete a vocational course in preschool education.
 
 ### Article 59 (Counselors)
 
@@ -850,7 +854,7 @@ This  Act  shall  repeal  the  Preschool  Education  and  Care  Act  (Official  
 
 This  Act  shall  take  effect  on  the  fifteenth  day  after  its  publication  in  the  Official  Gazette  of  the Republic of Slovenia.
 
-<!-- N O S E A R C H E N D - - >
+<!--NOSEARCHEND-->
 
 19
 
