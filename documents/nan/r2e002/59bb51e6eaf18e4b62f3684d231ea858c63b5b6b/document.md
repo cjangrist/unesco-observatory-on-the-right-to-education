@@ -1,6 +1,6 @@
 [[START OF PAGE 1]]
 
-La siguiente:
+
 
 # CONGRESO DE LA REPÚBLICA DE GUATEMALA Decreto número 72-2001
 
@@ -24,6 +24,8 @@ En  ejercicio  de  las  atribuciones  que  le  confiere  el  artículo  171,  li
 
 ### DECRETA:
 
+La siguiente:
+
 # LEY DE COLEGIACIÓN PROFESIONAL OBLIGATORIA
 
 ## CAPITULO I DISPOSICIONES GENERALES
@@ -41,13 +43,13 @@ Los títulos otorgados por las universidades del país o la aceptación de la in
 
 Deben colegiarse:
 
-- Todos  los  profesionales  egresados  de  las  distintas  universidades  debidamente autorizadas para funcionar en el país y que hubieren obtenido el título o títulos.
+- a) Todos los profesionales egresados de las distintas universidades debidamente autorizadas para funcionar en el país y que hubieren obtenido el título o títulos.
 
-- Los profesionales incorporados a la Universidad de San Carlos de Guatemala.
+- b) Los profesionales incorporados a la Universidad de San Carlos de Guatemala.
 
-- Los profesionales graduados en las distintas universidades del extranjero, cuyos títulos  sean  reconocidos  en  Guatemala  en  virtud  de  tratados    y  convenios internacionales  aceptados  y  ratificados  por  el  Estado  y  que  deseen  ejercer  su profesión en el país;  y
+- c) Los profesionales graduados en las distintas universidades del extranjero, cuyos títulos sean reconocidos en Guatemala en virtud de tratados y convenios internacionales aceptados y ratificados por el Estado y que deseen ejercer su profesión en el país; y
 
-- Los profesionales universitarios graduados en el extranjero que formen parte de programas  de  postgrado,  entrenamiento  u  otras  actividades  organizadas  para, desarrollarse en el territorio  de  la  República  por  las  distintas  universidades  del país,  instituciones  no    estatales  o  internacionales  o  instituciones  del  Estado, autónomas  o  semiautónomas  y  las  municipalidades,  que  por  tal  motivo  deban ejercer la profesión en Guatemala, durante un lapso de tiempo máximo de dos años,  no  prorrogables,  podrán  hacerlo  por  el  tiempo  que  dure  la  actividad respectiva, para lo cual se inscribirán en el registro de colegiados temporales que deberá llevar cada colegio profesional.
+- d) Los profesionales universitarios graduados en el extranjero que formen parte de programas de postgrado, entrenamiento u otras actividades organizadas para, desarrollarse en el territorio de la República por las distintas universidades del país, instituciones no estatales o internacionales o instituciones del Estado, autónomas o semiautónomas y las municipalidades, que por tal motivo deban ejercer la profesión en Guatemala, durante un lapso de tiempo máximo de dos años, no prorrogables, podrán hacerlo por el tiempo que dure la actividad respectiva, para lo cual se inscribirán en el registro de colegiados temporales que deberá llevar cada colegio profesional.
 
 En  los  casos  a  que  se  refiere  el  inciso  c)  anterior,  previo  a  la  colegiación,  los profesionales  deberán  cumplir  con  el  procedimiento  de  reconocimiento  de  títulos, establecido por la Universidad de San Carlos de Guatemala.
 
@@ -75,30 +77,30 @@ Los  colegios  profesionales  son  asociaciones gremiales  no  lucrativas,  esen
 
 Son fines principales de los Colegios Profesionales:
 
-- Promover, vigilar y defender el ejercicio decoroso de las profesiones universitarias en todos los aspectos,  propiciando y conservando la disciplina y la solidaridad entre sus miembros;
+- a) Promover, vigilar y defender el ejercicio decoroso de las profesiones universitarias en todos los aspectos, propiciando y conservando la disciplina y la solidaridad entre sus miembros;
 
-- Promover el mejoramiento cultural y científico de los profesionales universitarios;
+- b) Promover el mejoramiento cultural y científico de los profesionales universitarios;
 
-- Promover y vigilar el ejercicio ético y eficiente de las profesiones universitarias;
+- c) Promover y vigilar el ejercicio ético y eficiente de las profesiones universitarias;
 
-- Defender y proteger el ejercicio profesional universitario, combatir el empirismo y la usurpación  de calidad;
+- d) Defender y proteger el ejercicio profesional universitario, combatir el empirismo y la usurpación de calidad;
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-- Promover el bienestar de sus agremiados mediante el establecimiento de fondos de  prestaciones,  contratación  de  seguros  y  otros  medios  que  se  consideren convenientes.
+- e) Promover el bienestar de sus agremiados mediante el establecimiento de fondos de prestaciones, contratación de seguros y otros medios que se consideren convenientes.
 
-- Auxiliar  a  la  administración  pública  en  el  cumplimiento  de  las  disposiciones legales que se relacionen con las respectivas profesiones universitarias, resolver consultas y rendir los informes que soliciten entidades o funcionarios oficiales, en materia de su competencia, siempre que se trate de asuntos de interés público.
+- f) Auxiliar a la administración pública en el cumplimiento de las disposiciones legales que se relacionen con las respectivas profesiones universitarias, resolver consultas y rendir los informes que soliciten entidades o funcionarios oficiales, en materia de su competencia, siempre que se trate de asuntos de interés público.
 
-- Resolver  consultas  y  rendir  informes  que  les  sean  solicitados  por  personas  o entidades  privadas,  en  materia  de  su  competencia,  siempre  que  se  trate  de asuntos de interés público.  Para estos casos, la Junta Directiva, si lo considera pertinente, podrá  autorizar el cobro  de  honorarios  a favor del o de  los profesionales dictaminantes;
+- g) Resolver consultas y rendir informes que les sean solicitados por personas o entidades privadas, en materia de su competencia, siempre que se trate de asuntos de interés público. Para estos casos, la Junta Directiva, si lo considera pertinente, podrá autorizar el cobro de honorarios a favor del o de los profesionales dictaminantes;
 
-- Contribuir al fortalecimiento de la autonomía de la Universidad de San Carlos de Guatemala y al cumplimiento de los fines y objetivos de todas las universidades del país;
+- h) Contribuir al fortalecimiento de la autonomía de la Universidad de San Carlos de Guatemala y al cumplimiento de los fines y objetivos de todas las universidades del país;
 
-- Participar  en  el  estudio  y  solución  de  los  problemas  nacionales  y  propiciar  el mejoramiento integral de los guatemaltecos.
+- i) Participar en el estudio y solución de los problemas nacionales y propiciar el mejoramiento integral de los guatemaltecos.
 
-- Elegir  a  los  representantes  del  colegio  respectivo  ante  el  Consejo  Superior Universitario de la Universidad de San Carlos de Guatemala, Juntas Directivas de las facultades de la misma, a los miembros que integran el Cuerpo Electoral Universitario, así como quienes deban representarlo en otros cargos y funciones, de conformidad con las leyes y reglamentos respectivos; y,
+- j) Elegir a los representantes del colegio respectivo ante el Consejo Superior Universitario de la Universidad de San Carlos de Guatemala, Juntas Directivas de las facultades de la misma, a los miembros que integran el Cuerpo Electoral Universitario, así como quienes deban representarlo en otros cargos y funciones, de conformidad con las leyes y reglamentos respectivos; y,
 
-- Promover la organización y mejoramiento de otras asociaciones y agrupaciones afines a las respectivas profesiones universitarias, propiciando su adscripción al colegio  correspondiente  de  conformidad  con  lo  que  para  el  efecto  establezcan sus estatutos.
+- k) Promover la organización y mejoramiento de otras asociaciones y agrupaciones afines a las respectivas profesiones universitarias, propiciando su adscripción al colegio correspondiente de conformidad con lo que para el efecto establezcan sus estatutos.
 
 [[END OF PAGE 4]]
