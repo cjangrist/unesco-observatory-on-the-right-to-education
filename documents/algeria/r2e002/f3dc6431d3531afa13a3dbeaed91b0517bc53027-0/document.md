@@ -26,7 +26,7 @@ Des dispositions transitoires
 
 [[START OF PAGE 2]]
 
-بسم ال الرحان الرحيم
+بسم الله الرحمن الرحيم
 
 ## PREAMBULE
 
@@ -338,13 +338,13 @@ Nul ne peut être tenu pour coupable si ce n'est en vertu d'une loi dûment prom
 Nul ne peut être poursuivi, arrêté ou détenu que dans les cas déterminés par la loi et selon les formes qu'elle a prescrites.
 
 #### Art. 48
-En matière d'enquête pénale, la garde à vue est soumise au contrôle judiciaire et ne peut excéder quarantehuit (48) heures.
+En matière d'enquête pénale, la garde à vue est soumise au contrôle judiciaire et ne peut excéder quarante-huit (48) heures.
 
 La personne gardée à vue a le droit d'entrer immédiatement en contact avec sa famille.
 
 La prolongation du délai de garde à vue ne peut avoir lieu, exceptionnellement, que dans les conditions fixées par la loi.
 
-A l'expiration du délai de garde à vue, il est obligatoirement procédé à l'examen médical de la personne retenue si celleci le demande, et dans tous les cas, elle est informée de cette faculté.
+A l'expiration du délai de garde à vue, il est obligatoirement procédé à l'examen médical de la personne retenue si celle-ci le demande, et dans tous les cas, elle est informée de cette faculté.
 
 #### Art. 49
 L'erreur judiciaire entraîne réparation par l'État.
@@ -422,7 +422,7 @@ L'engagement du citoyen envers la patrie et l'obligation de contribuer à sa dé
 
 l'État garantit le respect des symboles de la Révolution, la mémoire des Chouhada et la dignité de leurs ayants droit et des Moudjahidine.
 
-Il œuvre, en outre, à la promotion de l'écriture de l'histoire et de son engagement aux jeunes générations.
+Il œuvre, en outre, à la promotion de l'écriture de l'histoire et de son enseignement aux jeunes générations.
 
 L'engagement du citoyen envers la Patrie et l'obligation de contribuer à sa défense, constituent des devoirs sacrés et permanents.
 
@@ -524,34 +524,31 @@ Le Président de la République prête serment devant le peuple et en présence 
 
 - Le Président de la République prête serment dans les termes ci-après :
 
-" بسم ال الرحمن الرحيم
-
-وفاء للتضحيات الكبرى، ولرواح شهدائ نا البرار، وقيم ثورة نوفمبر الخالدة، أقسم بال العلي العظيم، أن أح  ترم
-
-الدين السلمي وأمجده، وأدافع ع
-
-ة
-
-روط اللزم
-
-ن الدستور، وأسهر ع لى استمرارية الدول ة، وأع مل على توفير الش
-
-للسير العادي للمؤسسات والنظام الدستوري، وأسعى من أجل تدع يم المسار الديمقراطي، وأحترم حري ة اختيار الش   عب،
-
-ومؤسسات الجمه وري ة وق وانينها، وأحافظ ع لى س لم ة التراب الوط ني، ووحدة الشعب والمة، وأحمي الحريات
-
-والحقوق الساسي ة للنسان والمواطن، وأعمل بدون ه وادة م ن أج ل تطور الش ع ب وازدهاره، وأسعى بكل ق   واي
-
-في س ب يل تحق يق المثل العليا للعدال ة والحري ة وال سلم في ال عال م.
-
-واللـه عـلى مـا أقول شهيـد
-
-".
+" بسم الله الرحمن الرحيم
+وفاء للتضحيات الكبرى، ولأرواح شهدائنا الأبرار، وقيم ثورة نوفمبر الخالدة، أقسم بالله العلي العظيم، أن أحترم
+الدين الإسلامي وأمجده، وأدافع عن الدستور، وأسهر على استمرارية الدولة، وأعمل على توفير الشروط اللازمة
+للسير العادي للمؤسسات والنظام الدستوري، وأسعى من أجل تدعيم المسار الديمقراطي، وأحترم حرية اختيار الشعب،
+ومؤسسات الجمهورية وقوانينها، وأحافظ على سلامة التراب الوطني، ووحدة الشعب والأمة، وأحمي الحريات
+والحقوق الأساسية للإنسان والمواطن، وأعمل بدون هوادة من أجل تطور الشعب وازدهاره، وأسعى بكل قواي
+في سبيل تحقيق المثل العليا للعدالة والحرية والسلم في العالم.
+والله على ما أقول شهيد."
 
 #### Art . 77  (6) -
-Outre les pouvoirs que lui confèrent expressément d'autres dispositions de la Constitution, le Président de la République jouit des pouvoirs et prérogatives suivants : 1- il est le Chef Suprême de toutes les Forces Armées de la République; 2- il est responsable de la Défense Nationale; 3- il arrête et conduit la politique extérieure de la Nation; 4- il préside le Conseil des Ministres; 5- il nomme le Chef du Gouvernement et met fin à ses fonctions; 6- Sous réserve des dispositions de l'article 87 de la Constitution, le Président de la République peut déléguer une partie de ses prérogatives au Premier ministre à l'effet de ^résider les réunions du Gouvernement; 7- il peut nommer un ou plusieurs vice-premiers ministres afin d'assister le Premier ministre dans l'exercice de ses fonctions et met fin à leurs fonctions; 8- il signe les décrets présidentiels; 9- il dispose du droit de grâce, du droit de remise ou de commutation de peine; 10- il peut, sur toute question d'importance nationale, saisir le peuple par voie de referendum; 11- Il conclut et ratifie les traites internationaux; 12- Il décerne les décorations, distinctions et titres honorifiques d'État. (6) Loi   n°   08-19   du   17   Dhou   El   Kaada   1429   correspondant   au   15   novembre   2008   portant   révision constitutionnelle. ( ajout ou amendement des points 5, 6 et 7 suite au réaménagement interne du pouvoir
-
-- exécutif )
+Outre les pouvoirs que lui confèrent expressément d'autres dispositions de la Constitution, le Président de la République jouit des pouvoirs et prérogatives suivants :
+1- il est le Chef Suprême de toutes les Forces Armées de la République;
+2- il est responsable de la Défense Nationale;
+3- il arrête et conduit la politique extérieure de la Nation;
+4- il préside le Conseil des Ministres;
+5- il nomme le Chef du Gouvernement et met fin à ses fonctions;
+6- Sous réserve des dispositions de l'article 87 de la Constitution, le Président de la République peut déléguer une partie de ses prérogatives au Premier ministre à l'effet de présider les réunions du Gouvernement;
+7- il peut nommer un ou plusieurs vice-premiers ministres afin d'assister le Premier ministre dans l'exercice de ses fonctions et met fin à leurs fonctions;
+8- il signe les décrets présidentiels;
+9- il dispose du droit de grâce, du droit de remise ou de commutation de peine;
+10- il peut, sur toute question d'importance nationale, saisir le peuple par voie de référendum;
+11- Il conclut et ratifie les traités internationaux;
+12- Il décerne les décorations, distinctions et titres honorifiques d'État.
+(6) Loi n° 08-19 du 17 Dhou El Kaada 1429 correspondant au 15 novembre 2008 portant révision constitutionnelle.
+( ajout ou amendement des points 5, 6 et 7 suite au réaménagement interne du pouvoir exécutif )
 
 [[END OF PAGE 10]]
 
@@ -564,7 +561,7 @@ Le Président de la République nomme:
 
 2- aux emplois civils et militaires de l'État;
 
-3- aux désignations arrêtées en Conseil des Ministres ;`
+3- aux désignations arrêtées en Conseil des Ministres ;
 
 4- le Président du Conseil d'État;
 
