@@ -44,7 +44,8 @@ https://www.lawandnorthkorea.com/lawsblog/education-law-2015
 
 Education Law of the Democratic People's Republic of Korea (2015) - Law and North Korea
 
-The socialist education system that has been established in the Democratic People's Republic of Korea is the noble gains our people have accomplished in the struggle to construct a new society. The State shall further consolidate and ceaselessly develop the socialist education system. L A W   A N D   N O R T H   K O R E A   YOUR SINGLE SOURCE OF DPRK LAWS IN ENGLISH (/)
+The socialist education system that has been established in the Democratic People's Republic of Korea is the noble gains our people have accomplished in the struggle to construct a new society. The State shall further consolidate and ceaselessly develop the socialist education system.
+L A W   A N D   N O R T H   K O R E A   YOUR SINGLE SOURCE OF DPRK LAWS IN ENGLISH (/)
 
 ### Article 3 (Principle of embodying basic theories of socialist pedagogy)
 
@@ -143,7 +144,8 @@ Education Law of the Democratic People's Republic of Korea (2015) - Law and Nort
 
 ### Article 19 (Basic requirements to strongly manage education institutions and education workers)
 
-Education institutions are the base for education work and education workers are in charge of education work. Education guidance institutions and relevant authorities shall produce different education institutions in conformity with the purposes of education and shall strongly manage a lineup of education workers to smoothly guarantee education work. L A W   A N D   N O R T H   K O R E A   YOUR SINGLE SOURCE OF DPRK LAWS IN ENGLISH (/)
+Education institutions are the base for education work and education workers are in charge of education work. Education guidance institutions and relevant authorities shall produce different education institutions in conformity with the purposes of education and shall strongly manage a lineup of education workers to smoothly guarantee education work.
+L A W   A N D   N O R T H   K O R E A   YOUR SINGLE SOURCE OF DPRK LAWS IN ENGLISH (/)
 
 ### Article 20 (Classification of education institutions)
 
@@ -163,7 +165,7 @@ Operating costs of education institutions shall be guaranteed by the budget of t
 
 ### Article 24 (Duties of education institutions)
 
-Education institutions shall regularize and standardize education administration work, manage the education environment in conformity with pedagogical requirements, and manage building and planning in a culturally hygienic way.
+Education institutions shall regularize and standardize education administration work, manage the education environment in conformity with pedagogical requirements, and manage building and planting in a culturally hygienic way.
 
 ### Article 25 (Education workers and their qualifications)
 
@@ -288,7 +290,8 @@ https://www.lawandnorthkorea.com/lawsblog/education-law-2015
 
 Education Law of the Democratic People's Republic of Korea (2015) - Law and North Korea
 
-The Cabinet and local political institutions may divide up sponsorship work to institutions, enterprises and organizations to strengthen the material and technical foundations of education institutions. Institutions, enterprises and organizations that have been divided sponsorship work must actively help the relevant education institution materially and with labour. L A W   A N D   N O R T H   K O R E A   YOUR SINGLE SOURCE OF DPRK LAWS IN ENGLISH (/)
+The Cabinet and local political institutions may divide up sponsorship work to institutions, enterprises and organizations to strengthen the material and technical foundations of education institutions. Institutions, enterprises and organizations that have been divided sponsorship work must actively help the relevant education institution materially and with labour.
+L A W   A N D   N O R T H   K O R E A   YOUR SINGLE SOURCE OF DPRK LAWS IN ENGLISH (/)
 
 ## CHAPTER VI. GUIDANCE AND CONTROL OVER EDUCATION WORK
 
@@ -334,7 +337,9 @@ https://www.lawandnorthkorea.com/lawsblog/education-law-2015
 
 Education Law of the Democratic People's Republic of Korea (2015) - Law and North Korea
 
-Responsible workers of institutions, enterprises and organizations and individual citizens who cause grave consequences in education work by violating this law shall have administrative or criminal liability imposed depending on the gravity. Last updated 28 July 2020 L A W   A N D   N O R T H   K O R E A   YOUR SINGLE SOURCE OF DPRK LAWS IN ENGLISH (/)
+Responsible workers of institutions, enterprises and organizations and individual citizens who cause grave consequences in education work by violating this law shall have administrative or criminal liability imposed depending on the gravity.
+L A W   A N D   N O R T H   K O R E A   YOUR SINGLE SOURCE OF DPRK LAWS IN ENGLISH (/)
+Last updated 28 July 2020
 
 Scroll to Top
 
@@ -348,7 +353,7 @@ Law and North Korea is a resource by Daye Gang. Daye is a barrister at the Victo
 
 We are an unfunded project. All donations are gratefully accepted to maintain this resource.
 
-Laws (https://www.lawandnorthkorea.com/laws)      Method & Glossary (https://www.lawandnorthkorea.com/methodand-glossary)      Blog (https://www.lawandnorthkorea.com/blog)      About (https://www.lawandnorthkorea.com/about) Contact (https://www.lawandnorthkorea.com/contact)
+Laws (https://www.lawandnorthkorea.com/laws)      Method & Glossary (https://www.lawandnorthkorea.com/method-and-glossary)      Blog (https://www.lawandnorthkorea.com/blog)      About (https://www.lawandnorthkorea.com/about) Contact (https://www.lawandnorthkorea.com/contact)
 
 Powered by Squarespace (http://www.squarespace.com? channel=word_of_mouth&subchannel=customer&source=footer&campaign=4fd1028ee4b02be53c65dfb3)
 
