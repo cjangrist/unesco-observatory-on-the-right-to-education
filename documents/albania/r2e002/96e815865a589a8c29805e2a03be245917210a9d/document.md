@@ -151,6 +151,14 @@ Sistemi  arsimor  parauniversitar  mbështetet  në  traditën  e  arsimit  shqi
 
 [[START OF PAGE 4]]
 
+- Në  sistemin  arsimor  parauniversitar  garantohet  e  drejta  e  organizimit  të  nxënësve, mësuesve  dhe  prindërve  për  të  mbrojtur  të  drejtat  e  tyre,  si  dhe  për  të  dhënë  ndihmesë  në mbarëvajtjen e institucionit.
+
+- Shërbimi arsimor mbështetet dhe vlerësohet mbi bazën e standardeve. Vlerësimi është i brendshëm dhe i jashtëm.
+
+#### Neni 7
+
+##### Laiciteti
+
 - Arsimi parauniversitar është laik.
 
 - Përjashtim bëjnë ato institucione arsimore që themelohen nga bashkësi fetare të njohura me ligj, sipas përcaktimeve të nenit 42 pika 4 të këtij ligji.
@@ -180,14 +188,6 @@ Në  institucionet arsimore, gjuha e arsimimit është gjuha shqipe,  përveç r
 ##### Arsimimi për fëmijët shqiptarë jashtë vendit
 
 Ministria,  në  bashkëpunim  me  përfaqësitë  diplomatike  të  Republikës  së  Shqipërisë  dhe institucione të tjera shtetërore, mbështet zbatimin e programeve të posaçme për mësimin e gjuhës shqipe  dhe  njohjen  e  trashëgimisë  kulturore  shqiptare  për  fëmijët  e  diasporës,  në  përputhje  me legjislacionin shqiptar.
-
-- Në  sistemin  arsimor  parauniversitar  garantohet  e  drejta  e  organizimit  të  nxënësve, mësuesve  dhe  prindërve  për  të  mbrojtur  të  drejtat  e  tyre,  si  dhe  për  të  dhënë  ndihmesë  në mbarëvajtjen e institucionit.
-
-- Shërbimi arsimor mbështetet dhe vlerësohet mbi bazën e standardeve. Vlerësimi është i brendshëm dhe i jashtëm.
-
-#### Neni 7
-
-##### Laiciteti
 
 4405
 
@@ -250,7 +250,9 @@ Format e arsimimit në shkolla janë:
 #### Neni 17
 ##### Arsimimi në kushtet e shtëpisë
 
-4406 Arsimimi në kushtet e shtëpisë ofrohet në raste të veçanta, për të gjitha klasat e arsimit bazë ose  vetëm  për  disa  prej  tyre.  Ministri  përcakton  rastet  e  veçanta,  kriteret  dhe  procedurat  për arsimimin në kushtet e shtëpisë.
+Arsimimi në kushtet e shtëpisë ofrohet në raste të veçanta, për të gjitha klasat e arsimit bazë ose  vetëm  për  disa  prej  tyre.  Ministri  përcakton  rastet  e  veçanta,  kriteret  dhe  procedurat  për arsimimin në kushtet e shtëpisë.
+
+4406
 
 [[END OF PAGE 5]]
 
@@ -967,6 +969,18 @@ Arsimi i mesëm i lartë përfundon me provimet e maturës shtetërore. Në prov
 
 [[START OF PAGE 20]]
 
+- mosarritje  të  nxënësve,  të  përcaktuara  në  mënyrë  objektive,  si  testimet  e  drejtorisë  së institucionit  ose  të  njësisë  arsimore  vendore,  rezultatet  në  provimet  kombëtare  dhe  vlerësimi  i Inspektoratit Shtetëror të Arsimit.
+
+- Drejtori i institucionit arsimor publik vendos largimin e tij pas konsultimit me komisionin e përmendur në pikën 1 të këtij neni, sipas procedurave të përcaktuara me udhëzim të ministrit.
+
+## KREU X
+
+### TË DREJTAT DHE DETYRAT E NXËNËSVE DHE PRINDËRVE
+
+#### Neni 61
+
+##### Të drejtat dhe detyrat e nxënësit
+
 - Nxënësi ka të drejtë:
 
 - të përzgjedhë një institucion arsimor, publik ose privat;
@@ -1010,18 +1024,6 @@ Arsimi i mesëm i lartë përfundon me provimet e maturës shtetërore. Në prov
 - të  informohet  për  veprimtarinë  e  fëmijës  së  tij  në  institucion  dhe  të  japë  pëlqim  për veprimtaritë plotësuese dhe jashtëshkollore që organizon shkolla;
 
 - ç)  të  vihet  në  dijeni    për  drejtimet  kryesore  të  veprimtarisë  së  institucionit  dhe  arritjet  e institucionit në krahasim me institucione të ngjashme.
-
-- mosarritje  të  nxënësve,  të  përcaktuara  në  mënyrë  objektive,  si  testimet  e  drejtorisë  së institucionit  ose  të  njësisë  arsimore  vendore,  rezultatet  në  provimet  kombëtare  dhe  vlerësimi  i Inspektoratit Shtetëror të Arsimit.
-
-- Drejtori i institucionit arsimor publik vendos largimin e tij pas konsultimit me komisionin e përmendur në pikën 1 të këtij neni, sipas procedurave të përcaktuara me udhëzim të ministrit.
-
-## KREU X
-
-### TË DREJTAT DHE DETYRAT E NXËNËSVE DHE PRINDËRVE
-
-#### Neni  61
-
-##### Të drejtat dhe detyrat e nxënësit
 
 4421
 
