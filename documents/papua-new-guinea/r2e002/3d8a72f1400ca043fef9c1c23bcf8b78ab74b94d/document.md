@@ -1,5 +1,6 @@
 [[START OF PAGE 1]]
-
+Papua New Guinea
+Department of Education
 # GENDER EQUITY IN EDUCATION POLICY
 
 ## Guidelines for Implementation
@@ -20,7 +21,11 @@ Reprinted 2009, supported by the Australian Government under the Education Capac
 
 Photo credit: DoE, Britiki Primary School, East Sepik Province (front), Rabe Primary School, Milne Bay Province (back)
 
-Designed by Nicola Harte Designs Printed by Tropic Print
+Designed by Nicola Harte Designs
+Printed by Tropic Print
+
+Australian Government
+AusAID
 
 [[END OF PAGE 2]]
 
@@ -36,7 +41,11 @@ Developing  gender  equity  in  schools  and  a  curriculum  which  supports  th
 
 I urge all educational authorities to work together in implementing this policy so that all students receive the best possible education.
 
-Dr. JOSEPH PAGELIO Secretary for Education
+Dr. JOSEPH PAGELIO
+Secretary for Education
+
+Papua New Guinea
+Department of Education
 
 Gender Equity in Education Policy
 
@@ -58,7 +67,7 @@ The  Education  system  of  Papua  New  Guinea  has  the  responsibility  to  pr
 
 To  assist  personnel  to  understand  terms  in  this  policy,  'gender'  refers  to  those behaviours and attitudes which are cultural accepted as appropriate ways of being a woman (femininity) and ways of being a man (masculinity). The sex of a person is biologically determined, where ways of being a man or a woman are learned: they are constructed, reinforced, maintained and reconstructed over time through social and cultural practices. Such constructions of gender vary across cultures, social class and time.
 
-Equity means fairness and without bias. In social exchange fairness exists when persons who have made the largest contributions receive relatively large rewards, those  who  have  made  small  contributions  receive  small  rewards,  and  so  on. In a social context equity also involves conscience or principles of natural justice. This  can  result  in  people  being  given  different  treatment  if  this  is  considered fair  or  just.  Therefore  some  people  may  be  recognised  is  more  deserving than  others.  The  basis  on  which  preferential  treatment  is  made  is  important  in judging whether a case is just or unjust.  It can vary according to basic beliefs or political persuasion.
+Equity means fairness and without bias. In social exchange fairness exists when persons who have made the largest contributions receive relatively large rewards, those  who  have  made  small  contributions  receive  small  rewards,  and  so  on. In a social context equity also involves conscience or principles of natural justice. This  can  result  in  people  being  given  different  treatment  if  this  is  considered fair  or  just.  Therefore  some  people  may  be  recognised  is  more  deserving than  others.  The  basis  on  which  preferential  treatment  is  made  is  important  in
 
 > 1 All schools in Papua New Guinea should ensure that what is being taught and learned does justice to girls and women, as well as boys and men, taking account of and respecting the range of cultural, linguistic, socio-economic and positive differences found in society in Papua New Guinea.
 
@@ -69,6 +78,8 @@ Gender Equity in Education Policy
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+judging whether a case is just or unjust. It can vary according to basic beliefs or political persuasion.
 
 Equity  is  not  maintained  where  there  is  discrimination.  Discrimination  involves treating the sexes differently in ways that suggest that one is inherently inferior to  the  other.  Being  treated  differently  in  areas  of  learning  and  related  activities can and does affect the distribution of political, economic and social benefits and influence.
 
@@ -84,7 +95,7 @@ The Gender Equity in Education Policy aims to develop every individual to her or
 
 The Constitution of Papua New Guinea embodies the government's commitment to  equality  for  both  women  and  men  within  family,  community  and  society.  It supports the idea of human development, which encourages every person to be dynamically involved in the process of freeing himself or herself from every form of domination and oppression so that each man or woman will have the opportunity to develop as a whole person in relation to others.
 
-The  Government  subscribes  to  and  has  endorsed  a  range  of  international Conventions  such  as  the  United  Nations  Declaration  of  Human  Rights  (1962), the United Nations Convention on the Rights of the Child (1989), Education for All  (United  Nations  Declaration  1990)  and  the  Beijing  Declaration  (1995)  which called for the mainstreaming of gender issues. The Papua New Guinea Platform for  Action  was  written  as  a  result  of  the  information  in  these  documents. The National Education Plan 2005-2014 provides a wide range of approaches to address issues of gender equity.
+The  Government  subscribes  to  and  has  endorsed  a  range  of  international Conventions  such  as  the  United  Nations  Declaration  of  Human  Rights  (1962), the United Nations Convention on the Rights of the Child (1989), Education for All  (United  Nations  Declaration  1990)  and  the  Beijing  Declaration  (1995)  which called for the mainstreaming of gender issues. The Papua New Guinea Platform
 
 > 2 The Gender Equity in Education Policy aims to develop every individual to her or his  full potential.
 
@@ -95,6 +106,10 @@ Gender Equity in Education Policy
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+for Action was written as a result of the information in these documents.
+
+The National Education Plan 2005-2014 provides a wide range of approaches to address issues of gender equity.
 
 The Education Reform aims to develop in all students the full potential of their talents and abilities. This reform aims to promote self-confidence, optimism and self-esteem. Education must prepare young Papua New Guineans to be active and informed citizens, flexible  and  adaptable  to  meet  the  changing  social  and economic needs of the country. Education must develop skills in a range of learning areas. It must promote respect for others, for learning and for the diverse cultural heritage of this country. It is essential that all students including those in single-sex schools participate fully in programs in schools designed to meet the objectives of the National Policy. The Gender Equity in Education Policy has an important role in enhancing and promoting these goals.
 
