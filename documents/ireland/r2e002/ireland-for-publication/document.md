@@ -6,17 +6,17 @@
 
 ### A. About the 1974 Recommendation
 
-- UNESCO's 1974 Recommendation concerning Education for International Understanding,  Co-operation  and  Peace  and  Education  relating  to  Human  Rights  and Fundamental  Freedoms 1 (the  ' 1974  Recommendation' )  aims  to  promote  international education and world peace through understanding, solidarity and cooperation. It was adopted on 19 November 1974 by the General Conference of UNESCO at its 18th session.
+1. UNESCO’s 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms¹ (the “1974 Recommendation”) aims to promote international education and world peace through understanding, solidarity and cooperation. It was adopted on 19 November 1974 by the General Conference of UNESCO at its 18th session.
 
-- The 1974 Recommendation applies to formal, non-formal and informal education and to all levels, from pre-primary to tertiary and adult education and lifelong learning. The General Conference recommended ' that Member States should apply ' the provisions included in the 1974 Recommendation ' by taking whatever legislative or other steps ' that provide institutional (e.g.  policies  and  legal  frameworks)  and  pedagogical  (e.g.  curricula,  teacher  training, educational materials, equipment, and student assessment) support for its  implementation, based on the ' objectives ', referred to in paragraph 4 of the 1974 Recommendation , ' regarded as major guiding principles of education policy ' including: an international dimension and a global perspective on education, cultural diversity, interdependence, communication, rights and responsibilities, international solidarity and cooperation, and problem solving.
+2. The 1974 Recommendation applies to formal, non-formal and informal education and to all levels, from pre-primary to tertiary and adult education and lifelong learning. The General Conference recommended “that Member States should apply” the provisions included in the 1974 Recommendation “by taking whatever legislative or other steps” that provide institutional (e.g. policies and legal frameworks) and pedagogical (e.g. curricula, teacher training, educational materials, equipment, and student assessment) support for its implementation, based on the “objectives”, referred to in paragraph 4 of the 1974 Recommendation, “regarded as major guiding principles of education policy” including: an international dimension and a global perspective on education, cultural diversity, interdependence, communication, rights and responsibilities, international solidarity and cooperation, and problem solving.
 
-- Today, the principles of the 1974 Recommendation apply equally well to Education for Sustainable Development (ESD) and to Global Citizenship Education (GCED) and therefore represent a powerful tool for promoting the 2030 Agenda for Sustainable Development and in particular SDG Target 4.7 on the promotion of sustainable development and global citizenship through education, Target 12.8 on access to information on sustainable development and Target 13.3 on climate change education.
+3. Today, the principles of the 1974 Recommendation apply equally well to Education for Sustainable Development (ESD) and to Global Citizenship Education (GCED) and therefore represent a powerful tool for promoting the 2030 Agenda for Sustainable Development and in particular SDG Target 4.7 on the promotion of sustainable development and global citizenship through education, Target 12.8 on access to information on sustainable development and Target 13.3 on climate change education.
 
-- The  General  Conference  in  its  39th  session  recommended  the  use  of  the 1974 Recommendation reporting process to support the implementation and monitoring of Target 4.7 of Sustainable Development Goal 4 (39 C/Resolution 79). The UNESCO Executive Board at its 209th session approved the use of the current guidelines for both the monitoring of the 1974  Recommendation and  the  collection  of  data  needed  for  the  following  global  SDG indicator for which UNESCO is custodian (209 EX/Decision 18.II):
+4. The General Conference in its 39th session recommended the use of the 1974 Recommendation reporting process to support the implementation and monitoring of Target 4.7 of Sustainable Development Goal 4 (39 C/Resolution 79). The UNESCO Executive Board at its 209th session approved the use of the current guidelines for both the monitoring of the 1974 Recommendation and the collection of data needed for the following global SDG indicator for which UNESCO is custodian (209 EX/Decision 18.II):
 
-- 4.7.1,  12.8.1  and 13.3.1: The extent to which (i) global citizenship education and (ii) education  for  sustainable  development  are  mainstreamed  in  (a)  national  education policies; (b) curricula; (c) teacher education and (d) student assessment.
+4.7.1, 12.8.1 and 13.3.1: The extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education and (d) student assessment.
 
-- Questions marked with an asterisk (*) will be used in the calculation of the respective indicators  ( Table  1 ).  As  approved  by  the  Inter-Agency  and  Expert  Group  on  the  SDG Indicators, the indicators will be calculated for primary and secondary education only.
+5. Questions marked with an asterisk (*) will be used in the calculation of the respective indicators (Table 1). As approved by the Inter-Agency and Expert Group on the SDG Indicators, the indicators will be calculated for primary and secondary education only.
 
 Table 1 Questions used in the calculation of the global SDG indicator for Targets 4.7, 12.8 and 13.3
 
@@ -24,11 +24,7 @@ Policies | Curricula | Teacher education | Student assessment
 --- | --- | --- | ---
 A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
-> http://portal.unesco.org/en/ev.php-
-
-1
-
-URL_ID=13088&URL_DO=DO_TOPIC&URL_SECTION=201.html
+> 1 http://portal.unesco.org/en/ev.php-URL_ID=13088&URL_DO=DO_TOPIC&URL_SECTION=201.html
 
 [[END OF PAGE 1]]
 
@@ -36,19 +32,19 @@ URL_ID=13088&URL_DO=DO_TOPIC&URL_SECTION=201.html
 
 ### B. Reporting obligations
 
-- The General Conference, at its 18th session, when adopting the 1974 Recommendation recommended ' that Member States submit […] reports concerning the action taken by them in pursuance of this recommendation '. Moreover, in accordance with Article VIII of UNESCO's Constitution ' Each Member State shall submit to the Organization […] reports […] on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4 .'
+6. The General Conference, at its 18th session, when adopting the 1974 Recommendation recommended “that Member States submit […] reports concerning the action taken by them in pursuance of this recommendation”. Moreover, in accordance with Article VIII of UNESCO’s Constitution “Each Member State shall submit to the Organization […] reports […] on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4.”
 
-- Thus, all UNESCO Member States are expected to report on the steps they have taken  to  implement  the 1974  Recommendation preferably  by  completing  the  following questionnaire. Such reporting takes place every four years.
+7. Thus, all UNESCO Member States are expected to report on the steps they have taken to implement the 1974 Recommendation preferably by completing the following questionnaire. Such reporting takes place every four years.
 
 ## II. Guidelines for completion of the questionnaire
 
-- This  questionnaire  and  its  accompanying  guidelines  are  addressed  to  Ministers responsible for relations with UNESCO. The questionnaire is typically completed by Ministries of Education and other government authorities responsible for education. Responses should cover, as far as possible, education at all levels of government, including sub-national levels where applicable as well as education outside the government sector.
+8. This questionnaire and its accompanying guidelines are addressed to Ministers responsible for relations with UNESCO. The questionnaire is typically completed by Ministries of Education and other government authorities responsible for education. Responses should cover, as far as possible, education at all levels of government, including sub-national levels where applicable as well as education outside the government sector.
 
-- National respondents are encouraged to consult widely both within, across and beyond government, including with Ministries of Environment, with national human rights institutions, the education sector, civil society partners and others, as necessary, to gather the information needed to complete the questionnaire.
+9. National respondents are encouraged to consult widely both within, across and beyond government, including with Ministries of Environment, with national human rights institutions, the education sector, civil society partners and others, as necessary, to gather the information needed to complete the questionnaire.
 
-- Responses to the seventh consultation should cover:
+10. Responses to the seventh consultation should cover:
 
-(i)      the time period 2017-2020;
+(i) the time period 2017-2020;
 
 (ii) education at all levels of formal education from pre-primary to tertiary education as well as non-formal education;
 
@@ -56,7 +52,7 @@ URL_ID=13088&URL_DO=DO_TOPIC&URL_SECTION=201.html
 
 (iv) where possible, education outside the government sector.
 
-- To assist countries in responding to this questionnaire, UNESCO has developed the following  set  of  global  citizenship  education  and  education  for  sustainable  development themes. The list is based on a review of current common practices in many countries as well as a review of relevant literature. While the terms ESD and GCED may be used differently in some countries, the list of themes typically captures what are seen as key elements of Target 4.7.  Please  refer  to  the  definitions  of  key  terms  in Section  III before  completing  the questionnaire.
+11. To assist countries in responding to this questionnaire, UNESCO has developed the following set of global citizenship education and education for sustainable development themes. The list is based on a review of current common practices in many countries as well as a review of relevant literature. While the terms ESD and GCED may be used differently in some countries, the list of themes typically captures what are seen as key elements of Target 4.7. Please refer to the definitions of key terms in Section III before completing the questionnaire.
 
 [[END OF PAGE 2]]
 
@@ -64,69 +60,71 @@ URL_ID=13088&URL_DO=DO_TOPIC&URL_SECTION=201.html
 
 ### Global citizenship education and education for sustainable development
 
-- cultural diversity and tolerance
+1. cultural diversity and tolerance
 
-- 1.1 international or intercultural understanding, solidarity and cooperation
+1.1 international or intercultural understanding, solidarity and cooperation
 
-- 1.2 intercultural and interreligious dialogue
+1.2 intercultural and interreligious dialogue
 
-- 1.3 local, national and/or global citizenship
+1.3 local, national and/or global citizenship
 
-- gender equality education
+2. gender equality education
 
-- 2.1 gender-based equal opportunities
+2.1 gender-based equal opportunities
 
-- 2.2 gender equality and justice
+2.2 gender equality and justice
 
-- 2.3 gender roles, identity and stereotypes
+2.3 gender roles, identity and stereotypes
 
-- human rights education
+3. human rights education
 
-- 3.1 equality and non-discrimination based on race, colour, language, religion, disability,  political  or  other  opinion,  national  or social  origin,  birth  or  other status
+3.1 equality and non-discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status
 
-- 3.2 human rights values, human dignity, justice, inclusion and participation
+3.2 human rights values, human dignity, justice, inclusion and participation
 
-- 3.3 respect  for  human  rights  and  fundamental  freedoms  (as  outlined  in international conventions and declarations)
+3.3 respect for human rights and fundamental freedoms (as outlined in international conventions and declarations)
 
-- peace and non-violence
+4. peace and non-violence
 
-- 4.1 friendly relations among peoples and nations 4.2 challenging negative stereotypes, promoting peaceful solutions, learning to live together, including others and preventing violent extremism preventing all forms of violence including bullying, verbal abuse and gender-
+4.1 friendly relations among peoples and nations
 
-- 4.3 based violence
+4.2 challenging negative stereotypes, promoting peaceful solutions, learning to live together, including others and preventing violent extremism
 
-- climate change education
+4.3 preventing all forms of violence including bullying, verbal abuse and gender-based violence
 
-- 5.1 mitigation
+5. climate change education
 
-- 5.2 adaptation
+5.1 mitigation
 
-- 5.3 impact reduction
+5.2 adaptation
 
-- 5.4 early warning
+5.3 impact reduction
 
-- environmental sustainability
+5.4 early warning
 
-- 6.1 caring for the planet, protecting nature
+6. environmental sustainability
 
-- 6.2 environmental justice
+6.1 caring for the planet, protecting nature
 
-- 6.3 biodiversity, water
+6.2 environmental justice
 
-- human survival and well-being
+6.3 biodiversity, water
 
-- 7.1 environmental health as it pertains to human well-being, disaster risk reduction
+7. human survival and well-being
 
-- 7.2 health of the planet for future generations
+7.1 environmental health as it pertains to human well-being, disaster risk reduction
 
-- 7.3 sustainable cities and communities
+7.2 health of the planet for future generations
 
-- sustainable consumption and production
+7.3 sustainable cities and communities
 
-- 8.1 responsible and sustainable lifestyles
+8. sustainable consumption and production
 
-- 8.2 green economy, green jobs
+8.1 responsible and sustainable lifestyles
 
-- 8.3 sustainable energy
+8.2 green economy, green jobs
+
+8.3 sustainable energy
 
 [[END OF PAGE 3]]
 
@@ -143,7 +141,7 @@ Themes of global citizenship and education for sustainable development
 4. Peace and non-violence | Education about peace and peace-building, mediation, conflict prevention and resolution, non-violence, reconciliation and living together peacefully. It includes advocating for friendly relations among peoples and nations, challenging negative stereotypes, promoting peaceful solutions, learning to live together and preventing violent extremism and other forms of violence including bullying.
 5. Climate change education | Education to help people, in particular youth, understand, address, mitigate, and adapt to the impacts of climate change. It encourages changes in attitudes and behaviours needed to put the world on a more sustainable development path, and build a new generation of climate change-aware citizens. It covers various responses to climate change including mitigation, adaptation, impact reduction and early warning.
 6. Environmental sustainability | Education about responsible interactions with the environment to avoid depletion or degradation and to promote environmental quality and health. It includes, caring for the planet and protecting nature, environmental justice, biodiversity and water.
-7. Human survival and well- being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
+7. Human survival and well-being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
 
 [[END OF PAGE 4]]
 
@@ -245,27 +243,29 @@ An audit of the primary and post primary curricula for opportunities and linkage
 
 A National Access Plan steering committee is responsible for monitoring progress and provide advice on matters pertaining to the implementation of the National Access Plan for 2015-2021.  Representatives on the steering group comprise of key stakeholders who are involved in promoting equity of access to higher education. These include Department representatives, the HEA, SOLAS, THEA, IUA, ETBI, USI, NCSE, AHEAD, PAVEE Point, AONTAS, Representatives of Access Officers, Disability Officers and Matures Students.
 
-The Mitigating Educational Disadvantaged Working Group (MED) was one of a number of tertiary education groups established as a result of the Covid-19 pandemic. The MED group was set up in recognition of the effects that the Covid-19 pandemic would have on vulnerable learners in the further and higher education sectors. The group is, therefore, ad hoc in nature.
+The Mitigating Educational Disadvantaged Working Group (MED) was one of a number of tertiary education groups established as a result of the Covid-19 pandemic. The MED group
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
-National  strategy  on  education  for  sustainable  developmentThe  Education  (Admission  to Schools) Act 2018 was signed into law on the 18th July 2018. The Act creates a more parentfriendly, equitable and consistent approach to how school admissions policies operate for all primary and post primary schools.
+was set up in recognition of the effects that the Covid-19 pandemic would have on vulnerable learners in the further and higher education sectors. The group is, therefore, ad hoc in nature.
+
+National strategy on education for sustainable developmentThe Education (Admission to Schools) Act 2018 was signed into law on the 18th July 2018. The Act creates a more parent-friendly, equitable and consistent approach to how school admissions policies operate for all primary and post primary schools.
 
 The National Strategy on Education for Sustainable Development 2014-2020 aims to contribute to the UN Sustainable Development Goals Target 4.7 to ensure that by 2030 'By 2030 'all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation
 
-### *A2 Please indicate which GCED and ESD themes are covered in national or subnational  laws,  legislation  or  legal  frameworks  on  education  by  entering  the appropriate number in each white cell.
+### *A2 Please indicate which GCED and ESD themes are covered in national or sub-national laws, legislation or legal frameworks on education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
 
 National | Sub-national
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Pre- primary | Primary/ secondary | Tertiary | Non- formal | Pre- primary | Primary/ secondary | Tertiary | Non- formal
+Pre-primary | Primary/secondary | Tertiary | Non-formal | Pre-primary | Primary/secondary | Tertiary | Non-formal
 1. | Cultural diversity and tolerance | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 2. | Gender equality | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 3. | Human rights | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
-4. | Peace and non- violence | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
+4. | Peace and non-violence | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 5. | Climate change | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 6. | Environmental sustainability | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 7. | Human survival and well-being | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
@@ -287,7 +287,7 @@ Wellbeing has also been a key aspect of the Junior Cycle Framework. The Departme
 
 Senior cycle education aims to foster an understanding and appreciation of moral, spiritual, aesthetic, social and cultural values that have been distinctive in shaping Irish society. Through their educational experiences, students will learn to understand the values of their own communities, to express their own values, to develop empathy for the values of others, to critically analyse differences in values, and to make ethical decisions. They will also learn to acknowledge and reflect the values of a democratic society, respecting the diverse beliefs and ways of life of others. The principles of senior cycle education inform curriculum planning, development, provision and implementation in schools. They set out the important underpinnings for the curriculum as it is realised in schools. The principles are: Quality, Inclusive education, Continuity, Choice and flexibility, Participation, relevance and enjoyment, Well-being, Creativity and innovation, and Lifelong learning
 
-Our main progress in these areas has come through the revised curriculum at ISCED 1 (since 1999), the Framework for Junior Cycle (2015) and its accompanying focus on studentcentred learning, group work, innovation, etc.
+Our main progress in these areas has come through the revised curriculum at ISCED 1 (since 1999), the Framework for Junior Cycle (2015) and its accompanying focus on student-centred learning, group work, innovation, etc.
 
 We also have a formal Arts in Education charter (2013) with another government department, which has helped to foster a range of initiatives in this field.
 
@@ -311,11 +311,13 @@ Endorsing the principle that all citizens have a fundamental right to access hig
 
 The third National Plan for Equity of Access to Higher Education (2015 - 2021) was launched in December 2015. The vision of the National Access Plan is to ensure that the student body entering into, participating in and completing higher education at all levels reflects the diversity and social mix of Ireland's population.
 
-The Plan identifies the target groups that are currently under-represented in higher education. These include entrants from socio-economic groups that have low participation in higher education, Irish Travellers, students with disabilities, first time mature student entrants, part-time/flexible learners and further education award holders. Lone parents are also included in this grouping.
+The Plan identifies the target groups that are currently under-represented in higher education. These include entrants from socio-economic groups that have low participation in
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+higher education, Irish Travellers, students with disabilities, first time mature student entrants, part-time/flexible learners and further education award holders. Lone parents are also included in this grouping.
 
 Consultations on the next National Access Plan will commence early 2021.
 
@@ -337,11 +339,13 @@ Under the Erasmus+ programme, all participating Irish higher education instituti
 
 IDEA, the Irish Development Education Association, is the national network for Development Education in Ireland and a leading voice for the sector.
 
-The  Sustainable  Development  Goals  and  the  Paris  Agreement  on  Climate  Change,  both adopted in 2015, are having a strong influence on the work of the Development Education sector and will continue to do so in the coming years. The delivery of Development Education in Ireland is now a commitment under the SDGs, and in turn Development Education has a crucial role to play in the realisation of these goals. The Development Education community will also play a crucial role in supporting the goals of the Paris Agreement by continuing to deliver education about the effects of climate change and to shift the discourse from climate change to climate justice. It will also be focusing on raising awareness of acute issues such as migration, while challenging the shift towards extremism by encouraging critical reflection.
+The Sustainable Development Goals and the Paris Agreement on Climate Change, both adopted in 2015, are having a strong influence on the work of the Development Education sector and will continue to do so in the coming years. The delivery of Development Education in Ireland is now a commitment under the SDGs, and in turn Development Education has a
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+
+crucial role to play in the realisation of these goals. The Development Education community will also play a crucial role in supporting the goals of the Paris Agreement by continuing to deliver education about the effects of climate change and to shift the discourse from climate change to climate justice. It will also be focusing on raising awareness of acute issues such as migration, while challenging the shift towards extremism by encouraging critical reflection.
 
 The context for Development Education in Ireland has been affected by recent political, economic and policy-related developments both nationally and internationally. The refugee crisis, climate change and other worldwide challenges such as the economic crisis have brought global justice issues to the fore. Inequality, globally and within countries, has become more extreme. The rise of isolationism and threats posed to multi-literalisms reinforce the importance of education for global citizenship and sustainable development. New technologies are also changing the way we communicate and are reconfiguring our understanding of what is local, who our community is, and what is important in our lives. Development Education in Ireland has a wide reach, enabling the sector to engage with hundreds of thousands of people across all ages and communities throughout the island of Ireland each year. It is now more essential than ever as Irish society strives to understand and constructively react to local and global issues.
 
@@ -359,7 +363,7 @@ https://www.ideaonline.ie/
 
 [[START OF PAGE 15]]
 
-### *A4 Please indicate which GCED and ESD themes are covered in national or subnational education policies, frameworks or strategic objectives affecting each level of education by entering the appropriate number in each white cell
+### *A4 Please indicate which GCED and ESD themes are covered in national or sub-national education policies, frameworks or strategic objectives affecting each level of education by entering the appropriate number in each white cell
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -409,17 +413,19 @@ The Department has also published anti-bullying procedures for schools (2013), a
 
 Important  progress  has  been  made  in  pre-school  and  early  years  education  (ISCED  0/1), including the provision of education-focused inspections. All children can now avail of two free years of state-funded childcare, with implementation of an educational and developmental programme called Aistear. This is premised on the understanding that all children from birth are citizens with rights and responsibilities. Aistear emphasises the importance of children having opportunities to participate in making decisions about matters which affect them. This principle is foundational in the National Children's Strategy (2000).
 
-Through cross and co-curricular delivery. At ISCED 1, a lot of work is done at a crosscurricular level, and even at ISCED 0 ('early years'), there is good provision for pupils' engagement with rights and basic citizenship issues through the Aistear Framework (see above).
+Through cross and co-curricular delivery. At ISCED 1, a lot of work is done at a cross-curricular level, and even at ISCED 0 ('early years'), there is good provision for pupils' engagement with rights and basic citizenship issues through the Aistear Framework (see above).
 
 At ISCED 2 and 3, school culture also fosters students' councils, student participation in decision making and a range of active citizenship possibilities. Our Transition Year for instance, the first year of ISCED 3 for most students, often sees a strong focus on community service, development education and social innovation.
 
-At ISCED 1, Social, Environmental and Scientific Education (SESE) encompasses History, Geography and Science. SESE seeks to generate an appreciation of cultural and historical inheritance and cultivates an atmosphere of equality and opportunity where gender, cultural diversity, minorities and special needs are respected and valued. Prejudice and discrimination are  challenged  while  respect  and  mutual  understanding  are  promoted.  The  curriculum  for Geography in SESE stresses that the subject 'fosters not only their sense of local identity but their sense of being members of national, European and global communities. It encourages them  to  appreciate  the  interdependence  of  individuals,  groups,  and  communities,  and  it promotes  an  understanding  of  and  a  respect  for  the  cultures  and  ways  of  life  of  peoples throughout  the  world.  It  fosters,  too,  an  informed  sense  of  individual  and  community responsibility for environmental care.' D1A
+At ISCED 1, Social, Environmental and Scientific Education (SESE) encompasses History, Geography and Science. SESE seeks to generate an appreciation of cultural and historical inheritance and cultivates an atmosphere of equality and opportunity where gender, cultural diversity, minorities and special needs are respected and valued. Prejudice and discrimination are challenged while respect and mutual understanding are promoted. The curriculum for
 
 5 .
 
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
+
+Geography in SESE stresses that the subject ‘fosters not only their sense of local identity but their sense of being members of national, European and global communities. It encourages them to appreciate the interdependence of individuals, groups, and communities, and it promotes an understanding of and a respect for the cultures and ways of life of peoples throughout the world. It fosters, too, an informed sense of individual and community responsibility for environmental care.’ D1A
 
 The Department also sees an important link between the promotion of human rights, tolerance, equality of opportunity and other aims of the 1974 Recommendation, and the pursuit of literacy and numeracy and other key skills. To that effect, we feel that our National Literacy and Numeracy Strategy (2011), and its Review (2017), along with our Digital Strategy for Schools (2015) are important steps in the battle against inequality and inequity. Development of follow on strategies will be progressed in 2021.
 
@@ -437,13 +443,15 @@ A number of International Development NGOs run programmes for the primary classr
 
 GOAL,  Plan  International  Ireland,  and  ChildFund  Ireland,  provide  classroom  visits  and/or curriculum-linked  resource  material.  Inputs  may  be  linked  to  specific  countries  where  the organisations work, or they may relate to a development specialism (such as gender equality or child health) of the organisation.
 
-The Centre for Human Rights and Citizenship Education (CHRCE) at the DCU Institute of Education and Trócaire have been working in partnership to provide Development Education supports for Early Years and Primary teachers. 'Just Children', an initiative aimed at Early Years Educators, has provided creative storybased activity plans enabling children between the ages of three and six to explore issues of fairness and similarities/differences in a global context. CHRCE and Trócaire also have a partnership in Global Schools: Primary Education for  a  Just  World,  launched  in  2015.  This  project  aims  to  embed  global  learning  and Development Education into primary education across Europe, through Continuing Professional Development (CPD) for teachers, awareness raising, resource development and research. The Global Schools project focuses on the themes of migration and climate change.
+The Centre for Human Rights and Citizenship Education (CHRCE) at the DCU Institute of Education and Trócaire have been working in partnership to provide Development Education supports for Early Years and Primary teachers. 'Just Children', an initiative aimed at Early Years Educators, has provided creative storybased activity plans enabling children between the ages of three and six to explore issues of fairness and similarities/differences in a global
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
-Amnesty International  Ireland  offers  curriculum-linked  Human  Rights  Education  classroom resources, available for use from Junior Infants through to Sixth Class, with each resource building on the knowledge and skills acquired in the previous set of lessons.
+context. CHRCE and Trócaire also have a partnership in Global Schools: Primary Education for a Just World, launched in 2015. This project aims to embed global learning and Development Education into primary education across Europe, through Continuing Professional Development (CPD) for teachers, awareness raising, resource development and research. The Global Schools project focuses on the themes of migration and climate change.
+
+Amnesty International Ireland offers curriculum-linked Human Rights Education classroom resources, available for use from Junior Infants through to Sixth Class, with each resource building on the knowledge and skills acquired in the previous set of lessons.
 
 The  official  programme  of  support  for  Development  Education  at  post-primary  level  is WorldWise Global Schools (WWGS), funded through a strategic partnership with Irish Aid and implemented by a consortium consisting of Gorta Self Help Africa, Concern Worldwide and the City of Dublin ETB Curriculum Development Unit. The aim of WWGS is to increase the number of schools engaging with Development Education nationwide, as well as the quality of  that  engagement.  WWGS  seeks  to  foster  a  shared  and  consistent  understanding  of Development Education theory and practice at post-primary level, based on knowledge, skills, values, attitudes and active teaching and learning methodologies.
 
@@ -466,7 +474,7 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 
 #### *B3 Please indicate in which subjects or fields of study GCED and ESD are taught in primary and secondary education by entering the appropriate number in each white cell.
 
-Cultural diversity and tolerance | Gender equality | Human rights | Peace and non- violence | Climate change | Environmental sustainability | Human survival and well- being | Sustainable consumption and production
+Cultural diversity and tolerance | Gender equality | Human rights | Peace and non-violence | Climate change | Environmental sustainability | Human survival and well-being | Sustainable consumption and production
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Arts | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9
 Civics, civil or citizenship education | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
@@ -499,11 +507,11 @@ Whole school approach (e.g. GCED/ESD are integrated in the school ethos, managem
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | --- | ---
 3. | Human rights education | 1 | 1 | 1 | 1
-3.1 | equality and non- discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status | 1 | 1 | 1 | 1
+3.1 | equality and non-discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status | 1 | 1 | 1 | 1
 3.2 | human rights values, human dignity, justice, inclusion and participation | 1 | 1 | 1 | 1
 3.3 | respect for human rights and fundamental freedoms (as outlined in international conventions and declarations) | 1 | 1 | 1 | 1
 
-### C Teacher education (including the training of trainers and educators) (paras 4 and 3337 of the 1974 Recommendation )
+### C Teacher education (including the training of trainers and educators) (paras 4 and 33-37 of the 1974 Recommendation)
 
 Initial Teacher Education at Primary Level:
 
@@ -513,17 +521,21 @@ The DICE (Development and Intercultural Education) Project is a national educati
 
 A number of courses relevant to the 1974 UNESCO Recommendation are provided in adult and  further  education,  but  at  the  discretion  of  individual  providers  rather  than  as  a  State provision. The State now offers two free years of pre-school provision for all children, and has increased its expectations in this sector in terms of teacher qualifications, delivery of literacy and numeracy and the Aistear Framework.
 
-Teacher  training  at  both  primary  and  secondary  levels  focuses  on  content  e.g.  Social, Personal and Health Education but also on methodologies which promote rights, teamwork, taking individual responsibility for one's own learning and behaviour, counteracting bullying, understanding and encouraging diversity and tolerance DICE has been successful in embedding Development Education and Intercultural Education within the Bachelor of Education and Professional Master of Education programmes at primary level, including through mandatory and elective modules and integrated learning. While the terminology used and themes taught across partner institutions vary, with specific materials and  approaches  linked  to  the  lecturer's  expertise  and  institutional priority areas,  all programmes are underpinned by a common set of values and concepts. A range of global and intercultural themes are explored within modules and lecturers are mindful of the need to: deepen knowledge of the relevant themes; explore and reflect on students' perspectives and those  of  others;  and  model  the  introduction  of  topics  using  participatory  methodologies, applicable to the primary school classroom.
+Teacher training at both primary and secondary levels focuses on content e.g. Social, Personal and Health Education but also on methodologies which promote rights, teamwork,
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
 
-#### C1b. Please provide examples of teacher training policies or curricula in which GCED and/or ESD are mainstreamed and, where possible, web links to relevant documents. If possible,  include  examples  related  to initial  training  and  to  continuing  professional development .
+taking individual responsibility for one’s own learning and behaviour, counteracting bullying, understanding and encouraging diversity and tolerance
+
+DICE has been successful in embedding Development Education and Intercultural Education within the Bachelor of Education and Professional Master of Education programmes at primary level, including through mandatory and elective modules and integrated learning. While the terminology used and themes taught across partner institutions vary, with specific materials and approaches linked to the lecturer’s expertise and institutional priority areas, all programmes are underpinned by a common set of values and concepts. A range of global and intercultural themes are explored within modules and lecturers are mindful of the need to: deepen knowledge of the relevant themes; explore and reflect on students’ perspectives and those of others; and model the introduction of topics using participatory methodologies, applicable to the primary school classroom.
+
+#### C1b. Please provide examples of teacher training policies or curricula in which GCED and/or ESD are mainstreamed and, where possible, web links to relevant documents. If possible, include examples related to initial training and to continuing professional development.
 
 A Taskforce on Active Citizenship report (2007) was an important stimulus to recent work relevant to the UNESCO 1974 Recommendation. More specifically, the Department of Education has engaged with our National Council for Curriculum and Assessment (NCCA) and education stakeholders in curricular projects. It supports the work of agencies such as, Junior Cycle for Teachers, the Professional Development Service for Teachers, The National Council for Special Education and the Teaching Council - all of these have respective roles in developing resources, training and recognising the qualifications of teachers.
 
-The work includes a focus on children's rights and human rights, teaching post-conflict and controversial issues. A number of initiatives have identified improving North-South understanding on our own island as a priority, under Education for Reconciliation and various 'Peace' programmes. The Department has also taken a lead role in developing the national ESD strategy, the Digital Strategy for Schools and the National Literacy and Numeracy Strategy. We also participate in international projects and surveys which promote the aims of the 1974 Recommendation e.g. 2011 ICCS report, ET2020 working group, the Working Group on the Implementation of the Council Declaration on the Fight against AntiSemitism,, membership of the International Holocaust Remembrance Alliance.
+The work includes a focus on children's rights and human rights, teaching post-conflict and controversial issues. A number of initiatives have identified improving North-South understanding on our own island as a priority, under Education for Reconciliation and various 'Peace' programmes. The Department has also taken a lead role in developing the national ESD strategy, the Digital Strategy for Schools and the National Literacy and Numeracy Strategy. We also participate in international projects and surveys which promote the aims of the 1974 Recommendation e.g. 2011 ICCS report, ET2020 working group, the Working Group on the Implementation of the Council Declaration on the Fight against Anti-Semitism,, membership of the International Holocaust Remembrance Alliance.
 
 The Department also sees an important link between the promotion of human rights, tolerance, equality of opportunity and other aims of the 1974 Recommendation, and the pursuit of literacy and numeracy and other key skills. To that effect, we feel that our National Literacy and Numeracy Strategy (2011), and its Review (2017), along with our Digital Strategy for Schools (2015) are important steps in the battle against inequality and inequity. Development of follow on strategies will be progressed in 2021.
 
@@ -533,9 +545,7 @@ There has been an increased emphasis on inclusion throughout the FET System. Fos
 
 [[START OF PAGE 22]]
 
-#### *C2    Please  indicate  whether  teachers,  trainers  and  educators  are  trained  to  teach GCED and ESD during initial or pre-service training and/or through continuing professional development. Please enter the appropriate number in each white cell.
-
-#### *C3  Please indicate on which GCED and ESD themes pre-service or in-service training is  available  for  teachers,  trainers  and  educators  at  each  level  of  education  by entering the appropriate number in each white cell.
+#### *C2 Please indicate whether teachers, trainers and educators are trained to teach GCED and ESD during initial or pre-service training and/or through continuing professional development. Please enter the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -548,10 +558,12 @@ Continuing professional development | 1 | 1 | 1 | 1
 For teachers of selected subjects only (in which GCED or ESD are typically taught) | 1 | 1 | 1 | 1
 For teachers of other subjects | 1 | 1 | 1 | 1
 
+#### *C3 Please indicate on which GCED and ESD themes pre-service or in-service training is available for teachers, trainers and educators at each level of education by entering the appropriate number in each white cell.
+
 KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
---- | --- | --- | --- | --- | ---
+--- | --- | --- | --- | ---
 1. | Cultural diversity and tolerance | 1 | 1 | 1 | 1
 2. | Gender equality | 1 | 1 | 1 | 1
 3. | Human rights | 1 | 1 | 1 | 1
@@ -733,23 +745,25 @@ The years 2012-2022 form a decade of centenaries and mark a very important decad
 
 All of this educational and commemorative work has a significant equality/human rights agenda, and has been done in partnership with a wide range of service providers and through open, public consultations. Many of our tertiary institutions offer courses in sociology, human rights, development education etc. and have a lot of on-campus groups and societies engaged in social work and reform, including support to developing countries.
 
-Increased literacy and numeracy support is a key component of the new FET Strategy 20202024's strategic priority of Fostering Inclusion. Reflecting this and in line with the Programme for Government, SOLAS  were tasked with the development of a new 10 year strategy for adult literacy, numeracy and digital literacy within six months.
+Increased literacy and numeracy support is a key component of the new FET Strategy 2020-2024's strategic priority of Fostering Inclusion. Reflecting this and in line with the Programme for Government, SOLAS  were tasked with the development of a new 10 year strategy for adult literacy, numeracy and digital literacy within six months.
 
-The strategy will take a whole-of-government approach and provide a framework to support individuals to improve their literacy, numeracy and digital literacy, with the aim of ensuring that everyone has the literacy, numeracy and digital skills they require to meet their needs and to participate fully in society. Its development will involve input by relevant Government Departments and agencies and in consultation with key stakeholders. An interdepartmental stakeholder group on adult literacy, numeracy and digital literacy, which includes representatives from key Government Departments, relevant agencies and broader stakeholder organisations, has been established, and is chaired, by the Minister of Further and Higher Education, Research Innovation and Science. The role of the Interdepartmental Stakeholder Group is to advise, support and guide SOLAS throughout the development process. This group met for the first time on October 15 th 2020 and it is envisaged that it will meet a further three times at key stages over the course of the strategy's development.
+The strategy will take a whole-of-government approach and provide a framework to support individuals to improve their literacy, numeracy and digital literacy, with the aim of ensuring that everyone has the literacy, numeracy and digital skills they require to meet their needs and to participate fully in society. Its development will involve input by relevant Government Departments and agencies and in consultation with key stakeholders. An interdepartmental stakeholder group on adult literacy, numeracy and digital literacy, which includes representatives from key Government Departments, relevant agencies and broader stakeholder organisations, has been established, and is chaired, by the Minister of Further and Higher Education, Research Innovation and Science. The role of the Interdepartmental Stakeholder Group is to advise, support and guide SOLAS throughout the development process. This group met for the first time on October 15th 2020 and it is envisaged that it will meet a further three times at key stages over the course of the strategy's development.
 
 The Wellbeing Policy Statement and Framework for Practice sets out the Department's ambition and vision for wellbeing promotion, building on the many guidelines and frameworks that are already available to support and promote the wellbeing of children and young people. This document has been informed by extensive consultation with stakeholders and international research and practice.
 
 Implementation of the Erasmus+ Programme in the field of education in Ireland facilitates and supports school staff and students to develop a global education perspective and experience cultural diversity through eTwinning, project partnerships, exchanges and work placements involving schools/institutions from other Programme Countries.
 
-Languages Connect, Ireland's Strategy for Foreign Languages in Education 2017-2020 aims to increase awareness about the importance of foreign language learning both for economic and social reasons.  Under this strategy, four new foreign languages were introduced to the curriculum at Leaving Certificate level in September 2019 (Mandarin Chinese, Portuguese, Polish and Lithuanian).  We also continue to increase the number of Foreign Language Assistants provided to schools to assist students, enrolled in participating schools, to see a foreign language as a living language and not just a 'school language'.
+Languages Connect, Ireland's Strategy for Foreign Languages in Education 2017-2020 aims to increase awareness about the importance of foreign language learning both for economic and social reasons.  Under this strategy, four new foreign languages were introduced to the curriculum at Leaving Certificate level in September 2019 (Mandarin
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
 
+Chinese, Portuguese, Polish and Lithuanian).  We also continue to increase the number of Foreign Language Assistants provided to schools to assist students, enrolled in participating schools, to see a foreign language as a living language and not just a 'school language'.
+
 In 2019 there was an audit undertaken on the place of Traveller history and culture in the curriculum, from ISCED 0 to 3 in order to identify current opportunities for children and young people to encounter and learn about aspects of Traveller culture and history. In addition, the audit aimed to identify future possibilities in this regard as curricula are reviewed and developed on a broader scale and in a wider context. The audit report has been completed and further actions based off the recommendations are being reviewed and undertaken.
 
-More and more schools are involving students in decisions that directly affect them uniforms, subject choice, policies such as anti-bullying and health education. At Tertiary level, the involvement of students in school governance, up to board of management level, is quite possible.
+More and more schools are involving students in decisions that directly affect them – uniforms, subject choice, policies such as anti-bullying and health education. At Tertiary level, the involvement of students in school governance, up to board of management level, is quite possible.
 
 It is a policy of the Department of Education to include the student voice in consultation relating to the development of curriculum or strategies.
 
