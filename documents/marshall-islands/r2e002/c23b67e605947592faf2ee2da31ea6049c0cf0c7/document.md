@@ -1,5 +1,6 @@
 [[START OF PAGE 1]]
 
+599
 # TITLE  14.
 
 ## EDUCATION
@@ -44,22 +45,30 @@ ________________________________________________________________________________
 
 An Act to create a Scholarship Grant and  Loan Board and to specify powers and duties of the Board.
 
-Commencement: Source: | 26 November 1979. M.I. Code (1975) P.L. 1979-19
---- | ---
+Commencement: 26 November 1979.
+Source: M.I. Code (1975)
+P.L. 1979-19
+P.L. 1983-5
+P.L. 1986-23
+P.L. 1994-99
+P.L. 1996-20
+P.L. 1998-61
+P.L. 2001-44
+P.L. 2004-20
 
 ##### §101. Short title.
 
-This Chapter may be cited as the 'Scholarship Assistance Act 1979.' [P.L. 1979-19,  §3.]
+This Chapter may be cited as the “Scholarship Assistance Act 1979.” [P.L. 1979-19, §3.]
 
 ##### §102. The Marshall Islands Scholarship Grand and Loan Board; creation and function .
 
-- There  is  hereby  created  the  Marshall  Islands  Scholarship  Grant  and  Loan  Board, hereinafter referred to as 'the Board.'
+(1) There is hereby created the Marshall Islands Scholarship Grant and Loan Board, hereinafter referred to as “the Board.”
 
-- The function of the Board is to develop and administer a financial assistance program for those qualified applicants who cannot pursue educational and training opportunities because of financial inability. [MI. Code (1975), §6.201, codified by P.L. 1979-19, §4.]
+(2) The function of the Board is to develop and administer a financial assistance program for those qualified applicants who cannot pursue educational and training opportunities because of financial inability. [MI. Code (1975), §6.201, codified by P.L. 1979-19, §4.]
 
 ##### §103 . Board; composition .
 
-- The Board shall comprise of :
+(1) The Board shall comprise of :
 
 (a)  five (5)  members  from the public at large;
 
@@ -73,7 +82,7 @@ This Chapter may be cited as the 'Scholarship Assistance Act 1979.' [P.L. 1979-1
 
 (f) a non-voting Secretary of the Board.
 
-599
+
 
 [[END OF PAGE 1]]
 
@@ -84,12 +93,13 @@ This Chapter may be cited as the 'Scholarship Assistance Act 1979.' [P.L. 1979-1
 CHAPTER 1 - SCHOLARSHIP ASSISTANCE
 
 ________________________________________________________________________________________________
+600
 
 (2) All members of the Board shall be  appointed by the President.
 
 (3) Those members appointed to the Board under subsection  (1) (a) above shall serve an initial term of two (2) years, and are eligible for re-appointment at the end of the initial term.
 
-[MI. Code (1975), §6.202, codified by P.L. 1979-1 9, §4; amended by P.L. 1998-61, §2.][amended by P.L. 2001-44, Oct.18, 2001][amended by P.L. 2004-20]
+[MI. Code (1975), §6.202, codified by P.L. 1979-19, §4; amended by P.L. 1998-61, §2.][amended by P.L. 2001-44, Oct.18, 2001][amended by P.L. 2004-20]
 
 ##### §104. Chairman of the Board.
 
@@ -121,7 +131,7 @@ The Secretary of the Board shall be a member of the Public Service. The Secretar
 
 (f) act as liaison between the Board, the scholarship assistance recipients, and the respective persons and institutions to whom scholarship assistance funds are ultimately paid;
 
-(g) assist each scholarship assistance recipient, by whatever means at his disposal, to assure that each recipient is not unduly distracted from achieving scholastic success, and in the case of recipients of scholarship assistance loans, that each recipient understands and fulfills his obligation to repay the loan. [MI. Code (1975),  §6.204, codified by P.L. 1979-1 9,  §4.]
+(g) assist each scholarship assistance recipient, by whatever means at his disposal, to assure that each recipient is not unduly distracted from achieving scholastic success, and in the case of recipients of scholarship assistance loans, that each recipient understands and fulfills his obligation to repay the loan. [MI. Code (1975), §6.204, codified by P.L. 1979-19, §4.]
 
 ##### §106 . Board; duties and responsibilities .
 
@@ -143,7 +153,7 @@ The Board shall:
 
 (h) recommend to the Cabinet, for its approval, those scholastic programs and technical
 
-600
+
 
 [[END OF PAGE 2]]
 
@@ -154,8 +164,9 @@ TITLE 14 - EDUCATION
 14 MIRC Ch. 1
 
 _____________________________________________________________________________________________________________________________________________
+601
 
-training school programs which should enjoy priority in the award of scholarship assistance grants and loans. [MI. Code (1975),  §6.205. codified by P.L. 1979-1 9,  §4.]
+training school programs which should enjoy priority in the award of scholarship assistance grants and loans. [MI. Code (1975), §6.205. codified by P.L. 1979-19, §4.]
 
 ##### §107. Board; powers.
 
@@ -177,7 +188,7 @@ The Board is hereby empowered:
 
 (h) upon academically satisfactory completion of each full academic year of instruction, as established by regulation, to convert a scholarship assistance loan to a scholarship assistance grant; and
 
-(i) upon the death of a recipient of a scholarship assistance loan pursuant to this Chapter, to waive repayment of the loan. [MI. Code (1975),  §6.206, codified by P.L. 1979-1 9, §4.]
+(i) upon the death of a recipient of a scholarship assistance loan pursuant to this Chapter, to waive repayment of the loan. [MI. Code (1975), §6.206, codified by P.L. 1979-19, §4.]
 
 ##### §108 . Scholarship assistance standard.
 
@@ -189,7 +200,7 @@ The Board is hereby empowered:
 
 (c) the selection and pursuit of a scholastic program within the priorities approved by the Cabinet.
 
-(2) As used in Subsection (l)(b) of this Section, 'demonstrated inability' means that an otherwise qualified student will not be able to complete an agreed scholastic program, unless and until he receives some form of financial assistance from sources outside his own resources and those of his parents.
+(2) As used in Subsection (1)(b) of this Section, “demonstrated inability” means that an otherwise qualified student will not be able to complete an agreed scholastic program, unless and until he receives some form of financial assistance from sources outside his own resources and those of his parents.
 
 (3) The term for repayment of scholarship assistance loans shall not exceed ten (10) years after completion of or withdrawal from an agreed scholastic program. In cases of extreme hardship, this term may be extended one year at a time.
 
@@ -199,7 +210,7 @@ The Board is hereby empowered:
 
 (6) Failure to return to and reside in the Republic, as required by Subsection (5) of this Section, shall constitute a default of the terms of the loan or grant and shall be subject to repayment to the Government of the Marshall Islands.
 
-601
+
 
 [[END OF PAGE 3]]
 
@@ -210,8 +221,9 @@ The Board is hereby empowered:
 CHAPTER 1 - SCHOLARSHIP ASSISTANCE
 
 ________________________________________________________________________________________________
+602
 
-(7) The Board is hereby authorized to waive the default provisions of Subsection (6) of this Section in any case where the scholarship assistance recipient is unemployable in the Republic, and in any case in which employment of the recipient outside of the Republic is deemed by the Board to be in the best interests of the Government of the Marshall Islands. [MI. Code (1975  §6.207, codified by P.L. 1979-19,  §4.]
+(7) The Board is hereby authorized to waive the default provisions of Subsection (6) of this Section in any case where the scholarship assistance recipient is unemployable in the Republic, and in any case in which employment of the recipient outside of the Republic is deemed by the Board to be in the best interests of the Government of the Marshall Islands. [MI. Code (1975), §6.207, codified by P.L. 1979-19, §4.]
 
 ##### §109. Scholarship Fund Account.
 
@@ -221,7 +233,7 @@ ________________________________________________________________________________
 
 (a) all monies appropriated by the Nitijela for scholarship assistance;
 
-(b) all monies received under Title Two, Article 1, Section 2 16(a)(3) of the Compact of Free Association between the Republic and the United States of America as set forth in Title II of the Compact of Free Association Act 1985 (P.L. 99-239) as passed by the United States Congress; and
+(b) all monies received under Title Two, Article 1, Section 216(a)(3) of the Compact of Free Association between the Republic and the United States of America as set forth in Title II of the Compact of Free Association Act 1985 (P.L. 99-239) as passed by the United States Congress; and
 
 (c)  such  other  grants,  gifts  and  donations  received  by  the  Board  from  any  other source.
 
@@ -231,13 +243,13 @@ ________________________________________________________________________________
 
 (b) administrative expenses that may be incurred by the Board; and
 
-(c) transfer of any sum to the Scholarship Trust Account as determined by the Board. [MI. Code (1975),  § 6.208, codified by P.L. 1983-5,  §3; amended by P.L. 1986-23,  §2, adding Subsections (2) and (3); amended by P.L. 1994-99, §3(9); P.L. 1996-20,  §2.][section was previously numbered as  §110, re-numbered as §109 as the previous   §109 was 'Reserved']Rev2003].
+(c) transfer of any sum to the Scholarship Trust Account as determined by the Board. [MI. Code (1975), § 6.208, codified by P.L. 1983-5, §3; amended by P.L. 1986-23, §2, adding Subsections (2) and (3); amended by P.L. 1994-99, §3(9); P.L. 1996-20, §2.][section was previously numbered as §110, re-numbered as §109 as the previous §109 was “Reserved”]Rev2003].
 
 ##### §110. Scholarship Trust Account .
 
 (1) There shall be established a separate account called the Scholarship Trust Account in addition to the Scholarship Fund Account created under Section 110 of this Chapter.
 
-(2) All monies transferred from the Scholarship Fund Account to the Scholarship Trust Account by the Board shall be placed in the said Trust Account. [MI. Code (1975),  §6.209, coded by P.L. 1 986-23,  §3; amended by P.L. 1994-99, §3(9); amended by P.L. 1 996-20,  §2.][section re-numbered as §110. See footnote at the end of §109 above]
+(2) All monies transferred from the Scholarship Fund Account to the Scholarship Trust Account by the Board shall be placed in the said Trust Account. [MI. Code (1975), §6.209, coded by P.L. 1986-23, §3; amended by P.L. 1994-99, §3(9); amended by P.L. 1996-20, §2.][section re-numbered as §110. See footnote at the end of §109 above]
 
 ##### §111. Administration of the Trust Account.
 
@@ -245,9 +257,9 @@ ________________________________________________________________________________
 
 (2) All monies placed in the said Trust Account shall be invested, with the approval of the Cabinet, in guaranteed securities so as to generate interest and income.
 
-(3) The interest and income so derived under Subsection (2) of this Section shall be credited to the Scholarship Fund Account annually. [MI code 0975,)§6.210, codified by P.L. 1986-23,  §3; amended by P.L. 1994-99, §3(9); amended by P.L. 1996-20, §2.][section re-numbered as 111, see footnote at the end of  §109 above]
+(3) The interest and income so derived under Subsection (2) of this Section shall be credited to the Scholarship Fund Account annually. [MI code (1975), §6.210, codified by P.L. 1986-23, §3; amended by P.L. 1994-99, §3(9); amended by P.L. 1996-20, §2.][section re-numbered as 111, see footnote at the end of §109 above]
 
-602
+
 
 [[END OF PAGE 4]]
 
@@ -258,9 +270,10 @@ TITLE 14 - EDUCATION
 14 MIRC Ch. 1
 
 _____________________________________________________________________________________________________________________________________________
+603
 
 [BLANK PAGE]
 
-603
+
 
 [[END OF PAGE 5]]
