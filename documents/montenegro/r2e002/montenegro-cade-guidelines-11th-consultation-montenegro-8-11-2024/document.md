@@ -12,7 +12,7 @@ Eleventh consultation of Member  States on the application of the Convention and
 
 ## 1. Introduction
 
-The Convention against Discrimination in Education ('the Convention') and the Recommendation against  Discrimination  in  Education  ('the  Recommendation'),  adopted  by  UNESCO's  General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'ad vance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
+The Convention against Discrimination in Education ('the Convention') and the Recommendation against Discrimination in Education ('the Recommendation'), adopted by UNESCO's General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'advance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
 
 The right to education is one of the key principles underpinning the Education 2030 Agenda and Sustainable Development Goal 4 (SDG4) adopted by the international community in 2015. SDG 4 seeks to ensure the full enjoyment of the right to education as fundamental to achieving sustainable development. Its scope captures the multidimensional nature of the right to education.
 
@@ -42,7 +42,7 @@ There are differences in the legal nature of the obligations under the Conventio
 
 Bearing in mind the differences in legal scope inherent to the nature of these two categories of instruments,  the  content  of  the  Recommendation  is  identical  to  that  of  the  Convention.  Member States are expected to give effect to it in national legislation and education policies.
 
-The  reporting  obligation  under  the  provisions  of  Article  VII  of  the  Convention  and  of  the Recommendation is the same. Article VIII of UNESCO's Constitution states that ' Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General  Conference,  reports  on  the  laws,  regulations  and  statistics  relating  to  its  educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to i n Article IV, paragraph 4' . Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
+The reporting obligation under the provisions of Article VII of the Convention and of the Recommendation is the same. Article VIII of UNESCO's Constitution states that 'Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General Conference, reports on the laws, regulations and statistics relating to its educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4'. Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
 
 ## 4. Participation in consultations
 
@@ -86,7 +86,7 @@ The Guidelines are structured around three chapters:
 
 With a view to simplify the Guidelines while providing necessary substantive information to assist Member States  in  the  preparation  of  responses,  through  a  participatory  process, two  types  of guidance are provided:
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States. Please note that multiple answers may be provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States. Please note that multiple answers may be provided where relevant.
 
 > 7 http://www.unesco.org/education/edurights/index.php?action=home&lng=en
 
@@ -98,7 +98,7 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 4]]
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 [[END OF PAGE 4]]
 
@@ -114,7 +114,7 @@ Name of contact person: Ms Milena Roganovic
 
 Email and telephone number of contact person: milena.roganovic@mp.edu.me, +0038220405307
 
-# Ratification and applicability of the Convention against Discrimination in Education 10
+# I. Ratification and applicability of the Convention against Discrimination in Education 10
 
 - Is your country a State Party to the Convention?
 
@@ -162,9 +162,9 @@ Email and telephone number of contact person: milena.roganovic@mp.edu.me, +00382
 
 Information could also be given about the judicial, administrative and other competent authorities having jurisdiction with respect to the right to education.
 
-Ministry of Education, Science and Innovation of Montenegro is responsible for creating and managing education  policies,  administration  and  development  of  education,  as  well  as  work  organization  of education  institutions. The  Bureau  for  Education  Services provides  advisory  and  research,  teacher professional  development  services,  and  quality  assurance  of  education,  working  to  continuously improving  and  implementing  education  reforms  in  Montenegrin  education  system. The  Centre  for Vocational  Education provides  advisory,  research,  professional  development  and  quality  assurance services for the development and improvement of the vocational education system, adult education and lifelong learning opportunities as well as support to nonformal and informal education in Montenegro. The Ministry of Justice handles legal matters related to education and ensures enforcement of antidiscrimination laws. Ombudsman (Protector of Human Rights and Freedoms) addresses complaints and ensures protection of human rights, including the right to education and non-discrimination 12 . Judiciary (courts) handle  disputes  and  legal  issues  related  to  education  rights  and  discrimination. Education i nspection in  the  Ministry of Education, Science and Innovation monitors compliance with education standards and regulations, including anti-discrimination policies. The National Council for Education is the advisory body responsible for providing guidance on educational standards, policies, and reforms, including measures against discrimination. Ministry of Human and Minority Rights focuses on promoting and  protecting  human  and  minority  rights,  including  combating  discrimination  in  education.  These authorities work collaboratively to ensure that the right to education is upheld and that discrimination in  education is effectively addressed in Montenegro. The Office for Sustainable Development of the General  Secreteriat  of  the  Government provides  secreteriat  services  to  the National  Council  for Sustainable Development, which is a government advisory body in charge of providing guidance for designing and implementing public policies and projects which incorporate the principles of sustainable development (the Council is formed in 2002 in the eve of the World Summit on Sustainable Dvelopment in Johannesbourg).
+Ministry of Education, Science and Innovation of Montenegro is responsible for creating and managing education policies, administration and development of education, as well as work organization of education institutions. The Bureau for Education Services provides advisory and research, teacher professional development services, and quality assurance of education, working to continuously improving and implementing education reforms in Montenegrin education system. The Centre for Vocational Education provides advisory, research, professional development and quality assurance services for the development and improvement of the vocational education system, adult education and lifelong learning opportunities as well as support to nonformal and informal education in Montenegro. The Ministry of Justice handles legal matters related to education and ensures enforcement of anti-discrimination laws. Ombudsman (Protector of Human Rights and Freedoms) addresses complaints and ensures protection of human rights, including the right to education and non-discrimination 12. Judiciary (courts) handle disputes and legal issues related to education rights and discrimination. Education inspection in the Ministry of Education, Science and Innovation monitors compliance with education standards and regulations, including anti-discrimination policies. The National Council for Education is the advisory body responsible for providing guidance on educational standards, policies, and reforms, including measures against discrimination. Ministry of Human and Minority Rights focuses on promoting and protecting human and minority rights, including combating discrimination in education. These authorities work collaboratively to ensure that the right to education is upheld and that discrimination in education is effectively addressed in Montenegro. The Office for Sustainable Development of the General Secreteriat of the Government provides secreteriat services to the National Council for Sustainable Development, which is a government advisory body in charge of providing guidance for designing and implementing public policies and projects which incorporate the principles of sustainable development (the Council is formed in 2002 in the eve of the World Summit on Sustainable Dvelopment in Johannesbourg).
 
-# Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the  context  of Sustainable Development Goal 4 (SDG4)
+# II. Information on the implementation of the Convention or Recommendation in the context of Sustainable Development Goal 4 (SDG4)
 
 ## 1. Towards an inclusive non-discriminatory education system
 
@@ -178,13 +178,13 @@ For  reference:  This  section  relates  to  the  main  purpose  of  the  Conven
 
 It  further corresponds to the overall aspiration of SDG4 which aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all' by 2030. While it covers all the SDG4 targets, it also specifically covers SDG target 4.5. 13
 
-- Please  indicate  whether  the  rights  and  principles  laid  out  in  the  Convention/Recommendation informed the elaboration of the education legal and/or policy framework:
-
-- If yes, please provide reference:
+- Please indicate whether the rights and principles laid out in the Convention/Recommendation informed the elaboration of the education legal and/or policy framework:
 
 ☒ Yes
 
 ☐ No
+
+- If yes, please provide reference:
 
 Following the proclaimation of independence on 3 June 2006, and with the adoption of the Constitution of  Montenegro  on  22  October  2007,  Montenegro  became  independent  and  sovereign  state,  of republican  form  of  governmental  rule.  As  stated  in  the  Constitution,  Montenegro  si  also  a  civic, democratic, ecological and state of social justice, based on the rule of law (Article 1 of the Constitution) .
 
@@ -192,7 +192,7 @@ Article  9  of  the  Constitution  of  Montenegro states  that  the  confirmed  
 
 The rights and principles of the Convention/Recommendation against Discrimination in Education from 1960 are  reflected  in  the  main  national  legislation  and  education  laws, namely,  as  part  of  the Constitution of Montenegro, the General Law on Education, Law on Preschool Education, Law on Primary Education, Law on General Secondary Education, Law on Vocational Education, Law on Higher Education, Law  on  the  Education  of  Children  with  Special  Education  Needs,  the  Law  on  Minority  Rights  and Freedoms,  the  Law  on  Social  and  Child  Protection,  the  Family  Law,  the  Law  on  Prohibition  of Discrimination, the Law on Prohibition of Discrimination against Persons with Disabilities. These rights and  principles  are  the  guiding  principles  of  the  key  education,  multisectoral  strategic  and  reform frameworks, and especially the strategies  which deal with the rights of the vulnerable and sensitive groups of population (i.e. national minorities, persons with special needs, woman, elderly, beneficiaries of state material support, migrants). Also, in the Strategy for the Development of the Inclusive Education (2019-2025), the Strategy of the Development of Higher Education of Montenegro (2024-2027), and the Reform Initiatives for the Development and the Adoption of a Ten-year Strategy for Education Reform (2025 -2035) 14 .
 
-In April 2024, the Government of Montenegro signed the Declaration on Children, Youth and Climate Change as a response to the growing and unique impact of the climate crisis on children. The Declaration was created as part of the COP25 in Madrid, with the aim of strengthening the participation of young people in the climate crisis, as well as making the policies implemented more focused on children and young people. The main global partner in the implementation of the Declaration is UNICEF. In April 2024, by signing the Declaration, Montenegro committed itself to actively work with children and young people to  identify  and  undertake  actions  that  will  provide  future  generations  with  a  clean,  healthy  and sustainable  environment.  Preparation  of  an  implementation  plan  is  underway,  which  includes accelerating the implementation of inclusive climate policies and actions tailored to the child, at the national and global level 15 .
+In April 2024, the Government of Montenegro signed the Declaration on Children, Youth and Climate Change as a response to the growing and unique impact of the climate crisis on children. The Declaration was created as part of the COP25 in Madrid, with the aim of strengthening the participation of young people in the climate crisis, as well as making the policies implemented more focused on children and young people. The main global partner in the implementation of the Declaration is UNICEF. In April 2024,
 
 > 13 Which calls on states to ' eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations'.
 
@@ -201,6 +201,8 @@ In April 2024, the Government of Montenegro signed the Declaration on Children, 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+
+by signing the Declaration, Montenegro committed itself to actively work with children and young people to identify and undertake actions that will provide future generations with a clean, healthy and sustainable environment. Preparation of an implementation plan is underway, which includes accelerating the implementation of inclusive climate policies and actions tailored to the child, at the national and global level 15.
 
 ### 1.1 Non-discrimination and equality in education
 
@@ -228,11 +230,11 @@ The  Constitution  of  Montenegro  in  Article  79 guarantees  broad  human  rig
 
 Also, Article  80  of  the  Constitution states  that  forceful  assimilation  of  the  persons  belonging  to minority nations and other minority national communities shall be prohibited and the obligation of the  state  to  protect  the  persons  belonging  to  minority  nations  and  other  minority  national communities from all forms of forceful assimilation .
 
-> 15 The Draft R eport on 'The overview of progress in the implementation of the Statement of Montenegro's commitment to the implementation of the Sustainable Development Goals" is prepared by the national Office for Sustainable Development of the General Secreteriat of the Government. The Statement on Montenegro's commitment to the implementation of the Sustainable Development Goals was adopted by the Government in 2023 on the occasion of intensifying the efforts of United Nations (UN) members to accelerate the process of achieving the Sustainable Development Goals (SDGs). Montenegro is one of the 33 members of the United Nations that adopted the Declaration at the to the United Nations Assembly in September 2023 and part of the statement at the SDG Summit.
+> 15 The Draft Report on 'The overview of progress in the implementation of the Statement of Montenegro's commitment to the implementation of the Sustainable Development Goals" is prepared by the national Office for Sustainable Development of the General Secreteriat of the Government. The Statement on Montenegro's commitment to the implementation of the Sustainable Development Goals was adopted by the Government in 2023 on the occasion of intensifying the efforts of United Nations (UN) members to accelerate the process of achieving the Sustainable Development Goals (SDGs). Montenegro is one of the 33 members of the United Nations that adopted the Declaration at the to the United Nations Assembly in September 2023 and part of the statement at the SDG Summit.
 
 > 16 See: Article/Paragraph 1(1).
 
-> 17 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education,  including  vocational  training  and  information  and  communications  technology,  technical,  engineering  and scientific programme s'.
+> 17 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'.
 
 > 18 Constitution, laws, decrees, regulations, circulars, etc.
 
@@ -276,13 +278,13 @@ The Ministry of Human and Minority Rights has been empowered with the introducti
 
 [[START OF PAGE 10]]
 
-The General Law on Education (Official Gazette of the Republic of Montenegro no 64/02, 31/05 and 49/07; Official Gazette of Montenegro no 4/08 -oth. law 21/09 -oth. law, 45/11, 26/13 -Decision of the CC11, 39/13, 44/13 -corr,  and 47/17059/21 from 04.06.2021) regulates the organization and conditions for performing educational work in preschool, primary and general secondary education, vocational  education,  special  needs  education  and  education  of  adults. The Article 2  of  this  Law defines the key educati on goals which to a broad extent set out to ensure the possibilities for child's comprehensive individual development regardless of the sex, age, social and cultural background, national and religious affiliations  and  of  physical  and  psychological  structure; meeting  the  needs, interests, wishes and ambitions of individuals for life long learning; ensuring that individuals reach internationally comparable levels of knowledge, skills and competences; develop the awareness, the need  and  abilities  for  protecting  and  improving  the  human  rights,  legal  state,  natural  and  social environment, multiethnicity and diversity etc. In addition, the Law in Article 9 prescribes equal rights to education both for Montenegrin and foreign citizens, meaning that foreign citizens with permanent or temorary stay in Montenegro are equal to exercise the right to education as Montenegrin citizens, which is regulated by separate law. This provision is present in other education laws, as well as at other education levels (laws on general secondary education and vocational education).
+The General Law on Education (Official Gazette of the Republic of Montenegro no 64/02, 31/05 and 49/07; Official Gazette of Montenegro no 4/08 -oth. law 21/09 -oth. law, 45/11, 26/13 -Decision of the CC11, 39/13, 44/13 -corr, and 47/17059/21 from 04.06.2021) regulates the organization and conditions for performing educational work in preschool, primary and general secondary education, vocational education, special needs education and education of adults. The Article 2 of this Law defines the key education goals which to a broad extent set out to ensure the possibilities for child's comprehensive individual development regardless of the sex, age, social and cultural background, national and religious affiliations and of physical and psychological structure; meeting the needs, interests, wishes and ambitions of individuals for life long learning; ensuring that individuals reach internationally comparable levels of knowledge, skills and competences; develop the awareness, the need and abilities for protecting and improving the human rights, legal state, natural and social environment, multiethnicity and diversity etc. In addition, the Law in Article 9 prescribes equal rights to education both for Montenegrin and foreign citizens, meaning that foreign citizens with permanent or temorary stay in Montenegro are equal to exercise the right to education as Montenegrin citizens, which is regulated by separate law. This provision is present in other education laws, as well as at other education levels (laws on general secondary education and vocational education).
 
 The General Law on Education (Article 9) incorporates in its text the provision on the prohibition of any  type  of  discrimination -physical,  psychological,  social  violence  and  child  neglecting;  physical punishment of students and employees and other forms of discrimination. In the conflict resolution procedures between children, parents, fosterparents, caretakes and employees in the institutions, as conflict solution measure is prescribed the engagement of mediators, in line with the law (Article 9b).
 
 The most recent Changes and Amendments to the General Law on Education ( adopted in October 2024) introduce  new  provisions  to  further  regulate  safe  teaching  and  learning  enviroment  for students. The changes and amendments to the Law, for example, introduce a provision regarding the rights and obligations of parents and their obligations related to learning of their children, and further parental responsibilities in relation to school duties and schedule. The amendments also introduce more explicit prohibition of any form of school violence by instituting the obligation of initiating a misdemeanor,  i.e.  criminal  proceedings  against  the  person  who  commits  violence  against  school children (this provision was not previously part of the general education law).
 
-The Law on Primary Education ("Official  Gazette of the Republic of Montenegro", num. 64/2002, 49/2007 and "The Official Gazette of Montenegro", num. 45/2010, 40/2011, 39/2013 and 47/2017) in its amendments from 2017 has included the accessibility to education: 'Primary education shall be accessible to all persons and may not be constrained, directly or indirectly, on any grounds: sex, race, colour,  language,  religion,  marital  status,  political  or  other  beliefs,  national,  ethnic  or  other background,  financial  standing,  disability  or  an y  other  similar  ground,  position  or  circumstance.' (Article  2a),  now  part  of  the  current  law. This  provision  is  also  part  of  the  Law  on  Preschool Education, the Law on Gymnasium and the Law on Vocational Education.
+The Law on Primary Education ("Official Gazette of the Republic of Montenegro", num. 64/2002, 49/2007 and "The Official Gazette of Montenegro", num. 45/2010, 40/2011, 39/2013 and 47/2017) in its amendments from 2017 has included the accessibility to education: 'Primary education shall be accessible to all persons and may not be constrained, directly or indirectly, on any grounds: sex, race, colour, language, religion, marital status, political or other beliefs, national, ethnic or other background, financial standing, disability or any other similar ground, position or circumstance.' (Article 2a), now part of the current law. This provision is also part of the Law on Preschool Education, the Law on Gymnasium and the Law on Vocational Education.
 
 The  Law  on  Minority  Rights  and  Freedoms ("Official  Gazette  of  Montenegro",  no.  031/06  from 12.05.2006, 051/06 from 04.08.2006, 038/07 fromn06/22/2007, Official Gazette of Montenegro", no. 002/11 of 01/12/2011, 008/11 of 02/04/2011, 031/17 of 12.05.2017) in several articles describes the wide-ranging  rights  of  minority  peoples  and  other  national  minority  communities:  the  right  to schooling  in  their  own  mother  language,  the  right  to  adequate  representation  of  their  mother language in general and vocational education, the right to teaching in the mother language and right in relation to the content in education programmes respecting the history, art, culture and tradition of minority peoples and communities, founding of the education institutions etc.:
 
@@ -328,7 +330,7 @@ In  addition, Article  19  of  the  Law ,  for  the  purpose  of  the  full  enj
 
 Article 6 of the Law on Higher Education ("Official Gazette of Montenegro", no. 44/2014, 52/2014 - corr., 47/2015, 40/2016, 42/2017, 71/2017, 55/2018, 3/2019, 17/2019 - law, 47/2019, 72/2019 and 74/2020)  defines  that  higher  education  is  available  to  all  and  may  not  be  directly  or  indirectly restricted on the grounds of: gender, race, marital status, skin colour, language, religion, political or other affiliation, national, ethnic or other origin, financial status, disability or other similar grounds, position or circumstances, in line with the specific law. The University Charter regulates the rules of admission and studying to more detail.
 
-In the Adult Education Law, Article 4a on Equality defines that 'a dults cannot be directly or indirectly limited  in  acquiring  education  on  the  basis  of:  gender,  race,  marital  status,  skin  color,  language, religion,  political  or  other  conviction,  national,  ethnic  or  other  origin,  belonging  to  the  national community,  property  status,  incapacitation  (disability)  and  on  other  similar  grounds,  position  or circumstances. '
+In the Adult Education Law, Article 4a on Equality defines that 'adults cannot be directly or indirectly limited in acquiring education on the basis of: gender, race, marital status, skin color, language, religion, political or other conviction, national, ethnic or other origin, belonging to the national community, property status, incapacitation (disability) and on other similar grounds, position or circumstances.'
 
 With regard to inlusive education for meeting the needs of vulnerable i.e. marginalised groups, in cooperation with the Ministry of Labour and Social and Welfare and Ministry of Human and Minority Rights,  Ministry  of  Education,  Science  and  Innovation is  part  of  the  process  of  meeting  the expectations  and  recommendations  related  to  the  Convention  on  the  Rights  of  Child  and  other international  documents.  These  mechanisms  are  integral  parts of  the  Strategy  for  the  Inclusive Education 2019-2025 and Strategy for Early and Preschool Education 2021-2025 .  The  theoretical framework on which the Strategy for Inclusive Education is based shapes the aspects of an inclusive education system as set out by the General Comment No. 4 (2016) of UNCRPD Article 24 on the Right to Inclusive Education.
 
@@ -366,7 +368,7 @@ The main strategic documents and state programmes which guide this process:
 
 The  Montenegro  Development  Directions  (MDD)  (2018-2021)  and  the  MDD  for  2022 -2025,  the Economic  Reform  Programme  (2021-2023),  the  Economic  Reform  Programme  (2024-2026).  The Accession Programme of Montenegro (2021-2023) and the Accession Programme 2024-2027 (adopted in April 2024) are aimed to continue with the alignining of the legislatiion with the EU standards and developing  of  administrative  capacities  in  order  for  Montenegro  to  gain  capacity  for  assuming  the required obligations of the EU membership. The Mid-term Work Programme of the Government of Montenegro 2024 - 2027 puts in the first place the prosperity of society and economic reforms, and was developed following the election of the forty-fourth Government of Montenegro, which mandate began on October 30, 2023. The proposed Work Programme envisages ' improving the quality and increasing the  availability  of  preschool  institutions,  in  the  domain  of  infrastructure  as  well  as  in  the  domain  of educational staff, in order to provide children with adequate care and upbringing. Based on a thorough analysis of the state of the education system in Montenegro, the aim is to create adequate strategic and legislative  framework  in  this  area  and  implement  the  reform  of  the  primary  education  system  and secondary education .'
 
-Especially important new document is the Reform Agenda of Montenegro 2024-2027, adopted by the Government  on  26  September  2024  after  some  months  of  multisectoral  working  groups  work  and national consultations, which proposes the key reform measures in areas of strategic importance needed for the successful economic growth and convergence with the countries of the European Union. The measures set in the Reform Agenda of Montenegro are to be funded through the Instrument for Reform and Growth for the Western Balkans, after the adoption of the EU's Growth Plan for the Western Balkans on  8  November  2023  by  the  European  Commission,  in  order  to  boost  the country's economic development and accelerate the key reforms in the process of accession to the European Union. The funds  that  will  be  available  to  Montenegro  are  conditional  to  the  successful  implementation  of  the reform measures defined in the Reform Agenda, economic and political development of Montenegro, as well  as  for  the  acceleration  of  European  integrations 21 .Taken  into  consideration  the  advanced technological development and rapid changes at the labour market in the global and domestic economy, as well as overall developments at global level and the today's more complex effects of the globalization processes, and the need for flexible and new qualifications and skills in order to achieve the quality of work,  productivity  and  employability ,  the  Reform  Agenda  puts  forward  ' key  reform  measures  as  an incentive  for  the  development  of  human  capital,  mainly  through  the  improvement  of  employment opportunities,  support  for  activation,  reform  of  social  services  together  with  education  and  skills development and promotion innovation environment ' . The Agenda puts focus on the challenges: ' One of the biggest challenges of the labour market is the insufficient inclusion of vulnerable groups, especially women, young people, beneficiaries of the rights to material benefits from the field of social and child protection,  persons  with  disabilities  and  other  vulnerable  categories.  In  addition,  the  level  of development of the system of support services for life in the community is still not at a high level to enable  independent  and  productive  life  of  the  mentioned  groups.  Insufficient  activation  of  material security beneficiaries to leave the social benefits system is also one of the challenges. Increasing the participation of women in the workforce is a challenge in itself. The main obstacle in the development of measures and programs aimed at women is the identification of socioeconomic obstacles through the analysis of the structural characteristics of unemployed women ' .
+Especially important new document is the Reform Agenda of Montenegro 2024-2027, adopted by the Government on 26 September 2024 after some months of multisectoral working groups work and national consultations, which proposes the key reform measures in areas of strategic importance needed for the successful economic growth and convergence with the countries of the European Union. The measures set in the Reform Agenda of Montenegro are to be funded through the Instrument for Reform and Growth for the Western Balkans, after the adoption of the EU's Growth Plan for the Western Balkans on 8 November 2023 by the European Commission, in order to boost the country's economic development and accelerate the key reforms in the process of accession to the European Union. The funds that will be available to Montenegro are conditional to the successful implementation of the reform measures defined in the Reform Agenda, economic and political development of Montenegro, as
 
 > 19 The UNHR Mandate of the Special Rapporteur on the right to education, Montenegro report 2023
 
@@ -376,11 +378,13 @@ Especially important new document is the Reform Agenda of Montenegro 2024-2027, 
 
 [[START OF PAGE 14]]
 
+well as for the acceleration of European integrations 21. Taken into consideration the advanced technological development and rapid changes at the labour market in the global and domestic economy, as well as overall developments at global level and the today's more complex effects of the globalization processes, and the need for flexible and new qualifications and skills in order to achieve the quality of work, productivity and employability, the Reform Agenda puts forward 'key reform measures as an incentive for the development of human capital, mainly through the improvement of employment opportunities, support for activation, reform of social services together with education and skills development and promotion innovation environment'. The Agenda puts focus on the challenges: 'One of the biggest challenges of the labour market is the insufficient inclusion of vulnerable groups, especially women, young people, beneficiaries of the rights to material benefits from the field of social and child protection, persons with disabilities and other vulnerable categories. In addition, the level of development of the system of support services for life in the community is still not at a high level to enable independent and productive life of the mentioned groups. Insufficient activation of material security beneficiaries to leave the social benefits system is also one of the challenges. Increasing the participation of women in the workforce is a challenge in itself. The main obstacle in the development of measures and programs aimed at women is the identification of socioeconomic obstacles through the analysis of the structural characteristics of unemployed women'.
+
 Montenegro has been one of the first countries to fully embrace and integrate into its system the UN requirements set out in the 2030 Agenda for Sustainable Development of the United Nations'. Special focus of our interest is the Sustainable Development Goal 4 on Quality Education -Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all ,  is  broadly  present  and addressed in all up-to-date national strategic documents covering the fields of education, sustainable development, human rights and social policies and mentioned in associated strategies. The National Strategy od Sustainable Development by 2030 was adopted on 7 July 2016 at the 164th government session, as well as its Action Plan for Implementation, in line with the UN Agenda on SDG goals by 2030 and global and international agendas.
 
 An  important  part  of  the  quality  of  early  preschool  education  and  care  relates  to  ensuring  equal availability of quality ECCE programmes, as set in The Early Preschool Education and Care Strategy for the period  2021 -2025. In the previous period, various activities were implemented to support staff and children from marginalized groups, such as measures that contributed to greater availability of ECEC for children from vulnerable groups. These measures are covering the total costs for the stay and nutrition of children with a guidance decision, children from Roma and Egyptian communities, children from poor families that are beneficiaries of the material support and without parental care by Ministry of Labour and Social Welfare (i.e., present Ministry of Labour, Employment and Social Welfare) and covering 50% of the price for children of single parents by the Ministry of Education (present Ministry of Education, Science and Innovation). With the amendments to the laws in the field of education in 2017, it is precisely established the principle of non-discrimination in accordance with a special regulation that will reach overall inclusiveness. In addition, the introduction of a three-hour programmes and interactive services with libraries of toys and books has significantly increased the availability of ECCE to children living in remote  and  difficult-to-reach  areas  that  have  traditionally  been  very  little  involved  in  the  ECCE programmes 22 .
 
-The Strategy of Inclusive Education (2019-2025) aims to provide children with special educational needs with accessible and quality inclusive education at all levels and to achieve accessibility, equality, fairness, continuity  and  quality.  The  strategy  sets  as  its  strategic  objective  -  quality  and  inclusive  system  of vocational education which is the basis for lifelong learning, economic and social integration, personal and professional development of the individual, with an effective system of management and financing. Strategic  objectives  are  to  create  vocational education  that  is  relevant  to  the  individuals,  the  labour market and society, accessible and innovative.
+The Strategy of Inclusive Education (2019-2025) aims to provide children with special educational needs with accessible and quality inclusive education at all levels and to achieve accessibility, equality, fairness, continuity and quality. The strategy sets as its strategic objective - quality and inclusive system of vocational education which is the basis for lifelong learning, economic and social integration, personal
 
 > 21 Information on the process of preparing the Reform Agenda of Montenegro 2024-2027 for the EU Instrument for Reforms and Growth with the Proposal for the Reform Agenda of Montenegro 2024-2027 for the EU Instrument for Reforms and Growth: https://www.gov.me/dokumenta/2cc3baa0-65d6-4d97-a25c-fa171aa559b3
 
@@ -390,7 +394,9 @@ The Strategy of Inclusive Education (2019-2025) aims to provide children with sp
 
 [[START OF PAGE 15]]
 
-The operational objective 4.1. of the Vocational Education Development Strategy in Montenegro (20202024) with the Action Plan for 2020 - 2021: 'Vocational education that enables skills, competences and qualifications  for  employability,  lifelong  learning,  inclusiveness,  personal  development  and  active citizenship of individuals' is defined by a series of measures and activities that prevent discr imination, i.e. enables a flexible system of vocational education in accordance with individual capabilities.
+and professional development of the individual, with an effective system of management and financing. Strategic objectives are to create vocational education that is relevant to the individuals, the labour market and society, accessible and innovative.
+
+The operational objective 4.1. of the Vocational Education Development Strategy in Montenegro (2020-2024) with the Action Plan for 2020 - 2021: 'Vocational education that enables skills, competences and qualifications for employability, lifelong learning, inclusiveness, personal development and active citizenship of individuals' is defined by a series of measures and activities that prevent discrimination, i.e. enables a flexible system of vocational education in accordance with individual capabilities.
 
 In the Strategy for Adult Education of Montenegro (2015-2025) with the Plan for Adult Education 2019 , the priority goals are defined as 'Increasing the social inclusion of adult citizens through lifelong learning and education activities'.
 
@@ -448,7 +454,7 @@ A general remark, based on the insight into the above strategies, plans of actio
 
 - Please provide details:
 
-Present preschool education programme has integrated several measures to improve the quality of the programme delivery. These measures include: the introduction of a new three-hour programme, the organization of free interactive services in 16 municipalities (out of 24 in Montenegro) and toy libraries, delivery of programmes of the English language for children aged three to six years, and by introducing a transition kindergarten-to-primary school  programme that is continuous, cooperative and participatory, and actions to improve the quality of cooperation with the parents. Also, t he changes to the education law from 2017 define that the duration of the individual programmes is to last in accordance with the  parents ' needs  and  the  interests  of  children,  also  is  defined  the  possibility  of organizing extended stay and other programmes, who would be financed by parents, for stimulating and entertaining children and providing support to parents (in accordance with the spatial capacities and personnel of preschool institution), which created opportunities for the expansion of diversified programmes. 24 This  programme  is  additionally  supported  by  the  development  of  the  publication "Development-education instructions and informative material", the purpose of which is to encourage and evaluate particular areas of child's development and is intended for educators and parents.
+Present preschool education programme has integrated several measures to improve the quality of the programme delivery. These measures include: the introduction of a new three-hour programme, the organization of free interactive services in 16 municipalities (out of 24 in Montenegro) and toy libraries, delivery of programmes of the English language for children aged three to six years, and by introducing a transition kindergarten-to-primary school programme that is continuous, cooperative and participatory, and actions to improve the quality of cooperation with the parents. Also, the changes to the education law from 2017 define that the duration of the individual programmes is to last in accordance with the parents' needs and the interests of children, also is defined the possibility of organizing extended stay and other programmes, who would be financed by parents, for stimulating and entertaining children and providing support to parents (in accordance with the spatial capacities and personnel of preschool institution), which created opportunities for the expansion of diversified programmes. 24 This programme is additionally supported by the development of the publication "Development-education instructions and informative material", the purpose of which is to encourage and evaluate particular areas of child's development and is intended for educators and parents.
 
 A good initiative is the internationally recognized parenting programme "Parenting for lifelong health for  young  children" in  preschools  in  Podgorica,  Cetinje,  Nikšić  and  Bijelo Polje,  in  cooperation  with UNICEF, aimed at working on the establishment of positive relations between parents and children. The goal is on building the sense of competence with parents, also on the prevention of violence against children and prevention of behavioral problems in children. In addition, the training programme for the implementation of this programme is part of the teacher professional development programmes.
 
@@ -504,95 +510,19 @@ In addition, the measures are employed through cooperation with the non-governme
 
 [[START OF PAGE 19]]
 
-The state education authority prescribes 80-85% of the content in subject programmes within their
+The state education authority prescribes 80-85% of the content in subject programmes within their methodological framework, and the rest of 15-20% content is the autonomy of schools, teacher professional groups and teachers to plan and implement the content in the part of 'open' curriculum.
 
-methodological  framework,  and  the  rest  of  15-20%  content  is  the  autonomy  of  schools,  teacher
+In that part, students can learn by implementing the content of local importance in the areas of culture, art, language, customs, history. In this way, they elaborate on the content of local importance which can serve in anti-discrimination activities and free development of students of all nationalities, races and religions.
 
-professional groups and teachers to plan and implement the content in the part of
+All educational programmes are conceptualized in such a way as to contain recommendations on adapting the programmes to meet the needs of students with special educational needs, also attendees of adult education and gifted students.
 
-'
+The vocational education and training programme concept is flexible and sensitive for students/participants with different abilities. The achievement standards are the same for all students/atendees, but the system is designed so that students/participants with different abilities can make achievements according to their abilities, and be assessed according to their achievement. Educational programmes are designed as programmes of broad profiles, based on related professional qualifications, which, wherever possible, are of logically different levels, and this enables children to be together in the classes of their peers, and to achieve professional and educational level qualifications in accordance to their capabilities and pace. Students/attendees who join educational programmes for the acquisition of a professional qualification, in accordance with their capabilities, can acquire the entire professional qualification or part of it.
 
-open
+Professional teacher training programmes are implemented at the request of schools and at the initiative of the Center for Vocational Education. Trainings for individualized planning and delivery of teaching are among the most requested trainings by teachers.
 
-'
+The Law on Adult Education enables direct verification of knowledge and skills, regardless of the method of their acquisition.
 
-curriculum.
-
-In  that  part,  students  can  learn  by  implementing  the  content of local importance in the areas of
-
-culture, art, language, customs, history. In this way, they elaborate on the content of local importance
-
-which can serve in anti-discrimination activities and free development of students of all nationalities,
-
-races and religions.
-
-All  educational programmes are conceptualized in such a way as to contain recommendations on
-
-adapting  the  programmes  to  meet  the  needs  of  students  with  special  educational  needs,  also
-
-attendees of adult education and gifted students.
-
-The
-
-vocational
-
-education
-
-and
-
-training
-
-programme
-
-concept
-
-is
-
-flexible
-
-and
-
-sensitive
-
-for
-
-students/participants  with  different  abilities.  The  achievement  standards  are  the  same  for  all
-
-students/atendees, but the system is designed so that students/participants with different abilities
-
-can make achievements according to their abilities, and be assessed according to their achievement.
-
-Educational  programmes  are  designed  as  programmes  of  broad  profiles,  based  on  related
-
-professional qualifications, which, wherever possible, are of logically different levels, and this enables
-
-children to be together in the classes of their peers, and to achieve professional and educational level
-
-qualifications in accordance to their capabilities and pace. Students/attendees who join educational
-
-programmes for the acquisition of a professional qualification, in accordance with their capabilities,
-
-can acquire the entire professional qualification or part of it.
-
-Professional  teacher  training  programmes  are  implemented  at  the  request  of  schools  and  at  the
-
-initiative of the Center for Vocational Education. Trainings for individualized planning and delivery of
-
-teaching are among the most requested trainings by teachers.
-
-The Law on Adult Education enables direct verification of knowledge and skills, regardless of the
-
-method of their acquisition.
-
-In order to identify the children who are not in education system, the Ministry of Internal Affairs in
-
-cooperation  with  the  UNICEF  office  in  Montenegro  haave  established  an  exchange  of  data,  and
-
-developed a model which is based on interoperability, to be used by the Montenegrin Education
-
-Information System (MEIS) and the Central Population Register. This model is currently in the pilot
-
-phase.
+In order to identify the children who are not in education system, the Ministry of Internal Affairs in cooperation with the UNICEF office in Montenegro haave established an exchange of data, and developed a model which is based on interoperability, to be used by the Montenegrin Education Information System (MEIS) and the Central Population Register. This model is currently in the pilot phase.
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
@@ -602,25 +532,23 @@ The Inclusive Education Strategy (2019-2025) includes in the heading of the 'For
 
 [[START OF PAGE 20]]
 
-28
-
-29
-
 - In general, what challenges were encountered in the implementation of non-discrimination and equal opportunities principles in education? If needed, brief quantitative information may be added.
 
-Inclusive education is provided by law and accepted in practice. In practice,  the impression is that it is  feasible  in  terms  of  the  number  of  children  included,  but  the  quality  of  inclusive  education  is questionable.  Educational  institutions  in  Montenegro  are  in  a  certain  percentage  not  adapted  to children with special educational needs 28 , teachers are not educated to work with different needs of children, teaching assistants as technical support are generally provided, but often the educational institution  is  not  able  to  provide  this  type  of  support 29 in  the  required  capacity  for  children, committees for the guidance of children with special educational needs act by the procedures for assessing and determining the IDEP (individual development - education plans), but they often do not do it promptly and it is questionable how the monitoring of an already determined programme is carried  out,  etc. ( Please  note  that  all  the  comments  of  the  Protector  for  the  Human  Rights  and Freedom in the questionnaire are drawn based on the particular cases the subject of the examination procedures either initiated by the Protector or the cases of the complaints by thrid parties, in the period 2019 to 2024. For this specific question 1.2, the Ombudsman provided commentary in relation to the six individual cases in the below links, which were subject of the examination procedure and reccomendations with respect to equal opportunities and equal access to education (i.e. the lack of teaching assistants in two primary schools and one faculty of law, the lack of adequate measures needed  for  SEN  child  in  one  preschool  institution,  the  lack  of  school  elevator  for  a  student  in wheelchairs with special educational needs in a vocational school). Schools need additional continuous support in order to solve concrete situations with an integrated team s' approach and to design different individual paths for students who need it. Large schools, which work in several daily shifts, which implement educational programmes from several and large number  of  sectors,  can  hardly  respond  to  the  request  to  significantly  deviate  from  the  regular schedule for children who need it. Classes of 28 students are large, and it is a big challenge for teachers to work with such a large group and conduct individualized teaching, or organize practical teaching, etc 30 . The challenges are in insufficiently  profiled  teaching  staff who  do  not  sufficiently  understand  the concept of discrimination. Certain teachers practice different types of discrimination hidden from the eyes of the public, especially when it comes to grading children of the RE population, where negative grades (units) are given and the children are not given neither regular nor remedial classes. This is one of the problems of discrimination against children of the RE population in the state 31 . The  causes  which  have  long-term  effects  are  to  be  found  in  the  economic  and  social  conditions affecting the RE population; family conditions and parents' lack of information about the importance of  enrolling  children  in  education  which  often  leads  to  drop-outs;  existence  of  language  barriers; insufficient number of mediators and professional associates who would direct RE children during their  education;  the  need for  training  the  preschool teachers  to work with  RE children  (from  the Strategy of social inclusion of Roma and Egyptians 2021-2025, with the Action plan for the period 2024 and 2025).
+Inclusive education is provided by law and accepted in practice. In practice, the impression is that it is feasible in terms of the number of children included, but the quality of inclusive education is questionable. Educational institutions in Montenegro are in a certain percentage not adapted to children with special educational needs 28, teachers are not educated to work with different needs of children, teaching assistants as technical support are generally provided, but often the educational institution is not able to provide this type of support 29 in the required capacity for children, committees for the guidance of children with special educational needs act by the procedures for assessing and determining the IDEP (individual development - education plans), but they often do not do it promptly and it is questionable how the monitoring of an already determined programme is carried out, etc. (Please note that all the comments of the Protector for the Human Rights and Freedom in the questionnaire are drawn based on the particular cases the subject of the examination procedures either initiated by the Protector or the cases of the complaints by thrid parties, in the period 2019 to 2024. For this specific question 1.2, the Ombudsman provided commentary in relation to the six individual cases in the below links, which were subject of the examination procedure and reccomendations with respect to equal opportunities and equal access to education (i.e. the lack of teaching assistants in two primary schools and one faculty of law, the lack of adequate measures needed for SEN child in one preschool institution, the lack of school elevator for a student in wheelchairs with special educational needs in a vocational school).
 
-https://www.ombudsman.co.me/docs/1722496393_230524_preporuka_tv.pdf , (23/5/2023)
+Schools need additional continuous support in order to solve concrete situations with an integrated teams' approach and to design different individual paths for students who need it. Large schools, which work in several daily shifts, which implement educational programmes from several and large number of sectors, can hardly respond to the request to significantly deviate from the regular schedule for children who need it. Classes of 28 students are large, and it is a big challenge for teachers to work with such a large group and conduct individualized teaching, or organize practical teaching, etc 30.
 
-> https://www.ombudsman.co.me/docs/1547129432_25122018-preporuka-nk.pdf
+The challenges are in insufficiently profiled teaching staff who do not sufficiently understand the concept of discrimination. Certain teachers practice different types of discrimination hidden from the eyes of the public, especially when it comes to grading children of the RE population, where negative grades (units) are given and the children are not given neither regular nor remedial classes. This is one of the problems of discrimination against children of the RE population in the state 31.
 
-https://www.ombudsman.co.me/docs/1511962974_11062017-preporuka-os.pdf
+The causes which have long-term effects are to be found in the economic and social conditions affecting the RE population; family conditions and parents' lack of information about the importance of enrolling children in education which often leads to drop-outs; existence of language barriers; insufficient number of mediators and professional associates who would direct RE children during their education; the need for training the preschool teachers to work with RE children (from the Strategy of social inclusion of Roma and Egyptians 2021-2025, with the Action plan for the period 2024 and 2025).
 
+> 28 https://www.ombudsman.co.me/docs/1722496393_230524_preporuka_tv.pdf , (23/5/2023)
+
+> 29 https://www.ombudsman.co.me/docs/1547129432_25122018-preporuka-nk.pdf
+> https://www.ombudsman.co.me/docs/1511962974_11062017-preporuka-os.pdf
 > https://www.ombudsman.co.me/docs/1552553162_31122018-preporuka-mis.pdf
-
-https://www.pobjeda.me/clanak/student-napustio-fakultet-jer-nema-asistenata-u-nastavi
-
-https://www.ombudsman.co.me/docs/1673943585_30120222_preporuka_ba.pdf An evident lack of teaching and non-teaching staff, which makes it difficult to work in institutions that normally have too many groups.
+> https://www.pobjeda.me/clanak/student-napustio-fakultet-jer-nema-asistenata-u-nastavi
+> https://www.ombudsman.co.me/docs/1673943585_30120222_preporuka_ba.pdf
 
 > 30 The Bureau for Education Services of Montenegro
 
@@ -630,11 +558,15 @@ https://www.ombudsman.co.me/docs/1673943585_30120222_preporuka_ba.pdf An evident
 
 [[START OF PAGE 21]]
 
-A  large  number  of  children  with  guidance  decisions  and  an  insufficient  number  of  assistants, overbooking of the spatial capacities of preschool institutions.
+An evident lack of teaching and non-teaching staff, which makes it difficult to work in institutions that normally have too many groups.
 
-The overbooking of kindergartens and the lack of educational staff are challenges in the work of preschool  institutions.  The  construction  of  new  kindergartens  is  also  planned  but  rigid  tender procedures make it much more difficult to start the works. Lack of free space in municipalities for assignment and adaptation 32 .
+A large number of children with guidance decisions and an insufficient number of assistants, overbooking of the spatial capacities of preschool institutions.
 
-The problems analysis tree 33 in the Preschool Education Strategy highlights the inadequate coverage of preschool education and upbringing as one of the challenges, due to inflexible regulations and insufficient spatial capacities, which result in inadequate working conditions, too many children in the group, insufficient number of educators and professional associates, inadequate quality of services. Insufficient  number  of  jobs  for  educational  staff,  inadequate  spatial  capacities  in  preschool institutions,  the  need  to  reduce  the  number  of  children  in  educational  groups  and  increase  the number of educational units; insufficiently trained personnel; rural areas in particular face additional challenges, such as a lack of qualified staff and a lack of resources.
+The overbooking of kindergartens and the lack of educational staff are challenges in the work of preschool institutions. The construction of new kindergartens is also planned but rigid tender procedures make it much more difficult to start the works. Lack of free space in municipalities for assignment and adaptation 32.
+
+The problems analysis tree 33 in the Preschool Education Strategy highlights the inadequate coverage of preschool education and upbringing as one of the challenges, due to inflexible regulations and insufficient spatial capacities, which result in inadequate working conditions, too many children in the group, insufficient number of educators and professional associates, inadequate quality of services.
+
+Insufficient number of jobs for educational staff, inadequate spatial capacities in preschool institutions, the need to reduce the number of children in educational groups and increase the number of educational units; insufficiently trained personnel; rural areas in particular face additional challenges, such as a lack of qualified staff and a lack of resources.
 
 #### Other relevant general measures, including gender equality
 
@@ -654,21 +586,7 @@ The problems analysis tree 33 in the Preschool Education Strategy highlights the
 
 ☒ Other:
 
-In all laws in the field of education, there is a special article which defines the use of gender-sensitive language.
-
-> 32 Bureau for Education Services of Montenegro
-
-> 33           The Strategy of Preschool Education and Care 2021 -2025
-
-> 34 ' Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them' (Cambridge Dictionary).
-
-> 35 ' Gendersensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' ( post, Gender-sensitive sanitation, 2018)
-
-> UNGEI blog
-
-> 36 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambrid ge Dictionary).
-
-☒ All  barriers  for  pregnant  girls  and  young mothers in education are eliminated to ensure the continuity of their education
+☒ All barriers for pregnant girls and young mothers in education are eliminated to ensure the continuity of their education
 
 ☒ Re-entry programmes for young mothers are provided for
 
@@ -680,15 +598,33 @@ In all laws in the field of education, there is a special article which defines 
 
 ☒ Ensuring gender parity in technical and vocational training education and training (TVET)
 
+In all laws in the field of education, there is a special article which defines the use of gender-sensitive language.
+
+> 32 Bureau for Education Services of Montenegro
+
+> 33 The Strategy of Preschool Education and Care 2021 -2025
+
+> 34 'Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them' (Cambridge Dictionary).
+
+> 35 'Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
+
+> 36 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
+
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
 
-Teachers  are  provided  with  several  professional  development  programmes  related  to  gender equality, anti-gypsyism and communication within the Professional Development Catalogue of the Vocation Education Centre. There is a developed education programme specifically designed for the acquisition of key skills in the field of gender equality, as well as a programme for the acquisition of key skills in the field of anti-gypsyism and other discrimination decisions against Roma and Egyptians. It  is  necessary to make efforts to educate the teaching staff in relation to gender equality, nondiscrimination, affirmative action, so that the curriculum is also free of stereotypes and prejudices. The control and supervision by the Bureau from Education should be further strenghtened.
+Teachers are provided with several professional development programmes related to gender equality, anti-gypsyism and communication within the Professional Development Catalogue of the Vocation Education Centre.
+
+There is a developed education programme specifically designed for the acquisition of key skills in the field of gender equality, as well as a programme for the acquisition of key skills in the field of anti-gypsyism and other discrimination decisions against Roma and Egyptians.
+
+It is necessary to make efforts to educate the teaching staff in relation to gender equality, non-discrimination, affirmative action, so that the curriculum is also free of stereotypes and prejudices.
+
+The control and supervision by the Bureau from Education should be further strenghtened.
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-As  a  horizontal  principle,  gender  equality  is  one  of  the  aims  of  the  new  Reform  Agenda  for Montenegro which states that 'g iven that the Gender Equality Index for Montenegro in 2023 is 9.3 points lower than the EU-27 average (68.6 in 2022), the focus will be on solving persistent gender inequalities.  In  this  sense,  gender  equality  will  be  included  in  the  implementation  of  the  Reform Agenda ' .
+As a horizontal principle, gender equality is one of the aims of the new Reform Agenda for Montenegro which states that 'given that the Gender Equality Index for Montenegro in 2023 is 9.3 points lower than the EU-27 average (68.6 in 2022), the focus will be on solving persistent gender inequalities. In this sense, gender equality will be included in the implementation of the Reform Agenda'.
 
 The implementation of reforms in this area is supported by numerous legal acts that cover the most important segments of this current topic. When it comes to Montenegrin legislation , the Constitution of Montenegro , adopted in 2007, includes issues of gender equality through two articles. Article 8 forbids  direct  or  indirect  discrimination  on  any  basis  and  defines  that  special  measures  to  create conditions for achieving national, gender and overall equality, as well as the protection of persons in an unequal position, will not be considered discrimination. While Article 18 guarantees the equality of women and men and develops a policy of equal opportunities. Also, the Law on Prohibition of Discrimination, adopted in 2010 and last amended in 2017, more precisely defines direct and indirect discrimination.  Discrimination  on  the  basis  of  gender  identity  and  sexual  orientation  is  explicitly defined in Article 19. In this way, the implementation of the subject reforms can have a strong legal basis. In order to concretize the activities of the Government work program for 2024, it is planned to adopt  the  draft  Law  on  Equality  and  Prohibition  of  Discrimination  with  the  aim  of  achieving  full compliance  with  EU  standards.  The  aforementioned  programme  also  includes  a  report  on  the implementation of the National Strategy for Gender Equality (2021-2025) for the year 2023, with the aim of improving the application of the normative framework, improving education and the media to reduce  stereotypes  and  increase  the  participation  of  women  and  persons  of  different  gender identities. Within the framework of the National Sustainable Development Strategy of Montenegro until  2030,  which  was  adopted  in  2016,  the  goals  of  sustainable  development  of  the  UN  are integrated. The results expected by this strategic document by 2030 include among other important goals, the elimination of all forms of violence against women and girls.
 
@@ -756,27 +692,7 @@ For reference: Article/Paragraph 5(1)© of the Convention/Recommendation provide
 
 ☒ Financial incentives and fellowships are provided for national minorities
 
-Other 39 :
-
-In the subject programmes, within the methodological framework, the state prescribes about 80-85% of the content, and the rest of 15-20% is the autonomy of schools, teacher professional actives and teachers to be able to plan and implement the content in the part of the free curriculum. In that part, students can realize content of local importance in the area of culture, art, language, customs, history, and  in  this  way,  content  of  local  importance  that  can  serve  in  anti-discrimination  activities  and development of students of all nationalities, races and religious communities.
-
-The Action Plan for the Implementation of the Strategy of Social Inclusion of Roma and Egyptians 2021-2025  for  the  period  of  2024  and  2025 ,  Operational  Objective  5:  To  improve  the  availability, effectiveness  and  quality  of  education  for  all  members  of  the  Roma  and  Egyptian  community,  the following activities are foreseen:
-
--  Trainings  for  educators,  mediators  and  professional  associates  in  kindergartens  with  the  aim  of building capacities for providing support to RE children based on their needs, carrying out visits to Roma settlements, increasing the coverage of RE children with preschool education and education, as well as providing support for regular kindergarten attendance;
-
-- Teacher training to support RE children to acquire basic reading and math skills through regular and supplementary/additional classes and prevention of early school leaving;
-
-- Adaptation and training for facilitators for the implementation of the "Caring Families" programme in
-
-preschool institutions and primary schools enrolling the largest number of RE children..., etc.
-
-- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
-
-> 39 Please  see:  UNESCO  report 'The  right  to  education  of  minorities:  Overview  of  States'  measures  reported  in  the  10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023.
-
-> 40 Supra note 15.
-
-> 41 Supra note 16.
+Other 39:
 
 ☒ Teachers are trained on intercultural education
 
@@ -789,6 +705,24 @@ preschool institutions and primary schools enrolling the largest number of RE ch
 ☒ Adapting curricula and teaching and learning methods to their needs for national minorities
 
 ☒ Curricula are rid of all stereotypes 41 and bias
+
+In the subject programmes, within the methodological framework, the state prescribes about 80-85% of the content, and the rest of 15-20% is the autonomy of schools, teacher professional actives and teachers to be able to plan and implement the content in the part of the free curriculum. In that part, students can realize content of local importance in the area of culture, art, language, customs, history, and in this way, content of local importance that can serve in anti-discrimination activities and development of students of all nationalities, races and religious communities.
+
+The Action Plan for the Implementation of the Strategy of Social Inclusion of Roma and Egyptians 2021-2025 for the period of 2024 and 2025, Operational Objective 5: To improve the availability, effectiveness and quality of education for all members of the Roma and Egyptian community, the following activities are foreseen:
+
+- Trainings for educators, mediators and professional associates in kindergartens with the aim of building capacities for providing support to RE children based on their needs, carrying out visits to Roma settlements, increasing the coverage of RE children with preschool education and education, as well as providing support for regular kindergarten attendance;
+
+- Teacher training to support RE children to acquire basic reading and math skills through regular and supplementary/additional classes and prevention of early school leaving;
+
+- Adaptation and training for facilitators for the implementation of the "Caring Families" programme in preschool institutions and primary schools enrolling the largest number of RE children..., etc.
+
+- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
+
+> 39 Please see: UNESCO report 'The right to education of minorities: Overview of States' measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023.
+
+> 40 Supra note 15.
+
+> 41 Supra note 16.
 
 [[END OF PAGE 24]]
 
@@ -824,7 +758,7 @@ School year 2023/2024: Number of children according to age groups: (0-3) M 3635,
 
 An example of the sucessful integration in the education of RE population is reported in Berane in the northern part of Montenegro, where currently there are 60 children from the RE population in the kindergarten,  with  one  RE  mediator  who  works  part-time  in  the  kindergarten  and  part-time  in elementary school. Children are educated in the Public Preschool Institution ' Radmila Nedic ' in Berane together with children from the majority population. In that part, success was achieved in terms of children 's regular attendance of the kindergarten with continuation of this practice for three years now, due to free transportation provided both for primary and preschool RE children. The success is visible in  terms  of  better  children  socialization,  better  preparation  for  school  and  better  learning  of  the language 44 . (observation by the NGO 'Association for the support to Roma and Egyptian') .
 
-Transportation -In accordance  with  the  RE Inclusion Strategy 2021-2025,  every  year, free transportation is provided for over 600 primary school students of the RE population in cities where lives a larger number of the RE population (Podgorica, Berane, Nikšić and Cetinje). The transport of RE children in the municipality of Kotor for RE children who are far from school is expected as well. In 2024/2025, another large bus is provided for the transport of primary school students in Podgorica.
+Transportation - In accordance with the RE Inclusion Strategy 2021-2025, every year, free transportation is provided for over 600 primary school students of the RE population in cities where
 
 > 42 The website of the Ministry of Education, Scienece and Innovation, the Directorate for the Education of the  Minority Pepoles and Groups
 
@@ -836,11 +770,13 @@ Transportation -In accordance  with  the  RE Inclusion Strategy 2021-2025,  ever
 
 [[START OF PAGE 26]]
 
+lives a larger number of the RE population (Podgorica, Berane, Nikšić and Cetinje). The transport of RE children in the municipality of Kotor for RE children who are far from school is expected as well. In 2024/2025, another large bus is provided for the transport of primary school students in Podgorica.
+
 Associates (mediators) -  The  engagement  of  associates  (mediators)  in  the  social  inclusion  of  RE  in education continued as for a number of years. This practice has proven to be extremely useful for the inclusion of RE population children in the education system, as well as for reducing drop-outs. In total, 26 associates (mediators) work in primary schools: in Podgorica, Nikišić, Bar, Berane, Ulcinj, Herceg Novi and Tivat as of this school year. Currently, according to the current rulebook, for the engagement of collaborators in the social inclusion of RE in education, if more than 70 RE population students are being educated,  one associate can be approved. An initiative to  amend  the Rulebook for collaborators/mediators was launched, in which it was proposed that there should be 35 children of the RE population per mediator. Amendments to the Rulebook were adopted by the National Council for  Education  and  is  at  present  in  the  procedure  of  being  considered for  legislative  opinion  by  the goverenment secreteriat.
 
 Trainings -  From 2021 to 2024, the Ministry of Education, Science and Innovation organized several trainings for the associates in social inclusion of RE in education. For example, during August 2024, training was organized for associates/mediators in schools, and the members of the RE population were especially encouraged to apply to the published public call. (Ministry website)
 
-Scholarships  In  accordance  with  measure  5.8  and  measure  5.11  of  the  Action  Plan  for  the Implementation of the Strategy for the Social Inclusion of Roma and Egyptians in Montenegro 20212025, the Ministry of Education, Science and Innovation every year announces a competition in order to award scholarships to secondary school and faculty students. (Ministry website , Directorate for Pupil and Student Standards, Directorate for Education of  National  Minorities).  From  the academic year 2024/2025, the amount of the stipend for RE students is increased.
+Scholarships - In accordance with measure 5.8 and measure 5.11 of the Action Plan for the Implementation of the Strategy for the Social Inclusion of Roma and Egyptians in Montenegro 2021-2025, the Ministry of Education, Science and Innovation every year announces a competition in order to award scholarships to secondary school and faculty students. (Ministry website , Directorate for Pupil and Student Standards, Directorate for Education of National Minorities). From the academic year 2024/2025, the amount of the stipend for RE students is increased.
 
 Student Dormitories -  Within its accommodation capacity, the dormitory designates up to 5% of its capacity  for  accommodation  of  students  with  disabilities,  students  of  the  RE  population  and beneficiaries of material security.
 
@@ -848,13 +784,15 @@ Commemoration of Roma Day - As part of the celebration of April 8, the World Rom
 
 In  accordance  with the  Strategy  for  the  Fight  against  Human  Trafficking  2019-2024 ,  and  on  the occasion of celebrating of the 18th October - the European Day against Human Trafficking, the Ministry of  Education,  Science  and  Innovation  every  year  disseminates  a  circular  letter  to  all  primary  and secondary schools in Montenegro. According to the feedback received from the schools, during the celebration of this day in October 2023, more than 70 primary and secondary schools celebrate October 18, the European Day against Human Trafficking. On the occasion of this day , over 700 workshops, presentations, lectures on the topic of cyber violence and human trafficking, sexual violence, sexual exploitation, artistic expressions, documentaries, plays, skits, readings, debates, etc. were held. Schools also publish materials related to October 18 - the European Day against Human Trafficking - on their Facebook  pages  and  websites.  (social  networks  of  the  Ministry,  social  networks  of  primary  and secondary schools.
 
-Training -  In  accordance  with the  Strategy  for  the  Fight  against  Human  Trafficking  2019-2024 ,  the Ministry of Education, Science and Innovation, in cooperation with the Bureau for Education and the Department for Combating Trafficking in Human Beings, held two-day training sessions for professional development  of  teachers  every  year  on  the  topic:  "Educational  system  in  the  prevention  of  child trafficking, illegal marriages and economic exploitation of children". In the forthcoming period other trainings for teachers related to the prevention of child trafficking are planned.
+Training -  In  accordance  with the  Strategy  for  the  Fight  against  Human  Trafficking  2019-2024 ,  the Ministry of Education, Science and Innovation, in cooperation with the Bureau for Education and the Department for Combating Trafficking in Human Beings, held two-day training sessions for professional development  of  teachers  every  year  on  the  topic:  "Educational  system  in  the  prevention  of  child
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
 
-Modular vocational education curriculum The Law on National Vocational Qualifications determines three  types  of  qualifications:  education  qualifications,  vocational  qualifications  and  'additional' qualifications. According to the law, students can acquire education level qualifications by completing education programmes of formal education which are confirmed with the diploma. When obtained this diploma,  student  can  enter  into  the  labour  market  or  continue  education.  By  completing  such education programmes student can acquire two or more vocational qualifications, depending whether the education programme is based on two or more occupational standards and qualification standards. Providers  of  such  education  are  formal  education  institutions,  i.e.  schools.  On  the  other  hand, vocational qualifications are acquired by completion of a module of the educational programme of formal  education,  completion  of  short  non-formal  learning  programmes,  by  direct  verification  of previously  acquired  knowledge  or  by  recognition  of  foreign  certificates  on  the  acquired  vocational qualification. Vocational qualifications are acquired for the purpose of employment and can be taken into consideration for the completion of the qualifications of the level of education. Acquired vocational qualification is confirmed with the certificate. Providers of such education are schools, providers of adult education, higher and technical institutes, academies etc.
+trafficking, illegal marriages and economic exploitation of children". In the forthcoming period other trainings for teachers related to the prevention of child trafficking are planned.
+
+Modular vocational education curriculum - The Law on National Vocational Qualifications determines three  types  of  qualifications:  education  qualifications,  vocational  qualifications  and  'additional' qualifications. According to the law, students can acquire education level qualifications by completing education programmes of formal education which are confirmed with the diploma. When obtained this diploma,  student  can  enter  into  the  labour  market  or  continue  education.  By  completing  such education programmes student can acquire two or more vocational qualifications, depending whether the education programme is based on two or more occupational standards and qualification standards. Providers  of  such  education  are  formal  education  institutions,  i.e.  schools.  On  the  other  hand, vocational qualifications are acquired by completion of a module of the educational programme of formal  education,  completion  of  short  non-formal  learning  programmes,  by  direct  verification  of previously  acquired  knowledge  or  by  recognition  of  foreign  certificates  on  the  acquired  vocational qualification. Vocational qualifications are acquired for the purpose of employment and can be taken into consideration for the completion of the qualifications of the level of education. Acquired vocational qualification is confirmed with the certificate. Providers of such education are schools, providers of adult education, higher and technical institutes, academies etc.
 
 Therefore,  vocational  education  with  modularized  curricula  and  individualized  approach  opens opportunities for vulnerable and marginalized gropus (SEN, Roma, etc.) to complete levels od education and obtain qualifications at their own preferance and capabilities, offering fair chances for employment and continuation of education.
 
@@ -996,7 +934,17 @@ o When evaluating and assessing students from other speaking areas, we should st
 
 [[START OF PAGE 30]]
 
-o When  evaluating  and  assessing  students  from  other  speaking  areas,  individualized  planning  of assessment elements and criteria for each student is recommended, at the level of teacher professional actives and in cooperation with the professional service of the school. Depending on the assessment of the initial situation for each subject, depending on the knowledge of the language and the assessed capabilities of the students, it is necessary to develop special elements and evaluation criteria taking into account the best interest of the child. o Based on the fact that the reading literacy and communication skills of the students are the main obstacle  in  mastering  the  foreseen  obligations,  and  that  these  skills  are  represented  in  different degrees in different subjects, it is necessary to separately plan the elements and criteria of evaluation and  assessment  for  each  subject.  So  for  example  language  comprehension  is  of  less  importance (although  not  without  importance)  in  the  teaching  of  mathematics  and  art  education  than  in  the teaching of the sub ject 'Monteneg rin-Serbian, Bosnian and Croatian language and literature' (M-SBC) or in the teaching of history. o When determining the assessment elements, in addition to knowledge, the student's commitment and his  approach  to  teaching  and  the  obligations  he  receives  from  the  teacher  at  school  must  be included. o When planning the elements and criteria of student evaluation and assessment, as well as when planning student exam obligations, it is desirable to actively involve the students themselves (especially in  higher  grades)  and  their  parents  (especially  in  lower  grades).  As  a  result  of  the  involvement  of students  in  this  process,  the  development  of  student  autonomy  and  a  sense  of  responsibility  for fulfilling predetermined obligations and assessment criteria is expected. o  Acquaintance  of  students  and  parents  with  evaluation  and  assessment  criteria.  If  they  were  not actively involved in the process of planning the elements and criteria of evaluation and assessment, as well as when planning the student's examination obligations, the school (every teacher) is obliged to familiarize the students with the elements of monitoring and evaluation (what will be monitored and evaluated), with the evaluation criteria (what is expected of students), with forms of monitoring and evaluation  (how  will  monitoring  and  evaluation  of  students  take  place:  oral,  written,  through  the preparation of practical works, etc.). o Assessment of the students should be approached individually. It is not desirable to compare the students with other students from the class, but they should be evaluated in relation to their initial state, taking into account the current knowledge of the language and the estimated capabilities of the students. o It is desirable to announce the exam obligations to the student. The time and date of the knowledge test  can  be  agreed  with  parents  and/or  students.  For  example,  the  parent  and/or  student  can  be informed about the date of the knowledge test at least seven days in advance, so that the student can prepare. This is especially desirable in situations where the purpose of the test is to evaluate students numerically. o It is recommended to use those forms of monitoring and evaluation that involve speaking skills and good knowledge of the M-SBC language to a lesser extent. The level to which the student has mastered a  certain  outcome  can  be  equally  successfully  assessed  based  on  the  application  of  expected knowledge, skills, etc. for example practical creation of projects, posters, demonstrations and the like. o In all cases of knowledge testing, it is especially important to leave enough time for these students to complete the task. The foreign language students will certainly need more time to read the task and more time to formulate the solution to the tasks. o It is not recommended to use questions and tasks, the solution of which requires a high degree of knowledge of the M-SBC language (eg. free compositions and tasks that require a rich vocabulary and developed language expression). o When knowledge check tasks and other tests are used for these students, closed-type tasks (where the  student  is  expected  to  choose  one  or  more  correct  answers  from  the  ones  offered)  are  more appropriate. When open-ended tasks are used, these students find it easier to complete completion tasks (where the student is expected to fill in a missing term or sentence) than essay-type tasks (where the student is asked to more broadly elaborate and elaborate on the topic).
+o When evaluating and assessing students from other speaking areas, individualized planning of assessment elements and criteria for each student is recommended, at the level of teacher professional actives and in cooperation with the professional service of the school. Depending on the assessment of the initial situation for each subject, depending on the knowledge of the language and the assessed capabilities of the students, it is necessary to develop special elements and evaluation criteria taking into account the best interest of the child.
+o Based on the fact that the reading literacy and communication skills of the students are the main obstacle in mastering the foreseen obligations, and that these skills are represented in different degrees in different subjects, it is necessary to separately plan the elements and criteria of evaluation and assessment for each subject. So for example language comprehension is of less importance (although not without importance) in the teaching of mathematics and art education than in the teaching of the subject “Montenegrin-Serbian, Bosnian and Croatian language and literature” (M-SBC) or in the teaching of history.
+o When determining the assessment elements, in addition to knowledge, the student's commitment and his approach to teaching and the obligations he receives from the teacher at school must be included.
+o When planning the elements and criteria of student evaluation and assessment, as well as when planning student exam obligations, it is desirable to actively involve the students themselves (especially in higher grades) and their parents (especially in lower grades). As a result of the involvement of students in this process, the development of student autonomy and a sense of responsibility for fulfilling predetermined obligations and assessment criteria is expected.
+o Acquaintance of students and parents with evaluation and assessment criteria. If they were not actively involved in the process of planning the elements and criteria of evaluation and assessment, as well as when planning the student's examination obligations, the school (every teacher) is obliged to familiarize the students with the elements of monitoring and evaluation (what will be monitored and evaluated), with the evaluation criteria (what is expected of students), with forms of monitoring and evaluation (how will monitoring and evaluation of students take place: oral, written, through the preparation of practical works, etc.).
+o Assessment of the students should be approached individually. It is not desirable to compare the students with other students from the class, but they should be evaluated in relation to their initial state, taking into account the current knowledge of the language and the estimated capabilities of the students.
+o It is desirable to announce the exam obligations to the student. The time and date of the knowledge test can be agreed with parents and/or students. For example, the parent and/or student can be informed about the date of the knowledge test at least seven days in advance, so that the student can prepare. This is especially desirable in situations where the purpose of the test is to evaluate students numerically.
+o It is recommended to use those forms of monitoring and evaluation that involve speaking skills and good knowledge of the M-SBC language to a lesser extent. The level to which the student has mastered a certain outcome can be equally successfully assessed based on the application of expected knowledge, skills, etc. for example practical creation of projects, posters, demonstrations and the like.
+o In all cases of knowledge testing, it is especially important to leave enough time for these students to complete the task. The foreign language students will certainly need more time to read the task and more time to formulate the solution to the tasks.
+o It is not recommended to use questions and tasks, the solution of which requires a high degree of knowledge of the M-SBC language (eg. free compositions and tasks that require a rich vocabulary and developed language expression).
+o When knowledge check tasks and other tests are used for these students, closed-type tasks (where the student is expected to choose one or more correct answers from the ones offered) are more appropriate. When open-ended tasks are used, these students find it easier to complete completion tasks (where the student is expected to fill in a missing term or sentence) than essay-type tasks (where the student is asked to more broadly elaborate and elaborate on the topic).
 
 [[END OF PAGE 30]]
 
@@ -1014,15 +962,11 @@ Through  an  online  questionnaire,  the  Ministry  obtained  the  following  da
 
 - In  schools,  1,956  hours  of  supplementary  and  additional  classes  (for  all  subjects)  were  held, attended by 305 students.
 
-56 ' Guidelines for the inclusion of students from other speaking areas in educational institutions in Montenegro ' and 'T he Guidelines for the evaluation and assessment of students from other speaking areas ' , Bureau for Education Services
+56 “Guidelines for the inclusion of students from other speaking areas in educational institutions in Montenegro” and “The Guidelines for the evaluation and assessment of students from other speaking areas”, Bureau for Education Services
 
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
-
-57
-
-58
 
 - 728 hours of free activities were realized in which 259 students participated.
 
@@ -1030,7 +974,7 @@ Through  an  online  questionnaire,  the  Ministry  obtained  the  following  da
 
 - As support for the students, four Ukrainian teachers were hired who taught 59 lessons.
 
-The UNICEF office in Montenegro published the article on the integration of children from Ukraine, entitled  'Classrooms  open  to  children  from  foreign  countries:  with  the  support  of  the  school, everything is easier' https://www.unicef.org/montenegro/price/u%C4%8Dionice-otvorene-i-za-djecuiz-stranih-zemalja-uz-podr%C5%A1ku-%C5%A1kole-sve-je-lak%C5%A1e  57
+The UNICEF office in Montenegro published the article on the integration of children from Ukraine, entitled  'Classrooms  open  to  children  from  foreign  countries:  with  the  support  of  the  school, everything is easier' https://www.unicef.org/montenegro/price/u%C4%8Dionice-otvorene-i-za-djecu-iz-stranih-zemalja-uz-podr%C5%A1ku-%C5%A1kole-sve-je-lak%C5%A1e  57
 
 - Have specific measures been adopted for climate displaced persons?
 
@@ -1039,8 +983,6 @@ The UNICEF office in Montenegro published the article on the integration of chil
 ☒ No
 
 - Please elaborate:
-
-> The Ministry of Education, Science and Innovation Work Report 2023 The National Strategy on Climate Change by 2030, with version in Montenegrin available, the link: https://www.gov.me/dokumenta/cd1130f8-668b-4fbd-a094-20a04af536aa
 
 National climate change adaptation measures can affect education in several different ways. These measures often include educational components related to raising awareness, developing new skills, and adapting educational systems to new needs. Here are some key aspects of how these measures affect education:
 
@@ -1056,11 +998,15 @@ Strengthening  awareness  and  knowledge  about  climate  change, its  consequen
 
 In  September 2015, the Government of Montenegro adopted the National Strategy in the field of climate  change  until  2030 58 ,  which  contains  measures  to  reduce  and  additional  reduction  of greenhouse gas emissions, a draft of the strategic framework for adapting to climate change, including
 
+> 57 The Ministry of Education, Science and Innovation Work Report 2023
+
+> 58 The National Strategy on Climate Change by 2030, with version in Montenegrin available, the link: https://www.gov.me/dokumenta/cd1130f8-668b-4fbd-a094-20a04af536aa
+
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
 
-an assessment of the costs and social-economic impacts of implementing the measures provided for in the strategy, as well as the accompanying action plan. The National Strategy in the Field of Climate hange  until  2030  is  a  key  policy  instrument  for  climate  change  management  in  Montenegro  and establishes  the  Government's  obligation  to  act  against  climate  change  in  an  integrated  and multisectoral manner, respecting the international obligations that the country has undertaken under the  UNFCCC.  The  strategy  defines  a  vision  until  2030  in  order  to  enable  Montenegro  to  adapt  to negative effects and promote low-carbon sustainable development. The National Strategy for Climate Change focuses largely on alignment with the EU legislative framework on climate change. The National Strategy for Climate Change provides the necessary guidelines for mitigation and adaptation measures. The objectives of the strategy are also followed by various means of implementation: strengthening of institutions  and  governance,  education and  training of actors, climate  change  research  and technological development, and financing.
+an assessment of the costs and social-economic impacts of implementing the measures provided for in the strategy, as well as the accompanying action plan. The National Strategy in the Field of Climate Change until 2030 is a key policy instrument for climate change management in Montenegro and establishes the Government's obligation to act against climate change in an integrated and multisectoral manner, respecting the international obligations that the country has undertaken under the UNFCCC. The strategy defines a vision until 2030 in order to enable Montenegro to adapt to negative effects and promote low-carbon sustainable development. The National Strategy for Climate Change focuses largely on alignment with the EU legislative framework on climate change. The National Strategy for Climate Change provides the necessary guidelines for mitigation and adaptation measures. The objectives of the strategy are also followed by various means of implementation: strengthening of institutions and governance, education and training of actors, climate change research and technological development, and financing.
 
 In  the  Report  on  the  Implementation  of this  Strategy,  it  is  stated  that  through  the  cross-curricular programme "Education in the area of disaster risk reduction", and in cooperation with the Bureau of Education, for several years, teachers and professors of primary and secondary schools were trained and numerous presentations were made on this topic to primary and secondary school students.
 
@@ -1086,9 +1032,9 @@ In  order  to  solve  this  problem,  the  current national  action  plans 60 pr
 
 Universities  and  organizers  of  lifelong  learning -  The  study  offer  at  universities  will  be  analyzed, additional studies and modules will be determined and will be integrated into the offer of universities and  organizers  of  lifelong  learning.  The  new  offer  of  studies  and  modules  will  further  expand  the knowledge and interest of  secondary  school  students  in  climate  change  mitigation  and  adaptation practices and increase the skill level of the future workforce. For  secondary schools and universities/OCUs, professional development programmes will be organized for teachers to improve their  understanding  and  knowledge  of  climate  change,  to  acquire  skills  for  effective  and  engaged teaching of these subjects to pupils and students. Sample lesson plans, teaching materials and resource kits will be made available to institutions in educationally disadvantaged or deprived areas to ensure that  all  pupils/students  have  equal  learning  opportunities. Government  institutions: The  current training offer for government institutions and sector teams will be analysed. A revised training and capacity  development  programme  will  be  developed  to  be  implemented  in  all  institutions,  with mandatory  training  for  key  sectors  likely  to  be  significantly  affected  by  climate  change  (including agriculture, water, health and tourism). For these vulnerable sectors, specialized programmes adapted to the risks and needs of employees in the given sector will be developed.
 
-Within the Third Biennial Updated Report of Montenegro according to the United Nations Convention on  Climate  Change it  is  concluded,  among  other  things,  that  Montenegro  still  relies  on  technical assistance when it comes to modeling greenhouse gas emissions, as well as modeling the impact of climate change at the national and local level. As these activities require special professional knowledge and skills, and in the absence of a national educational programme and professional training in this area,  it  is  expected  that  national  institutions  continue  to  count  on  technical  assistance  from international  institutions.  Certainly,  the  future  plans  of  the  competent  institutions  must  go  in  the direction of a permanent institutional solution to these activities, which are crucial in the credible longterm planning of climate neutrality and resistance to negative climate impacts. In the Final Report of the Ministry of Interior Affairs on the implementation of the Strategy for Disaster Risk Reduction for the period 2018-2023, it is stated that the following was achieved within the framework of strategic goal no. 1: Raising awareness of citizens and encouraging institutions to implement activities in the area of disaster risk reduction: "in the past six-year period, out of a total of 25 planned, 23 activities were implemented. Good practices have been established, primarily in the field of promotion and education of  citizens,  and  by  including  the  topics  of  disaster  risk  reduction  in  the  curriculum  of  educational institutions,  which  is  the  best  model  of  continuity  of  awareness  raising  in  the  field  of  disaster  risk reduction. In the past period, a large number of workshops, seminars, educations on various topics were held. In the past six-year period, 65 accredited two-day seminars were held for teachers and professional associates for education in the application of the interdisciplinary programme "Education in the field of disaster risk reduction", where 1730 participants were trained.
+Within the Third Biennial Updated Report of Montenegro according to the United Nations Convention on Climate Change it is concluded, among other things, that Montenegro still relies on technical assistance when it comes to modeling greenhouse gas emissions, as well as modeling the impact of climate change at the national and local level. As these activities require special professional knowledge and skills, and in the absence of a national educational programme and professional training in this area, it is expected that national institutions continue to count on technical assistance from international institutions. Certainly, the future plans of the competent institutions must go in the direction of a permanent institutional solution to these activities, which are crucial in the credible long-term planning of climate neutrality and resistance to negative climate impacts. In the Final Report of the Ministry of Interior Affairs on the implementation of the Strategy for Disaster Risk Reduction for the period 2018-2023, it is stated that the following was achieved within the framework of strategic goal no. 1: Raising awareness of citizens and encouraging institutions to implement activities in the area of disaster risk reduction: “in the past six-year period, out of a total of 25 planned, 23 activities were implemented. Good practices have been established, primarily in the field of promotion and education of citizens, and by including the topics of disaster risk reduction in the curriculum of educational institutions, which is the best model of continuity of awareness raising in the field of disaster risk reduction. In the past period, a large number of workshops, seminars, educations on various topics were held. In the past six-year period, 65 accredited two-day seminars were held for teachers and professional associates for education in the application of the interdisciplinary programme “Education in the field of disaster risk reduction”, where 1730 participants were trained.
 
-The draft Strategy for Disaster Risk Reduction for the period 2025-2030 with an action plan for 20252026 61 of the Ministry of Internal Affairs defines several measures that include the area of education through  increasing  information  and  risk  preparedness  of  the  population  supports  SDG  1,  3  and  4 through education, awareness raising and capacity building to ensure that communities can adequately respond to the challenges brought by climate change and disaster risks. In this strategy, one of the goals is  aimed  at  strengthening  disaster  risk  management  through  the  operational  goal  of  forecasting  improving  risk  assessment,  forecasting  and  disaster  risk  management  planning.  As  part  of  this operational goal, the organization of the seminar "Education in the field of disaster risk reduction" is foreseen. It is an accredited two-day seminar for teachers and professional associates for education in the application of the interdisciplinary program "Education in the field of disaster risk reduction". Five seminars are planned annually. Seminars are to be held at the local/regional level. The Bureau for Education will send letters to educational institutions about the time, place, agenda of the seminar and the professional profile of the teachers participating in the seminar. The aim of the seminar is: to raise the level of awareness and knowledge of directors of educational institutions, teachers and professional associates about education in situations caused by various hazards, as well as measures of prevention, preparedness, intervention and recovery.
+The draft Strategy for Disaster Risk Reduction for the period 2025-2030 with an action plan for 2025-2026 61 of the Ministry of Internal Affairs defines several measures that include the area of education through increasing information and risk preparedness of the population supports SDG 1, 3 and 4 through education, awareness raising and capacity building to ensure that communities can adequately respond to the challenges brought by climate change and disaster risks. In this strategy, one of the goals is aimed at strengthening disaster risk management through the operational goal of forecasting - improving risk assessment, forecasting and disaster risk management planning. As part of this operational goal, the organization of the seminar “Education in the field of disaster risk reduction” is foreseen. It is an accredited two-day seminar for teachers and professional associates for education in the application of the interdisciplinary programme “Education in the field of disaster risk reduction”. Five seminars are planned annually. Seminars are to be held at the local/regional level. The Bureau for Education will send letters to educational institutions about the time, place, agenda of the seminar and the professional profile of the teachers participating in the seminar. The aim of the seminar is: to raise the level of awareness and knowledge of directors of educational institutions, teachers and professional associates about education in situations caused by various hazards, as well as measures of prevention, preparedness, intervention and recovery.
 
 61 https://www.gov.me/dokumenta/a9cef7cc-015d-4433-a86c-38bba3357126
 
@@ -1134,6 +1080,12 @@ Some of the cases reported would be parents not been able to enroll their childr
 
 ☐ Other
 
+☒ Curricula and teaching and learning methods are adapted
+
+☒ Curricula are rid of all stereotypes 65 and bias
+
+☒ Education infrastructure and learning materials are adapted
+
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
 The  Law  on  the  Education  of  Children  with  Special  Educational  Needs ,  in  the  Article  5  states  that: Upbringing and education, that is, habilitation and rehabilitation of children with special educational needs is mandatory from the moment the child's special educational needs are discovered. The upbringing and education of children with special educational needs provides the level of education that corresponds to their physical, intellectual, emotional and social development.
@@ -1150,19 +1102,13 @@ The space, equipment and teaching aids of preschool institutions, schools and re
 
 For the upbringing and education of children with special educational needs, the school and the resource center are obliged to provide access to the facility and adequate educational technology, as a form of additional teaching aids (enlarged print, Braille, etc.).
 
-Prohibition  of  discrimination is  incorporated  in Article  8a  of  the  same  Law ,  as  follows:  'Physical, psychological and social violence is not allowed in the school and resource center; abuse and neglect of children  and  students;  physical  punishment  and  personal  insult,  that  is,  sexual  abuse  of  children  and students or employees an d any other form of discrimination in accordance with a special law.'
+Prohibition  of  discrimination is  incorporated  in Article  8a  of  the  same  Law ,  as  follows:  'Physical, psychological and social violence is not allowed in the school and resource center; abuse and neglect of children  and  students;  physical  punishment  and  personal  insult,  that  is,  sexual  abuse  of  children  and students or employees and any other form of discrimination in accordance with a special law.'
 
 Brief overview of the key inclusive mechanisms in place:
 
 The mobile support services for inclusive education . As it was the practice in the last couple of years in providing this type of service, in 2023 the support was provided for 340 students with special educational needs, as well as through the advisory activities for teachers and parents. Non-discrimination workshops were held in primary schools, the Index of Inclusivity was implemented and the Day about the Inclusion was celebrated.
 
 The support from the resource centers is provided in the form of the staff visits to regular schools, in the production of the materials for working by using assistive technology (Braille textbooks etc.). Along with
-
-☒ Curricula and teaching and learning methods are adapted
-
-☒ Curricula are rid of all stereotypes 65 and bias
-
-☒ Education infrastructure and learning materials are adapted
 
 65 Supra note 16.
 
@@ -1186,7 +1132,7 @@ With  UNICEF,  the  Ministry  of  Health  and  the  Association  of  Psychologis
 
 The  Vocational  Education  Development  Strategy  in  Montenegro  (2020-2024) defines  as  one  of  its operational goals: Vocational education that enables skills, competences  and  qualifications for employability, lifelong learning, inclusiveness, personal development and active citizenship of individuals. With this, a series of measures and activities that prevent discrimination of all kinds are defined, including persons with disabilities, i.e. that enable a flexible system of vocational education in accordance with the individual capabilities of students. The inclusive measures for persons with disabilities in the vocational education system envisage an individualized approach from entering the VET system (Individual Transition Plan 1 - which is implemented by the primary school in cooperation with the student, parents and high school),  while  attending  the  educational  programme,  the  development  of  an  individual-development educational programme is foreseen for every student enrolled in the educational programme by decision of the guidance committee, and for all other students where the teachers deem it necessary. Individual support provided also when exiting the VET system and moving to a higher level of education, i.e. to the labour market, through the Individual Transition Plan 3 process, i.e. 2.
 
-> 66 School teachers' p ortal: https://www.skolskiportal.edu.me/Pages/Inkluzivnoobrazovanje.aspx
+> 66 School teachers' portal: https://www.skolskiportal.edu.me/Pages/Inkluzivnoobrazovanje.aspx
 
 > 67 The Ministry of Education, Science and Innovation work reports
 
@@ -1202,7 +1148,7 @@ In  adult  education,  the  methodology  for  developing  education  programmes 
 
 Within the activities under the Youth Guarantee National implementation plan by 2026 (adopted in July 2024) in Montenegro, the mapping of youth who are not in education, employment or training (NEET) is underway, with the aim to provide comprehensive data on the overall number of NEET population. The aim of the European Union Programme ' Youth Guarantee ' is to support young people and facilitate their rapid inclusion in the labour market right after they complete their education or training.
 
-According to the Analysis of the progress in the implementation of the Inclusive Education Strategy 20192025 ,  an  increased inclusion of children with special educational needs in regular teaching activities is recorded, with significant increase of 7% in preschool and 5% recorded in secondary education.
+According to the Analysis of the progress in the implementation of the Inclusive Education Strategy 2019-2025 ,  an  increased inclusion of children with special educational needs in regular teaching activities is recorded, with significant increase of 7% in preschool and 5% recorded in secondary education.
 
 - What challenges were encountered in realizing the right to education of people with disabilities? If needed, brief quantitative information may be added.
 
@@ -1236,13 +1182,13 @@ The Law on Primary Education and Upbringing in Article 2 b prescribes that: Ever
 
 According to the General Law on Education and Training - Article 130, the student has the right to:
 
-- accommodation and food in the student dormitory;
+1) accommodation and food in the student dormitory;
 
-- scholarship for the talented;
+2) scholarship for the talented;
 
-- 2a) scholarship for deficient qualifications;
+2a) scholarship for deficient qualifications;
 
-- transportation participation.
+3) transportation participation.
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
@@ -1270,7 +1216,7 @@ The NGO for the support of RE population provided their reflexion on specific ca
 
 ### 2.1 Early childhood care and education
 
-For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explicitly  provided  for  in  the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initi ally recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 73 and more recently, the Tashkent  Declaration  and  Commitments  to  Action  for  Transforming  Early  Childhood  Care  and Education 74 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre -primary education'.
+For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explicitly  provided  for  in  the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 73 and more recently, the Tashkent  Declaration  and  Commitments  to  Action  for  Transforming  Early  Childhood  Care  and Education 74 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 · Please  indicate  the  measures  taken  to  ensure  access  to  quality  ECCE (several  items  may  be ticked):
 
@@ -1278,15 +1224,15 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
 ☒ Prior to pre-primary education, ECCE services are affordable
 
-☒ ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
+☒ ECCE services are accessible on a non-discriminatory basis
 
-☒ ECCE services are accessible on a nondiscriminatory basis
+☒ ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
 - Please elaborate further on the measures taken:
 
 Pre-school education and care and educational work in early childhood (nursery) is available to all children in Montenegro. It is implemented in public and private licensed preschool institutions. The coverage of children of this age (0-3 years) is significantly lower compared to children of kindergarten age (3-6 years). The price of children's stay is affordable in public preschool institutions.
 
-The  services  of  care  and  educational  work  in  the  nursery  age  (0-3  years)  are  available  on  a  nondiscriminatory basis. When enrolling, all children of both sexes, of different nationalities, religions and social origins, and children with special educational needs, are treated equally. In mixed areas (Ulcinj, Tuzi, Bar and Plav-Gusinje) educational work was organized in the Albanian language, respecting their specificities. Preschool upbringing and education is available to children of the RE population, although their presence at the age of 0 to 3 is rare. In recent years, an increase in the number of children of foreign nationals (Russia, Ukraine, Turkey...) has been observed in preschool institutions.
+The services of care and educational work in the nursery age (0-3 years) are available on a non-discriminatory basis. When enrolling, all children of both sexes, of different nationalities, religions and social origins, and children with special educational needs, are treated equally. In mixed areas (Ulcinj, Tuzi, Bar and Plav-Gusinje) educational work was organized in the Albanian language, respecting their specificities. Preschool upbringing and education is available to children of the RE population, although their presence at the age of 0 to 3 is rare. In recent years, an increase in the number of children of foreign nationals (Russia, Ukraine, Turkey...) has been observed in preschool institutions.
 
 The services offered in preschool institutions respect a holistic approach and integrated learning, which means that all areas of children's development are equally stimulated. Children's nutrition is generally monitored by nutritionists. Nurses monitor the health and safety of children. Children with special educational needs receive a special part of support from professional associates (speech therapist, defectologist, psychologist, pedagogue).
 
@@ -1316,7 +1262,7 @@ School year 2023/2024: Total number of children is 25,077, of which 13,084 were 
 
 ☐ Pre-primary education is free of charge for all. Please provide the duration and indicate the extent to which it is free:
 
-Pre-school education is optional. It is implemented in public and private licensed preschool institutions. It is implemented from 0 until the child starts elementary school (6). It can be implemented as a full- day, half-day stay, a three-hour programme, a shorter, specialized and occasional programme.
+Pre-school education is optional. It is implemented in public and private licensed preschool institutions. It is implemented from 0 until the child starts elementary school (6). It can be implemented as a full-day, half-day stay, a three-hour programme, a shorter, specialized and occasional programme.
 
 ☒ Pre-primary education is not free.
 
@@ -1334,7 +1280,7 @@ Preschool  education  is  not  free  for  all  children.  It  is  implemented  i
 
 Preschool upbringing and education is regulated by the General Law on Education and the Law on Preschool Education and Education, the Convention on Children's Rights, the Law on Social Security...In public preschool institutions, parents do not pay an enrollment fee when enrolling in the institution. Didactic  materials,  consumables  (crayons,  felt-tip  pens,  paper,  drawing  blocks,  plasticine,  etc.)  are provided by the institution in accordance with the financial possibilities, and some are provided by parents on a voluntary basis. Uniforms for children are not mandatory. Transportation of children is organized only for children of the RE population. In private licensed pre-school institutions, all expenses are covered by a monthly payment for the child's stay, regulated by the contract 75 .
 
-- What challenges were encountered in realizing early childhood care and education and pre- primary education?
+- What challenges were encountered in realizing early childhood care and education and pre-primary education?
 
 ☒ Limited access
 
@@ -1378,7 +1324,7 @@ In some private licensed preschool institutions, there is a lack of professional
 
 ### 2.2 Primary and secondary education
 
-For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclus ive, equitable, quality primary and secondary education -of which at least nine years are compulsory.'
+For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education – of which at least nine years are compulsory.'
 
 #### Primary education
 
@@ -1522,7 +1468,7 @@ In upper vocational school, in accordance with the educational programme, can be
 
 In the higher vocational school, the qualification of the level of higher vocational  education is acquired for a duration of two years.
 
-According to the the Law on Vocational Education , upper secondary education in Montenegro  refers to  ' vocational education lasting two years, as a continuation of secondary vocational non-university education '. The qualification obtained is the qualification of the upper secondary education level.  This qualification corresponds with the 5 th level qualification in the European Qualifications Framework.
+According to the the Law on Vocational Education , upper secondary education in Montenegro  refers to  ' vocational education lasting two years, as a continuation of secondary vocational non-university education '. The qualification obtained is the qualification of the upper secondary education level. This qualification corresponds with the 5th level qualification in the European Qualifications Framework.
 
 The  Law  on  National  Vocational  Qualifications determines  three  types  of  qualifications:  education qualifications, vocational qualifications and 'additional' qualifications. According to the Law, students can acquire education level qualifications by completing education programmes of formal education which are confirmed with the diploma. When obtained this diploma, student can enter into the labour market or continue education. By completing such education programmes student can acquire two or more vocational  qualifications,  depending  whether  the  education  programme  is  based  on  two  or  more occupational standards and qualification standards. Providers of such education are formal education institutions, i.e. schools. On the other hand, vocational qualifications are acquired by completion of a module of the educational programme of formal education, completion of short non-formal learning programmes,  by  direct  verification  of  previously  acquired  knowledge  or  by  recognition  of  foreign certificates  on  the  acquired  vocational  qualification.  Vocational  qualifications  are  acquired  for  the purpose of employment and can be taken into consideration for the completion of the qualifications of the level of education. Acquired vocational qualification is confirmed with the certificate. Providers of such education are schools, providers of adult education, higher and technical institutes, academies etc.
 
@@ -1552,8 +1498,6 @@ This  type  of  vocational  education  with  modularized  curricula  and  indivi
 
 - Please list the relevant laws and policies. Where applicable, provide information on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., exam fees, schools supplies, uniforms,  transport  and  compulsory  levies  on  parents).  Brief  quantitative  information  may  be added.
 
-- Please  indicate  whether  the  legal  minimum  age  for  employment  is  aligned  with  the  end  of compulsory education:
-
 The Law on Vocational Education, Article 1 prescribes that: Vocational education is acquired at the level of lower, secondary and higher vocational education, in the manner and under the conditions prescribed by this law .
 
 Zakon o nacionalnim
@@ -1573,6 +1517,8 @@ Secondary  education  (general  secondary  and  secondary  vocational  education
 The Strategy for the Development of Vocational Education in Montenegro (2020-2024) defines the strategic goal and operational goals of the development of professional (i.e. vocational) education. The strategic  goal  of  the  development  of  vocational  education  is:  A  quality  and  inclusive  system  of vocational education that is the basis for lifelong learning, economic and social integration, personal and professional development of the individual, with an effective system of management and financing.
 
 In  public  state  vocational  schools  and  academies  in  which  lower,  secondary  and  higher  vocational education  programmes are implemented, education is free of charge. Other expenses  -  textbooks, supplies, equipment, transportation, etc., are not covered by the state and the fees for it are borne by the parents.
+
+- Please  indicate  whether  the  legal  minimum  age  for  employment  is  aligned  with  the  end  of compulsory education:
 
 For reference: The employment laws and those related to compulsory education are interdependent and mutually reinforce each other. If the minimum age of employment is below that of compulsory education,  the  child  is  at  risk  of  dropping  out  of  school  to  work  and  therefore  not  completing compulsory education. On the other hand, if compulsory education is lower than the minimum age of employment, once the child has completed compulsory education, the door is open to child exploitation and the violation of labour laws.
 
@@ -1646,7 +1592,7 @@ Through the implementation of programmes aimed at building professional capaciti
 
 · Please list the relevant laws and policies. Where applicable, provide information on the direct costs  (e.g.,  enrolment  fees  and  tuition  fees)  and  indirect  costs  (e.g.,  exam  fees,  university supplies, transport, accommodation). Brief quantitative information may be added.
 
-Amendments to the Law on Higher Education from 2017 introduced a new model of studying (3+2+3) and practical classes as a mandatory part of study programmes, in the scope of minimum 25%. The new law also made bachelor's and master's studies free -of-charge in public institutions that enrol more than 3,500 students in public institutions every year , to ensure higher accessibility to higher education by the best pupils, regardless of their social status. In addition to this, Montenegro established the Agency for Control and Quality Assurance for Higher Education. The Law on Incentive Measures for the Development of Research and Innovations was adopted in 2021 81 .
+Amendments to the Law on Higher Education from 2017 introduced a new model of studying (3+2+3) and practical classes as a mandatory part of study programmes, in the scope of minimum 25%. The new law also made bachelor's and master's studies free-of-charge in public institutions that enrol more than 3,500 students in public institutions every year , to ensure higher accessibility to higher education by the best pupils, regardless of their social status. In addition to this, Montenegro established the Agency for Control and Quality Assurance for Higher Education. The Law on Incentive Measures for the Development of Research and Innovations was adopted in 2021 81 .
 
 Law on Higher Education , published in the "Official Gazette of Montenegro", no. 44/2014, 52/2014, 47/2015,  40/2016,  42/2017,  71/2017,  55/2018,  3/2019,  17/2019  -  second  law,  47/2019,  72/2019, 74/2020 , 104/2021, 86/2022, 86/2022-I and 125/2023. Several articles of the Law which regulate the right to higher education are mentioned below:
 
@@ -1696,27 +1642,27 @@ A foreigner has the right to enroll in study programmes in Montenegro under the 
 
 The student has the right to:
 
-- to quality education and objective assessment;
+1) to quality education and objective assessment;
 
-- to declare the quality of work of the academic staff;
+2) to declare the quality of work of the academic staff;
 
-- to appeal in case of violation of his right established by the general act of the institution;
+3) to appeal in case of violation of his right established by the general act of the institution;
 
-- on suspension of rights and obligations during pregnancy, parental leave, prolonged illness and in other justified cases in accordance with the statute of the institution;
+4) on suspension of rights and obligations during pregnancy, parental leave, prolonged illness and in other justified cases in accordance with the statute of the institution;
 
-- to attend lectures, seminars and other types of teaching;
+5) to attend lectures, seminars and other types of teaching;
 
-- to use libraries, computer rooms and other services provided by the institution to students;
+6) to use libraries, computer rooms and other services provided by the institution to students;
 
-- to elect and be elected to the bodies of the institution, in accordance with this law and the statute of the institution;
+7) to elect and be elected to the bodies of the institution, in accordance with this law and the statute of the institution;
 
-- representation of at least 20% in relation to the total number of members in expert bodies and management bodies;
+8) representation of at least 20% in relation to the total number of members in expert bodies and management bodies;
 
-- to exercise rights in the area of student standards;
+9) to exercise rights in the area of student standards;
 
-- on equality and protection against discrimination; and
+10) on equality and protection against discrimination; and
 
-- 11 ) to exercise other rights in accordance with this law and the statute of the institution.
+11) to exercise other rights in accordance with this law and the statute of the institution.
 
 The method of exercising the rights referred to in paragraph 1 of this article is regulated in more detail by the statute of the institution.
 
@@ -1738,7 +1684,7 @@ The student parliament is formed in the institution, and it is made up of studen
 
 [[START OF PAGE 51]]
 
-The competence, method of election, as well as the organization of the work of the student parliament are regulated by the statute of the student parliament ' .
+The competence, method of election, as well as the organization of the work of the student parliament are regulated by the statute of the student parliament”.
 
 Public institutions are financed from the budget of Montenegro, as well as from their own resources (tuition and other fees paid by students, intellectual and other services, donations, gifts and legacies, projects, etc.). Private institutions are financed from their own funds, but they can be financed from the budget provided that they organize study programmes of public interest that are not organized at a public institution in Montenegro. A public institution, in accordance with the Law on Higher Education, acquires funds from the Budget of Montenegro based on norms and standards for financing public institutions, taking into account the number of students determined in the license, the cost per student for a specific study program and the quality assessment of the work of the institution. The financing agreement between the Government and the University of Montenegro was signed in 2019 for a period of three years.
 
@@ -1748,7 +1694,7 @@ In achieving the mission of higher education, the need for it to be open and acc
 
 For persons with disabilities, the principle of affirmative action is implemented - Individual Transition Plan 3 (ITP-3), which refers to the transition of students with disabilities from high school to university. A Guide for adapting learning and participation of students was prepared and printed. In order to obtain a license, institutions are expected to provide access and stay for persons with disabilities.
 
-Since 2014, young people with disabilities have free education at all institutions of higher education in Montenegro.  As  part  of  the  SINCHE50  (Tempus)  project  implemented  by  UCG,  UDG  and  the Mediterranean University, significant equipment was provided that facilitates adaptation to the needs of people with disabilities and all employees completed training (administration, teachers, associates). Also, it is important to note that as a result of the Tempus project "FOSFIM 2012-2016" they started with the realization of the Master's study "Inclusive Education" at the Faculty of Philosophy, UCG. The Erasmus plus project "Trans2Work Transition for Higher education students with disabilities in Serbia, Bosnia  and  Herzegovina  and  Montenegro"  was  also  implemented,  with  the  aim  of  improving  the services of higher education institutions in order to support students with disabilities in their transition from higher education to work, following the policy EU; connecting higher education with a working environment that supports people with disabilities. Also, we should mention the Erasmus plus project "Inclusive tertiary education in Western Balkans - IDEA"51, which is currently being implemented, and whose goals are also aimed at improving the position of students with disabilities. It is necessary to consider the possibility for PWDs to take subjects or attend classes from several related study programs - a combined study program, due to specific preferences and opportunities. Inclusive education implies the application of a multidisciplinary approach at the level of higher education 82 .
+Since 2014, young people with disabilities have free education at all institutions of higher education in Montenegro. As part of the SINC@HE50 (Tempus) project implemented by UCG, UDG and the Mediterranean University, significant equipment was provided that facilitates adaptation to the needs of people with disabilities and all employees completed training (administration, teachers, associates). Also, it is important to note that as a result of the Tempus project "FOSFIM 2012-2016" they started with the realization of the Master's study "Inclusive Education" at the Faculty of Philosophy, UCG. The Erasmus plus project "Trans2Work Transition for Higher education students with disabilities in Serbia, Bosnia and Herzegovina and Montenegro" was also implemented, with the aim of improving the services of higher education institutions in order to support students with disabilities in their transition from higher education to work, following the policy EU; connecting higher education with a working environment that supports people with disabilities. Also, we should mention the Erasmus plus project "Inclusive tertiary education in Western Balkans - IDEA"51, which is currently being implemented, and whose goals are also aimed at improving the position of students with disabilities. It is necessary to consider the possibility for PWDs to take subjects or attend classes from several related study programs - a combined study program, due to specific preferences and opportunities. Inclusive education implies the application of a multidisciplinary approach at the level of higher education 82 .
 
 > 82 The Higher Education Development Strategy of Montenegro for the Period 2024-2027
 
@@ -1780,7 +1726,7 @@ The possibility of increasing the quota of 1% for the application of the princip
 
 ### 2.4 Adult education and alternative learning
 
-For reference: Article/Paragraph 4© of the Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to ' ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.'
+For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to “ensure inclusive and equitable quality education and promote lifelong learning opportunities for all”, target 4.6 specifically calls on states to “ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy”. Furthermore, under target 4.4, states are called “to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.”
 
 - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked):
 
@@ -1822,13 +1768,10 @@ Adult education takes place as:
 
 - self-directed learning.
 
-According to the Law, in Article 14 on non-formal education programmes ,  it  is  prescribed that: Non-formal  education  is  acquired  through  adult  education  programmes  (hereinafter:  education programme). Education programmes are intended for:
-
-- training, retraining, additional training, specialization and professional training;
-
-- acquisition and improvement of key skills and key competencies (foreign languages; Montenegrin language for foreigners, use of information and communication technologies; entrepreneurship, etc.);
-
-- acquiring  knowledge  and  skills  for  civil  democracy,  environmental  protection,  sustainable development, family life, successful social integration, raising the quality of life, health education, social skills, the third age of life, etc.
+According to the Law, in Article 14 on non-formal education programmes, it is prescribed that: Non-formal education is acquired through adult education programmes (hereinafter: education programme). Education programmes are intended for:
+1) training, retraining, additional training, specialization and professional training;
+2) acquisition and improvement of key skills and key competencies (foreign languages; Montenegrin language for foreigners, use of information and communication technologies; entrepreneurship, etc.);
+3) acquiring knowledge and skills for civil democracy, environmental protection, sustainable development, family life, successful social integration, raising the quality of life, health education, social skills, the third age of life, etc.
 
 The educational offer for adult education is diverse:
 
@@ -1888,7 +1831,7 @@ The  statistics  on  the  number  adult  education  candidates  in  2022  and  2
 
 ## 3. Quality education provision and learning environment
 
-For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends state s to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
+For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to “build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all”.
 
 ### 3.1 General measures
 
@@ -1936,7 +1879,7 @@ The Law on Educational Inspection -Article 1: Inspection supervision regarding c
 
 [[START OF PAGE 56]]
 
-The Rulebook on the conditions for the establishment of institutions in the field of education Article 1 this rulebook regulates the detailed conditions for the establishment of institutions in the field  of  education  and  upbringing  (pre-school  institutions,  schools,  homes  of  students,  that  is, students, organizers of adult education, institutes-special institutions and educational centers), in terms of: the number of children, students, that is, participants, space, equipment and teaching aids, as well as standards for space and equipment.
+The Rulebook on the conditions for the establishment of institutions in the field of education - Article 1 - this rulebook regulates the detailed conditions for the establishment of institutions in the field of education and upbringing (pre-school institutions, schools, homes of students, that is, students, organizers of adult education, institutes-special institutions and educational centers), in terms of: the number of children, students, that is, participants, space, equipment and teaching aids, as well as standards for space and equipment.
 
 In order to establish an institution, from paragraph 1 of this article, the founder must own or lease space, equipment and teaching aids, in accordance with this rulebook, at least for the period of the duration of the education program
 
@@ -1994,15 +1937,15 @@ For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides 
 
 - Please elaborate on each of the measures taken:
 
-Teacher  training  is  provided  without  discrimination  In  accordance  with  the  relevant  legal solutions, every teacher has the right and obligation to continuously improve professionally. The Bureau for Education and the Center for Vocational Education accredit professional development programmes that are available to all teachers without distinction and free of charge.
+Teacher training is provided without discrimination - In accordance with the relevant legal solutions, every teacher has the right and obligation to continuously improve professionally. The Bureau for Education and the Center for Vocational Education accredit professional development programmes that are available to all teachers without distinction and free of charge.
 
-Average  teachers'  salaries  are  competitive  or  at  least  comparable  to  those  paid  in  other professions that require similar or equivalent qualifications (at all levels) Teachers' salaries are competitive with the average salary in Montenegro .
+Average teachers' salaries are competitive or at least comparable to those paid in other professions that require similar or equivalent qualifications (at all levels) - Teachers' salaries are competitive with the average salary in Montenegro.
 
-Initial training and continuous professional development are provided In accordance with legal regulations,  initial  professional  development  is  provided  for  a  teacher  who  establishes  an employment relationship in an educational institution for the first time in order to independently perform tasks at the appropriate level of education. In addition, continuous professional training is provided according to programs accredited by the Bureau for Education.
+Initial training and continuous professional development are provided - In accordance with legal regulations, initial professional development is provided for a teacher who establishes an employment relationship in an educational institution for the first time in order to independently perform tasks at the appropriate level of education. In addition, continuous professional training is provided according to programs accredited by the Bureau for Education.
 
-Minimum  standards  and  qualifications  required  for  the  teaching  profession.  Standards  and qualifications for the teaching profession are regulated by the Labour Law. According to that Law, in order for a teacher to establish an employment relationship, he must have the appropriate level and profile of education. The majority of teachers in pre-school, primary and secondary education have level VII-1 of the qualification framework (equivalent to 180 only for pre-school and 240 ECTS for others),  while  the  number  of  teachers  with  a  master's  or  master's  degree  is  significantly  lower despite EU policies, the Bologna process and the Teacher Education Strategy 2017 -2024. In addition, the teacher must have passed the professional exam for working in educational institutions after an internship lasting 9 months, that is, by which he acquires a work license. Also, the teacher has the obligation  to  renew  the  license  every  five  years  on  the  basis  of  attended  professional  training programs lasting 24 hours.
+Minimum standards and qualifications required for the teaching profession. - Standards and qualifications for the teaching profession are regulated by the Labour Law. According to that Law, in order for a teacher to establish an employment relationship, he must have the appropriate level and profile of education. The majority of teachers in pre-school, primary and secondary education have level VII-1 of the qualification framework (equivalent to 180 only for pre-school and 240 ECTS for others), while the number of teachers with a master's or master's degree is significantly lower despite EU policies, the Bologna process and the Teacher Education Strategy 2017 -2024. In addition, the teacher must have passed the professional exam for working in educational institutions after an internship lasting 9 months, that is, by which he acquires a work license. Also, the teacher has the obligation to renew the license every five years on the basis of attended professional training programs lasting 24 hours.
 
-Establishing a performance monitoring system. The law defines the probationary work of teachers as a special condition for hiring teachers. In addition, the management of educational institutions are responsible for the system of supervision and evaluation of teachers' work, on the one hand, and  on  the  other  hand,  the  Bureau  for  Education  and  the  Center  for  Vocational  Education,  as umbrella  institutions  that  deal  with  the  evaluation  and  improvement  of  the  quality  of  the educational process.
+Establishing a performance monitoring system. - The law defines the probationary work of teachers as a special condition for hiring teachers. In addition, the management of educational institutions are responsible for the system of supervision and evaluation of teachers' work, on the one hand, and on the other hand, the Bureau for Education and the Center for Vocational Education, as umbrella institutions that deal with the evaluation and improvement of the quality of the educational process.
 
 [[END OF PAGE 57]]
 
@@ -2086,7 +2029,7 @@ Under the project 'Integration of key competences in education system in Montene
 
 ### 3.4 Non-state actors in education
 
-For  reference:  Articles/Paragraphs  2©  and  5(1)(b)  of  the  Convention/Recommendation  provide  for non-state education provision 89 .
+For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision 89 .
 
 > 88 Project website: https://www.ikces.me/kljucne-kompetencije/
 
@@ -2126,7 +2069,7 @@ The institution  does  not  allow:  physical,  psychological  and  social  viole
 
 ☒ Health and sanitation
 
-☒ Safety  (children  learn  in  a  safe  environment  free  from  violence  or  harassment, ☐ including school-related gender-based violence (in and around schools)
+☒ Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools))
 
 ☒ Infrastructure
 
@@ -2158,17 +2101,12 @@ Conditions for establishment of institutions
 
 An institution can be established if:
 
-- has a sufficient number of children, that is, students;
-
-- an  educational  programme  has  been  adopted  or  approved in  accordance with this  law, or  an educational program has been adopted, or a foreign educational program has been approved;
-
-- educational, i.e. teaching and other professional staff are provided, in accordance with a special regulation;
-
-- appropriate space, teaching aids, equipment and other things are provided, in accordance with norms and standards;
-
-- funds for establishment and work are provided;
-
-- hygienic and technical conditions are provided, in accordance with special regulations.
+1) has a sufficient number of children, that is, students;
+2) an educational programme has been adopted or approved in accordance with this law, or an educational program has been adopted, or a foreign educational program has been approved;
+3) educational, i.e. teaching and other professional staff are provided, in accordance with a special regulation;
+4) appropriate space, teaching aids, equipment and other things are provided, in accordance with norms and standards;
+5) funds for establishment and work are provided;
+6) hygienic and technical conditions are provided, in accordance with special regulations.
 
 More detailed conditions from paragraph 1 points 1 and 4 of this Article, as well as standards for space and equipment, are prescribed by the Ministry, on the proposal of the National Council for Education.
 
@@ -2206,15 +2144,15 @@ Please indicate the relevant text and provisions:
 
 a) Strategy for Digitalization of Education from 2022 to 2027
 
-- Comments by the Ombudsman ' s office: During the period of the spread of the Covid-19 virus, the  Protector  wrote  a  series  of  recommendations  and  special  reports  that,  among  other things, refer to inadequate conditions for the establishment of digital education 92 . According to the Ombudsman analysis report from November 2021 (the publication is provided in the below link), laws in the field of education do not recognize the term online classes.
+b) Comments by the Ombudsman’s office: During the period of the spread of the Covid-19 virus, the Protector wrote a series of recommendations and special reports that, among other things, refer to inadequate conditions for the establishment of digital education 92 . According to the Ombudsman analysis report from November 2021 (the publication is provided in the below link), laws in the field of education do not recognize the term online classes.
 
-- With the new set of the education law reform aimed at the alignment with the EU regulations and  improvement  of  the  school  and  management  procedures,  mechanisms  for  the  full exercising of the human rights and access to education, the Changes and the Amendments to the General Law on Education which were the subject of the public debate from 30/09/2024 until  20/10/2024,  introduce for  the  first  time  the  provision  which  regulates  that  't he procedure  for  creating,  setting  up  and  managing  digital  educational  content  on  the  selflearning platform is prescribed by the Ministry '.  The  terminology ' digital  textbooks ' and ' digital contents ' become part of the General Law on Education. The results of the public discussion on the draft amendments and changes to the general education law are to be made public during November 2024.
+c) With the new set of the education law reform aimed at the alignment with the EU regulations and improvement of the school and management procedures, mechanisms for the full exercising of the human rights and access to education, the Changes and the Amendments to the General Law on Education which were the subject of the public debate from 30/09/2024 until 20/10/2024, introduce for the first time the provision which regulates that “the procedure for creating, setting up and managing digital educational content on the self-learning platform is prescribed by the Ministry”. The terminology “digital textbooks” and “digital contents” become part of the General Law on Education. The results of the public discussion on the draft amendments and changes to the general education law are to be made public during November 2024.
 
 ☒ Core legislations, policies, strategies or plans for the management, privacy, security, storage, transfer, use, and sharing of education data internally and externally to ensure the right to privacy of learners and education stakeholders (e.g., informed consent, transparent usage policies, etc.)
 
 ☒ Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.
 
-☒ Measures  to  remove  barriers  to  accessing  digital  content 93 ,  including  ensuring  access  to curriculum-aligned  digital  content  available  on  free,  public,  multi-modal  national  platforms;  highquality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
+☒ Measures to remove barriers to accessing digital content 93 , including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
 
 ☒ Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a  culture  of  digital  innovation  and  growth  anchored  in  equity  and  inclusion  that  enables  ongoing professional development for existing and emerging staff.
 
@@ -2296,7 +2234,7 @@ Obsolete information system of education, the absence of a digital ecosystem and
 
 ## 4 Strengthening governance systems
 
-For reference: The Education 2030 Framework for Action states ' to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and  accessible  data  are available' ( para. 18).
+For reference: The Education 2030 Framework for Action states “to ensure quality education and conditions for effective education outcomes, governments should strengthen education systems by instituting and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional management arrangements, as well as ensure that robust, timely and accessible data are available” (para. 18).
 
 - Please indicate the measures taken in terms of governance (several items may be ticked):
 
@@ -2304,7 +2242,7 @@ For reference: The Education 2030 Framework for Action states ' to ensure qualit
 
 ☒ Monitoring results are made public. Please provide the link:
 
-The  Protector  of  Human  Rights  and  Freedoms  of  Montenegro  (Ombudsman)  is  an  independent institution, whose task is to take measures to protect human rights and freedoms, when they are violated  by  an  act,  action  or  inaction  of  state  bodies,  state  administration  bodies,  local  selfgovernment bodies and local administration, public services and other holders of public authority as well  as  measures  to  prevent  torture  and  other  forms  of  inhuman  or  degrading  treatment  and punishment and measures to protect against discrimination. In addition to this function, the Protector also has a broader mission, which is to create awareness about the need for the rule of law; on the complete and consistent protection of the freedoms and rights of citizens and, in general, the creation of legal security for citizens; legal and impartial work of all state bodies, before which citizens exercise their rights, freedoms, obligations and legal interests. Human rights are considered not only rights guaranteed by the Constitution and laws, but also rights guaranteed by ratified international treaties on human rights and generally accepted rules of international law.
+The Protector of Human Rights and Freedoms of Montenegro (Ombudsman) is an independent institution, whose task is to take measures to protect human rights and freedoms, when they are violated by an act, action or inaction of state bodies, state administration bodies, local self-government bodies and local administration, public services and other holders of public authority as well as measures to prevent torture and other forms of inhuman or degrading treatment and punishment and measures to protect against discrimination. In addition to this function, the Protector also has a broader mission, which is to create awareness about the need for the rule of law; on the complete and consistent protection of the freedoms and rights of citizens and, in general, the creation of legal security for citizens; legal and impartial work of all state bodies, before which citizens exercise their rights, freedoms, obligations and legal interests. Human rights are considered not only rights guaranteed by the Constitution and laws, but also rights guaranteed by ratified international treaties on human rights and generally accepted rules of international law.
 
 The field of education is under the direct competence of the competent ministry - the Ministry of Education, Science and Innovation, and all possible processes are carried out before this second-level body for correcting irregularities.
 
@@ -2312,13 +2250,16 @@ The Inspectorate for Education plays a major role in monitoring the education pr
 
 Potential disputes are often brought before the Administrative Court.
 
-The Protector of Human Rights and Freedoms is included as a control mechanism in situations where there is a suspicion of a violation of the child's rights in the educational process, and through an examination procedure, he determines the violation and gives an opinion with recommendations for correcting the violation found by the competent authorities and services 94 . The monitoring results are made public through the yearly reports, special reports, analyses, publications etc. https://www.ombudsman.co.me/Publikacije.php Education inspection of the Ministry of Education, Science and Innovation  supervises the work of institutions and has in addition a role in promoting human rights and combating discrimination within the educational system. This includes monitoring for any discriminatory practices that might prevent students from receiving the education they deserve, ensuring equal access to education, supporting the integration of students with disabilities and those from minority groups, and other responsibilities 95 .
+The Protector of Human Rights and Freedoms is included as a control mechanism in situations where there is a suspicion of a violation of the child's rights in the educational process, and through an examination procedure, he determines the violation and gives an opinion with recommendations for correcting the violation found by the competent authorities and services 94 . The monitoring results are made public through the yearly reports, special reports, analyses, publications etc.
+https://www.ombudsman.co.me/Publikacije.php
 
 > 94 https://www.ombudsman.co.me/docs/1665053392_zakon_o_zastitniku_ci_ljudskih_prava_i_sloboda_crne_gore.pdf
 
 [[END OF PAGE 66]]
 
 [[START OF PAGE 67]]
+
+Education inspection of the Ministry of Education, Science and Innovation supervises the work of institutions and has in addition a role in promoting human rights and combating discrimination within the educational system. This includes monitoring for any discriminatory practices that might prevent students from receiving the education they deserve, ensuring equal access to education, supporting the integration of students with disabilities and those from minority groups, and other responsibilities 95 .
 
 ☐ Monitoring processes are participatory, inclusive and regular.
 
@@ -2360,7 +2301,7 @@ The  Law  on  Local  Self-government ("The  Official  Gazzete  of  Montenegro", 
 
 ☒ Lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels
 
-☐ P oor dialogue with teachers' trade unions
+☐ Poor dialogue with teachers' trade unions
 
 ☐ Other:
 
@@ -2384,103 +2325,15 @@ Limited  budget  for  the  reform  activities  remains  a  challenge  and  the  
 
 - Please elaborate. Brief quantitative information may be added.
 
-Frequent organizational and structural changes in the government in the last four years caused
+Frequent organizational and structural changes in the government in the last four years caused frequent staff turnovers, principally at the management level resulting in the loss of the institutional memory in several policy sectors. Various multisectoral reforms have been taking place during the last seven years in order to improve the economic and social situation of the country as precondition for EU support and reaching EU membership status and finally facilitate merging with the EU countries.
 
-frequent staff turnovers, principally at the management level resulting in the loss of the institutional
+According to the Education System Analysis by UNICEF covering the period 2015 – 2020: “During the period under review (2015–2020), a set of laws was passed aimed at enhancing quality and access to education, from preschool to secondary education, in line with Sustainable Development Goal 4 (SDG4) on education. In addition, a number of strategies to improve the education system were launched or updated. However, what has been missing so far is a comprehensive strategy for the education sector to include both the overall vision and the main goals and priorities of the education system as a whole. It is necessary to strengthen the capacities for quality planning, budgeting, coordination of implementation, as well as the monitoring and evaluation of policies and programmes”.
 
-memory in several policy sectors. Various multisectoral reforms have been taking place during the
+Thus, the EU funded project “Quality education for all” launched in January 2024, is aimed at improving overall governance and financing of education, the capacity of education system to provide quality and inclusive education for all children, with a special focus on children with developmental disabilities and Roma and Egyptian children in preschool and the first cycle of primary school and enhance and participation and mobilisation of all actors. The project is being implemented by the Ministry of Education, Science and Innovation in cooperation with UNICEF and EU Delegation in Podgorica and financed the IPA funds. As part of the component Governance and financing, Activity 1.1. envisages the Development of a comprehensive Education Reform Strategy (2025 – 2035) with a clear assessment of implementation costs, a focus on improving the quality, equity, and inclusiveness of teaching and learning, enhancing the management of the education system, and increasing investment in infrastructure and education financing. The first draft of the Strategy has been developed incorporating the key vision of the education system and strategic and the operational goals related to equity and quality of education, support for teachers, improvement of infrastructure and financing, and improvement of the overall management of the education system, as well as digitization of education/digital skills, climate change/green skills, gender equality, prevention of peer violence, social and emotional skills, career orientation, system resilience to risks and disaster risk reduction. During October and November 2024 is planned a broad consultative process on the draft strategy, as well as the conference to officially present the draft of the Education Reform Strategy (2025–2035).
 
-last seven years in order to improve the economic and social situation of the country as precondition
+Nonetheless there have been significant improvements in data collection and data keeping in the past seven years carried out by the MEIS information system and the MONSTAT national statistical office, there is still a lack of regular data keeping in particular areas, for example, on trends in the student drop out, especially students from marginalized groups.
 
-for  EU  support  and  reaching  EU  membership  status  and  finally  facilitate  merging  with  the  EU
-
-countries.
-
-According to the
-
-Education System Analysis by UNICEF
-
-covering the period 2015
-
--
-
-2020: 'During the
-
-period under review (2015
-
--
-
-2020), a set of laws was passed aimed at enhancing quality and access
-
-to education, from preschool to secondary education, in line with Sustainable Development Goal 4
-
-(SDG4) on education. In addition, a number of strategies to improve the education system were
-
-launched or updated. However, what has been missing so far is a comprehensive strategy for the
-
-education sector to include both the overall vision and the main goals and priorities of the education
-
-system  as  a  whole.  It  is  necessary  to  strengthen  the  capacities  for  quality  planning,  budgeting,
-
-coordination  of  implementation,  as  well  as  the  monitoring  and  evaluation  of  policies  and
-
-programmes'.
-
-Thus,  the  EU  funded  project  'Quality  education  for  all'  launched  in  January  2024,  is  aimed  at
-
-improving  overall  governance  and  financing  of  education,  the  capacity  of  education  system  to
-
-provide  quality  and  inclusive  education  for  all  children,  with  a  special  focus  on  children  with
-
-developmental  disabilities  and  Roma  and  Egyptian  children  in  preschool  and  the  first  cycle  of
-
-primary school and enhance and participation and mobilisation of all actors. The project is being
-
-implemented by the Ministry of Education, Science and Innovation in cooperation with UNICEF and
-
-EU Delegation in Podgorica and financed the IPA funds. As part of the component Governance and
-
-financing, Activity 1.1. envisages the Development of a comprehensive Education Reform Strategy
-
-(2025
-
--
-
-2035) with a clear assessment of implementation costs, a focus on improving the quality,
-
-equity, and inclusiveness of teaching and learning, enhancing the management of the education
-
-system, and increasing investment in infrastructure and education financing. The first draft of the
-
-Strategy has been developed incorporating the key vision of the education system and strategic and
-
-the operational goals related to equity and quality of education, support for teachers, improvement
-
-of  infrastructure  and  financing,  and  improvement  of  the  overall  management  of  the  education
-
-system,  as  well  as  digitization  of  education/digital  skills,  climate  change/green  skills,  gender
-
-equality,  prevention  of  peer  violence,  social  and  emotional  skills,  career  orientation,  system
-
-resilience to risks and disaster risk reduction. During October and November 2024 is planned a broad
-
-consultative process on the draft strategy, as well as the conference to officially present the draft of
-
-the Education Reform Strategy (2025
-
--
-
-2035).
-
-Nonetheless there have been significant improvements in data collection and data keeping in the
-
-past seven years carried out by the MEIS information system and the MONSTAT national statistical
-
-office, there is still a lack of regular data keeping in particular areas, for example, on trends in the
-
-student drop out, especially students from marginalized groups.
-
-There is also a need for much closer cooperation and linking with the education information systems with the information systems of the Ministry of Labour and Employment Agency of Montenegro, in order  to  create  an  information  infrastructure  on  the  statistcs  targeting  especially  marginalised groups of children and adults (NEET, student transition into employment, keeping record on the unemployed in need of employment etc.)
+There is also a need for much closer cooperation and linking with the education information systems with the information systems of the Ministry of Labour and Employment Agency of Montenegro, in order to create an information infrastructure on the statistcs targeting especially marginalised groups of children and adults (NEET, student transition into employment, keeping record on the unemployed in need of employment etc.)
 
 [[END OF PAGE 69]]
 
@@ -2508,7 +2361,7 @@ The first UNESCO National Commission was established in 2010 and performed its w
 
 The  Commission plays  a key  role  in  aligning  national  interests  with  international  standards  and UNESCO initiatives. As a bridge between Montenegro and UNESCO, the Commission works on the implementation  of UNESCO  programmes  and  projects, promoting education through the development of educational and scientific programs, as well as engagement in UNESCO's global initiatives and successfully contribute to global goals through local actions.
 
-> 97 The translated version of the 1960 Convention against Discrimination in Education is available on the website of the Ministry of Education, Science and Innovation (available online as of August 4 th 2007): https://www.gov.me/dokumenta/aab785d9-622e-406b-9d611ed97cf61705
+> 97 The translated version of the 1960 Convention against Discrimination in Education is available on the website of the Ministry of Education, Science and Innovation (available online as of August 4th 2007): https://www.gov.me/dokumenta/aab785d9-622e-406b-9d61-1ed97cf61705
 
 [[END OF PAGE 70]]
 
