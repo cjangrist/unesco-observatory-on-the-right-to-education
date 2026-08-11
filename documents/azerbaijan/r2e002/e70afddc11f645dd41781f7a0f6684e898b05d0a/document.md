@@ -1641,6 +1641,7 @@ vv lki redaksiyada deyilirdi:
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+
 “şəhadətnamənin” sözü ilə əvəz edilmişdir.
 
 [51]
@@ -1695,9 +1696,11 @@ vv lki redaksiyada deyilirdi:
 
 [65]
 6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248,
+
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+
 Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 19.9-cu maddə yeni redaksiyada verilmişdir.
 əvvəlki redaksiyada deyilirdi:
 19.9. İbtidai təhsilin məqsədi təhsilalanlara oxumaq, yazmaq və hesablama bacarıqları aşılamaq, onlarda insan, cəmiyyət və təbiət haqqında ilkin həyati biliklər, məntiqi təfəkkür elementləri, estetik, bədii zövq və digər xüsusiyyətlər formalaşdırmaqdan ibarətdir.
@@ -1711,7 +1714,7 @@ Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə
 [68]
 6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 19.13-cü maddə yeni redaksiyada verilmişdir.
 əvvəlki redaksiyada deyilirdi:
-19.13. Ümumi orta təhsilin məqsədi təhsilalanların şifahi nitq və yazı mədəniyyətinin, ünsiyyət bacarığının, idrak fəallığının və məntiqi təfəkkürünün inkişafını, təhsil proqramına daxil olan fənlər üzrə və eləcə də dünya sivilizasiyasının inkişafı haqqında müvafiq bilik və təsəvvürlərinin formalaşdırılmasını, müasir informasiya-kommunikasiya vasitələrindən istifadə etmək qabiliyyətini, hadisələri qiymətləndirmək və öz gələcək fəaliyyət istiqamətlərini müəyyənləşdirmək bacarığını təmin etməkdən ibarətdir.
+19.13. Ümumi orta təhsilin məqsədi təhsilalanların şifahi nitq və yazı mədəniyyətinin, ünsiyyət bacarığının, idrak fəallığının və məntiqi təfəkkürünün inkişafını, təhsil proqramına daxil olan fənlər üzrə və eləcə də dünya sivilizasiyasının inkişafı haqqında müvafiq bilik və təsəvvürlərinin formalaşdılmasını, müasir informasiya-kommunikasiya vasitələrindən istifadə etmək qabiliyyətini, hadisələri qiymətləndirmək və öz gələcək fəaliyyət istiqamətlərini müəyyənləşdirmək bacarığını təmin etməkdən ibarətdir.
 
 [69]
 12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 19.14-cü maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
@@ -1748,9 +1751,11 @@ Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə
 [77]
 12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 20.2-ci maddədə “xüsusi razılıq (lisenziya)” sözləri “lisenziyası” sözü ilə, “peşə dərəcələrinin” sözləri “peşə-ixtisas dərəcələrinin” sözləri ilə əvəz edilmişdir.
 29 mart 2019-cu il tarixli 1553-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 may 2019-cu il, № 115, Azərbaycan
+
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
+
 Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 5, maddə 798) ilə 20.2-ci maddədə “İlk peşə-ixtisas” sözləri “Peşə” sözü ilə, “asılı olmayaraq” sözlərindən sonrakı “peşə-ixtisas” sözləri “peşə” sözü ilə əvəz edilmişdir və həmin maddədən “və məzunlara müvafiq istiqamətlər üzrə ilk peşə-ixtisas dərəcələrinin verilməsi ilə başa çatır” sözləri çıxarılmışdır.
 12 iyul 2019-cu il tarixli 1661-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 22 avqust 2019-cu il, № 182, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 8, maddə 1382) ilə 20.2-ci maddədə “əmək birjalarının, məşğulluq idarələrinin” sözləri “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun)” sözləri ilə əvəz edilmişdir.
 
@@ -1802,9 +1807,11 @@ Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 5, maddə 798) ilə 20
 
 [93]
 6 oktyabr 2015-ci il tarixli 1359-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 22 noyabr 2015-ci il, № 257, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015-ci il, № 11, maddə 1266) ilə 22.5-ci maddədə “təhsil müəssisələrində” sözlərindən sonra “və müvafiq icra hakimiyyəti orqanının müəyyən etdiyi elmi təşkilatda” sözləri əlavə edilmişdir.
+
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
+
 [94]
 14 oktyabr 2016-cı il tarixli 338-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 24 noyabr 2016-cı il, № 260, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016-cı il, № 11, maddə 1766) ilə yeni məzmunda 22.5-1-ci maddə əlavə edilmişdir.
 
@@ -1858,9 +1865,11 @@ Tibb təhsili təhsil proqramlarına və dövlət təhsil standartlarına uyğun
 [109]
 27 iyun 2019-cu il tarixli 1620-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 25 iyul 2019-cu il, № 160, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 7, maddə 1190) ilə 24.4-cü maddədə “xüsusi razılıq” sözləri “lisenziya” sözü ilə əvəz edilmişdir.
 24 aprel 2020-ci il tarixli 58-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 19 iyun 2020-ci il, № 116, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 6, maddə 662) ilə 24.4-cü maddədə “peşə-ixtisas təhsili” sözləri “təhsil” sözü ilə əvəz
+
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
+
 edilmişdir.
 
 [110]
@@ -1914,16 +1923,18 @@ edilmişdir.
 əvvəlki redaksiyada deyilirdi:
 29.0.9. ilk peşə-ixtisas, ali və orta ixtisas təhsili müəssisələrinə tələbə qəbulu planını müəyyənləşdirmək;
 29 mart 2019-cu il tarixli 1553-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 may 2019-cu il, № 115, Azərbaycan
+
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
+
 Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 5, maddə 798) ilə 29.0.9-cu maddədən “şagird və” sözləri çıxarılmışdır.
 
 [125]
 12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 29.0.11-ci maddəyə “Tələbə-məzun” sözlərindən sonra “və “Şagird-məzun” sözləri əlavə edilmişdir və həmin maddədə “sistemini” sözü “sistemlərini” sözü ilə əvəz edilmişdir.
 27 iyun 2019-cu il tarixli 1620-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 25 iyul 2019-cu il, № 160, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 7, maddə 1190) ilə 29.0.11-ci maddə yeni redaksiyada verilmişdir.
 Əvvəlki redaksiyada deyilirdi:
-29.0.11. “Tələbə-məzun” və “Şagird-məzun” dövlət elektron məlumat sistemlərini yaratmaq və ondan istifadəni təmin etmək;
+29.0.11. “Tələbə-məzun” və “Şagird-məzun“ dövlət elektron məlumat sistemlərini yaratmaq və ondan istifadəni təmin etmək;
 
 [126]
 27 iyun 2019-cu il tarixli 1620-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 25 iyul 2019-cu il, № 160, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 7, maddə 1190) ilə 29.0.12-ci maddədən “və proqramlarını (kurrikulumlarını)” sözləri çıxarılmışdır.
@@ -1970,9 +1981,11 @@ Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 5, maddə 798) ilə 29
 [137]
 12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 29.0.42-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 29.0.43 - 29.0.45-ci maddələr əlavə edilmişdir.
 6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248,
+
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
+
 Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 29.0.43-cü maddədə “və peşə təhsili (tam orta təhsil üzrə təhsilverənlərə münasibətdə) müəssisələrinin” sözləri “müəssisələrinin (ümumi təhsil üzrə təhsilverənlərə münasibətdə digər dövlət təhsil müəssisələrinin)” sözləri ilə əvəz edilmişdir.
 
 [138]
@@ -2022,9 +2035,11 @@ Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə
 
 [151]
 6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 32.3.13-cü maddəyə “orqanının” sözündən sonra “müəyyən etdiyi orqanın (qurumun)” sözləri əlavə edilmişdir.
+
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
+
 [152]
 29 mart 2019-cu il tarixli 1553-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 may 2019-cu il, № 115, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 5, maddə 798) ilə 32.3.14-cü maddədə “peşə-ixtisas təhsili pilləsində” sözləri “ixtisas təhsili pilləsində, peşə təhsili” sözləri ilə əvəz edilmişdir.
 
@@ -2081,9 +2096,11 @@ Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə
 
 [169]
 12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148) ilə 33.3.9-cu maddəyə “attestasiyadan” sözündən sonra “(dövlət ümumi təhsil müəssisələrində sertifikatlaşdırmadan)” sözləri əlavə edilmişdir.
+
 [[END OF PAGE 33]]
 
 [[START OF PAGE 34]]
+
 6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248) ilə 33.3.9-cu maddədə “və peşə təhsili (tam orta təhsil üzrə təhsilverənlərə münasibətdə) müəssisələrində” sözləri “müəssisələrində (ümumi təhsil üzrə təhsilverənlərə münasibətdə digər dövlət təhsil müəssisələrində)” sözləri ilə əvəz edilmişdir.
 
 [170]
@@ -2139,13 +2156,16 @@ Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə
 [186]
 19 may 2020-ci il tarixli 104-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 9 iyul 2020-ci il, № 131, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 7, maddə 824) ilə 44.2-ci maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
 6 noyabr 2020-ci il tarixli 192-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 13 dekabr 2020-ci il, № 262) ilə 44.2-ci maddənin birinci cümləsində “xarici ölkələrin ali təhsil sahəsində ixtisaslarının tanınması və ekvivalentliyinin müəyyən edilməsi (nostrifikasiyası)” sözləri “xarici dövlətlərin ali təhsilə aid kvalifikasiyalarının tanınması” sözləri ilə, ikinci cümləsində “xarici ölkələrin ali təhsil
+
 [[END OF PAGE 34]]
 
 [[START OF PAGE 35]]
+
 sahəsində ixtisaslarının tanınması və ekvivalentliyinin müəyyən edilməsinə (nostrifikasiyasına), xarici ölkələrdə verilən təhsil haqqında sənədlərin” sözləri “xarici dövlətlərin ali təhsilə aid kvalifikasiyalarının” sözləri ilə əvəz edilmişdir.
 
 [187]
 19 may 2020-ci il tarixli 104-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 9 iyul 2020-ci il, № 131, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 7, maddə 824) ilə 45-ci maddənin mətni yeni redaksiyada verilmişdir.
 əvvəlki redaksiyada deyilirdi:
 Bu Qanunu pozan hüquqi və fiziki şəxslər Azərbaycan Respublikasının müvafiq qanunvericiliyi ilə müəyyən edilmiş qaydada məsuliyyət daşıyırlar.
+
 [[END OF PAGE 35]]
