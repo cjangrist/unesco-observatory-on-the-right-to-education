@@ -4,9 +4,12 @@
 
 ## EXPOSE DES MOTIFS
 
-La  stratégie  de  lutte  contre  la  pauvreté  vise  à  promouvoir  un processus de développement   économique et social rapide et durable. Le système éducatif se doit d'y participer activement, d'où les plans  d'actions  traduits  en   termes  opérationnels  dans  les missions et objectifs des différents sous-secteurs de l'éducation. En soutien  à  la  volonté  présidentielle  de  prioriser  l'éducationformation et conformément à l'engagement du Gouvernement pour l'Education Pour Tous, l'objectif principal dans le secteur éducatif  est  celui  d'assurer  à  tous  les  enfants  malgaches  un enseignement fondamental de neuf ans. Ces nouvelles dispositions permettront un enseignement secondaire de qualité qui donnera aux élèves la possibilité soit de poursuivre avec succès les études dans le cycle universitaire, soit d'intégrer la formation professionnelle, soit de rentrer dans  la vie active  avec  les  instruments  de  base nécessaires. Toutefois,  il  est  reconnu  que  le  secteur  non  formel  reste  un complément nécessaire à l'éducation  formelle.  C'est  pourquoi une réactualisation de la législation en vigueur est nécessaire afin  de  clarifier  les  rôles  de  chacun  tout  en  réaffirmant  que l'éducation non fomelle fait partie intégrante du  système éducatif global. Il  s'avère  aussi  nécessaire  de  spécifier  le  rôle  des  différents des communautés  éducatives  ou  des  collectivités  territoriales.  En effet, si le principe de partenariat a été accepté dans l'ancienne
-
-partenaires qu'il s'agisse des élèves, des parents, loi n° 94-033, sa mise en œuvre laissait à désirer.
+La stratégie de lutte contre la pauvreté vise à promouvoir un processus de développement économique et social rapide et durable.
+Le système éducatif se doit d'y participer activement, d'où les plans d'actions traduits en termes opérationnels dans les missions et objectifs des différents sous-secteurs de l'éducation.
+En soutien à la volonté présidentielle de prioriser l'éducation-formation et conformément à l'engagement du Gouvernement pour l'Education Pour Tous, l'objectif principal dans le secteur éducatif est celui d'assurer à tous les enfants malgaches un enseignement fondamental de neuf ans.
+Ces nouvelles dispositions permettront un enseignement secondaire de qualité qui donnera aux élèves la possibilité soit de poursuivre avec succès les études dans le cycle universitaire, soit d'intégrer la formation professionnelle, soit de rentrer dans la vie active avec les instruments de base nécessaires.
+Toutefois, il est reconnu que le secteur non formel reste un complément nécessaire à l'éducation formelle. C'est pourquoi une réactualisation de la législation en vigueur est nécessaire afin de clarifier les rôles de chacun tout en réaffirmant que l'éducation non formelle fait partie intégrante du système éducatif global.
+Il s'avère aussi nécessaire de spécifier le rôle des différents partenaires qu'il s'agisse des élèves, des parents, des communautés éducatives ou des collectivités territoriales. En effet, si le principe de partenariat a été accepté dans l'ancienne loi n° 94-033, sa mise en œuvre laissait à désirer.
 
 La présente loi:
 
@@ -14,33 +17,14 @@ La présente loi:
 
 [[START OF PAGE 2]]
 
--
-
 - rappelle les droits fondamentaux à l'éducation;
-
--définit plus clairement le rôle des partenaires en fixant:
-
--
-
+- définit plus clairement le rôle des partenaires en fixant:
 - les pouvoirs et compétences de l'Etat;
-
-- les pouvoirs et compétences des collectivités
-
--territoriales;
-
--les pouvoirs et compétences des partenaires reconnues: parents, élèves et communautés éducatives
-
-- fixe l'organisation du système éducatif en structurant les
-
-- secteurs.
-
+- les pouvoirs et compétences des collectivités territoriales;
+- les pouvoirs et compétences des partenaires reconnues: parents, élèves et communautés éducatives
+- fixe l'organisation du système éducatif en structurant les secteurs.
 - régule les relations entre les établissements publics et privés.
-
--
-
-- introduit la Culture de l'évaluation, du contrôle et de la bonne
-
--gouvernance.
+- introduit la Culture de l'évaluation, du contrôle et de la bonne gouvernance.
 
 Ce  texte  comprend  six  titres  et  comporte  77  articles.  Les dispositions de la loi n° 94-033 non contraire aux orientations nouvelles ont été reprises intégralement. D'autres dispositions qui correspondent aux nouvelles directives ont été introduites.
 
@@ -58,35 +42,31 @@ L'éducation est une priorité nationale absolue,
 et l'enseignement est obligatoire à partir de l'âge de six ans.
 
 ##### Article  2.
-La  République  de  Madagascar,  conformément  aux droits  et  devoirs  économiques,  sociaux  et  culturels  énoncés dans la Constitution, et fidèle aux engagements internationaux du  peuple  malagasy,  reconnaît  à  toute  personne  -  enfant, adolescent, et adulte - le droit à l'éducation, à l'enseignement et à la formation.
+La République de Madagascar, conformément aux droits et devoirs économiques, sociaux et culturels énoncés dans la Constitution, et fidèle aux engagements internationaux du peuple malagasy, reconnaît à toute personne - enfant,
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
+adolescent, et adulte - le droit à l'éducation, à l'enseignement et à la formation.
+
 ##### Article  3.
 L'Etat  s'engage  à  instaurer  un  système  d'éducation, d'enseignement et de formation capable d'assurer l'épanouissement intellectuel, physique, moral, civique et artistique de chaque individu.
 
-Certaines valeurs culturelles spécifiques au pays, telles que les de
-
-notions "aina", de "fanahy   maha-olona",  de "hasina", "fihavanana" doivent être prises en considération.
+Certaines valeurs culturelles spécifiques au pays, telles que les notions "aina", de "fanahy maha-olona", de "hasina", de "fihavanana" doivent être prises en considération.
 
 ##### Article 4.
-L'éducation, l'enseignement et la formation malagasy doivent  préparer  l'individu  à  une  vie  active  intégrée  dans  le
-
-- développement social, économique et culturel du pays.
+L'éducation, l'enseignement et la formation malagasy doivent préparer l'individu à une vie active intégrée dans le développement social, économique et culturel du pays.
 
 Pour la réalisation de cet objectif, ils doivent notamment:
 
--promouvoir  et  libérer  l'initiative individuelle  et  des
-
-- communautés de base;
+- promouvoir et libérer l'initiative individuelle et des communautés de base;
 
 - favoriser la créativité;
 
 - cultiver le goût de l'effort ;
 
-- développer  l'esprit  d'entreprise  et  de  compétition,  te souci  de  l'efficacité,  le  sens  de  la   communication,  la recherche de l'excellence dans le résultat ;
+- développer l'esprit d'entreprise et de compétition, le souci de l'efficacité, le sens de la communication, la recherche de l'excellence dans le résultat ;
 
 - et  parvenir  à  produire  des  citoyens  suffisamment instruits  et  aptes  à  assurer  l'exploitation  rationnelle  des richesses  naturelles  potentielles,  afin  de  hisser  notre pays au rang des nations les plus développées, tout en conservant sa sagesse légendaire.
 
@@ -110,7 +90,7 @@ Les modes  de relation entre les Ministères chargés de l'éducation, de l'ense
 Après  les  concertations  d'usage,  tant  entre  les départements ministériels qu'avec les partenaires et les usagers, les Ministres chargés de l'éducation, de l'enseignement  et  de  la  formation,  en  vue  de  répondre  aux besoins  économiques  et  sociaux  se  doivent  de   définir  les stratégies et les moyens; assurer en la matière le contrôle des qualifications; délivrer les diplômes et attester l'équivalence des titres correspondants.
 
 ##### Article 8.
-Les Ministres chargés de l'éducation, de renseignement  et de la formation, après avis motivé du Gouvernement,  peuvent  prononcer  par  arrêté,  l'interdiction d'exercer  à  l'encontre  de  toute  personne  physique  ou  morale dont  le  maintien  en  activité  constituerait  un  danger  pour  la santé  et  la  sécurité  physique  ou  morales  des  enfants,  des adolescents  ou  des  adultes,  à  elle  confiés.  Le  droit  de  la défense de l'intéressé est garanti devant les instances juridictionnelles compétentes.
+Les Ministres chargés de l'éducation, de l'enseignement et de la formation, après avis motivé du Gouvernement, peuvent prononcer par arrêté, l'interdiction d'exercer à l'encontre de toute personne physique ou morale dont le maintien en activité constituerait un danger pour la santé et la sécurité physique ou morales des enfants, des adolescents ou des adultes, à elle confiés. Le droit de la défense de l'intéressé est garanti devant les instances juridictionnelles compétentes.
 
 #### SECTION III Pouvoirs et compétences des collectivités territoriales
 
@@ -119,13 +99,13 @@ Les Collectivités Territoriales administrent les affaires éducatives à elles 
 
 Après  les  concertations  d'usage  avec  les  partenaires  et  les acteurs du système d'éducation, d'enseignement et de formation de la collectivité concernée, elles élaborent et mettent  en œuvre  à  travers  un  contrat  de  résultat,  une stratégie  de  développement  en  parfaite  conformité  avec  la politique nationale d'éducation, d'enseignement et de formation.
 
-Les modes  de relation entre les Ministères chargés de l'éducation, de l'enseignement et de la formation et collectivités territoriales sont définis par voie réglementaire.
+Les modes de relation entre les Ministères chargés de
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-les
+l'éducation, de l'enseignement et de la formation et les collectivités territoriales sont définis par voie réglementaire.
 
 ##### Article 10.
 Les services déconcentrés des Ministères chargés de  l'éducation,  de  l'enseignement  et  de  la  formation  sont responsables  du  bon  déroulement  des  actions  d'éducation, d'enseignement  et  de  formation  relevant  de  leur  juridiction respective.
@@ -145,20 +125,20 @@ L'Etat adopte comme règle dans l'exécution de sa politique d'éducation et de 
 
 - les institutions de recherche et les opérateurs économiques.
 
-Les modes  de relation entre les Ministères chargés l'éducation, de l'enseignement et de la formation et différents partenaires sont définis par voie réglementaire.
-
-de les
+Les modes de relation entre les Ministères chargés de l'éducation, de l'enseignement et de la formation et les différents partenaires sont définis par voie réglementaire.
 
 ##### Article 12.
 Tous  les  partenaires  privés  agréés,  dans  les domaines  de l'enseignement, l'éducation, et la formation, participent aux missions des Ministères chargés de l'éducation, de l'enseignement et de la formation.
 
-Dans le cadre d'une convention suivie d'un contrat de résultat, ils  exécutent  des  tâches  précises  conformes  à  la  politique nationale d'éducation.
+Dans le cadre d'une convention suivie d'un contrat de résultat, ils exécutent des tâches précises conformes à la politique
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-Les  conditions  d'attribution  ou  de  retrait  de  l'agrément  sont fixées par voie réglementaire.
+nationale d'éducation.
+
+Les conditions d'attribution ou de retrait de l'agrément sont fixées par voie réglementaire.
 
 #### SECTION V Des fonctions de l'école et des établissements d'enseignement, de formation
 
@@ -215,18 +195,19 @@ A  cette fin,  l'école  et  les  établissements  de  formation  et d'enseignem
 - apprendre tout au long de leur vie.
 
 #### SECTION VI Droits et obligations de l'élève / apprenant
-##### Article 17.
-L'élève/apprenant est au centre de l'action éducative et des activités de formation.
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
+##### Article 17.
+L'élève/apprenant est au centre de l'action éducative et des activités de formation.
+
 ##### Article 18.
 L'élève/apprenant a droit à une information diversifiée  et  complète  sur  tout  ce  qui  a  trait  à  l'orientation scolaire et universitaire afin qu'il puisse choisir en connaissance de cause et avec conviction son parcours scolaire et professionnel.
 
 ##### Article 19.
-Le personnel de l'éducation et de 'a formation doit, en  s'acquittant  de  leurs  devoirs  professionnels,  se  conformer aux principes d'équité et d'égalité des chances et établir avec les élèves des rapports fondés sur l'honnêteté, l'objectivité et le respect  de  la  personne  de  l'enfant  et  du  jeune,  et  de  leurs droits.
+Le personnel de l'éducation et de la formation doit, en s'acquittant de leurs devoirs professionnels, se conformer aux principes d'équité et d'égalité des chances et établir avec les élèves des rapports fondés sur l'honnêteté, l'objectivité et le respect de la personne de l'enfant et du jeune, et de leurs droits.
 
 ##### Article  20.
 Il  est  du  devoir  de  l'élève/  apprenant  de  respecter l'enseignant   formateur et tous les membres de la communauté éducative  et  de  s'astreindre  aux  exigences  imposées  par  le respect dû à l'établissement d'éducation et de formation.
@@ -243,30 +224,32 @@ Le  régime  disciplinaire  des  établissements  d'enseignement  et de formatio
 ### CHAPITRE PREMIER PRINCIPES ET ORGANISATIONS
 
 ##### Article  22.
-La  mission  de  l'Etat  est  d'assurer  pour  tous  les Malgaches une éducation de   qualité. Le secteur de l'Education, de l'Enseignement et de la Formation comprend: l'Education et la Formation Non Formelle;
+La mission de l'Etat est d'assurer pour tous les
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
+Malgaches une éducation de qualité.
+Le secteur de l'Education, de l'Enseignement et de la Formation comprend:
+l'Education et la Formation Non Formelle;
 l'Education et la Formation Formelle;
 
 ##### Article 23.
-La double cohérence interne et externe, les principes  d'unité  et  de  diversité,  la  garantie  de  continuité,  de complémentarité,  d'interdépendance  et  de  synergie,  ainsi  que le  souci  de  performance  et  de  progrès  constants  fondent  et structurent l'organisation du système d'éducation, d'enseignement et de formation malagasy­.
+La double cohérence interne et externe, les principes d'unité et de diversité, la garantie de continuité, de complémentarité, d'interdépendance et de synergie, ainsi que le souci de performance et de progrès constants fondent et structurent l'organisation du système d'éducation, d'enseignement et de formation malagasy.
 
 ##### Article 24.
-Des objectifs et des buts terminaux fixent l'organisation  des  enseignements  et  des  formations  dans  les différents  niveaux  et  types  d'éducation.  d'enseignement  et  de formation préalablement inventoriés,
+Des objectifs et des buts terminaux fixent l'organisation des enseignements et des formations dans les différents niveaux et types d'éducation, d'enseignement et de formation préalablement inventoriés.
 
 ### CHAPITRE II DE L'EDUCATION NON FORMELLE
 
 ##### Article  25.
-L'éducation  non  formelle  est  constituée  de  toutes les activités éducatives et de formation assurée en dehors du système éducatif; formel. Elle est destinée à offrir des possibilités d'apprentissage et de formation à tous ceux qui n'ont pas bénéficié des structures du
-
-système formel.
+L'éducation non formelle est constituée de toutes les activités éducatives et de formation assurée en dehors du système éducatif formel.
+Elle est destinée à offrir des possibilités d'apprentissage et de formation à tous ceux qui n'ont pas bénéficié des structures du système formel.
 
 Elle doit permettre à des personnes de tous âges d'acquérir les connaissances  utiles,  les  compétences  professionnelles,  une culture générale et des aptitudes civiques favorisant l'épanouissement de leur personnalité dans la dignité.
 
-Elle  doit  permettre  à  tous  les  citoyens  de  s'intégrer  dans  la société  où  ils  vivent,  de  leur  donner  les  instruments  socio -culturels nécessaires pour la développer et vivre sans complexe dans toute autre société humaine.
+Elle doit permettre à tous les citoyens de s'intégrer dans la société où ils vivent, de leur donner les instruments socio-culturels nécessaires pour la développer et vivre sans complexe dans toute autre société humaine.
 
 Elle  commence  dans  la  famille,  et  est  continuée  dans  les communautés  de  base,  puis  dans  les  structures  adaptées  à chaque situation, dans les collectivités territoriales.
 
@@ -293,9 +276,7 @@ L'Ecole infantile comprend:
 
 - les nurseries qui prennent en charge les bébés de zéro à deux ans;
 
-- les jardins d'enfants qui s'occupent de la garde des
-
-- enfants de deux et trois ans;
+- les jardins d'enfants qui s'occupent de la garde des enfants de deux et trois ans;
 
 - les écoles maternelles assurant l'éducation des enfants de trois à cinq ans.
 
@@ -305,7 +286,7 @@ Les  nurseries  déchargent  les  parents  de  leurs bébés pour leur permettre
 Elles  ont  pour  objectif  la  sécurité  des  bébés  qui  leur  sont confiés: hygiène et soins, nourriture, jeux et socialisation.
 
 ##### Article 30.
-Les jardins d'enfants ont pour vocation l'évei1 et la socialisation des  enfants  par  des  activités sensorielles et motrices,  des  activités  de  communication,  d'expression  orale, des chansons, des dessins et des récitations pour enfants.
+Les jardins d'enfants ont pour vocation l'éveil et la socialisation des enfants par des activités sensorielles et motrices, des activités de communication, d'expression orale, des chansons, des dessins et des récitations pour enfants.
 
 ##### Article 31.
 L'école maternelle est une école à vocation d'éveil et d'ouverture aux activités socialisantes et éducatives préparant au  système  formel:  activités sensori-motrices, activités  de communication et d'expression orale et écrite, activités scientifiques et techniques.
@@ -323,9 +304,7 @@ Le régime général de l'éducation et de la formation non  formelle  ainsi  qu
 L'alphabétisation fonctionnelle se donne pour objectif  de  favoriser  la  mobilisation  des  acquis  en  lecture, écriture  et  calcul  au  profit  de  la  vie  quotidienne,  familiale  et communautaire.
 
 ##### Article 34.
-Des partenaires sociaux -organisations non gouvernementales  (ONG),  organisations  confessionnelles  et autres associations - exécutent le programme d'Alphabétisation Fonctionnelle en collaboration étroite avec les Ministères chargés de l'éducation et de la formation, et avec les
-
-- Collectivités territoriales.
+Des partenaires sociaux - organisations non gouvernementales (ONG), organisations confessionnelles et autres associations - exécutent le programme d'Alphabétisation Fonctionnelle en collaboration étroite avec les Ministères chargés de l'éducation et de la formation, et avec les Collectivités territoriales.
 
 ##### Article  35.
 Tout  projet  d'alphabétisation  fonctionnelle  doit  se prolonger par la mise en place de programmes post alphabétisation  pour  la  maintenance  et  la  capitalisation  des acquis. Il doit contribuer à la création d'un environnement lettré dans des structures d'apprentissage de proximité aux métiers de base.
@@ -337,7 +316,7 @@ L'éducation  à  la  citoyenneté  et  au  civisme  a  pour composantes:
 
 l'éducation citoyenne et patriotique;
 
-l'éducation à la vie familiale et communautaire:
+l'éducation à la vie familiale et communautaire;
 
 l'éducation au développement et à l'environnement;
 
@@ -356,7 +335,7 @@ objectifs:
 
 - de développer la conscience et le respect des droits et des libertés de l'homme, la pratique de la démocratie et la fierté de l'identité nationale;
 
-- de  former  le  citoyen  à  la  sauvegarde  et  à  l'extension  de l'environnement  et  du  patrimoine  national.  tant  culturel, matériel qu'immatériel;
+- de former le citoyen à la sauvegarde et à l'extension de l'environnement et du patrimoine national, tant culturel, matériel qu'immatériel;
 
 - de compléter et de parfaire ses compétences  et ses capacités  pour  en  faire  un  citoyen  poli,  honnête,  éclairé, responsable et actif.
 
@@ -382,13 +361,13 @@ l'enseignement supérieur et la formation universitaire.
 #### SECTION PREMIERE L'Education    fondamentale: Mission - Organisation - Objectifs
 
 ##### Article  39.
-L'éducation  fondamentale  est  dispensée  sur  une durée de neuf ans et accueille les enfants à partir de l'âge de
-
-six ans.
+L'éducation fondamentale est dispensée sur une durée de neuf ans et accueille les enfants à partir de l'âge de
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+six ans.
 
 ##### Article 40.
 L'éducation fondamentale a pour mission d'instruire les enfants et les jeunes et les initier à des savoirs théoriques et  pratiques  essentiels  à  leur  intégration  positive  dans  la  vie active ou dans l'enseignement secondaire.
@@ -401,7 +380,7 @@ ans.
 ##### Article  42.
 L'éducation  fondamentale  du  premier  cycle  (EF1), dispensée dans les Ecoles Primaires, a pour objectifs spécifiques:
 
-l'acquisition des compétences clés dans les domaines cognitifs, sensori-moteur et socio­ -affectif; l'initiation aux valeurs civiques et de citoyenneté, et aux exigences du vivre ensemble; la maîtrise de l'environnement technique, temporel et spatial
+l'acquisition des compétences clés dans les domaines cognitifs, sensori-moteur et socio-affectif; l'initiation aux valeurs civiques et de citoyenneté, et aux exigences du vivre ensemble; la maîtrise de l'environnement technique, temporel et spatial
 
 de proximité.
 
@@ -413,11 +392,13 @@ L'éducation fondamentale du deuxième cycle (EF2) , dispensée dans les   coll�
 faire  acquérir  les  connaissances  et  les  aptitudes  requises dans les domaines des mathématiques, des sciences, de la technologie, des sciences humaines, des arts et des sports et ce, afin qu'il puisse poursuivre ses études dans le cursus suivant ou qu'il intègre les filières de la formation professionnelle ou s'insérer dans la société. La fin de cycle est sanctionnée par un Brevet.
 
 ##### Article 44.
-L'organisation de l'éducation fondamentale, la répartition des cours, les programmes et les méthodes d'enseignement,  le  suivi  et  l'évaluation  de  toutes  les  activités éducatives, le calendrier scolaire, sont définis par voie réglementaire.
+L'organisation de l'éducation fondamentale, la
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+
+répartition des cours, les programmes et les méthodes d'enseignement, le suivi et l'évaluation de toutes les activités éducatives, le calendrier scolaire, sont définis par voie réglementaire.
 
 #### SECTION II L'Enseignement Secondaire
 
@@ -435,13 +416,15 @@ La fréquentation du secondaire est certifiée par une attestation faisant état
 #### SECTION III La Formation Technique et Professionnelle
 
 ##### Article 48.
-La Formation Technique et Professionnelle a pour mission de former les jeunes et adultes, selon les besoins réels et  évolutifs  de  l'économie.  Elle  contribue  au  développement socio ­- culturel et économique de la famille, de la région et de la nation.
+La Formation Technique et Professionnelle a pour mission de former les jeunes et adultes, selon les besoins réels et évolutifs de l'économie. Elle contribue au développement socio-culturel et économique de la famille, de la région et de la nation.
 
-L'économie de marché, le partenariat, l'autonomie, la cohérence et l'excellence technique et professionnelle déterminent  les  principes  généraux  de  l'organisation  et  du fonctionnement  du  dispositif  de  la  Formation  Technique  et Professionnelle.
+L'économie de marché, le partenariat, l'autonomie, la cohérence et l'excellence technique et professionnelle déterminent les principes généraux de l'organisation et du
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+
+fonctionnement du dispositif de la Formation Technique et Professionnelle.
 
 ##### Article 49.
 La formation technique et professionnelle permet à toute personne, jeune ou adulte, individuellement ou en association:
@@ -468,7 +451,7 @@ La structure, la mission, les attributions des centres, établissements,  instit
 
 [[START OF PAGE 16]]
 
-de  formation   technique  et  professionnelle  publics  et  privés, sont définies par voie réglementaire. Le  recrutement,  le régime  et t'organisation  généraux  des examens et concours sont définis par voie réglementaire. La  fréquentation  des  centres  et  établissements  de  formation technique  et  professionnelle  est  certifiée  par  une  attestation faisant état du niveau atteint.
+de formation technique et professionnelle publics et privés, sont définies par voie réglementaire. Le recrutement, le régime et l'organisation généraux des examens et concours sont définis par voie réglementaire. La fréquentation des centres et établissements de formation technique et professionnelle est certifiée par une attestation faisant état du niveau atteint.
 
 L'équivalence des titres délivrée par les centres et les établissements  de  formation  technique  et  professionnelle  est définie par voie réglementaire,
 
@@ -488,16 +471,19 @@ Un  processus  contractuel  entre  les  institutions d'enseignement  supérieur 
 marché de travail et de l'économie.
 
 ##### Article  55.
-Pour  améliorer  l'efficacité  interne  et  externe  des établissements  d'enseignement  supérieur,  il  est  mis  en  place un système leur permettant de disposer des ressources propres.  La  participation  des  bénéficiaires  au  financement  de l'Enseignement Supérieur et de la Recherche est encouragée. La structure, la mission, les attributions des centres, établissements, instituts et des regroupements d'établissement publics  et  privés  d'enseignement  supérieur  sont  définies  par voie réglementaire.
+Pour améliorer l'efficacité interne et externe des établissements d'enseignement supérieur, il est mis en place un système leur permettant de disposer des ressources propres. La participation des bénéficiaires au financement de l'Enseignement Supérieur et de la Recherche est encouragée.
+La structure, la mission, les attributions des centres, établissements, instituts et des regroupements d'établissement
 
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
 
+publics et privés d'enseignement supérieur sont définies par voie réglementaire.
+
 ## TITRE III DES ETABLISSEMENTS D'ENSEIGNEMENT PRIVES
 
 ##### Article 56.
-Les personnes physiques et morales peuvent créer des établissements éducatifs et d'enseignement  privés et pourvoir  à  leurs  dépenses  après  obtention  d'une  autorisation des autorités chargés de l'éducationenseignement et formation.  Les  conditions  d'octroi  de  l'autorisation  sont  fixées par voie réglementaire.
+Les personnes physiques et morales peuvent créer des établissements éducatifs et d'enseignement privés et pourvoir à leurs dépenses après obtention d'une autorisation des autorités chargés de l'éducation-enseignement et formation. Les conditions d'octroi de l'autorisation sont fixées par voie réglementaire.
 
 Le propriétaire ainsi que le Directeur effectif d'un établissement éducatif privé doit être de nationalité malagasy sauf autorisation spéciale délivrée par le Ministre responsable.
 
@@ -541,7 +527,7 @@ En cas de retrait de l'autorisation prévu à l'article 61, l'autorité  tutelle
 Le personnel éducatif est constitué des enseignants, des formateurs, des inspecteurs, des planificateurs, du personnel d'encadrement, des conseillers en information et en orientation scolaire et universitaire, des conseillers en éducation  et  en  formation,  des  surveillants  et  des  agents administratifs et techniques.
 
 ##### Article  64.
-Tous  les  membres  du  personnel  éducatif,  sont astreints, tout au long de leur carrière, à la formation continue qui est une nécessité dictée par les mutations qui affectent le savoir et la société et par l'évolution des métiers. La  formation  des  formateurs  et  la  formation  continue  sont organisées au profit des membres du personnel éducatif selon les exigences dictées par t'évolution des méthodes et moyens d'enseignement  et  de  son  contenu,  l'intérêt  des  élèves  et  de
+Tous les membres du personnel éducatif, sont astreints, tout au long de leur carrière, à la formation continue qui est une nécessité dictée par les mutations qui affectent le savoir et la société et par l'évolution des métiers. La formation des formateurs et la formation continue sont organisées au profit des membres du personnel éducatif selon les exigences dictées par l'évolution des méthodes et moyens d'enseignement et de son contenu, l'intérêt des élèves et de
 
 l'école, et les besoins liés à la promotion professionnelle.
 
@@ -553,11 +539,13 @@ Les membres de la communauté éducative assument,  dans  la  coopération  et  
 ##### Article 66.
 Dans le cadre du développement rapide et durable de  l'éducation  et  de  la  formation,  et  dans  l'unique  souci  de l'intérêt  général,  les  instances  d'évaluation  et  de  contrôle,  de conseil et de planification sont au regard de la Nation, parmi les garantes de l'efficacité et de la rentabilité du système d'éducation  et  de  formation,  ainsi que  de  sa  fidélité  aux principes fondamentaux définis par la présente loi. Toutes les composantes du système éducatif font l'objet d'une évaluation périodique et régulière.
 
-Les différentes évaluations ont pour but de mesurer objectivement  le  rendement  du  système  scolaire,  celui  des établissements qui en relèvent et des personnels qui y exercent, ainsi que les acquis des élèves, de manière à pouvoir introduire les correctifs et les aménagements nécessaires pour la réalisation des objectifs fixés.
+Les différentes évaluations ont pour but de mesurer
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
+
+objectivement le rendement du système scolaire, celui des établissements qui en relèvent et des personnels qui y exercent, ainsi que les acquis des élèves, de manière à pouvoir introduire les correctifs et les aménagements nécessaires pour la réalisation des objectifs fixés.
 
 ##### Article  67.
 La  recherche  pédagogique  constitue  un  puissant facteur  d'amélioration  de  la  qualité  de  l'apprentissage,  du rendement  de  l'école  et  de  sa  mise  à  niveau  en  vue  de répondre  aux  normes  internationales  dans  le  domaine  de l'éducation.
@@ -576,19 +564,20 @@ Les  Ministères  chargés  de  l'éducation  et  de  la  formation  ne dérogen
 Ils veillent scrupuleusement à la gestion stricte de son personnel, des fonds qui leur sont alloués, des matériels mis à sa disposition, et de l'efficacité de l'éducation et de la formation des apprenants.
 
 ##### Article 71.
-Les contrôles hiérarchiques sont réalisés au niveau des différents organes des Ministères chargés de l'éducation et de  la  formation.  Ils  sont  assurés  par  toutes  les  autorités responsables  d'unités  éducatives  ou  formatives,  et  par  leurs supérieurs hiérarchiques.
+Les contrôles hiérarchiques sont réalisés au niveau des différents organes des Ministères chargés de l'éducation et de la formation. Ils sont assurés par toutes les autorités
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
 
+responsables d'unités éducatives ou formatives, et par leurs supérieurs hiérarchiques.
 Les contrôles hiérarchiques doivent se faire aussi au sein des services centraux et décentralisés.
 
 ##### Article  72.
 Les  contrôles  -  inspections,  comme  les  contrôles hiérarchiques, sont internes, sauf qu'ils sont ordonnés directement par le Ministre responsable.
 
 ##### Article 73.
-L'organe d'inspection est inscrit dans l'organigramme des Ministères chargés de l'éducation et de la formation. I1 est représenté jusqu'au niveau décentralisé.
+L'organe d'inspection est inscrit dans l'organigramme des Ministères chargés de l'éducation et de la formation. Il est représenté jusqu'au niveau décentralisé.
 
 Sa  mission  consiste  à  veiller  à  la  bonne  exécution  de  la politique  nationale  d'éducation  et  de  formation  en  matière  de contrôle de l'excellence du travail du personnel de ce secteur et des  organes  rattachés  ou  sous  tutelle,  indépendamment  des audits externes.
 
@@ -598,7 +587,7 @@ Les  performances  de  chaque  agent  sont  évaluées au  regard  des  référe
 Les référentiels et les indicateurs sont portés à la connaissance de  tous  par  voie     réglementaire.  Ils  sont  vérifiés  lors  des contrôles et des inspections. A part les contrôles hiérarchiques, les contrôles - inspections sont assurées par les spécialistes en la matière.
 
 ##### Article  75.
-La  mise  en  oeuvre  des  actions  de  contrôles  inspections  définies  par  la  présente  loi  d'orientation  exige  la présence de moyens humains, financiers et matériels adéquats.
+La mise en oeuvre des actions de contrôles - inspections définies par la présente loi d'orientation exige la présence de moyens humains, financiers et matériels adéquats.
 
 Les modalités d'application des présentes dispositions sont définies par voie réglementaire.
 
