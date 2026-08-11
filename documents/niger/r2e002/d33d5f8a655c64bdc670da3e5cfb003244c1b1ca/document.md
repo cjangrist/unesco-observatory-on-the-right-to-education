@@ -4,7 +4,7 @@
 
 http://www.men.ne/RLR/textes/40-0.html
 
-# LOI n° 98-12 du 1 er juin 1998, portant orientation du système éducatif nigérien
+# LOI n° 98-12 du 1er juin 1998, portant orientation du système éducatif nigérien
 
 Vu la Constitution ;
 
@@ -12,9 +12,9 @@ L'Assemblée Nationale a délibéré et adopté ;
 
 Le Président de la République promulgue la Loi dont la teneur suit :
 
-## TITRE 1 : DISPOSITIONS GENERALES
+## TITRE I : DISPOSITIONS GENERALES
 
-#### Article Premier.
+#### Article Premier.-
 La présente loi détermine les principes fondamentaux qui régissent le Système éducatif au Niger.
 
 On entend par système éducatif l'ensemble constitué par les instances d'initiative et de conception, les structures de planification, de production et de gestion, ainsi que les établissements d'enseignement et de formation qui concourent en interrelation à la transmission des savoirs, des savoir-faire et des savoir être.
@@ -22,7 +22,7 @@ On entend par système éducatif l'ensemble constitué par les instances d'initi
 #### Article 2. -
 L'éducation est un droit pour tout citoyen nigérien.
 
-L'Etat garantit l'éducation aux enfants de quatre (4) à dix-huit (1 8) ans.
+L'Etat garantit l'éducation aux enfants de quatre (4) à dix-huit (18) ans.
 
 #### Article 3. -
 L'enseignement privé est reconnu par l'Etat ; une loi et des textes d'application fixent les principes et les modalités d'organisation, de fonctionnement, de suivi et de contrôle de cet enseignement.
@@ -65,7 +65,7 @@ L'enseignement public est non confessionnel.
 
 ## TITRE II : FINALITES, OBJECTIFS, CONTENUS ET METHODES DU SYSTEME EDUCATIF
 
-### CHAPITRE 1 : FINALITES
+### CHAPITRE I : FINALITES
 
 #### Article 12. -
 La politique éducative nigérienne a pour finalité l'édification d'un système d'éducation capable de mieux valoriser les ressources humaines en vue d'un développement économique, social et culturel harmonieux du pays.
@@ -75,7 +75,7 @@ L'éducation doit être complète.
 
 Elle vise le développement des capacités intellectuelles, physiques et morales, l'amélioration de la formation en vue d'une insertion sociale et professionnelle et le plein exercice de la citoyenneté.
 
-### CHAPITRE Il : OBJECTIFS
+### CHAPITRE II : OBJECTIFS
 
 #### Article 14. -
 Le système éducatif a pour objectifs :
@@ -129,7 +129,7 @@ Le système éducatif vise :
 
 ## TITRE III : STRUCTURES DU SYSTEME EDUCATIF NIGERIEN
 
-### CHAPITRE 1 : L'EDUCATION FORMELLE
+### CHAPITRE I : L'EDUCATION FORMELLE
 
 #### Article 16. -
 L'éducation formelle est une modalité d'acquisition de l'éducation et de la formation professionnelle dans un cadre scolaire. L'éducation formelle comprend :
@@ -153,7 +153,7 @@ L'éducation de base est garantie à tous ; elle a pour missions :
 
 - de valoriser les contenus éducatifs fondamentaux dont l'être humain a besoin pour développer toutes ses facultés, vivre et travailler dans la dignité, améliorer la qualité de son existence et prendre des décisions éclairées et pour Continuer à apprendre.
 
-L'éducation de base comprend le préscolaire, le cycle de base 1 et le cycle de base Il.
+L'éducation de base comprend le préscolaire, le cycle de base I et le cycle de base II.
 
 #### Article 18. -
 Le préscolaire concerne les enfants âgés de trois (3) à cinq (5) ans.
@@ -163,10 +163,10 @@ Il s'agit d'une, pré-initiation scolaire de un (1) à trois (3) ans.
 Le contenu de la formation est fixé par voie réglementaire.
 
 #### Article 19. -
-Le cycle de base 1 accueille les enfants âgés de six (6) à sept (7) ans. La durée normale de la scolarité est de six (6) ans. La langue maternelle ou première est langue d'enseignement ; le français matière d'enseignement à partir de la première année.
+Le cycle de base I accueille les enfants âgés de six (6) à sept (7) ans. La durée normale de la scolarité est de six (6) ans. La langue maternelle ou première est langue d'enseignement ; le français matière d'enseignement à partir de la première année.
 
 #### Article 20. -
-A l'issue du cycle de base 1, les modalités d'accès au cycle de base Il ou aux centres de formation partagée sont définies par voie réglementaire.
+A l'issue du cycle de base I, les modalités d'accès au cycle de base II ou aux centres de formation partagée sont définies par voie réglementaire.
 
 #### Article 21. -
 Le cycle de base II accueille les enfants âgés de onze (11) à treize (13) ans. Sa durée normale est de quatre (4) ans.
@@ -381,7 +381,7 @@ Les modalités de création, d'organisation et de fonctionnement des centres d'�
 
 ## TITRE IV : ORGANISATION DE L'ENSEIGNEMENT ET DE LA FORMATION
 
-### CHAPITRE 1 : PROGRAMMES ET HORAIRES
+### CHAPITRE I : PROGRAMMES ET HORAIRES
 
 #### Article 44. -
 Il est défini par voie réglementaire pour chaque niveau d'enseignement des programmes de formation et des instructions officielles pour leur application.
@@ -537,7 +537,7 @@ Il est créé au niveau de chaque région un Conseil Régional de l'Education (C
 La composition et les modalités de fonctionnement du Conseil Régional de l'Education sont définies par voie réglementaire.
 
 #### Article 72. -
-Il est créé au niveau de chaque sous-région un Conseil sous-régional de l'Education (C.S.R.E) chargé du suivi de la politique éducative au niveau sousrégional.
+Il est créé au niveau de chaque sous-région un Conseil sous-régional de l'Education (C.S.R.E) chargé du suivi de la politique éducative au niveau sous-régional.
 
 La composition et les modalités de fonctionnement du Conseil sous-régional de l'Education sont définies par voie réglementaire.
 
