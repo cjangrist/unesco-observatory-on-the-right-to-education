@@ -14,6 +14,26 @@ TBILISI, 2007
 
 2
 
+TABLE OF CONTENTS ................................ERROR! BOOKMARK NOT DEFINED.
+1. STRATEGY FOR THE EDUCATION SECTOR (2007-2011)............................ 3
+A. INTRODUCTION ........................................................................................................ 3
+B. AN OVERVIEW OF EDUCATION REFORM SO FAR........................................................ 4
+C. PRINCIPLES UNDERLYING EDUCATION STRATEGY (2007-2011) .............................. 8
+D. SECTORAL COMPONENTS OF THE STRATEGY ............................................................ 9
+i. Pre-school education and early childhood development.................................... 9
+ii. General education............................................................................................. 12
+iii. Vocational education ........................................................................................ 18
+iv. Higher education .............................................................................................. 20
+v. Lifelong learning and non-formal education.................................................... 23
+vi. Inclusive education and children with special needs........................................ 24
+2. ACTION PLAN FOR THE EDUCATION SECTOR (2007-2011).................... 28
+A. CURRENT AND MEDIUM-TERM PUBLIC EXPENDITURE ON EDUCATION .................... 28
+B. THE MATRIX FOR THE PLAN.................................................................................... 32
+C. SCENARIOS AND GAPS: RESOURCE ANALYSIS ........................................................ 45
+D. RESULTS FRAMEWORK: EDUCATION SECTOR DEVELOPMENT INDICATORS FOR THE
+ACTION PLAN ................................................................................................................ 50
+E. PRIORITY AREAS AND COMPONENTS MOST RELEVANT TO EDUCATION FOR ALL .... 52
+
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
@@ -40,22 +60,22 @@ Another important context for education strategy is the downward trend in the nu
 
 4
 
-2006 | 2007 | 2008 | 2009 | 2010 | 2011
+Table 1: Projections of school-age population, by age group, 2005-2010 ('000)
+
+ | 2006 | 2007 | 2008 | 2009 | 2010 | 2011
 --- | --- | --- | --- | --- | --- | ---
 3-6 | 194 | 188 | 189 | 191 | 194 | 198
 7-15 | 483 | 459 | 434 | 414 | 399 | 387
 16-18 | 196 | 191 | 189 | 186 | 173 | 157
 19-24 | 404 | 407 | 405 | 392 | 396 | 387
 
-Table 1:  Projections of school-age population, by age group, 2005-2010 ('000)
+Source: Calculated from UNICEF, TransMONEE database (based on National Statistics Department estimates of population by single-year age-group).
 
-Source:    Calculated  from  UNICEF,  TransMONEE  database  (based  on  National  Statistics  Department  estimates  of population by single-year age-group).
-
-Education can play an important role in improving the competitiveness of the economy, currently dependent on low-income agriculture and unsustainable exports such as scrap metal and aircraft repair services.  The IMF finds that, while Georgia still ranks lowest among the countries in the region in the 2005-6 Global Competitiveness Report (World Economic Forum 2005), there is evidence of improvement in a range of indicators of business conditions and competitiveness since 2003, thanks to the drive against corruption.  It recommends continued structural reforms, as  well  as  prudent  macroeconomic  and  flexible  exchange  rate  policies  (IMF  2006).    More dynamically and for the longer run, these will be supplemented by improvements in the quantity and quality of education, which could transform the factor endowment of the economy, shifting its comparative advantage away from products and services based on natural resources and cheap, relatively  unskilled  labor  towards  skill-based  products  and  services.    International  evidence, including  cross-country  regressions  and  many  country  case-studies,  is  consistent  with  this hypothesis,  which  implies  an  active  role  for  education  in  changing  economic  prospects.    As Ireland has  shown in the past twenty years, a high-quality education system is one of the preconditions for a small economy, with a history of chronic labor export, to transform itself and find a prosperous niche within Europe.
+Education can play an important role in improving the competitiveness of the economy, currently dependent on low-income agriculture and unsustainable exports such as scrap metal and aircraft repair services. The IMF finds that, while Georgia still ranks lowest among the countries in the region in the 2005-6 Global Competitiveness Report (World Economic Forum 2005), there is evidence of improvement in a range of indicators of business conditions and competitiveness since 2003, thanks to the drive against corruption. It recommends continued structural reforms, as well as prudent macroeconomic and flexible exchange rate policies (IMF 2006). More dynamically and for the longer run, these will be supplemented by improvements in the quantity and quality of education, which could transform the factor endowment of the economy, shifting its comparative advantage away from products and services based on natural resources and cheap, relatively unskilled labor towards skill-based products and services. International evidence, including cross-country regressions and many country case-studies, is consistent with this hypothesis, which implies an active role for education in changing economic prospects. As Ireland has shown in the past twenty years, a high-quality education system is one of the pre-conditions for a small economy, with a history of chronic labor export, to transform itself and find a prosperous niche within Europe.
 
 ### b. An overview of education reform so far
 
-The scope and pace of Georgian education reform since 2003 are unique in the region.  In particular, reforms of financing and governance of educational institutions, that other countries have been grappling with for years, have been initiated at a stroke.  They introduce the per capita financing  principle  of  'money  follows  the  student'  in  both  general  and  higher  education.    The state  undertakes  to  provide  twelve  years  of  free general  education 1 ,  and  primary,  basic  and general  schools  (which  have  been  converted  from  local-government  budget  organizations  to autonomous Legal Entities  of  Public  Law  or  LEPLs)  are  funded  directly  from  the  Ministry  of Education and Science, receiving an amount per pupil (a voucher) which varies only according to the location of the school (highest for those in highlands, lowest for those in cities) and covers current but not capital expenditures.  Small schools can receive an extra amount per pupil from the central budget, and extra educational and teaching services and special educational curricula can be financed locally.  Each school has a Board of Trustees, composed of elected teachers and parents, a student representative and in some cases a local-government nominee, which elects the school director, approves the budget, and oversees and advises school management.  The lumpsum amount received from the MoES (paid into the school's own bank account) can be spent in any way that school management, approved by the Board, decides, subject only to a minimum salary rate for teachers, depending on their qualifications, experience and the number of pupils per  class.    Local  education  departments  have  been  replaced  by Education Resource Centers , which facilitate (but do not control) schools' educational activities by collecting data, conducting research, organizing training, workshops and seminars, etc..
+The scope and pace of Georgian education reform since 2003 are unique in the region. In particular, reforms of financing and governance of educational institutions, that other countries have been grappling with for years, have been initiated at a stroke. They introduce the per capita financing principle of 'money follows the student' in both general and higher education. The state undertakes to provide twelve years of free general education 1, and primary, basic and general schools (which have been converted from local-government budget organizations to autonomous Legal Entities of Public Law or LEPLs) are funded directly from the Ministry of Education and Science, receiving an amount per pupil (a voucher) which varies only according to the location of the school (highest for those in highlands, lowest for those in cities) and covers current but not capital expenditures. Small schools can receive an extra amount per pupil from the central budget, and extra educational and teaching services and special educational curricula can be financed locally. Each school has a Board of Trustees, composed of elected teachers and parents, a student representative and in some cases a local-government nominee, which elects the school director, approves the budget, and oversees and advises school management. The lump-sum amount received from the MoES (paid into the school's own bank account) can be spent in any way that school management, approved by the Board, decides, subject only to a minimum salary rate for teachers, depending on their qualifications, experience and the number of pupils
 
 > 1 See the Law of Georgia on General Education, April 8, 2005, for the overall framework and Decree N 182 of the Government of Georgia, October 14, 2005, for details of the funding formula.
 
@@ -65,23 +85,19 @@ The scope and pace of Georgian education reform since 2003 are unique in the reg
 
 5
 
-Per  student  funding  model  has  been  applied  to higher  education 2 (HE).  Within  this model, upper limit of tuition fees is  set  for  state  universities,  but  not  for  private  ones  and  this upper limit equals the highest amount of grant issued by the state. Uniform grants to a relatively small  number  of  students  (2005)  have  been  replaced  by  grants  on  a  sliding  scale  to  a  larger number, but still merit-based (2006) 3 ; and a student loan scheme has been initiated in cooperation with commercial banks (2006).  In line with Georgia's admission to the Bologna process, a threecycle degree system has been adopted. The HE management system has been changed making HEIs autonomous bodies and their heads are no longer appointed by the President but elected by each  institution's  Academic  Council  (the  highest  representative  body  consisting  of  elected professors from each department).
+per class. Local education departments have been replaced by Education Resource Centers, which facilitate (but do not control) schools' educational activities by collecting data, conducting research, organizing training, workshops and seminars, etc..
+
+Per student funding model has been applied to higher education 2 (HE). Within this model, upper limit of tuition fees is set for state universities, but not for private ones and this upper limit equals the highest amount of grant issued by the state. Uniform grants to a relatively small number of students (2005) have been replaced by grants on a sliding scale to a larger number, but still merit-based (2006) 3; and a student loan scheme has been initiated in cooperation with commercial banks (2006). In line with Georgia's admission to the Bologna process, a three-cycle degree system has been adopted. The HE management system has been changed making HEIs autonomous bodies and their heads are no longer appointed by the President but elected by each institution's Academic Council (the highest representative body consisting of elected professors from each department).
 
 A  crucial  contribution  to  reduction  in  corruption  and  reform  of  higher  education admission has been made by the introduction of unified entrance examinations, held in 2005 and 2006 4 , using sophisticated testing methods across a range of subjects.  These are administered by a new agency, the National Examination Center ,  under the governance of but at arm's length from  the  MoES.    On  both  occasions  the  conduct  of  the  examinations  was  monitored  by Transparency International.  In its report on the 2006 examinations, together with the American Councils  for  International  Education,  the  testing  process  was  judged  to  be  well  organized  and transparent.    Wide  support  for  the  new  system  was  found  throughout  the  country,  and  a  large majority of test takers, parents and administrators felt confident that it would help to eliminate corruption in university admission (Transparency International 2006) 5 .  Together with university admission examinations the Agency is administering other examinations, as teacher certification, international student examinations, etc.
 
 Similar management model has been established and relevant agencies have been set up in other areas important to quality assurance and control. The National Education Accreditation Center , established in March 2006 is responsible for carrying out the accreditation of  higher  education  institutions.  The  number  of  authorized  HEIs  has  already  been  reduced through a courageous two-step institutional accreditation process from 227 in 2004 to current 43. The Center intends to extend accreditation to general and vocational schools, and is developing criteria  for  this  purpose  as  well  as  encouraging  a  process  of  self-evaluation.    The National Curriculum and Assessment Center ,  established in April 2006, has introduced new curricula, designed to encourage active learning rather than mechanical transfer of knowledge, at first in grades  1,  7  and  10,  and  on  a  pilot  basis  in  grades  2,  8  and  11.    Authors  have  developed  new textbooks in  response to the new curricula:  a textbook rental scheme has been piloted but not implemented nationally.  The Teachers' Professional Development Center , established in July 2006, aims to develop standards and qualification requirements for teachers, to conduct a process of accreditation of teacher training and retraining programs and to introduce a system of teacher certification 6 .  After many years of attention to in-service training, reform of pre-career training is regarded as the greater challenge.
 
-2
+> 2 See the Law of Georgia on Higher Education, December 21, 2004.
 
-3
+> 3 Depending on their scores in the new unified entrance examinations (next paragraph).
 
-4
-
-> See the Law of Georgia on Higher Education, December 21, 2004.
-
-> Depending on their scores in the new unified entrance examinations (next paragraph).
-
-> For detailed discussion, see National Assessment and Examinations Center (2006: chapter 1).
+> 4 For detailed discussion, see National Assessment and Examinations Center (2006: chapter 1).
 
 > 5 For a review of the 2005 unified examinations process, see Lomaia (2006).
 
@@ -107,7 +123,7 @@ Professional  higher  education,  reshaped  to  respond  to  labor  market  dema
 
 In some areas development of new approaches is still at a relatively early stage.  In early childhood care and education , the need to address the issue of school readiness among 3-6 year olds  is  recognized,  through  development  of  regulatory  policies  (including  flexible  financial systems, operational protocols and professional standards), legal changes and national pre- and in-service teacher training curricula (Ministry of Education and Science 2006a).
 
-Children  Deinstitutionalization  and  Abandonment  Prevention  Program  implemented jointly by the MoES, with donor support been aiming at the reduction of the number of children deprived of parental and family care in special institutions in order to help such children be better integrated  in  social  life.  The  activities  of  the  program  include  reorganization  of  childcare institutions, deinstitutionalization and creation of alternative family and parent support services.
+Children Deinstitutionalization and Abandonment Prevention Program implemented jointly by the MoES, with donor support been aiming at the reduction of the number of children
 
 > 7 See Ministry of Education and Science (2005) for more detail.
 
@@ -117,6 +133,8 @@ Children  Deinstitutionalization  and  Abandonment  Prevention  Program  impleme
 
 7
 
+deprived of parental and family care in special institutions in order to help such children be better integrated in social life. The activities of the program include reorganization of childcare institutions, deinstitutionalization and creation of alternative family and parent support services.
+
 For  children  with  special  educational  needs 8 ,  a  pilot  project  for  the  introduction  of inclusive education in general schools is being mounted in ten schools in Tbilisi.  This involves development  of  a  national  policy  for  inclusive  education,  preparation  of  training  modules, adaptation of the physical, teaching and social environment of the selected schools, training of disabled children and their parents, introduction of inclusive teaching under the supervision of an elected  coordinator,  publication  of  a  manual,  establishment  of  libraries,  increasing  public awareness, and monitoring and evaluation (Ministry of Education and Science 2005a).
 
 Policy is also addressing  the particular  educational  problems  of ethnic/linguistic minorities in  the  regions,  the  biggest  of  which  is  inability  to  speak  the  state  language.      A textbook  on  Georgian  as  a  second  language  has  been  produced  for  non-Georgian  schools  in Samtshke-Javakheti  (Armenian)  and  Kvemo-Kartli  (Azeri);  incentives  for  qualified  Georgian language teachers to work in minority schools have been provided under a short-term program while long-term goals are to be pursued through teacher training and  human  resource development programs.
@@ -125,7 +143,7 @@ In order to provide equal access to HE representatives of minority groups togeth
 
 The  speed  with  which  education  reforms  were  initiated  after  2003  owes  much  to  the ground that had been laid since 2001 by the Education System Realignment and Strengthening Program, since renamed the Ilia Chavchavadze project, financed by a World Bank credit of $26 million.    The  new  financing  formula  and  funding  mechanisms,  the  outcome-based  national curriculum for general schools, the national assessment and examinations system and the system for professional development of teachers were all tools developed by this project, ready for use when  the  political  moment  arrived.    The  project  also  financed  improvements  in  textbooks (including the piloted but not yet implemented rental scheme) and the establishment of an EMIS. The  second  phase  of  the  project  continues  the  development  of  the  curriculum,  the  assessment system  and  teachers'  professional  development,  but  devotes  45  per  cent  of  its  budget  to improving the physical learning environment in schools.
 
-Among other donor agencies, USAID, in its $9.3 million 2005-2008 General Education Decentralization and Accreditation (GEDA) project, is helping:  to build up the new system of regional  management  and  educational  support  (the  Education  Resource  Centers  mentioned above); to develop and institutionalize a quality assurance and accreditation system for general, vocational and higher education; and to increase capacity within the MoES to manage the new systems.    USAID  has  also  provided  technical  assistance  for  establishment  of  the  new  initial vocational education centers.  GTZ and the EU have been involved in assistance to vocational education, and the EU is financing changes in selected higher education institutions through its TEMPUS program (European Training Foundation 2005).  In addition, the MoES actively seeks advice  and  support  for  smaller  scale  programs  though  bilateral  donors  and  UN  agencies  and works closely with the NGO community.
+Among other donor agencies, USAID, in its $9.3 million 2005-2008 General Education Decentralization and Accreditation (GEDA) project, is helping: to build up the new system of regional management and educational support (the Education Resource Centers mentioned above); to develop and institutionalize a quality assurance and accreditation system for general, vocational and higher education; and to increase capacity within the MoES to manage the new systems. USAID has also provided technical assistance for establishment of the new initial vocational education centers. GTZ and the EU have been involved in assistance to vocational education, and the EU is financing changes in selected higher education institutions through its TEMPUS program (European Training Foundation 2005). In addition, the MoES actively seeks
 
 > 8 Defined by the MoES to include:  children with disabilities and handicaps; members of ethnic minorities; street children; children with social problems; children with emotional disorders, speech and behavior problems; and girls who have problems of access to and retention in schools.
 
@@ -134,6 +152,8 @@ Among other donor agencies, USAID, in its $9.3 million 2005-2008 General Educati
 [[START OF PAGE 8]]
 
 8
+
+advice and support for smaller scale programs though bilateral donors and UN agencies and works closely with the NGO community.
 
 ### c. Principles underlying Education Strategy (2007-2011)
 
@@ -195,7 +215,7 @@ The early years of life are increasingly considered throughout the world as the 
 
 Currently the pre-primary education sector in Georgia is to a large extent underdeveloped.    As  in  some  other  post-communist  countries  pre-primary  education  system collapsed in the early 1990s 9 . Since then, this level of education, unlike other levels, has not been through an extensive reform process. Therefore, there is an urgent need to introduce substantial changes in this sector -legislative as well as structural and operational.
 
-The  reorganization  of  pre-primary  education  carried  out  in  2005  was  aimed  at  the decentralization of the system which was previously centrally governed. As a result local selfmanagement units became responsible for the establishment of pre-school educational institutions,  approval  of their statutes, and  appointment  of  a  person  responsible  for  the representation and control of their affairs. However, currently there is certain confusion over the management and organization  of  pre-school  education:  there  are  no  principles  of  management and  control  in  place;  the  role  and  extent  of  involvement  of  central  government  are  largely undefined; funding mechanisms for pre-school education have not yet been devised; and there is no standard licensing procedure.
+The reorganization of pre-primary education carried out in 2005 was aimed at the decentralization of the system which was previously centrally governed. As a result local self-management units became responsible for the establishment of pre-school educational institutions, approval of their statutes, and appointment of a person responsible for the representation and control of their affairs. However, currently there is certain confusion over the management and organization of pre-school education: there are no principles of management and control in place; the role and extent of involvement of central government are largely undefined; funding mechanisms for pre-school education have not yet been devised; and there is no standard licensing procedure.
 
 > 9 ECA Human Development, Discussion Paper Series, Europe and Central Asia Region, the World Bank, June 30, 2005
 
@@ -207,6 +227,8 @@ The  reorganization  of  pre-primary  education  carried  out  in  2005  was  ai
 
 Unfavorable  economic  conditions  caused  a  sharp  decrease  in  the  amount  of  funding available for pre-school institutions, resulting in halving of their number between 1990 and 2003 (Table  2).  A  number  of  private  kindergartens  have  been  established,  especially  in  urban  areas from early 1990s, which makes it very difficult to make an accurate estimate of the number of children enrolled in pre-primary education. The absence of standard licensing procedure allows these institutions operate informally and remain unregistered.
 
+Table 2: Number of public kindergartens and number of children enrolled, 1990-2005
+
 Year | Number of kindergartens | Number of children enrolled
 --- | --- | ---
 1990 | 2,454 | 199,982
@@ -214,9 +236,7 @@ Year | Number of kindergartens | Number of children enrolled
 2003 | 1,203 | 72,629
 2005 | 1,215 | 76,416
 
-Table 2:  Number of public kindergartens and number of children enrolled, 1990-2005
-
-Source:  National Department of Statistics of Georgia
+Source: National Department of Statistics of Georgia
 
 Although  there  is  disparity  in  the  data  provided  by  different  sources  on  pre-school enrollment rates, all of them testify that the rate has dropped sharply starting from early 90s, as Figure 1 shows.
 
@@ -376,13 +396,15 @@ Bottom quintile
 
 Source: UNICEF (forthcoming), based on MICS 2005 provisional results.
 
-Scarcity of financial resources has resulted in the deterioration of pre-school infrastructure. According to the estimates of the National Department of Statistics of Georgia out of 1,215 public pre-school institutions functioning in Georgia in 2005, 923 needed capital repair and 217 were in emergency conditions. Schools lack such essential facilities as heating, roofing and educational materials. Similar problems are apparent in educational programs and teaching methods:  staff qualifications are not adequate.
+Scarcity of financial resources has resulted in the deterioration of pre-school infrastructure. According to the estimates of the National Department of Statistics of Georgia out of 1,215 public pre-school institutions functioning in Georgia in 2005, 923 needed capital repair
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
 12
+
+and 217 were in emergency conditions. Schools lack such essential facilities as heating, roofing and educational materials. Similar problems are apparent in educational programs and teaching methods: staff qualifications are not adequate.
 
 Georgia  is  currently  in  the  initial  phase  of  formulating  a  national  strategy  for  Early Childhood Development (ECD), in recognition of the universally acknowledged importance of 'expanding and improving comprehensive early childhood care and education' (EFA goal No 1). UNICEF is providing extensive technical and expert support in this process.
 
@@ -454,13 +476,15 @@ The  education  reform  program  referred  to  in  the  previous  sections  has 
 
 First  of  all,  the  need  for  reliable  and  accurate  statistical  data  and  information  on expenditure requires improvement in the capacity of school directors and administrators in the principles of autonomous  school  governance,  financial accountability,  managing  budgets, handling  financial  information,  fundraising,  liaison  with  communities,  etc..    School  boards  of trustees  will  also  receive  training  on  the  nature  of  their  responsibility  and  the  skills  needed  to exercise it.
 
-General education territorial management reform carried out in 2006 has been important for  improving  governance  of  general  education.  Instead  of  previously  existing  educational departments  with  double  accountability  (both  to  local  and  central  governments),  ERCs  are established  in  each  district  as  the  MoES  territorial  units  facilitating  activities  of  the  schools located in the district. Recruitment and training of the heads and staff of ERCs, rehabilitation and equipment  of  ERC  buildings  was  carried  out  by  USAID  support  through  General  Education Decentralization  and  Accreditation  Program.  All  ERCs  will  be  rehabilitated  and  equipped  and staff trained in 2008.
+General education territorial management reform carried out in 2006 has been important for improving governance of general education. Instead of previously existing educational departments with double accountability (both to local and central governments), ERCs are established in each district as the MoES territorial units facilitating activities of the schools located in the district. Recruitment and training of the heads and staff of ERCs, rehabilitation and
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
 14
+
+equipment of ERC buildings was carried out by USAID support through General Education Decentralization and Accreditation Program. All ERCs will be rehabilitated and equipped and staff trained in 2008.
 
 It  is  crucial  to  ensure  that  information  is  communicated  freely  between  three  levels  of governance:  schools,  MoES  at  central  and  ERC  levels.  Electronic  databases  containing  the following information will be established, operational and regularly updated at all levels:
 
@@ -478,17 +502,17 @@ Together with building the capacity of administrators at all levels it is essent
 
 As a country committed to the performance of Millennium Development and EFA goals, Georgia will seek to ensure that enrollment rates in general education do not decline and equal access to education is guaranteed to all children.   Table 3 shows the enrollment rates recorded by the Education Management Information System for 2005.
 
-Total | Male | Female
+Table 3: General school enrollment rates in 2005
+
+ | Total | Male | Female
 --- | --- | --- | ---
 School enrollment primary (% gross) | 97.15% | 96.59% | 97.74%
 School enrollment basic (% gross) | 90.63% | 90.32% | 90.96%
 School enrollment secondary (% gross) | 51.12% | 49.08% | 53.21%
-Total | Male | Female
+ | Total | Male | Female
 School enrollment primary (% net) | 91.71% | 91.36% | 92.09%
 School enrollment basic (% net) | 89.33% | 88.91% | 89.76%
 School enrollment secondary (% net) | 53.44% | 51.58% | 55.36%
-
-Table 3: General school enrollment rates in 2005
 
 Source: EMIS, National Department of Statistics
 
@@ -504,7 +528,7 @@ a) Minority population. Currently there are 423 non-Georgian schools and non-Geo
 
 The  Ministry  of  Education  and  Science  through  cooperation  with  donor  agencies  has introduced  a  set  of  initiatives  in  order  to  ensure  individual  and  collective  right  of  members  of minorities to use their native language, preserve and express their cultural values on one hand, and on the other, to provide them with teaching state language. For this purpose in December, 2004 the MoES started its Civil Integration Program. It aims to solve the problem of teaching language, facilitate the process of social integration, and raise public-awareness through teaching the state language to all the citizens of Georgia, through the following activities.
 
--elaboration of new teaching programs and standards for learning the Georgian language and literature, as well as methodological recommendations, and organization of teacher training (financial support for teaching the Georgian language in non-Georgian schools of SamtskheJavakheti is provided by the OSCE High Commissioner on National Minorities. 4 programs have  been  implemented  through  cooperation  with  this  agency  during  two  years  (two  in Georgian  language  both  in  Samtskhe-Javakheti  and  Kvemo  Kartli  and  two  in  native Armenian and Azeri languages in each of the two regions respectively);
+-elaboration of new teaching programs and standards for learning the Georgian language and literature, as well as methodological recommendations, and organization of teacher training (financial support for teaching the Georgian language in non-Georgian schools of Samtskhe-Javakheti is provided by the OSCE High Commissioner on National Minorities. 4 programs have been implemented through cooperation with this agency during two years (two in Georgian language both in Samtskhe-Javakheti and Kvemo Kartli and two in native Armenian and Azeri languages in each of the two regions respectively);
 
 -creation of an appropriate learning environment, as well as an effective system of teaching and knowledge assessment, within the framework of secondary school reforms;
 
@@ -514,15 +538,17 @@ The  Ministry  of  Education  and  Science  through  cooperation  with  donor  a
 
 -encouragement of participation in the Unified National University Admission Examinations and  preparation  of  non-Georgian  applicants  for  the  exams  in  Georgian  language  and literature.
 
-In the medium-term perspective it is planned to proceed with implementing some of the activities  described  above  necessary  to  give  equal  opportunities  to  quality  education  for minorities. Particularly, preparatory courses for admission exams and state grants to cover tuition fees  at  HEIs  will  continue  to  be  offered  to  the  students  who  finish  non-Georgian  schools. However more attention will be drawn to designing and implementing long-impact and measures with sustainable results. Special general education curricula are being designed and introduced in non-Georgian schools and sectors of instructions. Special emphasis will be placed on developing capacity and strengthen human resource potential in the regions densely populated by minorities. To provide equal opportunities for access to quality education for national minorities special preservice  and  in-service  training  programs  will  be  developed  for  teachers  in  the  regions  densely populated by national minorities. In addition to this, incentive schemes for students enrolled in Initial  Teacher  Education  (ITE)  programs  and  teachers  will  increase  the  motivation  of  young people to apply to these programs and be committed to work in minority schools.
+In the medium-term perspective it is planned to proceed with implementing some of the activities described above necessary to give equal opportunities to quality education for minorities. Particularly, preparatory courses for admission exams and state grants to cover tuition fees at HEIs will continue to be offered to the students who finish non-Georgian schools. However more attention will be drawn to designing and implementing long-impact and measures with sustainable results. Special general education curricula are being designed and introduced in non-Georgian schools and sectors of instructions. Special emphasis will be placed on developing capacity and strengthen human resource potential in the regions densely populated by minorities. To provide equal opportunities for access to quality education for national minorities special pre-service and in-service training programs will be developed for teachers in the regions densely populated by national minorities. In addition to this, incentive schemes for students enrolled in Initial Teacher Education (ITE) programs and teachers will increase the motivation of young people to apply to these programs and be committed to work in minority schools.
 
-b) People living in high-mountainous areas. Another group potentially deprived of quality education  is  the  population  of  high-mountainous  regions  and  conflict  zones.  Currently  69,861 students  study  in  636  schools  located  in  such  regions.  In  order  to  ensure  adequate  quality  of education  in  these  schools,  they  are  entitled  to  receive  highest  amount  of  voucher  funding  per head. In addition, small schools can also receive extra funding per student. The plan is to further refine the per capita funding formula to reflect the individual needs of schools of all sizes.
+b) People living in high-mountainous areas. Another group potentially deprived of quality education is the population of high-mountainous regions and conflict zones. Currently 69,861 students study in 636 schools located in such regions. In order to ensure adequate quality of education in these schools, they are entitled to receive highest amount of voucher funding per
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
 
 16
+
+head. In addition, small schools can also receive extra funding per student. The plan is to further refine the per capita funding formula to reflect the individual needs of schools of all sizes.
 
 Due to the lack of qualified teaching staff in high-mountainous regions it is important to introduce an appropriate system of incentives at university teacher education programs to attract young and motivated professionals to such regions.
 
@@ -546,7 +572,7 @@ The  newly  established  National  Curriculum  and  Assessment  Center  develops
 
 17
 
-Professional development of teachers is high on the agenda in the education sector action plan.    Important  measures  that  have  already  been  introduced  include  the  establishment  of  the Teacher  Professional  Development  Center,  preparation  of  a  Concept  paper  on  Teacher's Professional  Development  and  Preparation  and  introduction  of  amendments  to  the  Law  of Georgia on General Education  laying legal basis for regulating the teacher's  profession.    The Teachers' Professional Development  Center  aims  to develop standards and qualification requirements for teachers, to conduct a process of accreditation of teacher training and retraining programs and to introduce a system of teacher certification by 2008. Currently, after many years of paying predominant attention to in-service training, reform of pre-career training is regarded as the  greater  challenge  and  area  where  further  investments  and  improvements  are  needed:  preservice teacher training programs at higher education institutions are obsolete, overloaded with theoretical issues and lacking exercises for the development of teaching skills. Therefore Initial Teacher Education (ITE) programs will be designed and introduced at Georgian universities, in the capital, as well as in regions.
+Professional development of teachers is high on the agenda in the education sector action plan. Important measures that have already been introduced include the establishment of the Teacher Professional Development Center, preparation of a Concept paper on Teacher's Professional Development and Preparation and introduction of amendments to the Law of Georgia on General Education laying legal basis for regulating the teacher's profession. The Teachers' Professional Development Center aims to develop standards and qualification requirements for teachers, to conduct a process of accreditation of teacher training and retraining programs and to introduce a system of teacher certification by 2008. Currently, after many years of paying predominant attention to in-service training, reform of pre-career training is regarded as the greater challenge and area where further investments and improvements are needed: pre-service teacher training programs at higher education institutions are obsolete, overloaded with theoretical issues and lacking exercises for the development of teaching skills. Therefore Initial Teacher Education (ITE) programs will be designed and introduced at Georgian universities, in the capital, as well as in regions.
 
 Crucial factor for ensuring high quality in teaching at schools is low teacher salaries thus reducing  their  incentives.  General  schools  are  now  autonomous  entities.  This  means  schools themselves  bear  responsibility  for  establishing  teacher  salary  rates  given  that  they  observe minimal  rate  recommended  by  the  MoES.  This  system  automatically  implies  that  the  rise  of salaries will depend 1) on the amount of per capita funding available for each school and 2) on the  decision  of  school  board  and  management.  As  annual  increase  of  per  capita  funding  is planned, it is expected that at current teacher salaries will increase (by 72% in 2011) thus making it possible to make teacher's profession more attractive. In addition results of teacher examination and  certification  process  will  help  offer  better  compensation  to  those  teachers  who  are  better qualified and accordingly raise motivation of teachers.
 
@@ -632,19 +658,21 @@ A major recent development in vocational education recently has been the elabora
 
 -to support the competitiveness of workforce through retraining and qualification improvement programs;
 
--to  support  adaptation  to  new  socio-economic  conditions  through  private  business  and  selfemployment initiatives.
+-to support adaptation to new socio-economic conditions through private business and self-employment initiatives.
 
 Vocational  education  will  acquire  a  special  role  for  development  of  Georgia's  regions. The potential  medium-term benefits of establishing vocational training centers will include the reduction of the intensity of migration and support of the economic development of regions. This will be done through the identification of specific economic development priorities, local business perspectives and employment opportunities within each region in the process of planning.
 
 The recently adopted Law of Georgia on Vocational Education sets out the institutional and organizational framework that will help achieve these goals. The new system will consist of initial vocational and professional higher education. Initial vocational education will be offered by  vocational  training  centers,  while  accredited  HEIs  will  be  offering  professional  higher education to be regulated by the Law of Georgia on Higher Education. A network of community colleges will also be established in the regions on the basis of existing institutes and colleges.
 
-One  of  the  most  efficient  ways  of  improving  the  governance  of  vocational  training centers as well as labor market outcomes is fostering cooperation and partnership with the private sector and the government stakeholders.  The National Professional Agency, responsible for the elaboration and approval of the list of professional qualifications and professional standards, will be composed of the representatives of ministries, professional associations, employers' associations and vocational schools and colleges. Educational-entrepreneurial partnerships will be strengthened  through  the  establishment  of  professional  councils,  composed  of  employers, professional associations and line ministries.
+One of the most efficient ways of improving the governance of vocational training centers as well as labor market outcomes is fostering cooperation and partnership with the private sector and the government stakeholders. The National Professional Agency, responsible for the elaboration and approval of the list of professional qualifications and professional standards, will be composed of the representatives of ministries, professional associations, employers' associations and vocational schools and colleges. Educational-entrepreneurial partnerships will be
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
 
 20
+
+strengthened through the establishment of professional councils, composed of employers, professional associations and line ministries.
 
 Each vocational training center will be governed by a supervisory board, consisting of the representatives of employers and local self-government units, as well as teachers and parents. In order to ensure efficient funding of vocational education, voucher funding - the money follows the  student  approach  -  will  be  introduced:    instead  of  allocating  lump  sums  to  individual institutions,  funding  will  be  provided  on  a  per  capita  basis.  The  size  of  the  voucher  will  vary according to specializations and will reflect program-specific requirements.
 
@@ -740,6 +768,8 @@ Source: NAEC
 
 As a result, a higher proportion of entrants was entitled to receive some funding from the state compared with the previous year (Table 4):
 
+Table 4: Applications, enrollment and scholarships, HEIs, 2005 and 2006
+
 Year of examination | 2005 | 2006
 --- | --- | ---
 Applicants | 31171 | 32791
@@ -747,8 +777,6 @@ Enrolled | 16507 | 19479
 Scholarship recipients | 4198 | 8271
 % of applicants who were admitted | 53 | 59
 % of the enrolled who received scholarships | 25 | 42
-
-Table 4: Applications, enrollment and scholarships, HEIs, 2005 and 2006
 
 Source: NAEC
 
@@ -760,7 +788,7 @@ Alongside with policy reform quality issues are of utmost importance. The goal i
 
 #### v. Lifelong learning and non-formal education
 
-The changes introduced into the system of education of Georgia ensure the operation of two  fundamental  principles  of  contemporary  education  -  continuous  education  and  lifelong learning (LLL): each citizen of Georgia will have the opportunity to proceed to his/her academic or professional career from any level of education. Provision of education will not be restricted by such factors  as  previous  education,  age,  ethnic  origin  or  sex.  It  is  crucial  that  citizens  have  an opportunity  continuously  to  renew  their  knowledge,  skills  and  competencies.  However,  there must  be  efficient  communication  and  cooperation  mechanisms  in  place  between  providers  at different levels of education.
+The changes introduced into the system of education of Georgia ensure the operation of two fundamental principles of contemporary education - continuous education and lifelong learning (LLL): each citizen of Georgia will have the opportunity to proceed to his/her academic or professional career from any level of education. Provision of education will not be restricted by such factors as previous education, age, ethnic origin or sex. It is crucial that citizens have an
 
 [[END OF PAGE 23]]
 
@@ -768,13 +796,15 @@ The changes introduced into the system of education of Georgia ensure the operat
 
 24
 
+opportunity continuously to renew their knowledge, skills and competencies. However, there must be efficient communication and cooperation mechanisms in place between providers at different levels of education.
+
 It is essential that the citizens of the country have an opportunity to update and upgrade their knowledge and skills on regular basis. Currently there are no accurate data available for the rate of non-formal or adult training and education. However it may be assumed that there are not enough  opportunities  for  retraining  and  qualification  improvement  for  adults  to  meet  new requirements emerging on the labor markets. Therefore there is the need to develop a coherent and efficient approach for supporting life-long and non-formal education in the country.
 
 Planning of life-long learning in Georgia will be consistent with the  European Neighborhood Action Plan - the tool to carry out European Neighborhood Policy (ENP) of the European Union to which Georgia became a party in 2004. Support to life-long learning is one of the priorities of ENP.
 
 Development of the national strategy and action plan for LLL is currently under way. An important part of these activities  will  be  the  elaboration  of  National  Qualifications  Framework allowing translation of qualifications across different levels and forms of education not only in the country but abroad as well.
 
-At the current very initial stage several measures have already been taken to support both adult learning and non-formal educational. The recently adopted Law of Georgia on Vocational Education contains provisions stipulating the recognition of qualifications received through nonformal  education.  This,  in  its  turn  will  encourage  those  who  are  not  officially  enrolled  in educational institutions at any level regularly improve and update their knowledge and skills.
+At the current very initial stage several measures have already been taken to support both adult learning and non-formal educational. The recently adopted Law of Georgia on Vocational Education contains provisions stipulating the recognition of qualifications received through non-formal education. This, in its turn will encourage those who are not officially enrolled in educational institutions at any level regularly improve and update their knowledge and skills.
 
 Adult  training  has  been  receiving  significant  consideration  and  support  both  from  the government as well as from donor agencies. Specifically several initiatives were launched for the education of minority population. A school of public administration established in 2005 provides training  programs  for  minority  population  and  trains  about  450  public  officials  annually.  The program  helps  not  only  capacity  development  among  government  officials  but  fosters  civic integration of minorities.
 
@@ -782,7 +812,7 @@ Adult training centers are established in Samtskhe-Javakheti - the region popula
 
 #### vi. Inclusive education and children with special needs
 
-The children with special needs have been receiving considerable attention from policymakers at national  level.  In  line  with  global  trends  for  ensuring  equal  access  of  all  citizens  to education  notwithstanding  their  capacities  and  background,  the  trend  of  providing  special institutional settings for children with special needs has been shifting towards their deinstitutionalization and their gradual integration into society. In accordance with the national goals of Georgia for education and EFA goals educational system of the country shall offer each citizen equal opportunity to receive full benefits of education at all levels and shall be adjusted to meet individual needs.
+The children with special needs have been receiving considerable attention from policy-makers at national level. In line with global trends for ensuring equal access of all citizens to education notwithstanding their capacities and background, the trend of providing special institutional settings for children with special needs has been shifting towards their deinstitutionalization and their gradual integration into society. In accordance with the national goals of Georgia for education and EFA goals educational system of the country shall offer each citizen equal opportunity to receive full benefits of education at all levels and shall be adjusted to meet individual needs.
 
 [[END OF PAGE 24]]
 
@@ -840,7 +870,7 @@ The  table below  shows  the  dynamics  of  deinstitutionalization resulting  fr
 
 Dynamics of deinstitutionalization
 
-2003 2004 | 2005 | 2006 | Total
+| 2003 | 2004 | 2005 | 2006 | Total
 --- | --- | --- | --- | --- | ---
 Reintegration | 66 | 44 | 54 | 342 | 506
 Prevention | 86 | 84 | 124 | 383 | 677
@@ -857,13 +887,15 @@ However the  idea  of  inclusive  education  will  not  be  restricted  to  scho
 
 Introduction  of  inclusive  education  at  general  schools  should  be  carried  out  by  joint efforts of officials, teachers, non-teachers, and most importantly students and parents. That is why raising public awareness on the principles and importance of inclusive education is essential.
 
-Although the idea of inclusive education in principle means the inclusion of all disabled children in the general education process, it does not consider placing all children with disabilities in general education schools. In some cases children will have to be placed in special institutions (sometimes  as  a  necessary  temporary  measure).  Therefore  rehabilitation  and  equipment  of existing special educational  institutions will be  high  on  agenda  (particularly  so  that  the introduction of inclusive education is in its very initial phase). There is the need to rehabilitate infrastructure,  readjust  teaching  methods  and  curricula  in  accordance  with  latest  standards  and best international practices and update learning material, train/retrain teachers in such institutions in accordance with updated standards. To facilitate access free transportation will be available for the children to special schools.
+Although the idea of inclusive education in principle means the inclusion of all disabled children in the general education process, it does not consider placing all children with disabilities in general education schools. In some cases children will have to be placed in special institutions (sometimes as a necessary temporary measure). Therefore rehabilitation and equipment of existing special educational institutions will be high on agenda (particularly so that the introduction of inclusive education is in its very initial phase). There is the need to rehabilitate
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
 
 27
+
+infrastructure, readjust teaching methods and curricula in accordance with latest standards and best international practices and update learning material, train/retrain teachers in such institutions in accordance with updated standards. To facilitate access free transportation will be available for the children to special schools.
 
 [[END OF PAGE 27]]
 
@@ -909,7 +941,7 @@ Source: MoES budget, Government of Georgia, Basic Data and Directions, 2008-2011
 
 The  diagrams  given  below  display  the  major  activities  funded  by  the  MoES  budget  in  the medium-term projection 11 .
 
-- Funding  of  general  secondary  schools  (primary,  lower  secondary  and  upper  secondary  levels) through per capita  (voucher)  system.  The  system  was  first  introduced  in  2006  when  GEL  180 million was spent on it. This amount will increase to GEL 430 million by 2011 based on MTEF projections.
+a. Funding of general secondary schools (primary, lower secondary and upper secondary levels) through per capita (voucher) system. The system was first introduced in 2006 when GEL 180 million was spent on it. This amount will increase to GEL 430 million by 2011 based on MTEF projections.
 
 > 10 Figures from 2003 to 2006 are actual figures. Figures for 2007 are approved in 2007 budget and for 2008 onwards are MTEF projections. No estimates available for 2007-2010 for expenditure other than MoES budget, it is assumed that the ratio of MoES budget to consolidated public expenditure on education will remain unchanged throughout the future period.
 
@@ -957,9 +989,7 @@ Per Capita Funding for General Schools (million GEL)
 
 2011
 
-- Childcare  Program.  This  program  covers  children's  deinstitutionalization  and  prevention  of abandonment, designing and introducing alternative forms of childcare, supporting schools for the children wit special needs.
-
-- Rehabilitation  of  public  school  buildings.  Within  the  Presidential  program  for  public  school building  rehabilitation  -  Iakob  Gogebashvili  -  all  public  schools  will  be  fully  or  partially rehabilitated.  The  total  of  about  GEL  500  million  will  be  spent  for  this  program.  After  the completion of the program the Government of Georgia is committed not to withdraw this portion of  funding  from  education  sector  thus  making  it  possible  to  switch  the  funds  to  use  for  other purposes, such as increasing remuneration for teachers, improving learning and teaching contents.
+b. Childcare Program. This program covers children's deinstitutionalization and prevention of abandonment, designing and introducing alternative forms of childcare, supporting schools for the children wit special needs.
 
 Childcare Program (million GEL)
 
@@ -992,6 +1022,8 @@ Childcare Program (million GEL)
 2010
 
 2011
+
+c. Rehabilitation of public school buildings. Within the Presidential program for public school building rehabilitation - Iakob Gogebashvili - all public schools will be fully or partially rehabilitated. The total of about GEL 500 million will be spent for this program. After the completion of the program the Government of Georgia is committed not to withdraw this portion of funding from education sector thus making it possible to switch the funds to use for other purposes, such as increasing remuneration for teachers, improving learning and teaching contents.
 
 [[END OF PAGE 29]]
 
@@ -1031,9 +1063,7 @@ Public School Building Rehabilitation (million GEL)
 
 2011
 
-- Providing support to higher education/research institutions. This includes: direct distribution of state grants to students to cover tuition fees at universities, infrastructure development for HEIs, support in curriculum and textbook development.
-
-- Support  to  vocational  education.  This  component  includes  current  expenditure  on  vocational education as  well  as  funds  allocated  for  rehabilitation  of  initial  vocational  training  centers  and community colleges.
+d. Providing support to higher education/research institutions. This includes: direct distribution of state grants to students to cover tuition fees at universities, infrastructure development for HEIs, support in curriculum and textbook development.
 
 Support to HE and research institutions (million GEL)
 
@@ -1070,6 +1100,8 @@ Support to HE and research institutions (million GEL)
 2010
 
 2011
+
+e. Support to vocational education. This component includes current expenditure on vocational education as well as funds allocated for rehabilitation of initial vocational training centers and community colleges.
 
 [[END OF PAGE 30]]
 
@@ -1117,14 +1149,14 @@ Vocational Education Support Program (million GEL)
 
 The following matrix contains the activities planned to be designed and implemented for various levels of education within the medium-term framework. The initiatives that are already in place and implemented on regular basis are not contained here. Cost estimations given in the matrix are based on the Budget Law of Georgia of 2007 and Medium Term Expenditure Framework - the Government spending framework which contains ceilings for the expenditures of government agencies over four-year period.
 
-Objective | Activities | Indicators/ outcomes | Timefra me | Estimated cost ('000 GEL) | Already funded MTEF ('000 GEL) 12 | Un- covered funding gap ('000 GEL)
+Objective | Activities | Indicators/ outcomes | Timeframe | Estimated cost ('000 GEL) | Already funded in MTEF ('000 GEL)12 | Uncovered funding gap ('000 GEL)
 --- | --- | --- | --- | --- | --- | ---
 #### 1. Early Childhood Development and Pre-Primary Education
 To improve readiness of children aged 3 to 7 for primary education through providing equal access for all to quality pre-school education | Conduct a systemic analysis of pre-school education consisting of household, institutions and children readiness studies | Accurate quantitative data on pre-school education is available (number of institutions, number of children, enrollment rates, geographical distribution, etc.) | 2007 | 121 | 0 | 121
 Needs of parents, institutions and children are identified
 Barriers to access to pre-school education for various social groups are identified
 Teaching and school preparation practices in institutions as well as in families are studied
-Develop national concept on pre- primary education; elaborate a comprehensive, efficient and sustainable model for pre-school education | The mechanism for organization and management of pre-school education is devised | 2007 | 107 | 0 | 107
+Develop national concept on pre-primary education; elaborate a comprehensive, efficient and sustainable model for pre-school education | The mechanism for organization and management of pre-school education is devised | 2007 | 107 | 0 | 107
 Governance and funding schemes for pre- school education are elaborated
 Rights and responsibilities of local and central governments in managing pre- school education are clearly defined and delineated
 
@@ -1148,7 +1180,7 @@ Development standards are developed, such as: age-specific skills, school readin
 Increase the participation of the children of relevant age-group in pre-school education | Design diversified forms of education for pre-school age kids | Alternative pre-school education programs (daycare centers, pre-primary classes at general schools, parent education programs) designed | 2008-2009 | 500 | 0 | 500
 Introduce the subsidization of pre-school education component for the needy children as a pilot initiative | Costs of educational component in allocations for ECD are covered by the MoES for the needy children all over the country | 2008-2009 | 2,000 | 0 | 2,000
 Create electronic databasis for pre-schoold education practices | Data available on the enrollments in all forms of pre-school education by disaggregated by age and sex | 2008-2009 | 150 | 0 | 150
-Improve quality of pre-school education | Develop and introduce pre- school teacher training programs (2008-2009) | In-service training programs for pre-school teachers introduced based on teacher qualification standards and educational | 2008-09 | 725 | 0 | 725
+Improve quality of pre-school education | Develop and introduce pre-school teacher training programs (2008-2009) | In-service training programs for pre-school teachers introduced based on teacher qualification standards and educational | 2008-09 | 725 | 0 | 725
 
 [[END OF PAGE 33]]
 
@@ -1162,13 +1194,12 @@ Initial Teacher Education programs developed and introduced in 5 universities th
 Curriculum developed for pre-school education with indicators of achievement and assessment tools
 Develop and distribute learning material for pre-school age kids from socially vulnerable families | Learning material (books, toys, etc.) developed and available for about 50% of all pre-schools age children through various | 2008-09 | 1,000 | 0 | 1,000
 means
-Totals for Early Childhood Development | and Pre-Primary Education | 5103 | 5103
-#### 2. General Education (I-XII
-To finalize reform of education governance and achieve sustainable in terms of efficiency transparency | grades)
-general system results and | Establish and reinforce self- management bodies at all general schools throughout the country Build the capacity of elected | All schools have elected school boards/principals. Second round of school board elections has been run | 2007-11 | 980 | 980 | 0
-school directors and administrators on autonomous school governance and financial | School census data are accurate and provided on a regular basis | 2007-09 | 1,200 | 0 | 1,200
+Totals for Early Childhood Development and Pre-Primary Education | 5103 | 0 | 5103
+#### 2. General Education (I-XII grades)
+To finalize reform of general education governance system and achieve sustainable results in terms of efficiency and transparency | Establish and reinforce self-management bodies at all general schools throughout the country | All schools have elected school boards/principals. Second round of school board elections has been run | 2007-11 | 980 | 980 | 0
+Build the capacity of elected school directors and administrators on autonomous school governance and financial accountability issues through intensive training sessions: completing school census forms, finance and accounting, etc. | School census data are accurate and provided on a regular basis | 2007-09 | 1,200 | 0 | 1,200
 At least 80% of schools are using modern accounting instruments using ICT | 2007-10
-accountability issues through intensive training sessions: | Financial data is regularly published and available on school level | 2007
+Financial data is regularly published and available on school level | 2007
 Increase the awareness of school boards of trustees on the principles and efficiency of autonomous governance | School maintenance manual is published and used by all schools | 2007-08 | 115 | 23* | 92
 Regular decrease in inquiries concerning school management issues at the central level | 2007-11
 Further improve per capita funding formula | Per capita funding formula including all valid variables is in place | 2007 | 55 | 55* | 0
@@ -1246,7 +1277,7 @@ To establish an appropriate legislative and institutional framework for vocation
 Re-establish and introduce new licensing system for existing | Relevant changes introduced in legislation, new licensing system is in place | 2007-09
 vocational education institutions | All existing vocational education institutions meet new licensing criteria
 Create national agencies | National Professional Agency is established | 2007 | 700 | 0 | 700
-regulating vocational education, strengthen educational- entrepreneurial partnerships | Professional councils composed of employers, professional associations, representatives of line ministries are | 2007-09 | N/A
+regulating vocational education, strengthen educational-entrepreneurial partnerships | Professional councils composed of employers, professional associations, representatives of line ministries are | 2007-09 | N/A
 
 [[END OF PAGE 37]]
 
@@ -1282,7 +1313,7 @@ placement on labor market
 --- | --- | --- | --- | --- | --- | ---
 Carry out accreditation of vocational education institutions | Standards for vocational education institutions are developed | 2008-09 | 25 | 0 | 25
 All vocational education institutions go through accreditation procedure
-Totals for vocational education | 80,512 | 8,362
+Totals for vocational education | 80,512 | 72,150 | 8,362
 #### 4. Higher Education
 To ensure efficiency of governance and organization of Higher Education Institutions (HEI) in accordance with the principles of Bologna Process | Establish HE degree system that is comparable to international systems and recognized internationally | ECTS credits are allocated in all first and second cycle programs, enabling credit transfer and accumulation | 2008 | N/A
 Academic partnerships are established with European universities | 2007-2011 | N/A
@@ -1336,8 +1367,8 @@ Career planning services are available at universities | 2008-09 | 205 | 0 | 205
 Universities have detailed information on the programs provided and qualifications awarded displayed and regularly updated on their webpages | 2008-09 | N/A
 Totals for higher education | 23263 | 17160 | 6103
 #### 6. Non-formal Education and Lifelong Learning
-To establish a legal and structural framework for non- formal education and LLL | Develop a national concept and strategy for life-long learning | A concept paper on life-long learning and a detailed strategy and plan of action is available | 2007-2008 | 30 | 0 | 30
-There are procedures/national guidelines or policy for assessment of prior learning as a basis for 1) access to higher education programs, and 2) allocation of credit s | 2007-2008
+To establish a legal and structural framework for non-formal education and LLL | Develop a national concept and strategy for life-long learning | A concept paper on life-long learning and a detailed strategy and plan of action is available | 2007-2008 | 30 | 0 | 30
+There are procedures/national guidelines or policy for assessment of prior learning as a basis for 1) access to higher education programs, and 2) allocation of credits | 2007-2008
 
 [[END OF PAGE 41]]
 
@@ -1349,17 +1380,17 @@ towards a qualification and/or exemption from some program requirements
 --- | --- | --- | --- | --- | --- | ---
 Develop a National Qualification Framework | National qualification framework for LLL and EHEA established as a comprehensive reference of transparent qualifications | 2007-2008 | 120 | 0 | 120
 Translation of qualifications across different levels and forms of education is feasible
-NQF is self-certified and compared to overarching framework of qualifications in
+NQF is self-certified and compared to overarching framework of qualifications in Europe
 To provide increased opportunities for non-formal education and lifelong learning | Establish career planning and counseling services in educational institutions to | A model of career planning and counseling is piloted | 2007-2008 | 350 | 0 | 350
 help students define future academic or professional career | Career planning and counseling units established at all vocational education schools and general schools
 Informative newsletters and bulletins published by HEIs and Centers | 2007-2011
-Set up a network of centers for non-formal education and life- long learning | Adult training centers established in Kutaisi and Marneuli | 2008-2009 | 1,150 | 0 | 1,150
+Set up a network of centers for non-formal education and life-long learning | Adult training centers established in Kutaisi and Marneuli | 2008-2009 | 1,150 | 0 | 1,150
 Develop special programs for civil servants from minority regions | Up to 450 pubic servants retrained every year | 2007-11 | 3,500 | 3,500 | 0
 Introduce distant learning initiative | Distance learning programs is piloted in one of Tbilisi universities | 2007-08
 Totals for vocational education | 5150 | 3500 | 1650
 #### 7. Inclusive Education and Children with Special Needs
-To adjust the educational system of the country to meet individual needs of all citizens | Establish appropriate legal and structural framework for | Concept paper on inclusive education developed | 2007-2008 | 30 | 0 | 30
-its | inclusive education | Inclusive education strategy is in place
+To adjust the educational system of the country to meet individual needs of all its citizens | Establish appropriate legal and structural framework for inclusive education | Concept paper on inclusive education developed | 2007-2008 | 30 | 0 | 30
+Inclusive education strategy is in place
 Viable funding mechanisms for educating children with special needs developed for each level of education | 33 | 0 | 33
 Develop educational and development standards, norms and methods for the children with special needs | 34 | 0 | 34
 
@@ -1373,8 +1404,8 @@ Raise public awareness on inclusive education | School administrators and princi
 --- | --- | --- | --- | --- | --- | ---
 Parents and family of children with special needs are fully aware of the benefits of inclusive education and all the opportunities offered by the government or NGOs for such children | 2007-2008
 Citizens with special needs are provided with the information on the opportunities of life-long learning (distance-learning programs, etc.) | 2007-2009
-To improve access of citizens with special needs to education at all levels | Educational institutions at all levels are prepared for admitting students with special needs | Physical infrastructure of rehabilitated schools is adapted to the needs of SNC | 2007-2010 | Covered School Rehabilitation Program | by
-Training programs designed for people with special needs are introduced in selected specializations at vocational training centers | 2007-2011 | Covered vocational trtaining program | by
+To improve access of citizens with special needs to education at all levels | Educational institutions at all levels are prepared for admitting students with special needs | Physical infrastructure of rehabilitated schools is adapted to the needs of SNC | 2007-2010 | Covered by School Rehabilitation Program
+Training programs designed for people with special needs are introduced in selected specializations at vocational training centers | 2007-2011 | Covered by vocational trtaining program
 Transportation provided for special needs children who have difficulties in access. 12 new adapted buses are operating | 2007-08 | 615.6 | 0 | 615.6
 Create support services for children with special needs and their families | Child & Family Services (C&FS) (Family outreach resource-center and counselling, Integrated Centers for Learning disabilities, Autism, Educational Psychology, Physical Disabilities, etc.) are piloted in two major cities, Tbilisi and Batumi | 2008-2009 | 2,500 | 0 | 2,500
 Introduce Community Action | Community Action project introduced and piloted in 2 cities, Tbilisi and Kutaisi. Over 500 students are involved | 2008-2009 | 256.5 | 0 | 256.5
@@ -1408,38 +1439,38 @@ Totals for Education Sector Action Plan | 655258.5 | 598354 | 56904.5
 
 The  resource  envelope  for  the  action  plan  for  the  education  sector  is  provided  by  the Medium Term Expenditure Framework (MTEF) for 2007-2011, expanded to include estimated expenditures by local governments.  The resulting projections of macro-economic indicators and the consolidated education budget are shown in Table 5.  A 94 per cent increase in nominal GDP is  assumed between 2006 and 2011, with little change in the share of consolidated government expenditure and a slight increase in that of consolidated public expenditure on education in GDP.
 
-2005 | 2006 | 2007 | 2008 | 2009 | 2010
---- | --- | --- | --- | --- | --- | --- | ---
-1. | Nominal GDP (million GEL) | 11621 | 13784 | 16527 | 18878 | 21219 | 23852
-2. | Average annual inflation (%) | 7.9% | 8.4% | 9.0% | 6.3% | 5.0% | 5.1%
-3. | Real GDP growth (%) | 9.6% | 9.4% | 10.0% | 7.5% | 7.0% | 7.0%
-4. | Consolidated government expenditure (million GEL) | 2904 | 3953 | 4994 | 5564 | 6366 | 7156
-5. | Consolidated government expenditure as % of GDP | 25.0% | 28.7% | 30.2% | 29.5% | 30.0% | 30.0%
-6. | MoES expenditure as % of GDP | 0.7% | 2.5% | 2.3% | 2.4% | 2.3% | 2.5%
-7. | MoES expenditure as % of consolidated govt exp | 2.8% | 8.8% | 7.7% | 8.1% | 7.8% | 8.2%
-8. | Total MoES budget (million GEL) | 80.9 | 348.4 | 382.2 | 452.9 | 498.2 | 589.9
-9. | Total consolidated public expenditure on education (million GEL) | 288.7 | 439.1 | 480 | 569 | 626 | 741
-10. | Consolidated pub exp on ed as % of GDP | 2.5% | 3.2% | 2.9% | 3.0% | 2.9% | 3.1%
+Table 5: Projections of macro-economic indicators and consolidated education budget, 2006-2010
 
-Table  5:    Projections  of  macro-economic  indicators  and  consolidated  education  budget, 2006-2010
+ | 2005 | 2006 | 2007 | 2008 | 2009 | 2010
+--- | --- | --- | --- | --- | --- | ---
+1. Nominal GDP (million GEL) | 11621 | 13784 | 16527 | 18878 | 21219 | 23852
+2. Average annual inflation (%) | 7.9% | 8.4% | 9.0% | 6.3% | 5.0% | 5.1%
+3. Real GDP growth (%) | 9.6% | 9.4% | 10.0% | 7.5% | 7.0% | 7.0%
+4. Consolidated government expenditure (million GEL) | 2904 | 3953 | 4994 | 5564 | 6366 | 7156
+5. Consolidated government expenditure as % of GDP | 25.0% | 28.7% | 30.2% | 29.5% | 30.0% | 30.0%
+6. MoES expenditure as % of GDP | 0.7% | 2.5% | 2.3% | 2.4% | 2.3% | 2.5%
+7. MoES expenditure as % of consolidated govt exp | 2.8% | 8.8% | 7.7% | 8.1% | 7.8% | 8.2%
+8. Total MoES budget (million GEL) | 80.9 | 348.4 | 382.2 | 452.9 | 498.2 | 589.9
+9. Total consolidated public expenditure on education (million GEL) | 288.7 | 439.1 | 480 | 569 | 626 | 741
+10. Consolidated pub exp on ed as % of GDP | 2.5% | 3.2% | 2.9% | 3.0% | 2.9% | 3.1%
 
-Source and Note:  Lines 1-8 are from the MTEF (Government of Georgia 2007).  Lines 9 and 10 are estimated on the assumption that the ratio of consolidated education expenditure to the MoES budget remains unchanged throughout the period.
+Source and Note: Lines 1-8 are from the MTEF (Government of Georgia 2007). Lines 9 and 10 are estimated on the assumption that the ratio of consolidated education expenditure to the MoES budget remains unchanged throughout the period.
 
 As Table 6 shows, many of the activities included in the plan are already covered by the budget projected in Table 5 above, but some are as yet unfunded.  The overall funding gap, at 56.905 million GEL, is equivalent to US$33.5 million and to 3 per cent of the MoES budget for education as projected in the MTEF over the period 2007-2011.
 
-Level | Estimated cost | Already in MTEF | Funding gap
---- | --- | --- | --- | ---
-1. | Early childhood development and pre-primary education | 5103 | 0 | 5103
-2. | General education | 529620.8 | 505544 | 24076.8
-3. | Vocational education | 80,512 | 72,150 | 8,362
-4. | Higher education | 23263 | 17160 | 6103
-5. | Non-formal education and lifelong learning | 5150 | 3500 | 1650
-6. | Inclusive education and children with special needs | 11609.7 | 0 | 11609.7
-7. | TOTAL | 655258.5 | 598354 | 56904.5
-
 Table 6: Estimated cost of planned activities, extent of coverage by projected budget and funding gap, 2007-2011 ('000 GEL)
 
-Source:  Matrix (above).
+Level | Estimated cost | Already in MTEF | Funding gap
+--- | --- | --- | ---
+1. Early childhood development and pre-primary education | 5103 | 0 | 5103
+2. General education | 529620.8 | 505544 | 24076.8
+3. Vocational education | 80,512 | 72,150 | 8,362
+4. Higher education | 23263 | 17160 | 6103
+5. Non-formal education and lifelong learning | 5150 | 3500 | 1650
+6. Inclusive education and children with special needs | 11609.7 | 0 | 11609.7
+7. TOTAL | 655258.5 | 598354 | 56904.5
+
+Source: Matrix (above).
 
 Three  scenarios  are  developed  in  this  plan  for  the  sub-sectors  of  education  (early childhood  development/  pre-primary  education  and  general  education)  that  are  particularly relevant to Education for All 13 -- the current-resource, middle and high scenarios.
 
@@ -1453,7 +1484,9 @@ Three  scenarios  are  developed  in  this  plan  for  the  sub-sectors  of  edu
 
 The  current-resource  scenario  assumes  that  no  resources  are  available  beyond  what  is already in the expanded MTEF (Table 5 above).  The middle scenario assumes that only part of the extra gap-filling funding (60 per cent) is available, allowing only partial fulfillment of plan targets,  while  the  high  scenario  assumes  that  100  per  cent  of  the  extra  funding  is  available, allowing plan targets to be fully achieved.
 
-Table 7 shows the current-resource scenario for early  childhood  development  and  preprimary education.  An 80 per cent increase in public expenditure at this level between 2006 and 2011, combined with an increase in the student/ teacher ratio, allows a 126 per cent rise in nonpersonnel  current  expenditure,  which  will  help  to  finance  some  of  the  quality-increasing components of the plan.  However, this outcome depends on keeping the enrollment rate at its current level.
+Table 7 shows the current-resource scenario for early childhood development and pre-primary education. An 80 per cent increase in public expenditure at this level between 2006 and 2011, combined with an increase in the student/ teacher ratio, allows a 126 per cent rise in non-personnel current expenditure, which will help to finance some of the quality-increasing components of the plan. However, this outcome depends on keeping the enrollment rate at its current level.
+
+Table 7: Current-resource scenario for early childhood development and pre-primary education
 
 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | Change between 2006 & 2011
 --- | --- | --- | --- | --- | --- | --- | ---
@@ -1473,9 +1506,7 @@ Non-personnel current expenditure per student (GEL) | 243 | 279 | 354 | 387 | 48
 Public expenditure per student (GEL) | 538 | 599 | 698 | 751 | 869 | 928 | +73%
 Capital expenditure per institution (GEL) | 860 | 940 | 1114 | 1226 | 1452 | 1550 | +80%
 
-Table  7:  Current-resource  scenario  for  early  childhood  development  and  pre-primary education
-
-Notes:  Since pre-schools are not included in the MTEF, the assumption underlying this table is that they will account for the same proportion of public consolidated expenditure as in 2005.  Enrollment rate is expressed as a percentage of 3-5 year olds, to ensure comparability with international sources (see Section 6 below).  Average personnel expenditure per teacher is total personnel expenditure divided by the number of teachers (the number of non-teaching staff at this level is unknown) - it is assumed to increase at the same rate as in 2000-2004.
+Notes: Since pre-schools are not included in the MTEF, the assumption underlying this table is that they will account for the same proportion of public consolidated expenditure as in 2005. Enrollment rate is expressed as a percentage of 3-5 year olds, to ensure comparability with international sources (see Section 6 below). Average personnel expenditure per teacher is total personnel expenditure divided by the number of teachers (the number of non-teaching staff at this level is unknown) - it is assumed to increase at the same rate as in 2000-2004.
 
 Table  8  shows  the  current-resource  scenario  for  general  education.    A  94  per  cent increase in public expenditure at this level between 2006 and 2011, combined with an increase in the  student/  teacher  ratio,  allows  a  huge  increase  in  non-personnel  current  expenditure.    This would help to finance some of the quality-increasing components of the plan, and there should be some resources left  over  to  fund  another  crucial  prerequisite  of  improvement  in  the  quality  of general education - a further increase in teachers' salaries towards an adequate and competitive level.  It should be noted, however, that this scenario assumes no increase in the enrollment rate.
 
@@ -1484,6 +1515,8 @@ Table  8  shows  the  current-resource  scenario  for  general  education.    A 
 [[START OF PAGE 47]]
 
 47
+
+Table 8: Current-resource scenario for general education
 
 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | Change between 2006 & 2011
 --- | --- | --- | --- | --- | --- | --- | ---
@@ -1505,11 +1538,11 @@ Non-personnel current expenditure per student (GEL) | 29 | 65 | 101 | 167 | 291 
 Public expenditure per student (GEL) | 420 | 470 | 643 | 697 | 808 | 971 | +131%
 Capital expenditure per institution (GEL) | 29982 | 50582 | 96448 | 84328 | 73357 | 45776 | +53%
 
-Table 8: Current-resource scenario for general education
-
-Notes:  Public  expenditure  on  general  schools  consists  of  the  MTEF  allocation  and  their  share  of  the  President's rehabilitation program.
+Notes: Public expenditure on general schools consists of the MTEF allocation and their share of the President's rehabilitation program.
 
 Table  9  shows  the  medium  scenario  for  early  childhood  and  pre-primary  education, which assumes that 60 per cent of the funding needed to fill the gap in the action plan will be available.  An increase in the enrollment rate is also targeted.  This boosts personnel expenses and squeezes the funding available for non-personnel current expenditure.  However, implementation of 60 per cent of the activities envisaged in the action plan matrix should still be possible.
+
+Table 9: Medium scenario for early childhood development and pre-primary education
 
 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | Change between 2006 & 2011
 --- | --- | --- | --- | --- | --- | --- | ---
@@ -1529,9 +1562,7 @@ Non-personnel current expenditure per student (GEL) | 243 | 268 | 318 | 327 | 39
 Public expenditure per student (GEL) | 538 | 588 | 661 | 690 | 773 | 801 | +49%
 Capital expenditure per institution (GEL) | 860 | 954 | 1128 | 1239 | 1465 | 1564 | +82%
 
-Table 9: Medium scenario for early childhood development and pre-primary education
-
-Notes:  See Table above.
+Notes: See Table above.
 
 Table  10  shows  the  medium  scenario  for  general  education.    The  increase  in  public expenditure at this level between 2006 and 2011 rises to 96 per cent. This is offset by an increase in  the  enrollment  rate,  but  the  resources  available  for  non-personnel  expenditure  still  rise substantially.    Again,  these  should  be  enough  to  finance  some  of  the  quality-improving components of the plan, while allowing a transfer of funds towards a further increase in teachers' salaries.
 
@@ -1540,6 +1571,8 @@ Table  10  shows  the  medium  scenario  for  general  education.    The  increa
 [[START OF PAGE 48]]
 
 48
+
+Table 10: Medium scenario for general education
 
 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | Change between 2006 & 2011
 --- | --- | --- | --- | --- | --- | --- | ---
@@ -1561,8 +1594,6 @@ Non-personnel current expenditure per student (GEL) | 29 | 67 | 98 | 159 | 275 |
 Public expenditure per student (GEL) | 420 | 471 | 636 | 683 | 784 | 933 | +122%
 Capital expenditure per institution (GEL) | 29982 | 50582 | 96448 | 84328 | 73357 | 45776 | +53%
 
-Table 10: Medium scenario for general education
-
 Table  11  shows  the  high  scenario  for  early  childhood  development  and  pre-primary education, which assumes that 100 per cent of the funding needed to fill the gap in the action plan will be available.  Again, an increase in the enrollment rate is envisaged, but this time on a more ambitious scale.  Personnel expenses increase, but at a slower rate than other current expenditure.
 
 [[END OF PAGE 48]]
@@ -1570,6 +1601,8 @@ Table  11  shows  the  high  scenario  for  early  childhood  development  and  
 [[START OF PAGE 49]]
 
 49
+
+Table 11: High scenario for early childhood development and pre-primary education
 
 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | Change between 2006 & 2011
 --- | --- | --- | --- | --- | --- | --- | ---
@@ -1589,11 +1622,11 @@ Non-personnel current expenditure per student (GEL) | 243 | 315 | 349 | 343 | 38
 Public expenditure per student (GEL) | 538 | 636 | 693 | 706 | 771 | 785 | +46%
 Capital expenditure per institution (GEL) | 860 | 1051 | 1225 | 1337 | 1562 | 1661 | +93%
 
-Table 11: High scenario for early childhood development and pre-primary education
+Notes: See Table above.
 
-Notes:  See Table above.
+Table 12 shows the high scenario for general education. A 116 per cent increase in public expenditure at this level is enough to allow a substantial increase in the enrollment rate, towards international standards (see section below), while funding some of the plan's quality-improving activities (under 'other current expenditure') and transferring some funds to a further increase in teachers' salaries.
 
-Table  12  shows  the  high  scenario  for  general  education.    A  116  per  cent  increase  in public expenditure at this level is enough to allow a substantial increase in the enrollment rate, towards  international  standards  (see  section  below),  while  funding  some  of  the  plan's  qualityimproving activities (under 'other current expenditure') and transferring some funds to a further increase in teachers' salaries.
+Table 12: High scenario for general education
 
 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | Change between 2006 & 2011
 --- | --- | --- | --- | --- | --- | --- | ---
@@ -1615,54 +1648,44 @@ Non-personnel current expenditure per student (GEL) | 29 | 70 | 99 | 156 | 266 |
 Public expenditure per student (GEL) | 420 | 473 | 535 | 623 | 776 | 997 | +137%
 Capital expenditure per institution (GEL) | 29982 | 50582 | 57623 | 64478 | 75849 | 77602 | +159%
 
-Table 12: High scenario for general education
-
 [[END OF PAGE 49]]
 
 [[START OF PAGE 50]]
 
 50
 
-### d. Results  Framework:    Education  Sector  Development Indicators for the Action Plan
+### d. Results Framework: Education Sector Development
 
-be
-
-be
-
-be
-
-be Notes:    Base  dates  for  Georgia,  indicators  1-13,  15-20,  and  22  =  2004,  14  =  2005,  21  =  2006;    base  dates  for comparator, indicators 1-13, 15-19, and 22-23 = 2004, 14 and 20-21 = 2003.
-
-Georgia Base Date | Comparator Base Date | Georgia Target 2011
---- | --- | --- | --- | ---
-1. | Pre-primary gross enrollment rate (as % of 3-5 year olds) | 49% | 78% | 60%
-2. | Pre-primary gender parity index | 1.15 | 0.98 | 1
-3. | Pre-primary school life expectancy | 1.4 | 2.2 | 2
-4. | Primary net enrollment rate | 95.06% | 96% | 97%
-5. | Primary gender parity index | 0.99 | 0.98 | 1
-6. | Primary gross intake rate to last grade | 98.6% | 99% | 95%
-7. | Primary completion rate | 90.98 % | 100%
-8. | Lower secondary gross enrollment rate | 96.5% | 103% | 100%
-9. | Upper secondary gross enrollment rate | 73.1% | 99% | 90%
-10. | Total secondary net enrollment rate | 87.4% | 91% | 90%
-11. | Total secondary gender parity index | 1.00 | 1.02 | 1
-12. | Tertiary gross enrollment rate | 41% | 70% | 70%
-13. | Tertiary gender parity index | 1.03 | 1.32 | 1
-14. | Pre-primary pupil/ teacher ratio | 10 | 15 | 15
-15. | Primary & lower secondary pupil/ teacher ratio (FTE) | 12 | c.15 | 15
-16. | Total secondary pupil/ teacher ratio | 9 | 11 | 16
-17. | Total public expenditure on education as % of GNP | 3.0% | 5.7% | 3.3%
-18. | Current expenditure as % of total public expenditure on education | 97% | 93% | 94%
-19. | Public current expenditure on pre- primary education as % of GNP | 0.3% | 0.4% | 0.4%
-20. | Public current expenditure on pre- primary education per pupil as % of GNP pc | 14.7% | 13.4% | 14%
-21. | Public current expenditure on general education as % of GNP | 1.7% | 2.4% | 2%
-22. | Public current expenditure on general education per pupil as % of GNP pc | 9.8% | c.20% | 15%
-23. | Academic staff compensation as % of current expenditure on education | 68% | 61% | 65%
-24. | Ratio of primary teacher's salary after 15 years' experience to GDP per head | MoES | 1.3
-25. | PIRLS - average scale score in reading achievement, grade 4 | 2006 | 2006 | An improvement (to specified) on 2006 score
-26. | TIMSS - average scale score in mathematics, grade 4 | 2006 | 2006 | An improvement (to specified) on 2006 score
-27. | TIMSS - average scale score in science, grade 4 | 2007 | 2007 | An improvement (to specified) on 2007 score
-28. | TIMSS - average scale score in mathematics, grade 8 | 2007 | 2007 | An improvement (to specified) on 2007 score
+Indicators for the Action Plan | Georgia Base Date | Comparator Base Date | Georgia Target 2011
+--- | --- | --- | ---
+1. Pre-primary gross enrollment rate (as % of 3-5 year olds) | 49% | 78% | 60%
+2. Pre-primary gender parity index | 1.15 | 0.98 | 1
+3. Pre-primary school life expectancy | 1.4 | 2.2 | 2
+4. Primary net enrollment rate | 95.06% | 96% | 97%
+5. Primary gender parity index | 0.99 | 0.98 | 1
+6. Primary gross intake rate to last grade | 98.6% | 99% | 95%
+7. Primary completion rate | 90.98 % | | 100%
+8. Lower secondary gross enrollment rate | 96.5% | 103% | 100%
+9. Upper secondary gross enrollment rate | 73.1% | 99% | 90%
+10. Total secondary net enrollment rate | 87.4% | 91% | 90%
+11. Total secondary gender parity index | 1.00 | 1.02 | 1
+12. Tertiary gross enrollment rate | 41% | 70% | 70%
+13. Tertiary gender parity index | 1.03 | 1.32 | 1
+14. Pre-primary pupil/ teacher ratio | 10 | 15 | 15
+15. Primary & lower secondary pupil/ teacher ratio (FTE) | 12 | c.15 | 15
+16. Total secondary pupil/ teacher ratio | 9 | 11 | 16
+17. Total public expenditure on education as % of GNP | 3.0% | 5.7% | 3.3%
+18. Current expenditure as % of total public expenditure on education | 97% | 93% | 94%
+19. Public current expenditure on pre-primary education as % of GNP | 0.3% | 0.4% | 0.4%
+20. Public current expenditure on pre-primary education per pupil as % of GNP pc | 14.7% | 13.4% | 14%
+21. Public current expenditure on general education as % of GNP | 1.7% | 2.4% | 2%
+22. Public current expenditure on general education per pupil as % of GNP pc | 9.8% | c.20% | 15%
+23. Academic staff compensation as % of current expenditure on education | 68% | 61% | 65%
+24. Ratio of primary teacher's salary after 15 years' experience to GDP per head | MoES | | 1.3
+25. PIRLS - average scale score in reading achievement, grade 4 | 2006 | 2006 | An improvement (to be specified) on 2006 score
+26. TIMSS - average scale score in mathematics, grade 4 | 2006 | 2006 | An improvement (to be specified) on 2006 score
+27. TIMSS - average scale score in science, grade 4 | 2007 | 2007 | An improvement (to be specified) on 2007 score
+28. TIMSS - average scale score in mathematics, grade 8 | 2007 | 2007 | An improvement (to be specified) on 2007 score
 
 [[END OF PAGE 50]]
 
@@ -1670,15 +1693,15 @@ Georgia Base Date | Comparator Base Date | Georgia Target 2011
 
 51
 
-29. | TIMSS - average scale score in science, grade 8 | 2007 | 2007 An improvement (to be specified) on 2007 score
---- | --- | --- | ---
-30. PIRLS gender female score ÷ male | parity index (i.e. score) 2006 | 2006 | An improvement (to be specified) on 2007 score
+29. TIMSS - average scale score in science, grade 8 | 2007 | 2007 | An improvement (to be specified) on 2007 score
+30. PIRLS gender parity index (i.e. female score ÷ male score) | 2006 | 2006 | An improvement (to be specified) on 2007 score
 31. TIMSS mathematics grade 4 gender parity index | 2007 | 2006 | An improvement (to be specified) on 2007 score
 32. TIMSS science grade 4 gender parity index | 2007 | 2007 | An improvement (to be specified) on 2007 score
 33. TIMSS mathematics grade 8 gender parity index | 2007 | 2007 | An improvement (to be specified) on 2007 score
 34. TIMSS science grade 8 gender parity index | 2007 | 2007 | An improvement (to be specified) on 2007 score
+Notes: Base dates for Georgia, indicators 1-13, 15-20, and 22 = 2004, 14 = 2005, 21 = 2006; base dates for comparator, indicators 1-13, 15-19, and 22-23 = 2004, 14 and 20-21 = 2003.
 
-Comparator = North America and Western Europe average, indicators 1-13, 15-19, and 22;  OECD average, indicators 14, 19-20 and 23;  EU average, indicators 24-33.
+Comparator = North America and Western Europe average, indicators 1-13, 15-19, and 22; OECD average, indicators 14, 19-20 and 23; EU average, indicators 24-33.
 
 Sources:    For  Georgia  and  comparator  for  indicators  1-13  and  15-17,  and  for  comparator  for  indicators  18-19, UNESCO (2006); for Georgia for indicator 14, MoES MIS database, and for indicators 18-22, World Bank (2007);   for comparator for indicators 14, 20-21 and 23, OECD (2006); for both Georgia and comparator for indicators 24-33 (in due course) http://timss.bc.edu/ .
 
@@ -1712,7 +1735,7 @@ Together  with  teacher  training  programs  curricula  will  be  elaborated  fo
 
 ##### Component 2. Design diversified forms of providing pre-school education
 
-Although it is difficult to make an accurate assessment of enrollment rates in pre-school education in Georgia and distribution by geographical location as well as by the size of income, it is apparent that enrollment is low, and major disparities are observed between rural and urban as well as between high-income and low-income families. Urban-rural differences are explained by the difficulty in physical access to pre-school facilities while in the second case inability to pay fees  for  pre-school  services  plays  the  key  role.  Designing  diversified  forms  of  providing  preschool education and introducing/promoting them through the cooperation of local municipalities will be helpful to support increased access. Such alternative forms will include:
+Although it is difficult to make an accurate assessment of enrollment rates in pre-school education in Georgia and distribution by geographical location as well as by the size of income, it
 
 ∗ Order of priorities is arbitrary and it does not reflect the order or preference
 
@@ -1721,6 +1744,8 @@ Although it is difficult to make an accurate assessment of enrollment rates in p
 [[START OF PAGE 53]]
 
 53
+
+is apparent that enrollment is low, and major disparities are observed between rural and urban as well as between high-income and low-income families. Urban-rural differences are explained by the difficulty in physical access to pre-school facilities while in the second case inability to pay fees for pre-school services plays the key role. Designing diversified forms of providing pre-school education and introducing/promoting them through the cooperation of local municipalities will be helpful to support increased access. Such alternative forms will include:
 
 -daycare centers
 
@@ -1760,7 +1785,7 @@ Total - GEL 4,725,000
 
 ##### Rationale
 
-Geographical characteristics of Georgia should be taken into account in ensuring free and unrestricted access of all to education. School  students, particularly in rural and highmountainous  areas,  often  experience  problems  in  getting  to  schools  located  at  large  distances from  their  residences.  This  problem  became  more  apparent  following  the  large-scale  school optimization process. The process, which started in 2005 and is implemented in two major phases is  aimed at reducing the number of small schools through their merger and consolidation. As a result the number of public schools was effectively reduced from over 3200 to current 2300. The second phase of optimization will be over before the start of academic year 2007-2008.
+Geographical characteristics of Georgia should be taken into account in ensuring free and unrestricted access of all to education. School students, particularly in rural and high-mountainous areas, often experience problems in getting to schools located at large distances from their residences. This problem became more apparent following the large-scale school optimization process. The process, which started in 2005 and is implemented in two major phases is aimed at reducing the number of small schools through their merger and consolidation. As a result the number of public schools was effectively reduced from over 3200 to current 2300. The second phase of optimization will be over before the start of academic year 2007-2008.
 
 Reduction in the number of schools generated a problem of access, which was addressed by  the  Presidential  Program  for  Rehabilitation  through  the  provision  of  school  buses  for transportation of children from remote areas. 47 public schools are served now by school buses (30 were purchased from the budget and 20 more were donated). However the demand for school buses is greater: currently 108 public schools have applied to the MoES with requests to provide free  transportation  for  students  (including  11  requests  for  the  provision  of  specialized  buses). Currently no amount is allocated in the budget for covering these expenses while the necessity to do it is apparent.
 
@@ -1781,13 +1806,15 @@ Number of buses - 97 Unit price - Gel 55,040 Total for buses - Gel 5,338,880 Cos
 
 ##### Rationale
 
-Notwithstanding the latest positive social and economic developments in the country and the upward trend of economic growth, the share of population living in poverty is still quite large. Creating a viable and efficient social security system is an essential pre-requisite for the country's development. Reducing poverty to minimum and improving social conditions in general is one of the most important priorities for Georgia currently. The Government of Georgia has introduced a unified social assistance policy to ensure efficient allocation of resources for the most needy. In line with this policy, there are efforts to be taken in educational domain as well to provide equal opportunities of learning for all citizens of the country. Due to the hard financial conditions of households  mentioned  above,  many  parents  are  unable  to  purchase  books  for  their  children. Operation of secondary book markets and used book donating practices help solve this problem. However, those students who are exposed to new national curricula do not have access to used books as new textbooks are designed along with curricula. Currently there are no textbook rental schemes in place, hence the chances are big that those students from vulnerable families who are studying according to new curricula will have no access to textbooks.
+Notwithstanding the latest positive social and economic developments in the country and the upward trend of economic growth, the share of population living in poverty is still quite large. Creating a viable and efficient social security system is an essential pre-requisite for the country's development. Reducing poverty to minimum and improving social conditions in general is one of
 
 [[END OF PAGE 54]]
 
 [[START OF PAGE 55]]
 
 55
+
+the most important priorities for Georgia currently. The Government of Georgia has introduced a unified social assistance policy to ensure efficient allocation of resources for the most needy. In line with this policy, there are efforts to be taken in educational domain as well to provide equal opportunities of learning for all citizens of the country. Due to the hard financial conditions of households mentioned above, many parents are unable to purchase books for their children. Operation of secondary book markets and used book donating practices help solve this problem. However, those students who are exposed to new national curricula do not have access to used books as new textbooks are designed along with curricula. Currently there are no textbook rental schemes in place, hence the chances are big that those students from vulnerable families who are studying according to new curricula will have no access to textbooks.
 
 ##### Activities
 
@@ -1819,13 +1846,15 @@ Two representatives from each public school will be provided intensive training 
 
 ##### Sustainability
 
-A  comprehensive  monitoring  and  evaluation  strategy  will  be  designed  to  monitor  and evaluate  the  outcome  of  training  conducted  for  school  administrators.  The  application  of  the training in practice and dissemination of the information at school level will be of high priority for the school administrators. This way the sustainability of the training programs will be assured.
+A comprehensive monitoring and evaluation strategy will be designed to monitor and evaluate the outcome of training conducted for school administrators. The application of the
 
 [[END OF PAGE 55]]
 
 [[START OF PAGE 56]]
 
 56
+
+training in practice and dissemination of the information at school level will be of high priority for the school administrators. This way the sustainability of the training programs will be assured.
 
 ##### Costing
 
@@ -1866,13 +1895,15 @@ Designing and conducting brief training sessions for foreign language teachers a
 
 ###### Rationale
 
-The regions  densely  populated  by  national  minorities  (Samtskhe-Javakheti  and  Kvemo Kartli inhabited by Armenians and Azeri respectively) are the ones potentially most threatened by the  lack  of  qualified  and  motivated  teaching  staff.  Surveys  carried  out  in  these  regions  have demonstrated the low level of preparation of teachers. Teaching Georgian as a state language is the  most  significant  challenge  in  these  regions  since  insufficient  language  skills  prevent  the residents of these regions from entering HEIs and later finding suitable opportunities on the labor market.  Attracting  young  qualified  professionals  through  well-designed  ITE  programs  and appropriate incentive schemes will help the regions develop their human potential.
+The regions densely populated by national minorities (Samtskhe-Javakheti and Kvemo Kartli inhabited by Armenians and Azeri respectively) are the ones potentially most threatened by
 
 [[END OF PAGE 56]]
 
 [[START OF PAGE 57]]
 
 57
+
+the lack of qualified and motivated teaching staff. Surveys carried out in these regions have demonstrated the low level of preparation of teachers. Teaching Georgian as a state language is the most significant challenge in these regions since insufficient language skills prevent the residents of these regions from entering HEIs and later finding suitable opportunities on the labor market. Attracting young qualified professionals through well-designed ITE programs and appropriate incentive schemes will help the regions develop their human potential.
 
 ###### Activities
 
@@ -1958,7 +1989,7 @@ Additionally 11 specialized schools buses will be purchased to enhance access of
 
 -Purchasing 11 adapted buses for special schools - GEL 615,600
 
-- Total - GEL 8,526,000
+Total - GEL 8,526,000
 
 [[END OF PAGE 58]]
 
@@ -1974,7 +2005,7 @@ No | Priority Area | Cost (GEL)
 2 | Support to ongoing school consolidation process through the provision of school buses in remote areas | 5,358,880
 3 | Provision of textbooks to students in need through the design and implementation of a textbook rental scheme | 1,832,000
 4 | Building capacity of autonomous school administrators | 1,200,000
-5 | Supporting Initial Teacher Education and in- service teacher training for primary education | 3,400,000
+5 | Supporting Initial Teacher Education and in-service teacher training for primary education | 3,400,000
 6 | Improving Access to General Education and Quality of Learning for the Children with Special Needs | 8,526,000
 25,041,880
 
