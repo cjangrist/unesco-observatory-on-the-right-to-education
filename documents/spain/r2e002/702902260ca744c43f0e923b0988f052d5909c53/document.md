@@ -96,13 +96,15 @@ Jueves  4  enero  2007
 
 Conocimiento de sí mismo y autonomía personal
 
-Conocimiento del entorno Lenguajes: Comunicación y representación
+Conocimiento del entorno
+
+Lenguajes: Comunicación y representación
 
 Estas  áreas  deben  entenderse  como  ámbitos  de actuación, como espacios de aprendizajes de todo orden: De actitudes, procedimientos y conceptos, que contribuirán al desarrollo de niñas y niños y propiciarán su aproximación a  la  interpretación  del  mundo,  otorgándole  significado  y facilitando su participación activa en él.
 
 - En el Anexo del presente real decreto se fijan los objetivos, contenidos y criterios de evaluación de las diferentes áreas del segundo ciclo de la Educación infantil.
 
-# Artículo 7 . Evaluación.
+# Artículo 7. Evaluación.
 
 - En el segundo ciclo de la Educación infantil, la evaluación será global, continua y formativa. La observación directa  y  sistemática  constituirá  la  técnica  principal  del proceso de evaluación.
 
@@ -142,7 +144,7 @@ respuesta educativa que mejor se adapte a sus características y necesidades per
 
 # Disposición transitoria única. Aplicabilidad del Real Decreto 1330/1991, de 6 de septiembre, por el que se establecen  los  aspectos  básicos  del  currículo  de  la Educación infantil, el Real Decreto 828/2003, de 27 de junio, por el que se establecen los aspectos educativos  básicos  de  la  Educación  Preescolar,  y  del  Real Decreto 2438/1994, de 16 de diciembre, que regula la enseñanza de la religión.
 
-Hasta la implantación de la nueva ordenación de la Educación infantil  de  acuerdo  con  lo  dispuesto  en  el Real  Decreto  806/2006,  de  30  de  junio,  por  el  que  se establece el calendario de aplicación de la nueva ordenación  del  sistema  educativo,  establecida  por  la  Ley Orgánica 2/2006, de 3 de mayo, de Educación, las enseñanzas mínimas de esta etapa se regirán por lo establecido en el Real Decreto 1330/1991, de 6 de septiembre, por el que se establecen los aspectos básicos del currículo de la Educación infantil, el Real Decreto 828/ 2003,  de  27  de  junio,  por  el  que  se  establecen  los aspectos educativos básicos de la Educación Preescolar,  y  el  Real  Decreto  2438/1994,  de  16  de  diciembre, que regula la enseñanza de la religión, en lo que respecta a esta etapa educativa.
+Hasta la implantación de la nueva ordenación de la Educación infantil de acuerdo con lo dispuesto en el Real Decreto 806/2006, de 30 de junio, por el que se establece el calendario de aplicación de la nueva ordenación del sistema educativo, establecida por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, las enseñanzas mínimas de esta etapa se regirán por lo establecido en el Real Decreto 1330/1991, de 6 de septiembre, por el que se establecen los aspectos básicos del currículo de la Educación infantil, el Real Decreto 828/2003, de 27 de junio, por el que se establecen los aspectos educativos básicos de la Educación Preescolar, y el Real Decreto 2438/1994, de 16 de diciembre, que regula la enseñanza de la religión, en lo que respecta a esta etapa educativa.
 
 # Disposición derogatoria única. Derogación normativa.
 
@@ -204,7 +206,7 @@ La identidad es una de las resultantes del conjunto de experiencias que niños y
 
 Debe tenerse en cuenta que la imagen que niños y niñas construyen de sí mismos es en gran parte una interiorización de la que les muestran quienes les rodean y de la confianza que en ellos depositan. Asimismo, la forma en que las personas adultas recogen sus iniciativas facilitará u obstaculizará su desarrollo.
 
-A lo largo de esta etapa las experiencias de los niños y niñas con el entorno deben ayudarles a conocer global y parcialmente su cuerpo, sus posibilidades perceptivas y motrices,  que  puedan  identificar  las  sensaciones  que experimentan, disfrutar con ellas y servirse de las posibilidades expresivas del cuerpo para manifestarlas. El reconocimiento de sus características individuales, así como de las de sus compañeros, es una condición básica para su desarrollo y para la adquisición de actitudes no discriminatorias.
+A lo largo de esta etapa las experiencias de los niños y niñas con el entorno deben ayudarles a conocer global y parcialmente su cuerpo, sus posibilidades perceptivas y motrices, que puedan identificar las sensaciones que experimentan, disfrutar con ellas y servirse de las posibilidades expresivas del cuerpo para manifestarlas. El reco-
 
 [[END OF PAGE 3]]
 
@@ -215,6 +217,8 @@ BOE núm. 4
 Jueves  4  enero  2007
 
 477
+
+nocimiento de sus características individuales, así como de las de sus compañeros, es una condición básica para su desarrollo y para la adquisición de actitudes no discriminatorias.
 
 La  presencia  de  rasgos  personales  diferentes,  bien por razón de sexo, origen social o cultural, debe ser utilizado por el profesorado para atender la diversidad, propiciando un ambiente de relaciones presidido por el respeto y la aceptación de las diferencias.
 
@@ -328,9 +332,7 @@ Se  pretende  evaluar  con  este  criterio  las  destrezas adquiridas para reali
 
 ### Conocimiento del entorno
 
-Con esta área de conocimiento y experiencia se pretende favorecer en niños y niñas el proceso de descubricomponen el entorno infantil, así como facilitar su insercontenidos de esta área adquieren sentido desde la cominterpretarse en las propuestas didácticas desde la globa-
-
-miento y representación de los diferentes contextos que ción  en  ellos,  de  manera  reflexiva  y  participativa.  Los plementariedad  con  el  resto  de  las  áreas,  y  habrán  de lidad de la acción y de los aprendizajes. Así por ejemplo, el entorno no puede ser comprendido sin la utilización de los diferentes lenguajes, de la misma manera, la realización de  desplazamientos  orientados  ha  de  hacerse  desde  el conocimiento del propio cuerpo y de su ubicación espacial.
+Con esta área de conocimiento y experiencia se pretende favorecer en niños y niñas el proceso de descubrimiento y representación de los diferentes contextos que componen el entorno infantil, así como facilitar su inserción en ellos, de manera reflexiva y participativa. Los contenidos de esta área adquieren sentido desde la complementariedad con el resto de las áreas, y habrán de interpretarse en las propuestas didácticas desde la globalidad de la acción y de los aprendizajes. Así por ejemplo, el entorno no puede ser comprendido sin la utilización de los diferentes lenguajes, de la misma manera, la realización de desplazamientos orientados ha de hacerse desde el conocimiento del propio cuerpo y de su ubicación espacial.
 
 Las interacciones que niñas y niños establezcan con los elementos del medio, que con la entrada en la escuela se diversifica y amplía, deben constituir situaciones privilegiadas que los llevarán a crecer, a ampliar sus conocimientos sobre el mundo y a desarrollar habilidades, destrezas y competencias nuevas. Se concibe, pues, el medio como la realidad en la que se aprende y sobre la que se aprende.
 
@@ -438,7 +440,7 @@ Se  tendrá  en  cuenta,  asimismo,  el  manejo  de  las nociones básicas espac
 
 Con este criterio se valora el interés, conocimiento y grado de sensibilización por los elementos de la naturaleza, tanto vivos como inertes; la indagación de algunas características  y  funciones  generales,  acercándose  a  la noción de ciclo vital y constatando los cambios que éste conlleva.
 
-Se  valorará  también  si  son  capaces  de  establecer algunas  relaciones  entre  medio  físico  y  social,  identificando cambios naturales que afectan a la vida cotidiana de las personas (cambios de estaciones, temperatura…) y cambios  en  el  paisaje  por  intervenciones  humanas.  Se mostrarán actitudes de cuidado y respeto hacia la naturaleza  participando  en  actividades  para  conservarla.  Se estimará,  asimismo,  el  interés  que  manifiestan  por  el conocimiento  del  medio,  las  observaciones  que  hacen, así  como las conjeturas que sobre sus causas y consecuencias formulan.
+Se valorará también si son capaces de establecer algunas relaciones entre medio físico y social, identificando cambios naturales que afectan a la vida cotidiana de las personas (cambios de estaciones, temperatura…) y
 
 [[END OF PAGE 6]]
 
@@ -450,15 +452,15 @@ Jueves  4  enero  2007
 
 BOE núm. 4
 
+cambios en el paisaje por intervenciones humanas. Se mostrarán actitudes de cuidado y respeto hacia la naturaleza participando en actividades para conservarla. Se estimará, asimismo, el interés que manifiestan por el conocimiento del medio, las observaciones que hacen, así como las conjeturas que sobre sus causas y consecuencias formulan.
+
 3. Identificar y conocer los grupos sociales más significativos  de  su  entorno,  algunas  características  de  su organización y los principales servicios comunitarios que ofrece. Poner ejemplos de sus características y manifestaciones culturales, y valorar su importancia.
 
 Con este criterio se evalúa el conocimiento de los grupos  sociales  más  cercanos  (familia,  escuela…),  de  los servicios comunitarios que éstos ofrecen (mercado, atención sanitaria o medios de transporte), y de su papel en la sociedad.
 
 La toma de conciencia sobre la necesidad de lo social, se  estimará  verbalizando  algunas  de  las  consecuencias que, para la vida de las personas, tendría la ausencia de organizaciones sociales, así como la necesidad de dotarse de normas para convivir.
 
-Se observará, asimismo, su integración y vinculación afectiva a los grupos más cercanos y la acomodación de su  conducta  a  los  principios,  valores  y  normas  que  los rigen. Especial atención merecerá la capacidad que niñas y niños muestren para el análisis de situaciones conflictivas y las competencias generadas para un adecuado tra-
-
-tamiento y resolución de las mismas.
+Se observará, asimismo, su integración y vinculación afectiva a los grupos más cercanos y la acomodación de su conducta a los principios, valores y normas que los rigen. Especial atención merecerá la capacidad que niñas y niños muestren para el análisis de situaciones conflictivas y las competencias generadas para un adecuado tratamiento y resolución de las mismas.
 
 Se  evalúa  igualmente  la  comprensión  de  algunas señas o elementos que identifican a otras culturas presentes  en  el  medio,  así  como  si  establecen  relaciones  de afecto, respeto y generosidad con todos sus compañeros y compañeras.
 
@@ -470,15 +472,11 @@ vivencias y las interacciones con los demás.
 
 En la etapa de Educación infantil se amplían y diversifican las experiencias y las formas de representación que niñas y niños elaboran desde su nacimiento.  Trabajar educativamente la comunicación implica potenciar las capacidades relacionadas con la recepción e interpretación de mensajes, y las dirigidas a emitirlos o producirlos, contribuyendo a mejorar la comprensión del mundo y la expresión original, imaginativa y creativa.
 
-Como ya se ha reiterado, las tres áreas deben trabajarse  de  manera  conjunta  e  integrada.  Así  cuando  se aborde, por ejemplo, el conocimiento de objetos y materias que se refleja en el área Conocimiento del entorno, se trabajará al propio tiempo, el lenguaje matemático, que se refiere a la representación de aquellas propiedades y relaciones entre objetos, que un acercamiento a la reali-
-
-dad activo e indagatorio, les permite ir construyendo.
+Como ya se ha reiterado, las tres áreas deben trabajarse de manera conjunta e integrada. Así cuando se aborde, por ejemplo, el conocimiento de objetos y materias que se refleja en el área Conocimiento del entorno, se trabajará al propio tiempo, el lenguaje matemático, que se refiere a la representación de aquellas propiedades y relaciones entre objetos, que un acercamiento a la realidad activo e indagatorio, les permite ir construyendo.
 
 En el uso de los distintos lenguajes, niñas y niños irán descubriendo la mejor adaptación de cada uno de ellos a la representación de las distintas realidades o dimensiones de una misma realidad. De esta manera se facilitará que acomoden los códigos propios de cada lenguaje a sus  intenciones  comunicativas,  acercándose  a  un  uso cada vez más propio y creativo de dichos lenguajes.
 
-Las diferentes formas de comunicación y representa-
-
-ción que se integran en esta área son: El Lenguaje verbal, el  lenguaje  artístico,  el  lenguaje  corporal,  el  lenguaje audiovisual  y  de  las  tecnologías  de  la  información  y  la comunicación.
+Las diferentes formas de comunicación y representación que se integran en esta área son: El Lenguaje verbal, el lenguaje artístico, el lenguaje corporal, el lenguaje audiovisual y de las tecnologías de la información y la comunicación.
 
 Por otro lado, el lenguaje oral es especialmente relevante en esta etapa, es el instrumento por excelencia de aprendizaje, de regulación de la conducta y de manifestación de vivencias, sentimientos, ideas, emociones, etc. La verbalización, la explicación en voz alta, de lo que están aprendiendo, de lo que piensan y lo que sienten, es un instrumento imprescindible para configurar la identidad personal,  para  aprender,  para  aprender  a  hacer  y  para aprender a ser. Con la lengua oral se irá estimulando, a través de interacciones diversas, el acceso a usos y formas cada vez más convencionales y complejas.
 
@@ -498,7 +496,7 @@ Los  lenguajes  contribuyen  también  al  desarrollo  de una competencia artís
 
 compartir con los demás las experiencias estéticas.
 
-Estos lenguajes contribuyen, de manera complementaria, al desarrollo integral de niños y niñas y se desarrollan de manera integrada con los contenidos de las dos primeras áreas. A través de los lenguajes desarrollan su imaginación y creatividad, aprenden, construyen su identidad personal, muestran sus emociones, su conocimiento del  mundo, su percepción de la realidad. Son, además, instrumentos  de  relación,  regulación,  comunicación  e intercambio y la herramienta más potente para expresar y gestionar sus emociones y para representarse la realidad. En  cuanto  que  productos  culturales,  son  instrumentos fundamentales para elaborar la propia identidad cultural y apreciar la de otros grupos sociales.
+Estos lenguajes contribuyen, de manera complementaria, al desarrollo integral de niños y niñas y se desarrollan de manera integrada con los contenidos de las dos primeras áreas. A través de los lenguajes desarrollan su imaginación y creatividad, aprenden, construyen su identidad personal, muestran sus emociones, su conocimiento del mundo, su percepción de la realidad. Son, además,
 
 [[END OF PAGE 7]]
 
@@ -509,6 +507,8 @@ BOE núm. 4
 Jueves  4  enero  2007
 
 481
+
+instrumentos de relación, regulación, comunicación e intercambio y la herramienta más potente para expresar y gestionar sus emociones y para representarse la realidad. En cuanto que productos culturales, son instrumentos fundamentales para elaborar la propia identidad cultural y apreciar la de otros grupos sociales.
 
 #### Objetivos
 
@@ -526,7 +526,7 @@ En relación con el área, la intervención educativa tendrá como objetivo el d
 
 - Acercarse  al  conocimiento  de  obras  artísticas expresadas en distintos lenguajes y realizar actividades de representación y expresión artística mediante  el empleo de diversas técnicas.
 
-- 7 . Iniciarse en el uso oral de una lengua extranjera para comunicarse en actividades dentro del aula, y mostrar interés y disfrute al participar en estos intercambios comunicativos.
+- Iniciarse en el uso oral de una lengua extranjera para comunicarse en actividades dentro del aula, y mostrar interés y disfrute al participar en estos intercambios comunicativos.
 
 #### Contenidos
 
@@ -636,11 +636,11 @@ Se observará el gusto por experimentar y explorar las posibilidades expresivas 
 
 Se valorará el desarrollo de la sensibilidad estética y de actitudes positivas hacia las producciones artísticas en distintos medios, junto con el interés por compartir las experiencias estéticas.
 
-186
-
 # MINISTERIO DE TRABAJO Y ASUNTOS SOCIALES
 
-## ORDEN  TAS/1/2007 , de 2 de enero, por la que se establece el  modelo de parte de enfermedad profesional, se dictan normas para su elaboración y transmisión y se crea el correspondiente fichero de datos personales.
+186
+
+## ORDEN TAS/1/2007, de 2 de enero, por la que se establece el modelo de parte de enfermedad profesional, se dictan normas para su elaboración y transmisión y se crea el correspondiente fichero de datos personales.
 
 Entre las previsiones de desarrollo que se contienen en el Real Decreto 1299/2006, de 10 de noviembre, por el que se aprueba el cuadro de enfermedades profesionales en el sistema de la Seguridad Social y se establecen criterios para su notificación y registro, el artículo 4 dispone que, en caso de enfermedad profesional, la entidad gestora o colaboradora que asuma la protección de las contingencias profesionales elaborará y tramitará el parte de enfermedad  profesional  correspondiente,  en  los  términos  que  establezcan  las  disposiciones  de  aplicación  y desarrollo.
 
