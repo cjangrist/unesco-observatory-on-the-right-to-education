@@ -20,9 +20,10 @@ El Govern,
 
 Reconèixer la nacionalitat andorrana amb plenitud de drets polítics a les persones relacionades a la llista següent:
 
-Fernandez Parada, Maria Sabina,, amb efectes des del 24de gener del 2006 Hurtado Quintana, Juana Maria, amb efectes des del 29 de maig del 2006 Lonca Aventin, Maria Josep, amb efectes des del 14 d'octubre del 2005 Martinez Moya, Antonio, amb efectes
-
-des del 25 d'abril del 2005
+Fernandez Parada, Maria Sabina,, amb efectes des del 24 de gener del 2006
+Hurtado Quintana, Juana Maria, amb efectes des del 29 de maig del 2006
+Lonca Aventin, Maria Josep, amb efectes des del 14 d'octubre del 2005
+Martinez Moya, Antonio, amb efectes des del 25 d'abril del 2005
 
 Oto Charles, Maria José, amb efectes des del 3 de febrer del 2006
 
@@ -72,7 +73,7 @@ S'aprova el Reglament de construcció i d'equipaments dels centres d'ensenyament
 
 ##### Característiques
 
-La superfície mínima de terreny per a un centre escolar es calcula en funció del nombre màxim d'alumnes que hagi d'acollir i es determina a raó de 10 m 2 de terreny per alumne amb un mínim de 2.000 m 2 .
+La superfície mínima de terreny per a un centre escolar es calcula en funció del nombre màxim d'alumnes que hagi d'acollir i es determina a raó de 10 m² de terreny per alumne amb un mínim de 2.000 m².
 
 El terreny ha de disposar, abans de finalitzar la construcció, d'accessos rodats que permetin la circulació de vehicles de fins a 12 metres de llarg, vehicles de salvament i accessos per a vianants amb tota seguretat.
 
@@ -107,13 +108,12 @@ S'ha de preveure una zona d'estacionament per al transport escolar pròxima al c
 #### Article 4
 ##### Característiques generals
 
-a) El disseny del projecte, els sistemes constructius i els materials de construcció han de respondre als criteris de simplicitat, solidesa, economia, sostenibilitat, integració a l'entorn i s'han de fer d'acord amb la legislació vigent, tenint en compte solucions experimentades en centres escolars existents. Els materials i les instal·lacions de l'obra han de possibilitar la racionalització de les despeses de manteniment i els passos de les instal·lacions de forma vista o en galeries tècniques accessi-
-
-de funcionament. Cal privilegiar bles.
+a) El disseny del projecte, els sistemes constructius i els materials de construcció han de respondre als criteris de simplicitat, solidesa, economia, sostenibilitat, integració a l'entorn i s'han de fer d'acord amb la legislació vigent, tenint en compte solucions experimentades en centres escolars existents.
+Els materials i les instal·lacions de l'obra han de possibilitar la racionalització de les despeses de manteniment i de funcionament. Cal privilegiar els passos de les instal·lacions de forma vista o en galeries tècniques accessibles.
 
 També cal captar, acumular i aprofitar les energies naturals mitjançant l'ús de materials adequats en els elements estructurals i constructius dels edificis per aconseguir una gran inèrcia tèrmica en cas de forta insolació. Cal orientar adequadament els elements de captació de l'edifici, tenint en consideració la ventilació natural així com disposar d'elements passius i actius de captació solar, de forma compatible amb el confort i l'ús que es preveu fer dels espais.
 
-b) Les noves construccions escolars poden tenir fins a cinc plantes (planta baixa + 4) per a ús pedagògic. S'entén comaplanta baixa la planta amb accés des d'un vial, respectant sempre les ordenacions comunals on s'implanti el centre. No obstant això, es poden admetre excepcions a aquest article si les condicions del terreny o d'integració urbanística ho justifiquen, considerant, si escau, l'edifici escolar com a edifici singular.
+b) Les noves construccions escolars poden tenir fins a cinc plantes (planta baixa + 4) per a ús pedagògic. S'entén com a planta baixa la planta amb accés des d'un vial, respectant sempre les ordenacions comunals on s'implanti el centre. No obstant això, es poden admetre excepcions a aquest article si les condicions del terreny o d'integració urbanística ho justifiquen, considerant, si escau, l'edifici escolar com a edifici singular.
 
 L'alçada mínima interior (de terra acabat a sostre acabat) de les zones docents ha de ser de 2,75 metres. L'alçada per sota d'elements estructurals, o altres instal·lacions podrà ser de 2,50 metres.
 
@@ -123,9 +123,7 @@ c) La distribució de les activitats a l'interior de l'edifici s'ha de fer tenin
 
 Circulacions sense ambigüitats.
 
-d) La ventilació i la il·luminació natural són imprescindibles a tots els espais que tinguin una ocupació intensa (espais docents i administratius entre d'altres). Els lavabos poden estar situats en espais interiors, sempre que disposin de la ventilació mecànica o estàtica ade-
-
-quada.
+d) La ventilació i la il·luminació natural són imprescindibles a tots els espais que tinguin una ocupació intensa (espais docents i administratius entre d'altres). Els lavabos poden estar situats en espais interiors, sempre que disposin de la ventilació mecànica o estàtica adequada.
 
 El local de residus ha de disposar de ventilació natural.
 
@@ -183,11 +181,9 @@ Butlletí Oficial del Principat d'Andorra
 
 2971
 
-BIE: en recintes per >100 persones o quan la Sc>1.000 m 2 .
-
+BIE: en recintes per >100 persones o quan la Sc>1.000 m².
 Detecció i alarma: en establiments de 1a, 2a, 3a i 4a categoria. Sempre en establiments amb dormitoris, independentment de la seva superfície, incloses les habitacions.
-
-Ruixadors: en locals de l'establiment de Sc 2.500 m 2 .
+Ruixadors: en locals de l'establiment de Sc 2.500 m².
 
 Sc = Superfície construïda
 
@@ -226,7 +222,7 @@ Núm. 59 - any 18 - 26.7.2006
 #### Article 9
 ##### Compartimentació interior
 
-Els centres de més de 4.000 m 2 de superfície construïda han d'estar compartimentats en sectors de foc independents si tenen diverses plantes. En canvi si es tracta d'una sola planta no s'exigeix cap compartimentació.
+Els centres de més de 4.000 m² de superfície construïda han d'estar compartimentats en sectors de foc independents si tenen diverses plantes. En canvi si es tracta d'una sola planta no s'exigeix cap compartimentació.
 
 Les superfícies anteriors poden doblar-se si el local disposa de ruixadors.
 
@@ -248,16 +244,11 @@ Les portes situades a la caixa d'escala compartimentada han de ser TF de grau m�
 El desenfumatge és obligatori en els casos següents:
 
 1. en les circulacions horitzontals, escales encaixonades i patis comuns. Les circulacions horitzontals inferiors a 15 metres de longitud no necessiten desenfumatge.
-
-- locals en planta majors de 300 m 2
-
-- locals en subsòl majors de 100 m 2
-
-- escales d'accés als dormitoris
-
-- dormitoris d'escoles maternals
-
-- atris
+2. locals en planta majors de 300 m²
+3. locals en subsòl majors de 100 m²
+4. escales d'accés als dormitoris
+4. dormitoris d'escoles maternals
+5. atris
 
 ### Secció segona. Elements constructius
 
@@ -270,7 +261,7 @@ S'han d'estudiar de manera acurada totes les solucions per resoldre els probleme
 
 Els fonaments s'han de projectar i executar en funció de les condicions geotècniques del solar. S'ha d'optar per les solucions segures i de menor complexitat tècnica.
 
-Els forjats han de tenir en consideració el pas de les xarxes d'instal·lacions i la bona resposta acústica. La sobrecàrrega mínima d'ús de les dependències que s'ha de preveure en el càlcul de l'estructura és de 400 kg/m 2 .
+Els forjats han de tenir en consideració el pas de les xarxes d'instal·lacions i la bona resposta acústica. La sobrecàrrega mínima d'ús de les dependències que s'ha de preveure en el càlcul de l'estructura és de 400 kg/m².
 
 Per al càlcul de les estructures s'han de tenir en compte les accions sísmiques i climàtiques de neu i vent previstes com a recomanacions en la publicació de la 'Conselleria de Serveis Públics' de l'octubre de 1989.
 
@@ -288,11 +279,11 @@ La solució de la coberta ha de preveure la resolució de punts com la recollida
 #### Article 14
 ##### Tancaments exteriors
 
-a) El centre escolar ha de tenir un tancament del perímetre d'una alçada suficient (mínim 2,50 metres) per impossibilitar l'accés de persones foranes a l'interior del recinte escolar. Pel que fa als patis, es poden utilitzar baranes, reixes o parets d'una alçada mínimade250 cm per als patis de maternal i de 5 metres per als patis dels nivells superiors. En tots els casos s'ha d'evitar la formació de cantells horitzontals o verticals o graons d'una alçada inferior a 110 cm respecte del sòl al voltant dels patis.
+a) El centre escolar ha de tenir un tancament del perímetre d'una alçada suficient (mínim 2,50 metres) per impossibilitar l'accés de persones foranes a l'interior del recinte escolar. Pel que fa als patis, es poden utilitzar baranes, reixes o parets d'una alçada mínima de 250 cm per als patis de maternal i de 5 metres per als patis dels nivells superiors. En tots els casos s'ha d'evitar la formació de cantells horitzontals o verticals o graons d'una alçada inferior a 110 cm respecte del sòl al voltant dels patis.
 
 A les portes d'accés de vianants i dels vehicles s'ha de preveure un sistema de porter electrònic que comuniqui amb l'administració o la consergeria i en permeti l'obertura des d'aquestes dependències.
 
-Tots els tancament exteriors, inclosos els patis de llum, han de tenir un coeficient tèrmic d'aïllament no superior a 0,30 W/m 2 C. Els paviments que donin a espais no calefactats han de tenir un coeficient tèrmic no superior a 0.45 W/m 2 C i les teulades i terrasses no superior a 0,30 W/m 2 C.
+Tots els tancament exteriors, inclosos els patis de llum, han de tenir un coeficient tèrmic d'aïllament no superior a 0,30 W/m²C. Els paviments que donin a espais no calefactats han de tenir un coeficient tèrmic no superior a 0.45 W/m²C i les teulades i terrasses no superior a 0,30 W/m²C.
 
 Cal eliminar els ponts tèrmics en totes les unions de sostres i façanes amb un aïllament mínim de 5cm de poliestiré o equivalent i en les caixes de persiana amb un mínim de 7cm de poliestiré o equivalent en totes les cares de les caixes de persiana que donin a locals interiors.
 
@@ -300,7 +291,7 @@ Cal eliminar les condensacions mitjançant una ventilació higiènica adequada.
 
 b) Els materials i els sistemes constructius emprats en els acabats de les façanes han de ser adaptats a les activitats que poden desenvolupar-se al seu entorn i aproximar-se a un manteniment zero. Els sistemes han de garantir l'estabilitat en el temps per evitar possibles despreniments.
 
-c) La fusteria ha de ser hermètica i de qualitat contrastada, amb ruptura de pont tèrmic i amb una superfície màxima de finestra d'1,50 m 2 . Pel que fa a les finestres, també s'ha de preveure que en cap cas estiguin situades a una alçada inferior a 110 cm respecte del sòl, i que tinguin sistemes de limitació d'obertura dels elements practicables tipus compàs que permetin, com a màxim, una obertura de 12 cm. Els mecanismes d'accionament de les finestres s'han de situar com a mínim a 150 cm del terra. Les finestres han de ser oscil·lants en un eix horitzontal, on la part inferior de la finestra obri cap a l'exterior.
+c) La fusteria ha de ser hermètica i de qualitat contrastada, amb ruptura de pont tèrmic i amb una superfície màxima de finestra d'1,50 m². Pel que fa a les finestres, també s'ha de preveure que en cap cas estiguin situades a una alçada inferior a 110 cm respecte del sòl, i que tinguin sistemes de limitació d'obertura dels elements practicables tipus compàs que permetin, com a màxim, una obertura de 12 cm. Els mecanismes d'accionament de les finestres s'han de situar com a mínim a 150 cm del terra. Les finestres han de ser oscil·lants en un eix horitzontal, on la part inferior de la finestra obri cap a l'exterior.
 
 [[END OF PAGE 4]]
 
@@ -312,7 +303,7 @@ Butlletí Oficial del Principat d'Andorra
 
 2973
 
-La utilització del vidre com a element de tancament exterior ha de garantir la seguretat de ruptures eventuals, l'estanquitat a l'aigua i a l'aire. Els locals calefactats han de tenir un coeficient tèrmic no superior a 2.4W/m 2 C.
+La utilització del vidre com a element de tancament exterior ha de garantir la seguretat de ruptures eventuals, l'estanquitat a l'aigua i a l'aire. Els locals calefactats han de tenir un coeficient tèrmic no superior a 2.4W/m²C.
 
 El disseny dels elements de tancament ha de resoldre el manteniment posterior dels elements de vidre (neteja des de l'interior de l'edifici).
 
@@ -334,9 +325,8 @@ Les zones humides han d'anar aplacades amb ceràmica o material amb característ
 
 Els sistemes constructius han d'absorbir sense esquerdes ni deterioracions les deformacions de l'estructura. S'han de col·locar junts en les parts alta i baixa de les línies divisòries i han d'estar dissimulats amb el sòcol. Els junts han de ser conformes al Reglament de lluita contra incendis en locals públics vigent.
 
-b) Les portes han de respondre a les condicions d'aïllament acústic de les dependències on estan emplaçades. Les portes de fusta han de ser resistents als impactes i al frec amb un aplacat a cada cara i un acabat de neteja fàcil (laminat, melamina, esmalt). Els elements de ferreteria, manetes i frontisses, han de garantir un manteni-
-
-ment mínim.
+b) Les portes han de respondre a les condicions d'aïllament acústic de les dependències on estan emplaçades. Les portes de fusta han de ser resistents als impactes i al frec amb un aplacat a cada cara i un acabat de neteja fàcil (laminat, melamina, esmalt).
+Els elements de ferreteria, manetes i frontisses, han de garantir un manteniment mínim.
 
 Totes les portes, excepte les dels lavabos d'ús públic i les situades a les vies d'evacuació, han de tenir dispositiu d'accionament amb clau. Tots els espais docents destinats als alumnes han de disposar de panys que en permetin l'obertura des de l'interior de l'espai sense clau. Aquestes portes s'han de poder obrir amb una clau mestra des de l'exterior.
 
@@ -365,7 +355,7 @@ Les escales amb una amplada igual o superior a 140 cm han de tenir els passamans
 
 Els paviments generals de l'edifici, incloses les escales, han de ser resistents al desgast i a l'impacte i han de necessitar poc manteniment. S'ha de privilegiar la utilització del terratzo acabat rebaixat, polit i abrillantat davant d'altres solucions.
 
-Al gimnàs i a l'aula de psicomotricitat s'hi ha de col·locar paviment continu ambjuntes soldades, flexible (tipus PVC), classificat com a mínim U4 (ús), P2 (punxonament), E3 (aigua), C2 (agents químics) i M3 (resistència al foc).
+Al gimnàs i a l'aula de psicomotricitat s'hi ha de col·locar paviment continu amb juntes soldades, flexible (tipus PVC), classificat com a mínim U4 (ús), P2 (punxonament), E3 (aigua), C2 (agents químics) i M3 (resistència al foc).
 
 Entre els paviments i els paraments verticals que no estiguin enrajolats cal col·locar sòcol de característiques similars a les del paviment.
 
@@ -385,7 +375,7 @@ Núm. 59 - any 18 - 26.7.2006
 
 Els locals humits (cuina, sanitaris, vestuaris, etc.) han d'estar impermeabilitzats i tenir un paviment amb material antilliscant classificat com a mínim U4 (ús), P4 (punxonament), E3 (aigua), C2 (agents químics). Aquests locals han de tenir pendents per conduir les aigües vers un desguàs amb sifó.
 
-### Secció tercera. Iinstal·lacions
+### Secció tercera. Instal·lacions
 
 Les instal·lacions de l'edifici han de tenir sistemes de regulació i de control integrats mitjançant mecanismes que permetin passar dels sistemes actius als sistemes convencionals quan sigui necessari.
 
@@ -417,7 +407,7 @@ Els circuits d'aigua destinada a consum humà han d'estar dotats d'un dispositiu
 
 S'han d'adoptar totes les mesures necessàries, tant pel que fa als materials com de recorreguts de la instal·lació, per tal d'evitar la corrosió dels tubs i facilitar-ne al màxim el manteniment i la reparació.
 
-Totes les canalitzacions han d'estar aïllades tèrmicament per evitar pèrdues de calor o fred. El coeficient de pèrdues calorífiques ha d'ésser inferior a 2W/m 2 C. El coeficient de barrera de vapor per l'aïllament de tubs d'aigua freda o refrigerada superior a 5000. En cas de ser aïllament d'escuma elastomèrica no ha d'haver utilitzat CFC com a escumant.
+Totes les canalitzacions han d'estar aïllades tèrmicament per evitar pèrdues de calor o fred. El coeficient de pèrdues calorífiques ha d'ésser inferior a 2W/m²C. El coeficient de barrera de vapor per l'aïllament de tubs d'aigua freda o refrigerada superior a 5000. En cas de ser aïllament d'escuma elastomèrica no ha d'haver utilitzat CFC com a escumant.
 
 A les entrades de tots els locals amb subministrament d'aigua s'hi ha de col·locar una clau de pas i una altra d'individual per a cada aparell o zona per tal de possibilitar-ne el tancament en cas d'avaria.
 
@@ -446,7 +436,7 @@ Les instal·lacions d'aigua calenta sanitària han d'estar dotades d'un sistema 
 
 La instal·lació elèctrica ha de complir la legislació vigent i especialment el Reglament d'instal·lacions elèctriques de baixa tensió (RIBT).
 
-L'edifici ha d'estar connectat al terra, per tal de limitar la tensió respecte al terra que poden presentar les masses metàl·liques, garantir l'actuació de les proteccions i eliminar o disminuir el risc d'avaria del material utilitzat. Aquesta connexió s'ha de fer amb cable nu de coure de 35 mm 2 de secció mínima i piques clavades unides a l'armadura de l'estructura. La resistència màxima de la xarxa de terra ha de ser de 15 Ohms.
+L'edifici ha d'estar connectat al terra, per tal de limitar la tensió respecte al terra que poden presentar les masses metàl·liques, garantir l'actuació de les proteccions i eliminar o disminuir el risc d'avaria del material utilitzat. Aquesta connexió s'ha de fer amb cable nu de coure de 35 mm² de secció mínima i piques clavades unides a l'armadura de l'estructura. La resistència màxima de la xarxa de terra ha de ser de 15 Ohms.
 
 La càrrega total del centre s'ha de determinar en funció dels nivells d'enllumenat, punts de preses elèctriques i altres instal·lacions amb aparells d'alt consum, definides al projecte i tenint en compte uns coeficients de simultaneïtat que poden ser de l'ordre de 80% per a l'enllumenat i d'entre 20 i 40% per als altres serveis.
 
@@ -481,7 +471,7 @@ Es prioritzarà l'aprofitament de llum natural. Les dependències han de disposa
 
 Totes les llumeneres han de facilitar les tasques de manteniment, és a dir, han de ser accessibles i s'han de poder netejar còmodament.
 
-b) Els llums de les aules s'han de poder encendre i apagar amb polsadors locals i també per plantes des del quadre de comandament de consergeria. A les aules s'ha de preveure un mínim de dos enceses tenint en compte l'aprofitament màxim de la llum natural. Cal tenir un consum d'electricitat adequat en les zones docents, mitjançant l'ús de lluminàries de baix consum o equips de fluorescència amb reactància electrònica i mecanismes de cont r o l del f uncionament de l e s lluminàries.
+b) Els llums de les aules s'han de poder encendre i apagar amb polsadors locals i també per plantes des del quadre de comandament de consergeria. A les aules s'ha de preveure un mínim de dos enceses tenint en compte l'aprofitament màxim de la llum natural. Cal tenir un consum d'electricitat adequat en les zones docents, mitjançant l'ús de lluminàries de baix consum o equips de fluorescència amb reactància electrònica i mecanismes de control del funcionament de les lluminàries.
 
 La distribució dels elements d'il·luminació s'ha de fer de manera que en el moment de la posada en servei es garanteixin els nivells lluminosos següents:
 
@@ -495,7 +485,7 @@ La il·luminació del gimnàs, de l'aula de psicomotricitat i de la sala polival
 
 A les zones comunes s'han de preveure tres enceses diferenciades mitjançant telerruptors. Una de les tres enceses ha de ser d'un 15% de l'enllumenat general, i ha de servir com a enllumenat de vigilància i per les tasques de neteja. En cadascuna d'aquestes enceses es programaran les apagades en funció de les necessitats.
 
-c) Les instal·lacions d'enllumenat especial, d'emergència i senyalització s'han de fer d'acord amb el RIBT-Reglament d'instal·lacions elèctriques de baixa tensió)-mitjançant aparells autònoms que il·luminin els locals i les vies de comunicació o d'evacuació fins a les sortides. El nivell mínim de potència de l'enllumenat d'emergència, en els recorreguts d'evacuació ha de ser de 0,2 W/m 2 .
+c) Les instal·lacions d'enllumenat especial, d'emergència i senyalització s'han de fer d'acord amb el RIBT-Reglament d'instal·lacions elèctriques de baixa tensió)-mitjançant aparells autònoms que il·luminin els locals i les vies de comunicació o d'evacuació fins a les sortides. El nivell mínim de potència de l'enllumenat d'emergència, en els recorreguts d'evacuació ha de ser de 0,2 W/m².
 
 L'enllumenat de senyalització ha d'indicar permanentment la situació de les portes, passadissos, escales i sortides dels locals.
 
@@ -538,9 +528,10 @@ Una vàlvula d'aïllament de peu de columna (pujada i baixada)
 
 Una aixeta de buidat per columna (pujada i baixada)
 
-Unaregulació per columna de pujada Unes purgues automàtiques als extrems superiors de les columnes
+Una regulació per columna de pujada
+Unes purgues automàtiques als extrems superiors de les columnes
 
-d) Les canalitzacions han de ser preferentment d'acer negre sense soldadura, vistes sempre que sigui possible i subjectades suficientment a les parets per evitar agressions amb els peus. Les canalitzacions que passin per volums caldejats o no, encastats a les parets o no, han d'estar aïllades exceptuant els ramals a cada radiador. El coeficient de pèrdues calorífiques ha d'ésser inferior a 2W/m 2 C i amb una classificació de reacció al foc mínima M1. En cas de ser aïllament d'escuma elastomèrica no ha d'haver utilitzat CFC ni HCFC com a escumant.
+d) Les canalitzacions han de ser preferentment d'acer negre sense soldadura, vistes sempre que sigui possible i subjectades suficientment a les parets per evitar agressions amb els peus. Les canalitzacions que passin per volums caldejats o no, encastats a les parets o no, han d'estar aïllades exceptuant els ramals a cada radiador. El coeficient de pèrdues calorífiques ha d'ésser inferior a 2W/m²C i amb una classificació de reacció al foc mínima M1. En cas de ser aïllament d'escuma elastomèrica no ha d'haver utilitzat CFC ni HCFC com a escumant.
 
 e) Els radiadors han de ser de fosa o de tubs de ferro soldats i s'han de disposar sobre el tancament de façana suficientment subjectats a les parets. Pel que fa als espais de gran volum o alçada es poden aportar altres sistemes d'escalfament.
 
@@ -558,7 +549,7 @@ Caldejament a màxima potència per a períodes de precaldejament per reposició
 
 La programació s'ha d'efectuar mitjançant un equip centralitzat a la zona de consergeria o recepció.
 
-A cada zona de programació s'ha de preveure un circuit independent alimentat des d'una subestació on arribi aigua calenta a temperatura constant i d'on surti aigua a temperatura variable, en funció de la temperatura exterior i de l'ocupació pròpia de la zona. No obstant això es preveurà un sistemade desconnexió de la calefacció de cada aula o local mitjançant un programador.
+A cada zona de programació s'ha de preveure un circuit independent alimentat des d'una subestació on arribi aigua calenta a temperatura constant i d'on surti aigua a temperatura variable, en funció de la temperatura exterior i de l'ocupació pròpia de la zona. No obstant això es preveurà un sistema de desconnexió de la calefacció de cada aula o local mitjançant un programador.
 
 Durant el període d'ocupació habitual, cada local ha de disposar d'una regulació complementària, en funció de la temperatura interior, que no ha de ser mitjançant aixetes termostàtiques. La regulació i les sondes han de ser inaccessibles als alumnes.
 
@@ -633,8 +624,8 @@ S'ha d'instal·lar un rellotge horari programable audible als mateixos indrets q
 L'edifici ha de tenir una instal·lació de TV i ràdio amb els corresponents elements de captació i amplificació de senyal d'UHF, VHF i AM-FM i la línia i les preses de muntatge encastades. La instal·lació s'ha de fer amb cable coaxial i s'han d'instal·lar preses de TV i ràdio en els punts següents, com a mínim:
 
 Sala de professors
-
-Sala d'actes o polivalent / gimnàs Aules d'audiovisuals
+Sala d'actes o polivalent / gimnàs
+Aules d'audiovisuals
 
 #### Article 28
 
@@ -686,7 +677,7 @@ Els centres que imparteixin el nivell de primera ensenyança han d'incloure un e
 
 La biblioteca dels centres que alhora imparteixin els nivells de maternal i de primera ensenyança pot ser compartida. En aquest cas s'ha d'adequar un espai per a cada nivell.
 
-L'espai de biblioteca ha de tenir instal·lada la xarxa telefònica i informàtica 4 (2P+T) i RJ 46 (x) i RJ 46 (t)en el punt del personal de la biblioteca i dos blocs elèctrics de 4 endolls 2P+T i xarxa informàtica RJ46, connectada a l a xarxa informàtica del centre escolar.
+L'espai de biblioteca ha de tenir instal·lada la xarxa telefònica i informàtica 4 (2P+T) i RJ 46 (x) i RJ 46 (t) en el punt del personal de la biblioteca i dos blocs elèctrics de 4 endolls 2P+T i xarxa informàtica RJ46, connectada a la xarxa informàtica del centre escolar.
 
 #### Article 32
 ##### Biblioteca de 2a ensenyança i batxillerat
@@ -700,7 +691,7 @@ Les taules de treball dels alumnes han de tenir llum i connexió informàtica, p
 #### Article 33
 ##### Aula de música
 
-Cal que la sala de música estigui insonoritzada i disposi d'una protecció cont r a l a reverberació per evitar interferències amb la resta d'espais.
+Cal que la sala de música estigui insonoritzada i disposi d'una protecció contra la reverberació per evitar interferències amb la resta d'espais.
 
 Dotació de l'espai:
 
@@ -731,7 +722,7 @@ Per a les aules de música dels nivells de segona ensenyança i batxillerat es p
 #### Article 34
 ##### Aula de plàstica
 
-Abanda de tenir la dotació de l'aula de cada nivell d'ensenyament, l'aula ha de disposar d'uns punts d'aigua freda i calenta i dues piques de 80 cm de llarg i 40 cm d'ample.
+A banda de tenir la dotació de l'aula de cada nivell d'ensenyament, l'aula ha de disposar d'uns punts d'aigua freda i calenta i dues piques de 80 cm de llarg i 40 cm d'ample.
 
 Dotació de l'espai:
 
@@ -769,7 +760,7 @@ Cada lloc de treball ha de disposar de 4 preses elèctriques 2P+T i una presa in
 
 L'aula ha de tenir un quadre elèctric que protegeixi tots els punts de treball.
 
-L'aula ha de disposar d'un armari secundari de connexions informàtiques d'una mida de 19', 400 mm de fondària i amb 6 unitats lliures, on convergiran les connexions informàtiques dels llocs de treball de l'aula. Aquest armari ha de disposar d'una presa elèctrica 2P+T amb una protecció de 16 A. i d'una connexió al bastidor amb guies general de l'edifici.
+L'aula ha de disposar d'un armari secundari de connexions informàtiques d'una mida de 19”, 400 mm de fondària i amb 6 unitats lliures, on convergiran les connexions informàtiques dels llocs de treball de l'aula. Aquest armari ha de disposar d'una presa elèctrica 2P+T amb una protecció de 16 A. i d'una connexió al bastidor amb guies general de l'edifici.
 
 Els cablejats elèctrics o informàtics poden ser superficials o amagats però han de disposar sempre de les proteccions corresponents al tipus d'instal·lació escollida.
 
@@ -777,9 +768,7 @@ Cal que l'aula estigui protegida contra els enlluernaments.
 
 Dotació de l'espai:
 
-Taula de 140x80x65 cm per ordinador
-
-- i cadira per a cada alumne
+Taula de 140x80x65 cm per ordinador i cadira per a cada alumne
 
 - 1 taula i 1 cadira per al mestre
 
@@ -815,7 +804,7 @@ Les instal·lacions elèctrica, telefònica i informàtica han de ser les mateix
 
 ##### Sala polivalent
 
-La sala polivalent ha de tenir una superfície de 150 m 2 on es desenvolupin activitats amb diverses classes o reunions amb pares.
+La sala polivalent ha de tenir una superfície de 150 m² on es desenvolupin activitats amb diverses classes o reunions amb pares.
 
 Dotació de l'espai:
 
@@ -825,9 +814,7 @@ Dotació de l'espai:
 
 - 1 taula i 1 cadira per al mestre
 
-- 1 pantalla mural enrotllable, un suro i
-
-- 1 pissarra tipus Veleda.
+1 pantalla mural enrotllable, un suro i 1 pissarra tipus Veleda.
 
 Les instal·lacions elèctrica, telefònica i informàtica han de ser les mateixes que les descrites per a l'espai aula, amb el complement d'una presa d'antena de televisió i ràdio.
 
@@ -917,9 +904,7 @@ S'ha de preveure 1 bloc de 4 endolls 2P+T i una presa telefònica RJ46.
 
 Dotació de l'espai:
 
-- 1 taulell que permeti l'atenció al públic
-
-- i que es pugui tancar
+1 taulell que permeti l'atenció al públic i que es pugui tancar
 
 - 1 cadira per al conserge
 
@@ -941,7 +926,7 @@ Dotació de l'espai:
 
 - 2 taules
 
-- 1cadira
+1 cadira
 
 - 2 armaris
 
@@ -1030,12 +1015,10 @@ Aquest espai està destinat a l'atenció individualitzada o de petits grups d'al
 Dotació de l'espai:
 
 1 panell de suro
-
-- 1 despatx de treball per a l'orientador/a
-
-- 2 cadires confident
-
-1 taula de reunions petita 4 cadires confident.
+1 despatx de treball per a l'orientador/a
+2 cadires confident
+1 taula de reunions petita
+4 cadires confident.
 
 Cal preveure 3 endolls 2P+T i una presa telefònica RJ 46.
 
@@ -1129,23 +1112,15 @@ b) Les cuines han d'estar situades prop dels menjadors i s'han de preveure circu
 
 A banda de les àrees de neteja, preparació i cocció dels aliments i de les àrees de neteja de plats i estris, cal que es prevegi una zona de cambres frigorífiques que han de ser com a mínim una de fred positiu i una de fred negatiu. Els espais de les cambres frigorífiques i del rebost poden estar a l'exterior de la cuina però a menys de 15 metres de distància.
 
-Les cuines de maternal i primera ensenyança que donin servei a menys de 300 alumnes poden tenir una superfície mínima de 80 m 2 .
-
+Les cuines de maternal i primera ensenyança que donin servei a menys de 300 alumnes poden tenir una superfície mínima de 80 m².
 Els centres que imparteixin el nivell de maternal han de disposar d'un muntaplats des de la cuina fins a les plantes on hi hagi les aules de maternal.
-
-Les cuines de maternal i primera ensenyança que donin servei a més de 300 alumnes i totes les destinades a nivells de segona ensenyança o batxillerat han de tenir una superfície mínima de 100 m 2 .
-
+Les cuines de maternal i primera ensenyança que donin servei a més de 300 alumnes i totes les destinades a nivells de segona ensenyança o batxillerat han de tenir una superfície mínima de 100 m².
 c) Dins del local de la cuina o prop de l'àrea de recepció de les mercaderies, cal adequar un despatx que disposi de dos preses RJ46 i 1 bloc de 4 endolls 2 P+T.
-
-També cal disposar, prop de la cuina, d'un rebost d'una superfície mínima de 20 m 2 , i d'una zona de vestidors i sanitaris per al personal de la cuina. Els vestidors han de poder tenir un sanitari, un rentamans, una dutxa i una zona per a armaris individuals per al personal de la cuina i del menjador.
-
+També cal disposar, prop de la cuina, d'un rebost d'una superfície mínima de 20 m², i d'una zona de vestidors i sanitaris per al personal de la cuina. Els vestidors han de poder tenir un sanitari, un rentamans, una dutxa i una zona per a armaris individuals per al personal de la cuina i del menjador.
 A banda de les instal·lacions pròpies dels equipaments de la cuina, aquest local ha de comptar amb una presa RJ46.
-
-d) Els menjadors escolars han de tenir una superfície mínima de 100 m 2 per a centres amb una capacitat màxima de 200 alumnes. Per sobre d'aquesta capacitat, s'adopta com a norma una ràtio d'1 m 2 per alumne i per torn. Els menjadors han de tenir separacions acústiques verticals que absorbeixin el soroll.
-
+d) Els menjadors escolars han de tenir una superfície mínima de 100 m² per a centres amb una capacitat màxima de 200 alumnes. Per sobre d'aquesta capacitat, s'adopta com a norma una ràtio d'1 m² per alumne i per torn. Els menjadors han de tenir separacions acústiques verticals que absorbeixin el soroll.
 Es considera que tots els menjadors poden funcionar en torns per als nivells de maternal i de primera ensenyança i en torns o en flux continu per als nivells de segona ensenyança i batxillerat.
-
-Paral·lelament, també s'ha de preveure un menjador per als mestres de 50 m 2 que ha d'estar físicament separat del dels alumnes.
+Paral·lelament, també s'ha de preveure un menjador per als mestres de 50 m² que ha d'estar físicament separat del dels alumnes.
 
 Per als menjadors d'alumnes de segona ensenyança, de batxillerat i de formació professional s'ha de concebre la cuina amb una zona de distribució d'aliments del tipus autoservei, que ha d'incloure com a mínim un element calent, un element neutre, un element de fred i un distribuïdor de safates, coberts i pa. Aquests elements han de disposar de proteccions per tal d'evitar que els usuaris interfereixin en la qualitat dels aliments exposats.
 
@@ -1184,7 +1159,7 @@ Cal privilegiar l'accés directe de les aules dels alumnes de maternal als espai
 
 Cal preveure uns panys de paret prou importants per instal·lar les pissarres, taulers de suro, penjadors i mobles.
 
-Les aules han de tenir una superfície aproximada de 80 m 2 , incloent la superfície destinada a sanitaris. En els sistemes que optin per tenir un dormitori independent, la superfície conjunta de l'aula i del dormitori no pot excedir aquests límits.
+Les aules han de tenir una superfície aproximada de 80 m², incloent la superfície destinada a sanitaris. En els sistemes que optin per tenir un dormitori independent, la superfície conjunta de l'aula i del dormitori no pot excedir aquests límits.
 
 Dotació de l'espai:
 
@@ -1218,7 +1193,7 @@ Les aules destinades al nivell de maternal han de disposar de sanitaris accessib
 
 Tots els patis que han d'acollir alumnes d'edats compreses entre els 3 i els 6 anys, han de disposar de proteccions contra els angles vius de ferro, pedra o qualsevol altre revestiment dur. Els materials utilitzats poden ser aglomerats de cautxú o gomes destinades a aquest ús. En qualsevol cas, aquests materials han d'impedir els accidents greus. S'han de protegir les columnes sigui quina sigui la forma.
 
-Aquests espais han de disposar d'una àrea de joc d'uns 50 m 2 on s'instal·laran estructures elevades fins a 3 metres d'alçada més un radi suplementari de seguretat d'1 metre al voltant d'aquest volum, on no hi pot haver cap element constructiu.
+Aquests espais han de disposar d'una àrea de joc d'uns 50 m² on s'instal·laran estructures elevades fins a 3 metres d'alçada més un radi suplementari de seguretat d'1 metre al voltant d'aquest volum, on no hi pot haver cap element constructiu.
 
 Paral·lelament, les zones del pati que disposin d'àrees de joc elevades també han de tenir materials específics que absorbeixin els cops derivats de possibles caigudes des de les estructures esmentades. La superfície que s'ha de protegir i el gruix del material protector han de ser en funció de l'alçada i de l'àrea de seguretat determinada pel fabricant de l'equipament lúdic. Tant els equipaments de joc com els materials de protecció contra impactes han de respondre a les normes europees aplicables vigents.
 
@@ -1269,7 +1244,10 @@ Cada unitat ha de disposar del seu espai aula.
 
 Dotació de l'espai:
 
-Taula i cadira per a cada alumne 1 taula i 2 cadires per als mestres Pissarra 2 panells de suro
+Taula i cadira per a cada alumne
+1 taula i 2 cadires per als mestres
+Pissarra
+2 panells de suro
 
 [[END OF PAGE 13]]
 
@@ -1281,7 +1259,8 @@ Butlletí Oficial del Principat d'Andorra
 
 Núm. 59 - any 18 - 26.7.2006
 
-1 armari tancat amb clau 1 moble prestatge.
+1 armari tancat amb clau
+1 moble prestatge.
 
 #### Article 60
 
@@ -1289,7 +1268,7 @@ Núm. 59 - any 18 - 26.7.2006
 
 Les taules han d'estar concebudes per als treballs manuals i han de permetre el treball amb equips i eines de grans dimensions o pes. Així doncs, el mobiliari ha de ser resistent a l'aplicació de càrregues i cops i facilitar la neteja. L'alçada de la taula ha de permetre el treball dempeus i els alumnes han de disposar de tamborets regulables en alçada.
 
-Aquest espai ha de disposar d'un mínim de dues piques d'un metre de llargada amb tres punts d'aigua freda i cal e nta cadascuna amb l ' e n r a j o l a t corresponent. Les piques han d'estar separades entre si per un espai de 2 metres per col·locar-hi una superfície de treball.
+Aquest espai ha de disposar d'un mínim de dues piques d'un metre de llargada amb tres punts d'aigua freda i calenta cadascuna amb l'enrajolat corresponent. Les piques han d'estar separades entre si per un espai de 2 metres per col·locar-hi una superfície de treball.
 
 Les taules han de tenir dues preses elèctriques 2P+T. L'aula ha de disposar d'un quadre elèctric amb proteccions per a l'electrificació de les taules.
 
@@ -1336,7 +1315,7 @@ Per a les aules de llengua cal afegir la pissarra, que ha de ser magnètica, un 
 #### Article 62
 ##### Aula de tecnologia i laboratori fotogràfic
 
-A l'aula de tecnologia hi ha d'haver una cambra fosca de 20 m 2 per al laboratori fotogràfic, amb una pica amb aigua freda i calenta i 2 endolls 2P+T.
+A l'aula de tecnologia hi ha d'haver una cambra fosca de 20 m² per al laboratori fotogràfic, amb una pica amb aigua freda i calenta i 2 endolls 2P+T.
 
 Les taules han d'estar concebudes per als treballs manuals i han de permetre el treball amb equips i eines de grans dimensions o pes. Així doncs, el mobiliari ha de ser resistent a l'aplicació de càrregues i cops. L'alçada de la taula ha de permetre el treball dempeus, fet pel qual les taules han de tenir una alçada de 90 cm. Els alumnes han de disposar de tamborets regulables en alçada.
 
@@ -1360,7 +1339,7 @@ Dotació de l'espai:
 
 ##### Laboratori de segona ensenyança i batxillerat
 
-L'aula utilitzada com a laboratori ha de tenir un magatzem de 5 m 2 amb ventilació pròpia per guardar el material.
+L'aula utilitzada com a laboratori ha de tenir un magatzem de 5 m² amb ventilació pròpia per guardar el material.
 
 El recobriment de les parets ha de resistir les friccions i els cops, així com el recobriment de les taules, que ha de ser resistent a l'àcid. El mobiliari ha de ser resistent als cops i fàcil de netejar.
 
@@ -1384,7 +1363,7 @@ Instal·lació de 2 blocs de 4 endolls 2P+T amb cablejat estructurat informàtic
 
 Instal·lació d'una campana extractora específica per a gasos amb conductes d'evacuació.
 
-Es preveu la instal·lació de 4 aigüeres ambaigua freda i calenta, entre les taules o a la paret amb l'enrajolat corresponent. A més cal preveure un taulell per assecar el material net.
+Es preveu la instal·lació de 4 aigüeres amb aigua freda i calenta, entre les taules o a la paret amb l'enrajolat corresponent. A més cal preveure un taulell per assecar el material net.
 
 Al magatzem cal afegir-hi 2 endolls 2P+T i una prestatgeria metàl·lica.
 
@@ -1398,7 +1377,7 @@ Tots els espais docents d'aquest nivell educatiu han de disposar a l'aula d'una 
 
 ##### Espai aula, aula d'optatives
 
-Cada unitat ha de disposar del seu espai aula. La superfície mínima de les aules de batxillerat ha de ser de 60 m 2 .
+Cada unitat ha de disposar del seu espai aula. La superfície mínima de les aules de batxillerat ha de ser de 60 m².
 
 Dotació de l'espai:
 
@@ -1438,9 +1417,7 @@ Pissarra
 
 - 2 panells de suro
 
-- 1 cadira per a cada alumne adaptada a
-
-- l'alçada dels usuaris
+1 cadira per a cada alumne adaptada a l'alçada dels usuaris
 
 - 1 cadira per al professor
 
@@ -1451,7 +1428,7 @@ Les taules i els llocs de treball poden tenir una disposició convencional o pod
 #### Article 66
 ##### Aula d'arts plàstiques i gràfiques
 
-L'aula d'arts plàstiques i gràfiques ha de tenir una superfície de 120 m 2 si es tracta d'una aula o 2 aules contigües de 60 m 2 : una per a plàstica i una altra amb ordinadors per al dibuix assistit per ordinador.
+L'aula d'arts plàstiques i gràfiques ha de tenir una superfície de 120 m² si es tracta d'una aula o 2 aules contigües de 60 m²: una per a plàstica i una altra amb ordinadors per al dibuix assistit per ordinador.
 
 Cal preveure la instal·lació d'una pica rentamans de 100 cm de llarg amb tres aixetes d'aigua freda i calenta i amb la paret del voltant enrajolada i la resta de paret ha de tenir un recobriment que es pugui netejar amb facilitat. Cal instal·lar una ventilació alta i una de baixa.
 
@@ -1504,13 +1481,15 @@ Cal la instal·lació de 8 blocs 2P+T de xarxa informàtica 2RJ46, connectada a 
 #### Article 68
 ##### Aula de dibuix tècnic
 
-L'aula per a les activitats de dibuix i pintura ha de tenir una superfície mínima de 70 m 2 amb una part que servirà com a magatzem del material.
+L'aula per a les activitats de dibuix i pintura ha de tenir una superfície mínima de 70 m² amb una part que servirà com a magatzem del material.
 
 El mobiliari ha de facilitar la neteja de taques de pintura.
 
 Dotació de l'espai:
 
-Pissarra Pissarra blanca tipus Veleda 2 panells de suro
+Pissarra
+Pissarra blanca tipus Veleda
+2 panells de suro
 
 Taula i cadira per a cada alumne adaptada a l'alçada dels usuaris. (Les taules poden ser substituïdes per cavallets o taules reclinables i les cadires per tamborets)
 
@@ -1528,11 +1507,15 @@ Cal la instal·lació d'una pica rentamans de 100 cm de llarg amb tres aixetes d
 
 ##### Aula de comunicació audiovisual
 
-Aula de 120 m 2 amb 7 o 8 box aïllats i equipats amb aparells d'imatge, so i il·luminació.
+Aula de 120 m² amb 7 o 8 box aïllats i equipats amb aparells d'imatge, so i il·luminació.
 
 Dotació de l'espai:
 
-Pissarra Pissarra blanca tipus Veleda 2 panells de suro Taula i cadira per a cada alumne adaptada a l'alçada dels usuaris. 1 armari específic per guardar els equipaments audiovisuals
+Pissarra
+Pissarra blanca tipus Veleda
+2 panells de suro
+Taula i cadira per a cada alumne adaptada a l'alçada dels usuaris.
+1 armari específic per guardar els equipaments audiovisuals
 
 - 1 taula i 1 cadira per al professor.
 
@@ -1543,7 +1526,7 @@ Protecció de l'espai contra l'enlluernament i enfosquiment total de l'espai.
 #### Article 70
 ##### Laboratori de fotografia
 
-Aula per realitzar activitats de revelat i treball sobre fotografies amb una superfície útil de 30 m 2 , dividida en una zona humida dotada amb una pica de doble cos amb aigua calenta i freda, i un espai per deixar les cubetes.
+Aula per realitzar activitats de revelat i treball sobre fotografies amb una superfície útil de 30 m², dividida en una zona humida dotada amb una pica de doble cos amb aigua calenta i freda, i un espai per deixar les cubetes.
 
 Dotació del l'espai:
 
@@ -1675,10 +1658,10 @@ Butlletí Oficial del Principat d'Andorra
 ## Annex I
 ### Escoles de maternal
 
-Línia | 1 | 2 | 3 | 4
+ | Línia | 1 | 2 | 3 | 4
 --- | --- | --- | --- | --- | ---
-Alumnes | 100 | 200 | 300 | 400
-Sup.M 2 | Nre. espais | Nre. espais | Nre. espais | Nre. espais
+ | Alumnes | 100 | 200 | 300 | 400
+ | Sup. M² | Nre. espais | Nre. espais | Nre. espais | Nre. espais
 Aules
 Aules de maternal amb bany | 80 | 4 | 8 | 12 | 16
 Aules suplementàries | 70 | 2 | 2 | 2 | 2
@@ -1689,8 +1672,8 @@ Biblioteca | 100 | 0 | 1 | 1 | 1
 Sala polivalent | 150 | 1 | 1 | 1 | 1
 Sala de psicomotricitat | 120 | 1 | 1 | 2 | 2
 Ludoteca | 70 | 1 | 1 | 1 | 1
-Dependències | complementàries
-Cuina + despatx | 80 + 10 | 1 | 1 | 1 (100+10 m 2 ) | 1 (100+10 m 2 )
+Dependències complementàries
+Cuina + despatx | 80 + 10 | 1 | 1 | 1 (100+10 m²) | 1 (100+10 m²)
 Vestidor amb dutxa cuina | 10 | 1 | 1 | 1 | 1
 Rebost | 20 | 1 | 1 | 1 | 2
 Menjador alumnes | 100 | 1 | 2 | 2 | 3
@@ -1698,7 +1681,7 @@ Menjador mestres | 50 | 1 | 1 | 1 | 1
 Sanitaris h/d per alumnes | 15 | En funció de la capacitat dels menjadors
 Despatx mèdic | 10 | 1 | 1 | 1 | 1
 Instal·lacions | 15 | En funció de les necessitats
-Administració i | professorat
+Administració i professorat
 Despatx direcció i cap estudis | 45 | 1 | 1 | 1 | 1
 Despatx administració + arxiu | 40+10 | 1 | 1 | 1 | 1
 Sales de visita | 10 | 2 | 2 | 3 | 4
@@ -1710,7 +1693,7 @@ Sanitaris adults | 10 | En funció dels despatxos
 Sales de mestres | 60 | 1 | 1 | 2 | 2
 Sala de material | 40 | 1 | 1 | 1 | 1
 Magatzem | 15 | 1 | 1 | 2 | 2
-Altres espais | interiors
+Altres espais interiors
 Pati cobert | 300 | 1 | 1 | 1 | 1
 Altres espais exteriors
 Pati exterior | 550 | 1 | 1 | 2 | 2
@@ -1729,9 +1712,10 @@ Núm. 59 - any 18 - 26.7.2006
 ## Annex II
 ### Escoles de primera ensenyança
 
-Línia | 1 | 2 | 3 | 4
+ | Línia | 1 | 2 | 3 | 4
 --- | --- | --- | --- | --- | ---
-Alumnes | 150 | 300 | 450 | 600
+ | Alumnes | 150 | 300 | 450 | 600
+ | Sup. M² | Nre. espais | Nre. espais | Nre. espais | Nre. espais
 Aules
 Aules de primària | 70 | 6 | 12 | 18 | 24
 Aules suplementàries | 70 | 2 | 3 | 3 | 4
@@ -1746,20 +1730,20 @@ Sala audiovisuals | 60 | 1 | 1 | 1 | 1
 Sala polivalent | 150 | 1 | 1 | 2 | 2
 Aula tecnologia i laboratori | 70 | 1 | 1 | 2 | 2
 Aula de llengües | 50 | 2 | 4 | 5 | 6
-Dependències | complementàries
+Dependències complementàries
 Gimnàs | 400 | 1 | 1 | 1 | 1
 Vestuari | 40 | 2 | 2 | 2 | 2
 Magatzem vestuari | 50 | 1 | 1 | 1 | 1
-Cuina + despatx | 80 + 10 | 1 | 1 | 1 (100+10 m 2 ) | 1 (100+10 m
-Cuina | 80 | 1 | 1 | 1 (100 m 2 ) | 1 (100 m 2 )
+Cuina + despatx | 80 + 10 | 1 | 1 | 1 (100+10 m²) | 1 (100+10 m²)
+Cuina | 80 | 1 | 1 | 1 (100 m²) | 1 (100 m²)
 Vestidor amb dutxa cuina | 10 | 1 | 1 | 1 | 1
 Rebost | 20 | 1 | 1 | 2 | 2
 Menjador alumnes | 100 | 2 | 3 | 4 | 4
 Menjador mestres | 50 | 1 | 1 | 1 | 1
-Sanitaris h/d per alumnes | 15 | En | funció de la capacitat dels menjadors
+Sanitaris h/d per alumnes | 15 | En funció de la capacitat dels menjadors
 Despatx mèdic | 10 | 1 | 1 | 1 | 1
 Instal·lacions | 15 | En funció de les necessitats
-Administració i | professorat
+Administració i professorat
 Despatx direcció i cap estudis | 45 | 1 | 1 | 1 | 1
 Despatx administració + arxiu | 40+10 | 1 | 1 | 1 | 1
 Sales de visites | 10 | 2 | 4 | 6 | 6
@@ -1773,7 +1757,7 @@ Sala de material | 40 | 1 | 1 | 1 | 1
 Magatzem | 15 | 1 | 1 | 2 | 2
 Altres espais interiors
 Pati cobert | 300 | 1 | 1 | 2 | 2
-Altres espais | exteriors
+Altres espais exteriors
 Pati exterior | 550 | 1 | 1 | 2 | 2
 Aparcament per a vehicles | En funció de les possibilitats
 
@@ -1790,10 +1774,10 @@ Butlletí Oficial del Principat d'Andorra
 ## Annex III
 ### Escoles de segona ensenyança
 
-Línia | 1 | 2 | 3 | 4
---- | --- | --- | --- | --- | --- | ---
-Alumnes | 120 | 240 | 360 | 480
-Sup.M 2 | Nre. espais | Nre. espais | Nre. espais | Nre. espais
+ | Línia | 1 | 2 | 3 | 4
+--- | --- | --- | --- | --- | ---
+ | Alumnes | 120 | 240 | 360 | 480
+ | Sup. M² | Nre. espais | Nre. espais | Nre. espais | Nre. espais
 Aules
 Aules lectives | 60 | 4 | 8 | 12 | 16
 Aules optatives | 60 | 2 | 4 | 6 | 6
@@ -1810,7 +1794,7 @@ Sala polivalent | 200 | 1 | 1 | 1 | 1
 Aula tecnologia i lab. fotogràfic | 70 + 20 | 1 | 2 | 2 | 3
 Laboratori | 120 | 1 | 1 | 1 | 2
 Aula de llengües | 50 | 2 | 4 | 6 | 8
-Dependències | complementàries
+Dependències complementàries
 Gimnàs | 400 | 1 | 1 | 1 | 1
 Vestuari | 40 | 2 | 2 | 2 | 2
 Magatzem vestuari | 50 | 1 | 1 | 1 | 1
@@ -1818,27 +1802,29 @@ Cuina + despatx | 100 + 10 | 1 | 1 | 1 | 1
 Vestidor amb dutxa cuina | 10 | 1 | 1 | 1 | 1
 Rebost | 20 | 1 | 1 | 2 | 2
 Menjador alumnes | 150 | 1 | 1 | 2 | 2
-Menjador mestres | 50 | 1 (25 m 2 ) | 1 | 1 | 1
-Sanitaris h/d | 15 | En | funció de la capacitat | dels menjadors
-15 | En funció de | les necessitats
-Despatx | mèdic | 10 | 1 | 1 | 1 | 1
-Administració i professorat Despatx Despatx | Instal·lacions direcció i cap estudis administració + arxiu | 45 40+10 | 1 1 | 1 1 | 1 1 | 1 1
+Menjador mestres | 50 | 1 (25 m²) | 1 | 1 | 1
+Sanitaris h/d | 15 | En funció de la capacitat dels menjadors
+Despatx mèdic | 10 | 1 | 1 | 1 | 1
+Instal·lacions | 15 | En funció de les necessitats
+Administració i professorat
+Despatx direcció i cap estudis | 45 | 1 | 1 | 1 | 1
+Despatx administració + arxiu | 40+10 | 1 | 1 | 1 | 1
 Sales de visites | 10 | 1 | 1 | 1 | 2
 Consergeria | 15 | 1 | 1 | 1 | 1
 Sala de reprografia | 15 | 1 | 1 | 1 | 1
 Despatx psicopedagog | 15 | 1 | 1 | 1 | 1
-Sala de reunions | 30 | 1 | 1 En funció dels | 1 | 2
-Sanitaris adults | 10 | despatxos
+Sala de reunions | 30 | 1 | 1 | 1 | 2
+Sanitaris adults | 10 | En funció dels despatxos
 Sales de professors | 60 | 1 | 2 | 2 | 2
 Sala de material | 40 | 1 | 1 | 1 | 1
 Magatzem | 15 | 1 | 1 | 2 | 2
 Seminaris | 15 | 4 | 4 | 6 | 6
-Altres espais | interiors
+Altres espais interiors
 Pati cobert | 300 | 1 | 1 | 2 | 2
-Sala alumnes / ludoteca | 80 | 1 (50m 2 ) | 1 | 2 | 2
-Altres espais | exteriors
+Sala alumnes / ludoteca | 80 | 1 (50m²) | 1 | 2 | 2
+Altres espais exteriors
 Pati exterior | 550 | 1 | 1 | 2 | 2
-Aparcament per a vehicles | En funció de les | possibilitats
+Aparcament per a vehicles | En funció de les possibilitats
 
 [[END OF PAGE 19]]
 
@@ -1850,13 +1836,17 @@ Butlletí Oficial del Principat d'Andorra
 
 Núm. 59 - any 18 - 26.7.2006
 
-Línia | 1 | 2
+## Annex IV
+### Escoles de Batxillerat i Formació Professional (excepte espais docents específics)
+
+ | Línia | 1 | 2
 --- | --- | --- | ---
-Alumnes | 240 | 480
-Aules | Sup.M | Nre. espais | Nre. espais
+ | Alumnes | 240 | 480
+ | Sup. M² | Nre. espais | Nre. espais
+Aules
 Aules lectives | 60 | 10 | 20
 Aules optatives | 60 | 5 | 10
-Sanitaris h/d per planta | 15 | En funció del nombre | d'alumnes
+Sanitaris h/d per planta | 15 | En funció del nombre d'alumnes
 Docent específic
 Biblioteca centre documentació | 120 + 25 | 1 | 1
 Aula d'informàtica | 60 | 2 | 2
@@ -1873,7 +1863,7 @@ Laboratori fotografia | 30 | 1 | 1
 Aula de llengües | 50 | 4 | 6
 Aula de multimèdia | 100 | 1 | 2
 Aula de realització audiovisuals | 120 | 1 | 2
-Dependències | complementàries
+Dependències complementàries
 Gimnàs | 400 | 1 | 1
 Vestuari | 40 | 2 | 2
 Magatzem vestuari | 50 | 1 | 1
@@ -1882,7 +1872,7 @@ Vestidor amb dutxa cuina | 10 | 1 | 1
 Rebost | 20 | 1 | 1
 Menjador alumnes | 150 | 1 | 2
 Menjador mestres | 50 | 1 | 1
-Sanitaris h/d | 15 | En funció de la capacitat | dels menjadors
+Sanitaris h/d | 15 | En funció de la capacitat dels menjadors
 Despatx mèdic | 10 | 1 | 1
 Instal·lacions | 15 | En funció de les necessitats
 Administració i professorat
@@ -1905,10 +1895,7 @@ Pati cobert | 300 | 1 | 1
 Sala alumnes / ludoteca | 80 | 1 | 1
 Altres espais exteriors
 Pati exterior | 550 | 1 | 2
-Aparcament per a vehicles | En funció de les | possibilitats
-
-## Annex IV
-### Escoles de Batxillerat i Formació Professional (excepte espais docents específics)
+Aparcament per a vehicles | En funció de les possibilitats
 
 [[END OF PAGE 20]]
 
