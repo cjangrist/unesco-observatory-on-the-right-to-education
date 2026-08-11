@@ -6,7 +6,7 @@ Dixième consultation des États membres sur l'application de la Convention et d
 
 ## PRINCIPES DIRECTEURS POUR L'ÉTABLISSEMENT DES RAPPORTS DES ÉTATS MEMBRES SUR L'APPLICATION DE LA CONVENTION ET DE LA RECOMMANDATION CONCERNANT LA LUTTE CONTRE LA DISCRIMINATION DANS LE DOMAINE DE L'ENSEIGNEMENT (1960)
 
-Approuvés par le Conseil exécutif de l'UNESCO à sa 207 e session en octobre 2019
+Approuvés par le Conseil exécutif de l'UNESCO à sa 207e session en octobre 2019
 
 ### 1. Introduction
 
@@ -24,11 +24,13 @@ La nature juridique des obligations découlant de la Convention diffère à plus
 
 Compte tenu des différences de formulation et de portée juridique dues à la nature même de ces deux instruments, la teneur de la Recommandation et celle de la Convention sont identiques. Les États  membres  doivent  donner  effet  à  l'un  ou  l'autre  de  ces  instruments  dans  leur  législation nationale et dans leurs politiques de l'éducation.
 
-Par-dessus tout, les dispositions relatives à l'obligation de soumettre des rapports de l'article VII de la Convention et de l'article correspondant de la Recommandation sont les mêmes. L'article VIII de l'Acte constitutif de l'UNESCO dispose que « Chaque État membre adresse à l'Organisation, aux dates  et  sous  la  forme  que  déterminera  la  Conférence  générale,  des  rapports  sur  les  lois,  les règlements et statistiques relatifs à ses institutions et à son activité dans l'ordre de l'éducation, de la science et de la culture, ainsi que sur la suite donnée aux recommandations et conventions visées à l'article IV, paragraphe 4 » . Par conséquent, même si un État n'est pas partie à la Convention, il doit soumettre un rapport sur l'application de la Recommandation, ce qui signifie que tous les États membres de l'UNESCO sont censés soumettre un rapport national sur l'application de l'un ou l'autre de ces instruments dans le cadre des consultations de suivi.
+Par-dessus tout, les dispositions relatives à l'obligation de soumettre des rapports de l'article VII de la Convention et de l'article correspondant de la Recommandation sont les mêmes. L'article VIII de l'Acte constitutif de l'UNESCO dispose que « Chaque État membre adresse à l'Organisation, aux dates et sous la forme que déterminera la Conférence générale, des rapports sur les lois, les règlements et statistiques relatifs à ses institutions et à son activité dans l'ordre de l'éducation, de la
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+science et de la culture, ainsi que sur la suite donnée aux recommandations et conventions visées à l'article IV, paragraphe 4 ». Par conséquent, même si un État n'est pas partie à la Convention, il doit soumettre un rapport sur l'application de la Recommandation, ce qui signifie que tous les États membres de l'UNESCO sont censés soumettre un rapport national sur l'application de l'un ou l'autre de ces instruments dans le cadre des consultations de suivi.
 
 ### 3. Participation aux consultations
 
@@ -46,7 +48,7 @@ La  durée  de  la  période  d'établissement  des  rapports  au  titre  de  la
 
 Les  États  membres  qui  ont  déjà  soumis  un  rapport  dans  le  cadre  de  la  neuvième consultation (2016-2017) sont invités à s'y référer le cas échéant. Les informations pertinentes soumises lors d'autres exercices de présentation de rapports peuvent être reproduites ou faire l'objet d'un renvoi indiquant précisément où les consulter. De même, des liens vers tous documents utiles ou textes juridiques ou politiques pertinents seront les bienvenus ; certains textes peuvent également être joints en annexe au rapport.
 
-Lors de l'établissement des rapports, il est demandé aux États membres de bien vouloir être brefs et concis, tout en fournissant de plus amples détails sur telle ou telle question lorsqu'ils le jugent nécessaire. Outre la description du cadre constitutionnel, législatif, administratif et politique mis en place aux fins de l'application des dispositions garanties par les instruments, ils doivent expliquer comment leurs dispositions législatives et leurs pratiques donnent effet à la Convention ou à la Recommandation.
+Lors de l'établissement des rapports, il est demandé aux États membres de bien vouloir être brefs et concis, tout en fournissant de plus amples détails sur telle ou telle question lorsqu'ils le jugent nécessaire. Outre la description du cadre constitutionnel, législatif, administratif et politique mis en
 
 > 1 Il est à noter que les rapports concernant l'application de la Recommandation de 1974 sur l'éducation pour la compréhension, la coopération et la paix internationales et l'éducation relative aux droits de l'homme et aux libertés fondamentales servent au suivi spécifique de la cible 4.7. La consultation relative à la Convention et à la Recommandation de 1960 contribue de manière plus générale à la collecte de données aux fins du suivi de toutes les cibles de l'ODD 4.
 
@@ -54,13 +56,15 @@ Lors de l'établissement des rapports, il est demandé aux États membres de bie
 
 [[START OF PAGE 3]]
 
+place aux fins de l'application des dispositions garanties par les instruments, ils doivent expliquer comment leurs dispositions législatives et leurs pratiques donnent effet à la Convention ou à la Recommandation.
+
 ### 5. Modalités
 
 Afin  de  simplifier  les  principes  directeurs  tout  en  apportant  aux  États  membres  les  indications indispensables pour les guider dans la formulation de leurs réponses, il est proposé deux séries de questions/remarques :
 
-- Des  questions  ouvertes  ou  fermées  auxquelles  les  États  membres  sont  invités  à répondre  directement  à  l'issue  d'un  processus  participatif.  Veuillez  noter  qu'il  est possible, le cas échéant, de fournir des réponses multiples.
+(1) Des questions ouvertes ou fermées auxquelles les États membres sont invités à répondre directement à l'issue d'un processus participatif. Veuillez noter qu'il est possible, le cas échéant, de fournir des réponses multiples.
 
-- Des indications additionnelles visant à aider les États membres à mieux structurer et détailler leurs réponses aux questions ouvertes (y compris des remarques sur la manière de répondre efficacement aux questions posées). Ces indications sont en italiques.
+(2) Des indications additionnelles visant à aider les États membres à mieux structurer et détailler leurs réponses aux questions ouvertes (y compris des remarques sur la manière de répondre efficacement aux questions posées). Ces indications sont en italiques.
 
 Les États membres sont encouragés à répondre de manière concise, tout en veillant à la substance et à la pertinence de leurs réponses.
 
@@ -76,21 +80,21 @@ Royaume du Maroc
 
 Organisation(s)  ou  entité(s)  chargée(s)  de  l'établissement  du  rapport : Commission nationale pour l'Education, les Sciences et la Culture
 
-## Renseignements sur les mesures législatives, judiciaires, administratives ou autres prises par l'État au niveau national
+## I. Renseignements sur les mesures législatives, judiciaires, administratives ou autres prises par l'État au niveau national
 
-### Ratification de la Convention 2
+### 1. Ratification de la Convention 2
 
 Votre pays est-il un État partie à la Convention ?
 
 ü Oui
 
-### Ratification du Protocole 3 instituant une Commission de conciliation et de bons offices chargée de rechercher la solution des différends qui naîtraient entre États parties à la Convention concernant la lutte contre la discrimination dans le domaine de l'enseignement
+### 2. Ratification du Protocole 3 instituant une Commission de conciliation et de bons offices chargée de rechercher la solution des différends qui naîtraient entre États parties à la Convention concernant la lutte contre la discrimination dans le domaine de l'enseignement
 
 Votre pays a-t-il ratifié le Protocole ?
 
 ü Oui
 
-### Cadre juridique régissant la protection des droits garantis par la Convention et la Recommandation dans le système juridique national
+### 3. Cadre juridique régissant la protection des droits garantis par la Convention et la Recommandation dans le système juridique national
 
 Si votre pays est un État partie à la Convention :
 
@@ -122,11 +126,11 @@ Dans l'affirmative, veuillez donner des exemples de précédents ou de jurisprud
 
 [[START OF PAGE 5]]
 
-## Renseignements concernant l'application de la Convention ou de la Recommandation
+## II. Renseignements concernant l'application de la Convention ou de la Recommandation
 
 ### 1. Non-discrimination et égalité des chances en matière d'éducation dans le cadre de l'Objectif de développement durable 4 (ODD 4)
 
-Les articles / paragraphes 1(1), 2 et 3 de la Convention / Recommandation prévoient la nondiscrimination et l'égalité des chances en matière d'éducation. Cette partie porte sur l'objet principal  de  la  Convention/Recommandation, c'est-à-dire souligner l'obligation qui incombe aux États de proscrire toute forme de discrimination dans le domaine de l'enseignement tout en promouvant l'égalité des chances en matière d'éducation.
+Les articles / paragraphes 1(1), 2 et 3 de la Convention / Recommandation prévoient la non-discrimination et l'égalité des chances en matière d'éducation. Cette partie porte sur l'objet principal de la Convention/Recommandation, c'est-à-dire souligner l'obligation qui incombe aux États de proscrire toute forme de discrimination dans le domaine de l'enseignement tout en promouvant l'égalité des chances en matière d'éducation.
 
 Cette obligation correspond à l'ambition globale énoncée dans l'ODD 4, à savoir « assurer l'accès de tous à une éducation de qualité, sur un pied d'égalité, et promouvoir les possibilités  d'apprentissage  tout  au  long  de  la  vie » d'ici  à  2030.  Elle  couvre  donc l'ensemble des cibles de l'ODD 4, mais aussi, plus particulièrement, la cible 4.5 4 .
 
@@ -370,43 +374,43 @@ anniversaire de la Marche Verte. Rabat, le 6 novembre 2013.
 
 [[START OF PAGE 8]]
 
-#### 1.2 Veuillez indiquer les mesures prises par votre Gouvernement pour garantir l'égalité d'accès à tous les degrés et types d'enseignement dans votre pays (il est possible de cocher/mentionner plusieurs catégories de mesures) :
-
-- ü Dispositions  inscrites  dans  la  constitution  et/ou  lois  garantissant  l'égalité  d'accès  à l'enseignement
-
-- ü Règlements assurant l'égalité d'accès à tous les degrés et types d'enseignement
-
-- ü Politiques  et  programmes  assurant  l'égalité  d'accès  à  tous  les  degrés  et  types d'enseignement
-
-- ü Autres :
-
-###### Vision stratégique de la réforme, 2015-2030, pour une école de l'équité, de la qualité et de la promotion :
+###### 3. Vision stratégique de la réforme, 2015-2030, pour une école de l'équité, de la qualité et de la promotion :
 
 a. Les références d'orientation :
 
-« ….  Les  conventions  internationales  ratifiées,  les  traités  internationaux  inhérents  à l'éducation, à la formation et à la recherche scientifique, aux droits humains, à l'égalité entre les sexes, aux droits des personnes handicapées et des personnes en situations spécifiques et à la non-discrimination quelle qu'en soit l'origine. »
+« …. Les conventions internationales ratifiées, les traités internationaux inhérents à l'éducation, à la formation et à la recherche scientifique, aux droits humains, à l'égalité entre les sexes, aux droits des personnes handicapées et des personnes en situations spécifiques et à la non-discrimination quelle qu'en soit l'origine. »
 
-###### Loi-cadre  n°  51-17,  relative  au  système  de  l'éducation,  de  la  formation  et  de  la recherche scientifiques :
+###### 4. Loi-cadre n° 51-17, relative au système de l'éducation, de la formation et de la recherche scientifiques :
 
 Article 2 :
 
-« L'équité et l'égalité des chances : Garantie du droit d'accès généralisé aux établissements de l'éducation, de l'enseignement et de la formation, en assurant une place pédagogique à tous,  selon  les  mêmes  critères  de  qualité  et  d'efficience,  et  sans  aucune  forme  de discrimination. »
+« L'équité et l'égalité des chances : Garantie du droit d'accès généralisé aux établissements de l'éducation, de l'enseignement et de la formation, en assurant une place pédagogique à tous, selon les mêmes critères de qualité et d'efficience, et sans aucune forme de discrimination. »
 
 Article 4 :
 
-« Le  système  de  l'éducation,  de  l'enseignement,  de  la  formation  et  de  la  recherche scientifiques, est basé sur les principes suivants :
+« Le système de l'éducation, de l'enseignement, de la formation et de la recherche scientifiques, est basé sur les principes suivants :
 
-… Les valeurs et les principes des droits  de  l'Homme,  tels  qu'ils  sont  énoncés  dans  la
+… Les valeurs et les principes des droits de l'Homme, tels qu'ils sont énoncés dans la
 
 Constitution et dans les conventions internationales, signées ou ratifiées par le Royaume,
 
 notamment celles relatives à l'enseignement, à la formation et à la recherche scientifique. »
 
-###### Loi n° 01-00, portant organisation de l'enseignement supérieur
+###### 5. Loi n° 01-00, portant organisation de l'enseignement supérieur
 
 Article 1 :
 
-L'enseignement  supérieur  « est  exercé  selon  les  principes  de  droits  de  l'Homme,  de  la tolérance, de la liberté de pensée et de création, et ce, dans le strict respect des règles et des valeurs académiques, … »
+L'enseignement supérieur « est exercé selon les principes de droits de l'Homme, de la tolérance, de la liberté de pensée et de création, et ce, dans le strict respect des règles et des valeurs académiques, … »
+
+#### 1.2 Veuillez indiquer les mesures prises par votre Gouvernement pour garantir l'égalité d'accès à tous les degrés et types d'enseignement dans votre pays (il est possible de cocher/mentionner plusieurs catégories de mesures) :
+
+- ü Dispositions inscrites dans la constitution et/ou lois garantissant l'égalité d'accès à l'enseignement
+
+- ü Règlements assurant l'égalité d'accès à tous les degrés et types d'enseignement
+
+- ü Politiques et programmes assurant l'égalité d'accès à tous les degrés et types d'enseignement
+
+- ü Autres :
 
 [[END OF PAGE 8]]
 
@@ -674,8 +678,7 @@ Dans le cadre du projet 4, afin d'améliorer l'accès à l'enseignement supérie
 
 [[START OF PAGE 13]]
 
-§ | Le renforcement de la capacité d'accueil d'hébergement et de restauration des étudiants avec des coûts supportés principalement par l'Etat (plus de 95 %).
---- | ---
+§ Le renforcement de la capacité d'accueil d'hébergement et de restauration des étudiants avec des coûts supportés principalement par l'Etat (plus de 95 %).
 
 -  Veuillez  donner  de  plus  amples  détails  sur  les  mesures  prises,  notamment  pour  assurer l'égalité des genres et l'autonomisation des filles et des femmes dans et par l'éducation :
 
@@ -1541,7 +1544,7 @@ La validation des acquis de l'expérience professionnelle (VAEP) a pour objectif
 
 Dans le domaine de la Formation professionnelle, La validation des acquis de l'expérience professionnelle  (VAEP)  est  une  formation  en  cours  d'emploi  permettant  aux  salariés  le développement de leurs compétences et leurs qualifications en adéquation aux évolutions du marché du travail et de bénéficier d'une promotion professionnelle. Elle permet aussi aux entreprises d'améliorer leur productivité et leur compétitivité. La loi 60.17 portant organisation de la formation continue au profit des salariés du secteur privé et certaines catégories du personnel des Etablissements et Entreprises Publics et les personnes, autres que des salariés, exerçants une activité particulière, prévoit l'élargissement de la couverture du système à des nouvelles catégories de bénéficiaires notamment les salariés ayant perdu leurs emplois et les travailleurs non-salariés dont la liste sera arrêtée par un texte d'application. Par  ailleurs,  dans  l'enseignement  supérieur,  la  formation  tout  au  long  de  la  vie (FTLV) revêt  une  importance  cruciale  qui  pousse  les  institutions  à  proposer  des offres de formation avec un effort soutenu d'amélioration de la qualité, répondant à la diversité des demandes et défiant toute considération régionale ou nationale. la FTLV fait l'objet d'une préoccupation majeure au Maroc: -La Charte Nationale de l'Education et de la Formation, en particulier les articles 52 à 59 préconisent entre autres le droit et le devoir de la formation tout au long de la vie et la validation des qualifications et la reconnaissance des acquis par
 
-- les bilans de compétences ;
+les bilans de compétences ;
 
 [[END OF PAGE 24]]
 
@@ -2063,7 +2066,7 @@ Des informations peuvent également être données concernant les possibilités 
 
 Les droits des réfugiés et des migrants ne sont pas explicitement prévus dans la Convention / Recommandation. Cependant, la  Convention  et  la  Recommandation  appellent  les  États  à éliminer et prévenir la discrimination fondée notamment sur l'origine nationale 14 . À cet égard, un  certain  nombre  d'États  membres  ayant  participé  à  la  neuvième consultation  ont  rendu compte de mesures adoptées par eux pour assurer le droit à l'éducation des réfugiés et des migrants.  L'ampleur  croissante  des  déplacements  de  population  et  de  l'afflux  de  réfugiés partout dans le monde et l'émergence de défis éducatifs majeurs dans ce domaine, ainsi que les cadres récemment adoptés par la communauté internationale 15 ,montrent l'utilité pour les États de rendre compte des mesures adoptées par eux en vue d'inclure les réfugiés et les migrants dans leur système éducatif.
 
-Cette rubrique correspond en outre à la cible 4.5, qui appelle les États à « assurer l'égalité d'accès des personnes vulnérables, y compris les (...) enfants en situation vulnérable, à tous les niveaux d'enseignement et de formation professionnelle », et couvre la majorité des cibles de l'ODD 4. Veuillez décrire succinctement le cadre juridique et politique qui protège le droit des réfugiés
+Cette rubrique correspond en outre à la cible 4.5, qui appelle les États à « assurer l'égalité d'accès des personnes vulnérables, y compris les (...) enfants en situation vulnérable, à tous
 
 > 14 Articles/paragraphes 1 et 3.
 
@@ -2073,7 +2076,9 @@ Cette rubrique correspond en outre à la cible 4.5, qui appelle les États à «
 
 [[START OF PAGE 34]]
 
--et des migrants à une éducation de qualité dans votre pays.
+les niveaux d'enseignement et de formation professionnelle », et couvre la majorité des cibles de l'ODD 4.
+
+- Veuillez décrire succinctement le cadre juridique et politique qui protège le droit des réfugiés et des migrants à une éducation de qualité dans votre pays.
 
 ##### Stratégie Nationale d'Immigration et d'Asile (SNIA)
 
@@ -2173,8 +2178,6 @@ formation  (OFPPT  et  Artisanat)  permettant  d'accueillir  des  migrants  dans
 
 [[START OF PAGE 35]]
 
-## Moyens mis en place pour sensibiliser les différentes autorités du pays à ces instruments et pour lever les obstacles rencontrés
-
 - Veuillez indiquer brièvement les mesures qui ont été adoptées par les autorités nationales et locales  pour  garantir  le  droit  à  l'éducation  des  réfugiés  et  des  migrants  (il  est  possible  de cocher/mentionner plusieurs catégories de mesures) :
 
 x Inclusion dans l'enseignement général
@@ -2196,6 +2199,8 @@ o Aides financières
 o Autres mesures innovantes :
 
 - Veuillez préciser brièvement les mesures prises :
+
+## III. Moyens mis en place pour sensibiliser les différentes autorités du pays à ces instruments et pour lever les obstacles rencontrés
 
 ### 1. Difficultés et obstacles
 
