@@ -10,6 +10,38 @@
 
 # TABLE OF CONTENTS
 
+I. INTRODUCTION 3
+
+II. GENERAL PROVISIONS 5
+1. Purpose 5
+2. Migration policy principles 5
+3. Target groups 6
+
+III. ASSESSMENT OF MIGRATION AND OF THE BULGARIAN MIGRATION POLICY
+AT THE TIME OF STRATEGY’S APPROVAL 7
+1. Institutional system 7
+2. Regulatory basis 10
+3. Migration situation and existing national policy 12
+
+IV. NATIONAL MIGRATION, ASYLUM AND INTEGRATION POLICIES IN THE
+PERIOD 2011 – 2020 33
+1. Priorities 33
+2. Policies for border control and visas, fight against illegal migration, return, and human
+trafficking 33
+3. Asylum policies 38
+4. Migration, development and integration policies 39
+5. Improving the institutional system and the regulatory basis, enhancing the administrative
+capacity 41
+6. Cooperation with the non-governmental sector 42
+7. Relation to the existing National Strategy of the Republic of Bulgaria on Migration and
+Integration (2008 – 2015) 43
+8. Financing of strategy’s implementation 43
+9. Strategy implementing and reporting mechanism 43
+
+V. CONCLUSIONS 44
+1. Expected results 44
+2. A mechanism for assessment and corrective action 45
+
 2
 
 [[END OF PAGE 2]]
@@ -54,11 +86,11 @@ The ten-year time span of the strategy reflects the profound analyses and long-t
 
 To  develop  a  policy  framework  providing  a  comprehensive  and  sustainable regulatory  and  institutional  basis  for  ensuring  successful  management  of  legal migration and integration while preventing and counteracting illegal migration. The fulfillment of the overall objective will contribute to:
 
-- head2right Prevention and effective counteraction of illegal migration;
+- Prevention and effective counteraction of illegal migration;
 
-- head2right More efficient management of economic migration and integration;
+- More efficient management of economic migration and integration;
 
-- head2right Making migration and mobility positive factors of economic and demographic development.
+- Making migration and mobility positive factors of economic and demographic development.
 
 ## 2. Migration policy principles
 
@@ -131,7 +163,7 @@ Migration Directorate is a specialized structure within MoI, responsible for the
 
 ### Ministry of Foreign Affairs
 
-The  Consular  Affairs  Directorate  and  Bulgaria's  representations  abroad  are responsible  for  the  issuing  of  visas  and  for  the  interaction  with  the  competent Bulgarian  institutions  and  the  visa  services  of  Member  States  regarding  the implementation  of  the  visa  regime,  the  issuance  of  national  visas  now  and  of uniform Schengen visas upon Bulgaria's joining the Schengen Area. The Consular Affairs  Directorate  maintains  the  National  Visa  Information  System  via  the National Visa Management Centre and in accordance with the EU and Schengen requirements and is responsible for its connection to the Visa Information System of the EU, as well as for the set up and maintenance of a Visa Backup Centre.
+The  Consular  Affairs  Directorate  and  Bulgaria's  representations  abroad  are responsible  for  the  issuing  of  visas  and  for  the  interaction  with  the  competent Bulgarian  institutions  and  the  visa  services  of  Member  States  regarding  the implementation  of  the  visa  regime,  the  issuance  of  national  visas  now  and  of uniform Schengen visas upon Bulgaria's joining the Schengen Area. The Consular
 
 7
 
@@ -139,6 +171,7 @@ The  Consular  Affairs  Directorate  and  Bulgaria's  representations  abroad  a
 
 [[START OF PAGE 8]]
 
+Affairs Directorate maintains the National Visa Information System via the National Visa Management Centre and in accordance with the EU and Schengen requirements and is responsible for its connection to the Visa Information System of the EU, as well as for the set up and maintenance of a Visa Backup Centre.
 ### Ministry of Labor and Social Policy
 
 The  ministry  is  responsible  for  formulating  and  implementing  the  policy  for receiving third-country nationals on the labor market, for the signing of bilateral employment agreements and social security agreements with third countries, for assisting  Bulgarian  nationals  in  other  Member  States  and  nationals  of  other Member States in  Bulgaria  in  exercising  their  employment  and  social  security rights of EU citizens, for coordinating the Bulgarian policy for the integration of third-country nationals.
@@ -177,7 +210,7 @@ The regional units of  SAR include the transit,  the  registration-and-acceptanc
 
 ### State Agency for Bulgarians Abroad at the Council of Ministers
 
-The State Agency for Bulgarians Abroad (SABA) implements the state policy for the  Bulgarians  abroad  in  coordination  with  the  minister  responsible  for  the policy for Bulgarians abroad. It coordinates the work of state institutions in the field.  The  Agency  has  contacts  with  and  supports  the  operation  of  the  citizen structures  of  the  Bulgarian  communities  abroad.  SABA  certifies  the  Bulgarian origin  of  persons  applying  for  Bulgarian  citizenship  by  issuing  individual administrative acts. It maintains and updates a database and conducts analyses of the condition and trends of the Bulgarian communities abroad.
+The State Agency for Bulgarians Abroad (SABA) implements the state policy for the  Bulgarians  abroad  in  coordination  with  the  minister  responsible  for  the policy for Bulgarians abroad. It coordinates the work of state institutions in the field.  The  Agency  has  contacts  with  and  supports  the  operation  of  the  citizen structures  of  the  Bulgarian  communities  abroad.  SABA  certifies  the  Bulgarian
 
 9
 
@@ -185,6 +218,7 @@ The State Agency for Bulgarians Abroad (SABA) implements the state policy for th
 
 [[START OF PAGE 10]]
 
+origin of persons applying for Bulgarian citizenship by issuing individual administrative acts. It maintains and updates a database and conducts analyses of the condition and trends of the Bulgarian communities abroad.
 ### Bulgarian National Anti-Trafficking Commission at the Council of Ministers
 
 It organises and coordinates the cooperation between the relevant agencies and organisations for implementation of the Combating Trafficking in Human Beings Act.  The  Commission  determines  and  administers  the  implementation  of  the national policy for combating trafficking in human beings. An important element of  Commission's work is the prevention of groups at risk of human trafficking and the development of the policies for protection, support and reintegration of the victims of trafficking.
@@ -197,7 +231,7 @@ The institutions having partial competence in the field of migration and asylum 
 
 ## 2. Regulatory basis
 
-All  Community  acts  on  migration  and  asylum  have  been  transposed  in  the national legislation and are being implemented. They are reflected in many legal acts of the national primary, secondary and tertiary legislation. Fulfillment of the criteria  laid  down  in  fundamental  EU  directives  is  a  key  element  for  the implementation  of  a  common  migration  policy  aiming  to  ensure  in  all  phases effective management  of  migration  flows, fair treatment of third-country nationals  residing  legally  in  the  Member  States,  and  prevention  and  stronger combating of illegal migration and human trafficking .
+All  Community  acts  on  migration  and  asylum  have  been  transposed  in  the national legislation and are being implemented. They are reflected in many legal acts of the national primary, secondary and tertiary legislation. Fulfillment of the criteria  laid  down  in  fundamental  EU  directives  is  a  key  element  for  the
 
 10
 
@@ -205,31 +239,32 @@ All  Community  acts  on  migration  and  asylum  have  been  transposed  in  th
 
 [[START OF PAGE 11]]
 
-checkbld Law on Foreigners in the Republic of Bulgaria
+implementation of a common migration policy aiming to ensure in all phases effective management of migration flows, fair treatment of third-country nationals residing legally in the Member States, and prevention and stronger combating of illegal migration and human trafficking.
+- Law on Foreigners in the Republic of Bulgaria
 
 It  transposes  all  relevant  Community  acts  regulating  the  entering,  residing  in and leaving the national territory by third-country nationals.
 
-checkbld Law on Bulgarian Identity Documents
+- Law on Bulgarian Identity Documents
 
 This  law  regulates  the  terms  and  procedure  of  issuing  Bulgarian  identity documents to third-country nationals, to persons with granted status under the Law  on  Asylum  and  Refugees  and  to  EU  citizens  and  the  members  of  their families  whose  status  is  regulated  by  the  Law  on  the  Entering,  Residing  and Leaving the Republic of Bulgaria of EU Citizens and Members of their Families. Implementation  of  Regulation  (EC)  No.  1030/2002  laying  down  a  uniform format for residence permits for third-country nationals has been ensured up to the high technical standards set.
 
-checkbld Law on the Entering, Residing and Leaving the Republic of Bulgaria of EU Citizens and Members of their Families
+- Law on the Entering, Residing and Leaving the Republic of Bulgaria of EU Citizens and Members of their Families
 
 It regulates the status of this category of persons.
 
-checkbld Law on Bulgarians Living outside the Republic of Bulgaria and Bulgarian Citizenship Act
+- Law on Bulgarians Living outside the Republic of Bulgaria and Bulgarian Citizenship Act
 
 The  two  laws  contain  provisions  regarding  the  implementation  of  different procedures concerning Bulgarians living outside Bulgaria.
 
-checkbld Penal Code
+- Penal Code
 
 It contains provisions penalizing illegal migration and human trafficking as well as the illegal crossing of the state border.
 
-checkbld Law on the Ministry of the Interior
+- Law on the Ministry of the Interior
 
 This  law  regulates  the  exchange  of  information  and  data  with  the  competent authorities  of  the  EU  Member  States  towards  crime  prevention,  detection  and investigation.
 
-- checkbld Combating Trafficking in Human Beings Act
+- Combating Trafficking in Human Beings Act
 
 11
 
@@ -237,17 +272,17 @@ This  law  regulates  the  exchange  of  information  and  data  with  the  comp
 
 [[START OF PAGE 12]]
 
-checkbld This law focuses on the prevention and protection of victims, in particular women and children, and on the special protection of victims cooperating with the police;
+This law focuses on the prevention and protection of victims, in particular women and children, and on the special protection of victims cooperating with the police;
 
-checkbld Law on Asylum and Refugees
+- Law on Asylum and Refugees
 
 This  law  regulates  the  terms  and  procedure  for  granting  special  protection  to foreigners on the territory of the Republic of Bulgaria, as well as such foreigners' rights and obligations.
 
-checkbld Employment Promotion Act
+- Employment Promotion Act
 
 This  law  regulates  the  issuing  of  work  permits,  the  access  of  EU,  EEA,  Swiss citizens  and  third-country  nationals  to  registration  with  the  Labor  Offices,  as well as the services provided by the Employment Agency.
 
-checkbld Civil Registration Act
+- Civil Registration Act
 
 This  law  regulates  the  terms  and  procedure  for  civil  registration  of  natural persons  in  the  Republic  of  Bulgaria.  The  population  registers  keep  records  of foreigners who have been granted permanent residence permit in the Republic of Bulgaria,  stateless  persons  who  have  settled  permanently  on  national  territory and persons who have been granted refugee or humanitarian status, or asylum in the Republic of Bulgaria.
 
@@ -291,13 +326,13 @@ Total 651 third-country nationals were detained while trying to cross illegally 
 
 Ten persons were detained at exit at the Bulgarian-Turkish border - 5 Iraqi nationals, 4 Turkish nationals and 1 Palestinian.
 
-Border Checkpoint illegal passing through border checkpoints (avoiding border checks and hiding persons)
+Border Checkpoint – illegal passing through border checkpoints (avoiding border checks and hiding persons)
 
 In  2010,  total  112  third-country  nationals  were  detained  while  trying  to  pass illegally through border checkpoints (97 at entry and 15 at exit). The values of this indicator are relatively stable and permanent over the period 2007 - 2010. The highest number of attempts was detected at entry at the Bulgarian-Turkish border: 96 people, mainly hidden in vehicles (Turkish nationals - 57, Iraq - 19, Palestine - 5, Iran - 5, Afghanistan - 5, other - 5). Significantly lower is the number  of  the  attempts  detected  at  exit  via  the  border  checkpoint  at  the Bulgarian-Turkish  border  -  5  people  were  detained  in  2010  (3  Turkish nationals, 1 of Iran and 1 of Algeria).
 
 Use of false documents or third person's documents given to use (use of false documents, visas, residence permits, etc., or such given for use by somebody else, to pass through a border checkpoint):
 
-In  2010,  123  third-country  nationals  were  detained  while  trying  to  cross  an external  border  checkpoint  with  false  identity  documents  or  third  person's identity documents given to use - 80 at entry and 43 at exit.  76 persons were detained at the Bulgarian-Turkish border (75 at entry and 1 at exit, 32 - at the air border (all at exit), 10 at the Bulgarian-Serbian border 1 at entry and 9 at exit) and 5 at the Bulgarian-Macedonian border (4 at entry and 1 at exit). By way of comparison, 110 persons were detained in 2009, the highest number 67, at the Bulgarian-Turkish border, 36 at the air border, 6 at the border with Serbia and 1 at the border with Macedonia.
+In  2010,  123  third-country  nationals  were  detained  while  trying  to  cross  an external  border  checkpoint  with  false  identity  documents  or  third  person's identity documents given to use - 80 at entry and 43 at exit. 76 persons were
 
 14
 
@@ -305,21 +340,22 @@ In  2010,  123  third-country  nationals  were  detained  while  trying  to  cro
 
 [[START OF PAGE 15]]
 
+detained at the Bulgarian-Turkish border (75 at entry and 1 at exit, 32 – at the air border (all at exit), 10 at the Bulgarian-Serbian border 1 at entry and 9 at exit) and 5 at the Bulgarian-Macedonian border (4 at entry and 1 at exit). By way of comparison, 110 persons were detained in 2009, the highest number – 67, at the Bulgarian-Turkish border, 36 at the air border, 6 at the border with Serbia and 1 at the border with Macedonia.
 Statistics of the cases of illegal crossing of Bulgaria's future internal borders:
 
 'Green Border'
 
 In 2010, the number of third-country nationals detained at the 'green' border is 104 people, 14 down on 2009.
 
-Of these, 67 were detained at entry and 37 at exit. 101 persons were detained at the border with Greece (67 at entry and 34 at exit) and 3 were detained at exit at the border with Romania. The highest number of detained persons are Palestinians 26 (41 in 2009), Iraqi nationals - 13 (11 in 2009), Algerian - 10, Lebanese - 10, Iranian - 8 (2 in 2009), Moroccan - 6, and 31 other nationals.
+Of these, 67 were detained at entry and 37 at exit. 101 persons were detained at the border with Greece (67 at entry and 34 at exit) and 3 were detained at exit at the border with Romania. The highest number of detained persons are Palestinians – 26 (41 in 2009), Iraqi nationals - 13 (11 in 2009), Algerian - 10, Lebanese - 10, Iranian - 8 (2 in 2009), Moroccan - 6, and 31 other nationals.
 
 In  2010,  there  were  isolated  attempts  for  illegal  crossing  of  the  Bulgarian-Greek border by nationals of the former Soviet republics. Five Georgian nationals were detianed at entry and one national of Kazakhstan - at exit.
 
 One attempt  by  two  Turkish  nationals  and  one  attempt  by  an  Iraqi  national  for illegal  crossing  of  the  'green  border'  in  the  area  controlled  by  the  Border  Police Station in Silistra were detected at the Bulgarian-Romanian state border.
 
-Border Checkpoint Illegal  passing  through the border checkpoint (avoiding border check and hiding persons):
+Border Checkpoint – Illegal passing through the border checkpoint (avoiding border check and hiding persons):
 
-In 2010, 136 persons were detained at internal border checkpoints - 110 at entry and 26 at exit. Of these, 112 were detained at the Bulgarian-Greek border (107 at entry and 5 at exit) and 24 at the Bulgarian-Romanian border (3 at entry and 21 at exit).  Detained  persons  are  mostly  nationals  of  Afghanistan  -  57,  Iraq  -  37, Pakistan - 18, Lebanon - 5, and 19 other nationals.
+In 2010, 136 persons were detained at internal border checkpoints - 110 at entry and 26 at exit. Of these, 112 were detained at the Bulgarian-Greek border (107 at entry and 5 at exit) and 24 at the Bulgarian-Romanian border (3 at entry and 21 at
 
 15
 
@@ -327,7 +363,8 @@ In 2010, 136 persons were detained at internal border checkpoints - 110 at entry
 
 [[START OF PAGE 16]]
 
--Use of false documents or third person's documents given to use (use of false or third  person's  documents,  visas,  residence  permits,  etc.  to  pass  through  the border checkpoint):
+exit). Detained persons are mostly nationals of Afghanistan – 57, Iraq – 37, Pakistan – 18, Lebanon – 5, and 19 other nationals.
+- Use of false documents or third person's documents given to use (use of false or third  person's  documents,  visas,  residence  permits,  etc.  to  pass  through  the border checkpoint):
 
 In 2010, 60 third-country nationals were detained while trying to pass through the border checkpoint with false or third person's identity documents given to use - 4 at entry and 56 at exit. 22 persons were detained at the Bulgarian-Greek border (1 at entry and 21 at exit), 38 at the border with Romania (3 at entry and 35 at exit). By way of comparison, 119 third-country nationals were detained in 2009 (67 at the Bulgarian-Greek border and 52 at the border with Romania).
 
@@ -345,15 +382,15 @@ An Integrated  Black  Sea  Border  Surveillance  System was  built  and  put  in
 
 Total 3376 administrative compulsory measures under the Law on Foreigners in the Republic of Bulgaria were imposed in 2010:
 
-- checkbld Prohibition to leave the country - 338 ;
+- Prohibition to leave the country - 338;
 
-- checkbld Prohibition to enter the country - 601;
+- Prohibition to enter the country - 601;
 
-- checkbld Revoked right to stay - 540,
+- Revoked right to stay - 540,
 
-- checkbld Expulsion -100,
+- Expulsion -100,
 
-- checkbld Compulsory taking to the national border - 1606.
+- Compulsory taking to the national border - 1606.
 
 The  analysis  of  statistical  data  shows  an  increase  in  the  number  of imposed administrative enforcement measures by 15% compared to 2009.
 
@@ -385,7 +422,7 @@ The  national  legislation  provides  for  a  procedure  enabling  Bulgaria  to 
 
 The return policy is an important element of migration management. It rests on two  principal  approaches:  voluntary  and  forced  return,  with  priority  given  to voluntary return.
 
-The mechanisms for implementation of return and readmission are based on the following acts and documents: Common standards and procedures in Member States  for  returning  illegally  staying  third-country  nationals,  as  laid  down  in Directive  2008/115/ЕС  -  /the  return  directive/,  transposed  in  2009  with amendments to the Law on Foreigners in the Republic of Bulgaria; Council of Europe's Twenty Guidelines on Forced Return, and readmission agreements.
+The mechanisms for implementation of return and readmission are based on the following acts and documents: Common standards and procedures in Member States  for  returning  illegally  staying  third-country  nationals,  as  laid  down  in
 
 18
 
@@ -393,6 +430,7 @@ The mechanisms for implementation of return and readmission are based on the fol
 
 [[START OF PAGE 19]]
 
+Directive 2008/115/EC – /the return directive/, transposed in 2009 with amendments to the Law on Foreigners in the Republic of Bulgaria; Council of Europe’s Twenty Guidelines on Forced Return, and readmission agreements.
 Readmission agreements' implementation is an important factor for preventing and  counteracting  illegal  migration.  The  analysis  of  the  implementation  of concluded readmission agreements shows that they contribute for enhanced and more  effective  cooperation  in  combating  illegal  migration  and  facilitate  the transfer of persons entering and/or staying illegally on the state territory of any of the contracting parties.
 
 When implementing the return procedures, the Bulgarian authorities encounter problems caused by the absence of information and problems with establishing the identity of returnees. To enhance implementation efficiency, there is a need to improve the cooperation of Bulgaria's diplomatic representations and institutions  with  important  countries  of  origin.  It  is  necessary  to  think  about building  a  network  of  liaison  officers  within  the  embassies  of  third  countries which are top generators of illegal migration pressure on Bulgaria. In the context of the common European policy for voluntary return of third-country nationals to  their  country  of  origin  or  usual  residence,  an  additional  set  of  norms  and measures contributive of applying in the voluntary return procedures should be approved.
@@ -413,7 +451,7 @@ Protecting the human rights of the victims of trafficking is a guiding principle
 
 The main drives of human trafficking are poverty and the underdevelopment of some regions, as well as the lack of awareness among the individuals at risk who are,  in  general,  with  low  educational  attainment  and  lack  adequate  social experience.
 
-The most vulnerable group remains that of young women in the age bracket 18 30,  girls  under  age  and  parentless  children,  men  and  women  in  active  age  for labor exploitation. The victims of trafficking usually come from regions with high unemployment  and  poverty  levels.  The  main  methods  for  implication  in trafficking remain job offers, offers for education abroad for the young people, marriage proposals.
+The most vulnerable group remains that of young women in the age bracket 18 - 30,  girls  under  age  and  parentless  children,  men  and  women  in  active  age  for labor exploitation. The victims of trafficking usually come from regions with high unemployment  and  poverty  levels.  The  main  methods  for  implication  in trafficking remain job offers, offers for education abroad for the young people, marriage proposals.
 
 In the past five years the legislative amendments contributed for relative stability and slight increase in the number of criminal proceedings for human trafficking instituted in Bulgaria. The number of convicted persons shows a positive trend as compared to the number of accused persons.
 
@@ -433,15 +471,15 @@ The Bulgarian State is obligated to guarantee to the foreigners seeking protecti
 
 The State Agency for Refugees at the Council of Ministers implements the state policy for foreigners who seek or have been granted protection under the Law on Asylum and Refugees.  The  Republic  of  Bulgaria  provides  four  types  of  special protection:
 
-- checkbld Asylum - it is granted by the President of the Republic of Bulgaria;
+- Asylum - it is granted by the President of the Republic of Bulgaria;
 
-- checkbld Temporary protection - it is granted for a period as set out in a resolution of  the  Council  of  the  European  Union  in  the  event  of  mass  influx  of foreigners who are forced to leave their country of origin;
+- Temporary protection - it is granted for a period as set out in a resolution of  the  Council  of  the  European  Union  in  the  event  of  mass  influx  of foreigners who are forced to leave their country of origin;
 
-- checkbld Refugee status -  it  is  granted  by  the  Chairperson  of  the  State  Agency  for Refugees  to  foreigners  satisfying  the  criteria  laid  down  in  the  Geneva Convention and the Law on Asylum and Refugees;
+- Refugee status -  it  is  granted  by  the  Chairperson  of  the  State  Agency  for Refugees  to  foreigners  satisfying  the  criteria  laid  down  in  the  Geneva Convention and the Law on Asylum and Refugees;
 
-- checkbld Humanitarian status - it is granted by the Chairperson of the State Agency for  Refugees to foreigners who are forced to leave and stay outside their country of origin.
+- Humanitarian status - it is granted by the Chairperson of the State Agency for  Refugees to foreigners who are forced to leave and stay outside their country of origin.
 
-- checkbld Asylum, refugee status and humanitarian status are  granted on basis of individual  examination  of  applications,  whereas  temporary  protection  is granted  to  a  group,  every  member  of  the  group  being  considered  prima face (that is, in the absence of evidence to the contrary) a refugee.
+- Asylum, refugee status and humanitarian status are  granted on basis of individual  examination  of  applications,  whereas  temporary  protection  is granted  to  a  group,  every  member  of  the  group  being  considered  prima face (that is, in the absence of evidence to the contrary) a refugee.
 
 Two  registration and  acceptance  centers  are currently operational in the Republic of Bulgaria: one in the village of Bania, Nova Zagora Municipality, with a capacity of up to 50 people and another one in Sofia with a capacity of up to 500  people.  These  centers  organize  the  registration,  accommodation,  medical checks, social and medical assistance of the persons seeking protection. They are with an open regime which means that the foreigners accommodated there are free to go out and come back while abiding by the centers' internal rules.
 
@@ -504,7 +542,6 @@ Bulgaria  was  a  key  initiator  and  organizer  of  a  new  regional  process 
 The First International Expert Conference on Migration and Employment held in Sofia  from  3  to  5  November  2010  adopted  a  declaration  establishing  the  new Sofia Migration and Employment Process to whose development the International Organization for Migration has actively committed itself.
 
 #### 3.7.1. Foreign nationals studying in licensed educational institutions on Bulgarian territory
-Acquired specialities, knowledge of Bulgarian, a relatively high integration in the Bulgarian  society  during  their  education  in  Bulgaria  make  this  category  of specialists a potential group that could settle permanently in the country.
 
 24
 
@@ -512,6 +549,7 @@ Acquired specialities, knowledge of Bulgarian, a relatively high integration in 
 
 [[START OF PAGE 25]]
 
+Acquired specialities, knowledge of Bulgarian, a relatively high integration in the Bulgarian  society  during  their  education  in  Bulgaria  make  this  category  of specialists a potential group that could settle permanently in the country.
 In  2010,  residence  permits  for  studying  were  issued  to  total  5 741  foreigners, including to Turkish nationals which represent the largest group of 3561 persons, Macedonian nationals - 596, and Moldovan nationals - 232.
 
 The  number  of  foreigners  of  Bulgarian  origin  residing  in  Bulgaria  for  the purposes of studying is on an upward trend.
@@ -552,13 +590,15 @@ In  October  2010,  the  top  five  regions  in  terms  of  the  number  of  thi
 
 - Blagoevgrad - 782  people.
 
-In  2009,  3 310  persons  applied  for  a  permanent  residence  registration  in Bulgaria. The relative share of men is 58% and of women - 42%. Almost 44% of those who came to live in Bulgaria are in the age group 20 - 39 and 24% are in the age bracket 40 - 59. The youngest (under 20 years of age) make up 19% and the eldest, aged 60+, account for 13 %. Almost 18% of those who came to live in Bulgaria migrated for a permanent job. Significantly higher is the share of those who came to the country by way of migration, marriage or for other reasons 49%. Accompanying persons, including children, make up 33%.
+In 2009, 3 310 persons applied for a permanent residence registration in Bulgaria. The relative share of men is 58% and of women - 42%. Almost 44% of those who came to live in Bulgaria are in the age group 20 - 39 and 24% are in
 
 26
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+
+the age bracket 40 - 59. The youngest (under 20 years of age) make up 19% and the eldest, aged 60+, account for 13 %. Almost 18% of those who came to live in Bulgaria migrated for a permanent job. Significantly higher is the share of those who came to the country by way of migration, marriage or for other reasons - 49%. Accompanying persons, including children, make up 33%.
 
 The  immigrant  integration  policy  is  implemented  with  support  from  the European Integration Fund. Information and integration centers assisting newly arriving  foreigners  by  providing  them  with  information  which  is  necessary  for their  stay  in  the  country  were  opened  in  Sofia  and  the  other  three  largest Bulgarian  cities  under  projects  supported  from  the  European  Fund  for  the Integration of Third-country Nationals.
 
@@ -570,7 +610,7 @@ The  Republic  of  Bulgaria  pursues  a  consistent  policy  for  the  integrati
 
 The Integration Center within the State Agency for Refugees provides Bulgarian language  training  and  directs  refugees  to  educational  institutions.  It  organizes the  vocational  qualification  of  foreigners  seeking  or  granted  protection.  The Integration  Center  assists  foreigners  with  granted  status  in  finding  jobs  and provides them with counseling on social assistance matters.
 
-In accordance with the National Program for Integration of Refugees, the latter receive for their education a package of initial integration measures aligned with the existing legislation and are involved in literacy and qualification programs of the Ministry of Labor and Social Policy. The package of measures ensures to the refugees minimum social protection for the period of their training: bursary for the days of training, financial assistance for accommodation, health insurance, lump-sum cash benefit, in-kind benefit.
+In accordance with the National Program for Integration of Refugees, the latter receive for their education a package of initial integration measures aligned with the existing legislation and are involved in literacy and qualification programs of
 
 27
 
@@ -578,21 +618,23 @@ In accordance with the National Program for Integration of Refugees, the latter 
 
 [[START OF PAGE 28]]
 
+the Ministry of Labor and Social Policy. The package of measures ensures to the refugees minimum social protection for the period of their training: bursary for the days of training, financial assistance for accommodation, health insurance, lump-sum cash benefit, in-kind benefit.
+
 ### 3.10. Forecasts and conclusions
 
 #### 3.10.1. Forecasts :
 
-- checkbld Bulgaria's  joining  the  Schengen  Area  will  lead  in  the  next  few  years  to increased  migration  pressure  on  the  country  from  both  illegal  migration and persons seeking asylum and protection. Our country must prepare for that  by  taking  adequate  preventive  measures  in  the  field  of  security  and fight against illegal migration, and integration measures for persons who have been granted asylum in Bulgaria;
+- Bulgaria's joining the Schengen Area will lead in the next few years to increased migration pressure on the country from both illegal migration and persons seeking asylum and protection. Our country must prepare for that by taking adequate preventive measures in the field of security and fight against illegal migration, and integration measures for persons who have been granted asylum in Bulgaria;
 
-- checkbld The  Republic  of  Bulgaria  transformed  gradually  from  an  emigration  and transit country into one attracting immigrants. Data show a slowdown in emigration  and  a  steady  upward  trend  of  immigration  to  Bulgaria.  This means that the country must have in place national policy enabling it to manage successfully the immigration processes, including the integration of immigrants, in order to remain sustainable and effective having in mind these mid-term and long-term development trends;
+- The Republic of Bulgaria transformed gradually from an emigration and transit country into one attracting immigrants. Data show a slowdown in emigration and a steady upward trend of immigration to Bulgaria. This means that the country must have in place national policy enabling it to manage successfully the immigration processes, including the integration of immigrants, in order to remain sustainable and effective having in mind these mid-term and long-term development trends;
 
-- checkbld The demographic picture of Europe reveals population ageing trends. In an economic aspect this means labor force decrease which must be offset by importing labor from third countries;
+- The demographic picture of Europe reveals population ageing trends. In an economic aspect this means labor force decrease which must be offset by importing labor from third countries;
 
 #### 3.10.2. Conclusions:
 
 ##### 1. Condition of the regulatory framework
 
-There  is  a  tendency  of  transposing  the  European  migration  legislation  'on  a piecemeal, sector by sector basis'. Given the variety of relations that are being regulated in the field of free movement and illegal migration, there is a need to review migration regulations towards improving the practical implementation of the legislation in the field
+There is a tendency of transposing the European migration legislation 'on a piecemeal, sector by sector basis'. Given the variety of relations that are being
 
 28
 
@@ -600,15 +642,15 @@ There  is  a  tendency  of  transposing  the  European  migration  legislation  
 
 [[START OF PAGE 29]]
 
+regulated in the field of free movement and illegal migration, there is a need to review migration regulations towards improving the practical implementation of the legislation in the field
+
 ##### 2. Institutional arrangement
 
 The responsible institutions are scattered under the hats of different ministries and agencies and this impedes their interaction and cooperation. There is lack of a  unit  coordinating  and  controlling  the  implementation  of  the  government migration policies.
 
 ##### 3. Administrative capacity of the professionals working in the field
 
-Officials  are  underqualified;  there  is  lack  of  specialized  training  on  migration
-
-issues.
+Officials are underqualified; there is lack of specialized training on migration issues.
 
 The administrative capacity needs to be developed to enable the administration to make its active and quality contribution in formulating the priorities of both the national and the common European migration policy. In that light, there is a need to invest in training and improving the pay of the administration in order to ensure  active  and  competent  participation  of  Bulgaria  in  migration  policy formulation at EU level.
 
@@ -618,13 +660,15 @@ There are problems with the collection and analysis of the statistical informati
 
 Considering  information  support,  there  is  a  need  to  take  further  action  to provide  migration  policy  with  comparable  statistical  data,  analyses,  studies, public opinion surveys, etc.
 
-Due regard is given to the importance of raising public awareness by ensuring publicity  of  migration  situation  reports,  holding  necessarily  public  discussions on  legislative  amendments,  organizing  migration  policy  forums,  envisaging forms  of  citizen  control  on  the  implementation  of  the  measures  set  out  in  the action plans.
+Due regard is given to the importance of raising public awareness by ensuring publicity of migration situation reports, holding necessarily public discussions on legislative amendments, organizing migration policy forums, envisaging
 
 29
 
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
+
+forms of citizen control on the implementation of the measures set out in the action plans.
 
 There is a need to create and develop national integration forums, to enhance the information exchange and cooperation at national level between institutions, non-governmental and international organizations, to make effective use of the European  Fund  for  the  Integration  of  Third-country  Nationals  forum  and  the European website.
 
@@ -642,13 +686,15 @@ There  is  also  a  need  to  step  up  the  development  of  the  national  pol
 
 ##### 6. Asylum
 
-Currently  Bulgaria  lacks  an  operational  practical  mechanism  and  institutional capacity to fulfill the basic standards for receiving asylum seekers in accordance with  European  legal  norms,  in  particular  Directive  2003/9/EC  laying  down minimum standards for reception of asylum seekers. There is also absence of a legal  mechanism  for  providing  medical  services  to  refugees  as  stipulated  in  the Law on Asylum and Refugees.
+Currently Bulgaria lacks an operational practical mechanism and institutional capacity to fulfill the basic standards for receiving asylum seekers in accordance with European legal norms, in particular Directive 2003/9/EC laying down
 
 30
 
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
+
+minimum standards for reception of asylum seekers. There is also absence of a legal mechanism for providing medical services to refugees as stipulated in the Law on Asylum and Refugees.
 
 Considering the cooperation and coordination with other competent  state authorities,  there  is  a  need  to  introduce  explicit  rules  for  ensuring  access  to territory and to a procedure for persons seeking international protection and for distinguishing them from the illegally residing migrants - third country nationals. This is necessary in order to provide legal guarantees for abidance by the principle of  non-refoulement  and  non-penalization  laid  down  in  the  Geneva  Convention relating to the status of refugees and in the national legislation.
 
@@ -662,7 +708,7 @@ In  2008,  several  third  countries,  such  as  Moldova,  Ukraine  and  Armenia
 
 The activity is laid down under Priority VІ, Objectives 134 and 136 of the Program of  the  Government  of  European  Development  of  Bulgaria    and  in  2011  efforts should  focus  on  projects  for  the  conclusion  of  labor  migration  agreements  with Moldova, Ukraine and Armenia.
 
-The  analysis  shows  that  the  'blue  card'  mechanism  will  not  be  sufficient  given that at this stage Bulgaria is unable to compete economically and socially with the other EU Member States in the rivalry to attract the best experts. There is a need to implement special national policy for attracting highly qualified migrants.
+The analysis shows that the 'blue card' mechanism will not be sufficient given that at this stage Bulgaria is unable to compete economically and socially with the
 
 31
 
@@ -670,7 +716,9 @@ The  analysis  shows  that  the  'blue  card'  mechanism  will  not  be  suffici
 
 [[START OF PAGE 32]]
 
-The work and the social dialogue within the National Labor Migration Council at the Minister of Labor and Social Policy need to be further intensified. This council has key responsibilities for implementing the arrangements for the access of thirdcountry nationals to the Bulgarian labor market, as well as in the decision making on  updating  the  regulations  in  the  field  and  also  in  relation  to  employment agreements or labor migration regulation agreements.
+other EU Member States in the rivalry to attract the best experts. There is a need to implement special national policy for attracting highly qualified migrants.
+
+The work and the social dialogue within the National Labor Migration Council at the Minister of Labor and Social Policy need to be further intensified. This council has key responsibilities for implementing the arrangements for the access of third-country nationals to the Bulgarian labor market, as well as in the decision making on updating the regulations in the field and also in relation to employment agreements or labor migration regulation agreements.
 
 There is a need to set up and develop national integration forums, to enhance the information  exchange  and  cooperation  at  national  level  between  institutions, NGOs  and  international  organizations,  to  make  effective  use  of  the  European Fund  for  the  Integration  of  Third-country  Nationals  forum  and  the  European website.
 
@@ -736,13 +784,15 @@ The  Republic  of  Bulgaria  recognizes  the  importance  of  the  EU  common  v
 
 Bulgaria's migration management responsibilities will increase when the country enters the Schengen Area. On one part, this means higher migration pressure on the country and also higher number of visa applicants. The visas to be issued by the competent Bulgarian authorities will enable their holders to move freely on national territory as well as throughout the Schengen Area.
 
-The  Republic  of  Bulgaria  will  be  part  of  and  an  active  player  in  the  visa consultation process. The competent Bulgarian authorities will be entrusted with the  responsibility  to  consult  with  the  authorities  of  other  Member  States  on certain  citizenships  and  individual  categories  of  citizens  in  the  visa  issuing process. There is a need to introduce the European standards of judicial review and inspection of the acts of visa authorities in terms of the grounds for refusal to  issue  a  visa,  in  order  to  provide  further  legal  guarantees  for  protection  of national security and prevention of corruption.
+The Republic of Bulgaria will be part of and an active player in the visa consultation process. The competent Bulgarian authorities will be entrusted with the responsibility to consult with the authorities of other Member States on certain citizenships and individual categories of citizens in the visa issuing process. There is a need to introduce the European standards of judicial review and inspection of the acts of visa authorities in terms of the grounds for refusal
 
 34
 
 [[END OF PAGE 34]]
 
 [[START OF PAGE 35]]
+
+to issue a visa, in order to provide further legal guarantees for protection of national security and prevention of corruption.
 
 ### 2.3. Illegal migration and return
 
@@ -830,13 +880,15 @@ The  institutions  involved  need  to  focus  their  efforts  on  full  absorpti
 
 A National Resettlement Program for Refugees should be developed within the UNHCR Resettlement Program and in adherence to international resettlement standards.
 
-There is a need to organize and commission the Country of Origin Information Resource Centre towards implementation of the European measures for development of reference tools for evaluation and improvement of the quality of procedures  and  for  issuing  decisions  on  international  protection  applications, and in order to strengthen the administrative structures to help them address the challenges of intensified practical cooperation of Member States.
+There is a need to organize and commission the Country of Origin Information Resource Centre towards implementation of the European measures for
 
 38
 
 [[END OF PAGE 38]]
 
 [[START OF PAGE 39]]
+
+development of reference tools for evaluation and improvement of the quality of procedures and for issuing decisions on international protection applications, and in order to strengthen the administrative structures to help them address the challenges of intensified practical cooperation of Member States.
 
 European good practices and minimum standards of receiving, accommodating and assisting persons in a procedure for granting status should be introduced.
 
@@ -864,13 +916,15 @@ Bulgaria  gives  due  regard  to  the  positive  relation  between  migration  a
 
 The  Republic  of  Bulgaria  pursues  an  effective  integration  policy  aiming  to successfully integrate the foreigners residing legally in the country by granting to them equal rights, responsibilities and opportunities. The Bulgarian integration policy  should  be  supported  by  setting  up  and  strengthening  structures  and instruments  for  information  exchange  and  coordination  with  other  relevant policy areas such as employment,  education and social integration. The competent  national institutions focus their efforts on: strengthening and expanding  the  network  of  immigrant  information  centers  in  the  regions  with higher concentration of immigrants; making use of introductory and multicultural  educational  programs;  sustainable  dialogue  with  the  immigrant communities and organization of integration courses and information campaigns.
 
-The  competent  institutions  should  conduct  on  a  regular  basis  research  on  the number  of  persons  granted  Bulgarian  nationality  and  their  subsequent  social integration.
+The competent institutions should conduct on a regular basis research on the number of persons granted Bulgarian nationality and their subsequent social
 
 40
 
 [[END OF PAGE 40]]
 
 [[START OF PAGE 41]]
+
+integration.
 
 Bulgaria should proceed with the policy of expanding the range of measures for providing  services  and  support  to  Bulgarian  emigrants.  The  Labor  and  Social Affairs Offices at the embassies should be viewed as just a first step of a program for offering services to Bulgarian emigrants outside embassy's offices.
 
@@ -952,25 +1006,25 @@ Within  the  first  quarter  of  the  year,  the  National  Council  on  Migrati
 
 ## 1. Expected results
 
-- xrhombus Established  effective  mechanism  for  coordination  and  interaction  of  all competent structures towards better management of migration processes;
+- Established effective mechanism for coordination and interaction of all competent structures towards better management of migration processes;
 
-- xrhombus Improved migration regulations;
+- Improved migration regulations;
 
-- xrhombus Improved cooperation between the institutions and the nongovernmental sector;
+- Improved cooperation between the institutions and the non-governmental sector;
 
-- xrhombus Effective  actions  against  illegal  migration  and  human  trafficking  by carrying out border control, preparing information on migration routes, encouraging voluntary return and developing an integrated return approach through enhanced cooperation with the countries of origin and transit within the Global Approach to Migration.
+- Effective actions against illegal migration and human trafficking by carrying out border control, preparing information on migration routes, encouraging voluntary return and developing an integrated return approach through enhanced cooperation with the countries of origin and transit within the Global Approach to Migration.
 
-- xrhombus Intensified practical cooperation between the national administrations of Member States working in the field of asylum and refugees;
+- Intensified practical cooperation between the national administrations of Member States working in the field of asylum and refugees;
 
-- xrhombus Maintaining  and  strengthening  the  visa  system  of  the  Republic  of Bulgaria in line with the European requirements and the need to protect the external border of the Union;
+- Maintaining and strengthening the visa system of the Republic of Bulgaria in line with the European requirements and the need to protect the external border of the Union;
 
-- xrhombus Established legal, institutional and practical guarantees for the exercise of the  right  of  asylum  and  international  protection  of  persons  in  need  of such  protection,  in  accordance  with    the  recognized  international  and European standards;
+- Established legal, institutional and practical guarantees for the exercise of the right of asylum and international protection of persons in need of such protection, in accordance with the recognized international and European standards;
 
-- xrhombus More efficient absorption of the European funds towards implementation of the border, return, refugee and integration policy;
+- More efficient absorption of the European funds towards implementation of the border, return, refugee and integration policy;
 
-- xrhombus Strengthened administrative capacity of the officials working in the field of  migration  through  the  provision  of  regular  training  to  the  state administration,  the  local  authorities,  the  social  partners,  the  academic circles and the civil society;
+- Strengthened administrative capacity of the officials working in the field of migration through the provision of regular training to the state administration, the local authorities, the social partners, the academic circles and the civil society;
 
-- xrhombus Information and statistics support of migration processes towards their more effective management;
+- Information and statistics support of migration processes towards their more effective management;
 
 44
 
@@ -978,13 +1032,13 @@ Within  the  first  quarter  of  the  year,  the  National  Council  on  Migrati
 
 [[START OF PAGE 45]]
 
-- xrhombus Achieved  optimal  involvement  of  the  country  in  the  EU-level  decision making process on migration and, accordingly, in the implementation of adopted decisions;
+- Achieved optimal involvement of the country in the EU-level decision making process on migration and, accordingly, in the implementation of adopted decisions;
 
-- xrhombus Achieved  full  access  to  the  labor  markets  of  all  EU  Member  States  for Bulgarian  workers  and  encouraging  the  return  on  the  Bulgarian  labor market of the Bulgarian nationals working abroad.
+- Achieved full access to the labor markets of all EU Member States for Bulgarian workers and encouraging the return on the Bulgarian labor market of the Bulgarian nationals working abroad.
 
-- xrhombus Attracting  permanently  third-country  nationals  of  Bulgarian  origin  to settle in the country, for the purposes of the labor market.
+- Attracting permanently third-country nationals of Bulgarian origin to settle in the country, for the purposes of the labor market.
 
-- xrhombus Attracting  Bulgarian  emigrants  back  to  Bulgaria  with  a  view  to  their definite return;
+- Attracting Bulgarian emigrants back to Bulgaria with a view to their definite return;
 
 ## 2.A mechanism for assessment and corrective action
 
