@@ -18,7 +18,7 @@
 
 ### AMENDMENT [I.] 2
 
-Congress shall make no law respecting an establishment of religion,  or  prohibiting  the  free  exercise  thereof;  or  abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.
+Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people
 
 > 1 In Dillon v. Gloss , 256 U.S. 368 (1921), the Supreme Court stated that it would take judicial notice of the date on which a State ratified a proposed constitutional amendment. Accordingly  the  Court  consulted  the  State  journals  to  determine  the  dates  on  which  each  house  of the legislature of certain States ratified the Eighteenth Amendment. It, therefore, follows that the  date  on  which  the  governor  approved  the  ratification,  or  the  date  on  which  the  secretary of  state  of  a  given  State  certified  the  ratification,  or  the  date  on  which  the  Secretary  of  State of the United States received a copy of said certificate, or the date on which he proclaimed that the amendment had been ratified are not controlling. Hence, the ratification date given in the following  notes  is  the  date  on  which  the  legislature  of  a  given  State  approved  the  particular amendment (signature by the  speaker  or  presiding  officers  of  both  houses  being  considered  a part  of  the  ratification  of  the  ''legislature'').  When  that  date  is  not  available,  the  date  given is  that  on  which  it  was  approved  by  the  governor  or  certified  by  the  secretary  of  state  of  the particular State. In each case such fact has been noted. Except as otherwise indicated information as to ratification is based on data supplied by the Department of State.
 
@@ -35,6 +35,8 @@ Congress shall make no law respecting an establishment of religion,  or  prohibi
 26
 
 CONSTITUTION  OF  THE  UNITED  STATES
+
+peaceably to assemble, and to petition the Government for a redress of grievances.
 
 ### AMENDMENT [II.]
 
@@ -90,11 +92,11 @@ CONSTITUTION  OF  THE  UNITED  STATES
 
 ### AMENDMENT [XI.] 3
 
-The  Judicial  power  of  the  United  States  shall  not  be  construed  to  extend  to  any  suit  in  law  or  equity,  commenced  or prosecuted against one on the United States by Citizens of another State, or by Citizens or Subjects of any Foreign State.
+The Judicial power of the United States shall not be construed to extend to any suit in law or equity, commenced or prosecuted against one of the United States by Citizens of another State, or by Citizens or Subjects of any Foreign State.
 
 ### AMENDMENT [XII.] 4
 
-The Electors shall meet in their respective states and vote by  ballot  for  President  and  Vice-President,  one  of  whom,  at least,  shall  not  be  an  inhabitant  of  the  same  state  with  themselves; they shall name in their ballots the person voted for as President,  and  in  distinct  ballots  the  person  voted  for  as  VicePresident,  and  they  shall  make  distinct  lists  of  all  persons voted  for  as  President,  and  of  all  persons  voted  for  as  VicePresident, and of the number of votes for each, which lists they shall  sign  and  certify,  and  transmit  sealed  to  the  seat  of  the government  of  the  United  States,  directed  to  the  President  of the Senate;-The President of the Senate shall, in the presence of the Senate and House of Representatives, open all the certificates and the votes shall then be counted;-The person having the greatest Number of votes for President, shall be the President,  if  such  number  be  a  majority  of  the  whole  number  of Electors  appointed;  and  if  no  person  have  such  majority,  then from  the  persons  having  the  highest  numbers  not  exceeding three  on  the  list  of  those  voted  for  as  President,  the  House  of Representatives shall choose immediately, by ballot, the President.  But  in  choosing  the  President,  the  votes  shall  be  taken by  states,  the  representation  from  each  state  having  one  vote; a  quorum  for  this  purpose  shall  consist  of  a  member  or  members  from  two-thirds  of  the  states,  and  a  majority  of  all  the states shall be necessary to a choice. And if the House of Representatives shall not choose a President whenever the right of choice shall devolve upon them, before the fourth day of March next  following,  then  the  Vice-President  shall  act  as  President, as  in  the  case  of  the  death  or  other  constitutional  disability  of the President-The person having the greatest number of votes as  Vice-President,  shall  be  the  Vice-President,  if  such  number be  a  majority  of  the  whole  number  of  Electors  appointed,  and if  no  person  have  a  majority,  then  from  the  two  highest  numbers  on  the  list,  the  Senate  shall  choose  the  Vice-President;  a quorum for the purpose shall consist of two-thirds of the whole number of Senators, and a majority of the whole number shall be  necessary  to  a  choice.  But  no  person  constitutionally  ineligible  to  the  office  of  President  shall  be  eligible  to  that  of  VicePresident of the United States.
+The Electors shall meet in their respective states and vote by ballot for President and Vice-President, one of whom, at least, shall not be an inhabitant of the same state with themselves; they shall name in their ballots the person voted for as
 
 > 3 The  Eleventh  Amendment was proposed by Congress on March 4, 1794, when it passed the  House,  4 Annals  of  Congress 477,  478,  having  previously  passed  the  Senate  on  January
 
@@ -114,6 +116,8 @@ CONSTITUTION  OF  THE  UNITED  STATES
 
 29
 
+President, and in distinct ballots the person voted for as Vice-President, and they shall make distinct lists of all persons voted for as President, and of all persons voted for as Vice-President, and of the number of votes for each, which lists they shall sign and certify, and transmit sealed to the seat of the government of the United States, directed to the President of the Senate;—The President of the Senate shall, in the presence of the Senate and House of Representatives, open all the certificates and the votes shall then be counted;—The person having the greatest Number of votes for President, shall be the President, if such number be a majority of the whole number of Electors appointed; and if no person have such majority, then from the persons having the highest numbers not exceeding three on the list of those voted for as President, the House of Representatives shall choose immediately, by ballot, the President. But in choosing the President, the votes shall be taken by states, the representation from each state having one vote; a quorum for this purpose shall consist of a member or members from two-thirds of the states, and a majority of all the states shall be necessary to a choice. And if the House of Representatives shall not choose a President whenever the right of choice shall devolve upon them, before the fourth day of March next following, then the Vice-President shall act as President, as in the case of the death or other constitutional disability of the President—The person having the greatest number of votes as Vice-President, shall be the Vice-President, if such number be a majority of the whole number of Electors appointed, and if no person have a majority, then from the two highest numbers on the list, the Senate shall choose the Vice-President; a
+
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
@@ -121,6 +125,8 @@ CONSTITUTION  OF  THE  UNITED  STATES
 30
 
 CONSTITUTION  OF  THE  UNITED  STATES
+
+quorum for the purpose shall consist of two-thirds of the whole number of Senators, and a majority of the whole number shall be necessary to a choice. But no person constitutionally ineligible to the office of President shall be eligible to that of Vice-President of the United States.
 
 ### AMENDMENT XIII. 5
 
@@ -130,9 +136,9 @@ SECTION 2. Congress shall have power to enforce this article by appropriate legi
 
 ### AMENDMENT XIV. 6
 
-SECTION.  1.  All  persons  born  or  naturalized  in  the  United States and subject to the jurisdiction thereof, are citizens of the United  States  and  of  the  State  wherein  they  reside.  No  State shall  make  or  enforce  any  law  which  shall  abridge  the  privileges  or  immunities  of  citizens  of  the  United  States;  nor  shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws. SECTION.  2.  Representatives  shall  be  apportioned  among the several States according to their respective numbers, counting the whole number of persons in each State, excluding Indians  not  taxed.  But  when  the  right  to  vote  at  any  election  for the  choice  of  electors  for  President  and  Vice  President  of  the United States, Representatives in Congress, the Executive and
+SECTION. 1. All persons born or naturalized in the United States and subject to the jurisdiction thereof, are citizens of the
 
-> 5 The  Thirteenth  Amendment  was  proposed  by  Congress  on  January  31,  1865,  when  it passed the House, Cong. Globe (38th Cong., 2d Sess.) 531, having previously passed the Senate on  April  8,  1964.  Id.  (38th  cong.,  1st  Sess.),  1940.  It  appears  officially  in  13  Stat.  567  under the date of February 1, 1865. Ratification was completed on December 6, 1865, when the legislature  of  the  twenty-seventh  State  (Georgia)  approved  the  amendment,  there  being  then  36 States in the Union. On December 18, 1865, Secretary of State Seward certified that the Thirteenth Amendment had become a part of the Constitution, 13 Stat. 774.
+> 5 The Thirteenth Amendment was proposed by Congress on January 31, 1865, when it passed the House, Cong. Globe (38th Cong., 2d Sess.) 531, having previously passed the Senate on April 8, 1864. Id. (38th Cong., 1st Sess.), 1940. It appears officially in 13 Stat. 567 under the date of February 1, 1865. Ratification was completed on December 6, 1865, when the legislature of the twenty-seventh State (Georgia) approved the amendment, there being then 36 States in the Union. On December 18, 1865, Secretary of State Seward certified that the Thirteenth Amendment had become a part of the Constitution, 13 Stat. 774.
 
 > The  several  state  legislatures  ratified  the  Thirteenth  Amendment  on  the  following  dates: Illinois, February 1, 1865; Rhode Island, February 2, 1865; Michigan, February 2, 1865; Maryland,  February  3,  1865;  New  York,  February  3,  1865;  West  Virginia,  February  3,  1865;  Missouri,  February  6,  1865;  Maine,  February  7,  1865;  Kansas,  February  7,  1865;  Massachusetts, February 7, 1865; Pennsylvania, February 8, 1865; Virginia, February 9, 1865; Ohio, February 10,  1865;  Louisiana,  February  15  or  16,  1865;  Indiana,  February  16,  1865;  Nevada,  February 16,  1865;  Minnesota,  February  23,  1865;  Wisconsin,  February  24,  1865;  Vermont,  March  9, 1865 (date on which it was ''approved'' by Governor); Tennessee, April 7, 1865; Arkansas, April 14, 1865; Connecticut, May 4, 1865; New Hampshire, June 30, 1865; South Carolina, November 13,  1865;  Alabama,  December  2,  1865  (date  on  which  it  was  ''approved''  by  Provisional  Governor);  North  Carolina,  December  4,  1865;  Georgia,  December  6,  1865;  Oregon,  December  11, 1865;  California,  December  15,  1865;  Florida,  December  28,  1865  (Florida  again  ratified  this amendment on June 9, 1868, upon its adoption of a new constitution); Iowa, January 17, 1866; New  Jersey,  January  23,  1866  (after  having  rejected  the  amendment  on  March  16,  1865); Texas, February 17, 1870; Delaware, February 12, 1901 (after having rejected the amendment on  February  8,  1865).  The  amendment  was  rejected  by  Kentucky  on  February  24,  1865,  and by Mississippi on December 2, 1865.
 
@@ -145,6 +151,10 @@ SECTION.  1.  All  persons  born  or  naturalized  in  the  United States and su
 CONSTITUTION  OF  THE  UNITED  STATES
 
 31
+
+United States and of the State wherein they reside. No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.
+
+SECTION. 2. Representatives shall be apportioned among the several States according to their respective numbers, counting the whole number of persons in each State, excluding Indians not taxed. But when the right to vote at any election for the choice of electors for President and Vice President of the United States, Representatives in Congress, the Executive and
 
 (South  Carolina  or  Louisiana)  approved  the  amendment,  there  being  then  37  States  in  the
 
@@ -220,7 +230,7 @@ amendment in 1959.
 
 CONSTITUTION  OF  THE  UNITED  STATES
 
-Judicial  officers  of  a  State,  or  the  members  of  the  Legislature thereof, is denied to any of the male inhabitants of such State, being  twenty-one  years  of  age,  and  citizens  of  the  United States,  or  in  any  way  abridged,  except  for  participation  in  rebellion, or other crime, the basis of representation therein shall be  reduced  in  the  proportion  which  the  number  of  such  male citizens shall bear to the whole number of male citizens twentyone years of age in such State.
+Judicial officers of a State, or the members of the Legislature thereof, is denied to any of the male inhabitants of such State, being twenty-one years of age, and citizens of the United States, or in any way abridged, except for participation in rebellion, or other crime, the basis of representation therein shall be reduced in the proportion which the number of such male citizens shall bear to the whole number of male citizens twenty-one years of age in such State.
 
 SECTION. 3. No person shall be a Senator or Representative in Congress, or elector of President and Vice President, or hold any office,  civil  or  military,  under  the  United  States,  or  under any State, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as a member of  any  State  legislature,  or  as  an  executive  or  judicial  officer  of  any  State,  to  support  the  Constitution  of  the  United States,  shall  have  engaged  in  insurrection  or  rebellion  against the  same,  or  given  aid  or  comfort  to  the  enemies  thereof.  But Congress  may  by  a  vote  of  two-thirds  of  each  House,  remove such disability.
 
@@ -310,7 +320,7 @@ the Senate on July 5. Id., 4121. It appears officially in 36 Stat. 184. Ratifica
 
 on  February  3,  1913,  when  the  legislature  of  the  thirty-sixth  State  (Delaware,  Wyoming,  or
 
-New Mexico) approved the amendment, there being then 48 States in the Union. On February among the several States, and without regard to any census or enumeration.
+New Mexico) approved the amendment, there being then 48 States in the Union. On February
 
 [[END OF PAGE 11]]
 
@@ -320,11 +330,13 @@ New Mexico) approved the amendment, there being then 48 States in the Union. On 
 
 CONSTITUTION  OF  THE  UNITED  STATES
 
+among the several States, and without regard to any census or enumeration.
+
 ### AMENDMENT [XVII.] 9
 
 The Senate of the United States shall be composed of two Senators from each State, elected by the people thereof, for six years;  and  each  Senator  shall  have  one  vote.  The  electors  in each State shall have the qualifications requisite for electors of the most numerous branch of the State legislatures.
 
-When vacancies happen in the representation of any State in the Senate, the executive authority of such State shall issue writs of election to fill such vacancies: Provided, That the legislature of any State may empower the executive thereof to make temporary  appointments  until  the  people  fill  the  vacancies  by election as the legislature may direct.
+When vacancies happen in the representation of any State in the Senate, the executive authority of such State shall issue
 
 > 25, 1913, Secretary of State Knox certified that this amendment had become a part of the Constitution. 37 Stat. 1785.
 
@@ -341,6 +353,8 @@ When vacancies happen in the representation of any State in the Senate, the exec
 CONSTITUTION  OF  THE  UNITED  STATES
 
 35
+
+writs of election to fill such vacancies: Provided, That the legislature of any State may empower the executive thereof to make temporary appointments until the people fill the vacancies by election as the legislature may direct.
 
 This amendment shall not be so construed as to affect the election  or  term  of  any  Senator  chosen  before  it  becomes  valid as part of the Constitution.
 
@@ -416,11 +430,11 @@ Congress shall have power to enforce this article by appropriate legislation.
 
 ### AMENDMENT [XX.] 12
 
-SECTION. 1. The terms of the President and Vice President shall  end  at  noon  on  the  20th  day  of  January,  and  the  terms of Senators and Representatives at noon on the 3d day of January, of the years in which such terms would have ended if this article  had not been ratified; and the terms of their successors shall then begin.
+SECTION. 1. The terms of the President and Vice President shall end at noon on the 20th day of January, and the terms
 
-> 11 The Nineteenth Amendment was proposed by Congress on June 4, 1919, when it passed the Senate, Cong. Rec. (66th Cong., 1st Sess.) 635, having previously passed the house on May 21. Id., 94. It appears officially in 41 Stat. 362. Ratification was completed on August 18, 1920, when the thirty-sixth State (Tennessee) approved the amendment, there being then 48 States in  the  Union.  On  August  26,  1920,  Secretary  of  Colby  certified  that  it  had  become  a  part  of the Constitution. 41 Stat. 1823.
+> 11 The Nineteenth Amendment was proposed by Congress on June 4, 1919, when it passed the Senate, Cong. Rec. (66th Cong., 1st Sess.) 635, having previously passed the house on May 21. Id., 94. It appears officially in 41 Stat. 362. Ratification was completed on August 18, 1920, when the thirty-sixth State (Tennessee) approved the amendment, there being then 48 States in the Union. On August 26, 1920, Secretary of State Colby certified that it had become a part of the Constitution. 41 Stat. 1823.
 
-> The several state legislatures  ratified  the  Nineteenth  Amendment  on  the  following  dates: Illinois,  June  10,  1919  (readopted  June  17,  1919);  Michigan,  June  10,  1919;  Wisconsin,  June 10, 1919; Kansas, June 16, 1919; New York, June 16, 1919; Ohio, June 16, 1919; Pennsylvania, June 24, 1919; Massachusetts, June 25, 1919; Texas, June 28, 1919; Iowa, July 2, 1919 (date on  which  approved  by  Governor);  Missouri,  July  3,  1919;  Arkansas,  July  28,  1919;  Montana, August 2,  1919  (date  on  which  approved  by  governor);  Nebraska,  August  2,  1919;  Minnesota, September  8,  1919;  New  Hampshire,  September  10,  1919  (date  on  which  approved  by  Governor); Utah, October 2, 1919; California, November 1, 1919; Maine, November 5, 1919; North Dakota, December 1, 1919; South Dakota, December 4, 1919 (date on which certified); Colorado, December 15, 1919 (date on which approved by Governor); Kentucky, January 6, 1920; Rhode Island, January 6, 1920; Oregon, January 13, 1920; Indiana, January 16, 1920; Wyoming, January 27, 1920; Nevada, February 7, 1920; New Jersey, February 9, 1920; Idaho, February 11, 1920;  Arizona,  February  12,  1920;  New  Mexico,  February  21,  1920  (date  on  which  approved by govrnor); Oklahoma, February 28, 1920; West Virginia, March 10, 1920 (confirmed September  21,  1920);  Vermont,  February  8,  1921.  The  amendment  was  rejected  by  Georgia  on  July 24, 1919; by Alabama on September 22, 1919; by South Carolina on January 29, 1920; by Virginia  on  February  12,  1920;  by  Maryland  on  February  24,  1920;  by  Mississippi  on  March  29, 1920; by Louisiana on July 1, 1920. This amendment was subsequently ratified by Virginia in 1952, Alabama in 1953, Florida in 1969, and Georgia and Louisiana in 1970.
+> The several state legislatures ratified the Nineteenth Amendment on the following dates: Illinois, June 10, 1919 (readopted June 17, 1919); Michigan, June 10, 1919; Wisconsin, June 10, 1919; Kansas, June 16, 1919; New York, June 16, 1919; Ohio, June 16, 1919; Pennsylvania, June 24, 1919; Massachusetts, June 25, 1919; Texas, June 28, 1919; Iowa, July 2, 1919 (date on which approved by Governor); Missouri, July 3, 1919; Arkansas, July 28, 1919; Montana, August 2, 1919 (date on which approved by governor); Nebraska, August 2, 1919; Minnesota, September 8, 1919; New Hampshire, September 10, 1919 (date on which approved by Governor); Utah, October 2, 1919; California, November 1, 1919; Maine, November 5, 1919; North Dakota, December 1, 1919; South Dakota, December 4, 1919 (date on which certified); Colorado, December 15, 1919 (date on which approved by Governor); Kentucky, January 6, 1920; Rhode Island, January 6, 1920; Oregon, January 13, 1920; Indiana, January 16, 1920; Wyoming, January 27, 1920; Nevada, February 7, 1920; New Jersey, February 9, 1920; Idaho, February 11, 1920; Arizona, February 12, 1920; New Mexico, February 21, 1920 (date on which approved by governor); Oklahoma, February 28, 1920; West Virginia, March 10, 1920 (confirmed September 21, 1920); Vermont, February 8, 1921. The amendment was rejected by Georgia on July 24, 1919; by Alabama on September 22, 1919; by South Carolina on January 29, 1920; by Virginia on February 12, 1920; by Maryland on February 24, 1920; by Mississippi on March 29, 1920; by Louisiana on July 1, 1920. This amendment was subsequently ratified by Virginia in 1952, Alabama in 1953, Florida in 1969, and Georgia and Louisiana in 1970.
 
 > 12 The Twentieth Amendment was proposed by Congress on March 2, 1932, when it passed the  Senate,  Cong.  Rec.  (72d  Cong.,  1st  Sess.)  5086,  having  previously  passed  the  House  on March 1. Id., 5027. It appears officially in 47 Stat. 745. Ratification was completed on January 23, 1933, when the thirty-sixth State approved the amendment, there being then 48 States in the Union. On February 6, 1933, Secretary of State Stimson certified that it had become a part
 
@@ -434,13 +448,15 @@ CONSTITUTION  OF  THE  UNITED  STATES
 
 37
 
+of Senators and Representatives at noon on the 3d day of January, of the years in which such terms would have ended if this article had not been ratified; and the terms of their successors shall then begin.
+
 SEC. 2. The Congress shall assemble at least once in every year,  and  such  meeting  shall  begin  at  noon  on  the  3d  day  of January, unless they shall by law appoint a different day.
 
 SEC.  3.  If,  at  the  time  fixed  for  the  beginning  of  the  term of  the  President,  the  President  elect  shall  have  died,  the  Vice President elect shall become President. If a President shall not have been chosen before the time fixed for the beginning of his term, or if the President elect shall have failed to qualify, then the Vice President elect shall act as President until a President shall  have  qualified;  and  the  Congress  may  by  law  provide  for the case wherein neither a President elect nor a Vice President elect shall have qualified, declaring who shall then act as President,  or  the  manner  in  which  one  who  is  to  act  shall  be  selected,  and  such  person  shall  act  accordingly  until  a  President or Vice President shall have qualified.
 
 The  several  state  legislatures  ratified  the  Twentieth  Amendment  on  the  following  dates:
 
-Virginia,  March  4,  1932;  New  York,  March  11,  1932;  Mississippi,  March  16,  1932;  Arkansas
+Virginia, March 4, 1932; New York, March 11, 1932; Mississippi, March 16, 1932; Arkansas,
 
 March  17,  1932;  Kentucky,  March  17,  1932;  New  Jersey,  March  21,  1932;  South  Carolina,
 
@@ -640,7 +656,7 @@ kota) approved the Amendment, there being then 50 States in the Union. On Februa
 
 Bernard  L.  Boutin,  Administrator  of  General  Services,  certified  that  it  had  been  adopted  by
 
-the  requisite  number  of  States.  25  Fed.  Reg.  1717.  President  Lyndon  B.  Johnson  signed  this
+the requisite number of States. 29 Fed. Reg. 1717. President Lyndon B. Johnson signed this
 
 certificate.
 
@@ -680,9 +696,9 @@ uary 16, 1964; South Dakota, January 23, 1964.
 
 CONSTITUTION  OF  THE  UNITED  STATES
 
-SECTION. 2. Whenever there is a vacancy in the office of the Vice  President,  the  President  shall  nominate  a  Vice  President who  shall  take  office  upon  confirmation  by  a  majority  vote  of
+SECTION. 2. Whenever there is a vacancy in the office of the Vice President, the President shall nominate a Vice President who shall take office upon confirmation by a majority vote of both Houses of Congress.
 
-both Houses of Congress. SECTION. 3. Whenever the President transmits to the President  pro  tempore  of  the  Senate  and  the  Speaker  of  the  House of Representatives has written declaration that he is unable to discharge  the  powers  and  duties  of  his  office,  and  until  he transmits  to  them  a  written  declaration  to  the  contrary,  such powers and duties shall be discharged by the Vice President as Acting President.
+SECTION. 3. Whenever the President transmits to the President pro tempore of the Senate and the Speaker of the House of Representatives his written declaration that he is unable to discharge the powers and duties of his office, and until he transmits to them a written declaration to the contrary, such powers and duties shall be discharged by the Vice President as Acting President.
 
 - SECTION. 4. Whenever the Vice President and a majority of either  the  principal  officers  of  the  executive  departments  or  of such  other  body  as  Congress  may  by  law  provide,  transmit  to the President pro tempore of the Senate and the Speaker of the House  of  Representatives  their  written  declaration  that  the President  is  unable  to  discharge  the  powers  and  duties  of  his office, the Vice President shall immediately assume the powers and duties of the office as Acting President.
 
@@ -714,7 +730,7 @@ Minnesota,  February  10,  1967;  Nevada,  February  10,  1967;  Connecticut,  F
 
 Montana,  February  15,  1967;  South  Dakota,  March  6,  1967;  Ohio,  March  7,  1967;  Alabama,
 
-March  14,  1967;  North  Carolina,  March  22,  1967  Illinois,  March  22,  1967;  Texas,  April  25,
+March 14, 1967; North Carolina, March 22, 1967; Illinois, March 22, 1967; Texas, April 25,
 
 1967; Florida, May 25, 1967.
 
@@ -732,11 +748,11 @@ CONSTITUTION  OF  THE  UNITED  STATES
 
 43
 
-Thereafter, when the President transmits to the President pro  tempore  of  the  Senate  and  the  Speaker  of  the  House  of Representatives has written declaration that no inability exists, he  shall  resume  the  powers  and  duties  of  his  office  unless  the Vice President and a majority of either the principal officers of the  executive  department  or  of  such  other  body  as  Congress may by law provide, transmit within four days to the President pro  tempore  of  the  Senate  and  the  Speaker  of  the  House  of Representatives their written declaration that the President is unable to discharge the powers and duties of his office. Thereupon Congress shall decide the issue, assembling within fortyeight  hours  for  that  purpose  if  not  in  session.  If  the  Congress, within  twenty-one  days  after  receipt  of  the  latter  written  declaration,  or,  if  Congress  is  not  in  session,  within  twenty-one days after Congress is required to assemble, determines by twothirds vote of both Houses that the President is unable to discharge  the  powers  and  duties  of  his  office,  the  Vice  President shall continue to discharge the same as Acting President; otherwise,  the  President  shall  resume  the  powers  and  duties  of  his office.
+Thereafter, when the President transmits to the President pro tempore of the Senate and the Speaker of the House of Representatives his written declaration that no inability exists, he shall resume the powers and duties of his office unless the Vice President and a majority of either the principal officers of the executive department or of such other body as Congress may by law provide, transmit within four days to the President pro tempore of the Senate and the Speaker of the House of Representatives their written declaration that the President is unable to discharge the powers and duties of his office. Thereupon Congress shall decide the issue, assembling within forty-eight hours for that purpose if not in session. If the Congress, within twenty-one days after receipt of the latter written declaration, or, if Congress is not in session, within twenty-one days after Congress is required to assemble, determines by two-thirds vote of both Houses that the President is unable to discharge the powers and duties of his office, the Vice President shall continue to discharge the same as Acting President; otherwise, the President shall resume the powers and duties of his office.
 
 ### AMENDMENT [XXVI] 18
 
-SECTION. 1. The right of citizens of the United States, who are  eighteen  years  of  age  or  older,  to  vote  shall  not  be  denied or  abridged  by  the  United  States  or  by  any  State  on  account of age.
+SECTION. 1. The right of citizens of the United States, who are eighteen years of age or older, to vote shall not be denied
 
 > 18 The Twenty-sixth Amendment was proposed by Congress on March 23, 1971, upon passage by the House of Representatives, the Senate having previously passed an identical resolution on March 10, 1971. It appears officially in 85 Stat. 825. Ratification was completed on July 1,  1971,  when action by the legislature of the 38th State, North Carolina, was concluded, and the  Administrator  of  the  General  Services  Administration  officially  certified  it  to  have  been duly ratified on July 5, 1971. 36 Fed. Reg. 12725.
 
@@ -751,6 +767,8 @@ SECTION. 1. The right of citizens of the United States, who are  eighteen  years
 44
 
 CONSTITUTION  OF  THE  UNITED  STATES
+
+or abridged by the United States or by any State on account of age.
 
 SECTION. 2. The Congress shall have power to enforce this article by appropriate legislation.
 
@@ -774,6 +792,6 @@ Virginia, July 8, 1971; Wyoming, July 8, 1971; Georgia, October 4, 1971.
 
 > 19 This  purported  amendment  was  proposed  by  Congress  on  September  25,  1789,  when  it passed the Senate, having previously passed the House on September 24. (1 Annals of Congress 88, 913). It appears officially in 1 Stat. 97. Having received in 1789-1791 only six state ratifications, the proposal then failed of ratification while ten of the 12 sent to the States by Congress were ratified  and  proclaimed  and  became  the  Bill  of  Rights.  The  provision  was  proclaimed  as having been ratified and having become the 27th Amendment, when Michigan ratified on May 7,  1992,  there  being  50  States  in  the  Union.  Proclamation  was  by  the  Archivist  of  the  United States, pursuant to 1 U.S.C. § 106b, on May 19, 1992. F.R.Doc. 92-11951, 57 FED. REG. 21187. It  was  also  proclaimed  by  votes  of  the  Senate  and  House  of  Representatives.  138  CONG.  REC. (daily ed) S 6948-49, H 3505-06.
 
-> The several  state  legislatures  ratified  the  proposal  on  the  following  dates:  Maryland,  December 19, 1789; North Carolina, December 22, 1789; South Carolina, January 19, 1790; Delaware, January 28, 1790; Vermont, November 3, 1791; Virginia, December 15, 1791; Ohio, May 6,  1873; Wyoming, March 6, 1978; Maine, April 27, 1983; Colorado, April 22, 1984; South Dakota, February 1985; New Hampshire, March 7, 1985; Arizona, April 3, 1985; Tennessee, May 28,  1985;  Oklahoma,  July  10,  1985;  New  Mexico,  February  14,  1986;  Indiana,  February  24, 1986; Utah, February 25, 1986; Arkansas, March 13, 1987; Montana, March 17, 1987; Connecticut, May 13, 1987; Wisconsin, July 15, 1987; Georgia, February 2, 1988; West Virginia, March 10,  1988;  Louisiana,  July  7,  1988;  Iowa,  February  9,  1989;  Idaho,  March  23,  1989;  Nevada, April 26, 1989; Alaska, May 6, 1989; Oregon, May 19, 1989; Minnesota, May 22, 1989; Texas, May  25,  1989;  Kansas,  April  5,  1990;  Florida,  May  31,  1990;  North  Dakota,  Mary  25,  1991; Alabama,  May  5,  1992;  Missouri,  May  5,  1992;  Michigan,  May  7,  1992.  New  Jersey  subsequently ratified on May 7, 1992.
+> The several state legislatures ratified the proposal on the following dates: Maryland, December 19, 1789; North Carolina, December 22, 1789; South Carolina, January 19, 1790; Delaware, January 28, 1790; Vermont, November 3, 1791; Virginia, December 15, 1791; Ohio, May 6, 1873; Wyoming, March 6, 1978; Maine, April 27, 1983; Colorado, April 22, 1984; South Dakota, February 1985; New Hampshire, March 7, 1985; Arizona, April 3, 1985; Tennessee, May 28, 1985; Oklahoma, July 10, 1985; New Mexico, February 14, 1986; Indiana, February 24, 1986; Utah, February 25, 1986; Arkansas, March 13, 1987; Montana, March 17, 1987; Connecticut, May 13, 1987; Wisconsin, July 15, 1987; Georgia, February 2, 1988; West Virginia, March 10, 1988; Louisiana, July 7, 1988; Iowa, February 9, 1989; Idaho, March 23, 1989; Nevada, April 26, 1989; Alaska, May 6, 1989; Oregon, May 19, 1989; Minnesota, May 22, 1989; Texas, May 25, 1989; Kansas, April 5, 1990; Florida, May 31, 1990; North Dakota, March 25, 1991; Alabama, May 5, 1992; Missouri, May 5, 1992; Michigan, May 7, 1992. New Jersey subsequently ratified on May 7, 1992.
 
 [[END OF PAGE 22]]
