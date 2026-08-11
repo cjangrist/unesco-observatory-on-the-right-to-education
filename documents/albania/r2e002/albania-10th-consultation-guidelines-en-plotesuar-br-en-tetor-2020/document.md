@@ -58,9 +58,9 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 3]]
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States through  a  participatory  process.  Please  note  that  multiple  answers  may  be  provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States through a participatory process. Please note that multiple answers may be provided where relevant.
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 In their responses, Member States are encouraged to provide information in a concise manner while preserving substantive and relevant content.
 
@@ -72,9 +72,9 @@ In their responses, Member States are encouraged to provide information in a con
 
 Country name: Albania
 
-### Information on the legislative, judicial, administrative and other measures taken by the state at the national level
+### I. Information on the legislative, judicial, administrative and other measures taken by the state at the national level
 
-#### Ratification of the Convention 2
+#### 1. Ratification of the Convention 2
 
 Is your country a State Party to the Convention?
 
@@ -110,7 +110,7 @@ http://portal.unesco.org/en/ev.php-URL_ID=12949&URL_DO=DO_TOPIC&URL_SECTION=201.
 
 [[START OF PAGE 5]]
 
-#### Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
+#### 2. Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
 
 Has your country ratified the Protocol?
 
@@ -118,7 +118,7 @@ o Yes
 
 - X   No, please briefly explain the difficulties encountered:
 
-#### Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
+#### 3. Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
 
 In case your country is a State Party to the Convention:
 
@@ -166,11 +166,11 @@ If yes, the report could list the main texts adopted to guarantee the right to e
 
 Information supplied could demonstrate how such policies and programmes comply with commitments of the right to education under the Recommendation.
 
-### Information on the implementation of the Convention or Recommendation
+### II. Information on the implementation of the Convention or Recommendation
 
-#### Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
+#### 1. Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
 
-Articles/Paragraphs  1(1),  2  and  3  of  the  Convention/Recommendation  provide  for  nondiscrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
+Articles/Paragraphs 1(1), 2 and 3 of the Convention/Recommendation provide for non-discrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
 
 This corresponds to the overall aspiration of SDG4 which aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all' by 2030. It therefore covers all the SDG4 targets, but also specifically SDG target 4.5. 4
 
@@ -216,15 +216,12 @@ o Other:
 
 Our legal framework and education strategies recognize and accept inclusion in education and develop mechanisms for its practical implementation.
 
-In Law no. 80/2015 'On higher education and ……' stipulates that Article 4: The right for education
-
-- The right to pursue higher education belongs to all those individuals who have successfully completed secondary education and who meet the admission criteria, set by the applicable legal framework and higher education institutions.
-
-- The state guarantees education also for individuals who meet the admission criteria in a program of the first cycle of studies, in an integrated program of studies or in a program of professional studies, but who do not have the financial means to afford them .
-
-- Education is guaranteed in these study programs to individuals, who are recognized this right by special laws.
-
-- The Council of Ministers issues bylaws for determining the categories of individuals who benefit from this right, according to point 2 of this article.
+In Law no. 80/2015 “On higher education and ……” stipulates that
+Article 4: The right for education
+1. The right to pursue higher education belongs to all those individuals who have successfully completed secondary education and who meet the admission criteria, set by the applicable legal framework and higher education institutions.
+2. The state guarantees education also for individuals who meet the admission criteria in a program of the first cycle of studies, in an integrated program of studies or in a program of professional studies, but who do not have the financial means to afford them .
+3. Education is guaranteed in these study programs to individuals, who are recognized this right by special laws.
+4. The Council of Ministers issues bylaws for determining the categories of individuals who benefit from this right, according to point 2 of this article.
 
 - Please indicate the relevant legal, regulatory or policy texts and provide a brief description of the measures taken :
 
@@ -288,7 +285,7 @@ Please provide reference to the relevant laws and provisions:
 
 Do not have info
 
-#### Progress made with respect to implementing the right to education in the context of SDG 4
+#### 2. Progress made with respect to implementing the right to education in the context of SDG 4
 
 ##### 2.1 Pre-primary education
 
@@ -300,7 +297,7 @@ Pre-primary  education  is  not  explicitly  provided  for  in  the  Convention/
 
 [[START OF PAGE 9]]
 
-(General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 8 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory preprimary education'.
+(General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 8. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Is compulsory and free of charge pre-primary education available in your country?
 
@@ -432,15 +429,11 @@ Please list the laws and policies that ensure the free availability of secondary
 
 Vocational secondary education is part of the area of responsibility of the Ministry of Finance and Economy. This based on decision no. 503, dated 13.9.2017 on 'DETERMINATION OF THE  AREA  OF  STATE  RESPONSIBILITY  OF  THE  MINISTRY  OF  FINANCE  AND ECONOMY'.
 
-Based  on  Law  no.  15/2017  on  'VOCATIONAL  EDUCATION  AND  TRAINING  IN  THE REPUBLIC OF ALBANIA', the Ministry of Education, Sports and Youth, has the following competencies:
-
-- approves general culture programs based on key competencies for lifelong learning;
-
-- organizes the testing and certification of the respective subjects of the State Professional Matura, through specialized institutions;
-
-- organizes continuous professional training for general culture teachers who are engaged in VET;
-
-- ç)  determines  the  general  criteria  for  the  qualification  of  teachers  of  general  education subjects in VET
+Based on Law no. 15/2017 on 'VOCATIONAL EDUCATION AND TRAINING IN THE REPUBLIC OF ALBANIA', the Ministry of Education, Sports and Youth, has the following competencies:
+a) approves general culture programs based on key competencies for lifelong learning;
+b) organizes the testing and certification of the respective subjects of the State Professional Matura, through specialized institutions;
+c) organizes continuous professional training for general culture teachers who are engaged in VET;
+ç) determines the general criteria for the qualification of teachers of general education subjects in VET
 
 o No: What are the measures your government intends to take to ensure free secondary education?
 
@@ -547,22 +540,12 @@ c) provides each student enrolled in a higher education institution with a uniqu
 (NIM).
 
 Regarding non-differential treatment of students, the legislation applicable in Albania includes:
-
 1) Constitution of the Republic of Albania
-
-- Law no. 80/2015 on 'Higher Education and Scientific Research in the Higher Education Institutions of the Republic of Albania'
-
-- Decision of Council of Ministers no.288, dated 21.5.2018 'For the approval of maximum limit of tuition fees for students attending courses in the public higher education institutions, full-time enrolled in a program of the first cycle of studies, in an integrated program of studies or in a professional program studies', amended
-
-4) Decision no. 903, of 21.12.2016, of the Council of Ministers, "On determining the criteria for
-
-obtaining scholarships from the student support fund, for excellent students, students studying in
-
-study programs in priority areas and students in need", amended.
-
-- Decision no. 269 of 29.03.2017, of the Council of Ministers, "For determining the categories of individuals who meet the criteria for admission to a program of the first study cycle in an integrated program of studies or in a program of professional studies that are excluded from the annual school tariff ", amended.
-
-- Decision no. 780, of 26.12.2018 of the Council of Ministers 'For the determination of categories of individuals that fulfil the criteria for reduction of annual study tariff in the programs of the second cycle of studies'
+2) Law no. 80/2015 on 'Higher Education and Scientific Research in the Higher Education Institutions of the Republic of Albania'
+3) Decision of Council of Ministers no.288, dated 21.5.2018 'For the approval of maximum limit of tuition fees for students attending courses in the public higher education institutions, full-time enrolled in a program of the first cycle of studies, in an integrated program of studies or in a professional program studies', amended
+4) Decision no. 903, of 21.12.2016, of the Council of Ministers, "On determining the criteria for obtaining scholarships from the student support fund, for excellent students, students studying in study programs in priority areas and students in need", amended.
+5) Decision no. 269 of 29.03.2017, of the Council of Ministers, "For determining the categories of individuals who meet the criteria for admission to a program of the first study cycle in an integrated program of studies or in a program of professional studies that are excluded from the annual school tariff ", amended.
+6) Decision no. 780, of 26.12.2018 of the Council of Ministers 'For the determination of categories of individuals that fulfil the criteria for reduction of annual study tariff in the programs of the second cycle of studies'
 
 [[END OF PAGE 13]]
 
@@ -714,7 +697,7 @@ o
 
 - National Strategy for Pre-University Education 2014-2020;
 
-- Order no. 31, dated 28.01.2020 "On the approval of the Regulation on the functioning of pre- university educational institutions"
+- Order no. 31, dated 28.01.2020 "On the approval of the Regulation on the functioning of pre-university educational institutions"
 
 - Law no. 18/2017, "On the rights and protection of the child"
 
@@ -738,109 +721,37 @@ Article/Paragraph  5(1)(c)  of  the  Convention/Recommendation  provides  for  t
 
 [[START OF PAGE 18]]
 
--  Please indicate the legal, policy and regulatory measures that protect the rights given to
-
-national  minorities  to  carry  out  their  own  educational  activities  (several  items  could  be
-
-ticked/mentioned):
+- Please indicate the legal, policy and regulatory measures that protect the rights given to national minorities to carry out their own educational activities (several items could be ticked/mentioned):
 
 X Constitutional laws and/or legislation protect the right to education of national minorities
 
-X Legislation or regulations guarantee the right of national minorities to study in their mother
-
-tongue
+X Legislation or regulations guarantee the right of national minorities to study in their mother tongue
 
 X Curriculum is adapted to national minority needs
 
 X Teachers are trained to adapt to national minority needs
 
-Other:
+o Other:
 
-o
+- Students of national minorities in basic education develop in their mother tongue many subjects, such as: Mother tongue; Native history; Native geography; Nature knowledge; Mathematics 1-5, Biology; Visual art; Music, Citizen, etc.
 
--
+- Educational institutions for basic education where students of national minorities study plan special activities every school year, in order to preserve and promote the cultural and artistic heritage of national minorities.
 
-Students of national minorities in basic education develop in their mother tongue
+- Textbooks in the language of national minorities are according to the new curriculum with competencies and are translations of the winning textbooks of the MASR catalog. For scientific texts we have translations of the winning texts of Oxford, Cambridge and Pearson.
 
-many subjects, such as: Mother tongue; Native history; Native geography; Nature
+- Special textbooks for the language, history and geography of national minorities are texts compiled by pedagogues and teachers of national minorities, according to the specifics of the language, culture, history and geography of these minorities.
 
-knowledge; Mathematics 1-5, Biology; Visual art; Music, Citizen, etc.
+- Textbooks for students of national minorities are provided free of charge, financed from the state budget.
 
--
+- Teachers of national minorities are trained every year on the curriculum with competencies, multilingualism, inclusion, etc. from the Agency for Quality Assurance of Pre-University Education.
 
-Educational institutions  for  basic  education  where  students  of  national  minorities
+- In the framework of the reorganization of local educational units, in 2019, attention was paid to the educational institutions where students of national minorities study to be covered by a separate Local Education Office (LEO), in order to provide them with a direct service quality education.
 
-study plan special activities every school year, in order to preserve and promote the
-
-cultural and artistic heritage of national minorities.
-
--
-
-Textbooks in the language of national minorities are according to the new curriculum
-
-with  competencies  and  are  translations  of  the  winning  textbooks  of  the  MASR
-
-catalog.  For  scientific  texts  we  have  translations  of  the  winning  texts  of  Oxford,
-
-Cambridge and Pearson.
-
--
-
-Special textbooks for the language, history and geography of national minorities are
-
-texts compiled by pedagogues and teachers of national minorities, according to the
-
-specifics of the language, culture, history and geography of these minorities.
-
--
-
-Textbooks for students of national minorities are provided free of charge, financed
-
-from the state budget.
-
--
-
-Teachers  of  national  minorities  are  trained  every  year  on  the  curriculum  with
-
-competencies,
-
-multilingualism,
-
-inclusion,
-
-etc.
-
-from
-
-the
-
-Agency  for
-
-Quality
-
-Assurance of Pre-University Education.
-
--
-
-In the framework of the reorganization of local educational units, in 2019, attention
-
-was paid to the educational institutions where students of national minorities study to
-
-be covered by a separate Local Education Office (LEO), in order to provide them
-
-with a direct service quality education.
-
--
-
-In the framework of the professional development of educational staff, professional
-
-networks have been set up for each subject for pre-university education. Some of
-
-these subject networks are run by national minority teachers.
+- In the framework of the professional development of educational staff, professional networks have been set up for each subject for pre-university education. Some of these subject networks are run by national minority teachers.
 
 - Please provide a brief description of the provisions:
 
--  Based  on  law  no.  69/2012  'For  the  pre-university  education  system  in  the  Republic  of Albania, as amended, conditions are created for students of national minorities to learn the Albanian language and knowledge of Albanian history and culture, to enable active and equal participation in economic and social life , political and cultural of the Republic of Albania and they are assessed in the national exams of basic education in the subjects of mother tongue, Albanian language and, if desired, also in a foreign language.
+- Based on law no. 69/2012 'For the pre-university education system in the Republic of Albania, as amended, conditions are created for students of national minorities to learn the Albanian language and knowledge of Albanian history and culture, to enable active and equal participation in economic and social life , political and cultural of the Republic of Albania and they are assessed in the national exams of basic education in the subjects of mother tongue, Albanian language and, if desired, also in a foreign language.
 
 [[END OF PAGE 18]]
 
@@ -906,7 +817,7 @@ o Other innovative measures:
 
 Please briefly elaborate further on the measures taken:
 
-### Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
+### III. Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
 
 #### 1. Challenges and obstacles
 
@@ -940,7 +851,7 @@ UNESCO  governing  bodies  have  underlined  the  need  for  awareness  raising.
 
 - X  Increased public awareness through advocacy material on the Convention/ Recommendation or the core principles of the right to education
 
-- X  Activities undertaken  or supported by the  National  Commission  to  promote  nondiscrimination  and  equality  of  educational  opportunities  and  to  foster  debate  on  critical issues in relation to the rights enshrined in the instruments
+- X Activities undertaken or supported by the National Commission to promote non-discrimination and equality of educational opportunities and to foster debate on critical issues in relation to the rights enshrined in the instruments
 
 o Other:
 
