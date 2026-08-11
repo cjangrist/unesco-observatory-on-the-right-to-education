@@ -99,7 +99,7 @@ Uzbekistan is a sovereign democratic republic. Both names of the state - the Rep
 The state shall express the will of the people and serve their interests. State bodies and officials shall be accountable to the society and the citizens.
 
 #### Article 3.
-The Republic of Uzbekistan shall determine its national-state and administrativeterritorial structure, its structure of state authority and administration, and shall pursue independent home and foreign policies.
+The Republic of Uzbekistan shall determine its national-state and administrative-territorial structure, its structure of state authority and administration, and shall pursue independent home and foreign policies.
 
 The state frontier and the territory of Uzbekistan shall be inviolable and indivisible.
 
@@ -161,7 +161,7 @@ None of the provisions of the present Constitution shall be interpreted in a way
 ### Chapter 4. Foreign Policy
 
 #### Article 17.
-The Republic of Uzbekistan shall have full rights in international relations. Its foreign policy shall be based on the principles of sovereign equality of the states, non-use of force or threat of its use, inviolability of frontiers, peaceful settlement of disputes, noninterference in the internal affairs of other states, and other universally recognized norms of international law.
+The Republic of Uzbekistan shall have full rights in international relations. Its foreign policy shall be based on the principles of sovereign equality of the states, non-use of force or threat of its use, inviolability of frontiers, peaceful settlement of disputes, non-interference in the internal affairs of other states, and other universally recognized norms of international law.
 
 The Republic may form alliances, join or withdraw from unions and other inter-state organizations proceeding from the ultimate interests of the state and the people, their well-being and security.
 
@@ -313,7 +313,7 @@ All citizens shall be obliged to observe the Constitution and laws, and to respe
 #### Article 49.
 It is the duty of every citizen to protect the historical, spiritual and cultural heritage of the people of Uzbekistan.
 
-Cultural monuments shall have protection *y the state.
+Cultural monuments shall have protection by the state.
 
 #### Article 50.
 All citizens shall protect the environment.
@@ -441,9 +441,9 @@ Any disputes between the Republic of Uzbekistan and the Republic of Karakalpakst
 #### Article 76.
 The supreme state representative body shall be the Oliy Majlis of the Republic of Uzbekistan that exercises legislative power.
 
-The Oliy Majlis of the Republic of Uzbekistan shall consist of two chambers-the Legislative Chamber (the lower chamber) and the Senate (the upper chamber).
+The Oliy Majlis of the Republic of Uzbekistan shall consist of two chambers—the Legislative Chamber (the lower chamber) and the Senate (the upper chamber).
 
-The term of powers of the Legislative chamber and the Senate of the Oliy Majlis of the Republic of Uzbekistan-five years.
+The term of powers of the Legislative chamber and the Senate of the Oliy Majlis of the Republic of Uzbekistan—five years.
 
 #### Article 77.
 The Legislative Chamber of the Oliy Majlis of the Republic of Uzbekistan shall consist of one hundred twenty deputies elected by territorial constituencies on a multiparty basis.
@@ -454,108 +454,108 @@ The Senate of the Oliy Majlis of the Republic of Uzbekistan shall be the chamber
 
 [[START OF PAGE 11]]
 
-Members of the Senate of the Oliy Majlis of the Republic of Uzbekistan shall be elected in equal quantity - in six persons - from the Republic of Karakalpakstan, regions and the city of Tashkent by secret ballot at relevant joint sessions of deputies of Zhokarghy Kenes of the Republic of Karakalpakstan, representative bodies of state authority of regions, districts, cities and towns from among these deputies. Sixteen members of the Senate of the Oliy Majlis of the Republic of Uzbekistan shall be appointed by the President of the Republic of Uzbekistan from among the most authoritative citizens with large practical experience and special merits in the sphere of science, art, literature, manufacture and other spheres of state and public activity.
+Members of the Senate of the Oliy Majlis of the Republic of Uzbekistan shall be elected in equal quantity — in six persons — from the Republic of Karakalpakstan, regions and the city of Tashkent by secret ballot at relevant joint sessions of deputies of Zhokarghy Kenes of the Republic of Karakalpakstan, representative bodies of state authority of regions, districts, cities and towns from among these deputies. Sixteen members of the Senate of the Oliy Majlis of the Republic of Uzbekistan shall be appointed by the President of the Republic of Uzbekistan from among the most authoritative citizens with large practical experience and special merits in the sphere of science, art, literature, manufacture and other spheres of state and public activity.
 
-A deputy of the Legislative Сhamber of the Oliy Majlis of the Republic of Uzbekistan, as well as a member of the Senate of the Oliy Majlis of the Republic of Uzbekistan, may be a citizen of the Republic of Uzbekistan who has reached on the date of the elections twenty five years of age and permanently residing on the territory of the Republic of Uzbekistan not less than five years. Requirements for candidates to be a deputy shall be determined by law.
+A deputy of the Legislative Chamber of the Oliy Majlis of the Republic of Uzbekistan, as well as a member of the Senate of the Oliy Majlis of the Republic of Uzbekistan, may be a citizen of the Republic of Uzbekistan who has reached on the date of the elections twenty five years of age and permanently residing on the territory of the Republic of Uzbekistan not less than five years. Requirements for candidates to be a deputy shall be determined by law.
 
 One and the same person may not be simultaneously a deputy of the Legislative Chamber and a member of the Senate of the Oliy Majlis of the Republic of Uzbekistan.
 
 #### Article 78.
 The joint conducting of the Legislative Chamber and the Senate of the Oliy Majlis of the Republic of Uzbekistan shall include:
 
-- adoption of the Constitution of the Republic of Uzbekistan, introducing amendments;
+1. adoption of the Constitution of the Republic of Uzbekistan, introducing amendments;
 
-- adoption of the Constitutional laws and laws of the Republic of Uzbekistan, introducing amendments;
+2. adoption of the Constitutional laws and laws of the Republic of Uzbekistan, introducing amendments;
 
-- adoption of decision on holding a referendum of the Republic of Uzbekistan and designation the date of its holding;
+3. adoption of decision on holding a referendum of the Republic of Uzbekistan and designation the date of its holding;
 
-- determination of the guidelines of home and foreign policies of the Republic of Uzbekistan, and adoption of strategic state programmes;
+4. determination of the guidelines of home and foreign policies of the Republic of Uzbekistan, and adoption of strategic state programmes;
 
-- determination of the structure and powers of the bodies of the legislative, executive and judicial authorities of the Republic of Uzbekistan;
+5. determination of the structure and powers of the bodies of the legislative, executive and judicial authorities of the Republic of Uzbekistan;
 
-- admission of new state formations into the Republic of Uzbekistan and approval of decisions to secede from the Republic of Uzbekistan;
+6. admission of new state formations into the Republic of Uzbekistan and approval of decisions to secede from the Republic of Uzbekistan;
 
-- legislative regulation of customs, currency and credit systems;
+7. legislative regulation of customs, currency and credit systems;
 
-- approval of the state budget of the Republic of Uzbekistan submitted by the Cabinet of Ministers of the Republic of Uzbekistan and control over its execution;
+8. approval of the state budget of the Republic of Uzbekistan submitted by the Cabinet of Ministers of the Republic of Uzbekistan and control over its execution;
 
-- determination of taxes and other compulsory payments;
+9. determination of taxes and other compulsory payments;
 
-- legislative regulation of the administrative and territorial structure, and alteration of the boundaries of the Republic of Uzbekistan;
+10. legislative regulation of the administrative and territorial structure, and alteration of the boundaries of the Republic of Uzbekistan;
 
-- formation, annulment and renaming of districts, towns, cities and regions, and alteration of their boundaries;
+11. formation, annulment and renaming of districts, towns, cities and regions, and alteration of their boundaries;
 
-- institution of state awards and titles;
+12. institution of state awards and titles;
 
-- ratification of decrees of the President of the Republic of Uzbekistan on the formation and abolition of ministries, state committees and other bodies of state administration;
+13. ratification of decrees of the President of the Republic of Uzbekistan on the formation and abolition of ministries, state committees and other bodies of state administration;
 
-- formation of the Central Election Committee of the Republic of Uzbekistan;
+14. formation of the Central Election Committee of the Republic of Uzbekistan;
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
-- consideration and approval, upon the nomination of the President of the Republic of Uzbekistan, of a nominee of the Prime Minister of the Republic of Uzbekistan;
+15. consideration and approval, upon the nomination of the President of the Republic of Uzbekistan, of a nominee of the Prime Minister of the Republic of Uzbekistan;
 
-- election of an authorized person of the Oliy Majlis of the Republic of Uzbekistan for human rights and his deputy;
+16. election of an authorized person of the Oliy Majlis of the Republic of Uzbekistan for human rights and his deputy;
 
-- consideration of report of the Accounting Chamber of the Republic of Uzbekistan;
+17. consideration of report of the Accounting Chamber of the Republic of Uzbekistan;
 
-- ratification of decree of the President of the Republic of Uzbekistan on announcement of condition of war in case of attack on the Republic of Uzbekistan or necessity of implementation of contractual obligations on mutual defense from aggression;
+18. ratification of decree of the President of the Republic of Uzbekistan on announcement of condition of war in case of attack on the Republic of Uzbekistan or necessity of implementation of contractual obligations on mutual defense from aggression;
 
-- ratification of decrees of the President of the Republic of Uzbekistan on announcement of general and partial mobilization, introducing, prolongation and discontinuance of the state of emergency;
+19. ratification of decrees of the President of the Republic of Uzbekistan on announcement of general and partial mobilization, introducing, prolongation and discontinuance of the state of emergency;
 
-- ratification and denouncement of international treaties;
+20. ratification and denouncement of international treaties;
 
-- exercising of other powers specifed by the present Constitution.
+21. exercising of other powers specifed by the present Constitution.
 
 The matters on joint conducting by the chambers shall be considered, as a rule, first by the Legislative Chamber and then by the Senate of the Oliy Majlis of the Republic of Uzbekistan.
 
 #### Article 79.
 The exclusive powers of the Legislative Chamber of the Oliy Majlis of the Republic of Uzbekistan shall include:
 
-- election of the Speaker of the Legislative Chamber of the Oliy Majlis of the Republic of Uzbekistan and his deputies, chairmen of committees and their deputies;
+1. election of the Speaker of the Legislative Chamber of the Oliy Majlis of the Republic of Uzbekistan and his deputies, chairmen of committees and their deputies;
 
-- ruling of matters on deprivation of immunity a deputy of the Legislative Chamber of the Oliy Majlis of the Republic of Uzbekistan submitted by the Procurator-General of the Republic of Uzbekistan;
+2. ruling of matters on deprivation of immunity a deputy of the Legislative Chamber of the Oliy Majlis of the Republic of Uzbekistan submitted by the Procurator-General of the Republic of Uzbekistan;
 
-- adoption of decisions on matters relating to the organization of its activity and the internal schedule of the chamber;
+3. adoption of decisions on matters relating to the organization of its activity and the internal schedule of the chamber;
 
-- adoption of resolutions on those or other matters in the sphere of political, social and economic life, as well as matters of home and foreign policies of the state.
+4. adoption of resolutions on those or other matters in the sphere of political, social and economic life, as well as matters of home and foreign policies of the state.
 
 #### Article 80.
 The exclusive powers of the Senate of the Oliy Majlis of the Republic of Uzbekistan shall include:
 
-- election of the Chairman of the Senate of the Oliy Majlis of the Republic of Uzbekistan and his deputies, chairmen of committees and their deputies;
+1. election of the Chairman of the Senate of the Oliy Majlis of the Republic of Uzbekistan and his deputies, chairmen of committees and their deputies;
 
-- election, upon the nomination of the President of the Republic of Uzbekistan, of the Constitutional Court of the Republic of Uzbekistan;
+2. election, upon the nomination of the President of the Republic of Uzbekistan, of the Constitutional Court of the Republic of Uzbekistan;
 
-- election, upon the nomination of the President of the Republic of Uzbekistan, of the Supreme Court of the Republic of Uzbekistan;
+3. election, upon the nomination of the President of the Republic of Uzbekistan, of the Supreme Court of the Republic of Uzbekistan;
 
-- election, upon the nomination of the President of the Republic of Uzbekistan, of the Higher Economic Court of the Republic of Uzbekistan;
+4. election, upon the nomination of the President of the Republic of Uzbekistan, of the Higher Economic Court of the Republic of Uzbekistan;
 
-- appointment and relief of the Chairman of the State Committee of the Republic of Uzbekistan for Protection of Nature of his post upon the nomination of the President of the Republic of Uzbekistan;
+5. appointment and relief of the Chairman of the State Committee of the Republic of Uzbekistan for Protection of Nature of his post upon the nomination of the President of the Republic of Uzbekistan;
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
-- ratification of decrees of the President of the Republic of Uzbekistan on appointment and relief of the Procurator-General of the Republic of Uzbekistan and his deputies of their posts;
+6. ratification of decrees of the President of the Republic of Uzbekistan on appointment and relief of the Procurator-General of the Republic of Uzbekistan and his deputies of their posts;
 
-- ratification of decrees of the President of the Republic of Uzbekistan on appointment and relief of the Chairman of the National Security Service of the Republic of Uzbekistan of his post;
+7. ratification of decrees of the President of the Republic of Uzbekistan on appointment and relief of the Chairman of the National Security Service of the Republic of Uzbekistan of his post;
 
-- appointment and relief of diplomatic and other representatives of the Republic of Uzbekistan to foreign states of their posts upon the nomination of the President of the Republic of Uzbekistan;
+8. appointment and relief of diplomatic and other representatives of the Republic of Uzbekistan to foreign states of their posts upon the nomination of the President of the Republic of Uzbekistan;
 
-- appointment and relief of the Chairman of the Board of the Central Bank of the Republic of Uzbekistan of his post upon the nomination of the President of the Republic of Uzbekistan;
+9. appointment and relief of the Chairman of the Board of the Central Bank of the Republic of Uzbekistan of his post upon the nomination of the President of the Republic of Uzbekistan;
 
-- upon the nomination of the President of the Republic of Uzbekistan adoption of acts of amnesty;
+10. upon the nomination of the President of the Republic of Uzbekistan adoption of acts of amnesty;
 
-- upon the nomination of the Procurator-General of the Republic of Uzbekistan ruling of matters on deprivation of immunity a member of the Senate of the Oliy Majlis of the Republic of Uzbekistan;
+11. upon the nomination of the Procurator-General of the Republic of Uzbekistan ruling of matters on deprivation of immunity a member of the Senate of the Oliy Majlis of the Republic of Uzbekistan;
 
-- hearing reports of the Procurator-General of the Republic of Uzbekistan, the Chairman of the State Committee of the Republic of Uzbekistan for Protection of Nature, the Chairman of the Board of the Central Bank of the Republic of Uzbekistan;
+12. hearing reports of the Procurator-General of the Republic of Uzbekistan, the Chairman of the State Committee of the Republic of Uzbekistan for Protection of Nature, the Chairman of the Board of the Central Bank of the Republic of Uzbekistan;
 
-- adoption of decisions on matters relating to the organization of its activity and the internal schedule of the chamber;
+13. adoption of decisions on matters relating to the organization of its activity and the internal schedule of the chamber;
 
-- adoption of resolutions on those or other matters in the sphere of political, social and economic life, as well as matters of home and foreign policies of the state.
+14. adoption of resolutions on those or other matters in the sphere of political, social and economic life, as well as matters of home and foreign policies of the state.
 
 #### Article 81.
 The Legislative Chamber and the Senate of the Oliy Majlis of the Republic of Uzbekistan, after expiry of their terms of powers, shall continue their activity until the beginning of the work accordingly of the Legislative Chamber and the Senate of new convocation.
@@ -574,7 +574,7 @@ At adoption of the constitutional laws, presence of not less than two thirds of 
 
 [[START OF PAGE 14]]
 
-The President of the Republic of Uzbekistan, the Prime Minister, members of the Cabinet of Ministers, the Chairmen of the Constitutional Court, the Supreme Court and the Higher Economic Court, the Procurator-General of the Republic, the Chairman of the Board of the Central Bank shall have the right to attend sittings of the Legislative Chamber and the Senate of the Oliy Majlis of the Republic of Uzbekistan, as well as sittings of their bodies. The Chairman of the Senate shall have the right to attend sittings of the Legislative Chamber of the Oliy Majlis of the Republic of Uzbekistan and its bodies, the Speaker of the Legislative Chamber-sittings of the Senate of the Oliy Majlis of the Republic of Uzbekistan and its bodies.
+The President of the Republic of Uzbekistan, the Prime Minister, members of the Cabinet of Ministers, the Chairmen of the Constitutional Court, the Supreme Court and the Higher Economic Court, the Procurator-General of the Republic, the Chairman of the Board of the Central Bank shall have the right to attend sittings of the Legislative Chamber and the Senate of the Oliy Majlis of the Republic of Uzbekistan, as well as sittings of their bodies. The Chairman of the Senate shall have the right to attend sittings of the Legislative Chamber of the Oliy Majlis of the Republic of Uzbekistan and its bodies, the Speaker of the Legislative Chamber—sittings of the Senate of the Oliy Majlis of the Republic of Uzbekistan and its bodies.
 
 The Legislative Chamber and the Senate of the Oliy Majlis of the Republic of Uzbekistan shall convoke separately.
 
@@ -624,25 +624,25 @@ The Speaker of the Legislative Chamber of the Oliy Majlis of the Republic of Uzb
 
 The Speaker of the Legislative Chamber of the Oliy Majlis of the Republic of Uzbekistan shall:
 
-- convoke sittings of the Legislative Chamber, preside at them;
+1. convoke sittings of the Legislative Chamber, preside at them;
 
-- exercise the general direction over a preliminary review of matters to be submitted for consideration by the Legislative Chamber;
+2. exercise the general direction over a preliminary review of matters to be submitted for consideration by the Legislative Chamber;
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
 
-- coordinate the work of the committees and commissions of the Legislative Chamber;
+3. coordinate the work of the committees and commissions of the Legislative Chamber;
 
-- organize the control over the implementation of laws of the Republic of Uzbekistan and resolutions of the Legislative Chamber;
+4. organize the control over the implementation of laws of the Republic of Uzbekistan and resolutions of the Legislative Chamber;
 
-- direct the work on interparliamentary relations and the activity of the groups of the Legislative Chamber connected with the work of international parliamentary organizations;
+5. direct the work on interparliamentary relations and the activity of the groups of the Legislative Chamber connected with the work of international parliamentary organizations;
 
-- represent the Legislative Chamber in interrelation with the Senate of the Oliy Majlis of the Republic of Uzbekistan, other state bodies, foreign states, international and other organizations;
+6. represent the Legislative Chamber in interrelation with the Senate of the Oliy Majlis of the Republic of Uzbekistan, other state bodies, foreign states, international and other organizations;
 
-- sign resolutions of the Legislative Chamber;
+7. sign resolutions of the Legislative Chamber;
 
-- exercise other powers stipulated by the present Constitution and legislation.
+8. exercise other powers stipulated by the present Constitution and legislation.
 
 The Speaker of the Legislative Chamber of the Oliy Majlis of the Republic of Uzbekistan shall issue ordinances.
 
@@ -657,21 +657,21 @@ The Chairman of the Senate of the Oliy Majlis of the Republic of Uzbekistan may 
 
 The Chairman of the Senate of the Oliy Majlis of the Republic of Uzbekistan shall:
 
-- convoke sittings of the Senate, preside at them;
+1. convoke sittings of the Senate, preside at them;
 
-- exercise the general direction over a preliminary review of matters to be submitted for consideration by the Senate;
+2. exercise the general direction over a preliminary review of matters to be submitted for consideration by the Senate;
 
-- coordinate the work of the committees, commissions of the Senate;
+3. coordinate the work of the committees, commissions of the Senate;
 
-- organize the control over the implementation of laws of the Republic of Uzbekistan and resolutions of the Senate;
+4. organize the control over the implementation of laws of the Republic of Uzbekistan and resolutions of the Senate;
 
-- direct the work on interparliamentary relations and the activity of the groups of the Senate connected with the work of international parliamentary organizations;
+5. direct the work on interparliamentary relations and the activity of the groups of the Senate connected with the work of international parliamentary organizations;
 
-- represent the Senate in interrelation with the Legislative Chamber of the Oliy Majlis of the Republic of Uzbekistan, other state bodies, foreign states, international and other organizations;
+6. represent the Senate in interrelation with the Legislative Chamber of the Oliy Majlis of the Republic of Uzbekistan, other state bodies, foreign states, international and other organizations;
 
-- sign resolutions of the Senate;
+7. sign resolutions of the Senate;
 
-- exercise other powers stipulated by the present Constitution and legislation.
+8. exercise other powers stipulated by the present Constitution and legislation.
 
 [[END OF PAGE 16]]
 
@@ -719,48 +719,41 @@ The President shall enjoy personal immunity and protection under law.
 #### Article 92.
 The President shall be regarded as having assumed office upon taking an oath of the following content at sitting of the Oliy Majlis of the Republic of Uzbekistan:
 
-'I do solemnly swear to faithfully serve the people of Uzbekistan, to strictly follow the Constitution and laws of the Republic, to guarantee the rights and freedoms of its citizens, and to conscientiously perform the duties vested on the President of the Republic of Uzbekistan.'
+“I do solemnly swear to faithfully serve the people of Uzbekistan, to strictly follow the Constitution and laws of the Republic, to guarantee the rights and freedoms of its citizens, and to conscientiously perform the duties vested on the President of the Republic of Uzbekistan.”
 
 #### Article 93.
 The President of the Republic of Uzbekistan shall:
 
-1)guarantee observance of rights and freedoms of citizens, the Constitution and laws of the Republic of Uzbekistan; 2)take necessary measures on the protection of sovereignty, security and territorial integrity of the Republic of Uzbekistan, implementation of decisions regarding its national-state structure; 3)represent the Republic of Uzbekistan within the country and in international relations; 4)conduct negotiations and sign treaties and agreements of the Republic of Uzbekistan, ensure the observance of the negotiated by the Republic treaties, agreements and the assumed by it obligations; 5)receive letters of credence and recall from diplomatic and other representatives accredited to him; 6)present to the Senate of the Oliy Majlis of the Republic of Uzbekistan nominees for appointment of diplomatic and other representatives of the Republic of Uzbekistan to foreign states; 7)present to the Oliy Majlis of the Republic of Uzbekistan annual reports on major matters of social and economic life, home and foreign policies of the country; 8)form the office of executive authority and direct it; ensure interaction of the supreme bodies of authority and administration of the Republic; form and abolish ministries, state committees and other bodies of state administration with subsequent submission of decrees on these matters for approval by the chambers of the Oliy Majlis of the Republic of Uzbekistan; 9)represent to the Senate of the Oliy Majlis of the Republic of Uzbekistan a nominee for the election on the post of the Chairman of the Senate; of Uzbekistan a nominee of the Prime Minister of the Republic of Uzbekistan and relieve him of
-
-10)represent for consideration and approval by the chambers of the Oliy Majlis of the Republic his post;
+1)guarantee observance of rights and freedoms of citizens, the Constitution and laws of the Republic of Uzbekistan;
+2)take necessary measures on the protection of sovereignty, security and territorial integrity of the Republic of Uzbekistan, implementation of decisions regarding its national-state structure;
+3)represent the Republic of Uzbekistan within the country and in international relations;
+4)conduct negotiations and sign treaties and agreements of the Republic of Uzbekistan, ensure the observance of the negotiated by the Republic treaties, agreements and the assumed by it obligations;
+5)receive letters of credence and recall from diplomatic and other representatives accredited to him;
+6)present to the Senate of the Oliy Majlis of the Republic of Uzbekistan nominees for appointment of diplomatic and other representatives of the Republic of Uzbekistan to foreign states;
+7)present to the Oliy Majlis of the Republic of Uzbekistan annual reports on major matters of social and economic life, home and foreign policies of the country;
+8)form the office of executive authority and direct it; ensure interaction of the supreme bodies of authority and administration of the Republic; form and abolish ministries, state committees and other bodies of state administration with subsequent submission of decrees on these matters for approval by the chambers of the Oliy Majlis of the Republic of Uzbekistan;
+9)represent to the Senate of the Oliy Majlis of the Republic of Uzbekistan a nominee for the election on the post of the Chairman of the Senate;
+10)represent for consideration and approval by the chambers of the Oliy Majlis of the Republic of Uzbekistan a nominee of the Prime Minister of the Republic of Uzbekistan and relieve him of his post;
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
 
-- approve, upon the nomination of the Prime Minister of the Republic of Uzbekistan, members of the Cabinet of Ministers of the Republic of Uzbekistan and relieve them of their posts;
-
-- appoint and relieve the Procurator-General of the Republic of Uzbekistan and his deputies of their posts with their subsequent approval by the Senate of the Oliy Majlis of the Republic of Uzbekistan;
-
-- represent to the Senate of the Oliy Majlis of the Republic of Uzbekistan nominees on the posts of the Chairman and judges of the Constitutional Court, the Chairman and judges of the Supreme Court, the Chairman and judges of the Higher Economic Court, the Chairman of the Board of the Central Bank of the Republic of Uzbekistan, the Chairman of the State Committee of the Republic of Uzbekistan for Protection of Nature;
-
-- appoint and relieve judges of regional, interdistrict, district, city, martial and economic courts of their posts;
-
-- appoint and relieve khokims of regions and the city of Tashkent of their posts with their subsequent approval by relevant Kenghashes of people's deputies. The President shall have the right to relieve, by his decision, khokims of districts and cities of their posts, should they violate the Constitution, laws or perform acts discrediting the honour and dignity of a khokim;
-
-- suspend and repeal acts passed by bodies of state administration, as well as khokims;
-
-- sign and promulgate laws of the Republic of Uzbekistan; shall have the right to return a law, with his objections, to the Oliy Majlis of the Republic of Uzbekistan for the second discussion and vote;
-
+11) approve, upon the nomination of the Prime Minister of the Republic of Uzbekistan, members of the Cabinet of Ministers of the Republic of Uzbekistan and relieve them of their posts;
+12) appoint and relieve the Procurator-General of the Republic of Uzbekistan and his deputies of their posts with their subsequent approval by the Senate of the Oliy Majlis of the Republic of Uzbekistan;
+13) represent to the Senate of the Oliy Majlis of the Republic of Uzbekistan nominees on the posts of the Chairman and judges of the Constitutional Court, the Chairman and judges of the Supreme Court, the Chairman and judges of the Higher Economic Court, the Chairman of the Board of the Central Bank of the Republic of Uzbekistan, the Chairman of the State Committee of the Republic of Uzbekistan for Protection of Nature;
+14) appoint and relieve judges of regional, interdistrict, district, city, martial and economic courts of their posts;
+15) appoint and relieve khokims of regions and the city of Tashkent of their posts with their subsequent approval by relevant Kenghashes of people's deputies. The President shall have the right to relieve, by his decision, khokims of districts and cities of their posts, should they violate the Constitution, laws or perform acts discrediting the honour and dignity of a khokim;
+16) suspend and repeal acts passed by bodies of state administration, as well as khokims;
+17) sign and promulgate laws of the Republic of Uzbekistan; shall have the right to return a law, with his objections, to the Oliy Majlis of the Republic of Uzbekistan for the second discussion and vote;
 18)announce condition of war in case of attack on the Republic of Uzbekistan or in case of necessity of the implementation of contractual obligations on mutual defense from aggression and within seventy two hours submit the adopted decision for approval by the chambers of the Oliy Majlis of the Republic of Uzbekistan;
-
 19)in exceptional cases (real outside threat, mass disturbances, major catastrophes, natural calamities, epidemics) in the interests of ensuring citizens' security introduce the state of emergency on the entire territory or in the particular localities of the Republic of Uzbekistan and within seventy two hours submit the adopted decision for approval by the chambers of the Oliy Majlis of the Republic of Uzbekistan. Conditions and the procedure for introducing the state of emergency shall be regulated by law;
-
 20)serve as the Supreme Commander-in-Chief of the Armed Forces of the Republic of Uzbekistan, appoint and relieve the supreme command of the Armed Forces of the post and confer the highest millitary ranks;
-
-- 21)award orders, medals and certificates of honour of the Republic of Uzbekistan, confer qualification and honorary titles of the Republic of Uzbekistan;
-
-- 22)rule on matters of citizenship of the Republic of Uzbekistan and granting political asylum;
-
-- 23)put to the Senate of the Oliy Majlis of the Republic of Uzbekistan submission on adoption of acts of amnesty and effectuate pardoning of persons condemned by courts of the Republic of Uzbekistan;
-
-24)form the National Security Service of the Republic of Uzbekistan, nominate and relieve the Chairman of the National Security Service of his post with the subsequent submission of decrees on these matters for approval by the Senate of the Oliy Majlis of the Republic of Uzbekistan; 25)exercise other powers stipulated by the present Constitution and laws of the Republic of
-
-- Uzbekistan.
+21)award orders, medals and certificates of honour of the Republic of Uzbekistan, confer qualification and honorary titles of the Republic of Uzbekistan;
+22)rule on matters of citizenship of the Republic of Uzbekistan and granting political asylum;
+23)put to the Senate of the Oliy Majlis of the Republic of Uzbekistan submission on adoption of acts of amnesty and effectuate pardoning of persons condemned by courts of the Republic of Uzbekistan;
+24)form the National Security Service of the Republic of Uzbekistan, nominate and relieve the Chairman of the National Security Service of his post with the subsequent submission of decrees on these matters for approval by the Senate of the Oliy Majlis of the Republic of Uzbekistan;
+25)exercise other powers stipulated by the present Constitution and laws of the Republic of Uzbekistan.
 
 [[END OF PAGE 19]]
 
@@ -896,17 +889,17 @@ The judges of the Constitutional Court shall be independent in their work and su
 #### Article 109.
 The Constitutional Court of the Republic of Uzbekistan shall:
 
-- define the compliance of the Constitution of the Republic of Uzbekistan, laws of the Republic of Uzbekistan and resolutions of the chambers of the Oliy Majlis of the Republic of Uzbekistan, decrees of the President of the Republic of Uzbekistan, enactments of the government and local bodies of state authority, interstate treaties and other obligations of the Republic of Uzbekistan;
+1. define the compliance of the Constitution of the Republic of Uzbekistan, laws of the Republic of Uzbekistan and resolutions of the chambers of the Oliy Majlis of the Republic of Uzbekistan, decrees of the President of the Republic of Uzbekistan, enactments of the government and local bodies of state authority, interstate treaties and other obligations of the Republic of Uzbekistan;
 
-- conform the compliance of the Constitution of the Republic of Karakalpakstan to the Constitution of the Republic of Uzbekistan, laws of the Republic of Karakalpakstan - to laws of the Republic of Uzbekistan;
+2. conform the compliance of the Constitution of the Republic of Karakalpakstan to the Constitution of the Republic of Uzbekistan, laws of the Republic of Karakalpakstan — to laws of the Republic of Uzbekistan;
 
-- interpret the norms of the Constitution and laws of the Republic of Uzbekistan;
+3. interpret the norms of the Constitution and laws of the Republic of Uzbekistan;
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
 
-- hear other cases relating to its competence in accordance with the Constitution and laws of the Republic of Uzbekistan;
+4. hear other cases relating to its competence in accordance with the Constitution and laws of the Republic of Uzbekistan;
 
 The judgements of the Constitutional Court shall take effect upon publication. They shall be final and not subject to appeal.
 
@@ -958,7 +951,7 @@ The right to legal assistance shall be guaranteed at any stage of investigation 
 #### Article 117.
 Citizens of the Republic of Uzbekistan shall have the right to elect and be elected to the representative bodies of state authority. Every elector shall have one vote. The right to vote, equality and freedom of expression of will shall be guaranteed by law.
 
-The elections of the President of the Republic of Uzbekistan, to the Legislative Chamber of the Oliy Majlis of the Republic of Uzbekistan and Jokarghy Kenes of the Republic of Karakalpakstan, to the representative bodies of state authority in regions, districts, cities and towns shall be held accordingly on the year of expiration of the constitutional term of their powers- on the first Sunday of the third decade of December. The elections shall be held on the basis of the general, equal and direct suffrage by secret ballot. The right to elect have the citizens of the Republic of Uzbekistan who have reached eighteen years of age.
+The elections of the President of the Republic of Uzbekistan, to the Legislative Chamber of the Oliy Majlis of the Republic of Uzbekistan and Jokarghy Kenes of the Republic of Karakalpakstan, to the representative bodies of state authority in regions, districts, cities and towns shall be held accordingly on the year of expiration of the constitutional term of their powers— on the first Sunday of the third decade of December. The elections shall be held on the basis of the general, equal and direct suffrage by secret ballot. The right to elect have the citizens of the Republic of Uzbekistan who have reached eighteen years of age.
 
 Members of the Senate of the Oliy Majlis of the Republic of Uzbekistan shall be elected by secret ballot at relevant joint sittings of deputies of Jokarghy Kenes of the Republic of Karakalpakstan, the representative bodies of state authority in regions, districts, cities and towns from among these deputies not later a monthly term after their election.
 
@@ -982,7 +975,7 @@ The Procurator-General of the Republic of Uzbekistan shall direct the centralize
 
 The Procurator of the Republic of Karakalpakstan shall be appointed by the supreme representative body of the Republic of Karakalpakstan as agreed with the Procurator-General of the Republic of Uzbekistan.
 
-The procurators of regions, districts, cities and towns shall be appointed by the ProcuratorGeneral of the Republic of Uzbekistan.
+The procurators of regions, districts, cities and towns shall be appointed by the Procurator-General of the Republic of Uzbekistan.
 
 The term of office shall be five years for the Procurator-General of the Republic of Uzbekistan, the Procurator of the Republic of Karakalpakstan, the procurators of regions, districts, cities and towns.
 
@@ -1028,7 +1021,7 @@ The Republic of Uzbekistan shall maintain the Armed Forces to ensure its securit
 ## PART SIX. PROCEDURE FOR AMENDING THE CONSTITUTION
 
 #### Article 127.
-The Constitution of the Republic of Uzbekistan shall be altered by law adopted by a majority, not less than two thirds of the total number accordingly of deputies of the Legislature Chamber and members of the Senate of the Oliy Majlis of the Republic of Uzbekistan, or by referendum of the Republic of Uzbekistan.
+The Constitution of the Republic of Uzbekistan shall be altered by law adopted by a majority, not less than two thirds of the total number accordingly of deputies of the Legislative Chamber and members of the Senate of the Oliy Majlis of the Republic of Uzbekistan, or by referendum of the Republic of Uzbekistan.
 
 #### Article 128.
 The Oliy Majlis of the Republic of Uzbekistan may adopt law on alterations and amendments to the Constitution within six months after submission of a relevant proposal, with regard for its broad discussion. Should the Oliy Majlis of the Republic of Uzbekistan reject a proposal on alteration of the Constitution, it may be renewed not earlier than in a year.
