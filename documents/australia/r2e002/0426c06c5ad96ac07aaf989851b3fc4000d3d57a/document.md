@@ -1,6 +1,6 @@
 [[START OF PAGE 1]]
 
-A USTRALI._
+AUSTRALIA
 
 # Affirmative  Action  (Equal  Employment Opportunity for  Women)  Act  1986
 
@@ -8,39 +8,92 @@ No. 91 of 1986
 
 ## TABLE  OF  PROVISIONS
 
-### PART  I-PRELIMINARY
+### PART I-PRELIMINARY
+
+Section
+1. Short title
+2. Commencement
+3. Interpretation
+4. Extension to Norfolk Island
+5. Application of Act
+
+### PART II-AFFIRMATIVE ACTION PROGRAMS
+
+6. Employers required to develop, &c., affirmative action programs
+7. Timing for development, &c., of affirmative action program
+8. Contents of affirmative action program
+
+### PART III-OFFICE, FUNCTIONS AND POWERS OF DIRECTOR
+
+9. Office of Director
+10. Functions and powers of Director
+11. Directions by Minister
+12. Director to submit reports to Minister
+
+### PART IV-REPORTS BY RELEVANT EMPLOYERS
+
+13. Public reports
+14. Confidential reports
+15. Use of public report
+16. Request to relevant employer
+17. Director may grant extensions
+18. Request for further information
+19. Failure to submit report or further information
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-## TABLE  OF PROVISIONS-continued
+## TABLE OF PROVISIONS-continued
+
+Section
+
+### PART V-DIRECTOR OF AFFIRMATIVE ACTION
+
+20. Appointment of Director
+21. Tenure of Director
+22. Remuneration and allowances
+23. Leave of absence
+24. Outside employment
+25. Resignation
+26. Termination of appointment
+27. Disclosure of interest
+28. Acting appointment
+
+### PART VI-MISCELLANEOUS
+
+29. Staff
+30. Consultants
+31. Advisory committees
+32. Non-disclosure of confidential information
+33. Delegation
+34. Regulations
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-### Short  title
-
-- This  Act  may  be  cited  as  the Affirmative Action  (Equal  Employment Opportunity  for Women)  Act  1986.
-
-### Commencement
-
-- This Act shall come into operation on a day to be fixed by Proclamation.
-
 AUSTRALIA
 
-# Affirmative  Action  (Equal  Employment Opportunity for  Women)  Act  1986
+# Affirmative Action (Equal Employment Opportunity for Women) Act 1986
 
 No. 91 of 1986
 
-An  Act  to require  certain  employers  to  promote  equal opportunity  for  women  in  employment,  to  establish  the office of the  Director  of Affirmative  Action,  and  for  related purposes
+An Act to require certain employers to promote equal opportunity for women in employment, to establish the office of the Director of Affirmative Action, and for related purposes
 
 [Assented to 3 September 1986]
 
-BE  IT  ENACTED  by  the  Queen,  and  the  Senate  and  the  House  of Representatives  of  the  Commonwealth  of Australia,  as  follows:
+BE IT ENACTED by the Queen, and the Senate and the House of Representatives of the Commonwealth of Australia, as follows:
 
 ## PART I-PRELIMINARY
+
+### Short title
+
+1. This Act may be cited as the Affirmative Action (Equal Employment Opportunity for Women) Act 1986.
+
+### Commencement
+
+2. This Act shall come into operation on a day to be fixed by Proclamation.
 
 [[END OF PAGE 3]]
 
@@ -84,7 +137,7 @@ Affirmative Action  (Equal  Employment  Opportunity for Women) No. 91, 1986
 
 "employer" means  a  person  who  employs  a  natural  person-
 
-(a) under  a  contract of  service, whether  on  a full-time,  parttime,  casual  or  temporary  basis;  or
+(a) under a contract of service, whether on a full-time, part-time, casual or temporary basis; or
 
 (b) under  a  contract  for  services;
 
@@ -178,15 +231,17 @@ Affirmative Action (Equal  Employment  Opportunity for Women) No.  91,  1986
 
 (6) By  virtue  of this  sub-section,  this  Act  has  the  effect  it  would  have  if each reference in this Act to  employment were, by express provision, confined  to  employment  in  connection  with  the  business  of  insurance,  other than  State  insurance  that  does  not  extend  beyond  the  limits  of  the  State concerned.
 
-(7) By  virtue  of this  sub-section,  this  Act  has  the  effect  it  would  have  if each reference  in  this  Act  to  a  relevant  employer  were,  by express  provision, confined  to  a  relevant  employer  that  is  a  foreign  corporation,  or  a  trading or  financial  co'rporation formed  within  the limits  of  the  Commonwealth.
+(7) By virtue of this sub-section, this Act has the effect it would have if each reference in this Act to a relevant employer were, by express provision, confined to a relevant employer that is a foreign corporation, or a trading or financial corporation formed within the limits of the Commonwealth.
 
-(8) By virtue  of this  sub-section,  this  Act  has  the  effect  it  would  have  if each  reference  in  this  Act  to  employment  by  a  relevant  employer  were,  by express provision, confined to employment by a trading or financial corporation formed within the limits of the Commonwealth, being employment  in  connection  with the  trading  or  financial activities,  as the case  may  be,  of  that  corporation.
+(8) By virtue of this sub-section, this Act has the effect it would have if each reference in this Act to employment by a relevant employer were, by express provision, confined to employment by a trading or financial
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-Affirmative  Action (Equal Employment  Opportunity for Women) No. 91,  1986
+Affirmative Action (Equal Employment Opportunity for Women) No. 91, 1986
+
+corporation formed within the limits of the Commonwealth, being employment in connection with the trading or financial activities, as the case may be, of that corporation.
 
 (9) By  virtue  of  this  sub-section,  this  Act  has  the  effect  it  would  have to  the  extent  that  this  Act  is  appropriate  to  give  effect  to, or  carry  out  the purposes of, the  Convention on the  Elimination  of all Forms of Discrimination Against Women,  a  copy  of  the English text of  which is  set out  in  the Schedule  to  the Sex  Discrimination  Act  1984.
 
@@ -200,7 +255,7 @@ Affirmative  Action (Equal Employment  Opportunity for Women) No. 91,  1986
 
 ### Employers  required to  develop,  &c.,  affirmative  action  programs
 
-6.  (1)  An employer who, on,  the commencement of  this Act, is a relevant  employer  shall  commence  the  development  and  implementation  of an  affirmative  action  program  on  the  operative  day.
+6. (1) An employer who, on the commencement of this Act, is a relevant employer shall commence the development and implementation of an affirmative action program on the operative day.
 
 (2) Where,  after  the  commencement  of  this  Act,  an  employer  becomes a  relevant  employer, the  relevant  employer  shall commence  the development and  implementation  of  an  affirmative  action  program  on  the  operative  day.
 
@@ -222,15 +277,15 @@ Affirmative  Action (Equal Employment  Opportunity for Women) No. 91,  1986
 
 Affirmative Action  (Equal  Employment  Opportunity for Women) No. 91,  1986
 
-(ii) 500 or  more  employees  but  not  more  than 999 employees1 February 1988; or
+(ii) 500 or more employees but not more than 999 employees—1 February 1988; or
 
-(iii) 100 or  more  employees  but  not  more  than  499  employees1 February 1989.
+(iii) 100 or more employees but not more than 499 employees—1 February 1989.
 
 (2) For  the purposes  of  sub-section 6  (2), the operative day for  an employer  that  becomes  a  relevant  employer  is-
 
-(a) in  the  case  of a  higher  education  institution-i  August;  and
+(a) in the case of a higher education institution—1 August; and
 
-(b) in  any  other  case-i  February,
+(b) in any other case—1 February,
 
 in  the  calendar  year  following  the  calendar  year  during  which  the  employer becomes  a  relevant  employer.
 
@@ -252,7 +307,7 @@ in  the  calendar  year  following  the  calendar  year  during  which  the  emp
 
 (i) any  policies  or practices  that  constitute  discrimination  against women;  and
 
-(ii) any  patterns  (whether  ascertained  statistically  or  otherwise) "of lack  of  equality  of opportunity  in  respect  of  women;
+(ii) any patterns (whether ascertained statistically or otherwise) of lack of equality of opportunity in respect of women;
 
 (g) to  set  objectives  and  make  forward  estimates  in  the  program;  and
 
@@ -276,7 +331,7 @@ Affirmative  Action (Equal  Employment  Opportunity for Women) No.  91,  1986
 
 "objective" means  a  qualitative  measure  or  aim,  expressed  as  a  general principle,  designed  to  achieve  equality  of opportunity  for  women  in employment  matters,  being  a  measure  or  aim  that  can  reasonably be  implemented  by  the  relevant  employer  within  a  specified  time.
 
-## PART Ill-OFFICE, FUNCTIONS  AND  POWERS OF DIRECTOR
+## PART III-OFFICE, FUNCTIONS AND POWERS OF DIRECTOR
 
 ### Office  of Director
 
@@ -322,7 +377,7 @@ Affirmative Action  (Equal  Employment  Opportunity for Women) No. 91,  1986
 
 12. (1) The  Director  shall, as  soon  as  practicable, and  in  any  event within  6  months,  after each 31 May,  submit  to  the Minister  a  report  on  the operations  of  the  Director  during  the  year  that  ended  on  that 31 May.
 
-- The  Director  may,  from  time  to  time,  submit  to  the  Minister-
+(2) The Director may, from time to time, submit to the Minister-
 
 (a) a report  on  the  operations of  the Director  during  the period to which  the  report  relates;  or
 
@@ -334,7 +389,7 @@ Affirmative Action  (Equal  Employment  Opportunity for Women) No. 91,  1986
 
 ### Public  reports
 
-(1) A  relevant  employer  shall  prepare  a  public  report-
+13. (1) A relevant employer shall prepare a public report-
 
 (a) in  the case  of the  employer's first  report-on  the  initial  development and  implementation  of  the  employer's  affirmative  action  program during  the  period  of  12  months  commencing  on  the  operative  day in  respect  of  the  relevant  employer;  and
 
@@ -348,7 +403,7 @@ Affirmative  Action (Equal Employment  Opportunity for  Women) No.  91,  1986
 
 (2) A  relevant  employer  shall  lodge  a  public  report  with  the  Director within  3 months  after  the  end  of the  period  to  which  the  report  relates.
 
-- A  public  report  under  sub-section  (1)  shall  provide-
+(3) A public report under sub-section (1) shall provide-
 
 (a) statistics  and related  information concerning employment by the relevant  employer,  including  the  number  of  employees  of either  sex and the types of  jobs  undertaken by, or  job classifications of, employees  of either  sex;  and
 
@@ -400,7 +455,7 @@ subject  to  such  conditions  as  the  relevant  employer  specifies  in  the  
 
 17. (1) A  relevant  employer  may,  before  the  end  of the  3 months  within which  the  relevant  employer  is  required  to  lodge  with  the  Director  a  public report  under  sub-section 13  (2), apply  to  the  Director  to  extend  the  period for  a  further  period  to  enable  the  employer  to  lodge  the  public  report  or  a confidential  report.
 
-- Where  the  Director-
+(2) Where the Director-
 
 (a) has  received  a  request  under  sub-section  (1)  to  extend  a  period  in respect  of a  report;  and
 
@@ -414,7 +469,7 @@ the Director  may grant  an extension  in respect  of the  report  for such  per
 
 ### Failure to  submit  report or  further information
 
-(1) Where,  without  reasonable  excuse,  a  relevant  employer-
+19. (1) Where, without reasonable excuse, a relevant employer-
 
 (a) fails to  lodge  a  public  report  or  confidential  report  as  required  by this  Part;  or
 
@@ -440,7 +495,7 @@ Affirmative  Action (Equal Employment  Opportunity for  Women) No. 91, 1986
 
 ### Tenure  of  Director
 
-(1)  The Director holds office for such period, not exceeding 5 years,  as  is  specified  in  the  instrument  of  appointment,  but  is  eligible  for re-appointment.
+21. (1) The Director holds office for such period, not exceeding 5 years, as is specified in the instrument of appointment, but is eligible for re-appointment.
 
 (2) The  Director  holds  office,  subject  to  this  Part,  on  such  terms  and conditions  as  are  determined  by  the  Governor-General.
 
@@ -452,25 +507,25 @@ Affirmative  Action (Equal Employment  Opportunity for  Women) No. 91, 1986
 
 (b) such  allowances  as  are  prescribed.
 
-- This  section  has  effect  subject  to  the Remuneration Tribunals Act 1973.
+(2) This section has effect subject to the Remuneration Tribunals Act 1973.
 
 ### Leave  of  absence
 
-- The  Minister  may  grant  leave  of absence  to  the  Director  upon  such terms and conditions as to remuneration or otherwise as the Minister determines.
+23. The Minister may grant leave of absence to the Director upon such terms and conditions as to remuneration or otherwise as the Minister determines.
 
 ### Outside  employment
 
-- The  Director  shall  not engage  in  paid  employment  outside  the  duties of the  office  of Director  except  with  the  approval  of  the  Minister.
+24. The Director shall not engage in paid employment outside the duties of the office of Director except with the approval of the Minister.
 
 ### Resignation
 
-- The  Director  may  resign  the office  of Director  by  writing signed  and delivered  to  the  Governor-General.
+25. The Director may resign the office of Director by writing signed and delivered to the Governor-General.
 
 ### Termination of  appointment
 
-(1)  The  Governor-General may  terminate  the  appointment of  the Director  for  misbehaviour  or  physical  or mental  incapacity.
+26. (1) The Governor-General may terminate the appointment of the Director for misbehaviour or physical or mental incapacity.
 
-- If  the  Director-
+(2) If the Director-
 
 (a) becomes  bankrupt,  applies  to  take  the  benefit  of  any  law  for  the relief  of bankrupt  or insolvent  debtors,  compounds  with  creditors  or makes  an  assignment  of  remuneration  for  their  benefit;
 
@@ -494,7 +549,7 @@ the  Governor-General  shall  terminate  the  appointment  of the  Director.
 
 ### Acting  appointment
 
-(1)  The  Minister  may  appoint  a  person  to  act  as  the  Director-
+28. (1) The Minister may appoint a person to act as the Director-
 
 (a) during a  vacancy in the  office of  Director (whether or  not  an appointment  has  previously  been  made  to  the  office);  or
 
@@ -506,7 +561,7 @@ but  a  person  appointed  to  act  during  a  vacancy  shall  not  continue  so
 
 (3) An  appointment  of a  person  to  act  as  Director  may  be  expressed  to have  effect  only  in  such  circumstances  as  are  specified  in  the  instrument  of appointment.
 
-- The  Minister  may-
+(4) The Minister may-
 
 (a) determine the terms and conditions of appointment, including remuneration  and  allowances,  of  a  person  appointed  to  act  as  the Director;  and
 
@@ -556,7 +611,7 @@ Affirmative  Action (Equal  Employment  Opportunity for  Women) No.  91,  1986
 
 (e) having  special  knowledge  or interest  in  relation  to affirmative  action programs,  the  functions  of the  Director  or  the  operation  of this  Act.
 
-(4) A member  of  an  advisory  committee  holds  office  for  such  period  as is specified in the instrument of  appointment, but is eligible for reappointment.
+(4) A member of an advisory committee holds office for such period as is specified in the instrument of appointment, but is eligible for re-appointment.
 
 [[END OF PAGE 15]]
 
@@ -590,7 +645,7 @@ Penalty:  $2,500  or  imprisonment  for  3 months,  or  both.
 
 (2) A  person  who  is,  or has  at  any  time  been,  the  Director  or  a  member of  the  staff  or  a  consultant  assisting  the  Director  or  is,  or  has  at  any  time been,  authorised to  perform  or  exercise any  function  or  power  under  an arrangement  in  force  under  section  33,  shall  not  be  required-
 
-(a) to  divulge  or  communicate  to  a  court  any  information  relating  to  a confidential  report  or  confidential  information  acquired  by  the  firstmentioned  person  by  reason  of  that  person's  office,  employment  or engagement  under  or  for  the  purposes  of  this  Act  or  by  reason  of that  person  being  or having  been  so  authorised;  or
+(a) to divulge or communicate to a court any information relating to a confidential report or confidential information acquired by the first-mentioned person by reason of that person's office, employment or engagement under or for the purposes of this Act or by reason of that person being or having been so authorised; or
 
 [[END OF PAGE 16]]
 
@@ -598,17 +653,17 @@ Penalty:  $2,500  or  imprisonment  for  3 months,  or  both.
 
 Affirmative Action  (Equal  Employment  Opportunity for Women) No. 91,  1986
 
-(b) to  produce  in  a  court  a  confidential  report  or  a  docurnnt  relating to  confidential  information  of  which  the  first-mentioned  person  has custody, or to  which that  person  has access, by reason of  that person's office,  employment  or engagement  under  or for  the  purposes of  this  Act  or  by  reason  of  that  person  being  or  having  been  so authorised,
+(b) to produce in a court a confidential report or a document relating to confidential information of which the first-mentioned person has custody, or to which that person has access, by reason of that person's office, employment or engagement under or for the purposes of this Act or by reason of that person being or having been so authorised,
 
 except  to  the  extent  that  the  report  or  information  was  the  subject of  a consent  under  sub-section 16  (2) or  where  it  is  necessary  to  do so  for  the purposes  of  this  Act.
 
-- Nothing  in  this  section  prohibits  a  person  from-
+(3) Nothing in this section prohibits a person from-
 
 (a) divulging  or  communicating  information,  or  producing  a  document, to the Director  or  an  officer of  a State,  in accordance with an arrangement  in  force  under  section  33;  or
 
 (b) divulging  or  communicating  information,  or  producing  a  document, that  is  required  or permitted  by  an  Act  to be  divulged,  communicated or  produced,  as  the  case  may  be.
 
-- In  this  section-
+(4) In this section-
 
 "confidential information"  means  information  which,  at  the  time  when it  is  supplied by  a relevant  employer, the  relevant employer  has specified  as  being  supplied  in  confidence;
 
@@ -622,7 +677,7 @@ except  to  the  extent  that  the  report  or  information  was  the  subject o
 
 (a) a  person  referred  to  in  sub-section  29  (1);  or
 
-(b) an  officer  in  respect  of whom  an  arrangement  is  in  force  under  subsection  (4),
+(b) an officer in respect of whom an arrangement is in force under sub-section (4),
 
 all  or any  of  the  powers  and  functions  of the  Director  under  this  Act  other than  this  power  of delegation.
 
@@ -638,7 +693,7 @@ all  or any  of  the  powers  and  functions  of the  Director  under  this  Act
 
 Affirmative Action  (Equal Employment  Opportunity for  Women) No. 91,  1986
 
-(5) In  celation  to  higher  education institutions,  the  Minister  may  make an  arrangement  with  a  Minister  of  a  State  for  the  Director  and  an  officer of  the  State  to  co-operate,  to  the  extent  specified  in  the  arrangement,  in-
+(5) In relation to higher education institutions, the Minister may make an arrangement with a Minister of a State for the Director and an officer of the State to co-operate, to the extent specified in the arrangement, in-
 
 (a) exchanging information relating to the development and implementation  of affirmative  action  programs;  and
 
@@ -652,12 +707,14 @@ Affirmative Action  (Equal Employment  Opportunity for  Women) No. 91,  1986
 
 ### Regulations
 
-- The  Governor-General may  make  regulations,  not  inconsistent  with this  Act,  prescribing  matters-
+34. The Governor-General may make regulations, not inconsistent with this Act, prescribing matters-
 
 (a) required  or  permitted  by  this  Act  to  be  prescribed;  or
 
 (b) necessary  or  convenient  to  be  prescribed  for  carrying  out  or  giving effect  to  this  Act.
 
-[Minister's  second reading  speech  made inHouse of Representatives on  19  February 1986 Senate on  17  April 1986]
+[Minister's second reading speech made in-
+House of Representatives on 19 February 1986
+Senate on 17 April 1986]
 
 [[END OF PAGE 18]]
