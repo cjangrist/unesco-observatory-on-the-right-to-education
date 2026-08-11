@@ -1,4 +1,6 @@
 [[START OF PAGE 1]]
+DANISH MINISTRY
+OF EDUCATION
 
 # Improving Vocational Education and Training
 
@@ -25,6 +27,9 @@ Editor: The Danish Ministry of Education
 Producers: Jens P. Kragelund and Thomas Bech Hansen, The Danish Ministry of Education
 
 Language: English URL: www.uvm.dk/vocational ISBN (Electronic version): 978-87-603 ISBN (Printed version): 978-87-603- Version: 1.0
+
+DANISH MINISTRY
+OF EDUCATION
 
 2 · Improving Vocational Education and Training - overview of reform of the Danish vocational education system
 
@@ -64,7 +69,18 @@ Improving Vocational Education and Training - overview of reform of the Danish v
 
 ## Content
 
-13
+Facts about Danish vocational education and training programmes 6
+1. Clear Objectives 8
+2. An Attractive Youth Education Environment 9
+3. A Simpler Structure and Greater Clarity 10
+4. Better Opportunities for Continued Education 12
+5. New VET for Adults 25 Years or Older 13
+6. Clear Admission Requirements and Offers for All Young People 14
+7. New Vocationally Oriented Form Level 10 (eud10) 16
+8. New Combined Post-Compulsory Education 17
+9. More and Improved Education Must Result in More Competent Skilled Workers 18
+10. Continued Efforts Regarding Internships and a Stronger Education Guarantee 20
+11. Focusing of Guidance Activities 22
 
 Improving Vocational Education and Training - overview of reform of the Danish vocational education system · 5
 
@@ -77,6 +93,8 @@ Improving Vocational Education and Training - overview of reform of the Danish v
 A vocational education is an education that emphasises practical experience, and most of it is completed in a practical training company such as a larger industrial enterprise, a workshop, a kitchen or a shop.
 
 Students can enrol in the programmes immediately after primary and lower secondary school. A vocational education can provide direct access to employment or be a step on the way to a higher education.
+
+The first part of the programme is a basic course that finishes with an exam, and then follows the main course which alternates between education at school and practical training. The theoretical part of the programme takes place in a vocational college, which can be a commercial college, a technical college, an adult vocational training centre, an agricultural college or a basic health care college.
 
 ### Many job opportunities
 
@@ -92,10 +110,6 @@ In Denmark 106 vocational education and training programmes are offered, special
 
 - Mercantile
 
-As of February 2014 a total of 82,689 students are taking a main course. 74,456 of them have a training agreement with a company, while 6,681 are doing school-based practical training.
-
-The vocational education and training programmes are offered in independent state institutions (vocational colleges), which receive taximeter funding.
-
 - Production and development
 
 - Power, management and IT
@@ -104,7 +118,9 @@ The vocational education and training programmes are offered in independent stat
 
 - Transport and logistics
 
-The first part of the programme is a basic course that finishes with an exam, and then follows the main course which alternates between education at school and practical training. The theoretical part of the programme takes place in a vocational college, which can be a commercial college, a technical college, an adult vocational training centre, an agricultural college or a basic health care college.
+As of February 2014 a total of 82,689 students are taking a main course. 74,456 of them have a training agreement with a company, while 6,681 are doing school-based practical training.
+
+The vocational education and training programmes are offered in independent state institutions (vocational colleges), which receive taximeter funding.
 
 6 · Improving Vocational Education and Training - overview of reform of the Danish vocational education system
 
@@ -114,11 +130,60 @@ The first part of the programme is a basic course that finishes with an exam, an
 
 ### The position of the vocational education and training programmes in the Danish education system:
 
-In February 2014 a broad political agreement was signed focusing on better and more attractive
-
-vocational education and training. On the following pages you can get an overview of the reform.
+Level
+20
+19
+18
+PhD
+17
+16
+Master’s programmes (candidatus)
+15
+14
+13
+Bachelor programmes
+Professional bachelor programmes
+Academy profession programmes
+13
+12
+Stx
+Hhx
+Htx
+Hf
+Adult upper secondary level course
+Vocational education and training including EUX
+Vocational education and training
+maritime education
+Egu
+11
+10
+Upper secondary education
+Vocationally oriented education and training etc.
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+Basic School
+ISCED97¹
+6
+5
+4
+3
+2
+1
+0
+Special needs education
 
 ### Reform of the vocational education and training programmes - get an overview
+
+In February 2014 a broad political agreement was signed focusing on better and more attractive vocational education and training. On the following pages you can get an overview of the reform.
 
 Improving Vocational Education and Training - overview of reform of the Danish vocational education system · 7
 
@@ -136,7 +201,7 @@ Result target 1.1: At least 25 per cent must choose a VET immediately following 
 
 ### Objective 2. More people must complete a VET.
 
-Result target 2.1: The completion rate must be improved from 52 per cent in 2012 to at least 60 percent by 2020 and at least 67 per cent by 2025.
+Result target 2.1: The completion rate must be improved from 52 per cent in 2012 to at least 60 per cent by 2020 and at least 67 per cent by 2025.
 
 ### Objective 3. The VETs must challenge all students so they may reach their fullest potential.
 
@@ -360,11 +425,11 @@ Improving Vocational Education and Training - overview of reform of the Danish v
 
 The quality of the VETs must be significantly improved through more and better teaching. This will be ensured through multi-pronged efforts such as more teaching time, a significant boost of teachers' skills, a clearer link between schooling and internships and more varied and differentiated lessons.
 
-All students must have a certain amount of teachersupervised lessons, no matter where they complete their VET. A minimum number of teacher-supervised lessons amounting to 25 hours per week will thus be introduced into the basic programme starting from August 2015, increasing to 26 hours from August 2016 onwards.
+All students must have a certain amount of teacher-supervised lessons, no matter where they complete their VET. A minimum number of teacher-supervised lessons amounting to 25 hours per week will thus be introduced into the basic programme starting from August 2015, increasing to 26 hours from August 2016 onwards.
 
 Besides, there will be a significant boost of the skills of the teachers. Prior to 2020 all teachers must thus acquire occupational-pedagogical skills corresponding to 10 ECTS points, e.g. based on a pedagogical diploma programme. The evaluation of the teachers' need for skills improvement will be based on the school's existing continuing education efforts and on a mapping of the present pedagogical and vocational competency level etc. of the teachers.
 
-In addition, the requirement from the 2013 Finance Act - that teachers permanently employed by 2010 or later within four years from the date of employment must acquire skills which as a minimum correspond to a completed pedagogical diploma programme will be made permanent. Also, financial funds will be set aside to enable teachers to join short occupational courses where their knowledge of the most recent vocational development within the subject and the line of business may be updated.
+In addition, the requirement from the 2013 Finance Act – that teachers permanently employed by 2010 or later within four years from the date of employment must acquire skills which as a minimum correspond to a completed pedagogical diploma programme – will be made permanent. Also, financial funds will be set aside to enable teachers to join short occupational courses where their knowledge of the most recent vocational development within the subject and the line of business may be updated.
 
 The education differentiation will be strengthened so lessons to a higher extent may be adjusted to fit students' vocational qualifications and ways of learning. Further, the use of stream distribution and talent streams will be expanded. The schools will be obliged to offer differentiated education which is adjusted in accordance with the qualifications of the individual students and their ways of learning. Also, young people will receive an offer of education at several vocational levels, so that all young people will be challenged and have their potential fully developed, e.g. in connection with special talent streams.
 
@@ -398,13 +463,15 @@ The reform will generally strengthen the opportunities for students to obtain an
 
 The efforts by the vocational colleges to establish internships must be strengthened by an allocation of more financial funds. At the same time, the taximeter subsidy must be shifted to school-based practical training. This will ensure that students do not remain in school-based practical training programmes longer than necessary, but that they complete their internship education with businesses to the greatest extent possible.
 
-The education guarantee must be strengthened in such a way that students who complete the second part of the basic programme in an education, which is offered with school-based practical training, may be certain that they will be able to complete the entire education, provided that students are qualified and apply for internships. The restricted admission to school-based practical training is eliminated so that students will not meet this barrier in the transition from the second part of the basic programme to the main programme.
+The education guarantee must be strengthened in such a way that students who complete the second part of the basic programme in an education, which is offered with school-based practical training, may be certain that they will be able to complete the entire education, provided that students are qualified and apply for internships. The restricted admission to school-based practical training is eliminated so that students will not meet this barrier in the
 
 20 · Improving Vocational Education and Training - overview of reform of the Danish vocational education system
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
+
+transition from the second part of the basic programme to the main programme.
 
 Students, who complete the second part of the basic programme in connection with an education which does not offer school-based practical training, will receive an offer of admission to the second part of a basic programme within an education which offers school-based practical training or is without internship and with maximum award of credits for already completed and passed elements. This offer can be made a maximum of two times.
 
