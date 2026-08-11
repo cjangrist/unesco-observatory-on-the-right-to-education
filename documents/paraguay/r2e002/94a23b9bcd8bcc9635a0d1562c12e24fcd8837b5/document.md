@@ -1,242 +1,56 @@
 [[START OF PAGE 1]]
+“Bicentenario de la Independencia Nacional: 1811 - 2011”
 
+REPUBLICA DEL PARAGUAY
 PODER LEGISLATIVO
 
-# LEY N° 4088
+# LEY Nº 4088
 
-QUE ESTABLECE LA GRATUIDAD DE LA EDUCACION INICIAL y DE LA EDUCACIONMEDIA
+QUE ESTABLECE LA GRATUIDAD DE LA EDUCACION INICIAL Y DE LA
+EDUCACION MEDIA
 
 EL CONGRESO DE LA NACION PARAGUAYA SANCIONA CON FUERZA DE
 
 LEY
 
-## Artículo 1°._
-Esta Ley tiene por objeto fomentar la educación en todos sus niveles, garantizando el derecho que tiene toda persona a una educación integral, permanente yen igualdad de oportunidades.
+## Artículo 1º.-
+Esta Ley tiene por objeto fomentar la educación en todos sus niveles, garantizando el derecho que tiene toda persona a una educación integral, permanente y en igualdad de oportunidades.
 
-## Artículo 2°._
-Establécese la obligatoriedad y gratuidad de la Educación Inicial y de la Educación Media, en las escuelas públicas de gestión oficial, establecidas en los Articulos 29 y 37, respectivamente, de la Ley N° 1264/98 "GENERAL DE EDUCACION"
+## Artículo 2º.-
+Establécese la obligatoriedad y gratuidad de la Educación Inicial y de la Educación Media, en las escuelas públicas de gestión oficial, establecidas en los Artículos 29 y 37, respectivamente, de la Ley Nº 1264/98 “GENERAL DE EDUCACION”
 
-## Artículo 3°._
+## Artículo 3º.-
 El Poder Ejecutivo reglamentará la presente Ley.
 
-## Artículo 4°._
+## Artículo 4º.-
 Comuníquese al Poder Ejecutivo.
 
-Aprobada el proyecto de ley por la Honorable Cámara de Senadores, a)!.Jeinte días de! mes de mayo del Jlñoáos-inil diez, quedando sancionado el m,rño, P9r la Honorable Cámara.de Dipu!.~?·os, a los diecin~eve días del mes de agost~e~ añ.~10s f!1i1diez, de corformldad I~o dl:ruesto en el Articulo 207, Numeral 1) de l~onstlt'!9" ',Nacl~~tCó/
+Aprobada el proyecto de ley por la Honorable Cámara de Senadores, a los veinte días del mes de mayo del año dos mil diez, quedando sancionado el mismo, por la Honorable Cámara de Diputados, a los diecinueve días del mes de agosto del año dos mil diez, de conformidad a lo dispuesto en el Artículo 207, Numeral 1) de la Constitución Nacional.
 
-\
+Víctor Alcides Bogado González
+Presidente
+H. Cámara de Diputados
 
-./
+Oscar González Daher
+Presidente
+H. Cámara de Senadores
 
-./'")
+Jorge Ramón Avalos Mariño
+Secretario Parlamentario
 
-/'
+María Digna Roa Rojas
+Secretaria Parlamentaria
 
-~....
-
-)
-
-(
-
-(
-
-/l
-
-J
-
-I~ /-:
-
-. r~
-
-.'
-
-;/
-
-~
-
-.n
-
-,,'-~
-
-JJ=-L3~~
-
--"\:::\
-
-A
-
-\
-
-./1
-
-\
-
-.'
-
->/~
-
-/.~-,
-
-.
-
-\"
-
-/
-
-/
-
-./
-
-./'")
-
-,/
-
-c-:
-
-.........
-
-Y
-
-/'
-
-~....
-
-)
-
-,.
-
-/
-
-.?,
-
-V >'t~'-'-AI B.o .(..1 •..• -. ~l) IC or ·CI· s, , t.~Ld.ente . H. Camara de Diputados
-
-"rr'/
-
-....
-
-/
-
-7P" ~ I '\....r:.:-". a-F-opnza'~ ane ...-- ¡presidente H. cáiara de se,.9-aaores
-
-/.----.-7~-'.
-
-;gª-y'~ºu;za ez-: ,-/-"
-
---:..'
-
-¿--:-.. -------
-
-//¿.
-
-.,;/
-
-(
-
-//.
-
-I"'--Y'"
-
-(
-
-/l
-
-.#
-
-/
-
-/,d)
-
-/~
-
-J
-
-I~ /-:
-
-/
-
-j
-
-~p
-
-~"://4
-
-. r~
-
-.'
-
-;/
-
-. _
-
-/'
-
-_
-
-fI/'j::~iik¡¿¿~~9:t:t?l
-
-Jorge Ramo~foalos Marmo Secretario Parlamentario
-
-iV)'araa [?,.~naRQaJ3-9J~sJ $ecretáfia parA~ro.j~6n}tia'- k /f'.'. / (6 e>
-
-Asunción,
-
-J3
-
-de
-
-.4e.i(ldt.jrC! /d!
-
-de 2010
+Asunción, 13 de setiembre de 2010
 
 Téngase por Ley de la República, publíquese e insértese en el Registro Oficial.
 
 El Presidente de la República
 
-~
+Fernando Armindo Lugo Méndez
 
-Fer~OArmindo Lugo Méndez 'T'G «_oo ..)
-
-.n
-
-,,'-~
-
-JJ=-L3~~
-
-/' r: Luís ';lber1o-Rrárt Ministro L:~n y Cultura
-
--"\:::\
-
-¿;::;'-"
-
-/.~-,
-
-.
-
-/-[)/j
-
-c-:
-
-.?,
-
-/.----.-7~-'.
-
-I"'--Y'"
-
-/
-
-/,d)
-
-/~
-
-j
-
-~p
-
-~"://4
-
-_
-
-fI/'j::~iik¡¿¿~~9:t:t?l
+Luís Alberto Riart
+Ministro de Educación y Cultura
 
 NCR
 
