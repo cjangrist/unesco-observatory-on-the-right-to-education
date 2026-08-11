@@ -12,13 +12,11 @@ L. 30-07-1963 M.B. 22-08-1963
 
 modifications :
 
-L. 26-07-1971 (M.B. 24-08-71)
+L. 26-07-1971 (M.B. 24-08-71) L. 27-07-1971 (M.B.22-10-71)
 
-L. 27-07-1971 (M.B.22-10-71) D. 30-01-1975 (M.B. 20-03-76) D. 23-01-09 (M.B. 10-03-09)
+L.10-07-1973 (M.B. 14-07-73) D. 30-01-1975 (M.B. 20-03-76)
 
-L.10-07-1973 (M.B. 14-07-73)
-
-D. 01-07-1982 (M.B. 27-08-82)
+D. 01-07-1982 (M.B. 27-08-82) D. 23-01-09 (M.B. 10-03-09)
 
 D. 13-01-11 (M.B. 22-02-11)
 
@@ -93,17 +91,18 @@ Le droit des parents défini à l'article 4 de la loi du 29 mai 1959 doit être 
 
 Par arrêté royal motivé, délibéré en Conseil des Ministres et publié en entier au Moniteur belge, il peut être dérogé aux dispositions de l'article 4 au profit :
 
-1° de classes uniquement accessibles à des enfants qui quittent la commune de leur domicile soit pour des raisons de santé, soit parce que leurs parents n'ont pas de résidence fixe et qui, conformément à la présente loi, recevraient dans cette commune Lois 04329
+1° de classes uniquement accessibles à des enfants qui quittent la commune de leur domicile soit pour des raisons de santé, soit parce que leurs parents n'ont pas de résidence fixe et qui, conformément à la présente loi, recevraient dans cette commune
 
+Centre de documentation administrative
+Secrétariat général
 L. 30-07-1963 mis à jour au 22/02/2011
-
-Centre de documentation administrative Secrétariat général
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
 Enseignement en général
+Lois 04329
 
 II.B.01
 
@@ -122,7 +121,7 @@ modifié par L. 10-07-1973
 ### Article 8.
 - Dans les établissements situés dans la région de langue allemande et dans les conditions fixées par le Conseil de la Communauté culturelle allemande, une partie du programme peut à partir de la troisième année de l'enseignement primaire, être donnée :
 
-- en  français  dans  les  écoles  primaires,  secondaires  et  supérieures  de  langue allemande;
+- a) en français dans les écoles primaires, secondaires et supérieures de langue allemande;
 
 - b ) en allemand dans les écoles primaires de langue française.
 
@@ -235,15 +234,15 @@ modifié par L. 26-07-1971
 
 Dans  tous  les  cas  où  la  langue  maternelle  ou  usuelle  de  l'enfant  détermine  le régime  linguistique  de  son  enseignement,  le  chef  d'école  ne  peut  procéder  à  son inscription dans un régime déterminé que sur production :
 
-- soit d'un certificat du chef de l'école que l'élève vient de quitter, attestant qu'il a fait ses études antérieures dans la langue de ce régime;
+- a) soit d'un certificat du chef de l'école que l'élève vient de quitter, attestant qu'il a fait ses études antérieures dans la langue de ce régime;
 
-- soit  d'une  déclaration  linguistique  du  chef  de  famille,  visée  par  l'inspection linguistique  dans  tous  les  cas  où  celle-ci  ne  met  pas  en  doute  l'exactitude  de  cette déclaration;
+- b) soit d'une déclaration linguistique du chef de famille, visée par l'inspection linguistique dans tous les cas où celle-ci ne met pas en doute l'exactitude de cette déclaration;
 
-- soit d'une décision de la commission ou du jury mentionné à l'article 18.
+- c) soit d'une décision de la commission ou du jury mentionné à l'article 18.
 
 Toutefois,  lorsque  l'enfant  est  inscrit  pour  la  première  fois  dans  une  école gardienne,  le  chef  d'école  peut  inscrire  l'enfant  sur  production  de  la  déclaration linguistique qui sera envoyée dans le mois à l'inspection linguistique pour vérification.
 
-Pour les élèves qui s'inscrivent dans une école de l'arrondissement de BruxellesCapitale et dont les parents résident en dehors de cet arrondissement, la langue de l'enseignement  sera  la  langue  de  la  région  de  la  résidence  des  parents,  sauf déclaration contraire du chef de famille et approuvée par l'inspection linguistique.
+Pour les élèves qui s'inscrivent dans une école de l'arrondissement de Bruxelles-Capitale et dont les parents résident en dehors de cet arrondissement, la langue de l'enseignement sera la langue de la région de la résidence des parents, sauf déclaration contraire du chef de famille et approuvée par l'inspection linguistique.
 
 Centre de documentation administrative
 
@@ -296,7 +295,7 @@ Dans  les  écoles  créées  en  Belgique  en  vertu  d'une  convention interna
 
 2° pour  les  élèves  de  nationalité  étrangère  dont  le  chef  de  famille  réside  en Belgique et ne fait pas partie d'une organisation de droit de gens, d'une ambassade, d'une légation ou d'un consulat, ou d'une institution à caractère international, reconnu comme  tel  par  arrêté  royal  sur  avis  conforme  de  la  Commission  permanente  de contrôle linguistique.
 
-Toutefois,  dans  les  écoles  situées  en  dehors  de  l'arrondissement  de  BruxellesCapitale, la langue de l'enseignement peut être la langue maternelle ou usuelle pour les élèves de nationalité belge, lorsque le chef de famille fait partie d'une organisation de droit des gens et déclare, sous contrôle de l'inspection linguistique, que la langue maternelle ou usuelle de l'élève n'est pas celle de la région linguistique dans laquelle l'école est située.
+Toutefois, dans les écoles situées en dehors de l'arrondissement de Bruxelles-Capitale, la langue de l'enseignement peut être la langue maternelle ou usuelle pour les élèves de nationalité belge, lorsque le chef de famille fait partie d'une organisation de droit des gens et déclare, sous contrôle de l'inspection linguistique, que la langue maternelle ou usuelle de l'élève n'est pas celle de la région linguistique dans laquelle l'école est située.
 
 Centre de documentation administrative
 
