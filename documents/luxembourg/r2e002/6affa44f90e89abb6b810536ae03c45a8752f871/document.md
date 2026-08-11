@@ -2,7 +2,7 @@
 
 # CONSTITUTION
 
-201 6
+2016
 
 TEXTE COORDONNÉ À JOUR AU 20 OCTOBRE 2016
 
@@ -19,6 +19,34 @@ MINISTÈRE D'ÉTAT - SERVICE CENTRAL DE LÉGISLATION www.legilux.lu
 C ONSTITUTION
 
 ## Sommaire
+
+Chapitre Ier. - De l’Etat, de son territoire et du Grand-Duc (Art. 1er à 8)  4
+
+Chapitre II. - Des libertés publiques et des droits fondamentaux (Art. 9 à 31)  4
+
+Chapitre III. - De la Puissance souveraine (Art. 32 à 49bis)  7
+
+Chapitre IV. - De la Chambre des Députés (Art. 50 à 75)  8
+
+Chapitre V. - Du Gouvernement du Grand-Duché (Art. 76 à 83)  11
+
+Chapitre Vbis.- Du Conseil d’Etat (Art. 83bis)  12
+
+Chapitre VI. - De la Justice (Art. 84 à 95ter)  12
+
+Chapitre VII. - De la Force publique (Art. 96 à 98)  13
+
+Chapitre VIII. - Des Finances (Art. 99 à 106)  13
+
+Chapitre IX. - Des Communes (Art. 107 et 108)  14
+
+Chapitre X. - Des Etablissements publics (Art. 108bis)  15
+
+Chapitre XI. - Dispositions générales (Art. 109 à 115)  15
+
+Chapitre XII. - Dispositions transitoires et supplémentaires (Art. 116 à 121)  16
+
+Jurisprudence  17
 
 Ministère d'État  -  Service central de législation  -  2016
 
@@ -48,9 +76,13 @@ Ministère d'État  -  Service central de législation  -  2016
 
 C ONSTITUTION
 
+## Texte coordonné
+
 (Révision du 12 janvier 1998)
 
-##### Art. 1 er .
+### «Chapitre Ier.- De l'Etat, de son territoire et du Grand-Duc
+
+##### Art. 1er.
 
 Le Grand-Duché de Luxembourg est un Etat démocratique, libre, indépendant et indivisible.»
 
@@ -60,7 +92,7 @@ Les limites et chefs-lieux des arrondissements judiciaires ou administratifs, de
 
 ##### Art. 3.
 
-La Couronne du Grand-Duché est héréditaire dans la famille de Nassau, conformément au pacte du 30 juin 1783, à l'art. 71 du traité de Vienne du 9 juin 1815 et à l'art. 1 er  du traité de Londres du 11 mai 1867.
+La Couronne du Grand-Duché est héréditaire dans la famille de Nassau, conformément au pacte du 30 juin 1783, à l'art. 71 du traité de Vienne du 9 juin 1815 et à l'art. 1er du traité de Londres du 11 mai 1867.
 
 ##### Art. 4.
 
@@ -114,15 +146,11 @@ Par dérogation à l'alinéa qui précède, la loi peut conférer l'exercice de 
 
 ##### «Art. 10bis.
 
-- Les Luxembourgeois sont égaux devant la loi.
+(1) Les Luxembourgeois sont égaux devant la loi.
 
 (2) Ils sont admissibles à tous les emplois publics, civils et militaires; la loi détermine l'admissibilité des non-Luxembourgeois à ces emplois.»
 
 > 1 Intitulé ainsi modifié par la révision du 2 juin 1999.
-
-## Texte coordonné
-
-### «Chapitre I er .- De l'Etat, de son territoire et du Grand-Duc
 
 Ministère d'État  -  Service central de législation  -  2016
 
@@ -292,6 +320,8 @@ C ONSTITUTION
 
 7
 
+### Chapitre III.- De la Puissance souveraine
+
 ##### Art. 32.
 
 (Révision du 15 mai 1919)
@@ -370,8 +400,6 @@ Le Grand-Duc a le droit de remettre ou de réduire les peines prononcées par le
 
 > 4 Ainsi modifié par la révision du 21 juin 2005.
 
-### Chapitre III.- De la Puissance souveraine
-
 Ministère d'État  -  Service central de législation  -  2016
 
 [[END OF PAGE 7]]
@@ -420,6 +448,8 @@ Elle peut être changée par la loi au commencement de chaque règne. La loi bud
 
 «Les dispositions du Grand-Duc doivent être contresignées par un membre du Gouvernement responsable.»
 
+#### § 2. - De la Législation
+
 ##### Art. 46.
 
 L'assentiment de la Chambre des Députés est requis pour toute loi.
@@ -433,6 +463,8 @@ La Chambre a le droit de proposer au Grand-Duc des projets de lois.
 ##### Art. 48.
 
 L'interprétation des lois par voie d'autorité ne peut avoir lieu que par la loi.
+
+#### § 3. - De la Justice
 
 ##### Art. 49.
 
@@ -580,7 +612,7 @@ C ONSTITUTION
 
 - 7° avec celles de militaire de carrière en activité de service.
 
-- Les fonctionnaires se trouvant dans un cas d'incompatibilité ont le droit d'opter entre le mandat leur confié et leurs fonctions.
+(2) Les fonctionnaires se trouvant dans un cas d'incompatibilité ont le droit d'opter entre le mandat leur confié et leurs fonctions.
 
 (3) Le député qui a été appelé aux fonctions de membre du Gouvernement et qui quitte ces fonctions, est réinscrit de plein droit comme premier suppléant sur la liste sur laquelle il a été élu.
 
@@ -604,11 +636,11 @@ Les incompatibilités prévues par l'article précédent ne font pas obstacle à
 
 «(1) La Chambre vérifie les pouvoirs de ses membres et juge les contestations qui s'élèvent à ce sujet.
 
-- A leur entrée en fonctions, ils prêtent le serment qui suit:
+(2) A leur entrée en fonctions, ils prêtent le serment qui suit:
 
 «Je jure fidélité au Grand-Duc, obéissance à la Constitution et aux lois de l'Etat.»
 
-- Ce serment est prêté en séance publique, entre les mains du président de la Chambre.»
+(3) Ce serment est prêté en séance publique, entre les mains du président de la Chambre.»
 
 ##### Art. 58.
 
@@ -702,7 +734,7 @@ Les séances de la Chambre sont tenues dans le lieu de la résidence de l'admini
 
 «(1) La Chambre se réunit chaque année en session ordinaire à l'époque fixée par le règlement.
 
-- Le Grand-Duc peut convoquer la Chambre extraordinairement; il doit le faire sur la demande d'un tiers des députés.
+(2) Le Grand-Duc peut convoquer la Chambre extraordinairement; il doit le faire sur la demande d'un tiers des députés.
 
 (3) Toute session est ouverte et close par le Grand-Duc en personne, ou bien en son nom par un fondé de pouvoirs nommé à cet effet.»
 
@@ -854,11 +886,11 @@ Les cours et tribunaux n'appliquent les arrêtés et règlements généraux et l
 
 (1) Le contentieux administratif est du ressort du tribunal administratif et de la Cour administrative. Ces juridictions connaissent du contentieux fiscal dans les cas et sous les conditions à déterminer par la loi.
 
-- La loi peut créer d'autres juridictions administratives.
+(2) La loi peut créer d'autres juridictions administratives.
 
-- La Cour administrative constitue la juridiction suprême de l'ordre administratif.
+(3) La Cour administrative constitue la juridiction suprême de l'ordre administratif.
 
-- Les attributions et l'organisation des juridictions administratives sont réglées par la loi.
+(4) Les attributions et l'organisation des juridictions administratives sont réglées par la loi.
 
 (5) Les magistrats de la Cour administrative et du tribunal administratif sont nommés par le Grand-Duc. La nomination des membres de la Cour administrative ainsi que des président et vice-présidents du tribunal  administratif  se  fait,  sauf  en  ce  qui concerne les premières nominations, sur avis de la Cour administrative.
 
@@ -868,13 +900,13 @@ Les cours et tribunaux n'appliquent les arrêtés et règlements généraux et l
 
 ##### «Art. 95ter.
 
-- La Cour Constitutionnelle statue, par voie d'arrêt, sur la conformité des lois à la Constitution.
+(1) La Cour Constitutionnelle statue, par voie d'arrêt, sur la conformité des lois à la Constitution.
 
-- La Cour Constitutionnelle est saisie, à titre préjudiciel, suivant les modalités à déterminer par la loi, par toute juridiction pour statuer sur la conformité des lois, à l'exception des lois portant approbation de traités, à la Constitution.
+(2) La Cour Constitutionnelle est saisie, à titre préjudiciel, suivant les modalités à déterminer par la loi, par toute juridiction pour statuer sur la conformité des lois, à l'exception des lois portant approbation de traités, à la Constitution.
 
 (3) La Cour Constitutionnelle est composée du Président de la Cour Supérieure de Justice, du Président de la Cour administrative, de deux conseillers à la Cour de Cassation et de cinq magistrats nommés par le Grand-Duc, sur l'avis conjoint de la Cour Supérieure de Justice et de la Cour administrative. Les dispositions des articles 91, 92 et 93 leur sont applicables. La Cour Constitutionnelle comprend une chambre siégeant au nombre de cinq magistrats.
 
-(4) L 'organisation de la Cour Constitutionnelle et la manière d'exercer ses attributions sont réglées par la loi.»
+(4) L'organisation de la Cour Constitutionnelle et la manière d'exercer ses attributions sont réglées par la loi.»
 
 ### Chapitre VII.- De la Force publique
 
@@ -896,7 +928,7 @@ Il peut être formé une garde civique, dont l'organisation est réglée par la 
 
 ##### Art. 99.
 
-Aucun impôt au profit de l'Etat ne peut être établi que par une loi. - Aucun emprunt à charge de l'Etat ne peut être contracté sans l'assentiment de la Chambre. (Révision du 16 juin 1989) «Aucune propriété immobilière de l'Etat ne peut être aliénée si l'aliénation n'en est autorisée par une loi spéciale. Toutefois une loi générale peut déterminer un seuil en dessous duquel une autorisation spéciale de la Chambre n'est pas requise. - Toute acquisition par l'Etat d'une propriété immobilière importante, toute réalisation au profit de l'Etat d'un grand projet d'infrastructure ou d'un bâtiment considérable, tout engagement financier important de l'Etat doivent être autorisés par une loi spéciale. Une loi générale détermine les seuils à partir desquels cette autorisation est requise.» 1
+Aucun impôt au profit de l'Etat ne peut être établi que par une loi. - Aucun emprunt à charge de l'Etat ne peut être contracté sans l'assentiment de la Chambre. - (Révision du 16 juin 1989) «Aucune propriété immobilière de l'Etat ne peut être aliénée si l'aliénation n'en est autorisée par une loi spéciale. Toutefois une loi générale peut déterminer un seuil en dessous duquel une autorisation spéciale de la Chambre n'est pas requise. - Toute acquisition par l'Etat d'une propriété immobilière importante, toute réalisation
 
 Ministère d'État  -  Service central de législation  -  2016
 
@@ -908,7 +940,7 @@ Ministère d'État  -  Service central de législation  -  2016
 
 C ONSTITUTION
 
-- Aucune charge grevant le budget de l'Etat pour plus d'un exercice ne peut être établie que par une loi spéciale. - Aucune charge, aucune imposition communale ne peut être établie que du consentement du conseil communal. - La loi détermine les exceptions dont l'expérience démontrera les nécessités re­ la­ ti­ ve­ ment aux impositions communales.
+au profit de l'Etat d'un grand projet d'infrastructure ou d'un bâtiment considérable, tout engagement financier important de l'Etat doivent être autorisés par une loi spéciale. Une loi générale détermine les seuils à partir desquels cette autorisation est requise.» 1 - Aucune charge grevant le budget de l'Etat pour plus d'un exercice ne peut être établie que par une loi spéciale. - Aucune charge, aucune imposition communale ne peut être établie que du consentement du conseil communal. - La loi détermine les exceptions dont l'expérience démontrera les nécessités relativement aux impositions communales.
 
 ##### Art. 100.
 
@@ -964,11 +996,11 @@ Les traitements et pensions des ministres des cultes sont à charge de l'Etat et
 
 (Révision du 23 décembre 1994)
 
-«(4) La commune est administrée sous l'autorité du collège des bourgmestre et éche­ vins, dont les membres doivent être choisis parmi les conseillers communaux. Les conditions de nationalité que doivent rem­ plir les membres du collège des bourgmestre et échevins sont déterminées par une loi votée dans les conditions de «l'article 114, alinéa 2» 2  de la Constitution.»
+«(4) La commune est administrée sous l'autorité du collège des bourgmestre et échevins, dont les membres doivent être choisis parmi les conseillers communaux. Les conditions de nationalité que doivent remplir les membres du collège des bourgmestre et échevins sont déterminées par une loi votée dans les conditions de «l'article 114, alinéa 2» 2 de la Constitution.»
 
 (Révision du 13 juin 1979)
 
-«(5) La loi règle la composition, l'organisation et les attributions des organes de la com­ mune. Elle établit le statut des fonctionnaires communaux. La commune participe à la mise en oeuvre de l'enseignement de la manière fixée par la loi.
+«(5) La loi règle la composition, l'organisation et les attributions des organes de la commune. Elle établit le statut des fonctionnaires communaux. La commune participe à la mise en oeuvre de l'enseignement de la manière fixée par la loi.
 
 > 1 Voir loi du 8 juin 1999 sur le budget, la comptabilité et la trésorerie de l'Etat, art. 80 (Mém. A - 68 du 11 juin 1999, p. 1448; doc. parl. 4100).
 
@@ -982,7 +1014,7 @@ Ministère d'État  -  Service central de législation  -  2016
 
 C ONSTITUTION 15
 
-(6) La loi règle la surveillance de la gestion communale. Elle peut soumettre certains actes des organes communaux à l'approbation de l'autorité de surveillance et même en prévoir l'annulation ou la suspension en cas d'illégalité ou d'in­ com­ pa­ ti­ bilité avec l'intérêt général, sans préjudice des attributions des tribunaux judiciaires ou administratifs.»
+(6) La loi règle la surveillance de la gestion communale. Elle peut soumettre certains actes des organes communaux à l'approbation de l'autorité de surveillance et même en prévoir l'annulation ou la suspension en cas d'illégalité ou d'incompatibilité avec l'intérêt général, sans préjudice des attributions des tribunaux judiciaires ou administratifs.»
 
 ##### Art. 108.
 
@@ -1054,9 +1086,11 @@ Ministère d'État  -  Service central de législation  -  2016
 
 C ONSTITUTION
 
+### «Chapitre XII.» 1 - Dispositions transitoires et supplémentaires
+
 ##### Art. 116.
 
-Jusqu'à ce qu'il y soit pourvu par une loi, la Chambre des Députés aura un pouvoir discrétionnaire pour accuser un membre du Gouvernement, et la Cour supérieure, en assemblée générale, le jugera, en caractérisant le délit et en déterminant la peine.  Néanmoins, la peine ne pourra excéder celle de la réclusion, sans préjudice des cas expressément prévus par les lois pénales.
+Jusqu'à ce qu'il y soit pourvu par une loi, la Chambre des Députés aura un pouvoir discrétionnaire pour accuser un membre du Gouvernement, et la Cour supérieure, en assemblée générale, le jugera, en caractérisant le délit et en déterminant la peine. - Néanmoins, la peine ne pourra excéder celle de la réclusion, sans préjudice des cas expressément prévus par les lois pénales.
 
 (...) (alinéa 2 abrogé par la révision du 13 juin 1979)
 
@@ -1082,8 +1116,6 @@ Jusqu'à la promulgation des lois et règlements prévus par la Constitution, le
 
 > 1 Numérotation du chapitre ainsi modifiée par la révision du 19 novembre 2004.
 
-### «Chapitre XII.» 1 - Dispositions transitoires et supplémentaires
-
 Ministère d'État  -  Service central de législation  -  2016
 
 [[END OF PAGE 16]]
@@ -1096,7 +1128,7 @@ C ONSTITUTION
 
 ## JURISPRUDENCE
 
-1.  Constitution - Cour constitutionnelle - arrêt - non-conformité de la loi à la Constitution - effet - juridiction de renvoi - obligation de se conformer et proportionnée à son but - Rôle du juge constitutionnel - Recherche de l'objectif de la loi - Const., art. 10 bis (1)
+1. Constitution - Cour constitutionnelle - arrêt - non-conformité de la loi à la Constitution - effet - juridiction de renvoi - obligation de se conformer
 
 En cas d'arrêt de la Cour constitutionnelle retenant la non-conformité d'une loi à la Constitution, la juridiction qui a posé la question préjudicielle est tenue de se conformer à l'arrêt rendu par la Cour en ce sens qu'elle est appelée à ne pas appliquer la loi jugée non conforme à la Constitution.
 
@@ -1146,15 +1178,17 @@ Le principe constitutionnel d'égalité devant la loi édicté par l'article 10b
 
 CA 5-5-09 (24618C; réformation de TA 4-6-08 (23593)); CA 9-7-09 (25495C); CA 1-12-09 (25916C); CA 11-5-10 (26426C)
 
-4. Egalité devant la loi - Violation - Admissibilité - Condition - Différence instituée procédant de disparités objectives, étant rationnellement justifiée, adéquate Le  législateur  peut,  sans  violer  le  principe  constitutionnel  de  l'égalité,  soumettre certaines catégories de personnes à des régimes légaux différents à condition que la différence instituée procède de disparités objectives, qu'elle soit rationnellement justifiée, adéquate et proportionnée à son but. En cas d'inégalité créée par la loi entre des catégories de personnes, il appartient au juge constitutionnel de rechercher l'objectif de la loi incriminée. Il lui incombe, à défaut de justification suffisamment exprimée dans les travaux préparatoires, de reconstituer le but expliquant la démarche du législateur pour, une fois l'objectif ainsi circonscrit, examiner s'il justifie la différence législative instituée au regard des exigences de rationalité, d'adéquation et de proportionnalité.
+4. Egalité devant la loi - Violation - Admissibilité - Condition - Différence instituée procédant de disparités objectives, étant rationnellement justifiée, adéquate et proportionnée à son but - Rôle du juge constitutionnel - Recherche de l'objectif de la loi - Const., art. 10 bis (1)
+
+Le législateur peut, sans violer le principe constitutionnel de l'égalité, soumettre certaines catégories de personnes à des régimes légaux différents à condition que la différence instituée procède de disparités objectives, qu'elle soit rationnellement justifiée, adéquate et proportionnée à son but. En cas d'inégalité créée par la loi entre des catégories de personnes, il appartient au juge constitutionnel de rechercher l'objectif de la loi incriminée. Il lui incombe, à défaut de justification suffisamment exprimée dans les travaux préparatoires, de reconstituer le but expliquant la démarche du législateur pour, une fois l'objectif ainsi circonscrit, examiner s'il justifie la différence législative instituée au regard des exigences de rationalité, d'adéquation et de proportionnalité.
 
 Cour Constitutionnelle, Arrêt 9/00 du 5 mai 2000, Mém. A - 40 du 30 mai 2000, p. 948
 
 5. Constitution - principe de l'égalité devant la loi - portée - Const., art. 11
 
-Le principe constitutionnel de l'égalité devant la loi, applicable à tout individu touché par la loi luxembourgeoise si les droits de la personnalité, et par extension des droits extra-patrimoniaux sont concernés, ne s'entend pas dans un sens absolu, mais requiert que tous ceux qui se trouvent dans la même situation de fait et de droit soient traités de la même façon TA 12-1-99 (10800); TA 22-3-2000 (11351); TA 23-10-02 (14663); TA 17-3-03 (15379); TA 2-2-04 (16653); TA 28-11-05 (19639 et 19683); TA 7-2-07 (21173, c. 2-10-07, 22709C); CA 16-10-08 (24414C);TA 1712-08 (24507, c. 14-7-09, 25326C);TA 30-10-2009 (25267); TA 03-11-2011 (27517) - Le principe d'égalité de traitement est compris comme interdisant le traitement de manière différente des situations similaires, à moins que la différenciation soit objectivement justifiée. Il appartient par conséquent aux pouvoirs publics, tant au niveau national qu'au niveau communal, de traiter de la même façon tous ceux qui se trouvent dans la même situation de fait et de droit. Par ailleurs, lesdits pouvoirs publics peuvent, sans violer le principe de l'égalité, soumettre certaines catégories de personnes à des régimes légaux différents, à condition que les différences instituées procèdent de disparités objectives, qu'elles soient rationnellement justifiées, adéquates et proportionnées à leur but
+Le principe constitutionnel de l'égalité devant la loi, applicable à tout individu touché par la loi luxembourgeoise si les droits de la personnalité, et par extension des droits extra-patrimoniaux sont concernés, ne s'entend pas dans un sens absolu, mais requiert que tous ceux qui se trouvent dans la même situation de fait et de droit soient traités de la même façon - TA 12-1-99 (10800); TA 22-3-2000 (11351); TA 23-10-02 (14663); TA 17-3-03 (15379); TA 2-2-04 (16653); TA 28-11-05 (19639 et 19683); TA 7-2-07 (21173, c. 2-10-07, 22709C); CA 16-10-08 (24414C); TA 17-12-08 (24507, c. 14-7-09, 25326C); TA 30-10-2009 (25267); TA 03-11-2011 (27517) - Le principe d'égalité de traitement est compris comme interdisant le traitement de manière différente des situations similaires, à moins que la différenciation soit objectivement justifiée. Il appartient par conséquent aux pouvoirs publics, tant au niveau national qu'au niveau communal, de traiter de la même façon tous ceux qui se trouvent dans la même situation de fait et de droit. Par ailleurs, lesdits pouvoirs publics peuvent, sans violer le principe de l'égalité, soumettre certaines catégories de personnes à des régimes légaux différents, à condition que les différences instituées procèdent de disparités objectives, qu'elles soient rationnellement justifiées, adéquates et proportionnées à leur but
 
-TA 6-12-2000 (10019 1 ); TA 10-7-02 (14378, confirmé par arrêt du 26-11-02, 15233C); TA 5-11-03 (16243); TA 2-2-04 (16191); TA 28-11-05 (19639 et 19683); TA  7-5-07  (22010  et  22011); TA  21-5-07  (22205,  c.  6-12-07,  23150C);  CA  8-109 (24794C); CA 5-5-09 (24618C2); CA 9-7-09 (25495C); CA 1- 12-09 (25916C); TA 25-3-10 (26048, c. 9-11-10, 26887C); CA 11-5-10 (26426C); TA 19-06-2012 (29118) dans le même sens: Constitution - principe de l'égalité devant l'impôt portée - Const., art. 11 - TA 1-7-99 (10868); TA 29-10-08 (24134); TA 03-11-2011 (27517)
+TA 6-12-2000 (10019¹); TA 10-7-02 (14378, confirmé par arrêt du 26-11-02, 15233C); TA 5-11-03 (16243); TA 2-2-04 (16191); TA 28-11-05 (19639 et 19683); TA 7-5-07 (22010 et 22011); TA 21-5-07 (22205, c. 6-12-07, 23150C); CA 8-1-09 (24794C); CA 5-5-09 (24618C2); CA 9-7-09 (25495C); CA 1-12-09 (25916C); TA 25-3-10 (26048, c. 9-11-10, 26887C); CA 11-5-10 (26426C); TA 19-06-2012 (29118) dans le même sens: Constitution - principe de l'égalité devant l'impôt - portée - Const., art. 11 - TA 1-7-99 (10868); TA 29-10-08 (24134); TA 03-11-2011 (27517)
 
 6. Egalité devant la loi - Champ d'application - personnes morales
 
@@ -1174,7 +1208,7 @@ CA 5-5-09 (24618C2); CA 1-12-09 (25916C); CA 17-12-09 (25839C)
 
 8. Constitution - principe de l'égalité devant la loi - moyen précis
 
-Le demandeur se contente de faire état de manière générale de ce que «les dispositions de la loi du 16 avril 1979» établiraient une différence de traitement entre les fonctionnaires de la force publique et les autres fonctionnaires. Or, force est au tribunal de rappeler qu'un moyen non autrement développé est à écarter. Tel est le cas d'un moyen non assorti de la précision requise par rapport aux dispositions légales concrètement visées. Il ne suffit dès lors pas d'invoquer d'une manière générale une violation de l'article 10bis de la Constitution, mais encore faut-il que le demandeur, pour pouvoir aboutir utilement dans son moyen, indique concrètement quelle disposition concrète de la loi il estime être contraire à l'article 10bis, précité, et qu'il indique concrètement l'incidence de cette contrariété sur la décision faisant l'objet du recours.
+Le demandeur se contente de faire état de manière générale de ce que «les dispositions de la loi du 16 avril 1979» établiraient une différence de traitement entre les fonctionnaires de la force publique et les autres fonctionnaires. Or, force est au tribunal de rappeler qu'un moyen non autrement développé est à écarter. Tel est le cas d'un moyen non assorti de la précision requise par rapport aux dis-
 
 > 1 Non réformé sur ce point par arrêt du 5-7-01, 12777C.
 
@@ -1187,6 +1221,8 @@ Ministère d'État  -  Service central de législation  -  2016
 18
 
 C ONSTITUTION
+
+positions légales concrètement visées. Il ne suffit dès lors pas d'invoquer d'une manière générale une violation de l'article 10bis de la Constitution, mais encore faut-il que le demandeur, pour pouvoir aboutir utilement dans son moyen, indique concrètement quelle disposition concrète de la loi il estime être contraire à l'article 10bis, précité, et qu'il indique concrètement l'incidence de cette contrariété sur la décision faisant l'objet du recours.
 
 TA 20/07/2011, 27569
 
@@ -1242,7 +1278,7 @@ Cour Constitutionnelle, Arrêt 46/08 du 26 septembre 2008, Mém. A - 154 du 15 o
 
 15. Article L.521-11 paragraphe 4 du Code du travail - Femme enceinte - notion de  chômeur indemnisé particulièrement difficile  à  placer  -  notion  de  considérations inhérentes à la personne - conformité aux articles 10bis, 11(2) et 111 de la Constitution
 
-Tous les volets de la question de constitutionnalité posée au regard des trois dispositions constitutionnelles de référence (art. 10bis, 11(2) et 111) ont en commun qu'ils se placent par rapport à la non-inclusion de la femme enceinte parmi les  chômeurs  indemnisés  particulièrement  difficiles  à  placer;  l'article  L.521-11., paragraphe (4) du code du travail réserve dans son alinéa premier le maintien ou la reprise du droit à l'indemnité de chômage complet y visé à la qualité de chômeur particulièrement difficile à placer, telle qu'y énoncée et que pour son application l'alinéa second du même article confère à un règlement la mission de définir la notion de «chômeur indemnisé particulièrement difficile à placer», en raison de «considérations inhérentes à sa personne»; le seul élément de définition contenu dans ces dispositions par rapport à la notion de «chômeur indemnisé particulièrement difficile à placer» consiste dans le renvoi aux «considérations inhérentes à sa personne» ; en renvoyant ainsi, de façon indistincte et générale, aux «considérations inhérentes à sa personne» le texte de loi sous revue n'instaure ni une inégalité au sens de l'article 10bis (1) de la Constitution, ni une inégalité en raison du sexe au sens de son article 11 (2), ni encore une inégalité en raison de la nationalité du chômeur concerné au sens de son article 111 ; pour le surplus l'article L.521-11., paragraphe (4) a pu valablement, la matière n'étant pas réservée à la loi, laisser la charge de la définition de la notion retenue dans l'alinéa premier de «chômeur indemnisé particulièrement difficile à placer» au règlement visé à son alinéa second.
+Tous les volets de la question de constitutionnalité posée au regard des trois dispositions constitutionnelles de référence (art. 10bis, 11(2) et 111) ont en commun qu'ils se placent par rapport à la non-inclusion de la femme enceinte parmi les chômeurs indemnisés particulièrement difficiles à placer; l'article L.521-11., paragraphe (4) du code du travail réserve dans son alinéa premier le maintien ou la reprise du droit à l'indemnité de chômage complet y visé à la qualité de chômeur particulièrement difficile à placer, telle qu'y énoncée et que pour son application l'alinéa second du même article confère à un règlement la mission de définir la notion de «chômeur indemnisé particulièrement difficile à placer», en raison de «considérations inhérentes à sa personne»; le seul élément de définition contenu dans ces dispositions par rapport à la notion de «chômeur indemnisé particulièrement difficile à placer» consiste dans le renvoi aux «considérations inhérentes à sa personne» ; en renvoyant ainsi, de façon indistincte et générale, aux «consi-
 
 Ministère d'État  -  Service central de législation  -  2016
 
@@ -1253,6 +1289,8 @@ Ministère d'État  -  Service central de législation  -  2016
 C ONSTITUTION
 
 19
+
+dérations inhérentes à sa personne» le texte de loi sous revue n'instaure ni une inégalité au sens de l'article 10bis (1) de la Constitution, ni une inégalité en raison du sexe au sens de son article 11 (2), ni encore une inégalité en raison de la nationalité du chômeur concerné au sens de son article 111 ; pour le surplus l'article L.521-11., paragraphe (4) a pu valablement, la matière n'étant pas réservée à la loi, laisser la charge de la définition de la notion retenue dans l'alinéa premier de «chômeur indemnisé particulièrement difficile à placer» au règlement visé à son alinéa second.
 
 Cour Constitutionnelle, Arrêt 48/09 du 6 mars 2009, Mém. A - 55 du 23/03/2009, p. 716
 
@@ -1424,7 +1462,7 @@ Considérant que dans les travaux préparatoires relatifs à la loi du 12 févri
 
 Considérant  que  la  mesure  instituée  par  l'article  43ter  procède  du  souci d'assurer au sein de la chambre professionnelle une représentation équitable des intérêts de tous les fonctionnaires et employés publics, qu'elle est donc rationnellement justifiée, qu'elle est encore adéquate et proportionnée à son but;
 
-Considérant que l'article 43ter, en prévoyant la possibilité d'une modification par règlement grand-ducal du nombre de mandats attribués à chaque catégorie en fonction de la variation en nombre des différentes catégories de fonctionnaires, tient compte de l'importance respective des effectifs des différentes catégories de fonctionnaires visées;que pour l'appréciation de la constitutionnalité de la disposition incriminée, il est indifférent qu'un tel règlement grandducal ne soit, en fait, pas intervenu depuis le vote de la loi;
+Considérant que l'article 43ter, en prévoyant la possibilité d'une modification par règlement grand-ducal du nombre de mandats attribués à chaque catégorie en fonction de la variation en nombre des différentes catégories de fonctionnaires, tient compte de l'importance respective des effectifs des différentes catégories de fonctionnaires visées;que pour l'appréciation de la constitutionnalité de la disposition incriminée, il est indifférent qu'un tel règlement grand-ducal ne soit, en fait, pas intervenu depuis le vote de la loi;
 
 Considérant qu'il s'en suit que l'article 43ter de la loi modifiée du 4 avril 1924 n'est, dans son alinéa 2, pas contraire à l'article 10bis, paragraphe 1 er,  de la Constitution;
 
@@ -1432,7 +1470,7 @@ Cour Constitutionnelle, Arrêt 70/12 du 9 mars 2012, Mém. A - 53 du 23 mars 201
 
 27. Terminaison de l'engagement pour absence prolongée ou absences répétées pour raison de santé - différence entre employé de l'Etat, fonctionnaire de l'Etat et salarié de droit privé - loi du 27 janvier 1972 fixant le régime des employés de l'Etat, art. 7.3
 
-Considérant  que  la  mesure  critiquée  instituée  par  l'article  7,  paragraphe  3, de  la  loi  modifiée  du  27  janvier  1972  s'applique  aux  employés  de  l'Etat  qui  ne bénéficient pas encore du régime de pension des fonctionnaires de l'Etat, c'està-dire qui n'ont pas encore accompli vingt années de service ou atteint l'âge de cinquante-cinq ans;
+Considérant que la mesure critiquée instituée par l'article 7, paragraphe 3, de la loi modifiée du 27 janvier 1972 s'applique aux employés de l'Etat qui ne bénéficient pas encore du régime de pension des fonctionnaires de l'Etat, c'est-à-dire qui n'ont pas encore accompli vingt années de service ou atteint l'âge de cinquante-cinq ans;
 
 Qu'elle ne s'applique en outre qu'aux agents qui, tels Monsieur L., bénéficient d'un contrat à durée indéterminée en vigueur depuis dix ans et qui sont âgés de trente-cinq ans au moins, contrat qui devient ainsi non résiliable, sauf à titre disciplinaire;
 
@@ -1472,7 +1510,7 @@ Considérant que le législateur peut, sans violer le principe constitutionnel d
 
 Considérant que l'action de l'avocat en paiement d'honoraires, à la différence de celle en paiement de ses frais et salaires visée à l'article 2273 du Code civil, est régie par la prescription trentenaire de droit commun édictée par l'article 2262 du même code;
 
-Considérant que si un traitement préférentiel de l'Etat, par l'institution à son profit d'un délai de prescription plus court que le délai de droit commun, peut en principe se justifier par les contraintes administratives et budgétaires auxquelles est soumis ce débiteur de nature particulière et la nécessité de lui permettre de clôturer ses comptes dans un délai raisonnable, il n'en est cependant ainsi qu'à condition qu'il n'en résulte pas une atteinte disproportionnée aux droits légitimes du créancier qui est de cette façon placé dans une situation nettement plus défavorable que si son débiteur était un particulier;
+Considérant que si un traitement préférentiel de l'Etat, par l'institution à son profit d'un délai de prescription plus court que le délai de droit commun, peut en principe se justifier par les contraintes administratives et budgétaires auxquelles est soumis ce débiteur de nature particulière et la nécessité de lui permettre de
 
 Ministère d'État  -  Service central de législation  -  2016
 
@@ -1484,7 +1522,9 @@ Ministère d'État  -  Service central de législation  -  2016
 
 C ONSTITUTION
 
-Considérant  que  le  recouvrement,  par  l'avocat,  de  sa  créance  du  chef  de l'indemnité lui redue par l'Etat au titre de l'assistance judiciaire, ne comporte en principe  aucune contrainte particulière  de  nature  à  entraver  la  production  de  la créance dans le délai imparti, l'avocat créancier ayant presté ses services dans le cadre de cette procédure spéciale qu'est l'assistance judiciaire étant conscient des obligations particulières tenant à la soumission du décompte de ses prestations pour avis à l'appréciation du bâtonnier de l'ordre des avocats et à sa transmission subséquente au ministre de la Justice pour la fixation du montant de l'indemnité lui revenant, ainsi que de la prescription spéciale encourue en application du texte visé;
+clôturer ses comptes dans un délai raisonnable, il n'en est cependant ainsi qu'à condition qu'il n'en résulte pas une atteinte disproportionnée aux droits légitimes du créancier qui est de cette façon placé dans une situation nettement plus défavorable que si son débiteur était un particulier;
+
+Considérant que le recouvrement, par l'avocat, de sa créance du chef de l'indemnité lui redue par l'Etat au titre de l'assistance judiciaire, ne comporte en principe aucune contrainte particulière de nature à entraver la production de la créance dans le délai imparti, l'avocat créancier ayant presté ses services dans le cadre de cette procédure spéciale qu'est l'assistance judiciaire étant conscient des obligations particulières tenant à la soumission du décompte de ses prestations pour avis à l'appréciation du bâtonnier de l'ordre des avocats et à sa transmission subséquente au ministre de la Justice pour la fixation du montant de l'indemnité lui revenant, ainsi que de la prescription spéciale encourue en application du texte visé;
 
 Considérant qu'en soumettant cette créance à la prescription quinquennale instituée par l'article 61 de la loi modifiée du 8 juin 1999, le législateur a pris une mesure qui procède d'une disparité objective et qui est rationnellement justifiée et proportionnée à son but;
 
@@ -1522,7 +1562,7 @@ Considérant que, dès lors, le paragraphe (3) de l'article L. 122-1 du Code du 
 
 Cour Constitutionnelle, Arrêt 97/13 du 12 avril 2013, Mém. A - 76 du 24 avril 2013, p. 938
 
-31. Effet relatif des décisions de la Cour constitutionnelle - déclaration de nonconformité d'une loi à la Constitution (oui) - déclaration de non-comparabilité de deux catégories (oui) -  Employé de l'Etat - Fonctionnaire d'Etat
+31. Effet relatif des décisions de la Cour constitutionnelle - déclaration de non-conformité d'une loi à la Constitution (oui) - déclaration de non-comparabilité de deux catégories (oui) - Employé de l'Etat - Fonctionnaire d'Etat
 
 Tout comme pour une déclaration de non-conformité d'une loi à la Constitution, la déclaration de non-comparabilité de deux catégories de comparaison dans le contexte de l'analyse de la conformité d'une loi à l'article 10bis, paragraphe 1 er , de la Constitution, a un effet relatif élargi en ce sens que, d'un côté, l'arrêt de la Cour constitutionnelle s'impose à la juridiction qui a posé la question préjudicielle, ainsi qu'à toutes les autres juridictions appelées à statuer dans la même affaire suivant l'article 15, alinéa 2 de la loi du 27 juillet 1997 portant organisation de la Cour Constitutionnelle, et que, d'un autre côté, suivant son article 6, une juridiction est  dispensée  de  saisir  la  Cour  constitutionnelle  lorsqu'elle  estime  que  la  Cour constitutionnelle a déjà statué sur une question ayant le même objet, tandis que tous les arrêts de la Cour constitutionnelle sont publiés au Mémorial A, Recueil de Législation, en application de l'article 14 alinéa 2 de la même loi.
 
@@ -1546,7 +1586,7 @@ L'ETAT entend justifier la différence de traitement entre les susdits groupes d
 
 D'après le règlement grand-ducal du 27 juillet 1997 fixant les modalités d'engagement et les conditions de travail des chargés d'éducation à durée déterminée des lycées et lycées techniques publics la tâche hebdomadaire de ceux-ci est fixée à l'équivalent de 24 leçons; qu'une partie de cette charge consiste en des activités administratives, sociales, périscolaires et de surveillance.
 
-Leur  occupation  professionnelle  ne  diffère  donc  pas  fondamentalement  de celle des salariés en situation contractuelle de droit commun et que dès lors, en l'absence de disparité objective, la dérogation prévue à l'article 17 modifié de la susdite loi du 5 juillet 1991 ne se justifie pas au regard de l'article 10bis (1) de la Loi fondamentale.
+Leur occupation professionnelle ne diffère donc pas fondamentalement de celle des salariés en situation contractuelle de droit commun et que dès lors, en
 
 Ministère d'État  -  Service central de législation  -  2016
 
@@ -1555,6 +1595,8 @@ Ministère d'État  -  Service central de législation  -  2016
 [[START OF PAGE 23]]
 
 C ONSTITUTION 23
+
+l'absence de disparité objective, la dérogation prévue à l'article 17 modifié de la susdite loi du 5 juillet 1991 ne se justifie pas au regard de l'article 10bis (1) de la Loi fondamentale.
 
 Cour constitutionnelle, Arrêt 36/06 du 20 octobre 2006, Mém. A-188 du 6 novembre 2006, p. 3304
 
@@ -1604,9 +1646,9 @@ Considérant que l'intérêt du véritable parent et l'intérêt de l'enfant se 
 
 Considérant dès lors que la différence des délais d'action n'est pas rationnellement justifiée ni adéquate ni proportionnée au but de la loi;
 
-D'où il suit que l'article 322-1, alinéa 3, combiné à l'article 339, alinéa 3, du code civil, n'est pas conforme à l'article 10 bis, paragraphe 1 er , de la Constitution dans la mesure où il limite le délai d'introduction de l'action de la personne qui se prétend le véritable parent et qui conteste la filiation de l'enfant né pendant le mariage de sa mère et n'ayant pas de possession d'état à l'égard du mari de celleci, à la période de la minorité de l'enfant;
+D'où il suit que l'article 322-1, alinéa 3, combiné à l'article 339, alinéa 3, du code civil, n'est pas conforme à l'article 10 bis, paragraphe 1er, de la Constitution dans la mesure où il limite le délai d'introduction de l'action de la personne qui se prétend le véritable parent et qui conteste la filiation de l'enfant né pendant le mariage de sa mère et n'ayant pas de possession d'état à l'égard du mari de celle-ci, à la période de la minorité de l'enfant;
 
-Considérant que le principe d'égalité, au regard des situations analogues en cause, commande d'aligner le délai d'action prévu à l'article 322-1, alinéa 3, du code civil, qui vise un enfant légitime sans possession d'état, sur celui prévu à l'article 339, alinéa 3, du même code qui édicte l'imprescriptibilité de l'action de celui qui se prétend le parent véritable et qui conteste une filiation naturelle résultant d'un acte de naissance, d'une reconnaissance ou d'une possession d'état continue et conforme inférieure à dix ans, ceci au vu de l'objectif du législateur consistant dans la recherche de la vérité biologique Cour Constitutionnelle, Arrêt 61/11, du 25 mars 2011, Mém. A - 61 du 8 avril 2011, p. 1076
+Considérant que le principe d'égalité, au regard des situations analogues en cause, commande d'aligner le délai d'action prévu à l'article 322-1, alinéa 3, du code civil, qui vise un enfant légitime sans possession d'état, sur celui prévu à l'article 339, alinéa 3, du même code qui édicte l'imprescriptibilité de l'action de celui qui se prétend le parent véritable et qui conteste une filiation naturelle résultant d'un acte de naissance, d'une reconnaissance ou d'une possession d'état continue
 
 Ministère d'État  -  Service central de législation  -  2016
 
@@ -1618,7 +1660,11 @@ Ministère d'État  -  Service central de législation  -  2016
 
 C ONSTITUTION
 
-38.  Fonctionnaires  communaux  -  statut  -  loi  du  24  décembre  1985,  art.  66 paragraphe 3
+et conforme inférieure à dix ans, ceci au vu de l'objectif du législateur consistant dans la recherche de la vérité biologique
+
+Cour Constitutionnelle, Arrêt 61/11, du 25 mars 2011, Mém. A - 61 du 8 avril 2011, p. 1076
+
+38. Fonctionnaires communaux - statut - loi du 24 décembre 1985, art. 66 paragraphe 3
 
 Considérant qu'en limitant les pouvoirs de l'autorité saisie du recours contre une décision  du  Conseil  de  discipline  des  fonctionnaires  communaux,  soit  à  la confirmation  de  la  décision  entreprise,  soit  à  l'application  d'une  sanction  moins sévère, soit encore à l'acquittement du fonctionnaire poursuivi, l'article 66, paragraphe 3 de la loi modifiée du 24 décembre 1985, précitée, crée une disparité objective entre les parties au procès, dès lors que le fonctionnaire voit, dans l'hypothèse la plus défavorable pour lui, confirmer la décision du Conseil de discipline, tandis que l'employeur communal n'a pas la possibilité de faire prononcer par le juge administratif une sanction plus sévère à l'encontre de son fonctionnaire;
 
@@ -1682,7 +1728,7 @@ Cour Constitutionnelle, Arrêt 72/12 du 29 juin 2012, Mém. A - 139 du 10 juille
 
 44. Nom patronymique des enfants naturels acquis avant la réforme de l'article 334-2, alinéa 2, première phrase, issue de la loi du 23/12/2005 - attribution du nom du père alors que reconnaissance par les deux parents - inégalité de traitement injustifiée - conformité à l'article 10bis (partiellement non)
 
-Avant  1979,  l'attribution  du  nom  patronymique  à  l'enfant  naturel  n'était  pas réglementée par la loi; la loi du 13 avril 1979 portant réforme du droit de la filiation avait pour objet de lutter contre les discriminations, mais elle n'avait en vue que la discrimination, par le code civil, entre les enfants légitimes et les enfants naturels, relégués dans une catégorie juridique inférieure; elle n'avait pas vu qu'en prévoyant qu'un enfant naturel prend obligatoirement le nom de son père si la filiation s'établit simultanément à l'égard des deux parents, elle introduisait elle-même une autre forme de discrimination, cette fois-ci entre le père et la mère de l'enfant naturel; il se dégage des travaux préparatoires du projet de loi portant réforme du droit de la filiation (Projet de loi 2020) que tant le projet de loi que l'avis du Conseil d'Etat expriment, quant à la question de l'attribution du nom patronymique aux enfants naturels, l'unique souci d'établir une analogie aussi parfaite que possible avec la situation des enfants légitimes, souci exprimé de manière expresse dans l'avis du Conseil d'Etat par l'affirmation qu' «il est dans l'intérêt de l'enfant de porter le nom de son père parce que ce nom lui donne une apparence de légitimité»; ainsi la différence de traitement entre les père et mère d'un enfant naturel, instituée par la loi du 13 avril 1979 modifiée par celle du 13 juillet 1982, n'est motivée que par l'intérêt de l'enfant naturel à être assimilé à un enfant légitime par le biais de l'attribution du nom patronymique de son père; cependant cette motivation est insuffisante pour justifier la différence de traitement instituée; qu'en effet à l'heure actuelle et plus spécialement depuis l'introduction de la loi du 23 décembre 2005 qui a modifié l'article 334-2. du code civil, la solution adoptée par le législateur en 1979 et en 1982, en vertu de laquelle l'enfant naturel acquiert le nom de son père si la filiation est établie simultanément à l'égard de ses deux parents, ne peut plus être considérée comme nécessairement conforme aux intérêts de l'enfant; il s'ensuit que la différence de traitement entre le père et la mère n'est pas rationnellement justifiée et que partant l'article 334-2. alinéa 2 en ce qu'il attribue le nom du père à l'enfant naturel si la filiation est établie simultanément à l'égard des deux parents, n'est pas conforme à l'article 10 bis (1) de la Constitution.
+Avant 1979, l'attribution du nom patronymique à l'enfant naturel n'était pas réglementée par la loi; la loi du 13 avril 1979 portant réforme du droit de la filiation avait pour objet de lutter contre les discriminations, mais elle n'avait en vue que la discrimination, par le code civil, entre les enfants légitimes et les enfants naturels, relégués dans une catégorie juridique inférieure; elle n'avait pas vu qu'en prévoyant qu'un enfant naturel prend obligatoirement le nom de son père si la filiation s'établit simultanément à l'égard des deux parents, elle introduisait elle-même une autre forme de discrimination, cette fois-ci entre le père et la mère de l'enfant naturel; il se dégage des travaux préparatoires du projet de loi portant réforme du droit de la filiation (Projet de loi 2020) que tant le projet de loi que l'avis du Conseil d'Etat expriment, quant à la question de l'attribution du nom patronymique aux enfants naturels, l'unique souci d'établir une analogie aussi parfaite que possible avec la situation des enfants légitimes, souci exprimé de manière expresse dans l'avis du
 
 Ministère d'État  -  Service central de législation  -  2016
 
@@ -1693,6 +1739,8 @@ Ministère d'État  -  Service central de législation  -  2016
 C ONSTITUTION
 
 25
+
+Conseil d'Etat par l'affirmation qu' «il est dans l'intérêt de l'enfant de porter le nom de son père parce que ce nom lui donne une apparence de légitimité»; ainsi la différence de traitement entre les père et mère d'un enfant naturel, instituée par la loi du 13 avril 1979 modifiée par celle du 13 juillet 1982, n'est motivée que par l'intérêt de l'enfant naturel à être assimilé à un enfant légitime par le biais de l'attribution du nom patronymique de son père; cependant cette motivation est insuffisante pour justifier la différence de traitement instituée; qu'en effet à l'heure actuelle et plus spécialement depuis l'introduction de la loi du 23 décembre 2005 qui a modifié l'article 334-2. du code civil, la solution adoptée par le législateur en 1979 et en 1982, en vertu de laquelle l'enfant naturel acquiert le nom de son père si la filiation est établie simultanément à l'égard de ses deux parents, ne peut plus être considérée comme nécessairement conforme aux intérêts de l'enfant; il s'ensuit que la différence de traitement entre le père et la mère n'est pas rationnellement justifiée et que partant l'article 334-2. alinéa 2 en ce qu'il attribue le nom du père à l'enfant naturel si la filiation est établie simultanément à l'égard des deux parents, n'est pas conforme à l'article 10 bis (1) de la Constitution.
 
 Cour Constitutionnelle, Arrêt 44/08, rectifié du 6 juin 2008, Mém. A - 104 du 18 juillet 2008, p. 1488
 
@@ -1716,7 +1764,7 @@ Cour Constitutionnelle,  Arrêt  2/98  du  13  novembre  1998,  Mém.  A  -  102
 
 L'instauration  du  principe  de  l'exercice  privatif  de  l'autorité  parentale  par  la mère naturelle, créant dès l'abord une inégalité entre le père naturel par rapport à la mère naturelle et au père légitime, et par là-même un clivage entre les situations des enfants selon qu'ils sont nés ou non dans le mariage, constitue une différenciation qui n'est ni adéquate ni proportionnée à son but - l'article 380, alinéa 1 er  du Code civil, en ce qu'il attribue l'autorité parentale d'un enfant naturel reconnu par les deux parents privativement à la mère, n'est pas conforme à l'article 11 (2) de la Constitution.
 
-Cour Constitutionnelle, Arrêt 7/99 du 26 mars 1999, Mém. A - 41 du 20.4.99, p. 1087; Cour constitutionnelle, arrêt 99/13 du 7 juin 2013, Mém. A - 110 du 2806-2013, p.1609
+Cour Constitutionnelle, Arrêt 7/99 du 26 mars 1999, Mém. A - 41 du 20.4.99, p. 1087; Cour constitutionnelle, arrêt 99/13 du 7 juin 2013, Mém. A - 110 du 28-06-2013, p.1609
 
 3. Droit au respect de sa vie privée et familiale - Droit d'ingérence (oui) - Placement d'un mineur en dehors du domicile de ses parents - Loi du 10 août 1992 relative à la protection de la jeunesse, art. 11 - Conv. EDH, art.8.2
 
@@ -1800,7 +1848,7 @@ Considérant que dans l'hypothèse ainsi visée par la question préjudicielle o
 
 Cour Constitutionnelle, Arrêts 55/10 et 56/10 du 26 mars 2010 2008, Mém. A - 58 du 16 avril 2010, p. 1012 et 1014
 
-12.  voir  aussi:  Liberté  du  commerce  -  principe  -  restrictions  -  admissibilité  Const., art. 11 (6); loi du 28 décembre 1988, art. 19 (1) c) 1
+12. voir aussi: Liberté du commerce - principe - restrictions - admissibilité - Const., art. 11 (6); loi du 28 décembre 1988, art. 19 (1) c) 1
 
 L'article 19) (1) c) de la loi d'établissement n'est pas contraire à l'article 11 (6) de la Constitution qui dispose que «la loi garantit la liberté du commerce et de l'industrie, l'exercice de la profession libérale et du travail agricole, sauf les restrictions à établir par le pouvoir législatif», alors que des restrictions à cette liberté peuvent être établies par le pouvoir législatif. S'il est vrai que la suppression, notamment de la liberté d'exercer une profession libérale, est contraire à la Constitution, il n'en est pas ainsi de la simple restriction.
 
@@ -1816,11 +1864,11 @@ TA 20-6-02 (14111)
 
 L'article 11 (6) de la Constitution réserve au pouvoir législatif le droit d'établir des  restrictions  à  l'exercice  de  la  profession  libérale.-  En  l'absence  de  dispositions légales réglementant l'exercice de la profession libérale d'architecte d'intérieur et, a fortiori, en l'absence de restrictions légales y relatives, une décision de refus d'inscription à l'ordre des architectes et ingénieurs conseils est à considérer comme non avenue.
 
-> 1 La loi d'établissement a été abrogée par la loi du 2 septembre 2011. Il convient de se réferrer aux articles 15 à  27 de cette loi.
+> 1 La loi d'établissement a été abrogée par la loi du 2 septembre 2011. Il convient de se référer aux articles 15 à 27 de cette loi.
 
-> 2 La loi d'établissement a été abrogée par la loi du 2 septembre 2011. Il convient de se réferrer à l'article 35 de cette loi.
+> 2 La loi d'établissement a été abrogée par la loi du 2 septembre 2011. Il convient de se référer à l'article 35 de cette loi.
 
-> 3 La loi d'établissement a été abrogée par la loi du 2 septembre 2011. Il convient de se réferrer à l'article 1 er de cette loi.
+> 3 La loi d'établissement a été abrogée par la loi du 2 septembre 2011. Il convient de se référer à l'article 1er de cette loi.
 
 TA 21-5-03 (15742); TA 21-5-03 (15884)
 
@@ -1848,7 +1896,7 @@ Conseil d'Etat, 4 février 1964, Pas. 19, p. 266
 
 TA 12-2-03, 10997
 
-> 4 Le règlement grand-ducal du 1 er  mars 2000 a été abrogé par le règlement grand-ducal du 11 mars 2004. Il convient de se réferrer à l'article 13 de ce règlement grand-ducal.
+> 4 Le règlement grand-ducal du 1er mars 2000 a été abrogé par le règlement grand-ducal du 11 mars 2004. Il convient de se référer à l'article 13 de ce règlement grand-ducal.
 
 Ministère d'État  -  Service central de législation  -  2016
 
@@ -1862,7 +1910,7 @@ C ONSTITUTION
 
 #### Droit au travail
 
-- Les dispositions dérogatoires au principe constitutionnel du droit au travail et de la liberté du commerce et de l'industrie sont à interpréter restrictivement.
+20. Les dispositions dérogatoires au principe constitutionnel du droit au travail et de la liberté du commerce et de l'industrie sont à interpréter restrictivement.
 
 Conseil d'Etat, 13 juillet 1956, Pas. 16, p. 529; Conseil d'Etat, 2 juillet 1958, Pas. 17, p. 319
 
@@ -1900,7 +1948,7 @@ Cour Constitutionnelle, Arrêt 46/08 du 26 septembre 2008, Mém. A - 154 du 15 o
 
 #### Liberté individuelle
 
-- Constitue une aliénation de la liberté individuelle dans ce qu'elle a d'intangible, la clause de direction exclusive du procès contenue dans une police d'assurance en matière pénale.
+1. Constitue une aliénation de la liberté individuelle dans ce qu'elle a d'intangible, la clause de direction exclusive du procès contenue dans une police d'assurance en matière pénale.
 
 Trib. Lux., 14 juillet 1951, Pas. 15, p. 163
 
@@ -1926,9 +1974,9 @@ Cour 17-12-09 (25942C)
 
 5. Constitution - arrestation et placement - notions - loi du 29 août 2008, aticles 100 et 109 à 115
 
-L'article 12 de la Constitution opère une nette distinction entre une arrestation et un placement en disposant « (…) Nul ne peut être arrêté ou placé que dans les cas prévus par la loi et dans la forme qu'elle prescrit (…) ». En effet, ces deux notions ne sont pas à confondre dans la mesure où la notion d'arrestation se définit comme le fait d'appréhender une personne en vue de sa comparution devant une autorité judiciaire, tandis que la notion de placement se définit comme le fait de placer une personne étrangère en situation irrégulière sur le territoire du GrandDuché de Luxembourg en rétention dans une structure fermée lorsque l'exécution d'une mesure d'éloignement ou d'une demande de transit par voie aérienne est impossible en raison de circonstances de fait, voire pour garantir l'instruction d'une demande de protection internationale. En ce qui concerne le placement en rétention, l'article 12 de la Constitution ne consacre qu'une seule disposition en retenant que nul ne peut être placé que dans les cas et formes prévus par la loi, les autres dispositions de l'article 12 de la Constitution se rapportant exclusivement à l'arrestation. Aussi, en ce qui concerne le placement en rétention, la Constitution ne fait que consacrer le principe de la possibilité de placer une personne en rétention en précisant que ce placement est à effectuer conformément aux dispositions légales et en laissant de ce fait la détermination des modalités, donc des conditions et des formes du placement, au législateur.
+L'article 12 de la Constitution opère une nette distinction entre une arrestation et un placement en disposant « (…) Nul ne peut être arrêté ou placé que dans les cas prévus par la loi et dans la forme qu'elle prescrit (…) ». En effet, ces deux notions ne sont pas à confondre dans la mesure où la notion d'arrestation se définit comme le fait d'appréhender une personne en vue de sa comparution devant une autorité judiciaire, tandis que la notion de placement se définit comme le fait de placer une personne étrangère en situation irrégulière sur le territoire du Grand-Duché de Luxembourg en rétention dans une structure fermée lorsque l'exécution d'une mesure d'éloignement ou d'une demande de transit par voie aérienne est impossible en raison de circonstances de fait, voire pour garantir l'instruction d'une demande de protection internationale. En ce qui concerne le placement en rétention, l'article 12 de la Constitution ne consacre qu'une seule disposition en retenant que nul ne peut être placé que dans les cas et formes prévus par la loi, les autres dispositions de l'article 12 de la Constitution se rapportant exclusivement à l'arrestation. Aussi, en ce qui concerne le placement en rétention, la Constitution ne fait que consacrer le principe de la possibilité de placer une personne en rétention en précisant que ce placement est à effectuer conformément aux dispositions légales et en laissant de ce fait la détermination des modalités, donc des conditions et des formes du placement, au législateur.
 
-TA 23-12-2011, 29525; TA 27-01-2012, 29734; TA 05-04-2012, 30199; TA 0504-2012, 30200
+TA 23-12-2011, 29525; TA 27-01-2012, 29734; TA 05-04-2012, 30199; TA 05-04-2012, 30200
 
 6. Mise à la disposition du gouvernement - inconstitutionnalité (non) - Const., art. 12 et 111; loi du 29 août 2008, art. 120
 
@@ -1938,7 +1986,7 @@ TA 2-2-09 (25309); TA 2-12-10 (27501)
 
 7. Arrestation - Placement en rétention - définitions des notions - Portée des deux mesures
 
-L'article 12 de la Constitution opère une distinction entre une arrestation et un placement en disposant «(…) Nul ne peut être arrêté ou placé que dans les cas prévus par la loi et dans la forme qu'elle prescrit (…)». En effet, ces deux notions ne sont pas à confondre dans la mesure où la notion d'arrestation se définit comme le fait d'appréhender une personne en vue de sa comparution devant une autorité judiciaire, tandis que la notion de placement se définit comme le fait de placer une personne étrangère  en  situation  irrégulière  sur  le  territoire  du  Grand-Duché  de Luxembourg en rétention dans une structure fermée lorsque l'exécution d'une mesure d'éloignement ou d'une demande de transit par voie aérienne est impossible en raison de circonstances de fait, voire pour garantir l'instruction d'une demande de protection internationale.
+L'article 12 de la Constitution opère une distinction entre une arrestation et un placement en disposant «(…) Nul ne peut être arrêté ou placé que dans les cas prévus par la loi et dans la forme qu'elle prescrit (…)». En effet, ces deux notions ne sont pas à confondre dans la mesure où la notion d'arrestation se définit comme le fait d'appréhender une personne en vue de sa comparution devant une autorité judiciaire, tandis que la notion de placement se définit comme le fait de placer une
 
 > 1 Actuellement article 135 du Code de la sécurité sociale.
 
@@ -1951,6 +1999,8 @@ Ministère d'État  -  Service central de législation  -  2016
 28
 
 C ONSTITUTION
+
+personne étrangère en situation irrégulière sur le territoire du Grand-Duché de Luxembourg en rétention dans une structure fermée lorsque l'exécution d'une mesure d'éloignement ou d'une demande de transit par voie aérienne est impossible en raison de circonstances de fait, voire pour garantir l'instruction d'une demande de protection internationale.
 
 Quant au placement en rétention, l'article 12 de la Constitution n'y consacre qu'une seule disposition en retenant que nul ne peut être placé que dans les cas et formes prévus par la loi. Les autres dispositions de l'article 12 de la Constitution se rapportent exclusivement à l'arrestation. En ce qui concerne le placement en rétention, la Constitution ne fait donc que consacrer le principe de la possibilité de placer une personne en rétention en précisant que ce placement est à effectuer conformément aux dispositions légales et en laissant de ce fait la détermination des modalités, donc des conditions et des formes du placement, au législateur.
 
@@ -2002,7 +2052,7 @@ Cour Constitutionnelle,  Arrêt  19/04  du  30  janvier  2004,  Mém.  A  -  18 
 
 #### Rétroactivité de la loi
 
-6. Principe de légalité des peines - Rétroactivité de la peine la plus douce Const., art. 14
+6. Principe de légalité des peines - Rétroactivité de la peine la plus douce - Const., art. 14
 
 Le principe de la légalité des peines consacré par l'article 14 de la Constitution implique celui de la rétroactivité de la peine la plus douce.
 
@@ -2062,7 +2112,7 @@ Que partant la prise  de  connaissance  utile  par  la  demanderesse  de  l'auto
 
 TA 22-01-2003 (14868)
 
-3. Autorisation de bâtir - affichage - information des tiers intéréssés - validité inviolabilité du domicile
+3. Autorisation de bâtir - affichage - information des tiers intéréssés - validité - inviolabilité du domicile
 
 pour que l'affichage du formulaire «point rouge» élaboré par le ministère de l'Intérieur  réponde  à  sa  vocation  inhérente  consistant  à  permettre  la  prise  de connaissance par les tiers intéressés du contenu de l'autorisation délivrée, sa visibilité comporte nécessairement que le certificat en question ait pu être effectivement pris en connaissance, partant lu par ceux que la chose concerne, de sorte qu'il ne suffit pas qu'il soit visible de loin sans que lecture ne puisse en être prise utilement. Aux termes des dispositions de l'article 15 de la Constitution, le domicile est inviolable, de sorte que la Cour est amenée à ne prendre utilement en compte que les seuls certificats affichés à une proximité telle de la voie publique qu'une lecture aisée ait pu en être prise, de sorte à voir vérifié une possibilité effective de prise de connaissance au vœu des dispositions de l'article 13 (1) in fine de la loi modifiée du 21 juin 1999 (Cour adm. 17 juin 2003, n°s 16056C et 16077C, Pas. adm. 2004, V° Procédure contentieuse, n° 131, p. 579).
 
@@ -2080,7 +2130,7 @@ Cour Constitutionnelle, Arrêt 46/08 du 26 septembre 2008, Mém. A - 154 du 15 o
 
 #### Droit de propriété
 
-2.  Droit  de  propriété  -  Dérogation  -  Interprétation  stricte  des  restrictions  Const., art. 16
+2. Droit de propriété - Dérogation - Interprétation stricte des restrictions - Const., art. 16
 
 Le droit de propriété est un droit fondamental et toute dérogation qui y porte atteinte est d'interprétation stricte.
 
@@ -2124,9 +2174,9 @@ L'envoi  en  possession  sur  la  seule  base  de  la  consignation  d'une  inde
 
 Cour Constitutionnelle, Arrêt 16/03 du 7 février 2003, Mém. A - 31 du 28 février 2002, p. 510
 
-9. Expropriation - Expropriation cachée - Aménagement communal - pouvoirs des  autorités  communales  -  réglementation  de  l'usage  du  droit  de  propriété  Constitution, article 16; code civil, article 545; loi du 12 juin 1937
+9. Expropriation - Expropriation cachée - Aménagement communal - pouvoirs des autorités communales - réglementation de l'usage du droit de propriété - Constitution, article 16; code civil, article 545; loi du 12 juin 1937
 
-Le législateur, en imposant aux communes d'établir un projet d'aménagement et  d'édicter  un  règlement  sur  les  bâtisses  a  nécessairement  habilité  le  pouvoir communal à réglementer l'usage du droit de propriété lorsque sa réglementation est nécessaire à la réalisation des objectifs de la loi du 12 juin 1937. En prenant de telles mesures, l'autorité communale ne procède pas à une expropriation cachée contraire à l'article 16 de la Constitution et à l'article 545 du code civil. CA 21-12-2000 (12162C); TA 12-3-2001 (12047, confirmé par arrêt du 29-11-2001, 13229C); TA 25-7-2001 (12318a, confirmé par arrêt du 8-1-2002, 13891C) ; TA 21-3-02 (13015); TA 9-11-06 (20995); TA 7-7-07 (21713); TA 9-7-07 (21717); TA 27-6-11 (26842) - Les règlements communaux en matière de bâtisses sont des règlements de police à caractère strict. Plus particulièrement en ce qui concerne le droit de propriété, l'administration communale ne peut se substituer au législateur et porter atteinte à ce droit d'une façon illimitée par des prescriptions de police, en ce qu'elle ne peut qu'en régler l'usage dans les points que le législateur lui a attribués, c'est-à-dire, en tant que la propreté, la salubrité, la sûreté et la tranquillité des habitants y sont intéressées TA 26-1-99 (10662); TA 21-3-02 (13015); TA 20-9-06 (20690) - Dans la mesure où une réglementation en matière d'urbanisme se limite à déterminer le régime des constructions et aménagements sur un terrain sans affecter le droit de disposition du propriétaire sur ce dernier, de manière à ne pas conférer au promoteur des droits réels sur un terrain déterminé et à ne pas entraîner d'office un remorcellement des propriétés couvertes par un plan d'aménagement, un PAP reste sans incidence sur le droit de propriété des administrés sur leur terrain et ne confère aucun titre au promoteur du PAP pour la réalisation des infrastructures prévues par le PAP .
+Le législateur, en imposant aux communes d'établir un projet d'aménagement et d'édicter un règlement sur les bâtisses a nécessairement habilité le pouvoir communal à réglementer l'usage du droit de propriété lorsque sa réglementation
 
 > 1 Voir Cour adm. 11 décembre 2001, n° 13617C, Pas. adm. 2012, V° Urbanisme, n° 519, et en particulier en ce qui concerne des emplacements de parking : trib. adm. 16 février 2004, n°16832.
 
@@ -2140,6 +2190,8 @@ Ministère d'État  -  Service central de législation  -  2016
 
 C ONSTITUTION
 
+est nécessaire à la réalisation des objectifs de la loi du 12 juin 1937. En prenant de telles mesures, l'autorité communale ne procède pas à une expropriation cachée contraire à l'article 16 de la Constitution et à l'article 545 du code civil. CA 21-12-2000 (12162C); TA 12-3-2001 (12047, confirmé par arrêt du 29-11-2001, 13229C); TA 25-7-2001 (12318a, confirmé par arrêt du 8-1-2002, 13891C) ; TA 21-3-02 (13015); TA 9-11-06 (20995); TA 7-7-07 (21713); TA 9-7-07 (21717); TA 27-6-11 (26842) – Les règlements communaux en matière de bâtisses sont des règlements de police à caractère strict. Plus particulièrement en ce qui concerne le droit de propriété, l'administration communale ne peut se substituer au législateur et porter atteinte à ce droit d'une façon illimitée par des prescriptions de police, en ce qu'elle ne peut qu'en régler l'usage dans les points que le législateur lui a attribués, c'est-à-dire, en tant que la propreté, la salubrité, la sûreté et la tranquillité des habitants y sont intéressées – TA 26-1-99 (10662); TA 21-3-02 (13015); TA 20-9-06 (20690) - Dans la mesure où une réglementation en matière d'urbanisme se limite à déterminer le régime des constructions et aménagements sur un terrain sans affecter le droit de disposition du propriétaire sur ce dernier, de manière à ne pas conférer au promoteur des droits réels sur un terrain déterminé et à ne pas entraîner d'office un remorcellement des propriétés couvertes par un plan d'aménagement, un PAP reste sans incidence sur le droit de propriété des administrés sur leur terrain et ne confère aucun titre au promoteur du PAP pour la réalisation des infrastructures prévues par le PAP.
+
 TA 9-11-06 (20995)
 
 10. Droit de propriété - usage - limitation - expropriation - conditions - Const., art. 16
@@ -2148,7 +2200,7 @@ La réglementation d'urbanisme se résout par essence en réglementation de l'us
 
 CA 22-3-11 (27064C)
 
-11. Expropriation pour cause d'utilité publique - Impôt sur le revenu - Nature Contribution individuelle aux charges de la collectivité - Atteinte à la propriété (non) - Const., art. 16; L.I.R., art. 18, 23, 92, 93 et 118
+11. Expropriation pour cause d'utilité publique - Impôt sur le revenu - Nature - Contribution individuelle aux charges de la collectivité - Atteinte à la propriété (non) - Const., art. 16; L.I.R., art. 18, 23, 92, 93 et 118
 
 L'impôt sur le revenu est une contribution individuelle aux charges communes de la collectivité dont la fixation et perception ne constituent pas une atteinte à la propriété au sens de l'article 16 de la Constitution qui ne vise que la privation de la propriété d'un bien déterminé moyennant juste et préalable indemnité et non pas l'incidence de la dette fiscale sur un patrimoine.
 
@@ -2216,7 +2268,7 @@ Conseil d'Etat, 19 mai 1965, non publié
 
 1. Il résulte de l'ensemble des dispositions du règlement grand-ducal modifié du 25 juin 1971 portant organisation du stage judiciaire et réglementant l'accès au notariat que les cours complémentaires font partie du stage professionnel et que, quoiqu'organisés du point de vue administratif dans le cadre du Centre universitaire, ils ne participent pas du caractère d'un enseignement universitaire; ils ont uniquement pour but de parfaire les connaissances juridiques des détenteurs de diplômes étrangers en les initiant aux particularités du droit luxembourgeois; ils présupposent donc une connaissance approfondie du droit et c'est pour ce motif que l'art. 4 du règlement exige pour l'inscription à ces cours l'homologation et la transcription d'un grade étranger en droit.
 
-Si l'art. 6 du règlement grand-ducal du 2 juin 1972 concernant l'organisation scientifique des cours universitaires prévoit l'inscription d'élèves libres, cette disposition s'applique uniquement aux cours universitaires et ne saurait être étendue à des cours qui se placent dans le cadre de la réglementation professionnelle et partant ne font pas partie de l'enseignement universitaire.
+Si l'art. 6 du règlement grand-ducal du 2 juin 1972 concernant l'organisation scientifique des cours universitaires prévoit l'inscription d'élèves libres, cette disposition s'applique uniquement aux cours universitaires et ne saurait être étendue
 
 Ministère d'État  -  Service central de législation  -  2016
 
@@ -2226,17 +2278,19 @@ Ministère d'État  -  Service central de législation  -  2016
 
 C ONSTITUTION 31
 
+à des cours qui se placent dans le cadre de la réglementation professionnelle et partant ne font pas partie de l'enseignement universitaire.
+
 Par ailleurs, l'art. 23 alinéa 4 de la Constitution ainsi que la Convention internationale concernant la lutte contre la discrimination dans le domaine de l'enseignement, approuvée par la loi du 28 juillet 1969, ne sauraient trouver application en l'espèce, alors que les cours complémentaires en droit luxembourgeois n'ont pas le caractère d'un enseignement universitaire; il ne saurait dès lors être question de discrimination au sens de cette convention, les conditions d'accès aux cours dont il s'agit étant fixées uniformément pour tous les intéressés; elles ne comportent aucune distinction en fonction de la condition économique ayant pour objet d'écarter une personne ou un groupe de personnes de l'accès aux divers types ou degrés de l'enseignement; le recours tendant à l'annulation d'une décision refusant l'inscription  comme élève libre aux cours complémentaires de droit luxembourgeois est dès lors à rejeter.
 
 CE 24 octobre 1973, Rec. CE 1973
 
-2. Enseignement supérieur - réserves de compétences du législateur (oui) non-conformité de la l'article 4 de la loi modifiée du 18 juin 1969 sur l'enseignement supérieur et l'homologation des titres et grades étrangers d'enseignement supérieur
+2. Enseignement supérieur - réserves de compétences du législateur (oui) - non-conformité de la l'article 4 de la loi modifiée du 18 juin 1969 sur l'enseignement supérieur et l'homologation des titres et grades étrangers d'enseignement supérieur
 
 Considérant que l'article 11(6) de la Constitution dispose que «la loi garantit la liberté du commerce et de l'industrie, l'exercice de la profession libérale et du travail agricole, sauf les restrictions à établir par le pouvoir législatif» et que l'article 23 de la Constitution, en ses passages pertinents, énonce que «(la loi) règle (...) tout ce qui est relatif à l'enseignement (alinéa 3)» et que «chacun est libre de faire ses études dans le Grand-Duché ou à l'étranger et de fréquenter les universités de son choix, sauf les dispositions de la loi sur les conditions d'admission aux emplois et à l'exercice de certaines professions» (alinéa 4);
 
 Considérant  que  l'effet  des  réserves  de  la  loi  énoncées  par  la  Constitution consiste en ce que nul, sauf le pouvoir législatif, ne peut valablement disposer des matières érigées en réserve; qu'il est toutefois satisfait à la réserve constitutionnelle si la loi se borne à tracer les grands principes tout en abandonnant au pouvoir réglementaire la mise en oeuvre du détail.
 
-Cour constitutionnelle, Arrêt n°15/03 du 3 janvier 2003, Mém. A - 7 du 23-012003, p.90
+Cour constitutionnelle, Arrêt n°15/03 du 3 janvier 2003, Mém. A - 7 du 23-01-2003, p.90
 
 ### Article 24
 
@@ -2292,7 +2346,7 @@ Cour (cass.), 17 janvier 1957, Pas. 17, p. 105, avec note Ch. L. H.
 
 Par matière réservée à la loi, on entend une matière spécialement désignée par la Constitution comme ne pouvant faire l'objet que d'une loi formelle. - L 'effet d'une réserve de la loi consiste en ce que nul, sauf le pouvoir souverain, ne peut valablement disposer d'une telle matière érigée en réserve. La réserve de la loi prohibe une habilitation notamment en faveur de l'organe investi du pouvoir exécutif. - La loi ne peut pas conférer au pouvoir exécutif, en vertu d'une disposition expresse, le soin de réglementer une matière dont la détermination lui incombe personnellement. Pour satisfaire à une réserve constitutionnelle, la loi ne doit pas tout régler jusque dans le moindre détail. En effet, il suffit, mais il faut aussi que le principe et les modalités substantielles de la matière réservée soient retenus par la loi. - Ainsi, la réserve de la loi prohibe les habilitations générales, mais elle ne met pas obstacle à une habilitation plus spécifique. En d'autres mots, il suffit que la loi trace les grands principes; elle peut, même en présence d'une réserve, abandonner la mise en oeuvre du détail au pouvoir réglementaire.
 
-TA 26-7-2000 (11637, c. 19- 12-2000, 12309C); TA 2-10-2000 (11842); TA 311-01 (11998)
+TA 26-7-2000 (11637, c. 19- 12-2000, 12309C); TA 2-10-2000 (11842); TA 31-1-01 (11998)
 
 3. La Constitution du Grand-Duché de Luxembourg dispose en son article 99, première phrase qu'«aucun impôt au profit de l'Etat ne peut être établi que par une loi» et en son article 32 (3) que «dans les matières réservées à la loi par la Constitution, le Grand-Duc ne peut prendre des règlements et arrêtés qu'aux fins, dans les conditions et suivant les modalités spécifiées par la loi».
 
@@ -2320,7 +2374,7 @@ Les  susdites  boissons  ainsi  définies  et  comprises  constituent  des  supp
 
 Cour constitutionnelle, Arrêt 38/07 du 2 mars 2007, Mém. A - 36 du 15 mars 2007, p. 742
 
-Dans le même sens voir aussi TA 22-4-03 (15541);TA 22-4-03 (15544); CA 8-109 (24794C); TA 7-1-09 (24894 et 250551); CA 15-6-10 (26644C)
+Dans le même sens voir aussi TA 22-4-03 (15541);TA 22-4-03 (15544); CA 8-1-09 (24794C); TA 7-1-09 (24894 et 25055¹); CA 15-6-10 (26644C)
 
 ### Article 33
 
@@ -2370,7 +2424,7 @@ CE, 13 juillet 1979, Pas. 24, p. 307; CE 13 juillet 1979, non publié
 
 4. Le fait pour le directeur d'une administration de ne point continuer en vue de sa promotion une candidature d'un fonctionnaire relevant de son administration à l'autorité de nomination revient à limiter de la sorte l'amplitude du choix et partant les pouvoirs de l'autorité de nomination et pareille façon de procéder contrevient aux dispositions de l'article 35 de la Constitution et s'analyse en une incompétence de son auteur.
 
-TA 25.10.2006, (21056); TA 15-07-2013 (30812 1 )
+TA 25.10.2006, (21056); TA 15-07-2013 (30812¹)
 
 5.  Une  pratique  administrative,  fût-elle  constante,  ne  saurait  tenir  en  échec les termes clairs de la loi, ni a fortiori ceux de la Constitution. Le fait de ne pas soumettre une demande de promotion au Grand-Duc, compétent pour statuer y relativement d'après les dispositions de l'article 35 de la Constitution et de l'article 25, alinéa 1 er de  la  loi  modifiée  du  31  mai  1999  portant  création  d'un  corps  de police  grand-ducale et d'une inspection générale de la police, revient à ôter au chef d'Etat une compétence expressément prévue dans son chef. La position du ministre de l'Intérieur, fût-elle justifiée au fond, ne saurait dès lors anticipativement se substituer à celle du chef de l'Etat compétent en la matière
 
@@ -2444,9 +2498,9 @@ Cour Constitutionnelle, Arrêts 4/98, 5/98 et 6/98 du 18 décembre 1998, Mém. A
 
 En vertu de l'article 36 de la Constitution, le Grand-Duc est investi du pouvoir de faire les règlements et arrêtés nécessaires pour l'exécution des lois. Le privilège d'exécution des lois conféré par la Constitution au Grand-Duc constitue en même temps pour celui-ci  une  obligation  dont  il  ne  saurait  se  décharger  sur  un  autre organe par voie de subdélégation. En particulier, un règlement grand-ducal ne peut confier des mesures supplémentaires d'exécution à un règlement ministériel ou à un arrêté ministériel
 
-TA 16-6-97 (9457, confirmé par arrêt du 15-1-98, 10180C) - voir aussi TA 113-98 (9746)
+TA 16-6-97 (9457, confirmé par arrêt du 15-1-98, 10180C) - voir aussi TA 11-3-98 (9746)
 
-9. Règlement ministériel - règlement édicté par le conseil de gouvernement défaut d'habilitation par une loi - anti-constitutionnalité - Const., article 36
+9. Règlement ministériel - règlement édicté par le conseil de gouvernement - défaut d'habilitation par une loi - anti-constitutionnalité - Const., article 36
 
 Ni le pouvoir de réglementation des ministres agissant en conseil, ni celui d'un ministre individuel agissant dans le cadre de la direction de son département ministériel, ne sauraient dépasser celui du Grand-Duc de qui ils tiennent le pouvoir. Il s'ensuit qu'une décision du gouvernement en conseil ou une décision ministérielle doivent trouver leur base dans une délégation de pouvoir découlant de cette loi.
 
@@ -2470,7 +2524,7 @@ Spécialement les peines édictées par un arrêté pour sanctionner des obligat
 
 Trib. Lux., 28 novembre 1933, Pas. 13, p. 93
 
-12.  Lorsqu'une  loi  ne  contient  aucune  disposition  permettant  d'édicter  des peines  pénales  par  voie  de  règlement  d'administration  publique,  l'arrêté  grandducal pris en exécution de ladite loi ne peut être appliqué en tant qu'il édicte des sanctions pénales.
+12. Lorsqu'une loi ne contient aucune disposition permettant d'édicter des peines pénales par voie de règlement d'administration publique, l'arrêté grand-ducal pris en exécution de ladite loi ne peut être appliqué en tant qu'il édicte des sanctions pénales.
 
 Trib. Lux., 30 octobre 1947, Pas. 14, p. 311
 
@@ -2478,7 +2532,7 @@ Trib. Lux., 30 octobre 1947, Pas. 14, p. 311
 
 13. Régime n'ayant pas d'existence légale
 
-Aucune disposition légale n'a conféré au Grand-Duc ou au gouvernement le pouvoir  d'instituer  un  régime  de  reconnaissance  du  statut  de  réfugié  particulier ne devant s'appliquer qu'aux ressortissants de l'ex-Yougoslavie. Il s'ensuit que la réglementation en question, pour autant qu'elle existe, est contraire à la Constitution. De plus, aucune des circulaires instaurant le régime particulier n'a été publiée au Mémorial, aucune loi régulièrement publiée ne dispensant par ailleurs le gouvernement de procéder à une telle publication. Le ministre de la Justice ne saurait partant se fonder sur le statut particulier pour refuser à des ressortissants de l'exYougoslavie des droits qu'ils peuvent tenir, le cas échéant, du droit commun en matière de réfugiés, constitué par la Convention de Genève.
+Aucune disposition légale n'a conféré au Grand-Duc ou au gouvernement le pouvoir d'instituer un régime de reconnaissance du statut de réfugié particulier ne devant s'appliquer qu'aux ressortissants de l'ex-Yougoslavie. Il s'ensuit que la réglementation en question, pour autant qu'elle existe, est contraire à la Constitution. De plus, aucune des circulaires instaurant le régime particulier n'a été publiée au Mémorial, aucune loi régulièrement publiée ne dispensant par ailleurs le gouvernement de procéder à une telle publication. Le ministre de la Justice ne saurait partant se fonder sur le statut particulier pour refuser à des ressortissants de l'ex-Yougoslavie des droits qu'ils peuvent tenir, le cas échéant, du droit commun en matière de réfugiés, constitué par la Convention de Genève.
 
 TA 27-2-97 (9570); TA 27-2-97 (9608); TA 27-2-97 (9613); TA 16-4-97 (9635, confirmé par arrêt du 10-7-97, 9960C); TA 5-5-97 (9666, appel déclaré irrecevable par arrêt du 23-10-97, 10041C); TA 12-5-97 (9737); TA 13-8-97 (9773)
 
@@ -2494,7 +2548,7 @@ Cour, 3 décembre 1960, Pas. 18, p. 223
 
 2. Aucune forme spéciale n'est requise pour la régularité d'un acte international dûment approuvé par la loi.
 
-Cour (cass.), 21 décembre 1961, Pas. 18, p. 424, avec note F .W.
+Cour (cass.), 21 décembre 1961, Pas. 18, p. 424, avec note F.W.
 
 #### Procédure
 
@@ -2552,7 +2606,7 @@ Cour (cass.), 2 août 1895, Pas. 3, p. 572
 
 Cour, 3 juin 1927, Pas. 11, p. 350
 
-(Voir note F .W. sous Cour (cass.) 21 décembre 1961, Pas. 18, p. 435)
+(Voir note F.W. sous Cour (cass.) 21 décembre 1961, Pas. 18, p. 435)
 
 #### Suspension
 
@@ -2576,7 +2630,7 @@ Cour (cass.), 14 juillet 1954, Pas. 16, p. 151
 
 14. Habilitation - habilitation par règlement grand-ducal - exécution d'un traité - anti-constitutionnalité
 
-En vertu de l'article 37 alinéa 4 de la Constitution, le Grand-Duc est investi du pouvoir de faire les règlements et arrêtés nécessaires pour l'exécution des traités dans les formes qui règlent les mesures d'exécution des lois et avec les effets qui s'attachent à ces mesures. Le privilège d'exécution des traités - et des lois conféré par la Constitution au Grand-Duc constitue en même temps pour celui-ci une obligation dont il ne saurait se décharger sur un autre organe par voie de subdélégation. En particulier, un règlement grand-ducal ne peut confier des mesures supplémentaires d'exécution à un règlement ministériel ou à un arrêté ministériel.
+En vertu de l'article 37 alinéa 4 de la Constitution, le Grand-Duc est investi du pouvoir de faire les règlements et arrêtés nécessaires pour l'exécution des traités dans les formes qui règlent les mesures d'exécution des lois et avec les effets qui s'attachent à ces mesures. Le privilège d'exécution des traités - et des lois - conféré par la Constitution au Grand-Duc constitue en même temps pour celui-ci une obligation dont il ne saurait se décharger sur un autre organe par voie de subdélégation. En particulier, un règlement grand-ducal ne peut confier des mesures supplémentaires d'exécution à un règlement ministériel ou à un arrêté ministériel.
 
 TA 8-6-98 (9790)
 
@@ -2626,11 +2680,11 @@ Conseil d'Etat, 21 novembre 1984, Pas. 26, p. 174
 
 ### Article 51
 
-- La fixation du nombre des députés doit se faire en considération de l'ensemble de la population et non d'après le nombre des seuls électeurs.
+1. La fixation du nombre des députés doit se faire en considération de l'ensemble de la population et non d'après le nombre des seuls électeurs.
 
 Conseil d'Etat, 15 juillet 1993, Pas. 26, p. 2
 
-- Organisation de la Chambre - Statut du personnel - règlement par voie législative (non) - règlement par voie interne - Article 51 alinéa 2
+2. Organisation de la Chambre - Statut du personnel - règlement par voie législative (non) - règlement par voie interne - Article 51 alinéa 2
 
 Si la Constitution prévoit certes en son article 51, alinéa 2, que l'organisation de la Chambre des Députés est réglée par la loi, force est cependant de constater que la Chambre, au vu des explications fournies en cause, a décidé, en dépit du libellé explicite du prédit article 51 de la Constitution, de ne pas régler la question du statut de son personnel par voie législative, et ce pour des raisons attribuées au principe de séparation des pouvoirs, alors pourtant qu'une telle question relève incontestablement d'une question d'organisation telle que prévue par le prédit article 51, alinéa 2 de la Constitution, mais plutôt par le biais d'une simple délibération de la Chambre revêtant la forme d'un règlement interne.
 
@@ -2810,7 +2864,7 @@ Conseil d'Etat, 24 février 1984, Pas. 26, p. 85
 
 La répartition des compétences entre les juridictions judiciaires et les juridictions administratives s'opère, non en fonction des sujets de droit - personnes privées ou autorités administratives - mais en fonction de l'objet du droit qui engendre une contestation portée devant le juge.
 
-TA  15-12-97  (10282); TA  4-6-03  (15706,  c.  18-11-03,  16634C); TA  14-1-04 (16327);TA  2-2-04  (16830);TA  19-2-04  (16516,  c.  24-2-05,  17817C);TA  3-3-04 (16978);TA  23-3-05  (18336);TA  23-3-06  (19888);TA  19-11-07  (22612,  c.  26-608, 23838C); TA 4-5-09 (24516); TA 18-3-10 (25931, c. 26852C), TA 16-02-21012 (27931)
+TA 15-12-97 (10282); TA 4-6-03 (15706, c. 18-11-03, 16634C); TA 14-1-04 (16327);TA 2-2-04 (16830);TA 19-2-04 (16516, c. 24-2-05, 17817C);TA 3-3-04 (16978);TA 23-3-05 (18336);TA 23-3-06 (19888);TA 19-11-07 (22612, c. 26-6-08, 23838C); TA 4-5-09 (24516); TA 18-3-10 (25931, c. 26852C), TA 16-02-21012 (27931)
 
 11. Compétence respective des juridictions judiciaires et des juridictions administratives  -  taxation  des  honoraires  d'un  avocat  -  droit  civil  -  incompétence  du tribunal administratif - Constitution, art. 84
 
@@ -2818,13 +2872,13 @@ Malgré  le  fait  que  le  Conseil  de  l'Ordre  des  avocats  du  barreau  se 
 
 TA 23-3-06 (19888)
 
-12. Compétence respective des juridictions judiciaires et des juridictions administratives - attribution de quotas laitiers - contentieux de nature administrative Const., art. 84 et 95 bis, (1)
+12. Compétence respective des juridictions judiciaires et des juridictions administratives - attribution de quotas laitiers - contentieux de nature administrative - Const., art. 84 et 95 bis, (1)
 
 S'il  est  vrai  que la décision ministérielle d'attribuer des quotas laitiers a des effets patrimoniaux, elle n'a pas pour objet un droit subjectif d'ordre privé régi par les  règles  du  droit  civil.  En  revanche,  émanant  d'une  personne  morale  de  droit public  ayant  agi  en  vertu  de  ses  prérogatives  de  puissance  publique  face  aux besoins d'intérêt public, une telle décision engendre, entre les parties au litige, un contentieux de nature administrative.
 
 TA  18-2-98  (9600);  TA  7-6-99  (10790,  confirmé  par  arrêt  du  23-3-2000, 11356C); TA 7-6-99 (10911, confirmé par arrêt du 23-3-2000, 11383C); TA 14-2-01 (12048, confirmé par arrêt du 8-11-01, 13115C)
 
-13. Non-respect d'un contrat - théorie des actes détachables - domaine d'application - refus de contracter au sujet de droits patrimoniaux relatifs au domaine privé d'une commune - non-application de la théorie La théorie des actes détachables qui veut que, par exception aux règles de compétence fixées par les articles 84 et 95 bis de la Constitution, la juridiction administrative reste compétente pour connaître de la régularité d'un acte de nature administrative intervenant comme préalable au support nécessaire à la réalisation d'un rapport de droit privé, est sans application au cas où l'acte attaqué ne constitue pas un acte administratif, c'est-à-dire un acte posé dans le cadre de l'exercice de la puissance publique et qu'il n'est pas attaqué en ce qui concerne sa régularité formelle et juridique, mais seulement en ce qui concerne sa finalité. S'il s'agit au contraire d'un acte qui, même s'il a été posé par une autorité de droit public, soit un conseil communal, compétent pour disposer des droits immobiliers de la commune, est de nature purement civile, en ce qu'il documente le refus de la commune de s'engager conventionnellement sur une question de droit patrimonial relative à son domaine privé, la théorie est sans application.
+13. Non-respect d'un contrat - théorie des actes détachables - domaine d'application - refus de contracter au sujet de droits patrimoniaux relatifs au domaine privé d'une commune - non-application de la théorie
 
 Ministère d'État  -  Service central de législation  -  2016
 
@@ -2835,6 +2889,8 @@ Ministère d'État  -  Service central de législation  -  2016
 C ONSTITUTION
 
 37
+
+La théorie des actes détachables qui veut que, par exception aux règles de compétence fixées par les articles 84 et 95 bis de la Constitution, la juridiction administrative reste compétente pour connaître de la régularité d'un acte de nature administrative intervenant comme préalable au support nécessaire à la réalisation d'un rapport de droit privé, est sans application au cas où l'acte attaqué ne constitue pas un acte administratif, c'est-à-dire un acte posé dans le cadre de l'exercice de la puissance publique et qu'il n'est pas attaqué en ce qui concerne sa régularité formelle et juridique, mais seulement en ce qui concerne sa finalité. S'il s'agit au contraire d'un acte qui, même s'il a été posé par une autorité de droit public, soit un conseil communal, compétent pour disposer des droits immobiliers de la commune, est de nature purement civile, en ce qu'il documente le refus de la commune de s'engager conventionnellement sur une question de droit patrimonial relative à son domaine privé, la théorie est sans application.
 
 CA 12-3-98 (10497C1); TA 23-11-98 (10829); TA 1-3-99 (107472); TA 10-11-08 (23139)
 
@@ -2850,7 +2906,7 @@ Le tribunal administratif, en vertu de l'article 84 de la Constitution, n'est pa
 
 TA 19-2-09 (22914a)
 
-Dans le même sens, concernant la demande en exécution forcée voir TA 313-04 (15104 et 15502)
+Dans le même sens, concernant la demande en exécution forcée voir TA 31-3-04 (15104 et 15502)
 
 16. Marché public - nullité de la décision administrative servant de base au contrat - compétence du juge judiciaire
 
@@ -2898,7 +2954,7 @@ Dans le même sens, TA 15-1-01 (11996, c. 12-6-01, 12968C)
 
 21. Employé au service de l'Etat - employé privé - incompétence des juridictions administratives
 
-Au niveau de la compétence du tribunal administratif, eu égard aux exigences des articles 84 et 95bis de la Constitution, il convient de distinguer, d'une part, les employés de l'Etat, faisant partie de l'ensemble des employés publics et, d'autre part, les employés au service de l'Etat, qui ne remplissent pas toutes les conditions pour accéder au régime de l'employé de l'Etat et qui sont dès lors à qualifier d'employés privés. Si à travers l'article 11 (1) de la loi modifiée du 27 janvier 1972, le  tribunal  administratif  a  compétence  en  matière  d'employés  de  l'Etat,  ce  sont les juridictions judiciaires et plus particulièrement les tribunaux du travail qui sont compétents en matière d'employés privés, encore que leur employeur soit l'Etat.
+Au niveau de la compétence du tribunal administratif, eu égard aux exigences des articles 84 et 95bis de la Constitution, il convient de distinguer, d'une part, les employés de l'Etat, faisant partie de l'ensemble des employés publics et, d'autre part, les employés au service de l'Etat, qui ne remplissent pas toutes les conditions pour accéder au régime de l'employé de l'Etat et qui sont dès lors à qualifier d'employés privés. Si à travers l'article 11 (1) de la loi modifiée du 27 janvier 1972, le tribunal administratif a compétence en matière d'employés de l'Etat, ce sont
 
 > 3 Ibidem., n° 47, p. 29.
 
@@ -2915,6 +2971,8 @@ Ministère d'État  -  Service central de législation  -  2016
 38
 
 C ONSTITUTION
+
+les juridictions judiciaires et plus particulièrement les tribunaux du travail qui sont compétents en matière d'employés privés, encore que leur employeur soit l'Etat.
 
 TA 14-7-04 (17633); TA 14-7-04 (17637)
 
@@ -2938,7 +2996,7 @@ TA 11-3-02 (13366)
 
 #### Action en dommages-intérêts dirigée contre l'Etat
 
-25. Les tribunaux sont compétents pour connaître d'une action en dommagesintérêts dirigée contre l'Etat à raison d'un fait dommageable causé en-dehors de la sphère de son impérium, c'est-à-dire ne résultant pas d'une mesure qu'il a ordonnée mais de la manière fautive dont la mesure a été exécutée par ses agents.
+25. Les tribunaux sont compétents pour connaître d'une action en dommages-intérêts dirigée contre l'Etat à raison d'un fait dommageable causé en-dehors de la sphère de son impérium, c'est-à-dire ne résultant pas d'une mesure qu'il a ordonnée mais de la manière fautive dont la mesure a été exécutée par ses agents.
 
 Trib. Lux., 28 mai 1924, Pas. 12, p. 360
 
@@ -3442,7 +3500,7 @@ TA 12-6-02 (13063)
 
 ### Article 95ter
 
-#### Constitution - Conflit entre deux dispositions constitutionnelles Compétence du juge administratif
+#### Constitution - Conflit entre deux dispositions constitutionnelles - Compétence du juge administratif
 
 1. Constitution - conflit entre deux dispositions constitutionnelles - compétence du juge administratif - Const., art. 95ter
 
@@ -3474,7 +3532,7 @@ CA 13.02.2007, (21763C et 21768C)
 
 A défaut de disposition normative afférente, la Cour Constitutionnelle n'est pas habilitée à substituer une autre règle constitutionnelle à celle précisée par la juridiction de renvoi.
 
-Cour constitutionnelle, Arrêt 37/06 du 17 novembre 2006 (rectifié), Mém. A 220 du 20 décembre 2006, p. 3784
+Cour constitutionnelle, Arrêt 37/06 du 17 novembre 2006 (rectifié), Mém. A - 220 du 20 décembre 2006, p. 3784
 
 #### Cour constitutionnelle - Procédure - Intervention volontaire (rejet) - Const, art. 95ter alinéa 2
 
@@ -3492,7 +3550,7 @@ TA 13-5-02 (14245)
 
 6. La Cour Constitutionnelle est saisie pour toute juridiction des questions de conformité préjudicielles visées à l'article 95(ter) 2e alinéa, y compris les juridictions disciplinaires instituées par la loi sur la profession d'avocat.
 
-Cour Constitutionnelle, Arrêts 23/04 et 24/04 du 3 décembre 2004, Mém. A 201 du 23 décembre 2004
+Cour Constitutionnelle, Arrêts 23/04 et 24/04 du 3 décembre 2004, Mém. A - 201 du 23 décembre 2004
 
 ### Article 99
 
@@ -3584,7 +3642,7 @@ TA 24-5-06 (20864)
 
 La décision ministérielle refusant de procéder dans le cadre de l'exécution ordinaire du budget à l'ordonnancement de la dépense, encore que relevant du cadre de l'exécution du budget et de la comptabilité de l'Etat, doit être considérée comme revêtant le caractère de décision administrative individuelle faisant néanmoins grief et, plus particulièrement, comme un acte détachable de la procédure d'exécution du budget des dépenses diligentée sur base de l'article 19 de la loi du 8 juin 1999 sur  le  budget,  la  comptabilité  et  la  trésorerie  de  l'Etat,  s'agissant  en  particulier d'un acte ayant directement des effets sur un administré, et non pas indirectement à l'instar des autres actes budgétaires. - Une telle décision relève dès lors de la juridiction administrative, de sorte que le tribunal administratif est compétent pour connaître d'une décision de refus de procéder à l'ordonnancement d'une dépense
 
-TA 24-1-11 (27022 et 27023) 1
+TA 24-1-11 (27022 et 27023)¹
 
 ### Article 106
 
@@ -3662,37 +3720,37 @@ CA 30-11-2010, (27242C et 27241C)
 
 8.  26  mars  2001  -  règlement  général  de  police  de  la Ville  de  Luxembourg (RGP), art. 48 - compétence du conseil communal - texte d'interprétation stricte - Const., art. 11(4) et 107
 
-Les dispositions du règlement général de police de la ville de Luxembourg, en tant que dispositions respectivement pénales et de réglementation de police, sont d'interprétation stricte et ne permettent notamment pas des extensions TA 8-10-01 (13445, confirmé par arrêt du 7-5-02, 14197C) - La prostitution s'analyse en une activité habituelle qui consiste, pour toute personne (homme ou femme), à s'offrir en vue d'une activité sexuelle (également homosexuelle) à n'importe quelle autre personne prête à la rétribuer d'une façon quelconque et qui ne constitue pas en elle-même une infraction pénale. D'après son libellé l'article 48 RGP ne vise pas la prostitution en elle-même, mais le fait d'une personne de s'exposer sur la voie publique en vue de la prostitution. L 'article en question réglemente dès lors un préalable à l'activité rétribuée de la prostitution, le fait de s'exposer n'étant point rémunéré en tant que tel. Il se dégage de la répartition des champs d'application des articles 11 (4) et 107 de la Constitution que le conseil communal est compétent pour arrêter des mesures dictées par les exigences de sécurité, de salubrité et de tranquillité publiques ainsi que de commodité des usagers de la voie publique relativement au fait pour une personne de s'exposer sur la voie publique en vue de  la  prostitution,  élément  préalable  à  l'activité  rétribuée  qu'elle  est  destinée  à engendrer .
+Les dispositions du règlement général de police de la ville de Luxembourg, en tant que dispositions respectivement pénales et de réglementation de police, sont d'interprétation stricte et ne permettent notamment pas des extensions - TA 8-10-01 (13445, confirmé par arrêt du 7-5-02, 14197C) - La prostitution s'analyse en une activité habituelle qui consiste, pour toute personne (homme ou femme), à s'offrir en vue d'une activité sexuelle (également homosexuelle) à n'importe quelle autre personne prête à la rétribuer d'une façon quelconque et qui ne constitue pas en elle-même une infraction pénale. D'après son libellé l'article 48 RGP ne vise pas la prostitution en elle-même, mais le fait d'une personne de s'exposer sur la voie publique en vue de la prostitution. L'article en question réglemente dès lors un préalable à l'activité rétribuée de la prostitution, le fait de s'exposer n'étant point rémunéré en tant que tel. Il se dégage de la répartition des champs d'application des articles 11 (4) et 107 de la Constitution que le conseil communal est compétent pour arrêter des mesures dictées par les exigences de sécurité, de salubrité et de tranquillité publiques ainsi que de commodité des usagers de la voie publique relativement au fait pour une personne de s'exposer sur la voie publique en vue de la prostitution, élément préalable à l'activité rétribuée qu'elle est destinée à engendrer .
 
 TA 8-10-01 (13445, confirmé par arrêt du 7-5-02, 14197C)
 
 9. Autonomie communale en matière d'urbanisme - droit d'appréciation - rôle du ministre
 
-En matière d'urbanisme, une commune bénéficie d'un droit d'appréciation très étendu en vertu du principe de l'autonomie communale inscrit à l'article 107 de la Constitution. Il n'en va pas de même du ministre, qui doit se limiter en tant qu'autorité de tutelle à veiller à ce que les décisions de l'autorité communale ne violent aucune règle de droit et ne heurtent pas l'intérêt général, étant donné que la tutelle n'autorise pas l'autorité supérieure à s'immiscer dans la gestion du service décentralisé et à substituer sa propre décision à celle des agents du service.TA 09-072007 (22242) -  Ainsi, le ministre est tenu, en sa qualité d'autorité de tutelle, de vérifier le respect des procédures légales par les autorités soumises à son contrôle. En conséquence, un éventuel non-respect des procédures légales dégagé au niveau des autorités communales est de nature à affecter la validité de la décision ministérielle déférée et le tribunal est tenu d'examiner ce moyen dans cette mesure.
+En matière d'urbanisme, une commune bénéficie d'un droit d'appréciation très étendu en vertu du principe de l'autonomie communale inscrit à l'article 107 de la Constitution. Il n'en va pas de même du ministre, qui doit se limiter en tant qu'autorité de tutelle à veiller à ce que les décisions de l'autorité communale ne violent aucune règle de droit et ne heurtent pas l'intérêt général, étant donné que la tutelle n'autorise pas l'autorité supérieure à s'immiscer dans la gestion du service décentralisé et à substituer sa propre décision à celle des agents du service.- TA 09-07-2007 (22242) - Ainsi, le ministre est tenu, en sa qualité d'autorité de tutelle, de vérifier le respect des procédures légales par les autorités soumises à son contrôle. En conséquence, un éventuel non-respect des procédures légales dégagé au niveau des autorités communales est de nature à affecter la validité de la décision ministérielle déférée et le tribunal est tenu d'examiner ce moyen dans cette mesure.
 
 TA 22-08-2007 (21118, c. par CA 04-05-208, 23473C), TA 18-07-2011 (27491), TA 03-11-2011 (27518), TA 03-11-2011 (27519) ), TA 03-11-2011 (22229a)
 
 ### Article 108bis
 
-- Etablissement public-Pouvoir de prendre des règlements dans la limite de sa spécialité-Constitution, 108bis
+1. Etablissement public-Pouvoir de prendre des règlements dans la limite de sa spécialité-Constitution, 108bis
 
 Si  avant  la  modification  de  la  Constitution  opérée  par  la  révision  du  19  novembre 2004 aucune disposition constitutionnelle ne permettait à la loi de conférer à un établissement public le pouvoir de prendre des règlements, cette situation a changé depuis lors. A travers l'article 108bis de la Constitution, la loi peut créer des établissements publics et leur accorder, dans la limite de leur spécialité, le pouvoir de prendre des règlements suivant les modalités y prévues. il n'a pas été établi en cause qu'une loi soit venue conférer à l'établissement public Fonds d'urbanisation et d'aménagement du plateau de Kirchberg le pouvoir de prendre des règlements dans la limite de sa spécialité.
 
 CA 03-11-2010 (25843C)
 
-- Pouvoir règlementaire des établissements publics - notion
+2. Pouvoir règlementaire des établissements publics - notion
 
 S'il est vrai que la possibilité a été prévue par l'article 108bis d'accorder un certain pouvoir réglementaire à des établissements publics, sur base de dispositions législatives  afférentes,  il  ne  ressort  de  manière  expresse  ni  desdits  avis  essentiellement du Conseil d'Etat et de la commission des institutions et de la révision constitutionnelle ni du texte même dudit article 108bis ou d'une autre disposition de droit constitutionnel que le constituant a prévu ou entendu prévoir la possibilité d'accorder  aux  établissements  publics  la  possibilité  de  prendre  des  règlements d'application générale en matière d'exécution des lois. Il ressort au contraire tant de la position du Conseil d'Etat que du rapport de la commission des institutions et de la révision constitutionnelle que l'exercice du pouvoir réglementaire devait être strictement réglementé et qu'il ne pourra être exercé que par le Grand-Duc ou par des membres de son gouvernement dans des cas que le Grand-Duc a déterminé, cette disposition de droit constitutionnel figurant actuellement à l'article 76, alinéa 2 de la Constitution. L 'intention du constituant n'était partant pas de conférer un quelconque pouvoir réglementaire à des établissements publics désignés par la loi pour prendre des mesures générales d'application des lois. S'il est vrai que le nouvel article 108bis a prévu la possibilité d'accorder à des établissements publics le pouvoir de prendre des règlements, cette notion de règlement vise partant nécessairement toute autre catégorie de mesures d'ordre général à l'exception de celles nécessaires en vue de l'exécution des lois.
 
-TA  16-04-2012  (27663),  TA  16-04-2012  (27664),    TA  16-04-2012  (27665), TA  16-04-2012  (27667),  TA  16-04-2012  (27669),    TA  16-04-2012  (27670),  TA 16-04-2012  (27671),TA  16-04-2012  (27936),  TA  16-04-2012  (27937),TA  16-042012  (27938),TA  16-04-2012  (27939),  TA  16-04-2012  (27940),  TA  16-05-2012 (28107),TA 16-05-2012 (28200) ,TA 16-05-2012 (28201)
+TA 16-04-2012 (27663), TA 16-04-2012 (27664), TA 16-04-2012 (27665), TA 16-04-2012 (27667), TA 16-04-2012 (27669), TA 16-04-2012 (27670), TA 16-04-2012 (27671),TA 16-04-2012 (27936), TA 16-04-2012 (27937),TA 16-04-2012 (27938),TA 16-04-2012 (27939), TA 16-04-2012 (27940), TA 16-05-2012 (28107),TA 16-05-2012 (28200) ,TA 16-05-2012 (28201)
 
 ### Article 111
 
-- L 'étranger non admis à domicile au Luxembourg jouit néanmoins du bénéfice de l'article 111 de la Constitution, s'il a sa résidence réelle et durable au GrandDuché, avec fixation du centre de ses affaires.
+1. L'étranger non admis à domicile au Luxembourg jouit néanmoins du bénéfice de l'article 111 de la Constitution, s'il a sa résidence réelle et durable au Grand-Duché, avec fixation du centre de ses affaires.
 
 Cour, 30 janvier 1952, Pas. 15, p. 277
 
-- D'après le principe énoncé à l'article 111 de la Constitution, la protection accordée à tout commerçant pour veiller à la propriété de son nom et de sa firme s'étend  aussi  aux  personnes  étrangères,  tant  physiques  que  morales,  dont  les droits auraient été usurpés sur le territoire du Grand-Duché.
+2. D'après le principe énoncé à l'article 111 de la Constitution, la protection accordée à tout commerçant pour veiller à la propriété de son nom et de sa firme s'étend aussi aux personnes étrangères, tant physiques que morales, dont les droits auraient été usurpés sur le territoire du Grand-Duché.
 
 Cour, 21 juin 1912, Pas. 9, p. 81
 
@@ -3710,19 +3768,17 @@ Cour Constitutionnelle, Arrêts 29/06, 30/06, 31/06, 32/06 et 33/06 du 7 avril 2
 
 #### Principe général applicable à tous les actes de législation
 
-- De tous temps et dans toutes les législations il a toujours été de principe
-
-- immuable qu'aucune loi ne saurait être obligatoire sans promulgation préalable.
+1. De tous temps et dans toutes les législations il a toujours été de principe immuable qu'aucune loi ne saurait être obligatoire sans promulgation préalable.
 
 Cour, 9 mars 1901, Pas. 6, p. 297
 
-- Les  actes  de  législation,  quels  qu'ils  soient,  ne  sont  obligatoires  qu'à  la condition d'avoir été publiés sous la forme déterminée par la loi.
+2. Les actes de législation, quels qu'ils soient, ne sont obligatoires qu'à la condition d'avoir été publiés sous la forme déterminée par la loi.
 
 Spécialement, un arrêté gouvernemental, n'ayant fait l'objet d'aucune publication, est inopposable aux particuliers.
 
 Trib. Lux., 5 juillet 1961, Pas. 18, p. 410
 
-- Il se dégage de l'arrêté du Directoire exécutif du 7 pluviôse an V que l'article 18 du titre XXVII de l'ordonnance du 13 août 1669 portant règlement général pour les eaux et forêts n'a pas été publié au Luxembourg et ne peut dès lors recevoir application.
+3. Il se dégage de l'arrêté du Directoire exécutif du 7 pluviôse an V que l'article 18 du titre XXVII de l'ordonnance du 13 août 1669 portant règlement général pour les eaux et forêts n'a pas été publié au Luxembourg et ne peut dès lors recevoir application.
 
 Conseil d'Etat, 20 juillet 1978, Pas. 24, p. 183
 
