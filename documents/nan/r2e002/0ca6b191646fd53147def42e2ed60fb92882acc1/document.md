@@ -4,6 +4,8 @@ LegalActs
 
 Page 1 of 4
 
+THE NATIONAL LEGAL INTERNET PORTAL OF THE REPUBLIC OF BELARUS
+
 Legal Acts
 
 # On Child's Rights
@@ -34,7 +36,7 @@ Present Law determines the principles of state policy in relation to a child, hi
 
 ### Article 3. State Bodies and Other Organizations Providing the Protection of Rights and Legal Interests of a Child. The Coordination of Activities of State and Non-State Organizations in Implementation of Provisions of the Present Law
 
-Protection  of  the  rights  and  legal  interests  of  a  child  is  provided  by  the  commissions  for  juvenile  affairs,  bodies  of guardianship, public prosecutor's office and court, and by other organizations enabled by the legislation of the Republic of Belarus, which follow the priority of protection of child's rights and legal interests in their activity.
+Protection  of  the  rights  and  legal  interests  of  a  child  is  provided  by  the  commissions  for  juvenile  affairs,  bodies  of guardianship, public prosecutor’s office and court, and by other organizations enabled by the legislation of the Republic of Belarus, which follow the priority of protection of child's rights and legal interests in their activity.
 
 State bodies support the activity of public associations and other non-commercial organizations assisting to protection and realization of children's rights and legal interests.
 
@@ -70,9 +72,9 @@ Every  child  has  the  right  to  adequate  level  of  life  and  conditions  n
 
 Every child has the right to protect his own personality from any type of exploitation and violence.
 
-The  state  provides  inviolability  of  child's  personality,  realizes  its  protection  from  all  types  of  exploitation  including sexual, from physical and (or) psychical violence, cruel or offensive treatment, disparage, sexual harassment including such treatment from parents (guardians) and relatives, from engaging into criminal activity, junction to alcoholic drinks, nonmedical use of narcotic, toxic, psychotherapy and other drastic, intoxicating substances, compulsion for the prostitution, gambling and making actions connected with making materials or goods of pornographic character, and also from engaging of a child in activities that may cause harm to his/her physical, mental or moral development.
+The  state  provides  inviolability  of  child's  personality,  realizes  its  protection  from  all  types  of  exploitation  including sexual, from physical and (or) psychical violence, cruel or offensive treatment, disparage, sexual harassment including such treatment from parents (guardians) and relatives, from engaging into criminal activity, junction to alcoholic drinks, non-medical use of narcotic, toxic, psychotherapy and other drastic, intoxicating substances, compulsion for the prostitution, gambling and making actions connected with making materials or goods of pornographic character, and also from engaging of a child in activities that may cause harm to his/her physical, mental or moral development.
 
-23/06/2010 http://www.law.by/work/EnglPortal.nsf/6e1a652fbefce34ac2256d910056d559/66e8ec...
+http://www.law.by/work/EnglPortal.nsf/6e1a652fbefce34ac2256d910056d559/66e8ec... 23/06/2010
 
 [[END OF PAGE 1]]
 
@@ -158,7 +160,7 @@ For the purpose of full support and upbringing of the child in the family the st
 
 ## Section 3. A Child and Society.
 
-23/06/2010 http://www.law.by/work/EnglPortal.nsf/6e1a652fbefce34ac2256d910056d559/66e8ec...
+http://www.law.by/work/EnglPortal.nsf/6e1a652fbefce34ac2256d910056d559/66e8ec... 23/06/2010
 
 [[END OF PAGE 2]]
 
@@ -200,7 +202,7 @@ The activities, directed to worsening or cutting down the material recourses, wh
 
 The state creates favorable conditions for free and efficient participation of youth in the political, social, economic and cultural development.
 
-Children  have  the  right  to  establish  children's  and  youth  public  associations  provided  that  such  associations  do  not purport to change forcibly the constitutional order or be engaged in propaganda of war, social, national, religious and racial hostility.
+Children  have  the  right  to  establish  children’s  and  youth  public  associations  provided  that  such  associations  do  not purport to change forcibly the constitutional order or be engaged in propaganda of war, social, national, religious and racial hostility.
 
 The state renders support to children's and youth public associations in accordance with the legislation of the Republic of Belarus.
 
@@ -212,7 +214,7 @@ The discipline and order in the educational establishments are kept by the metho
 
 Infringement of child's honor and dignity from the persons obliged to realize educational and pedagogic functions cause the responsibility established by the legislative acts of the Republic of Belarus.
 
-Persons  previously  having  committed  crimes  against  sexual  inviolability  or  sexual  freedom,  crimes  provided  by  the articles  172,  173,  181,  181.1,  343,  343.1  of  the  Criminal  Code  of  the  Republic  of  Belarus  can't  hold  the  positions, connected with realizing educational and pedagogic functions in relation to children and also other positions connected with constant work with children.
+Persons  previously  having  committed  crimes  against  sexual  inviolability  or  sexual  freedom,  crimes  provided  by  the articles  172,  173,  181,  181.1,  343,  343.1  of  the  Criminal  Code  of  the  Republic  of  Belarus  can’t  hold  the  positions, connected with realizing educational and pedagogic functions in relation to children and also other positions connected with constant work with children.
 
 ### Article 28. Right to Protection from Illegal Interference to Private Life, Infringement of Correspondence Privacy
 
@@ -226,13 +228,13 @@ Orphans  and  children  left  without  parents  care  have  the  right  on  the 
 
 Bodies of guardianship, other organizations enabled to protect the rights and legal interests of children by the legislation of the Republic of Belarus shall take all measures to adopt orphans and children left without parents care into a family for upbringing. Children shall be predominantly adopted with consideration of their interest into the families of the relatives of children  or  into  the  families  of  citizens  of  the  Republic  of  Belarus  having  permanent  residence  on  the  territory  of  the Republic of Belarus.
 
-In  the  order  established  by  the  legislation  of  the  Republic  of  Belarus  the  adoption  of  the  orphans  and  children  left without  parents'  care  who  are  the  citizens  of  the  Republic  of  Belarus,  placing  under  the  guardianship  of  orphans  and children left without parents' care - citizens of the Republic of Belarus is allowed by the citizens of the Republic of Belarus having permanent residence on the territory of a foreign state, by foreign citizens and persons without citizenship. In this case children reserve the right on citizenship, property, housing, other personal non-property rights and property rights in accordance with the legislation of the Republic of Belarus.
+In  the  order  established  by  the  legislation  of  the  Republic  of  Belarus  the  adoption  of  the  orphans  and  children  left without  parents’  care  who  are  the  citizens  of  the  Republic  of  Belarus,  placing  under  the  guardianship  of  orphans  and children left without parents’ care – citizens of the Republic of Belarus is allowed by the citizens of the Republic of Belarus having permanent residence on the territory of a foreign state, by foreign citizens and persons without citizenship. In this case children reserve the right on citizenship, property, housing, other personal non-property rights and property rights in accordance with the legislation of the Republic of Belarus.
 
-If orphans and children left without parents' care cannot be adopted into a family, they shall be settled in child boarding schools, state specialized establishments for juveniles needed social care and rehabilitation, state establishments providing professional technical, specialized secondary, higher education, children's villages (towns).
+If orphans and children left without parents’ care cannot be adopted into a family, they shall be settled in child boarding schools, state specialized establishments for juveniles needed social care and rehabilitation, state establishments providing professional technical, specialized secondary, higher education, children’s villages (towns).
 
-For the purpose of good physical, intellectual and moral development, preparation for independent life of orphans and children  left  without  parents'  care  supported  by  the  state  and  settled  in  child  boarding  schools,  state  specialized establishments  for  juveniles  needed  social  care  and  rehabilitation,  state  establishments  providing  professional  technical, specialized secondary, higher education, family-type orphanages, child villages (towns), guardians families, foster homes favorable conditions are created close to those like in family, their native language, culture, national customs and traditions are kept.
+For the purpose of good physical, intellectual and moral development, preparation for independent life of orphans and children  left  without  parents’  care  supported  by  the  state  and  settled  in  child  boarding  schools,  state  specialized establishments  for  juveniles  needed  social  care  and  rehabilitation,  state  establishments  providing  professional  technical, specialized secondary, higher education, family-type orphanages, child villages (towns), guardians families, foster homes favorable conditions are created close to those like in family, their native language, culture, national customs and traditions
 
-23/06/2010 http://www.law.by/work/EnglPortal.nsf/6e1a652fbefce34ac2256d910056d559/66e8ec...
+http://www.law.by/work/EnglPortal.nsf/6e1a652fbefce34ac2256d910056d559/66e8ec... 23/06/2010
 
 [[END OF PAGE 3]]
 
@@ -242,6 +244,8 @@ LegalActs
 
 Page 4 of 4
 
+are kept.
+
 ### Article 30. Withdrawn
 
 ### Article 31. The Rights of Invalid Children and Children with the Peculiarities of Psychophysical Development
@@ -250,7 +254,7 @@ The state guarantees free special medical, defectological and psychological help
 
 ### Article 32. Protection of Children in Emergence Situations
 
-In  the  emergency  situations  the  state  provides  children  with  urgent  medical  help,  takes  measures  on  protection  of children's lives, health and property, including measures on their family reunification, evacuation form the state (place) of their stay.
+In  the  emergency  situations  the  state  provides  children  with  urgent  medical  help,  takes  measures  on  protection  of children’s lives, health and property, including measures on their family reunification, evacuation form the state (place) of their stay.
 
 ### Article 33. Prohibition of Children's Participation in Military Operations
 
@@ -272,7 +276,7 @@ Direction of the child to the special educational establishment or medical educa
 
 The  child  being  in  special  educational  or  medical  educational  establishment  has  the  right  on  humane  treatment, protection of health, getting general basic, general secondary and professional and technical education, meetings with the parents, relatives and other persons, vacation and correspondence.
 
-Obligatory  purpose  of  keeping  of  children  in  special  educational  or  medical  educational  establishments  is  the  reeducation and return them to normal conditions of life and work.
+Obligatory  purpose  of  keeping  of  children  in  special  educational  or  medical  educational  establishments  is  the  re-education and return them to normal conditions of life and work.
 
 ### Article 37. Protection of the Child from Forced Transfer
 
@@ -304,6 +308,6 @@ Tel/fax: 375-17-2227064; e-mail: Foreign.affairs@ncpi.gov.by
 
 Site's design: "Art-Mission"
 
-23/06/2010 http://www.law.by/work/EnglPortal.nsf/6e1a652fbefce34ac2256d910056d559/66e8ec...
+http://www.law.by/work/EnglPortal.nsf/6e1a652fbefce34ac2256d910056d559/66e8ec... 23/06/2010
 
 [[END OF PAGE 4]]
