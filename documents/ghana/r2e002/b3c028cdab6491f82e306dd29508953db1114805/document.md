@@ -1,6 +1,10 @@
 [[START OF PAGE 1]]
 
+GOVERNMENT OF GHANA
+
 # INCLUSIVE EDUCATION POLICY
+
+Ministry of Education
 
 i
 
@@ -11,8 +15,6 @@ i
 This Policy has been developed by the Government of Ghana - Ministry of Education, supported by UNICEF, STAR Ghana and Ghana Blind Union.
 
 Design: Art Excel GH · Cover Photo: © UNICEF/GHANA 2013/SANDRINE BOHAN-JACQUOT
-
-INCLUSIVE EDUCATION POLICY
 
 # INCLUSIVE EDUCATION POLICY
 
@@ -140,7 +142,7 @@ SPIP
 
 School Performance Improvement Plan
 
-TVIs            T echnical and Vocational Institutions
+TVIs            Technical and Vocational Institutions
 
 UDL
 
@@ -169,6 +171,44 @@ INCLUSIVE EDUCATION POLICY
 INCLUSIVE EDUCATION POLICY
 
 # TABLE OF CONTENTS
+
+ACRONYMS iV
+FOREWORD Viii
+1.0 INTRODUCTION 1
+1.1 Country Context 1
+1.2 The Policy and Governance Context 3
+1.3 The Policy Development Process 3
+2.0 POLICY GOAL 3
+2.1 Inclusion 4
+2.2 Special Educational Needs 4
+2.3 Learner Diversity 4
+3.0 GUIDING PRINCIPLES 5
+4.0 OBJECTIVES AND STRATEGIES 5
+4.1 Policy Objective 1 5
+4.2 Policy Objective 2 6
+4.3 Policy Objective 3 7
+4.4 Policy Objective 4 9
+5.0 INSTITUTIONAL FRAMEWORK 9
+5.1 Stakeholders’ Roles & Responsibilities 9
+5.1.1 Ministries, Departments and Agencies 10
+5.1.2 Metropolitan, Municipal and District Assemblies 18
+5.1.3 PTAs/School Management Committees 18
+5.1.4 Non Governmental Organisations / Philanthropists 19
+5.1.5 Traditional Authorities 19
+5.1.6 Development Partners 20
+5.1.7 Private Sector 20
+6.0 MONITORING AND EVALUATION 20
+6.1 Central Level Monitoring 21
+6.2 Regional and District Level Monitoring 21
+6.3 School Level Monitoring 21
+6.4 Community Level Monitoring 21
+6.5 Data Collection and Research 22
+7.0 FINANCING 22
+8.0 REVIEW OF THE POLICY 22
+Annex 1: Glossary of Terms (Interpretation and Definitions) 23
+Annex 2: Glossary of Conceptual Frameworks for the IE Policy 25
+Annex 3: National and International Policies Underpinning the IE Policy 27
+Annex 4: Monitoring Checklist of the Inclusion of Students with SEN 30
 
 vi
 
@@ -200,21 +240,19 @@ Prof. Naana Jane Opoku Agyemang Minister for Education, 2015
 
 # 0.1 INTRODUCTION
 
-Education in Ghana is a right for all citizens.  The  Inclusive  Education (IE)  Policy  is  based  on  the  value system which holds that all persons who attend an educational institution are entitled to equitable access  to quality teaching  and learning and which transcends the  idea  of  physical  location  but incorporates the basic values that promote participation, friendship and interaction 1 .
+Education in Ghana is a right for all citizens. The Inclusive Education (IE) Policy is based on the value system which holds that all persons who attend an educational institution are entitled to equitable access to quality teaching and learning and which transcends the idea of physical location but incorporates the basic values that promote participation, friendship and interaction¹.
 
-This  policy  recognizes  the  varied learning  needs  of  learners  and requires  all  stakeholders  in  the education  sector  to  address  the diverse needs of different groups of citizens in the Ghanaian education system under the universal design for  learning  and  within  a  learner friendly environment for all.
+This policy recognizes the varied learning needs of learners and requires all stakeholders in the education sector to address the diverse needs of different groups of citizens in the Ghanaian education system under the universal design for learning and within a learner friendly environment for all.
 
 ## 1.1  Country Context
 
-Since Ghana's independence, successive governments in Ghana have recognized the indispensable role which education plays in the country's socio-economic development.  Accordingly,  some measures have been and continue to be taken to expand education at all  levels.  The  evolution  of  education in Ghana since its beginnings in the nineteenth  century  has  involved all  levels  of  education  from  preschool, primary, middle (now junior high), secondary, and teacher
+Since Ghana’s independence, successive governments in Ghana have recognized the indispensable role which education plays in the country’s socio-economic development. Accordingly, some measures have been and continue to be taken to expand education at all levels. The evolution of education in Ghana since its beginnings in the nineteenth century has involved all levels of education from pre-school, primary, middle (now junior high), secondary, and teacher training to tertiary. In 1951, a policy called Accelerated Development Plan was introduced. This Plan affected education in many ways, for example, it brought a rapid increase in enrollment in primary schools; emergency teacher training was introduced; and a large number of pupil teachers were appointed. Facilities for middle, secondary and technical schools were greatly increased. Such educational provisions continued until Ghana achieved independence in 1957. This means that prior to independence; a strong foundation had been laid for education.
 
-1 Act 778, Section 5: Ghana Government, 2008 p.5
+The government realizing that education was important in national development introduced another policy, the Education Act of 1961. This Act made primary and middle schools free and compulsory for all children. This new directive meant that all children of school-going age should be found places in school. The system therefore introduced some decentralization in the provision of education.
 
-training to tertiary. In 1951, a policy called  Accelerated  Development Plan  was  introduced.  This  Plan affected education in many ways, for  example,  it  brought  a  rapid increase  in  enrollment  in  primary schools; emergency teacher training was  introduced; and  a large  number  of  pupil  teachers were appointed. Facilities for middle,  secondary  and  technical schools  were  greatly  increased. Such educational provisions continued  until  Ghana  achieved independence in 1957. This means that prior to independence; a strong foundation had been laid for education.
+Later on, the 1992 Constitution of Ghana also required that basic education became free and compulsory for all Ghanaians of school going age by the year 2005. Although this policy was very laudable, it has not been possible for all Ghanaians of school-going age to have access to school as
 
-The government realizing that education was important in national development  introduced  another policy, the Education Act of 1961. This Act made primary and middle schools  free  and  compulsory  for all children. This new  directive meant  that  all  children  of  schoolgoing age should be found places in  school.  The  system  therefore introduced  some  decentralization in the provision of education.
-
-Later  on,  the  1992  Constitution of Ghana also required that basic education became free and compulsory  for  all  Ghanaians  of school going age by the year 2005. Although this policy was very laudable, it has not been possible for  all  Ghanaians  of  school-going age to have access to school as yet. Learners with disabilities who form a significant proportion of the  out-of-school  population  were not catered for. In order to realize the  goal of full  enrollment  and completion, education for learners with special needs should be considered  as  critical.  It  is  in  this light that the Ghana Government's Education Strategic Plan 2010-20 set  a  strategic  goal  for  that:    'To provide  education  for  those  with physical  and  mental  impairments, orphans, and those who are slow or fast learners, by including them, wherever possible, within the mainstream formal system or, only when considered necessary, within special units or schools'.
+¹Act 778, Section 5: Ghana Government, 2008 p.5
 
 viii
 
@@ -228,6 +266,8 @@ INCLUSIVE EDUCATION POLICY
 
 INCLUSIVE EDUCATION POLICY
 
+yet. Learners with disabilities who form a significant proportion of the out-of-school population were not catered for. In order to realize the goal of full enrollment and completion, education for learners with special needs should be considered as critical. It is in this light that the Ghana Government’s Education Strategic Plan 2010-20 set a strategic goal for that: “To provide education for those with physical and mental impairments, orphans, and those who are slow or fast learners, by including them, wherever possible, within the mainstream formal system or, only when considered necessary, within special units or schools”.
+
 The  Government  of  Ghana  has over the years emphasized the 'all inclusive' approach to education  using  various  policies to facilitate discussions by different stakeholders including educators,  parents,  learners,  Non Governmental Organisations, Faith Based Organisations, policy makers and disability organisations to  discuss  strategies  for  including all learners who  have  different abilities. Ensuring quality education to all through appropriate curricula, organizational arrangements, teaching strategies, resource use and in partnerships with their communities in our education system  to  achieving  the  quality learning  outcomes  and  improving the overall well-being of all learners, should be our goal.
 
 However,  many  of  the  strategies articulated  in  national  plans  have fallen  far  short  in  achieving  their objectives due to limited resources. Notwithstanding,  the  Government of Ghana through the Special Education  Division  of  GES  has implemented  Inclusive  Education on  pilot basis in three regions namely the Central, Greater Accra and Eastern Region. The pilot was based  on  best  practices  around the world.  By the end of 2011, the Government of Ghana through the Special Education Division of  Ghana  Education  Service  has implemented  Inclusive  Education on pilot programmes in 529 schools in  34  districts.  Activities  include sensitization  of  communities  and key government officials, screening of school children, training of teachers on identification of children  with  special  educational needs (SEN) including those with disability,  and  managing  children with disabilities in the classrooms. There was however a great need for a policy framework which looks  at  a  more  harmonized  and strategic approach to planning and (financial)  prioritization  to  roll  out these  activities  on  a  wider  scale and reach all learners with special educational needs in the country.
@@ -238,7 +278,7 @@ This  policy  draws  on  a  number of national and international commitments  to
 
 ## 1.3  The Policy Development Process
 
-The  process  of developing the policy recognised the multisectoral nature of education and so undertook to engage all  stakeholder  groups  in  public institutions, civil society, the private sector, and the community. National, Regional and District level consultative workshops were organised to allow stakeholders to participate  extensively  discussing and agreeing the strategic direction of Inclusive Education in  Ghana.  The  process  benefited immensely from international good practice including interactions with practitioners from other countries.
+The process of developing the policy recognised the multi-sectoral nature of education and so undertook to engage all stakeholder groups in public institutions, civil society, the private sector, and the community. National, Regional and District level consultative workshops were organised to allow stakeholders to participate extensively discussing and agreeing the strategic direction of Inclusive Education in Ghana. The process benefited immensely from international good practice including interactions with practitioners from other countries.
 
 The  process    also  gained    the support  and  committed  involvement of  the  political,  administrative  and traditional leaders.
 
@@ -272,8 +312,24 @@ The policy includes all children with special needs. For the purposes of this po
 
 The policy recognises different groups of learners with varied educational needs. These persons include but are not limited to:
 
-Persons with Intellectual Disability Street Children Gifted and Talented Persons Nomadic children (shepherd boys, fisher-folks' children and domestic child workers) Persons with Physical Disability Children exploited for financial purposes Persons with Specific Learning Disability Persons with Autism Children living with HIV/AIDS Persons with Attention Deficit Hyperactivity Disorder | Persons with Hearing Impairment Persons with Visual Impairment Persons with Deaf-Blindness Persons with Speech and Communication Disorders Persons with other health impairment and chronic diseases such as Rheumatism, Epilepsy, Asthma, Spina Bifida and Sickle Cell Anaemia Children displaced by Natural Catastrophes and Social Conflicts Persons with Multiple Disabilities. Persons with Emotional and Behaviour Disorder
---- | ---
+Persons with Intellectual Disability
+Street Children
+Gifted and Talented Persons
+Nomadic children (shepherd boys, fisher-folks’ children and domestic child workers)
+Persons with Physical Disability
+Children exploited for financial purposes
+Persons with Specific Learning Disability
+Persons with Autism
+Children living with HIV/AIDS
+Persons with Attention Deficit Hyperactivity Disorder
+Persons with Hearing Impairment
+Persons with Visual Impairment
+Persons with Deaf-Blindness
+Persons with Speech and Communication Disorders
+Persons with other health impairment and chronic diseases such as Rheumatism, Epilepsy, Asthma, Spina Bifida and Sickle Cell Anaemia
+Children displaced by Natural Catastrophes and Social Conflicts
+Persons with Multiple Disabilities.
+Persons with Emotional and Behaviour Disorder
 
 # 3.0 GUIDING PRINCIPLES
 
@@ -329,7 +385,7 @@ to  learners  with  SEN  and  are built  based  on  the  principles  of universa
 
 - Review and re-align the education management information system to reflect IE issues and provide disaggregated data on students from  marginalised  groups  that can  inform the planning  and provision  of  better  services  for marginalised groups.
 
-- Promote an inter-sectoral approach, to resolving cross cutting issues to facilitate linkage between educational institutions and social protection 2 ,  health  and  community-based rehabilitation  as  well  as  data collection.
+- Promote an inter-sectoral approach, to resolving cross cutting issues to facilitate linkage between educational institutions and social protection², health and community-based rehabilitation as well as data collection.
 
 - Mobilise adequate funding (national  budgets  and  requests for development assistance) for targeted excluded groups.
 
@@ -339,9 +395,7 @@ to  learners  with  SEN  and  are built  based  on  the  principles  of universa
 
 ## 4.2 Policy Objective 2
 
-Promote a UDL/learner friendly
-
-2 Capitation Grant, School Feeding and LEAP Programmes 3 Child Friendly School Concept school environment 3   for enhancing the quality of education for all learners.
+Promote a UDL/learner friendly school environment³ for enhancing the quality of education for all learners.
 
 ### Strategies
 
@@ -357,7 +411,10 @@ Promote a UDL/learner friendly
 
 - Ensure that the learning environment is free from discrimination, safe and friendly for all children within the school and that sanctions are in place for  those  who  transgress  this requirement.
 
-- Ensure  that  inclusive  schools are supported in their efforts by inclusive resource officers.
+- Ensure that inclusive schools are supported in their efforts by inclusive resource officers.
+
+² Capitation Grant, School Feeding and LEAP Programmes
+³ Child Friendly School Concept
 
 - Promote the deployment of special educational needs coordinators  to  all  schools  to coordinate  special  educational needs  activities within school reforms context and with clearly defined roles and responsibilities for support for children underpinning  that  provided  by the teacher her/himself.
 
@@ -367,15 +424,11 @@ Promote a UDL/learner friendly
 
 - Ensure early identification and stimulation of children with disabilities as well as coordinated guidance and counseling  services  and  other support  services  for  families  of children with disabilities.
 
-- Ensure that parents and communities are encouraged and supported in changing
-
-4 Social Protection Strategy & Briefing Notes on LEAP
-
-- attitudes that are detrimental to the well-being of learners from poor background, from minority,  linguistic,  religious  or ethnic groups, children with disabilities  and  others  who  are marginalised.
+- Ensure that parents and communities are encouraged and supported in changing attitudes that are detrimental to the well-being of learners from poor background, from minority, linguistic, religious or ethnic groups, children with disabilities and others who are marginalised.
 
 - Promote school health programmes as an intervention to increase health promotion and protection; encourage attendance and facilitate effective learning; and strengthen detection and referral pathways for those requiring additional care.
 
-- Expand,  improve  and  sustain the delivery of social protection 4 programmes such as the school feeding programme, free sandals,  uniforms  and  books, capitation  grant  and  the  cash transfer  programmes  to  attract the excluded, marginalised, early drop outs and all learners particularly those who are difficult to reach.
+- Expand, improve and sustain the delivery of social protection⁴ programmes such as the school feeding programme, free sandals, uniforms and books, capitation grant and the cash transfer programmes to attract the excluded, marginalised, early drop outs and all learners particularly those who are difficult to reach.
 
 ## 4.3   Policy Objective 3
 
@@ -383,7 +436,9 @@ Promote  the  development  of  a well-informed  and  trained  human resource cad
 
 ### Strategies
 
-- Ensure that all pre-service teacher training courses include training on inclusive education  to  enable  teachers
+- Ensure that all pre-service teacher training courses include training on inclusive education to enable teachers
+
+⁴ Social Protection Strategy & Briefing Notes on LEAP
 
 6
 
@@ -509,9 +564,7 @@ The  national  curricula  for  basic and second cycle institutions shall  be  re
 
 - Setting suitable learning targets.
 
-- Include a focus on diversity and its strengths and benefits in the
-
-- appropriate  subjects  and  /  or curriculum themes.
+- Include a focus on diversity and its strengths and benefits in the appropriate subjects and / or curriculum themes.
 
 - Responding to learners' diverse needs and ensuring accessibility  for  learners  with disabilities.
 
@@ -519,11 +572,11 @@ The  national  curricula  for  basic and second cycle institutions shall  be  re
 
 ##### 5.1.1.1b Training, Capacity Building and Professional Development
 
-For  the  purposes  of  the  policy, professional development is defined as covering teacher training  (both  pre-service  and  inservice),  continuous  professional development for  teachers  as  well as  orientation,  modular  courses for other educational personnel (head teachers, school support staff),  and  related  administrators at district and regional levels.
+For the purposes of the policy, professional development is defined as covering teacher training (both pre-service and in-service), continuous professional development for teachers as well as orientation, modular courses for other educational personnel (head teachers, school support staff), and related administrators at district and regional levels.
 
-- In relation to professional development under the policy, the following shall be pursued:
+In relation to professional development under the policy, the following shall be pursued:
 
-- Teachers shall be equipped with the pedagogical skills, adequate knowledge on educational policies to meet the needs  of  children  with  special educational needs using childcentred approaches.
+- Teachers shall be equipped with the pedagogical skills, adequate knowledge on educational policies to meet the needs of children with special educational needs using child-centred approaches.
 
 - The  curriculum  for  pre-service training  shall  be  re-aligned  to Inclusive  Education  Practices (Adoption of the Collaborative/
 
@@ -555,9 +608,7 @@ Co-operative Training Model).
 
 - All other school personnel and  relevant  administrators  at district,  regional  and  national levels  shall  be  oriented  in  IE approaches and behaviours.
 
-- All  communities  and  parents
-
-- shall  be  oriented    to  support and be mutually supportive  in their nurturing  of children with special needs.
+- All communities and parents shall be oriented to support and be mutually supportive in their nurturing of children with special needs.
 
 - All districts shall provide space for the establishment of  resource  and  assessment Centres for professional development.
 
@@ -633,9 +684,7 @@ Special schools have  important roles to play in the implementation of Inclusive
 
 - Special schools shall work hand-in-hand with regular schools to accommodate children  with  special  educational needs in inclusive settings. However, if it is proven through assessment  that  the  child  is incapable of benefiting from regular  classroom  attendance, or graduated classroom attendance,  the  child  shall  be placed in the special unit within the regular schools.
 
-- In order to maximize resources, every  special  school  shall  be connected  to  an  assessment centre with well trained personnel and equipment to
-
-- foster periodic assessment (including screening and diagnosis). This additional role will enhance early identification and  stimulation,  and  efficiency as well as make special schools more accessible to citizenry.
+- In order to maximize resources, every special school shall be connected to an assessment centre with well trained personnel and equipment to foster periodic assessment (including screening and diagnosis). This additional role will enhance early identification and stimulation, and efficiency as well as make special schools more accessible to citizenry.
 
 - Personnel from special schools shall be included in the District Inclusive Education Team (DIET) for the day to day monitoring  and  evaluation  of the  implementation  of  school reforms.
 
@@ -739,7 +788,7 @@ The  Ministry  of  Education  shall liaise  with  the  Ministry  of  Local Gover
 
 - Ensure  that  all  public  schools have environments that are accessible and learner-friendly.
 
-- Ensure that all public classroom environments  should  be  well organized,  equipped  with  ageappropriate furniture.
+- Ensure that all public classroom environments should be well organized, equipped with age-appropriate furniture.
 
 - Ensure  provision  of  requisite school infrastructure conducive to meet the needs of PWDs.
 
@@ -771,9 +820,7 @@ The  policy  recognises  the  critical roles  Metropolitan,  Municipal  and Dist
 
 - Allocating resources within the guidelines of the district assembly common fund (DACF) and the disability fund towards the  education  of  children  and adults with disabilities.
 
-- Act  as  focal  points  for  policy coordination  units  and  ensure
-
-the implementation of inclusive education at local levels.
+- Act as focal points for policy coordination units and ensure the implementation of inclusive education at local levels.
 
 - Provide  local  level  monitoring, evaluation and reviewing delivery in the context of the district medium term development plan.
 
@@ -811,9 +858,7 @@ The  NGO  sector  shall  contribute to the policy implementation in the followin
 
 - Offering Scholarships / supports to learners at the risk of exclusion.
 
-- Mobilise resources and advocate for increased funding
-
-for Inclusive Education.
+- Mobilise resources and advocate for increased funding for Inclusive Education.
 
 - Provision of assistive devices.
 
@@ -869,11 +914,7 @@ In implementing the IE policy, the Development Partners' community shall be enco
 
 Corporate Institutions, Philanthropic individuals and institutions shall be encouraged to support the implementation of the policy at the national, district, community and school level in the following areas:
 
-- Providing
-
-Scholarships/
-
-- supports to learners at the risk of exclusion.
+- Providing Scholarships/ supports to learners at the risk of exclusion.
 
 - Provision of basic screening materials and assistive devices.
 
@@ -887,7 +928,7 @@ Scholarships/
 
 The monitoring and evaluation component of the policy shall provide opportunity for strengthening for effective planning and support by the GES.
 
-- Monitoring and evaluation mechanisms  shall  be  considered in  all  IE  programmes  from  the onset to ensure  programme quality  and  sustainability  at  all levels. The implementation plan of  the  policy  shall  have  an  inbuilt results framework for easy monitoring.
+- Monitoring and evaluation mechanisms shall be considered in all IE programmes from the onset to ensure programme quality and sustainability at all levels. The implementation plan of the policy shall have an in-built results framework for easy monitoring.
 
 - Quarterly and annual reviews of delivery on inclusive education will provide a platform for addressing  the  issues  in  this policy  across  sector  such  as Health,  Social  Protection  and
 
@@ -918,7 +959,6 @@ The  current  monitoring  tools  namely the Inclusive Education Monitoring Tool,
 At the community level, communities shall be encouraged to form Inclusive Education Committees to monitor the level of school participation of parents and report during PTAs and, or SPAM, the composition of which shall be made up of persons from Women's Group, District Assemblies, Town/ Village Development Committees, Faith-Based Organizations (FBOs), NGOs, Teachers and Community Health Staff.
 
 ## 6.5 Data Collection and Research
-Inclusive Education practice will require an on-going data collection and research to ensure that  learners  at  risk  of  exclusion and  all  those  with  special  and additional needs have access to  quality  education  and  related support services. To achieve this, the  standard  Inclusive  Education Monitoring Tool (IEMT) developed by GES/SpED has provisions in  place  to  collect  relevant  data details on learners.
 
 20
 
@@ -932,6 +972,8 @@ INCLUSIVE EDUCATION POLICY
 
 INCLUSIVE EDUCATION POLICY
 
+Inclusive Education practice will require an on-going data collection and research to ensure that learners at risk of exclusion and all those with special and additional needs have access to quality education and related support services. To achieve this, the standard Inclusive Education Monitoring Tool (IEMT) developed by GES/SpED has provisions in place to collect relevant data details on learners.
+
 Data shall be collected using the  fifteen  (15)  -  itemized  data collection format developed by GES/SpED. Data will be disaggregated by name, age, sex, grade/class, disability type/special needs  category,  needed  support and  services,  assistive  devices, special learning material or support, guidance and counseling. The  database  will  help  identify, track,  reach  out  to  and  follow-up on children.
 
 Baseline  research  shall  also  be conducted  to  help  track  progress of IE. Results of such researches on IE shall also provide information to MoE/GES on areas to be intervened.
@@ -942,13 +984,14 @@ Teachers shall be required to keep records.  Such  records  shall  be aggregated
 
 The implementation of the Inclusive Education policy shall be supported by the provision of adequate resources  for  programmes  from the Government of Ghana as the principal funder. The Policy enjoins the  government  to  ensure  that  a proportion of the national revenue is  set  aside  annually  to  fund  the implementation of the Policy. There shall be cost sharing amongst the various responsible government departments, agencies and partners and  resources will be pooled  from  all  stakeholders  in order to realise specific and timely outputs,  over  the  short,  medium and long term.
 
-There shall be specific policybased financial as well as technical interventions  by  the  government in the first instance, followed by  other  key  stakeholders.  The operationalization of the policy will  draw  financial,  and  technical resources  from  the  Government of Ghana  (GoG); Development Partners (DPs); Local NGOs, CSOs, FBOs, Philanthropists and the Private Sector.
+There shall be specific policy-based financial as well as technical interventions by the government in the first instance, followed by other key stakeholders. The operationalization of the policy will draw financial, and technical resources from the Government of Ghana (GoG); Development Partners (DPs); Local NGOs, CSOs, FBOs, Philanthropists and the Private Sector.
 
 # 8.0 REVIEW OF THE POLICY
 
 To  bring  policy  priorities  in  line with current trends, this policy document  will  be  reviewed  every five  years by MoE notably on the expiration of various strategic frameworks and plans that will be developed  for  its  implementation. The Ghana Education Service will also  introduce  mechanisms to  ensure  effective  feedback  and replication of good  practices  in policy delivery.
 
-# Annex 1: Glossary of Terms Interpretation and Definitions)
+# Annex 1: Glossary of Terms
+(Interpretation and Definitions)
 
 In  this  policy,  the  following  words and  expressions  shall  have  the meanings assigned to them respectively:
 
@@ -956,7 +999,7 @@ Accommodations (within inclusive education) -  are  practices, measures and proc
 
 Assistive Devices -are all equipment that support people with disabilities to be able to perform activities in their daily lives,  such  as  wheel  chairs  and lift chairs, canes, glasses, hearing aids, artificial limbs, etc.
 
-Child-Centred Pedagogy -is a philosophy that holds at its foundation the need  to put children  at  the  centre  of  learning and development: educators and parents take their cues from children, drawing upon their interests, needs and natural curiosities. In childcentred  learning,  a  rich  learning environment is created where children are viewed as strong, capable, independent, curious, and  full  of  imagination.  Children are empowered to think, question, investigate, and explore as a basis  for  learning.  Child-centred learning  views  development  as  a holistic,  complex  and  interrelated process that includes the domains of emotional, social, cognitive, communication, language and physical learning, growth and wellbeing.
+Child-Centred Pedagogy - is a philosophy that holds at its foundation the need to put children at the centre of learning and development: educators and parents take their cues from children, drawing upon their interests, needs and natural curiosities. In child-centred learning, a rich learning environment is created where children are viewed as strong, capable, independent, curious, and full of imagination. Children are empowered to think, question, investigate, and explore as a basis for learning. Child-centred learning views development as a holistic, complex and interrelated process that includes the domains of emotional, social, cognitive, communication, language and physical learning, growth and well-being.
 
 Curriculum -is the overall organised course of study for any level  of  education  including  the vision,  goals  and  objectives  for learning organised into a sequence of courses over a specified period of time guided by a syllabus.
 
@@ -964,9 +1007,7 @@ Development  Partners -  means any officially registered partner organisation  t
 
 Disability - is an evolving concept that  results  from  the  interaction between persons with impairments, attitudinal and environmental barriers  that  hinder  their  full  and effective participation in society on an equal basis with others.
 
-Discrimination against women 5
-
-refers to all forms of discrimination, barriers, or gender-induced restrictions which affect the
+Discrimination against women⁵ refers to all forms of discrimination, barriers, or gender-induced restrictions which affect the
 
 5 Convention on the Elimination of All Forms of Discrimination against Women, National  Commission for Promotion of Advancement of Women, page 3.
 
@@ -992,23 +1033,29 @@ Ethnic  Groups 6 are  groups  of people who share a common spoken  language,  ha
 
 Gender  Equality 7 -  occurs  when men and women have equal value and opportunities in political, economic, and socio-cultural affairs; in families; and in national security, defense and international cooperation  as  stipulated  in  the Constitution  and  laws  of  the  Lao PDR.
 
-Gender  Roles 8 are  the  sociocultural relationships between women and men that are developed in our societies and our cultures through socialization and education  in  the  family,  school, religion  and  environment. Gender roles  are  different  from  place  to place,  community  to  community and over time.
+Gender Roles⁸ are the socio-cultural relationships between women and men that are developed in our societies and our cultures through socialization and education in the family, school, religion and environment. Gender roles are different from place to place, community to community and over time.
 
 Inclusion - is seen as a process of addressing and responding to the diversity  of  needs  of  all  children and youth, through increasing participation  in  learning,  cultures and  communities,  and  reducing and  eliminating  exclusion  within and  from  education.  It  involves changes and modifications in content, approaches, structures and  strategies,  with  a  common vision  that  covers  all  children  of the  appropriate  age  range  and  a conviction that it  is  the  responsibility of the regular system to educate all children.
 
 Inclusive Classrooms -have multiple levels of learning with appropriate learning tasks and materials.
 
-Inclusive  Education means that -  Schools  should  accommodate all children regardless of their physical, intellectual, social, emotional, linguistic or other conditions. This should include disabled and gifted children, street and working children, children from remote  or  nomadic  populations, children from linguistic, ethnic, gender  or  cultural  minorities  and children from other disadvantaged or  marginalised  areas  or  groups. (The  Salamanca  Statement  and Framework  for  Action  on  Special Needs Education, paragraph 3). Individualised Support - Persons with disabilities receive the support required, within the general education system, to facilitate their effective education both academic and social. Effective individualised support  measures  are  provided in environments that maximise academic and social development, consistent with the goal of full inclusion.
+Inclusive Education means that - Schools should accommodate all children regardless of their physical, intellectual, social, emotional, linguistic or other conditions. This should include disabled and gifted children, street and working children, children from remote or nomadic populations, children from linguistic, ethnic, gender or cultural minorities and children from other disadvantaged or marginalised areas or groups. (The Salamanca Statement and Framework for Action on Special
 
-> 6 Ethnic groups in Lao PDR, Ethnic Affairs Committee, National Assembly, 2009
+> ⁶ Ethnic groups in Lao PDR, Ethnic Affairs Committee, National Assembly, 2009
 
-> 7 The Law on Development and Protection of Women, 2006, Article 13.
+> ⁷ The Law on Development and Protection of Women, 2006, Article 13.
 
-> 8 Gender in Development, Lao Women's Union, 2000
+> ⁸ Gender in Development, Lao Women’s Union, 2000
 
-Learner -  means  a  female  or  a  male of  any  age  pursuing  education  in a  formal,  non-formal  or  informal, public or private education setting. People with Disabilities are those who have long-term physical, mental, intellectual or Sensory impairments  which,  in  interaction with  various  barriers,  may  hinder their full and effective participation in  society  on  an  equal  basis  with others.
+Needs Education, paragraph 3).
 
-Quality education -quality education should include: 1) learners who  are  healthy,  wellnourished and ready to participate and learn,  and  supported  in  learning by their families and communities; 2)  environments  that  are  healthy, safe, protective and gendersensitive,  and  provide  adequate resources and facilities; 3) content that is reflected in relevant curricula and  materials  for  the  acquisition of  basic  skills,  especially  in  the areas  of  literacy,  numeracy  and skills  for  life  and  knowledge  in such areas as gender, health, nutrition, HIV/AIDS prevention and peace; 4) processes through which  trained  teachers  use  child centred  teaching  approaches  in well-managed classrooms and schools  and  skillful  assessment to  facilitate  learning  and  reduce disparities;  and  5)  outcomes  that encompass knowledge, skills and attitudes, and are linked in national goals  for  education  and  positive participation in society.
+Individualised Support - Persons with disabilities receive the support required, within the general education system, to facilitate their effective education both academic and social. Effective individualised support measures are provided in environments that maximise academic and social development, consistent with the goal of full inclusion.
+
+Learner - means a female or a male of any age pursuing education in a formal, non-formal or informal, public or private education setting.
+
+People with Disabilities are those who have long-term physical, mental, intellectual or Sensory impairments which, in interaction with various barriers, may hinder their full and effective participation in society on an equal basis with others.
+
+Quality education - quality education should include: 1) learners who are healthy, well-nourished and ready to participate and learn, and supported in learning by their families and communities; 2) environments that are healthy, safe, protective and gender-sensitive, and provide adequate resources and facilities; 3) content that is reflected in relevant curricula and materials for the acquisition of basic skills, especially in the areas of literacy, numeracy and skills for life and knowledge in such areas as gender, health, nutrition, HIV/AIDS prevention and peace; 4) processes through which trained teachers use child centred teaching approaches in well-managed classrooms and schools and skillful assessment to facilitate learning and reduce disparities; and 5) outcomes that encompass knowledge, skills and attitudes, and are linked in national goals for education and positive participation in society.
 
 School -is defined as an educational institution, public, assisted or private, recognised by the Ministry of Education which has teachers, learners and learning space.
 
@@ -1036,11 +1083,7 @@ INCLUSIVE EDUCATION POLICY
 
 as subjects with rights and the State  remains  the  duty-bearer with  obligations  to  fulfill  these rights.  Besides  this  aspect  of the  CFC  model  is  concerned with demonstrating, promoting, and helping to monitor the rights and well -being of all children in the community.
 
-· It  is  a  child-centered  school
-
-- this  means,  acting  in  the best interest of the child, leading to the realisation of the  child's full  potential,  and concerned both about the 'whole' child (including his/ her health, nutritional status, and well -being) and about what  happens  to  children  in their  families  and  communities
-
-before  they  enter  school  and after they leave it.
+- It is a child-centered school — this means, acting in the best interest of the child, leading to the realisation of the child’s full potential, and concerned both about the “whole” child (including his/her health, nutritional status, and well -being) and about what happens to children in their families and communities before they enter school and after they leave it.
 
 - Community Based Rehabilitation (CBR)  Programme is  an  integral component  of  the  CFS  concept. The  CBR  strategy  targets  social inclusion,  and  aims  to  overcome activity limitations and participation restrictions  and  thus  improve  the quality of life for persons with disabilities.  The  community-based approach facilitates the acceptance and participation of persons with special educational needs in their communities including the  marginalised  and  vulnerable groups.
 
@@ -1107,11 +1150,11 @@ Article 25 (1) states that all persons  shall  have  the  right  to equal educat
 
 ### The Education Act 778 (2008)
 
-The objective of Act 778 enacted in 2008, is to provide for the establishment  of  an  educational system intended to produce wellbalanced individuals with the requisite knowledge, skills, values, aptitudes and attitudes.
+The objective of Act 778 enacted in 2008, is to provide for the establishment of an educational system intended to produce well-balanced individuals with the requisite knowledge, skills, values, aptitudes and attitudes.
 
 ### The National Youth Policy (2010)
 
-The  theme  of  the  National  Youth Policy is 'towards an empowered youth, impacting positively on national development'. The purpose of the policy is to empower and  actively  involve  the  youth  of Ghana  in  productive  activities;  to enable  each  Ghanaian  youth  to develop  his  or  her  full  potential and  self-esteem  and  to  inspire the  youth  to  develop  the  aptitude for  creativity,  innovation  and  selfdiscovery in improving their quality of life.
+The theme of the National Youth Policy is ‘towards an empowered youth, impacting positively on national development’. The purpose of the policy is to empower and actively involve the youth of Ghana in productive activities; to enable each Ghanaian youth to develop his or her full potential and self-esteem and to inspire the youth to develop the aptitude for creativity, innovation and self-discovery in improving their quality of life.
 
 ### The  Education  Strategic  Plan (2010-2020)
 
@@ -1149,7 +1192,7 @@ By this commitment, Ghana is expected to ensure that all obstacles to full parti
 
 ### The Dakar Framework for Action (2000)
 
-The Dakar Framework for Action, according to  UNESCO (2009), paved the way for inclusive  education  as  one  of  the main  strategies to address  the challenges of marginalization and  exclusion  in  response  to  the fundamental principle of EFA, which demanded that all children, youth and adults should have the opportunity to learn.
+The Dakar Framework for Action, according to UNESCO (2009), paved the way for inclusive education as one of the
 
 28
 
@@ -1162,6 +1205,8 @@ The Dakar Framework for Action, according to  UNESCO (2009), paved the way for i
 INCLUSIVE EDUCATION POLICY
 
 INCLUSIVE EDUCATION POLICY
+
+main strategies to address the challenges of marginalization and exclusion in response to the fundamental principle of EFA, which demanded that all children, youth and adults should have the opportunity to learn.
 
 ### The Millennium Development Goals (2000)
 
@@ -1191,16 +1236,16 @@ Name of the circuit supervisor / schedule officer:
 
 ______________________
 
-| Questions | 0 9 | 1 | 2 | 3
---- | --- | --- | --- | --- | ---
-1 | Head teacher admits all Children with disabilities (CWD) / Special Education Needs (SEN) from the locality (0) Not yet (1) Just a few Children with Special Needs but no CWDs (2) CSN and only children with mild disabilities 10 (3) Any Child with SEN and children with disabilities including moderate or severe disabilities
-2 | The Head teacher and staff actively search for out-of- school children (including non-registered children) within the community by going round (not just via PTA meeting) (0) Not yet (1) At beginning of school year (2) At least termly and each time a child drops out) (3) There is no more out of school children within the community
-3 | Every teaching staff has been sensitized to welcome and show love and affection to pupils with SEN (0) Not yet -0% 11 (1) Few staff -less than 50% (2) Almost all staff-more than 50% (3) All staff-100% including new teachers
-4 | Teachers and parents of pupils with special needs meet one to one (not via PTA meeting) to discuss the academic progress of the pupil (0) Never (1) Once or twice a year (2) Termly (3) More than 5 times a year average
-5 | Staff has sensitized the parents on issues of disability and child rights through the PTA/SMC (0) Not yet (1) Once in PTA meeting (2) At several PTA meetings (3) At numerous occasions including SMC meetings (such PTA, open doors, one to one with parents, at ceremonies, etc.)
-6 | School has assigned another pupil(s) per class to help pupil(s) 12 with special needs to ensure their active participation in all school activities. Please tick the following box if you have no CSN/CWD in your school □ (0) Not yet (1) For few pupils (2)For almost all pupils (3) For all pupils
-
 ## Section 1:  Welcoming Nature of Head teacher, Staff, pupils and stakeholders (Creating Inclusive Culture)
+
+| # | Questions | 0⁹ | 1 | 2 | 3 |
+|---|---|---|---|---|---|
+| 1 | Head teacher admits all Children with disabilities (CWD) / Special Education Needs (SEN) from the locality (0) Not yet (1) Just a few Children with Special Needs but no CWDs (2) CSN and only children with mild disabilities¹⁰ (3) Any Child with SEN and children with disabilities including moderate or severe disabilities | | | | |
+| 2 | The Head teacher and staff actively search for out-of-school children (including non-registered children) within the community by going round (not just via PTA meeting) (0) Not yet (1) At beginning of school year (2) At least termly and each time a child drops out) (3) There is no more out of school children within the community | | | | |
+| 3 | Every teaching staff has been sensitized to welcome and show love and affection to pupils with SEN (0) Not yet -0%¹¹ (1) Few staff -less than 50% (2) Almost all staff-more than 50% (3) All staff-100% including new teachers | | | | |
+| 4 | Teachers and parents of pupils with special needs meet one to one (not via PTA meeting) to discuss the academic progress of the pupil (0) Never (1) Once or twice a year (2) Termly (3) More than 5 times a year average | | | | |
+| 5 | Staff has sensitized the parents on issues of disability and child rights through the PTA/SMC (0) Not yet (1) Once in PTA meeting (2) At several PTA meetings (3) At numerous occasions including SMC meetings (such PTA, open doors, one to one with parents, at ceremonies, etc.) | | | | |
+| 6 | School has assigned another pupil(s) per class to help pupil(s)¹² with special needs to ensure their active participation in all school activities. Please tick the following box if you have no CSN/CWD in your school □ (0) Not yet (1) For few pupils (2)For almost all pupils (3) For all pupils | | | | |
 
 30
 
@@ -1214,69 +1259,33 @@ INCLUSIVE EDUCATION POLICY
 
 INCLUSIVE EDUCATION POLICY
 
-Questions 0 9 1 2 3
-
-- 7 All teachers are aware of teacher(s) responsible for □ SpED □ SHEP □ Guidance & Counseling □ ECD and □ Girl-Child Education. (0) Not yet (1) few (2) Almost all of them  (3) All of them
-
-- 8 School  is aware  of  disability  and  inclusive  education stakeholders/actors/facilities  in  the  district  to  support  IE development in your school.   Please tick as appropriate (you  may  tick  several):    □  Organisations  for  Persons with  Disabilities  □  NGOs  □  Special  schools  □  Resource centers  □  Churches  /  Mosques  programmes    □  Others (please  indicate):  _____________________ (0)  None
-
-- Just know the name (2) Has met with them (3) Has collaboration with them.
-
-- Please mention the stakeholders / facilities name(s) ticked above that you know of:
+| # | Questions | 0⁹ | 1 | 2 | 3 |
+|---|---|---|---|---|---|
+| 7 | All teachers are aware of teacher(s) responsible for □ SpED □ SHEP □ Guidance & Counseling □ ECD and □ Girl-Child Education. (0) Not yet (1) few (2) Almost all of them (3) All of them | | | | |
+| 8 | School is aware of disability and inclusive education stakeholders/actors/facilities in the district to support IE development in your school. Please tick as appropriate (you may tick several): □ Organisations for Persons with Disabilities □ NGOs □ Special schools □ Resource centers □ Churches / Mosques programmes □ Others (please indicate): _____________________ (0) None (1) Just know the name (2) Has met with them (3) Has collaboration with them. | | | | |
+| * | Please mention the stakeholders / facilities name(s) ticked above that you know of: | | | | |
 
 Total score for section 1 is __________ + 5 points = _____________
 
 ## Section 2:  Producing Inclusive Policies (School Environment)
 
+| # | Questions | 0 | 1 | 2 | 3 |
+|---|---|---|---|---|---|
+| 9 | There are toilets and urinals accessible for all pupils including pupils with SEN in a wheelchair (i.e. with flat access, large door, seat) on the compound (0) No toilets or urinals (1) Just urinals (2) Toilets/urinals but not accessible (3) Accessible toilets (and Urinals) | | | | |
+| 10 | There are ramps (or ‘flat’ access) to reach all facilities. Please tick the box if ramps are of bad quality (Eg. too steep) □ (0) Not at all (1) One (2) Two (3) Three or more | | | | |
+| 11 | There is good lighting in the classrooms. Please tick: □ electric light □ natural light( transparent roof/enlarged windows) □ both (0) Poor lighting (1) Reasonable lighting (2) Good lighting (3) Very good lighting | | | | |
+| 12 | There is good ventilation in the classrooms (0) Poor (1) Reasonably good (2) Good (3)Very good | | | | |
 
+| # | Questions | 0⁹ | 1 | 2 | 3 |
+|---|---|---|---|---|---|
+| 13 | There is a reasonable teacher/pupils ratio in all grades including KG (0)1:105 or more (1) 1: 71-104 (2) 1:36-70 (3) 1:35 or less | | | | |
+| 14 | School has enforced positive moral and physical disciplinary policy (Eg. No caning, no kneeling, no running under the sun, no humiliating, no bullying, no nicknaming, etc. but rather positive punishments like reparation, isolation, copying lines, etc.) (0) Not yet (1) Negative physical & moral punishment still applied sometimes (2) Negative physical & moral punishment rarely applied (3) Negative physical & moral punishment never applied | | | | |
+| 15 | Teachers conduct regular basic screening (Eg. visual, hearing, intellectual) using the basic materials for screening (Eg. Snellen charts/hearing aids rattles, shackers) for all pupils in their schools (0) Not yet (1) Once a year (not beginning of the year) (2) Beginning of school year (3) Beginning of school year & each time a pupil needs it (Eg. For pupils absent on screening day, newcomers, etc.) | | | | |
+| 16 | School has a list of identified pupils who need support & related services (Database – see section 4) (0) Not yet (1) For few identified pupils (2) For almost all identified pupils (3) For all identified pupils | | | | |
 
-Questions
-
-0
-
-1
-
-2
-
-3
-
-- 9 There  are  toilets  and  urinals  accessible  for  all  pupils including  pupils  with  SEN  in  a  wheelchair  (i.e.  with  flat access, large door, seat) on the compound (0) No toilets or  urinals  (1)  Just  urinals  (2)  Toilets/urinals  but  not accessible (3) Accessible toilets (and Urinals)
-
-- 10 There  are  ramps  (or  'flat'  access)  to  reach  all  facilities. Please  tick  the  box  if  ramps  are  of  bad  quality  (Eg.  too steep)  (0)  Not at all (1) One (2) Two (3) Three or more
-
-- 11 There is  good  lighting  in  the  classrooms.  Please  tick:    □ electric light □  natural light(  transparent  roof/enlarged windows) □ both  (0) Poor lighting (1) Reasonable lighting (2) Good lighting (3) Very good lighting
-
-
-
-Questions
-
-0
-
-1
-
-2
-
-3
-
-- 12 There  is  good  ventilation  in  the  classrooms (0)  Poor  (1) Reasonably good (2) Good (3)Very good
-
-Questions 0 9 1 2 3
-
-- 13 There  is  a  reasonable  teacher/pupils    ratio  in  all  grades including KG (0)1:105 or more (1) 1: 71-104 (2) 1:36-70 (3) 1:35 or less
-
-- 14 School has enforced positive moral and physical disciplinary policy (Eg. No caning, no kneeling, no running under the sun,  no  humiliating,  no  bullying,  no  nicknaming,  etc.  but rather positive punishments like reparation, isolation, copying lines,  etc.) (0)  Not  yet  (1)  Negative  physical  & moral punishment still applied sometimes (2) Negative physical & moral punishment rarely applied (3) Negative physical & moral punishment never applied
-
-- 15 Teachers  conduct  regular  basic  screening  (Eg.  visual, hearing, intellectual) using the basic materials for screening (Eg.  Snellen  charts/hearing  aids  rattles,  shackers)  for  all pupils in their schools
-
-- Not yet (1) Once a year (not beginning of the year) (2)  Beginning of school year (3) Beginning of school year & each time a pupil needs it (Eg. For pupils absent on screening day, newcomers, etc.)
-
-- 16 School has a list of identified pupils who need support & related services (Database - see section 4) (0) Not yet (1) For few identified pupils (2) For almost all
-
-- identified pupils  (3) For all identified pupils
-
-Questions 0 1 2 3
-
-- 17 School has referred and followed up identified pupils with special  needs  to  SpED  coordinator  /  officers  to  ensure the provision of needed assistive device (Database - see section 4) (0) Not yet (1) Few pupils (2) Almost all pupils (3) All pupils
+| # | Questions | 0 | 1 | 2 | 3 |
+|---|---|---|---|---|---|
+| 17 | School has referred and followed up identified pupils with special needs to SpED coordinator / officers to ensure the provision of needed assistive device (Database – see section 4) (0) Not yet (1) Few pupils (2) Almost all pupils (3) All pupils | | | | |
 
 32
 
@@ -1292,67 +1301,30 @@ INCLUSIVE EDUCATION POLICY
 
 
 
-Questions
-
-0 9
-
-1
-
-2
-
-3
-
-- 18 School has access to  trained Inclusive/special Education Resource  Teacher(s)  who  can  identify  and  assist  pupils with Special Learning Needs
-
-- SpED  teacher  (1)  District  IE  coordinator  (2)  An occasional access to a IE/SN Resource teacher (3) A frequent access to a IE/SN Resource teacher
-
-*
-
-- There is a competent teacher (or several) in school, with special  skills  or  simply  very  good  teaching  skills,  which could  be  resource  persons  for  best  practice  experience. Please name him/her/them:
+| # | Questions | 0⁹ | 1 | 2 | 3 |
+|---|---|---|---|---|---|
+| 18 | School has access to trained Inclusive/special Education Resource Teacher(s) who can identify and assist pupils with Special Learning Needs (0) SpED teacher (1) District IE coordinator (2) An occasional access to a IE/SN Resource teacher (3) A frequent access to a IE/SN Resource teacher | | | | |
+| * | There is a competent teacher (or several) in school, with special skills or simply very good teaching skills, which could be resource persons for best practice experience. Please name him/her/them: | | | | |
 
 Total score for section 2 is __________ + 8 points = _____________
 
 ## Section 3:  Evolving Inclusive Practices (Classroom Instruction/Interaction/ Lesson Delivery/Management)
 
-0 1 2 3
+| # | Questions | 0 | 1 | 2 | 3 |
+|---|---|---|---|---|---|
+| 19 | All teachers have detailed records of all children with special needs in his/her class (0) None (1) Just the list of class pupils names (2) Some non-written information on CSN needs (3) Detailed written information including the learning needs of the CSN (e.g. in a portfolio) | | | | |
+| 20 | Teachers implement learning from the Inclusive education training to reach out to every child while teaching (Eg. child-centred methods, co-operative learning, eg. in front etc.) (0) Children with Special learning Needs (SLN) follow lessons as other children (1) CSLN benefit from specific teaching support (E.g. specific attention, adapted exercise/ material, remedial class, sit in front) (2) CSLN benefit from curriculum adaptation (3) CSLN have an Individual Education Plan (IEP) | | | | |
+| 21 | Teachers who have attended training on inclusive education have organized a school-based in-service training (0) Not Yet (1) Planned (2) Not for all training received (3) For all training received | | | | |
 
-Questions
+| # | Questions | 0⁹ | 1 | 2 | 3 |
+|---|---|---|---|---|---|
+| 22 | CSLN are provided with adapted Disability specific learning material & support (Eg. Braille sheets/books, speech recording, large prints, hearing aids, visual aids (lenses, magnifiers), Sign language interpreters, etc.) (0) Not yet (1) Few pupils (2) Almost all pupils (3) All pupils | | | | |
+| 23 | Teachers use on a regular basis Teaching and Learning Materials (TLMs) - including self-created/improvised ones (0) Not yet (1) Mainly visual aids (2) Some TLM and objects from real life (3) A large variety of games, objects, pictures, puzzles, shapes, etc. properly stored | | | | |
+| 24 | Teachers rather use appropriate classroom setting (Eg. U shape or variations of class group setting to enable pupils to see each others such as several semi-circle, small groups, etc). (0) Not yet (e.g. classes too large) (1) setting is sometimes modified according to lesson (in all grade) (2) Setting is modified just in KG (3) Setting is modified frequently in every class | | | | |
 
-- 19 All  teachers    have  detailed  records  of  all  children  with special needs in his/her class (0) None (1) Just the list of class pupils names (2) Some  non-written information on CSN needs (3) Detailed written information including the learning needs of the CSN (e.g. in a portfolio)
-
-- 20 Teachers implement learning from the Inclusive education training    to  reach  out  to  every  child  while  teaching  (Eg. child-centred  methods,  co-operative  learning,  eg.  in  front etc.) (0)  Children  with  Special  learning  Needs    (SLN) follow lessons as other children (1) CSLN benefit from specific teaching support (E.g. specific attention, adapted exercise/ material, remedial class, sit in front) (2) CSLN benefit from curriculum adaptation (3) CSLN have an Individual Education Plan (IEP)
-
-- 21 Teachers who have attended training on inclusive education have organized a school-based in-service training
-
-- Not Yet (1) Planned (2) Not for all training received
-
-- For all training received
-
-Questions 0 9 1 2 3
-
-- 22 CSLN are provided with adapted Disability specific learning material &  support (Eg. Braille  sheets/books,  speech recording,  large  prints,  hearing  aids,  visual  aids  (lenses, magnifiers), Sign language interpreters, etc.)
-
-- Not yet (1) Few pupils (2) Almost all pupils (3) All pupils
-
-- 23 Teachers  use  on  a  regular  basis  Teaching  and  Learning Materials (TLMs) - including self-created/improvised ones (0) Not yet (1)  Mainly visual aids  (2) Some TLM and objects  from  real  life  (3)  A  large  variety  of  games, objects, pictures, puzzles, shapes, etc. properly stored
-
-- 24 Teachers rather use appropriate classroom setting (Eg. U shape or variations of class group setting to enable pupils to  see  each  others  such  as  several  semi-circle,  small groups, etc).
-
-- Not  yet  (e.g.  classes  too  large)  (1)    setting  is sometimes modified according to lesson (in all grade) (2) Setting is modified just in KG (3) Setting is modified frequently in every class
-
-Questions
-
-0
-
-1
-
-2
-
-3
-
-- 25 Registration for internal/external examinations (Eg. BECE, termly tests) is based on pupils' needs, and modifications are made accordingly (Eg. 30% continuous assessment & 70% exams, additional time (1 third), oral testing, enlarged text, Sign Language Translation of the questions, etc.)
-
-- Not yet (1) Only a few minutes additional time (2) At least 2 of the above mentioned modifications (3) More than 3 of the above mentioned modifications
+| # | Questions | 0 | 1 | 2 | 3 |
+|---|---|---|---|---|---|
+| 25 | Registration for internal/external examinations (Eg. BECE, termly tests) is based on pupils’ needs, and modifications are made accordingly (Eg. 30% continuous assessment & 70% exams, additional time (1 third), oral testing, enlarged text, Sign Language Translation of the questions, etc.) (0) Not yet (1) Only a few minutes additional time (2) At least 2 of the above mentioned modifications (3) More than 3 of the above mentioned modifications | | | | |
 
 34
 
@@ -1416,14 +1388,14 @@ School statistics are filled by the Head Teacher (except for the  percentage  ca
 
 special need category, needed support and services (assistive device, special learning material or support,  guiding  and  counseling) and the status of these support & services provision for each pupil. If this database does not exist yet, it shall be created (See format in the guidelines).
 
-Source | Male | Female | Total
---- | --- | --- | ---
-1. | Number of students currently in the school | School admission register
-2. | Number of students identified with disabilities currently in the school Please disaggregate this total number by categories of disabilities and special needs on the next page | Database of CWD/ CSN
-3. | Percentage of CWD to total students in current school year [Current: Percentage 1] (Calculation : Number of students with disabilities currently in school [Indicator # 2] x 100 = Number of students currently in school [Indicator #1]
-4. | Number of CWD in school year before implementation (baseline 14 ) School admission register | School admission register
-5. | Number of students in school year before implementation (baseline) | Database of CWD/ CSN
-6. | Percentage of CWD in school year before implementation [Baseline: Percentage 0] Baseline year is 2013 (Calculation: Number of CWD in school year before implementation x 100 = Number of students in school year before implementation
+| # | | Source | Male | Female | Total |
+|---|---|---|---|---|---|
+| 1. | Number of students currently in the school | School admission register | | | |
+| 2. | Number of students identified with disabilities currently in the school. Please disaggregate this total number by categories of disabilities and special needs on the next page | Database of CWD/CSN | | | |
+| 3. | Percentage of CWD to total students in current school year [Current: Percentage 1] (Calculation: Number of students with disabilities currently in school [Indicator # 2] x 100 = Number of students currently in school [Indicator #1] | | | | |
+| 4. | Number of CWD in school year before implementation (baseline¹⁴) | School admission register | | | |
+| 5. | Number of students in school year before implementation (baseline) | Database of CWD/CSN | | | |
+| 6. | Percentage of CWD in school year before implementation [Baseline: Percentage 0] Baseline year is 2013 (Calculation: Number of CWD in school year before implementation x 100 = Number of students in school year before implementation | | | | |
 
 > 14 Baseline is 2013. So items # 4, 5 and 6 will be filled in 2014
 
@@ -1439,22 +1411,22 @@ INCLUSIVE EDUCATION POLICY
 
 INCLUSIVE EDUCATION POLICY
 
-Source | Male | Female | Total
---- | --- | --- | ---
-7 | Number of CWD who need necessary supports & services 15 Note: All children screened and identified need support & services | Screening form
-8 | Number of CWD who received necessary support & services
-9 | Percentage of CWD who received necessary support & services (Calculation: Number of CWD who received support [Indicator #8] x 100 = Number of CWD who needed necessary support [Indicator #7] | Database of CWD/ CSN
-10 | Number of CWD who improved in class performance as measured by their class ranking (Calculation: Position at first grading period - Position at last grading period or at time of observation) | Student Report Card, Teacher Record Book
-11 | Percentage of CWD who improved in class performance as measured by their class ranking (Calculation : Number of CWD who improved in class performance [Ind #10] x 100 Number of CWD currently in school [Indic #2]
+| # | | Source | Male | Female | Total |
+|---|---|---|---|---|---|
+| 7 | Number of CWD who need necessary supports & services¹⁵. Note: All children screened and identified need support & services | Screening form | | | |
+| 8 | Number of CWD who received necessary support & services | | | | |
+| 9 | Percentage of CWD who received necessary support & services (Calculation: Number of CWD who received support [Indicator #8] x 100 = Number of CWD who needed necessary support [Indicator #7] | Database of CWD/CSN | | | |
+| 10 | Number of CWD who improved in class performance as measured by their class ranking (Calculation: Position at first grading period – Position at last grading period or at time of observation) | Student Report Card, Teacher Record Book | | | |
+| 11 | Percentage of CWD who improved in class performance as measured by their class ranking (Calculation: Number of CWD who improved in class performance [Ind #10] x 100 Number of CWD currently in school [Indic #2] | | | | |
 
 > 15 Supports such as medical assistance, assistive devices (spectacles, clutches, tricycle, hearing aids, etc.) or adapted learning material (Braille books) or support (Sign language interpreter, etc.)
 
-Source | Male | Female | Total
---- | --- | --- | ---
-12 | Number of CWD who completed the school year | Teacher Record Book
-13 | Percentage of CWD who completed school year (Calculation : Number of CWD who completed school year [Indic # 12] x 100 = Number of CWD currently in school [Indic #2]
-14 | Number of CWD who are no more in school (drop out, transferred, deceased)
-15 | Percentage of CWD who are no more in school (drop out, transferred, deceased) (Calculation : Number of CWD who are no more in school [Indic # 14] x 100 = Number of CWD currently in school [Indic #2]
+| # | | Source | Male | Female | Total |
+|---|---|---|---|---|---|
+| 12 | Number of CWD who completed the school year | Teacher Record Book | | | |
+| 13 | Percentage of CWD who completed school year (Calculation: Number of CWD who completed school year [Indic # 12] x 100 = Number of CWD currently in school [Indic #2] | | | | |
+| 14 | Number of CWD who are no more in school (drop out, transferred, deceased) | | | | |
+| 15 | Percentage of CWD who are no more in school (drop out, transferred, deceased) (Calculation: Number of CWD who are no more in school [Indic # 14] x 100 = Number of CWD currently in school [Indic #2] | | | | |
 
 ### CLASSIFICATION OF CHILDREN WITH DISABILITIES AND CHILDREN WITH SPECIAL NEEDS
 
@@ -1472,39 +1444,41 @@ INCLUSIVE EDUCATION POLICY
 
 INCLUSIVE EDUCATION POLICY
 
-Types of disabilities 16
---- | --- | --- | ---
-# | Male | Female | Total
-1 | Intellectual / developmental disabilities (including Down syndrome)
-2 | Hearing impairment
-3 | Visual impairment
-4 | Physical impairment - Motor and mobility impairment (including cerebral palsy)
-5 | Autism Spectrum Disorder
-6 | ADHD (Attention Deficit Hyperactivity Disorder)
-7 | Specific learning difficulties (including dysgraphia, dyscalculia, dyspraxia, dyslexia)
-8 | Social, Emotional and behavioural difficulties
-10 | Epilepsy
-12 | Multiple impairments
-14 | Others (please precise): Eg. speech and language difficulties
+Types of disabilities¹⁶
 
-Categories of Special Needs 17   (include children with disabilities and the following but not limited to)
+| # | | Male | Female | Total |
+|---|---|---|---|---|
+| 1 | Intellectual / developmental disabilities (including Down syndrome) | | | |
+| 2 | Hearing impairment | | | |
+| 3 | Visual impairment | | | |
+| 4 | Physical impairment – Motor and mobility impairment (including cerebral palsy) | | | |
+| 5 | Autism Spectrum Disorder | | | |
+| 6 | ADHD (Attention Deficit Hyperactivity Disorder) | | | |
+| 7 | Specific learning difficulties (including dysgraphia, dyscalculia, dyspraxia, dyslexia) | | | |
+| 8 | Social, Emotional and behavioural difficulties | | | |
+| 10 | Epilepsy | | | |
+| 12 | Multiple impairments | | | |
+| 14 | Others (please precise): Eg. speech and language difficulties | | | |
 
-# | Male | Female | Total
---- | --- | --- | ---
-1 | Nomadic children ('Fulani' children, shepherd boys, fisher-folk's children and domestic child workers)
-2 | Children - hawkers, porters of the 'kayaye' , Street children
-3 | Children living in extreme social and economic deprivation ('very poor home')
-4 | Children exploited for financial purpose / in servitude such as 'trokosi' or child-traffickers
-5 | Exceptionally gifted and talented
+Categories of Special Needs¹⁷ (include children with disabilities and the following but not limited to)
+
+| # | | Male | Female | Total |
+|---|---|---|---|---|
+| 1 | Nomadic children (“Fulani” children, shepherd boys, fisher-folk’s children and domestic child workers) | | | |
+| 2 | Children – hawkers, porters of the “kayaye” , Street children | | | |
+| 3 | Children living in extreme social and economic deprivation (“very poor home”) | | | |
+| 4 | Children exploited for financial purpose / in servitude such as “trokosi” or child-traffickers | | | |
+| 5 | Exceptionally gifted and talented | | | |
 
 > 16  UNESCO, Embracing Diversity: Toolkit for Creating Inclusive, Learning-Friendly Environments, specialized booklet 3: Teaching Children With Disabilities in Inclusive settings, Thailand, 2009 and ANTHONY J. & KWADADE D., Project EQUALL Special Education Needs Component, Master Trainer manual, USAID, 2006 17  HAYFORD, S. K, (Ph. D), Inclusive Education Policy Framework, Division of Special Education (SpED), Revised Document, Accra, December 2012.
 
-Categories of Special Needs 17 (include children with disabilities and the following but not limited to)
---- | --- | --- | ---
-# | Male | Female | Total
-6 | Orphans and children who are not living with their biological parents
-7 | Children living with HIV/AIDS
-8 | Others (migrants, different language…).Please precise:
+Categories of Special Needs¹⁷ (include children with disabilities and the following but not limited to)
+
+| # | | Male | Female | Total |
+|---|---|---|---|---|
+| 6 | Orphans and children who are not living with their biological parents | | | |
+| 7 | Children living with HIV/AIDS | | | |
+| 8 | Others (migrants, different language…).Please precise: | | | |
 
 ### ADDITIONAL INFORMATION
 
@@ -1581,7 +1555,7 @@ Note: The scoring result is not meant to classify the schools or discourage  goo
 
 > a)	 Tick the appropriate score for the 25 indicators.
 
-- Complete  the  section  4  statistics  monitoring  form  including  data disaggregated by disability types and special needs children categories. School statistics are based on school admission register and the database of children identified with special needs including children with disabilities. If this database does not exist yet, it shall be created. The database shall follow the format below:
+> b) Complete the section 4 statistics monitoring form including data disaggregated by disability types and special needs children categories. School statistics are based on school admission register and the database of children identified with special needs including children with disabilities. If this database does not exist yet, it shall be created. The database shall follow the format below:
 
 > 18 Due to the weighting system, no school can score below 25 points as these points are automatically given to a school. Rating is not even; this is done on purpose to mitigate the effect of the weighting system.
 
@@ -1599,45 +1573,41 @@ INCLUSIVE EDUCATION POLICY
 
 Database of children with special needs
 --- | --- | --- | --- | --- | --- | --- | ---
-Name of the child | Age | Sex | Grade | Community / Contact / House | Disability type / special need 19 | Needed support and services 20 | Received support and services
-
-Note: For the first time, please fill the forms together with the head teachers as they are not familiar with  the  tools  and  concepts  of CSN / CWD / IE. Please take the time  to  explain  these  notions, repeat information several times and give examples.
-
-#### Stage  2  -  Circuit  Supervisors/ Schedule Officers
-
-- Collect information from the Head Teacher, starting by the statistics monitoring form  (section  4)  then  the  25 indicators checklist.
-
-- Countercheck information given  by  the  Head  teacher  to ensure that it is correct.
-
-- Visit the school facilities to assess if facilities are corresponding to the ones indicated in the checklist section 2 (toilets, ramps, lighting, ventilation).
-
-teachers  activities  correspond to activities indicated in the checklist section 3.
-
-- Interview informally 1 or 2 teachers to assess the validity of  indicators  of  the  checklist section. Not all indicators shall necessarily be checked but a  random  sample  of  2  or  3 indicators.
-
-Eg. Indicator #7 'All teachers are aware of who are the teachers responsible for □ SpED □ SHEP □  Guidance  &  Counseling  □  ECD and □ Girl Child Education'. Ask one  teacher  about  the  names of  each  of  these  responsible teachers.
-
-- Interview informally 1 or 2 children with and without disabilities  /  special  needs  to assess the validity of indicators on corporal punishment, caning,  nicknaming,  screening and provision of assistive devices.
-
-- Observe  a  class  to  assess  if g)	 If you disagree with the
+Name of the child | Age | Sex | Grade | Community / Contact / House | Disability type / special need¹⁹ | Needed support and services²⁰ | Received support and services
 
 > 19 The classification of children with disabilities and with special needs shall be the same as section 4.
 
 > 20 E.g. Assistive device, special learning material or support, guidance and counseling, etc
 
-information indicated by the Head Teacher, countercheck on the  checklist  by  ticking  with  a different  color  pen. The ticking of  the  circuit  supervisors  shall be  the  one  taken  into  account for calculation of the score.
+Note: For the first time, please fill the forms together with the head teachers as they are not familiar with the tools and concepts of CSN / CWD / IE. Please take the time to explain these notions, repeat information several times and give examples.
 
-- Calculate  the  total  score  and percentages of the statistics monitoring form on children with disabilities.
+#### Stage 2 – Circuit Supervisors/Schedule Officers
 
-- Give feedback to a head teacher and teachers.
+a) Collect information from the Head Teacher, starting by the statistics monitoring form (section 4) then the 25 indicators checklist.
 
-Note: As this is a new monitoring tool,  it  is  recommended  that Circuit  Supervisors  /  Schedule Officers support the Head Teacher  and  Teachers  for  the first monitoring (explaining questions,  filling  the  statistics form, etc).
+b) Countercheck information given by the Head teacher to ensure that it is correct.
 
-#### Notice -Verification Officer/ District Directorate (including District Director)
+c) Visit the school facilities to assess if facilities are corresponding to the ones indicated in the checklist section 2 (toilets, ramps, lighting, ventilation).
 
-The verification officer (Circuit Supervisors and Schedule Officers)  should  visit  the  schools that fall between 82 and 100 points (practicing efficiently inclusive education) to verify if what  has  been  indicated  is  right. The verification officer should also ensure that elements relative to 1) screening with basic materials eg. Snellen  charts  and  basic  hearing equipment  -  Indicator  # 15, 2) referral of children -Indicator
+d) Observe a class to assess if teachers activities correspond to activities indicated in the checklist section 3.
 
-# 17  and  3)  orientation  for  the school  and  all  teachers  (at  least every teacher has an idea of IE) Indicator # 20 have been checked to enable a school fall within category  82-100  (because  these needs were already provided for).
+e) Interview informally 1 or 2 teachers to assess the validity of indicators of the checklist section. Not all indicators shall necessarily be checked but a random sample of 2 or 3 indicators.
+
+Eg. Indicator #7 ‘All teachers are aware of who are the teachers responsible for □ SpED □ SHEP □ Guidance & Counseling □ ECD and □ Girl Child Education’. Ask one teacher about the names of each of these responsible teachers.
+
+f) Interview informally 1 or 2 children with and without disabilities / special needs to assess the validity of indicators on corporal punishment, caning, nicknaming, screening and provision of assistive devices.
+
+g) If you disagree with the information indicated by the Head Teacher, countercheck on the checklist by ticking with a different color pen. The ticking of the circuit supervisors shall be the one taken into account for calculation of the score.
+
+h) Calculate the total score and percentages of the statistics monitoring form on children with disabilities.
+
+i) Give feedback to a head teacher and teachers.
+
+Note: As this is a new monitoring tool, it is recommended that Circuit Supervisors / Schedule Officers support the Head Teacher and Teachers for the first monitoring (explaining questions, filling the statistics form, etc).
+
+#### Notice – Verification Officer/District Directorate (including District Director)
+
+The verification officer (Circuit Supervisors and Schedule Officers) should visit the schools that fall between 82 and 100 points (practicing efficiently inclusive education) to verify if what has been indicated is right. The verification officer should also ensure that elements relative to 1) screening with basic materials eg. Snellen charts and basic hearing equipment - Indicator # 15, 2) referral of children - Indicator # 17 and 3) orientation for the school and all teachers (at least every teacher has an idea of IE) - Indicator # 20 have been checked to enable a school fall within category 82-100 (because these needs were already provided for).
 
 ### 4.  Monitoring frequency
 
@@ -1654,10 +1624,6 @@ Inclusive Education and disability stakeholders / facilities are important  sour
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
-
-46
-
-INCLUSIVE EDUCATION POLICY
 
 children if they are referred to them. If this directory of linkages does not exist yet, it shall be created. It shall follow the format below:
 
@@ -1678,8 +1644,10 @@ This Policy has been developed by the Government of Ghana - Ministry of Educatio
 
 [[START OF PAGE 29]]
 
-48
-
 INCLUSIVE EDUCATION POLICY
+
+GOVERNMENT OF GHANA
+
+MINISTRY OF EDUCATION
 
 [[END OF PAGE 29]]
