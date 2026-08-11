@@ -12,6 +12,8 @@ REPRINTED AS ON 21st December, 2004
 
 ## INDEX
 
+PAGE
+
 The Constitution
 
 Cook Islands Constitution Act 1964 (N.Z.)
@@ -82,17 +84,16 @@ Constitution Amendment (No. 25) Act 2002
 
 Constitution Amendment (No. 26) Act 2003
 
-Constitution Amendment (N0. 27) Act 2004
+Constitution Amendment (No. 27) Act 2004
 
 This document is not an authorised consolidation, is prepared for convenience only, and should not be relied upon for legal advice.
 
 John McFadzien. 21 December 2004
-
-PAGE
-
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+2
 
 Constitution
 
@@ -100,109 +101,285 @@ Constitution
 
 ## ANALYSIS
 
-57.
+1. Interpretation
 
-Number of Judges
+PART I
+
+THE GOVERNMENT OF THE COOK ISLANDS
+
+2. The Head of State
+
+The Queen's Representative
+
+3. The Queen's Representative in the Cook Islands
+
+4. Oath of Office
+
+5. Queen's Representative to act on advice
+
+6. Information to Queen’s Representative
+
+7. Deputy to the Queen's Representative
+
+The House of Arikis of the Cook Islands
+
+8. The House of Arikis of the Cook Islands
+
+9. Functions of House of Arikis
+
+10. Members to take Oath of Allegiance
+
+11. Attendance of Prime Minister and other persons at House of Arikis
+
+11A. Procedure
+
+11B. Privileges of House of Arikis and its members
+
+PART II
+
+THE EXECUTIVE GOVERNMENT OF THE COOK ISLANDS
+
+12. Executive authority
+
+Cabinet
+
+13. Cabinet
+
+14. Duration of office
+
+15. Official Oath
+
+16. Assignment of responsibilities to Ministers
+
+17. Summoning of Cabinet
+
+18. Cabinet procedure
+
+19. When decision of Cabinet takes effect
+
+20. Secretary to the Cabinet
+
+21. One Minister may act for another
+
+The Executive Council
+
+22. Executive Council
+
+23. Clerk of the Executive Council
+
+24. Meetings of Executive Council
+
+25. Consideration of Cabinet decisions by Executive Council
+
+The Seal of the Cook Islands
+
+26. Seal of the Cook Islands
+
+PART III
+
+THE PARLIAMENT OF THE COOK ISLANDS
+
+27. The Parliament of the Cook Islands
+
+28. Qualification of Electors
+
+28A. Repealed
+
+28B. Qualification of candidates
+
+28C. Repealed
+
+28D. Repealed
+
+29. Meetings of Parliament
+
+30. Members to take oath of Allegiance
+
+31. The Speaker of Parliament
+
+32. Tenure of Office of Speaker
+
+33. Deputy Speaker
+
+34. Procedure
+
+35. Languages
+
+36. Privileges of Parliament and its members
+
+37. Prorogation and dissolution of Parliament
+
+38. Clerk of Parliament
+
+39. Power to make laws
+
+40. No property to be taken compulsorily without compensation
+
+41. Power of Legislative Assembly to repeal or amend this Constitution
+
+42. Introduction of Bills, etc. into Parliament
+
+43. Restrictions with regard to financial matters
+
+44. Assent to Bills by Queen's Representative
+
+45. Commencement of Acts
+
+46. New Zealand Parliament not to legislate for the Cook Islands
+
+PART IV
+
+THE JUDICIARY
+
+The High Court of the Cook Islands
+
+47. High Court established
+
+48. Jurisdiction of Divisions of the High Court
+
+49. Judges of the High Court
+
+50. Acting Chief Justice of the Cook Islands
+
+51. Acting Judge of the High Court
+
+Appointment, Tenure of Office and Salaries of Judges
+
+52. Appointment of Judges
+
+53. Tenure of office of Judges
+
+54. Removal of Judge from office
+
+55. Salaries of Judges
+
+56. Court of Appeal established
+
+57. Number of Judges
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-3
-
 Constitution
 
-75.
+3
 
-76.
+58. Judges not to sit on appeals from own decisions
 
-76A.
+59. Determination of Court of Appeal
 
-76B.
+60. Jurisdiction of Court of Appeal
 
-76C.
+61. Transmission of order of Court of Appeal
 
-76D.
+Justices of the Peace
 
-77.
+62. Justices of the Peace
 
-78.
+Oath of Allegiance and Judicial Oath
 
-79.
+63. Oath of Allegiance and Judicial Oath
 
-80.
+PART IVA
 
-Staff of Queen's Representative
+FUNDAMENTAL HUMAN RIGHTS AND FREEDOMS
 
-Board of Appeal
+64. Fundamental human rights and freedoms
+
+65. Construction of law
+
+66. Saving
+
+PART IVB
+
+CUSTOM
+
+66A. Custom
+
+PART V
+
+THE PUBLIC REVENUES OF THE COOK ISLANDS
+
+67. Public funds
+
+68. Restriction on taxation
+
+69. Public revenue
+
+70. Revenue and expenditure of Cook Islands Government Account
+
+71. Audit
+
+PART VI
+
+THE COOK ISLANDS PUBLIC SERVICE
+
+72. The Cook Islands Public Service
+
+73. Public Service Commissioner
+
+74. Term of office of the Public Service Commissioner
+
+74A. Removal from office of Public Service Commissioner
+
+74B. Exempted positions
+
+74C. Procedure of Public Service Commissioner
+
+75. Staff of Queen's Representative
+
+76. Board of Appeal
 
 PART VIA
 
 MISCELLANEOUS PROVISIONS
 
-Persons entitled to permanent residence
+76A. Persons entitled to permanent residence
 
-The Prerogative of Mercy and Pardon
+76B. The Prerogative of Mercy and Pardon
 
-The Cook Islands Ensign
+76C. The Cook Islands Ensign
 
-National Anthem of the Cook Islands
+76D. National Anthem of the Cook Islands
 
 PART VII
 
 TRANSITIONAL PROVISIONS
 
-Existing law to continue
+77. Existing law to continue
 
-Repealed
+78. Repealed
 
-Repealed
+79. Repealed
 
-Legislative Assembly of the Cook Islands
+80. Legislative Assembly of the Cook Islands
 
-- Ordinances of former Legislative Council or Legislative Assembly
+81. Ordinances of former Legislative Council or Legislative Assembly
 
-- The High Court
+82. The High Court
 
-83.
+83. The Land Court
 
-The Land Court
+84. Repealed
 
-- Repealed
+85. Repealed
 
-- Repealed
+86. Cook Islands Government Account
 
-86.
+87. Repealed
 
-Cook Islands Government Account
-
-87.
-
-88.
-
-Repealed
-
-Repealed
+88. Repealed
 
 SCHEDULES
 
-First  Schedule -  Names  and  Boundaries of Constituencies together comprising the Islands  of  Aitutaki,  Manuae  and  Te-AuO-Tu,  and  the  Islands  of  Rarotonga  and Palmerston  and  the  Islands  of  Mangaia, and the Island of Atiu
+First Schedule - Names and Boundaries of Constituencies together comprising the Islands of Aitutaki, Manuae and Te-Au-O-Tu, and the Islands of Rarotonga and Palmerston and the Islands of Mangaia, and the Island of Atiu
 
 Second Schedule - Crimes Disqualifying for Election to Parliament
 
-Third Schedule
+Third Schedule - The Cook Islands Ensign
 
-Ensign
-
-Fourth Schedule
-
-- The National Anthem
-
-of the Cook Islands
-
--
-
-The Cook Islands
+Fourth Schedule - The National Anthem of the Cook Islands
 
 [[END OF PAGE 3]]
 
@@ -222,7 +399,7 @@ We, the people of the Cook Islands, recognising the heritage of Christian princi
 
 The Preamble was inserted by section 2 of the Constitution Amendment (No. 20) Act 1997
 
-#### Interpretation -
+#### 1. Interpretation -
 (1) In this Constitution, unless the context otherwise requires,-
 
 "Act" means an Act of the [Parliament] of the Cook Islands;
@@ -237,7 +414,7 @@ The Preamble was inserted by section 2 of the Constitution Amendment (No. 20) Ac
 
 ["Court of Appeal" means the Court of Appeal of the Cook Islands established under this Constitution;]
 
-['Crown  Servant'  includes  any  person  who  is  an  employee  of  the  Crown,  or  a  director, member  or  employee  of  any  agency  of  the  Crown  or  any  statutory  or  other  body  or corporation  substantially  owned  or  controlled  by  the  Crown,  or  a  member  of  an  Island Council, but does not include a person who holds office by virtue of his being a member of Parliament;]
+["Crown Servant" includes any person who is an employee of the Crown, or a director, member or employee of any agency of the Crown or any statutory or other body or corporation substantially owned or controlled by the Crown, or a member of an Island Council, but does not include a person who holds office by virtue of his being a member of Parliament;]
 
 "Enactment" means any Act of the [Parliament] of the Cook Islands, any Ordinance, any Act  of  Parliament  of  New  Zealand  in  force  in  the  Cook  Islands,  and  any  Proclamation, order, regulation, or rule, or any Island Council Ordinance or bylaw;
 
@@ -245,7 +422,9 @@ The Preamble was inserted by section 2 of the Constitution Amendment (No. 20) Ac
 
 "Existing law" means any law in force in the Cook Islands immediately before Constitution Day; and includes any enactment passed or made before Constitution Day and coming into force on or after Constitution Day;
 
-"High Court" means the High Court of the Cook Islands established under this Constitution; [Judicial officer' means the Chief Justice or a Judge of the Court of Appeal or of the High Court, or a Justice of the Peace who acts in a judicial capacity;]
+"High Court" means the High Court of the Cook Islands established under this Constitution;
+
+["Judicial officer" means the Chief Justice or a Judge of the Court of Appeal or of the High Court, or a Justice of the Peace who acts in a judicial capacity;]
 
 "Law" means any law for the time being in force in the Cook  Islands;  and  includes  this Constitution and any enactment;
 
@@ -283,7 +462,7 @@ Constitution
 
 'Crown Servant'; This definition was inserted by section 2 of the Constitution Amendment No. 17 Act 1994-95
 
-"Enactment";  The  word  "Parliament"  was  substituted  for  the  words  "Legislative  Assembly"  by s.17(4) of the Constitution Amendment (No,9) Act 1980-81 (C.I.)
+"Enactment"; The word "Parliament" was substituted for the words "Legislative Assembly" by s.17(4) of the Constitution Amendment (No.9) Act 1980-81 (C.I.)
 
 "High  Commissioner";  A  definition  of  this  term  was  repealed  by  s.4(2)(a)  of  the  Constitution Amendment (No.10) Act 1981-82 (C.I.)
 
@@ -291,15 +470,17 @@ Constitution
 
 "Land  Appellate  Court";  A  definition  of  this  term  was  repealed  by  S.2(2)  of  the  Constitution Amendment (No.9) Act 1980-81 (C.I.)
 
-"Land  Court";  A  definition  of  this  term  was  repealed  by  s.2(2)  of  the  Constitution  Amendment (No.10) Act 1981-82 (C.I.)"Legislative Assembly" or "Assembly"; This definition was substituted by s.2(3) of the Constitution Amendment (No.9) Act 1980-81 (C.I.)
+"Land Court"; A definition of this term was repealed by s.2(2) of the Constitution Amendment (No.10) Act 1981-82 (C.I.)
 
-"Minister"; This definition was inserted by s.2(5) of the Constitution Amendment (No.9) Act 198081 (C.I.)
+"Legislative Assembly" or "Assembly"; This definition was substituted by s.2(3) of the Constitution Amendment (No.9) Act 1980-81 (C.I.)
+
+"Minister"; This definition was inserted by s.2(5) of the Constitution Amendment (No.9) Act 1980-81 (C.I.)
 
 "Prime Minister": This definition was inserted by s.2(6) of the Constitution Amendment (No.9) Act 1980-81 (C.I.)
 
 "Queen's  Representative";  This  definition  was  added  by  s.4(2)  of  the  Constitution  Amendment (No.10) Act 1980-81 (C.I.)
 
-"To reside"; This definition was inserted by s.2(7) of the Constitution Amendment (No.9) Act 198081 (C.I.) and deleted by section 2 of the Constitution Amendment (No. 26) Act 2003
+"To reside"; This definition was inserted by s.2(7) of the Constitution Amendment (No.9) Act 1980-81 (C.I.) and deleted by section 2 of the Constitution Amendment (No. 26) Act 2003
 
 [[END OF PAGE 5]]
 
@@ -311,31 +492,31 @@ Constitution
 
 ## PART I THE GOVERNMENT OF THE COOK ISLANDS
 
-#### The Head of State -
+#### 2. The Head of State -
 Her Majesty the Queen in right of New Zealand shall be the Head of State of the Cook Islands.
 
-#### [The Queen's Representative in the Cook Island s -
+#### [3. The Queen's Representative in the Cook Islands -
 (1) There shall be a representative of Her Majesty the Queen in the Cook Islands to be known as the Queen's Representative.
 
-- The Queen's Representative shall be appointed  by Her Majesty the Queen, and shall hold office for a period of three years, and may from time to time be reappointed.]
+(2) The Queen's Representative shall be appointed by Her Majesty the Queen, and shall hold office for a period of three years, and may from time to time be reappointed.]
 
 The heading preceding this Article was substituted for the heading "The High Commissioner of the Cook Islands" and this Article was substituted for the original Article 3 by s.2 of the Constitution Amendment (No.10) Act 1981-82 (C.I.)
 
-The term of office of Sir Apenera Short O.B.E. was validated for the period from 19 th December 1993  to  11 th October  1994  by  the  Constitution  Amendment  (No.  21)  Act  1997,  which  is  not reproduced in this reprint.
+The term of office of Sir Apenera Short O.B.E. was validated for the period from 19th December 1993 to 11th October 1994 by the Constitution Amendment (No. 21) Act 1997, which is not reproduced in this reprint.
 
-#### Oath of Office -
-The [Queen's Representative] shall before assumi ng the functions of his office, take and subscribe before the [Chief Justice] of the High Court the following oath:-
+#### 4. Oath of Office -
+The [Queen's Representative] shall before assuming the functions of his office, take and subscribe before the [Chief Justice] of the High Court the following oath:-
 
-I,.................., swear by Almighty God that I will be faithful and bear true allegiance to Her (or His) Majesty (Specify the name of the reigning Sovereign as thus: Queen Elizabeth the Second) as the Head of State of the Cook Islands, heirs and successors, according to law, and that I will uphold the dignity of the office of Queen's Representative, an d will justly and faithfully carry out my duties in the administration of the Cook Islands in accordance with the Constitution and the law. So help me God.
+I,.................., swear by Almighty God that I will be faithful and bear true allegiance to Her (or His) Majesty (Specify the name of the reigning Sovereign as thus: Queen Elizabeth the Second) as the Head of State of the Cook Islands, heirs and successors, according to law, and that I will uphold the dignity of the office of Queen's Representative, and will justly and faithfully carry out my duties in the administration of the Cook Islands in accordance with the Constitution and the law. So help me God.
 
 The words "Queen's Representative" were substituted for the words "High Commissioner" and also for the words "High Commissioner of the Cook Islands" by s.4(1) of the Constitution Amendment (No.10) Act 1981-82 (C.I.)
 
 The words "Chief Justice" were substituted for the words "Chief Judge" by s.2(a) of the Constitution Amendment (No.7) Act 1975 (C.I.)
 
-#### [Queen's  Representative]  to  act  on  advice   -
-(1)  Except  as  otherwise  provided  in  this Constitution, the [Queen's Representative] in the p erformance of his functions as the representative of  Her  Majesty  the  Queen  shall  act  on  the  advice  of  Cabinet,  the  [Prime  Minister],  or  the appropriate Minister, as the case may be.
+#### 5. [Queen's Representative] to act on advice -
+(1) Except as otherwise provided in this Constitution, the [Queen's Representative] in the performance of his functions as the representative of Her Majesty the Queen shall act on the advice of Cabinet, the [Prime Minister], or the appropriate Minister, as the case may be.
 
-- If the Cabinet, the [Prime Minister], or an appropriate Minister tenders advice to the [Queen's Representative as to the performanc e of any function as the representative] of Her Majesty the Queen and if the [Queen's Representativ e] does not, within 14 days after the date on which the tendering of that advice comes to his notice, accept that advice or take some other action in relation thereto which he is entitled to take under the provisions of this Constitution or any other law, the [Queen's Representative] shall be deemed t o have accepted that advice; and an instrument under the hand of the Secretary of the Cabinet, acting on the instruction of the [Prime Minister], to that effect shall operate as to the performance of the function concerned in accordance with that advice.
+(2) If the Cabinet, the [Prime Minister], or an appropriate Minister tenders advice to the [Queen's Representative as to the performance of any function as the representative] of Her Majesty the Queen and if the [Queen's Representative] does not, within 14 days after the date on which the tendering of that advice comes to his notice, accept that advice or take some other action in relation thereto which he is entitled to take under the provisions of this Constitution or any other law, the [Queen's Representative] shall be deemed to have accepted that advice; and an instrument under the hand of the Secretary of the Cabinet, acting on the instruction of the [Prime Minister], to that effect shall operate as to the performance of the function concerned in accordance with that advice.
 
 [[END OF PAGE 6]]
 
@@ -347,32 +528,32 @@ Constitution
 
 The words "Queen's Representative" were substituted for the words "High Commissioner" in the heading to this Article, in subcl.(1), and in three places in subcl.(2) by s.4(1) of the Constitution Amendment (No.10) Act 1981-82 (C.I.)
 
-The words "Prime Minister were substituted for the word "Premier" in subcl.(1) and in two places in subcl.(2) by s.3(3) of the Constitution Amendment (No.9) Act 1980-81 (C.I.)
+The words "Prime Minister" were substituted for the word "Premier" in subcl.(1) and in two places in subcl.(2) by s.3(3) of the Constitution Amendment (No.9) Act 1980-81 (C.I.)
 
-#### Information to [Queen's Representative]  -
+#### 6. Information to [Queen's Representative] -
 It shall be the duty of the [Prime Minister] -
 
 (a) To arrange for the circulation to the [Queen's Representative] of the copies of the agenda and minutes of Cabinet and all other papers laid before Cabinet at the time when they are circulated to Ministers; and
 
-(b) To furnish such information relating to the affairs of the Cook Islands and proposals for legislation as the [Queen's Repre sentative] may call for.
+(b) To furnish such information relating to the affairs of the Cook Islands and proposals for legislation as the [Queen's Representative] may call for.
 
 The words "Queen's Representative" were substituted for the words "High Commissioner" in the heading to this Article and in paras (a) and (b) s.4(1) of the Constitution Amendment (No.10) Act 1981-82 (C.I.)
 
 The words "Prime Minister" were substituted for the word "Premier" by s.3(3) of the Constitution Amendment (No.9) Act 1980-81 (C.I.)
 
-#### [7.      Deputy  of  the  Queen's  Representative   -
-(1)  Whenever  the  office  of  the  Queen's Representative is vacant or the holder of that office is absent from the Cook Islands or is for any reason  unable  to  perform  any  functions  conferred  on  him  by  law,  those  functions  shall  be performed by the Chief Justice of the Cook Islands, or, if the Chief Justice is also for any reason unable  to  act,  those  functions  shall  be  performed  by  the  Judge  of  the  High  Court  authorised  by Article 50 hereof to exercise the functions of the Chief Justice.
+#### [7. Deputy of the Queen's Representative -
+(1) Whenever the office of the Queen's Representative is vacant or the holder of that office is absent from the Cook Islands or is for any reason unable to perform any functions conferred on him by law, those functions shall be performed by the Chief Justice of the Cook Islands, or, if the Chief Justice is also for any reason unable to act, those functions shall be performed by the Judge of the High Court authorised by Article 50 hereof to exercise the functions of the Chief Justice.
 
-- Nothing  in  this  Article  shall  preclude  the  Queen's  Representative  from performing at any time when he is absent from the Cook Islands any of the functions conferred on him by law.
+(2) Nothing in this Article shall preclude the Queen's Representative from performing at any time when he is absent from the Cook Islands any of the functions conferred on him by law.
 
-- No  act  done  by  the  Chief Justice  of  the  Cook  Islands,  or  by  the  Judge  of  the High Court exercising the functions of the Chief Justice, in the performance of any function of the Queen's Representative shall be questioned or inval idated on the ground that the occasion therefor had not arisen or had ceased.]
+(3) No act done by the Chief Justice of the Cook Islands, or by the Judge of the High Court exercising the functions of the Chief Justice, in the performance of any function of the Queen's Representative shall be questioned or invalidated on the ground that the occasion therefor had not arisen or had ceased.]
 
 Article 7 was substituted by s.3 of the Constitution Amendment (No.10) Act 1981-82 (C.I.)
 
 ### The House of Arikis of the Cook Islands
 
-#### The House of Arikis of the Cook Islands -
-(1)  There shall be a House of Arikis of the Cook Islands (hereinafter referred to as the House of Arikis).
+#### 8. The House of Arikis of the Cook Islands -
+(1) There shall be a House of Arikis of the Cook Islands (hereinafter referred to as the House of Arikis).
 
 [(2)   The House of Arikis shall comprise the following members:-
 
@@ -404,21 +585,21 @@ Constitution
 
 (j) The six Arikis of the island of Rarotonga.]
 
-- Repealed by 2002 No. 8
+(3) Repealed by 2002 No. 8
 
-- Repealed by 2002 No. 8
+(4) Repealed by 2002 No. 8
 
-- If there are for the time being not more than the number of Arikis prescribed by law to be appointed as representing the group of islands comprising the Islands of Rarotonga and Palmerston, those Arikis shall be appointed to be members of the House of Arikis as representing that group; but, if there are more than the number so prescribed, the [Queen's Representative] shall appoint the Arikis for that group who are nominated for appointment in the manner prescribed by law.
+(5) If there are for the time being not more than the number of Arikis prescribed by law to be appointed as representing the group of islands comprising the Islands of Rarotonga and Palmerston, those Arikis shall be appointed to be members of the House of Arikis as representing that group; but, if there are more than the number so prescribed, the [Queen's Representative] shall appoint the Arikis for that group who are nominated for appointment in the manner prescribed by law.
 
-- Subject  to  the  provisions  of  this  Article,  the  qualifications  of  Arikis,  the qualification and disqualification of members of the House of Arikis, and the terms and conditions of their membership shall be as prescribed by law.
+(6) Subject to the provisions of this Article, the qualifications of Arikis, the qualification and disqualification of members of the House of Arikis, and the terms and conditions of their membership shall be as prescribed by law.
 
-- If  any  vacancy  occurs  in  the  office  of  a  member  of  the  House  of  Arikis,  the vacancy shall be filled in the same manner as an appointment to that office, and the appointee shall hold office for the unexpired portion of the term of office of his predecessor.
+(7) If any vacancy occurs in the office of a member of the House of Arikis, the vacancy shall be filled in the same manner as an appointment to that office, and the appointee shall hold office for the unexpired portion of the term of office of his predecessor.
 
-The  words  "Queen's  Representative"  were  substituted  for  the  words  "High  Commissioner"  in subclause (3), by s.4(1) of the Constitution Amendment (No.10) Act 1981-82 (C.I.) Subclause (2) was inserted and subclauses (3) and (4) repealed by section 2 of the Constitution
+The words "Queen's Representative" were substituted for the words "High Commissioner" in subclause (3), by s.4(1) of the Constitution Amendment (No.10) Act 1981-82 (C.I.)
 
-Amendment (No. 25) Act 2002.
+Subclause (2) was inserted and subclauses (3) and (4) repealed by section 2 of the Constitution Amendment (No. 25) Act 2002.
 
-#### Functions of House of Ariki -
+#### 9. Functions of House of Ariki -
 The House of Ariki shall have the following functions -
 
 (a) It shall consider such matters relative to the welfare of the people of the  Cook  Islands  as  may  be  submitted  to  it  by  [Parliament]  for  its consideration, and it shall express its opinion and make recommendations thereon to [Parliament]; and
@@ -427,17 +608,17 @@ The House of Ariki shall have the following functions -
 
 The word "Parliament" was substituted for the words "the Legislative Assembly" in para (a) (in two places) by s.6 of the Constitution Amendment (No.9) Act 1980-81 (C.I.)
 
-#### Members to take Oath of Allegiance -
+#### 10. Members to take Oath of Allegiance -
 Except for the purpose of enabling this Article to be complied with, no member of the House of Arikis shall be permitted to sit or vote therein until he has taken and subscribed the following oath before the [Queen's Representative] namely:
 
-- I, ..................., swear by Almighty God that I will be faithful and bear true allegiance to Her (or His) Majesty (Specify the name of the reigning Sovereign, as thus: Queen Elizabeth the Second)  as  the  Head  of  State  of  the  Cook  Islands  Her  (or  His)  heirs  and  successors, according to law, and that I will justly and faithfully carry out my duties as a member of the House of Arikis of the Cook Islands. So help me God.
+I, ..................., swear by Almighty God that I will be faithful and bear true allegiance to Her (or His) Majesty (Specify the name of the reigning Sovereign, as thus: Queen Elizabeth the Second) as the Head of State of the Cook Islands Her (or His) heirs and successors, according to law, and that I will justly and faithfully carry out my duties as a member of the House of Arikis of the Cook Islands. So help me God.
 
 The words "Queen's Representative" were substituted for the words "High Commissioner" by s.4(1) of the Constitution Amendment (No.10) Act 1981-82 (C.I.)
 
-#### Attendance of [Prime Minister] and other persons at House of Arikis -
+#### 11. Attendance of [Prime Minister] and other persons at House of Arikis -
 (1) The [Prime Minister] may, at any time, attend and address the House of Arikis.
 
-- A  Minister  or  a  person  appointed  in  that  behalf  by  a  Minister  may  attend  the proceedings of the House of Arikis when any matter for which the Minister is responsible is under consideration by the House.
+(2) A Minister or a person appointed in that behalf by a Minister may attend the proceedings of the House of Arikis when any matter for which the Minister is responsible is under consideration by the House.
 
 [[END OF PAGE 8]]
 
@@ -451,7 +632,7 @@ Constitution
 
 (4)    A  person  attending  the  proceedings  of  the  House  of  Arikis  by  virtue  of  the provisions  of  subclause  (2)  or  subclause  (3)  of  this  Article  shall  be  entitled  to  take  part  in  the proceedings  of  the  House  relating  to  the  matter  for  which  the  Minister  has  responsibility  or  in respect of which he was invited to attend, as the case may be, as if he were a member of the House: Provided that he shall not be entitled to vote in the House or any of its committees.
 
-The  words  "Prime  Minister"  were  substituted  for  the  word  "Premier"  in  the  heading  and  in subcl.(l) by s.3(3) of the Constitution Amendment (No.9) Act 1980-81 (C.I.)
+The words "Prime Minister" were substituted for the word "Premier" in the heading and in subcl.(1) by s.3(3) of the Constitution Amendment (No.9) Act 1980-81 (C.I.)
 
 The  word  "Parliament"  was  substituted  for  the  words  "the  Legislative  Assembly"  by  s.6  of  the Constitution Amendment (No.9) Act 1980-81 (C.I.).
 
@@ -472,8 +653,8 @@ Provided that the House of Arikis shall meet at least once in every period of 12
 
 (7) The House of Arikis shall not be disqualified for the transaction of any business by  reason  of  any  vacancy  among  its  members,  and  any  proceedings  therein  shall  be  valid notwithstanding  that  some  person  who  was  not  entitled  to  do  so  sat  or  voted  in  the  House  or otherwise took part in the proceedings.
 
-#### 1lB.  Privileges of House of Arikis and its members -
-Provision may be made by law for the application to the House of Arikis, its members and officers, persons entitled to speak therein, and persons publishing by or under the authority of the House any report, paper, vote, or proceeding of any  of  the  provisions  of  any  law  for  the  time  being  in  force  relating  to  the  privileges  and immunities of [Parliament],  its  members  and  officers,  persons  entitled  to  speak  therein,  and  any persons publishing by or under the authority of [Parliament] any report, paper, vote, or proceeding.
+#### 11B. Privileges of House of Arikis and its members -
+Provision may be made by law for the application to the House of Arikis, its members and officers, persons entitled to speak therein, and persons publishing by or under the authority of the House any report, paper, vote, or proceeding of any of the provisions of any law for the time being in force relating to the privileges and immunities of [Parliament], its members and officers, persons entitled to speak therein, and any persons publishing by or under the authority of [Parliament] any report, paper, vote, or proceeding.
 
 The word "Parliament" was substituted for the words "the Legislative Assembly" and also for the words "the Assembly" by  S.6 of the Constitution Amendment (No.9) Act 1980-81 (C.I.).
 
@@ -487,33 +668,33 @@ Constitution
 
 ## PART II THE EXECUTIVE GOVERNMENT OF THE COOK ISLANDS
 
-#### Executive authority -
+#### 12. Executive authority -
 (1) The executive authority of the Cook Islands shall be vested in Her Majesty the Queen in right of New Zealand.
 
-- Subject  to  the  provisions  of  this  Constitution,  the  executive  authority  of  the Cook Islands may be exercised on behalf of Her Majesty by the [Queen's Representative] either directly or through officers subordinate to him.
+(2) Subject to the provisions of this Constitution, the executive authority of the Cook Islands may be exercised on behalf of Her Majesty by the [Queen's Representative] either directly or through officers subordinate to him.
 
-- Nothing in this Article shall prevent [Parliament] from conferring functions on persons or authorities other than the [Queen's Repr esentative].
+(3) Nothing in this Article shall prevent [Parliament] from conferring functions on persons or authorities other than the [Queen's Representative].
 
-The words "Queen's Representative" were substituted for the words "High Commissioner" in subcls (2) and (3) by s.4(1) of the Constitution Amendment (No.10) Act 1981-82 (C.I.) The word "Parliament" was substituted for the words "the Legislative Assembly" in subcl.(3) by s.6
+The words "Queen's Representative" were substituted for the words "High Commissioner" in subcls (2) and (3) by s.4(1) of the Constitution Amendment (No.10) Act 1981-82 (C.I.)
 
-of the Constitution Amendment (No.9) Act 1980-81 (C.I.).
+The word "Parliament" was substituted for the words "the Legislative Assembly" in subcl.(3) by s.6 of the Constitution Amendment (No.9) Act 1980-81 (C.I.).
 
 ### Cabinet
 
-#### Cabinet -
+#### 13. Cabinet -
 [(1) There shall be a Cabinet of Ministers, comprising the Prime Minister of the Cook Islands (who shall preside over Cabinet) and not more than 6 other Ministers, which shall have the general direction and control of the executive government of the Cook Islands, and shall be collectively responsible to Parliament].
 
-- The [Prime Minister] shall be appointed as follows:
+(2) The [Prime Minister] shall be appointed as follows:
 
-(a) If the appointment is to be made while [Parliament] is in session, the [Queen's Representative] shall appoint as [Prime Mi nister] a member of  [Parliament]  who  commands the confidence  of a majority of the members of [Parliament].
+(a) If the appointment is to be made while [Parliament] is in session, the [Queen's Representative] shall appoint as [Prime Minister] a member of [Parliament] who commands the confidence of a majority of the members of [Parliament].
 
-(b) If the appointment is to be made while [Parliament] is not in session, the  [Queen's  Representative]  shall  appoint  as  [Prim e  Minister]  a member  of [Parliament] who  in the opinion of the [Queen's Representative],  acting  in  his  discretion,  is  likely  to  command  the confidence of a majority of the members of [Parliament].
+(b) If the appointment is to be made while [Parliament] is not in session, the [Queen's Representative] shall appoint as [Prime Minister] a member of [Parliament] who in the opinion of the [Queen's Representative], acting in his discretion, is likely to command the confidence of a majority of the members of [Parliament].
 
-(c) If the appointment is to be made after a dissolution of   [Parliament] and before the holding of a general election of [Parliament] following that dissolution, the [Queen's Representative] shal l appoint as [Prime Minister] a person who was a member of [Parliament] immediately before  that  dissolution  and  who  in  the  opinion  of  the  [Queen's Representative],  acting  in  his  discretion,  is  likely  to  command  the confidence  of  a  majority  of  the  persons  who  were  members  of [Parliament] immediately before that dissolution;
+(c) If the appointment is to be made after a dissolution of [Parliament] and before the holding of a general election of [Parliament] following that dissolution, the [Queen's Representative] shall appoint as [Prime Minister] a person who was a member of [Parliament] immediately before that dissolution and who in the opinion of the [Queen's Representative], acting in his discretion, is likely to command the confidence of a majority of the persons who were members of [Parliament] immediately before that dissolution;
 
-Provided that where [Parliament] has been dissolved pursuant to subclause (2) of Article 37 hereof, the  [Queen's  Representative]  shall  appoint  as  [Prim e  Minister]  a  person  who  was  a  member  of [Parliament]  immediately  before  that  dissolution  and  who  in  the  opinion  of  the  [Queen's Representative]  acting  in  his  discretion,  is  capable  of  performing  the  functions  of  the  [Prime Minister].
+Provided that where [Parliament] has been dissolved pursuant to subclause (2) of Article 37 hereof, the [Queen's Representative] shall appoint as [Prime Minister] a person who was a member of [Parliament] immediately before that dissolution and who in the opinion of the [Queen's Representative] acting in his discretion, is capable of performing the functions of the [Prime Minister].
 
-[(3)    Five  other  Ministers  other  than  the  Prime Minister  shall  be  appointed  by  the Queen's Representative on the advice of the Prime Minister. No person shall be so appointed under this subclause unless:
+[(3) Five other Ministers other than the Prime Minister shall be appointed by the Queen's Representative on the advice of the Prime Minister. No person shall be so appointed under this subclause unless:
 
 (a) that person is a member of Parliament; or
 
@@ -535,9 +716,9 @@ Constitution
 
 (b) be entitled to attend and address meetings of Parliament and any committee thereof as if he were a member but shall not be entitled to vote on any question before Parliament.]
 
-- Appointments under the provisions of this Article shall be made by instrument under the Seal of the Cook Islands.
+(4) Appointments under the provisions of this Article shall be made by instrument under the Seal of the Cook Islands.
 
-- If  any  employee  of  the  Cook  Islands  Public  Service  is  appointed  to  be  a Minister, he shall forthwith be deemed to have vacated his office as an employee of that Service.
+(5) If any employee of the Cook Islands Public Service is appointed to be a Minister, he shall forthwith be deemed to have vacated his office as an employee of that Service.
 
 Subclause (1) was substituted by section 2(a) of the Constitution Amendment (No. 23) Act 1999.
 
@@ -545,14 +726,18 @@ The words "Prime Minister" were substituted for the word "Premier" in  subcl. (2
 
 The word "Parliament" was substituted for the words, "the Legislative Assembly" in subcls (2) (in four  places),  and  also  for  the  words  "the  Assembly"  in  subcls  (2)  (in  eight  places)  by  s.6  of  the Constitution Amendment (No.9) Act 1980-81 (C.I.).
 
-The  words  "Queen's  Representative"  were  substituted  for  the  words  "High  Commissioner"  in subcls. (2) (in seven places) by s.4(1) of the Constitution Amendment (No.10) Act 1981-82 (C.I.). Subclause (3) was substituted by section 2(a)  of the Constitution Amendment (No. 23) Act 1999 Subclause 3A was inserted by section 2(b) of the Constitution Amendment (No. 23) Act 1999
+The words "Queen's Representative" were substituted for the words "High Commissioner" in subcls. (2) (in seven places) by s.4(1) of the Constitution Amendment (No.10) Act 1981-82 (C.I.).
 
-#### Duration of office of members of Cabinet -
-[(1) The appointment of the Prime Minister who is in office immediately before the date of the holding of a general election of Parliament may be terminated by the Queen's Representative after t he date of that election and before the date of the commencement of the first session of Parliament following that election if it appears to the Queen's Representative,  acting  in  his  discretion,  that  the  Prime  Minister  is  unlikely  to  command  the confidence of a majority of the members of Parliament.]
+Subclause (3) was substituted by section 2(a) of the Constitution Amendment (No. 23) Act 1999
 
-- Repealed by section 2(b) of the Constitution Amendment (No. 15) Act 1993.
+Subclause 3A was inserted by section 2(b) of the Constitution Amendment (No. 23) Act 1999
 
-- The  appointment  of  the  [Prime  Minister]  shall  also  be  terminated  by  the [Queen's Representative]:-
+#### 14. Duration of office of members of Cabinet -
+[(1) The appointment of the Prime Minister who is in office immediately before the date of the holding of a general election of Parliament may be terminated by the Queen's Representative after the date of that election and before the date of the commencement of the first session of Parliament following that election if it appears to the Queen's Representative, acting in his discretion, that the Prime Minister is unlikely to command the confidence of a majority of the members of Parliament.]
+
+(2) Repealed by section 2(b) of the Constitution Amendment (No. 15) Act 1993.
+
+(3) The appointment of the [Prime Minister] shall also be terminated by the [Queen's Representative]:-
 
 (a) If the [Prime Minister] ceases to be a member of [Parliament] for any reason other than the dissolution of [Parliament]; or
 
@@ -566,11 +751,11 @@ The  words  "Queen's  Representative"  were  substituted  for  the  words  "High
 
 Constitution
 
-Provided  that,  if  after  the  passing  of  such  motion  or  after  that  defeat  the  [Prime  Minister]  so requests, the [Queen's Representative], acting in h is discretion may dissolve [Parliament] instead of terminating the appointment of the [Prime Minister]; or
+Provided that, if after the passing of such motion or after that defeat the [Prime Minister] so requests, the [Queen's Representative], acting in his discretion may dissolve [Parliament] instead of terminating the appointment of the [Prime Minister]; or
 
-(c) If  the  [Prime  Minister]  resigns  his  office  by  writing  under  his  hand delivered to the [Queen's Representative]; or
+(c) If the [Prime Minister] resigns his office by writing under his hand delivered to the [Queen's Representative]; or
 
-(d) If  the  [Prime  Minister]  is  absent  from  the  Cook  Islands  otherwise than on official business for a period of more than 3 months without written authority given by the [Queen's Representat ive], acting in his discretion.
+(d) If the [Prime Minister] is absent from the Cook Islands otherwise than on official business for a period of more than 3 months without written authority given by the [Queen's Representative], acting in his discretion.
 
 [(4)  The office of any other Minister shall become vacant:-
 
@@ -584,11 +769,11 @@ Provided  that,  if  after  the  passing  of  such  motion  or  after  that  def
 
 (e) If the Minister resigns his office by writing under his hand delivered to the Queen's Representative.]
 
-(5)  Whenever, by reason of illness or of absence from the Cook Islands, the [Prime Minister] is temporarily prevented from performing, in the Cook Islands, the functions of his office, the  [Queen's  Representative]  may,  by  instrument  und er  the  Seal  of  the  Cook  Islands,  appoint another Minister to perform those functions until such time as the [Prime Minister] is capable of again performing them or has vacated his office.
+(5) Whenever, by reason of illness or of absence from the Cook Islands, the [Prime Minister] is temporarily prevented from performing, in the Cook Islands, the functions of his office, the [Queen's Representative] may, by instrument under the Seal of the Cook Islands, appoint another Minister to perform those functions until such time as the [Prime Minister] is capable of again performing them or has vacated his office.
 
-(6)    The  power  conferred on the [Queen's Represen tative] under the provisions of subclause  (5)  of  this  Article  shall  be  exercised  by  the  [Queen's  Representative],  acting  in  his discretion, if in his opinion it is impracticable to obtain the advice of the [Prime Minister] by reason of the illness or absence of the [Prime Minister], and, in any other case, shall be exercised by the [Queen's Representative], acting on the advice of t he [Prime Minister].
+(6) The power conferred on the [Queen's Representative] under the provisions of subclause (5) of this Article shall be exercised by the [Queen's Representative], acting in his discretion, if in his opinion it is impracticable to obtain the advice of the [Prime Minister] by reason of the illness or absence of the [Prime Minister], and, in any other case, shall be exercised by the [Queen's Representative], acting on the advice of the [Prime Minister].
 
-(7)  The [Queen's Representative], acting on the ad vice of the [Prime Minister], may, by instrument under the Seal of the Cook Islands:-
+(7) The [Queen's Representative], acting on the advice of the [Prime Minister], may, by instrument under the Seal of the Cook Islands:-
 
 (a) Declare a Minister to be by reason of illness temporarily incapable of performing his functions as a Minister; or
 
@@ -596,7 +781,11 @@ Provided  that,  if  after  the  passing  of  such  motion  or  after  that  def
 
 (8)  Any Minister in respect of whom action has been taken under the provisions of subclause  (7)  of  this  Article  shall  not  perform  any  of  the  functions  of  his  office  or  sit  in  or otherwise take part in the proceedings of Cabinet or of the Executive Council until the [Queen's Representative], acting on the advice of the [Prime Minister], has revoked the aforesaid instrument under the Seal of the Cook Islands.
 
-Subclause (1) was substituted by section 2(a) of the Constitution Amendment (No. 15) Act 1993. Subclause (2) was repealed by section 2(b) of the Constitution Amendment (No. 15) Act 1993. The words "Prime Minister" were substituted for the word "Premier" in subcl. (2) (in two places), (3) (in seven places),(4) (8) by s.3(3) of the Constitution Amendment (No.9) Act 1980-81 (C.I.).
+Subclause (1) was substituted by section 2(a) of the Constitution Amendment (No. 15) Act 1993.
+
+Subclause (2) was repealed by section 2(b) of the Constitution Amendment (No. 15) Act 1993.
+
+The words "Prime Minister" were substituted for the word "Premier" in subcl. (2) (in two places), (3) (in seven places), (4) - (8) by s.3(3) of the Constitution Amendment (No.9) Act 1980-81 (C.I.).
 
 [[END OF PAGE 12]]
 
@@ -612,37 +801,37 @@ The  words  "Queen's  Representative"  were  substituted  for  the  words  "High
 
 Subclause (4) was substituted by section 3 of the Constitution Amendment (No. 23) Act 1999.
 
-#### Official Oath -
-Every Minister shall, before assuming the functions of his office, take and subscribe before the [Queen's Representative] t he following oath:
+#### 15. Official Oath -
+Every Minister shall, before assuming the functions of his office, take and subscribe before the [Queen's Representative] the following oath:
 
-I,  ........,  being  chosen  and  accepted  as  [Prime  Minister]  (or  a  Minister)  and  member  of Cabinet swear by Almighty God that I will to the best of my judgement, at all times when thereto required, freely give my counsel and advice to the [Queen's Representative], for the good management of the affairs of the Cook Islands and that I will not directly or indirectly reveal such matters as shall be debated in Cabinet and committee and in Executive Council and committed to my secrecy, but that I will in any such things be a true and faithful [Prime Minister] (or Minister). So help me God.
+I, ........, being chosen and accepted as [Prime Minister] (or a Minister) and member of Cabinet swear by Almighty God that I will to the best of my judgement, at all times when thereto required, freely give my counsel and advice to the [Queen's Representative], for the good management of the affairs of the Cook Islands and that I will not directly or indirectly reveal such matters as shall be debated in Cabinet and committee and in Executive Council and committed to my secrecy, but that I will in any such things be a true and faithful [Prime Minister] (or Minister). So help me God.
 
-The  words  "Prime  Minister"  were  substituted  for  the  word  "Premier"  in  subcls.  (1)  and  (2)  by s.3(3) of the Constitution Amendment (No.9) Act 1980-8l(C.I.).
+The words "Prime Minister" were substituted for the word "Premier" in subcls. (1) and (2) by s.3(3) of the Constitution Amendment (No.9) Act 1980-81(C.I.).
 
-#### Assignment of responsibilities to Ministers -
+#### 16. Assignment of responsibilities to Ministers -
 (1) The [Prime Minister] may, by direction in writing under his hand:-
 
-(a) Charge  any  Minister  with  the  responsibility  for  any  Department  or subject; and
+(a) Charge any Minister with the responsibility for any Department or subject; and
 
-(b) Revoke  or  vary  any  direction  given  under  the  provisions  of  this subclause.
+(b) Revoke or vary any direction given under the provisions of this subclause.
 
-- The [Prime Minister] may retain in his charge any Department or subject.
+(2) The [Prime Minister] may retain in his charge any Department or subject.
 
 The words "Prime Minister" were substituted for the word "Premier" (in two places) by s.3(3) of the Constitution Amendment (No.9) Act 1980-81) (C.I.).
 
 For the manner in which the Attorney-General is appointed, see the Crown Law Office Act 1980.
 
-#### Summoning of Cabinet -
+#### 17. Summoning of Cabinet -
 Cabinet shall be summoned only by the [Prime Minister], or in his absence, by such Minister as the [Prime Minister] appoints in that behalf.
 
 The words "Prime Minister" were substituted for the word "Premier" (in two places) by s.3(3) of the Constitution Amendment (No.9) Act 1980-81) (C.I.).
 
-#### Cabinet  procedure  -
-(1)  Subject  to  the  provisions  of  this  Constitution,  Cabinet  may regulate its procedure (including the fixing of a quorum) in such manner as it things fit.
+#### 18. Cabinet procedure -
+(1) Subject to the provisions of this Constitution, Cabinet may regulate its procedure (including the fixing of a quorum) in such manner as it thinks fit.
 
-- Cabinet shall not be disqualified for the transaction of business by reason of any vacancy  in the number  of  its members,  and  any  proceedings  of Cabinet shall be valid notwithstanding that some person who was not entitled to do so sat or voted in Cabinet or otherwise took part in the proceedings.
+(2) Cabinet shall not be disqualified for the transaction of business by reason of any vacancy in the number of its members, and any proceedings of Cabinet shall be valid notwithstanding that some person who was not entitled to do so sat or voted in Cabinet or otherwise took part in the proceedings.
 
-- It  shall  be  the  duty  of  the  [Prime  Minister],  if  the  [Queen's  Representative], acting in his discretion, so requires, to submit for the consideration of Cabinet any matter on which
+(3) It shall be the duty of the [Prime Minister], if the [Queen's Representative], acting in his discretion, so requires, to submit for the consideration of Cabinet any matter on which
 
 [[END OF PAGE 13]]
 
@@ -654,37 +843,37 @@ Constitution
 
 a decision has been taken by a Minister (including the [Prime Minister]) but which has not been considered by Cabinet.
 
-- A decision of Cabinet shall be recorded in minutes, which shall, under the hand of the Secretary of the Cabinet, be communicated to the [Queen's Representative) within 48 hours of the making of the decision or, if the decision is one to which paragraph (c) of subclause (1) of Article 19 hereof applies, within 24 hours of the making of the decision.
+(4) A decision of Cabinet shall be recorded in minutes, which shall, under the hand of the Secretary of the Cabinet, be communicated to the [Queen's Representative] within 48 hours of the making of the decision or, if the decision is one to which paragraph (c) of subclause (1) of Article 19 hereof applies, within 24 hours of the making of the decision.
 
-- A decision of Cabinet shall not take effect except under the provisions of Article 19 hereof.
+(5) A decision of Cabinet shall not take effect except under the provisions of Article 19 hereof.
 
 The words "Prime Minister" were substituted for the word "Premier" (in two places) by s.3(3) of the Constitution Amendment (No.9) Act 1980-81) (C.I.).
 
 The  words  "Queen's  Representative"  were  substituted  for  the  words  "High  Commissioner"  in subcls. (3) and (4) by s.4(1) of the Constitution Amendment (No.10) Act 1981-82 (C.I.).
 
-#### When decision of Cabinet takes effect -
+#### 19. When decision of Cabinet takes effect -
 (1) A decision of Cabinet shall take effect:-
 
-(a) On its approval by the [Queen's Representative ], acting in his discretion; or
+(a) On its approval by the [Queen's Representative], acting in his discretion; or
 
-(b) On the expiry of 4 days after the date of the decision, unless a meeting  of  the  Executive  Council  is  sooner  held  under  the provisions of Article 25 hereof; or
+(b) On the expiry of 4 days after the date of the decision, unless a meeting of the Executive Council is sooner held under the provisions of Article 25 hereof; or
 
-(c) If  the  issue  involved  in  the  decision  is,  in  the  opinion  of Cabinet, of extreme urgency, on the expiry of 2 days after the date  of  the  decision,  unless  a  meeting  of  the  Executive Council  is  sooner  held  under  the  provisions  of  Article  25 hereof; or
+(c) If the issue involved in the decision is, in the opinion of Cabinet, of extreme urgency, on the expiry of 2 days after the date of the decision, unless a meeting of the Executive Council is sooner held under the provisions of Article 25 hereof; or
 
 (d) Under the provisions of Article 25 hereof.
 
-- For the purposes of paragraphs (b) and (c) of subclause (1) of this Article, the date  of  a  decision  of  Cabinet  shall  be  the  date  on  which  the  minutes  in  which  the  decision  is recorded are communicated to the [Queen's Represent ative] under the provisions of subclause (4) of Article 18 hereof.
+(2) For the purposes of paragraphs (b) and (c) of subclause (1) of this Article, the date of a decision of Cabinet shall be the date on which the minutes in which the decision is recorded are communicated to the [Queen's Representative] under the provisions of subclause (4) of Article 18 hereof.
 
-- An instrument under the hand of the Secretary of the Cabinet certifying that a decision of Cabinet has taken effect shall be conclusive evidence that that decision has taken effect.
+(3) An instrument under the hand of the Secretary of the Cabinet certifying that a decision of Cabinet has taken effect shall be conclusive evidence that that decision has taken effect.
 
-The  words  "Queen's  Representative"  were  substituted  for  the  words  "High  Commissioner"  in subcls.(l) and (2) by s.4(1) of the Constitution Amendment (No.10) Act 1981-82 (C.I.)
+The words "Queen's Representative" were substituted for the words "High Commissioner" in subcls.(1) and (2) by s.4(1) of the Constitution Amendment (No.10) Act 1981-82 (C.I.)
 
 #### [20.    Secretary  to  the  Cabinet  -
 There  shall  be  a  Secretary  to  the  Cabinet,  who  shall  be appointed in such manner as shall be prescribed by Act.]
 
 Article 20 was substituted (in substitution for that inserted by s.4 of the Constitution Amendment (No.9) Act 1980-81) by s. 3 of the Constitution Amendment No.17 Act 1994-95
 
-#### One Minister may act for another -
+#### 21. One Minister may act for another -
 In this Constitution and in every enactment, unless the context otherwise requires, words directing or empowering any Minister to do any act or thing, or otherwise applying to him by his title of office, include any other Minister acting for, or, if the office is vacant, in the place of that first-mentioned Minister, and also his successors in that office.
 
 [[END OF PAGE 14]]
@@ -697,39 +886,39 @@ Constitution
 
 ### The Executive Council
 
-#### Executive Council -
+#### 22. Executive Council -
 (1) There shall be an Executive Council of the Cook Islands, which shall consist of:-
 
 (a) The [Queen's Representative]; and
 
 (b) The members of Cabinet.
 
-- No business shall be transacted at any meeting of the Executive Council unless there are present the [Queen's Representative] and at least 3 members of Cabinet or, if there are for the time being only 4 members of Cabinet, unless there are present the [Queen's Representative] and at least 2 members of Cabinet.
+(2) No business shall be transacted at any meeting of the Executive Council unless there are present the [Queen's Representative] and at least 3 members of Cabinet or, if there are for the time being only 4 members of Cabinet, unless there are present the [Queen's Representative] and at least 2 members of Cabinet.
 
-- Subject  to  the  provisions  of  this  Constitution,  the  Executive  Council  may regulate its procedure in such manner as it thinks fit.
+(3) Subject to the provisions of this Constitution, the Executive Council may regulate its procedure in such manner as it thinks fit.
 
-The  words  "Queen's  Representative"  were  substituted  for  the  words  "High  Commissioner"  in subcls(l)  and  (2)  (in  two  places)  by  s.4(1)  of  the  Constitution  Amendment  (No.10)  Act  1981-82 (C.I.)
+The words "Queen's Representative" were substituted for the words "High Commissioner" in subcls(1) and (2) (in two places) by s.4(1) of the Constitution Amendment (No.10) Act 1981-82 (C.I.)
 
-#### Clerk of the Executive Council -
+#### 23. Clerk of the Executive Council -
 The Secretary to the Cabinet shall also be the Clerk of the Executive Council.
 
-#### Meetings of Executive Council -
-The Executive Council shall be summoned only by the [Queen's Representative], acting in his discretion,  or by the [Prime Minister].
+#### 24. Meetings of Executive Council -
+The Executive Council shall be summoned only by the [Queen's Representative], acting in his discretion, or by the [Prime Minister].
 
 The  words  "Queen's  Representative"  were  substituted  for  the  words  "High  Commissioner"  in subcl.(3) by s.4(1) of the Constitution Amendment (No.10) Act 1981-82 (C.I.).
 
 The words "Prime Minister" were substituted for the word "Premier" by s.3(3) of the Constitution Amendment (No.9) Act 1980-81 (C.I.).
 
-#### Consideration  of  Cabinet  decisions  by  Executive  Council  -
-(1)  A  meeting  of  the Executive Council may be summoned to consider any decision recorded in the minutes of a Cabinet meeting.
+#### 25. Consideration of Cabinet decisions by Executive Council -
+(1) A meeting of the Executive Council may be summoned to consider any decision recorded in the minutes of a Cabinet meeting.
 
-- If  at  a  meeting  of  the  Executive  Council  thus  summoned  the  [Queen's Representative], acting in his discretion, concurs in the decision concerned, that decision shall take effect as a decision of Cabinet.
+(2) If at a meeting of the Executive Council thus summoned the [Queen's Representative], acting in his discretion, concurs in the decision concerned, that decision shall take effect as a decision of Cabinet.
 
-- If  at  a  meeting  of  the  Executive  Council  thus  summoned  the  [Queen's Representative], acting in his discretion, does not concur in the decision concerned or requests any amendment  thereto,  Cabinet  shall  thereupon  be  summoned  under  the  provisions  of  Article  17 hereof and requested to reconsider that decision.
+(3) If at a meeting of the Executive Council thus summoned the [Queen's Representative], acting in his discretion, does not concur in the decision concerned or requests any amendment thereto, Cabinet shall thereupon be summoned under the provisions of Article 17 hereof and requested to reconsider that decision.
 
-- If Cabinet after that reconsideration reaffirms its original decision or accepts the amendment requested by the [Queen's Representative] , the original decision or the decision as so amended, as the case may be, shall forthwith take effect as a decision of Cabinet.
+(4) If Cabinet after that reconsideration reaffirms its original decision or accepts the amendment requested by the [Queen's Representative], the original decision or the decision as so amended, as the case may be, shall forthwith take effect as a decision of Cabinet.
 
-- If  Cabinet,  after  the  reconsideration  adopts  a  decision  which  incorporates  an amendment  to  its  original  decision,  other  than  an  amendment  requested  by  the  [Queen's Representative], the decision as so amended shall operate as a new decision of Cabinet to which the provisions of subclauses (4) and (5) of Article 18 hereof shall apply.
+(5) If Cabinet, after the reconsideration adopts a decision which incorporates an amendment to its original decision, other than an amendment requested by the [Queen's Representative], the decision as so amended shall operate as a new decision of Cabinet to which the provisions of subclauses (4) and (5) of Article 18 hereof shall apply.
 
 The words "Queen's Representative" were substituted for the words "High Commissioner" in subcls (2), (3), (4) and (5) by s.4(1) of the Constitution Amendment (No.10) Act 1981-82 (C.I.)
 ### The Seal of the Cook Islands
@@ -742,14 +931,14 @@ The words "Queen's Representative" were substituted for the words "High Commissi
 
 Constitution
 
-#### Seal of the Cook Islands -
-(1) There shall be a Public Seal of the Cook Islands (in the Constitution  referred  to  as  the  Seal  of  the  Cook  Islands),  to  be  in  such  form  or  forms  as  the Executive Council from time to time approves.
+#### 26. Seal of the Cook Islands -
+(1) There shall be a Public Seal of the Cook Islands (in the Constitution referred to as the Seal of the Cook Islands), to be in such form or forms as the Executive Council from time to time approves.
 
-- The Seal shall be in the custody of the [Queen's Representative].
+(2) The Seal shall be in the custody of the [Queen's Representative].
 
-- The Seal may be used by the [Queen's Represen tative] for the authentication of any public document in relation to the government of the Cook Islands or for the execution of any document required by law to be executed under the Seal of the Cook Islands.
+(3) The Seal may be used by the [Queen's Representative] for the authentication of any public document in relation to the government of the Cook Islands or for the execution of any document required by law to be executed under the Seal of the Cook Islands.
 
-- Judicial notice shall be taken of the Seal in all Courts in the Cook Islands and in New Zealand (including Niue and the Tokelau Islands).
+(4) Judicial notice shall be taken of the Seal in all Courts in the Cook Islands and in New Zealand (including Niue and the Tokelau Islands).
 
 The words "Queen's Representative" were substituted for the words "High Commissioner" in subcls (2) and (3) by s.4(1) of the Constitution Amendment (No.10) Act 1981-82 (C.I.).
 
@@ -760,7 +949,7 @@ The words "Queen's Representative" were substituted for the words "High Commissi
 
 [(2) Parliament shall consist of [24] members, to be elected by secret ballot under a system of universal suffrage by the electors of the following islands or groups of islands or areas and in the following numbers:-]
 
-(a) The Island of Aitutaki and the Islands of Manuae and Te-Au-0-Tu, 3 members, being 1 member for each of the 3 constituencies together comprising those islands, having the names and boundaries set out in Part I of the First Schedule to this Constitution;
+(a) The Island of Aitutaki and the Islands of Manuae and Te-Au-O-Tu, 3 members, being 1 member for each of the 3 constituencies together comprising those islands, having the names and boundaries set out in Part I of the First Schedule to this Constitution;
 
 (b) The  Island  of  Atiu,  2  members,  being  1  member  for  each  of  the  2 constituencies  having  the  names  and  boundaries  set  out  in  Part  IV  of  the  First  Schedule  to  this Constitution;
 
@@ -796,36 +985,38 @@ Constitution
 
 17
 
-In subsection (2), paragraph (k) was deleted by s.2, Constitution Amendment (No. 26) Act 2003 Paragraph (j) of subclause (2) was substituted by section 3(2) of the Constitution Amendment (No. 14) Act 1991.
+In subsection (2), paragraph (k) was deleted by s.2, Constitution Amendment (No. 26) Act 2003
+
+Paragraph (j) of subclause (2) was substituted by section 3(2) of the Constitution Amendment (No. 14) Act 1991.
 
 In  subsection  (3),  the  words  '28A,  28B,  28C  and  28D'  were  deleted  and  '28B'  substituted  by section 3(a) of the Constitution Amendment (No. 26) Act 2003.
 
-#### [28.    Qualification  of  electors  -
-(1)  No  person  shall  be  qualified  to  be  an  elector  for  the election of a Member of  Parliament, unless -
+#### [28. Qualification of electors -
+(1) No person shall be qualified to be an elector for the election of a Member of Parliament, unless -
 
 (a) The person is a Cook Islander (as defined in an Act prescribing the qualifications of electors), a New Zealand citizen or has the status of a permanent resident of the Cook Islands (as provided for by Article 76A); and
 
 (b) The person has at some time resided continuously in the Cook Islands for a period of not less than 12 months.
 
-- A person who meets the qualifications imposed by subclause (1) (or re-qualifies under  subclause  (3))  is  disqualified  from  being  an  elector  for  the  election  of  a  member  of Parliament if the person is subsequently absent from the Cook Islands for a continuous period of 3 months or more.
+(2) A person who meets the qualifications imposed by subclause (1) (or re-qualifies under subclause (3)) is disqualified from being an elector for the election of a member of Parliament if the person is subsequently absent from the Cook Islands for a continuous period of 3 months or more.
 
-- A person disqualified under subsection (2) shall re-qualify to be an elector for the election of a member of Parliament if the person returns to the Cook Islands and at any time thereafter remains in the Cook Islands for a continuous period of not less than 3 months.
+(3) A person disqualified under subsection (2) shall re-qualify to be an elector for the election of a member of Parliament if the person returns to the Cook Islands and at any time thereafter remains in the Cook Islands for a continuous period of not less than 3 months.
 
-- The following shall not be regarded or treated as a period of absence from the Cook Islands for the purposes of subclause (2) -
+(4) The following shall not be regarded or treated as a period of absence from the Cook Islands for the purposes of subclause (2) -
 
-(a) Any  continuous  period  not  exceeding  4  years  spent  by  a  person outside the Cook Islands for the purpose of -
+(a) Any continuous period not exceeding 4 years spent by a person outside the Cook Islands for the purpose of -
 
-(i) receiving  education,  technical  training,  or  technical instruction; or
+(i) receiving education, technical training, or technical instruction; or
 
 (ii) receiving medical treatment;
 
 (b) Any period spent by a person outside the Cook Islands as -
 
-(i) a  member  of  a  Cook  Islands  diplomatic  or  consular mission; or
+(i) a member of a Cook Islands diplomatic or consular mission; or
 
-(ii) a  spouse,  partner,  or  member  of  the  household  of  a person referred to in subparagraph (i) of this paragraph.
+(ii) a spouse, partner, or member of the household of a person referred to in subparagraph (i) of this paragraph.
 
-- Nothing in this Article limits the provisions of any law prescribing additional qualifications  to  be  (or  additional  disqualifications  from  being)  an  elector  for  the  election  of  a member  of  Parliament,  insofar  as  the  law  is not inconsistent with  any  provision  of  this Constitution.]
+(5) Nothing in this Article limits the provisions of any law prescribing additional qualifications to be (or additional disqualifications from being) an elector for the election of a member of Parliament, insofar as the law is not inconsistent with any provision of this Constitution.]
 
 Article 28 was substituted for the former Article 28 by section 4 of the Constitution Amendment (No.26) Act 2003.
 
@@ -853,7 +1044,7 @@ Constitution
 
 [(e) He is a Crown servant or a judicial officer.]
 
-- Subject to subclause (1) of this Article:-
+(2) Subject to subclause (1) of this Article:-
 
 (a) Every  person  enrolled  as  an  elector  of  any  constituency  shall  be capable of being elected as a member for that constituency or for any other constituency;
 
@@ -875,10 +1066,10 @@ by s.5, Constitution Amendment (No. 26) Act 2003
 #### [28D. Repealed
 by s.5, Constitution Amendment (No. 26) Act 2003
 
-#### Meetings of Parliament -
-(1) Parliament shall meet at such places and at such times as the [[Queen's Representative] from time to time app oints in that behalf:- Provided that Parliament shall meet not later than 90 days after the holding of a general election and at least once in every year  thereafter,  so  that  a  period  of  12  months  shall  not  intervene  between  the  last  sitting  of Parliament in one session and the first sitting thereof in the next session.
+#### 29. Meetings of Parliament -
+(1) Parliament shall meet at such places and at such times as the [[Queen's Representative] from time to time appoints in that behalf:- Provided that Parliament shall meet not later than 90 days after the holding of a general election and at least once in every year thereafter, so that a period of 12 months shall not intervene between the last sitting of Parliament in one session and the first sitting thereof in the next session.
 
-- Notwithstanding anything contained in subclause (1) of this Article, Parliament shall not meet after the holding of a general election until all election petitions filed in the High
+(2) Notwithstanding anything contained in subclause (1) of this Article, Parliament shall not meet after the holding of a general election until all election petitions filed in the High
 
 [[END OF PAGE 18]]
 
@@ -890,44 +1081,42 @@ Constitution
 
 Court in respect of that election have been finally determined [[by the High Court at first instance or have been withdrawn or dismissed for want of prosecution]].
 
-The  words  "Queen's  Representative"  were  substituted  for  the  words  "High  Commissioner"  in subcl.(l) by s.4(1) of the Constitution Amendment (No.10) Act 1981-82 (C.I)).
+The words "Queen's Representative" were substituted for the words "High Commissioner" in subcl.(1) by s.4(1) of the Constitution Amendment (No.10) Act 1981-82 (C.I)).
 
 The words in double square brackets in subcl.(2) were added by s.3 of the Constitution Amendment (No.11) Act 1982 (C.I.).
 
-#### [30.  Members to take Oath of Allegiance -
-Except for the purposes of enabling this Article to be complied with and for the election of a Speaker, no member of Parliament shall be permitted to  sit  or  vote  therein  until  he  has  taken  and  subscribed  the  following  oath  before  the  Speaker  of Parliament namely:
+#### [30. Members to take Oath of Allegiance -
+Except for the purposes of enabling this Article to be complied with and for the election of a Speaker, no member of Parliament shall be permitted to sit or vote therein until he has taken and subscribed the following oath before the Speaker of Parliament namely:
 
-I,.......................,  swear by  Almighty God that I will be faithful and bear true allegiance to Her (or His) Majesty (Specify the name of the reigning Sovereign, as thus: Queen Elizabeth the Second) as the Head of State of the Cook Islands, Her (or His) heirs and successors, according to law and that I will justly and faithfully carry out my duties as a member of Parliament of the Cook Islands. So help me God.
+I,......................., swear by Almighty God that I will be faithful and bear true allegiance to Her (or His) Majesty (Specify the name of the reigning Sovereign, as thus: Queen Elizabeth the Second) as the Head of State of the Cook Islands, Her (or His) heirs and successors, according to law and that I will justly and faithfully carry out my duties as a member of Parliament of the Cook Islands. So help me God.
 
-#### [31.  The Speaker of Parliament -
-(1) Parliament shall, immediately when it first meets after a  general  election  and  as  soon  as  possible  after  any  vacancy  occurs  in  the  office  of  Speaker otherwise than by reason of a dissolution of Parliament, and before it proceeds to the dispatch of any other business, elect a person (not being a Minister) to be Speaker of Parliament.
+#### [31. The Speaker of Parliament -
+(1) Parliament shall, immediately when it first meets after a general election and as soon as possible after any vacancy occurs in the office of Speaker otherwise than by reason of a dissolution of Parliament, and before it proceeds to the dispatch of any other business, elect a person (not being a Minister) to be Speaker of Parliament.
 
-[(2) The person who shall be elected Speaker of Parliament and no other, shall be the  person  nominated  by  the  Prime  Minister  or,  if  there  is  no  Prime  Minister,  the  member  of Parliament who commands or is likely to command the confidence of a majority of the members of Parliament.
+[(2) The person who shall be elected Speaker of Parliament and no other, shall be the person nominated by the Prime Minister or, if there is no Prime Minister, the member of Parliament who commands or is likely to command the confidence of a majority of the members of Parliament.
 
 (2A) The person nominated under subclause (2) may be either -
 
 (a) a member of Parliament who is not a Minister; or
 
-(b) a  person  who  is  not  a  Member  of  Parliament  if  that  person  is qualified to be a member of Parliament.]
+(b) a person who is not a Member of Parliament if that person is qualified to be a member of Parliament.]
 
-- Before  a  person  who  has  been  elected  Speaker  enters  upon  the  duties  of  his office,  he  shall,  unless  he  has  already  done  so  in  accordance  with  Article  30  hereof,  take  and subscribe before the [[Queen's Representative]] the  Oath of Allegiance prescribed in that Article substituting the word "Speaker" for the words "a member" where they appear in that oath.
+(3) Before a person who has been elected Speaker enters upon the duties of his office, he shall, unless he has already done so in accordance with Article 30 hereof, take and subscribe before the [[Queen's Representative]] the Oath of Allegiance prescribed in that Article substituting the word "Speaker" for the words "a member" where they appear in that oath.
 
-- The  salary  of  the  Speaker  shall  be  determined  by  enactment,  and  shall  be charged on the Cook Islands Government Account.
+(4) The salary of the Speaker shall be determined by enactment, and shall be charged on the Cook Islands Government Account.
 
 Subclauses (2) and (2A) were substituted and inserted respectively by section 2 of the Constitution Amendment (No. 24) Act 2001
 
 The  words  "Queen's  Representative"  were  substituted  for  the  words  "High  Commissioner"  in subcl.(3) by s.4(1) of the Constitution Amendment (No.10) Act 1981-82 (C.I.).
 
-#### [32.  Tenure of office of Speaker -
+#### [32. Tenure of office of Speaker -
 The Speaker may at any time resign his office by writing under his hand addressed to the Clerk of Parliament, and shall vacate his office -
 
-(a) On the dissolution of Parliament next following his election;
-
-or
+(a) On the dissolution of Parliament next following his election; or
 
 (b) If he becomes a Minister; or
 
-(c) If,  being a member of Parliament at the time of his election, he ceases to be a member; or
+(c) If, being a member of Parliament at the time of his election, he ceases to be a member; or
 
 [[END OF PAGE 19]]
 
@@ -937,20 +1126,18 @@ or
 
 Constitution
 
-or
+(d) If, not being a member of Parliament at the time of his election, he ceases to be qualified for election as a member; or
 
-(d) If,  not  being  a  member  of  Parliament  at  the  time  of  his election, he ceases to be qualified for election as a member; or
-
-[(e) If Parliament passes a resolution supported by the votes of not less  than  a  majority  of  all  members  (including  vacancies) requiring the Speaker's removal from office.]
+[(e) If Parliament passes a resolution supported by the votes of not less than a majority of all members (including vacancies) requiring the Speaker's removal from office.]
 
 Paragraph (e) was substituted by section 3 of the Constitution Amendment (No. 24) Act 2001
 
-#### [33.    Deputy  Speaker  -
-(1)  Parliament  may  elect  a  member  of  Parliament,  not  being  the Speaker or a Minister, to be Deputy Speaker.
+#### [33. Deputy Speaker -
+(1) Parliament may elect a member of Parliament, not being the Speaker or a Minister, to be Deputy Speaker.
 
 (2) The Deputy Speaker may at any time resign his office by writing under his hand addressed to the Clerk of Parliament, and shall vacate his office -
 
-(a) On the dissolution of Parliament next following his election;
+(a) On the dissolution of Parliament next following his election; or
 
 (b) If he ceases to be a member of Parliament; or
 
@@ -960,26 +1147,26 @@ Paragraph (e) was substituted by section 3 of the Constitution Amendment (No. 24
 
 [(e) If Parliament passes a resolution supported by the votes of not less than a majority of all the members (including vacancies) requiring the Speaker's removal from office.]
 
-- Subject  to  the  provisions  of  this  Constitution  and  of  the  Standing  Orders  of Parliament, the functions conferred by this Constitution or those Standing Orders upon the Speaker shall, if there is no person holding the office of Speaker or if the Speaker is absent from the Cook Islands or is otherwise unable to perform those functions, be performed by the Deputy Speaker.
+(3) Subject to the provisions of this Constitution and of the Standing Orders of Parliament, the functions conferred by this Constitution or those Standing Orders upon the Speaker shall, if there is no person holding the office of Speaker or if the Speaker is absent from the Cook Islands or is otherwise unable to perform those functions, be performed by the Deputy Speaker.
 
 Paragraph (e) of subclause (2) was inserted by section 4 of the Constitution Amendment (No. 24) Act 2001
 
-#### [34.  Procedure -
-(1) The Speaker, or in his absence the Deputy Speaker, shall preside over sittings of Parliament. In the absence from any sitting of both the Speaker and Deputy Speaker, the members  present  shall  choose  one  of  their  number  (not  being  a  Minister)  to  preside  over  that sitting.
+#### [34. Procedure -
+(1) The Speaker, or in his absence the Deputy Speaker, shall preside over sittings of Parliament. In the absence from any sitting of both the Speaker and Deputy Speaker, the members present shall choose one of their number (not being a Minister) to preside over that sitting.
 
-- Subject  to  the  provisions  of  Article  41  hereof  and  of  subclause  (3)  of  this Article,  every  question  before  Parliament  shall  be  decided  by  a  majority  of  the  votes  of  the members present.
+(2) Subject to the provisions of Article 41 hereof and of subclause (3) of this Article, every question before Parliament shall be decided by a majority of the votes of the members present.
 
-[(3)  The person presiding over a sitting of Parliament shall -
+[(3) The person presiding over a sitting of Parliament shall -
 
-(a) if  the  person  is  a  member,  have  a  deliberative  vote,  and  in case of an equality of votes, have a casting vote;
+(a) if the person is a member, have a deliberative vote, and in case of an equality of votes, have a casting vote;
 
 (b) if the person is not a member shall have a casting vote only in the case of an equality of votes.]
 
-- No  business  shall  be  transacted  at  any  sitting  of  Parliament  if  the  number  of members present (excluding the Speaker if he is a member) is less than 12.
+(4) No business shall be transacted at any sitting of Parliament if the number of members present (excluding the Speaker if he is a member) is less than 12.
 
-- Subject to the provisions of this Constitution, Parliament may from time to time make, amend, and repeal Standing Orders for the regulation and orderly conduct of its proceedings and the dispatch of business.
+(5) Subject to the provisions of this Constitution, Parliament may from time to time make, amend, and repeal Standing Orders for the regulation and orderly conduct of its proceedings and the dispatch of business.
 
-- Parliament shall not be disqualified for the transaction of business by reason of any vacancy among its members including any vacancy not filled at a general election, and any proceedings therein shall be valid notwithstanding that some person who was not entitled to do so sat or voted in Parliament or otherwise took part in the proceedings.
+(6) Parliament shall not be disqualified for the transaction of business by reason of any vacancy among its members including any vacancy not filled at a general election, and any proceedings therein shall be valid notwithstanding that some person who was not entitled to do so sat or voted in Parliament or otherwise took part in the proceedings.
 
 [[END OF PAGE 20]]
 
@@ -991,18 +1178,18 @@ Constitution
 
 Subclause (3) was inserted by section 5 of the Constitution Amendment (No. 24) Act 2001.
 
-#### [35.  Languages -
+#### [35. Languages -
 (1) All debates and discussions in Parliament shall be conducted in the Maori language as spoken in Rarotonga and also in the English language.
 
-(2)  Every  Bill  introduced  into  Parliament  and  every  Act  shall  be  in  the  Maori language as spoken in Rarotonga and also in the English language.
+(2) Every Bill introduced into Parliament and every Act shall be in the Maori language as spoken in Rarotonga and also in the English language.
 
 Provided that Parliament may, by resolution, determine that any Bill or Act shall be in the English language only.
 
-- The records of proceedings in Parliament, or in committees thereof shall be in the  English  language,  and  such  of  those  records  as  are  specified  in  the  Standing  Orders  of Parliament shall also be in the Maori language as spoken in Rarotonga.
+(3) The records of proceedings in Parliament, or in committees thereof shall be in the English language, and such of those records as are specified in the Standing Orders of Parliament shall also be in the Maori language as spoken in Rarotonga.
 
-(4)   Where there is any conflict between the Maori version and the English version of any Bill or Act or of any such record, the English version shall prevail.
+(4) Where there is any conflict between the Maori version and the English version of any Bill or Act or of any such record, the English version shall prevail.
 
-#### [36.  Privileges of Parliament and of its members -
+#### [36. Privileges of Parliament and of its members -
 (1) The validity of any proceedings in Parliament or in any committee thereof shall not be questioned in any Court.
 
 (2)   No officer or member or Speaker of Parliament in whom powers are vested for the regulation of procedure or the conduct of business or the maintenance of order shall in relation to the exercise by him of any of those powers be subject to the jurisdiction of any Court.
@@ -1015,14 +1202,14 @@ Provided that Parliament may, by resolution, determine that any Bill or Act shal
 
 Provided  that  no  such  privilege  of  Parliament  or  of  any  committee  thereof  may  extend  to  the imposition of a fine or to committal to prison for contempt or otherwise, unless provision is made by enactment for the trial and punishment of the person concerned by the High Court.
 
-#### [37.  Prorogation and dissolution of Parliament -
+#### [37. Prorogation and dissolution of Parliament -
 (1) The [[Queen's Representative]] may at any time, by notice published in the Cook Islands Gazette, prorogue Parliament.
 
-- If  at  any  time  the  office  of  [[Prime  Minister]]  is  vacant,  the  [[Queen's Representative]] shall by notice published in the Cook Islands Gazette, dissolve Parliament as soon as he is satisfied, acting in his discretion, that a reasonable period has elapsed since that office was last vacated and that there is no member of Parliament who commands the confidence of a majority of the members.
+(2) If at any time the office of [[Prime Minister]] is vacant, the [[Queen's Representative]] shall by notice published in the Cook Islands Gazette, dissolve Parliament as soon as he is satisfied, acting in his discretion, that a reasonable period has elapsed since that office was last vacated and that there is no member of Parliament who commands the confidence of a majority of the members.
 
-- The  [[Queen's  Representative]]  may  at  any  ti me,  by  notice  published  in  the Cook Islands Gazette, dissolve Parliament if he is advised by the [[Prime Minister]] to do so, but shall not be obliged to act in this respect in accordance with the advice of the [[Prime Minister]] unless  the  [[Queen's  Representative]]  is  satisfied,   acting  in  his  discretion,  that  in  tendering  that advice  the  [[Prime  Minister]]  commands  the  confidence  of  a  majority  of  the  members  of Parliament.
+(3) The [[Queen's Representative]] may at any time, by notice published in the Cook Islands Gazette, dissolve Parliament if he is advised by the [[Prime Minister]] to do so, but shall not be obliged to act in this respect in accordance with the advice of the [[Prime Minister]] unless the [[Queen's Representative]] is satisfied, acting in his discretion, that in tendering that advice the [[Prime Minister]] commands the confidence of a majority of the members of Parliament.
 
-- Notwithstanding anything in the foregoing provisions of this Article, Parliament shall not be prorogued or dissolved before all electoral petitions filed in the High Court in respect of the last preceding general election of members have been finally determined [[by the High Court at first instance or have been withdrawn or dismissed for want of prosecution]].
+(4) Notwithstanding anything in the foregoing provisions of this Article, Parliament shall not be prorogued or dissolved before all electoral petitions filed in the High Court in respect of the last preceding general election of members have been finally determined [[by the High Court at first instance or have been withdrawn or dismissed for want of prosecution]].
 
 [[END OF PAGE 21]]
 
@@ -1032,7 +1219,7 @@ Provided  that  no  such  privilege  of  Parliament  or  of  any  committee  the
 
 Constitution
 
-[(5)    The  Queen's  Representative  shall  dissolve  P arliament  at  the  expiration  of  4 years  from  the  date  of  the  last  preceding  general  election,  if  Parliament  has  not  sooner  been dissolved.]
+[(5) The Queen's Representative shall dissolve Parliament at the expiration of 4 years from the date of the last preceding general election, if Parliament has not sooner been dissolved.]
 
 (6)  There shall be a general election of the members of Parliament at such a time within 3 months after every dissolution of Parliament as the [[Queen's Representative]] appoints by notice published in the Cook Islands Gazette.
 
@@ -1056,21 +1243,21 @@ The words "Queen's Representative" were substituted for the words "High Commissi
 
 The  words  in  square  brackets  were  added  to  subcl.(4)  by  s.4(a)  of  the  Constitution  Amendment (No.11) Act 1982 (C.I.).
 
-Subcl.  (5),  having  been  agreed  to  at  a  national  referendum  held  on  7 th September  2004,  was substituted  by  section  2  of  the  Constitution  Amendment  (No.  27)  Act  and  reduced  the  term  of Parliament from 5 to 4 years.
+Subcl. (5), having been agreed to at a national referendum held on 7th September 2004, was substituted by section 2 of the Constitution Amendment (No. 27) Act and reduced the term of Parliament from 5 to 4 years.
 
 Subcl.(7) was added by s.4(b) of the Constitution Amendment (No.11) Act 1982 (C.I.).
 
-#### [38.  Clerk of Parliament -
+#### [38. Clerk of Parliament -
 (1) There shall be a Clerk of Parliament.
 
-(2) The Clerk shall keep a record of the proceedings of Parliament and shall transmit a copy of those records to the [[Queen's Representa tive]] as soon as possible.
+(2) The Clerk shall keep a record of the proceedings of Parliament and shall transmit a copy of those records to the [[Queen's Representative]] as soon as possible.
 
 The  words  "Queen's  Representative"  were  substituted  for  the  words  "High  Commissioner"  in subcl.(2) by s.4(1) of the Constitution Amendment (No.10) Act 1981-82 (C.I.).
 
-#### [39.  Power to make laws -
-(1) Subject to the provisions of this Constitution, Parliament may make laws (to be known as Acts) for  the  peace,  order,  and  good  government  of  the  Cook Islands.
+#### [39. Power to make laws -
+(1) Subject to the provisions of this Constitution, Parliament may make laws (to be known as Acts) for the peace, order, and good government of the Cook Islands.
 
-(2)    The  powers  of  Parliament  shall  extend  to  the  making  of  laws  having  extraterritorial operation.
+(2) The powers of Parliament shall extend to the making of laws having extra-territorial operation.
 
 [[END OF PAGE 22]]
 
@@ -1088,16 +1275,16 @@ Constitution
 
 Subcl.(5) was added by s.7 of the Constitution Amendment (No.10) Act 1981-82 (C.I.).
 
-#### [40.  No property to be taken compulsorily without compensation -
+#### [40. No property to be taken compulsorily without compensation -
 (1) No property shall be taken possession of compulsorily, and no right over or interest in any property shall be acquired compulsorily, except under the law, which itself or when read with any other law -
 
 (a) Requires the payment within a reasonable time of adequate compensation therefor; and
 
-(b) Gives to any person claiming that compensation, a right of access, for the  determination  of  his  interest  in  the  property  and  the  amount  of compensation, to the High Court; and
+(b) Gives to any person claiming that compensation, a right of access, for the determination of his interest in the property and the amount of compensation, to the High Court; and
 
 (c) Gives to any party to proceedings in the High Court relating to such a claim the same rights of appeal as are accorded generally to parties to civil proceedings in that Court sitting as a Court of original jurisdiction.
 
-- Nothing in this Article shall be construed as affecting any general law,-
+(2) Nothing in this Article shall be construed as affecting any general law,-
 
 (a) For the imposition or enforcement of any tax, rate or duty; or
 
@@ -1129,16 +1316,16 @@ Constitution
 
 (k) Providing for the carrying out of work on land for the purpose of soil conservation for the protection of water catchment areas].
 
-#### [41.  Power of Legislative Assembly to repeal or amend this Constitution -
-(1) Subject to the  provisions  of  subclause  (2)  of  this  Article,  no  Bill  repealing  or  amending  or  modifying  or extending this Constitution or any provision thereof or making any provision inconsistent with any provision of this Constitution shall be deemed to have been passed by the Assembly, unless -
+#### [41. Power of Legislative Assembly to repeal or amend this Constitution -
+(1) Subject to the provisions of subclause (2) of this Article, no Bill repealing or amending or modifying or extending this Constitution or any provision thereof or making any provision inconsistent with any provision of this Constitution shall be deemed to have been passed by the Assembly, unless -
 
 (a) At both the final vote thereon and the vote preceding that final vote it receives the affirmative votes of not less than two-thirds of the total membership (including vacancies) of the [Parliament]; and
 
-(b) There  is  an  interval  of  not  less  than  90  days  between  the  date  on which that final vote was taken and the date on which the preceding vote was taken;-
+(b) There is an interval of not less than 90 days between the date on which that final vote was taken and the date on which the preceding vote was taken;-
 
-and  no  such  Bill  shall  be  presented  to  the  [Queen's   Representative]  for  assent  unless  it  is accompanied by a certificate under the hand of the Speaker to that effect.
+and no such Bill shall be presented to the [Queen's Representative] for assent unless it is accompanied by a certificate under the hand of the Speaker to that effect.
 
-- No Bill repealing or amending or modifying or extending any of the provisions of sections 2 to 6 of the Cook Islands Constitution Act 1964 or Article 2 of this Constitution or this Article or making any provision inconsistent with any of those provisions shall be submitted to the [Queen's Representative] for his assent, unless -
+(2) No Bill repealing or amending or modifying or extending any of the provisions of sections 2 to 6 of the Cook Islands Constitution Act 1964 or Article 2 of this Constitution or this Article or making any provision inconsistent with any of those provisions shall be submitted to the [Queen's Representative] for his assent, unless -
 
 (a) It  has  been  passed  by  the  [Parliament]  in  accordance  with  the provisions of subclause (1) of this Article; and
 
@@ -1152,11 +1339,11 @@ The name of the Legislative Assembly of the Cook Islands was changed to the Parl
 
 The functions of the High Commissioner are now performed by the Queen's Representative pursuant to sections 2 and 4 of the Constitution Amendment (No.10) Act 1981-82 (C.I.).
 
-#### [42. Introduction of Bills, etc, into Parliament
-Subject  to the provisions  of this Constitution and of the Standing Orders of Parliament, any member of Parliament may introduce any Bill or propose any motion or debate in or present any petition to Parliament, and the same shall be considered and disposed of in accordance with the Standing Orders.
+#### [42. Introduction of Bills, etc. into Parliament -
+Subject to the provisions of this Constitution and of the Standing Orders of Parliament, any member of Parliament may introduce any Bill or propose any motion or debate in or present any petition to Parliament, and the same shall be considered and disposed of in accordance with the Standing Orders.
 
 #### [43. Restrictions with regard to financial measures -
-Except upon the recommendation of the [[Queen's Representative]], Parliament shall no t -
+Except upon the recommendation of the [[Queen's Representative]], Parliament shall not -
 
 (a) Proceed upon any Bill (including an amendment to a Bill) that, in the opinion  of  the  person  presiding,  makes  provision  for  any  of  the following purposes:
 
@@ -1182,24 +1369,26 @@ Constitution
 
 The words "Queen's Representative" were substituted for the words "High Commissioner" by s.4(1) of the Constitution Amendment (No.10) Act 1981-82 (C.I.).
 
-#### [44.  Assent to Bills by [Queen's Representative] -
+#### [44. Assent to Bills by [Queen's Representative] -
 (1) No Bill shall become law until it has been passed by Parliament and has been assented to by the [[Queen's Representative]].
 
-(2)    Whenever  any  Bill  which  has  been  passed  by  Parliament  is  presented  to  the [[Queen's Representative]] for his assent, the [[Qu een's Representative]] shall, acting on the advice of the [[Prime Minister]] declare that he assents to the Bill or that he refuses his assent to the Bill. Provided that the [[Queen's Representative]], actin g in his discretion, may summon a meeting of the Executive Council, to be held within 14 days after the Bill is presented  to him for his assent to consider  amendments  to  the  Bill  proposed  by  him  or  to  consider  whether  he  should  refuse  his assent to the Bill.
+(2) Whenever any Bill which has been passed by Parliament is presented to the [[Queen's Representative]] for his assent, the [[Queen's Representative]] shall, acting on the advice of the [[Prime Minister]] declare that he assents to the Bill or that he refuses his assent to the Bill.
 
-(3)  If at a meeting of the Executive Council thus summoned the Executive Council decides  that  the  Bill  should  be  returned  to  Parliament  for  consideration  of  the  amendments proposed or, as the case may be, that the [[Queen's  Representative]] should refuse his assent to the Bill, the [[Queen's Representative]] shall, by Mess age -
+Provided that the [[Queen's Representative]], acting in his discretion, may summon a meeting of the Executive Council, to be held within 14 days after the Bill is presented to him for his assent to consider amendments to the Bill proposed by him or to consider whether he should refuse his assent to the Bill.
 
-(a) Return  the  Bill  with  the  amendments  proposed  to  Parliament  for reconsideration by Parliament; or as the case may be,
+(3) If at a meeting of the Executive Council thus summoned the Executive Council decides that the Bill should be returned to Parliament for consideration of the amendments proposed or, as the case may be, that the [[Queen's Representative]] should refuse his assent to the Bill, the [[Queen's Representative]] shall, by Message -
+
+(a) Return the Bill with the amendments proposed to Parliament for reconsideration by Parliament; or as the case may be,
 
 (b) Return the Bill to Parliament for reconsideration by Parliament.
 
-(4)  If at a meeting of the Executive Council thus summoned the Executive Council decides  that  the  Bill  should  not  be  returned  to  Parliament  for  consideration  of  the  amendments proposed or, as the case may be, that the [[Queen's  Representative]] should not refuse his assent to the Bill, he shall declare that he assents to the Bill.
+(4) If at a meeting of the Executive Council thus summoned the Executive Council decides that the Bill should not be returned to Parliament for consideration of the amendments proposed or, as the case may be, that the [[Queen's Representative]] should not refuse his assent to the Bill, he shall declare that he assents to the Bill.
 
-(5)  Where any Bill is returned to Parliament under the provisions of paragraph (a) of subclause (3) of this Article, and the Bill is again passed by Parliament with the amendments proposed, but with no other amendments, or in the form in which it was originally presented to the [[Queen's Representative]] for his assent, then, wh en the Bill is again presented to the [[Queen's Representative]] for his assent, he shall declare that he assents to the Bill.
+(5) Where any Bill is returned to Parliament under the provisions of paragraph (a) of subclause (3) of this Article, and the Bill is again passed by Parliament with the amendments proposed, but with no other amendments, or in the form in which it was originally presented to the [[Queen's Representative]] for his assent, then, when the Bill is again presented to the [[Queen's Representative]] for his assent, he shall declare that he assents to the Bill.
 
-(6)  Where any Bill is returned to Parliament under the provisions of paragraph (b) of subclause (3) of this Article, and the Bill is again passed by Parliament in the form in which it was  originally  presented  to  the  [[Queen's  Represent ative]]  for  assent,  he  shall  declare  that  he assents to the Bill.
+(6) Where any Bill is returned to Parliament under the provisions of paragraph (b) of subclause (3) of this Article, and the Bill is again passed by Parliament in the form in which it was originally presented to the [[Queen's Representative]] for assent, he shall declare that he assents to the Bill.
 
-(7)  Where any Bill is returned to Parliament under the provisions of this Article and the  Bill  is  again  passed  by  Parliament  with  any  amendments  other  than  amendments  proposed under  the  provisions  of  this  Article,  then,  when  the  Bill  is  again  presented  to  the  [[Queen's Representative]] for his assent, the foregoing provisions of this Article shall apply with respect to the Bill as if it had not previously been presented to the [[Queen's Representative]] for his assent.
+(7) Where any Bill is returned to Parliament under the provisions of this Article and the Bill is again passed by Parliament with any amendments other than amendments proposed under the provisions of this Article, then, when the Bill is again presented to the [[Queen's Representative]] for his assent, the foregoing provisions of this Article shall apply with respect to the Bill as if it had not previously been presented to the [[Queen's Representative]] for his assent.
 
 [[END OF PAGE 25]]
 
@@ -1209,7 +1398,7 @@ The words "Queen's Representative" were substituted for the words "High Commissi
 
 Constitution
 
-- A Bill assented to by the [[Queen's Represen tative]] as herein provided shall be known as an Act of Parliament.
+(8) A Bill assented to by the [[Queen's Representative]] as herein provided shall be known as an Act of Parliament.
 
 The words "Queen's Representative" were substituted for the words "High Commissioner" in subcls (1), (2) (in three places), (3) (in two places), (4), (5) (in two places), (6), (7) (in two places), and (8) by s.4(1) of the Constitution Amendment (No.10) Act 1981-82 (C.I.).
 
@@ -1230,9 +1419,9 @@ As  to  the  continuation  in  force  of  Acts  of  the  Parliament  of  New  Ze
 #### [47.  High Court established -
 (1) There shall be a Court of record, to be called the High Court of the Cook Islands, for the administration of justice throughout those islands.
 
-- Except as provided in this Constitution or by law, the High Court shall have all such  jurisdiction  (both  civil  jurisdiction,  including  jurisdiction  in  relation  to  land,  and  criminal jurisdiction) as may be necessary to administer the law in force in the Cook Islands.
+(2) Except as provided in this Constitution or by law, the High Court shall have all such jurisdiction (both civil jurisdiction, including jurisdiction in relation to land, and criminal jurisdiction) as may be necessary to administer the law in force in the Cook Islands.
 
-- There shall be 3 Divisions of the High Court, namely -
+(3) There shall be 3 Divisions of the High Court, namely -
 
 (a) A Civil Division;
 
@@ -1240,11 +1429,11 @@ As  to  the  continuation  in  force  of  Acts  of  the  Parliament  of  New  Ze
 
 (c) A Land Division.
 
-- A Judge of the High Court may exercise any of the jurisdiction and powers of a Judge of any Division.
+(4) A Judge of the High Court may exercise any of the jurisdiction and powers of a Judge of any Division.
 
-(5)    Nothing  in  this  Article  shall  prevent  a  Judge  of  any  Division  from  exercising any of the powers of a Judge of the High Court, whether or not in his capacity as a Judge of that Division.
+(5) Nothing in this Article shall prevent a Judge of any Division from exercising any of the powers of a Judge of the High Court, whether or not in his capacity as a Judge of that Division.
 
-- Subject to the foregoing provisions of this Article and to Article 48 hereof, each Judge of the High Court, or any 2 or more Judges, may, in any part of the Cook Islands and at any time or place, exercise all the powers of the High Court.]
+(6) Subject to the foregoing provisions of this Article and to Article 48 hereof, each Judge of the High Court, or any 2 or more Judges, may, in any part of the Cook Islands and at any time or place, exercise all the powers of the High Court.]
 
 [[END OF PAGE 26]]
 
@@ -1261,7 +1450,7 @@ Constitution
 
 (b) Such other proceedings as may from time to time be determined by the Chief Justice, either generally or in any particular proceedings or classes of proceedings.
 
-- Subject  to  subclause  (3)  of  this  Article,  the  Land  Division  shall  have  all  the jurisdiction  and  powers  in  relation  to  land  that  immediately  before  the  commencement  of  this Article  were  conferred  on  the  Land  Court  of  the  Cook  Islands,  and  shall  have  such  other jurisdiction as may be conferred on it by enactment.
+(2) Subject to subclause (3) of this Article, the Land Division shall have all the jurisdiction and powers in relation to land that immediately before the commencement of this Article were conferred on the Land Court of the Cook Islands, and shall have such other jurisdiction as may be conferred on it by enactment.
 
 [(3)  Notwithstanding anything in this Part or in Part IVA, and in recognition of the customs  and  traditions  of  the  people  of  those  islands,  the  Land  Division  shall  not  exercise  any jurisdiction or power in relation to land or chiefly titles in any of the islands of Mangaia, Mitiaro and Pukapuka, and such other islands as may be prescribed by Act, provided that no such Act shall be introduced to Parliament except with the consent of the Aronga Mana of the island to which it relates.]
 
@@ -1272,17 +1461,17 @@ Subsection (3) was substituted by section 5 of the Constitution Amendment (No.17
 #### [49. Judges of the High Court -
 (1) The High Court shall consist of 1 or more Judges, each of whom shall be appointed under the provisions of this Constitution.
 
-- If  only  1  Judge  is  so  appointed,  he  shall  be  the  Chief  Justice  of  the  Cook Islands, but if more than 1 Judge is appointed, one of them shall be appointed as the Chief Justice of the Cook Islands.
+(2) If only 1 Judge is so appointed, he shall be the Chief Justice of the Cook Islands, but if more than 1 Judge is appointed, one of them shall be appointed as the Chief Justice of the Cook Islands.
 
-- A person shall not be qualified for appointment as a Judge of the High Court under this Article, unless -
+(3) A person shall not be qualified for appointment as a Judge of the High Court under this Article, unless -
 
-(a) He  holds  or  has  held  office  as  a  Judge  of  the  High  Court  of  New Zealand or of the Supreme Court of New Zealand or of the Court of Appeal of New Zealand or an equivalent office in any other part of the Commonwealth or in a designated country; or
+(a) He holds or has held office as a Judge of the High Court of New Zealand or of the Supreme Court of New Zealand or of the Court of Appeal of New Zealand or an equivalent office in any other part of the Commonwealth or in a designated country; or
 
-(b) He has been in practice as a barrister in New Zealand or in any other part  of  the  Commonwealth  or  in  a  designated  country,  or  partly  in New Zealand and partly in any other part of the Commonwealth or in a  designated  country,  for  a  period  of,  or  periods  amounting  in  the aggregate to, not less than 7 years.
+(b) He has been in practice as a barrister in New Zealand or in any other part of the Commonwealth or in a designated country, or partly in New Zealand and partly in any other part of the Commonwealth or in a designated country, for a period of, or periods amounting in the aggregate to, not less than 7 years.
 
-- The  [[Queen's  Representative]],  acting  in  hi s  discretion,  may  declare  to  be  a designated country  for the purposes of this Article any  country  which in his opinion has a legal system similar to that existing in New Zealand.]
+(4) The [[Queen's Representative]], acting in his discretion, may declare to be a designated country for the purposes of this Article any country which in his opinion has a legal system similar to that existing in New Zealand.]
 
-The  words  "Queen's  Representative"  were  substituted  for  the  words  "High  Commissioner"  in subcl.4 by s.4(1) of the Constitution Amendment (No.lO) Act 1981-82 (C.I.).
+The words "Queen's Representative" were substituted for the words "High Commissioner" in subcl.4 by s.4(1) of the Constitution Amendment (No.10) Act 1981-82 (C.I.).
 
 #### [50. Acting Chief Justice of the High Court -
 (1) Where any vacancy exists in the office of Chief Justice of the High Court or the Chief Justice of the High Court  is absent from the Cook
@@ -1298,7 +1487,7 @@ Constitution
 Islands, or is, by reason of illness or any cause other than absence from the Cook Islands, unable to perform the  office  or  exercise  any  function  of  Chief  Justice  of  the  High  Court,  the  senior  other Judge of the High Court for the time being in the Cook Islands may perform that office or exercise that function until a Chief Justice of the High Court is appointed, or, as the case may be the Chief Justice of the High Court resumes that office or exercises that function.
 
 #### [51.  Acting  Judge  of  the  High  Court  -
-(1)  The  [[Queen's  Representative]],  acting  on  th e advice of the Chief Justice and the Minister of Justice, may appoint any person who is qualified for appointment as a Judge of the High Court to act as a Judge of the High Court, if there is no Judge of the High Court for the time being in the Cook Islands or, by reason of illness or other cause, there is no Judge of the High Court available to act.
+(1) The [[Queen's Representative]], acting on the advice of the Chief Justice and the Minister of Justice, may appoint any person who is qualified for appointment as a Judge of the High Court to act as a Judge of the High Court, if there is no Judge of the High Court for the time being in the Cook Islands or, by reason of illness or other cause, there is no Judge of the High Court available to act.
 
 (2)  Any  appointment  made  under  this  Article  may  be  revoked  at  any  time  by  the [[Queen's Representative]], acting on the advice of  the Chief Justice.]
 
@@ -1320,9 +1509,9 @@ The words "Queen's Representative" were substituted for the words "High Commissi
 
 (2)  Any  person  of  any  age  who  does  not  reside  in  the  Cook  Islands  and  who  is qualified for appointment may be appointed to hold office as the Chief Justice or other Judge of the High Court for a term of not more than 3 years, but may be reappointed for one or more further terms, being in each case a term of not more than 3 years.
 
-- Nothing  done  by  the  Chief  Justice  or  other  Judge  of  the  High  Court  in  the performance of his functions shall be deemed to be invalid by reason only that he has reached the age at which he is required by this Article to retire or that his term has expired, as the case may be.
+(3) Nothing done by the Chief Justice or other Judge of the High Court in the performance of his functions shall be deemed to be invalid by reason only that he has reached the age at which he is required by this Article to retire or that his term has expired, as the case may be.
 
-(4) The Chief Justice or any other Judge of the High Court may resign his office by writing under his hand addressed to the [[Queen's R epresentative]].
+(4) The Chief Justice or any other Judge of the High Court may resign his office by writing under his hand addressed to the [[Queen's Representative]].
 
 The  words  "Queen's  Representative"  were  substituted  for  the  words  "High  Commissioner"  in subcl.(4) by s.4(1) of the Constitution Amendment (No.10) Act 1981-82 (C.I.).
 
@@ -1343,27 +1532,27 @@ from office by the [[Queen's Representative]] only for inability to discharge th
 
 (a) The [[Queen's Representative]] shall appoint a tribunal consisting of a chairman and 2 other members; and
 
-(b) The  tribunal  shall  inquire  into  the  matter  and  report  on  the  facts thereof  to  the  [[Queen's  Representative]]  and  recom mend  to  the [[Queen's Representative]] whether or not the Chief  Justice or other Judges should be removed from office; and
+(b) The tribunal shall inquire into the matter and report on the facts thereof to the [[Queen's Representative]] and recommend to the [[Queen's Representative]] whether or not the Chief Justice or other Judges should be removed from office; and
 
-(c) If the tribunal recommends that the Chief Justice or other Judge be so removed, the [[Queen's Representative]] shall, by w arrant, revoke the appointment of the Chief Justice or other Judge, as the case may be.
+(c) If the tribunal recommends that the Chief Justice or other Judge be so removed, the [[Queen's Representative]] shall, by warrant, revoke the appointment of the Chief Justice or other Judge, as the case may be.
 
-- No person shall be qualified for appointment as a member of a tribunal under this Article unless he is qualified for appointment as a Judge of the High Court under Article 49 hereof.
+(3) No person shall be qualified for appointment as a member of a tribunal under this Article unless he is qualified for appointment as a Judge of the High Court under Article 49 hereof.
 
-- No business shall be transacted by a tribunal appointed under this Article unless all 3 members are present, and all questions proposed for decision by the tribunal shall be decided by the votes of a majority of those members.
+(4) No business shall be transacted by a tribunal appointed under this Article unless all 3 members are present, and all questions proposed for decision by the tribunal shall be decided by the votes of a majority of those members.
 
-- Subject to this Article, the tribunal shall determine its own procedure.
+(5) Subject to this Article, the tribunal shall determine its own procedure.
 
-- If the question of removing from office the Chief Justice or any other Judge of the High Court has been referred to a tribunal under subclause (2) of this Article -
+(6) If the question of removing from office the Chief Justice or any other Judge of the High Court has been referred to a tribunal under subclause (2) of this Article -
 
-(a) The  [[Queen's  Representative]],  acting  on  the  a dvice  of  the  Prime Minister, may  suspend  the  Chief Justice or other  Judge  from performing the functions of his office for a period of 1 month;
+(a) The [[Queen's Representative]], acting on the advice of the Prime Minister, may suspend the Chief Justice or other Judge from performing the functions of his office for a period of 1 month;
 
-(b) If the decision of the tribunal has not been given before the expiration of that period, the [[Queen's Representative]], act ing on the advice of the  Executive  Council  tendered  to  him  by  the  Prime  Minister,  may suspend  the  Chief  Justice  or  other  Judge  from  performing  the functions of his office for a further period of 1 month.
+(b) If the decision of the tribunal has not been given before the expiration of that period, the [[Queen's Representative]], acting on the advice of the Executive Council tendered to him by the Prime Minister, may suspend the Chief Justice or other Judge from performing the functions of his office for a further period of 1 month.
 
-- Any such suspension may be at any time revoked by the [[Queen's Representative]],  acting  on  the  advice  of  the  Prime  Minister  in  the  case  of  a  suspension  under paragraph (a) of subclause (6) of this Article and on the advice of the Executive Council in the case of a suspension under paragraph (b) of that subclause, and shall in any case cease to have effect if the tribunal -
+(7) Any such suspension may be at any time revoked by the [[Queen's Representative]], acting on the advice of the Prime Minister in the case of a suspension under paragraph (a) of subclause (6) of this Article and on the advice of the Executive Council in the case of a suspension under paragraph (b) of that subclause, and shall in any case cease to have effect if the tribunal -
 
-(a) Before the expiration of the total period of suspension, recommends to the [[Queen's Representative]] that the Chief Ju stice or other Judge be not removed from office; or
+(a) Before the expiration of the total period of suspension, recommends to the [[Queen's Representative]] that the Chief Justice or other Judge be not removed from office; or
 
-(b) Does  not,  before  the  expiration  of  the  total  period  of  suspension, recommend to the [[Queen's Representative]] that th e Chief Justice or other Judge be removed from office.
+(b) Does not, before the expiration of the total period of suspension, recommend to the [[Queen's Representative]] that the Chief Justice or other Judge be removed from office.
 
 The words "Queen's Representative" were substituted for the words "High Commissioner" in subcls (1); (2) (in five places), (6) (in two places), and (7) (in three places) by s.4(1) of the Constitution Amendment (No.10) Act 1981-82 (C.I.).
 
@@ -1387,19 +1576,19 @@ Constitution
 
 (2) Subject to Articles 57 and 58 hereof, the Judges of the Court of Appeal shall be -
 
-(a) A Judge of the Court of Appeal of New Zealand or a person who has held office as a Judge of that Court, or a Judge of the High Court of New  Zealand,  to  be  appointed  by  the  [[Queen's  Repre sentative]] acting on the advice of the Executive Council tendered to him by the Prime Minister; and
+(a) A Judge of the Court of Appeal of New Zealand or a person who has held office as a Judge of that Court, or a Judge of the High Court of New Zealand, to be appointed by the [[Queen's Representative]] acting on the advice of the Executive Council tendered to him by the Prime Minister; and
 
 (b) The Chief Justice and other Judges of the High Court; and
 
-(c) Such  other  persons,  possessing  the  qualifications  prescribed  by subclause (3) of this Article, as may from time to time be appointed by the [[Queen's  Representative]] acting on the advice of the Executive Council tendered to him by the Prime Minister.
+(c) Such other persons, possessing the qualifications prescribed by subclause (3) of this Article, as may from time to time be appointed by the [[Queen's Representative]] acting on the advice of the Executive Council tendered to him by the Prime Minister.
 
-- No person shall be qualified for appointment as a Judge of the Court of Appeal under paragraph (c) of subclause (2) of this Article, unless he is qualified under Article 49 hereof to be appointed as a Judge of the High Court.
+(3) No person shall be qualified for appointment as a Judge of the Court of Appeal under paragraph (c) of subclause (2) of this Article, unless he is qualified under Article 49 hereof to be appointed as a Judge of the High Court.
 
-- The Judge of the Court of Appeal of New Zealand, or, as the case may be, the person who has held office as a Judge of that Court or the Judge of the High Court of New Zealand who is a member of the Court of Appeal of the Cook Islands, shall be the President of the Court of Appeal of the Cook Islands, but in his absence the Chief Justice of the High Court, if present, shall preside, but if the Chief Justice is also absent, the Judge present who is highest in seniority shall preside.
+(4) The Judge of the Court of Appeal of New Zealand, or, as the case may be, the person who has held office as a Judge of that Court or the Judge of the High Court of New Zealand who is a member of the Court of Appeal of the Cook Islands, shall be the President of the Court of Appeal of the Cook Islands, but in his absence the Chief Justice of the High Court, if present, shall preside, but if the Chief Justice is also absent, the Judge present who is highest in seniority shall preside.
 
-- Judges of the Court of Appeal shall take seniority according to the respective dates of their first appointment as Judges, whether of the High Court or of the Court of Appeal or of any Court in any place outside the Cook Islands.
+(5) Judges of the Court of Appeal shall take seniority according to the respective dates of their first appointment as Judges, whether of the High Court or of the Court of Appeal or of any Court in any place outside the Cook Islands.
 
-- An appointment under paragraph (c) of subclause (2) of this Article shall be for a period of time or for the trial or hearing of one or more particular causes or matters, as may be specified in the instrument of appointment.
+(6) An appointment under paragraph (c) of subclause (2) of this Article shall be for a period of time or for the trial or hearing of one or more particular causes or matters, as may be specified in the instrument of appointment.
 
 The words "Queen's Representative' were substituted  for the words "High Commissioner" in paras (a) and (c) of subcl.(2) by s.4(1) of the Constitution Amendment (No.10) Act 1981-82 (C.I.).
 
@@ -1408,7 +1597,7 @@ The words "Queen's Representative' were substituted  for the words "High Commiss
 
 Provided that the Court may have its judgment delivered by any one of its members who is also a Judge of the High Court, and, if there is no such member, then through the Registrar of the Court of Appeal.
 
-- The judgment of the Court of Appeal shall be in accordance with the opinion of the majority of the Judges present.]
+(2) The judgment of the Court of Appeal shall be in accordance with the opinion of the majority of the Judges present.]
 
 [[END OF PAGE 30]]
 
@@ -1424,12 +1613,12 @@ A Judge of the Court of Appeal shall not sit on the hearing of an appeal from an
 #### [59.    Determination  of Court  of  Appeal  -
 (1)  Except  as  provided  in  subclause  (2)  of  this Article, the determination of the Court of Appeal shall be final, and there shall be no appeal to the High Court of New Zealand or to the Court of Appeal of New Zealand from any judgment of the Court of Appeal of the Cook Islands.
 
-- There shall be a right of appeal to Her Majesty the Queen in Council, with the leave of  the  Court  of  Appeal, or,  if  such  leave  is  refused,  with  the  leave  of  Her  Majesty  the  Queen  in Council, from judgments of the Court of Appeal in such cases and subject to such conditions as are prescribed by Act.]
+(2) There shall be a right of appeal to Her Majesty the Queen in Council, with the leave of the Court of Appeal, or, if such leave is refused, with the leave of Her Majesty the Queen in Council, from judgments of the Court of Appeal in such cases and subject to such conditions as are prescribed by Act.]
 
 #### [60.  Jurisdiction of Court of Appeal-
 (1) Subject to the provisions of this Constitution, the Court of Appeal shall have jurisdiction to hear and determine any appeal from a judgment of the High Court.
 
-- Subject to the provisions of this Constitution, and except where under any Act a judgment of the High Court is declared to be final, an appeal shall lie to the Court of Appeal from a judgment of the High Court -
+(2) Subject to the provisions of this Constitution, and except where under any Act a judgment of the High Court is declared to be final, an appeal shall lie to the Court of Appeal from a judgment of the High Court -
 
 (a) As  of  right,  if  the  High  Court  certifies  that  the  case  involves  a substantial  question  of  law  as  to  the  interpretation  or  effect  of  any provision of this Constitution;
 
@@ -1443,7 +1632,7 @@ A Judge of the Court of Appeal shall not sit on the hearing of an appeal from an
 
 [(3)  Notwithstanding anything in subclause (2) of this Article, and subject to such limitations as may be prescribed by Act, the Court of Appeal may in any case in which it thinks fit and at any time, grant special leave to appeal to that Court from any judgment of the High Court, subject to such conditions as to security for costs and otherwise as the Court of Appeal thinks fit.]
 
-- In this Article the term "judgment" includes any judgment, decree, order, writ, declaration, conviction, sentence, or other determination.]
+(4) In this Article the term "judgment" includes any judgment, decree, order, writ, declaration, conviction, sentence, or other determination.]
 
 Subclause (3) of Article 60 was substituted by section 2 of the Constitution Amendment (No. 16) Act 1993-94.
 
@@ -1463,21 +1652,21 @@ thereupon  be  entered  by  the  High  Court  in  conformity  with  that  determ
 ### Justices of the Peace
 
 #### [62.  Justices of the Peace -
-(1) The [[Queen's Representative]], acting on th e advice of the Executive Council tendered to him by the Minister of Justice, may appoint Justices of the Peace for the  Cook  Islands,  who  shall  hold  office  for  such  time  as  may  be  prescribed  in  their  warrants  of appointment and may be paid such remuneration as may be prescribed by enactment.
+(1) The [[Queen's Representative]], acting on the advice of the Executive Council tendered to him by the Minister of Justice, may appoint Justices of the Peace for the Cook Islands, who shall hold office for such time as may be prescribed in their warrants of appointment and may be paid such remuneration as may be prescribed by enactment.
 
-[(2)  Every Justice of the Peace (whether appointed before or after the coming into force of this subclause) shall cease to act in a judicial capacity before becoming a candidate for election to Parliament, but such ceasing to act shall not otherwise affect that person's status as a Justice of the Peace.]
+[(2) Every Justice of the Peace (whether appointed before or after the coming into force of this subclause) shall cease to act in a judicial capacity before becoming a candidate for election to Parliament, but such ceasing to act shall not otherwise affect that person's status as a Justice of the Peace.]
 
-- An  Act  shall  prescribe  the  jurisdiction  and  powers  of  Justices  of  the  Peace appointed under this Article and for an appeal to lie to the High Court from a final judgment of a Justice of the Peace.
+(3) An Act shall prescribe the jurisdiction and powers of Justices of the Peace appointed under this Article and for an appeal to lie to the High Court from a final judgment of a Justice of the Peace.
 
-- A Justice of the Peace for the Cook Islands shall not be removed from office as such, except by the [[Queen's Representative]], act ing on the advice of the Chief Justice.
+(4) A Justice of the Peace for the Cook Islands shall not be removed from office as such, except by the [[Queen's Representative]], acting on the advice of the Chief Justice.
 
-- In [[subclause (3)]] of this Article the term "judgment" includes any judgment, decree, order, writ, declaration, conviction, sentence, or other determination.
+(5) In [[subclause (3)]] of this Article the term "judgment" includes any judgment, decree, order, writ, declaration, conviction, sentence, or other determination.
 
-Subclause  (2)  was  inserted  by  section  6  of  the  Constitution  Amendment  (No.  17)  Act  1994-95, which came into force on the 30 th June 1995.
+Subclause (2) was inserted by section 6 of the Constitution Amendment (No. 17) Act 1994-95, which came into force on the 30th June 1995.
 
 The words "Queen's Representative" were substituted for the words "High Commissioner" in subcls (1) and (4) by s.4(1) of the Constitution Amendment (No.10) Act 1981-82 (C.I.).
 
-The words "subclause (3)" were substituted for the words "subclause (2)" by s.8 of theConstitution Amendment (No.10) Act 1981-82 (C.I.).
+The words "subclause (3)" were substituted for the words "subclause (2)" by s.8 of the Constitution Amendment (No.10) Act 1981-82 (C.I.).
 
 ### Oath of Allegiance and Judicial Oath
 
@@ -1486,11 +1675,11 @@ The words "subclause (3)" were substituted for the words "subclause (2)" by s.8 
 
 (a) An Oath of Allegiance in the following form -
 
-- I,.........................., swear by Almighty God that I will be faithful and be true allegiance  to  Her  (or  His)  Majesty  [Specify  the  name  of  the  reigning Sovereign as thus: Queen Elizabeth the Second], as the Head of State of the Cook  Islands,  Her  (or  His)  heirs,  and  successors,  in  accordance  with  the Constitution and the law. So help me God:
+I,.........................., swear by Almighty God that I will be faithful and be true allegiance to Her (or His) Majesty [Specify the name of the reigning Sovereign as thus: Queen Elizabeth the Second], as the Head of State of the Cook Islands, Her (or His) heirs, and successors, in accordance with the Constitution and the law. So help me God:
 
 (b) The Judicial Oath in the following form -
 
-- I,.........................,  swear  by  Almighty  God  that  I  will  well  and  truly  serve Her (or His) Majesty (Specify as above) as the Head of State of the Cook Islands, Her (or His) heirs, and successors, in accordance with the Constitution and the law, in the office of..............; and I will do right to all
+I,........................., swear by Almighty God that I will well and truly serve Her (or His) Majesty (Specify as above) as the Head of State of the Cook Islands, Her (or His) heirs, and successors, in accordance with the Constitution and the law, in the office of..............; and I will do right to all
 
 [[END OF PAGE 32]]
 
@@ -1502,7 +1691,7 @@ Constitution
 
 manner of people, without fear or  favour,  affection or ill  will.  So  help me God.
 
-- If  any  person  mentioned  in  this  Article  declines  or  neglects,  when  the  oaths required to be taken by him under this Article are duly tendered, to take those oaths, he shall if he has  already  entered  on  his  office  vacate  the  same,  and  if  he  has  not  entered  on  the  same  be disqualified from entering on the same; but no person shall be compelled in respect of the same appointment to the same office to take any oath more than once:
+(2) If any person mentioned in this Article declines or neglects, when the oaths required to be taken by him under this Article are duly tendered, to take those oaths, he shall if he has already entered on his office vacate the same, and if he has not entered on the same be disqualified from entering on the same; but no person shall be compelled in respect of the same appointment to the same office to take any oath more than once:
 
 Provided that no proceedings before any such person may be questioned in any Court solely on the ground that that person failed to take the oaths prescribed by this Article.
 
@@ -1525,7 +1714,7 @@ The  words  "Queen's  Representative"  were  substituted  for  the  words  "High
 
 (f) Freedom of peaceful assembly and association.
 
-- It is hereby recognised and declared that every person has duties to others, and accordingly is subject in the exercise of his rights and freedoms to such limitations as are imposed by any enactment or rule of law for the time being in force, for protecting the rights and freedoms of others or in the interests of public safety, order, or morals, the general welfare, or the security of the Cook Islands.
+(2) It is hereby recognised and declared that every person has duties to others, and accordingly is subject in the exercise of his rights and freedoms to such limitations as are imposed by any enactment or rule of law for the time being in force, for protecting the rights and freedoms of others or in the interests of public safety, order, or morals, the general welfare, or the security of the Cook Islands.
 
 #### [65.  Construction of law -
 (1) Subject to subclause (2) of this Article and to subclause (2) of Article 64 hereof, every enactment shall be so construed and applied as not to abrogate, abridge, or  infringe  or  to  authorise  the  abrogation,  abridgement,  or  infringement  of  any  of  the  rights  or freedoms  recognised  and  declared  by  subclause  (1)  of  Article  64  hereof,  and  in  particular  no enactment shall be construed or applied so as to -
@@ -1560,11 +1749,11 @@ Constitution
 
 (h) Authorise  the  imposition  on  any  person  convicted  of  any offence of a penalty heavier than that which might have been imposed under the law in force at the time of the commission of the offence.
 
-- Every  enactment,  and  every  provision  thereof  shall  be  deemed  remedial, whether its immediate purpose is to direct the doing of anything that the enacting authority deems to be for the public good, or to prevent or punish the doing of anything it deems contrary to the public good, and shall accordingly receive such fair, large, and liberal construction and interpretation  as  will  best  ensure  the  attainment  [[of  the  object]  of  the  enactment  or  provision thereof according to its true intent, meaning and spirit.
+(2) Every enactment, and every provision thereof shall be deemed remedial, whether its immediate purpose is to direct the doing of anything that the enacting authority deems to be for the public good, or to prevent or punish the doing of anything it deems contrary to the public good, and shall accordingly receive such fair, large, and liberal construction and interpretation as will best ensure the attainment [[of the object]] of the enactment or provision thereof according to its true intent, meaning and spirit.
 
-- In  this  Article  the  term  "enactment"  includes  any  Act  of  the  Parliament  of England or the Parliament of Great Britain or the Parliament of the United Kingdom, being an Act in force in the Cook Islands, and any regulation, rule, order, or other instrument made thereunder.
+(3) In this Article the term "enactment" includes any Act of the Parliament of England or the Parliament of Great Britain or the Parliament of the United Kingdom, being an Act in force in the Cook Islands, and any regulation, rule, order, or other instrument made thereunder.
 
-The words "of the object" were inserted in subcl.(2) by s.9 of the Constitution Amendment (No.10 ) Act 1981 (C.I.).
+The words "of the object" were inserted in subcl.(2) by s.9 of the Constitution Amendment (No.10) Act 1981 (C.I.).
 
 #### [66.    Saving  -
 Nothing  in  this  Part  of  this  Constitution  shall  limit  or  affect  any  right  or freedom, not specified in this Part, that may exist in the Cook Islands at the commencement of this Part.]
@@ -1594,21 +1783,21 @@ Part IVB was inserted by section 7 of the Constitution Amendment (No.17) Act 199
 
 ## PART V THE PUBLIC REVENUES OF THE COOK ISLANDS
 
-#### Public  Funds  -
-There  shall  be  a  Cook  Islands  Government  Account  and  such  other public funds or accounts as may be provided by law.
+#### 67. Public Funds -
+There shall be a Cook Islands Government Account and such other public funds or accounts as may be provided by law.
 
-#### Restriction on taxation -
+#### 68. Restriction on taxation -
 No taxation shall be imposed except by law.
 
-#### Public  revenue  -
-All  taxes  and  other  revenues  and  money  raised  or  received  by  the Government of the Cook Islands shall be paid into the Cook Islands Government Account unless required or permitted by law to be paid into any other public fund or account.
+#### 69. Public revenue -
+All taxes and other revenues and money raised or received by the Government of the Cook Islands shall be paid into the Cook Islands Government Account unless required or permitted by law to be paid into any other public fund or account.
 
-#### Revenue and expenditure of Cook Islands Government Account -
-[(1)  All expenditure from the Cook Islands Government Account, or from any other public fund or account shall be in accordance  with  an  Appropriation  Act  unless  otherwise  authorised  or  permitted  by  any  other enactment.
+#### 70. Revenue and expenditure of Cook Islands Government Account -
+[(1) All expenditure from the Cook Islands Government Account, or from any other public fund or account shall be in accordance with an Appropriation Act unless otherwise authorised or permitted by any other enactment.
 
-- An appropriation provision for a specific purpose shall make reference to any anticipated income in relation to that purpose and the amount appropriated shall be the nett amount.
+(2) An appropriation provision for a specific purpose shall make reference to any anticipated income in relation to that purpose and the amount appropriated shall be the nett amount.
 
-- The  Minister  responsible  for  Finance,  with  the  concurrence  of  Cabinet,  or, where  any  enactment  so  provides,  the  Executive  Council,  may  approve  the  expenditure  of  such sums as he or it considers necessary -
+(3) The Minister responsible for Finance, with the concurrence of Cabinet, or, where any enactment so provides, the Executive Council, may approve the expenditure of such sums as he or it considers necessary -
 
 (a) in  anticipation of provision to be made in an Appropriation Act for any financial year:
 
@@ -1626,7 +1815,7 @@ Constitution
 
 Provided that:
 
-(i) the total  mount of  all sums issued and paid shall not exceed a one and one-half percent (1 ½ %) of the to tal amount of all sums appropriated by the Appropriation Act or Acts for that year; and
+(i) the total amount of all sums issued and paid shall not exceed a one and one-half percent (1 ½ %) of the total amount of all sums appropriated by the Appropriation Act or Acts for that year; and
 
 (ii) in such case the Public Expenditure Review Committee shall investigate and make a recommendation to the Minister of Finance who may direct that any  amount  paid  to  any  Government Department  or  Crown  Agency  in  accordance  with paragraph (b) be repaid to the Cook Islands Government Account out of any appropriation in any following year.]
 
@@ -1640,7 +1829,7 @@ Subclauses (1), (2) and (3) were inserted by section 2 of the Constitution Amend
 
 Subcl.(3A) was inserted by s.9(1) of the Constitution Amendment(No.9) Act 1980-81
 
-#### 7l.    Audit  -
+#### 71. Audit -
 (1)  The  Audit  Office  of  [the  Cook  Islands]  shall  be  the  auditor  of  the  Cook Islands Government Account and of all other public funds or accounts, and of the accounts of all Departments  and  offices  of  executive  government  and  of  such  other  public,  statutory,  or  local authorities or bodies as may be provided by law.
 
 (2)  The  Audit  Office  shall,  at  least  once  annually,  forward  to  the  Speaker  of [Parliament] for presentation to [Parliament] a report containing such information as is required to be submitted by any enactment, together with such other information relating to the Cook Islands Government Account or other funds or accounts which under this Constitution or under any other enactment are required to be audited by the Audit Office as that Office considers desirable.
@@ -1667,32 +1856,32 @@ The word "Parliament" was substituted for the words "the Legislative Assembly" a
 
 ## [PART VI THE COOK ISLANDS PUBLIC SERVICE
 
-#### The Cook Islands Public Service -
+#### 72. The Cook Islands Public Service -
 (1) There shall be a Cook Islands Public Service, which shall comprise such persons in the service of the Government of the Cook Islands as may from time to time be prescribed by law.
 
-- An Act shall provide for the administration and regulation of the Cook Islands Public Service including without limitation, the appointment, terms of service, disciplinary control, termination  of  appointment,  and  dismissal  of  members  of  the  Public  Service,  and  different  such provisions may be made in respect of different classes of members of the Public Service.
+(2) An Act shall provide for the administration and regulation of the Cook Islands Public Service including without limitation, the appointment, terms of service, disciplinary control, termination of appointment, and dismissal of members of the Public Service, and different such provisions may be made in respect of different classes of members of the Public Service.
 
-#### Public  Service  Commissioner  -
-(1)  There  shall  be  a  Public  Service  Commissioner appointed by the Queen's Representative on the advi ce of the Prime Minister.
+#### 73. Public Service Commissioner -
+(1) There shall be a Public Service Commissioner appointed by the Queen's Representative on the advice of the Prime Minister.
 
-- No  person shall be appointed to be or to remain the Public Service Commissioner if he is or becomes a member of Parliament.
+(2) No person shall be appointed to be or to remain the Public Service Commissioner if he is or becomes a member of Parliament.
 
-- The Public Service Commissioner shall not hold concurrently any other office in the Cook Islands Public Service.
+(3) The Public Service Commissioner shall not hold concurrently any other office in the Cook Islands Public Service.
 
-- The  actions  of  the  Public  Service  Commissioner  shall  not  be  invalidated  in consequence of the subsequent discovery of some defect with regard to his appointment.
+(4) The actions of the Public Service Commissioner shall not be invalidated in consequence of the subsequent discovery of some defect with regard to his appointment.
 
-- The Public Service Commissioner shall be paid such remuneration by way of salary and allowances as may from time to time be determined by Cabinet.
+(5) The Public Service Commissioner shall be paid such remuneration by way of salary and allowances as may from time to time be determined by Cabinet.
 
-- The  procedure  to  be  followed  by  the  Public  Service  Commissioner  I  the exercise  of  his  functions,  and  the  delegation  of  his  powers  and  functions  may  be  prescribed  by enactment.
+(6) The procedure to be followed by the Public Service Commissioner in the exercise of his functions, and the delegation of his powers and functions may be prescribed by enactment.
 
 #### [74.    Term  of  Office  of  the  Public  Service  Commissioner  -
 (1)  The  Public  Service Commissioner shall be appointed for a term as shall be determined by Cabinet and may from time to time be re-appointed.
 
-- The Public Service Commissioner may at any time resign his office by writing under his hand addressed to the Prime Minister.
+(2) The Public Service Commissioner may at any time resign his office by writing under his hand addressed to the Prime Minister.
 
-- The Queen's Representative, acting on the advice of the Prime Minister, may suspend or remove the Public Service Commissioner from office for disability, bankruptcy, neglect of duty, breach of the terms of his appointment, or misconduct.
+(3) The Queen's Representative, acting on the advice of the Prime Minister, may suspend or remove the Public Service Commissioner from office for disability, bankruptcy, neglect of duty, breach of the terms of his appointment, or misconduct.
 
-- The Public Service Commissioner shall have such functions as are prescribed by Act.
+(4) The Public Service Commissioner shall have such functions as are prescribed by Act.
 
 [[END OF PAGE 37]]
 
@@ -1702,39 +1891,39 @@ The word "Parliament" was substituted for the words "the Legislative Assembly" a
 
 Constitution
 
-#### Staff of Queen's Representative  -
-(1) Except as provided in subclause (2) of this Article, the appointment, terms of service, disciplinary control, termination of appointment, and dismissal of staff of the Queen's Representative shall be mat ters for the Queen's Representative, acting in his discretion.
+#### 75. Staff of Queen's Representative -
+(1) Except as provided in subclause (2) of this Article, the appointment, terms of service, disciplinary control, termination of appointment, and dismissal of staff of the Queen's Representative shall be matters for the Queen's Representative, acting in his discretion.
 
-- The  Queen's  Representative,  if  he  so  desires ,  may  appoint  to  his  staff  such employees of the Cook Islands Public Service as he may select, acting in his discretion but after consultation with the Prime Minister, from a list subjected by the Public Service Commissioner; and the provisions of subclause (1) of this Article (except so far as they relate to appointment) shall apply  in  relation  to  a  person  so  appointed  in  respect  of  his  service  on  the  staff  of  the  Queen's Representative but not in respect of his service as an employee of the Cook Islands Public Service.
+(2) The Queen's Representative, if he so desires, may appoint to his staff such employees of the Cook Islands Public Service as he may select, acting in his discretion but after consultation with the Prime Minister, from a list subjected by the Public Service Commissioner; and the provisions of subclause (1) of this Article (except so far as they relate to appointment) shall apply in relation to a person so appointed in respect of his service on the staff of the Queen's Representative but not in respect of his service as an employee of the Cook Islands Public Service.
 
 Note: In the original Article 75(2), the word 'submitted' was used instead of 'subjected'. It is suggested that 'subjected' may be a typographical error.
 
-#### Board of Appeal -
+#### 76. Board of Appeal -
 (1) There shall be a Cook Islands Public Service Board of Appeal, which shall consist of -
 
 (a) The Chief Justice of the High Court;
 
-(b) One  person,  being  an  employee  or  former  employee  of  the Cook  Islands  Public  Service,  to  be  appointed  by,  and  hold office at the pleasure of, the Queen's Representati ve, acting on the advice of the Prime Minister.
+(b) One person, being an employee or former employee of the Cook Islands Public Service, to be appointed by, and hold office at the pleasure of, the Queen's Representative, acting on the advice of the Prime Minister.
 
-(c) One  person,  being  an  employee  or  former  employee  of  the Cook Islands Public Service, to be elected by the employees of  that  Service  or  nominated  by  an  organisation  of  those employees, and to hold office for a period of 3 years.
+(c) One person, being an employee or former employee of the Cook Islands Public Service, to be elected by the employees of that Service or nominated by an organisation of those employees, and to hold office for a period of 3 years.
 
-- The Chief Justice shall be Chairman of the Board of Appeal.
+(2) The Chief Justice shall be Chairman of the Board of Appeal.
 
-- In the absence of the Chief Justice from any sitting of the Board of Appeal, any other Judge of the High Court nominated by him, either generally or in any particular case, may attend the sitting in his stead, and while so attending shall be Chairman of the Board of Appeal.
+(3) In the absence of the Chief Justice from any sitting of the Board of Appeal, any other Judge of the High Court nominated by him, either generally or in any particular case, may attend the sitting in his stead, and while so attending shall be Chairman of the Board of Appeal.
 
-- In  the  absence  of  the  Chief  Justice  or  other  Judge  nominated  pursuant  to subclause (3), the person for the time being holding office as Ombudsman may attend the sitting I his stead and while so acting shall be Chairman of the Board of Appeal.
+(4) In the absence of the Chief Justice or other Judge nominated pursuant to subclause (3), the person for the time being holding office as Ombudsman may attend the sitting in his stead and while so acting shall be Chairman of the Board of Appeal.
 
-- An Act,-
+(5) An Act,-
 
-(a) shall  prescribe  whether  or  not  the  person  to  be  appointed  under the provisions of paragraph (c) of subclause (1) of this Article is to  be  elected  or  nominated  and  the  manner  of  that  election  or nomination;
+(a) shall prescribe whether or not the person to be appointed under the provisions of paragraph (c) of subclause (1) of this Article is to be elected or nominated and the manner of that election or nomination;
 
-(b) May  provide  for  the  appointment  of  deputies  to  act  for members  of the Board of Appeal appointed under the provisions of paragraph (b) or paragraph (c) of subclause (1) of this Article;
+(b) May provide for the appointment of deputies to act for members of the Board of Appeal appointed under the provisions of paragraph (b) or paragraph (c) of subclause (1) of this Article;
 
 (c) Shall prescribe the jurisdiction of the Board of Appeal to hear and determine appeals;
 
 (d) Shall prescribe the procedure of the Board of Appeal.
 
-- Subject  to  the  provisions  of  any  Act,  the  Board  of  Appeal  shall  determine  its own procedure.]
+(6) Subject to the provisions of any Act, the Board of Appeal shall determine its own procedure.]
 
 Part VI was inserted by section 8 of the Constitution Amendment (No. 17) Act 1994-95.
 
@@ -1759,11 +1948,11 @@ Constitution
 
 (2) Any person may apply, pursuant to the provisions of an Act of Parliament, for a certificate granting to him the status of a permanent resident of the Cook Islands.
 
-- An Act may -
+(3) An Act may -
 
-(a) Prescribe the qualifications to be held  by  a  person  to  whom subclauses (2) of this Article applies who is an applicant for such a certificate,  and  the  circumstance  in  which  such  an  applicant  is disqualified from being granted such a certificate; and
+(a) Prescribe the qualifications to be held by a person to whom subclauses (2) of this Article applies who is an applicant for such a certificate, and the circumstance in which such an applicant is disqualified from being granted such a certificate; and
 
-(b) Prescribe the conditions subject to which such a certificate may be g ranted to a person to whom subclause (2) of this Article applies; and
+(b) Prescribe the conditions subject to which such a certificate may be granted to a person to whom subclause (2) of this Article applies; and
 
 (c) Confer on a Minister a discretion to grant or refuse such a certificate to a person to whom subclause (2) of this Article applies; and
 
@@ -1773,14 +1962,14 @@ Constitution
 
 Provided that any certificate granted may only be revoked by a Judge of the High Court.
 
-- Notwithstanding any of the provisions of this Article, the Minister Responsible for Immigration may cancel any certificate granted if the person to whom the certificate relates is absent  from  the  Cook  Islands  continuously  for  a  period  exceeding  three  years  in  circumstances indicating that the person has ceased to make his home in the Cook Islands.
+(4) Notwithstanding any of the provisions of this Article, the Minister Responsible for Immigration may cancel any certificate granted if the person to whom the certificate relates is absent from the Cook Islands continuously for a period exceeding three years in circumstances indicating that the person has ceased to make his home in the Cook Islands.
 
-(5)  Nothing in this Article shall affect the status as a permanent resident of the Cook Islands of any person holding that status pursuant to the Entry, Residence, and Departure Act 197172, immediately before the commencement of this Article.
+(5) Nothing in this Article shall affect the status as a permanent resident of the Cook Islands of any person holding that status pursuant to the Entry, Residence, and Departure Act 1971-72, immediately before the commencement of this Article.
 
 Paragraph (e) of Subclause (3) was added by section 2 of the Constitution Amendment (No. 19) Act 1995-96.
 
 #### [76B.  The Prerogative of Mercy and Pardon -
-The Prerogative of Mercy and Pardon shall be  exercised  by  the  [[Queen's  Representative]],  act ing  pursuant  to  a  resolution  of  Parliament, provided that any such resolution must receive the support of not less than two-thirds of the total membership (including vacancies) of Parliament.
+The Prerogative of Mercy and Pardon shall be exercised by the [[Queen's Representative]], acting pursuant to a resolution of Parliament, provided that any such resolution must receive the support of not less than two-thirds of the total membership (including vacancies) of Parliament.
 
 The words "Queen's Representative" were substituted for the words "High Commissioner" by s.4(1) of the Constitution Amendment (No.10) Act 1981-82 (C.I.).
 
@@ -1795,43 +1984,43 @@ Constitution
 #### [76C.  The Cook Islands Ensign -
 (1) The Cook Islands Ensign shall be the flag described in the Third Schedule to this Constitution.
 
-- The  Cook  Islands  Ensign  is  hereby  declared  to  be  the  recognised  flag  of  the Cook Islands.
+(2) The Cook Islands Ensign is hereby declared to be the recognised flag of the Cook Islands.
 
-- Provision  may be  made by enactment prescribing the circumstances in which and the  conditions  subject  to  which  the  Cook  Islands  Ensign  may  be  flown,  and  prohibiting  the defacing of the ensign by placing any sign, representation or letter thereon.
+(3) Provision may be made by enactment prescribing the circumstances in which and the conditions subject to which the Cook Islands Ensign may be flown, and prohibiting the defacing of the ensign by placing any sign, representation or letter thereon.
 
-#### [76D.  National anthem of the Cook Islands -
+#### [76D. National anthem of the Cook Islands -
 (1) The anthem entitled "Te Atua Mou E" shall be the national anthem of the Cook Islands.
 
-- The words of the national anthem shall be as set out in the Fourth Schedule to this Constitution.]
+(2) The words of the national anthem shall be as set out in the Fourth Schedule to this Constitution.]
 
 This Part VIA was inserted by s.13 of the Constitution Amendment (No.9) Act 1980-81 (C.I.).
 
 ## PART VII TRANSITIONAL PROVISIONS
 
-#### Existing law to continue -
+#### 77. Existing law to continue -
 Subject to the provisions of this Constitution,-
 
-(a) The  existing  law  shall,  until  repealed,  and  subject  to  any amendment thereof, continue in force on and after Constitution Day;
+(a) The existing law shall, until repealed, and subject to any amendment thereof, continue in force on and after Constitution Day;
 
 (b) All rights, obligations, and liabilities arising under the existing law shall continue to exist on and after Constitution Day, and shall be recognised, exercised, and enforced accordingly.
 
-#### Repealed
+#### 78. Repealed
 by S.15 of the Constitution Amendment (No. 9) Act 1980-81 (C.I.).
 
-#### Repealed
+#### 79. Repealed
 by S. 2(1) of the Cook Islands Constitution Amendment Act 1965 (N.Z.).
 
-#### Legislative  Assembly  of  the  Cook  Islands
-(1)  -  (3)  Repealed  by  s.15  of  the Constitution Amendment (No.9) Act 1980-81 (C.I.).
+#### 80. Legislative Assembly of the Cook Islands
+(1) - (3) Repealed by s.15 of the Constitution Amendment (No.9) Act 1980-81 (C.I.).
 
-- Subject  to  the  provisions  of  this  Constitution,  the  Standing  Orders  of  the Legislative  Assembly  in  force  immediately  before  Constitution  Day  shall  continue  to  be  the Standing  Orders  of  [Parliament],  and  they  may  be  amended,  repealed,  or  added  to  under  the provisions of Article 34 hereof.
+(4) Subject to the provisions of this Constitution, the Standing Orders of the Legislative Assembly in force immediately before Constitution Day shall continue to be the Standing Orders of [Parliament], and they may be amended, repealed, or added to under the provisions of Article 34 hereof.
 
 The word "Parliament" was substituted for the words "Legislative Assembly" in subcl.(4) by s.17(4) of the Constitution Amendment (No.9) Act 1980-81 (C.I.).
 
-#### Ordinances  of  Former  Legislative  Council  or  Legislative  Assembly  -
-(1)  Every Ordinance made by the Legislative Council of the Cook Islands under section 2 of the Cook Islands Amendment Act 1946, and in force immediately before Constitution Day, shall be deemed to be an Ordinance of the Legislative Assembly of the Cook Islands made before Constitution Day and shall continue in force as if it were such an Ordinance on and after Constitution Day.
+#### 81. Ordinances of Former Legislative Council or Legislative Assembly -
+(1) Every Ordinance made by the Legislative Council of the Cook Islands under section 2 of the Cook Islands Amendment Act 1946, and in force immediately before Constitution Day, shall be deemed to be an Ordinance of the Legislative Assembly of the Cook Islands made before Constitution Day and shall continue in force as if it were such an Ordinance on and after Constitution Day.
 
-- All  Ordinances  made by the  Legislative Assembly of the Cook  Islands under section 38 of the Cook Islands Amendment Act 1957, and in force immediately before Constitution Day, shall continue in force on and after Constitution Day.
+(2) All Ordinances made by the Legislative Assembly of the Cook Islands under section 38 of the Cook Islands Amendment Act 1957, and in force immediately before Constitution Day, shall continue in force on and after Constitution Day.
 
 [[END OF PAGE 40]]
 
@@ -1841,19 +2030,19 @@ Constitution
 
 41
 
-#### The High Court -
+#### 82. The High Court -
 (1) The High Court of the Cook Islands established by Article 47 hereof is hereby declared to be the same Court as the High Court of the Cook Islands established by the Cook Islands Act 1915.
 
-- The  Judges  and  Commissioners  of  that  Court  in  office  immediately  before Constitution Day shall continue to hold office on and after Constitution Day as if they had been appointed  under  the  provisions  of  this  Constitution,  and  those  Judges  shall  receive  the  salary  to which they were entitled immediately before Constitution Day as if that salary had been fixed by enactment.
+(2) The Judges and Commissioners of that Court in office immediately before Constitution Day shall continue to hold office on and after Constitution Day as if they had been appointed under the provisions of this Constitution, and those Judges shall receive the salary to which they were entitled immediately before Constitution Day as if that salary had been fixed by enactment.
 
-- All judgements, decrees, records, and acts of the High Court of the Cook Islands shall continue to have full force and effect on and after Constitution Day as judgements, decrees, records and acts of the High Court established under this Constitution; and all proceedings, civil or criminal, pending in the High Court immediately before Constitution Day, and all appeals pending immediately before Constitution Day from decisions of the High Court, may be continued on and after Constitution Day.
+(3) All judgements, decrees, records, and acts of the High Court of the Cook Islands shall continue to have full force and effect on and after Constitution Day as judgements, decrees, records and acts of the High Court established under this Constitution; and all proceedings, civil or criminal, pending in the High Court immediately before Constitution Day, and all appeals pending immediately before Constitution Day from decisions of the High Court, may be continued on and after Constitution Day.
 
-#### The Land Court -
-(1) The Land Court of the Cook Islands established by Article 52 hereof  is  hereby  declared  to  be  the  same  Court  as  the  Native  Land  Court  of  the  Cook  Islands established by the Cook Islands Act 1915.
+#### 83. The Land Court -
+(1) The Land Court of the Cook Islands established by Article 52 hereof is hereby declared to be the same Court as the Native Land Court of the Cook Islands established by the Cook Islands Act 1915.
 
-- The Land Court of the Cook Islands shall also be deemed for all purposes to be the same Court as that which existed at the commencement of the Cook Islands Act 1915 under the name of the Cook Islands Land Titles Court, and all orders theretofore made by the last-mentioned Court shall have effect accordingly.
+(2) The Land Court of the Cook Islands shall also be deemed for all purposes to be the same Court as that which existed at the commencement of the Cook Islands Act 1915 under the name of the Cook Islands Land Titles Court, and all orders theretofore made by the last-mentioned Court shall have effect accordingly.
 
-- Repealed by S.15 of the Constitution Amendment (No.9) Act 1980-81 (C.I.).
+(3) Repealed by S.15 of the Constitution Amendment (No.9) Act 1980-81 (C.I.).
 
 [[END OF PAGE 41]]
 
@@ -1867,15 +2056,15 @@ Constitution
 
 (Article 27)
 
-### NAMES AND BOUNDARIES OF CONSTITUENCIES TOGETHER COMPRISING THE ISLANDS OF AITUTAKI, MANUAE, AND TE-AU-0-TU, AND THE ISLANDS OF RAROTONGA AND PALMERSTON, AND THE ISLAND OF MANGAIA, AND THE ISLAND OF ATIU
+### NAMES AND BOUNDARIES OF CONSTITUENCIES TOGETHER COMPRISING THE ISLANDS OF AITUTAKI, MANUAE, AND TE-AU-O-TU, AND THE ISLANDS OF RAROTONGA AND PALMERSTON, AND THE ISLAND OF MANGAIA, AND THE ISLAND OF ATIU
 
 #### [[PART I
 
-##### CONSTITUENCIES COMPRISING THE ISLANDS OF AITUTAKI MANUAE AND TE-AU-0-TU
+##### CONSTITUENCIES COMPRISING THE ISLANDS OF AITUTAKI MANUAE AND TE-AU-O-TU
 
 ###### VAIPAE-TAUTU CONSTITUENCY
 
-All that area in the Island of Aitutaki delineated and edged in red on the plan S.0.1008 deposited in the office of the Chief Surveyor at Rarotonga, comprising -
+All that area in the Island of Aitutaki delineated and edged in red on the plan S.O.1008 deposited in the office of the Chief Surveyor at Rarotonga, comprising -
 
 (i) The Avanui Tapere, being part of the Avanui District; and
 
@@ -1913,7 +2102,7 @@ Motukitiu
 
 ###### AMURI-UREIA CONSTITUENCY
 
-All that area in the Island of Aitutaki delineated and edged blue on plan S.0.1008 deposited in the office of the Chief Surveyor at Rarotonga, comprising -
+All that area in the Island of Aitutaki delineated and edged blue on plan S.O.1008 deposited in the office of the Chief Surveyor at Rarotonga, comprising -
 
 (i) The Ureia Tapere, being part of the Arutanga District; and
 
@@ -1937,13 +2126,13 @@ Constitution
 
 ###### ARUTANGA-REUREU-NIKAUPARA CONSTITUENCY
 
-All the area in the Island of Aitutaki delineated and edged green on plan S.0.1008 deposited in the office of the Chief Surveyor at Rarotonga, comprising -
+All the area in the Island of Aitutaki delineated and edged green on plan S.O.1008 deposited in the office of the Chief Surveyor at Rarotonga, comprising -
 
 (i) The  Arutanga  Tapere,  the  Reureu  Tapere,  and  Nukunoni  Tapere, being part of the Arutanga District; and
 
 (ii) The  Vaiorea  Tapere,  the  Vaiau  Tapere,  and  Taravao  Tapere  of  the Taravao District; and
 
-(iii) The Islands of Manuae and Te-Au-0-Tu; and
+(iii) The Islands of Manuae and Te-Au-O-Tu; and
 
 (iv) The motu known as Maina.]]
 
@@ -1952,27 +2141,27 @@ All the area in the Island of Aitutaki delineated and edged green on plan S.0.10
 
 ###### NIKAO-PANAMA CONSTITUENCY
 
-All  that  area  in  the  Avarua  Survey  District  in  the  Island  of  Rarotonga  comprising  the  Tapere  of Pokoinu, Nikao, Puapuautu, Areanu and Kaikaveka as delineated on plan S.0.1002, deposited in the office of the Chief Surveyor at Rarotonga.
+All that area in the Avarua Survey District in the Island of Rarotonga comprising the Tapere of Pokoinu, Nikao, Puapuautu, Areanu and Kaikaveka as delineated on plan S.O.1002, deposited in the office of the Chief Surveyor at Rarotonga.
 
 ###### AVATIU-RUATONGA CONSTITUENCY
 
-All  that  area  in  the  Avarua  Survey  District  in  the  Island  of  Rarotonga  comprising  the  Tapere  of Atupa, Avatiu and Ruatonga, as delineated on the said plan S.0.1002, together with the Island of Palmerston.
+All that area in the Avarua Survey District in the Island of Rarotonga comprising the Tapere of Atupa, Avatiu and Ruatonga, as delineated on the said plan S.O.1002, together with the Island of Palmerston.
 
 ###### TAKUVAINE-TUTAKIMOA CONSTITUENCY
 
-All  that  area  in  the  Avarua  Survey  District  in  the  Island  of  Rarotonga  comprising  the  Tapere  of Tutakimoa, Tauae and Takuvaine, as delineated on the said plan S.0.1002.
+All that area in the Avarua Survey District in the Island of Rarotonga comprising the Tapere of Tutakimoa, Tauae and Takuvaine, as delineated on the said plan S.O.1002.
 
 ###### TUPAPA-MARAERENGA CONSTITUENCY
 
-All  that  area  in  the  Avarua  Survey  District  in  the  Island  of  Rarotonga  comprising  the  Tapere  of Ngatipa  Vaikai,  Tapae-i-Uta,  Pue,  Punataia,  Kiikii  and  Tupapa  as  delineated  in  the  said  plan S.0.1002.
+All that area in the Avarua Survey District in the Island of Rarotonga comprising the Tapere of Ngatipa Vaikai, Tapae-i-Uta, Pue, Punataia, Kiikii and Tupapa as delineated in the said plan S.O.1002.
 
 ###### MATAVERA CONSTITUENCY
 
-All that area comprising the Matavera Survey District in the Island of Rarotonga, as delineated on the said plan S.0. 1002.
+All that area comprising the Matavera Survey District in the Island of Rarotonga, as delineated on the said plan S.O. 1002.
 
 ###### NGATANGIIA CONSTITUENCY
 
-All that area comprising the Ngatangiia Survey District in the Island of Rarotonga, as delineated on the said plan S.0. 1002.
+All that area comprising the Ngatangiia Survey District in the Island of Rarotonga, as delineated on the said plan S.O. 1002.
 
 [[END OF PAGE 43]]
 
@@ -1984,34 +2173,34 @@ Constitution
 
 ###### TITIKAVEKA CONSTITUENCY
 
-All that area comprising the Takitumu Survey District in the Island of Rarotonga, as delineated on the said plan S.0.1002.
+All that area comprising the Takitumu Survey District in the Island of Rarotonga, as delineated on the said plan S.O.1002.
 
 ###### MURIENUA CONSTITUENCY
 
-[All that area in the Arorangi Survey District in the Island of Rarotonga, comprising the Tapere of Kavera, Aroa, and Rutaki, as delineated on the said plan S.0.1002.]
+[All that area in the Arorangi Survey District in the Island of Rarotonga, comprising the Tapere of Kavera, Aroa, and Rutaki, as delineated on the said plan S.O.1002.]
 
 ###### AKAOA CONSTITUENCY
 
-[All that area in the Arorangi Survey District in the Island of Rarotonga, comprising the Tapere of Akaoa, and the Tapere of Vaiakura, as delineated on the said plan S.0.1002.]
+[All that area in the Arorangi Survey District in the Island of Rarotonga, comprising the Tapere of Akaoa, and the Tapere of Vaiakura, as delineated on the said plan S.O.1002.]
 
 ###### RUAAU CONSTITUENCY
 
-All that area in the Arorangi Survey District in the Island of Rarotonga, comprising the Tapere of Pokoinu-i-Raro, Tokerau, Inave, and Arerenga, as delineated on the said plan S.0.1002.
+All that area in the Arorangi Survey District in the Island of Rarotonga, comprising the Tapere of Pokoinu-i-Raro, Tokerau, Inave, and Arerenga, as delineated on the said plan S.O.1002.
 
 #### PART III
 ##### CONSTITUENCIES COMPRISING THE ISLAND OF MANGAIA
 
 ###### ONEROA CONSTITUENCY
 
-All that area in the Island of Mangaia comprising the Tapere of Tava'enga, Keia, and Veitatei, as delineated on plan S.0. 1014 deposited in the Office of the Chief Surveyor at Rarotonga.
+All that area in the Island of Mangaia comprising the Tapere of Tava'enga, Keia, and Veitatei, as delineated on plan S.O. 1014 deposited in the Office of the Chief Surveyor at Rarotonga.
 
 ###### IVIRUA CONSTITUENCY
 
-All that area in the Island of Mangaia comprising the Tapere of Karanga and Ivirua, as delineated on the said plan S.0. 1014.
+All that area in the Island of Mangaia comprising the Tapere of Karanga and Ivirua, as delineated on the said plan S.O. 1014.
 
 ###### TAMARUA CONSTITUENCY
 
-All that area in the Island of Mangaia comprising the Tapere of Tamarua, as delineated on the said plan S.0. 1014.
+All that area in the Island of Mangaia comprising the Tapere of Tamarua, as delineated on the said plan S.O. 1014.
 
 The description of the Murienua constituency was amended, and the Akaoa constituency added, by sections 3(3) and 3(4) respectively of the Constitution Amendment (No. 14) Act 1991.
 
@@ -2028,11 +2217,11 @@ Constitution
 ##### CONSTITUENCIES COMPRISING THE ISLAND OF ATIU
 ###### TENGATANGI- AREORA -NGATIARUA CONSTITUENCY
 
-All  that  area  in  the  Island  of  Atiu  bounded  by  a  line  commencing  at  Trig  station  CB1  and proceeding due west along a right line to the sea-coast; thence generally southerly, easterly, and northerly along the sea-coast to its intersection with a right line bearing of 45 degrees from CB1; thence south-westerly along that right line to the point of commencement, to include the villages of Areora, Tengatangi, and Ngatiarua, as delineated on Plan S.0.1015 deposited in the office of the Chief Surveyor at Rarotonga.
+All that area in the Island of Atiu bounded by a line commencing at Trig station CB1 and proceeding due west along a right line to the sea-coast; thence generally southerly, easterly, and northerly along the sea-coast to its intersection with a right line bearing of 45 degrees from CB1; thence south-westerly along that right line to the point of commencement, to include the villages of Areora, Tengatangi, and Ngatiarua, as delineated on Plan S.O.1015 deposited in the office of the Chief Surveyor at Rarotonga.
 
 ###### TEENUI-MAPUMAI CONSTITUENCY
 
-All  that  area  in  the  Island  of  Atiu  bounded  by  a  line  commencing  at  Trig  station  CBI  and proceeding  due  west  along  a  right  line  to  the  sea-coast;  thence  generally  northerly,  and  southeasterly, along the sea-coast to its inter-section with a right line bearing of 45 degrees from CBI; thence south-westerly along that right line to the point of commencement, to include the villages of Teenui and Mapumai, as delineated on the said S.0.Plan 1015.]
+All that area in the Island of Atiu bounded by a line commencing at Trig station CB1 and proceeding due west along a right line to the sea-coast; thence generally northerly, and south-easterly, along the sea-coast to its inter-section with a right line bearing of 45 degrees from CB1; thence south-westerly along that right line to the point of commencement, to include the villages of Teenui and Mapumai, as delineated on the said S.O. Plan 1015.]
 
 The First Schedule was added by s.16 of the Constitution Amendment (No.9) Act 1980-81 (C.I.). Part I was substituted by s.8 of the Constitution Amendment (No.11) Act 1982 (C.I.). Part II was substituted by s.3 of the Constitution Amendment (No.12) Act 1986.
 
@@ -2104,51 +2293,29 @@ Section 231(1)(c) (kidnapping)
 
 Crimes against the following provisions of the Crimes Act 1969:
 
-Section 116
+Section 111 (judicial corruption)
 
-Section 120
+Section 112 (bribery of judicial officer)
 
-Section 121
+Section 113 (bribery and corruption of Minister of the Crown)
 
-Section 124
+Section 114 (corruption and bribery of Member of Parliament)
 
-Section 126
+Section 115 (corruption and bribery of law enforcement officer)
 
-Section  111
+Section 116 (corruption and bribery of official)
 
-(judicial corruption)
+Section 120 (perjury)
 
-Section  112
+Section 121 (false oaths)
 
-(bribery of judicial officer)
+Section 124 (fabricating evidence)
 
-Section  113
+Section 126 (conspiring to bring false accusations)
 
-(bribery and corruption of Minister
+Section 127 (conspiring to defeat justice)
 
-of the Crown)
-
-Section  114
-
-(corruption and bribery of Member
-
-of Parliament)
-
-Section  115 (corruption and bribery of law enforcement officer)
-
-(corruption and bribery of official)
-
-(perjury)
-
-(false oaths)
-
-(fabricating evidence)
-
-(conspiring to bring false accusations)
-
-Section  127 (conspiring to defeat justice)
-
-Section  128 (corrupting juries and witnesses)
+Section 128 (corrupting juries and witnesses)
 
 [[END OF PAGE 46]]
 
@@ -2218,7 +2385,7 @@ The Second Schedule was added by s.16 of the Constitution Amendment (No.9) Act 1
 
 The Cook Islands Ensign shall be described as follows:
 
-The Cook Islands Ensign shall be a Royal blue ensign. The Union Jack shall occupy the upper staff quarter, having on the fly 15 stars in a symmetrical ring, all of equal size and equal spacing, and the colour of the stars shall be white. The flag proportion of length to breath shall be two to one. And it shall mean -
+The Cook Islands Ensign shall be a Royal blue ensign. The Union Jack shall occupy the upper staff quarter, having on the fly 15 stars in a symmetrical ring, all of equal size and equal spacing, and the colour of the stars shall be white. The flag proportion of length to breadth shall be two to one. And it shall mean -
 
 Blue - is the colour most expressive of our Nation, it is representative of the vast area of the Pacific Ocean in which the islands of the Cook Islands are scattered. Blue also depicts the peaceful nature of the inhabitants of our islands.
 
@@ -2264,35 +2431,34 @@ An Act to make provisions for self government by the people of the Cook Islands 
 
 BE IT ENACTED by the General Assembly of New Zealand in Parliament assembled, and by the authority of the same as follows:
 
-#### Short  Title  and  Commencement  -
-(1)  This  Act  may  be  cited  as  the  Cook  Islands Constitution Act 1964.
+#### 1. Short Title and Commencement -
+(1) This Act may be cited as the Cook Islands Constitution Act 1964.
 
-- This Act shall come into force on a date to be appointed for the commencement thereof by the Governor-General, by Proclamation, being a date later than the date on which the first meeting of the Legislative Assembly of the Cook Islands is held after the first general election of the Assembly held after the passing of this Act.
+(2) This Act shall come into force on a date to be appointed for the commencement thereof by the Governor-General, by Proclamation, being a date later than the date on which the first meeting of the Legislative Assembly of the Cook Islands is held after the first general election of the Assembly held after the passing of this Act.
 
-In subs. (2) the words "Subject to the provisions of Article 79 of the Constitution" were omitted by s.2(2) of the Cook Islands Amendment Act 1965 (N.Z.) This  Act  came  into  force  on  4  August  1965;  see  clause  2  of  the  Cook  Islands  Constitution  Act
+In subs. (2) the words "Subject to the provisions of Article 79 of the Constitution" were omitted by s.2(2) of the Cook Islands Amendment Act 1965 (N.Z.)
+This Act came into force on 4 August 1965; see clause 2 of the Cook Islands Constitution Act Commencement Order 1965 (S.R. 1965/128) (N.Z.)
 
-Commencement Order 1965 (S.R. 1965/128) (N.Z.)
-
-#### Interpretation  and  application  -
-(1)  In  this  Act  -  "The  Constitution"  means  the Constitution of the Cook Islands as set out in the Schedule to this Act;
+#### 2. Interpretation and application -
+(1) In this Act - "The Constitution" means the Constitution of the Cook Islands as set out in the Schedule to this Act;
 
 "The Cook Islands" has the same meaning as in the Constitution.
 
-- This Act shall be in force in the Cook Islands and, unless the context otherwise requires, shall apply to the Cook Islands only and not to New Zealand.
+(2) This Act shall be in force in the Cook Islands and, unless the context otherwise requires, shall apply to the Cook Islands only and not to New Zealand.
 
-#### Cook Islands to be self-governing -
+#### 3. Cook Islands to be self-governing -
 The Cook Islands shall be self-governing.
 
-#### Constitution of the Cook Islands -
+#### 4. Constitution of the Cook Islands -
 The Constitution set out in the Schedule to this Act shall be the Constitution of the Cook Islands, and shall be the supreme law of the Cook Islands.
 
-#### External affairs and defence -
-Nothing in this Act or in the Constitution shall affect the responsibilities  of  Her  Majesty  the  Queen  in  right  of  New  Zealand  for  the  external  affairs  and defence of the Cook Islands, those responsibilities to be discharged after consultation by the Prime Minister of New Zealand with the [Prime Minister] of the Cook Islands.
+#### 5. External affairs and defence -
+Nothing in this Act or in the Constitution shall affect the responsibilities of Her Majesty the Queen in right of New Zealand for the external affairs and defence of the Cook Islands, those responsibilities to be discharged after consultation by the Prime Minister of New Zealand with the [Prime Minister] of the Cook Islands.
 
-The  title  of  the  Premier  was  changed  to  Prime  Minister  by  s.5  of  the  Constitution  Amendment (No.9) Act 1980-81 (C.I.)
+The title of the Premier was changed to Prime Minister by s.5 of the Constitution Amendment (No.9) Act 1980-81 (C.I.)
 
-#### British  nationality  and  New  Zealand  citizenship  -
-Nothing  in  this  Act  or  in  the Constitution shall  affect  the  status  of  any  person  as  a  British  subject  or  New  Zealand  citizen  by virtue of the British Nationality and New Zealand Citizenship Act 1948.
+#### 6. British nationality and New Zealand citizenship -
+Nothing in this Act or in the Constitution shall affect the status of any person as a British subject or New Zealand citizen by virtue of the British Nationality and New Zealand Citizenship Act 1948.
 
 ## [SCHEDULE]
 
@@ -2316,19 +2482,19 @@ An Act to amend the Cook Islands Constitution Act 1964
 
 BE IT ENACTED by the General Assembly of New Zealand in Parliament assembled, and by the authority of the same, as follows:
 
-#### Short  Title  and  commencement  -
-(1)  This  Act  may  be  cited  as  the  Cook  Islands Constitution Amendment Act 1965, and shall be read together with and deemed part of the Cook Islands Constitution Act 1964 (hereinafter referred to as the principal Act).
+#### 1. Short Title and commencement -
+(1) This Act may be cited as the Cook Islands Constitution Amendment Act 1965, and shall be read together with and deemed part of the Cook Islands Constitution Act 1964 (hereinafter referred to as the principal Act).
 
-- This Act shall come  into force on the date to be appointed for the commencement of the principal Act.
+(2) This Act shall come into force on the date to be appointed for the commencement of the principal Act.
 
 The Cook Islands Constitution Act 1964 came into force on the 4th August 1965; see clause 2 of the Cook Islands Constitution Act Commencement Order 1965 (S.R. 1965/128).
 
-#### Amendments of the Cook Islands Constitution -
+#### 2. Amendments of the Cook Islands Constitution -
 (1) The Constitution of the Cook Islands (as set out in the Schedule to the principal Act) is hereby amended in the manner indicated in the First Schedule to this Act.
 
-- This subsection amended s. 1(2) of the Cook Islands Constitution Act 1964.
+(2) This subsection amended s. 1(2) of the Cook Islands Constitution Act 1964.
 
-- The Constitution of the Cook Islands (as so amended) is set out in the Second Schedule to this Act.
+(3) The Constitution of the Cook Islands (as so amended) is set out in the Second Schedule to this Act.
 
 ## SCHEDULES
 
@@ -2363,20 +2529,20 @@ An Act to amend the Constitution
 
 BE IT ENACTED by the Legislative Assembly of the Cook Islands in Session assembled, and by the authority of the same, as follows:
 
-#### Short Title -
-This Act may be cited as the Constitution Amendment (No.2) Act 1968-69, and shall be read together with and deemed part of the Constitution of the Cook Islands as set  out  in  the  Second  Schedule  to  the  Cook  Islands  Constitution  Amendment  Act  1965  of  the Parliament of New Zealand (hereinafter referred to as "the Constitution").
+#### 1. Short Title -
+This Act may be cited as the Constitution Amendment (No.2) Act 1968-69, and shall be read together with and deemed part of the Constitution of the Cook Islands as set out in the Second Schedule to the Cook Islands Constitution Amendment Act 1965 of the Parliament of New Zealand (hereinafter referred to as "the Constitution").
 
-- Repealed by s. 23(1)(b) of the Constitution Amendment (No.9) Act 1980-81.
+2. Repealed by s. 23(1)(b) of the Constitution Amendment (No.9) Act 1980-81.
 
-- This section amended Article 70(3)(a) of the Constitution.
+3. This section amended Article 70(3)(a) of the Constitution.
 
-- Repealed by S.23(1)(b) of the Constitution Amendment (No.9) Act 1980-81.
+4. Repealed by S.23(1)(b) of the Constitution Amendment (No.9) Act 1980-81.
 
-- Repealed by s.7(2) of the Constitution Amendment (No.11) Act 1982.
+5. Repealed by s.7(2) of the Constitution Amendment (No.11) Act 1982.
 
-- Repealed by S. 10 (2) of the Constitution Amendment (No. 10) Act 1981.
+6. Repealed by S. 10 (2) of the Constitution Amendment (No. 10) Act 1981.
 
-- This section amended the Schedule to the Constitution Amendment (No.7) Act 1975.
+7. This section amended the Schedule to the Constitution Amendment (No.7) Act 1975.
 
 # CONSTITUTION AMENDMENT (NO. 5) ACT 1970 (C.I.)
 
@@ -2388,10 +2554,10 @@ An Act to amend the Constitution by increasing the number of Cabinet Ministers b
 
 BE IT ENACTED by the Legislative Assembly of the Cook Islands in Session assembled, and by the authority of the same, as follows:
 
-#### Short Title -
-This Act may be cited as the Constitution Amendment (No.5) Act 1970 and shall be read together with and deemed part of the Constitution of the Cook Islands as set out  in  the  Second  Schedule  to  the  Cook  Islands  Constitution  Amendment  Act  1965  (hereinafter referred to as "the Constitution").
+#### 1. Short Title -
+This Act may be cited as the Constitution Amendment (No.5) Act 1970 and shall be read together with and deemed part of the Constitution of the Cook Islands as set out in the Second Schedule to the Cook Islands Constitution Amendment Act 1965 (hereinafter referred to as "the Constitution").
 
-- This section amended Article 13(1) of the Constitution
+2. This section amended Article 13(1) of the Constitution
 
 [[END OF PAGE 51]]
 
@@ -2411,10 +2577,10 @@ An Act to amend the Constitution
 
 BE IT ENACTED by The Legislative Assembly of the Cook Islands in Session assembled, and by the authority of the same as follows:
 
-#### Short Title -
-This Act may be cited as the Constitution Amendment (No.6) Act 1973 and shall be read together with and deemed part of the Constitution of the Cook Islands as set out  in  the  Second  Schedule  to  the  Cook  Islands  Constitution  Amendment  Act  1965  of  the Parliament of New Zealand (hereinafter referred to as "the Constitution").
+#### 1. Short Title -
+This Act may be cited as the Constitution Amendment (No.6) Act 1973 and shall be read together with and deemed part of the Constitution of the Cook Islands as set out in the Second Schedule to the Cook Islands Constitution Amendment Act 1965 of the Parliament of New Zealand (hereinafter referred to as "the Constitution").
 
-- This  section  substituted  new  Articles  73,  74,  74A,  74B,  and  74C  in  the Constitution.
+2. This section substituted new Articles 73, 74, 74A, 74B, and 74C in the Constitution.
 
 The substituted Article 74B has been repealed by s.10(2) of the Constitution Amendment (No.9) Act 1980-81 (C.I.) which also substituted a new Article 74B.
 
@@ -2428,12 +2594,12 @@ An Act to amend the Constitution
 
 BE  IT  ENACTED by  the  Legislative  Assembly  of  the  Cook  Islands  in  Session  assembled,  in accordance  with  subclause  (1)  of  Article  41  of  the  Constitution  of  the  Cook  Islands  and  by  the authority of the same as follows:
 
-#### Short Title -
-This Act may be cited as the Constitution Amendment (No. 7) Act 1975 and shall be read together with and deemed part of the Constitution of the Cook Islands as set out  in  the  Second  Schedule  to  the  Cook  Islands  Constitution  Amendment  Act  1965  of  the Parliament of New Zealand (hereinafter referred to as "the Constitution").
+#### 1. Short Title -
+This Act may be cited as the Constitution Amendment (No. 7) Act 1975 and shall be read together with and deemed part of the Constitution of the Cook Islands as set out in the Second Schedule to the Cook Islands Constitution Amendment Act 1965 of the Parliament of New Zealand (hereinafter referred to as "the Constitution").
 
-(a) Para (a) amended the provisions of the Constitution set out in the Schedule to this Act.
+2. (a) Para (a) amended the provisions of the Constitution set out in the Schedule to this Act.
 
-(b),(c)  Repealed by s. 23(1) (e) of the Constitution Amendment (No.9) Act 1980-81.
+(b),(c) Repealed by s. 23(1) (e) of the Constitution Amendment (No.9) Act 1980-81.
 
 [[END OF PAGE 52]]
 
@@ -2443,6 +2609,12 @@ Constitution
 
 53
 
+## SCHEDULE
+
+### PROVISIONS OF CONSTITUTION WHERE REFERENCE TO CHIEF JUDGE OF THE HIGH COURT SUBSTITUTED BY REFERENCE TO CHIEF JUSTICE OF THE HIGH COURT
+
+#### ARTICLE 4
+
 Subclauses (1) and (2) of Article 76.
 
 The item relating to subclauses (2) and (4) of Article 7 was repealed by s. 5 of the Constitution Amendment (No.10) Act 1981-82
@@ -2450,12 +2622,6 @@ The item relating to subclauses (2) and (4) of Article 7 was repealed by s. 5 of
 The item relating to Articles 48(2)
 
 49(1) and 66(1) were repealed by S.23(1)(e) of the Constitution Amendment (No.9) Act 1980-81.
-
-## SCHEDULE
-
-### PROVISIONS OF CONSTITUTION WHERE REFERENCE TO CHIEF JUDGE OF THE HIGH COURT SUBSTITUTED BY REFERENCE TO CHIEF JUSTICE OF THE HIGH COURT
-
-#### ARTICLE 4
 
 [[END OF PAGE 53]]
 
@@ -2475,32 +2641,32 @@ An Act to amend the Constitution
 
 BE IT ENACTED by the Legislative Assembly of the Cook Islands in Session assembled, and by the authority of the same as follows:
 
-#### Short Title and commencement -
-(1) This Act may be cited as the Constitution Amendment  (No.9)  Act  1980-81  and  shall  be  read  together  with  and  deemed  part  of  the Constitution  of  the  Cook  Islands  as  set  out  in  the  Second  Schedule  to  the  [Cook  Islands Constitution Amendment Act 1965] of the Parliament of New Zealand, as amended by Acts of the Legislative Assembly (hereinafter referred to as "the Constitution").
+#### 1. Short Title and commencement -
+(1) This Act may be cited as the Constitution Amendment (No.9) Act 1980-81 and shall be read together with and deemed part of the Constitution of the Cook Islands as set out in the Second Schedule to the [Cook Islands Constitution Amendment Act 1965] of the Parliament of New Zealand, as amended by Acts of the Legislative Assembly (hereinafter referred to as "the Constitution").
 
-(2)   Subject to section 17(1) of this Act, this Act shall come into force on the date on which it is assented to by the High Commissioner.
+(2) Subject to section 17(1) of this Act, this Act shall come into force on the date on which it is assented to by the High Commissioner.
 
-The words "Cook Islands Constitution Amendment Act 1965" were substituted  for  the  words  "Cook  Islands  Constitution  Act  1964"  by  s.2(1)  of  the  Constitution Amendment (No.11) Act 1982. By that section, this amendment is declared to have come into force on the date of the commencement of Amendment (No.9).
+The words "Cook Islands Constitution Amendment Act 1965" were substituted for the words "Cook Islands Constitution Act 1964" by s.2(1) of the Constitution Amendment (No.11) Act 1982. By that section, this amendment is declared to have come into force on the date of the commencement of Amendment (No.9).
 
 ## PART I AMENDMENTS OF THE CONSTITUTION
 
-(1) This subsection amended Article (1) of the Constitution.
+2. (1) This subsection amended Article (1) of the Constitution.
 
-- This subsection inserted a definition of "Court of Appeal" in Article 1(1) of the Constitution.
+(2) This subsection inserted a definition of "Court of Appeal" in Article 1(1) of the Constitution.
 
-- This  subsection  repealed  the  definitions  of  "Land  Appellate  Court"  and  "Land Court"  in  Article  1(1)  of  the  Constitution  and  substituted  a  new  definition  of  "Legislative Assembly" or "Assembly" in that Article 1(1).
+(3) This subsection repealed the definitions of "Land Appellate Court" and "Land Court" in Article 1(1) of the Constitution and substituted a new definition of "Legislative Assembly" or "Assembly" in that Article 1(1).
 
-- This  subsection substituted a new definition for the definition of "Minister" in Article 1(1) of the Constitution.
+(4) This subsection substituted a new definition for the definition of "Minister" in Article 1(1) of the Constitution.
 
-- This  subsection  inserted  a  definition  of  "Parliament"  in  Article  1(1)  of  the Constitution.
+(5) This subsection inserted a definition of "Parliament" in Article 1(1) of the Constitution.
 
-- This subsection repealed the definition of "Premier" and substituted a definition of "Prime Minister" in Article 1(1) of the Constitution.
+(6) This subsection repealed the definition of "Premier" and substituted a definition of "Prime Minister" in Article 1(1) of the Constitution.
 
-- This  subsection  added  a  definition  of  "To  reside"  to  Article  1(1)  of  the Constitution.
+(7) This subsection added a definition of "To reside" to Article 1(1) of the Constitution.
 
-(1) This subsection amended Article 12(1) of the Constitution.
+3. (1) This subsection amended Article 12(1) of the Constitution.
 
-- This subsection amended subclauses (2) and (3) of Article 13 of the Constitution.
+(2) This subsection amended subclauses (2) and (3) of Article 13 of the Constitution.
 
 [[END OF PAGE 54]]
 
@@ -2510,19 +2676,19 @@ The words "Cook Islands Constitution Amendment Act 1965" were substituted  for  
 
 Constitution
 
-- This subsection amended the provisions of the Constitution specified in the First Schedule to this Act.
+(3) This subsection amended the provisions of the Constitution specified in the First Schedule to this Act.
 
-- This section substituted a new Article for Article 20 of the Constitution.
+4. This section substituted a new Article for Article 20 of the Constitution.
 
-- This section repealed Part III of the Constitution except Article 41 and substituted a new Part III with the exception of Article 41.
+5. This section repealed Part III of the Constitution except Article 41 and substituted a new Part III with the exception of Article 41.
 
-- This section amended the provisions of the Constitution specified in the Second Schedule to this Act.
+6. This section amended the provisions of the Constitution specified in the Second Schedule to this Act.
 
-- This section substituted a new Part IV for Part IV of the Constitution.
+7. This section substituted a new Part IV for Part IV of the Constitution.
 
-- This section inserted a new Part IVA in the Constitution.
+8. This section inserted a new Part IVA in the Constitution.
 
-(1) This subsection inserted subclause (3A) in the Constitution.
+9. (1) This subsection inserted subclause (3A) in the Constitution.
 
 (2)
 
@@ -2532,27 +2698,25 @@ Constitution
 
 (c) This paragraph amended Article 70 (3) (b) of the Constitution.
 
-(d) This paragraph amended the proviso to Article
+(d) This paragraph amended the proviso to Article 70(3)(b) of the Constitution.
 
-- 70(3)(b) of the Constitution.
+10. (1) This subsection substituted a new paragraph (a) for paragraph (a) of Article 73(2) of the Constitution.
 
-(1)  This subsection substituted a new paragraph (a) for paragraph (a) of Article 73(2) of the Constitution.
+(2) This subsection substituted a new Article 74B for Article 74B of the Constitution.
 
-- This subsection substituted a new Article 74B for Article 74B of the Constitution.
+(3) This subsection amended Article 74C (2) of the Constitution.
 
-- This subsection amended Article 74C (2) of the Constitution.
+11. This section inserted Article 74BB in the Constitution.
 
-- This section inserted Article 74BB in the Constitution.
+12. This section inserted subclause (2A) in Article 76 of the Constitution.
 
-- This section inserted subclause (2A) in Article 76 of the Constitution.
+13. This section inserted Part IVA in the Constitution.
 
-- This section inserted Part IVA in the Constitution.
+14. This section repealed Article 88 of the Constitution.
 
-- This section repealed Article 88 of the Constitution.
+15. This section repealed Articles 78, subclauses (1) (2) and (3) of Article 80, Article 83(3), and Article 87 of the Constitution.
 
-- This section repealed Articles 78, subclauses (1) (2) and (3) of Article 80, Article 83(3), and Article 87 of the Constitution.
-
-- This section added the First, Second, Third, and Fourth Schedules to the Constitution.
+16. This section added the First, Second, Third, and Fourth Schedules to the Constitution.
 
 [[END OF PAGE 55]]
 
@@ -2564,29 +2728,29 @@ Constitution
 
 ## PART II TRANSITIONAL PROVISIONS AND CONSEQUENTIAL REPEALS AND AMENDMENTS
 
-#### The Parliament of the Cook Islands -
+#### 17. The Parliament of the Cook Islands -
 (1) Notwithstanding the repeal and substitution by section 5 of this Act of Article 27 of the Constitution, and the enactment by that section of Article 28C of the Constitution -
 
-(a) Subclause  (2)  of  Article  27  (as  so  substituted)  and  the  said  Article 28C  shall  not  come  into  force  until  the  date  of  the  first  general election of the Parliament  of the Cook  Islands  held  after the commencement of this Act, except so far and to such extent as may be necessary to provide for that election; and
+(a) Subclause (2) of Article 27 (as so substituted) and the said Article 28C shall not come into force until the date of the first general election of the Parliament of the Cook Islands held after the commencement of this Act, except so far and to such extent as may be necessary to provide for that election; and
 
 (b) Subclause (2) of Article 27 of the Constitution as originally enacted) shall continue in force until that date, as if for the words "Legislative Assembly" in the subclause there were substituted the word "Parliament", except so far and to such extent as may be necessary to provide for the said election.
 
-- Every  person  holding  office  as  a  member  of  the  Legislative  Assembly immediately before the commencement of this Act shall, after the commencement of this Act, hold office  as  a  Member  of  Parliament,  subject  to  the  provisions  of  the  Constitution,  and,  unless  he previously vacates office for any reason, shall continue to hold office as a Member of Parliament until the end of the day immediately preceding the day on which the members elected at the said election come into office.
+(2) Every person holding office as a member of the Legislative Assembly immediately before the commencement of this Act shall, after the commencement of this Act, hold office as a Member of Parliament, subject to the provisions of the Constitution, and, unless he previously vacates office for any reason, shall continue to hold office as a Member of Parliament until the end of the day immediately preceding the day on which the members elected at the said election come into office.
 
-- Every office of the Legislative Assembly shall, after the commencement of this Act, be an office of Parliament, and every person holding any such office immediately before the commencement of this Act shall continue to hold office after the commencement of this Act.
+(3) Every office of the Legislative Assembly shall, after the commencement of this Act, be an office of Parliament, and every person holding any such office immediately before the commencement of this Act shall continue to hold office after the commencement of this Act.
 
-- Every reference to the Legislative Assembly or to the Assembly in any other law in force at the commencement of this Act or in any instrument or document of any kind in force at the commencement of this Act, be read as a reference to the Parliament of the Cook Islands.
+(4) Every reference to the Legislative Assembly or to the Assembly in any other law in force at the commencement of this Act or in any instrument or document of any kind in force at the commencement of this Act, be read as a reference to the Parliament of the Cook Islands.
 
-- Every reference to a Commissioner or to a Commissioner of the High Court in any other law in force at the commencement of this Act, or in any instrument or document of any kind whatever in force at the commencement of this Act shall after the commencement of this Act, be read as a reference to a Justice of the Peace of the Cook Islands.
+(5) Every reference to a Commissioner or to a Commissioner of the High Court in any other law in force at the commencement of this Act, or in any instrument or document of any kind whatever in force at the commencement of this Act shall after the commencement of this Act, be read as a reference to a Justice of the Peace of the Cook Islands.
 
-- Every reference to the Judicial Service Commission in any other law in force at the commencement of this Act, or in any instrument or document of any kind whatever in force at the commencement of this Act shall, after the commencement of this Act, be read as a reference to the Minister responsible for Justice.
+(6) Every reference to the Judicial Service Commission in any other law in force at the commencement of this Act, or in any instrument or document of any kind whatever in force at the commencement of this Act shall, after the commencement of this Act, be read as a reference to the Minister responsible for Justice.
 
-- Articles 84 and 85 of the Constitution are hereby repealed.
+(7) Articles 84 and 85 of the Constitution are hereby repealed.
 
-#### The Prime Minister -
-(1) The person holding office as Premier of the Cook Islands immediately  before  the  commencement  of  this  Act  shall,  after  the  commencement  of  this  Act, without further appointment, hold the office of Prime Minister of the Cook Islands, subject to the provisions of Article 14 of the Constitution.
+#### 18. The Prime Minister -
+(1) The person holding office as Premier of the Cook Islands immediately before the commencement of this Act shall, after the commencement of this Act, without further appointment, hold the office of Prime Minister of the Cook Islands, subject to the provisions of Article 14 of the Constitution.
 
-- Every reference to the Premier of the Cook Islands in any other law in force at the commencement of this Act is any instrument or document of any kind whatsoever in force at the commencement of this Act shall, after the commencement of this Act, be read as a reference to the Prime Minister of the Cook Islands.
+(2) Every reference to the Premier of the Cook Islands in any other law in force at the commencement of this Act is any instrument or document of any kind whatsoever in force at the commencement of this Act shall, after the commencement of this Act, be read as a reference to the Prime Minister of the Cook Islands.
 
 [[END OF PAGE 56]]
 
@@ -2596,26 +2760,26 @@ Constitution
 
 57
 
-#### The Land  Court -
-(1) Every person holding office immediately before the commencement of this Act as a Judge of the Land Court of the Cook Islands shall, on and after the commencement of this  Act,  without  further  appointment,  be  deemed  to  be  a  Judge  of  the  High Court as if he had been appointed as such under Article 52 of the Constitution, with seniority from the date on which he had been appointed a Judge of the Land Court.
+#### 19. The Land Court -
+(1) Every person holding office immediately before the commencement of this Act as a Judge of the Land Court of the Cook Islands shall, on and after the commencement of this Act, without further appointment, be deemed to be a Judge of the High Court as if he had been appointed as such under Article 52 of the Constitution, with seniority from the date on which he had been appointed a Judge of the Land Court.
 
-- All judgments, decrees, records, and acts of the Land Court of the Cook Islands shall  continue  to  have  full  force  and  effect  on  and  after  the  commencement  of  this  Act  as judgments, decrees, records and acts of the High Court, and all proceedings pending in the Land Court immediately before the commencement of this Act may be continued in the High Court after the commencement of this Act.
+(2) All judgments, decrees, records, and acts of the Land Court of the Cook Islands shall continue to have full force and effect on and after the commencement of this Act as judgments, decrees, records and acts of the High Court, and all proceedings pending in the Land Court immediately before the commencement of this Act may be continued in the High Court after the commencement of this Act.
 
-- Where any final judgement of the Land Court of the Cook Islands has been given  before  the  commencement  of  this  Act,  the  right  of  appeal  from  that  judgment  shall  be governed by the provisions of Article 60 of the Constitution as if that final judgment had been a final judgment of the High Court.
+(3) Where any final judgement of the Land Court of the Cook Islands has been given before the commencement of this Act, the right of appeal from that judgment shall be governed by the provisions of Article 60 of the Constitution as if that final judgment had been a final judgment of the High Court.
 
-- Every  reference  to  the  Land  Court  of  the  Cook  Islands  or  to  a  Judge  of  that Court in any other law in force at the commencement of this Act, or in any judgment, decree, order, record, or act of the Land Court, or in any other instrument or document whatsoever in force at the commencement  of  this  Act  shall,  unless  the  context  otherwise  requires  be  read  after  the commencement of this Act as a reference to the High Court of the Cook Islands or, as the case may be, to a Judge of that Court.
+(4) Every reference to the Land Court of the Cook Islands or to a Judge of that Court in any other law in force at the commencement of this Act, or in any judgment, decree, order, record, or act of the Land Court, or in any other instrument or document whatsoever in force at the commencement of this Act shall, unless the context otherwise requires be read after the commencement of this Act as a reference to the High Court of the Cook Islands or, as the case may be, to a Judge of that Court.
 
-#### The Land Appellate Court -
-(1) All judgments, decrees, records, and acts of the Land Appellate  Court  of  the  Cook  Islands  shall  continue  in  full  force  and  effect  on  and  after  the commencement of this Act as judgments, decrees, records, and acts of the Court of Appeal of the Cook  Islands,  and  all  proceedings  pending  in  the  Land  Appellate  Court  immediately  before  the commencement of this Act may be continued in the Court of Appeal after the commencement of this Act.
+#### 20. The Land Appellate Court -
+(1) All judgments, decrees, records, and acts of the Land Appellate Court of the Cook Islands shall continue in full force and effect on and after the commencement of this Act as judgments, decrees, records, and acts of the Court of Appeal of the Cook Islands, and all proceedings pending in the Land Appellate Court immediately before the commencement of this Act may be continued in the Court of Appeal after the commencement of this Act.
 
-- Every reference to the Land Appellate Court of the Cook Islands or to a Judge of that Court in any other law in force at the commencement of this Act, or in any judgment, decree, order,  record,  or  act  of  the  Land  Appellate  Court,  or  in  any  other  instrument  or  document whatsoever in force at the commencement of this Act shall, unless the context otherwise requires, be  read  after  the  commencement  of  this  Act  as  a  reference  to  the  Court  of  Appeal  of  the  Cook Islands or, as the case may be, to a Judge of that Court.
+(2) Every reference to the Land Appellate Court of the Cook Islands or to a Judge of that Court in any other law in force at the commencement of this Act, or in any judgment, decree, order, record, or act of the Land Appellate Court, or in any other instrument or document whatsoever in force at the commencement of this Act shall, unless the context otherwise requires, be read after the commencement of this Act as a reference to the Court of Appeal of the Cook Islands or, as the case may be, to a Judge of that Court.
 
-#### Appeal  from  High  Court  -
-(1) In  any  case  in  which  immediately  before  the commencement of this Act an Appeal to the High Court of New Zealand from any judgement of the  High  Court  of  the  Cook  Islands  was  pending,  that  appeal  may  be  continued  after  the commencement of this Act, and shall otherwise be heard and disposed of under the law in force immediately before the commencement of this Act as if that law had continued in force.
+#### 21. Appeal from High Court -
+(1) In any case in which immediately before the commencement of this Act an Appeal to the High Court of New Zealand from any judgement of the High Court of the Cook Islands was pending, that appeal may be continued after the commencement of this Act, and shall otherwise be heard and disposed of under the law in force immediately before the commencement of this Act as if that law had continued in force.
 
-- The determination of the High Court of New Zealand on any appeal continued pursuant to subsection (1) of this section shall be transmitted to the Registrar of the High Court of the Cook Islands by the Registrar of the High Court of New Zealand under the seal of the High Court of New Zealand, and the High Court of the Cook Islands shall act in respect thereof as it if were  a  determination  of  the  High  Court  of  New  Zealand  transmitted  under  Article  62  of  the Constitution, as in force before the commencement of this Act.
+(2) The determination of the High Court of New Zealand on any appeal continued pursuant to subsection (1) of this section shall be transmitted to the Registrar of the High Court of the Cook Islands by the Registrar of the High Court of New Zealand under the seal of the High Court of New Zealand, and the High Court of the Cook Islands shall act in respect thereof as it if were a determination of the High Court of New Zealand transmitted under Article 62 of the Constitution, as in force before the commencement of this Act.
 
-(3) Every provision in any Act conferring a right of appeal from a judgement of the High  Court  of  New  Zealand  shall,  after  the  commencement  of  this  Act,  be  read  as  a  provision conferring a right of appeal to the Court of Appeal of the Cook Islands.
+(3) Every provision in any Act conferring a right of appeal from a judgement of the High Court of New Zealand shall, after the commencement of this Act, be read as a provision conferring a right of appeal to the Court of Appeal of the Cook Islands.
 
 [[END OF PAGE 57]]
 
@@ -2625,13 +2789,13 @@ Constitution
 
 Constitution
 
-#### Acts of New Zealand Parliament and regulations in the Cook Islands -
+#### 22. Acts of New Zealand Parliament and regulations in the Cook Islands -
 (1) Every Act, and every provision of any Act, of the Parliament of New Zealand that pursuant to Article 46 of the Constitution (as in force before the commencement of this Act), was in force in the Cook Islands immediately before the commencement of this Act shall continue in force in the Cook Islands after the commencement of this Act, but, subject to Article 41 of the Constitution, may be repealed, in relation to the Cook Islands, by Act of the Parliament of the Cook Islands.
 
-- Regulations made by the Governor-General in Council pursuant to Article 88 of the  Constitution  (as  in  force  before  the  commencement  of  this  Act),  and  in  force  immediately before the commencement of this Act, shall continue in force after the commencement of this Act, but may be revoked or amended, in relation to the Cook Islands, by Act of the Parliament of the Cook Islands.
+(2) Regulations made by the Governor-General in Council pursuant to Article 88 of the Constitution (as in force before the commencement of this Act), and in force immediately before the commencement of this Act, shall continue in force after the commencement of this Act, but may be revoked or amended, in relation to the Cook Islands, by Act of the Parliament of the Cook Islands.
 
-#### Consequential  repeals  and  amendments  -
-(1)  The  following  enactments  are  hereby repealed:
+#### 23. Consequential repeals and amendments -
+(1) The following enactments are hereby repealed:
 
 (a) The Constitution Amendment Act 1968-69;
 
@@ -2653,13 +2817,13 @@ Constitution
 
 (j) The Cook Islands Ensign Amendment Act 1978-79.
 
-- The following provisions of the Cook Islands Act 1915 of the Parliament of New Zealand shall cease to have effect as part of the law of the Cook Islands:
+(2) The following provisions of the Cook Islands Act 1915 of the Parliament of New Zealand shall cease to have effect as part of the law of the Cook Islands:
 
 (a) Section 107 (relating to the powers of Judges of the High Court);
 
 (b) Section 114 (relating to the jurisdiction of the High Court);
 
-(c) Subsection  (2)  of  section  115  (relating  to  injunction,  certiorari, mandamus, and prohibition against the Land Court or Land Appellate Court);
+(c) Subsection (2) of section 115 (relating to injunction, certiorari, mandamus, and prohibition against the Land Court or Land Appellate Court);
 
 (d) Section 156 (relating to the stating of cases to the High Court of New Zealand);
 
@@ -2667,9 +2831,9 @@ Constitution
 
 (f) Sections 371 to 385, 387 to 390, 392, and 400 to 408 (relating to the Constitution and procedure of the Land Court of the Cook Islands);
 
-- Part  II  of  the  Cook  Islands  Amendment  Act  1946  of  the  Parliament  of  New Zealand (except section 26) and sections 43, 44, 45, 46 and 48 of that Act shall cease to have effect as part of the law of the Cook Islands.
+(3) Part II of the Cook Islands Amendment Act 1946 of the Parliament of New Zealand (except section 26) and sections 43, 44, 45, 46 and 48 of that Act shall cease to have effect as part of the law of the Cook Islands.
 
-- The Cook Islands Act 1915 of the Parliament of New Zealand shall have effect, in relation to the Cook Islands, as if it had been amended as follows:
+(4) The Cook Islands Act 1915 of the Parliament of New Zealand shall have effect, in relation to the Cook Islands, as if it had been amended as follows:
 
 (a) By repealing the definitions of the terms "Land Appellate Court" and "Land Court" in section 2(1);
 
@@ -2747,33 +2911,33 @@ An Act to amend the Constitution
 
 BE  IT  ENACTED by  the  Parliament  of  the  Cook  Islands  in  Session  assembled,  and  by  the authority of the same, as follows:-
 
-#### Short  Title  and  commencement  -
-(1)  This  Act  shall  be  cited  as  the  Constitution Amendment (No.10) Act 1981, and shall be read together with and deemed part of the Constitution of the Cook Islands as set out in the Second Schedule to the Cook Islands Constitution Amendment Act  1965  of  the  Parliament  of  New  Zealand,  as  amended  by  Acts  of  the  Legislative  Assembly (hereinafter referred to as the Constitution).
+#### 1. Short Title and commencement -
+(1) This Act shall be cited as the Constitution Amendment (No.10) Act 1981, and shall be read together with and deemed part of the Constitution of the Cook Islands as set out in the Second Schedule to the Cook Islands Constitution Amendment Act 1965 of the Parliament of New Zealand, as amended by Acts of the Legislative Assembly (hereinafter referred to as the Constitution).
 
-(2)  Section 10 of this Act shall be deemed to have come into force on the 3Oth day of March 1973 (being the date of the commencement of the Constitution Amendment (No.6) Act 1973).
+(2) Section 10 of this Act shall be deemed to have come into force on the 30th day of March 1973 (being the date of the commencement of the Constitution Amendment (No.6) Act 1973).
 
-- Except  as  provided  in  subsection  (2)  of  this  section,  this  Act  shall  come  into force on the date on which it is assented to by the High Commissioner.
+(3) Except as provided in subsection (2) of this section, this Act shall come into force on the date on which it is assented to by the High Commissioner.
 
 ### The Queen's Representative
 
-- This section substituted a new Article 3 and the heading preceding it for Article 3 of the Constitution and the heading preceding it.
+2. This section substituted a new Article 3 and the heading preceding it for Article 3 of the Constitution and the heading preceding it.
 
-- This section substituted a new Article 7 for Article 7 of the Constitution.
+3. This section substituted a new Article 7 for Article 7 of the Constitution.
 
-(1) This subsection amended the provisions of the Constitution set out in the Schedule to this Act.
+4. (1) This subsection amended the provisions of the Constitution set out in the Schedule to this Act.
 
 (2) This subsection repealed the definition of "High Commissioner" in Article 1(1) of the Constitution and added to that Article 1(1) a definition of "Queen's Representative".
 
-(3) Every reference to the High Commissioner in any other law in force in the Cook Islands  at  the  commencement  of  this  Act  or  in  any  other  instrument  or  document  of  any  kind whatsoever in force at the commencement of this Act shall, after the commencement of this Act, be read as a reference to the Queen's Representative.
+(3) Every reference to the High Commissioner in any other law in force in the Cook Islands at the commencement of this Act or in any other instrument or document of any kind whatsoever in force at the commencement of this Act shall, after the commencement of this Act, be read as a reference to the Queen's Representative.
 
-#### Repeal  -
-The  Schedule  to  the  Constitution  Amendment  (No.7)  Act  1975  is  hereby amended by repealing so much thereof as relates to Article 7 of the Constitution.
+#### 5. Repeal -
+The Schedule to the Constitution Amendment (No.7) Act 1975 is hereby amended by repealing so much thereof as relates to Article 7 of the Constitution.
 
 ### Miscellaneous Amendments
 
-- This section amended Article 28(4) of the Constitution.
+6. This section amended Article 28(4) of the Constitution.
 
-- This section added subclause (5) to Article 39 of the Constitution.
+7. This section added subclause (5) to Article 39 of the Constitution.
 
 [[END OF PAGE 60]]
 
@@ -2783,15 +2947,15 @@ Constitution
 
 61
 
-- This section amended Article 62 (5) of the Constitution.
+8. This section amended Article 62 (5) of the Constitution.
 
-- This section amended Article 65 (2) of the Constitution.
+9. This section amended Article 65 (2) of the Constitution.
 
-(1)  This subsection amended Article 76 (3) (c) of the Constitution.
+10. (1) This subsection amended Article 76 (3) (c) of the Constitution.
 
-- This subsection repealed section 6 of the Constitution Amendment (No.2) Act 1968-69.
+(2) This subsection repealed section 6 of the Constitution Amendment (No.2) Act 1968-69.
 
-- All  determinations  of  the  Public  Service  Board  of  Appeal  made  after  the commencement of this section that would have been valid if this section had been in force when the determinations were made are hereby validated and deemed to be and always to have been validly made,  and  sections  40,  41  and  42  of  the  Public  Service  Act  1975  and  section  10  of  the  Public Service Amendment Act (No.3) 1980-81 are hereby declared to be and always to have been validly enacted.
+(3) All determinations of the Public Service Board of Appeal made after the commencement of this section that would have been valid if this section had been in force when the determinations were made are hereby validated and deemed to be and always to have been validly made, and sections 40, 41 and 42 of the Public Service Act 1975 and section 10 of the Public Service Amendment Act (No.3) 1980-81 are hereby declared to be and always to have been validly enacted.
 
 ## SCHEDULE
 
@@ -2817,14 +2981,14 @@ An Act to amend the Constitution
 
 BE  IT  ENACTED by  the  Parliament  of  the  Cook  Islands  in  Session  assembled,  and  by  the authority of the same, as follows:
 
-#### Short Title -
+#### 1. Short Title -
 This Act may be cited as the Constitution Amendment (No.11) Act 1982, and shall be read together with and deemed part of the Constitution of the Cook Islands as set out in the Second Schedule to the Cook Islands Constitution Amendment Act 1965 of the Parliament of New Zealand, as amended by Acts of the Legislative Assembly and Parliament (hereinafter referred to as "the Constitution").
 
-(1)  This  subsection  amended  section  1(1)  of  the  Constitution  Amendment  (No.9)  Act 1980-81 as from its commencement.
+2. (1) This subsection amended section 1(1) of the Constitution Amendment (No.9) Act 1980-81 as from its commencement.
 
-(2)  This  subsection amended section 1(1) of the Constitution Amendment (No.10) Act 1981-82 as from its commencement.
+(2) This subsection amended section 1(1) of the Constitution Amendment (No.10) Act 1981-82 as from its commencement.
 
-- This section amended Article 29(2) of the Constitution.
+3. This section amended Article 29(2) of the Constitution.
 
 4.
 
@@ -2832,15 +2996,15 @@ This Act may be cited as the Constitution Amendment (No.11) Act 1982, and shall 
 
 (b) This paragraph added subclause (7) to Article 37 of the Constitution.
 
-- This section amended Article 76(3) of the Constitution.
+5. This section amended Article 76(3) of the Constitution.
 
-- This  section  added  subsections  (5),  (6)  and  (7)  to  section  19  of  the  Constitution Amendment (No. 9) Act 1980-81.
+6. This section added subsections (5), (6) and (7) to section 19 of the Constitution Amendment (No. 9) Act 1980-81.
 
-(1) This subsection amended Article 75(2) of the Constitution.
+7. (1) This subsection amended Article 75(2) of the Constitution.
 
-- This subsection repealed section 5 of the Constitution Amendment (No.2) Act 196869.
+(2) This subsection repealed section 5 of the Constitution Amendment (No.2) Act 1968-69.
 
-- This section substituted a new Part I for Part I of the First Schedule of the Constitution.
+8. This section substituted a new Part I for Part I of the First Schedule of the Constitution.
 
 [[END OF PAGE 62]]
 
@@ -2860,12 +3024,12 @@ An Act to amend the Constitution
 
 BE  IT  ENACTED by  the  Parliament  of  the  Cook  Islands  in  Session  assembled,  and  by  the authority of the same as follows:
 
-#### Short Title -
+#### 1. Short Title -
 This Act may be cited as the Constitution Amendment (No. 12) Act 1986 and shall be read together with and deemed part of the Constitution of the Cook Islands as set out in the Second Schedule to the Cook Islands Constitution Amendment Act 1965 of the Parliament of New Zealand as amended by Acts of the Legislative Assembly and Parliament of the Cook Islands (hereinafter referred to as "the Constitution").
 
-- This section amended Article 62 of the Constitution by repealing subsection 2.
+2. This section amended Article 62 of the Constitution by repealing subsection 2.
 
-- This section amended the First Schedule by repealing Part II and substituting a new Part II.
+3. This section amended the First Schedule by repealing Part II and substituting a new Part II.
 
 [[END OF PAGE 63]]
 
@@ -2885,24 +3049,24 @@ An Act to amend the Constitution
 
 BE  IT  ENACTED by  the  Parliament  of  the  Cook  Islands  in  Session  assembled,  and  by  the authority of the same as follows:
 
-#### Short Title  -
+#### 1. Short Title -
 This Act may be cited as the Constitution Amendment (No. 13) Act 1992 and shall be read together with and deemed part of the Constitution of the Cook Islands as set out in the Second Schedule to the Cook Islands Constitution Amendment Act 1965 of the Parliament of New Zealand as amended by Acts of the Legislative Assembly and Parliament of the Cook Islands (hereinafter referred to as "the Constitution").
 
-(1)    This subsection amended Article 74BB(2)(b) of the Constitution
+2. (1) This subsection amended Article 74BB(2)(b) of the Constitution
 
-- This subsection amended Article 74B(2) of the Constitution
+(2) This subsection amended Article 74B(2) of the Constitution
 
-- This subsection amended Article 74B(3) of the Constitution
+(3) This subsection amended Article 74B(3) of the Constitution
 
-- This subsection amended Article 74B(4) of the Constitution
+(4) This subsection amended Article 74B(4) of the Constitution
 
-- This  subsection  repealed  paragraph  (b)  of  subclause  (5)  of  Article  74B  of  the Constitution.
+(5) This subsection repealed paragraph (b) of subclause (5) of Article 74B of the Constitution.
 
-- Every person who before the coming into force of this Act was appointed a Head of Department pursuant to subclause (2) of Article 74B of the Constitution shall, after the coming into force of this Act, be deemed to have been appointed pursuant to subclause (3) of Article 74BB (as amended by this Act), and notwithstanding the terms and conditions of the original appointment, may be removed from such appointment in accordance with the provisions of Article 74BB.
+(6) Every person who before the coming into force of this Act was appointed a Head of Department pursuant to subclause (2) of Article 74B of the Constitution shall, after the coming into force of this Act, be deemed to have been appointed pursuant to subclause (3) of Article 74BB (as amended by this Act), and notwithstanding the terms and conditions of the original appointment, may be removed from such appointment in accordance with the provisions of Article 74BB.
 
-- This section amended paragraph (c) of Article 74BB(1) of the Constitution.
+3. This section amended paragraph (c) of Article 74BB(1) of the Constitution.
 
-- This section substituted a new subclause (1) in Article 74B of the Constitution.
+4. This section substituted a new subclause (1) in Article 74B of the Constitution.
 
 [[END OF PAGE 64]]
 
@@ -2922,22 +3086,22 @@ An Act to amend the Constitution
 
 BE  IT  ENACTED by  the  Parliament  of  the  Cook  Islands  in  Session  assembled,  and  by  the authority of the same as follows:
 
-#### Short Title  -
+#### 1. Short Title -
 This Act may be cited as the Constitution Amendment (No. 14) Act 1991 and shall be read together with and deemed part of the Constitution of the Cook Islands as set out in the Second Schedule to the Cook Islands Constitution Amendment Act 1965 of the Parliament of New Zealand as amended by Acts of the Legislative Assembly and Parliament of the Cook Islands (hereinafter referred to as "the Constitution").
 
-- This section substituted a new subclause (1) in Article 13 of the Constitution.
+2. This section substituted a new subclause (1) in Article 13 of the Constitution.
 
-(1)  This subsection substituted a new subclause (2) in Article 27 of the Constitution.
+3. (1) This subsection substituted a new subclause (2) in Article 27 of the Constitution.
 
-- This  subsection  substituted  a  new  paragraph  (j)  in  Article  27(2)  of  the Constitution.
+(2) This subsection substituted a new paragraph (j) in Article 27(2) of the Constitution.
 
-- This subsection amended the definition of the Muriennua constituency in Part II of the First Schedule of the Constitution.
+(3) This subsection amended the definition of the Muriennua constituency in Part II of the First Schedule of the Constitution.
 
-- This subsection inserted the definition of the Akaoa constituency in Part II of the first Schedule of the Constitution.
+(4) This subsection inserted the definition of the Akaoa constituency in Part II of the first Schedule of the Constitution.
 
-(1)  This subsection amended Article 71(1) of the Constitution.
+4. (1) This subsection amended Article 71(1) of the Constitution.
 
-- This subsection added subclauses (3) and (4) to Article 71 of the Constitution.
+(2) This subsection added subclauses (3) and (4) to Article 71 of the Constitution.
 
 [[END OF PAGE 65]]
 
@@ -2957,10 +3121,10 @@ An Act to amend the Constitution
 
 BE  IT  ENACTED by  the  Parliament  of  the  Cook  Islands  in  Session  assembled,  and  by  the authority of the same as follows:
 
-#### Short Title  -
+#### 1. Short Title -
 This Act may be cited as the Constitution Amendment (No. 15) Act 1993 and shall be read together with and deemed part of the Constitution of the Cook Islands as set out in the Second Schedule to the Cook Islands Constitution Amendment Act 1965 of the Parliament of New Zealand as amended by Acts of the Legislative Assembly and Parliament of the Cook Islands (hereinafter referred to as "the Constitution").
 
-- This  section  substituted  a  new  subclause  (1)  in  Article  14  of  the  Constitution,  and repealed subclause (2) of that Article.
+2. This section substituted a new subclause (1) in Article 14 of the Constitution, and repealed subclause (2) of that Article.
 
 # CONSTITUTION AMENDMENT (No. 16) ACT 1993-94
 
@@ -2972,10 +3136,10 @@ An Act to amend the Constitution
 
 BE  IT  ENACTED by  the  Parliament  of  the  Cook  Islands  in  Session  assembled,  and  by  the authority of the same as follows:
 
-#### Short Title  -
-This Act may be cited as the Constitution Amendment (No. 16) Act 199394 and shall be read together with and deemed part of the Constitution of the Cook Islands as set out  in  the  Second  Schedule  to  the  Cook  Islands  Constitution  Amendment  Act  1965  of  the Parliament of New Zealand as amended by Acts of the Legislative Assembly and Parliament of the Cook Islands (hereinafter referred to as "the Constitution").
+#### 1. Short Title -
+This Act may be cited as the Constitution Amendment (No. 16) Act 1993-94 and shall be read together with and deemed part of the Constitution of the Cook Islands as set out in the Second Schedule to the Cook Islands Constitution Amendment Act 1965 of the Parliament of New Zealand as amended by Acts of the Legislative Assembly and Parliament of the Cook Islands (hereinafter referred to as "the Constitution").
 
-- This section substituted a new subclause (3) in Article 60 of the Constitution.
+2. This section substituted a new subclause (3) in Article 60 of the Constitution.
 
 [[END OF PAGE 66]]
 
@@ -2995,24 +3159,24 @@ An Act to amend the Constitution
 
 BE  IT  ENACTED by  the  Parliament  of  the  Cook  Islands  in  Session  assembled,  and  by  the authority of the same as follows:
 
-#### Short Title  -
-This Act may be cited as the Constitution Amendment (No.17) Act 199495  and  shall  be  read  together  with  and  deemed  part  of  the  Constitution  of  the  Cook  Islands (hereinafter referred to as "the Constitution").
+#### 1. Short Title -
+This Act may be cited as the Constitution Amendment (No.17) Act 1994-95 and shall be read together with and deemed part of the Constitution of the Cook Islands (hereinafter referred to as "the Constitution").
 
-- This  clause  amended  Article  2,  by  inserting  new  definitions,  namely  'Crown Servant' and 'Judicial officer'.
+2. This clause amended Article 2, by inserting new definitions, namely “Crown Servant” and “Judicial officer”.
 
-- This clause substituted a new Article 20
+3. This clause substituted a new Article 20
 
-- This Clause amended Article 28B
+4. This Clause amended Article 28B
 
-- This Clause amended Article 48 by inserting new subclauses (3) and (4)
+5. This Clause amended Article 48 by inserting new subclauses (3) and (4)
 
-- This Clause amended Article 62.
+6. This Clause amended Article 62.
 
-- This Clause inserted a new Part IVB, relating to Custom.
+7. This Clause inserted a new Part IVB, relating to Custom.
 
-- This Clause substituted a new Part VI relating to the Public Service.
+8. This Clause substituted a new Part VI relating to the Public Service.
 
-- Notwithstanding the repeal and substitution by section 8 of this Act of Part VI of the Constitution, every person holding office as Pubic Service commissioner, Secretary to the Cabinet, a  member  of  the  Public  Service,  an  exempted  employee,  a  member  of  the  staff  of  the  Queen's Representative or as a member of the Cook Islands Public Service Board of Appeal immediately before the commencement  of  this Act, shall continue to hold office as Public Service Commissioner, Secretary to the Cabinet, member of the Public Service, an exempted employee, a member of  the  staff  of  the  Queen's  Representative  or  as  a  member  of  the  Cook  Islands  Public Service Board of Appeal (as the case may be) subject to the provisions of the Constitution.
+9. Notwithstanding the repeal and substitution by section 8 of this Act of Part VI of the Constitution, every person holding office as Public Service commissioner, Secretary to the Cabinet, a member of the Public Service, an exempted employee, a member of the staff of the Queen’s Representative or as a member of the Cook Islands Public Service Board of Appeal immediately before the commencement of this Act, shall continue to hold office as Public Service Commissioner, Secretary to the Cabinet, member of the Public Service, an exempted employee, a member of the staff of the Queen’s Representative or as a member of the Cook Islands Public Service Board of Appeal (as the case may be) subject to the provisions of the Constitution.
 
 [[END OF PAGE 67]]
 
@@ -3027,14 +3191,14 @@ Constitution
 
 An Act to amend the Constitution
 
-(11 th March 1996)
+(11th March 1996)
 
-BE  IT  ENACTED by  the  Parliament  of  the  Cook  Islands  in  Session  assembled,  and  by  the authority of the same as follows:
+BE IT ENACTED by the Parliament of the Cook Islands in Session assembled, and by the authority of the same as follows:
 
-#### Short Title  -
-This Act may be cited as the Constitution Amendment (No.18) Act 199596  and  shall  be  read  together  with  and  deemed  part  of  the  Constitution  of  the  Cook  Islands (hereinafter referred to as "the Constitution").
+#### 1. Short Title -
+This Act may be cited as the Constitution Amendment (No.18) Act 1995-96 and shall be read together with and deemed part of the Constitution of the Cook Islands (hereinafter referred to as "the Constitution").
 
-- This clause amended Article 71 by establishing the Public Expenditure Review Committee.
+2. This clause amended Article 71 by establishing the Public Expenditure Review Committee.
 
 # CONSTITUTION AMENDMENT (No. 19) ACT 1995-96
 
@@ -3042,14 +3206,14 @@ This Act may be cited as the Constitution Amendment (No.18) Act 199596  and  sha
 
 An Act to amend the Constitution
 
-(12 th December 1996)
+(12th December 1996)
 
-BE  IT  ENACTED by  the  Parliament  of  the  Cook  Islands  in  Session  assembled,  and  by  the authority of the same as follows:
+BE IT ENACTED by the Parliament of the Cook Islands in Session assembled, and by the authority of the same as follows:
 
-#### Short Title  -
-This Act may be cited as the Constitution Amendment (No.19) Act 199596  and  shall  be  read  together  with  and  deemed  part  of  the  Constitution  of  the  Cook  Islands (hereinafter referred to as "the Constitution").
+#### 1. Short Title -
+This Act may be cited as the Constitution Amendment (No.19) Act 1995-96 and shall be read together with and deemed part of the Constitution of the Cook Islands (hereinafter referred to as "the Constitution").
 
-- This clause amended Article 76A by enabling the number of permanent residence certificates in effect, to be prescribed.
+2. This clause amended Article 76A by enabling the number of permanent residence certificates in effect, to be prescribed.
 
 [[END OF PAGE 68]]
 
@@ -3065,14 +3229,14 @@ Constitution
 
 An Act to amend the Constitution
 
-(19 th March, 1997)
+(19th March, 1997)
 
-BE  IT  ENACTED by  the  Parliament  of  the  Cook  Islands  in  Session  assembled,  and  by  the authority of the same as follows:
+BE IT ENACTED by the Parliament of the Cook Islands in Session assembled, and by the authority of the same as follows:
 
-#### Short Title  -
+#### 1. Short Title -
 This Act may be cited as the Constitution Amendment (No. 20) Act 1997 and shall be read together with and deemed part of the Constitution of the Cook Islands as set out in the Second Schedule to the Cook Islands Constitution Amendment Act 1965 of the Parliament of New Zealand as amended by Acts of the Legislative Assembly and Parliament of the Cook Islands (hereinafter referred to as "the Constitution").
 
-- This section inserted the Preamble in the Constitution.
+2. This section inserted the Preamble in the Constitution.
 
 # CONSTITUTION AMENDMENT (No. 21) ACT 1997
 
@@ -3080,14 +3244,14 @@ This Act may be cited as the Constitution Amendment (No. 20) Act 1997 and shall 
 
 An Act to amend the Constitution
 
-(19 th March, 1997)
+(19th March, 1997)
 
-BE  IT  ENACTED by  the  Parliament  of  the  Cook  Islands  in  Session  assembled,  and  by  the authority of the same as follows:
+BE IT ENACTED by the Parliament of the Cook Islands in Session assembled, and by the authority of the same as follows:
 
-#### Short Title  -
+#### 1. Short Title -
 This Act may be cited as the Constitution Amendment (No. 21) Act 1997 and shall be read together with and deemed part of the Constitution of the Cook Islands as set out in the Second Schedule to the Cook Islands Constitution Amendment Act 1965 of the Parliament of New Zealand as amended by Acts of the Legislative Assembly and Parliament of the Cook Islands (hereinafter referred to as "the Constitution").
 
-- This section validated the appointment of His Excellency Apenera Short O.B.E. for the period 19 December 1993 to 11 th October 1994.
+2. This section validated the appointment of His Excellency Apenera Short O.B.E. for the period 19 December 1993 to 11th October 1994.
 
 [[END OF PAGE 69]]
 
@@ -3103,14 +3267,14 @@ Constitution
 
 An Act to amend the Constitution
 
-(1 st July 1997)
+(1st July 1997)
 
-BE  IT  ENACTED by  the  Parliament  of  the  Cook  Islands  in  Session  assembled,  and  by  the authority of the same as follows:
+BE IT ENACTED by the Parliament of the Cook Islands in Session assembled, and by the authority of the same as follows:
 
-#### Short Title  -
-This Act may be cited as the Constitution Amendment (No.22) Act 1997  and  shall  be  read  together  with  and  deemed  part  of  the  Constitution  of  the  Cook  Islands (hereinafter referred to as "the Constitution").
+#### 1. Short Title -
+This Act may be cited as the Constitution Amendment (No.22) Act 1997 and shall be read together with and deemed part of the Constitution of the Cook Islands (hereinafter referred to as "the Constitution").
 
-- This clause amended Article 70 relating to the revenue and expenditure of the Cook Islands Government Account.
+2. This clause amended Article 70 relating to the revenue and expenditure of the Cook Islands Government Account.
 
 [[END OF PAGE 70]]
 
@@ -3125,22 +3289,22 @@ Constitution
 
 An Act to amend the Constitution
 
-(12 th March, 1999)
+(12th March, 1999)
 
-BE  IT  ENACTED by  the  Parliament  of  the  Cook  Islands  in  Session  assembled,  and  by  the authority of the same as follows:
+BE IT ENACTED by the Parliament of the Cook Islands in Session assembled, and by the authority of the same as follows:
 
-#### Short Title  -
+#### 1. Short Title -
 This Act may be cited as the Constitution Amendment (No. 23) Act 1997 and shall be read together with and deemed part of the Constitution of the Cook Islands as set out in the Second Schedule to the Cook Islands Constitution Amendment Act 1965 of the Parliament of New Zealand as amended by Acts of the Legislative Assembly and Parliament of the Cook Islands (hereinafter referred to as "the Constitution").
 
-- This section amended Article 13, relating to the membership of Cabinet
+2. This section amended Article 13, relating to the membership of Cabinet
 
-- This  section  amended  Article  14  relating  to  the  duration  of  office  of  members  of Cabinet
+3. This section amended Article 14 relating to the duration of office of members of Cabinet
 
-- Notwithstanding the amendment of Article 13 by this Act, the persons holding office as  Prime  Minister  of  the  Cook  Islands  and  Ministers  of  Cabinet  immediately  before  the commencement of this Act shall, without further appointment, continue to hold office  as Prime Minister and Ministers (as the case may be) subject to Article 14 (as amended by this Act) until either -
+4. Notwithstanding the amendment of Article 13 by this Act, the persons holding office as Prime Minister of the Cook Islands and Ministers of Cabinet immediately before the commencement of this Act shall, without further appointment, continue to hold office as Prime Minister and Ministers (as the case may be) subject to Article 14 (as amended by this Act) until either –
 
-(a) in  the  case  of  the  Prime  Minister  and  Ministers,  the  end  of  the  day immediately  preceding  the  day  of  the  appointment  of  a  Prime Minister pursuant to Article 13(2); or
+(a) in the case of the Prime Minister and Ministers, the end of the day immediately preceding the day of the appointment of a Prime Minister pursuant to Article 13(2); or
 
-(b) in the case of a Minister other than the Prime Minister, the end of the day immediately preceding the exercise by the Queen's Representative of the discretion under Article 14(1) not to terminate the appointment of the Prime Minister,
+(b) in the case of a Minister other than the Prime Minister, the end of the day immediately preceding the exercise by the Queen’s Representative of the discretion under Article 14(1) not to terminate the appointment of the Prime Minister,
 
 whichever shall happen first, following the next general election of the members of parliament after the commencement of this Act.
 
@@ -3162,16 +3326,16 @@ An Act to amend the Constitution
 
 BE  IT  ENACTED by  the  Parliament  of  the  Cook  Islands  in  Session  assembled,  and  by  the authority of the same as follows:
 
-#### Short Title  -
+#### 1. Short Title -
 This Act may be cited as the Constitution Amendment (No. 24) Act 2001 and shall be read together with and deemed part of the Constitution of the Cook Islands as set out in the Second Schedule to the Cook Islands Constitution Amendment Act 1965 of the Parliament of New Zealand as amended by Acts of the Legislative Assembly and Parliament of the Cook Islands (hereinafter referred to as "the Constitution").
 
-- This section amended Article 31, relating to the membership of Cabinet
+2. This section amended Article 31, relating to the membership of Cabinet
 
-- This section amended Article 32 relating to the tenure of the Speaker of Parliament.
+3. This section amended Article 32 relating to the tenure of the Speaker of Parliament.
 
-- This clause amended Article 33(2) relating to the Deputy Speaker.
+4. This clause amended Article 33(2) relating to the Deputy Speaker.
 
-- This clause amended Article 34 relating to procedures of Parliament.
+5. This clause amended Article 34 relating to procedures of Parliament.
 
 # CONSTITUTION AMENDMENT (No. 25) ACT 2002
 
@@ -3183,14 +3347,14 @@ An Act to amend the Constitution
 
 BE  IT  ENACTED by  the  Parliament  of  the  Cook  Islands  in  Session  assembled,  and  by  the authority of the same as follows:
 
-#### Short Title  -
+#### 1. Short Title -
 This Act may be cited as the Constitution Amendment (No. 25) Act 2002 and shall be read together with and deemed part of the Constitution of the Cook Islands as set out in the Second Schedule to the Cook Islands Constitution Amendment Act 1965 of the Parliament of New Zealand as amended by Acts of the Legislative Assembly and Parliament of the Cook Islands (hereinafter referred to as "the Constitution").
 
-- This section amended Article 8 relating to the membership of the House of Arikis
+2. This section amended Article 8 relating to the membership of the House of Arikis
 
-- This  section  amended  Article  28  relating  to  the  qualification  of  electors  for  the  overseas constituency.
+3. This section amended Article 28 relating to the qualification of electors for the overseas constituency.
 
-- This is a transitional provision regarding the members of the House of Arikis.
+4. This is a transitional provision regarding the members of the House of Arikis.
 
 [[END OF PAGE 72]]
 
@@ -3209,18 +3373,18 @@ An Act to amend the Constitution
 
 BE IT ENACTED by the Parliament of the Cook Islands in Session assembled, by the authority of the same , and in accordance with Article 41(1) of the Constitution of the Cook Islands, as follows:
 
-#### Short Title  -
+#### 1. Short Title -
 This Act may be cited as the Constitution Amendment (No. 26) Act 2003 and shall be read together with and deemed part of the Constitution of the Cook Islands (hereinafter referred to as "the Constitution").
 
-- This section amended Article 1 by deleting the definition of 'To reside'.
+2. This section amended Article 1 by deleting the definition of “To reside”.
 
-- This section amended Articles 27(2) and (3) of the Constitution.
+3. This section amended Articles 27(2) and (3) of the Constitution.
 
-- This section substituted a new Article 28, relating to the qualifications of electors.
+4. This section substituted a new Article 28, relating to the qualifications of electors.
 
-- This clause repealed Articles 28A, 28C and 28D of the constitution.
+5. This clause repealed Articles 28A, 28C and 28D of the constitution.
 
-- This  is  a  savings  provision  which  preserved  the  seat  of  the  member  for  the  overseas constituency until the expiry of the then current term of Parliament in June 2004).
+6. This is a savings provision which preserved the seat of the member for the overseas constituency until the expiry of the then current term of Parliament in June 2004).
 
 [[END OF PAGE 73]]
 
@@ -3240,10 +3404,10 @@ An Act to amend the Constitution and to provide for the dissolution of Parliamen
 
 BE IT ENACTED by the Parliament of the Cook Islands in Session assembled, by the authority of the same , and in accordance with Article 37(7) of the Constitution of the Cook Islands, as follows:
 
-#### Short Title  -
+#### 1. Short Title -
 This Act may be cited as the Constitution Amendment (No. 27) Act 2004 and shall be read together with and deemed part of the Constitution of the Cook Islands (hereinafter referred to as "the Constitution").
 
-- This section amended Article 37 by repealing subclause (5) of that Article and substituting a new subclause (5) which reduces the term of Parliament from 5 years to 4.
+2. This section amended Article 37 by repealing subclause (5) of that Article and substituting a new subclause (5) which reduces the term of Parliament from 5 years to 4.
 
 ________________________________
 
