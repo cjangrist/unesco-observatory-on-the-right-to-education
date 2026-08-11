@@ -2,7 +2,7 @@
 
 REPUBLIC OF NAMIBIA
 
-# strategic PLAN 2012 - 2017
+# strategicPLAN 2012 – 2017
 
 MINISTRY OF EDUCATION
 
@@ -22,6 +22,25 @@ ii STRATEGIC PLAN 2012 - 2017
 
 ## TABLE OF CONTENT
 
+FOREWORD ......................................................................................................................................... iv
+ACKNOWLEDGEMENT ....................................................................................................................... vi
+EXECUTIVE SUMMARY ..................................................................................................................... viii
+1. INTRODUCTION ....................................................................................................................... 1
+1.1 Introduction and Background ....................................................................................... 1
+1.2 Rationale for the Strategic Plan ................................................................................... 3
+1.3 Linkage between Strategic Plan and Performance Management Plan (PMP) ............. 4
+2. STRATEGIC DIRECTION ......................................................................................................... 5
+2.1 Conceptual Framework
+2.2 Mandate ....................................................................................................................... 5
+2.3 Vision Statement .......................................................................................................... 6
+2.4 Mission Statement ........................................................................................................ 6
+2.5 Core Values .................................................................................................................. 7
+3. CONCEPTUAL UNDERSTANDING, STRATEGIC THEMES AND OBJECTIVES .................. 8
+3.1 Strategic Themes ......................................................................................................... 8
+3.2 Strategic Theme and Objectives .................................................................................. 9
+4. STRATEGY MAP .................................................................................................................... 10
+5. STRATEGIC PLAN-MATRIX ................................................................................................... 11
+
 STRATEGIC PLAN 2012 - 2017 iii
 
 [[END OF PAGE 3]]
@@ -40,7 +59,7 @@ The Namibian educational system requires continuous improvement in quality teach
 
 We set high standards in this Plan for positive learning outcomes leading to diverse opportunities for our learners regarding their careers and success in life. Our Strategic Plan identifies strategic objectives, initiatives and measureable results that demonstrate the expected outcomes of the education system over the next five years. Monitoring and evaluation therefore becomes an integral part of each and every component of the plan.
 
-We are conscious that it will not be easy to achieve the Strategic objectives and the collective outcomes of education and training excellence that we articulated in our Vision Statement. We further recognize that the education and training sector in Namibia is likely to face many challenges in the implementation of the Plan, and it is critical therefore, that all the stakeholders in education and training join forces with the Ministry in the pursuit of excellence and in fulfilling the mandate of the Ministry. This is envisaged through our commitment to stakeholder partnerships, whereby development partner participation through ETSIP implementation has been elaborated.
+We are conscious that it will not be easy to achieve the Strategic objectives and the collective outcomes of education and training excellence that we articulated in our Vision Statement. We further recognize that the education and training sector in Namibia is likely to face many challenges in the implementation of
 
 iv
 
@@ -50,7 +69,9 @@ STRATEGIC PLAN 2012 - 2017
 
 [[START OF PAGE 5]]
 
-The  key  performance  indicators  (KPIs),  initiatives  and  timeframe  for  achieving  the  strategic  themes/ objectives were formulated, and responsibilities assigned to relevant units in order to ensure the effective implementation of the Strategic Plan.  Mechanisms were also put in place to monitor progress in achieving the strategic themes and objectives. We are confident that the Performance Management Plan (PMP), as a tool, would ensure the implementation process and reporting of results in a timely manner.
+the Plan, and it is critical therefore, that all the stakeholders in education and training join forces with the Ministry in the pursuit of excellence and in fulfilling the mandate of the Ministry. This is envisaged through our commitment to stakeholder partnerships, whereby development partner participation through ETSIP implementation has been elaborated.
+
+The key performance indicators (KPIs), initiatives and timeframe for achieving the strategic themes/objectives were formulated, and responsibilities assigned to relevant units in order to ensure the effective implementation of the Strategic Plan. Mechanisms were also put in place to monitor progress in achieving the strategic themes and objectives. We are confident that the Performance Management Plan (PMP), as a tool, would ensure the implementation process and reporting of results in a timely manner.
 
 In conclusion, the Ministry of Education will continue to strive for the provision of quality teaching and learning , improved learning outcomes, and the production of an educated and skilled workforce needed for a productive and competitive Nation through the effective implementation of this Strategic Plan.
 
@@ -166,11 +187,11 @@ x STRATEGIC PLAN 2012 - 2017
 
 ### 1.1 Introduction and Background
 
-The Ministry of Education was established mainly to provide education and training for national development. Inspired and guided by our National Vision StatementVision 2030, Namibia had to undergo a dramatic reform of its overall national development strategy. Vision 2030 sets a very ambitious target that, by 2030, Namibia should join the ranks of high income countries and afford all its citizens a quality of life that is comparable to that of the developed world . With emphasis on enhanced quality of life for all , Vision 2030 calls for rapid economic growth to be accompanied by equitable social development . These twin goals of growth with equity are to be pursued within a broader strategic framework of transforming the economy into a knowledge-based economy.
+The Ministry of Education was established mainly to provide education and training for national development. Inspired and guided by our National Vision Statement—Vision 2030, Namibia had to undergo a dramatic reform of its overall national development strategy. Vision 2030 sets a very ambitious target that, by 2030, Namibia should join the ranks of high income countries and afford all its citizens a quality of life that is comparable to that of the developed world. With emphasis on enhanced quality of life for all, Vision 2030 calls for rapid economic growth to be accompanied by equitable social development. These twin goals of growth with equity are to be pursued within a broader strategic framework of transforming the economy into a knowledge-based economy.
 
 The NDP, which embodies the goals of Vision 2030, sets out the macroeconomic growth targets and emphasizes the role of private sector as an engine of growth. Within the context of Vision 2030, the  NDP4 identifies  the  key  four  focus  areas,  such  as  the  national  Human  Resources Planning and Development, Job Creation and reduction of unemployment rate from 44.5% to 40.4%, Reduction of inequality of income as measured by Gini-Coefficient Index to 0.47 from 0.7, and increased size of manufacturing and service sectors by diversifying Namibian economy, leading towards achieving to increased per capita income to the level of developed high income countries. These factors have been incorporated in the development of Strategic Plan's high level statements, strategic themes and objectives. The Mandate of the Ministry clearly states 'to educate and train for national development' and its essence is captured in several of the strategic objectives, initiatives and key performance indicators to achieve during the next five years. The Strategic Plan focuses on 'providing accessible and equitable quality education and training for a skilled productive and competitive Nation' as the Ministry's Mission. The Strategic Plan objectives and initiatives are designed to achieve higher passing rates at the primary and secondary schools so that nation's workforce needs and skill-can be met and achieve a knowledge-based economy.
 
-Therefore, a strategic plan for the education sector was developed to reform the Sector in order to contribute to the actualization of Vision 2030 and the attainment of national development goals as set out in the NDPs. Eduction and Training Sector Pimprovement Programme (ETSIP) represents
+Therefore, a strategic plan for the education sector was developed to reform the Sector in order to contribute to the actualization of Vision 2030 and the attainment of national development goals as set out in the NDPs. Education and Training Sector Improvement Programme (ETSIP) represents
 
 1
 
@@ -186,13 +207,15 @@ All key stakeholders in the education sector have been assigned unique and key r
 
 One of the strategic themes of the Strategic Plan is strengthening the stakeholder relations and partnerships. With the key strategic objective of Maximizing benefits from strategic partnerships. ETSIP being the improvement programme, we pay special attention to implementing and monitoring the initiatives pertaining to its key focus areas. In the second phase of the ETSIP, several key performance indicators will be identified as part of the Strategic Plan and subsequently in the Performance Management Plans (PMPs) at the directorate or sector levels. Special attention will focus on the use of ETSIP resources, a significant part of which comes from development partners.  Efficient  and  effective  use  of  resources  resulting  in  increased  outcome  of  teachers and learners to be measured through key performance indicators is a challenge to programme operators at the headquarters directorates, regions and school levels.
 
-Using the information derived from the exercises, the old vision and mission statements and core values of the MoE were revised. These high level statements give direction to where the Ministry wants to be in five years. To support the high level statements, five strategic themes have been identified as the key focus areas (pillars of excellence) during the Strategic Plan implementation period. Objectives have been developed to facilitate the implementation of each strategic theme.
+Using the information derived from the exercises, the old vision and mission statements and core values of the MoE were revised. These high level statements give direction to where the Ministry
 
 2 STRATEGIC PLAN 2012 - 2017
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+wants to be in five years. To support the high level statements, five strategic themes have been identified as the key focus areas (pillars of excellence) during the Strategic Plan implementation period. Objectives have been developed to facilitate the implementation of each strategic theme.
 
 The strategic objectives describe the desired results that must be achieved to realize the Vision and the Mandate. A strategy map had been also developed that links the key elements of the Strategic Plan. This map provides a bird's eye view on how the MoE will achieve such strategic objectives. Key performance indicators and targets have been developed to facilitate a continuous process of monitoring the progress of the implementation of the Strategic Plan. Initiatives have been identified and costed, and units were assigned with responsibilities to meet the strategic objectives and the set targets.
 
@@ -248,9 +271,9 @@ To educate and train for national development
 
 According to Article 20 of the Namibian Constitution
 
-- All persons shall have the right to education.
+(1) All persons shall have the right to education.
 
-- Primary education shall be compulsory and the State shall provide reasonable facilities to  render  effective  this  right  for  every  resident  within  Namibia,  by  establishing  and maintaining State schools at which primary education will be provided free of charge.
+(2) Primary education shall be compulsory and the State shall provide reasonable facilities to render effective this right for every resident within Namibia, by establishing and maintaining State schools at which primary education will be provided free of charge.
 
 STRATEGIC PLAN 2012 - 2017 5
 
@@ -260,9 +283,9 @@ STRATEGIC PLAN 2012 - 2017 5
 
 6
 
-- Children shall not be allowed to leave school until they have completed their primary education or have attained the age of sixteen (16) years, whichever is the sooner, save in so far as this may be authorized by Act of Parliament on grounds of health or other considerations pertaining to the public interest.
+(3) Children shall not be allowed to leave school until they have completed their primary education or have attained the age of sixteen (16) years, whichever is the sooner, save in so far as this may be authorized by Act of Parliament on grounds of health or other considerations pertaining to the public interest.
 
-- All persons shall have the right, at their own expense, to establish and to maintain private schools, or colleges or other institutions of tertiary education: provided that:
+(4) All persons shall have the right, at their own expense, to establish and to maintain private schools, or colleges or other institutions of tertiary education: provided that:
 
 (a) Such schools, colleges or institutions of tertiary education are registered with a Government department in accordance with any law authorizing and regulating such registration;
 
@@ -367,203 +390,57 @@ STRATEGIC PLAN 2012 - 2017
 
 ## STRATEGY MAP
 
-C
-
-U
-
-S
-
-T
-
-O
-
-M
-
-E
-
-R
-
-I
-
-N
-
-T
-
-E
-
-R
-
-A
-
-L
-
-P
-
-R
-
-O
-
-C
-
-E
-
-S
-
-S
-
-E
-
-S
-
-L
-
-&
-
-G
-
-F
-
-I
-
-N
-
-Core
-
-Values
-
-INTEGRITY
-
-ACCOUNTABILITY
-
-COMMITMENT
-
-RESPECT & EMPATHY
-
-TEAMWORK
-
-PROFESSIONALISM
-
-2.8  Ensure prudent financial management & adequate and fair allocation of resources
-
-2.4 Enhance HIV prevention
-
-including wellness
-
-2.5 Improve ICT provision
-
-and usage
-
-2.6 Strengthen management
-
-skills and competencies
-
-2.7. Attract, deploy & retain
-
-skilled workforce
-
-1.5 Build educator's
-
-skills and competencies
-
-1.4 Create a conducive
-
-environment for
-
-teaching & learning
-
-1.3 Ensure relevant
-
-quality learning content
-
-1.2 Improve supervision
-
-on teaching learning
-
-1. TEACHING &
-
-LEARNING
-
-2.3 Improve
-
-organizational
-
-performance
-
-2.1 Enhance
-
-information &
-
-knowledge
-
-management
-
-2.2 Enhance
-
-management of
-
-the decentralization
-
-function
-
-2. LEADERSHIP &
-
-MANAGEMENT
-
-3.1 Improve maintenance
-
-of infrastructure & Ensure
-
-modern and reliable
-
-physical infrastructure
-
-3. INFRASTRUCTURE
-
-4. REGULATORY
-
-FRAMEWORK
-
-4.1 Ensure compliance
-
-to regulatory framework
-
-4.2 Ensure responsive
-
-regulatory framework
-
-5.3 Strengthen & manage
-
-relations with key internal
-
-& external stakeholders
-
-5.2 Increase
-
-collaboration with local,
-
-regional & international
-
-partners
-
-5.1 Maximize benefits
-
-from strategic
-
-partnerships
-
-5. STAKEHOLDER
-
-RELATION
-
 VISION : To be the ministry of excellence in providing quality education and training for national development.
-
 MISSION : To provide accessible and equitable quality education and training for a skilled, productive and competitive Nation
 
-1.1 Provide accessible
+CUSTOMER
 
-equitable and quality
+1.1 Provide accessible equitable and quality education for all
 
-education for all
+INTERNAL PROCESSES
+
+1. TEACHING & LEARNING
+1.2 Improve supervision on teaching learning
+1.3 Ensure relevant quality learning content
+1.4 Create a conducive environment for teaching & learning
+1.5 Build educator's skills and competencies
+
+2. LEADERSHIP & MANAGEMENT
+2.1 Enhance information & knowledge management
+2.2 Enhance management of the decentralization function
+2.3 Improve organizational performance
+
+3. INFRASTRUCTURE
+3.1 Improve maintenance of infrastructure & Ensure modern and reliable physical infrastructure
+
+4. REGULATORY FRAMEWORK
+4.1 Ensure compliance to regulatory framework
+4.2 Ensure responsive regulatory framework
+
+5. STAKEHOLDER RELATION
+5.1 Maximize benefits from strategic partnerships
+5.2 Increase collaboration with local, regional & international partners
+5.3 Strengthen & manage relations with key internal & external stakeholders
+
+L & G
+
+2.4 Enhance HIV prevention including wellness
+2.5 Improve ICT provision and usage
+2.6 Strengthen management skills and competencies
+2.7. Attract, deploy & retain skilled workforce
+
+FIN
+
+2.8 Ensure prudent financial management & adequate and fair allocation of resources
+
+Core Values
+
+INTEGRITY
+ACCOUNTABILITY
+COMMITMENT
+RESPECT & EMPATHY
+TEAMWORK
+PROFESSIONALISM
 
 10 STRATEGIC PLAN 2012 - 2017
 
@@ -573,11 +450,7 @@ education for all
 
 ## STRATEGIC PLAN-MATRIX
 
-Defining
-
-the Strategic Themes and Strategic Objectives is not enough. A matrix for the Strategic Plan was developed to ensure that there is a clear direction in successfully implementing the
-
-strategy. The following terminologies used in the matrix are hereby defined;
+Defining the Strategic Themes and Strategic Objectives is not enough. A matrix for the Strategic Plan was developed to ensure that there is a clear direction in successfully implementing the strategy. The following terminologies used in the matrix are hereby defined;
 
 - Strategic Objective: Is the statement of the desired result.
 
@@ -597,18 +470,23 @@ STRATEGIC PLAN 2012 - 2017 11
 
 [[START OF PAGE 22]]
 
-Responsible | Unit | PQA | DAE | PQA
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Programme/Initiative | 1.1.1 Outcomes and impact of accessible and equitable inclusive quality education at levels.
-Targets | 2016/17 | 85.3 | 74.0 | 12.8 | 20.4 | 1.9 | 5.6 | 98% 11 876 | 100 387 369 | 72.1 190 460 | 13 751 | 50 | 52.9 | 95.3 | 51.6
-2015/16 | 84.7 | 73.0 | 13.3 | 20.7 | 2.0 | 6.3 | 86% 10 603 | 100 387 369 | 69.1 184 913 | 15 842 | 49.9 | 53 | 92.5 | 50.6
-2014/15 | 84.1 | 72.0 | 13.8 | 21.0 | 2.1 | 7.0 | 74% 9467 | 100 387 369 | 66.1 179 527 | 18 251 | 49.8 | 53.1 | 89.7 | 49.6
-2013/14 | 83.5 | 71.0 | 14.3 | 21.3 | 2.2 | 7.7 | 62% 8453 | 99.9 386 982 | 63.1 174 298 | 21 027 | 49.7 | 53.2 | 86.9 | 48.6
-2012/13 | 82.9 | 70.0 | 14.8 | 21.6 | 2.3 | 8.4 | 50% 7547 | 99.9 386 982 | 60.1 169 221 | 24 224 | 49.6 | 53.3 | 84.1 | 47.6
-Baseline | 82.3 | 69.0 | 15.3 | 21.9 | 2.4 | 9.1 | 38% 6739 | 99.8 386 596 | 57.1 164 293 | 28 011 | 49.5 | 53.4 | 81.3 | 46.6
-KPI rate - primary | promotion promotion rate - secondary | repetition rate - primary | Repetition rate - secondary | % of school dropouts - primary | % of school dropouts - secondary | Net enrollment rate & No. of learners in pre-primary | Net enrollment rate & No.of learners in primary education | Net enrollment rate & No. of learners in secondary education | Net enrollment in NLP at all stages | % of girls' enrolment in primary phase (gender parity) | % of girls' enrolment in secondary phase (gender parity) | Survival rates in Grade 8 | Survival rates in Grade 11
-NDP 4 Desired | Outcome | no | 2
-Strategic Objective 1.1 Provide accessible and equitable inclusive education at all levels 1 &
+Strategic Objective | NDP 4 Desired Outcome no | KPI | Targets | Programme/Initiative | Responsible Unit
+Baseline | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+1.1 Provide accessible and equitable inclusive education at all levels | 1 & 2 | promotion rate - primary | 82.3 | 82.9 | 83.5 | 84.1 | 84.7 | 85.3 | 1.1.1 Outcomes and impact of accessible and equitable inclusive quality education at all levels. | PQA
+ |  | promotion rate – secondary | 69.0 | 70.0 | 71.0 | 72.0 | 73.0 | 74.0 |  | 
+ |  | repetition rate - primary | 15.3 | 14.8 | 14.3 | 13.8 | 13.3 | 12.8 |  | 
+ |  | Repetition rate - secondary | 21.9 | 21.6 | 21.3 | 21.0 | 20.7 | 20.4 |  | 
+ |  | % of school dropouts – primary | 2.4 | 2.3 | 2.2 | 2.1 | 2.0 | 1.9 |  | 
+ |  | % of school dropouts - secondary | 9.1 | 8.4 | 7.7 | 7.0 | 6.3 | 5.6 |  | 
+ |  | Net enrollment rate & No. of learners in pre-primary | 38% 6739 | 50% 7547 | 62% 8453 | 74% 9467 | 86% 10 603 | 98% 11 876 |  | 
+ |  | Net enrollment rate & No.of learners in primary education | 99.8 386 596 | 99.9 386 982 | 99.9 386 982 | 100 387 369 | 100 387 369 | 100 387 369 |  | 
+ |  | Net enrollment rate & No. of learners in secondary education | 57.1 164 293 | 60.1 169 221 | 63.1 174 298 | 66.1 179 527 | 69.1 184 913 | 72.1 190 460 |  | 
+ |  | Net enrollment in NLP at all stages | 28 011 | 24 224 | 21 027 | 18 251 | 15 842 | 13 751 |  | DAE
+ |  | % of girls' enrolment in primary phase (gender parity) | 49.5 | 49.6 | 49.7 | 49.8 | 49.9 | 50 |  | PQA
+ |  | % of girls' enrolment in secondary phase (gender parity) | 53.4 | 53.3 | 53.2 | 53.1 | 53 | 52.9 |  | 
+ |  | Survival rates in Grade 8 | 81.3 | 84.1 | 86.9 | 89.7 | 92.5 | 95.3 |  | 
+ |  | Survival rates in Grade 11 | 46.6 | 47.6 | 48.6 | 49.6 | 50.6 | 51.6 |  | 
 
 12 STRATEGIC PLAN 2012 - 2017
 
@@ -616,18 +494,24 @@ Strategic Objective 1.1 Provide accessible and equitable inclusive education at 
 
 [[START OF PAGE 23]]
 
-Responsible | Unit | ECD | NAMCOL | DNEA | VET | HE | HE | VET | HE | HE | HE | NCHE | NSFAF
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Programme/Initiative Accessible and quality education | Enrolments in educational programmes
-Targets | 2016/17 | 75,000 | 90% 75% | 300 | 37 500 | 16.8 | 36 729 | 20 640 | 17 279 | 74% | 550 | 68 | 90% | 6.35 | 24 696
-2015/16 | 70,000 | 80% | 60% | 200 | 37 400 | 15.8 | 26 235 | 19 702 | 15 953 | 74% | 525 | 66 | 80% | 5.44 | 16 464
-2014/15 | 65,000 | 75% | 50% | 100 | 37 300 | 14.8 | 18 739 | 18 764 | 15 050 | 74% | 490 | 64 | 70% | 4.99 | 11 355
-2013/14 | 60,000 | 70% | 40% | 50 | 36 644 | 13.8 | 13 385 | 17 871 | 14 335 | 74% | 460 | 62 | 60% | 5.35 | 8 110
-2012/13 | 57,422 | 68% | 32,7 | 0 | 34 518 | 12.8 | 9 561 | 17 020 | 13 550 | 80% | 450 | 60 | 55% | 6.73 | 6 239
-Baseline | 57,422 | 68% | 32,7 | 0 | 32 643 | 11.8 | 6 816 | 16 203 | 12 440 | 80% | 420 | 59 | 50% | 5 | 4 991
-Outcome no KPI # of children enrolled ECD programmes % of Educarers who more than 1 month in ECD % of ECD centres adequate sanitation (functional toilets or Number of ECD centres receiving GRN school No enrolments in Distance Education programmes % of secondary school learner that qualified tertiary institutions. Number enrolled at No of enrolments at No of students enrolled PoN Average annual completion rates for VET trainiees # of faculty positions % of PoN students Pass rate at UNAM % increase in student enrolments No of Beneficiaries Loan/Grants
-NDP 4 Desired
-Strategic Objective
+Strategic Objective | NDP 4 Desired Outcome no | KPI | Targets | Programme/Initiative | Responsible Unit
+Baseline | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | # of children enrolled in ECD programmes | 57,422 | 57,422 | 60,000 | 65,000 | 70,000 | 75,000 | 1.1.2 Accessible and quality education | ECD
+ |  | % of Educarers who have more than 1 month training in ECD | 68% | 68% | 70% | 75% | 80% | 90% |  | 
+ |  | % of ECD centres with adequate sanitation (functional toilets or latries) | 32,7 | 32,7 | 40% | 50% | 60% | 75% |  | 
+ |  | Number of ECD centres receiving GRN school feeding | 0 | 0 | 50 | 100 | 200 | 300 |  | 
+ |  | No enrolments in Distance Education programmes | 32 643 | 34 518 | 36 644 | 37 300 | 37 400 | 37 500 | 1.1.3 Enrolments in educational programmes | NAMCOL
+ |  | % of secondary school learner that qualified to enter tertiary institutions. | 11.8 | 12.8 | 13.8 | 14.8 | 15.8 | 16.8 |  | DNEA
+ |  | Number enrolled at VTC | 6 816 | 9 561 | 13 385 | 18 739 | 26 235 | 36 729 |  | VET
+ |  | No of enrolments at UNAM | 16 203 | 17 020 | 17 871 | 18 764 | 19 702 | 20 640 |  | HE
+ |  | No of students enrolled at PoN | 12 440 | 13 550 | 14 335 | 15 050 | 15 953 | 17 279 |  | HE
+ |  | Average annual completion rates for VET trainiees | 80% | 80% | 74% | 74% | 74% | 74% |  | VET
+ |  | # of faculty positions at PoN | 420 | 450 | 460 | 490 | 525 | 550 |  | HE
+ |  | % of PoN students that pass | 59 | 60 | 62 | 64 | 66 | 68 |  | HE
+ |  | Pass rate at UNAM | 50% | 55% | 60% | 70% | 80% | 90% |  | HE
+ |  | % increase in student enrolments | 5 | 6.73 | 5.35 | 4.99 | 5.44 | 6.35 |  | NCHE
+ |  | No of Beneficiaries of NSFAF Loan/Grants | 4 991 | 6 239 | 8 110 | 11 355 | 16 464 | 24 696 |  | NSFAF
 
 STRATEGIC PLAN 2012 - 2017 13
 
@@ -635,18 +519,13 @@ STRATEGIC PLAN 2012 - 2017 13
 
 [[START OF PAGE 24]]
 
-Responsible Unit | PQA
---- | --- | --- | --- | ---
-Programme/Initiative | 1.2.1 National standards and performance indicators and professional standards for teachers to measure internal efficiency of learning outcomes 1.2.2 Learning support 1.2.3 Supervision of teaching and learning 1.2.4 Conducive environment for teaching and learning 1.2.5 Educators' skills and competencies | 1.2.6 Performance Management Systems | 1.2.7 Sschool clustering system 1.2.8 Quality assurance systems at all levels. | 1.2.9 Standards for the education system. 1.2.10 Leaders with necessary skills and knowledge through in-service training. 1.2.11 Skills and competency based programmes. 1.2.12 National standards and performance indicators and professional standards for teachers to measure internal efficiency of
-Targets 2016/17 | 2.5 | 2.9 | 240 | 100%
-2015/16 2.3 | 2.8 | 0 | 90%
-2014/15 2.2 | 2.7 | 204 | 70%
-2013/14 2.1 | 2.6 | 0 | 50%
-2012/13 2 | 2.5 | 168 | 35%
-Baseline 1.9 | 2.4 | 132 | 10%
-KPI | Rate of school performance at primary level (scale 1 - 4) Rate of school performance at secondary level (scale | 1-4). # of schools evaluated based on the national External School Evaluation (NESE). | % of Inspectors/ Education Officers/school management trained on supervision for teaching and learning (scale 1- 4)
-NDP 4 Desired Outcome no | 1 & 2
-Strategic Objective | 1.2 Improve supervision on teaching & learning
+Strategic Objective | NDP 4 Desired Outcome no | KPI | Targets | Programme/Initiative | Responsible Unit
+Baseline | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+1.2 Improve supervision on teaching & learning | 1 & 2 | Rate of school performance at primary level (scale 1 – 4) | 1.9 | 2 | 2.1 | 2.2 | 2.3 | 2.5 | 1.2.1 National standards and performance indicators and professional standards for teachers to measure internal efficiency of learning outcomes 1.2.2 Learning support 1.2.3 Supervision of teaching and learning 1.2.4 Conducive environment for teaching and learning 1.2.5 Educators' skills and competencies | PQA
+ |  | Rate of school performance at secondary level (scale 1-4). | 2.4 | 2.5 | 2.6 | 2.7 | 2.8 | 2.9 | 1.2.6 Performance Management Systems | 
+ |  | # of schools evaluated based on the national External School Evaluation (NESE). | 132 | 168 | 0 | 204 | 0 | 240 | 1.2.7 Sschool clustering system 1.2.8 Quality assurance systems at all levels. | 
+ |  | % of Inspectors/ Education Officers/school management trained on supervision for teaching and learning (scale 1- 4) | 10% | 35% | 50% | 70% | 90% | 100% | 1.2.9 Standards for the education system. 1.2.10 Leaders with necessary skills and knowledge through in-service training. 1.2.11 Skills and competency based programmes. 1.2.12 National standards and performance indicators and professional standards for teachers to measure internal efficiency of learning outcomes. | 
 
 14 STRATEGIC PLAN 2012 - 2017
 
@@ -654,18 +533,19 @@ Strategic Objective | 1.2 Improve supervision on teaching & learning
 
 [[START OF PAGE 25]]
 
-Responsible Unit | DNEA | PQA/DNEA | PQA/DNEA | PQA | POA | NLAS | PQA | IT
+Strategic Objective | NDP 4 Desired Outcome no | KPI | Targets | Programme/Initiative | Responsible Unit
+Baseline | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Programme/Initiative | 1.3.1 Inspectors of Education and Advisory teachers for English and Mathematics on the interpretation of SATS reports. | 1.3.2 Inspectors of Education and Advisory teachers for English, Mathematics and Natural Science on the interpretation of SATS reports | 1.3.3 Standards and competencies for learning. | 1.3.4 Curriculum at all levels to be aligned to the set standards | 1.4.1 Adequate and relevant teaching and learning material at all levels | 1.4.2 Resource materials in libraries and resource centers. | 1.4.3 Psycho-social support services to learners through training of life skills teachers and support teacher councilors
-Targets | 2016/17 - | - 60% 57% 66% | 47.9% 54.7% 50.0% | 46.3% 52.9% 57.4% | 1:1 | 470 | 10% | 35% | 298 | 350
-2015/16 | 54% 51% - - | - 46.6% 52.4% | 47.5% 45.6% | 52.3% 55.8% 1:1 | 444 | 10% | 30% | 198 | 300
-2014/15 | - - | 55% 52% 61% | 45.3% 50.1% 45.0% 44.9% | 51.7% 54.2% 1.1 | 418 | 10% | 25% | 148 | 205
-2013/14 | 50% 47% | - - - 44.2% | 47.8% 42.5% 44.2% | 51.1% 52.4% 1:1 | 392 | 10% | 20% | 98 | 200
-2012/13 | - - | 50% 47% 56% | 42.9% 45.5% 40.0% 43.5% | 50.5% 50.6% 1:2 | 366 | 10% | 15% | 48 | 200
-Baseline | 46% 43% | 45% 42% 51% | 40.8% 44.2% 34.0% | 41.4% 47.7% 46.6% 1:3 | 340 | 7% | 7% | 0 | 83
-KPI | & 2 5 a) English b) Mathematics SATS Grade 7 a) English b) Maths c) Science Percentage of learners achieving D or better in Grade 12: Mathematics Science English Percentage of learners achieving D or better in Grade 10: Mathematics Science English | Ratio of learner to textbook # of schools with proper library buildings % increase of school libraries learning resources. % increase of community libraries resources No. of schools with full-time life skills teachers No. of schools with fully equipped and functional computers laboratories
-NDP 4 Desired Outcome no | 1 1 | & 2
-Strategic Objective | 1.3 Ensure relevant & quality learning content (Improve learning achievements at all levels) 1.4 Create a | conducive environment for teaching & learning
+1.3 Ensure relevant & quality learning content (Improve learning achievements at all levels) | 1 & 2 | Increasing SATS score Grade 5 a) English b) Mathematics | 46% 43% | - - | 50% 47% | - - | 54% 51% | - - | 1.3.1 Inspectors of Education and Advisory teachers for English and Mathematics on the interpretation of SATS reports. | DNEA
+ |  | SATS Grade 7 a) English b) Maths c) Science | 45% 42% 51% | 50% 47% 56% | - - - | 55% 52% 61% | - - - | 60% 57% 66% | 1.3.2 Inspectors of Education and Advisory teachers for English, Mathematics and Natural Science on the interpretation of SATS reports | PQA/DNEA
+ |  | Percentage of learners achieving D or better in Grade 12: Mathematics Science English | 40.8% 44.2% 34.0% | 42.9% 45.5% 40.0% | 44.2% 47.8% 42.5% | 45.3% 50.1% 45.0% | 46.6% 52.4% 47.5% | 47.9% 54.7% 50.0% | 1.3.3 Standards and competencies for learning. | PQA/DNEA
+ |  | Percentage of learners achieving D or better in Grade 10: Mathematics Science English | 41.4% 47.7% 46.6% | 43.5% 50.5% 50.6% | 44.2% 51.1% 52.4% | 44.9% 51.7% 54.2% | 45.6% 52.3% 55.8% | 46.3% 52.9% 57.4% | 1.3.4 Curriculum at all levels to be aligned to the set standards | PQA
+1.4 Create a conducive environment for teaching & learning | 1 & 2 | Ratio of learner to textbook | 1:3 | 1:2 | 1:1 | 1.1 | 1:1 | 1:1 | 1.4.1 Adequate and relevant teaching and learning material at all levels | POA
+ |  | # of schools with proper library buildings | 340 | 366 | 392 | 418 | 444 | 470 | 1.4.2 Resource materials in libraries and resource centers. | NLAS
+ |  | % increase of school libraries learning resources. | 7% | 10% | 10% | 10% | 10% | 10% |  | 
+ |  | % increase of community libraries resources | 7% | 15% | 20% | 25% | 30% | 35% |  | 
+ |  | No. of schools with full-time life skills teachers | 0 | 48 | 98 | 148 | 198 | 298 | 1.4.3 Psycho-social support services to learners through training of life skills teachers and support teacher councilors | PQA
+ |  | No. of schools with fully equipped and functional computers laboratories | 83 | 200 | 200 | 205 | 300 | 350 |  | IT
 
 STRATEGIC PLAN 2012 - 2017 15
 
@@ -673,18 +553,20 @@ STRATEGIC PLAN 2012 - 2017 15
 
 [[START OF PAGE 26]]
 
-Responsible Unit | IT | PQA | PoN | DPS | HE | HE | M&E | PoN | PoN
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Programme/Initiative Guideline to manage teaching and resources | 1.4.4 | 1.4.5 Staffing norms. 1.4.6 Appointment of teacher assistants for all learners with special needs. 1.4.7 Additional support to all learners. | 1.4.8 Appropriate teaching & learning materials | 1.5.1 Training needs assessment for educators. | 1.5.2 Professional educator training programme. | 1.5.3 Professionalize educators. 1.5.4 Competency standards. 1.5.5 Induction course for all staff. 1.5.6 Education programmes. | 1.5.7 Outcomes and impact of the professional training programmes. 1.5.8 Mentoring system to offer support to | serving staff. 1.5.9 Cluster system. 1.5.10 Training policy for educators.
-Targets | 2016/17 | 200 | 969 | 1:35 | 1:30 | 1:30 | 60% | 35 | 100% | 60% | 230 | 15
-2015/16 | 400 | 959 | 1:35 | 1:30 | 1:30 | 50% | 30 | 90% | 50% | 220 | 10
-2014/15 | 350 | 949 | 1:32 | 1:28 | 1:30 | 40% | 25 | 80% | 40% | 200 | 8
-2013/14 | 300 | 939 | 1:29 | 1:25 | 1:40 | 30% | 20 | 70% | 30% | 200 | 4
-2012/13 | 300 | 929 | 1:29 | 1:25 | 1:45 | 20% | 15 | 60% | 20% | 190 | 2
-Baseline | 34 | 919 | 1:29 | 1:24 | 1:50 | 0 | 10 | 50% | 15% | 181 | 0
-KPI schools with internet | No of | No. of schools with equipped science laboratories | Teacher learner ratio at primary | Teacher learner ratio at secondary | Lecture student rate at PoN | % of educators meeting set competency standards. | % of Namibian faculty with Phd's | Pedagogical Skills coverage at UNAM | % increase in teacher trainees. | # of refereed publications | Faculty on sabbatical learning
-NDP 4 Desired Outcome no | & 2
-Strategic Objective | 1.5 Develop educators' skills and competencies
+Strategic Objective | NDP 4 Desired Outcome no | KPI | Targets | Programme/Initiative | Responsible Unit
+Baseline | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | No of schools with internet facilities. | 34 | 300 | 300 | 350 | 400 | 200 | 1.4.4 Guideline to manage teaching and learning resources | IT
+ |  | No. of schools with equipped science laboratories | 919 | 929 | 939 | 949 | 959 | 969 |  | 
+ |  | Teacher learner ratio at primary | 1:29 | 1:29 | 1:29 | 1:32 | 1:35 | 1:35 | 1.4.5 Staffing norms. 1.4.6 Appointment of teacher assistants for all learners with special needs. 1.4.7 Additional support to all learners. 1.4.8 Appropriate teaching & learning materials | PQA
+ |  | Teacher learner ratio at secondary | 1:24 | 1:25 | 1:25 | 1:28 | 1:30 | 1:30 |  | 
+ |  | Lecture student rate at PoN | 1:50 | 1:45 | 1:40 | 1:30 | 1:30 | 1:30 |  | PoN
+1.5 Develop educators’ skills and competencies | 1 & 2 | % of educators meeting set competency standards. | 0 | 20% | 30% | 40% | 50% | 60% | 1.5.1 Training needs assessment for educators. 1.5.2 Professional educator training programme. 1.5.3 Professionalize educators. 1.5.4 Competency standards. 1.5.5 Induction course for all staff. 1.5.6 Education programmes. | DPS
+ |  | % of Namibian faculty with Phd’s | 10 | 15 | 20 | 25 | 30 | 35 |  | HE
+ |  | Pedagogical Skills coverage at UNAM | 50% | 60% | 70% | 80% | 90% | 100% |  | HE
+ |  | % increase in teacher trainees. | 15% | 20% | 30% | 40% | 50% | 60% | 1.5.7 Outcomes and impact of the professional training programmes. 1.5.8 Mentoring system to offer support to serving staff. 1.5.9 Cluster system. 1.5.10 Training policy for educators. | M&E
+ |  | # of refereed publications | 181 | 190 | 200 | 200 | 220 | 230 |  | PoN
+ |  | Faculty on sabbatical learning | 0 | 2 | 4 | 8 | 10 | 15 |  | PoN
 
 16 STRATEGIC PLAN 2012 - 2017
 
@@ -692,18 +574,19 @@ Strategic Objective | 1.5 Develop educators' skills and competencies
 
 [[START OF PAGE 27]]
 
-Responsible Unit | NLAS | EMIS | DRST | PAD | DPS
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Programme/Initiative Record management. Equitable access to quality information learning. Regional knowledge centres Efficiency in production time. Research and Development | 2.1.2 and lifelong | 2.1.4 | 2.2.1 Annual implementation plan 2.2.2 Decentralization functional framework. | 2.3.1 Organization structure to respond to the organizational mandate. | 2.3.2 Monitoring and evaluation system for education programmes at all levels. | 2.3.3 Monitoring mechanism for performance of SOEs and all other subsidized entities. 2.3.4 Performance Management | System at all levels. | 2.3.5 Iternal processes to improve internal efficiency and effectiveness 2.3.6 Communication and coordination strategy
-Targets | 2016/17 | 300 | 2 | 4 | 0.3% | 100% | 63 | 63 | 6 | 100 | 90%
-2015/16 | 300 | 1 | 4 | 0.25% | 100% | 63 | 63 | 6 | 75 | 80%
-2014/15 | 300 | 1 | 4 | 0.2% | 100% | 63 | 63 | 6 | 50 | 70%
-2013/14 | 250 | 1 | 4 | 0.1% | 75% | 31 | 31 | 6 | 25 | 60%
-2012/13 | 250 | 2 | 4 | 0.08% | 50% | 5 | 6 | 0 | 55%
-Baseline | 220 | 0 | 5 | 0.06% | 25% | 0 | 0 | 0 | 0 | 30%
-KPI Number of staff members trained on record management. of Regional Study Resource Centres constructed Production time of annual statistical reports (months). Increase in Research and Development spending as percent of GDP | Degree of decentralization process accomplished | No. of Performance Agreements signed and appraised No of PMS based performance reviews No of service-level agreements signed and appraised with SOE's % of staff covered by PMS % set targets met in Directorates Annual Plans.
-NDP 4 Desired Outcome no 1 | & 2 | 2
-Strategic Objective Enhance information knowledge management | 2.1 | 2.2 Enhance management of the decentralization function | Improve organizational performance | 2.3
+Strategic Objective | NDP 4 Desired Outcome no | KPI | Targets | Programme/Initiative | Responsible Unit
+Baseline | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+2.1 Enhance information & knowledge management | 1 | Number of staff members trained on record management. | 220 | 250 | 250 | 300 | 300 | 300 | 2.1.1 Record management. 2.1.2 Equitable access to quality information and lifelong learning. 2.1.3 Regional knowledge centres 2.1.4 Efficiency in production time. 2.1.5 Research and Development | NLAS
+ |  | No. of Regional Study Resource Centres constructed | 0 | 2 | 1 | 1 | 1 | 2 |  | 
+ |  | Production time of annual statistical reports (months). | 5 | 4 | 4 | 4 | 4 | 4 |  | EMIS
+ |  | Increase in Research and Development spending as percent of GDP | 0.06% | 0.08% | 0.1% | 0.2% | 0.25% | 0.3% |  | DRST
+2.2 Enhance management of the decentralization function | 1 & 2 | Degree of decentralization process accomplished | 25% | 50% | 75% | 100% | 100% | 100% | 2.2.1 Annual implementation plan 2.2.2 Decentralization functional framework. | PAD
+2.3 Improve organizational performance | 2 | No. of Performance Agreements signed and appraised | 0 | 5 | 31 | 63 | 63 | 63 | 2.3.1 Organization structure to respond to the organizational mandate. | DPS
+ |  | No of PMS based performance reviews | 0 |  | 31 | 63 | 63 | 63 | 2.3.2 Monitoring and evaluation system for education programmes at all levels. | 
+ |  | No of service-level agreements signed and appraised with SOE’s | 0 | 6 | 6 | 6 | 6 | 6 | 2.3.3 Monitoring mechanism for performance of SOEs and all other subsidized entities. | 
+ |  | % of staff covered by PMS | 0 | 0 | 25 | 50 | 75 | 100 | 2.3.4 Performance Management System at all levels. | 
+ |  | % set targets met in Directorates Annual Plans. | 30% | 55% | 60% | 70% | 80% | 90% | 2.3.5 Iternal processes to improve internal efficiency and effectiveness 2.3.6 Communication and coordination strategy | 
 
 STRATEGIC PLAN 2012 - 2017 17
 
@@ -711,18 +594,21 @@ STRATEGIC PLAN 2012 - 2017 17
 
 [[START OF PAGE 28]]
 
-Responsible Unit | HAMU | PoN | IT | NLAS/IT | PoN | HR | VET | HR
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Programme/Initiative | 2.4.1 % education sector learners and students having comprehensive HIV Prevention knowledge and skills including sexual reproductive health 2.4.2 % of learners aged 6-19, exposed to HIV Skills education including WoH and MFMC 2.4.3 % of employees, learners and students accessing and utilizing HIV as well as other health and safety related services | 2.5.1 Access to ICT at all institutions. 2.5.2 ICT training, maintenance and support. 2.5.3 M&E process for ICT expansion. | 2.6.1 Training needs assessment for all 2.6.2 Training and exposure programmes 2.6.3 Training data management system 2.6.4 Inclusion of leadership and management courses for educators at tertiary institutions 2.5.5 Apprenticeship programme | 2.7.1 Appointment requirement for job categories. 2.7.2 Career information system 2.7.3 Recruitment process
-2014/15 2016/17 | 55 | 90 | 3360 100 | 20 | 1000 | 300 | 75 | 1:3 | 100 | 15 000 | 1 | 50
-2015/16 | 50 | 80 | 4201 55.6 | 10 | 750 | 250 | 73 | 1:4 | 85 | 10 000 | 2 | 40
-Targets | 45 | 70 | 6812 47.4 | 6 | 750 | 200 | 65 | 1:5 | 70 | 5000 | 3 | 30
-2013/14 | 40 | 60 | 6100 29.8 | 5 | 600 | 150 | 55 | 1:6 | 60 | 2000 | 4 | 20
-2012/13 | 35 | 50 | 5595 21.5 | 3 | 600 | 100 | 41 | 1:7 | 50 | 0 | 5 | 10
-Baseline | 30 | 40 | 2316 12 | 2 | 600 | 62 | 29 | 1:15 | 30 | 0 | 6 | 0
-KPI | HIV Life Skills Education including WoH and MFMC HIV Mainstreaming in other Education Programmes and % of educators knowing their HIV status and remain the same % of students with access to student services | Number of educators using ICTs in education No. of ICT users in libraries and CLDC's (000's) No. of community libraries/ CLDC's providing access to ICT | computer PoN % of staff trained to upgrade their skills Number placed in apprenticeship programme | of staff turnover. No. of schools with full- time librarians
-NDP 4 Desired Outcome no | 1 | 3 | 2 3
-Strategic Objective | 2.4 Enhance HIV Prevention including Wellness; Ensure leadership and management commitment to HIV Prevention | 2.5 Improve ICT provision and usage. | 2.6 Strengthen management skills and competencies 2.7 Attract, deploy & retain skilled workforce
+Strategic Objective | NDP 4 Desired Outcome no | KPI | Targets | Programme/Initiative | Responsible Unit
+Baseline | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+2.4 Enhance HIV Prevention including Wellness; Ensure leadership and management commitment to HIV Prevention | 1 | HIV Life Skills Education including WoH and MFMC | 30 | 35 | 40 | 45 | 50 | 55 | 2.4.1 % education sector learners and students having comprehensive HIV Prevention knowledge and skills including sexual reproductive health 2.4.2 % of learners aged 6-19, exposed to HIV Life Skills education including WoH and MFMC 2.4.3 % of employees, learners and students accessing and utilizing HIV as well as other health and safety related services | HAMU
+ |  | HIV Mainstreaming in other Education Programmes | 40 | 50 | 60 | 70 | 80 | 90 |  | 
+ |  | # and % of educators knowing their HIV status and remain the same | 2316 12 | 5595 21.5 | 6100 29.8 | 6812 47.4 | 4201 55.6 | 3360 100 |  | PoN
+ |  | % of students with access to student services | 2 | 3 | 5 | 6 | 10 | 20 |  | 
+2.5 Improve ICT provision and usage. | 3 | Number of educators using ICTs in education | 600 | 600 | 600 | 750 | 750 | 1000 | 2.5.1 Access to ICT at all institutions. 2.5.2 ICT training, maintenance and support. 2.5.3 M&E process for ICT expansion. | IT
+ |  | No. of ICT users in libraries and CLDC’s (000’s) | 62 | 100 | 150 | 200 | 250 | 300 |  | NLAS/IT
+ |  | No. of community libraries/ CLDC’s providing access to ICT | 29 | 41 | 55 | 65 | 73 | 75 |  | 
+ |  | Student computer ration at PoN | 1:15 | 1:7 | 1:6 | 1:5 | 1:4 | 1:3 |  | PoN
+2.6 Strengthen management skills and competencies | 2 | % of staff trained to upgrade their skills | 30 | 50 | 60 | 70 | 85 | 100 | 2.6.1 Training needs assessment for all 2.6.2 Training and exposure programmes 2.6.3 Training data management system 2.6.4 Inclusion of leadership and management courses for educators at tertiary institutions 2.5.5 Apprenticeship programme | HR
+ |  | Number placed in apprenticeship programme | 0 | 0 | 2000 | 5000 | 10 000 | 15 000 |  | VET
+2.7 Attract, deploy & retain skilled workforce | 3 | % of staff turnover. | 6 | 5 | 4 | 3 | 2 | 1 | 2.7.1 Appointment requirement for job categories. 2.7.2 Career information system 2.7.3 Recruitment process | HR
+ |  | No. of schools with full-time librarians | 0 | 10 | 20 | 30 | 40 | 50 |  | 
 
 18 STRATEGIC PLAN 2012 - 2017
 
@@ -730,18 +616,20 @@ Strategic Objective | 2.4 Enhance HIV Prevention including Wellness; Ensure lead
 
 [[START OF PAGE 29]]
 
-Responsible Unit | DPS | PAD | DPS | DPS | DPS
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Programme/Initiative | 2.8.1 Budgeting and the planning processes 2.8.2 Iternal participatory budgeting guidelines 2.8.3 Per Capita Funding formula 2.8.4 Funding formula for programmes and institutions 2.8.5 Allocation of funding to materials and teaching supplies | Infrastructure Master Plan | 3.1.1 | 4.1.1 Monitoring & Evaluation Plan for SOEs | 5.1.1 Donor Support to Education Master Plan 5.1.2 ETSIP Phase 2 Plan | 5.1.3. Harmonised Educational Indicators
-Targets | 2016/17 | 1.0 | 7.5 | 15.0 | 260 | 235 | 6 | 6 | 2 | 70% | 100 | 100
-2015/16 | 1.5 | 6.5 | 12.5 | 260 | 224 | 6 | 6 | 2 | 60% | 90 | 100
-2014/15 | 2.0 | 6.0 | 10 | 260 | 228 | 6 | 6 | 3 | 55% | 80 | 93
-2013/14 | 2.5 | 5 | 5 | 260 | 206 | 6 | 6 | 3 | 45% | 75 | 86
-2012/13 | 3.0 | 4.5 | 2.5 | 260 | 211 | 6 | 6 | 3 | 40% | 70 | 70
-Baseline | 4.5 | 3.6 | 1.7 | 259 | 198 | 0 | 0 | 4 | 30% | 0 | 72
-KPI | Rate of variance (Over and Under spending reduced) (%) % increase in the development budget | % increase in funding for materials and supplies. | No of classrooms renovated | No. of classrooms to be constructed | No of service-level agreements signed and appraised | No. of performance reviews with SOEs | No. of policies developed and reviewed | % of development partner agreements and other instruments utilized. | % of KPI implemented | % of budget spent on ETSIP planned DPS activities
-NDP 4 Desired Outcome no | 1 | 2 | 2 | 2 | & 2
-Strategic Objective | 2.8 Ensure prudent financial Management & adequate and fair allocation of resources | 3.1 Improve maintenance of Infrastructure & Ensure modern & durable physical infrastructure | 4.1 Ensure compliance to regulatory framework | 4.2 Ensure responsive regulatory framework | 5.1 Maximize (optimize) benefits from strategic partnership
+Strategic Objective | NDP 4 Desired Outcome no | KPI | Targets | Programme/Initiative | Responsible Unit
+Baseline | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+2.8 Ensure prudent financial Management & adequate and fair allocation of resources | 1 | Rate of variance (Over and Under spending reduced) (%) | 4.5 | 3.0 | 2.5 | 2.0 | 1.5 | 1.0 | 2.8.1 Budgeting and the planning processes 2.8.2 Iternal participatory budgeting guidelines 2.8.3 Per Capita Funding formula 2.8.4 Funding formula for programmes and institutions 2.8.5 Allocation of funding to materials and teaching supplies | DPS
+ |  | % increase in the development budget | 3.6 | 4.5 | 5 | 6.0 | 6.5 | 7.5 |  | 
+ |  | % increase in funding for materials and supplies. | 1.7 | 2.5 | 5 | 10 | 12.5 | 15.0 |  | 
+3.1 Improve maintenance of Infrastructure & Ensure modern & durable physical infrastructure | 2 | No of classrooms renovated | 259 | 260 | 260 | 260 | 260 | 260 | 3.1.1 Infrastructure Master Plan | PAD
+ |  | No. of classrooms to be constructed | 198 | 211 | 206 | 228 | 224 | 235 |  | 
+4.1 Ensure compliance to regulatory framework | 2 | No of service-level agreements signed and appraised | 0 | 6 | 6 | 6 | 6 | 6 | 4.1.1 Monitoring & Evaluation Plan for SOEs | DPS
+ |  | No. of performance reviews with SOEs | 0 | 6 | 6 | 6 | 6 | 6 |  | 
+4.2 Ensure responsive regulatory framework | 2 | No. of policies developed and reviewed | 4 | 3 | 3 | 3 | 2 | 2 |  | DPS
+5.1 Maximize (optimize) benefits from strategic partnership | 1 & 2 | % of development partner agreements and other instruments utilized. | 30% | 40% | 45% | 55% | 60% | 70% | 5.1.1 Donor Support to Education Master Plan 5.1.2 ETSIP Phase 2 Plan 5.1.3. Harmonised Educational Indicators | DPS
+ |  | % of KPI implemented | 0 | 70 | 75 | 80 | 90 | 100 |  | 
+ |  | % of budget spent on ETSIP planned DPS activities | 72 | 70 | 86 | 93 | 100 | 100 |  | 
 
 STRATEGIC PLAN 2012 - 2017 19
 
@@ -749,30 +637,17 @@ STRATEGIC PLAN 2012 - 2017 19
 
 [[START OF PAGE 30]]
 
-Responsible Unit | PAD | DPS
---- | --- | ---
-Programme/Initiative | 5.2.1 Strategic support from local, regional and international partners. | 5.3.1 Stakeholder Relations Master Plan
-Targets 2013/14 2014/15 2015/16 2016/17 | 2405 | 4
-2405 | 3.5
-2405 | 3
-2405 | 2.5
-2012/13 | 2405 | 2
-Baseline | 2405 | 1
-KPI | No. of students accommodated in job attachments | Level of stakeholder satisfaction (scale 1-4)
-NDP 4 Desired Outcome no | 4 | 4
-Strategic Objective | 5.2 Increase collaboration with local, regional & international partners | 5.3 Strengthen & manage relations with key internal & external stakeholders
+Strategic Objective | NDP 4 Desired Outcome no | KPI | Targets | Programme/Initiative | Responsible Unit
+Baseline | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+5.2 Increase collaboration with local, regional & international partners | 4 | No. of students accommodated in job attachments | 2405 | 2405 | 2405 | 2405 | 2405 | 2405 | 5.2.1 Strategic support from local, regional and international partners. | PAD
+5.3 Strengthen & manage relations with key internal & external stakeholders | 4 | Level of stakeholder satisfaction (scale 1-4) | 1 | 2 | 2.5 | 3 | 3.5 | 4 | 5.3.1 Stakeholder Relations Master Plan | DPS
 
-1. According to the National Housing Income and Expenditure Survey is evident that 11.6% of children age 6-13 were not in school. MOE will embark upon interventions
+1. According to the National Housing Income and Expenditure Survey is evident that 11.6% of children age 6-13 were not in school. MOE will embark upon interventions to address these imbalances.
 
-to address these imbalances.
+Budget for the next three years (MTP Period) are expected to be as follows: 2012 - 13 (N$9.415 billion); 2013 - 14 (N$9.778 billion); 2014 - 15 (N$8.981 billion). Out of these budgets, amounts under operational and development activities will be utilised for the next three years to address strategic objectives and initiatives under the strategic plan.
 
-Budget for the next three years (MTP Period) are expected to be as follows: 2012 - 13 (N$9.415 billion); 2013 - 14 (N$9.778 billion); 2014 - 15 (N$8.981 billion). Out of these budgets, amounts under operational and development activities will be utilised for the next three years to address strategic objectives and initiatives under the
-
-strategic plan.
-
-20
-
-STRATEGIC PLAN 2012 - 2017
+20 STRATEGIC PLAN 2012 - 2017
 
 [[END OF PAGE 30]]
 
