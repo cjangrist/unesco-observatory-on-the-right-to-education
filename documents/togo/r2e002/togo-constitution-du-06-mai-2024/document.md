@@ -1,6 +1,6 @@
 [[START OF PAGE 1]]
 
-69 e Année  N° 42 Bis
+69e Année  N° 42 Bis
 
 NUMERO  SPECIAL
 
@@ -10,43 +10,43 @@ JOURNAL   OFFICIEL
 
 DE  LA  REPUBLIQUE  TOGOLAISE
 
-PARAISSANT  LE  1 er   ET  LE  16  DE  CHAQUE  MOIS  A  LOME
-
-ABONNEMENT  ANNUEL
-
-ACHAT
-
- TOGO.............................. 20 000 F
-
- AFRIQUE........................ 28 000 F
-
- HORS AFRIQUE ........... 40 000 F
-
- Récépissé de déclaration d'associations ..  10 000 F
-
- Avis de perte de titre foncier (1 er et 2 e insertions) ............................................. 20 000 F
-
- Avis d'immatriculation ................................ 10 000 F
-
- Certification du JO ........................................    500 F
-
-NB. : Le  paiement à l'avance est la seule garantie pour être bien servi.
-
-Pour tout renseignement complémentaire, s'adresser à l'EDITOGO Tél. :  (228) 22 21 37 18 / 22 21 61 07 / 08  Fax (228) 22 22 14 89 -  BP: 891 - LOME
+PARAISSANT  LE  1er  ET  LE  16  DE  CHAQUE  MOIS  A  LOME
 
 T A R I F
 
+ACHAT
+
+● 1 à 12 pages.................. 200 F
+
+● 16 à 28 pages ................. 600 F
+
+● 32 à 44 pages ............... 1000 F
+
+● 48 à 60 pages ............... 1500 F
+
+● Plus de 60 pages ......... 2 000 F
+
+ABONNEMENT ANNUEL
+
+● TOGO.............................. 20 000 F
+
+● AFRIQUE........................ 28 000 F
+
+● HORS AFRIQUE ........... 40 000 F
+
 ANNONCES
 
- 1 à 12 pages..................  200 F
+● Récépissé de déclaration d'associations .. 10 000 F
 
- 16 à 28 pages ................. 600 F
+● Avis de perte de titre foncier (1er et 2e insertions) ............................................. 20 000 F
 
- 32 à 44 pages ............... 1000 F
+● Avis d'immatriculation ................................ 10 000 F
 
- 48 à 60 pages ............... 1500 F
+● Certification du JO ........................................ 500 F
 
- Plus de 60 pages ......... 2 000 F
+NB. : Le paiement à l'avance est la seule garantie pour être bien servi.
+
+Pour tout renseignement complémentaire, s'adresser à l'EDITOGO Tél. : (228) 22 21 37 18 / 22 21 61 07 / 08 Fax (228) 22 22 14 89 - BP: 891 - LOME
 
 DIRECTION, REDACTION ET ADMINISTRATION
 
@@ -62,6 +62,18 @@ CABINET DU PRESIDENT DE LA REPUBLIQUE - TEL. : 22  21  27  01  -  LOME
 
 ##### LOIS
 
+###### 2024
+
+06 mai-Loi n° 2024-005 portant constitution de la République Togolaise.............................................................................................1
+
+# PARTIE OFFICIELLE
+
+## ACTES  DU  GOUVERNEMENT  DE  LA REPUBLIQUE   TOGOLAISE
+
+### LOIS,  ORDONNANCES,  DECRETS, ARRETES   ET DECISIONS
+
+#### LOIS
+
 # LOI N° 2024-005 DU 06/05/2024 portant Constitution de la République Togolaise
 
 L'Assemblée nationale a délibéré et adopté ;
@@ -76,21 +88,9 @@ Nous, Peuple Togolais, nous plaçant sous la protection de Dieu, proclamons cett
 
 - constituer une nation togolaise souveraine, indépendante et juste ;
 
-- promouvoir la paix, la solidarité avec les autres peuples et nations du monde, particulièrement, avec les peuples africains et les peuples d'ascendance africaine, dans le respect  des valeurs traditionnelles et des spécificités culturelles inhérentes à nos us et coutumes ;
+- promouvoir la paix, la solidarité avec les autres peuples et nations du monde, particulièrement, avec les peuples africains et les peuples d'ascendance africaine, dans le respect des valeurs traditionnelles et des spécificités culturelles inhérentes à nos us et coutumes ;
 
 - préserver l'Etat de droit fondé sur le pluralisme politique, les principes de la démocratie et la protection des droits
-
-###### 2024
-
-06  mai-Loi  n°  2024-005  portant  constitution  de  la  République Togolaise.............................................................................................1
-
-# PARTIE OFFICIELLE
-
-## ACTES  DU  GOUVERNEMENT  DE  LA REPUBLIQUE   TOGOLAISE
-
-### LOIS,  ORDONNANCES,  DECRETS, ARRETES   ET DECISIONS
-
-#### LOIS
 
 [[END OF PAGE 1]]
 
@@ -378,7 +378,7 @@ La  déclaration  de  guerre  est  autorisée  par  le Parlement, réuni en Cong
 ##### Art. 20 :
 L'état  de siège, l'état d'urgence et de l'état de crise sanitaire sont décrétés en conseil des ministres pour une période initiale de trois (03) mois. Les chambres se réunissent de plein droit si elles ne sont pas en session.
 
-La prorogation de l'état de siège ou de l'état d'urgence audelà de la période initiale de trois (03) mois est soumise à l'autorisation de l'Assemblée nationale.
+La prorogation de l'état de siège ou de l'état d'urgence au-delà de la période initiale de trois (03) mois est soumise à l'autorisation de l'Assemblée nationale.
 
 Pendant la durée de l'état de siège ou de l'état d'urgence, l ' Assemblée  nationale  ne  peut  être  dissoute.  La responsabilité du gouvernement ne peut être engagée.
 
@@ -485,7 +485,7 @@ Le  Président  de  la  République  est  élu  par  le Parlement réuni en Cong
 
 Les candidats à la fonction de Président de la République sont présentés par les groupes parlementaires régulièrement constitués à l'Assemblée nationale.
 
-L'élection du Président de la République a lieu au scrutin secret à la majorité absolue. A défaut, le scrutin est repris. Après le troisième (3 e ) tour de scrutin, le Président de la République est élu à la majorité simple des parlementaires votants.
+L'élection du Président de la République a lieu au scrutin secret à la majorité absolue. A défaut, le scrutin est repris. Après le troisième (3e) tour de scrutin, le Président de la République est élu à la majorité simple des parlementaires votants.
 
 Le Président de la République élu prête serment devant le Congrès dans les termes suivants :
 
@@ -629,7 +629,7 @@ La vacance de la Présidence du Conseil par décès, démission ou empêchement 
 
 Le Président de la République en est informé.
 
-L'intérim de la Présidence du Conseil en cas de décès ou d'empêchement définitif est assuré par le Président de l'Assemblée nationale qui convoque de nouvelles élections législatives dans un délai allant de soixante (60) à quatrevingt-dix (90) jours, selon les dispositions des articles 47 et 48 de la présente Constitution.
+L'intérim de la Présidence du Conseil en cas de décès ou d'empêchement définitif est assuré par le Président de l'Assemblée nationale qui convoque de nouvelles élections législatives dans un délai allant de soixante (60) à quatre-vingt-dix (90) jours, selon les dispositions des articles 47 et 48 de la présente Constitution.
 
 #### Section 2 : Des attributions du Président du Conseil
 
@@ -942,7 +942,7 @@ Les collectivités territoriales sont la région et la commune.
 Les régions et les communes s'administrent librement par des conseils élus au suffrage universel dans les conditions prévues par la Constitution et les lois.
 
 ##### Art. 86 :
-T oute autre collectivité territoriale est créée par la loi.
+Toute autre collectivité territoriale est créée par la loi.
 
 ##### Art. 87 :
 L'Etat veille au développement harmonieux des collectivités territoriales sur la base de la solidarité nationale, des potentialités régionales et de l'équilibre inter-régional.
@@ -1033,10 +1033,10 @@ Le Président du Conseil entre en fonction dès sa prestation de serment.
 Les mesures législatives, y compris celles de nature organique, nécessaires à la mise en place des institutions prévues par la présente Constitution sont prises en Conseil des ministres, après avis de la Cour constitutionnelle, par des ordonnances ayant force de loi.
 
 ##### Art. 99 :
-T outes les lois, tous les décrets et arrêtés en vigueur demeurent dans le droit positif tant qu'il n'en a pas été disposé autrement.
+Toutes les lois, tous les décrets et arrêtés en vigueur demeurent dans le droit positif tant qu'il n'en a pas été disposé autrement.
 
 ##### Art. 100 :
-La présente Constitution est promulguée dans les quinze (15) jours suivant sa transmission au Président de  la  République.  Elle  sera  exécutée  comme  loi fondamentale de la cinquième (V e ) République.
+La présente Constitution est promulguée dans les quinze (15) jours suivant sa transmission au Président de la République. Elle sera exécutée comme loi fondamentale de la cinquième (Ve) République.
 
 [[END OF PAGE 15]]
 
@@ -1085,7 +1085,7 @@ ou à la disposition de l'autorité judiciaire dans les délais prévus par la l
 Nul ne peut être détenu s'il n'a été condamné préalablement par un tribunal indépendant et impartial. La loi détermine les conditions dans lesquelles la détention provisoire peut être ordonnée par l'autorité judiciaire ainsi que sa durée maximale.
 
 ##### Art. 7 :
-T oute personne a le droit d'être jugée équitablement, publiquement et dans un délai raisonnable par un juge indépendant et impartial.
+Toute personne a le droit d'être jugée équitablement, publiquement et dans un délai raisonnable par un juge indépendant et impartial.
 
 Toute personne  suspectée ou  poursuivie est présumée innocente tant que sa culpabilité n'a pas été établie.
 
@@ -1096,7 +1096,7 @@ La personne a le droit d'être informée des charges retenues contre elle et d'�
 Sont seuls punissables les faits constitutifs d'une infraction à la date à laquelle ils ont été commis.
 
 ##### Art. 8 :
-T oute personne a droit au respect de sa vie privée.
+Toute personne a droit au respect de sa vie privée.
 
 Le domicile est inviolable.  Aucune autorité ne peut entrer ou perquisitionner  le  domicile  sans  le  consentement  de  la personne sauf en cas de décision judiciaire ou de flagrant délit.
 
@@ -1199,20 +1199,24 @@ JOURNAL OFFICIEL DE LA REPUBLIQUE TOGOLAISE
 06  mai 2024
 
 ##### Art. 23 :
-Les citoyens ont le droit et le devoir de défendre la patrie et l'intégrité du territoire national. Ils ont notamment le devoir de combattre toute personne ou tout groupe de personnes  qui  tenterait  de  changer  par  la  force  l'ordre démocratique établi par la présente Constitution.
+Les citoyens ont le droit et le devoir de défendre la patrie et l'intégrité du territoire national. Ils ont notamment le devoir de combattre toute personne ou tout groupe de personnes qui tenterait de changer par la force l'ordre démocratique établi par la présente Constitution.
 
 La loi détermine les obligations militaires des Togolais et régit avec les garanties pertinentes l'objection de conscience ainsi que les autres causes d'exemption du service militaire obligatoire.
-
-##### Art. 25 :
-Les citoyens veillent au respect des droits et libertés des autres citoyens et à la sauvegarde de l'ordre public.
-
-Ils œuvrent à la promotion de la tolérance et du dialogue dans  leurs  rapports  avec  autrui.  La  loi  punit  ceux  qui commettent des actes et ceux qui incitent à la discrimination, à la haine ou à la violence à l'égard d'une personne ou d'un groupe de personnes à raison de leur origine, ou de leur appartenance ou leur non-appartenance à une ethnie, une nation, une race ou une religion.
-
-Fait à Lomé, le 06 mai 2024
 
 ##### Art. 24 :
 Les citoyens contribuent aux dépenses publiques, en fonction de leur capacité économique, par un système fiscal juste fondé sur le principe d'égalité et de progressivité.
 
-Imp. Editogo Dépôt  légal   42 bis Le Président de la République Faure Essozimna GNASSINGBE
+##### Art. 25 :
+Les citoyens veillent au respect des droits et libertés des autres citoyens et à la sauvegarde de l'ordre public.
+
+Ils œuvrent à la promotion de la tolérance et du dialogue dans leurs rapports avec autrui. La loi punit ceux qui commettent des actes et ceux qui incitent à la discrimination, à la haine ou à la violence à l'égard d'une personne ou d'un groupe de personnes à raison de leur origine, ou de leur appartenance ou leur non-appartenance à une ethnie, une nation, une race ou une religion.
+
+Fait à Lomé, le 06 mai 2024
+
+Le Président de la République
+Faure Essozimna GNASSINGBE
+
+Imp. Editogo
+Dépôt légal 42 bis
 
 [[END OF PAGE 18]]
