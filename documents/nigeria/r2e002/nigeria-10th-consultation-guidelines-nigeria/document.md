@@ -2,7 +2,7 @@
 
 # GUIDELINES FOR THE PREPARATION OF REPORTS BY MEMBER STATES ON THE APPLICATION OF THE 1960 CONVENTION AND RECOMMENDATION AGAINST DISCRIMINATION IN EDUCATION
 
-Approved by the UNESCO Executive Board at its 207 th session in October 2019
+Approved by the UNESCO Executive Board at its 207th session in October 2019
 
 ## 1. Introduction
 
@@ -12,7 +12,7 @@ The right to education is today one of the key principles underpinning the Educa
 
 The  Convention  has  been  recognized  as  a cornerstone  of  Education  2030  agenda .  It  also represents a powerful tool to advance SDG4 by ensuring effective articulation between normative and operational work.
 
-The present Guidelines are intended to assist Member States in the preparation of national reports on the implementation of the Convention as well as the Recommendation in the context of the 10 th Consultation.
+The present Guidelines are intended to assist Member States in the preparation of national reports on the implementation of the Convention as well as the Recommendation in the context of the 10th Consultation.
 
 ## 2. Reporting obligations
 
@@ -24,13 +24,15 @@ Most importantly, the reporting obligation under the provisions of Article VII o
 
 ## 3. Participation in consultations
 
-In light of the Education 2030 agenda, the monitoring of the implementation of the Convention and the Recommendation is of crucial importance in order to ensure an education that is truly for all and to  counter  persistent  inequalities  in  access,  participation  and  learning  outcomes  at  all  levels, particularly  for  the  most  vulnerable  groups.  Concrete  measures  taken  by  Member  States  in accordance with their legal obligations under these instruments contribute to this process.
+In light of the Education 2030 agenda, the monitoring of the implementation of the Convention and the Recommendation is of crucial importance in order to ensure an education that is truly for all and to counter persistent inequalities in access, participation and learning outcomes at all levels,
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-As the scope and content of the legal obligations under the right to education are aligned with the 10  targets  of  SDG4  on  education,  efforts  have  also  been  made  to  ensure  that  the  specific components are included in the guidelines and that the guidelines serve as a valuable monitoring tool for measuring progress towards SDG4 targets. 1 In addition, in view of the educational challenges posed  by  the  influxes  of  refugees  and  displacements  worldwide,  the  guidelines  provide  the opportunity to report on concrete measures taken during the reporting period to include refugees and migrants in their educational systems. An emphasis is also to be placed on legal and policy framework that protects the rights of national minorities.
+particularly for the most vulnerable groups. Concrete measures taken by Member States in accordance with their legal obligations under these instruments contribute to this process.
+
+As the scope and content of the legal obligations under the right to education are aligned with the 10 targets of SDG4 on education, efforts have also been made to ensure that the specific components are included in the guidelines and that the guidelines serve as a valuable monitoring tool for measuring progress towards SDG4 targets. 1 In addition, in view of the educational challenges posed by the influxes of refugees and displacements worldwide, the guidelines provide the opportunity to report on concrete measures taken during the reporting period to include refugees and migrants in their educational systems. An emphasis is also to be placed on legal and policy framework that protects the rights of national minorities.
 
 The reporting should be as comprehensive as possible and the process needs to be participatory and conducted in cooperation between ministries of education and other ministries dealing with aspects of the right to education. Relevant information from CSOs having education as their main field of activity should also be provided.
 
@@ -72,9 +74,9 @@ NIGERIA
 
 Organization or entity responsible for the preparation of the report:Federal Ministry of Education
 
-## Information on the legislative, judicial, administrative and other measures taken by the state at the national level
+## I. Information on the legislative, judicial, administrative and other measures taken by the state at the national level
 
-### Ratification of the Convention 2
+### 1. Ratification of the Convention 2
 
 Is your country a State Party to the Convention?
 
@@ -110,7 +112,7 @@ http://portal.unesco.org/en/ev.php-URL_ID=12949&URL_DO=DO_TOPIC&URL_SECTION=201.
 
 [[START OF PAGE 5]]
 
-### Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
+### 2. Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
 
 Has your country ratified the Protocol?
 
@@ -118,7 +120,7 @@ o X Yes
 
 o No, please briefly explain the difficulties encountered:
 
-### Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
+### 3. Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
 
 In case your country is a State Party to the Convention:
 
@@ -174,11 +176,11 @@ Information supplied could demonstrate how such policies and programmes comply w
 
 National Policy on Education avoid discrimination Education
 
-## Information on the implementation of the Convention or Recommendation
+## II. Information on the implementation of the Convention or Recommendation
 
-### Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
+### 1. Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
 
-Articles/Paragraphs  1(1),  2  and  3  of  the  Convention/Recommendation  provide  for  nondiscrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
+Articles/Paragraphs 1(1), 2 and 3 of the Convention/Recommendation provide for non-discrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
 
 This corresponds to the overall aspiration of SDG4 which aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all' by 2030. It therefore covers all the SDG4 targets, but also specifically SDG target 4.5. 4
 
@@ -282,15 +284,13 @@ Please provide reference to the relevant laws and provisions:
 
 Under the marriage Act of 1990, Age of marriage is 21 years both boys and girls.
 
-### Progress made with respect to implementing the right to education in the context of SDG 4
+### 2. Progress made with respect to implementing the right to education in the context of SDG 4
 
 #### 2.1 Pre-primary education
 
-Pre-primary  education  is  not  explicitly  provided  for  in  the  Convention/Recommendation. However, the international community has increasingly recognized the importance of early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 8 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory preprimary education'.
+Pre-primary education is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 8. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Is compulsory and free of charge pre-primary education available in your country?
-
-- Please list the laws and policies that ensure the availability of pre-primary education for all and provide information on the difficulties experienced by your government in the realization of access to pre-primary education. Brief quantitative information could be added.
 
 o Pre-primary education is compulsory: Please provide the age of enrolment and duration:
 
@@ -298,7 +298,9 @@ Age 2 years; Pre-primary is compulsory, but not free
 
 o Pre-primary education is free of charge for all: Please provide the duration:
 
-The  National Framework on Early Child Care Development Education states that; ECCD is compulsory and has established  rural shifting care by mothers in some communities early in the Northern States.
+- Please list the laws and policies that ensure the availability of pre-primary education for all and provide information on the difficulties experienced by your government in the realization of access to pre-primary education. Brief quantitative information could be added.
+
+The National Framework on Early Child Care Development Education states that; ECCD is compulsory and has established rural shifting care by mothers in some communities early in the Northern States.
 
 > 8 Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'.
 
@@ -602,7 +604,7 @@ Information could also cover the language facilities, such as the availability o
 
 #### 2.10  Rights of refugees and migrants
 
-The rights of refugees and migrants are not explicitly provided for in the Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin. 14 In this context,  a  number  of  Member  States  that  participated  in  the  9 th Consultation  reported  on measures adopted to ensure refugees' and migrants' right to education. Growing displacement and influx of refugees worldwide and the emergence of major educational challenges in this area,  as  well  as  the  frameworks  recently  adopted  by  the  international  community, 15 demonstrate the opportunity for states to report on measures adopted to include refugees and migrants in their educational systems.
+The rights of refugees and migrants are not explicitly provided for in the Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin. 14 In this context, a number of Member States that participated in the 9th Consultation reported on measures adopted to ensure refugees' and migrants' right to education. Growing displacement and influx of refugees worldwide and the emergence of major educational challenges in this
 
 14
 
@@ -612,11 +614,11 @@ Articles/Paragraphs 1 and 3.
 
 [[START OF PAGE 16]]
 
+area, as well as the frameworks recently adopted by the international community, 15 demonstrate the opportunity for states to report on measures adopted to include refugees and migrants in their educational systems.
+
 Besides, this aspect also corresponds to SDG target 4.5, which calls on states to 'ensure equal access to all levels of education and vocational training for the vulnerable', including 'children in vulnerable situations', and covers the majority of SDG4 targets.
 
 - Please briefly describe the existing legal and policy framework that protects the right to quality education for refugees and migrants in your country.
-
-## Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
 
 - Please briefly indicate measures adopted by national and local authorities to ensure refugees' and migrants' right to education (several items could be ticked/mentioned):
 
@@ -626,7 +628,7 @@ o Provision of language courses
 
 o X Specific training for educational staff
 
-o XInitiatives addressing discrimination and  promoting cultural diversity and  mutual acceptance
+o X Initiatives addressing discrimination and promoting cultural diversity and mutual acceptance
 
 o X Alternative administrative procedure (placement tests, portfolio of evidence, etc.)
 
@@ -639,6 +641,8 @@ o X Financial support
 o X Other innovative measures:
 
 Please briefly elaborate further on the measures taken:
+
+## III. Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
 
 ### 1. Challenges and obstacles
 
@@ -672,7 +676,7 @@ o X   Dissemination and advocacy of the core content of the Convention/Recommend
 
 o X Increased public awareness through advocacy material on the Convention/ Recommendation or the core principles of the right to education
 
-o Activities undertaken  or supported by the  National  Commission  to  promote  non- discrimination  and  equality  of  educational  opportunities  and  to  foster  debate  on  critical issues in relation to the rights enshrined in the instruments
+o Activities undertaken or supported by the National Commission to promote non-discrimination and equality of educational opportunities and to foster debate on critical issues in relation to the rights enshrined in the instruments
 
 o Other:
 
