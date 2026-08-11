@@ -14,6 +14,42 @@ Ministry of Education Government of the People's Republic of Bangladesh
 
 ## Acronyms
 
+ASPR-Annual Sectoral Progress Report
+BUET-Bangladesh University of Engineering and Technology
+BNFE-Bureau of Non-Formal Education
+CEDAW-Convention on the Elimination of All forms of Discrimination Against Women
+CAMPE-Campaign for Popular Education
+CPEIMU-Compulsory Primary Education Implementation and Monitoring Unit
+DPE- Directorate of Primary Education
+DP- Development Partners
+EFA-Education for All
+HEQEP-Higher Education Quality Enhancement Project
+ICT-Information Communication Technology
+IDP- Internally Displaced people
+IE-Inclusive Education
+LIFE-Literacy Initiatives for Empowerment
+MOPME-Ministry of Primary and Mass Education
+MOE- Ministry of Education
+MPO-Monthly Payment Order
+NEP-National Education Policy
+NFE-Non-Formal Education
+NGO-Non-Government Organization
+NSDC-National Skill Development Council
+NTEC-National Teacher Education Council
+PEDP-III-Primary Education Development Programme (Phase-III)
+PPE-Pre-Primary Education
+RNGPS-Registered Non-Government Primary Schools
+ROSC-Reaching Out-of-School Children
+SDG-Sustainable Development Goals
+SESDP-Secondary Education Sector Development Project
+SEQAEP-Secondary Education Quality and Access Enhancement Project
+SHARE-TVET-Technical and Vocational Education and Training
+TQI-SEP- Teaching Quality Improvement in Secondary Education Project
+UDHR-Universal Declaration of Human Rights
+UGC-University Grants Commission
+UNCRC-United nations Conventions on the Rights of the Child
+WFP-World Food Programme
+
 2
 
 [[END OF PAGE 2]]
@@ -46,7 +82,7 @@ Considering the Education 2030 agenda, the monitoring of the Convention and the 
 
 As the scope and content of the legal obligations under the right to education are aligned with the 10  targets  of  SDG 4,  efforts  are  being  made  to  ensure  that  the  components  of  the  targets  are included in the guidelines and that these guidelines serve as a valuable contribution to monitoring progress towards SDG 4 targets.
 
-Beyond SDG 4, the Convention is also closely aligned with the normative content on the right to education of other international human rights instruments such as the International Covenant on Economic,  Social  and  Cultural  Rights  (1966),  Convention  on  the  Elimination  of  All  Forms  of Discrimination against Women (1979), the Convention on the Rights of the Child (1989) and the Convention on the Rights of Persons with Disabilities (2006).
+Beyond SDG 4, the Convention is also closely aligned with the normative content on the right to education of other international human rights instruments such as the International Covenant on
 
 3
 
@@ -54,7 +90,9 @@ Beyond SDG 4, the Convention is also closely aligned with the normative content 
 
 [[START OF PAGE 4]]
 
-In addition, this Consultation is an opportunity to inform the ongoing UNESCO Initiative on the Evolving  Right  to  Education  within  a  lifelong  learning  perspective 1 (launched in December 2021). The Initiative investigates how the right to education could be reinforced placing it within a lifelong  learning  perspective  and  in  light  of  the  new  demands  being  placed  on  education.  This Initiative builds  on  the Report  from  the  International  Commission  on  the  Futures  of Education 2 , which suggests to broaden our understanding of the right to education to clearly apply it  to  all  ages  and  across  all  times  and  spaces.  The  initiative  is  also  in-line  with  the Vision Statement  of  the  United  Nations  Secretary  General  on  Transforming  Education 3 ,  and  the Report  on  the  2022  Transforming  Education  Summit 4 which  call  for  the  transformation  of education systems to 'include everyone, regardless of circumstance, context or background'. The Initiative  on  the  Evolving  Right  to  Education  aims  to  open  a  collaborative  and  participatory discussion  about  the  international  framework  to  ensure  the  effective  enforcement  of  the  right  to education  and  learning  throughout  life  for  all.  Finally,  the  Initiative  builds  on  recent  intergovernmental  dialogues,  including  the  Marrakech  Framework  for  Action  for  Adult  Learning  and Education 5 and the Tashkent Declaration on Early Childhood Care and Education. 6
+Economic, Social and Cultural Rights (1966), Convention on the Elimination of All Forms of Discrimination against Women (1979), the Convention on the Rights of the Child (1989) and the Convention on the Rights of Persons with Disabilities (2006).
+
+In addition, this Consultation is an opportunity to inform the ongoing UNESCO Initiative on the Evolving Right to Education within a lifelong learning perspective 1 (launched in December 2021). The Initiative investigates how the right to education could be reinforced placing it within a lifelong learning perspective and in light of the new demands being placed on education. This Initiative builds on the Report from the International Commission on the Futures of Education 2, which suggests to broaden our understanding of the right to education to clearly apply it to all ages and across all times and spaces. The initiative is also in-line with the Vision Statement of the United Nations Secretary General on Transforming Education 3, and the Report on the 2022 Transforming Education Summit 4 which call for the transformation of education systems to 'include everyone, regardless of circumstance, context or background'. The Initiative on the Evolving Right to Education aims to open a collaborative and participatory discussion about the international framework to ensure the effective enforcement of the right to education and learning throughout life for all. Finally, the Initiative builds on recent inter-governmental dialogues, including the Marrakech Framework for Action for Adult Learning and Education 5 and the Tashkent Declaration on Early Childhood Care and Education. 6
 
 It  is  also  important  to  note  that  previous  consultations  on  the  Convention  and  Recommendation revealed  that  countries  now  understand  the  right  to  education  in  an  extended  manner.  The 11th consultation builds on the findings of the previous national reports to include  various areas that  have  direct  repercussions  on  the  right  to  education  such  as,  for  instance,  digital  learning, climate considerations, lifelong learning entitlement, and the role of non-state actors in education.
 
@@ -68,15 +106,15 @@ The  reporting  obligation  under  the  provisions  of  Article  VII  of  the  C
 
 > 1 https://www.unesco.org/en/right-education/evolving
 
-> 3 https://www.un.org/sites/un2.un.org/files/2022/09/sg_vision_statement_on_transforming_education.pdf
-
 > 2 https://unesdoc.unesco.org/ark:/48223/pf0000379707
+
+> 3 https://www.un.org/sites/un2.un.org/files/2022/09/sg_vision_statement_on_transforming_education.pdf
 
 > 4 https://www.un.org/sites/un2.un.org/files/report_on_the_2022_transforming_education_summit.pdf
 
-> 6 Tashkent-declaration-ecce-2022.pdf (unesco.org)
-
 > 5 Marrakech Framework for Action | Institute for Lifelong Learning (unesco.org)
+
+> 6 Tashkent-declaration-ecce-2022.pdf (unesco.org)
 
 4
 
@@ -110,9 +148,9 @@ The Guidelines are structured around three chapters:
 
 > 7 http://www.unesco.org/education/edurights/index.php?action=home&lng=en
 
-> 9 UIS Statistics (unesco.org)
-
 > 8 https://en.unesco.org/education/girls-women-rights
+
+> 9 UIS Statistics (unesco.org)
 
 5
 
@@ -122,9 +160,9 @@ The Guidelines are structured around three chapters:
 
 With a view to simplify the Guidelines while providing necessary substantive information to assist Member States  in  the  preparation  of  responses,  through  a  participatory  process, two  types  of guidance are provided:
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States. Please note that multiple answers may be provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States. Please note that multiple answers may be provided where relevant.
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses  to  the  open-ended  questions  (including  remarks  on  how  to  respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 6
 
@@ -146,7 +184,7 @@ Ms. Zubaida Mannan, Deputy Secretary General, BNCU
 
 Email and telephone number of contact person : natcombd@yahoo.com and +882226664802
 
-### Ratification and applicability of the Convention against Discrimination in Education 10
+### I. Ratification and applicability of the Convention against Discrimination in Education 10
 
 - Is your country a State Party to the Convention?
 
@@ -174,7 +212,7 @@ However, we have not yet established a specific timeline for completing the rati
 
 We are facing a few challenges that are slowing down the ratification process:
 
-- Legal and Institutional Uncertainty: We are uncertain about the
+i) Legal and Institutional Uncertainty: We are uncertain about the
 
 > 10 https://www.unesco.org/en/legal-affairs/convention-against-discrimination-education
 
@@ -184,23 +222,23 @@ We are facing a few challenges that are slowing down the ratification process:
 
 [[START OF PAGE 8]]
 
-- exact legal procedures, documents, and papers required for formal ratification.
+exact legal procedures, documents, and papers required for formal ratification.
 
-- ii) Practical Concerns: We need guidance on the specific forms, legal frameworks, and steps to take for the smooth submission of the required documents to UNESCO.
+ii) Practical Concerns: We need guidance on the specific forms, legal frameworks, and steps to take for the smooth submission of the required documents to UNESCO.
 
-- iii) Limited Resources: The ratification process is being carried out alongside other national priorities, which may delay progress.
+iii) Limited Resources: The ratification process is being carried out alongside other national priorities, which may delay progress.
 
 #### How UNESCO Can Assist:
 
 We request assistance from UNESCO in the following areas:
 
-- Clarification on Documentation Requirements: Providing clear guidance on the specific documents and legal steps required for ratifying the Convention.
+1. Clarification on Documentation Requirements: Providing clear guidance on the specific documents and legal steps required for ratifying the Convention.
 
-- Technical and Legal Support: Assistance from UNESCO's legal and technical experts in navigating the procedural aspects of the ratification process.
+2. Technical and Legal Support: Assistance from UNESCO's legal and technical experts in navigating the procedural aspects of the ratification process.
 
-- Capacity Building and Workshops: Offering workshops or advisory sessions for our government officials to better understand the ratification process and related obligations.
+3. Capacity Building and Workshops: Offering workshops or advisory sessions for our government officials to better understand the ratification process and related obligations.
 
-- Templates or Models: Provision of sample documents or templates from other countries that have successfully ratified the Convention to help guide us through the process.
+4. Templates or Models: Provision of sample documents or templates from other countries that have successfully ratified the Convention to help guide us through the process.
 
 We look forward to receiving support and working closely with UNESCO to ensure the successful ratification of this important instrument.
 
@@ -240,39 +278,39 @@ Information could also be given about the judicial, administrative and other com
 
 The provisions of the 1960 Convention against Discrimination in Education have been invoked in our country. There are several constitutional and legal frameworks in place that align with the principles of the Convention to combat discrimination in education.
 
-- Article 15 of the Constitution of Bangladesh : It ensures the fundamental responsibility of the State to provide basic necessities, including education, for its citizens. (Reference: http://bdlaws.minlaw.gov.bd/act-367/section-24563.html)
+a) Article 15 of the Constitution of Bangladesh: It ensures the fundamental responsibility of the State to provide basic necessities, including education, for its citizens. (Reference: http://bdlaws.minlaw.gov.bd/act-367/section-24563.html)
 
-- Article 17 of the Constitution of Bangladesh : It mandates the State to adopt effective measures for free and compulsory education for all children to remove illiteracy within a set timeframe.
+b) Article 17 of the Constitution of Bangladesh: It mandates the State to adopt effective measures for free and compulsory education for all children to remove illiteracy within a set timeframe.
 
 (Reference: http://bdlaws.minlaw.gov.bd/act-367/section-24565.html)
 
-- Article 27 of the Constitution of Bangladesh : It affirms that all citizens are equal before the law and are entitled to equal protection, ensuring no discrimination in access to education.
+c) Article 27 of the Constitution of Bangladesh: It affirms that all citizens are equal before the law and are entitled to equal protection, ensuring no discrimination in access to education.
 
 (Reference: http://bdlaws.minlaw.gov.bd/act-367/section-24575.html)
 
 In addition, specific laws and policies have been established to uphold these principles:
 
-- Primary Education (Compulsory) Act 1990 : This act provides the legal framework for ensuring compulsory primary education for all children, thus aiming to prevent discrimination in access to basic education.
+1. Primary Education (Compulsory) Act 1990: This act provides the legal framework for ensuring compulsory primary education for all children, thus aiming to prevent discrimination in access to basic education.
 
 (Reference: https://shorturl.at/XpmLT )
 
-- National Education Policy 2010 : This policy sets out the vision for inclusive education that accommodates children from diverse backgrounds and ensures equal access to education for all, including marginalized and underprivileged groups. (Reference: https://shorturl.at/im0Ys)
+2. National Education Policy 2010: This policy sets out the vision for inclusive education that accommodates children from diverse backgrounds and ensures equal access to education for all, including marginalized and underprivileged groups. (Reference: https://shorturl.at/im0Ys)
 
-- Five Year Plan : The Five Year Plan includes education sector reform initiatives designed to promote equal educational opportunities and address disparities in access and quality of education across various socio-economic groups. (Reference: pp 185-190 & 200-202 https://shorturl.at/4qAKe)
+3. Five Year Plan: The Five Year Plan includes education sector reform initiatives designed to promote equal educational opportunities and address disparities in access and quality of education across various socio-economic groups. (Reference: pp 185-190 & 200-202 https://shorturl.at/4qAKe)
 
 #### Judicial, Administrative, and Other Competent Authorities:
 
 Several judicial, administrative, and government bodies have jurisdiction concerning the right to education:
 
-- The Ministry of Education : It is responsible for formulating and implementing national education policies and legislation to ensure equal access to education. (Reference: www.moedu.gov.bd )
+i) The Ministry of Education: It is responsible for formulating and implementing national education policies and legislation to ensure equal access to education. (Reference: www.moedu.gov.bd )
 
-- ii) The Directorate of Primary Education (DPE) : This administrative authority oversees the implementation of compulsory primary education and ensures compliance with the Primary Education (Compulsory) Act 1990. (Reference: www.dpe.gov.bd)
+ii) The Directorate of Primary Education (DPE): This administrative authority oversees the implementation of compulsory primary education and ensures compliance with the Primary Education (Compulsory) Act 1990. (Reference: www.dpe.gov.bd)
 
-- iii) The High Court Division of the Supreme Court of Bangladesh : It has been involved in upholding constitutional provisions related to the right to education, particularly in cases where the rights of marginalized groups to access education have been at issue.
+iii) The High Court Division of the Supreme Court of Bangladesh: It has been involved in upholding constitutional provisions related to the right to education, particularly in cases where the rights of marginalized groups to access education have been at issue.
 
-- iv) Local Education Authorities : Operate under the Ministry of Education and Ministry of Primary and Mass Education (Reference: www.mopme.gov.bd) to implement policies and provide administrative support at the district and sub-district levels, ensuring access to education for all children.
+iv) Local Education Authorities: Operate under the Ministry of Education and Ministry of Primary and Mass Education (Reference: www.mopme.gov.bd) to implement policies and provide administrative support at the district and sub-district levels, ensuring access to education for all children.
 
-### Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the  context  of Sustainable Development Goal 4 (SDG4)
+### II. Information on the implementation of the Convention or Recommendation in the context of Sustainable Development Goal 4 (SDG4)
 
 9
 
@@ -308,11 +346,11 @@ The Constitution enshrines the right to education and equality for all citizens,
 
  Article 27 : Establishes equality before the law and equal protection under the law. (Reference: http://bdlaws.minlaw.gov.bd/act-367.html)
 
-###### Primary Education (Compulsory) Act 1990
+###### 2. Primary Education (Compulsory) Act 1990
 
 This act reflects the principles of equal access to education by mandating compulsory primary education for all children in Bangladesh. (Reference:
 
-https://planipolis.iiep.unesco.org/sites/default/files/ressources/bangladesh_primary_edu cation_compulsory_act_1990.pdf)
+https://planipolis.iiep.unesco.org/sites/default/files/ressources/bangladesh_primary_education_compulsory_act_1990.pdf)
 
 ###### 3. Bangladesh Persons with Disability Welfare Act-2001
 
@@ -344,7 +382,7 @@ This act strengthens the rights of persons with disabilities, including their ri
 
 The PEDP4 is a key initiative aimed at improving access to and quality of primary education in Bangladesh. This program supports the Convention's goals by promoting inclusive education and reducing disparities in education access. (Reference:
 
-https://dpe.portal.gov.bd/sites/default/files/files/dpe.portal.gov.bd/page/312f836e_fda3 _4fb0_973a_26ffff78a95d/Infrastructure0001.pdf)
+https://dpe.portal.gov.bd/sites/default/files/files/dpe.portal.gov.bd/page/312f836e_fda3_4fb0_973a_26ffff78a95d/Infrastructure0001.pdf)
 
 ###### 7. 8th Five-Year Plan (2020-2025)
 
@@ -356,7 +394,7 @@ https://oldweb.lged.gov.bd/UploadedDocument/UnitPublication/1/1166/8FYP.pdf)
 
 The Perspective Plan envisions a future where education plays a central role in achieving socio-economic development. It emphasizes inclusive and equitable quality education and lifelong learning opportunities for all, in line with the principles of the Convention. (Reference:
 
-https://plandiv.gov.bd/sites/default/files/files/plandiv.portal.gov.bd/files/79060938_fbce _4286_b787_e8f41edfc615/PERSPECTIVE%20PLAN%20of%20BD%202021-2041.pdf)
+https://plandiv.gov.bd/sites/default/files/files/plandiv.portal.gov.bd/files/79060938_fbce_4286_b787_e8f41edfc615/PERSPECTIVE%20PLAN%20of%20BD%202021-2041.pdf)
 
 ###### 9. Integrated TVET Development Action Plan
 
@@ -364,7 +402,7 @@ The Integrated TVET Development Action Plan focuses on expanding technical and v
 
 (Reference:
 
-https://www.tmed.gov.bd/sites/default/files/files/tmed.portal.gov.bd/publications/8050 09cc_75f3_4eca_a725_9c5469a53678/TVET%20Action%20Plan.pdf)
+https://www.tmed.gov.bd/sites/default/files/files/tmed.portal.gov.bd/publications/805009cc_75f3_4eca_a725_9c5469a53678/TVET%20Action%20Plan.pdf)
 
 ###### 10. Bangladesh Technical Education Board Admission Policy - 2024
 
@@ -372,7 +410,7 @@ This policy sets out the guidelines for admission to technical education institu
 
 (Reference:
 
-https://bteb.portal.gov.bd/sites/default/files/files/bteb.portal.gov.bd/page/025bd970_be d1_4e44_8e44_be08656a0e70/Admission%20Nitimala-2024.pdf)
+https://bteb.portal.gov.bd/sites/default/files/files/bteb.portal.gov.bd/page/025bd970_bed1_4e44_8e44_be08656a0e70/Admission%20Nitimala-2024.pdf)
 
 11
 
@@ -422,9 +460,9 @@ This Act mandates free and compulsory primary education for all children in Bang
 
 > 13 See: Article/Paragraph 1(1).
 
-> 15 Constitution, laws, decrees, regulations, circulars, etc.
+> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'.
 
-> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programmes'.
+> 15 Constitution, laws, decrees, regulations, circulars, etc.
 
 12
 
@@ -432,7 +470,7 @@ This Act mandates free and compulsory primary education for all children in Bang
 
 [[START OF PAGE 13]]
 
-(Reference: https://planipolis.iiep.unesco.org/1990/primary-education-compulsory- act-1990-act-no-27-1990-4770)
+(Reference: https://planipolis.iiep.unesco.org/1990/primary-education-compulsory-act-1990-act-no-27-1990-4770)
 
 ###### 3. Bangladesh Persons with Disability Welfare Act - 2001
 
@@ -442,15 +480,15 @@ This law focuses on the welfare of persons with disabilities, including their ri
 
 ###### 4. National Education Policy (NEP-2010), Chapter 1
 
-The NEP-2010 outlines the goals of education in Bangladesh, including fostering equality, removing socio-economic discrimination, and promoting inclusivity regardless of race, religion, or gender. It supports the development of a nondiscriminatory and equitable education system.
+The NEP-2010 outlines the goals of education in Bangladesh, including fostering equality, removing socio-economic discrimination, and promoting inclusivity regardless of race, religion, or gender. It supports the development of a non-discriminatory and equitable education system.
 
-(Reference: https://moedu.gov.bd/site/page/318a22d2-b400-48a7-8222303ab11cc205/National-Education-Policy-2010-)
+(Reference: https://moedu.gov.bd/site/page/318a22d2-b400-48a7-8222-303ab11cc205/National-Education-Policy-2010-)
 
 ###### 5. National Education Policy (NEP-2010), Chapter 1 (7-9)
 
 This section emphasizes removing socio-economic discrimination, eradicating gender disparity, and promoting human rights, tolerance, and democratic values. It seeks to provide unhindered and equal educational opportunities for all. (Reference:
 
-https://moedu.gov.bd/site/page/318a22d2-b400-48a7-8222-303ab11cc205/NationalEducation-Policy-2010-)
+https://moedu.gov.bd/site/page/318a22d2-b400-48a7-8222-303ab11cc205/National-Education-Policy-2010-)
 
 ###### 6. Comprehensive Early Childhood Care and Development (ECCD) Policy
 
@@ -470,7 +508,7 @@ A) Government Secondary School Admission Policy: Ensures a fair and transparent 
 
 (Reference: https://shorturl.at/8XD9R)
 
-- Non-Government School Admission Policy: Ensures similar equal opportunities for admissions in non-government schools.
+B) Non-Government School Admission Policy: Ensures similar equal opportunities for admissions in non-government schools.
 
 (Reference: https://shorturl.at/i27cJ)
 
@@ -498,19 +536,17 @@ This action plan outlines strategies to enhance Technical and Vocational Educati
 
 (Reference:
 
-https://www.tmed.gov.bd/sites/default/files/files/tmed.portal.gov.bd/publications/8 05009cc_75f3_4eca_a725_9c5469a53678/TVET%20Action%20Plan.pdf)
+https://www.tmed.gov.bd/sites/default/files/files/tmed.portal.gov.bd/publications/805009cc_75f3_4eca_a725_9c5469a53678/TVET%20Action%20Plan.pdf)
 
 ###### 11. 8th Five-Year Plan
 
 The 8th Five-Year Plan (2020-2025) promotes inclusive education by focusing on reducing inequality and increasing access to education for marginalized and disadvantaged groups.
 
-(Reference: https://plancomm.gov.bd/site/files/8ec347dc-4926-4802-a8397569897e1a7a/8th-Five-Year-Plan)
+(Reference: https://plancomm.gov.bd/site/files/8ec347dc-4926-4802-a839-7569897e1a7a/8th-Five-Year-Plan)
 
 ###### 12. Bangladesh Technical Education Board Admission Policy - 2024
 
-This policy provides guidelines for admissions into technical education institutions, ensuring equal access and fair opportunities for all prospective students. (Reference: https://bteb.portal.gov.bd/sites/default/files/files/bteb.portal.gov.bd/page/025bd970
-
-_bed1_4e44_8e44_be08656a0e70/Admission%20Nitimala-2024.pdf)
+This policy provides guidelines for admissions into technical education institutions, ensuring equal access and fair opportunities for all prospective students. (Reference: https://bteb.portal.gov.bd/sites/default/files/files/bteb.portal.gov.bd/page/025bd970_bed1_4e44_8e44_be08656a0e70/Admission%20Nitimala-2024.pdf)
 
 -  Please list the prohibited grounds of discrimination in education as laid out in legal texts:
 
@@ -520,7 +556,7 @@ This Act mandates compulsory primary education for all children in Bangladesh, a
 
 (MOPME, 1990, p. 1)
 
-(Reference: https://planipolis.iiep.unesco.org/1990/primary-education-compulsory- act-1990-act-no-27-1990-4770)
+(Reference: https://planipolis.iiep.unesco.org/1990/primary-education-compulsory-act-1990-act-no-27-1990-4770)
 
 ###### 2. Bangladesh Persons with Disability Welfare Act - 2001
 
@@ -542,17 +578,15 @@ The NEP sets out objectives for an inclusive education system that ensures equal
 
 Key objectives related to inclusive education include:
 
-- Facilitating learning of indigenous and ethnic groups in their mother tongues at the primary level.
+a) Facilitating learning of indigenous and ethnic groups in their mother tongues at the primary level.
 
-- Ensuring equal opportunities for disabled and underprivileged children.
+b) Ensuring equal opportunities for disabled and underprivileged children.
 
-- Ensuring the availability of teachers from ethnic communities.
+c) Ensuring the availability of teachers from ethnic communities.
 
 (Objectives #22, 23, 24)
 
-(Reference: https://moedu.gov.bd/site/page/318a22d2-b400-48a7-8222-
-
-303ab11cc205/National-Education-Policy-2010-)
+(Reference: https://moedu.gov.bd/site/page/318a22d2-b400-48a7-8222-303ab11cc205/National-Education-Policy-2010-)
 
 ###### 4. Comprehensive Early Childhood Care and Development (ECCD) Policy
 
@@ -562,9 +596,7 @@ This policy aims to ensure inclusive early childhood development for children wi
 
 (Reference 1: https://nurturing-care.org/wp-content/uploads/2021/05/Bangla.pdf)
 
-(Reference 2: https://ceinternational1892.org/article/early-childhood-
-
-development-in-bangladesh/)
+(Reference 2: https://ceinternational1892.org/article/early-childhood-development-in-bangladesh/)
 
 ###### 5. Law on Non-discrimination and Equality in Education
 
@@ -574,39 +606,37 @@ The Constitution of Bangladesh, Part III, ensures fundamental rights including e
 
 ###### 6. Discrimination Categories Covered in Law:
 
-- Race: Prohibits discrimination based on race or ethnicity.
+a) Race: Prohibits discrimination based on race or ethnicity.
 
-- Colour: Prevents discrimination based on skin colour.
+b) Colour: Prevents discrimination based on skin colour.
 
-- National or Ethnic Origin: No discrimination based on a person's or their ancestors' origin.
+c) National or Ethnic Origin: No discrimination based on a person's or their ancestors' origin.
 
-- Sex and Gender Identity: Protects individuals from gender-based discrimination.
+d) Sex and Gender Identity: Protects individuals from gender-based discrimination.
 
-- Sexual Orientation: Prohibits discrimination based on sexual orientation.
+e) Sexual Orientation: Prohibits discrimination based on sexual orientation.
 
-- Religion: No discrimination based on religious beliefs or practices.
+f) Religion: No discrimination based on religious beliefs or practices.
 
-- Disability: Prohibits discrimination against those with physical or mental disabilities.
+g) Disability: Prohibits discrimination against those with physical or mental disabilities.
 
-- Age: Prevents age-based discrimination.
+h) Age: Prevents age-based discrimination.
 
-- Marital and Family Status: Protection for individuals based on their marital or family situation.
+i) Marital and Family Status: Protection for individuals based on their marital or family situation.
 
-- Pregnancy or Parental Status: No discrimination based on pregnancy or parenting status.
+j) Pregnancy or Parental Status: No discrimination based on pregnancy or parenting status.
 
-- Language: Prohibits discrimination based on the language spoken.
+k) Language: Prohibits discrimination based on the language spoken.
 
-- Economic or Social Condition: Ensures equal treatment regardless of an individual's economic or social background.
+l) Economic or Social Condition: Ensures equal treatment regardless of an individual's economic or social background.
 
-- Political Belief: Prohibits discrimination based on political beliefs or affiliations.
+m) Political Belief: Prohibits discrimination based on political beliefs or affiliations.
 
 (Reference 1:
 
 http://bdlaws.minlaw.gov.bd/act-367/part-details-200.html
 
-Reference 2: http://bdlaws.minlaw.gov.bd/laws-of-bangladesh-
-
-alphabetical-index.html)
+Reference 2: http://bdlaws.minlaw.gov.bd/laws-of-bangladesh-alphabetical-index.html)
 
 15
 
@@ -652,7 +682,7 @@ This policy prioritizes inclusivity in education by ensuring equal opportunities
 
 This policy aims to provide early childhood education and care for all children, including those with special needs and from disadvantaged backgrounds. It focuses on inclusive growth and development, ensuring children are prepared for mainstream education without facing discrimination.
 
-(Reference 1: https://nurturing-care.org/wp-content/uploads/2021/05/Bangla.pdf) (Reference 2: https://ceinternational1892.org/article/early-childhood-developmentin-bangladesh/)
+(Reference 1: https://nurturing-care.org/wp-content/uploads/2021/05/Bangla.pdf) (Reference 2: https://ceinternational1892.org/article/early-childhood-development-in-bangladesh/)
 
 ###### 6. Fourth Primary Education Development Program (PEDP 4) 2018
 
@@ -664,25 +694,25 @@ This policy aims to provide early childhood education and care for all children,
 
 The PEDP 4 focuses on improving access, equity, and quality in primary education, with special attention to inclusivity. The program targets underrepresented groups, including children from low-income families and those with disabilities, to ensure that all children receive quality primary education. (Reference:
 
-https://dpe.portal.gov.bd/sites/default/files/files/dpe.portal.gov.bd/page/312f836e_f da3_4fb0_973a_26ffff78a95d/Infrastructure0001.pdf)
+https://dpe.portal.gov.bd/sites/default/files/files/dpe.portal.gov.bd/page/312f836e_fda3_4fb0_973a_26ffff78a95d/Infrastructure0001.pdf)
 
 ###### 7. National Children Policy 2011
 
 This policy guarantees the protection and promotion of children's rights, with a strong focus on equal access to education for all children, including those with disabilities, from indigenous communities, and socio-economically disadvantaged groups. (Reference:
 
-http://childsocialprotection.gov.bd/public/upload/policy_files/202105240620National %20Children%20Policy%202011%20English.pdf)
+http://childsocialprotection.gov.bd/public/upload/policy_files/202105240620National%20Children%20Policy%202011%20English.pdf)
 
 ###### 8. Special Education Needs and Disability (SEND) Framework
 
 The SEND framework is designed to ensure that children with special educational needs and disabilities have access to quality education. It outlines strategies to accommodate and support these children in mainstream schools, promoting inclusivity and equal access.
 
-(Reference: https://www.dpe.gov.bd/site/publications/d4df0a14-9628-4c6f-85f91ed8a37a8679/Special-Education-Needs-And-Disability-SEND-Framework)
+(Reference: https://www.dpe.gov.bd/site/publications/d4df0a14-9628-4c6f-85f9-1ed8a37a8679/Special-Education-Needs-And-Disability-SEND-Framework)
 
 ###### 9. Bangladesh Technical Education Board Admission Policy 2024
 
 This policy provides guidelines for inclusive admission processes in technical education institutions, ensuring that marginalized and underrepresented students, including those with disabilities, have access to vocational and technical education. (Reference:
 
-https://bteb.portal.gov.bd/sites/default/files/files/bteb.portal.gov.bd/page/025bd970 _bed1_4e44_8e44_be08656a0e70/Admission%20Nitimala-2024.pdf)
+https://bteb.portal.gov.bd/sites/default/files/files/bteb.portal.gov.bd/page/025bd970_bed1_4e44_8e44_be08656a0e70/Admission%20Nitimala-2024.pdf)
 
  Combatting discrimination in terms of curriculum:
 
@@ -714,7 +744,7 @@ Since 2010, the Government of Bangladesh has provided over 4,648 million free te
 
 To further support students with disabilities, the government has started offering Braille textbooks from 2017 for visually impaired students. Additionally, textbooks are translated into five indigenous languages, i.e. Chakma, Marma, Tripura, Garo, and Sadri for free distribution to pre-primary through Grade 3 students. Special teacher training programs and manuals are also developed to promote effective multilingual teaching methods.
 
-(Reference: https://nctb.portal.gov.bd/site/page/7cfb75af-c403-453a-a1207d18ac6d5795)
+(Reference: https://nctb.portal.gov.bd/site/page/7cfb75af-c403-453a-a120-7d18ac6d5795)
 
  Other measures adopted to both prevent and eliminate discrimination in education and ensure equal access to all levels and types of education:
 
@@ -722,27 +752,25 @@ To further support students with disabilities, the government has started offeri
 
 Developed to support children with special educational needs, ensuring inclusive education and eliminating discrimination.
 
-(Reference: https://www.dpe.gov.bd/site/publications/d4df0a14-9628-4c6f-85f91ed8a37a8679/Special-Education-Needs-And-Disability-SEND-Framework)
+(Reference: https://www.dpe.gov.bd/site/publications/d4df0a14-9628-4c6f-85f9-1ed8a37a8679/Special-Education-Needs-And-Disability-SEND-Framework)
 
  Teachers' Training on SEND
 
 Training programs equip teachers to address the needs of students with disabilities, promoting equal access to education.
 
-(Reference: https://file-dhaka.portal.gov.bd/uploads/b3ebf48f-0267-4877-9e8c- 87d9847478a2//65f/15b/0b9/65f15b0b9c2ee622171164.pdf)
+(Reference: https://file-dhaka.portal.gov.bd/uploads/b3ebf48f-0267-4877-9e8c-87d9847478a2//65f/15b/0b9/65f15b0b9c2ee622171164.pdf)
 
  Assistive Devices Allocation  for Children with disabilities
 
 Need-based funding for assistive devices helps children with disabilities engage effectively in the classroom.
 
-(Reference: https://file-dhaka.portal.gov.bd/uploads/b3ebf48f-0267-4877-9e8c-
-
-87d9847478a2//65f/15b/0b9/65f15b0b9c2ee622171164.pdf)
+(Reference: https://file-dhaka.portal.gov.bd/uploads/b3ebf48f-0267-4877-9e8c-87d9847478a2//65f/15b/0b9/65f15b0b9c2ee622171164.pdf)
 
  Social Mobilization
 
 Community outreach raises awareness about inclusive education, promoting equal opportunities for all children.
 
-(Reference: https://file-dhaka.portal.gov.bd/uploads/b3ebf48f-0267-4877-9e8c87d9847478a2//65f/15b/0b9/65f15b0b9c2ee622171164.pdf)
+(Reference: https://file-dhaka.portal.gov.bd/uploads/b3ebf48f-0267-4877-9e8c-87d9847478a2//65f/15b/0b9/65f15b0b9c2ee622171164.pdf)
 
  Multilingual Education Materials Promoting Inclusion
 
@@ -754,7 +782,7 @@ Resources developed for indigenous and ethnic minority students' support learnin
 
 Events like International Women's Day promote gender equality and reinforce the importance of inclusivity in education.
 
-(Reference: https://a2i.gov.bd/bangladesh-celebrates-global-accessibility-awareness-day-gaad2024/)
+(Reference: https://a2i.gov.bd/bangladesh-celebrates-global-accessibility-awareness-day-gaad-2024/)
 
 ##### 1.2 Equality of opportunities and inclusion in education
 
@@ -808,13 +836,13 @@ Aligns national education policies with global goals for inclusive, equitable, a
 
 Expands educational opportunities for out-of-school children and adults through non-formal education programs.
 
-(Reference: https://bnfe.gov.bd/site/page/56778281-5ba7-4067-9385-97b880afce51/NFE-Act2014)
+(Reference: https://bnfe.gov.bd/site/page/56778281-5ba7-4067-9385-97b880afce51/NFE-Act-2014)
 
-> 16 Teachers  are  prepared  to  teach  all  student  (beyond  just  students  with  disabilities),  equipping  them  with knowledge,  values  and  attitudes  that  permit  every  student  to  succeed.  See:  UNESCO  policy  paper:  Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
+> 16 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
 
-> 18 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive  and  supportive  learning  experience  that  offers  them  the  opportunity  to  succeed  whatever  their background.
+> 17 Multiple and flexible learning pathways are 'entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education' (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
 
-> 17 Multiple and flexible learning pathways are 'entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge,  skills  and  competencies  acquired  through  nonformal  and  informal  education'  (Education  2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
+> 18 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
 
 19
 
@@ -826,7 +854,7 @@ Expands educational opportunities for out-of-school children and adults through 
 
 Provides a structured approach to supporting learners with disabilities, ensuring their inclusion in mainstream education.
 
-(Reference: https://file-dhaka.portal.gov.bd/uploads/b3ebf48f-0267-4877-9e8c87d9847478a2//65f/15b/0b9/65f15b0b9c2ee622171164.pdf)
+(Reference: https://file-dhaka.portal.gov.bd/uploads/b3ebf48f-0267-4877-9e8c-87d9847478a2//65f/15b/0b9/65f15b0b9c2ee622171164.pdf)
 
 6. Inclusive Education
 
@@ -836,7 +864,7 @@ Promotes a learning environment that accommodates diverse learners, especially c
 
 7. Disability-Inclusive Education Practices in Bangladesh
 
-Highlights initiatives to integrate children with disabilities into mainstream education. (Reference: https://www.unicef.org/rosa/media/16986/file/Country%20Profile%20%20Bangladesh.pdf)
+Highlights initiatives to integrate children with disabilities into mainstream education. (Reference: https://www.unicef.org/rosa/media/16986/file/Country%20Profile%20-%20Bangladesh.pdf)
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
@@ -854,9 +882,7 @@ Regulates the management of government-run orphanages, ensuring access to educat
 
 (Reference:
 
-https://dss.portal.gov.bd/sites/default/files/files/dss.portal.gov.bd/page/9cca21e5_6616_420
-
-3_af37_38987d31cd37/2020-02-27-10-36-26a7dbe2733a1a65b2e913d247d33a06.pdf)
+https://dss.portal.gov.bd/sites/default/files/files/dss.portal.gov.bd/page/9cca21e5_6616_4203_af37_38987d31cd37/2020-02-27-10-36-26a7dbe2733a1a65b2e913d247d33a06.pdf)
 
 3. Baby Home ( Chotomoni Nibash ) Policy 2003
 
@@ -876,7 +902,7 @@ Ensures the rights of all children, including access to education, protection fr
 
 (Reference:
 
-http://childsocialprotection.gov.bd/public/upload/policy_files/202105240620National%20Chil dren%20Policy%202011%20English.pdf)
+http://childsocialprotection.gov.bd/public/upload/policy_files/202105240620National%20Children%20Policy%202011%20English.pdf)
 
 20
 
@@ -886,9 +912,7 @@ http://childsocialprotection.gov.bd/public/upload/policy_files/202105240620Natio
 
 6. Children Act 2013
 
-Protects the rights of children, including the right to education without discrimination. (Reference: https://www.unicef.org/bangladesh/sites/unicef.org.bangladesh/files/2018-
-
-07/Children%20Act%202013%20English.pdf)
+Protects the rights of children, including the right to education without discrimination. (Reference: https://www.unicef.org/bangladesh/sites/unicef.org.bangladesh/files/2018-07/Children%20Act%202013%20English.pdf)
 
 7. Comprehensive Early Childhood Care and Development (ECCD) Policy 2013
 
@@ -900,9 +924,7 @@ Aims to provide early childhood education and care to ensure developmental needs
 
 Supports the education and care of orphans in private orphanages. (Reference:
 
-https://dss.gov.bd/sites/default/files/files/dss.portal.gov.bd/policies/7ecc14ae_1ad5_479d_8
-
-c25_5b9b8bba4cd6/2023-01-12-06-27-3bece6392d522149401a2e25020d4d5c.pdf)
+https://dss.gov.bd/sites/default/files/files/dss.portal.gov.bd/policies/7ecc14ae_1ad5_479d_8c25_5b9b8bba4cd6/2023-01-12-06-27-3bece6392d522149401a2e25020d4d5c.pdf)
 
 9. Fourth Primary Education Development Program 2018
 
@@ -910,7 +932,7 @@ Promotes quality education and equitable access for all children at the primary 
 
 (Reference:
 
-https://dpe.portal.gov.bd/sites/default/files/files/dpe.portal.gov.bd/page/312f836e_fda3_4fb 0_973a_26ffff78a95d/Infrastructure0001.pdf)
+https://dpe.portal.gov.bd/sites/default/files/files/dpe.portal.gov.bd/page/312f836e_fda3_4fb0_973a_26ffff78a95d/Infrastructure0001.pdf)
 
 10. Neuro-Developmental Disability (NDD) Policy 2019
 
@@ -918,7 +940,7 @@ This policy aims to ensure the rights, protection, and inclusion of people with 
 
 (Reference 1:
 
-https://msw.gov.bd/sites/default/files/files/msw.portal.gov.bd/notices/b2e8a7ac_958b_4b41 _89ce_16571201881e/NDD_POLICY2019.pdf
+https://msw.gov.bd/sites/default/files/files/msw.portal.gov.bd/notices/b2e8a7ac_958b_4b41_89ce_16571201881e/NDD_POLICY2019.pdf
 
 Reference 2: https://nddtrust.portal.gov.bd/)
 
@@ -932,9 +954,7 @@ Focuses on rehabilitation and education services for vulnerable children.
 
 Includes strategies to enhance education access, equity, and quality, prioritizing marginalized populations.
 
-(Reference: https://plancomm.gov.bd/site/files/8ec347dc-4926-4802-a839-
-
-7569897e1a7a/8th-Five-Year-Plan)
+(Reference: https://plancomm.gov.bd/site/files/8ec347dc-4926-4802-a839-7569897e1a7a/8th-Five-Year-Plan)
 
 13. Perspective Plan of Bangladesh (2021-2041)
 
@@ -942,9 +962,7 @@ Outlines long-term goals for development, including ensuring inclusive and equit
 
 (Reference:
 
-https://plandiv.gov.bd/sites/default/files/files/plandiv.portal.gov.bd/files/79060938_fbce_42
-
-86_b787_e8f41edfc615/PERSPECTIVE%20PLAN%20of%20BD%202021-2041.pdf)
+https://plandiv.gov.bd/sites/default/files/files/plandiv.portal.gov.bd/files/79060938_fbce_4286_b787_e8f41edfc615/PERSPECTIVE%20PLAN%20of%20BD%202021-2041.pdf)
 
 14. Bangladesh Technical Education Board Admission Policy 2024
 
@@ -958,13 +976,13 @@ Provides guidance on equitable access to technical education, with provisions fo
 
 (Reference:
 
-https://bteb.portal.gov.bd/sites/default/files/files/bteb.portal.gov.bd/page/025bd970_bed1_ 4e44_8e44_be08656a0e70/Admission%20Nitimala-2024.pdf)
+https://bteb.portal.gov.bd/sites/default/files/files/bteb.portal.gov.bd/page/025bd970_bed1_4e44_8e44_be08656a0e70/Admission%20Nitimala-2024.pdf)
 
 15. Special Education Needs and Disability  (SEND) Framework
 
 A framework designed to address the educational needs of children with special education needs and disabilities, ensuring their inclusion in mainstream education.
 
-(Reference: https://www.dpe.gov.bd/site/publications/d4df0a14-9628-4c6f-85f91ed8a37a8679/Special-Education-Needs-And-Disability-SEND-Framework)
+(Reference: https://www.dpe.gov.bd/site/publications/d4df0a14-9628-4c6f-85f9-1ed8a37a8679/Special-Education-Needs-And-Disability-SEND-Framework)
 
 16. Integrated TVET Development Action Plan
 
@@ -972,7 +990,7 @@ Aims to improve technical and vocational education for all, with a focus on incl
 
 (Reference:
 
-https://www.tmed.gov.bd/sites/default/files/files/tmed.portal.gov.bd/publications/805009cc _75f3_4eca_a725_9c5469a53678/TVET%20Action%20Plan.pdf)
+https://www.tmed.gov.bd/sites/default/files/files/tmed.portal.gov.bd/publications/805009cc_75f3_4eca_a725_9c5469a53678/TVET%20Action%20Plan.pdf)
 
 17. Education for Marginalized Communities
 
@@ -980,27 +998,27 @@ Ensures inclusive education opportunities for marginalized communities such as D
 
 (Reference:
 
-http://dss.portal.gov.bd/sites/default/files/files/dss.portal.gov.bd/page/9cca21e5_6616_4203 _af37_38987d31cd37/Dalit-Manual-140113.pdf)
+http://dss.portal.gov.bd/sites/default/files/files/dss.portal.gov.bd/page/9cca21e5_6616_4203_af37_38987d31cd37/Dalit-Manual-140113.pdf)
 
 18. Third Gender Rights in Equality
 
 Promotes educational rights and inclusion of individuals from the transgender community. (Reference:
 
-http://dss.portal.gov.bd/sites/default/files/files/dss.portal.gov.bd/page/9cca21e5_6616_4203 _af37_38987d31cd37/Hizra-Manual-090113.pdf)
+http://dss.portal.gov.bd/sites/default/files/files/dss.portal.gov.bd/page/9cca21e5_6616_4203_af37_38987d31cd37/Hizra-Manual-090113.pdf)
 
 - In  general,  what  challenges  were  encountered  in  the  implementation  of  non-discrimination  and equal opportunities principles in education? If needed, brief quantitative information may be added.
 
 Some challenges encountered in implementing non-discrimination and equal opportunities in education are in the following:
 
-- Social and Cultural Norms: Some biases based on gender, ethnicity, and religion perpetuate discrimination and limit access to education.
+i) Social and Cultural Norms: Some biases based on gender, ethnicity, and religion perpetuate discrimination and limit access to education.
 
-- ii) Economic Barriers: Poverty restricts marginalized groups' access to education, with costs like tuition and textbooks making schooling unaffordable for many.
+ii) Economic Barriers: Poverty restricts marginalized groups' access to education, with costs like tuition and textbooks making schooling unaffordable for many.
 
-- iii) Geographical Disparities: Rural areas face a shortage of educational infrastructure and resources, limiting opportunities for children in underserved regions.
+iii) Geographical Disparities: Rural areas face a shortage of educational infrastructure and resources, limiting opportunities for children in underserved regions.
 
-- iv) Language Diversity: Linguistic minorities are often excluded due to the dominance of certain languages in the education system, affecting learning outcomes.
+iv) Language Diversity: Linguistic minorities are often excluded due to the dominance of certain languages in the education system, affecting learning outcomes.
 
-- Gender Inequality: Cultural attitudes, early marriage, and societal expectations continue to limit girls' access to and completion of education.
+v) Gender Inequality: Cultural attitudes, early marriage, and societal expectations continue to limit girls' access to and completion of education.
 
 22
 
@@ -1008,11 +1026,11 @@ Some challenges encountered in implementing non-discrimination and equal opportu
 
 [[START OF PAGE 23]]
 
-- vi) Policy Implementation: Effective enforcement of policies is hindered by lack of proper monitoring and corruption at the grassroots level.
+vi) Policy Implementation: Effective enforcement of policies is hindered by lack of proper monitoring and corruption at the grassroots level.
 
-- vii) Disabilities: Children with disabilities face inadequate access to inclusive education due to a lack of facilities, trained teachers, and attitudinal stigma.
+vii) Disabilities: Children with disabilities face inadequate access to inclusive education due to a lack of facilities, trained teachers, and attitudinal stigma.
 
-- viii) Inadequate Data: A lack of comprehensive data on educational disparities impedes effective policymaking and targeted interventions.
+viii) Inadequate Data: A lack of comprehensive data on educational disparities impedes effective policymaking and targeted interventions.
 
 ###### Other relevant general measures, including gender equality
 
@@ -1062,9 +1080,9 @@ Promotes universal access to education, focusing on inclusive and equitable qual
 
 > 19 ' Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them' (Cambridge Dictionary).
 
-> 21 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
-
 > 20 ' Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
+
+> 21 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
 
 23
 
@@ -1078,25 +1096,25 @@ Focuses on protecting children's rights, promoting inclusive education, and ensu
 
 (Reference:
 
-http://childsocialprotection.gov.bd/public/upload/policy_files/202105240620National%20Chil dren%20Policy%202011%20English.pdf).
+http://childsocialprotection.gov.bd/public/upload/policy_files/202105240620National%20Children%20Policy%202011%20English.pdf).
 
 4. Comprehensive Early Childhood Care and Development (ECCD) Policy 2013
 
 Ensures early childhood care and education opportunities for all children, emphasizing inclusivity and equality.
 
-(Reference: ECCD Policy retrieved from https://nurturing-care.org/wpcontent/uploads/2021/05/Bangla.pdf)
+(Reference: ECCD Policy retrieved from https://nurturing-care.org/wp-content/uploads/2021/05/Bangla.pdf)
 
 5. Children Act 2013
 
 Protects children's rights and ensures access to inclusive education for all children, including those with disabilities.
 
-(Reference: https://www.unicef.org/bangladesh/sites/unicef.org.bangladesh/files/201807/Children%20Act%202013%20English.pdf).
+(Reference: https://www.unicef.org/bangladesh/sites/unicef.org.bangladesh/files/2018-07/Children%20Act%202013%20English.pdf).
 
 6. 8th Five-Year Plan
 
 Outlines strategies to reduce educational disparities, improve inclusivity, and address gender inequalities in education.
 
-(Reference: https://plancomm.gov.bd/site/files/8ec347dc-4926-4802-a839- 7569897e1a7a/8th-Five-Year-Plan).
+(Reference: https://plancomm.gov.bd/site/files/8ec347dc-4926-4802-a839-7569897e1a7a/8th-Five-Year-Plan).
 
 7. Perspective Plan of Bangladesh (2021-2041)
 
@@ -1104,9 +1122,7 @@ Focuses on long-term inclusive development, including equitable access to educat
 
 (Reference:
 
-https://plandiv.gov.bd/sites/default/files/files/plandiv.portal.gov.bd/files/79060938_fbce_42
-
-86_b787_e8f41edfc615/PERSPECTIVE%20PLAN%20of%20BD%202021-2041.pdf)
+https://plandiv.gov.bd/sites/default/files/files/plandiv.portal.gov.bd/files/79060938_fbce_4286_b787_e8f41edfc615/PERSPECTIVE%20PLAN%20of%20BD%202021-2041.pdf)
 
 8. Education Sector - Gender and Inclusion Action Plan (GIAP) 2022
 
@@ -1114,13 +1130,13 @@ Aims to promote gender equality and inclusivity in education through targeted in
 
 (Reference:
 
-https://reliefweb.int/report/bangladesh/education-sector-gender-and-inclusion-action-plangiap-2022).
+https://reliefweb.int/report/bangladesh/education-sector-gender-and-inclusion-action-plan-giap-2022).
 
 9. Bullying and Ragging Prevention Guideline 2023
 
 Introduces to foster a safe learning environment by preventing bullying in schools, promoting equality, and protecting students from discrimination.
 
-(Reference: https://shed.portal.gov.bd/site/moedu_office_order/5a1e7b40-4e20-44f7ad12-4fc7ce046111)
+(Reference: https://shed.portal.gov.bd/site/moedu_office_order/5a1e7b40-4e20-44f7-ad12-4fc7ce046111)
 
 10. Bangladesh Technical Education Board Admission Policy - 2024
 
@@ -1142,7 +1158,7 @@ https://bteb.portal.gov.bd/sites/default/files/files/bteb.portal.gov.bd/page/025
 
 Provides guidelines for integrating children with special education needs and disabilities into mainstream education, ensuring equitable access.
 
-(Reference: https://www.dpe.gov.bd/site/publications/d4df0a14-9628-4c6f-85f91ed8a37a8679/Special-Education-Needs-And-Disability-SEND-Framework)
+(Reference: https://www.dpe.gov.bd/site/publications/d4df0a14-9628-4c6f-85f9-1ed8a37a8679/Special-Education-Needs-And-Disability-SEND-Framework)
 
 12. Integrated TVET Development Action Plan
 
@@ -1150,7 +1166,7 @@ Targets equitable access to technical and vocational education, addressing the n
 
 (Reference:
 
-https://www.tmed.gov.bd/sites/default/files/files/tmed.portal.gov.bd/publications/805009cc _75f3_4eca_a725_9c5469a53678/TVET%20Action%20Plan.pdf).
+https://www.tmed.gov.bd/sites/default/files/files/tmed.portal.gov.bd/publications/805009cc_75f3_4eca_a725_9c5469a53678/TVET%20Action%20Plan.pdf).
 
 13. Teachers' Training on Inclusive and Gender Equality
 
@@ -1168,9 +1184,7 @@ Provides financial assistance to female students to encourage participation in t
 
 Provides training for educators on gender equality, international conventions on women's rights, and violence against women.
 
-(Reference: https://naem.gov.bd/site/notices/d4f66fe5-7fe1-4a76-bc57-
-
-9274191a8859/Training-Brochure-of-195th-Foundation-Training-Course).
+(Reference: https://naem.gov.bd/site/notices/d4f66fe5-7fe1-4a76-bc57-9274191a8859/Training-Brochure-of-195th-Foundation-Training-Course).
 
 16. Gender Mainstreaming in Education
 
@@ -1178,17 +1192,17 @@ Aims to incorporate gender equality into all aspects of the education system, en
 
 (Reference:
 
-https://mowca.portal.gov.bd/sites/default/files/files/mowca.portal.gov.bd/publications/f0 0eba86_84ff_4843_b5ce_d9bab0cd956a/Gender-Mainstreaming-in-Education.pdf)
+https://mowca.portal.gov.bd/sites/default/files/files/mowca.portal.gov.bd/publications/f00eba86_84ff_4843_b5ce_d9bab0cd956a/Gender-Mainstreaming-in-Education.pdf)
 
 -  What  challenges  were  encountered  in  achieving  gender  equality  in  and  through  education?  If needed, brief quantitative information may be added.
 
 Here are challenges encountered in achieving gender equality in and through education. It highlights how social, economic, safety, policy, and environmental factors intersect to challenge gender equality in education.
 
-- Cultural Norms and Attitudes: Deep-rooted beliefs prioritize boys' education over girls', with traditional gender roles, early marriage, and domestic duties limiting girls' access to education.
+1) Cultural Norms and Attitudes: Deep-rooted beliefs prioritize boys' education over girls', with traditional gender roles, early marriage, and domestic duties limiting girls' access to education.
 
-- Lack of Access and Infrastructure: Poor school infrastructure, including distant schools, lack of proper sanitation, and unsafe environments, disproportionately impact girls' attendance and retention.
+2) Lack of Access and Infrastructure: Poor school infrastructure, including distant schools, lack of proper sanitation, and unsafe environments, disproportionately impact girls' attendance and retention.
 
-- Financial Constraints: Economic challenges often lead families to prioritize boys' education,
+3) Financial Constraints: Economic challenges often lead families to prioritize boys' education,
 
 25
 
@@ -1198,9 +1212,9 @@ Here are challenges encountered in achieving gender equality in and through educ
 
 perceiving it as more beneficial, which exacerbates gender disparities in education.
 
-- Safety and Security: Concerns over harassment and violence deter parents from sending girls to school, especially as they grow older.
+4) Safety and Security: Concerns over harassment and violence deter parents from sending girls to school, especially as they grow older.
 
-- Natural Disasters and Climate Change: Vulnerability to natural disasters disrupts schooling, with girls more likely to be withdrawn to support families during crises.
+5) Natural Disasters and Climate Change: Vulnerability to natural disasters disrupts schooling, with girls more likely to be withdrawn to support families during crises.
 
 - Does the legal minimum age for marriage conform to international standards (18 years) 22 :
 
@@ -1218,7 +1232,7 @@ This Act prohibits marriages under 18 for women and 21 for men in Bangladesh, wi
 
 (Reference:
 
-https://mowca.gov.bd/site/page/8cd66bf8-9d30-493a-b5a9-0cfcd942fff6/Child-Marriage- Restraint-Act-2017 )
+https://mowca.gov.bd/site/page/8cd66bf8-9d30-493a-b5a9-0cfcd942fff6/Child-Marriage-Restraint-Act-2017 )
 
 ###### National minorities:
 
@@ -1236,11 +1250,11 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 
  Teachers are trained to combat stigmatisation 24
 
-- o Multilingual and intercultural education are supported
+ Multilingual and intercultural education are supported
 
-- o Native language instruction is ensured for national minorities
+ Native language instruction is ensured for national minorities
 
-- o Adapting curricula and teaching and
+ Adapting curricula and teaching and
 
 > 22 Please note that according to the Joint general recommendation No. 31 of the Committee on the Elimination of Discrimination against Women/general comment No. 18 of the Committee on the Rights of the Child on harmful practice, para. 20: 'a marriage of a mature, capable child below 18 years of age may be allowed in exceptional circumstances, provided that the child is at least 16 years of age and that such decisions are made by a judge based on legitimate exceptional grounds defined by law and on the evidence of maturity, without deference to culture and tradition.'
 
@@ -1268,33 +1282,35 @@ learning methods to their needs for national minorities
 
 These initiatives demonstrate Bangladesh's commitment to ensuring education is accessible and inclusive for national minorities.
 
-- Articles 17, 19, and 27 of the Bangladesh Constitution: These articles promote equality, freedom from discrimination, and ensure education as a fundamental right for all citizens, including national minorities.
+1. Articles 17, 19, and 27 of the Bangladesh Constitution: These articles promote equality, freedom from discrimination, and ensure education as a fundamental right for all citizens, including national minorities.
 
 (Reference: http://bdlaws.minlaw.gov.bd/act-367.html)
 
-- National Education Policy 2010: This policy emphasizes equitable access to education for all, including minority groups, ensuring they are not discriminated against in educational settings.
+2. National Education Policy 2010: This policy emphasizes equitable access to education for all, including minority groups, ensuring they are not discriminated against in educational settings.
 
 (Reference: https://moedu.gov.bd/site/page/318a22d2-b400-48a7-8222-303ab11cc205/N)
 
-- National Children Policy 2011: This policy safeguards the rights of children, with a focus on non-discrimination, ensuring access to education for all, including children from minority communities.
+3. National Children Policy 2011: This policy safeguards the rights of children, with a focus on non-discrimination, ensuring access to education for all, including children from minority communities.
 
 (Reference:
 
-http://childsocialprotection.gov.bd/public/upload/policy_files/202105240620National%20Ch ildren%20Policy%202011%20English.pdf )
+http://childsocialprotection.gov.bd/public/upload/policy_files/202105240620National%20Children%20Policy%202011%20English.pdf )
 
-- Children Act 2013: This act protects children's rights, ensuring non-discrimination in education for all children, including those from minority backgrounds.
+4. Children Act 2013: This act protects children's rights, ensuring non-discrimination in education for all children, including those from minority backgrounds.
 
-(Reference: https://www.unicef.org/bangladesh/sites/unicef.org.bangladesh/files/201807/Children%20Act%202013%20English.pdf)
+(Reference: https://www.unicef.org/bangladesh/sites/unicef.org.bangladesh/files/2018-07/Children%20Act%202013%20English.pdf)
 
-- Comprehensive Early Childhood Care and Development (ECCD) Policy 2013: It focuses on early childhood development and education for all children, including those from minority communities, ensuring inclusivity from an early age.
+5. Comprehensive Early Childhood Care and Development (ECCD) Policy 2013: It focuses on early childhood development and education for all children, including those from minority communities, ensuring inclusivity from an early age.
 
 (Reference 1:
 
 MOWCA, 2012, p.13: https://nurturing-care.org/wp-content/uploads/2021/05/Bangla.pdf
 
-Reference 2: https://ceinternational1892.org/article/early-childhood-development-inbangladesh/)
+Reference 2: https://ceinternational1892.org/article/early-childhood-development-in-bangladesh/)
 
-> 23 Please see: UNESCO report 'The right to education of minorities: Overview of States' measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. 25 Supra note 16.
+> 23 Please see: UNESCO report ‘The right to education of minorities: Overview of States’ measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023.
+
+> 25 Supra note 16.
 
 27
 
@@ -1302,41 +1318,47 @@ Reference 2: https://ceinternational1892.org/article/early-childhood-development
 
 [[START OF PAGE 28]]
 
-- Fourth Primary Education Development Program 2018: This program supports the development of inclusive primary education infrastructure, including efforts to reach marginalized and minority groups.
+6. Fourth Primary Education Development Program 2018: This program supports the development of inclusive primary education infrastructure, including efforts to reach marginalized and minority groups.
 
 (Reference:
 
-https://dpe.portal.gov.bd/sites/default/files/files/dpe.portal.gov.bd/page/312f836e_fda3_4f b0_973a_26ffff78a95d/Infrastructure0001.pdf)
+https://dpe.portal.gov.bd/sites/default/files/files/dpe.portal.gov.bd/page/312f836e_fda3_4fb0_973a_26ffff78a95d/Infrastructure0001.pdf)
 
-- 8th Five-Year Plan (2020-2025): The plan highlights efforts to improve educational outcomes for marginalized and minority communities through targeted policies. (Reference: https://plancomm.gov.bd/site/files/8ec347dc-4926-4802-a839-
+7. 8th Five-Year Plan (2020-2025): The plan highlights efforts to improve educational outcomes for marginalized and minority communities through targeted policies.
 
-7569897e1a7a/8th-Five-Year-Plan)
+(Reference: https://plancomm.gov.bd/site/files/8ec347dc-4926-4802-a839-7569897e1a7a/8th-Five-Year-Plan)
 
-- Perspective Plan of Bangladesh (2021-2041): The plan focuses on equitable and inclusive education, promoting the participation of national minorities. (Reference:
+8. Perspective Plan of Bangladesh (2021-2041): The plan focuses on equitable and inclusive education, promoting the participation of national minorities.
 
-https://plandiv.gov.bd/sites/default/files/files/plandiv.portal.gov.bd/files/79060938_fbce_42 86_b787_e8f41edfc615/PERSPECTIVE%20PLAN%20of%20BD%202021-2041.pdf)
+(Reference:
 
-- Special Education Needs and Disability (SEND) Framework: it ensures the inclusion of children with special needs from minority groups in mainstream education. (Reference: https://www.dpe.gov.bd/site/publications/d4df0a14-9628-4c6f-85f9-
+https://plandiv.gov.bd/sites/default/files/files/plandiv.portal.gov.bd/files/79060938_fbce_4286_b787_e8f41edfc615/PERSPECTIVE%20PLAN%20of%20BD%202021-2041.pdf)
 
-1ed8a37a8679/Special-Education-Needs-And-Disability-SEND-Framework)
+9. Special Education Needs and Disability (SEND) Framework: it ensures the inclusion of children with special needs from minority groups in mainstream education.
 
-- Multilingual Education Textbooks: These books provides educational resources in multiple languages to cater to linguistic minority groups, promoting inclusive learning environments.
+(Reference: https://www.dpe.gov.bd/site/publications/d4df0a14-9628-4c6f-85f9-1ed8a37a8679/Special-Education-Needs-And-Disability-SEND-Framework)
+
+10. Multilingual Education Textbooks: These books provides educational resources in multiple languages to cater to linguistic minority groups, promoting inclusive learning environments.
 
 (Reference: https://nctb.portal.gov.bd/site/page/7cfb75af-c403-453a-a120-7d18ac6d5795)
 
-- Gender and Inclusion Action Plan (GIAP): This plans aims to create inclusive educational environments by addressing the needs of marginalized groups, including national minorities. (Reference: https://reliefweb.int/report/bangladesh/education-sector-gender-and-inclusionaction-plan-giap-2022)
+11. Gender and Inclusion Action Plan (GIAP): This plans aims to create inclusive educational environments by addressing the needs of marginalized groups, including national minorities.
 
-- Teachers' Training on Inclusive and Gender Equality: Educators are trained to create inclusive classrooms, particularly focusing on gender equality and minority inclusion. (Reference: https://shorturl.at/ZGkyf)
+(Reference: https://reliefweb.int/report/bangladesh/education-sector-gender-and-inclusion-action-plan-giap-2022)
 
-- Financial Assistance through Stipend Program for National Minorities: This program Provides financial incentives to marginalized groups like Dalit, Harijan, Bede , and transgender communities, ensuring their children can access education.
+12. Teachers' Training on Inclusive and Gender Equality: Educators are trained to create inclusive classrooms, particularly focusing on gender equality and minority inclusion.
+
+(Reference: https://shorturl.at/ZGkyf)
+
+13. Financial Assistance through Stipend Program for National Minorities: This program Provides financial incentives to marginalized groups like Dalit, Harijan, Bede, and transgender communities, ensuring their children can access education.
 
 (Reference 1:
 
-http://dss.portal.gov.bd/sites/default/files/files/dss.portal.gov.bd/page/9cca21e5_6616_420 3_af37_38987d31cd37/Dalit-Manual-140113.pdf
+http://dss.portal.gov.bd/sites/default/files/files/dss.portal.gov.bd/page/9cca21e5_6616_4203_af37_38987d31cd37/Dalit-Manual-140113.pdf
 
 Reference 2:
 
-h ttp://dss.portal.gov.bd/sites/default/files/files/dss.portal.gov.bd/page/9cca21e5_6616_420 3_af37_38987d31cd37/Hizra-Manual-090113.pdf)
+http://dss.portal.gov.bd/sites/default/files/files/dss.portal.gov.bd/page/9cca21e5_6616_4203_af37_38987d31cd37/Hizra-Manual-090113.pdf)
 
 - What challenges were encountered in realizing the right to education of minorities? If needed, brief quantitative information may be added.
 
@@ -1348,21 +1370,21 @@ h ttp://dss.portal.gov.bd/sites/default/files/files/dss.portal.gov.bd/page/9cca2
 
 Challenges encountered in realizing the right to education of minorities in Bangladesh include:
 
-- Marginalization: Minority groups often face systemic discrimination, limiting access to educational resources and fair treatment in schools.
+1) Marginalization: Minority groups often face systemic discrimination, limiting access to educational resources and fair treatment in schools.
 
-- Language Barriers: The dominance of Bengali in schools hinders learning for linguistic minorities, impacting their educational progress.
+2) Language Barriers: The dominance of Bengali in schools hinders learning for linguistic minorities, impacting their educational progress.
 
-- Limited Access to Schools: Remote and rural minority communities face a lack of schools and inadequate infrastructure, making education less accessible.
+3) Limited Access to Schools: Remote and rural minority communities face a lack of schools and inadequate infrastructure, making education less accessible.
 
-- Socio-economic Disparities: Poverty among minority groups makes education unaffordable, particularly with additional costs like textbooks and uniforms.
+4) Socio-economic Disparities: Poverty among minority groups makes education unaffordable, particularly with additional costs like textbooks and uniforms.
 
-- Cultural and Religious Factors: Cultural norms, such as early marriage and gender roles, can affect school enrolment and retention, particularly for girls.
+5) Cultural and Religious Factors: Cultural norms, such as early marriage and gender roles, can affect school enrolment and retention, particularly for girls.
 
-- Safety Concerns: Security issues, including violence and harassment, deter many minority children, especially girls, from attending school.
+6) Safety Concerns: Security issues, including violence and harassment, deter many minority children, especially girls, from attending school.
 
-- Lack of Representation: Minorities are often underrepresented in educational leadership, limiting their ability to advocate for their specific needs.
+7) Lack of Representation: Minorities are often underrepresented in educational leadership, limiting their ability to advocate for their specific needs.
 
-- Gaps in Legal Frameworks: Despite policies promoting education rights, poor implementation and enforcement hinder access for minority communities.
+8) Gaps in Legal Frameworks: Despite policies promoting education rights, poor implementation and enforcement hinder access for minority communities.
 
 ###### Indigenous people:
 
@@ -1398,9 +1420,7 @@ Challenges encountered in realizing the right to education of minorities in Bang
 
 > 26 Supra note 15.
 
-> Supra note 16.
-
-27
+> 27 Supra note 16.
 
 29
 
@@ -1416,7 +1436,7 @@ A 5% quota is reserved for minority communities, including indigenous students, 
 
 (Reference:
 
-https://bteb.portal.gov.bd/sites/default/files/files/bteb.portal.gov.bd/page/025bd970_bed1 _4e44_8e44_be08656a0e70/Admission%20Nitimala-2024.pdf)
+https://bteb.portal.gov.bd/sites/default/files/files/bteb.portal.gov.bd/page/025bd970_bed1_4e44_8e44_be08656a0e70/Admission%20Nitimala-2024.pdf)
 
 2. National Education Policy
 
@@ -1424,23 +1444,23 @@ the government of Bangladesh took an admirable step by introducing Mother tongue
 
 (Reference: https://shorturl.at/im0Ys )
 
-- Financial Assistance for Indigenous Female Learners
+3. Financial Assistance for Indigenous Female Learners
 
 Financial assistance is provided to all female minorities and a large portion of male students from indigenous communities. This policy helps alleviate the economic barriers to education and encourages higher enrollment and retention rates among indigenous students.
 
 (Reference: https://dte.bangladesh.za.net/download/Stipend_Policy.pdf)
 
-- What  challenges  were  encountered  in  realizing  the  right  to  education  of  indigenous  people?  If needed, brief quantitative information may be added.
+- What challenges were encountered in realizing the right to education of indigenous people? If needed, brief quantitative information may be added.
 
 Minority communities in Bangladesh sometimes face several challenges in accessing education:
 
-- Remoteness: Remote areas often lack schools, transportation, and educational infrastructure, making education less accessible.
+i) Remoteness: Remote areas often lack schools, transportation, and educational infrastructure, making education less accessible.
 
-- ii) Socio-economic Disparities: Poverty restricts access to education for minority families due to costs associated with schooling.
+ii) Socio-economic Disparities: Poverty restricts access to education for minority families due to costs associated with schooling.
 
-- iii) Cultural and Religious Factors: Traditional norms, including early marriage and gender roles, affect school enrolment, especially for girls.
+iii) Cultural and Religious Factors: Traditional norms, including early marriage and gender roles, affect school enrolment, especially for girls.
 
-- iv) Safety Concerns: Security threats and harassment in some areas deter families from sending their children, particularly girls, to school.
+iv) Safety Concerns: Security threats and harassment in some areas deter families from sending their children, particularly girls, to school.
 
 ###### People  on  the  move  (migrants,  refugees,  asylum-seekers,  stateless  persons  and  internally displaced persons) and trapped populations 28 :
 
@@ -1490,21 +1510,17 @@ Forcibly Displaced Myanmar Nationals
 
 Children and adolescents from the Forcibly Displaced Myanmar Nationals (FDMN) community continue to face significant risks such as child labour, forced marriage, early pregnancy, and human trafficking within the vulnerable environment of FDMN camps. Their access to quality education,  vocational  training,  and  safe  income-generating  opportunities  is  often  disrupted, leading  to  poor  outcomes  in  wellbeing,  nutrition,  health,  and  self-esteem.  As  of  May  2024, 302,530 FDMN children (including 149,897 girls) were enrolled in education programs in Cox's Bazar,  with  234,646  (112,544  girls)  supported  by  UNICEF's  eight  Implementing  Partners.  An additional 11,479 FDMN children (5,677 girls) are enrolled in education programs on Bhasan Char (Island), including 7,007 children (3,384 girls).
 
-(Reference: https://mofa.gov.bd/site/press_release/1d7a1bee-fa79-418d-ba46f6351547e965)
+(Reference: https://mofa.gov.bd/site/press_release/1d7a1bee-fa79-418d-ba46-f6351547e965)
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-> 29 While lack of documentation (such as identity papers, birth certificates, residency permits, etc.) should not be an obstacle to access education, these can constitute a barrier to education See:  UNESCO publication: Handbook on the right to education, 2018, p. 96.
-
-31
+> 29 While lack of documentation (such as identity papers, birth certificates, residency permits, etc.) should not be an obstacle to access education, these can constitute a barrier to education See: UNESCO publication: Handbook on the right to education, 2018, p. 96.
 
 > 30 Supra note 15.
 
-32
+> 31 Supra note 13.
 
-> Supra note 13
-
-> Supra note 16.
+> 32 Supra note 16.
 
 31
 
@@ -1520,15 +1536,17 @@ This policy allows individuals of any age to participate in Technical and Vocati
 
 (Reference:
 
-https://bteb.portal.gov.bd/sites/default/files/files/bteb.portal.gov.bd/page/025bd970_bed1_ 4e44_8e44_be08656a0e70/Admission%20Nitimala-2024.pdf)
+https://bteb.portal.gov.bd/sites/default/files/files/bteb.portal.gov.bd/page/025bd970_bed1_4e44_8e44_be08656a0e70/Admission%20Nitimala-2024.pdf)
 
-2. Recognition of Prior Learning (RPL) for Skilled Manpower :
+2. Recognition of Prior Learning (RPL) for Skilled Manpower:
 
-The RPL initiative facilitates the recognition of previously acquired skills, allowing displaced persons with prior experience to receive formal certification and enhance their employability. (Reference: http://btebcbt.gov.bd/Utility/rpl_guide_line)
+The RPL initiative facilitates the recognition of previously acquired skills, allowing displaced persons with prior experience to receive formal certification and enhance their employability.
 
-3. Education Programs on Bhasan Char :
+(Reference: http://btebcbt.gov.bd/Utility/rpl_guide_line)
 
-Education programs are in place for displaced populations, including those on Bhasan Char , offering access to learning opportunities for children and adolescents, and helping to ensure continued education despite displacement.
+3. Education Programs on Bhasan Char:
+
+Education programs are in place for displaced populations, including those on Bhasan Char, offering access to learning opportunities for children and adolescents, and helping to ensure continued education despite displacement.
 
 (Reference: https://help.unhcr.org/bangladesh/support-in-bangladesh/education/)
 
@@ -1548,23 +1566,19 @@ Bangladesh has implemented several initiatives to support displaced and marginal
 
 UNICEF ensures continuity of learning for children affected by crises, focusing on safe learning environments and providing essential educational resources.
 
-(Reference: https://www.unicef.org/bangladesh/en/topics/education-emergencies
+(Reference: https://www.unicef.org/bangladesh/en/topics/education-emergencies)
 
 2. Ashrayan Project:
 
 This government project rehabilitates homeless and landless families, offering housing and access to essential services, including education for children.
 
-(Reference:
-
-https://ashrayanpmo.gov.bd )
+(Reference: https://ashrayanpmo.gov.bd)
 
 3. Guchhagram Project:
 
 It is aimed at rehabilitating landless individuals, the project provides housing, education, healthcare, and vocational training to ensure educational opportunities for displaced families.
 
 (Reference: https://shorturl.at/zX1hK)
-
-)
 
 32
 
@@ -1624,9 +1638,7 @@ The absence of comprehensive data and effective monitoring systems makes it diff
 
 > 33 Supra note 15.
 
-> Supra note 16.
-
-34
+> 34 Supra note 16.
 
 33
 
@@ -1648,7 +1660,7 @@ This Act provides a comprehensive legal framework to ensure the rights, dignity,
 
 This Act emphasizes the protection of children's rights, including children with disabilities, ensuring access to education, protection from abuse, and equal opportunities.
 
-(Reference: https://www.unicef.org/bangladesh/sites/unicef.org.bangladesh/files/201807/Children%20Act%202013%20English.pdf)
+(Reference: https://www.unicef.org/bangladesh/sites/unicef.org.bangladesh/files/2018-07/Children%20Act%202013%20English.pdf)
 
 3. Neuro-Developmental Disability Protection Trust Act, 2013
 
@@ -1670,7 +1682,7 @@ This policy provides stipends and learning material support for students with di
 
 A 5% quota is reserved for students with disabilities in Technical and Vocational Education and Training (TVET) programs to promote inclusiveness. (Reference:
 
-https://bteb.portal.gov.bd/sites/default/files/files/bteb.portal.gov.bd/page/025bd970_bed 1_4e44_8e44_be08656a0e70/Admission%20Nitimala-2024.pdf)
+https://bteb.portal.gov.bd/sites/default/files/files/bteb.portal.gov.bd/page/025bd970_bed1_4e44_8e44_be08656a0e70/Admission%20Nitimala-2024.pdf)
 
 7. Secondary School Student Admission Rule:
 
@@ -1682,7 +1694,7 @@ https://shed.portal.gov.bd/site/moedu_policy/d4cc56d9-a09e-4b29-9210-304c62fc168
 
 UNICEF's report highlights inclusive education practices in Bangladesh, with a focus on integrating children with disabilities into mainstream schools. (Reference:
 
-https://www.unicef.org/rosa/media/16986/file/Country%20Profile%20%20Bangladesh.pdf)
+https://www.unicef.org/rosa/media/16986/file/Country%20Profile%20-%20Bangladesh.pdf)
 
 9. Inclusive Curriculum
 
@@ -1692,31 +1704,29 @@ https://www.unicef.org/rosa/media/16986/file/Country%20Profile%20%20Bangladesh.p
 
 [[START OF PAGE 35]]
 
-35
-
 The new curriculum framework is designed to be inclusive, catering to the special needs of all learners, including those with disabilities and autism. It includes measures such as accessibility, communication skills, and Braille provisions. (Reference:
 
-https://nctb.portal.gov.bd/sites/default/files/files/nctb.portal.gov.bd/files/6d9b9671_f815_ 460c_b8ef_c58a1b829f55/English.pdf)
+https://nctb.portal.gov.bd/sites/default/files/files/nctb.portal.gov.bd/files/6d9b9671_f815_460c_b8ef_c58a1b829f55/English.pdf)
 
 - What challenges were encountered in realizing the right to education of people with disabilities? If needed, brief quantitative information may be added.
 
-- Physical Accessibility: Many schools in Bangladesh lack necessary infrastructure, such as ramps, adapted toilets, and sensory-friendly environments, which limits accessibility for students with disabilities.
+1) Physical Accessibility: Many schools in Bangladesh lack necessary infrastructure, such as ramps, adapted toilets, and sensory-friendly environments, which limits accessibility for students with disabilities.
 
-- Attitudinal Barriers: Negative societal attitudes and stigma towards disability often result in exclusion and discrimination in educational settings, affecting the participation of children with disabilities in mainstream schools.
+2) Attitudinal Barriers: Negative societal attitudes and stigma towards disability often result in exclusion and discrimination in educational settings, affecting the participation of children with disabilities in mainstream schools.
 
-- Shortage of Trained Teachers: There is a lack of teachers trained to support the specific needs of students with disabilities, limiting the effectiveness of inclusive education.
+3) Shortage of Trained Teachers: There is a lack of teachers trained to support the specific needs of students with disabilities, limiting the effectiveness of inclusive education.
 
-- Limited Specialized Support Services: Access to assistive devices, therapies, and adapted educational materials is limited, making it harder for children with disabilities to receive the necessary support.
+4) Limited Specialized Support Services: Access to assistive devices, therapies, and adapted educational materials is limited, making it harder for children with disabilities to receive the necessary support.
 
-- Barriers to Early Childhood Education: Early intervention services for children with disabilities are often unavailable, affecting their long-term educational outcomes.
+5) Barriers to Early Childhood Education: Early intervention services for children with disabilities are often unavailable, affecting their long-term educational outcomes.
 
-- Distance and Transportation: Lack of accessible transportation options, especially in rural areas, creates significant challenges for students with disabilities to attend school regularly.
+6) Distance and Transportation: Lack of accessible transportation options, especially in rural areas, creates significant challenges for students with disabilities to attend school regularly.
 
-- Financial Constraints: Families of children with disabilities face additional financial burdens, which can limit their ability to access necessary education and resources.
+7) Financial Constraints: Families of children with disabilities face additional financial burdens, which can limit their ability to access necessary education and resources.
 
-- Legal and Policy Gaps: Despite international commitments, gaps remain in implementing policies that ensure inclusive education for children with disabilities.
+8) Legal and Policy Gaps: Despite international commitments, gaps remain in implementing policies that ensure inclusive education for children with disabilities.
 
-- Data and Monitoring: Insufficient data collection and monitoring hinder efforts to identify and address the educational challenges faced by children with disabilities.
+9) Data and Monitoring: Insufficient data collection and monitoring hinder efforts to identify and address the educational challenges faced by children with disabilities.
 
 ###### Students from poor households:
 
@@ -1724,7 +1734,7 @@ https://nctb.portal.gov.bd/sites/default/files/files/nctb.portal.gov.bd/files/6d
 
  Teachers are trained to combat stigmatisation 35
 
-> Supra note 15.
+> 35 Supra note 15.
 
 35
 
@@ -1732,9 +1742,7 @@ https://nctb.portal.gov.bd/sites/default/files/files/nctb.portal.gov.bd/files/6d
 
 [[START OF PAGE 36]]
 
-36
-
- Transport, meals and education material are subsidised  or  provided  free  of  charge  beyond compulsory education
+ Transport, meals and education material are subsidised or provided free of charge beyond compulsory education
 
  Positive or affirmative action measures are provided
 
@@ -1750,7 +1758,9 @@ This initiative provides scholarships and financial assistance to students from 
 
 2. Social Security Policy Support (SSPS) Programme
 
-The SSPS Programme helps improve the social safety net by offering financial aid and social protection measures to vulnerable households, including those with school-going children. (Reference: https://socialprotection.gov.bd/)
+The SSPS Programme helps improve the social safety net by offering financial aid and social protection measures to vulnerable households, including those with school-going children.
+
+(Reference: https://socialprotection.gov.bd/)
 
 3. School Feeding Programme
 
@@ -1764,9 +1774,9 @@ This programme offers free meals to students in poverty-affected areas, improvin
 
 This programme provides financial support and protection to vulnerable families, ensuring that children from poor households can continue their education without financial barriers.
 
-(Reference: https://socialprotection.gov.bd/wp-content/uploads/2017/08/4MoPME.pdf)
+(Reference: https://socialprotection.gov.bd/wp-content/uploads/2017/08/4-MoPME.pdf)
 
-- Technical and Madrasah Education Division (TMED) Grant
+2) Technical and Madrasah Education Division (TMED) Grant
 
 The TMED Grant offers stipends and grants to students pursuing technical and vocational education, particularly those from disadvantaged backgrounds.
 
@@ -1774,13 +1784,13 @@ The TMED Grant offers stipends and grants to students pursuing technical and voc
 
 3) Prime Minister Education Assistance Trust (PMEAT) Grants
 
-This trust offers scholarships, financial assistance, and grants to help students from lowincome households continue their education.
+This trust offers scholarships, financial assistance, and grants to help students from low-income households continue their education.
 
 (Reference 1: https://pmeat.gov.bd/
 
-Reference 2: https://pmeat.portal.gov.bd/site/page/471840df-d897-4466-9338- edbfac43a6dc)
+Reference 2: https://pmeat.portal.gov.bd/site/page/471840df-d897-4466-9338-edbfac43a6dc)
 
-> Supra note 16.
+> 36 Supra note 16.
 
 36
 
@@ -1792,23 +1802,25 @@ Reference 2: https://pmeat.portal.gov.bd/site/page/471840df-d897-4466-9338- edbf
 
 The University Grants Commission (UGC) offers financial grants and scholarships to students in higher education institutions to support underprivileged students in accessing quality education.
 
-(Reference: https://ugc.gov.bd/site/page/b39376f9-eda0-4ec5-acf46f6d619bdd7c/Others-Scholarship)
+(Reference: https://ugc.gov.bd/site/page/b39376f9-eda0-4ec5-acf4-6f6d619bdd7c/Others-Scholarship)
 
-- Shishu Kollan (Children Welfare) Trust Stipend Guideline 2019
+5) Shishu Kollan (Children Welfare) Trust Stipend Guideline 2019
 
-This guideline provides financial assistance through stipends to children from underprivileged backgrounds, helping them stay in school. (Reference:
+This guideline provides financial assistance through stipends to children from underprivileged backgrounds, helping them stay in school.
 
-https://mopme.gov.bd/sites/default/files/files/mopme.portal.gov.bd/policies/25536b56 _72d6_41ce_ad6c_35fe1fbd797b/Scan_003.pdf)
+(Reference:
+
+https://mopme.gov.bd/sites/default/files/files/mopme.portal.gov.bd/policies/25536b56_72d6_41ce_ad6c_35fe1fbd797b/Scan_003.pdf)
 
 6) National School Meal Policy 2019
 
 The policy ensures free school meals for children, improving attendance and addressing nutritional needs, especially in poverty-stricken areas.
 
-(Reference 1:  https://www.ghashful-bd.org/national-school-meal-policy-2019/
+(Reference 1: https://www.ghashful-bd.org/national-school-meal-policy-2019/
 
 Reference 2:
 
-https://sfp.dpe.gov.bd/sites/default/files/files/sfp.dpe.gov.bd/page/50650878_61ed_47 38_8df2_7648b4844c87/2020-12-27-13-13-22212d99e26c31e3b700f85b6d4449ae.pdf)
+https://sfp.dpe.gov.bd/sites/default/files/files/sfp.dpe.gov.bd/page/50650878_61ed_4738_8df2_7648b4844c87/2020-12-27-13-13-22212d99e26c31e3b700f85b6d4449ae.pdf)
 
 7) Stipend Guideline 2021
 
@@ -1816,15 +1828,15 @@ This guideline outlines the provision of stipends to support students, particula
 
 (Reference: https://skt.gov.bd/site/page/a18c159c-296d-4d6c-b4b8-1df5b63121e6)
 
-- What  challenges  were  encountered  in  realizing  the  right  to  education  of  students  from  poor households? If needed, brief quantitative information may be added.
+- What challenges were encountered in realizing the right to education of students from poor households? If needed, brief quantitative information may be added.
 
 Female Students' Dropout in Secondary Level
 
-A significant challenge is the high dropout rate among female students at the secondary level in Bangladesh. Factors such as poverty, early marriage, and gender-based expectations contribute to this  issue.  In  2017,  only  59%  of  girls  completed  secondary  education,  highlighting  the  need  for continued efforts to address these barriers.
+A significant challenge is the high dropout rate among female students at the secondary level in Bangladesh. Factors such as poverty, early marriage, and gender-based expectations contribute to this issue. In 2017, only 59% of girls completed secondary education, highlighting the need for continued efforts to address these barriers.
 
 (Reference: https://shorturl.at/VfWME)
 
-#### Progress made with respect to implementing the right to education across all levels and forms of education
+#### 2. Progress made with respect to implementing the right to education across all levels and forms of education
 
 ##### 2.1 Early childhood care and education
 
@@ -1852,25 +1864,27 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
 The Islamic Foundation Bangladesh runs mosque-based non-formal education programs, targeting early childhood care and education (ECCE) in rural areas, and provides foundational education for young children.
 
-(Reference: https://islamicfoundation.gov.bd/site/page/ea30c305-b510-4558-bbe826d065b945c7/-)
+(Reference: https://islamicfoundation.gov.bd/site/page/ea30c305-b510-4558-bbe8-26d065b945c7/-)
 
 ###### 2) Temple-based Non-Formal Education
 
 Temple-based educational initiatives are focused on providing basic education for children in religious institutions, and contributes to non-formal early childhood education in Bangladesh.
 
-(Reference: https://bangladeshpost.net/posts/temple-based-educationprogrammes-stressed-62326)
+(Reference: https://bangladeshpost.net/posts/temple-based-education-programmes-stressed-62326)
 
 ###### 3) Early Childhood Development in Bangladesh
 
 This outlines the efforts to improve early childhood development (ECD) through various programs and policies, focusing on health, nutrition, and early education, and enhances the cognitive and social skills of young children.
 
-(Reference: https://ceinternational1892.org/article/early-childhood-developmentin-bangladesh/)
+(Reference: https://ceinternational1892.org/article/early-childhood-development-in-bangladesh/)
 
 ###### 4) Day Care Service by Ministry of Women and Children Affairs:
 
 The Ministry of Women and Children Affairs (MOWCA) has implemented daycare services to support working parents and promote early childhood care. These centers offer structured care and learning for children under six.
 
-> 37 Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'. 38 Which commits states to 'Enhance policy and legal frameworks to ensure that the right to education includes ECCE'
+> 37 Which states that ‘ECCE is part of the right to education and the main foundation for holistic human development’.
+
+> 38 Which commits states to ‘Enhance policy and legal frameworks to ensure that the right to education includes ECCE’
 
 38
 
@@ -1878,13 +1892,15 @@ The Ministry of Women and Children Affairs (MOWCA) has implemented daycare servi
 
 [[START OF PAGE 39]]
 
-(Reference: https://mowca.gov.bd/site/page/f32cd2cd-2bfc-4ced-be084aba7eac8609/Day-Care-Center-)
+(Reference: https://mowca.gov.bd/site/page/f32cd2cd-2bfc-4ced-be08-4aba7eac8609/Day-Care-Center-)
 
 ###### 5) National Children Policy 2011
 
-This policy emphasizes the right of children to education, health, and proper development, with special provisions for early childhood care and education. (Reference:
+This policy emphasizes the right of children to education, health, and proper development, with special provisions for early childhood care and education.
 
-http://childsocialprotection.gov.bd/public/upload/policy_files/202105240620Natio nal%20Children%20Policy%202011%20English.pdf)
+(Reference:
+
+http://childsocialprotection.gov.bd/public/upload/policy_files/202105240620National%20Children%20Policy%202011%20English.pdf)
 
 ###### 6) Early Learning Development Standards (ELDS)
 
@@ -1892,7 +1908,7 @@ ELDS provides a comprehensive framework for ECCE, outlining the skills and knowl
 
 (Reference:
 
-https://itacec.org/ece/document/learning_resources/2017/ELDS_Final_Report_Mar ch2017.pdf)
+https://itacec.org/ece/document/learning_resources/2017/ELDS_Final_Report_March2017.pdf)
 
 ###### 7) Comprehensive Early Childhood Care and Development Policy
 
@@ -1902,25 +1918,27 @@ This policy supports holistic early childhood care and development, focusing on 
 
 ###### 8) The Child Day Care Centre Act 2021
 
-This act provides a legal framework for the establishment and operation of day care centers, ensuring quality standards in early childcare services across Bangladesh. (Reference: http://bdlaws.minlaw.gov.bd/act-1375.html?lang=en)
+This act provides a legal framework for the establishment and operation of day care centers, ensuring quality standards in early childcare services across Bangladesh.
+
+(Reference: http://bdlaws.minlaw.gov.bd/act-1375.html?lang=en)
 
 ###### 9) Chittagong Hill Tracts Development Board (CHTDB)
 
 The CHTDB focuses on developing early childhood education in the Chittagong Hill Tracts, with initiatives aimed at children in remote areas to enhance their access to education and development resources.
 
-(Reference: https://ecd-
-
-bangladesh.net/document/documents/Country_Report_ECCE_Bangladesh.pdf)
+(Reference: https://ecd-bangladesh.net/document/documents/Country_Report_ECCE_Bangladesh.pdf)
 
 ###### 10) National Curriculum and Textbook Board (NCTB) for Pre-Primary Education
 
-The National Curriculum and Textbook Board (NCTB) introduced a two-year preprimary education program for children aged 4 and 5, enhancing early childhood education across the country.
+The National Curriculum and Textbook Board (NCTB) introduced a two-year pre-primary education program for children aged 4 and 5, enhancing early childhood education across the country.
 
 (Reference: https://shorturl.at/IpHfN)
 
 ###### 11) Directorate of Primary Education (DPE)
 
-The DPE is responsible for overseeing and implementing ECCE programs in government primary schools, ensuring early education access for all children. (Reference: https://www.dpe.gov.bd/)
+The DPE is responsible for overseeing and implementing ECCE programs in government primary schools, ensuring early education access for all children.
+
+(Reference: https://www.dpe.gov.bd/)
 
 39
 
@@ -1930,11 +1948,11 @@ The DPE is responsible for overseeing and implementing ECCE programs in governme
 
 - Is compulsory and free of charge pre-primary education available?
 
-  Pre-primary education is compulsory. Please provide the age of enrolment and duration:
+ Pre-primary education is compulsory. Please provide the age of enrolment and duration:
 
 Age of Enrolment: 4 years old child and Duration of this education programme: 2 years
 
-  Pre-primary education is not compulsory.
+ Pre-primary education is not compulsory.
 
  Pre-primary education is free of charge for all. Please provide the duration and indicate the extent to which it is free:
 
@@ -1962,9 +1980,7 @@ Reference:
 
 It is an effective and coordinated implementation of Early Childhood Care and Development (ECCD), based on a national standard.
 
-(Reference: http://ecd-
-
-bangladesh.net/document/documents/Operational_Framework_for_PPE.pdf)
+(Reference: http://ecd-bangladesh.net/document/documents/Operational_Framework_for_PPE.pdf)
 
 - What challenges were encountered in realizing early childhood care and education and pre-primary education?
 
@@ -2060,43 +2076,35 @@ In this part, please provide information on the general availability and accessi
 
 - Please provide the age of enrolment and duration of lower secondary education:
 
-In  Bangladesh,  the  typical  enrollment  age  for  secondary  education  is  11  years  old.  For  children with  special  needs,  this  age  can  be  extended  up  to  14  years.  Lower  secondary  vocational education, which begins in Grade 6, typically starts at age 12. The duration of a lower secondary education program is three years.
+In Bangladesh, the typical enrollment age for secondary education is 11 years old. For children with special needs, this age can be extended up to 14 years. Lower secondary vocational education, which begins in Grade 6, typically starts at age 12. The duration of a lower secondary education program is three years.
 
-(Reference: https://shed.portal.gov.bd/site/moedu_policy/d4cc56d9-a09e-4b29-9210304c62fc1689)
+(Reference: https://shed.portal.gov.bd/site/moedu_policy/d4cc56d9-a09e-4b29-9210-304c62fc1689)
 
 - Please provide the age of enrolment and duration of upper secondary education:
 
-In this educational system, students typically begin their upper secondary education at the age of 14.  The  entire  program  lasts  for  four  years,  divided  equally  between  the  secondary  and  higher secondary  levels.  This  means  that  students  will  spend  two  years  completing  their  secondary education and then proceed to the higher secondary level for another two years.
+In this educational system, students typically begin their upper secondary education at the age of 14. The entire program lasts for four years, divided equally between the secondary and higher secondary levels. This means that students will spend two years completing their secondary education and then proceed to the higher secondary level for another two years.
 
 (Reference 1: https://shed.gov.bd/
 
 Reference 2: https://dshe.gov.bd/)
 
-
-
-
-
-
-
-
-
 - Is lower and upper secondary education compulsory and free of charge?
 
  Lower secondary education is compulsory.
 
-  Lower secondary education is not compulsory.
+ Lower secondary education is not compulsory.
 
  Lower secondary education is free of charge.
 
-  Lower secondary education is not free of charge.
+ Lower secondary education is not free of charge.
 
  Upper secondary education is compulsory.
 
-  Upper secondary education is not compulsory.
+ Upper secondary education is not compulsory.
 
  Upper secondary education is free of charge
 
-  Upper secondary education is not free of charge.
+ Upper secondary education is not free of charge.
 
 42
 
@@ -2126,17 +2134,17 @@ No 
 
 - Please provide reference to the relevant laws and provisions and indicate how the provision is enforced:
 
-###### School Admission Policy
+###### 1. School Admission Policy
 
 This policy ensures inclusive and fair student enrolment in secondary education, with oversight from the Ministry of Education to guarantee transparency and equal opportunities.
 
-(Reference: https://shed.portal.gov.bd/site/moedu_policy/d4cc56d9-a09e-4b29-9210- 304c62fc1689)
+(Reference: https://shed.portal.gov.bd/site/moedu_policy/d4cc56d9-a09e-4b29-9210-304c62fc1689)
 
-###### The Compulsory Primary Education (CPE) Act 1990
+###### 2. The Compulsory Primary Education (CPE) Act 1990
 
 This act mandates compulsory primary education, creating a foundation for students to transition into secondary education. Enforcement is handled by the Directorate of Primary Education.
 
-(Reference: https://planipolis.iiep.unesco.org/1990/primary-education-compulsory-act- 1990-act-no-27-1990-4770)
+(Reference: https://planipolis.iiep.unesco.org/1990/primary-education-compulsory-act-1990-act-no-27-1990-4770)
 
 - What challenges were encountered in realizing secondary education?
 
@@ -2158,8 +2166,6 @@ This act mandates compulsory primary education, creating a foundation for studen
 
 [[START OF PAGE 44]]
 
-##### 2.3 Higher education
-
  Poor quality programmes
 
  Other:
@@ -2172,13 +2178,15 @@ Dropout rate in secondary school was 35.98% and Higher secondary level 22.72% in
 
 - Please elaborate. Brief quantitative information may be added.
 
-For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  higher education.  Ensuring  higher  education  is  essential  to  achieve  SDG4,  both  targets  4.3 39 ,  and  target 4.4 40 . Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training.
+##### 2.3 Higher education
 
-- Please  indicate  efforts  made  to  ensure  that  higher  education,  including  technical,  vocation education  and  training,  is  equally  accessible  to  all  on  the  basis  of  individual  capacity  and/or  is available free of charge (several items may be ticked):
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SDG4, both targets 4.3 39, and target 4.4 40. Article 4 of the Convention requires states to make ‘higher education equally accessible to all on the basis of individual capacity’. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by ‘every appropriate means, and in particular by the progressive introduction of free education’. Higher education includes technical and vocational education and training.
+
+- Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked):
 
  Higher education is free of charge
 
- Higher  education  is  accessible  on  the  basis  of  individual  capacity  (as  assessed  by  reference  to relevant qualifications and experience)
+ Higher education is accessible on the basis of individual capacity (as assessed by reference to relevant qualifications and experience)
 
  Higher education is accessible through financial incentives and scholarships
 
@@ -2186,17 +2194,17 @@ For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  pr
 
  Higher education is accessible through credit transfer system between states
 
- Higher education allows for multiple and flexible learning pathways (flexible entry and re-entry, recognition,  validation,  and  accreditation  of  knowledge  and  skills  acquired  through  non-formal and informal education).
+ Higher education allows for multiple and flexible learning pathways (flexible entry and re-entry, recognition, validation, and accreditation of knowledge and skills acquired through non-formal and informal education).
 
  Other:
 
 ###### Bangladesh Accreditation Council Act, 2017
 
-Bangladesh Accreditation Council  (BAC)  has  been  established  with  the  responsibility  of  quality assurance  in  higher  education  in  Bangladesh.  BAC  will  implement  Level  7-10  of  the  national
+Bangladesh Accreditation Council (BAC) has been established with the responsibility of quality assurance in higher education in Bangladesh. BAC will implement Level 7-10 of the national
 
-> 39 Which  calls  on  states  to  'ensure  equal  access  for  all  women  and  men  to  affordable  and  quality  technical, vocational and tertiary education, including university'.
+> 39 Which calls on states to ‘ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university’.
 
-> 40 Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'.
+> 40 Which recommends to ‘substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship’.
 
 44
 
@@ -2204,11 +2212,11 @@ Bangladesh Accreditation Council  (BAC)  has  been  established  with  the  resp
 
 [[START OF PAGE 45]]
 
-qualifications framework (BNQF) and accredit HEIs and academic programs for quality assurance. (Reference: http://bdlaws.minlaw.gov.bd/upload/act/2023-01-15-13-47-39-65.Bangladesh- Accreditation-Council-Act,-2017.pdf).
+qualifications framework (BNQF) and accredit HEIs and academic programs for quality assurance. (Reference: http://bdlaws.minlaw.gov.bd/upload/act/2023-01-15-13-47-39-65.Bangladesh-Accreditation-Council-Act,-2017.pdf).
 
 ###### Bangladesh Open University
 
-Informal education and Distance Learning are run by Bangladesh Open University (Web link:  www.bou.ac.bd).
+Informal education and Distance Learning are run by Bangladesh Open University (Web link: www.bou.ac.bd).
 
 ###### Prime Minister Education Assistance Trust (PMEAT) Scholarships
 
@@ -2216,11 +2224,11 @@ This trust is a Bangladesh government trust fund under the Ministry of Education
 
 (Reference 1:
 
-https://pmeat.gov.bd/sites/default/files/files/pmeat.portal.gov.bd/notices/ec9a46cd_7df1_4a76 _bbb3_c574c78641bf/2024-06-23-12-09-6e5c3ab9590cbfaadee6f5611624b8d6.pdf
+https://pmeat.gov.bd/sites/default/files/files/pmeat.portal.gov.bd/notices/ec9a46cd_7df1_4a76_bbb3_c574c78641bf/2024-06-23-12-09-6e5c3ab9590cbfaadee6f5611624b8d6.pdf
 
 Reference 2:
 
-https://pmeat.gov.bd/sites/default/files/files/pmeat.portal.gov.bd/notices/60ba9951_44ca_43f1 _b260_86e6a5288ea7/2024-04-21-18-23-cce37649dc6a737fe0b7da9bb1cd4af1.pdf)
+https://pmeat.gov.bd/sites/default/files/files/pmeat.portal.gov.bd/notices/60ba9951_44ca_43f1_b260_86e6a5288ea7/2024-04-21-18-23-cce37649dc6a737fe0b7da9bb1cd4af1.pdf)
 
 - Please list the relevant laws and policies. Where applicable, provide information on the direct costs  (e.g.,  enrolment  fees  and  tuition  fees)  and  indirect  costs  (e.g.,  exam  fees,  university supplies, transport, accommodation). Brief quantitative information may be added.
 
@@ -2252,7 +2260,7 @@ University Grants Commission of Bangladesh (UGC) and Bangladesh Accreditation Co
 
 (Reference 1: https://ugc.gov.bd/site/view/policies/-
 
-Reference 2: https://ugc.gov.bd/site/publications/6dc675fc-db66-42bd-88e3- 5fcbb3a5c497/Strategic-Plan-for-Higher-Education-in-bd-2018-2030 )
+Reference 2: https://ugc.gov.bd/site/publications/6dc675fc-db66-42bd-88e3-5fcbb3a5c497/Strategic-Plan-for-Higher-Education-in-bd-2018-2030 )
 
 Reference  3: Bangladesh  Accreditation  Council  Act,  2017  (https://www.bac.gov.bd; https://bac.gov.bd/site/page/10cbe74a-aad4-4f0e-96ca-632ff843d48e/- )
 
@@ -2278,11 +2286,11 @@ For reference: Article/Paragraph 4(c) of the Convention/Recommendation  provides
 
  Lifelong learning entitlements including learning accounts, vouchers, etc.
 
- Other:
+ Other:
 
 ###### Provision of continuous learning
 
-The  University  Grants  Commission  of  Bangladesh  (UGC)  and  Bangladesh  Accreditation  Council (BAC) will implement the Bangladesh National Qualifications Framework (BNQF) level 7-10 and set  standards  for  accreditation  of  higher  education  institutions  and  academic  programs.  BNQF endorses  lifelong  learning,  which  will  be  the  key  component  of  HEIs  and  their  academic programs.
+The University Grants Commission of Bangladesh (UGC) and Bangladesh Accreditation Council (BAC) will implement the Bangladesh National Qualifications Framework (BNQF) level 7-10 and set standards for accreditation of higher education institutions and academic programs. BNQF endorses lifelong learning, which will be the key component of HEIs and their academic
 
 46
 
@@ -2290,8 +2298,10 @@ The  University  Grants  Commission  of  Bangladesh  (UGC)  and  Bangladesh  Acc
 
 [[START OF PAGE 47]]
 
+programs.
+
 ###### Provision of professional training including reskilling and upskilling programmes:
-The University Grants  Commission  of  Bangladesh  (UGC)  and  Bangladesh  Accreditation  Council  (BAC)  are responsible  for  establishing  and  monitoring  the  Institutional  Quality  Assurance  Cell  (IQAC). Around 140 IQAC have been established  at  the  universities,  which  provide  training  on  quality assurance, reskilling, and upskilling programmes, and also training to capacity development in the professional arena.
+The University Grants Commission of Bangladesh (UGC) and Bangladesh Accreditation Council (BAC) are responsible for establishing and monitoring the Institutional Quality Assurance Cell (IQAC). Around 140 IQAC have been established at the universities, which provide training on quality assurance, reskilling, and upskilling programmes, and also training to capacity development in the professional arena.
 
 ###### Evidence of "Adult Education and Alternative Learning" in Bangladesh
 
@@ -2321,7 +2331,7 @@ It ensures standards and quality in higher education through accreditation proce
 
 Legal  framework  that  supports  the  recognition  of  non-formal  education  to  expand  learning opportunities.
 
-(Reference: https://bnfe.gov.bd/site/page/56778281-5ba7-4067-9385-97b880afce51/NFE-Act2014)
+(Reference: https://bnfe.gov.bd/site/page/56778281-5ba7-4067-9385-97b880afce51/NFE-Act-2014)
 
 ###### 6. Recognition, Validation, and Certification of Non-formal Learning
 
@@ -2365,7 +2375,7 @@ Outlines  strategies  for  implementing  adult  learning  and  training  initiat
 
 (Reference:
 
-https://naem.gov.bd/sites/default/files/files/naem.portal.gov.bd/page/a9c0bb92_4c5d_45ea_8e 7d_0d0eab7a86fd/2021-11-28-04-28-bd714c81516d1cca848decb744487ccc.pdf)
+https://naem.gov.bd/sites/default/files/files/naem.portal.gov.bd/page/a9c0bb92_4c5d_45ea_8e7d_0d0eab7a86fd/2021-11-28-04-28-bd714c81516d1cca848decb744487ccc.pdf)
 
 - Please elaborate further on the measures taken:
 
@@ -2375,7 +2385,7 @@ It aims to create a skilled workforce by improving the quality and relevance of 
 
 (Reference:
 
-https://nsda.portal.gov.bd/sites/default/files/files/nsda.portal.gov.bd/npfblock/2020-1221-14-24-8c85b4482cf8516df94dd6471eaf30a4.pdf)
+https://nsda.portal.gov.bd/sites/default/files/files/nsda.portal.gov.bd/npfblock/2020-12-21-14-24-8c85b4482cf8516df94dd6471eaf30a4.pdf)
 
 ###### 2. Skills for Employment Investment Program (SEIP)
 
@@ -2427,41 +2437,41 @@ For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommenda
 
 ##### 3.1 General measures
 
-- Please  indicate  whether  the  legal  or  regulatory  framework  lays  out  the  conditions  and  minimum education standards for the establishment and functioning of public education institutions regarding:
+- Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding:
 
-  State monitoring and inspections
+ State monitoring and inspections
 
-  Health and sanitation
+ Health and sanitation
 
-  Safety  (children  learn  in  a  safe  environment  free  from  violence  or  harassment, including school-related gender-based violence (in and around schools))
+ Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools))
 
-  Infrastructure
+ Infrastructure
 
-  Curriculum
+ Curriculum
 
-  Student-teacher ratio
+ Student-teacher ratio
 
-  School fees (if relevant)
+ School fees (if relevant)
 
-  Other
+ Other
 
-###### State Monitoring and Inspections
+###### 1. State Monitoring and Inspections
 
 ###### a) District Education Office
 
 The District Education Office is responsible for supervising and inspecting schools to ensure educational standards and policies are met at the district level, contributing to effective educational governance.
 
-(Reference: https://dshe.portal.gov.bd/site/page/da63af3c-b637-436b-a6a80dd29e237350)
+(Reference: https://dshe.portal.gov.bd/site/page/da63af3c-b637-436b-a6a8-0dd29e237350)
 
 ###### b) Upazila Secondary Education Office
 
 This office monitors secondary schools at the upazila (sub-district) level, ensuring that schools comply with national education policies, manage academic performance, and address local educational issues.
 
-(Reference: https://dshe.portal.gov.bd/site/page/450f3db5-295b-4272-9dcef06f84d1cf26)
+(Reference: https://dshe.portal.gov.bd/site/page/450f3db5-295b-4272-9dce-f06f84d1cf26)
 
 ###### 2. National Action Plan to Prevent Violence against Women
 
-This action plan includes educational measures aimed at raising awareness, preventing violence  in  schools,  and  fostering  a  safe  environment  for  female  students  through education and community involvement.
+This action plan includes educational measures aimed at raising awareness, preventing violence in schools, and fostering a safe environment for female students through education and community involvement.
 
 49
 
@@ -2481,7 +2491,7 @@ This  policy  outlines  strict  measures  to  prevent  bullying  and  ragging  i
 
 This guideline provides a framework for improving school infrastructure, including the construction  of  classrooms,  libraries,  and  laboratories,  to  ensure  better  learning environments across educational institutions.
 
-(Reference: https://moedu.gov.bd/site/page/afc42c25-9023-4412-97e2730c7897e9c8/Education-Guideline)
+(Reference: https://moedu.gov.bd/site/page/afc42c25-9023-4412-97e2-730c7897e9c8/Education-Guideline)
 
 ###### 5. Health and Sanitation
 
@@ -2497,7 +2507,7 @@ The TSR in Bangladesh is continually monitored and reported, with efforts to mai
 
 (Reference:
 
-https://banbeis.portal.gov.bd/sites/default/files/files/banbeis.portal.gov.bd/npfblock/B angladesh%20Education%20Statistics%202023%20%281%29.pdf)
+https://banbeis.portal.gov.bd/sites/default/files/files/banbeis.portal.gov.bd/npfblock/Bangladesh%20Education%20Statistics%202023%20%281%29.pdf)
 
 - Please elaborate on each of the measures taken:
 
@@ -2505,15 +2515,15 @@ You may include information on policies, protocols or codes of conduct.
 
 ###### Policy against Bullying & Ragging in Educational Institution:
 
-This policy is developed to combat institutional harassment regarding bullying and ragging (Reference: https://shed.portal.gov.bd/site/moedu_policy/3a49a949-4d58-452c-a3d60671ded197be )
+This policy is developed to combat institutional harassment regarding bullying and ragging (Reference: https://shed.portal.gov.bd/site/moedu_policy/3a49a949-4d58-452c-a3d6-0671ded197be )
 
-###### State monitoring and inspections; Curriculum; Student-teacher ratio :
+###### State monitoring and inspections; Curriculum; Student-teacher ratio:
 
-The  University  Grants  Commission  of  Bangladesh,  UGC  Act,  1973,  is  responsible  for  these issues and inspecting the HEIs and disbursing government grants to public universities. UGC is also working on the Private University Act, 2010 to recommend the establishment of private universities and approve, and modify the academic programs and syllabi.
+The University Grants Commission of Bangladesh, UGC Act, 1973, is responsible for these issues and inspecting the HEIs and disbursing government grants to public universities. UGC is also working on the Private University Act, 2010 to recommend the establishment of private universities and approve, and modify the academic programs and syllabi.
 
 (Reference 1: https://ugc.gov.bd/site/view/policies/- ;
 
-Reference 2: https://ugc.gov.bd/site/publications/6dc675fc-db66-42bd-88e35fcbb3a5c497/Strategic-Plan-for-Higher-Education-in-bd-2018-2030 )
+Reference 2: https://ugc.gov.bd/site/publications/6dc675fc-db66-42bd-88e3-5fcbb3a5c497/Strategic-Plan-for-Higher-Education-in-bd-2018-2030 )
 
 ###### Quality assurance and Accreditation of Higher Education:
 
@@ -2538,6 +2548,12 @@ Bangladesh Accreditation Council
  Conflicts or crises
 
  Other:
+
+ Low quality educational infrastructure and materials
+
+ Inadequate parental support to education
+
+ Long distances to schools
 
 Lack  of  qualified  teachers  is  one  of  the  main  challenges.  Community  of  practice  among teachers  is  not  often  very  popular.  Sometimes,  proper  monitoring  by  the  relevant  local authorities  is  less  organised.  Often  there  is  resistance  from  the  parents  and  teachers  to welcome new teaching practices and methods.
 
@@ -2567,12 +2583,6 @@ For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides 
 
  Measures taken to increase women in leadership positions in education.
 
- Low quality educational infrastructure and materials
-
- Inadequate parental support to education
-
- Long distances to schools
-
 51
 
 [[END OF PAGE 51]]
@@ -2589,9 +2599,11 @@ https://naem.gov.bd/sites/default/files/files/naem.portal.gov.bd/page/a9c0bb92_4
 
 8e7d_0d0eab7a86fd/2021-11-28-04-28-bd714c81516d1cca848decb744487ccc.pdf
 
-###### Initial training and continuous professional development: Training Courses of NAEM Web link:
+###### Initial training and continuous professional development: Training Courses of NAEM
 
-https://naem.gov.bd/sites/default/files/files/naem.portal.gov.bd/page/f8a6db84_6ed0_4f8c_ 828d_1f678a6e8891/2021-08-17-07-36-0b66193c24df87c21812dd55d36deea3.pdf
+Web link:
+
+https://naem.gov.bd/sites/default/files/files/naem.portal.gov.bd/page/f8a6db84_6ed0_4f8c_828d_1f678a6e8891/2021-08-17-07-36-0b66193c24df87c21812dd55d36deea3.pdf
 
 ###### Bangladesh Madrasa Teachers' Training Institute (BMTTI)
 
@@ -2601,9 +2613,9 @@ Web link: https://bmtti.gov.bd/
 
 Web link:
 
-- https://shorturl.at/SICTb
+1. https://shorturl.at/SICTb
 
-- https://shorturl.at/ReBba )
+2. https://shorturl.at/ReBba )
 
 - Please elaborate on each of the measures taken:
 
@@ -2613,7 +2625,7 @@ There is  separate  teacher's  recruitment  policy  in  secondary  and  College 
 
 (Reference:
 
-https://ntrca.portal.gov.bd/sites/default/files/files/ntrca.portal.gov.bd/page/8cc6b8c4_70fb _4f16_99cb_9932da176539/2024-04-01-05-19-beba6fd2e30cba25d917de1dff83b48c.pdf
+https://ntrca.portal.gov.bd/sites/default/files/files/ntrca.portal.gov.bd/page/8cc6b8c4_70fb_4f16_99cb_9932da176539/2024-04-01-05-19-beba6fd2e30cba25d917de1dff83b48c.pdf
 
 ###### 2. Bangladesh Accreditation Council (BAC)
 
@@ -2635,13 +2647,15 @@ GTI, based at Bangladesh Agricultural University, provides training and professi
 
 ###### 5. University Grants Commission (UGC) of Bangladesh:
 
-The UGC is the statutory body responsible for allocating funds, coordinating, and maintaining standards across universities in Bangladesh. It plays a key role in promoting higher education and ensuring institutional accountability.
+The UGC is the statutory body responsible for allocating funds, coordinating, and maintaining
 
 52
 
 [[END OF PAGE 52]]
 
 [[START OF PAGE 53]]
+
+standards across universities in Bangladesh. It plays a key role in promoting higher education and ensuring institutional accountability.
 
 (Reference: https://ugc.gov.bd/site/page/2aabc67f-5239-4cce-a4e7-8932faf0a70b/-)
 
@@ -2655,6 +2669,10 @@ The UGC is the statutory body responsible for allocating funds, coordinating, an
 
  Other:
 
+o Low quality educational infrastructure and materials
+
+o High student – teacher ratio
+
 - Please elaborate. Brief quantitative information may be added.
 
 Some more challenges are mentioned in the following:
@@ -2665,7 +2683,7 @@ Some more challenges are mentioned in the following:
 
 - Shortage  of  educational  infrastructures,  such  as  laboratories,  incubators,  research hubs, etc.
 
-- The teacher-student-ratio is not at an international standard (1:13). (Public universities 1:18 and Private universities 1:21, as per the 49 th UGC Annual Report published in 2023)
+- The teacher-student-ratio is not at an international standard (1:13). (Public universities 1:18 and Private universities 1:21, as per the 49th UGC Annual Report published in 2023)
 
 University Grants Commission of Bangladesh Annual Report published in 2023
 
@@ -2673,15 +2691,11 @@ University Grants Commission of Bangladesh Annual Report published in 2023
 
 ##### 3.3 Respect for human rights and fundamental freedoms
 
-For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SDG target 4.7. 41 Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation  and  that  the  future  consultation  on  the  1974  Recommendation concerning  Education  for  International  Understanding,  Co-operation  and  Peace  and  Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on *….+ will be used specifically for monitoring SDG4 indicator 4.7.1.
+For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SDG target 4.7.41 Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation  and  that  the  future  consultation  on  the  1974  Recommendation concerning  Education  for  International  Understanding,  Co-operation  and  Peace  and  Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on *….+ will be used specifically for monitoring SDG4 indicator 4.7.1.
 
 - Please  indicate  the  national  efforts  taken  in  directing  education  to  the  full  development  of  the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked):
 
 > 41 Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human  rights,  gender  equality,  promotion  of  a  culture  of  peace  and  non-violence,  global  citizenship  and appreciation of cultural diversity and of culture's contribution to sustainable development'.
-
-- o Low quality educational infrastructure and materials
-
-- o High student - teacher ratio
 
 53
 
@@ -2767,23 +2781,23 @@ This ordinance outlines the regulatory framework for the registration and manage
 
 (Reference: http://bdlaws.minlaw.gov.bd/act-details-330.html)
 
-###### Private Primary School Registration Rules 2023
+###### 2. Private Primary School Registration Rules 2023
 
 These rules provide updated guidelines for the registration and regulation of private primary schools in Bangladesh. They focus on ensuring quality education, proper infrastructure, and teacher certification, promoting accountability in private education.
 
-(Reference: https://file-dhaka.portal.gov.bd/uploads/f9ffd0a9-1f5c-46ce-b13e276cbea5d165//655/84e/1bd/65584e1bd653b748661004.pdf)
+(Reference: https://file-dhaka.portal.gov.bd/uploads/f9ffd0a9-1f5c-46ce-b13e-276cbea5d165//655/84e/1bd/65584e1bd653b748661004.pdf)
 
  Legal provisions provide for the rights of the parents /legal guardians for providing religious and moral education for their children. Please specify:
 
  Legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of non-state educational institutions. Please specify what is covered:
 
-  Registration
+ Registration
 
-  State monitoring and inspections
+ State monitoring and inspections
 
  Qualifications of teachers
 
-  Health and sanitation
+ Health and sanitation
 
 55
 
@@ -2791,19 +2805,19 @@ These rules provide updated guidelines for the registration and regulation of pr
 
 [[START OF PAGE 56]]
 
-  Safety  (children  learn  in  a  safe  environment  free  from  violence  or  harassment, including school-related gender-based violence (in and around schools)
+ Safety  (children  learn  in  a  safe  environment  free  from  violence  or  harassment, including school-related gender-based violence (in and around schools)
 
  Infrastructure
 
-  Curriculum
+ Curriculum
 
-  Student-teacher ratio
+ Student-teacher ratio
 
-  School fees
+ School fees
 
-  School closures
+ School closures
 
-  Other
+ Other
 
 The following are the regulatory frameworks for the minimum education standards for the establishment and functioning of non-state educational institutions:
 
@@ -2817,17 +2831,13 @@ This policy outlines the overall framework for educational standards and regulat
 
 This act regulates the establishment and operation of non-formal educational institutions, ensuring they meet specific standards to provide quality education. It sets the framework for accreditation and oversight of these institutions, enhancing access for marginalized groups.
 
-(Reference: https://bnfe.gov.bd/site/page/56778281-5ba7-4067-9385- 97b880afce51/NFE-Act-2014 )
+(Reference: https://bnfe.gov.bd/site/page/56778281-5ba7-4067-9385-97b880afce51/NFE-Act-2014 )
 
 ###### 3. Foreign Donations Regulatory Act 2016
 
 This law regulates the receipt of foreign donations by non-governmental organizations, including those involved in education, ensuring transparency and accountability in the use of foreign funds. It sets guidelines for non-state educational institutions receiving foreign assistance.
 
-(Reference:
-
-https://ngoab.gov.bd/sites/default/files/files/ngoab.portal.gov.bd/page/c2b974f0_dfd2_ 4013_8deb_90fd2d36759b/2024-06-02-05-01-
-
-8b0892067f464033c41631c8c436159d.pdf)
+(Reference: https://ngoab.gov.bd/sites/default/files/files/ngoab.portal.gov.bd/page/c2b974f0_dfd2_4013_8deb_90fd2d36759b/2024-06-02-05-01-8b0892067f464033c41631c8c436159d.pdf)
 
 ###### 4. NGO Affairs Bureau
 
@@ -2837,7 +2847,7 @@ This bureau oversees the registration, operation, and monitoring of NGOs in Bang
 
 ###### 5. Education Sector Plan
 
-The Education Sector Plan (2020/21 - 2024/25) provides a roadmap for achieving the country's educational goals, including collaboration with non-state actors. It highlights policies and strategies to ensure quality education, emphasizing partnerships with private and non-formal institutions.
+The Education Sector Plan (2020/21 – 2024/25) provides a roadmap for achieving the country's educational goals, including collaboration with non-state actors. It highlights policies and strategies to ensure quality education, emphasizing partnerships with private and non-formal institutions.
 
 (Reference:
 
@@ -2857,7 +2867,7 @@ This policy sets the standards for skill development programs in the country, in
 
 (Reference:
 
-https://nsda.portal.gov.bd/sites/default/files/files/nsda.portal.gov.bd/npfblock/2020-1221-14-24-8c85b4482cf8516df94dd6471eaf30a4.pdf )
+https://nsda.portal.gov.bd/sites/default/files/files/nsda.portal.gov.bd/npfblock/2020-12-21-14-24-8c85b4482cf8516df94dd6471eaf30a4.pdf )
 
 ###### 7. SDG 4 Strategic Framework
 
@@ -2879,7 +2889,7 @@ The Technical and Vocational Education and Training (TVET) Action Plan ensures t
 
 focuses on skill development aligned with national employment needs.
 
-(Reference: https://tmed.portal.gov.bd/site/page/4837827d-684c-468f-8318c8dd5890b25f/TVET-Action-Plan )
+(Reference: https://tmed.portal.gov.bd/site/page/4837827d-684c-468f-8318-c8dd5890b25f/TVET-Action-Plan )
 
 ###### 10. Technical and Madrasah Education Division
 
@@ -2907,9 +2917,9 @@ DPE oversees primary education institutions, including private and non-formal sc
 
 ###### Number of private institutions: Annual Primary School Census (APSC) 2023
 
-SL | Primary School Type | 2021 | 2022
+SL | Primary School Type | 2021 |  | 2022 |
 --- | --- | --- | --- | --- | ---
-No. of schools | % share | No. of schools | % share
+ |  | No. of schools | % share | No. of schools | % share
 1 | GPS | 65,566 | 55.1 | 65,565 | 57.2
 2 | Private School | 4,799 | 4.0 | 6,140 | 5.4
 3 | Ebtadayee Madrasah | 3,839 | 3.2 | 4,300 | 3.8
@@ -2920,23 +2930,21 @@ No. of schools | % share | No. of schools | % share
 8 | Shishu Kalyan Trust School | 1,614 | 1.4 | 228 | 0.2
 9 | Other NGO Centers | 205 | 0.2 | 2,238 | 2.0
 10 | Others | 5,400 | 4.5 | 1,472 | 1.3
-Total | 118,891 | 100.0 | 114,539 | 100.0
+Total |  | 118,891 | 100.0 | 114,539 | 100.0
 
 (Reference 1:
 
-https://www.dpe.gov.bd/sites/default/files/files/dpe.portal.gov.bd/publications/bfe86b9 4_5ace_4216_8d21_05b99550b57f/Final%20Report%20APSC%202023.pdf )
+https://www.dpe.gov.bd/sites/default/files/files/dpe.portal.gov.bd/publications/bfe86b94_5ace_4216_8d21_05b99550b57f/Final%20Report%20APSC%202023.pdf )
 
 Reference 2: Bangladesh Education Statistics 2023
 
-https://banbeis.portal.gov.bd/sites/default/files/files/banbeis.portal.gov.bd/npfblock/Ba ngladesh%20Education%20Statistics%202023%20(1).pdf
+https://banbeis.portal.gov.bd/sites/default/files/files/banbeis.portal.gov.bd/npfblock/Bangladesh%20Education%20Statistics%202023%20(1).pdf
 
 Reference 3: National Student Assessment 2022
 
-https://dpe.portal.gov.bd/sites/default/files/files/dpe.portal.gov.bd/publications/27a088 01_1d5d_4e08_8fdb_25a4a693a2f3/NSA-2022%20Final%20Report.pdf )
+https://dpe.portal.gov.bd/sites/default/files/files/dpe.portal.gov.bd/publications/27a08801_1d5d_4e08_8fdb_25a4a693a2f3/NSA-2022%20Final%20Report.pdf )
 
 - What challenges were encountered in non-state education provision?
-
-- Please elaborate. Brief quantitative information may be added.
 
  Low quality educational infrastructure and materials
 
@@ -2952,11 +2960,13 @@ https://dpe.portal.gov.bd/sites/default/files/files/dpe.portal.gov.bd/publicatio
 
 Not Applicable
 
+- Please elaborate. Brief quantitative information may be added.
+
 There  are  issues  of  equity  and  inclusion  in  private  provision  education  institutions  because they changes, where there no issues of equity and inclusion in NGOs, CBOs Community Based Institutions  because  they  target  the  most  marginalised  and  vulnerable  groups  and  ensure equity and inclusion issues.
 
 (Reference:
 
-https://www.researchgate.net/publication/267332419_Exploring_the_Challenges_of_Achievi ng_Equity_through_Inclusion_in_the_Bangladeshi_Education_Context)
+https://www.researchgate.net/publication/267332419_Exploring_the_Challenges_of_Achieving_Equity_through_Inclusion_in_the_Bangladeshi_Education_Context)
 
 58
 
@@ -2978,13 +2988,13 @@ Please indicate the relevant text and provisions:
 
 This master plan promotes the blended learning approach, combining face-to-face and digital education  methods  to  ensure  flexible,  inclusive,  and  high-quality  learning  experiences.  It emphasizes  capacity  building  for  teachers,  digital  content  development,  and  infrastructure support.
 
-(Reference: https://motj.gov.bd/site/publications/a7e65e99-e990-4f05-97a3-4ee23e7f56ba/Blended-education-Master-Plan-DOT- )
+(Reference: https://motj.gov.bd/site/publications/a7e65e99-e990-4f05-97a3-4ee23e7f56ba/-Blended-education-Master-Plan-DOT- )
 
 ###### 2. National ICT Master Plan
 
 The National ICT Master Plan focuses on enhancing digital education through ICT integration in schools and colleges. It includes developing ICT infrastructure, digital teaching materials, and teacher training to support the adoption of digital education across all levels.
 
-(Reference: https://shed.portal.gov.bd/site/page/5d6e372d-1a7a-470b-943e1dafd788e256/ICT-Master-plan-(Revised)- )
+(Reference: https://shed.portal.gov.bd/site/page/5d6e372d-1a7a-470b-943e-1dafd788e256/ICT-Master-plan-(Revised)- )
 
 ###### 3. Digitization in Education
 
@@ -2992,7 +3002,7 @@ This  document  outlines  the  government's  efforts  to  digitize  education  t
 
 (Reference:
 
-https://shed.gov.bd/sites/default/files/files/shed.portal.gov.bd/publications/65d96a81_2dd3 _491d_98ca_1db6f5231d41/dgitazation.pdf)
+https://shed.gov.bd/sites/default/files/files/shed.portal.gov.bd/publications/65d96a81_2dd3_491d_98ca_1db6f5231d41/dgitazation.pdf)
 
 ###### 4. Bangladesh Research and Education Network (BdREN)
 
@@ -3032,13 +3042,13 @@ The  Perspective  Plan  outlines  the  vision  for  Bangladesh's  digital  trans
 
 (Reference:
 
-https://oldweb.lged.gov.bd/uploadeddocument/unitpublication/1/1049/vision%2020212041.pdf )
+https://oldweb.lged.gov.bd/uploadeddocument/unitpublication/1/1049/vision%202021-2041.pdf )
 
  Core legislations, policies, strategies or plans for the management, privacy, security, storage, transfer, use, and sharing of education data internally and externally to ensure the right to privacy of learners and education stakeholders (e.g., informed consent, transparent usage policies, etc.)
 
  Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.
 
- Measures  to  remove  barriers  to  accessing  digital  content 45 ,  including  ensuring  access  to curriculum-aligned  digital  content  available  on  free,  public,  multi-modal  national  platforms;  highquality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
+ Measures  to  remove  barriers  to  accessing  digital  content 45 ,  including  ensuring  access  to curriculum-aligned  digital  content  available  on  free,  public,  multi-modal  national  platforms;  high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
 
  Digital  skills  incorporated  into  pre-  and  in-service  teacher  and  leadership  training  curricula  to create  a  culture  of  digital  innovation  and  growth  anchored  in  equity  and  inclusion  that  enables ongoing professional development for existing and emerging staff.
 
@@ -3083,7 +3093,7 @@ BOU  provides  education  through  distance  learning,  targeting  those  who  c
 
 (Website: http://www.bou.ac.bd/)
 
-###### 5. Integrated Primary Education Management Information System ( IPEMIS)
+###### 5. Integrated Primary Education Management Information System (IPEMIS)
 
 The Integrated Primary Education Management Information System (IPEMIS) is an online tool used  for  data  management  in  the  primary  education  sector.  It  enhances  administrative efficiency by monitoring school performance, attendance, and other educational metrics.
 
@@ -3135,11 +3145,11 @@ The Blended Education Master Plan has been developed with a view to address any 
 
 (Reference:
 
-https://motj.gov.bd/site/publications/a7e65e99-e990-4f05-97a3-4ee23e7f56ba/-Blendededucation-Master-Plan-DOT-)
+https://motj.gov.bd/site/publications/a7e65e99-e990-4f05-97a3-4ee23e7f56ba/-Blended-education-Master-Plan-DOT-)
 
 #### 4 Strengthening governance systems
 
-For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms;  quality assurance; management  information  systems; transparent and effective financing procedures and mechanisms;  and  institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and accessible data are available' (para. 18).
+For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms;  quality assurance; management  information  systems; transparent and effective financing procedures and mechanisms;  and  institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and accessible data are available" (para. 18).
 
 - Please indicate the measures taken in terms of governance (several items may be ticked):
 
@@ -3177,11 +3187,11 @@ The APSC is a crucial governance tool for collecting comprehensive data on prima
 
 (Reference:
 
-https://dpe.portal.gov.bd/sites/default/files/files/dpe.portal.gov.bd/publications/bfe86b94_ 5ace_4216_8d21_05b99550b57f/APSC%202023_Final%20Report%20(2).pdf )
+https://dpe.portal.gov.bd/sites/default/files/files/dpe.portal.gov.bd/publications/bfe86b94_5ace_4216_8d21_05b99550b57f/APSC%202023_Final%20Report%20(2).pdf )
 
 ###### 5. Annual Reports Made Public by University Grants Commission (UGC)
 
-Monitoring results are made public through the Annual Report, published by the University Grants  Commission  (UGC)  of  Bangladesh  every  year.  For  updated  data  and  relevant information, the 49 th UGC Annual Report was published in 2023 .
+Monitoring results are made public through the Annual Report, published by the University Grants  Commission  (UGC)  of  Bangladesh  every  year.  For  updated  data  and  relevant information, the 49th UGC Annual Report was published in 2023.
 
 (Reference https://shorturl.at/0jL0V)
 
@@ -3219,13 +3229,13 @@ Not Applicable
 
  Absence of supportive/ inconsistent/obsolete legal and policy environment
 
- Lack or weakness of monitoring systems - including the lack of reliable data
+ Lack or weakness of monitoring systems – including the lack of reliable data
 
 Not Applicable
 
 - Please elaborate. Brief quantitative information may be added.
 
-###### Integrated Primary Education Management Information System ( IPEMIS)
+###### Integrated Primary Education Management Information System (IPEMIS)
 
 The  Integrated  Primary  Education  Management  Information  System  (IPEMIS)  is  an  online tool used for data management in the primary education sector. It enhances administrative efficiency by monitoring school performance, attendance, and other educational metrics.
 
