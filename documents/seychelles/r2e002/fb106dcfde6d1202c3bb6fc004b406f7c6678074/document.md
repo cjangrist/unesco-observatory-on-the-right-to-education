@@ -26,11 +26,9 @@ In 1998, a committee was formed to produce a new policy document.  Several draft
 
 [[START OF PAGE 3]]
 
-We are pleased to present the Education Policy Document entitled 'Education for a Learning Society'.  The title emphasizes the on going nature of learning.  It conveys a vision of a Seychellois society, which is alert, responsive and pro-active.  This 'learning contact with the values that constitute its identity.
+We are pleased to present the Education Policy Document entitled 'Education for a Learning Society'. The title emphasizes the on going nature of learning. It conveys a vision of a Seychellois society, which is alert, responsive and pro-active. This 'learning society' remains firmly in control of its own destiny by embracing change, without losing contact with the values that constitute its identity.
 
-'Education for a Learning Society' will become the living document which it is intended to be when teachers and educators everywhere allow its philosophy and values to permeate every aspect of their professional practice.  The Ministry of Education invites can be transformed into a living reality.
-
-society' remains firmly in control of its own destiny by embracing change, without losing all its personnel to ponder the messages contained in this policy document, so that they
+'Education for a Learning Society' will become the living document which it is intended to be when teachers and educators everywhere allow its philosophy and values to permeate every aspect of their professional practice. The Ministry of Education invites all its personnel to ponder the messages contained in this policy document, so that they can be transformed into a living reality.
 
 # EDUCATION FOR A LEARNING SOCIETY
 
@@ -41,15 +39,13 @@ The Mission of the Ministry of Education is to build a coherent and comprehensiv
 ## PRINCIPLES
 In a world where market forces and advances in communication technology are accelerating the trend towards globalisation and the interpenetration of cultures, one of the main challenges for young people is to play their part as dynamic agents of change while maintaining the equilibrium which comes from a sense of identity and continuity. This is also the challenge for Education today. The principles outlined below will guarantee that education remains firmly rooted in the history and cultural tradition of Seychelles, at the same time as it acts as an agent of transition and transformation. The principles of Equity , Quality and Accountability relate primarily to the operational goals of the Education service, while the next four principles, namely, Education for Empowerment, Education for Productivity, Education for Social Cohesion and Education for Global Participation relate to the terminal goals of Education programmes.
 ### Equity
-maintenance of a tradition of social harmony, and the recognition of the right of every
-
-Equity is a necessary condition in a society founded on the dignity of the person, the citizen to contribute in a meaningful way to national development.
+Equity is a necessary condition in a society founded on the dignity of the person, the maintenance of a tradition of social harmony, and the recognition of the right of every citizen to contribute in a meaningful way to national development.
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-In Seychelles, equity has largely been achieved in terms of equality of access to schools and to programmes of education and training.  The concept of equity now needs to be extended to provide for programmes which will enhance the conditions for optimum achievement by every group, including the gifted, the slow learner and the learningdisabled.  Emphasis also needs to be put on redressing gender imbalances in performance within general education, as well as providing equal opportunities for training and fair chances of success to both genders at the post-secondary level.  Training opportunities need to be extended to match the career aspirations and ability profiles of young people and maximise the contribution of every individual to national development.
+In Seychelles, equity has largely been achieved in terms of equality of access to schools and to programmes of education and training.  The concept of equity now needs to be extended to provide for programmes which will enhance the conditions for optimum achievement by every group, including the gifted, the slow learner and the learning-disabled.  Emphasis also needs to be put on redressing gender imbalances in performance within general education, as well as providing equal opportunities for training and fair chances of success to both genders at the post-secondary level.  Training opportunities need to be extended to match the career aspirations and ability profiles of young people and maximise the contribution of every individual to national development.
 
 'Equity' encapsulates the following key concepts:
 
@@ -97,7 +93,7 @@ In a climate of increased competitiveness and rising expectations from students,
 
 We have better educated and better informed parents today who want a say in the education of their children.  Accountability to those served by education must lead to the development of more open and transparent systems for providing regular information on all aspects of the young person's education, and acknowledge the rights of both learners and their parents to be kept informed and consulted on matters which affect them.
 
-Accountability also comes from within through the development of a culture of selfevaluation, planning and target setting which will permeate all educational institutions and sections of the Ministry.  This self-evaluation and reflection at both the personal and institutional level, supplemented by external evaluation covering all aspects of educational services, will provide an open, transparent system against which performance can be measured and responsibilities for improvement shared among all the partners in education.
+Accountability also comes from within through the development of a culture of self-evaluation, planning and target setting which will permeate all educational institutions and sections of the Ministry.  This self-evaluation and reflection at both the personal and institutional level, supplemented by external evaluation covering all aspects of educational services, will provide an open, transparent system against which performance can be measured and responsibilities for improvement shared among all the partners in education.
 
 'Accountability' encapsulates the following key concepts:
 
@@ -149,7 +145,7 @@ Through the vigorous pursuit of 'relevance' in all education and training progra
 
 The strength of a small economy rests on the capacity and determination of its work force to generate the wealth that can sustain programmes of social and economic development. This process of wealth-creation in Seychelles relies on the eradication of attitudes of passivity and dependency, and the development of habits of self-reliance, entrepreneurship and industriousness, in both the private and public sector.
 
-Productivity will be enhanced through an Education system which sets high expectations, accustoms young people to hard work, exposes them to both manual and intellectual work in their formative years, and prepares them thoroughly for career choice and the transition to the world of work.  As the young person progresses through the education system, a balance will be sought between breadth of exposure to a range of practical work and more specialised skills development and training.  The aim will be for the young person to achieve both a high level of competence and the resourcefulness to adjust to a fast-changing work environment.  The cultivation of skills and attitudes for effective teamworking will be an essential feature of an education that prepares the young for the modern work-place.
+Productivity will be enhanced through an Education system which sets high expectations, accustoms young people to hard work, exposes them to both manual and intellectual work in their formative years, and prepares them thoroughly for career choice and the transition to the world of work.  As the young person progresses through the education system, a balance will be sought between breadth of exposure to a range of practical work and more specialised skills development and training.  The aim will be for the young person to achieve both a high level of competence and the resourcefulness to adjust to a fast-changing work environment.  The cultivation of skills and attitudes for effective team-working will be an essential feature of an education that prepares the young for the modern work-place.
 
 'Education for Productivity' encapsulates the following key concepts:
 
@@ -219,45 +215,43 @@ Seychelles' contribution to the realisation of two of mankind's most cherished a
 
 In carrying out its mission, the Ministry of Education is committed to:
 
-adopting a planned approach to education development based on systematic investigation and research
+1. adopting a planned approach to education development based on systematic investigation and research
 
-creating an all-pervasive culture of quality, based on enquiry and self-evaluation
+2. creating an all-pervasive culture of quality, based on enquiry and self-evaluation
 
-developing a system which is transparent and accountable to the public for the quality of the education which it provides
+3. developing a system which is transparent and accountable to the public for the quality of the education which it provides
 
-providing an environment which encourages schools to share responsibility for improvement
+4. providing an environment which encourages schools to share responsibility for improvement
 
-establishing a coordinated network of support services which places schools at the centre of education development
+5. establishing a coordinated network of support services which places schools at the centre of education development
 
-creating a system which recognises and rewards good performance and provides the conditions for the continuing professional development of staff
+6. creating a system which recognises and rewards good performance and provides the conditions for the continuing professional development of staff
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-- establishing structures and processes which promote the widest possible participation of professionals in policy-making
+7. establishing structures and processes which promote the widest possible participation of professionals in policy-making
 
-- building effective partnerships based on cooperation and open communication with all stake-holders in education
+8. building effective partnerships based on cooperation and open communication with all stake-holders in education
 
-- creating an inclusive school environment which challenges every individual to achieve his/her highest potential
+9. creating an inclusive school environment which challenges every individual to achieve his/her highest potential
 
-- establishing a system of human resource training and development which produces a strong cadre of leaders and managers in education
+10. establishing a system of human resource training and development which produces a strong cadre of leaders and managers in education
 
-- providing a flexible and innovative system of education which widens access for life-long learning
+11. providing a flexible and innovative system of education which widens access for life-long learning
 
-- developing national curricula which anticipate and respond to the individual and collective needs of learners in a fast-changing world
+12. developing national curricula which anticipate and respond to the individual and collective needs of learners in a fast-changing world
 
-- providing for the development and equitable distribution of quality resources to support learning in schools
+13. providing for the development and equitable distribution of quality resources to support learning in schools
 
-- developing an efficient administrative system which guarantees the most costeffective use of educational resources
+14. developing an efficient administrative system which guarantees the most cost-effective use of educational resources
 
-- providing the widest possible access to information technology and harnessing its full potential for supporting and enhancing the learning process, and increasing the effectiveness of management in education
+15. providing the widest possible access to information technology and harnessing its full potential for supporting and enhancing the learning process, and increasing the effectiveness of management in education
 
 ## STRUCTURE OF THE EDUCATION SYSTEM
 
 Overseas Institutions
-
-Polytechnic
 
 Polytechnic
 
@@ -281,7 +275,7 @@ C
 
 Secondary Education
 
-(5 years (S1 to S5)
+(5 years (S1 to S5))
 
 Primary Education
 
@@ -293,11 +287,13 @@ Crèche Education
 
 *Adult Learning and Distance Learning
 
-Seychelles has established a comprehensive and co-educational system of schooling with a system of Further Education through the Polytechnic and other training institutions for young people who meet the selection criteria.  In addition, vocational institutions are also being developed.  School is compulsory for children between the age of six and sixteen.
+Seychelles has established a comprehensive and co-educational system of schooling with a system of Further Education through the Polytechnic and other training institutions for young people who meet the selection criteria.  In addition,
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+
+vocational institutions are also being developed.  School is compulsory for children between the age of six and sixteen.
 
 Although Crèche Education is not compulsory, almost all children in the 3½ to 5½ year age group attend crèche.  Crèche schools are normally adjacent to and form an integral part of the district Primary Schools.
 
@@ -452,7 +448,7 @@ The afore-mentioned goals of education will be achieved through a coherent syste
 
  engage in the all-round development of the young person through an active commitment to all forms of learning, including learning that is not based in the activities of the formal curriculum
 
- initiate and/or participate in classroom-based action-research, and engage in selfappraisal and critical evaluation of his/her work
+ initiate and/or participate in classroom-based action-research, and engage in self-appraisal and critical evaluation of his/her work
 
  contribute to school-based curriculum development; produce and make appropriate use of a range of learning resources
 
@@ -468,13 +464,13 @@ The afore-mentioned goals of education will be achieved through a coherent syste
 
  develop commitment to life-long learning and to professional development as a continuous and permanent process
 
-Teacher Education will be built on a sound understanding of society in Seychelles and of the evolution of the education system in the context of the changes within that society. Teacher Education and Training will be delivered through a unified system which promotes life-long learning, with initial and in-service training being viewed as a continuum.  Classroom action-research will be actively promoted as one of the most effective ways of ensuring that teachers constantly reflect on their teaching and seek to perfect their practice.  The habit of dialogue with peers on professional matters will also be actively promoted.
+Teacher Education will be built on a sound understanding of society in Seychelles and of
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
-(this page came through the extractor with no text)
+the evolution of the education system in the context of the changes within that society. Teacher Education and Training will be delivered through a unified system which promotes life-long learning, with initial and in-service training being viewed as a continuum. Classroom action-research will be actively promoted as one of the most effective ways of ensuring that teachers constantly reflect on their teaching and seek to perfect their practice. The habit of dialogue with peers on professional matters will also be actively promoted.
 
 [[END OF PAGE 14]]
 
