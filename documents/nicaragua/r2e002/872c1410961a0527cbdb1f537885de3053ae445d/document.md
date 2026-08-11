@@ -48,7 +48,7 @@ Los Ministerios de Estado serán los siguientes:
 
 1. Ministerio de Relaciones Exteriores. 2. Ministerio de Gobernación. 3. Ministerio de Defensa. 4. Ministerio de Educación. 5. Ministerio de Salud. 6. Ministerio Agropecuario y Forestal. 7. Ministerio de Fomento, Industria y Comercio. 8. Ministerio de Transporte e Infraestructura. 9. Ministerio de Hacienda y Crédito Público. 10. Ministerio del Ambiente y de los Recursos Naturales. 11. Ministerio de la Familia, Adolescencia y Niñez. 12. Ministerio de Energía y Minas.
 
-- Ministerio del Trabajo.
+13. Ministerio del Trabajo.
 
 ## Artículo 2.
 Se reforma el artículo 14 de la Ley 290 Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo, el cual se leerá así:
@@ -56,7 +56,7 @@ Se reforma el artículo 14 de la Ley 290 Ley de Organización, Competencia y Pro
 ### "Arto. 14.
 Los Entes Descentralizados que a continuación se enumeran estarán bajo la Rectoría Sectorial de:
 
-1. Presidencia de la República.
+I. Presidencia de la República.
 
 a. Banco Central de Nicaragua. b. Fondo de Inversión Social de Emergencia. c. Instituto Nicaragüense de Estudios Territoriales. d. Instituto Nicaragüense de Energía. e. Instituto Nicaragüense de Acueductos y Alcantarillados. f. Instituto Nicaragüense de Telecomunicaciones y Correos. g. Instituto Nicaragüense de Seguridad Social. h. Instituto Nicaragüense de Seguros y Reaseguros. i. Procuraduría General de Justicia. j. Instituto de Desarrollo Rural. k. Instituto de Vivienda y Rural. l. Empresa Nacional de Puertos (ENAP). m. Instituto Nacional de Información de Desarrollo. n. Instituto Nicaragüense de Cultura. o. Instituto Nicaragüense de la Juventud. p. Instituto Nicaragüense de Deportes. q. Instituto Nicaragüense de la Pesca y Acuacultura. r. Instituto Nicaragüense de la Mujer. s. Instituto Nicaragüense de Turismo. t. Instituto Nicaragüense de Fomento Municipal.
 
@@ -68,7 +68,7 @@ III. Ministerio Agropecuario y Forestal.
 
 a. Instituto Nicaragüense de Tecnología Agropecuaria.
 
-- Instituto Nacional Forestal.
+b. Instituto Nacional Forestal.
 
 IV. Ministerio del Trabajo.
 
@@ -78,9 +78,9 @@ a. Instituto Nacional Tecnológico.
 
 [[START OF PAGE 3]]
 
-- Banco Central Nicaragua.
+V. Banco Central Nicaragua.
 
-- Financiera Nicaragüense de Inversiones (FNI).
+ a. Financiera Nicaragüense de Inversiones (FNI).
 
 Las funciones de los Entes Descentralizados, se encuentran establecidas en sus leyes orgánicas o creadoras y en las modificaciones que se originan de la presente Ley.
 
@@ -94,32 +94,32 @@ Se reforman los artículos 18, 20, 23 y 29 de la Ley 290 Ley de Organización, C
 ### Arto. 18.
 Ministerio de Gobernación. Al Ministerio de Gobernación le corresponden las funciones siguientes:
 
-- El Ministro de Gobernación en representación del Presidente de la República, dirigirá, coordinará y supervisará a la Policía Nacional a través del Director General de la misma, de conformidad con la Ley de la Policía Nacional.
+a) El Ministro de Gobernación en representación del Presidente de la República, dirigirá, coordinará y supervisará a la Policía Nacional a través del Director General de la misma, de conformidad con la Ley de la Policía Nacional.
 
-- Coordinar a través de la Policía Nacional las actividades necesarias para garantizar el orden público, la seguridad de los ciudadanos, la persecución del delito, e informar de ello periódica y oportunamente al Presidente de la República.
+b) Coordinar a través de la Policía Nacional las actividades necesarias para garantizar el orden público, la seguridad de los ciudadanos, la persecución del delito, e informar de ello periódica y oportunamente al Presidente de la República.
 
-- Formular y proponer proyectos dirigidos a la prevención del delito y apoyar en su ejecución a la instancia correspondiente.
+c) Formular y proponer proyectos dirigidos a la prevención del delito y apoyar en su ejecución a la instancia correspondiente.
 
-- Coordinar, dirigir y administrar el Sistema Penitenciario Nacional.
+d) Coordinar, dirigir y administrar el Sistema Penitenciario Nacional.
 
-- Coordinar la Dirección General de Migración y Extranjería.
+e) Coordinar la Dirección General de Migración y Extranjería.
 
-- Coordinar, dirigir y administrar la Dirección General de Bomberos de Nicaragua.
+f) Coordinar, dirigir y administrar la Dirección General de Bomberos de Nicaragua.
 
-- Inscribir los Estatutos de las Personas Jurídicas sin fines de lucro, administrar su registro y supervisar su funcionamiento.
+g) Inscribir los Estatutos de las Personas Jurídicas sin fines de lucro, administrar su registro y supervisar su funcionamiento.
 
-- Organizar delegaciones departamentales, cuya función será la de coordinar la actuación de las dependencias del Ministerio en el territorio. "
+h) Organizar delegaciones departamentales, cuya función será la de coordinar la actuación de las dependencias del Ministerio en el territorio."
 
 ### "Ministerio de Defensa
 
 ### Arto. 20.
 Al Ministerio de Defensa le corresponden las funciones siguientes:
 
-- Por delegación del Presidente de la República, dirige la elaboración de las políticas y estrategias para la defensa de la soberanía, la independencia y la integridad territorial;
+a) Por delegación del Presidente de la República, dirige la elaboración de las políticas y estrategias para la defensa de la soberanía, la independencia y la integridad territorial;
 
-- Apoyar al Presidente de la República en la procuración de condiciones, recursos y mecanismos para que el Ejército de Nicaragua cumpla con las misiones asignadas por mandato constitucional y las establecidas en las leyes;
+b) Apoyar al Presidente de la República en la procuración de condiciones, recursos y mecanismos para que el Ejército de Nicaragua cumpla con las misiones asignadas por mandato constitucional y las establecidas en las leyes;
 
-- Coadyuvar con el Presidente de la República en Consejo de Ministros, a fin de disponer la intervención del Ejército de Nicaragua en apoyo a la Policía Nacional, cuando así lo haya dispuesto el Presidente de la República en Consejo de Ministros de conformidad al párrafo
+c) Coadyuvar con el Presidente de la República en Consejo de Ministros, a fin de disponer la intervención del Ejército de Nicaragua en apoyo a la Policía Nacional, cuando así lo haya dispuesto el Presidente de la República en Consejo de Ministros de conformidad al párrafo
 
 [[END OF PAGE 3]]
 
@@ -127,106 +127,106 @@ Al Ministerio de Defensa le corresponden las funciones siguientes:
 
 segundo del artículo 92 de la Constitución Política y al artículo 6 incisos 2 y 3 de la Ley No. 181;
 
-- Tramitar ante la Presidencia de la República las propuestas de candidatos solicitada al Alto Mando del Ejército de Nicaragua de oficiales que ocuparán cargos de agregados militares, navales y aéreos y a los que representarán al Estado de Nicaragua ante los organismos militares internacionales;
+d) Tramitar ante la Presidencia de la República las propuestas de candidatos solicitada al Alto Mando del Ejército de Nicaragua de oficiales que ocuparán cargos de agregados militares, navales y aéreos y a los que representarán al Estado de Nicaragua ante los organismos militares internacionales;
 
-- Participar en la elaboración y gestión para la aprobación del Presupuesto de ingresos y egresos del Sector Defensa y su incorporación en el Proyecto de la Ley Anual del Presupuesto General de la República de conformidad a la ley de la materia;
+e) Participar en la elaboración y gestión para la aprobación del Presupuesto de ingresos y egresos del Sector Defensa y su incorporación en el Proyecto de la Ley Anual del Presupuesto General de la República de conformidad a la ley de la materia;
 
-- Integrar las instancias Gubernamentales de las que por ley participa, asegurando la coordinación interinstitucional;
+f) Integrar las instancias Gubernamentales de las que por ley participa, asegurando la coordinación interinstitucional;
 
-- Representar al Gobierno de la República en las instancias y organismos internacionales relacionados a los temas de Defensa y Seguridad;
+g) Representar al Gobierno de la República en las instancias y organismos internacionales relacionados a los temas de Defensa y Seguridad;
 
-- Participar, de conformidad al marco jurídico existente, en las actividades de la Junta Directiva del Instituto de Previsión Social Militar (IPSM);
+h) Participar, de conformidad al marco jurídico existente, en las actividades de la Junta Directiva del Instituto de Previsión Social Militar (IPSM);
 
-- Participar en la formulación de políticas y disposiciones relativas a la navegación aérea y acuática;
+i) Participar en la formulación de políticas y disposiciones relativas a la navegación aérea y acuática;
 
-- Participar en la coordinación y ejecución de planes y programas relacionados al Desminado Humanitario y acción integral contra minas en el territorio nacional;
+j) Participar en la coordinación y ejecución de planes y programas relacionados al Desminado Humanitario y acción integral contra minas en el territorio nacional;
 
-- Apoyar acciones para la limitación y control de armas de conformidad a las disposiciones y normas sobre la materia;
+k) Apoyar acciones para la limitación y control de armas de conformidad a las disposiciones y normas sobre la materia;
 
-- Cumplir, en su ámbito de acción, con las facultades especificas contenidas en la Ley de Emergencia; y
+l) Cumplir, en su ámbito de acción, con las facultades especificas contenidas en la Ley de Emergencia; y
 
-- Promover, de conformidad a lo que determine el Presidente de la República, los planes y políticas que se refieran a Las relaciones civiles y militares.
+m) Promover, de conformidad a lo que determine el Presidente de la República, los planes y políticas que se refieran a Las relaciones civiles y militares.
 
 ### "Ministerio de Educación
 
 ### Arto. 23.
 Al Ministerio de Educación, le corresponden las funciones siguientes:
 
-- Proponer la política, planes y programas de educación nacional; dirigir y administrar su ejecución, exceptuando la Educación Superior.
+a. Proponer la política, planes y programas de educación nacional; dirigir y administrar su ejecución, exceptuando la Educación Superior.
 
-- Formular propuestas sobre normas del proceso educativo, dirigir y administrar su ejecución.
+b. Formular propuestas sobre normas del proceso educativo, dirigir y administrar su ejecución.
 
-- Otorgar la autorización de la administración, delegación de planteles educativos, dictar planes y programas de estudio y de servicios educativos. Dirigir y administra el sistema de supervisión y control de política y normas de la Educación Nacional. Todo ello de conformidad con la ley de la materia.
+c. Otorgar la autorización de la administración, delegación de planteles educativos, dictar planes y programas de estudio y de servicios educativos. Dirigir y administra el sistema de supervisión y control de política y normas de la Educación Nacional. Todo ello de conformidad con la ley de la materia.
 
-- Regular la política común de títulos de educación primaria, básica, secundaria y técnica, en este último caso en coordinación con el Instituto Nacional Tecnológico, además de dirigir y administrar su expedición y registro.
+d. Regular la política común de títulos de educación primaria, básica, secundaria y técnica, en este último caso en coordinación con el Instituto Nacional Tecnológico, además de dirigir y administrar su expedición y registro.
 
-- Formular y proponer la política, planes y programas de infraestructura y equipamiento escolar del sub-sistema de educación básica, media y formación docente.
+e. Formular y proponer la política, planes y programas de infraestructura y equipamiento escolar del sub-sistema de educación básica, media y formación docente.
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-- Coordinar la participación de la familia, los gremios, la comunidad, los gobiernos locales y las organizaciones sociales en la educación, a través de las instancias establecidas en la ley correspondiente.
+f. Coordinar la participación de la familia, los gremios, la comunidad, los gobiernos locales y las organizaciones sociales en la educación, a través de las instancias establecidas en la ley correspondiente.
 
-- Proponer planes y programas de investigación sobre educación, medio ambiente y el patrimonio cultural nicaragüense.
+g. Proponer planes y programas de investigación sobre educación, medio ambiente y el patrimonio cultural nicaragüense.
 
-- Administrar y dirigir la ejecución de los planes y programas de formación de docentes y las normas de registro y clasificación de docentes, su evaluación; así como la supervisión y control de las mismas de conformidad con la ley de la materia.
+h. Administrar y dirigir la ejecución de los planes y programas de formación de docentes y las normas de registro y clasificación de docentes, su evaluación; así como la supervisión y control de las mismas de conformidad con la ley de la materia.
 
-- Formular, promover, fomentar y ejecutar programas, proyectos y políticas en áreas que garanticen la participación y desarrollo integral de los nicaragüenses.
+i. Formular, promover, fomentar y ejecutar programas, proyectos y políticas en áreas que garanticen la participación y desarrollo integral de los nicaragüenses.
 
-- Las demás que le asignen las leyes o el Presidente de la República en el ámbito de su competencia. "
+j. Las demás que le asignen las leyes o el Presidente de la República en el ámbito de su competencia."
 
 ### "Ministerio de la Familia, Adolescencia y Niñez
 
 ### Arto. 29.
 Al Ministerio de la Familia, Adolescencia y Niñez le corresponden las funciones siguientes:
 
-- Aprobar o reformar, las Políticas Públicas que contribuyan al desarrollo de la familia, la promoción de la equidad de género, así como la atención y protección integral de la adolescencia y niñez.
+a. Aprobar o reformar, las Políticas Públicas que contribuyan al desarrollo de la familia, la promoción de la equidad de género, así como la atención y protección integral de la adolescencia y niñez.
 
-- Coordinar la ejecución de la Política Nacional de atención y protección integral a la niñez y adolescencia.
+b. Coordinar la ejecución de la Política Nacional de atención y protección integral a la niñez y adolescencia.
 
-- Rectorar, a través del Instituto Nicaragüense de la Mujer (INIM), el Programa Nacional de Equidad de Género.
+c. Rectorar, a través del Instituto Nicaragüense de la Mujer (INIM), el Programa Nacional de Equidad de Género.
 
-- Formular políticas, planes y programas que garanticen la participación efectiva del hombre y la mujer en condiciones de igualdad de oportunidades en el ámbito político, económico y social del país.
+d. Formular políticas, planes y programas que garanticen la participación efectiva del hombre y la mujer en condiciones de igualdad de oportunidades en el ámbito político, económico y social del país.
 
-- Impulsar proyectos y programas de promoción de equidad de género, atención y protección integral de la niñez y adolescencia.
+e. Impulsar proyectos y programas de promoción de equidad de género, atención y protección integral de la niñez y adolescencia.
 
-- Promover la participación de la sociedad civil en el proceso de desarrollo de la familia, la equidad de género, atención y protección integral de la adolescencia y niñez.
+f. Promover la participación de la sociedad civil en el proceso de desarrollo de la familia, la equidad de género, atención y protección integral de la adolescencia y niñez.
 
-- Proponer y ejecutar políticas que promuevan actitudes y valores que contribuyan a la formación integral de la niñez y adolescencia.
+g. Proponer y ejecutar políticas que promuevan actitudes y valores que contribuyan a la formación integral de la niñez y adolescencia.
 
-- Facilitar la ejecución de acciones integrales en beneficio de grupos de población vulnerable, niñez desvalida y abandonada, adultos mayores y a las personas con capacidades diferentes buscando soluciones de autosostenimiento.
+h. Facilitar la ejecución de acciones integrales en beneficio de grupos de población vulnerable, niñez desvalida y abandonada, adultos mayores y a las personas con capacidades diferentes buscando soluciones de autosostenimiento.
 
-- Promover y defender la vida desde su concepción en el seno materno, hasta su natural extinción (Promover y defender el derecho a la vida).
+i. Promover y defender la vida desde su concepción en el seno materno, hasta su natural extinción (Promover y defender el derecho a la vida).
 
-- Proponer anteproyectos de ley, decretos, reglamentos, resoluciones de acuerdo con los procedimientos establecidos por la Constitución de la República y demás leyes para fomentar la equidad de género y la atención y protección integral de la adolescencia y la niñez en los ámbitos de su competencia.
+j. Proponer anteproyectos de ley, decretos, reglamentos, resoluciones de acuerdo con los procedimientos establecidos por la Constitución de la República y demás leyes para fomentar la equidad de género y la atención y protección integral de la adolescencia y la niñez en los ámbitos de su competencia.
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-- Las demás que le asignen las leyes o el Presidente de la República en el ámbito de su competencia. "
+k. Las demás que le asignen las leyes o el Presidente de la República en el ámbito de su competencia."
 ## Artículo 4.
 Se adiciona el artículo 29 bis que se leerá de la siguiente manera:
 ### "Ministerio de Energía y Minas
 ### Arto. 29 bis.
 Al Ministerio de Energía y Minas le corresponden las siguientes funciones y atribuciones: a) Formular, proponer, coordinar y ejecutar el Plan estratégico y Políticas Públicas del sector energía y recursos geológicos. b) Elaborar las normas, criterios, especificaciones, reglamentos y regulaciones técnicas que regirán las actividades de reconocimiento, exploración, explotación, aprovechamiento, producción, transporte, transformación, distribución, manejo y uso de los recursos energéticos, de conformidad con las normas y la política energética. c) Revisar, actualizar y evaluar periódicamente el Plan estratégico y políticas públicas del sector energía, especialmente los aspectos del balance energético la demanda y la oferta, la conservación de energía, las políticas de precios y subsidios en el servicio eléctrico, las políticas de cobertura de servicio en el país, incluyendo la electrificación rural y las políticas y estrategias de financiamiento e inversiones del sector energía. d) Aprobar y poner en vigencia las normas técnicas de la regulación de las actividades de generación, transmisión y distribución del sector eléctrico a propuesta del Ente Regulador. Así como elaborar, aprobar y poner en vigencia las normas, resoluciones y disposiciones administrativas para el uso de la energía eléctrica, el aprovechamiento de los recursos energéticos y geológicos en forma racional y eficiente, así como las relativas al buen funcionamiento de todas las actividades del sector hidrocarburos. e) Otorgar, modificar, prorrogar o cancelar los permisos de reconocimiento y concesiones de uso de cualquier fuente de energía, recursos geológicos energéticos y licencias de operación para importación, exportación, refinación, transporte, almacenamiento y comercialización de hidrocarburos así como las autorizaciones de construcción de instalaciones petroleras, sin perjuicio del cumplimiento de lo dispuesto por las leyes urbanísticas y de construcción. f) Otorgar y prorrogar las licencias de generación y transmisión de energía, así como las concesiones de distribución. Declarar la caducidad o cancelar las mismas por iniciativa propia o a propuesta del Ente Regulador por incumplimientos demostrados a sus contratos de Licencia o Concesión. g) Realizar o participar en conjunto con el Ente Regulador de las inspecciones de obras e instalaciones de los titulares de licencias y concesiones para la generación, transmisión y distribución de energía eléctrica. h) Negociar los contratos de exploración y explotación petrolera y de recursos geológicos. La firma de estos, estará a cargo del Presidente de la República o su Delegado. i) Dirigir el funcionamiento y administración de las empresas del Estado que operan en el sector energético. j) Promover relaciones con las entidades financieras y el sector privado para evaluar las fuentes de financiamiento accesibles y proponer estrategias de financiamiento en el sector energético, geológico energético e hidrocarburos, tanto en las inversiones públicas como en las privadas.
 
-- Administrar y reglamentar el Fondo para el Desarrollo de la Industria Eléctrica Nacional.
+k) Administrar y reglamentar el Fondo para el Desarrollo de la Industria Eléctrica Nacional.
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-- Impulsar las políticas y estrategias que permitan el uso de fuentes alternas de energía para la generación de electricidad.
+l) Impulsar las políticas y estrategias que permitan el uso de fuentes alternas de energía para la generación de electricidad.
 
-- Establecer y mantener actualizado el Sistema Nacional de Información de hidrocarburos y el Registro Central de Licencias y concesiones para operar en cualquier actividad o eslabón de la cadena de suministros.
+m) Establecer y mantener actualizado el Sistema Nacional de Información de hidrocarburos y el Registro Central de Licencias y concesiones para operar en cualquier actividad o eslabón de la cadena de suministros.
 
-- Elaborar y proponer anteproyectos de ley, decretos, reglamentos, resoluciones relacionados con el sector energía, hidrocarburos y recursos geológicos energéticos y aprobar su normativa interna.
+n) Elaborar y proponer anteproyectos de ley, decretos, reglamentos, resoluciones relacionados con el sector energía, hidrocarburos y recursos geológicos energéticos y aprobar su normativa interna.
 
-- ñ) Cualquier otra función relacionada con su actividad que lo atribuyan otras leyes de la materia y las específicamente asignadas a la Comisión Nacional de Energía.
+ñ) Cualquier otra función relacionada con su actividad que lo atribuyan otras leyes de la materia y las específicamente asignadas a la Comisión Nacional de Energía.
 
-- El Ministro de Energía y Minas, creará y coordinará una Comisión Nacional de Energía y Minas, como entidad consultiva con amplia participación, incluyendo la del sector privado de energía y minas. Todo lo relativo a su conformación, organización y funcionamiento, se determinará por medio de un reglamento. "
+o) El Ministro de Energía y Minas, creará y coordinará una Comisión Nacional de Energía y Minas, como entidad consultiva con amplia participación, incluyendo la del sector privado de energía y minas. Todo lo relativo a su conformación, organización y funcionamiento, se determinará por medio de un reglamento."
 
 ## Artículo 5.
 Se reforma el numeral 7 del artículo 49 de la Ley No. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo, el que se leerá así:
@@ -255,7 +255,7 @@ Cuando cualquier Ley, Decreto, Reglamento, Disposición o Acto Administrativo, d
 ## Artículo 9.
 Créase el Instituto Nicaragüense de la Pesca y Acuicultura (INPESCA) como ente autónomo descentralizado bajo la rectoría sectorial de la Presidencia de la República. Las funciones de INPESCA serán establecidas en su ley orgánica.
 
-Las facultades, competencias y recursos otorgados por esta Ley y su Reglamento, en la Ley No. 489, Ley de Pesca y Acuicultura y su Reglamento, Decreto No. 9-2005 y Decreto No. 402005, a la Administración Nacional de Pesca y Acuicultura (AdPesca) y a la Dirección General de Recursos Naturales en materia de pesca y acuicultura, ambas del Ministerio de Fomento, Industria y Comercio, así como las otorgadas al propio MIFIC en materias de pesca y acuicultura, se transfieren al nuevo Instituto Nicaragüense de la Pesca y acuicultura (INPESCA).
+Las facultades, competencias y recursos otorgados por esta Ley y su Reglamento, en la Ley No. 489, Ley de Pesca y Acuicultura y su Reglamento, Decreto No. 9-2005 y Decreto No. 40-2005, a la Administración Nacional de Pesca y Acuicultura (AdPesca) y a la Dirección General de Recursos Naturales en materia de pesca y acuicultura, ambas del Ministerio de Fomento, Industria y Comercio, así como las otorgadas al propio MIFIC en materias de pesca y acuicultura, se transfieren al nuevo Instituto Nicaragüense de la Pesca y acuicultura (INPESCA).
 
 ## Artículo 10.
 A partir de la entrada en vigencia de esta Ley, el Instituto Nicaragüense de Cultura y el Instituto Nicaragüense de la Mujer, pasan a constituirse como entes autónomos descentralizados bajo la rectoría sectorial de la Presidencia de la República, con las mismas facultades, competencias y recursos. De la misma manera, el Instituto de Seguridad Social y Desarrollo Humano adscrito al Ministerio de Gobernación, a partir de la entrada en vigencia de esta Ley se adscribe a la Policía Nacional.
@@ -277,7 +277,7 @@ Se reforma el artículo 16 numerales 6, 7, 9, 15, 16, 17, 20 y 21, y los artícu
 ### "Arto. 16.
 Son atribuciones y deberes del Director General de la Policía Nacional, las siguientes:
 
-- Informar oportunamente al Presidente de la República y al Ministro de Gobernación de los acontecimientos más relevantes ocurridos en el territorio nacional.
+6) Informar oportunamente al Presidente de la República y al Ministro de Gobernación de los acontecimientos más relevantes ocurridos en el territorio nacional.
 
 7) Garantizar el cumplimiento de las órdenes que emanen del Presidente de la República y del Ministro de Gobernación.
 
@@ -285,17 +285,17 @@ Son atribuciones y deberes del Director General de la Policía Nacional, las sig
 
 [[START OF PAGE 9]]
 
-- Administrar los recursos materiales y financieros, destinados a la Policía Nacional en el Presupuesto General de la República.
+9) Administrar los recursos materiales y financieros, destinados a la Policía Nacional en el Presupuesto General de la República.
 
-- Establecer relaciones de cooperación policial con organismos internacionales de acuerdo a la Constitución Política.
+15) Establecer relaciones de cooperación policial con organismos internacionales de acuerdo a la Constitución Política.
 
-- Firmar Acuerdos, Convenios o Protocolos de Colaboración y Ayuda para la institución policial.
+16) Firmar Acuerdos, Convenios o Protocolos de Colaboración y Ayuda para la institución policial.
 
-- Solicitar al Presidente de la República a través del Ministro de Gobernación autorización para ausentarse temporalmente y depositar el mando en uno de los Sub-Directores Generales.
+17) Solicitar al Presidente de la República a través del Ministro de Gobernación autorización para ausentarse temporalmente y depositar el mando en uno de los Sub-Directores Generales.
 
-- Otorgar los grados policiales desde el Escalafón Ejecutivo a Oficiales Superiores, de conformidad con lo establecido en la Ley y los Reglamentos.
+20) Otorgar los grados policiales desde el Escalafón Ejecutivo a Oficiales Superiores, de conformidad con lo establecido en la Ley y los Reglamentos.
 
-- Crear y otorgar condecoraciones policiales, y hacer las propuestas de policías que tengan méritos al Presidente de la República para las condecoraciones que éste otorgue. "
+21) Crear y otorgar condecoraciones policiales, y hacer las propuestas de policías que tengan méritos al Presidente de la República para las condecoraciones que éste otorgue."
 
 ### "Arto. 36.
 La División de Personal tiene bajo su responsabilidad el manejo y control del movimiento de personal de la policía, y es el órgano encargado de ejecutar políticas generales de personal y seguridad social establecidos por esta Ley y su Reglamento, y las políticas particulares de la Policía Nacional aprobadas por el Director General. "
@@ -328,9 +328,9 @@ La policía estará sujeta a la fiscalización, supervisión y auditoría del ó
 ### "Arto. 124.
 El Consejo Directivo es la autoridad máxima del instituto, es a quien corresponde la dirección, orientación, administración y determinación de las políticas del mismo y estará constituido por:
 
-- El Ministro de Gobernación o su delegado. 2) El Director General de la Policía Nacional. 3) El Subdirector General del Área de Gestión de la Policía. 4) El Jefe de Personal de la Policía Nacional. 5) El Jefe de Asesoría Legal de la Policía. 6) El Director General del Sistema Penitenciario o su delegado. 7) El Director General de Bomberos o su delegado. 8) El Director General de Migración y Extranjería o su delegado. 9) Un representante del Director Ejecutivo del INSS.
+1) El Ministro de Gobernación o su delegado. 2) El Director General de la Policía Nacional. 3) El Subdirector General del Área de Gestión de la Policía. 4) El Jefe de Personal de la Policía Nacional. 5) El Jefe de Asesoría Legal de la Policía. 6) El Director General del Sistema Penitenciario o su delegado. 7) El Director General de Bomberos o su delegado. 8) El Director General de Migración y Extranjería o su delegado. 9) Un representante del Director Ejecutivo del INSS.
 
-- Un representante de los pensionados.
+10) Un representante de los pensionados.
 
 Los delegados pertenecerán el Consejo Director por el tiempo que determinen los titulares de las entidades delegantes y el resto de miembros por el tiempo que permanezcan en sus cargos.
 
@@ -344,9 +344,9 @@ El Subdirector General de Gestiones será el vicepresidente y asumirá las funci
 ### "Arto. 126.
 Son atribuciones del Consejo Directivo como autoridad máxima del Instituto, las siguientes:
 
-- Autorizar, como actividades de inversión, la compra y venta o el arrendamiento de inmuebles u otro tipo de bienes, y el otorgamiento de hipotecas, prendas u otro tipo de garantías y definir las condiciones y procedimientos a seguir para tales fines, de conformidad con las leyes de la materia.
+3) Autorizar, como actividades de inversión, la compra y venta o el arrendamiento de inmuebles u otro tipo de bienes, y el otorgamiento de hipotecas, prendas u otro tipo de garantías y definir las condiciones y procedimientos a seguir para tales fines, de conformidad con las leyes de la materia.
 
-- Autorizar las operaciones o actividades financieras y de inversión que redunden en su beneficio.
+10) Autorizar las operaciones o actividades financieras y de inversión que redunden en su beneficio.
 
 ## Artículo 15.
 Se reformen los artículos 71, 81, 93 y 96 de la Ley No. 228, Ley de la Policía Nacional, en el sentido que donde dice Ministro de Gobernación, deberá leerse Presidente de la República a través del Ministro de Gobernación.
@@ -357,22 +357,22 @@ Se reforman los incisos c y d y se derogan los incisos e, k y s del artículo 4 
 ### "Arto. 4.
 El Instituto tendrá las siguientes funciones en relación con el sector de energía eléctrica:
 
-- Fiscalizar el cumplimiento de normas y regulaciones tendientes a aprovechar la energía en una forma racional y eficiente.
+c) Fiscalizar el cumplimiento de normas y regulaciones tendientes a aprovechar la energía en una forma racional y eficiente.
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
-- Proponer al Ministerio de Energía y Minas para su aprobación, las normas y regulaciones técnicas sobre la generación, transmisión, distribución y uso de energía eléctrica. "
+d) Proponer al Ministerio de Energía y Minas para su aprobación, las normas y regulaciones técnicas sobre la generación, transmisión, distribución y uso de energía eléctrica."
 
 ### "Arto. 5.
 El instituto tendrá las siguientes funciones en relación con el sector de hidrocarburos:
 
-- Aprobar, publicar y controlar los precios de los combustibles regulados.
+a) Aprobar, publicar y controlar los precios de los combustibles regulados.
 
-- Supervisar y controlar el cumplimiento por parte de los titulares de licencias y concesiones, de las especificaciones técnicas de calidad, regulaciones de protección al medio ambiente y de seguridad industrial en cada uno de los eslabones de la cadena de suministro de hidrocarburos.
+b) Supervisar y controlar el cumplimiento por parte de los titulares de licencias y concesiones, de las especificaciones técnicas de calidad, regulaciones de protección al medio ambiente y de seguridad industrial en cada uno de los eslabones de la cadena de suministro de hidrocarburos.
 
-- Imponer las sanciones a los concesionarios y licenciatarios por incumplimiento de las leyes, sus reglamentos, normas y especificaciones técnicas. "
+c) Imponer las sanciones a los concesionarios y licenciatarios por incumplimiento de las leyes, sus reglamentos, normas y especificaciones técnicas."
 
 ## Artículo 17.
 Los traslados de personal que, producto de las disposiciones de esta Ley deban efectuarse entre las instituciones del Estado, no deberán ser consideradas como terminación de contrato laboral, por lo que sin recibir liquidación de prestaciones pasarán a la nueva institución gozando de los derechos salariales y de antigüedad laboral adquiridos previamente.
@@ -380,11 +380,11 @@ Los traslados de personal que, producto de las disposiciones de esta Ley deban e
 ## Artículo 18.
 Se derogan las siguientes disposiciones:
 
-- Los artículos 12, 16 numeral 5 y 27 párrafo final de la Ley No. 228, Ley de la Policía Nacional.
+a. Los artículos 12, 16 numeral 5 y 27 párrafo final de la Ley No. 228, Ley de la Policía Nacional.
 
-- Los incisos e, k, n y s del artículo 4 y los incisos a, c, e y h del artículo 5 del Decreto No. 87, Ley Orgánica del Instituto Nicaragüense de Energía (INE).
+b. Los incisos e, k, n y s del artículo 4 y los incisos a, c, e y h del artículo 5 del Decreto No. 87, Ley Orgánica del Instituto Nicaragüense de Energía (INE).
 
-- Los artículos 4, 9, 10 11, 12, 13, 14 y 16 de Ley No. 272, Ley de Industria Eléctrica, publicada en la Gaceta No. 74 del 23 de abril de 1998.
+c. Los artículos 4, 9, 10 11, 12, 13, 14 y 16 de Ley No. 272, Ley de Industria Eléctrica, publicada en la Gaceta No. 74 del 23 de abril de 1998.
 
 ## Artículo 19.
 Las presentes reformas se consideran sustanciales y se ordena que el texto íntegro de la Ley No. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo con las reformas incorporadas, sea publicado en La Gaceta, Diario Oficial.
