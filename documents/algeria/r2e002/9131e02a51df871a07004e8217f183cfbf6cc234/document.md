@@ -49,14 +49,14 @@ Vu le décret exécutif n ° 94-265 du 29 Rabie El Aouel 1415  correspondant au 
 Décrète :
 
 ###### Article  1er.
--  Le  présent  décret  a  pour  objet  de  fixer les conditions de création, d'ouverture et de contrôle des établissements privés d'éducation et d'enseignement désignés ci-après 'établissements privés'.
+-  Le  présent  décret  a  pour  objet  de  fixer les conditions de création, d'ouverture et de contrôle des établissements privés d'éducation et d'enseignement désignés ci-après “établissements privés”.
 
 ## CHAPITRE I
 
 ### DISPOSITIONS GENERALES
 
 ###### Art. 2.
--  Est entendu par 'établissement privé d'éducation et d'enseignement', au sens du présent décret, tout établissement d'éducation et d'enseignement pré-scolaire, primaire, moyen et secondaire, crée par une personne physique ou morale de droit privé, dispensant un enseignement à titre onéreux.
+-  Est entendu par “établissement privé d'éducation et d'enseignement”, au sens du présent décret, tout établissement d'éducation et d'enseignement pré-scolaire, primaire, moyen et secondaire, crée par une personne physique ou morale de droit privé, dispensant un enseignement à titre onéreux.
 
 ###### Art. 3.
 - L'établissement privé doit se conformer à la législation  et  à  la  réglementation  en  vigueur,  notamment en matière de registre de commerce.
@@ -92,7 +92,7 @@ JOURNAL OFFICIEL DE LA  REPUBLIQUE ALGERIENNE N ° 19
 7 Safar 1425 28 mars 2004
 
 ###### Art.  10.
--  L'établissement  privé  ne  peut  utiliser  les appellations réservées aux établissements publics d'enseignement relevant du ministère de l'éducation nationale.  Sa  dénomination  doit  être  suivie  du  terme 'privé'.
+-  L'établissement  privé  ne  peut  utiliser  les appellations réservées aux établissements publics d'enseignement relevant du ministère de l'éducation nationale.  Sa  dénomination  doit  être  suivie  du  terme “privé”.
 
 ###### Art. 11.
 - L'établissement privé est tenu d'afficher les coûts de la scolarité relatifs à chaque cycle d'enseignement.
@@ -123,7 +123,7 @@ JOURNAL OFFICIEL DE LA  REPUBLIQUE ALGERIENNE N ° 19
 ###### Art.  17.
 -  La  commission ad  hoc, présidée par l'inspecteur  de  l'académie  d'Alger  ou  le  directeur  de l'éducation de la wilaya du lieu d'implantation de l'établissement privé, comprend :
 
-- Au titre de l'inspection académique ou de la direction de l'éducation :
+1. Au titre de l'inspection académique ou de la direction de l'éducation :
 
 - le  directeur  ou  le  chef  de  service  chargé  de  la programmation et du suivi,
 
@@ -139,7 +139,7 @@ JOURNAL OFFICIEL DE LA  REPUBLIQUE ALGERIENNE N ° 19
 
 - un (1) directeur d'établissement public pour chaque cycle d'enseignement, proposé par l'inspecteur d'académie ou le directeur de l'éducation de la wilaya du lieu d'implantation de l'établissement privé.
 
-- Au titre des autres ministères :
+2. Au titre des autres ministères :
 
 - le  président  d'APC  de  la  commune  d'implantation de l'établissement privé, ou son représentant,
 
@@ -235,7 +235,7 @@ Tout  changement  de  directeur  doit  être  porté  à  la connaissance de l'i
 ##### Des élèves et de leurs droits
 
 ###### Art.  27.
--  L'établissement  privé  doit  préparer  ses élèves  pour  participer  aux  mêmes  examens  organisés  au profit des élèves des établissements publics d'énseignement.
+-  L'établissement  privé  doit  préparer  ses élèves  pour  participer  aux  mêmes  examens  organisés  au profit des élèves des établissements publics d'enseignement.
 
 Les modalités d'application de cet article sont fixées par arrêté du ministre chargé de l'éducation nationale.
 
@@ -306,13 +306,9 @@ Les modalités d'application de cet article sont fixées par arrêté du ministr
 
 Fait à Alger, le 3 Safar 1425 correspondant au 24 mars 2004.
 
-----
+Ahmed OUYAHIA.
 
-Ahmed   OUYAHIA.
-
-★
-
-----
+————★————
 
 # Décret exécutif n ° 04-91 du 3 Safar 1425 correspondant au 24 mars 2004 portant création de l'agence nationale de promotion et de développement des parcs technologiques et fixant son organisation et son fonctionnement
 
