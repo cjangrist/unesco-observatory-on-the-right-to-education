@@ -1,5 +1,7 @@
 [[START OF PAGE 1]]
 
+THE REPUBLIC OF KENYA
+
 LAWS OF KENYA
 
 # TECHNICAL AND VOCATIONAL EDUCATION AND TRAINING ACT
@@ -32,69 +34,69 @@ NO. 29 OF 2013
 
 Section
 
-- Short title.
+### PART I - PRELIMINARY
 
-- Interpretation.
+1. Short title.
 
-- Guiding principles.
+2. Interpretation.
 
-- Role of the Cabinet Secretary.
+3. Guiding principles.
 
-- Policy guidance by Cabinet Secretary.
+4. Role of the Cabinet Secretary.
+
+5. Policy guidance by Cabinet Secretary.
 
 ### PART II - THE TECHNICAL AND VOCATIONAL EDUCATION AND TRAINING AUTHORITY
 
-- Establishment of the Technical and Vocational Education and Training Authority.
+6. Establishment of the Technical and Vocational Education and Training Authority.
 
-- Functions of the Authority.
+7. Functions of the Authority.
 
-- The Board of the Authority.
+8. The Board of the Authority.
 
-- Director-General of the Authority.
+9. Director-General of the Authority.
 
-- Staff of the Authority.
+10. Staff of the Authority.
 
 ### PART III - FINANCIAL PROVISIONS
 
-- Financial year.
+11. Financial year.
 
-- Funds of the Authority.
+12. Funds of the Authority.
 
-- Annual estimates.
+13. Annual estimates.
 
-- Accounts and audit.
+14. Accounts and audit.
 
-- Investment of funds.
+15. Investment of funds.
 
-- Vesting of property.
+16. Vesting of property.
 
 ### PART IV - LICENSING, REGISTRATION AND ACCREDITATION OF INSTITUTIONS AND TRAINERS
 
-- Requirement for registration.
+17. Requirement for registration.
 
-- Application for registration.
+18. Application for registration.
 
-- Consideration of application.
+19. Consideration of application.
 
-- Registration and licensing of institutions.
+20. Registration and licensing of institutions.
 
-- Determination of a revised application.
+21. Determination of a revised application.
 
-- Accreditation of foreign institutions.
+22. Accreditation of foreign institutions.
 
-- Registration and licensing of trainers.
+23. Registration and licensing of trainers.
 
-- Appeal against refusal.
+24. Appeal against refusal.
 
-- Registers.
+25. Registers.
 
 ### PART V - ORGANIZATION OF TRAINING INSTITUTIONS
 
-- Categories of institutions.
+26. Categories of institutions.
 
-- Governance and management in Training.
-
-### PART I - PRELIMINARY
+27. Governance and management in Training.
 
 T3A - 3
 
@@ -138,9 +140,9 @@ Technical and Vocational Education and Training
 
 No. 29 of 2013
 
-### FIRST SCHEDULE - | PROVISIONS AS TO THE CONDUCT OF THE BUSINESS AND AFFAIRS OF THE BOARD
---- | ---
-### SECOND SCHEDULE - | MEMBERSHIP AND GOVERNANCE PROCEDURES FOR BOARDS OF GOVERNORS FOR TRAINING INSTITUTIONS
+### FIRST SCHEDULE - PROVISIONS AS TO THE CONDUCT OF THE BUSINESS AND AFFAIRS OF THE BOARD
+
+### SECOND SCHEDULE - MEMBERSHIP AND GOVERNANCE PROCEDURES FOR BOARDS OF GOVERNORS FOR TRAINING INSTITUTIONS
 
 T3A - 5
 
@@ -162,45 +164,42 @@ Technical and Vocational Education and Training
 
 No. 29 of 2013
 
-### 1.  Short title
-
-This Act may be cited as the Technical and Vocational Education and Training Act, 2013.
-
-### 2.  Interpretation
-
-(1)  In this Act, unless the context otherwise requires-
-
-'accreditation' means the process by which the Board formally recognizes and confirms by certification that an institution has met and continues to meet the  standards  of  academic,  training  and  competence  excellence  set  by  the Board in accordance with the provisions of this Act;
-
-'Authority' means the Technical and Vocational Educational and Training Authority established under section 6;
-
-'Board' means the Technical and Vocational Education and Training Board established under section 8 of this Act;
-
-'Cabinet  Secretary' means  the  Cabinet  Secretary  for  the  time  being responsible for matters related to technical and vocation education and training;
-
-'certificate' means the level of qualification below diploma or its equivalent;
-
-'Certification  Council' means  the  technical  and  Vocational  Education and Training Curriculum Development, Assessment and Certification Council established under section 44(1) of this Act;
-
-'Commission' means  the  Commission  for  the  time  being  in  charge  of university education;
-
 NO. 29 OF 2013
 
 # TECHNICAL AND VOCATIONAL EDUCATION AND TRAINING ACT
 
-[
+[Date of assent: 14th January, 2013.]
 
-Date of assent: 14th January, 2013
+[Date of commencement: 24th June, 2013;
+Parts VIII and IX: 26th May, 2014.]
 
-.]
-
-[ Date of commencement: 24th June, 2013; Parts VIII and IX: 26th May, 2014 .]
-
-An  Act  of  Parliament  to  provide  for  the  establishment  of  a  technical and  vocational  education  and  training  system;  to  provide  for  the governance  and  management  of  institutions  offering  technical  and vocational education and training; to provide for coordinated assessment, examination  and  certification;  to  institute  a  mechanism  for  promoting access and equity in training; to assure standards, quality and relevance; and for connected purposes
+An Act of Parliament to provide for the establishment of a technical and vocational education and training system; to provide for the governance and management of institutions offering technical and vocational education and training; to provide for coordinated assessment, examination and certification; to institute a mechanism for promoting access and equity in training; to assure standards, quality and relevance; and for connected purposes
 
 [L.N. 95/2013, L.N. 57/2014, Act No. 18 of 2014.]
 
 ## PART I - PRELIMINARY
+
+### 1. Short title
+
+This Act may be cited as the Technical and Vocational Education and Training Act, 2013.
+
+### 2. Interpretation
+
+(1) In this Act, unless the context otherwise requires—
+
+“accreditation” means the process by which the Board formally recognizes and confirms by certification that an institution has met and continues to meet the standards of academic, training and competence excellence set by the Board in accordance with the provisions of this Act;
+
+“Authority” means the Technical and Vocational Educational and Training Authority established under section 6;
+
+“Board” means the Technical and Vocational Education and Training Board established under section 8 of this Act;
+
+“Cabinet Secretary” means the Cabinet Secretary for the time being responsible for matters related to technical and vocation education and training;
+
+“certificate” means the level of qualification below diploma or its equivalent;
+
+“Certification Council” means the technical and Vocational Education and Training Curriculum Development, Assessment and Certification Council established under section 44(1) of this Act;
+
+“Commission” means the Commission for the time being in charge of university education;
 
 T3A - 7
 
@@ -216,31 +215,31 @@ Technical and Vocational Education and Training
 
 [Rev. 2014]
 
-'Diploma' means  the  level  of  qualification  below  degree  and  above  a certificate;
+“Diploma” means the level of qualification below degree and above a certificate;
 
-'Fund' means the Technical and Vocational Education Fund established under section 47;
+“Fund” means the Technical and Vocational Education Fund established under section 47;
 
-'institution' means  an  institution  that  promotes  or  offers  technical  and vocational education and training ;
+“institution” means an institution that promotes or offers technical and vocational education and training;
 
-'National Polytechnic' means an institution declared a National Polytechnic in accordance with this Act;
+“National Polytechnic” means an institution declared a National Polytechnic in accordance with this Act;
 
-'private institution' means an institution which is not a public institution;
+“private institution” means an institution which is not a public institution;
 
-'public institution' means an institution established or maintained by use of public funds or by the community;
+“public institution” means an institution established or maintained by use of public funds or by the community;
 
-'technical and vocational college' means an institution offering technical and vocational education and training at diploma level;
+“technical and vocational college” means an institution offering technical and vocational education and training at diploma level;
 
-'technical trainer college' means an institution offering technical teachers training at higher diploma level;
+“technical trainer college” means an institution offering technical teachers training at higher diploma level;
 
-'trainer' means a person registered under section 25(1)(b);
+“trainer” means a person registered under section 25(1)(b);
 
-'training' includes  technical,  industrial  and  vocational  education  and training leading to an award of a certificate, diploma;
+“training” includes technical, industrial and vocational education and training leading to an award of a certificate, diploma;
 
-'university' means a university within the meaning of the Universities Act, 2012;
+“university” means a university within the meaning of the Universities Act, 2012;
 
-'vocational training center' means an institution providing training leading to the awards below the level of diploma.
+“vocational training center” means an institution providing training leading to the awards below the level of diploma.
 
-(2)  Notwithstanding subsection (1), until the first general elections under the Constitution,  the  expressions 'Cabinet Secretary' and 'Principal  Secretary' shall be construed to mean 'Minister' and 'Permanent Secretary' respectively.
+(2) Notwithstanding subsection (1), until the first general elections under the Constitution, the expressions “Cabinet Secretary” and “Principal Secretary” shall be construed to mean “Minister” and “Permanent Secretary” respectively.
 
 [Act No. 18 of 2014, Sch.]
 
@@ -312,7 +311,7 @@ The Cabinet Secretary shall provide policy guidance on all matters relating to t
 
 ### 7.  Functions of the Authority
 
-- The functions of the Authority shall be to-
+(1) The functions of the Authority shall be to—
 
 (a) regulate and co-ordinate training under this Act;
 
@@ -410,11 +409,9 @@ No. 29 of 2013
 
 (c) a representative of the Federation of the Kenya Employers; and
 
-(d)
+(d) one person to represent the body currently recognized as representing the interests of the private sector.
 
-- one person to represent the body currently recognized as representing the interests of the private sector.
-
-- The Selection Panel shall have power to regulate its own procedure.
+(4) The Selection Panel shall have power to regulate its own procedure.
 
 (5)    The  Selection Panel shall advertise for the vacancies and publicize the applicants  and  shortlisted  candidates  in  at  least  two  newspapers  with  a  wide national circulation.
 
@@ -422,9 +419,9 @@ No. 29 of 2013
 
 (7)    The  Selection  Panel  shall  stand  dissolved  after  the  appointment  of  the members of the Board.
 
-- The Director-General shall be ex officio member and secretary to the Board.
+(8) The Director-General shall be ex officio member and secretary to the Board.
 
-- The appointment of a member of the Board shall cease if the member-
+(9) The appointment of a member of the Board shall cease if the member—
 
 (a) resigns by notice in writing addressed to the Cabinet Secretary;
 
@@ -478,7 +475,9 @@ permission of the chairman. (10)  Where a vacancy occurs under subsection (9) a 
 
 The Board may appoint such other officers and staff as may be necessary for the proper discharge of the functions of the Authority under this Act or any other written law, upon such terms and conditions of service as the Board may determine.
 
-### 11.  Financial year
+## PART III - FINANCIAL PROVISIONS
+
+### 11. Financial year
 
 The financial year of the Authority shall be the period of twelve months ending on the thirtieth of June in every year.
 
@@ -560,9 +559,9 @@ Technical and Vocational Education and Training
 
 (5)  The Auditor-General may give general or special directions to an auditor appointed under subsection (3) and the auditor shall comply with those directions.
 
-(6)  An auditor appointed under subsection (3) shall report directly to the AuditorGeneral on any matter relating to the directions given under subsection (5) of this section.
+(6) An auditor appointed under subsection (3) shall report directly to the Auditor-General on any matter relating to the directions given under subsection (5) of this section.
 
-(7)  Within a period of six months after the end of the financial year the AuditorGeneral shall report on the examination and audit of the accounts of the Board to the Minister, and in the case of an auditor appointed under subsection (3), the auditor shall transmit a copy of the report to the Auditor-General.
+(7) Within a period of six months after the end of the financial year the Auditor-General shall report on the examination and audit of the accounts of the Board to the Minister, and in the case of an auditor appointed under subsection (3), the auditor shall transmit a copy of the report to the Auditor-General.
 
 (8)  Nothing in this Act shall be construed to prohibit the Auditor-General from carrying out an inspection of the Board's accounts or records whenever it appears to him desirable and the Auditor-General shall carry out such an inspection at least once every six months.
 
@@ -640,11 +639,11 @@ T3A - 15
 
 [[START OF PAGE 16]]
 
+No. 29 of 2013
+
 Technical and Vocational Education and Training
 
 [Rev. 2014]
-
-No. 29 of 2013
 
 ### 19.  Consideration of application
 
@@ -696,7 +695,7 @@ No. 29 of 2013
 
 (1)  Any person who intends to become a trainer in an institution shall apply for licensing and registration by the Board in accordance with the provisions of this Act.
 
-- Application for licensing shall be in accordance with the prescribed format.
+(2) Application for licensing shall be in accordance with the prescribed format.
 
 (3)  Any person who is not registered at the commencement of this Act shall comply with this Act within six months from the date of such commencement.
 
@@ -976,9 +975,15 @@ Technical and Vocational Education and Training
 
 ### 38.  National and international standards and quality assurance
 
-Every institution shall in accordance with the provisions of this Act(a) adopt appropriate national and international standards in training; (b) establish, implement and manage credible quality assurance systems; (c) establish and promote appropriate collaborative arrangements with national and international agencies on standards and quality assurance; and (d) establish  systems  and  processes  for  the  continuous  review  and
+Every institution shall in accordance with the provisions of this Act—
 
-- improvement of standards and quality assurance.
+(a) adopt appropriate national and international standards in training;
+
+(b) establish, implement and manage credible quality assurance systems;
+
+(c) establish and promote appropriate collaborative arrangements with national and international agencies on standards and quality assurance; and
+
+(d) establish systems and processes for the continuous review and improvement of standards and quality assurance.
 
 ### 39.  Integration of internships in training
 
@@ -1038,7 +1043,11 @@ succession and a common seal and capable, in its corporate name, of-
 
 ### 45.  Functions of certification Council
 
-- The functions of the Certification Council shall be to(a) undertake  design  and  development  of  curricula  for  the  training institutions' examination, assessment and competence certification; (b) make  rules  with  respect  to  such  examinations  and  competence assessments;
+(1) The functions of the Certification Council shall be to—
+
+(a) undertake design and development of curricula for the training institutions’ examination, assessment and competence certification;
+
+(b) make rules with respect to such examinations and competence assessments;
 
 (c) issue certificates to candidates who satisfy national TVET examination and competence assessment requirements;
 
@@ -1052,15 +1061,17 @@ succession and a common seal and capable, in its corporate name, of-
 
 (h) do anything incidental or conducive to the performance of any of the preceding functions.
 
-### 46.  Composition of the Certification Council
+### 46. Composition of the Certification Council
+
+(1) The Certification Council shall consist of—
 
 (a) a chairman appointed by the Cabinet Secretary;
 
-(b) the Principal Secretary of the Ministry for the time being responsible
+(b) the Principal Secretary of the Ministry for the time being responsible for TVET;
 
-(1)  The Certification Council shall consist offor TVET; (c) the Director-General of the Authority;
+(c) the Director-General of the Authority;
 
-(d) six members appointed by the Cabinet Secretary as follows-
+(d) six members appointed by the Cabinet Secretary as follows—
 
 (i) one member from the Senate of a technical university;
 
@@ -1092,13 +1103,15 @@ Technical and Vocational Education and Training
 
 ### 47.  Establishment of the Fund
 
-(1)    There  shall  be  established  a  Fund  to  be  known  as  the  Technical  and Vocation Education Fund.
+(1) There shall be established a Fund to be known as the Technical and Vocation Education Fund.
 
-(2)  The object and purpose of the Fund shall be to provide funds to be used for financing technical and vocation education institutions.
+(2) The object and purpose of the Fund shall be to provide funds to be used for financing technical and vocation education institutions.
 
-(b) such sums of money as may be received by the Funding Board in the
+(3) There shall be paid into the Fund—
 
-- There shall be paid into the Fund(a) monies provided by Parliament; form of donations;
+(a) monies provided by Parliament;
+
+(b) such sums of money as may be received by the Funding Board in the form of donations;
 
 (c) such sums of money as may be specifically designated for the Fund by the Authority out of its own Funds; and
 
@@ -1214,7 +1227,7 @@ Subject to this Act the common seal of the Board shall be kept in such custody a
 
 ### 55.  Liability for damages
 
-The provisions of section 54 shall not relieve the Board of the liability to pay compensation or damages to any person for an injury to the person or property or  any  of  persons  interests  negatively  affected  by  the  exercise  of  the  powers conferred on the Board by this Act or by any other written law or by the failure, whether wholly or partially, of any works.
+The provisions of section 54 shall not relieve the Board of the liability to pay compensation or damages to any person for an injury to the person or property
 
 [Issue 2]
 
@@ -1230,6 +1243,8 @@ Technical and Vocational Education and Training
 
 No. 29 of 2013
 
+or any of persons interests negatively affected by the exercise of the powers conferred on the Board by this Act or by any other written law or by the failure, whether wholly or partially, of any works.
+
 ### 56.  Penalties
 
 Any person who commits an offence under this Act  in  respect  of  which  no penalty has been specifically provided is liable on conviction to a fine not exceeding one million Kenya shillings or to imprisonment for a term not exceeding two years or to both.
@@ -1238,7 +1253,7 @@ Any person who commits an offence under this Act  in  respect  of  which  no pen
 
 (1)  Unless otherwise provided in the Act, the Board, with the approval of the Cabinet Secretary, may set standards and criteria or make regulations generally for the better carrying out of the provisions of this Act, which may without prejudice to the generality of the foregoing, provide for the form and method of keeping the registers and other records under this Act-
 
-(a) the conditions under which training instructions under this Act may be approved;
+(a) the conditions under which training institutions under this Act may be approved;
 
 (b) guidelines for the determination of course content and examination and assessment of training for purposes of registration under this Act;
 
@@ -1552,7 +1567,7 @@ Where it is proved that an offence under this Act has been committed by an insti
 
 (6)    The  Secretary  to  a  Board  of  Governors  of  a  public  institution  shall  be responsible for the day-to-day management of the affairs of the institution, and shall present any account of such expenditure to its Finance and Resource Mobilization Committee that shall take necessary action on behalf of the Board of Governors.
 
-(7)  A Board of Governors of a public institution may, with the approval of the Cabinet Secretary pay all expenses connected with the institution including the salaries of staff; but the personal emoluments of a person seconded to the service  of  the  Board  of  Governors  shall,  in  the  first  instance,  be  paid  by  the seconding authority and may be recovered from institution.
+(7)  A Board of Governors of a public institution may, with the approval of the Cabinet Secretary pay all expenses connected with the institution including the salaries of staff; but the personal emoluments of a person seconded to the
 
 T3A - 33
 
@@ -1567,6 +1582,8 @@ No. 29 of 2013
 Technical and Vocational Education and Training
 
 [Rev. 2014]
+
+service of the Board of Governors shall, in the first instance, be paid by the seconding authority and may be recovered from institution.
 
 #### 23.  Unexpended monies
 
