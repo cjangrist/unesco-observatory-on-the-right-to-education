@@ -1,20 +1,26 @@
 [[START OF PAGE 1]]
 
+MIUR
+
 Ministry of Education, University and Research
 
 Department for University, Higher Education in Fine Arts, Music and Dance and for Research
 
-# Qualifications Framework for the European Higher Education Area
-
 HIGHER EDUCATION
 
+# ITALIAN QUALIFICATIONS FRAMEWORK
+
+# Qualifications Framework for the European Higher Education Area
+
 20 January 2011
+
+CIMEA
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-## FOREWORD FOREWORD
+## FOREWORD
 
 In  2005,  the  Ministers  of  Higher  Education  of  the  Bologna  Process  signatory countries decided to develop the Qualifications Framework for the European Higher Education Area - QF for the EHEA.
 
@@ -32,7 +38,7 @@ At first, CIMEA, the Italian NARIC centre, was asked to develop the first protot
 
 Subsequently a team formed by technical consultants of the Ministry and the Italian Bologna Experts was set up and started working on the first draft of the Italian Qualifications Framework.
 
-The final outcome of their work was carefully scrutinised by numerous parties: the competent internal department and the Directorates General of the Ministry; the relevant institutional representative and consultative bodies, such as the National University Council ( Consiglio Universitario Nazionale );  the  National  Council  of University Students ( Consiglio Nazionale degli Studenti Universitari ); the Conference of Rectors of Italian Universities ( Conferenza dei Rettori delle Università Italiane ); the National Council for Higher Schools of Arts and Music ( Consiglio Nazionale per l'Alta  Formazione Artistica e Musicale );  the  social  partners  and  the  professional associations.
+The final outcome of their work was carefully scrutinised by numerous parties: the competent internal department and the Directorates General of the Ministry; the relevant institutional representative and consultative bodies, such as the National University Council (Consiglio Universitario Nazionale); the National Council of University Students (Consiglio Nazionale degli Studenti Universitari); the Conference of Rectors of Italian Universities (Conferenza dei Rettori delle Università Italiane); the National Council for Higher Schools of Arts and Music (Consiglio Nazionale per l’Alta Formazione Artistica e Musicale); the social partners and the professional associations.
 
 Today,  at  the  conclusion  of  the  process  of  elaboration  and  consultation,  I  am delighted to announce the publication of the Italian Qualifications Framework (QTI) for Higher Education: the official document used to describe the Italian system with reference to Qualifications Framework for the European Higher Education Area.
 
@@ -40,13 +46,16 @@ Rome, 10 October 2010
 
 Antonello Masia
 
-Head of the Department for University, Higher Education in Fine Arts, Music and Dance and for Research Ministry of Education, University and Research
+Head of the Department for University, Higher Education in Fine Arts, Music and Dance and for Research
+Ministry of Education, University and Research
+
+1
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-## THE THE ITALIAN ITALIAN QUALIFICATIONS QUALIFICATIONS FRAMEWORK FRAMEWORK FOR FOR THE THE HIGHER HIGHER EDUCATION EDUCATION -  QTI QTI
+## THE ITALIAN QUALIFICATIONS FRAMEWORK FOR THE HIGHER EDUCATION - QTI
 
 ### WHAT IS IT?
 
@@ -94,79 +103,49 @@ Head of the Department for University, Higher Education in Fine Arts, Music and 
 
 [[START OF PAGE 4]]
 
-## THE THE ITALIAN ITALIAN QUALIFICATIONS QUALIFICATIONS FRAMEWORK FRAMEWORK FOR FOR THE THE HIGHER HIGHER EDUCATION EDUCATION -  QTI QTI
+## THE ITALIAN QUALIFICATIONS FRAMEWORK FOR THE HIGHER EDUCATION - QTI
 
-OTHER
-
-OTHER QUALIFICATIONS
-
-QUALIFICATIONS
-
-Diploma accademico
-
-di specializzazione (I e II)
-
-Diploma di perfezionamento
-
-o Master (I e II)
-
-OTHER
-
-OTHER QUALIFICATIONS
-
-QUALIFICATIONS
-
-Diploma di specializzazione
-
-Master universitario di I livello
-
-Master universitario di II livello
-
-Diploma di perfezionamento
-
-UNIVERSITY
-
-INSTITUTIONS
+UNIVERSITY INSTITUTIONS
 
 AFAM
 
-H.ED. INSTITUTIONS FOR FINE
-
-ARTS, MUSIC AND DANCE
-
-1 st CYCLE
-
-DIPLOMA ACCADEMICO
-
-DI PRIMO LIVELLO
-
-DIPLOMA ACCADEMICO
-
-DI SECONDO LIVELLO
-
-DIPLOMA ACCADEMICO
-
-DI FORMAZIONE ALLA
-
-RICERCA
+H.ED. INSTITUTIONS FOR FINE ARTS, MUSIC AND DANCE
 
 LAUREA
 
-LAUREA MAGISTRALE /
+1st CYCLE
 
-SPECIALISTICA
+DIPLOMA ACCADEMICO DI PRIMO LIVELLO
 
-DOTTORATO
+LAUREA MAGISTRALE / SPECIALISTICA
 
-DI RICERCA
+2nd CYCLE
 
-2 nd CYCLE
+DIPLOMA ACCADEMICO DI SECONDO LIVELLO
 
-3 rd CYCLE
+DOTTORATO DI RICERCA
 
-### H H. . ED ED. . INSTITUTIONS INSTITUTIONS AUTHORISED AUTHORISED TO TO AWARD AWARD RECOGNISED RECOGNISED QUALIFICATIONS QUALIFICATIONS
+3rd CYCLE
 
-Higher Schools for Language Mediators - Scuole Superiori per Mediatori Linguistici Specialisation Institutes/Schools in Psychotherapy - Istituti/Scuole di Psicoterapia
+DIPLOMA ACCADEMICO DI FORMAZIONE ALLA RICERCA
+
+OTHER QUALIFICATIONS
+
+Diploma di specializzazione
+Master universitario di I livello
+Master universitario di II livello
+Diploma di perfezionamento
+
+OTHER QUALIFICATIONS
+
+Diploma accademico di specializzazione (I e II)
+Diploma di perfezionamento o Master (I e II)
+
+### H. ED. INSTITUTIONS AUTHORISED TO AWARD RECOGNISED QUALIFICATIONS
+
+Higher Schools for Language Mediators - Scuole Superiori per Mediatori Linguistici
+
+Specialisation Institutes/Schools in Psychotherapy - Istituti/Scuole di Psicoterapia
 
 3
 
@@ -174,7 +153,7 @@ Higher Schools for Language Mediators - Scuole Superiori per Mediatori Linguisti
 
 [[START OF PAGE 5]]
 
-## WEB WEB SITES SITES
+## WEB SITES
 
 ### MINISTRY OF EDUCATION, UNIVERSITY AND RESEARCH:
 
@@ -192,7 +171,7 @@ Higher Schools for Language Mediators - Scuole Superiori per Mediatori Linguisti
 
 - EHEA: http://www.ehea.info
 
-- European Qualifications Framework: http://www .ehea.info/Uploads/quali!cation/050218_QF_EHEA.pdf
+- European Qualifications Framework: http://www.ehea.info/Uploads/qualification/050218_QF_EHEA.pdf
 
 ### LISTS OF ITALIAN HIGHER EDUCATION INSTITUTIONS
 
@@ -200,17 +179,17 @@ Higher Schools for Language Mediators - Scuole Superiori per Mediatori Linguisti
 
 - Academies of Fine Arts: http://www.afam.miur.it/argomenti/istituzioni/accademie-di-belle-arti-.aspx
 
-- Legally recognised - Non-State - Academies of Fine Arts: http://www.afam.miur.it/argomenti/istitu zioni/accademie-di-belle-arti-legalmente-riconosciute.aspx
+- Legally recognised - Non-State - Academies of Fine Arts: http://www.afam.miur.it/argomenti/istituzioni/accademie-di-belle-arti-legalmente-riconosciute.aspx
 
-- National Academy of Drama: http://www.afam.miur.it/argomenti/istituzioni/accademia-nazionaledi-arte-drammatica-.aspx
+- National Academy of Drama: http://www.afam.miur.it/argomenti/istituzioni/accademia-nazionale-di-arte-drammatica-.aspx
 
-- National Dance Academy: http://www.afam.miur.it/argomenti/istituzioni/accademia-nazionale-didanza-.aspx
+- National Dance Academy: http://www.afam.miur.it/argomenti/istituzioni/accademia-nazionale-di-danza-.aspx
 
-- State Music Conservatories: http://www .afam.miur.it/argomenti/istituzioni/conservatori-di-musica.aspx
+- State Music Conservatories: http://www.afam.miur.it/argomenti/istituzioni/conservatori-di-musica.aspx
 
-- Recognised Music Institutes: http://www.afam.miur.it/argomenti/istituzioni/istituti-musicali-pareg giati-.aspx
+- Recognised Music Institutes: http://www.afam.miur.it/argomenti/istituzioni/istituti-musicali-pareggiati-.aspx
 
-- Higher Schools of Design (ISIA): http://www.afam.miur.it/argomenti/istituzioni/istituti-superioriper-le-industrie-artistiche-(isia).aspx
+- Higher Schools of Design (ISIA): http://www.afam.miur.it/argomenti/istituzioni/istituti-superiori-per-le-industrie-artistiche-(isia).aspx
 
 ### LISTS OF HIGHER EDUCATION INSTITUTIONS AUTHORISED TO AWARD RECOGNISED QUALIFICATIONS
 
