@@ -22,13 +22,15 @@ Compte tenu de l'agenda Éducation 2030, le suivi de la Convention et de la Reco
 
 Étant donné que la portée et la teneur des obligations juridiques en vertu du droit à l'éducation concordent avec les 10 cibles de l'ODD 4, des efforts ont été engagés pour que le contenu des cibles  soit  inclus  dans  les  présents  Principes  directeurs  et  que  ces  principes  constituent  un instrument  précieux  pour  mesurer  les  progrès  accomplis  en  vue  de  la  réalisation  des  cibles  de l'ODD 4.
 
-La  Convention  est  en  étroite  concordance  non  seulement  avec  l'ODD 4  mais  aussi  avec  le Pacte international relatif aux droits  économiques, sociaux et culturels (1966), la Convention sur l'élimination de toutes les formes de discrimination à l'égard des femmes (1979), la Convention relative aux droits de l'enfant (1989) et la Convention relative aux droits des personnes handicapées (2006).
+La Convention est en étroite concordance non seulement avec l'ODD 4 mais aussi avec le Pacte international relatif aux droits économiques, sociaux et culturels (1966), la Convention sur l'élimination de toutes les formes de discrimination à l'égard des femmes (1979), la
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-Cette consultation est en outre l'occasion de contribuer à l' Initiative en cours de l'UNESCO sur l'évolution du droit à l'éducation dans la perspective de l'apprentissage tout au long de la vie 1 (lancée  en  décembre  2021).  Cette  Initiative  cherche  des  solutions  pour  renforcer  le  droit  à l'éducation, qu'elle replace dans le contexte de l'apprentissage tout au long de la vie, en tenant compte des nouvelles exigences imposées à l'éducation. Elle s'appuie sur le rapport préparé par la Commission internationale sur Les futurs de l'éducation 2 , qui propose d'élargir explicitement notre conception du droit à l'éducation à tous les âges, à tous les temps et à tous les espaces. L'Initiative est également conforme à l' Énoncé de vision du Secrétaire général des Nations Unies sur la transformation de l'éducation 3 ainsi qu'au Rapport du Sommet sur la transformation de l'éducation (2022) 4 , selon lequel la transformation des systèmes éducatifs doit tendre à « l'inclusion de tous, indépendamment des circonstances, du contexte et des origines ». L'Initiative sur l'évolution du droit à l'éducation a pour objet d'engager une réflexion collaborative et participative sur le cadre international afin de garantir l'application effective du droit à l'éducation à l'apprentissage pour tous et tout au long de la vie. L'Initiative s'appuie également sur les dialogues intergouvernementaux entamés  récemment,  en  particulier  le  Cadre  d'action  de  Marrakech  -  Exploiter  le  pouvoir  de transformation de l'apprentissage et de l'éducation des adultes 5  et la Déclaration de Tachkent et engagements à l'action pour la transformation de l'éducation et la protection de la petite enfance 6 .
+Convention relative aux droits de l'enfant (1989) et la Convention relative aux droits des personnes handicapées (2006).
+
+Cette consultation est en outre l'occasion de contribuer à l'Initiative en cours de l'UNESCO sur l'évolution du droit à l'éducation dans la perspective de l'apprentissage tout au long de la vie 1 (lancée en décembre 2021). Cette Initiative cherche des solutions pour renforcer le droit à l'éducation, qu'elle replace dans le contexte de l'apprentissage tout au long de la vie, en tenant compte des nouvelles exigences imposées à l'éducation. Elle s'appuie sur le rapport préparé par la Commission internationale sur Les futurs de l'éducation 2, qui propose d'élargir explicitement notre conception du droit à l'éducation à tous les âges, à tous les temps et à tous les espaces. L'Initiative est également conforme à l'Énoncé de vision du Secrétaire général des Nations Unies sur la transformation de l'éducation 3 ainsi qu'au Rapport du Sommet sur la transformation de l'éducation (2022) 4, selon lequel la transformation des systèmes éducatifs doit tendre à « l'inclusion de tous, indépendamment des circonstances, du contexte et des origines ». L'Initiative sur l'évolution du droit à l'éducation a pour objet d'engager une réflexion collaborative et participative sur le cadre international afin de garantir l'application effective du droit à l'éducation à l'apprentissage pour tous et tout au long de la vie. L'Initiative s'appuie également sur les dialogues intergouvernementaux entamés récemment, en particulier le Cadre d'action de Marrakech – Exploiter le pouvoir de transformation de l'apprentissage et de l'éducation des adultes 5 et la Déclaration de Tachkent et engagements à l'action pour la transformation de l'éducation et la protection de la petite enfance 6.
 
 Il  convient  également  de  noter  que,  comme  le  révèlent  les  consultations  précédentes  sur  la Convention et la Recommandation, les pays partagent désormais une conception plus large du droit à l'éducation. Fondée sur les conclusions des rapports nationaux précédents, la 11 e  consultation porte notamment sur des thèmes ayant une incidence directe sur le droit à l'éducation, par exemple, l'apprentissage numérique, la question du climat, le droit à l'apprentissage tout au long de la vie et le rôle des acteurs non étatiques dans l'éducation.
 
@@ -38,13 +40,13 @@ La nature juridique des obligations découlant de la Convention diffère à plus
 
 Compte tenu des différences de portée juridique dues à la nature même de ces deux instruments, la  teneur  de  la  Recommandation et celle  de  la  Convention  sont  identiques.  Les  États  membres doivent donner effet à l'un ou l'autre de ces instruments dans leur législation nationale et dans leurs politiques de l'éducation.
 
-Les dispositions relatives à l'obligation de soumettre des rapports de l'article VII de la Convention et de l'article correspondant de la Recommandation sont les mêmes. L'article VIII de l'Acte constitutif de l'UNESCO dispose que « Chaque État membre adresse à l'Organisation, aux dates et sous la forme  que  déterminera  la  Conférence  générale,  des  rapports  sur  les  lois,  les  règlements  et statistiques relatifs à ses institutions et à son activité dans l'ordre de l'éducation, de la science et de la culture, ainsi que sur la suite donnée aux recommandations et conventions visées à l'article IV, paragraphe 4 ». Par conséquent, même si un État n'est pas partie à la Convention, il doit soumettre un rapport sur l'application de la Recommandation, ce qui signifie que tous les États membres de l'UNESCO sont censés soumettre un rapport national sur l'application de l'un ou l'autre de ces instruments dans le cadre des consultations de suivi.
+Les dispositions relatives à l'obligation de soumettre des rapports de l'article VII de la Convention et de l'article correspondant de la Recommandation sont les mêmes. L'article VIII de l'Acte constitutif de l'UNESCO dispose que « Chaque État membre adresse à l'Organisation, aux dates et sous la forme que déterminera la Conférence générale, des rapports sur les lois, les règlements et statistiques relatifs à ses institutions et à son activité dans l'ordre de l'éducation, de la science et de la culture, ainsi que sur la suite donnée aux recommandations et conventions visées à l'article IV, paragraphe 4 ». Par conséquent, même si un État n'est pas partie à la Convention, il doit soumettre
 
 > 1 Comment les droits s'adaptent à l'évolution de l'éducation | UNESCO.
 
 > 2 Repenser nos futurs ensemble : un nouveau contrat social pour l'éducation - UNESCO Digital Library.
 
-> 3 https://www.un.org/sites/un2.un.org/files/2022/09/sg_vision_statement_on_transforming_ education.pdf.
+> 3 https://www.un.org/sites/un2.un.org/files/2022/09/sg_vision_statement_on_transforming_education.pdf.
 
 > 4 https://www.un.org/sites/un2.un.org/files/report_on_the_2022_transforming_education_summit.pdf.
 
@@ -57,6 +59,8 @@ Les dispositions relatives à l'obligation de soumettre des rapports de l'articl
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+un rapport sur l'application de la Recommandation, ce qui signifie que tous les États membres de l'UNESCO sont censés soumettre un rapport national sur l'application de l'un ou l'autre de ces instruments dans le cadre des consultations de suivi.
 
 ## 4. Participation aux consultations
 
@@ -96,9 +100,9 @@ non-discrimination dans le domaine de l'enseignement (section 1), à tous les de
 
 Afin  de  simplifier  les  Principes  directeurs  tout  en  apportant  aux  États  membres  les  indications indispensables qui les guideront dans la formulation de leurs réponses à l'issue d'un processus participatif, les orientations proposées sont de deux types :
 
-- Des  questions  ouvertes  ou  fermées  auxquelles  les  États  membres  sont  invités  à répondre  directement.  Veuillez  noter  qu'il  est  possible,  le  cas  échéant,  de  fournir plusieurs réponses.
+(1) Des questions ouvertes ou fermées auxquelles les États membres sont invités à répondre directement. Veuillez noter qu'il est possible, le cas échéant, de fournir plusieurs réponses.
 
-- Des  indications  complémentaires  visant  à  aider  les  États  membres  à  structurer  et  à détailler les réponses apportées aux questions ouvertes (des conseils seront notamment donnés sur la manière de répondre efficacement aux questions posées). Ces indications sont en italiques.
+(2) Des indications complémentaires visant à aider les États membres à structurer et à détailler les réponses apportées aux questions ouvertes (des conseils seront notamment donnés sur la manière de répondre efficacement aux questions posées). Ces indications sont en italiques.
 
 4
 
@@ -122,7 +126,7 @@ Adresse électronique et numéro de téléphone de la personne à contacter : al
 
 Tél. : +376 743 300
 
-## Ratification et applicabilité de la Convention concernant la lutte contre la discrimination dans le domaine de l'enseignement  10
+## I. Ratification et applicabilité de la Convention concernant la lutte contre la discrimination dans le domaine de l'enseignement 10
 
 - Votre pays est-il Partie à la Convention ?
 
@@ -168,9 +172,9 @@ Convention concernant la lutte contre la discrimination dans le domaine de l'ens
 
 Il est également possible de donner des informations sur les autorités (judiciaires, administratives, etc.) compétentes en ce qui concerne le droit à l'éducation.
 
-## Renseignements  concernant  l'application  de  la  Convention  ou  de  la  Recommandation  dans  le contexte de l'Objectif de développement durable 4 (ODD 4)
+## II. Renseignements concernant l'application de la Convention ou de la Recommandation dans le contexte de l'Objectif de développement durable 4 (ODD 4)
 
-### Vers un système éducatif et non discriminatoire
+### 1. Vers un système éducatif et non discriminatoire
 
 Pour mémoire : cette partie porte sur l'objet principal  de  la Convention/Recommandation, qui consiste à souligner l'obligation qui incombe aux États d'interdire toute forme de discrimination dans le domaine de l'enseignement  tout  en  promouvant  l'égalité  des  chances  dans  l'éducation  comme  le  précisent  les articles/paragraphes 1 (1), 2 et 3 de la Convention/Recommandation.
 
@@ -300,7 +304,7 @@ L'égalité des chances pour les enfants, les jeunes et les adultes porteurs de 
 
 a) La scolarisation obligatoire et gratuite, qui comprend l'enseignement primaire et secondaire, de 6 à 16 ans, bien qu'ils aient le droit d'être scolarisés à partir de 3 ans, si les parents ou les tuteurs  le  demandent,  et  cela  peut  être  prolongé  jusqu'à  l'âge  de  18  ans  pour  finaliser l'enseignement  secondaire.  Le  droit  à  la  gratuité  est  garanti  à  travers  les  centres  éducatifs publics.
 
-- Une orientation scolaire et professionnelle.
+b) Une orientation scolaire et professionnelle.
 
 Les élèves porteurs de handicap sont intégrés à l'école ordinaire, sauf dans les cas où la gravité du handicap ou une autre situation exceptionnelle le rend impossible, dans ce cas cela doit se faire de la manière établie aux sections IV et V de cet article.
 
@@ -320,9 +324,9 @@ La Loi prévoit à l'article 6 des mesures visant à l'éradication de la violen
 
 Article 6. Sensibilisation et prévention dans le domaine de l'éducation
 
-- Les mesures de sensibilisation et de prévention dans le domaine de l'éducation sont autant d'outils,  d'actions  et  de  politiques  menées  dans  les  écoles  et  les  universités  dans  le  but  de sensibiliser la population aux causes et aux conséquences de la violence sexiste et de la violence domestique,  afin  de  les  prévenir  en  établissant  des  modèles  pacifiques  et  égalitaires  de coexistence et de respect.
+1. Les mesures de sensibilisation et de prévention dans le domaine de l'éducation sont autant d'outils, d'actions et de politiques menées dans les écoles et les universités dans le but de sensibiliser la population aux causes et aux conséquences de la violence sexiste et de la violence domestique, afin de les prévenir en établissant des modèles pacifiques et égalitaires de coexistence et de respect.
 
-- Les systèmes éducatifs doivent veiller à ce que la population étudiante acquière, à tous les niveaux scolaires, les compétences nécessaires pour développer un apprentissage en matière de
+2. Les systèmes éducatifs doivent veiller à ce que la population étudiante acquière, à tous les niveaux scolaires, les compétences nécessaires pour développer un apprentissage en matière de
 
 [[END OF PAGE 9]]
 
@@ -332,17 +336,17 @@ droits et de libertés fondamentales, et plus spécifiquement en ce qui concerne
 
 En outre, il est nécessaire de garantir à tous les niveaux scolaires l'acquisition de compétences liées à la prévention des conflits et à la capacité de les résoudre de manière pacifique, ainsi que la connaissance des modèles de coexistence fondés sur le respect de la diversité.
 
-- Chaque école doit promouvoir des mesures de sensibilisation et de prévention mises en place dans la Loi, ainsi que toutes celles qui peuvent améliorer la sensibilisation et la prévention de la violence sexiste et domestique. À la fin de l'année scolaire, chaque établissement scolaire doit évaluer les actions menées.
+3. Chaque école doit promouvoir des mesures de sensibilisation et de prévention mises en place dans la Loi, ainsi que toutes celles qui peuvent améliorer la sensibilisation et la prévention de la violence sexiste et domestique. À la fin de l'année scolaire, chaque établissement scolaire doit évaluer les actions menées.
 
-- Les plans d'action à tous les niveaux d'enseignement dans les centres éducatifs doivent fournir une orientation académique et professionnelle non sexiste ou discriminatoire, qui contribue à ce que  les  élèves  soient  susceptibles  de  choisir,  sans  connotation  de  genre  et  sans  aucune discrimination,  entre  les  différentes  options  académiques  et  professionnelles  qui  leur  sont proposées.
+4. Les plans d'action à tous les niveaux d'enseignement dans les centres éducatifs doivent fournir une orientation académique et professionnelle non sexiste ou discriminatoire, qui contribue à ce que les élèves soient susceptibles de choisir, sans connotation de genre et sans aucune discrimination, entre les différentes options académiques et professionnelles qui leur sont proposées.
 
-- Les centres éducatifs et le ministère chargé de l'éducation peuvent proposer des activités de sensibilisation,  de  connaissance  et  de  prévention  de  la  violence  sexiste  et  de  la  violence domestique, pour la communauté éducative.
+5. Les centres éducatifs et le ministère chargé de l'éducation peuvent proposer des activités de sensibilisation, de connaissance et de prévention de la violence sexiste et de la violence domestique, pour la communauté éducative.
 
-- Les directeurs des centres éducatifs sont tenus d'informer les services sociaux de l'existence de situations de violence sexiste ou familiale à l'égard ou parmi les élèves. Le gouvernement, par l'intermédiaire du ministère compétent, doit gérer la scolarisation immédiate des enfants qui doivent changer d'école en raison d'une situation de violence sexuelle ou familiale.
+6. Les directeurs des centres éducatifs sont tenus d'informer les services sociaux de l'existence de situations de violence sexiste ou familiale à l'égard ou parmi les élèves. Le gouvernement, par l'intermédiaire du ministère compétent, doit gérer la scolarisation immédiate des enfants qui doivent changer d'école en raison d'une situation de violence sexuelle ou familiale.
 
-- Outre les précautions prévues, les centres éducatifs doivent fournir des soins spécialisés à l'élève pour prévenir les conséquences de la violence sexiste ou familiale.
+7. Outre les précautions prévues, les centres éducatifs doivent fournir des soins spécialisés à l'élève pour prévenir les conséquences de la violence sexiste ou familiale.
 
-- Les universités, dans le respect de leur autonomie, doivent promouvoir dans tous les domaines académiques et transversaux la formation, l'enseignement et la recherche sur la violence sexiste et la violence domestique, et plus particulièrement dans les études universitaires des professions sociales et de la santé, le contenu doit être enseigné du point de vue du genre.
+8. Les universités, dans le respect de leur autonomie, doivent promouvoir dans tous les domaines académiques et transversaux la formation, l'enseignement et la recherche sur la violence sexiste et la violence domestique, et plus particulièrement dans les études universitaires des professions sociales et de la santé, le contenu doit être enseigné du point de vue du genre.
 
 ##### Loi 14/2018 portant sur l'enseignement supérieur
 
@@ -364,11 +368,11 @@ L'accès et le suivi des études d'enseignement supérieur pour les personnes po
 
 « Article 21. Droits et devoirs des étudiants
 
-- L'étude est un droit et un devoir des étudiants.
+1. L'étude est un droit et un devoir des étudiants.
 
-- Les étudiants ont le droit :
+2. Les étudiants ont le droit :
 
-- De bénéficier de l'égalité des chances et ne subir aucune forme de discrimination. »
+a) De bénéficier de l'égalité des chances et ne subir aucune forme de discrimination. »
 
 ##### Loi 17/2018 portant sur l'organisation du système éducatif andorran
 
@@ -376,23 +380,23 @@ L'article 53 précise que la formation tout au long de la vie doit permettre le 
 
 Les objectifs sont :
 
-- Promouvoir l'égalité des chances en matière de formation afin que chacun puisse développer son projet personnel et professionnel.
+1. Promouvoir l'égalité des chances en matière de formation afin que chacun puisse développer son projet personnel et professionnel.
 
-- Promouvoir l'accès et la continuité des études et la mobilité professionnelle.
+2. Promouvoir l'accès et la continuité des études et la mobilité professionnelle.
 
-- Favoriser la découverte et la connaissance approfondie de la culture andorrane.
+3. Favoriser la découverte et la connaissance approfondie de la culture andorrane.
 
-- Concéder des ressources pour promouvoir l'inclusion et la participation civique et sociale.
+4. Concéder des ressources pour promouvoir l'inclusion et la participation civique et sociale.
 
 L'article 54 précise que la formation tout au long de la vie comprend le développement de compétences issues de l'apprentissage formel et non formel. Elle est structurée autour des domaines suivants :
 
-- Formation de base et alphabétisation.
+1. Formation de base et alphabétisation.
 
-- Accès aux diplômes officiels du système éducatif et continuité des études.
+2. Accès aux diplômes officiels du système éducatif et continuité des études.
 
-- Formation citoyenne.
+3. Formation citoyenne.
 
-- Formation professionnelle en collaboration avec les administrations et les secteurs professionnels concernés.
+4. Formation professionnelle en collaboration avec les administrations et les secteurs professionnels concernés.
 
 ##### Loi 13/2019 portant sur l'égalité de traitement et la non-discrimination
 
@@ -402,7 +406,7 @@ Comme le prévoit l'article 3, l'un des domaines d'application de la Loi est l'�
 
 « Article 3. Portée objective de l'application.
 
-- La  présente  loi  s'applique  à  tous les domaines  de  la  vie  économique,  sociale,  culturelle  et politique, et en particulier dans les domaines suivants : f) L'éducation. »
+1. La présente loi s'applique à tous les domaines de la vie économique, sociale, culturelle et politique, et en particulier dans les domaines suivants : f) L'éducation. »
 
 [[END OF PAGE 11]]
 
@@ -420,17 +424,17 @@ Les articles 44 et 46 développent le droit à l'éducation.
 
 « Article 44. Droit à l'éducation
 
-- Les enfants et les adolescents ont, depuis leur naissance, le droit à l'éducation au plus haut degré possible de façon à développer leur personnalité, leurs aptitudes et leurs capacités au niveau maximum de leurs possibilités.
+1. Les enfants et les adolescents ont, depuis leur naissance, le droit à l'éducation au plus haut degré possible de façon à développer leur personnalité, leurs aptitudes et leurs capacités au niveau maximum de leurs possibilités.
 
-- Les enfants et les adolescents ont le droit de recevoir et l'obligation de suivre l'enseignement de  base  obligatoire,  qui  comprend  le  premier  et  le  deuxième  degré  d'enseignement,  et  ont également le droit de recevoir l'enseignement aux plus hauts degrés. L'enseignement doit être de qualité et gratuit, selon les termes établis dans les règlements d'application.
+2. Les enfants et les adolescents ont le droit de recevoir et l'obligation de suivre l'enseignement de base obligatoire, qui comprend le premier et le deuxième degré d'enseignement, et ont également le droit de recevoir l'enseignement aux plus hauts degrés. L'enseignement doit être de qualité et gratuit, selon les termes établis dans les règlements d'application.
 
-- Les  administrations  publiques,  dans  le  cadre  de  leurs  compétences,  doivent  assurer  une formation inclusive et s'occuper également des besoins éducatifs spécifiques des enfants et des adolescents  indépendamment  de  leur  condition  ou  circonstance  personnelle,  familiale  ou sociale. Plus précisément, les enfants et les adolescents porteurs de handicap ont le droit de bénéficier d'une éducation sur un pied d'égalité avec le reste des élèves, dans des environnements inclusifs, avec le soutien approprié et les ajustements raisonnables nécessaires à tous les niveaux d'enseignement.
+3. Les administrations publiques, dans le cadre de leurs compétences, doivent assurer une formation inclusive et s'occuper également des besoins éducatifs spécifiques des enfants et des adolescents indépendamment de leur condition ou circonstance personnelle, familiale ou sociale. Plus précisément, les enfants et les adolescents porteurs de handicap ont le droit de bénéficier d'une éducation sur un pied d'égalité avec le reste des élèves, dans des environnements inclusifs, avec le soutien approprié et les ajustements raisonnables nécessaires à tous les niveaux d'enseignement.
 
-- Les enfants et les adolescents ont le droit d'être respectés comme personnes sans subir de discrimination, d'humiliation ou de vexation dans le domaine de l'éducation.
+4. Les enfants et les adolescents ont le droit d'être respectés comme personnes sans subir de discrimination, d'humiliation ou de vexation dans le domaine de l'éducation.
 
 Article 46. Inclusion du contenu dans les projets éducatifs et les programmes scolaires
 
-Les administrations publiques, dans le cadre de leurs compétences, doivent veiller à ce que les projets  éducatifs  dans  les  établissements  scolaires  de  tous  les  niveaux  et  les  programmes scolaires comprennent des contenus transversaux relatifs à l'éducation aux droits de l'homme, en  particulier  les  droits  reconnus  dans  la  Convention  relative  aux  droits  de  l'enfant,  du 20 novembre  1989 ;  la  violence  sexiste ;  la  violence  familiale  ou  domestique ;  la  diversité fonctionnelle  ou  le  handicap ;  la  promotion  et  la  prévention  dans  le  domaine  de  la  santé,  y compris la santé sexuelle et reproductive ; les formes d'abus, y compris les abus sexuels, ainsi que leur prévention et leur protection ; la promotion de la culture de la paix et de la non-violence, y  compris  la  prévention  du  harcèlement  chez  les  élèves,  l'égalité  de  traitement  et  la  nondiscrimination. »
+Les administrations publiques, dans le cadre de leurs compétences, doivent veiller à ce que les projets éducatifs dans les établissements scolaires de tous les niveaux et les programmes scolaires comprennent des contenus transversaux relatifs à l'éducation aux droits de l'homme, en particulier les droits reconnus dans la Convention relative aux droits de l'enfant, du 20 novembre 1989 ; la violence sexiste ; la violence familiale ou domestique ; la diversité fonctionnelle ou le handicap ; la promotion et la prévention dans le domaine de la santé, y compris la santé sexuelle et reproductive ; les formes d'abus, y compris les abus sexuels, ainsi que leur prévention et leur protection ; la promotion de la culture de la paix et de la non-violence, y compris la prévention du harcèlement chez les élèves, l'égalité de traitement et la non-discrimination. »
 
 ##### Première disposition finale de la Loi organique portant sur l'éducation de 1993. Modification de la section 1 de l'article 4 comme suit :
 
@@ -442,7 +446,7 @@ Les administrations publiques, dans le cadre de leurs compétences, doivent veil
 
 [[START OF PAGE 13]]
 
-- L'éducation de base est obligatoire et gratuite pour tous les citoyens, nationaux et étrangers vivant dans la Principauté d'Andorre, quelle que soit leur situation administrative. »
+1. L'éducation de base est obligatoire et gratuite pour tous les citoyens, nationaux et étrangers vivant dans la Principauté d'Andorre, quelle que soit leur situation administrative. »
 
 ##### Décret du 23-12-2020 portant sur la réglementation des mesures spécifiques pour les épreuves officielles du ministère chargé de l'éducation.
 
@@ -464,11 +468,11 @@ La loi établit le principe de non-discrimination.
 
 Article 3.
 
-- Garantir l'égalité des chances et la non-discrimination en favorisant l'inclusion des élèves et en tenant compte de leur diversité.
+11. Garantir l'égalité des chances et la non-discrimination en favorisant l'inclusion des élèves et en tenant compte de leur diversité.
 
 Article 7.
 
-- L'inclusion de tous les élèves en répondant à leurs besoins éducatifs grâce à la différenciation pédagogique. »
+9. L'inclusion de tous les élèves en répondant à leurs besoins éducatifs grâce à la différenciation pédagogique. »
 
 ##### Arrêté  142/2024  portant  sur  la  publication  des  frais  d'inscription  des  formations  formelles enseignées à l'Université d'Andorre pour l'année académique 2024-2025
 
@@ -576,13 +580,13 @@ Les programmes scolaires du système éducatif andorran répondent aux compéten
 
 [[START OF PAGE 16]]
 
-- Promouvoir la dignité humaine et les droits de l'homme.
+1. Promouvoir la dignité humaine et les droits de l'homme.
 
-- Promouvoir la diversité culturelle.
+2. Promouvoir la diversité culturelle.
 
-- Promouvoir la démocratie, la justice, l'équité, l'égalité et la primauté du droit.
+3. Promouvoir la démocratie, la justice, l'équité, l'égalité et la primauté du droit.
 
-- Ouverture cognitive à la diversité culturelle, à d'autres croyances et visions du monde.
+4. Ouverture cognitive à la diversité culturelle, à d'autres croyances et visions du monde.
 
 Méthodes  pédagogiques :  dans  le  système  éducatif  andorran,  l'approche  par  compétences  est appliquée. Elle favorise le développement des compétences et des connaissances pratiques dont les élèves ont besoin pour faire face aux défis du monde actuel. Cette approche repose sur l'idée que les élèves doivent non seulement acquérir des connaissances théoriques, mais aussi être capables de les appliquer dans des situations réelles et de résoudre efficacement les problèmes qui leur sont posés.
 
@@ -596,11 +600,11 @@ Les  trois  systèmes  éducatifs  (andorran,  espagnol  et  français)  accueil
 
 Dans chaque système éducatif, l'apprentissage des langues occupe une place considérable dans le cursus des élèves.
 
+Nombre d'élèves par systèmes éducatifs (Année scolaire 2022-2023. 11 323 élèves)
+
 Système éducatif andorran | Système éducatif français | Système éducatif espagnol | Système éducatif britannique
 --- | --- | --- | ---
 4 678 | 3 477 | 2 945 | 223
-
-Nombre d'élèves par systèmes éducatifs (Année scolaire 2022-2023. 11 323 élèves)
 
 Source : Ministère des Relations Institutionnelles de l'Éducation et des Universités
 
@@ -608,7 +612,7 @@ Le système éducatif andorran contribue  à  la  transmission  des éléments c
 
 À l'école maternelle et au premier cycle de l'école primaire (3-8 ans), le catalan et le français sont enseignés simultanément avec un enseignant pour chaque langue.
 
-Dans les deuxième et troisième cycles de l'école primaire, l'anglais est introduit comme langue étrangère (2 heures par semaine dans le deuxième cycle et 3 heures par semaine dans le troisième Les classes avec deux langues d'apprentissage permettent de commencer par la deuxième langue étrangère en première année du secondaire (11-12 ans).
+Dans les deuxième et troisième cycles de l'école primaire, l'anglais est introduit comme langue étrangère (2 heures par semaine dans le deuxième cycle et 3 heures par semaine dans le troisième
 
 16
 
@@ -616,27 +620,55 @@ Dans les deuxième et troisième cycles de l'école primaire, l'anglais est intr
 
 [[START OF PAGE 17]]
 
-cycle). La langue espagnole commence à être étudiée au troisième cycle avec une charge horaire hebdomadaire d'1 h 30. Dans les deuxième et troisième cycles (8-10 ans), les situations d'enseignement-apprentissage sont réalisées en catalan et/ou en français en alternant une situation en catalan et/ou en français. Lorsque la situation d'enseignement-apprentissage est faite en catalan, les élèves ont 3 heures de français et lorsque la situation globale est faite en français, ils ont 3 heures de catalan.
----
+cycle). La langue espagnole commence à être étudiée au troisième cycle avec une charge horaire hebdomadaire d'1 h 30.
+
+Dans les deuxième et troisième cycles (8-10 ans), les situations d'enseignement-apprentissage sont réalisées en catalan et/ou en français en alternant une situation en catalan et/ou en français.
+
+Lorsque la situation d'enseignement-apprentissage est faite en catalan, les élèves ont 3 heures de français et lorsque la situation globale est faite en français, ils ont 3 heures de catalan.
+
 Dans le troisième cycle (10-11 ans), le catalan, le français et l'espagnol sont enseignés à raison de 1 h 30 pour chacune des langues. Les mathématiques sont enseignées en catalan en première année de cycle et en français en deuxième année.
+
 Le portugais est enseigné dès l'âge de 6 ans en temps périscolaire.
+
 Secondaire inférieur : les situations d'enseignement-apprentissage se déroulent en catalan, en espagnol et en français.
+
 De plus, les élèves suivent hebdomadairement :
-1 h 30 de cours d'espagnol, français et espagnol au premier cycle (12-14 ans). 45 minutes d'anglais, 2 heures de catalan, espagnol et français au deuxième cycle (14-16 ans).
+
+1 h 30 de cours d'anglais, français et espagnol au premier cycle (12-14 ans).
+
+45 minutes d'anglais, 2 heures de catalan, espagnol et français au deuxième cycle (14-16 ans).
+
 Chaque collège peut de plus enseigner :
-• La physique et les sciences de la vie et de la Terre ou la technologie en français ou en espagnol. • Les arts plastiques en français. • L'histoire-géographie en catalan.
+
+• La physique et les sciences de la vie et de la Terre ou la technologie en français ou en espagnol.
+
+• Les arts plastiques en français.
+
+• L'histoire-géographie en catalan.
+
 Secondaire supérieur :
+
 L'élève choisit son itinéraire. Les langues véhiculaires varient en fonction des matières choisies par celui-ci.
-Le système éducatif français prépare aux examens français et les cours sont dispensés en français. Primaire : la langue catalane et l'histoire et la géographie sur l'Andorre sont enseignés à l'école primaire à raison de 3 heures par semaine dans le cadre de la Convention franco-andorrane sur l'éducation de 2013. L'anglais est introduit, à raison d'une heure par semaine, en quatrième ou
-Le portugais est également proposé aux élèves en temps périscolaire à partir de 6 ans. Secondaire inférieur : l'apprentissage d'une langue étrangère commence à l'école primaire et se poursuit jusqu'à la première année du secondaire. L'enseignement d'une deuxième langue étrangère commence dès la deuxième année du secondaire. Au secondaire, les enseignants peuvent créer des groupes de compétences qui tiennent compte des connaissances acquises à l'école primaire, ce qui permet de développer des activités adaptées aux besoins des élèves.
-Dès la deuxième année du secondaire, l'enseignement des langues et cultures européennes proposé, basé sur les langues étrangères étudiées (deux heures par semaine).
-est
+
+Le système éducatif français prépare aux examens français et les cours sont dispensés en français.
+
+Primaire : la langue catalane et l'histoire et la géographie sur l'Andorre sont enseignés à l'école primaire à raison de 3 heures par semaine dans le cadre de la Convention franco-andorrane sur l'éducation de 2013. L'anglais est introduit, à raison d'une heure par semaine, en quatrième ou cinquième année de l'école primaire.
+
+Le portugais est également proposé aux élèves en temps périscolaire à partir de 6 ans.
+
+Secondaire inférieur : l'apprentissage d'une langue étrangère commence à l'école primaire et se poursuit jusqu'à la première année du secondaire. L'enseignement d'une deuxième langue étrangère commence dès la deuxième année du secondaire.
+
+Au secondaire, les enseignants peuvent créer des groupes de compétences qui tiennent compte des connaissances acquises à l'école primaire, ce qui permet de développer des activités adaptées aux besoins des élèves.
+
+Dès la deuxième année du secondaire, l'enseignement des langues et cultures européennes est proposé, basé sur les langues étrangères étudiées (deux heures par semaine).
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
-Secondaire  supérieur :  le  programme  commun  pour  les  langues  étrangères  met  l'accent  sur  la communication  orale  et  donne  la  priorité  aux  niveaux  de  compétence  que  les  élèves  doivent atteindre conformément au Cadre européen commun de référence pour les langues.
+Les classes avec deux langues d'apprentissage permettent de commencer par la deuxième langue étrangère en première année du secondaire (11-12 ans).
+
+Secondaire supérieur : le programme commun pour les langues étrangères met l'accent sur la communication orale et donne la priorité aux niveaux de compétence que les élèves doivent atteindre conformément au Cadre européen commun de référence pour les langues.
 
 Chaque  élève  doit  être  capable  de  communiquer  dans  au  moins  deux  langues  à  la  fin  de l'enseignement secondaire.
 
@@ -670,7 +702,7 @@ La  diversité culturelle et les  droits  culturels  sont inclus  dans les progr
 
 [[START OF PAGE 19]]
 
-- De façon générale, quelles ont été les difficultés rencontrées pour appliquer les principes de nondiscrimination  et  d'égalité  des  chances  dans  le  domaine  de  l'enseignement ?  Des  données  quantitatives succinctes pourront être ajoutées si nécessaire.
+- De façon générale, quelles ont été les difficultés rencontrées pour appliquer les principes de non-discrimination et d'égalité des chances dans le domaine de l'enseignement ? Des données quantitatives succinctes pourront être ajoutées si nécessaire.
 
 Nous ne rencontrons pas de difficultés majeures à cet égard.
 
@@ -682,7 +714,7 @@ Nous ne rencontrons pas de difficultés majeures à cet égard.
 
  La  planification  du  secteur  éducatif  tient compte du genre
 
- M esures positives ou affirmatives
+ Mesures positives ou affirmatives
 
  Incitations financières et bourses d'études
 
@@ -692,7 +724,7 @@ Nous ne rencontrons pas de difficultés majeures à cet égard.
 
  Autres :
 
- L es obstacles qui entravent l'accès à l'éducation des filles enceintes et des jeunes mères ont tous été éliminés pour garantir la continuité de l'enseignement
+ Les obstacles qui entravent l'accès à l'éducation des filles enceintes et des jeunes mères ont tous été éliminés pour garantir la continuité de l'enseignement
 
  Des programmes de réintégration des jeunes mères sont prévus
 
@@ -808,15 +840,15 @@ Pour mémoire : l'article/paragraphe 5 (1) (c) a de la Convention/Recommandation
 
 [[START OF PAGE 22]]
 
-##### Peuples autochtones :
-
  Autres 21 :
 
-- L'Andorre n'accueille pas sur son territoire de minorités nationales.
+L'Andorre n'accueille pas sur son territoire de minorités nationales.
 
 - Veuillez préciser et, le cas échéant, indiquer les mesures juridiques et politiques qui ont été prises :
 
 - Quelles sont les difficultés rencontrées en ce qui concerne la réalisation du droit à l'éducation des minorités ? Des données quantitatives succinctes pourront être ajoutées si nécessaire.
+
+##### Peuples autochtones :
 
  La législation garantit le droit à l'éducation des peuples autochtones
 
@@ -976,12 +1008,12 @@ Bourses octroyées aux élèves ukrainiens (2021-2024)
 
 Année scolaire | Bourses octroyées | Montant en €
 --- | --- | ---
-Année scolaire 2022-2023 (pour 34 élèves)
+Année scolaire 2022-2023 (pour 34 élèves) | |
 Cantine scolaire | 33 | 22 685,60 €
 Matériel | 34 | 5 855,56 €
 Transport scolaire | 14 | 2 520,00 €
 Total | 81 | 31 061,16 €
-Année scolaire 2023-2024 (pour 20 élèves)
+Année scolaire 2023-2024 (pour 20 élèves) | |
 Cantine scolaire | 19 | 13 158,70 €
 Matériel | 19 | 3 774,02 €
 
@@ -995,15 +1027,17 @@ Total | 48 | 18 727,88 €
 
 Source : Ministère des Relations Institutionnelles, de l'Éducation et des Universités
 
+Élèves syriens scolarisés (2021-2024)
+
 Année scolaire | Primaire | Secondaire inférieur | Secondaire supérieur et formation technique et professionnelle
 --- | --- | --- | ---
 2021-2022 | 3 | 1 | 0
 2022-2023 | 5 | 1 | 0
 2023-2024 | 5 | 1 | 0
 
-Élèves syriens scolarisés (2021-2024)
-
 Source : Ministère des Relations Institutionnelles, de l'Éducation et des Universités
+
+Bourses octroyées aux élèves syriens (2021-2024)
 
 Année scolaire | Bourses octroyées | Montant en €
 --- | --- | ---
@@ -1022,8 +1056,6 @@ Cantine scolaire | 4 | 1 775,20 €
 Matériel | 2 | 310 €
 Transport scolaire | 2 | 385,92 €
 Total | 8 | 2 471,12 €
-
-Bourses octroyées aux élèves syriens (2021-2024)
 
 Source : Ministère des Relations Institutionnelles, de l'Éducation et des Universités
 
@@ -1059,7 +1091,7 @@ Dans  le  curricula  de  l'enseignement  primaire  et  secondaire  du  système 
 
 - Ouverture cognitive à la diversité culturelle, à d'autres croyances et visions du monde.
 
-La compétence 3 met l'accent sur le développement des compétences socio-émotionnelles et sur le travail coopératif en tant qu'outils fondamentaux pour établir des relations positives avec soi- même  et  avec  les  autres.  Dans  ce  contexte,  le  travail  coopératif  devient  un  élément  clé  de l'apprentissage,  de  la  responsabilité,  de  l'engagement,  de  la  gestion  de  la  diversité  et  de  la résolution pacifique des conflits par le dialogue et la négociation.
+La compétence 3 met l'accent sur le développement des compétences socio-émotionnelles et sur le travail coopératif en tant qu'outils fondamentaux pour établir des relations positives avec soi-même et avec les autres. Dans ce contexte, le travail coopératif devient un élément clé de l'apprentissage, de la responsabilité, de l'engagement, de la gestion de la diversité et de la résolution pacifique des conflits par le dialogue et la négociation.
 
 Pour parvenir à une interaction et à une coexistence pacifique dans une société fondée sur des valeurs éthiques et démocratiques, il est essentiel de développer chez les élèves des compétences telles que la gestion des émotions, la connaissance de soi, l'empathie et l'affirmation de soi. Ces compétences  permettent  le  dialogue,  la  négociation  et  la  construction  de  règles  explicites  et claires qui favorisent la liberté, l'égalité et la solidarité.
 
@@ -1089,7 +1121,7 @@ Nous n'avons pas sur notre territoire national de demandeurs d'asile, de personn
 
  Leur inclusion dans les écoles ordinaires est garantie
 
- L es écoles spéciales font office de centres de ressources pour les écoles inclusives
+ Les écoles spéciales font office de centres de ressources pour les écoles inclusives
 
  Mesures d'action positive ou affirmative
 
@@ -1125,9 +1157,7 @@ Afin d'améliorer la qualité de l'éducation, à partir de 2013, le système é
 
 > 31 Supra note 15.
 
-32
-
-> Supra note 16.
+> 32 Supra note 16.
 
 28
 
@@ -1149,12 +1179,12 @@ Des  personnels  spécialisés ainsi que  des  ressources  matérielles sont mis
 
 - Le  principe  d'inclusion  est  l'une  des  caractéristiques  de  l'enseignement  en  Andorre.  Depuis  de nombreuses  années,  le  ministère  chargé  de  l'éducation  fait  de  nombreux  efforts  pour  assurer  la scolarisation et la formation des élèves en situation de handicap dans les écoles ordinaires.
 
-Budget et pourcentage d´élèves porteurs de handicap dans les écoles ordinaires et établissements spécialisés (2021-2023)
+Budget et pourcentage d'élèves porteurs de handicap dans les écoles ordinaires et établissements spécialisés (2021-2023)
 
 Année | 2021 | 2022 | 2023
 --- | --- | --- | ---
-Pourcentage d´élèves porteurs de handicap dans les écoles ordinaires | 3,87 % | 4,69 % | 3,22 %
-Pourcentage d´élèves porteurs de handicap dans les établissements spécialisés | 0,11 % | 0,07 % | 0,04 %
+Pourcentage d'élèves porteurs de handicap dans les écoles ordinaires | 3,87 % | 4,69 % | 3,22 %
+Pourcentage d'élèves porteurs de handicap dans les établissements spécialisés | 0,11 % | 0,07 % | 0,04 %
 Budget alloué | 3 789 099 € | 4 301 681 € | 5 384 740 €
 
 Source : Ministère des Relations Institutionnelles, de l'Éducation et des Universités
@@ -1179,9 +1209,9 @@ Article 8. La prise en compte des élèves ayant des besoins éducatifs particul
 
 «Article 14. Éducation
 
-- L'égalité des chances pour les enfants, les jeunes et les adultes porteurs de handicap d'accéder à l'éducation dans des classes ordinaires est reconnue, dans les termes établis dans les règles pour le développement du droit constitutionnel à l'éducation, et en particulier :
+1. L'égalité des chances pour les enfants, les jeunes et les adultes porteurs de handicap d'accéder à l'éducation dans des classes ordinaires est reconnue, dans les termes établis dans les règles pour le développement du droit constitutionnel à l'éducation, et en particulier :
 
-- La scolarisation obligatoire et gratuite, qui comprend l'enseignement primaire et secondaire, de 6 à 16 ans, bien qu'ils aient le droit d'être scolarisés à partir de 3 ans, si les parents ou les tuteurs le demandent, et cela peut être prolongé jusqu'à l'âge de 18 ans pour finaliser l'enseignement secondaire. Le droit à la gratuité est garanti à travers les centres éducatifs publics.
+a) La scolarisation obligatoire et gratuite, qui comprend l'enseignement primaire et secondaire, de 6 à 16 ans, bien qu'ils aient le droit d'être scolarisés à partir de 3 ans, si les parents ou les tuteurs le demandent, et cela peut être prolongé jusqu'à l'âge de 18 ans pour finaliser l'enseignement secondaire. Le droit à la gratuité est garanti à travers les centres éducatifs publics.
 
 c) Une orientation scolaire et professionnelle.
 
@@ -1261,8 +1291,6 @@ Le ministère chargé de l'éducation doit garantir que les élèves qui suivent
 
 - Quelles sont les difficultés rencontrées en ce qui concerne la réalisation du droit à l'éducation des personnes handicapées ? Des données quantitatives succinctes pourront être ajoutées si nécessaire.
 
-- Veuillez préciser et, le cas échéant, indiquer les mesures juridiques et politiques qui ont été prises :
-
 Pas de difficultés majeures rencontrées.
 
 ##### Étudiants issus de familles pauvres :
@@ -1279,6 +1307,8 @@ Pas de difficultés majeures rencontrées.
 
  Les programmes d'enseignement sont exempts de tout stéréotype 34 et de tout préjugé
 
+- Veuillez préciser et, le cas échéant, indiquer les mesures juridiques et politiques qui ont été prises :
+
 ###### Bourses d'études d'aide à la scolarisation
 
 L'Andorre dispose depuis longtemps d'un système de bourses. Par le biais du ministère chargé de l'éducation, le Gouvernement octroie chaque année des bourses aux élèves andorrans et à ceux qui résident dans le pays. Les bourses sont un complément de l'enseignement préprimaire jusqu'aux  études  supérieures  et  sont  définies  dans  la  loi.  Les  bourses  permettent  d'aider  la population scolarisée.
@@ -1287,15 +1317,15 @@ Les différentes aides prévues par la loi portant sur l'aide aux études permet
 
 > 33 Supra note 15.
 
-34
-
-> Supra note 16.
+> 34 Supra note 16.
 
 32
 
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
+
+Bourses octroyées (2021-2024)
 
 Année scolaire | Bourses octroyées | Montant en €
 --- | --- | ---
@@ -1315,25 +1345,25 @@ Matériel | 1 417 | 277 892,91 €
 Transport scolaire | 295 | 51 376,18 €
 Total | 3 133 | 1 340 202,89 €
 
-Bourses octroyées (2021-2024)
-
 Source : Ministère des Relations Institutionnelles, de l'Éducation et des Universités
 
 - Quelles sont les difficultés rencontrées en ce qui concerne la réalisation du droit à l'éducation des étudiants issus de familles pauvres ? Des données quantitatives succinctes pourront être ajoutées si nécessaire.
 
 Pas de difficultés majeures rencontrées.
 
-### Progrès accomplis dans la mise en œuvre du droit à l'éducation à tous les degrés et dans tous les types d'enseignement
+### 2. Progrès accomplis dans la mise en œuvre du droit à l'éducation à tous les degrés et dans tous les types d'enseignement
 
 #### 2.1 Éducation et protection de la petite enfance
 
-Pour  mémoire :  l'éducation  et  la  protection  de  la  petite  enfance  (EPPE)  ne  sont  pas  explicitement prévues  dans  la  Convention/Recommandation.  Cependant,  la  communauté  internationale  a  pris progressivement conscience au fil des ans de l'importance de l'EPPE. Le Comité des droits de l'enfant a initialement reconnu que « le droit à l'éducation durant la petite enfance commence à la naissance » (Observation générale n° 7). Le Cadre d'action et de coopération adopté à Moscou en 2010 a explicité ce droit 35 , de même que, plus récemment, la Déclaration de Tachkent et engagements à l'action pour la transformation de l'éducation et la protection de la petite enfance 36 . Dans le contexte actuel de l'agenda Éducation 2030, les États se sont engagés, au titre de la cible 4.2, à « offrir au moins une année d'éducation préprimaire gratuite et obligatoire ».
+Pour mémoire : l'éducation et la protection de la petite enfance (EPPE) ne sont pas explicitement prévues dans la Convention/Recommandation. Cependant, la communauté internationale a pris progressivement conscience au fil des ans de l'importance de l'EPPE. Le Comité des droits de l'enfant a initialement reconnu que « le droit à l'éducation durant la petite enfance commence à la naissance » (Observation générale n° 7). Le Cadre d'action et de coopération adopté à Moscou en 2010 a explicité ce droit35, de même que, plus récemment, la Déclaration de Tachkent et engagements à l'action pour
 
 > 35 Le Cadre de Moscou déclare que « L'EPPE fait partie du droit à l'éducation et constitue le fondement principal pour un développement humain holistique ».
 
 [[END OF PAGE 33]]
 
 [[START OF PAGE 34]]
+
+la transformation de l'éducation et la protection de la petite enfance36. Dans le contexte actuel de l'agenda Éducation 2030, les États se sont engagés, au titre de la cible 4.2, à « offrir au moins une année d'éducation préprimaire gratuite et obligatoire ».
 
 - Veuillez indiquer les mesures prises pour garantir l'accès à une EPPE de qualité (plusieurs réponses possibles) :
 
@@ -1370,7 +1400,6 @@ La petite enfance dispose aussi d'un plan de santé qui regroupe les projets en 
 [[START OF PAGE 35]]
 
 disposition, soit par le ministère chargé de l'éducation, soit par d'autres organismes sous la supervision des ministères chargés de l'éducation, de la santé et des affaires sociales.
----
 Le ministère chargé de la santé a mis en place une Stratégie Nationale pour la Nutrition, le Sport et la Santé qui s'initie dès la petite enfance et dont l'objectif est de développer et de mener à terme des actions (publication de guides adressés à des publics cible, organisation de la journée du sport pour tous, organisation de conférences, etc.) qui visent à promouvoir
 l'acquisition progressive d'habitudes alimentaires saines et la pratique régulière d'une activité physique.
 Les projets mis en place par les trois systèmes éducatifs pour encadrer la petite enfance doivent doter les enfants de compétences orientées à la consécution de bien-être physique, mental et social.
@@ -1428,14 +1457,14 @@ Les enfants qui y sont admis, font quotidiennement plusieurs activités afin d'a
 
 La  protection  de  l'enfant  implique  normaliser  au  maximum  sa  situation  personnelle.  À partir des étapes de socialisation, ils continuent d'être scolarisés dans leur centre éducatif d'origine ou ils sont scolarisés dans une école proche de leur lieu de résidence s'ils sont déscolarisés. L'accès et la participation à des activités et des sports extrascolaires ou des colonies de vacances pendant l'été sont encouragés.
 
+Nombre d'enfants en accueil au CRAE (2021-2024)
+
 Années | Nombre d'enfants au CRAI
 --- | ---
 2021 | 34
 2022 | 41
 2023 | 40
 2024 | 29
-
-Nombre d'enfants en accueil au CRAE (2021-2024)
 
 Source : Ministère chargé de l'enfance. Les données de 2024 sont arrêtées au mois d'avril 2024
 
@@ -1548,6 +1577,8 @@ Le protocole PAI vise à définir la relation, la coordination et la procédure 
 
 [[START OF PAGE 40]]
 
+Protocoles PAS (2021-2024)
+
 Années | Nombre de protocoles PAS
 --- | ---
 2021 | 84
@@ -1555,9 +1586,9 @@ Années | Nombre de protocoles PAS
 2023 | 112
 2024 | 72
 
-Protocoles PAS (2021-2024)
-
 Source : Ministère chargé de l'enfance. Les données de 2024 sont arrêtées au mois d'avril 2024
+
+Protocoles PAI (2021-2024)
 
 Années | Nombre de protocoles PAI
 --- | ---
@@ -1565,8 +1596,6 @@ Années | Nombre de protocoles PAI
 2022 | 16
 2023 | 13
 2024 | 9
-
-Protocoles PAI (2021-2024)
 
 Source : Ministère chargé de l'intérieur. Les données de 2024 sont arrêtées au mois d'avril 2024
 
@@ -1797,19 +1826,19 @@ L'article 22 réglemente la forme des contrats des mineurs :
 
 « Article 22. Forme du contrat pour les mineurs
 
-- Le contrat pour les mineurs, établi par un formulaire officiel fourni par le ministère chargé du travail, est signé par l'employeur et le représentant légal du mineur, ou le mineur lui- même,  s'il  est  émancipé,  et  est  présenté  au  Département  du  travail  pour  approbation, accompagné des documents suivants :
+1. Le contrat pour les mineurs, établi par un formulaire officiel fourni par le ministère chargé du travail, est signé par l'employeur et le représentant légal du mineur, ou le mineur lui-même, s'il est émancipé, et est présenté au Département du travail pour approbation, accompagné des documents suivants :
 
-- Documents qui certifient l'identité et l'âge du mineur.
+a) Documents qui certifient l'identité et l'âge du mineur.
 
 [[END OF PAGE 45]]
 
 [[START OF PAGE 46]]
 
-- Le certificat médical délivré par un médecin dûment autorisé à exercer dans la Principauté d'Andorre  ou  par  les  services  de  surveillance  de  la  santé  contractés  par  l'employeur,  qui certifie l'aptitude du mineur à effectuer le travail.
+b) Le certificat médical délivré par un médecin dûment autorisé à exercer dans la Principauté d'Andorre ou par les services de surveillance de la santé contractés par l'employeur, qui certifie l'aptitude du mineur à effectuer le travail.
 
-- L'autorisation du Service de l'immigration du mineur et de son représentant légal, si le mineur n'a pas la nationalité andorrane.
+c) L'autorisation du Service de l'immigration du mineur et de son représentant légal, si le mineur n'a pas la nationalité andorrane.
 
-- Les mineurs de moins de dix-huit ans doivent subir un examen médical au moins une fois par an.
+2. Les mineurs de moins de dix-huit ans doivent subir un examen médical au moins une fois par an.
 
 L'employeur  doit  conserver  les  certificats  médicaux  dans  un  dossier,  à  la  disposition  du Département du travail, pendant une période de trois ans. »
 
@@ -1817,21 +1846,21 @@ Et l'article 23 indique les travaux interdits et dérogations pour les mineurs :
 
 « Article 23. Travail interdit et dérogations pour les mineurs
 
-- Il est interdit aux mineurs de moins de dix-huit ans de travailler la nuit.
+1. Il est interdit aux mineurs de moins de dix-huit ans de travailler la nuit.
 
-Aux  fins  du  présent  article,  la  nuit  s'entend  de  la  période  comprise  entre  22 heures  et 6 heures le lendemain.
+Aux fins du présent article, la nuit s'entend de la période comprise entre 22 heures et 6 heures le lendemain.
 
-- Dans tous les cas, il est absolument interdit, sans exception, aux mineurs de moins de dixhuit ans de faire des heures supplémentaires.
+2. Dans tous les cas, il est absolument interdit, sans exception, aux mineurs de moins de dix-huit ans de faire des heures supplémentaires.
 
-- Les  travaux  dangereux  restent  interdits  aux  mineurs  de  moins  de  dix-huit  ans.  L'on considère comme dangereux les travaux :
+3. Les travaux dangereux restent interdits aux mineurs de moins de dix-huit ans. L'on considère comme dangereux les travaux :
 
-- Qui dépassent objectivement leurs capacités physiques ou psychologiques.
+a) Qui dépassent objectivement leurs capacités physiques ou psychologiques.
 
-- Qui présentent des risques d'accident que les jeunes ne peuvent pas identifier ou prévenir en  raison  du  manque  de  conscience  sur  la  sécurité  ou  par  manque  d'expérience  ou  de formation.
+b) Qui présentent des risques d'accident que les jeunes ne peuvent pas identifier ou prévenir en raison du manque de conscience sur la sécurité ou par manque d'expérience ou de formation.
 
-- Et, en général, tous les emplois énumérés à l'annexe I de la loi sur la sécurité et la santé au travail.
+c) Et, en général, tous les emplois énumérés à l'annexe I de la loi sur la sécurité et la santé au travail.
 
-- Les contrats d'apprentissage formalisés avec des mineurs sont exemptés de l'interdiction, dans les cas où l'activité ou le travail est essentiel pour l'acquisition de connaissances ou la formation spécifique d'un métier ou d'une profession et que le mineur, sous la surveillance spéciale  de  l'entreprise  en  matière  de  sécurité  et  de  santé,  en  plus  d'acquérir  les connaissances du métier ou de la profession, apprend à identifier les risques et à prendre des mesures préventives.
+4. Les contrats d'apprentissage formalisés avec des mineurs sont exemptés de l'interdiction, dans les cas où l'activité ou le travail est essentiel pour l'acquisition de connaissances ou la formation spécifique d'un métier ou d'une profession et que le mineur, sous la surveillance spéciale de l'entreprise en matière de sécurité et de santé, en plus d'acquérir les connaissances du métier ou de la profession, apprend à identifier les risques et à prendre des mesures préventives.
 
 5.  Sont  également  exemptées  de  l'interdiction  les  relations  particulières  de  travail  des mineurs de moins de dix-huit ans dans les spectacles publics, dans lesquels leur participation est autorisée à condition d'avoir obtenu une autorisation exceptionnelle du ministère chargé du  travail  et  qu'il  n'existe  pas  de  danger  pour  la  santé  du  mineur  ou  pour  sa  formation personnelle ou professionnelle. La demande d'autorisation doit être présentée par écrit et doit être signée par les représentants légaux du mineur et par le mineur s'il a un jugement suffisant, et doit préciser le spectacle auquel il entend participer et sa durée. Le ministère chargé du travail doit procéder aux vérifications appropriées avant d'accorder éventuellement l'autorisation et peut demander les informations et documents complémentaires nécessaires pour s'assurer que les rythmes biologiques de  l'enfant sont garantis pendant une période d'interruption raisonnable entre les représentations.
 
@@ -1907,7 +1936,7 @@ Le seul critère à remplir pour accéder à l'enseignement supérieur en Andorr
 
 [[START OF PAGE 49]]
 
-La reconnaissance des diplômes étrangers en vue de commencer ou de poursuivre des études supérieures  est  fondée  sur  la  Convention  sur  la  reconnaissance  des  diplômes  relatifs  à l'enseignement supérieur dans la région européenne, faite à Lisbonne le 11 avril 1997, du 2211-2007, que l'Andorre a signée et ratifié avec l'Arrêté du 13-5-2008 par lequel il est rendu public que  la  Convention  sur  la  reconnaissance  des  qualifications  relatives  sur  l'enseignement supérieur dans la région européenne, faite à Lisbonne le 11 avril 1997 entre en vigueur.
+La reconnaissance des diplômes étrangers en vue de commencer ou de poursuivre des études supérieures est fondée sur la Convention sur la reconnaissance des diplômes relatifs à l'enseignement supérieur dans la région européenne, faite à Lisbonne le 11 avril 1997, du 22-11-2007, que l'Andorre a signée et ratifié avec l'Arrêté du 13-5-2008 par lequel il est rendu public que la Convention sur la reconnaissance des qualifications relatives sur l'enseignement supérieur dans la région européenne, faite à Lisbonne le 11 avril 1997 entre en vigueur.
 
 En 2022, l'Andorre a adhéré à la Convention mondiale de l'UNESCO sur la reconnaissance des qualifications relatives à l´enseignement supérieur, adoptée à Paris le 25 novembre 2019. Elle est entrée en vigueur en 2023.
 
@@ -1937,7 +1966,7 @@ L'année académique 2023-2024, le montant maximum accordé pour une bourse fut 
 
 ###### Bourses octroyées à l'enseignement supérieur (2020-2023)
 
-Année académique | 2020- 2021 | 2021-2022 | 2022-2023
+Année académique | 2020-2021 | 2021-2022 | 2022-2023
 --- | --- | --- | ---
 Demandes | 530 | 544 | 556
 Bourses accordées | 311 | 323 | 324
@@ -1959,7 +1988,7 @@ L'obtention du prix implique :
 
 Ce  prix  facilite  l'accès  à  l'enseignement  supérieur  aux  étudiants  ayant  obtenu  de  très  bons résultats au baccalauréat ou au baccalauréat professionnel et qui n'auraient peut-être pas les moyens financiers pour y accéder.
 
-##### Décret du 31-01-2018 approuvant le Règlement du Prix national des études et Décret du 27-62018 modifiant le Règlement du Prix national des études.
+##### Décret du 31-01-2018 approuvant le Règlement du Prix national des études et Décret du 27-6-2018 modifiant le Règlement du Prix national des études.
 
 Par  ailleurs,  les  étudiants  primés  peuvent  également  bénéficier  d'une  bourse  aux  études supérieures s'ils répondent aux critères d'attribution mentionnés précédemment, ceux-ci sont publiés  chaque  année  dans  l'appel  à  candidature  pour  les  bourses  d'études de  l'année académique (année académique 2023-2024).
 
@@ -2029,7 +2058,7 @@ Pour mémoire : l'article/paragraphe 4 (c) de la Convention/Recommandation prév
 
 ##### Règlement portant sur l'éducation de base des adultes (1996)
 
-- À l'Article 2, le règlement prévoit les objectifs de l'éducation de base des adultes suivants :
+À l'Article 2, le règlement prévoit les objectifs de l'éducation de base des adultes suivants :
 
 - Garantir la formation complète des personnes afin qu'elles puissent assumer leurs responsabilités en tant que personnes autonomes intégrées dans le tissu social, et développer leurs compétences en communication, prise de décision, résolution de problèmes et analyse de situation, préparation de projets et recherche d'information.
 
@@ -2053,7 +2082,7 @@ Pour mémoire : l'article/paragraphe 4 (c) de la Convention/Recommandation prév
 
 ###### Formation tout au long de la vie :
 
-- Le  Gouvernement  de  la  Principauté  d'Andorre  met  à  la  disposition  des  citoyens  des formations gratuites au Centre de Formation au long de la vie (CFLV).
+Le Gouvernement de la Principauté d'Andorre met à la disposition des citoyens des formations gratuites au Centre de Formation au long de la vie (CFLV).
 
 Le CFLV offre des opportunités d'éducation et de développement personnel à ceux qui souhaitent poursuivre leurs études au-delà de l'enseignement formel obligatoire ou qui ont besoin d'acquérir de nouvelles compétences et des connaissances à différentes étapes de leur vie (à partir de 16 ans).
 
@@ -2101,13 +2130,11 @@ Pour mémoire : les articles/paragraphes 2, 4 (b) et 5 (b) de la Convention/Reco
 
 - Veuillez indiquer si le cadre juridique ou réglementaire définit les conditions et les normes minimales en matière d'éducation nécessaires à l'établissement et au bon fonctionnement des établissements d'enseignement publics en ce qui concerne les aspects suivants :
 
-- Veuillez préciser chacune des mesures prises :
-
  La supervision et les inspections par les services de l'État
 
  La santé et l'assainissement
 
- La  sécurité :  les  enfants  bénéficient  d'un  cadre  d'apprentissage  sûr,  exempt  de violence ou de harcèlement, y compris notamment de violence liée au genre en milieu scolaire (dans les écoles et à leurs abords).
+ La sécurité : les enfants bénéficient d'un cadre d'apprentissage sûr, exempt de violence ou de harcèlement, y compris notamment de violence liée au genre en milieu scolaire (dans les écoles et à leurs abords).
 
  Les infrastructures
 
@@ -2119,7 +2146,9 @@ Pour mémoire : les articles/paragraphes 2, 4 (b) et 5 (b) de la Convention/Reco
 
  Autres
 
-Des  informations  pourront  être  ajoutées  sur  les  politiques,  protocoles  ou  codes  de  conduite  en vigueur.
+- Veuillez préciser chacune des mesures prises :
+
+Des informations pourront être ajoutées sur les politiques, protocoles ou codes de conduite en vigueur.
 
 ##### La supervision et les inspections par les services de l'État dans le système éducatif andorran
 
@@ -2131,7 +2160,7 @@ Les  fonctions  du  Service  chargé  de  l'inspection  et  de  l'évaluation  s
 
 ###### Mission
 
-- Assurer le respect des lois et des règlements qui affectent l'organisation et le fonctionnement des centres éducatifs du système éducatif andorran.
+a) Assurer le respect des lois et des règlements qui affectent l'organisation et le fonctionnement des centres éducatifs du système éducatif andorran.
 
 54
 
@@ -2139,9 +2168,29 @@ Les  fonctions  du  Service  chargé  de  l'inspection  et  de  l'évaluation  s
 
 [[START OF PAGE 55]]
 
-b) Garantir le respect des droits et l'accomplissement des devoirs et des obligations de tous les membres de la communauté éducative, en particulier des enseignants et des élèves. c) Conseiller, guider et informer la communauté éducative - élèves, enseignants, équipes de direction et parents - sur le cadre juridique qui régit l'organisation et le fonctionnement du système éducatif andorran. d) Contribuer à l'amélioration de la pratique pédagogique et du fonctionnement des centres éducatifs, ainsi qu'aux réformes de l'éducation et de l'innovation éducative, aux programmes scolaires et à d'autres projets ou activités promus par le ministère chargé de l'éducation. e) Contrôler et superviser, du point de vue pédagogique et organisationnel, le fonctionnement des centres éducatifs. f) Approuver les projets éducatifs et les programmes scolaires, superviser leur élaboration et évaluer les résultats en formulant des recommandations à la direction du centre éducatif et aux enseignants. g) Participer à l'identification et priorisation des besoins en formation des enseignants et des centres éducatifs. h) Détecter et évaluer les besoins en infrastructures, en équipements et en matériel des centres éducatifs. i)  Superviser  l'organisation  et  le  fonctionnement  de  la  restauration  scolaire,  du  transport scolaire,  de  la  santé  en  milieu  scolaire,  du  ski  scolaire,  etc.  et  soumettre  des  propositions d'amélioration au ministère chargé de l'éducation. j) Évaluer périodiquement les centres éducatifs, tant sur le plan pédagogique, de l'organisation, du fonctionnement que de la gestion administrative, et rédiger des rapports qui contribuent à l'amélioration de la qualité de l'enseignement. k)  Participer  à  l'évaluation  du  système  éducatif  andorran,  notamment  en  ce  qui  concerne l'organisation  et  le  fonctionnement  des  centres  éducatifs,  la  pratique  pédagogique  des enseignants et les acquis des élèves. l) Participer à la mise en place des études d'évaluation internationales pour le suivi des acquis des élèves. m) Informer le ministère chargé de l'éducation sur tous les aspects liés à l'organisation et au
+b) Garantir le respect des droits et l'accomplissement des devoirs et des obligations de tous les membres de la communauté éducative, en particulier des enseignants et des élèves.
 
-- fonctionnement du système éducatif andorran.
+c) Conseiller, guider et informer la communauté éducative – élèves, enseignants, équipes de direction et parents – sur le cadre juridique qui régit l'organisation et le fonctionnement du système éducatif andorran.
+
+d) Contribuer à l'amélioration de la pratique pédagogique et du fonctionnement des centres éducatifs, ainsi qu'aux réformes de l'éducation et de l'innovation éducative, aux programmes scolaires et à d'autres projets ou activités promus par le ministère chargé de l'éducation.
+
+e) Contrôler et superviser, du point de vue pédagogique et organisationnel, le fonctionnement des centres éducatifs.
+
+f) Approuver les projets éducatifs et les programmes scolaires, superviser leur élaboration et évaluer les résultats en formulant des recommandations à la direction du centre éducatif et aux enseignants.
+
+g) Participer à l'identification et priorisation des besoins en formation des enseignants et des centres éducatifs.
+
+h) Détecter et évaluer les besoins en infrastructures, en équipements et en matériel des centres éducatifs.
+
+i) Superviser l'organisation et le fonctionnement de la restauration scolaire, du transport scolaire, de la santé en milieu scolaire, du ski scolaire, etc. et soumettre des propositions d'amélioration au ministère chargé de l'éducation.
+
+j) Évaluer périodiquement les centres éducatifs, tant sur le plan pédagogique, de l'organisation, du fonctionnement que de la gestion administrative, et rédiger des rapports qui contribuent à l'amélioration de la qualité de l'enseignement.
+
+k) Participer à l'évaluation du système éducatif andorran, notamment en ce qui concerne l'organisation et le fonctionnement des centres éducatifs, la pratique pédagogique des enseignants et les acquis des élèves.
+
+l) Participer à la mise en place des études d'évaluation internationales pour le suivi des acquis des élèves.
+
+m) Informer le ministère chargé de l'éducation sur tous les aspects liés à l'organisation et au fonctionnement du système éducatif andorran.
 
 ##### Sécurité : les enfants bénéficient d'un cadre d'apprentissage sûr, exempt de violence ou de harcèlement, y compris notamment de violence liée au genre en milieu scolaire (dans les écoles et à leurs abords)
 
@@ -2177,7 +2226,7 @@ Années scolaires | Pourcentage d'élèves
 
 Source : Ministère des Relations Institutionnelles, de l'Éducation et des Universités
 
-(1) : restrictions dues au COVID 19
+(1): restrictions dues au COVID 19
 
 56
 
@@ -2318,9 +2367,9 @@ Il est de la responsabilité du directeur d'effectuer des surveillances fréquen
 
 En cas de défauts dans les installations scolaires qui représentent un risque pour les élèves et dans les centres éducatifs du système éducatif andorran, le directeur doit procéder comme suit :
 
-- Bloquer l'accès des étudiants à la zone touchée.
+a) Bloquer l'accès des étudiants à la zone touchée.
 
-- Pallier le défaut par leurs propres moyens ou avertir le ministère en charge de l'éducation.
+b) Pallier le défaut par leurs propres moyens ou avertir le ministère en charge de l'éducation.
 
 ###### Ascenseurs
 
@@ -2356,37 +2405,37 @@ Tous les déplacements et les voyages organisés par l'école doivent être mis 
 
  Autres :
 
+ La mauvaise qualité des infrastructures scolaires et des supports pédagogiques
+
+ Le soutien insuffisant des parents à l'éducation
+
+ La distance entre l'école et le domicile
+
 Pas de difficultés majeures rencontrées.
 
 - Veuillez préciser. Des données quantitatives succinctes pourront être ajoutées si nécessaire.
 
 #### 3.2 Personnel éducatif
 
-Pour mémoire : l'article/paragraphe 4 (d) de la Convention/Recommandation s'applique au personnel éducatif.  Cette  rubrique  correspond  à  la  cible  4  (c),  qui  est  entièrement  consacrée  à  la  profession enseignante et appelle les États à « accroître nettement le nombre d'enseignants qualifiés ».
+Pour mémoire : l'article/paragraphe 4 (d) de la Convention/Recommandation s'applique au personnel éducatif. Cette rubrique correspond à la cible 4 (c), qui est entièrement consacrée à la profession enseignante et appelle les États à « accroître nettement le nombre d'enseignants qualifiés ».
 
 - Veuillez indiquer les mesures prises pour améliorer les conditions d'enseignement et de travail du personnel éducatif, en ce qui concerne en particulier le personnel enseignant à tous niveaux, ainsi que la formation à la profession d'enseignant (plusieurs réponses possibles) :
 
  EX La formation des enseignants est exempte de toute discrimination.
 
- E x Les salaires moyens des enseignants sont compétitifs ou au moins comparables à ceux qui sont versés dans d'autres professions exigeant des qualifications similaires ou équivalentes (à tous les niveaux).
+ Ex Les salaires moyens des enseignants sont compétitifs ou au moins comparables à ceux qui sont versés dans d'autres professions exigeant des qualifications similaires ou équivalentes (à tous les niveaux).
 
  Formation initiale et développement professionnel continu assurés.
 
  X Normes et qualifications minimales requises pour exercer la profession d'enseignant.
 
- Des  mesures  ont  été  prises  pour  renforcer  le  statut  social  et  l'attractivité  de  la  profession d'enseignant.
+ Des mesures ont été prises pour renforcer le statut social et l'attractivité de la profession d'enseignant.
 
  X Des mesures ont été prises pour renforcer la diversité au sein de la profession enseignante ainsi que pour corriger les déséquilibres entre les genres à différents niveaux d'enseignement.
 
  X Mise en place d'un système de suivi des performances.
 
  X Des mesures ont été adoptées pour accroître le nombre de femmes occupant des postes de responsabilité dans l'enseignement.
-
- La mauvaise qualité des infrastructures scolaires et des supports pédagogiques
-
- Le soutien insuffisant des parents à l'éducation
-
- La distance entre l'école et le domicile
 
 [[END OF PAGE 61]]
 
@@ -2462,9 +2511,9 @@ L'article 63 de la loi 29/2022 du 21 juillet modifiant la loi 1/2019 du 17 janvi
 
  Autres :
 
-- X Mauvaise qualité des infrastructures éducatives et du matériel pédagogique
+X Mauvaise qualité des infrastructures éducatives et du matériel pédagogique
 
-- X Rapport élèves/enseignant élevé.
+X Rapport élèves/enseignant élevé.
 
 ##### Pénurie de personnel enseignant dans le système éducatif andorran
 
@@ -2575,12 +2624,17 @@ La  législation validant le  diplôme est le Décret du 11-7-2018, d'établisse
 [[START OF PAGE 67]]
 
 Le bachelor en sciences de l'éducation permet d'exercer en tant qu'enseignant du premier degré. Les étudiants sont formés aux compétences pour une citoyenneté démocratique et pour l'éducation des droits de l'homme.
----
+
 L'un des objectifs du bachelor est de répondre aussi à l'ODD 4 (4.3, 4.4, 4.7, 4c) : « garantir une éducation inclusive, équitable et de qualité et promouvoir des opportunités d'apprentissage tout au long de la vie pour tous. »
+
 ###### Culture démocratique et défense des droits de l'homme :
+
 La compétence en culture démocratique (CCD) est présente dans le profil de compétence du diplôme et fait partie des caractéristiques distinctives de la formation.
+
 L'exposé de motifs du décret du 11-7-2018, d'établissement du diplôme d'état du bachelor en sciences de l'éducation dit que « les enfants d'Andorre doivent être formés dans le respect de la diversité et à la défense des valeurs démocratiques et des droits de l'homme. »
-L'article 3 précise que « l'obtention du diplôme de bachelor en sciences de l'éducation doit permettre aux diplômés [...] d'être formés aux compétences pour une citoyenneté démocratique et à la défense des droits de l'homme, et être capables d'innover dans la pratique quotidienne et d'utiliser les nouvelles technologies dans le domaine de
+
+L'article 3 précise que « l'obtention du diplôme de bachelor en sciences de l'éducation doit permettre aux diplômés [...] d'être formés aux compétences pour une citoyenneté démocratique et à la défense des droits de l'homme, et être capables d'innover dans la pratique quotidienne et d'utiliser les nouvelles technologies dans le domaine de l'éducation. »
+
 ###### Compétences en relation avec les descripteurs du Conseil de l'Europe :
 De plus, les fondements de la compétence en culture démocratique (CCD) sont présents dans toutes les compétences spécifiques du diplôme. Les descripteurs sont intégrés et développés pendant que les objectifs de chaque module sont travaillés. De cette façon il est garanti que les actions développées et évaluées sont imprégnées des fondements de la CCD.
 Les compétences spécifiques de ce diplôme sont reliées aux descripteurs du Conseil de l'Europe.
@@ -2889,11 +2943,11 @@ Le  gouvernement  a  approuvé  la  création  de  trois  diplômes  de  compét
 
 [[START OF PAGE 76]]
 
-- Diplôme de compétence citoyenne numérique utilisateur de base correspondant à une maîtrise à un niveau basique et avec une autonomie limitée.
+a) Diplôme de compétence citoyenne numérique utilisateur de base correspondant à une maîtrise à un niveau basique et avec une autonomie limitée.
 
-- Diplôme de compétence numérique citoyen de niveau utilisateur intermédiaire correspondant à une maîtrise de l'utilisation des outils numériques de façon autonome pour des tâches bien définies et des problématiques inhabituelles.
+b) Diplôme de compétence numérique citoyen de niveau utilisateur intermédiaire correspondant à une maîtrise de l'utilisation des outils numériques de façon autonome pour des tâches bien définies et des problématiques inhabituelles.
 
-- Diplôme de compétence numérique citoyenne de niveau utilisateur avancé correspondant à  une  maîtrise  pour  des  tâches plus  spécialisées,  avec  la capacité  de  s'adapter à  d'autres contextes complexes.
+c) Diplôme de compétence numérique citoyenne de niveau utilisateur avancé correspondant à  une  maîtrise  pour  des  tâches plus  spécialisées,  avec  la capacité  de  s'adapter à  d'autres contextes complexes.
 
 L'accréditation  peut  être  obtenue  en  passant  les  examens  sur  la  compétence  numérique citoyenne convoqués par le Gouvernement.
 
