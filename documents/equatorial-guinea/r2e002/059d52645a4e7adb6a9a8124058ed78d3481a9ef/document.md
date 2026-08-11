@@ -112,9 +112,9 @@ El  Estado  ecuatoguineano  acata  los  principios  del  Derecho  Internacional 
 
 ##### Artículo 9º
 
-1. Los partidos políticos son organizaciones políticas integradas por personas que libremente  se  asocian  para  participar  en  la  orientación  política  del  Estado. Constituyen la expresión del pluralismo político y de la democracia; concurren a la  formación  y  manifestación  de  la  voluntad  popular,  como  instrumentos fundamentales para la participación política. idéntica denominación  como  aquellos  que  preexistieron  al  12  de  Octubre  de  1968,  y deberán tener carácter y ámbito nacional, por lo que no podrán tener por base la tribu, etnia, región, distrito, municipio, provincia, sexo, religión, condición social
+1. Los partidos políticos son organizaciones políticas integradas por personas que libremente se asocian para participar en la orientación política del Estado. Constituyen la expresión del pluralismo político y de la democracia; concurren a la formación y manifestación de la voluntad popular, como instrumentos fundamentales para la participación política.
 
-- Los partidos políticos de Guinea  Ecuatorial no podrán  tener ni profesional  u oficio. Una ley regulará su creación y funcionamiento.
+2. Los partidos políticos de Guinea Ecuatorial no podrán tener idéntica denominación como aquellos que preexistieron al 12 de Octubre de 1968, y deberán tener carácter y ámbito nacional, por lo que no podrán tener por base la tribu, etnia, región, distrito, municipio, provincia, sexo, religión, condición social ni profesional u oficio. Una ley regulará su creación y funcionamiento.
 
 ##### Artículo 10º
 
@@ -352,7 +352,7 @@ La economía de la República de Guinea Ecuatorial funciona a través de cuatro 
 
 ##### Artículo 32º
 
-- El Estado ejerce sus funciones a través del Presidente de la República, el VicePresidente de la República, el Consejo de Ministros, la Cámara de los Diputados, el Senado, el Poder Judicial, el Tribunal Constitucional, el Consejo Superior del Poder Judicial, el Consejo de la República, el Consejo Nacional para el Desarrollo Económico y Social, el Tribunal de Cuentas, el Defensor del Pueblo y los demás órganos creados conforme a la Ley Fundamental y otras leyes.
+- El Estado ejerce sus funciones a través del Presidente de la República, el Vice-Presidente de la República, el Consejo de Ministros, la Cámara de los Diputados, el Senado, el Poder Judicial, el Tribunal Constitucional, el Consejo Superior del Poder Judicial, el Consejo de la República, el Consejo Nacional para el Desarrollo Económico y Social, el Tribunal de Cuentas, el Defensor del Pueblo y los demás órganos creados conforme a la Ley Fundamental y otras leyes.
 
 - La ley desarrolla las competencias y el funcionamiento de estos órganos.
 
@@ -454,7 +454,7 @@ El Presidente de la República ejerce además los siguientes poderes:
 
 - Declara la guerra y concluye la paz.
 
-- El  Presidente  de  la  República  nombra  y  separa  libremente  al  VicePresidente  de  la  Republica.  El  Vice-Presidente  de  la  República  debe pertenecer al partido del Presidente de la República.
+- El Presidente de la República nombra y separa libremente al Vice-Presidente de la Republica. El Vice-Presidente de la República debe pertenecer al partido del Presidente de la República.
 
 - Ratifica la decisión de la Cámara de los Diputados y del Senado sobre la elección  y  cese  de  los  Presidentes  y  demás  miembros  de  sus  respectivas Mesas  conforme  a  esta  Ley  Fundamental  y  el  propio  Reglamento  de ambas Cámaras.
 
@@ -526,31 +526,31 @@ tiempo máximo de tres meses los derechos y garantías establecidos en esta Ley 
 
 [[START OF PAGE 16]]
 
+-15 -
+
+asume el cargo ante la Corte de Honor compuesta por las Mesas de la Cámara de los Diputados y del Senado, la Corte Suprema de Justicia en Pleno y el Tribunal Constitucional en Pleno, para culminar el mandato del Presidente de la República sustituido.
+
+### CAPITULO III DEL CONSEJO DE MINISTROS
+
 ##### Artículo 46º
 
-Para  el  ejercicio  de  la  función  política  y  administrativa,  el  Presidente  de  la República preside el Consejo de Ministros, constituido por el Vice-Presidente de la República, el Primer Ministro y demás miembros del Gobierno.
+Para el ejercicio de la función política y administrativa, el Presidente de la República preside el Consejo de Ministros, constituido por el Vice-Presidente de la República, el Primer Ministro y demás miembros del Gobierno.
 
 ##### Artículo 47º
 
-1. El Consejo de Ministros es el órgano que ejerce la política general de la nación determinada por el Presidente de la República, asegura la aplicación de las leyes y  asiste  de  modo  permanente  al  Presidente  de  la  República  en  los  asuntos políticos, económicos y administrativos. 2. La Ley determina el número de los Ministerios, sus denominaciones así como
+1. El Consejo de Ministros es el órgano que ejerce la política general de la nación determinada por el Presidente de la República, asegura la aplicación de las leyes y asiste de modo permanente al Presidente de la República en los asuntos políticos, económicos y administrativos.
 
-- las competencias atribuidas a cada uno.
+2. La Ley determina el número de los Ministerios, sus denominaciones así como las competencias atribuidas a cada uno.
 
 ##### Artículo 48º
 
-La  dirección,  gestión  y  administración  de  los  servicios  públicos  se  confía  a  los Ministros en los asuntos que competen a los Departamentos de sus respectivos ramos.
+La dirección, gestión y administración de los servicios públicos se confía a los Ministros en los asuntos que competen a los Departamentos de sus respectivos ramos.
 
 ##### Artículo 49º
 
 Fuera de los casos expresamente definidos en esta Ley Fundamental y los que son determinados por la demás leyes, el Consejo de Ministros tiene las siguientes atribuciones:
 
-- Dirigir la política general de la Nación determinada por el Presidente de la República, organizando y ejecutando actividades económicas, culturales, científicas y sociales.
-
--15 -
-
-asume el cargo ante la Corte de Honor compuesta por las Mesas de la Cámara de los Diputados y del Senado, la Corte Suprema de Justicia en Pleno y el Tribunal Constitucional en Pleno, para culminar  el mandato  del  Presidente  de  la República sustituido.
-
-### CAPITULO III DEL CONSEJO DE MINISTROS
+a) Dirigir la política general de la Nación determinada por el Presidente de la República, organizando y ejecutando actividades económicas, culturales, científicas y sociales.
 
 [[END OF PAGE 16]]
 
@@ -820,25 +820,25 @@ Las  funciones  comunes  de  la  Cámara  de  los  Diputados  y  del  Senado  so
 
 [[START OF PAGE 24]]
 
+-23 -
+
+#### DE LA CÁMARA DE DIPUTADOS
+
 ##### Artículo 80º
 
-La Cámara  de los Diputados, es el órgano legislativo del Estado y de representación popular de la Nación. Está integrada por 100 miembros que son elegidos  por  un  mandato  de  cinco  años  mediante  sufragio  universal,  directo  y secreto  en  elecciones  generales  que  se  celebran  en  un  solo  día  y  dentro  de  los sesenta días antes o después de la expiración de su mandato.
+La Cámara de los Diputados, es el órgano legislativo del Estado y de representación popular de la Nación. Está integrada por 100 miembros que son elegidos por un mandato de cinco años mediante sufragio universal, directo y secreto en elecciones generales que se celebran en un solo día y dentro de los sesenta días antes o después de la expiración de su mandato.
 
 ##### Artículo 81º
 
 Compete a la Cámara de los Diputados:
 
-- Aprobar los tratados de paz, de comercio, los que afectan a la soberanía Nacional e integridad territorial y todos los que se refieren a materia de reserva legal y someterlos a la ratificación del Presidente de la República.
+a) Aprobar los tratados de paz, de comercio, los que afectan a la soberanía Nacional e integridad territorial y todos los que se refieren a materia de reserva legal y someterlos a la ratificación del Presidente de la República.
 
-- Autorizar  al  Presidente  de  la  República,  durante  el  intermedio  de  las Sesiones,  dictar  Decretos-Leyes  sobre  materias  de  reserva  legal.  Estos Decretos-Leyes  entrarán  en  vigor  una  vez  publicados  y  no  podrán  ser derogados más que por otra ley. El Gobierno informará a la Cámara de los Diputados y al Senado de estos Decretos-Leyes.
+b) Autorizar al Presidente de la República, durante el intermedio de las Sesiones, dictar Decretos-Leyes sobre materias de reserva legal. Estos Decretos-Leyes entrarán en vigor una vez publicados y no podrán ser derogados más que por otra ley. El Gobierno informará a la Cámara de los Diputados y al Senado de estos Decretos-Leyes.
 
-- Interpretar a los Miembros de Gobierno sobre asuntos de su competencia y hacerlos comparecer ante la Cámara para que rindan explicaciones sobre su política general o sobre un asunto específico puesto bajo su responsabilidad.
+c) Interpretar a los Miembros de Gobierno sobre asuntos de su competencia y hacerlos comparecer ante la Cámara para que rindan explicaciones sobre su política general o sobre un asunto específico puesto bajo su responsabilidad.
 
-- Nombrar en su seno comisiones a fin de investigar cualquier asunto en el que  se  halle  comprometido  el  interés  público.  Estas  comisiones  tienen libre acceso a todos los Departamentos de la Administración quedando a salvo los secretos de Estado.
-
--23 -
-
-#### DE LA CÁMARA DE DIPUTADOS
+d) Nombrar en su seno comisiones a fin de investigar cualquier asunto en el que se halle comprometido el interés público. Estas comisiones tienen libre acceso a todos los Departamentos de la Administración quedando a salvo los secretos de Estado.
 
 [[END OF PAGE 24]]
 
@@ -1069,9 +1069,9 @@ ejercido sus cargos con  reconocida  honradez  y  dignidad,  así  como  otras p
 
 ##### Artículo 108º
 
-1. Los Miembros del Consejo de la República serán nombrados por el Presidente de la República y tendrán una duración de cinco años, pudiendo ser renovados. 2.  Los  Ex-Presidentes  de  la  República  serán  miembros  vitalicios  de  pleno
+- Los Miembros del Consejo de la República serán nombrados por el Presidente de la República y tendrán una duración de cinco años, pudiendo ser renovados.
 
-- derecho del Consejo de la República.
+- Los Ex-Presidentes de la República serán miembros vitalicios de pleno derecho del Consejo de la República.
 
 ##### Artículo 109º
 
@@ -1107,29 +1107,29 @@ Una ley desarrollará las funciones y competencias del Consejo de la República,
 
 [[START OF PAGE 32]]
 
-##### Artículo 115º
-
-- El control fiscal es una función pública que ejercerá el Tribunal de Cuentas de la  República,  el  cual  vela  por  la  transparencia  de  la  gestión  fiscal  de  la Administración y de los particulares o entidades que manejen fondos o bienes de la  Nación.  Dicho control se ejercerá con posterioridad selectiva conforme a los procedimientos, sistemas y principios que establezca la ley.
-
 -31 -
 
 ### CAPÍTULO VIII DEL CONSEJO NACIONAL PARA EL DESARROLLO ECONÓMICO Y SOCIAL
 
 ##### Artículo 113º
 
-1  El  Consejo  Nacional  para  el  Desarrollo  Económico  y  Social,  es  el  órgano técnico-consultivo sobre los planes y programas económicos y sociales, así como toda disposición legislativa o reglamentaria con carácter fiscal; puede asimismo proceder en base a una economía de mercado, al análisis de los problemas de desarrollo de Guinea Ecuatorial
+- El Consejo Nacional para el Desarrollo Económico y Social, es el órgano técnico-consultivo sobre los planes y programas económicos y sociales, así como toda disposición legislativa o reglamentaria con carácter fiscal; puede asimismo proceder en base a una economía de mercado, al análisis de los problemas de desarrollo de Guinea Ecuatorial
 
 - El Consejo Nacional para el Desarrollo Económico y Social emite su criterio y somete sus conclusiones sobre todas las cuestiones relacionadas a las materias que han sido puestas a su estudio por el Presidente de la República, la Cámara de los Diputados, el Senado y otros órganos de la Administración del Estado.
 
-- Sigue  la  ejecución  de  las  decisiones  del  Gobierno  relativas  a  la  organización económica y social.
+- Sigue la ejecución de las decisiones del Gobierno relativas a la organización económica y social.
 
 ##### Artículo 114º
 
-- El Consejo Nacional para el Desarrollo Económico y Social está compuesto por técnicos,  especialistas  y  responsables  en  cuestiones  de  desarrollo  económico  y social. Se compone de 30 miembros, que son designados por el Presidente de la República para un periodo de cinco años.
+- El Consejo Nacional para el Desarrollo Económico y Social está compuesto por técnicos, especialistas y responsables en cuestiones de desarrollo económico y social. Se compone de 30 miembros, que son designados por el Presidente de la República para un periodo de cinco años.
 
-- La  organización  interna  y  las  normas  para  el  funcionamiento  del    Consejo Nacional para el Desarrollo Económico y Social son fijadas por la ley.
+- La organización interna y las normas para el funcionamiento del Consejo Nacional para el Desarrollo Económico y Social son fijadas por la ley.
 
 ### CAPÍTULO IX DEL TRIBUNAL DE CUENTAS
+
+##### Artículo 115º
+
+- El control fiscal es una función pública que ejercerá el Tribunal de Cuentas de la República, el cual vela por la transparencia de la gestión fiscal de la Administración y de los particulares o entidades que manejen fondos o bienes de la Nación. Dicho control se ejercerá con posterioridad selectiva conforme a los procedimientos, sistemas y principios que establezca la ley.
 
 [[END OF PAGE 32]]
 
@@ -1143,7 +1143,7 @@ Una ley desarrollará las funciones y competencias del Consejo de la República,
 
 Todas  las  personalidades  del  Estado,  los  asalariados  públicos  y  para-públicos deben prestar una declaración de sus bienes patrimoniales antes de ejercer las funciones que les sean designadas.
 
-##### Articulo 117º
+##### Artículo 117º
 
 - El Presidente y los Miembros del Tribunal de Cuentas serán nombrados por el Presidente de la República.
 
@@ -1195,9 +1195,13 @@ La ley determinará la manera de ejercer el control y vigilancia de la gestión 
 
 [[START OF PAGE 35]]
 
+-34 -
+
+### CAPÍTULO X DEL DEFENSOR DEL PUEBLO
+
 ##### Artículo 122º
 
-El Defensor del Pueblo es el alto comisionado de la Cámara de los Diputados y del  Senado,  designado  por  éstas  para  la  defensa  de  los  derechos  de  los ciudadanos  comprendidos  en  esta  Ley  Fundamental,  a  cuyo  efecto,  podrá supervisar la  actividad  de  la  Administración,  dando  cuenta  a  la  Cámara  de  los Diputados y al Senado.
+El Defensor del Pueblo es el alto comisionado de la Cámara de los Diputados y del Senado, designado por éstas para la defensa de los derechos de los ciudadanos comprendidos en esta Ley Fundamental, a cuyo efecto, podrá supervisar la actividad de la Administración, dando cuenta a la Cámara de los Diputados y al Senado.
 
 ##### Artículo 123º
 
@@ -1205,11 +1209,11 @@ El Defensor del Pueblo será elegido por la Cámara de los Diputados y el Senado
 
 ##### Artículo 124º
 
-Se  designará  en  el  Parlamento  una  comisión  mixta  Cámara  de  los  DiputadosSenado, encargada de relacionarse con el Defensor del Pueblo e informar a los respectivos plenos en cuantas ocasiones sean necesarias.
+Se designará en el Parlamento una comisión mixta Cámara de los Diputados-Senado, encargada de relacionarse con el Defensor del Pueblo e informar a los respectivos plenos en cuantas ocasiones sean necesarias.
 
 ##### Artículo 125º
 
-Toda persona física o jurídica  que,  ante  un  asunto  que  le  concierne,  considere que un organismo público no ha funcionado o actuado conforme a la misión de servicio público que le es asignado, puede interponer recurso de amparo ante el Defensor del Pueblo.
+Toda persona física o jurídica que, ante un asunto que le concierne, considere que un organismo público no ha funcionado o actuado conforme a la misión de servicio público que le es asignado, puede interponer recurso de amparo ante el Defensor del Pueblo.
 
 ##### Artículo 126º
 
@@ -1220,10 +1224,6 @@ Son funciones del Defensor del Pueblo:
 - Informar y denunciar ante los órganos competentes sobre conductas no conformes con las leyes.
 
 - Mediar en los conflictos que puedan surgir entre la Administración y los administrados, proponiendo las soluciones correspondientes a los órganos competentes, según los casos.
-
--34 -
-
-### CAPÍTULO X DEL DEFENSOR DEL PUEBLO
 
 [[END OF PAGE 35]]
 
@@ -1303,7 +1303,7 @@ El  Régimen  Republicano  y  Democrático  del  Estado  de  Guinea  Ecuatorial,
 
 ## DISPOSICIONES TRANSITORIAS
 
-PRIMERA.En tanto no sean puestas en funcionamiento las nuevas Instituciones  y  Órganos  creados  por  esta  Ley  Fundamental,  permanecerán vigentes las existentes actualmente.
+PRIMERA.- En tanto no sean puestas en funcionamiento las nuevas Instituciones y Órganos creados por esta Ley Fundamental, permanecerán vigentes las existentes actualmente.
 
 SEGUNDA.-  Hasta  tanto  no  se  constituya  la  Cámara  de  los  Diputados  y  el Senado, la actual Cámara de los Representantes del Pueblo seguirá ejerciendo las funciones que la Ley Fundamental reconoce al Poder Legislativo del Estado.
 
