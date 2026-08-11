@@ -6,7 +6,9 @@ Leyes desde 1992 - Vigencia expresa y control de constitucionalidad [LEY_1753_20
 
 Última actualización: 31 de diciembre de 2019 Derechos de autor reservados - Prohibida su reproducción
 
-Inicio Siguiente
+Inicio
+Artículo
+Siguiente
 
 # LEY 1753 DE 2015
 
@@ -27,7 +29,7 @@ DECRETA:
 ## TÍTULO I. DISPOSICIONES GENERALES.
 
 #### ARTÍCULO 1o. OBJETIVOS DEL PLAN NACIONAL DE DESARROLLO.
-El Plan Nacional de Desarrollo 20142018 'Todos por un nuevo país', que se expide por medio de la presente ley, tiene como objetivo construir una Colombia en paz, equitativa y educada, en armonía con los propósitos del Gobierno nacional, con las mejores prácticas y estándares internacionales, y con la visión de planificación, de largo plazo prevista por los objetivos de desarrollo sostenible.
+El Plan Nacional de Desarrollo 2014-2018 'Todos por un nuevo país', que se expide por medio de la presente ley, tiene como objetivo construir una Colombia en paz, equitativa y educada, en armonía con los propósitos del Gobierno nacional, con las mejores prácticas y estándares internacionales, y con la visión de planificación, de largo plazo prevista por los objetivos de desarrollo sostenible.
 
 #### ARTÍCULO 2o. PARTE INTEGRAL DE ESTA LEY.
 El documento denominado 'Bases del Plan Nacional de Desarrollo 2014-2018: Todos por un nuevo país', elaborado por el Gobierno nacional con la participación del Consejo Superior de la Judicatura y del Consejo Nacional de Planeación, con las modificaciones realizadas en el trámite legislativo, es parte integral del Plan Nacional de Desarrollo y se incorpora a la presente ley como un anexo.
@@ -46,7 +48,7 @@ Para  la  consolidación  de  los  tres Pilares  descritos  en  el  artículo  a
 
 - Competitividad e infraestructura estratégicas
 
-Artículo
+
 
 www.secretariasenado.gov.co/senado/basedoc/ley_1753_2015.html
 
@@ -97,21 +99,20 @@ Plan de Inversiones 2015-2018
 
 Cifras en millones de pesos de 2014
 
-Estrategia Objetivo | Fuentes de financiación
+Estrategia Objetivo | Central | Descentralizado | E. Territoriales | Privado | SGP | SGR | TOTAL
 --- | --- | --- | --- | --- | --- | --- | ---
-Central | Descentralizado | E. Territoriales | Privado | SGP | SGR | TOTAL
-Competitividad e infraestructura estratégicas | 40.442.775 | 3.00.731 | 10.299.194 | 121.296.836 | 3.403.565 | 10.601.843 | 189.047.971
-Desarrollo minero- energético para la equidad regional | 8.944.717 | 1.683.814 | 1.019.537 | 65.731.739 | 380.634 | 743.173 | 78.503.614
-Desarrollo productivo | 4.815.257. | 570.231 | 2.510.940 | 35.088 | 26.171 | 313.250 | 8.270.936
-TIC como plataforma para la equidad, la educación y la competitividad | 3.691.150 | 176.805 | 193.797 | 18.165.658 | 28.171 | 22.255.580
-Ciencia, Tecnología e Innovación | 1.728.143 | 12.887.423 | 2.587.402 | 17.202.968
+Competitividad e infraestructura estratégicas | 40.442.775 | 3.003.731 | 10.299.194 | 121.296.836 | 3.403.565 | 10.601.843 | 189.047.971
+Desarrollo minero-energético para la equidad regional | 8.944.717 | 1.683.814 | 1.019.537 | 65.731.739 | 380.634 | 743.173 | 78.503.614
+Desarrollo productivo | 4.815.257 | 570.231 | 2.510.940 | 35.088 | 26.171 | 313.250 | 8.270.936
+TIC como plataforma para la equidad, la educación y la competitividad | 3.691.150 | 176.805 | 193.797 | 18.165.658 |  | 28.171 | 22.255.580
+Ciencia, Tecnología e Innovación | 1.728.143 |  |  | 12.887.423 |  | 2.587.402 | 17.202.968
 Infraestructura y servicios de logística y transporte para la integración territorial | 21.263.509 | 572.881 | 6.574.921 | 24.476.955 | 2.996.760 | 6.929.847 | 62.814.873
-Modalidad social | 66.332.633 | 92.790 | 32.563.735 | 83.493.159 | 121.313.669 | 6.641.594 | 310.437.580
-Cerrar brechas en acceso y calidad de la educación. Impulsar 'Ciudades mables y Sostenibles para la Equidad' | 30.123.367 6.928.939 | 92.790 | 21.638.911 1.259.795 | 491.086 72.204.616 | 79.534.850 7.945.547 | 4.700.286 1.028.327 | 136.581.289 89.367.224
-Mínimos vitales fortalecimiento de las capacidades de la población en pobreza extrema | 15.362.027 | 5.671.062 | 5.110.176 | 290.519 | 26.433.784
-Alternativa para el empleo de calidad y el aseguramiento | 95.102 | 100.707 | 195.809
-Mejorar las condiciones | 13.823.197 | 3.993.967 | 521.754
-10.797.457 | 28.723.097 | 57.859.473
+Movilidad social | 66.332.633 | 92.790 | 32.563.735 | 83.493.159 | 121.313.669 | 6.641.594 | 310.437.580
+Cerrar brechas en acceso y calidad de la educación. | 30.123.367 | 92.790 | 21.638.911 | 491.086 | 79.534.850 | 4.700.286 | 136.581.289
+Impulsar 'Ciudades Amables y Sostenibles para la Equidad' | 6.928.939 |  | 1.259.795 | 72.204.616 | 7.945.547 | 1.028.327 | 89.367.224
+Mínimos vitales fortalecimiento de las capacidades de la población en pobreza extrema | 15.362.027 |  | 5.671.062 |  | 5.110.176 | 290.519 | 26.433.784
+Alternativa para el empleo de calidad y el aseguramiento | 95.102 |  |  |  |  | 100.707 | 195.809
+Mejorar las condiciones | 13.823.197 |  | 3.993.967 | 10.797.457 | 28.723.097 | 521.754 | 57.859.473
 
 www.secretariasenado.gov.co/senado/basedoc/ley_1753_2015.html
 
@@ -127,301 +128,34 @@ Leyes desde 1992 - Vigencia expresa y control de constitucionalidad [LEY_1753_20
 
 de salud
 
-Transformación del campo
-
-10.297.362
-
-966.708
-
-35.528.492
-
-878.079
-
-1.600.933
-
-49.271.574
-
-Reducción de la pobreza y la  ampliación  de  la  clase media rural
-
-2.518.482
-
-34.612
-
-28.605
-
-547.444
-
-3.129.143
-
-Impulsar la competitividad rural
-
-5.165.195
-
-932.096
-
-35.528.492
-
-849.474
-
-309.255
-
-42.784.512
-
-Fortalecimiento institucional de la presencia territorial
-
-241.057
-
-241.057
-
-Ordenamiento
-
-del
-
-territorio  rural  y  acceso  a la tierra por pobladores rurales
-
-768.787
-
-84.958
-
-853.745
-
-Cerrar la brechas urbano- rurales y sentar las bases para la movilidad social
-
-1.603.841
-
-659.276
-
-2.263.116
-
-Seguridad, justicia y democracia para la construcción de la paz
-
-129.599.961
-
-151.442
-
-2.631.619
-
-406.272
-
-4.310.575
-
-316.666
-
-137.416.535
-
-Prestación, administración y  acceso  a  los  servicios de justicia
-
-24.035.974
-
-1.765.913
-
-406.272
-
-2.681
-
-26.210.839
-
-Fortalecer los mecanismos de transición hacia la paz
-
-1.420.948
-
-14.857
-
-1.435.805
-
-Garantía del goce efectivo de derechos de las víctimas
-
-7.734.691
-
-143.308
-
-587.353
-
-39.472
-
-8.504.824
-
-Promoción, respeto y protección de Derechos Humanos
-
-1.217.113
-
-103
-
-1.742
-
-211
-
-1.219.170
-
-Seguridad y defensa en el territorio nacional
-
-91.226.355
-
-151.442
-
-126.543
-
-2.131.989
-
-100.720
-
-93.737.048
-
-Enfrentar  el  problema  de las drogas
-
-365.443
-
-30.560
-
-396.00
-
-Política Criminal con enfoque restaurativo
-
-3.581.128
-
-595.752
-
-1.589.491
-
-128.164
-
-5.894.535
-
-Acción Integral contra Minas Antipersonal
-
-18.310
-
-18.310
-
-Buen gobierno
-
-7.638.749
-
-190.817
-
-203.136
-
-197.926
-
-8.230.629
-
-Lucha contra la corrupción, transparencia y rendición de cuentas.
-
-Gestión óptima de la información
-
-Eficiencia
-
-y
-
-eficacia
-
-administrativa
-
-1.394.390 1.650.849 2.455.860
-
-21.466
-
-169.351
-
-203.136
-
-127.720 5.098
-
-1.522.110 1.677.414 2.828.347
-
-Articulación Nación territorio fortalecida
-
-1.665.109
-
-27.732
-
-1.692.841
-
-Promover  y  asegurar  los intereses nacionales
-
-374.459
-
-1.155
-
-375.614
-
-Gestión óptima de la gestión de los recursos públicos
-
-93.751
-
-36.220
-
-129.971
-
-Fortalecimiento  del  sector hacienda
-
-4.332
-
-4.332
-
-Crecimiento verde
-
-4.371.652
-
-1.414.565
-
-2.895.407
-
-849.352
-
-9.530.975
-
-Avanzar hacia un crecimiento sostenible y bajo en carbono
-
-4.341
-
-498.385
-
-162.546
-
-22.183
-
-687.454
-
-Lograr un crecimiento resiliente y reducir la vulnerabilidad frente a los riesgos  de  desastres  y  al cambio climático
-
-3.490.938
-
-755
-
-1.580.917
-
-47.039
-
-5.119.649
-
-Proteger y asegurar el uso sostenible del capital natural y mejorar la calidad ambiental
-
-876.373
-
-915.425
-
-1.151.943
-
-780.130
-
-3.723.782
-
-TOTAL
-
-258.683.133
-
-3.438.780
-
-47.875.821
-
-240.927.922
-
-132.801.295
-
-20.208.313
-
-703.935.263
+Transformación del campo | 10.297.362 |  | 966.708 | 35.528.492 | 878.079 | 1.600.933 | 49.271.574
+Reducción de la pobreza y la ampliación de la clase media rural | 2.518.482 |  | 34.612 |  | 28.605 | 547.444 | 3.129.143
+Impulsar la competitividad rural | 5.165.195 |  | 932.096 | 35.528.492 | 849.474 | 309.255 | 42.784.512
+Fortalecimiento institucional de la presencia territorial | 241.057 |  |  |  |  |  | 241.057
+Ordenamiento del territorio rural y acceso a la tierra por pobladores rurales | 768.787 |  |  |  |  | 84.958 | 853.745
+Cerrar la brechas urbano-rurales y sentar las bases para la movilidad social | 1.603.841 |  |  |  |  | 659.276 | 2.263.116
+Seguridad, justicia y democracia para la construcción de la paz | 129.599.961 | 151.442 | 2.631.619 | 406.272 | 4.310.575 | 316.666 | 137.416.535
+Prestación, administración y acceso a los servicios de justicia | 24.035.974 |  | 1.765.913 | 406.272 |  | 2.681 | 26.210.839
+Fortalecer los mecanismos de transición hacia la paz | 1.420.948 |  |  |  |  | 14.857 | 1.435.805
+Garantía del goce efectivo de derechos de las víctimas | 7.734.691 |  | 143.308 |  | 587.353 | 39.472 | 8.504.824
+Promoción, respeto y protección de Derechos Humanos | 1.217.113 | 103 | 1.742 | 211 |  |  | 1.219.170
+Seguridad y defensa en el territorio nacional | 91.226.355 | 151.442 | 126.543 |  | 2.131.989 | 100.720 | 93.737.048
+Enfrentar el problema de las drogas | 365.443 |  |  |  |  | 30.560 | 396.003
+Política Criminal con enfoque restaurativo | 3.581.128 |  | 595.752 |  | 1.589.491 | 128.164 | 5.894.535
+Acción Integral contra Minas Antipersonal | 18.310 |  |  |  |  |  | 18.310
+Buen gobierno | 7.638.749 | 190.817 |  | 203.136 |  | 197.926 | 8.230.629
+Lucha contra la corrupción, transparencia y rendición de cuentas. | 1.394.390 |  |  |  |  | 127.720 | 1.522.110
+Gestión óptima de la información | 1.650.849 | 21.466 |  |  |  | 5.098 | 1.677.414
+Eficiencia y eficacia administrativa | 2.455.860 | 169.351 |  | 203.136 |  |  | 2.828.347
+Articulación Nación territorio fortalecida | 1.665.109 |  |  |  |  | 27.732 | 1.692.841
+Promover y asegurar los intereses nacionales | 374.459 |  |  |  |  | 1.155 | 375.614
+Gestión óptima de la gestión de los recursos públicos | 93.751 |  |  |  |  | 36.220 | 129.971
+Fortalecimiento del sector hacienda | 4.332 |  |  |  |  |  | 4.332
+Crecimiento verde | 4.371.652 |  | 1.414.565 |  | 2.895.407 | 849.352 | 9.530.975
+Avanzar hacia un crecimiento sostenible y bajo en carbono | 4.341 |  | 498.385 |  | 162.546 | 22.183 | 687.454
+Lograr un crecimiento resiliente y reducir la vulnerabilidad frente a los riesgos de desastres y al cambio climático | 3.490.938 |  | 755 |  | 1.580.917 | 47.039 | 5.119.649
+Proteger y asegurar el uso sostenible del capital natural y mejorar la calidad ambiental | 876.373 |  | 915.425 |  | 1.151.943 | 780.130 | 3.723.782
+TOTAL | 258.683.133 | 3.438.780 | 47.875.821 | 240.927.922 | 132.801.295 | 20.208.313 | 703.935.263
 
 SGP (Sistema General de Participaciones), SGR (Sistema General de Regalías).
 
@@ -514,7 +248,7 @@ Los recursos que integrarán el patrimonio autónomo son los siguientes:
 
 - Donaciones.
 
-- Recursos de cooperavión nacional o internacional.
+- Recursos de cooperación nacional o internacional.
 
 - Rendimientos financieros generados por los recursos entregados, los cuales se reinvertirán de pleno derecho en el vehículo.
 
@@ -576,7 +310,7 @@ Jurisprudencia Vigencia Legislación Anterior Notas de Vigencia Jurisprudencia V
 #### ARTÍCULO 16. SISTEMA DE INFORMACIÓN DE METROLOGÍA LEGAL Y SISTEMA DE CERTIFICADOS DE  CONFORMIDAD.
 Créase  el  Sistema  de  Información  de  Metrología  Legal  (Simel),  administrado  por  la Superintendencia de Industria y Comercio, en el cual se deberán registrar los productores e importadores, los reparadores  y  los  usuarios  o  titulares  de  instrumentos  de  medición  sujetos  a  control  metrológico.  La Superintendencia de Industria y Comercio designará mediante acto administrativo a los Organismos Autorizados de Verificación Metrológica (OAVM), las zonas geográficas en que actuarán de forma exclusiva, los instrumentos de medición que verificarán.
 
-Cada verificación del OAVM dará lugar al pago de un derecho por parte de los solicitantes de acuerdo con los montos que establezca anualmente la Superintendencia de Industria y Comercio, y en cuya fijación tendrá en cuenta  la  recuperación  de  los  costos  involucrados,  correspondientes  a  materiales,  insumos,  suministros, personal, traslado y todos aquellos que incidan directamente en el desarrollo de la actividad. En caso de un usuario  titular  de  un  instrumento  de  medición  sujeto  a  control  metrológico  impida,  obstruya  o  no  cancele  los costos de la verificación del instrumento, se ordenará la suspensión inmediata de su utilización hasta que se realice su verificación, sin perjuicio de las sanciones establecidas en el artículo 61 de la Ley 1480 de 2011. La Superintendencia de Industria y Comercio determinará la gradualidad con que se implemente el sistema, tanto territorialmente como de los instrumentos de medición que se incorporarán al Sistema.
+Cada verificación del OAVM dará lugar al pago de un derecho por parte de los solicitantes de acuerdo con los montos que establezca anualmente la Superintendencia de Industria y Comercio, y en cuya fijación tendrá en cuenta la recuperación de los costos involucrados, correspondientes a materiales, insumos, suministros, personal, traslado y todos aquellos que incidan directamente en el desarrollo de la actividad. En caso de un usuario titular de un instrumento de medición sujeto a control metrológico impida, obstruya o no cancele los costos de la verificación del instrumento, se ordenará la suspensión inmediata de su utilización hasta que se
 
 www.secretariasenado.gov.co/senado/basedoc/ley_1753_2015.html
 
@@ -589,7 +323,7 @@ www.secretariasenado.gov.co/senado/basedoc/ley_1753_2015.html
 2/24/2020
 
 Leyes desde 1992 - Vigencia expresa y control de constitucionalidad [LEY_1753_2015]
-
+realice su verificación, sin perjuicio de las sanciones establecidas en el artículo 61 de la Ley 1480 de 2011. La Superintendencia de Industria y Comercio determinará la gradualidad con que se implemente el sistema, tanto territorialmente como de los instrumentos de medición que se incorporarán al Sistema.
 Créase  también  el  Sistema  de  Información  de  Certificados  de  Conformidad  (Sicerco),  administrado  por  la Superintendencia de Industria y Comercio, en el cual los organismos de certificación e inspección acreditados por el organismo nacional de acreditación deberán registrar vía electrónica todos los certificados de conformidad que  emitan  respecto  de  productos  sujetos  al  cumplimiento  de  reglamentos  técnicos  vigilados  por  dicha superintendencia. La Superintendencia de Industria y Comercio reglamentará lo relativo a dicho Sistema.
 
 PARÁGRAFO 1o. El Sistema de Información de Metrología Legal y Sistema de Certificados se articulará a la coordinación nacional de la metrología científica e industrial, y demás funciones y atribuciones lideradas por el Instituto  Nacional  de  Metrología  o  quien  haga  sus  veces,  y  contribuirá  con  la  formulación  de  las  políticas  en materia metrológica.
@@ -771,7 +505,7 @@ PARÁGRAFO 2o. El  Gobierno  nacional  deberá  establecer  y  liderar  la  pues
 Notas de Vigencia
 
 #### ARTÍCULO  25.  SANCIONES  EN  DISTRIBUCIÓN  DE  COMBUSTIBLES.
-<Artículo  INEXEQUIBLE> Los agents of la cadena de distribución de combustibles líquidos y biocombustibles que transgredan las normas sobre  el  funcionamiento  del  servicio  público  que  prestan  dichos  agentes,  o  que  incumplan  las  órdenes  del Ministerio de Minas y Energía sobre el particular, serán objeto de imposición de las siguientes sanciones, según la  conducta:  a)  multa  entre  diez  (10)  y  dos  mil  (2.000)  salarios  mínimos  legales  mensuales  vigentes;  b) suspensión  del  servicio  entre  diez  (10)  y  noventa  (90)  días  calendario  y  bloqueo  del  código  Sicom;  c) cancelación de la autorización y bloqueo del código Sicom; d) decomiso administrativo permanente.
+<Artículo INEXEQUIBLE> Los agentes de la cadena de distribución de combustibles líquidos y biocombustibles que transgredan las normas sobre el funcionamiento del servicio público que prestan dichos agentes, o que incumplan las órdenes del Ministerio de Minas y Energía sobre el particular, serán objeto de imposición de las siguientes sanciones, según la conducta: a) multa entre diez (10) y dos mil (2.000) salarios mínimos legales mensuales vigentes; b) suspensión del servicio entre diez (10) y noventa (90) días calendario y bloqueo del código Sicom; c) cancelación de la autorización y bloqueo del código Sicom; d) decomiso administrativo permanente.
 
 PARÁGRAFO 1o. El Ministerio de Minas y Energía o la autoridad delegada, decretará como medida preventiva dentro del procedimiento sancionatorio, la suspensión de la actividad de la cadena de distribución cuando pueda derivarse  algún  daño  o  peligro,  o  cuando  la  actividad  se  ejerce  sin  en  el  lleno  de  los  requisitos,  permisos  o autorizaciones para su funcionamiento, para lo cual procederá a bloquear el código Sicom. Lo anterior, con el fin de  proteger,  prevenir  o  impedir  la  ocurrencia  de  un  hecho,  actuación  y/o  daño  que  atente  contra  la  vida,  la integridad de las personas, la seguridad, el medio ambiente o intereses jurídicos superiores.
 
@@ -814,7 +548,7 @@ Leyes desde 1992 - Vigencia expresa y control de constitucionalidad [LEY_1753_20
 5.001 - 10.000 | 1,0 | 1,75 | 2
 --- | --- | --- | ---
 
-- Salario mínimo diario legal vigente/ hectárea.
+* Salario mínimo diario legal vigente/ hectárea.
 
 ** A partir de cumplido el año más un día (5 A + 1 D, 8 A + 1 D).
 
@@ -866,7 +600,7 @@ Automotor y los que realicen la prueba teórico-práctica para la obtención de 
 
 - Una vez definido el valor de la tasa individual, esta se acumulará al valor de la tarifa para cada servicio.
 
-En ningún caso la tasa final al usuario podrá superar medio (0,5) salario mínimo diario en las tarifas que cobren los Centros de Reconocimiento de Conductores, de Diagnóstico Automotor y los que realicen la prueba teóricopráctica  para  la  obtención  de  licencias  de  conducción  y  un  (1)  salario  mínimo  diario  en  los  Centros  de Enseñanza Automovilística.
+En ningún caso la tasa final al usuario podrá superar medio (0,5) salario mínimo diario en las tarifas que cobren los Centros de Reconocimiento de Conductores, de Diagnóstico Automotor y los que realicen la prueba teórico-práctica para la obtención de licencias de conducción y un (1) salario mínimo diario en los Centros de Enseñanza Automovilística.
 
 Se determinará el porcentaje correspondiente que se girará con destino al Fondo Nacional de Seguridad Vial y la parte que se destinará como remuneración de los organismos de apoyo de que trata este artículo.
 
@@ -1047,7 +781,7 @@ PARÁGRAFO 4o. <Aparte  tachado  INEXEQUIBLE> En proyectos de asociación públi
 
 Jurisprudencia Vigencia
 
-El Gobierno reglamentará las condiciones bajo las cuales se realizará el reconocimiento de los derechos reales y de explotación sobre inmuebles, garantizando que su tasación sea acorde con su valor en el mercado y a las posibilidades  de  explotación  económica  del  activo.  Adicionalmente,  se  incluirán  en  dicha  reglamentación  las condiciones  que  permitan  que  el  inversionista  privado  reciba  los  ingresos  de  dicha  explotación  económica  o enajenación,  condicionados  a  la  disponibilidad  de  la  infraestructura  y  al  cumplimiento  de  los  estándares  de calidad y niveles de servicio pactados.
+El Gobierno reglamentará las condiciones bajo las cuales se realizará el reconocimiento de los derechos reales y de explotación sobre inmuebles, garantizando que su tasación sea acorde con su valor en el mercado y a las posibilidades de explotación económica del activo. Adicionalmente, se incluirán en dicha reglamentación las condiciones que permitan que el inversionista privado reciba los ingresos de dicha explotación económica o
 
 www.secretariasenado.gov.co/senado/basedoc/ley_1753_2015.html
 
@@ -1060,7 +794,7 @@ www.secretariasenado.gov.co/senado/basedoc/ley_1753_2015.html
 2/24/2020
 
 Leyes desde 1992 - Vigencia expresa y control de constitucionalidad [LEY_1753_2015]
-
+enajenación, condicionados a la disponibilidad de la infraestructura y al cumplimiento de los estándares de calidad y niveles de servicio pactados.
 PARÁGRAFO 5o. En caso de que en el proyecto de asociación público-privada la entidad estatal entregue al inversionista privado una infraestructura existente en condiciones de operación, la entidad estatal podrá pactar el  derecho  a  la  retribución  de  los  costos  de  operación  y  mantenimiento  de  esta  infraestructura  existente condicionado a su disponibilidad, al cumplimiento de los niveles de servicio y estándares de calidad.
 
 PARÁGRAFO 6o. En proyectos de asociación público-privada, podrán establecerse, unidades funcionales de tramos de túneles o de vías férreas, en virtud de las cuales se predicará únicamente disponibilidad parcial y estándar de calidad para efectos de la retribución. El Gobierno nacional reglamentará la materia'.
@@ -1192,7 +926,7 @@ PARÁGRAFO 2o. El  Gobierno  nacional,  a  través  del  MinTIC,  diseñará  e 
 
 a) Carpeta ciudadana electrónica. Bajo la plena observancia del derecho fundamental de hábeas data, se podrá ofrecer  a  todo  ciudadano  una  cuenta  de  correo  electrónico  oficial  y  el  acceso  a  una  carpeta  ciudadana electrónica  que  le  permitirá  contar  con  un  repositorio  de  información  electrónica  para  almacenar  y  compartir documentos  públicos  o  privados,  recibir  comunicados  de  las  entidades  públicas,  y  facilitar  las  actividades necesarias  para  interactuar  con  el  Estado.  En  esta  carpeta  podrá  estar  almacenada  la  historia  clínica electrónica. El Min- TIC definirá el modelo de operación y los estándares técnicos y de seguridad de la Carpeta Ciudadana Electrónica. Las entidades del Estado podrán utilizar la Carpeta Ciudadana Electrónica para realizar notificaciones oficiales. Todas las actuaciones que se adelanten a través de las herramientas de esta carpeta tendrán plena validez y fuerza probatoria.
 
-b)  Director  de  Tecnologías  y  Sistemas  de  Información.  Las  entidades  estatales  tendrán  un  Director  de Tecnologías  y  Sistemas  de  Información  responsable  de  ejecutar  los  planes,  programas  y  proyectos  de tecnologías  y  sistemas  de  información  en  la  respectiva  entidad.  Para  tales  efectos,  cada  entidad  pública efectuará  los  ajustes  necesarios  en  sus  estructuras  organizacionales,  de  acuerdo  con  sus  disponibilidades presupuestales, sin incrementar los gastos de personal. El Director de Tecnologías y Sistemas de Información reportará directamente al representante legal de la entidad a la que pertenezca y se acogerá a los lineamientos que en materia de TI defina el MinTIC.
+b) Director de Tecnologías y Sistemas de Información. Las entidades estatales tendrán un Director de Tecnologías y Sistemas de Información responsable de ejecutar los planes, programas y proyectos de tecnologías y sistemas de información en la respectiva entidad. Para tales efectos, cada entidad pública efectuará los ajustes necesarios en sus estructuras organizacionales, de acuerdo con sus disponibilidades
 
 www.secretariasenado.gov.co/senado/basedoc/ley_1753_2015.html
 
@@ -1205,15 +939,22 @@ www.secretariasenado.gov.co/senado/basedoc/ley_1753_2015.html
 2/24/2020
 
 Leyes desde 1992 - Vigencia expresa y control de constitucionalidad [LEY_1753_2015]
-
+presupuestales, sin incrementar los gastos de personal. El Director de Tecnologías y Sistemas de Información reportará directamente al representante legal de la entidad a la que pertenezca y se acogerá a los lineamientos que en materia de TI defina el MinTIC.
 Notas de Vigencia
 
 #### ARTÍCULO  46.  FUNCIONES  DEL  FONDO  DE  TECNOLOGÍAS  DE  LA  INFORMACIÓN  Y  LAS COMUNICACIONES.
 <Artículo derogado por el artículo 51 de la Ley 1978 de 2019>
 
-Notas de Vigencia Legislación Anterior Siguiente
+Notas de Vigencia
+Legislación Anterior
+Siguiente
 
-Disposiciones analizadas por Avance Jurídico Casa Editorial Ltda.© "Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad" ISSN [1657-6241 (En linea)] Última actualización: 31 de diciembre de 2019
+Compilado por:
+Avance Jurídico
+Disposiciones analizadas por Avance Jurídico Casa Editorial Ltda.©
+"Leyes desde 1992 - Vigencia Expresa y Sentencias de Constitucionalidad"
+ISSN [1657-6241 (En linea)]
+Última actualización: 31 de diciembre de 2019
 
 Las notas de vigencia, concordancias, notas del editor, forma  de presentación  y  disposición  de  la  compilación  están  protegidas  por  las normas  sobre  derecho  de  autor.  En  relación  con  estos  valores  jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento  en  publicaciones  similares  y  con  fines  comerciales, incluidas  -pero  no  únicamente-  la  copia,  adaptación,  transformación, reproducción,  utilización  y  divulgación  masiva,  así  como  todo  otro  uso prohibido  expresamente  por  la  normativa  sobre  derechos  de  autor,  que sea  contrario  a  la  normativa  sobre  promoción  de  la  competencia  o  que requiera autorización expresa y escrita de los autores y/o de los titulares de  los  derechos  de  autor.  En  caso  de  duda  o  solicitud  de  autorización puede  comunicarse  al  teléfono  617-0729  en  Bogotá,  extensión  101.  El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
 
