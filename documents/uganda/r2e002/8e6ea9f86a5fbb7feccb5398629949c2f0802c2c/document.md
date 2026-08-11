@@ -2,6 +2,8 @@
 
 Final ESSP
 
+THE REPUBLIC OF UGANDA
+
 Ministry of Education and Sports
 
 # Education Sector Strategic Plan 2004-2015
@@ -16,11 +18,93 @@ Final ESSP
 
 # Table of Contents
 
+1.0 INTRODUCTION...................................................................................................................................... 1
+1.1 PURPOSES OF THE PLAN ........................................................................................................................... 1
+1.2 ECONOMIC CONTEXT OF THE PLAN .......................................................................................................... 1
+1.3 DEMOGRAPHIC TRENDS ........................................................................................................................... 1
+1.4 THE LONG-TERM EXPENDITURE FRAMEWORK ........................................................................................ 2
+1.5 SECTORAL CONTEXT FOR THE PLAN......................................................................................................... 2
+1.6 GOVERNMENT WHITE PAPER ON EDUCATION.......................................................................................... 2
+1.7 INTERNATIONAL LONG-TERM COMMITMENTS .......................................................................................... 2
+1.8 MEDIUM-TERM GOALS AND PLANS........................................................................................................... 3
+1.9 EDUCATION SECTOR REVIEWS (ESRS) AND CURRENT UNDERTAKINGS ................................................... 3
+1.10 MID-TERM REVIEW OF THE ESIP .............................................................................................................. 3
+1.11 DEPARTMENT STRATEGIC PLANS .............................................................................................................. 4
+1.12 POVERTY ERADICATION ACTION PLAN .................................................................................................... 4
+1.13 PROCESS OF DEVELOPING THE ESSP......................................................................................................... 4
+1.14 CHANGES TO THE ESIP............................................................................................................................. 5
+2.0 POLICY OBJECTIVES ........................................................................................................................... 6
+2.1 HIGHEST PRIORITY OBJECTIVES ............................................................................................................... 6
+2.2 OBJECTIVES AND SUB-OBJECTIVES........................................................................................................... 7
+2.2.1 Objective 1: An education system relevant to Uganda’s national development goals.................... 7
+2.2.1.1 Universal participation in a flexible basic education system ...................................................... 8
+2.2.1.2 Increased and equitable participation in a coherent and flexible post-primary system............... 8
+2.2.1.3 Expanded and equitable participation in tertiary system............................................................. 8
+2.2.2 Objective 2: Students achieving education goals............................................................................ 8
+2.2.2.1: Primary-level pupils mastering basic literacy, numeracy, and basic life skills....................... 9
+2.2.2.1: Post-primary students prepared to enter the workforce and higher education........................ 9
+2.2.2.3: Tertiary graduates prepared to be innovative, creative, and entrepreneurial ....................... 10
+2.2.3 Objective 3: An effective and efficient education sector ............................................................... 10
+2.2.3.1 Decentralized authority, financing, and management of education services ............................ 11
+2.2.3.2 Strengthened capacity of the Ministry to provide leadership and management........................ 11
+2.2.3.3 Quality assurance and accountability throughout the sector..................................................... 11
+2.2.3.4 Partnerships between the Ministry and other agencies in service delivery and capacity-building .................................................................................................................................................. 11
+3.0 STRATEGIES TO REACH THE OBJECTIVES................................................................................ 12
+3.1 DISCUSSION OF STRATEGIES AND INTERVENTIONS................................................................................. 12
+3.1.1 Objective 1: An education system relevant to Uganda’s national development goals.................. 12
+3.1.1.1 Sub-objective 1.1: Universal participation in a flexible basic education system ...................... 12
+(a) Support programs targeted to disadvantaged children and youth ............................................. 12
+(b) Lower costs to families............................................................................................................. 13
+(c) Lower social-cultural barriers to girls' attendance .................................................................... 13
+(d) Expand and improve primary school facilities.......................................................................... 13
+3.1.1.2 Sub-objective 1.2: Increased and equitable participation in post-primary system.................... 13
+(a) Make more efficient use of teachers/instructors’ and learners’ time, and other resources........ 13
+(b) Reconfigure the post-primary sub-sector.................................................................................. 14
+(c) Expand, equip, and improve post-primary school facilities...................................................... 15
+(d) Improve equity in the participation of girls and needy students ............................................... 15
+3.1.1.2 Sub-objective 1.3: Expanded and equitable participation in tertiary system. ........................... 15
+(a) Restructure the tertiary system to increase coherence and flexibility ....................................... 15
+(b) Develop facilities to cope with rapidly increasing numbers ..................................................... 16
+(c) Establish a liberalized financing mechanism and diversify the resource base .......................... 16
+3.1.2 Objective 2: Students achieving education goals.......................................................................... 16
+3.1.2.1 Sub-objective 2.1: Primary-level pupils mastering basic literacy, numeracy & life skills........ 16
+(a) Improve the instructional processes ......................................................................................... 16
+(b) Strengthen the teaching force.................................................................................................... 18
+(c) Use pre-primary programs & other measures to prepare children for intellectual requirement. 18
+
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
 Final ESSP
+
+Sub-objective 2.2: Post-primary students prepared to enter the workforce & higher education. ............... 19
+(a) Give highest priority to competencies for the workforce and further education....................... 19
+(b) Strengthen the teaching force.................................................................................................... 21
+Sub-objective 2.3: Tertiary graduates prepared to be innovative, creative, etc ........................ 21
+(a) Reform and improve curricula and instruction in priority disciplines....................................... 21
+(b) Promote research, particularly applied research, and publications........................................... 21
+3.1.3 Objective 3: An effective and efficient education sector ............................................................... 22
+Sub-objective 3.1 Decentralized authority, financing, and management of education services .... 22
+(a) Schools managers become accountable to their communities .................................................. 22
+(b) District Education Offices deliver educational services, etc..................................................... 22
+(c) Central offices formulate sector policy and broadly direct financial resources, etc. ................ 22
+(d) The National Council for Higher Education governs the tertiary system ................................. 23
+3.1.3.2 Sub-objective 3.2: Strengthened capacity of Ministry to provide leadership and management 23
+(a) Provide administrative staff with needed resources and tools .................................................. 23
+(b) Accommodate cross-cutting initiatives as they appear ............................................................. 23
+3.1.3.3 Sub-objective 3.3: Quality assurance and accountability throughout the sector....................... 24
+(a) Develop and maintain a coherent and feasible system of standards and monitoring ................ 24
+(b) Prevent and reduce corruption and misuse of public resources ................................................ 24
+3.1.3.4 Sub-objective 3.4: Partnerships between Ministry and other agencies in service delivery ...... 24
+(a) Build and maintain public-private partnerships in service delivery.......................................... 24
+(b) Develop and maintain partnerships with other agencies in service delivery............................. 25
+4.0 IMPLEMENTING THE ESSP ............................................................................................................... 26
+5.0 COSTS AND FINANCING ..................................................................................................................... 27
+5.1 COSTS .................................................................................................................................................... 27
+5.2 FINANCING............................................................................................................................................. 30
+ANNEX 1A: GUIDELINES FOR ADOPTING NEW INITIATIVES AND PROJECTS................................................... 33
+ANNEX 1B: TABLES AND FIGURES CITED IN THE TEXT.................................................................................. 34
 
 ii
 
@@ -50,7 +134,7 @@ A critical problem facing Uganda is that it does not have enough men and women w
 
 ## 1.3 Demographic Trends
 
-The school-age population is expected to continue to grow at a rate of about 3.4% per year over the next decade.  The population of Uganda has increased at this rate for more than two decades.   The 2002 census had been expected to reveal a decline in  birth  rates  over  the  previous  inter-censual  period,  but  preliminary  analyses indicate  that  high  birth  rates  have  continued.    The  number  of  children  reaching school age is now expected to increase by 40% - 67,000 children - over the decade between 2004 and 2014.  Moreover, these projections reflect the fact that half of the cohorts reaching age six by 2007/08 have already been born; only half of the cohorts have not yet been born.
+The school-age population is expected to continue to grow at a rate of about 3.4% per year over the next decade.  The population of Uganda has increased at this rate for more than two decades.   The 2002 census had been expected to reveal a decline in birth rates over the previous inter-censual period, but preliminary analyses indicate that high birth rates have continued. The number of children reaching school age is now expected to increase by 40% - 670,000 children - over the decade between 2004 and 2014. Moreover, these projections reflect the fact that half of the cohorts reaching age six by 2007/08 have already been born; only half of the cohorts have not yet been born.
 
 > 1 Post Constitutional Restructuring of the Ministry of Education and Sports, Final Report, May 1998, as amended by Top Management of MOES.
 
@@ -72,7 +156,7 @@ The second Education Sector Strategic Plan is based on government's White Paper 
 
 ## 1.6 Government White Paper on Education
 
-The 1992 Government White Paper on Education is the basis of official policy on the  purposes  and  programs  of  education.  While  some  of  the  programs  have  been revised  as  a  result  of  intervening  events,  the  White  Paper's  articulation  of  the purposes of Uganda's education system continues to be the supreme guidance for the sector. Its aims are to promote citizenship; moral, ethical, and spiritual values; promote scientific, technical and cultural knowledge, skills, and attitudes; eradicate literacy and equip individuals with basic skills and knowledge and with the ability to 'contribute to the building of an integrated, self-sustaining and independent national economy.'
+The 1992 Government White Paper on Education is the basis of official policy on the purposes and programs of education. While some of the programs have been revised as a result of intervening events, the White Paper's articulation of the purposes of Uganda's education system continues to be the supreme guidance for the sector. Its aims are to promote citizenship; moral, ethical, and spiritual values; promote scientific, technical and cultural knowledge, skills, and attitudes; eradicate illiteracy and equip individuals with basic skills and knowledge and with the ability to 'contribute to the building of an integrated, self-sustaining and independent national economy.'
 
 ## 1.7 International long-term commitments
 
@@ -138,7 +222,7 @@ Final ESSP
 
 ## 1.14 Changes to the ESIP
 
-The second Plan differs  from  the  first  in  some  key  respects.  The  ESIP  covered  a five-year period (1998-2003), while this Plan (ESSP) covers ten years (2005-2015). 3 This second Plan is costed and linked to department Work Plans and the Mediumterm  Budget  Framework  (MTBF)  so  that  it  can  be  used  as  a  critical  basis  for medium-term and annual planning and budgeting. While the first Plan elaborated on the 'programme approach' to planning and implementation, that approach has been more or less institutionalized, so the second Plan assumes its continuation. Finally, as described in more detail below, the second Plan shifts the emphasis from one of implementing Universal Primary Education, which, introduced in 1997, riveted the attention and resources of the sector, to a more balanced concern for post-primary and other sub-sectors as well as primary. Above all, it aims at improving the quality of educationwhat participants learn and how they learn.
+The second Plan differs from the first in some key respects. The ESIP covered a five-year period (1998-2003), while this Plan (ESSP) covers ten years (2005-2015). 3 This second Plan is costed and linked to department Work Plans and the Medium-term Budget Framework (MTBF) so that it can be used as a critical basis for medium-term and annual planning and budgeting. While the first Plan elaborated on the 'programme approach' to planning and implementation, that approach has been more or less institutionalized, so the second Plan assumes its continuation. Finally, as described in more detail below, the second Plan shifts the emphasis from one of implementing Universal Primary Education, which, introduced in 1997, riveted the attention and resources of the sector, to a more balanced concern for post-primary and other sub-sectors as well as primary. Above all, it aims at improving the quality of education—what participants learn and how they learn.
 
 > 3 The ESSP was approved in spring 2004, so effectively it does not cover the 2004-05 fiscal year, making it a ten-year plan.
 
@@ -158,7 +242,7 @@ Policy objectives that meet the broad requirements of the Millennium Development
 
 The Plan puts highest priority on solving three problems:
 
-(a) Children  are  not  learning  basic  skills  in  primary  school.  The  focus  of  the  first strategic  plan  (1998-2003)  was  on  getting  all  children  into  primary  school  access.  The  focus  of  this  plan  at  the  primary  level  is  to  help  pupils  in  primary school learn the basic skills of literacy and numeracy and life skills - quality.  To achieve this objective (2.1) the Ministry will:
+(a) Children are not learning basic skills in primary school. The focus of the first strategic plan (1998-2003) was on getting all children into primary school - access. The focus of this plan at the primary level is to help pupils in primary school learn the basic skills of literacy and numeracy and life skills - quality. To achieve this objective (2.1) the Ministry will:
 
 (i) Make the curriculum feasible and practical,
 
@@ -196,9 +280,9 @@ The objectives and sub-objectives of the Plan, which are stated immediately belo
 
 Uganda's  development  as  a  proud  nation,  a  strong  government,  and  a  vibrant economy  depends  upon  the  eradication of poverty, the transformation of a subsistence-based  agricultural  economy  into  a  modern  agricultural  and  industrial economy, an elimination of HIV/AIDS and other deadly diseases, and a cessation of internal hostilities. The education of children and youth are essential contributions to these  goals.  Thus,  one  objective  of  the  Plan  is  to  build  an  education  system  that contributes to Uganda's national development goals in the context of globalization.
 
-The Plan aims to accommodate dramatic increases in the rates of transition between the  primary  and  post-primary  sub-sectors  and  the  post-primary  and  tertiary  subsectors. The transition rate between Primary 7 (P7) and Secondary 1 (S1) is expected to rise from about 45% to 80% over the timeframe of the Plan. The rate of transition from S4 to S5 is expected to rise to about 40%. S5 and S6 will be preparatory for entrance into universities and other tertiary-level institutes. Many of those students who do not go on to S5 will take one or more BTVET courses, either immediately after S4 or at some time after they have entered the workforce. The transition rate from S6 to tertiary education is anticipated to be about 90%.
+The Plan aims to accommodate dramatic increases in the rates of transition between the primary and post-primary sub-sectors and the post-primary and tertiary sub-sectors. The transition rate between Primary 7 (P7) and Secondary 1 (S1) is expected to rise from about 45% to 80% over the timeframe of the Plan. The rate of transition from S4 to S5 is expected to rise to about 40%. S5 and S6 will be preparatory for entrance into universities and other tertiary-level institutes. Many of those students who do not go on to S5 will take one or more BTVET courses, either immediately after S4 or at some time after they have entered the workforce. The transition rate from S6 to tertiary education is anticipated to be about 90%.
 
-Objective  1,  which  addresses  access  problems  and  solutions,  is  sub-divided  into three  sub-objectives  that  are  aligned  with  the  three  sub-systems:  primary,  postprimary, and tertiary, of the system. Indicators of progress on this objective include enrolment rates and transition rates by gender, income quintile, geographic region, and rural/urban location (see Annex 3).
+Objective 1, which addresses access problems and solutions, is sub-divided into three sub-objectives that are aligned with the three sub-systems: primary, post-primary, and tertiary, of the system. Indicators of progress on this objective include enrolment rates and transition rates by gender, income quintile, geographic region, and rural/urban location (see Annex 3).
 
 7
 
@@ -248,7 +332,7 @@ Literacy (reading and writing) and numeracy (arithmetic and practical mathematic
 
 > 4 National Assessment of Progress in Education, Uganda National Examinations Board (2003 DRAFT), The achievements of primary school pupils in Uganda in English literacy and numeracy.
 
-> 5 National Assessment of Progress in Education, Uganda National Examinations Board (1999), The achievements of primary school pupils in Uganda in English and mathematicsematics.
+> 5 National Assessment of Progress in Education, Uganda National Examinations Board (1999), The achievements of primary school pupils in Uganda in English and mathematics.
 
 > 6 UNEB, School quality study in secondary and technical/vocational schools in Uganda (March 2002).
 
@@ -364,7 +448,7 @@ Final ESSP
 
 ###### (b) Reconfigure the post-primary sub-sector
 
-During the ten-year timeframe of the ESSP, the Ministry will shift gradually from inflexible parallel tracks of: (1) a  six-year  academic  curriculum  (secondary) designed  to  prepare  students  for  higher  education  and  (2)  a  two  or  three-year vocational education program designed to prepare students for entry level jobs in the work force. Within BTVET, the Ministry will make a gradual transition from postprimary  full-time  programs  to  a  more  flexible  BTVET  system.  The  post-primary reconfiguration  does  not  affect  training  institutes  that  follow  the  fourth  year  of general secondary or the curriculum of Secondary 5 and 6.
+During the ten-year timeframe of the ESSP, the Ministry will shift gradually from inflexible parallel tracks of: (1) a six-year academic curriculum (secondary) designed to prepare students for higher education and (2) a two or three-year vocational education program designed to prepare students for entry level jobs in the work force. Within BTVET, the Ministry will make a gradual transition from post-primary full-time programs to a more flexible BTVET system. The post-primary reconfiguration does not affect training institutes that follow the fourth year of general secondary or the curriculum of Secondary 5 and 6.
 
 General secondary. Not all general secondary schools will look alike. Schools will be tailored to the communities they serve. Rural schools may alter the calendar to meet farming seasons, and they should be able to accommodate students who drop out and return. Community 'seed' schools will be small and may offer multi-grade courses. Urban schools will be large and may use double-shifts to make efficient use of  facilities.  Centres  of  excellence  throughout  the  rural  areas  will  attract  diligent students.
 
@@ -372,7 +456,7 @@ BTVET .  In  order to provide larger numbers of learners with timely acquisition
 
 This new BTVET framework will complement the post-primary general curriculum for  all  students.  Most  courses  will  be  aimed  at  students  who  have  completed  four years  of  general  secondary,  but  they  will  be  open  to  all  learners  who  have  the requisite skills and knowledge to enter.
 
-Courses  will  be  modularized,  so  that  learners  can  acquire  specific  skills  within  a short period of time and move directly into an entry-level job or advance to a higherlevel of certification. Short, modularized courses allow more learners to access the system,  because  each  training  centre  can  accommodate  more  students  in  a  given period  of  time.  This  is  the  model  used  by  the  Directorate  of  Industrial  Training, which  is  solidly  based  within  industry  and  should  play  a  central  role  in a reconfigured BTVET system.
+Courses will be modularized, so that learners can acquire specific skills within a short period of time and move directly into an entry-level job or advance to a higher-level of certification. Short, modularized courses allow more learners to access the system, because each training centre can accommodate more students in a given period of time. This is the model used by the Directorate of Industrial Training, which is solidly based within industry and should play a central role in a reconfigured BTVET system.
 
 Figure 1 in Annex 1B depicts in a simple graphic the relationship of such a BTVET system to the rest of the system.
 
@@ -504,7 +588,7 @@ If Uganda is to transform its subsistence economy into modern agriculture, indus
 
 (v) Understand how computers work.
 
-These competencies are only a small part of both the general secondary and BTVET curricula, and are not the focus of exams. Over the term of the ESSP, the Ministry will  move  toward  a  four-year  program  (S1-S4)  for  all  participants  at  the  postprimary level that emphasizes competencies for the workforce and further education. By 2015, it will cease to offer parallel tracks of academic and vocational curricula.
+These competencies are only a small part of both the general secondary and BTVET curricula, and are not the focus of exams. Over the term of the ESSP, the Ministry will move toward a four-year program (S1-S4) for all participants at the post-primary level that emphasizes competencies for the workforce and further education. By 2015, it will cease to offer parallel tracks of academic and vocational curricula.
 
 General secondary. This shift will necessitate a sweeping revision of the general secondary  curriculum,  away  from  strictly  academic  learning  objectives  that  are thought  to  prepare  students  for  erudite  higher  education  and  toward  a  set  of competencies that serve both those who continue their education after S4 and those who  choose  to  enter  the  workforce.  The  new  curriculum  will  enable  learners  to acquire  specific  vocational  skills  once  they  enter  the  world  of  work.  This  is  not meant to 'vocationalise' the post-primary curriculum by adding training for specific vocations. 8 The  new  curriculum  will  help  learners  make  informed  decisions  as citizens  and  family  members,  and  it  will  give  those  who  continue  with  their education, either immediately in S5 or later in life, the learning skills they need to think critically and study efficiently.
 
@@ -522,11 +606,11 @@ Like  the  curriculum  revision  at  the  primary  level,  curricula  will  be  
 
 The plan calls for reducing students' course loads from 18 to five or six, including required core courses and electives. Over the long term, students will concentrate on subjects that are critical to achieving the competencies they require: math, science, technology, communication, and social studies. Their course load will be reduced so that they have steady exposure to these subjects each day and throughout the year. This can be achieved over the long term by integrating the critical subject matter of many courses into fewer courses. For example, a course in life sciences and a course in  physical  sciences  can  incorporate  the  subject  matter  of  health,  HIV/AIDS prevention, agriculture practices, and environmental studies as practical applications of basic competencies in the scientific approach to problem-solving.
 
-BTVET. As  described  in  Section  1  above,  the  S1-S4  course  of  study  for  postprimary  students  will  be  complemented  by  a  BTVET  system  centering  on  the Uganda Vocational Qualifications Framework/Authority. Learners will take courses within  this  framework/authority  to  acquire  skills  relevant  to  specific  occupations. These courses will be aligned with human resource requirements of all sectors and the labour market.
+BTVET. As described in Section 1 above, the S1-S4 course of study for post-primary students will be complemented by a BTVET system centering on the Uganda Vocational Qualifications Framework/Authority. Learners will take courses within this framework/authority to acquire skills relevant to specific occupations. These courses will be aligned with human resource requirements of all sectors and the labour market.
 
-In order to provide larger numbers of learners with timely acquisition of vocational skills,  BTVET  will  be  organized  within  the  framework  of  the  Uganda  Vocational Qualifications Framework/Authority (UVQF/A), which will articulate course objectives with corresponding job qualifications and certify learners' fulfilment of course  requirements.  This  new  BTVET  framework  will  complement  the  postprimary general curriculum for all students. Most courses will be aimed at students who have completed four years of general secondary, but they will be open to all learners who have the requisite skills and knowledge to enter.
+In order to provide larger numbers of learners with timely acquisition of vocational skills, BTVET will be organized within the framework of the Uganda Vocational Qualifications Framework/Authority (UVQF/A), which will articulate course objectives with corresponding job qualifications and certify learners' fulfilment of course requirements. This new BTVET framework will complement the post-primary general curriculum for all students. Most courses will be aimed at students who have completed four years of general secondary, but they will be open to all learners who have the requisite skills and knowledge to enter.
 
-Courses  will  be  modularized,  so  that  learners  can  acquire  specific  skills  within  a short period of time and move directly into an entry-level job or advance to a higherlevel of certification. Short, modularized courses allow more learners to access the system,  because  each  training  centre  can  accommodate  more  students  in  a  given period  of  time.  This  is  the  model  used  by  the  Directorate  of  Industrial  Training, which  is  solidly  based  within  industry  and  should  play  a  central  role  in a reconfigured BTVET system.
+Courses will be modularized, so that learners can acquire specific skills within a short period of time and move directly into an entry-level job or advance to a higher-level of certification. Short, modularized courses allow more learners to access the system, because each training centre can accommodate more students in a given period of time. This is the model used by the Directorate of Industrial Training, which is solidly based within industry and should play a central role in a reconfigured BTVET system.
 
 At  the  post-primary  level  the  Ministry  will  increase  the  supply  of  instructional materials through matching subsidies and seed funding for a textbook rental scheme.
 
@@ -614,7 +698,7 @@ The Teacher Education Department and Kyambogo University will continue to train 
 
 ###### (b) Accommodate cross-cutting initiatives as they appear
 
-Cross-cutting  initiatives,  including  girls'  education,  HIV/AIDS  awareness  and impact, agricultural education, environment, and physical education and sports, arise in response to changes in national social and economic policies. They will continue to  arise  during  the  timeframe  of  this  Plan.  Rather  than  accommodating only those that  are  currently  embedded  in  the  system  (such  as  girls'  education)  or  on  the horizon (such as agricultural education), the Plan includes guidelines for adopting cross-cutting initiatives and procedures for incorporating them into the system and curricula  (Annex  1).  These  procedures  should  help  ensure  that  teachers  have  the time and other resources to add cross-cutting initiatives to the curriculum without compromising high priorities such as literacy and numeracy.
+Cross-cutting initiatives, including girls' education, HIV/AIDS awareness and impact, agricultural education, environment, and physical education and sports, arise in response to changes in national social and economic policies. They will continue to arise during the timeframe of this Plan. Rather than accommodating only those that are currently embedded in the system (such as girls' education) or on the
 
 23
 
@@ -624,13 +708,15 @@ Cross-cutting  initiatives,  including  girls'  education,  HIV/AIDS  awareness 
 
 Final ESSP
 
+horizon (such as agricultural education), the Plan includes guidelines for adopting cross-cutting initiatives and procedures for incorporating them into the system and curricula (Annex 1). These procedures should help ensure that teachers have the time and other resources to add cross-cutting initiatives to the curriculum without compromising high priorities such as literacy and numeracy.
+
 #### Sub-objective 3.3: Quality assurance and accountability throughout the sector
 
 ##### Strategies
 
 ###### (a) Develop and maintain a coherent and feasible system of standards and performance monitoring
 
-The long-term aim of quality-assurance activities is to develop a working relationship  among  the  various  agencies  that  have  some  responsibility  for  this function so that it is effective and efficient. The Education Standards Agency (ESA) will set and help schools comply with standards for buildings, sanitation, facilities, staff attendance, and record-keeping. It will strengthen the system of private school licensing, registration, and inspection. District inspectors will regularly inspect and report on schools' compliance with standards, regulations, and reporting procedures. The  Ministry  will  address  the  problems  that  hamper  inspectors,  by  providing allowances  for  inspection  visits  and/or  other  such  measures  that  increase  the frequency and usefulness of inspection visits. The TDMS will observe teachers and help them improve instructional methods and management. UNEB will administer the National Assessment of Primary Education (NAPE) to regularly assess that subsector's performance. The Ministry will also use regional and international assessment instruments to assess system performance.
+The long-term aim of quality-assurance activities is to develop a working relationship among the various agencies that have some responsibility for this function so that it is effective and efficient. The Education Standards Agency (ESA) will set and help schools comply with standards for buildings, sanitation, facilities, staff attendance, and record-keeping. It will strengthen the system of private school licensing, registration, and inspection. District inspectors will regularly inspect and report on schools' compliance with standards, regulations, and reporting procedures. The Ministry will address the problems that hamper inspectors, by providing allowances for inspection visits and/or other such measures that increase the frequency and usefulness of inspection visits. The TDMS will observe teachers and help them improve instructional methods and management. UNEB will administer the National Assessment of Primary Education (NAPE) to regularly assess that sub-sector's performance. The Ministry will also use regional and international assessment instruments to assess system performance.
 
 ###### (b) Prevent and reduce corruption and misuse of public resources
 
@@ -642,7 +728,7 @@ The Plan also addresses problems of corruption and misuse of public resources. T
 
 ###### (a) Build and maintain public-private partnerships in service delivery
 
-The  Ministry's  main  roles  vis-à-vis  private  schools  and  institutions  are,  first,  to encourage their development and sustainability and, second, to protect the consumer of  education services by setting standards and monitoring all schools - public and private  -  for  compliance.  In  this  role,  the  Ministry  will  provide  for  community oversight  of  primary  schools  through  School  Management  Committees  and  of secondary schools through Boards of Governors. It will solicit  community contributions  to  the  school  construction  and  maintenance.  In  BTVET,  it  will collaborate with private enterprises in BTVET,  and  train  and  contract  with employees  to  provide  on-site  training.  As  described  above,  it  will  support  and encourage NGO programs for disadvantaged groups and in conflict areas.
+The Ministry's main roles vis-à-vis private schools and institutions are, first, to encourage their development and sustainability and, second, to protect the consumer
 
 24
 
@@ -652,11 +738,13 @@ The  Ministry's  main  roles  vis-à-vis  private  schools  and  institutions  a
 
 Final ESSP
 
+of education services by setting standards and monitoring all schools - public and private - for compliance. In this role, the Ministry will provide for community oversight of primary schools through School Management Committees and of secondary schools through Boards of Governors. It will solicit community contributions to the school construction and maintenance. In BTVET, it will collaborate with private enterprises in BTVET, and train and contract with employees to provide on-site training. As described above, it will support and encourage NGO programs for disadvantaged groups and in conflict areas.
+
 ###### (b) Develop and maintain partnerships with other agencies in service delivery and capacity-building.
 
-The  Ministry  will  engage  local  governments  in  the  support  of  primary  and  postprimary  education.  It  will  collaborate  with  other  ministries  in  the  provision  of BTVET, and help introduce a training fund levy on employers for BTVET. The first step will be a study of training levy funds and related experiences in the region and the  development  of  a  Ugandan  model.  Employers  have  a  vested  interest  in  and receive returns from public-provided training of their future employees.
+The Ministry will engage local governments in the support of primary and post-primary education. It will collaborate with other ministries in the provision of BTVET, and help introduce a training fund levy on employers for BTVET. The first step will be a study of training levy funds and related experiences in the region and the development of a Ugandan model. Employers have a vested interest in and receive returns from public-provided training of their future employees.
 
-The Ministry of Education and Sports will also collaborate with other ministries in the provision of ECD and other cross-cutting programs, and seek the support of civil society  organizations,  associations,  churches,  and  mosques  for  pre-primary  and primary education. It will work with communities to provide community-based, outof-school sports programs.
+The Ministry of Education and Sports will also collaborate with other ministries in the provision of ECD and other cross-cutting programs, and seek the support of civil society organizations, associations, churches, and mosques for pre-primary and primary education. It will work with communities to provide community-based, out-of-school sports programs.
 
 To strengthen the provision of technical education at the post-secondary level, the Ministry  will  work  closely  with  those  ministries  whose  training  institutes  it  has acquired.  It  will  cooperate  with  the  Ministry  of  Health  in  integrating  the  Health Sector  Strategic  Plan  into  the  ESSP,  and  it  will  work  with  other  ministries  in  a similar manner.
 
@@ -678,7 +766,7 @@ The ESSP is organized so that it can be implemented within the Ministry's curren
 
 (b) Draft work plans are presented in a separate document. A work plan for each department is organized around interventions. An 'intervention,' as presented in the matrix of Policy Objectives and Strategies (Annex 2), is a component of a strategy.  An  intervention  might  become  an  'undertaking'  when  the  annual Education Sector Review puts it on the agenda as a condition for funding. Each department must review and significantly revise its Work Plan to conform to the final ESSP. To date, undertakings have not been systematically aligned with the mandates  of  each  department  in  the  Ministry.  The  Ministry  might  consider revising this process so that each department is assigned an undertaking at each annual meeting. This would prevent sub-sectors and functions of the Ministry from languishing due to a lack of attention or from all-consuming priorities in other departments.
 
-(c) The  EPD  will  continue  the  process,  begun  after  the  first  Education  Sector Budget Working Group Workshop of March 22 nd -24 th , of revising the MediumTerm  Budget  Framework  (MTBF)  to  conform  to  the  ESSP.  The  second  and third years of the current MTBF (2005/06 and 2006/07, will reflect the ESSP. The MTBF will be revised every year to reflect revisions to the strategies and interventions of the ESSP.
+(c) The EPD will continue the process, begun after the first Education Sector Budget Working Group Workshop of March 22nd–24th, of revising the Medium-Term Budget Framework (MTBF) to conform to the ESSP. The second and third years of the current MTBF (2005/06 and 2006/07, will reflect the ESSP. The MTBF will be revised every year to reflect revisions to the strategies and interventions of the ESSP.
 
 26
 
@@ -696,14 +784,14 @@ The  objectives,  sub-objectives,  and  strategies  in  the  ESSP  are  estimate
 
 During  the  second  Education  Strategic  Investment  Plan  (2004-2015),  the  private sector (primarily households) will contribute an estimated 36.8 % of the total cost of providing  education  to  Ugandans.  This  represents  40%  of  estimated  household income by the year 2014 (see affordability analysis table 1). If the private sector is to contribute  to  those  levels,  then  90%  of  the  shortfall  in  funding  would  be  assured. However, this should be taken because the dramatic expansion of education under ESSP will draw children from families with lower incomes and less ability to pay than  those  financing  the  costs  of  education  at  present.  Therefore,  the  design  of education financing mechanisms is an essential component of the ESSP. Over the planned period,  emphasis  should  be  put  on  increasing  government  contribution  to secondary education.
 
+Table 1: Affordability analysis
+
 04-05 | 05-06 | 06-07 | 07-08 | 08-09 | 09-10 | 10-11 | 11-12 | 12-13 | 13-14 | 14-15
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Index of Income Per Capita | 1.000 | 1.035 | 1.071 | 1.109 | 1.148 | 1.188 | 1.229 | 1.272 | 1.317 | 1.363 | 1.411
 Index of Private Cost of Education Per Capita | 1.000 | 1.060 | 1.275 | 1.412 | 1.583 | 1.611 | 1.771 | 1.756 | 1.812 | 1.910 | 2.018
 Affordability Index | 1.000 | 1.025 | 1.190 | 1.274 | 1.380 | 1.356 | 1.441 | 1.381 | 1.376 | 1.401 | 1.430
-Percentage Increase (Decrease in Cost) | 0.0% | 2.5%19.0%27.4%38.0%35.6% | 44.1%38.1% | 37.6% | 40.1%43.0%
-
-Table 1: Affordability analysis
+Percentage Increase (Decrease in Cost) | 0.0% | 2.5% | 19.0% | 27.4% | 38.0% | 35.6% | 44.1% | 38.1% | 37.6% | 40.1% | 43.0%
 
 The  most  notable  difference  between  the  ESIP  and  ESSP  is  the  shift  in  funding priorities from primary to post-primary and tertiary education. This shift reflects the success  of  the  first  ESIP  in  meeting  the  goal  of  universal  access  to  primary education. In 2004-05 enrolment in P1 through P7 is estimated to have reached 8.3 million students.  During the ESSP time frame enrolment is expected to stabilize as over-age students - those denied access to primary education in the past - are fully absorbed into  the  system,  and  under-age  students  are  screened  from  matriculation into  P1.  The  surge  in  enrolment  in  primary  schools,  the  UPE  bulge,  has  begun  to move into post-primary schools in 2004-2005.
 
@@ -719,9 +807,11 @@ In  order  to  accommodate  the  social  demand  for  further  education  and  t
 
 In  2010,  the  UPE  bulge  will  enter  the  tertiary  education  system.  If  Ugandan universities  and  other  tertiary  education  institutions  respond  to  the  increase  in  the number of eligible post-primary school leavers, enrolments must increase. The ESSP projects an increase in tertiary enrolment over the decade of 92.3%, of which 52% is expected to occur in the final four years of the plan.
 
-Expenditure requirements are driven by primarily by enrolments. The increase in the education budget can be traced to the growth in numbers of students to be served. Growth in both absolute and relative budgets closely follows the UPE bulge. The cost per student of secondary, vocational and tertiary education are much greater roughly 3 times more for secondary, 7 times more for vocational, and 55 times more for tertiary - than for primary education. Therefore, growth in enrolment in the postprimary and tertiary sub-sectors has a compounded effect on costs. Because of these developments, the share of total spending for education devoted to the primary subsector will decline, despite an increase in both per-student and total expenditures on primary education.
+Expenditure requirements are driven by primarily by enrolments. The increase in the education budget can be traced to the growth in numbers of students to be served. Growth in both absolute and relative budgets closely follows the UPE bulge. The cost per student of secondary, vocational and tertiary education are much greater - roughly 3 times more for secondary, 7 times more for vocational, and 55 times more for tertiary - than for primary education. Therefore, growth in enrolment in the post-primary and tertiary sub-sectors has a compounded effect on costs. Because of these developments, the share of total spending for education devoted to the primary sub-sector will decline, despite an increase in both per-student and total expenditures on primary education.
 
 Table 2 below presents estimates of the cost of education by sub-sector for each year of the decade. The rapid growth in post-primary enrolments in the first six years of the ESSP is clearly evident. Enrolment climbs rapidly between 2004 and 2010 as the UPE  bulge  spreads  from  S1  to  S6.  In  2010  the  UPE  bulge  reaches  the  tertiary education  system  and  by  2013  has  affected  all  three  years  of  basic  university enrolment.
+
+Table 2: Cost of Education by Sector 2005-2015(Billions of Ush)
 
 2004-05 | 2005-06 | 2006-07 | 2007-08 | 2008-09 | 2009-10 | 2010-11 | 2011-12 | 2012-13 | 2013-14 | 2014-15
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -731,8 +821,6 @@ BTVET | 64.8 | 75.7 | 93.7 | 108.3 | 116.8 | 128.3 | 144.6 | 162.2 | 184.6 | 205
 Tertiary | 134.1 | 133.5 | 137.7 | 144.5 | 153.3 | 152.9 | 156.7 | 170.5 | 191.2 | 217.5 | 254.1
 Central and administrative costs | 40.7 | 48.7 | 50.6 | 52.2 | 54.9 | 57.9 | 60.9 | 62.9 | 64.9 | 67.1 | 69.3
 TOTAL | 867.8 | 931.7 | 1106.2 | 1146.5 | 1240.8 | 1283.5 | 1427.1 | 1482.1 | 1589.6 | 1729.5 | 1893.8
-
-Table 2: Cost of Education by Sector 2005-2015 (Billions of Ush)
 
 Table 3 below, compares the allocation of education budget by economic category under the ESSP. Under the first ESIP 71.1 % (2003/04) of the budget was allocated to the recurrent budget  and  28.8  %  (2003/04)  to  the  development  of  capacity  to  accommodate  additional students. 61% (2003/04) was targeted on improving the quality of instruction. Under ESSP II
 
@@ -744,7 +832,9 @@ Table 3 below, compares the allocation of education budget by economic category 
 
 Final ESSP
 
-spending  priorities  have  shifted.  Recurrent  expenditures  absorb  76  % (2005/06,  64% (2014/15)  of  the  budget  while  development  expenditures  consume  the  remaining  24% (2005/06), 36% (2014/15). The share of development expenditures allocated to the expansion of  capacity  falls  to  36  %  (2014/15)  while  the  share  devoted  to  improving  the  quality  of instruction rises to 78.2% (2014/15) 9 . In the first ESIP budget, the wage bill consumed 69.9 % (2003/04) of the recurrent budget; in ESSP II wages, salaries and benefits are expected to represent 80% in 2005/06 and 76% in 20014/15 of the recurrent budget.
+spending priorities have shifted. Recurrent expenditures absorb 76 % (2005/06, 64% (2014/15) of the budget while development expenditures consume the remaining 24% (2005/06), 36% (2014/15). The share of development expenditures allocated to the expansion of capacity falls to 36 % (2014/15) while the share devoted to improving the quality of instruction rises to 78.2% (2014/15)9. In the first ESIP budget, the wage bill consumed 69.9 % (2003/04) of the recurrent budget; in ESSP II wages, salaries and benefits are expected to represent 80% in 2005/06 and 76% in 20014/15 of the recurrent budget.
+
+Table 3: Education Budget by Economic Category (Primary and Academic Secondary Schools Only, in Billions of Ush)
 
 Primary | 2004-05 | 2005-06 | 2006-07 | 2007-08 | 2008-09 | 2009-10 | 2010-11 | 2011-12 | 2012-13 | 2013-14 | 2014-15
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -760,8 +850,6 @@ Staff Training | 12.9 | 14.3 | 14.3 | 14.3 | 11.6 | 11.6 | 10.9 | 11.6 | 10.2 | 
 Total All | 400.4 | 407.5 | 486.2 | 449.9 | 461.1 | 487.5 | 558.1 | 613.4 | 687.9 | 777.0 | 891.0
 Percent Recurrent | 73.6% | 76.0% | 83.4% | 90.9% | 90.0% | 87.7% | 80.1% | 76.3% | 72.7% | 68.0% | 64.0%
 Percent Capital | 26.4% | 24.0% | 16.6% | 9.1% | 10.0% | 12.3% | 19.9% | 23.7% | 27.3% | 32.0% | 36.0%
-
-Table  3:  Education  Budget  by  Economic  Category ( Primary  and  Academic  Secondary Schools Only, in Billions of Ush)
 
 Secondary | 2004-05 | 2005-06 | 2006-07 | 2007-08 | 2008-09 | 2009-10 | 2010-11 | 2011-12 | 2012-13 | 2013-14 | 2014-15
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -790,17 +878,17 @@ Final ESSP
 
 ## 5.2 Financing
 
-The Long-Term Expenditure Framework projects that 9,094 billion Ug. Shs will be available to  finance  the  provision  of  education  over  the  period  of  ESSP  II.  The  annual  allocation increases from 619bn billion Ug. Shs in 2005 to 1135 bn billion Ug. Shs in 2014 - an increase of  83%. (These estimates are presented here in shillings of constant value.) The difference between  the  estimated  budget  for  education  and  the  government's  commitment  of  budget resources must be met from private sources-households, enterprises and private voluntary organizations. In 2003, the private sector was estimated to have contributed 302.4 billion and 636.2  bn  in  2004-05  and  2014/15  respectively  to  finance  education  in  Uganda.    Table  5 presents  data  on  private  expenditures  by  sub-sector.  If  the  share  of  private  expenditure  in education finance were to remain constant, 5413.8 billion Ug. Shs would become available during  the  ESSP.  This  would  leave  a  shortfall  of  190.3  billion  Ug.  Shs.  The  share  of expenditure borne by the private sector has been very large - 71 % in 2002-04 according to EMIS statistics - in the  post-primary sub-sector. The very large increases in enrolment in post-primary education for the next decade suggest that many students will be drawn from lower income households. The willingness and ability of the families of these students to pay fees is questionable. Therefore, the likelihood that current rates of cost sharing will continue is  not  high.  At  the  tertiary  level,  significant  increases  in  enrolment  are  also  anticipated.  A student  loan  scheme  has  been  proposed  as  a  device  for  enabling  students  to  finance  the private share of costs of higher education. The details of such a loan scheme have not been elaborated, so it is not possible to assess its feasibility and effectiveness at this time.
+The Long-Term Expenditure Framework projects that 9,094 billion Ug. Shs will be available to finance the provision of education over the period of ESSP II. The annual allocation increases from 619bn billion Ug. Shs in 2005 to 1135 bn billion Ug. Shs in 2014 - an increase of 83%. (These estimates are presented here in shillings of constant value.) The difference between the estimated budget for education and the government's commitment of budget resources must be met from private sources—households, enterprises and private voluntary organizations. In 2003, the private sector was estimated to have contributed 302.4 billion and 636.2 bn in 2004-05 and 2014/15 respectively to finance education in Uganda. Table 5 presents data on private expenditures by sub-sector. If the share of private expenditure in education finance were to remain constant, 5413.8 billion Ug. Shs would become available during the ESSP. This would leave a shortfall of 190.3 billion Ug. Shs. The share of expenditure borne by the private sector has been very large - 71 % in 2002-04 according to EMIS statistics - in the post-primary sub-sector. The very large increases in enrolment in post-primary education for the next decade suggest that many students will be drawn from lower income households. The willingness and ability of the families of these students to pay fees is questionable. Therefore, the likelihood that current rates of cost sharing will continue is not high. At the tertiary level, significant increases in enrolment are also anticipated. A student loan scheme has been proposed as a device for enabling students to finance the private share of costs of higher education. The details of such a loan scheme have not been elaborated, so it is not possible to assess its feasibility and effectiveness at this time.
 
 Table 4, presents an analysis of funding options for the ESSP. The first row presents the total cost of programs; the second row shows the contribution of government to the financing of these programs, assuming that it continues to fund the same shares as in the period 2004-05 (EMIS);  the  third  row  shows  the  private  contribution  to  costs  if  the  present  rates  of  cost sharing were to continue, and the final row presents estimates of private financing if the share of household income devoted to education were to continue at the same level as in the period 2004-15.
+
+Table 4: Analysis of funding options (in Billions of Ush)
 
 2004-05 | 2005-06 | 2006-07 | 2007-08 | 2008-09 | 2009-10 | 2010-11 | 2011-12 | 2012-13 | 2013-14 | 2014-15
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Total cost of education | 867.8 | 931.7 | 1106.2 | 1146.5 | 1240.8 | 1283.5 | 1427.1 | 1482.1 | 1589.6 | 1729.5 | 1893.8
 Government Contribution | 565.4 | 597.3 | 704.2 | 701.1 | 741.4 | 775.6 | 868.5 | 928.3 | 1018.2 | 1127.2 | 1257.6
 Private/household funding | 302.4 | 334.4 | 402.0 | 445.4 | 499.3 | 508.0 | 558.6 | 553.9 | 571.4 | 602.3 | 636.2
-
-Table 4: Analysis of funding options (in Billions of Ush)
 
 30
 
