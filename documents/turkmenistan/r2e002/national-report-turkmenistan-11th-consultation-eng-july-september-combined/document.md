@@ -12,7 +12,7 @@ Eleventh consultation of Member  States on the application of the Convention and
 
 ## 1. Introduction
 
-The Convention against Discrimination in Education ('the Convention') and the Recommendation against  Discrimination  in  Education  ('the  Recommendation'),  adopted  by  UNESCO's  General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'ad vance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
+The Convention against Discrimination in Education (“the Convention”) and the Recommendation against Discrimination in Education (“the Recommendation”), adopted by UNESCO’s General Conference in 1960, are aligned with UNESCO’s constitutional mandate to “advance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social”. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
 
 The right to education is one of the key principles underpinning the Education 2030 agenda and Sustainable Development Goal 4 (SDG4) adopted by the international community in 2015. SDG 4 seeks to ensure the full enjoyment of the right to education as fundamental to achieving sustainable development. Its scope captures the multidimensional nature of the right to education.
 
@@ -42,7 +42,7 @@ There are differences in the legal nature of the obligations under the Conventio
 
 Bearing in mind the differences in legal scope inherent to the nature of these two categories of instruments,  the  content  of  the  Recommendation  is  identical  to  that  of  the  Convention.  Member States are expected to give effect to it in national legislation and education policies.
 
-The  reporting  obligation  under  the  provisions  of  Article  VII  of  the  Convention  and  of  the Recommendation is the same. Article VIII of UNESCO's Constitution states that ' Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General  Conference,  reports  on  the  laws,  regulations  and  statistics  relating  to  its  educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to i n Article IV, paragraph 4' . Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
+The reporting obligation under the provisions of Article VII of the Convention and of the Recommendation is the same. Article VIII of UNESCO’s Constitution states that “Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General Conference, reports on the laws, regulations and statistics relating to its educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4”. Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
 
 > 1 https://www.unesco.org/en/right-education/evolving
 
@@ -114,7 +114,7 @@ Name of contact person: Gulnabat Gurdova, Head of the International Relations De
 
 Email and telephone number of contact person: gulnabatgurdova.tsiem@gmail.com
 
-## Ratification and applicability of the Convention against Discrimination in Education 10
+## I. Ratification and applicability of the Convention against Discrimination in Education 10
 
 - Is your country a State Party to the Convention?
 
@@ -162,9 +162,9 @@ Email and telephone number of contact person: gulnabatgurdova.tsiem@gmail.com
 
 Information could also be given about the judicial, administrative and other competent authorities having jurisdiction with respect to the right to education.
 
-The system of bodies within the Prosecutor ' s Office in Turkmenistan carries out general prosecutorial oversight over the implementation of the right to education. Regarding the precedents of applying to the court, it is necessary to find out from the Supreme Court of Turkmenistan.
+The system of bodies within the Prosecutor’s Office in Turkmenistan carries out general prosecutorial oversight over the implementation of the right to education. Regarding the precedents of applying to the court, it is necessary to find out from the Supreme Court of Turkmenistan.
 
-## Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the  context  of Sustainable Development Goal 4 (SDG4)
+## II. Information on the implementation of the Convention or Recommendation in the context of Sustainable Development Goal 4 (SDG4)
 
 ### 1. Towards an inclusive non-discriminatory education system
 
@@ -172,13 +172,13 @@ For  reference:  This  section  relates  to  the  main  purpose  of  the  Conven
 
 It further corresponds to the overall aspiration of SDG4 which aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all' by 2030. While it covers all the SDG4 targets, it also specifically covers SDG target 4.5. 12
 
-- Please  indicate  whether  the  rights  and  principles  laid  out  in  the  Convention/Recommendation informed the elaboration of the education legal and/or policy framework:
-
-- If yes, please provide reference:
+- Please indicate whether the rights and principles laid out in the Convention/Recommendation informed the elaboration of the education legal and/or policy framework:
 
  Yes
 
  No
+
+- If yes, please provide reference:
 
 The Constitution of Turkmenistan: https://minjust.gov.tm/ru/hukuk/merkezi
 
@@ -236,15 +236,17 @@ educational institutions. 4. In order to realize the right to education of citiz
 
 of Turkmenistan in need of social support, the State shall bear the costs of
 
-their maintenance during the period of their education. The categories of citizens to whom 4 state social support is provided, the procedure and amount of its provision are established by the legislation of Turkmenistan. 5. The State creates conditions for citizens of Turkmenistan with disabilities, that is, those with disabilities in physical and (or) mental development, to receive education in general educational institutions (inclusive education). For citizens of Turkmenistan who cannot attend general educational institutions due to health reasons, special educational institutions are being created to provide them with education based on special pedagogical approaches, correction of developmental disorders and social adaptation. 6. The State provides assistance in obtaining education for citizens of Turkmenistan who have shown a high level of intellectual development and creative abilities in a certain field of educational and research activities, scientific, technical and artistic creativity, physical culture and sports, including by providing them with special state scholarships, including scholarships for study in foreign countries. The criteria and procedure for granting special state scholarships are established by the Cabinet of Ministers of Turkmenistan. «Analysis of the Law of Turkmenistan &quot;On Education&quot; and its impact on the development of the educational system»
+their maintenance during the period of their education. The categories of
 
-> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programm es'.
+> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'.
 
 > 15 Constitution, laws, decrees, regulations, circulars, etc.
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+
+citizens to whom 4 state social support is provided, the procedure and amount of its provision are established by the legislation of Turkmenistan. 5. The State creates conditions for citizens of Turkmenistan with disabilities, that is, those with disabilities in physical and (or) mental development, to receive education in general educational institutions (inclusive education). For citizens of Turkmenistan who cannot attend general educational institutions due to health reasons, special educational institutions are being created to provide them with education based on special pedagogical approaches, correction of developmental disorders and social adaptation. 6. The State provides assistance in obtaining education for citizens of Turkmenistan who have shown a high level of intellectual development and creative abilities in a certain field of educational and research activities, scientific, technical and artistic creativity, physical culture and sports, including by providing them with special state scholarships, including scholarships for study in foreign countries. The criteria and procedure for granting special state scholarships are established by the Cabinet of Ministers of Turkmenistan. «Analysis of the Law of Turkmenistan "On Education" and its impact on the development of the educational system»
 
 **July version text is as per below**
 
@@ -256,11 +258,15 @@ Article 40. Family, motherhood, fatherhood and childhood are under the protectio
 
 2.  The  Law  of  Turkmenistan  On  Education  (new  edition)  (Bulletin  of  the  Milli  Gengesha  of Turkmenistan, 2021, No. 2-3, Art. 43) (As amended by the Laws of Turkmenistan dated March 16, 2023 No. 541-VI and June 3, 2023 No. 34-VII) The Law of Turkmenistan "On Education", adopted on May 4, 2013 (Bulletin of the Mejlis of Turkmenistan, 2013, No. 2, Art. 21; 2014, No. 4, Art. 159; 2017, No. 1, Art. 36; 2018, No. 2, Art. 55; 2020, No. 3, Art. 50)
 
-Article 4. State guarantees of the rights of citizens of Turkmenistan in the field of education 1. Citizens of Turkmenistan are guaranteed the opportunity to receive an education regardless of nationality, skin color, gender, origin, property and official status, place of residence, language, attitude to religion, political beliefs or other circumstances, as well as age and health. Based on gender, age and health, the Cabinet of Ministers of Turkmenistan may establish restrictions on obtaining an education in certain professions of workers, specialties and areas of training, as well as forms of education. 2. The state ensures the citizens of Turkmenistan the right to education by creating  an  education  system  and  appropriate  socio-economic  conditions  for  obtaining  an education.  3.  The  state  guarantees  citizens  of  Turkmenistan  compulsory  and  free  general secondary education, and also provides, in accordance with their abilities, accessible vocational education  in  state  educational  institutions.  4.  In  order  to  implement  the  right  to  education  of citizens of Turkmenistan in need of social support, the state bears the costs of their maintenance during the period of their education. The categories of citizens 4 who are provided with state social support,  the  procedure  and  amount  of  its  provision  are  established  by  the  legislation  of Turkmenistan. 5. The state creates conditions for citizens of Turkmenistan with disabilities, that is, those with physical and (or) mental developmental disabilities, to obtain an education in general educational institutions (inclusive education). For citizens of Turkmenistan who, due to health reasons, cannot attend general educational institutions, special educational institutions are created to  obtain  an  education  based  on  special  pedagogical  approaches,  correction  of  developmental disabilities and social adaptation. 6. The state provides assistance in obtaining an education for citizens of Turkmenistan who have demonstrated a high level of intellectual development and creative abilities in a certain area of educational and research activities, scientific, technical and artistic creativity, physical education and sports, including through the provision of special state scholarships, including scholarships for study in foreign countries. The criteria and procedure for providing special state scholarships are established by the Cabinet of Ministers of Turkmenistan. **Analysis of the Law of Turkmenistan "On Education" and its impact on the development of the educational system**
+Article 4. State guarantees of the rights of citizens of Turkmenistan in the field of education 1. Citizens of Turkmenistan are guaranteed the opportunity to receive an education regardless of nationality, skin color, gender, origin, property and official status, place of residence, language, attitude to religion, political beliefs or other circumstances, as well as age and health. Based on gender, age and health, the Cabinet of Ministers of Turkmenistan may establish restrictions on obtaining an education in certain professions of workers, specialties and areas of training, as well as forms of education. 2. The state ensures the citizens of Turkmenistan the right to education by creating an education system and appropriate socio-economic conditions for obtaining an education. 3. The state guarantees citizens of Turkmenistan compulsory and free general
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+
+secondary education, and also provides, in accordance with their abilities, accessible vocational education in state educational institutions. 4. In order to implement the right to education of citizens of Turkmenistan in need of social support, the state bears the costs of their maintenance during the period of their education. The categories of citizens 4 who are provided with state social support, the procedure and amount of its provision are established by the legislation of Turkmenistan. 5. The state creates conditions for citizens of Turkmenistan with disabilities, that is, those with physical and (or) mental developmental disabilities, to obtain an education in general educational institutions (inclusive education). For citizens of Turkmenistan who, due to health reasons, cannot attend general educational institutions, special educational institutions are created to obtain an education based on special pedagogical approaches, correction of developmental disabilities and social adaptation. 6. The state provides assistance in obtaining an education for citizens of Turkmenistan who have demonstrated a high level of intellectual development and creative abilities in a certain area of educational and research activities, scientific, technical and artistic creativity, physical education and sports, including through the provision of special state scholarships, including scholarships for study in foreign countries. The criteria and procedure for providing special state scholarships are established by the Cabinet of Ministers of Turkmenistan.
+
+**Analysis of the Law of Turkmenistan "On Education" and its impact on the development of the educational system**
 
 Turkmenistan's Law on Education, which has been amended and supplemented in recent years, underlines the country's commitment to ensuring broad access to educational resources for all segments of the population. Article 4 of this law highlights several key aspects that deserve special attention:
 
@@ -274,11 +280,13 @@ Turkmenistan's Law on Education, which has been amended and supplemented in rece
 
 5.  Inclusive  education:  The  Law  places  particular  emphasis  on  creating  conditions  for  the education  of  persons  with  disabilities,  ensuring  their  access  to  educational  resources  and specialized institutions.
 
-6.  Support  for  talented  youth:  The  state  provides  support  to  students  who  demonstrate  high achievements in studies, science and art by providing special scholarships, including opportunities to study abroad.
+6. Support for talented youth: The state provides support to students who demonstrate high achievements in studies, science and art by providing special scholarships, including
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
+opportunities to study abroad.
 
 These provisions of the Law "On Education" play an important role in the formation of a modern, dynamic and fair educational system in Turkmenistan, aimed at maximizing the potential of each citizen.
 
@@ -306,7 +314,7 @@ Resolution of the President of Turkmenistan on approval of the Regulations on St
 
 In  order  to  strengthen  the  legal  basis  of  youth  policy  and  more  fully  realize  the multifaceted potential of youth, a new version of the Law "On State Youth Policy" was adopted. To implement legislative rights, the following have been approved: The State Program in the field of State youth policy of Turkmenistan for 2021-2025; in June this year, the Strategy for International Cooperation of Youth of Turkmenistan for  2023-2030  was  adopted.  The  purpose  of  these  documents  is  to  ensure  more active participation of young people in a multilateral dialogue with their foreign peers in cultural, economic, scientific, educational, sports and other fields.
 
-In Turkmenistan, special attention is paid to active cooperation with the structure of the United Nations Educational, Scientific and Cultural Organization -UNESCO. This partnership initiative has already involved higher educational institutions of Turkmenistan in its circle. UNESCO chairs have been opened at the Turkmen State University  named  after  Magtymguly  and  the  Turkmen  State  Pedagogical  Institute named after  Seyitnazar  Seydi.  UNESCO  clubs  are  successfully  functioning,  and  six secondary educational institutions are included in the UNESCO Associated Schools network. The Magtymguly Youth Organization of Turkmenistan has been accepted as an official member of the UNESCO Global Youth Community (GYC).
+In Turkmenistan, special attention is paid to active cooperation with the structure of the United Nations Educational, Scientific and Cultural Organization – UNESCO. This partnership initiative has already involved higher educational institutions of Turkmenistan in its circle. UNESCO chairs have been opened at the Turkmen State University named after Magtymguly and the Turkmen State Pedagogical Institute named after Seyitnazar Seydi. UNESCO clubs are successfully functioning, and six secondary educational institutions are included in the UNESCO Associated Schools network. The Magtymguly Youth Organization of Turkmenistan has been accepted as an official member of the UNESCO Global Youth Community (GYC).
 
  Combatting discrimination in terms of curriculum:
 
@@ -334,7 +342,7 @@ The Law of Turkmenistan On Education: https://minjust.gov.tm/ru/hukuk/merkezi Ar
 
 2. In Turkmenistan, educational programs are divided into: 1) general education; 2) professional.
 
-3. General education programs are aimed at acquiring knowledge, skills, and competencies that contribute to the formation of a general culture of personality, its adaptation to life in society, continuing education at the subsequent level of general secondary education, and creating conditions for an informed choice of professional educational programs. General education programs include: 1) preschool education; 2) primary education; 3) basic secondary education; 4) full secondary education; 5) extracurricular and additional education of students.
+3. General education programs are aimed at acquiring knowledge, skills, and competencies that contribute to the formation of a general culture of personality, its adaptation to life in society, continuing education at the subsequent level of general secondary education, and creating conditions for an informed choice of professional educational programs. General education programs include: 1) pre-school education; 2) primary education; 3) basic secondary education; 4) full secondary education; 5) extracurricular and additional education of students.
 
 4. Professional educational programs are aimed at acquiring knowledge, skills, and competencies that allow you to conduct professional activities in a certain field and (or) perform work in a specific worker; s profession or specialty (field of training), as well as to consistently improve professional qualifications. Professional educational programs include: 1) vocational education; 2) secondary vocational education; 3)
 
@@ -350,46 +358,41 @@ Article 9. The levels of education of the relevant state
 
 3. According to professional educational programs, the following levels of education are established: 1) the level of vocational education; 2) the level of secondary vocational education; 3) the levels of higher professional education: a) specialist program; b) bachelors' program; c) master's program; 4) the level of postgraduate vocational education.
 
-Article 10. General requirements for the content and quality of education 1. The content of education should provide: 1) the formation of students&#39; general and professional culture that meets the international level; 2) the integration of personality into national and world culture; 3) the formation of high spiritual and moral qualities of personality; 4) the development of the abilities of each person. 2. The content of education should meet the goals of achieving national consolidation of the Turkmen people, ensuring civil, interethnic and interfaith peace and harmony in Turkmenistan, take into account the diversity of worldview approaches, and promote the realization of the right of students to choose and freely express their opinions and beliefs.
+Article 10. General requirements for the content and quality of education
+
+1. The content of education should provide: 1) the formation of students' general and professional culture that meets the international level; 2) the integration of personality into national and world culture; 3) the formation of high spiritual and
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
-- The content of education in an educational institution is determined by educational programs, students of the requirements that ensure the achievement of the relevant state educational standards.
+moral qualities of personality; 4) the development of the abilities of each person.
 
-- High-quality education should ensure the development of skills, values, attitudes and knowledge that enable a person to lead a healthy and fulfilling life, make informed decisions and solve national and global problems.
+2. The content of education should meet the goals of achieving national consolidation of the Turkmen people, ensuring civil, interethnic and interfaith peace and harmony in Turkmenistan, take into account the diversity of worldview approaches, and promote the realization of the right of students to choose and freely express their opinions and beliefs.
 
-- The quality of education is ensured: 1) the availability of innovative teaching methods and modern educational programs that meet the needs and abilities of students; 2) motivated by teaching by qualified teachers, trained workers using modern pedagogical approaches and relying on appropriate information and communication technologies; 3) the availability and improvement of systems and
+3. The content of education in an educational institution is determined by educational programs, students of the requirements that ensure the achievement of the relevant state educational standards.
 
-methods for evaluating quality education, including the assessment of learning tools and processes, as well as the availability of mechanisms to assess the results achieved.
+4. High-quality education should ensure the development of skills, values, attitudes and knowledge that enable a person to lead a healthy and fulfilling life, make informed decisions and solve national and global problems.
+
+5. The quality of education is ensured: 1) the availability of innovative teaching methods and modern educational programs that meet the needs and abilities of students; 2) motivated by teaching by qualified teachers, trained workers using modern pedagogical approaches and relying on appropriate information and communication technologies; 3) the availability and improvement of systems and methods for evaluating quality education, including the assessment of learning tools and processes, as well as the availability of mechanisms to assess the results achieved.
 
 Article 11. Forms of education and forms of education
 
-- Taking into account the needs and capabilities of students, the development of educational programs can take place through such forms of education as education in an educational institution, self-education, and externship.
+1. Taking into account the needs and capabilities of students, the development of educational programs can take place through such forms of education as education in an educational institution, self-education, and externship.
 
-- Uniform state educational standards apply to all forms of education within the framework of a general education program or a professional educational program.
+2. Uniform state educational standards apply to all forms of education within the framework of a general education program or a professional educational program.
 
-- Educational institutions use such forms of education as full-time (full-time, onthe-job), part-time (on-the-job with off-the-job training) and part-time (on-the-job).
+3. Educational institutions use such forms of education as full-time (full-time, on-the-job), part-time (on-the-job with off-the-job training) and part-time (on-the-job).
 
-- Full-time (full-time) education is established for general education programs.
+4. Full-time (full-time) education is established for general education programs.
 
-- Lists of professions of workers, areas of training and specialties in which full-time and part-time education is not provided are established by the Cabinet of Ministers of Turkmenistan.
+5. Lists of professions of workers, areas of training and specialties in which full-time and part-time education is not provided are established by the Cabinet of Ministers of Turkmenistan.
 
-- The conditions for obtaining education through self-education and externship are determined by the legislation of Turkmenistan.
+6. The conditions for obtaining education through self-education and externship are determined by the legislation of Turkmenistan.
 
  Other measures adopted to both prevent and eliminate discrimination in education and ensure equal access to all levels and types of education:
 
-https://www.unicef.org/turkmenistan/ru/%D0%9F%D1%80%D0%B5%D1%81%D1%81-
----
-%D1%80%D0%B5%D0%BB%D0%B8%D0%B7%D1%8B/%D0%B2%D0%BE-
-%D0%B2%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D0%BD%D1%8B%D0%B9-
-%D0%B4%D0%B5%D0%BD%D1%8C-
-%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D0%BA%D0%B0-
-%D0%B7%D0%B0%D0%BF%D1%83%D1%89%D0%B5%D0%BD-
-%D1%81%D0%B8%D0%BD%D1%82%D0%B5%D0%B7%D0%B0%D1%82%D0%BE%D1%80-
-%D1%80%D0%B5%D1%87%D0%B8-%D0%BD%D0%B0-
-%D1%82%D1%83%D1%80%D0%BA%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%BC- %D1%8F%D0%B7%D1%8B%D0%BA%D0%B5
+https://www.unicef.org/turkmenistan/ru/%D0%9F%D1%80%D0%B5%D1%81%D1%81-%D1%80%D0%B5%D0%BB%D0%B8%D0%B7%D1%8B/%D0%B2%D0%BE-%D0%B2%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D0%BD%D1%8B%D0%B9-%D0%B4%D0%B5%D0%BD%D1%8C-%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D0%BA%D0%B0-%D0%B7%D0%B0%D0%BF%D1%83%D1%89%D0%B5%D0%BD-%D1%81%D0%B8%D0%BD%D1%82%D0%B5%D0%B7%D0%B0%D1%82%D0%BE%D1%80-%D1%80%D0%B5%D1%87%D0%B8-%D0%BD%D0%B0-%D1%82%D1%83%D1%80%D0%BA%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%BC-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5
 
 #### 1.2 Equality of opportunities and inclusion in education
 
@@ -417,17 +420,11 @@ https://www.unicef.org/turkmenistan/ru/%D0%9F%D1%80%D0%B5%D1%81%D1%81-
 
  Other:
 
-A training appeared in Ashgabat, which used a speech synthesizer in the Turkmen language for people with an in-depth understanding HTTPS://TURKMENPORTAL.COM/BLOG/72677/V- ASHHABADE-PROVEDEN-TRENING-PO-ISPOLZOVANIYU-SINTEZATORA-RECHI- DLYA-LYUDEI-S-NARUSHENIEM-ZRENIYA
+A training appeared in Ashgabat, which used a speech synthesizer in the Turkmen language for people with an in-depth understanding HTTPS://TURKMENPORTAL.COM/BLOG/72677/V-ASHHABADE-PROVEDEN-TRENING-PO-ISPOLZOVANIYU-SINTEZATORA-RECHI-DLYA-LYUDEI-S-NARUSHENIEM-ZRENIYA
 
-UNICEF and the Ministry of Education have trained graduates of ' "Palace of Orphans." ' in Ashgabat and the orphanages of Balkanabad in ICT skills
+UNICEF and the Ministry of Education have trained graduates of “"Palace of Orphans."” in Ashgabat and the orphanages of Balkanabad in ICT skills
 
-https://www.unicef.org/turkmenistan/ru/%D0%9F%D1%80%D0%B5%D1%81%D1%81- %D1%80%D0%B5%D0%BB%D0%B8%D0%B7%D1%8B/%D1%8E%D0%BD%D0%B8%D 1%81%D0%B5%D1%84-%D0%B8-
-
-%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D0%B5%D1%80%D1%81%D1 %82%D0%B2%D0%BE-
-
-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D 0%B8%D1%8F-%D0%BE%D0%B1%D1%83%D1%87%D0%B8%D0%BB%D0%B8-
-
-%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%B8%D0%BA%D 0%BE%D0%B2-%C2%ABd%C3%B6wletliler-k%C3%B6%C5%9Fgi%C2%BB-%D0%B2- %D0%B0%D1%88%D1%85%D0%B0%D0%B1%D0%B0%D0%B4%D0%B5-%D0%B8
+https://www.unicef.org/turkmenistan/ru/%D0%9F%D1%80%D0%B5%D1%81%D1%81-%D1%80%D0%B5%D0%BB%D0%B8%D0%B7%D1%8B/%D1%8E%D0%BD%D0%B8%D1%81%D0%B5%D1%84-%D0%B8-%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BE%D0%B1%D1%83%D1%87%D0%B8%D0%BB%D0%B8-%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2-%C2%ABd%C3%B6wletliler-k%C3%B6%C5%9Fgi%C2%BB-%D0%B2-%D0%B0%D1%88%D1%85%D0%B0%D0%B1%D0%B0%D0%B4%D0%B5-%D0%B8
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
@@ -435,7 +432,7 @@ https://www.unicef.org/turkmenistan/ru/%D0%9F%D1%80%D0%B5%D1%81%D1%81- %D1%80%D0
 
 > 16 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
 
-> 17 Multiple and flexible learning pathways are 'entry points and re -entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge,  skills  and  c ompetencies  acquired  through  nonformal  and  informal  education'  ( Education  2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
+> 17 Multiple and flexible learning pathways are 'entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education' (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
 
 > 18 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
 
@@ -477,7 +474,7 @@ There were no difficulties encountered
 
 Against the background of global commitments and within the framework of national policy, Turkmenistan  has  demonstrated  significant  progress,  confirmed  by  the  2019  National Voluntary  Review,  which  showed  a  high  level  of  integration  of  SDG  4  into  the  national educational strategy. Progress includes outstanding achievements in the areas of participation in educational processes and literacy, where indicators of 99% have been achieved.
 
-Also, as part of further development, the National Action Plan for Gender Equality for 20212025 was adopted, which strengthens the strategic direction for improving gender equality in the educational field, including a number of initiatives aimed at eliminating gender barriers and expanding opportunities for all students, regardless of their gender.
+Also, as part of further development, the National Action Plan for Gender Equality for 2021-2025 was adopted, which strengthens the strategic direction for improving gender equality in the educational field, including a number of initiatives aimed at eliminating gender barriers and expanding opportunities for all students, regardless of their gender.
 
 These  efforts  reflect  Turkmenistan's  holistic  approach  to  updating  the  educational  system, focusing  on  international  standards  and  best  practices,  and  underscore  the  country's commitment to global sustainable development goals.
 
@@ -485,7 +482,7 @@ In addition, significant activities have been implemented within the framework o
 
 > 19 ' Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them' (Cambridge Dictionary).
 
-> 20 ' Gendersensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
+> 20 ' Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
 
 > 21 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
 
@@ -494,14 +491,14 @@ In addition, significant activities have been implemented within the framework o
 [[START OF PAGE 15]]
 
 curricula, a five-day training was conducted for teachers of secondary schools in Turkmenistan. The training "Seminar on the practical application of improved teaching methods to promote gender equality in secondary schools" was held from October 23 to 27, 2023 at the National Institute of Education of Turkmenistan for 24 school teachers and specialists of the education system of Turkmenistan, which was attended by teachers and representatives of the Education Department of all regions and the city of Ashgabat. This event is part of an effort to turn children's education into a means to strengthen gender equality and inclusivity for future generations.
----
+
 The seminar was organized as part of the implementation of the National Action Plan for Gender Equality in Turkmenistan for 2021-2025 and contributes to achieving the objectives of Sustainable Development Goals 4.5 and Sustainable Development Goals 4.7. Our goal is to create a gender-oriented learning system taking into account the psychological and age characteristics of students, contributing to improving quality academic performance, harmonious personal development regardless of gender the student and the creation of conditions for maximum self-realization and disclosure of the abilities of boys and girls. In this regard, the relevant and promising topics of this seminar were:
 1. Gender-oriented pedagogy and teacher competencies;
 2. Gender-oriented education and upbringing: lesson planning, teaching materials (methods of their selection and adaptation) and constructive feedback;
 3. The organization of the classroom and the specifics of working in a classroom with a large number of students;
 4. Ensuring a safe learning environment: gender conflicts and prevention of gender-based violence;
 5. Reproductive health and puberty through a gender-sensitive lens.
-Gender education and education is a complex system that includes three main components: the teacher, the family (in particular the parents) and the child himself. And the development of only one of them is not enough for the growth, development and transformation of the entire system of gender education and education. With this in mind, UNICEF, together with the Ministry of Education of Turkmenistan, proposed to hold a seminar for parents in order to promote gender equality not only in schools, but also in families, in particular. The workshop for parents is part of this systemic task, which will provide participants with relevant knowledge, skills and values that will enable them to contribute to the effective
+Gender education and education is a complex system that includes three main components: the teacher, the family (in particular the parents) and the child himself. And the development of only one of them is not enough for the growth, development and transformation of the entire system of gender education and education. With this in mind, UNICEF, together with the Ministry of Education of Turkmenistan, proposed to hold a seminar for parents in order to promote gender equality not only in schools, but also in families, in particular. The workshop for parents is part of this systemic task, which will provide participants with relevant knowledge, skills and values that will enable them to contribute to the effective implementation of a gender mainstreaming strategy in their family, community and country as a whole. Parents' gender awareness will promote gender equality, namely encouraging open communication, expressing emotions and creating a safe space where all family members can share their feelings without judgment and stereotypes.
 The five-day seminar for parents took place from November 21 to 27, 2023, the relevant topics of which were:
 1. Gender awareness as a path to gender equality and human rights;
 2. Gender roles and society: gender stereotypes, stigmatization and their prevention;
@@ -511,29 +508,29 @@ The five-day seminar for parents took place from November 21 to 27, 2023, the re
 
 [[START OF PAGE 16]]
 
-- Emotional intelligence is the key to building healthy relationships;
+4. Emotional intelligence is the key to building healthy relationships;
 
-- Create  a  safe  environment  (prevention  of  bullying,  gender  bias  and  discrimination)  and preserve reproductive health.
+5. Create a safe environment (prevention of bullying, gender bias and discrimination) and preserve reproductive health.
 
 As already noted above, gender education and education is a complex system, at the centre of which is the student himself. Therefore, a five-day training was also conducted with students of secondary schools in Turkmenistan, the purpose of which was to fulfil the following task - "Educating young people based on national values, as well as in the spirit of respect for gender equality." This workshop allowed participants to expand their knowledge, skills and values in the field of gender issues, which will further contribute to the creation of a safe gender-learning environment in the classroom and in school as a whole, through building effective relationships with  peers  that  exclude  gender  stereotypes,  discrimination  and  gender  bias,  thereby strengthening gender equality both in their classroom, at school, in the community, and in the family. As part of the acquired knowledge, students also began to better understand aspects of their  reproductive  health,  as  well  as  put  into  practice  strategies  for  its  maintenance  and development. The seminar aroused great interest among all participants. The students actively shared their thoughts and ideas on the topics of the seminar, talked about the difficulties in building communication with peers and adults, shared their life experiences, worked effectively both in teams and individually, demonstrating their creative abilities and creativity. Below you can get acquainted with the topics of this seminar:
 
-- Gender awareness as a path to gender equality and human rights;
+1. Gender awareness as a path to gender equality and human rights;
 
-- Gender roles and society: gender stereotypes, stigmatization and their prevention;
+2. Gender roles and society: gender stereotypes, stigmatization and their prevention;
 
-- Gender difficulties in child-parent relations;
+3. Gender difficulties in child-parent relations;
 
-- Emotional intelligence is the key to building healthy relationships;
+4. Emotional intelligence is the key to building healthy relationships;
 
-- Create  a  safe  environment  (prevention  of  bullying,  gender  bias  and  discrimination)  and preserve reproductive health.
+5. Create a safe environment (prevention of bullying, gender bias and discrimination) and preserve reproductive health.
 
 In  addition,  within  the  framework  of  the  implemented  gender  policy  of  Turkmenistan,  the following methodological manuals have been developed and approved:
 
-"To  teachers  about  gender-oriented  pedagogy".  Educational  and  methodical  manual  for teachers of educational institutions;
+1. "To teachers about gender-oriented pedagogy". Educational and methodical manual for teachers of educational institutions;
 
-"Fundamentals of gender knowledge". Educational and methodical manual for students of educational institutions;
+2. "Fundamentals of gender knowledge". Educational and methodical manual for students of educational institutions;
 
-"To parents about gender-oriented pedagogy". Educational and methodological guide for parents.
+3. "To parents about gender-oriented pedagogy". Educational and methodological guide for parents.
 
 **July version text is as per below**
 
@@ -543,12 +540,12 @@ Turkmenistan  has  demonstrated  significant  progress  in  integrating  global 
 
 [[START OF PAGE 17]]
 
-The implementation of the National Action Plan on Gender Equality 2021 - 2025 is a key step towards improving access to education for all students, regardless of gender. The plan includes measures to eliminate gender barriers and expand educational opportunities.
----
+The implementation of the National Action Plan on Gender Equality 2021–2025 is a key step towards improving access to education for all students, regardless of gender. The plan includes measures to eliminate gender barriers and expand educational opportunities.
+
 Collaboration with UNICEF has facilitated the implementation of significant initiatives under this plan. One such initiative was a five-day training for teachers, held from 23 to 27 October 2023. The training aimed to enhance the professional level of teachers in the application of improved teaching methods that promote gender equality and prevent gender-based violence.
 An important part of the strategy to strengthen gender equality is also parent training. The seminar for parents, held from 21 to 27 November 2023, is aimed at developing gender awareness and forming approaches to gender education at home.
 Turkmenistan's educational policy also includes educational seminars for students aimed at educating young people in the spirit of national values and gender equality. These activities not only improve the educational environment, but also contribute to the formation of healthy interpersonal relationships among students.
-Additionally, teaching aids for teachers, students and parents have been developed and approved, which serve as a basis for a deep understanding and practical application of gender- oriented pedagogy.
+Additionally, teaching aids for teachers, students and parents have been developed and approved, which serve as a basis for a deep understanding and practical application of gender-oriented pedagogy.
 Thus, Turkmenistan is actively working to create an inclusive and fair education system that meets international standards and responds to global challenges of our time. These efforts confirm the country's commitment to achieving the Sustainable Development Goals and strengthening social equality and justice.
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
@@ -911,13 +908,7 @@ The Constitution of Turkmenistan: https://minjust.gov.tm/ru/hukuk/merkezi
 
 The Law of Turkmenistan On Education: https://minjust.gov.tm/ru/hukuk/merkezi
 
-https://www.unicef.org/turkmenistan/ru/%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1
-
-%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5-
-
-%D0%B8%D0%BD%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2%D0%BD%D0%BE%D 0%B5-
-
-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D 0%B5
+https://www.unicef.org/turkmenistan/ru/%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5-%D0%B8%D0%BD%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
 
 The State actively cooperates with the UN and its specialized organizations. An example is the cooperation  between  UNDP and  national  partners  in  the  field  of  inclusive  education  and employment of persons with disabilities within the framework of the seminar "Promotion of vocational education and employment of people with disabilities: international best practices and development of recommendations". The event was organized within the framework of the project "Affordable Work for People with Disabilities in Turkmenistan: Transforming Social Enterprises for educational opportunities and decent work", implemented jointly by UNDP and the Society of the Blind and Deaf of Turkmenistan (OSGT) with financial support from the Fund for Global Development and South-South Cooperation.
 
@@ -959,23 +950,19 @@ Thus, international cooperation aimed at improving the living and working condit
 
 - What  challenges  were  encountered  in  realizing  the  right  to  education  of  students  from  poor households? If needed, brief quantitative information may be added.
 
-### Progress made with respect to implementing the right to education across all levels and forms of education
+### 2. Progress made with respect to implementing the right to education across all levels and forms of education
 
 #### 2.1 Early childhood care and education
 
-35
+> 35 Supra note 15.
 
-36
-
-Supra note 15.
-
-Supra note 16.
+> 36 Supra note 16.
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
 
-For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explicitly  provided  for  in  the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initi ally recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent  Declaration  and  Commitments  to  Action  for  Transforming  Early  Childhood  Care  and Education 38 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre -primary education'.
+For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education 38. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked):
 
@@ -983,9 +970,9 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
  Prior to pre-primary education, ECCE services are affordable
 
- ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
+ ECCE services are accessible on a non-discriminatory basis
 
- ECCE services are accessible on a nondiscriminatory basis
+ ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
 - Please elaborate further on the measures taken:
 
@@ -993,9 +980,9 @@ The  implementation  of  the  National  Strategy  for  Early  Childhood  Develop
 
 Key aspects of the strategy implementation:
 
-- Updating legislation: All legislative and regulatory acts related to pre-school education have  been  analyzed  and  updated,  which  made  it  possible  to  make  changes  that  meet modern requirements for early childhood development.
+1. Updating legislation: All legislative and regulatory acts related to pre-school education have been analyzed and updated, which made it possible to make changes that meet modern requirements for early childhood development.
 
-- Vocational training: Regular professional development of preschool education workers has become mandatory. This training is conducted on the basis of the National Institute of Education  and  other  educational  institutions,  which  helps  to  increase  the  level  of professionalism of teachers.
+2. Vocational training: Regular professional development of preschool education workers has become mandatory. This training is conducted on the basis of the National Institute of Education and other educational institutions, which helps to increase the level of professionalism of teachers.
 
 > 37 Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'.
 
@@ -1006,38 +993,40 @@ Key aspects of the strategy implementation:
 [[START OF PAGE 27]]
 
 3. Intersectoral cooperation: The strategy actively uses intersectoral approaches, especially in the field of early detection and intervention in child development, which includes health, education and social services.
----
 4. Infrastructural development: Significant investments were made in the creation and equipping of early development centers, including for children with disabilities.
 5. Monitoring and evaluation: A system of annual monitoring of children's readiness for school has been introduced, the results of which are used to adapt educational programs and methods.
 - Equal access to education: The Strategy promotes the creation of equal conditions for the education of all children, which is important for reducing social inequality.
 - Improving health and development: The integration of medical and educational approaches contributes to the better physical and mental development of children.
-- Long-term socio-economic benefits**: Investing in early development is seen as a long- term investment in the country's future, as educated and healthy children become productive members of society.
+- Long-term socio-economic benefits**: Investing in early development is seen as a long-term investment in the country's future, as educated and healthy children become productive members of society.
 Collaboration with international partners, including UNICEF, plays a key role in the successful implementation of these initiatives, providing the necessary expertise and financial support. The implementation of the National Strategy for Early Childhood Development provides Turkmenistan with the opportunity to become a leader in the region in early childhood education and development, contributing to the achievement of sustainable development goals and creating the foundation for a prosperous future.
 **July version text is as per below**
-The main achievement in early childhood development is the implementation of the ' National Strategy for Early Childhood Development in Turkmenistan for 2020-2025 ' and 'Program for Improving the Work of Preschool Institutions for 2020 -2025 for Early Childhood Development and Preparation for School in Turkmenistan' approved by the Decree 06.12.2019of the President of Turkmenistan No. 1526 of May 2015 and No. 1768 of May 20.05.20202015 , within the framework of which the following was done. In light of the National Program for Early Childhood Development, all current legislative and legal acts, regulatory and instructional documents related to education were analyzed and appropriate changes and additions were made to them, and new ones were developed and approved. Issues of early development and preparation of children for school were included in the programs for advanced training of preschool education workers, which are organized on a mandatory regular basis at the National Institute of Education of Turkmenistan, faculties for advanced training of teaching staff at higher pedagogical educational institutions and Centers at the Main Education Departments of the velayats and the city of Ashgabat. During the implementation of the National Program, including with the support of the UNICEF Representative Office in Turkmenistan, a large number of seminars, trainings, conferences, and consultative meetings of various levels were held, including with the participation of international consultants and experts. A great deal of work has been done to build the capacity of the Early Development
+The main achievement in early childhood development is the implementation of the ' National Strategy for Early Childhood Development in Turkmenistan for 2020-2025 ' and 'Program for Improving the Work of Preschool Institutions for 2020-2025 for Early Childhood Development and Preparation for School in Turkmenistan' approved by the Decree 06.12.2019of the President of Turkmenistan No. 1526 of May 2015 and No. 1768 of May 20.05.20202015 , within the framework of which the following was done.
+
+In light of the National Program for Early Childhood Development, all current legislative and legal acts, regulatory and instructional documents related to education were analyzed and appropriate changes and additions were made to them, and new ones were developed and approved.
+
+Issues of early development and preparation of children for school were included in the programs for advanced training of preschool education workers, which are organized on a mandatory regular basis at the National Institute of Education of Turkmenistan, faculties for advanced training of teaching staff at higher pedagogical educational institutions and Centers at the Main Education Departments of the velayats and the city of Ashgabat.
+
+During the implementation of the National Program, including with the support of the UNICEF Representative Office in Turkmenistan, a large number of seminars, trainings, conferences, and consultative meetings of various levels were held, including with the participation of international consultants and experts.
+
+A great deal of work has been done to build the capacity of the Early Development Centers for children with disabilities opened by the UNICEF Representative Office in
 
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
 
-Turkmenistan on the basis of existing general preschool institutions No. 138 in Ashgabat and No. 62 in Turkmenabat . These Centers were equipped with co-financing from the Ministry of Education and UNICEF. In order to implement issues of development and education of children with disabilities, work was started on a pilot basis in such a new direction as early detection developmental disorders in children and early intervention using all the possibilities of intersectoral approach. An annual monitoring of the level of readiness of all children in preparatory groups school, in accordance with the current programs, norms and standards of education, has been introduced into the practice of preschool institutions. Based on analysis of its results, a description is compiled for each child to be submitted to the upon admission to the first grade, which is important information for the primary teacher. The overall goal of the Government of Turkmenistan's Strategy on Early Development (ECD) for 2020-2025 39 is to ensure that all girls and boys under the age of
----
-for preschool the school school Childhood 7 have the rights to survival, development, protection and inclusion . Supporting children from an early age is essential for their comprehensive development and health and is a long-term investment in maintaining well-being throughout their lives. The ECD strategy reflects international best practice by aligning early childhood development efforts with the Sustainable Development Goals (SDGs) to achieve equitable, prosperous and sustainable growth, and with the five pillars of the International Framework
-of an
-for Care and Nursing - good health, adequate nutrition, responsive care, safety and
-early learning opportunities.
-The implementation of the Strategy will make a significant contribution to the achievement of SDG 4, indicator 4.2 'ensure that all girls and boys have access to quality
-early childhood development, care and pre-primary education so that they are ready
-primary education', but also to the achievement of other SDGs in the areas of
-education, nutrition, gender, water and sanitation and reducing inequalities. This strategy is inter-ministerial and recognizes that children's rights to survival
-for health, well-being depend on whole-of-government action and systematic contributions from
-sectors to improve early childhood development programs, with political and
-and all financial facilitating coordination, effective collaboration and monitoring of joint activities.
-Action Plan and Monitoring of the National Strategy for Early Childhood
-support The
-Development in Turkmenistan for 2020-2025 is being implemented in cooperation with the
-Office in Turkmenistan.
-UNICEF
+Turkmenistan on the basis of existing general preschool institutions No. 138 in Ashgabat and No. 62 in Turkmenabat . These Centers were equipped with co-financing from the Ministry of Education and UNICEF.
+
+In order to implement issues of development and education of children with disabilities, work was started on a pilot basis in such a new direction as early detection of developmental disorders in children and early intervention using all the possibilities of an intersectoral approach.
+
+An annual monitoring of the level of readiness of all children in preparatory groups for school, in accordance with the current programs, norms and standards of preschool education, has been introduced into the practice of preschool institutions. Based on the analysis of its results, a description is compiled for each child to be submitted to the school upon admission to the first grade, which is important information for the primary school teacher.
+
+The overall goal of the Government of Turkmenistan's Strategy on Early Childhood Development (ECD) for 2020-2025 39 is to ensure that all girls and boys under the age of 7 have the rights to survival, development, protection and inclusion . Supporting children from an early age is essential for their comprehensive development and health and is a long-term investment in maintaining well-being throughout their lives.
+
+The ECD strategy reflects international best practice by aligning early childhood development efforts with the Sustainable Development Goals (SDGs) to achieve equitable, prosperous and sustainable growth, and with the five pillars of the International Framework for Care and Nursing – good health, adequate nutrition, responsive care, safety and early learning opportunities.
+
+The implementation of the Strategy will make a significant contribution to the achievement of SDG 4, indicator 4.2 'ensure that all girls and boys have access to quality early childhood development, care and pre-primary education so that they are ready for primary education', but also to the achievement of other SDGs in the areas of health, education, nutrition, gender, water and sanitation and reducing inequalities.
+
+This strategy is inter-ministerial and recognizes that children's rights to survival and well-being depend on whole-of-government action and systematic contributions from all sectors to improve early childhood development programs, with political and financial support facilitating coordination, effective collaboration and monitoring of joint activities. The Action Plan and Monitoring of the National Strategy for Early Childhood Development in Turkmenistan for 2020-2025 is being implemented in cooperation with the UNICEF Office in Turkmenistan.
 
 - Is compulsory and free of charge pre-primary education available?
 
@@ -1045,7 +1034,7 @@ UNICEF
 
 In educational policy, Turkmenistan closely cooperates with the UNICEF country office, which assists the Government in providing pre-school and primary education services to all children of  the  country.  According  to  information  on  its  website,  primary  education  coverage  in Turkmenistan is high at 97%, and the rates of continuation and completion of education are equally  high  among  boys  and  girls.  UNICEF  helps  the  Government  to  achieve  international standards of quality education, as well as to implement effective education policies, develop the capacity of teachers and specialists of preschool institutions and integrate children with disabilities  into  the  environment  of  regular  education  and  training. Turkmenistan  is making significant  efforts  to  expand  the  coverage  of  pre-school  education  and  ensure  high-quality preparation of children for primary school. These efforts are aimed at achieving full coverage of preschool education, including very young children and children with disabilities. As part of the strategy for the development of the educational system, Turkmenistan plans to continue this trend and create all the necessary conditions for full access of all children to preschool education.  In  accordance  with  the  "Concept  of  improving  the  teaching  methods  of  general education  programs  in  Turkmenistan  until  2028",  it  is  planned  to  significantly  expand  the network of preschool institutions throughout the country. The construction of new schools and kindergartens in all regions of Turkmenistan will make it possible to achieve full coverage of preschool education in the coming years. This also includes creating an inclusive environment that ensures equal access to education for all children, regardless of their characteristics.
 
-> 39 Approved by Decree of the President of Turkmenistan No. I526 dated December 6, 2019
+> 39 Approved by Decree of the President of Turkmenistan No. 1526 dated December 6, 2019
 
 [[END OF PAGE 28]]
 
@@ -1093,7 +1082,7 @@ Pre-school education is free for everyone. Children in preschool institutions of
 
 #### 2.2 Primary and secondary education
 
-For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclus ive, equitable, quality primary and secondary education -of which at least nine years are compulsory.'
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education – of which at least nine years are compulsory.'
 
 ##### Primary education
 
@@ -1103,23 +1092,23 @@ The Law of Turkmenistan On Education: https://minjust.gov.tm/ru/hukuk/merkezi
 
 Article 21. Primary education
 
-- Educational  programs  at  the  primary  education  level  are  aimed  at  shaping  the  student's personality, developing his individual abilities and skills in educational activities, including mastering reading,  writing,  numeracy,  elements  of  theoretical  thinking,  basic  self-control  skills,  culture  of behavior and speech, the basics of personal hygiene and a healthy lifestyle
+1. Educational programs at the primary education level are aimed at shaping the student's personality, developing his individual abilities and skills in educational activities, including mastering reading, writing, numeracy, elements of theoretical thinking, basic self-control skills, culture of behavior and speech, the basics of personal hygiene and a healthy lifestyle
 
-- Primary education is compulsory.
+2. Primary education is compulsory.
 
-- Education according to educational programs at the primary education level begins with children who reach the age of six years in the year of admission to a general education institution.
+3. Education according to educational programs at the primary education level begins with children who reach the age of six years in the year of admission to a general education institution.
 
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
 
-- The standard period for the development of educational programs at the primary education level is at least four academic years.
+4. The standard period for the development of educational programs at the primary education level is at least four academic years.
 
-- Primary education can be obtained in one of the following types of general education institutions: general education school, general education boarding school, specialized general education school (indicating the direction of specialized education), general education gymnasium (in-depth study of subjects in the areas of specialized education, introduction to research, creativity, a wide range of additional educational services) and others.
+5. Primary education can be obtained in one of the following types of general education institutions: general education school, general education boarding school, specialized general education school (indicating the direction of specialized education), general education gymnasium (in-depth study of subjects in the areas of specialized education, introduction to research, creativity, a wide range of additional educational services) and others.
 
-- At the primary education level, the organization of the educational process on the basis of an integrated approach and responsibility for a group of students (classroom) are assigned to a specific teacher. At the same time, other teaching staff may be involved in conducting training sessions in specialized subjects in the classroom.
+6. At the primary education level, the organization of the educational process on the basis of an integrated approach and responsibility for a group of students (classroom) are assigned to a specific teacher. At the same time, other teaching staff may be involved in conducting training sessions in specialized subjects in the classroom.
 
-- Primary education is completed with a transfer certification, the positive result of which allows the  student  to  continue  studying  according  to  the  educational  programs  of  basic  secondary education.
+7. Primary education is completed with a transfer certification, the positive result of which allows the student to continue studying according to the educational programs of basic secondary education.
 
 - Is primary education compulsory and free of charge?
 
@@ -1173,19 +1162,23 @@ In this part, please provide information on the general availability and accessi
 
 The Law of Turkmenistan On Education: https://minjust.gov.tm/ru/hukuk/merkezi
 
-Article  22.  Basic  secondary  education  1.  Educational  programs  at  the  level  of  basic  secondary education are aimed at the formation and development of a student's personality by mastering the basics of science, mental and physical labor skills; identifying his inclinations and interests; forming moral beliefs, aesthetic taste and striving for a healthy lifestyle, high culture of interpersonal and interethnic communication.
+Article 22. Basic secondary education
 
-Educational  programs  at  the  basic  secondary  education  level  are  aimed  at  developing  students' abilities for social self-determination and at forming a conscious professional orientation.
+1. Educational programs at the level of basic secondary education are aimed at the formation and development of a student's personality by mastering the basics of science, mental and physical labor skills; identifying his inclinations and interests; forming moral beliefs, aesthetic taste and striving for a healthy lifestyle, high culture of interpersonal and interethnic communication.
 
-- Basic secondary education is compulsory.
+Educational programs at the basic secondary education level are aimed at developing students' abilities for social self-determination and at forming a conscious professional orientation.
 
-- Education in educational programs at the level of basic secondary education begins with children who have primary education.
+2. Basic secondary education is compulsory.
 
-- The standard period for the development of educational programs at the level of basic secondary education is, as a rule, up to six academic years, while the total duration of education in a general education institution, taking into account primary education, will be up to ten academic years.
+3. Education in educational programs at the level of basic secondary education begins with children who have primary education.
 
-- Basic secondary education can be obtained in one of the following types of general education institutions:  general  education  school,  general  education  boarding  school,  specialized  general education school (indicating the direction of specialized education), general education gymnasium (in-depth study of subjects in the areas of specialized education, introduction to research, creativity, a wide range of additional educational services) and others. 6. Educational programs at the basic secondary education level are carried out according to a curriculum focused on specific subjects with an  explanation  of  theoretical  concepts  on  a  wide  range  of  issues.  Teaching  in  the  classroom  is conducted by several teaching staff who have pedagogical training in one or more special subjects.
+4. The standard period for the development of educational programs at the level of basic secondary education is, as a rule, up to six academic years, while the total duration of education in a general education institution, taking into account primary education, will be up to ten academic years.
 
-- Basic secondary education is completed with a transfer certification, the positive result of which allows the student to continue studying in educational programs of full secondary education, taking into account the recommended specialized areas.
+5. Basic secondary education can be obtained in one of the following types of general education institutions: general education school, general education boarding school, specialized general education school (indicating the direction of specialized education), general education gymnasium (in-depth study of subjects in the areas of specialized education, introduction to research, creativity, a wide range of additional educational services) and others.
+
+6. Educational programs at the basic secondary education level are carried out according to a curriculum focused on specific subjects with an explanation of theoretical concepts on a wide range of issues. Teaching in the classroom is conducted by several teaching staff who have pedagogical training in one or more special subjects.
+
+7. Basic secondary education is completed with a transfer certification, the positive result of which allows the student to continue studying in educational programs of full secondary education, taking into account the recommended specialized areas.
 
 - Please provide the age of enrolment and duration of upper secondary education:
 
@@ -1217,37 +1210,23 @@ The Law of Turkmenistan On Education: https://minjust.gov.tm/ru/hukuk/merkezi
 
 Article 23. Complete secondary education
 
-- Educational programs at the level of full secondary education
+1. Educational programs at the level of full secondary education
 
-They are aimed at the development of cognitive interests and creative abilities of the student; the formation of skills of independent educational activity based on the profile, differentiation and  professional  orientation  of  the  educational  content;  preparing  the  student  for  life  in society, independent life choice and the beginning of work. Educational programs at the level of full secondary education are aimed at specialized and in-depth study of subjects that are more differentiated and provide students with a wider range of opportunities and directions to prepare for the development of professional educational programs.
+They are aimed at the development of cognitive interests and creative abilities of the student; the formation of skills of independent educational activity based on the profile, differentiation and professional orientation of the educational content; preparing the student for life in society, independent life choice and the beginning of work. Educational programs at the level of full secondary education are aimed at specialized and in-depth study of subjects that are more differentiated and provide students with a wider range of opportunities and directions to prepare for the development of professional educational programs.
 
-- Education in educational programs at the level of full secondary education is carried out in one of the specialized areas specified in Article 24 of this Law, chosen by students on the basis of  interests,  inclinations  and  abilities,  as  well  as  recommendations  of  a  general  education institution  based  on  the  results  of  mastering  the  educational  program  at  the  level  of  basic secondary education.
+2. Education in educational programs at the level of full secondary education is carried out in one of the specialized areas specified in Article 24 of this Law, chosen by students on the basis of interests, inclinations and abilities, as well as recommendations of a general education institution based on the results of mastering the educational program at the level of basic secondary education.
 
-Education in educational programs at the level of full secondary
+3. Education in educational programs at the level of full secondary education begins with children who have basic secondary education.
 
-education begins with children who have basic secondary education.
-
-- Full secondary education is compulsory and can be
-
-received in one of the following types of general education institutions:
-
-general education school, general education boarding school,
-
-specialized general education school (indicating the direction
-
-of specialized education), general education gymnasium (in-depth
-
-study of subjects in the areas of specialized education, introduction to
+4. Full secondary education is compulsory and can be received in one of the following types of general education institutions: general education school, general education boarding school, specialized general education school (indicating the direction of specialized education), general education gymnasium (in-depth study of subjects in the areas of specialized education, introduction to
 
 [[END OF PAGE 33]]
 
 [[START OF PAGE 34]]
 
-research, creativity, a wide range of additional
+research, creativity, a wide range of additional educational services) and others.
 
-educational services) and others.
-
-The standard period for the development of educational programs at the level of full secondary education is two academic years, while the total duration of education in a general education institution, taking into account the levels of primary and basic secondary education, will be up to twelve academic years.
+5. The standard period for the development of educational programs at the level of full secondary education is two academic years, while the total duration of education in a general education institution, taking into account the levels of primary and basic secondary education, will be up to twelve academic years.
 
 - Please indicate whether the legal minimum age for employment is aligned with the end of compulsory education:
 
@@ -1389,7 +1368,7 @@ For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides 
 
 ### 3. Quality education provision and learning environment
 
-For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends state s to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
+For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
 
 #### 3.1 General measures
 
@@ -1423,8 +1402,6 @@ The Law of Turkmenistan On Education: https://minjust.gov.tm/ru/hukuk/merkezi
 
 [[START OF PAGE 38]]
 
-#### 3.2 Education personnel
-
 - What challenges were encountered in realizing quality education?
 
  Non-supportive or inadequate learning environments
@@ -1444,6 +1421,8 @@ The Law of Turkmenistan On Education: https://minjust.gov.tm/ru/hukuk/merkezi
  Long distances to schools
 
 - Please elaborate. Brief quantitative information may be added.
+
+#### 3.2 Education personnel
 
 For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'.
 
@@ -1487,9 +1466,9 @@ The Law of Turkmenistan On Education: https://minjust.gov.tm/ru/hukuk/merkezi
 
  Other:
 
-- o Low quality educational infrastructure and materials
+o Low quality educational infrastructure and materials
 
-o High student - teacher ratio
+o High student – teacher ratio
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -1507,7 +1486,7 @@ For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provid
 
 - Please elaborate on each of the measures taken:
 
-https://turkmenistan.gov.tm/ru/post/74128/v-letnih-lageryah-turkmenistana-provedeny-lekcii- o-pravah-cheloveka
+https://turkmenistan.gov.tm/ru/post/74128/v-letnih-lageryah-turkmenistana-provedeny-lekcii-o-pravah-cheloveka
 
 > 42 Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'.
 
@@ -1612,13 +1591,13 @@ Digital education is both an opportunity for enhancing access but also can lead 
 Please indicate the relevant text and provisions:
 
 The Law of Turkmenistan On Education: https://minjust.gov.tm/ru/hukuk/merkezi
----
+
 The national concept for the development of the digital educational system has been approved
 Over the past five years, significant steps have been taken in Turkmenistan to reduce the digital gender gap, which is an important part of national efforts to strengthen the social and economic status of women. In 2023, the Launch Life Coding Bootcamp project was initiated, a free educational program for women and girls supported by the U.S. Embassy in Turkmenistan. This initiative helped the participants not only improve their digital skills by developing websites and mobile applications, but also promoted their employment in the IT sector, which significantly strengthened their economic position.
 Additionally, the DigiWomen STRIVE hackathon, organized by UNDP and the U.S. Embassy, provided women with a platform to work together on technology projects, highlighting their role in digital innovation and entrepreneurship. This event not only supported the development of the technical skills of the participants, but also contributed to their involvement in creating solutions to pressing social issues such as gender equality.
 The TechWomen program actively includes Turkmen women in the global community of science and technology professionals, providing them with access to international mentoring and resources, which expands their professional horizons and career opportunities.
 In addition, a significant number of women and girls participate in IT courses conducted by the Information Innovation Center and the Turkmen-Indian Information Technology Center, which indicates the country's desire to increase the level of computer literacy among the female population. This, in turn, contributes to strengthening the role of women in the development of the digital economy of Turkmenistan.
-As part of the United States' "TechGirls" educational program, students from our country's secondary schools were sent to participate in a program held at Virginia Tech University in Blacksburg, Virginia, from July 13 to August 5, 2024. The program aimed to inspire 15-17- year-old female students to pursue higher education and careers in science, technology, engineering, and mathematics (STEM).
+As part of the United States' "TechGirls" educational program, students from our country's secondary schools were sent to participate in a program held at Virginia Tech University in Blacksburg, Virginia, from July 13 to August 5, 2024. The program aimed to inspire 15-17-year-old female students to pursue higher education and careers in science, technology, engineering, and mathematics (STEM).
 Thus, the measures taken not only reduce the gender digital gap, but also contribute to the broader social and economic inclusion of women in Turkmenistan, confirming the country's strategic vision for gender equality and digital inclusion. The development of digital education is a key strategic direction, confirmed by the Concept of Digital Education Development in Turkmenistan for 2017-2025, approved by presidential decree.
 This Concept covers comprehensive measures, including the development of the legislative framework, the creation of e-learning systems, the development of infrastructure and the strengthening of human resources. The implementation of these areas has already yielded tangible results, such as updating educational laws to integrate digital learning methods,
 
@@ -1666,7 +1645,7 @@ The  Center  for  Innovative  Information,  in  cooperation  with  the  Center  
 
  Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.
 
- Measures to remove barriers to accessing digital content 46 , including ensuring access to curriculumaligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
+ Measures to remove barriers to accessing digital content 46, including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
 
  Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a  culture  of  digital  innovation  and  growth  anchored  in  equity  and  inclusion  that  enables  ongoing professional development for existing and emerging staff.
 
@@ -1724,7 +1703,7 @@ For reference: The Education 2030 Framework for Action states "to ensure quality
 
 https://turkmenistan.gov.tm/ru/post/64380/cifrovoe-upravlenie-v-sfere-obrazovaniya
 
-https://orient.tm/ru/post/57579/turkmenistan-i-yunesko-obsudili-sozdanie- informacionnoj-sistemyupravleniya-obrazovaniem
+https://orient.tm/ru/post/57579/turkmenistan-i-yunesko-obsudili-sozdanie-informacionnoj-sistemyupravleniya-obrazovaniem
 
  Monitoring processes are participatory, inclusive and regular.
 
@@ -1746,7 +1725,7 @@ https://orient.tm/ru/post/57579/turkmenistan-i-yunesko-obsudili-sozdanie- inform
 
  Lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels
 
- P oor dialogue with teachers' trade unions
+ Poor dialogue with teachers' trade unions
 
  Other:
 
