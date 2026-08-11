@@ -116,10 +116,8 @@ Le Président de la République promulgue la loi dont la teneur suit :
 
 ## CHAPITRE I : DE L'OBJET, DE LA FINALITE ET DU CHAMP D'APPLICATION
 
-La présente loi fixe les principes fondamentaux relatifs à l'enseignement national, conformément aux articles 42,
-
 ###### Article 1
-43, 44, 45, 123 point 5, 202 points 22 et 23 et 203 point 20 de la Constitution.
+La présente loi fixe les principes fondamentaux relatifs à l'enseignement national, conformément aux articles 42, 43, 44, 45, 123 point 5, 202 points 22 et 23 et 203 point 20 de la Constitution.
 ###### Article 2
 
 La présente loi a pour finalité  de créer les conditions nécessaires à :
@@ -156,7 +154,7 @@ L'enseignement national vise :
 - l'acquisition des compétences, des valeurs humaines, morales, civiques et culturelles pour créer une nouvelle société congolaise, démocratique, solidaire, prospère, éprise de paix et de justice.
 
 ###### Article 5
-L'éducation scolaire vise toutes les actions menées par les structures classiques, spéciales et non formelles. Elle a pour finalité l'épanouissement intégral et harmonieux de chaque personne afin de la rendre utile à ellemême et de réaliser son insertion dans la société.
+L'éducation scolaire vise toutes les actions menées par les structures classiques, spéciales et non formelles. Elle a pour finalité l'épanouissement intégral et harmonieux de chaque personne afin de la rendre utile à elle-même et de réaliser son insertion dans la société.
 ###### Article 6
 La présente loi s'applique aux établissements d'enseignement publics et privés agréés.
 
@@ -215,7 +213,7 @@ Aux termes de la présente loi, il faut entendre par :
 
 - obligation scolaire : l'obligation pour l'Etat de veiller à ce que tout enfant soit scolarisé notamment en assurant l'implantation des  infrastructures de proximité, et le devoir pour les parents ou l'autorité tutélaire  d'envoyer l'enfant à l'école ;
 
-- partenariat éducatif : mode de gestion par lequel l'Etat associe notamment les comités des parents d'élèves, les promoteurs des écoles privées agréées, les formations syndicales des enseignants, les confessions religieuses, les organisations non Gouvernement tales ainsi que les partenaires bi et multilatéraux pour résoudre les problèmes de l'éducation.
+- partenariat éducatif : mode de gestion par lequel l'Etat associe notamment les comités des parents d'élèves, les promoteurs des écoles privées agréées, les formations syndicales des enseignants, les confessions religieuses, les organisations non Gouvernementales ainsi que les partenaires bi et multilatéraux pour résoudre les problèmes de l'éducation.
 
 ## CHAPITRE III : DES OPTIONS FONDAMENTALES
 
@@ -502,7 +500,7 @@ L'enseignement national utilise les langues nationales et du milieu comme outil 
 ###### Article 39
 La création des établissements publics d'enseignement maternel, primaire, secondaire et professionnel est de la compétence concurrente du pouvoir central et des provinces, conformément à l'article 203  point 20 de la Constitution.
 ###### Article 40
-La création des établissements publics d'enseignement maternel, primaire, secondaire et professionnel est sanctionnée  par l'arrêté  du Ministre du Gouvernement t central ayant l'enseignement dans ses attributions ou du Gouverneur de province. L'arrêté susvisé tient compte du plan général et des plans locaux de développement de l'enseignement national.
+La création des établissements publics d'enseignement maternel, primaire, secondaire et professionnel est sanctionnée par l'arrêté du Ministre du Gouvernement central ayant l'enseignement dans ses attributions ou du Gouverneur de province. L'arrêté susvisé tient compte du plan général et des plans locaux de développement de l'enseignement national.
 ##### Paragraphe  2 : Des établissements de l'enseignement supérieur et universitaire
 ###### Article 41
 
@@ -810,7 +808,7 @@ L'enseignement supérieur comprend :
 
 - les écoles supérieures.
 
-###### 1. Des instituts supérieurs techniques, artistiques et technologiques
+###### a. 1. Des instituts supérieurs techniques, artistiques et technologiques
 
 ###### Article 90
 Les instituts supérieurs techniques, artistiques et technologiques ont pour mission de :
@@ -821,7 +819,7 @@ Les instituts supérieurs techniques, artistiques et technologiques ont pour mis
 
 - encourager la promotion et le rayonnement des arts et des métiers.
 
-###### 2. Des instituts supérieurs pédagogiques
+###### a. 2. Des instituts supérieurs pédagogiques
 
 ###### Article 91
 
@@ -833,7 +831,7 @@ Les instituts supérieurs pédagogiques ont pour mission de :
 
 - vulgariser les résultats de la recherche notamment par la production  et la diffusion des manuels scolaires adaptés.
 
-###### 3. Des écoles supérieures
+###### a. 3. Des écoles supérieures
 
 ###### Article 92
 
@@ -854,7 +852,7 @@ Les écoles supérieures ont pour mission de :
 ###### Article 94
 Les modalités d'organisation et de fonctionnement des écoles supérieures sont fixées par décret du Premier ministre délibéré en conseil des ministres, sur proposition du ministre ayant l'enseignement supérieur et universitaire dans ses attributions.
 
-###### De l'enseignement universitaire
+###### a. De l'enseignement universitaire
 
 ###### Article 95
 
@@ -905,7 +903,7 @@ Les trois cycles ont une durée de 3 ans pour la licence, 2 ans pour la Maîtris
 [[START OF PAGE 31]]
 
 ###### Article 99
-L'année académique  compte deux semestres de 15 semaines chacun comprenant les activités d'enseignementapprentissage effectif, les travaux pratiques, les stages et les évaluations.
+L'année académique  compte deux semestres de 15 semaines chacun comprenant les activités d'enseignement-apprentissage effectif, les travaux pratiques, les stages et les évaluations.
 ###### Article 100
 Les diplômés de chaque cycle sont revêtus du grade dont les appellations sont fixées par un Décret du Premier Ministre délibéré en conseil des ministres sur proposition du Ministre ayant l'enseignement supérieur et universitaire dans ses attributions après avis du Conseil académique supérieur.
 ###### Article 101
@@ -1151,7 +1149,7 @@ Ils sont soumis au contrôle des pouvoirs publics. Les modalités de leur foncti
 ###### Article 141
 Tout établissement d'enseignement national accueille, sans distinction d'origine, de religion, de race, de sexe, d'ethnie, d'opinion, tout élève ou étudiant remplissant les conditions déterminées par la présente loi.
 ###### Article 142
-Aucun établissement d'enseignement national ne peut ouvrir une nouvelle classe, une nouvelle section, une nouvelle faculté ou option, sans l'autorisation préalable du Ministre du Gouvernement t central ayant l'éducation dans ses attributions ou du Gouverneur de province selon le cas.
+Aucun établissement d'enseignement national ne peut ouvrir une nouvelle classe, une nouvelle section, une nouvelle faculté ou option, sans l'autorisation préalable du Ministre du Gouvernement central ayant l'éducation dans ses attributions ou du Gouverneur de province selon le cas.
 ###### Article 143
 Le Ministre de l'enseignement supérieur et universitaire réglemente  le fonctionnement des établissements, des centres de recherche y rattachés et des services spécialisés. Chaque établissement public ou privé de l'enseignement maternel, primaire, secondaire et professionnel ainsi que d'éducation non formelle élabore son règlement intérieur conformément aux directives et instructions de l'autorité compétente.
 ###### Article 144
@@ -1256,11 +1254,9 @@ Le Pouvoir central est le garant de la préservation de l'identité culturelle n
 
 - la valeur éthique, scientifique, pédagogique et andragogique des programmes scolaires et académiques ainsi qu'à la valeur morale et professionnelle du personnel de l'enseignement.
 
-La province a compétence exclusive, conformément à l'article 204, points 13 et 29 de la Constitution dans le
-
 ##### Paragraphe  2 : Des compétences de la Province
 ###### Article 155
-domaine de :
+La province a compétence exclusive, conformément à l'article 204, points 13 et 29 de la Constitution dans le domaine de :
 
 - l'enseignement maternel, primaire, secondaire, professionnel et spécial ainsi que de l'alphabétisation des citoyens suivant les normes établies par le pouvoir central ;
 
@@ -1289,7 +1285,7 @@ provinciale de l'enseignement maternel, primaire, secondaire et professionnel ;
 - le contrôle des établissements d'enseignement des entités territoriales décentralisées par les inspecteurs.
 
 ###### Article 157
-Le contrôle visé au point 2 de l'article 156 est un contrôle de tutelle, exercé par le Gouverneur de province ou par délégation dans les conditions prescrites par la présente loi. Ce contrôle est exercé a priori pour les actes pouvant entraîner des relations structurées, quelle qu'en soit la forme, avec notamment les Etats étrangers, les entités territoriales des Etats étrangers, les organisations non Gouvernement tales étrangères ou des organismes du système des Nations-Unies. Ce contrôle est a posteriori pour tous les autres actes, notamment ceux relatifs à la planification et à l'élaboration des projets en matière d'enseignement.
+Le contrôle visé au point 2 de l'article 156 est un contrôle de tutelle, exercé par le Gouverneur de province ou par délégation dans les conditions prescrites par la présente loi. Ce contrôle est exercé a priori pour les actes pouvant entraîner des relations structurées, quelle qu'en soit la forme, avec notamment les Etats étrangers, les entités territoriales des Etats étrangers, les organisations non Gouvernementales étrangères ou des organismes du système des Nations-Unies. Ce contrôle est a posteriori pour tous les autres actes, notamment ceux relatifs à la planification et à l'élaboration des projets en matière d'enseignement.
 ##### Paragraphe  3 : Des compétences des entités territoriales décentralisées
 ###### Article 158
 Les entités territoriales décentralisées, à savoir la ville, la commune, le secteur ou la chefferie disposent des compétences spécifiques en matière d'enseignement national, dans le respect des normes établies par la loi.
@@ -1322,7 +1318,7 @@ En matière d'enseignement, la commune est compétente pour:
 
 - créer des structures et mettre en œuvre des projets d'intérêt commun entre communes voisines ;
 
-- promouvoir le partenariat avec le secteur privé et les organisations non Gouvernement tales œuvrant dans le domaine ;
+- promouvoir le partenariat avec le secteur privé et les organisations non Gouvernementales œuvrant dans le domaine ;
 
 - planifier  et programmer le développement de l'enseignement.
 
@@ -1404,7 +1400,7 @@ Les établissements publics et privés agréés d'enseignement national bénéfi
 
 - pour les établissements publics d'enseignement gérés par l'Etat, il s'agit notamment de:
 
-- subventions du Gouvernement t central, des provinces et des entités territoriales décentralisées ;
+- subventions du Gouvernement central, des provinces et des entités territoriales décentralisées ;
 
 - produits de l'autofinancement des établissements ;
 
@@ -1440,7 +1436,8 @@ Les établissements publics et privés agréés d'enseignement national bénéfi
 
 - subventions du Gouvernement central, des provinces ou des entités territoriales décentralisées.
 
-Article 171 En matière de gestion des établissements publics d'enseignement national, les entités territoriales décentralisées, les provinces et le cas échéant le pouvoir central prennent en charge :
+###### Article 171
+En matière de gestion des établissements publics d'enseignement national, les entités territoriales décentralisées, les provinces et le cas échéant le pouvoir central prennent en charge :
 
 [[END OF PAGE 48]]
 
@@ -1537,7 +1534,9 @@ L'école doit notamment :
 
 [[START OF PAGE 52]]
 
-manuelle ; 7.    aider l'enfant à choisir une filière d'études en tenant compte de ses aptitudes, goûts et intérêts.
+manuelle ;
+
+- aider l'enfant à choisir une filière d'études en tenant compte de ses aptitudes, goûts et intérêts.
 ### SECTION 2 : DE L'ASSISTANCE MEDICO-PSYCHO-SOCIALE ET DE L'ORIENTATION SCOLAIRE
 ###### Article 186
 L'enseignement national apporte à l'apprenant l'assistance médico-psycho-sociale nécessaire. Il lui rend accessibles les services d'information et d'orientation scolaire et professionnelle afin d'assurer son autonomie et favoriser la libération de sa créativité. Il  est organisé au sein des établissements d'enseignement national  un service obligatoire de   médecine préventive. Les modalités d'organisation et de fonctionnement de ces services sont déterminées par voie réglementaire.
