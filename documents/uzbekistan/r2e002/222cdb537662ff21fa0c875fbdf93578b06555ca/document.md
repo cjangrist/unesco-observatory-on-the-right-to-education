@@ -1,10 +1,10 @@
 [[START OF PAGE 1]]
 
-# The Law of the Republic of Uzbekistan 'On Education'
+# The Law of the Republic of Uzbekistan “On Education”
 
 Adopted in 29.08.1997
 
-Extracts  from  the  report  submitted  for  the  7 th consultation  of  the  Member  States  on  the implementation of the Convention and Recommendation against Discrimination in Education
+Extracts  from  the  report  submitted  for  the  7th consultation  of  the  Member  States  on  the implementation of the Convention and Recommendation against Discrimination in Education
 
 ## Article 4
 
@@ -26,7 +26,7 @@ Persons without citizenship who are permanent residents of Uzbekistan have equal
 
 ## Article 18
 
-The  State  shall  support  home  schooling  and  self-education.  Home  schooling  and  selfeducation  should  be  carried  out  using  the  programmes  of  the  corresponding  educational institutions. Methodical consulting and other help should be given by representatives of state institutions
+The  State  shall  support  home  schooling  and  self-education.  Home  schooling  and  self-education  should  be  carried  out  using  the  programmes  of  the  corresponding  educational institutions. Methodical consulting and other help should be given by representatives of state institutions
 
 ## Article 20
 
@@ -38,7 +38,7 @@ The training and support of orphans and children without parents or legal guardi
 
 ## Article 23
 
-Specialized  educational  institutions  are  being  organized  to  train  and  treat  physically  and mentally  handicapped  children  and  teenagers.  The  decision  on  children's  attendance  at educational  institutions  and  removal  from  study  are  taking  by  psychological-medicalpedagogical commission on the basis of agreement with consent of parents or legal guardians.
+Specialized  educational  institutions  are  being  organized  to  train  and  treat  physically  and mentally  handicapped  children  and  teenagers.  The  decision  on  children’s  attendance  at educational  institutions  and  removal  from  study  are  taking  by  psychological-medical-pedagogical commission on the basis of agreement with consent of parents or legal guardians.
 
 [[END OF PAGE 1]]
 
