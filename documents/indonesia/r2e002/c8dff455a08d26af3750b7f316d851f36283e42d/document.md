@@ -16,9 +16,9 @@ bahwa dalam rangka melaksanakan ketentuan Pasal 34 ayat (4) Undang-Undang Nomor 
 
 Mengingat :
 
-- Pasal  5  ayat  (2)  Undang-Undang  Dasar  Negara  Republik Indonesia Tahun 1945;
+1. Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
 
-- Undang-Undang  Republik  Indonesia  Nomor  20  Tahun  2003 tentang Sistem Pendidikan Nasional (Lembaran Negara Tahun 2003 Nomor 78, Tambahan Lembaran Negara Nomor 4301);
+2. Undang-Undang Republik Indonesia Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional (Lembaran Negara Tahun 2003 Nomor 78, Tambahan Lembaran Negara Nomor 4301);
 
 M E M U T U S K A N :
 
@@ -32,13 +32,13 @@ Menetapkan  :   PERATURAN PEMERINTAH TENTANG WAJIB BELAJAR.
 
 Dalam Peraturan Pemerintah ini yang dimaksud dengan:
 
-- Wajib  belajar  adalah  program  pendidikan  minimal  yang  harus diikuti oleh warga negara Indonesia atas tanggung jawab Pemerintah dan pemerintah daerah.
+1. Wajib belajar adalah program pendidikan minimal yang harus diikuti oleh warga negara Indonesia atas tanggung jawab Pemerintah dan pemerintah daerah.
 
-- Pendidikan  dasar  adalah  jenjang  pendidikan  yang  melandasi jenjang  pendidikan  menengah,  berbentuk  Sekolah  Dasar  (SD) dan  Madrasah  Ibtidaiyah  (MI)  atau  bentuk  lain  yang  sederajat serta sekolah menengah pertama (SMP) dan madrasah tsanawiyah (MTs), atau bentuk lain yang sederajat.
+2. Pendidikan dasar adalah jenjang pendidikan yang melandasi jenjang pendidikan menengah, berbentuk Sekolah Dasar (SD) dan Madrasah Ibtidaiyah (MI) atau bentuk lain yang sederajat serta sekolah menengah pertama (SMP) dan madrasah tsanawiyah (MTs), atau bentuk lain yang sederajat.
 
-- Sekolah  Dasar  yang  selanjutnya  disebut  SD  adalah  salah  satu bentuk satuan pendidikan formal yang menyelenggarakan pendidikan umum pada jenjang pendidikan dasar.
+3. Sekolah Dasar yang selanjutnya disebut SD adalah salah satu bentuk satuan pendidikan formal yang menyelenggarakan pendidikan umum pada jenjang pendidikan dasar.
 
-4 Madrasah . . .
+4. Madrasah . . .
 
 [[END OF PAGE 1]]
 
@@ -46,21 +46,21 @@ Dalam Peraturan Pemerintah ini yang dimaksud dengan:
 
 -  2  -
 
-- Madrasah Ibtidaiyah yang selanjutnya disebut MI adalah salah satu  bentuk  satuan  pendidikan  formal yang  menyelenggarakan pendidikan umum dengan kekhasan agama Islam pada jenjang pendidikan dasar, di dalam pembinaan Menteri Agama.
+4. Madrasah Ibtidaiyah yang selanjutnya disebut MI adalah salah satu bentuk satuan pendidikan formal yang menyelenggarakan pendidikan umum dengan kekhasan agama Islam pada jenjang pendidikan dasar, di dalam pembinaan Menteri Agama.
 
-- Sekolah Menengah  Pertama  yang  selanjutnya disebut  SMP adalah salah satu bentuk satuan pendidikan formal yang menyelenggarakan  pendidikan  umum  pada  jenjang  pendidikan dasar  sebagai  lanjutan  dari  SD,  MI,  atau  bentuk  lain  yang sederajat.
+5. Sekolah Menengah Pertama yang selanjutnya disebut SMP adalah salah satu bentuk satuan pendidikan formal yang menyelenggarakan pendidikan umum pada jenjang pendidikan dasar sebagai lanjutan dari SD, MI, atau bentuk lain yang sederajat.
 
-- Madrasah  Tsanawiyah  yang  selanjutnya  disebut  MTs  adalah salah satu bentuk satuan pendidikan formal yang menyelenggarakan  pendidikan  umum  dengan  kekhasan  agama Islam pada jenjang pendidikan dasar sebagai lanjutan dari SD, MI,  atau  bentuk  lain  yang  sederajat,  di  dalam  pembinaan Menteri Agama.
+6. Madrasah Tsanawiyah yang selanjutnya disebut MTs adalah salah satu bentuk satuan pendidikan formal yang menyelenggarakan pendidikan umum dengan kekhasan agama Islam pada jenjang pendidikan dasar sebagai lanjutan dari SD, MI, atau bentuk lain yang sederajat, di dalam pembinaan Menteri Agama.
 
-- Program paket A adalah program pendidikan dasar jalur nonformal yang setara SD.
+7. Program paket A adalah program pendidikan dasar jalur nonformal yang setara SD.
 
-- Program paket B adalah program pendidikan dasar jalur nonformal yang setara SMP.
+8. Program paket B adalah program pendidikan dasar jalur nonformal yang setara SMP.
 
-- Pemerintah adalah Pemerintah pusat.
+9. Pemerintah adalah Pemerintah pusat.
 
-- Pemerintah  daerah adalah pemerintah  provinsi,  pemerintah kabupaten, atau pemerintah kota.
+10. Pemerintah daerah adalah pemerintah provinsi, pemerintah kabupaten, atau pemerintah kota.
 
-- Menteri  adalah  menteri  yang  menangani  urusan  pemerintahan di bidang pendidikan nasional.
+11. Menteri adalah menteri yang menangani urusan pemerintahan di bidang pendidikan nasional.
 
 ## BAB II
 
@@ -68,9 +68,9 @@ Dalam Peraturan Pemerintah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-- Wajib belajar berfungsi mengupayakan perluasan dan pemerataan kesempatan memperoleh pendidikan yang bermutu bagi setiap warga negara Indonesia.
+(1) Wajib belajar berfungsi mengupayakan perluasan dan pemerataan kesempatan memperoleh pendidikan yang bermutu bagi setiap warga negara Indonesia.
 
-- Wajib  belajar  bertujuan  memberikan  pendidikan  minimal  bagi warga  negara  Indonesia  untuk  dapat  mengembangkan  potensi dirinya  agar  dapat  hidup  mandiri  di  dalam  masyarakat  atau melanjutkan pendidikan ke jenjang yang lebih tinggi.
+(2) Wajib belajar bertujuan memberikan pendidikan minimal bagi warga negara Indonesia untuk dapat mengembangkan potensi dirinya agar dapat hidup mandiri di dalam masyarakat atau melanjutkan pendidikan ke jenjang yang lebih tinggi.
 
 BAB III . . .
 
@@ -86,15 +86,15 @@ BAB III . . .
 
 #### Pasal 3
 
-- Wajib  belajar  diselenggarakan  pada  jalur  pendidikan  formal, pendidikan nonformal, dan pendidikan informal.
+(1) Wajib belajar diselenggarakan pada jalur pendidikan formal, pendidikan nonformal, dan pendidikan informal.
 
-- Penyelenggaraan  wajib  belajar  pada  jalur  formal  dilaksanakan minimal  pada  jenjang  pendidikan  dasar  yang  meliputi  SD,  MI, SMP, MTs, dan bentuk lain yang sederajat.
+(2) Penyelenggaraan wajib belajar pada jalur formal dilaksanakan minimal pada jenjang pendidikan dasar yang meliputi SD, MI, SMP, MTs, dan bentuk lain yang sederajat.
 
-- Penyelenggaraan wajib belajar pada jalur pendidikan nonformal dilaksanakan  melalui  program  paket  A,  program  paket  B,  dan bentuk lain yang sederajat.
+(3) Penyelenggaraan wajib belajar pada jalur pendidikan nonformal dilaksanakan melalui program paket A, program paket B, dan bentuk lain yang sederajat.
 
-- Penyelenggaraan  wajib  belajar  pada  jalur  pendidikan  informal dilaksanakan melalui pendidikan keluarga dan/atau pendidikan lingkungan.
+(4) Penyelenggaraan wajib belajar pada jalur pendidikan informal dilaksanakan melalui pendidikan keluarga dan/atau pendidikan lingkungan.
 
-- Ketentuan  mengenai  penyetaraan  pendidikan  nonformal  dan pengakuan  hasil  pendidikan  informal  penyelenggara  program wajib  belajar  terhadap  pendidikan  dasar  jalur  formal  diatur dalam  peraturan  perundang-undangan  yang  mengatur  tentang penyelenggaraan dan pengelolaan pendidikan.
+(5) Ketentuan mengenai penyetaraan pendidikan nonformal dan pengakuan hasil pendidikan informal penyelenggara program wajib belajar terhadap pendidikan dasar jalur formal diatur dalam peraturan perundang-undangan yang mengatur tentang penyelenggaraan dan pengelolaan pendidikan.
 
 #### Pasal 4
 
@@ -102,11 +102,11 @@ Program wajib belajar diselenggarakan oleh Pemerintah, pemerintah daerah sesuai 
 
 #### Pasal 5
 
-- Satuan  pendidikan  dasar  penyelenggara  program  wajib  belajar wajib  menjaga  keberlangsungan  pelaksanaan  program  wajib belajar yang bermutu dan memenuhi Standar Nasional Pendidikan.
+(1) Satuan pendidikan dasar penyelenggara program wajib belajar wajib menjaga keberlangsungan pelaksanaan program wajib belajar yang bermutu dan memenuhi Standar Nasional Pendidikan.
 
-- Satuan  pendidikan  dasar  penyelenggara  program  wajib  belajar wajib menerima peserta didik program wajib belajar dari lingkungan sekitarnya tanpa diskriminasi sesuai daya tampung satuan pendidikan yang bersangkutan.
+(2) Satuan pendidikan dasar penyelenggara program wajib belajar wajib menerima peserta didik program wajib belajar dari lingkungan sekitarnya tanpa diskriminasi sesuai daya tampung satuan pendidikan yang bersangkutan.
 
-- Penerimaan peserta didik sebagaimana dimaksud pada ayat (2) pada SD/MI atau yang sederajat tidak mempersyaratkan bahwa calon  peserta  didik  yang  bersangkutan  telah  menyelesaikan pendidikan anak usia dini.
+(3) Penerimaan peserta didik sebagaimana dimaksud pada ayat (2) pada SD/MI atau yang sederajat tidak mempersyaratkan bahwa calon peserta didik yang bersangkutan telah menyelesaikan pendidikan anak usia dini.
 
 (4) Satuan . . .
 
@@ -116,7 +116,7 @@ Program wajib belajar diselenggarakan oleh Pemerintah, pemerintah daerah sesuai 
 
 -  4  -
 
-- Satuan  pendidikan  dasar  penyelenggara  program  wajib  belajar yang melanggar ketentuan sebagaimana dimaksud pada ayat (2) dikenakan  sanksi  administrasi  berupa  teguran,  penghentian pemberian bantuan hingga penutupan satuan pendidikan yang bersangkutan.
+(4) Satuan pendidikan dasar penyelenggara program wajib belajar yang melanggar ketentuan sebagaimana dimaksud pada ayat (2) dikenakan sanksi administrasi berupa teguran, penghentian pemberian bantuan hingga penutupan satuan pendidikan yang bersangkutan.
 
 ## BAB IV
 
@@ -124,21 +124,21 @@ Program wajib belajar diselenggarakan oleh Pemerintah, pemerintah daerah sesuai 
 
 #### Pasal 6
 
-- Pengelolaan  program  wajib  belajar secara  nasional  menjadi tanggung jawab Menteri.
+(1) Pengelolaan program wajib belajar secara nasional menjadi tanggung jawab Menteri.
 
-- Koordinasi pengelolaan program wajib belajar pendidikan dasar tingkat provinsi menjadi tanggung jawab gubernur.
+(2) Koordinasi pengelolaan program wajib belajar pendidikan dasar tingkat provinsi menjadi tanggung jawab gubernur.
 
-- Pengelolaan  program  wajib  belajar  pendidikan  dasar  tingkat kabupaten/kota menjadi tanggung jawab bupati/walikota.
+(3) Pengelolaan program wajib belajar pendidikan dasar tingkat kabupaten/kota menjadi tanggung jawab bupati/walikota.
 
-- Pengelolaan program wajib belajar pada tingkat satuan pendidikan  dasar  menjadi  tanggung  jawab  pemimpin  satuan pendidikan dasar.
+(4) Pengelolaan program wajib belajar pada tingkat satuan pendidikan dasar menjadi tanggung jawab pemimpin satuan pendidikan dasar.
 
-- Pengelolaan  program  wajib  belajar  pendidikan  dasar  di  luar negeri menjadi tanggung jawab Kepala Perwakilan Negara Kesatuan Republik Indonesia di luar negeri yang bersangkutan.
+(5) Pengelolaan program wajib belajar pendidikan dasar di luar negeri menjadi tanggung jawab Kepala Perwakilan Negara Kesatuan Republik Indonesia di luar negeri yang bersangkutan.
 
 #### Pasal 7
 
-- Pemerintah menetapkan kebijakan nasional pelaksanaan program wajib belajar yang dicantumkan dalam Rencana Kerja Pemerintah, Anggaran Pendapatan dan Belanja Negara, Rencana Strategis  Bidang  Pendidikan,  Rencana  Pembangunan  Jangka Menengah, dan Rencana Pembangunan Jangka Panjang.
+(1) Pemerintah menetapkan kebijakan nasional pelaksanaan program wajib belajar yang dicantumkan dalam Rencana Kerja Pemerintah, Anggaran Pendapatan dan Belanja Negara, Rencana Strategis Bidang Pendidikan, Rencana Pembangunan Jangka Menengah, dan Rencana Pembangunan Jangka Panjang.
 
-- Pemerintah dan pemerintah daerah sesuai kewenangannya berkewajiban menyelenggarakan program wajib belajar berdasarkan  kebijakan  nasional  sebagaimana  dimaksud  pada ayat (1).
+(2) Pemerintah dan pemerintah daerah sesuai kewenangannya berkewajiban menyelenggarakan program wajib belajar berdasarkan kebijakan nasional sebagaimana dimaksud pada ayat (1).
 
 (3) Penyelenggaraan . . .
 
@@ -148,13 +148,13 @@ Program wajib belajar diselenggarakan oleh Pemerintah, pemerintah daerah sesuai 
 
 -  5  -
 
-- Penyelenggaraan program wajib belajar oleh pemerintah daerah sebagaimana dimaksud pada ayat (2) ditetapkan dalam Rencana Kerja  Pemerintah  Daerah,  Anggaran  Pendapatan  dan  Belanja Daerah, Rencana Strategis Daerah Bidang Pendidikan, Rencana Pembangunan Jangka Menengah Daerah, dan Rencana Pembangunan Jangka Panjang Daerah.
+(3) Penyelenggaraan program wajib belajar oleh pemerintah daerah sebagaimana dimaksud pada ayat (2) ditetapkan dalam Rencana Kerja Pemerintah Daerah, Anggaran Pendapatan dan Belanja Daerah, Rencana Strategis Daerah Bidang Pendidikan, Rencana Pembangunan Jangka Menengah Daerah, dan Rencana Pembangunan Jangka Panjang Daerah.
 
-- Pemerintah daerah dapat menetapkan kebijakan untuk meningkatkan jenjang pendidikan wajib belajar sampai pendidikan menengah.
+(4) Pemerintah daerah dapat menetapkan kebijakan untuk meningkatkan jenjang pendidikan wajib belajar sampai pendidikan menengah.
 
-- Pemerintah  daerah  dapat  mengatur  lebih  lanjut  pelaksanaan program  wajib  belajar,  sesuai  dengan  kondisi  daerah  masingmasing melalui Peraturan Daerah.
+(5) Pemerintah daerah dapat mengatur lebih lanjut pelaksanaan program wajib belajar, sesuai dengan kondisi daerah masing-masing melalui Peraturan Daerah.
 
-- Ketentuan  mengenai  pelaksanaan  program  wajib  belajar  yang diatur oleh pemerintah daerah sebagaimana dimaksud pada ayat (5) termasuk kewenangan  memberikan  sanksi administratif kepada  warga  negara  Indonesia  yang  memiliki  anak  berusia  7 (tujuh) sampai dengan 15 (lima belas) tahun yang tidak mengikuti program wajib belajar.
+(6) Ketentuan mengenai pelaksanaan program wajib belajar yang diatur oleh pemerintah daerah sebagaimana dimaksud pada ayat (5) termasuk kewenangan memberikan sanksi administratif kepada warga negara Indonesia yang memiliki anak berusia 7 (tujuh) sampai dengan 15 (lima belas) tahun yang tidak mengikuti program wajib belajar.
 
 ## BAB V
 
@@ -162,19 +162,19 @@ Program wajib belajar diselenggarakan oleh Pemerintah, pemerintah daerah sesuai 
 
 #### Pasal 8
 
-- Pemerintah, pemerintah provinsi, dan pemerintah kabupaten/kota melakukan evaluasi terhadap pelaksanaan program wajib belajar secara berkala.
+(1) Pemerintah, pemerintah provinsi, dan pemerintah kabupaten/kota melakukan evaluasi terhadap pelaksanaan program wajib belajar secara berkala.
 
-- Evaluasi terhadap pelaksanaan program wajib belajar sebagaimana dimaksud pada ayat (1) sekurang-kurangnya meliputi:
+(2) Evaluasi terhadap pelaksanaan program wajib belajar sebagaimana dimaksud pada ayat (1) sekurang-kurangnya meliputi:
 
-- tingkat pencapaian program wajib belajar;
+a. tingkat pencapaian program wajib belajar;
 
-- pelaksanaan kurikulum pendidikan dasar;
+b. pelaksanaan kurikulum pendidikan dasar;
 
-- hasil belajar peserta didik; dan
+c. hasil belajar peserta didik; dan
 
-- realisasi anggaran.
+d. realisasi anggaran.
 
-- Hasil evaluasi sebagaimana dimaksud pada ayat (1) dan ayat (2) dilaporkan kepada Menteri.
+(3) Hasil evaluasi sebagaimana dimaksud pada ayat (1) dan ayat (2) dilaporkan kepada Menteri.
 
 (4) Atas . . .
 
@@ -184,15 +184,15 @@ Program wajib belajar diselenggarakan oleh Pemerintah, pemerintah daerah sesuai 
 
 -  6  -
 
-- Atas dasar hasil evaluasi sebagaimana dimaksud pada ayat (3) Menteri melakukan evaluasi komprehensif untuk menilai:
+(4) Atas dasar hasil evaluasi sebagaimana dimaksud pada ayat (3) Menteri melakukan evaluasi komprehensif untuk menilai:
 
-- ketercapaian program wajib belajar;
+a. ketercapaian program wajib belajar;
 
-- kemajuan program wajib belajar; dan
+b. kemajuan program wajib belajar; dan
 
-- hambatan penyelenggaraan program wajib belajar.
+c. hambatan penyelenggaraan program wajib belajar.
 
-- Evaluasi  terhadap  pelaksanaan  program  wajib  belajar  dapat dilakukan oleh lembaga evaluasi mandiri yang didirikan masyarakat sesuai Standar Nasional Pendidikan.
+(5) Evaluasi terhadap pelaksanaan program wajib belajar dapat dilakukan oleh lembaga evaluasi mandiri yang didirikan masyarakat sesuai Standar Nasional Pendidikan.
 
 ## BAB VI
 
@@ -200,17 +200,17 @@ Program wajib belajar diselenggarakan oleh Pemerintah, pemerintah daerah sesuai 
 
 #### Pasal 9
 
-- Pemerintah dan pemerintah daerah menjamin terselenggaranya program  wajib  belajar  minimal  pada  jenjang  pendidikan  dasar tanpa memungut biaya.
+(1) Pemerintah dan pemerintah daerah menjamin terselenggaranya program wajib belajar minimal pada jenjang pendidikan dasar tanpa memungut biaya.
 
-- Warga  negara  Indonesia  yang  berusia  6  (enam)  tahun  dapat mengikuti program wajib belajar apabila daya tampung satuan pendidikan masih memungkinkan.
+(2) Warga negara Indonesia yang berusia 6 (enam) tahun dapat mengikuti program wajib belajar apabila daya tampung satuan pendidikan masih memungkinkan.
 
-- Warga  negara  Indonesia  yang  berusia  di  atas  15  (lima  belas) tahun dan belum lulus pendidikan dasar dapat menyelesaikan pendidikannya  sampai  lulus  atas  biaya  Pemerintah  dan/atau pemerintah daerah.
+(3) Warga negara Indonesia yang berusia di atas 15 (lima belas) tahun dan belum lulus pendidikan dasar dapat menyelesaikan pendidikannya sampai lulus atas biaya Pemerintah dan/atau pemerintah daerah.
 
-- Warga negara Indonesia usia wajib belajar yang orang tua/walinya  tidak  mampu  membiayai  pendidikan,  Pemerintah dan/atau pemerintah daerah wajib memberikan bantuan biaya pendidikan sesuai peraturan perundang-undangan.
+(4) Warga negara Indonesia usia wajib belajar yang orang tua/walinya tidak mampu membiayai pendidikan, Pemerintah dan/atau pemerintah daerah wajib memberikan bantuan biaya pendidikan sesuai peraturan perundang-undangan.
 
 #### Pasal 10
 
-- Investasi pada lahan, sarana, dan prasarana selain lahan pendidikan  pada  satuan  pendidikan  dasar  pelaksana  program wajib belajar yang diselenggarakan oleh Pemerintah atau pemerintah  daerah  menjadi  tanggung  jawab  Pemerintah  atau pemerintah daerah sesuai kewenangan masing-masing.
+(1) Investasi pada lahan, sarana, dan prasarana selain lahan pendidikan pada satuan pendidikan dasar pelaksana program wajib belajar yang diselenggarakan oleh Pemerintah atau pemerintah daerah menjadi tanggung jawab Pemerintah atau pemerintah daerah sesuai kewenangan masing-masing.
 
 (2) Investasi . . .
 
@@ -220,27 +220,27 @@ Program wajib belajar diselenggarakan oleh Pemerintah, pemerintah daerah sesuai 
 
 -  7  -
 
-- Investasi pada lahan, sarana, dan prasarana selain lahan pendidikan  pada  satuan  pendidikan  dasar  pelaksana  program wajib  belajar  yang  diselenggarakan  oleh  masyarakat  menjadi tanggung jawab badan hukum penyelenggara satuan pendidikan.
+(2) Investasi pada lahan, sarana, dan prasarana selain lahan pendidikan pada satuan pendidikan dasar pelaksana program wajib belajar yang diselenggarakan oleh masyarakat menjadi tanggung jawab badan hukum penyelenggara satuan pendidikan.
 
-- Biaya operasi pada satuan pendidikan dasar pelaksana program wajib belajar menjadi tanggung jawab Pemerintah atau pemerintah daerah sesuai kewenangan masing-masing.
+(3) Biaya operasi pada satuan pendidikan dasar pelaksana program wajib belajar menjadi tanggung jawab Pemerintah atau pemerintah daerah sesuai kewenangan masing-masing.
 
-- Ketentuan  mengenai  investasi  dan  biaya  operasi  sebagaimana dimaksud  pada  ayat  (1),  ayat  (2)  dan  ayat  (3)  diatur  dalam peraturan perundang-undangan yang mengatur tentang pendanaan pendidikan.
+(4) Ketentuan mengenai investasi dan biaya operasi sebagaimana dimaksud pada ayat (1), ayat (2) dan ayat (3) diatur dalam peraturan perundang-undangan yang mengatur tentang pendanaan pendidikan.
 
 #### Pasal 11
 
-- Pemerintah dan pemerintah daerah menjamin tersedianya lahan, sarana,  dan  prasarana  selain  lahan  pendidikan  untuk  setiap satuan pendidikan pelaksana program wajib belajar yang diselenggarakan oleh Pemerintah atau pemerintah daerah sesuai kewenangannya masing-masing, dengan pembagian beban tanggung jawab sebagaimana diatur dalam peraturan perundang-undangan yang mengatur tentang pendanaan pendidikan.
+(1) Pemerintah dan pemerintah daerah menjamin tersedianya lahan, sarana, dan prasarana selain lahan pendidikan untuk setiap satuan pendidikan pelaksana program wajib belajar yang diselenggarakan oleh Pemerintah atau pemerintah daerah sesuai kewenangannya masing-masing, dengan pembagian beban tanggung jawab sebagaimana diatur dalam peraturan perundang-undangan yang mengatur tentang pendanaan pendidikan.
 
-- Pemerintah dan pemerintah daerah menjamin tersedianya pendidik, tenaga kependidikan, dan biaya operasi untuk setiap satuan pendidikan penyelenggara program wajib belajar dengan pembagian  beban  tanggung  jawab  sebagaimana  diatur  dalam dalam  peraturan  perundang-undangan  yang  mengatur  tentang pendanaan pendidikan.
+(2) Pemerintah dan pemerintah daerah menjamin tersedianya pendidik, tenaga kependidikan, dan biaya operasi untuk setiap satuan pendidikan penyelenggara program wajib belajar dengan pembagian beban tanggung jawab sebagaimana diatur dalam dalam peraturan perundang-undangan yang mengatur tentang pendanaan pendidikan.
 
-- Pemerintah provinsi menjamin terselenggaranya koordinasi atas penyelenggaraan pendidikan, pengembangan tenaga kependidikan, dan penyediaan fasilitas penyelenggaraan pendidikan lintas kabupaten/kota di wilayahnya untuk pelaksanaan program wajib belajar.
+(3) Pemerintah provinsi menjamin terselenggaranya koordinasi atas penyelenggaraan pendidikan, pengembangan tenaga kependidikan, dan penyediaan fasilitas penyelenggaraan pendidikan lintas kabupaten/kota di wilayahnya untuk pelaksanaan program wajib belajar.
 
 #### Pasal 12
 
-- Setiap warga negara Indonesia usia wajib belajar wajib mengikuti program wajib belajar.
+(1) Setiap warga negara Indonesia usia wajib belajar wajib mengikuti program wajib belajar.
 
-- Setiap  warga  negara  Indonesia  yang  memiliki  anak  usia  wajib belajar bertanggung jawab memberikan pendidikan wajib belajar kepada anaknya.
+(2) Setiap warga negara Indonesia yang memiliki anak usia wajib belajar bertanggung jawab memberikan pendidikan wajib belajar kepada anaknya.
 
-- Pemerintah  kabupaten/kota  wajib  mengupayakan  agar  setiap warga  negara  Indonesia  usia  wajib  belajar  mengikuti  program wajib belajar.
+(3) Pemerintah kabupaten/kota wajib mengupayakan agar setiap warga negara Indonesia usia wajib belajar mengikuti program wajib belajar.
 
 BAB VII . . .
 
@@ -256,15 +256,15 @@ BAB VII . . .
 
 #### Pasal 13
 
-- Masyarakat berhak:
+(1) Masyarakat berhak:
 
-- berperan serta dalam perencanaan, pelaksanaan, pengawasan, dan evaluasi terhadap penyelenggaraan program wajib belajar; serta
+a. berperan serta dalam perencanaan, pelaksanaan, pengawasan, dan evaluasi terhadap penyelenggaraan program wajib belajar; serta
 
-- mendapat data dan informasi tentang penyelenggaraan program wajib belajar.
+b. mendapat data dan informasi tentang penyelenggaraan program wajib belajar.
 
-- Masyarakat berkewajiban mendukung penyelenggaraan program wajib belajar.
+(2) Masyarakat berkewajiban mendukung penyelenggaraan program wajib belajar.
 
-- Hak  dan  kewajiban  masyarakat  sebagaimana  dimaksud  pada ayat (1) dan ayat (2) dilaksanakan sesuai peraturan perundangundangan.
+(3) Hak dan kewajiban masyarakat sebagaimana dimaksud pada ayat (1) dan ayat (2) dilaksanakan sesuai peraturan perundang-undangan.
 
 ## BAB VIII
 
@@ -276,11 +276,11 @@ Pemerintah,  pemerintah  daerah,  dewan  pendidikan,  dan  komite sekolah/madras
 
 #### Pasal 15
 
-- Pemerintah melaksanakan pengawasan terhadap penyelenggaraan program wajib belajar secara nasional.
+(1) Pemerintah melaksanakan pengawasan terhadap penyelenggaraan program wajib belajar secara nasional.
 
-- Pemerintah daerah melaksanakan pengawasan penyelenggaraan program wajib belajar pada satuan pendidikan di daerah masing-masing.
+(2) Pemerintah daerah melaksanakan pengawasan penyelenggaraan program wajib belajar pada satuan pendidikan di daerah masing-masing.
 
-- Pengawasan sebagaimana dimaksud pada ayat (1) dan ayat (2) meliputi  pengarahan,  bimbingan,  dan  pemberian  sanksi  dalam pelaksanaan  ketentuan  Pasal  9,  Pasal  10,  Pasal  11,  dan  Pasal 12.
+(3) Pengawasan sebagaimana dimaksud pada ayat (1) dan ayat (2) meliputi pengarahan, bimbingan, dan pemberian sanksi dalam pelaksanaan ketentuan Pasal 9, Pasal 10, Pasal 11, dan Pasal 12.
 
 ## BAB IX
 
@@ -330,19 +330,27 @@ LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN  2008  NOMOR  90
 
 [[START OF PAGE 11]]
 
-## UMUM
+# PENJELASAN ATAS PERATURAN PEMERINTAH REPUBLIK INDONESIA NOMOR 47 TAHUN 2008 TENTANG WAJIB BELAJAR
 
-Pasal 34 Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional  menetapkan  bahwa  Pemerintah  dan  pemerintah  daerah  menjamin terselenggaranya  program  wajib  belajar  minimal  pada  jenjang  pendidikan dasar tanpa memungut biaya. Penyelenggaraan program wajib belajar pendidikan dasar merupakan bagian dari kebijakan pendidikan di Indonesia dalam mencapai pendidikan untuk semua ( education for all ). Program wajib belajar diselenggarakan untuk memberikan pelayanan pendidikan  dasar seluas-luasnya  kepada  warga  negara  Indonesia  tanpa membedakan  latar  belakang  agama,  suku,  sosial,  budaya,  dan  ekonomi. Setiap  warga  negara  Indonesia  usia  wajib  belajar  berhak  mendapatkan pelayanan  pendidikan  yang  bermutu  dan  orang  tua/walinya  berkewajiban memberi kesempatan kepada anaknya untuk mendapatkan pendidikan dasar. Program  wajib  belajar  diselenggarakan  pada  satuan  pendidikan  dasar  pada jalur pendidikan formal, nonformal, dan informal dan harus dapat menampung  anak  yang  normal  maupun  yang  berkelainan  dan  mempunyai hambatan.  Peraturan  tentang  program  wajib  belajar  mencakup  hak  dan kewajiban warga negara Indonesia, tanggung jawab Pemerintah dan pemerintah daerah. Penyelenggaraan  program  wajib  belajar  pendidikan  dasar  perlu  dievaluasi pencapaiannya minimal setiap tiga tahun. Sebagai bentuk dari akuntabilitas publik,  masyarakat  berhak  mendapat  data  dan  informasi  tentang  hasil evaluasi penyelenggaraan program wajib belajar tersebut. Program  wajib  belajar  merupakan  gerakan  nasional  yang  dilaksanakan  oleh Pemerintah,  pemerintah  daerah,  dan  masyarakat  di  seluruh  wilayah  Negara Kesatuan Republik Indonesia dan oleh Perwakilan Negara Republik Indonesia di luar negeri.
+## I. UMUM
 
-## PASAL DEMI PASAL
+Pasal 34 Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional menetapkan bahwa Pemerintah dan pemerintah daerah menjamin terselenggaranya program wajib belajar minimal pada jenjang pendidikan dasar tanpa memungut biaya. Penyelenggaraan program wajib belajar pendidikan dasar merupakan bagian dari kebijakan pendidikan di Indonesia dalam mencapai pendidikan untuk semua (education for all).
+
+Program wajib belajar diselenggarakan untuk memberikan pelayanan pendidikan dasar seluas-luasnya kepada warga negara Indonesia tanpa membedakan latar belakang agama, suku, sosial, budaya, dan ekonomi. Setiap warga negara Indonesia usia wajib belajar berhak mendapatkan pelayanan pendidikan yang bermutu dan orang tua/walinya berkewajiban memberi kesempatan kepada anaknya untuk mendapatkan pendidikan dasar.
+
+Program wajib belajar diselenggarakan pada satuan pendidikan dasar pada jalur pendidikan formal, nonformal, dan informal dan harus dapat menampung anak yang normal maupun yang berkelainan dan mempunyai hambatan. Peraturan tentang program wajib belajar mencakup hak dan kewajiban warga negara Indonesia, tanggung jawab Pemerintah dan pemerintah daerah.
+
+Penyelenggaraan program wajib belajar pendidikan dasar perlu dievaluasi pencapaiannya minimal setiap tiga tahun. Sebagai bentuk dari akuntabilitas publik, masyarakat berhak mendapat data dan informasi tentang hasil evaluasi penyelenggaraan program wajib belajar tersebut.
+
+Program wajib belajar merupakan gerakan nasional yang dilaksanakan oleh Pemerintah, pemerintah daerah, dan masyarakat di seluruh wilayah Negara Kesatuan Republik Indonesia dan oleh Perwakilan Negara Republik Indonesia di luar negeri.
+
+## II. PASAL DEMI PASAL
 
 ### Pasal 1
 Cukup jelas.
 
 ### Pasal 2
 Cukup jelas.
-
-# PENJELASAN ATAS PERATURAN PEMERINTAH REPUBLIK INDONESIA NOMOR  47  TAHUN  2008 TENTANG WAJIB  BELAJAR
 
 Pasal 3 . . .
 
@@ -408,27 +416,29 @@ Cukup jelas.
 
 Bentuk pelaksanaan hak masyarakat, antara lain:
 
-- ikut memberikan masukan untuk pelaksanaan program;
+a. ikut memberikan masukan untuk pelaksanaan program;
 
-- mengikut  sertakan  anaknya  yang  berusia  7  sampai  dengan  15 tahun untuk mengikuti program wajib belajar;
+b. mengikut sertakan anaknya yang berusia 7 sampai dengan 15 tahun untuk mengikuti program wajib belajar;
 
-- ikut memantau, mengawasi pelaksanaan wajib belajar, memantau anak  usia  wajib  belajar  yang  belum  mengikuti  wajib  belajar, menyelenggarakan program wajib belajar di sekitar tempat tinggalnya;
+c. ikut memantau, mengawasi pelaksanaan wajib belajar, memantau anak usia wajib belajar yang belum mengikuti wajib belajar, menyelenggarakan program wajib belajar di sekitar tempat tinggalnya;
 
-- ikut  memberi  penilaian  tentang  keterlaksanaan  program  wajib belajar, mendata anak usia wajib belajar, ikut serta dalam proses pembelajaran dan penilaian, serta keberlangsungan program wajib belajar.
+d. ikut memberi penilaian tentang keterlaksanaan program wajib belajar, mendata anak usia wajib belajar, ikut serta dalam proses pembelajaran dan penilaian, serta keberlangsungan program wajib belajar.
 
 #### Ayat (2)
 
 Bentuk pelaksanaan kewajiban masyarakat, antara lain:
 
-- sebagai  orangtua  memberikan  pendidikan  dasar  bagi  anaknya yang sesuai program wajib belajar;
+a. sebagai orangtua memberikan pendidikan dasar bagi anaknya yang sesuai program wajib belajar;
 
-- berperanserta  dalam  bentuk  pemberian  dukungan  sumberdaya (dana, sarana dan prasarana, tenaga, penyelenggaraan, manajemen) menjadi orang tua asuh.
+b. berperanserta dalam bentuk pemberian dukungan sumberdaya (dana, sarana dan prasarana, tenaga, penyelenggaraan, manajemen) menjadi orang tua asuh.
 
 Ayat (3) . . .
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+
+- 4 -
 
 #### Ayat (3)
 Cukup jelas.
@@ -443,8 +453,6 @@ Cukup jelas.
 Cukup jelas.
 
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 4863
-
-- 4  -
 
 [[END OF PAGE 14]]
 
