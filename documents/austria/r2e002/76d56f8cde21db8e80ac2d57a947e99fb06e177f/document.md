@@ -10,21 +10,43 @@ Bundesgesetz über die Schulpflicht (Schulpflichtgesetz 1985)
 
 StF: BGBl. Nr. 76/1985 (WV)
 
+## Änderung
+
+BGBl. Nr. 161/1987 (NR: GP XVII RV 28 AB 81 S. 14. BR: AB 3226 S. 486.)
+BGBl. Nr. 456/1992 (NR: GP XVIII RV 432 AB 609 S. 76. BR: AB 4314 S. 557.)
+BGBl. Nr. 513/1993 (NR: GP XVIII RV 1045 AB 1153 S. 127. BR: AB 4582 S. 573.)
+BGBl. Nr. 969/1994 (VfGH)
+BGBl. Nr. 768/1996 (NR: GP XX RV 418 AB 444 S. 48. BR: AB 5330 S. 619.)
+BGBl. I Nr. 134/1998 (NR: GP XX RV 1279 AB 1294 S. 135. BR: AB 5750 S. 643.)
+BGBl. I Nr. 75/2001 (NR: GP XXI RV 578 AB 608 S. 72. BR: AB 6367 S. 678.)
+BGBl. I Nr. 57/2003 (NR: GP XXII AB 172 S. 27. BR: 6796 AB 6838 S. 700.)
+BGBl. I Nr. 91/2005 (NR: GP XXII RV 975 AB 1044 S. 117. BR: 7335 AB 7358 S. 724.)
+BGBl. I Nr. 20/2006 (NR: GP XXII RV 1166 AB 1195 S. 132. BR: 7438 S. 730.)
+[CELEX-Nr.: 32003L0109, 32004L0038]
+BGBl. I Nr. 113/2006 (NR: GP XXII RV 1410 AB 1549 S. 150. BR: AB 7584 S. 736.)
+BGBl. I Nr. 9/2012 (NR: GP XXIV RV 1617 AB 1628 S. 141. BR: AB 8658 S. 804.)
+BGBl. I Nr. 36/2012 (NR: GP XXIV RV 1631 AB 1683 S. 150. BR: AB 8703 S. 807.)
+BGBl. I Nr. 74/2013 (NR: GP XXIV RV 2199 AB 2286 S. 199. BR: AB 8955 S. 820.)
+BGBl. I Nr. 75/2013 (NR: GP XXIV RV 2212 AB 2287 S. 199. BR: AB 8953 S. 820.)
+BGBl. I Nr. 76/2013 (NR: GP XXIV IA 2206/A AB 2284 S. 199. BR: AB 8951 S. 820.)
+BGBl. I Nr. 77/2013 (NR: GP XXIV RV 2198 AB 2285 S. 199. BR: AB 8952 S. 820.)
+BGBl. I Nr. 48/2014 (NR: GP XXV RV 141 AB 150 S. 30. BR: 9191 AB 9196 S. 831.)
+
 ## Präambel/Promulgationsklausel
 
 ## Inhaltsverzeichnis
 
 (Anm.: wurde nicht im BGBl. kundgemacht)
 
+Art /
+
+Paragraf
+
 Gegenstand / Bezeichnung
 
 ### ABSCHNITT I Allgemeine Schulpflicht
 
 #### A. Personenkreis, Beginn und Dauer
-
-Art /
-
-Paragraf
 
 § 1. Personenkreis
 
@@ -65,6 +87,8 @@ Bundesrecht konsolidiert
 Art /
 
 Paragraf
+
+Gegenstand / Bezeichnung
 
 #### C. Erfüllung der allgemeinen Schulpflicht durch Teilnahme an einem gleichwertigen Unterricht
 
@@ -120,8 +144,6 @@ Paragraf
 
 ## Text
 
-Gegenstand / Bezeichnung
-
 ### ABSCHNITT I Allgemeine Schulpflicht
 
 #### A. Personenkreis, Beginn und Dauer
@@ -130,7 +152,7 @@ Gegenstand / Bezeichnung
 
 § 1. (1)  Für  alle  Kinder,  die  sich  in  Österreich  dauernd  aufhalten,  besteht  allgemeine  Schulpflicht nach Maßgabe dieses Abschnittes.
 
-- Unter  Kindern  im  Sinne  dieses  Bundesgesetzes  sind  Minderjährige  zu  verstehen,  die  nach Maßgabe  dieses  Abschnittes  schulpflichtig  oder  zum  Besuch  einer  allgemeinbildenden  Pflichtschule berechtigt sind.
+(2) Unter Kindern im Sinne dieses Bundesgesetzes sind Minderjährige zu verstehen, die nach Maßgabe dieses Abschnittes schulpflichtig oder zum Besuch einer allgemeinbildenden Pflichtschule berechtigt sind.
 
 ##### Beginn der allgemeinen Schulpflicht
 
@@ -202,7 +224,7 @@ Bundesrecht konsolidiert
 
 (4) Der Schulleiter hat zur Feststellung, ob das Kind die Schulreife gemäß § 6 Abs. 2b aufweist und ob es über die für den Schulbesuch erforderliche soziale Kompetenz verfügt die persönliche Vorstellung des Kindes zu verlangen und ein schulärztliches Gutachten einzuholen. Ferner hat er ein schulpsychologisches Gutachten einzuholen, wenn dies die Eltern oder sonstigen Erziehungsberechtigten des Kindes verlangen oder dies zur Feststellung der Schulreife erforderlich erscheint und die Eltern oder sonstigen Erziehungsberechtigten des Kindes zustimmen.
 
-(5)  Über  das  Ansuchen  um  vorzeitige  Aufnahme  hat  der  Schulleiter  ohne  unnötigen  Aufschub  zu entscheiden. Die Entscheidung ist den Eltern oder sonstigen Erziehungsberechtigten unverzüglich - im Falle der Ablehnung unter Angabe der Gründe und der Belehrung über die Widerspruchsmöglichkeit schriftlich bekanntzugeben. Gegen die Entscheidung ist ein Widerspruch an die zuständige Schulbehörde zulässig.  Der  Widerspruch  ist  schriftlich,  telegraphisch  oder  mittels  Telekopie  innerhalb  von  zwei Wochen bei der Schule einzubringen und hat einen begründeten Widerspruchsantrag zu enthalten.
+(5) Über das Ansuchen um vorzeitige Aufnahme hat der Schulleiter ohne unnötigen Aufschub zu entscheiden. Die Entscheidung ist den Eltern oder sonstigen Erziehungsberechtigten unverzüglich – im Falle der Ablehnung unter Angabe der Gründe und der Belehrung über die Widerspruchsmöglichkeit – schriftlich bekanntzugeben. Gegen die Entscheidung ist ein Widerspruch an die zuständige Schulbehörde zulässig. Der Widerspruch ist schriftlich, telegraphisch oder mittels Telekopie innerhalb von zwei Wochen bei der Schule einzubringen und hat einen begründeten Widerspruchsantrag zu enthalten.
 
 (6) (Anm.: aufgehoben durch BGBl. I Nr. 134/1998)
 
@@ -218,11 +240,11 @@ Bundesrecht konsolidiert
 
 ##### Schulbesuch bei sonderpädagogischem Förderbedarf
 
-§ 8. (1) Der Landesschulrat hat den sonderpädagogischen Förderbedarf für ein Kind auf Antrag der Eltern  oder  sonstigen  Erziehungsberechtigten  des  Kindes,  auf  Antrag  des  Leiters  der  Schule,  dem  das Kind zur  Aufnahme  vorgestellt  worden ist  oder  dessen  Schule  es  besucht  oder  sonst  von  Amts  wegen festzustellen,  sofern  dieses  infolge  physischer  oder  psychischer  Behinderung  dem  Unterricht  in  der Volks- oder Hauptschule, Neuen Mittelschule oder im Polytechnischen Schule ohne sonderpädagogische Förderung nicht zu folgen vermag. Zuständig zur Entscheidung ist der Landesschulrat, in dessen Bereich das  Kind  seinen  Wohnsitz  hat;  wenn  das  Kind  bereits  eine  Schule  besucht,  ist  der  Landesschulrat,  in dessen  Bereich  die  Schule  gelegen  ist,  zuständig.  Der  Landesschulrat  hat  zur  Feststellung,  ob  ein sonderpädagogischer Förderbedarf besteht, ein sonderpädagogisches Gutachten sowie erforderlichenfalls ein schuloder amtsärztliches Gutachten und mit Zustimmung der Eltern oder sonstigen Erziehungsberechtigten des Kindes ein schulpsychologisches Gutachten einzuholen. Ferner können Eltern oder  sonstige  Erziehungsberechtigte  im  Rahmen  des  Verfahrens  Gutachten  von  Personen,  welche  das Kind bisher pädagogisch, therapeutisch oder ärztlich betreut haben, vorlegen. Auf Antrag der Eltern oder sonstigen Erziehungsberechtigten ist eine mündliche Verhandlung anzuberaumen. Der Landesschulrat hat die  Eltern  oder  sonstigen  Erziehungsberechtigten  auf  die  Möglichkeit  der  genannten  Antragstellungen hinzuweisen.
+§ 8. (1) Der Landesschulrat hat den sonderpädagogischen Förderbedarf für ein Kind auf Antrag der Eltern oder sonstigen Erziehungsberechtigten des Kindes, auf Antrag des Leiters der Schule, dem das Kind zur Aufnahme vorgestellt worden ist oder dessen Schule es besucht oder sonst von Amts wegen festzustellen, sofern dieses infolge physischer oder psychischer Behinderung dem Unterricht in der Volks- oder Hauptschule, Neuen Mittelschule oder im Polytechnischen Schule ohne sonderpädagogische Förderung nicht zu folgen vermag. Zuständig zur Entscheidung ist der Landesschulrat, in dessen Bereich das Kind seinen Wohnsitz hat; wenn das Kind bereits eine Schule besucht, ist der Landesschulrat, in dessen Bereich die Schule gelegen ist, zuständig. Der Landesschulrat hat zur Feststellung, ob ein sonderpädagogischer Förderbedarf besteht, ein sonderpädagogisches Gutachten sowie erforderlichenfalls ein schul- oder amtsärztliches Gutachten und mit Zustimmung der Eltern oder sonstigen Erziehungsberechtigten des Kindes ein schulpsychologisches Gutachten einzuholen. Ferner können Eltern oder sonstige Erziehungsberechtigte im Rahmen des Verfahrens Gutachten von Personen, welche das Kind bisher pädagogisch, therapeutisch oder ärztlich betreut haben, vorlegen. Auf Antrag der Eltern oder sonstigen Erziehungsberechtigten ist eine mündliche Verhandlung anzuberaumen. Der Landesschulrat hat die Eltern oder sonstigen Erziehungsberechtigten auf die Möglichkeit der genannten Antragstellungen hinzuweisen.
 
 (2) Im Rahmen der Verfahren gemäß Abs. 1 kann auf Verlangen oder mit Zustimmung der Eltern oder sonstigen Erziehungsberechtigten das Kind, sofern es die Volksschule oder Hauptschule oder Neue Mittelschule noch nicht besucht, für höchstens fünf Monate in die Volksschule oder die Hauptschule oder die  Neue  Mittelschule  oder  eine  Sonderschule  der  beantragten  Art,  sofern  es  die  Volksschule  oder  die Hauptschule  oder die  Neue Mittelschule  bereits  besucht,  in  eine  Sonderschule  der  beantragten  Art  zur Beobachtung aufgenommen werden.
 
-(3) Sobald bei einem Kind auf die sonderpädagogische Förderung verzichtet werden kann, hat der Landesschulrat die Feststellung gemäß Abs. 1 aufzuheben. Für das Verfahren findet Abs. 1 Anwendung. Im  Rahmen  des  Verfahrens  kann  auf  Verlangen  oder  mit  Zustimmung  der  Eltern  oder  sonstigen Erziehungsberechtigten  das  Kind  für  höchstens  fünf  Monate  in  die  Volksschule  oder  die  Hauptschule oder die Neue Mittelschule zur Beobachtung aufgenommen werden.
+(3) Sobald bei einem Kind auf die sonderpädagogische Förderung verzichtet werden kann, hat der Landesschulrat die Feststellung gemäß Abs. 1 aufzuheben. Für das Verfahren findet Abs. 1 Anwendung. Im Rahmen des Verfahrens kann auf Verlangen oder mit Zustimmung der Eltern oder sonstigen
 
 www.ris.bka.gv.at
 
@@ -233,6 +255,8 @@ Seite 4 von 13
 [[START OF PAGE 5]]
 
 Bundesrecht konsolidiert
+
+Erziehungsberechtigten das Kind für höchstens fünf Monate in die Volksschule oder die Hauptschule oder die Neue Mittelschule zur Beobachtung aufgenommen werden.
 
 (3a)  Bei  körperbehinderten  und  sinnesbehinderten  Schülern,  die  in  eine  Sekundarschule  nach Erfüllung der allgemeinen Aufnahmsvoraussetzungen der jeweiligen Schulart aufgenommen werden, ist die Feststellung gemäß Abs. 1 aufzuheben. Dies gilt nicht beim Besuch einer Sonderschule.
 
@@ -254,15 +278,15 @@ Bundesrecht konsolidiert
 
 (3) Als Rechtfertigungsgründe für die Verhinderung gelten insbesondere:
 
-- Erkrankung des Schülers,
+1. Erkrankung des Schülers,
 
-- mit der Gefahr der Übertragung verbundene Erkrankungen von Hausangehörigen des Schülers,
+2. mit der Gefahr der Übertragung verbundene Erkrankungen von Hausangehörigen des Schülers,
 
-- Erkrankung der Eltern oder anderer Angehöriger, wenn sie der Hilfe des Schülers bedürfen,
+3. Erkrankung der Eltern oder anderer Angehöriger, wenn sie der Hilfe des Schülers bedürfen,
 
-- außergewöhnliche  Ereignisse  im  Leben  des  Schülers,  in  der  Familie  oder  im  Hauswesen  des Schülers,
+4. außergewöhnliche Ereignisse im Leben des Schülers, in der Familie oder im Hauswesen des Schülers,
 
-- Ungangbarkeit  des  Schulweges  oder  schlechte  Witterung,  wenn  die  Gesundheit  des  Schülers dadurch gefährdet ist.
+5. Ungangbarkeit des Schulweges oder schlechte Witterung, wenn die Gesundheit des Schülers dadurch gefährdet ist.
 
 (4) Die Verwendung von Schülern zu häuslichen, landwirtschaftlichen, gewerblichen oder sonstigen Arbeiten sowie die Mitnahme von Schülern auf die Wanderschaft durch Personen, die eine Wanderbeschäftigung ausüben, ist nicht als Rechtfertigungsgrund für eine Verhinderung anzusehen.
 
@@ -292,9 +316,9 @@ Bundesrecht konsolidiert
 
 ##### Besuch von Privatschulen ohne Öffentlichkeitsrecht und häuslicher Unterricht
 
-§ 11. (1) Die allgemeine Schulpflicht kann - unbeschadet des § 12 - auch durch die Teilnahme am Unterricht an einer Privatschule ohne Öffentlichkeitsrecht erfüllt werden, sofern der Unterricht jenem an einer im § 5 genannten Schule mindestens gleichwertig ist.
+§ 11. (1) Die allgemeine Schulpflicht kann – unbeschadet des § 12 – auch durch die Teilnahme am Unterricht an einer Privatschule ohne Öffentlichkeitsrecht erfüllt werden, sofern der Unterricht jenem an einer im § 5 genannten Schule mindestens gleichwertig ist.
 
-(2)  Die  allgemeine Schulpflicht  kann  ferner durch die Teilnahme an  häuslichem Unterricht erfüllt werden, sofern der Unterricht jenem an einer im § 5 genannten Schule -ausgenommen  die Polytechnischen Schule - mindestens gleichwertig ist.
+(2) Die allgemeine Schulpflicht kann ferner durch die Teilnahme an häuslichem Unterricht erfüllt werden, sofern der Unterricht jenem an einer im § 5 genannten Schule – ausgenommen die Polytechnischen Schule – mindestens gleichwertig ist.
 
 (3) Die Eltern oder sonstigen Erziehungsberechtigten haben die Teilnahme ihres Kindes an einem im Abs. 1 oder 2 genannten Unterricht dem Landesschulrat jeweils vor Beginn des Schuljahres anzuzeigen. Der Landesschulrat  kann die  Teilnahme an einem  solchen  Unterricht innerhalb eines Monates ab dem Einlangen  der  Anzeige  untersagen,  wenn  mit  großer  Wahrscheinlichkeit  anzunehmen  ist,  daß  die  im Abs. 1 oder 2 geforderte Gleichwertigkeit des Unterrichtes nicht gegeben ist.
 
@@ -302,13 +326,13 @@ Bundesrecht konsolidiert
 
 ##### Besuch von Schulen, die keiner gesetzlich geregelten Schulart entsprechen
 
-§ 12. (1)  Die  allgemeine  Schulpflicht  kann  durch  den  Besuch  von  Schulen,  die  keiner  gesetzlich geregelten Schulart entsprechen, erfüllt werden, wenn
+§ 12. (1) Die allgemeine Schulpflicht kann durch den Besuch von Schulen, die keiner gesetzlich geregelten Schulart entsprechen, erfüllt werden, wenn
 
-- dies in zwischenstaatlichen Vereinbarungen vorgesehen ist, oder
+1. dies in zwischenstaatlichen Vereinbarungen vorgesehen ist, oder
 
-- in dem vom zuständigen Bundesminister erlassenen oder genehmigten Organisationsstatut (§ 14 Abs. 2 lit. b des Privatschulgesetzes, BGBl. Nr. 244/1962, in der jeweils geltenden Fassung) die Schule als zur Erfüllung der Schulpflicht geeignet anerkannt wird und  die Schule  das Öffentlichkeitsrecht besitzt.
+2. in dem vom zuständigen Bundesminister erlassenen oder genehmigten Organisationsstatut (§ 14 Abs. 2 lit. b des Privatschulgesetzes, BGBl. Nr. 244/1962, in der jeweils geltenden Fassung) die Schule als zur Erfüllung der Schulpflicht geeignet anerkannt wird und die Schule das Öffentlichkeitsrecht besitzt.
 
-(2) Der Abschluß solcher zwischenstaatlicher Vereinbarungen beziehungsweise eine solche Anerkennung  darf  nur  erfolgen,  wenn  der  Unterricht  im  wesentlichen  jenem  an  einer  der  im  § 5 genannten  Schulen  gleichkommt.  Soweit  es  sich  um  die  Erfüllung  der  Schulpflicht  durch  Kinder österreichischer  Staatsbürgerschaft  handelt,  ist  die  Erreichung  des  Lehrzieles  einer  entsprechenden österreichischen Schule Voraussetzung.
+(2) Der Abschluß solcher zwischenstaatlicher Vereinbarungen beziehungsweise eine solche Anerkennung darf nur erfolgen, wenn der Unterricht im wesentlichen jenem an einer der im § 5 genannten Schulen gleichkommt. Soweit es sich um die Erfüllung der Schulpflicht durch Kinder
 
 www.ris.bka.gv.at
 
@@ -319,6 +343,8 @@ Seite 6 von 13
 [[START OF PAGE 7]]
 
 Bundesrecht konsolidiert
+
+österreichischer Staatsbürgerschaft handelt, ist die Erreichung des Lehrzieles einer entsprechenden österreichischen Schule Voraussetzung.
 
 ##### Besuch von im Ausland gelegenen Schulen
 
@@ -382,33 +408,33 @@ Bundesrecht konsolidiert
 
 § 20. (1) Berufsschulpflicht besteht nach Maßgabe dieses Abschnittes für
 
-- alle Lehrlinge im Sinne des Berufsausbildungsgesetzes, BGBl. Nr. 142/1969,
+1. alle Lehrlinge im Sinne des Berufsausbildungsgesetzes, BGBl. Nr. 142/1969,
 
-- Personen,  die  in  einem  Lehrberuf  in  einer  überbetrieblichen  integrativen  Berufsausbildung gemäß § 8c des Berufsausbildungsgesetzes hinsichtlich einer Ausbildung gemäß § 8b Abs. 1 des Berufsausbildungsgesetzes ausgebildet werden, und
+2. Personen, die in einem Lehrberuf in einer überbetrieblichen integrativen Berufsausbildung gemäß § 8c des Berufsausbildungsgesetzes hinsichtlich einer Ausbildung gemäß § 8b Abs. 1 des Berufsausbildungsgesetzes ausgebildet werden, und
 
-- Personen,  die  in  einem  Lehrberuf  in  einer  überbetrieblichen  Lehrausbildung  gemäß  § 30  oder § 30b des Berufsausbildungsgesetzes ausgebildet werden.
+3. Personen, die in einem Lehrberuf in einer überbetrieblichen Lehrausbildung gemäß § 30 oder § 30b des Berufsausbildungsgesetzes ausgebildet werden.
 
-- Für
+(2) Für
 
-- Personen in Ausbildungsverhältnissen gemäß § 8b Abs. 2 des Berufsausbildungsgesetzes, und
+1. Personen in Ausbildungsverhältnissen gemäß § 8b Abs. 2 des Berufsausbildungsgesetzes, und
 
-- Personen,  die  in  einem  Lehrberuf  in  einer  überbetrieblichen  integrativen  Berufsausbildung gemäß § 8c des Berufsausbildungsgesetzes hinsichtlich einer Ausbildung gemäß § 8b Abs. 2 des Berufsausbildungsgesetzes ausgebildet werden,
+2. Personen, die in einem Lehrberuf in einer überbetrieblichen integrativen Berufsausbildung gemäß § 8c des Berufsausbildungsgesetzes hinsichtlich einer Ausbildung gemäß § 8b Abs. 2 des Berufsausbildungsgesetzes ausgebildet werden,
 
 besteht nach Maßgabe der Festlegungen des § 8b Abs. 8 und des § 8c Abs. 8 in Verbindung mit § 8b des Berufsausbildungsgesetzes die Pflicht bzw. das Recht zum Besuch der Berufsschule.
 
 ##### Dauer der Berufsschulpflicht bzw. des Berufsschulbesuches
 
-§ 21. (1) Die Berufsschulpflicht beginnt hinsichtlich der von § 20 Abs. 1 umfassten Personen sowie hinsichtlich der von § 20 Abs. 2 umfassten Personen im Falle der Festlegung der Berufsschulpflicht mit dem  Eintritt  in  ein  Lehrverhältnis  oder  in  ein  Ausbildungsverhältnis  und  dauert  bis  zu  dessen  Ende, längstens aber bis zum erfolgreichen Abschluss der letzten lehrplanmäßig vorgesehenen Schulstufe der in Betracht kommenden Berufsschule.
+§ 21. (1) Die Berufsschulpflicht beginnt hinsichtlich der von § 20 Abs. 1 umfassten Personen sowie hinsichtlich der von § 20 Abs. 2 umfassten Personen im Falle der Festlegung der Berufsschulpflicht mit dem Eintritt in ein Lehrverhältnis oder in ein Ausbildungsverhältnis und dauert bis zu dessen Ende, längstens aber bis zum erfolgreichen Abschluss der letzten lehrplanmäßig vorgesehenen Schulstufe der in Betracht kommenden Berufsschule.
 
-- Das  Recht  zum  Besuch  der  Berufsschule  beginnt  hinsichtlich  der  von  § 20  Abs. 2  umfassten Personen  im  Falle  der  Festlegung  des  Rechts  zum  Besuch  der  Berufsschule  mit  dem  Eintritt  in  ein entsprechendes Ausbildungsverhältnis und dauert bis zu dessen Ende, längstens aber bis  zum erfolgreichen Abschluss der letzten lehrplanmäßig vorgesehenen Schulstufe der in Betracht kommenden Berufsschule.
+(2) Das Recht zum Besuch der Berufsschule beginnt hinsichtlich der von § 20 Abs. 2 umfassten Personen im Falle der Festlegung des Rechts zum Besuch der Berufsschule mit dem Eintritt in ein entsprechendes Ausbildungsverhältnis und dauert bis zu dessen Ende, längstens aber bis zum erfolgreichen Abschluss der letzten lehrplanmäßig vorgesehenen Schulstufe der in Betracht kommenden Berufsschule.
 
-- Berufsschüler,  deren  Lehrverhältnis  oder  Ausbildungsverhältnis  während  eines  Schuljahres geendet hat, sind berechtigt, bis zum Ende dieses Schuljahres die Berufsschule zu besuchen, sofern sie nicht  die  letzte  lehrplanmäßig  vorgesehene  Schulstufe  erfolgreich  abgeschlossen  haben.  Ferner  sind Lehrlinge, die die Zurücklegung von mindestens der Hälfte der für den Lehrberuf festgesetzten Lehrzeit nachweisen  und  glaubhaft  machen,  dass  sie  einen  Lehrvertrag  für  die  für  den  Lehrberuf  festgesetzte Dauer  der  Lehrzeit  nicht  abschließen  können,  berechtigt,  die  Berufsschule  während  jener  Zeit  zu besuchen, während der sie bei einem aufrechten Lehrverhältnis zum Berufsschulbesuch verpflichtet oder im Sinne des ersten Satzes berechtigt wären.
+(3) Berufsschüler, deren Lehrverhältnis oder Ausbildungsverhältnis während eines Schuljahres geendet hat, sind berechtigt, bis zum Ende dieses Schuljahres die Berufsschule zu besuchen, sofern sie nicht die letzte lehrplanmäßig vorgesehene Schulstufe erfolgreich abgeschlossen haben. Ferner sind Lehrlinge, die die Zurücklegung von mindestens der Hälfte der für den Lehrberuf festgesetzten Lehrzeit nachweisen und glaubhaft machen, dass sie einen Lehrvertrag für die für den Lehrberuf festgesetzte Dauer der Lehrzeit nicht abschließen können, berechtigt, die Berufsschule während jener Zeit zu besuchen, während der sie bei einem aufrechten Lehrverhältnis zum Berufsschulbesuch verpflichtet oder im Sinne des ersten Satzes berechtigt wären.
 
 ##### Erfüllung der Berufsschulpflicht
 
-§ 22. (1)  Die  Berufsschulpflicht  ist  durch  den  Besuch  einer  dem  Lehrberuf  entsprechenden Berufsschule zu erfüllen.
+§ 22. (1) Die Berufsschulpflicht ist durch den Besuch einer dem Lehrberuf entsprechenden Berufsschule zu erfüllen.
 
-- Unter Berufsschulen im Sinne dieses Abschnittes sind öffentliche oder mit dem Öffentlichkeitsrecht ausgestattete Berufsschulen zu verstehen, soweit nicht ausdrücklich anderes bestimmt ist.
+(2) Unter Berufsschulen im Sinne dieses Abschnittes sind öffentliche oder mit dem Öffentlichkeitsrecht ausgestattete Berufsschulen zu verstehen, soweit nicht ausdrücklich anderes bestimmt ist.
 
 www.ris.bka.gv.at
 
@@ -420,21 +446,21 @@ Seite 8 von 13
 
 Bundesrecht konsolidiert
 
-- Die  Bestimmungen  des  § 9  Abs. 1  bis  6  über  den  Schulbesuch  und  das  Fernbleiben  vom Unterricht  sind  sinngemäß  mit  der  Maßgabe  anzuwenden,  daß  bei  Anwendung  des  § 9  Abs. 6  zur Erteilung  der  Erlaubnis  zum  Fernbleiben  für  einzelne  Stunden  bis  zu  einem  Tag  der  Schulleiter  und darüber hinaus der Landesschulrat zuständig ist.
+(3) Die Bestimmungen des § 9 Abs. 1 bis 6 über den Schulbesuch und das Fernbleiben vom Unterricht sind sinngemäß mit der Maßgabe anzuwenden, daß bei Anwendung des § 9 Abs. 6 zur Erteilung der Erlaubnis zum Fernbleiben für einzelne Stunden bis zu einem Tag der Schulleiter und darüber hinaus der Landesschulrat zuständig ist.
 
-- Die  Berufsschulpflicht  kann  auch  durch  den  Besuch  einer  nicht  mit  dem  Öffentlichkeitsrecht ausgestatteten  Berufsschule  oder  einer  anderen  in-  oder  ausländischen  beruflichen  Bildungseinrichtung erfüllt werden, doch ist in diesem Fall der zureichende Erfolg des Unterrichtes durch eine Prüfung über den Jahreslehrstoff am Ende eines jeden Schuljahres an einer öffentlichen oder mit dem Öffentlichkeitsrecht ausgestatteten Berufsschule nachzuweisen. Der Landesschulrat hat von einer Prüfung abzusehen,  wenn  der  zureichende  Erfolg  durch  die  Vorlage  von  Zeugnissen  einer  nicht  mit  dem Öffentlichkeitsrecht  ausgestatteten  Berufsschule  oder  einer  anderen  in-  oder  ausländischen  beruflichen Bildungseinrichtung  glaubhaft  gemacht  wird.  Wird  ein  solcher  Nachweis  nicht  erbracht,  so  hat  der Landesschulrat  anzuordnen,  daß  der  Berufsschulpflichtige  fernerhin  eine  öffentliche  oder  mit  dem Öffentlichkeitsrecht ausgestattete Berufsschule zu besuchen hat.
+(4) Die Berufsschulpflicht kann auch durch den Besuch einer nicht mit dem Öffentlichkeitsrecht ausgestatteten Berufsschule oder einer anderen in- oder ausländischen beruflichen Bildungseinrichtung erfüllt werden, doch ist in diesem Fall der zureichende Erfolg des Unterrichtes durch eine Prüfung über den Jahreslehrstoff am Ende eines jeden Schuljahres an einer öffentlichen oder mit dem Öffentlichkeitsrecht ausgestatteten Berufsschule nachzuweisen. Der Landesschulrat hat von einer Prüfung abzusehen, wenn der zureichende Erfolg durch die Vorlage von Zeugnissen einer nicht mit dem Öffentlichkeitsrecht ausgestatteten Berufsschule oder einer anderen in- oder ausländischen beruflichen Bildungseinrichtung glaubhaft gemacht wird. Wird ein solcher Nachweis nicht erbracht, so hat der Landesschulrat anzuordnen, daß der Berufsschulpflichtige fernerhin eine öffentliche oder mit dem Öffentlichkeitsrecht ausgestattete Berufsschule zu besuchen hat.
 
 ##### Befreiung vom Besuch der Berufsschule
 
-§ 23. (1) Berufsschulpflichtige sind auf Ansuchen ihrer Eltern oder sonstigen Erziehungsberechtigten, volljährige Berufsschulpflichtige auf eigenes Ansuchen  vom  Besuch  der Berufsschule insoweit zu befreien, als sie einen dem Lehrplan der betreffenden Berufsschule entsprechenden oder gleichwertigen Berufsschulunterricht oder einen mindestens gleichwertigen anderen Unterricht bereits mit Erfolg besucht haben. Die Gleichwertigkeit stellt der Bundesminister für Unterricht und kulturelle angelegenheiten nach Anhören der Landesschulräte (Kollegium) allgemein oder auf Antrag eines  Landesschulrates im Einzelfall fest. Die Feststellung der Gleichwertigkeit hat  gemäß § 11 Abs. 7 des Schulunterrichtsgesetzes, BGBl. Nr. 472/1986 in der jeweils geltenden Fassung, zu erfolgen.
+§ 23. (1) Berufsschulpflichtige sind auf Ansuchen ihrer Eltern oder sonstigen Erziehungsberechtigten, volljährige Berufsschulpflichtige auf eigenes Ansuchen vom Besuch der Berufsschule insoweit zu befreien, als sie einen dem Lehrplan der betreffenden Berufsschule entsprechenden oder gleichwertigen Berufsschulunterricht oder einen mindestens gleichwertigen anderen Unterricht bereits mit Erfolg besucht haben. Die Gleichwertigkeit stellt der Bundesminister für Unterricht und kulturelle angelegenheiten nach Anhören der Landesschulräte (Kollegium) allgemein oder auf Antrag eines Landesschulrates im Einzelfall fest. Die Feststellung der Gleichwertigkeit hat gemäß § 11 Abs. 7 des Schulunterrichtsgesetzes, BGBl. Nr. 472/1986 in der jeweils geltenden Fassung, zu erfolgen.
 
-- Außerdem können Berufsschulpflichtige auf Ansuchen ihrer Eltern oder sonstigen Erziehungsberechtigten,  volljährige  Berufsschulpflichtige  auf  eigenes  Ansuchen  aus  gesundheitlichen, wirtschaftlichen, sozialen oder sonstigen in ihrer Person liegenden Gründen vom Besuch der Berufsschule ganz  oder  teilweise,  mit  oder  ohne  Verpflichtung  zur  Ablegung  von  Prüfungen,  befreit  werden.  Unter wirtschaftlichen Gründen im Sinne dieser Bestimmung sind auch besondere wirtschaftliche Umstände des Betriebes, in dem der Berufsschulpflichtige tätig ist, zu  verstehen,  wobei jedoch die Befreiung nur bei Schülern von ganzjährigen Berufsschulen zulässig ist und im Laufe eines Schuljahres zwei Unterrichtstage  nicht  übersteigen  darf;  in  diesem  Fall  kann  das  Ansuchen  um  Befreiung  auch  vom Lehrberechtigten (Leiter des Ausbildungsbetriebes) gestellt werden.
+(2) Außerdem können Berufsschulpflichtige auf Ansuchen ihrer Eltern oder sonstigen Erziehungsberechtigten, volljährige Berufsschulpflichtige auf eigenes Ansuchen aus gesundheitlichen, wirtschaftlichen, sozialen oder sonstigen in ihrer Person liegenden Gründen vom Besuch der Berufsschule ganz oder teilweise, mit oder ohne Verpflichtung zur Ablegung von Prüfungen, befreit werden. Unter wirtschaftlichen Gründen im Sinne dieser Bestimmung sind auch besondere wirtschaftliche Umstände des Betriebes, in dem der Berufsschulpflichtige tätig ist, zu verstehen, wobei jedoch die Befreiung nur bei Schülern von ganzjährigen Berufsschulen zulässig ist und im Laufe eines Schuljahres zwei Unterrichtstage nicht übersteigen darf; in diesem Fall kann das Ansuchen um Befreiung auch vom Lehrberechtigten (Leiter des Ausbildungsbetriebes) gestellt werden.
 
-(2a) Personen in verkürzten überbetrieblichen Lehrausbildungen im Auftrag des Arbeitsmarktservice gemäß  § 30b  Abs. 5  des  Berufsausbildungsgesetzes  sind  auf  Antrag  vom  Besuch  der  Berufsschule  zu befreien, wenn berufliche oder sonstige in der Person des Berufsschulpflichtigen gelegenen Gründe dem regelmäßigen Besuch der Berufsschule entgegenstehen.
+(2a) Personen in verkürzten überbetrieblichen Lehrausbildungen im Auftrag des Arbeitsmarktservice gemäß § 30b Abs. 5 des Berufsausbildungsgesetzes sind auf Antrag vom Besuch der Berufsschule zu befreien, wenn berufliche oder sonstige in der Person des Berufsschulpflichtigen gelegenen Gründe dem regelmäßigen Besuch der Berufsschule entgegenstehen.
 
-- Ansuchen  um  Befreiung  vom  Besuch  der  Berufsschule  gemäß  Abs. 2  sind  beim  Schulleiter einzubringen. Zuständig zur Entscheidung ist der nach dem Wohnort des Berufsschulpflichtigen, sofern der  Berufsschulpflichtige  jedoch  bereits  eine  Berufsschule  besucht,  der  nach  deren  Standort  örtlich zuständige Landesschulrat oder in dessen Auftrag der Schulleiter.
+(3) Ansuchen um Befreiung vom Besuch der Berufsschule gemäß Abs. 2 sind beim Schulleiter einzubringen. Zuständig zur Entscheidung ist der nach dem Wohnort des Berufsschulpflichtigen, sofern der Berufsschulpflichtige jedoch bereits eine Berufsschule besucht, der nach deren Standort örtlich zuständige Landesschulrat oder in dessen Auftrag der Schulleiter.
 
-- Ansuchen  um  Befreiung  vom  Besuch  der  Berufsschule  gemäß  Abs. 2a  sind  beim  Schulleiter, allenfalls  auch  über  den  Leiter  der  Ausbildungseinrichtung  im  Zuge  der  Meldungspflicht  gemäß  § 24 Abs. 3  erster  Satz,  einzubringen.  Zuständig  zur  Entscheidung  ist  der  Leiter  der  Berufsschule,  dessen Schulsprengel der Schüler angehört.
+(4) Ansuchen um Befreiung vom Besuch der Berufsschule gemäß Abs. 2a sind beim Schulleiter, allenfalls auch über den Leiter der Ausbildungseinrichtung im Zuge der Meldungspflicht gemäß § 24 Abs. 3 erster Satz, einzubringen. Zuständig zur Entscheidung ist der Leiter der Berufsschule, dessen Schulsprengel der Schüler angehört.
 
 ### ABSCHNITT III Gemeinsame Bestimmungen
 
@@ -442,7 +468,7 @@ Bundesrecht konsolidiert
 
 § 24. (1)  Die  Eltern  oder  sonstigen  Erziehungsberechtigten sind  verpflichtet,  für  die  Erfüllung  der Schulpflicht, insbesondere für den regelmäßigen Schulbesuch und die Einhaltung der Schulordnung durch den  Schüler  bzw.  in  den  Fällen  der  §§ 11,  13  und  22  Abs. 4  für  die  Ablegung  der  dort  vorgesehenen Prüfungen zu sorgen. Minderjährige Schulpflichtige treten, sofern sie das 14. Lebensjahr vollendet haben, hinsichtlich dieser Pflichten neben die Eltern oder sonstigen Erziehungsberechtigten. Sofern es sich um volljährige Berufsschulpflichtige handelt, treffen sie diese Pflichten selbst.
 
-- Die Eltern oder sonstigen Erziehungsberechtigten eines der allgemeinen Schulpflicht unterliegenden Kindes sind weiters nach Maßgabe ihrer Leistungsfähigkeit verpflichtet, das Kind für den
+(2) Die Eltern oder sonstigen Erziehungsberechtigten eines der allgemeinen Schulpflicht unterliegenden Kindes sind weiters nach Maßgabe ihrer Leistungsfähigkeit verpflichtet, das Kind für den
 
 www.ris.bka.gv.at
 
@@ -470,11 +496,11 @@ Schulbesuch  in  gehöriger  Weise,  insbesondere  auch  mit  den  notwendigen  
 
 (3)  Wenn  ein  Schüler  fünf  Tage  oder  30  Unterrichtsstunden  im  Semester  oder  drei  aufeinander folgende Tage unentschuldigt dem Unterricht fern bleibt, sind in einem unverzüglich und verpflichtend durchzuführenden Gespräch zwischen den Erziehungsberechtigten, dem Schüler und dem Klassenlehrer oder Klassenvorstand die Gründe für das Fernbleiben zu erörtern (Stufe I). Es sind weitere Schritte zur Vermeidung  von  Schulpflichtverletzungen  schriftlich  zu  vereinbaren  und  die  Erziehungsberechtigten sowie der Schüler über ihre Verantwortung zur Erfüllung der Schulpflicht aufzuklären.
 
-(4)  Innerhalb  von  vier  Wochen  nach  dem  Gespräch  gemäß  Abs. 3  ist  ein  weiteres  Gespräch zwischen den Beteiligten anzuberaumen, in dem die Zielerreichung gemäß der getroffenen Vereinbarung zu erörtern ist. Wird festgestellt, dass die gesetzten Maßnahmen keine oder eine nur schwache Wirkung zeigen, so hat der Schulleiter Schülerberater und den schulpsychologischen Dienst einzubinden und - wo es möglich  ist  -  Beratungslehrer,  Psychagogen,  Schulsozialarbeit  und  Jugendcoaching  ergänzend beizuziehen  (Stufe  II).  Es  sind  Maßnahmen  der  Konfliktlösung  und  der  Vermittlung  zwischen  den Beteiligten zu setzen, die zu einer gemeinsamen Identifizierung der Ursachen der Schulpflichtverletzung führen  sollen.  Auf  der  Basis  der  Problemanalyse  sind  Lösungsansätze  zu  erarbeiten  und  ist  die  gemäß Abs. 3 getroffene  schriftliche Vereinbarung  unter Berücksichtigung der erarbeiteten  Lösungsvorschläge einvernehmlich zu adaptieren.
+(4) Innerhalb von vier Wochen nach dem Gespräch gemäß Abs. 3 ist ein weiteres Gespräch zwischen den Beteiligten anzuberaumen, in dem die Zielerreichung gemäß der getroffenen Vereinbarung zu erörtern ist. Wird festgestellt, dass die gesetzten Maßnahmen keine oder eine nur schwache Wirkung zeigen, so hat der Schulleiter Schülerberater und den schulpsychologischen Dienst einzubinden und – wo es möglich ist – Beratungslehrer, Psychagogen, Schulsozialarbeit und Jugendcoaching ergänzend beizuziehen (Stufe II). Es sind Maßnahmen der Konfliktlösung und der Vermittlung zwischen den Beteiligten zu setzen, die zu einer gemeinsamen Identifizierung der Ursachen der Schulpflichtverletzung führen sollen. Auf der Basis der Problemanalyse sind Lösungsansätze zu erarbeiten und ist die gemäß Abs. 3 getroffene schriftliche Vereinbarung unter Berücksichtigung der erarbeiteten Lösungsvorschläge einvernehmlich zu adaptieren.
 
 (5)  Innerhalb  von  vier  Wochen  nach  der  neuerlichen  Vereinbarung  gemäß  Abs. 4  ist  ein  weiteres Gespräch  zwischen  den  Beteiligten  anzuberaumen,  in  dem  die  Zielerreichung  gemäß  der  getroffenen Vereinbarung  zu  erörtern  ist.  Wird  festgestellt,  dass  die  gesetzten  Maßnahmen  keine  oder  eine  nur schwache Wirkung zeigen, so hat der Schulleiter die Erziehungsberechtigten und den Schüler über die Rechtsfolgen im Falle einer weiteren Schulpflichtverletzung eingehend zu informieren und den zuständigen Beamten des Qualitätsmanagements gemäß § 18 Abs. 2 des Bundes-Schulaufsichtsgesetzes zu  befassen  (Stufe  III).  Dieser  hat  in  einem  weiteren  Gespräch  mit  den  Erziehungsberechtigten,  dem Schüler und dem Klassenlehrer oder Klassenvorstand die Einhaltung der Vereinbarungen gemäß Abs. 3 und 4 zu überprüfen und die weitere Vorgehensweise unter Nutzung der schulischen Beratungssysteme (Abs. 4) zur Beseitigung der Ursachen für die Schulpflichtverletzung festzulegen.
 
-(6) Innerhalb von zwei Wochen nach den gemäß Abs. 5 gesetzten Maßnahmen hat der zuständige Beamte  des  Qualitätsmanagements  ein  weiteres  Gespräch  zwischen  den  Beteiligten  anzuberaumen,  in dem  die  Zielerreichung  gemäß  der  gesetzten  Maßnahmen  zu  erörtern  ist  (Stufe  IV).  Ergibt  sich  im Rahmen der  gesetzten  Maßnahmen  gemäß  Abs. 2  bis  5  der  Verdacht  einer  Kindeswohlgefährdung  im Sinne  des  § 37  des  Jugendwohlfahrtsgesetzes 1989,  BGBl.  Nr. 161,  ist  dem  Jugendwohlfahrtsträger unverzüglich Meldung zu erstatten.
+(6) Innerhalb von zwei Wochen nach den gemäß Abs. 5 gesetzten Maßnahmen hat der zuständige Beamte des Qualitätsmanagements ein weiteres Gespräch zwischen den Beteiligten anzuberaumen, in dem die Zielerreichung gemäß der gesetzten Maßnahmen zu erörtern ist (Stufe IV). Ergibt sich im Rahmen der gesetzten Maßnahmen gemäß Abs. 2 bis 5 der Verdacht einer Kindeswohlgefährdung im
 
 www.ris.bka.gv.at
 
@@ -485,6 +511,8 @@ Seite 10 von 13
 [[START OF PAGE 11]]
 
 Bundesrecht konsolidiert
+
+Sinne des § 37 des Jugendwohlfahrtsgesetzes 1989, BGBl. Nr. 161, ist dem Jugendwohlfahrtsträger unverzüglich Meldung zu erstatten.
 
 (7) Innerhalb von vier Wochen nach dem Gespräch gemäß Abs. 6 hat der Schulleiter allenfalls nach Befassung  der  Jugendwohlfahrt  die  Wirksamkeit  der  gesetzten  Maßnahmen  zu  überprüfen.  Wird festgestellt,  dass  die  in  Abs. 2  bis  Abs. 6  gesetzten  Maßnahmen  keine  oder  eine  zu  geringe  Wirkung zeigen,  so  hat  der  Schulleiter  bei  der  zuständigen  Bezirksverwaltungsbehörde Strafanzeige  gemäß § 24 Abs. 4 zu erstatten (Stufe V).
 
@@ -504,33 +532,33 @@ Bundesrecht konsolidiert
 
 ##### Schlußbestimmungen
 
-§ 29. (1)  Mit  dem  Wirksamwerden dieses Bundesgesetzes treten alle bisherigen Vorschriften über die Schulpflicht außer Kraft, soweit im Abs. 3 nicht anderes bestimmt ist. (BGBl. Nr. 267/1963, Z 8)
+§ 29. (1) Mit dem Wirksamwerden dieses Bundesgesetzes treten alle bisherigen Vorschriften über die Schulpflicht außer Kraft, soweit im Abs. 3 nicht anderes bestimmt ist. (BGBl. Nr. 267/1963, Z 8)
 
-- Insbesondere  treten  im  Sinne  des  Abs. 1  folgende  Vorschriften,  soweit  sie  noch  in  Geltung stehen, außer Kraft:
+(2) Insbesondere treten im Sinne des Abs. 1 folgende Vorschriften, soweit sie noch in Geltung stehen, außer Kraft:
 
-- die §§ 20 bis 25 des Gesetzes vom 14. Mai 1869, RGBl. Nr. 62, in der Fassung des Gesetzes vom 2. Mai  1883,  RGBl.  Nr. 53,  und  des  Bundesgesetzes  vom  10. Juli  1928,  BGBl.  Nr. 188 (Reichsvolksschulgesetz);
+1. die §§ 20 bis 25 des Gesetzes vom 14. Mai 1869, RGBl. Nr. 62, in der Fassung des Gesetzes vom 2. Mai 1883, RGBl. Nr. 53, und des Bundesgesetzes vom 10. Juli 1928, BGBl. Nr. 188 (Reichsvolksschulgesetz);
 
-- die  §§ 20  bis  34,  35  Abs. 2,  36  bis  39,  41,  42,  63,  65  und  66  der  mit  Verordnung  des Ministeriums  für  Kultus  und  Unterricht  vom  29. September  1905,  RGBl.  Nr. 159,  erlassenen Schul- und Unterrichtsordnung für allgemeine Volksschulen und für Bürgerschulen;
+2. die §§ 20 bis 34, 35 Abs. 2, 36 bis 39, 41, 42, 63, 65 und 66 der mit Verordnung des Ministeriums für Kultus und Unterricht vom 29. September 1905, RGBl. Nr. 159, erlassenen Schul- und Unterrichtsordnung für allgemeine Volksschulen und für Bürgerschulen;
 
-- die §§ 19 bis 25 des Burgenländischen Volksschulgesetzes, BGBl. Nr. 136/1936;
+3. die §§ 19 bis 25 des Burgenländischen Volksschulgesetzes, BGBl. Nr. 136/1936;
 
-- die  auf  Grund  des  § 24  des  Reichsvolksschulgesetzes  bzw.  des  § 24  des  Burgenländischen Volksschulgesetzes erlassenen Vorschriften über den Schulbesuch;
+4. die auf Grund des § 24 des Reichsvolksschulgesetzes bzw. des § 24 des Burgenländischen Volksschulgesetzes erlassenen Vorschriften über den Schulbesuch;
 
-- die  Verordnung  zur  Einführung  des  Reichsschulpflichtgesetzes  in  der  Ostmark  vom  25. Juli 1939, dRGBl. I S 1337 (GBlÖ Nr. 982/1939);
+5. die Verordnung zur Einführung des Reichsschulpflichtgesetzes in der Ostmark vom 25. Juli 1939, dRGBl. I S 1337 (GBlÖ Nr. 982/1939);
 
-- das  Gesetz  über  die  Schulpflicht  im  Deutschen  Reich  (Reichsschulpflichtgesetz)  vom  6. Juli 1938,  dRGBl.  I S  799  (GBlÖ  Nr. 982/1939),  in  der  Fassung  des  Gesetzes  zur  Änderung  des Reichsschulpflichtgesetzes vom 16. Mai 1941, dRGBl. I S 282;
+6. das Gesetz über die Schulpflicht im Deutschen Reich (Reichsschulpflichtgesetz) vom 6. Juli 1938, dRGBl. I S 799 (GBlÖ Nr. 982/1939), in der Fassung des Gesetzes zur Änderung des Reichsschulpflichtgesetzes vom 16. Mai 1941, dRGBl. I S 282;
 
-- die  Erste  Verordnung  zur  Durchführung  des  Reichsschulpflichtgesetzes  vom  7. März  1939, dRGBl. I S 438 (GBlÖ Nr. 982/1939), in der Fassung der Zweiten Verordnung zur Durchführung des Reichsschulpflichtgesetzes vom 16. Mai 1941, dRGBl. I S 283;
+7. die Erste Verordnung zur Durchführung des Reichsschulpflichtgesetzes vom 7. März 1939, dRGBl. I S 438 (GBlÖ Nr. 982/1939), in der Fassung der Zweiten Verordnung zur Durchführung des Reichsschulpflichtgesetzes vom 16. Mai 1941, dRGBl. I S 283;
 
-- das Bundesgesetz vom 13. Feber 1952, BGBl. Nr. 44, über den Beginn der Schulpflicht;
+8. das Bundesgesetz vom 13. Feber 1952, BGBl. Nr. 44, über den Beginn der Schulpflicht;
 
-- die  Verordnung  des  Bundesministeriums  für  Unterricht  vom  1. Juli  1952,  BGBl.  Nr. 144,  zur Durchführung  des  Bundesgesetzes  vom  13.  Feber  1952,  BGBl.  Nr. 44,  über  den  Beginn  der Schulpflicht;
+9. die Verordnung des Bundesministeriums für Unterricht vom 1. Juli 1952, BGBl. Nr. 144, zur Durchführung des Bundesgesetzes vom 13. Feber 1952, BGBl. Nr. 44, über den Beginn der Schulpflicht;
 
-- die  Vorschriften  über  die  Berufsschulpflicht  der  gewerblichen  (einschließlich  kaufmännischen) Lehrlinge;
+10. die Vorschriften über die Berufsschulpflicht der gewerblichen (einschließlich kaufmännischen) Lehrlinge;
 
-- das  Bundesgesetz  vom  17. Jänner  1929,  BGBl.  Nr. 74,  über  die  Errichtung  und  Erhaltung hauswirtschaftlicher Fortbildungsschulen in Vorarlberg.
+11. das Bundesgesetz vom 17. Jänner 1929, BGBl. Nr. 74, über die Errichtung und Erhaltung hauswirtschaftlicher Fortbildungsschulen in Vorarlberg.
 
-- Nicht berührt durch dieses Bundesgesetz werden Vorschriften über die Berufs(Fortbildungs)schulpflicht von Personen, die in der Land- oder Forstwirtschaft tätig sind oder in einem land- oder forstwirtschaftlichen Lehr- oder Ausbildungsverhältnis stehen.
+(3) Nicht berührt durch dieses Bundesgesetz werden Vorschriften über die Berufs(Fortbildungs)schulpflicht von Personen, die in der Land- oder Forstwirtschaft tätig sind oder in einem land- oder forstwirtschaftlichen Lehr- oder Ausbildungsverhältnis stehen.
 
 www.ris.bka.gv.at
 
@@ -548,61 +576,61 @@ Die Absätze 1 und 2 dieser Inkrafttretensbestimmung sind gegenstandslos, da es 
 
 § 30. (1) Dieses Bundesgesetz tritt mit Ausnahme des § 3 mit 1. Jänner 1963 in Kraft.
 
-§ 3 tritt mit 1. September 1966 in Kraft.
+(2) § 3 tritt mit 1. September 1966 in Kraft.
 
-(3) Die folgenden Paragraphen in der Fassung des Bundesgesetzes  BGBl. Nr. 456/1992 treten wie folgt in Kraft
+(3) Die folgenden Paragraphen in der Fassung des Bundesgesetzes BGBl. Nr. 456/1992 treten wie folgt in Kraft
 
-§ 12 Abs. 1, § 23 Abs. 1 und 3 und § 31 Abs. 1 und 2 mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt;
+1. § 12 Abs. 1, § 23 Abs. 1 und 3 und § 31 Abs. 1 und 2 mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt;
 
-§ 5 Abs. 4 mit 1. September 1992.
+2. § 5 Abs. 4 mit 1. September 1992.
 
-(4)  Die  nachstehenden  Bestimmungen  dieses  Bundesgesetzes  in  der  Fassung  des  Bundesgesetzes BGBl. Nr. 513/1993 treten wie folgt in Kraft:
+(4) Die nachstehenden Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. Nr. 513/1993 treten wie folgt in Kraft:
 
-§ 8, § 8b, § 14 Abs. 1 und 9a, § 15 und § 28a mit 1. August 1993,
+1. § 8, § 8b, § 14 Abs. 1 und 9a, § 15 und § 28a mit 1. August 1993,
 
-§ 8a für Kinder im ersten Jahr der allgemeinen Schulpflicht mit 1. August 1993, im zweiten Jahr der  allgemeinen  Schulpflicht  mit  1. August  1994,  im  dritten  Jahr  der  allgemeinen  Schulpflicht mit 1. August 1995 und in den weiteren Jahren der allgemeinen Schulpflicht mit 1. August 1996, für Kinder, die im Schuljahr 1992/93  im  ersten Jahr der allgemeinen Schulpflicht die Vorschulstufe  besucht  haben,  jedoch  jeweils  ein  Jahr  früher,  frühestens  jedoch  mit  1. August 1993.
+2. § 8a für Kinder im ersten Jahr der allgemeinen Schulpflicht mit 1. August 1993, im zweiten Jahr der allgemeinen Schulpflicht mit 1. August 1994, im dritten Jahr der allgemeinen Schulpflicht mit 1. August 1995 und in den weiteren Jahren der allgemeinen Schulpflicht mit 1. August 1996, für Kinder, die im Schuljahr 1992/93 im ersten Jahr der allgemeinen Schulpflicht die Vorschulstufe besucht haben, jedoch jeweils ein Jahr früher, frühestens jedoch mit 1. August 1993.
 
 § 15 Abs. 5 und 6 tritt mit Ablauf des 31. Juli 1993 außer Kraft.
 
-(5)  Die  nachstehenden  Bestimmungen  dieses  Bundesgesetzes  in  der  Fassung  des  Bundesgesetzes BGBl. Nr. 768/1996 treten wie folgt in Kraft:
+(5) Die nachstehenden Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. Nr. 768/1996 treten wie folgt in Kraft:
 
-§ 23 Abs. 1 (hinsichtlich der Wendung 'Unterricht und kulturelle Angelegenheiten') und 3 sowie § 31 Abs. 1 und 2 mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt,
+1. § 23 Abs. 1 (hinsichtlich der Wendung „Unterricht und kulturelle Angelegenheiten”) und 3 sowie § 31 Abs. 1 und 2 mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt,
 
-§ 5 Abs. 1 Z 3 lit. a, § 8 Abs. 1, § 10 Abs. 1, § 11 Abs. 2, § 12 samt Überschrift, der Entfall des § 14 Abs. 9a, § 18, § 19 Abs. 2, § 23 Abs. 1 letzter Satz sowie § 28 mit 1. September 1997, und
+2. § 5 Abs. 1 Z 3 lit. a, § 8 Abs. 1, § 10 Abs. 1, § 11 Abs. 2, § 12 samt Überschrift, der Entfall des § 14 Abs. 9a, § 18, § 19 Abs. 2, § 23 Abs. 1 letzter Satz sowie § 28 mit 1. September 1997, und
 
-§ 8 Abs. 3a, § 8a und § 8b mit 1. September 1997 schulstufenweise aufsteigend.
+3. § 8 Abs. 3a, § 8a und § 8b mit 1. September 1997 schulstufenweise aufsteigend.
 
-- Die nachstehend genannten Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 134/1998 treten wie folgt in Kraft:
+(6) Die nachstehend genannten Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 134/1998 treten wie folgt in Kraft:
 
-§ 23 Abs. 3 tritt mit 1. September 1998 in Kraft,
+1. § 23 Abs. 3 tritt mit 1. September 1998 in Kraft,
 
-§ 5 Abs. 4, § 6 Abs. 2a bis 2d, der Entfall des § 7 Abs. 2, 6 und 7, § 7 Abs. 4, 5, 8 und 11, die Überschrift des Abschnittes D  sowie der Entfall des § 14 samt Überschrift treten mit 1. September 1999 in Kraft.
+2. § 5 Abs. 4, § 6 Abs. 2a bis 2d, der Entfall des § 7 Abs. 2, 6 und 7, § 7 Abs. 4, 5, 8 und 11, die Überschrift des Abschnittes D sowie der Entfall des § 14 samt Überschrift treten mit 1. September 1999 in Kraft.
 
 (7) Die nachstehend genannten Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 75/2001 treten wie folgt in Kraft:
 
-§ 12  Abs. 1  Z 2  sowie  § 31  Abs. 1  und  2  treten  mit  Ablauf  des  Tages  der  Kundmachung  im Bundesgesetzblatt in Kraft,
+1. § 12 Abs. 1 Z 2 sowie § 31 Abs. 1 und 2 treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
 
-§ 24 Abs. 4 tritt mit 1. Jänner 2002 in Kraft.
+2. § 24 Abs. 4 tritt mit 1. Jänner 2002 in Kraft.
 
-(8)  § 20  dieses  Bundesgesetzes  in  der  Fassung  des  Bundesgesetzes  BGBl. I  Nr. 57/2003  tritt  wie folgt in Kraft bzw. außer Kraft.
+(8) § 20 dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 57/2003 tritt wie folgt in Kraft bzw. außer Kraft.
 
-§ 20 tritt mit 1. September 2003 in Kraft,
+1. § 20 tritt mit 1. September 2003 in Kraft,
 
-§ 20 Abs. 2 tritt mit Ablauf des 31. Dezember 2008 außer Kraft.
+2. § 20 Abs. 2 tritt mit Ablauf des 31. Dezember 2008 außer Kraft.
 
-- Die nachstehend genannten Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 91/2005 treten wie folgt in bzw. außer Kraft:
+(9) Die nachstehend genannten Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 91/2005 treten wie folgt in bzw. außer Kraft:
 
-§ 13 samt Überschrift sowie § 23 Abs. 3 treten mit 1. September 2005 in Kraft;
+1. § 13 samt Überschrift sowie § 23 Abs. 3 treten mit 1. September 2005 in Kraft;
 
-§ 28a tritt mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt außer Kraft.
+2. § 28a tritt mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt außer Kraft.
 
 (10) Die nachstehenden Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 20/2006 treten wie folgt in Kraft bzw. außer Kraft:
 
-§ 6 Abs. 3 und § 7 Abs. 4 treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
+1. § 6 Abs. 3 und § 7 Abs. 4 treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
 
-§ 5 Abs. 1, § 7 Abs. 1 und 8 sowie § 15 samt Überschrift treten mit 1. September 2006 in Kraft,
+2. § 5 Abs. 1, § 7 Abs. 1 und 8 sowie § 15 samt Überschrift treten mit 1. September 2006 in Kraft,
 
-§ 5 Abs. 3 und 4 tritt mit Ablauf des 31. August 2006 außer Kraft.
+3. § 5 Abs. 3 und 4 tritt mit Ablauf des 31. August 2006 außer Kraft.
 
 www.ris.bka.gv.at
 
@@ -614,37 +642,37 @@ Seite 12 von 13
 
 Bundesrecht konsolidiert
 
-- Die nachstehend genannten  Bestimmungen  dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 113/2006 treten wie folgt in Kraft:
+(11) Die nachstehend genannten Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 113/2006 treten wie folgt in Kraft:
 
-§ 8b tritt mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
+1. § 8b tritt mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
 
-§ 9 Abs. 6 tritt mit 1. Oktober 2007 in Kraft.
+2. § 9 Abs. 6 tritt mit 1. Oktober 2007 in Kraft.
 
-- Die nachstehenden Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 9/2012 treten wie folgt in Kraft:
+(12) Die nachstehenden Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 9/2012 treten wie folgt in Kraft:
 
-§ 8 Abs. 1, § 12 Abs. 1 Z 2, die Überschrift des Unterabschnittes D in Abschnitt I, § 16 Abs. 3, § 18,  § 19  und  § 31  treten  mit  Ablauf  des  Tages  der  Kundmachung  im  Bundesgesetzblatt  in Kraft,
+1. § 8 Abs. 1, § 12 Abs. 1 Z 2, die Überschrift des Unterabschnittes D in Abschnitt I, § 16 Abs. 3, § 18, § 19 und § 31 treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
 
-§ 8a Abs. 1 bis 3 und § 8b treten mit 1. September 2012 in Kraft.
+2. § 8a Abs. 1 bis 3 und § 8b treten mit 1. September 2012 in Kraft.
 
-(13)  § 5  Abs. 2,  § 8  Abs. 1,  2  und  3,  § 8a,  § 8b,  § 18  samt  Überschrift  und  § 19  samt  Überschrift dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 36/2012 treten mit 2. September 2012 in Kraft.
+(13) § 5 Abs. 2, § 8 Abs. 1, 2 und 3, § 8a, § 8b, § 18 samt Überschrift und § 19 samt Überschrift dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 36/2012 treten mit 2. September 2012 in Kraft.
 
-(14)  Die  Überschrift  des  Abschnitt  II,  § 20  samt  Überschrift,  § 21  samt  Überschrift,  § 22  Abs. 4, § 23 Abs. 2a und 4 sowie § 24 Abs. 3 in der Fassung des Bundesgesetzes BGBl. I Nr. 74/2013 treten mit 1. September 2013 in Kraft.
+(14) Die Überschrift des Abschnitt II, § 20 samt Überschrift, § 21 samt Überschrift, § 22 Abs. 4, § 23 Abs. 2a und 4 sowie § 24 Abs. 3 in der Fassung des Bundesgesetzes BGBl. I Nr. 74/2013 treten mit 1. September 2013 in Kraft.
 
-(15) § 6 Abs. 2c, § 7 Abs. 5, § 9 Abs. 6 und § 24b  samt Überschrift in der Fassung  des Bundesgesetzes BGBl. I Nr. 75/2013 treten mit 1. Jänner 2014 in Kraft. Gleichzeitig treten § 6 Abs. 2c letzter Satz, § 7 Abs. 5 letzter Satz, § 8 Abs. 4, § 10 Abs. 2 zweiter Satz, § 10 Abs. 3 zweiter Satz, § 11 Abs. 3 letzter Satz, § 11 Abs. 4 letzter Satz, § 13 Abs. 4, § 22 Abs. 4 letzter Satz und § 23 Abs. 3 letzter Satz außer Kraft.
+(15) § 6 Abs. 2c, § 7 Abs. 5, § 9 Abs. 6 und § 24b samt Überschrift in der Fassung des Bundesgesetzes BGBl. I Nr. 75/2013 treten mit 1. Jänner 2014 in Kraft. Gleichzeitig treten § 6 Abs. 2c letzter Satz, § 7 Abs. 5 letzter Satz, § 8 Abs. 4, § 10 Abs. 2 zweiter Satz, § 10 Abs. 3 zweiter Satz, § 11 Abs. 3 letzter Satz, § 11 Abs. 4 letzter Satz, § 13 Abs. 4, § 22 Abs. 4 letzter Satz und § 23 Abs. 3 letzter Satz außer Kraft.
 
-§ 18  samt  Überschrift  in  der  Fassung  des  Bundesgesetzes  BGBl. I  Nr. 76/2013  tritt  mit 1. Juni 2013 in Kraft. Gleichzeitig tritt § 19 samt Überschrift außer Kraft.
+(16) § 18 samt Überschrift in der Fassung des Bundesgesetzes BGBl. I Nr. 76/2013 tritt mit 1. Juni 2013 in Kraft. Gleichzeitig tritt § 19 samt Überschrift außer Kraft.
 
-(17)  Die  nachstehend  genannten  Bestimmungen  in  der  Fassung  des  Bundesgesetzes  BGBl. I Nr. 77/2013 treten wie folgt in Kraft:
+(17) Die nachstehend genannten Bestimmungen in der Fassung des Bundesgesetzes BGBl. I Nr. 77/2013 treten wie folgt in Kraft:
 
-§ 8a Abs. 2 und 3 sowie § 8b treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft.
+1. § 8a Abs. 2 und 3 sowie § 8b treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft.
 
-§ 24 Abs. 4, § 24a samt Überschrift und § 24b treten mit 1. September 2013 in Kraft.
+2. § 24 Abs. 4, § 24a samt Überschrift und § 24b treten mit 1. September 2013 in Kraft.
 
-- Die  nachstehend  genannten  Bestimmungen  in  der  Fassung  des  Bundesgesetzes  BGBl. I Nr. 48/2014 treten wie folgt in Kraft:
+(18) Die nachstehend genannten Bestimmungen in der Fassung des Bundesgesetzes BGBl. I Nr. 48/2014 treten wie folgt in Kraft:
 
-§ 6 Abs. 2c, § 24 Abs. 4, §§ 25 bis 27, § 30 Abs. 16 und 17 sowie § 31 Abs. 1 und 2 treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
+1. § 6 Abs. 2c, § 24 Abs. 4, §§ 25 bis 27, § 30 Abs. 16 und 17 sowie § 31 Abs. 1 und 2 treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
 
-§ 8  Abs. 1  und  3,  § 8a  Abs. 2  und  3,  § 9  Abs. 6,  § 10  Abs. 2  und  3,  § 11  Abs. 3  und  4,  § 13 Abs. 1, 2 und 3, § 15 Abs. 2 sowie § 16 Abs. 3 treten mit 1. August 2014 in Kraft.
+2. § 8 Abs. 1 und 3, § 8a Abs. 2 und 3, § 9 Abs. 6, § 10 Abs. 2 und 3, § 11 Abs. 3 und 4, § 13 Abs. 1, 2 und 3, § 15 Abs. 2 sowie § 16 Abs. 3 treten mit 1. August 2014 in Kraft.
 
 § 31. (1)  Soweit Verordnungen auf Grund dieses Bundesgesetzes vom Bundesminister für  Bildung und  Frauen  erlassen  werden,  hat  er  vorher  die  Landesschulräte  anzuhören.  Bei  der  Erlassung  von Verordnungen betreffend die Berufsschulpflicht und den Besuch der Berufsschule hat er im Einvernehmen mit dem Bundesminister für Wissenschaft, Forschung und Wirtschaft vorzugehen.
 
