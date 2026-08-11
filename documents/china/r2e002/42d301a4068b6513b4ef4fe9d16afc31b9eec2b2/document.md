@@ -3,6 +3,8 @@
 1/31/2020
 
 Education Law of the People's Republic of China - Ministry of Education of the People's Republic of China
+MINISTRY OF EDUCATION
+THE PEOPLE'S REPUBLIC OF CHINA
 
 SEARCH
 
@@ -29,7 +31,7 @@ With a view to developing educational undertakings, improving the quality of the
 The present Law shall be applicable to all kinds of education at all levels within the territory of the People's Republic of China.
 
 ### Article 3
-In developing the socialist educational undertakings, the state shall uphold Marxism-Leninism, Mao Zedong Thought and the theories of constructing socialism with Chinese characteristics as directives and comply with the basic principles of the Constitution.
+In developing the socialist educational undertakings, the state shall uphold Marxism-Leninism, Mao Zedong Thought and the theories of
 
 en.moe.gov.cn/documents/laws_policies/201506/t20150626_191385.html
 
@@ -42,6 +44,7 @@ en.moe.gov.cn/documents/laws_policies/201506/t20150626_191385.html
 1/31/2020
 
 Education Law of the People's Republic of China - Ministry of Education of the People's Republic of China
+constructing socialism with Chinese characteristics as directives and comply with the basic principles of the Constitution.
 
 ### Article 4
 With education being the foundation for construction of socialist modernization, the state shall give priority to the development of educational undertakings.
@@ -99,7 +102,7 @@ The Chinese language, both oral and written, shall be the basic oral and written
 Schools and other educational institutions shall in their educational activities popularize the nationally common spoken Chinese and the standard written characters.
 
 ### Article 13
-The state shall offer awards to those organizations and individuals who have made distinguished contributions to the development of educational undertakings.
+The state shall offer awards to those organizations and individuals who have made distinguished contributions to the development of educational
 
 en.moe.gov.cn/documents/laws_policies/201506/t20150626_191385.html
 
@@ -112,6 +115,7 @@ en.moe.gov.cn/documents/laws_policies/201506/t20150626_191385.html
 1/31/2020
 
 Education Law of the People's Republic of China - Ministry of Education of the People's Republic of China
+undertakings.
 
 ### Article 14
 The State Council and all local People's government at different levels shall supervise and manage the educational work according to the principle of management by different levels and division of labour with individual responsibility.
@@ -203,7 +207,7 @@ The state shall adopt educational inspection system and educational assessment s
 ### Article 25
 The state shall formulate plans for educational development and institute schools and other educational institutions.
 
-The state shall encourage enterprises, institutions, mass associations, other social organizations and private citizens to establish schools and other educational institutions according to the law.
+The state shall encourage enterprises, institutions, mass associations, other social organizations and private citizens to establish schools and other
 
 en.moe.gov.cn/documents/laws_policies/201506/t20150626_191385.html
 
@@ -216,6 +220,7 @@ en.moe.gov.cn/documents/laws_policies/201506/t20150626_191385.html
 1/31/2020
 
 Education Law of the People's Republic of China - Ministry of Education of the People's Republic of China
+educational institutions according to the law.
 
 Any organization or individual may not establish schools or other educational institutions for the purpose of making profit.
 
@@ -427,7 +432,7 @@ The state shall encourage enterprises, institutions, public organizations and ot
 Enterprises, institutions, public organizations and other social organizations and individuals may support the construction of schools and participate in management through proper forms.
 
 ### Article 47
-State organs, the army, enterprises, institutions and other social organizations shall render assistance and convenience for student's internships and social practice arranged by schools.
+State organs, the army, enterprises, institutions and other social organizations shall render assistance and convenience for student's internships
 
 en.moe.gov.cn/documents/laws_policies/201506/t20150626_191385.html
 
@@ -440,6 +445,7 @@ en.moe.gov.cn/documents/laws_policies/201506/t20150626_191385.html
 1/31/2020
 
 Education Law of the People's Republic of China - Ministry of Education of the People's Republic of China
+and social practice arranged by schools.
 
 ### Article 48
 Schools and other educational institutions shall take an active part in local public welfare activities under the precondition that normal educational and teaching/learning activities are not affected.
@@ -489,7 +495,7 @@ The proportion of educational appropriations in gross national products allocate
 ### Article 55
 The educational appropriations of the people's governments at various levels shall be listed separately in their fiscal budgets in accordance with the principle of their unified authority over the administrative affairs and the financial affairs.
 
-The people's governments at various levels shall see to it that their appropriations for education shall increase at a faster rate than their regular revenues, that the average expenditure on per enrolled student shall increase steadily and that the teachers' salaries and the average public expenditure per student shall increase steadily.
+The people's governments at various levels shall see to it that their appropriations for education shall increase at a faster rate than their regular revenues, that the average expenditure on per enrolled student shall increase
 
 en.moe.gov.cn/documents/laws_policies/201506/t20150626_191385.html
 
@@ -502,6 +508,7 @@ en.moe.gov.cn/documents/laws_policies/201506/t20150626_191385.html
 1/31/2020
 
 Education Law of the People's Republic of China - Ministry of Education of the People's Republic of China
+steadily and that the teachers' salaries and the average public expenditure per student shall increase steadily.
 
 ### Article 56
 The State Council and the local people's governments at the county level or above shall establish specific funds for education to be used mainly for assisting outlying and poverty-stricken areas and areas inhabited by minority ethnic groups in enforcing compulsory education there..
@@ -547,7 +554,7 @@ The people's governments at various levels and their administrative departments 
 Local people's governments at various levels and their relevant administrative departments shall incorporate capital construction for schools into rural and urban construction plans, make overall arrangements for the land and materials needed for capital construction for schools, and give priority to and adopt preferential policies towards such capital construction in accordance with related regulations set by the State.
 
 ### Article 65
-The people's governments at various levels shall, in accordance with the relevant regulations set by the State, give priority and adopt preferential policies with regard to publication and distribution of textbooks and other printed materials for the purpose of teaching and learning, the production and supply of teaching and learning instruments and equipment, and the import of books and other printed materials, teaching and learning instruments and equipment for education and  scientific research.
+The people's governments at various levels shall, in accordance with the relevant regulations set by the State, give priority and adopt preferential policies with regard to publication and distribution of textbooks and other printed materials for the purpose of teaching and learning, the production and
 
 en.moe.gov.cn/documents/laws_policies/201506/t20150626_191385.html
 
@@ -560,6 +567,7 @@ en.moe.gov.cn/documents/laws_policies/201506/t20150626_191385.html
 1/31/2020
 
 Education Law of the People's Republic of China - Ministry of Education of the People's Republic of China
+supply of teaching and learning instruments and equipment, and the import of books and other printed materials, teaching and learning instruments and equipment for education and scientific research.
 
 ### Article 66
 The people's government at the county level or above shall develop education via satellite television and other modern means for teaching and learning, and the administrative departments concerned shall give such development priority and support.
@@ -580,7 +588,7 @@ To go abroad for study, research, academic exchange or  teaching purposes by Chi
 Individuals outside the territory of China, who meet the requirements of the State and complete the relevant formalities, may enter China to study, do research, engage in academic exchange, or teach in schools or other institutions of education. Their lawful rights and interests shall be protected by the State.
 
 ### Article 70
-Recognition of the academic degree certificates, educational qualification certificates and other types of education certificates issued by institutions of education outside the territory of China shall be governed by the international treaties to which China is a signatory party or has acceded, or the relevant regulations of the State.
+Recognition of the academic degree certificates, educational qualification certificates and other types of education certificates issued by institutions of education outside the territory of China shall be governed by the
 
 en.moe.gov.cn/documents/laws_policies/201506/t20150626_191385.html
 
@@ -593,6 +601,7 @@ en.moe.gov.cn/documents/laws_policies/201506/t20150626_191385.html
 1/31/2020
 
 Education Law of the People's Republic of China - Ministry of Education of the People's Republic of China
+international treaties to which China is a signatory party or has acceded, or the relevant regulations of the State.
 
 ## Chapter IX Legal Responsibility
 
@@ -607,7 +616,7 @@ If anyone engages in gang-fighting or stirs up quarrels, thus disturbing the edu
 If anyone who illegally occupies school buildings, sites or other property, he shall bear civil liabilities according to the law.
 
 ### Article 73
-If anyone knowingly fails to take measures with regard to the school buildings or educational or teaching facilities that are dangerous, thus causing human casualties or heavy losses of property, the leading persons directly in charge and other persons directly responsible for it shall be investigated for criminal responsibility according to the law.
+If anyone knowingly fails to take measures with regard to the school buildings or educational or teaching facilities that are dangerous, thus causing human casualties or heavy losses of property, the leading persons directly in
 
 en.moe.gov.cn/documents/laws_policies/201506/t20150626_191385.html
 
@@ -620,6 +629,7 @@ en.moe.gov.cn/documents/laws_policies/201506/t20150626_191385.html
 1/31/2020
 
 Education Law of the People's Republic of China - Ministry of Education of the People's Republic of China
+charge and other persons directly responsible for it shall be investigated for criminal responsibility according to the law.
 
 ### Article 74
 If anyone, in violation of the relevant regulations of the State, collects fees from a school or any other institution of education, he shall be ordered by the government concerned to return the fees thus collected; the leading persons directly in charge and other persons directly responsible for it shall be given administrative sanctions according to the law.
@@ -634,7 +644,7 @@ If anyone, in violation of the relevant regulations of the State, enrols student
 If anyone practices favouritism or other irregularities in enrolling students or other trainees, he shall be ordered by the relevant administrative department of education to dismiss the students or trainees; the leading persons directly in charge and other persons directly responsible for it shall be given administrative sanctions according to the law; if the case constitutes a crime, the offender shall be investigated for criminal responsibility according to the law.
 
 ### Article 78
-Where schools or other institutions of education, in violation of the relevant regulations of the State, collect fees from educatees, such schools or institutions shall be ordered by the relevant administrative department of education to return the fees thus collected; the leading persons directly in charge and other persons directly responsible for it shall be given administrative sanctions according to the law.
+Where schools or other institutions of education, in violation of the relevant regulations of the State, collect fees from educatees, such schools or institutions shall be ordered by the relevant administrative department of education to return the fees thus collected; the leading persons directly in charge
 
 en.moe.gov.cn/documents/laws_policies/201506/t20150626_191385.html
 
@@ -647,6 +657,7 @@ en.moe.gov.cn/documents/laws_policies/201506/t20150626_191385.html
 1/31/2020
 
 Education Law of the People's Republic of China - Ministry of Education of the People's Republic of China
+and other persons directly responsible for it shall be given administrative sanctions according to the law.
 
 ### Article 79
 If cheating on a national education examination is found, the relevant administrative department of education shall nullify the examination, and shall, in accordance with the law, impose administrative sanctions on the leading persons directly in charge and other persons directly responsible for it.
@@ -684,23 +695,11 @@ Measures governing the establishment of schools within the territory of China by
 ### Article 84
 This Law shall go into effect as of September 1, 1995.
 
-Documents
+
 
-Laws and Policies
+
 
-Reports
-
-Statistics
-
-Services
-
-Learning Chinese
-
-Study in China
-
-Scholarships
-
-Directories
+Links
 
 About MOE
 
@@ -741,12 +740,6 @@ Study in China
 Scholarships
 
 Directories
-
-
-
-
-
-Links
 
 Statement
 
