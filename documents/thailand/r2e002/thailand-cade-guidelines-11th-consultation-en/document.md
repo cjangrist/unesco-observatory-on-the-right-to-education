@@ -12,7 +12,7 @@
 
 ## 1. Introduction
 
-The Convention against Discrimination in Education ('the Convention') and the Recommendation against  Discrimination  in  Education  ('the  Recommendation'),  adopted  by  UNESCO's  General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'ad vance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
+The Convention against Discrimination in Education (“the Convention”) and the Recommendation against Discrimination in Education (“the Recommendation”), adopted by UNESCO’s General Conference in 1960, are aligned with UNESCO’s constitutional mandate to “advance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social”. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
 
 The right to education is one of the key principles underpinning the Education 2030 agenda and Sustainable Development Goal 4 (SDG4) adopted by the international community in 2015. SDG 4 seeks to ensure the full enjoyment of the right to education as fundamental to achieving sustainable development. Its scope captures the multidimensional nature of the right to education.
 
@@ -26,11 +26,13 @@ Considering the Education 2030 agenda, the monitoring of the Convention and the 
 
 As the scope and content of the legal obligations under the right to education are aligned with the 10  targets  of  SDG 4,  efforts  are  being  made  to  ensure  that  the  components  of  the  targets  are included in the guidelines and that these guidelines serve as a valuable contribution to monitoring progress towards SDG 4 targets.
 
-Beyond SDG 4, the Convention is also closely aligned with the normative content on the right to education of other international human rights instruments such as the International Covenant on Economic,  Social  and  Cultural  Rights  (1966),  Convention  on  the  Elimination  of  All  Forms  of Discrimination against Women (1979), the Convention on the Rights of the Child (1989) and the Convention on the Rights of Persons with Disabilities (2006).
+Beyond SDG 4, the Convention is also closely aligned with the normative content on the right to education of other international human rights instruments such as the International Covenant on Economic, Social and Cultural Rights (1966), Convention on the Elimination of All Forms of
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+Discrimination against Women (1979), the Convention on the Rights of the Child (1989) and the Convention on the Rights of Persons with Disabilities (2006).
 
 In  addition,  this  Consultation  is  an  opportunity  to  inform  the  ongoing UNESCO Initiative on the Evolving  Right  to  Education  within  a  lifelong  learning  perspective 1  (launched  in  December 2021). The Initiative investigates how the right to education could be reinforced placing it within a lifelong  learning  perspective  and  in  light  of  the  new  demands  being  placed  on  education.  This Initiative builds on the Report from the International Commission on the Futures of Education 2 , which suggests to broaden our understanding of the right to education to clearly apply it to all ages and across all times and spaces. The initiative is also in-line with the Vision Statement of the United Nations  Secretary  General  on  Transforming  Education 3 ,  and  the Report  on  the  2022 Transforming  Education  Summit 4 which  call  for  the  transformation  of  education  systems  to 'include everyone, regardless of circumstance, context or background'. The Initiative on the Evolving Right to Education aims to open a collaborative and participatory discussion about the international framework to ensure the effective enforcement of the right to education and learning throughout life for all. Finally, the Initiative builds on recent inter-governmental dialogues, including the Marrakech Framework for Action for  Adult  Learning  and  Education 5  and  the  Tashkent  Declaration  on  Early Childood Care and Education. 6
 
@@ -42,7 +44,7 @@ There are differences in the legal nature of the obligations under the Conventio
 
 Bearing in mind the differences in legal scope inherent to the nature of these two categories of instruments,  the  content  of  the  Recommendation  is  identical  to  that  of  the  Convention.  Member States are expected to give effect to it in national legislation and education policies.
 
-The  reporting  obligation  under  the  provisions  of  Article  VII  of  the  Convention  and  of  the Recommendation is the same. Article VIII of UNESCO's Constitution states that ' Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General  Conference,  reports  on  the  laws,  regulations  and  statistics  relating  to  its  educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to i n Article IV, paragraph 4' . Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
+The reporting obligation under the provisions of Article VII of the Convention and of the Recommendation is the same. Article VIII of UNESCO’s Constitution states that “Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General Conference, reports on the laws, regulations and statistics relating to its educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4”. Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
 
 > 1 https://www.unesco.org/en/right-education/evolving
 
@@ -96,9 +98,9 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 4]]
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States. Please note that multiple answers may be provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States. Please note that multiple answers may be provided where relevant.
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 [[END OF PAGE 4]]
 
@@ -114,7 +116,7 @@ Name of contact person: Mr. Thanapon Khanthawichai
 
 Email and telephone number of contact person: thanapon@sueksa.go.th tel.: (+66)63 549 8995
 
-## Ratification and applicability of the Convention against Discrimination in Education 10
+## I. Ratification and applicability of the Convention against Discrimination in Education 10
 
 - Is your country a State Party to the Convention?
 
@@ -166,21 +168,15 @@ https://www.unesco.org/en/legal-affairs/convention-against-discrimination-educat
 
 Information could also be given about the judicial, administrative and other competent authorities having jurisdiction with respect to the right to education.
 
-- Constitutional Court
+1. Constitutional Court
+2. Administrative Court
+3. Court of Justice (Criminal and Civil Jurisdiction)
+4. Juvenile and Family Court
+5. Department of Children and Youth, Ministry of Justices
+6. Administrative Authorities for instance the Ministry of Education, the Ministry of Higher Education, Science Research and Innovation, the Ministry of Defense, the Ministry of Interior, etc.
+7. The National Human Rights Commission of Thailand (NHRCT)
 
-- Administrative Court
-
-- Court of Justice (Criminal and Civil Jurisdiction)
-
-- Juvenile and Family Court
-
-- Department of Children and Youth, Ministry of Justices
-
-- Administrative Authorities for instance the Ministry of Education, the Ministry of Higher Education, Science Research and Innovation, the Ministry of Defense, the Ministry of Interior, etc.
-
-- The National Human Rights Commission of Thailand (NHRCT)
-
-## Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the  context  of Sustainable Development Goal 4 (SDG4)
+## II. Information on the implementation of the Convention or Recommendation in the context of Sustainable Development Goal 4 (SDG4)
 
 ### 1. Towards an inclusive non-discriminatory education system
 
@@ -208,21 +204,21 @@ Thailand has established several laws and policy frameworks related to education
 
 Key laws and policies related to education in Thailand include:
 
-- The  National  Education  Act  (1999,  amended  in  2002) :  This  foundational  law  sets  the framework  for  Thailand's  educational  system,  emphasizing  equal  access  to  quality education, lifelong learning, and decentralized administration. It mandates nine years of compulsory education and promotes the development of learners' skills, knowledge, and ethics.
+1. The National Education Act (1999, amended in 2002): This foundational law sets the framework for Thailand’s educational system, emphasizing equal access to quality education, lifelong learning, and decentralized administration. It mandates nine years of compulsory education and promotes the development of learners' skills, knowledge, and ethics.
 
-- The Constitution of Thailand (2017) :  The current constitution guarantees the right to free education for 12 years, ensuring equal opportunities for all citizens, regardless of their  economic  or  social  background,  including  specific  provisions  for  marginalized groups like indigenous peoples and ethnic minorities.
+2. The Constitution of Thailand (2017): The current constitution guarantees the right to free education for 12 years, ensuring equal opportunities for all citizens, regardless of their economic or social background, including specific provisions for marginalized groups like indigenous peoples and ethnic minorities.
 
-- The 20-Year  National  Strategy  (2018-2037) aims  to  ensure  Thailand's  stability  and sustainability, with a focus on protecting rights and freedoms. Key provisions include:
+3. The 20-Year National Strategy (2018-2037) aims to ensure Thailand's stability and sustainability, with a focus on protecting rights and freedoms. Key provisions include:
 
-Strategy 4: Creating Opportunities and Social Equity -Focuses on reducing inequality and  providing  equal  access  to  education,  healthcare,  and  services  for  marginalized groups.
+Strategy 4: Creating Opportunities and Social Equity – Focuses on reducing inequality and providing equal access to education, healthcare, and services for marginalized groups.
 
-Strategy  6:  Re-balancing  and  Developing  the  Government  Administration  System -Aims to improve governance and efficiency, including reforms in the education system to enhance access and accountability across all regions.
+Strategy 6: Re-balancing and Developing the Government Administration System – Aims to improve governance and efficiency, including reforms in the education system to enhance access and accountability across all regions.
 
-- The 13th National Economic and Social Development Plan (2023-2027) emphasizes the development of a quality, inclusive, and equitable education system. Its goal is to ensure that Thailand's education can adapt to global changes and meet future societal needs. The plan focuses on improving educational outcomes for all, reducing disparities, and preparing students with the skills needed to thrive in a rapidly changing world.
+4. The 13th National Economic and Social Development Plan (2023-2027) emphasizes the development of a quality, inclusive, and equitable education system. Its goal is to ensure that Thailand's education can adapt to global changes and meet future societal needs. The plan focuses on improving educational outcomes for all, reducing disparities, and preparing students with the skills needed to thrive in a rapidly changing world.
 
-- The Basic Education Core Curriculum (2008) :  This  policy  sets  the  standards  for  basic education in Thailand, focusing on developing essential knowledge, skills, and attitudes to  prepare  students  for  life,  work,  and  further  study.  It  emphasizes  critical  thinking, problem-solving, and adaptability in a rapidly changing world.
+5. The Basic Education Core Curriculum (2008): This policy sets the standards for basic education in Thailand, focusing on developing essential knowledge, skills, and attitudes to prepare students for life, work, and further study. It emphasizes critical thinking, problem-solving, and adaptability in a rapidly changing world.
 
-- The Equitable Education Fund (2018) : Established to reduce educational inequality, this fund  provides  financial  support  to  underprivileged  students,  focusing  on  closing  the education  gap  between  urban  and  rural  areas  and  ensuring  that  students  from disadvantaged backgrounds have access to quality education.
+6. The Equitable Education Fund (2018): Established to reduce educational inequality, this fund provides financial support to underprivileged students, focusing on closing the education gap between urban and rural areas and ensuring that students from disadvantaged backgrounds have access to quality education.
 
 These  laws  and  policies  collectively  shape  Thailand's  education  system,  aiming  to  promote equitable access, quality improvement, and lifelong learning for all segments of society.
 
@@ -252,17 +248,16 @@ For reference: This notably is covered under SDG target 4.1 and partly target 4.
 
 - Please indicate the relevant legal provisions:
 
-1. The Constitution of the Kingdom of Thailand (B.E. 2560 (2017)) guarantees the right to education for all citizens. Section 53 ensures free and compulsory education for at least 12 years (primary and secondary). Section 57 mandates the state to promote high-quality, equitable education for all, aiming to improve the quality of life and foster social development. 2. The National Education Act of B.E. 2542 (1999) expanded compulsory education
----
-in Thailand from 6 years to 9 years , ensuring that all children receive 12 years of basic education free of charge. This reform provides children with the opportunity to continue their education at higher levels or to enter the workforce, promoting equal access to education for all.
-3. The National Education Plan 2017-2036 envisions "All Thais receiving high-quality education and lifelong learning, living happily, in alignment with the philosophy of sufficiency economy and the changes of the 21st century." The plan aligns with Sustainable Development Goals (SDGs) and domestic contexts such as improving education quality across all age groups, demographic changes, income distribution inequalities, and environmental crises.
-4. The Equitable Education Fund for the underprivileged was established under The Equitable Education Fund Act 2018, which provides financial aid to underprivileged children and youth as well as conducting systematic research to support and develop teachers.
+1. The Constitution of the Kingdom of Thailand (B.E. 2560 (2017)) guarantees the right to education for all citizens. Section 53 ensures free and compulsory education for at least 12 years (primary and secondary). Section 57 mandates the state to promote high-quality, equitable education for all, aiming to improve the quality of life and foster social development.
+2. The National Education Act of B.E. 2542 (1999) expanded compulsory education in Thailand from 6 years to 9 years, ensuring that all children receive 12 years of basic education free of charge. This reform provides children with the opportunity to continue their education at higher levels or to enter the workforce, promoting equal access to education for all.
+3.The National Education Plan 2017-2036 envisions "All Thais receiving high-quality education and lifelong learning, living happily, in alignment with the philosophy of sufficiency economy and the changes of the 21st century." The plan aligns with Sustainable Development Goals (SDGs) and domestic contexts such as improving education quality across all age groups, demographic changes, income distribution inequalities, and environmental crises.
+4.The Equitable Education Fund for the underprivileged was established under The Equitable Education Fund Act 2018, which provides financial aid to underprivileged children and youth as well as conducting systematic research to support and develop teachers.
 
 -  Please list the prohibited grounds of discrimination in education as laid out in legal texts:
 
 > 13 See: Article/Paragraph 1(1).
 
-> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programm es'.
+> 14 Which calls on states to ‘substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes’.
 
 > 15 Constitution, laws, decrees, regulations, circulars, etc.
 
@@ -518,9 +513,13 @@ on promoting educational equity and removing barriers to education for children 
 
 youth in need of special support.
 
- Combatting discrimination in terms of curriculum:   In primary education  In secondary education  In technical and vocational education and training 
+ Combatting discrimination in terms of curriculum:
 
-In pre-primary education (including early learning and care) In higher education
+ In pre-primary education (including early learning and care)
+ In primary education
+ In secondary education
+ In technical and vocational education and training
+ In higher education
 
 [[END OF PAGE 10]]
 
@@ -554,7 +553,7 @@ The Thai government and the United Nations have agreed on a framework to develop
 
 ##### The Committee for Advancing Sustainable Development Goals in Education
 
-The Ministry of Education has established a committee to advance the Sustainable Development Goals (SDGs) in education. This committee is responsible for setting the framework, guidelines, and objectives for implementing SDG 4. It also reviews, oversees and monitors progress, and addresses any challenges encountered during implementation to ensure the overall success of the educationrelated SDG initiatives. The committee is chaired by the Permanent Secretary of the Ministry of Education, with the Minister of Education and the Deputy Minister of Education serving as advisors. The committee includes senior executives from the Ministry, experts, and  representatives from relevant ministries and agencies as members.
+The Ministry of Education has established a committee to advance the Sustainable Development Goals (SDGs) in education. This committee is responsible for setting the framework, guidelines, and objectives for implementing SDG 4. It also reviews, oversees and monitors progress, and addresses any challenges encountered during implementation to ensure the overall success of the education-related SDG initiatives. The committee is chaired by the Permanent Secretary of the Ministry of Education, with the Minister of Education and the Deputy Minister of Education serving as advisors. The committee includes senior executives from the Ministry, experts, and representatives from relevant ministries and agencies as members.
 
 The Committee for Advancing Sustainable Development Goals in Education was established an effective operational framework and a solid foundation for sustainable education development. It fosters strong collaboration and coordination among relevant agencies, ensuring that Thailand can achieve the Sustainable Development Goals in education effectively and sustainably.
 
@@ -576,7 +575,7 @@ The SDG4  Roadmap was  implemented  to  align  Thailand's  education  system  wi
 
  Multilingual and intercultural education is supported
 
-> 17 Multiple and flexible learning pathways are 'entry points and re -entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge,  skills  and  co mpetencies  acquired  through  nonformal  and  informal  education'  ( Education  2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
+> 17 Multiple and flexible learning pathways are ‘entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education’ (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
 
 > 18 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
 
@@ -610,9 +609,9 @@ Thailand hosted the Asia-Pacific Ministerial Education Conference from June 5-7,
 
 [[START OF PAGE 14]]
 
-planning, overseeing, and monitoring educational outcomes, and increasing investment in education to meet minimum standards and enhance inclusi vity.
----
-• The Buriram Joint Statement from the 13th ASEAN Education Ministers' Meeting (August 2024) focused on advancing education in the digital era. It reaffirmed ASEAN's commitment to modernizing education systems, addressing digital transformation, and bridging human resource gaps. The statement highlighted key initiatives such as improving digital literacy, supporting mental health for educators and students, and enhancing inclusivity, particularly for out-of-school youth.
+planning, overseeing, and monitoring educational outcomes, and increasing investment in education to meet minimum standards and enhance inclusivity.
+
+• The Buriram Joint Statement from the 13th ASEAN Education Ministers' Meeting (August 2024) focused on advancing education in the digital era. It reaffirmed ASEAN’s commitment to modernizing education systems, addressing digital transformation, and bridging human resource gaps. The statement highlighted key initiatives such as improving digital literacy, supporting mental health for educators and students, and enhancing inclusivity, particularly for out-of-school youth.
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
@@ -622,31 +621,33 @@ Additionally,  Thailand  has  closely  collaborated  with  international  and  r
 
 Recently, the Thai government has implemented several policies and measures to promote education in alignment with SDG 4. These include:
 
-- 15 Years of Free Education: Under Article 54 of the 2017 Constitution of Thailand, the government  is  required  to  provide  12  years  of  quality  education -from  pre-school through  compulsory  education -without  charging  fees.  Additionally,  the  state  must support  educational  expenses  for  those  who  lack  financial  resources  to  ensure comprehensive care and development for all individuals. This policy aims to ensure that every child can access education without financial barriers and reinforces education as a fundamental right that should not be constrained by economic factors.
+1) 15 Years of Free Education: Under Article 54 of the 2017 Constitution of Thailand, the government is required to provide 12 years of quality education—from pre-school through compulsory education—without charging fees. Additionally, the state must support educational expenses for those who lack financial resources to ensure comprehensive care and development for all individuals. This policy aims to ensure that every child can access education without financial barriers and reinforces education as a fundamental right that should not be constrained by economic factors.
 
-In  the  fiscal  year  2024,  the  government  allocated  a  budget  to  support  basic  education expenses  under  a  program  covering  all  levels  from  kindergarten  to  primary  education, benefiting  a  total  of  6,552,101  students.  The  allocation  is  distributed  according  to  the educational levels, as detailed below (data as of June 10, 2023)
+In the fiscal year 2024, the government allocated a budget to support basic education expenses under a program covering all levels from kindergarten to primary education, benefiting a total of 6,552,101 students. The allocation is distributed according to the educational levels, as detailed below (data as of June 10, 2023)
 
-- Support  for  Educational  Expenses: The  government has  allocated  a  budget  to  cover essential  educational expenses, such  as  teaching  costs, textbooks, learning  materials, school uniforms, and student development activities. This support aims to alleviate the financial burden on families and improve access to quality education for children from low-income families.
+2) Support for Educational Expenses: The government has allocated a budget to cover essential educational expenses, such as teaching costs, textbooks, learning materials, school uniforms, and student development activities. This support aims to alleviate the financial burden on families and improve access to quality education for children from low-income families.
 
-- Increased Per Capita Subsidies: In response to the economic and social impacts of the COVID-19 pandemic, which affected various sectors including education, the Ministry of
+3) Increased Per Capita Subsidies: In response to the economic and social impacts of the COVID-19 pandemic, which affected various sectors including education, the Ministry of
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
 Education proposed increasing per capita subsidies. The increases include a 20% rise in teaching costs, a 15% rise in learning materials, an additional uniform set for underprivileged children, and a 30% increase in student development activities. These adjustments are intended to enhance the coverage and quality of education.
---- | ---
-4) | Increased Student Lunch Funding: The government has raised the lunch funding based on school size to ensure all students receive adequate nutrition. Schools with varying numbers of students are allocated funds according to specific rates. For example, schools with 1-40 students receive 36 baht per student per day, schools with 41-100 students receive 27 baht per student per day, schools with 101-120 students receive 24 baht per student per day, and schools with more than 121 students receive 22 baht per student per day.
-5) | 'Thailand Zero Dropout' Policy: Under the government's 'Every Child Must Learn' initiative, the goal is to achieve zero dropout rates by integrating comprehensive data systems and creating a flexible learning system that caters to individual needs. This policy aims to provide pathways to better careers and break the cycle of poverty. The Ministry of Education, in collaboration with the Ministry of the Interior, promotes this policy through provincial education committees led by governors and provincial education officers.
-6) | Educational Expense Relief: During the COVID-19 pandemic, the Ministry of Education allocated a budget to provide 2,000 baht per person in financial assistance to parents, students, and learners. This support was extended to all types of educational institutions, both public and private, covering a total of 15 organizations and benefiting 9,816,966 students.
+
+4) Increased Student Lunch Funding: The government has raised the lunch funding based on school size to ensure all students receive adequate nutrition. Schools with varying numbers of students are allocated funds according to specific rates. For example, schools with 1-40 students receive 36 baht per student per day, schools with 41-100 students receive 27 baht per student per day, schools with 101-120 students receive 24 baht per student per day, and schools with more than 121 students receive 22 baht per student per day.
+
+5) “Thailand Zero Dropout” Policy: Under the government’s “Every Child Must Learn” initiative, the goal is to achieve zero dropout rates by integrating comprehensive data systems and creating a flexible learning system that caters to individual needs. This policy aims to provide pathways to better careers and break the cycle of poverty. The Ministry of Education, in collaboration with the Ministry of the Interior, promotes this policy through provincial education committees led by governors and provincial education officers.
+
+6) Educational Expense Relief: During the COVID-19 pandemic, the Ministry of Education allocated a budget to provide 2,000 baht per person in financial assistance to parents, students, and learners. This support was extended to all types of educational institutions, both public and private, covering a total of 15 organizations and benefiting 9,816,966 students.
 
 - In general, what challenges were encountered in the implementation of non-discrimination and equal opportunities principles in education? If needed, brief quantitative information may be added.
 
 Thailand's  Ministry  of  Education  is  dedicated  to  ensuring  that  all  children  have  access  to  free, quality, and equitable primary and secondary education by 2030. To achieve this, the ministry is prioritizing legal reforms , policy enhancements ,  and curriculum improvements that address the diverse needs of students, promoting equal access regardless of socio-economic background. These efforts are guided by the National Education Plan (2017-2036) , which focuses on equity, expanding digital learning opportunities, and closing the educational gaps between urban and rural areas. The plan aligns with the goal of providing inclusive and quality education for all.
 
-Key objectives include reducing disparities in school enrollment, improving standardized test scores (O-NET) across regions, expanding access to digital resources, and creating a data-linked system for managing  education  efficiently.  Special  attention  is  given  to  early  childhood  education  and addressing declining upper-secondary graduation rates. The government has also increased per- student funding to reduce the financial burden on families, especially in the wake of the COVID-19 pandemic.
+Key objectives include reducing disparities in school enrollment, improving standardized test scores (O-NET) across regions, expanding access to digital resources, and creating a data-linked system for managing education efficiently. Special attention is given to early childhood education and addressing declining upper-secondary graduation rates. The government has also increased per-student funding to reduce the financial burden on families, especially in the wake of the COVID-19 pandemic.
 
-Among these efforts, the "Bring the Children Back to School" project aims to reduce dropouts by reintegrating marginalized students, including those from remote or disadvantaged backgrounds, into the education system. Another notable initiative is the "Zero Dropout Project, " designed to prevent  at-risk  students  from  leaving  school  prematurely.  The  project  targets  students  facing
+Among these efforts, the "Bring the Children Back to School" project aims to reduce dropouts by reintegrating marginalized students, including those from remote or disadvantaged backgrounds, into the education system. Another notable initiative is the "Zero Dropout Project," designed to prevent at-risk students from leaving school prematurely. The project targets students facing
 
 [[END OF PAGE 15]]
 
@@ -654,7 +655,7 @@ Among these efforts, the "Bring the Children Back to School" project aims to red
 
 hardships  like  poverty  or  family  issues  and  provides  tailored  support,  such  as  financial  aid, mentorship, and flexible learning options, to keep them engaged in education.
 
-Through  region-specific  innovations  in  the  Education  Sandbox  program,  along  with  updated curricula  focusing  on critical  21st-century  skills,  the  Ministry  of  Education  continues  to  address educational inequities. The National Institute of Educational Testing Service (NIETS) plays a key role in  improving  education  quality  by  assessing  learning  outcomes  and  advancing  national  testing methods. Together, these initiatives reinforce Thailand's broader strategy to ensure inclusive, highquality education for all, aligning with the global SDG 4 target.
+Through region-specific innovations in the Education Sandbox program, along with updated curricula focusing on critical 21st-century skills, the Ministry of Education continues to address educational inequities. The National Institute of Educational Testing Service (NIETS) plays a key role in improving education quality by assessing learning outcomes and advancing national testing methods. Together, these initiatives reinforce Thailand's broader strategy to ensure inclusive, high-quality education for all, aligning with the global SDG 4 target.
 
 ##### Other relevant general measures, including gender equality
 
@@ -678,7 +679,7 @@ Through  region-specific  innovations  in  the  Education  Sandbox  program,  al
 
  Re-entry programmes for young mothers are provided for
 
- Ensuring safe and adequate gender- sensitive sanitation facilities 20
+ Ensuring safe and adequate gender-sensitive sanitation facilities 20
 
  Curricula are rid of all stereotypes 21 and bias
 
@@ -694,7 +695,7 @@ By  ratifying  the Convention  on  the  Elimination  of  All  Forms  of  Discrim
 
 > 19 ' Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them' (Cambridge Dictionary).
 
-> 20 ' Gendersensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
+> 20 ‘Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal’ (UNGEI blog post, Gender-sensitive sanitation, 2018)
 
 > 21 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
 
@@ -703,20 +704,22 @@ By  ratifying  the Convention  on  the  Elimination  of  All  Forms  of  Discrim
 [[START OF PAGE 17]]
 
 in education. This commitment has led to an increase in the enrollment of girls across all education levels, with more women pursuing higher education and entering fields traditionally dominated by men, such as science, technology, engineering, and mathematics (STEM).
----
-Additionally, Thailand's legal progress, exemplified by the Same-Sex Marriage Act , highlights the country's dedication to extending equal rights to individuals of all gender identities, including LGBTQ+ persons. This law not only addresses family rights but also creates a more inclusive atmosphere in educational institutions, allowing LGBTQ+ students to feel more accepted and supported in their academic endeavors.
+
+Additionally, Thailand's legal progress, exemplified by the Same-Sex Marriage Act, highlights the country's dedication to extending equal rights to individuals of all gender identities, including LGBTQ+ persons. This law not only addresses family rights but also creates a more inclusive atmosphere in educational institutions, allowing LGBTQ+ students to feel more accepted and supported in their academic endeavors.
+
 Through these efforts, Thailand is fostering an education system that promotes gender equality, reducing disparities in leadership roles and ensuring that students of all genders can achieve their full potential. This dedication to inclusivity in education contributes to the development of a society that is both equitable and empowering for all its members.
 
 - What challenges were encountered in achieving gender equality in and through education? If needed, brief quantitative information may be added.
 
-- Does the legal minimum age for marriage conform to international standards (18 years) 22 :
-
 Achieving gender equality in education in Thailand has faced challenges despite progress. While enrollment rates for girls in primary and secondary education are close to equal, gender disparities persist, particularly in STEM fields. Women are underrepresented in science, technology, engineering, and mathematics, partly due to societal stereotypes and gender roles.
----
+
 Moreover, girls in rural and disadvantaged areas face higher dropout rates, influenced by poverty, family responsibilities, and transportation barriers. In response, Thailand has implemented initiatives such as revising curricula to promote gender equality and enacting the Gender Equality Act to safeguard equal educational opportunities.
+
 However, gender bias continues in certain subjects and career paths. Ongoing efforts are needed to eliminate these biases through policy, teacher training, and societal change to ensure equal opportunities for all students, regardless of gender.
 
-Please note that child marriage is a discriminatory practice as often girls can marry at a younger age than boys. Child marriage violates the child's right to education as they are more likely to drop out of school and children who are not in school are more likely to get married.
+- Does the legal minimum age for marriage conform to international standards (18 years) 22:
+
+Please note that child marriage is a discriminatory practice as often girls can marry at a younger age than boys. Child marriage violates the child’s right to education as they are more likely to drop out of school and children who are not in school are more likely to get married.
 
  Yes  No
 
@@ -780,64 +783,37 @@ The Learning Encouragement Act B.E. 2566 underscores Thailand's commitment to in
 
 [[START OF PAGE 19]]
 
-ages, and backgrounds. This legislation supports a non-discriminatory, inclusive educational
+ages, and backgrounds. This legislation supports a non-discriminatory, inclusive educational environment for everyone, regardless of their cultural or ethnic background.
 
-environment for everyone, regardless of their cultural or ethnic background.
+In line with this, Thailand's National Education Act of 1999 guarantees free and compulsory education for all children, including stateless individuals, at the primary and secondary levels. This law ensures that even children without formal nationality documents can attend public schools, thus promoting equal educational opportunities for all.
 
-In line with this, Thailand's National Education Act of 1999 guarantees free and compulsory
+In Thailand, students without a civil registration or Thai nationality are still entitled to education under the regulations of the Ministry of Education. According to the Regulation on the Admission of Students (B.E. 2548), Section 6, schools must follow a step-by-step process to accept such students:
 
-education  for  all  children,  including  stateless  individuals,  at  the  primary  and  secondary
+1. Birth Certificate: If available, a birth certificate is required for registration.
+2. Alternate Documentation: If no birth certificate is available, schools can accept other documents, such as a letter of birth confirmation, national ID cards, house registration certificates, or any similar government-issued documents.
+3. Government-Issued Documents: In cases where the previous documents are not available, authorities may accept government-issued documents like a record of a stateless individual or a certificate for non-registered persons (e.g., a family registration document).
+4. Parental or Guardian Declaration: If none of the above documents are available, parents or guardians can provide a written declaration of the child's history, which will be used for educational records.
+5. Interview and Documentation: In extreme cases, schools may directly interview the child or their family to gather relevant information to create educational records.
 
-levels. This law ensures that even children without formal nationality documents can attend
-
-public schools, thus promoting equal educational opportunities for all.
-
-In  Thailand,  students  without  a  civil  registration  or  Thai  nationality  are  still  entitled  to
-
-education under the regulations of the Ministry of Education. According to the
-
-Regulation
-
-on the Admission of Students (B.E. 2548)
-
-,  Section 6, schools must follow a step-by-step
-
-process to accept such students:
-
-1.
-
-Birth Certificate
-
-: If available, a birth certificate is required for registration.
-
-- Alternate Documentation : If no birth certificate is available, schools can accept other documents, such as a letter of birth confirmation, national ID cards, house registration certificates, or any similar government-issued documents.
-
-- Government-Issued  Documents :  In  cases  where  the  previous  documents  are  not available,  authorities  may  accept  government-issued  documents  like  a  record  of  a stateless individual or a certificate for non-registered  persons  (e.g., a family registration document).
-
-- Parental  or  Guardian  Declaration :  If  none  of  the  above  documents  are  available, parents or guardians can provide a written declaration of the child's history, which will be used for educational records.
-
-- Interview and Documentation : In extreme cases, schools may directly interview the child or their family to gather relevant information to create educational records.
-
-This  inclusive  approach  aligns  with  Thailand's  broader  commitment  to  international conventions like the Convention on the Rights of the Child , which advocates for the right to education  for  all  children.  Through  these  efforts,  Thailand  is  striving  to  ensure  that  all children, regardless of ethnicity, nationality, or legal status, have access to quality education.
+This inclusive approach aligns with Thailand's broader commitment to international conventions like the Convention on the Rights of the Child, which advocates for the right to education for all children. Through these efforts, Thailand is striving to ensure that all children, regardless of ethnicity, nationality, or legal status, have access to quality education.
 
 - What challenges were encountered in realizing the right to education of minorities? If needed, brief quantitative information may be added.
 
 The challenges in managing education for minority groups in Thailand include:
----
-1. Cultural and Linguistic Barriers : Many minority groups speak languages other than Thai, which creates difficulties in understanding the curriculum, as Thai is the main language of instruction.
-2. Geographic and Economic Challenges : Minority communities, often in remote areas, face long distances to schools and lack financial resources, which can affect school attendance and lead to higher dropout rates.
+
+1. Cultural and Linguistic Barriers: Many minority groups speak languages other than Thai, which creates difficulties in understanding the curriculum, as Thai is the main language of instruction.
+2. Geographic and Economic Challenges: Minority communities, often in remote areas, face long distances to schools and lack financial resources, which can affect school attendance and lead to higher dropout rates.
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
 
-##### Indigenous people:
-
-- Legal  and  Documentation  Issues :  Stateless  children,  who  are  common  among  minority groups, often lack documentation, which can restrict their access to education despite legal frameworks supporting their right to attend school.
-
-- Resource  Limitations :  Schools  in  rural  and  border  regions  may  not  have  the  necessary educational resources or qualified teachers to meet the needs of minority students.
+3. Legal and Documentation Issues: Stateless children, who are common among minority groups, often lack documentation, which can restrict their access to education despite legal frameworks supporting their right to attend school.
+4. Resource Limitations: Schools in rural and border regions may not have the necessary educational resources or qualified teachers to meet the needs of minority students.
 
 These barriers require continued efforts from the government, NGOs, and local communities to provide more inclusive and accessible education.
+
+##### Indigenous people:
 
  Legislation provides for the right to education of indigenous people
 
@@ -873,13 +849,9 @@ Thailand  has  made  significant  progress  in  ensuring  the  rights  of  indig
 
 In addition, the government is increasingly recognizing the importance of culturally inclusive education.  Efforts  to  integrate  the  languages,  traditions,  and  knowledge  of  indigenous communities into the educational system are progressing, helping preserve cultural diversity while  promoting  social  inclusion.  There  are  also  several  initiatives  that  focus  on  making education  accessible  in  remote  areas,  where  indigenous  populations  are  often  located, through community-based schools and local educational support systems.
 
-26
+> 26 Supra note 15.
 
-27
-
-Supra note 15.
-
-Supra note 16.
+> 27 Supra note 16.
 
 [[END OF PAGE 20]]
 
@@ -893,13 +865,13 @@ NGOs and international organizations have also played a key role in enhancing ed
 
 The  challenges  to  realizing  the  right  to  education  for  indigenous  people  in  Thailand  are multifaceted. These include:
 
-- Language Barriers :  Indigenous languages are often not included in the curriculum, which hinders learning for students who speak these languages as their first language.
+1. Language Barriers: Indigenous languages are often not included in the curriculum, which hinders learning for students who speak these languages as their first language.
 
-- Geographic and Economic Challenges : Indigenous communities are often located in remote areas,  making  it  difficult  for  children  to  access  schools.  Limited  financial  resources  also hinder families from supporting their children's education.
+2. Geographic and Economic Challenges: Indigenous communities are often located in remote areas, making it difficult for children to access schools. Limited financial resources also hinder families from supporting their children's education.
 
-- Cultural  Barriers :  The  mainstream  education  system  sometimes  does  not  accommodate indigenous ways of life, leading to disengagement and underrepresentation.
+3. Cultural Barriers: The mainstream education system sometimes does not accommodate indigenous ways of life, leading to disengagement and underrepresentation.
 
-- Statelessness and Legal Issues :  Indigenous children, particularly in border areas, may lack the necessary documentation to attend school, limiting their access to education.
+4. Statelessness and Legal Issues: Indigenous children, particularly in border areas, may lack the necessary documentation to attend school, limiting their access to education.
 
 Although Thailand has enacted laws like the National Education Act and the Learning Encouragement Act to  promote education for indigenous people, challenges remain in implementing these policies effectively, particularly in remote areas
 
@@ -949,29 +921,23 @@ Although Thailand has enacted laws like the National Education Act and the Learn
 
 Thailand has developed a legal framework to support and promote the rights of stateless children , focusing on access to education, healthcare, and legal status. Key elements of this framework include:
 
-- Civil Registration Act (2008) : This law mandates the registration of all children born in Thailand, regardless of their parents' nationality or legal status. Stateless children can be issued birth certificates, which are crucial for securing basic rights and services.
+1. Civil Registration Act (2008): This law mandates the registration of all children born in Thailand, regardless of their parents' nationality or legal status. Stateless children can be issued birth certificates, which are crucial for securing basic rights and services.
 
-- The Nationality Act (amended in 2008) provides pathways for stateless individuals, including children, to apply for Thai nationality under certain conditions, particularly if they were born in Thailand or have lived in the country for an extended period.
+2. The Nationality Act (amended in 2008) provides pathways for stateless individuals, including children, to apply for Thai nationality under certain conditions, particularly if they were born in Thailand or have lived in the country for an extended period.
 
-- Cabinet  Resolutions :  Various  government  resolutions  have  expanded  the  rights  of stateless children, including their right to access free education, public healthcare, and social services, regardless of their legal status. The 2005 Cabinet Resolution allows stateless and undocumented children to enroll in schools.
+3. Cabinet Resolutions: Various government resolutions have expanded the rights of stateless children, including their right to access free education, public healthcare, and social services, regardless of their legal status. The 2005 Cabinet Resolution allows stateless and undocumented children to enroll in schools.
 
-- The  2017  Constitution :  Thailand's  constitution  guarantees  basic  human  rights, including  the  right  to  education,  healthcare,  and  protection  from  discrimination, applying to all individuals in Thailand, including stateless children.
+4. The 2017 Constitution: Thailand's constitution guarantees basic human rights, including the right to education, healthcare, and protection from discrimination, applying to all individuals in Thailand, including stateless children.
 
 These legal measures aim to ensure that stateless children have access to fundamental rights, helping them integrate into society while addressing their vulnerabilities.
 
 > 29 While lack of documentation (such as identity papers, birth certificates, residency permits, etc.) should not be an obstacle to access education, these can constitute a barrier to education See: UNESCO publication: Handbook on the right to education, 2018, p. 96.
 
-30
+> 30 Supra note 15.
 
-31
+> 31 Supra note 13
 
-32
-
-> Supra note 15.
-
-> Supra note 13
-
-> Supra note 16.
+> 32 Supra note 16.
 
 [[END OF PAGE 22]]
 
@@ -985,9 +951,9 @@ These legal measures aim to ensure that stateless children have access to fundam
 
 - Please elaborate:
 
-Thailand does face climate displacement, though individuals displaced by climate change are not officially recognized as "climate refugees" under international legal frameworks like the 1951 Refugee Convention. Environmental impacts such as flooding, droughts, and rising sea levels  have  contributed  to  increased  internal  migration  and  cross-border  displacement. Migrants  from  neighboring  countries  like  Myanmar,  Cambodia,  and  Laos  have  been particularly  affected,  as  disruptions  to  agriculture  caused  by  droughts  and  other  climaterelated  challenges  in  their  home  countries  force  them  to  seek  work  opportunities  in Thailand's industries.
+Thailand does face climate displacement, though individuals displaced by climate change are not officially recognized as "climate refugees" under international legal frameworks like the 1951 Refugee Convention. Environmental impacts such as flooding, droughts, and rising sea levels have contributed to increased internal migration and cross-border displacement. Migrants from neighboring countries like Myanmar, Cambodia, and Laos have been particularly affected, as disruptions to agriculture caused by droughts and other climate-related challenges in their home countries force them to seek work opportunities in Thailand's industries.
 
-In some cases, these migrants are employed in agriculture and construction, sectors that are themselves  vulnerable  to  climate  risks.  While  there  is  no  formal  recognition  of  climateinduced displacement under Thai law, climate change continues to drive migration patterns across the region.
+In some cases, these migrants are employed in agriculture and construction, sectors that are themselves vulnerable to climate risks. While there is no formal recognition of climate-induced displacement under Thai law, climate change continues to drive migration patterns across the region.
 
 - What challenges were encountered in realizing the right to education of migrants, refugees, asylum seekers, stateless persons and IDPs? If needed, brief quantitative information may be added.
 
@@ -1055,13 +1021,13 @@ Also, Thailand has policies and laws that support the employment of persons with
 
 Despite the 2008 Education Act for Persons with Disabilities, challenges remain, such as:
 
-- Limited  infrastructure :  Many  schools  lack  resources  and  facilities  to  fully  accommodate students with disabilities.
+1. Limited infrastructure: Many schools lack resources and facilities to fully accommodate students with disabilities.
 
-- Social  stigma :  Negative  attitudes  toward  disabilities  often  prevent  full  participation  and enrollment in schools.
+2. Social stigma: Negative attitudes toward disabilities often prevent full participation and enrollment in schools.
 
-- Lack of trained educators : Teachers may not have the necessary skills to teach students with disabilities effectively.
+3. Lack of trained educators: Teachers may not have the necessary skills to teach students with disabilities effectively.
 
-- Geographical  disparities :  Access  to  inclusive  education  is  limited  in  rural  areas  due  to resource shortages.
+4. Geographical disparities: Access to inclusive education is limited in rural areas due to resource shortages.
 
 These barriers highlight the need for further efforts to ensure full inclusion in education.
 
@@ -1087,11 +1053,9 @@ The Education Equality Fund (EEF), established by the Education Equality Fund Ac
 
 The  EEF  also  emphasizes  collaboration  between  government  bodies,  local  communities, and private organizations to ensure more efficient resource distribution and  better-targeted support. Additionally, the fund supports research and programs designed to enhance teacher quality,  ensuring  that  educators  are  equipped  to  meet  the  diverse  needs  of  their  students.
 
-35
+> 35 Supra note 15.
 
 > 36 Supra note 16.
-
-Supra note 15.
 
 [[END OF PAGE 25]]
 
@@ -1144,13 +1108,13 @@ on their future earning potential.
 - What  challenges  were  encountered  in  realizing  the  right  to  education  of  students  from  poor households? If needed, brief quantitative information may be added.
 
 In Thailand, providing education for poor people, especially in rural or disadvantaged areas, faces several key challenges:
----
-1. Financial Barriers : While education is officially free, many families still face indirect costs such as transportation, uniforms, and learning materials. Poor families often struggle to afford these, which results in lower school attendance and higher dropout rates.
-2. Geographical Isolation : Many poor families live in remote areas where schools are far away, making regular attendance difficult. Rural schools are also often under-resourced, with limited infrastructure, teachers, and educational materials.
-3. Economic Pressures : Children in poor families are often needed to work to support their families, leading to high dropout rates. When parents face financial hardships, they may prioritize work over education, especially at the secondary or tertiary levels.
-4. Teacher Shortages : Poor and rural areas often face a shortage of qualified teachers. Inadequate compensation and lack of professional development opportunities can deter educators from working in these areas, leading to lower quality education.
-5. Cultural and Social Barriers : In some cases, cultural beliefs and practices may limit the opportunities for girls or children from marginalized communities to access education. Social barriers like gender norms or ethnic identity issues can prevent equal access.
-6. Health and Nutrition : Poor nutrition and inadequate healthcare in impoverished regions can affect children's ability to focus in school and attend regularly, impacting their academic performance.
+
+1. Financial Barriers: While education is officially free, many families still face indirect costs such as transportation, uniforms, and learning materials. Poor families often struggle to afford these, which results in lower school attendance and higher dropout rates.
+2. Geographical Isolation: Many poor families live in remote areas where schools are far away, making regular attendance difficult. Rural schools are also often under-resourced, with limited infrastructure, teachers, and educational materials.
+3. Economic Pressures: Children in poor families are often needed to work to support their families, leading to high dropout rates. When parents face financial hardships, they may prioritize work over education, especially at the secondary or tertiary levels.
+4. Teacher Shortages: Poor and rural areas often face a shortage of qualified teachers. Inadequate compensation and lack of professional development opportunities can deter educators from working in these areas, leading to lower quality education.
+5. Cultural and Social Barriers: In some cases, cultural beliefs and practices may limit the opportunities for girls or children from marginalized communities to access education. Social barriers like gender norms or ethnic identity issues can prevent equal access.
+6. Health and Nutrition: Poor nutrition and inadequate healthcare in impoverished regions can affect children's ability to focus in school and attend regularly, impacting their academic performance.
 To address these challenges, Thailand has implemented various programs such as the Education Equality Fund and other initiatives targeting vulnerable groups. However, significant effort is still
 
 [[END OF PAGE 26]]
@@ -1163,7 +1127,7 @@ needed  to  ensure  that  all  children,  regardless  of  their  socio-economic 
 
 #### 2.1 Early childhood care and education
 
-For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explicitly  provided  for  in  the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initi ally recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent  Declaration  and  Commitments  to  Action  for  Transforming  Early  Childhood  Care  and Education 38 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre -primary education'.
+For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized “the right to education during early childhood as beginning at birth” (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation37 and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education38. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to “the provision of at least one year of free and compulsory pre-primary education”.
 
 - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked):
 
@@ -1171,15 +1135,15 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
  Prior to pre-primary education, ECCE services are affordable
 
- ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
+ ECCE services are accessible on a non-discriminatory basis
 
- ECCE services are accessible on a nondiscriminatory basis
+ ECCE services respect a child’s need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
 - Please elaborate further on the measures taken:
 
 The  Thai  Constitution  guarantees  free  education,  including  pre-primary  education. According  to Section  54 of  the  Constitution  of  Thailand  (2017),  the  government  is committed to providing free education at least up to the level of basic education , which includes pre-primary education . This is part of Thailand's broader efforts to ensure equal access to education for all children, regardless of socio-economic status.
 
-The  commitment to free  education for  children  includes kindergarten  education (preprimary level) under the National Education Act of 1999 and its amendments. This law ensures that children from 3 to 5 years old are entitled to free access to early childhood education, a key component in fostering equitable education opportunities from an early age.
+The commitment to free education for children includes kindergarten education (pre-primary level) under the National Education Act of 1999 and its amendments. This law ensures that children from 3 to 5 years old are entitled to free access to early childhood education, a key component in fostering equitable education opportunities from an early age.
 
 The government's focus on early childhood education aims to provide all children with the foundational skills and opportunities necessary to succeed academically and socially, aligning with Thailand's development goals for education.
 
@@ -1232,12 +1196,12 @@ In Thailand, pre-primary education is not compulsory, but it is provided free of
 [[START OF PAGE 29]]
 
 Early childhood education in daycare centers in Thailand faces several challenges, particularly concerning the quality of education and child care, which impacts the physical, emotional, and intellectual development of children in this age group. These challenges can be divided into several areas as follows:
----
-1. Lack of qualified personnel : Having teachers and caregivers with the necessary knowledge and skills to educate and care for young children is crucial. However, in some areas, especially in rural or remote locations, there is a shortage of trained personnel who specialize in early childhood development and care.
-2. Insufficient resources and facilities : Many daycare centers lack appropriate educational tools and resources, as well as facilities that support the development of children in early childhood. This includes age-appropriate learning materials, adequate classroom space, or equipment that promotes experiential learning.
-3. Inequitable access to education : Children in rural or remote areas often face challenges in accessing quality daycare centers, and sometimes parents are unable to afford the cost of sending their children to centers with higher standards.
-4. Lack of development of appropriate curricula : The curriculum in some daycare centers may not align with the developmental needs of children or may be outdated. Some centers still use curricula that are not modern or fail to account for the cultural diversity of the children.
-5. Lack of assessment and monitoring of quality : The assessment and monitoring of the quality of daycare centers in some areas may not be rigorous enough, and there may be a lack of clear systems for tracking results, making it difficult to improve standards.
+
+1. Lack of qualified personnel: Having teachers and caregivers with the necessary knowledge and skills to educate and care for young children is crucial. However, in some areas, especially in rural or remote locations, there is a shortage of trained personnel who specialize in early childhood development and care.
+2. Insufficient resources and facilities: Many daycare centers lack appropriate educational tools and resources, as well as facilities that support the development of children in early childhood. This includes age-appropriate learning materials, adequate classroom space, or equipment that promotes experiential learning.
+3. Inequitable access to education: Children in rural or remote areas often face challenges in accessing quality daycare centers, and sometimes parents are unable to afford the cost of sending their children to centers with higher standards.
+4. Lack of development of appropriate curricula: The curriculum in some daycare centers may not align with the developmental needs of children or may be outdated. Some centers still use curricula that are not modern or fail to account for the cultural diversity of the children.
+5. Lack of assessment and monitoring of quality: The assessment and monitoring of the quality of daycare centers in some areas may not be rigorous enough, and there may be a lack of clear systems for tracking results, making it difficult to improve standards.
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -1253,7 +1217,7 @@ Early childhood development is also supported by the creation of a central datab
 
 #### 2.2 Primary and secondary education
 
-For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclus ive, equitable, quality primary and secondary education -of which at least nine years are compulsory.'
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide “12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education – of which at least nine years are compulsory.”
 
 ##### Primary education
 
@@ -1275,21 +1239,21 @@ For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  pr
 
 The Thai government has implemented several policies and measures to promote education in alignment with SDG 4. These include:
 
-- 15 Years of Free Education: Under Article 54 of the 2017 Constitution of Thailand, the government is required to provide 12 years of quality education -from pre-school through compulsory  education -without  charging  fees.  Additionally,  the  state  must  support educational expenses for those who lack financial resources to ensure comprehensive care and development for all individuals. This policy aims to ensure that every child can access education without financial barriers and reinforces education as a fundamental right that should not be constrained by economic factors.
+1) 15 Years of Free Education: Under Article 54 of the 2017 Constitution of Thailand, the government is required to provide 12 years of quality education—from pre-school through compulsory education—without charging fees. Additionally, the state must support educational expenses for those who lack financial resources to ensure comprehensive care and development for all individuals. This policy aims to ensure that every child can access education without financial barriers and reinforces education as a fundamental right that should not be constrained by economic factors.
 
-- Support  for  Educational  Expenses: The  government  has  allocated  a  budget  to  cover essential  educational  expenses,  such  as  teaching  costs,  textbooks,  learning  materials, school uniforms, and student development activities. This support aims to alleviate the
+2) Support for Educational Expenses: The government has allocated a budget to cover essential educational expenses, such as teaching costs, textbooks, learning materials, school uniforms, and student development activities. This support aims to alleviate the
 
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
 
-financial burden on families and improve access to quality education for children from lowincome families.
+financial burden on families and improve access to quality education for children from low-income families.
 
-- Increased Student Lunch Funding: The government has raised the lunch funding based on school  size  to  ensure  all  students  receive  adequate  nutrition.  Schools  with  varying numbers of students are allocated funds according to specific rates. For example, schools with 1-40 students receive 36 baht per student per day, schools with 41-100 students receive  27  baht  per  student  per  day,  schools  with  101-120  students  receive  24  baht per student per day, and schools with more than 121 students receive 22 baht per student per day.
+3) Increased Student Lunch Funding: The government has raised the lunch funding based on school size to ensure all students receive adequate nutrition. Schools with varying numbers of students are allocated funds according to specific rates. For example, schools with 1-40 students receive 36 baht per student per day, schools with 41-100 students receive 27 baht per student per day, schools with 101-120 students receive 24 baht per student per day, and schools with more than 121 students receive 22 baht per student per day.
 
-'Thailand  Zero  Dropout'  Policy: Under  the  government's  'Every  Child  Must  Learn' initiative,  the  goal  is  to  achieve  zero  dropout  rates  by  integrating  comprehensive  data systems and creating a flexible learning system that caters to individual needs. This policy aims to provide pathways to better careers and break the cycle of poverty. The Ministry of Education, in collaboration with the Ministry of the Interior, promotes this policy through provincial education committees led by governors and provincial education officers.
+4) “Thailand Zero Dropout” Policy: Under the government’s “Every Child Must Learn” initiative, the goal is to achieve zero dropout rates by integrating comprehensive data systems and creating a flexible learning system that caters to individual needs. This policy aims to provide pathways to better careers and break the cycle of poverty. The Ministry of Education, in collaboration with the Ministry of the Interior, promotes this policy through provincial education committees led by governors and provincial education officers.
 
-- Thailand has fully committed to enhancing educational quality through the 'Joining Hands and Move Forward Together ' approach, which centers on students with the concept of 'Happy Learning' This approach aims to reduce educational disparities and continuously improve education quality by updating curricula and learning processes to match global changes. The curriculum is designed to cater to students' interests and needs, supporting income generation during studies and employment after graduation, aligning with labor market demands.
+5) Thailand has fully committed to enhancing educational quality through the “Joining Hands and Move Forward Together” approach, which centers on students with the concept of “Happy Learning” This approach aims to reduce educational disparities and continuously improve education quality by updating curricula and learning processes to match global changes. The curriculum is designed to cater to students' interests and needs, supporting income generation during studies and employment after graduation, aligning with labor market demands.
 
 - What challenges were encountered in realizing primary education?
 
@@ -1319,7 +1283,7 @@ financial burden on families and improve access to quality education for childre
 
 The access to quality education in primary schools faces a variety of challenges that affect children globally. These challenges often hinder the ability of young learners to reach their full potential. Below are some of the key issues:
 
-- Inequitable Access to Education : Many children, especially in rural or conflict-affected regions, lack access to quality education due to geographic, economic, or social barriers.
+1. Inequitable Access to Education: Many children, especially in rural or conflict-affected regions, lack access to quality education due to geographic, economic, or social barriers.
 
 [[END OF PAGE 31]]
 
@@ -1327,17 +1291,17 @@ The access to quality education in primary schools faces a variety of challenges
 
 Children from marginalized groups, such as those with disabilities, ethnic minorities, or those living in poverty, are often excluded from quality educational opportunities.
 
-- Inadequate  Infrastructure  and  Resources :  In  some  remote  areas,  primary  schools suffer from inadequate infrastructure, including overcrowded classrooms, lack of basic facilities like sanitation, and insufficient learning materials. This hampers the ability of teachers to deliver effective lessons and creates an environment that is not conducive to learning.
+2. Inadequate Infrastructure and Resources: In some remote areas, primary schools suffer from inadequate infrastructure, including overcrowded classrooms, lack of basic facilities like sanitation, and insufficient learning materials. This hampers the ability of teachers to deliver effective lessons and creates an environment that is not conducive to learning.
 
-- Teacher Shortages and Inadequate Training :  There is  often a  shortage of qualified teachers,  particularly  in  rural  or  underserved  areas.  In  addition,  teachers  may  not receive adequate training or professional development, which affects their ability to teach effectively, especially in diverse classrooms with varying student needs.
+3. Teacher Shortages and Inadequate Training: There is often a shortage of qualified teachers, particularly in rural or underserved areas. In addition, teachers may not receive adequate training or professional development, which affects their ability to teach effectively, especially in diverse classrooms with varying student needs.
 
-- Low Educational  Funding :  Many  countries  allocate  insufficient  funds  to  education, resulting in under-resourced schools, outdated teaching materials, and poor infrastructure.  This  lack  of  investment  limits  the  quality  of  education  that  children receive, particularly in lower-income countries or regions.
+4. Low Educational Funding: Many countries allocate insufficient funds to education, resulting in under-resourced schools, outdated teaching materials, and poor infrastructure. This lack of investment limits the quality of education that children receive, particularly in lower-income countries or regions.
 
-- Cultural and Gender Barriers : In some societies, cultural norms or gender biases may discourage girls or other marginalized groups from attending school. In some regions, child  marriage,  early  pregnancy,  or  cultural  expectations  may  prevent  children, especially girls, from completing their education.
+5. Cultural and Gender Barriers: In some societies, cultural norms or gender biases may discourage girls or other marginalized groups from attending school. In some regions, child marriage, early pregnancy, or cultural expectations may prevent children, especially girls, from completing their education.
 
-- Language and Curriculum Gaps : Children who do not speak the language of instruction or who come from different cultural backgrounds may struggle with the curriculum. In many areas, the curriculum may not be adapted to the needs of diverse learners, limiting its effectiveness in fostering learning.
+6. Language and Curriculum Gaps: Children who do not speak the language of instruction or who come from different cultural backgrounds may struggle with the curriculum. In many areas, the curriculum may not be adapted to the needs of diverse learners, limiting its effectiveness in fostering learning.
 
-- Health  and  Nutrition  Issues :  Malnutrition,  illness,  and  poor  health  can  significantly impact children's ability to concentrate and learn. In some regions, a lack of access to basic health care and nutritious food leads to absenteeism, delayed development, and poorer educational outcomes.
+7.Health and Nutrition Issues: Malnutrition, illness, and poor health can significantly impact children's ability to concentrate and learn. In some regions, a lack of access to basic health care and nutritious food leads to absenteeism, delayed development, and poorer educational outcomes.
 
 Addressing  these  challenges  requires  comprehensive  policies,  increased  investment  in education, and a global commitment to ensuring that every child has access to the quality education they deserve.
 
@@ -1347,9 +1311,9 @@ In this part, please provide information on the general availability and accessi
 
 - Please provide the age of enrolment and duration of lower secondary education:
 
-- Please provide the age of enrolment and duration of upper secondary education:
-
 13-15 Years
+
+- Please provide the age of enrolment and duration of upper secondary education:
 
 16-18 Years
 
@@ -1379,36 +1343,41 @@ In this part, please provide information on the general availability and accessi
 
 Thailand's educational policies, as outlined in the following initiatives, reflect a commitment to improving both the quality and accessibility of education while addressing current and future challenges:
 
-- Anywhere Anytime Learning Policy : This policy aims to reduce educational disparities by providing free education through a platform that allows learning at any time and place. The  "one  student,  one  tablet"  initiative  encourages  private  sector  involvement  in education,  offering  compensation  during  learning  or  vocational  training.  It  integrates traditional  classroom  teaching  with  online  learning  via  hybrid  education,  facilitating greater access to education. Additionally, the policy introduces a Credit Bank System to extend learning opportunities to people of all ages, enabling simultaneous education and work.
+1. Anywhere Anytime Learning Policy: This policy aims to reduce educational disparities by providing free education through a platform that allows learning at any time and place. The “one student, one tablet” initiative encourages private sector involvement in education, offering compensation during learning or vocational training. It integrates traditional classroom teaching with online learning via hybrid education, facilitating greater access to education. Additionally, the policy introduces a Credit Bank System to extend learning opportunities to people of all ages, enabling simultaneous education and work.
 
-- One District, One Quality School Project : The goal of this project is to establish at least one model quality school in each district or educational area to pilot the enhancement of educational standards. This includes improvements in infrastructure, media, equipment, and  the  overall  learning  environment,  with  continuous  annual  funding  to  ensure long-term sustainability.
+2. One District, One Quality School Project: The goal of this project is to establish at least one model quality school in each district or educational area to pilot the enhancement of educational standards. This includes improvements in infrastructure, media, equipment, and the overall learning environment, with continuous annual funding to ensure long-term sustainability.
 
-- Career Guidance and Life Goal Setting :  This  initiative  updates  curricula  to  align  with global  changes  and  focuses  on  developing  essential  life  skills  that  meet  students' interests and needs. The aim is to provide opportunities for students to earn income while  studying  and  to  secure  employment  after  graduation,  based  on  labor  market demands.  A  comprehensive  career  guidance  system  will  be  established  from  early childhood to secondary education, helping students discover their educational paths and life goals and make adjustments as needed throughout their educational journey.
+3. Career Guidance and Life Goal Setting: This initiative updates curricula to align with global changes and focuses on developing essential life skills that meet students' interests and needs. The aim is to provide opportunities for students to earn income while studying and to secure employment after graduation, based on labor market demands. A comprehensive career guidance system will be established from early childhood to secondary education, helping students discover their educational paths and life goals and make adjustments as needed throughout their educational journey.
 
-- Certification  and  Professional  Standards  (Skill  Certificate) :  This  measure  provides opportunities  for  students  to  earn  additional  certificates  for  their  careers  by  using accumulated credits for qualification equivalency and professional certification. It supports vocational education students in obtaining professional certifications while still in the educational system, enabling them to generate income during their studies and work simultaneously.
+4. Certification and Professional Standards (Skill Certificate): This measure provides opportunities for students to earn additional certificates for their careers by using accumulated credits for qualification equivalency and professional certification. It supports vocational education students in obtaining professional certifications while still in the educational system, enabling them to generate income during their studies and work simultaneously.
 
 [[END OF PAGE 33]]
 
 [[START OF PAGE 34]]
 
+5. Developing Education Level Equivalency and Assessment Systems: This initiative creates systems for recognizing or transferring academic results, skills, knowledge, experience, or competencies from various institutions, including comparisons with international education systems. This will help students with exceptional abilities avoid repeating courses and make efficient use of their accumulated learning for entry into or certification by different institutions or systems.
+
+6. Creating Earning Opportunities During Study and Employment Post-Graduation (Learn to Earn): This policy focuses on developing vocational education at a professional level to enhance the skills of the technical workforce. It emphasizes training in fields that align with labor market demands, national economic and social development plans, and education strategies. Practical learning will be prioritized to ensure that vocational graduates are prepared for desired careers and can successfully integrate into society.
+
+These policies reflect Thailand’s dedication to providing high-quality and equitable education, which is not only crucial for domestic development but also contributes to achieving the global Sustainable Development Goals. The emphasis on lifelong learning, career preparation, and workforce alignment is key to the country's future economic and social growth.
+
 - Please indicate whether the legal minimum age for employment is aligned with the end of compulsory education:
 
-5. Developing Education Level Equivalency and Assessment Systems : This initiative creates systems for recognizing or transferring academic results, skills, knowledge, experience, or competencies from various institutions, including comparisons with international education systems. This will help students with exceptional abilities avoid repeating courses and make efficient use of their accumulated learning for entry into or | certification by different institutions or systems.
---- | ---
-6. Creating Earning Opportunities During Study and Employment Post-Graduation (Learn to Earn) : This policy focuses on developing vocational education at a professional level to enhance the skills of the technical workforce. It emphasizes training in fields that align with labor market demands, national economic and social development plans, and education strategies. Practical learning will be prioritized to ensure that vocational graduates are prepared for desired careers and can successfully integrate into society. These policies reflect Thailand's dedication to providing high -quality and equitable education,
+For reference: The employment laws and those related to compulsory education are interdependent and mutually reinforce each other. If the minimum age of employment is below that of compulsory education, the child is at risk of dropping out of school to work and therefore not completing compulsory education. On the other hand, if compulsory education is lower than the minimum age of employment, once the child has completed compulsory education, the door is open to child exploitation and the violation of labour laws.
 
-For reference: The employment laws and those related to compulsory education are interdependent and mutually reinforce each other. If the minimum age of employment is below that of compulsory education,  the  child  is  at  risk  of  dropping  out  of  school  to  work  and  therefore  not  completing compulsory education. On the other hand, if compulsory education is lower than the minimum age of employment, once the child has completed compulsory education, the door is open to child exploitation and the violation of labour laws.
-
- Yes 
-
-No
+ Yes  No
 
 - Please provide reference to the relevant laws and provisions and indicate how the provision is enforced:
 
-The Labour Protection Act B.E. 2541 (Amended) , Sections 44 and 45, set out the following regulations regarding child and young workers:
----
-1. Section 44 : Employers are prohibited from employing children under the age of 15 to protect their right to education and prevent child labor.
-2. Section 45 : Employers hiring young workers under the age of 18 must: • Notify a Labour Inspector within 15 days of employment. • Maintain a record of employment conditions and make it available for inspection. • Notify the Labour Inspector within 7 days if the young worker's employment is terminated. These measures ensure the protection of young workers from exploitation and unsafe working conditions.
+The Labour Protection Act B.E. 2541 (Amended), Sections 44 and 45, set out the following regulations regarding child and young workers:
+
+1. Section 44: Employers are prohibited from employing children under the age of 15 to protect their right to education and prevent child labor.
+
+2. Section 45: Employers hiring young workers under the age of 18 must:
+• Notify a Labour Inspector within 15 days of employment.
+• Maintain a record of employment conditions and make it available for inspection.
+• Notify the Labour Inspector within 7 days if the young worker's employment is terminated.
+These measures ensure the protection of young workers from exploitation and unsafe working conditions.
 
 [[END OF PAGE 34]]
 
@@ -1482,7 +1451,7 @@ Thailand has been dedicated to ensuring that all citizens have access to quality
 
 In  Thailand,  vocational education management emphasizes hands-on experience aligned with  technological  advancements  and  practical  application  in  real  life.  This  field  is continuously  evolving  to  keep  pace  with  regional  and  global  changes,  focusing  on the  development  of  specialized  academic  and  vocational  skills.  The  approach  involves intensive  training  in  knowledge  tailored  to  individual  interests  and  aptitudes,  fostering human development through problem-based or project-based learning both in educational institutions and workplaces. The aim is to cultivate critical thinking, ethical values, and high standards of professional conduct, alongside leadership skills. Thus, the development of vocational education in Thailand is geared towards equipping learners with 21st-century skills, ensuring promising futures, and enhancing employability.
 
-However, Thailand faces a mismatch between education levels and labour market needs. Despite a high production rate of bachelor's degree graduates, the labo ur market demands more  vocationally  trained  workers.  The  shortage  of  skilled  professionals  in  specific vocational  fields  fails  to  meet  the  needs  of  the  job  market  effectively.  Additionally, the production of graduates capable of developing innovations through STEM education (Science,  Technology,  Engineering,  and  Mathematics)  remains  insufficient,  leading  to an inability to satisfy the demand in sectors such as industry, agriculture, and services.
+However, Thailand faces a mismatch between education levels and labour market needs. Despite a high production rate of bachelor’s degree graduates, the labour market demands more vocationally trained workers. The shortage of skilled professionals in specific vocational fields fails to meet the needs of the job market effectively. Additionally, the production of graduates capable of developing innovations through STEM education (Science, Technology, Engineering, and Mathematics) remains insufficient, leading to an inability to satisfy the demand in sectors such as industry, agriculture, and services.
 
 The production of labour in Thailand reveals that the skills of workers often do not align with employers' expectations. Although the dual vocational education system, which combines practical training  in  workplaces with theoretical learning,  enhances career competencies and increases job opportunities for students, the number of students choosing vocational education  remains  lower  compared  to  those  pursuing  general  education  at  the  upper secondary level.
 
@@ -1492,11 +1461,11 @@ The production of labour in Thailand reveals that the skills of workers often do
 
 Thailand has taken steps to address the  aforementioned  issues by implementing the following measures:
 
-- Development of Competency-Based Curriculum : The curriculum has been revised to emphasize intensive skills training combined with hands-on experience in workplaces. This approach aims to better prepare graduates for employment.
+1. Development of Competency-Based Curriculum: The curriculum has been revised to emphasize intensive skills training combined with hands-on experience in workplaces. This approach aims to better prepare graduates for employment.
 
-- Enhancement of Teacher Competencies : Efforts have been made to upgrade teachers' knowledge  and  skills  to  keep  pace  with  technological  advancements  in  various vocational fields. This includes improving their ability to teach both in the classroom and through practical training in workplaces. Additionally, creating professional development opportunities for teachers and building a network of vocational educators are intended to enhance teaching effectiveness and better prepare students.
+2. Enhancement of Teacher Competencies: Efforts have been made to upgrade teachers' knowledge and skills to keep pace with technological advancements in various vocational fields. This includes improving their ability to teach both in the classroom and through practical training in workplaces. Additionally, creating professional development opportunities for teachers and building a network of vocational educators are intended to enhance teaching effectiveness and better prepare students.
 
-- Enhancement of Institutional Readiness :  Efforts  have  been  made to modernize and adequately  equip  training  tools  and  facilities.  This  includes  the  development  of simulation systems to provide pre-training or pre-vocational experience. Additionally, there  is  a  focus  on  fostering  positive  awareness  and  attitudes  towards  vocational education to emphasize the importance of this level of education
+3. Enhancement of Institutional Readiness: Efforts have been made to modernize and adequately equip training tools and facilities. This includes the development of simulation systems to provide pre-training or pre-vocational experience. Additionally, there is a focus on fostering positive awareness and attitudes towards vocational education to emphasize the importance of this level of education
 
 Moreover,  the  Ministry  of  Higher  Education,  Science,  Research,  and  Innovation  has developed the Higher Education Development Plan (2021-2027) to enhance the capabilities of  Thai  people  and  align  with  UNESCO's  Education  for  Sustainable  Development  (ESD) framework. This includes creating the Thai MOOC platform to support lifelong learning and increase access to free online education. Additionally, significant projects such as the Higher Education  Sandbox  have  been  launched  to  develop  educational  programs  that  address the  urgent  needs  of  the  country  without  being  constrained  by  traditional  curriculum standards.
 
@@ -1548,11 +1517,11 @@ For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides 
 
 - Please elaborate further on the measures taken:
 
-Lifelong  learning  in  Thailand  is  a  central  component  of  the  country's  education  and development  policies,  aimed  at  fostering  continuous  personal,  social,  and  professional growth  throughout  an  individual's  life.  This  approach  aligns  with  global  trends  that emphasize  the  need  for  individuals  to  continuously  adapt  to  a  rapidly  changing  world. Thailand  has  made  significant  efforts  to  integrate  lifelong  learning  into  its  national framework, focusing on accessibility, inclusivity, and adaptability to various lear ners' needs.
+Lifelong learning in Thailand is a central component of the country’s education and development policies, aimed at fostering continuous personal, social, and professional growth throughout an individual’s life. This approach aligns with global trends that emphasize the need for individuals to continuously adapt to a rapidly changing world. Thailand has made significant efforts to integrate lifelong learning into its national framework, focusing on accessibility, inclusivity, and adaptability to various learners’ needs.
 
 Presently, Thailand promotes and supports lifelong learning through the Department of Learning  Encouragement,  Ministry  of  Education  which  is  authorized  by  the  Learning Encouragement Act B.E. 2566 (2023) in Section 6 (3rd paragraph) mandates providers shall consider the diversity, and the needs of learners, as well as provide opportunities for people of all genders and ages to learn and access all learning resources with coverage, equality, and  equity  without  discrimination.  Here  are  some  key  aspects  of  lifelong  learning  in Thailand:
 
-- Education for All Ages : Thailand's education system emphasizes that learning should not  be  confined  to  childhood  or  adolescence  but  should  continue  throughout  an individual's life. The Ministry of Education promotes learning for people of all ages,
+1. Education for All Ages: Thailand's education system emphasizes that learning should not be confined to childhood or adolescence but should continue throughout an individual’s life. The Ministry of Education promotes learning for people of all ages,
 
 [[END OF PAGE 38]]
 
@@ -1560,19 +1529,19 @@ Presently, Thailand promotes and supports lifelong learning through the Departme
 
 from early childhood to adulthood. The government encourages institutions to provide educational programs and opportunities that are accessible to the elderly, workers, and other groups who may not have access to formal education systems.
 
-- Anywhere  Anytime  Learning :  The Anywhere  Anytime  Learning  Policy is  part  of Thailand's  efforts  to  make  education  accessible  at  any  stage  of  life.  The  policy provides  digital  platforms  and  tools,  such  as  online  courses  and  mobile  learning applications, to enable individuals to learn whenever and wherever they choose. This initiative  is  designed to  bridge  the  gap  between formal education and continuous learning opportunities, especially for working adults or those in remote areas.
+2.Anywhere Anytime Learning: The Anywhere Anytime Learning Policy is part of Thailand’s efforts to make education accessible at any stage of life. The policy provides digital platforms and tools, such as online courses and mobile learning applications, to enable individuals to learn whenever and wherever they choose. This initiative is designed to bridge the gap between formal education and continuous learning opportunities, especially for working adults or those in remote areas.
 
-- Vocational and Technical Education : Lifelong learning is closely linked to vocational and  technical  education  in  Thailand.  The  country  has  focused  on  improving  its vocational education and training systems to help individuals develop new skills or enhance existing ones, particularly in fields that align with the national economic and labor  market  demands.  Programs  such  as  those  offered  by Thailand's  Vocational Education  Commission aim  to create pathways  for  lifelong learning  through certifications and skills training.
+3. Vocational and Technical Education: Lifelong learning is closely linked to vocational and technical education in Thailand. The country has focused on improving its vocational education and training systems to help individuals develop new skills or enhance existing ones, particularly in fields that align with the national economic and labor market demands. Programs such as those offered by Thailand’s Vocational Education Commission aim to create pathways for lifelong learning through certifications and skills training.
 
-- Learning  Centers  and  Community  Programs :  Thailand  has  established  various learning  centers,  both  within  urban  and  rural  communities,  that  cater  to  lifelong learners. These centers provide opportunities for adults to develop skills, learn new technologies, and improve literacy. Such centers are often linked to local development programs that promote self-sufficiency and community resilience.
+4. Learning Centers and Community Programs: Thailand has established various learning centers, both within urban and rural communities, that cater to lifelong learners. These centers provide opportunities for adults to develop skills, learn new technologies, and improve literacy. Such centers are often linked to local development programs that promote self-sufficiency and community resilience.
 
-- Credit Bank System : The Credit Bank System allows learners to accumulate credits through  various  learning  experiences,  whether  formal  or  informal.  This  system provides  flexibility  for  people  to  earn  qualifications  that  reflect  their  learning achievements, which they can use to pursue further education or career opportunities. This system encourages individuals to engage in learning at different stages of their lives and contributes to lifelong education goals.
+5. Credit Bank System: The Credit Bank System allows learners to accumulate credits through various learning experiences, whether formal or informal. This system provides flexibility for people to earn qualifications that reflect their learning achievements, which they can use to pursue further education or career opportunities. This system encourages individuals to engage in learning at different stages of their lives and contributes to lifelong education goals.
 
-- Government  Policies  and  Initiatives :  The  Thai  government  has  made  lifelong learning  a  priority  by  integrating  it  into  various  national  strategies.  The National Education  Act and  the Thailand  4.0  policy stress  the  importance  of  continuous education  to  meet  the  demands  of  a  knowledge-based  economy.  These  policies support  not  only  formal  education  but  also  non-formal  education  and  informal learning, which are integral parts of lifelong learning.
+6. Government Policies and Initiatives: The Thai government has made lifelong learning a priority by integrating it into various national strategies. The National Education Act and the Thailand 4.0 policy stress the importance of continuous education to meet the demands of a knowledge-based economy. These policies support not only formal education but also non-formal education and informal learning, which are integral parts of lifelong learning.
 
-- Digital  Literacy  and  Technology  Integration :  To  further  support  lifelong  learning, Thailand has incorporated digital literacy into its educational framework. The use of technology in learning has been encouraged to reach a broader audience, especially in  remote  or  underserved  areas.  This  includes  the  promotion  of  online  learning platforms, digital tools, and the development of digital skills that are crucial in the modern workforce.
+7. Digital Literacy and Technology Integration: To further support lifelong learning, Thailand has incorporated digital literacy into its educational framework. The use of technology in learning has been encouraged to reach a broader audience, especially in remote or underserved areas. This includes the promotion of online learning platforms, digital tools, and the development of digital skills that are crucial in the modern workforce.
 
-- International Cooperation : Thailand also collaborates with international organizations and  other countries to enhance  lifelong learning opportunities. By participating in global education frameworks, such as UNESCO , Thailand ensures that its lifelong learning policies align with international best practices and standards.
+8. International Cooperation: Thailand also collaborates with international organizations and other countries to enhance lifelong learning opportunities. By participating in global education frameworks, such as UNESCO, Thailand ensures that its lifelong learning policies align with international best practices and standards.
 
 Lifelong  learning  in  Thailand  is  seen  as  an  essential  driver  for  national  development. It is not only about improving individual skills and knowledge but also about strengthening the economy and society by creating an adaptable and skilled workforce. As the country continues to modernize and address challenges such as economic inequality, technological changes, and an aging population, lifelong learning will play a key role in ensuring that all citizens can benefit from education and contribute to the country's growth.
 
@@ -1606,7 +1575,7 @@ To overcome these challenges, Thailand needs to invest in infrastructure, update
 
 ### 3. Quality education provision and learning environment
 
-For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends state s to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
+For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to “build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all”.
 
 #### 3.1 General measures
 
@@ -1634,19 +1603,19 @@ For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommenda
 
 Yes, Thailand's legal and regulatory framework outlines the conditions and minimum education standards for the establishment and functioning of public education institutions. The key laws and regulations that govern the education system in Thailand include:
 
-##### The National Education Act B.E. 2542 (1999) (and its amendments)
+##### 1. The National Education Act B.E. 2542 (1999) (and its amendments)
 
 - Establishment of Public Education Institutions : The National Education Act provides a legal basis for the establishment and operation of public education institutions in Thailand.  It  sets  guidelines  for  the  formation  of  both  formal  and  non-formal education institutions and ensures that all schools follow a national curriculum and educational standards.
 
 - Minimum  Education  Standards : The Act mandates  that public educational institutions  must  meet  certain  minimum  standards  in  terms  of  infrastructure, curriculum, teacher qualifications, and teaching methods. These standards aim to ensure  that  all  students,  regardless  of  their  location  or  socio-economic  status, have access to quality education.
 
-##### The Education Act on Teacher Qualifications B.E. 2546 (2003)
+##### 2. The Education Act on Teacher Qualifications B.E. 2546 (2003)
 
 - Teacher Qualifications : This Act regulates the minimum qualifications and standards required  for  teachers  in  public  schools.  It  specifies  the  necessary  education  and professional development for teachers to ensure that they are equipped to deliver high-quality education.
 
 - Teacher Registration and Certification : Teachers must be registered and certified by the appropriate authorities to work in public educational institutions, ensuring they meet the minimum standards of teaching competence.
 
-##### The Ministry of Education (MOE) Regulations and Guidelines
+##### 3. The Ministry of Education (MOE) Regulations and Guidelines
 
 - Curriculum and Standards : The Ministry of Education sets the national curriculum and learning  standards for all public education  institutions in Thailand. This  includes  specifying  subjects,  grade  levels,  and  educational  objectives  to ensure uniformity in the quality of education across the country.
 
@@ -1762,27 +1731,25 @@ Office of the Teacher Civil Service and Educational  Personnel  (OTEOPC),  Minis
 
 In  Thailand,  several  challenges  have been encountered in the education personnel sector, which affects the overall quality of education. Some of the key challenges include:
 
-- Teacher Shortage and Distribution: There is an ongoing shortage of qualified teachers, particularly in remote and rural areas. This imbalance in teacher distribution results in overcrowded  classrooms  in  urban  centers  and  a  lack  of  qualified  educators  in  less accessible regions.
+1. Teacher Shortage and Distribution: There is an ongoing shortage of qualified teachers, particularly in remote and rural areas. This imbalance in teacher distribution results in overcrowded classrooms in urban centers and a lack of qualified educators in less accessible regions.
 
-- Quality of Teacher Training: Despite various reforms, many teachers still lack sufficient professional development and training. This includes both initial training and ongoing professional development, particularly in modern teaching methods, digital literacy, and special education.
+2. Quality of Teacher Training: Despite various reforms, many teachers still lack sufficient professional development and training. This includes both initial training and ongoing professional development, particularly in modern teaching methods, digital literacy, and special education.
 
-- Teacher Retention: High turnover rates among teachers, especially in rural areas, are a  significant  challenge. Many teachers leave the profession due to low salaries, poor working conditions, and limited career advancement opportunities, which affects the continuity and quality of education.
+3. Teacher Retention: High turnover rates among teachers, especially in rural areas, are a significant challenge. Many teachers leave the profession due to low salaries, poor working conditions, and limited career advancement opportunities, which affects the continuity and quality of education.
 
-- Inadequate Support and Resources: Teachers often face challenges in the classroom due to a lack of adequate teaching materials, resources, and technology. Additionally, limited support  from  school  administration  and  the  education  system  hampers  teachers' effectiveness in implementing high-quality education.
+4. Inadequate Support and Resources: Teachers often face challenges in the classroom due to a lack of adequate teaching materials, resources, and technology. Additionally, limited support from school administration and the education system hampers teachers' effectiveness in implementing high-quality education.
 
-- Teacher Motivation and Job Satisfaction: Many educators report low job satisfaction due to limited salary increases, lack of professional recognition, and challenges related to working conditions, such as large class sizes and limited autonomy in the classroom.
+5. Teacher Motivation and Job Satisfaction: Many educators report low job satisfaction due to limited salary increases, lack of professional recognition, and challenges related to working conditions, such as large class sizes and limited autonomy in the classroom.
 
 [[END OF PAGE 44]]
 
 [[START OF PAGE 45]]
 
-- Please elaborate on each of the measures taken:
-
-- Addressing these challenges requires targeted efforts in teacher recruitment, training, retention, and ongoing professional development to ensure a high-quality and equitable education system across the country.
+6. Addressing these challenges requires targeted efforts in teacher recruitment, training, retention, and ongoing professional development to ensure a high-quality and equitable education system across the country.
 
 #### 3.3 Respect for human rights and fundamental freedoms
 
-- 3.4 For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SDG target 4.7. 41 Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation  and  that  the  future  consultation  on  the  1974  Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on [….] will be used specifically for monitoring SDG4 indicator 4.7.1.
+3.4 For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SDG target 4.7.41 Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation and that the future consultation on the 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on [….] will be used specifically for monitoring SDG4 indicator 4.7.1.
 
 - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked):
 
@@ -1791,6 +1758,8 @@ In  Thailand,  several  challenges  have been encountered in the education perso
  Educational and/or extracurricular activities are organized on human rights education.
 
  Other:
+
+- Please elaborate on each of the measures taken:
 
 The Right to Education in Thailand is guaranteed by the Constitution and reinforced by laws like  the National  Education  Act  (1999) ,  which  ensures 12  years  of  free  education from primary to secondary school and  mandates nine years of  compulsory education . The government focuses on making education accessible to all children, including those in rural areas, children with disabilities, and marginalized groups, through inclusive education and  special  programs.  Additionally,  Thailand  promotes lifelong  learning by  providing opportunities  for  adults  to  engage  in  vocational  education,  adult  education,  and  online learning to enhance skills and employment opportunities. The government is committed to ensuring equal educational opportunities for everyone, contributing to social and economic development.
 
@@ -1810,7 +1779,7 @@ For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommenda
 
  Legal provisions prohibiting discrimination on the grounds listed by the Convention/Recommendation 43  explicitly apply to non-state educational institutions. Please specify:
 
-In Thailand, the operation of private schools, international schools, private vocational institutions, and  informal  education  providers  is  guided  by  government  policies  designed  to  ensure  equity, inclusion, and quality in education. The government has established frameworks to ensure that nonstate education does not contribute to inequality or discrimination. These policies aim to ensure that non-state institutions offer relevant educational alternatives that complement public education while maintaining quality standards.
+In Thailand, the operation of private schools, international schools, private vocational institutions, and informal education providers is guided by government policies designed to ensure equity, inclusion, and quality in education. The government has established frameworks to ensure that non-state education does not contribute to inequality or discrimination. These policies aim to ensure that non-state institutions offer relevant educational alternatives that complement public education while maintaining quality standards.
 
 The government's provisions related to prohibiting discrimination are outlined in national laws, and these provisions apply equally to non-state educational institutions. This ensures that all educational providers, whether public or private, adhere to principles of fairness, accessibility, and inclusivity, offering equitable opportunities for all students.
 
@@ -1868,13 +1837,11 @@ The  Thai  government  is  working  to  address  these  issues  by  improving re
 
 [[START OF PAGE 48]]
 
-- Please elaborate. Brief quantitative information may be added.
-
  Low quality educational infrastructure and materials
 
  Low number of professionally trained teachers
 
- High student - teacher ratio
+ High student – teacher ratio
 
  Other:
 
@@ -1884,7 +1851,9 @@ The  Thai  government  is  working  to  address  these  issues  by  improving re
 
 Economic and social issues affecting the non-state education actors in providing quality education
 
-Non-state education in Thailand, including private and international schools, faces several key challenges. Accessibility is  a  major issue, as high tuition fees make it difficult for lowincome families to afford, creating inequality in educational opportunities. Moreover, many non-state schools are concentrated in urban areas, leaving students in rural regions with fewer options for quality education.
+- Please elaborate. Brief quantitative information may be added.
+
+Non-state education in Thailand, including private and international schools, faces several key challenges. Accessibility is a major issue, as high tuition fees make it difficult for low-income families to afford, creating inequality in educational opportunities. Moreover, many non-state schools are concentrated in urban areas, leaving students in rural regions with fewer options for quality education.
 
 There are also concerns about quality assurance and regulation . Non-state schools may not always adhere to national education standards, and some lack proper oversight, leading to differences  in  teaching  quality.  Teacher  qualifications  and  professional  development  vary across schools, which can affect the overall education experience for students.
 
@@ -1908,17 +1877,17 @@ Thai government 's policy of transforming education in the digital era focuses o
 
 [[START OF PAGE 49]]
 
-- Digital  Literacy  and  Skills  Development :  The  government  has  prioritized digital literacy as a core component of the national curriculum. This involves teaching students the skills needed to navigate and use digital tools effectively, preparing them for future careers in a technology-driven world.
+1. Digital Literacy and Skills Development: The government has prioritized digital literacy as a core component of the national curriculum. This involves teaching students the skills needed to navigate and use digital tools effectively, preparing them for future careers in a technology-driven world.
 
-- E-Learning Platforms and Online Education : In response to the increasing demand for flexible  learning,  the  Thai  government  has  developed  several e-learning  platforms . These platforms are designed to support blended learning models, where students can access content both online and in traditional classroom settings.
+2. E-Learning Platforms and Online Education: In response to the increasing demand for flexible learning, the Thai government has developed several e-learning platforms. These platforms are designed to support blended learning models, where students can access content both online and in traditional classroom settings.
 
-- Training for Educators :  To ensure that teachers can effectively integrate technology into their teaching, the government has emphasized teacher professional development . Online training programs and workshops are available to help teachers acquire the skills  needed to  use  digital tools, manage  e-learning  environments,  and adapt their teaching methods for digital education.
+3. Training for Educators: To ensure that teachers can effectively integrate technology into their teaching, the government has emphasized teacher professional development. Online training programs and workshops are available to help teachers acquire the skills needed to use digital tools, manage e-learning environments, and adapt their teaching methods for digital education.
 
-- Equity in  Access :  Thailand  has  focused  on  ensuring  that  all  students,  regardless  of geographic  location  or  socioeconomic  status,  have  access  to  digital  learning  tools. Public-private  partnerships and  government  subsidies  have  been  used  to  provide affordable devices and internet access, particularly for students in rural or underserved areas.
+4. Equity in Access: Thailand has focused on ensuring that all students, regardless of geographic location or socioeconomic status, have access to digital learning tools. Public-private partnerships and government subsidies have been used to provide affordable devices and internet access, particularly for students in rural or underserved areas.
 
-- Innovative  Educational  Technologies :  The  government  supports  the  adoption  of cutting-edge educational technologies , such as artificial intelligence (AI), virtual reality (VR),  and  augmented  reality  (AR),  to  enhance  the  learning  experience.  These technologies  are  used  to  create  immersive  learning  environments  and  to  provide personalized learning pathways for students.
+5. Innovative Educational Technologies: The government supports the adoption of cutting-edge educational technologies, such as artificial intelligence (AI), virtual reality (VR), and augmented reality (AR), to enhance the learning experience. These technologies are used to create immersive learning environments and to provide personalized learning pathways for students.
 
-- National Digital Education Plans : Thailand has implemented the National Education Plan for the Digital Era , which outlines strategies for digitalizing the education system, enhancing educational content, improving infrastructure, and fostering innovation in teaching  and  learning.  This  plan  aims  to  make  Thailand's  education  system  more adaptable to future challenges and opportunities.
+6. National Digital Education Plans: Thailand has implemented the National Education Plan for the Digital Era, which outlines strategies for digitalizing the education system, enhancing educational content, improving infrastructure, and fostering innovation in teaching and learning. This plan aims to make Thailand's education system more adaptable to future challenges and opportunities.
 
 Thailand's policy on transforming education in the digital era is a comprehensive effort to modernize the education system, making it more accessible, equitable, and aligned with the demands of the digital age. While challenges remain, these policies aim to prepare students and  educators  for  the  future,  ensuring  that  technology  enhances  learning  and  promotes lifelong learning opportunities.
 
@@ -1926,7 +1895,7 @@ Thailand's policy on transforming education in the digital era is a comprehensiv
 
  Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.
 
- Measures to remove barriers to accessing digital content 45 , including ensuring access to curriculumaligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
+ Measures to remove barriers to accessing digital content45, including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
 
 > 45 Lack of internet connection, basic infrastructure or devices.
 
@@ -1950,7 +1919,7 @@ To remove barriers to digital challenges in education in Thailand, several strat
 
 - Increase internet accessibility : Improve high-speed internet coverage, especially in rural and underserved areas, to ensure equal access to online resources for all students and teachers.
 
-- Provide affordable technology : Offer subsidies or financial support to provide lowcost devices such as laptops, tablets, or smartphones for students in need, ensuring that all learners have access to digital tools.
+- Provide affordable technology: Offer subsidies or financial support to provide low-cost devices such as laptops, tablets, or smartphones for students in need, ensuring that all learners have access to digital tools.
 
 ##### 2. Improving Teacher Training
 
@@ -2022,15 +1991,15 @@ By addressing these key areas, Thailand can effectively overcome digital barrier
 
 Thailand continues to face challenges in closing the digital divide in education. Key issues include:
 
-- Unequal access to infrastructure : Rural areas often lack high-speed internet, making online learning difficult compared to urban areas.
+1. Unequal access to infrastructure: Rural areas often lack high-speed internet, making online learning difficult compared to urban areas.
 
-- High technology costs : Digital devices and internet services are too expensive for low-income families.
+2. High technology costs: Digital devices and internet services are too expensive for low-income families.
 
-- Limited digital skills : Both students and teachers in remote areas often lack the necessary digital literacy for effective online education.
+3. Limited digital skills: Both students and teachers in remote areas often lack the necessary digital literacy for effective online education.
 
-- Educational  inequality :  Urban  schools  have  more  digital  resources  than  rural  schools, widening the education gap.
+4. Educational inequality: Urban schools have more digital resources than rural schools, widening the education gap.
 
-- Insufficient  government  support :  Policies  promoting  digital  education  face  challenges  in consistent implementation across regions.
+5. Insufficient government support: Policies promoting digital education face challenges in consistent implementation across regions.
 
 Addressing these issues is essential to ensure equal educational opportunities for all students across the country.
 
@@ -2038,7 +2007,7 @@ Addressing these issues is essential to ensure equal educational opportunities f
 
 ### 4 Strengthening governance systems
 
-For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management  information  systems;  transparent  and  effective  financing  procedures  and  mechanisms; and institutional management arrangements, as well as ensure that robust, timely and accessible data are available' (para. 18).
+For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management  information  systems;  transparent  and  effective  financing  procedures  and  mechanisms; and institutional management arrangements, as well as ensure that robust, timely and accessible data are available” (para. 18).
 
 - Please indicate the measures taken in terms of governance (several items may be ticked):
 
@@ -2072,13 +2041,13 @@ http://www.onec.go.th
 
  Lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels
 
- P oor dialogue with teachers' trade unions
+ Poor dialogue with teachers' trade unions
 
  Other:
 
  Absence of supportive/ inconsistent/obsolete legal and policy environment
 
- Lack or weakness of monitoring systems - including the lack of reliable data
+ Lack or weakness of monitoring systems – including the lack of reliable data
 
 Monitoring mechanisms to assess compliance with the right to education are crucial for ensuring that  Thailand  meets  both  national  standards  and  international  human  rights  commitments. These mechanisms focus on evaluating the availability, accessibility, acceptability, and adaptability of  education  services.  Despite  progress  in  establishing  systems  to  monitor  educational  quality, challenges  persist  in  using  data  for  decision-making,  promoting  accountability,  and  ensuring equitable access to quality education.
 
@@ -2106,15 +2075,15 @@ In summary, Thailand is making progress in improving education governance, finan
 
 Thailand's  education  system  faces  several  significant  challenges,  primarily  due  to limited stakeholder  involvement and lack  of  coordination across  various  levels  of  governance. This  fragmentation  weakens  the  effectiveness  of  educational  policies,  reducing  both  the quality  and  accessibility  of  education.  Furthermore,  the  system  suffers  from inadequate monitoring  mechanisms and unreliable  data ,  making  it  difficult  to  assess  educational outcomes, identify gaps, and ensure accountability.
 
-Without  accurate  data  and  robust  monitoring  systems,  it  becomes  challenging  to  track progress, evaluate the impact of educational reforms, or adjust policies as needed. As a result, interventions may be poorly targeted, and efforts to address inequities in education are less effective. To improve the education system, there is a need for stronger coordination among stakeholders, better data collection, and effective monitoring to ensure that policies are wellimplemented and that equitable educational opportunities are achieved for all students.
+Without  accurate  data  and  robust  monitoring  systems,  it  becomes  challenging  to  track progress, evaluate the impact of educational reforms, or adjust policies as needed. As a result, interventions may be poorly targeted, and efforts to address inequities in education are less effective. To improve the education system, there is a need for stronger coordination among stakeholders, better data collection, and effective monitoring to ensure that policies are well-implemented and that equitable educational opportunities are achieved for all students.
 
 #### Key Solutions:
 
-- Increase  Stakeholder  Involvement :  Engage  educators,  parents,  and  communities  in decision-making in education management.
+1. Increase Stakeholder Involvement: Engage educators, parents, and communities in decision-making in education management.
 
-- Enhance  Governance  Coordination :  Improve  cooperation  across  national  and  local authorities.
+2. Enhance Governance Coordination: Improve cooperation across national and local authorities.
 
-- Strengthen  Monitoring  Systems :  Develop  reliable  data  collection  and  evaluation systems to inform policy decisions and improve accountability.
+3. Strengthen Monitoring Systems: Develop reliable data collection and evaluation systems to inform policy decisions and improve accountability.
 
 ## III. Methods used to draw the attention of the various authorities in the country to the instruments
 
@@ -2124,7 +2093,7 @@ Without  accurate  data  and  robust  monitoring  systems,  it  becomes  challen
 
 For reference: UNESCO governing bodies have underlined the need for awareness raising. Given the importance of normative action at the national level, wide dissemination of the Convention must be ensured, with the support of National Commissions for UNESCO.
 
--The Thai National Commission for UNESCO collaborates with national specialized committees in UNESCO's key areas of focus to promote an integrated and cross-sectoral approach to education. These committees unite stakeholders from various sectors, such as education, science, social sciences, and  communication,  to  work  toward  common  educational  goals.  By  fostering  coordination  and collaboration among these diverse sectors, the committees are able to address complex educational challenges,  enhance  policy  implementation,  and  ensure  that  resources  are  allocated  effectively  to meet the diverse needs of all students.
+- The Thai National Commission for UNESCO collaborates with national specialized committees in UNESCO's key areas of focus to promote an integrated and cross-sectoral approach to education. These committees unite stakeholders from various sectors, such as education, science, social sciences, and  communication,  to  work  toward  common  educational  goals.  By  fostering  coordination  and collaboration among these diverse sectors, the committees are able to address complex educational challenges,  enhance  policy  implementation,  and  ensure  that  resources  are  allocated  effectively  to meet the diverse needs of all students.
 
 This  integrated  governance  model  enables  a  more holistic  and  adaptive  approach to  addressing educational issues. It ensures that education policies and initiatives are aligned with broader social and developmental goals, allowing for more efficient use of resources and better outcomes for students. The coordination between sectors strengthens the overall educational framework and helps create a more inclusive and effective system for learning.
 
