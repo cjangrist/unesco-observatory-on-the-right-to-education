@@ -4,6 +4,39 @@
 
 ## C o n t e n t s:
 
+I BASIC PROVISIONS ............................................................................................157
+The contents of the Law (Article 1) ....................................................................157
+Unique system (Article 2) ...................................................................................157
+The freedom of enrollment (Article 3).................................................................157
+Aims (Article 4)...................................................................................................157
+The organizers of education (Article 5) ..............................................................158
+The types and the manners of acquiring education (Article 6)...........................158
+The evidencing of knowledge and skills (Article 7) ............................................159
+Publicly valid education (Article 8) .....................................................................159
+Public documents (Article 9)...............................................................................159
+Scholarship (Article 10) ......................................................................................159
+Interpretation clause (Article 11) ........................................................................160
+II THE APPRENTICE IN EDUCATION ...................................................................160
+The status of apprentices in education (Article 12)............................................160
+Competition (Article 13)......................................................................................161
+The limitation of enrollment (Article 14)..............................................................161
+The enrollment based on the contract (Article 15).............................................161
+The rights of apprentices in education (Article 16).............................................161
+The characteristics of the organization of the adult education (Article 17) ........162
+The marking of apprentices in education (Article 18).........................................162
+III THE EDUCATIONAL CURRICULA....................................................................162
+The educational curricula (Article 19).................................................................162
+The adjusted educational curricula (Article 20)..................................................163
+The passing of the educational curricula (Article 21).........................................163
+The pilot curriculum (Article 22) .........................................................................164
+The execution of practical work (Article 23) .......................................................164
+On-the-job-training (Article 24)...........................................................................164
+The publishing of educational curriculum (Article 25) ........................................164
+IV THE CONDITIONS FOR THE EXECUTION OF
+EDUCATION ...........................................................................................................165
+The performers of educational curriculum (Article 26).......................................165
+Publications (Article 27)......................................................................................165
+
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
@@ -13,6 +46,20 @@ Law on the Adult Education
 156
 
 Ministry of Education and Science Montenegro
+
+V THE PLAN FOR THE ADULT EDUCATION.......................................................165
+The Plan for Education (Article 28) ....................................................................165
+The contents of the Plan for Education (Article 29) ...........................................166
+The allocation of educational curricula (Article 30) ............................................166
+The implementation of the Plan for Education (Article 31).................................166
+The contents of contract (Article 32) ..................................................................167
+The role of the Association (Article 33) ..............................................................167
+VI PENAL PROVISIONS........................................................................................167
+Violation and the punishments for violation (Article 34).....................................167
+VII TRANSITIONAL AND FINAL PROVISIONS ....................................................168
+The deadline for the passing of regulations (Article 35).....................................168
+The verification of the acquired knowledge (Article 36) .....................................168
+Coming into effect (Article 37)............................................................................168
 
 [[END OF PAGE 2]]
 
@@ -373,6 +420,7 @@ Public interest in the adult education shall be defined by the Plan for Adult Ed
 The Plan for Education referred to in paragraph 1 of this Article shall be passed  by  the  Government  of  the  Republic  at  the  proposal  of  the  competent Council
 
 In the course of the preparation of the Plan for Education, the Competent Council  shall  mandatory  obtain  the  opinions  of  the  Employment  Bureau,  the Association, the local self-government community bodies, as well as the opinions
+of interested Ministries.
 
 Ministry of Education and Science Montenegro
 
@@ -394,7 +442,7 @@ The Plan for Education referred to In Article 28 of this Law, shall:
 
 - define the infrastructure activities necessary for the execution of the adult education;
 
-- regulate the allocation of the educational curricula per local selfgovernment communities;
+- regulate the allocation of the educational curricula per local self-government communities;
 
 - regulate the approximate  amount  of  funds  that are needed  for its realization and designate the Ministries competent for its implementation;
 
