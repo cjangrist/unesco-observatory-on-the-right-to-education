@@ -22,13 +22,13 @@ The  1960  Convention  and  Recommendations  against  Discrimination  in Educati
 
 Education  2030  Agenda  set  the  SDG  of  ensuring  inclusive  and  equitable quality  education  and  promoting  lifelong  learning  opportunities  for  all  and  its related objectives.
 
-Since  the  adoption  of  Education  2030  Agenda,  the  DPRK  has  drawn nation-wide public attention to dynamically step up the effort to ensure inclusive and equitable quality education and promote lifelong learning opportunities for all and its related objectives This  report  includes  the  achievements  and  experience  gained  by  DPRK  in implementing the goal of Education 2030 Agenda in the period of 2017 to 2020, in conformity  with  Article  8  of  UNESCO  Charter  which  requires  that  each  of  its member states presents its regular report on the measures taken by it to implement the conventions and recommendation adopted by UNESCO.
+Since the adoption of Education 2030 Agenda, the DPRK has drawn nation-wide public attention to dynamically step up the effort to ensure inclusive and equitable quality education and promote lifelong learning opportunities for all and its related objectives
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-(this page came through the extractor with no text)
+This report includes the achievements and experience gained by DPRK in implementing the goal of Education 2030 Agenda in the period of 2017 to 2020, in conformity with Article 8 of UNESCO Charter which requires that each of its member states presents its regular report on the measures taken by it to implement the conventions and recommendation adopted by UNESCO.
 
 [[END OF PAGE 3]]
 
@@ -50,13 +50,15 @@ The DPRK has stipulated by law that all its citizens have the obligation for com
 
 The obligation of the entire population for secondary general education and the right to free education constitute the most basic guarantee for the implementation of  the  Education  2030  Agenda  targeting  inclusive  and  equitable education.
 
-Article  45  of  the  Socialist  Constitution  of  the  DPRK  stipulates,  'The  state shall develop  the universal 12-year compulsory  education  including  1-year pre-school education at high level to meet the trend of the development of modern science and technology and the practical requirements of socialist construction', and  Article  47  reads,  'The  state  shall  provide  all  students  with  free  access  to education and give scholarship to students of universities and specialized schools '.
+Article 45 of the Socialist Constitution of the DPRK stipulates, 'The state shall develop the universal 12-year compulsory education including 1-year
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-The  Law  of  the  DPRK  on  Education  adopted  by  Decree  No.  847  of  the Presidium of the Supremme People's Assembly on July 14, 1999 and revised and supplemented on Dec. 23, 2015 reads: All DPRK citizens shall have the obligation for  secondary  general  education  and  the  right  to  free  education.  All  forms  of education is free in the DPRK. Any educational establishment shall be prohibited to receive any fee for admission, lessons, internship, study tour and excursion from any student, his or her parents, or his or her guardian.
+pre-school education at high level to meet the trend of the development of modern science and technology and the practical requirements of socialist construction', and Article 47 reads, 'The state shall provide all students with free access to education and give scholarship to students of universities and specialized schools '.
+
+The Law of the DPRK on Education adopted by Decree No. 847 of the Presidium of the Supremme People's Assembly on July 14, 1999 and revised and supplemented on Dec. 23, 2015 reads: All DPRK citizens shall have the obligation for secondary general education and the right to free education. All forms of education is free in the DPRK. Any educational establishment shall be prohibited to receive any fee for admission, lessons, internship, study tour and excursion from any student, his or her parents, or his or her guardian.
 
 The DPRK defined by law that special attention shall be paid to the provision of technical and vocational education to all its citizens according to their hopes and aptitudes, as well as to women and people with disabilities.
 
@@ -84,13 +86,15 @@ The  DPRK  has  adopted  a  law  on  providing  in  a  responsible  way  the con
 
 The Law of the DPRK on General Education adopted by the Decision No. 1355 of the Presidium of the Supreme People's Assembly on Jan. 19, 2011 and revised  and  supplemented  on  Dec.  23,  2015  provides  that  the  state  shall  be responsible  for  the  conditions  of  education  and  living  for  parentless  children  or those without guardians, children with disabilities in seeing, hearing and speaking and other disabilities.
 
-Since  the  first  day  of  its  founding,  DPRK  has  taken  legal  and  institutional measures for preferential treatment and protection of persons with disabilities at the expense of the state.
+Since the first day of its founding, DPRK has taken legal and institutional measures for preferential treatment and protection of persons with disabilities at
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-The Law of the DPRK on Protection of Persons with Disabilities adopted by Decree No. 3835 of the Presidium of the Supreme People's Assembly on June 18, 2003 and amended on Nov. 21, 2013 provides the fundamentals for education of the persons with disabilities, the registration and care of pre-school children with disabilities,  their  enrollment,  their  right  to  higher  education,  organization  and operation of special schools for them, formulation of educational programme for them,  publication  of  special  educational  materials  for  them,  organization  and management of vocational schools for them, and development of the braille and sign  language.  It  also  includes  the  provisions  to  form  special  classes  in  general schools  or  establish  special  schools  like  schools  for  persons  with  disabilities  in hearing  and  seeing  and  mental  cultivation  schools  according  to  their  physical mental characteristics  and  types  of  disabilities.  It  also  stipulates  that  students  of special schools shall be given scholarship.
+the expense of the state.
+
+The Law of the DPRK on Protection of Persons with Disabilities adopted by Decree No. 3835 of the Presidium of the Supreme People's Assembly on June 18, 2003 and amended on Nov. 21, 2013 provides the fundamentals for education of the persons with disabilities, the registration and care of pre-school children with disabilities, their enrollment, their right to higher education, organization and operation of special schools for them, formulation of educational programme for them, publication of special educational materials for them, organization and management of vocational schools for them, and development of the braille and sign language. It also includes the provisions to form special classes in general schools or establish special schools like schools for persons with disabilities in hearing and seeing and mental cultivation schools according to their physical mental characteristics and types of disabilities. It also stipulates that students of special schools shall be given scholarship.
 
 With the  adoption  of  the  Law  of  the  DPRK  on  General  Education  and  the Law of the DPRK on Protection of Persons with Disabilities, the DPRK has laid a firm legal foundation for parentless children or those without guardians, children with disabilities in seeing, hearing and speaking and other disabilities to have the same  obligation  and  access  to  education  as  normal  children  and  make  positive contributions to the development of society.
 
@@ -120,11 +124,13 @@ The DPRK Government now works hard to the qualification of teachers at schools f
 
 ## 3. Perfection of Education System
 
-The DPRK Government ensures that the secondary general education system is improved and consolidated in line with the requirement of social development.
+The DPRK Government ensures that the secondary general education system
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+
+is improved and consolidated in line with the requirement of social development.
 
 DPRK has introduced the universal 12-year compulsory education since April 1, 2014. This system provides compulsory and free secondary general education to all children and students of the 5~17 age group throughout the country..
 
@@ -140,11 +146,13 @@ The  DPRK  Government  saw  to  it  that  the  number  of  higher  education ins
 
 Since  2017  the  number  of  factory,  farm  and  fishermen's  colleges  has increased, and  tens of technical and  vocational  colleges  have  been  newly established more.
 
-The  DPRK  Government  has  also  taken  measure  to  expand  the  distance education  courses  and  improve  their  quality,  and  thus  hundreds  of  thousands working people are now involved in the distance education system to acquire the scientific and technical knowledge conducive to their own production activities.
+The DPRK Government has also taken measure to expand the distance education courses and improve their quality, and thus hundreds of thousands working people are now involved in the distance education system to acquire the
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
+scientific and technical knowledge conducive to their own production activities.
 
 ## 4. Innovation of Teaching Content and Methods
 
@@ -162,13 +170,15 @@ Improvement of teaching mehtods is essential for giving quality education to all
 
 The  DPRK  Government  has  paid  special  attention  to  improvement  of teaching methods at schools in the rural and mountainous areas.
 
-It has tried hard to assist in different forms and ways the teachers in the rural and mountainous areas in their preparation for lessons and improvement of their qualification: in 2017 it sent over 6, 600 teachers in the urban areas to the schools in  the  rural  and  mountainous  areas  to  show  them  the  demonstration  lessons  for about 45,000 hours and organized for more than 6,900 teachers in the rural and mountainous  ares  the  observation  of  lessons  given  by  the  excellent  teachers  in urban areas. It has also made positive contributions to the improvement of teaching methods  by  providing  educational  multimedia  and  video  materials  of  model lessons to them on a regular basis.
+It has tried hard to assist in different forms and ways the teachers in the rural and mountainous areas in their preparation for lessons and improvement of their qualification: in 2017 it sent over 6, 600 teachers in the urban areas to the schools in the rural and mountainous areas to show them the demonstration lessons for
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
-Inclusive and equitable quality eduation presupposes the educational environment  in  which  high  level  of  education  is  given  to  students  according  to thier aptitudes and talents.
+about 45,000 hours and organized for more than 6,900 teachers in the rural and mountainous ares the observation of lessons given by the excellent teachers in urban areas. It has also made positive contributions to the improvement of teaching methods by providing educational multimedia and video materials of model lessons to them on a regular basis.
+
+Inclusive and equitable quality eduation presupposes the educational environment in which high level of education is given to students according to thier aptitudes and talents.
 
 Schools  of  different  forms  have  formed  various  circles  of  after-school activities to suit their specific features so that all students can fully develop their talent according to their aptitudes and talents. Throughout the country more than 49,200  circles  are  now  in  operation  for  physics,  chemistry,  robotics,  IT, Go , embroidery, etc.
 
@@ -178,13 +188,15 @@ To put education on more solid IT and scientific basis is important to ensure qu
 
 In 2017 Kim Hyong Jik University of Education, Kim Chaek University of Techonolgy  and  other  major  universities  with  strong  educational  and  scientific research forces have newly set up multimedia research sections which specialize in research and production of multimeda for primary and secondary education: they produce educational multimedia necessary for all subjects at schools of different forms  in  implementing  the  universal  12-year  compulsory  education  programme and distribute  them  to  general  education  institutions,  particularly  to  those  in  the rural and mountainous areas, helping them to raise their level of IT application to teaching.
 
-Homepage exclusively for education has been opened to distribute practical and  good  teaching  methods  to  all  schools  across  the  country  through  it,  thus contributing to narrowing the gap between urban and rural areas.
+Homepage exclusively for education has been opened to distribute practical
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
-And  they  produced  video  mulimedia  for  primary,  junior  and  senior  middle schools to be distributed to all students throughout the country so that they can do proper  self-study  while  strictly  observing  the  anti-epidemic  rules  to  prevent  the inflow and spread of COVID-19.
+and good teaching methods to all schools across the country through it, thus contributing to narrowing the gap between urban and rural areas.
+
+And they produced video mulimedia for primary, junior and senior middle schools to be distributed to all students throughout the country so that they can do proper self-study while strictly observing the anti-epidemic rules to prevent the inflow and spread of COVID-19.
 
 The  DPRK  Government  pays  profound  attention  to  providing  parentless children with the conditions for their learning and living.
 
@@ -200,11 +212,13 @@ The DPRK Government has made energetic efforts to raise the material and technol
 
 It has continued to pay deep attention and channel great efforts to providing better educational environment to all its citizens.
 
-Improvement  of  educational  environment  as  required  by  the  century  is  to create  material  preconditions  for  inclusive  and  equitable  quality  education,  the SDG included in Education 2030 Agenda.
+Improvement of educational environment as required by the century is to create material preconditions for inclusive and equitable quality education, the
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+SDG included in Education 2030 Agenda.
 
 Above all, the DPRK Government has made dynamic efforts to provide better environment for social education to all its citizens.
 
@@ -218,13 +232,15 @@ And since 2017, according to the year-to-year plan, it has newly built or rebuil
 
 In  particular,  it  has  made  full  investigation  into  the  conditions  of  school buildings  in  the  rural  and  mountainous  areas  and  provided  necessary  labour, materials  and  fund  preferentially  to  them.  Accordingly,  since  2017  hundreds  of schools  have  been  newly  built  or  modernized  every  year.  And  all  schools  are connected to the national network so that they can share educational resources.
 
-It  built,  as  models of teachers training centers, Pyongyang Teachers Training College in 2017 and Kanggye TeachersvTraining College in 2019. With them as an  example,  each  of  the  provinces  is  now  stepping  up  the  construction  of  its teachers training college at the final stage.
+It built, as models of teachers training centers, Pyongyang Teachers Training College in 2017 and Kanggye TeachersvTraining College in 2019. With them as an example, each of the provinces is now stepping up the construction of its
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
-In addition, Kim Il Sung University and other universities have newly built or rebuilt their buildings  in  a  modern  way,  e-libraries  and  dormitories,  and equipped  themselves  with  computers  and  other  modern  teaching  means  in  a proactive way, thus raising the training of talents onto a higher phase.
+teachers training college at the final stage.
+
+In addition, Kim Il Sung University and other universities have newly built or rebuilt their buildings in a modern way, e-libraries and dormitories, and equipped themselves with computers and other modern teaching means in a proactive way, thus raising the training of talents onto a higher phase.
 
 Up  to  2018  the  DPRK  Government  has  newly  built  9  children's  homes,  10 primary  boarding  schools  and  10  secondary  boarding  schools,  and  ensured  that they are provided with vegetable and fruit on a regular basis to improve nutritional management there.
 
