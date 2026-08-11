@@ -2,9 +2,76 @@
 
 # TABLE OF CONTENTS
 
+Abbreviations and Acronyms iii
+A Clarion Call on Lesotho’s Vision 2020 v
+Foreword vi
+Preface viii
+Executive Summary x
+CHAPTER 1 1
+PURPOSE AND RATIONALE 1
+1.1 Introduction 1
+1.2 The Process 1
+1.2.1 Political Commitment 1
+1.2.2 Consultations 2
+1.2.3 The Preparation of the Document 2
+1.3 Methodology 2
+1.4 The Structure of the Document 3
+CHAPTER 2 4
+LESOTHO VISION 2020 4
+2.1 Introduction 4
+2.2 The Lesotho Vision 2020 statement 4
+2.3 Description of the Vision 4
+2.3.1 A Stable Democracy 4
+2.3.2 A United Nation 5
+2.3.3 A Nation at Peace with Itself and Its Neighbours 5
+2.3.4 A Healthy and Well Developed Human Resource Base 5
+2.3.5 A Strong Economy and Prosperous Nation 6
+2.3.6 A Well Managed Environment 7
+2.3.7 A Well Established Technology 7
+2.4 Conclusion 8
+CHAPTER 3 9
+THE DEVELOPMENT ENVIRONMENT 9
+3.1 Introduction 9
+3.2 Assessment of the Development Performance 9
+3.2.1 A Stable Democracy 10
+3.2.2 A United Nation 12
+3.2.3 A Nation at Peace with itself and its neighbours 12
+3.2.4 A Healthy and Well Developed Human Resource Base 13
+3.2.5 A Strong Economy and Prosperous Nation 14
+3.2.6 A Well Managed Environment 19
+3.2.7 A Well Established Technology 20
+3.3 Strengths, Weaknesses, Opportunities and Threats (SWOT) 20
+3.4 Summary of the Challenges 21
+CHAPTER 4 23
+SCENARIO ANALYSIS 23
+4.1 Introduction 23
+4.2 Four Scenarios 23
+4.3 The Preferred Scenario 27
+4.4 Conclusion 27
+CHAPTER 5 29
+NATIONAL DEVELOPMENT STRATEGY 29
+5.1 Introduction 29
+5.1.1 The Grand Strategy 29
+5.1.2 Thematic Strategies 30
+
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+CHAPTER 6 43
+IMPLEMENTATION, MONITORING AND EVALUATION 43
+6.1 Introduction 43
+6.2 Implementation, Monitoring and Evaluation 43
+6.3.1 Implementation 43
+6.3.2 Monitoring and Evaluation 44
+6.3.3 Indicators and Implementation Plan 45
+6.3 Vision Supporting Institutions Error! Bookmark not defined.
+6.3.1 Functions of Vision Supporting Institutions 48
+6.3.2 Implementation, Monitoring and Evaluation Plan 49
+Annexes
+Annex 1: Lesotho Vision 2020: Critical Success Factors 51
+Annex 2: Scenario Drivers and Assumptions 52
+Annex 3: Summary of SWOT 53
 
 ii
 
@@ -305,7 +372,7 @@ v
 
 # FOREWORD
 
-Our history shows that towards the end of the 18 th Century, Lesotho was a country of stunning  beauty.  Its  towering  mountains  and  rugged  hills,  the  undulating  plains  and gorgeous valleys,  punctuated  by  an  elaborate  system  of  sinuous  rivers  and  streams, and richly endowed with a variety of indigenous grasses, all combined to make it a land of extreme beauty and splendour. On this land prowled a unique assortment of animals, and a variety of birds, big and small, grazed its skies. Indeed, Lesotho was, in those days, a country of unparalleled elegance and striking beauty.
+Our history shows that towards the end of the 18th Century, Lesotho was a country of stunning  beauty.  Its  towering  mountains  and  rugged  hills,  the  undulating  plains  and gorgeous valleys,  punctuated  by  an  elaborate  system  of  sinuous  rivers  and  streams, and richly endowed with a variety of indigenous grasses, all combined to make it a land of extreme beauty and splendour. On this land prowled a unique assortment of animals, and a variety of birds, big and small, grazed its skies. Indeed, Lesotho was, in those days, a country of unparalleled elegance and striking beauty.
 
 Although at that time agriculture was already the backbone of Lesotho's economy, the discovery  of  diamond  at  Kimberly  created  an  unprecedented  demand  for  grain, especially wheat, as people came from all over Southern Africa to find employment on the mine. Basotho farmers responded with impressive verve to this increase in demand. They switched quickly from the production of sorghum to wheat, and  made commendable adjustments in their modes of transport, from draft animals to large carts drawn by cattle. Lesotho quickly became known as the Granary of Southern Africa . At this time there was no question of food insecurity.
 
@@ -341,7 +408,7 @@ Our Vision 2020 Document presents a broad perspective framework of how Basotho, 
 
 This  document  thus  represents  a  major  improvement  over  these  inadequacies  of  the past.  It  is  not  only  all  encompassing  and  sufficiently  long-term  in  nature,  it  is  also  a product of discussions with Basotho from all walks of life. Consultations were done at the  village,  community,  district  and  central  levels.  Focus  groups  included  political leaders,  chiefs,  Members  of  Parliament,  district  councils,  youth  groups,  people  with disabilities, public servants and students. The Steering Committee that compiled it was itself  made  up  of  representatives  from  all  sectors  of  our  society.  In  a  nutshell,  this document truly reflects the wishes and aspirations of Basotho. Most important of all, the nation  came  together  in  the  dialogue  of  June  2004,  and  unanimously  adopted  this document as the framework within which all future national plans will be placed.
 
-Lesotho's  Vision  2020  document  identifies  seven  pillars  of  development.  These  are democracy, unity, peace, education and training, economic growth, management of the environment, and advancement in technology. These pillars are key components of the vision statement. Based on an assessment of past development trends, and an analysis of  the  pertinent  strengths, weaknesses, opportunities and threats, the document goes on  to  identify  factors  that  are  pivotal  in  Lesotho's  development.  These  are  political commitment, foreign direct investment, and public sector management. These factors are  then  used  to  develop  four  possible  scenarios;  namely, melupe,  khomo-ha-li-kaebatho-re-ba-ngata, metse-e-metle-liotloana, and lesupi.
+Lesotho's  Vision  2020  document  identifies  seven  pillars  of  development.  These  are democracy, unity, peace, education and training, economic growth, management of the environment, and advancement in technology. These pillars are key components of the vision statement. Based on an assessment of past development trends, and an analysis of  the  pertinent  strengths, weaknesses, opportunities and threats, the document goes on  to  identify  factors  that  are  pivotal  in  Lesotho's  development.  These  are  political commitment, foreign direct investment, and public sector management. These factors are  then  used  to  develop  four  possible  scenarios;  namely, melupe,  khomo-ha-li-kae-batho-re-ba-ngata, metse-e-metle-liotloana, and lesupi.
 
 Having identified the vision, together with the different possible scenarios, the document suggests two groups of strategies to achieve the vision. The first group comprises grand strategies  that  target  the  three  key  factors  of  political  commitment,  foreign  direct investment,  and  public  sector  management;  while  the  second  group  is  made  up  of thematic  strategies  that  target  the  seven  pillars  mentioned  above.  The  document concludes by identifying concrete actions that need to be carried out, the key players and mechanisms by which the whole process will be monitored.
 
@@ -429,7 +496,7 @@ Lesotho is envisaged to be a united nation by 2020. The role of the Monarchy is 
 
 Lesotho  is  a nation  at  peace  with  itself  and  its  neighbours. Evidence  of  internal peacefulness of Lesotho lies in: the known peace-loving nature of Basotho, the fact that Basotho are a nation with Sesotho as the main language and a shared history, culture and  traditions.  Lesotho  is  also  at  peace  with  her  SADC  and  African  neighbours. However, the country still faces the challenge to promote political tolerance, and combat the current rate of internal and cross-border stock theft, crime and armed robberies all of which deprive communities of the necessary state of peace.
 
-The  Government's  efforts  to  address  good  health,  the  HIV  and  AIDS  pandemic  and education  are  indicative  of  a  commitment  to  the  attainment  of a  healthy  and  welldeveloped human resource base by 2020. With regard to health , Lesotho has made remarkable  progress  in  providing  access  to  social  infrastructure,  including  access  to safe  drinking  water.  Challenges  include  equitable  distribution  of  health  facilities  and strengthening the health institutions for efficient and effective service delivery.
+The  Government's  efforts  to  address  good  health,  the  HIV  and  AIDS  pandemic  and education  are  indicative  of  a  commitment  to  the  attainment  of a  healthy  and  well-developed human resource base by 2020. With regard to health , Lesotho has made remarkable  progress  in  providing  access  to  social  infrastructure,  including  access  to safe  drinking  water.  Challenges  include  equitable  distribution  of  health  facilities  and strengthening the health institutions for efficient and effective service delivery.
 
 The Government of Lesotho recognises that HIV and AIDS is not only a health problem but a multi-sectoral development  issue that has social, economic  and  cultural implications. Combating further spread of HIV and AIDS therefore continues to be one of the biggest challenges that face the country.
 
@@ -449,7 +516,7 @@ respectively. Since the 1970s, the economy has been transformed from one dominat
 
 Notwithstanding  higher-than-average  growth  over  many  years,  the  challenge  at  the macro-economic level is to sustain strong investment levels,  driven  by  high  domestic saving rates as well as access to international credit markets. This will call for prudent economic and financial sector policies, firstly to promote domestic resource mobilisation and secondly, to retain  access  to  international  financial  markets.  Negotiation  of  trade agreements  and  bilateral  and  multilateral  cooperation agreements,  membership  of regional bodies such as CMA, SACU, SADC and retention of support of development partners are a few key actions that Lesotho has undertaken to integrate into the global economic order.
 
-Employment  creation  and  prosperity are  of  national  importance  within  the  macroeconomic  performance  in  Lesotho.  Challenges  facing  Lesotho  include  the  need  to address the depth and severity of poverty which increased during the periods 1986/87 and 1994/95.
+Employment  creation  and  prosperity are  of  national  importance  within  the  macro-economic  performance  in  Lesotho.  Challenges  facing  Lesotho  include  the  need  to address the depth and severity of poverty which increased during the periods 1986/87 and 1994/95.
 
 Lesotho  aspires  to  have a  well-managed  environment by  2020.  The  country  has signed and  ratified several Multilateral  Environmental  Agreements  (MEAS).  The spectacular scenery  of the Lesotho  highlands, the  country's  unique  ecosystem, biodiversity and heritage offer a great potential for the country's tourism opportunities.
 
@@ -481,6 +548,10 @@ xiv
 
 [[START OF PAGE 15]]
 
+# CHAPTER 1
+
+## PURPOSE AND RATIONALE
+
 ### 1.1 Introduction
 
 Since independence, Lesotho has used medium-term planning as the key instrument for coordinating  development  activities  in  the  country.  The  six  development  plans  that  have been implemented so far had planning horizons that did not go beyond five years. In 2000 the country took a policy decision to formulate Lesotho Vision 2020 to provide a long-term perspective  within  which  short  to  medium-term  plans  could  be  formulated.  The  specific objectives of the Lesotho Vision 2020 are to:
@@ -503,11 +574,7 @@ The process of developing the Lesotho Vision 2020 went through three stages, nam
 
 #### 1.2.1 Political Commitment
 
-In his call from the Throne on 31 December, 2000, His Majesty King Letsie III called on all Basotho  to  work  together  towards  developing  a  Vision  to  guide  the  country's  economic development in the years to come. 'This mammoth task ' has become necessary because
-
-# CHAPTER 1
-
-## PURPOSE AND RATIONALE
+In his call from the Throne on 31 December, 2000, His Majesty King Letsie III called on all Basotho  to  work  together  towards  developing  a  Vision  to  guide  the  country's  economic development in the years to come. “This mammoth task” has become necessary because
 
 1
 
@@ -515,7 +582,7 @@ In his call from the Throne on 31 December, 2000, His Majesty King Letsie III ca
 
 [[START OF PAGE 16]]
 
-'development  in  all  aspects  of  our  life  has stalled.' Following  this  call,  The  Right Honourable the Prime Minister, met with all the leaders of political parties and secured their support for, and commitment to, the vision process.
+“development  in  all  aspects  of  our  life  has stalled.” Following  this  call,  The  Right Honourable the Prime Minister, met with all the leaders of political parties and secured their support for, and commitment to, the vision process.
 
 #### 1.2.2 Consultations
 
@@ -561,6 +628,10 @@ The rest of the document is structured as follows: Chapter 2 presents the Lesoth
 
 [[START OF PAGE 18]]
 
+# CHAPTER 2
+
+## LESOTHO VISION 2020
+
 ### 2.1 Introduction
 
 This Chapter presents the Lesotho Vision 2020 statement and describes its components. The  Vision  statement  was  adopted  from  the  First  National  Dialogue.  The  description  of Lesotho  Vision  components  is  based  on  the  aspirations  of  the  Basotho  people.  The components are: a stable democracy, a united nation, a nation at peace with itself and its neighbours, a healthy and well developed human resource base, a strong economy and prosperous nation, a well managed environment as well as a well advanced technology.
@@ -578,10 +649,6 @@ By the year 2020 Lesotho shall be a stable democracy, a united and prosperous na
 By  the  year  2020,  Lesotho  shall  be  a  stable  democracy  where  the  principles  of  good governance  will  be  anchored  on  the  respect  for  human  rights,  the  rule  of  law,  political openness, political participation and tolerance. This form of governance will be based on five pillars of democracy which include: supremacy of the will of the people, transparency, a devoted and efficient public service, justice for all and efficient chieftainship.
 
 In  addition,  Lesotho  will  have  a  well-established  system  of  local  governance  with  full ownership and participation of the majority in decision making and local development. The country  will  have  a  clear  direction  in  policy  development,  strategic  thinking  and  foresight and programme planning. Lesotho will be known for good governance driven by effective
-
-# CHAPTER 2
-
-## LESOTHO VISION 2020
 
 4
 
@@ -681,6 +748,10 @@ The  chapter  has  presented  the  Lesotho  Vision  2020  statement  and  descri
 
 [[START OF PAGE 23]]
 
+# CHAPTER 3
+
+## THE DEVELOPMENT ENVIRONMENT
+
 ### 3.1 Introduction
 
 This  Chapter  reviews  trends  in  the  development  performance  of  Lesotho.  The  review identifies key trends, events and challenges in different sectors of the economy, looking at both  the  internal  and  external  environment.  The  section  further  seeks  to  identify  and prioritise the strengths, weaknesses, opportunities and threats that should inform strategic choices in Lesotho.
@@ -709,10 +780,6 @@ This  section  reviews  the  key  aspects  of  the  internal  environment  as  t
 
 -Well established technology = (information, communication, science, technology)
 
-# CHAPTER 3
-
-## THE DEVELOPMENT ENVIRONMENT
-
 9
 
 [[END OF PAGE 23]]
@@ -735,7 +802,7 @@ Development management capacity together with local governance and popular parti
 
 ###### i) Development Management Capacity
 
-In  addition  to  the  regular  five-year  national  development  plans  which  have  recently  been changed to three year rolling plans, the country has also developed  comprehensive longterm  plans,  namely, Action  Programme  for  Development  of  Lesotho  2001-2010,  The Strategic Options study; and The Pathway out of Poverty.
+In  addition  to  the  regular  five-year  national  development  plans  which  have  recently  been changed to three year rolling plans, the country has also developed  comprehensive long-term  plans,  namely, Action  Programme  for  Development  of  Lesotho  2001-2010,  The Strategic Options study; and The Pathway out of Poverty.
 
 Lesotho  has  embarked  on  the  Public  Sector  Improvement  and  Reform  Programme (PSIRP).  This  programme  represents  the  Government's  framework  for  public  sector improvement  and  reform  in:  Good  Governance,  Financial  Management  and  Budgeting, Human Resources Management, Administration of Justice, Restructuring and Rationalisation  of  Ministries,  Departments  and  Agencies,  Decentralisation  and  Local Government, and Delivery of Services. The first phase of the programme focuses on three areas,  namely,  improving  financial  management  and  accountability,  improving  public service management, and decentralisation for service delivery.
 
@@ -789,7 +856,7 @@ The  greatest  challenge  is  to  inculcate  the  spirit  of  patriotism  in  al
 
 #### 3.2.3   A Nation at Peace with itself and its neighbours
 
-Basotho  are  a  peace  loving  nation.  This  peacefulness  is  embedded  in  the  greeting ' Khotso'meaning  ' Peace'. Their  peacefulness  is  reinforced  by  the  fact  that  they  are  a nation with Sesotho as the main language and a shared history, culture and traditions. The new  electoral  system  which  is  a  combination  of  first-past-the-post  and  proportional representation  has  brought  about  more  political  party  representation  in  parliament  and, thereby more political calm and peace.
+Basotho are a peace loving nation. This peacefulness is embedded in the greeting “Khotso”- meaning ‘Peace’. Their peacefulness is reinforced by the fact that they are a
 
 12
 
@@ -797,7 +864,9 @@ Basotho  are  a  peace  loving  nation.  This  peacefulness  is  embedded  in  t
 
 [[START OF PAGE 27]]
 
-However, a number of challenges have to be addressed. Firstly, there is a need to combat the current rate of internal and cross-boarder stock theft, crime and armed robbery which deprive  communities  of  the  necessary  state  of  peace.  The  second  challenge  concerns improvement of political tolerance, conflict and dispute resolution mechanisms.
+nation with Sesotho as the main language and a shared history, culture and traditions. The new electoral system which is a combination of first-past-the-post and proportional representation has brought about more political party representation in parliament and, thereby more political calm and peace.
+
+However, a number of challenges have to be addressed. Firstly, there is a need to combat the current rate of internal and cross-boarder stock theft, crime and armed robbery which deprive communities of the necessary state of peace. The second challenge concerns improvement of political tolerance, conflict and dispute resolution mechanisms.
 
 #### 3.2.4  A Healthy and Well Developed Human Resource Base
 
@@ -903,12 +972,12 @@ Table 3.1 below shows that the volume of FDI to Lesotho increased significantly 
 
 [[START OF PAGE 31]]
 
+Table 3.1 Lesotho: Selected indicators of FDI
+
 Indicator | 1990-1995 Average | 1996 | 1997 | 1998 | 1999 | 2000 | 2001
 --- | --- | --- | --- | --- | --- | --- | ---
 FDI Inflows (Millions of dollars) | 213 | 286 | 269 | 262 | 163 | 119 | 118
 FDI inflow as % of gross fixed capital formation | 44.4 | 52.0 | 47.8 | 60.2 | 37.7 | 31.1 | N/A*
-
-Table 3.1 Lesotho: Selected indicators of FDI
 
 Source: UNCTAD: World Investment Report 2002. Annex Table B.1
 
@@ -948,7 +1017,7 @@ The challenge is therefore to develop this sector for it to make a meaningful co
 
 ##### e) Prosperity
 
-The  UNDP  Human  Development  Report  2002  classifies  Lesotho  among  the  medium human development countries and ranks it 132nd out of the 173 countries on the Human Development Index. In 2000 Lesotho ranked 127 th out of 174 countries.
+The UNDP Human Development Report 2002 classifies Lesotho among the medium human development countries and ranks it 132nd out of the 173 countries on the Human Development Index. In 2000 Lesotho ranked 127th out of 174 countries.
 
 The Bureau of Statistics-University of Natal study based on the 1986/87 and the 1994/95 Household Budget Survey (Table 3.2) revealed that the percentage of people living below the  national  poverty  line  remained  unchanged  at  around  58%  between  1987  and  1995. While the incidence of poverty improved marginally between 1986/7 and 1994/5, the depth and severity of poverty increased during the period as Table 3.2 below shows.
 
@@ -958,14 +1027,14 @@ The Bureau of Statistics-University of Natal study based on the 1986/87 and the 
 
 [[START OF PAGE 33]]
 
+Table 3.2 Incidences, Severity and Depth of Poverty (1986/7 and 1994/5)
+
 Poverty Line (PL) | Ultra Poverty Line (1/2 PL)
 --- | --- | --- | --- | ---
 1986/7 (%) | 1994/5 (%) | 1986/7 (%) | 1994/5 (%)
 Incidence | 58.8 | 58.3 | 34.7 | 38.6
 Depth | 32.8 | 35.4 | 17.7 | 21.4
 Severity | 22.8 | 25.9 | 11.8 | 14.9
-
-Table 3.2 Incidences, Severity and Depth of Poverty (1986/7 and 1994/5)
 
 Source:  Bureau  of  Statistics  -  University  of  Natal  estimates  based  on  the  1986/87  and  the  1994/95 Household Budget Surveys
 
@@ -979,7 +1048,7 @@ The key challenge for Lesotho is to bridge the gap between the poor and the rich
 
 Lesotho  has  signed  and  ratified  several  Multilateral  Environmental  Agreements  (MEAs). The National Environmental Action Plan (NEAP) was formulated in 1988 and updated in 1999 to integrate environmental issues into economic development. The Environment Act was  enacted  in  2001  to  provide  an  overall  legal  and  regulatory  framework  for  setting environmental standards, Environmental Impact Assessment  (EIA), procedures and compliance for the agreements. The implementation of this Act will begin as soon as all necessary structures such as Lesotho Environment Authority have been established.
 
-The  spectacular  scenery  of  the  Lesotho  highlands,  the  country's  unique  ecosystem, biodiversity  and  heritage  offer  the  country  tourism  opportunities  and  great  potential.  The Ministry  of  Tourism,  Environment  and  Culture  collaborates  with  the  newly  established Lesotho  Tourism  Development  Corporation  (LTDC)  to  harness  this  potential.  Renewable energy  technologies  upon  which  the  majority  of  Basotho  people  depend  and  which  are environmentally friendly, supply very little energy in the country. Lesotho is endowed with rich water sources and water is one of the revenue earning resources.
+The spectacular scenery of the Lesotho highlands, the country's unique ecosystem, biodiversity and heritage offer the country tourism opportunities and great potential. The Ministry of Tourism, Environment and Culture collaborates with the newly established
 
 > 3 The Gini index measures the extent to which the distribution of income (or consumption) among individuals or households within a country deviates from a perfectly equal distribution. A value of 0 represents perfect equality, a value of 100 perfect inequality.
 
@@ -989,7 +1058,9 @@ The  spectacular  scenery  of  the  Lesotho  highlands,  the  country's  unique 
 
 [[START OF PAGE 34]]
 
-Lesotho  is  however  faced  with  the  challenges  of:  effecting  the  ratified  conventions  and treaties  for  sustainable  development,  strengthening  institutions  responsible  for  natural resources  management,  development  and  effective  implementation  of  land  management systems,  controlling  harvesting  of  natural  resources,  and  improvement  of  effluent  and waste management.
+Lesotho Tourism Development Corporation (LTDC) to harness this potential. Renewable energy technologies upon which the majority of Basotho people depend and which are environmentally friendly, supply very little energy in the country. Lesotho is endowed with rich water sources and water is one of the revenue earning resources.
+
+Lesotho is however faced with the challenges of: effecting the ratified conventions and treaties for sustainable development, strengthening institutions responsible for natural resources management, development and effective implementation of land management systems, controlling harvesting of natural resources, and improvement of effluent and waste management.
 
 #### 3.2.7  A Well Established Technology
 
@@ -1097,6 +1168,10 @@ The  following challenges have been  gleaned from the above  assessment  of the 
 
 [[START OF PAGE 37]]
 
+# CHAPTER 4
+
+## SCENARIO ANALYSIS
+
 ### 4.1 Introduction
 
 In  assessing  the  development  prospects  of  Lesotho  in  the  long-term  it  is  important  to forecast the environment within which the development process will evolve in future using futures  studies  and  scenario  analysis.  Short-term  forecasting  methods  are  not  effective over a period as long as 20 years.
@@ -1114,10 +1189,6 @@ In  forecasting  the  environment  within  which  the  development  process  cou
 - Scenario 2: Political stability, effective public sector management and declining investment (the Khomo ha li kae batho re bangata Scenario).
 
 - Scenario 3: Political stability, favourable trends in investment and weak public sector management (the Metse e metle liotloana Scenario).
-
-# CHAPTER 4
-
-## SCENARIO ANALYSIS
 
 23
 
@@ -1217,13 +1288,15 @@ The Melupe scenario, which is the best-case scenario, portrays the desired futur
 
 The  unfolding  of  these  scenarios  could  be  influenced  by  actions  and  inactions  of government  departments  regarding  the  implementation  of  policies  and  programmes  in important  areas  such  as  HIV  and  AIDS,  education,  environmental  management,  and relations with the Republic of South Africa. These scenarios are not predictions. They are possible pathways that the future development of Lesotho could take, depending on some key assumptions.
 
-What  the  scenarios  show  is  that  a  critical  uncertainty  in  Lesotho's  future  development relates  to  the  capacity  of  government  to  provide  sustained  support  to  the  country's development process, and the country's ability to stimulate local investment, attract foreign direct investment, and improve access to export markets.
+What the scenarios show is that a critical uncertainty in Lesotho's future development relates to the capacity of government to provide sustained support to the country's
 
 27
 
 [[END OF PAGE 41]]
 
 [[START OF PAGE 42]]
+
+development process, and the country's ability to stimulate local investment, attract foreign direct investment, and improve access to export markets.
 
 28
 
@@ -1251,7 +1324,7 @@ The grand strategy for Lesotho Vision 2020 addresses the following three key iss
 
 - How to strengthen development management capacity.
 
-As an over-arching national development strategy, the grand strategy deals with political commitment and sustained support for the Lesotho Vision 2020. This is crucial especially given the volatile political history of Lesotho, which was characterized by discontinuity and violence  as  governments  changed  one  from  the  other.    Establishment  of  appropriate structures will therefore, enhance the implementation of the Lesotho Vision 2020.
+As an over-arching national development strategy, the grand strategy deals with political commitment and sustained support for the Lesotho Vision 2020. This is crucial especially given the volatile political history of Lesotho, which was characterized by discontinuity and
 
 29
 
@@ -1259,7 +1332,9 @@ As an over-arching national development strategy, the grand strategy deals with 
 
 [[START OF PAGE 44]]
 
-Sustaining  high  levels  of  local  and  foreign  direct  investment  and  strengthening  business linkages  is  imperative.  Thus,  there  are  comprehensive  strategies  on  how  the  country should accomplish this important goal. Finally, the grand strategy deals comprehensively with development management, which is one of the key challenges that the country faces.
+violence as governments changed one from the other. Establishment of appropriate structures will therefore, enhance the implementation of the Lesotho Vision 2020.
+
+Sustaining high levels of local and foreign direct investment and strengthening business linkages is imperative. Thus, there are comprehensive strategies on how the country should accomplish this important goal. Finally, the grand strategy deals comprehensively with development management, which is one of the key challenges that the country faces.
 
 Matrices 5.1 to 5.3 present the strategic actions, monitoring indicators,  means  of verification, and the main actors.
 
@@ -1331,6 +1406,10 @@ Strategic Action | Indicators | Means of Verification | Main Actors
 
 [[START OF PAGE 48]]
 
+##### Matrix 5.4
+
+###### A Stable Democracy
+
 Strategic Actions | Indicators | Means of Verification | Main Actors
 --- | --- | --- | ---
 1. Develop and promote visionary leadership in the country | - Quality of leaders decisions - Number of disciplinary cases on breach of conduct - Number of leaders effectively trained | Code of conduct Evaluation & Monitoring reports | Civil society, Prime Minister's office and College of chiefs
@@ -1343,9 +1422,6 @@ Strategic Actions | Indicators | Means of Verification | Main Actors
 8. Promote gender equality. | - % of women in Parliament, in decision making positions - | - Revised laws - Labour statistics | Civil Society, Ministry of Gender, Youth, Sports & Recreation and Parliament
 9. Implement the Local Government Act | - Functional Local Government Structures | - Policy Document | Ministry of Local Government, Chiefs, Civil Society and CBOs
 10. Strengthen chieftainship as an institution of governance | - Effective local governance structures - Opinion Survey results | - Records | Ministry of Local Government and College of Chiefs
-
-##### Matrix 5.4
-###### A Stable Democracy
 
 34
 
@@ -1446,7 +1522,7 @@ Strategic Action | Indicators | Means of Verification | Main Actors
 
 7. Improve food security and overcome hunger - Combat wide-spread stock theft. - Diversification into cash crops - Revision of land tenure system - Advance irrigation methods and effective extension service. | - ha. of cultivated land and yield - % of land under irrigation - Crop diversification - Number of farmers per extension worker | - Agricultural statistics | Ministry of Agriculture & Food Security and Private sector
 --- | --- | --- | ---
-8. Reallocate government resources to expenditure with higher impact on poverty. - Develop and implement a Policy on social security and safety nets - Develop safety nets for Aids orphans | - Increased budget Social Welfare budget - Social Welfare and Protection Policy | Ministry of Finance and Development Planning Ministry of Health and Social Welfare
+8. Reallocate government resources to expenditure with higher impact on poverty. - Develop and implement a Policy on social security and safety nets - Develop safety nets for Aids orphans | - Increased budget Social Welfare budget - Social Welfare and Protection Policy |  | Ministry of Finance and Development Planning Ministry of Health and Social Welfare
 
 40
 
@@ -1574,7 +1650,7 @@ A wide range of monitoring indicators has been identified for monitoring progres
 
 ###### Monitoring Components of the Lesotho Vision 2020
 
-Vision Component | Indicator | Baseline | Goal 2010 | 2016
+Vision Component | Indicator | Baseline | Goal 2010 | 2016 | 2020
 --- | --- | --- | --- | --- | ---
 Stable democracy | - Civil liberties - Political Rights - Press Freedom - Rule of Law - Voter Turnout - Corruption Perceptions Index - Polity Score | 4 (2000) 4 (2000) 52 (2000) -0.19 (2000-2001) 74% (1998) - Not Available - (2000) | 3.5 3.5 47 0 79 4 2 | 3 3 42 0.05 84 7 4 | 2.5 2.5 37 1 89 10 6
 United nation | - Opinion survey - Stable and professional Security Establishments | - (2002) 45% (2003) | 1 58.5% | 2 64.5% | +2 70%
@@ -1587,10 +1663,10 @@ Healthy and well developed human resource base | - Human Development Index (HDI)
 
 [[START OF PAGE 61]]
 
-Strong economy and Prosperous nation | - GDP growth rate - Consumer Price Index change - Economic Freedom Index - Share of Secondary sector to GDP - Competitiveness Index - Investment as % of GNP - Saving as % of GNP - Exports of goods and services as % of GDP - Imports of goods and services as % of GDP - Current Account Balance as % of GNI - Fiscal Balance as % of GDP - Level of external reserves - Debt Service Ratio - Human Poverty Index - % of popn. below poverty line - Gini Index - Per capita GNI - Unemployment rate - Household Food Security | 3.8% (2003) 6.1% (2000) 3.35 (2003) 40% (2000/01) Not available 33% (excl. LHWP) (1997-2001) 20% (1997-2001) 28% (2000) 88% (2000) 7.9% (2003) 4.2% (2003) 6 months 26(2000) 58%(2000) 57% (1996) $550 (2001) 31% (1999) 10% h/h in commercial intensive livestock production (1997) | 3.5% 6.1 % 3.22 55% 39% 35% 35% 82% 6 months 21 44% 50% $600 29.5% 25% | 7% 6.0% 3.10 70% 45% 45% 41% 75% 6 months 15 29% 40% $650 18.0% 30% | 7% 5.9% 2.97 70% 51% 55% 48% 70% 6 months 10 15% 25% $700 15.% 35%
+Strong economy and Prosperous nation | - GDP growth rate - Consumer Price Index change - Economic Freedom Index - Share of Secondary sector to GDP - Competitiveness Index - Investment as % of GNP - Saving as % of GNP - Exports of goods and services as % of GDP - Imports of goods and services as % of GDP - Current Account Balance as % of GNI - Fiscal Balance as % of GDP - Level of external reserves - Debt Service Ratio - Human Poverty Index - % of popn. below poverty line - Gini Index - Per capita GNI - Unemployment rate - Household Food Security - Irrigation | 3.8% (2003) 6.1% (2000) 3.35 (2003) 40% (2000/01) Not available 33% (excl. LHWP) (1997-2001) 20% (1997-2001) 28% (2000) 88% (2000) 7.9% (2003) 4.2% (2003) 6 months 26(2000) 58%(2000) 57% (1996) $550 (2001) 31% (1999) 10% h/h in commercial intensive livestock production (1997) 6000ha small scale irrigation (1997) | 3.5% 6.1 % 3.22 55% 39% 35% 35% 82% 6 months 21 44% 50% $600 29.5% 25% 10,000ha | 7% 6.0% 3.10 70% 45% 45% 41% 75% 6 months 15 29% 40% $650 18.0% 30% 15,000ha | 7% 5.9% 2.97 70% 51% 55% 48% 70% 6 months 10 15% 25% $700 15.% 35% 20,000ha
 --- | --- | --- | --- | --- | ---
-Well managed environment | - Arable land - Land area under forestation - Rangeland - Solid Waste | irrigation (1997) 9% (1998) 10,362ha (2000) 1,437,214ha (2000) 143,600 tonnes(2001) | 10,000ha 13,550ha 1,580,214ha 150,000 tonnes | 15,000ha 16,380ha 1.738,214 ha 153,000 tonnes 75% | 20,000ha 21,000ha 1,911,214ha 158,000 tonnes 79%
-Technology well established | - Waste Recovery rates - National Expenditure on S&T as % of GNP - % of Science & Maths students in tertiary institutions - % of government budget allocated to S&T - Telephone & cellular lines per 1000 people | 63% (1997) Less than 1% (2002) 13% (2000) 10(2000) | 70% 1.5% 16.25 20 | 2.0% 19.50 35 | 2.5% 26% 50
+Well managed environment | - Arable land - Land area under forestation - Rangeland - Solid Waste - Waste Recovery rates | 9% (1998) 10,362ha (2000) 1,437,214ha (2000) 143,600 tonnes(2001) 63% (1997) | 13,550ha 1,580,214ha 150,000 tonnes 70% | 16,380ha 1.738,214 ha 153,000 tonnes 75% | 21,000ha 1,911,214ha 158,000 tonnes 79%
+Technology well established | - National Expenditure on S&T as % of GNP - % of Science & Maths students in tertiary institutions - % of government budget allocated to S&T - Telephone & cellular lines per 1000 people | Less than 1% (2002) 13% (2000) 10(2000) | 1.5% 16.25 20 | 2.0% 19.50 35 | 2.5% 26% 50
 
 47
 
@@ -1644,21 +1720,21 @@ There should be a privately managed and independent think-tank that will scan th
 
 Matrix 6.2 identifies the key activities for kick-starting the process of implementation, monitoring and evaluation of Lesotho Vision 2020.
 
-No. | Activity | Start Date | Finish Date | Output | Main Actors
---- | --- | --- | --- | --- | --- | ---
-1. | Set up Implementation Task Force | Last 2004 | quarter | End of December 2004 | Structure working procedures manuals | Government Secretary's office,
-2. | Prepare action plan for attracting FDI | Last 2004 | quarter | End of December 2004 | Action plan | PS Trade, BEDCO, LNDC and Private Sector
-3. | Prepare action plan for sustaining political commitment and support | Last 2004 | quarter | End of December 2004 | Plan | Prime Minister's Office
-4. | Prepare action plan for strengthening development management | Last 2004 | quarter | End of December 2004 | Plan | Ministries of Public Service, Finance & Development Planning and Local Government
-5. | Establish Vision supporting institutions | 3 rd 2004 | quarter | Second quarter 2005 | Structure working procedures manuals | Prime Minister's Office and Parliament
-6. | Prepare terms of reference for Vision supporting institutions | Last 2004 | quarter | End of December 2004 | Terms of reference | Government Secretary and Private Sector
-7. | Establish baseline data for monitoring Lesotho Vision 2020 | Last 2004 | quarter | End of December 2004 | Database | Ministry of Finance and Planning
-8. | Finalise implementation, monitoring and evaluation plan for Lesotho Vision | Last 2004 | quarter | End of December 2004 | Monitoring and evaluation plan | Government Secretary
-9. | Revise Planning Officers Manual to incorporate chapter on strategic planning and Lesotho Vision 2020. | Last 2004 | quarter | End of December 2004 | Revised Planning Officers Manual | Ministry of Finance and Development Planning
-10 | Prepare Action Plan to sell the Vision to the nation | Last 2004 | quarter | End of December 2004 | Plan | Government Secretary
-
 ##### Matrix 6.2
 ###### Implementation, Monitoring and Evaluation Plan
+
+No. | Activity | Start Date | Finish Date | Output | Main Actors
+--- | --- | --- | --- | --- | ---
+1. | Set up Implementation Task Force | Last quarter 2004 | End of December 2004 | Structure working procedures manuals | Government Secretary's office,
+2. | Prepare action plan for attracting FDI | Last quarter 2004 | End of December 2004 | Action plan | PS Trade, BEDCO, LNDC and Private Sector
+3. | Prepare action plan for sustaining political commitment and support | Last quarter 2004 | End of December 2004 | Plan | Prime Minister's Office
+4. | Prepare action plan for strengthening development management | Last quarter 2004 | End of December 2004 | Plan | Ministries of Public Service, Finance & Development Planning and Local Government
+5. | Establish Vision supporting institutions | 3rd quarter 2004 | Second quarter 2005 | Structure working procedures manuals | Prime Minister's Office and Parliament
+6. | Prepare terms of reference for Vision supporting institutions | Last quarter 2004 | End of December 2004 | Terms of reference | Government Secretary and Private Sector
+7. | Establish baseline data for monitoring Lesotho Vision 2020 | Last quarter 2004 | End of December 2004 | Database | Ministry of Finance and Planning
+8. | Finalise implementation, monitoring and evaluation plan for Lesotho Vision | Last quarter 2004 | End of December 2004 | Monitoring and evaluation plan | Government Secretary
+9. | Revise Planning Officers Manual to incorporate chapter on strategic planning and Lesotho Vision 2020. | Last quarter 2004 | End of December 2004 | Revised Planning Officers Manual | Ministry of Finance and Development Planning
+10 | Prepare Action Plan to sell the Vision to the nation | Last quarter 2004 | End of December 2004 | Plan | Government Secretary
 
 49
 
@@ -1666,61 +1742,115 @@ No. | Activity | Start Date | Finish Date | Output | Main Actors
 
 [[START OF PAGE 64]]
 
-Stable Democracy Governance Constitutionalism Local governance Political commitment Political stability | Nation at Peace With Itself and Its Neighbours Peace Crime Prevention Social cohesion Safety and Security
---- | ---
-to the Vision process
-Conflict Management
+# Annex 1
+## Lesotho Vision 2020: Critical Success Factors
+
+Stable Democracy
+Governance
+Constitutionalism
+Local governance
+Political commitment to the Vision process
+Political stability
 Parliament
-Judiciary | Healthy and Well Developed Human Resource Base
-Democratic institutions | Education
-Civil society | Budget allocation
-Development Management | Relevant curriculum development
-Strategic management | Accessibility to education
-Policy management | Strengthening of lifelong, TVET, special, tertiary education
-Public expenditure management | Infrastructure development
-Public sector productivity | Institutional management
-Programme management | Human resource capacity
+Judiciary
+Democratic institutions
+Civil society
+Development Management
+Strategic management
+Policy management
+Public expenditure management
+Public sector productivity
+Programme management
 Aid management
-Information systems | Health
-Institutional leadership | Access to health care services
-Media | Control and management of pharmaceuticals
-Freedom of expression | Human resource availability and development
-Media freedom | Infrastructure development
-Professionalism within the media | Social welfare management
-Gender | Institutional management capacity
+Information systems
+Institutional leadership
+Media
+Freedom of expression
+Media freedom
+Professionalism within the media
+Gender
 Equality of opportunities
-Law reform | HIV and AIDS
-Gender and development policy | Control of infection
-Basotho cultural practices | Care and support for infected and affected Strategies and policies development
-United Nation | Funding for HIV and AIDS
-Culture | Community education on HIV and AIDS
+Law reform
+Gender and development policy
+Basotho cultural practices
+
+United Nation
+Culture
 Preservation and promotion
 Institutional strengthening
 National values
 Language empowerment
-Strong Economy and Prosperous Nation | Well Managed Environment
-Economy | Environment
-Macroeconomic management Economic growth | Environmental management Land management and desertification
-Inflation | biodiversity
-Conservation and
-Savings | Waste management
-Investment | Conservation of mountain ecosystems
-Government revenue/expenditure | Climate change
+
+Nation at Peace With Itself and Its Neighbours
+Peace
+Crime Prevention
+Social cohesion
+Safety and Security
+Conflict Management
+
+Healthy and Well Developed Human Resource Base
+Education
+Budget allocation
+Relevant curriculum development
+Accessibility to education
+Strengthening of lifelong, TVET, special, tertiary education
+Infrastructure development
+Institutional management
+Human resource capacity
+
+Health
+Access to health care services
+Control and management of pharmaceuticals
+Human resource availability and development
+Infrastructure development
+Social welfare management
+Institutional management capacity
+
+HIV and AIDS
+Control of infection
+Care and support for infected and affected
+Strategies and policies development
+Funding for HIV and AIDS
+Community education on HIV and AIDS
+
+Strong Economy and Prosperous Nation
+Economy
+Macroeconomic management
+Economic growth
+Inflation
+Savings
+Investment
+Government revenue/expenditure
 Exports & market access
-Economic infrastructure | Well Established Technology
-debt
-Public | Improved management capacity
-SMME Employment | S&T human resource development Technological diffusion
-structure | Promotion an of indigenous
-Economic | d commercialization
-Prosperity Food security | knowledge and practices Research and development
-Shelter | Education and awareness on S&T
+Economic infrastructure
+Public debt
+SMME
+Employment
+Economic structure
+Prosperity
+Food security
+Shelter
 Community empowerment
-Access to financial services Distribution of income and wealth
+Access to financial services
+Distribution of income and wealth
 Poverty reduction & Population dynamics
 
-# Annex 1
-## Lesotho Vision 2020: Critical Success Factors
+Well Managed Environment
+Environment
+Environmental management
+Land management and desertification
+Conservation and biodiversity
+Waste management
+Conservation of mountain ecosystems
+Climate change
+
+Well Established Technology
+Improved management capacity
+S&T human resource development
+Technological diffusion
+Promotion an d commercialization of indigenous knowledge and practices
+Research and development
+Education and awareness on S&T
 
 50
 
@@ -1746,9 +1876,9 @@ Future development of Lesotho
 
 - Domestic saving
 
-- Investment
-
 - Human resource development and utilisation
+
+- Investment
 
 - Export markets
 
@@ -1760,23 +1890,23 @@ Future development of Lesotho
 
 - Transparency and accountability in public management
 
-- Leadership and supervision at key levels of administration
-
 - Planning systems, project planning, implementation capacity
+
+- Leadership and supervision at key levels of administration
 
 - Financial intermediation, savings instruments, bank supervision
 
-- Labour relations
-
 - Tax systems and structure
+
+- Labour relations
 
 - Balance between tertiary education and primary education
 
 - Demographic factors, migration
 
-- Economic and social infrastructure
-
 - HIV and AIDS
+
+- Economic and social infrastructure
 
 - Productivity and competitiveness
 
@@ -1822,7 +1952,7 @@ Scenario 4: Political instability, weak public sector management, declining inve
 
 Major Strengths | Major Weaknesses | Major Opportunities | Major Threats
 --- | --- | --- | ---
-- Government Commitment to Development (Lesotho National Vision PRSP Process) - Constitutionalism - Cultural homogeneity - Electoral System (Proportional representation) - Political Stability - High Adult literacy rate | & - Poor Strategic & Operational management - Weak institutional leadership - Inmjeffective civil society and private sector - Slow decentralization and local governance - Poor development management information system - Weak expenditure and financial management - Inadequate S&T research and development - Irrelevant curriculum development - Poor management of educational institutions - Ineffective management of health institutions - Underdeveloped SMME sector - High unemployment rates - Food insecurity - Increasing HIV and AIDS infection rates | - FDI flows - Strong Donor support - Good Relations with RSA - Growing regionalism - Bi-lateral relations and multilateral arrangements | - Brain drain - Increasing competition from international markets - Donor conditionalities - Declining SACU revenues - Decline in mine labour remittances - Migrant labour retrenchment - Ending of global market opportunities
+- Government Commitment to Development (Lesotho National Vision & PRSP Process) - Constitutionalism - Cultural homogeneity - Electoral System (Proportional representation) - Political Stability - High Adult literacy rate | - Poor Strategic & Operational management - Weak institutional leadership - Ineffective civil society and private sector - Slow decentralization and local governance - Poor development management information system - Weak expenditure and financial management - Inadequate S&T research and development - Irrelevant curriculum development - Poor management of educational institutions - Ineffective management of health institutions - Underdeveloped SMME sector - High unemployment rates - Food insecurity - Increasing HIV and AIDS infection rates | - FDI flows - Strong Donor support - Good Relations with RSA - Growing regionalism - Bi-lateral relations and multilateral arrangements | - Brain drain - Increasing competition from international markets - Donor conditionalities - Declining SACU revenues - Decline in mine labour remittances - Migrant labour retrenchment - Ending of global market opportunities
 
 52
 
