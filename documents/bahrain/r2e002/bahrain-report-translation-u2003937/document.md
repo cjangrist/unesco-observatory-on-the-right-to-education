@@ -22,9 +22,9 @@ Country name: Kingdom of Bahrain
 
 Organization or entity responsible for the preparation of the report: Ministry of Education
 
-## Information on the legislative, judicial, administrative and other measures taken by the state at the national level
+## I. Information on the legislative, judicial, administrative and other measures taken by the state at the national level
 
-### Ratification of the Convention 1
+### 1. Ratification of the Convention 1
 
 Is your country a State Party to the Convention?
 
@@ -56,7 +56,7 @@ Describe:
 
 o No, not considering ratification in the near future. Please explain why:
 
-### Ratification of the Protocol 2 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
+### 2. Ratification of the Protocol 2 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
 
 Has your country ratified the Protocol?
 
@@ -64,7 +64,7 @@ o Yes
 
 o No, please briefly explain the difficulties encountered:
 
-### Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
+### 3. Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
 
 #### In case your country is a State Party to the Convention:
 
@@ -114,11 +114,11 @@ If yes, the report could list the main texts adopted to guarantee the right to e
 
 Information supplied could demonstrate how such policies and programmes comply with commitments of the right to education under the Recommendation.
 
-## Information on the implementation of the Convention or Recommendation
+## II. Information on the implementation of the Convention or Recommendation
 
-### Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
+### 1. Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
 
-Articles/Paragraphs  1(1),  2  and  3  of  the  Convention/Recommendation  provide  for  nondiscrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
+Articles/Paragraphs  1(1),  2  and  3  of  the  Convention/Recommendation  provide  for  non-discrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
 
 [[END OF PAGE 3]]
 
@@ -272,7 +272,7 @@ Pre-primary  education  is  not  explicitly  provided  for  in  the  Convention/
 
 [[START OF PAGE 7]]
 
-states have now committed to 'the provision of at least one year of free and compulsory pre- primary education'.
+states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Is compulsory and free of charge pre-primary education available in your country?
 
@@ -385,11 +385,13 @@ Total number of students in technical and vocational education in 2019-2020: | 6
 Total number of male students in technical and vocational education in 2019-2020: | 5,621
 Total number of female students in technical and vocational education in 2019-2020: | 608
 
-Believing in the principle of "education for all", the Government of the Kingdom of Bahrain provides free education in government schools and institutes specializing in technical and vocational  education  for  citizens  and  residents:  there  are  no  tuition  or  exam  fees,  no transport costs (except for private transportation), and no taxes are imposed on parents for their children's education.
+Believing in the principle of "education for all", the Government of the Kingdom of Bahrain provides free education in government schools and institutes specializing in technical and
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
+vocational education for citizens and residents: there are no tuition or exam fees, no transport costs (except for private transportation), and no taxes are imposed on parents for their children's education.
 
 - Indicate whether your country has adopted and reviewed legislation related to the minimum age of entry into employment so that it is aligned with the end of compulsory education:
 
@@ -475,9 +477,9 @@ Education in the Kingdom aims to provide learners with a national, scientific, p
 
 In 1973, the Ministry of Education assumed responsibility for literacy and adult education by establishing the Literacy and Adult Education Observatory, which later became the Literacy and  Adult  Education  Authority,  the  Adult  Education  Department,  and  then  the  Continuing Education Department, within which study was organized into four stages:
 
-- Literacy stage: This began in the 1973/74 academic year, and aims to eradicate reading and writing illiteracy and teach basic mathematical skills. It lasts for two academic years, and is divided into two levels (the first level equivalent to the first and second years of primary school and the second level to the third and fourth  years of primary school in regular basic education). This stage aims to provide the individual with the minimum basic skills by studying the courses specially prepared for this category of students in Arabic, Islamic education and mathematics.
+1. Literacy stage: This began in the 1973/74 academic year, and aims to eradicate reading and writing illiteracy and teach basic mathematical skills. It lasts for two academic years, and is divided into two levels (the first level equivalent to the first and second years of primary school and the second level to the third and fourth  years of primary school in regular basic education). This stage aims to provide the individual with the minimum basic skills by studying the courses specially prepared for this category of students in Arabic, Islamic education and mathematics.
 
-- Follow-up stage: This began in the 1975/76 academic year, lasts for two academic years, and is divided into two levels (the first level equivalent to the fifth year of primary school, and the second level to the sixth year of primary school in regular basic education). Those with a certificate of completion of the literacy stage or the fourth year certificate of regular education who are above the age of compulsory education are accepted for this stage,
+2. Follow-up stage: This began in the 1975/76 academic year, lasts for two academic years, and is divided into two levels (the first level equivalent to the fifth year of primary school, and the second level to the sixth year of primary school in regular basic education). Those with a certificate of completion of the literacy stage or the fourth year certificate of regular education who are above the age of compulsory education are accepted for this stage,
 
 [[END OF PAGE 12]]
 
@@ -485,9 +487,9 @@ In 1973, the Ministry of Education assumed responsibility for literacy and adult
 
 which aims to enhance the skills and experiences acquired by learners and guard against regression to illiteracy.
 
-- Consolidation stage: This began in the 1979/80 academic year, lasts for two academic years, and is divided into two levels (the first level equivalent to the first and second years of  middle  school,  and  the  second  to  the  third  year  of  middle  school  of  regular  basic education). The aim is to complete basic education for adults by applying the content and curricula of regular middle school education. Students who have completed the follow-up phase or its equivalent and are over the age of compulsory education (under the Education Act) are accepted for this stage. After completion of this stage, students are granted an equivalent  preparatory  certificate  and  can  transfer  to  regular  education  according  to admission requirements.
+3. Consolidation stage: This began in the 1979/80 academic year, lasts for two academic years, and is divided into two levels (the first level equivalent to the first and second years of  middle  school,  and  the  second  to  the  third  year  of  middle  school  of  regular  basic education). The aim is to complete basic education for adults by applying the content and curricula of regular middle school education. Students who have completed the follow-up phase or its equivalent and are over the age of compulsory education (under the Education Act) are accepted for this stage. After completion of this stage, students are granted an equivalent  preparatory  certificate  and  can  transfer  to  regular  education  according  to admission requirements.
 
-- Evening secondary education stage: This aims to give holders of the equivalent middle school certificate the opportunity to complete secondary education. It was first implemented in the 2008/2009 academic year and offers secondary education equivalent to the morning regular  secondary  education  (standardization  of  paths)  that  focuses  on  the  academic courses offered to students. It includes three academic levels, each of which lasts a full academic year divided into two semesters, so that these three levels include 182 credit hours, of which 156 basic hours are counted in the grade point average and 26 enrichment hours are not counted in the grade but are required for graduation.
+4. Evening secondary education stage: This aims to give holders of the equivalent middle school certificate the opportunity to complete secondary education. It was first implemented in the 2008/2009 academic year and offers secondary education equivalent to the morning regular  secondary  education  (standardization  of  paths)  that  focuses  on  the  academic courses offered to students. It includes three academic levels, each of which lasts a full academic year divided into two semesters, so that these three levels include 182 credit hours, of which 156 basic hours are counted in the grade point average and 26 enrichment hours are not counted in the grade but are required for graduation.
 
 - Please indicate the efforts made by your government to establish a system of continuing education and equitable access to learning and training opportunities (several items could be ticked/mentioned):
 
@@ -575,9 +577,9 @@ In  this  context,  all  international  agreements  regulating  human  rights  a
 
 Hence the concern for the right to education, as it is the main pillar on which the advancement of any society rests economically, politically, culturally, and socially. In view of the importance of the right to education, it has been affirmed by all the divine laws; then came the international conventions regulating human rights to reaffirm the right to education and set the best standards for their practice. International standards began by regulating the right to education from two main viewpoints:
 
-- Considering the right to education as an empowering right, being the primary means by which all members of society can lift themselves out of poverty, not to mention the vital role this right plays in protecting women and children from work and exploitation.
+1. Considering the right to education as an empowering right, being the primary means by which all members of society can lift themselves out of poverty, not to mention the vital role this right plays in protecting women and children from work and exploitation.
 
-- The right to education is not limited to a specific stage or type of education, but rather includes all types and stages of education. It also includes access to education, its level and quality, and the conditions in which it is provided. It is this that is explicitly addressed in article 2, paragraph 1, of the Convention Against Discrimination in Education, approved by the General Conference of UNESCO on 14 December 1960, and which came into force on 22 May 1962 in accordance with the provisions of article 14.
+2. The right to education is not limited to a specific stage or type of education, but rather includes all types and stages of education. It also includes access to education, its level and quality, and the conditions in which it is provided. It is this that is explicitly addressed in article 2, paragraph 1, of the Convention Against Discrimination in Education, approved by the General Conference of UNESCO on 14 December 1960, and which came into force on 22 May 1962 in accordance with the provisions of article 14.
 
 With regard to the efforts of the Kingdom of Bahrain to adopt this right, it has worked since the beginning of the reform project of His Majesty King Hamad bin Isa Al Khalifa, the beloved monarch of the country, may God protect him, who wished the Constitution and national legislation of the Kingdom of Bahrain governing public life in the country to guarantee the preservation of the right to education for all citizens, starting from the first years of their lives, and in accordance with the highest standards  and  approved  and  developed  foundations.  In  order  to  make  every  effort  to  build  an educated society, to pay attention to the human element as a basic and permanent resource, and to achieve what was stipulated in the country's Constitution, the Education Act was adopted on 15 August 2005, article 2 of which stated that 'Education is a right guaranteed by the Kingdom for all citizens'.
 
@@ -587,9 +589,9 @@ With regard to the efforts of the Kingdom of Bahrain to adopt this right, it has
 
 Regarding article 4(a) of the Convention Against Discrimination in Education, whereby States Parties undertake  'To  make  primary  education  free  and  compulsory;  make  secondary  education  in  its different forms generally available and accessible to all; make higher education equally accessible to all on the basis of individual capacity; assure compliance by all with the obligation to attend school prescribed by law', and as an embodiment of the lofty royal vision, the Government worked to make education opportunities universal in all regions of the Kingdom and available to all. The enrolment rate  in  the  basic  stage  has  reached  100%,  which  contributed  to  the  country's  achieving  the development goals and many of the goals of Education for All ahead of the target dates by enabling all children to obtain good, free and compulsory basic education. In recent years, the numbers of students enrolled in education at all educational levels have increased. Thanks to the support and assistance of the wise leadership, the Ministry of Education has continued to achieve a great deal in the context of implementing the development programmes and projects announced to implement the right to education. The most important measures taken by the Ministry of Education to ensure that education is free and compulsory for all learners include:
 
-- Implementation  of  the  age  of  compulsory  education.  In  2006,  a  special  section  was established to follow up the implementation of compulsory education for those of compulsory school age (6-15 years) and to follow up on those of that age group who are not at school, and work to re-enrol them in education, in coordination with the Central Information Agency and information management systems of the Ministry of Education.
+1. Implementation  of  the  age  of  compulsory  education.  In  2006,  a  special  section  was established to follow up the implementation of compulsory education for those of compulsory school age (6-15 years) and to follow up on those of that age group who are not at school, and work to re-enrol them in education, in coordination with the Central Information Agency and information management systems of the Ministry of Education.
 
-- Education for All: The Global Education Monitoring Reports issued by UNESCO indicate that the Kingdom of Bahrain has achieved honourable results in relation to all of the following indicators:
+2. Education for All: The Global Education Monitoring Reports issued by UNESCO indicate that the Kingdom of Bahrain has achieved honourable results in relation to all of the following indicators:
 
 - High enrolment rate at the primary level (100%)
 
@@ -609,11 +611,13 @@ Regarding article 4(c) of the Convention Against Discrimination in Education, wh
 
 - o Preparing the Related Subjects project based on merging family education skills with literacy skills and experimenting with it in the Arabic language.
 
-Regarding article 4(b) of the Convention Against Discrimination in Education, whereby States Parties undertake  'To  make  primary  education  free  and  compulsory;  make  secondary  education  in  its different forms generally available and accessible to all', the Kingdom of Bahrain has made every effort to frame its commitment to this principle in article 4 of the Constitution; the principle of equality between citizens is enshrined in articles 4 and 18 of the Constitution, and the principle of ensuring education services to all citizens is enshrined in article 7.
+Regarding article 4(b) of the Convention Against Discrimination in Education, whereby States Parties undertake  'To  make  primary  education  free  and  compulsory;  make  secondary  education  in  its different forms generally available and accessible to all', the Kingdom of Bahrain has made every
 
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
+
+effort to frame its commitment to this principle in article 4 of the Constitution; the principle of equality between citizens is enshrined in articles 4 and 18 of the Constitution, and the principle of ensuring education services to all citizens is enshrined in article 7.
 
 The Ministry of Education has also committed to all international agreements ratified by the Kingdom of Bahrain related to achieving the principle of equal opportunities for all individuals on the basis of equality and full participation. In its successive strategic plans, the Ministry has enshrined these principles by promoting the right to education without discrimination between boys and girls. In its capacity as the body responsible for the education system and education policy in the country, the Ministry has worked to direct all its human capabilities and material resources towards achieving the goals of the education for all policy and future directions for the development of education, providing the necessary opportunities for the growth of the individual, whether male or female, and providing educational opportunities for all individuals to develop their aptitudes, abilities and skills, realise their potential  and develop their lives and society.
 
@@ -643,21 +647,21 @@ Private education is available to all. There is no discrimination in education i
 
 Based on the provisions of Legislative Decree No. 25 of 1998 on private educational and training institutions (the articles on the establishment of private educational institutions are attached) and Ministerial Decision No. 1689 of 2006 on licensing fees for private educational institutions when an investor applies to establish a private educational institutions (school, institute or education centre), implemented through the following measures:
 
-- Registration  of  the  application  in  the  registration  programme  at  the  Ministry  of  Industry, Commerce and Tourism.
+1. Registration  of  the  application  in  the  registration  programme  at  the  Ministry  of  Industry, Commerce and Tourism.
 
-- Submission of  a  letter  to  the  Private  Education  Department  requesting  the  opening  of  a private educational institution, attaching the initial documents and the completed application form for licensing of a private educational institution.
+2. Submission of  a  letter  to  the  Private  Education  Department  requesting  the  opening  of  a private educational institution, attaching the initial documents and the completed application form for licensing of a private educational institution.
 
-- Interview of those who meet the conditions.
+3. Interview of those who meet the conditions.
 
-- A letter to the Criminal Evidence Department of the Ministry of Interior, requesting issuance of a no-objection note.
+4. A letter to the Criminal Evidence Department of the Ministry of Interior, requesting issuance of a no-objection note.
 
-- Letter to the relevant authorities in the Ministry to obtain approval.
+5. Letter to the relevant authorities in the Ministry to obtain approval.
 
-- A meeting of the joint (Ministry of Education and Ministry of Labour) committee studies the application and gives initial approval.
+6. A meeting of the joint (Ministry of Education and Ministry of Labour) committee studies the application and gives initial approval.
 
-- If  the  application  is  approved,  the  applicant  receives  a  letter  containing  the  remaining documents required for granting of the licence.
+7. If  the  application  is  approved,  the  applicant  receives  a  letter  containing  the  remaining documents required for granting of the licence.
 
-- Delivery of the documents required for inspection of the property (paper + CD): a certificate of ownership, a copy of the general site and architectural drawings, with an explanation of the usage plan.
+8. Delivery of the documents required for inspection of the property (paper + CD): a certificate of ownership, a copy of the general site and architectural drawings, with an explanation of the usage plan.
 
 > 11 Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'.
 
@@ -665,29 +669,29 @@ Based on the provisions of Legislative Decree No. 25 of 1998 on private educatio
 
 [[START OF PAGE 19]]
 
-- The documents concerning the property inspection are sent to the School Buildings Section of the Planning and Educational Projects Department for approval. The initial technical report is issued and the capacity is determined.
+9. The documents concerning the property inspection are sent to the School Buildings Section of the Planning and Educational Projects Department for approval. The initial technical report is issued and the capacity is determined.
 
-- Letters  are  sent  to  the  Traffic  Operations  and  Control  Department,  Ministry  of  Works, Municipalities and Urban Planning to obtain approval for the property.
+10. Letters  are  sent  to  the  Traffic  Operations  and  Control  Department,  Ministry  of  Works, Municipalities and Urban Planning to obtain approval for the property.
 
-- The proposed curricula and textbooks are sent to the Curriculum Department for approval.
+11. The proposed curricula and textbooks are sent to the Curriculum Department for approval.
 
-- A letter from the applicant stating that the building is ready, with equipment and furniture.
+12. A letter from the applicant stating that the building is ready, with equipment and furniture.
 
-- The  required  documents  concerning  the  building  inspection  (paper  +  CD)  (certificate  of ownership, a copy of the general site and architectural drawings, with an explanation of the usage plan) are submitted once it is ready.
+13. The  required  documents  concerning  the  building  inspection  (paper  +  CD)  (certificate  of ownership, a copy of the general site and architectural drawings, with an explanation of the usage plan) are submitted once it is ready.
 
-- The documents concerning the building - after it is ready - are sent to the School Buildings Section of the Education Planning and Projects Department for approval and issuance of the final technical report and determination of capacity.
+14. The documents concerning the building - after it is ready - are sent to the School Buildings Section of the Education Planning and Projects Department for approval and issuance of the final technical report and determination of capacity.
 
-- Letters  are  sent  to  the  Operations  and  Traffic  Control  Department,  the  Civil  Defence Department and the Ministry of Works, Municipalities and Urban Planning to obtain approval of the school building.
+15. Letters  are  sent  to  the  Operations  and  Traffic  Control  Department,  the  Civil  Defence Department and the Ministry of Works, Municipalities and Urban Planning to obtain approval of the school building.
 
-- A  study  of  the  financial  situation  by  the  Financial  Affairs  and  Budget  Department  of  the Ministry of Education.
+16. A  study  of  the  financial  situation  by  the  Financial  Affairs  and  Budget  Department  of  the Ministry of Education.
 
-- The  application  is  submitted  to  the  joint  committee  for  final  approval  after  the  licensing conditions and criteria have been fulfilled.
+17. The  application  is  submitted  to  the  joint  committee  for  final  approval  after  the  licensing conditions and criteria have been fulfilled.
 
-- After fulfilling the requirements, a letter is sent to His Excellency the Assistant Undersecretary for  Private  and  Continuing Education, enclosing the draft ministerial decision for the new licence.
+18. After fulfilling the requirements, a letter is sent to His Excellency the Assistant Undersecretary for  Private  and  Continuing Education, enclosing the draft ministerial decision for the new licence.
 
-- The applicant receives a copy of the ministerial decision in order to complete the licensing fee and financial guarantee procedures.
+19. The applicant receives a copy of the ministerial decision in order to complete the licensing fee and financial guarantee procedures.
 
-- The school receives the original copy of the ministerial decision and must keep copies of it in its files.
+20. The school receives the original copy of the ministerial decision and must keep copies of it in its files.
 
 The foregoing procedures apply to all investors without distinction of religion, as schools of all kinds (national, foreign and community) are free to apply the curriculum after obtaining the approval of the Ministry of Education in this regard.
 
@@ -713,11 +717,11 @@ Article 23 provides:
 
 Educational institutions of foreign communities are required to:
 
-- Respect  the  national  sovereignty  of  the  State  of  Bahrain  and  abide  by  its  laws  and regulations.
+1. Respect  the  national  sovereignty  of  the  State  of  Bahrain  and  abide  by  its  laws  and regulations.
 
-- Apply the educational curricula of the country to which that community belongs.
+2. Apply the educational curricula of the country to which that community belongs.
 
-- Restrict admission to the members of the community that established the institution.
+3. Restrict admission to the members of the community that established the institution.
 
 Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for private education.
 
@@ -775,7 +779,7 @@ Information could also cover the language facilities, such as the availability o
 
 #### 2.10  Rights of refugees and migrants
 
-The rights of refugees and migrants are not explicitly provided for in the Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin. 13 In this context,  a  number  of  Member  States  that  participated  in  the  9 th Consultation  reported  on measures adopted to ensure refugees' and migrants' right to education. Growing displacement and influx of refugees worldwide and the emergence of major educational challenges in this area,  as  well  as  the  frameworks  recently  adopted  by  the  international  community, 14 demonstrate the opportunity for states to report on measures adopted to include refugees and migrants in their educational systems.
+The rights of refugees and migrants are not explicitly provided for in the Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin. 13 In this context,  a  number  of  Member  States  that  participated  in  the  9th Consultation  reported  on measures adopted to ensure refugees' and migrants' right to education. Growing displacement and influx of refugees worldwide and the emergence of major educational challenges in this area,  as  well  as  the  frameworks  recently  adopted  by  the  international  community, 14 demonstrate the opportunity for states to report on measures adopted to include refugees and migrants in their educational systems.
 
 Besides, this aspect also corresponds to SDG target 4.5, which calls on states to 'ensure equal access to all levels of education and vocational training for the vulnerable', including 'children in vulnerable situations', and covers the majority of SDG4 targets.
 
@@ -811,9 +815,9 @@ o Other innovative measures:
 
 Please briefly elaborate further on the measures taken:
 
-## Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
+## III. Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
 
-### Challenges and obstacles
+### 1. Challenges and obstacles
 
 - 1.1 Please indicate and provide any information on the difficulties encountered in the process of implementing  the  key  provisions  of  the  Convention/Recommendation  (including  legal  and practical obstacles) and on the main issues that need to be addressed for promoting further the right to education in your country (several items could be ticked/mentioned):
 
@@ -843,7 +847,7 @@ o Dissemination and advocacy of the core content of the Convention/Recommendatio
 
 o Increased public awareness through advocacy material on the Convention/ Recommendation or the core principles of the right to education
 
-o Activities undertaken  or supported by the  National  Commission  to  promote  non- discrimination  and  equality  of  educational  opportunities  and  to  foster  debate  on  critical issues in relation to the rights enshrined in the instruments
+o Activities undertaken  or supported by the  National  Commission  to  promote  non-discrimination  and  equality  of  educational  opportunities  and  to  foster  debate  on  critical issues in relation to the rights enshrined in the instruments
 
 o Other:
 
