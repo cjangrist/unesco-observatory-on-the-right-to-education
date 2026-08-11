@@ -2,7 +2,7 @@
 
 Ministry of Foreign Affairs and Emigrants
 
-Directorate of International Organizations, Conferences and Cultural Relations Culture Department
+Directorate of International Organizations, Conferences and Cultural Relations – Culture Department
 
 Subject:
 
@@ -20,13 +20,13 @@ Appended:
 
 Referring to the above subject and reference,
 
-And  in  reply  to  your  aforementioned  letter  referring  to  the  letter  of  the  permanent delegation  of  Lebanon  to  UNESCO  No.  232/2020  of  17/9/2020  concerning  the  additional extended deadline to 15/11/2020 for the report for the 10 th consultation on implementation of the 1960 Convention and Recommendation against Discrimination in Education 1960.
+And in reply to your aforementioned letter referring to the letter of the permanent delegation of Lebanon to UNESCO No. 232/2020 of 17/9/2020 concerning the additional extended deadline to 15/11/2020 for the report for the 10th consultation on implementation of the 1960 Convention and Recommendation against Discrimination in Education 1960.
 
 The Ministry of Education and Higher Education is among the ministries active and effective in strengthening the right to education, especially as regards combating discrimination in education, and has done the following:
 
 # I. Commitment under the Lebanese Constitution and legislation, which enshrine the right to education
 
-## The Lebanese Constitution :
+## 1. The Lebanese Constitution:
 Article 10 of the Lebanese Constitution, promulgated on 23 May 1926 provides: 'Education is free, provided it does not disturb public order or violate morals  and  does  not  compromise  the  dignity  of  any  religion  or  creed.  The  rights  of communities to establish their own private schools may not be violated, provided that they comply with the general requirements laid down by the State with respect to public education'.
 
 ## 2. Lebanon has adopted a number of Acts organizing citizens' right to education
@@ -61,23 +61,23 @@ article  41  of  which  provided that 'Employees in the education sector shall n
 
 # II. Policies
 
-- The Advancement of Education in Lebanon Plan of 1994.
+1. The Advancement of Education in Lebanon Plan of 1994.
 
-- The  new  structure  of  education  authorized  under  Cabinet  Decision  No.  22  of 25/10/1995.
+2. The new structure of education authorized under Cabinet Decision No. 22 of 25/10/1995.
 
-- Strategic Guidelines for Education in Lebanon until 2015. Ministry of Education and Higher Education, Beirut, 3/10/2000.
+3. Strategic Guidelines for Education in Lebanon until 2015. Ministry of Education and Higher Education, Beirut, 3/10/2000.
 
-- Proposed  Bill  aimed  at  establishing  the  right  to  basic  education  and  making  such education compulsory. The 18-article Bill was debated in Parliament. Education debate 2002
+4. Proposed Bill aimed at establishing the right to basic education and making such education compulsory. The 18-article Bill was debated in Parliament. Education debate 2002
 
-- National Education for All Work Plan 2005-2015. Ministry of Education and Higher Education, Beirut, 2005.
+5. National Education for All Work Plan 2005-2015. Ministry of Education and Higher Education, Beirut, 2005.
 
-- National Education Strategy in Lebanon, Ministry of Education and Higher Education, planning of the Lebanese Association for Educational Studies, final version, Beirut, 20/12/2006.
+6. National Education Strategy in Lebanon, Ministry of Education and Higher Education, planning of the Lebanese Association for Educational Studies, final version, Beirut, 20/12/2006.
 
-- Proposed enabling goals for the education sector in the framework of the financial, economic and social reform agenda and proposed measures for achieving these goals. Proposals presented in the framework of the Paris III Conference, held in January 2007.
+7. Proposed enabling goals for the education sector in the framework of the financial, economic and social reform agenda and proposed measures for achieving these goals. Proposals presented in the framework of the Paris III Conference, held in January 2007.
 
-- Development of a policy on pupil protection in the school environment in harmony with the National Strategy for the protection of children from different forms of violence, mistreatment and exploitation, decided by the Cabinet in 2012.
+8. Development of a policy on pupil protection in the school environment in harmony with the National Strategy for the protection of children from different forms of violence, mistreatment and exploitation, decided by the Cabinet in 2012.
 
-- The vision of the National Education Strategy.
+9. The vision of the National Education Strategy.
 
 # III. Advancement of Education in Lebanon Plan
 
@@ -91,25 +91,25 @@ The new educational structure adopted under Cabinet Decision No. 22 of 25/10/199
 
 # IV. Gender perspective
 
-- One of the tasks of the Gender Perspective Committee chaired by the Director-General of Education is to integrate the gender perspective in public policy for the Ministry of Education  and  Higher  Education,  and  to  organize  training  courses  and  discussion seminars in the Ministry for officers, students, administrative and teaching staff, and parents  committees  on  the  concept  of  the  gender  perspective,  what  it  is  and  the mechanism  for  integrating  it  in  the  Ministry  plan,  and  also  on  the  International Declaration of Human Rights, child rights law and the Convention on the Elimination of all Forms of Discrimination Against Women (CEDAW), free, compulsory education and the mechanisms for implementing it, and other matters.
+1. One of the tasks of the Gender Perspective Committee chaired by the Director-General of Education is to integrate the gender perspective in public policy for the Ministry of Education and Higher Education, and to organize training courses and discussion seminars in the Ministry for officers, students, administrative and teaching staff, and parents committees on the concept of the gender perspective, what it is and the mechanism for integrating it in the Ministry plan, and also on the International Declaration of Human Rights, child rights law and the Convention on the Elimination of all Forms of Discrimination Against Women (CEDAW), free, compulsory education and the mechanisms for implementing it, and other matters.
 
-- In  addition  to  its  educational  efforts  focusing  on  research  and  development,  the Ministry of Education and Higher Education is preparing studies that adopt the gender perspective to analyse education curricula.
+2. In addition to its educational efforts focusing on research and development, the Ministry of Education and Higher Education is preparing studies that adopt the gender perspective to analyse education curricula.
 
-- Some teachers have been trained in cooperation with the directorates of the Ministry of Education and Higher Education, and in particular with guidance and orientation, through activities and the texts and pictures in school textbooks.
+3. Some teachers have been trained in cooperation with the directorates of the Ministry of Education and Higher Education, and in particular with guidance and orientation, through activities and the texts and pictures in school textbooks.
 
 # V. Sustainable Development Goal 4 of the 2030 Agenda for Sustainable Development
 
-- The Ministry of Education and Higher Education is working to strengthen the Education 2030 Strategy.
+1. The Ministry of Education and Higher Education is working to strengthen the Education 2030 Strategy.
 
-- A committee chaired by the Minister of Education and Higher Education is promoting the 2030 Agenda for Sustainable Development, and especially Sustainable Development Goal 4: 'Ensure inclusive and equitable quality education and promote lifelong  learning  opportunities  for  all'.  Ministry  of  Education  and  Higher  Education Steering Committee.
+2. A committee chaired by the Minister of Education and Higher Education is promoting the 2030 Agenda for Sustainable Development, and especially Sustainable Development Goal 4: 'Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all'. Ministry of Education and Higher Education Steering Committee.
 
-- The Ministry of Education and Higher Education guarantees education for all students, including persons with disabilities, without any official evaluation measures.
+3. The Ministry of Education and Higher Education guarantees education for all students, including persons with disabilities, without any official evaluation measures.
 
-- Schools have been adapted and teachers of all levels have been trained to support pupils with disabilities in terms of education.
+4. Schools have been adapted and teachers of all levels have been trained to support pupils with disabilities in terms of education.
 
-- The General Education Directorate has prepared a draft implementing decree for the Compulsory Education Act No. 150 of 17/8/2011, stipulating that disability does not in and of itself constitute a sufficient impediment to exclude a pupil from school, and that all  the  circumstances  set  out  in  article  60  of  Act  No.  220/2000  shall  be  taken  into account before deciding to review how a child with a disability is to be educated.
+5. The General Education Directorate has prepared a draft implementing decree for the Compulsory Education Act No. 150 of 17/8/2011, stipulating that disability does not in and of itself constitute a sufficient impediment to exclude a pupil from school, and that all the circumstances set out in article 60 of Act No. 220/2000 shall be taken into account before deciding to review how a child with a disability is to be educated.
 
-- In addition, the special schools that ensure an appropriate education for children with special  needs,  such  as  teaching  sign  language  or  Braille  and  so  forth,  are  an inseparable  part  of  the  basic  compulsory  education  system  that  reaches  a  large number  of  children  with  disabilities  who  are  unable  to  follow  the  programmes  in ordinary  schools.  They  enjoy  the  support  of  the  Ministry  of  Education  and  Higher Education, just as government schools do, but are supervised by a joint committee, in tandem with the Ministry of Social Affairs, that brings together representatives of those educational establishments and determines the working conditions and the costs of the education in them.
+6. In addition, the special schools that ensure an appropriate education for children with special needs, such as teaching sign language or Braille and so forth, are an inseparable part of the basic compulsory education system that reaches a large number of children with disabilities who are unable to follow the programmes in ordinary schools. They enjoy the support of the Ministry of Education and Higher Education, just as government schools do, but are supervised by a joint committee, in tandem with the Ministry of Social Affairs, that brings together representatives of those educational establishments and determines the working conditions and the costs of the education in them.
 
 [[END OF PAGE 3]]
 
@@ -127,7 +127,7 @@ The Ministry of Education and Higher Education is working to strengthen the righ
 
 (c)  The  Ministry  of  Education  and  Higher  Education  ensures  education  for  all  students, including non-Lebanese who are the children or husbands of Lebanese women.
 
-(d) The Ministry of Education and Higher Education does not demand any payment from nonLebanese  students  who  are  the  children  or  husbands  of  Lebanese  women  at  either primary or secondary school.
+(d) The Ministry of Education and Higher Education does not demand any payment from non-Lebanese students who are the children or husbands of Lebanese women at either primary or secondary school.
 
 (e) The Ministry of Education and Higher Education works constantly to promote Goal 4 of the  2030  Agenda  for  Sustainable  Development.  In  this  connection,  we  point  to  the decision issued by the Minister of Education and Higher Education No. 401/m/2020 of 7/9/2020  approving  the  enrolment  of  students  with  a  Lebanese  mother  married  to  a foreigner (appended to this report) under which all those responsible for government and private primary and secondary schools and institutes are requested to give the necessary attention to enrolling students whose mother is a Lebanese woman married to a foreigner, to treat them as Lebanese students and provide them with school places.
 
@@ -187,7 +187,7 @@ Ministry of Social Affairs, that brings together representatives of those educat
 
 Therefore,
 
-based on the foregoing, realizing the importance of the launch of the 10 th consultation on the implementation of the Convention and Recommendation against Discrimination in Education 1960,  we  submit  to  you  the  main  contributions  of  the  Ministry  of  Education  and  Higher Education in this matter.
+based on the foregoing, realizing the importance of the launch of the 10th consultation on the implementation of the Convention and Recommendation against Discrimination in Education 1960, we submit to you the main contributions of the Ministry of Education and Higher Education in this matter.
 
 Minister of Education and Higher Education
 
