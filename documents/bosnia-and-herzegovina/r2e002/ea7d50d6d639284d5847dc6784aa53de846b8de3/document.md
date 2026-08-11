@@ -14,19 +14,19 @@ The Law governs as follows:
 
 - I - General Provisions
 
-- Purpose of Education
+- 1. Purpose of Education
 
-- General Goals of Education, Nature and Bases of Education and Upbringing.
+- 2. General Goals of Education, Nature and Bases of Education and Upbringing.
 
 II - Principles in Education
 
-- Right of the Child to Education,
+- 1. Right of the Child to Education,
 
-- Significance of Children's' Rights,
+- 2. Significance of Children's' Rights,
 
-- Promotion of Respect for Human Rights,
+- 3. Promotion of Respect for Human Rights,
 
-- Freedom of Movement.
+- 4. Freedom of Movement.
 
 III - Levels of Education
 
@@ -44,15 +44,15 @@ IX - Bodies for Establishment of Standards in Education
 
 X - Administration at Schools
 
-- Bodies of Administration at Schools/School Boards,
+- 1. Bodies of Administration at Schools/School Boards,
 
-- School Principal,
+- 2. School Principal,
 
-- Parents' Council,
+- 3. Parents' Council,
 
-- Pupils' Council,
+- 4. Pupils' Council,
 
-- Expert Bodies of Schools.
+- 5. Expert Bodies of Schools.
 
 [[END OF PAGE 1]]
 
@@ -68,13 +68,13 @@ The authorities in charge of organizing the education systems in the Brcko Distr
 
 The principles and standards determined in this law and pursuant to this law may not be reduced.
 
-### Purpose of Education
+### 1. Purpose of Education
 
 #### Article 2
 
 The purpose of education is to contribute, through optimum intellectual, physical, moral and social development of individuals, in line with their abilities and skills, to creation of a society based on the rule of law and respect for human rights, and to contribute to its economic development, which shall ensure the best living standards for all citizens.
 
-### General Goals of Education
+### 2. General Goals of Education
 
 #### Article 3
 
@@ -82,33 +82,33 @@ The general goals of education arise from the generally accepted, universal valu
 
 The general goals of education are:
 
-- allowing of approach to knowledge as a basis for understanding of self, others and the world we live in,
+- a) allowing of approach to knowledge as a basis for understanding of self, others and the world we live in,
 
-- ensuring of optimum development for each person, including those with special needs, in line with their age, abilities and mental and physical skills,
+- b) ensuring of optimum development for each person, including those with special needs, in line with their age, abilities and mental and physical skills,
 
-- promotion of respect for human rights and basic freedoms, and preparation of each person for life in a society that respects the principles of democracy and rule of law,
+- c) promotion of respect for human rights and basic freedoms, and preparation of each person for life in a society that respects the principles of democracy and rule of law,
 
-- development of awareness of belonging to the state of Bosnia and Herzegovina, proper cultural identity, language and tradition, in the manner appropriate to civilization heritage, by learning about and respecting others and different ones, respecting diversity and fostering mutual understanding, tolerance and solidarity among all the people, nations and communities in Bosnia and Herzegovina and worldwide;
+- d) development of awareness of belonging to the state of Bosnia and Herzegovina, proper cultural identity, language and tradition, in the manner appropriate to civilization heritage, by learning about and respecting others and different ones, respecting diversity and fostering mutual understanding, tolerance and solidarity among all the people, nations and communities in Bosnia and Herzegovina and worldwide;
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-- ensuring of equal opportunities for education and opportunity of choice at all levels of education, regardless of sex, race, ethnic affiliation, social status, religion, psychophysical and other personal features;
+- e) ensuring of equal opportunities for education and opportunity of choice at all levels of education, regardless of sex, race, ethnic affiliation, social status, religion, psycho-physical and other personal features;
 
-- reaching of quality education for citizens;
+- f) reaching of quality education for citizens;
 
-- reaching of knowledge standards that are comparable at international or European levels, ensuring inclusion and continuation of education within the European education system;
+- g) reaching of knowledge standards that are comparable at international or European levels, ensuring inclusion and continuation of education within the European education system;
 
-- encouraging of life-long learning;
+- h) encouraging of life-long learning;
 
-- promotion of economic development;
+- i) promotion of economic development;
 
-- inclusion into the European integration process.
+- j) inclusion into the European integration process.
 
 ## II - PRINCIPLES IN EDUCATION
 
-### The Right of the Child to Education
+### 1. The Right of the Child to Education
 
 #### Article 4
 
@@ -286,23 +286,37 @@ Parents shall also have the right and obligation, depending on the circumstances
 It is the right and obligation of parents to receive regular information, consulting and monitoring of education progress of their children, as well as the right to monitor and evaluate the work of the principal, teachers and other school staff, and the quality of the work of schools in general.
 
 Parents shall have the right and obligation, in the interest of their children and through their representatives at school authorities and bodies and through their associations, at all decision making levels, to take part in decision making on the issues of relevance to the work of the school and functioning of the education system in general.
-## V - PUBLIC AND PRIVATE SCHOOLS
-#### Article 29
-Public and private schools shall perform activity involving regular education, in line with the prescribed curricula of the education authorities. Public schools shall be established by the competent authorities, in line with the principles and standards established in this Law, and other requirements and criteria determined in the regulations in the area of education.
-#### Article 30
-Private schools may be established by domestic and foreign natural and legal entities, in line with the principles and standards established in this Law, and other requirements and criteria determined in the regulations in the area of education.
-#### Article 31
-Public schools may begin operating upon receipt of approval from the competent education authorities for application of the appropriate curricula when, pursuant to the applicable legislation, they also ensure other standards and requirements guaranteeing that the pupils shall receive appropriate education, care and safety, in line with the specific qualities of the given private schools, including religious schools. Only international private schools may have curricula that do not fully cover the common core curricula.
-#### Article 32
-Private schools may not be established for the purpose of promoting racial, ethnic, religious, sexual or other prejudices, nor may they perform their functions in the manner contrary to the law, that is, in a manner as to promote the aforementioned prejudices.
-#### Article 33
-In order to organize supplementary lessons from the group of the so-called 'national subjects' for the pupils of primary and secondary schools - BiH nationals abroad, the competent BiH ministries shall initiate signing of separate agreements with all states in which there is such an interest for BiH. Financial funds for the costs of the teaching staff, unless the domicile regulations do not entail that they fall on the burden of recipient countries, shall be planned in the budget of the institutions of BiH.
-
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-(this page came through the extractor with no text)
+## V - PUBLIC AND PRIVATE SCHOOLS
+
+#### Article 29
+
+Public and private schools shall perform activity involving regular education, in line with the prescribed curricula of the education authorities.
+
+Public schools shall be established by the competent authorities, in line with the principles and standards established in this Law, and other requirements and criteria determined in the regulations in the area of education.
+
+#### Article 30
+
+Private schools may be established by domestic and foreign natural and legal entities, in line with the principles and standards established in this Law, and other requirements and criteria determined in the regulations in the area of education.
+
+#### Article 31
+
+Public schools may begin operating upon receipt of approval from the competent education authorities for application of the appropriate curricula when, pursuant to the applicable legislation, they also ensure other standards and requirements guaranteeing that the pupils shall receive appropriate education, care and safety, in line with the specific qualities of the given private schools, including religious schools.
+
+Only international private schools may have curricula that do not fully cover the common core curricula.
+
+#### Article 32
+
+Private schools may not be established for the purpose of promoting racial, ethnic, religious, sexual or other prejudices, nor may they perform their functions in the manner contrary to the law, that is, in a manner as to promote the aforementioned prejudices.
+
+#### Article 33
+
+In order to organize supplementary lessons from the group of the so-called 'national subjects' for the pupils of primary and secondary schools - BiH nationals abroad, the competent BiH ministries shall initiate signing of separate agreements with all states in which there is such an interest for BiH.
+
+Financial funds for the costs of the teaching staff, unless the domicile regulations do not entail that they fall on the burden of recipient countries, shall be planned in the budget of the institutions of BiH.
 
 [[END OF PAGE 9]]
 
@@ -317,9 +331,9 @@ Schools must not exert discrimination in the children's access to education or t
 #### Article 36
 Schools shall promote equal opportunities for all of their pupils, teachers and other employees, at the same time recognizing and promoting the right to diversity among them. To this goal, the competent education authorities and schools shall identify and implement their proper programs supporting and fostering diverse cultures, languages and faiths of their pupils and employees.
 #### Article 37
-Schools shall promote and develop continuous and dynamic partnership among the schools, parents and the communities they live in, on all issues of relevance to exercise of the school's functions and the interests and needs of pupils. and organized action and cooperation programs in fight against abuse of children and youth, fight against drugs, alcoholism and other addictions, smoking and juvenile delinquency, and
+Schools shall promote and develop continuous and dynamic partnership among the schools, parents and the communities they live in, on all issues of relevance to exercise of the school's functions and the interests and needs of pupils.
 
-Schools, parents and local communities shall in particular promote and implement the joint any other phenomena endangering the health and life of pupils.
+Schools, parents and local communities shall in particular promote and implement the joint and organized action and cooperation programs in fight against abuse of children and youth, fight against drugs, alcoholism and other addictions, smoking and juvenile delinquency, and any other phenomena endangering the health and life of pupils.
 
 [[END OF PAGE 10]]
 
@@ -369,19 +383,19 @@ Upon the proposal of the interim body referred to in the previous paragraph, the
 
 The common core curricula shall:
 
-- ensure development of a positive approach and a sense of belonging to the state of Bosnia and Herzegovina through the upbringing and education process;
+- a) ensure development of a positive approach and a sense of belonging to the state of Bosnia and Herzegovina through the upbringing and education process;
 
-- guarantee and ensure quality education for all children, and reaching of satisfactory levels of knowledge, skills and abilities;
+- b) guarantee and ensure quality education for all children, and reaching of satisfactory levels of knowledge, skills and abilities;
 
-- ensure consistency in the quality of education standards at all schools and at all education levels;
+- c) ensure consistency in the quality of education standards at all schools and at all education levels;
 
-- ensure satisfactory harmonization of the curricula and their adaptability in line with the specific needs of schools and local communities;
+- d) ensure satisfactory harmonization of the curricula and their adaptability in line with the specific needs of schools and local communities;
 
-- ensure application of curricula that correspond to the development needs of children they pertain to, and their age and special interest, with a focus on promotion of the healthy life style as the highest interests of pupils, parents, teaching staff and the society;
+- e) ensure application of curricula that correspond to the development needs of children they pertain to, and their age and special interest, with a focus on promotion of the healthy life style as the highest interests of pupils, parents, teaching staff and the society;
 
-- ensure freedom of movement and equal access to education;
+- f) ensure freedom of movement and equal access to education;
 
-- guarantee the economy and efficiency in financing and operation of schools.
+- g) guarantee the economy and efficiency in financing and operation of schools.
 
 #### Article 44
 
@@ -393,19 +407,19 @@ Within the framework of the common core curricula, public and private schools sh
 
 The competent education authorities shall also determine other standards and norms in education, in terms of the following:
 
-- space, equipment and teaching accessories at schools,
+- a) space, equipment and teaching accessories at schools,
 
-- time for school and teaching activities,
+- b) time for school and teaching activities,
 
-- textbooks and other didactical materials,
+- c) textbooks and other didactical materials,
 
-- education process,
+- d) education process,
 
-- education and professional skills of teachers,
+- e) education and professional skills of teachers,
 
-- evaluation of pupils,
+- f) evaluation of pupils,
 
-- norms on the work volumes (teaching quotas and work quotas for the employees at schools), norms on working conditions (numbers of pupils in classes and teaching groups in curricula and extra-curricula activities).
+- g) norms on the work volumes (teaching quotas and work quotas for the employees at schools), norms on working conditions (numbers of pupils in classes and teaching groups in curricula and extra-curricula activities).
 
 Education standards and norms ensure consistent and efficient application of the common core curricula at all schools in Bosnia and Herzegovina.
 
@@ -465,11 +479,15 @@ The duty of the school board member shall be performed on a voluntary basis and 
 
 ### 2. School Principal
 
+#### Article 52
+
 The school principal shall be appointed by the school board, using the procedure that shall be governed in more detail in the laws of the entities, cantons, Brcko District of Bosnia and Herzegovina, and the general enactments of the school.
 
 The principal shall be responsible for daily management of the school and for directing of the pedagogical activities of the school.
 
 ### 3. Parents' Council
+
+#### Article 53
 
 Parents shall have the right to establish the parents council, and schools shall be obligated to assist them in this effort. The members of this council shall be elected by the pupils' parents.
 
@@ -477,19 +495,19 @@ The method and procedure for establishment and proceedings of the parents counci
 
 The parents council shall:
 
-- promote the interests of the school within the local community,
+- a) promote the interests of the school within the local community,
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
-- present the positions of pupils' parents before the school board,
+- b) present the positions of pupils' parents before the school board,
 
-- encourage the involvement of parents in the work of the school,
+- c) encourage the involvement of parents in the work of the school,
 
-- inform the school board on its positions when it deems necessary or upon the request of the school board, on any issue pertaining to the work and administration of the school, and
+- d) inform the school board on its positions when it deems necessary or upon the request of the school board, on any issue pertaining to the work and administration of the school, and
 
-- nominate the representative of parents for the school board.
+- e) nominate the representative of parents for the school board.
 
 ### 4. Pupils' Council
 
@@ -497,13 +515,13 @@ The parents council shall:
 
 Taking the age of pupils attending the schools into account, the school shall assist them in establishing the pupils' council, tasked with the function to:
 
-- promote the interests of the school within the local community,
+- a) promote the interests of the school within the local community,
 
-- present the positions of pupils before the school board,
+- b) present the positions of pupils before the school board,
 
-- encourage the involvement of pupils in the work of the school, and
+- c) encourage the involvement of pupils in the work of the school, and
 
-- inform the school board on its positions when it deems necessary or upon the request of the school board, on any issue pertaining to the work and administration of the school.
+- f) inform the school board on its positions when it deems necessary or upon the request of the school board, on any issue pertaining to the work and administration of the school.
 
 The method and procedure for establishment and proceedings of the pupils' council shall be determined in the general enactments of the school.
 
