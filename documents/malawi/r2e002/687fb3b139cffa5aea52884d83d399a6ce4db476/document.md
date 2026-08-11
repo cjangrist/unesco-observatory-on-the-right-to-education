@@ -1,4 +1,5 @@
 [[START OF PAGE 1]]
+MALAWI GOVERNMENT
 
 # NATIONAL POLICY ON EQUALISATION OF OPPORTUNITIES FOR PERSONS WITH DISABILITIES
 
@@ -16,6 +17,42 @@ National Policy on Equalisation of Opportunities for Persons with Disabilities
 
 # TABLE OF CONTENTS
 
+Foreword iv
+Preface v
+Abbreviations and Acronyms vi
+Definition of Terms vii
+1. Introduction 1
+1.1 Background 1
+1.2 Purpose of the Policy 1
+1.3 Linkages with other Relevant Policies 2
+1.4 Outline of the Policy 2
+2. Situational Analysis 3
+2.1 Nature and Magnitude of the Problem 3
+2.2 Prevalence of Disability in Malawi 3
+2.3 Poverty and Disability 4
+2.4 Barriers and Key Challenges 4
+
+3. Broad Policy Directions 7
+3.1 Vision 7
+3.2 Mission 7
+3.3 Guiding Principles 7
+3.4 Overall Goal 9
+3.5 Overall Policy Objectives 9
+4. Policy Statements 10
+4.1. Prevention, Early Identification and Intervention 10
+4.2 Rehabilitation 10
+4.3 Accessibility 11
+4.4 Transport 11
+4.5 Information and Communication 12
+4.6 Education and Training 13
+4.7 Economic Empowerment 14
+4.8 Social Welfare and Social Protection 15
+4.9 Self-Representation and Participation 16
+4.10 Sports, Recreation and Entertainment 16
+4.11 Housing 17
+4.12 Research and Appropriate Technology 17
+4.13 HIV and AIDS 18
+
 2
 
 [[END OF PAGE 2]]
@@ -23,6 +60,14 @@ National Policy on Equalisation of Opportunities for Persons with Disabilities
 [[START OF PAGE 3]]
 
 National Policy on Equalisation of Opportunities for Persons with Disabilities
+
+5. Institutional Arrangements and Strategies for Implementation 19
+5.1 Implementation Arrangements 19
+5.2 Institutional Arrangements 19
+5.3 Implementation Plan 24
+5.4 Risk Identification 25
+6. Monitoring and Evaluation 27
+6.1 Review of Policy 28
 
 3
 
@@ -62,7 +107,7 @@ Everyone has a right to a decent and meaningful life in the society under condit
 
 The National Policy on Equalisation of Opportunities for Persons with Disabilities has been  developed  in  order  to  promote  the  rights  of  people  with  disabilities  and  to integrate them in order to enable them play a full and participatory role in society. The aim is to ensure that people with disabilities access the same fundamental rights and  responsibilities  as  any  other  Malawian  citizen  and  that  they  are  included  in  all political, social and economic development initiatives in Malawi.
 
-Malawi as a member of the United Nations system and other international and subregional  bodies  has  acceded  to  several  international  and  sub-regional  agreements, declarations, protocols and instruments that commit it to implement and follow certain actions and norms of import for persons with disabilities in the country.
+Malawi as a member of the United Nations system and other international and sub-regional bodies has acceded to several international and sub-regional agreements, declarations, protocols and instruments that commit it to implement and follow certain actions and norms of import for persons with disabilities in the country.
 
 At national level, the Policy is based on the aspirations of the Constitution of Malawi and  other  national  policies,  such  as  the  Vision  2020,  the  Malawi  Poverty  Reduction Strategy Paper (MPRSP), the Malawi Economic and Growth Strategy (MEGS) and the Malawi  Development  and  Growth  Strategy  (MDGS),  all  of  which  aim  to  reduce poverty  through  the  stimulation  of  economic  growth  and  development.    All  these national and international developments pose a challenge to persons with disabilities to  redefine  the  role  and  contribute  to  the  attainment  of  the  goals  and  objectives enshrined in these instruments.
 
@@ -81,8 +126,6 @@ Clement K. Khembo, MP MINISTER OF PERSONS WITH DISABILITIES AND THE ELDERLY
 National Policy on Equalisation of Opportunities for Persons with Disabilities
 
 # ABBREVIATIONS AND ACRONYMS
-
-Disabilities
 
 CBR | - | Community Based Rehabilitation
 --- | --- | ---
@@ -111,7 +154,7 @@ WHO | - | World Health Organisation
 
 National Policy on Equalisation of Opportunities for Persons with Disabilities
 
-# DEFINITION OF TERMS :
+# DEFINITION OF TERMS:
 
 Below are definitions as used in this document:
 
@@ -177,11 +220,11 @@ Persons  with  disabilities  in  Malawi,  as  in  many  other  countries,  face 
 
 However, some countries have, in recent years, made a series of commitments to ensure that  the  rights  of  persons  with  disabilities  are  met.    They  have  adopted  laws  and policies aiming to achieve equalization of opportunities for persons with disabilities by promoting their rights and ensuring their full and equal participation in society. This has often been in response to national Constitutions, other national policies and legislations as  well  as  regional,  continental  and  international  Conventions.    These  policies  are frequently supported by legislation and implementation strategies as essential tools to promote the integration and social inclusion of persons with disabilities.
 
-In  Malawi,  the  most  far-reaching  and  comprehensive  of  these  commitments  is  the development of the National Policy on Equalization of Opportunities for Persons with Disabilities  that  is  intended  to  meet  the  challenges  and  aspirations  of  people  with disabilities.  The effectiveness of the Policy in achieving equalization of opportunities for disabled persons is central, not only in terms of the economic rights of disabled people, but also their broader social and political rights, which are closely linked to economic empowerment.  It is for this reason that the policy was developed following a broadbased  consultative  process  that  involved  men  and  women  from  various  levels  and sectors of the country, reflecting the cross-cutting nature and prevalence of disability in Malawi.
+In Malawi, the most far-reaching and comprehensive of these commitments is the development of the National Policy on Equalization of Opportunities for Persons with Disabilities that is intended to meet the challenges and aspirations of people with disabilities. The effectiveness of the Policy in achieving equalization of opportunities for disabled persons is central, not only in terms of the economic rights of disabled people, but also their broader social and political rights, which are closely linked to economic empowerment. It is for this reason that the policy was developed following a broad-based consultative process that involved men and women from various levels and sectors of the country, reflecting the cross-cutting nature and prevalence of disability in Malawi.
 
 ## 1.2 Purpose Of The Policy
 
-The purpose of the National Policy on Equalisation of Opportunities for Persons with Disabilities is to promote the rights of people with disabilities to enable them play a full and participatory role in society.  The aim is to ensure that concrete steps are taken for people  with  disabilities  to  access  the  same  fundamental  rights  and  responsibilities  as any other Malawian citizen.  This  means that there must be  integration of disability issues  in  all  government  development  strategies,  planning  and  programmes.    There must be an integrated and coordinated management system of planning, implementation and monitoring at all levels.  To complement the process, there must be  capacity  building  and  wide  public  education  and  awareness  about  disability. Reaching these goals should benefit not only persons with disabilities, but also society as a whole.
+The purpose of the National Policy on Equalisation of Opportunities for Persons with Disabilities is to promote the rights of people with disabilities to enable them play a full and participatory role in society. The aim is to ensure that concrete steps are taken for people with disabilities to access the same fundamental rights and responsibilities as any other Malawian citizen. This means that there must be integration of disability issues in all government development strategies, planning and programmes. There must be an integrated and coordinated management system of planning, implementation and monitoring at all levels. To complement the process, there must
 
 9
 
@@ -190,6 +233,7 @@ The purpose of the National Policy on Equalisation of Opportunities for Persons 
 [[START OF PAGE 10]]
 
 National Policy on Equalisation of Opportunities for Persons with Disabilities
+be capacity building and wide public education and awareness about disability. Reaching these goals should benefit not only persons with disabilities, but also society as a whole.
 
 ## 1.3     Linkages With Other Relevant Policies
 
@@ -199,7 +243,7 @@ It  is  also  linked  to  the  Education Policy which contains provisions for al
 
 ## 1.4 Outline of the Policy
 
-This  Policy  document  is  organised  into  five  chapters  as  follows:    The  Introduction  in Chapter One sets the background of the policy stating its purpose and aim.  The Policy also  describes  briefly  how  it  links  with  other  existing  policies  and  other  pieces  of legislation.    Chapter  Two  describes  the  existing  situation  of  persons  with  disabilities including the prevalence rate of disability and the key challenges and barriers faced by persons  with  disabilities  in  Malawi.    In  setting  the  broad  policy  directions  in  Chapter Three, the document highlights the vision, mission and the principles that will guide its implementation.  It also states the overall goal and objectives of the policy.  Chapter Four highlights the policy statements identifying sector priority policy areas and singles out  the  goals,  objectives  and  strategies  for  each  priority  policy  area.    The  Policy document in Chapter Five highlights implementation arrangements including institutional  arrangements.  Then  finally  in  Chapter  Six,  issues  of  monitoring  and evaluation including the review of the Policy are considered.
+This Policy document is organised into five chapters as follows: The Introduction in Chapter One sets the background of the policy stating its purpose and aim. The Policy also describes briefly how it links with other existing policies and other pieces of legislation. Chapter Two describes the existing situation of persons with disabilities including the prevalence rate of disability and the key challenges and barriers faced by persons with disabilities in Malawi. In setting the broad policy directions in Chapter Three, the document highlights the vision, mission and the principles that will guide its implementation. It also states the overall goal and objectives of the policy. Chapter Four highlights the policy statements identifying sector priority policy areas and singles out the goals, objectives and strategies for each priority policy area. The Policy document in Chapter Five highlights implementation arrangements including
 
 10
 
@@ -208,6 +252,7 @@ This  Policy  document  is  organised  into  five  chapters  as  follows:    The
 [[START OF PAGE 11]]
 
 National Policy on Equalisation of Opportunities for Persons with Disabilities
+institutional arrangements. Then finally in Chapter Six, issues of monitoring and evaluation including the review of the Policy are considered.
 
 11
 
@@ -233,7 +278,7 @@ However, over the recent past years, disability has been repositioned as a human
 
 Malawi has people with various kinds of disabilities.  There is, however, a lack of reliable statistics  on  the  nature  and  prevalence  of  disability  in  Malawi.    According  to  a  1983 national survey, there were 190,000 people with disabilities in Malawi that translated into 2.9 per cent of the population of the time, 54% of which was male and 46% female. The study also revealed that 45% were in the 15 - 45 age category and 24% were 50 years  or  older  and  that  90%  of  them  lived  in  rural  areas  with  little  or  no  access  to rehabilitation services.
 
-However,  a  2003  study  on  the  Living  Conditions  among  People  with  Activity Limitations indicated that the number of people with disabilities in Malawi has grown up by 30% in the twenty-year period (1983 to 2003).  The study revealed that 4.18% or 480,000 persons of the population consist of persons with disabilities, 51% being males and  48%  females.    The  study  further  shows  that  access  to  education  is  restricted  to persons  with  disabilities  especially  those  with  sensory  and  mental  impairments.    The level  of  unemployment among  persons with disabilities  is  higher.    In  general  women score lower on many of the indicators of the level of living conditions. Individuals with mental/emotional impairments experience activity limitations in social participation to a greater degree than do others with other types of impairments.  There is, however, need to conduct a comprehensive disability survey in order to determine the accurate numbers  of people with disabilities, types of disabilities and  their prevalence, geographic coverage and age distribution.
+However, a 2003 study on the Living Conditions among People with Activity Limitations indicated that the number of people with disabilities in Malawi has grown
 
 12
 
@@ -242,6 +287,7 @@ However,  a  2003  study  on  the  Living  Conditions  among  People  with  Acti
 [[START OF PAGE 13]]
 
 National Policy on Equalisation of Opportunities for Persons with Disabilities
+up by 30% in the twenty-year period (1983 to 2003). The study revealed that 4.18% or 480,000 persons of the population consist of persons with disabilities, 51% being males and 48% females. The study further shows that access to education is restricted to persons with disabilities especially those with sensory and mental impairments. The level of unemployment among persons with disabilities is higher. In general women score lower on many of the indicators of the level of living conditions. Individuals with mental/emotional impairments experience activity limitations in social participation to a greater degree than do others with other types of impairments. There is, however, need to conduct a comprehensive disability survey in order to determine the accurate numbers of people with disabilities, types of disabilities and their prevalence, geographic coverage and age distribution.
 
 ## 2.3 POVERTY AND DISABILITY
 
@@ -253,7 +299,7 @@ In  Malawi  poverty  is  widespread,  deep  and  severe.    There  is  a  close 
 
 Persons  with  disabilities  face  a  number  of  barriers  that  pose  significant  challenges  to them.  These  barriers  include  environmental,  institutional,  attitudinal  and  economic barriers  that  prevent  them  from  participating  fully  in and  being  included  in  the mainstream of society.  Environmental barriers include inaccessible public and private buildings;  institutional  barriers  include  expulsion,  exclusion  and  segregation  from  key social institutions; while due to attitudinal barriers, persons with disabilities are treated with  prejudice  of  varying  degrees.    Persons  with  disabilities  also  face  a  number  of economic barriers and are disadvantaged in terms of access to loans; land and property ownership;  business  ventures  and  employment  avenues  resulting  in  the  majority  of persons with disabilities living in abject poverty with no access to resources and income.
 
-Owing  to  these  barriers,  the  majority  of  people  with  disabilities  in  Malawi  are confronted with many and varied challenges as they struggle to achieve their broader political, social and economic rights that would lead to their inclusion and integration into the mainstream Malawian society.   The following are the major challenges that need to be addressed in order to create a society for all:
+Owing to these barriers, the majority of people with disabilities in Malawi are confronted with many and varied challenges as they struggle to achieve their broader political, social and economic rights that would lead to their inclusion and integration
 
 13
 
@@ -262,6 +308,7 @@ Owing  to  these  barriers,  the  majority  of  people  with  disabilities  in  
 [[START OF PAGE 14]]
 
 National Policy on Equalisation of Opportunities for Persons with Disabilities
+into the mainstream Malawian society. The following are the major challenges that need to be addressed in order to create a society for all:
 
 ### 2.4.1  Exclusion, Marginalisation and Vulnerability
 
@@ -281,7 +328,7 @@ Disabled people are particularly affected by and vulnerable to HIV and AIDS. Man
 
 ### 2.4.5  Employment
 
-People  with  disabilities  have  restricted  employment  opportunities,  mainly  due  to discrimination, inadequate education and training, job experience and confidence. As a matter of fact, employment opportunities for disabled people in developing countries are often almost non-existent. Consequently many depend on welfare or even beg for a living.
+People with disabilities have restricted employment opportunities, mainly due to discrimination, inadequate education and training, job experience and confidence. As a
 
 14
 
@@ -290,6 +337,7 @@ People  with  disabilities  have  restricted  employment  opportunities,  mainly
 [[START OF PAGE 15]]
 
 National Policy on Equalisation of Opportunities for Persons with Disabilities
+matter of fact, employment opportunities for disabled people in developing countries are often almost non-existent. Consequently many depend on welfare or even beg for a living.
 
 ### 2.4.6 Exploitation
 
@@ -301,7 +349,7 @@ Exclusion leads disabled people  to fall further into chronic poverty with littl
 
 ### 2.4.8 Access Barriers
 
-In  addition  to  social  and  attitudinal  barriers,  disabled  people  also  face  architectural and environmental barriers that limit access to community services and facilities and hinder equal participation. Most roads, buildings, houses and public utilities - including public transport - do not cater for special mobility needs. Little or no attempt is made to  legislate  to  require  accessibility  provisions  in  public  services.  Persons  with  sensory disabilities are completely cut off from the information world when public services fail to provide information in accessible formats, such as Braille, sign language and easy-toread texts.
+In addition to social and attitudinal barriers, disabled people also face architectural and environmental barriers that limit access to community services and facilities and hinder equal participation. Most roads, buildings, houses and public utilities – including public transport – do not cater for special mobility needs. Little or no attempt is made to legislate to require accessibility provisions in public services. Persons with sensory disabilities are completely cut off from the information world when public services fail to provide information in accessible formats, such as Braille, sign language and easy-to-read texts.
 
 ### 2.4.9 Political Process
 
@@ -309,7 +357,7 @@ Disabled people are frequently excluded from decision-making processes, includin
 
 ### 2.4.10 Specific Concerns of Disabled Women and Children
 
-Children  and  women  with  disabilities  experience  greater  discrimination  and  higher levels of exclusion from the mainstream society. Women with disability are subjected to dual discrimination; first based on their gender which assign them a lower status and secondly, they are further devalued because of how society perceives disability and are in some instances discriminated against by fellow non-disabled women.  On the other hand, children with disabilities are severely disadvantaged by their dependence on the goodwill  of  their  parents  and  guardians  for  them  to  access  the  very  limited  early intervention and rehabilitation services that are available in the country.
+Children and women with disabilities experience greater discrimination and higher levels of exclusion from the mainstream society. Women with disability are subjected to dual discrimination; first based on their gender which assign them a lower status and secondly, they are further devalued because of how society perceives disability and are in some instances discriminated against by fellow non-disabled women. On the other hand, children with disabilities are severely disadvantaged by their dependence on the
 
 15
 
@@ -318,6 +366,7 @@ Children  and  women  with  disabilities  experience  greater  discrimination  a
 [[START OF PAGE 16]]
 
 National Policy on Equalisation of Opportunities for Persons with Disabilities
+goodwill of their parents and guardians for them to access the very limited early intervention and rehabilitation services that are available in the country.
 
 16
 
@@ -355,7 +404,7 @@ The  policy  affirms  that  disabled  people  want  equal  rights,  not  charity
 
 ### 3.3.3 A twin-track approach to service delivery
 
-The  policy  underscores  the  need  to  mainstream  disability  issues  across  all  relevant government policies, plans, programmes and projects and to have at the same time specific  policies,  plans,  programmes  and  projects  administered  by  the  responsible  line Ministry.  This means that sector disability priority areas should be recognised and their cost  of  implementation  included  in  the  individual  budgets  of  line  Ministries  and Departments  as  well  as  Local  Assemblies,  apart  from  the  Ministry  responsible  for Persons with Disabilities maintaining its own budget.
+The policy underscores the need to mainstream disability issues across all relevant government policies, plans, programmes and projects and to have at the same time specific policies, plans, programmes and projects administered by the responsible line Ministry. This means that sector disability priority areas should be recognised and their cost of implementation included in the individual budgets of line Ministries and
 
 17
 
@@ -364,6 +413,7 @@ The  policy  underscores  the  need  to  mainstream  disability  issues  across 
 [[START OF PAGE 18]]
 
 National Policy on Equalisation of Opportunities for Persons with Disabilities
+Departments as well as Local Assemblies, apart from the Ministry responsible for Persons with Disabilities maintaining its own budget.
 
 ### 3.3.4   Ensuring access for disabled people to all public sector activities
 
@@ -387,7 +437,7 @@ The policy recognises the need to promote gender equality and equity and, theref
 
 ### 3.3.9 Inclusion of disabled people in the workforce
 
-The policy recognises the need for the public sector to take the lead and be exemplary in employing a reasonable proportion of disabled people among its staff. This could be achieved by working with specific quotas although a more fruitful approach would be to  ensure  that  disabled  people  are  fully  included  in  training  and  employment programmes.  Public servants should be made aware of the need to include disabled people in the workplace.
+The policy recognises the need for the public sector to take the lead and be exemplary in employing a reasonable proportion of disabled people among its staff. This could be
 
 18
 
@@ -396,6 +446,7 @@ The policy recognises the need for the public sector to take the lead and be exe
 [[START OF PAGE 19]]
 
 National Policy on Equalisation of Opportunities for Persons with Disabilities
+achieved by working with specific quotas although a more fruitful approach would be to ensure that disabled people are fully included in training and employment programmes. Public servants should be made aware of the need to include disabled people in the workplace.
 
 ### 3.3.10 Facilitation and supporting capacity building of disabled people's organisations
 
@@ -487,8 +538,8 @@ Promote availability of the necessary equipment, skills and services to all pers
 4.2.1.5 | Promote access to vocational training and socio-economic advancement.
 4.2.1.6 | Provide minimum disability package.
 4.2.1.7 | Consolidate and extend CBR programmes.
-## 4.3 | Accessibility
-### 4.3.1 | Objective
+## 4.3 Accessibility
+### 4.3.1 Objective
 
 Promote easy access to the physical environment.
 
@@ -686,7 +737,7 @@ National Policy on Equalisation of Opportunities for Persons with Disabilities
 
 - 4.8.1.3 Provide information to persons with disabilities for accessing benefits that they are entitled to.
 
-- 4.8.1.4 Facilitate  availability  of  effective  feedback  mechanisms  for  cocoordinated social protection and safety nets
+- 4.8.1.4 Facilitate  availability  of  effective  feedback  mechanisms  for  co-coordinated social protection and safety nets
 
 - 4.8.1.5 Enforce systems, through legislative and administrative means, to protect  the  rights  of  persons  with  disabilities  against  any  form  of discrimination and    abuse in society.
 
@@ -836,7 +887,7 @@ An appropriate and efficient administrative structure and system shall be put in
 
 ### 5.2.1 Line Ministries and Government Departments
 
-All  Government  Ministries,  Departments  and  statutory  bodies  are  responsible  for  the implementation, monitoring and evaluation of the National Policy on Equalisation of Opportunities for Persons with Disabilities within their sectors. They have a responsibility  to  ensure  that  persons  with  disabilities  have  equal  access,  rights  and responsibilities  as  any  other  Malawian.   This would enable persons with disabilities to play a full and participatory role in national development. The successful integration of persons  with  disabilities  in  the  mainstream  of  society,  therefore,  requires  a  multidisciplinary  approach  in  Government.    However,  the  following  Ministries  will  play leading roles in the implementation of the policy as highlighted:
+All  Government  Ministries,  Departments  and  statutory  bodies  are  responsible  for  the implementation, monitoring and evaluation of the National Policy on Equalisation of Opportunities for Persons with Disabilities within their sectors. They have a responsibility  to  ensure  that  persons  with  disabilities  have  equal  access,  rights  and responsibilities  as  any  other  Malawian.   This would enable persons with disabilities to play a full and participatory role in national development. The successful integration of persons  with  disabilities  in  the  mainstream  of  society,  therefore,  requires  a  multi-disciplinary  approach  in  Government.    However,  the  following  Ministries  will  play leading roles in the implementation of the policy as highlighted:
 
 #### 5.2.1.1   Ministry of Social Development and Persons with Disabilities
 
@@ -984,7 +1035,7 @@ National Policy on Equalisation of Opportunities for Persons with Disabilities
 
  Ensure  user-friendliness  of  micro-building  projects  such  as  schools,  hospitals, clinics, toilets to persons with disabilities.
 
- Incorporate special needs for persons with disabilities  in Local Assemblies byelaws.
+ Incorporate special needs for persons with disabilities  in Local Assemblies bye-laws.
 
  Maintain  a  data-base  for  all  persons  with  disabilities  in      respective  areas  of jurisdiction.
 
@@ -1092,7 +1143,7 @@ National Policy on Equalisation of Opportunities for Persons with Disabilities
 
 ## 5.3 IMPLEMENTATION PLAN
 
-The implementation plan for the Policy is in the form of an Action Programme that is derived from the main Policy document and appears as Part II of the Policy.  The Plan was  developed  after  extensive  consultations  with  key  stakeholders.    The  need  for  a comprehensive  implementation  plan  is  paramount  considering  Government's  past inability to comprehensively implement well-developed policies.  The reasons for such inability were numerous but the most common one was the lack of a clear and welldefined implementation plan or action programme, with detailed tasks, deliverables, responsibilities and resource requirements.
+The implementation plan for the Policy is in the form of an Action Programme that is derived from the main Policy document and appears as Part II of the Policy.  The Plan was  developed  after  extensive  consultations  with  key  stakeholders.    The  need  for  a comprehensive  implementation  plan  is  paramount  considering  Government's  past inability to comprehensively implement well-developed policies.  The reasons for such inability were numerous but the most common one was the lack of a clear and well-defined implementation plan or action programme, with detailed tasks, deliverables, responsibilities and resource requirements.
 
 This Action Programme is, therefore, a bold attempt to operationalise the statements contained  in  the  National  Policy  on  Equalisation  of  Opportunities  for  Persons  with Disabilities  by  implementing  the  overall  goals  and  objectives,  strategies  and  actions over time.  Indicative specific timeframes have been assigned in the Action Programme that will be subject to periodic review, taking into account the realities on the ground.
 
