@@ -8,7 +8,7 @@ Ministry of Education of the Republic of Belarus
 
 # I of . Information on legislative, judicial, administrative and other measures taken by the state at the national level
 
-## Ratification of the Convention[1]
+## 1. Ratification of the Convention[1]
 
 Is your country a party to the Convention?
 
@@ -34,7 +34,7 @@ Describe:
 
 ☐ No, does not consider ratification in the near future. Name the reasons.
 
-## Ratification of the Protocol[2] establishing a commission for reconciliation and  good  offices  to  resolve  disputes  that  may  arise  between  States  parties  to  the Convention against Discrimination in Education
+## 2. Ratification of the Protocol[2] establishing a commission for reconciliation and good offices to resolve disputes that may arise between States parties to the Convention against Discrimination in Education
 
 Has your country ratified this Protocol?
 
@@ -46,7 +46,7 @@ Has your country ratified this Protocol?
 
 √ No. Briefly explain the difficulties encountered:
 
-## Legal framework governing the protection of the rights guaranteed by the Convention and the Recommendation in the national legal system
+## 3. Legal framework governing the protection of the rights guaranteed by the Convention and the Recommendation in the national legal system
 
 ### If your country is a party to the Convention:
 
@@ -91,9 +91,9 @@ The information provided will show the extent to which such policies and program
 line with the obligations to exercise the right to education under the Recommendation.
 # II . Information on the implementation of the Convention or Recommendation
 
-## Non-discrimination and equal opportunities in education in the context of the Sustainable Development Goal 4 (SDG 4)
+## 1. Non-discrimination and equal opportunities in education in the context of the Sustainable Development Goal 4 (SDG 4)
 
-Articles / paragraphs 1 (1), 2 and 3 of the Convention / Recommendation state that nondiscrimination and equal opportunities in education are ensured. This part refers to the main purpose of the Convention / Recommendation, which is to focus the State's attention on the prohibition of all forms of discrimination in education and to promote equality of opportunity in this area.
+Articles / paragraphs 1 (1), 2 and 3 of the Convention / Recommendation state that non-discrimination and equal opportunities in education are ensured. This part refers to the main purpose of the Convention / Recommendation, which is to focus the State's attention on the prohibition of all forms of discrimination in education and to promote equality of opportunity in this area.
 
 It has the general objective of chur 4, which is to "ensure inclusive and equitable quality of the Court and encouraging the learning throughout life for all" in 2030.
 
@@ -139,7 +139,7 @@ General requirements for admission of persons for pre-school education are defin
 
 [[START OF PAGE 4]]
 
-Reception person in the institutions I preschool and analysis carried out during the calendar year in the presence of its availability and on the basis of: the statements legal representative of the pupil; referrals to a state educational institution for mastering the content of the educational program of preschool education, educational program of special education at the level of preschool education, educational  program  of  special  education  at  the  level  of  preschool  education  for  persons  with intellectual disabilities issued by the local executive and administrative body at the location of the state  preschool  education  institution; medical  certificate  of  health; conclusions  of  the  medicalconsulting commission (for sanatorium nurseries-kindergartens, sanatorium kindergartens, sanatorium groups); conclusions of the state center of correctional and developmental training and rehabilitation (for  special  groups,  groups  of  integrated training  and  education)  (item  45  of  the Regulations on the institution of preschool education).
+Reception person in the institutions I preschool and analysis carried out during the calendar year in the presence of its availability and on the basis of: the statements legal representative of the pupil; referrals to a state educational institution for mastering the content of the educational program of preschool education, educational program of special education at the level of preschool education, educational program of special education at the level of preschool education for persons with intellectual disabilities issued by the local executive and administrative body at the location of the state preschool education institution; medical certificate of health; conclusions of the medical-consulting commission (for sanatorium nurseries-kindergartens, sanatorium kindergartens, sanatorium groups); conclusions of the state center of correctional and developmental training and rehabilitation (for special groups, groups of integrated training and education) (item 45 of the Regulations on the institution of preschool education).
 
 #### Admission of students to general secondary education institutions
 
@@ -285,7 +285,7 @@ Convention on the Rights of the Child (Concluded in New York on November 20, 198
 
 Law of the Republic of Belarus of 19.11.1993 № 2570-XII (ed. Of 11.05.2016) 'On the rights of the child' (as amended and supplemented, which came into force on 01.07.2017)
 
-## Progress made in the realization of the right to education in the context of the SDGs 4
+## 2. Progress made in the realization of the right to education in the context of the SDGs 4
 
 ### 2.1 Preschool education
 
@@ -440,11 +440,13 @@ This  section  also  provides  information  on  the  difficulties  faced  by  yo
 
 - Indicate whether the legislation on the minimum age for employment in your country has been adopted and revised, taking into account the completion of compulsory education:
 
-Please  note  that  the  legislation  on  the  minimum  age  for  employment  and  the  legislation  on compulsory  education  are  interdependent  and  mutually  reinforcing. If  the  minimum  age  for employment is below the age of compulsory education, then there is a risk that the child may drop out of school to work and therefore not receive compulsory education. On the other hand, if the age of completion of compulsory education is below the minimum age for employment, then after the child graduates from an educational institution, the ground is created for the exploitation of child labor and violation of labor legislation.
+Please note that the legislation on the minimum age for employment and the legislation on compulsory education are interdependent and mutually reinforcing. If the minimum age for employment is below the age of compulsory education, then there is a risk that the child may drop out of school to work and therefore not receive compulsory education. On the other hand, if the age
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+of completion of compulsory education is below the minimum age for employment, then after the child graduates from an educational institution, the ground is created for the exploitation of child labor and violation of labor legislation.
 
 § - Yes .
 
@@ -570,7 +572,7 @@ The concept 'Non-formal adult education in Belarus. Agenda: materials for discus
 
 The  situation  with  COVID- 19 contributed  to  the  intensive introduction  of information  and communication technologies into the educational process, the transition to distance learning .
 
-The  country  is  implementing  a  project  with  the  support  of  the  Erasmus  +  program "Enhancement  of  Lifelong  Learning  in  Belarus:  BELL  (586278-EPP-1-2017-1-LV-EPPKA2CBHE-JP)", which aims to expand cooperation universities and regional communities in continuing education, providing a wide range of educational programs using various learning technologies, including distance learning (https://bell-iln.by/ru/).
+The country is implementing a project with the support of the Erasmus + program "Enhancement of Lifelong Learning in Belarus: BELL (586278-EPP-1-2017-1-LV-EPPKA2-CBHE-JP)", which aims to expand cooperation universities and regional communities in continuing education, providing a wide range of educational programs using various learning technologies, including distance learning (https://bell-iln.by/ru/).
 
 Most adult education institutions have established distance learning systems and expanded the use of ICT solutions for distance learning for adults (for example, http://nihe.bsu.by/index.php/ru/distantsionnoe-povyshenie-kvalifikatsii-na-fpkip).
 
@@ -644,11 +646,13 @@ In  the  implementation  of  educational  programs  of  vocational  and  seconda
 
 When studying the cycle  of  social  and  humanitarian  disciplines  in  a  number  of  higher education institutions, the following disciplines are offered as disciplines of the student's choice: "Human Rights", "Children's Rights".
 
-Since 2016 ,  the  Ministry  of  Education  has  been  participating  in  the  OSCE  Office  for Democratic  Institutions  and  Human  Rights  (ODIHR)  project  "Promoting  Democratization  and Human Rights in Belarus". The result of joint work were draft programs of optional classes for general secondary education institutions, draft curricula for vocational, secondary special, higher education institutions, as well as a textbook for use in the implementation of educational programs for teachers.
+Since 2016 , the Ministry of Education has been participating in the OSCE Office for Democratic Institutions and Human Rights (ODIHR) project "Promoting Democratization and Human Rights in Belarus". The result of joint work were draft programs of optional classes for general secondary education institutions, draft curricula for vocational, secondary special, higher
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
+
+education institutions, as well as a textbook for use in the implementation of educational programs for teachers.
 
 #### For reference:
 
@@ -668,7 +672,7 @@ The Ministry of Education of the Republic of Belarus together with the ODIHR / O
 
 - Analysis of regulations and curricula of key courses of general secondary, vocational and secondary special, higher and postgraduate education for the presence of framework competencies in the field of human rights education and prepared recommendations (results are available at: http
 
-: //nihe.bsu.by/index.php/ru/proekt bdipch-obse-i-ministrystva-obrazovaniya-rb-cooperatjdemokratizatsii-i-soblyudeniyu-prav-cheloveka-v-belarusi).
+: //nihe.bsu.by/index.php/ru/proekt bdipch-obse-i-ministrystva-obrazovaniya-rb-cooperatj-demokratizatsii-i-soblyudeniyu-prav-cheloveka-v-belarusi).
 
 - Developed human rights education curricula for general secondary education (optional courses for grades 3 (4), 5 (6) and 7 (8), as well as the Peer Teaches Equal program), an optional course for vocational -technical and secondary special education, higher education (two curricula for inclusion in the state component) and teacher training systems.
 
@@ -684,15 +688,13 @@ Articles / paragraphs 2 (c) and 5 (1) ( b ) of the Convention / Recommendation p
 
 [[START OF PAGE 19]]
 
--Is there a regulatory framework in your country regarding the establishment and operation of private educational institutions?
+- Is there a regulatory framework in your country regarding the establishment and operation of private educational institutions?
 
--Give a brief description:
+√ Yes □ No □
 
-√
+- Give a brief description:
 
-Yes □ No □
-
-According to paragraph 6 of Article 19 of the Education Code of the Republic, educational institutions may be public or private. Financing of private educational institutions is carried  out  at  the  expense  of  the  founders,  funds  received  from  income-generating  activities, gratuitous (sponsorship) assistance of legal entities, individual entrepreneurs and other sources not prohibited by law.
+According to paragraph 6 of Article 19 of the Education Code of the Republic, educational institutions may be public or private. Financing of private educational institutions is carried out at the expense of the founders, funds received from income-generating activities, gratuitous (sponsorship) assistance of legal entities, individual entrepreneurs and other sources not prohibited by law.
 
 In accordance with Articles 27 and 142 of the Education Code of the Republic of Belarus, activities to implement the educational program of preschool education may be carried out both in educational institutions (preschool institutions) and in other organizations, individual entrepreneurs who  are entitled to carry out educational activities. (hereinafter -other organizations). The Education Code of the Republic of Belarus does not limit other organizations to  a  certain  organizational  and  legal  form. The  implementation  of  the  educational  program  of preschool  education  must  meet  the  requirements  established  by  the  legislation  on  education, including  the  organization  of  the  educational  process,  the  development,  approval,  use  of curriculum documentation, control and self-control over the quality of education.
 
@@ -702,19 +704,17 @@ Establishment of preschool education institutions, other organizations is regula
 
 At present, there are 15 privately owned educational institutions in the republic, which implement the educational program of preschool education.
 
--Are the legal provisions prohibiting discrimination on the grounds listed in the Convention / Recommendation applicable? [9] , directly to private educational institutions?
-
--Briefly describe which laws, regulations or strategies ensure that the development of private education does not discriminate and that private schools offer an appropriate alternative in your country:
-
-- Constitution of the Republic of Belarus : Articles 2, 11, 12, 16, 21, 22, 23, 32, 49.
-
-- Code of the Republic of Belarus on Education: Article 2 "Fundamentals of State Policy in the Field of  Education"  (subclause  1.3.  Principle  of  guaranteeing  the  constitutional  right  of  everyone  to education, subclause 1.4. Principle of ensuring equal access to education), article 3 "State guarantees of rights in education" ».
-
-- Regulations on the institution of preschool education, approved by the resolution of the Ministry of Education of the Republic of Belarus of July 25, 2011 № 150: paragraph 53 of Chapter 5
+- Are the legal provisions prohibiting discrimination on the grounds listed in the Convention / Recommendation applicable? [9] , directly to private educational institutions?
 
 √ Yes □ No □
 
-"Admission, transfer and expulsion of pupils."
+- Briefly describe which laws, regulations or strategies ensure that the development of private education does not discriminate and that private schools offer an appropriate alternative in your country:
+
+- Constitution of the Republic of Belarus : Articles 2, 11, 12, 16, 21, 22, 23, 32, 49.
+
+- Code of the Republic of Belarus on Education: Article 2 "Fundamentals of State Policy in the Field of Education" (subclause 1.3. Principle of guaranteeing the constitutional right of everyone to education, subclause 1.4. Principle of ensuring equal access to education), article 3 "State guarantees of rights in education" ».
+
+- Regulations on the institution of preschool education, approved by the resolution of the Ministry of Education of the Republic of Belarus of July 25, 2011 № 150: paragraph 53 of Chapter 5 "Admission, transfer and expulsion of pupils."
 
 [[END OF PAGE 19]]
 
@@ -782,11 +782,13 @@ The information may  also affect language opportunities, such as the availabilit
 
 ### 2.10 Rights of refugees and migrants
 
-The  rights  of  refugees  and  migrants  are  not  explicitly  enshrined  in  the  Convention  / Recommendation. However,  the  Convention  and  the  Recommendation  call  on  States  to eliminate and prevent discrimination in education, in particular on the basis of nationality. [10] In  this  context,  a  number  of  Member  States  participating  in  the  9th Consultative Meeting reported on measures taken to ensure the right of refugees and migrants to education. The growing number of displaced persons, the influx of refugees worldwide and the emergence of serious educational challenges in this area, as well as the framework recently adopted by the international community, [11] , demonstrate the ability of States to report on measures taken to integrate refugees and migrants into national education systems.
+The rights of refugees and migrants are not explicitly enshrined in the Convention / Recommendation. However, the Convention and the Recommendation call on States to
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
+
+eliminate and prevent discrimination in education, in particular on the basis of nationality.[10] In this context, a number of Member States participating in the 9th Consultative Meeting reported on measures taken to ensure the right of refugees and migrants to education. The growing number of displaced persons, the influx of refugees worldwide and the emergence of serious educational challenges in this area, as well as the framework recently adopted by the international community,[11] , demonstrate the ability of States to report on measures taken to integrate refugees and migrants into national education systems.
 
 In addition, this aspect is also in line with objective 4.5 of the SDGs, which calls on States to ensure  equal  access  to  all  levels  of  education  and  training  for  vulnerable  populations, including "vulnerable children", and covers most of the SDGs' objectives.
 
@@ -818,7 +820,7 @@ Law  of  the  Republic  of  Belarus  of  23.06.2008  No.  354-З  (ed.  Of  20.0
 
 □ √ Accelerated learning programs
 
-□ √ Nonformal and / or alternative educational programs
+□ √ Non- formal and / or alternative educational programs
 
 □ Financial support
 
@@ -864,7 +866,7 @@ UNESCO's governing bodies stressed the need to raise public awareness. Given the
 
 □ Raising  public  awareness  through  the  dissemination  of  information  materials  on  the Convention / Recommendation or the basic principles of the right to education
 
-□ Activities carried out or supported by the  National  Commission  to  promote  non- discrimination and equality of opportunity in education, as well as to promote the discussion of key issues related to the rights enshrined in these documents
+□ Activities carried out or supported by the National Commission to promote non-discrimination and equality of opportunity in education, as well as to promote the discussion of key issues related to the rights enshrined in these documents
 
 □ Other:
 
@@ -872,7 +874,7 @@ UNESCO's governing bodies stressed the need to raise public awareness. Given the
 
 [1] http://portal.unesco.org/en/ev.phpURL_ID=12949&URL_DO=DO_TOPIC&URL_SECTION=201.html
 
-- http://portal.unesco.org/en/ev.php-URL_ID=15321&URL_DO=DO_TOPIC&URL_SECTION=201.html
+[2] http://portal.unesco.org/en/ev.php-URL_ID=15321&URL_DO=DO_TOPIC&URL_SECTION=201.html
 
 [3] Encourages States to "eliminate gender inequalities in education and ensure equal access to education and training for all levels of vulnerable populations, including persons with disabilities, indigenous peoples and vulnerable children."
 
