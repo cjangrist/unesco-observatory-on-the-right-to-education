@@ -12,7 +12,7 @@ Eleventh consultation of Member  States on the application of the Convention and
 
 ## 1. Introduction
 
-The Convention against Discrimination in Education ('the Convention') and the Recommendation against  Discrimination  in  Education  ('the  Recommendation'),  adopted  by  UNESCO's  General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'ad vance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
+The Convention against Discrimination in Education ('the Convention') and the Recommendation against Discrimination in Education ('the Recommendation'), adopted by UNESCO's General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'advance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
 
 The right to education is one of the key principles underpinning the Education 2030 agenda and Sustainable Development Goal 4 (SDG4) adopted by the international community in 2015. SDG 4 seeks to ensure the full enjoyment of the right to education as fundamental to achieving sustainable development. Its scope captures the multidimensional nature of the right to education.
 
@@ -42,7 +42,7 @@ There are differences in the legal nature of the obligations under the Conventio
 
 Bearing in mind the differences in legal scope inherent to the nature of these two categories of instruments,  the  content  of  the  Recommendation  is  identical  to  that  of  the  Convention.  Member States are expected to give effect to it in national legislation and education policies.
 
-The  reporting  obligation  under  the  provisions  of  Article  VII  of  the  Convention  and  of  the Recommendation is the same. Article VIII of UNESCO's Constitution states that ' Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General  Conference,  reports  on  the  laws,  regulations  and  statistics  relating  to  its  educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to i n Article IV, paragraph 4' . Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
+The reporting obligation under the provisions of Article VII of the Convention and of the Recommendation is the same. Article VIII of UNESCO's Constitution states that “Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General Conference, reports on the laws, regulations and statistics relating to its educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4”. Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
 
 > 1 https://www.unesco.org/en/right-education/evolving
 
@@ -68,11 +68,11 @@ The Futures of Education Report calls for a new social contract for education, w
 
 The preparation of national reports provides a good opportunity for Member States to assess the implementation  of  the  right  to  education  in  their  country,  identify  specific  challenges,  build constructive dialogue with other actors involved in this field and share good practices.
 
-In the preparation of reports, Member States are encouraged to provide substantive and relevant information  in  a  concise  manner .  In  addition  to  a  description  of  the  constitutional,  legislative, administrative, and  policy framework  established  for  the implementation  of  the provisions guaranteed by the instruments, the information supplied by Member States should demonstrate how legal norms and practices comply with the Convention and the Recommendation.
+In the preparation of reports, Member States are encouraged to provide substantive and relevant information in a concise manner. In addition to a description of the constitutional, legislative, administrative, and policy framework established for the implementation of the provisions guaranteed by the instruments, the information supplied by Member States should demonstrate how legal norms and practices comply with the Convention and the Recommendation.
 
 Relevant information supplied for other reporting instances may be reproduced or referred to with precise indication as to its retrieval. Similarly, hyperlinks to any useful documents or relevant legal and policy texts are most welcome and texts can also be added in the annex.
 
-Country reports submitted for previous consultations can be found on the Observatory on the right to education 7 in the monitoring section of the country profile. The information provided in the reports are valuable both for the Observatory on the right to education as well as for HerAtlas 8 , the online monitoring tool for girls' and women's right to education. Information and data regarding countries ' education systems are also available through the UNESCO Institute for Statistics database 9 . Beyond monitoring  purposes,  the  consultation  findings  and  reports  inform  broader  work  -  serving  for knowledge generation, advocacy, and technical cooperation.
+Country reports submitted for previous consultations can be found on the Observatory on the right to education 7 in the monitoring section of the country profile. The information provided in the reports are valuable both for the Observatory on the right to education as well as for HerAtlas 8, the online monitoring tool for girls' and women's right to education. Information and data regarding countries' education systems are also available through the UNESCO Institute for Statistics database 9. Beyond monitoring purposes, the consultation findings and reports inform broader work - serving for knowledge generation, advocacy, and technical cooperation.
 
 ## 5. Modalities and structure
 
@@ -96,9 +96,9 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 4]]
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States. Please note that multiple answers may be provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States. Please note that multiple answers may be provided where relevant.
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 [[END OF PAGE 4]]
 
@@ -114,7 +114,7 @@ Name of contact person: Mechthild Ermisch
 
 Email and telephone number of contact person: 03-9-1@auswaertiges-amt.de
 
-## Ratification and applicability of the Convention against Discrimination in Education 10
+## I. Ratification and applicability of the Convention against Discrimination in Education 10
 
 - Is your country a State Party to the Convention?
 
@@ -162,9 +162,9 @@ Email and telephone number of contact person: 03-9-1@auswaertiges-amt.de
 
 Information could also be given about the judicial, administrative and other competent authorities having jurisdiction with respect to the right to education.
 
-## Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the  context  of Sustainable Development Goal 4 (SDG4)
+## II. Information on the implementation of the Convention or Recommendation in the context of Sustainable Development Goal 4 (SDG4)
 
-### Towards an inclusive non-discriminatory education system
+### 1. Towards an inclusive non-discriminatory education system
 
 For  reference:  This  section  relates  to  the  main  purpose  of  the  Convention/Recommendation  that  is  to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity as laid out in Articles/Paragraphs 1(1), 2 and 3 of the Convention/Recommendation.
 
@@ -190,7 +190,7 @@ For reference: This notably is covered under SDG target 4.1 and partly target 4.
 
 > 13 See: Article/Paragraph 1(1).
 
-> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programm es'.
+> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'.
 
 [[END OF PAGE 6]]
 
@@ -242,7 +242,7 @@ They result from the Basic Law of the Federal Republic of Germany.
 
 - Please provide details:
 
-- Girls ' and  Boys ' days:  This  initiative  aims  to  break  down  gender-specific  role stereotypes in career choices.
+- Girls' and Boys' days: This initiative aims to break down gender-specific role stereotypes in career choices.
 
 > 15 Constitution, laws, decrees, regulations, circulars, etc.
 
@@ -334,11 +334,11 @@ Regarding higher education please refer to section 2.3.
 
 > 16 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
 
-> 17 Multiple and flexible learning pathways are 'entry points and re -entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge,  skills  and  c ompetencies  acquired  through  nonformal  and  informal  education'  ( Education  2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
+> 17 Multiple and flexible learning pathways are 'entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education' (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
 
 > 18 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
 
-> 20 ' Gendersensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
+> 20 'Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
 
 > 21 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
 
@@ -440,13 +440,13 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 
 Compulsory schooling applies to all children, irrespective of their origin or affiliation to a minority. There is no segregation according to minority status. For details on the language of instruction please refer to the 10th German Report.
 
-Promoting  an  understanding  of  the  history  of  ethnic  minorities  is  important  for  a  nondiscriminatory approach that can contribute to educational success. Against this background the  Standing  Conference  of  the  Ministers  of  Education  and  Cultural  Affairs,  the  Central Council of German Sinti and Roma and the Alliance for Solidarity with the Sinti and Roma of Europe,  adopted  a  "Joint  Declaration  on  Teaching  the  Past  and  Present  in  Schools"  in December 2022. The aim is to intensify the study of the past and present of the Sinti and Roma in the classroom and in extracurricular activities.
+Promoting an understanding of the history of ethnic minorities is important for a non-discriminatory approach that can contribute to educational success. Against this background the Standing Conference of the Ministers of Education and Cultural Affairs, the Central Council of German Sinti and Roma and the Alliance for Solidarity with the Sinti and Roma of Europe, adopted a "Joint Declaration on Teaching the Past and Present in Schools" in December 2022. The aim is to intensify the study of the past and present of the Sinti and Roma in the classroom and in extracurricular activities.
 
 The  Standing  Conference  of  Ministers  of  Education  and  Cultural  Affairs  is  currently developing a recommendation for raising awareness on the four autochthonous minorities and ethnic groups in Germany and the Low German (Niederdeutsch) speaker group in school lessons.
 
-##### Indigenous people:
-
 - What challenges were encountered in realizing the right to education of minorities? If needed, brief quantitative information may be added.
+
+##### Indigenous people:
 
  Legislation provides for the right to education of indigenous people
 
@@ -476,13 +476,9 @@ The  Standing  Conference  of  Ministers  of  Education  and  Cultural  Affairs 
 
  Curricula are rid of all stereotypes 27 and bias
 
-26
+> 26 Supra note 15.
 
-27
-
-Supra note 15.
-
-Supra note 16.
+> 27 Supra note 16.
 
 [[END OF PAGE 12]]
 
@@ -546,11 +542,11 @@ Compulsory schooling and the child's universal right to a daycare place from the
 
 [[START OF PAGE 14]]
 
-Generally, persons with a refugee or asylum status may take up a course of study. Not only after the beginning of Russia´s war against Ukraine numerous integration initiatives have been set up at higher education institutions including for example scholarships, specific study preparation programmes and/or German language tuition. As early as 2015, the Standing Conference of the Ministers of Education and Cultural Affairs of the Federal Republic of Germany agreed a common procedure for applicants who, due to their flight, are unable to provide original or certified copy of their higher education entrance qualification obtained in their home country. These applicants will be allowed to provide evidence in a specific procedure. This includes 1) determining their personal premises on the basis of refugee and legal residence status 2) checking the credibility of their school and academic career and 3) conducting an examination and/or assessment procedure. The Standing Conference furthermore adopted a decision in 2016 which outlines possibilities to reduce enrolment fees for refugees. Important information on the issue of refugees in higher  education  was  collected  in  a  brochure  published  in  2016  by  several  stakeholders, including the Standing Conference. It offers guidance for university staff and people working at associations for student affairs.
+Generally, persons with a refugee or asylum status may take up a course of study. Not only after the beginning of Russia's war against Ukraine numerous integration initiatives have been set up at higher education institutions including for example scholarships, specific study preparation programmes and/or German language tuition. As early as 2015, the Standing Conference of the Ministers of Education and Cultural Affairs of the Federal Republic of Germany agreed a common procedure for applicants who, due to their flight, are unable to provide original or certified copy of their higher education entrance qualification obtained in their home country. These applicants will be allowed to provide evidence in a specific procedure. This includes 1) determining their personal premises on the basis of refugee and legal residence status 2) checking the credibility of their school and academic career and 3) conducting an examination and/or assessment procedure. The Standing Conference furthermore adopted a decision in 2016 which outlines possibilities to reduce enrolment fees for refugees. Important information on the issue of refugees in higher education was collected in a brochure published in 2016 by several stakeholders, including the Standing Conference. It offers guidance for university staff and people working at associations for student affairs.
 
 Following Russia's war against Ukraine the Standing Conference of Ministers of Education and Cultural Affairs established a Task Force in March 2022 in order to better coordinate measures for the integration of refugees. In addition, the Standing Conference of Ministers of  Education  and  Cultural  Affairs  adopted  a  resolution  which  regulates  access  to  higher education for those who obtained Ukrainian educational certificates but could not complete their school or academic year regularly due to the war.
 
-Moreover, the German Academic Exchange Service in cooperation with the Federal Ministry of Education and Research, the Standing Conference of Ministers of Education and Cultural Affairs, the science ministries of the German Länder and the Alliance of Scien ce Organisations in Germany has set up the National Academic Contact Point Ukraine. The website aims at offering a first orientation in Germany and especially in the German higher education and research system to Ukrainian students and researchers.
+Moreover, the German Academic Exchange Service in cooperation with the Federal Ministry of Education and Research, the Standing Conference of Ministers of Education and Cultural Affairs, the science ministries of the German Länder and the Alliance of Science Organisations in Germany has set up the National Academic Contact Point Ukraine. The website aims at offering a first orientation in Germany and especially in the German higher education and research system to Ukrainian students and researchers.
 
 - Have specific measures been adopted for climate displaced persons?
 
@@ -632,11 +628,11 @@ The  Federal  Government  and  the  Länder  continue  to  aim making  education
 
 - What  challenges  were  encountered  in  realizing  the  right  to  education  of  students  from  poor households? If needed, brief quantitative information may be added.
 
-### Progress made with respect to implementing the right to education across all levels and forms of education
+### 2. Progress made with respect to implementing the right to education across all levels and forms of education
 
 #### 2.1 Early childhood care and education
 
-For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explicitly  provided  for  in  the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initi ally recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent  Declaration  and  Commitments  to  Action  for  Transforming  Early  Childhood  Care  and Education 38 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre -primary education'.
+For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education 38. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked):
 
@@ -644,9 +640,9 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
  Prior to pre-primary education, ECCE services are affordable
 
- ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
+ ECCE services are accessible on a non-discriminatory basis
 
- ECCE services are accessible on a nondiscriminatory basis
+ ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
 - Please elaborate further on the measures taken:
 
@@ -664,14 +660,6 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
 - Is compulsory and free of charge pre-primary education available?
 
-- Please list the relevant laws and policies. Where applicable, provide information on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., schools supplies, uniforms, transport and compulsory levies on parents). Brief quantitative information may be added.
-
-- ECEC fees are ruled subnational on the level of the German federal states. Most states offer some kind of free ECEC access (ranging from fee exemption for siblings or one fee free year before primary school to complete fee free ECEC).
-
-- As part of the Act on Good Early Childhood Care and Education the Social Code Book VIII was amended on August 1st, 2019 in order to relieve certain families nationwide of the burden of cost contributions: Families who receive child supplement, housing benefit, unemployment benefit or other benefits according to Social Code Book II, benefits according to Social Code Book XII or the Asylum Seekers Benefits Act do not have to pay parental contributions. This also applies to the afternoon care of school children in afterschool care centers ('Horte'). In short, no parental contributions have to be payed when families receive social benefits. In addition, an obligation to stagger parental fees has been implemented. Possible criteria are, for example, the number of children in the family or household income.
-
-- What challenges were encountered in realizing early childhood care and education and pre-primary education?
-
  Pre-primary education is compulsory. Please provide the age of enrolment and duration:
 
  Pre-primary education is not compulsory.
@@ -679,6 +667,14 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
  Pre-primary education is free of charge for all. Please provide the duration and indicate the extent to which it is free:
 
  Pre-primary education is not free.
+
+- Please list the relevant laws and policies. Where applicable, provide information on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., schools supplies, uniforms, transport and compulsory levies on parents). Brief quantitative information may be added.
+
+- ECEC fees are ruled subnational on the level of the German federal states. Most states offer some kind of free ECEC access (ranging from fee exemption for siblings or one fee free year before primary school to complete fee free ECEC).
+
+- As part of the Act on Good Early Childhood Care and Education the Social Code Book VIII was amended on August 1st, 2019 in order to relieve certain families nationwide of the burden of cost contributions: Families who receive child supplement, housing benefit, unemployment benefit or other benefits according to Social Code Book II, benefits according to Social Code Book XII or the Asylum Seekers Benefits Act do not have to pay parental contributions. This also applies to the afternoon care of school children in after-school care centers ('Horte'). In short, no parental contributions have to be payed when families receive social benefits. In addition, an obligation to stagger parental fees has been implemented. Possible criteria are, for example, the number of children in the family or household income.
+
+- What challenges were encountered in realizing early childhood care and education and pre-primary education?
 
 [[END OF PAGE 17]]
 
@@ -702,7 +698,7 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
 #### 2.2 Primary and secondary education
 
-For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclus ive, equitable, quality primary and secondary education -of which at least nine years are compulsory.'
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education – of which at least nine years are compulsory.'
 
 ##### Primary education
 
@@ -710,7 +706,7 @@ For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  pr
 
 Children  in  Germany  are  legally  required  to  attend  a  full-time  school  for  nine  years.  General compulsory schools starts on 1 August for all children having reached their sixth birthday before a statutory qualifying date. Young people who do not attend a full-time general education school or vocational school at upper secondary level once they have completed their period of compulsory general schooling are obliged to attend a part-time vocational school (Berufsschulpflicht), which usually lasts three years.
 
-For pupils who do not attend a general school at upper secondary level or who enter training, some Länder have regulations under which pupils are required to remain in full -time education and to attend some sort of vocational school. Disabled children and  young people are also required to attend school and complete their compulsory education.
+For pupils who do not attend a general school at upper secondary level or who enter training, some Länder have regulations under which pupils are required to remain in full-time education and to attend some sort of vocational school. Disabled children and young people are also required to attend school and complete their compulsory education.
 
 - Is primary education compulsory and free of charge?
 
@@ -742,9 +738,11 @@ Primary school attendance in Germany is available to everyone free of charge. No
 
  Other:
 
-
-
-Poor learning outcomes in: Foundation literacy Numeracy Social and emotional learning Others
+ Poor learning outcomes in:
+Foundation literacy
+Numeracy
+Social and emotional learning
+Others
 
  Disparity in learning outcomes
 
@@ -754,7 +752,7 @@ Given that all-day education is not a traditional educational programme in Germa
 
 - Please elaborate. Brief quantitative information may be added.
 
-Currently  Germany  faces  an  additional  need  for  all-day  care  places  for  primary  school children. In 2021, the German Bundestag and the Bundesrat adopted the Act on Providing AllDay Care and Education for Primary School Children (Ganztagsförderungsgesetz/All -day Childcare  Act).  Within  this  law  a  legal  entitlement  to  all-day  care  for  children  of  primary school age will be gradually introduced from 1 August 2026. Nationwide 1.7 million children of primary school age take advantage of all-day care. This corresponds to a rate of 56 percent. According to national parent surveys 64 percent of families with primary school children need all-day care places.
+Currently Germany faces an additional need for all-day care places for primary school children. In 2021, the German Bundestag and the Bundesrat adopted the Act on Providing All-Day Care and Education for Primary School Children (Ganztagsförderungsgesetz/All-day Childcare Act). Within this law a legal entitlement to all-day care for children of primary school age will be gradually introduced from 1 August 2026. Nationwide 1.7 million children of primary school age take advantage of all-day care. This corresponds to a rate of 56 percent. According to national parent surveys 64 percent of families with primary school children need all-day care places.
 
 ##### Secondary education
 
@@ -862,9 +860,9 @@ Access  to  higher  education  is  open  to  everyone  who  has  the  required  
 
 Hochschulrahmengesetz and Landeshochschulgesetze also include regulations on compensating students with disadvantages and disabilities. Examination regulations must consider  the  special  concerns  of  students  with  disabilities  in  order  to  ensure  equal opportunities. Furthermore, students with disabilities or who are chronically ill, can apply for further financial funding.
 
-In general, local and international students are not charged tuition fees. Exceptions apply to students who significantly exceed the regular study period or for students at private HEIs. In general, for both german students and foreign students from the EU member states, state HEIs do not charge tuition fees. Exceptions apply to students who significantly exceed the regular study period or for students at private HEIs. For foreign students who are not from the  EU, tuition  fees  may be  imposed.  The  decision regarding  tuition  fees  lies within  the responsibility  of  the  individual  federal  state.  Since  winter  term  2017/2018  BadenWürttemberg has been charging tuition fees of 1,500 EUR per semester for those who come from outside the EU and the EEA for the purpose of studying.
+In general, local and international students are not charged tuition fees. Exceptions apply to students who significantly exceed the regular study period or for students at private HEIs. In general, for both german students and foreign students from the EU member states, state HEIs do not charge tuition fees. Exceptions apply to students who significantly exceed the regular study period or for students at private HEIs. For foreign students who are not from the EU, tuition fees may be imposed. The decision regarding tuition fees lies within the responsibility of the individual federal state. Since winter term 2017/2018 Baden-Württemberg has been charging tuition fees of 1,500 EUR per semester for those who come from outside the EU and the EEA for the purpose of studying.
 
-To enhance equal opportunity, the Federal Government grants training assistance. Eligibility for student loans is usually dependent upon parental income. It is awarded half as a grant and half as an interest-free loan. The maximum monthly support for a student amounts to 452 euros plus  59 or 360 euros. This depends on whether the student lives with his parents or does not live with his parents. For students with children, there is extra support. Students in  special  social  need  are  supported  in  some  Länder by  student  services  organisations (Studierendenwerke) or by he HEIs themselves with loans of various amounts. In addition, a number of smaller, mostly regional private foundations support students in need. Gifted students  are  eligible  for  grants  from  organisations  for  the  promotion  of  young  talent (Begabtenförderungswerke),  which  as  a  rule  are  associated  with  the  chu rches,  political parties, trade unions or businesses. The Federal Government supports the work of these organisations  with  considerable  funding ;  the  Länder  participate  in  the  funding  of  the German  Academic  Scholarship  Foundation  (Studienstiftung  des  deutschen  Volkes),  the largest of the organisations for the promotion of young talent.
+To enhance equal opportunity, the Federal Government grants training assistance. Eligibility for student loans is usually dependent upon parental income. It is awarded half as a grant and half as an interest-free loan. The maximum monthly support for a student amounts to 452 euros plus 59 or 360 euros. This depends on whether the student lives with his parents or does not live with his parents. For students with children, there is extra support. Students in special social need are supported in some Länder by student services organisations (Studierendenwerke) or by he HEIs themselves with loans of various amounts. In addition, a number of smaller, mostly regional private foundations support students in need. Gifted students are eligible for grants from organisations for the promotion of young talent (Begabtenförderungswerke), which as a rule are associated with the churches, political parties, trade unions or businesses. The Federal Government supports the work of these organisations with considerable funding; the Länder participate in the funding of the German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes), the largest of the organisations for the promotion of young talent.
 
 For  foreign  students  and  young  academics,  the  German  Academic  Exchange  Service (Deutscher  Akademischer  Austauschdienst/DAAD)  offers  grants  for  a  limited  study  or advanced training visit  at a  German  HEI.  In  addition,  some  Länder  have  special  funds to support foreign students at the respective HEIs.
 
@@ -874,7 +872,7 @@ For  foreign  students  and  young  academics,  the  German  Academic  Exchange 
 
 Upon  conclusion  of  a  course  leading  to  a  first  degree,  grants  can  be  awarded  for postgraduate studies based on the postgraduate support laws and ordinances of the Länder. The organisations for the promotion of young talent also provide corresponding grants.
 
-The 57 student services organisations across Germany play a key role in indirect financing by providing reduced-price catering in refectories and cafeterias at all HEIs, as well as lowcost accommodation. In addition, childcare, psychological and social counselling, as well as social and first semester counselling are provided by HEIs, local authorities, student services organisations and student unions. Students can also avail themselves of cost-reduced tickets for local public transport.
+The 57 student services organisations across Germany play a key role in indirect financing by providing reduced-price catering in refectories and cafeterias at all HEIs, as well as low-cost accommodation. In addition, childcare, psychological and social counselling, as well as social and first semester counselling are provided by HEIs, local authorities, student services organisations and student unions. Students can also avail themselves of cost-reduced tickets for local public transport.
 
 - What challenges were encountered in realizing higher education?
 
@@ -928,7 +926,7 @@ For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides 
 
 - Please elaborate further on the measures taken:
 
-Please refer to the 9 th German Report for a detailed description of the responsibilities for adult  education  in  Germany.  Following  the  adoption  of  the  National  Skills  Strategy (Nationale  Weiterbildungsstrategie)  by  the  Federal  Government,  the  Länder,  the  social partners  and  the  Federal  Employment  Agency  in  June  2019,  the  partners  decided  in September 2022 to continue and further develop the strategy. This involves the discussion of new ideas with representatives from practice and academia and of concrete measures to strengthen the culture of continuing education. The first National Skills Conference took place in November 2023, the second is planned for the first half of 2025.
+Please refer to the 9th German Report for a detailed description of the responsibilities for adult education in Germany. Following the adoption of the National Skills Strategy (Nationale Weiterbildungsstrategie) by the Federal Government, the Länder, the social partners and the Federal Employment Agency in June 2019, the partners decided in September 2022 to continue and further develop the strategy. This involves the discussion of new ideas with representatives from practice and academia and of concrete measures to strengthen the culture of continuing education. The first National Skills Conference took place in November 2023, the second is planned for the first half of 2025.
 
 - What challenges were encountered in realizing adult learning and education?
 
@@ -956,13 +954,11 @@ Reaching the target group is sometimes difficult, e. g. illiteracy
 
 ### 3. Quality education provision and learning environment
 
-For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends state s to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
+For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
 
 #### 3.1 General measures
 
 - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding:
-
-- Please elaborate on each of the measures taken:
 
  State monitoring and inspections
 
@@ -980,9 +976,11 @@ For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommenda
 
  Other
 
+- Please elaborate on each of the measures taken:
+
 You may include information on policies, protocols or codes of conduct.
 
-Educational standards for several subjects at both primary, secondary and upper secondary level were adopted by the Länder in 2020, 2022 , 2023 and 2024.
+Educational standards for several subjects at both primary, secondary and upper secondary level were adopted by the Länder in 2020, 2022, 2023 and 2024.
 
 All standards are based on areas of competence within the individual subject. They:
 
@@ -1000,7 +998,7 @@ All standards are based on areas of competence within the individual subject. Th
 
 - are illustrated by sample test questions.
 
-Since 20 09, the Länder have been examining the attainment of the educational standards by pupils at primary school and lower secondary level in a comparison between the Länder, based on assessment by the Institute for Educational Quality Improvement (Institut zur Qualitätsentwicklung im Bildungswesen/IQB). T he IQB comparison between the Länder reviews centrally  the  extent  to  which  the  educational  standards  of  the  Standing  Conference  of  the Ministers of Education and Cultural Affairs in the Länder had been achieved.
+Since 2009, the Länder have been examining the attainment of the educational standards by pupils at primary school and lower secondary level in a comparison between the Länder, based on assessment by the Institute for Educational Quality Improvement (Institut zur Qualitätsentwicklung im Bildungswesen/IQB). The IQB comparison between the Länder reviews centrally the extent to which the educational standards of the Standing Conference of the Ministers of Education and Cultural Affairs in the Länder had been achieved.
 
 [[END OF PAGE 25]]
 
@@ -1008,7 +1006,7 @@ Since 20 09, the Länder have been examining the attainment of the educational s
 
 The 2021 IQB assessed for the third time the extent to which the educational standards of the Standing  Conference  for  the  primary  sector  in  the  subjects  German  and  maths  had  been achieved.  The  results  were  published  in  2022  and  show  a  high  but  slowly  decreasing performance level by fourth graders.
 
-The  2022  IQB  assessed  the  achievement  of  the  educational  standards  of  the  Standing Conference in the subjects German, English and French at lower secondary level for the third time. The results were published in 2023. They show that the level of performance of pupils in German has declined while the level has increased in English. As French was included in six of the sixteen Länder it was not possible to make any cross -national statements about the results.
+The 2022 IQB assessed the achievement of the educational standards of the Standing Conference in the subjects German, English and French at lower secondary level for the third time. The results were published in 2023. They show that the level of performance of pupils in German has declined while the level has increased in English. As French was included in six of the sixteen Länder it was not possible to make any cross-national statements about the results.
 
 - What challenges were encountered in realizing quality education?
 
@@ -1034,13 +1032,13 @@ Coronavirus pandemic
 
 #### 3.2 Education personnel
 
-For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'.
+For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to “substantially increase the supply of qualified teachers”.
 
 - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked):
 
  Teacher training is provided without discrimination.
 
- Teachers'  average  salaries  are  competitive  or  at  least  comparable  to  those  paid  in  other professions requiring similar or equivalent qualifications (at all levels).
+ Teachers’ average salaries are competitive or at least comparable to those paid in other professions requiring similar or equivalent qualifications (at all levels).
 
  Initial training and continuous professional development are provided.
 
@@ -1062,23 +1060,23 @@ For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides 
 
 - Please elaborate on each of the measures taken:
 
-Teachers  are  employed  by  the  Länder  either  as  public  civil  servants  or  as  salaried employees. In Germany, there are six types of teaching careers:
+Teachers are employed by the Länder either as public civil servants or as salaried employees. In Germany, there are six types of teaching careers:
 
-- Teachers at primary schools;
+1. Teachers at primary schools;
 
-- Teachers who cover both primary schools and all or individual types of schools at lower secondary level;
+2. Teachers who cover both primary schools and all or individual types of schools at lower secondary level;
 
-- Teachers for all or individual types of schools at lower secondary level;
+3. Teachers for all or individual types of schools at lower secondary level;
 
-- Teachers at upper secondary level (general education subjects) or at Gymnasium;
+4. Teachers at upper secondary level (general education subjects) or at Gymnasium;
 
-- Teachers at upper secondary level (vocational subjects) or vocational schools;
+5. Teachers at upper secondary level (vocational subjects) or vocational schools;
 
-- Teachers at special schools.
+6. Teachers at special schools.
 
-Remuneration for all these teaching careers is in line with the corresponding grades in the upper and highest grades of the civil service. There is no discrimination during teacher training or during teachers' professional careers.
+Remuneration for all these teaching careers is in line with the corresponding grades in the upper and highest grades of the civil service. There is no discrimination during teacher training or during teachers’ professional careers.
 
-Please see 10 th German Report regarding measures taken to reform teacher training. In order to address the increasing shortage of teachers in Germany, the Länder have adopted 'Measures to recruit additional teachers and to structurally supplement teacher training' in March 2024. These measures include a more flexible training of teachers in order to tap into new target groups and a common framework for the qualification of teachers with only one subject, for a dual training system and a Master's programme f or career changers.
+Please see 10th German Report regarding measures taken to reform teacher training. In order to address the increasing shortage of teachers in Germany, the Länder have adopted “Measures to recruit additional teachers and to structurally supplement teacher training” in March 2024. These measures include a more flexible training of teachers in order to tap into new target groups and a common framework for the qualification of teachers with only one subject, for a dual training system and a Master’s programme for career changers.
 
 - What challenges were encountered in the education personnel?
 
@@ -1090,9 +1088,9 @@ Please see 10 th German Report regarding measures taken to reform teacher traini
 
  Other:
 
-- o Low quality educational infrastructure and materials
+o Low quality educational infrastructure and materials
 
-- o High student - teacher ratio
+o High student – teacher ratio
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -1102,11 +1100,9 @@ Please see 10 th German Report regarding measures taken to reform teacher traini
 
 [[START OF PAGE 28]]
 
-For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SDG target 4.7. 41 Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation  and  that  the  future  consultation  on  the  1974  Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on [….] will be used specifically for monitoring SDG4 indicator 4.7.1.
+For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SDG target 4.7.41 Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation and that the future consultation on the 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on [….] will be used specifically for monitoring SDG4 indicator 4.7.1.
 
 - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked):
-
-- Please elaborate on each of the measures taken:
 
  Curriculum includes human rights education.
 
@@ -1114,21 +1110,23 @@ For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provid
 
  Other:
 
-Please refer to the 9 th and 10 th German report for detailed information about HRE in Germany.
+- Please elaborate on each of the measures taken:
+
+Please refer to the 9th and 10th German report for detailed information about HRE in Germany.
 
 #### 3.4 Non-state actors in education
 
-For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision 42 .
+For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision42.
 
 - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked):
 
- Legal provisions prohibiting discrimination on the grounds listed by the Convention/Recommendation 43  explicitly apply to non-state educational institutions. Please specify:
+ Legal provisions prohibiting discrimination on the grounds listed by the Convention/Recommendation43 explicitly apply to non-state educational institutions. Please specify:
 
 The right to establish private schools is stipulated in the Basic Law (Grundgesetz, Art. 7, para. 4) and corresponding  provisions  of  the  Länder  constitutions.  The  most  important  legal  provisions  for establishing  private  schools  are  the  school  laws,  private  school  laws  as  well  as  financial  aid regulations in the form of laws and ordinances of the federal states. According to the Basic Law, private schools are also subject to public school supervision.
 
-Please refer to the 9 th and 10 th German reports for additional information on private schooling in Germany.
+Please refer to the 9th and 10th German reports for additional information on private schooling in Germany.
 
-> 41 Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'.
+> 41 Which calls on states to “ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture’s contribution to sustainable development”.
 
 > 42 Private, faith-based, NGOs, community actors.
 
@@ -1142,7 +1140,7 @@ Please refer to the 9 th and 10 th German reports for additional information on 
 
  Legal provisions provide for the rights of the parents /legal guardians for providing religious and moral education for their children. Please specify:
 
-Please refer to the 9 th German report for information on religious and moral education in Germany.
+Please refer to the 9th German report for information on religious and moral education in Germany.
 
  Legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of non-state educational institutions. Please specify what is covered:
 
@@ -1176,7 +1174,7 @@ Please refer to the 9 th German report for information on religious and moral ed
 
  Low number of professionally trained teachers
 
- High student - teacher ratio
+ High student – teacher ratio
 
  Other:
 
@@ -1188,11 +1186,11 @@ Please refer to the 9 th German report for information on religious and moral ed
 
 [[START OF PAGE 30]]
 
-#### 3.5 Digital education
-
 - Please elaborate. Brief quantitative information may be added.
 
-Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion 44 .
+#### 3.5 Digital education
+
+Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion44.
 
 - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked):
 
@@ -1204,7 +1202,7 @@ Please indicate the relevant text and provisions:
 
  Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.
 
- Measures to remove barriers to accessing digital content 45 , including ensuring access to curriculum- aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
+ Measures to remove barriers to accessing digital content45, including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
 
  Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a  culture  of  digital  innovation  and  growth  anchored  in  equity  and  inclusion  that  enables  ongoing professional development for existing and emerging staff.
 
@@ -1214,7 +1212,7 @@ Please indicate the relevant text and provisions:
 
  A well-established, sustainable, and cost-effective budget secured from a range of funding sources and  intersectoral  cooperation,  supported  by  impact  focused  reporting  linked  to  regional  strategic goals.
 
-> 44 Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment.
+> 44 Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children’s right to education in relation to the digital environment.
 
 > 45 Lack of internet connection, basic infrastructure or devices.
 
@@ -1224,17 +1222,29 @@ Please indicate the relevant text and provisions:
 
 - Please elaborate on each of the measures taken:
 
-The Federal Government and the Länder work closely together to manage digital transformation in education. In addition to the 2016 Strategy for Education in the Digital World which formulates clear goals for digital education in schools, vocational education and training (TVET), higher education institutions as well as adult and lifelong learning, the Länder adopted a Recommendation on Teaching and Learning in the Digital World in December 2021. The Recommendation includes measures needed for digital transformation in teaching and learning. It also addresses challenges such as, among others, IT infrastructure. In order to improve the digital infrastructure in schools, the Federal Government and the Länder agreed on the Digital Pact for Schools (DigitalPakt Schule) in 2019. The pact is based on the Federal Government's Educational Campaign for the Digital Knowled ge Society Strategy and the above- mentioned strategy of the Länder. In a response to the COVID -19 pandemic the Federal Government and the Länder decided in 2020 to expand the Digital Pact in order to equip students and teachers with borrowed mobile devices and for setting up the necessary administration and support structures. These measures brought the total funding up to over 7 billion euros. As part of the Digital Pact the Länder aim at providing educational media content on learning platforms that can be accessed by teachers and learners alike by working closely together to design and implement cross-national projects.
---- | ---
-o | Search, process and store.
-Communicate cooperate.
-o | and
-o | Producing and presenting.
-o | Protect and act safely.
-o | Problem solving and action.
-o | Analyze and reflect.
+The Federal Government and the Länder work closely together to manage digital transformation in education. In addition to the 2016 Strategy for Education in the Digital World which formulates clear goals for digital education in schools, vocational education and training (TVET), higher education institutions as well as adult and lifelong learning, the Länder adopted a Recommendation on Teaching and Learning in the Digital World in December 2021. The Recommendation includes measures needed for digital transformation in teaching and learning. It also addresses challenges such as, among others, IT infrastructure.
+
+In order to improve the digital infrastructure in schools, the Federal Government and the Länder agreed on the Digital Pact for Schools (DigitalPakt Schule) in 2019. The pact is based on the Federal Government’s Educational Campaign for the Digital Knowledge Society Strategy and the above-mentioned strategy of the Länder. In a response to the COVID-19 pandemic the Federal Government and the Länder decided in 2020 to expand the Digital Pact in order to equip students and teachers with borrowed mobile devices and for setting up the necessary administration and support structures. These measures brought the total funding up to over 7 billion euros.
+
+As part of the Digital Pact the Länder aim at providing educational media content on learning platforms that can be accessed by teachers and learners alike by working closely together to design and implement cross-national projects.
+
+With the aim of enabling students to acquire digital competencies or the corresponding skills, abilities and knowledge that enable them to live an independent and responsible life in a digital world, the following competence areas were anchored in the KMK strategy:
+
+o Search, process and store.
+
+o Communicate and cooperate.
+
+o Producing and presenting.
+
+o Protect and act safely.
+
+o Problem solving and action.
+
+o Analyze and reflect.
+
 It is the responsibility of the federal states to implement the present competency framework in concepts for media education and in the framework curricula.
-The Standing Conference of t he Ministers of Education and Cultural Affairs in the Länder has established a working group that is currently addressing questions relating to the use of generative AI in school education. The working group hosted a conference on 'AI in school education p rocesses' in November/December 2023 which focused on the question on how AI can be used in a didactically meaningful and learning-promoting way in schools. In addition to the discussions of the working group, the Standing Scientific Commission of the Standing Conference of the Ministers of Education and Cultural Affairs publish a paper on 'Large Language Models and their Potential in the Education System' in January 2024 which includes science-based key recommendations on how to deal with Large Language Models in school
+
+The Standing Conference of the Ministers of Education and Cultural Affairs in the Länder has established a working group that is currently addressing questions relating to the use of generative AI in school education. The working group hosted a conference on “AI in school education processes” in November/December 2023 which focused on the question on how AI can be used in a didactically meaningful and learning-promoting way in schools. In addition to the discussions of the working group, the Standing Scientific Commission of the Standing Conference of the Ministers of Education and Cultural Affairs publish a paper on “Large Language Models and their Potential in the Education System” in January 2024 which includes science-based key recommendations on how to deal with Large Language Models in school education. The recommendations are currently being assessed by the Standing Conference of the Ministers of Education and Cultural Affairs.
 
 [[END OF PAGE 31]]
 
@@ -1266,7 +1276,7 @@ The Standing Conference of t he Ministers of Education and Cultural Affairs in t
 
 ### 4 Strengthening governance systems
 
-For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and  accessible  data  are available' ( para. 18).
+For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for effective education outcomes, governments should strengthen education systems by instituting and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional management arrangements, as well as ensure that robust, timely and accessible data are available” (para. 18).
 
 - Please indicate the measures taken in terms of governance (several items may be ticked):
 
@@ -1300,13 +1310,13 @@ https://www.iqb.hu-berlin.de/bt
 
  Lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels
 
- P oor dialogue with teachers' trade unions
+ Poor dialogue with teachers’ trade unions
 
  Other:
 
  Absence of supportive/ inconsistent/obsolete legal and policy environment
 
- Lack or weakness of monitoring systems - including the lack of reliable data
+ Lack or weakness of monitoring systems – including the lack of reliable data
 
 - Please elaborate. Brief quantitative information may be added.
 
