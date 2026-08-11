@@ -1,8 +1,8 @@
 [[START OF PAGE 1]]
 
-# ON THE APPLICATION OF THE 1960 CONVENTION AND RECOMMENDATION
+# REPORT BY REPUBLIC OF NAMIBIA
 
-# REPORT BY REPUBLIC OF NAMIBIA AGAINST DISCRIMINATION IN EDUCATION
+# ON THE APPLICATION OF THE 1960 CONVENTION AND RECOMMENDATION AGAINST DISCRIMINATION IN EDUCATION
 
 Preparation of the 11th Consultation
 
@@ -22,7 +22,7 @@ Email and telephone number of contact person: Tania.Louw@moe.gov.na /Ayesha.Went
 
 +264 81 229 6196/ +264812390238
 
-## Ratification and applicability of the Convention against Discrimination in Education 1
+## I. Ratification and applicability of the Convention against Discrimination in Education 1
 
 - Is your country a State Party to the Convention?
 
@@ -70,9 +70,9 @@ https://www.unesco.org/en/legal-affairs/convention-against-discrimination-educat
 
 Information could also be given about the judicial, administrative and other competent authorities having jurisdiction with respect to the right to education.
 
-## Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the  context  of Sustainable Development Goal 4 (SDG4)
+## II. Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the  context  of Sustainable Development Goal 4 (SDG4)
 
-### Towards an inclusive non-discriminatory education system
+### 1. Towards an inclusive non-discriminatory education system
 
 For  reference:  This  section  relates  to  the  main  purpose  of  the  Convention/Recommendation  that  is  to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity as laid out in Articles/Paragraphs 1(1), 2 and 3 of the Convention/Recommendation.
 
@@ -100,21 +100,21 @@ Basic Education Act 2020, No. 3 of 2020, Section 7; Ministry of Education, Arts 
 
 - Please indicate measures adopted to both prevent and eliminate discrimination in education within the meaning of the Convention/Recommendation 4 , and ensure equal access to all levels and types of education (please tick all that apply):
 
-- Legal texts 6 prohibit discrimination and guarantee equal access to education:
-
-- In pre-primary education (including early learning and care)
-
-- In primary education
-
-- In secondary education
-
-- In technical and vocational education and training
-
-- In higher education
-
-- In adult education and alternative learning
-
 For reference: This notably is covered under SDG target 4.1 and partly target 4.b 5
+
+✓ Legal texts 6 prohibit discrimination and guarantee equal access to education:
+
+✓ In pre-primary education (including early learning and care)
+
+✓ In primary education
+
+✓ In secondary education
+
+✓ In technical and vocational education and training
+
+✓ In higher education
+
+✓ In adult education and alternative learning
 
 - Please indicate the relevant legal provisions:
 
@@ -126,19 +126,21 @@ Basic Education Act 2020, No. 3 of 2020; Sector Policy on Inclusive Education 20
 
 - Prohibition on discrimination against learners
 
-(1) A person may not subject a child or learner who -
+7. (1) A person may not subject a child or learner who -
 
 (a) applies for admission at any school; or
 
-(b) is attending any school, to any form of direct or indirect discrimination on grounds of race, ethnic origin, colour, sex, religion, creed, social or economic status.
+(b) is attending any school,
 
-- A person who contravenes to subsection (1) commits an offence and is liable to a fine not exceeding N$20 000 or to imprisonment for a period not exceeding two years, or to both such fine and such imprisonment
+to any form of direct or indirect discrimination on grounds of race, ethnic origin, colour, sex, religion, creed, social or economic status.
+
+(2) A person who contravenes to subsection (1) commits an offence and is liable to a fine not exceeding N$20 000 or to imprisonment for a period not exceeding two years, or to both such fine and such imprisonment
 
 - Admission to State schools
 
 > 4 See: Article/Paragraph 1(1).
 
-> 5 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programme s'.
+> 5 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programmes'.
 
 > 6 Constitution, laws, decrees, regulations, circulars, etc.
 
@@ -146,21 +148,21 @@ Basic Education Act 2020, No. 3 of 2020; Sector Policy on Inclusive Education 20
 
 [[START OF PAGE 4]]
 
-(1) A State school must admit learners and serve their educational requirements without discriminating in any way.
+19. (1) A State school must admit learners and serve their educational requirements without discriminating in any way.
 
 ##### The Namibian Constitution
 
 - Article 10 Equality and Freedom from Discrimination
 
-- All persons shall be equal before the law.
+(1) All persons shall be equal before the law.
 
-- No persons may be discriminated against on the grounds of sex, race, colour, ethnic origin, religion, creed or social or economic status.
+(2) No persons may be discriminated against on the grounds of sex, race, colour, ethnic origin, religion, creed or social or economic status.
 
 · Article 20 Education
 
-- All persons shall have the right to education
+(1) All persons shall have the right to education
 
-- All persons shall have the right, at their own expense, to establish and to maintain private schools, or colleges or other institutions of tertiary education: provided that:
+(4) All persons shall have the right, at their own expense, to establish and to maintain private schools, or colleges or other institutions of tertiary education: provided that:
 
 (c) no restrictions of whatever nature are imposed with respect to the admission of pupils based on race, colour or creed;
 
@@ -168,17 +170,17 @@ Basic Education Act 2020, No. 3 of 2020; Sector Policy on Inclusive Education 20
 
 ✓ Policies, programmes and initiatives aim to prohibit and prevent discrimination and ensure equal access to education
 
-- In pre-primary education (including early learning and care)
+✓ In pre-primary education (including early learning and care)
 
-- In primary education
+✓ In primary education
 
-- In secondary education
+✓ In secondary education
 
-- In technical and vocational education and training
+✓ In technical and vocational education and training
 
-- In higher education
+✓ In higher education
 
-- In adult education and alternative learning
+✓ In adult education and alternative learning
 
 - Please provide details:
 
@@ -200,17 +202,17 @@ Basic Education Act 2020, No. 3 of 2020; Sector Policy on Inclusive Education 20
 
 · Basic Education Act 2020, No. 3 of 2020
 
--Prohibition on discrimination against learners
+- Prohibition on discrimination against learners
 
-(1) A person may not subject a child or learner who -
+7. (1) A person may not subject a child or learner who -
 
 (a) applies for admission at any school; or
 
 (b) is attending any school,
 
-- to any form of direct or indirect discrimination on grounds of race, ethnic origin, colour, sex, religion, creed, social or economic status.
+to any form of direct or indirect discrimination on grounds of race, ethnic origin, colour, sex, religion, creed, social or economic status.
 
-- A person who contravenes to subsection (1) commits an offence and is liable to a fine not exceeding N$20 000 or to imprisonment for a period not exceeding two years, or to both such fine and such imprisonment
+(2) A person who contravenes to subsection (1) commits an offence and is liable to a fine not exceeding N$20 000 or to imprisonment for a period not exceeding two years, or to both such fine and such imprisonment
 
  Combatting discrimination in terms of curriculum:
 
@@ -240,7 +242,7 @@ The pre-primary education curriculum in Namibia is designed to lay a solid found
 
 ##### Primary Education
 
-Primary education in Namibia continues to build on the foundation laid in the preprimary  phase,  focusing  on  literacy,  numeracy,  and  social  skills.  The  measures  to combat discrimination include:
+Primary education in Namibia continues to build on the foundation laid in the pre-primary  phase,  focusing  on  literacy,  numeracy,  and  social  skills.  The  measures  to combat discrimination include:
 
 - Free  and  Compulsory  Education: According  to  the  Constitution,  formal  basic education is free and compulsory for children from age 7 to 16. This provision ensures that financial barriers do not prevent children from accessing education.
 
@@ -278,21 +280,21 @@ Namibia's  education  system,  guided  by  the  Constitution  and  the  Educatio
 
 [[START OF PAGE 7]]
 
-- Legislation provides for inclusive education for all
+✓ Legislation provides for inclusive education for all
 
-- Policy measures aim to enhance inclusion in education for all
+✓ Policy measures aim to enhance inclusion in education for all
 
-- Teachers are trained on inclusive education 7 and to value diversity
+✓ Teachers are trained on inclusive education 7 and to value diversity
 
-- Initiatives to address discrimination and promote cultural diversity and mutual acceptance
+✓ Initiatives to address discrimination and promote cultural diversity and mutual acceptance
 
  Other:
 
  Multiple and flexible learning pathways 8 are provided for
 
-- Curricula and teaching methods are inclusive in design 9
+✓ Curricula and teaching methods are inclusive in design 9
 
-- Multilingual and intercultural education is supported
+✓ Multilingual and intercultural education is supported
 
 - The provision of Assistive Technology
 
@@ -316,7 +318,7 @@ Namibia's  education  system,  guided  by  the  Constitution  and  the  Educatio
 
 > 7 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
 
-> 8 Multiple and flexible learning pathways are 'entry points and re -entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge,  skills  and  c ompetencies  acquired  through  nonformal  and  informal  education'  ( Education  2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
+> 8 Multiple and flexible learning pathways are 'entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education' (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
 
 > 9 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
 
@@ -344,7 +346,7 @@ Discrimination and stigmatisation is still practised in some situations.  There 
 
  Other:
 
-- All  barriers  for  pregnant  girls  and  young mothers in education are eliminated to ensure the continuity of their education
+✓ All  barriers  for  pregnant  girls  and  young mothers in education are eliminated to ensure the continuity of their education
 
  Re-entry programmes for young mothers are provided for
 
@@ -367,7 +369,7 @@ Namibia faces a challenge of a male children that are leaving the education syst
 
 > 10 ' Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them' (Cambridge Dictionary).
 
-> 11 ' Gendersensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
+> 11 ' Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
 
 > 12 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
 
@@ -391,9 +393,9 @@ Child Care and Protection Act
 
 For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities.
 
-- Legislation provides for the right to education of national minorities
+✓ Legislation provides for the right to education of national minorities
 
-- Policy measures aim to enhance the right to education of national minorities
+✓ Policy measures aim to enhance the right to education of national minorities
 
  Policy elaboration includes consultations with local communities
 
@@ -433,17 +435,17 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-##### Indigenous people:
-
 ###### Republic of Namibia National Human Rights Action Plan 2015 - 2019
 
 Educational materials were developed for Indigenous People that includes their history and culture. The Education programme is aimed at eradicating the socio-cultural and material problems faced by minorities, e.g. San, Ovahi,ba and Ovatue learners.
 
 - What challenges were encountered in realizing the right to education of minorities? If needed, brief quantitative information may be added.
 
-- Legislation provides for the right to education of indigenous people
+##### Indigenous people:
 
-- Policy measures aim to enhance the right to education of indigenous people
+✓ Legislation provides for the right to education of indigenous people
+
+✓ Policy measures aim to enhance the right to education of indigenous people
 
  Policy elaboration includes consultations with local communities
 
@@ -483,11 +485,11 @@ Educational materials were developed for Indigenous People that includes their h
 
 [[START OF PAGE 11]]
 
-- Namibia's Educational Language  Policy  provides that  ''children  shall  be  instructed  in their mother tongue for the first three years of formal schooling with gradual switch to English in the fourth year.' In furtherance of that policy a collaboration been civil society and Namibia's Ministry  of  Education  launched  the Nyae  Nyae  Village  School Project (VSP),  which  is  a  successful  model  integration  of  traditional,  culturally-appropriate mother-tongue education of San indigenous children with formal education.
+- Namibia's Educational Language Policy provides that ''children shall be instructed in their mother tongue for the first three years of formal schooling with gradual switch to English in the fourth year.” In furtherance of that policy a collaboration been civil society and Namibia's Ministry of Education launched the Nyae Nyae Village School Project (VSP), which is a successful model integration of traditional, culturally-appropriate mother-tongue education of San indigenous children with formal education.
 
-- The San Development Programme has launched the 'Back to School and Stay at School for  San  Children'  campaign  that  is  aimed  at  ensuring  re -enrolment and retention of indigenous children in schools.
+- The San Development Programme has launched the 'Back to School and Stay at School for San Children' campaign that is aimed at ensuring re-enrolment and retention of indigenous children in schools.
 
-- A National School Feeding Programme (NSFP) was also introduced by the Ministry of Education  in  some  of  the  indigenous  people ' s  regions  in  the  Kunene  (Opuwo)  and Otjozandjupa (Tsumkwe) in an effort to attract and retain children who would otherwise be unable to att end school because of hunger.'
+- A National School Feeding Programme (NSFP) was also introduced by the Ministry of Education in some of the indigenous people's regions in the Kunene (Opuwo) and Otjozandjupa (Tsumkwe) in an effort to attract and retain children who would otherwise be unable to attend school because of hunger.”
 
 - The  government  of  the  Republic  of  Namibia  has  also  launched  satellite  and  mobile schools for the San and Ovahimba in conformity with their nomadic life-style
 
@@ -557,13 +559,13 @@ Namibia does not have a big problem with this.  We have a refugee camp in Osire 
 
 ##### People with disabilities:
 
-- Legislation provides for their right to education
+✓ Legislation provides for their right to education
 
-- Policy measures aim to enhance their right to education
+✓ Policy measures aim to enhance their right to education
 
-- Inclusion in mainstream schools is ensured
+✓ Inclusion in mainstream schools is ensured
 
-- Special schools are used as resource centers to inclusive schools
+✓ Special schools are used as resource centers to inclusive schools
 
  Positive or affirmative action measures are provided
 
@@ -575,19 +577,17 @@ Namibia does not have a big problem with this.  We have a refugee camp in Osire 
 
  Auxiliary assistance is provided
 
-- Curricula and teaching and learning methods are adapted
+✓ Curricula and teaching and learning methods are adapted
 
  Curricula are rid of all stereotypes 25 and bias
 
-- Education infrastructure and learning materials are adapted
+✓ Education infrastructure and learning materials are adapted
 
-- 21 Supra note 15.
+> 21 Supra note 15.
 
-24
+> 24 Supra note 15.
 
-Supra note 15.
-
-- 25 Supra note 16.
+> 25 Supra note 16.
 
 [[END OF PAGE 12]]
 
@@ -625,9 +625,7 @@ The Namibia School Feeding Programme provides mid morning meals to all learners 
 
 > 26 Supra note 15.
 
-27
-
-Supra note 16.
+> 27 Supra note 16.
 
 [[END OF PAGE 13]]
 
@@ -637,7 +635,7 @@ Supra note 16.
 
 #### 2.1 Early childhood care and education
 
-For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explicitly  provided  for  in  the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initi ally recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 28 and more recently, the Tashkent  Declaration  and  Commitments  to  Action  for  Transforming  Early  Childhood  Care  and Education 29 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre -primary education'.
+For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explicitly  provided  for  in  the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 28 and more recently, the Tashkent  Declaration  and  Commitments  to  Action  for  Transforming  Early  Childhood  Care  and Education 29 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked):
 
@@ -657,7 +655,7 @@ ECEC services are community run or privately owned so there are costs involved, 
 
 X Pre-primary education is compulsory. Please provide the age of enrolment and duration:
 
-Children enrol in Pre-Primary at the age of 5 years old.  Pre-Primary is 1 year. Although Pre- Primary  is  part  of  formal  education  and  compulsory,  there  is  insufficient  infrastructure  to accommodate all Pre-Primary learners.  The statistics show that 50% of learners in ECD centres are aged 5 to 6 years and are supposed to be enrolled in the Formal Education in Pre-Primary Classrooms
+Children enrol in Pre-Primary at the age of 5 years old.  Pre-Primary is 1 year. Although Pre-Primary  is  part  of  formal  education  and  compulsory,  there  is  insufficient  infrastructure  to accommodate all Pre-Primary learners.  The statistics show that 50% of learners in ECD centres are aged 5 to 6 years and are supposed to be enrolled in the Formal Education in Pre-Primary Classrooms
 
  Pre-primary education is not compulsory.
 
@@ -699,11 +697,11 @@ There is a curriculum developed for 0-4 years, but this was not quality assured 
 
 - Please elaborate. Brief quantitative information may be added.
 
-ECD-MIS 2023 shows that 100406 children are enrolled in ECD centres.  30 % of the eligible population of learners aged 0 -4 % are enrolled in ECD Centres.  Of the 100406 children enrolled in ECD centres 57% are aged 5 and above which means that they should be in PrePrimary.  The enrolment in Pre-Primary in Formal Education according to the 15 th day school statistics of 2024, shows that there are 55 158 learners enrolled as opposed to 104 594 learners in Grade 1.
+ECD-MIS 2023 shows that 100406 children are enrolled in ECD centres.  30 % of the eligible population of learners aged 0 - 4 % are enrolled in ECD Centres.  Of the 100406 children enrolled in ECD centres 57% are aged 5 and above which means that they should be in Pre-Primary.  The enrolment in Pre-Primary in Formal Education according to the 15th day school statistics of 2024, shows that there are 55 158 learners enrolled as opposed to 104 594 learners in Grade 1.
 
 #### 2.2 Primary and secondary education
 
-For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclus ive, equitable, quality primary and secondary education -of which at least nine years are compulsory.'
+For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education - of which at least nine years are compulsory.'
 
 ##### Primary education
 
@@ -721,7 +719,7 @@ It is compulsory for a learner to attend school during school hours from the fir
 
  Primary education is not compulsory.
 
-- Primary education is free of charge.
+✓ Primary education is free of charge.
 
  Primary education is not free.
 
@@ -777,19 +775,19 @@ In this part, please provide information on the general availability and accessi
 
 - Is lower and upper secondary education compulsory and free of charge?
 
-- Lower secondary education is compulsory.
+✓ Lower secondary education is compulsory.
 
  Lower secondary education is not compulsory.
 
-- Lower secondary education is free of charge.
+✓ Lower secondary education is free of charge.
 
  Lower secondary education is not free of charge.
 
-- Upper secondary education is compulsory.
+✓ Upper secondary education is compulsory.
 
  Upper secondary education is not compulsory.
 
-- Upper secondary education is free of charge
+✓ Upper secondary education is free of charge
 
  Upper secondary education is not free of charge.
 
@@ -825,8 +823,6 @@ In respect of a child who is at least aged 16 but under the age of 18 years, a p
 
 - What challenges were encountered in realizing secondary education?
 
-- Please elaborate. Brief quantitative information may be added.
-
  Limited access
 
  Issues of equity and inclusion
@@ -843,6 +839,8 @@ In respect of a child who is at least aged 16 but under the age of 18 years, a p
 
  Low number of professionally trained teachers
 
+- Please elaborate. Brief quantitative information may be added.
+
 The school feeding programme does not extend to secondary education.   There is a high failure rate in Grade 8.  Statistics shows 77 439 learners in Grade 8 and only 57 511 in Grade 9. NSSCO (Grade 11) is the first exit point in the system and there is a challenge with learners obtaining quality symbols, with only a very small percentage proceeding to NSSCAS (Grade 12).
 
 #### 2.3 Higher education
@@ -857,7 +855,7 @@ For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  pr
 
 [[START OF PAGE 19]]
 
-Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be p ursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training.
+Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training.
 
 - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked):
 
@@ -1003,6 +1001,8 @@ Basic Education Act 20, Act No 3 of 2020, Namibia National Safe School Framework
 
  Other:
 
+Long distances to schools
+
 - Please elaborate. Brief quantitative information may be added.
 
 There  is  insufficient  infrastructure  for  education.    Sometimes  the  ratio  of  learners  to sanitation facilities are not conducive.  Low Parental involvement in education.
@@ -1036,8 +1036,6 @@ For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides 
 The Ministry of Education, Arts and Culture is currently busy with the development of an Act to regulate the teaching profession in order to ensure accountability of teachers and professional development. This will lead to performance monitoring systems, strengthening the social status of teaching profession and minimum standards required for entering into the teaching profession
 
 - What challenges were encountered in the education personnel?
-
-Long distances to schools
 
 [[END OF PAGE 22]]
 
@@ -1131,8 +1129,6 @@ Basic Education Act 2020. No. 3 of 2020, Constitution of Namibia
 
 - Please elaborate:
 
-#### 3.5 Digital education
-
 Private schools are subject to the laws of the land and as such must comply with the standards as set out in the ACT.
 
 - What challenges were encountered in non-state education provision?
@@ -1152,6 +1148,8 @@ Private schools are subject to the laws of the land and as such must comply with
 - Please elaborate. Brief quantitative information may be added.
 
 There used to be challenges with regulatory and monitoring capacity, but the promulgation of the new act in 2023 allows for more oversight into the operations of private schools to ensure that they adhere to the policies of the land.
+
+#### 3.5 Digital education
 
 Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion 35 .
 
@@ -1173,7 +1171,7 @@ There is only a draft ICT Policy
 
 [[START OF PAGE 26]]
 
- Measures to remove barriers to accessing digital content 36 , including ensuring access to curriculum- aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
+ Measures to remove barriers to accessing digital content 36 , including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
 
  Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a  culture  of  digital  innovation  and  growth  anchored  in  equity  and  inclusion  that  enables  ongoing professional development for existing and emerging staff.
 
@@ -1193,9 +1191,7 @@ The Ministry has a cabinet approved Project Charter of which one of the key outc
 
  Lack of equity and inclusion in digital learning solutions
 
- inadequate safety measures and IT
-
-- support to respond to issues of child online safety or reduce cyber security risks
+ inadequate safety measures and IT support to respond to issues of child online safety or reduce cyber security risks
 
  Other:
 
@@ -1221,7 +1217,7 @@ The Ministry has a cabinet approved Project Charter of which one of the key outc
 
 ### 4 Strengthening governance systems
 
-For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and  accessible  data  are available' (para. 18).
+For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and  accessible  data  are available” (para. 18).
 
 - Please indicate the measures taken in terms of governance (several items may be ticked):
 
@@ -1257,13 +1253,13 @@ The  Ministry  has  the  Education  Management  Information  System,  which  col
 
  Lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels
 
- P oor dialogue with teachers' trade unions
+ Poor dialogue with teachers’ trade unions
 
  Other:
 
  Absence of supportive/ inconsistent/obsolete legal and policy environment
 
- Lack or weakness of monitoring systems - including the lack of reliable data
+ Lack or weakness of monitoring systems – including the lack of reliable data
 
 - Please elaborate. Brief quantitative information may be added.
 
