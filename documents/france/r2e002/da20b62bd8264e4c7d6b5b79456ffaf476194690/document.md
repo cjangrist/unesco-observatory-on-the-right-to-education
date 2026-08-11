@@ -12,9 +12,18 @@ Tout ce qu'il est indispensable de maîtriser à la fin de la scolarité obligat
 
 ## sommaire
 
-1
+1. La maîtrise de la langue française . . . . . . . . . 5
+2. La pratique d'une langue vivante étrangère . . . . . . . . . . . . . . . . . 8
+3. Les principaux éléments de mathématiques et la culture scientifique et technologique . . . . . . . . . 10
+4. La maîtrise des techniques usuelles de l'information et de la communication . . . . . . . . . 15
+5. La culture humaniste . . . . . . . . . 17
+6. Les compétences sociales et civiques . . . . . . . . . 20
+7. L'autonomie et l'initiative . . . . . . . . . 23
+Décret du 11 juillet 2006 relatif au socle commun de connaissances et de compétences et modifiant le code de l'éducation . . . . . . . . . 26
 
 LE SOCLE COMMUN DES CONNAISSANCES ET DES COMPÉTENCES
+
+1
 
 [[END OF PAGE 2]]
 
@@ -36,13 +45,13 @@ La définition du socle commun prend également appui sur la proposition de reco
 
 Elle se réfère enfin aux évaluations internationales, notamment au Programme international pour le suivi des acquis des élèves (PISA), qui propose une mesure comparée des connaissances et des compétences nécessaires tout au long de la vie.
 
-Cinq générations après les lois scolaires fondatrices de la III e République, une génération après l'instauration du collège unique, le socle constitue une référence commune, pour tous ceux qui confient leurs enfants à l'École, mais aussi pour tous les enseignants .
+Cinq générations après les lois scolaires fondatrices de la IIIe République, une génération après l'instauration du collège unique, le socle constitue une référence commune, pour tous ceux qui confient leurs enfants à l'École, mais aussi pour tous les enseignants.
 
 L'enseignement obligatoire ne se réduit pas au socle commun. Bien que désormais il en constitue le fondement, le socle ne se substitue pas aux programmes de l'école primaire et du collège ; il n'en est pas non plus le condensé. Sa spécificité réside dans la volonté de donner du sens à la culture scolaire fondamentale, en se plaçant du point de vue de l'élève et en construisant les ponts indispensables entre les disciplines et les programmes. Il détermine ce que nul n'est censé ignorer en fin de scolarité obligatoire sous peine de se trouver marginalisé. L'École doit offrir par ailleurs à chacun les moyens de développer toutes ses facultés.
 
 Maîtriser le socle commun c'est être capable de mobiliser ses acquis dans des tâches et des situations complexes, à l'École puis dans sa vie ; c'est posséder un outil indispensable pour continuer à se former tout au long de la vie afin de prendre part aux évolutions de la société ; c'est être en mesure de comprendre les grands défis de l'humanité, la diversité des cultures et l'universalité des droits de l'Homme, la nécessité du développement et les exigences de la protection de la planète.
 
-Le socle commun s'organise en sept compétences. Cinq d'entre elles font l'objet, à un titre ou à un autre, des actuels programmes d'enseignement : la maîtrise de la langue française, la pratique d'une langue vivante étrangère, les compétences de base en mathématiques et la culture scientifique et technologique, la maîtrise des techniques usuelles de l'information et de la communication, la culture humaniste. Deux autres domaines ne font pas encore l'objet d'une attention suffisante au sein de l'institution scolaire : il s'agit, d'une part, des compétences sociales et civiques et, d'autre part, de l'autonomie et de l'initiative des élèves.
+Le socle commun s'organise en sept compétences. Cinq d'entre elles font l'objet, à un titre ou à un autre, des actuels programmes d'enseignement : la maîtrise de la langue française, la pratique d'une langue vivante étrangère, les compétences de base en mathématiques et la culture scientifique et technologique, la maîtrise des techniques usuelles de l'information et de la communi-
 
 LE SOCLE COMMUN DES CONNAISSANCES ET DES COMPÉTENCES
 
@@ -51,6 +60,8 @@ LE SOCLE COMMUN DES CONNAISSANCES ET DES COMPÉTENCES
 [[START OF PAGE 5]]
 
 4
+
+cation, la culture humaniste. Deux autres domaines ne font pas encore l'objet d'une attention suffisante au sein de l'institution scolaire : il s'agit, d'une part, des compétences sociales et civiques et, d'autre part, de l'autonomie et de l'initiative des élèves.
 
 Chaque grande compétence du socle est conçue comme une combinaison de connaissances fondamentales pour notre temps, de capacités à les mettre en oeuvre dans des situations variées, mais aussi d'attitudes indispensables tout au long de la vie, comme l'ouverture aux autres, le goût pour la recherche de la vérité, le respect de soi et d'autrui, la curiosité et la créativité.
 
@@ -386,7 +397,7 @@ dans sa vie privée comme dans son travail. Pour cela, il doit être capable :
 
 - à la main, un calcul isolé sur des nombres en écriture décimale de taille raisonnable (addition, soustraction, multiplication, division) ;
 
-- à la calculatrice, un calcul isolé sur des nombres relatifs en écriture décimale : addition, soustraction, multiplication, division décimale à 10 -n près, calcul du carré, du cube d'un nombre relatif, racine carrée d'un nombre positif ;
+- à la calculatrice, un calcul isolé sur des nombres relatifs en écriture décimale : addition, soustraction, multiplication, division décimale à 10⁻ⁿ près, calcul du carré, du cube d'un nombre relatif, racine carrée d'un nombre positif ;
 
 - mentalement des calculs simples et déterminer rapidement un ordre de grandeur ;
 
@@ -612,13 +623,15 @@ La maîtrise des techniques de l'information et de la communication est dévelop
 
 ### ATTITUDES
 
-Le développement du goût pour la recherche et les échanges d'informations à des fins éducatives, culturelles, sociales, professionnelles doit s'accompagner d'une attitude responsable - domaine également développé dans la définition du B2i - c'est-à-dire :
+Le développement du goût pour la recherche et les échanges d'informations à des fins éducatives, culturelles, sociales, professionnelles doit s'accompa-
 
 LE SOCLE COMMUN DES CONNAISSANCES ET DES COMPÉTENCES
 
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
+
+gner d'une attitude responsable - domaine également développé dans la définition du B2i - c'est-à-dire :
 
 - une attitude critique et réfléchie vis-à-vis de l'information disponible ;
 
@@ -754,7 +767,7 @@ LE SOCLE COMMUN DES CONNAISSANCES ET DES COMPÉTENCES
 
 ## 6. Les compétences sociales et civiques
 
-Pour accomplir avec succès sa scolarité, poursuivre sa formation, construire son avenir personnel et professionnel, réussir sa vie en société et exercer librement sa citoyenneté, d'autres compétences sont indispensables à chaque élève : l'École doit permettre à chacun de devenir pleinement responsable - c'est-àdire autonome et ouvert à l'initiative - et assumer plus efficacement sa fonction d'éducation sociale et civique.
+Pour accomplir avec succès sa scolarité, poursuivre sa formation, construire son avenir personnel et professionnel, réussir sa vie en société et exercer librement sa citoyenneté, d'autres compétences sont indispensables à chaque élève : l'École doit permettre à chacun de devenir pleinement responsable – c'est-à-dire autonome et ouvert à l'initiative – et assumer plus efficacement sa fonction d'éducation sociale et civique.
 
 Il s'agit de mettre en place un véritable parcours civique de l'élève, constitué de valeurs, de savoirs, de pratiques et de comportements dont le but est de favoriser une participation efficace et constructive à la vie sociale et professionnelle, d'exercer sa liberté en pleine conscience des droits d'autrui, de refuser la violence.
 
@@ -885,7 +898,6 @@ LE SOCLE COMMUN DES CONNAISSANCES ET DES COMPÉTENCES
 - le fonctionnement des services sociaux.
 
 #### CAPACITÉS
-22
 
 Les élèves devront être capables de jugement et d'esprit critique , ce qui suppose :
 
@@ -914,6 +926,8 @@ Au terme de son parcours civique scolaire, l'élève doit avoir conscience de la
 - la volonté de participer à des activités civiques.
 
 LE SOCLE COMMUN DES CONNAISSANCES ET DES COMPÉTENCES
+
+22
 
 [[END OF PAGE 23]]
 
@@ -997,7 +1011,7 @@ La motivation, la confiance en soi, le désir de réussir et de progresser sont 
 
 ### B. L'ESPRIT D'INITIATIVE
 
-Il faut que l'élève se montre capable de concevoir, de mettre en œuvre et de réaliser des projets individuels ou collectifs dans les domaines artistiques, sportifs, patrimoniaux ou socio-économiques. Quelle qu'en soit la nature, le projet - toujours validé par l'établissement scolaire - valorise l'implication de l'élève.
+Il faut que l'élève se montre capable de concevoir, de mettre en œuvre et de réaliser des projets individuels ou collectifs dans les domaines artistiques, sportifs, patrimoniaux ou socio-économiques. Quelle qu'en soit la nature, le projet – toujours validé par l'établissement scolaire – valorise l'implication de l'élève.
 
 #### CONNAISSANCES
 
@@ -1031,19 +1045,16 @@ LE SOCLE COMMUN DES CONNAISSANCES ET DES COMPÉTENCES
 
 [[START OF PAGE 26]]
 
-25
+Le principe même du socle repose sur un impératif de qualité. S'agissant d'une culture commune pour tous les élèves, il traduit tout autant une ambition pour les plus fragiles qu'une exigence pour ceux qui réussissent bien. Les graves manques pour les uns et les lacunes pour les autres à la sortie de l'école obligatoire constituent des freins à une pleine réussite et à l'exercice d'une citoyenneté libre et responsable.
 
-Le principe même du socle repose sur un impératif de qualité. S'agissant d'u ne culture commune pour tous les élèves , il traduit tout autant une ambition pour les plus fragiles qu'une exigence pour ceux qui réussissent bien. Les graves manques pour les uns et les lacunes pour les autres à la sortie de l'école obligatoire constituent des freins à une pleine réussite et à l'exercice d'une citoyenneté libre et responsable.
-
-Ainsi, le socle commun possède une unité : sa maîtrise à la fin de la scolarité obligatoire ne peut être que globale , car les compétences qui le constituent, avec leur liste principale de connaissances, de capacités et d'attitudes, sont complémentaires et également nécessaires. Chacun des domaines constitutifs du socle commun contribue à l'insertion professionnelle, sociale et civique des élèves, pour sa maîtrise à l'issue de la scolarité obligatoire, il ne peut donc y avoir de compensation entre les compétences requises qui composent un tout, à la manière des qualités de l'Homme ou des droits et des devoirs du citoyen.
+Ainsi, le socle commun possède une unité : sa maîtrise à la fin de la scolarité obligatoire ne peut être que globale, car les compétences qui le constituent, avec leur liste principale de connaissances, de capacités et d'attitudes, sont complémentaires et également nécessaires. Chacun des domaines constitutifs du socle commun contribue à l'insertion professionnelle, sociale et civique des élèves, pour sa maîtrise à l'issue de la scolarité obligatoire, il ne peut donc y avoir de compensation entre les compétences requises qui composent un tout, à la manière des qualités de l'Homme ou des droits et des devoirs du citoyen.
 
 LE SOCLE COMMUN DES CONNAISSANCES ET DES COMPÉTENCES
+25
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
-
-26
 
 ## Décret du 11 juillet 2006 relatif au socle commun de connaissances et de compétences et modifiant le code de l'éducation
 
@@ -1063,7 +1074,7 @@ Décrète :
 La partie réglementaire du code de l'éducation est modifiée conformément aux dispositions des articles 2 à 4 ci-après.
 
 ### Article 2 :
-Les articles suivants sont insérés à la section 1 du chapitre II du titre II du livre 1er :
+Les articles suivants sont insérés à la section 1 du chapitre II du titre II du livre Ier :
 
 « Art. D. 122-1. - Le socle commun prévu à l'article L. 122-1-1 est défini à l'annexe à la présente section.
 
@@ -1088,6 +1099,7 @@ II. Au chapitre II du titre VI du livre Ier, est ajouté un article D. 162-1 ain
 IV. A l'article D. 164-1, après les mots : « les articles », est insérée la mention : « D. 122-1, ».
 
 LE SOCLE COMMUN DES CONNAISSANCES ET DES COMPÉTENCES
+26
 
 [[END OF PAGE 27]]
 
@@ -1141,5 +1153,15 @@ Délégation à la communication
 impression
 
 MENESR
+
+ministère
+éducation
+nationale
+enseignement
+supérieur
+recherche
+
+Liberté • Égalité • Fraternité
+RÉPUBLIQUE FRANÇAISE
 
 [[END OF PAGE 30]]
