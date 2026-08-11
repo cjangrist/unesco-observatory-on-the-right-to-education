@@ -228,7 +228,7 @@ Fracción derogada DOF 11-10-2012
 
 - Suscribir  los  documentos  relativos  al  ejercicio  de  las  facultades  que  le  hayan  sido delegadas, autorizadas o le correspondan por suplencia;
 
-- Expedir  copias  certificadas  de  las  constancias  que  obren  en  los  archivos  de  las unidades  administrativas  a  su  cargo,  previo  pago  de  los  derechos  correspondientes, excepto  cuando  deban  ser  exhibidas  en  procedimientos  judiciales  o  contenciosoadministrativos y, en general, para cualquier proceso o averiguación;
+- Expedir  copias  certificadas  de  las  constancias  que  obren  en  los  archivos  de  las unidades  administrativas  a  su  cargo,  previo  pago  de  los  derechos  correspondientes, excepto  cuando  deban  ser  exhibidas  en  procedimientos  judiciales  o  contencioso-administrativos y, en general, para cualquier proceso o averiguación;
 
 - Establecer  la  coordinación  necesaria  con  los  demás  Subsecretarios,  Oficial  Mayor, titulares  de  las  Unidades  de  Planeación  y  Evaluación  de  Políticas  Educativas,  y  de Coordinación Ejecutiva, así como de las demás unidades administrativas para el mejor despacho de los asuntos competencia de la Secretaría;
 
@@ -657,7 +657,7 @@ Fracción adicionada DOF 29-12-2009
 
 - Substanciar  y  resolver  los  procedimientos  administrativos  de  nulidad,  revocación, cancelación,  reconsideración,  revisión  y,  en  general,  todos  aquellos  que  tiendan  a modificar o extinguir derechos u obligaciones generados por resoluciones que dicte la Secretaría,  con  excepción  de  aquellos  que  hubiesen  sido  encomendados  a  otras unidades administrativas de la misma;
 
-- Expedir  copias  certificadas  de  las  constancias  que  obren  en  los  archivos  de  la Secretaría  cuando  deban  ser  exhibidas  en  procedimientos  judiciales  o  contenciosoadministrativos y, en general, para cualquier proceso, procedimiento o averiguación;
+- Expedir  copias  certificadas  de  las  constancias  que  obren  en  los  archivos  de  la Secretaría  cuando  deban  ser  exhibidas  en  procedimientos  judiciales  o  contencioso-administrativos y, en general, para cualquier proceso, procedimiento o averiguación;
 
 - Dictaminar los proyectos de convenios y contratos que, en su caso, deban suscribir los servidores públicos de la Secretaría, en el ejercicio de sus funciones, y llevar un registro de dichos instrumentos jurídicos;
 
@@ -1072,7 +1072,7 @@ Corresponde a la Dirección General de Educación Superior para Profesionales de
 ### ARTÍCULO 22.
 Corresponde a la Dirección General de Profesiones el ejercicio de las siguientes atribuciones:
 
-- Vigilar  el  ejercicio  profesional,  en  términos  de  la  Ley  Reglamentaria  del  artículo  5 Constitucional relativo al Ejercicio de las Profesiones en el Distrito Federal;
+- Vigilar  el  ejercicio  profesional,  en  términos  de  la  Ley  Reglamentaria  del  artículo  5o. Constitucional relativo al Ejercicio de las Profesiones en el Distrito Federal;
 
 - Promover,  consolidar  y  ampliar  las  relaciones  entre  la  Secretaría  y  los  colegios  de profesionistas;
 
@@ -1453,7 +1453,7 @@ Fracción reformada DOF 04-08-2011 Fracción reformada DOF 11-10-2012
 
 - Asesorar a las autoridades educativas locales en el establecimiento y seguimiento de prácticas innovadoras en la escuela;
 
-- Contribuir,  en  coordinación  con  las  autoridades  educativas  locales,  a  la  formación académica y el desarrollo de las capacidades técnicas de asesores técnicopedagógicos  y  equipos  estatales  para  capacitar  a  las  autoridades  escolares  en  el desarrollo de la gestión y la innovación en las escuelas;
+- Contribuir,  en  coordinación  con  las  autoridades  educativas  locales,  a  la  formación académica y el desarrollo de las capacidades técnicas de asesores técnico-pedagógicos  y  equipos  estatales  para  capacitar  a  las  autoridades  escolares  en  el desarrollo de la gestión y la innovación en las escuelas;
 
 30
 
@@ -1922,8 +1922,6 @@ Fracción reformada DOF 11-10-2012
 
 - Proponer,  en  coordinación  con  las  instancias  competentes,  la  política  nacional  de evaluación educativa;
 
-- V.
-
 - Contribuir al desarrollo y coordinación del sistema nacional de evaluación Educativa;
 
 - Proponer, en coordinación con las instancias que  correspondan,  la política de participación nacional en los programas y estudios de carácter internacional orientados a la determinación y uso de información estadística y de indicadores educativos;
@@ -1969,7 +1967,7 @@ Fracción reformada DOF 11-10-2012
 
 [[START OF PAGE 41]]
 
-- dicha atribución no esté encomendada  a  otras unidades administrativas de la Secretaría;
+dicha atribución no esté encomendada  a  otras unidades administrativas de la Secretaría;
 
 - Substanciar  el  procedimiento  y  emitir  las  resoluciones  que  revoquen  o  retiren  la autorización  o  reconocimiento  de  validez  oficial  de  estudios  respecto  de  los  casos señalados en la fracción anterior;
 
@@ -2003,7 +2001,8 @@ Fracción reformada DOF 11-10-2012
 
 Fracción adicionada DOF 11-10-2012
 
-XX. Contribuir al desarrollo y coordinación del Sistema Nacional de Información Educativa. Fracción adicionada DOF 11-10-2012
+XX. Contribuir al desarrollo y coordinación del Sistema Nacional de Información Educativa.
+Fracción adicionada DOF 11-10-2012
 
 ### ARTÍCULO 42.
 Corresponde a  la  Dirección  General  de  Televisión  Educativa  el  ejercicio  de  las siguientes atribuciones:
@@ -2032,7 +2031,7 @@ Corresponde a  la  Dirección  General  de  Televisión  Educativa  el  ejercici
 
 - Desarrollar, en coordinación con unidades administrativas de la Secretaría y entidades competentes, los programas, proyectos y actividades de producción audiovisual que le sean requeridos y, en su caso, brindar servicios de apoyo para el uso de los recursos audiovisuales de carácter educativo que de ellos se deriven;
 
-- Administrar y supervisar el funcionamiento y asesorar el mantenimiento y operación de la  'Red  Edusat',  en  coordinación  con  las  unidades  administrativas  competentes, considerando  la  opinión  de  las  autoridades  educativas  locales  en  materia  de  diseño, programación y transmisión de canales de televisión;
+- Administrar y supervisar el funcionamiento y asesorar el mantenimiento y operación de la  “Red  Edusat”,  en  coordinación  con  las  unidades  administrativas  competentes, considerando  la  opinión  de  las  autoridades  educativas  locales  en  materia  de  diseño, programación y transmisión de canales de televisión;
 
 - Atender  los  requerimientos  de  televisión  y  audiovisuales  que  en  materia  educativa indique el Secretario;
 
@@ -2116,7 +2115,7 @@ Son órganos desconcentrados de la Secretaría:
 
 - Comisión de Apelación y Arbitraje del Deporte;
 
-- FE de erratas DOF 01-02-2005
+FE de erratas DOF 01-02-2005
 
 - Consejo Nacional para la Cultura y las Artes;
 
@@ -2136,7 +2135,9 @@ Fracción reformada DOF 01-07-2010
 
 Fracción reformada DOF 01-07-2010 Fracción reformada DOF 11-10-2012
 
-- Instituto Nacional de Estudios Históricos de las Revoluciones de México, y Fracción adicionada DOF 01-07-2010 Fracción reformada DOF 11-10-2012
+- Instituto Nacional de Estudios Históricos de las Revoluciones de México, y
+Fracción adicionada DOF 01-07-2010
+Fracción reformada DOF 11-10-2012
 
 - Universidad Abierta y a Distancia de México.
 
@@ -2174,7 +2175,8 @@ Al frente de cada uno de los órganos internos de control que se mencionan en el
 ## CAPÍTULO XI  DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA
 
 ### ARTÍCULO 52.
-El Secretario será suplido en sus ausencias por los subsecretarios de Educación Superior, de Educación Media Superior, de Educación Básica, por el Oficial Mayor o por el titular de la Unidad de Asuntos Jurídicos, en el orden indicado. Artículo reformado DOF 29-12-2009
+El Secretario será suplido en sus ausencias por los subsecretarios de Educación Superior, de Educación Media Superior, de Educación Básica, por el Oficial Mayor o por el titular de la Unidad de Asuntos Jurídicos, en el orden indicado.
+Artículo reformado DOF 29-12-2009
 
 ### ARTÍCULO  53.
 Las  ausencias  del  Titular  del  Órgano  Interno  de  Control,  así  como  las  de  los titulares  de  las  áreas  de  quejas;  de  responsabilidades;  de  auditoría  interna;  y  de  auditoría  de control  y  evaluación  y  apoyo  al  buen  gobierno  serán  suplidas  conforme  a  lo  previsto  por  el Reglamento Interior de la Secretaría de la Función Pública.
@@ -2226,7 +2228,7 @@ Cuando  en  este  Reglamento  se  dé  una  denominación  distinta  a  alguna  
 ### OCTAVO.
 Los derechos de los trabajadores serán respetados conforme a la ley.
 
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinte días del mes de enero de dos mil cinco.Vicente Fox Quesada .- Rúbrica.- El Secretario de Educación Pública, Reyes S. Tamez Guerra .- Rúbrica.
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinte días del mes de enero de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Educación Pública, Reyes S. Tamez Guerra.- Rúbrica.
 
 46
 
@@ -2240,7 +2242,14 @@ SECRETARIA DE EDUCACION PUBLICA
 
 # FE de erratas al Reglamento Interior de la Secretaría de Educación Pública, publicado el 21 de enero de 2005.
 
-En la página 24, Artículo 2, inciso B, fracción II, dice: II. Comisión de Apelación y Arbitraje Deportivo; Debe decir: II. Comisión de Apelación y Arbitraje del Deporte ; En la página 60, Artículo 46, fracción II, dice: II. Comisión de Apelación y Arbitraje Deportivo; Debe decir: II. Comisión de Apelación y Arbitraje del Deporte ;
+En la página 24, Artículo 2, inciso B, fracción II, dice:
+II. Comisión de Apelación y Arbitraje Deportivo;
+Debe decir:
+II. Comisión de Apelación y Arbitraje del Deporte;
+En la página 60, Artículo 46, fracción II, dice:
+II. Comisión de Apelación y Arbitraje Deportivo;
+Debe decir:
+II. Comisión de Apelación y Arbitraje del Deporte;
 
 [[END OF PAGE 47]]
 
@@ -2265,7 +2274,7 @@ VICENTE FOX QUESADA , Presidente de los Estados Unidos Mexicanos, en ejercicio d
 ### ARTÍCULO ÚNICO.
 Se reforman los artículos 2, 5, 6, 8 y 9; y se deroga el artículo 28 del Reglamento Interior de la Secretaría de Educación Pública, para quedar como sigue:
 
-### 'ARTÍCULO 2.
+### “ARTÍCULO 2.
 Al frente de la Secretaría de Educación Pública estará el Secretario del Despacho, quien para el desahogo de los asuntos de su competencia se auxiliará de las
 
 unidades administrativas y órganos desconcentrados siguientes:
@@ -2282,7 +2291,7 @@ XXIII. (Se deroga).
 
 XXIV. a XXXIX. ...
 
-- B.Órganos desconcentrados:
+B.- Órganos desconcentrados:
 
 I. a IX. ...
 
@@ -2291,7 +2300,7 @@ La Secretaría contará con un Órgano Interno de Control que se regirá conform
 ### ARTÍCULO 5.
 Son facultades indelegables del Secretario:
 
-l. a Xll. ...
+I. a XII. ...
 
 XIII. Acordar con los Subsecretarios, Oficial Mayor, titulares de las Unidades de Planeación y Evaluación de Políticas Educativas, y de Coordinación Ejecutiva, los asuntos de sus respectivas competencias, así como supervisar el ejercicio de las atribuciones de los titulares de las unidades administrativas bajo su dependencia directa;
 
@@ -2300,9 +2309,9 @@ XIV. a XXV. ...
 ### ARTÍCULO 6.
 Al frente de cada Subsecretaría habrá un Subsecretario, a quien corresponderá el ejercicio de las siguientes facultades:
 
-l. a X. …
+I. a X. …
 
-Xl. Establecer la coordinación necesaria con los demás Subsecretarios, Oficial Mayor, titulares de las Unidades de Planeación y Evaluación de Políticas Educativas, y de Coordinación Ejecutiva, así como de las demás unidades administrativas para el mejor despacho de los asuntos competencia de la Secretaría;
+XI. Establecer la coordinación necesaria con los demás Subsecretarios, Oficial Mayor, titulares de las Unidades de Planeación y Evaluación de Políticas Educativas, y de Coordinación Ejecutiva, así como de las demás unidades administrativas para el mejor despacho de los asuntos competencia de la Secretaría;
 
 XII. a XX. ...
 
@@ -2333,7 +2342,7 @@ Al frente de la Unidad de Coordinación Ejecutiva habrá un Coordinador,  a quie
 I. a IX. ...
 
 ### ARTÍCULO 28.
-(Se deroga). '
+(Se deroga).”
 
 ## TRANSITORIOS
 
@@ -2344,9 +2353,8 @@ Los recursos humanos, financieros y materiales asignados a la Dirección General
 ### TERCERO.
 Las acciones que se deriven de la reforma a que se refiere el presente Decreto, se sujetarán al presupuesto aprobado por la H. Cámara de Diputados para la Secretaría de Educación Pública en el ejercicio fiscal 2006. 
 ### CUARTO.
-Los derechos de los trabajadores serán respetados conforme a la ley. Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los seis días
-
-del mes de octubre de dos mil seis.Vicente Fox Quesada .- Rúbrica.- El Secretario de Educación Pública, Reyes S. Tamez Guerra .- Rúbrica.
+Los derechos de los trabajadores serán respetados conforme a la ley.
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los seis días del mes de octubre de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Educación Pública, Reyes S. Tamez Guerra.- Rúbrica.
 
 [[END OF PAGE 49]]
 
@@ -2371,7 +2379,7 @@ FELIPE DE JESÚS CALDERÓN HINOJOSA , Presidente de los Estados Unidos Mexicanos
 ### ARTÍCULO ÚNICO.
 Se REFORMAN los artículos 2, apartado A, fracciones VII y VIII, 4, fracción II, 5, fracción VI, 11, fracciones X y XIII, 13, primer párrafo y fracciones II, III, XI, XVII, XXIII y XXIV, 22, fracción X, 34, fracciones II y XI, 37, fracción XII, 43, fracción IX y 52, se ADICIONAN los artículos 13 con las fracciones I bis, I ter, II bis, II ter, II quáter, XI bis, XI ter, XXV y 54 bis, del Reglamento Interior de la Secretaría de Educación Pública, para quedar como sigue:
 
-### ' Artículo 2.
+### “Artículo 2.
 …
 
 A. …
@@ -2522,9 +2530,7 @@ IX. Coadyuvar con la Unidad de Asuntos Jurídicos en la substanciación de los p
 ### Artículo 52.
 El Secretario será suplido en sus ausencias por los subsecretarios de Educación Superior, de Educación Media Superior, de Educación Básica, por el Oficial Mayor o por el titular de la Unidad de Asuntos Jurídicos, en el orden indicado. 
 ### Artículo 54 bis.
-de Procesos Jurídico Administrativos, de Normatividad y Consulta, de Asuntos Laborales, de Proyectos Jurídicos Especiales y Jurídico de Apoyo en Adquisiciones, Obra Pública y Servicios. Las ausencias de los Directores adscritos a la Unidad de Asuntos Jurídicos, serán suplidas por los Subdirectores que de ellos
-
-Las ausencias del titular de la Unidad de Asuntos Jurídicos serán suplidas por los Directores dependan. Las ausencias de los Subdirectores adscritos a las Direcciones de la Unidad de Asuntos Jurídicos, serán suplidas por los Jefes de Departamento que de ellos dependan'.
+Las ausencias del titular de la Unidad de Asuntos Jurídicos serán suplidas por los Directores de Procesos Jurídico Administrativos, de Normatividad y Consulta, de Asuntos Laborales, de Proyectos Jurídicos Especiales y Jurídico de Apoyo en Adquisiciones, Obra Pública y Servicios. Las ausencias de los Directores adscritos a la Unidad de Asuntos Jurídicos, serán suplidas por los Subdirectores que de ellos dependan. Las ausencias de los Subdirectores adscritos a las Direcciones de la Unidad de Asuntos Jurídicos, serán suplidas por los Jefes de Departamento que de ellos dependan”.
 
 ## TRANSITORIOS
 
@@ -2533,9 +2539,8 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ### SEGUNDO.
 Las referencias que se hacen a la Dirección General de Asuntos Jurídicos en decretos, reglamentos, acuerdos, órdenes, reglas, manuales, circulares, lineamientos y demás disposiciones se entenderán hechas a la Unidad de Asuntos Jurídicos. 
 ### TERCERO.
-El cambio de denominación de la Dirección General de Asuntos Jurídicos a Unidad de Asuntos Jurídicos, no implica la creación de una Unidad Administrativa nueva. Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México a veintidós de diciembre de dos mil nueve.Felipe de Jesús Calderón Hinojosa .- Rúbrica.- El Secretario de Educación Pública,
-
-Alonso José Ricardo Lujambio Irazábal .- Rúbrica.
+El cambio de denominación de la Dirección General de Asuntos Jurídicos a Unidad de Asuntos Jurídicos, no implica la creación de una Unidad Administrativa nueva.
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México a veintidós de diciembre de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Educación Pública, Alonso José Ricardo Lujambio Irazábal.- Rúbrica.
 
 [[END OF PAGE 52]]
 
@@ -2578,7 +2583,7 @@ Que los objetivos y atribuciones del Instituto se relacionan estrechamente con l
 ### ARTÍCULO PRIMERO.
 Se REFORMAN los artículos 1o., 4o., fracción I y 6o., primer párrafo y fracciones III, V y VII, y se ADICIONAN los artículos 5o. Bis y 7o. Bis del Decreto por el que el Instituto Nacional de Estudios Históricos de la Revolución Mexicana (actualmente Instituto Nacional de Estudios Históricos de las Revoluciones de México) amplía sus atribuciones y objetivos, publicado en el Diario Oficial de la Federación el 26 de marzo de 1987, para quedar como sigue:
 
-### 'Artículo 1o.
+### “Artículo 1o.-
 El Instituto Nacional de Estudios Históricos de las Revoluciones de México, como órgano desconcentrado de la Secretaría de Educación Pública, tendrá por objeto desarrollar y colaborar en la investigación, estudio y difusión de la historia de las grandes transformaciones políticas, económicas, sociales y culturales generadas por las revoluciones que han definido la historia nacional; así como coadyuvar en la formación de especialistas en estos campos, y contribuir al rescate y conservación de materiales documentales, bibliográficos y gráficos sobre dichas transformaciones, para difundirlos entre la sociedad mexicana.
 
 [[END OF PAGE 53]]
@@ -2598,16 +2603,16 @@ El Titular del Instituto será designado por el Presidente de la República, o p
 ### Artículo 6o.
 El Titular del Instituto tendrá las siguientes atribuciones: I. y II. … III. Elaborar y proponer al Secretario de Educación Pública el proyecto de programas y presupuestos del Instituto; IV. … V. Proponer al Titular de la Secretaría de Educación Pública, el establecimiento de las unidades técnicas y administrativas necesarias para el desarrollo de las actividades del Instituto; VI. … VII. Las demás que le confieren este ordenamiento, otras disposiciones aplicables y las que le delegue el Secretario de Educación Pública. 
 ### Artículo 7o. Bis.
-El Instituto tendrá un Consejo Técnico Consultivo integrado de manera honorífica por un número no menor de seis personas que se hayan distinguido en el estudio e investigación de las ciencias sociales, quienes serán invitadas por el Secretario de Educación Pública. El Consejo Técnico Consultivo tendrá las siguientes atribuciones: I. Asesorar al Titular del Instituto en la formulación de los programas de trabajo del Instituto; II. Asesorar al Titular del Instituto en las cuestiones técnicas e históricas que le sean consultadas; III. Opinar sobre el contenido de los informes del Titular del Instituto; IV. Proponer fuentes alternativas de recursos para el financiamiento de la operación del Instituto, y V. Las demás que correspondan al ámbito de su competencia y las que le encomiende el Secretario de Educación Pública, dentro de la esfera de sus facultades. ' 
+El Instituto tendrá un Consejo Técnico Consultivo integrado de manera honorífica por un número no menor de seis personas que se hayan distinguido en el estudio e investigación de las ciencias sociales, quienes serán invitadas por el Secretario de Educación Pública. El Consejo Técnico Consultivo tendrá las siguientes atribuciones: I. Asesorar al Titular del Instituto en la formulación de los programas de trabajo del Instituto; II. Asesorar al Titular del Instituto en las cuestiones técnicas e históricas que le sean consultadas; III. Opinar sobre el contenido de los informes del Titular del Instituto; IV. Proponer fuentes alternativas de recursos para el financiamiento de la operación del Instituto, y V. Las demás que correspondan al ámbito de su competencia y las que le encomiende el Secretario de Educación Pública, dentro de la esfera de sus facultades.”
 ### ARTÍCULO SEGUNDO.
 Se REFORMAN las fracciones VIII y IX del apartado B del artículo 2 y las fracciones VIII y IX del artículo 46, y se ADICIONAN la fracción X al apartado B del artículo 2 y la fracción X al artículo 46, del Reglamento Interior de la Secretaría de Educación Pública, para quedar como sigue: 
-### 'Artículo 2.-
-… A.-… I. a XXXIX. … B.-… I. a VII. … VIII. Radio Educación; IX. Universidad Pedagógica Nacional, y X. Instituto Nacional de Estudios Históricos de las Revoluciones de México. 
+### “Artículo 2.-
+… A.-… I. a XXXIX. … B.-… I. a VII. … VIII. Radio Educación; IX. Universidad Pedagógica Nacional, y X. Instituto Nacional de Estudios Históricos de las Revoluciones de México.
 ### Artículo 46.-
-… I. a VII. … VIII. Radio Educación; IX. Universidad Pedagógica Nacional, y X. Instituto Nacional de Estudios Históricos de las Revoluciones de México. ' la fracción IV del artículo 36 y la Sección IV, que comprende los
+… I. a VII. … VIII. Radio Educación; IX. Universidad Pedagógica Nacional, y X. Instituto Nacional de Estudios Históricos de las Revoluciones de México.”
 
 ### ARTÍCULO TERCERO.
-Se DEROGAN artículos 52 a 54, del Reglamento Interior de la Secretaría de Gobernación, para quedar como sigue:
+Se DEROGAN la fracción IV del artículo 36 y la Sección IV, que comprende los artículos 52 a 54, del Reglamento Interior de la Secretaría de Gobernación, para quedar como sigue:
 
 [[END OF PAGE 54]]
 
@@ -2619,7 +2624,7 @@ DIARIO OFICIAL
 
 (Primera Sección)
 
-'Artículo 36. …
+“Artículo 36. …
 
 I. a III. …
 
@@ -2636,16 +2641,16 @@ Derogado.
 Derogado.
 
 ### Artículo 54.
-Derogado. '
+Derogado.”
 
 ### ARTÍCULO CUARTO.
 Se REFORMAN el artículo Único y el Transitorio Segundo del Acuerdo por el que se determina la coordinación ejecutiva de los programas y calendarios acordados por la Comisión Organizadora de la Conmemoración del Bicentenario del inicio del movimiento de Independencia Nacional y del Centenario del inicio de la Revolución Mexicana, publicado en el Diario Oficial de la Federación el 11 de marzo de 2009, para quedar como sigue:
 
-### 'ARTÍCULO ÚNICO.
+### “ARTÍCULO ÚNICO.-
 La Secretaría de Educación Pública, a través de su órgano administrativo desconcentrado denominado Instituto Nacional de Estudios Históricos de las Revoluciones de México, estará a cargo de la coordinación ejecutiva de los programas y calendarios que acuerde la Comisión Organizadora de la Conmemoración del Bicentenario del inicio del movimiento de Independencia Nacional y del Centenario del inicio de la Revolución Mexicana.
 
 ### SEGUNDO.
-La operación y funcionamiento del presente Acuerdo, se llevará a cabo con los recursos presupuestarios aprobados en el ejercicio fiscal correspondiente en el Presupuesto de Egresos de la Federación al Ramo 11 "Secretaría de Educación Pública". Asimismo, cualquier gasto adicional que se genere será solventado por la Secretaría de Educación Pública con los recursos aprobados a esa Dependencia en su presupuesto autorizado. '
+La operación y funcionamiento del presente Acuerdo, se llevará a cabo con los recursos presupuestarios aprobados en el ejercicio fiscal correspondiente en el Presupuesto de Egresos de la Federación al Ramo 11 "Secretaría de Educación Pública". Asimismo, cualquier gasto adicional que se genere será solventado por la Secretaría de Educación Pública con los recursos aprobados a esa Dependencia en su presupuesto autorizado.”
 
 ## TRANSITORIOS
 
@@ -2665,7 +2670,7 @@ En todo caso se respetarán los derechos laborales de los trabajadores del Insti
 ### CUARTO .
 Las secretarías de Gobernación y de Educación Pública realizarán las acciones necesarias para que la operación del órgano administrativo desconcentrado denominado Instituto Nacional de Estudios Históricos de las Revoluciones de México se realice con los recursos aprobados a dichas dependencias, mediante movimientos compensados para el ejercicio fiscal que corresponda, por lo que no requerirán recursos adicionales para tales efectos y no incrementarán su presupuesto regularizable.
 
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiocho de junio de dos mil diez.Felipe de Jesús Calderón Hinojosa .- Rúbrica.- El Secretario de Gobernación,  Lic. Fernando Francisco Gómez Mont Urueta .- Rúbrica.- El Secretario de Hacienda y Crédito Público, Ernesto Javier Cordero Arroyo .- Rúbrica.- El Secretario de la Función Pública, Salvador Vega Casillas .- Rúbrica.- El Secretario de Educación Pública, Alonso José Ricardo Lujambio Irazábal .- Rúbrica.
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiocho de junio de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Ernesto Javier Cordero Arroyo.- Rúbrica.- El Secretario de la Función Pública, Salvador Vega Casillas.- Rúbrica.- El Secretario de Educación Pública, Alonso José Ricardo Lujambio Irazábal.- Rúbrica.
 
 [[END OF PAGE 55]]
 
@@ -2690,7 +2695,7 @@ FELIPE DE JESÚS CALDERÓN HINOJOSA , Presidente de los Estados Unidos Mexicanos
 ### ARTÍCULO ÚNICO.
 Se REFORMAN los artículos 2, apartado A, fracciones XXX y XXXIV, 7, fracciones III y XXVII, 8, fracciones I, III y X, 11, fracción XII, 31, fracción VI, 35, primer párrafo y fracciones I, II, III, V, VI, XI y XII, 39, primer párrafo y fracción I, y 44, fracción III; se ADICIONAN los artículos 7, con las fracciones XXVIII, XXIX y XXX, pasando la actual XXVIII a ser XXXI, y 35, con las fracciones XIII, XIV, XV, XVI, XVII, XVIII, XIX y XX, y se DEROGAN los artículos 8, fracciones II y XIX, 39, fracciones III, IV, IX, XI, XII y XIII, y 44, fracción II, del Reglamento Interior de la Secretaría de Educación Pública, para quedar como sigue:
 
-### ' ARTÍCULO 2.-
+### “ARTÍCULO 2.-
 …
 
 A.-…
@@ -2816,11 +2821,11 @@ XVI. Proponer al Oficial Mayor, de conformidad con las disposiciones jurídicas 
 
 XVII. Integrar los anteproyectos de presupuesto global y del programa de inversión y obra pública del sector educativo, conjuntamente con las unidades administrativas competentes de la Secretaría y las entidades paraestatales sectorizadas; XVIII. Gestionar ante la Secretaría de Hacienda y Crédito Público, la aprobación de los anteproyectos de presupuesto de la Secretaría y sus órganos desconcentrados, así como los de las entidades paraestatales agrupadas en el sector educativo; XIX. Proponer a las unidades administrativas de la Secretaría, a sus órganos desconcentrados y a las entidades paraestatales agrupadas en el sector educativo, criterios y prioridades para la orientación del gasto público en los diferentes tipos, niveles y modalidades del servicio educativo, y XX. Evaluar el ejercicio del presupuesto, en coordinación con la Unidad de Planeación y Evaluación de Políticas Educativas, en lo referente a la ejecución de los programas y políticas educativas. 
 ### ARTÍCULO 39.
-Corresponde a la Dirección General de Planeación el ejercicio de las siguientes atribuciones: Desarrollar y coordinar las actividades de planeación de la Secretaría para los diversos niveles, tipos y
+Corresponde a la Dirección General de Planeación el ejercicio de las siguientes atribuciones:
 
-I. modalidades de educación, así como del sector educativo en su conjunto;
+I. Desarrollar y coordinar las actividades de planeación de la Secretaría para los diversos niveles, tipos y modalidades de educación, así como del sector educativo en su conjunto;
 
-II. … III. Derogada. IV. Derogada. V. a VIII. … IX. Derogada. X. … XI. Derogada. XII. Derogada. XIII. Derogada. XIV. a XVIII. … 
+II. … III. Derogada. IV. Derogada. V. a VIII. … IX. Derogada. X. … XI. Derogada. XII. Derogada. XIII. Derogada. XIV. a XVIII. …
 ### ARTÍCULO 44.-
 …
 
@@ -2840,7 +2845,7 @@ a
 
 VIII.
 
-…'
+…”
 
 ## TRANSITORIOS
 
@@ -2855,9 +2860,8 @@ Los recursos humanos, financieros y materiales asignados a las unidades administ
 ### QUINTO.
 Las reformas y adiciones contenidas en el presente Decreto no implican la creación de puestos ni de unidades administrativas, por lo que no tendrán impacto presupuestario. 
 ### SEXTO.
-Los derechos de los trabajadores serán respetados conforme a la ley. Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintinueve de julio de dos mil once.Felipe de Jesús Calderón Hinojosa .- Rúbrica.- El Secretario de Educación Pública, Alonso José
-
-Ricardo Lujambio Irazábal .- Rúbrica.
+Los derechos de los trabajadores serán respetados conforme a la ley.
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintinueve de julio de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Educación Pública, Alonso José Ricardo Lujambio Irazábal.- Rúbrica.
 
 [[END OF PAGE 58]]
 
@@ -2878,7 +2882,7 @@ República. FELIPE DE JESÚS CALDERÓN HINOJOSA ,  Presidente de los Estados Uni
 ### ARTÍCULO ÚNICO.
 Se REFORMAN los artículos 2, apartados A, fracciones XV, XXV, XXXIII y XXXIV, y B, fracciones IX y X, 7, fracción VI, 8, fracción V, 9, fracción VIII, 13, fracción XXIII, 20, en su encabezado y fracciones I, IV, V, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI y XVII, 29, fracción VI, 30, 31, fracción VI, 34, fracciones I, II, III, IV, V, VI, XIV, XV, XVI y XVII, 35, fracción II, 38, 39, en su encabezado y fracciones II, X, XIV, XV, XVI, XVII y XVIII, 40, fracciones I, II, VIII y IX, 41, fracciones I, II, III, XVII y XVIII, 44, fracción III, y 46, fracciones IX y X; se ADICIONAN los artículos 2, apartado B, con la fracción XI, 8, con las fracciones XX, XXI, XXII y XXIII, pasando la actual XX a ser XXIV, 9, con las fracciones IX, X, XI y XII, pasando la actual IX a ser XIII, 20, con las fracciones I Bis, III Bis, IX Bis, y XIII Bis, 34, con las fracciones XVIII, XIX, XX, XXI, XXII y XXIII, 39, con la fracción XIX, 40, con la fracción X, 41, con las fracciones XIX y XX, y 46, con la fracción XI,  y se DEROGAN los artículos 6, fracción VIII, 8, fracciones IV, VIII, XIV y XV, y 34, fracción XI, del Reglamento Interior de la Secretaría de Educación Pública, para quedar como sigue:
 
-### ' ARTÍCULO 2.-
+### “ARTÍCULO 2.-
 …
 
 A. …
@@ -3192,7 +3196,7 @@ a
 
 VIII. …
 
-IX. Universidad Pedagógica Nacional; X. Instituto Nacional de Estudios Históricos de las Revoluciones de México, y XI. Universidad Abierta y a Distancia de México.'
+IX. Universidad Pedagógica Nacional; X. Instituto Nacional de Estudios Históricos de las Revoluciones de México, y XI. Universidad Abierta y a Distancia de México.”
 
 ## TRANSITORIOS
 
@@ -3207,8 +3211,9 @@ Los recursos humanos, financieros y materiales asignados a las unidades administ
 ### QUINTO.
 Las reformas y adiciones contenidas en el presente Decreto no implican la creación de puestos ni de unidades administrativas, por lo que no tendrán impacto presupuestario. 
 ### SEXTO.
-Los derechos de los trabajadores serán respetados conforme a la ley. 
+Los derechos de los trabajadores serán respetados conforme a la ley.
 ### SÉPTIMO.
-Se derogan las disposiciones que se opongan al presente Decreto. Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a nueve de octubre de dos mil doce.Felipe de Jesús Calderón Hinojosa .- Rúbrica.- El Secretario de Educación Pública, José Ángel Córdova Villalobos .- Rúbrica.
+Se derogan las disposiciones que se opongan al presente Decreto.
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a nueve de octubre de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Educación Pública, José Ángel Córdova Villalobos.- Rúbrica.
 
 [[END OF PAGE 67]]
