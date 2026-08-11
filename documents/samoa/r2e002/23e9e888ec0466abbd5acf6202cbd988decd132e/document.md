@@ -1,10 +1,11 @@
 [[START OF PAGE 1]]
 
-Ministry of Education, Sports and Culture Government of S ā moa
+Government of Sāmoa
+Ministry of Education, Sports and Culture
 
-# CORPORATE PLAN JULY 2012 - JUNE 2015
+# CORPORATE PLAN JULY 2012 – JUNE 2015
 
-'Ensuring improved opportunities for all'
+“Ensuring improved opportunities for all”
 
 [[END OF PAGE 1]]
 
@@ -14,7 +15,7 @@ Ministry of Education, Sports and Culture Government of S ā moa
 
 The Ministry of Education, Sports and Culture Corporate Plan July 2012 - June 2015 is developed based on the achievements of the Ministry's Strategic Policies and Plan (SPP) of July 2006 - June 2015.
 
-This Corporate Plan continues on this strength and is based on the targets and priorities for education, sports and culture as specified by the Government of Sāmoa in its Strategy for the Development of Sāmoa 2012 2016  vision  of Improved  Quality  of  Life  for  All ,  on  the  theme 'boosting  productivity  for  sustainable development' ,  on  the  Key  Outcome  of  'Improved  Focus  on  Access  to  Education,  Training  and  Learning Outcomes' (May2012); and the third phase of the MESC nine-year Strategic Policies and Plan (SPP) July 2006 -  June  2015. This  Corporate Plan will  continue  to  be  MESC's  instrument  for implementation of  the  many initiatives in the MESC SPP and the newly developed Education Sector Pan 2012 - 2016.
+This Corporate Plan continues on this strength and is based on the targets and priorities for education, sports and culture as specified by the Government of Sāmoa in its Strategy for the Development of Sāmoa 2012 – 2016 vision of Improved Quality of Life for All, on the theme “boosting productivity for sustainable development”, on the Key Outcome of “Improved Focus on Access to Education, Training and Learning Outcomes” (May2012); and the third phase of the MESC nine-year Strategic Policies and Plan (SPP) July 2006 – June 2015. This Corporate Plan will continue to be MESC’s instrument for implementation of the many initiatives in the MESC SPP and the newly developed Education Sector Pan 2012 – 2016.
 
 I would like to acknowledge and congratulate everyone who has contributed their time and commitment to the  development of this Corporate Plan.  I also extend my sincere gratitude to all development partners, organizations and individuals who have supported and continue to support the developments of education, sports and culture.
 
@@ -30,6 +31,71 @@ MINISTER OF EDUCATION, SPORTS AND CULTURE
 
 ## ACRONYMS
 
+ADB Asian Development Bank
+AMU Assets Management Unit
+AusAID Australian Agency for International Development
+CEO Chief Executive Officer
+CDC Cabinet Development Committee
+CMAD Curriculum, Materials and Assessment Division
+CSD Corporate Services Division
+DOE Department of Education
+DMRP Disaster Management Response Plan
+ECE Early Childhood Education
+EFA Education For All
+EMIS Education Management Information System
+ESCD Education Sector Coordinating Division
+ESP Education Sector Plan
+ESP II Education Sector Program II
+FOE Faculty of Education
+GoFAR Government Financial and Reporting System
+GoS Government of Samoa
+GPI Gender Parity Index
+IA Internal Assessment
+IE Inclusive Education
+ICT Information and Communications Technology
+IST Inservice Training
+MDGs Millenium Developmetn Goals
+MESC Ministry of Education, Sports and Culture
+MoU Memorandum of Understanding
+MSS Minimum Service Standrdsa
+MYSCA Ministry of Youth, Sports and Cultural Affairs
+NAC National Assessment Council
+NARA National Archives and Records Authority
+NCC National Curriculum Council
+NFE Non Fomral Education
+NTDF National Teacher Development Framework
+NUS National University of Samoa
+NZAP New Zealand Aid Programme
+OCEO Office of the Chief Executive Officer
+PaBER Pacific Benchmarking for Education Results
+P.E. Physical Education
+PMT Project Management Team
+PPRD Policy, Planning and Research Division
+PRIDE Pacific Regional Initiative for the Development of Basic Education
+PSET Post School Education and Training
+PSSC Pacific Senior Secondary Certificate
+PSC Public Service Commission
+SASNOC Samoa Association of Sports and National Olympic Committee
+SDS Strategy for the Development of Samoa
+SLA School Library Assistants
+SNAPF Samoa National Assessment Policy Framework
+SNCPF Samoa National Curriculum Policy Framework
+SNE Special Needs Education
+SOD School Operations Division
+SPBEA South Pacific Board for Educational Assessment
+SPC South Pacific Community
+SPELL Samoa Primary Education Literacy Level
+SPP Strategic Policies and Plan
+SQA Samoa Qualifications Authority
+SRO School Review Officer
+SSC Samoa School Certificate
+SSfDP Samoa Sports for Development Project
+SSFGS Samoa School Fee Relief Scheme
+TVET Technical and Vocational Educationa and Training
+UNESCO United Nations Educational, Scientific and Cultural Organisation
+USAid United States of America Aid Programme
+USP University of the South Pacific
+
 1
 
 [[END OF PAGE 3]]
@@ -37,6 +103,17 @@ MINISTER OF EDUCATION, SPORTS AND CULTURE
 [[START OF PAGE 4]]
 
 ## Contents
+
+1 INTRODUCTION 3
+2. MANDATE 4
+3. VISION AND MISSION 4
+4. POLICY AND PLANNING PRINCIPLES 5
+5. KEY VALUES 5
+6. THE MINISTRY’S GOALS 6
+7. CORPORATE PLAN OBJECTIVES AND TARGETS 7
+8. STRATEGIES AND PERFORMANCE MEASURES 9
+9. OPPORTUNITIES AND CONSTRAINTS 17
+10. MINISTRY OF EDUCATION, SPORTS AND CULTURE ORGANISATIONAL STRUCTURE 20
 
 2
 
@@ -262,38 +339,22 @@ In  order  to  facilitate  the  achievement  of  the  overall  vision  and  miss
 
 #### Education:
 
-- Develop and implement the National Early Childhood Education (ECE) Policy by 2015
-
-- Develop and implement the Inclusive Education (IE) policy by 2015
-
-- Samoan Language Commission to be independent by 2013
-
-- Evaluate and review the Bilingual Education Policy by 2015
-
-- Implement the new bilingual primary curriculum for 7 subject areas by 2013.
-
-- Review and produce relevant materials to support the new bilingual primary curriculum by 2015
-
-- Pacific Senior Secondary Certificate (PSSC)fully localised by 2013
-
-- Develop and implement a new primary assessment tool at the completion of primary education by 2013
-
-- Implement Item bank for assessment by 2015
-
-- Trial and evaluate  the Pacific Benchmarking of Education Results (PaBER) by 2015
-
-- Develop e- resources for literacy and vocational subjects for secondary schools by 2015
-
-- Develop and implement a second stream for Mathematics and Gagana Sāmoa in secondary schools by 2015
-
-- Evaluate and review the secondary curriculum by 2015
-
-- Establish an ICT Division by 2015
-
-- Establish the Education Sector Coordination Unit by 2013
-
-- Upgrade and Build:
-
+1. Develop and implement the National Early Childhood Education (ECE) Policy by 2015
+2. Develop and implement the Inclusive Education (IE) policy by 2015
+3. Samoan Language Commission to be independent by 2013
+4. Evaluate and review the Bilingual Education Policy by 2015
+5. Implement the new bilingual primary curriculum for 7 subject areas by 2013.
+6. Review and produce relevant materials to support the new bilingual primary curriculum by 2015
+7. Pacific Senior Secondary Certificate (PSSC)fully localised by 2013
+8. Develop and implement a new primary assessment tool at the completion of primary education by 2013
+9. Implement Item bank for assessment by 2015
+10. Trial and evaluate the Pacific Benchmarking of Education Results (PaBER) by 2015
+11. Develop e- resources for literacy and vocational subjects for secondary schools by 2015
+12. Develop and implement a second stream for Mathematics and Gagana Sāmoa in secondary schools by 2015
+13. Evaluate and review the secondary curriculum by 2015
+14. Establish an ICT Division by 2015
+15. Establish the Education Sector Coordination Unit by 2013
+16. Upgrade and Build:
 - Avele College, and 3 Secondary Schools [Lefaga, Aana No.1 & Sagaga]
 
 7
@@ -303,58 +364,36 @@ In  order  to  facilitate  the  achievement  of  the  overall  vision  and  miss
 [[START OF PAGE 10]]
 
 - Lefaga Secondary School teacher house
-
 - 4 primary schools [Falevao, Gautavai, Sapapalii & Faleu]
-
 - Printing Facility
-
 - MESC Warehouse
-
-- All Primary schools to have School Library Assistant by 2015
-
-- Implement and legalize the National Teacher Development Framework (NTDF) to become the Teachers Act by 2015
-
-- Finalize and implement the National Minimum Service Standards (NMSS) in all schools by 2013
-
-- Regulation for the Education Act 2009 developed and approved by 2015
-
-- Establish MESC Audit Committee by 2013
-
-- Develop MESC Communication Strategy by December 2012
-
-- All new school buildings completed by 2014 will be insured by 2015
-
-- MESC Bill to be passed by Parliament by 2015
-
-- Non Formal Education (NFE)Policy in place by December 2012
-
-- Improve the percentage of government schools meeting the approved teacher student ratio from 77% in 2011 to 80% in 2015 for primary schools, and 58% in 2011 to 61% in 2015 for secondary schools
-
-- National overall retention rate from Year 1 to Year 8 to be improved from 82% in 2011 to 85% by the commencement of the 2015 school year
-
-- National overall transition rate from Year 8 to Year 9 to be improved from 87% in 2011 to 89% by the commencement of the 2015 school year
-
-- Gender Parity Index (GPI) for primary and secondary enrolment to be within the range of 1.03 to 0.97 or vice versa
+17. All Primary schools to have School Library Assistant by 2015
+18. Implement and legalize the National Teacher Development Framework (NTDF) to become the Teachers Act by 2015
+19. Finalize and implement the National Minimum Service Standards (NMSS) in all schools by 2013
+20. Regulation for the Education Act 2009 developed and approved by 2015
+21. Establish MESC Audit Committee by 2013
+22. Develop MESC Communication Strategy by December 2012
+23. All new school buildings completed by 2014 will be insured by 2015
+24. MESC Bill to be passed by Parliament by 2015
+25. Non Formal Education (NFE)Policy in place by December 2012
+26. Improve the percentage of government schools meeting the approved teacher student ratio from 77% in 2011 to 80% in 2015 for primary schools, and 58% in 2011 to 61% in 2015 for secondary schools
+27. National overall retention rate from Year 1 to Year 8 to be improved from 82% in 2011 to 85% by the commencement of the 2015 school year
+28. National overall transition rate from Year 8 to Year 9 to be improved from 87% in 2011 to 89% by the commencement of the 2015 school year
+29. Gender Parity Index (GPI) for primary and secondary enrolment to be within the range of 1.03 to 0.97 or vice versa
 
 #### Sports:
 
-- 60 additional primary schools to be included in the Fiafia Sports Program by 2015.
-
-- 3 schools sports fields to be constructed by 2015
-
-- 36 villages will be included in the Samoa Sports for Development Program by 2015.
+1. 60 additional primary schools to be included in the Fiafia Sports Program by 2015.
+2. 3 schools sports fields to be constructed by 2015
+3. 36 villages will be included in the Samoa Sports for Development Program by 2015.
 
 #### Culture:
 
-- Complete the integration of the museum, libraries and archives into the National Culture Centre Architectural design Concept by 2013.
-
-- Museum Legislation completed by 2013
-
-- Establish the National Archives and Records Authority (NARA) by 2013.
-
-- National Culture in Education Strategy developed by 2014
-
-- Ratify the UNESCO Convention on the Safeguarding of Intangible Cultural Heritage, 2003 by 2013.
+1. Complete the integration of the museum, libraries and archives into the National Culture Centre Architectural design Concept by 2013.
+2. Museum Legislation completed by 2013
+3. Establish the National Archives and Records Authority (NARA) by 2013.
+4. National Culture in Education Strategy developed by 2014
+5. Ratify the UNESCO Convention on the Safeguarding of Intangible Cultural Heritage, 2003 by 2013.
 
 8
 
@@ -391,7 +430,7 @@ Develop and Implement Inclusive Education Policy | CMAD/SOD/PPRD | Improved teac
 
 STRATEGIES and ACTIVITIES | RESPONSIBLE DIVISION | EXPECTED OUTCOMES | KEY PERFORMANCE MEASURES
 --- | --- | --- | ---
-Better understanding of roles and coordination of support between MESC and service providers | education students
+ |  | Better understanding of roles and coordination of support between MESC and service providers | education students
 Develop and implement Early Childhood Education(ECE) Policy | CMAD/PPRD | Improved quality of ECE programs Well defined roles and responsibilities of stakeholders concerned with the delivery of ECE program | • Policy developed and implemented • Number of ECE centres implementing the ECE policy
 Implement the review of the Samoa National Curriculum Policy Framework | CMAD/SOD | National Curriculum Policy Framework is aligned to the new Assessment Policy Framework Teachers, parents and students are well informed of the goals, principles and values that underpin curriculum developments Teachers, parents and students are aware of the subjects offered in all levels of education and the different pathways that students can take | • Number of schools implementing the revised SNCPF
 Implement the Samoa National Assessment Policy Framework | CMAD/SOD | Improved assessment practices in schools Improved accountability of schools to the school communities Improved student learning | • Number of schools implementing the policy • SPELL batteries are reviewed • Item banks developed and implemented • Appropriate Assessment Tool for Year 8 developed • PSSC localized (Year 13) • Trial of the PaBER ( Pacific Benchmarking of Education Results) conducted
@@ -472,7 +511,7 @@ STRATEGIES and ACTIVITIES | RESPONSIBLE DIVISION | EXPECTED OUTCOMES | KEY PERFO
 Undertake a review of all schools' facilities in accordance with the Ministry's approved minimum standards | CSD/AMU | Schools and MESC facilities meet an established set of facility standards | • Number and % of schools that comply with the minimum facility standards prescribed in the Educational Facilities Handbook
 All ESP (Phase 2) building construction conform to approved minimum standards | CSD/AMU | Improved teaching and learning environment | • ESP II/ ADB and other MESC facilities completed according to schedule
 Resource materials distributed to all schools | CSD/AMU | Schools equipped with quality resource materials and within time schedule | • Number of resource materials and furniture provided to schools (AMU)
-Upgrade Avele College, 3 Secondary schools (Sagaga, Lefaga and Aana), and 4 Primary Schools (Falevao, Gautavai,Faleu and Spapalii) | CSD/AMU | Improved teaching and learning environment in the schools | • Avele College upgrade completed • Secondary Schools • Sagaga Secondary School upgraded • Lefaga Secondary School upgraded • Aana No. 1 Secondary School upgrade completed • Primary Schools: • Falevao Primary completed • Gautavai Primary completed • Faleu Primary completed •
+Upgrade Avele College, 3 Secondary schools (Sagaga, Lefaga and Aana), and 4 Primary Schools (Falevao, Gautavai,Faleu and Spapalii) | CSD/AMU | Improved teaching and learning environment in the schools | • Avele College upgrade completed • Secondary Schools • Sagaga Secondary School upgraded • Lefaga Secondary School upgraded • Aana No. 1 Secondary School upgrade completed • Primary Schools: • Falevao Primary completed • Gautavai Primary completed • Faleu Primary completed • Sapapalii Primary completed
 Upgrade new Teacher house for Lefaga District. | CSD/AMU | Increased teacher mobility to rural area | • Teacher house upgrade completed
 Upgrade library facilities in all Secondary Schools and Colleges | CSD/AMU | Quality library facilities available in schools | • Library facilities in secondary schools and colleges upgraded
 Undertake a review of the Educational Facilities Handbook (Maintenance Plan) | CSD/AMU | Minimum Standards for Building facilities | • Education Facilities Handbook reviewed
@@ -653,9 +692,9 @@ The  shortage  of  qualified  teachers  and  qualified  personnel  in  technical
 
 ### PROPOSED Organsiational Structure attached
 
-PND - Proposed New Division
-
 MINISTER
+
+ASSOCIATE MINISTER
 
 CHIEF EXECUTIVE OFFICER
 
@@ -699,7 +738,7 @@ COORDINATION
 
 (PND)
 
-ASSOCIATE MINISTER
+PND – Proposed New Division
 
 20
 
@@ -709,11 +748,13 @@ ASSOCIATE MINISTER
 
 ### OFFICE OF THE CHIEF EXECUTIVE OFFICER (OCEO)
 
-PNP - Proposed New Position
-
 Chief Executive
 
 Officer
+
+Principal Executive
+
+Assistant
 
 Principal Internal
 
@@ -729,35 +770,33 @@ Secretariat
 
 (PNP)
 
-Principal Executive
-
-Assistant
+PNP – Proposed New Position
 
 #### FUNCTIONS
 
 - Ensure efficient liaison with the officer of the Minister of Education Sports & Culture;
 
-- Ensure efficient flow of correspondence to and from the CEO;
+- Ensure coordination of the CEO’s appointment;
 
-- Ensure coordination of the CEO's appointment;
+- Ensure efficient flow of correspondence to and from the CEO;
 
 - Ensure effective liaison with the community;
 
-- Ensure efficient coordination of the Executive Committees;
-
 - Ensure effective coordination of UNESCO National Commission activities;
+
+- Ensure efficient coordination of the Executive Committees;
 
 - Ensure efficient and effective use of resources and advice on processes and systems;
 
-- Provide policy advice to the Minister;
-
 - Provide legal advice and service to the Ministry and to the CEO;
+
+- Provide policy advice to the Minister;
 
 - Timely submissions of briefing statements to the Minister and CEO;
 
-- Conduct internal audit procedures and prepare quarterly reports;
-
 - Provide MESC representation on official and community committees as needed;
+
+- Conduct internal audit procedures and prepare quarterly reports;
 
 - Coordinate the implementation of the Education Sector Project;
 
@@ -771,11 +810,11 @@ Assistant
 
 ### POLICY PLANNING AND RESEARCH DIVISION
 
-UFOL - Upgrade from Officer Level
-
 ACEO
 
 PPRD
+
+Executive Assistant
 
 Principal Officer
 
@@ -799,7 +838,7 @@ Senior Information
 
 Analyst (EMIS)
 
-Senior Informatiobn
+Senior Information
 
 Analyst (SEN)
 
@@ -839,75 +878,48 @@ Officer
 
 (from OCEO)
 
-Executive Assistant
+UFOL – Upgrade from Officer Level
 
 #### FUNCTIONS
 
 ##### STRATEGIC PLANNING UNIT
 
-- The corporate planning cycle as stipulated by the central agencies;
-
 - Manage and ensure timeliness of:
-
-- The development of annual management plans for all divisions;
-
+  - The corporate planning cycle as stipulated by the central agencies;
+  - The development of annual management plans for all divisions;
+  - The conduct of quarterly reviews of the MESC Annual Management Plans;
 - Manage and ensure the implementation of all MESC plans through:
-
-- The conduct of quarterly reviews of the MESC Annual Management Plans;
-
-- Constant monitoring and review;
-
+  - Constant monitoring and review;
+  - Regular meetings of the corporate planning committee;
 - Ensure all plans are interlinked:
-
-- Regular meetings of the corporate planning committee;
-
 - Ensure that the MESC Annual Reports are produced and tabled in parliament.
 
-##### RSEARCH & POLICY  ANALYSIS UNIT
+##### RSEARCH & POLICY ANALYSIS UNIT
 
 - Lead and manage the conduct of research according to the MESC research guidelines and ethics;
-
-- Conduct research according to prioritized issues from management;
-
 - Recommend key research issues to management;
-
+- Conduct research according to prioritized issues from management;
 - Conduct policy development and analysis;
-
-- Establishment of working parties;
-
 - Manage the conduct of policy development through the:
-
-- Provision of guidance and mentoring;
-
-- Publication and distribution of final approved policy.
-
-- Presentation of policy papers for management decision;
-
+  - Establishment of working parties;
+  - Provision of guidance and mentoring;
+  - Presentation of policy papers for management decision;
+  - Publication and distribution of final approved policy.
 - Assist in the development of the MESC annual report.
 
 ##### INFORMATION ANALYSIS UNIT
 
-- Provide data support to strategic planning and management decision making;
-
 - Manage the collection, collation, analysis and presentation of data to management and educational stakeholders;
-
+- Provide data support to strategic planning and management decision making;
 - Produce and present analytical reports to inform research and policy development;
-
-- Conduct the annual school census;
-
 - Provide data to ensure proper allocation of resources to schools;
-
-- Develop and produce the MESC  annual statistical digest;
-
-- Update the student education number (SEN) register;
-
+- Conduct the annual school census;
+- Develop and produce the MESC annual statistical digest;
 - Update school profiles;
-
+- Update the student education number (SEN) register;
 - Provide data for efficient planning and utilization of resources and effective performance monitoring;
-
-- Assist with the development of the MESC annual report
-
 - Produce the annual school term calendar;
+- Assist with the development of the MESC annual report
 
 22
 
@@ -917,28 +929,19 @@ Executive Assistant
 
 ##### PROJECT COORDINATION UNIT
 
-- Present Project Briefs for decision of Management;
-
 - Manage the monitoring and reporting processes of all MESC projects to MESC Management and CDC;
-
+- Present Project Briefs for decision of Management;
 - Provide summaries of progress and emerging issues related to project implementation;
-
-- Monitor the implementation of all MESC projects/programmes and submit quarterly reports to Management;
-
 - Evaluate impact of projects in contributing to MESC Goals and Objectives;
-
+- Monitor the implementation of all MESC projects/programmes and submit quarterly reports to Management;
 - Update the MESC Projects Management Database;
-
 - Coordinate donor linkages.
 
 ##### COMMUNICATION UNIT
 
+- Produce radio, television programs, press releases, newspaper inserts and MATAOAOTA’ANU’U Newsletter;
 - Spokesperson for the Ministry on education, sports and culture issues;
-
-- Produce radio, television programs, press releases, newspaper inserts and MATAOAOTA'ANU'U Newsletter;
-
 - Implement the MESC Communication Strategy;
-
 - Represent the MESC on official and community committee.
 
 23
@@ -953,130 +956,63 @@ ACEO
 
 SOD
 
-PEO Teacher
+Executive Assistant
 
-Registration Officer
+PEO Teacher Registration Officer
 
-Senior Registration
+Quality Assurers PEO level (9)
 
-Officer (2)
+Senior Registration Officer (2)
 
-Senior Registration
+Senior Registration Officer Primary District 3 (UFOL)
 
-Officer Primary
+Senior Registration Officer Primary District 2 (UFOL)
 
-District 3
+Senior Registration Officer Primary District 1 (PNP)
 
-(UFOL)
+Senior Disciplinary Officer
 
-Senior Registration
+Senior Data Processor (UFOL)
 
-Officer Primary
+PEO Management Unit
 
-District 2
+School Review Officers (PEO level)
 
-(UFOL)
+Senior SM Officers Secondary (1) (UFOL)
 
-Senior Registration
+Senior SM Officers Secondary (2) (PNP)
 
-Officer Primary
+Senior SM Officers Primary (3) (PNP)
 
-District 1
-
-(PNP)
-
-Senior Disciplinary
-
-Officer
-
-Senior Data Processor
-
-(UFOL)
-
-Quality Assurers PEO
-
-level (9)
-
-PEO Management
-
-Unit
-
-Senior SM Officers
-
-Secondary (1)
-
-(UFOL)
-
-Senior SM Officers
-
-Secondary (2)
-
-(PNP)
-
-Senior SM Officers
-
-Primary (3)
-
-(PNP)
-
-Senior Compulsory
-
-Education Officer
-
-(PNP)
-
-School Review
-
-Officers (PEO level)
+Senior Compulsory Education Officer (PNP)
 
 PEO School Personnel
 
-Senior SP Officer
+Senior SP Officer Secondary (PNP)
 
-Secondary
+Senior SP Officer Primary (1)
 
-(PNP)
+Senior SP Officer Primary (2) (PNP)
 
-Senior SP Officer
+Senior SP Officer Primary (3) (PNP)
 
-Prrimary (1)
-
-Senior SP Officer
-
-Primary  (2)
-
-(PNP)
-
-Senior SP Officer
-
-Primary  (3)
-
-(PNP)
-
-Executive Assistant
-
-UFOL - Upgrade from Officer Level PNP - Proposed New Position
+UFOL – Upgrade from Officer Level
+PNP – Proposed New Position
 
 #### FUNCTIONS
 
 ##### TEACHER REGISTRATION UNIT
 
-- Implement Teacher Registration System to all teachers in Samoa (Government, Mission, Private and Special Schools)
-
 - Establishment of Teacher Registration System
-
+- Implement Teacher Registration System to all teachers in Samoa (Government, Mission, Private and Special Schools)
 - Monitor the Implementation of the Professional Baseline Standards
-
-- Manage the Code of Ethics for the Teaching Profession
-
 - Monitor and implement new Induction Framework
+- Manage the Code of Ethics for the Teaching Profession
 
 ##### SCHOOL MANAGEMENT UNIT
 
-- Regulating the performance of all schools in Samoa to ensure compliance with MSS
-
 - Implement the Minimum Service Standards (MSS) in Schools
-
+- Regulating the performance of all schools in Samoa to ensure compliance with MSS
 - Management of Contracts for Teaching Personnel (Positions of Responsibility)
 
 ##### SCHOOL PERSONNEL UNIT
@@ -1091,77 +1027,51 @@ UFOL - Upgrade from Officer Level PNP - Proposed New Position
 
 ### CURRICULUM MATERIALS AND ASSESSMENT DIVISION (CMAD)
 
-PNP - Proposed New Position
-
 ACEO
 
 CMAD
 
-Principal Officer
+Executive Assistant
 
-Multimedia Education
+Language Specialist
 
-(PNP)
+Senior Officer Samoan Language (PNP)
 
-Senior Multimedia
+Senior Officer English language (PNP)
 
-Education
+Principal Officer Multimedia Education (PNP)
+
+Senior Multimedia Education
 
 Multimedia Officers (2)
 
-Principal Officer
+Principal Officer Multimedia Technical
 
-Multimedia Technical
+(Principal Audiovisual Officer - transferred from Culture Division)
 
-(Principal Audiovisual
+Senior Multimedia Officer Technical
 
-Officer - transferred from
+(Audiovisual Officer - transferred from Culture Division)
 
-Culture Division)
-
-Senior Multimedia Officer
-
-Technical
-
-(Audiovisual Officer -
-
-transferred from Culture
-
-Division)
-
-Multimedia Officer
-
-Technical (2)
+Multimedia Officer Technical (2)
 
 (Upgrade and renamed)
 
-Principal Officer
-
-Primary Curriculum
+Principal Officer Primary Curriculum
 
 Principal Officers (9)
 
-Samoan, english, Math,
+Samoan, english, Math, Science, S/Studies, HPE, F/Arts, ECE
 
-Science, S/Studies, HPE,
+Principal Officer Secondary Curriculum
 
-F/Arts, ECE
-
-Principal Officer Secondary
-
-Curriculum
-
-(upgrade  SpGr2  - L6)
+(upgrade SpGr2 - L6)
 
 Principal Officer (13)
 
 (upgrade to SpGr 1)
 
-Principal Officer
-
-Assessment and
-
-Examination
+Principal Officer Assessment and Examination
 
 SAO Primary and Exams
 
@@ -1173,45 +1083,19 @@ SAO Secondary and Exams
 
 AO Assessment and Exams
 
-Principal Officer
-
-Assessment Management
-
-Info System & Instructional
-
-Support (AMISIS)
+Principal Officer Assessment Management Info System & Instructional Support (AMISIS)
 
 SAO Assessment Dev
 
-AO Data & Systems
+AO Data & Systems Management
 
-Management
-
-SAO Research and
-
-Institutional Supports
+SAO Research and Institutional Supports
 
 AO Research and Training
 
-Principal Officer
+Principal Officer Inclusive Education
 
-Inclusive Education
-
-Executive Assistant
-
-Language Specialist
-
-Senior Officer
-
-Samoan Language
-
-(PNP)
-
-Senior Officer
-
-English language
-
-(PNP)
+PNP – Proposed New Position
 
 25
 
@@ -1221,59 +1105,38 @@ English language
 
 #### FUNCTIONS
 
-- Develop the National Curriculum Policy Framework for approval by the National Curriculum Council
-
 ##### Ensure the development of curricula for all levels of schooling that is consistent with national objectives:
 
+- Develop the National Curriculum Policy Framework for approval by the National Curriculum Council
 - Work with the NCC to ensure regular reviews of the National Curriculum Policy Framework and curriculum statements
-
-- Manage the development and review of curriculum statements for all subject areas
-
 - Provide executive support to the NCC
-
+- Manage the development and review of curriculum statements for all subject areas
 - Provide ongoing support for teachers for effective implementation of the National Curriculum Policy Framework and curriculum statements through network meetings and monitoring visits
-
-- Liaise with PEO Teacher Development to schedule and conduct training for Principals, SRO's and teachers on the use of the National Curriculum Policy Framework and curriculum statements.
-
 - Provide detailed reports of visits, network meetings and training highlighting issues and recommendations for the MESC Executive
+- Liaise with PEO Teacher Development to schedule and conduct training for Principals, SRO's and teachers on the use of the National Curriculum Policy Framework and curriculum statements.
 
 ##### Ensure the provision of materials to support the teaching of the curriculum
 
-- Establish and maintain subject committees
-
 - Manage the development of curriculum support materials including multimedia resources efficiently and according to the agreed development schedule and Materials Production Plan
-
+- Establish and maintain subject committees
 - Conduct regular reviews of support materials to ensure consistency with the curriculum statements and according to the procedures specified in the Review and Evaluation Plan
-
-- Conduct monitoring visits to ensure effective implementation of support materials and equipment
-
 - Liaise with PEO Teacher Development to schedule and conduct in-service training for Principals, SROs and teachers on effective use of support materials and equipment
-
+- Conduct monitoring visits to ensure effective implementation of support materials and equipment
 - Develop intervention strategies for systems wide improvement
 
 ##### Ensure assessment is consistent with national policies and objectives:
 
-- Work with the National Assessment Council to conduct regular reviews of the Samoa National School Assessment Policy Framework
-
 - Manage the administration of national assessments efficiently and according to agreed schedule
-
+- Work with the National Assessment Council to conduct regular reviews of the Samoa National School Assessment Policy Framework
 - Recruit and train examiners, moderators, supervisors and examination markers
-
-- Liaise with School Operations on the administration of SPELL tests, Year 8, Year 12 and Year 13 national examinations
-
 - Liaise with PEO Teacher Development to schedule and conduct training for Principals, SRO's, examiners, markers and teachers on assessment to support teaching and learning
-
+- Liaise with School Operations on the administration of SPELL tests, Year 8, Year 12 and Year 13 national examinations
 - Co-ordinate the development and regular reviews of subject specifications and prescriptions
-
-- Develop and manage item bank system
-
 - Conduct analysis of national assessment results data and provide statistical reports in coordination with PPRD
-
+- Develop and manage item bank system
 - Conduct validity studies of assessment tools
-
-- Monitor and evaluate all assessment programs and activities
-
 - Conduct standardization of assessment items
+- Monitor and evaluate all assessment programs and activities
 
 26
 
@@ -1287,127 +1150,73 @@ ACEO
 
 SPORTS
 
-Principal Sports Officer
+Executive Assistant
 
-Management
-
-Senior Sports Officer
-
-Sports Officer
-
-Management (2)
-
-Principal Sports Officer
-
-Community Unit
-
-(project - proposed to be
-
-absorbed by MESC)
+Principal Sports Officer Management
 
 Senior Sports Officer
 
-(Upolu)
+Sports Officer Management (2)
 
-(project - proposed to be
+Principal Sports Officer Community Unit
 
-absorbed by MESC)
+(project - proposed to be absorbed by MESC)
+
+Senior Sports Officer (Upolu)
+
+(project - proposed to be absorbed by MESC)
 
 Sports Officer Upolu (2)
 
-(project - proposed to be
-
-absorbed by MESC)
+(project - proposed to be absorbed by MESC)
 
 Driver (Upolu)
 
-(project - proposed to be
+(project - proposed to be absorbed by MESC)
 
-absorbed by MESC)
+Senior Sports Officer (Savaii)
 
-Senior Sports Officer
-
-(Savaii)
-
-(project - proposed to be
-
-absorbed by MESC)
+(project - proposed to be absorbed by MESC)
 
 Sports Officer Savaii (2)
 
-(project - proposed to be
-
-absorbed by MESC)
+(project - proposed to be absorbed by MESC)
 
 Driver (Savaii)
 
-(project - proposed to be
+(project - proposed to be absorbed by MESC)
 
-absorbed by MESC)
+Principal Sports Officer School Unit (PNP)
 
-Principal Sports Officer
-
-School Unit
-
-(PNP)
-
-Senior Sports Officer
-
-Primary
-
-(PNP)
+Senior Sports Officer Primary (PNP)
 
 Sports Officer Junior Sports
 
-Sports Officer Special
+Sports Officer Special Needs
 
-Needs
+Senior Sports Officer Secondary (PNP)
 
-Senior Sports Officer
+Sports Officer Secondary (PNP)
 
-Secondary
-
-(PNP)
-
-Sports Officer Secondary
-
-(PNP)
-
-Executive Assistant
-
-PNP - Proposed New Position
+PNP – Proposed New Position
 
 #### FUNCTIONS
 
 - Develop, monitor and evaluate the strategic implementation of the National Sports Policy.
-
-- Conduct OR coordinate coaching and refereeing in-service training for teachers to effectively implement the Health & P.E. Curriculum.
-
 - Monitor, evaluate and review the implementation of Health & Physical Education in Primary and Secondary schools.
-
+- Conduct OR coordinate coaching and refereeing in-service training for teachers to effectively implement the Health & P.E. Curriculum.
 - Promote and develop sports and Health & P.E programs for Special Needs schools.
-
-- Coordinate and encourage widespread participation in quality Sports and Physical Activities at all levels.
-
 - Coordinate and fund the accreditation and certification of coaches and referees in the communities to be in accordance with International Standards.
-
+- Coordinate and encourage widespread participation in quality Sports and Physical Activities at all levels.
 - Coordinate OR conduct sports management and administration seminars to establish accountability and transparency within Sports Associations.
-
-- Coordinate, administer and review the Sports Compensation Scheme.
-
 - Encourage and promote quality competitions on a provincial and national level for schools and communities.
-
+- Coordinate, administer and review the Sports Compensation Scheme.
 - Construct new and upgrade existing sports facilities in accordance with international standards.
-
-- Liaise and strengthen collaboration and partnership with SASNOC to ensure
-
 - Procure and distribute appropriate sports equipment.
-
+- Liaise and strengthen collaboration and partnership with SASNOC to ensure
 - Government support to host national and international sport events
-
-- National Teams for international competitions
-
 - Provide appropriate technical and financial assistance for Elite Athletes and
+- National Teams for international competitions
 
 27
 
@@ -1419,57 +1228,29 @@ PNP - Proposed New Position
 
 ACEO CULTURE
 
-Principal Cultural
+Executive Assistant
 
-Officer
+Principal Cultural Officer
 
-Senior Culture
+Senior Culture Specialist
 
-Specialist
+Culture Specialist Assistant
 
-Culture Specialist
+Senior Officer Arts & Cultural Development
 
-Assistant
-
-Senior Officer
-
-Arts & Cultural
-
-Development
-
-Senior Officer
-
-Heritage Development
-
-(UFOL)
+Senior Officer Heritage Development (UFOL)
 
 Curator
 
-Senior Officer
+Senior Officer Collections & Exhibitions
 
-Collections &
+Senior Officer Information & Tours (UFOL)
 
-Exhibitions
+Principal Archives Officer
 
-Senior Officer
+Senior Digitization Officer
 
-Information & Tours
-
-(UFOL)
-
-Principal Archives
-
-Officer
-
-Senior Digitization
-
-Officer
-
-Archives Preservation
-
-Officer
-
-(PNP)
+Archives Preservation Officer (PNP)
 
 Senior Archives Officer
 
@@ -1477,59 +1258,36 @@ Principal Librarian
 
 Senior Librarian
 
-Senior Library
+Senior Library Assistant (6)
 
-Assistant
+Library Assistant (9)
 
-(6)
+Senior Information Officer (PNP)
 
-Library Assistant
-
-(9)
-
-Senior Information
-
-Officer
-
-(PNP)
-
-Executive Assistant
-
-UFOL - Upgrade from Officer Level PNP - Proposed New Position
+UFOL – Upgrade from Officer Level
+PNP – Proposed New Position
 
 #### FUNCTIONS
 
 ##### Culture Awareness
 
-- Coordinate new research and identify existing research data to support policy development.
-
 - Identify critical policy concerns on arts, culture and heritage for research and policy development.
-
+- Coordinate new research and identify existing research data to support policy development.
 - Develop, coordinate, monitor, review and evaluate the implementation of national culture, arts and heritage policies.
-
-- Propose strategies to strengthen cross-sector collaboration and partnership.
-
 - Identify and define the cultural sector.
-
-- Preserve oral traditions by publishing the Samoa Ne'i Galo series and disseminate.
-
+- Propose strategies to strengthen cross-sector collaboration and partnership.
+- Preserve oral traditions by publishing the Samoa Ne’i Galo series and disseminate.
+- Ensure the development of the National Culture Centre is complete to accommodate the safeguarding of Samoa’s tangible and intangible cultural heritage
 - Propose regional and international cultural, art festivals and events for Samoa to attend and coordinate representation.
-
-- Ensure the development of the National Culture Centre is complete to accommodate the safeguarding of Samoa's tangible and intangible cultural heritage
-
 - Propose relevant international conventions and agreements Samoa can ratify and be signatory to.
 
 ##### Museum of Samoa
 
 - Act as a repository of knowledge about the Samoan material and intangible culture, and its environment
-
-- Promotes the importance of preservation and conservation of the natural environment of Samoa to and for its people
-
 - Serves to interpret, preserve and promote the material and intangible culture of Samoa and those of its neighboring island nations
-
-- Establishes the importance of spreading knowledge about Samoa's material and intangible culture through school curriculum, cultural tourism, and advocacy.
-
-- Alerts people to issues relating to Samoa's cultural heritage such as monuments in peril, fading skills of sailing, handicrafts, afa netting etc
+- Promotes the importance of preservation and conservation of the natural environment of Samoa to and for its people
+- Establishes the importance of spreading knowledge about Samoa’s material and intangible culture through school curriculum, cultural tourism, and advocacy.
+- Alerts people to issues relating to Samoa’s cultural heritage such as monuments in peril, fading skills of sailing, handicrafts, afa netting etc
 
 28
 
@@ -1538,33 +1296,23 @@ UFOL - Upgrade from Officer Level PNP - Proposed New Position
 [[START OF PAGE 31]]
 
 - Serves to expand and acts as a source of such knowledge by means of research i.e working with relevant universities, related organizations, members of the general public and/or hosting seminars, etc.
-
 - Collaborates with other museums worldwide and other regional and international organizations to further enhance its purposes and objectives set to benefit Samoa and its developments
 
 ##### Archives Unit
 
-- Provide storage, preservation, management and conditions for access to Records of permanent value in the Authority's possession according to the provisions of the Act
-
 - Develop, promote efficient and effective methods, procedures and systems for the creation, management, storage, disposal, preservation and use of Public Records.
-
+- Provide storage, preservation, management and conditions for access to Records of permanent value in the Authority’s possession according to the provisions of the Act
 - Conduct research and provide advice in relation to the management and preservation of Records of Samoa that may have archival value, whether such records are public or private.
-
 - Seek to obtain custody and management of resources or material not in the custody of a Public Body and which in the opinion of the Authority, forms part of the archival resources and ought to be in the custody of the Authority.
 
 ##### Public Library Services
 
-- Provide all required library materials, text books and references for schools and community
-
 - Provide public library services to schools and community
-
+- Provide all required library materials, text books and references for schools and community
 - Investigate and research enhancement to the libraries for better delivery of services
-
-- Oversee the repairs and maintenance requirements for libraries
-
 - Conduct staff training on library skills
-
+- Oversee the repairs and maintenance requirements for libraries
 - Develop a system for the archival of outdated library materials, text books and references
-
 - Maintain and review library computerize catalogue system
 
 29
@@ -1577,165 +1325,85 @@ UFOL - Upgrade from Officer Level PNP - Proposed New Position
 
 ACEO
 
-Corporate
+Corporate Services
 
-Services
+Executive Assistant
 
-Principal
+Principal Accountant
 
-Accountant
-
-Senior
+Senior Accountant
 
 Accountant
 
-Accountant
+Assistant Accountant (Payable)
 
-Assistant
+Senior Accounts Officer (Payable) (2)
 
-Accountant
+Accounts Officer (payable) (2)
 
-(Payable)
-
-Senior Accounts
-
-Officer (Payable)
-
-(2)
-
-Accounts Officer
-
-(payable) (2)
-
-Accounts Officer
-
-Receivable
+Accounts Officer Receivable
 
 Head Cashier
 
-Senior
+Senior Procurement Officer
 
-Procurement
+Procurement Officer
 
-Officer
+Senior Asset Management Officer
 
-Procurement
+Senior Stores Officer
 
-Officer
+Principal HR and Payroll
 
-Senior Asset
+Senior HR & Payroll Officer
 
-Management
-
-Officer
-
-Senior Stores
-
-Officer
-
-Principal HR and
-
-Payroll
-
-Senior HR &
-
-Payroll Officer
-
-HR & Payroll
-
-Officer
+HR & Payroll Officer
 
 HR & Payroll Clerk
 
-Senior
-
-Administration &
-
-Transport Officer
+Senior Administration & Transport Officer
 
 Driver
 
-Principal
+Principal Information & Technology Officer
 
-Information &
+Senior OfficerSystem Support
 
-Technology
+System Support Officer
 
-Officer
+Senior Officer Systmes Support
 
-Senior
+PC Networkficer (2)
 
-OfficerSystem
-
-Support
-
-System Support
-
-Officer
-
-Senior Officer
-
-Systmes Support
-
-PC Networkficer
-
-(2)
-
-Building &
-
-Maintenance
-
-Manager
+Building & Maintenance Manager
 
 Foreman
 
 Groundsman
 
-Handy Man
+Handy Man (PNP)
 
-(PNP)
-
-Printing Manager
-
-(PNP)
+Printing Manager (PNP)
 
 Head Binder
 
-Binder Operators
-
-(3)
+Binder Operators (3)
 
 Head MAchinist
 
-Machine
-
-Operators (3)
+Machine Operators (3)
 
 Head Pre-Press
 
-Pre-Press
+Pre-Press Operators (3)
 
-Operators (3)
+Principal Records Officer (PNP)
 
-Principal Records
+Senior Records Officer (2)
 
-Officer
+Records Officers (3)
 
-(PNP)
-
-Senior Records
-
-Officer (2)
-
-Records Officers
-
-(3)
-
-Executive
-
-Assistant
-
-PNP - Proposed New Position
+PNP – Proposed New Position
 
 30
 
@@ -1747,97 +1415,63 @@ PNP - Proposed New Position
 
 ##### Co-ordinate budget planning, preparation, presentation and distribution:
 
-- Provide regular and accurate financial budget reports to Output Managers and Full Executive members on a timely manner;
-
 - Liaison with Ministry of Finance, Public Service Commission and Public Accounts Committee on financial budgetary matters;
-
+- Provide regular and accurate financial budget reports to Output Managers and Full Executive members on a timely manner;
 - Provide financial advice on the trends and impacts of expenditure and revenue according to the approved budget;
-
-- Provide efficient and effective financial records management.
-
 - Monitor output expenditures to ensure compliance with budgetary recommendations; and to review financial transactions and codes for conformance to standard procedures and accounts, and
+- Provide efficient and effective financial records management.
 
 ##### Manage financial transactions on behalf of the Ministry in an efficient and effective manner:
 
+- Implement and monitor system controls of the Financing Reporting System (GoFAR – Finance One);
 - Operate and monitor systems to control and record revenues and expenditures;
-
-- Implement and monitor system controls of the Financing Reporting System (GoFAR - Finance One);
-
 - Maintain accurate and up-to-date financial reports;
-
-- Review and establish efficient work flow procedures for the Ministry
-
 - Comply with the Acts and legislation of the GoS financial and budgeting reforms; and,
+- Review and establish efficient work flow procedures for the Ministry
 
 ##### Ensure effective and efficient administration within the Ministry:
 
-- Maintain a close liaison with PSC and Ministry of Finance on HR matters.
-
 - Ensure compliance with up-to-date GoS requirements;
-
+- Maintain a close liaison with PSC and Ministry of Finance on HR matters.
 - Regularly monitor data entry procedures and maintain accurate payroll records and systems [GOFAR-People One and Pelican];
-
-- Monitor the implementation of  MESC standard formats, templates, and procedures manuals;
-
 - Maintain, review and establish efficient work flow patterns;
-
+- Monitor the implementation of MESC standard formats, templates, and procedures manuals;
 - Maintain accurate and up-to-date payroll and administration records;
-
+- Conduct mail delivery to all schools in Savaii and Upolu; and,
 - Ensure effective allocation of transport services to all MESC divisions.
 
-- Conduct mail delivery to all schools in Savaii and Upolu; and,
-
-##### Manage MESC's corporate personnel functions
-
-- Identify training needs and budget,  and schedule relevant training;
+##### Manage MESC’s corporate personnel functions
 
 - Co-ordinate recruitment, appointment, resignations, retirements and assessment of corporate and teaching staff;
-
+- Identify training needs and budget, and schedule relevant training;
 - Collate and facilitate the preparation of performance plans and succession planning;
-
-- Maintain accurate and up-to-date information for all corporate and teaching staff personnel files;
-
 - Monitor the recruitment and selection systems and processes and report monthly;
-
+- Maintain accurate and up-to-date information for all corporate and teaching staff personnel files;
 - Maintain and review the central registry filing system;
-
-- Ensure the archives room is well maintained and kept clean at all times.
-
 - Maintain accurate and up-to-date records of all correspondence for the Ministry; and,
+- Ensure the archives room is well maintained and kept clean at all times.
 
 ##### To ensure efficient and effective printing services for the Ministry and all schools.
 
-- To print, compile and collate other reports as recommended by the Core Executive;
-
 - To print all educational support materials for the Ministry and all schools in a timely and efficient manner
-
+- To print, compile and collate other reports as recommended by the Core Executive;
 - Liaise with School Operations and the Curriculum, Materials and Assessment Division for printing requests;
-
-- Conduct periodic maintenance work of all printing machines and coordinate servicing of the machines;
-
 - Maintain accurate records of printing requests;
-
+- Conduct periodic maintenance work of all printing machines and coordinate servicing of the machines;
 - Review and record the performance of the printing machinery; and,
-
 - Conduct staff training on all printing machinery.
 
 ##### Proposed ICT Division
 
-- Conduct, review and research ways to use ICT effectively as a tool for information dissemination;
-
 ###### Ensure efficient and effective ICT services:
 
+- Conduct, review and research ways to use ICT effectively as a tool for information dissemination;
 - Develop strategies to assist users to assessing information and communications technology for the Ministry;
-
-- Coordinate plans and training for the use of ICT as a teaching and learning tool;
-
 - Develop and present to Management policies for the use and procurement of ICT equipment
-
+- Coordinate plans and training for the use of ICT as a teaching and learning tool;
 - Develop an ICT Strategic Plan for the development of knowledge and understanding of ICT for the Ministry and school;
-
-- Work collaboratively with the School Operations Division and CMAD in the management of ICT;
-
 - Set up ht Central Office as the hub for information management and dissemination through ICT;
+- Work collaboratively with the School Operations Division and CMAD in the management of ICT;
 
 31
 
@@ -1846,17 +1480,11 @@ PNP - Proposed New Position
 [[START OF PAGE 34]]
 
 - Oversee the security of ICT equipment at all times and especially in times of emergencies;
-
-- Prioritise and reallocate ICT equipment and machines according to needs;
-
 - Manage the security of information through technology;
-
+- Prioritise and reallocate ICT equipment and machines according to needs;
 - Provide relevant documentation to support the procurement of new machines;
-
-- Conduct training and record level of trainings offered;
-
 - Identify staff and teacher needs;
-
+- Conduct training and record level of trainings offered;
 - Monitor and review ICT activities
 
 32
@@ -1873,19 +1501,19 @@ Sector Coordination
 
 (PNP)
 
+Executive Assistant
+
+(PNP)
+
 Financial Advisor
 
 (PNP)
 
-Contract Management
-
-& Procurement
+Contract Management & Procurement
 
 (PNP)
 
-Monitoring &
-
-Evaluation Advisor
+Monitoring & Evaluation Advisor
 
 (PNP)
 
@@ -1893,40 +1521,23 @@ Policy & Advocacy
 
 (PNP)
 
-Executive Assistant
-
-(PNP)
-
-PNP - Proposed New Position
+PNP – Proposed New Position
 
 #### FUNCTIONS
 
 - Strategic Planning
-
-- o lead strategic planning for the sector,
-
-- o developing and monitoring outcome performance measures,
-
-- o negotiating agreed national priorities and outcomes,
-
-- o monitoring performance assessment frameworks against which development partners will assess releases of budget support
-
+  - lead strategic planning for the sector,
+  - negotiating agreed national priorities and outcomes,
+  - developing and monitoring outcome performance measures,
+  - monitoring performance assessment frameworks against which development partners will assess releases of budget support
 - Strategic financial management
-
-- o lead preparation and management of education sector medium term expenditure frameworks,
-
+  - lead preparation and management of education sector medium term expenditure frameworks,
+  - securing GOS and development partner funds through contestable budget processes
 - Management of procurement, including consultancies, minor works and for goods and services.
-
-- o securing GOS and development partner funds through contestable budget processes
-
 - Coordinate the activities of sector education institutions and other stakeholders in implementing the vision of the education sector
-
-- Ensure compliance with financial, contractual and administrative procedures of the GoS and other financing organisations
-
 - Facilitate the processes and systems for the budget support framework
-
+- Ensure compliance with financial, contractual and administrative procedures of the GoS and other financing organisations
 - Manage, coordinate and provide the linking mechanisms between participating ministerial entities and sector partners involved in the Education Sector and to improve and harmonize the effectiveness of donor aid and education systems performance
-
 - Implement the Education Sector budget support modality
 
 33
