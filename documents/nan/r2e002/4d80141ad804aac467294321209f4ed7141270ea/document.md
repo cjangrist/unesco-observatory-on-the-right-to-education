@@ -1,6 +1,8 @@
 [[START OF PAGE 1]]
 
-République de Guinée ---oOo--Travail - Justice - Solidarité
+République de Guinée
+---oOo---
+Travail - Justice - Solidarité
 
 Ministère de l'Education Nationale et de la Recherche Scientifique
 
@@ -198,17 +200,36 @@ Technologie de l'Information et de la Communication
 
 ## TABLE DES MATIÈRES
 
+PRÉFACE .......................................................................................................................... 3
+INTRODUCTION.............................................................................................................. 5
+CHAPITRE 1 : LETTRE DE POLITIQUE SECTORIELLE.................................................... 7
+1.1 Contexte........................................................................................................................ 7
+1.2 Principales priorités...................................................................................................... 8
+1.3 Politiques de développement........................................................................................ 9
+1.3.1 Accès ..................................................................................................................... 9
+1.3.2 Qualité ................................................................................................................. 10
+1.3.3 Gestion................................................................................................................. 12
+1.4 Mesures de mise en œuvre ......................................................................................... 13
+1.5 Indicateurs .................................................................................................................. 13
+CHAPITRE 2 : MODÈLE DE SIMULATION ET NOTE DE CADRAGE ........................... 14
+2.1 Evaluation des dépenses associées aux scenarios de développement du système ..... 16
+2.2 Consolidation d’ensemble et une estimation des financements éventuels de l’IMOA 29
+CHAPITRE 3 : CADRE DES DÉPENSES À MOYEN TERME (CDMT) ............................ 34
+COMPOSANTE ACCES................................................................................................. 36
+COMPOSANTE QUALITE............................................................................................. 42
+COMPOSANTE GESTION............................................................................................. 45
+CHAPITRE 4 : MÉCANISMES, PROCÉDURES ET OUTILS DE MISE EN ŒUVRE ...... 47
+4.1. Cadre Partenarial ....................................................................................................... 47
+4.2. Fonds Commun ......................................................................................................... 47
+4.3. Pilotage du secteur et du Programme ........................................................................ 48
+4.4. Manuel d’Exécution du PSE ..................................................................................... 51
+4.5. Revues et Evaluations ............................................................................................... 51
+CONCLUSIONS - PERSPECTIVES .............................................................................. 52
 Annexes :
-
-- Cibles du PSE pour 2015
-
-- Cadre logique du PSE
-
-- Domaines d'intervention des PTF au cours de l'EPT 1 (2002-2007)
-
-- Cadre partenarial
-
-29
+1. Cibles du PSE pour 2015
+2. Cadre logique du PSE
+3. Domaines d’intervention des PTF au cours de l’EPT 1 (2002-2007)
+4. Cadre partenarial
 
 2
 
@@ -228,7 +249,7 @@ La  mise  en  œuvre  du  PSE  sera  au  cœur  des  préoccupations  des  acteu
 
 Le Gouvernement de la République de Guinée et les acteurs de l'éducation entendent mieux s'approprier des orientations et des démarches du Programme Sectoriel de l'Éducation et d'en assurer  une  mise  en  œuvre  efficace,  car  c'est  la  seule  voie  d'opérer  le  plein  changement souhaité par les populations.
 
-Dans  sa  volonté  de  poursuivre  et  d'intensifier  sa  coopération  avec  ses  partenaires  et conformément  à  la  Déclaration  de  Paris  sur  l'efficacité  de  l'aide  au  développement,  le Gouvernement a mis en place un Cadre de Partenariat.  Il soutient également l'initiative du Fonds  Commun.    Ces  deux  nouveaux  instruments  constituent  la  base  d'une  meilleure coordination et harmonisation des interventions dans le PSE.
+Dans sa volonté de poursuivre et d'intensifier sa coopération avec ses partenaires et conformément à la Déclaration de Paris sur l'efficacité de l'aide au développement, le Gouvernement a mis en place un Cadre de Partenariat. Il soutient également l'initiative du
 
 3
 
@@ -236,7 +257,9 @@ Dans  sa  volonté  de  poursuivre  et  d'intensifier  sa  coopération  avec  s
 
 [[START OF PAGE 5]]
 
-Enfin, la Guinée étant élue depuis 2002 à l'initiative de mise en œuvre accélérée de l'EPT, son  Gouvernement  souhaite  que  le  Programme  Sectoriel  de  l'Education  soit  endossé  pour accéder au Fonds Catalytique de l'IMOA-EPT.
+Fonds Commun. Ces deux nouveaux instruments constituent la base d'une meilleure coordination et harmonisation des interventions dans le PSE.
+
+Enfin, la Guinée étant élue depuis 2002 à l'initiative de mise en œuvre accélérée de l'EPT, son Gouvernement souhaite que le Programme Sectoriel de l'Education soit endossé pour accéder au Fonds Catalytique de l'IMOA-EPT.
 
 Le Ministre de l'Education Nationale et de la Recherche Scientifique Elhadj Ousmane SOUARÉ
 
@@ -248,15 +271,15 @@ Le Ministre de l'Education Nationale et de la Recherche Scientifique Elhadj Ousm
 
 ## INTRODUCTION
 
-- Le  présent  document  est  une  description  du  Programme  Sectoriel  de  l'Education (PSE) de la République de Guinée pour la période 2008-2015.  Il donne une vue d'ensemble de  l'état  du  système  éducatif,  des  objectifs,  des  besoins  de  financement,  ainsi  que  des dispositifs de mise en œuvre du PSE.
+1. Le présent document est une description du Programme Sectoriel de l'Education (PSE) de la République de Guinée pour la période 2008-2015. Il donne une vue d'ensemble de l'état du système éducatif, des objectifs, des besoins de financement, ainsi que des dispositifs de mise en œuvre du PSE.
 
-- Pour  son  élaboration,  l'on  s'est  appuyé  d'une  part  sur  les  différents  documents constitutifs du PSE (Lettre de politique sectorielle, Note de cadrage et d'arbitrage financier du secteur  de  l'éducation,  Cadre  logique  du  PSE (cf. Annexe 1),  Cadre de Dépenses à Moyen Terme  2008-2010,  Plans  d'actions  des  composantes  (Accès  -  Qualité  -  Gestion),  Manuel d'exécution du PSE, Cadre partenarial du PSE et Lettre d'entente avec les PTF pour le Fonds Commun), et d'autre part, sur des documents pertinents tels que : (i) le RESEN 2004 ; (ii) le DSRP  2 ;  (iii)  les  politiques  spécifiques  (de  l'enseignement  secondaire,  de  la  formation initiale et continue des enseignants de l'élémentaire et du secondaire, de l'éducation des filles, de lutte contre le VIH/SIDA dans le secteur de l'Education, d'alphabétisation des adultes et d'éducation non formelle et enfin d'éducation à la citoyenneté) et ; (iv) le Rapport sectoriel 2006 de la revue du Programme EPT.
+2. Pour son élaboration, l'on s'est appuyé d'une part sur les différents documents constitutifs du PSE (Lettre de politique sectorielle, Note de cadrage et d'arbitrage financier du secteur de l'éducation, Cadre logique du PSE (cf. Annexe 1), Cadre de Dépenses à Moyen Terme 2008-2010, Plans d'actions des composantes (Accès - Qualité - Gestion), Manuel d'exécution du PSE, Cadre partenarial du PSE et Lettre d'entente avec les PTF pour le Fonds Commun), et d'autre part, sur des documents pertinents tels que : (i) le RESEN 2004 ; (ii) le DSRP 2 ; (iii) les politiques spécifiques (de l'enseignement secondaire, de la formation initiale et continue des enseignants de l'élémentaire et du secondaire, de l'éducation des filles, de lutte contre le VIH/SIDA dans le secteur de l'Education, d'alphabétisation des adultes et d'éducation non formelle et enfin d'éducation à la citoyenneté) et ; (iv) le Rapport sectoriel 2006 de la revue du Programme EPT.
 
-- Depuis plus d'une quinzaine d'années, le Gouvernement guinéen a adopté et mis en œuvre plusieurs Plans et Programmes de développement du secteur de l'Education.  Il s'agit notamment  des  Programmes  sectoriels  (soutenus  par  la  Banque  mondiale)  comme  les Programmes  d'Ajustement  Sectoriels  de  l'Education  de  1990/2000  (les  PASE  1  et  2,  le PADES, le FIMG et le Programme Education Pour Tous phase 1 (PEPT 1) 2002/2008).  A ces programmes sectoriels, se sont ajoutés de nombreux projets (localisés ou relatifs à quelques aspects  du  secteur)  soutenus  par  des  partenaires  tels  que  l'USAID,  l'Union  européenne,  la BAD,  la  BID,  la  KfW/GTZ,  la  JICA,  l'AfD,  l'UNESCO,  l'UNICEF,  le  PAM,  le  FSD,  le FKD,  Aide  et  Action  et  Plan  Guinée 1 .    En  outre,  vu  les  efforts  du  Gouvernement  pour développer l'éducation, la Guinée a pu obtenir une éligibilité en fin 2002 à l'initiative pour la mise en œuvre accélérée de l'éducation pour tous (IMOA-EPT).
+3. Depuis plus d'une quinzaine d'années, le Gouvernement guinéen a adopté et mis en œuvre plusieurs Plans et Programmes de développement du secteur de l'Education. Il s'agit notamment des Programmes sectoriels (soutenus par la Banque mondiale) comme les Programmes d'Ajustement Sectoriels de l'Education de 1990/2000 (les PASE 1 et 2, le PADES, le FIMG et le Programme Education Pour Tous phase 1 (PEPT 1) 2002/2008). A ces programmes sectoriels, se sont ajoutés de nombreux projets (localisés ou relatifs à quelques aspects du secteur) soutenus par des partenaires tels que l'USAID, l'Union européenne, la BAD, la BID, la KfW/GTZ, la JICA, l'AfD, l'UNESCO, l'UNICEF, le PAM, le FSD, le FKD, Aide et Action et Plan Guinée¹. En outre, vu les efforts du Gouvernement pour développer l'éducation, la Guinée a pu obtenir une éligibilité en fin 2002 à l'initiative pour la mise en œuvre accélérée de l'éducation pour tous (IMOA-EPT).
 
-- Le rapport d'état sur le système éducatif national (RESEN 2004) a établi que durant les quinze dernières années, le système guinéen de l'éducation et de la formation a enregistré bien des résultats positifs, mais il demeure néanmoins confronté à maints dysfonctionnements qui contribuent à réduire son efficacité et son efficience.
+4. Le rapport d'état sur le système éducatif national (RESEN 2004) a établi que durant les quinze dernières années, le système guinéen de l'éducation et de la formation a enregistré bien des résultats positifs, mais il demeure néanmoins confronté à maints dysfonctionnements qui contribuent à réduire son efficacité et son efficience.
 
-- En substance, l'on retient que ce rapport met l'accent sur la nécessité d'améliorer la rétention des élèves et de corriger les disparités au primaire en vue d'atteindre la scolarisation primaire universelle de qualité.  Une autre leçon importante du RESEN est que l'amélioration de la qualité de l'enseignement passera certes par une augmentation des moyens et du temps d'apprentissage,  mais  elle  le  sera  sans  doute  plus  par  un  meilleur  arbitrage  de  l'allocation budgétaire  en  faveur  du  primaire  et  une  amélioration  de  la  gestion  pédagogique  et  de  la capacité du système à mieux transformer au niveau local les ressources existantes en résultats scolaires effectifs.  Aussi, le niveau faible de rémunération des enseignants (les contractuels surtout)  empêcherait  la  constitution  progressive  d'un  corps  d'enseignants  suffisamment motivé  pour  assurer  la  qualité  des  services  et  pérenne  pour  construire  une  compétence professionnelle durable.
+5. En substance, l'on retient que ce rapport met l'accent sur la nécessité d'améliorer la rétention des élèves et de corriger les disparités au primaire en vue d'atteindre la scolarisation primaire universelle de qualité. Une autre leçon importante du RESEN est que l'amélioration de la qualité de l'enseignement passera certes par une augmentation des moyens et du temps d'apprentissage, mais elle le sera sans doute plus par un meilleur arbitrage de l'allocation budgétaire en faveur du primaire et une amélioration de la gestion pédagogique et de la capacité du système à mieux transformer au niveau local les ressources existantes en résultats scolaires effectifs. Aussi, le niveau faible de rémunération des enseignants (les contractuels surtout) empêcherait la constitution progressive d'un corps d'enseignants suffisamment motivé pour assurer la qualité des services et pérenne pour construire une compétence professionnelle durable.
 
 > 1 Un tableau en annexe présente les domaines d'interventions des PTF
 
@@ -266,17 +289,17 @@ Le Ministre de l'Education Nationale et de la Recherche Scientifique Elhadj Ousm
 
 [[START OF PAGE 7]]
 
-- Tout en maintenant la primauté de l'achèvement universel du cycle primaire de qualité raisonnable,  le  développement  harmonieux  du  système  éducatif  requiert  une  politique pertinente du post primaire en vue d'avoir une stratégie sectorielle équilibrée qui tient compte des besoins de développement économique et social du pays.  C'est dans cette optique que la lettre  de  politique  sectorielle  de  l'éducation  (LPSE)  a  été  révisée  en  prélude  à  l'élaboration d'un nouveau programme sectoriel.
+6. Tout en maintenant la primauté de l'achèvement universel du cycle primaire de qualité raisonnable, le développement harmonieux du système éducatif requiert une politique pertinente du post primaire en vue d'avoir une stratégie sectorielle équilibrée qui tient compte des besoins de développement économique et social du pays. C'est dans cette optique que la lettre de politique sectorielle de l'éducation (LPSE) a été révisée en prélude à l'élaboration d'un nouveau programme sectoriel.
 
-- Cette  mise  à  jour  intervient  dans  un  cadre  macroéconomique  caractérisé  par  un environnement économique international et national défavorable.  En effet, depuis 2002, le pays n'ayant pas de programme formel avec les partenaires au développement dont le Fonds monétaire international, la Banque mondiale, l'Union Européenne, etc., ne bénéficie pas de concours extérieurs importants.  Le tissu industriel étant très peu développé avec le manque d'eau,  d'énergie  et  de  télécommunications,  la  Guinée  importe  l'essentiel  des  facteurs  de production et même les denrées de première nécessité.
+7. Cette mise à jour intervient dans un cadre macroéconomique caractérisé par un environnement économique international et national défavorable. En effet, depuis 2002, le pays n'ayant pas de programme formel avec les partenaires au développement dont le Fonds monétaire international, la Banque mondiale, l'Union Européenne, etc., ne bénéficie pas de concours extérieurs importants. Le tissu industriel étant très peu développé avec le manque d'eau, d'énergie et de télécommunications, la Guinée importe l'essentiel des facteurs de production et même les denrées de première nécessité.
 
-- C'est dans ce contexte difficile que le Gouvernement poursuit la mise en œuvre de la stratégie  de  réduction  de  la  pauvreté,  en  vue  de  rétablir  les  grands  équilibres  pour  la stabilisation macroéconomique.  Sur le plan politique et social, la Guinée est entrée dans un processus  de  changement  vers  une  meilleure  gouvernance,  conséquence  des  revendications sociales de janvier-février 2007 pour une amélioration des conditions de vie des populations.
+8. C'est dans ce contexte difficile que le Gouvernement poursuit la mise en œuvre de la stratégie de réduction de la pauvreté, en vue de rétablir les grands équilibres pour la stabilisation macroéconomique. Sur le plan politique et social, la Guinée est entrée dans un processus de changement vers une meilleure gouvernance, conséquence des revendications sociales de janvier-février 2007 pour une amélioration des conditions de vie des populations.
 
-- A cet égard, l'éducation est appelée à jouer un rôle de premier plan dans la production et la valorisation du capital humain.  Le Programme Sectoriel devrait permettre de renforcer les  capacités  du  secteur  pour  la  réalisation  des  objectifs  majeurs  fixés  par  le  deuxième Document de Stratégie de Réduction de la Pauvreté de juillet 2007 (DSRP2).
+9. A cet égard, l'éducation est appelée à jouer un rôle de premier plan dans la production et la valorisation du capital humain. Le Programme Sectoriel devrait permettre de renforcer les capacités du secteur pour la réalisation des objectifs majeurs fixés par le deuxième Document de Stratégie de Réduction de la Pauvreté de juillet 2007 (DSRP2).
 
-- Le programme sectoriel de l'éducation (PSE) 2008-2015, qui découle de la lettre de politique, se fixe des objectifs cohérents avec ceux de l'IMOA en même temps qu'il décline des stratégies d'intervention adéquates et détermine les ressources nécessaires et leur mode de gestion pour la  mise en œuvre de  mesures et d'actions permettant d'accélérer l'atteinte des résultats escomptés.
+10. Le programme sectoriel de l'éducation (PSE) 2008-2015, qui découle de la lettre de politique, se fixe des objectifs cohérents avec ceux de l'IMOA en même temps qu'il décline des stratégies d'intervention adéquates et détermine les ressources nécessaires et leur mode de gestion pour la mise en œuvre de mesures et d'actions permettant d'accélérer l'atteinte des résultats escomptés.
 
-- Ce  programme  ambitieux  mais  légitime  requiert la mobilisation de ressources importantes  que  les  conditions  actuelles  de  la  Guinée  ne  permettent  pas.    Ce  qui  amène  le Gouvernement à rechercher des financements complémentaires indispensables à la réalisation de  l'ensemble  des  activités  du  programme.    Le  ré-endossement  du  pays  à  l'initiative  de l'IMOA-EPT pourra ainsi combler les écarts de financement après les apports des partenaires financiers  extérieurs  et  les  ressources  nationales  disponibles.    Des  efforts  ont  été  consentis pour que la conception et la planification du PSE répondent aux critères de l'IMOA.
+11. Ce programme ambitieux mais légitime requiert la mobilisation de ressources importantes que les conditions actuelles de la Guinée ne permettent pas. Ce qui amène le Gouvernement à rechercher des financements complémentaires indispensables à la réalisation de l'ensemble des activités du programme. Le ré-endossement du pays à l'initiative de l'IMOA-EPT pourra ainsi combler les écarts de financement après les apports des partenaires financiers extérieurs et les ressources nationales disponibles. Des efforts ont été consentis pour que la conception et la planification du PSE répondent aux critères de l'IMOA.
 
 6
 
@@ -286,19 +309,19 @@ Le Ministre de l'Education Nationale et de la Recherche Scientifique Elhadj Ousm
 
 ## CHAPITRE 1 : LETTRE DE POLITIQUE SECTORIELLE
 
-- La Lettre de Politique Sectorielle de l'Education (LPSE) élaborée par le MENRS est l'aboutissement d'un processus de réflexion sur les problèmes et défis majeurs du secteur de l'éducation, dont les résultats ont été consignés dans les politiques spécifiques relatives aux différentes dimensions du système.  Ces politiques constituent l'ossature de la LPSE.  A ce niveau, il convient de mentionner entre autres : (i) la politique d'éducation et de scolarisation des filles ; (ii) la politique de formation initiale et continue des enseignements du primaire et du  secondaire ;  (iii)  les  politiques  de  développement  des  enseignements  secondaire  et technique ; et (iv) la politique de cogestion des écoles avec les collectivités locales.
+12. La Lettre de Politique Sectorielle de l'Education (LPSE) élaborée par le MENRS est l'aboutissement d'un processus de réflexion sur les problèmes et défis majeurs du secteur de l'éducation, dont les résultats ont été consignés dans les politiques spécifiques relatives aux différentes dimensions du système. Ces politiques constituent l'ossature de la LPSE. A ce niveau, il convient de mentionner entre autres : (i) la politique d'éducation et de scolarisation des filles ; (ii) la politique de formation initiale et continue des enseignements du primaire et du secondaire ; (iii) les politiques de développement des enseignements secondaire et technique ; et (iv) la politique de cogestion des écoles avec les collectivités locales.
 
-- La LSPE a fait l'objet d'échanges et de discussions non seulement au sein du système de l'éducation, mais aussi avec d'autres départements ministériels, institutions républicaines et la société civile.  Après un processus participatif et itératif, la LPSE a été finalisée et jugée satisfaisante lors de la revue conjointe Gouvernement-PTF tenue en juin 2007.  Elle consacre la  volonté  politique des  autorités  compétentes guinéennes d'accorder une priorité accrue au secteur  de  l'éducation  et  de  la  formation  d'une  part,  d'adopter  une  nouvelle  approche sectorielle pouvant contribuer à un développement soutenu du système, d'autre part.
+13. La LSPE a fait l'objet d'échanges et de discussions non seulement au sein du système de l'éducation, mais aussi avec d'autres départements ministériels, institutions républicaines et la société civile. Après un processus participatif et itératif, la LPSE a été finalisée et jugée satisfaisante lors de la revue conjointe Gouvernement-PTF tenue en juin 2007. Elle consacre la volonté politique des autorités compétentes guinéennes d'accorder une priorité accrue au secteur de l'éducation et de la formation d'une part, d'adopter une nouvelle approche sectorielle pouvant contribuer à un développement soutenu du système, d'autre part.
 
 ### 1.1 Contexte
 
-- La LPSE couvre la période du Programme Sectoriel de l'Education (2008-2015).  Elle s'inspire de la Déclaration de Politique Educative de Septembre 1989, de la Loi d'Orientation du Système Educatif (1998), des Recommandations des Conférences Mondiales de l'Education  (Jomtien  1990,  Dakar  2000,  Bamako  2000,  Paris  2005),  de  la  Déclaration  des Objectifs  du  Millénaire  pour  le  Développement,  des  politiques  thématiques  du  système éducatif guinéen et de la Loi d'Orientation de la recherche.  Elle tient compte également des leçons  tirées  de  la  première  phase  du  Programme  Education  Pour  Tous  (PEPT1)  et  des recommandations issues du Rapport d'Etat du Système Educatif National (RESEN, 2004).
+14. La LPSE couvre la période du Programme Sectoriel de l'Education (2008-2015). Elle s'inspire de la Déclaration de Politique Educative de Septembre 1989, de la Loi d'Orientation du Système Educatif (1998), des Recommandations des Conférences Mondiales de l'Education (Jomtien 1990, Dakar 2000, Bamako 2000, Paris 2005), de la Déclaration des Objectifs du Millénaire pour le Développement, des politiques thématiques du système éducatif guinéen et de la Loi d'Orientation de la recherche. Elle tient compte également des leçons tirées de la première phase du Programme Education Pour Tous (PEPT1) et des recommandations issues du Rapport d'Etat du Système Educatif National (RESEN, 2004).
 
-- Elle prend en considération les fortes aspirations au changement pour l'amélioration de la qualité de la vie exprimée durant la crise sociale de janvier-février 2007 par l'ensemble des populations guinéennes en général et la couche juvénile en particulier.  Dans la réalisation de  ces  aspirations  légitimes,  la  mise  en  œuvre  des  reformes  de  l'éducation  est  un  levier déterminant  pour  la  formation  de  citoyens  responsables  capables  de  s'insérer  positivement dans le processus de développement socio-économique.
+15. Elle prend en considération les fortes aspirations au changement pour l'amélioration de la qualité de la vie exprimée durant la crise sociale de janvier-février 2007 par l'ensemble des populations guinéennes en général et la couche juvénile en particulier. Dans la réalisation de ces aspirations légitimes, la mise en œuvre des reformes de l'éducation est un levier déterminant pour la formation de citoyens responsables capables de s'insérer positivement dans le processus de développement socio-économique.
 
-- Au cours de la mise en œuvre du PEPT 1, la Guinée a fait des progrès significatifs en matière  de  couverture  scolaire  à  tous  les  niveaux,  traduisant  une  poursuite  des  tendances d'évolution  depuis  le  PASE  1  (Programme  d'Ajustement  Sectoriel  de  l'Education,  19901994)  et  reflétant  en  partie  les  effets  bénéfiques  des  investissements  dans  le  secteur  de l'éducation par le Gouvernement,  l'assistance  bi et multilatérale, la participation des communautés locales et le développement de l'enseignement privé.
+16. Au cours de la mise en œuvre du PEPT 1, la Guinée a fait des progrès significatifs en matière de couverture scolaire à tous les niveaux, traduisant une poursuite des tendances d'évolution depuis le PASE 1 (Programme d'Ajustement Sectoriel de l'Education, 1990-1994) et reflétant en partie les effets bénéfiques des investissements dans le secteur de l'éducation par le Gouvernement, l'assistance bi et multilatérale, la participation des communautés locales et le développement de l'enseignement privé.
 
-- Les Taux Bruts de Scolarisation (TBS) ont connu une réelle augmentation en passant au primaire de 34 pour cent à 78 pour cent entre 1990 et 2006, au premier cycle du secondaire de 12 pour cent en 1990 à 43 pour cent en 2006, celui du second cycle du secondaire de 5 à 23 pour cent sur la même période.  Dans l'enseignement technique et professionnel, le nombre
+17. Les Taux Bruts de Scolarisation (TBS) ont connu une réelle augmentation en passant au primaire de 34 pour cent à 78 pour cent entre 1990 et 2006, au premier cycle du secondaire de 12 pour cent en 1990 à 43 pour cent en 2006, celui du second cycle du secondaire de 5 à 23 pour cent sur la même période. Dans l'enseignement technique et professionnel, le nombre
 
 7
 
@@ -364,21 +387,21 @@ d'élèves pour 100 000 habitants a augmenté, en moyenne, de 90 en 1990 à 180 
 
 [[START OF PAGE 11]]
 
-- L'accroissement des capacités d'accueil se fera à travers la réalisation d'un programme  de  construction/réhabilitation  d'infrastructures  et  d'équipements  en  capitalisant sur  les  approches  réussies.    Dans  cette  même  optique,  la  normalisation  des  écoles  à  cycle incomplet, l'amélioration de la pratique des classes multigrades et la réduction progressive de la  double vacation dans les zones de forte concentration démographique seront poursuivies. Des subventions publiques seront allouées à l'enseignement privé en fonction des critères et des modalités qui seront définis.
+28. L'accroissement des capacités d'accueil se fera à travers la réalisation d'un programme de construction/réhabilitation d'infrastructures et d'équipements en capitalisant sur les approches réussies. Dans cette même optique, la normalisation des écoles à cycle incomplet, l'amélioration de la pratique des classes multigrades et la réduction progressive de la double vacation dans les zones de forte concentration démographique seront poursuivies. Des subventions publiques seront allouées à l'enseignement privé en fonction des critères et des modalités qui seront définis.
 
-- Le  Gouvernement  mettra  en  place  des  mécanismes  de  régulation  des  flux  d'élèves entre  les  différents  niveaux  d'enseignement  pour  assurer  un  développement  cohérent  et équilibré du système.  Des dispositions seront ainsi envisagées pour une meilleure gestion des taux  de  transition  entre  les  différents  cycles,  du  primaire  au  supérieur.    Les  sortants  du primaire  et  du  secondaire  bénéficieront  de  formations  professionnelles  courtes  d'insertion (post primaire et post collège).  L'implantation de ces nouvelles filières de formation courte exige des investissements importants en termes d'information et de sensibilisation, d'assistance technique, de ressources humaines, d'infrastructures et d'équipements.
+29. Le Gouvernement mettra en place des mécanismes de régulation des flux d'élèves entre les différents niveaux d'enseignement pour assurer un développement cohérent et équilibré du système. Des dispositions seront ainsi envisagées pour une meilleure gestion des taux de transition entre les différents cycles, du primaire au supérieur. Les sortants du primaire et du secondaire bénéficieront de formations professionnelles courtes d'insertion (post primaire et post collège). L'implantation de ces nouvelles filières de formation courte exige des investissements importants en termes d'information et de sensibilisation, d'assistance technique, de ressources humaines, d'infrastructures et d'équipements.
 
-- A l'horizon 2015, un doublement des effectifs d'élèves sera enregistré au niveau de l'enseignement secondaire général et technique. Cette forte croissance nécessite l'amélioration  des  capacités  d'accueil  dans  les  zones  rurales  et  de  forte  concentration démographique.  Aussi, les effectifs d'apprenants et d'étudiants de l'enseignement technique classique  et  de  l'enseignement  supérieur  devront-ils  être  en  relation  avec  les  besoins  de l'emploi.    Des  approches  alternatives  (formation  à  distance,  promotion  de  l'enseignement supérieur privé, etc.) seront soutenues.
+30. A l'horizon 2015, un doublement des effectifs d'élèves sera enregistré au niveau de l'enseignement secondaire général et technique. Cette forte croissance nécessite l'amélioration des capacités d'accueil dans les zones rurales et de forte concentration démographique. Aussi, les effectifs d'apprenants et d'étudiants de l'enseignement technique classique et de l'enseignement supérieur devront-ils être en relation avec les besoins de l'emploi. Des approches alternatives (formation à distance, promotion de l'enseignement supérieur privé, etc.) seront soutenues.
 
-- Dans le cadre de la poursuite des actions d'alphabétisation, des subventions publiques seront  octroyées  aux  ONG  et  prestataires  privés  pour  appuyer  leurs  initiatives  dans  ce domaine.
+31. Dans le cadre de la poursuite des actions d'alphabétisation, des subventions publiques seront octroyées aux ONG et prestataires privés pour appuyer leurs initiatives dans ce domaine.
 
 #### 1.3.2 Qualité
 
-- L'amélioration de la qualité de l'éducation et de la recherche constitue un défi majeur à relever.  Les actions à mener doivent être mieux ciblées et orientées vers la qualification des apprentissages visant à former des élèves et étudiants aptes à s'insérer dans la vie active.  Les approches pertinentes des projets éducatifs du PEPT1 dans les domaines de développement de la petite enfance, de formation initiale et continue des enseignants, des apprentissages et de leur  suivi-évaluation,  des  réformes  curriculaires,  de  production/acquisition  de  manuels  et matériels  didactiques  seront  capitalisées  et  exploitées  en  un  système  cohérent  et  soutenable ayant un impact réel dans la salle de classe.
+32. L'amélioration de la qualité de l'éducation et de la recherche constitue un défi majeur à relever. Les actions à mener doivent être mieux ciblées et orientées vers la qualification des apprentissages visant à former des élèves et étudiants aptes à s'insérer dans la vie active. Les approches pertinentes des projets éducatifs du PEPT1 dans les domaines de développement de la petite enfance, de formation initiale et continue des enseignants, des apprentissages et de leur suivi-évaluation, des réformes curriculaires, de production/acquisition de manuels et matériels didactiques seront capitalisées et exploitées en un système cohérent et soutenable ayant un impact réel dans la salle de classe.
 
-- Le Gouvernement accordera une attention soutenue au développement de l'éducation préscolaire  à  l'échelon  national  avec  un  accent  particulier  sur  les  centres  d'encadrement communautaire, intégrant des aspects éducatifs, nutritionnels et sanitaires.
+33. Le Gouvernement accordera une attention soutenue au développement de l'éducation préscolaire à l'échelon national avec un accent particulier sur les centres d'encadrement communautaire, intégrant des aspects éducatifs, nutritionnels et sanitaires.
 
-- Sur la base de l'expérience actuelle, le Gouvernement veillera au respect des critères de sélection des candidats à la formation des enseignants du primaire.  La formation initiale des  enseignants  en  nombre suffisant  dans  les  Ecoles  Normales d'Instituteurs  sera  renforcée sur le plan de la qualité (respect du calendrier et des normes de formation, implantation des nouveaux  modules,  renforcement  de  l'encadrement  de  la  formation  pratique,  etc.),  en  vue d'améliorer les compétences professionnelles des futurs maîtres.
+34. Sur la base de l'expérience actuelle, le Gouvernement veillera au respect des critères de sélection des candidats à la formation des enseignants du primaire. La formation initiale des enseignants en nombre suffisant dans les Ecoles Normales d'Instituteurs sera renforcée sur le plan de la qualité (respect du calendrier et des normes de formation, implantation des nouveaux modules, renforcement de l'encadrement de la formation pratique, etc.), en vue d'améliorer les compétences professionnelles des futurs maîtres.
 
 10
 
@@ -386,23 +409,23 @@ d'élèves pour 100 000 habitants a augmenté, en moyenne, de 90 en 1990 à 180 
 
 [[START OF PAGE 12]]
 
-- La  formation  continue  sera  poursuivie  à  travers  la  généralisation  des  expériences réussies, notamment les projets d'école et d'établissement et l'encadrement de proximité des maîtres.
+35. La formation continue sera poursuivie à travers la généralisation des expériences réussies, notamment les projets d'école et d'établissement et l'encadrement de proximité des maîtres.
 
-36. Face  à  l'expansion  rapide  de  l'enseignement  secondaire,  la  mise  en  place  d'un dispositif  de  formation  initiale  intensive  et  continue  de  professeurs  polyvalents  pour  les collèges  et  lycées  permettra  de  répondre  aux  besoins  urgents  en  personnels  enseignants. Aussi, dans la perspective de la diversification des filières au secondaire, un accent particulier sera mis sur le développement des enseignements scientifiques et technologiques.
+36. Face à l'expansion rapide de l'enseignement secondaire, la mise en place d'un dispositif de formation initiale intensive et continue de professeurs polyvalents pour les collèges et lycées permettra de répondre aux besoins urgents en personnels enseignants. Aussi, dans la perspective de la diversification des filières au secondaire, un accent particulier sera mis sur le développement des enseignements scientifiques et technologiques.
 
-- L'implantation de nouvelles filières professionnelles du post primaire et post collège étant une innovation dans le système éducatif guinéen, un plan de recrutement et de formation de  personnels  enseignants  spécialisés  sera  mis  en  œuvre  pour  garantir  le  succès  de  cette initiative.
+37. L'implantation de nouvelles filières professionnelles du post primaire et post collège étant une innovation dans le système éducatif guinéen, un plan de recrutement et de formation de personnels enseignants spécialisés sera mis en œuvre pour garantir le succès de cette initiative.
 
-- La  réussite  de  la  réforme  de  l'enseignement  supérieur  dans  le  cadre  du  «LMD» (Licence  Maîtrise  Doctorat)  passera  également  par  le  recrutement  et  la  formation  de personnels enseignants et de recherche compétents en vue de relever le niveau de la qualité des enseignements.
+38. La réussite de la réforme de l'enseignement supérieur dans le cadre du «LMD» (Licence Maîtrise Doctorat) passera également par le recrutement et la formation de personnels enseignants et de recherche compétents en vue de relever le niveau de la qualité des enseignements.
 
-- Le renforcement des capacités de l'Institut Supérieur des Sciences de l'Education de Guinée pour la formation des enseignants et des personnels d'encadrement du secondaire et des ENI figurera parmi les actions prioritaires du Gouvernement.
+39. Le renforcement des capacités de l'Institut Supérieur des Sciences de l'Education de Guinée pour la formation des enseignants et des personnels d'encadrement du secondaire et des ENI figurera parmi les actions prioritaires du Gouvernement.
 
-- Tirant  les  leçons  des  évaluations  des  apprentissages  des  élèves  et  eu  égard  aux difficultés d'insertion socio-professionnelle des diplômés des établissements professionnels et de l'enseignement supérieur, le Gouvernement entend mettre en œuvre des mesures concrètes visant  à  faire  acquérir  des  compétences  requises  par  les  apprenants  de  chaque  palier  du système éducatif.  Ces mesures concernent, entre autres : (i) la mise en œuvre des programmes bâtis selon l'approche par compétences ; (ii) l'augmentation du temps d'apprentissage ; (iii) l'amélioration  du  niveau  de  compétences  des  élèves  en  lecture  et  en  calcul ;  (iv)  le renforcement du dispositif d'encadrement, de suivi et d'évaluation des apprentissages ; (v)  l'intégration  des  Technologies  de  l'Information  et  de  la  Communication  (TIC)  dans l'éducation ; et (vi) le développement du partenariat impliquant les secteurs privé, public et informel.
+40. Tirant les leçons des évaluations des apprentissages des élèves et eu égard aux difficultés d'insertion socio-professionnelle des diplômés des établissements professionnels et de l'enseignement supérieur, le Gouvernement entend mettre en œuvre des mesures concrètes visant à faire acquérir des compétences requises par les apprenants de chaque palier du système éducatif. Ces mesures concernent, entre autres : (i) la mise en œuvre des programmes bâtis selon l'approche par compétences ; (ii) l'augmentation du temps d'apprentissage ; (iii) l'amélioration du niveau de compétences des élèves en lecture et en calcul ; (iv) le renforcement du dispositif d'encadrement, de suivi et d'évaluation des apprentissages ; (v) l'intégration des Technologies de l'Information et de la Communication (TIC) dans l'éducation ; et (vi) le développement du partenariat impliquant les secteurs privé, public et informel.
 
-- Le français étant la langue d'enseignement, sa maîtrise par les élèves et étudiants fera l'objet d'activités visant le renforcement des aptitudes de communication en langue française.
+41. Le français étant la langue d'enseignement, sa maîtrise par les élèves et étudiants fera l'objet d'activités visant le renforcement des aptitudes de communication en langue française.
 
-- Le  Gouvernement  envisage  l'utilisation  des  langues  nationales  dans  le  processus d'amélioration des apprentissages dès les premières années de scolarité des élèves.
+42. Le Gouvernement envisage l'utilisation des langues nationales dans le processus d'amélioration des apprentissages dès les premières années de scolarité des élèves.
 
-- L'acquisition  des  équipements  et  des  intrants  pédagogiques  constituera  un  point d'application  important  pour  l'amélioration  des  conditions  d'enseignement  apprentissage  à travers : (i) la disponibilité des manuels scolaires et matériels didactiques ; (ii) l'aménagement des coins-lecture et des bibliothèques ; (iii) le développement de laboratoires ; (iv) la mise en place  d'un  système  de  maintenance  des  équipements  et  des  infrastructures  scolaires ;  (v) l'appui à l'insertion socioprofessionnelle des diplômés ; (vi) la création et le développement des centres d'accès Internet et leur équipement ; et (vii) le financement adéquat des activités de recherche et d'innovation.
+43. L'acquisition des équipements et des intrants pédagogiques constituera un point d'application important pour l'amélioration des conditions d'enseignement apprentissage à travers : (i) la disponibilité des manuels scolaires et matériels didactiques ; (ii) l'aménagement des coins-lecture et des bibliothèques ; (iii) le développement de laboratoires ; (iv) la mise en place d'un système de maintenance des équipements et des infrastructures scolaires ; (v) l'appui à l'insertion socioprofessionnelle des diplômés ; (vi) la création et le développement des centres d'accès Internet et leur équipement ; et (vii) le financement adéquat des activités de recherche et d'innovation.
 
 11
 
@@ -412,21 +435,21 @@ d'élèves pour 100 000 habitants a augmenté, en moyenne, de 90 en 1990 à 180 
 
 #### 1.3.3 Gestion
 
-- Tout en s'engageant à rehausser le financement public du secteur (à 22 pour cent, au moins  des  ressources  intérieures),  le  Gouvernement  mettra  en  place  une  série  de  mesures permettant  d'améliorer  l'efficacité,  l'équité  et  la  transparence  dans  la  gestion  des  dépenses publiques  afin  d'assurer  une  bonne  gouvernance  à  travers :  (i)  l'introduction  de  l'approche budget programme sur la base d'un cadre de dépenses à moyen terme; (ii) le renforcement des mécanismes  de  mise  à  disposition des ressources financières aux  niveaux  central et déconcentré de l'éducation; (iii)  l'appui  aux  projets  d'école  et  d'établissement  et  aux  plans préfectoraux et communaux  de  développement  de  l'éducation  sur  la  base  d'un  plan stratégique de développement du secteur ; et (iv) l'octroi de subventions pour la promotion des établissements d'enseignement privé.
+44. Tout en s'engageant à rehausser le financement public du secteur (à 22 pour cent, au moins des ressources intérieures), le Gouvernement mettra en place une série de mesures permettant d'améliorer l'efficacité, l'équité et la transparence dans la gestion des dépenses publiques afin d'assurer une bonne gouvernance à travers : (i) l'introduction de l'approche budget programme sur la base d'un cadre de dépenses à moyen terme; (ii) le renforcement des mécanismes de mise à disposition des ressources financières aux niveaux central et déconcentré de l'éducation; (iii) l'appui aux projets d'école et d'établissement et aux plans préfectoraux et communaux de développement de l'éducation sur la base d'un plan stratégique de développement du secteur ; et (iv) l'octroi de subventions pour la promotion des établissements d'enseignement privé.
 
-- Pour atteindre l'objectif d'une scolarisation primaire universelle de qualité, la part du budget  de  l'État  consacrée  à  l'enseignement  élémentaire  sera  relevée  à  50  pour  cent  des dépenses courantes de l'éducation, d'ici 2015.
+45. Pour atteindre l'objectif d'une scolarisation primaire universelle de qualité, la part du budget de l'État consacrée à l'enseignement élémentaire sera relevée à 50 pour cent des dépenses courantes de l'éducation, d'ici 2015.
 
-- Le  Gouvernement  poursuivra  également  la  qualification  de  la  gestion  du  système éducatif par le biais de la participation communautaire et du secteur privé, notamment par le renforcement de l'implication des Associations des Parents d'Elèves et Amis de l'Ecole dans la prise de décision, la mobilisation et la gestion des ressources destinées aux écoles.
+46. Le Gouvernement poursuivra également la qualification de la gestion du système éducatif par le biais de la participation communautaire et du secteur privé, notamment par le renforcement de l'implication des Associations des Parents d'Elèves et Amis de l'Ecole dans la prise de décision, la mobilisation et la gestion des ressources destinées aux écoles.
 
-- La restructuration des services centraux et déconcentrés de l'éducation s'inscrit parmi les activités prioritaires à conduire pour améliorer le rendement du système.
+47. La restructuration des services centraux et déconcentrés de l'éducation s'inscrit parmi les activités prioritaires à conduire pour améliorer le rendement du système.
 
-- La  décentralisation  a  été  proclamée  comme  politique  gouvernementale  visant  le renforcement de la bonne gouvernance à la base.  Cette démarche, dans le secteur éducatif, bénéficiera  du  soutien  nécessaire  à  la  concrétisation  du  transfert  de  ressources  et  de responsabilités aux collectivités locales dans la gestion de l'école.
+48. La décentralisation a été proclamée comme politique gouvernementale visant le renforcement de la bonne gouvernance à la base. Cette démarche, dans le secteur éducatif, bénéficiera du soutien nécessaire à la concrétisation du transfert de ressources et de responsabilités aux collectivités locales dans la gestion de l'école.
 
-- Aussi, les capacités de gestion des ressources humaines, matérielles et financières des structures  seront  renforcées  par  le  biais  de  formations  adaptées  et  l'utilisation  d'outils modernes de gestion.  Le Gouvernement poursuivra l'assainissement du fichier du personnel enseignant.    Il  adoptera  des  mesures  incitatives,  notamment :  (i)  l'application  du  statut particulier  des  enseignants  et  chercheurs ;  (ii)  l'introduction  de  primes  aux  enseignants  en zones  difficiles ;  ainsi  que  (iii)  la  construction  de  logements  d'enseignants.    Il  veillera également  au  recrutement  et  à  la  prise  en  charge  à  temps  des  nouveaux  maîtres  et  de  leur fonctionnarisation progressive.
+49. Aussi, les capacités de gestion des ressources humaines, matérielles et financières des structures seront renforcées par le biais de formations adaptées et l'utilisation d'outils modernes de gestion. Le Gouvernement poursuivra l'assainissement du fichier du personnel enseignant. Il adoptera des mesures incitatives, notamment : (i) l'application du statut particulier des enseignants et chercheurs ; (ii) l'introduction de primes aux enseignants en zones difficiles ; ainsi que (iii) la construction de logements d'enseignants. Il veillera également au recrutement et à la prise en charge à temps des nouveaux maîtres et de leur fonctionnarisation progressive.
 
-- Le dispositif de pilotage du système éducatif favorisera le développement d'initiatives par  les  acteurs  des  structures  d'exécution,  les  partenariats  et  les  espaces  de  concertation. L'existence de tableaux de bords à chaque niveau d'exécution (central, préfectoral et écoles) permettra  de  réaliser  un  suivi-évaluation  des  différentes  actions.    La  mise  en  place  d'une stratégie de communication du secteur incluant les TIC facilitera la circulation de l'information et la mise en synergie des actions des différents intervenants.
+50. Le dispositif de pilotage du système éducatif favorisera le développement d'initiatives par les acteurs des structures d'exécution, les partenariats et les espaces de concertation. L'existence de tableaux de bords à chaque niveau d'exécution (central, préfectoral et écoles) permettra de réaliser un suivi-évaluation des différentes actions. La mise en place d'une stratégie de communication du secteur incluant les TIC facilitera la circulation de l'information et la mise en synergie des actions des différents intervenants.
 
-- Pour  bâtir  une  vision  partagée  du  programme  sectoriel  et  favoriser  une  meilleure coordination  des  interventions,  le  Gouvernement,  en  collaboration  avec  l'ensemble  des partenaires  techniques,  financiers  et  sociaux,  mettra  en  place  un  cadre  de  coopération dynamique.
+51. Pour bâtir une vision partagée du programme sectoriel et favoriser une meilleure coordination des interventions, le Gouvernement, en collaboration avec l'ensemble des partenaires techniques, financiers et sociaux, mettra en place un cadre de coopération dynamique.
 
 12
 
@@ -436,15 +459,15 @@ d'élèves pour 100 000 habitants a augmenté, en moyenne, de 90 en 1990 à 180 
 
 ### 1.4 Mesures de mise en œuvre
 
-- L'exécution  du  PSE  sera  ancrée  au  sein  des  structures  pérennes  des  Ministères  en charge de l'Education et de la Petite Enfance.  Les directions techniques, les unités de projet, les services d'appui au niveau central, les services déconcentrés ainsi que les établissements d'enseignement  et  de  recherche  seront  responsabilisés  dans  l'exécution  des  activités  du programme.
+52. L'exécution du PSE sera ancrée au sein des structures pérennes des Ministères en charge de l'Education et de la Petite Enfance. Les directions techniques, les unités de projet, les services d'appui au niveau central, les services déconcentrés ainsi que les établissements d'enseignement et de recherche seront responsabilisés dans l'exécution des activités du programme.
 
-- Le renforcement des capacités des différentes structures impliquées sera envisagé dans les domaines ci-après : (i) la formation en management/leadership et en suivi-évaluation ; (ii) les  conditions  de  travail  (construction  et  équipement  du  siège  des  services  centraux  de l'éducation, construction-réhabilitation et équipement des bureaux des structures déconcentrées) ;  (iii)  les  moyens  logistiques;  et  (iv)  les  ressources  humaines,  matérielles  et financières nécessaires au fonctionnement.
+53. Le renforcement des capacités des différentes structures impliquées sera envisagé dans les domaines ci-après : (i) la formation en management/leadership et en suivi-évaluation ; (ii) les conditions de travail (construction et équipement du siège des services centraux de l'éducation, construction-réhabilitation et équipement des bureaux des structures déconcentrées) ; (iii) les moyens logistiques; et (iv) les ressources humaines, matérielles et financières nécessaires au fonctionnement.
 
 ### 1.5 Indicateurs
 
-- A la lumière des objectifs majeurs de la politique de développement de l'éducation, les indicateurs de performance par rapport à l'horizon 2015 sont définis ainsi qu'il suit :
+54. A la lumière des objectifs majeurs de la politique de développement de l'éducation, les indicateurs de performance par rapport à l'horizon 2015 sont définis ainsi qu'il suit :
 
-- Le taux d'accès en 1 ère année du primaire sera de 100 pour cent en 2015 (75 pour cent en 2005)
+- Le taux d'accès en 1ère année du primaire sera de 100 pour cent en 2015 (75 pour cent en 2005)
 
 - Le taux d'achèvement du cycle primaire sera de 88 pour cent en 2015 (55 pour cent en 2005)
 
@@ -452,13 +475,13 @@ d'élèves pour 100 000 habitants a augmenté, en moyenne, de 90 en 1990 à 180 
 
 - Le taux de transition du collège au lycée passera de 93 pour cent en 2005 à 38 pour cent en 2015
 
-- Les  dépenses  courantes  d'éducation  en  pourcentage  des  ressources  propres  de l'Etat atteindront 22 pour cent en 2015 (14,4 pour cent en 2005)
+- Les dépenses courantes d'éducation en pourcentage des ressources propres de l'Etat atteindront 22 pour cent en 2015 (14,4 pour cent en 2005)
 
 - La part du primaire dans le total des dépenses d'éducation atteindra 50 pour cent en 2015 (39,6 pour cent en 2005).
 
-- La  volonté  politique  exprimée  dans  la  LPSE  ainsi  que  les  principales  orientations dégagées par celle-ci, ont été nettement confirmées par le DSRP 2.  En effet, en tant que cadre de politique socioéconomique de la République de Guinée, le DSRP a retenu entre autres : (i) d'augmenter la part des dépenses de budget consacrée à l'éducation ; (ii) de donner la priorité à  la  scolarisation  universelle  au  primaire  dans  un  cadre  de  développement  équilibré  du secteur ; (iii) de corriger progressivement les disparités éducatives ; et (iv) de faire du capital humain un levier de développement.
+55. La volonté politique exprimée dans la LPSE ainsi que les principales orientations dégagées par celle-ci, ont été nettement confirmées par le DSRP 2. En effet, en tant que cadre de politique socioéconomique de la République de Guinée, le DSRP a retenu entre autres : (i) d'augmenter la part des dépenses de budget consacrée à l'éducation ; (ii) de donner la priorité à la scolarisation universelle au primaire dans un cadre de développement équilibré du secteur ; (iii) de corriger progressivement les disparités éducatives ; et (iv) de faire du capital humain un levier de développement.
 
-- Ainsi  donc,  la  LPSE  a  servi  de  base  de  travail  en  vue  d'élaborer  un  modèle  de simulation  et  de  Cadrage  financier  pour  le  développement  du  secteur  sur  la  période  20082015.
+56. Ainsi donc, la LPSE a servi de base de travail en vue d'élaborer un modèle de simulation et de Cadrage financier pour le développement du secteur sur la période 2008-2015.
 
 13
 
@@ -468,17 +491,17 @@ d'élèves pour 100 000 habitants a augmenté, en moyenne, de 90 en 1990 à 180 
 
 ## CHAPITRE 2 : MODÈLE DE SIMULATION ET NOTE DE CADRAGE
 
-- Le premier modèle de simulation pour l'éligibilité de la Guinée au FTI a été élaboré en 2003, avec l'appui du Pôle de Dakar.  Une équipe nationale multisectorielle a participé à la construction de ce modèle.  Elle a bénéficié de formations en vue de mieux l'outiller pour cet exercice.  Le processus a également permis de redynamiser la Cellule CDMT du système de l'éducation  et  d'engager  des  actions  visant  le  renforcement  de  ses  capacités.    C'est  en s'appuyant  sur  cette  expérience  que  le  présent  modèle  de  simulation  financière  a  été développé  par  l'équipe  nationale,  accompagnée  par  des  consultants.    A  cet  effet,  plusieurs ateliers de partage ont été organisés avec la participation : (i) des cadres du système éducatif aux niveaux central et déconcentré ; (ii) de la primature et des départements ministériels des finances, du plan, de la fonction publique ; (iii) de l'Assemblée nationale ; (iv) des partenaires sociaux ; et (v) des partenaires techniques et financiers.
+57. Le premier modèle de simulation pour l'éligibilité de la Guinée au FTI a été élaboré en 2003, avec l'appui du Pôle de Dakar. Une équipe nationale multisectorielle a participé à la construction de ce modèle. Elle a bénéficié de formations en vue de mieux l'outiller pour cet exercice. Le processus a également permis de redynamiser la Cellule CDMT du système de l'éducation et d'engager des actions visant le renforcement de ses capacités. C'est en s'appuyant sur cette expérience que le présent modèle de simulation financière a été développé par l'équipe nationale, accompagnée par des consultants. A cet effet, plusieurs ateliers de partage ont été organisés avec la participation : (i) des cadres du système éducatif aux niveaux central et déconcentré ; (ii) de la primature et des départements ministériels des finances, du plan, de la fonction publique ; (iii) de l'Assemblée nationale ; (iv) des partenaires sociaux ; et (v) des partenaires techniques et financiers.
 
-- La validation du modèle a eu lieu lors de la mission conjointe Gouvernement/PTF de supervision du PEPT en juin 2007.  Elle a été suivie de l'élaboration de la note de cadrage sur les arbitrages pour la politique éducative sectorielle à moyen terme.
+58. La validation du modèle a eu lieu lors de la mission conjointe Gouvernement/PTF de supervision du PEPT en juin 2007. Elle a été suivie de l'élaboration de la note de cadrage sur les arbitrages pour la politique éducative sectorielle à moyen terme.
 
-- Le modèle de simulation du PSE a été construit sur la base du RESEN 2004.  Il a fait l'objet d'une mise à jour récente par l'intégration de compléments afin de mieux prendre en compte les évolutions de ces dernières années, tant dans le fonctionnement du système que dans son contexte macroéconomique.
+59. Le modèle de simulation du PSE a été construit sur la base du RESEN 2004. Il a fait l'objet d'une mise à jour récente par l'intégration de compléments afin de mieux prendre en compte les évolutions de ces dernières années, tant dans le fonctionnement du système que dans son contexte macroéconomique.
 
-- Le  présent  cadrage  vise à illustrer  une  approche  systématique  qui  intègre  les implications  en  matière  de  coûts  et  de  financement  pour  évaluer  les  différentes  options. L'idée  est  de  réduire  l'éventail  des  choix  possibles  à  ceux  qui  rendraient  maximum  les résultats obtenus, compte tenu de la disponibilité des ressources (nationales ou provenant de l'aide extérieure).  C'est ainsi qu'il a été retenu une perspective de moyen terme en ciblant l'année 2015, par ailleurs, année de référence pour la communauté internationale.
+60. Le présent cadrage vise à illustrer une approche systématique qui intègre les implications en matière de coûts et de financement pour évaluer les différentes options. L'idée est de réduire l'éventail des choix possibles à ceux qui rendraient maximum les résultats obtenus, compte tenu de la disponibilité des ressources (nationales ou provenant de l'aide extérieure). C'est ainsi qu'il a été retenu une perspective de moyen terme en ciblant l'année 2015, par ailleurs, année de référence pour la communauté internationale.
 
-- En outre,  le  programme de  développement  sectoriel  entend  répondre  aux  problèmes les plus importants du secteur dans une perspective d'équilibre : (i) sur le plan quantitatif entre les  différents  niveaux  et  types  d'enseignement ;  et  (ii)  entre  les  dimensions  de  quantité (couverture)  et  de  qualité  des  services  offerts.    Si  l'objectif  principal  reste  l'achèvement universel du primaire avec des services de qualité améliorée, d'autres objectifs importants ne sont pas pour autant négligés.  Ainsi, une dimension importante est accordée à l'expansion de la  couverture  du  1 er cycle  secondaire  dans  la  perspective  de  progresser  vers  une  couverture large d'un système offrant à un grand nombre de jeunes, dix années de scolarité.  Les autres dimensions à considérer concernent : (i) la petite enfance et l'enseignement préscolaire ; (ii) les  programmes  de  formation  professionnelle  et  technique  visant  à  impartir  aux  jeunes  les compétences  appropriées  pour  leur  insertion  dans  la  société ;  et  (iii)  l'amélioration  de l'enseignement  supérieur  pour  répondre,  en  quantité et  en  qualité,  aux  demandes  de l'économie et aux besoins de la société.
+61. En outre, le programme de développement sectoriel entend répondre aux problèmes les plus importants du secteur dans une perspective d'équilibre : (i) sur le plan quantitatif entre les différents niveaux et types d'enseignement ; et (ii) entre les dimensions de quantité (couverture) et de qualité des services offerts. Si l'objectif principal reste l'achèvement universel du primaire avec des services de qualité améliorée, d'autres objectifs importants ne sont pas pour autant négligés. Ainsi, une dimension importante est accordée à l'expansion de la couverture du 1er cycle secondaire dans la perspective de progresser vers une couverture large d'un système offrant à un grand nombre de jeunes, dix années de scolarité. Les autres dimensions à considérer concernent : (i) la petite enfance et l'enseignement préscolaire ; (ii) les programmes de formation professionnelle et technique visant à impartir aux jeunes les compétences appropriées pour leur insertion dans la société ; et (iii) l'amélioration de l'enseignement supérieur pour répondre, en quantité et en qualité, aux demandes de l'économie et aux besoins de la société.
 
-- Le  tableau  1,  ci-après,  propose  une  hiérarchie  des  priorités  pour  le  développement global du secteur et pour introduire les arbitrages nécessaires.
+62. Le tableau 1, ci-après, propose une hiérarchie des priorités pour le développement global du secteur et pour introduire les arbitrages nécessaires.
 
 14
 
@@ -486,31 +509,31 @@ d'élèves pour 100 000 habitants a augmenté, en moyenne, de 90 en 1990 à 180 
 
 [[START OF PAGE 16]]
 
+Tableau 1 : Grands domaines de priorité pour le développement du secteur de l'éducation
+
 Sous secteur | Priorité dans la dimension de la quantité | Priorité dans la dimension de la qualité et de l'équité | Observations en matière de financement et de mise en œuvre
 --- | --- | --- | ---
-Finances publiques | Augmenter la priorité pour l'éducation (de 14 à plus de 20 % des dépenses courantes de l'Etat) | Accord sur mobilisation des ressources à moyen terme avec Plan et Finances
-Niveau préscolaire | Désirable pour préparer les enfants à réussir dans le primaire : augmenter autant que possible la couverture (30 % en 2015) . Urbain : développement raisonné en s'appuyant notamment sur le privé . Rural : Développer des services communautaires | Augmenter la couverture en fonction des ressources disponibles au bénéfice des enfants vulnérables | . Explorer les modalités de mise en œuvre et définir des critères de ciblage des populations pour le communautaire . Réduire le coût unitaire du préscolaire public urbain
-Enseignement primaire | Considéré comme un droit fondamental de l'enfant; l'achèvement universel d'ici 2015 est un objectif fort pour le système | . Réduire le % des personnels d'appui dans les établissements et les services . Recrutement d'enseignants contractuels rémunérés selon la nouvelle grille | . Instaurer prime pour zone difficile et définir les critères de détermination des zones difficiles et du niveau de la prime
-Premier cycle secondaire général | Couverture accrue autant qu'il est possible pour aller vers un premier cycle pour tous les jeunes et répondre l'augmentation du nombre des sortants du primaire | à * Améliorer l'efficacité du système . Recrutement d`enseignants contractuels selon la nouvelle grille . Améliorer la rétention en cours de cycle * Améliorer les conditions d'études . Réduire de façon significative la taille des classes, aujourd'hui de 89 élèves | Il sera probablement difficile d'atteindre la couverture universelle étant donnée l'échelle de l'augmentation que cela impliquerait
-Second cycle secondaire général | Maîtriser l'expansion en tenant compte du nombre de ceux qui auront accès au supérieur | Réduire de façon significative la taille des divisions pédagogiques
-Enseignement technique et Formation professionnelle | . Nombres formés fonction des demandes (en quantité/en qualité) de l'économie guinéenne . Développer la formation professionnelle d'insertion pour améliorer la productivité du travail dans le secteur informel et accompagner la régulation des flux, notamment après le brevet | Améliorer l'offre d'enseignement technique dans les secteurs primaire et secondaire et intégrer le privé à la stratégie de l'Etat, notamment dans les formations tertiaires | . Observatoire des entrées dans la vie active pour assurer le pilotage . Difficulté de développer une formation professionnelle d'insertion avec tous les partenaires économiques nationaux à une échelle large
-Enseignement supérieur | Nombres formés fonction des demandes (en quantité/ en qualité) de l'économie guinéenne | . Rénover les infrastructures et augmenter les dépenses par étudiant dans toutes les filières . Opportunité de l'enseignement à distance pour la qualité des études et comme formule autonome | . Observatoire des entrants dans la vie active pour assurer le pilotage . Ciblage des aides aux étudiants et contrôle des études à l'étranger
-
-Tableau 1 : Grands domaines de priorité pour le développement du secteur de l'éducation
+Finances publiques | Augmenter la priorité pour l'éducation (de 14 à plus de 20 % des dépenses courantes de l'Etat) |  | Accord sur mobilisation des ressources à moyen terme avec Plan et Finances
+Niveau préscolaire | Désirable pour préparer les enfants à réussir dans le primaire : augmenter autant que possible la couverture (30 % en 2015). Urbain : développement raisonné en s'appuyant notamment sur le privé. Rural : Développer des services communautaires | Augmenter la couverture en fonction des ressources disponibles au bénéfice des enfants vulnérables | Explorer les modalités de mise en œuvre et définir des critères de ciblage des populations pour le communautaire. Réduire le coût unitaire du préscolaire public urbain
+Enseignement primaire | Considéré comme un droit fondamental de l'enfant; l'achèvement universel d'ici 2015 est un objectif fort pour le système | Réduire le % des personnels d'appui dans les établissements et les services. Recrutement d'enseignants contractuels rémunérés selon la nouvelle grille | Instaurer prime pour zone difficile et définir les critères de détermination des zones difficiles et du niveau de la prime
+Premier cycle secondaire général | Couverture accrue autant qu'il est possible pour aller vers un premier cycle pour tous les jeunes et répondre à l'augmentation du nombre des sortants du primaire | Améliorer l'efficacité du système. Recrutement d'enseignants contractuels selon la nouvelle grille. Améliorer la rétention en cours de cycle. Améliorer les conditions d'études. Réduire de façon significative la taille des classes, aujourd'hui de 89 élèves | Il sera probablement difficile d'atteindre la couverture universelle étant donnée l'échelle de l'augmentation que cela impliquerait
+Second cycle secondaire général | Maîtriser l'expansion en tenant compte du nombre de ceux qui auront accès au supérieur | Réduire de façon significative la taille des divisions pédagogiques | 
+Enseignement technique et Formation professionnelle | Nombres formés fonction des demandes (en quantité/en qualité) de l'économie guinéenne. Développer la formation professionnelle d'insertion pour améliorer la productivité du travail dans le secteur informel et accompagner la régulation des flux, notamment après le brevet | Améliorer l'offre d'enseignement technique dans les secteurs primaire et secondaire et intégrer le privé à la stratégie de l'Etat, notamment dans les formations tertiaires | Observatoire des entrées dans la vie active pour assurer le pilotage. Difficulté de développer une formation professionnelle d'insertion avec tous les partenaires économiques nationaux à une échelle large
+Enseignement supérieur | Nombres formés fonction des demandes (en quantité/en qualité) de l'économie guinéenne | Rénover les infrastructures et augmenter les dépenses par étudiant dans toutes les filières. Opportunité de l'enseignement à distance pour la qualité des études et comme formule autonome | Observatoire des entrants dans la vie active pour assurer le pilotage. Ciblage des aides aux étudiants et contrôle des études à l'étranger
 
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
 
-- Notons  aussi  que,  si  dans  cette  simulation  les  aspects  de  soutenabilité  financière  à moyen  terme  sont  examinés,  des  limitations  en  termes  de  mise  en  œuvre  vont  aussi inévitablement  exercer  une  influence  sur  le  rythme  auquel  le  secteur  pourra  en  fait  se développer.    Dans  cette  simulation,  la  question  des  capacités  de  mise  en  œuvre  ne  sera abordée que de façon générale, étant donné qu'un plan de renforcement des capacités est en cours de préparation, et devra s'intégrer au CDMT.
+63. Notons aussi que, si dans cette simulation les aspects de soutenabilité financière à moyen terme sont examinés, des limitations en termes de mise en œuvre vont aussi inévitablement exercer une influence sur le rythme auquel le secteur pourra en fait se développer. Dans cette simulation, la question des capacités de mise en œuvre ne sera abordée que de façon générale, étant donné qu'un plan de renforcement des capacités est en cours de préparation, et devra s'intégrer au CDMT.
 
 ### 2.1 Evaluation des dépenses associées aux scenarios de développement du système
 
-- Le  modèle  de  simulation  utilisé  pour  évaluer  ce  que  pourraient  être  les  dépenses courantes et en capital a été adapté pour répondre aux spécificités du système éducatif guinéen et aux instruments de politique éducative éventuellement envisagés pour répondre aux défis de  la  période  à  venir.    Il  permet  d'illustrer  les  différents  arbitrages  auxquels  est  par  nature confronté le décideur politique en charge de conduire le développement du système éducatif et ainsi d'instruire les choix nécessaires.
+64. Le modèle de simulation utilisé pour évaluer ce que pourraient être les dépenses courantes et en capital a été adapté pour répondre aux spécificités du système éducatif guinéen et aux instruments de politique éducative éventuellement envisagés pour répondre aux défis de la période à venir. Il permet d'illustrer les différents arbitrages auxquels est par nature confronté le décideur politique en charge de conduire le développement du système éducatif et ainsi d'instruire les choix nécessaires.
 
-- Les  différents  scénarios  sont  organisés  de  façon  séquentielle  depuis  ce  qu'on  peut penser spontanément comme plus ou moins souhaitable pour le développement du système (sans tenir compte des contraintes en matière de ressources financières et de mise en œuvre), vers  ce  qui  est  possible,  compte  tenu  de  ces  contraintes,  sachant  que  celles-ci  manifestent toujours  quelques  degrés  de  liberté  dans  la  mesure  où  certaines  possibilités  de  variation peuvent généralement exister à la marge.
+65. Les différents scénarios sont organisés de façon séquentielle depuis ce qu'on peut penser spontanément comme plus ou moins souhaitable pour le développement du système (sans tenir compte des contraintes en matière de ressources financières et de mise en œuvre), vers ce qui est possible, compte tenu de ces contraintes, sachant que celles-ci manifestent toujours quelques degrés de liberté dans la mesure où certaines possibilités de variation peuvent généralement exister à la marge.
 
-- Le  tableau  ci-dessous  présente  un  résumé  des  différents  scénarios  effectués  en documentant, outre la mobilisation des ressources (y compris celles qui seraient potentiellement susceptibles de provenir de l'aide extérieure dans le contexte de l'IMOA), les principales caractéristiques de  chaque  cycle  d'études,  leur  couverture  quantitative, les principaux  éléments  définissant  les  conditions  d'enseignement,  ainsi  que  les  dépenses courantes et en capital correspondantes.
+66. Le tableau ci-dessous présente un résumé des différents scénarios effectués en documentant, outre la mobilisation des ressources (y compris celles qui seraient potentiellement susceptibles de provenir de l'aide extérieure dans le contexte de l'IMOA), les principales caractéristiques de chaque cycle d'études, leur couverture quantitative, les principaux éléments définissant les conditions d'enseignement, ainsi que les dépenses courantes et en capital correspondantes.
 
 16
 
@@ -519,9 +542,9 @@ Tableau 1 : Grands domaines de priorité pour le développement du secteur de l'
 [[START OF PAGE 18]]
 
 Tableau 2 : Dépenses courantes selon différents scénarios de développement du secteur, 2005-2015
+ | 2005 | 2015 |  |  | 
+ |  | Scénario 1 | Scénario 2 | Scénario 3 | Scénario 4
 --- | --- | --- | --- | --- | ---
-2015
-2005 | Scénario 1 | Scénario 2 | Scénario 3 | Scénario 4
 Mobilisation des ressources nationales
 Pression fiscale | 12,1 % | 16,0 % | 16,0 % | 16,0 % | 16,0 %
 Priorité pour l'éducation | 14,0 % | 20,0 % | 20,0 % | 22,0 % | 22,0 %
@@ -551,7 +574,7 @@ Autres dépenses courantes hors salaires enseignants (% du total) | 44,2 % | 34,
 Masse des autres dépenses courantes hors salaires | 33,7 | 130,5 | 116,2 | 116,2 | 109,4
 Dépenses courantes | 76,310 | 390,551 | 347,713 | 347,713 | 327,347
 Base 2, Collège
-Taux de transition 6ème-7 ème | 77,7 % | 78,0 % | 78,0 % | 60,0 % | 60,0 %
+Taux de transition 6ème-7ème | 77,7 % | 78,0 % | 78,0 % | 60,0 % | 60,0 %
 % de survie en cours de cycle | 62,0 % | 80,0 % | 80,0 % | 75,0 % | 75,0 %
 Proportion de redoublants (%) | 15,9 % | 10,0 % | 10,0 % | 10,0 % | 10,0 %
 Taux d'achèvement du cycle (%) | 24,2 % | 62,4 % | 62,4 % | 45,0 % | 39,6 %
@@ -577,7 +600,7 @@ Autres dépenses courantes hors salaires enseignants (% du total) | 44,0 % | 40,
 Masse des autres dépenses courantes hors salaires enseignants | 18,023 | 93,237 | 93,237 | 63,679 | 56,146
 Dépenses courantes | 40,962 | 234,682 | 234,682 | 160,284 | 141,323
 Secondaire Général, Lycée
-Taux de transition 3ème-2 nde | 92,9 % | 93,0 % | 93,0 % | 36,0% | 38,0 %
+Taux de transition 3ème-2nde | 92,9 % | 93,0 % | 93,0 % | 36,0% | 38,0 %
 % de survie en cours de cycle | 41,0 % | 80,0 % | 80,0 % | 80,0% | 80,0 %
 Taux d'achèvement du cycle (%) | 9,1 % | 46,4 % | 46,4 % | 13,0% | 12,0 %
 Nombre d'élèves | 104 669 | 419 586 | 419 586 | 117 130 | 108 801
@@ -632,16 +655,16 @@ Dépenses courantes | 53,712 | 80,148 | 80,148 | 80,148 | 80,148
 Enseignement non formel, alphabétisation
 Dépenses courantes | 4,266 | 16,560 | 16,560 | 16,560 | 16,560
 Total des dépenses courantes | 203,515 | 895,908 | 849,095 | 713,831 | 660,830
-Gap total sur dépenses courantes | 300,194 | 253,381 | 58,545 | 5,545
+Gap total sur dépenses courantes |  | 300,194 | 253,381 | 58,545 | 5,545
 Dépenses en capital moyennes annuelles (millions $US de 2005)
 Primaire
-Coût unitaire de construction | 12 000 | 11 000 | 11 000 | 11 000
-Nombre de salles à construire par an | 3 275 | 2 704 | 2 605 | 2 340
-Dépenses en Capital (y compris système et entretien) | 45,6 | 35,3 | 34,2 | 31,0
+Coût unitaire de construction |  | 12 000 | 11 000 | 11 000 | 11 000
+Nombre de salles à construire par an |  | 3 275 | 2 704 | 2 605 | 2 340
+Dépenses en Capital (y compris système et entretien) |  | 45,6 | 35,3 | 34,2 | 31,0
 Secondaire 1, Collège
-Coût unitaire de construction | 12 000 | 12 000 | 12 000 | 12 000
-Nombre de salles à construire par an | 1 244 | 1 244 | 747 | 621
-Dépenses en Capital (y compris système et entretien) | 16,2 | 16,2 | 10,0 | 8,4
+Coût unitaire de construction |  | 12 000 | 12 000 | 12 000 | 12 000
+Nombre de salles à construire par an |  | 1 244 | 1 244 | 747 | 621
+Dépenses en Capital (y compris système et entretien) |  | 16,2 | 16,2 | 10,0 | 8,4
 Secondaire 2, Lycée
 
 19
@@ -650,32 +673,32 @@ Secondaire 2, Lycée
 
 [[START OF PAGE 21]]
 
-Coût unitaire de construction | 12 000 | 12 000 | 12 000 | 12 000
---- | --- | --- | --- | ---
-Nombre de salles à construire par an | 561 | 561 | 117 | 92
-Dépenses en Capital (y compris système et entretien) | 7,2 | 7,2 | 1,7 | 1,4
+Coût unitaire de construction |  | 12 000 | 12 000 | 12 000 | 12 000
+--- | --- | --- | --- | --- | ---
+Nombre de salles à construire par an |  | 561 | 561 | 117 | 92
+Dépenses en Capital (y compris système et entretien) |  | 7,2 | 7,2 | 1,7 | 1,4
 Autres (formation des maîtres, technique, ..)
-Dépenses en Capital (y compris système et entretien) | 2,8 | 2,8 | 4,9 | 4,2
-Total des dépenses en capital | 71,7 | 61,5 | 50,8 | 44,9
-Gap total (millions $US de 2005) | 138,4 | 117,8 | 62,4 | 46,2
-Dépenses courantes | 66,7 | 56,3 | 11,6 | 1,2
-Dépenses en capital | 71,7 | 61,5 | 50,8 | 44,9
-Primaire | 73,7 | 53,1 | 43,5 | 36,5
-Dépenses courantes | 28,1 | 17,7 | 9,3 | 5,5
-Dépenses en capital | 45,6 | 35,3 | 34,2 | 31,0
-Hors primaire | 64,7 | 64,7 | 18,9 | 9,7
-Dépenses courantes | 38,6 | 38,6 | 2,3 | -4,2
-Dépenses en capital | 26,1 | 26,1 | 16,6 | 13,9
+Dépenses en Capital (y compris système et entretien) |  | 2,8 | 2,8 | 4,9 | 4,2
+Total des dépenses en capital |  | 71,7 | 61,5 | 50,8 | 44,9
+Gap total (millions $US de 2005) |  | 138,4 | 117,8 | 62,4 | 46,2
+Dépenses courantes |  | 66,7 | 56,3 | 11,6 | 1,2
+Dépenses en capital |  | 71,7 | 61,5 | 50,8 | 44,9
+Primaire |  | 73,7 | 53,1 | 43,5 | 36,5
+Dépenses courantes |  | 28,1 | 17,7 | 9,3 | 5,5
+Dépenses en capital |  | 45,6 | 35,3 | 34,2 | 31,0
+Hors primaire |  | 64,7 | 64,7 | 18,9 | 9,7
+Dépenses courantes |  | 38,6 | 38,6 | 2,3 | -4,2
+Dépenses en capital |  | 26,1 | 26,1 | 16,6 | 13,9
 
-- Les  différents  scenarios  du  tableau  ci-dessus  ont  été  analysés  pour  situer  leurs avantages  comparatifs  quant  à  leur  pertinence  par  rapport  à  l'atteinte  des  objectifs  de développement du secteur dans un cadre de soutenabilité financière.  Les résultats  de cette analyse sont décrits ainsi qu'il suit :
+67. Les différents scenarios du tableau ci-dessus ont été analysés pour situer leurs avantages comparatifs quant à leur pertinence par rapport à l'atteinte des objectifs de développement du secteur dans un cadre de soutenabilité financière. Les résultats de cette analyse sont décrits ainsi qu'il suit :
 
 #### Scénario 1
 
-- Dans  ce  scénario,  on  envisage  une  situation  à  priori  très  favorable  pour  le  système éducatif à l'horizon de l'année 2015 :
+68. Dans ce scénario, on envisage une situation à priori très favorable pour le système éducatif à l'horizon de l'année 2015 :
 
-- Au niveau préscolaire ,  le  scénario  1  envisage  une  augmentation  significative  de  la couverture qui passerait de 15,4 pour cent en 2005 à 35 pour cent en 2015 (le nombre d'élèves bénéficiant de ces services passant de 76 000 en 2005 à 186 000 en 2015).  En milieu urbain, le  secteur  privé  continuerait  d'exercer  le  rôle  principal  mais  une  expansion  des  services publics est envisagée au bénéfice des familles défavorisées dans ce contexte d'habitat; mais il est  aussi  envisagé  que  le  coût  unitaire  de  ces  services  diminue  car  la  valeur  enregistrée  en 2005 est très élevée par rapport à la moyenne observée dans les pays de la région.  En milieu rural,  où  peu  de  services  préscolaires  sont  couramment  organisés  (et  où  se  trouve  une proportion  importante  des  enfants  vulnérables),  un  développement  très  substantiel  de  la formule  communautaire  est  anticipé;  le  nombre  des  enfants  concernés  par  cette  formule passerait  ainsi  de  10 000  à  92 000  en  2015.    On  notera  que  des  travaux  complémentaires seront  nécessaires  pour  mieux  identifier  cette  stratégie,  tant  sur  le  plan  des  possibilités quantitatives  et  des  modes  de  fonctionnement  à  retenir  que  des  ciblages  de  population  à réaliser.  Le volume des dépenses courantes passerait de 166 millions de Francs Guinéens en 2005 à 9,6 milliards en 2015.
+69. Au niveau préscolaire, le scénario 1 envisage une augmentation significative de la couverture qui passerait de 15,4 pour cent en 2005 à 35 pour cent en 2015 (le nombre d'élèves bénéficiant de ces services passant de 76 000 en 2005 à 186 000 en 2015). En milieu urbain, le secteur privé continuerait d'exercer le rôle principal mais une expansion des services publics est envisagée au bénéfice des familles défavorisées dans ce contexte d'habitat; mais il est aussi envisagé que le coût unitaire de ces services diminue car la valeur enregistrée en 2005 est très élevée par rapport à la moyenne observée dans les pays de la région. En milieu rural, où peu de services préscolaires sont couramment organisés (et où se trouve une proportion importante des enfants vulnérables), un développement très substantiel de la formule communautaire est anticipé; le nombre des enfants concernés par cette formule passerait ainsi de 10 000 à 92 000 en 2015. On notera que des travaux complémentaires seront nécessaires pour mieux identifier cette stratégie, tant sur le plan des possibilités quantitatives et des modes de fonctionnement à retenir que des ciblages de population à réaliser. Le volume des dépenses courantes passerait de 166 millions de Francs Guinéens en 2005 à 9,6 milliards en 2015.
 
-- Dans  le primaire ,  les  perspectives  sont  celles  de  l'achèvement  universel  du  cycle (alors que ce n'est le cas que de 55 pour cent de la classe d'âge en 2005) avec à la fois des
+70. Dans le primaire, les perspectives sont celles de l'achèvement universel du cycle (alors que ce n'est le cas que de 55 pour cent de la classe d'âge en 2005) avec à la fois des
 
 20
 
@@ -687,7 +710,7 @@ améliorations de l'efficience et des améliorations de la qualité des services
 
 - Cette triple évolution impliquerait que le nombre des salles de classe dans public passe de 18 400 en 2005 à 51 200 en 2015 (un rythme moyen de 3 200 classes par an, un peu moins en début de période), et un flux de recrutement des enseignants dans  des  proportions  comparables.    Ces  deux  éléments  posent  bien  sur  des questions sur les dispositions concrètes à prendre pour assurer ces rythmes annuels de recrutements (formation initiale des maîtres) et de constructions de classes.  Des études devront être conduites pour assurer ces aspects logistiques du programme.
 
-- Un  autre  aspect  important  du  programme  est  celui  de  la  revalorisation  de  la rémunération et des carrières enseignantes qui passent d'une part par le recrutement de contractuels, plutôt que de permanents, mais d'autre part par une revalorisation substantielle des conditions de rémunération de ces personnels.  Le scénario anticipe ainsi que la rémunération de ces contractuels serait portée d'un niveau  correspondant  en  2005  à  1,2  fois  le  PIB  par  habitant  (un  niveau  très inapproprié), à un niveau correspondant à 2,9 fois le PIB par habitant du pays en 2015, manifestant des gains très notables de pouvoir d'achat sur la période.  Enfin, l'instauration d'une prime de zone difficile sera mise en application avec une préidentification  selon  laquelle  10  pour  cent  des  enseignants  seraient  ciblés  et recevraient  une  prime  correspondant  à  35  pour  cent  du  salaire  (paramètres  à confirmer  et  critères  de  ciblage  à  définir) 3 .    Cette  mesure  vise  à  proposer  des incitations adaptées pour la stabilisation pendant un temps suffisant d'enseignants dans les  zones  où  ils  rechignent  spontanément  à  aller  et  où  un  enseignement  de qualité doit bien être organisé.
+- Un autre aspect important du programme est celui de la revalorisation de la rémunération et des carrières enseignantes qui passent d'une part par le recrutement de contractuels, plutôt que de permanents, mais d'autre part par une revalorisation substantielle des conditions de rémunération de ces personnels. Le scénario anticipe ainsi que la rémunération de ces contractuels serait portée d'un niveau correspondant en 2005 à 1,2 fois le PIB par habitant (un niveau très inapproprié), à un niveau correspondant à 2,9 fois le PIB par habitant du pays en 2015, manifestant des gains très notables de pouvoir d'achat sur la période. Enfin, l'instauration d'une prime de zone difficile sera mise en application avec une pré-identification selon laquelle 10 pour cent des enseignants seraient ciblés et recevraient une prime correspondant à 35 pour cent du salaire (paramètres à confirmer et critères de ciblage à définir)3. Cette mesure vise à proposer des incitations adaptées pour la stabilisation pendant un temps suffisant d'enseignants dans les zones où ils rechignent spontanément à aller et où un enseignement de qualité doit bien être organisé.
 
 - Dans le même temps, le scénario anticipe des gains d'efficience dans la fonction de  production  scolaire,  d'une  part  en  réduisant  la  proportion  des  personnels employés dans des fonctions d'appui (le RESEN avait établi qu'ils sont en nombre sensiblement  plus  élevés  que  dans  les  pays  de  la  région)  et  d'autre  part,  en augmentant le volume des ressources par élève (plus qu'un doublement en valeurs monétaires  constantes  entre  2005  et  2015)  pour  le  financement  de  moyens  et
 
@@ -711,7 +734,7 @@ matériels pédagogiques complémentaires aux salaires, sachant que ces facteurs
 
 - Concernant maintenant les personnels enseignants, le même type de politique que dans  le  primaire  est  anticipé  ici  avec,  d'une  part  le  recrutement  exclusif  de contractuels  et  d'autre  part,  leur  rémunération  à  un  taux  convenable;  le  niveau correspond  à  une  «prime»  de  l'ordre  de  35  pour  cent  qui  rémunère  de  façon raisonnable  les  études  initiales  plus  longues  des  enseignants  du  collèges  par rapport  à  celles  de  leurs  homologues  du  primaire  (le  scénario  anticipe  que  les enseignants  du  collège  gagneraient  un  salaire  représentant  4  fois  le  PIB  par habitant du pays en 2015, alors que le chiffre correspondant est de 2,9 fois le PIB par habitant pour les enseignants du primaire).
 
-- La prise en compte du fort accroissement des effectifs scolarisés et de l'amélioration des conditions d'encadrement impliquent à la fois : (i) des besoins de construction de nouveaux établissements (il est estimé qu'il faudrait envisager un programme de construction d'environ 1 200 classes par an en moyenne sur la période, pour un montant estimé annuellement à 16 millions de dollars des EtatsUnis) ; et (ii) des besoins de recrutement et de formation à hauteur d'environ 2 200
+- La prise en compte du fort accroissement des effectifs scolarisés et de l'amélioration des conditions d'encadrement impliquent à la fois : (i) des besoins de construction de nouveaux établissements (il est estimé qu'il faudrait envisager un programme de construction d'environ 1 200 classes par an en moyenne sur la période, pour un montant estimé annuellement à 16 millions de dollars des Etats-Unis) ; et (ii) des besoins de recrutement et de formation à hauteur d'environ 2 200
 
 22
 
@@ -735,13 +758,13 @@ enseignants  par  an  en  moyenne  entre  2005  et  2015.    Les  mêmes  interr
 
 [[START OF PAGE 25]]
 
-- des relations fortes avec les  milieux professionnels selon des formules à définir; l'ensemble des métiers est concerné sur l'ensemble du territoire national.
+des relations fortes avec les milieux professionnels selon des formules à définir; l'ensemble des métiers est concerné sur l'ensemble du territoire national.
 
 - Sur le plan logistique, la formule envisagée pour la formation professionnelle est sans  doute  la  plus  délicate  à  mettre  en  œuvre  à  une  échelle  suffisante  (des concertations  et  évaluations  initiales  seront  nécessaire,  tout  comme  un  suivi  des premières actions engagées et des résultats qu'elles auront permis d'obtenir).  Sur le  plan  financier,  et  compte  tenu  de  la  forte  couverture  des  formations  générales dans ce scénario, le volume des dépenses courantes reste relativement modéré; il pourrait ainsi passer de 10 milliards de Francs Guinéens en 2005 à 15,7 milliards en  2015  pour  la  composante  d'enseignement  technique  classique,  et  de  rien  (en 2005)  à  9,8  milliards  de  Francs  Guinéens  en  2015  pour  la  nouvelle  formule  de formation professionnelle.
 
-- Dans l'enseignement  supérieur ,  ce  scénario  envisage  (compte  tenu  des  difficultés actuelles  d'emploi  des  diplômés  à  ce  niveau  d'études)  une  augmentation  raisonnable  du nombre des étudiants qui passerait de 29 000 en 2005 à 39 000 en 2015.  Cette augmentation anticipe  par  contre  une  évolution  significative  de  la  structure  des  formations  avec  un  poids accru pour l'enseignement à distance (6 000 étudiants dans cette formule en 2015) en tirant profit des technologies de l'information et pour l'enseignement privé (qui a eu tendance à se développer fortement au cours des années récentes et pour lequel on prévoit 8 000 étudiants en  2015).    Pour  l'enseignement  public  présentiel,  dont  il  est  anticipé  que  les  effectifs  se réduisent de 27 000 en 2005 à 25 000 en 2015, la restructuration passera par une réduction des filières  académiques généralistes peu porteuses d'emplois autres que ceux d'enseignants du secondaire et par un renforcement des filières pour lesquelles il y a une demande avérée sur le marché du travail.    Concernant  le  fonctionnement  des  institutions,  le  scénario  anticipe  une réduction du volume excessif des dépenses d'administration et une augmentation significative des  coûts  unitaires  pédagogiques  de  fonctionnement  (+  70  pour  cent  en  valeurs  monétaires constantes  entre  2005  et  2015).    Dans  le  même  temps,  un  fonds  sera  crée  pour  appuyer  le développement de la recherche; il devrait représenter 4 pour cent de la masse des dépenses pédagogiques  du  système  en  2015.    Il  est  attendu  que  l'ensemble  de  ces  mesures  de restructuration,  d'efficience  et  de  qualité  conduisent  à  une  augmentation  d'environ  50  pour cent des dépenses courantes en valeurs monétaires constantes entre 2005 et 2015 (le budget passant de 53 milliards de Francs Guinéens en 2005 à 80 milliards au cours de l'année 2015.
+74. Dans l'enseignement supérieur, ce scénario envisage (compte tenu des difficultés actuelles d'emploi des diplômés à ce niveau d'études) une augmentation raisonnable du nombre des étudiants qui passerait de 29 000 en 2005 à 39 000 en 2015. Cette augmentation anticipe par contre une évolution significative de la structure des formations avec un poids accru pour l'enseignement à distance (6 000 étudiants dans cette formule en 2015) en tirant profit des technologies de l'information et pour l'enseignement privé (qui a eu tendance à se développer fortement au cours des années récentes et pour lequel on prévoit 8 000 étudiants en 2015). Pour l'enseignement public présentiel, dont il est anticipé que les effectifs se réduisent de 27 000 en 2005 à 25 000 en 2015, la restructuration passera par une réduction des filières académiques généralistes peu porteuses d'emplois autres que ceux d'enseignants du secondaire et par un renforcement des filières pour lesquelles il y a une demande avérée sur le marché du travail. Concernant le fonctionnement des institutions, le scénario anticipe une réduction du volume excessif des dépenses d'administration et une augmentation significative des coûts unitaires pédagogiques de fonctionnement (+ 70 pour cent en valeurs monétaires constantes entre 2005 et 2015). Dans le même temps, un fonds sera crée pour appuyer le développement de la recherche; il devrait représenter 4 pour cent de la masse des dépenses pédagogiques du système en 2015. Il est attendu que l'ensemble de ces mesures de restructuration, d'efficience et de qualité conduisent à une augmentation d'environ 50 pour cent des dépenses courantes en valeurs monétaires constantes entre 2005 et 2015 (le budget passant de 53 milliards de Francs Guinéens en 2005 à 80 milliards au cours de l'année 2015.
 
-- La  formation  initiale  des  enseignants  du  primaire fera  aussi  l'objet  d'un  effort particulier.  Cet effort a d'abord une dimension quantitative avec des nombres de jeunes en formation normale qui devrait se situer, dans ce scénario 4 , autour de 3 500 par an au cours des prochaines années et de 5 000 dans les années suivantes. On mesure bien l'ampleur de la tâche qu'il  y  aurait  à  accomplir  et  le  besoin  de  déterminer  une  stratégie  pratique  pour  réaliser  ce type d'objectif. Mais cet effort a aussi une dimension qualitative et sociale, le niveau de la dépense  par  élève  (pédagogique  et  indemnité)  étant  le  plus  élevé  de  toutes  les  formations offertes dans le pays. Ces différentes dispositions devraient avoir comme conséquence que le volume  des  dépenses  courantes  passe  de  6,3  milliards  de  Francs  Guinéens  en  2005  à  17,4 milliards en 2015.
+75. La formation initiale des enseignants du primaire fera aussi l'objet d'un effort particulier. Cet effort a d'abord une dimension quantitative avec des nombres de jeunes en formation normale qui devrait se situer, dans ce scénario4, autour de 3 500 par an au cours des prochaines années et de 5 000 dans les années suivantes. On mesure bien l'ampleur de la tâche qu'il y aurait à accomplir et le besoin de déterminer une stratégie pratique pour réaliser ce type d'objectif. Mais cet effort a aussi une dimension qualitative et sociale, le niveau de la dépense par élève (pédagogique et indemnité) étant le plus élevé de toutes les formations offertes dans le pays. Ces différentes dispositions devraient avoir comme conséquence que le volume des dépenses courantes passe de 6,3 milliards de Francs Guinéens en 2005 à 17,4 milliards en 2015.
 
 76. Enfin, l'enseignement non-formel et l'alphabétisation des adultes constituent aussi une  pièce  importante  du  dispositif  sectoriel  global.    Il  est  anticipé  que  225 000  individus bénéficient  de  ce  type  de  services  sur  la  période,  une  moyenne  annuelle  de  22 500, manifestant  une  augmentation  significative  par  référence  aux  programmes  actuels  qui concernent environ 9 000 personnes par an.  Il est aussi envisagé que les dépenses unitaires soient  augmentées  pour  conforter  la  qualité  des  services  offerts.    Le  volume  des  dépenses courantes pourrait s'établir à 16,5 milliards de Francs Guinéens en 2015.
 
@@ -752,8 +775,9 @@ enseignants  par  an  en  moyenne  entre  2005  et  2015.    Les  mêmes  interr
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+bénéficient de ce type de services sur la période, une moyenne annuelle de 22 500, manifestant une augmentation significative par référence aux programmes actuels qui concernent environ 9 000 personnes par an. Il est aussi envisagé que les dépenses unitaires soient augmentées pour conforter la qualité des services offerts. Le volume des dépenses courantes pourrait s'établir à 16,5 milliards de Francs Guinéens en 2015.
 
-77. Quand  on  consolide  l'ensemble  des  dispositions  et  mesures  envisagées  dans  ce premier scénario pour l'ensemble du secteur de l'éducation et de la formation, on aboutit à un montant global sectoriel de l'ordre de 885,4 milliards de Francs Guinéens de 2005 au cours de l'année 2015 (contre 203,5 milliards constatés en 2005).  Le scénario 1 se fondant sur l'option 4  (tableau  2)  pour  la  mobilisation  des  ressources,  on  voit  clairement  que  les  dépenses courantes en 2015 dépassent nettement les ressources nationales anticipées à cette même date (595 milliards de Francs Guinéens).  Le gap de financement en 2015 sur les seules dépenses courantes s'élève en effet à 300 milliards de Francs guinéens (67 millions de dollars US); il conviendrait en outre d'ajouter à ce chiffre celui des dépenses en capital pour lesquelles les évaluations conservatives indiquent qu'elles s'élèveraient, en valeur moyenne annuelle sur la période  à  environ  325  milliards  de  Francs  Guinéens  (71  millions  de  dollars  US).    Des alternatives qui permettraient de progresser vers la soutenabilité financière doivent donc être recherchées.
+77. Quand on consolide l'ensemble des dispositions et mesures envisagées dans ce premier scénario pour l'ensemble du secteur de l'éducation et de la formation, on aboutit à un montant global sectoriel de l'ordre de 885,4 milliards de Francs Guinéens de 2005 au cours de l'année 2015 (contre 203,5 milliards constatés en 2005). Le scénario 1 se fondant sur l'option 4 (tableau 2) pour la mobilisation des ressources, on voit clairement que les dépenses courantes en 2015 dépassent nettement les ressources nationales anticipées à cette même date (595 milliards de Francs Guinéens). Le gap de financement en 2015 sur les seules dépenses courantes s'élève en effet à 300 milliards de Francs guinéens (67 millions de dollars US); il conviendrait en outre d'ajouter à ce chiffre celui des dépenses en capital pour lesquelles les évaluations conservatives indiquent qu'elles s'élèveraient, en valeur moyenne annuelle sur la période à environ 325 milliards de Francs Guinéens (71 millions de dollars US). Des alternatives qui permettraient de progresser vers la soutenabilité financière doivent donc être recherchées.
 
 #### Scénario 2
 
@@ -763,13 +787,15 @@ enseignants  par  an  en  moyenne  entre  2005  et  2015.    Les  mêmes  interr
 
 80. Cet aspect a été pris en compte uniquement dans l'enseignement supérieur, le scénario 1 laissant en fait les effectifs de l'enseignement secondaire général évoluer selon la logique de la continuité en maintenant les taux de transition très forts constatés dans la période présente. La politique éducative devra viser à corriger cet aspect du programme.  Le scénario 2, pour sa part  se  concentre  sur  des  ajustements  dans  le  cycle  primaire  en  progressant  vers  sa finalisation, laissant pour le troisième scénario les ajustements pour le post-primaire.
 
-81. Un jugement porté sur la proposition faite à son sujet dans le scénario 1 est, au-delà même de ses implications financières, les difficultés qu'elle présente dans la dimension de la mise en œuvre, tant pour ce qui est du nombre des enseignants à recruter et former que du nombre  des  salles  de  classe  à  construire.    Compte  tenu  de  ces  observations,  le  scénario  2 propose de  porter  le  rapport  élèves  maîtres  de  40  dans  le  scénario  1  à  45.    Ceci  a  comme conséquence  de  réduire  le  volume  des  dépenses  courantes  de  391  milliards  de  Francs Guinéens (scénario 1) à 348 milliards de Francs Guinéens en 2015.  Cela aurait aussi comme conséquence de réduire le nombre moyen de classes à construire (2 500 par an au cours des cinq prochaines années contre 2 900 dans le scénario 1) et d'enseignants à former (3 300 par an au cours des cinq prochaines années contre 3 700 dans le scénario 1).  Une conséquence seconde  de  la  réduction  du  nombre  des  enseignants  à  former  est  une  baisse  des  dépenses courantes dans les Ecoles Normales d'Instituteurs (de 17,4 milliards de Francs Guinéens en 2015 dans le scénario 1 à 13,4 milliards dans le scénario 2).
+81. Un jugement porté sur la proposition faite à son sujet dans le scénario 1 est, au-delà même de ses implications financières, les difficultés qu'elle présente dans la dimension de la mise en œuvre, tant pour ce qui est du nombre des enseignants à recruter et former que du nombre des salles de classe à construire. Compte tenu de ces observations, le scénario 2 propose de porter le rapport élèves maîtres de 40 dans le scénario 1 à 45. Ceci a comme conséquence de réduire le volume des dépenses courantes de 391 milliards de Francs Guinéens (scénario 1) à 348 milliards de Francs Guinéens en 2015. Cela aurait aussi comme
 
 25
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+
+conséquence de réduire le nombre moyen de classes à construire (2 500 par an au cours des cinq prochaines années contre 2 900 dans le scénario 1) et d'enseignants à former (3 300 par an au cours des cinq prochaines années contre 3 700 dans le scénario 1). Une conséquence seconde de la réduction du nombre des enseignants à former est une baisse des dépenses courantes dans les Ecoles Normales d'Instituteurs (de 17,4 milliards de Francs Guinéens en 2015 dans le scénario 1 à 13,4 milliards dans le scénario 2).
 
 #### Scénario 3
 
@@ -825,31 +851,23 @@ qu'il  convient  de  modérer  les  ambitions;  mais,  bien  que  valide,  ce  n
 
 [[START OF PAGE 30]]
 
-- universel dès l'année 2009 ou 2010 et ii) que les progrès en matière de rétention en cours de cycle  soient  tels  que  la  totalité  de  cette  cohorte  entrée  en  2010  ait  une  scolarisation  sans déperditions jusqu'au terme du cycle.
+universel dès l'année 2009 ou 2010 et ii) que les progrès en matière de rétention en cours de cycle soient tels que la totalité de cette cohorte entrée en 2010 ait une scolarisation sans déperditions jusqu'au terme du cycle.
 
-- Les conditions pour atteindre effectivement l'objectif dans le cadre temporel fixé sont clairement difficiles  à  remplir.    A  l'évidence,  il  en  sera  ainsi  d'autant  plus  que  le  MENRS cherche  maintenant  à  inclure  les  20  derniers  pour-cent  de  la  population.    L'expérience  des autres pays montre que cette population est toujours plus difficile à atteindre.  C'est pourquoi il est plus raisonnable d'envisager qu'en 2015, ce serait à la fois l'accès à la première classe primaire et la rétention en cours de cycle qui seraient universels et non l'achèvement du cycle. Cette distinction (importante sur le plan opérationnel) implique qu'en 2010, il y aurait un taux d'accès de 88 pour cent (le chemin moyen pour atteindre 100 pour cent en 2015) et donc que le taux d'achèvement s'établirait à 88 pour cent au cours de l'année 2015.
+91. Les conditions pour atteindre effectivement l'objectif dans le cadre temporel fixé sont clairement difficiles à remplir. A l'évidence, il en sera ainsi d'autant plus que le MENRS cherche maintenant à inclure les 20 derniers pour-cent de la population. L'expérience des autres pays montre que cette population est toujours plus difficile à atteindre. C'est pourquoi il est plus raisonnable d'envisager qu'en 2015, ce serait à la fois l'accès à la première classe primaire et la rétention en cours de cycle qui seraient universels et non l'achèvement du cycle. Cette distinction (importante sur le plan opérationnel) implique qu'en 2010, il y aurait un taux d'accès de 88 pour cent (le chemin moyen pour atteindre 100 pour cent en 2015) et donc que le taux d'achèvement s'établirait à 88 pour cent au cours de l'année 2015.
 
-- Ce choix a par ailleurs comme conséquence de soulager un peu les pressions dans la partie post-primaire.  Il invite par exemple à porter le taux de transition entre le premier et le second  cycle  primaire  de  36  pour  cent  dans  le  scénario  précédent  à  40  pour  cent  dans  ce scénario  pour  maintenir  plus  ou  moins  le  nombre  des  élèves  dans  ce  cycle  d'études.    Les options prises dans ce scénario au niveau primaire et l'ajustement à la marge dans le second cycle secondaire ont aussi des implications au niveau financier en réduisant un peu les besoins du secteur.  Il est ainsi estimé que le volume global des dépenses courantes pour le secteur en 2015 s'établirait  à  670  milliards  de  Francs  Guinéens,  contre  714  milliards  dans  le  scénario précédent.    La  valeur  moyenne  sur  la  période  2005-2015  des  dépenses  s'établirait  à  46,1 millions de dollars US contre 51,8 dans le scénario précédent.
+92. Ce choix a par ailleurs comme conséquence de soulager un peu les pressions dans la partie post-primaire. Il invite par exemple à porter le taux de transition entre le premier et le second cycle primaire de 36 pour cent dans le scénario précédent à 40 pour cent dans ce scénario pour maintenir plus ou moins le nombre des élèves dans ce cycle d'études. Les options prises dans ce scénario au niveau primaire et l'ajustement à la marge dans le second cycle secondaire ont aussi des implications au niveau financier en réduisant un peu les besoins du secteur. Il est ainsi estimé que le volume global des dépenses courantes pour le secteur en 2015 s'établirait à 670 milliards de Francs Guinéens, contre 714 milliards dans le scénario précédent. La valeur moyenne sur la période 2005-2015 des dépenses s'établirait à 46,1 millions de dollars US contre 51,8 dans le scénario précédent.
 
-- Après examen et discussion des différents scénarios, le choix a porté sur le quatrième scénario en fonction duquel les besoins de financement ont été évalués.
+93. Après examen et discussion des différents scénarios, le choix a porté sur le quatrième scénario en fonction duquel les besoins de financement ont été évalués.
 
 ### 2.2 Consolidation d'ensemble et une estimation des financements éventuels de l'IMOA
 
-- A ce point, nous avons exploré les principales politiques ou mesures structurelles qui dessinent une vision souhaitable pour le système éducatif guinéen à l'horizon de l'année 2015. Sur le plan du financement, c'est évidemment le budget de l'Etat guinéen qui sera le principal contributeur;  mais  l'appui  extérieur  pourra  aussi  jouer  un  rôle  important.    Il  importe maintenant d'examiner de façon synthétique le bouclage financier global en identifiant bien d'une  part  les  engagements  du  pays  pour  ce  qui  concerne  la  mobilisation  des  ressources nationales et d'autre part la contribution de l'aide extérieure.  Pour cette dernière, il y a lieu de distinguer  de  façon  spécifique  ce  qui  pourrait  être  mobilisé  dans  le  cadre  de  l'Initiative Accélérée pour le niveau primaire.
+94. A ce point, nous avons exploré les principales politiques ou mesures structurelles qui dessinent une vision souhaitable pour le système éducatif guinéen à l'horizon de l'année 2015. Sur le plan du financement, c'est évidemment le budget de l'Etat guinéen qui sera le principal contributeur; mais l'appui extérieur pourra aussi jouer un rôle important. Il importe maintenant d'examiner de façon synthétique le bouclage financier global en identifiant bien d'une part les engagements du pays pour ce qui concerne la mobilisation des ressources nationales et d'autre part la contribution de l'aide extérieure. Pour cette dernière, il y a lieu de distinguer de façon spécifique ce qui pourrait être mobilisé dans le cadre de l'Initiative Accélérée pour le niveau primaire.
 
-- Avant  d'identifier  les  montants,  il  est  utile  de  rappeler  quelques  références  pour  le financement dans le cadre de l'Initiative Accélérée : i) un premier point est qu'il est anticipé que  le  pays  donne  une  priorité  au  secteur  de  20  pour  cent  de  ses  ressources  publiques nationales 5 ; ii) un second point est que 50 pour cent des ressources publiques du secteur soient affectées au primaire 6 ; et iii) sur cette base, on détermine un montant de ressources publiques conceptuellement mobilisées par le pays et on détermine le montant de l'appui potentiel de
+95. Avant d'identifier les montants, il est utile de rappeler quelques références pour le financement dans le cadre de l'Initiative Accélérée : i) un premier point est qu'il est anticipé que le pays donne une priorité au secteur de 20 pour cent de ses ressources publiques nationales 5 ; ii) un second point est que 50 pour cent des ressources publiques du secteur soient affectées au primaire 6 ; et iii) sur cette base, on détermine un montant de ressources publiques conceptuellement mobilisées par le pays et on détermine le montant de l'appui potentiel de
 
-5
+> 5 . Si le pays donne un niveau de priorité plus élevé au secteur, les ressources publiques en excédent par rapport à ce qui aurait correspondu au chiffre de priorité de 20% contribuent alors à financer les autres niveaux d'enseignement que le primaire. C'est cas rencontré dans le scénario 4 où la priorité ciblée pour 2015 est de 22%. Ce chiffre doit toutefois être validé au niveau intersectoriel dans le pays.
 
-.
-
-Si le pays donne un niveau de priorité plus élevé au secteur, les ressources publiques en excédent par rapport à ce qui aurait correspondu
-
-au chiffre de priorité de 20% contribuent alors à financer les autres niveaux d'enseignement que le primaire. C'est cas rencontré dans le
-
-scénario 4 où la priorité ciblée pour 2015 est de 22%. Ce chiffre doit toutefois être validé au niveau intersectoriel dans le pays.
-
-> 6 .  Le  cadre  indicatif  part  de  l'idée  que  les  pays  doivent  donner  eux-mêmes  cette  priorité  pour  manifester  leur  volonté  de  financer  ces activités, et d'autre part que 50% des ressources publiques (le complément des financements pour le primaire) soient aussi affectées aux acteurs segments du système qui ne doivent pas pâtir d'un effort trop exclusif sur le niveau primaire.
+> 6 . Le cadre indicatif part de l'idée que les pays doivent donner eux-mêmes cette priorité pour manifester leur volonté de financer ces activités, et d'autre part que 50% des ressources publiques (le complément des financements pour le primaire) soient aussi affectées aux autres segments du système qui ne doivent pas pâtir d'un effort trop exclusif sur le niveau primaire.
 
 29
 
@@ -873,26 +891,26 @@ l'IMOA  par  la  différence  entre  le  volume  des  dépenses  effectives  du 
 
 [[START OF PAGE 32]]
 
+Tableau 3 : Financement du programme sectoriel, Scénario 4, 2005-2015 (Millions de Francs Guinéens de 2005)
+
 Années | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Ressources publiques pour le secteur | 203 515 | 213 332 | 261 012 | 295 743 | 333 999 | 376 070 | 422 266 | 472 917 | 528 380 | 589 033 | 655 286
-Ressources conceptuelles pour le primaire | 96 969 | 118 642 | 134 429 | 151 818 | 170 941 | 191 939 | 214 962 | 240 173 | 267 742 | 297 857
-Ressources conceptuelles hors primaire | 116 363 | 142 370 | 161 314 | 182 181 | 205 129 | 230 327 | 257 955 | 288 207 | 321 291 | 357 428
+Ressources conceptuelles pour le primaire |  | 96 969 | 118 642 | 134 429 | 151 818 | 170 941 | 191 939 | 214 962 | 240 173 | 267 742 | 297 857
+Ressources conceptuelles hors primaire |  | 116 363 | 142 370 | 161 314 | 182 181 | 205 129 | 230 327 | 257 955 | 288 207 | 321 291 | 357 428
 Primaire (conception IMOA)
 Dépenses courantes | 86 879 | 94 951 | 119 860 | 143 595 | 163 954 | 187 787 | 213 253 | 243 184 | 277 299 | 316 061 | 359 970
 Primaire | 76 310 | 85 417 | 106 318 | 128 036 | 146 206 | 167 714 | 191 492 | 218 948 | 250 445 | 286 417 | 327 347
 Formation des enseignants | 6 304 | 4 125 | 6 972 | 7 808 | 8 795 | 9 901 | 10 350 | 11 566 | 12 907 | 14 400 | 16 062
 Alphabétisation | 4 266 | 5 408 | 6 571 | 7 752 | 8 953 | 10 172 | 11 412 | 12 670 | 13 947 | 15 244 | 16 560
-Gap sur dépenses courantes | -2 018 | 1 218 | 9 167 | 12 136 | 16 846 | 21 314 | 28 221 | 37 127 | 48 319 | 62 113
-Dépenses en capital | 48 997 | 105 838 | 139 721 | 153 082 | 162 918 | 152 959 | 164 881 | 160 623 | 173 864 | 188 208
-Gap total (contribution potentielle IMOA) | 46 979 | 107 056 | 148 888 | 165 217 | 179 765 | 174 273 | 193 103 | 197 750 | 222 183 | 250 320
+Gap sur dépenses courantes |  | -2 018 | 1 218 | 9 167 | 12 136 | 16 846 | 21 314 | 28 221 | 37 127 | 48 319 | 62 113
+Dépenses en capital |  | 48 997 | 105 838 | 139 721 | 153 082 | 162 918 | 152 959 | 164 881 | 160 623 | 173 864 | 188 208
+Gap total (contribution potentielle IMOA) |  | 46 979 | 107 056 | 148 888 | 165 217 | 179 765 | 174 273 | 193 103 | 197 750 | 222 183 | 250 320
 Hors primaire
 Dépenses courantes | 138 741 | 161 787 | 179 514 | 189 334 | 199 609 | 210 251 | 223 108 | 237 432 | 258 247 | 282 203 | 310 066
-Gap sur dépenses courantes | 45 425 | 37 143 | 28 020 | 17 428 | 5 122 | -7 219 | -20 523 | -29 960 | -39 088 | -47 362
-Dépenses en capital | 39 344 | 28 583 | 45 713 | 53 252 | 55 458 | 50 998 | 54 373 | 76 910 | 88 310 | 129 250
-Gap total | 84 769 | 65 726 | 73 733 | 70 679 | 60 580 | 43 779 | 33 850 | 46 950 | 49 221 | 81 888
-
-Tableau 3 : Financement du programme sectoriel, Scénario 4, 2005-2015 (Millions de Francs Guinéens de 2005)
+Gap sur dépenses courantes |  | 45 425 | 37 143 | 28 020 | 17 428 | 5 122 | -7 219 | -20 523 | -29 960 | -39 088 | -47 362
+Dépenses en capital |  | 39 344 | 28 583 | 45 713 | 53 252 | 55 458 | 50 998 | 54 373 | 76 910 | 88 310 | 129 250
+Gap total |  | 84 769 | 65 726 | 73 733 | 70 679 | 60 580 | 43 779 | 33 850 | 46 950 | 49 221 | 81 888
 
 31
 
@@ -900,26 +918,26 @@ Tableau 3 : Financement du programme sectoriel, Scénario 4, 2005-2015 (Millions
 
 [[START OF PAGE 33]]
 
+Tableau 3 bis : Financement du programme sectoriel, Scénario 4, 2005-2015 (Millions de dollars US de 2005)
+
 Années | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Ressources publiques pour le secteur | 45,2 | 47,4 | 58,0 | 65,7 | 74,2 | 83,6 | 93,8 | 105,1 | 117,4 | 130,9 | 145,6
-Ressources conceptuelles pour le primaire | 21,5 | 26,4 | 29,9 | 33,7 | 38,0 | 42,7 | 47,8 | 53,4 | 59,5 | 66,2
-Ressources conceptuelles hors primaire | 25,9 | 31,6 | 35,8 | 40,5 | 45,6 | 51,2 | 57,3 | 64,0 | 71,4 | 79,4
+Ressources conceptuelles pour le primaire |  | 21,5 | 26,4 | 29,9 | 33,7 | 38,0 | 42,7 | 47,8 | 53,4 | 59,5 | 66,2
+Ressources conceptuelles hors primaire |  | 25,9 | 31,6 | 35,8 | 40,5 | 45,6 | 51,2 | 57,3 | 64,0 | 71,4 | 79,4
 Primaire (conception IMOA)
 Dépenses courantes | 19,3 | 21,1 | 26,6 | 31,9 | 36,4 | 41,7 | 47,4 | 54,0 | 61,6 | 70,2 | 80,0
 Primaire | 17,0 | 19,0 | 23,6 | 28,5 | 32,5 | 37,3 | 42,6 | 48,7 | 55,7 | 63,6 | 72,7
 Formation des enseignants | 1,4 | 0,9 | 1,5 | 1,7 | 2,0 | 2,2 | 2,3 | 2,6 | 2,9 | 3,2 | 3,6
 Alphabétisation | 0,9 | 1,2 | 1,5 | 1,7 | 2,0 | 2,3 | 2,5 | 2,8 | 3,1 | 3,4 | 3,7
-Gap sur dépenses courantes | -0,4 | 0,3 | 2,0 | 2,7 | 3,7 | 4,7 | 6,3 | 8,3 | 10,7 | 13,8
-Dépenses en capital | 10,9 | 23,5 | 31,0 | 34,0 | 36,2 | 34,0 | 36,6 | 35,7 | 38,6 | 41,8
-Gap total (contribution potentielle IMOA) | 10,4 | 23,8 | 33,1 | 36,7 | 39,9 | 38,7 | 42,9 | 43,9 | 49,4 | 55,6
+Gap sur dépenses courantes |  | -0,4 | 0,3 | 2,0 | 2,7 | 3,7 | 4,7 | 6,3 | 8,3 | 10,7 | 13,8
+Dépenses en capital |  | 10,9 | 23,5 | 31,0 | 34,0 | 36,2 | 34,0 | 36,6 | 35,7 | 38,6 | 41,8
+Gap total (contribution potentielle IMOA) |  | 10,4 | 23,8 | 33,1 | 36,7 | 39,9 | 38,7 | 42,9 | 43,9 | 49,4 | 55,6
 Hors primaire
 Dépenses courantes | 30,8 | 36,0 | 39,9 | 42,1 | 44,4 | 46,7 | 49,6 | 52,8 | 57,4 | 62,7 | 68,9
-Gap sur dépenses courantes | 10,1 | 8,3 | 6,2 | 3,9 | 1,1 | -1,6 | -4,6 | -6,7 | -8,7 | -10,5
-Dépenses en capital | 8,7 | 6,4 | 10,2 | 11,8 | 12,3 | 11,3 | 12,1 | 17,1 | 19,6 | 28,7
-Gap total | 18,8 | 14,6 | 16,4 | 15,7 | 13,5 | 9,7 | 7,5 | 10,4 | 10,9 | 18,2
-
-Tableau 3 bis : Financement du programme sectoriel, Scénario 4, 2005-2015 (Millions de dollars US de 2005)
+Gap sur dépenses courantes |  | 10,1 | 8,3 | 6,2 | 3,9 | 1,1 | -1,6 | -4,6 | -6,7 | -8,7 | -10,5
+Dépenses en capital |  | 8,7 | 6,4 | 10,2 | 11,8 | 12,3 | 11,3 | 12,1 | 17,1 | 19,6 | 28,7
+Gap total |  | 18,8 | 14,6 | 16,4 | 15,7 | 13,5 | 9,7 | 7,5 | 10,4 | 10,9 | 18,2
 
 32
 
@@ -927,13 +945,13 @@ Tableau 3 bis : Financement du programme sectoriel, Scénario 4, 2005-2015 (Mill
 
 [[START OF PAGE 34]]
 
-- Si on cible la situation de l'année 2015, le programme caractérisé dans le scénario 4 est caractérisé par une situation de quasi soutenabilité pour ce qui est des dépenses courantes; les ressources publiques nationales pour l'ensemble du secteur se situant à 655,6 milliards de Francs Guinéens (de 2005) soit 145,6 millions de dollars US, alors que les dépenses courantes sont  estimées  à  670  milliards  de  Francs  Guinéens  soit  148,9  millions  de  dollars  US. L'application des critères standard de l'IMOA conduit à ce qu'il apparaisse en fait un gap de financement sur dépenses courantes dans le primaire 7 de 62 milliards de Francs Guinéens en 2015 (13,8 millions de dollars US), et un excédent de financement sur dépenses courantes de 47  milliards  de  Francs  Guinéens  (10,5  millions  de  dollars  US)  dans  le  hors  primaire;  cet excédent de financement sur dépenses courantes vient alors contribuer à financer les dépenses en capital pour ces cycles d'études.
+97. Si on cible la situation de l'année 2015, le programme caractérisé dans le scénario 4 est caractérisé par une situation de quasi soutenabilité pour ce qui est des dépenses courantes; les ressources publiques nationales pour l'ensemble du secteur se situant à 655,6 milliards de Francs Guinéens (de 2005) soit 145,6 millions de dollars US, alors que les dépenses courantes sont estimées à 670 milliards de Francs Guinéens soit 148,9 millions de dollars US. L'application des critères standard de l'IMOA conduit à ce qu'il apparaisse en fait un gap de financement sur dépenses courantes dans le primaire 7 de 62 milliards de Francs Guinéens en 2015 (13,8 millions de dollars US), et un excédent de financement sur dépenses courantes de 47 milliards de Francs Guinéens (10,5 millions de dollars US) dans le hors primaire; cet excédent de financement sur dépenses courantes vient alors contribuer à financer les dépenses en capital pour ces cycles d'études.
 
-- Sur cette base, le besoin de financement pour le primaire est donc, en 2015, de 13,8 millions de dollars au titre des dépenses de fonctionnement, auquel il convient d'ajouter les 41,8  millions  de  dollars  au  titre  des  dépenses  en  capital.    Le  besoin  total  potentiellement éligible à un financement dans le cadre de l'IMOA, selon les critères standard, serait de 55,6 millions de dollars US  en  2015.  Pour  les années  2008,  2009  et 2010, les besoins correspondants sont respectivement de 31, 34 et 36 millions de dollars US.
+98. Sur cette base, le besoin de financement pour le primaire est donc, en 2015, de 13,8 millions de dollars au titre des dépenses de fonctionnement, auquel il convient d'ajouter les 41,8 millions de dollars au titre des dépenses en capital. Le besoin total potentiellement éligible à un financement dans le cadre de l'IMOA, selon les critères standard, serait de 55,6 millions de dollars US en 2015. Pour les années 2008, 2009 et 2010, les besoins correspondants sont respectivement de 31, 34 et 36 millions de dollars US.
 
-- Pour l'ensemble  des  niveaux  d'enseignement  hors  primaire (préscolaire  et  postprimaire), le besoin de financement global (uniquement pour les dépenses en capital) en 2015 est estimé se monter à 18 millions de dollars. Ce gap n'est pas à priori financé. Notons que ce gap disparaîtrait si le pays pouvait accorder une priorité de 24% pour le secteur; de nouveaux aménagements à la baisse sur la définition du programme pourraient aussi bien toujours être envisagés.
+99. Pour l'ensemble des niveaux d'enseignement hors primaire (préscolaire et post-primaire), le besoin de financement global (uniquement pour les dépenses en capital) en 2015 est estimé se monter à 18 millions de dollars. Ce gap n'est pas à priori financé. Notons que ce gap disparaîtrait si le pays pouvait accorder une priorité de 24% pour le secteur; de nouveaux aménagements à la baisse sur la définition du programme pourraient aussi bien toujours être envisagés.
 
-- Enfin,  il  faut  mentionner  que  le  scénario  retenu  prend  en  charge  les  politiques spécifiques susceptibles d'aider à l'atteinte des objectifs sectoriels. Ce sont entre autres : (i) l'incitation  de  la  demande  de  scolarisation ;  (ii)  un  modèle  de  formation  intensive  et polyvalente  des  enseignants  du  secondaire,  inspiré  de  celui  des  maîtres  du  primaire  pour répondre aux besoins pressants de l'expansion du secondaire ; (iii) l'introduction des filières courtes  professionnalisantes  post  élémentaire  et  post  secondaire  pour  assurer  une  meilleure gestion  des  flux ;  et  (iv)  la  promotion  des  approches  alternatives  (telle  que  la  formation  à distance) au niveau de l'enseignement supérieur en adéquation avec les besoins de l'emploi. Par ailleurs, le secteur dispose d'une politique de lutte contre le VIH/SIDA dont la traduction en plan d'actions est en cours.  Ce Plan d'actions financé par le Programme Multisectoriel de Lutte contre le VIH/SIDA complète le PSE.
+100. Enfin, il faut mentionner que le scénario retenu prend en charge les politiques spécifiques susceptibles d'aider à l'atteinte des objectifs sectoriels. Ce sont entre autres : (i) l'incitation de la demande de scolarisation ; (ii) un modèle de formation intensive et polyvalente des enseignants du secondaire, inspiré de celui des maîtres du primaire pour répondre aux besoins pressants de l'expansion du secondaire ; (iii) l'introduction des filières courtes professionnalisantes post élémentaire et post secondaire pour assurer une meilleure gestion des flux ; et (iv) la promotion des approches alternatives (telle que la formation à distance) au niveau de l'enseignement supérieur en adéquation avec les besoins de l'emploi. Par ailleurs, le secteur dispose d'une politique de lutte contre le VIH/SIDA dont la traduction en plan d'actions est en cours. Ce Plan d'actions financé par le Programme Multisectoriel de Lutte contre le VIH/SIDA complète le PSE.
 
 > 7 . Au sens de la définition retenue pour l'IMOA et qui incorpore le cycle primaire proprement dit, la formation de ses enseignants et l'alphabétisation.
 
@@ -945,21 +963,21 @@ Tableau 3 bis : Financement du programme sectoriel, Scénario 4, 2005-2015 (Mill
 
 ## CHAPITRE 3 : CADRE DES DÉPENSES À MOYEN TERME (CDMT)
 
-- Au niveau national, le secteur de l'Education est le premier à disposer d'un Cadre des Dépenses à Moyen Terme (CDMT).  Ce qui est en fait un exemple probant pour l'approche Budget programme envisagée par le Ministère des Finances et à laquelle les PTF ont souscrit.
+101. Au niveau national, le secteur de l'Education est le premier à disposer d'un Cadre des Dépenses à Moyen Terme (CDMT). Ce qui est en fait un exemple probant pour l'approche Budget programme envisagée par le Ministère des Finances et à laquelle les PTF ont souscrit.
 
-- Son  processus  d'élaboration  et  de  consultation  est  identique  à  celui  du  modèle  de simulation.  Le CDMT pour la période 2008-2010, discuté avec les partenaires lors de la revue sectorielle de juin 2007, a servi de base pour la lettre du cadrage en vue de l'élaboration du projet du budget sectoriel du Ministère de l'éducation 2008.
+102. Son processus d'élaboration et de consultation est identique à celui du modèle de simulation. Le CDMT pour la période 2008-2010, discuté avec les partenaires lors de la revue sectorielle de juin 2007, a servi de base pour la lettre du cadrage en vue de l'élaboration du projet du budget sectoriel du Ministère de l'éducation 2008.
 
-- Le CDMT couvre une période triennale glissante.  Chaque version annuelle est faite selon  plusieurs  scénarii  qui  prennent  en  compte entre  autres  :  (i)  la  valorisation  du  cadre logique ;  (ii)  le  cadrage  macro-économique  élaboré  par  le  PEFP  sur  la  base  de  scénarii  de croissance  du  PIB  et  de  la  part  du  PIB  affectée  aux  dépenses  publiques ;  (iii)  le  cadrage effectué par le Ministère du plan en charge des investissements publics ; (iv) les engagements budgétaires  du  Gouvernement  en  faveur  du  secteur  de  l'éducation  dans  la  Stratégie  de Réduction de la Pauvreté (SRP) ; et (v) les prévisions d'apports des Partenaires Techniques et Financiers (PTF) ; et (vi) l'évolution des taux d'exécution des budgets de l'éducation.
+103. Le CDMT couvre une période triennale glissante. Chaque version annuelle est faite selon plusieurs scénarii qui prennent en compte entre autres : (i) la valorisation du cadre logique ; (ii) le cadrage macro-économique élaboré par le PEFP sur la base de scénarii de croissance du PIB et de la part du PIB affectée aux dépenses publiques ; (iii) le cadrage effectué par le Ministère du plan en charge des investissements publics ; (iv) les engagements budgétaires du Gouvernement en faveur du secteur de l'éducation dans la Stratégie de Réduction de la Pauvreté (SRP) ; et (v) les prévisions d'apports des Partenaires Techniques et Financiers (PTF) ; et (vi) l'évolution des taux d'exécution des budgets de l'éducation.
 
-- Le PSE dont la priorité principale est la scolarisation primaire universelle de qualité est  subdivisé  en  trois  composantes  :  (1)  l'accroissement  de  l'accès,  (2)  l'amélioration  de  la qualité  et  (3)  le  renforcement  de  la  gestion.    Les  investissements  du  PSE  pour  ces  trois composantes sur la période 2008-2010 sont présentés dans le tableau ci-après :
+104. Le PSE dont la priorité principale est la scolarisation primaire universelle de qualité est subdivisé en trois composantes : (1) l'accroissement de l'accès, (2) l'amélioration de la qualité et (3) le renforcement de la gestion. Les investissements du PSE pour ces trois composantes sur la période 2008-2010 sont présentés dans le tableau ci-après :
 
 COMPOSANTES | MONTANTS (millions USD)
 --- | ---
 ACCES
 Préscolaire | 0,75
 Primaire | 99,34
-Secondaire général 1 er cycle | 17,86
-Secondaire général 2 ème cycle | 3,35
+Secondaire général 1er cycle | 17,86
+Secondaire général 2ème cycle | 3,35
 Enseignement technique et professionnel | -
 Formation professionnelle post primaire | 3,50
 Formation professionnelle post collège | 4,14
@@ -969,8 +987,8 @@ Sous total | 132,33
 QUALITE
 Préscolaire | 0,35
 Primaire | 15,49
-Secondaire général 1 er cycle | 1,56
-Secondaire général 2 ème cycle | 2,21
+Secondaire général 1er cycle | 1,56
+Secondaire général 2ème cycle | 2,21
 Enseignement technique et professionnel | 3,43
 Formation professionnelle post primaire | -
 Formation professionnelle post collège | -
@@ -991,7 +1009,7 @@ Gestion centrale | 2,48
 Sous total | 9,99
 TOTAL GENERAL | 167,98
 
-- L'objectif et les activités de chacune des composantes ainsi que les modalités de leur exécution et financement sont décrits ci-dessous :
+105. L'objectif et les activités de chacune des composantes ainsi que les modalités de leur exécution et financement sont décrits ci-dessous :
 
 35
 
@@ -1003,9 +1021,11 @@ TOTAL GENERAL | 167,98
 
 Montant :
 
-132,33 millions d'USD Budget Etat, FC-PSE, FKDEA, BID3, JICA, FAD4, FSD, PACV, PDU, Plan Guinée
+132,33 millions d'USD
 
 Financement :
+
+Budget Etat, FC-PSE, FKDEA, BID3, JICA, FAD4, FSD, PACV, PDU, Plan Guinée
 
 #### Objectif :
 
@@ -1067,11 +1087,11 @@ Les  modalités  d'exécution  des  travaux  diffèrent  suivant  les  financeme
 
 Le financement des travaux est réparti comme suit :
 
-- Plan Guinée : 514 classes nouvelles, 114 classes à réhabiliter (Guinée Forestière)\
-
-- BID3 : 150 classes nouvelles, 150 classes à réhabiliter (Dubréka, Boffa, Boké, Gaoual)
+- Plan Guinée : 514 classes nouvelles, 114 classes à réhabiliter (Guinée Forestière)
 
 - JICA : 231 classes nouvelles (Dubréka, Coyah, Matoto, Ratoma)
+
+- BID3 : 150 classes nouvelles, 150 classes à réhabiliter (Dubréka, Boffa, Boké, Gaoual)
 
 - FAD4 : 90 classes nouvelles (Boké, Boffa, Gaoual, Koundara, Kankan, Siguiri, Mandiana, Nzérékoré)
 
@@ -1269,9 +1289,11 @@ Les  investissements  sur  les  infrastructures  de  l'enseignement  supérieur 
 
 Montant :
 
-25,66 millions d'USD Budget Etat, FC-PSE, FKDEA, BID, JICA, FAD, FSD, PACV, PDU, Plan Guinée
+25,66 millions d'USD
 
 Financement :
+
+Budget Etat, FC-PSE, FKDEA, BID, JICA, FAD, FSD, PACV, PDU, Plan Guinée
 
 #### Objectif :
 
@@ -1321,7 +1343,7 @@ L'amélioration de la qualité de l'enseignement primaire s'appuiera sur un disp
 
 [[START OF PAGE 44]]
 
-- seront assujettis à la nomination de  DSEE  ayant le profil de Conseiller Pédagogique Maître Formateur ;
+seront assujettis à la nomination de DSEE ayant le profil de Conseiller Pédagogique Maître Formateur ;
 
 - La formation dès 2008, en mesure et évaluation des enseignants et des encadreurs afin de leur permettre d'évaluer régulièrement les acquis des élèves ;
 
@@ -1483,15 +1505,15 @@ d'informations sur les contenus, les méthodes, les procédures et les données 
 
 106. Dans cette section, sont abordés les dispositifs relatifs à l'exécution, au pilotage, à la coordination et au suivi du PSE.
 
-- Il convient de rappeler que l'approche programme a été initiée depuis l'EPT1, malgré quelques  difficultés  d'articulation  au  niveau  des  trois  départements  ministériels  d'alors  en charge de l'éducation. Cette approche, poursuivie dans un contexte d'unicité de l'administration du système, est maintenant bien comprise par les cadres et gestionnaires du secteur  et  ceux  des  ministères  partenaires  (le  Ministère  de  l'Economie,  des  Finances  et  du Plan, le Ministère de la Fonction Publique et celui en charge de la Petite Enfance), ainsi que par les PTF.
+107. Il convient de rappeler que l'approche programme a été initiée depuis l'EPT1, malgré quelques difficultés d'articulation au niveau des trois départements ministériels d'alors en charge de l'éducation. Cette approche, poursuivie dans un contexte d'unicité de l'administration du système, est maintenant bien comprise par les cadres et gestionnaires du secteur et ceux des ministères partenaires (le Ministère de l'Economie, des Finances et du Plan, le Ministère de la Fonction Publique et celui en charge de la Petite Enfance), ainsi que par les PTF.
 
-- En  vue  d'une  maximisation  des  ressources  humaines,  financières  et  matérielles, l'approche  programme  dans  laquelle  doivent  s'inscrire,  à  terme,  les  activités  de  tous  les intervenants  du  secteur  (Etat,  Collectivités  Territoriales,  PTF,  Communautés  bénéficiaires, ONG,  Associations  et  Secteur  privé)  contribue  au  renforcement  des  zones  de  synergie possible.    Ladite  approche  reste  aussi  de  mise  quant  à  l'élaboration,  l'approbation  et  la révision des documents stratégiques, opérationnels et budgétaires de référence du PSE.
+108. En vue d'une maximisation des ressources humaines, financières et matérielles, l'approche programme dans laquelle doivent s'inscrire, à terme, les activités de tous les intervenants du secteur (Etat, Collectivités Territoriales, PTF, Communautés bénéficiaires, ONG, Associations et Secteur privé) contribue au renforcement des zones de synergie possible. Ladite approche reste aussi de mise quant à l'élaboration, l'approbation et la révision des documents stratégiques, opérationnels et budgétaires de référence du PSE.
 
 ### 4.1. Cadre Partenarial
 
-- L'option  d'une  démarche  partenariale  découle  de  l'approche  programme.    Les principales  motivations  du  Cadre  de  Partenariat,  élaboré  avec  la  participation  des  PTF et traduisant la volonté de tous les signataires d'appuyer la mise en œuvre du PSE sont : (i) de partager une vision commune du développement de l'éducation et des objectifs majeurs ; et (ii)  d'adopter  des  procédures  harmonisées  de  pilotage  et  de  coordination  stratégique,  de planification, programmation et budgétisation des activités, de coordination opérationnelle et d'exécution des activités, de suivi et évaluation, y compris les indicateurs de résultats du PSE et des revues conjointes.  Ce cadre partenarial est en cours de signature par le Gouvernement et les Partenaires qui y souscrivent.
+109. L'option d'une démarche partenariale découle de l'approche programme. Les principales motivations du Cadre de Partenariat, élaboré avec la participation des PTF et traduisant la volonté de tous les signataires d'appuyer la mise en œuvre du PSE sont : (i) de partager une vision commune du développement de l'éducation et des objectifs majeurs ; et (ii) d'adopter des procédures harmonisées de pilotage et de coordination stratégique, de planification, programmation et budgétisation des activités, de coordination opérationnelle et d'exécution des activités, de suivi et évaluation, y compris les indicateurs de résultats du PSE et des revues conjointes. Ce cadre partenarial est en cours de signature par le Gouvernement et les Partenaires qui y souscrivent.
 
-- Aussi, il convient de mentionner que la Guinée a développé depuis 2002 une pratique de concertation à travers des réunions techniques périodiques entre les autorités du secteur de l'éducation et les PTF d'une part, et d'autre part, des revues conjointes du programme.  Par ailleurs, un Chef de file des PTF joue un rôle important dans la coordination des bailleurs et dans l'interface entre les partenaires et le Gouvernement.
+110. Aussi, il convient de mentionner que la Guinée a développé depuis 2002 une pratique de concertation à travers des réunions techniques périodiques entre les autorités du secteur de l'éducation et les PTF d'une part, et d'autre part, des revues conjointes du programme. Par ailleurs, un Chef de file des PTF joue un rôle important dans la coordination des bailleurs et dans l'interface entre les partenaires et le Gouvernement.
 
 ### 4.2. Fonds Commun
 
@@ -1505,9 +1527,9 @@ d'informations sur les contenus, les méthodes, les procédures et les données 
 
 112. Les procédures de gestion et de suivi du FC-PSE sont décrites dans la deuxième partie du Manuel d'Exécution du PSE.  Chaque Bailleur souscrivant au Fonds commun est sur le point de signer avec le Gouvernement une convention particulière pour l'octroi d'un crédit, d'un prêt ou d'une subvention, destiné à contribuer au financement du PSE par le canal du FC-PSE.
 
-113. La  Lettre  d'Entente  au  FC  indique  les  principes  et  les  modalités  adoptés  par  les Bailleurs et le Gouvernement pour le fonctionnement du FC-PSE et leur collaboration dans ce cadre.  Elle décrit l'entente des Signataires en ce qui concerne les modalités d'imputation, de décaissement,  de  comptabilisation,  de  passation  des  marchés  et  de  suivi/évaluation  du  FCPSE.
+113. La Lettre d'Entente au FC indique les principes et les modalités adoptés par les Bailleurs et le Gouvernement pour le fonctionnement du FC-PSE et leur collaboration dans ce cadre. Elle décrit l'entente des Signataires en ce qui concerne les modalités d'imputation, de décaissement, de comptabilisation, de passation des marchés et de suivi/évaluation du FC-PSE.
 
-114. Les procédures et mécanismes décrits dans la Lettre sont complétés par l'ensemble des règles et procédures à suivre pour l'exécution du PSE en matière administrative, financière, comptable, de passation des marchés et de suivi évaluation, qui sont comprises notamment dans les documents suivants : (i) le Manuel d'Exécution du PSE dont la deuxième partie est consacrée  au  FC-PSE ;  (ii)  le  Manuel  des  Procédures  Financières  et  d'Acquisition  du  FCPSE ; (iii) le Guide de Suivi Evaluation du PSE ; et (iv) tous les autres manuels et guides de procédures indiqués dans le ME-PSE.
+114. Les procédures et mécanismes décrits dans la Lettre sont complétés par l'ensemble des règles et procédures à suivre pour l'exécution du PSE en matière administrative, financière, comptable, de passation des marchés et de suivi évaluation, qui sont comprises notamment dans les documents suivants : (i) le Manuel d'Exécution du PSE dont la deuxième partie est consacrée au FC-PSE ; (ii) le Manuel des Procédures Financières et d'Acquisition du FC-PSE ; (iii) le Guide de Suivi Evaluation du PSE ; et (iv) tous les autres manuels et guides de procédures indiqués dans le ME-PSE.
 
 ### 4.3. Pilotage du secteur et du Programme
 
@@ -1525,7 +1547,7 @@ d'informations sur les contenus, les méthodes, les procédures et les données 
 
 [[START OF PAGE 50]]
 
-- Le  tableau ci-dessous illustre le schéma  organisationnel du pilotage et de la coordination du PSE.
+118. Le tableau ci-dessous illustre le schéma organisationnel du pilotage et de la coordination du PSE.
 
 49
 
@@ -1613,17 +1635,17 @@ financier et d'évaluation
 
 Réunion ordinaire : trimestrielle
 
-- Dans  la logique de consultation, de concertation et d'implication des partenaires nationaux et extérieurs, une stratégie de marketing social conséquente s'appuyant sur un plan de communication du secteur a été élaborée.
+119. Dans la logique de consultation, de concertation et d'implication des partenaires nationaux et extérieurs, une stratégie de marketing social conséquente s'appuyant sur un plan de communication du secteur a été élaborée.
 
 ### 4.4. Manuel d'Exécution du PSE
 
-- Le Manuel d'exécution (ME) du PSE précise : (i) les procédures de programmation et de suivi de la partie I de ce manuel s'appliquant à tous les concours du secteur (les PTF signataires du  cadre  partenarial) ;  alors  que  (ii)  les  procédures  spécifiques  de  la  2 ème partie  du  manuel d'exécution s'appliquent au FC.
+120. Le Manuel d'exécution (ME) du PSE précise : (i) les procédures de programmation et de suivi de la partie I de ce manuel s'appliquant à tous les concours du secteur (les PTF signataires du cadre partenarial) ; alors que (ii) les procédures spécifiques de la 2ème partie du manuel d'exécution s'appliquent au FC.
 
-- Pour d'une part, la mise en cohérence aux différents niveaux et sous-secteurs, et d'autre part, une utilisation efficace et efficiente des ressources mises à disposition, plusieurs outils de gestion  ont  été  retenus.    Il  s'agit  en  particulier :  (i)  de  la  Lettre  de  cadrage  stratégique  et budgétaire ; (ii) de la base de données budgétaires et de l'annuaire statistique ; et (iii) du Manuel d'exécution, qui sera complété par d'autres manuels spécifiques.
+121. Pour d'une part, la mise en cohérence aux différents niveaux et sous-secteurs, et d'autre part, une utilisation efficace et efficiente des ressources mises à disposition, plusieurs outils de gestion ont été retenus. Il s'agit en particulier : (i) de la Lettre de cadrage stratégique et budgétaire ; (ii) de la base de données budgétaires et de l'annuaire statistique ; et (iii) du Manuel d'exécution, qui sera complété par d'autres manuels spécifiques.
 
 ### 4.5. Revues et Evaluations
 
-- Le PSE fera l'objet d'évaluations et de revues périodiques conduites par le Gouvernement et  les  PTF  (c'est  ainsi  qu'il  est  prévu  au  moins  une  revue  sectorielle  par  an,  avant  la  fin  du premier semestre).  Chaque mois, la Coordination des PTF tiendra une réunion de concertation avec la  Coordination  nationale  du  PSE.    Les  Revues  annuelles  sont  précédées  de  supervisions conjointes.  Enfin, le PSE fera également l'objet d'une évaluation externe organisée à la troisième année de sa mise en œuvre.
+122. Le PSE fera l'objet d'évaluations et de revues périodiques conduites par le Gouvernement et les PTF (c'est ainsi qu'il est prévu au moins une revue sectorielle par an, avant la fin du premier semestre). Chaque mois, la Coordination des PTF tiendra une réunion de concertation avec la Coordination nationale du PSE. Les Revues annuelles sont précédées de supervisions conjointes. Enfin, le PSE fera également l'objet d'une évaluation externe organisée à la troisième année de sa mise en œuvre.
 
 51
 
@@ -1633,17 +1655,17 @@ Réunion ordinaire : trimestrielle
 
 ## CONCLUSIONS - PERSPECTIVES
 
-- Une étape importante a été franchie suite à l'élaboration du nouveau PSE à partir de la LPSE, dont les principales orientations ont été appréciées du point de vue de leur soutenabilité financière.  Les orientations stratégiques sur le long terme découlent d'un processus participatif et technique ayant une vision systémique du secteur de l'éducation.  Les objectifs visés au primaire, notamment en matière d'achèvement, sont bien fondés eu égard aux tendances de développement du  système.    Au  niveau  post  primaire  et  jusqu'à  l'enseignement  supérieur,  les  objectifs d'accroissement  de  la  scolarisation  sont  assortis  d'un  processus  de  régulation  ambitieux  et  du développement de filières professionnelles courtes d'insertion.
+123. Une étape importante a été franchie suite à l'élaboration du nouveau PSE à partir de la LPSE, dont les principales orientations ont été appréciées du point de vue de leur soutenabilité financière. Les orientations stratégiques sur le long terme découlent d'un processus participatif et technique ayant une vision systémique du secteur de l'éducation. Les objectifs visés au primaire, notamment en matière d'achèvement, sont bien fondés eu égard aux tendances de développement du système. Au niveau post primaire et jusqu'à l'enseignement supérieur, les objectifs d'accroissement de la scolarisation sont assortis d'un processus de régulation ambitieux et du développement de filières professionnelles courtes d'insertion.
 
-- Le Programme  Sectoriel de l'Education, tel que décrit, démontre  la volonté du Gouvernement de se doter d'un plan sectoriel de développement selon les critères de l'approche programme, du cadre incitatif de l'IMOA et de la soutenabilité financière.  Il démontre également que sa mise en œuvre nécessite la mobilisation des ressources financières au-delà de la capacité actuelle du pays, compte tenu des contraintes macroéconomiques. La communauté internationale,  qui  s'est  engagée  à  soutenir  tout  plan  crédible  d'un  pays  pour  l'atteinte  des objectifs  du  millénaire  pour  le  développement  concernant  l'éducation,  peut  trouver  en  ce programme sectoriel un motif réel pour apporter l'appui nécessaire à sa réalisation.
+124. Le Programme Sectoriel de l'Education, tel que décrit, démontre la volonté du Gouvernement de se doter d'un plan sectoriel de développement selon les critères de l'approche programme, du cadre incitatif de l'IMOA et de la soutenabilité financière. Il démontre également que sa mise en œuvre nécessite la mobilisation des ressources financières au-delà de la capacité actuelle du pays, compte tenu des contraintes macroéconomiques. La communauté internationale, qui s'est engagée à soutenir tout plan crédible d'un pays pour l'atteinte des objectifs du millénaire pour le développement concernant l'éducation, peut trouver en ce programme sectoriel un motif réel pour apporter l'appui nécessaire à sa réalisation.
 
-- Le ré-endossement de la Guinée au titre de l'IMOA-EPT s'inscrira dans la réalisation de la  promesse tenue par la communauté internationale à Dakar en avril 2000, qui n'a pas encore bénéficié de cette initiative, bien que faisant partie des tous premiers pays à être élus en 2002.  Ce ré-endossement  permettra  de  combler  le  gap  financier  et  faciliterait  l'aboutissement  rapide  du processus de mise en œuvre du programme.
+125. Le ré-endossement de la Guinée au titre de l'IMOA-EPT s'inscrira dans la réalisation de la promesse tenue par la communauté internationale à Dakar en avril 2000, qui n'a pas encore bénéficié de cette initiative, bien que faisant partie des tous premiers pays à être élus en 2002. Ce ré-endossement permettra de combler le gap financier et faciliterait l'aboutissement rapide du processus de mise en œuvre du programme.
 
-- Durant  l'élaboration  du  programme,  une  attention  particulière  a  été  portée  sur  les éléments  de  cohérence  et  de  complémentarité  entre  les  différents  documents  constitutifs  (la LPSE, le cadre logique, le cadrage financier sectoriel et les arbitrages intra-sectoriels, le CDMT ainsi que le plan d'actions triennal).  Compte tenu de la complexité et de l'ampleur de la tâche de conception d'un programme systémique, il est difficile que toutes les dimensions puissent être cernées à la fois.
+126. Durant l'élaboration du programme, une attention particulière a été portée sur les éléments de cohérence et de complémentarité entre les différents documents constitutifs (la LPSE, le cadre logique, le cadrage financier sectoriel et les arbitrages intra-sectoriels, le CDMT ainsi que le plan d'actions triennal). Compte tenu de la complexité et de l'ampleur de la tâche de conception d'un programme systémique, il est difficile que toutes les dimensions puissent être cernées à la fois.
 
-- Il s'agit notamment : (i) de la prise en compte de la lutte contre le VIH/SIDA à cause du fait que la préparation du PSE a précédé celle du second Programme multisectoriel de lutte contre le  VIH/SIDA,  incluant  le  secteur  de  l'éducation ;  (ii)  de  la  considération  des  aspects  d'équité ayant trait aux critères de revenus ; (iii) des conditions d'exploitation approfondie des résultats des évaluations des apprentissages des élèves permettant d'identifier les leviers de politique sur ce  point ;  et  (iv)  de  la  prise  en  charge  des  aspects  liés  au  renforcement  des  capacités institutionnelles,  organisationnelles  et  individuelles  aux  plans  national,  régional  et  local.    Ces dimensions,  qui  n'ont  pas  été  suffisamment  intégrées  au  programme,  pourraient  l'être  à l'occasion des mises à jour des plans triennaux glissants.
+127. Il s'agit notamment : (i) de la prise en compte de la lutte contre le VIH/SIDA à cause du fait que la préparation du PSE a précédé celle du second Programme multisectoriel de lutte contre le VIH/SIDA, incluant le secteur de l'éducation ; (ii) de la considération des aspects d'équité ayant trait aux critères de revenus ; (iii) des conditions d'exploitation approfondie des résultats des évaluations des apprentissages des élèves permettant d'identifier les leviers de politique sur ce point ; et (iv) de la prise en charge des aspects liés au renforcement des capacités institutionnelles, organisationnelles et individuelles aux plans national, régional et local. Ces dimensions, qui n'ont pas été suffisamment intégrées au programme, pourraient l'être à l'occasion des mises à jour des plans triennaux glissants.
 
-- Une  condition  nécessaire  au  démarrage  du  PSE  est  la  mobilisation  de  l'enveloppe  de ressources  nationales  envisagées  et  l'approbation  des  nouveaux  concours  financiers  extérieurs annoncés, pour couvrir un besoin de 136,75 millions de dollars US, à travers le Fonds commun
+128. Une condition nécessaire au démarrage du PSE est la mobilisation de l'enveloppe de ressources nationales envisagées et l'approbation des nouveaux concours financiers extérieurs annoncés, pour couvrir un besoin de 136,75 millions de dollars US, à travers le Fonds commun
 
 52
 
@@ -1653,7 +1675,7 @@ Réunion ordinaire : trimestrielle
 
 (KfW : 18,3 millions d'Euros ; la GTZ : 4 millions d'Euros ; l'AfD : 12 millions d'Euros et le Fonds catalytique : 90 millions de dollars US).
 
-- Il  est  attendu  que  ce  démarrage  soit  effectif  dès  janvier  2008.    Dans  ce  contexte,  le Gouvernement et les partenaires assureront la mise ne place des modalités d'opérationnalité (les contrats et conventions de financement, les procédures fiduciaires, les organes de pilotage et de coordination, les procédures d'exécution des constructions et d'acquisition de biens et services).
+129. Il est attendu que ce démarrage soit effectif dès janvier 2008. Dans ce contexte, le Gouvernement et les partenaires assureront la mise ne place des modalités d'opérationnalité (les contrats et conventions de financement, les procédures fiduciaires, les organes de pilotage et de coordination, les procédures d'exécution des constructions et d'acquisition de biens et services).
 
 53
 
@@ -1661,7 +1683,9 @@ Réunion ordinaire : trimestrielle
 
 [[START OF PAGE 55]]
 
-2005 | 2015
+## Annexe 1 : Cibles du PSE pour 2015⁹
+
+ | 2005 | 2015
 --- | --- | ---
 Mobilisation des ressources nationales
 Pression fiscale | 12,1 % | 16,0 %
@@ -1692,7 +1716,7 @@ Autres dépenses courantes hors salaires enseignants (% du total) | 44,2 % | 34,
 Masse des autres dépenses courantes hors salaires enseignants | 33,7 | 109,4
 Dépenses courantes | 76,310 | 327,347
 Base 2, Collège
-Taux de transition 6ème-7 ème | 77,7 % | 60,0 %
+Taux de transition 6ème-7ème | 77,7 % | 60,0 %
 % de survie en cours de cycle | 62,0 % | 75,0 %
 Proportion de redoublants (%) | 15,9 % | 10,0 %
 Taux d'achèvement du cycle (%) | 24,2 % | 39,6 %
@@ -1710,15 +1734,14 @@ Autres dépenses courantes hors salaires enseignants (% du total) | 44,0 % | 40,
 Masse des autres dépenses courantes hors salaires enseignants | 18,023 | 56,146
 Dépenses courantes | 40,962 | 141,323
 Secondaire Général, Lycée
-Taux de transition 3ème-2 nde | 92,9 % | 38,0 %
+Taux de transition 3ème-2nde | 92,9 % | 38,0 %
 % de survie en cours de cycle | 41,0 % | 80,0 %
 Taux d'achèvement du cycle (%) | 9,1 % | 12,0 %
 Nombre d'élèves | 104 669 | 108 801
 % d'élèves dans le privé | 14,0 % | 14,0 %
-Nombre d'élèves dans le public | 90 015 | 93 569 50,0
-Nombre d'élèves par division pédagogique Nombre d'enseignants dans le public | 95,0 1 730 | 3 181
-
-## Annexe 1 : Cibles du PSE pour 2015 9
+Nombre d'élèves dans le public | 90 015 | 93 569
+Nombre d'élèves par division pédagogique | 95,0 | 50,0
+Nombre d'enseignants dans le public | 1 730 | 3 181
 
 > 9 Voir la Note de Cadrage pour le PSE
 
@@ -1729,7 +1752,6 @@ Nombre d'élèves par division pédagogique Nombre d'enseignants dans le public 
 [[START OF PAGE 56]]
 
 Nombre d'enseignants permanents | 888 | 655
---- | --- | ---
 Nombre d'enseignants contractuels | 842 | 2 527
 Rémunération des enseignants permanents (PIB/hab.) | 3,3 | 4,5
 Rémunération des enseignants contractuels (PIB/hab.) | 2,5 | 4,0
@@ -1746,12 +1768,13 @@ Dépenses courantes | 9,989 | 15,769
 Formation professionnelle d'insertion
 % sortants du primaire pris en formation d'insertion | 0 % | 20 %
 Coût unitaire (PIB/hab.) | 0 | 0,30
-sortants du collège pris en formation d'insertion | 0 % | 30 %
-% Coût unitaire (PIB/hab.) | 0 | 0,50
+% sortants du collège pris en formation d'insertion | 0 % | 30 %
+Coût unitaire (PIB/hab.) | 0 | 0,50
 Dépenses courantes | 0 | 25,304
 Formation des enseignants
-Nombre en formation | 2 490 | 4 496 15,389
-Dépenses courantes Enseignement supérieur | 6,304
+Nombre en formation | 2 490 | 4 496
+Dépenses courantes | 6,304 | 15,389
+Enseignement supérieur
 Etudiants pour 100 000 habitants | 339 | 339
 Nombre d'étudiants | 29 348 | 38 719
 Nombre d'étudiants dans le privé | 2 020 | 8 000
@@ -1765,25 +1788,25 @@ Dépenses à l'étranger en % des dépenses courantes locales | 6,6 % | 4,0 %
 Dépenses d'appui à la recherche | 0 | 2,256
 Dépenses courantes | 53,712 | 80,148
 Enseignement non formel, alphabétisation
-Total des dépenses courantes
 Dépenses courantes | 4,266 | 16,560
-Gap total sur dépenses courantes | 203,515 | 660,830 5,545
+Total des dépenses courantes | 203,515 | 660,830
+Gap total sur dépenses courantes |  | 5,545
 Dépenses en capital moyennes annuelles (millions $US de 2005)
 Primaire
-Coût unitaire de construction | 11 000
-Nombre de salles à construire par an | 2 340
-Dépenses en Capital (y compris système et entretien) | 31,0
+Coût unitaire de construction |  | 11 000
+Nombre de salles à construire par an |  | 2 340
+Dépenses en Capital (y compris système et entretien) |  | 31,0
 Secondaire 1, Collège
-Coût unitaire de construction | 12 000
-Nombre de salles à construire par an | 621
-Dépenses en Capital (y compris système et entretien) | 8,4
+Coût unitaire de construction |  | 12 000
+Nombre de salles à construire par an |  | 621
+Dépenses en Capital (y compris système et entretien) |  | 8,4
 Secondaire 2, Lycée
-Coût unitaire de construction | 12 000
-Nombre de salles à construire par an | 92
-Dépenses en Capital (y compris système et entretien) | 1,4
+Coût unitaire de construction |  | 12 000
+Nombre de salles à construire par an |  | 92
+Dépenses en Capital (y compris système et entretien) |  | 1,4
 Autres (formation des maîtres, technique, ..)
-Dépenses en Capital (y compris système et entretien) | 4,2
-Total des dépenses en capital | 44,9
+Dépenses en Capital (y compris système et entretien) |  | 4,2
+Total des dépenses en capital |  | 44,9
 
 55
 
@@ -1814,21 +1837,21 @@ Objectif général : Contribuer à l'atteinte d'une scolarisation primaire unive
 
 Composantes | Objectifs spécifiques | Résultats attendus | Logique d'intervention | Activités | Indicateurs de performance | Echéance (PTA) | Responsable | En rapport avec …
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-ACCES | Accroître l'accès à tous les niveaux de | Les capacités d'accueil sont accrues | Planif. négociée | Mise en œuvre de la carte scolaire avec les communautés | Au moins 80% des constructions conformes à la CS | 1 - 3 | MENRS/SSP | CL + DPE + IE
-Contractualisation | Réalisation d'infrastructures pour tous les niveaux du système éducatif | 90% prévisions dans délais | 1 - 3 | MENRS/SNIE | PTFs - CL - ONG
-Contractualisation | Acquisition de mobiliers et équipements | 90% prévisions dans délais | 1 - 3 | MENRS/SNIE
-Sélection | Recrutement du personnel enseignant | Au - moins 95% recrues par formations initiales | 1 - 3 | MENRS/DRH | MEFRA - CB -
-l'éducation | Des approches alternatives sont mises en œuvre | Recherche-Action | Mise en œuvre d'un dispositif de formation diversifiée | Au moins 4/6 composantes fonctionnelles | 1 - 3 | MENRS | PTF - M. Techniques
-Recherche-Action | Implantation de nouvelles filières de formation professionnelle | + 30% nouvelles filières | MENRS | Secteurs privé - Informel
-Mob. sociale | Poursuite des programmes genre et équité | Résorption d'un 1/3 du gap par PAT | 1 - 3 | CNE | APEAE - ONG - CL
-Marketing socio- administratif | Mise en œuvre des programmes d'éducation spéciale | Croît de 20% / PTA | 1 - 3 | ??? | UNICEF - ONG
+ACCES | Accroître l'accès à tous les niveaux de l'éducation | Les capacités d'accueil sont accrues | Planif. négociée | Mise en œuvre de la carte scolaire avec les communautés | Au moins 80% des constructions conformes à la CS | 1 - 3 | MENRS/SSP | CL + DPE + IE
+ |  |  | Contractualisation | Réalisation d'infrastructures pour tous les niveaux du système éducatif | 90% prévisions dans délais | 1 - 3 | MENRS/SNIE | PTFs - CL - ONG
+ |  |  | Contractualisation | Acquisition de mobiliers et équipements | 90% prévisions dans délais | 1 - 3 | MENRS/SNIE |
+ |  |  | Sélection | Recrutement du personnel enseignant | Au - moins 95% recrues par formations initiales | 1 - 3 | MENRS/DRH | MEFRA - CB -
+ |  | Des approches alternatives sont mises en œuvre | Recherche-Action | Mise en œuvre d'un dispositif de formation diversifiée | Au moins 4/6 composantes fonctionnelles | 1 - 3 | MENRS | PTF - M. Techniques
+ |  |  | Recherche-Action | Implantation de nouvelles filières de formation professionnelle | + 30% nouvelles filières |  | MENRS | Secteurs privé - Informel
+ |  |  | Mob. sociale | Poursuite des programmes genre et équité | Résorption d'un 1/3 du gap par PAT | 1 - 3 | CNE | APEAE - ONG - CL
+ |  |  | Marketing socio-administratif | Mise en œuvre des programmes d'éducation spéciale | Croît de 20% / PTA | 1 - 3 | ??? | UNICEF - ONG
 QUALITE | Améliorer la qualité de l'éducation | La formation initiale et continue des enseignants est mieux assurée | Planif. concertée | Implantation des nouveaux programmes de formation des formateurs | Au moins 75 % formateurs concernés | 1- 2 | MENRS | Entreprises
-Contractualisation | Equipement en intrants pédagogiques des structures de formation | 90% prévisions dans délais | 1 - 2 | MENRS | MF - PTF
-Form. diplômante | Formation académique et professionnelle des candidats recrutés | Au moins 95% de taux de réussite | 1 - 3 | MENRS/DT | MEFP - M. Techniques
-Form. qualifiante | Formation continue des enseignants | Au moins 80% des enseignants | 1 - 3 | MENRS/SNFP P | PTF - IRE - DPE - DSEE
-Un meilleur suivi de | Suivi évaluatif | Mise en œuvre d'un plan annuel de suivi /encadrement des enseignants | Au moins 80% enseignants encadrés | 1 - 3 | DSEE | IRE - DPE
-l'enseignement apprentissage | Recherche-Action | Evaluation périodique des performances des apprenants et enseignants | Au + 2 / durée PSE | 1 - 3 | CNCESE
-est assuré | Form. Qualifiante | Formation en mesure et évaluation des enseignants et encadreurs | 6 sessions | 1- 2 | ISSEG | CNCESE
+ |  |  | Contractualisation | Equipement en intrants pédagogiques des structures de formation | 90% prévisions dans délais | 1 - 2 | MENRS | MF - PTF
+ |  |  | Form. diplômante | Formation académique et professionnelle des candidats recrutés | Au moins 95% de taux de réussite | 1 - 3 | MENRS/DT | MEFP - M. Techniques
+ |  |  | Form. qualifiante | Formation continue des enseignants | Au moins 80% des enseignants | 1 - 3 | MENRS/SNFPP | PTF - IRE - DPE - DSEE
+ |  | Un meilleur suivi de l'enseignement apprentissage est assuré | Suivi évaluatif | Mise en œuvre d'un plan annuel de suivi /encadrement des enseignants | Au moins 80% enseignants encadrés | 1 - 3 | DSEE | IRE - DPE
+ |  |  | Recherche-Action | Evaluation périodique des performances des apprenants et enseignants | Au + 2 / durée PSE | 1 - 3 | CNCESE |
+ |  |  | Form. Qualifiante | Formation en mesure et évaluation des enseignants et encadreurs | 6 sessions | 1- 2 | ISSEG | CNCESE
 
 57
 
@@ -1836,16 +1859,15 @@ est assuré | Form. Qualifiante | Formation en mesure et évaluation des enseign
 
 [[START OF PAGE 59]]
 
-Form. diplômante | Formation de nouvelles cohortes d'inspecteurs d'enseignement | 120 du primaire et secondaire | 1 - 3 | ISSEG | IGE
---- | --- | --- | --- | --- | --- | --- | --- | ---
-GESTION | Renforcer le dispositif | Une meilleure allocation des ressources est réalisée | Planif. stratégique | Mise en œuvre d'un plan stratégique de développement du secteur | PSE adopté et mis en œuvre | 1 - 3 | MENRS | PTF et autres partenaires
-Lobbying | Mobilisation de ressources diversifiées | Au moins 90% des prévisions mis à disposition | 1 - 3 | CN/PSE | MEFP
-Planif./Gestion participat. | Mise en place d'un système des gestions des ressources humaines | 1 fichier unifié et fonctionnel | 1 | DRH | MFP - MEFP
-Mob. sociale | Mise en œuvre des plans locaux de développement de l'éducation | 38 PPDE /PCDE | 1 - 2 | DPE | IRE - CDMT - SSP
-de gestion du système éducatif | Un mécanisme de suivi du rendement au | Négociation admin. + Décision | Mise en place d'une structure de suivi-évaluation | 1 Cellule suivi- évaluation PSE fonctionnelle | 1 | CN/PSE | PTF - MEFP
-Recherche-Action | Elaboration d'outils de suivi et évaluation du rendement du système | 1 évaluation du système | 2 | CN/PSE | MEFP - PTF - autres partenaires
-système est mis en place | Concertation admin. | Mise en place d'un cadre de concertation au sein du MENRS | 1 concertation / trimestre | 1 - 3 | SG/MENRS | CN/PSE - DT
-Mob. sociale | Mise en place d'une stratégie de communication | 1 plan com fonctionnel mis en œuvre | 1 - 3 | SNIDA | CN/PSE - Médias
+ |  |  | Form. diplômante | Formation de nouvelles cohortes d'inspecteurs d'enseignement | 120 du primaire et secondaire | 1 - 3 | ISSEG | IGE
+GESTION | Renforcer le dispositif de gestion du système éducatif | Une meilleure allocation des ressources est réalisée | Planif. stratégique | Mise en œuvre d'un plan stratégique de développement du secteur | PSE adopté et mis en œuvre | 1 - 3 | MENRS | PTF et autres partenaires
+ |  |  | Lobbying | Mobilisation de ressources diversifiées | Au moins 90% des prévisions mis à disposition | 1 - 3 | CN/PSE | MEFP
+ |  |  | Planif./Gestion participat. | Mise en place d'un système des gestions des ressources humaines | 1 fichier unifié et fonctionnel | 1 | DRH | MFP - MEFP
+ |  |  | Mob. sociale | Mise en œuvre des plans locaux de développement de l'éducation | 38 PPDE /PCDE | 1 - 2 | DPE | IRE - CDMT - SSP
+ |  | Un mécanisme de suivi du rendement au système est mis en place | Négociation admin. + Décision | Mise en place d'une structure de suivi-évaluation | 1 Cellule suivi-évaluation PSE fonctionnelle | 1 | CN/PSE | PTF - MEFP
+ |  |  | Recherche-Action | Elaboration d'outils de suivi et évaluation du rendement du système | 1 évaluation du système | 2 | CN/PSE | MEFP - PTF - autres partenaires
+ |  |  | Concertation admin. | Mise en place d'un cadre de concertation au sein du MENRS | 1 concertation / trimestre | 1 - 3 | SG/MENRS | CN/PSE - DT
+ |  |  | Mob. sociale | Mise en place d'une stratégie de communication | 1 plan com fonctionnel mis en œuvre | 1 - 3 | SNIDA | CN/PSE - Médias
 
 58
 
@@ -1853,29 +1875,29 @@ Mob. sociale | Mise en place d'une stratégie de communication | 1 plan com fonc
 
 [[START OF PAGE 60]]
 
+## Annexe 3 : Domaines d'intervention des PTF au cours de l'EPT 1 (2002-2007)
+
 DOMAINES D'INTERVENTION | NIVEAUX/VOLETS | PARTENAIRES
 --- | --- | ---
-ACCES : CONSTRUCTION EQUIPEMENT D'INFRASTRUCTURES SCLOAIRES | PRÉSCOLAIRE | UNICEF, IDA
-PRIMAIRE | AFD/AEA, UE (PASEB), IDA, KFW, PLAN GUINÉE, BAD, JICA, BID
-SECONDAIRE | PLAN GUINÉE, IDA, FSD, BAD, JICA, FKD
-ENSEIGNEMENT TECHNIQUE, Y COMPRIS ENI | ACDI, IDA, BAD, JICA
+ACCES : CONSTRUCTION ET EQUIPEMENT D'INFRASTRUCTURES SCLOAIRES | PRÉSCOLAIRE | UNICEF, IDA
+ | PRIMAIRE | AFD/AEA, UE (PASEB), IDA, KFW, PLAN GUINÉE, BAD, JICA, BID
+ | SECONDAIRE | PLAN GUINÉE, IDA, FSD, BAD, JICA, FKD
+ | ENSEIGNEMENT TECHNIQUE, Y COMPRIS ENI | ACDI, IDA, BAD, JICA
 QUALITÉ | FORMATION INITIALE DES ENSEIGNANTS DU PRIMAIRE | USAID, IDA, UNESCO
-FORMATION CONTINUE DES MAITRES | GTZ, AEA, PLAN GUINÉE, UNICEF, IDA
-PROJETS D'ECOLES PRIMAIRES | IDA, UE, AFC/AEA
-PROJETS D'ECOLES SECONDAIRES | IDA
-RÉNOVATION CURRICULAIRE | IDA, USAID, AEA
-PÉDAGOGIE CONVERGENTE | IDA, AEA, SCHOOL-TO- SCHOOL (USA)
-STRATÉGIE D'ENSEIGNEMENT MULTIGRADE | IDA, USAID, AEA
-MANUELS SCOLAIRES | IDA, UNICEF, USAID, BAD
-SANTÉ SCOLAIRE | IDA, UNICEF, PAM
-ENSEIGNEMENT TECHNIQUE ET PROFESSIONNEL | ACDI, IDA
-ENSEIGNEMENT SUPÉRIEUR ET RECHERCHE TECHNIQUE | IDA, COOP. FRANÇAISE
-ALPHABÉTISATION ET EDUCATION NON FORMELLE | IDA, UNICEF
+ | FORMATION CONTINUE DES MAITRES | GTZ, AEA, PLAN GUINÉE, UNICEF, IDA
+ | PROJETS D'ECOLES PRIMAIRES | IDA, UE, AFC/AEA
+ | PROJETS D'ECOLES SECONDAIRES | IDA
+ | RÉNOVATION CURRICULAIRE | IDA, USAID, AEA
+ | PÉDAGOGIE CONVERGENTE | IDA, AEA, SCHOOL-TO-SCHOOL (USA)
+ | STRATÉGIE D'ENSEIGNEMENT MULTIGRADE | IDA, USAID, AEA
+ | MANUELS SCOLAIRES | IDA, UNICEF, USAID, BAD
+ | SANTÉ SCOLAIRE | IDA, UNICEF, PAM
+ | ENSEIGNEMENT TECHNIQUE ET PROFESSIONNEL | ACDI, IDA
+ | ENSEIGNEMENT SUPÉRIEUR ET RECHERCHE TECHNIQUE | IDA, COOP. FRANÇAISE
+ | ALPHABÉTISATION ET EDUCATION NON FORMELLE | IDA, UNICEF
 GESTION | GESTION DÉCENTRALISÉE | USAID, AFD, UE, AEA
-PARTICIPATION COMMUNAUTAIRE | USAID, IDA, UNICEF, AEA, PLAN GUINÉE
-STATISTIQUE ET PLANIFICATION | USAID, IDA, GTZ, UNESCO
-
-## Annexe 3 : Domaines d'intervention des PTF au cours de l'EPT 1 (2002-2007)
+ | PARTICIPATION COMMUNAUTAIRE | USAID, IDA, UNICEF, AEA, PLAN GUINÉE
+ | STATISTIQUE ET PLANIFICATION | USAID, IDA, GTZ, UNESCO
 
 59
 
@@ -1907,23 +1929,27 @@ SEPTEMBRE 2007
 
 [[START OF PAGE 62]]
 
+CADRE DE PARTENARIAT
+
 ENTRE
 
-Le  Gouvernement  de  la  Guinée  («Gouvernement»)  représenté  par  le  Ministre  de l'Education Nationale et de la Recherche Scientifique (« MENRS ») et par le Ministre de l'Economie, des Finances et du Plan (« MEFP ») ; Et,
+Le Gouvernement de la Guinée («Gouvernement») représenté par le Ministre de l'Education Nationale et de la Recherche Scientifique («MENRS») et par le Ministre de l'Economie, des Finances et du Plan («MEFP») ;
 
-Les Partenaires Techniques et Financiers (« PTF »), listés parmi les Signataires ;
+Et,
 
-(Ci-après collectivement, les « Signataires »)
+Les Partenaires Techniques et Financiers («PTF»), listés parmi les Signataires ;
+
+(Ci-après collectivement, les «Signataires»)
 
 ## CONTEXTE
 
 Le développement de l'éducation, notamment de l'éducation de base, est l'un des éléments fondamentaux de la stratégie guinéenne de réduction de la pauvreté.
 
-La  mise  en  oeuvre  du  développement  de  l'éducation  évolue  vers  une  approche programme visant l'ensemble des activités du secteur tout en conservant la priorité à l'éducation  de  base.  Le  Gouvernement  s'est  engagé  dans  cette  démarche  dès  la préparation du Programme Education pour Tous (PEPT) qui a démarré en 2001, et en présentant une requête pour bénéficier de la Procédure Accélérée en faveur de l'Éducation Pour Tous (Fast Track Initiative).
+La mise en oeuvre du développement de l'éducation évolue vers une approche programme visant l'ensemble des activités du secteur tout en conservant la priorité à l'éducation de base. Le Gouvernement s'est engagé dans cette démarche dès la préparation du Programme Education pour Tous (PEPT) qui a démarré en 2001, et en présentant une requête pour bénéficier de la Procédure Accélérée en faveur de l'Éducation Pour Tous (Fast Track Initiative).
 
-Le Gouvernement a renforcé cette approche sectorielle de même que la concertation avec  l'ensemble  des  PTF  pour  la  préparation  et  la  finalisation  des  nouveaux documents  de  base  du  secteur.  Il  s'agit  de  la  Lettre  de  Politique  Sectorielle  de l'Education  de  2007,  du  Cadre  Logique  de  l'Education  de  2007  et  du  Programme Sectoriel de l'Education (PSE), programme triennal glissant dont le premier débute en 2008.
+Le Gouvernement a renforcé cette approche sectorielle de même que la concertation avec l'ensemble des PTF pour la préparation et la finalisation des nouveaux documents de base du secteur. Il s'agit de la Lettre de Politique Sectorielle de l'Education de 2007, du Cadre Logique de l'Education de 2007 et du Programme Sectoriel de l'Education (PSE), programme triennal glissant dont le premier débute en 2008.
 
-Ce  cadrage  du  secteur  éducation  est  cohérent  avec  les  Objectifs  Du  Millénaire (Dakar  2000)  et  avec  le  Document  de  Stratégie  de  Réduction  de  la  Pauvreté (DSRP2),  approuvé  en  juillet  2007,  qui  lui  fixent,  entre  autres,  pour  objectifs principaux,  le  « développement  des  services  de  base  et  l'accès  équitable  à  ces services ».
+Ce cadrage du secteur éducation est cohérent avec les Objectifs Du Millénaire (Dakar 2000) et avec le Document de Stratégie de Réduction de la Pauvreté (DSRP2), approuvé en juillet 2007, qui lui fixent, entre autres, pour objectifs principaux, le « développement des services de base et l'accès équitable à ces services ».
 
 Les trois objectifs de développement retenus pour le secteur sont :
 
@@ -1932,8 +1958,6 @@ Les trois objectifs de développement retenus pour le secteur sont :
 - l'amélioration de la qualité et
 
 - le renforcement de la gestion.
-
-CADRE DE PARTENARIAT
 
 61
 
@@ -1983,7 +2007,7 @@ L'utilisation  du  Fonds  Commun  du  PSE  est  ouverte  à  tous  les  PTF  sig
 
 ### Pilotage
 
-Des instances de pilotage nationale (Conseil National de Pilotage de l'Education CNPE),  régionales  (Comités  Régionaux  de  Pilotage  de  l'Education  -  CRPE)  et préfectorales (Comités Préfectoraux de Pilotage de l'Education - CPPE), associant les Signataires et la société civile, sont créées pour définir les orientations politiques et  stratégiques  ainsi  que  pour  effectuer  le  suivi  évaluation  du  PSE.  Ces  instances approuvent  les  Cadres  de  Dépenses  à  Moyen  Terme  de  l'Education,  elles  traitent des questions nécessitant des décisions interministérielles et assurent la cohérence des interventions des PTF avec les objectifs et les procédures du PSE.
+Des instances de pilotage nationale (Conseil National de Pilotage de l'Education – CNPE), régionales (Comités Régionaux de Pilotage de l'Education – CRPE) et préfectorales (Comités Préfectoraux de Pilotage de l'Education – CPPE), associant les Signataires et la société civile, sont créées pour définir les orientations politiques et stratégiques ainsi que pour effectuer le suivi évaluation du PSE. Ces instances approuvent les Cadres de Dépenses à Moyen Terme de l'Education, elles traitent des questions nécessitant des décisions interministérielles et assurent la cohérence des interventions des PTF avec les objectifs et les procédures du PSE.
 
 ### Coordination stratégique et opérationnelle
 
@@ -2096,17 +2120,17 @@ Pour l'Ambassade des Etats Unis d'Amérique | Pour l'Ambassade du Japon
 
 [[START OF PAGE 68]]
 
-Pour l'Ambassade du Canada Pour la Délégation de l'Union Européenne
+Pour l'Ambassade du Canada | Pour la Délégation de l'Union Européenne
 
-Pour l'Ambassade de l'Arabie Saoudite Pour l'Ambassade du Koweït
+Pour l'Ambassade de l'Arabie Saoudite | Pour l'Ambassade du Koweït
 
-Pour l'UNICEF Pour le P.A.M.
+Pour l'UNICEF | Pour le P.A.M.
 
-Pour l'UNESCO Pour la Banque Mondiale
+Pour l'UNESCO | Pour la Banque Mondiale
 
-Pour la Banque Islamique de Développement Pour la Banque Africaine de Développement
+Pour la Banque Islamique de Développement | Pour la Banque Africaine de Développement
 
-Pour la K.F.W. Pour l'Agence Française de Développement
+Pour la K.F.W. | Pour l'Agence Française de Développement
 
 67
 
@@ -2114,9 +2138,9 @@ Pour la K.F.W. Pour l'Agence Française de Développement
 
 [[START OF PAGE 69]]
 
-Pour l'U. S. A .I. D. Pour la G.T.Z.
+Pour l'U. S. A .I. D. | Pour la G.T.Z.
 
-Pour le Fonds Koweitien de Développement Arabe Pour la J.I.C.A.
+Pour le Fonds Koweitien de Développement Arabe | Pour la J.I.C.A.
 
 Pour le Fonds Saoudien de Développement
 
@@ -2156,7 +2180,7 @@ INDICATEUR | 2005 | 2010 | 2012 | 2015
 (1) Part des dépenses courantes d'éducation dans les recettes intérieures de l'Etat | 14,4% | 18,1% | 19,6% | 22%
 (1) Part des dépenses courantes du primaire dans les dépenses courantes d'éducation | 37% | 43,7% | 45% | 50%
 (1) Taux de scolarisation préscolaire (4-5 ans) | 15,4% | 22,9% | 26,1% | 30,6%
-(1) Taux d'accès en 1 ère année du primaire | 75% | 88% | 93% | 100%
+(1) Taux d'accès en 1ère année du primaire | 75% | 88% | 93% | 100%
 (1) Taux d'achèvement du cycle primaire (accès en CM2) | 55% | 71% | 77% | 88%
 (1) Taux de transition du primaire au collège | 78% | 65% | 60% | 60%
 (1) Taux brut de scolarisation au Collège | 38% | 44% | 45% | 51%
@@ -2164,21 +2188,22 @@ INDICATEUR | 2005 | 2010 | 2012 | 2015
 (1) Taux brut de scolarisation au Lycée | 20% | 20% | 18% | 16%
 (1) Nombre d'élèves en ETFP pour 100 000 habitants | 126 | 203 | 301 | 495
 (1) Nombre d'étudiants pour 100 000 habitants | 339 | 441 | 400 | 339
-(2) Taux d'alphabétisation des adultes dont | 35% | 50% 40%
+(2) Taux d'alphabétisation des adultes | 35% |  |  | 50%
+dont femmes |  |  |  | 40%
 (3) Indice de parité filles/garçons au primaire | 0,81 | 0,92 | 0,97 | 1
 (3) Indice de parité filles/garçons au secondaire général (collège et lycée) | - | 0,66 | 0,74 | 0,84
-(4) Elèves de 4 ème année ayant un niveau acceptable en français | 50% | 53%
-(4) Elèves de 4 ème année ayant un niveau acceptable en calcul | 51,4% | 57%
+(4) Elèves de 4ème année ayant un niveau acceptable en français | 50% | 53% |  | 
+(4) Elèves de 4ème année ayant un niveau acceptable en calcul | 51,4% | 57% |  | 
 
 Sources :
 
-- Simulation financière à l'horizon 2015 scénario 4 du 20 septembre 2007
+(1) Simulation financière à l'horizon 2015 scénario 4 du 20 septembre 2007
 
-- Service National d'Alphabétisation / MENRS
+(2) Service National d'Alphabétisation / MENRS
 
-- Service des Statistiques et de la Planification / MENRS
+(3) Service des Statistiques et de la Planification / MENRS
 
-- Cellule Nationale de la Coordination et de l'Evaluation du Système Educatif / MENRS
+(4) Cellule Nationale de la Coordination et de l'Evaluation du Système Educatif / MENRS
 
 70
 
@@ -2188,209 +2213,37 @@ Sources :
 
 ## NOTE 3 : CALENDRIER DES REVUES CONJOINTES GOUVERNEMENT - PTF
 
-Année d'exécution
-
-2
-
-0
-
-0
-
-7
-
-2
-
-0
-
-0
-
-8
-
-2
-
-0
-
-0
-
-9
-
-2
-
-0
-
-1
-
-0
-
-Année
-
-de
-
-réfé
-
-rence
-
-Activité
-
-septembre
-
-octobre
-
-novembre
-
-décembre
-
-janvier
-
-février
-
-mars
-
-avril
-
-mai
-
-juin
-
-juillet
-
-août
-
-septembre
-
-octobre
-
-novembre
-
-décembre
-
-janvier
-
-février
-
-mars
-
-avril
-
-mai
-
-juin
-
-juillet
-
-août
-
-septembre
-
-octobre
-
-novembre
-
-décembre
-
-janvier
-
-février
-
-mars
-
-avril
-
-mai
-
-juin
-
-juillet
-
-août
-
-septembre
-
-octobre
-
-novembre
-
-décembre
-
-2008
-
-Approbation CDMTE
-
-2008
-
-Validation PAAB
-
-2008
-
-Examen Loi de Finances et approbation PAAB
-
-2008
-
-Revue annuelle conjointe Gouvernement PTF
-
-2009
-
-Approbation CDMTE
-
-2008
-
-Remise Rapports de suivi du premier Semestre
-
-2009
-
-Validation PAAB
-
-2009
-
-Examen Loi de Finances et approbation PAAB
-
-2008
-
-Remise Rapports de suivi annuels
-
-2009
-
-Revue annuelle conjointe Gouvernement PTF
-
-2010
-
-Approbation CDMTE
-
-2009
-
-Remise Rapports de suivi du premier Semestre
-
-2010
-
-Validation PAAB
-
-2010
-
-Examen Loi de Finances et approbation PAAB
-
-2009
-
-Remise Rapports de suivi annuels
-
-2010
-
-Revue annuelle conjointe Gouvernement PTF
-
-2011
-
-Approbation CDMTE
-
-2010
-
-Remise Rapports de suivi du premier Semestre
+Année de référence | Activité | Année d'exécution
+ |  | 2007 : septembre, octobre, novembre, décembre
+ |  | 2008 : janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre, décembre
+ |  | 2009 : janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre, décembre
+ |  | 2010 : janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre, décembre
+2008 | Approbation CDMTE | octobre 2007
+2008 | Validation PAAB | octobre 2007
+2008 | Examen Loi de Finances et approbation PAAB | décembre 2007
+2008 | Revue annuelle conjointe Gouvernement PTF | mai 2008
+2009 | Approbation CDMTE | mai 2008
+2008 | Remise Rapports de suivi du premier Semestre | août 2008
+2009 | Validation PAAB | septembre 2008
+2009 | Examen Loi de Finances et approbation PAAB | décembre 2008
+2008 | Remise Rapports de suivi annuels | février 2009
+2009 | Revue annuelle conjointe Gouvernement PTF | mai 2009
+2010 | Approbation CDMTE | mai 2009
+2009 | Remise Rapports de suivi du premier Semestre | août 2009
+2010 | Validation PAAB | septembre 2009
+2010 | Examen Loi de Finances et approbation PAAB | décembre 2009
+2009 | Remise Rapports de suivi annuels | février 2010
+2010 | Revue annuelle conjointe Gouvernement PTF | mai 2010
+2011 | Approbation CDMTE | mai 2010
+2010 | Remise Rapports de suivi du premier Semestre | août 2010
 
 Notes :
 
-- 1 - L'approbation des CDMT Education par les PTF est faite au cours de la revue conjointe ou à sa suite.
+1 - L'approbation des CDMT Education par les PTF est faite au cours de la revue conjointe ou à sa suite.
 
-- 2 - Les Rapports de suivis comprennent les Rapports d'avancement physique et les Rapports d'exécution financière.
+2 – Les Rapports de suivis comprennent les Rapports d'avancement physique et les Rapports d'exécution financière.
 
-- 3 - Les Rapports trimestriels relatifs à la gestion du Fonds Commun sont transmis aux  PTF qui y contribuent.
+3 – Les Rapports trimestriels relatifs à la gestion du Fonds Commun sont transmis aux PTF qui y contribuent.
 
 71
 
