@@ -18,9 +18,27 @@ Monaco - novembre 2020
 
 ## Sommaire
 
-la
-
-la
+Préambule.............................................................................................................................................2
+I. Renseignements sur les mesures législatives, judiciaires, administratives ou autres prises par l’État
+au niveau national ................................................................................................................................3
+1. Ratification de la Convention ......................................................................................................3
+2. Ratification du Protocole instituant une Commission de conciliation et de bons offices............3
+3. Cadre juridique régissant la protection des droits garantis par la Convention et la
+Recommandation dans le système juridique national......................................................................3
+II. Renseignements sur l’application de la Convention ou de la Recommandation ............................7
+1. Non-discrimination et égalité des chances en matière d’éducation dans le cadre de l’Objectif
+de développement durable 4 (ODD4)..............................................................................................7
+2. Progrès accomplis dans la mise en œuvre du droit à l’éducation dans le cadre de l’ODD4..10
+III. Moyens mis en place pour sensibiliser les pouvoirs publics à la Convention et à la
+Recommandation et lever les obstacles à leur mise en œuvre ...........................................................20
+1. Difficultés et obstacles...........................................................................................................20
+2. Sensibilisation ........................................................................................................................20
+Conclusion .........................................................................................................................................20
+Annexes.................................................................................................................................................i
+A. Population ....................................................................................................................................i
+B. Résultats aux examens.................................................................................................................v
+C. Enseignement des langues..........................................................................................................vi
+D. Organisation de l’enseignement supérieur à Monaco ...............................................................vii
 
 1
 
@@ -166,14 +184,14 @@ Articles (Loi 1.334) | Articles (CLDE) | Principes
 
 Tableau 3 Textes d'applications relatifs aux articles de la Loi n° 1.334 du 12/07/2007 sur l'éducation et en rapport avec la CLDE
 
-Textes d'application | Références (Loi 1.334) | Description
---- | --- | --- | ---
-AM 2008-13 11/12/2008 | du | 10 | Enseignement pré-primaire : Article 1 - accès réservé en priorité aux Monégasques, puis aux résidents étrangers et enfin aux étrangers à l'extérieur de Monaco en fonction des places offertes dans les établissements. Article 3 - Un projet d'accueil individualisé est prévu pour les enfants souffrant de handicap ou de trouble de la santé invalidant.
-AM 2015-516 13/08/2015 - AM 2015-517 13/08/2015 | du du | 43, 44 | Fonctionnement et composition des conseils d'orientation et de la Commission Supérieure d'Orientation. Cette dernière Commission assure le droit d'appel de tous les élèves à travers leurs responsables légaux, des décisions d'orientation qui sont prises à leur sujet.
-AM 2019-1059 16/12/2019 | du | 45 | Règlement d'attribution des bourses de perfectionnement et de spécialisation dans les langues étrangères. Les critères d'attribution prennent en compte la nationalité des demandeurs. Titre I Article 2 : Monégasques, conjoints étrangers de Monégasques, étrangers dépendant de Monégasque, étrangers dont un parent est agent public, résidents étrangers à Monaco depuis plus de 10 ans. Cela pourrait constituer une discrimination au titre l'article III de la Convention. Toutefois, Monaco permet aux étrangers sur son territoire et même hors de son territoire de percevoir des bourses sous certaines conditions.
-AM 2020-326 17/04/2020 | du | 45 | Approuvant le règlement des bourses d'études. Voir au-dessus AM 2019-1059.
-AM 2020-327 17/04/2020 | du | 45 | Portant modification du règlement d'attribution des bourses de stages. Voir au-dessus AM 2019-1059. À noter que les personnes dont un parent est agent public ne peuvent pas percevoir cette bourse.
-AM 2019-642, 644, 645, 646, 648, 649, 650, 652, 653, 654 31/07/2019 | 643, 647, 651, du | 49, 50 | Arrêtés adoptant le règlement intérieur de chaque établissement d'enseignement public ou privé sous contrat de la Principauté de Monaco, établis sur un modèle-type selon les dispositions de l'article 50 de la Loi 1.334 du 12/07/2007 sur l'éducation. On notera spécifiquement mentionné dans les chapitres 3 article 21 le droit au respect, ainsi que dans l'article 22 c) le respect d'autrui et « le refus de la violence sous toutes ses formes ».
+Textes d’application | Références (Loi 1.334) | Description
+--- | --- | ---
+AM 2008-13 du 11/12/2008 | 10 | Enseignement pré-primaire : Article 1 – accès réservé en priorité aux Monégasques, puis aux résidents étrangers et enfin aux étrangers à l’extérieur de Monaco en fonction des places offertes dans les établissements. Article 3 – Un projet d’accueil individualisé est prévu pour les enfants souffrant de handicap ou de trouble de la santé invalidant.
+AM 2015-516 du 13/08/2015 - AM 2015-517 du 13/08/2015 | 43, 44 | Fonctionnement et composition des conseils d’orientation et de la Commission Supérieure d’Orientation. Cette dernière Commission assure le droit d’appel de tous les élèves à travers leurs responsables légaux, des décisions d’orientation qui sont prises à leur sujet.
+AM 2019-1059 du 16/12/2019 | 45 | Règlement d’attribution des bourses de perfectionnement et de spécialisation dans les langues étrangères. Les critères d’attribution prennent en compte la nationalité des demandeurs. Titre I Article 2 : Monégasques, conjoints étrangers de Monégasques, étrangers dépendant de Monégasque, étrangers dont un parent est agent public, résidents étrangers à Monaco depuis plus de 10 ans. Cela pourrait constituer une discrimination au titre l’article III de la Convention. Toutefois, Monaco permet aux étrangers sur son territoire et même hors de son territoire de percevoir des bourses sous certaines conditions.
+AM 2020-326 du 17/04/2020 | 45 | Approuvant le règlement des bourses d’études. Voir au-dessus AM 2019-1059.
+AM 2020-327 du 17/04/2020 | 45 | Portant modification du règlement d’attribution des bourses de stages. Voir au-dessus AM 2019-1059. À noter que les personnes dont un parent est agent public ne peuvent pas percevoir cette bourse.
+AM 2019-642, 643, 644, 645, 646, 647, 648, 649, 650, 651, 652, 653, 654 du 31/07/2019 | 49, 50 | Arrêtés adoptant le règlement intérieur de chaque établissement d’enseignement public ou privé sous contrat de la Principauté de Monaco, établis sur un modèle-type selon les dispositions de l’article 50 de la Loi 1.334 du 12/07/2007 sur l’éducation. On notera spécifiquement mentionné dans les chapitres 3 article 21 le droit au respect, ainsi que dans l’article 22 c) le respect d’autrui et « le refus de la violence sous toutes ses formes ».
 
 AM = Arrêté Ministériel
 
@@ -187,12 +205,12 @@ Note 1 :  Concernant les Arrêtés Ministériels sur l'enseignement pré-primair
 
 Note  2 :  On  remarquera  pour  l'accès  à  l'enseignement  pré-primaire,  la  mention  explicite  de l'obligation d'accueillir et de favoriser l'éducation des personnes atteintes de handicap et de troubles de santé invalidants. De même,  les règlements intérieurs des établissements mentionnent explicitement le droit au respect et l'obligation  de respecter autrui avec le bannissement de toute forme de violences et de harcèlement en écho à l'article I.1.d. de la Convention.
 
-Traités internationaux relatifs à l'éducation | Ratification | Description
---- | --- | ---
-Accord du 07/06/1994 entre la Principauté de Monaco et la République française dans le domaine de l'enseignement | OS n°15.455 du 08/08/2002 | Établit le lien entre l'éducation monégasque et l'éducation française, notamment en termes d'organisation de l'éducation et de contenus enseignés. Fixe les dispositions de détachement des personnels d'enseignement français au sein du système d'éducation monégasque.
-Accord du 11/06/2004 entre le Gouvernement et la Principauté de Monaco et le Gouvernement de la République Française relatif à la reconnaissance mutuelle des formations d'enseignement supérieur artistique (spécialité : Arts Plastiques) | OS 172 du 30/08/2005 | Reconnaissance mutuelle des diplômes de l'École Supérieure d'Arts Plastiques. Coopération entre la France et Monaco dans l'évaluation et le suivi de la qualité de l'enseignement.
+Tableau 4 Traités internationaux relatifs à l’éducation
 
-Tableau 4 Traités internationaux relatifs à l'éducation
+Traités internationaux relatifs à l’éducation | Ratification | Description
+--- | --- | ---
+Accord du 07/06/1994 entre la Principauté de Monaco et la République française dans le domaine de l’enseignement | OS n°15.455 du 08/08/2002 | Établit le lien entre l’éducation monégasque et l’éducation française, notamment en termes d’organisation de l’éducation et de contenus enseignés. Fixe les dispositions de détachement des personnels d’enseignement français au sein du système d’éducation monégasque.
+Accord du 11/06/2004 entre le Gouvernement et la Principauté de Monaco et le Gouvernement de la République Française relatif à la reconnaissance mutuelle des formations d’enseignement supérieur artistique (spécialité : Arts Plastiques) | OS 172 du 30/08/2005 | Reconnaissance mutuelle des diplômes de l’École Supérieure d’Arts Plastiques. Coopération entre la France et Monaco dans l’évaluation et le suivi de la qualité de l’enseignement.
 
 OS : Ordonnance souveraine
 
@@ -202,7 +220,7 @@ Sans objet
 
 ## II. Renseignements sur l'application de la Convention ou de la Recommandation
 
-### Non-discrimination et égalité des chances en matière d'éducation dans le cadre de l'Objectif de développement durable 4 (ODD4)
+### 1. Non-discrimination et égalité des chances en matière d’éducation dans le cadre de l’Objectif de développement durable 4 (ODD4)
 
 #### 1.1. Les  mesures  adoptées  pour  éliminer  et  prévenir  la  discrimination  dans  le domaine de l'enseignement au sens de la Convention / Recommandation
 
@@ -324,7 +342,7 @@ Afin d'éviter les décrochages scolaires, deux types de dispositifs répondant 
 
 Une cellule de coordination pour les élèves à besoin éducatif particulier a été créé en septembre 2016. Elle a notamment permis d'étendre les dispositifs qui existaient en primaire aux élèves du secondaire. Ainsi  depuis  2017,  chaque  niveau  de  collège  possède  une  classe  « d'adaptation »  permettant d'individualiser  le  parcours  des  élèves  présentant  des  troubles  des  apprentissages.  À  cela  vient s'ajouter une classe inclusive pour les élèves présentant des troubles cognitifs importants.
 
-### 2. Progrès accomplis dans la m ise en œuvre du droit à l'éducation dans le cadre de l'ODD4
+### 2. Progrès accomplis dans la mise en œuvre du droit à l’éducation dans le cadre de l’ODD4
 
 #### 2.1. Enseignement préprimaire
 
@@ -336,13 +354,13 @@ Garantis par les articles 27 et 32 de la Constitution, et les articles 3, 4, 5, 
 
 ##### Enseignement primaire
 
-L'enseignement primaire est -il obligatoire dans votre pays ? Réponse : Oui
+L’enseignement primaire est-il obligatoire dans votre pays ? Réponse : Oui
 
-L'enseignement primaire est formé de 5 niveaux et dure 5 ans. Tout enfant âgé de 6 ans est tenu de recevoir  une  instruction  et  de  ce  fait  accède  de  droit  à  l'enseignement  primaire.  L'enseignement public est accessible à tous gratuitement.
+L’enseignement primaire est formé de 5 niveaux et dure 5 ans. Tout enfant âgé de 6 ans est tenu de recevoir  une  instruction  et  de  ce  fait  accède  de  droit  à  l’enseignement  primaire.  L’enseignement public est accessible à tous gratuitement.
 
-###### Liste des lois et politi ques qui garantissent l'accès à un enseignement primaire universel et gratuit. Indiquer les coûts directs ou indirects à la charge des familles.
+###### Liste des lois et politiques qui garantissent l’accès à un enseignement primaire universel et gratuit. Indiquer les coûts directs ou indirects à la charge des familles.
 
-L'enseignement primaire est -il gratuit pour tous ? -Réponse : Oui
+L’enseignement primaire est-il gratuit pour tous ? – Réponse : Oui
 
 Aucun droit d'inscription, ni d'examen n'est perçu dans l'enseignement public. Les établissements privés sous contrat et privés hors contrat perçoivent des frais d'inscription et d'examens pour les derniers.
 
@@ -400,7 +418,7 @@ Le  lycée  comprend  trois  niveaux de  la  2 nde à  la  Terminale.  La  fin  
 
 12
 
-Législation définissant l'âge minimum d'admission à l'emploi Réponse : oui
+Législation définissant l’âge minimum d’admission à l’emploi – Réponse : oui
 
 L'âge minimum pour être admis dans un emploi est de 16 ans 12 , ce qui correspond également à la fin de la scolarité obligatoire. Toutefois, le mineur, hormis s'il est émancipé, ne peut signer de contrat de travail sans la présence et l'accord de son tuteur légal 13 .
 
@@ -426,13 +444,13 @@ Textes  juridiques  ou  politiques  garantissant  qu'aucune  discrimination  ou 
 
 Les dispositions de la Constitution et de la Loi n°1.334 du 12 juillet 2007 sur l'éducation s'appliquent à l'enseignement supérieur de la même manière que pour les enseignements des autres niveaux. Il n'y a donc pas de discrimination aux termes de la Convention.
 
-Veuillez indiquer les efforts fait par votre Gouvernement pour s'assurer que l'enseignement supérieur est accessible à tous dans des conditions d'égalité, en fonction des capacités de chacun et/ou est gratuit. -Réponses :
+Veuillez indiquer les efforts fait par votre Gouvernement pour s’assurer que l’enseignement supérieur est accessible à tous dans des conditions d’égalité, en fonction des capacités de chacun et/ou est gratuit. - Réponses :
 
--L'enseignement s upérieur est accessible en fonction des capacités de chacun, déterminées au vu des qualifications et de l'expérience
+-L’enseignement supérieur est accessible en fonction des capacités de chacun, déterminées au vu des qualifications et de l’expérience
 
--L'enseignement  supérieur  est  rendu  accessible  par  des  incitations  financières  et  des  bourses d'études
+-L’enseignement supérieur est rendu accessible par des incitations financières et des bourses d’études
 
--L'enseignement supérieur est accessib le par un système de transfert de crédits entre États
+-L’enseignement supérieur est accessible par un système de transfert de crédits entre États
 
 Voir au-dessus dans les § sur le BTS et DCG, l'IFSI, l'ESAP.
 
@@ -476,13 +494,13 @@ Compétence de la Direction du Travail, notamment l'aide de retour à l'activit�
 
 #### 2.5. Qualité du cadre d'enseignement et d'apprentissage
 
-Mesures  prises  par  votre  pays  pour  assurer  des  conditions  équivalentes  dans  tous  les  établissements d 'enseignement Réponse :
+Mesures prises par votre pays pour assurer des conditions équivalentes dans tous les établissements d’enseignement – Réponse :
 
--Instauration des règles et normes minimales en matière d'enseignement
+-Instauration des règles et normes minimales en matière d’enseignement
 
--Instauration des conditions nécessaires à la qualité de l'éducation dispensée
+-Instauration des conditions nécessaires à la qualité de l’éducation dispensée
 
--Dispositions juridiques et réglementaires pour assurer aux enfants un cadre d'app rentissage sûr, exempt de violence ou de harcèlement, y compris la violence liée au genre...
+-Dispositions juridiques et réglementaires pour assurer aux enfants un cadre d’apprentissage sûr, exempt de violence ou de harcèlement, y compris la violence liée au genre...
 
 Les établissements d'enseignement sont étroitement liés au système d'éducation français par deux moyens :
 
@@ -504,17 +522,16 @@ D'un autre côté, les traités bilatéraux permettent le détachement d'enseign
 
 Monaco,  malgré  sa  taille  géographiquement  réduite,  regroupe  13  établissements  d'enseignement primaire et secondaire, ainsi que 5 établissements d'enseignement supérieur, tous types d'établissements confondus, soit 18 établissements d'enseignement au total. 12 de ces établissements relèvent directement de la  tutelle de la Direction de l'Éducation Nationale, de  la Jeunesse et des Sports.
 
-Public | Privé sous contrat | Privé hors contrat
---- | --- | ---
-Préprimaire et élémentaire* | 7 | 1
-3 | 3 | 1
-Collège | 1
-Lycée général et technologique Lycée professionnel** | 1 | 1
-Enseignement supérieur***
-1
-2
-
 Tableau 5 Les établissements scolaires à Monaco par type et niveau
+
+| Public | Privé sous contrat | Privé hors contrat
+--- | --- | --- | ---
+Préprimaire et élémentaire* | 7 | 1 | 1
+ | 3 | 3 | 1
+Collège | 1 | 1 | 1
+Lycée général et technologique
+Lycée professionnel** | 1 | 1 | 2
+Enseignement supérieur*** | 2 |  | 1
 
 *Les établissements d'enseignement du préprimaire et de l'élémentaire peuvent être couplés ou non. Ainsi il existe des établissements avec de l'enseignement préprimaire seulement, des établissements mixtes et 1'établissement uniquement dédié à l'enseignement élémentaire (voir les différentes colonnes).
 
@@ -582,7 +599,7 @@ Les règlements intérieurs des établissements d'enseignement, qui font l'objet
 
 Veuillez indiquer les mesures prises pour améliorer les pratiques pédagogiques et les conditions de travail du personnel éducatif, en particulier le personnel enseignant de tous niveaux, ainsi que la formation à la profession d'enseignant, dans votre pays... Réponses :
 
--Salaires moyens des enseignants compétitifs ou au moins comparables à ceux qui sont versés dans d'autres professions exigeant des qualifications similaires o u équivalentes
+-Salaires moyens des enseignants compétitifs ou au moins comparables à ceux qui sont versés dans d’autres professions exigeant des qualifications similaires ou équivalentes
 
 -Formation initiale et perfectionnement professionnel continu assuré
 
@@ -620,7 +637,7 @@ Tous ces dispositifs de formation sont ouverts aux enseignants du secteur public
 
 Y a-t-il eu des cas de discrimination en ce qui concerne la formation du personnel éducatif dans votre pays ? Réponse : Non
 
-#### 2.7. Respect des droits de l' Homme et des libertés fondamentales
+#### 2.7. Respect des droits de l’Homme et des libertés fondamentales
 
 (Voir tableaux 1, 2 et 3)
 
@@ -650,9 +667,9 @@ Outre  les  aspects  constitutionnels,  législatifs  et  réglementaires  déj�
 
 #### 2.8. Enseignement privé et éducation religieuse et morale
 
-Existe-t-il  dans  votre  pays  un  cadre  réglementaire  régissant  la  création  et  le  fonctionnement  des établissements d'enseignement privés ? -Réponse : Oui aux
+Existe-t-il dans votre pays un cadre réglementaire régissant la création et le fonctionnement des établissements d’enseignement privés ? – Réponse : Oui
 
-Les dispositions juridiques interdisant la discrimination ... s'appliquent -ils expressément établissements d'enseignement privés ? -Réponse : Oui
+Les dispositions juridiques interdisant la discrimination ... s’appliquent-ils expressément aux établissements d’enseignement privés ? – Réponse : Oui
 
 (Voir la Loi n° 1.334 du 12/07/2007 sur l'éducation, Titre III, Section II, Articles 31 à 36, article 38 et Constitution article 9)
 
@@ -682,7 +699,7 @@ L'enseignement privé est réglementé par la Loi 1.334 du 12/07/2007 sur l'édu
 
 - International University of Monaco (hors contrat / école de commerce de bac à bac +8)
 
-Existe-til dans votre pays un cadre en matière de politique de l'éducation énonçant des normes minimales compte tenu du droit des parents ou des tuteurs légaux d'assurer une éd ucation religieuse et morale à leurs enfants ? -  Réponse : Oui.
+Existe-t-il dans votre pays un cadre en matière de politique de l’éducation énonçant des normes minimales compte tenu du droit des parents ou des tuteurs légaux d’assurer une éducation religieuse et morale à leurs enfants ? - Réponse : Oui.
 
 Traditionnellement, l'éducation à Monaco a d'abord été assurée par des prêtres catholiques ou au sein d'établissements  monastiques.  Les  établissements  privés  sous  contrat  sont  les  héritiers  de  cette
 
@@ -696,7 +713,7 @@ tradition,  la  religion  catholique  apostolique  et  romaine  faisant  partie 
 
 - soit des établissements spécialisés dans le domaine du sport ou de l'art offrant la possibilité à leurs élèves de suivre l'enseignement scolaire en parallèle de leur spécialisation,
 
-- soit des établissements dont la structure de l'enseignement est fondée sur le modèle anglosaxon et dont la langue principale d'enseignement est l'anglais.
+- soit des établissements dont la structure de l’enseignement est fondée sur le modèle anglo-saxon et dont la langue principale d’enseignement est l’anglais.
 
 Aux termes de l'article 9 de la Constitution, la religion catholique, apostolique et romaine est religion d'État.  Cela  se  traduit  par  l'inscription  de  l'instruction  religieuse  au  nombre  des  disciplines enseignées aux élèves du secteur public et privé sous contrat (Loi n° 1.334, article 38). Les parents qui le désirent peuvent dispenser leur enfant de cette instruction. Aux termes de la loi, les parents étant maîtres dans tous les cas de l'instruction religieuse de leur enfant, il n'existe pas à cet égard de discrimination à Monaco.
 
@@ -722,7 +739,7 @@ Veuillez indiquer brièvement les mesures qui ont été adoptées par les autori
 
 -Formation spécifique du personnel éducatif
 
--Initiatives  de  lutte  contre  la  discrimination  et  de  promotion  de  la  diversité  culturelle  et  de l'accepta tion mutuelle
+-Initiatives de lutte contre la discrimination et de promotion de la diversité culturelle et de l’acceptation mutuelle
 
 -Procédures administratives spéciales
 
@@ -756,7 +773,7 @@ Sans objet
 ##### Pour appeler l'attention des pouvoirs publics sur la Convention et la Recommandation
 Sans objet
 
-##### Sensibiliser  le  public  aux  principes  de  nondiscrimination  et  d'égalité  des  chances  en matière d'éducation
+##### Sensibiliser le public aux principes de non-discrimination et d’égalité des chances en matière d’éducation
 
 (Voir 3.7. concernant les élèves), sinon Sans objet.
 
@@ -787,7 +804,7 @@ Si certains éléments tels que la priorité aux nationaux ou l'enseignement rel
 
 - La  religion  catholique  est  religion  d'État,  mais  si  l'enseignement  religieux  est  obligatoire d'après la loi, il n'en reste pas moins qu'il n'est pas imposé contre la volonté des parents puisque la liberté de culte fait partie des droits fondamentaux énoncés dans la Constitution.
 
-En outre, considérant les moyens financiers mis à disposition par le Gouvernement Princier dans le domaine de l'enseignement et la politique d'excellence poursuivie par la Direction de l'Éducation Nationale, de la Jeunesse et des Sports, ainsi que la prise en compte des élèves à besoins éducatifs particuliers, on assiste aujourd'hui à une généralisation de « l'individualisation des parcours », c'està-dire à un enseignement adapté pour chaque élève scolarisé en Principauté.
+En outre, considérant les moyens financiers mis à disposition par le Gouvernement Princier dans le domaine de l’enseignement et la politique d’excellence poursuivie par la Direction de l’Éducation Nationale, de la Jeunesse et des Sports, ainsi que la prise en compte des élèves à besoins éducatifs particuliers, on assiste aujourd’hui à une généralisation de « l’individualisation des parcours », c’est-à-dire à un enseignement adapté pour chaque élève scolarisé en Principauté.
 
 [[END OF PAGE 23]]
 
@@ -878,39 +895,37 @@ ii
 
 Tableau 7 Effectifs globaux des personnels employés par la DENJS par genre (Année 2019 - 2020)
 
-Personnels par genre | Total
---- | ---
-Enseignants | 174
-Non-Enseignants | 113
-Total | 287
-Enseignants | 340
-Non-Enseignants | 240
-Total | 580
-TOTAL GLOBAL | 867
+Personnels par genre |  | Total
+--- | --- | ---
+Masculin | Enseignants | 174
+ | Non-Enseignants | 113
+ | Total | 287
+Féminin | Enseignants | 340
+ | Non-Enseignants | 240
+ | Total | 580
+TOTAL GLOBAL |  | 867
 
 Les personnels des secteurs privés hors contrat et du privé sous contrat ne dépendant pas de la DENJS ne sont pas pris en compte dans ce tableau.
 
-Femme
-
-67.9%
-
-Homme
-
-32.1%
-
-Répartition du personnel non-enseignant par sexe
-
-Femme
-
-66.1%
+Répartition du personnel enseignant par sexe
 
 Homme
 
 33.9%
 
-Répartition du personnel enseignant
+Femme
 
-par sexe
+66.1%
+
+Répartition du personnel non-enseignant par sexe
+
+Homme
+
+32.1%
+
+Femme
+
+67.9%
 
 [[END OF PAGE 25]]
 
@@ -954,30 +969,51 @@ Figure  3  Les  20  premières  nationalités  représentées  dans  la  populat
 
 50%
 
-Continent | Effectifs | Nombre de nationalités | Proportion sur la population totale
---- | --- | --- | --- | ---
-Afrique | 98 | 15 | 1,5%
-- | dont Afrique du Nord | 59 | 3 | 0,9%
-- | dont Afrique Australe | 20 | 5 | 0,3%
-- | dont Afrique de l'Est | 4 | 2 | 0,1%
-- | dont Afrique de l'Ouest | 15 | 5 | 0,2%
-Amérique du Nord | 91 | 2 | 1,4%
-Amérique du Sud | 36 | 11 | 0,6%
-- | dont Amérique Centrale | 8 | 4 | 0,1%
-Asie | 89 | 16 | 1,4%
-- | dont Asie du Sud | 8 | 3 | 0,1%
-- | dont Asie du Sud-est | 27 | 3 | 0,4%
-- | dont Asie Centrale | 11 | 1 | 0,2%
-- | dont Extrême-Orient | 17 | 1 | 0,3%
-- | dont Moyen-Orient | 26 | 8 | 0,4%
-Europe | 6016 | 40 | 94,5%
-- | dont UE | 4182 | 27 | 65,7%
-- | dont Monégasque | 1231 | 1 | 19,3%
-- | dont Russie et ex républiques d'URSS | 193 | 5 | 3,0%
-Océanie | 33 | 1 | 0,5%
-TOTAL | 6363 | 85 | 100,0%
+Français
+Monégasque
+Italien
+Britannique
+Russe
+Portugais
+Allemand
+Belge
+Suisse
+Américain
+Suédois
+Néerlandais
+Roumain
+Danois
+Australien
+Canadien
+Grec
+Autrichien
+Ukrainien
+Espagnol
 
 Figure 4 Nationalités de la population scolaire (hors enseignement supérieur) à Monaco par zone géographique tous secteurs confondus
+
+Continent | Effectifs | Nombre de nationalités | Proportion sur la population totale
+--- | --- | --- | ---
+Afrique | 98 | 15 | 1,5%
+− dont Afrique du Nord | 59 | 3 | 0,9%
+− dont Afrique Australe | 20 | 5 | 0,3%
+− dont Afrique de l'Est | 4 | 2 | 0,1%
+− dont Afrique de l'Ouest | 15 | 5 | 0,2%
+Amérique du Nord | 91 | 2 | 1,4%
+Amérique du Sud | 36 | 11 | 0,6%
+− dont Amérique Centrale | 8 | 4 | 0,1%
+Asie | 89 | 16 | 1,4%
+− dont Asie du Sud | 8 | 3 | 0,1%
+− dont Asie du Sud-est | 27 | 3 | 0,4%
+− dont Asie Centrale | 11 | 1 | 0,2%
+− dont Extrême-Orient | 17 | 1 | 0,3%
+− dont Moyen-Orient | 26 | 8 | 0,4%
+Europe | 6016 | 40 | 94,5%
+− dont UE | 4182 | 27 | 65,7%
+− dont Monégasque | 1231 | 1 | 19,3%
+− dont Russie et ex républiques d'URSS | 193 | 5 | 3,0%
+Océanie | 33 | 1 | 0,5%
+TOTAL | 6363 | 85 | 100,0%
 
 [[END OF PAGE 26]]
 
@@ -1046,39 +1082,39 @@ v
 
 Tableau 9 Réussite des élèves au Baccalauréat avec le nombre de mentions obtenues (juin 2020)
 
-Série | Filière | Inscrits | Admis en 1 er groupe | Admis en 2 ème groupe | Total Admis | Taux d'admission | Total mentions | Taux de mentions
+Série | Filière | Inscrits | Admis en 1er groupe | Admis en 2ème groupe | Total Admis | Taux d'admission | Total mentions | Taux de mentions
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Générale | ES | 111 | 111 | 0 | 111 | 100,00% | 84 | 75,00%
-L | 53 | 53 | 0 | 53 | 100,00% | 52 | 100,00%
-S | 117 | 117 | 0 | 117 | 100,00% | 108 | 90,80%
-Total global Général | 281 | 281 | 0 | 281 | 100% | 244 | 86,83%
+ | L | 53 | 53 | 0 | 53 | 100,00% | 52 | 100,00%
+ | S | 117 | 117 | 0 | 117 | 100,00% | 108 | 90,80%
+ | Total global Général | 281 | 281 | 0 | 281 | 100% | 244 | 86,83%
 Technologique | STHR | 21 | 21 | 0 | 21 | 100,00% | 14 | 66,67%
-STI2D | 9 | 9 | 0 | 9 | 100,00% | 9 | 100,00%
-STMG | 24 | 23 | 1 | 24 | 100,00% | 19 | 79,17%
-Total global Technologique | 54 | 53 | 1 | 54 | 100% | 42 | 77,78%
+ | STI2D | 9 | 9 | 0 | 9 | 100,00% | 9 | 100,00%
+ | STMG | 24 | 23 | 1 | 24 | 100,00% | 19 | 79,17%
+ | Total global Technologique | 54 | 53 | 1 | 54 | 100% | 42 | 77,78%
 Professionnelle | ARCU | 9 | 9 | 0 | 9 | 100,00% | 6 | 66,67%
-Commerce | 24 | 24 | 0 | 24 | 100,00% | 21 | 87,50%
-GA | 20 | 20 | 0 | 20 | 100,00% | 16 | 76,19%
-MELEC | 8 | 8 | 0 | 8 | 100,00% | 8 | 100,00%
-MEI | 6 | 6 | 0 | 6 | 100,00% | 6 | 100,00%
-CSR | 13 | 13 | 0 | 13 | 100,00% | 8 | 61,54%
-Cuisine | 11 | 11 | 0 | 11 | 100,00% | 9 | 81,82%
-Total global Professionnel. | 91 | 91 | 0 | 91 | 100% | 74 | 80,43%
-Total général | 426 | 425 | 1 | 426 | 100 % | 360 | 84,31%
+ | Commerce | 24 | 24 | 0 | 24 | 100,00% | 21 | 87,50%
+ | GA | 20 | 20 | 0 | 20 | 100,00% | 16 | 76,19%
+ | MELEC | 8 | 8 | 0 | 8 | 100,00% | 8 | 100,00%
+ | MEI | 6 | 6 | 0 | 6 | 100,00% | 6 | 100,00%
+ | CSR | 13 | 13 | 0 | 13 | 100,00% | 8 | 61,54%
+ | Cuisine | 11 | 11 | 0 | 11 | 100,00% | 9 | 81,82%
+ | Total global Professionnel. | 91 | 91 | 0 | 91 | 100% | 74 | 80,43%
+Total général |  | 426 | 425 | 1 | 426 | 100 % | 360 | 84,31%
 
 #### B.2. Réussite au Diplôme National du Brevet
 
 Tableau 10 Taux de réussite et de mentions au Diplôme National du Brevet (juin 2020)
 
 DIPLÔME NATIONAL DU BREVET 2020
+
+Établissements | Candidats | Admis | Taux de Réussite | Mentions TB | Mentions B | Mentions AB | Total des mentions | Taux de réussite
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Établissements | Candidats | Admis | Taux de Réussite | Mentions TB | Mentions B | Mentions AB | Total des mentions | Taux de
-Collège Charles III | 302 | 302 | 100% | 139 | 86 | 47 | 272 | réussite
-Collège FANB | 116 | 116 | 100% | 39 | 35 | 23 | 97
-TOTAL général | 418 | 418 | 100% | 178 | 121 | 70 | 369
-Lycée
-Technique et Hôtelier de Monaco | 8 | 8 | 100% | 4 | 3 | 1 | 8 | 100%
-TOTAL | 426 | 426 | 100% | 182 | 124 | 71 | 377
+Collège Charles III | 302 | 302 | 100% | 139 | 86 | 47 | 272 |
+Collège FANB | 116 | 116 | 100% | 39 | 35 | 23 | 97 |
+TOTAL général | 418 | 418 | 100% | 178 | 121 | 70 | 369 |
+Lycée Technique et Hôtelier de Monaco | 8 | 8 | 100% | 4 | 3 | 1 | 8 | 100%
+TOTAL | 426 | 426 | 100% | 182 | 124 | 71 | 377 |
 
 [[END OF PAGE 28]]
 
@@ -1092,7 +1128,7 @@ vi
 
 Tableau 11 Nombre et taux d'élèves en anglais dans le primaire public et privé sous contrat (année 2019-2020)
 
-Niveaux | Condamine | Fontvieille | Révoires | Saint- Charles | Total Public | FANB | Saint- Maur | Total Privé sous-contrat | Total global
+Niveaux | Condamine | Fontvieille | Révoires | Saint-Charles | Total Public | FANB | Saint-Maur | Total Privé sous-contrat | Total global
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Total élèves CE2 | 66 | 44 | 73 | 103 | 286 | 45 | 23 | 68 | 354
 Intensif | 19 | 22 | 46 | 62 | 108 | 45 | 23 | 68 | 176
@@ -1103,7 +1139,7 @@ Intensif | 25 | 23 | 32 | 46 | 124 | 48 | 14 | 62 | 186
 Proportion Total en anglais intensif | 29,3% | 53,1% | 53,0% | 52,9% | 44,6% | 100,0% | 68,7% | 89,9% | 47,6%
 TOTAL | 208 | 130 | 219 | 297 | 801 | 141 | 67 | 208 | 1009
 
-À l'école FANB, tous les élèves bénéficient du même enseignement de l'anglais. Ils suivent les mêmes règles que le public jusqu'en 10 ème  (de 2 x 30 minutes pour les 3 ans à 2 heures pour les 10 ème ). A partir de la 9 ème , 3 heures /semaine et 3 heures 30 en 7 ème .
+À l'école FANB, tous les élèves bénéficient du même enseignement de l’anglais. Ils suivent les mêmes règles que le public jusqu’en 10ème (de 2 x 30 minutes pour les 3 ans à 2 heures pour les 10ème). A partir de la 9ème, 3 heures /semaine et 3 heures 30 en 7ème.
 
 #### C.2. L'enseignement des langues
 
@@ -1120,17 +1156,17 @@ Chinois* | 120 | n.a. | 120 | 4,0%
 
 * La langue chinoise est enseignée seulement dans les établissements publics.
 
-Langues régionales et anciennes | Secteurs | 6 ème | 5 ème | 4 ème | 3 ème | 2 nde | 1 ère | Terminale | Total
+Langues régionales et anciennes | Secteurs | 6ème | 5ème | 4ème | 3ème | 2nde | 1ère | Terminale | Total
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Monégasque* | Total | 514 | 521 | 33 | 30 | 2 | 3 | 10 | 1 113
 Latin | Total | n.a. | 18 | 23 | 9 | 13 | 7 | 2 | 72
 Grec | Public (langue & spécialité) | n.a. | n.a. | n.a. | 7 | 0 | 8 | 2 | 17
 
-*La langue monégasque est un enseignement obligatoire à partir du CE2 jusqu'en 5 ème .
+*La langue monégasque est un enseignement obligatoire à partir du CE2 jusqu'en 5ème.
 
 Tableau 13 Effectifs des élèves suivant un enseignement de Français Langue Étrangère dans les secteurs public et privé sous contrat
 
-Enseignement FLE | 6ème | 5ème | 4ème | 3ème | 2nde | 1ère | Terminal e | Total
+Enseignement FLE | 6ème | 5ème | 4ème | 3ème | 2nde | 1ère | Terminale | Total
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Public | 0 | 1 | 2 | 4 | 0 | 0 | 0 | 7
 Privé sous contrat | 4 | 0 | 0 | 0 | 0 | 0 | 0 | 4
@@ -1160,10 +1196,10 @@ Toutes les formations de cycle 1 de l'enseignement supérieur sont accessible av
 
 Établissement | Diplôme | Niveau de diplôme | Type de formation
 --- | --- | --- | ---
-Lycée Albert 1 er | BTS Comptabilité et Gestion | Bac +2 | Cycle 1
-BTS Support à l'Action Managériale | Bac +2 | Cycle 1
-Diplôme de Comptabilité et de Gestion (DCG) | Bac +3 | Cycle 1. Seules les 2 dernières années de la formation sont offertes en enseignement à Monaco
-Lycée Technique et Hôtelier de Monaco | BTS Hôtellerie et Restauration | Bac +2 | Cycle 1. Trois options peuvent être suivies : A - Management d'unité de restauration B - Management d'unité de production culinaire C - Management d'unité d'hébergement
+Lycée Albert 1er | BTS Comptabilité et Gestion | Bac +2 | Cycle 1
+ | BTS Support à l'Action Managériale | Bac +2 | Cycle 1
+ | Diplôme de Comptabilité et de Gestion (DCG) | Bac +3 | Cycle 1. Seules les 2 dernières années de la formation sont offertes en enseignement à Monaco
+Lycée Technique et Hôtelier de Monaco | BTS Hôtellerie et Restauration | Bac +2 | Cycle 1. Trois options peuvent être suivies : A – Management d'unité de restauration B – Management d'unité de production culinaire C – Management d'unité d'hébergement
 
 BTS = Brevet de Technicien Supérieur
 
@@ -1171,15 +1207,15 @@ BTS = Brevet de Technicien Supérieur
 
 Établissement | Diplôme | Niveau de diplôme | Type de formation
 --- | --- | --- | ---
-École Supérieure d'Arts plastiques | Diplôme National d'Art (DNA) | Bac +3 - grade licence | Cycle 1
-Diplôme National Supérieur en Expression Plastique (DNSEP) | Bac +5 grade master | Cycle 2
-Post - Diplôme | 1 an après le DNSEP - pas de niveau | Post cycle 2
+École Supérieure d'Arts plastiques | Diplôme National d'Art (DNA) | Bac +3 – grade licence | Cycle 1
+ | Diplôme National Supérieur en Expression Plastique (DNSEP) | Bac +5 grade master | Cycle 2
+ | Post – Diplôme | 1 an après le DNSEP – pas de niveau | Post cycle 2
 
 #### D.3 Public hospitalier
 
 Établissement | Diplôme | Niveau de diplôme | Type de formation
 --- | --- | --- | ---
-Institut de Formation en Soins Infirmiers | Diplôme d'État d'infirmier | Bac +3 - grade licence | Cycle 1
+Institut de Formation en Soins Infirmiers | Diplôme d'État d'infirmier | Bac +3 – grade licence | Cycle 1
 
 [[END OF PAGE 30]]
 
@@ -1189,11 +1225,11 @@ Institut de Formation en Soins Infirmiers | Diplôme d'État d'infirmier | Bac +
 
 Établissement | Diplôme | Niveau de diplôme | Type de formation
 --- | --- | --- | ---
-International University of Monaco | Bachelor of Business Administration (BBA) | Bac +3 - grade licence | Cycle 1
-BBA Honors tracker | Bac + 4 - grade licence | Cycle 1
-Master of Science (Msc) • Management International • Marketing du luxe • Finance • Management du luxe • Management du Sport | Bac + 5 - grade master | Cycle 2
-Master in Business Administration (MBA) | Bac +5 - grade master | Cycle 2 après 3 ans d'expérience professionnelle minimum
-Doctorate in Business Administration (DBA) | Bac +8 - grade doctorat | Cycle 3 après 5 ans d'expérience professionnelle
+International University of Monaco | Bachelor of Business Administration (BBA) | Bac +3 – grade licence | Cycle 1
+ | BBA Honors tracker | Bac + 4 – grade licence | Cycle 1
+ | Master of Science (Msc) • Management International • Marketing du luxe • Finance • Management du luxe • Management du Sport | Bac + 5 – grade master | Cycle 2
+ | Master in Business Administration (MBA) | Bac +5 – grade master | Cycle 2 après 3 ans d'expérience professionnelle minimum
+ | Doctorate in Business Administration (DBA) | Bac +8 – grade doctorat | Cycle 3 après 5 ans d'expérience professionnelle
 
 viii
 
