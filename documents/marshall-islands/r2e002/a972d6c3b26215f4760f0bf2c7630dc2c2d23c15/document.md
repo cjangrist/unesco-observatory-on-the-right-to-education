@@ -111,35 +111,35 @@ CHAPTER 2 - COLLEGE OF THE MARSHALL ISLANDS
 
 ________________________________________________________________________________________________
 
-(1) 'Adult basic education' means secondary level educational programs and courses offered to out-of-school adults;
+(1) “Adult basic education” means secondary level educational programs and courses offered to out-of-school adults;
 
-(2) 'Board' or 'Board of Regents' means the College of the Marshall Islands Board of Regents as established by this Chapter;
+(2) “Board” or “Board of Regents” means the College of the Marshall Islands Board of Regents as established by this Chapter;
 
-(3) 'COM' means the College of Micronesia, as established by Congress of Micronesia Public Law 7-29 (41 Trust Territory Code Sections 151 to 168) on October 1, 1977 and by Article I of the Treaty;
+(3) “COM” means the College of Micronesia, as established by Congress of Micronesia Public Law 7-29 (41 Trust Territory Code Sections 151 to 168) on October 1, 1977 and by Article I of the Treaty;
 
-(4)  'Continuing  education'  means  in-service  professional  development  and  non-credit programs and courses offered, at the post-secondary level:
+(4) “Continuing education” means in-service professional development and non-credit programs and courses offered, at the post-secondary level:
 
-(5)  'General  education'  means  an  education  program  that  introduces  the  content  and methodology of the major areas of knowledge, including the humanities, the fine arts, the natural sciences, and the social sciences, and helps students to develop the intellectual skills and social attitudes that will make them effective learners and citizens;
+(5) “General education” means an education program that introduces the content and methodology of the major areas of knowledge, including the humanities, the fine arts, the natural sciences, and the social sciences, and helps students to develop the intellectual skills and social attitudes that will make them effective learners and citizens;
 
-(6) 'Government officials' means any person or persons in positions of responsibility and authority employed by the government of the Republic;
+(6) “Government officials” means any person or persons in positions of responsibility and authority employed by the government of the Republic;
 
-(7) 'Land Grant' means that program established by 7 United States Code Section 301 et seq.;
+(7) “Land Grant” means that program established by 7 United States Code Section 301 et seq.;
 
-(8) 'Minister' means the Minister of Education of the Republic of the Marshall Islands, unless otherwise indicated;
+(8) “Minister” means the Minister of Education of the Republic of the Marshall Islands, unless otherwise indicated;
 
-(9) 'Post-secondary education' means any educational offerings beyond the secondary level;
+(9) “Post-secondary education” means any educational offerings beyond the secondary level;
 
-(10) 'Republic' means the Republic of the Marshall Islands;
+(10) “Republic” means the Republic of the Marshall Islands;
 
-(11) 'The College' means the College of the Marshall Islands as established pursuant to Section 204 of this Chapter;
+(11) “The College” means the College of the Marshall Islands as established pursuant to Section 204 of this Chapter;
 
-(12) 'Treaty' means the 'Treaty among the Governments of the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau regarding the College of Micronesia' executed in Kolonia, Pohnpei the Federated States of Micronesia, on September 1, 1987, as amended;
+(12) “Treaty” means the “Treaty among the Governments of the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau regarding the College of Micronesia” executed in Kolonia, Pohnpei the Federated States of Micronesia, on September 1, 1987, as amended;
 
-(13) 'Vocational education' means the provision of skills and attitudes which makes an individual employable and productively useful in the labor market. [P.L.  1992-13, §3]
+(13) “Vocational education” means the provision of skills and attitudes which makes an individual employable and productively useful in the labor market. [P.L.  1992-13, §3]
 
 ### §204. Establishment; Charter.
 
-There is hereby established the College of the Marshall Islands ('the College'). This Chapter shall serve as the Charter for the College. [P.L. 1992-13, §4.]
+There is hereby established the College of the Marshall Islands (“the College”). This Chapter shall serve as the Charter for the College. [P.L. 1992-13, §4.]
 
 ### §205. Incorporation of the College.
 
@@ -361,7 +361,7 @@ qualified citizens of the Republic;
 
 ### §212. The College of the Marshall Islands Fund.
 
-The  College  of  the  Marshall  Islands  Fund  ('the  Fund'  or  'the  CMI  Fund')  is  hereby established. For purposes of Article VIII of the Constitution, the Fund is a fund other than the Marshall Islands General Fund. [P.L. 1992-13,  §12.]
+The  College  of  the  Marshall  Islands  Fund  (“the  Fund”  or  “the  CMI  Fund”)  is  hereby established. For purposes of Article VIII of the Constitution, the Fund is a fund other than the Marshall Islands General Fund. [P.L. 1992-13,  §12.]
 
 ### § 213. Payments into the Fund.
 
@@ -383,7 +383,7 @@ There shall be paid into the Fund
 
 (b) with respect to tuition, fees, fines, and other sums received, for any lawful purpose within the mandate of this law, provided, however, that sums received for a specific purpose may and shall only be used for said purpose; and
 
-(c) with respect to monies paid into the Fund under Subsection 2 13(4), expenditures may be made from the Fund only for the purposes of this Chapter and in accordance with such conditions as may be attached to the gift, donation, endowment or grant, or other monies from public or private sources; provided that such expenditures shall be made in accordance with a budget approved by the Board.
+(c) with respect to monies paid into the Fund under Subsection 213(4), expenditures may be made from the Fund only for the purposes of this Chapter and in accordance with such conditions as may be attached to the gift, donation, endowment or grant, or other monies from public or private sources; provided that such expenditures shall be made in accordance with a budget approved by the Board.
 
 (2) No money may be withdrawn from the Fund except upon the authority of the Board which shall satisfy itself that the withdrawal is made in accordance with this law. [P.L. 1992-13, §14.]
 
@@ -471,7 +471,7 @@ relating to the financial transactions of the College shall be maintained for at
 
 ### §220. Reports and Auditing Procedures .
 
-(1) By January 1   each year, or as soon as practicable thereafter, a report shall be made to st the  President  of  the  Republic  and  to  the  Nitijela.  The  annual  report  shall  contain  information concerning the activities, programs, progress, condition, and financial status of the College in the fiscal  year  most  recently  completed.  The  annual  report  shall  provide  comprehensive  financial information which accounts for the use of all funds available to the College from the government or  otherwise  and  which  shall  be  prepared  in  accordance  with  generally  accepted  accounting principles. The annual report shall also describe implementation of the Colleges long-range plan and include information on student enrollment, costs per component and per student, and the status of students who graduated from or terminated studies at the College.
+(1) By January 1st each year, or as soon as practicable thereafter, a report shall be made to the President of the Republic and to the Nitijela. The annual report shall contain information concerning the activities, programs, progress, condition, and financial status of the College in the fiscal year most recently completed. The annual report shall provide comprehensive financial information which accounts for the use of all funds available to the College from the government or otherwise and which shall be prepared in accordance with generally accepted accounting principles. The annual report shall also describe implementation of the Colleges long-range plan and include information on student enrollment, costs per component and per student, and the status of students who graduated from or terminated studies at the College.
 
 (2) The Board shall select an independent auditor who shall inspect and audit all accounts of  the  College  at  least  annually  and  report  thereon  to  the  Board  and  to  the  government  of  the Republic. For the purposes of this paragraph, audit means financial, compliance, program results, and economy and efficiency audits, including determinations as to whether the College has met the requirements  set  forth  in  this  Chapter  and  determinations  as  to  the  propriety  of  the  financial transactions of the College. The Board of Regents and officials, faculty, and other employees of the College  shall  cooperate  fully  with  the  audit  officials  to  enable  them  to  fully  discharge  their responsibilities, and provide such audit officials access, without cost and during normal working hours,  to  all  personnel  records,  documents,  working  papers,  automated  data,  files  and  other information such audit officials deem relevant to their work.. [P.L. 1992-13, §20.]
 
