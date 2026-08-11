@@ -1,6 +1,9 @@
 [[START OF PAGE 1]]
 
-Administración  del  Sr.  Ec.  Rafael  Correa  Delgado Presidente  Constitucional  de  la  Repúb lica
+REGISTRO OFICIAL
+ORGANO DEL GOBIERNO DEL ECUADOR
+
+Administración  del  Sr.  Ec.  Rafael  Correa  Delgado Presidente  Constitucional  de  la  República
 
 Año  II    --    Quito,  Martes  12  de  Octubre  del  2010    --    Nº  298
 
@@ -82,7 +85,7 @@ En tal virtud y para los fines previstos en los artículos 137 de la Constituci�
 
 Atentamente,
 
-- f.) Fernando  Cordero  Cueva, Presidente.
+f.) Fernando Cordero Cueva, Presidente.
 
 PRESIDENCIA DE LA REPÚBLICA.- Secretaría General Jurídica
 
@@ -108,7 +111,7 @@ PRIMER  DEBATE:
 
 SEGUNDO  DEBATE:
 
-22, 24, 29-Junio-2010; 13, 20-Julio-2010 y 04-Agosto- 2010
+22, 24, 29-Junio-2010; 13, 20-Julio-2010 y 04-Agosto-2010
 
 Quito, 5 de agosto de  2010
 
@@ -146,7 +149,7 @@ Atentamente,
 
 f.) Dr. Alexis Mera Giler, Secretario Nacional Jurídico.
 
-Es copia compulsa constante en una foja útil.LO CERTIFICO.
+Es copia compulsa constante en una foja útil.- LO CERTIFICO.
 
 Quito, 7 de octubre del 2010.
 
@@ -278,7 +281,7 @@ Esta  Ley  tiene  como  objeto  definir  sus principios, garantizar el derecho a
 La  educación superior de carácter humanista, cultural y científica constituye  un  derecho  de  las  personas  y  un  bien  público social  que,  de  conformidad  con  la  Constitución  de  la República,  responderá  al  interés  público  y  no  estará  al servicio de intereses individuales y corporativos.
 
 ##### Art. 4.- Derecho a la Educación Superior.
-El derecho a la educación  superior  consiste  en  el  ejercicio  efectivo  de  la igualdad de oportunidades, en función de los méritos respectivos, a fin de acceder a una formación académica y profesional con production de conocimiento pertinente y de excelencia.
+El derecho a la educación  superior  consiste  en  el  ejercicio  efectivo  de  la igualdad de oportunidades, en función de los méritos respectivos, a fin de acceder a una formación académica y profesional con producción de conocimiento pertinente y de excelencia.
 
 Las  ciudadanas  y  los  ciudadanos  en  forma  individual  y colectiva, las comunidades, pueblos y nacionalidades tienen el  derecho y la responsabilidad de participar en el proceso educativo superior, a través de los mecanismos establecidos en la Constitución y esta Ley.
 
@@ -309,7 +312,7 @@ Son derechos de las y los estudiantes los siguientes:
 
 - Obtener de acuerdo con sus méritos académicos becas, créditos  y  otras  formas  de  apoyo  económico  que  le garantice  igualdad  de  oportunidades  en  el  proceso  de formación de educación superior.
 
-##### Art. 6.Derechos  de  los profesores o profesoras e investigadores  o  investigadoras.
+##### Art. 6.- Derechos  de  los profesores o profesoras e investigadores  o  investigadoras.
 Son  derechos  de  los profesores o profesoras e investigadores o investigadoras de conformidad con la Constitución y esta Ley los siguientes:
 
 - Ejercer la cátedra y la investigación bajo la más amplia libertad  sin  ningún  tipo  de  imposición  o  restricción religiosa, política, partidista o de otra índole;
@@ -388,7 +391,7 @@ El Estado Central  deberá  proveer  los  medios  y  recursos  únicamente para 
 ### PRINCIPIOS  DEL  SISTEMA  DE  EDUCACIÓN SUPERIOR
 
 ##### Art. 12.- Principios del Sistema.
-El Sistema de Educación Superior se regirá por los principios de autonomía responsable, cogobierno, igualdad de oportunidades, calidad,  pertinencia,  integralidad  y  autodeterminación  para la producción del pensamiento y conocimiento en el marco del diálogo de saberes, pensamiento universal y production científica tecnológica global.
+El Sistema de Educación Superior se regirá por los principios de autonomía responsable, cogobierno, igualdad de oportunidades, calidad,  pertinencia,  integralidad  y  autodeterminación  para la producción del pensamiento y conocimiento en el marco del diálogo de saberes, pensamiento universal y producción científica tecnológica global.
 
 Estos principios rigen de manera integral a las instituciones, actores,  procesos,  normas,  recursos,  y  demás  componentes del sistema, en los términos que establece esta Ley.
 
@@ -446,7 +449,7 @@ Los  organismos  públicos  que  rigen el Sistema de Educación Superior son:
 
 - El Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior (CEAACES).
 
-##### Art. 16.Organismos de consulta del Sistema de Educación  Superior.
+##### Art. 16.- Organismos de consulta del Sistema de Educación  Superior.
 Los  organismos  de  consulta  del Sistema de Educación  Superior son: la Asamblea  del Sistema  de  Educación  Superior  y  los  Comités  Regionales Consultivos de Planificación de la Educación Superior.
 
 ## TÍTULO  II
@@ -494,7 +497,7 @@ Quienes violaren estos recintos serán sancionados de conformidad con la Ley.
 
 ### PATRIMONIO  Y  FINANCIAMIENTO  DE  LAS INSTITUCIONES  DE  EDUCACIÓN  SUPERIOR
 
-##### Art. 20.Del Patrimonio y Financiamiento de las instituciones del sistema de educación  superior.
+##### Art. 20.- Del Patrimonio y Financiamiento de las instituciones del sistema de educación  superior.
 En ejercicio  de  la  autonomía  responsable,  el  patrimonio  y financiamiento de las instituciones del sistema de educación superior estará constituido por:
 
 - Los bienes muebles e inmuebles que al promulgarse esta Ley sean de su propiedad, y los bienes que se adquieran en  el  futuro  a  cualquier  título,  así  como  aquellos  que fueron ofertados y comprometidos  al  momento  de presentar su proyecto de creación;
@@ -576,7 +579,7 @@ Las  instituciones que forman parte del Sistema de Educación Superior, en el ej
 
 10      --      Suplemento    --    Registro  Oficial  Nº  298   --    Martes  12  de  Octubre  del  2010
 
-##### Art. 28.Fuentes complementarias de ingresos y exoneraciones tributarias.
+##### Art. 28.- Fuentes complementarias de ingresos y exoneraciones tributarias.
 Las  instituciones de educación superior públicas podrán crear fuentes complementarias de ingresos para mejorar su capacidad académica, invertir en la investigación, en el otorgamiento de becas y ayudas económicas, en formar doctorados, en programas de posgrado,  o  inversión  en  infraestructura,  en  los  términos establecidos en esta Ley.
 
 Las instituciones de educación superior públicas gozarán de los beneficios y exoneraciones  en  materia tributaria y arancelaria, vigentes en la Ley para el resto de instituciones públicas,  siempre  y  cuando  esos  ingresos  sean  destinados exclusivamente  y  de  manera  comprobada  a  los  servicios antes referidos.
@@ -588,7 +591,7 @@ El Consejo de Educación Superior regulará por el cumplimento  de  esta  obliga
 ##### Art. 29.- Distribución de los incrementos.
 La distribución de los incrementos del FOPEDEUPO que el Estado asigne en el futuro será determinada por el Consejo de Educación Superior en base a los informes de la Secretaría Nacional de Educación Superior, Ciencia, Tecnología e Innovación.
 
-##### Art. 30.Asignaciones y rentas del Estado para universidades  y  escuelas  politécnicas  particulares.
+##### Art. 30.- Asignaciones y rentas del Estado para universidades  y  escuelas  politécnicas  particulares.
 Las universidades  y  escuelas  politécnicas  particulares  que  a  la entrada de vigencia de la Constitución de la República del Ecuador  reciban  asignaciones  y  rentas  del  Estado,  podrán continuar  percibiéndolas  en  el  futuro.  Están  obligadas  a destinar dichos recursos al otorgamiento de becas de escolaridad  e  investigación  a  estudiantes  matriculados  en programas académicos de cualquier nivel, que por su origen socio  económico,  etnia,  género,  discapacidad  o  lugar  de residencia, entre otros, tengan dificultad para acceder, mantenerse y terminar exitosamente su formación, desde el inicio de la carrera; así como también, becas de docencia e investigación para la obtención del título de cuarto nivel.
 
 ##### Art.  31.-  De  los  legados  o  donaciones.
@@ -603,11 +606,11 @@ Las  empresas  que distribuyan programas informáticos tienen la obligación de 
 
 Las  instituciones  de  educación  superior  obligatoriamente incorporarán el uso de programas informáticos con software libre.
 
-##### Art. 33.Acreditación de rentas.
+##### Art. 33.- Acreditación de rentas.
 El Ministerio de Finanzas dispondrá la acreditación automática de las rentas establecidas a favor de las instituciones de régimen público y particular que reciben asignaciones y rentas del Estado, de conformidad con la Ley.
 
 ##### Art.  34.-  Endeudamiento público de las instituciones de educación superior públicas.
-Las instituciones de educación superior públicas pueden contraer endeudamiento público cumpliendo las disposiciones de la Constitución  y  la  Ley  correspondiente.  El  endeudamiento únicamente puede be usado  para programas y proyectos de inversión, para infraestructura y equipamiento, con criterios de mejoramiento de la calidad.
+Las instituciones de educación superior públicas pueden contraer endeudamiento público cumpliendo las disposiciones de la Constitución  y  la  Ley  correspondiente.  El  endeudamiento únicamente puede ser usado para programas y proyectos de inversión, para infraestructura y equipamiento, con criterios de mejoramiento de la calidad.
 
 ##### Art.  35.-  Asignación  de  recursos  para  investigación, ciencia  y  tecnología  e  innovación.
 Las  instituciones  del Sistema de Educación Superior podrán acceder adicional y preferentemente a los recursos públicos concursables de la pre  asignación  para  investigación,  ciencia,  tecnología  e innovación establecida en la Ley correspondiente.
@@ -615,7 +618,7 @@ Las  instituciones  del Sistema de Educación Superior podrán acceder adicional
 ##### Art.  36.-  Asignación  de  recursos  para  publicaciones, becas para profesores o profesoras e investigaciones.
 Las instituciones  de  educación  superior  de  carácter  público  y particular  asignarán  obligatoriamente  en  sus  presupuestos, por  lo  menos,  el  seis  por  ciento  (6%)  a  publicaciones indexadas, becas de posgrado para sus profesores o profesoras  e  investigaciones  en  el  marco  del  régimen  de desarrollo  nacional.  La  Secretaría  Nacional  de  Educación Superior,  Ciencia,  Tecnología  e  Innovación  velará  por  la aplicación de esta disposición.
 
-##### Art. 37.Exoneración de tributos.
+##### Art. 37.- Exoneración de tributos.
 Se establecen exoneraciones tributarias conforme a las siguientes disposiciones:
 
 - Las  instituciones  de  educación  superior  están  exentas del  pago  de  toda  clase  de  impuestos  y  contribuciones fiscales, municipales, especiales o adicionales, incluyendo la contribución a la Contraloría General del Estado;
@@ -630,12 +633,12 @@ Suplemento    --    Registro  Oficial  Nº  298    --    Martes  12  de  Octubre
 
 - Todo  evento  cultural  y  deportivo  organizado  por  las instituciones del Sistema de Educación Superior en sus locales estará exento de todo impuesto siempre y cuando sea en beneficio exclusivo de la institución que lo organiza.
 
-##### Art. 38.Exoneración de derechos aduaneros.
+##### Art. 38.- Exoneración de derechos aduaneros.
 Las instituciones  de  educación  superior  gozan  de  exoneración de  derechos  aduaneros  y  adicionales  en  la  importación  de artículos  y  materiales,  siempre  que  justifiquen  su  utilidad directa para la investigación o actividades académicas.
 
 La  Secretaría  Nacional  de  Educación  Superior,  Ciencia, Tecnología e Innovación velará el correcto cumplimiento de esta norma.
 
-##### Art. 39.Prohibición de competencia desleal.
+##### Art. 39.- Prohibición de competencia desleal.
 Las instituciones de Educación Superior que realicen actividades económicas, productivas o comerciales, deberán crear para el efecto personas jurídicas distintas e independientes de la institución educativa.
 
 En estas actividades no se beneficiarán de exoneraciones o exenciones tributarias exclusivas de las instituciones educativas, ni utilizarán los servicios gratuitos de sus estudiantes, docentes o personal administrativo. Los servicios o trabajo prestados por estas personas será remunerado  de  conformidad  con  las  disposiciones  legales que corresponden. La relación entre estas actividades comerciales y las prácticas académicas serán reglamentadas por el Consejo de Educación Superior.
@@ -654,19 +657,19 @@ Previo  y  durante  este  proceso,  las  instituciones  públicas  y particulare
 
 El Reglamento a la Ley normará el procedimiento.
 
-##### Art. 42.Información sobre las instituciones de educación superior.
+##### Art. 42.- Información sobre las instituciones de educación superior.
 Las instituciones públicas que posean información  financiera  pertinente  al  estudio  y  control  del financiamiento  de  las  instituciones  de  educación  superior, están obligadas a facilitar su acceso a la Secretaría Nacional de  Educación Superior,  Ciencia,  Tecnología  e Innovación; al Consejo de Educación Superior y a las auditoras externas autorizadas por dicho Consejo.
 
 Para  fines  informativos  y  estadísticos  las  instituciones  de educación superior enviarán de manera obligatoria anualmente a la Secretaría Nacional de Educación Superior, Ciencia, Tecnología e Innovación, sus presupuestos anuales debidamente aprobados y las liquidaciones presupuestarias de cada ejercicio económico.
 
 Esta  información  se  integrará  de  manera  obligatoria  al Sistema Nacional de Información de la Educación Superior del Ecuador.
 
-##### Art. 43.Publicación de información en portal electrónico.
+##### Art. 43.- Publicación de información en portal electrónico.
 Las instituciones que conforman el Sistema de Educación Superior, en cumplimiento de la Ley, obligatoriamente  deberán  publicar  en  su  portal  electrónico las remuneraciones de sus autoridades, profesores, investigadores, servidores y trabajadores.
 
 Esta  información  se  integrará  de  manera  obligatoria  al Sistema Nacional de Información de la Educación Superior del Ecuador.
 
-##### Art. 44.Jurisdicción coactiva.
+##### Art. 44.- Jurisdicción coactiva.
 Las instituciones de educación superior públicas y los organismos públicos que rigen  el  Sistema  de  Educación  Superior,  tienen  derecho  a ejercer jurisdicción coactiva para el cobro de los títulos de crédito que se emitan por cualquier concepto de obligaciones.
 
 ## TÍTULO  III
@@ -701,7 +704,7 @@ Para el ejercicio del  cogobierno  las  universidades  y  escuelas  politécnica
 En la  conformación  de  los  órganos  colegiados  se  tomarán las medidas de acción afirmativa necesarias para asegurar la participación paritaria de las mujeres.
 
 ##### Art.  47.-  Órgano  colegiado  académico  superior.
-Las universidades y escuelas politécnicas públicas y particulares obligatoriamente  tendrán  como  autoridad  máxima  a  un órgano  colegiado  académico  superior  que  estará  integrado por autoridades, representatives de los profesores, estudiantes y graduados.
+Las universidades y escuelas politécnicas públicas y particulares obligatoriamente  tendrán  como  autoridad  máxima  a  un órgano  colegiado  académico  superior  que  estará  integrado por autoridades, representantes de los profesores, estudiantes y graduados.
 
 Para el tratamiento de asuntos administrativos se integrarán a este órgano los representantes de los servidores y trabajadores.
 
@@ -750,7 +753,7 @@ El  estatuto  de  cada institución  contemplará  la  subrogación  o  reemplaz
 
 Una  vez  concluidos  sus  períodos,  el  rector o rectora, vicerrector  o  vicerrectora,  vicerrectores  o  vicerrectoras  y autoridades  académicas  de  las  universidades  y  escuelas politécnicas  tendrán  derecho  a  que  sus  instituciones  los reintegren  a  la  actividad  académica  que  se  encontraban desempeñando antes de asumir los mencionados cargos, con la  remuneración que corresponda a las funciones a las que son reintegrados.
 
-##### Art. 53.Autoridades académicas.
+##### Art. 53.- Autoridades académicas.
 Las autoridades académicas serán designadas por las instancias establecidas en el estatuto de cada universidad o escuela politécnica, las cuales podrán ser reelegidas consecutivamente o no, por una sola vez.
 
 [[END OF PAGE 12]]
@@ -783,13 +786,13 @@ Los docentes de la Universidad de las Fuerzas Armadas que no impartan cursos o m
 Cuando existan listas para la elección de rector o rectora, vicerrector o vicerrectora, vicerrectores o vicerrectoras, y demás autoridades académicas, deberán ser integradas  respetando  la  alternancia,  la  paridad  de  género, igualdad de oportunidades y equidad conforme a la Constitución.
 
 ##### Art. 57.-  Votación  de  las  y  los  estudiantes  para  la elección de rector o rectora y vicerrector o vicerrectora, vicerrectores  o  vicerrectoras.
-La  votación  de  las  y  los estudiantes para la elección de rector o rectora y vicerrector o vicerrectora, vicerrectores o vicerrectoras de las universities  y  escuelas  politécnicas  públicas  y  privadas, en  ejercicio  de  su  autonomía  responsable,  equivaldrá  al porcentaje del 10% al 25% del total del personal académico con derecho a voto.
+La  votación  de  las  y  los estudiantes para la elección de rector o rectora y vicerrector o vicerrectora, vicerrectores o vicerrectoras de las universidades  y  escuelas  politécnicas  públicas  y  privadas, en  ejercicio  de  su  autonomía  responsable,  equivaldrá  al porcentaje del 10% al 25% del total del personal académico con derecho a voto.
 
 ##### Art.  58.-  Votación  de  las  y  los  servidores  y  las  y  los trabajadores  para  la  elección  de  rector  o  rectora  y Vicerrector o vicerrectora, vicerrectores o vicerrectoras.
-La votación de las y los servidores y las y los trabajadores para la elección de rector o rectora y vicerrector o vicerrectora, vicerrectores o vicerrectoras de las universities  y  escuelas  politécnicas  públicas  y  privadas equivaldrá a un porcentaje entre el 1% y el 5% del total del personal académico con derecho a voto.
+La votación de las y los servidores y las y los trabajadores para la elección de rector o rectora y vicerrector o vicerrectora, vicerrectores o vicerrectoras de las universidades  y  escuelas  politécnicas  públicas  y  privadas equivaldrá a un porcentaje entre el 1% y el 5% del total del personal académico con derecho a voto.
 
 ##### Art.  59.-  Participación  del personal académico.
-En  los organismos colegiados de cogobierno, los docentes estarán represented por personas elegidas por votación universal de los respectivos estamentos. Esta situación deberá normarse en los estatutos institucionales.
+En  los organismos colegiados de cogobierno, los docentes estarán representados por personas elegidas por votación universal de los respectivos estamentos. Esta situación deberá normarse en los estatutos institucionales.
 
 #### Sección Tercera
 
@@ -823,8 +826,8 @@ Para  la  instalación  y  funcionamiento  de  los órganos  de  cogobierno  de 
 
 Las decisiones de los órganos de cogobierno que no estén integrados  de  conformidad  con  esta  Ley  serán  nulas  y  no tendrán  efecto  jurídico  alguno.  Será  responsabilidad  de  la primera  autoridad  ejecutiva  de  la  universidad  o  escuela politécnica velar por la integración legal de los órganos de cogobierno.
 
-##### Art. 64.Referendo en universidades y escuelas politécnicas.
-En  ejercicio  de  la  autonomía  responsable  se establece el mecanismo de referendo en las universities y escuelas politécnicas, para consultar asuntos trascendentales de  la  institución  por  convocatoria  del  rector  o  rectora  del máximo órgano colegiado académico superior; su resultado será de cumplimiento obligatorio e inmediato.
+##### Art. 64.- Referendo en universidades y escuelas politécnicas.
+En  ejercicio  de  la  autonomía  responsable  se establece el mecanismo de referendo en las universidades y escuelas politécnicas, para consultar asuntos trascendentales de  la  institución  por  convocatoria  del  rector  o  rectora  del máximo órgano colegiado académico superior; su resultado será de cumplimiento obligatorio e inmediato.
 
 El estatuto de cada universidad o escuela politécnica normará esta facultad.
 
@@ -837,8 +840,8 @@ El  gobierno  de  los  institutos  superiores  técnicos  y tecnológicos, pedag
 
 Las  autoridades  del  gobierno  de  los  institutos  superiores técnicos, tecnológicos, pedagógicos, de artes y conservatorios superiores públicos, serán designadas por la Secretaría Nacional de Educación Superior, Ciencia, Tecnología  e  Innovación,  previo  concurso  de  méritos  y oposición,  con  criterios  de  equidad  y  paridad  de  género, alternancia e igualdad de oportunidades.
 
-##### Art. 66.Requisitos para ser rector o rectora y vicerrector o vicerrectora de un instituto superior técnico o tecnológico, pedagógicos, de artes y conservatorios superiores.
-Para ser rector o rectora, vicerrector o vicerrectora, y vicerrectores o vicerrectoras de un  instituto  superior  técnico,  tecnológico,  pedagógicos,  de artes y conservatorios superiores, se requiere  tener el título profesional y grado académico de cuarto nivel correspondiente  a  maestría  en  áreas  de  su  competencia,  y una  experiencia  mínima  de  tres  años  en  el  ejercicio  de  la docencia o investigación, quienes durarán cinco años en sus functions.
+##### Art. 66.- Requisitos para ser rector o rectora y vicerrector o vicerrectora de un instituto superior técnico o tecnológico, pedagógicos, de artes y conservatorios superiores.
+Para ser rector o rectora, vicerrector o vicerrectora, y vicerrectores o vicerrectoras de un  instituto  superior  técnico,  tecnológico,  pedagógicos,  de artes y conservatorios superiores, se requiere  tener el título profesional y grado académico de cuarto nivel correspondiente  a  maestría  en  áreas  de  su  competencia,  y una  experiencia  mínima  de  tres  años  en  el  ejercicio  de  la docencia o investigación, quienes durarán cinco años en sus funciones.
 
 Será  obligación  del  rector  o  rectora  presentar  su  informe anual  de  rendición  de  cuentas  a  la  Secretaría  Nacional  de Educación Superior, Ciencia, Tecnología e Innovación.
 
@@ -847,7 +850,7 @@ Será  obligación  del  rector  o  rectora  presentar  su  informe anual  de  r
 ### DISPOSICIONES  COMUNES
 
 ##### Art. 67.- Responsabilidad de los miembros de los órganos de  gobierno.
-Los  miembros  de  todos  los  órganos  de government  de  las  instituciones  del  Sistema  de  Educación Superior,  serán  personal  y  pecuniariamente  responsables por sus decisiones.
+Los  miembros  de  todos  los  órganos  de gobierno  de  las  instituciones  del  Sistema  de  Educación Superior,  serán  personal  y  pecuniariamente  responsables por sus decisiones.
 
 ##### Art.  68.-  Garantía  de  organizaciones  gremiales.
 Las instituciones de Educación Superior garantizarán la existencia de organizaciones gremiales en su seno, las que tendrán  sus  propios  estatutos  que  guardarán  concordancia con la normativa institucional y esta Ley.
@@ -881,13 +884,13 @@ Suplemento    --    Registro  Oficial  Nº  298    --    Martes  12  de  Octubre
 ### DEL  PRINCIPIO  DE  IGUALDAD  DE OPORTUNIDADES
 
 ##### Art.  71.-  Principio  de  igualdad  de  oportunidades.
-El principio de igualdad de oportunidades consiste en garantizar  a  todos  los  actores  del  Sistema  de  Educación Superior las mismas posibilidades en el acceso, permanencia, movilidad y egreso del sistema, sin discrimination  de  género,  credo,  orientación  sexual,  etnia, culture,  preferencia  política,  condición  socioeconómica  o discapacidad.
+El principio de igualdad de oportunidades consiste en garantizar  a  todos  los  actores  del  Sistema  de  Educación Superior las mismas posibilidades en el acceso, permanencia, movilidad y egreso del sistema, sin discriminación  de  género,  credo,  orientación  sexual,  etnia, cultura,  preferencia  política,  condición  socioeconómica  o discapacidad.
 
 Las  instituciones  que  conforman  el  Sistema  de  Educación Superior  propenderán  por  los  medios  a  su  alcance  que,  se cumpla en favor de los migrantes el principio de igualdad de oportunidades.
 
 Se  promoverá  dentro  de  las  instituciones  del  Sistema  de Educación Superior el acceso para personas con discapacidad bajo las condiciones de calidad, pertinencia y regulaciones contempladas en la presente Ley y su Reglamento. El Consejo de Educación Superior, velará por el cumplimiento de esta disposición.
 
-##### Art. 72.Garantía  de  acceso  universitario para  los ecuatorianos en el exterior.
+##### Art. 72.- Garantía  de  acceso  universitario para  los ecuatorianos en el exterior.
 Las universidades y escuelas politécnicas  garantizarán  el  acceso  a  la  educación superior de las y los ecuatorianos residentes en el exterior mediante el fomento de programas académicos. El Consejo de Educación  Superior  dictará las normas  en  las que se garantice calidad y excelencia.
 
 ##### Art.  73.-  Cobro  de  aranceles.
@@ -895,8 +898,8 @@ El  cobro  de  aranceles, matrículas  y  derechos  por  parte  de  las  institu
 
 No se cobrará monto alguno por los derechos de grado o el otorgamiento del título académico.
 
-##### Art. 74.Políticas de Cuotas.
-Las instituciones de educación  superior  instrumentarán  de  manera  obligatoria políticas de cuotas a favor del ingreso al sistema de education  superior  de  grupos  históricamente  excluidos  o discriminados.
+##### Art. 74.- Políticas de Cuotas.
+Las instituciones de educación  superior  instrumentarán  de  manera  obligatoria políticas de cuotas a favor del ingreso al sistema de educación  superior  de  grupos  históricamente  excluidos  o discriminados.
 
 Las políticas de cuotas serán establecidas por la Secretaría Nacional  de  Educación  Superior,  Ciencia,  Tecnología  e Innovación.
 
@@ -908,17 +911,17 @@ Las instituciones del Sistema de Educación Superior adoptarán políticas y mec
 ### DE  LA  GARANTÍA  DE  LA  IGUALDAD  DE OPORTUNIDADES
 
 ##### Art. 76.- De la garantía.
-Las institutions del Sistema de Educación Superior adoptarán mechanisms y procedures para hacer efectivas las políticas de cuotas y de participación.
+Las instituciones del Sistema de Educación Superior adoptarán mecanismos y procedimientos para hacer efectivas las políticas de cuotas y de participación.
 
 ##### Art. 77.- Becas y ayudas económicas.
 Las instituciones de educación superior establecerán programas de becas completas  o  su  equivalente  en  ayudas  económicas  que apoyen en su escolaridad a por lo menos el 10% del número de estudiantes regulares.
 
 Serán beneficiarios quienes no cuenten con recursos económicos  suficientes,  los  estudiantes  regulares  con  alto promedio  y  distinción  académica,  los  deportistas  de  alto rendimiento que representen al país en eventos internacionales,  a  condición  de  que  acrediten  niveles  de rendimiento académico regulados por cada institución y los discapacitados.
 
-##### Art. 78.Definición  de  becas, créditos  educativos  y ayudas económicas.
-El reglamento que emita la Secretaría Nacional  de  Educación  Superior,  Ciencia,  Tecnología  e Innovación,  definirá  lo  que  debe  entenderse  por  becas, crédito  educativo,  ayudas  económicas  y  otros  mechanisms de  integración  y  equidad  social.  En  ningún  caso  se  podrá devengar la beca o ayuda económica con trabajo.
+##### Art. 78.- Definición  de  becas, créditos  educativos  y ayudas económicas.
+El reglamento que emita la Secretaría Nacional  de  Educación  Superior,  Ciencia,  Tecnología  e Innovación,  definirá  lo  que  debe  entenderse  por  becas, crédito  educativo,  ayudas  económicas  y  otros  mecanismos de  integración  y  equidad  social.  En  ningún  caso  se  podrá devengar la beca o ayuda económica con trabajo.
 
-##### Art. 79.Becas.
+##### Art. 79.- Becas.
 El Instituto Ecuatoriano de Crédito Educativo  y  Becas  o  la  institución  correspondiente,  podrá otorgar crédito educativo no reembolsable y becas en favor de los estudiantes, docentes e investigadores del sistema de educación superior, con cargo al financiamiento del crédito educativo.
 
 ##### Art.  80.-  Gratuidad  de  la  educación  superior  pública hasta  el  tercer  nivel.
@@ -969,7 +972,7 @@ Para el ingreso de las y los estudiantes a los conservatorios superiores e insti
 ##### Art.  83.-  Estudiantes  regulares  de  las  instituciones  del Sistema de Educación Superior.
 Son estudiantes regulares  de  las  instituciones  del  Sistema  de  Educación Superior  quienes  previo  el  cumplimiento  de  los  requisitos establecidos en esta ley, se encuentren legalmente matriculados.
 
-##### Art. 84.Requisitos para aprobación de cursos y carreras.
+##### Art. 84.- Requisitos para aprobación de cursos y carreras.
 Los requisitos de carácter académico y disciplinario  necesarios  para  la  aprobación  de  cursos  y carreras, constarán en el Reglamento de Régimen Académico,  en  los  respectivos  estatutos,  reglamentos  y demás normas que rigen al Sistema de Educación Superior. Solamente  en  casos  establecidos  excepcionalmente  en  el estatuto de cada institución, un estudiante podrá matricularse hasta por tercera ocasión en una misma materia o en el mismo ciclo, curso o nivel académico.
 
 En  la tercera matrícula  de  la materia, curso  o  nivel académico  no  existirá  opción  a  examen  de  gracia  o  de mejoramiento.
@@ -977,7 +980,7 @@ En  la tercera matrícula  de  la materia, curso  o  nivel académico  no  exist
 ##### Art. 85.- Sistema de Evaluación Estudiantil.
 El Consejo de  Educación  Superior  establecerá  políticas  generales  y dictará  disposiciones  para  garantizar  transparencia,  justicia y  equidad  en  el  Sistema  de  Evaluación  Estudiantil  y  para conceder  incentivos  a  las  y  los  estudiantes  por  el  mérito académico, coordinando esta actividad con los organismos pertinentes.
 
-##### Art. 86.Unidad de bienestar estudiantil.
+##### Art. 86.- Unidad de bienestar estudiantil.
 Las instituciones de educación superior mantendrán una unidad administrativa de Bienestar Estudiantil destinada a promover  la  orientación  vocacional  y  profesional,  facilitar la  obtención  de  créditos,  estímulos,  ayudas  económicas  y becas, y ofrecer los servicios asistenciales que se determinen  en  las  normativas  de  cada  institución.  Esta unidad, además, se encargará de promover un ambiente de respeto a los derechos y a la integridad física, psicológica y sexual  de  las  y  los  estudiantes,  en  un  ambiente  libre  de violencia,  y  brindará  asistencia  a  quienes  demanden  por violaciones de estos derechos.
 
 La  Unidad  de  Bienestar  Estudiantil  de  cada  institución formulará e implementará políticas, programas y proyectos para  la  prevención  y  atención  emergente  a  las  víctimas  de delitos sexuales, además de presentar, por intermedio de los representantes  legales,  la  denuncia  de  dichos  hechos  a  las instancias administrativas y judiciales según la Ley.
@@ -996,16 +999,16 @@ Como requisito  previo  a  la  obtención  del  título,  los  y  las estudiante
 Dichas actividades se realizarán en coordinación con organizaciones comunitarias, empresas e instituciones públicas y privadas relacionadas con la respectiva especialidad.
 
 ##### Art.  88.-  Servicios  a  la  comunidad.
-Para  cumplir  con  la obligatoriedad de los servicios a la community se propenderá beneficiar a sectores rurales y marginados de la población,  si  la  naturaleza  de  la  carrera  lo  permite,  o  a prestar servicios en centros de atención gratuita.
+Para  cumplir  con  la obligatoriedad de los servicios a la comunidad se propenderá beneficiar a sectores rurales y marginados de la población,  si  la  naturaleza  de  la  carrera  lo  permite,  o  a prestar servicios en centros de atención gratuita.
 
-##### Art. 89.Los  aranceles para  los estudiantes en las instituciones  de  educación  superior  particulares.
+##### Art. 89.- Los  aranceles para  los estudiantes en las instituciones  de  educación  superior  particulares.
 Las universidades,  escuelas  politécnicas,  institutos  superiores técnicos, tecnológicos, pedagógicos, de artes y conservatorios superiores de régimen particular tienen facultad  para  determinar,  a  través  de  su  máximo  órgano colegiado  académico  superior,  los  aranceles  por  costos  de carrera, de acuerdo con su normativa interna. Estos recursos serán destinados a financiar su actividad sin perseguir fines de lucro.
 
 Las instituciones de educación superior particulares establecerán  los  aranceles  ajustándose  a  los  parámetros generales que establecerá el Consejo de Educación Superior,  que  deberán  necesariamente  tomar  en  cuenta  el nivel y la calidad de la enseñanza, el pago adecuado de los docentes, costos de investigación y extensión, costo de los servicios educativos, desarrollo de la infraestructura y otras inversiones de tipo académico.
 
 En  caso  de  haber  excedentes  en  sus  estados  financieros, éstos serán destinados a incrementar su patrimonio institucional.
 
-##### Art. 90.Cobros  de aranceles diferenciados en las instituciones de educación superior particulares.
+##### Art. 90.- Cobros  de aranceles diferenciados en las instituciones de educación superior particulares.
 Para el cobro a los y las estudiantes de los aranceles por costos de carrera, las instituciones de educación superior particulares tratarán de establecer un sistema diferenciado de aranceles, que observará de manera principal, la realidad socioeconómica de cada estudiante.
 
 ##### Art. 91.- Selección y Ejercicio de docencia e investigación sin limitaciones.
@@ -1016,7 +1019,7 @@ Para las y los servidores públicos y las y los trabajadores  de  las  instituci
 
 ## TÍTULO  V
 
-## CALIDAD  DE  LA E DUCACIÓN  SUPERIOR
+## CALIDAD  DE  LA EDUCACIÓN  SUPERIOR
 
 ### CAPÍTULO  1
 
@@ -1026,12 +1029,12 @@ Para las y los servidores públicos y las y los trabajadores  de  las  instituci
 El  principio  de  calidad consiste en la búsqueda  constante  y  sistemática  de  la excelencia,  la  pertinencia,  producción  óptima,  transmisión del conocimiento y desarrollo del pensamiento mediante la autocrítica, la crítica externa y el mejoramiento permanente.
 
 ##### Art.  94.-  Evaluación  de  la  calidad.
-La  Evaluación  de  la Calidad es el proceso  para determinar las condiciones de la institución,  carrera  o  programa  académico,  mediante  la recopilación sistemática de datos cuantitativos y cualitativos que permitan emitir un juicio o diagnóstico, analizando sus components, functions, processes, a fin de que sus resultados  sirvan  para  reformar  y  mejorar  el  programa  de estudios, carrera o institución.
+La  Evaluación  de  la Calidad es el proceso  para determinar las condiciones de la institución,  carrera  o  programa  académico,  mediante  la recopilación sistemática de datos cuantitativos y cualitativos que permitan emitir un juicio o diagnóstico, analizando sus componentes, funciones, procesos, a fin de que sus resultados  sirvan  para  reformar  y  mejorar  el  programa  de estudios, carrera o institución.
 
 La  Evaluación  de  la  Calidad  es  un  proceso  permanente  y supone un seguimiento continuo.
 
 ##### Art. 95.- Acreditación.
-La Acreditación es una validación de vigencia quinquenal realizada por el Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la  Educación  Superior,  para  certificar  la  calidad  de  las institutions de educación superior, de una carrera o programa educativo, sobre la base de una evaluación previa.
+La Acreditación es una validación de vigencia quinquenal realizada por el Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la  Educación  Superior,  para  certificar  la  calidad  de  las instituciones de educación superior, de una carrera o programa educativo, sobre la base de una evaluación previa.
 
 La Acreditación es el producto de una evaluación rigurosa sobre el cumplimiento de lineamientos, estándares y criterios  de  calidad  de  nivel  internacional,  a  las  carreras, programas, postgrados e instituciones, obligatoria e independiente, que definirá el Consejo  de  Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior.
 
@@ -1040,7 +1043,7 @@ El  procedimiento  incluye  una  autoevaluación  de  la  propia institución,  
 El  Consejo  de  Evaluación,  Acreditación  y  Aseguramiento de  la  Calidad  de  la  Educación  Superior  es  el  organismo responsable del aseguramiento de la calidad de la Educación Superior, sus decisiones en esta materia obligan a  todos  los  Organismos  e  instituciones  que  integran  el Sistema de Educación Superior del Ecuador.
 
 ##### Art. 96.- Aseguramiento de la calidad.
-El Aseguramiento de la Calidad de la Educación Superior, está constituido por el  conjunto de actions que llevan a cabo las institutions vinculadas  con  este  sector,  con  el  fin  de  garantizar  la efficient y eficaz gestión, aplicables a las carreras, programs  académicos,  a  las  institutions  de  educación superior y también a los consejos u organismos evaluadores y acreditadores.
+El Aseguramiento de la Calidad de la Educación Superior, está constituido por el  conjunto de acciones que llevan a cabo las instituciones vinculadas  con  este  sector,  con  el  fin  de  garantizar  la eficiente y eficaz gestión, aplicables a las carreras, programas  académicos,  a  las  instituciones  de  educación superior y también a los consejos u organismos evaluadores y acreditadores.
 
 [[END OF PAGE 17]]
 
@@ -1049,7 +1052,7 @@ El Aseguramiento de la Calidad de la Educación Superior, está constituido por 
 18      --      Suplemento    --    Registro  Oficial  Nº  298   --    Martes  12  de  Octubre  del  2010
 
 ##### Art.  97.-  Clasificación Académica o Categorización.
-La clasificación académica o categorización de las institutions,  carreras  y  programas  será  el  resultado  de  la evaluación. Hará  referencia a un ordenamiento  de  las institutions, carreras y programs de acuerdo a una metodología  que  incluya  criterios  y  objetivos  medibles  y reproducibles de carácter internacional.
+La clasificación académica o categorización de las instituciones,  carreras  y  programas  será  el  resultado  de  la evaluación. Hará  referencia a un ordenamiento  de  las instituciones, carreras y programas de acuerdo a una metodología  que  incluya  criterios  y  objetivos  medibles  y reproducibles de carácter internacional.
 
 ### CAPÍTULO  2
 
@@ -1062,19 +1065,19 @@ La  planificación  y  ejecución  de  la  autoevaluación  estará  a cargo de 
 En  el  presupuesto  que  las  instituciones  del  Sistema  de Educación  Superior,  aprueben  se  hará  constar  una  partida adecuada para la realización del proceso de autoevaluación.
 
 ##### Art.  99.-  La  autoevaluación.
-La  Autoevaluación  es  el riguroso  proceso  de  análisis  que  una  institución  realiza sobre la totalidad de sus activities institucionales o de una carrera, program o posgrado específico, con amplia participación  de  sus  integrantes,  a  través  de  un  análisis crítico y un diálogo reflexivo, a fin de superar los obstacles  existentes  y  considerar  los  logros  alcanzados, para mejorar la eficiencia institutional y mejorar la calidad académica.
+La  Autoevaluación  es  el riguroso  proceso  de  análisis  que  una  institución  realiza sobre la totalidad de sus actividades institucionales o de una carrera, programa o posgrado específico, con amplia participación  de  sus  integrantes,  a  través  de  un  análisis crítico y un diálogo reflexivo, a fin de superar los obstáculos  existentes  y  considerar  los  logros  alcanzados, para mejorar la eficiencia institucional y mejorar la calidad académica.
 
 ##### Art.  100.-  La  Evaluación  Externa.
-Es  el  proceso  de verification  que  el  Consejo  de  Evaluación, Acreditación y Aseguramiento  de  la  Calidad  de  la  Educación  Superior realiza a través de pares académicos de la totalidad o de las activities institucionales o de una carrera o program para determinar que su desempeño cumple con las características y  estándares  de  calidad  de  las  institutions  de  educación superior y que sus activities se realizan en concordancia con la misión, visión, propósitos  y objetivos institucionales o  de  carrera,  de  tal  manera  que  pueda  certificar  ante  la sociedad la calidad académica y la integridad institucional.
+Es  el  proceso  de verificación  que  el  Consejo  de  Evaluación, Acreditación y Aseguramiento  de  la  Calidad  de  la  Educación  Superior realiza a través de pares académicos de la totalidad o de las actividades institucionales o de una carrera o programa para determinar que su desempeño cumple con las características y  estándares  de  calidad  de  las  instituciones  de  educación superior y que sus actividades se realizan en concordancia con la misión, visión, propósitos  y objetivos institucionales o  de  carrera,  de  tal  manera  que  pueda  certificar  ante  la sociedad la calidad académica y la integridad institucional.
 
 Para la emisión de informes de evaluación externa se deberá observar absoluta rigurosidad técnica y académica.
 
 ##### Art. 101.- Reglamento y Código de Ética.
-El Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior aprobará el Reglamento que regulará las  activities  de  los  evaluadores  externos  y  de  todos  los especialistas,  consultores  y  funcionarios;  y,  el  Código  de Ética en el que se hará constar los requisitos, las incompatibilidades, prohibitions y su forma de selección.
+El Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior aprobará el Reglamento que regulará las  actividades  de  los  evaluadores  externos  y  de  todos  los especialistas,  consultores  y  funcionarios;  y,  el  Código  de Ética en el que se hará constar los requisitos, las incompatibilidades, prohibiciones y su forma de selección.
 
 En cada proceso de evaluación, acreditación y categorización, los miembros del equipo evaluador suscribirán el Código de Ética, en el que se hará constar la responsabilidad civil y laboral que acarrearía el incumplimiento del mismo, así como la declaración juramentada  de  los  miembros  del  equipo  evaluador  de  no tener  conflicto  de  intereses  con  la  institución,  carrera  o programa que va a ser evaluada, acreditada y/o categorizada.
 
-##### Art. 102.Evaluadores Externos.
+##### Art. 102.- Evaluadores Externos.
 El Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación  Superior,  creará  un  Banco  de  Datos  de Evaluadores Externos de la Educación Superior, que estará bajo su responsabilidad y administración.
 
 Las  personas  cuya  información  se  encuentren  en  el  Banco de Datos de Evaluadores Externos de la Educación Superior, deberán acreditar formación académica de maestría o doctor, según el Art. 121 de la presente Ley; y, experiencia en procesos de evaluación y acreditación de la educación superior.
@@ -1083,8 +1086,8 @@ La calificación se la realizará de manera individual acorde con su formación,
 
 Los evaluadores podrán ser nacionales o extranjeros.
 
-##### Artículo 103.Examen Nacional de evaluación de carreras y programas académicos.
-Para efectos de evaluación se deberá establecer un examen para estudiantes de último año, de los programs o carreras. El examen será complementario a otros mechanisms de evaluación y medición de la calidad.
+##### Artículo 103.- Examen Nacional de evaluación de carreras y programas académicos.
+Para efectos de evaluación se deberá establecer un examen para estudiantes de último año, de los programas o carreras. El examen será complementario a otros mecanismos de evaluación y medición de la calidad.
 
 Este  examen  será  diseñado  y  aplicado  por  el  Consejo  de Evaluación, Acreditación y Aseguramiento de la Calidad de la  Educación  Superior.  El  Examen  estará  centrado  en  los conocimientos  establecidos para el programa  o  carrera respectiva.
 
@@ -1092,7 +1095,7 @@ En el caso de que un porcentaje mayor  al  60%  de estudiantes  de  un  programa
 
 En  el  caso  de  que  se  suprima  una  carrera  o  programa,  la institución  de  educación  superior  no  podrá  abrir  en  el transcurso de diez años nuevas promociones  de estas carreras  o  programas,  sin  perjuicio  de  asegurar  que  los estudiantes  ya  matriculados  concluyan  su  ciclo  o  año  de estudios.
 
-##### Art. 104.Examen  de habilitación.
+##### Art. 104.- Examen  de habilitación.
 El Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior, desarrollará un examen de habilitación para el ejercicio profesional, en aquellas carreras que pudieran comprometer  el interés público, poniendo  en  riesgo  esencialmente  la  vida,  la  salud  y  la seguridad de la ciudadanía.
 
 Para  este  tipo  de  carreras,  los  planes  de  estudio  deberán tener  en  cuenta  los  contenidos  curriculares  básicos  y  los criterios  sobre  intensidad  de  la  formación  práctica  que establezca el Consejo de Educación Superior.
@@ -1105,11 +1108,11 @@ Suplemento    --    Registro  Oficial  Nº  298    --    Martes  12  de  Octubre
 
 El  Consejo  de  Evaluación,  Acreditación  y  Aseguramiento de la Calidad de la Educación Superior en coordinación con la  Secretaría  Nacional  de  Educación  Superior,  Ciencia, Tecnología e Innovación, determinarán la obligatoriedad de este examen y expedirán el permiso respectivo para ejercer la profesión.
 
-##### Art. 105.Inclusión de criterios de creación de instituciones del Sistema de Educación  Superior  en procesos de evaluación y acreditación.
-Para garantizar la calidad de las universities, escuelas politécnicas, institutes superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores, los processes de evaluación y acreditación deberán incluir todos los criterios establecidos en esta Ley y en el Reglamento para la creación de este tipo de instituciones.
+##### Art. 105.- Inclusión de criterios de creación de instituciones del Sistema de Educación  Superior  en procesos de evaluación y acreditación.
+Para garantizar la calidad de las universidades, escuelas politécnicas, institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores, los procesos de evaluación y acreditación deberán incluir todos los criterios establecidos en esta Ley y en el Reglamento para la creación de este tipo de instituciones.
 
 ##### Art.-  106.-  Costos  de  la  evaluación.
-Los  costos  de  las evaluaciones externas y acreditaciones de las  institutions de educación superior, serán responsabilidad del Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior.
+Los  costos  de  las evaluaciones externas y acreditaciones de las  instituciones de educación superior, serán responsabilidad del Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior.
 
 ## TÍTULO  VI
 
@@ -1119,15 +1122,15 @@ Los  costos  de  las evaluaciones externas y acreditaciones de las  institutions
 
 ### DEL  PRINCIPIO  DE  PERTINENCIA
 
-##### Art. 107.Principio  de pertinencia.
-El principio de pertinencia consiste en que la educación superior responda a las expectativas y necesidades de la sociedad, a la planificación  nacional,  y  al  régimen  de  desarrollo,  a  la prospectiva de desarrollo científico, humanístico y tecnológico  mundial,  y  a  la  diversidad  cultural.  Para  ello, las institutions de educación superior articularán su oferta docente, de investigación y activities de vinculación con la  sociedad,  a  la  demanda  académica, a las necesidades de desarrollo  local,  regional  y  nacional,  a  la  innovación  y diversificación  de  profesiones  y  grados  académicos,  a  las tendencias del mercado ocupacional local, regional y nacional, a las tendencias demográficas locales, provinciales y  regionales;  a  la  vinculación  con  la  estructura  productiva actual  y  potencial  de  la  provincia  y  la  región,  y  a  las políticas nacionales de ciencia y tecnología.
+##### Art. 107.- Principio  de pertinencia.
+El principio de pertinencia consiste en que la educación superior responda a las expectativas y necesidades de la sociedad, a la planificación  nacional,  y  al  régimen  de  desarrollo,  a  la prospectiva de desarrollo científico, humanístico y tecnológico  mundial,  y  a  la  diversidad  cultural.  Para  ello, las instituciones de educación superior articularán su oferta docente, de investigación y actividades de vinculación con la  sociedad,  a  la  demanda  académica, a las necesidades de desarrollo  local,  regional  y  nacional,  a  la  innovación  y diversificación  de  profesiones  y  grados  académicos,  a  las tendencias del mercado ocupacional local, regional y nacional, a las tendencias demográficas locales, provinciales y  regionales;  a  la  vinculación  con  la  estructura  productiva actual  y  potencial  de  la  provincia  y  la  región,  y  a  las políticas nacionales de ciencia y tecnología.
 
 ### CAPÍTULO  2
 
 ### CREACIÓN  DE  UNIVERSIDADES  Y  ESCUELAS POLITÉCNICAS
 
-##### Art. 108.Creación de universities y escuelas politécnicas.
-Las  universities  y  escuelas  politécnicas públicas  y  particulares  se  crearán  por  Ley,  previo  informe favorable  vinculante  del  Consejo  de  Educación  Superior  a la Asamblea Nacional.
+##### Art. 108.- Creación de universidades y escuelas politécnicas.
+Las  universidades  y  escuelas  politécnicas públicas  y  particulares  se  crearán  por  Ley,  previo  informe favorable  vinculante  del  Consejo  de  Educación  Superior  a la Asamblea Nacional.
 
 El informe del Consejo de Educación Superior tendrá como base el informe previo favorable y obligatorio del organismo nacional de planificación quien lo presentará en un plazo máximo de 180 días.
 
@@ -1136,7 +1139,7 @@ Una  vez  se  cuente  con  el  informe  anterior  el  Consejo  de Educación Sup
 No se dará el trámite de Ley para la creación si se hubiere prescindido de alguno de estos informes o si fuesen desfavorables. El funcionario o autoridad pública que incumpla  con  estas  disposiciones  será  responsable  civil, penal y administrativamente de acuerdo con la Ley.
 
 ##### Art. 109.- Requisitos para la creación de una universidad o escuela politécnica.
-Quien promueva la creación de una universidad o escuela politécnica deberá presentar al Consejo  de  Educación  Superior  una  propuesta  técnicoacadémica, que contenga los siguientes requisitos:
+Quien promueva la creación de una universidad o escuela politécnica deberá presentar al Consejo  de  Educación  Superior  una  propuesta  técnico–académica, que contenga los siguientes requisitos:
 
 - Justificativo de los promotores del proyecto que demuestren su experiencia y vinculación con el Sistema de  Educación  Superior  y  la  solvencia  moral  y  ética, reconocida públicamente;
 
@@ -1171,10 +1174,10 @@ educativa y de investigación, y que serán transferidos a la  institución  de 
 - Los demás requisitos que consten en el reglamento que para el efecto expida el Consejo de Educación Superior.
 
 ##### Art.  110.-  Prohibición  de  Creación  de  Instituciones  de Educación Superior Particulares con financiamiento fiscal.
-Se  prohíbe  la  aprobación  de  projects  de  creación de  universities  o  escuelas  politécnicas  particulares  que para  su  funcionamiento  precisen  de  asignaciones  y  rentas del Estado, según lo dispuesto en la Constitución.
+Se  prohíbe  la  aprobación  de  proyectos  de  creación de  universidades  o  escuelas  politécnicas  particulares  que para  su  funcionamiento  precisen  de  asignaciones  y  rentas del Estado, según lo dispuesto en la Constitución.
 
-##### Art. 111.- Creación y financiamiento de universities y escuelas politécnicas supeditadas a los requerimientos del desarrollo nacional.
-En el caso de universities y escuelas politécnicas públicas su creación y financiamiento se supeditará a los requerimientos del desarrollo nacional.
+##### Art. 111.- Creación y financiamiento de universidades y escuelas politécnicas supeditadas a los requerimientos del desarrollo nacional.
+En el caso de universidades y escuelas politécnicas públicas su creación y financiamiento se supeditará a los requerimientos del desarrollo nacional.
 
 ##### Art. 112.- Análisis técnico de los requisitos.
 Una vez que el  Consejo  de  Educación  Superior  hubiera  recibido  los informes del Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior y del organismo  nacional  de  planificación,  revisará  el  proyecto técnico-académico  y  tendrá  un  plazo  máximo  de  180  días para realizar un análisis técnico de los requisitos establecidos en este capítulo y emitir el informe respectivo. No se admitirá acción de silencio administrativo.
@@ -1190,15 +1193,15 @@ En  el  caso  de  no  dar  cumplimento  a  esta  obligación, inmediatamente, el
 
 ### CREACIÓN  DE  INSTITUTOS  SUPERIORES, TÉCNICOS,  TECNOLÓGICOS,  PEDAGÓGICOS, DE  ARTES  Y  CONSERVATORIOS  SUPERIORES
 
-##### Art. 114.- Creación de los institutes superiores, técnicos, tecnológicos, pedagógicos, de artes y conservatorios superiores.
-Los institutes superiores técnicos, tecnológicos,  pedagógicos,  de  artes  y  los  conservatorios superiores, serán creados mediante resolución expedida por el Consejo de Educación Superior, previo informes favorables del Consejo de Evaluación, Acreditación y Aseguramiento  de  la  Calidad  de  la  Educación  Superior,  y del  organismo  nacional  de  planificación,  supeditado  a  los requerimientos del desarrollo nacional.
+##### Art. 114.- Creación de los institutos superiores, técnicos, tecnológicos, pedagógicos, de artes y conservatorios superiores.
+Los institutos superiores técnicos, tecnológicos,  pedagógicos,  de  artes  y  los  conservatorios superiores, serán creados mediante resolución expedida por el Consejo de Educación Superior, previo informes favorables del Consejo de Evaluación, Acreditación y Aseguramiento  de  la  Calidad  de  la  Educación  Superior,  y del  organismo  nacional  de  planificación,  supeditado  a  los requerimientos del desarrollo nacional.
 
 Para  el  caso  de  los  institutos  superiores  pedagógicos  se requerirá en forma obligatoria el auspicio y el establecimiento  de  mecanismos  de  coordinación  con  el Ministerio de Educación.
 
 No  se  dará  lugar  al  trámite  de  creación  si  se  hubieren prescindido de alguno de estos informes o si fueren desfavorables.
 
-##### Art. 115.Requisitos para  la creación de institutes superiores técnicos, tecnológicos, pedagógicos, de artes y conservatorios  superiores.
-Para  la  creación  de  institutes superiores  técnicos,  tecnológicos,  pedagógicos,  de  artes  y conservatorios superiores, deberán presentar al Consejo de Educación  Superior  un  proyecto  técnico-académico,  que contendrá los mismos requisitos para la creación de universities y escuelas politécnicas, el reglamento respectivo regulará este tema.
+##### Art. 115.- Requisitos para  la creación de institutos superiores técnicos, tecnológicos, pedagógicos, de artes y conservatorios  superiores.
+Para  la  creación  de  institutos superiores  técnicos,  tecnológicos,  pedagógicos,  de  artes  y conservatorios superiores, deberán presentar al Consejo de Educación  Superior  un  proyecto  técnico-académico,  que contendrá los mismos requisitos para la creación de universidades y escuelas politécnicas, el reglamento respectivo regulará este tema.
 
 ## TÍTULO  VII
 
@@ -1219,10 +1222,10 @@ Para garantizar este principio, las instituciones del Sistema de  Educación Sup
 
 #### Sección  Primera
 
-#### De la formación y tipos de institutions
+#### De la formación y tipos de instituciones
 
-##### Art. 117.Tipología de institutions de Educación Superior.
-Las  institutions  de  Educación  Superior    de carácter universitario o politécnico se clasificarán de acuerdo  con  el  ámbito  de  las  activities  académicas  que realicen.  Para  establecer  esta  clasificación  se  tomará  en cuenta  la  distinción  entre  institutions  de  docencia  con investigación,    institutions  orientadas  a  la  docencia  e institutions dedicadas a la educación superior continua. En función de la tipología se establecerán qué tipos de carreras o programs podrán ofertar cada una de estas institutions, sin perjuicio de que únicamente las universities de docencia con investigación podrán ofertar grados académicos de PhD o su equivalente.
+##### Art. 117.- Tipología de instituciones de Educación Superior.
+Las  instituciones  de  Educación  Superior    de carácter universitario o politécnico se clasificarán de acuerdo  con  el  ámbito  de  las  actividades  académicas  que realicen.  Para  establecer  esta  clasificación  se  tomará  en cuenta  la  distinción  entre  instituciones  de  docencia  con investigación,    instituciones  orientadas  a  la  docencia  e instituciones dedicadas a la educación superior continua. En función de la tipología se establecerán qué tipos de carreras o programas podrán ofertar cada una de estas instituciones, sin perjuicio de que únicamente las universidades de docencia con investigación podrán ofertar grados académicos de PhD o su equivalente.
 
 [[END OF PAGE 20]]
 
@@ -1232,8 +1235,8 @@ Suplemento    --    Registro  Oficial  Nº  298    --    Martes  12  de  Octubre
 
 Esta  tipología  será  tomada  en  cuenta  en  los  procesos  de evaluación, acreditación y categorización.
 
-##### Art. 118.Niveles de formación de la educación superior.
-Los  niveles de formación  que  imparten  las institutions del Sistema de Educación Superior son:
+##### Art. 118.- Niveles de formación de la educación superior.
+Los  niveles de formación  que  imparten  las instituciones del Sistema de Educación Superior son:
 
 - Nivel técnico o tecnológico superior, orientado al desarrollo de las habilidades  y destrezas que permitan al  estudiante  potenciar  el  saber  hacer.  Corresponden  a éste  los  títulos  profesionales  de  técnico  o  tecnólogo superior, que otorguen los institutos superiores técnicos, tecnológicos, pedagógicos, de artes y los conservatorios superiores.  Las  instituciones  de  educación  superior  no podrán ofertar  títulos  intermedios  que sean de carácter acumulativo.
 
@@ -1247,7 +1250,7 @@ Para  acceder  a  la  formación  de  cuarto  nivel,  se  requiere tener  títul
 
 Las  universidades  y  escuelas  politécnicas  podrán  otorgar títulos de nivel  técnico  o  tecnológico  superior  cuando realicen alianzas con los institutos de educación superior o creen  para  el  efecto  el  respectivo  instituto  de  educación superior, inclusive en el caso establecido en la Disposición Transitoria Vigésima Segunda de la presente Ley.
 
-##### Art. 119.Especialización.
+##### Art. 119.- Especialización.
 La especialización es el programa destinado a la capacitación profesional avanzada en el nivel de posgrado.
 
 ##### Art.  120.-  Maestría.
@@ -1257,7 +1260,7 @@ Es  el  grado  académico  que  busca ampliar,  desarrollar  y  profundizar  en 
 Es el grado académico más alto de cuarto nivel que otorga una universidad o escuelas politécnica  a  un  profesional  con  grado  de  maestría.  Su formación se centra en un área profesional o científica, para contribuir al avance del conocimiento básicamente a través de la investigación científica.
 
 ##### Art. 122.- Otorgamiento de Títulos.
-Las institutions del Sistema  de  Educación  Superior  conferirán  los  títulos  y grados  que  les  corresponden  según  lo  establecido  en  los artículos precedentes. Los títulos o grados académicos serán emitidos en el idioma oficial del país. Deberán establecer la modalidad de los estudios realizados.
+Las instituciones del Sistema  de  Educación  Superior  conferirán  los  títulos  y grados  que  les  corresponden  según  lo  establecido  en  los artículos precedentes. Los títulos o grados académicos serán emitidos en el idioma oficial del país. Deberán establecer la modalidad de los estudios realizados.
 
 No se reconocerá los títulos de doctor como terminales de pregrado o habilitantes profesionales, o grados académicos de maestría o doctorado en el nivel de grado.
 
@@ -1268,14 +1271,14 @@ No se reconocerá los títulos de doctor como terminales de pregrado o habilitan
 ##### Art. 123.- Reglamento sobre el Régimen Académico.
 El Consejo de Educación Superior aprobará el Reglamento de Régimen Académico que regule los títulos y grados académicos, el tiempo de duración, número de créditos de cada  opción  y  demás  aspectos  relacionados  con  grados  y títulos,  buscando  la  armonización  y  la  promoción  de  la movilidad estudiantil, de profesores o profesoras e investigadores o investigadoras.
 
-##### Art. 124.Formación en valores y derechos.
-Es responsabilidad de las institutions del Sistema de Educación  Superior  proporcionar  a  quienes  egresen  de cualesquiera  de  las  carreras  o  programs,  el  conocimiento efectivo  de  sus  deberes  y  derechos  ciudadanos  y  de  la realidad  socioeconómica,  cultural  y  ecológica  del  país;  el dominio  de  un  idioma  extranjero  y  el  manejo  efectivo  de herramientas informáticas.
+##### Art. 124.- Formación en valores y derechos.
+Es responsabilidad de las instituciones del Sistema de Educación  Superior  proporcionar  a  quienes  egresen  de cualesquiera  de  las  carreras  o  programas,  el  conocimiento efectivo  de  sus  deberes  y  derechos  ciudadanos  y  de  la realidad  socioeconómica,  cultural  y  ecológica  del  país;  el dominio  de  un  idioma  extranjero  y  el  manejo  efectivo  de herramientas informáticas.
 
-##### Art.  125.-  Programs  y  cursos  de  vinculación  con  la sociedad.
-Las  institutions  del  Sistema  de  Educación Superior realizarán programs y cursos de vinculación con la  sociedad  guiados  por  el  personal  académico.  Para  ser estudiante de los mismos no hará falta cumplir los requisitos del estudiante regular.
+##### Art. 125.- Programas  y  cursos  de  vinculación  con  la sociedad.
+Las  instituciones  del  Sistema  de  Educación Superior realizarán programas y cursos de vinculación con la  sociedad  guiados  por  el  personal  académico.  Para  ser estudiante de los mismos no hará falta cumplir los requisitos del estudiante regular.
 
 ##### Art. 126.- Reconocimiento, homologación y revalidación de títulos.
-La Secretaría Nacional de Educación Superior, Ciencia, Tecnología e Innovación efectivizará el reconocimiento e inscripción automática de títulos obtenidos  en  el  extranjero  cuando  dichos  títulos  se  hayan otorgado por institutions de educación de alto prestigio y calidad  internacional;  y  siempre  y  cuando  consten  en  un listado que para el efecto elaborare anualmente la Secretaría.  En  estos  casos,  no  se  requerirá  trámite  alguno para que el título sea reconocido y válido en el Ecuador.
+La Secretaría Nacional de Educación Superior, Ciencia, Tecnología e Innovación efectivizará el reconocimiento e inscripción automática de títulos obtenidos  en  el  extranjero  cuando  dichos  títulos  se  hayan otorgado por instituciones de educación de alto prestigio y calidad  internacional;  y  siempre  y  cuando  consten  en  un listado que para el efecto elaborare anualmente la Secretaría.  En  estos  casos,  no  se  requerirá  trámite  alguno para que el título sea reconocido y válido en el Ecuador.
 
 Cuando el título obtenido en el extranjero no corresponda a una institución integrada en el listado referido, la Secretaría Nacional  de  Educación  Superior,  Ciencia,  Tecnología  e Innovación podrá reconocerlo e inscribirlo previo al trámite correspondiente.
 
@@ -1285,64 +1288,64 @@ Cuando el título obtenido en el extranjero no corresponda a una institución in
 
 22      --      Suplemento    --    Registro  Oficial  Nº  298   --    Martes  12  de  Octubre  del  2010
 
-##### Art. 127.- Otros programs de estudio.
-Las universities y  escuelas  politécnicas  podrán  realizar  en  el  marco  de  la vinculación con la colectividad, cursos de educación continua y expedir los correspondientes certificados.
+##### Art. 127.- Otros programas de estudio.
+Las universidades y  escuelas  politécnicas  podrán  realizar  en  el  marco  de  la vinculación con la colectividad, cursos de educación continua y expedir los correspondientes certificados.
 
 Los estudios que se realicen en esos programas no podrán ser  tomados  en  cuenta  para  las  titulaciones  oficiales  de grado y posgrado que se regulan en los artículos precedentes.
 
-##### Art. 128.Cursos Académicos.
-Todos los cursos académicos de carácter universitario o politécnico destinados  a  conferir  certificados,  que  fueren  organizados por  institutions  extranjeras,  deberán  ser  aprobados por el Consejo de Educación Superior. Estos cursos contarán con el  auspicio  y  validación  académica  de  una  universidad  o escuela politécnica del país.
+##### Art. 128.- Cursos Académicos.
+Todos los cursos académicos de carácter universitario o politécnico destinados  a  conferir  certificados,  que  fueren  organizados por  instituciones  extranjeras,  deberán  ser  aprobados por el Consejo de Educación Superior. Estos cursos contarán con el  auspicio  y  validación  académica  de  una  universidad  o escuela politécnica del país.
 
-##### Art. 129.Notificación a la Secretaría Nacional  de Educación Superior, Ciencia, Tecnología e Innovación.
-Todas  las  institutions  de  educación  superior  del  país notificarán a la Secretaría Nacional de Educación Superior, Ciencia, Tecnología e Innovación la nómina de los graduados y las especificaciones de los títulos que expida.
+##### Art. 129.- Notificación a la Secretaría Nacional  de Educación Superior, Ciencia, Tecnología e Innovación.
+Todas  las  instituciones  de  educación  superior  del  país notificarán a la Secretaría Nacional de Educación Superior, Ciencia, Tecnología e Innovación la nómina de los graduados y las especificaciones de los títulos que expida.
 
 Esta información será parte del Sistema Nacional de Información de la Educación Superior.
 
 ##### Art.  130.-  Nomenclatura  de  los  títulos.
-El  Consejo  de Educación Superior unificará y armonizará las nomenclaturas de los títulos que expidan las institutions de educación superior en base a un Reglamento aprobado por el Consejo de Educación Superior.
+El  Consejo  de Educación Superior unificará y armonizará las nomenclaturas de los títulos que expidan las instituciones de educación superior en base a un Reglamento aprobado por el Consejo de Educación Superior.
 
 ##### Art. 131.- Aceptación de títulos de bachillerato, música y artes  expedidos  en  otros  países.
-Las  institutions  del system de educación superior aceptarán los títulos equivalentes  al  bachillerato  expedidos  en  otros  países  y reconocidos por el Ministerio de Educación.
+Las instituciones del sistema de educación superior aceptarán los títulos equivalentes  al  bachillerato  expedidos  en  otros  países  y reconocidos por el Ministerio de Educación.
 
 ##### Art.  132.-  Reconocimiento  de  créditos  o  materias.
-Las institutions  del  system  de  educación  superior  podrán reconocer créditos o materias aprobadas en otras institutions del system de educación superior, sujetándose al cumplimiento de los requisitos establecidos en el Reglamento de Régimen Académico y en lo dispuesto por la entidad elegida.
+Las instituciones  del  sistema  de  educación  superior  podrán reconocer créditos o materias aprobadas en otras instituciones del sistema de educación superior, sujetándose al cumplimiento de los requisitos establecidos en el Reglamento de Régimen Académico y en lo dispuesto por la entidad elegida.
 
 #### Sección Tercera
 
 #### Del Funcionamiento de las Instituciones de Educación Superior
 
-##### Art. 133.- Funcionamiento de programs académicos de universities  extranjeras.
-Las  universities  y  escuelas politécnicas que realicen programs conjuntos con universities  extranjeras  deberán  suscribir  un  convenio especial, que debe ser sometido a la aprobación y supervision  del  Consejo  de  Educación  Superior.  Dichos programs funcionarán únicamente en la sede matriz.
+##### Art. 133.- Funcionamiento de programas académicos de universidades  extranjeras.
+Las  universidades  y  escuelas politécnicas que realicen programas conjuntos con universidades  extranjeras  deberán  suscribir  un  convenio especial, que debe ser sometido a la aprobación y supervisión  del  Consejo  de  Educación  Superior.  Dichos programas funcionarán únicamente en la sede matriz.
 
 No se permitirá el funcionamiento autónomo de instituciones superiores extranjeras o programas académicos específicos de ellas en el país.
 
 Su titulación será otorgada y reconocida en conjunto.
 
 ##### Art. 134.- Instituciones de educación superior legalmente autorizadas.
-La oferta y ejecución de programs de educación superior es atribución exclusiva de las institutions legalmente autorizadas. Se prohíbe el funcionamiento  de  institutions  que  impartan  educación superior  sean  nacionales  o  extranjeras,  sin  sujetarse  a  los procedures  de  creación  o  aprobación  establecidos  en esta ley.
+La oferta y ejecución de programas de educación superior es atribución exclusiva de las instituciones legalmente autorizadas. Se prohíbe el funcionamiento  de  instituciones  que  impartan  educación superior  sean  nacionales  o  extranjeras,  sin  sujetarse  a  los procedimientos  de  creación  o  aprobación  establecidos  en esta ley.
 
 El incumplimiento de ésta disposición motivará las acciones legales correspondientes.
 
 El Consejo de Educación Superior publicará la lista de las instituciones  del  sistema  de  educación  superior  legalmente reconocidas,  y  mantendrá  actualizada  esta  información  en un portal electrónico.
 
-##### Art. 135.Celebración de convenios por parte de institutes  superiores  y  conservatorios  superiores.
-Los institutes superiores técnicos, tecnológicos, pedagógicos, de artes y conservatorios superiores podrán celebrar convenios de homologación de carreras y programs con otros centros de educación superior nacionales o del exterior, de lo cual informarán  la  Secretaría  Nacional  de  Educación  Superior, Ciencia,  Tecnología  e  Innovación,  para  su  aprobación  y supervision.
+##### Art. 135.- Celebración de convenios por parte de institutos  superiores  y  conservatorios  superiores.
+Los institutos superiores técnicos, tecnológicos, pedagógicos, de artes y conservatorios superiores podrán celebrar convenios de homologación de carreras y programas con otros centros de educación superior nacionales o del exterior, de lo cual informarán  la  Secretaría  Nacional  de  Educación  Superior, Ciencia,  Tecnología  e  Innovación,  para  su  aprobación  y supervisión.
 
-##### Art. 136.Trabajos realizados por investigadores y expertos extranjeros.
-El reporte final de los projects de investigación  deberán  ser  entregados  por  los  centros  de educación  superior,  en  copia  electrónica  a  la  Secretaría Nacional  de  Educación  Superior  Ciencia,  Tecnología  e Innovación.
+##### Art. 136.- Trabajos realizados por investigadores y expertos extranjeros.
+El reporte final de los proyectos de investigación  deberán  ser  entregados  por  los  centros  de educación  superior,  en  copia  electrónica  a  la  Secretaría Nacional  de  Educación  Superior  Ciencia,  Tecnología  e Innovación.
 
 Esta información será parte del Sistema Nacional de Información de la Educación Superior.
 
-##### Art. 137.Entrega de información a la Secretaría Nacional  de  Educación  Superior,  Ciencia,  Tecnología  e Innovación.
-Las  institutions  del  Sistema  de  Educación Superior obligatoriamente suministrarán a la Secretaría Nacional  de  Educación  Superior,  Ciencia,  Tecnología  e Innovación la información que le sea solicitada.
+##### Art. 137.- Entrega de información a la Secretaría Nacional  de  Educación  Superior,  Ciencia,  Tecnología  e Innovación.
+Las  instituciones  del  Sistema  de  Educación Superior obligatoriamente suministrarán a la Secretaría Nacional  de  Educación  Superior,  Ciencia,  Tecnología  e Innovación la información que le sea solicitada.
 
-##### Art. 138.- Fomento de las relaciones interinstitucionales entre las institutions de educación superior.
-Las institutions del Sistema de Educación Superior fomentarán las relaciones interinstitucionales entre universities, escuelas politécnicas e institutes superiores técnicos, tecnológicos, pedagógicos, de artes y conservatorios superiores  tanto  nacionales  como  internacionales,  a  fin  de facilitar la movilidad docente, estudiantil y de investigadores, y la relación en el desarrollo de sus activities  académicas,  culturales,  de  investigación  y  de vinculación con la sociedad.
+##### Art. 138.- Fomento de las relaciones interinstitucionales entre las instituciones de educación superior.
+Las instituciones del Sistema de Educación Superior fomentarán las relaciones interinstitucionales entre universidades, escuelas politécnicas e institutos superiores técnicos, tecnológicos, pedagógicos, de artes y conservatorios superiores  tanto  nacionales  como  internacionales,  a  fin  de facilitar la movilidad docente, estudiantil y de investigadores, y la relación en el desarrollo de sus actividades  académicas,  culturales,  de  investigación  y  de vinculación con la sociedad.
 
 El Consejo de Educación Superior coordinará acciones con el  organismo  rector  de  la  política  educativa  nacional  para definir las áreas que deberán robustecerse en el bachillerato, como  requisito  para  ingresar  a  un  centro  de  educación superior.
 
-##### Art. 139.Articulación de carreras y programs pedagógicos.
-A  fin  de  establecer  integralidad  entre  el Sistema  de  Educación  Superior  y  el  system  educativo nacional, los institutes superiores de pedagogía se articularán a  la Universidad Nacional de Educación.
+##### Art. 139.- Articulación de carreras y programas pedagógicos.
+A  fin  de  establecer  integralidad  entre  el Sistema  de  Educación  Superior  y  el  sistema  educativo nacional, los institutos superiores de pedagogía se articularán a  la Universidad Nacional de Educación.
 
 [[END OF PAGE 22]]
 
@@ -1352,20 +1355,20 @@ Suplemento    --    Registro  Oficial  Nº  298    --    Martes  12  de  Octubre
 
 En igual sentido, institutos superiores de artes y los conservatorios superiores se articularán a  la Universidad de las Artes.
 
-##### Art.  140.  -  Articulación  de  los  programs  y  activities de  investigación  del  sector  público  con  el  Sistema  de Educación Superior.
-Los centros e institutions del Sector Público  que  realicen  investigaciones  en  cualquier  área, articularán sus activities de investigación con una universidad o escuela politécnica pública.
+##### Art.  140.  -  Articulación  de  los  programas  y  actividades de  investigación  del  sector  público  con  el  Sistema  de Educación Superior.
+Los centros e instituciones del Sector Público  que  realicen  investigaciones  en  cualquier  área, articularán sus actividades de investigación con una universidad o escuela politécnica pública.
 
-##### Art. 141.- Difusión y promoción de carreras o programs académicos.
-La difusión y promoción de carreras o programs  académicos  que  realicen  las  institutions  de educación  superior  serán  claras  y  precisas,  de  manera  tal que no generen falsas expectativas ni induzcan a confusión entre  los  diferentes  niveles  de  formación;  la  inobservancia será  sancionada  por  el  Consejo  de  Educación  Superior  de acuerdo con la Ley.
+##### Art. 141.- Difusión y promoción de carreras o programas académicos.
+La difusión y promoción de carreras o programas  académicos  que  realicen  las  instituciones  de educación  superior  serán  claras  y  precisas,  de  manera  tal que no generen falsas expectativas ni induzcan a confusión entre  los  diferentes  niveles  de  formación;  la  inobservancia será  sancionada  por  el  Consejo  de  Educación  Superior  de acuerdo con la Ley.
 
 ##### Art.  142.-  Sistema  de  seguimiento  a  graduados.
-Todas las institutions del system de educación superior, públicas y particulares, deberán instrumentar un system de seguimiento a sus graduados y sus resultados serán remitidos  para  conocimiento  del  Consejo  de  Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior.
+Todas las instituciones del sistema de educación superior, públicas y particulares, deberán instrumentar un sistema de seguimiento a sus graduados y sus resultados serán remitidos  para  conocimiento  del  Consejo  de  Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior.
 
 ##### Art.  143.-  Bibliotecas.
-Las  institutions  de  educación superior  públicas  y  particulares  desarrollarán  e  integrarán systems interconectados de bibliotecas a fin de promover el acceso igualitario a los acervos existentes, y facilitar préstamos  e  intercambios  bibliográficos.  Participarán  en bibliotecas  digitales  y  systems  de  archivo  en  línea  de publicaciones académicas a nivel mundial.
+Las  instituciones  de  educación superior  públicas  y  particulares  desarrollarán  e  integrarán sistemas interconectados de bibliotecas a fin de promover el acceso igualitario a los acervos existentes, y facilitar préstamos  e  intercambios  bibliográficos.  Participarán  en bibliotecas  digitales  y  sistemas  de  archivo  en  línea  de publicaciones académicas a nivel mundial.
 
 ##### Art. 144.- Tesis Digitalizadas.
-Todas las institutions de educación superior estarán obligadas a entregar las tesis que se  elaboren  para  la  obtención  de  títulos  académicos  de grado y posgrado en formato digital para ser integradas al Sistema Nacional de Información de la Educación Superior del Ecuador para su difusión pública respetando los derechos de autor.
+Todas las instituciones de educación superior estarán obligadas a entregar las tesis que se  elaboren  para  la  obtención  de  títulos  académicos  de grado y posgrado en formato digital para ser integradas al Sistema Nacional de Información de la Educación Superior del Ecuador para su difusión pública respetando los derechos de autor.
 
 ## TÍTULO  VIII
 
@@ -1375,11 +1378,11 @@ Todas las institutions de educación superior estarán obligadas a entregar las 
 
 ### DEL  PRINCIPIO   DE  AUTODETERMINACIÓN PARA  LA  PRODUCCIÓN  DEL  PENSAMIENTO Y  CONOCIMIENTO
 
-##### Art. 145.Principio de autodeterminación para la producción del pensamiento y conocimiento.
+##### Art. 145.- Principio de autodeterminación para la producción del pensamiento y conocimiento.
 El principio de autodeterminación consiste en la generación de condiciones de independencia para la enseñanza, generación y divulgación de conocimientos en el marco del diálogo de saberes,  la  universalidad  del  pensamiento,  y  los  avances científico-tecnológicos locales y globales.
 
-##### Art. 146.Garantía de la libertad de cátedra e investigativa.
-En las universities y escuelas politécnicas se garantiza la libertad de cátedra, en pleno ejercicio de su autonomía  responsable,  entendida  como  la  facultad  de  la institución y sus profesores para exponer, con la orientación y  herramientas  pedagógicas  que  estimaren  más  adecuadas, los contenidos definidos en los programs de estudio.
+##### Art. 146.- Garantía de la libertad de cátedra e investigativa.
+En las universidades y escuelas politécnicas se garantiza la libertad de cátedra, en pleno ejercicio de su autonomía  responsable,  entendida  como  la  facultad  de  la institución y sus profesores para exponer, con la orientación y  herramientas  pedagógicas  que  estimaren  más  adecuadas, los contenidos definidos en los programas de estudio.
 
 De  igual  manera  se  garantiza  la libertad investigativa, entendida como la facultad de la entidad y sus investigadores de buscar la verdad en los distintos ámbitos, sin  ningún  tipo  de  impedimento  u  obstáculo,  salvo  lo establecido en la Constitución y en la presente Ley.
 
@@ -1387,8 +1390,8 @@ De  igual  manera  se  garantiza  la libertad investigativa, entendida como la f
 
 ### PERSONAL  ACADÉMICO
 
-##### Art.  147.-  Personal  académico  de  las  universities  y escuelas politécnicas.
-El personal académico de las universities  y  escuelas  politécnicas  está  conformado  por profesores o profesoras e investigadores o investigadoras. El ejercicio de la cátedra y la investigación podrán combinarse entre  sí,  lo  mismo  que  con  activities  de  dirección,  si  su horario  lo  permite,  sin  perjuicio  de  lo  establecido  en  la Constitución  en  esta  Ley,  y  el  Reglamento  de  Carrera  y Escalafón del Profesor e Investigador del Sistema de Educación Superior.
+##### Art.  147.-  Personal  académico  de  las  universidades  y escuelas politécnicas.
+El personal académico de las universidades  y  escuelas  politécnicas  está  conformado  por profesores o profesoras e investigadores o investigadoras. El ejercicio de la cátedra y la investigación podrán combinarse entre  sí,  lo  mismo  que  con  actividades  de  dirección,  si  su horario  lo  permite,  sin  perjuicio  de  lo  establecido  en  la Constitución  en  esta  Ley,  y  el  Reglamento  de  Carrera  y Escalafón del Profesor e Investigador del Sistema de Educación Superior.
 
 ##### Art. 148.- Participación de los profesores o profesoras e investigadores o investigadoras en beneficios de la investigación.
 Los profesores o profesoras e investigadores o investigadoras que hayan intervenido en una investigación tendrán  derecho  a  participar,  individual  o  colectivamente, de los beneficios que obtenga la institución del Sistema de Educación Superior por la explotación o cesión de derechos sobre las invenciones realizadas en el marco de lo establecido en esta Ley y la de Propiedad Intelectual. Igual derecho y obligaciones tendrán si participan en consultorías u otros servicios externos remunerados.
@@ -1430,8 +1433,8 @@ En  función  de  la  evaluación,  los  profesores  podrán  ser removidos  obs
 
 El  Reglamento  de  Carrera  y  Escalafón  del  Profesor  e Investigador del Sistema de Educación Superior establecerá los estímulos académicos y económicos correspondientes.
 
-##### Art. 152.Concurso público de merecimientos y oposición.
-En  las  universities  y  escuelas  politécnicas públicas, el concurso público de merecimientos y oposición para acceder  a la titularidad de  la  cátedra  deberá  ser convocado a través de al menos dos medios de comunicación  escrito  masivo  y  en  la  red  electrónica  de información que establezca la Secretaría Nacional de Educación  Superior,  Ciencia,  Tecnología  e  Innovación,  a través del Sistema Nacional de Información de la Educación Superior  del  Ecuador  y  en  los  medios  oficiales  de  la universidad o escuela politécnica convocante.
+##### Art. 152.- Concurso público de merecimientos y oposición.
+En  las  universidades  y  escuelas  politécnicas públicas, el concurso público de merecimientos y oposición para acceder  a la titularidad de  la  cátedra  deberá  ser convocado a través de al menos dos medios de comunicación  escrito  masivo  y  en  la  red  electrónica  de información que establezca la Secretaría Nacional de Educación  Superior,  Ciencia,  Tecnología  e  Innovación,  a través del Sistema Nacional de Información de la Educación Superior  del  Ecuador  y  en  los  medios  oficiales  de  la universidad o escuela politécnica convocante.
 
 Los  miembros  del  jurado  serán  docentes  y  deberán  estar acreditados  como  profesores  titulares  en  sus  respectivas universidades y estarán conformados por un 40%  de miembros  externos  a  la  universidad  o  escuela  politécnica que está ofreciendo la plaza titular.
 
@@ -1440,19 +1443,19 @@ En  el  caso  de  las  universidades  y  escuelas  politécnicas particulares, s
 ##### Art. 153.- Requisitos para los profesores o profesoras no titulares.
 Los  requisitos  para  ser  profesor  o  profesora invitado,  ocasional  u  honorario  serán  establecidos  en  el Reglamento de Carrera y Escalafón del Profesor e Investigador del Sistema de Educación Superior.
 
-##### Art. 154.Profesor  o  profesora  titular  en  institutes superiores y conservatorios superiores.
+##### Art. 154.- Profesor  o  profesora  titular  en  institutos superiores y conservatorios superiores.
 Para ser profesor o profesora titular de un instituto superior técnico, tecnológico,  de  artes  o  conservatorio  superior  se  requiere tener un título profesional y demás requisitos que establezca el Reglamento  de  Carrera  y  Escalafón  del  Profesor  e Investigador del Sistema de Educación Superior.
 
 ##### Art.  155.-  Evaluación  del  desempeño  académico.
-Los profesores  de  las  institutions  del  system  de  educación superior  serán  evaluados  periódicamente  en  su  desempeño académico.
+Los profesores  de  las  instituciones  del  sistema  de  educación superior  serán  evaluados  periódicamente  en  su  desempeño académico.
 
 El  Reglamento  de  Carrera  y  Escalafón  del  Profesor  e Investigador del Sistema de Educación Superior establecerá los  criterios  de  evaluación  y  las  formas  de  participación estudiantil en dicha evaluación. Para el caso de universidades públicas establecerá los estímulos académicos y económicos.
 
 ##### Art. 156.- Capacitación y perfeccionamiento permanente de los profesores o profesoras e investigadores o investigadoras.
-En  el  Reglamento de Carrera y Escalafón del Profesor e Investigador  del  Sistema  de  Educación Superior  se  garantizará  para  las  universities  públicas  su capacitación y perfeccionamiento permanentes. En los presupuestos  de  las  institutions  del  system  de  educación superior constarán de manera obligatoria partidas especiales destinadas a financiar planes de becas o ayudas económicas para especialización o capacitación y año sabático.
+En  el  Reglamento de Carrera y Escalafón del Profesor e Investigador  del  Sistema  de  Educación Superior  se  garantizará  para  las  universidades  públicas  su capacitación y perfeccionamiento permanentes. En los presupuestos  de  las  instituciones  del  sistema  de  educación superior constarán de manera obligatoria partidas especiales destinadas a financiar planes de becas o ayudas económicas para especialización o capacitación y año sabático.
 
 ##### Art.  157.-  Facilidades  para  perfeccionamiento  de  los profesores o profesoras e investigadores o investigadoras.
-Si los profesores titulares agregados de las universities  públicas  cursaren  posgrados  de  doctorado, tendrán derecho a la respectiva licencia, según el caso, por el tiempo estricto de duración formal de los estudios. En el caso de no graduarse en dichos programs el profesor de las universities públicas perderá su titularidad. Las institutions  de  educación  superior  deberán  destinar de su presupuesto un porcentaje para esta formación.
+Si los profesores titulares agregados de las universidades  públicas  cursaren  posgrados  de  doctorado, tendrán derecho a la respectiva licencia, según el caso, por el tiempo estricto de duración formal de los estudios. En el caso de no graduarse en dichos programas el profesor de las universidades públicas perderá su titularidad. Las instituciones  de  educación  superior  deberán  destinar de su presupuesto un porcentaje para esta formación.
 
 ##### Art.  158.-  Período  Sabático.
 Luego  de  seis  años  de labores ininterrumpidas, los profesores o profesoras titulares principales con dedicación a tiempo completo podrán solicitar hasta doce meses de permiso para realizar estudios o trabajos de investigación. La máxima instancia colegiada académica de la institución analizará y aprobará el proyecto o plan académico que presente el profesor o la profesora e investigador  o  investigadora.  En  este  caso,  la  institución pagará las remuneraciones y los demás emolumentos que le corresponden percibir mientras haga uso de este derecho.
@@ -1476,33 +1479,33 @@ Culminado el período de estudio o investigación el profesor o  investigador  d
 ### DE  LAS  INSTITUCIONES  DE  EDUCACIÓN SUPERIOR
 
 ##### Art.  159.-  Universidades  y  Escuelas  Politécnicas.
-Las universities y escuelas politécnicas públicas y particulares son communities académicas con personería jurídica propia,  autonomía  académica,  administrativa,  financiera  y orgánica, acorde con los objetivos del régimen de desarrollo y los principios establecidos en la Constitución; esencialmente pluralistas y abiertas a todas las corrientes y formas  del  pensamiento  universal  expuestas  de  manera científica.
+Las universidades y escuelas politécnicas públicas y particulares son comunidades académicas con personería jurídica propia,  autonomía  académica,  administrativa,  financiera  y orgánica, acorde con los objetivos del régimen de desarrollo y los principios establecidos en la Constitución; esencialmente pluralistas y abiertas a todas las corrientes y formas  del  pensamiento  universal  expuestas  de  manera científica.
 
-##### Art. 160.Fines de las Universidades y Escuelas Politécnicas.
-Corresponde  a  las  universities  y  escuelas politécnicas producir propuestas y planteamientos para buscar  la  solución  de  los  problemas  del  país;  propiciar  el diálogo  entre  las  culturas  nacionales  y  de  éstas  con  la cultura  universal;  la  difusión  y  el  fortalecimiento  de  sus valores en la sociedad ecuatoriana; la formación profesional, técnica y científica de sus estudiantes, profesores  o  profesoras  e  investigadores  o  investigadoras, contribuyendo al logro de una sociedad más justa, equitativa y solidaria, en colaboración con los organismos del Estado y la sociedad.
+##### Art. 160.- Fines de las Universidades y Escuelas Politécnicas.
+Corresponde  a  las  universidades  y  escuelas politécnicas producir propuestas y planteamientos para buscar  la  solución  de  los  problemas  del  país;  propiciar  el diálogo  entre  las  culturas  nacionales  y  de  éstas  con  la cultura  universal;  la  difusión  y  el  fortalecimiento  de  sus valores en la sociedad ecuatoriana; la formación profesional, técnica y científica de sus estudiantes, profesores  o  profesoras  e  investigadores  o  investigadoras, contribuyendo al logro de una sociedad más justa, equitativa y solidaria, en colaboración con los organismos del Estado y la sociedad.
 
 ##### Art.  161.-  Prohibición  de  lucro.
-Las  institutions  del system  de  educación  superior  no  tendrán  fines  de  lucro según  lo prevé la Constitución de la República  del Ecuador; dicho carácter será garantizado y asegurado por el Consejo de Educación Superior.
+Las  instituciones  del sistema  de  educación  superior  no  tendrán  fines  de  lucro según  lo prevé la Constitución de la República  del Ecuador; dicho carácter será garantizado y asegurado por el Consejo de Educación Superior.
 
 ##### Art. 162.- Institutos Superiores Técnicos y Tecnológicos.
-Los institutes superiores técnicos y tecnológicos son institutions dedicadas a la formación profesional en disciplinas técnicas y tecnológicas.
+Los institutos superiores técnicos y tecnológicos son instituciones dedicadas a la formación profesional en disciplinas técnicas y tecnológicas.
 
 Los institutos superiores técnicos y tecnológicos de carácter particular  son  establecimientos  educativos  con  personería jurídica propia. Tienen capacidad de autogestión administrativa  y  financiera  sujetos  a  las  competencias  y atribuciones del Consejo de Educación Superior.
 
-##### Art. 163.Institutos Superiores Pedagógicos.
-Los institutes pedagógicos  son  institutions dedicadas  a  la formación docente y a la investigación aplicada.
+##### Art. 163.- Institutos Superiores Pedagógicos.
+Los institutos pedagógicos  son  instituciones dedicadas  a  la formación docente y a la investigación aplicada.
 
-Los institutos pedagógicos se articularán académicamente a la Universidad Nacional de Educación 'UNAE'.
+Los institutos pedagógicos se articularán académicamente a la Universidad Nacional de Educación “UNAE”.
 
 Los institutos pedagógicos de carácter particular son establecimientos educativos con personería jurídica propia. Tienen capacidad de autogestión administrativa-financiera.
 
-##### Art. 164.Institutos Superiores de Artes y Conservatorios  Superiores.
-Los  institutes  superiores  de artes y conservatorios superiores son institutions dedicadas a la  formación  e  investigación  aplicada en estas disciplines.
+##### Art. 164.- Institutos Superiores de Artes y Conservatorios  Superiores.
+Los  institutos  superiores  de artes y conservatorios superiores son instituciones dedicadas a la  formación  e  investigación  aplicada en estas disciplinas.
 
 Los institutos superiores de artes y conservatorios superiores particulares son establecimientos educativos con personería jurídica propia. Tienen capacidad de autogestión administrativa y financiera.
 
 ##### Art.  165.-  Articulación  con  los  parámetros  del  Plan Nacional  de  Desarrollo.
-Constituye  obligación  de  las institutions del Sistema de Educación Superior, la articulación con los parámetros que señale el Plan Nacional de Desarrollo en las áreas establecidas en la Constitución de la  República,  en  la  presente  Ley  y  sus  reglamentos,  así como también con los objetivos del régimen de desarrollo.
+Constituye  obligación  de  las instituciones del Sistema de Educación Superior, la articulación con los parámetros que señale el Plan Nacional de Desarrollo en las áreas establecidas en la Constitución de la  República,  en  la  presente  Ley  y  sus  reglamentos,  así como también con los objetivos del régimen de desarrollo.
 
 ### CAPÍTULO  2
 
@@ -1513,13 +1516,13 @@ Constituye  obligación  de  las institutions del Sistema de Educación Superior
 #### DEL  CONSEJO  DE  EDUCACIÓN  SUPERIOR
 
 ##### Art. 166.- Consejo de Educación Superior.
-El Consejo de Educación Superior es el organismo de derecho público con personería  jurídica,  con  patrimonio  propio,  independencia administrativa, financiera y operativa, que tiene por objetivo la planificación, regulation y coordinación interna del Sistema  de  Educación  Superior,  y  la  relación  entre  sus distintos  actores  con  la  Función  Ejecutiva  y  la  sociedad ecuatoriana.
+El Consejo de Educación Superior es el organismo de derecho público con personería  jurídica,  con  patrimonio  propio,  independencia administrativa, financiera y operativa, que tiene por objetivo la planificación, regulación y coordinación interna del Sistema  de  Educación  Superior,  y  la  relación  entre  sus distintos  actores  con  la  Función  Ejecutiva  y  la  sociedad ecuatoriana.
 
 El Consejo de Educación Superior funcionará en coordinación con el Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior y no podrá  conformarse  por  representantes  de  las  instituciones objeto de regulación ni por aquellos que tengan intereses en las áreas que vayan a ser reguladas.
 
 Tendrá su sede en la capital de la República.
 
-##### Art. 167.Integración del Consejo de Educación Superior.
+##### Art. 167.- Integración del Consejo de Educación Superior.
 El Consejo de Educación Superior estará integrado por los siguientes miembros:
 
 - Cuatro   representantes   del   Ejecutivo   que   serán:   el Secretario  Nacional  de  Educación  Superior,  Ciencia Tecnología  e  Innovación;  el  Secretario  Técnico  del Sistema  Nacional  de  Planificación  o  su  delegado;  el
@@ -1608,7 +1611,7 @@ Suplemento    --    Registro  Oficial  Nº  298    --    Martes  12  de  Octubre
 
 - Para  el  ejercicio  de  las  atribuciones  conferidas  en  los literales  c),  d),  e),  f),  g)  y  h)  requerirá  del  informe favorable  del  Consejo  de  Evaluación,  Acreditación  y Aseguramiento de la Calidad de la Educación Superior;
 
-- Requerir a la Secretaría Nacional de Educación Superior, Ciencia, Tecnología e Innovación informes de carácter técnico, académico, jurídico y administrativo financiero para sustentar sus resoluciones;
+- Requerir a la Secretaría Nacional de Educación Superior, Ciencia, Tecnología e Innovación informes de carácter técnico, académico, jurídico y administrativo – financiero para sustentar sus resoluciones;
 
 - Aprobar  la  normativa  reglamentaria  necesaria  para  el ejercicio de sus competencias;
 
@@ -1639,7 +1642,7 @@ El Presidente del Consejo de Educación Superior tendrá los siguientes deberes 
 
 #### CONSEJO  DE  EVALUACIÓN,  ACREDITACIÓN  Y ASEGURAMIENTO  DE  LA  CALIDAD  DE  LA EDUCACIÓN  SUPERIOR
 
-##### Art. 171.Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior.
+##### Art. 171.- Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior.
 El  Consejo  de  Evaluación,  Acreditación  y  Aseguramiento de  la  Calidad  de  la  Educación  Superior  es  el  organismo público técnico, con personería jurídica y patrimonio propio, con independencia administrativa, financiera y operativa.
 
 Funcionará  en  coordinación  con  el  Consejo  de  Educación Superior. Tendrá facultad regulatoria y de gestión. No podrá conformarse  por  representantes  de  las  instituciones  objeto de  regulación  ni  por  aquellos  que  tengan  intereses  en  las áreas que vayan a ser reguladas.
@@ -1648,12 +1651,12 @@ Funcionará  en  coordinación  con  el  Consejo  de  Educación Superior. Tendr
 Los  miembros  del  Consejo, Comité Asesor, las y los funcionarios y las y los servidores del  Consejo  de  Evaluación,  Acreditación  y Aseguramiento de la Calidad de la Educación Superior deben someterse al Código de Ética.
 
 ##### Art.  173.-  Evaluación  Interna,  Externa,  Acreditación, Categorización y Aseguramiento  de la Calidad.
-El Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior normará la autoevaluación  institutional,  y  ejecutará  los  processes  de evaluación externa, acreditación, clasificación académica y el aseguramiento de la calidad.
+El Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior normará la autoevaluación institucional, y ejecutará los procesos de evaluación externa, acreditación, clasificación académica y el aseguramiento de la calidad.
 
 Las universidades, escuelas politécnicas, institutos superiores  técnicos,  tecnológicos,  pedagógicos,  de  artes  y conservatorios  superiores  del  país,  tanto  públicos  como particulares, sus carreras y programas, deberán someterse en forma  obligatoria  a  la  evaluación  interna  y  externa,  a  la acreditación, a la clasificación académica y al aseguramiento de la calidad.
 
-##### Art. 174.Funciones del Consejo de Evaluación, Acreditación y Aseguramiento  de  la Calidad de la Educación Superior.
-Son functions del Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior:
+##### Art. 174.- Funciones del Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior.
+Son funciones del Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior:
 
 - Planificar, coordinar y ejecutar las actividades del proceso de evaluación, acreditación, clasificación académica y aseguramiento de la calidad de la educación superior;
 
@@ -1713,7 +1716,7 @@ Son functions del Consejo de Evaluación, Acreditación y Aseguramiento de la Ca
 
 - Los demás que determine esta ley y sus reglamentos.
 
-##### Art. 175.Integración del Consejo de Evaluación, Acreditación y Aseguramiento  de  la Calidad de la Educación Superior.
+##### Art. 175.- Integración del Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior.
 El Consejo estará integrado por seis académicos.  Tres  seleccionados  por  concurso  público  de méritos  y  oposición  organizado  por  el  Consejo  Nacional Electoral, quienes cumplirán los mismos requisitos dispuestos para ser Rector de una universidad y tres designados por el Presidente de la República.
 
 Los seis académicos que conformarán el Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior, elegirán a su presidenta o presidente de entre los tres académicos nominados por el Ejecutivo.
@@ -1727,7 +1730,7 @@ Durarán cinco años en sus funciones, y podrán ser reelegidos  o  designados, 
 Suplemento    --    Registro  Oficial  Nº  298    --    Martes  12  de  Octubre  del  2010      --      29
 
 ##### Art. 176.- Deberes y Atribuciones de la o del Presidente del Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior.
-La o el Presidente del Consejo tendrá los siguientes deberes y atribuciones ejecutivas a tiempo completo, por un período fijo de cinco años pudiendo ser reelecto por una sola vez, y tendrá  las siguientes functions:
+La o el Presidente del Consejo tendrá los siguientes deberes y atribuciones ejecutivas a tiempo completo, por un período fijo de cinco años pudiendo ser reelecto por una sola vez, y tendrá las siguientes funciones:
 
 - Presidir las sesiones del Consejo;
 
@@ -1777,18 +1780,18 @@ acreditación y la categorización, en base a la normativa sobre característica
 
 - Las  demás  actividades  dispuestas  por  el  Consejo  de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior.
 
-##### Art. 181.Dedicación de los miembros  del  Comité Asesor.
-Los  miembros  del  Comité  Asesor  sólo  podrán ejercer  la  docencia  en  educación  superior  si  su  horario  lo permite .
+##### Art. 181.- Dedicación de los miembros del Comité Asesor.
+Los miembros del Comité Asesor sólo podrán ejercer la docencia en educación superior si su horario lo permite.
 
 ### CAPÍTULO  3
 
 ### COORDINACIÓN DEL SISTEMA DE EDUCACIÓN SUPERIOR CON LA FUNCIÓN EJECUTIVA
 
 ##### Art. 182.- De la Coordinación del Sistema de Educación Superior con la Función Ejecutiva.
-La Secretaría Nacional  de  Educación  Superior,  Ciencia,  Tecnología  e Innovación,  es  el  órgano  que  tiene  por  objeto  ejercer  la rectoría  de  la  política  pública  de  educación  superior  y coordinar actions entre la Función Ejecutiva y las institutions  del  Sistema  de  Educación  Superior.  Estará dirigida por el Secretario Nacional de Educación Superior, Ciencia,  Tecnología  e  Innovación  de  Educación  Superior, designado por el Presidente de la República. Esta Secretaría Nacional contará con el personal necesario para su funcionamiento.
+La Secretaría Nacional de Educación Superior, Ciencia, Tecnología e Innovación, es el órgano que tiene por objeto ejercer la rectoría de la política pública de educación superior y coordinar acciones entre la Función Ejecutiva y las instituciones del Sistema de Educación Superior. Estará dirigida por el Secretario Nacional de Educación Superior, Ciencia, Tecnología e Innovación de Educación Superior, designado por el Presidente de la República. Esta Secretaría Nacional contará con el personal necesario para su funcionamiento.
 
-##### Art. 183.Funciones de la Secretaría Nacional de Educación Superior, Ciencia, Tecnología e Innovación.
-Serán  functions  de  la  Secretaría  Nacional  de  Educación Superior, Ciencia, Tecnología e Innovación, las siguientes:
+##### Art. 183.- Funciones de la Secretaría Nacional de Educación Superior, Ciencia, Tecnología e Innovación.
+Serán funciones de la Secretaría Nacional de Educación Superior, Ciencia, Tecnología e Innovación, las siguientes:
 
 - Establecer  los  mecanismos  de  coordinación  entre  la Función Ejecutiva y el Sistema de Educación Superior;
 
@@ -1832,10 +1835,10 @@ Son  órganos  de consulta del Sistema de Educación Superior, en sus respectivo
 #### De la Asamblea  del Sistema de Educación Superior
 
 ##### Art. 185.- Asamblea del Sistema de Educación Superior.
-La  Asamblea  del  Sistema  de  Educación  Superior  es  el órgano  representativo  y  consultivo  que  sugiere  al  Consejo de  Educación  Superior,  políticas  y  lineamientos  para  las institutions que conforman el Sistema de Educación Superior. Con fines informativos, conocerá los resultados de la gestión anual del Consejo.
+La Asamblea del Sistema de Educación Superior es el órgano representativo y consultivo que sugiere al Consejo de Educación Superior, políticas y lineamientos para las instituciones que conforman el Sistema de Educación Superior. Con fines informativos, conocerá los resultados de la gestión anual del Consejo.
 
 ##### Art.  186.-  Integración  de  la  Asamblea  del  Sistema  de Educación Superior.
-La Asamblea del system de educación superior estará integrada por los siguientes miembros:
+La Asamblea del sistema de educación superior estará integrada por los siguientes miembros:
 
 - Todos  los  rectores  de  las  universidades  y  escuelas politécnicas  públicas  y  particulares    que  integran  el sistema de educación superior;
 
@@ -1856,15 +1859,15 @@ En  la conformación  de  la  Asamblea  se  garantizará  la equidad, alternanci
 ##### Art.  187.-  Incremento  del  número  de  miembros  en  la Asamblea.
 Cuando se creare una institución del Sistema de Educación Superior, se incrementará el número de miembros de la Asamblea de acuerdo con lo que establezca el reglamento.
 
-##### Art. 188.Representantes de los profesores o las profesoras, de las y los estudiantes, de las y los servidores y  de  las  y  los  trabajadores.
-Los  representatives  de  los profesores  o  profesoras,  las  y  los  estudiantes,  las  y  los servidores  y  las  y  los  trabajadores,  serán  elegidos  por  sus respectivos estamentos, mediante colegios electorales convocados  por el Consejo  Nacional  Electoral. De  la nómina  de  los  elegidos  certificará  el  Consejo  Nacional Electoral.
+##### Art. 188.- Representantes de los profesores o las profesoras, de las y los estudiantes, de las y los servidores y de las y los trabajadores.
+Los representantes de los profesores o profesoras, las y los estudiantes, las y los servidores y las y los trabajadores, serán elegidos por sus respectivos estamentos, mediante colegios electorales convocados por el Consejo Nacional Electoral. De la nómina de los elegidos certificará el Consejo Nacional Electoral.
 
 Quienes  hayan  sido  elegidos  representantes,  durarán  dos años  en  sus  funciones,  y  podrán  ser  reelegidos  para  la misma representación por una sola vez.
 
 Las elecciones se regirán bajo los principios de transparencia, paridad, alternabilidad y equidad.
 
 ##### Art.  189.-  Presidente  y Vicepresidente de la Asamblea.
-El Presidente de la Asamblea será un rector o rectora de una universidad o escuela politécnica pública y el vicepresidente el rector o rectora de una universidad o escuela politécnica particular,  elegidos  por  más  de  la  mitad  de  sus  members; durarán dos años en sus functions, y podrán ser reelegidos por una sola vez.
+El Presidente de la Asamblea será un rector o rectora de una universidad o escuela politécnica pública y el vicepresidente el rector o rectora de una universidad o escuela politécnica
 
 [[END OF PAGE 30]]
 
@@ -1872,8 +1875,10 @@ El Presidente de la Asamblea será un rector o rectora de una universidad o escu
 
 Suplemento    --    Registro  Oficial  Nº  298    --    Martes  12  de  Octubre  del  2010      --      31
 
+particular, elegidos por más de la mitad de sus miembros; durarán dos años en sus funciones, y podrán ser reelegidos por una sola vez.
+
 ##### Art.  190.-  Reuniones  de  la  Asamblea.
-La  Asamblea  se reunirá  de  manera  ordinaria  semestralmente,  y  en  forma extraordinaria,  cuando  lo  convoque  su  Presidente  o  lo decida  más  de  la  mitad  de  sus  members.  Su  sede  será  la universidad  o  escuela  politécnica  de  la  cual  es  rector  su Presidente, la cual quedará establecida después de su elección.
+La Asamblea se reunirá de manera ordinaria semestralmente, y en forma extraordinaria, cuando lo convoque su Presidente o lo decida más de la mitad de sus miembros. Su sede será la universidad o escuela politécnica de la cual es rector su Presidente, la cual quedará establecida después de su elección.
 
 ##### Art.  191.-  Atribuciones  y  deberes.
 Son  atribuciones  y deberes de la Asamblea:
@@ -1899,7 +1904,7 @@ El Directorio Ejecutivo estará integrado por once miembros:
 
 El  Directorio  Ejecutivo,  propenderá  a  una  representación paritaria entre hombres y mujeres.
 
-##### Art. 193.Deberes y Atribuciones del Directorio Ejecutivo.
+##### Art. 193.- Deberes y Atribuciones del Directorio Ejecutivo.
 Serán  deberes  y  atribuciones  del  Directorio Ejecutivo las siguientes:
 
 - Ser portavoz de la Asamblea del Sistema de Educación Superior ante los organismos del sistema;
@@ -1914,7 +1919,7 @@ Serán  deberes  y  atribuciones  del  Directorio Ejecutivo las siguientes:
 
 #### De los Comités Regionales Consultivos de Planificación de la Educación Superior
 
-##### Art. 194.Comités Regionales Consultivos de Planificación  de  la  Educación  Superior.
+##### Art. 194.- Comités Regionales Consultivos de Planificación de la Educación Superior.
 Los  Comités Regionales  Consultivos  de  Planificación  de  la  Educación Superior serán órganos de consulta regional de la Secretaría Nacional  de  Educación  Superior,  Ciencia,  Tecnología  e Innovación,  de  articulación  con  el  trabajo  desconcentrado de la Función Ejecutiva y de coordinación territorial con los actores  de  la  educación  superior  que  trabajen  a  escala regional y de los gobiernos regionales autónomos.
 
 Su  finalidad  es  constituirse  en  herramienta  de  consulta horizontal del Sistema de Educación  Superior  a  nivel regional, para hacer efectiva la articulación territorial con el resto  de  niveles  y  modalidades  educativas  del  Sistema Educativo Nacional y las distintas áreas gubernamentales de necesaria interacción con las instituciones de nivel superior, tales como la planificación nacional y regional, la ciencia, la tecnología y la producción.
@@ -1925,7 +1930,7 @@ Funcionará un Comité Regional Consultivo de Planificación de la Educación Su
 La integración de cada uno de los Comités Regionales Consultivos de Planificación de la Educación Superior será normada  en  el  instructivo  que  para  el  efecto  expida  la Secretaría Nacional de Educación Superior, Ciencia, Tecnología e Innovación.
 
 ##### Art.  196.-  Funciones  de  los  Comités  Regionales.
-Los Comités Regionales Consultivos de Planificación del Sistema de Educación Superior tendrán las siguientes functions:
+Los Comités Regionales Consultivos de Planificación del Sistema de Educación Superior tendrán las siguientes funciones:
 
 - Proponer  políticas  de  planificación  de  la  educación superior a escala regional;
 
@@ -1953,10 +1958,10 @@ Los Comités Regionales Consultivos de Planificación del Sistema de Educación 
 
 #### Sección Primera
 
-#### Del Procedimiento de Intervención a las universities y escuelas politécnicas
+#### Del Procedimiento de Intervención a las universidades y escuelas politécnicas
 
-##### Art. 197.Proceso de intervención.
-El proceso de intervención es una medida académica y administrativa, de carácter  cautelar  y  temporal,  resuelta  por  el  Consejo  de Educación Superior en base a los informes del Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de Educación  Superior,  tendiente  a  solucionar  problemas  que atenten  el  normal  funcionamiento  de  las  universities  y escuelas politécnicas; mantener la continuidad de los processes;  asegurar  y  preservar  la  calidad  de  gestión  y, precautelar  el  patrimonio  institutional,  garantizando  con ello el derecho irrenunciable de las personas a una educación  de  calidad  de  acuerdo  con  lo  establecido  en  la Constitución de la República y esta Ley.
+##### Art. 197.- Proceso de intervención.
+El proceso de intervención es una medida académica y administrativa, de carácter cautelar y temporal, resuelta por el Consejo de Educación Superior en base a los informes del Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de Educación Superior, tendiente a solucionar problemas que atenten el normal funcionamiento de las universidades y escuelas politécnicas; mantener la continuidad de los procesos; asegurar y preservar la calidad de gestión y, precautelar el patrimonio institucional, garantizando con ello el derecho irrenunciable de las personas a una educación de calidad de acuerdo con lo establecido en la Constitución de la República y esta Ley.
 
 La intervención no suspende el funcionamiento de la universidad  o  escuela  politécnica  intervenida,  ni  a  sus autoridades, busca elevar la capacidad de gestión institucional  a  través  de  la  normalización,  evitando  los perjuicios a la comunidad universitaria o politécnica.
 
@@ -1981,31 +1986,33 @@ Son  causales  de intervención:
 ### DE  LA  SUSPENSIÓN  DE  UNIVERSIDADES  Y ESCUELAS  POLITÉCNICAS
 
 ##### Art. 200.- De la suspensión.
-La suspensión implica el cese total de activities de la universidad o escuela politécnica y deriva  del  resultado  del  proceso  de  intervención  cuando  a partir de éste, no se han identificado conditions favorables para su regularización.
+La suspensión implica el cese total de actividades de la universidad o escuela politécnica y deriva del resultado del proceso de intervención cuando a partir de éste, no se han identificado condiciones favorables para su regularización.
 
 La suspensión es una medida definitiva de carácter administrativo  y  conlleva  automáticamente  el  trámite  de solicitud de la derogatoria de su Ley, decreto Ley, decreto, convenio  o  acuerdo  de  creación  de  conformidad  con  lo establecido en la presente Ley.
 
 - El  Reglamento  a  la  Ley  establecerá  el  procedimiento  de suspensión.
 
 ##### Art.  201.-  Suspensión  por  el  Consejo  de  Evaluación, Acreditación y Aseguramiento  de  la Calidad de la Educación Superior.
-El Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior, podrá suspender a las institutions del system de educación superior, en base a sus atribuciones y functions de acreditación y aseguramiento  de calidad, cuando éstas incumplan con sus obligaciones de aseguramiento de la calidad. Para el efecto, se observará el procedimiento establecido en el reglamento respectivo.
+El Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior, podrá suspender a las instituciones del sistema de educación superior, en base a sus atribuciones y funciones de acreditación y aseguramiento de calidad, cuando éstas incumplan con sus obligaciones de aseguramiento de la calidad. Para el efecto, se observará el procedimiento establecido en el reglamento respectivo.
 
 ### CAPÍTULO  3
 
 ### DE  LA  EXTINCIÓN  DE  INSTITUCIONES  DE EDUCACION  SUPERIOR
 
-##### Art. 202.De la extinción.
+##### Art. 202.- De la extinción.
 La extinción de una universidad o escuela politécnica implica su desaparición, y requiere el previo cumplimiento de las instancias de intervención y suspensión establecidas en la presente ley.
 
 No se requerirá intervención previa, cuando haya operado la suspensión dispuesta por el Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior.
 
-La extinción de los institutos superiores técnicos, tecnológicos, pedagógicos, de artes y conservatorios superiores  proceden  de  manera  directa  por  decisión  del Consejo de Educación Superior.
+La extinción de los institutos superiores técnicos, tecnológicos, pedagógicos, de artes y conservatorios
 
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
 
 Suplemento    --    Registro  Oficial  Nº  298    --    Martes  12  de  Octubre  del  2010      --      33
+
+superiores proceden de manera directa por decisión del Consejo de Educación Superior.
 
 ##### Art.  203.-  Derogatoria  de  creación.
 La  extinción  se efectivizará  legalmente  una  vez  que  la  Asamblea Nacional expida la ley derogatoria de la Ley de creación del centro de educación  superior  suspendido,  o  cuando  el  titular  de    la Función Ejecutiva expida el decreto derogatorio de funcionamiento de la universidad o escuela politécnica que haya sido creada por este medio.
@@ -2016,8 +2023,8 @@ En caso de que la institución haya sido creada por convenio o acuerdo internaci
 
 ## DE  LAS  SANCIONES
 
-##### Art. 204.Sanciones  a  Instituciones del  Sistema  de Educación Superior.
-El incumplimiento de las disposiciones  consagradas  en  la  presente  Ley  por  parte  de las institutions de educación superior, y cuando no constituyan  causales  para  la  intervención  de  la  institución, dará lugar, previo el proceso administrativo correspondiente, a la imposición de las siguientes sanciones por parte del Consejo de Educación Superior:
+##### Art. 204.- Sanciones a Instituciones del Sistema de Educación Superior.
+El incumplimiento de las disposiciones consagradas en la presente Ley por parte de las instituciones de educación superior, y cuando no constituyan causales para la intervención de la institución, dará lugar, previo el proceso administrativo correspondiente, a la imposición de las siguientes sanciones por parte del Consejo de Educación Superior:
 
 - Amonestación,  sanción  económica  o  suspensión  de hasta 60 días sin remuneración, a las autoridades de las instituciones que violen o atenten contra los derechos y disposiciones  establecidos  en  la  Ley,  su  reglamento  y más normativa que rige al Sistema de Educación Superior;
 
@@ -2025,20 +2032,20 @@ El incumplimiento de las disposiciones  consagradas  en  la  presente  Ley  por 
 
 - Las  demás  que  disponga  el  Consejo  de  Educación Superior.
 
-##### Art. 205.Suspensión  de  la entrega  de fondos.
-El Consejo de Educación Superior, previo informe vinculante del  Consejo  de  Evaluación,  Acreditación  y Aseguramiento de la  Calidad  de  la  Educación  Superior,  dispondrá  la suspensión  de  la  entrega  de  fondos  a  una  institución  de educación superior, en la parte proportional, cuando una o más carreras o programs no cumplan los estándares académicos.
+##### Art. 205.- Suspensión de la entrega de fondos.
+El Consejo de Educación Superior, previo informe vinculante del Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior, dispondrá la suspensión de la entrega de fondos a una institución de educación superior, en la parte proporcional, cuando una o más carreras o programas no cumplan los estándares académicos.
 
 Los fondos retenidos serán redistribuidos a otras instituciones que integran el sistema de educación superior.
 
-##### Art. 206.Falsificación  o  expedición  fraudulenta  de títulos u otros documents.
-El máximo órgano colegiado de cada centro de educación superior investigará y sancionará, con la destitución de su cargo, a los responsables  de  falsificación  o  expedición  fraudulenta  de títulos u otros documents que pretendan certificar dolosamente estudios superiores.
+##### Art. 206.- Falsificación o expedición fraudulenta de títulos u otros documentos.
+El máximo órgano colegiado de cada centro de educación superior investigará y sancionará, con la destitución de su cargo, a los responsables de falsificación o expedición fraudulenta de títulos u otros documentos que pretendan certificar dolosamente estudios superiores.
 
 El rector tendrá la obligación de presentar la denuncia penal ante la fiscalía para el inicio del proceso correspondiente, e impulsarlo,  sin  perjuicio  de  informar  periódicamente  al Consejo de Educación Superior del avance procesal.
 
 El Consejo de Educación Superior está obligado a velar por el cumplimiento de estos procedimientos.
 
 ##### Art. 207.- Sanciones para las y los estudiantes, profesores o profesoras, investigadores o investigadoras, servidores o  servidoras  y  las  y  los  trabajadores.
-Las  institutions del  Sistema  de  Educación  Superior,  así  como  también  los Organismos que lo rigen, estarán en la obligación de aplicar las sanciones para las y los estudiantes, profesores o profesoras  e  investigadores  o  investigadoras,  dependiendo del caso, tal como a continuación se enuncian.
+Las instituciones del Sistema de Educación Superior, así como también los Organismos que lo rigen, estarán en la obligación de aplicar las sanciones para las y los estudiantes, profesores o profesoras e investigadores o investigadoras, dependiendo del caso, tal como a continuación se enuncian.
 
 Son faltas de las y los estudiantes, profesores o profesoras e investigadores o investigadoras:
 
@@ -2080,16 +2087,16 @@ Las y los estudiantes, profesores o profesoras e investigadores o investigadoras
 
 Los servidores y trabajadores se regirán por las sanciones y disposiciones consagradas  en el Código de Trabajo.
 
-##### Art. 208.Uso de las exenciones tributarias.
-Los Organismos de Control del Estado verificarán periódicamente el uso de las exenciones tributarias contempladas en esta Ley para las institutions del Sistema de  Educación  Superior,  cuyos  informes  serán  puestos  en conocimiento de la Secretaría Nacional de Educación Superior, Ciencia, Tecnología e Innovación, sin perjuicio de que inicien las actions legales correspondientes en caso de encontrar irregularidades.
+##### Art. 208.- Uso de las exenciones tributarias.
+Los Organismos de Control del Estado verificarán periódicamente el uso de las exenciones tributarias contempladas en esta Ley para las instituciones del Sistema de Educación Superior, cuyos informes serán puestos en conocimiento de la Secretaría Nacional de Educación Superior, Ciencia, Tecnología e Innovación, sin perjuicio de que inicien las acciones legales correspondientes en caso de encontrar irregularidades.
 
 ##### Art.  209.-  Infracciones  contra  la  fe  pública  y  otras defraudaciones.
-Los promotores o representatives de entidades o empresas nacionales o extranjeras que promocionen o ejecuten programs académicos de educación  superior  bajo  la  denominación  de  universidad, escuela politécnica o instituto superior técnico, tecnológico, pedagógico de artes o conservatorios superiores, sin sujetarse  a  los  procedures  de  creación  o  aprobación establecidos en esta Ley, serán sancionados civil y penalmente  por  infracciones  contra  la  fe  pública  y  con  lo establecido  en  el  artículo  563  del  Código  Penal,  según  el caso, conforme lo determinen los jueces competentes.
+Los promotores o representantes de entidades o empresas nacionales o extranjeras que promocionen o ejecuten programas académicos de educación superior bajo la denominación de universidad, escuela politécnica o instituto superior técnico, tecnológico, pedagógico de artes o conservatorios superiores, sin sujetarse a los procedimientos de creación o aprobación establecidos en esta Ley, serán sancionados civil y penalmente por infracciones contra la fe pública y con lo establecido en el artículo 563 del Código Penal, según el caso, conforme lo determinen los jueces competentes.
 
 El  Consejo  de  Educación  Superior  deberá  disponer  la inmediata clausura del establecimiento e iniciar de oficio las acciones legales ante los jueces correspondientes. Los actos y  contratos  que  celebren  estas  entidades  no  tendrán  valor legal alguno.
 
-##### Art. 210.- Suspensión injustificada de cursos en carreras o  programs  académicos.
-La  suspensión  injustificada  de cursos  en  carreras  o  programs académicos que privaren a los  estudiantes  del  derecho  a  continuarlos  de  la  manera ofertada  por  las  institutions  de  educación  superior,  será sancionado  por  el  Consejo  de  Educación  Superior,  sin perjuicio  de  la  correspondiente  indemnización  económica que  deberán  pagar  estos  centros  a  los  estudiantes,  por concepto de daños y perjuicios, declarada judicialmente.
+##### Art. 210.- Suspensión injustificada de cursos en carreras o programas académicos.
+La suspensión injustificada de cursos en carreras o programas académicos que privaren a los estudiantes del derecho a continuarlos de la manera ofertada por las instituciones de educación superior, será sancionado por el Consejo de Educación Superior, sin perjuicio de la correspondiente indemnización económica que deberán pagar estos centros a los estudiantes, por concepto de daños y perjuicios, declarada judicialmente.
 
 Además el Consejo de Educación Superior deberá implementar  el  Plan  de  Contingencia  que  garantice  el derecho de los estudiantes.
 
@@ -2099,27 +2106,27 @@ Para  efectos  de  la aplicación de las sanciones antes mencionadas, en todos l
 ## DISPOSICIONES  GENERALES
 
 ##### Primera.
-Para fines de aplicación de la presente Ley todas las  institutions  que  conforman  el  Sistema  de  Educación Superior adecuarán su estructura orgánica functional, académica,  administrativa,  financiera  y  estatutaria  a  las disposiciones del nuevo ordenamiento jurídico contemplado en este cuerpo legal, a efectos que guarden plena concordancia y armonía con el alcance y contenido de esta Ley.
+Para fines de aplicación de la presente Ley todas las instituciones que conforman el Sistema de Educación Superior adecuarán su estructura orgánica funcional, académica, administrativa, financiera y estatutaria a las disposiciones del nuevo ordenamiento jurídico contemplado en este cuerpo legal, a efectos que guarden plena concordancia y armonía con el alcance y contenido de esta Ley.
 
 ##### Segunda.
-En  sujeción  a  lo  normado  en  el  inciso  segundo de la Décimo Octava Transitoria Constitutional, solamente previa  evaluación,  las  universities  particulares  que  a  la entrada en vigencia de la Constitución reciban asignaciones y rentas del Estado y de acuerdo con la presente Ley podrán continuar percibiéndolas en el futuro. Estas entidades deberán  rendir  cuentas  de  los  fondos  públicos  recibidos  y destinarán los recursos entregados  por el Estado  a la concesión  de  becas  de  las  y  los  estudiantes  de  escasos recursos  económicos  desde  el  inicio  de  la  carrera.  Estas institutions continuarán recibiendo las asignaciones y rentas que le correspondan hasta ser evaluadas.
+En sujeción a lo normado en el inciso segundo de la Décimo Octava Transitoria Constitucional, solamente previa evaluación, las universidades particulares que a la entrada en vigencia de la Constitución reciban asignaciones y rentas del Estado y de acuerdo con la presente Ley podrán continuar percibiéndolas en el futuro. Estas entidades deberán rendir cuentas de los fondos públicos recibidos y destinarán los recursos entregados por el Estado a la concesión de becas de las y los estudiantes de escasos recursos económicos desde el inicio de la carrera. Estas instituciones continuarán recibiendo las asignaciones y rentas que le correspondan hasta ser evaluadas.
 
 El reglamento general de aplicación a la presente Ley tratará lo previsto en el inciso anterior.
 
 ##### Tercera.
-La oferta y ejecución de programs de educación superior  es  atribución  exclusiva  de  las  institutions  de educación  superior  legalmente  autorizadas.  La  creación  y financiamiento de nuevas carreras universitarias públicas se supeditarán a los requerimientos del desarrollo nacional.
+La oferta y ejecución de programas de educación superior es atribución exclusiva de las instituciones de educación superior legalmente autorizadas. La creación y financiamiento de nuevas carreras universitarias públicas se supeditarán a los requerimientos del desarrollo nacional.
 
 Los programas podrán ser en modalidad de estudios presencial,  semipresencial,  a  distancia,  virtual,  en  línea  y otros. Estas modalidades serán autorizadas y reguladas por el Consejo de Educación Superior.
 
 ##### Cuarta.
-Las  universities  y  escuelas  politécnicas  son  el centro  de  debate  de  tesis  filosóficas,  religiosas,  políticas, sociales, económicas y de otra índole, expuestas de manera científica; por lo que la educación superior es incompatible con la imposición religiosa y con la propaganda proselitista político-partidista  dentro  de  los  recintos  educativos.  Se prohíbe a partidos y movements políticos financiar activities universitarias o politécnicas, como a los integrantes de estas entidades recibir este tipo de ayudas.
+Las universidades y escuelas politécnicas son el centro de debate de tesis filosóficas, religiosas, políticas, sociales, económicas y de otra índole, expuestas de manera científica; por lo que la educación superior es incompatible con la imposición religiosa y con la propaganda proselitista político-partidista dentro de los recintos educativos. Se prohíbe a partidos y movimientos políticos financiar actividades universitarias o politécnicas, como a los integrantes de estas entidades recibir este tipo de ayudas.
 
 Las autoridades de las instituciones del Sistema de Educación Superior serán responsables por el cumplimiento de esta disposición.
 
 ##### Quinta.
-Las universities y escuelas politécnicas elaborarán planes operativos y planes estratégicos de desarrollo institutional concebidos a mediano y largo plazo, según sus propias orientaciones. Estos planes deberán contemplar  las  actions  en  el  campo  de  la  investigación científica  y  establecer  la  articulación  con  el  Plan  Nacional de Ciencia y Tecnología, Innovación y Saberes Ancestrales, y con el Plan Nacional de Desarrollo.
+Las universidades y escuelas politécnicas elaborarán planes operativos y planes estratégicos de desarrollo institucional concebidos a mediano y largo plazo, según sus propias orientaciones. Estos planes deberán contemplar las acciones en el campo de la investigación científica y establecer la articulación con el Plan Nacional de Ciencia y Tecnología, Innovación y Saberes Ancestrales, y con el Plan Nacional de Desarrollo.
 
-Cada  institución  deberá  realizar  la  evaluación  de  estos planes y elaborar el correspondiente informe, que deberá ser presentado al Consejo de Educación Superior, al Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la  Educación  Superior  y  para  efecto  de  la  inclusión  en  el Sistema Nacional de Información para la Educación Superior, se remitirá a la Secretaria Nacional de Educación Superior, Ciencia, Tecnología e Innovación.
+Cada institución deberá realizar la evaluación de estos planes y elaborar el correspondiente informe, que deberá ser presentado al Consejo de Educación Superior, al Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior y para efecto de la inclusión en el
 
 [[END OF PAGE 34]]
 
@@ -2127,21 +2134,23 @@ Cada  institución  deberá  realizar  la  evaluación  de  estos planes y elabo
 
 Suplemento    --    Registro  Oficial  Nº  298    --    Martes  12  de  Octubre  del  2010      --      35
 
+Sistema Nacional de Información para la Educación Superior, se remitirá a la Secretaria Nacional de Educación Superior, Ciencia, Tecnología e Innovación.
+
 ##### Sexta.
-A la  vigencia  de  la  presente  Ley,  las  institutions del  Sistema  de  Educación  Superior,  no  podrán  establecer nuevas  sedes,  ni  crear  extensiones,  programs  o  paralelos fuera de la provincia donde funciona la sede establecida en su instrumento legal de creación.
+A la vigencia de la presente Ley, las instituciones del Sistema de Educación Superior, no podrán establecer nuevas sedes, ni crear extensiones, programas o paralelos fuera de la provincia donde funciona la sede establecida en su instrumento legal de creación.
 
 ##### Séptima.
-Las  institutions  de  educación  superior  que operan en el Ecuador bajo acuerdos y convenios internacionales y que reciben recursos del Estado ecuatoriano,  continuarán  haciéndolo;  se  regirán  por  estos instrumentos  en  lo  relacionado  a  la  designación  de  sus primeras autoridades que deberán cumplir los  mismos requisitos que esta Ley establece para ser rector universitario, sin perjuicio de la obligatoriedad de observar las    disposiciones      contenidas      en      esta      Ley,      los reglamentos  y  las  resoluciones  del  Consejo  de  Educación Superior, del Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior.
+Las instituciones de educación superior que operan en el Ecuador bajo acuerdos y convenios internacionales y que reciben recursos del Estado ecuatoriano, continuarán haciéndolo; se regirán por estos instrumentos en lo relacionado a la designación de sus primeras autoridades que deberán cumplir los mismos requisitos que esta Ley establece para ser rector universitario, sin perjuicio de la obligatoriedad de observar las disposiciones contenidas en esta Ley, los reglamentos y las resoluciones del Consejo de Educación Superior, del Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior.
 
 Se reconoce el carácter público de aquellas instituciones de educación superior creadas mediante acuerdos o convenios internacionales  del  Estado  ecuatoriano  con  otros  Estados, que a la entrada en vigencia de la presente ley funcionen en el país.
 
 Las  universidades  establecidas  según  el  Modus  Vivendi celebrado entre el Gobierno del Ecuador y la Santa Sede se regulan por los términos de este Acuerdo y la presente Ley. Por  lo  que  concierne  a  la  designación  o  elección  de  las autoridades  y  órganos  de  gobierno,  y  al  nombramiento  de los  docentes clérigos, estas universidades se regirán por lo que determinan sus estatutos, de acuerdo a sus principios y características, observando los períodos y requisitos exigidos en esta Ley.
 
 ##### Octava.
-De acuerdo con el inciso primero de la Disposición  Transitoria  Vigésima  de  la  Constitución,  la Universidad Nacional de Educación "UNAE",  es una institución superior pública y será la encargada  de  la formación profesional a nivel nacional. Será partícipe de las rentas y asignaciones que el Estado destina a las institutions del Sistema de Educación Superior.
+De acuerdo con el inciso primero de la Disposición Transitoria Vigésima de la Constitución, la Universidad Nacional de Educación "UNAE", es una institución superior pública y será la encargada de la formación profesional a nivel nacional. Será partícipe de las rentas y asignaciones que el Estado destina a las instituciones del Sistema de Educación Superior.
 
 ##### Novena.
-El Instituto de Altos Estudios Nacionales - IAENes la Universidad de Posgrado del Estado, con la misión de formar, capacitar y brindar educación continua, principalmente a las y los servidores públicos; investigar y generar  pensamiento  estratégico,  con  visión  prospectiva sobre  el  Estado  y  la  Administración  Pública;  desarrollar  e implementar conocimientos, métodos y técnicas relacionadas con la planificación, coordinación, dirección y ejecución de las políticas y la gestión pública.
+El Instituto de Altos Estudios Nacionales - IAEN- es la Universidad de Posgrado del Estado, con la misión de formar, capacitar y brindar educación continua, principalmente a las y los servidores públicos; investigar y generar pensamiento estratégico, con visión prospectiva sobre el Estado y la Administración Pública; desarrollar e implementar conocimientos, métodos y técnicas relacionadas con la planificación, coordinación, dirección y ejecución de las políticas y la gestión pública.
 
 El IAEN gozará de la autonomía académica, administrativa, financiera y orgánica que se reconoce a las universidades y escuelas politécnicas del país.
 
@@ -2152,10 +2161,10 @@ Su rector será elegido por el Presidente de la República de una terna enviada 
 El máximo órgano colegiado académico superior, presidido por el Rector, estará integrado de acuerdo a lo establecido en  esta  Ley,  del  que  será  parte  el  Secretario  Técnico  del Consejo Nacional de Planificación y Desarrollo o su delegado en representación del Presidente de la República que participará con voz y voto.
 
 ##### Décima.
-En cumplimiento a lo que dispone el artículo 344 de la Constitución de la República, la Autoridad Educativa Nacional diseñará y ejecutará planes y programs informativos  y  de  preparación  académica  que  permita  la articulación  del  Sistema  de  Educación  Superior,  con  el Sistema Nacional de Educación a fin de que los bachilleres tengan una preparación adecuada, que facilite  su ingreso a las universities y escuelas politécnicas públicas y privadas.
+En cumplimiento a lo que dispone el artículo 344 de la Constitución de la República, la Autoridad Educativa Nacional diseñará y ejecutará planes y programas informativos y de preparación académica que permita la articulación del Sistema de Educación Superior, con el Sistema Nacional de Educación a fin de que los bachilleres tengan una preparación adecuada, que facilite su ingreso a las universidades y escuelas politécnicas públicas y privadas.
 
-##### Décima Primera: Promoción de programs de excelencia.
-El Estado promoverá un Proyecto de Excelencia, a través del otorgamiento de estímulos financieros  a  las  universities  y  escuelas  politécnicas  que los organicen.
+##### Décima Primera: Promoción de programas de excelencia.
+El Estado promoverá un Proyecto de Excelencia, a través del otorgamiento de estímulos financieros a las universidades y escuelas politécnicas que los organicen.
 
 Para acceder a los estímulos financieros, las universidades y escuelas politécnicas públicas y particulares deberán planificar programas de calidad académica, con docentes y alumnos  a  tiempo  completo,  equipamiento  adecuado,  y además inscribirse dentro de las prioridades definidas en el Plan Nacional de Desarrollo.
 
@@ -2168,13 +2177,15 @@ Publicada  esta  Ley  en  el  Registro  Oficial,  el Consejo Nacional Electoral,
 
 A partir de la publicación de esta Ley en el Registro Oficial, el presidente,  los  vocales  y  secretario  del  CONESUP, cesarán en sus funciones.
 
-En un plazo máximo de quince días luego de publicada la presente Ley, el Secretario Nacional de Educación Superior, Ciencia, Tecnología e Innovación convocará a los rectores de  las  universidades  públicas  de  Categoría  A  del  informe del CONEA,  que  fuera emitido en cumplimiento del Mandato  14,  a  que  designen  seis  académicos  para  que integren  en  forma  provisional  el  Consejo  de  Educación Superior,  con  los  mismos  requisitos  que  exige  esta  Ley, quienes desempeñarán exclusivamente labores de certificación  de  documentos.  De  no  hacerlo  en  ese  plazo, serán designados directamente por la Secretaría Nacional de Educación Superior, Ciencia, Tecnología e Innovación.
+En un plazo máximo de quince días luego de publicada la presente Ley, el Secretario Nacional de Educación Superior, Ciencia, Tecnología e Innovación convocará a los rectores de las universidades públicas de Categoría A del informe del CONEA, que fuera emitido en cumplimiento del Mandato 14, a que designen seis académicos para que integren en forma provisional el Consejo de Educación Superior, con los mismos requisitos que exige esta Ley, quienes desempeñarán exclusivamente labores de
 
 [[END OF PAGE 35]]
 
 [[START OF PAGE 36]]
 
 36      --      Suplemento    --    Registro  Oficial  Nº  298   --    Martes  12  de  Octubre  del  2010
+
+certificación de documentos. De no hacerlo en ese plazo, serán designados directamente por la Secretaría Nacional de Educación Superior, Ciencia, Tecnología e Innovación.
 
 El  Secretario  Nacional  de  Educación  Superior,  Ciencia, Tecnología  e  Innovación,  en  un  plazo  máximo  de  treinta días a partir de la vigencia de la presente Ley, convocará a los  académicos  designados  en  forma  provisional  y  a  los vocales nombrados por el Ejecutivo para iniciar sus labores; de entre ellos elegirán al presidente temporal.
 
@@ -2185,15 +2196,15 @@ Los vocales del Consejo de Evaluación y Acreditación de la Educación  Superio
 Los dignatarios de la Asamblea de la Universidad Ecuatoriana ejercerán las funciones directivas de la Asamblea  del  Sistema  de  Educación  Superior,  hasta  que sean legalmente reemplazados.
 
 ##### Segunda.
-El Consejo de Educación Superior es el organismo  que  reemplaza  al  CONESUP  de  acuerdo  a  las disposiciones y functions establecidas en la presente Ley.
+El Consejo de Educación Superior es el organismo que reemplaza al CONESUP de acuerdo a las disposiciones y funciones establecidas en la presente Ley.
 
 A partir de la vigencia de la presente Ley, el patrimonio y las asignaciones del Consejo Nacional de Educación Superior (CONESUP), pasarán a la Secretaría Nacional de Educación  Superior,  Ciencia,  Tecnología  e  Innovación,  la que  garantizará  de  manera  obligatoria  la  infraestructura necesaria  y  apoyo  logístico  requeridos  por  el  Consejo  de Educación Superior para el cumplimiento de sus deberes y obligaciones.
 
 ##### Tercera.
-El Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior es el organismo que subroga en todos sus derechos y obligations  al  CONEA  y  en  todas  las  referencias  legales anteriores a la expedición de esta Ley. Las asignaciones que constan para este organismo serán acreditadas para el nuevo Consejo.
+El Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior es el organismo que subroga en todos sus derechos y obligaciones al CONEA y en todas las referencias legales anteriores a la expedición de esta Ley. Las asignaciones que constan para este organismo serán acreditadas para el nuevo Consejo.
 
 ##### Cuarta.
-Hasta  que  se  aprueben  los  reglamentos  previstos en  la  presente  ley,  seguirá  en  vigencia  la  normativa  que regula el system de educación superior, en todo aquello que no se oponga a la Constitución y esta Ley.
+Hasta que se aprueben los reglamentos previstos en la presente ley, seguirá en vigencia la normativa que regula el sistema de educación superior, en todo aquello que no se oponga a la Constitución y esta Ley.
 
 ##### Quinta.
 Se  garantiza  la  estabilidad  de  los  servidores  y trabajadores del CONESUP, que no sean de libre remoción; quienes  se  integrarán,  previo  proceso  de  evaluación  de desempeño, a la Secretaría Nacional de Educación Superior, Ciencia,  Tecnología.  También  se  garantizará  la  estabilidad de los trabajadores del CONEA.
@@ -2201,17 +2212,17 @@ Se  garantiza  la  estabilidad  de  los  servidores  y trabajadores del CONESUP,
 ## DISPOSICIONES  TRANSITORIAS
 
 ##### Primera.
-En  cumplimiento  de  la  Disposición  Transitoria Vigésima de la Constitución de la República del Ecuador, en el plazo de cinco años contados a partir de la vigencia de la Carta Magna, todas las universities y escuelas politécnicas, sus extensiones y modalidades, institutes superiores  técnicos,  tecnológicos,  pedagógicos,  de  artes  y conservatorios superiores, tanto públicos como particulares, así  como  sus  carreras,  programs  y  posgrados,  deberán haber cumplido con la evaluación y acreditación del Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior.
+En cumplimiento de la Disposición Transitoria Vigésima de la Constitución de la República del Ecuador, en el plazo de cinco años contados a partir de la vigencia de la Carta Magna, todas las universidades y escuelas politécnicas, sus extensiones y modalidades, institutos superiores técnicos, tecnológicos, pedagógicos, de artes y conservatorios superiores, tanto públicos como particulares, así como sus carreras, programas y posgrados, deberán haber cumplido con la evaluación y acreditación del Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior.
 
 Este proceso se realizará a todas las instituciones de educación  superior,  aun  a  las  que  hayan  sido  evaluadas  y acreditadas por el anterior Consejo Nacional de Evaluación y Acreditación de la Educación Superior Ecuatoriana (CONEA).
 
 Las universidades y escuelas politécnicas de reciente creación que tengan menos de cinco años de existencia legal a la fecha de vigencia de la presente Ley, continuarán en sus procesos de institucionalización ya iniciados, hasta su conclusión,  sin  perjuicio  de  lo  previsto  en  la  Transitoria Vigésima de la Constitución de la República del Ecuador.
 
 ##### Segunda.
-Las  institutions  de  educación  superior  que  no hayan aprobado la evaluación y acreditación correspondiente dentro del plazo señalado en la transitoria Vigésima Constitutional dejarán de formar parte del Sistema de Educación Superior. En este caso, las universities y escuelas politécnicas creadas por Ley, decreto,  acuerdo  o  convenio  dejarán  de  funcionar,  para  lo cual el Consejo de Educación Superior aplicará el procedimiento  respectivo,  previo  informe  del  Consejo  de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior.
+Las instituciones de educación superior que no hayan aprobado la evaluación y acreditación correspondiente dentro del plazo señalado en la transitoria Vigésima Constitucional dejarán de formar parte del Sistema de Educación Superior. En este caso, las universidades y escuelas politécnicas creadas por Ley, decreto, acuerdo o convenio dejarán de funcionar, para lo cual el Consejo de Educación Superior aplicará el procedimiento respectivo, previo informe del Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior.
 
 ##### Tercera.
-En cumplimiento al Mandato Constituyente número 14,  las  institutions  de  educación  superior  que  se ubicaron en la categoría E por el informe CONEA, deberán ser  evaluadas  dentro  de  los  18  meses  posteriores  a  la promulgación de esta Ley.
+En cumplimiento al Mandato Constituyente número 14, las instituciones de educación superior que se ubicaron en la categoría E por el informe CONEA, deberán ser evaluadas dentro de los 18 meses posteriores a la promulgación de esta Ley.
 
 Mientras  se  cumple  este  plazo,  dichas  universidades  y escuelas  politécnicas  no  podrán  ofertar  nuevos  programas académicos de grado ni realizar cursos de  posgrado.
 
@@ -2229,21 +2240,21 @@ Dando  cumplimiento a lo establecido en el Mandato  Constituyente  14,  en  el  
 Suplemento    --    Registro  Oficial  Nº  298    --    Martes  12  de  Octubre  del  2010      --      37
 
 ##### Quinta.
-En  cumplimiento  a  lo  dispuesto  en  esta  Ley,  el Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior, en el plazo de dieciocho meses contados desde su instalación, realizará una depuración  de  sedes,  extensiones,  programs,  paralelos  y otras modalidades de similares características que mantengan las institutions de Educación Superior fuera de su sede o domicilio principal. Para ello realizará previamente  un  estudio  con  el  fin  de  establecer  las  que pueden continuar funcionando.
+En cumplimiento a lo dispuesto en esta Ley, el Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior, en el plazo de dieciocho meses contados desde su instalación, realizará una depuración de sedes, extensiones, programas, paralelos y otras modalidades de similares características que mantengan las instituciones de Educación Superior fuera de su sede o domicilio principal. Para ello realizará previamente un estudio con el fin de establecer las que pueden continuar funcionando.
 
 Para autorizar su funcionamiento ulterior, el Consejo emitirá las normas necesarias, que deberán tomar en cuenta el  tiempo  de  funcionamiento,  infraestructura,  necesidad local, disponibilidad de personal académico y existencia de otros  centros de educación superior en la localidad.
 
 Las sedes, extensiones, programas, paralelos y otras modalidades  de  similares  características  que  no  calificaren para continuar funcionando, no podrán recibir nuevos estudiantes en el futuro.
 
 ##### Sexta.
-Los promotores o responsables de las organizations que auspiciaron el funcionamiento de universities y escuelas politécnicas,  creadas a partir de la vigencia de la Ley anterior, desde el 15 de mayo del 2000 deben transferir en el plazo de 180 días a estas institutions el dominio de los bienes y recursos con los que se sustentó el proyecto de creación.
+Los promotores o responsables de las organizaciones que auspiciaron el funcionamiento de universidades y escuelas politécnicas, creadas a partir de la vigencia de la Ley anterior, desde el 15 de mayo del 2000 deben transferir en el plazo de 180 días a estas instituciones el dominio de los bienes y recursos con los que se sustentó el proyecto de creación.
 
 En el caso de que una universidad o escuela politécnica  no cumpla con esta obligación el Consejo de  Educación Superior  deberá  intervenirlas  inmediatamente  y  solicitar  la derogatoria  de  la  Ley  de  creación  de  la  institución  de educación superior respectiva.
 
-El SRI y la Controlaría General del Estado, por  separado y en el plazo de 90 días presentarán un informe especial sobre los  beneficiarios,  y    el  destino  y  uso  por  parte  de  las Instituciones de Educación Superior de los recursos entregados  a  estas  en  calidad  de  donación  del  25%  del Impuesto a la Renta.
+El SRI y la Contraloría General del Estado, por separado y en el plazo de 90 días presentarán un informe especial sobre los beneficiarios, y el destino y uso por parte de las Instituciones de Educación Superior de los recursos entregados a estas en calidad de donación del 25% del Impuesto a la Renta.
 
 ##### Séptima.
-Los representatives a la Asamblea del Sistema de Educación  Superior  serán  elegidos por sus respectivos estamentos  en  el  plazo  de  120  días  luego  de  promulgada esta Ley.
+Los representantes a la Asamblea del Sistema de Educación Superior serán elegidos por sus respectivos estamentos en el plazo de 120 días luego de promulgada esta Ley.
 
 ##### Octava.
 El  monto  de  los  recursos  con  que  contará  el Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior, para el cumplimiento de la Disposición Transitoria Primera de esta Ley, será establecido  mediante  estudios  y  proyecciones  pertinentes elaborados  por  dicha  institución,  en  coordinación  con  el Ejecutivo.  Estos  recursos  serán  obligatoriamente  incluidos dentro del Presupuesto General del Estado.
@@ -2254,7 +2265,7 @@ Los títulos correspondientes a Diploma Superior otorgados  legalmente  por las 
 Los  programas  académicos  de  diploma  que  se  encuentran legalmente en ejecución antes de la vigencia de la presente Ley, serán reconocidos y registrados como  títulos de posgrados.
 
 ##### Décima.
-El requisito de tener grado académico de doctorado  (PhD  o  su  equivalente),  para  ser  member  del Consejo  de  Evaluación,  Acreditación,  y  Aseguramiento  de la  Calidad  de  Educación  Superior  y  del  Comité  Asesor, entrará en vigencia inmediatamente a partir de la promulgación de esta Ley.
+El requisito de tener grado académico de doctorado (PhD o su equivalente), para ser miembro del Consejo de Evaluación, Acreditación, y Aseguramiento de la Calidad de Educación Superior y del Comité Asesor, entrará en vigencia inmediatamente a partir de la promulgación de esta Ley.
 
 ##### Décima Primera.
 El requisito de tener grado académico de doctorado (PhD o su equivalente), para ser rector o rectora, vicerrector  o  vicerrectora,  de  una  universidad  o  escuela politécnica entrará en vigencia en un plazo de cinco años a partir de la promulgación de esta Ley. No obstante, durante este plazo todos los candidatos para rector o rectora, vicerrector  o  vicerrectora  deberán  contar  con  al  menos  un grado académico de maestría.
@@ -2264,7 +2275,7 @@ El  grado  académico  de  doctorado  según  el  Art.  121  de  la presente  Le
 Quienes  hubiesen  ejercido  por  dos  periodos  los  cargos  de rector o vicerrector de las instituciones de educación superior, no podrán optar por una nueva reelección.
 
 ##### Décima Segunda.
-Luego  de  cinco  años  de  aprobada  esta Ley,  los  requisitos  de  las  titulaciones  exigidas  para  los evaluadores  externos de las institutions  de  educación superior, deberán cumplir además con la calificación de los programs académicos donde obtuvieron dichas titulaciones.  Para  el  efecto,  el  Consejo  de  Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación  Superior  definirá  dicha  exigencia  en  base  a  los processes de categorización que lleve adelante.
+Luego de cinco años de aprobada esta Ley, los requisitos de las titulaciones exigidas para los evaluadores externos de las instituciones de educación superior, deberán cumplir además con la calificación de los programas académicos donde obtuvieron dichas titulaciones. Para el efecto, el Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior definirá dicha exigencia en base a los procesos de categorización que lleve adelante.
 
 En  el caso de titulaciones extranjeras, se evaluará la calificación que obtenga el programa en el país de origen y, de no existir dicha calificación, se someterá la titulación a una evaluación por parte del Comité Asesor del Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior.
 
@@ -2274,16 +2285,18 @@ El  requisito  de  doctorado  (PhD  o  su equivalente)  exigido  para  ser  prof
 El  requisito  de  haber  accedido  a  la  docencia  por  concurso público de merecimiento y oposición para ser rector de una universidad o escuela politécnica, será aplicable a los docentes que sean designados a partir de la vigencia de la presente Ley.
 
 ##### Décima Cuarta.
-Las universities y escuelas politécnicas tendrán  un  plazo  de  dos  años  a  partir  de  la  entrada  en vigencia  de  esta  Ley,  para  cumplir  la  normativa  de  contar con  al  menos  el  60%  de  profesores  o  profesoras  a  tiempo completo respecto a la totalidad de su planta Docente.
+Las universidades y escuelas politécnicas tendrán un plazo de dos años a partir de la entrada en vigencia de esta Ley, para cumplir la normativa de contar con al menos el 60% de profesores o profesoras a tiempo completo respecto a la totalidad de su planta Docente.
 
 ##### Décima  Quinta.
-Durante  los  cinco  años  posteriores  a  la promulgación  de  esta  Ley  no  se  creará  ninguna  nueva institución  de  educación  superior.  Se  exceptúan  de  esta moratoria la Universidad Nacional de Educación "UNAE", prevista en la Disposición Transitoria Vigésima  de  la Constitución,  cuya  matriz  estará  en  la  ciudad  de  Azogues, Provincia  del  Cañar;  la  Universidad  Regional  Amazónica, cuya  matriz  estará  en  la  ciudad  de  Tena,  Provincia  del Napo; la Universidad de las Artes con sede en la ciudad de Guayaquil y una universidad de investigación de tecnología experimental.
+Durante los cinco años posteriores a la promulgación de esta Ley no se creará ninguna nueva institución de educación superior. Se exceptúan de esta moratoria la Universidad Nacional de Educación "UNAE", prevista en la Disposición Transitoria Vigésima de la
 
 [[END OF PAGE 37]]
 
 [[START OF PAGE 38]]
 
 38      --      Suplemento    --    Registro  Oficial  Nº  298   --    Martes  12  de  Octubre  del  2010
+
+Constitución, cuya matriz estará en la ciudad de Azogues, Provincia del Cañar; la Universidad Regional Amazónica, cuya matriz estará en la ciudad de Tena, Provincia del Napo; la Universidad de las Artes con sede en la ciudad de Guayaquil y una universidad de investigación de tecnología experimental.
 
 La Función Ejecutiva realizará en el plazo máximo de dos años, los trámites constitucionales y legales correspondientes para su creación y funcionamiento y, serán partícipes de la parte proporcional de las rentas que asigna el Estado a las universidades y escuelas politécnicas públicas.
 
@@ -2296,10 +2309,10 @@ Las Universidades y Escuelas Politécnicas en un plazo de 180  días reformarán
 En este plazo, cualquier proceso eleccionario se regirá por la presente Ley.
 
 ##### Décima Octava.
-En  un  plazo  de  tres  años  el  Consejo  de Evaluación, Acreditación y Aseguramiento de la Calidad de la  Educación  Superior  verificará  que  las  Instituciones  de Educación Superior hayan implementado los requerimientos de  accesibilidad  física,  las  conditions  necesarias  para  el proceso de aprendizaje, en beneficio de los estudiantes con discapacidad. Estos requisitos se incorporarán como parámetros para el aseguramiento  de  la calidad de la educación superior.
+En un plazo de tres años el Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior verificará que las Instituciones de Educación Superior hayan implementado los requerimientos de accesibilidad física, las condiciones necesarias para el proceso de aprendizaje, en beneficio de los estudiantes con discapacidad. Estos requisitos se incorporarán como parámetros para el aseguramiento de la calidad de la educación superior.
 
-##### Décima Novena.Jubilación Complementaria.
-Los fondos  de  pensión  complementaria  creados  al  amparo  del Decreto  Legislativo  de  1953  que  estableció  la  pensión auxiliar  para  el  personal  académico  de  las  universities  y escuelas politécnicas, continuarán generando este beneficio con  recursos  del  Estado  en  los  términos  indicados  en  el aludido Decreto Legislativo, para los actuales beneficiarios.
+##### Décima Novena.- Jubilación Complementaria.
+Los fondos de pensión complementaria creados al amparo del Decreto Legislativo de 1953 que estableció la pensión auxiliar para el personal académico de las universidades y escuelas politécnicas, continuarán generando este beneficio con recursos del Estado en los términos indicados en el aludido Decreto Legislativo, para los actuales beneficiarios.
 
 Los profesores e investigadores de las instituciones públicas del Sistema de Educación Superior que se hubieren acogido a  la  jubilación  patronal  antes  de  la  vigencia  de  esta  Ley  o los que lo hicieren hasta diciembre de 2014, recibirán este beneficio.
 
@@ -2310,7 +2323,7 @@ El  Consejo  de  Educación  Superior  en  el  plazo de  ciento  ochenta  días 
 El plazo determinado en la Disposición anterior, podrá ser prorrogable hasta 180 días.
 
 ##### Vigésima Segunda.
-A partir de la vigencia de esta ley, se integrarán  la  Escuela  Politécnica  del  Ejército  ESPE,  la Universidad  Naval  Comandante  Rafael  Morán  Valverde- UNINAV y el Instituto Tecnológico Superior AeronáuticoITSA, conformando la Universidad de las Fuerzas Armadas 'ESPE'.
+A partir de la vigencia de esta ley, se integrarán la Escuela Politécnica del Ejército ESPE, la Universidad Naval Comandante Rafael Morán Valverde-UNINAV y el Instituto Tecnológico Superior Aeronáutico-ITSA, conformando la Universidad de las Fuerzas Armadas “ESPE”.
 
 La  información  académica,  técnica  y  administrativa  de  los centros de educación superior antes  mencionados  será unificada en la Universidad de las Fuerzas Armadas-ESPE y a  partir  de  la  vigencia  de  la  presente  ley,  en  un  plazo máximo  de  un  año,  los  patrimonios  de  los  centros  de educación  superior  que  integran  la  Universidad  de  las Fuerzas Armadas-ESPE, conformarán el patrimonio de ésta.
 
@@ -2322,11 +2335,11 @@ Concluido el trámite Institucional, se remitirá el estatuto al Consejo de Educ
 
 Se garantiza la estabilidad de docentes, servidores y trabajadores de los  centros  de  educación  superior  que integran la Universidad de las Fuerzas Armadas-ESPE.
 
-##### Vigésima  Tercera .-
+##### Vigésima Tercera.
 El  Consejo  de  Educación  Superior dictará en un plazo máximo de 180 días contados a partir de su  conformación  el  Reglamento  sobre  los  profesores  e investigadores  que  no  se  encuentren  en  un  Régimen  de Dependencia.
 
 ##### Vigésima Cuarta.
-Las y los profesores que laboran en los conservatorios  superiores  e  institutes  de  arte  públicos  y particulares, se les concederá cinco años de plazo a partir de la vigencia de esta Ley para que obtengan el título de tercer nivel en su especialidad.
+Las y los profesores que laboran en los conservatorios superiores e institutos de arte públicos y particulares, se les concederá cinco años de plazo a partir de la vigencia de esta Ley para que obtengan el título de tercer nivel en su especialidad.
 
 ##### Vigésima  Quinta.
 El  Reglamento  de  Carrera  Docente  y Escalafón  establecerá  un  proceso  de  transición  para  la aplicación plena de las normas sobre dedicación, escalafón y remuneraciones de los profesores universitarios y politécnicos que constan en esta ley.
@@ -2334,7 +2347,7 @@ El  Reglamento  de  Carrera  Docente  y Escalafón  establecerá  un  proceso  d
 El Reglamento establecerá que para exigir a esos docentes que cumplan la dedicación de 20 y 40 horas semanales de trabajo,  según  el  caso,  deberá  elevarse  su  remuneración  al menos en la proporción respectiva.
 
 ##### Vigésima Sexta.
-Para la aplicación del Art. 42, el Consejo de  Educación  Superior,  establecerá  los  mechanisms  que posibiliten  la  entrega  de  la  información  financiera  de  las institutions de educación superior particular.
+Para la aplicación del Art. 42, el Consejo de Educación Superior, establecerá los mecanismos que posibiliten la entrega de la información financiera de las instituciones de educación superior particular.
 
 ##### Vigésima Séptima.
 El  examen de habilitación establecido en  el  Art.  104  de  la  presente  ley,  se  aplicará  en  forma progresiva, comenzando con las carreras de medicina.
