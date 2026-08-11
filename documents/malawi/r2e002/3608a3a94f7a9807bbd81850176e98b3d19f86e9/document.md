@@ -8,63 +8,63 @@ Section
 
 ### PART 1 - PRELIMINARY
 
-- Short title and commencement
+- 1. Short title and commencement
 
-- Interpretation
+- 2. Interpretation
 
 ### PART II - ESTABLISHMENT OF UNIVERSITY
 
-- Establishment of University of Malawi
+- 3. Establishment of University of Malawi
 
-- Membership of the University
+- 4. Membership of the University
 
-- Objects of the University
+- 5. Objects of the University
 
-- Functions of the University
+- 6. Functions of the University
 
-- Training for public officers etc.
+- 7. Training for public officers etc.
 
 ### PART III - THE COUNCIL
 
-- Establishment and incorporation of the Council
+- 8. Establishment and incorporation of the Council
 
-- Common seal of the Council
+- 9. Common seal of the Council
 
-- Functions and powers of the Council
+- 10. Functions and powers of the Council
 
-- Composition of the Council
+- 11. Composition of the Council
 
-- Meeting and procedure of the Council
+- 12. Meeting and procedure of the Council
 
 ### PART IV - OFFICERS OF THE UNIVERSITY
 
-- Chancellor
+- 13. Chancellor
 
-- Functions and duties of the Chancellor
+- 14. Functions and duties of the Chancellor
 
-- Vice-Chancellor
+- 15. Vice-Chancellor
 
-- University Registrar
+- 16. University Registrar
 
 ### PART V - THE SENATE
 
-- Senate
+- 17. Senate
 
-- Functions and powers of the Senate
+- 18. Functions and powers of the Senate
 
-- Meetings of the Senate
+- 19. Meetings of the Senate
 
 ### PART VI - COLLEGES, FACULTIES AND SCHOOLS
 
-- Colleges
+- 20. Colleges
 
-- Principals
+- 21. Principals
 
-- Faculties and Schools
+- 22. Faculties and Schools
 
-- Deans
+- 23. Deans
 
-- Composition of Faculties and Schools
+- 24. Composition of Faculties and Schools
 
 ### PART VIII - FINANCIAL PROVISIONS
 
@@ -74,35 +74,79 @@ Section
 
 [[START OF PAGE 2]]
 
-- Property of the University
+- 25. Property of the University
 
-- Compliance  with  the  provisions  of  the  Finance  and  Audit  Act  and  audit  of accounts
+- 26. Compliance with the provisions of the Finance and Audit Act and audit of accounts
 
-- Accounts
+- 27. Accounts
 
-- Borrowings
+- 28. Borrowings
 
 ### PART VIII - MISCELLANEOUS
 
-- The Statutes
+- 29. The Statutes
 
-- Amendments to the Statutes
+- 30. Amendments to the Statutes
 
-- Senate Regulations
+- 31. Senate Regulations
 
-- Service of process and other documents on the Council
+- 32. Service of process and other documents on the Council
 
 ### PART IX - TRANSITIONAL PROVISIONS AND REPEAL
 
-- Transitional
+- 33. Transitional
 
-- Dissolution of Provisional Council of the University of Malawi
+- 34. Dissolution of Provisional Council of the University of Malawi
 
-- Repeal of Cap. 30:02
+- 35. Repeal of Cap. 30:02
 
 ### SCHEDULE
 
 #### STATUTES OF THE UNIVERSITY
+
+Statute
+
+- I. Interpretation
+
+- II. Congregations
+
+- III. Degrees and other academic distinctions
+
+- IV. The Vice Chancellor
+
+- V. The Finance Officer
+
+- VI. The Principals of Colleges
+
+- VII. The Deans of the Faculties and Schools
+
+- VIII. The University Registrar
+
+- IX. The Librarian
+
+- X. The Auditor
+
+- XI. Honorary and Emeritus Professors
+
+- XII. Procedure generally
+
+- XIII. Finance Committee
+
+- XIV. Powers and functions of the Senate
+
+- XV. The Faculties and Schools
+
+- XVI. Appointments Committee
+
+- XVII. Procedure relating to contracts of appointment
+
+- XVIII. Procedure to Statutory Committees
+
+- XIX. Honorary Degrees
+
+- XX. Elections to Deanships and to the Senate
+
+- XXI. Service of Notices and Documents
 
 323
 
@@ -121,7 +165,8 @@ ENACTED by the Parliament of Malawi as follows-
 ### 1.
 This Act may be cited as the University of Malawi Act, 1998 and shall come  into  operation  on  such  date  as  the  Minister  may,  by  notice  published  in Gazette, appoint.
 
-- In this Act and in the Statutes, unless the context otherwise requires:
+### 2.
+In this Act and in the Statutes, unless the context otherwise requires:
 
 'Chairperson' means the Chairperson of the Council appointed pursuant to section II;
 
@@ -141,7 +186,7 @@ This Act may be cited as the University of Malawi Act, 1998 and shall come  into
 
 'Faculty' means a part or section of the academic administration of the University which offers courses leading to a degree;
 
-'Financial  year'  means  the  period  commencing  on  the  date  of  the commencement  and  ending  on  the  31 st August  next  following  such  date and thereafter means the period of twelve months ending on 31 st August in each year;
+'Financial year' means the period commencing on the date of the commencement and ending on the 31st August next following such date and thereafter means the period of twelve months ending on 31st August in each year;
 
 'Librarian'  means  the  Librarian  of  the  University  appointed  under section 16A;
 
@@ -177,37 +222,39 @@ This Act may be cited as the University of Malawi Act, 1998 and shall come  into
 
 ## PART II - ESTABLISHMENT OF UNIVERSITY
 
-- There  is  hereby  established  a  University  by  the  name  and  style  of  the University of Malawi.
+### 3.
+There is hereby established a University by the name and style of the University of Malawi.
 
-- (1)  The University shall consist of the following members:-
+### 4.
+(1) The University shall consist of the following members:-
 
-- the Chancellor;
+1. the Chancellor;
 
-- the Vice-Chancellor;
+2. the Vice-Chancellor;
 
-- the Registrar;
+3. the Registrar;
 
-- members of Council;
+4. members of Council;
 
-- members of Senate;
+5. members of Senate;
 
-- all graduates of the University;
+6. all graduates of the University;
 
-- all holders of Honorary Degrees from the University;
+7. all holders of Honorary Degrees from the University;
 
-- all members of the administrative and academic staff of the University;
+8. all members of the administrative and academic staff of the University;
 
-- all persons for the time being registered as students of the University;
+9. all persons for the time being registered as students of the University;
 
-- such other persons as the Council may by name or office declare to be members of the University.
+10. such other persons as the Council may by name or office declare to be members of the University.
 
-(2)  Any person who is a member of the University solely by virtue of being possessed of any qualification shall continue to be a member as long as he/she possesses such qualification.
+(2) Any person who is a member of the University solely by virtue of being possessed of any qualification shall continue to be a member as long as he/she possesses such qualification.
 
-- The Registrar shall keep and maintain a Register of Members of
+(3) The Registrar shall keep and maintain a Register of Members of the University, which shall be available for scrutiny by the general public at all reasonable times.
 
 Establishment of University of Malawi
 
-Membership of the University the  University,  which  shall  be  available  for  scrutiny  by  the  general public at all reasonable times.
+Membership of the University
 
 325
 
@@ -218,15 +265,16 @@ Membership of the University the  University,  which  shall  be  available  for 
 ### 5.
 The  objects  of  the  University  shall  be  to  advance  knowledge  and  to promote wisdom and understanding by engaging in teaching and research and by making provision for the dissemination, promotion, and preservation of learning; by  engaging  in  such  university  education  and  research  as  is  responsive  to  the needs  of  Malawi  and  the  whole  world;  and  by  offering,  within  the  limits  of  its resources, to persons suitably qualified academically and who, in the opinion of the  Council,  are  able  and  willing  to  benefit  from  the  facilities  offered  by  the University, an education of high university standard.
 
-- The functions of the University shall be:-
+### 6.
+The functions of the University shall be:-
 
-- to  encourage  the  advancement  and  dissemination  of  learning  and research;
+(a) to encourage the advancement and dissemination of learning and research;
 
-- to engage in such university education and research as is responsive to the needs of Malawi and the whole world;
+(b) to engage in such university education and research as is responsive to the needs of Malawi and the whole world;
 
-- to  provide  facilities  for  higher  education,  for  research  and  for  the advancement of knowledge in such branches of learning and study and for such persons, whether members of the University or not, as the Council may from time to time determine;
+(c) to provide facilities for higher education, for research and for the advancement of knowledge in such branches of learning and study and for such persons, whether members of the University or not, as the Council may from time to time determine;
 
-- subject  to  this  Act  and  the  Statutes,  to  award  and  confer  Degrees and Diplomas, and other academic distinctions, including Honorary Degrees and distinctions.
+(d) subject to this Act and the Statutes, to award and confer Degrees and Diplomas, and other academic distinctions, including Honorary Degrees and distinctions.
 
 ### 7.
 The  University  may,  as  determined  by  the  Council  from  time  to  time, provide specialist training in such subjects as may be deemed desirable for such purposes as the Council may determine.
@@ -260,11 +308,11 @@ Establishment and incorporation of the Council
 
 ### 9.
 
-- The  common  seal  of  the  Council  shall  be  kept  in  such  custody  as  the Council  directs,  and  shall  not  be  used  except  upon  the  order  of  the Council
+(1) The common seal of the Council shall be kept in such custody as the Council directs, and shall not be used except upon the order of the Council.
 
-- All courts, judges, and other persons acting judiciary shall take judicial notice of the common seal of the Council affixed to any document and shall presume that it was duly affixed.
+(2) All courts, judges, and other persons acting judicially shall take judicial notice of the common seal of the Council affixed to any document and shall presume that it was duly affixed.
 
-- The common seal of the council shall be authenticated by the signature of two members of the Council, or alternatively, by the signature of one such  member  of  the  Council  and  of  the  Registrar,  or  of  some  other person nominated in that behalf by the Council.
+(3) The common seal of the Council shall be authenticated by the signature of two members of the Council, or alternatively, by the signature of one such member of the Council and of the Registrar, or of some other person nominated in that behalf by the Council.
 
 ### 10.
 
@@ -296,7 +344,7 @@ Functions and powers of the Council
 
 (h) To undertake  and  execute  any  trust,  the  undertaking  whereof may seem desirable to the Council for the attainment or fulfilment of any of the objects of the University, and to hold, invest, manage or  distribute,  in  furtherance  of  and  in  accordance  with  any  trust direction, discretion, obligation or permission, any property, or the income of any property, held by it as trustee subject to such trust;
 
-(i) To enter into, vary, carry out or cancel contracts on behalf of the  University,  to  compound  or  compromise  any  action,  suit  or proceedings  or  any  debt  or  claim,  and  to  refer  any  matter  or arbitration;
+(i) To enter into, vary, carry out or cancel contracts on behalf of the University, to compound or compromise any action, suit or proceedings or any debt or claim, and to refer any matter to arbitration;
 
 (j) For the aforesaid purposes, to appoint bankers, and any other officers  or  agents  whom  it  may  deem  expedient  to  appoint,  to determine  any  matters  relating  to  the  selection  and  period,  terms and  conditions  of  appointment  of  such  persons,  to  determine  and control all  matters  relating to the opening, use and closing of any such  bank  accounts  as  it  thinks  fit  to  have,  and  to  cause  proper books  of  accounts  to  be  kept  and  audited  for  all  sums  of  money received  and  expended  by  the  University  and  for  the  assets  and liabilities of the University so that books give a true and fair view of the state of the University's affairs and explain its transactions;
 
@@ -328,7 +376,7 @@ Functions and powers of the Council
 
 (u)  To decide, after consultation with the Vice-Chancellor, whether  or  not  any  donation,  gift,  grant,  devise,  bequest  or  other bounty to the University should be accepted;
 
-(v) To  enter  into  agreements  and  other  relationships  with  other institutions  or  bodies,  whether  academic  or  otherwise,  for  such purposes as the Council may determine, including the embodiment within the assumption  of  the property, rights, privileges  and liabilities of such other institution or body;
+(v) To enter into agreements and other relationships with other institutions or bodies, whether academic or otherwise, for such purposes as the Council may determine, including the embodiment within the University of such other institution or body and the assumption of the property, rights, privileges and liabilities of such other institution or body;
 
 (w)  To select persons for entry as students of the University on the recommendation of the Selection Committee established in accordance with the Statutes.
 
@@ -340,51 +388,51 @@ Functions and powers of the Council
 
 [[START OF PAGE 9]]
 
+action in respect of academic matters, and shall either accept, refer back or reject any such recommendation:
+
+Provided that it may not be rejected unless the Senate has previously been informed of the Council's reasons for wishing to reject it and has been given an opportunity thereon to the Council.
+
+(3) The Council shall not discriminate against any person because of race, ethnic origin, political affiliation or opinion, religion, or sex whether in respect of:-
+
+(a) The appointment of any person to the academic or other staff of the University; or
+
+(b) The registration of any person as a student of the University; or
+
+(c) The right of any person to hold any advantage or privilege of the University, and the Council shall ensure that such discrimination shall not be practiced, in any instance, by the Senate, any Statutory Committee, committee thereof or officer of the University.
+
+(4) The Chairperson shall keep the Chancellor fully informed on matters concerning the general conduct of the affairs of the University.
+
 ### 11.
 
-- The Council shall consist of the following members:-
+(1) The Council shall consist of the following members:-
 
 (a) The Chairperson of the Council, appointed by the President;
 
-(b)  The Vice-Chancellor;
+(b) The Vice-Chancellor;
 
 (c) The Principals of Colleges
 
-(d) The  Secretary  for  Education  or  his  designate  representative, ex-officio;
+(d) The Secretary for Education or his designate representative, ex-officio;
 
 (e) The Secretary to the Treasury or his designate representative, ex-officio;
 
 (f) Two members appointed by the Chancellor;
 
-(g)  Four members  appointed  by  the Senate from  among  its members;
+(g) Four members appointed by the Senate from among its members;
 
-(h)  One member elected by the University of Malawi Ex-students Association;
+(h) One member elected by the University of Malawi Ex-students Association;
 
-(i) One member appointed by the Council from a panel of three persons  distinguished  in  University  affairs  in  Malawi,  nominated by the Vice-Chancellor;
+(i) One member appointed by the Council from a panel of three persons distinguished in University affairs in Malawi, nominated by the Vice-Chancellor;
 
-(j) One  female  member  and  one  male  member  elected  by  the University of Malawi Students Union;
+(j) One female member and one male member elected by the University of Malawi Students Union;
 
-(k)  Such other members, not exceeding four, as the Council may co-opt, pursuant to subsections (3) and (4).
+(k) Such other members, not exceeding four, as the Council may co-opt, pursuant to subsections (3) and (4).
 
-- Ex-officio members of the Council shall remain members for so long as they  hold  office,  or  the  nomination,  by  virtue  of  which  they  have become members.
+(2) Ex-officio members of the Council shall remain members for so long as they hold office, or the nomination, by virtue of which they have become members.
 
-- Co-opted  members  of  the  Council  shall  be  elected  from  a  panel
+(3) Co-opted members of the Council shall be elected from a panel
 
-action  in  respect  of  academic  matters,  and  shall  either  accept,  refer back or reject any such recommendation:
-
-Provided  that  it  may  not  be  rejected  unless  the  Senate  has  previously been informed of the Council's reasons for wishing to reject it and has been given an opportunity thereon to the Council.
-
-(3)  The Council shall not discriminate against any person because of race,  ethnic  origin,  political  affiliation  or  opinion,  religion,  or  sex whether in respect of:-
-
-(a) The appointment of any person to the academic or other staff of the University; or
-
-(b)  The registration of any person as a student of the University; or
-
-(c) The right of any person to hold any advantage or privilege of the University, and the Council shall ensure that such discrimination  shall  not  be  practiced,  in  any  instance,  by  the Senate,  any  Statutory  Committee,  committee  thereof  or  officer  of the University.
-
-(d)  The Chairperson shall keep the Chancellor fully informed on matters concerning  the  general  conduct  of  the  affairs of the University.
-
-Composition of the Council nominated  jointly  by  the  Chairperson  and  the  Vice-Chancellor.  The panel nominated shall consist of not less than eight persons engaged in the professions and in industrial, agricultural and commercial occupations in Malawi.
+Composition of the Council
 
 330
 
@@ -392,13 +440,15 @@ Composition of the Council nominated  jointly  by  the  Chairperson  and  the  V
 
 [[START OF PAGE 10]]
 
-- Of the co-opted members elected, at least one shall be a woman and one a practicing member of the teaching profession. No member of the fulltime academic or administrative staffs of the University may be elected to the Council as a co-opted member.
+nominated jointly by the Chairperson and the Vice-Chancellor. The panel nominated shall consist of not less than eight persons engaged in the professions and in industrial, agricultural and commercial occupations in Malawi.
 
-- Every member of the Council, except the Vice-Chancellor, the Principal and ex-officio member, shall hold office for two years from the date of appointment,  and  shall  be  eligible  to  be  reappointed  a  member  of  the Council for further periods of two years.
+(4) Of the co-opted members elected, at least one shall be a woman and one a practicing member of the teaching profession. No member of the full-time academic or administrative staffs of the University may be elected to the Council as a co-opted member.
 
-- The  Council  shall  appoint,  from  among  the  members  appointed  under paragraphs (f), (I) and (i) of subsection (l), a member of the Council to be  Vice-Chairperson  thereof,  who  shall  perform  all  the  functions  and duties for any reason.
+(5) Every member of the Council, except the Vice-Chancellor, the Principal and ex-officio member, shall hold office for two years from the date of appointment, and shall be eligible to be reappointed a member of the Council for further periods of two years.
 
-- The Registrar shall act as Secretary to the Council.
+(6) The Council shall appoint, from among the members appointed under paragraphs (f), (h) and (i) of subsection (1), a member of the Council to be Vice-Chairperson thereof, who shall perform all the functions and duties of the Chairperson whenever the Chairperson is unable to perform such functions and duties for any reason.
+
+(7) The Registrar shall act as Secretary to the Council.
 
 ### 12.
 
@@ -426,7 +476,7 @@ Meetings and Procedure of the Council
 
 ### 12A.-
 
-(1) Where is  exercise  of  its  powers  and  functions  under  section  10, the  Council  requires  students  admitted  to  the  University  to  pay  fees, the  Council  may  establish  and  operate  a  scheme  to  be  known  as  the Students Loan Scheme which shall consist of funds out of which loans may be granted to students to enable them pay such fees.
+(1) Where in exercise of its powers and functions under section 10, the Council requires students admitted to the University to pay fees, the Council may establish and operate a scheme to be known as the Students Loan Scheme which shall consist of funds out of which loans may be granted to students to enable them pay such fees.
 
 (2)  Every  loan  under  the  students  Loan  Scheme  shall  be  granted under  an  agreement  in  writing  (hereafter  referred  to  as  a  'loan agreement ') to be entered into between the Council and the student seeking the grant of the loan.
 
@@ -440,7 +490,7 @@ A  loan  agreement  under  the  Students  Loan  Scheme  shall  bind  the student
 
 (1)  In administering the student Loan Scheme, the Council shall have power, subject to the general or special directions of the Minister, to determine -
 
-(a) the criteria is in accordance with which a student may be considered eligible for a loan;
+(a) the criteria in accordance with which a student may be considered eligible for a loan;
 
 (b)  the  amount  of  loan  repayment  instalments  and  the  interest  chargeable thereon
 
@@ -456,7 +506,7 @@ A  loan  agreement  under  the  Students  Loan  Scheme  shall  bind  the student
 
 Establishment of the students Loan Scheme
 
-Enforce Ability of Loan agreements
+Enforceability of loan agreements
 
 Powers of The Council respecting the Students Loan Scheme
 
@@ -480,13 +530,13 @@ Powers of The Council respecting the Students Loan Scheme
 
 ### 12E.-
 
-(1) The  Council  shall  cause  a  separate  set  of  proper  books  and  a record  of  account  to  be  opened  and  maintained  in  respect  of  any money  appropriate  or  otherwise  received  for  the  purpose  of  the Students  Loan  Scheme  and  shall  furnish  to  the  Minister,  within  six months  after  the  end  of  each  financial  year,  a  report  of  the  audited accounts  of  the  funds  of  the  Students  Loan  Scheme  together  with  a general report on the administration thereof in respect of that year.
+(1) The Council shall cause a separate set of proper books and a record of account to be opened and maintained in respect of any money appropriated or otherwise received for the purpose of the Students Loan Scheme and shall furnish to the Minister, within six months after the end of each financial year, a report of the audited accounts of the funds of the Students Loan Scheme together with a general report on the administration thereof in respect of that year.
 
 (2)  The books of account relating to the Student Loan Scheme shall at all reasonable times during normal business hours be open to inspection by any officer in the public service duly authorized by the Minister in that behalf, any donor to the Student Loan Scheme and the auditors to the University.
 
 ### 12F.-
 
-The Council may invest, on interest bearing accounts with commercial  banks  or  other  financial  institutions  in  Malawi  or  in  such  other securities available in Malawi as the Minister may generally or specially approve, such sums out of the funds appropriate or otherwise received for the purposes of the Students Loan Scheme as are not immediately required for such purposes.'
+The Council may invest, on interest bearing accounts with commercial banks or other financial institutions in Malawi or in such other securities available in Malawi as the Minister may generally or specially approve, such sums out of the funds appropriated or otherwise received for the purposes of the Students Loan Scheme as are not immediately required for such purposes.”
 
 Administration of the Students Loan Scheme
 
@@ -506,7 +556,7 @@ Investment of funds for the purpose of the Students Loan Scheme
 
 (1)  There shall be a Chancellor of the University who shall be the head of the University.
 
-- The Chancellor of the University shall be the Head of State.
+(2) The Chancellor of the University shall be the Head of State.
 
 (3)  Subsequent to the present Chancellor, the next Chancellor shall be appointed by the President after consultation with the Council.
 
@@ -514,17 +564,19 @@ Investment of funds for the purpose of the Students Loan Scheme
 
 (a) upon the submission of his resignation therefrom, in writing, to the Council;
 
-(b) if  he  becomes  mentally  or  physical  incapable  of  performing  his  duties  as Chancellor.
+(b) if he becomes mentally or physically incapable of performing his duties as Chancellor.
 
-(5)  The office of the Chancellor held by any person appointed pursuant to subsection (3) shall be vacated by him/her provided by the subsection (4) or-
+(5) The office of the Chancellor held by any person appointed pursuant to subsection (3) shall be vacated by him/her as provided by subsection (4) or-
 
-(a) if  he/she  is  absent  from Malawi for continuous period of six months or more without permission of the President and the Council;
+(a) if he/she is absent from Malawi for a continuous period of six months or more without permission of the President and the Council;
 
-(b) if,  for  any  offence  against  any  written  law,  he/she  is  sentenced  to  a  term  of imprisonment of, or exceeding six months, otherwise than as an alternative to, or in default of, the payment of a fine.
+(b) if, for any offence against any written law, he/she is sentenced to a term of imprisonment of, or exceeding six months, otherwise than as an alternative to, or in default of, the payment of a fine.
 
 ### 14.
 
-(1)  The Chancellor, whenever present shall preside at all ceremonial and other  congregations  of  the  University  and  shall  in  the  name  of  the University confer all degrees, diplomas and certificates of the University. (2)  The Chairperson and the Vice-Chancellor shall keep the Chancellor fully  informed  concerning  the  general  conduct  of  the  affairs  of  the University  and  shall  furnish  the  Chancellor  with  such  information  as he/she may request on any particular matter relating to the affairs of the University.
+(1) The Chancellor, whenever present shall preside at all ceremonial and other congregations of the University and shall in the name of the University confer all degrees, diplomas and certificates of the University.
+
+(2) The Chairperson and the Vice-Chancellor shall keep the Chancellor fully informed concerning the general conduct of the affairs of the University and shall furnish the Chancellor with such information as he/she may request on any particular matter relating to the affairs of the University.
 
 (3) The  Chancellor  shall  exercise  such  other  functions  and  duties  in relation  to  the  University  as  are  conferred  upon  him/her,  from  time  to time upon the Statutes.
 
@@ -542,7 +594,7 @@ Chancellor
 
 Functions and duties of the Chancellor
 
-ViceChancellor the Council;
+Vice-Chancellor
 
 334
 
@@ -554,15 +606,15 @@ ViceChancellor the Council;
 
 Provided  that  the  appointment  of  the  Vice  Chancellor  shall  be  subject  to  the approval of the Chancellor.
 
-- The Vice-Chancellor shall-
+(3) The Vice-Chancellor shall-
 
-- hold  office  for  such  period  of  four  years  and  on  such  terms  and conditions as may, from time to time, be prescribed by or under this Act  and  the  Statutes,  and  shall  be  eligible  to  be  re-appointed  ViceChancellor for further period of four years;
+(a) hold office for such period of four years and on such terms and conditions as may, from time to time, be prescribed by or under this Act and the Statutes, and shall be eligible to be re-appointed Vice-Chancellor for further period of four years;
 
-- exercise  such  powers  and  functions,  as  may,  from  time  to  time,  be prescribed by or under this Act or the Statutes.
+(b) exercise such powers and functions, as may, from time to time, be prescribed by or under this Act or the Statutes.
 
 (4) There  shall  be  a  Pro-Vice-Chancellor  of  the  University  who  shall assist the Vice-Chancellor in the performance of his/her functions.
 
-(5)  The  provisions of subsection (2) and (3) shall apply mutatis mutandis to  the  appointment  and  term  of  office  of  the  Pro-ViceChancellor.
+(5) The provisions of subsection (2) and (3) shall apply mutatis mutandis to the appointment and term of office of the Pro-Vice-Chancellor.
 
 ### 16.
 
@@ -572,7 +624,7 @@ Provided  that  the  appointment  of  the  Vice  Chancellor  shall  be  subject 
 
 (3) The  terms  and  conditions  of  employment  of  the  Registrar  shall  be determined, from time to time, by the Council.
 
-### 16B.-
+### 16A.-
 
 (1) There  shall  be  a  Librarian  of  the  University  appointed  by  the Council who shall be the principal officer of the University Library and of other libraries of the Colleges and who shall exercise such powers and perform  such  duties  as  are  assigned  by  this  Act  or  Statute,  or  by  the Council or as delegated to him/her by the Vice-Chancellor;
 
@@ -620,7 +672,7 @@ Registrar
 
 (c) upon his/her resignation from the full-time academic staff or from membership of the Senate.
 
-- The Registrar shall act as a Secretary to the Senate.
+(3) The Registrar shall act as a Secretary to the Senate.
 
 ### 18.-
 
@@ -646,17 +698,17 @@ Meetings of the Senate
 
 (1)  Subject to subsection (2), there shall be within the University such Colleges as the Council may, after consultation with the Senate and with the approval of the Minister, establish.
 
-(2)  The Colleges within the University shall be-
+(2) The Colleges within the University shall be-
 
-- Bunda College of Agriculture;
+(a) Bunda College of Agriculture;
 
-- Chancellor College;
+(b) Chancellor College;
 
-- The Polytechnic;
+(c) The Polytechnic;
 
-- Kamuzu College of Nursing; and
+(d) Kamuzu College of Nursing; and
 
-- College of Medicine.
+(e) College of Medicine.
 
 (3)  The Colleges shall be under the general administrative supervision of the Council and under the general academic supervision of the Senate.
 
@@ -664,19 +716,19 @@ Meetings of the Senate
 
 (1)  The Council shall, subject to the relevant provisions of the Statutes appoint, on such terms and conditions as it deems fit, a Principal of each College,  from  amongst  suitably  qualified  persons  recommended  to  the Council by a committee of five members of Senate, three of whom shall come from the College which the Principal shall be assigned.
 
-- A Principal shall-
+(2) A Principal shall-
 
-- hold office for a period of four years and shall be eligible to be re-appointed Principal for further periods of four years; and
+(a) hold office for a period of four years and shall be eligible to be re-appointed Principal for further periods of four years; and
 
-- perform the functions and duties prescribed by the Statutes.
+(b) perform the functions and duties prescribed by the Statutes.
 
 (3) The  Council  shall,  on  the  recommendation  of  the  Principal  of  a College,  appoint  a  Vice-Principal  of  a  College  on  such  terms  and conditions as it deems fit.
 
-- The Vice-Principal shall-
+(4) The Vice-Principal shall-
 
-- hold office for a period of two years and shall be eligible to be reappointed Vice-Principal for further periods of two years; and
+(c) hold office for a period of two years and shall be eligible to be re-appointed Vice-Principal for further periods of two years; and
 
-- assist  the  Principal  in  the  performance  of  his/her  functions  and duties.
+(d) assist the Principal in the performance of his/her functions and duties.
 
 ### 22.-
 
@@ -698,7 +750,7 @@ Faculties and Schools
 
 ### 23.-
 
-(1)  There shall  be Dean of each Faculty and School, who shall be exofficio  chairperson  of  the  Faculty  or  School  and  who  shall,  under  the general  direction  and  control  of  the  Principal  of  the  College  to  which such  Faculty  or  School  is  assigned,  perform  such  other  functions  and exercise such other duties as may be prescribed by the Statutes.
+(1) There shall be a Dean of each Faculty and School, who shall be ex-officio chairperson of the Faculty or School and who shall, under the general direction and control of the Principal of the College to which such Faculty or School is assigned, perform such other functions and exercise such other duties as may be prescribed by the Statutes.
 
 (2)  The Dean shall be elected, in accordance with the relevant Statutes, from  and  by  the  full-time  academic  staff  holding  posts  assigned  to  the Faculty or School concerned, and shall hold office from such date as the Senate  shall  determine  until  the  end  of  the  second  year  following  that date, or until such earlier date as the Senate may in each case determine.
 
@@ -714,31 +766,31 @@ Faculties and Schools
 
 ### 24.
 
-- Each Faculty and School shall consist of-
+(1) Each Faculty and School shall consist of-
 
-- the Dean of that Faculty or School, who shall be Chairperson;
+(a) the Dean of that Faculty or School, who shall be Chairperson;
 
-- the Vice-Chancellor:
+(b) the Vice-Chancellor:
 
-- the Principal of the College to which the Faculty or School is assigned;
+(c) the Principal of the College to which the Faculty or School is assigned;
 
-- all  members  of  the  full-time  and  part-time  academic  staff holding posts allocated to the Faculty or School; and
+(d) all members of the full-time and part-time academic staff holding posts allocated to the Faculty or School; and
 
-- such  other  members  of  the  full-time  or  part-time  staff  of  the University  as  may  be  co-opted  by  that  Faculty  or  School  as associate  members  for  such  period  on  such  terms  as  the Faculty or School may, in each case, determine.
+(e) such other members of the full-time or part-time staff of the University as may be co-opted by that Faculty or School as associate members for such period on such terms as the Faculty or School may, in each case, determine.
 
 (2)  Associate members shall have the right to attend all meetings of the Faculty or School by which they have been co-opted, and take part in its deliberations, but shall have no right to vote thereon.
 
 ### 24A.-
 
-- There shall be within every Faculty, a Department to be headed by a Head of Department who shall be ex-officio chairperson of the Department.
+(1) There shall be within every Faculty, a Department to be headed by a Head of Department who shall be ex-officio chairperson of the Department.
 
-- The  Head  of  Department  shall,  in  academic  matters,  be  under  the  direction and control of the Dean of Faculty to which the Department is assigned, and shall  exercise  powers  and  perform  duties  as  may,  from  time  to  time,  be
+(2) The Head of Department shall, in academic matters, be under the direction and control of the Dean of Faculty to which the Department is assigned, and shall exercise powers and perform duties as may, from time to time, be
 
 Deans
 
 Composition of Faculties or Schools
 
-Head of Department determined by the Senate.
+Head of Department
 
 338
 
@@ -746,43 +798,45 @@ Head of Department determined by the Senate.
 
 [[START OF PAGE 18]]
 
-- The Head of Department shall be elected-
+determined by the Senate.
+
+(3) The Head of Department shall be elected-
 
 (a) at a meeting of the Department and convened and chaired by the Dean in accordance with Statutes; and
 
-(b)  from  full-time  academic  staff  holding  posts  assigned  to  the department  concerned,  and  shall  hold  office  from  such  date  as  the Senate shall determine until the expiry of the second year following that  date,  or  until  such  later  date  as  the  Senate  may  determine,  in respect of each Head of Department, on a case by case basis.
+(b) from full-time academic staff holding posts assigned to the department concerned, and shall hold office from such date as the Senate shall determine until the expiry of the second year following that date, or until such later date as the Senate may determine, in respect of each Head of Department, on a case by case basis.
 
-- The  Head  of  Department  may,  by  notice  in  writing  to  the  Principal  of  the College and submitted through the Dean, resign from his/her office, but such resignation  shall  not  affect  any  other  academic  post  which  the  Head  of Department holds in the University.
+(4) The Head of Department may, by notice in writing to the Principal of the College and submitted through the Dean, resign from his/her office, but such resignation shall not affect any other academic post which the Head of Department holds in the University.
 
-- A Head of Department shall be eligible for re-election to his/her post for such further term of office as the Senate may determine.
+(5) A Head of Department shall be eligible for re-election to his/her post for such further term of office as the Senate may determine.
 
 ### 24B.-
 
-- Each Department shall consist of-
+(1) Each Department shall consist of-
 
-- the Head of Department;
+(a) the Head of Department;
 
-- the  Principal  of  the  College  to  which  the  Department  is assigned;
+(b) the Principal of the College to which the Department is assigned;
 
-- the Dean of the Faculty to which the Department is assigned:
+(c) the Dean of the Faculty to which the Department is assigned:
 
-- all  members  of  the  full-time  academic  staff  holding  posts allocated to the Department; and
+(d) all members of the full-time academic staff holding posts allocated to the Department; and
 
-- such  other  members  of  the  full-time  or  part-time  staff  of  the University  as  may  be  co-opted  by  the  Department  for  such period and on such terms as the Department may determine.
+(e) such other members of the full-time or part-time staff of the University as may be co-opted by the Department for such period and on such terms as the Department may determine.
 
-- A co-opted member of the Department shall have the right to attend all the meetings of the Department and to take part in deliberations, but shall have no right to vote on any matter.
+(2) A co-opted member of the Department shall have the right to attend all the meetings of the Department and to take part in deliberations, but shall have no right to vote on any matter.
 
 ## PART VII - FINANCIAL PROVISIONS
 
 ### 25-
 
-- The property of the University shall consist of -
+(1) The property of the University shall consist of -
 
-- such  sums  as  may,  from  time  to  time,  be  payable  to  the University from moneys appropriate therefore by Parliament;
+(a) such sums as may, from time to time, be payable to the University from moneys appropriated therefor by Parliament;
 
-- such sums of money or other property, real or personal, as may be  acquired,  purchased  or  received  by,  or  transferred  to,  the University,  whether  by  way  of  gift,  devise,  bequest,  purchase or otherwise howsoever ;
+(b) such sums of money or other property, real or personal, as may be acquired, purchased or received by, or transferred to, the University, whether by way of gift, devise, bequest, purchase or otherwise howsoever;
 
-- such sums of money or other property, real or personal, as may accrue  to  the  University  in  the  exercise  of  its  powers  or  the performance of its functions under this Act;
+(c) such sums of money or other property, real or personal, as may accrue to the University in the exercise of its powers or the performance of its functions under this Act;
 
 339
 
@@ -790,33 +844,35 @@ Head of Department determined by the Senate.
 
 [[START OF PAGE 19]]
 
+(d) such sums of money or other property, real or personal, as may accrue to, or be received by, the University by way of fees, grants, subsidies, contributions, donations, subscriptions, rents, interest or royalties from the Government or from any person.
+
+(e) Such sums of money or other property, real or personal, as may be donated to the University by any body or person situated or resident outside Malawi.
+
+(2) Where, under the terms of any written instrument, any right, title or interest in real or personal property is expressed to be disposed, granted or conveyed to the University, the said instrument shall, subject to law, have effect as a disposition, grant or conveyance of such property to the Council and shall vest such property in the Council to the extent of the right, title or interest therein expressed to be so disposed, granted or conveyed.
+
+(3) The property of the University shall be payable to, vested in, held, managed and controlled by the Council, under this Act.
+
 ### 26.-
 
-- The Council shall at all times comply with the provisions of the Finance and Audit Act.
+(1) The Council shall at all times comply with the provisions of the Finance and Audit Act.
 
-- The accounts of the University shall be audited at the end of each financial year by an auditor or auditors appointed by the Council, in accordance with Statute X.
+(2) The accounts of the University shall be audited at the end of each financial year by an auditor or auditors appointed by the Council, in accordance with Statute X.
 
-- The Council shall pay, in respect of any audit held under this part, such fees, costs and expenses as may be appropriate.
+(3) The Council shall pay, in respect of any audit held under this part, such fees, costs and expenses as may be appropriate.
 
-- The  auditor  may  by  writing  under  his/her  hand  require  production  of  all books, deeds, contracts, vouchers, receipts and other documents relating to the accounts or investments of the University which may seem necessary for the purpose of audit, and he/she may summon in writing all such persons, having knowledge  of  the  affairs  of  the  University,  as  he/she  may  think  proper,  to appear before him/her personally at the offices of the Council, at a time to be fixed in such summons, for examination in connection with any document or matters relating to the audit.
+(4) The auditor may by writing under his/her hand require production of all books, deeds, contracts, vouchers, receipts and other documents relating to the accounts or investments of the University which may seem necessary for the purpose of audit, and he/she may summon in writing all such persons, having knowledge of the affairs of the University, as he/she may think proper, to appear before him/her personally at the offices of the Council, at a time to be fixed in such summons, for examination in connection with any document or matters relating to the audit.
 
-- Any person who without just cause, fails or refuses to produce any document the production of which has been duly required by the auditor, or who, having been so summoned-
+(5) Any person who without just cause, fails or refuses to produce any document the production of which has been duly required by the auditor, or who, having been so summoned-
 
-(a) Without  just  cause  neglects  or  refuses  to  comply  with  the  said requirement or summons; or
+(a) Without just cause neglects or refuses to comply with the said requirement or summons; or
 
-(b)  Having appeared before the auditor, without just cause, refuses to be examined; or
+(b) Having appeared before the auditor, without just cause, refuses to be examined; or
 
-(c) Without just cause refuses to answer such questions pertaining to the audit as are put to him/her by the auditor, shall be liable to fine of one hundred Kwacha for every such refusal or neglect. In default of payment, such persons shall be liable to imprisonment for three months:
+(c) Without just cause refuses to answer such questions pertaining to the audit as are put to him/her by the auditor, shall be liable to a fine of one hundred Kwacha for every such refusal or neglect. In default of payment, such persons shall be liable to imprisonment for three months:
 
-- such sums of money or other property, real or personal as may accrue  to,  or  be  received  by,  the  University  by  way  of  fees, grants, subsidies, contributions, donations, subscriptions, rents, interest or royalties from the Government or from any person.
+Compliance with the provision of the Finance and Audit Act and audit of accounts
 
-- Such  sums  of  money  or  other  property,  real  or  personal,  as may  be  donated  to  the  University  by  any  body  or  person situated or resident outside Malawi.
-
-(2)  Where, under the terms of any written instrument, any light, title or interest in real or personal property is expressed to be disposed, granted or  conveyed  to  the  University,  the  said  instrument  shall  subject  to  law, have  effect  as  disposition,  grant  or  conveyed  of  such  property  to  the council and shall vest such property in the Council to the extent of the right,  title  or  interest  therein  expressed  to  be  so  disposed,  granted  or conveyed.
-
-(3)  The property of the University shall be payable to, vested in, held, managed and controlled by the Council, under this Act.
-
-Compliance with the provision of the Finance and audit Act and audit of accounts Cap. 37:01
+Cap. 37:01
 
 340
 
@@ -826,41 +882,41 @@ Compliance with the provision of the Finance and audit Act and audit of accounts
 
 Provided that any conviction under this section shall not operate or be taken to exempt the person convicted from the liability to do or perform the act, matter or thing required of him/her.
 
-- After  completion  of  the  audit  of  the  accounts  of  the  University,  the  auditor shall report thereon in writing to the Council about the audit generally and on such  specific  matters  in  relation  thereto  as  the  Council  may  direct.  The Council shall take the report under consideration within two months after the date of the receipt thereof.
+(6) After completion of the audit of the accounts of the University, the auditor shall report thereon in writing to the Council about the audit generally and on such specific matters in relation thereto as the Council may direct. The Council shall take the report under consideration within two months after the date of the receipt thereof.
 
 ### 27.-
 
-- All the moneys of the University shall be held in the name of the Council and shall be paid into one or another of the following accounts-
+(1) All the moneys of the University shall be held in the name of the Council and shall be paid into one or another of the following accounts-
 
-(a)  the Endowment Fund
+(a) the Endowment Fund
 
-(b)  the Special Account
+(b) the Special Account
 
 (c) the Capital account
 
-(d)  the Revenue Account
+(d) the Revenue Account
 
 (e) the Students Loan Scheme account
 
-- There shall be paid into Endowment Fund all such moneys as are received by the Council and declared specifically to be payable into that Fund.
+(2) There shall be paid into Endowment Fund all such moneys as are received by the Council and declared specifically to be payable into that Fund.
 
-- The Council shall not, save with the prior approval of the President, expend any  capital  moneys  of  the  Endowment  Fund  and  shall  pay  into  the  revenue account all interest received from the investment of the Fund.
+(3) The Council shall not, save with the prior approval of the President, expend any capital moneys of the Endowment Fund and shall pay into the revenue account all interest received from the investment of the Fund.
 
-- There shall be paid into the special account all such moneys as are donated to and received by the Council for special purposes and which are not payable into the Endowment Fund or any other account.
+(4) There shall be paid into the special account all such moneys as are donated to and received by the Council for special purposes and which are not payable into the Endowment Fund or any other account.
 
-- The capital moneys, and the interest therefrom, of the special account shall be used  and  applied  for  the  special  purposes  for  which  such  moneys  were donated in accordance with the conditions of such donation:
+(5) The capital moneys, and the interest therefrom, of the special account shall be used and applied for the special purposes for which such moneys were donated in accordance with the conditions of such donation:
 
-Provided the Council shall not be obliged to accept a donation for particular purpose  unless  it  approves  of  the  terms  and  conditions  attaching  such donation.
+Provided the Council shall not be obliged to accept a donation for particular purpose unless it approves of the terms and conditions attaching such donation.
 
-- There shall be paid into the capital account all such moneys as are received by the  Council  for  the  purpose  of  capital  expenditure  for  the  construction  and improvement of the University.
+(6) There shall be paid into the capital account all such moneys as are received by the Council for the purpose of capital expenditure for the construction and improvement of the University.
 
-- The capital moneys and the interest therefrom, of the capital account shall be used  and  applied  by  the  Council  on  capital  expenditure  for  the  construction and improvement of the University.
+(7) The capital moneys and the interest therefrom, of the capital account shall be used and applied by the Council on capital expenditure for the construction and improvement of the University.
 
-- There shall be paid into the revenue account-
+(8) There shall be paid into the revenue account-
 
 (a) Interest received from the investment of moneys in the Endowment Fund;
 
-(b) All  fees,  charges,  dues  and  other  amounts  payable  by  or  in respect of students;
+(b) All fees, charges, dues and other amounts payable by or in respect of students;
 
 (c) All revenue grants made by the Government of Malawi or by any
 
@@ -872,9 +928,25 @@ Accounts
 
 [[START OF PAGE 21]]
 
+other government or by any person or organization to the Council for the purposes of the University;
+
+(d) All sums transferred under this Act from the Endowment Fund or any other accounts to the revenue account;
+
+(e) All other sums received by the Council and not payable into the Endowment Fund or any other account;
+
+(9) The moneys standing to the credit of the revenue account shall be used and applied by the Council for the management and working of the University in such manner and for such purposes as, in the opinion of the Council, are suited to promote the interests of the University.
+
+(10) Subject to the provisions of Part IIIA, there shall be paid into the Students Loan Scheme account-
+
+(a) such sums as may be appropriated by Parliament for the purposes of the Students Loan Scheme;
+
+(b) interest accrued to any investment undertaken pursuant to section 12F;
+
+(c) such sums as may be received by way of donations, subscriptions, bequests, or gifts considered acceptable by the Council for the purpose of the Students Loan Scheme.
+
 ### 28.-
 
-Subject to the provision of this Act and of the Finance and Audit act, the Council may borrow, either by way of overdraft from a banker or otherwise, such sums as it may from time to time require for the carrying out of its functions and powers.
+Subject to the provision of this Act and of the Finance and Audit Act, the Council may borrow, either by way of overdraft from a banker or otherwise, such sums as it may from time to time require for the carrying out of its functions and powers.
 
 ## PART VIII - MISCELLANEOUS
 
@@ -884,29 +956,13 @@ Subject to this Act, the University shall be governed and administered in accord
 
 ### 30.-
 
-(1)  The Statutes may, pursuant to and in accordance with this section, be  amended,  from  time  to  time,  for  the  better  carrying  out  of  the purposes,  and  more  efficient  administration,  of  this  Act,  and  without prejudice to the generality of the foregoing, any such amendment may be made  by  way  of  alteration,  addition,  repeal  or  replacement  and  may make provision for-
+(1) The Statutes may, pursuant to and in accordance with this section, be amended, from time to time, for the better carrying out of the purposes, and more efficient administration, of this Act, and without prejudice to the generality of the foregoing, any such amendment may be made by way of alteration, addition, repeal or replacement and may make provision for-
 
-- Any  matter  which  is  required  by  this  act  to  be  prescribed  by  the Statutes;
+(a) Any matter which is required by this act to be prescribed by the Statutes;
 
-- The creation of permanent committees of the Council or of the Senate, as  the  case  may  be,  the  membership  of  such  committees,  and  the powers, functions or duties to be delegated thereto;
+(b) The creation of permanent committees of the Council or of the Senate, as the case may be, the membership of such committees, and the powers, functions or duties to be delegated thereto;
 
-- The  functions,  duties  and  terms  of  office  of  any  officer  of  the University or member of the Academic or administrative staff, to the
-
-other government or by any person or organization to the Council for the purposes of the University;
-
-(d) All  sums  transferred  under  this  Act  from  the  Endowment  Fund or any other accounts to the revenue account;
-
-(e) All other sums received by the Council and not payable into the Endowment Fund or any other account;
-
-- The moneys standing to the credit of the revenue account shall be used and applied by the Council for the management and working of the University in such  manner  and  for  such  purposes  as,  in  the  opinion  of  the  Council,  are suited to promote the interests of the University.
-
-- Act to the provisions of Part IIIA, there shall be paid into the Students Loan Scheme account-
-
-(a) such sums as may be appropriate by Parliament for the purposes of the Students Loan Scheme;
-
-(b)  interest accrued to any investment undertaken pursuant to section 12F;
-
-(c) such sums as may be received by way of donations, subscriptions, bequests, or gifts considered acceptable by the Council for the purpose the Students Loan Scheme.
+(c) The functions, duties and terms of office of any officer of the University or member of the Academic or administrative staff, to the
 
 Borrowings
 
@@ -920,37 +976,37 @@ Amendment of the Statutes
 
 [[START OF PAGE 22]]
 
-### 31.-
-
-(1) Subject  to  this  Act  and  to  the  Statutes  and  to  the  approval  of  the Council, the Senate may, by Senate Regulations made  by  notice published as provided in subsection (2), prescribe for the better carrying out of its functions and powers under this Act and under the Statutes, and without prejudice to the generality of the foregoing, such Senate Regulations may make provisions for-
-
-- Matters relating to teaching within the University, or to the teaching of any specified subject, periodic reports from professors and lectures on the progress of students in any subject, Faculty, School, or College, and other like matters,
-
-- Schemes  of  study  and  research,  and  the  conditions  under  which persons  may  be  permitted  to  embark  upon  or  to  continue  any  such schemes;
-
-- The terms and conditions under which students or other persons may use the library or the University, or any College library;
-
 extent that such functions or duties or term of office are not prescribed by this Act;
 
-- The  creation  of  new  offices  and  posts  within  the  University,  the functions and duties attaching to such offices and posts, the duration thereof, and the manner of appointment thereto;
+(d) The creation of new offices and posts within the University, the functions and duties attaching to such offices and posts, the duration thereof, and the manner of appointment thereto;
 
-- Such other matters, including matters of procedure and discipline, as may be deemed expedient or proper by the Council for regulation by Statute.
+(e) Such other matters, including matters of procedure and discipline, as may be deemed expedient or proper by the Council for regulation by Statute.
 
-(2)  The Council may by special resolution adopt any proposal to amend the Statutes.
+(2) The Council may by special resolution adopt any proposal to amend the Statutes.
 
-(3) Upon  the  adoption  by  the  Council  of  any  proposal  to  amend  the Statutes under subsection (2), the Vice Chancellor shall, as soon as it is practical thereafter, submit to the Minister for his/her approval a certified copy of the proposal as adopted by the Council.
+(3) Upon the adoption by the Council of any proposal to amend the Statutes under subsection (2), the Vice Chancellor shall, as soon as it is practical thereafter, submit to the Minister for his/her approval a certified copy of the proposal as adopted by the Council.
 
-(4)  If the Minister does not approve the proposal he/she shall notify the Council, in writing, of his/her non-approval.
+(4) If the Minister does not approve the proposal he/she shall notify the Council, in writing, of his/her non-approval.
 
-(5) If the Minster approves the proposal, he/she may, by Order published  in  the Gazette, amend  the  Schedule  in  accordance  with  the terms of the said proposal.
+(5) If the Minister approves the proposal, he/she may, by Order published in the Gazette, amend the Schedule in accordance with the terms of the said proposal.
 
-(6)  For the purposes of this section, the expression 'special resolution' means a resolution-
+(6) For the purposes of this section, the expression 'special resolution' means a resolution-
 
-- notice of which has been given to each member of the Council, not less than thirty days before the date of the meeting of the Council at which it is intended to be moved; and
+(a) notice of which has been given to each member of the Council, not less than thirty days before the date of the meeting of the Council at which it is intended to be moved; and
 
-- which is moved at a meeting of the Council with not less than one-half of the total membership of the Council being present at the time such resolution is moved and voted upon; and
+(b) which is moved at a meeting of the Council with not less than one-half of the total membership of the Council being present at the time such resolution is moved and voted upon; and
 
-- which is passed by a majority of not less than two-thirds of the members of the Council present at such meeting.
+(c) which is passed by a majority of not less than two-thirds of the members of the Council present at such meeting.
+
+### 31.-
+
+(1) Subject to this Act and to the Statutes and to the approval of the Council, the Senate may, by Senate Regulations made by notice published as provided in subsection (2), prescribe for the better carrying out of its functions and powers under this Act and under the Statutes, and without prejudice to the generality of the foregoing, such Senate Regulations may make provisions for-
+
+(a) Matters relating to teaching within the University, or to the teaching of any specified subject, periodic reports from professors and lecturers on the progress of students in any subject, Faculty, School, or College, and other like matters,
+
+(b) Schemes of study and research, and the conditions under which persons may be permitted to embark upon or to continue any such schemes;
+
+(c) The terms and conditions under which students or other persons may use the library of the University, or any College library;
 
 Senate regulations
 
@@ -960,37 +1016,39 @@ Senate regulations
 
 [[START OF PAGE 23]]
 
-- The conduct and supervision of examinations;
+(d) The conduct and supervision of examinations;
 
-- The  award  of  degrees,  diplomas  or  other  academic  honours  and distinctions, other than honorary degrees or distinctions.
+(e) The award of degrees, diplomas or other academic honours and distinctions, other than honorary degrees or distinctions.
 
-- f)
+(f) Dealing with general academic disciplinary matters.
 
-Dealing with general academic disciplinary matters. (2) Any notice  made  pursuant  to  subsection  (1)  shall  be  published  by the Registrar causing copies thereto to be posted for not less than seven days-
+(2) Any notice made pursuant to subsection (1) shall be published by the Registrar causing copies thereof to be posted for not less than seven days-
 
-- In a prominent place outside his/her office, and also-
+(a) In a prominent place outside his/her office, and also-
 
-- On  boards  provided  for  such  purpose  in  each  of  the  Colleges  and public halls of the University.
+(b) On boards provided for such purpose in each of the Colleges and public halls of the University.
 
 ### 32.-
 
-Any writ or other process, notice or document may be served upon the council by serving the same upon the Registrar.
+Any writ or other process, notice or document may be served upon the Council by serving the same upon the Registrar.
+
+Service of process and Other Documents of the Council
 
 ## PART IX - TRANSITIONAL PROVISIONS AND REPEAL
 
 ### 33.-
 
-(1)  Upon the commencement of this Act-
+(1) Upon the commencement of this Act-
 
-- all  property,  real  and  personal,  and  all  rights  to  and  over property and liabilities arising out of the ownership, possession or  occupation  of  property  and  all  liabilities  in  tort  and  all statutory liabilities which were
+(a) all property, real and personal, and all rights to and over property and liabilities arising out of the ownership, possession or occupation of property and all liabilities in tort and all statutory liabilities which were
 
-- subsisting immediately prior to  such  commencement  and which  were  vested  in,  held,  enjoyed,  incurred,  imposed  upon or  suffered  by  the  Provisional  Council  of  the  University  of Malawi established under the University of Malawi (Provisional Council) Act, shall, by virtue of this paragraph be transferred  and  assigned  to  and  vested  in  the  Council  in  the same manner and to a like  extent  as  if  the  said  property  and rights were vested in, held, enjoyed, or incurred to the benefit of, and as if the said liabilities were incurred, imposed upon or suffered by, the said Council.
+(b) subsisting immediately prior to such commencement and which were vested in, held, enjoyed, incurred, imposed upon or suffered by the Provisional Council of the University of Malawi established under the University of Malawi (Provisional Council) Act, shall, by virtue of this paragraph be transferred and assigned to and vested in the Council in the same manner and to a like extent as if the said property and rights were vested in, held, enjoyed, or incurred to the benefit of, and as if the said liabilities were incurred, imposed upon or suffered by, the said Council.
 
-- The benefit of all deeds, contracts, bonds, securities, mortgages or things in action, or of any right of action for tort which were subsisting immediately prior to such commencement and which were vested in, held or enjoyed by, the  Provisional Council of the University of Malawi shall, by virtue of this paragraph be cap.30:02 transferred and assigned to and vested in, and shall inure too the benefit of the Council in the same manner and to a like extent as they were held and enjoyed  by  the  said  Provisional  Council  of  the  University  of Malawi and as if the Council has been contracted with instead of  the  said  Provisional  Council  of  the  University  of  Malawi and  as  if  the  Council  has  been  party  to  all  such  deeds, contracts,  bonds,  securities,  or  mortgages  instead  of  the  said
+Cap. 30:02
 
-Service of process and Other Documents of the Council
+(c) The benefit of all deeds, contracts, bonds, securities, mortgages or things in action, or of any right of action for tort which were subsisting immediately prior to such commencement and which were vested in, held or enjoyed by, the Provisional Council of the University of Malawi shall, by virtue of this paragraph be transferred and assigned to and vested in, and shall inure to the benefit of the Council in the same manner and to a like extent as they were held and enjoyed by the said Provisional Council of the University of Malawi and as if the Council had been contracted with instead of the said Provisional Council of the University of Malawi and as if the Council had been party to all such deeds, contracts, bonds, securities, or mortgages instead of the said
 
-Transitional Provisional  Council  of  the  University  of  Malawi,  and  in  the same manner and to a like extent as if the Council had at all times  been  entitled  to  the  benefit  of  all  such  things  in  action, and  of all such  rights of action for tort, instead of the Provisional Council of the University of Malawi.
+Transitional
 
 344
 
@@ -998,13 +1056,15 @@ Transitional Provisional  Council  of  the  University  of  Malawi,  and  in  th
 
 [[START OF PAGE 24]]
 
-- All subsisting or future liabilities or obligations arising out of any deed, contract, bond, security, mortgage, or thing, in action imposed upon, suffered or incurred by the Provisional Council of the University of Malawi, shall, by virtue of this paragraph, be transferred to, imposed upon, suffered and incurred by, the Council in the same manner and a like extent as if the Council has been party of each and such deed, contract, bond, security or  mortgage  instead  of  the  said  Provisional  Council  of  the University of Malawi, and in the same manner to a like extent as  if  the  Council  has  been,  at  all  times,  the  party  bound  or obliged  by  or  under  each  thing  in  action  instead  of  the  said Provisional Council of the University of Malawi ;
+Provisional Council of the University of Malawi, and in the same manner and to a like extent as if the Council had at all times been entitled to the benefit of all such things in action, and of all such rights of action for tort, instead of the Provisional Council of the University of Malawi.
 
-- Where there are pending any legal proceeding or application to any authority to which the Provisional Council of the University of Malawi is a party, the Council shall be substituted  in  such  proceeding  or  application  for  the  said Provisional  Council  of  the  University  of  Malawi,  and  such proceeding  or  application  shall  not  abate  by  reason  of  such substitution;
+(d) All subsisting or future liabilities or obligations arising out of any deed, contract, bond, security, mortgage, or thing in action imposed upon, suffered or incurred by the Provisional Council of the University of Malawi, shall, by virtue of this paragraph, be transferred to, imposed upon, suffered and incurred by, the Council in the same manner and to a like extent as if the Council had been a party to each such deed, contract, bond, security or mortgage instead of the said Provisional Council of the University of Malawi, and in the same manner and to a like extent as if the Council had been, at all times, the party bound or obliged by or under each thing in action instead of the said Provisional Council of the University of Malawi;
 
-- The  Provisional  Council  of  the  University  of  Malawi  shall deliver to the Council or as the Council may order, all personal property therefore owned and possessed by the said Provisional Council of the University of Malawi and transferred to and assigned to the Council pursuant to paragraph  (a),  and  shall,  further,  deliver  to  the  Council  all deeds,  contracts,  bonds,  securities,  mortgages,  books,  papers and documents appertaining to the said Provisional Council of the University of Malawi and to its operations.
+(e) Where there are pending any legal proceeding or application to any authority to which the Provisional Council of the University of Malawi is a party, the Council shall be substituted in such proceeding or application for the said Provisional Council of the University of Malawi, and such proceeding or application shall not abate by reason of such substitution;
 
-- In the case of any property transferred to and vested in the Council under subsection (1) in respect of the transfer of which any written law provides  for  registration,  the  Council  shall,  within  one  year  from  the commencement  of  this  part,  make  written  application  to  the  proper officer  of  the  appropriate  registration  authority  for  registration  of  each transfer and it shall be the duty of that officer to make such entries in the proper register as shall give effect to such transfer, and where appropriate  to  issue  to  the  Council  a  Certificate  of  Title,  or  other statutory  evidence  of  ownership  in  respect  of  the  said  property  or  to make the necessary amendments to the register, as the case may be, and, if  presented  therefore,  to  make  endorsements  on  the  deeds  or  other registration  of  other  fees,  stamp,  or  other  duties,  shall  be  payable  in respect thereof.
+(f) The Provisional Council of the University of Malawi shall deliver to the Council or as the Council may order, all personal property theretofore owned and possessed by the said Provisional Council of the University of Malawi and transferred to and assigned to the Council pursuant to paragraph (a), and shall, further, deliver to the Council all deeds, contracts, bonds, securities, mortgages, books, papers and documents appertaining to the said Provisional Council of the University of Malawi and to its operations.
+
+(2) In the case of any property transferred to and vested in the Council under subsection (1) in respect of the transfer of which any written law provides for registration, the Council shall, within one year from the commencement of this part, make written application to the proper officer of the appropriate registration authority for registration of each transfer and it shall be the duty of that officer to make such entries in the proper register as shall give effect to such transfer, and where appropriate to issue to the Council a Certificate of Title, or other statutory evidence of ownership in respect of the said property or to make the necessary amendments to the register, as the case may be, and, if presented therefor, to make endorsements on the deeds or other documents of title relating to the said property, and no registration or other fees, stamp, or other duties, shall be payable in respect thereof.
 
 345
 
@@ -1024,49 +1084,49 @@ The University of Malawi (Provisional Council) Act is hereby repealed.
 
 ### STATUTES OF THE UNIVERSITY
 
-- Interpretation
-
-- Congregations
-
-- Degree and other academic distinctions
-
-- The Vice Chancellor
-
-- The Finance Officer
-
-- The Principal of Colleges
-
-VII. The Deans of Faculties and Schools
-
-VIII. The Registrar
-
-IX. The Librarian
-
-X. The Auditor
-
-XI. Honorary and Emeritus Professors
-
-XII. Procedure generally
-
-XIII. Finance Committee
-
-XIV. Powers and Functions of the Senate
-
-XV. The Faculties and Schools
-
-XVI. Appointments Committee
-
-XVII. Procedure relating to contracts of appointment
-
-XVIII. Procedure to Statutory Committees
-
-XIX. Honorary Degrees
-
-XX. Elections to Deanship and to the Senate
-
-XXI. Service of Notices and Documents
-
 Statute
+
+- I. Interpretation
+
+- II. Congregations
+
+- III. Degree and other academic distinctions
+
+- IV. The Vice Chancellor
+
+- V. The Finance Officer
+
+- VI. The Principal of Colleges
+
+- VII. The Deans of Faculties and Schools
+
+- VIII. The Registrar
+
+- IX. The Librarian
+
+- X. The Auditor
+
+- XI. Honorary and Emeritus Professors
+
+- XII. Procedure generally
+
+- XIII. Finance Committee
+
+- XIV. Powers and Functions of the Senate
+
+- XV. The Faculties and Schools
+
+- XVI. Appointments Committee
+
+- XVII. Procedure relating to contracts of appointment
+
+- XVIII. Procedure to Statutory Committees
+
+- XIX. Honorary Degrees
+
+- XX. Elections to Deanship and to the Senate
+
+- XXI. Service of Notices and Documents
 
 Dissolution of Provisional Council of the University
 
@@ -1129,6 +1189,98 @@ Provided that the Senate may, at any time, extend any academic year beyond the p
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+
+- Bachelor of Accountancy
+
+- Bachelor of Business Administration
+
+- Bachelor of Education (Technical)
+
+- Bachelor of Education
+
+- Bachelor of Information Technology
+
+- Bachelor of Laws with Honours
+
+- Bachelor of Medicine, Bachelor of Surgery
+
+- Bachelor of Pharmacy
+
+- Bachelor of Science in Agribusiness Management
+
+- Bachelor of Science in Agriculture
+
+- Bachelor of Science in Architecture
+
+- Bachelor of Science in Aquaculture and Fisheries Sciences
+
+- Bachelor of Science in Extension
+
+- Bachelor of Science in Civil Engineering
+
+- Bachelor of Science in Electrical Engineering
+
+- Bachelor of Science in Mathematical Science Education
+
+- Bachelor of Science in Mechanical Engineering
+
+- Bachelor of Science in Nursing
+
+- Bachelor of Science in Mid-wifery
+
+- Bachelor of Science in Aquaculture and Fisheries Sciences
+
+- Bachelor of Science in Environmental Health
+
+- Bachelor of Science in Environmental Science and Technology
+
+- Bachelor of Science in Environmental Science
+
+- Bachelor of Science in Forestry
+
+- Bachelor of Science in Horticulture
+
+- Bachelor of Science in Irrigation Engineering
+
+- Bachelor of Science in Land Surveying
+
+- Bachelor of Science in Natural Resources Management
+
+- Bachelor of Science in Quantity Surveying
+
+- Bachelor of Science with Honours
+
+- Bachelor of Science
+
+- Bachelor of Social Science with Honours
+
+- Bachelor of Social Science
+
+- Master of Arts in Theatre and Media Communications
+
+- Master of Arts in English
+
+- Master of Arts in Economics
+
+- Master of Arts in History
+
+- Master of Arts in Sociology (Women in Development)
+
+- Master of Arts in Philosophy
+
+- Master of Business Administration
+
+- Master of Economics
+
+- Master of Education
+
+- Master of Laws
+
+- Master of Medicine in Anaesthetics
+
+- Master of Medicine in Medicine
+
+- Master of Medicine in Obstetrics and Gynaecology
 
 348
 
@@ -1234,7 +1386,7 @@ Provided that the Senate may, at any time, extend any academic year beyond the p
 
 - Degrees  shall  be  conferred by the Chancellor , or in his absence by the Vice-Chancellor, or in his/her absence of both of them by the Acting Vice-chancellor, at Congregations of the whole University;
 
-Provided  that  where  the  Chancellor,  Vice-chancellor  and  Acting  Vicechancellor  are  not  available,  the  council  may  appoint  a  member  of  the  Council  to confer the Degrees at any such Congregation.
+Provided  that  where  the  Chancellor,  Vice-chancellor  and  Acting  Vice-chancellor  are  not  available,  the  council  may  appoint  a  member  of  the  Council  to confer the Degrees at any such Congregation.
 
 - No person shall be allowed to proceed to any Degree except an aegrotat Degree  without  examination  or  other  adequate  test,  but  Honorary  Degrees  may  be conferred  as  the  Chancellor  thinks  fit  on  the  recommendation  of  the  Council,  as advised by the Honorary Degrees Committee.
 
@@ -1246,7 +1398,9 @@ Provided  that  where  the  Chancellor,  Vice-chancellor  and  Acting  Vicechanc
 
 - The  Vice-chancellor  shall  have  power  to  appoint  a  person  to  act  as  the Principal  of  a  College,  as  the  Dean  of  a  Faculty  or  School,  as  the  Head  of  a department, as the Director of a Centre or Unit, as a Registrar, as the Finance Officer, or  as  the  Librarian,  during  a  temporary  vacancy  in  such  a  post  or  the  temporary absence from duty or inability of the holder of such a post. The person so appointed may exercise all or any of the powers, perform all or any of the duties, and have such of the privileges of the holders of the post to which he/she is appointed to act, as the Vice-Chancellor may determine.
 
-- The Vice-Chancellor(a) shall  exercise  general  appellate  disciplinary  powers  in  non-academic matters in respect of students; and
+- The Vice-Chancellor-
+
+(a) shall  exercise  general  appellate  disciplinary  powers  in  non-academic matters in respect of students; and
 
 (b)  may appoint standing ad hoc committees to advise him/her on course of action or to inquire into matters, and report to him/her with recommendations as to possible course of action.
 
@@ -1318,7 +1472,7 @@ Provided  that  where  the  Chancellor,  Vice-chancellor  and  Acting  Vicechanc
 
 - The Head of Department shall be responsible to the Dean of the Faculty to which the Department is assigned for the overall co-ordination of all academic matters of the Department,  and  to  the  Principal  for all administrative matters of the Department.
 
-- The Head of Department shall discharge such other duties with lecturer timetables, studies, attendance at lectures, examinations and such other matters in his/her department as may be determined by the College.
+- The Head of Department shall discharge such other duties with lecturer time-tables, studies, attendance at lectures, examinations and such other matters in his/her department as may be determined by the College.
 
 #### STATUTE IX - THE LIBRARIAN
 
@@ -1358,7 +1512,7 @@ Subject to the Act -
 
 (c) no person or firm shall be appointed as auditor to the University if he/she or any member of the firm of accountants of which he/she is a partner, or, in the case of a firm, if any member of the firm, is a member of the Council, the Senate;
 
-(d) auditors  shall  be  appointed  for  one  year,  but  shall  be  eligible  for  reappointment.
+(d) auditors  shall  be  appointed  for  one  year,  but  shall  be  eligible  for  re-appointment.
 
 #### STATUTE XI - HONORARY AND EMERITUS PROFESSORS
 
@@ -1512,7 +1666,7 @@ shall, without prejudice to any other functions expressly prescribed therefore, 
 
 (e) not more  than  three persons  co-opted  by  the  Vice-chancellor  to membership of the  Appointments  Committee for each appointment to be made, having regard to the subject of the appointment.
 
-- There  shall  be  in  each  College  of  the  University,  a  Sub-Committee  of  the Appointments Committee to be known as the 'Appointments and Disciplinary SubCommittee' consisting of-
+- There  shall  be  in  each  College  of  the  University,  a  Sub-Committee  of  the Appointments Committee to be known as the 'Appointments and Disciplinary Sub-Committee' consisting of-
 
 - The Principal as Chairperson;
 
@@ -1566,7 +1720,7 @@ Subject  to  the  Act  and  these  Statutes,  procedure  relating  to  contracts
 
 (a) (i)      in  the  case  of  the  Finance  Committee,  at  the  discretion  of  the Chairperson of the Finance Committee after consultation with the Vice-chancellor;
 
-(ii) in  the  case  of  the  Senate,  at  the  discretion  of  the  Vicechancellor; and
+(ii) in  the  case  of  the  Senate,  at  the  discretion  of  the  Vice-chancellor; and
 
 (iii) in the case of a School, after consultation with the Principal of the College to which such Faculty or School is allocated; or
 
@@ -1608,7 +1762,7 @@ Subject  to  the  Act  and  these  Statutes,  procedure  relating  to  contracts
 
 [[START OF PAGE 40]]
 
-his/her  absence  he/she  may  delegate  such  power  to  a  person  appointed  as  Vicechairperson of the Statutory Committee or committee.
+his/her  absence  he/she  may  delegate  such  power  to  a  person  appointed  as  Vice-chairperson of the Statutory Committee or committee.
 
 15.  Decisions  at  meetings  of  any  Statutory  Committee  shall,  except  where otherwise provided, be taken by a consensus of agreement or, where, in the opinion of the chairperson, a vote needs to be taken, shall be determined by a simple majority of the members present and voting on the matter. In the case of an equality of votes, the chairperson  shall  have  the  power  to  exercise  a  casting  vote  in  addition  to  his deliberative vote. Voting shall not be recorded in the minutes of proceedings.
 
