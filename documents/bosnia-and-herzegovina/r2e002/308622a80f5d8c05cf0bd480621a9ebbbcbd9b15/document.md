@@ -243,8 +243,14 @@ This law shall come into effect on the eighth day from the date of its publishin
 
 Parliamentary Assembly of BiH, no. 123/07 October 30, 2007 Sarajevo
 
-Speaker Speaker Of the House of Representatives Of the House of Peoples Of the Parliamentary Assembly of BiH Of the Parliamentary Assembly of BiH
+Speaker
+Of the House of Representatives
+Of the Parliamentary Assembly of BiH
+Dr. Milorad Zivkovic, in person
 
-Dr. Milorad Zivkovic, in person Ilija Filipovic, in person
+Speaker
+Of the House of Peoples
+Of the Parliamentary Assembly of BiH
+Ilija Filipovic, in person
 
 [[END OF PAGE 6]]
