@@ -14,17 +14,97 @@ April, 2011 MBABANE, SWAZILAND
 
 # CONTENTS
 
+Table of Contents (ii)
+Foreword (iv)
+Acronyms (vii)
+Policy Terminology And Definitions (x)
+
+PREAMBLE 1
+1. THE EDSEC POLICY CONTEXT 7
+2. POLICY MISSION AND GOAL 10
+2.1 EDSEC Policy Mission 10
+2.2 EDSEC Policy Goal 10
+3. GUIDING PRINCIPLES 11
+4. SCOPE OF POLICY APPLICATION 12
+5. MAINSTREAMING 13
+6. SECTOR WIDE POLICY ISSUES 14
+6.1 HIV and AIDS 14
+6.2 Schools as Centres Of Care nd Support (SCCS) 16
+6.3 Inclusive Education 17
+6.4 Curriculum Development 19
+6.5 Education Guidance & and Psychosocial Services 21
+6.6 Orphans & Vulnerable Children 22
+6.7 Education For Sustainable Development 24
+7. GENERAL POLICY ISSUES 26
+7.1 Gender 26
+7.2 Protection From Violance, Abuse And Exploitation 26
+7.3 Admission Criteria 27
+7.4 Medium Of Instruction 27
+7.5 Positive School Discipline 28
+
 ii
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
+7.6 School Uniforms 28
+7.7 Standardised Assessment 28
+8. SUB-SECTOR POLICY OBJECTIVES & STRATEGIES 29
+8.1 Early Childhood Care & Development (ECCE) 29
+8.2 Primary Education 31
+8.3 Secondary Education 33
+8.4 Technical & Vocational Education & Training 35
+8.5 Tertiary & Higher Education 37
+8.6 Teacher Education & Training 40
+8.7 Non-Formal & Continuing Education 42
+9. IN-SERVICE EDUCATION AND TRAINING (INSET) 45
+9.1 INSET Policy Rationale 45
+9.2 INSET Policy Goal 45
+9.3 INSET Policy Objectives 45
+9.4 INSET Strategic Framework 46
+10. ASSESSMENT 48
+10.1 Assessment Policy Rationale 48
+10.2 Assessment Policy Goal 48
+10.3 Assessment Policy Objectives 48
+10.4 Assessment Strategic Framework 48
+11. EMIS, ANALYSIS & RESEARCH 50
+11.1 EMIS, Analysis & Research Rationale 50
+11.2 EMIS, Analysis & Research Policy Goal 50
+11.3 EMIS, Analysis & Research Policy Objectives 50
+11.4 EMIS, Analysis & Research Strategic Framework 50
+12. PLANNING, POLICY AND BUDGET IMPLEMENTATION 52
+12.1 Planning and Budget Implementation Rationale 52
+12.2 Planning, Policy and Budget Implementation Policy Goal 52
+
 iii
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+12.3 Planning, Policy and Budget Implementation Policy Objectives 52
+12.4 Planning, Policy and Budget Implementation Framework 53
+13. TEACHING SERVICE COMMISSION 55
+13.1 Teaching Service Commission Policy Rationale 55
+13.2 Teaching Service Policy Goals 55
+13.3 Teaching Service Commission Policy Objectives 55
+13.4 Teaching Service Commission Strategic Framework 55
+14. RESOURCE ALLOCATION & BUDGETING 57
+14.1 Resource Allocation & Budgeting Rationale 57
+14.2 Resource Allocation & Budgeting Policy Goal 57
+14.3 Resource Allocation & Budgeting Policy Objective 57
+14.4 Resource Allocation & Budgeting Strategic Framework 57
+15. MONITORING, EVALUATION & REPORTING 59
+15.1 M&E And Reporting Rationale 59
+15.2 M&E And Reporting Policy Goal 59
+15.3 M&E And Reporting Policy Objectives 59
+15.4 M&E And Reporting Strategic Framework 59
+16. POLICY REVIEW AND FREQUENCY 61
+17. SWAZILAND EDSEC SITUATION ANALYSIS 62
+
+Appendix A: International & Regional Commitments & Agreements 63
+Appendix B: Moe&T Organogram & Structure 64
 
 iv
 
@@ -451,7 +531,7 @@ CURRICULUM: Curriculum is all  the  learning  experiences  provided for  learner
 
 DISABILITY: Disability  is  an  evolving  concept  which  results  from  the  interaction  between persons with impairments, and attitudinal and environmental barriers that hinder their full and effective  participation  in  society  on  an  equal  basis  with  others  (Convention  on  the  Rights  of Persons  with  Disabilities,  2006).  Disability  is  seen  as  a  socially  created  problem.  It  is  not  an attribute  of  an  individual,  but  rather  a  complex  collection  of  conditions,  many  of  which  are created by the social environment.
 
-DISADVANTAGED: This generally means those who are socially, geographically or economically  sidelined  or  excluded  from,  for  example,  access  to  education.  This  group  may include rural dwellers, girls and women,  persons  with disabilities and  the poor. The disadvantaged require special attention in respect of equity, access, equality and protection particularly from stigma and discrimination.  Disadvantaged groups are those who have little or no influence over their own education or welfare.  As a result, they are often excluded from access and decision-making and may also be defined as marginalized.
+DISADVANTAGED: This generally means those who are socially, geographically or economically sidelined or excluded from, for example, access to education. This group may include rural dwellers, girls and women, persons with disabilities and the poor. The disadvantaged require special attention in respect of equity, access, equality and protection – particularly from stigma and discrimination. Disadvantaged groups are those who have little or
 
 x
 
@@ -459,7 +539,9 @@ x
 
 [[START OF PAGE 11]]
 
-EARLY  CHILDHOOD  CARE  AND  EDUCATION  (ECCE): ECCE  refers  to  a  comprehensive approach to policies and programmes for children from birth to eight years, their parents and guardians. Its purpose is to protect the child rights to develop his/her full cognitive, emotional, social  and  physical  potential  which  are  promoted  by  proper  care,  early  stimulation,  proper socialisation and education. It is the stage where most of the brain is developed.
+no influence over their own education or welfare. As a result, they are often excluded from access and decision-making and may also be defined as marginalized.
+
+EARLY CHILDHOOD CARE AND EDUCATION (ECCE): ECCE refers to a comprehensive approach to policies and programmes for children from birth to eight years, their parents and guardians. Its purpose is to protect the child rights to develop his/her full cognitive, emotional, social and physical potential which are promoted by proper care, early stimulation, proper socialisation and education. It is the stage where most of the brain is developed.
 
 EDUCATION FOR SUSTAINABLE DEVELOPMENT: Sustainable development means seeking to meet the needs of the present without compromising those of future generations.   Education for sustainable development (ESD) requires that nations and their peoples learn their way out of current  social  and  environmental  problems  and learn  to  live  sustainably.    ESD  aims  to  help people  to  develop  the  attitudes,  skills  and  knowledge  to  make  informed  decisions  for  the benefit of themselves and others, now and in the future, and to act upon these decisions. The primary  goal  of  ESD  is  to  develop  norms  and  values  and  change  practices  and  lifestyles  to ensure  sustainable  living.  Thus  ESD  is  an  essential  link  in  the  poverty  reduction,  health,  and environment protection chain.
 
@@ -469,7 +551,7 @@ GENDER ANALYSIS :    Describes the collection and analysis of sex-disaggregated 
 
 GENDER: Refers to the roles and responsibilities of men and women that are created in our families, our societies and our cultures. The concept of gender also includes the expectations held  about  the  characteristics,  aptitudes  and  likely  behaviors  of  both  women  and  men (femininity  and  masculinity).  Gender  equality  means  that  women  and  men  have  equal conditions  for  realizing  their  full  human  rights  and  for  contributing  to,  and  benefiting  from, economic, social, cultural and political development. It is based on women and men being full partners in their home, their community and their society. Gender equity is the process of being fair  to  men  and  women,  which  often  requires  that  measures  must  be  put  in  place  to compensate  for  the  historical  and  social  disadvantages  that  prevent  women  and  men  from operating on a level playing field.
 
-IMPAIRMENT: Impairment is a limitation in body function or structure that can result from the lack  of  enabling  factors  as  well  as  the  activity  itself.  The  cause  of  an  impairment  can  be congenital; birth-related (such as those from absence of proper preand post-natal interventions);  arise from  cultural  practices  (such  as  female  genital  mutilation);  impairment in itself; complications during pregnancy and delivery; malnutrition (such as lack of vitamin A or iodine); polio; measles; malaria; or the consequence of armed conflict, including wounds from conflict and the legacy of landmines, accidents and natural disasters.
+IMPAIRMENT: Impairment is a limitation in body function or structure that can result from the lack of enabling factors as well as the activity itself. The cause of an impairment can be congenital; birth-related (such as those from absence of proper pre- and post-natal interventions); arise from cultural practices (such as female genital mutilation); impairment in itself; complications during pregnancy and delivery; malnutrition (such as lack of vitamin A or iodine); polio; measles; malaria; or the consequence of armed conflict, including wounds from conflict and the legacy of landmines, accidents and natural disasters.
 
 xi
 
@@ -495,7 +577,7 @@ xii
 
 [[START OF PAGE 13]]
 
-TIME FRAMES: SHORT-, MEDIUM- AND LONG-: For the purposes of this EDSEC Policy, shortterm Policy objectives should be met within 1 to 2 years; medium-term Policy objectives should be met in 3 to 5 years; and long-term Policy objectives should be met in 6 to 10 years (unless otherwise stipulated).
+TIME FRAMES: SHORT-, MEDIUM- AND LONG-: For the purposes of this EDSEC Policy, short-term Policy objectives should be met within 1 to 2 years; medium-term Policy objectives should be met in 3 to 5 years; and long-term Policy objectives should be met in 6 to 10 years (unless otherwise stipulated).
 
 xiii
 
@@ -503,17 +585,17 @@ xiii
 
 [[START OF PAGE 14]]
 
+# PREAMBLE
+
 ## Introduction
 
-The Ministry of Education and Training's commitment to contribute positively to the attainment of the country's vision is strategically and succinctly expressed in its mission statement, which reads as: 'To provide relevant, quality and affordable education and training opportunities for the entire populace of the Kingdom of Swaziland in order to develop all positive aspects of life for self-reliance, social and economic development and global competitiveness'.  The Ministry's vision  amply  expresses  its  demonstration  of  a  re-invigorated  strength  and  determination  in developing policies, strategies and programmes aimed at ensuring that the rights of the child are respected and that commitments made at international, regional and national levels are duly observed.  At  the  centre  of  the  vision,  which  states;'Attainment  of  equality  in  educational opportunities for all pupils of school going age and adults irrespective of their socio-economic backgrounds, with the ultimate goal of enhancing their productive capacity, thus improving the quality of their lives', lies the quest and passion to reduce socio-economic inequalities, improve productivity  and  the  overall  quality  of  the  life  of  the  people  of  Swaziland  through  a  well coordinated, defined and guided Education and Training Sector.
+The Ministry of Education and Training’s commitment to contribute positively to the attainment of the country’s vision is strategically and succinctly expressed in its mission statement, which reads as: “To provide relevant, quality and affordable education and training opportunities for the entire populace of the Kingdom of Swaziland in order to develop all positive aspects of life for self-reliance, social and economic development and global competitiveness”. The Ministry’s vision amply expresses its demonstration of a re-invigorated strength and determination in developing policies, strategies and programmes aimed at ensuring that the rights of the child are respected and that commitments made at international, regional and national levels are duly observed. At the centre of the vision, which states;“Attainment of equality in educational opportunities for all pupils of school going age and adults irrespective of their socio-economic backgrounds, with the ultimate goal of enhancing their productive capacity, thus improving the quality of their lives”, lies the quest and passion to reduce socio-economic inequalities, improve productivity and the overall quality of the life of the people of Swaziland through a well coordinated, defined and guided Education and Training Sector.
 
 ## The Education and Training Sector Policy Development Process
 
-The development of the 2010 Swaziland Education and Training Sector (EDSEC) Policy builds on a  lengthy  and  consultative  process  both  inside  and  outside  the  Ministry  of  Education  and Training (MoET). This process has its roots in two draft Policies developed in 2009, which were designed to lead to the replacement of Swaziland's 1999 Draft EDSEC Policy.
+The development of the 2010 Swaziland Education and Training Sector (EDSEC) Policy builds on a lengthy and consultative process both inside and outside the Ministry of Education and Training (MoET). This process has its roots in two draft Policies developed in 2009, which were designed to lead to the replacement of Swaziland’s 1999 Draft EDSEC Policy.
 
-The 2009 draft Policies were considered and interrogated at a MoET review workshop in  May 2010. This initial workshop involved representatives of every MoET sub-sector and was designed to facilitate a convergence of views within the MoET before consigning the draft EDSEC Policy to a  wider  and  more inclusive  circle  of  interest  groups  and  stakeholders  for their  comments  and inputs. The commitment to a consultative process of Policy development confirmed the MoET's determination to ensure the introduction of a comprehensive guiding document that meets the needs and aspirations of every Swazi citizen, as well as the stakeholder groups that represented them.  The  May  2010  workshop  provided  the  opportunity  to  reflect  on  the  importance  and function  of  EDSEC  Policy  and  led  to  the  introduction  of  a  comprehensive  set  of  sub-sector inputs.  These  inputs  added  considerable  value  to  the  draft  (EDSEC  Policy  #1  of  2010)  and ensured that sub-sector interests were acknowledged and addressed. This reflective process also ensured  that  the  policy  goals  and  objectives  of  every  EDSEC  sub-sector  were  addressed  and established practical guidelines for the strategic planning of Policy implementation.
-
-# PREAMBLE
+The 2009 draft Policies were considered and interrogated at a MoET review workshop in May 2010. This initial workshop involved representatives of every MoET sub-sector and was designed to facilitate a convergence of views within the MoET before consigning the draft EDSEC Policy to a wider and more inclusive circle of interest groups and stakeholders for their comments and inputs. The commitment to a consultative process of Policy development confirmed the MoET’s determination to ensure the introduction of a comprehensive guiding document that meets the needs and aspirations of every Swazi citizen, as well as the stakeholder groups that represented them. The May 2010 workshop provided the opportunity to reflect on the importance and function of EDSEC Policy and led to the introduction of a comprehensive set of sub-sector inputs. These inputs added considerable value to the draft (EDSEC Policy #1 of 2010) and ensured that sub-sector interests were acknowledged and addressed. This reflective process also ensured that the policy goals and objectives of every EDSEC sub-sector were addressed and established practical guidelines for the strategic planning of Policy implementation.
 
 1
 
@@ -545,7 +627,7 @@ However,  in  its  endeavor  to  extend  educational  opportunities  to  all,  p
 
 ## Ministry of Education and Training Portfolio Responsibilities
 
-In carrying out its mandate, the Ministry of Education and Training is charged with the underlisted portfolio responsibilities:
+In carrying out its mandate, the Ministry of Education and Training is charged with the under-listed portfolio responsibilities:
 
 - Early Childhood Care Education
 
@@ -623,13 +705,15 @@ To ensure that the education offered at secondary school level is relevant and o
 
 ## Education and Training Sector Policies and Legal Frameworks
 
-The Ministry of education and Training is continuing to put great effort in the development of policies and legal frameworks to guide this sector. As part of this effort, it has established the Technical and Vocational education and Training and Skills development (TVETSD) Task Team which yielded positive results in terms of the development of new policies and legal frameworks for the sector. The Technical and Vocational Education and Training (TVET) Policy and the Legal framework to implement it are now in place; the TVETSD Policy has been finalized and approved and  is  now  operational;  the  Council  of  Educators  Bill  has  been  developed  and  is  now  before Parliament. The National Qualifications Authority and Framework have been developed and are to be presented to Cabinet. The Guidelines for the establishment of the Registration of Private Education Institutions were developed and approved by Parliament. The review of the National Education Policy of 1999 is complete resulting into this 2011 Swaziland Education and Training Sector Policy document. The 2011 Swaziland Education and Training Sector Policy Document will inform the development strategies of other sub-sector policies which are currently in draft forms such as: the ECCD Policy, the Inclusive Education Policy, and the School Accounting Regulations and Procedures, and the Schools Committee Constitution, to name but a few.
+The Ministry of education and Training is continuing to put great effort in the development of policies and legal frameworks to guide this sector. As part of this effort, it has established the Technical and Vocational education and Training and Skills development (TVETSD) Task Team which yielded positive results in terms of the development of new policies and legal frameworks for the sector. The Technical and Vocational Education and Training (TVET) Policy and the Legal
 
 5
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
+
+framework to implement it are now in place; the TVETSD Policy has been finalized and approved and is now operational; the Council of Educators Bill has been developed and is now before Parliament. The National Qualifications Authority and Framework have been developed and are to be presented to Cabinet. The Guidelines for the establishment of the Registration of Private Education Institutions were developed and approved by Parliament. The review of the National Education Policy of 1999 is complete resulting into this 2011 Swaziland Education and Training Sector Policy document. The 2011 Swaziland Education and Training Sector Policy Document will inform the development strategies of other sub-sector policies which are currently in draft forms such as: the ECCD Policy, the Inclusive Education Policy, and the School Accounting Regulations and Procedures, and the Schools Committee Constitution, to name but a few.
 
 ___________________________
 
@@ -687,7 +771,7 @@ EDSEC  Policy  is  regarded  as  a  practical,  guiding  instrument  designed  t
 
 However, the proliferation of parallel sub-sector policies for their own sake is avoided wherever possible. Most sub-sector issues are effectively addressed in concise EDSEC Policy, with the detail contained  in  strategic  and  operational  planning.  In  the  case  of  certain  cross-cutting  issues however,  such  as  HIV  and  AIDS  and  OVC,  it  is  increasingly  clear  that  effective  response management is better facilitated  by  mainstreaming  action  across  the  routine functions  of the sector. This course is underpinned by growing evidence that separate, stand-alone policies and strategies have been counter-productive; this issue is addressed in some detail below.
 
-Critically,  EDSEC  Policy  addresses  every  level  and  sub-sector  of  the  education  and  training continuum,  from  Early  Childhood  Care  and  Education  (ECCE)  to  Higher  Education  (HE),  nonformal  and  continuing  education.  Not  only  does  this  reflect  Swaziland's  commitment  to inclusive, life-long learning, but it draws attention to issues of access, quality, equity, relevance, efficiency and delivery. EDSEC Policy proceeds from a principled position to ensure the sustained implementation of a transformative strategy to make Swaziland a key regional provider of skilled human resources and, as a consequence, internationally competitive.
+Critically, EDSEC Policy addresses every level and sub-sector of the education and training continuum, from Early Childhood Care and Education (ECCE) to Higher Education (HE), non-formal and continuing education. Not only does this reflect Swaziland’s commitment to inclusive, life-long learning, but it draws attention to issues of access, quality, equity, relevance, efficiency and delivery. EDSEC Policy proceeds from a principled position to ensure the sustained implementation of a transformative strategy to make Swaziland a key regional provider of skilled human resources and, as a consequence, internationally competitive.
 
 8
 
@@ -735,7 +819,7 @@ The  principles  that  guide  this  policy  are  in  accordance  with  internati
 
 - Relevance and Quality of Education and Training :  All education and training shall be of  appropriate  quality  and  relevant  to  the  socio-economic  and  cultural  needs  of Swaziland and its citizens.
 
-- Affordability  and  Participation :    No  Swazi  citizen  shall  be  excluded  from  ageappropriate formal and non-formal quality education and training because of its cost.
+- Affordability and Participation: No Swazi citizen shall be excluded from age-appropriate formal and non-formal quality education and training because of its cost.
 
 - Partnerships : The  Ministry  of  Education  and  Training  shall  be  responsible  and accountable for the implementation of this policy but shall at all times seek to develop effective  national,  regional  and  international  partnerships  to  enhance  and  ensure  the success of the implementation process.
 
@@ -783,7 +867,7 @@ ________________________
 
 ### 6.1.1 HIV And AIDS Policy Rationale
 
-Swaziland lies at the epicentre of the southern African HIV and AIDS pandemic, with a very high HIV-prevalence rate which currently stands at 26% (DHS - Demographic & Health Survey, 2006  -  2007,  Central  Statistics  Office;  Government  of  Swaziland).  This  implies  that  almost everyone  in  the  country  will  be  affected  to  some  extent.  According  to  these  sources  over  a quarter  of  all  15  to  49  year-olds  are  infected,  a  rate  which  directly  and  indirectly  impacts teaching,  learning  and  the  wider  education  community.  Given  this  impact  on  the  supply  of education and demand for it, HIV and AIDS represent a major problem for education and require a sustained and systemic response. HIV and AIDS are also reinforcing deep gender disparities in education: In high-prevalence Southern African countries, such as Swaziland, HIV infection rates for girls and young women aged 15 to 24 are more than 1.8 times the rate of men in the same age-group.
+Swaziland lies at the epicentre of the southern African HIV and AIDS pandemic, with a very high HIV-prevalence rate which currently stands at 26% (DHS – Demographic & Health Survey, 2006 – 2007, Central Statistics Office; Government of Swaziland). This implies that almost everyone in the country will be affected to some extent. According to these sources over a quarter of all 15 to 49 year-olds are infected, a rate which directly and indirectly impacts teaching, learning and the wider education community. Given this impact on the supply of education and demand for it, HIV and AIDS represent a major problem for education and require a sustained and systemic response. HIV and AIDS are also reinforcing deep gender disparities in education: In high-prevalence Southern African countries, such as Swaziland, HIV infection rates for girls and young women aged 15 to 24 are more than 1.8 times the rate of men in the same age-group.
 
 The Policy therefore requires that these issues be mainstreamed in the routine business of the MoET and every aspect of response, by sub-sector, be detailed both in this Policy and in the time-bound Education Sector Strategic Plan (ESSP). Responsibility for this response will apply to all learners, teachers, employees, managers and other providers of education and training in all public and private, formal and non-formal learning institutions, at all levels of the education system in the Kingdom of Swaziland.
 
@@ -815,7 +899,7 @@ To prevent the further spread of the epidemic, ensure equitable access to  treat
 
 - Ensure open access to clear, age-appropriate, evidence-based and comprehensible  information  on  HIV  and  AIDS  to  raise  awareness  and  inform prevention.
 
-- Develop  and  integrate  HIV  prevention  knowledge  and  skills  through  life  skillsbased education as a compulsory component of the curriculum.
+- Develop and integrate HIV prevention knowledge and skills through life skills-based education as a compulsory component of the curriculum.
 
 - Review and amend all human resource (HR) management policies and practices at all levels of the education system to address and accommodate relevant HIV and AIDS issues.
 
@@ -851,11 +935,11 @@ To prevent the further spread of the epidemic, ensure equitable access to  treat
 
 ### 6.2.1  SCCS Background
 
-SCCS is a rights-based concept that promotes child-friendly education systems and schools. It is an inclusive strategy, which aims to promote healthy, protective and secure learning environments, accommodating all learners, thus acting in the interests of the 'whole' child.
+SCCS is a rights-based concept that promotes child-friendly education systems and schools. It is an inclusive strategy, which aims to promote healthy, protective and secure learning environments, accommodating all learners, thus acting in the interests of the ‘whole’ child.
 
 ### 6.2.2  SCCS Policy Rationale
 
-In response to the impact of the HIV and AIDS pandemic, drought, violence and food insecurity and any other emerging disasters, which together act as barriers to quality teaching and learning and the promotion of healthy lifestyle to pupils, the MoET will implement SCCS which seeks to ensure  that  every  school  in  Swaziland  delivers  child-centred,  quality  teaching  and  learning  including  the  promotion  of  physical  education  activities;  and  provides  care,  support  and protection to every child, with the active involvement of parents, community and stakeholders, in order for quality teaching and learning to take place.
+In response to the impact of the HIV and AIDS pandemic, drought, violence and food insecurity and any other emerging disasters, which together act as barriers to quality teaching and learning and the promotion of healthy lifestyle to pupils, the MoET will implement SCCS which seeks to ensure that every school in Swaziland delivers child-centred, quality teaching and learning – including the promotion of physical education activities; and provides care, support and protection to every child, with the active involvement of parents, community and stakeholders, in order for quality teaching and learning to take place.
 
 ### 6.2.3  SCCS Policy Goal
 
@@ -939,7 +1023,7 @@ To implement an inclusive, integrated school-based model of care and  support in
 
 ### 6.3.1  Inclusive Education Policy Rationale
 
-Inclusive Education (IE) is a policy approach that includes, and meets the needs of all learners whatever  their  gender,  life  circumstance,  state  of    health,  disability,  stage  of  development, capacity to learn, level of achievement, financial or any other circumstance. It enables schools to serve and welcome all learners.  IE is rooted in the basic human right to education and shares many of the goals and approaches of the EFA movement.  As a cross-cutting approach, IE should inform  and  guide  the  sub-sector  policy  goals  and  strategies  which  follow,  and  provides  a principled guiding framework for the planning and coordination of EDSEC Policy at every level. IE  adds  dimension  to  sub-sector  policy  goals  and  strategies  and  should  be  seen  as  an  overarching checklist for strategic planning and implementation.
+Inclusive Education (IE) is a policy approach that includes, and meets the needs of all learners – whatever their gender, life circumstance, state of health, disability, stage of development, capacity to learn, level of achievement, financial or any other circumstance. It enables schools to serve and welcome all learners. IE is rooted in the basic human right to education and shares many of the goals and approaches of the EFA movement. As a cross-cutting approach, IE should inform and guide the sub-sector policy goals and strategies which follow, and provides a principled guiding framework for the planning and coordination of EDSEC Policy at every level. IE adds dimension to sub-sector policy goals and strategies and should be seen as an over-arching checklist for strategic planning and implementation.
 
 ### 6.3.2  Inclusive Education Policy Goal
 
@@ -981,7 +1065,7 @@ To  mainstream  relevant,  quality education  for every learner, irrespective of
 
 #### 6.3.4.2 In the Medium- to Long-Term, to:
 
-- Develop and facilitate capacity building programmes for teachers, including preservice (PRESET) and in-service (INSET).
+- Develop and facilitate capacity building programmes for teachers, including pre-service (PRESET) and in-service (INSET).
 
 - Ensure availability of an appropriate and relevant curriculum which accommodates the needs of every learner at every level.
 
@@ -1049,7 +1133,7 @@ To  provide  a  coherent,  balanced  and  concise  framework  and  to  develop  
 
 - Develop a curriculum framework for all school levels and orient stakeholders on new curricula.
 
-- Develop and introduce an articulated ECCE curriculum to ensure the harmonised provision of standardised, quality ECCE  services and  introduction to  ageappropriate life skills.
+- Develop and introduce an articulated ECCE curriculum to ensure the harmonised provision of standardised, quality ECCE services and introduction to age-appropriate life skills.
 
 - Develop and adopt a School Readiness Programme, including the development of early learning development standards.
 
@@ -1127,7 +1211,7 @@ To ensure the holistic development, survival and safe transition to adulthood fo
 
 - Create and build the skills and capacity of new teachers through compulsory and examinable PRESET.
 
-- Develop  and  provide  appropriate  resource,  (teaching  and  learning  materials) which are evidence-based, sex- and age-appropriate and address learners' special needs.
+- Develop and provide appropriate resource, (teaching and learning materials) which are evidence-based, sex- and age-appropriate and address learners’ special needs.
 
 - To conduct Guidance programme audit in primary schools curriculum.
 
@@ -1139,7 +1223,7 @@ To ensure the holistic development, survival and safe transition to adulthood fo
 
 - Strengthen  linkages with other sub-sectors  mandated  with  the  welfare of children.
 
-- Advocate  for  the  reduction  of  Guidance  Teachers'  subject  teaching  loads  to accommodate guidance teaching periods.
+- Advocate for the reduction of Guidance Teachers’ subject teaching loads to accommodate guidance teaching periods.
 
 - Ensure every  teacher  in  service  has  received  a  minimum  of  one  compulsory tutorial on guidance and counselling.
 
@@ -1157,7 +1241,7 @@ To ensure the holistic development, survival and safe transition to adulthood fo
 
 ### 6.6.1  OVC Policy Rationale
 
-The incidence of orphaning and vulnerability has long been a feature of the education system, but  has  grown  dramatically  in  scale  since  the  advent  of  the  HIV  and  AIDS  pandemic. Responsibility for the problem is multi-Sectoral and also involves many NGOs, CBOs and FBOs. Within the social sector, EDSEC is best placed to measure and monitor the incidence of OVC and indeed capture detailed personal data to support the social sector's response.  Apart from this vital  role,  EDSEC  must  ensure  that  it  plays  its  part  in  facilitating  the  inclusion,  protection  and retention of OVC in the schooling and learning process.
+The incidence of orphaning and vulnerability has long been a feature of the education system, but has grown dramatically in scale since the advent of the HIV and AIDS pandemic. Responsibility for the problem is multi-Sectoral and also involves many NGOs, CBOs and FBOs. Within the social sector, EDSEC is best placed to measure and monitor the incidence of OVC and indeed capture detailed personal data to support the social sector’s response. Apart from this vital role, EDSEC must ensure that it plays its part in facilitating the inclusion, protection and retention of OVC in the schooling and learning process.
 
 22
 
@@ -1197,7 +1281,7 @@ To identify and monitor the number of OVC and other educationally stigmatized or
 
 [[START OF PAGE 37]]
 
-#### 6.6.4.2 Medium-Term, to:
+#### 6.6.4.2 In the Medium-Term, to:
 
 - Track the transition of all orphaned, vulnerable and other educationally stigmatized  or  marginalized  learners  in  all  schools  and  educational  institutions, from each level of education and training to the next appropriate level.
 
@@ -1209,13 +1293,13 @@ To identify and monitor the number of OVC and other educationally stigmatized or
 
 ### 6.7.1 ESD Policy Rationale
 
-Sustainable development means seeking to meet the needs of the present generations without compromising those of future generations. It requires that nations and their peoples learn their way out of current social and environmental problems and learn to live sustainably. Sustainable development  is  a  vision  of  development  that  encompasses  populations,  animal  and  plant species,  ecosystems,  natural  resources  and  it  integrates  concerns  such  as  the  fight  against poverty,  gender  equality,  human  rights,  education  for  all,  health,  human  security,  intercultural dialogue, etc.   Education for sustainable development aims to help people to develop attitudes, skills and knowledge to make informed decisions for the benefit of themselves and others, now and  in  the  future,  and  to  act  upon  these  decisions.  In  2005,  the  UN  launched  the  Decade  of Education for Sustainable Development (DESD), and March 2006, African Ministers of Education made a commitment to implement DESD. This commitment acknowledges that ESD 'contributes to  sustainable  livelihoods  and  sustainable  lifestyles,  environmental  sustainability,  and  health promotion and gender equality'.  For sustainable development to be achieved in Swaziland, the education system needs to reflect a view of the world as a holistic socio-cultural, economic and ecological system, characterised by constant change. Thus ESD is an essential link in the poverty reduction, health, and environment protection chain.
+Sustainable development means seeking to meet the needs of the present generations without compromising those of future generations. It requires that nations and their peoples learn their way out of current social and environmental problems and learn to live sustainably. Sustainable development is a vision of development that encompasses populations, animal and plant species, ecosystems, natural resources and it integrates concerns such as the fight against poverty, gender equality, human rights, education for all, health, human security, intercultural dialogue, etc. Education for sustainable development aims to help people to develop attitudes, skills and knowledge to make informed decisions for the benefit of themselves and others, now and in the future, and to act upon these decisions. In 2005, the UN launched the Decade of Education for Sustainable Development (DESD), and March 2006, African Ministers of Education made a commitment to implement DESD. This commitment acknowledges that ESD “contributes to sustainable livelihoods and sustainable lifestyles, environmental sustainability, and health promotion and gender equality”. For sustainable development to be achieved in Swaziland, the education system needs to reflect a view of the world as a holistic socio-cultural, economic and ecological system, characterised by constant change. Thus ESD is an essential link in the poverty reduction, health, and environment protection chain.
 
 ### 6.7.2 ESD Policy Goal
 
 The primary goal of ESD is to develop norms, values, change-practices and lifestyles to ensure sustainable living.  Emphasis is placed on the development of so-called higher thinking skills and personal,  social,  and  environmental  competencies  which  should  be  mainstreamed  in  every function of the education and training system as well as the routine functions of the MoET.
 
-In the
+
 
 24
 
@@ -1265,13 +1349,13 @@ There  are  a  number  of  general  policy  issues  which  are  cross-cutting  b
 
 The  EDSEC  does  not  encourage  gender  discrimination.  This  means  that  it  strictly prohibits any distinction, exclusion or restriction which has the purpose of impairing or nullifying the recognition, enjoyment or exercise by any person of the educational rights and fundamental freedoms of a person or persons of any gender.  It encourages gender equality  which  is  the  equal  enjoyment  of  rights  and  access  to  opportunities  and outcomes  including  resources  by  women,  men,  girls  and  boys.  The  policy  therefore promotes gender mainstreaming in all its components of the EDSEC.
 
-Gender  mainstreaming  is  the  process  of  identifying  gender  gaps  (in  the  EDSEC)  and making  women's,  men's,  girls'  and  boys'  concerns  and  experiences  integral  to  the design,  implementation,  monitoring  and  evaluation of  policies and  programmes in  all spheres of the EDSEC so that they benefit equally.
+Gender mainstreaming is the process of identifying gender gaps (in the EDSEC) and making women’s, men’s, girls’ and boys’ concerns and experiences integral to the design, implementation, monitoring and evaluation of policies and programmes in all spheres of the EDSEC so that they benefit equally.
 
 ## 7.2   PROTECTION FROM VIOLANCE, ABUSE AND EXPLOITATION
 
 Everyone in EDSEC has a responsibility to protect each other, and particularly children, including those  with  special  educational  needs  and  the  challenged,  from  all  forms  of  sexual  abuse, including harassment, sexual molestation, sexual exploitation and rape. Any person within EDSEC who exploits their position or authority over children or other adults, as well as learners who sexually entice educators and managers, shall be subject to disciplinary procedures determined by sector policies and regulations. Any form of violence and/or abuse in schools, regardless of whether this is committed and/or perpetuated by learners, teachers, MoET officers or any other person, is considered a criminal offence and is subject to disciplinary measures under the Laws of Swaziland.
 
-In particular, teacher/learner relationships are considered a serious abuse of power over minors and,  in  addition  to  action  in  terms  of  criminal  law;  will  be  subject  to  disciplinary  measures according  to  the  TSC  Act.  This  Policy  position,  informed  by  relevant  clauses  in  international education and human rights conventions, shall be integrated into a revised edition of the School Guide - Regulation Procedures as soon as possible.
+In particular, teacher/learner relationships are considered a serious abuse of power over minors and, in addition to action in terms of criminal law; will be subject to disciplinary measures according to the TSC Act. This Policy position, informed by relevant clauses in international education and human rights conventions, shall be integrated into a revised edition of the School Guide – Regulation Procedures as soon as possible.
 
 26
 
@@ -1281,7 +1365,7 @@ In particular, teacher/learner relationships are considered a serious abuse of p
 
 ## 7.3 ADMISSION CRITERIA
 
-All  children  are  eligible  to  enroll  into  free  primary  education  and  to  the  secondary  education cycle.   In all public schools, no interviews or any kind of examination shall be required or applied to  determine  any  admission  criteria.    No  additional  fees  shall  be  paid  for  admission  to  free primary education. Minimum and maximum age criteria for admission shall be provided by the School  Guide  -  Regulation  Procedures,  which  shall  be  reviewed  and  updated  as  a  matter  of priority.
+All children are eligible to enroll into free primary education and to the secondary education cycle. In all public schools, no interviews or any kind of examination shall be required or applied to determine any admission criteria. No additional fees shall be paid for admission to free primary education. Minimum and maximum age criteria for admission shall be provided by the School Guide – Regulation Procedures, which shall be reviewed and updated as a matter of priority.
 
 Every child, irrespective of their life circumstances (teenage mothers, children in conflict with the law)  has  the  right  to  be  re-integrated  into  the  same  institution  that  the  child  was  previously attending.
 
@@ -1313,7 +1397,7 @@ Acknowledging that discipline has to be an important component of school life, t
 
 ## 7.6 SCHOOL UNIFORMS
 
-The MoET advocates that all primary and secondary schools in Swaziland have a basic uniform to be worn by all learners.   The intention is that school uniform will standardize what all learners wear in school and so minimize perceptions of disparity in socio-economic status.   Uniforms will also  help  identify  and  represent  a  given  school  and  so  assist  in  the  easy  recognition  of  the school's learners when there is need to do so by members of the public.  No child should be excluded  from  either  enrolment  or  attendance  to  school  for  not  having  alternative  school uniforms prescribed by the school other than the basic one for every day use.
+The MoET advocates that all primary and secondary schools in Swaziland have a basic uniform to be worn by all learners. The intention is that school uniform will standardize what all learners wear in school and so minimize perceptions of disparity in socio-economic status. Uniforms will also help identify and represent a given school and so assist in the easy recognition of the school’s learners when there is need to do so by members of the public. No child should be excluded from either enrolment or attendance to school for not having alternative school uniforms prescribed by the school other than the basic one for every day use.
 
 ## 7.7     STANDARDISED ASSESSMENT
 
@@ -1345,11 +1429,11 @@ _________________________
 
 ### 8.1.1 ECCE Policy Rationale
 
-Early Childhood Care and Education is the foundation of effective human resource development and helps ensure that every child is enabled to achieve his/her full potential.   Failure to invest in the  early  cognitive  development  of  children  requires  disproportionate  investment  in  remedial action in later years but cannot recover the position.   Early investment in the child's formative years  has  shown  to  give  the  best  returns  on  human  capital  development  and  should  be prioritized.  It  is  noted  that  a  supplementary  ECCE  policy  may  be  developed  to  address  the complexity of this sub-sector's needs, not least the historical imbalance and inequity in provision and failure to balance ECCE resourcing and structure in relation to the rest of the basic education system.   However, this policy should be internally consistent with the policy goal and objectives outlined below and provide guidance for the strategies required to attain these.   It may build on these goals and objectives, and add structural and implementation detail, but shall not deviate from the spirit and letter of this Policy directive.
+Early Childhood Care and Education is the foundation of effective human resource development and helps ensure that every child is enabled to achieve his/her full potential. Failure to invest in the early cognitive development of children requires disproportionate investment in remedial action in later years but cannot recover the position. Early investment in the child’s formative years has shown to give the best returns on human capital development and should be prioritized. It is noted that a supplementary ECCE policy may be developed to address the complexity of this sub-sector’s needs, not least the historical imbalance and inequity in provision and failure to balance ECCE resourcing and structure in relation to the rest of the basic education system. However, this policy should be internally consistent with the policy goal and objectives outlined below and provide guidance for the strategies required to attain these. It may build on these goals and objectives, and add structural and implementation detail, but shall not deviate from the spirit and letter of this Policy directive.
 
 ### 8.1.2 ECCE Policy Goal
 
-To prioritise the expansion of equitable access to early learning to accommodate all children in Swaziland  aged  3  to  6,  to  quality  ECCE  and  ensure  the  full  integration  of  the  nation's  most vulnerable children.
+To prioritise the expansion of equitable access to early learning to accommodate all children in Swaziland aged 3 to 6, to quality ECCE and ensure the full integration of the nation’s most vulnerable children.
 
 ### 8.1.3 ECCE Policy Objectives
 
@@ -1425,7 +1509,7 @@ To prioritise the expansion of equitable access to early learning to accommodate
 
 ### 8.2.1 Primary Education Policy Rationale
 
-The successful acquisition of primary education and life skills competencies is a prerequisite for secondary  and  higher  education  and  for  many  categories  of  vocational  training,  and  should build on the cognitive skills development of ECCE.   Its importance has been recognized in the global  drive  for  Education  for  All  (EFA)  by  the  year  2015.  Transition  rates  from  primary  to secondary  school  are  unacceptably  low,  particularly  in  rural  areas,  although  the  number  of primary  schools  graduates  is  growing  by  the  year.  The  acquisition  of  primary  education  is dependent on equitable access, the comprehensive equipping of schools and enhancement of quality through the improvement of teaching and school management - all issues which require the most urgent attention and resourcing. These aspects of access, equity and quality must be regularly monitored and reported to ensure policy compliance and inform future planning and resource provision.
+The successful acquisition of primary education and life skills competencies is a prerequisite for secondary and higher education and for many categories of vocational training, and should build on the cognitive skills development of ECCE. Its importance has been recognized in the global drive for Education for All (EFA) by the year 2015. Transition rates from primary to secondary school are unacceptably low, particularly in rural areas, although the number of primary schools graduates is growing by the year. The acquisition of primary education is dependent on equitable access, the comprehensive equipping of schools and enhancement of quality through the improvement of teaching and school management – all issues which require the most urgent attention and resourcing. These aspects of access, equity and quality must be regularly monitored and reported to ensure policy compliance and inform future planning and resource provision.
 
 ### 8.2.2 Primary Education Policy Goal
 
@@ -1463,7 +1547,7 @@ To provide free, inclusive and accessible compulsory primary education of sustai
 
 - Phase  in  free  and  compulsory  access  to  primary  education  a  grade/year  at  a  time until it is universally achieved by 2015.
 
-- Mobilise  communities  to  register  all  pupils  of  primary  school-going  age  in  public primary schools in order to achieve the MoET's target national education ratio (NER).
+- Mobilise communities to register all pupils of primary school-going age in public primary schools in order to achieve the MoET’s target national education ratio (NER).
 
 - Locate,  map  and  audit  primary  school  infrastructure  and  distribution  to  create  a register and undertake prioritised, phased planning for up-grading, renovation and building  of  these  facilities  to  ensure  compliance  with  agreed  minimum  standards including  appropriate  and  gender  sensitive  water  and  sanitation  facilities  in  all primary schools .
 
@@ -1523,7 +1607,7 @@ To provide free, inclusive and accessible compulsory primary education of sustai
 
 ### 8.3.1  Secondary Education Policy Rationale
 
-This second phase of basic education, comprising junior secondary education to the end of Form 3 and senior secondary education from Form 4 to completion, lays the foundation for entry into appropriate vocational and tertiary paths. Primary education alone is insufficient preparation for participation  in  a  knowledge-based  economy.  Thus,  secondary  education  must  build  on  the competencies achieved in primary education with an emphasis on generic skills. These generic or cognitive skills are more important at this level of education than comparatively cost-inefficient specialization and should enjoy high levels of focus and support. The key rationale for equitable access  to  quality  secondary  education  is  to  help  prepare  learners  to  choose  and  enter  an entrepreneurial, technical, vocational or tertiary stream into a productive socio-economic life in which they can meaningfully enhance the country's skills base.
+This second phase of basic education, comprising junior secondary education to the end of Form 3 and senior secondary education from Form 4 to completion, lays the foundation for entry into appropriate vocational and tertiary paths. Primary education alone is insufficient preparation for participation in a knowledge-based economy. Thus, secondary education must build on the competencies achieved in primary education with an emphasis on generic skills. These generic or cognitive skills are more important at this level of education than comparatively cost-inefficient specialization and should enjoy high levels of focus and support. The key rationale for equitable access to quality secondary education is to help prepare learners to choose and enter an entrepreneurial, technical, vocational or tertiary stream into a productive socio-economic life in which they can meaningfully enhance the country’s skills base.
 
 34
 
@@ -1539,11 +1623,11 @@ To provide equitable access for all learners of appropriate age to quality secon
 
 - To provide all learners of appropriate age, who have passed primary education, with equal access to secondary education.
 
-- To evaluate and map all secondary school infrastructure to facilitate prioritised upgrading, renovation and equitable geographic distribution of new buildings to cater for the FPE output of primary education including appropriate and gender sensitive water and sanitation facilities.
+- To evaluate and map all secondary school infrastructure to facilitate prioritised up-grading, renovation and equitable geographic distribution of new buildings to cater for the FPE output of primary education including appropriate and gender sensitive water and sanitation facilities.
 
 - To ensure that all school facilities including classrooms, sanitation facilities and play grounds are user-friendly to learners with special needs.
 
-- To develop a competency-based curriculum, including the mainstreaming of life skills ARH,  STIs  and  HIV  and  AIDS  and  other  disasters'  awareness  and  prevention,  and ensure implementation of a grade per year at a time.
+- To develop a competency-based curriculum, including the mainstreaming of life skills ARH, STIs and HIV and AIDS and other disasters’ awareness and prevention, and ensure implementation of a grade per year at a time.
 
 - Introduce and resource school libraries in all public secondary schools in Swaziland.
 
@@ -1609,7 +1693,7 @@ To provide equitable access for all learners of appropriate age to quality secon
 
 ### 8.4.1    TVETSD Policy Rationale
 
-If Swaziland is to become regionally and globally competitive, and a major regional exporter of skilled  human  resources,  there  is  an  urgent  need  to  re-position  and  market  technical  and vocational education and training.   Current uncertainty about demand for technical education and skills training is compounded by under-enrolment in secondary, prevocational courses and negative perceptions about vocational courses. The sub-sector itself is being restructured and graduate flows may be delayed to 2018.  This confirms the urgent need for a directive policy and resourcing sufficient to achieve the sub-sector mandate - the sustained flow of skilled graduates in  the  technical  and  vocational  fields.  The  TVETSD  policy  therefore  must  address  structure, regulation,  coordinated training and standards, a national qualifications framework (NQF) and project demand and supply, as well as the capacity of sector trainers to operationalise this vision.
+If Swaziland is to become regionally and globally competitive, and a major regional exporter of skilled human resources, there is an urgent need to re-position and market technical and vocational education and training. Current uncertainty about demand for technical education and skills training is compounded by under-enrolment in secondary, prevocational courses and negative perceptions about vocational courses. The sub-sector itself is being restructured and graduate flows may be delayed to 2018. This confirms the urgent need for a directive policy and resourcing sufficient to achieve the sub-sector mandate – the sustained flow of skilled graduates in the technical and vocational fields. The TVETSD policy therefore must address structure, regulation, coordinated training and standards, a national qualifications framework (NQF) and project demand and supply, as well as the capacity of sector trainers to operationalise this vision.
 
 36
 
@@ -1619,7 +1703,7 @@ If Swaziland is to become regionally and globally competitive, and a major regio
 
 ### 8.4.2 TVETSD Education Policy Goal
 
-To  initiate  and  sustain  a  TVETSD  system  and  sub-sector  responsive  to  market  needs  and demand,  which  will  contribute  to  the  realization  of  Swaziland's  socio-economic  development goals.
+To initiate and sustain a TVETSD system and sub-sector responsive to market needs and demand, which will contribute to the realization of Swaziland’s socio-economic development goals.
 
 ### 8.4.3 TVETSD Policy Objectives
 
@@ -1627,7 +1711,7 @@ To  initiate  and  sustain  a  TVETSD  system  and  sub-sector  responsive  to  
 
 - To  establish  effective  TVETSD  governance,  management  and  training  system  with clearly  allocated  roles  and  responsibilities,  accountable  to  the  National  Assembly through the Ministry responsible for Education and Training.
 
-- To  establish  mechanisms  for  the  portability  of  formal,  non-formal  and  informal qualifications,  with  provision for  flexible  exit  and  entry  to  both  academic  and  skillrelated pathways.
+- To establish mechanisms for the portability of formal, non-formal and informal qualifications, with provision for flexible exit and entry to both academic and skill-related pathways.
 
 - To establish equitable access to skills for formal sector or self-employment within the TVETSD system for all those wishing to participate.
 
@@ -1687,13 +1771,15 @@ To  initiate  and  sustain  a  TVETSD  system  and  sub-sector  responsive  to  
 
 ### 8.5.1 Tertiary & Higher Education (HE) Policy Rationale
 
-Global experience confirms that social and economic development can be powerfully stimulated by investment in knowledge, especially in science and technology.  Higher education is vital to the  provision  of  the  skills  identified  in  the  PRSAP  and  essential  to  the  growth  of  a  researchbased,  knowledge-driven  economy.  However,  for  a  variety  of  reasons,  Swaziland  lags  behind other  parts  of  the  world  in  terms  of  knowledge-based  development  and  urgently  requires  a reinvigorated response to this challenge. It requires the introduction of a comprehensive subsector policy,  guided  by  the Higher Education Bill, which  addresses the key strategic, infrastructural and quality issues, and provides a directive response framework.  As importantly, policy implementation must be adequately resourced, monitored and reported to track the subsector's  response  to  this  challenge  and  provide  the  impetus  to  position  Swaziland  as  a competitive, skills-based economy within the region in the medium-term.
+Global experience confirms that social and economic development can be powerfully stimulated by investment in knowledge, especially in science and technology. Higher education is vital to the provision of the skills identified in the PRSAP and essential to the growth of a research-based, knowledge-driven economy. However, for a variety of reasons, Swaziland lags behind other parts of the world in terms of knowledge-based development and urgently requires a reinvigorated response to this challenge. It requires the introduction of a comprehensive sub-sector policy, guided by the Higher Education Bill, which addresses the key strategic,
 
 38
 
 [[END OF PAGE 51]]
 
 [[START OF PAGE 52]]
+
+infrastructural and quality issues, and provides a directive response framework. As importantly, policy implementation must be adequately resourced, monitored and reported to track the sub-sector's response to this challenge and provide the impetus to position Swaziland as a competitive, skills-based economy within the region in the medium-term.
 
 ### Tertiary & HE Policy Goal
 
@@ -1793,7 +1879,7 @@ To increase the flow of student teachers into the profession and revise teacher 
 
 ### 8.6.3 Teacher Education & Training Policy Objectives
 
-- To  develop  and  implement  a  revised  CBET  teacher-training  curriculum  and  upgrade/professionalize student teaching practice.
+- To develop and implement a revised CBET teacher-training curriculum and up-grade/professionalize student teaching practice.
 
 - To mainstream life-skills,  ARH,  STIs  and  HIV  and  AIDS  and  other  disasters  into the PRESET  and  INSET  teacher-training  curriculum  as  a  compulsory  and  examinable subject area.
 
@@ -1857,7 +1943,7 @@ To increase the flow of student teachers into the profession and revise teacher 
 
 - Revise teacher education and instructor curricula to prepare teachers for CBET.
 
-- Provide head teachers, deputy head teacher, Heads of Department (HODs) with ongoing  support  and  managerial  skills  training  in  order  to  improve  the  quality  of teacher training and education.
+- Provide head teachers, deputy head teacher, Heads of Department (HODs) with on-going support and managerial skills training in order to improve the quality of teacher training and education.
 
 - Improve gender representation among staff and students.
 
@@ -1879,7 +1965,7 @@ Non-formal  and  continuing  education,  also  known  as  adult  education  and 
 
 ### 8.7.2 Non-Formal & Continuing Education Policy Goal
 
-To  develop  and  regulate  a  non-formal  and  continuing  education  system  to  facilitate  flexible access to relevant education opportunities for disadvantaged, over-aged or challenged learners, to  enhance  their  employment  prospects  and  capacity  to  play  a  meaningful  role  in  the  socioeconomic life of Swaziland.
+To develop and regulate a non-formal and continuing education system to facilitate flexible access to relevant education opportunities for disadvantaged, over-aged or challenged learners, to enhance their employment prospects and capacity to play a meaningful role in the socio-economic life of Swaziland.
 
 43
 
@@ -1891,7 +1977,7 @@ To  develop  and  regulate  a  non-formal  and  continuing  education  system  t
 
 - To place non-formal and continuing education development under the control of a well-staffed and resourced sub-sector Directorate.
 
-- To  extend  non-formal  and  continuing  education  programmes  to  selected  primary schools  and  provide  non-formal  primary  education  (NPE)  programmes  to  all  overaged and adult learners.
+- To extend non-formal and continuing education programmes to selected primary schools and provide non-formal primary education (NPE) programmes to all over-aged and adult learners.
 
 - To  align  the  NPE  curriculum  to  the  formal  primary  curriculum  to  facilitate  primary school re-entry at grade/age appropriate levels.
 
@@ -1963,7 +2049,7 @@ ________________________________
 
 ## 9.1 INSET POLICY RATIONALE
 
-In order to maintain high levels of service quality, teachers, and the mainstay of any education system, teachers need to be provided with knowledge and skills related to the teaching learning process on a continuous basis.  A highly productive teaching force that operates at state-of-theart  level  is  therefore  the  result  of  an  effective  in-service  teacher  training  system.    Pre-service training  needs  to  be  supported  by  an  equally  efficient  and  professional  in-service  teacher education  and  training  (INSET)  system,  since  teachers'  professional    knowledge,  like  all  other professional knowledge,  weakens over time and requires contact re-modeling, upgrading and re-shaping. As a result, the development and in-servicing of the human resources base of any education system should be of vital concern and should be awarded high priority.
+In order to maintain high levels of service quality, teachers, and the mainstay of any education system, teachers need to be provided with knowledge and skills related to the teaching learning process on a continuous basis. A highly productive teaching force that operates at state-of-the-art level is therefore the result of an effective in-service teacher training system. Pre-service training needs to be supported by an equally efficient and professional in-service teacher education and training (INSET) system, since teachers' professional knowledge, like all other professional knowledge, weakens over time and requires contact re-modeling, upgrading and re-shaping. As a result, the development and in-servicing of the human resources base of any education system should be of vital concern and should be awarded high priority.
 
 ## 9.2 INSET POLICY GOAL
 
@@ -2007,7 +2093,7 @@ To promote and support systematic and sustainable high quality teaching and lear
 
 - Provide adequate resources for the INSET services to perform its duties without shortages.
 
-- Provide  head  teachers,  deputy  head  teachers  and  heads  of  department  with  ongoing support and training in managerial   skills in order to improve the quality of education in the schools.
+- Provide head teachers, deputy head teachers and heads of department with on-going support and training in managerial skills in order to improve the quality of education in the schools.
 
 - Ensure the sustainability of all curriculum innovations in the school system.
 
@@ -2189,7 +2275,7 @@ ____________________________
 
 ## 12.1     PLANNING AND BUDGET IMPLEMENTATION RATIONALE
 
-Strategic  Planning,  policy  and  budget  implementation  is  very  critical  in  seeing  to  it  that  the mission, vision, goals and objectives of the EDSEC are attained, be it in the short-term, mediumterm and long run. As soon as the EDSEC Policy is approved, the Planning Unit becomes the main  driver  of  its  implementation,  through  the  formulation  of  a  strategic  roadmap  and implementation plan.
+Strategic Planning, policy and budget implementation is very critical in seeing to it that the mission, vision, goals and objectives of the EDSEC are attained, be it in the short-term, medium-term and long run. As soon as the EDSEC Policy is approved, the Planning Unit becomes the main driver of its implementation, through the formulation of a strategic roadmap and implementation plan.
 
 The  completion  and  approval  of  a  strategic  roadmap  for  the  sector,  i.e.,  the  Education  and Training Sector Strategic Plan (ESSP) also presents a conducive environment for the creation of short  to  medium  term  implementation  plans,  which  outline  implementable  activities  and programmes to be executed through the Medium Term Expenditure Framework (MTEF).
 
@@ -2351,9 +2437,9 @@ ___________________________
 
 ## 14.1   RESOURCE ALLOCATION & BUDGETING RATIONALE
 
-While  Swaziland's  level  of  investment  in  EDSEC  is  higher  than  UNESCO's  target  guideline  for developing countries (6 percent), there is the prospect of serious budgetary constraint in coming years, linked to declining sector share and likely stagnant economic growth. It therefore seems probable that total public spending on education will decrease in real terms. This underlines the importance of focussing on policy choices that promote efficiency gains and on budget tradeoffs  between  education  and  other  sectors.  In  terms  of  private  investment  in  education,  Swazi households contribute far more to the education of their children than parents in other SACU countries, with higher average household income.
+While Swaziland's level of investment in EDSEC is higher than UNESCO's target guideline for developing countries (6 percent), there is the prospect of serious budgetary constraint in coming years, linked to declining sector share and likely stagnant economic growth. It therefore seems probable that total public spending on education will decrease in real terms. This underlines the importance of focussing on policy choices that promote efficiency gains and on budget trade-offs between education and other sectors. In terms of private investment in education, Swazi households contribute far more to the education of their children than parents in other SACU countries, with higher average household income.
 
-Education  funding  has  been  further  distorted  by  a  disproportionate  focus  on  post-secondary education and training, to the gross disadvantage of ECCE and primary education. This scenario limits  prospects  for  the  broadening  of  access  to  quality  ECCE  and  primary  education  particularly in circumstances where Swaziland is committed to free universal access to primary education.  Reliance  on  private  education  fees  and  alternative  external  sources  must  be considered unsustainable in real terms and points to the need for a comprehensive re-evaluation of  budgeting  and  expenditure.  This  in  turn  implies  the  need  for  a  reassessment  of  the importance  of  education,  as  well  as  the  cost  implications  of  EDSEC  Policy  reform  and implementation.  A  detailed  Education  Sector  Strategic  Plan  (ESSP)  is  already  in  draft  and available for costing and analysis.
+Education funding has been further distorted by a disproportionate focus on post-secondary education and training, to the gross disadvantage of ECCE and primary education. This scenario limits prospects for the broadening of access to quality ECCE and primary education – particularly in circumstances where Swaziland is committed to free universal access to primary education. Reliance on private education fees and alternative external sources must be considered unsustainable in real terms and points to the need for a comprehensive re-evaluation of budgeting and expenditure. This in turn implies the need for a reassessment of the importance of education, as well as the cost implications of EDSEC Policy reform and implementation. A detailed Education Sector Strategic Plan (ESSP) is already in draft and available for costing and analysis.
 
 ## 14.2   RESOURCE ALLOCATION & BUDGETING POLICY GOAL
 
@@ -2487,7 +2573,7 @@ Swaziland  subscribes  to,  or  is  a  signatory  to,  the  following  internati
 
 - International Covenant on Economic Social and Cultural Rights, 1966
 
-- Hague  Convention  on  Protection  of  Children  and  Cooperation  in  respect  of  InterCountry Adoption, 1980
+- Hague  Convention  on  Protection  of  Children  and  Cooperation  in  respect  of  Inter-Country Adoption, 1980
 
 Swaziland subscribes to, or is a signatory to, the following regional instruments which underpin or inform the National EDSEC Policy:
 
@@ -2515,6 +2601,10 @@ MINISTER
 
 Ministry of Education and Training
 
+HIGHER EDUCATION COUNCIL OF
+
+SWAZILAND (HECS)
+
 TEACHING SERVICE COMMISSION (TSC)
 
 PRINCIPAL SECRETARY (PS)
@@ -2523,9 +2613,9 @@ HIGHER EDUCATION & SKILLS
 
 DEVELOPMENT (HESD)
 
-HIGHER EDUCATION COUNCIL OF
+NATIONAL QUALIFICATIONS
 
-SWAZILAND (HECS)
+AUTHORITY OF SWAZILAND (NQAS)
 
 UNDER SECRETARY
 
@@ -2537,9 +2627,15 @@ UNDER SECRETARY
 
 DIRECTOR OF EDUCATION (DOE)
 
-NATIONAL QUALIFICATIONS
+SWAZILAND TRAINING AUTHORITY
 
-AUTHORITY OF SWAZILAND (NQAS)
+(SWATA)
+
+Legal Advisor
+
+RESEARCH & PLANNING
+
+Planning Unit & EMIS
 
 GUIDANCE AND
 
@@ -2553,23 +2649,45 @@ COMMISSION, SEBENTA
 
 INSTITUTE
 
-RESEARCH & PLANNING
+Accounts
 
-Planning Unit & EMIS
+Section, FC
 
-INSTITUTIONS:
+Personnel
 
-Universities,
+Dept., PPO
 
-Teacher Training Colleges, Formal
+REGIONAL EDUCATION
 
-and non-formal Technical &
+OFFICERS (REOS):
 
-Vocational Education Centres,
+Hhohho, Manzini,
 
-National Curriculum Centre,
+Lubombo & Shiselweni
 
-Distance Education Centres
+PRIMARY
+
+EDUCATION
+
+SECONDARY
+
+EDUCATION
+
+TERTIARY EDUCATION /
+
+CURRICULUM DEVELOPMENT
+
+Accountants,
+
+Storekeepers
+
+Personnel
+
+Officers
+
+Regional Primary and Pre-
+
+school Inspectors
 
 SENIOR INSPECTORS:
 
@@ -2589,57 +2707,19 @@ Nutrition, Special Education,
 
 Adult and Non-formal
 
-SECONDARY
+INSTITUTIONS:
 
-EDUCATION
+Universities,
 
-TERTIARY EDUCATION /
+Teacher Training Colleges, Formal
 
-CURRICULUM DEVELOPMENT
+and non-formal Technical &
 
-PRIMARY
+Vocational Education Centres,
 
-EDUCATION
+National Curriculum Centre,
 
-Rural Education Centres (RECs)
-
-REGIONAL EDUCATION
-
-OFFICERS (REOS):
-
-Hhohho, Manzini,
-
-Lubombo & Shiselweni
-
-Head teachers and Teaching
-
-Staff
-
-Regional Primary and Pre-
-
-school Inspectors
-
-School Principals, Teaching &
-
-Support Staff
-
-Legal Advisor
-
-Accounts
-
-Section, FC
-
-Personnel
-
-Dept., PPO
-
-Accountants,
-
-Storekeepers
-
-Personnel
-
-Officers
+Distance Education Centres
 
 GENERAL ADMINISTRATION
 
@@ -2651,9 +2731,15 @@ Messengers, Security
 
 Personnel
 
-SWAZILAND TRAINING AUTHORITY
+Head teachers and Teaching
 
-(SWATA)
+Staff
+
+School Principals, Teaching &
+
+Support Staff
+
+Rural Education Centres (RECs)
 
 lxv
 
