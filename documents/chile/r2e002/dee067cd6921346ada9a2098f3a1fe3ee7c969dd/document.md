@@ -6,17 +6,17 @@ Fecha Publicación        :10-02-2010
 
 Fecha Promulgación       :03-02-2010
 
-Inicio Vigencia          :27-05-2011
-
-Id Norma                 :1010903
-
-Ultima Modificación      :27-MAY-2011 Decreto 1666
-
 Organismo                :MINISTERIO DE PLANIFICACIÓN
 
 Título                   :ESTABLECE NORMAS SOBRE IGUALDAD DE OPORTUNIDADES E INCLUSIÓN SOCIAL DE PERSONAS CON DISCAPACIDAD
 
 Tipo Version             :Ultima Version     De : 27-05-2011
+
+Inicio Vigencia          :27-05-2011
+
+Id Norma                 :1010903
+
+Ultima Modificación      :27-MAY-2011 Decreto 1666
 
 URL                      :http://www.leychile.cl/N?i=1010903&f=2011-05-27&p=
 
@@ -43,9 +43,9 @@ En la aplicación de esta ley deberá darse cumplimiento a los principios de vid
 
 Para todos los efectos se entenderá por:
 
-- Vida Independiente: El estado que permite a una persona tomar decisiones, ejercer actos de manera autónoma y participar activamente en la comunidad, en ejercicio del derecho al libre desarrollo de la personalidad.
+a) Vida Independiente: El estado que permite a una persona tomar decisiones, ejercer actos de manera autónoma y participar activamente en la comunidad, en ejercicio del derecho al libre desarrollo de la personalidad.
 
-- Accesibilidad Universal: La condición que deben cumplir los entornos, procesos, bienes, productos y servicios, así como los objetos o instrumentos, herramientas y dispositivos, para ser comprensibles, utilizables y practicables por todas las personas, en
+b) Accesibilidad Universal: La condición que deben cumplir los entornos, procesos, bienes, productos y servicios, así como los objetos o instrumentos, herramientas y dispositivos, para ser comprensibles, utilizables y practicables por todas las personas, en
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
@@ -55,11 +55,11 @@ www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 condiciones de seguridad y comodidad, de la forma más autónoma y natural posible.
 
-- Diseño Universal: La actividad por la que se conciben o proyectan, desde el origen, entornos, procesos, bienes, productos, servicios, objetos, instrumentos, dispositivos o herramientas, de forma que puedan ser utilizados por todas las personas o en su mayor extensión posible.
+c) Diseño Universal: La actividad por la que se conciben o proyectan, desde el origen, entornos, procesos, bienes, productos, servicios, objetos, instrumentos, dispositivos o herramientas, de forma que puedan ser utilizados por todas las personas o en su mayor extensión posible.
 
-- Intersectorialidad: El principio en virtud del cual las políticas, en cualquier ámbito de la gestión pública, deben considerar como elementos transversales los derechos de las personas con discapacidad.
+d) Intersectorialidad: El principio en virtud del cual las políticas, en cualquier ámbito de la gestión pública, deben considerar como elementos transversales los derechos de las personas con discapacidad.
 
-- Participación y Diálogo Social: Proceso en virtud del cual las personas con discapacidad, las organizaciones que las representan y las que agrupan a sus familias, ejercen un rol activo en la elaboración, ejecución, seguimiento y evaluación de las políticas públicas que les conciernen.
+e) Participación y Diálogo Social: Proceso en virtud del cual las personas con discapacidad, las organizaciones que las representan y las que agrupan a sus familias, ejercen un rol activo en la elaboración, ejecución, seguimiento y evaluación de las políticas públicas que les conciernen.
 
 #### Artículo 4°.-
 Es deber del Estado promover la igualdad de oportunidades de las personas con discapacidad.
@@ -84,17 +84,17 @@ www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[START OF PAGE 3]]
 
-- Discriminación: Toda distinción, exclusión, segregación o restricción arbitraria fundada en la discapacidad, y cuyo fin o efecto sea la privación, perturbación o amenaza en el goce o ejercicio de los derechos establecidos en el ordenamiento jurídico.
+a) Discriminación: Toda distinción, exclusión, segregación o restricción arbitraria fundada en la discapacidad, y cuyo fin o efecto sea la privación, perturbación o amenaza en el goce o ejercicio de los derechos establecidos en el ordenamiento jurídico.
 
-- Ayudas técnicas: Los elementos o implementos requeridos por una persona con discapacidad para prevenir la progresión de la misma, mejorar o recuperar su funcionalidad, o desarrollar una vida independiente.
+b) Ayudas técnicas: Los elementos o implementos requeridos por una persona con discapacidad para prevenir la progresión de la misma, mejorar o recuperar su funcionalidad, o desarrollar una vida independiente.
 
-- Servicio de apoyo: Toda prestación de acciones de asistencia, intermediación o cuidado, requerida por una persona con discapacidad para realizar las actividades de la vida diaria o participar en el entorno social, económico, laboral, educacional, cultural o político, superar barreras de movilidad o comunicación, todo ello, en condiciones de mayor autonomía funcional.
+c) Servicio de apoyo: Toda prestación de acciones de asistencia, intermediación o cuidado, requerida por una persona con discapacidad para realizar las actividades de la vida diaria o participar en el entorno social, económico, laboral, educacional, cultural o político, superar barreras de movilidad o comunicación, todo ello, en condiciones de mayor autonomía funcional.
 
-- Cuidador: Toda persona que proporciona asistencia permanente, gratuita o remunerada, para la realización de actividades de la vida diaria, en el entorno del hogar, a personas con discapacidad, estén o no unidas por vínculos de parentesco.
+d) Cuidador: Toda persona que proporciona asistencia permanente, gratuita o remunerada, para la realización de actividades de la vida diaria, en el entorno del hogar, a personas con discapacidad, estén o no unidas por vínculos de parentesco.
 
-- Dependencia: El estado de carácter permanente en que se encuentran las personas que, por razones derivadas de una o más deficiencias de causa física, mental o sensorial, ligadas a la falta o pérdida de autonomía, requieren de la atención de otra u otras personas o ayudas importantes para realizar las actividades esenciales de la vida.
+e) Dependencia: El estado de carácter permanente en que se encuentran las personas que, por razones derivadas de una o más deficiencias de causa física, mental o sensorial, ligadas a la falta o pérdida de autonomía, requieren de la atención de otra u otras personas o ayudas importantes para realizar las actividades esenciales de la vida.
 
-- Entorno: El medio ambiente, social, natural y artificial, en el que las personas desarrollan su participación social, económica, política y cultural, a lo largo de todo su ciclo vital.
+f) Entorno: El medio ambiente, social, natural y artificial, en el que las personas desarrollan su participación social, económica, política y cultural, a lo largo de todo su ciclo vital.
 
 ## TÍTULO I
 
@@ -110,13 +110,15 @@ Se entiende por igualdad de oportunidades para las personas con discapacidad, la
 #### Artículo 8º.-
 Con el fin de garantizar el derecho a la igualdad de oportunidades de las personas con discapacidad, el Estado establecerá medidas contra la discriminación, las que consistirán en exigencias de accesibilidad, realización de ajustes necesarios y prevención de conductas de acoso.
 
-Se entiende por exigencias de accesibilidad, los requisitos que deben cumplir los bienes, entornos, productos, servicios y procedimientos, así como las condiciones de no discriminación en normas, criterios y prácticas, con arreglo al principio de accesibilidad universal.
+Se entiende por exigencias de accesibilidad, los requisitos que deben cumplir los bienes, entornos,
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+productos, servicios y procedimientos, así como las condiciones de no discriminación en normas, criterios y prácticas, con arreglo al principio de accesibilidad universal.
 
 Los ajustes necesarios son las medidas de adecuación del ambiente físico, social y de actitud a las carencias específicas de las personas con discapacidad que, de forma eficaz y práctica y sin que suponga una carga desproporcionada, faciliten la accesibilidad o participación de una persona con discapacidad en igualdad de condiciones que el resto de los ciudadanos.
 
@@ -140,13 +142,15 @@ En toda actividad relacionada con niños con discapacidad, se considerará en fo
 La rehabilitación de las personas con discapacidad mental, sea por causa psíquica o intelectual, propenderá a que éstas desarrollen al máximo sus capacidades y aptitudes. En ningún caso, la persona con discapacidad mental podrá ser sometida, contra su voluntad, a prácticas o terapias que atenten contra su dignidad, derechos o formen parte de experimentos médicos o científicos.
 
 #### Artículo 12.-
-El Estado promoverá la autonomía personal y la atención a las personas en situación de dependencia a través de prestaciones o servicios de apoyo, los que se entregarán considerando el grado de dependencia y el nivel socioeconómico del postulante.
+El Estado promoverá la autonomía personal y la atención a las personas en situación de dependencia a través de prestaciones o servicios de apoyo, los que se entregarán considerando el grado de dependencia
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+y el nivel socioeconómico del postulante.
 
 La atención de las personas con discapacidad en situación de dependencia, deberá facilitar una existencia autónoma en su medio habitual y proporcionar un trato digno en todos los ámbitos de su vida personal, familiar y social.
 
@@ -172,13 +176,15 @@ La calificación de la discapacidad deberá hacerse de manera uniforme en todo e
 
 Sin perjuicio de lo anterior, la incorporación de dichos criterios no podrá afectar el ejercicio de los derechos de que gocen las personas con discapacidad a la entrada en vigencia de esta ley.
 
-La calificación de la discapacidad deberá efectuarse dentro del plazo máximo de veinte días hábiles contado desde la solicitud del trámite, la que deberá contener los requisitos establecidos en el reglamento. La certificación de la discapacidad deberá expedirse dentro de los cinco días siguientes contados desde la fecha de la calificación.
+La calificación de la discapacidad deberá efectuarse dentro del plazo máximo de veinte días hábiles contado desde la solicitud del trámite, la que deberá contener los requisitos establecidos en el reglamento. La certificación
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+de la discapacidad deberá expedirse dentro de los cinco días siguientes contados desde la fecha de la calificación.
 
 Toda persona tiene derecho a la recalificación de su discapacidad por la Comisión de Medicina Preventiva e Invalidez, previa solicitud fundada del interesado. No podrá solicitarse la recalificación más de una vez en cada año calendario, a menos que esta solicitud se fundare en hechos o antecedentes nuevos, no vinculados a las circunstancias que dieron lugar a la calificación.
 
@@ -206,14 +212,15 @@ El Estado dará cumplimiento a la obligación establecida en el inciso anterior 
 
 ### Párrafo 1°
 ### Prevención
-#### Artículo 19.-
-Prevención de la discapacidad es toda acción o medida, pública o privada, que tenga por finalidad impedir o evitar que una persona experimente una deficiencia que restrinja su participación o limite su capacidad de ejercer una o más actividades esenciales de la vida diaria, así como impedir que ésta llegue a ser permanente.
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+
+#### Artículo 19.-
+Prevención de la discapacidad es toda acción o medida, pública o privada, que tenga por finalidad impedir o evitar que una persona experimente una deficiencia que restrinja su participación o limite su capacidad de ejercer una o más actividades esenciales de la vida diaria, así como impedir que ésta llegue a ser permanente.
 
 La prevención siempre considerará el entorno económico, social, político o cultural que puede agravar o atenuar la deficiencia de que se trate.
 
@@ -231,13 +238,13 @@ La rehabilitación integral es el conjunto de acciones y medidas que tienen por 
 
 Las acciones o medidas de rehabilitación, tendrán como objetivos principales:
 
-- Proporcionar o restablecer funciones.
+1. Proporcionar o restablecer funciones.
 
-- Compensar la pérdida o la falta de una función o una limitación funcional.
+2. Compensar la pérdida o la falta de una función o una limitación funcional.
 
-- El desarrollo de conductas, actitudes y destrezas que permitan la inclusión laboral y educacional.
+3. El desarrollo de conductas, actitudes y destrezas que permitan la inclusión laboral y educacional.
 
-- La interacción con el entorno económico, social, político o cultural que puede agravar o atenuar la deficiencia de que se trate.
+4. La interacción con el entorno económico, social, político o cultural que puede agravar o atenuar la deficiencia de que se trate.
 
 Las personas con discapacidad tienen derecho, a lo largo de todo su ciclo vital y mientras sea necesario, a la rehabilitación y a acceder a los apoyos, terapias y profesionales que la hagan posible, en conformidad con lo establecido en el inciso cuarto del artículo 4° de la presente ley.
 
@@ -278,13 +285,15 @@ Toda campaña de servicio público financiada con fondos públicos, la propagand
 #### Artículo 26.-
 Se reconoce la lengua de señas como medio de comunicación natural de la comunidad sorda.
 #### Artículo 27.-
-Las bibliotecas de acceso público deberán contar con material, infraestructura y tecnologías accesibles destinadas a personas con discapacidad de causa sensorial, considerando facilidades, ajustes necesarios y prestación de servicios de apoyo para la atención de estos usuarios.
+Las bibliotecas de acceso público
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+
+deberán contar con material, infraestructura y tecnologías accesibles destinadas a personas con discapacidad de causa sensorial, considerando facilidades, ajustes necesarios y prestación de servicios de apoyo para la atención de estos usuarios.
 
 #### Artículo 28.-
 Todo edificio de uso público y todo aquel que, sin importar su carga de ocupación, preste un servicio a la comunidad, así como toda nueva edificación colectiva, deberán ser accesibles y utilizables en forma autovalente y sin dificultad por personas con discapacidad, especialmente por aquellas con movilidad reducida. Asimismo, estarán sometidas a esta exigencia las obras que el Estado o los particulares ejecuten en el espacio público al interior de los límites urbanos, y los accesos a los medios de transporte público de pasajeros y a los bienes nacionales de uso público. Si las edificaciones y obras señaladas en este inciso contaren con ascensores, estos deberán tener capacidad suficiente para transportar a las personas con discapacidad de conformidad a la normativa vigente.
@@ -300,13 +309,15 @@ La denuncia por incumplimiento podrá ser realizada por cualquier persona, ante 
 #### Artículo 29.-
 El Ministerio de Vivienda y Urbanismo, dentro de sus programas habitacionales, contemplará subsidios especiales para adquirir y habilitar viviendas destinadas a ser permanentemente habitadas por personas con discapacidad.
 
-La Ordenanza General de Urbanismo y Construcciones contendrá las exigencias de accesibilidad que deban cumplir las viviendas destinadas a personas con discapacidad. Estas deberán contemplar adaptaciones tales como rampas de acceso, puertas más amplias, ascensores de escalas, señalizaciones especiales, salidas de emergencia y todo otro requisito necesario para la seguridad, correcto desplazamiento y calidad de vida de la persona con discapacidad.
+La Ordenanza General de Urbanismo y Construcciones contendrá las exigencias de accesibilidad que deban cumplir las viviendas destinadas a personas con discapacidad. Estas deberán contemplar adaptaciones tales como rampas de acceso, puertas más amplias, ascensores de escalas,
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
+señalizaciones especiales, salidas de emergencia y todo otro requisito necesario para la seguridad, correcto desplazamiento y calidad de vida de la persona con discapacidad.
 
 #### Artículo 30.-
 Para asegurar a las personas con discapacidad la accesibilidad a todos los medios de transporte público de pasajeros, los organismos competentes del Estado deberán adoptar las medidas conducentes a su adaptación e incentivar o ejecutar, según corresponda, las habilitaciones y adecuaciones que se requieran en dichos medios de transporte y en la infraestructura de apoyo correspondiente.
@@ -326,13 +337,15 @@ El diseño de estos estacionamientos deberá considerar las necesidades de despl
 
 Los establecimientos que cuenten con estacionamientos para personas con discapacidad al interior de sus dependencias, como centros o complejos comerciales y supermercados, y posean servicios de vigilancia privada, deberán velar por su correcto uso, denunciando ante las autoridades competentes, a los vehículos infractores.
 
-Sólo podrán hacer uso de estos estacionamientos los vehículos conducidos por personas con discapacidad o que los transporten, circunstancia que será acreditada con la correspondiente credencial de conformidad con lo establecido en la Ley de Tránsito.
+Sólo podrán hacer uso de estos estacionamientos los vehículos conducidos por personas con discapacidad o que
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+
+los transporten, circunstancia que será acreditada con la correspondiente credencial de conformidad con lo establecido en la Ley de Tránsito.
 
 #### Artículo 32.-
 Los reglamentos que fijen las normas de carácter sanitario sobre producción, registro, almacenamiento, tenencia, distribución, venta e importación, según corresponda, así como las características de los productos farmacéuticos, alimentos de uso médico y cosméticos, deberán contener disposiciones que aseguren la debida protección de los discapacitados visuales en el uso de dichos productos con medidas tales como la rotulación con sistema braille del nombre de dichos productos y su fecha de vencimiento.
@@ -383,13 +396,15 @@ Las instituciones de educación superior deberán contar con mecanismos que faci
 #### Artículo 40.-
 A los alumnos y alumnas del sistema educacional de enseñanza pre básica, básica o media que padezcan de patologías o condiciones médico-funcionales que requieran permanecer internados en centros especializados o en el lugar que el médico tratante determine, o que estén en tratamiento médico ambulatorio, el Ministerio de Educación asegurará la correspondiente atención escolar en el lugar que, por prescripción médica, deban permanecer, la que será reconocida para efectos de continuación de estudios y certificación de acuerdo con las normas que establezca ese Ministerio.
 #### Artículo 41.-
-El Ministerio de Educación establecerá mecanismos especiales y promoverá el desarrollo de ofertas formativas acorde a las necesidades específicas de los alumnos a fin de facilitar el ingreso a la educación o a la formación laboral de las personas que, a consecuencia de su discapacidad, no hayan iniciado o concluido su escolaridad obligatoria.
+El Ministerio de Educación establecerá mecanismos especiales y promoverá el desarrollo de ofertas
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+formativas acorde a las necesidades específicas de los alumnos a fin de facilitar el ingreso a la educación o a la formación laboral de las personas que, a consecuencia de su discapacidad, no hayan iniciado o concluido su escolaridad obligatoria.
 
 #### Artículo 42.-
 Los establecimientos educacionales deberán, progresivamente, adoptar medidas para promover el respeto por las diferencias lingüísticas de las personas con discapacidad sensorial, sean sordas, ciegas o sordo-ciegas en la educación básica, media y superior, con el fin de que éstos puedan tener acceso, permanencia y progreso en el sistema educativo.
@@ -401,25 +416,27 @@ Los establecimientos educacionales deberán, progresivamente, adoptar medidas pa
 #### Artículo 43.-
 El Estado, a través de los organismos competentes, promoverá y aplicará medidas de acción positiva para fomentar la inclusión y no discriminación laboral de las personas con discapacidad, especialmente deberá:
 
-- Fomentar y difundir prácticas laborales de inclusión y no discriminación.
+a) Fomentar y difundir prácticas laborales de inclusión y no discriminación.
 
-- Promover la creación y diseño de procedimientos, tecnologías, productos y servicios laborales accesibles y difundir su aplicación.
+b) Promover la creación y diseño de procedimientos, tecnologías, productos y servicios laborales accesibles y difundir su aplicación.
 
-- Crear y ejecutar, por sí o por intermedio de personas naturales o jurídicas con o sin fines de lucro, programas de acceso al empleo para personas con discapacidad.
+c) Crear y ejecutar, por sí o por intermedio de personas naturales o jurídicas con o sin fines de lucro, programas de acceso al empleo para personas con discapacidad.
 
-- Difundir los instrumentos jurídicos y recomendaciones sobre el empleo de las personas con discapacidad aprobados por la Organización Internacional del Trabajo.
+d) Difundir los instrumentos jurídicos y recomendaciones sobre el empleo de las personas con discapacidad aprobados por la Organización Internacional del Trabajo.
 
 #### Artículo 44.-
 El Estado creará condiciones y velará por la inserción laboral y el acceso a beneficios de seguridad social por parte de las personas con discapacidad. Para tal efecto, podrá desarrollar en forma directa o por intermedio de terceros, planes, programas e incentivos y crear instrumentos que favorezcan la contratación de personas con discapacidad en empleos permanentes. El Ministerio del Trabajo y Previsión Social informará semestralmente a la Comisión de Trabajo y Seguridad Social de la Cámara de Diputados y a la Comisión de Trabajo y Previsión Social del Senado sobre el funcionamiento de los programas existentes y los resultados alcanzados. Con igual frecuencia deberá publicar dicha información en su sitio web, la que también deberá estar disponible en el sitio web del Servicio Nacional de la Discapacidad.
 
 #### Artículo 45.-
-En los procesos de selección de personal, la Administración del Estado y sus organismos, las municipalidades, el Congreso Nacional, los órganos de la administración de justicia y el Ministerio Público seleccionarán preferentemente, en igualdad de condiciones de mérito, a personas con discapacidad.
+En los procesos de selección de personal, la Administración del Estado y sus organismos, las municipalidades, el Congreso Nacional, los órganos de la administración de justicia y el Ministerio Público seleccionarán preferentemente, en igualdad de condiciones
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+
+de mérito, a personas con discapacidad.
 
 Un reglamento suscrito por los Ministros de Planificación y de Hacienda determinará la forma en que los organismos de la Administración del Estado darán cumplimiento a esta disposición.
 
@@ -438,23 +455,29 @@ Las personas con discapacidad podrán celebrar el contrato de aprendizaje contem
 #### Artículo 48.-
 Los vehículos importados por personas con discapacidad, sea que actúen por sí o por medio de sus guardadores, cuidadores o representantes legales o contractuales, accederán al beneficio para la importación de vehículos establecido en el artículo 6º de la ley Nº17.238.
 
-Los vehículos a que se refiere el inciso primero no podrán tener un valor FOB superior a US$ 29.304, sin considerar el mayor valor que representen los elementos opcionales constitutivos del equipo especial para personas con discapacidad que se señalen en los certificados que, para los efectos de esta ley, debe emitir la Comisión de Medicina Preventiva e Invalidez, cuando resulte pertinente. En el caso de vehículos de transporte de mercancías, estos no podrán tener un valor FOB superior a US$ 34.632. Dichas cantidades se actualizarán anualmente.                              Decreto 1666,
+Los vehículos a que se refiere el inciso primero no podrán tener un valor FOB superior a US$ 29.304, sin considerar el mayor valor que representen los elementos opcionales constitutivos del equipo especial para personas con discapacidad que se señalen en los certificados que, para los efectos de esta ley, debe emitir la Comisión de Medicina Preventiva e Invalidez, cuando resulte pertinente. En el caso de vehículos de transporte de mercancías, estos no podrán tener un valor FOB superior a US$ 34.632. Dichas cantidades se actualizarán anualmente.
 
+Decreto 1666,
 HACIENDA
+D.O. 27.05.2011
 
-Los beneficios establecidos en este artículo serán             D.O. 27.05.2011 aplicables también a la importación de vehículos destinados exclusivamente al transporte colectivo de personas con discapacidad. El valor FOB de dichos vehículos no podrá exceder de US$ 50.616, sin considerar los elementos opcionales constitutivos del equipo especial para personas con discapacidad que señale el reglamento.                 Decreto 1666,
+Los beneficios establecidos en este artículo serán aplicables también a la importación de vehículos destinados exclusivamente al transporte colectivo de personas con discapacidad. El valor FOB de dichos vehículos no podrá exceder de US$ 50.616, sin considerar los elementos opcionales constitutivos del equipo especial para personas con discapacidad que señale el reglamento.
 
+Decreto 1666,
 HACIENDA
+D.O. 27.05.2011
 
-Los vehículos que se importen mediante la franquicia           D.O. 27.05.2011 establecida en este artículo deberán permanecer por un lapso no inferior a 3 años afectos al uso y transporte de personas con discapacidad.
+Los vehículos que se importen mediante la franquicia establecida en este artículo deberán permanecer por un lapso no inferior a 3 años afectos al uso y transporte de personas con discapacidad.
 
-Las cantidades en dólares establecidas en el presente artículo se actualizarán anualmente a contar del 1 de enero de cada año mediante decreto supremo expedido por el Ministerio de Hacienda, conforme a la variación experimentada por el Índice Oficial de Precios al por Mayor de los Estados Unidos de América en el período de doce meses comprendido entre el 1 de noviembre del año que antecede al de la dictación del decreto supremo y el 30 de octubre del año anterior a la vigencia de dicho decreto.
+Las cantidades en dólares establecidas en el presente artículo se actualizarán anualmente a contar del 1 de enero de cada año mediante decreto supremo expedido por el Ministerio de Hacienda, conforme a la variación experimentada por el Índice Oficial de Precios al por Mayor de los Estados Unidos de América en el período de doce
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+
+meses comprendido entre el 1 de noviembre del año que antecede al de la dictación del decreto supremo y el 30 de octubre del año anterior a la vigencia de dicho decreto.
 
 Las personas jurídicas sin fines de lucro, que tengan por objeto la asistencia, cuidado o apoyo de personas con discapacidad podrán impetrar los beneficios establecidos en este artículo, para importar vehículos destinados exclusivamente al transporte de personas con discapacidad que ellas atiendan en el cumplimiento de sus fines.
 
@@ -463,35 +486,37 @@ Un reglamento dictado por el Ministro de Hacienda determinará los procedimiento
 #### Artículo 49.-
 Libérase de la totalidad de los gravámenes aduaneros la importación de los siguientes bienes:
 
-- Prótesis auditivas, visuales y físicas.
+a) Prótesis auditivas, visuales y físicas.
 
-- Órtesis.
+b) Órtesis.
 
-- Equipos, medicamentos y elementos necesarios para la terapia y rehabilitación de personas con discapacidad.
+c) Equipos, medicamentos y elementos necesarios para la terapia y rehabilitación de personas con discapacidad.
 
-- Equipos, maquinarias y útiles de trabajo especialmente diseñados o adaptados para ser usados por personas con discapacidad.
+d) Equipos, maquinarias y útiles de trabajo especialmente diseñados o adaptados para ser usados por personas con discapacidad.
 
-- Elementos de movilidad, cuidado e higiene personal necesarios para facilitar la autonomía y la seguridad de las personas con discapacidad.
+e) Elementos de movilidad, cuidado e higiene personal necesarios para facilitar la autonomía y la seguridad de las personas con discapacidad.
 
-- Elementos especiales para facilitar la comunicación, la información y la señalización para personas con discapacidad.
+f) Elementos especiales para facilitar la comunicación, la información y la señalización para personas con discapacidad.
 
-- Equipos y material pedagógico especiales para educación, capacitación y recreación de las personas con discapacidad.
+g) Equipos y material pedagógico especiales para educación, capacitación y recreación de las personas con discapacidad.
 
-- Elementos y equipos de tecnología de la información y de las comunicaciones destinados a cualquiera de los fines enunciados en las letras anteriores.
+h) Elementos y equipos de tecnología de la información y de las comunicaciones destinados a cualquiera de los fines enunciados en las letras anteriores.
 
-- Ayudas técnicas y elementos necesarios para prestar servicios de apoyo que importe el Servicio Nacional de la Discapacidad.
+i) Ayudas técnicas y elementos necesarios para prestar servicios de apoyo que importe el Servicio Nacional de la Discapacidad.
 
 #### Artículo 50.-
 Sólo podrán impetrar el beneficio que otorga el artículo anterior, las personas con discapacidad, actuando por sí o por medio de sus guardadores, cuidadores o representantes legales o contractuales, para la importación de elementos destinados al uso exclusivo de las personas con discapacidad y las personas jurídicas sin fines de lucro que, de conformidad con sus objetivos, actúen en el ámbito de la discapacidad e importen elementos necesarios para el cumplimiento de sus fines o para el uso o beneficio de personas con discapacidad que ellas atiendan.
 
 #### Artículo 51.-
-Los bienes importados bajo alguna de las franquicias reguladas por este Párrafo no podrán ser objeto de enajenación ni de cualquier acto jurídico entre vivos que signifique la transferencia de su dominio, posesión, tenencia o uso a terceras personas distintas del destinatario, salvo que hayan transcurrido 3 ó más años desde su importación o que conste que ya no prestan utilidad a dicho destinatario.
+Los bienes importados bajo alguna de las
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+
+franquicias reguladas por este Párrafo no podrán ser objeto de enajenación ni de cualquier acto jurídico entre vivos que signifique la transferencia de su dominio, posesión, tenencia o uso a terceras personas distintas del destinatario, salvo que hayan transcurrido 3 ó más años desde su importación o que conste que ya no prestan utilidad a dicho destinatario.
 
 La enajenación prevista en el inciso anterior, relativo a los bienes que no presten utilidad al destinatario, sólo podrá efectuarse respecto de otra persona con discapacidad o bien a personas jurídicas sin fines de lucro que tengan por objeto la asistencia, cuidado o apoyo de personas con discapacidad.
 
@@ -511,7 +536,7 @@ Además, en el caso de haberse autorizado el pago diferido de los impuestos por 
 ## Del Registro Nacional de la Discapacidad
 
 #### Artículo 55.-
-El Registro Nacional de la Discapacidad, a cargo del Servicio de Registro Civil e Identificación, tiene por objetivo reunir y mantener los antecedentes de las personas con discapacidad y de los organismos que se señalan en el artículo siguiente, en la forma que establezca el reglamento.
+El Registro Nacional de la Discapacidad, a cargo del Servicio de Registro Civil e Identificación,
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
@@ -519,20 +544,22 @@ www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[START OF PAGE 17]]
 
+tiene por objetivo reunir y mantener los antecedentes de las personas con discapacidad y de los organismos que se señalan en el artículo siguiente, en la forma que establezca el reglamento.
+
 Un reglamento dictado por los Ministerios de Justicia y de Planificación establecerá la estructura y funcionamiento del Registro Nacional de la Discapacidad.
 
 #### Artículo 56.-
 El Registro Nacional de la Discapacidad deberá:
 
-- Inscribir a las personas cuya discapacidad sea certificada por la respectiva Comisión de Medicina Preventiva e Invalidez.
+a) Inscribir a las personas cuya discapacidad sea certificada por la respectiva Comisión de Medicina Preventiva e Invalidez.
 
-- Inscribir a las personas naturales que presten servicios de apoyo o de asistencia a personas con discapacidad. El reglamento indicado en el artículo anterior determinará la naturaleza de estos servicios y los requisitos que deben cumplir estas personas para su incorporación en este registro.
+b) Inscribir a las personas naturales que presten servicios de apoyo o de asistencia a personas con discapacidad. El reglamento indicado en el artículo anterior determinará la naturaleza de estos servicios y los requisitos que deben cumplir estas personas para su incorporación en este registro.
 
-- Inscribir a las personas jurídicas que, de conformidad con sus objetivos, actúen en el ámbito de la discapacidad. Estas personas deberán acreditar su existencia legal, de conformidad con lo que establezca el reglamento.
+c) Inscribir a las personas jurídicas que, de conformidad con sus objetivos, actúen en el ámbito de la discapacidad. Estas personas deberán acreditar su existencia legal, de conformidad con lo que establezca el reglamento.
 
-- Otorgar las credenciales de inscripción y los certificados que determine el reglamento.
+d) Otorgar las credenciales de inscripción y los certificados que determine el reglamento.
 
-- Cancelar la inscripción de las personas señaladas en las letras a), b) y c) en los casos que señale el Reglamento.
+e) Cancelar la inscripción de las personas señaladas en las letras a), b) y c) en los casos que señale el Reglamento.
 
 ## Título VI
 
@@ -546,13 +573,15 @@ El que fuere sancionado como autor de un acto u omisión arbitrario o ilegal, en
 
 Esta suma ingresará a las arcas del respectivo municipio, para su destinación exclusiva a programas y acciones en beneficio de las personas con discapacidad de la comuna. La multa se duplicará en caso de reincidencia.
 
-Para el caso de que el denunciado o demandado no adopte las medidas ordenadas por el juzgado de policía local correspondiente o bien insista en el incumplimiento de la normativa, además de la sanción pecuniaria el juez podrá decretar la medida de clausura del establecimiento de que se trate.
+Para el caso de que el denunciado o demandado no adopte las medidas ordenadas por el juzgado de policía local correspondiente o bien insista en el incumplimiento de la normativa, además de la sanción pecuniaria el juez podrá decretar la medida de clausura del establecimiento de que se
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
+
+trate.
 
 #### Artículo 59.-
 Las causas a que dieren lugar las acciones previstas en este Título, se sustanciarán conforme al procedimiento establecido en la ley Nº18.287. En caso que el denunciado o demandado comparezca asistido por abogado, el tribunal, de oficio, le designará al denunciante o demandante el abogado de turno, resolución que se notificará por quien designe el juez sin costo para el actor.
@@ -575,13 +604,15 @@ Una vez realizadas estas evaluaciones, sus resultados se deberán publicar oport
 Las recomendaciones que surjan de las evaluaciones a las que se refieren los incisos precedentes deberán ser consideradas, y en caso de ser necesario, deberán traducirse en modificaciones, adecuaciones e incluso en el término de dichas acciones y prestaciones sociales.
 
 #### Artículo 61.-
-Créase el Servicio Nacional de la Discapacidad, servicio público funcionalmente descentralizado y desconcentrado territorialmente, que tiene por finalidad promover la igualdad de oportunidades, inclusión social, participación y accesibilidad de las personas con discapacidad.
+Créase el Servicio Nacional de la Discapacidad, servicio público funcionalmente
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
+
+descentralizado y desconcentrado territorialmente, que tiene por finalidad promover la igualdad de oportunidades, inclusión social, participación y accesibilidad de las personas con discapacidad.
 
 El Servicio Nacional de la Discapacidad será, para todos los efectos legales, el sucesor y continuador legal del actual Fondo Nacional de la Discapacidad.
 
@@ -590,23 +621,23 @@ El Servicio Nacional de la Discapacidad se relacionará con el Presidente de la 
 
 Con el propósito de promover la igualdad de oportunidades, inclusión social, participación y accesibilidad de las personas con discapacidad, las funciones del Servicio Nacional de la Discapacidad serán las siguientes:
 
-- Coordinar el conjunto de acciones y prestaciones sociales ejecutadas por distintos organismos del Estado que contribuyan directa o indirectamente a este fin. Para el cumplimiento de esta función el Servicio podrá celebrar convenios con estos organismos.
+a) Coordinar el conjunto de acciones y prestaciones sociales ejecutadas por distintos organismos del Estado que contribuyan directa o indirectamente a este fin. Para el cumplimiento de esta función el Servicio podrá celebrar convenios con estos organismos.
 
-- Asesorar técnicamente al Comité de Ministros en la elaboración de la política nacional para personas con discapacidad y en la evaluación periódica de todas aquellas acciones y prestaciones sociales ejecutadas por distintos organismos del Estado que tengan como fin directo o indirecto la igualdad de oportunidades, inclusión social, participación y accesibilidad de las personas con discapacidad.
+b) Asesorar técnicamente al Comité de Ministros en la elaboración de la política nacional para personas con discapacidad y en la evaluación periódica de todas aquellas acciones y prestaciones sociales ejecutadas por distintos organismos del Estado que tengan como fin directo o indirecto la igualdad de oportunidades, inclusión social, participación y accesibilidad de las personas con discapacidad.
 
-- Elaborar y ejecutar, en su caso, el plan de acción de la política nacional para personas con discapacidad, así como, planes, programas y proyectos.
+c) Elaborar y ejecutar, en su caso, el plan de acción de la política nacional para personas con discapacidad, así como, planes, programas y proyectos.
 
-- Promover y desarrollar acciones que favorezcan la coordinación del sector privado con el sector público en todas aquellas materias que digan relación con mejorar la calidad de vida de las personas con discapacidad.
+d) Promover y desarrollar acciones que favorezcan la coordinación del sector privado con el sector público en todas aquellas materias que digan relación con mejorar la calidad de vida de las personas con discapacidad.
 
-- Financiar, total o parcialmente, planes, programas y proyectos.
+e) Financiar, total o parcialmente, planes, programas y proyectos.
 
-- Realizar acciones de difusión y sensibilización.
+f) Realizar acciones de difusión y sensibilización.
 
-- Financiar, total o parcialmente, ayudas técnicas y servicios de apoyo requeridos por una persona con discapacidad para mejorar su funcionalidad y autonomía personal, considerando dentro de los criterios de priorización el grado de la discapacidad y el nivel socioeconómico del postulante.
+g) Financiar, total o parcialmente, ayudas técnicas y servicios de apoyo requeridos por una persona con discapacidad para mejorar su funcionalidad y autonomía personal, considerando dentro de los criterios de priorización el grado de la discapacidad y el nivel socioeconómico del postulante.
 
-- Estudiar y proponer al Presidente de la República, por intermedio del Ministro de Planificación, las normas y reformas legales necesarias para el ejercicio efectivo de los derechos de las personas con discapacidad.
+h) Estudiar y proponer al Presidente de la República, por intermedio del Ministro de Planificación, las normas y reformas legales necesarias para el ejercicio efectivo de los derechos de las personas con discapacidad.
 
-- Realizar estudios sobre discapacidad y aquellos relativos al cumplimiento de sus fines, o bien, contratar los que estime necesarios de tal forma de contar periódicamente con un instrumento que permita la identificación y la caracterización actualizada, a nivel nacional y comunal, de la población con discapacidad, tanto en términos socioeconómicos como con respecto al grado de
+i) Realizar estudios sobre discapacidad y aquellos relativos al cumplimiento de sus fines, o bien, contratar los que estime necesarios de tal forma de contar periódicamente con un instrumento que permita la identificación y la caracterización actualizada, a nivel nacional y comunal, de la población con discapacidad, tanto en términos socioeconómicos como con respecto al grado de
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
@@ -616,30 +647,30 @@ www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 discapacidad que los afecta.
 
-- Velar por el cumplimiento de las disposiciones legales y reglamentarias relacionadas con la protección de los derechos de las personas con discapacidad. Esta facultad incluye la atribución de denunciar los posibles incumplimientos ante los organismos o instancias jurisdiccionales respectivas, y ejercer acciones y hacerse parte en aquellas causas en que estén afectados los intereses de las personas con discapacidad, de conformidad a la ley.
+j) Velar por el cumplimiento de las disposiciones legales y reglamentarias relacionadas con la protección de los derechos de las personas con discapacidad. Esta facultad incluye la atribución de denunciar los posibles incumplimientos ante los organismos o instancias jurisdiccionales respectivas, y ejercer acciones y hacerse parte en aquellas causas en que estén afectados los intereses de las personas con discapacidad, de conformidad a la ley.
 
 Trimestralmente el Servicio Nacional de la Discapacidad deberá informar en su página web acerca de las acciones y prestaciones sociales que ejecute o coordine y que vayan a favor de las personas con discapacidad. Esta información deberá incluir el número de beneficiarios efectivos, los recursos públicos desembolsados y los resultados de las evaluaciones, si las hubiere.
 
-- El Servicio Nacional de la Discapacidad estará organizado en una Dirección Nacional, una Subdirección Nacional y Direcciones Regionales en cada región del país. Contará, además, con un Consejo Consultivo de la Discapacidad.
+El Servicio Nacional de la Discapacidad estará organizado en una Dirección Nacional, una Subdirección Nacional y Direcciones Regionales en cada región del país. Contará, además, con un Consejo Consultivo de la Discapacidad.
 
 #### Artículo 63.-
 El Consejo Consultivo de la Discapacidad deberá hacer efectiva la participación y el diálogo social en el proceso de igualdad de oportunidades, inclusión social, participación y accesibilidad de las personas con discapacidad.
 
-- El Consejo Consultivo de la Discapacidad se integrará como sigue:
+El Consejo Consultivo de la Discapacidad se integrará como sigue:
 
-- Con el Director Nacional del Servicio Nacional de la Discapacidad, quien lo presidirá.
+a) Con el Director Nacional del Servicio Nacional de la Discapacidad, quien lo presidirá.
 
-- Con cinco representantes de organizaciones de personas con discapacidad de carácter nacional que no persigan fines de lucro. Estos consejeros deberán representar equitativamente a agrupaciones de personas con discapacidad física, auditiva, visual, intelectual y psíquica. El reglamento establecerá los requisitos que deben cumplir estas entidades para acreditar su carácter nacional.
+b) Con cinco representantes de organizaciones de personas con discapacidad de carácter nacional que no persigan fines de lucro. Estos consejeros deberán representar equitativamente a agrupaciones de personas con discapacidad física, auditiva, visual, intelectual y psíquica. El reglamento establecerá los requisitos que deben cumplir estas entidades para acreditar su carácter nacional.
 
-- Con un representante del sector empresarial.
+c) Con un representante del sector empresarial.
 
-- Con un representante de organizaciones de trabajadores.
+d) Con un representante de organizaciones de trabajadores.
 
-- Con dos representantes de instituciones privadas sin fines de lucro constituidas para atender a personas con discapacidad.
+e) Con dos representantes de instituciones privadas sin fines de lucro constituidas para atender a personas con discapacidad.
 
 Los consejeros no serán rentados en su calidad de tales. Los consejeros señalados en las letras b) y e) serán designados por el Presidente de la República a proposición de las entidades respectivas, los que elegirán a sus representantes en la forma que determine el reglamento. Los consejeros señalados en las letras c) y d) serán elegidos, respectivamente, por las organizaciones empresariales y de trabajadores más representativas del país, en la forma que establezca el reglamento. Los consejeros, con excepción del indicado en la letra a) precedente, durarán cuatro años en el ejercicio de sus funciones y podrán ser nuevamente designados.
 
-De entre los miembros del Consejo Consultivo se designará un vicepresidente, quien subrogará al presidente en caso de ausencia o impedimento de éste. El vicepresidente durará dos años en su cargo, pudiendo ser reelegido. El reglamento que se dicte al efecto determinará las funciones, atribuciones y obligaciones del presidente y del vicepresidente.
+De entre los miembros del Consejo Consultivo se
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
@@ -647,30 +678,32 @@ www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[START OF PAGE 21]]
 
+designará un vicepresidente, quien subrogará al presidente en caso de ausencia o impedimento de éste. El vicepresidente durará dos años en su cargo, pudiendo ser reelegido. El reglamento que se dicte al efecto determinará las funciones, atribuciones y obligaciones del presidente y del vicepresidente.
+
 La secretaría técnica del Consejo Consultivo recaerá en la Dirección Nacional del Servicio y el Subdirector Nacional ejercerá como ministro de fe de las actuaciones y determinaciones del Consejo.
 
 #### Artículo 64.-
 Corresponderá al Consejo Consultivo de la Discapacidad:
 
-- Opinar fundadamente sobre la propuesta de política nacional para personas con discapacidad y sus actualizaciones, como asimismo sobre el plan de acción, en conformidad a la ley y el reglamento.
+a) Opinar fundadamente sobre la propuesta de política nacional para personas con discapacidad y sus actualizaciones, como asimismo sobre el plan de acción, en conformidad a la ley y el reglamento.
 
-- Solicitar y recibir de los ministerios, servicios públicos y entidades en los que el Estado tenga participación, los antecedentes e información necesarios para el cumplimiento de sus funciones.
+b) Solicitar y recibir de los ministerios, servicios públicos y entidades en los que el Estado tenga participación, los antecedentes e información necesarios para el cumplimiento de sus funciones.
 
-- Recomendar los criterios y procedimientos de evaluación, selección y supervisión de los proyectos concursables financiados por el Servicio Nacional de la Discapacidad.
+c) Recomendar los criterios y procedimientos de evaluación, selección y supervisión de los proyectos concursables financiados por el Servicio Nacional de la Discapacidad.
 
-- Presentar al Director Nacional del Servicio la propuesta de adjudicación de los concursos de proyectos, previa evaluación técnica de las propuestas presentadas. Para el cumplimiento de esta función, el Consejo Consultivo deberá conformar comisiones de trabajo integradas por consejeros y profesionales o técnicos provenientes de los ministerios y servicios públicos que desarrollen funciones o realicen prestaciones sociales relacionadas con las propuestas presentadas. En la resolución de los concursos de proyectos, el Director Nacional del Servicio deberá fundamentar su decisión cuando rechace proyectos evaluados favorablemente por el Consejo Consultivo.
+d) Presentar al Director Nacional del Servicio la propuesta de adjudicación de los concursos de proyectos, previa evaluación técnica de las propuestas presentadas. Para el cumplimiento de esta función, el Consejo Consultivo deberá conformar comisiones de trabajo integradas por consejeros y profesionales o técnicos provenientes de los ministerios y servicios públicos que desarrollen funciones o realicen prestaciones sociales relacionadas con las propuestas presentadas. En la resolución de los concursos de proyectos, el Director Nacional del Servicio deberá fundamentar su decisión cuando rechace proyectos evaluados favorablemente por el Consejo Consultivo.
 
-- Servir como instancia de consulta y apoyo para el desarrollo de las funciones del Servicio.
+e) Servir como instancia de consulta y apoyo para el desarrollo de las funciones del Servicio.
 
-- Ser informado periódicamente de la marcha del Servicio y del cumplimiento de sus fines.
+f) Ser informado periódicamente de la marcha del Servicio y del cumplimiento de sus fines.
 
-- Cumplir las demás funciones que la ley o el reglamento le encomienden.
+g) Cumplir las demás funciones que la ley o el reglamento le encomienden.
 
 #### Artículo 65.-
 Un reglamento dictado por el Ministerio de Planificación establecerá los mecanismos de designación de los consejeros, sus derechos y deberes, las causales de cesación, las incompatibilidades y los procedimientos de inhabilitación, remoción, suspensión y reemplazo de sus integrantes. Asimismo, regulará los mecanismos de integración al Consejo de las personas señaladas en el artículo 64 letra d) de este cuerpo legal. El reglamento contendrá también, las normas de funcionamiento general del Consejo y los quórum necesarios para sesionar y adoptar acuerdos.
 
 #### Artículo 66.-
-La dirección y administración del Servicio Nacional de Discapacidad corresponderá a un funcionario denominado Director Nacional, el que será nombrado de conformidad a lo dispuesto en el Título VI de la ley Nº19.882.
+La dirección y administración del Servicio Nacional de Discapacidad corresponderá a un
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
@@ -678,46 +711,48 @@ www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[START OF PAGE 22]]
 
+funcionario denominado Director Nacional, el que será nombrado de conformidad a lo dispuesto en el Título VI de la ley Nº19.882.
+
 Serán funciones del Director Nacional:
 
-- Cumplir y hacer cumplir los acuerdos e instrucciones del Comité de Ministros.
+a) Cumplir y hacer cumplir los acuerdos e instrucciones del Comité de Ministros.
 
-- Informar periódicamente al Comité de Ministros acerca de la marcha del Servicio Nacional de la Discapacidad y del cumplimiento de sus acuerdos.
+b) Informar periódicamente al Comité de Ministros acerca de la marcha del Servicio Nacional de la Discapacidad y del cumplimiento de sus acuerdos.
 
-- Dirigir, organizar y administrar el Servicio, controlarlo y velar por el cumplimiento de sus objetivos.
+c) Dirigir, organizar y administrar el Servicio, controlarlo y velar por el cumplimiento de sus objetivos.
 
-- Dictar el Reglamento Interno del Personal a que se refieren los artículos 154 y siguientes del Código del Trabajo, así como toda otra norma necesaria para el buen funcionamiento del servicio.
+d) Dictar el Reglamento Interno del Personal a que se refieren los artículos 154 y siguientes del Código del Trabajo, así como toda otra norma necesaria para el buen funcionamiento del servicio.
 
-- Nombrar a los funcionarios de su dependencia, asignarles funciones y resolver las sanciones administrativas que correspondan de conformidad con la ley.
+e) Nombrar a los funcionarios de su dependencia, asignarles funciones y resolver las sanciones administrativas que correspondan de conformidad con la ley.
 
-- Adquirir, enajenar, gravar y administrar toda clase de bienes y celebrar cualquier acto o contrato en cumplimiento del objeto y funciones del Servicio.
+f) Adquirir, enajenar, gravar y administrar toda clase de bienes y celebrar cualquier acto o contrato en cumplimiento del objeto y funciones del Servicio.
 
-- Encomendar a la subdirección, direcciones regionales y departamentos del Servicio Nacional de la Discapacidad, las funciones que estime necesarias.
+g) Encomendar a la subdirección, direcciones regionales y departamentos del Servicio Nacional de la Discapacidad, las funciones que estime necesarias.
 
-- Representar judicial y extrajudicialmente al servicio.
+h) Representar judicial y extrajudicialmente al servicio.
 
-- Servir como secretaría ejecutiva del Comité de Ministros.
+i) Servir como secretaría ejecutiva del Comité de Ministros.
 
-- Presidir el Consejo Consultivo de la Discapacidad.
+j) Presidir el Consejo Consultivo de la Discapacidad.
 
-- Resolver los concursos de proyectos.
+k) Resolver los concursos de proyectos.
 
-- En general, ejercer las demás facultades que sean necesarias para la buena marcha del servicio.
+l) En general, ejercer las demás facultades que sean necesarias para la buena marcha del servicio.
 
 #### Artículo 67.-
 Un Subdirector Nacional coordinará la gestión de las unidades del Servicio Nacional de la Discapacidad, de conformidad con las instrucciones impartidas por el Director Nacional.
 
 Corresponderá al Subdirector Nacional:
 
-- Subrogar al Director Nacional, en caso de ausencia o impedimento.
+a) Subrogar al Director Nacional, en caso de ausencia o impedimento.
 
-- Cumplir y hacer cumplir las instrucciones que le imparta el Director Nacional y realizar los actos que éste le delegue en el ejercicio de sus atribuciones.
+b) Cumplir y hacer cumplir las instrucciones que le imparta el Director Nacional y realizar los actos que éste le delegue en el ejercicio de sus atribuciones.
 
-- Colaborar con el Director Nacional en la preparación del plan anual de trabajo, del anteproyecto de presupuestos y de toda otra materia que el Director Nacional le solicite.
+c) Colaborar con el Director Nacional en la preparación del plan anual de trabajo, del anteproyecto de presupuestos y de toda otra materia que el Director Nacional le solicite.
 
-- Controlar la gestión del servicio, en particular, el cumplimiento de las metas y compromisos institucionales.
+d) Controlar la gestión del servicio, en particular, el cumplimiento de las metas y compromisos institucionales.
 
-- Participar en las sesiones del Consejo Consultivo de
+e) Participar en las sesiones del Consejo Consultivo de
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
@@ -727,39 +762,39 @@ www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 la Discapacidad con derecho a voz, desempeñándose como ministro de fe.
 
-- En general, ejercer las demás facultades que sean necesarias para la buena marcha del servicio.
+f) En general, ejercer las demás facultades que sean necesarias para la buena marcha del servicio.
 
-- El Subdirector será nominado de conformidad con lo dispuesto en el Título VI de la ley Nº19.882.
+El Subdirector será nominado de conformidad con lo dispuesto en el Título VI de la ley Nº19.882.
 
 #### Artículo 68.-
 Habrán direcciones regionales a cargo de un funcionario con la denominación de Director Regional. A los directores regionales les corresponderán las siguientes atribuciones y obligaciones:
 
-- Organizar y dirigir la Dirección Regional y ejecutar las políticas fijadas por el servicio en la respectiva región, de acuerdo a las instrucciones que les imparta el Director Nacional.
+a) Organizar y dirigir la Dirección Regional y ejecutar las políticas fijadas por el servicio en la respectiva región, de acuerdo a las instrucciones que les imparta el Director Nacional.
 
-- Coordinar las políticas públicas y planes que conciernan a las personas con discapacidad, realizados por los distintos organismos del Estado a nivel regional.
+b) Coordinar las políticas públicas y planes que conciernan a las personas con discapacidad, realizados por los distintos organismos del Estado a nivel regional.
 
-- Fomentar la participación social de las organizaciones de y para personas con discapacidad en la gestión de las políticas públicas en la respectiva región.
+c) Fomentar la participación social de las organizaciones de y para personas con discapacidad en la gestión de las políticas públicas en la respectiva región.
 
-- Supervisar el correcto desempeño de las funciones del servicio en la región, de acuerdo a las normas e instrucciones impartidas por el Director Nacional.
+d) Supervisar el correcto desempeño de las funciones del servicio en la región, de acuerdo a las normas e instrucciones impartidas por el Director Nacional.
 
-- Administrar los bienes y recursos que se pongan a su disposición y dar cuenta anualmente.
+e) Administrar los bienes y recursos que se pongan a su disposición y dar cuenta anualmente.
 
-- Celebrar los actos y contratos que sean necesarios para el buen funcionamiento del servicio en la respectiva región, de acuerdo a las normas e instrucciones que les imparta el Director Nacional.
+f) Celebrar los actos y contratos que sean necesarios para el buen funcionamiento del servicio en la respectiva región, de acuerdo a las normas e instrucciones que les imparta el Director Nacional.
 
-- Ejercer las demás atribuciones y funciones que el Director Nacional le delegue o que las leyes le asignen.
+g) Ejercer las demás atribuciones y funciones que el Director Nacional le delegue o que las leyes le asignen.
 
 Los directores regionales serán nominados de conformidad con lo dispuesto en el Título VI de la ley Nº19.882.
 
 #### Artículo 69.-
 El patrimonio del Servicio Nacional de la Discapacidad estará formado por:
 
-- Los recursos que contemple anualmente la Ley de Presupuestos.
+a) Los recursos que contemple anualmente la Ley de Presupuestos.
 
-- Los bienes muebles e inmuebles que le transfiera el Fondo Nacional de la Discapacidad al Servicio Nacional de la Discapacidad, en tanto continuador legal de éste, los bienes que el Servicio adquiera a cualquier título y los frutos de esos mismos bienes.
+b) Los bienes muebles e inmuebles que le transfiera el Fondo Nacional de la Discapacidad al Servicio Nacional de la Discapacidad, en tanto continuador legal de éste, los bienes que el Servicio adquiera a cualquier título y los frutos de esos mismos bienes.
 
-- Los recursos otorgados por leyes generales o especiales.
+c) Los recursos otorgados por leyes generales o especiales.
 
-- Las donaciones, herencias y legados que el Servicio acepte, en todo caso, con beneficio de inventario. Las asignaciones hereditarias y donaciones que se hagan o dejen al Servicio Nacional de la Discapacidad estarán exentas de toda clase de impuestos y de todo pago o gravamen que las afecte. Asimismo, las donaciones estarán exentas del
+d) Las donaciones, herencias y legados que el Servicio acepte, en todo caso, con beneficio de inventario. Las asignaciones hereditarias y donaciones que se hagan o dejen al Servicio Nacional de la Discapacidad estarán exentas de toda clase de impuestos y de todo pago o gravamen que las afecte. Asimismo, las donaciones estarán exentas del
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
@@ -769,9 +804,9 @@ www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 trámite de insinuación.
 
-- Los aportes de la cooperación internacional que reciba a cualquier título para el cumplimiento de sus objetivos.
+e) Los aportes de la cooperación internacional que reciba a cualquier título para el cumplimiento de sus objetivos.
 
-- Los recursos que pueda captar como resultado de trabajos de estudio, investigación o asistencia técnica que contrate con organismos públicos o privados.
+f) Los recursos que pueda captar como resultado de trabajos de estudio, investigación o asistencia técnica que contrate con organismos públicos o privados.
 
 #### Artículo 70.-
 Para la asignación y financiamiento de los servicios y ayudas técnicas que requieran los niños y niñas menores de seis años, será suficiente la determinación diagnóstica del médico tratante y la presentación de un plan de tratamiento. Sin perjuicio de lo anterior, en casos calificados y debidamente fundados, el Servicio Nacional de la Discapacidad podrá requerir al solicitante otros antecedentes, diagnósticos o información adicional.
@@ -789,13 +824,15 @@ Le serán también aplicables las normas contenidas en los artículos 61 y 90 A 
 #### Artículo 73.-
 El personal del Servicio Nacional de la Discapacidad, salvo aquél afecto al sistema a que se refiere el Título VI de la ley N° 19.882, será seleccionado para desempeñarse con contrato indefinido, mediante concurso público.
 
-Excepcionalmente, por resolución fundada del Jefe de Servicio, se podrán utilizar otros sistemas de selección, tales como concursos internos, los que, en todo caso, deberán garantizar la debida transparencia y objetividad, basándose en la evaluación de los méritos e idoneidad del postulante.
+Excepcionalmente, por resolución fundada del Jefe de Servicio, se podrán utilizar otros sistemas de selección, tales como concursos internos, los que, en todo caso, deberán garantizar la debida transparencia y objetividad, basándose en la evaluación de los méritos e idoneidad del
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
+
+postulante.
 
 Al Director Nacional le corresponderá suscribir los contratos de trabajo del personal seleccionado conforme a los incisos anteriores, los que deberán ser aprobados por resolución.
 
@@ -818,22 +855,23 @@ Para efectos de la adecuada aplicación de las normas sobre capacitación previs
 El personal del Servicio Nacional de la Discapacidad tendrá derecho a afiliarse a Servicios de Bienestar, en los casos y condiciones que establezcan sus estatutos. El Servicio Nacional de la Discapacidad efectuará los aportes de bienestar respecto de cada funcionario, sin sobrepasar el máximo legal de los mismos.
 
 #### Artículo 78.-
-La responsabilidad disciplinaria del personal del Servicio Nacional de la Discapacidad por los actos realizados en el ejercicio de sus funciones podrá hacerse efectiva por la autoridad respectiva, de acuerdo al procedimiento establecido en los artículos 126 y siguientes del decreto con fuerza de ley N° 29, de 2004, del Ministerio de Hacienda.
+La responsabilidad disciplinaria del personal del Servicio Nacional de la Discapacidad por los actos realizados en el ejercicio de sus funciones podrá hacerse efectiva por la autoridad respectiva, de acuerdo al procedimiento establecido en los artículos 126 y siguientes del decreto con fuerza de ley N° 29, de 2004, del
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+Ministerio de Hacienda.
 
 #### Artículo 79.-
 Las infracciones de los deberes y prohibiciones establecidos en el Título III de la Ley Orgánica Constitucional de Bases Generales de la Administración del Estado o en el contrato de trabajo en que incurra el personal del Servicio Nacional de la Discapacidad, serán sancionadas con alguna de las siguientes medidas:
 
-- Censura;
+a) Censura;
 
-- Multa, y
+b) Multa, y
 
-- Remoción.
+c) Remoción.
 
 Las medidas disciplinarias mencionadas en las letras a) y b) precedentes se aplicarán tomando en cuenta la gravedad de la falta cometida, la eventual reiteración de la conducta, así como las circunstancias atenuantes y agravantes que arroje el mérito de los antecedentes.
 
@@ -850,16 +888,16 @@ Las resoluciones del Servicio Nacional de la Discapacidad relativas a personal e
 Sin perjuicio de lo anterior, el personal del Servicio Nacional de la Discapacidad tendrá derecho a reclamar ante la Contraloría General de la República si se produjere algún vicio de legalidad que afecte los derechos que le confiere el contrato de trabajo o la presente ley.
 
 #### Artículo 82.-
-Derógase la ley N° 19.284, que establece normas para la plena integración social de las personas con discapacidad, con excepción del artículo 21, de los artículos 25-A a 25-F, ambos inclusive, y del artículo 65, los cuales se entienden vigentes para todos los efectos legales.
+Derógase la ley Nº 19.284, que establece normas para la plena integración social de las personas con discapacidad, con excepción del artículo 21, de los artículos 25-A a 25-F, ambos inclusive, y del artículo 65, los cuales se entienden vigentes para todos los efectos legales.
 ## Disposiciones transitorias
-#### Artículo primero.-
-Las disposiciones del inciso primero del artículo 25 relativas a los canales de la televisión abierta y los proveedores de televisión por cable y las disposiciones del inciso segundo del mismo artículo, deberán encontrarse íntegramente cumplidas dentro del término de tres años, contado desde la publicación en el Diario Oficial del reglamento a que se refiere el inciso primero del citado artículo. Dicho reglamento deberá ser dictado en el plazo de seis meses desde la publicación de esta ley, y establecerá un patrón progresivo que contemplará, como mínimo, cuotas de programación accesible de, a lo menos, un treinta y tres por ciento cada año.
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+#### Artículo primero.-
+Las disposiciones del inciso primero del artículo 25 relativas a los canales de la televisión abierta y los proveedores de televisión por cable y las disposiciones del inciso segundo del mismo artículo, deberán encontrarse íntegramente cumplidas dentro del término de tres años, contado desde la publicación en el Diario Oficial del reglamento a que se refiere el inciso primero del citado artículo. Dicho reglamento deberá ser dictado en el plazo de seis meses desde la publicación de esta ley, y establecerá un patrón progresivo que contemplará, como mínimo, cuotas de programación accesible de, a lo menos, un treinta y tres por ciento cada año.
 
 Las exigencias establecidas en los artículos 26, 27 y 42 deberán ser cumplidas dentro del plazo de dos años, contado desde la publicación de esta ley en el Diario Oficial.
 
@@ -875,22 +913,23 @@ El Estado, en conjunto con la comunidad de personas con discapacidad auditiva, d
 Agrégase en el número 7 del artículo 154 del Código del Trabajo, a continuación de la expresión "sexo de los trabajadores" la siguiente frase ", y a los ajustes necesarios y servicios de apoyo que permitan al trabajador con discapacidad un desempeño laboral adecuado".
 
 #### Artículo tercero.-
-El Director Nacional será el sucesor legal del actual Secretario Ejecutivo de FONADIS, para los efectos de los decretos con fuerza de ley N°4, de 2003, y N° 44, de 2004, ambos del Ministerio de Hacienda.
+El Director Nacional será el sucesor legal del actual Secretario Ejecutivo de FONADIS, para los efectos de los decretos con fuerza de ley Nº4, de 2003, y Nº 44, de 2004, ambos del Ministerio de Hacienda.
 
-Para todos los efectos legales el Servicio Nacional de la Discapacidad a que se refiere el Título VII de la presente ley, es el sucesor legal de la institución establecida en el Título VII de la ley N° 19.284, pasando el personal que labora en éste último a desempeñarse, sin solución de continuidad, en el Servicio que se crea por esta ley.
+Para todos los efectos legales el Servicio Nacional de la Discapacidad a que se refiere el Título VII de la presente ley, es el sucesor legal de la institución establecida en el Título VII de la ley Nº 19.284, pasando el personal que labora en éste último a desempeñarse, sin solución de continuidad, en el Servicio que se crea por
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
+esta ley.
 
 Dicho traspaso no podrá significar, en caso alguno, disminución de remuneraciones ni modificación de los derechos laborales y previsionales del personal traspasado.
 
-El pago de los beneficios indemnizatorios al personal traspasado se entenderá postergado, por causa que otorgue derecho a percibirlo, hasta el cese de servicios en el Servicio Nacional de la Discapacidad creado por la presente ley. En tal caso, la indemnización respectiva se determinará computando tanto el tiempo servido al Servicio a que se refiere la ley N° 19.284 como en el Servicio que crea la presente ley, según la remuneración que estuviere percibiendo a la fecha del término del contrato.
+El pago de los beneficios indemnizatorios al personal traspasado se entenderá postergado, por causa que otorgue derecho a percibirlo, hasta el cese de servicios en el Servicio Nacional de la Discapacidad creado por la presente ley. En tal caso, la indemnización respectiva se determinará computando tanto el tiempo servido al Servicio a que se refiere la ley Nº 19.284 como en el Servicio que crea la presente ley, según la remuneración que estuviere percibiendo a la fecha del término del contrato.
 
 #### Artículo cuarto.-
-El Registro Nacional de la Discapacidad a que se refiere el artículo 55 de esta ley, sucederá al Registro Nacional de la Discapacidad establecido en la ley N° 19.284. Para efectos de la continuidad del servicio, el actual Registro Nacional de la Discapacidad permanecerá vigente mientras no se dicte el reglamento que regula el Registro Nacional de la Discapacidad establecido en la presente ley.
+El Registro Nacional de la Discapacidad a que se refiere el artículo 55 de esta ley, sucederá al Registro Nacional de la Discapacidad establecido en la ley Nº 19.284. Para efectos de la continuidad del servicio, el actual Registro Nacional de la Discapacidad permanecerá vigente mientras no se dicte el reglamento que regula el Registro Nacional de la Discapacidad establecido en la presente ley.
 
 #### Artículo quinto.-
 Todos los reglamentos a los que se refiere esta ley, deberán dictarse dentro del plazo de nueve meses, contado desde su publicación en el Diario Oficial. Lo anterior, no obsta exigir el cumplimiento de los derechos, garantías y obligaciones consagrados en esta ley.".
@@ -915,11 +954,11 @@ www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[START OF PAGE 29]]
 
-- Que son constitucionales los artículos 25, inciso segundo, 28, inciso cuarto, 34, inciso segundo, 35, 45, 81 y 82, en cuanto esta última disposición deroga normas de naturaleza orgánica constitucional, del proyecto de ley remitido.
+1) Que son constitucionales los artículos 25, inciso segundo, 28, inciso cuarto, 34, inciso segundo, 35, 45, 81 y 82, en cuanto esta última disposición deroga normas de naturaleza orgánica constitucional, del proyecto de ley remitido.
 
-- Que el artículo 57 del proyecto de ley remitido a control es constitucional en el entendido de que lo dispuesto en él es sin perjuicio del derecho que le asiste a toda persona para interponer, ante los tribunales competentes, las acciones que, en defensa de sus derechos e intereses legítimos, contempla el Texto Constitucional.
+2) Que el artículo 57 del proyecto de ley remitido a control es constitucional en el entendido de que lo dispuesto en él es sin perjuicio del derecho que le asiste a toda persona para interponer, ante los tribunales competentes, las acciones que, en defensa de sus derechos e intereses legítimos, contempla el Texto Constitucional.
 
-- Que, por versar sobre materias que no son propias de ley orgánica constitucional, no corresponde a esta Magistratura pronunciarse sobre los artículos 28, incisos primero, segundo, tercero y quinto, 34, inciso primero, 61, 62, 66, 67, 72, 79 y 82, en lo que concierne a las normas de ley común que esta última disposición deroga, del proyecto remitido.
+3) Que, por versar sobre materias que no son propias de ley orgánica constitucional, no corresponde a esta Magistratura pronunciarse sobre los artículos 28, incisos primero, segundo, tercero y quinto, 34, inciso primero, 61, 62, 66, 67, 72, 79 y 82, en lo que concierne a las normas de ley común que esta última disposición deroga, del proyecto remitido.
 
 Santiago, 21 de enero de 2010.- Marta de la Fuente Olguín, Secretaria.
 
