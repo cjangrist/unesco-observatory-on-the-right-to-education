@@ -30,7 +30,7 @@ Parliament, alloying the noble traditions of Hungarian education with the possib
 
 (2) Within public education, the duties of education shall be shared by the parents, the legal representatives of the child and the public education institutions and the teachers. Such joint activity shall be based on trust and the professional credit of the institutions and the teachers.
 
-(3)  In  the  educational  institutions  of  the  state  and  local  governments,  the  knowledge  and  religious  and ideological  information  shall  be  communicated  comprehensively  and  in  an  objective  manner,  respecting  the religious  and  ideological  belief  of  children  /  students,  the  parent  and  the  teacher  throughout  the  educational process, while simultaneously allowing children / students to attend the religion and ethics courses organised by the church legal person.
+(3) In the educational institutions of the state and local governments, the knowledge and religious and ideological information shall be communicated comprehensively and in an objective manner, respecting the religious and ideological belief of children / students, the parent and the teacher throughout the educational process, while simultaneously allowing children / students to attend the religion and ethics courses organised by
 
 1
 
@@ -38,7 +38,9 @@ Parliament, alloying the noble traditions of Hungarian education with the possib
 
 [[START OF PAGE 2]]
 
-(4)  Public  education  shall  promote  the  educational  interests  corresponding  to  the  cultural  autonomy  of nationalities.
+the church legal person.
+
+(4) Public education shall promote the educational interests corresponding to the cultural autonomy of nationalities.
 
 (5) The language of education shall be Hungarian while in nationality pre-schools and schools it shall be the language  of  the  nationalities,  whether  in  whole  or  in  part,  respectively,  and  in  bilingual  schools,  the  target language according to the legislation.
 
@@ -112,27 +114,27 @@ u) pedagogical professional service,
 
 3.  "all-day  school"  means  the  form  of  school  organisation  where  lessons  and  other  activities  are  organised evenly distributed over the morning and the afternoon periods. Its operation and system of requirements shall be determined in law by the Government,
 
-"other activity" means an individual session or group activity with educational contents for the development of the students outside the traditional school day,
+4. "other activity" means an individual session or group activity with educational contents for the development of the students outside the traditional school day,
 
-5.  "advanced  education"  means  the  education  of  certain  subject  with  higher  requirements  according  to  the general curriculum,
+5. "advanced education" means the education of certain subject with higher requirements according to the general curriculum,
 
-6.  "location"  means  the  address  where  the  tasks  defined  in  the  deed  of  foundation  of  the  public  education institution are performed,
+6. "location" means the address where the tasks defined in the deed of foundation of the public education institution are performed,
 
 7. "ascending system" means the gradual introduction of educational and examination requirements, pursuant to which the change may be introduced starting at the lowest teaching year affected,
 
 8. "operator" means the natural or legal person who or which has obtained or has the right to perform public education tasks and meets the requirements necessary for operating the public education institution according to the provisions of this Act,
 
-9.  "supervision  of  children  /  students  in  educational  institution"  means  the  provision  of  protection  of  the physical  integrity  and  morality  of  children  /  students  during  the  period  from  their  entering  the  educational institution until the lawful leaving of the educational institution as well as during the time of the activities and programmes which are the mandatory part of the pedagogical programme and are held outside the educational institution,
+9. "supervision of children / students in educational institution" means the provision of protection of the physical integrity and morality of children / students during the period from their entering the educational institution until the lawful leaving of the educational institution as well as during the time of the activities and programmes which are the mandatory part of the pedagogical programme and are held outside the educational institution,
 
-10.  "institutional  reorganisation"  means  all  decisions  of  the  operator  amending  the  deed  of  foundation according  to  any  of  the  terms  listed  in  paragraphs  c)-k)  of  Section  21  (3),  except  for  decisions  concerning property which is no longer required for the performance of the task,
+10. "institutional reorganisation" means all decisions of the operator amending the deed of foundation according to any of the terms listed in paragraphs c)-k) of Section 21 (3), except for decisions concerning property which is no longer required for the performance of the task,
 
-"institutional  unit"  means  the  organisational  unit  which  performs  any  of  the  basic  tasks  of  the  public education institution or multi-purpose institution,
+11. "institutional unit" means the organisational unit which performs any of the basic tasks of the public education institution or multi-purpose institution,
 
-"children / students requiring special attention" means
+12. "children / students requiring special attention" means
 
-- children / students requiring special treatment:
+a) children / students requiring special treatment:
 
-- aa) children / students with special education needs,
+aa) children / students with special education needs,
 
 ab) children / students with difficulties in integration, learning or behaviour,
 
@@ -140,21 +142,21 @@ ac) particularly gifted or talented children / students,
 
 b) children / students with disadvantages or multiple disadvantages according to the Act on Child Protection and Guardianship Administration,
 
-13. "particularly gifted or talented children / students" means children / students requiring special treatment, who  are  highly  creative  and  possess  above-average  general  or  special  skills,  and  strong  motivation  and commitment may be generated in them towards the task,
+13. "particularly gifted or talented children / students" means children / students requiring special treatment, who are highly creative and possess above-average general or special skills, and strong motivation and commitment may be generated in them towards the task,
 
-14.  "community  service"  means  social  and  environmental  protection  activity,  as  well  as  its  educational processing, carried out individually or in group for the advantage of the local community of the student, which is carried out within organised framework and is independent of financial interests,
+14. "community service" means social and environmental protection activity, as well as its educational processing, carried out individually or in group for the advantage of the local community of the student, which is carried out within organised framework and is independent of financial interests,
 
-"private institution'" means any institution which is operated by other than the state, local government or church,
+15. "private institution'" means any institution which is operated by other than the state, local government or church,
 
-16.  "evaluation  procedure"  means  the  procedure  for  the  evaluation  of  the  teacher's  performance  which  is necessary for promotion,
+16. "evaluation procedure" means the procedure for the evaluation of the teacher's performance which is necessary for promotion,
 
-17.  "pre-school  year"  means,  in  the  pre-school,  the  period  from  1  September  to  31  August  of  the  next following year,
+17. "pre-school year" means, in the pre-school, the period from 1 September to 31 August of the next following year,
 
 18. "teaching staff" means the group of persons employed by the educational institution in the position of a teacher as a public employee or employment relationship as well as the staff with higher qualification who are employed in positions directly assisting the pedagogical and educational work,
 
-"part-time teacher" means a teacher who is employed under a general agreement for teaching not more than ten lessons or activities a week,
+19. "part-time teacher" means a teacher who is employed under a general agreement for teaching not more than ten lessons or activities a week,
 
-20. "performance of national task' means that a public education institution performs a national task if not less than fifty-one per cent of the persons using its services, calculated separately for each location except for the county (Budapest) where the location is situated, is constituted of persons living in no less than five different counties  (Budapest)  provided  that  no  more  than  three  public  education  institutions  performing  the  task  or providing  the  service  concerned  exist  in  the  country,  respectively  where  the  institution  fulfils  the  task  of nationality education or is engaged in education committed to a religion or ideology, and there is only one such institution operating in one locality or in one district of Budapest,
+20. "performance of national task" means that a public education institution performs a national task if not less than fifty-one per cent of the persons using its services, calculated separately for each location except for the county (Budapest) where the location is situated, is constituted of persons living in no less than five different counties (Budapest) provided that no more than three public education institutions performing the task or providing the service concerned exist in the country, respectively where the institution fulfils the task of nationality education or is engaged in education committed to a religion or ideology, and there is only one such institution operating in one locality or in one district of Budapest,
 
 21. "pre-school group, school class or hall of residence group" means an education organisation unit organised for  not  less  than  one  pre-school  or  school  year  which  is  created  for  the  performance  of  defined,  common educational tasks from children / students admitted to the pre-school, school or hall of residence and who go to the same location,
 
@@ -164,29 +166,29 @@ b) children / students with disadvantages or multiple disadvantages according to
 
 [[START OF PAGE 4]]
 
-"merged class" means, in the first four years of the primary school, in the primary art school and in the adapted physical and conductive educational institution, the class made from the students of not less than two and  not  more  than  four  teaching  years.  Schools  operating  based  on  an  alternative  programme  may  organise merged classes according to the conditions set out in their licence,
+22. "merged class" means, in the first four years of the primary school, in the primary art school and in the adapted physical and conductive educational institution, the class made from the students of not less than two and not more than four teaching years. Schools operating based on an alternative programme may organise merged classes according to the conditions set out in their licence,
 
-"children / students  with special education needs" means children / students requiring special treatment who,  based  on  the  expert  opinion  of  the  committee  of  experts,  are  handicapped  or  have  perceptual,  mental deficiency  or  speech  disorder,  or  have  multiple  disabilities  in  case  of  the  simultaneous  occurrence  of  several deficiencies  or  have  autism  spectrum  disorder  or  any  other  psychic  disorder  (serious  disorder  concerning learning or the control of attention or behaviour),
+23. "children / students with special education needs" means children / students requiring special treatment who, based on the expert opinion of the committee of experts, are handicapped or have perceptual, mental deficiency or speech disorder, or have multiple disabilities in case of the simultaneous occurrence of several deficiencies or have autism spectrum disorder or any other psychic disorder (serious disorder concerning learning or the control of attention or behaviour),
 
-"professional  staff  meeting  "  means  the  group  comprising  the  heads  and  the  employees  employed  as  a public employee or employment relationship in positions established for the basic tasks laid down in the deed of foundation of the public education institution,
+24. "professional staff meeting " means the group comprising the heads and the employees employed as a public employee or employment relationship in positions established for the basic tasks laid down in the deed of foundation of the public education institution,
 
-"seat" means the location defined in the deed of foundation of the educational institution performing the basic  tasks  where  the  working  place  of  its  head  authorised  for  exercising  his/her  right  of  representation  is located,
+25. "seat" means the location defined in the deed of foundation of the educational institution performing the basic tasks where the working place of its head authorised for exercising his/her right of representation is located,
 
-"member institution" means the institutional unit where the duties of control or representation cannot be attended or may be attended in part only owing to its distance from the seat or the nature of the duties,
+26. "member institution" means the institutional unit where the duties of control or representation cannot be attended or may be attended in part only owing to its distance from the seat or the nature of the duties,
 
-"grades" means an institutional unit established for the educational work carried out in the first to fourth and fifth to eighth classes of the primary school, respectively,
+27. "grades" means an institutional unit established for the educational work carried out in the first to fourth and fifth to eighth classes of the primary school, respectively,
 
-"school year" means, in schools and halls of residence, the period from 1 September to 31 August of the next year,
+28. "school year" means, in schools and halls of residence, the period from 1 September to 31 August of the next year,
 
-"teaching  year"  means,  unless  otherwise  provided  by  law,  the  term  time  from  the  first  working  day  of September of each year until the last working day before 16 June of the next year, except for the year of schoolleaving  or  vocational  examination;  in  the  vocational  training  years  of  vocational  secondary  schools  and vocational  schools  where  no  subjects  in  cultural  domains  are  educated  in  the  cases  regulated  by  the  Act  on Vocational Education and Training, the teaching  year  may also be commenced in February as defined in the ministerial decree on the order of the school year,
+29. "teaching year" means, unless otherwise provided by law, the term time from the first working day of September of each year until the last working day before 16 June of the next year, except for the year of school-leaving or vocational examination; in the vocational training years of vocational secondary schools and vocational schools where no subjects in cultural domains are educated in the cases regulated by the Act on Vocational Education and Training, the teaching year may also be commenced in February as defined in the ministerial decree on the order of the school year,
 
-"school day" means in each class any day used for educational lessons or class or group sessions being a part of the educational programme of the school which may not be carried out within the framework of school lessons  including  but  not  limited  to  school  excursions,  environmental  educational  events  or  cultural  or  sports events provided that the number of activity hours reaches three,
+30. "school day" means in each class any day used for educational lessons or class or group sessions being a part of the educational programme of the school which may not be carried out within the framework of school lessons including but not limited to school excursions, environmental educational events or cultural or sports events provided that the number of activity hours reaches three,
 
-"children / students accident" means any accident which involves children / students during the time or the activity when they are under the supervision of the educational institution or the person conducting the practical training including accidents occurring during practical training outside the institution,
+31. "children / students accident" means any accident which involves children / students during the time or the activity when they are under the supervision of the educational institution or the person conducting the practical training including accidents occurring during practical training outside the institution,
 
-"site" means a location other than the seat,
+32. "site" means a location other than the seat,
 
-"performance of regional task": a public education institutions performs regional tasks if, in the average of five years, not less than fifty-one per cent of the persons living in more than two counties other than the count where the seat of the educational institution is located or outside the boundaries of Budapest, use its services.
+33. "performance of regional task": a public education institutions performs regional tasks if, in the average of five years, not less than fifty-one per cent of the persons living in more than two counties other than the count where the seat of the educational institution is located or outside the boundaries of Budapest, use its services.
 
 ## 3. Phases of Pedagogical Work
 
@@ -206,7 +208,7 @@ c) phase of secondary education which starts with the ninth class, except for th
 
 d) phase of school education preparing for vocational qualification which, unless otherwise provided by law, starts after the phase of primary education and ends in the vocational training school with the vocational training year set forth in the National Register of Vocational Qualifications.
 
-(2)  The  principles  of  pre-school  education  shall  be  laid  down  in  the  National  Master  Programme  for  PreSchool  Education.  The  pre-schools  shall  prepare  their  local  educational  programmes  based  on  the  National Master Programme for Pre-School Education.
+(2) The principles of pre-school education shall be laid down in the National Master Programme for Pre-School Education. The pre-schools shall prepare their local educational programmes based on the National Master Programme for Pre-School Education.
 
 4
 
@@ -266,7 +268,7 @@ e) mandatory optional examination subject; in vocational secondary schools, voca
 
 ### Section 7
 
-1) The institutions of the public education system shall be the following:
+(1) The institutions of the public education system shall be the following:
 
 a) pre-school,
 
@@ -602,7 +604,7 @@ a) higher education, public and higher education research, general education, cu
 
 tasks of museums, and sport,
 
-b) all types of child protection, child welfare, social and healthcare services which may be provided to schoolage students.
+b) all types of child protection, child welfare, social and healthcare services which may be provided to school-age students.
 
 (8) In public education institutions under joint management and general community centres, the performance and  control  of  tasks  outside  the  scope  of  public  education  services,  the  relevant  provisions  concerning  the establishment  of  the  institutional  units  performing  such  tasks  and  the  licensing  of  their  activity  shall  be applicable for the activity provided, with the deviation that the provisions of Sections 21 and 22, Section 25 (1)
 
@@ -642,7 +644,7 @@ da) its registered seat,
 
 db) its member institution,
 
-- dc) its site,
+dc) its site,
 
 e) the statutory definition of its basic task and special task,
 
@@ -720,7 +722,7 @@ c) if  the public education institution has failed to remedy, within the time li
 
 d) if the educational work carried out in the public education institution violates public safety, public order, and  public  health  or  public  morals  or  is  aimed  against  the  rights  or  liberties  of  others  or  if  the  educational institution fails to meet the requirements necessary for the performance of its duties.
 
-(11) It shall be a professional infringement if, irrespective of the tasks fulfilled by the institution, the operation of  the  institution  violates  the  provisions  of  the  National  Master  Programme  for  Pre-School  Education,  the National  Core  Curriculum,  the  general  curriculum  applicable  for  the  institution  concerned,  or  any  other educational programme prepared and approved under the authorisation of this Act, or secondary school-leaving examination regulations, the legal regulation on the detailed examination requirements of the secondary schoolleaving examination, the national core programme of residence hall education, the guideline on the pre-school education  of  nationalities,  the  guideline  on  the  school  education  of  nationalities,  the  guideline  on  the  school education  in  bilingual  schools,  the  guideline  on  the  pre-school  education  of  children  with  special  education needs, the guideline on the school education of children with special education needs, or the requirements and curricular programme of primary art education.
+(11) It shall be a professional infringement if, irrespective of the tasks fulfilled by the institution, the operation of the institution violates the provisions of the National Master Programme for Pre-School Education, the National Core Curriculum, the general curriculum applicable for the institution concerned, or any other educational programme prepared and approved under the authorisation of this Act, or secondary school-leaving examination regulations, the legal regulation on the detailed examination requirements of the secondary school-leaving examination, the national core programme of residence hall education, the guideline on the pre-school education of nationalities, the guideline on the school education of nationalities, the guideline on the school education in bilingual schools, the guideline on the pre-school education of children with special education needs, the guideline on the school education of children with special education needs, or the requirements and curricular programme of primary art education.
 
 (12) The government office shall notify the organ paying the budget contribution of the deregistration of the educational institution.
 
@@ -808,7 +810,7 @@ b) the work plan of the institution does not comply with the conditions laid dow
 
 (1) Provisions concerning the operation, internal and external relations of public education institutions shall be regulated by their organisational and operational rules (hereinafter: OOR).
 
-(2) The regulations of a pre-school shall establish provisions on the exercising of children's rights and duties and governing the life of the child at the pre-school. The regulations of a school and of a hall of residence shall establish the manner of exercising students' rights laid down in this Act and in other pieces of legislation, and except for the fulfilling of learning duties - the manner of fulfilling duties, furthermore, standards of behaviour expected by the school or by the hall of residence.
+(2) The regulations of a pre-school shall establish provisions on the exercising of children's rights and duties and governing the life of the child at the pre-school. The regulations of a school and of a hall of residence shall establish the manner of exercising students' rights laid down in this Act and in other pieces of legislation, and - except for the fulfilling of learning duties - the manner of fulfilling duties, furthermore, standards of behaviour expected by the school or by the hall of residence.
 
 (3)  The  regulations  may  prescribe  that  objects  brought  into  the  pre-school,  school  or  hall  of  residence  by children or students shall be put into safe-keeping or locker rooms, or that they shall be reported. Regulations may prohibit, restrict or tie to certain conditions the introduction of objects not required for attending pre-school or for the fulfilment of duties or exercising rights arising from the legal status of student or from membership in a hall of residence. If prescribed rules are violated, the educational institution shall not be held liable for ensuing damages.
 
@@ -824,7 +826,7 @@ b) the work plan of the institution does not comply with the conditions laid dow
 
 (6) The educational institution in accordance with the relevant legal regulations - shall investigate and record accidents involving students and children and fulfil its reporting obligations.
 
-The minimum, maximum and average headcount of pre-school groups and school classes is defined in Annex 4.  The  defined  minimum  and  maximum  headcount  of  pre-school  groups  and  school  classes  may  only  be disregarded if it is justified by taking over or admitting a child during the educational or academic year.
+(7) The minimum, maximum and average headcount of pre-school groups and school classes is defined in Annex 4. The defined minimum and maximum headcount of pre-school groups and school classes may only be disregarded if it is justified by taking over or admitting a child during the educational or academic year.
 
 (8) In the classrooms, on the inscription board and on the façade of a public educational institution, and on the circular stamp of institutions maintained by the state or by local governments the coat of arms of Hungary shall be put up, and it may appear on the circular stamp of other institutions.
 
@@ -846,7 +848,7 @@ The minimum, maximum and average headcount of pre-school groups and school class
 
 ### Section 27
 
-(1) Unless otherwise provided for by this Act, education in schools shall be organised according to day-time teaching work order within the framework of compulsory and optional, individual or group, classroom or postcurricular activities, and compulsory and optional, individual or group activities at halls of residence.
+(1) Unless otherwise provided for by this Act, education in schools shall be organised according to day-time teaching work order within the framework of compulsory and optional, individual or group, classroom or post-curricular activities, and compulsory and optional, individual or group activities at halls of residence.
 
 (2) In primary schools, education shall be organised during the morning and afternoon teaching period in such a manner that activities shall last at least until sixteen hours, furthermore, until seventeen hours - or until such time while students may rightfully stay within the institution - supervision shall be procured. In accordance with the provisions of this Act, a primary school may also operate as a full-time day school.
 
@@ -1006,7 +1008,7 @@ d) the period of time for which participation in the implementation of tasks has
 
 ### Section 33
 
-(1) If, on the basis of a public education agreement concluded with the Minister responsible for education, or on the basis of a unilateral declaration, a non-state operator becomes eligible for additional financial subsidy, the pre-school or primary school maintained by it shall take part in the implementation of tasks imposed on preschools or primary schools ensuring compulsory admission. Within that scope, the locality - or, in the case of the capital city, district - where the seat or establishment of the pre-school or school is located shall be considered as an  admission  district.  The  operator  shall,  in  conjunction  with  the  government  office  responsible  for  the implementation  of  tasks,  or,  in  the  event  of  a  public  education  agreement  concluded  with  the  Minister responsible  for  education,  involving  the  government  office  responsible  for  the  implementation  of  tasks, determine the headcount of children or students whose admission the pre-school or school may not deny. Such a headcount  may  not  amount  to  less  than  twenty-five  percent  of  the  maximum  headcount  laid  down  -  for  the location  specified  for  the  implementation  of  tasks  -  in  the  foundation  deeds  of  the  pre-school  or  school concerned.
+(1) If, on the basis of a public education agreement concluded with the Minister responsible for education, or on the basis of a unilateral declaration, a non-state operator becomes eligible for additional financial subsidy, the pre-school or primary school maintained by it shall take part in the implementation of tasks imposed on pre-schools or primary schools ensuring compulsory admission. Within that scope, the locality - or, in the case of the capital city, district - where the seat or establishment of the pre-school or school is located shall be considered as an admission district. The operator shall, in conjunction with the government office responsible for the implementation of tasks, or, in the event of a public education agreement concluded with the Minister responsible for education, involving the government office responsible for the implementation of tasks, determine the headcount of children or students whose admission the pre-school or school may not deny. Such a headcount may not amount to less than twenty-five percent of the maximum headcount laid down - for the location specified for the implementation of tasks - in the foundation deeds of the pre-school or school concerned.
 
 (2) If in a locality there is only one pre-school or school, then it shall be obliged to admit children or students whose permanent address, or in the lack of that, place of residence is within the locality and they are of the age for compulsory pre-school education or schooling, provided that the operator has made a unilateral declaration or concluded a public education agreement.
 
@@ -1060,7 +1062,12 @@ a) a specialised secondary school or a vocational school may operate with a numb
 
 b) in their pedagogical programme, particular national defence and police criteria may be implemented, army regulations  and  rules  and  activities  pursuant  to  the  Act  on  the  Service  Status  of  Armed  Forces  Professionals (hereinafter: Hszt by its Hungarian acronym) may be prescribed,
 
-c) the  OOR  and  regulations  may  prescribe  for  teachers,  for  persons  directly  assisting  education,  and  for students' standards of behaviour and appearance, rights and obligations and military training activities prescribed in  the  Hungarian  Army and in the Hszt., furthermore, if  such rules and regulations are breached, disciplinary action may be initiated, d) teachers may perform their duties also within a service relationship, d) the operator may appoint the head of the institution without a call for applications and further procedure, f) provisions pertaining to setting the headcount of classes and groups shall not apply, except for provisions on maximum headcount, g) regarding the termination of student status and membership in a hall of residence, the statutory provisions may be disregarded, subject to a written agreement, h) they shall be considered as institutions performing national tasks.
+c) the OOR and regulations may prescribe for teachers, for persons directly assisting education, and for students' standards of behaviour and appearance, rights and obligations and military training activities prescribed in the Hungarian Army and in the Hszt., furthermore, if such rules and regulations are breached, disciplinary action may be initiated,
+d) teachers may perform their duties also within a service relationship,
+e) the operator may appoint the head of the institution without a call for applications and further procedure,
+f) provisions pertaining to setting the headcount of classes and groups shall not apply, except for provisions on maximum headcount,
+g) regarding the termination of student status and membership in a hall of residence, the statutory provisions may be disregarded, subject to a written agreement,
+h) they shall be considered as institutions performing national tasks.
 
 22
 
@@ -1080,7 +1087,7 @@ c) the  OOR  and  regulations  may  prescribe  for  teachers,  for  persons  dir
 
 a) petitions submitted in reference to breach of law; furthermore,
 
-b) petitions  submitted  in  reference  to  violation  of  interests  related  to  admission  to  or  exclusion  from  a  preschool,  the  establishment  or  termination  of  student  status  or  membership  in  a  hall  of  residence,  or  matters pertaining to students' discipline.
+b) petitions submitted in reference to violation of interests related to admission to or exclusion from a pre-school, the establishment or termination of student status or membership in a hall of residence, or matters pertaining to students' discipline.
 
 (4)  In  the  procedure  regulated  in  paragraph  (3),  in  an  education  institution  maintained  by  the  state,  the government  commissioner,  in  the  case  of  an  educational  institution  maintained  by  a  local  government,  the notary, and in the case of another operator a person with higher level qualifications obtained in the legal and public administration field, or with higher level qualifications entitling them to fill the position of director in an education institution may proceed.
 
@@ -1098,7 +1105,7 @@ a) reject the petition;
 
 b) instruct the individual failing to make a decision to make a decision;
 
-d) abrogate the decision and instruct the decision-maker to make a new decision.
+c) abrogate the decision and instruct the decision-maker to make a new decision.
 
 (3) The calculation of deadlines for filing a petition, omissions and the procedure related to judging petitions shall be subject to the provisions of the Act on the General Rules of Administrative Procedures and Services.
 
@@ -1112,7 +1119,7 @@ d) abrogate the decision and instruct the decision-maker to make a new decision.
 
 [[START OF PAGE 24]]
 
-(6)  A  final  decision  shall  be  executable,  except  when  it  had  been referred  to judicial  review.  The  decisionmaker may order the immediate execution of the second-instance decision if justified by the best interests of other students attending the educational institution.
+(6) A final decision shall be executable, except when it had been referred to judicial review. The decision-maker may order the immediate execution of the second-instance decision if justified by the best interests of other students attending the educational institution.
 
 (7) The student or parent concerned may appeal to the government office, and in the case of an examination board  operated  by  the  government  office,  to  the  central  office  assigned  by  a  government  decree  to  proceed within the public education competence of the Minister responsible for education (hereinafter: office) - within five  days  following  the  decision  -  on  the  grounds  of  legal  violation.  The  appeal  shall  be  judged  by  the government office or by the office within three working days. The procedure shall be subject to paragraphs (1) and  (3)-(6),  and  to  Section  39,  paragraph  (4),  with  the  provision  that  failure  to  lodge  the  appeal  within  the specified deadline shall entail loss of right, without the possibility of justification.
 
@@ -1188,7 +1195,7 @@ db) the basic public educational task targeted by the legal relationship,
 
 dc) particulars concerning the interruption or termination of the legal relationship,
 
-c) particulars concerning the omissions of the child or student,
+dd) particulars concerning the omissions of the child or student,
 
 de) particulars concerning a child or student in need of extraordinary attention,
 
@@ -1206,9 +1213,9 @@ eb) particulars on the assessment and qualification of the student's conduct, in
 
 ec) in the event of adult education, particulars concerning the work order of the education,
 
-bg) data pertaining to students' disciplinary and compensation issues,
+ed) data pertaining to students' disciplinary and compensation issues,
 
-aj) serial number of the students' identity pass,
+ee) serial number of the students' identity pass,
 
 ef) particulars concerning textbook supply,
 
@@ -1530,7 +1537,7 @@ c) the committee of experts' decision on the areas to be developed.
 
 (9) In educational institutions involved in adapted physical education
 
-a) special  qualification  for  adapted  physical  education  teacher,  conductor,  pre-school  conductor  teacher, conductor teacher and therapist is required in line with the type of disability, in case the primary objective of preschool activities and classroom education is
+a) special qualification for adapted physical education teacher, conductor, pre-school conductor teacher, conductor teacher and therapist is required in line with the type of disability, in case the primary objective of pre-school activities and classroom education is
 
 aa) the decrease of disadvantages stemming from special education needs,
 
@@ -1560,35 +1567,35 @@ c) special needs teachers with 'complex' higher level state approved language ce
 
 ### Section 48
 
-- Students  of  a  school  /  hall  of  residence  may  establish  student  circles  to  organise  their  joint  activities  in connection  with  education,  to  educate  for  democracy  and  public  responsibility,  in  line  with  the  school regulations; the establishment and operations of such circles are supported by the teaching staff.
+(1) Students of a school / hall of residence may establish student circles to organise their joint activities in connection with education, to educate for democracy and public responsibility, in line with the school regulations; the establishment and operations of such circles are supported by the teaching staff.
 
-- Student  circles  have  the  right  to  decide,  after  the  opinion  of  the  teaching  staff  is  heard,  on  planning  and organising their own community life, electing their functionaries and are entitled to represent themselves in the student council.
+(2) Student circles have the right to decide, after the opinion of the teaching staff is heard, on planning and organising their own community life, electing their functionaries and are entitled to represent themselves in the student council.
 
-- Students and student circles may create student councils to represent students' interests. The teacher with higher  teacher  qualification  nominated  for  this  task  by  the  head  of  the  institution  on  the  basis  of  the  student council proposer for a period of five years shall support the work of the student council.
+(3) Students and student circles may create student councils to represent students' interests. The teacher with higher teacher qualification nominated for this task by the head of the institution on the basis of the student council proposer for a period of five years shall support the work of the student council.
 
-- The student council shall be requested to express its opinion
+(4) The student council shall be requested to express its opinion
 
-- before statutory regulations of the school's OOR are accepted,
+a) before statutory regulations of the school's OOR are accepted,
 
-- before determining the principles of providing social benefits for students,
+b) before determining the principles of providing social benefits for students,
 
-- on the use of youth policy funds,
+c) on the use of youth policy funds,
 
-- prior to the approval of school regulations.
+d) prior to the approval of school regulations.
 
-- The establishment, operations and the legal status of student councils operating  at the institutions and the general community centres shall be covered by the regulations on student councils.
+(5) The establishment, operations and the legal status of student councils operating at the institutions and the general community centres shall be covered by the regulations on student councils.
 
 ## 30. Admission to Pre-school, Start and Termination of Student Status and of Hall of Residence Membership
 
 ### Section 49
 
-- Pre-school admission / takeover is based on application. The child shall be admitted to the pre-school, with the exception defined in this Act, after the child turns three. Parents may request the pre-school admission or takeover of their child at any point of time; the admission of children is continuous.
+(1) Pre-school admission / takeover is based on application. The child shall be admitted to the pre-school, with the exception defined in this Act, after the child turns three. Parents may request the pre-school admission or takeover of their child at any point of time; the admission of children is continuous.
 
-- The child shall primarily be admitted to or taken over by the pre-school in the vicinity of his/her residence or of a parent's workplace. The head of the pre-school decides on the admission / takeover. Should the number of applicants be above the number of children to be admitted, the head of the pre-school or, in case the operator of the pre-school has several establishments, the operator of the pre-school shall organise a committee to make a proposal for the admission.
+(2) The child shall primarily be admitted to or taken over by the pre-school in the vicinity of his/her residence or of a parent's workplace. The head of the pre-school decides on the admission / takeover. Should the number of applicants be above the number of children to be admitted, the head of the pre-school or, in case the operator of the pre-school has several establishments, the operator of the pre-school shall organise a committee to make a proposal for the admission.
 
-- The local government shall announce the boundaries of the area the pre-school admits children from and the pre-schools' opening hours. The pre-school is obliged to admit / take over children with pre-school obligation if their place of residence, or in its absence, their temporary residence falls within this area (hereinafter: pre-school providing mandatory admission).
+(3) The local government shall announce the boundaries of the area the pre-school admits children from and the pre-schools' opening hours. The pre-school is obliged to admit / take over children with pre-school obligation if their place of residence, or in its absence, their temporary residence falls within this area (hereinafter: pre-school providing mandatory admission).
 
-- The head of pre-school shall decide on the group arrangement of the children admitted to pre-school after consultation with the parents and the pre-school teachers.
+(4) The head of pre-school shall decide on the group arrangement of the children admitted to pre-school after consultation with the parents and the pre-school teachers.
 
 ### Section 50
 
@@ -1602,49 +1609,49 @@ c) special needs teachers with 'complex' higher level state approved language ce
 
 [[START OF PAGE 34]]
 
-- The following shall not be organized:
+(3) The following shall not be organized:
 
-- preparation courses for entrance examination for fee,
+a) preparation courses for entrance examination for fee,
 
-- entrance examinations in primary schools.
+b) entrance examinations in primary schools.
 
-- Secondary  schools  may  organise  central  written  entrance  examinations  in  line  with  the  stipulations  of  a separate legal regulation. Local entrance examinations may only be organised parallel with the central written test,  exclusively  if  the  average  number  of  applicants  in  three  years  prior  the  year  of  admission  is  double  the number of students to be admitted.
+(4) Secondary schools may organise central written entrance examinations in line with the stipulations of a separate legal regulation. Local entrance examinations may only be organised parallel with the central written test, exclusively if the average number of applicants in three years prior the year of admission is double the number of students to be admitted.
 
-- In case of advanced sports and arts education, primary schools may also organize professional aptitude tests on the basis of the schools' pedagogical programme.
+(5) In case of advanced sports and arts education, primary schools may also organize professional aptitude tests on the basis of the schools' pedagogical programme.
 
-- The primary school is obliged to admit or take over school-age students if their residence, or its absence, their  temporary  residence  is  in  its  area  (hereinafter:  school  providing  mandatory  admission).  Should  there  be several primary schools in a locality, school areas shall be defined so that an even distribution of students with multiple disabilities is guaranteed among the different educational institutions.
+(6) The primary school is obliged to admit or take over school-age students if their residence, or its absence, their temporary residence is in its area (hereinafter: school providing mandatory admission). Should there be several primary schools in a locality, school areas shall be defined so that an even distribution of students with multiple disabilities is guaranteed among the different educational institutions.
 
-- Students  of  school  age  shall  be  enrolled  in  the  first  year  at  the  point  of  time  defined  by  the  government office, or in case of institutions operated the local government, as defined by the local government. The time of enrolment shall be published in the usual local manner.
+(7) Students of school age shall be enrolled in the first year at the point of time defined by the government office, or in case of institutions operated the local government, as defined by the local government. The time of enrolment shall be published in the usual local manner.
 
-- The government office shall define and publish the admission area of the schools and, in line with the public education development plan, the operation area of the institutions offering pedagogical assistance services. To define the admission areas, the government office shall obtain the opinion of the local governments concerned.
+(8) The government office shall define and publish the admission area of the schools and, in line with the public education development plan, the operation area of the institutions offering pedagogical assistance services. To define the admission areas, the government office shall obtain the opinion of the local governments concerned.
 
-- Before defining the operation and admission areas of educational institutions responsible for the education of students with special educational needs in several counties or regions, the government office competent in the seat of the institution must obtain the opinion of the government offices concerned.
+(9) Before defining the operation and admission areas of educational institutions responsible for the education of students with special educational needs in several counties or regions, the government office competent in the seat of the institution must obtain the opinion of the government offices concerned.
 
-- Before defining the operation and admission areas of the educational institution responsible for the preschool  and  school  education  of  children  belonging  to  nationalities,  the  agreement  of  the  nationality  selfgovernment  concerned,  and  in  case  of  schools  with  national  duties,  the  consent  of  the  nationality  selfgovernment with nation-wide competence shall be obtained.
+(10) Before defining the operation and admission areas of the educational institution responsible for the pre-school and school education of children belonging to nationalities, the agreement of the nationality self-government concerned, and in case of schools with national duties, the consent of the nationality self-government with nation-wide competence shall be obtained.
 
-- Stipulations of paragraph (6) shall be applied for schools operating as member institutions.
+(11) Stipulations of paragraph (6) shall be applied for schools operating as member institutions.
 
 ### Section 51
 
-- In case the primary school, after the fulfilment of its mandatory admission responsibilities, is in the position to provide for further admissions / takeover requests, priority shall be given to children / students with multiple disadvantages. Additional admission requests shall be decided upon on the basis of the pedagogical programme of the institution.
+(1) In case the primary school, after the fulfilment of its mandatory admission responsibilities, is in the position to provide for further admissions / takeover requests, priority shall be given to children / students with multiple disadvantages. Additional admission requests shall be decided upon on the basis of the pedagogical programme of the institution.
 
-- The information on additional admission possibilities shall be published in the usual local manner, at least fifteen days prior to the first day of the submission period of admission and takeover requests.
+(2) The information on additional admission possibilities shall be published in the usual local manner, at least fifteen days prior to the first day of the submission period of admission and takeover requests.
 
-- In multi-purpose institutions, students completing their primary school studies shall continue their education on the basis of the pedagogical programme in the appropriate type of school.
+(3) In multi-purpose institutions, students completing their primary school studies shall continue their education on the basis of the pedagogical programme in the appropriate type of school.
 
-- The group or class arrangement of students admitted to the school shall be decided by the principal, after consultation with the professional team of teachers of the same subject, or if not available, the teaching staff.
+(4) The group or class arrangement of students admitted to the school shall be decided by the principal, after consultation with the professional team of teachers of the same subject, or if not available, the teaching staff.
 
-- Students with special education needs and integration, learning, behavioural  difficulties shall be offered a longer preparation period at the entrance examination in justified cases; during the written or oral tests, they shall be  granted  the  possibility  to  use  the  tools  generally  used  during  their  studies;  and  the  organisation  of  the examination shall be adapted to their capabilities.
+(5) Students with special education needs and integration, learning, behavioural difficulties shall be offered a longer preparation period at the entrance examination in justified cases; during the written or oral tests, they shall be granted the possibility to use the tools generally used during their studies; and the organisation of the examination shall be adapted to their capabilities.
 
-- In case of equal conditions, applicants belonging to nationalities shall be given priority and shall be admitted or taken over by schools or classes also providing nationality education.
+(6) In case of equal conditions, applicants belonging to nationalities shall be given priority and shall be admitted or taken over by schools or classes also providing nationality education.
 
 ### Section 52
 
-- The student may request his/her admission to a hall of residence or ask for external accommodation through the school or directly.
+(1) The student may request his/her admission to a hall of residence or ask for external accommodation through the school or directly.
 
-- The admission to an independent hall of residence shall be decided upon by its director; admission to a nonindependent hall of residence by the principal of the school in agreement with the head of the hall of residence. The arrangement of students admitted to the hall of residence to its different activities shall be decided by the principal of the school or the head of the hall of residence after consultation with the teaching staff of the hall of residence.
+(2) The admission to an independent hall of residence shall be decided upon by its director; admission to a non-independent hall of residence by the principal of the school in agreement with the head of the hall of residence. The arrangement of students admitted to the hall of residence to its different activities shall be decided by the principal of the school or the head of the hall of residence after consultation with the teaching staff of the hall of residence.
 
-- On the initiative of the guardianship authority, students shall be admitted to the hall of residence. Students
+(3) On the initiative of the guardianship authority, students shall be admitted to the hall of residence. Students
 
 34
 
@@ -1660,57 +1667,57 @@ the end of the student status, otherwise for one school year.
 
 ### Section 53
 
-- Pre-school education ceases
+(1) Pre-school education ceases
 
-- when the child is taken over by another pre-school, on the day of takeover,
+a) when the child is taken over by another pre-school, on the day of takeover,
 
-- on request of the parents, the municipal clerk allowed the child to dropout from pre-school education,
+b) on request of the parents, the municipal clerk allowed the child to dropout from pre-school education,
 
-- when the child is admitted to school, on the last day of the pre-school year.
+c) when the child is admitted to school, on the last day of the pre-school year.
 
-- Student status ceases
+(2) Student status ceases
 
-- when the student is taken over by another school, on the day of takeover,
+a) when the student is taken over by another school, on the day of takeover,
 
-- on the day of issuing the certificate on the completion of the last year of the primary school,
+b) on the day of issuing the certificate on the completion of the last year of the primary school,
 
-- in  case of  grammar school studies on the last day of the first secondary-school leaving examination period upon the completion of the last teaching year,
+c) in case of grammar school studies on the last day of the first secondary-school leaving examination period upon the completion of the last teaching year,
 
-- in  case  of  secondary  vocational  school  studies  on  the  last  day  of  the  first  secondary-school  leaving examination period upon the completion of the last year in the secondary school, in case the student does not intend to continue his/her education or may not do so due to non-fulfilment of the relevant conditions,
+d) in case of secondary vocational school studies on the last day of the first secondary-school leaving examination period upon the completion of the last year in the secondary school, in case the student does not intend to continue his/her education or may not do so due to non-fulfilment of the relevant conditions,
 
-- in vocational training in a vocational school
+e) in vocational training in a vocational school
 
-- ea) when  the  student  applies  for  vocational  examination,  on  the  last  day  of  the  first  vocational  examination period upon the completion of the last year,
+ea) when the student applies for vocational examination, on the last day of the first vocational examination period upon the completion of the last year,
 
-- eb) when  the  student  does  not  apply  for  vocational  examination,  on  the  day  of  issuing  the  certificate  on  the completion of the last teaching year,
+eb) when the student does not apply for vocational examination, on the day of issuing the certificate on the completion of the last teaching year,
 
 ec) when the student has become incapable of continuing his/her studies due to health reasons and the school does not offer any other appropriate vocational training, or when the student does not intend to continue his/her studies, or may not do so due to non-fulfilment of the necessary requirements,
 
-f) in  case  the  parent  of  a  minor  student  or  the  adult  student  announce  in  primary  art  school  the  intention  of leaving education on the day defined in the notification, or on the last school day of the last primary year; in case the student does not pass the basic art examination, or in case the student does not take a final examination on the  final  examination  day  of  the  last  post-secondary  education  year,  on  the  day  of  issuing  the  certificate  on completing the last teaching year and in cases as defined under subsection h) ,
+f) in case the parent of a minor student or the adult student announce in primary art school the intention of leaving education on the day defined in the notification, or on the last school day of the last primary year; in case the student does not pass the basic art examination, or in case the student does not take a final examination on the final examination day of the last post-secondary education year, on the day of issuing the certificate on completing the last teaching year and in cases as defined under subsection h),
 
-g) after  the  termination of compulsory schooling, on the day of acknowledging the announcement, in case of minor students the parents in agreement with the student, in case of an adult student, the student himself/herself announces in written form to drop out,
+g) after the termination of compulsory schooling, on the day of acknowledging the announcement, in case of minor students the parents in agreement with the student, in case of an adult student, the student himself/herself announces in written form to drop out,
 
-- due to arrears the principal shall terminate the student status, unless the student is of compulsory schooling age, after the unsuccessful warning of the parents or of the student, in case of an adult student, and following the evaluation  of  the  social  conditions  of  the  student,  on  the  day  the  decision  on  the  termination  of  the  status becomes final.
+h) due to arrears the principal shall terminate the student status, unless the student is of compulsory schooling age, after the unsuccessful warning of the parents or of the student, in case of an adult student, and following the evaluation of the social conditions of the student, on the day the decision on the termination of the status becomes final.
 
-- Stipulations of paragraph (2) h) shall not be applied in case of disadvantaged students.
+(3) Stipulations of paragraph (2) h) shall not be applied in case of disadvantaged students.
 
-- The student status of the student shall cease, with the exception of school-age students, in case the student is absent from the compulsory activities of the school without permission for a longer period than allowed by the relevant regulation.
+(4) The student status of the student shall cease, with the exception of school-age students, in case the student is absent from the compulsory activities of the school without permission for a longer period than allowed by the relevant regulation.
 
-- The student status shall cease on the day the disciplinary decision on expelling from school takes force.
+(5) The student status shall cease on the day the disciplinary decision on expelling from school takes force.
 
-(6) The school may terminate the student status on the last day of the teaching year by a unilateral declaration of a  student  of  non-schooling  age  in  case  he/she  fails  to  fulfil  the  study  requirements  of  the  same  year  for  the second time. The student status may be terminated by a unilateral declaration on the last day of the teaching year of students who cannot participate in full-time school education with proviso that there is no adult education in the school or the student does not intend to participate in it.
+(6) The school may terminate the student status on the last day of the teaching year by a unilateral declaration of a student of non-schooling age in case he/she fails to fulfil the study requirements of the same year for the second time. The student status may be terminated by a unilateral declaration on the last day of the teaching year of students who cannot participate in full-time school education with proviso that there is no adult education in the school or the student does not intend to participate in it.
 
 (7) In case a multi-purpose institution fulfils the responsibilities of several school types, the student status shall not be terminated during the compulsory schooling period as long as the studies may be continued in any unit of the institution providing education.
 
-- The hall of residence membership of the student shall cease
+(8) The hall of residence membership of the student shall cease
 
-- in case as described under Section 52 (4) upon the termination of the student status, otherwise at the end of the school year,
+a) in case as described under Section 52 (4) upon the termination of the student status, otherwise at the end of the school year,
 
-- when the disciplinary decision on the expel from the hall of residence becomes final,
+b) when the disciplinary decision on the expel from the hall of residence becomes final,
 
-- the  hall  of  residence  membership  of  the  student  shall  be  terminated  by  the  principal  due  to  arrears,  after warning  the  parents  or  the  student,  in  case  of  adult  students  with  no  effect,  following  the  evaluation  of  the student's social conditions, on the day of the decision on the termination takes force,
+c) the hall of residence membership of the student shall be terminated by the principal due to arrears, after warning the parents or the student, in case of adult students with no effect, following the evaluation of the student's social conditions, on the day of the decision on the termination takes force,
 
-d) in  case  the  student,  or  the  parent  of  a  minor  student,  disclaim  in  written  form  the  hall  of  residence membership of the student, on the day as defined in the writing,
+d) in case the student, or the parent of a minor student, disclaim in written form the hall of residence membership of the student, on the day as defined in the writing,
 
 35
 
@@ -1718,9 +1725,9 @@ d) in  case  the  student,  or  the  parent  of  a  minor  student,  disclaim  i
 
 [[START OF PAGE 36]]
 
-- in case the student is taken over by another hall of residence, on the day of takeover.
+e) in case the student is taken over by another hall of residence, on the day of takeover.
 
-- The  stipulations  of  paragraph  (8) b)-c) shall  not  apply  in  case  the  student  becomes  unable  to  fulfil  the compulsory education without his/her membership in the hall of residence. In case the student is admitted on the initiative of the guardianship authority, stipulations of a paragraph (8) c) shall not apply while d) shall apply with the  consent  of  the  guardianship  authority.  Stipulations  of  point c) shall  not  apply  in  case  of  disadvantaged students.
+(9) The stipulations of paragraph (8) b)–c) shall not apply in case the student becomes unable to fulfil the compulsory education without his/her membership in the hall of residence. In case the student is admitted on the initiative of the guardianship authority, stipulations of a paragraph (8) c) shall not apply while d) shall apply with the consent of the guardianship authority. Stipulations of point c) shall not apply in case of disadvantaged students.
 
 (10) The pre-school education, student status or hall of residence membership shall cease in case the educational institution is terminated without legal successor.
 
@@ -1728,31 +1735,31 @@ d) in  case  the  student,  or  the  parent  of  a  minor  student,  disclaim  i
 
 ### Section 54
 
-- The teacher shall, except for the stipulations of paragraph (3), regularly evaluate the student's performance and progress in form of grades throughout the teaching year and rate it in forms of marks at the end of the term and  the  teaching  year.  The  class  head  shall  evaluate  and  rate  the  behaviour  and  diligence  of  the  student,  in consultation with the teachers of the class. The student / parents of minor students shall be notified about the grades. The marks at the end of the term and the teaching year shall be determined on the basis of the grades. The grades received throughout the year and the marks at the end of the year shall be accompanied by oral and written evaluations. The school shall inform the student / the parents of minor students about the grades at the end of the term through a note, and at the end of the year through a school report. Notes may be issued more frequently as well, in line with the pedagogical programme of the institution. Grades and marks shall not be used as disciplinary tools to assess and evaluate the student's performance and diligence.
+(1) The teacher shall, except for the stipulations of paragraph (3), regularly evaluate the student's performance and progress in form of grades throughout the teaching year and rate it in forms of marks at the end of the term and the teaching year. The class head shall evaluate and rate the behaviour and diligence of the student, in consultation with the teachers of the class. The student / parents of minor students shall be notified about the grades. The marks at the end of the term and the teaching year shall be determined on the basis of the grades. The grades received throughout the year and the marks at the end of the year shall be accompanied by oral and written evaluations. The school shall inform the student / the parents of minor students about the grades at the end of the term through a note, and at the end of the year through a school report. Notes may be issued more frequently as well, in line with the pedagogical programme of the institution. Grades and marks shall not be used as disciplinary tools to assess and evaluate the student's performance and diligence.
 
-- Grades and marks shall be as follows:
+(2) Grades and marks shall be as follows:
 
-- evaluation and assessment of the student's knowledge: excellent (5), good (4), average (3), satisfactory (2), unsatisfactory (1),
+a) evaluation and assessment of the student's knowledge: excellent (5), good (4), average (3), satisfactory (2), unsatisfactory (1),
 
-- evaluation and assessment of the student's behaviour: exemplary (5), good (4), variable (3), bad (2),
+b) evaluation and assessment of the student's behaviour: exemplary (5), good (4), variable (3), bad (2),
 
-- evaluation and assessment of the student's diligence: exemplary (5), good (4), variable (3), negligent (2).
+c) evaluation and assessment of the student's diligence: exemplary (5), good (4), variable (3), negligent (2).
 
-- In the first teaching year, at mid-term and at the end of the year, in the second teaching year at mid-term a written assessment shall be used to express if the student performed excellently, well, sufficiently or if he/she needs support in form of coaching.
+(3) In the first teaching year, at mid-term and at the end of the year, in the second teaching year at mid-term a written assessment shall be used to express if the student performed excellently, well, sufficiently or if he/she needs support in form of coaching.
 
-- At  the  end  of  the  second  year  and  in  higher  years  of  study,  the  mid-term  and  year-end  evaluation  of  the student, based on the approved general curriculum or the permission of the minister responsible for education, the  pedagogical  programme  of  the  school  may  prescribe  a  different  marking  system  from  those  specified  in paragraph (2) or use written assessments. Shall the school not apply the stipulations of paragraphs (1)-(2), but this  form of assessment shall be needed due to a change of school or continuing studies, or on request of the parent or the student, mid-term and year-end assessments by marks shall be prepared. The rules of conversion from the marking system and evaluation applied by the school to marks and grades have to be specified in the local curriculum.
+(4) At the end of the second year and in higher years of study, the mid-term and year-end evaluation of the student, based on the approved general curriculum or the permission of the minister responsible for education, the pedagogical programme of the school may prescribe a different marking system from those specified in paragraph (2) or use written assessments. Shall the school not apply the stipulations of paragraphs (1)–(2), but this form of assessment shall be needed due to a change of school or continuing studies, or on request of the parent or the student, mid-term and year-end assessments by marks shall be prepared. The rules of conversion from the marking system and evaluation applied by the school to marks and grades have to be specified in the local curriculum.
 
-- The  year-end  marks  of  the  students  are  reviewed  by  the  teaching  staff  at  the  assessment  meeting  and  a decision on the student's entering into a higher class is decided upon the basis of the grades made by the teacher, the class head and the lead teacher of the practical training.
+(5) The year-end marks of the students are reviewed by the teaching staff at the assessment meeting and a decision on the student's entering into a higher class is decided upon the basis of the grades made by the teacher, the class head and the lead teacher of the practical training.
 
-- In  case  the  year-end  marks  significantly  differ  from  the  average  of  the  grades  received  throughout  the teaching year to the disadvantage of the student, the teaching staff shall call on the teacher concerned to provide information on the reasons and, if justified, to change his/her decision. Shall the teacher not change the decision and the  teaching  staff  disagrees  with  the  justifications,  the  grade  shall  be  amended  on  the  basis  of  the  marks received throughout the year to the benefit of the student.
+(6) In case the year-end marks significantly differ from the average of the grades received throughout the teaching year to the disadvantage of the student, the teaching staff shall call on the teacher concerned to provide information on the reasons and, if justified, to change his/her decision. Shall the teacher not change the decision and the teaching staff disagrees with the justifications, the grade shall be amended on the basis of the marks received throughout the year to the benefit of the student.
 
-- The stipulations of paragraph (1) shall be applied for the evaluation and assessment of the student, with the exception of stipulations on the application of marks and grades, even if the school does not use the system of marks or grades.
+(7) The stipulations of paragraph (1) shall be applied for the evaluation and assessment of the student, with the exception of stipulations on the application of marks and grades, even if the school does not use the system of marks or grades.
 
-- If the practical training of the student is not conducted by the school, his/her performance, behaviour and diligence in relation to the activities carried out within the framework of practical training shall be assessed by the  leader  of  the  practical  training  in  line  with  the  stipulations  of  paragraph  (2).  The  mid-term  and  year-end grades  shall  be  defined  by  the  organiser  of  the  practical  training  and  the  teaching  staff  shall  decide  on  the students' entering into a higher class and taking his/her vocational tests.
+(8) If the practical training of the student is not conducted by the school, his/her performance, behaviour and diligence in relation to the activities carried out within the framework of practical training shall be assessed by the leader of the practical training in line with the stipulations of paragraph (2). The mid-term and year-end grades shall be defined by the organiser of the practical training and the teaching staff shall decide on the students' entering into a higher class and taking his/her vocational tests.
 
 ### Section 55
 
-- With the exception of the practical training, the principal may exempt the student on his/her request, in case
+(1) With the exception of the practical training, the principal may exempt the student on his/her request, in case
 
 36
 
@@ -1780,9 +1787,9 @@ of  minor student on request of the parents, from participation at the compulsor
 
 (3) With the permission of the principal of the school, the student may fulfil the educational requirements of two or more years within one school year or in a shorter period than prescribed.
 
-- The  student  shall  receive  a  certificate  on  the  fulfilment  of  the  educational  requirements  of  the  individual teaching  years,  the  final  examination,  the  vocational  examination,  the  basic  art  examination  and  the  final  art examination. The certificate shall include the classification of his/her qualifications and skills according to the Hungarian Qualification Framework system and the European Qualification Framework system pursuant to the relevant government decree. The certificate and the document serving as basis for its issue are public documents.
+(4) The student shall receive a certificate on the fulfilment of the educational requirements of the individual teaching years, the final examination, the vocational examination, the basic art examination and the final art examination. The certificate shall include the classification of his/her qualifications and skills according to the Hungarian Qualification Framework system and the European Qualification Framework system pursuant to the relevant government decree. The certificate and the document serving as basis for its issue are public documents.
 
-- Schools  shall  exclusively  use  the  printed  certificate  forms  or  documents  necessary  to  issue  certificates approved by the minister for education; in case of vocational training certificate forms, approved by the minister responsible for vocational and adult training. The manufacturing and distribution of the printed certificate forms and  the  documents  serving  as  basis  for  the  certificate  require  the  permission  of  the  minister  responsible  for education, in case of certificates of vocational training, the permission of the minister responsible for vocational and adult training.
+(5) Schools shall exclusively use the printed certificate forms or documents necessary to issue certificates approved by the minister for education; in case of vocational training certificate forms, approved by the minister responsible for vocational and adult training. The manufacturing and distribution of the printed certificate forms and the documents serving as basis for the certificate require the permission of the minister responsible for education, in case of certificates of vocational training, the permission of the minister responsible for vocational and adult training.
 
 (6) School forms, with the exception of year-end certificates and the certificate on the completion of the state
 
@@ -1812,35 +1819,35 @@ serving as basis for issuing certificates shall in this case be manufactured and
 
 (3)  In  case  the  student  breaches  his/her  obligations  sinfully  and  seriously,  he/she  may  be  punished  with disciplinary sanctions on the basis of a disciplinary procedure by written decision. Disciplinary procedures shall be launched and conducted against the student in case it is required by himself/herself. In case of minor students, this right is exercised by the parent.
 
-- The disciplinary sanctions may be
+(4) The disciplinary sanctions may be
 
-- reprimand,
+a) reprimand,
 
-- severe reprimand,
+b) severe reprimand,
 
-- decrease or withdrawal of certain benefits and allowances,
+c) decrease or withdrawal of certain benefits and allowances,
 
-- transfer to another class, students' group or school,
+d) transfer to another class, students' group or school,
 
-- banning on continuing the school year at the relevant school,
+e) banning on continuing the school year at the relevant school,
 
-- expulsion from the school.
+f) expulsion from the school.
 
-(5) Disciplinary sanctions as defined under paragraph (4) e)-f) and paragraph (7) e) against school-age students shall only be applied in case of extraordinary or repeated misconduct. In this case, parents are obliged to find the student a new school / hall of residence. Should the education of the student at another school / hall of residence on the initiative of the parents not be resolved within fifteen days, the government office shall designate another school and hall of residence within seven days. Disciplinary sanctions as defined under paragraph (4) d) shall be applied in case the principal of the school agreed on the transfer of the student with the principal of the other school.  The  disciplinary  sanctions  under  paragraph  (4) c) shall  not  be  applicable  for  social  benefits  and allowances.
+(5) Disciplinary sanctions as defined under paragraph (4) e)–f) and paragraph (7) e) against school-age students shall only be applied in case of extraordinary or repeated misconduct. In this case, parents are obliged to find the student a new school / hall of residence. Should the education of the student at another school / hall of residence on the initiative of the parents not be resolved within fifteen days, the government office shall designate another school and hall of residence within seven days. Disciplinary sanctions as defined under paragraph (4) d) shall be applied in case the principal of the school agreed on the transfer of the student with the principal of the other school. The disciplinary sanctions under paragraph (4) c) shall not be applicable for social benefits and allowances.
 
 (6) In case the student has concluded a study contract, the responsible territorial chamber shall also be involved in the disciplinary procedure against students of vocational schools.
 
-- The breach of the order of the hall of residence shall result in
+(7) The breach of the order of the hall of residence shall result in
 
-- reprimand,
+a) reprimand,
 
-- severe reprimand,
+b) severe reprimand,
 
-- decrease or withdrawal of certain benefits and allowances,
+c) decrease or withdrawal of certain benefits and allowances,
 
-- transfer to another class, students' group,
+d) transfer to another class, students' group,
 
-- expulsion
+e) expulsion
 
 for the member of the hall of residence.
 
@@ -1886,7 +1893,7 @@ b) if a legally partly or fully incapacitated student caused damage by wilful ac
 
 (2) After the year, the student
 
-- reaches the age of 16, in case of 8 years primary schools,
+a) reaches the age of 16, in case of 8 years primary schools,
 
 b) reaches the age of 21, in case of secondary and vocational schools
 
@@ -1912,7 +1919,7 @@ b) adult education classes of schools established for full-time school-based edu
 
 a) school-based education may be based on the individual sessions of students,
 
-b) in case education is organised according to an education schedule other than the education schedule of fulltime  education,  the  school  days  as  defined  by  the  school  year  regulations  shall  include  the  number  of  days students spend with individual preparation, as required by the school; therefore, regulations concerning the fiveday school week shall not apply,
+b) in case education is organised according to an education schedule other than the education schedule of full-time education, the school days as defined by the school year regulations shall include the number of days students spend with individual preparation, as required by the school; therefore, regulations concerning the five-day school week shall not apply,
 
 c) regulations on non-compulsory classroom activities, split classes, individual sessions or other activities and everyday sports shall not mandatorily apply,
 
@@ -1930,19 +1937,19 @@ d) students may make use of the services offered by pedagogical assistance servi
 
 ### Section 61
 
-- Educational work, pre-school education, school education, hall of residence education, direct activities with pedagogical objectives for children / students within the framework of pedagogical assistance services, shall be conducted via employment as teacher, with the exception of part-time teachers, as public employees or within the framework of employment relationship. No civil law relationship shall be established for employment as a teacher, with the exception of part-time teachers.
+(1) Educational work, pre-school education, school education, hall of residence education, direct activities with pedagogical objectives for children / students within the framework of pedagogical assistance services, shall be conducted via employment as teacher, with the exception of part-time teachers, as public employees or within the framework of employment relationship. No civil law relationship shall be established for employment as a teacher, with the exception of part-time teachers.
 
-- The tasks of pedagogical assistance services and the pedagogical professional services shall be performed by an expert with professional higher education qualifications.
+(2) The tasks of pedagogical assistance services and the pedagogical professional services shall be performed by an expert with professional higher education qualifications.
 
-- Educational  activities,  pedagogical  assistance  services  and  pedagogical  professional  services  shall  be facilitated by qualified professionals. The scope of teachers, heads, and staff directly assisting educational work, all employed by the educational institutions is defined in Annexes 1-3.
+(3) Educational activities, pedagogical assistance services and pedagogical professional services shall be facilitated by qualified professionals. The scope of teachers, heads, and staff directly assisting educational work, all employed by the educational institutions is defined in Annexes 1–3.
 
-- The  work  of  teachers  is  supported  by  professionals  and  special  consultants.  The  duty  of  the  special consultant  is  to  support  and  assess  the  teachers'  work  professionally  (required  in  their  subjects  or  special pedagogical  areas),  organise  consultations,  in-service  trainings  and  professional  workshops.  The  special consultant  performs  his/her  duties  under  central  professional  guidance.  Only  those  may  receive  special consultancy commissions who have the necessary higher education and professional qualification to fill a teacher position,  passed  the  teacher's  specialist  examination,  and  have  at  least  ten  years  professional  experience  in education. The special consultant is employed by the institution offering pedagogic professional services or by an other public education institution or retired from such not earlier than ten years before.
+(4) The work of teachers is supported by professionals and special consultants. The duty of the special consultant is to support and assess the teachers' work professionally (required in their subjects or special pedagogical areas), organise consultations, in-service trainings and professional workshops. The special consultant performs his/her duties under central professional guidance. Only those may receive special consultancy commissions who have the necessary higher education and professional qualification to fill a teacher position, passed the teacher's specialist examination, and have at least ten years professional experience in education. The special consultant is employed by the institution offering pedagogic professional services or by an other public education institution or retired from such not earlier than ten years before.
 
-- Public  institutions  employ  non-teaching  staff  to  fulfil  their  responsibilities  in  financial,  administrative, technical, support and other areas. It is recommended to organize employment in the financial, administrative, technical  and  support  positions  in  line  with  the  responsibilities  to  be  fulfilled;  in  educational  institutions  and pedagogic assistance service institutions operated by the state, with the exception of institutions established and operated by the minister responsible for national defence or law enforcement, the number of non-professional staff working in financial, administrative, technical and support areas shall not exceed 20% of full-time teachers in secondary schools, 30% in vocational schools and 50% in halls of residence.
+(5) Public institutions employ non-teaching staff to fulfil their responsibilities in financial, administrative, technical, support and other areas. It is recommended to organize employment in the financial, administrative, technical and support positions in line with the responsibilities to be fulfilled; in educational institutions and pedagogic assistance service institutions operated by the state, with the exception of institutions established and operated by the minister responsible for national defence or law enforcement, the number of non-professional staff working in financial, administrative, technical and support areas shall not exceed 20% of full-time teachers in secondary schools, 30% in vocational schools and 50% in halls of residence.
 
 (6) The type and the nature of the work conducted in public education institutions shall not change according to the operator of the public education institution.
 
-- In case of employment in public education institutions there is no conflict of interests if heads at the higher level,  heads  and  administrators  responsible  for  finance  enter into  relationship  pertaining  to  controlling, supervisory, audit or accounting with a close relative as defined by the Labour Code.
+(7) In case of employment in public education institutions there is no conflict of interests if heads at the higher level, heads and administrators responsible for finance enter into relationship pertaining to controlling, supervisory, audit or accounting with a close relative as defined by the Labour Code.
 
 ## 35. Obligations and Rights of the Teacher
 
@@ -1954,11 +1961,11 @@ a) to guarantee though his/her educational activity the development of the child
 
 b) to deal individually with children requiring special treatment if necessary, to cooperate with the special needs teacher  or  other  professionals  facilitating  education,  and  to  enable  bridging  the  gap  for  children  /  students disadvantaged for any reason,
 
-- to help to recognise talent, their promotion and to register talented or gifted students,
+c) to help to recognise talent, their promotion and to register talented or gifted students,
 
-- to  facilitate  the  moral  development  of  the  child  /  student  to  help  him/her  acquire  the  behavioural  rules  of cooperation in a community and to help him/her make efforts to respect such rules,
+d) to facilitate the moral development of the child / student to help him/her acquire the behavioural rules of cooperation in a community and to help him/her make efforts to respect such rules,
 
-- to teach children / students to love and respect each other, to get acquainted with and respect the values of family life, to cooperate, to be environmentally conscious, to live a healthy life and to be a patriot,
+e) to teach children / students to love and respect each other, to get acquainted with and respect the values of family life, to cooperate, to be environmentally conscious, to live a healthy life and to be a patriot,
 
 40
 
@@ -2006,7 +2013,7 @@ r) to cooperate with colleagues and other institutions for the benefit of the ch
 
 (8) Bound working time in pre-school institutions shall be spent on direct activities with the children covering the complete spectrum of pre-school life.
 
-(9) The working time devoted to education of the pre-school lead teacher in a educational institutions for preschool teacher training practice shall be 60% of his/her total working hours, in other educational institutions for teacher training practice / special assistance service training institutions, 30% of his/her total working time.
+(9) The working time devoted to education of the pre-school lead teacher in a educational institutions for pre-school teacher training practice shall be 60% of his/her total working hours, in other educational institutions for teacher training practice / special assistance service training institutions, 30% of his/her total working time.
 
 (10) In adapted physical and conductive educational institutions 50% of the working time of teachers in teaching position shall be devoted to educational activities.
 
@@ -2074,13 +2081,13 @@ k) to contact the ombudsman for education rights.
 
 (4) Employees in teacher position shall reach the following grades on the basis of their qualification required to fulfil  their  position  under  the  regulations  of  this  Act,  state-approved  professional  qualification,  professional qualification, PhD / other university degree directly connected to and supporting the educational activities, and their membership in the academy, professional experience, publications, qualifying examination and qualifications granted within the framework of qualification procedures:
 
-- Trainee,
+a) Trainee,
 
-- Teacher I.,
+b) Teacher I.,
 
-- Teacher II.,
+c) Teacher II.,
 
-- Master teacher,
+d) Master teacher,
 
 e) Teacher-researcher.
 
@@ -2090,7 +2097,7 @@ e) Teacher-researcher.
 
 (7) During the qualification procedure all teachers shall be subject to uniform and public rules. The qualifying board shall examine the complete scope of activities of the trainee teacher with special attention to the fulfilment of responsibilities as described in statutory provisions and the teacher's job description.
 
-- In  case  the  trainee,  in  line  with  the  stipulations  of  the  a  separate  legal  regulation,  or  the  teacher  in  grade Teacher I has been assessed at a qualifying examination as 'unsatisfactory', his/her public employee status or employment  relationship  shall  cease  under  the  force  this  Act.  The  public  employee  status  or  employment relationship shall cease upon the tenth day of the notification of the results of the qualifying examination of the repeated qualification procedure.
+(8) In case the trainee, in line with the stipulations of the a separate legal regulation, or the teacher in grade Teacher I has been assessed at a qualifying examination as 'unsatisfactory', his/her public employee status or employment relationship shall cease under the force this Act. The public employee status or employment relationship shall cease upon the tenth day of the notification of the results of the qualifying examination of the repeated qualification procedure.
 
 (9) The teacher may request the Court within 30 days upon notification of the qualifying examination results to cancel  the  mistaken  or  untrue  conclusions  of  the  qualifying  examination  and  qualification  procedure  or  the statements infringing his/her personal rights.
 
@@ -2144,7 +2151,7 @@ a) tertiary qualification and professional qualification, as enlisted under Anne
 
 b) qualification for head of institutions within the framework of teacher's specialist examination,
 
-- at least five years professional experience in teacher position,
+c) at least five years professional experience in teacher position,
 
 d) existing  full-time  employment  as  a  teacher  at  an  educational  institution  for  an  indefinite  time  or  full-time employment as a teacher for an indefinite time parallel with the commission.
 
@@ -2182,39 +2189,39 @@ d) existing  full-time  employment  as  a  teacher  at  an  educational  institu
 
 ### Section 69
 
-- The head of the public education institution shall
+(1) The head of the public education institution shall
 
-- be responsible for the professional and legal operations and finances of the institution,
+a) be responsible for the professional and legal operations and finances of the institution,
 
-- exercise the employer's rights,
+b) exercise the employer's rights,
 
-- decide on every issue in connection with the operations of the institution, not delegated to the competence of others by law, collective agreement or public employees' regulation,
+c) decide on every issue in connection with the operations of the institution, not delegated to the competence of others by law, collective agreement or public employees' regulation,
 
-- be responsible for the preparation of the institutional regulations,
+d) be responsible for the preparation of the institutional regulations,
 
-- approve the pedagogical programme of the institution,
+e) approve the pedagogical programme of the institution,
 
-- represent the institution.
+f) represent the institution.
 
-- The head of the education institution shall be responsible for
+(2) The head of the education institution shall be responsible for
 
-- the pedagogical work,
+a) the pedagogical work,
 
-- leading the teaching staff,
+b) leading the teaching staff,
 
-- the preparation, implementation, professional organisation and control of decisions within the jurisdiction of the teaching staff,
+c) the preparation, implementation, professional organisation and control of decisions within the jurisdiction of the teaching staff,
 
-- providing for the personnel and material conditions required by the operations of the educational institution on the basis of the available budget,
+d) providing for the personnel and material conditions required by the operations of the educational institution on the basis of the available budget,
 
-- the worthy organisation of national and school festivities aligned to the working order,
+e) the worthy organisation of national and school festivities aligned to the working order,
 
-- the organisation and provision of child and youth protection responsibilities,
+f) the organisation and provision of child and youth protection responsibilities,
 
-- the provision of healthy and safe working conditions for education,
+g) the provision of healthy and safe working conditions for education,
 
-- the  appropriate cooperation with the school board, the employees' interest representation organisations and student councils, parent organisations,
+h) the appropriate cooperation with the school board, the employees' interest representation organisations and student councils, parent organisations,
 
-- the prevention of accidents of students / children,
+i) the prevention of accidents of students / children,
 
 45
 
@@ -2222,13 +2229,13 @@ d) existing  full-time  employment  as  a  teacher  at  an  educational  institu
 
 [[START OF PAGE 46]]
 
-- the organisation of regular health checks for children / students,
+j) the organisation of regular health checks for children / students,
 
-- the compliance with and the requirement of compliance with the teacher's norms of ethics.
+k) the compliance with and the requirement of compliance with the teacher's norms of ethics.
 
-- Within the scope of his/her responsibilities for pedagogical work, the head of the public education institution shall be entitled to ask external experts to launch a professional control in order to assess the education or the quality of the work of individual employees.
+(3) Within the scope of his/her responsibilities for pedagogical work, the head of the public education institution shall be entitled to ask external experts to launch a professional control in order to assess the education or the quality of the work of individual employees.
 
-- The work of the head of the educational institution shall be assessed by the teaching staff and community of parents in the second and the fourth year of his/her mandate through an anonymous questionnaire survey. The national pedagogical-professional audit shall consider the result of the questionnaire-based survey in the control and evaluation of the work of the head of the institution.
+(4) The work of the head of the educational institution shall be assessed by the teaching staff and community of parents in the second and the fourth year of his/her mandate through an anonymous questionnaire survey. The national pedagogical-professional audit shall consider the result of the questionnaire-based survey in the control and evaluation of the work of the head of the institution.
 
 (5) The head of the educational institution shall be entitled to determine at his/her own discretion the use and arrangement of his/her working time beyond the responsibilities on classroom lessons / activities as defined by Annex 5.
 
@@ -2240,41 +2247,41 @@ d) existing  full-time  employment  as  a  teacher  at  an  educational  institu
 
 (1) The teaching staff is the most important consulting and decision-making body of the educational institution. The teaching staff has the right to decide on educational issues, on issues in connection with the operations of the educational institution, and on issues as defined in this Act and other statutory provisions; in other issues it has the right to express opinion and submit proposals.
 
-- The teaching staff shall decide on
+(2) The teaching staff shall decide on
 
-- the approval of the pedagogical programme,
+a) the approval of the pedagogical programme,
 
-- the approval of the OOR,
+b) the approval of the OOR,
 
-- the approval of the annual work plan of the educational institution,
+c) the approval of the annual work plan of the educational institution,
 
-- the approval of comprehensive analyses, evaluations and reports on the work of the educational institution,
+d) the approval of comprehensive analyses, evaluations and reports on the work of the educational institution,
 
-- the approval of in-service training programme,
+e) the approval of in-service training programme,
 
-- the selection of the teacher representing the teaching staff,
+f) the selection of the teacher representing the teaching staff,
 
-- the approval of the school regulations,
+g) the approval of the school regulations,
 
-- the admission of students to higher classes, admission of students to marking examination,
+h) the admission of students to higher classes, admission of students to marking examination,
 
-- disciplinary cases of students,
+i) disciplinary cases of students,
 
-- the  content  of  the  expert  opinion  related  to  the  managerial  programme  prepared  for  the  application  for  the position of the head of an institution or institution unit,
+j) the content of the expert opinion related to the managerial programme prepared for the application for the position of the head of an institution or institution unit,
 
-- other issues as defined by legal regulations.
+k) other issues as defined by legal regulations.
 
-- The teaching staff may express their opinion and submit proposals on every issue related to the operation of the educational institution. The teaching staff shall be requested for opinion on issues as defined in a separate legal provision.
+(3) The teaching staff may express their opinion and submit proposals on every issue related to the operation of the educational institution. The teaching staff shall be requested for opinion on issues as defined in a separate legal provision.
 
-- A teaching staff composed of the head of institution and the staff, as listed in Section 4 (18), employed
+(4) A teaching staff composed of the head of institution and the staff, as listed in Section 4 (18), employed
 
-- at  the  institution  unit, shall act in matters which affect only one institution unit performing the tasks of an educational institution,
+a) at the institution unit, shall act in matters which affect only one institution unit performing the tasks of an educational institution,
 
-- at  every  institution  unit  concerned,  shall  act  in  matters  which  affect  more  institution  units  performing  the tasks of an educational institution
+b) at every institution unit concerned, shall act in matters which affect more institution units performing the tasks of an educational institution
 
-- at educational institutions under joint management in and general community centres.
+at educational institutions under joint management in and general community centres.
 
-- Part-time teachers do not have the right to vote in matters falling within the jurisdiction of the teaching staff in decision-making, with the exception of matters under (2) h)-i) .
+(5) Part-time teachers do not have the right to vote in matters falling within the jurisdiction of the teaching staff in decision-making, with the exception of matters under (2) h)–i).
 
 (6) The professional staff meeting shall exercise the privileges of the teaching staff, except for those related to a student  status,  on  issues  concerning  the  whole  of  the  institution,  at  institutions,  institution  units,  member institutions of public education, which are not educational institutions, as well as institutions of public education under joint management and general community centres.
 
@@ -2308,7 +2315,7 @@ a) to  provide  for  the  necessary  conditions  required  by  the  intellectual
 
 b) to guarantee that their children participate in pre-school education and complete the compulsory education,
 
-- to respect the human dignity and rights of the management, the teachers and staff of the pre-school institution, school or hall of residence and show respect for them.
+c) to respect the human dignity and rights of the management, the teachers and staff of the pre-school institution, school or hall of residence and show respect for them.
 
 (2) Parents have the right to the freely choose a pre-school, school or a hall of residence in compliance with their  children's  abilities,  skills  and  interests  and  their  own  religious,  and  ideological  convictions  and  their nationality. After the child reaches the age of fourteen, and does not lack legal capacity, parents may exercise this right jointly with their children.
 
@@ -2316,7 +2323,7 @@ b) to guarantee that their children participate in pre-school education and comp
 
 (4) Parents have the right to make use of the pedagogical assistance services for the education of their children. It is the obligation of the parents to appear in the educational guidance, and ensure that their children appear and participate in the school / pre-school psychological examination and developmental activities, in case this was proposed by the teaching staff on initiative of teachers dealing with the student. Shall the parents fail to fulfil the obligations as described in this paragraph, the municipal clerk shall oblige them to do so.
 
-- Parents shall have the right, in particular
+(5) Parents shall have the right, in particular
 
 a) to become acquainted with the pedagogical programme of the educational institution, as well as the school regulations and to receive information on their contents,
 
@@ -2324,15 +2331,11 @@ b) to regularly receive detailed and relevant information about their children's
 
 c) to initiate the establishment of a pre-school board, school board and hall of residence board, and to participate in its activities, furthermore to participate in the election of parents' representatives as a person to elect and to be elected,
 
-d) to have their written proposal examined by the head of the educational institution, the teaching staff, the preschool board, school board, hall of residence board and the teacher and receive a substantive response within fifteen days after the request from the pre-school board, the school board or the hall of residence board in the first session following the fifteenth day at the latest,
+d) to have their written proposal examined by the head of the educational institution, the teaching staff, the pre-school board, school board, hall of residence board and the teacher and receive a substantive response within fifteen days after the request from the pre-school board, the school board or the hall of residence board in the first session following the fifteenth day at the latest,
 
 e) to participate in activities with the consent of the head of the educational institution or the teacher,
 
-to participate in the decision-making affecting their interests and in the control of the educational institution in
-
-f)
-
-person or through their representatives, in line with statutory provisions,
+f) to participate in the decision-making affecting their interests and in the control of the educational institution in person or through their representatives, in line with statutory provisions,
 
 g) to appeal to the commissioner for educational rights.
 
@@ -2384,7 +2387,7 @@ e) pre-schools, schools and halls of residence for children and students with sp
 
 (6)  The  Budapest  Municipality  may  also  take  over  the  operation  of  institutions  listed  in  paragraph  (4)  in Budapest,  if  the  district  local  government  has  not  submitted  a  request  in  this  regard  in  respect  of  the  given institution.
 
-(7) The minority self-government may take over the right to operate institutions established to provide preschool and primary school education for children belonging to the minority from the state by concluding a public education agreement.
+(7) The minority self-government may take over the right to operate institutions established to provide pre-school and primary school education for children belonging to the minority from the state by concluding a public education agreement.
 
 ### Section 75
 
@@ -2854,7 +2857,7 @@ b) the national minority self-government must be notified about the professional
 
 (4)  The  amount  of  budgetary  funding  shall  cover  the  remuneration  and  salary  -  including  taxes  and contributions  -  paid  to  teachers  and  employees  directly  involved  in  the  provision  of  educational  activities required for operating the educational institution and the pedagogical professional service. A separate legislation shall define the timeframes of services provided within the framework of the pedagogical professional service. The operator shall conclude a vocational training agreement with the Government Office, which shall constitute a precondition for using budgetary funding in the case of vocational schools not operated by the state.
 
-(5) Funding for educational activities provided by institutions operated by churches, as well as minority selfgovernments  from  the  budget  shall  be  allocated  on  the  grounds  of  general  rules  applicable  to  state-financed institutions and at an identical rate.
+(5) Funding for educational activities provided by institutions operated by churches, as well as minority self-governments from the budget shall be allocated on the grounds of general rules applicable to state-financed institutions and at an identical rate.
 
 ### Section 89
 
@@ -3058,7 +3061,7 @@ q) designation of the authority or authority authorised to impose penalties defi
 
 r) rules regulating classification of qualifications certified by certificates and vocational certificates according the Hungarian Qualification Framework System.
 
-(5) The opinion of the national minority self-government must be obtained in matters pertaining to the preschool and school education of students affiliated to minorities to submit the government decrees set out under points a) to c) and f) of paragraph (4).
+(5) The opinion of the national minority self-government must be obtained in matters pertaining to the pre-school and school education of students affiliated to minorities to submit the government decrees set out under points a) to c) and f) of paragraph (4).
 
 ## 53. Entry into Force
 
@@ -3138,7 +3141,7 @@ r) rules regulating classification of qualifications certified by certificates a
 
 (12) Six or eight-grade secondary schools already operating when this Act enters into force shall comply with the requirements set out in a separate piece of legislation by the end of the 2016/2017 school year.
 
-(13) Requirements set out in separate legislation shall be satisfied in language preparatory classes (grades) with  the  exception  of  minority  education  -  already  operating  upon  the  entry  into  force  of  this  Act  as  well  as bilingual  education  as  of  the  end  of  the  2014/2015  school  year.  Language  preparation  classes  or  bilingual education  shall  be  phased  out  in  an  ascending  system  in  institutions  that  fail  to  satisfy  conditions  defined  in separate legislation.
+(13) Requirements set out in separate legislation shall be satisfied in language preparatory classes (grades) – with the exception of minority education – already operating upon the entry into force of this Act as well as bilingual education as of the end of the 2014/2015 school year. Language preparation classes or bilingual education shall be phased out in an ascending system in institutions that fail to satisfy conditions defined in separate legislation.
 
 (14) The school shall review its pedagogical programme up to 31 December 2012 in order to comply with the Act on the General Curriculum, as well as the provisions of this Act.
 
@@ -3190,13 +3193,13 @@ c) higher education certificates certifying teaching instructor, assistant teach
 
 d) Physical education teaching qualifications issued prior to the entry into force of Decree 16 of 1975 by the Hungarian Physical Education College shall be accepted as higher education degrees and qualifications.
 
-(9) In accordance with legislation regulating education and training, technology teacher and subject teacher certificates and diplomas shall be accepted as college degrees corresponding to the field of specialisation when filling  practical  teaching  positions.  When  making  appointments,  technology  teaching  certificates  acquired  by completing a training course without attesting higher education qualifications shall be accepted as secondarylevel qualifications corresponding to the field of specialisation of the training programme.
+(9) In accordance with legislation regulating education and training, technology teacher and subject teacher certificates and diplomas shall be accepted as college degrees corresponding to the field of specialisation when filling practical teaching positions. When making appointments, technology teaching certificates acquired by completing a training course without attesting higher education qualifications shall be accepted as secondary-level qualifications corresponding to the field of specialisation of the training programme.
 
 (10)  If  Hungarian higher education educational programmes corresponding to the field of specialisation are not available, individuals may - with the exception of practical training with a sound theoretical basis - also be employed for a definite period; moreover, individuals with secondary school qualifications and a master's exam may engage in public education consultancy and individuals with advanced level vocational qualifications may engage in folk music and entertainment music educational programmes.
 
 ### Section 99
 
-(1) Certificates issued by the National Shorthand and Typing Committee authorising its holder to teach shorthand and typing shall qualify as a higher education degree authorising its holder to fill teaching positions in this specific field.
+(1) Certificates issued by the National Shorthand and Typing Committee authorising its holder to teach short-hand and typing shall qualify as a higher education degree authorising its holder to fill teaching positions in this specific field.
 
 (2)  Individuals  with  a  secondary  school  leaving  examination  certificate  and  a  minimum  of  10  years  of professional  experience  in  the  artistic  field  may  also  be  employed  for  a  definite  period  in  practical  acrobat training programmes.
 
@@ -3208,7 +3211,7 @@ d) Physical education teaching qualifications issued prior to the entry into for
 
 (3) If Hungarian higher education educational programmes corresponding to the field of specialisation are not available,  or  teachers  with  suitable  degree  and  qualifications  are  unable  to  assume  the  task,  individuals authorised to fill teaching positions in pre-schools, schools and halls of residence in accordance with Annex 3 to this Act or transitional regulations or exceptions may fill teaching positions in minority pre-school, school and hall  of  residence  educational  programmes,  which  individuals  must  at  least  also  hold  complex  advanced  level language exams recognised by the state or equivalent certificates.
 
-(4)  Individuals  with  technical  instructor,  technician  instructor  and  subject  teacher  certificates  and  diplomas corresponding to the field of specialisation - in accordance with legislation governing training and education or who have obtained a technical instructor teaching degree not certifying higher educational qualifications by completing  a  course  or  a  certificate  issued  by  the  National  Shorthand  Typing  and  Stenography  Committee authorising  its  holder  to  teach  short-hand  typing  and  stenography  and  at  least  a  complex  intermediate  level language  exam  recognised  by  the  state  or  equivalent  certificate  may  fill  teaching  positions  teaching  practical skills within the scope of minority vocational education.
+(4) Individuals with technical instructor, technician instructor and subject teacher certificates and diplomas corresponding to the field of specialisation – in accordance with legislation governing training and education – or who have obtained a technical instructor teaching degree not certifying higher educational qualifications by completing a course or a certificate issued by the National Shorthand Typing and Stenography Committee authorising its holder to teach short-hand typing and stenography and at least a complex intermediate level language exam recognised by the state or equivalent certificate may fill teaching positions teaching practical skills within the scope of minority vocational education.
 
 (5) Individuals with complex advanced level language exams recognised by the state or equivalent certificates may be employed to teach minority languages in the case of Bulgarian, Roma (Romani or Beas), Greek, Polish, Armenian, Ruthenian and Ukrainian.
 
@@ -3256,7 +3259,7 @@ b) Article  24  of  European  Parliament  and  Council  Directive  2004/38/EC  o
 
 [[START OF PAGE 68]]
 
-- Paragraph s  (1)  to  (2)  of  Article  10  of  Council  Directive  2003/9/EC  of  27  January  2003  laying  down minimum standards for the reception of asylum seekers in member states.
+c) Paragraphs (1) to (2) of Article 10 of Council Directive 2003/9/EC of 27 January 2003 laying down minimum standards for the reception of asylum seekers in member states.
 
 Dr Pál Schmitt President of Hungary
 
@@ -3266,7 +3269,7 @@ László Kövér Speaker of the National Assembly
 
 ## Compulsory number of management staff employed in public education institutions
 
-A | B | C
+ | A | B | C
 --- | --- | --- | ---
 1 | Senior management and management positions | Requirement | Number of staff
 2 | Director of the institution | Per institution | 1
@@ -3284,12 +3287,12 @@ A | B | C
 
 ## Number of financed employees directly assisting educational work
 
-A | B | C
+ | A | B | C
 --- | --- | --- | ---
 1 | Job | Condition | Number
 2 | Pre-school secretary, school secretary, hall of residence secretary | Per institution where the number of children, students reaches 100; 450 per child, student, independent hall of residence secretary, as well as per hall of residence institutional unit operating outside the seat | 1
 3 | Pre-school nanny | Per group | 1
-4 | Pre-school caregiver and cleaner | Per institution and per site with at least 3 pre- school groups | 1
+4 | Pre-school caregiver and cleaner | Per institution and per site with at least 3 pre-school groups | 1
 5 | Laboratory assistant from fifth grade primary school | Per 250 students | 1
 6 | Pre-school teacher's assistant | Per 3 pre-school groups | 1
 7 | School teacher's assistant | Per 100 students | 1
@@ -3306,7 +3309,7 @@ A | B | C
 10 | Librarian or librarian teacher | 1-100 students | 0,5
 11 | Librarian or librarian teacher | 101-500 students | 1
 12 | Librarian or librarian teacher | Over 500 students | 2
-13 | Specialist teacher | Independent to profession
+13 | Specialist teacher | Independent to profession |
 14 | Specialist physician, exclusively in institutions for children or students with special educational needs | Per 250 children/students | 1
 15 | Child and youth protection supervisor or special education assistant | - | Subject to the operator's decision
 16 | Recreational organiser | - | Subject to the operator's decision
@@ -3320,7 +3323,7 @@ A | B | C
 24 | Nurse in student homes for persons with special educational needs | 1-50 students | 0,5
 25 | Nurse in student homes for persons with special educational needs | 51-500 students | 1
 26 | Nurse in student homes for persons with special educational needs | Over 500 students | 2
-27 | Musical instrument repair person | Primary art schools specialising in music with 1- 200 students | 0,5
+27 | Musical instrument repair person | Primary art schools specialising in music with 1–200 students | 0,5
 28 | Musical instrument repair person | Primary art schools specialising in music with over 200 students | 1
 29 | Life guard | Educational institutions with swimming pools | 1
 30 | Systems administrator | Per institution | 1
@@ -3329,7 +3332,7 @@ A | B | C
 
 ## Qualification and training requirements for teaching positions in educational institutions
 
-A | B | C
+ | A | B | C
 --- | --- | --- | ---
 1 | Stages of educational work/educational institutions | Teaching position | Qualifications required for employment
 2 | Pre-school education | Pre-school teacher | Pre-school teacher training
@@ -3344,22 +3347,22 @@ A | B | C
 
 [[START OF PAGE 70]]
 
-school/secondary education | qualifications or master's degree
+ | school/secondary education |  | qualifications or master's degree
 --- | --- | --- | ---
 7 | Secondary education in vocational schools/Grades 9-11 | Teacher | Subject teacher
 8 | Preparatory stage of obtaining educational qualifications | Teacher in vocational theory education | Subject teacher
-9 | Preparatory stage of obtaining educational qualifications | Subject teacher, specialised teacher, practical teacher | Subject teacher, special subject teacher with higher education qualifications in the field of specialisation, secondary school qualifications and at least an intermediate- level vocational qualifications recognised by the state in the field of specialisation, as well as a minimum of 5 years of professional experience in the given field
+9 | Preparatory stage of obtaining educational qualifications | Subject teacher, specialised teacher, practical teacher | Subject teacher, special subject teacher with higher education qualifications in the field of specialisation, secondary school qualifications and at least an intermediate-level vocational qualifications recognised by the state in the field of specialisation, as well as a minimum of 5 years of professional experience in the given field
 10 | Primary art school and secondary vocational school of art | Teacher | Subject teacher qualified to teach art; artists in the given art field
 11 | Art vocational school | Teacher | Subject teacher with university or master's degree in teaching; artists in the given art field
 12 | Hall of residence | Hall of residence teacher | Hall of residence teacher, special education teacher, social pedagogue, teacher organising recreational activities, educational and career guidance teacher, talent developing teacher, religion teacher, teacher aligned to the pedagogical stage of the education work
 13 | In primary school advanced level education of arts, foreign language and literature, and minority language and literature | Teacher | Subject teacher
-14 | Librarian low grade teacher | Librarian, teacher, IT librarian and teacher or teacher or social pedagogue
-15 | School psychologist | Psychologist and teacher, psychologist specialising in counselling and school psychology
-16 | Developmental teacher | Any teacher (pre-school, primary school, social pedagogue) with qualifications authorising its holder to hold individual and group sessions for screening children and students with learning, behavioural and adjustment problems; special education teacher specialising in children with learning disabilities, speech therapy or psycho- pedagogy.
-17 | Social pedagogue | Social pedagogue
-18 | Conductor teacher | Conductor (teacher) Conductor (pre-school teacher)
-19 | Speech therapist | Special education teacher specialising in speech therapy
-20 | Special education teacher | Special education teacher specialising in the area aligned to the type of disability; special education teacher with a university or master's degree
+14 |  | Librarian low grade teacher | Librarian, teacher, IT librarian and teacher or teacher or social pedagogue
+15 |  | School psychologist | Psychologist and teacher, psychologist specialising in counselling and school psychology
+16 |  | Developmental teacher | Any teacher (pre-school, primary school, social pedagogue) with qualifications authorising its holder to hold individual and group sessions for screening children and students with learning, behavioural and adjustment problems; special education teacher specialising in children with learning disabilities, speech therapy or psycho-pedagogy.
+17 |  | Social pedagogue | Social pedagogue
+18 |  | Conductor teacher | Conductor (teacher) Conductor (pre-school teacher)
+19 |  | Speech therapist | Special education teacher specialising in speech therapy
+20 |  | Special education teacher | Special education teacher specialising in the area aligned to the type of disability; special education teacher with a university or master's degree
 21 | Minority pre-school education | Minority pre-school teacher | Minority pre-school teacher
 22 | Minority primary school education | Minority teacher | Minority teacher
 23 | Minority education in Grades 5-12 | Cultural domain subject teacher teaching in the minority language | Subject teacher and teacher authorised to teach in the given language of instruction, or qualified language teacher or teacher holding a minimum intermediate-level state language proficiency certificate the given language; teacher's degree or qualification authorising its holder to teach the given subject in the given year based on the certificate accredited
@@ -3370,7 +3373,7 @@ school/secondary education | qualifications or master's degree
 
 [[START OF PAGE 71]]
 
-in Hungary
+ |  |  | in Hungary
 --- | --- | --- | ---
 24 | Minority education in Grades 5-12 | Minority language teacher | Minority language teacher
 25 | In every type of school and grade | Foreign language teacher | Foreign language teacher
@@ -3382,10 +3385,10 @@ in Hungary
 
 ## Number of children/students in the class and group
 
-A | B
+ | A | B |  |
 --- | --- | --- | --- | ---
-1 | Type of institution/education | Number of children/students per class or group
-2 | BA minimum | BB maximum | BC average
+1 | Type of institution/education | Number of children/students per class or group |  |
+2 |  | BA minimum | BB maximum | BC average
 3 | Pre-school | 13 | 25 | 20
 4 | Special education class | 5 | 13 | 9
 5 | Primary school Grades 1-4 | 14 | 27 | 23
@@ -3406,8 +3409,8 @@ A | B
 
 ## Number of classes per week of the director of the institution (number of pre-school activities in the case of pre-school teachers)
 
-A | B | C | D | E
---- | --- | --- | --- | ---
+ | A | B | C | D | E
+--- | --- | --- | --- | --- | ---
 
 71
 
@@ -3429,7 +3432,7 @@ A | B | C | D | E
 
 ## Number of classes per week of the deputy director of the institution, director of the member institution, deputy director of the member institutions and deputy of the institutional unit (number of pre-school activities in the case of pre-school teachers)
 
-A | B | C | D | E
+ | A | B | C | D | E
 --- | --- | --- | --- | --- | ---
 1 | Type of institution | At least 450 children enrolled | 200-449 children enrolled | 50-199 children enrolled | Under 50 children enrolled
 2 | Pre-school | 20 | 22 | 24 | 26
@@ -3446,10 +3449,10 @@ A | B | C | D | E
 
 ## Weekly time frame of financed activities for children and students
 
-A | B | C | D | E
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-1 | Grade | Number of classes per week | Weekly | timeframe of | classes | Number of extra classes in minority school educatio n | Number of healthcare and pedagogical habilitation and rehabilitation classes per week for students with special educational needs
-2 | BA without P.T. | BB P.T. | BC classes with P.T. | CA author- ized | CB extra religion classes in | CC extra classes in 6 and 8 | DA minority | EA mentally disabled | EB sight disabil- ity | EC visual, hearing | EE deaf and autistic | EF other
+ | A | B |  |  | C |  |  | D | E |  |  |  |
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+1 | Grade | Number of classes per week |  |  | Weekly timeframe of the classes |  |  | Number of extra classes in minority school education | Number of healthcare and pedagogical habilitation and rehabilitation classes per week for students with special educational needs |  |  |  |
+2 |  | BA without P.T. | BB P.T. | BC classes with P.T. | CA authorized | CB extra religion classes in | CC extra classes in 6 and 8 | DA minority | EA mentally disabled | EB sight disability | EC visual, hearing | EE deaf and autistic | EF other
 
 72
 
@@ -3457,18 +3460,18 @@ A | B | C | D | E
 
 [[START OF PAGE 73]]
 
-religious educational institutions | grade secondary schools | impair- ment, motor and speech impair- ment
+ |  |  |  |  |  | religious educational institutions | grade secondary schools |  |  |  | impairment, motor and speech impairment |  |
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-3 | Pre-school | 61 | 61 | 61 | 2
-4 | 1st grade | 20 | 5 | 25 | 52 | 1 | 2 | 3 | 7 | 8 | 10 | 3
-5 | 2nd grade | 20 | 5 | 25 | 52 | 1 | 2 | 3 | 7 | 8 | 10 | 3
-6 | 3rd grade | 20 | 5 | 25 | 52 | 1 | 2 | 3 | 7 | 8 | 10 | 3
-7 | 4th grade | 22 | 5 | 27 | 55 | 1 | 2 | 3 | 7 | 8 | 11 | 3
+3 | Pre-school | 61 |  | 61 | 61 | 2 |  |  |  |  |  |  |
+4 | 1st grade | 20 | 5 | 25 | 52 | 1 |  | 2 | 3 | 7 | 8 | 10 | 3
+5 | 2nd grade | 20 | 5 | 25 | 52 | 1 |  | 2 | 3 | 7 | 8 | 10 | 3
+6 | 3rd grade | 20 | 5 | 25 | 52 | 1 |  | 2 | 3 | 7 | 8 | 10 | 3
+7 | 4th grade | 22 | 5 | 27 | 55 | 1 |  | 2 | 3 | 7 | 8 | 11 | 3
 8 | 5th grade | 23 | 5 | 28 | 51 | 1 | 2 | 2 | 3 | 8 | 9 | 11 | 3
 9 | 6th grade | 23 | 5 | 28 | 51 | 1 | 2 | 2 | 3 | 8 | 9 | 11 | 3
 10 | 7th grade | 26 | 5 | 31 | 56 | 1 | 2 | 2 | 4 | 8 | 10 | 12 | 4
 11 | 8th grade | 26 | 5 | 31 | 56 | 1 | 2 | 2 | 4 | 8 | 10 | 12 | 4
-12 | Language preparatory and Bridge grades | 25 | 5 | 30 | 56 | 2 | 3 | 4 | 9 | 10 | 13 | 4
+12 | Language preparatory and Bridge grades | 25 | 5 | 30 | 56 | 2 |  | 3 | 4 | 9 | 10 | 13 | 4
 13 | 9th grade | 30 | 5 | 35 | 57 | 2 | 2 | 3 | 4 | 9 | 10 | 13 | 4
 14 | 10th grade | 31 | 5 | 36 | 57 | 2 | 2 | 3 | 4 | 9 | 11 | 14 | 4
 15 | 11th grade | 30 | 5 | 35 | 58 | 2 | 2 | 3 | 5 | 11 | 12 | 15 | 5
@@ -3478,24 +3481,24 @@ religious educational institutions | grade secondary schools | impair- ment, mot
 
 ## Teachers' guaranteed wages by grade expressed as a percentage of the wage base
 
-A | B | C | D | E | F
---- | --- | --- | --- | --- | --- | ---
-1 | Category/year | Traineeship (%) | Teacher I (%) | Teacher II (%) | Master teacher (%) | Research teacher (%)
-2 | 1. | 0-2/4 | 100
-3 | 2. | 3-5 | 120
-4 | 3. | 6-8 | 130
-5 | 4. | 9-11 | 135 | 150
-6 | 5. | 12-14 | 140 | 155
-7 | 6. | 15-17 | 145 | 160 | 200 | 220
-8 | 7. | 18-20 | 150 | 165 | 205 | 225
-9 | 8. | 21-23 | 155 | 170 | 210 | 230
-10 | 9. | 24-26 | 160 | 175 | 215 | 235
-11 | 10. | 27-29 | 165 | 180 | 220 | 240
-12 | 11. | 30-32 | 170 | 185 | 225 | 245
-13 | 12. | 33-35 | 175 | 190 | 230 | 250
-14 | 13. | 36-38 | 180 | 195 | 235 | 255
-15 | 14. | 39-41 | 185 | 200 | 240 | 260
-16 | 15. | 42-44 | 190 | 205 | 245 | 265
+ | A |  | B | C | D | E | F
+--- | --- | --- | --- | --- | --- | --- | ---
+1 | Category/year |  | Traineeship (%) | Teacher I (%) | Teacher II (%) | Master teacher (%) | Research teacher (%)
+2 | 1. | 0–2/4 | 100 |  |  |  |
+3 | 2. | 3–5 |  | 120 |  |  |
+4 | 3. | 6–8 |  | 130 |  |  |
+5 | 4. | 9–11 |  | 135 | 150 |  |
+6 | 5. | 12–14 |  | 140 | 155 |  |
+7 | 6. | 15–17 |  | 145 | 160 | 200 | 220
+8 | 7. | 18–20 |  | 150 | 165 | 205 | 225
+9 | 8. | 21–23 |  | 155 | 170 | 210 | 230
+10 | 9. | 24–26 |  | 160 | 175 | 215 | 235
+11 | 10. | 27–29 |  | 165 | 180 | 220 | 240
+12 | 11. | 30–32 |  | 170 | 185 | 225 | 245
+13 | 12. | 33–35 |  | 175 | 190 | 230 | 250
+14 | 13. | 36–38 |  | 180 | 195 | 235 | 255
+15 | 14. | 39–41 |  | 185 | 200 | 240 | 260
+16 | 15. | 42–44 |  | 190 | 205 | 245 | 265
 
 # Annex 8 of Act CXC of 2011
 
@@ -3509,7 +3512,7 @@ A | B | C | D | E | F
 
 percentage of the wage base
 
-A | B | C
+ | A | B | C
 --- | --- | --- | ---
 1 | Supplementary payment | Lowest threshold | Highest threshold
 2 | Director of the institution | 40 | 80
