@@ -6,7 +6,7 @@ Tenth consultation of Member States on the application of the Convention and the
 
 ## GUIDELINES FOR THE PREPARATION OF REPORTS BY MEMBER STATES ON THE APPLICATION OF THE 1960 CONVENTION AND RECOMMENDATION AGAINST DISCRIMINATION IN EDUCATION
 
-Approved by the UNESCO Executive Board at its 207 th session in October 2019
+Approved by the UNESCO Executive Board at its 207th session in October 2019
 
 ### 1. Introduction
 
@@ -16,7 +16,7 @@ The right to education is today one of the key principles underpinning the Educa
 
 The  Convention  has  been  recognized  as  a cornerstone  of  Education  2030  agenda .  It  also represents a powerful tool to advance SDG4 by ensuring effective articulation between normative and operational work.
 
-The present Guidelines are intended to assist Member States in the preparation of national reports on the implementation of the Convention as well as the Recommendation in the context of the 10 th Consultation.
+The present Guidelines are intended to assist Member States in the preparation of national reports on the implementation of the Convention as well as the Recommendation in the context of the 10th Consultation.
 
 ### 2. Reporting obligations
 
@@ -58,9 +58,9 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 3]]
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States through  a  participatory  process.  Please  note  that  multiple  answers  may  be  provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States through a participatory process. Please note that multiple answers may be provided where relevant.
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 In their responses, Member States are encouraged to provide information in a concise manner while preserving substantive and relevant content.
 
@@ -74,9 +74,9 @@ Country name: Latvia
 
 Organization or entity responsible for the preparation of the report: Ministry of Education and Science
 
-### Information on the legislative, judicial, administrative and other measures taken by the state at the national level
+### I. Information on the legislative, judicial, administrative and other measures taken by the state at the national level
 
-#### Ratification of the Convention 2
+#### 1. Ratification of the Convention 2
 
 Is your country a State Party to the Convention?
 
@@ -110,7 +110,7 @@ http://portal.unesco.org/en/ev.php-URL_ID=12949&URL_DO=DO_TOPIC&URL_SECTION=201.
 
 [[START OF PAGE 5]]
 
-#### Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
+#### 2. Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
 
 Has your country ratified the Protocol?
 
@@ -118,7 +118,7 @@ X Yes
 
 o No, please briefly explain the difficulties encountered:
 
-#### Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
+#### 3. Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
 
 In case your country is a State Party to the Convention:
 
@@ -190,31 +190,12 @@ during his or her detention.
 
 https://likumi.lv/ta/en/en/id/50759-education-law.
 
-Pursuant to Section 3.
-
-1
-
-, Paragraph one of the
-
-Education Law
-
-, a prohibition of
-
-differential treatment has been stipulated, thus guaranteeing the persons referred to in
-
-Section 3 of the Education Law the right to acquire education regardless of the material
-
-and social status, race, nationality, ethnic origin, gender, religious and political
-
-affiliation, state of health, occupation and place of residence.
-
+Pursuant to Section 3.¹, Paragraph one of the Education Law, a prohibition of differential treatment has been stipulated, thus guaranteeing the persons referred to in Section 3 of the Education Law the right to acquire education regardless of the material and social status, race, nationality, ethnic origin, gender, religious and political affiliation, state of health, occupation and place of residence.
 https://likumi.lv/ta/en/en/id/50759-education-law
 
 As the aforementioned provisions of the Education Law are binding in the implementation of education at all its levels and in all types of education in accordance with Paragraphs 5 and 6 of the Education Law , as well as in the application of the norms of the General Education Law , the Vocational Education Law and the Law on Institutions of Higher Education , one could conclude that the Convention is being complied with in the implementation of the national educational policy.
 
-Section 9, Paragraph 7 of the Asylum Law states that the Cabinet shall determine the procedures by which a minor asylum seeker shall be provided with opportunities for acquiring education. On the basis of the foregoing, the Cabinet has issued Regulation No 488 of 26 July 2016 'Procedures for the Provision of Minor Asylum Seekers with Opportunities for Acquiring
-
-Education'.https://likumi.lv/ta/en/en/id/283808-procedures-by-which-minor-asylum- seeker-shall-be-provided-with-opportunities-for-acquiring-education
+Section 9, Paragraph 7 of the Asylum Law states that the Cabinet shall determine the procedures by which a minor asylum seeker shall be provided with opportunities for acquiring education. On the basis of the foregoing, the Cabinet has issued Regulation No 488 of 26 July 2016 'Procedures for the Provision of Minor Asylum Seekers with Opportunities for Acquiring Education'.https://likumi.lv/ta/en/en/id/283808-procedures-by-which-minor-asylum-seeker-shall-be-provided-with-opportunities-for-acquiring-education
 
 - Have the provisions of the Convention been invoked before and given effect to by courts, tribunals and administrative authorities?
 
@@ -242,11 +223,11 @@ If yes, the report could list the main texts adopted to guarantee the right to e
 
 Information supplied could demonstrate how such policies and programmes comply with commitments of the right to education under the Recommendation.
 
-### Information on the implementation of the Convention or Recommendation
+### II. Information on the implementation of the Convention or Recommendation
 
-#### Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
+#### 1. Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
 
-Articles/Paragraphs  1(1),  2  and  3  of  the  Convention/Recommendation  provide  for  non- discrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
+Articles/Paragraphs 1(1), 2 and 3 of the Convention/Recommendation provide for non-discrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
 
 This corresponds to the overall aspiration of SDG4 which aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all' by 2030. It therefore covers all the SDG4 targets, but also specifically SDG target 4.5. 4
 
@@ -278,7 +259,7 @@ Please provide a brief description of the relevant legal, regulatory or policy t
 
 - è Non-differential treatment, including of foreign nationals resident in your country
 
-General requirements regarding the prohibition of differential treatment in education have been laid down in Section 3. 1 of the Education Law (see Section I, Paragraph 2).
+General requirements regarding the prohibition of differential treatment in education have been laid down in Section 3.1 of the Education Law (see Section I, Paragraph 2).
 
 The Latvian state has a unified educational system, uniform standards for academic subjects and sample curricula for all educational institutions. The standard for each academic subject includes questions relating to civic education and value education, tolerance and respect for difference. The Ministry of Education and Science supports the implementation of various educational programmes in order to meet the needs of every student, while observing the prohibition  of  discrimination  based  on  gender,  age,  race,  citizenship,  ethnic  origin  and religious persuasion.
 
@@ -308,7 +289,7 @@ The criteria and procedures by which students are enrolled in and discharged fro
 
 This notably is covered under SDG target 4.1 and partly target 4.b 6
 
-Article  112  of  the  Constitution  of  the  Republic  of  Latvia  states  that  anyone  is  entitled  to education.  The  State  shall  ensure  that  anyone  may  acquire  primary  and  secondary education without charge. Primary education shall be compulsory. At the same time, Article 99 provides that anyone is entitled to freedom of thought, conscience and religion. Section 3,  Paragraph one of the Education Law states that the following persons are entitled to education: 1) a citizen of Latvia; 2) a non-citizen of Latvia; 3) a citizen of the European Union, a  citizen  of  the  European  Economic  Area  or  a  citizen  of  the  Swiss  Confederation;  4)  a permanent resident of the European Community who has a valid residence permit in the Republic of Latvia; 5) a stateless person who has a valid travel document of a stateless person issued in the Republic of Latvia; 6) a citizen of another state, other than a citizen of the European Union, the European Economic Area or the Swiss Confederation or a stateless person who has a valid residence permit in the Republic of Latvia; 7) a refugee or a person who has acquired alternative status; and 8) a person who has received temporary protection in the Republic of Latvia. In turn, Paragraph two of the said Section states that a minor child of an asylum seeker and a minor asylum seeker is entitled to basic education and secondary education, as well as the right to continue the commenced education after reaching the age of majority. Pursuant to Paragraph three of the same Section, a minor third-country national or a stateless person who has no legal basis to reside in the Republic of Latvia is entitled to acquire basic education during the time period specified for voluntary exit or during the time period for which the expulsion is suspended, as well as during his or her detention.https://likumi.lv/ta/en/en/id/50759-education-law.  Section  9,  Paragraph  7  of  the Asylum Law states that the Cabinet shall determine the procedures by which a minor asylum seeker shall  be  provided  with  opportunities  for  acquiring  education.  On  the  basis  of  the foregoing, the Cabinet has issued Regulation No 488 of 26 July 2016 'Procedures for the Provision of Minor Asylum Seekers with Opportunities for Acquiring Education'.https://likumi.lv/ta/en/en/id/283808-procedures-by-which-minor-asylum-seekershall-be-provided-with-opportunities-for-acquiring-education
+Article 112 of the Constitution of the Republic of Latvia states that anyone is entitled to education. The State shall ensure that anyone may acquire primary and secondary education without charge. Primary education shall be compulsory. At the same time, Article 99 provides that anyone is entitled to freedom of thought, conscience and religion. Section 3, Paragraph one of the Education Law states that the following persons are entitled to education: 1) a citizen of Latvia; 2) a non-citizen of Latvia; 3) a citizen of the European Union, a citizen of the European Economic Area or a citizen of the Swiss Confederation; 4) a permanent resident of the European Community who has a valid residence permit in the Republic of Latvia; 5) a stateless person who has a valid travel document of a stateless person issued in the Republic of Latvia; 6) a citizen of another state, other than a citizen of the European Union, the European Economic Area or the Swiss Confederation or a stateless person who has a valid residence permit in the Republic of Latvia; 7) a refugee or a person who has acquired alternative status; and 8) a person who has received temporary protection in the Republic of Latvia. In turn, Paragraph two of the said Section states that a minor child of an asylum seeker and a minor asylum seeker is entitled to basic education and secondary education, as well as the right to continue the commenced education after reaching the age of majority. Pursuant to Paragraph three of the same Section, a minor third-country national or a stateless person who has no legal basis to reside in the Republic of Latvia is entitled to acquire basic education during the time period specified for voluntary exit or during the time period for which the expulsion is suspended, as well as during his or her detention.https://likumi.lv/ta/en/en/id/50759-education-law. Section 9, Paragraph 7 of the Asylum Law states that the Cabinet shall determine the procedures by which a minor asylum seeker shall be provided with opportunities for acquiring education. On the basis of the foregoing, the Cabinet has issued Regulation No 488 of 26 July 2016 'Procedures for the Provision of Minor Asylum Seekers with Opportunities for Acquiring Education'.https://likumi.lv/ta/en/en/id/283808-procedures-by-which-minor-asylum-seeker-shall-be-provided-with-opportunities-for-acquiring-education
 
 ##### 1.3 Please  indicate  the  actions  taken  and  planned  in  your  country  to  ensure  equality  of opportunities (in terms of access, participation and completion), equal treatment and to support the  inclusion  of  all  learners  (including  girls  and  women,  the  economically  and  socially marginalized,  people  with  disabilities  and  other  vulnerable  groups)  in  learning  processes (several items could be ticked/mentioned):
 
@@ -370,7 +351,7 @@ According to Civil Law Section 32 Marriage prior to the attaining of eighteen ye
 
 ##### 2.1 Pre-primary education
 
-Pre-primary  education  is  not  explicitly  provided  for  in  the  Convention/Recommendation. However, the international community has increasingly recognized the importance of early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 8 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory preprimary education'.
+Pre-primary education is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 8 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 > 8 Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'.
 
@@ -528,7 +509,7 @@ o Other:
 
 In  this  part,  you  may  also  provide  information  on  the  difficulties  experienced  by  your government as regards access to higher education and on the progress realized. Quantitative information could be added.
 
-Students do not pay tuition fees if they enrol in a state education institution and are accepted in a budget study place based on merit. 43.1% of all study places in the country (in all public and private universities and colleges together) are funded by the state budget. Scholarships, grants and other incentives are merit-based and awarded based on a competition if the number  of  scholarships  is  limited.  However,  if  there  are  two  equal  candidates  for  a scholarship, the priority is given to the candidate with disability or any other special need if applicable. Individual institutions may offer a very limited number of scholarships to support high performing students in need or award a one-time stipend based on a student's socioeconomic status. Students in good standing can apply for state guaranteed loans.
+Students do not pay tuition fees if they enrol in a state education institution and are accepted in a budget study place based on merit. 43.1% of all study places in the country (in all public and private universities and colleges together) are funded by the state budget. Scholarships, grants and other incentives are merit-based and awarded based on a competition if the number of scholarships is limited. However, if there are two equal candidates for a scholarship, the priority is given to the candidate with disability or any other special need if applicable. Individual institutions may offer a very limited number of scholarships to support high performing students in need or award a one-time stipend based on a student's socio-economic status. Students in good standing can apply for state guaranteed loans.
 
 ##### 2.4 Adult education and alternative learning
 
@@ -560,7 +541,7 @@ According to the Constitution of Latvia ( Satversme ) the State ensures that eve
 
 On 15 July 2016, the Regulation of the Cabinet of Ministers No.474 'Implementing rules of the Operational programme 'Growth and Employment' 8.4.1. Specific objective Project 'To develop professional competencies of employees' was adopted to provide a support for improvement of professional competences of employed young persons (age 17-24) and employed  adults  (age  25+)  with  a  special  focus  on  workers  in  high  social  risk  groups including those over 45 and the low-skilled.
 
-Within the framework of the project, adults can acquire continuing vocational education, vocational training and non-formal education programmes, modular VET programmes, to receive  career  counselling  services,  validation  of  professional  competences  acquired outside formal education settings. The project supports participation in education programmes with 5% co-payment. For the low-income adults and for adults with disabilities the participation is free of charge. The implementation of additional support measures is foreseen  for  persons  under  the  risk  of  social  exclusion  in  the  form  of  provision  of  the necessary assistant service for disabled persons and support for regional mobility for lowincome or poor workers.
+Within the framework of the project, adults can acquire continuing vocational education, vocational training and non-formal education programmes, modular VET programmes, to receive career counselling services, validation of professional competences acquired outside formal education settings. The project supports participation in education programmes with 5% co-payment. For the low-income adults and for adults with disabilities the participation is free of charge. The implementation of additional support measures is foreseen for persons under the risk of social exclusion in the form of provision of the necessary assistant service for disabled persons and support for regional mobility for low-income or poor workers.
 
 More than 34,000 workers have started, of which more than 23,000 have already completed their education. 31% of all participants are over the age of 45, while 19% are over the age of 50. In total, it is planned to involve 53 thousand employees in the project by 2023. The duration of the project: from December 2016 to December 2023 (In 2020 the project was prolonged  for  one  year  until  December  2023  and  the  funding  for  the  project  has  been increased by more than 21 million EUR, reaching almost 47 million EUR in total.
 
@@ -622,7 +603,7 @@ Article/Paragraph  4(d)  of  the  Convention/Recommendation  provides  for  the 
 
 - Please briefly elaborate further on the measures taken:
 
-Initial training and continuous professional development shall be ensured. Each year, the national budget earmarks EUR 1.2 million to provide support for the development of the professional competence of teachers. Key accents: the introduction of new Competencybased content and the development of digital skills. In 2020, an additional EUR 500 000 has been  allocated  from  the  national  budget  for  the  development  of  digital  skills.  Teaching profession requires minimum standards and qualifications Requirements for education and professional qualifications of educator shall be regulated by the Cabinet Measures taken to strengthen the social situation and attractiveness of the teaching profession Revised content and quality of initial teacher education programmes, introduced conditions for the reception of  applicants  and  uniform  requirements  for  the  development  of  programmes;  introduced social  guarantees  for  educators  who,  in  the  event  of  reorganisation  or  closure  of  the educational establishment, lose their jobs at pre-retirement age, as well as a timetable for the gradual increase in teacher pay. Performance monitoring systems At the moment, the Ministry is working on a comprehensive education for it, including the development of the teacher quality monitoring system, as well as a tool will be developed to help assess the load, lack, optimal provision of intellectual resources in the education system.
+Initial training and continuous professional development shall be ensured. Each year, the national budget earmarks EUR 1.2 million to provide support for the development of the professional competence of teachers. Key accents: the introduction of new Competency-based content and the development of digital skills. In 2020, an additional EUR 500 000 has been allocated from the national budget for the development of digital skills. Teaching profession requires minimum standards and qualifications Requirements for education and professional qualifications of educator shall be regulated by the Cabinet Measures taken to strengthen the social situation and attractiveness of the teaching profession Revised content and quality of initial teacher education programmes, introduced conditions for the reception of applicants and uniform requirements for the development of programmes; introduced social guarantees for educators who, in the event of reorganisation or closure of the educational establishment, lose their jobs at pre-retirement age, as well as a timetable for the gradual increase in teacher pay. Performance monitoring systems At the moment, the Ministry is working on a comprehensive education for it, including the development of the teacher quality monitoring system, as well as a tool will be developed to help assess the load, lack, optimal provision of intellectual resources in the education system.
 
 [[END OF PAGE 18]]
 
@@ -698,7 +679,7 @@ o Other:
 
 - Please provide a brief description of the provisions:
 
-Discrimination is prohibited by the Constitution of the Republic of Latvia Section 91 that states that all human beings in Latvia shall be equal before the law and the courts. Human rights shall be realised without discrimination of any kind. https://likumi.lv/ta/en/id/57980-the- constitution-of-the-republic-of-latvia
+Discrimination is prohibited by the Constitution of the Republic of Latvia Section 91 that states that all human beings in Latvia shall be equal before the law and the courts. Human rights shall be realised without discrimination of any kind. https://likumi.lv/ta/en/id/57980-the-constitution-of-the-republic-of-latvia
 
 National  minorities  and  their  culture  is  an  integral  and  important  component  of  Latvia's society and cultural space. Latvia's integration policy ensures protection of rights of persons
 
@@ -726,7 +707,7 @@ As a result of successful integration policy, in recent years the Latvian langua
 
 The state support for education in minority languages in Latvia exceeds that of many other European countries. Latvia's approach and long-term experience in minority education and integration is used by the HCNM as best practice to be introduced in other OSCE countries.
 
-The Government of Latvia has constantly been exerting efforts to promote the dialogue with representatives of national minorities. Consultative bodies are a common practice of local governments. Five advisory councils on national minority issues are currently functioning at the  national  level  -  one  is  the  President's  Advisory  Council  on  National  Minorities,  tree different committees  works  under the Ministry of Culture: Advisory Committee  of Representatives  from  Minority  Non-governmental  Organisations,  Advisory  Council  for Implementation of Roma Integration Policy and Advisory Council for the Integration of Thirdcountry Nationals.
+The Government of Latvia has constantly been exerting efforts to promote the dialogue with representatives of national minorities. Consultative bodies are a common practice of local governments. Five advisory councils on national minority issues are currently functioning at the national level - one is the President's Advisory Council on National Minorities, tree different committees works under the Ministry of Culture: Advisory Committee of Representatives from Minority Non-governmental Organisations, Advisory Council for Implementation of Roma Integration Policy and Advisory Council for the Integration of Third-country Nationals.
 
 The Ministry of Education and Science has established the Consultative Council on issues of  national  minority  education.  This  institution  helps  to  maintain  a  dialogue  between  the Ministry  of  Education  and  Science,  students  and  teachers  of  national  minority  schools, parents' organizations and NGO's. The Head of Roma Community in Latvia is a member of the Advisory Council on Minorities Education under the Ministry of Education and Science.
 
@@ -752,7 +733,7 @@ Information could also cover the language facilities, such as the availability o
 
 ##### 2.10  Rights of refugees and migrants
 
-The rights of refugees and migrants are not explicitly provided for in the Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin. 14 In this context,  a  number  of  Member  States  that  participated  in  the  9 th Consultation  reported  on measures adopted to ensure refugees' and migrants' right to education. Growing displacement and influx of refugees worldwide and the emergence of major educational challenges in this area,  as  well  as  the  frameworks  recently  adopted  by  the  international  community, 15 demonstrate the opportunity for states to report on measures adopted to include refugees and migrants in their educational systems.
+The rights of refugees and migrants are not explicitly provided for in the Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin. 14 In this context, a number of Member States that participated in the 9th Consultation reported on measures adopted to ensure refugees' and migrants' right to education. Growing displacement and influx of refugees worldwide and the emergence of major educational challenges in this area, as well as the frameworks recently adopted by the international community, 15 demonstrate the opportunity for states to report on measures adopted to include refugees and migrants in their educational systems.
 
 Besides, this aspect also corresponds to SDG target 4.5, which calls on states to 'ensure equal access to all levels of education and vocational training for the vulnerable', including 'children in vulnerable situations', and covers the majority of SDG4 targets.
 
@@ -796,7 +777,7 @@ The Ministry shall determine the educational institution which provides the asyl
 
 The  educational  institution  shall,  until  commencement  of  the  acquisition  of  education, develop an in-depth plan for the acquisition of subjects by the asylum seeker for a period of time which is determined in the agreement. The asylum seeker shall be provided with an opportunity to finish the commenced acquisition of general education also after reaching the age of 18 years. The Ministry shall organise the development and issuance of teaching aids suitable for educational programmes for the acquisition of Latvian in order to provide the asylum seeker with the opportunities for the acquisition of general education.
 
-### Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
+### III. Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
 
 #### 1. Challenges and obstacles
 
@@ -810,7 +791,7 @@ o Challenges related to equitable access and inclusion in education (such as pov
 
 o Challenges related to the quality of education (such as shortages of qualified, trained and motivated teaching staff, non-supportive or inadequate teaching and learning as well as school environment, etc.)
 
-o Challenges relating to the system and governance (such as budgetary constraints, lack or weakness of monitoring systems - including the lack of reliable data, absence of supportive/ inconsistent/obsolete  legal  and  policy  environment,  lack  of  involvement  of  relevant stakeholders and lack of cooperation/coordination at different levels, etc.)
+o Challenges relating to the system and governance (such as budgetary constraints, lack or weakness of monitoring systems - including the lack of reliable data, absence of supportive/inconsistent/obsolete legal and policy environment, lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels, etc.)
 
 o Other:
 
@@ -832,9 +813,9 @@ UNESCO  governing  bodies  have  underlined  the  need  for  awareness  raising.
 
 o Dissemination and advocacy of the core content of the Convention/Recommendation or the core principles of the right to education
 
-o Increased public awareness through advocacy material on the Convention/ Recommendation or the core principles of the right to education
+o Increased public awareness through advocacy material on the Convention/Recommendation or the core principles of the right to education
 
-- x Activities undertaken  or supported by the  National  Commission  to  promote  non- discrimination  and  equality  of  educational  opportunities  and  to  foster  debate  on  critical issues in relation to the rights enshrined in the instruments
+- x Activities undertaken or supported by the National Commission to promote non-discrimination and equality of educational opportunities and to foster debate on critical issues in relation to the rights enshrined in the instruments
 
 o Other:
 
