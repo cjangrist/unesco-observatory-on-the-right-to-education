@@ -1,6 +1,8 @@
 [[START OF PAGE 1]]
+Crna Gora
+Ministarstvo prosvjete i nauke
 
-# MONTENEGRINVOCATIONAL EDUCATION DEVELOPMENT STRATEGY (2010-2014)
+# MONTENEGRIN VOCATIONAL EDUCATION DEVELOPMENT STRATEGY (2010-2014)
 
 Podgorica, 2009.
 
@@ -8,11 +10,40 @@ Podgorica, 2009.
 
 [[START OF PAGE 2]]
 
+2
 ## Table of Contents
 
-4. ANNEX
-
-2
+1. BASES FOR DEVELOPMENT OF THE VOCATIONAL EDUCATION DEVELOPMENT STRATEGY....................................................................................3
+1. 1. Introductory notes...............................................................................................3
+1.2. Vocational Education......................................................................................3
+1.3. Vision and Mission ...............................................................................................4
+1. 4. Goal of the Preparation of Vocational Education Development Strategy ............5
+1.5. Vocational Education Development Strategy in the Context of other Strategic Documents in Montenegro .........................................................................................6
+1.6. Education in the European Union........................................................................6
+1.7. Key Challenges of the Labour Market in Montenegro ..............................................7
+2. PRIORITY AREAS OF ACTIVITIES IN VOCATIONAL EDUCATION ...........10
+2.1. Strengthening Institutional and Legal Framework...................................................10
+2.2. Strengthening Social Partnership ........................................................................11
+2.3. Decentralization...........................................................................................12
+2.4. Connecting Vocational Education and Labour Market .......................................13
+2.4.1. Montenegrin qualifications framework ..................................................13
+2.4.2. Sectoral Qualifications...........................................................................14
+2.4.3. Occupational Standards.........................................................................15
+2.4.4. Curricula ...............................................................................................16
+2.4.5. Recognising non-formal and informal learning......................................18
+2.5. Accessibility of Education ..................................................................................18
+2.5.1. Enrolment policy .........................................................................................18
+2.5.2. Network of Schools, Equipment in Schools..........................................19
+2.5.3. Vocational Guidance.............................................................................20
+2.5.4. Social Inclusion.....................................................................................21
+2.6. Quality of Vocational Education.........................................................................23
+2.6.1. Quality Assurance in Vocational Education .................................................23
+2.6.2. Teaching and Learning Process....................................................................24
+2.7. Teachers and School Management ................................................................25
+2.8. Financing Vocational Education.........................................................................26
+2. 9. International Cooperation..................................................................................27
+3. IMPLEMENTATION OF MONTENEGRIN VOCATIONAL EDUCATION DEVELOPMENT STRATEGY..................................................................................28
+4. ANNEX ...................................................................................................................29
 
 [[END OF PAGE 2]]
 
@@ -40,13 +71,13 @@ According to the provisions of the General Law on Education and provisions of th
 
 Pursuant  to  the  current  legislation  in  the  field  of  education, the  Montenegrin education  system  has  two  types  of  qualifications: education  level  qualifications (degree) and vocational qualifications. Education level qualifications are obtained through  completion  of formal education curricula; they are  confirmed  by diplomas  and  they  ensure  both  inclusion  into  the  labour  market  and  further education.  Apart  from  that,  completion  of  curricula  means obtaining one  or several  vocational  qualifications  depending  on  whether  the  curricula  is  made  on the basis of one or several occupational standards. Vocational qualifications that are confirmed by certificates will be obtained through completion of a module of a curriculum, by taking a test after the curriculum is completed or through direct testing of  the  knowledge  obtained  earlier.  These  qualifications  ensure  inclusion into the labour market and they can be recognised for attaining education levels.
 
-A  Diploma  on lower vocational  education  is  obtained  after  the  completion  of lower vocational  education  curriculum  and  after  taking  practical  exam.  The Diploma on three-year secondary vocational education is obtained  upon completion of the curricula of three-year secondary vocational education and after taking  final  exam.  The  exam  is  internal  and  the  school  is  responsible  for  its implementation.  Further  education is  possible  after  certain  additional  exams  are taken. A Diploma on four-year secondary vocational education is obtained upon completion of the curricula of four-year secondary vocational education and after taking  vocational  exam.  Vocational  exam consists of  written  exam  in  Mother Tongue and Literature, written exam in Mathematics or foreign language, written or oral exam in vocational-theoretical subject and practical work. From the school year 2009/2010 on the vocational exam is taken externally. From the same school year all the students of first grades of vocational schools are educated according to new curricula. Since the beginning of implementation of the legal solutions in the field  of  secondary  vocational  education, the  total  number  of  83  curricula have been  developed,  for  two-,  threeand  four-year  education.  Preparations  for development of curricula for post-secondary vocational education are in progress.
+A Diploma on lower vocational education is obtained after the completion of lower vocational education curriculum and after taking practical exam. The Diploma on three-year secondary vocational education is obtained upon completion of the curricula of three-year secondary vocational education and after taking final exam. The exam is internal and the school is responsible for its implementation. Further education is possible after certain additional exams are taken. A Diploma on four-year secondary vocational education is obtained upon completion of the curricula of four-year secondary vocational education and after taking vocational exam. Vocational exam consists of written exam in Mother Tongue and Literature, written exam in Mathematics or foreign language, written or oral exam in vocational-theoretical subject and practical work. From the school year 2009/2010 on the vocational exam is taken externally. From the same school year all the students of first grades of vocational schools are educated according to new curricula. Since the beginning of implementation of the legal solutions in the field of secondary vocational education, the total number of 83 curricula have been developed, for two-, three- and four-year education. Preparations for development of curricula for post-secondary vocational education are in progress.
 
-The curricula developed so far are not modularised but there are legal and other preconditions  for modularisation  of  curricula  of lower,  secondary  and  postsecondary vocational education.
+The curricula developed so far are not modularised but there are legal and other preconditions for modularisation of curricula of lower, secondary and post-secondary vocational education.
 
 ### 1.3. Vision and Mission
 
-Vision: Develop  Montenegro  as  a  society  of  knowledge  where  vocational education, as the key factor of economic and social development will be of highquality,  flexible,  efficient,  with  the  professional  human  resources  who  will  have competitive knowledge, skills and competences and who will be qualified to take part  in  the  labour  market,  where  each  individual  has  equal  opportunities  for personal and professional development.
+Vision: Develop Montenegro as a society of knowledge where vocational education, as the key factor of economic and social development will be of high-quality, flexible, efficient, with the professional human resources who will have competitive knowledge, skills and competences and who will be qualified to take part in the labour market, where each individual has equal opportunities for personal and professional development.
 
 Mission: Establishing  of  the  system  of  vocational  education,  developed  in cooperation with social  partners,  which  will  produce  human  resources  qualified for efficient work according to contemporary standards of education levels, which will facilitate personal and social development of each individual.
 
@@ -82,34 +113,21 @@ Montenegrin Vocational Education Development Strategy has a goal to determine th
 
 ### 1.5. Vocational Education Development Strategy in the Context of other Strategic Documents in Montenegro
 
--Strategy for Establishment of the National Qualification  Framework  in Montenegro (2008 - 2010), Ministry of Education and Science, 2008
+Montenegrin Vocational Education Development Strategy is in compliance and full harmony with development priorities and strategic documents of the Government of Montenegro, including but not limited to:
 
-Montenegrin Vocational  Education  Development  Strategy  is  in  compliance  and full  harmony  with development  priorities and strategic  documents  of  the Government of Montenegro, including but not limited to:
-
-- National Strategy on Employment and Human Resources Development for the Period 2007 - 2011, Ministry of Health, Labour and Social Welfare, 2008
-
+- Strategy for Establishment of the National Qualification Framework in Montenegro (2008 – 2010), Ministry of Education and Science, 2008
+- National Strategy on Employment and Human Resources Development for the Period 2007 – 2011, Ministry of Health, Labour and Social Welfare, 2008
+- National Employment Action Plan for the Period 2010 – 2011, Ministry of Labour and Social Welfare, 2009
 - Inclusive Education Strategy, Ministry of Education and Science, 2008
-
--National  Employment  Action  Plan  for  the  Period  2010 - 2011,  Ministry  of Labour and Social Welfare, 2009
-
-- Civic Education and Education Strategy (2007 - 2010), Ministry of Education and Science, 2008
-
-- Human Resources Development - Montenegro 2017, CARDS Project 3, Labour Market Reform and Labour Development, Ministry of Health, Labour and Social Welfare, 2008
-
--Strategy  for  Integration  of  Persons  with  Disabilities  in  Montenegro  for  the Period 2008 - 2016, Ministry of Health, Labour and Social Welfare, 2007
-
--Strategy  of  Life-long  Entrepreneurial  Learning,  CARDS  Project  3,  Labour Market  Reform  and  Labour  Development, Directorate  for  Small  and  Medium Sized Enterprises, 2008
-
+- Civic Education and Education Strategy (2007 – 2010), Ministry of Education and Science, 2008
+- Strategy for Integration of Persons with Disabilities in Montenegro for the Period 2008 – 2016, Ministry of Health, Labour and Social Welfare, 2007
+- Human Resources Development – Montenegro 2017, CARDS Project 3, Labour Market Reform and Labour Development, Ministry of Health, Labour and Social Welfare, 2008
+- Strategy of Life-long Entrepreneurial Learning, CARDS Project 3, Labour Market Reform and Labour Development, Directorate for Small and Medium Sized Enterprises, 2008
+- Strategy for Development of Human Resources in Tourism in Montenegro, Ministry of Tourism, 2007
 - Montenegrin Tourism Development Strategy by 2020, Ministry of Tourism and Environment Protection, 2008
-
--Strategy  for  Development  of  Human  Resources  in  Tourism  in  Montenegro, Ministry of Tourism, 2007
-
--Montenegrin National Sustainable Development Strategy, Ministry of Environmental Protection and Physical Planning, 2006.
-
--Montenegrin  Agriculture  and  European  Union Development  Strategy  for Food Production  and  Rural  Areas,  Ministry  of  Agriculture,  Forestry  and  Water Management, 2006
-
--Action  Plan  for  Integration  of  Sustainable  Development  into  the  Education System for the Period 2007 - 2009, Ministry of Education and Science, 2007
-
+- Montenegrin National Sustainable Development Strategy, Ministry of Environmental Protection and Physical Planning, 2006.
+- Action Plan for Integration of Sustainable Development into the Education System for the Period 2007 – 2009, Ministry of Education and Science, 2007
+- Montenegrin Agriculture and European Union – Development Strategy for Food Production and Rural Areas, Ministry of Agriculture, Forestry and Water Management, 2006
 - Information Society Development Strategy, Republic Development Secretariat, 2004
 
 ### 1.6. Education in the European Union
@@ -158,9 +176,9 @@ In spite of many improvements there are still some problems to overcome. The mos
 
 Structural mismatch of supply and demand of labour. Structural mismatch of supply and demand is manifested in three forms:
 
-- In the labour market there is demand for labour of certain profiles, and there is sufficient supply of such profiles in the labour market but vacancies are not filled in;
+- In the labour market there is demand for labour of certain profiles, but education system does not produce a sufficient number of such profiles, primarily due to the lack of interest of students to obtain education in these profiles;
 
--In  the  labour  market  there  is  demand  for  labour  of  certain  profiles,  but education system does not produce a sufficient number of such profiles, primarily due to the lack of interest of students to obtain education in these profiles;
+- In the labour market there is demand for labour of certain profiles, and there is sufficient supply of such profiles in the labour market but vacancies are not filled in;
 
 - In the labour market there is supply of certain profiles but demand for labour of such profiles is not sufficient.
 
@@ -182,11 +200,11 @@ Significant employment in the informal sector/grey economy. Between 20% and  25%
 
 Seasonal  character  of  labour  market. The  key  place  in  the strategy  of development of Montenegro belongs to: tourism, construction industry, trade and agriculture where the  seasonal  character  of  employment  is  strongly emphasised. Domination of these sectors with strongly emphasised seasonal fluctuations has a number of negative consequences in the labour market:
 
+- In season demand for labour is very high, i.e. there is very strong need for seasonal employment,
+
 - Out of season demand for labour/employment declines and it brings to large seasonal unemployment i.e. insufficient use of labour,
 
--In season  demand  for  labour  is  very  high,  i.e.  there  is  very  strong  need  for seasonal employment,
-
-- There are huge differences in gender structure of demand for labour - tourism, hospitality industry and trade employ female labour more, and female workers are less mobile. On the other side, construction industry and agriculture employ more male labour.
+- There are huge differences in gender structure of demand for labour – tourism, hospitality industry and trade employ female labour more, and female workers are less mobile. On the other side, construction industry and agriculture employ more male labour.
 
 Demographic challenges. In the age pyramid in Montenegro the percentage of old  population  is  growing.  In  order  not  to jeopardise  growth  and  development and in order to achieve a decent standard of living it is necessary to increase the rate of employment of older population groups while increasing gradually the age required for retirement. Education, with vocational education and training as one of its parts, has a very important role and creates the basis of life-long learning.
 
@@ -210,11 +228,11 @@ Larger number of institutions ensures better distribution of work, but at the sa
 
 #### Strategic goals
 
--Timely  adaptation  of  legislation  to  the  current  needs  of  the  vocational education  system  with  the  view  to  improving  the  efficiency  of  the  system; material and professional strengthening of key institutions that are holders of the activities in vocational education;
+- Timely adaptation of legislation to the current needs of the vocational education system with the view to improving the efficiency of the system; material and professional strengthening of key institutions that are holders of the activities in vocational education;
 
--Establish intensive and synchronised cooperation among institutions with the aim of achieving overall goals defined in the strategic documents.
+- Develop regional strategies for development of vocational education based on the National Vocational Education Development Strategy
 
--Develop regional strategies for development of vocational education based on the National Vocational Education Development Strategy
+- Establish intensive and synchronised cooperation among institutions with the aim of achieving overall goals defined in the strategic documents.
 
 10
 
@@ -224,13 +242,13 @@ Larger number of institutions ensures better distribution of work, but at the sa
 
 #### Tasks
 
--Monitor and analyse changes and harmonise vocational education system and legislation with the labour market trends;
+- Monitor and analyse changes and harmonise vocational education system and legislation with the labour market trends;
 
--Innovate plans and programmes for specialisation of persons employed in key vocational education system institutions;
+- Establish a reliable database of all segments of the vocational education system that will ensure informed decision making which is a part of Montenegrin education information system;
 
--Establish a reliable database of all segments of the vocational education system that will  ensure  informed  decision  making  which  is  a  part  of  Montenegrin education information system ;
+- Innovate plans and programmes for specialisation of persons employed in key vocational education system institutions;
 
--Identify common  goals  of  various  strategies  that  refer  to  human  resources development  in  the  field of lower,  secondary  and  post-secondary  vocational education and establish cooperation between competent institutions with the view to harmonising the activities aimed at achieving the overall goals defined in the strategic documents.
+- Identify common goals of various strategies that refer to human resources development in the field of lower, secondary and post-secondary vocational education and establish cooperation between competent institutions with the view to harmonising the activities aimed at achieving the overall goals defined in the strategic documents.
 
 ### 2.2. Strengthening Social Partnership
 #### Background
@@ -253,19 +271,19 @@ Participation of social partners in defining policy and in planning, implementat
 
 #### Tasks
 
--Include employers in the activities of the labour market needs analysis and in planning of education implemented by educational institutions;
+- Include employers in the activities of the labour market needs analysis and in planning of education implemented by educational institutions;
 
--Encourage employers to organise practical education connected with work - to accept students to do a part of practical education in the working environment, in all education profiles on all the levels of vocational education;
+- Encourage social partners to participate actively in development of qualifications, ensuring material conditions for implementation of curricula through equipping cabinets, laboratories and workshops;
 
--Encourage social partners to participate actively in development of qualifications,  ensuring  material  conditions  for  implementation  of  curricula through equipping cabinets, laboratories and workshops;
+- Encourage employers to organise practical education connected with work - to accept students to do a part of practical education in the working environment, in all education profiles on all the levels of vocational education;
 
--Involve employers in the external testing of achievements of students in the exams at the end of education levels;
+- Involve employers in the external testing of achievements of students in the exams at the end of education levels;
 
--Establish funds  for  scholarships  for students  educated  according  to  the curricula for scarce occupations and establish the manner for providing funds for that;
+- Establish the manner for providing higher participation of non-budget funds in education and create conditions for their practical implementation;
 
--Establish the manner for providing higher participation of non-budget funds in education and create conditions for their practical implementation;
+- Establish funds for scholarships for students educated according to the curricula for scarce occupations and establish the manner for providing funds for that;
 
--Encourage schools to cooperate with employers and local community.
+- Encourage schools to cooperate with employers and local community.
 
 ### 2.3. Decentralisation
 
@@ -295,20 +313,22 @@ Improve the decision-making procedures that are of strategic importance for the 
 
 #### Tasks
 
--Include local communities in financing vocational education, and distribution of responsibilities in managing the schools in line with that;
+- Include local communities in financing vocational education, and distribution of responsibilities in managing the schools in line with that;
 
--Encourage local communities to take part in planning the needs for initial and permanent education;
+- Improve the procedures for adopting occupational standards, curricula and textbooks;
 
--Improve the  procedures  for  adopting  occupational  standards,  curricula  and textbooks;
+- Encourage local communities to take part in planning the needs for initial and permanent education;
 
--Create conditions for schools to prepare part of curricula, together with social partners, so that the curricula correspond to the needs of local communities.
+- Create conditions for schools to prepare part of curricula, together with social partners, so that the curricula correspond to the needs of local communities.
 
 ### 2.4. Connecting Vocational Education and Labour Market
 
 #### 2.4.1. Montenegrin qualifications framework
 ##### Background
 
-The  key  goal  for  the  education  system  of  every  country  is  to  provide  every individual  with  the  possibility  to  develop  through  the  education  system  the knowledge, skills and competences which will enable him/her to learn and have personal development, satisfaction and advance throughout his/her life, as well as to  ensure  their  participation  in  the  labour  market,  easier  employability  and prevention  of  social  exclusion.  This  strategic  goal is  also  the  goal  of  the Montenegrin  system  and  establishing  of  Montenegrin  qualification  framework should support it and help its achievement through development of links among partners,  connecting  vocational  education  with  other  types  of  education  in  the country  and  making  the  vocational  education  closer  to  the  labour  market. Montenegrin  qualifications  framework  will  support  recognition  of  knowledge, skills  and  competences  of  individuals  regardless  of  the  way  in  which  they  are acquired. Qualifications will be described through learning outcomes and that will improve their transparency. The paths and possibilities of advancing through the education system will be clearer. Apart from that, all the activities in the process of  establishing  Montenegrin  qualifications  framework  have  direct  impact  on improvements in the quality of vocational education.
+The key goal for the education system of every country is to provide every individual with the possibility to develop through the education system the knowledge, skills and competences which will enable him/her to learn and have personal development, satisfaction and advance throughout his/her life, as well as to ensure their participation in the labour market, easier employability and prevention of social exclusion. This strategic goal is also the goal of the Montenegrin system and establishing of Montenegrin qualification framework should support it and help its achievement through development of links among partners, connecting vocational education with other types of education in the country and making the vocational education closer to the labour market.
+
+Montenegrin qualifications framework will support recognition of knowledge,
 
 13
 
@@ -316,35 +336,37 @@ The  key  goal  for  the  education  system  of  every  country  is  to  provide
 
 [[START OF PAGE 14]]
 
+skills and competences of individuals regardless of the way in which they are acquired. Qualifications will be described through learning outcomes and that will improve their transparency. The paths and possibilities of advancing through the education system will be clearer. Apart from that, all the activities in the process of establishing Montenegrin qualifications framework have direct impact on improvements in the quality of vocational education.
+
 ##### Strategic goal:
 
 Establish Montenegrin qualifications framework, which will increase consistency of  qualifications  by  clearly  defining  the  levels  through  knowledge,  skills  and competencies  and  facilitate  classification  of  qualifications  according  to  learning outcomes; enable recognition of non-formal and informal learning and encourage life-long  learning;  make  the  procedure  of  obtaining  qualifications  transparent; develop mechanisms for quality assurance.
 
 ##### Tasks
 
--Define the levels and their descriptions;
+- Define the levels and their descriptions;
 
--Establish the body to be in charge of Montenegrin qualification framework;
+- Define competences of institutions and bodies in the process of development of qualifications that are not a part of Montenegrin qualification framework;
 
--Define competences of institutions and bodies in the process of development of qualifications that are not a part of Montenegrin qualification framework;
+- Establish the body to be in charge of Montenegrin qualification framework;
 
--Develop methodology/guidelines for classifying qualifications;
+- Develop methodology/guidelines for classifying qualifications;
 
--Introduce Europass;
+- Introduce the system of credit transfer in secondary and post-secondary vocational education;
 
--Introduce  the  system  of  credit  transfer  in  secondary  and  post-secondary vocational education;
+- Introduce Europass;
 
--Develop common principles and procedures for:
-
-- Recognition of formal and informal learning
+- Develop common principles and procedures for:
 
 - Quality assurance
 
+- Recognition of formal and informal learning
+
 - Vocational guidance and counselling
 
--Establish National information system for qualifications.
-
 - Acquiring key competences in education;
+
+- Establish National information system for qualifications.
 
 #### 2.4.2. Sectoral Qualifications
 
@@ -366,13 +388,13 @@ Develop  coherent  qualification  frameworks  for  all  sectors,  confirmed  by 
 
 ##### Tasks
 
--Develop instruments for preparation of sectoral labour market surveys;
+- Establish sectoral commissions which comprise representatives of employers, education and other partners in qualifications development;
 
--Establish sectoral commissions which comprise representatives of employers, education and other partners in qualifications development;
+- Develop instruments for preparation of sectoral labour market surveys;
 
--Develop guidance for development of sectoral qualification frameworks;
+- Develop guidance for development of sectoral qualification frameworks;
 
--Develop  sectoral  qualifications  on  the  basis  of  the  defined  levels  and  sublevels on  the  national level and  adopted  classification of qualifications, including all the qualifications up to the level of university.
+- Develop sectoral qualifications on the basis of the defined levels and sub-levels on the national level and adopted classification of qualifications, including all the qualifications up to the level of university.
 
 #### 2.4.3. Occupational Standards
 
@@ -398,21 +420,21 @@ Develop occupational standards for the occupations needed in the labour market, 
 
 ##### Tasks
 
--Monitoring  and  analysis  of  the  changes  in  the  labour  market  which,  among other things,  include  the  analysis  of  education  structure  of  employed  and unemployed  persons  and  the  analysis of national sectoral  development documents;
+- Monitoring and analysis of the changes in the labour market which, among other things, include the analysis of education structure of employed and unemployed persons and the analysis of national sectoral development documents;
 
--Compliance with the defined sectoral qualifications framework;
+- Coordinated preparation of occupational standards which assumes:
 
--Coordinated preparation of occupational standards which assumes:
+- Compliance with the defined sectoral qualifications framework;
 
--Introduction of a comprehensive approach, which means development of  occupational  standards  and  examination  catalogues  for  certifying vocational qualifications for the whole sector, according to the sectoral development strategy;
+- Introduction of a comprehensive approach, which means development of occupational standards and examination catalogues for certifying vocational qualifications for the whole sector, according to the sectoral development strategy;
 
--Analysis by the sectoral commissions of the occupational standards prepared three to five years ago and, as needed, supplementing them or developing new occupational standards (revision of occupational standards);
+- Analysis by the sectoral commissions of the occupational standards prepared three to five years ago and, as needed, supplementing them or developing new occupational standards (revision of occupational standards);
 
 #### 2.4.4. Curricula
 
 ##### Background
 
-Structure  of  vocational  education  (formal  education)  in  Montenegro  is  the following: lower vocational education, secondary vocational education and postsecondary vocational education, which is a continuation of secondary vocational education.
+Structure of vocational education (formal education) in Montenegro is the following: lower vocational education, secondary vocational education and post-secondary vocational education, which is a continuation of secondary vocational education.
 
 Curricula  are  developed  on  the  basis  of  one  or  several  occupational  standards, according to the methodology established on the national level. The curricula are then discussed by the appropriate teachers' conference and curriculum commission, adopted by the Council for Vocational Education and promulgated by the Ministry of Education and Science.
 
@@ -424,45 +446,45 @@ Curricula  are  developed  on  the  basis  of  one  or  several  occupational  s
 
 [[START OF PAGE 17]]
 
--Improve flexibility and responsiveness of curricula to the labour market needs through development of modularised, competence-based, credit-valued curricula of wide profile, for lower, secondary and post-secondary vocational education, which ensures the possibility of choice and gradual obtaining of education levels;
+- Improve flexibility and responsiveness of curricula to the labour market needs through development of modularised, competence-based, credit-valued curricula of wide profile, for lower, secondary and post-secondary vocational education, which ensures the possibility of choice and gradual obtaining of education levels;
 
--Structure  curricula  in  such  a  way  which  will  ensure  that  early  drop-outs  can obtain basic vocational qualification;
+- Connect general, theoretical and practical knowledge with clearly defined learning outcomes through adopted vocational and key competences;
 
--Connect general, theoretical and practical knowledge with clearly defined learning outcomes through adopted vocational and key competences;
+- Structure curricula in such a way which will ensure that early drop-outs can obtain basic vocational qualification;
 
--Encourage  the  developmental  role  of  the  school  and  school  autonomy through development of a framework curriculum on the national level and its elaboration on the school level (school curriculum) and through development of the open part of curriculum in line with the needs of local community (up to 20%);
+- Encourage the developmental role of the school and school autonomy through development of a framework curriculum on the national level and its elaboration on the school level (school curriculum) and through development of the open part of curriculum in line with the needs of local community (up to 20%);
 
--Envisage that in every curriculum a part of practical education is implemented with the employer in a real working environment.
+- Recognise verified, informally acquired knowledge in the procedure of obtaining education levels;
 
--Recognise verified, informally acquired knowledge  in the procedure of obtaining education levels;
+- Envisage that in every curriculum a part of practical education is implemented with the employer in a real working environment.
 
 ##### Tasks
 
--Improve methodology for development of curricula;
+- Improve methodology for development of curricula;
 
--Develop the concept of modularisation and credit valuation  of  curricula  for adult education;
+- Develop the concept of inclusion of key competences in curricula;
 
--Develop the concept of inclusion of key competences in curricula;
+- Develop the concept of modularisation and credit valuation of curricula for adult education;
 
--Develop modularised, (key and vocational) competences-based, credit-valued curricula;
+- Develop modularised, (key and vocational) competences-based, credit-valued curricula;
 
--Provide expert support to schools in the implementation of curricula;
+- Provide expert support to schools and teachers for development of school curriculum and open part of curriculum;
 
--Provide  expert  support  to  schools  and  teachers  for  development  of  school curriculum and open part of curriculum;
+- Provide expert support to schools in the implementation of curricula;
 
--Develop minimum  standards  for  equipment  for  implementation  of  certain curricula;
+- Develop minimum standards for equipment for implementation of certain curricula;
 
--Improve/revise the developed curricula after evaluation.
+- Systematically collect information on the implementation of curricula in schools and evaluation of curricula;
 
--Systematically  collect information  on  the  implementation  of  curricula  in schools and evaluation of curricula;
+- Improve/revise the developed curricula after evaluation.
 
--Develop textbooks,  manuals  and  other  teaching  materials  for  vocationaltheoretical subjects and practical work classes
+- Develop textbooks, manuals and other teaching materials for vocational-theoretical subjects and practical work classes
 
--Introduce new  manners of testing  and  evaluation  of students'  knowledge  in the education process;
+- Raise the quality of evaluation of knowledge and skills:
 
--Raise the quality of evaluation of knowledge and skills:
+- Introduce new manners of testing and evaluation of students’ knowledge in the education process;
 
--Raise the quality of examinations at the end of education, introducing external nature of final exams for three-year schools.
+- Raise the quality of examinations at the end of education, introducing external nature of final exams for three-year schools.
 
 17
 
@@ -486,13 +508,13 @@ Certifying vocational qualifications enables people with a lower level of educat
 
 ##### Tasks
 
--Strengthen capacities  in  the  institutions  that  will  implement  the  Law  on National Vocational Qualifications and create conditions for its implementation;
+- Strengthen capacities in the institutions that will implement the Law on National Vocational Qualifications and create conditions for its implementation;
 
--Develop new forms of learning and use of new technologies in teaching and learning;
+- Develop modularised and credit-valued curricula, which will enable early drop-outs, children with developmental disorders and adults to obtain national vocational qualifications and level of education gradually;
 
--Develop modularised and credit-valued curricula, which will enable early dropouts,  children  with  developmental  disorders  and  adults  to  obtain  national vocational qualifications and level of education gradually;
+- Develop new forms of learning and use of new technologies in teaching and learning;
 
--Strengthen the services for informing and counselling that exist on the level of education providers, as well as their permanent training and specialisation.
+- Strengthen the services for informing and counselling that exist on the level of education providers, as well as their permanent training and specialisation.
 
 ### 2.5. Accessibility of Education
 
@@ -518,13 +540,13 @@ Enrolment policy oriented to the labour market needs and strategic commitments o
 
 ##### Tasks
 
--Implement cooperation between the Ministry of Education and Science and line ministries, Union of Employers, local government, schools and Vocational Education and Training Centre in the aim of considering the needs for human resources  and  defining  the  enrolment  policy  in  line  with the  labour  market needs and the strategic plans of local, regional and national development;
+- Implement cooperation between the Ministry of Education and Science and line ministries, Union of Employers, local government, schools and Vocational Education and Training Centre in the aim of considering the needs for human resources and defining the enrolment policy in line with the labour market needs and the strategic plans of local, regional and national development;
 
--Define and introduce score limit (threshold) for enrolment of students in the four-year education profiles;
+- Promotion of vocational education;
 
--Promotion of vocational education;
+- Define and introduce score limit (threshold) for enrolment of students in the four-year education profiles;
 
--Establish mechanisms in school for monitoring students after they complete education.
+- Establish mechanisms in school for monitoring students after they complete education.
 
 #### 2.5.2. Network of Schools, Equipment in Schools
 
@@ -546,15 +568,15 @@ The school network for conducting secondary vocational education comprises 26 vo
 
 ##### Tasks
 
--Harmonise the school network with the enrolment policy;
+- Harmonise the school network with the enrolment policy;
 
--Improve equipment  in  schools: classrooms for theoretical subjects  and workshops  and  laboratories  for  practical  teaching, classrooms for  foreign languages, computer workshops etc;
+- Develop minimum standards for equipment for all education profiles;
 
--Develop minimum standards for equipment for all education profiles;
+- Improve equipment in schools: classrooms for theoretical subjects and workshops and laboratories for practical teaching, classrooms for foreign languages, computer workshops etc;
 
--Develop teaching aids in schools;
+- Develop teaching aids in schools;
 
--Open high vocational schools.
+- Open high vocational schools.
 
 #### 2.5.3. Vocational Guidance
 
@@ -584,17 +606,17 @@ Vocational  counselling  is  provided  by  psychologists -advisers  for  vocatio
 
 ##### Tasks
 
--Train  pedagogical  and psychological  services,  teachers  and  management  in schools in the field of vocational guidance, counselling and information;
+- Train pedagogical and psychological services, teachers and management in schools in the field of vocational guidance, counselling and information;
 
--Promote the importance of vocational guidance, promote demanded occupations and successful companies and employers;
+- Introduce polls in final grades of primary schools with the questions about the choice of education profile and establish electronic data processing aimed at timely information of students about the possibilities for enrolment in the desired profile;
 
--Introduce polls in final grades of primary schools with the questions about the choice of education profile and establish electronic data processing aimed at timely  information  of students  about  the  possibilities  for enrolment in  the desired profile;
+- Promote the importance of vocational guidance, promote demanded occupations and successful companies and employers;
 
--Establish cooperation with pedagogical and psychological services in schools and Centres for Information and Vocational Counselling;
+- Establish cooperation with pedagogical and psychological services in schools and Centres for Information and Vocational Counselling;
 
--Provide students with the possibility to make connections with companies and entrepreneurs and learn about various occupations.
+- Ensure development of the network of Centres for Information and Vocational Counselling;
 
--Ensure development of the network of Centres for Information  and Vocational Counselling;
+- Provide students with the possibility to make connections with companies and entrepreneurs and learn about various occupations.
 
 #### 2.5.4. Social Inclusion
 
@@ -614,27 +636,27 @@ Teachers that work in vocational education are not adequately prepared to work w
 
 ##### Strategic goals
 
--Include  as  large  percentage  of  children  with  special  needs  as  possible  in vocational education and create adequate conditions in schools for their high quality work and training which will result in knowledge and skills required by certain knowledge standards;
+- Include as large percentage of children with special needs as possible in vocational education and create adequate conditions in schools for their high quality work and training which will result in knowledge and skills required by certain knowledge standards;
 
--Promote secondary education and focus more attention and activities in the field of vocational education that can promote vulnerable groups and provide them with the opportunity for active training for work and life;
+- Improve the basic teacher training for work with children with special educational needs;
 
--Improve  the  basic  teacher  training for  work with  children  with  special educational needs;
+- Promote secondary education and focus more attention and activities in the field of vocational education that can promote vulnerable groups and provide them with the opportunity for active training for work and life;
 
--Create  conditions  for implementation  of  the  Law  on  National  Vocational Qualifications  which  will  provide  vulnerable  groups  with  the  opportunity  to obtain vocational qualifications.
+- Create conditions for implementation of the Law on National Vocational Qualifications which will provide vulnerable groups with the opportunity to obtain vocational qualifications.
 
 ##### Tasks
 
--Develop a database of children with special needs;
+- Develop a database of children with special needs;
 
--Meet the required standards in terms of architecture;
+- Train human resources to work with children with special learning needs;
 
--Train human resources to work with children with special learning needs;
+- Meet the required standards in terms of architecture;
 
--Establish cooperation  among  institutions  for  the  purposes  of  exchange  and flow of information between relevant institutions (school - health institutions - social protection institutions);
+- Establish cooperation among institutions for the purposes of exchange and flow of information between relevant institutions (school – health institutions – social protection institutions);
 
--Set the form of education related work for education fields for every individual child  within  individual  curricula  and  set  the  manner  of  providing  additional
+- Establish connections with special institutions in order to implement the so called „partial inclusion";
 
--Establish  connections  with  special  institutions  in  order  to  implement  the  so called 'partial inclusion";
+- Set the form of education related work for education fields for every individual child within individual curricula and set the manner of providing additional
 
 22
 
@@ -672,21 +694,21 @@ Establish sustainable system of quality assurance in vocational education on the
 
 [[START OF PAGE 24]]
 
--Develop methodological framework which supports establishment and implementation of the system of quality assurance on the national level and on the level of schools;
+- Develop methodological framework which supports establishment and implementation of the system of quality assurance on the national level and on the level of schools;
 
--Have regular evaluations of work of educational institutions done by competent institutions and define mechanisms and procedures for improving the process of work in line with the results of evaluation;
+- Develop national indicators for measuring quality of education;
 
--Develop national indicators for measuring quality of education;
+- Have regular evaluations of work of educational institutions done by competent institutions and define mechanisms and procedures for improving the process of work in line with the results of evaluation;
 
--Improve the procedures and measurements for self-evaluation of educational institutions and for their implementation;
+- Improve the procedures and measurements for self-evaluation of educational institutions and for their implementation;
 
--Develop guidance for improvement evaluation of the students' knowledge and quality of teaching processes;
+- Establish methodology for evaluation of curricula, develop tools for evaluation of curricula, implement evaluation and analysis and give recommendations to schools, authorities and bodies;
 
--Establish methodology for evaluation of curricula, develop tools for evaluation of curricula, implement evaluation and analysis and give recommendations to schools, authorities and bodies;
+- Develop guidance for improvement evaluation of the students’ knowledge and quality of teaching processes;
 
--Develop  guidelines  for  setting  the  minimum  standards  of  knowledge  which include key competences (for all thematic units of subject curricula);
+- Develop guidelines for setting the minimum standards of knowledge which include key competences (for all thematic units of subject curricula);
 
--Develop guidance for improving the quality of practical teaching.
+- Develop guidance for improving the quality of practical teaching.
 
 #### 2.6.2. Teaching and Learning Process
 ##### Background
@@ -707,15 +729,15 @@ Create conditions for activities of students to dominate in teaching practices (
 
 ##### Tasks
 
--Organise education  process through  the  principles  of  interactive  teaching dominated  by  creative learning, creative thinking, problem  solving  and development of social skills, with the application of contemporary education technology;
+- Organise education process through the principles of interactive teaching dominated by creative learning, creative thinking, problem solving and development of social skills, with the application of contemporary education technology;
 
--Introduce continual  and  development-analytical  consideration  of students' progress;
+- Introduce various forms and methods of work aimed at increasing the active role of students;
 
--Introduce various forms and methods of work aimed at increasing the active role of students;
+- Introduce continual and development-analytical consideration of students’ progress;
 
--Use textbooks,  manuals  and  other  teaching  aids  for  teachers  and students which meet the criteria of quality in terms of methodology;
+- Use textbooks, manuals and other teaching aids for teachers and students which meet the criteria of quality in terms of methodology;
 
--Modernise the system of initial teacher training, and create conditions for their permanent methodological and professional training.
+- Modernise the system of initial teacher training, and create conditions for their permanent methodological and professional training.
 
 ### 2.7. Teachers and School Management
 
@@ -735,9 +757,9 @@ Training  and specialisation  of  teachers  in  vocational  education  is carrie
 
 [[START OF PAGE 26]]
 
-- Training  teachers  to  improve  their  pedagogical  knowledge  and  use modern methods to transfer knowledge;
+1. Training teachers to improve their pedagogical knowledge and use modern methods to transfer knowledge;
 
-- Training teachers to improve their teaching methodology knowledge in theoretical subjects.
+2. Training teachers to improve their teaching methodology knowledge in theoretical subjects.
 
 Training  and specialisation  of  principals  is  done  through  seven  compulsory modules and a final paper. 20 principals of vocational schools went through this training.
 
@@ -747,48 +769,49 @@ Establish high quality system of teacher training for the purposes of extending 
 
 #### Tasks
 
--Promote the  importance  of  life-long  teacher  training  using the  examples  of good practice;
+- Promote the importance of life-long teacher training using the examples of good practice;
 
--Develop a strategic plan for training teachers in vocational education and adult education;
+- Train management structures in schools for new methods of work and organisation in schools;
 
--Train  management structures  in  schools  for  new  methods  of  work  and organisation in schools;
+- Develop a strategic plan for training teachers in vocational education and adult education;
 
--Prepare new teacher training programmes - modules;
+- Prepare new teacher training programmes – modules;
 
--Train trainers to implement new teacher training modules;
+- Train trainers to develop teacher training modules;
 
--Train trainers to develop teacher training modules;
+- Train trainers to implement new teacher training modules;
 
--Train instructors  of  practical  education  that  work  at  the  employers  in  adult education  and  pedagogy  and  in  how  to  use contemporary  methods  for transferring knowledge to the young and adults;
+- Train instructors of practical education that work at the employers in adult education and pedagogy and in how to use contemporary methods for transferring knowledge to the young and adults;
 
--Provide conditions for  teacher training  with  the  view  to  promoting  teachers according to the applicable legislation;
+- Develop database on training of teachers and other human resources employed in vocational and adult education;
 
--Develop database on training of teachers and other  human  resources employed in vocational and adult education;
+- Provide conditions for teacher training with the view to promoting teachers according to the applicable legislation;
 
--Implement various forms of training for teachers and other human resources, principals  and  expert  associates  that  are  occasionally  hired  in  the  process  of vocational and adult education.
+- Implement various forms of training for teachers and other human resources, principals and expert associates that are occasionally hired in the process of vocational and adult education.
 
 ### 2.8. Financing Vocational Education
 #### Background
 
-Since the beginning of the education system reform the Ministry of Education and Science has been aspiring to decentralize financing of education and to transfer a part  of  the  responsibilities  for  financing  to  the  level  of  municipalities.  The conditions  for  that  have  not  yet  been  created  and  the  total  financing  of  the education system is still done from the central level. The Ministry of Education and Science covers all the costs for education, including the salaries of employees, operational costs, expenditures for energy, investment maintenance, capital expenditures etc.
+Since the beginning of the education system reform the Ministry of Education and Science has been aspiring to decentralize financing of education and to transfer a part of the responsibilities for financing to the level of municipalities. The conditions for that have not yet been created and the total financing of the education system is still done from the central level. The Ministry of Education and Science covers all the costs for education, including the salaries of employees,
 
 26
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+operational costs, expenditures for energy, investment maintenance, capital expenditures etc.
 
-Apart  from  these,  the  Government  allocates  special funds  for  the  education system through the 'Capital Budget' - a significant part of it for the improvement of school infrastructure.
+Apart from these, the Government allocates special funds for the education system through the “Capital Budget“ – a significant part of it for the improvement of school infrastructure.
 
 Starting from the fiscal year 2005 the Ministry of Education and Science has been applying the programme budget which contains 10 programmes, one of which is the program for secondary education.
 
 In  order  to  achieve  financing  per student,  higher  autonomy of schools, schools oriented  to  development, to  take responsibility  on  all  levels, stimulate internal motivation in schools and enhance partnership among the factors that influence operation  of  schools, we  need  to  do  the  following  in  the  field  of  financing education:
 
--Introduce new methods of calculation of the needed funds for all education levels;
+- Eliminate inefficiencies in education system and direct saved funds to the education reform;
 
--Eliminate  inefficiencies in  education  system  and direct saved  funds to the education reform;
+- Introduce new methods of calculation of the needed funds for all education levels;
 
--Identify the manners for ensuring higher participation of non-budget funds in education and create conditions for budget financing per student.
+- Identify the manners for ensuring higher participation of non-budget funds in education and create conditions for budget financing per student.
 
 #### Strategic goal
 
@@ -796,45 +819,47 @@ Achieve consensus on the national level and prepare the model of financing per s
 
 #### Tasks
 
--Start dialogue between education institutions, local community, social partners and the state about the method for financing vocational education;
+- Start dialogue between education institutions, local community, social partners and the state about the method for financing vocational education;
 
--Ensure that school managements assume responsibilities for development of education institutions and encourage the motivation of schools to raise funds.
+- Develop the model of financing per student on the basis of which the Budget of the Ministry of Education and Science would be prepared;
 
--Develop the model of financing per student on the basis of which the Budget of the Ministry of Education and Science would be prepared;
+- Ensure that school managements assume responsibilities for development of education institutions and encourage the motivation of schools to raise funds.
 
 ### 2. 9. International Cooperation
 
-Cooperation between education institutions and proper international partners has been established  on  all  levels,  both  on  the  European  level  and  on  the  level established  on  the  basis  of  bilateral  agreements  with  the  countries  interested  in giving their contribution to establishing high-quality system of vocational education  in  Montenegro.  The  scope  and  diversity  of  international  cooperation, which  is  extremely  important  for  education  institutions  in  Montenegro,  are  the results of the systematic support to international cooperation on the national level. International  cooperation  has  become  an  integral  part  of  the  work  plans  of education institutions on the level of contents, organisation, and finances and on the level of human resources development.
+Cooperation between education institutions and proper international partners has been established on all levels, both on the European level and on the level established on the basis of bilateral agreements with the countries interested in giving their contribution to establishing high-quality system of vocational education in Montenegro. The scope and diversity of international cooperation,
 
 27
 
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
+which is extremely important for education institutions in Montenegro, are the results of the systematic support to international cooperation on the national level.
 
+International cooperation has become an integral part of the work plans of education institutions on the level of contents, organisation, and finances and on the level of human resources development.
 #### Strategic goals
 
--Encourage on the national level international cooperation and connections of education institutions with relevant international institutions;
+- Encourage on the national level international cooperation and connections of education institutions with relevant international institutions;
 
--Introduce multi-culturalness  and  promotion  of  Montenegrin  knowledge  and culture.
+- Ensure competitiveness of knowledge acquired by students in Montenegro with the needs of the European labour market;
 
--Ensure competitiveness  of  knowledge  acquired  by students  in  Montenegro with the needs of the European labour market;
+- Introduce multi-culturalness and promotion of Montenegrin knowledge and culture.
 
 #### Tasks
 
--Coordinate activities on the national level;
+- Coordinate activities on the national level;
 
--Compare achievement of students on international level;
+- Improve cooperation and connection of institutions and bodies dealing with vocational education with the appropriate institutions and bodies of European countries;
 
--Improve cooperation and connection of institutions and bodies dealing with vocational education with the appropriate institutions and bodies of European countries;
+- Compare achievement of students on international level;
 
--Exchange experience and examples of good practice;
+- Exchange experience and examples of good practice;
 
--Connect schools,  exchange students  and  teachers  and  joint  participation  in international projects.
+- Check the quality and verify the achieved education level;
 
--Check the quality and verify the achieved education level;
+- Connect schools, exchange students and teachers and joint participation in international projects.
 
--Introduce European dimension in education, training and employment.
+- Introduce European dimension in education, training and employment.
 
 ## 3. IMPLEMENTATION OF MONTENEGRIN VOCATIONAL EDUCATION DEVELOPMENT STRATEGY
 
@@ -842,13 +867,14 @@ Montenegrin Vocational Education Development Strategy (2010- 2014) contains goal
 
 Measures and activities necessary for achieving the goals and identified within the priority areas for enhancement  of  vocational education in the Vocational Education Development Strategy will be defined in the action plans. Apart from specifying  the  activities,  the  action  plans  will  identify  holders  for  every  activity, deadlines for implementation of each activity and financing.
 
-Development of the Action Plan for Implementation of Montenegrin Vocational Education Development Strategy (2010 - 2014) should start immediately after the Strategy is adopted by the Government of Montenegro.
+Development of the Action Plan for Implementation of Montenegrin Vocational
 
 28
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
+Education Development Strategy (2010 – 2014) should start immediately after the Strategy is adopted by the Government of Montenegro.
 
 ## 4. ANNEX
 
@@ -862,15 +888,16 @@ Vocational Education and Training Centre carries out the advisory, research and 
 
 Examination Centre is responsible for external testing of the achieved standard of knowledge and skills. It is also responsible for the following: preparation of tasks, organisation and implementation of exams  according to the law; training institutions  for  preparation  for  external  examinations;  advising  and  providing services related to external examination; research and development of the external evaluation  of  knowledge;  international  comparability  of  the  education  system quality and other tasks according to the law and memorandum of association.
 
-Council  for Vocational Education  as an  expert  body  is  in  charge  of: passing subject syllabi and examination catalogues for practical, vocational, final,  master craftsman's,  graduation  exams  and  other  exams  to  be  taken  in  the  field  of vocational  education; passing curricula  for  vocational  education,  curricula  for vocational education of children and the young with special needs; proposing the general  part  of  curricula  for  vocational  education  and  vocational  education  for children and the young with special needs, occupational standards, catalogues for standards  of  knowledge  and  competences,  etc. Occupational  standards  are promulgated by the Ministry of Labour and Social Welfare.
+Council for Vocational Education as an expert body is in charge of: passing subject syllabi and examination catalogues for practical, vocational, final, master craftsman’s, graduation exams and other exams to be taken in the field of vocational education; passing curricula for vocational education, curricula for vocational education of children and the young with special needs; proposing the general part of curricula for vocational education and vocational education for
 
 29
 
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
+children and the young with special needs, occupational standards, catalogues for standards of knowledge and competences, etc. Occupational standards are promulgated by the Ministry of Labour and Social Welfare.
 
-Institutions are managed by a school board which, among other things, adopts the development programme;  adopts  the  annual  work  plan  and  report  on  the implementation of such a plan; discusses curricula and results of extra-curriculum activities;  passes  the  statute,  document  on  the  internal organisation and  job escription and  other  general  documents;  passes  annual  financial  plans;  adopts periodical and annual calculations; decides as a second instance body on the rights of employees, students and users of services according to the law.
+Institutions are managed by a school board which, among other things, adopts the development programme; adopts the annual work plan and report on the implementation of such a plan; discusses curricula and results of extra-curriculum activities; passes the statute, document on the internal organisation and job description and other general documents; passes annual financial plans; adopts periodical and annual calculations; decides as a second instance body on the rights of employees, students and users of services according to the law.
 
 Public  institutions  in  the  field  of  education  are  managed  by  principals  who  are pedagogical  managers. Principles plan, organise  and  manage  operation  of  the institutions.
 
@@ -882,23 +909,23 @@ All the above responsibilities of institutions and bodies are defined in the Gen
 
 ------------------------------------------------------------------------------------------------------
 
--Marko Jokić, Ministry of Education and Science, chairman;
+Montenegrin Vocational Education Development Strategy (2010-2014) was prepared by the Working Group:
 
-Montenegrin Vocational Education Development  Strategy (2010-2014) was prepared by the Working Group:
+- Marko Jokić, Ministry of Education and Science, chairman;
 
--Zora Bogićević, Ministry of Education and Science, coordinator;
+- Zora Bogićević, Ministry of Education and Science, coordinator;
 
--Dušan Bošković, Vocational Education and Training Centre;
+- Duško Rajković, Vocational Education and Training Centre;
 
--Duško Rajković, Vocational Education and Training Centre;
+- Dušan Bošković, Vocational Education and Training Centre;
 
--Vladimir Radovanić, Ministry of Labour and Social Welfare;
+- Vladimir Radovanić, Ministry of Labour and Social Welfare;
 
--Mladen Perazić, Chamber of Commerce of Montenegro;
+- Nada Radovanić, Employment Office of Montenegro;
 
--Nada Radovanić, Employment Office of Montenegro;
+- Mladen Perazić, Chamber of Commerce of Montenegro;
 
--Branka Martinović, Confederation of Trade Unions of Montenegro;
+- Branka Martinović, Confederation of Trade Unions of Montenegro;
 
 Consultants: Michael Wiechert and Melanie Hoppe, German Federal Institute for Vocational Education and Training (BiBB).
 
