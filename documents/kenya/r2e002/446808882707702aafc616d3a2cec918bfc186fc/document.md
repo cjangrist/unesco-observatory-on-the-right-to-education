@@ -18,11 +18,55 @@ JULY 2009
 
 ## TABLE OF CONTENTS
 
+List of Abbreviations and Acronyms................................................................... 4
+Definition of Key Terms............................................................................................ 5
+Foreword............................................................................................ 8
+Preface…………………………………………………………… 8
+Acknowledgements
+Methodology …………………………………………… 10
+Executive Summary……………………………………………..........11
+CHAPTER ONE
+INTRODUCTION…………………………………………………………………13
+1.0 Background ..........................................................................16
+1.1 Status of Special Needs Education in Kenya........................17
+1.2 Situational Analysis ...............................................................19
+1.3 Policy and Legal Context...................................................... 20
+1.4 Ongoing Initiatives, Disparities and Underlying Causes..... 22
+1.5 Rationale for a Comprehensive Special Needs Education Policy .......................................................................................... 23
+1.6 Goal and Objectives.............................................................. 24
+1.7 Scope of the Special Needs Education Policy...................... 26
+1.8 Guiding Principles................................................................ 27
+2.0 CHAPTER TWO – POLICY PROVISIONS....................................... 29
+2.0 Introduction ......................................................................... 29
+2.1 Assessment and Intervention ............................................... 29
+2.3 Conducive and Safe Environment - Health and Safety (Adaptation of Facilities)............................................................ 34
+2.4 Specialized Facilities and Technology................................. 36
+
 2
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+2.5 Inclusive Education .............................................................. 37
+2.6 Curriculum Development...................................................... 39
+2.7 Capacity Building and Human Resource Development........41
+2.8 Participation and Involvement............................................. 43
+2.9 Advocacy and Awareness Creation 44
+2.10 Partnerships and Collaboration ........................................... 46
+2.11 Gender Mainstreaming in Special Needs Education
+2.12 Research and Documentation ............................................ 49
+2.13 Disaster Preparedness.........................................................51
+2.14 Resource Mobilization....................................................... 53
+2.15 Guidance and Counseling.................................................. 54
+CHAPTER THREE – IMPLEMENTATION OF SPECIAL NEEDS EDUCATION POLICY...................................................................... 56
+3.0 Introduction....................................................................... 56
+3.1 Financing Special Needs Education .................................. 56
+3.2 Information and Communication Technology (ICT)........ 57
+3.3 Management and Coordination of Special Needs Education .................................................................................................... 60
+3.4 Monitoring And Evaluation ...................................................61
+3.5 Review and Amendment of the Policy ......................................................61
+REFERENCES .......................................................................... 42
 
 3
 
@@ -32,117 +76,35 @@ JULY 2009
 
 ## List of Abbreviations and Acronyms
 
-UNESCO  - United Nations Educational Scientific and Cultural
-
-CBO
-
-- Community Based Organization
-
-CSO
-
-- Civil Society Organization
-
-EARC
-
-- Educational Assessment and Resource Centre
-
-ECDE
-
-- Early Childhood Development Education
-
-EFA
-
-- Education For All
-
-FBO
-
-- Faith Based Organization
-
-FPE
-
-- Free Primary Education
-
-HI
-
-- Hearing Impaired
-
+CBO - Community Based Organization
+CSO - Civil Society Organization
+EARC - Educational Assessment and Resource Centre
+ECDE - Early Childhood Development Education
+EFA - Education For All
+FBO - Faith Based Organization
+FPE - Free Primary Education
+HI - Hearing Impaired
 HIT-MAC - High Impact Trainers and Management Consultants
-
-ICT
-
-- Information Communication and Technology
-
-IT
-
-- Itinerant Teachers
-
-KIE
-
-- Kenya Institute of Education
-
-KISE
-
-- Kenya Institute of Special Education
-
-KU
-
-- Kenyatta University
-
-KNEC
-
-- Kenya National Examination Council
-
-KSL
-
-- Kenyan Sign Language
-
-MDGs
-
-- Millennium Development Goals
-
-MOE
-
-- Ministry of Education
-
-NGO
-
-- Non Governmental Organization
-
-PS
-
-- Permanent Secretary
-
-SAGA
-
-- Semi Autonomous Government Agency
-
-SNE
-
-- Special Needs Education
-
-SSI
-
-- Sight Savers International
-
-TTC          - Teacher Training College
-
-TSC
-
-- Teachers Service Commission
-
-Organization
-
-UPE
-
--Universal Primary Education
-
-VI
-
--Visual Impairment
-
-VSO
-
-- Voluntary Service Organization
+ICT - Information Communication and Technology
+IT - Itinerant Teachers
+KIE - Kenya Institute of Education
+KISE - Kenya Institute of Special Education
+KU - Kenyatta University
+KNEC - Kenya National Examination Council
+KSL - Kenyan Sign Language
+MDGs - Millennium Development Goals
+MOE - Ministry of Education
+NGO - Non Governmental Organization
+PS - Permanent Secretary
+SAGA - Semi Autonomous Government Agency
+SNE - Special Needs Education
+SSI - Sight Savers International
+TTC - Teacher Training College
+TSC - Teachers Service Commission
+UNESCO - United Nations Educational Scientific and Cultural Organization
+UPE -Universal Primary Education
+VI -Visual Impairment
+VSO - Voluntary Service Organization
 
 4
 
@@ -210,7 +172,7 @@ Tactile: These  are  formats  that  facilitate  reading  through  the  use  of t
 
 ## Foreword
 
-The Government of Kenya recognizes the importance of Special Needs Education  as  a  crucial  subsector  for  accelerating  the  attainment  of Education  for  All  (EFA)  and  the  Millennium  Development  Goals (MDGs).  Sessional Paper No 1 of 2005 on 'A Policy Framework for Education, Training and Research' outlines the vision of our education sector  as  a  major  enabler  of  our  youth.    This  vision  will  be  achieved through the provision of quality education that is accessible and relevant to the lives of all children including those with Special Needs.  Such an education will contribute significantly towards provision of employment opportunities and self-reliance.
+The Government of Kenya recognizes the importance of Special Needs Education as a crucial subsector for accelerating the attainment of Education for All (EFA) and the Millennium Development Goals (MDGs). Sessional Paper No 1 of 2005 on “A Policy Framework for Education, Training and Research” outlines the vision of our education sector as a major enabler of our youth. This vision will be achieved through the provision of quality education that is accessible and relevant to the lives of all children including those with Special Needs. Such an education will contribute significantly towards provision of employment opportunities and self-reliance.
 
 Our  policy  framework  resulted  from  active  participation  of  all  sector stakeholders in Kenya and represents a consensus of stakeholders on the provision of Special Needs Education.  It addresses some of the critical issues which determine delivery of quality and relevant education to these and other learners. For this reason we have no doubt that we are on the right path towards the realization of our set targets.
 
@@ -288,15 +250,16 @@ Mr. K. P. Yator
 
 [[START OF PAGE 11]]
 
-Mrs. Anne Musalia | - MOE - DQAS
---- | ---
-Ms.Jane Omogi | - MOE - SNE
-Mr. Eliud Barasa | - Ministry of Youth Affairs
-Mrs. Maria Cherono | - Ministry of Youth Affairs
-Miss Winnie Muthumbi | - MOE-SNE (Retired)
-Ms. Elizabeth Mbui | - MOE - SNE
+Mrs. Anne Musalia - MOE – DQAS
+Ms.Jane Omogi - MOE – SNE
+Mr. Eliud Barasa - Ministry of Youth Affairs
+Mrs. Maria Cherono - Ministry of Youth Affairs
+Miss Winnie Muthumbi - MOE-SNE (Retired)
+Ms. Elizabeth Mbui - MOE – SNE
+Ms. Catherine Rintari - MOE – SNE
 
-PROF. GEORGE I. GODIA, EBS EDUCATION SECRETARY
+PROF. GEORGE I. GODIA, EBS
+EDUCATION SECRETARY
 
 11
 
@@ -342,7 +305,7 @@ Kenya earliest efforts for organized care and provision of special needs educati
 
 In 1986 the Kenya Institute of Special Education (KISE) was established to build the capacity of Special Needs Education (SNE) service providers through teacher training/teacher in-servicing and research.
 
-Since  the  introduction  of  FPE  in  2003  the  Ministry  of  Education  has undertaken several measures to enable children with special needs access education.    Amongst  the  key  milestones  of  the  Ministry  efforts  is  the setting  up  of  a  task  force  (Dr.  Kochung  Taskforce  2003)  whose objectives was to appraise the status of special education in the country. The Dr. Kochung report's key recommendations were as follows;
+Since the introduction of FPE in 2003 the Ministry of Education has undertaken several measures to enable children with special needs access
 
 13
 
@@ -350,13 +313,12 @@ Since  the  introduction  of  FPE  in  2003  the  Ministry  of  Education  has u
 
 [[START OF PAGE 14]]
 
-- Training  and  in-service  of  teachers  for  children  with  Special Needs
+education. Amongst the key milestones of the Ministry efforts is the setting up of a task force (Dr. Kochung Taskforce 2003) whose objectives was to appraise the status of special education in the country. The Dr. Kochung report’s key recommendations were as follows;
 
-- Strengthening  Educational  Assessment  and  Resource  Centres (EARCs) through increased budgetary allocation and equipping
-
-- Carrying  out  of  special  needs  National  Survey  to  establish population of Special Needs children in and out of school and an inventory of assistive devices and equipment available in our schools.
-
-- Special Needs schools be made barriers free to enhance access.
+1. Training and in-service of teachers for children with Special Needs
+2. Strengthening Educational Assessment and Resource Centres (EARCs) through increased budgetary allocation and equipping
+3. Carrying out of special needs National Survey to establish population of Special Needs children in and out of school and an inventory of assistive devices and equipment available in our schools.
+4. Special Needs schools be made barriers free to enhance access.
 
 The implementation of Free Primary Education (FPE) led to an influx and  inclusion  of  new  categories  of  Special  Needs  Children  such  as autistic children, those with down syndrome, cerebral palsy, loco-motor impairment,  maladjusted  children,  multiple  handicapped  children  and gifted and talented learners in public schools.  These increased demands from parents and teachers overstretched the ministry's resources.
 
@@ -416,7 +378,7 @@ Good performance in education, training and research sectors immensely contribut
 
 The Government of Kenya is committed to the provision of equal access to  quality  and  relevant  education  and  training  opportunities  to  ALL Kenyans. Towards this goal, the government has ratified and domesticated various global policy frameworks in education. The government  signed  Article  26  of  the  Universal  Declaration  of  Human Rights  (1948),  consequently  recognizing  and  committing  itself  to  the right  of  every  child  to  access  education.    The  Article  recognizes  the intrinsic  human  value  of  education,  underpinned  by  strong  moral  and legal  foundations.  Other  international  policy  frameworks  ratified  and signed  by  the  government  include,  (but  are  not  limited  to)  the  1989 United Nations Convention on the Rights of the Child (CRC), the 1990 African  Charter  on  the  Rights  and  Welfare  of  the  Child,  Salamanca Statement (1994), the Framework for Action on Special Needs Education  (1999),  the  Millennium  Development  Goals  (MDGs)  and Education For All (EFA) by 2015.
 
-At independence in 1963, the government recognized education as one of  the  basic  human  rights  and  hence  a  powerful  vehicle  for  human resource and national development. This recognition has been demonstrated  by  the  government's  expansion  of  schools  and  other educational  facilities.  In  1963,  the  country  had  6,  058  primary  and  151 secondary  schools  with  respective  enrolments  of  891,  553  and  30,  121 pupils. The government declared Free Primary Education (FPE) for ALL Kenyan  children  in  2003.  Implementation  of  FPE  is  critical  to  the attainment  of  Universal  Primary  Education  which  is  a  key  milestone towards  achievement  of  the  EFA  goals.  By  2008,  these  numbers  had increased to 18,600 public and 1,839 private primary schools with a total enrolment of 8,563,821 pupils. Secondary schools had increased to 3,621 public and 490 private schools with an enrolment of 1,382,211 students. This expansion has not been without major challenges, one of which is equity especially in relation to learners with special needs and disabilities.
+At independence in 1963, the government recognized education as one of the basic human rights and hence a powerful vehicle for human resource and national development. This recognition has been demonstrated by the government’s expansion of schools and other
 
 16
 
@@ -424,15 +386,18 @@ At independence in 1963, the government recognized education as one of  the  bas
 
 [[START OF PAGE 17]]
 
-Educational opportunities for children (learners) with special needs and disabilities  are  a  major  challenge  to  the  education  sector.  The  national education  system  has  been  characterized  by  inadequate  systems  and facilities  that  respond  to  the  challenges  faced  by  learners  with  special needs  and  disabilities.  Rule  number  6  of  the  United  Nations  Standard Rules on the Equalization of Opportunities, not only affirms the equal rights of children, youth and adults with handicaps to education, but also states that education should be provided 'in integrated school settings' and  'in  the  general  school  setting'.  There  is  need  to  link  inclusive education  with  wider  community-based  programmes  for  Persons  with special needs and disabilities.
+educational facilities. In 1963, the country had 6, 058 primary and 151 secondary schools with respective enrolments of 891, 553 and 30, 121 pupils. The government declared Free Primary Education (FPE) for ALL Kenyan children in 2003. Implementation of FPE is critical to the attainment of Universal Primary Education which is a key milestone towards achievement of the EFA goals. By 2008, these numbers had increased to 18,600 public and 1,839 private primary schools with a total enrolment of 8,563,821 pupils. Secondary schools had increased to 3,621 public and 490 private schools with an enrolment of 1,382,211 students.
+
+This expansion has not been without major challenges, one of which is equity especially in relation to learners with special needs and disabilities.
+
+Educational opportunities for children (learners) with special needs and disabilities are a major challenge to the education sector. The national education system has been characterized by inadequate systems and facilities that respond to the challenges faced by learners with special needs and disabilities. Rule number 6 of the United Nations Standard Rules on the Equalization of Opportunities, not only affirms the equal rights of children, youth and adults with handicaps to education, but also states that education should be provided “in integrated school settings” and “in the general school setting”. There is need to link inclusive education with wider community-based programmes for Persons with special needs and disabilities.
 
 ### 1.1 Status of Special Needs Education in Kenya
 
 Special  needs  education  started  in  Kenya  after  the  end  of  the  Second World  War  and  has  since  been  offered  mainly  to  four  categories  of children  with  disabilities,  namely;  children  with  hearing  impairment, mental  handicap,  visual  impairment  and  those  with  physical  handicap. Education to these children was only offered in special schools until the 1970s  when  units  and  integrated  programmes  were  initiated.  Special needs education has continued to expand and currently includes Learners with/who:
 
-- Hearing impairments
-
-- Visual impairments
+1. Hearing impairments
+2. Visual impairments
 
 17
 
@@ -440,49 +405,30 @@ Special  needs  education  started  in  Kenya  after  the  end  of  the  Second 
 
 [[START OF PAGE 18]]
 
-- Physical impairments
-
-- Cerebral palsy
-
-- Epilepsy
-
-- Mental handicaps
-
-- Downs Syndrome
-
-- Autism
-
-- Emotional and behavioral disorders
-
-- Learning disabilities (LD)
-
-- Speech and language disorders.
-
-- Multiple handicaps
-
-- Albinism
-
-- Other health impairments
-
-- Are gifted and talented
-
-- Are deafblind
-
-- Are orphaned
-
-- Are abused
-
-- Are living in the streets
-
-- Are heading households
-
-- Are of nomadic / pastoral communities
-
-- Are Internally displaced
+3. Physical impairments
+4. Cerebral palsy
+5. Epilepsy
+6. Mental handicaps
+7. Downs Syndrome
+8. Autism
+9. Emotional and behavioral disorders
+10. Learning disabilities (LD)
+11. Speech and language disorders.
+12. Multiple handicaps
+13. Albinism
+14. Other health impairments
+15. Are gifted and talented
+16. Are deafblind
+17. Are orphaned
+18. Are abused
+19. Are living in the streets
+20. Are heading households
+21. Are of nomadic / pastoral communities
+22. Are Internally displaced
 
 However, educational opportunities for learners with special needs and disabilities  are  a  major  challenge  to  the  education  sector.  Majority  of learners  with  Special  Needs  and  Disabilities  in  Kenya  do  not  access educational  services.  For  instance,  in  1999  there  were  only  22,000 learners  with  special  needs  and  disabilities  enrolled  in  special  schools, units and integrated programs. This number rose to 26,885 in 2003 and 45,000 in  2008,  which  compares  poorly  with  the  proportion  in  general education.
 
-In 2008 there were 1341 special units and 114 public special schools in the country which include vocational and technical institutions that cater for  learners  with  special  needs  and  disabilities.  This  is  still  inadequate despite the government's commitment to support the provision of equal access  to  education  by  all  children.  The  government's  commitment  to special needs education has been demonstrated through establishment of a special needs education section and the appointment of a Special Needs Education Inspector in 1975 and 1978 respectively at MOE headquarters. The government further posted a special needs education specialist  at  the  Kenya  Institute  of  Education  (KIE)  in  1977.  Other developments  included  the  preparation  of  teachers  of  learners  with special needs and disabilities that have led to the establishment of Kenya Institute of Special Education (KISE) and departments of special needs education at Kenyatta, Moi, Maseno and Methodist Universities.
+In 2008 there were 1341 special units and 114 public special schools in the country which include vocational and technical institutions that cater for learners with special needs and disabilities. This is still inadequate despite the government’s commitment to support the provision of equal access to education by all children. The government’s commitment to special needs education has been demonstrated through establishment of
 
 18
 
@@ -490,7 +436,9 @@ In 2008 there were 1341 special units and 114 public special schools in the coun
 
 [[START OF PAGE 19]]
 
-In  view  of  the  above,  this  situation  calls  for  a  re-appraisal  of  available approaches to expand Special Needs Education services so as to achieve an enrolment rate at par with that of other children. To attain this, Kenya needs to ensure the realization of inclusive education and simultaneously develop and implement guidelines that mainstream special needs education at all levels of the education system.
+a special needs education section and the appointment of a Special Needs Education Inspector in 1975 and 1978 respectively at MOE headquarters. The government further posted a special needs education specialist at the Kenya Institute of Education (KIE) in 1977. Other developments included the preparation of teachers of learners with special needs and disabilities that have led to the establishment of Kenya Institute of Special Education (KISE) and departments of special needs education at Kenyatta, Moi, Maseno and Methodist Universities.
+
+In view of the above, this situation calls for a re-appraisal of available approaches to expand Special Needs Education services so as to achieve an enrolment rate at par with that of other children. To attain this, Kenya needs to ensure the realization of inclusive education and simultaneously develop and implement guidelines that mainstream special needs education at all levels of the education system.
 
 ### 1.2 Situational Analysis
 
@@ -498,7 +446,7 @@ Since  independence  there  have  been  various  policy  recommendations given  
 
 In order to implement to the recommendations of the various committees and commissions and to respond to the needs of stakeholders in education, particularly those with special needs in Kenya, there is need for a clear vision and goal on SNE to be entrenched in the policy document.
 
-The National SNE policy framework therefore will serve to harmonize education service provision for learners with special needs and disabilities in Kenya.  The policy shall provide a comprehensive framework of the principles and strategies to be followed in order to create equal access to quality and relevant education and training for these learners. It will also acknowledge other initiatives that are ongoing to bridge any gaps arising out of provision of SNE, identifying extra measures to be taken by the government and other stakeholders to address inequities and inequalities.
+The National SNE policy framework therefore will serve to harmonize education service provision for learners with special needs and disabilities in Kenya. The policy shall provide a comprehensive framework of the principles and strategies to be followed in order to create equal access to quality and relevant education and training for these learners. It will also
 
 19
 
@@ -506,13 +454,15 @@ The National SNE policy framework therefore will serve to harmonize education se
 
 [[START OF PAGE 20]]
 
+acknowledge other initiatives that are ongoing to bridge any gaps arising out of provision of SNE, identifying extra measures to be taken by the government and other stakeholders to address inequities and inequalities.
+
 ### 1.3 Policy and Legal Context
 
 The government of Kenya is committed to the protection and provision of equal opportunities to persons with special needs and disabilities. The government has developed a number of policy guidelines for SNE dating back to 1964. These include: Committee on Care and Rehabilitation of the  Disabled  chaired  by  Ngala  Mwendwa  (1964),  Kenya  Education Commission chaired by Ominde (1964), National Education Commission  on  Education  Objectives  and  Policies  (Gachathi  Report, 1976).  Other  commissions  that  have  given  policy  guidelines  on  special needs education include:  The  Presidential  Working  Committee  on Education  and  Training  for  the  next  Decade  and  Beyond  (Kamunge Report, 1988); Commission of Enquiry into Education Systems  (Koech Report, 1999) and the Task Force on Special Needs Education (Kochung Report, 2003).
 
 The work of the Committee on Care and Rehabilitation of the Disabled (Hon.  Ngala  Mwendwa,  1964)  resulted  in  the  formulation  of  Sessional Paper No. 5 of 1968. The Ominde report (Kenya Education Commission, 1964) recommended that children with mild handicaps be integrated to learn in regular schools. The National Education Commission (the Gachathi Report, 1976) recommended several measures to address SNE. These included coordination of early intervention  and  assessment  of  children  with  special  needs,  creation  of public  awareness on  causes of disabilities to  promote  prevention, research to determine the nature and extend of handicaps for provision of SNE, establishment of ECDE programs as part of special schools and development of policy for integrating learners with special needs.
 
-The Education Act - Cap 211 (Revised edition - 1980) states in part that 'no pupil shall be refused admission to, or excluded from, the school on any  grounds  of  sex,  race  or  colour  or  on  any  other  than  reasonable grounds' (Admission and removal of pupils). This in essence affirms the principle of inclusive education in Kenyan learning institutions.
+The Education Act - Cap 211 (Revised edition - 1980) states in part that “no pupil shall be refused admission to, or excluded from, the school on any grounds of sex, race or colour or on any other than reasonable
 
 20
 
@@ -520,13 +470,15 @@ The Education Act - Cap 211 (Revised edition - 1980) states in part that 'no pup
 
 [[START OF PAGE 21]]
 
-The  Presidential  Working  Committee  on  Education  And  Training  For This  Decade  And  Beyond,  (The  Kamunge  Report,  1988),  emphasized deployment of SNE  inspectors at district level and The Totally Integrated  Quality  Education  And  Training  Taskforce  (The  Koech report,  1999)  recommended  the  establishment  of  a  national  special education  advisory  board  and  noted  that  there  was  no  comprehensive SNE  policy  or  legal  framework  on  SNE  despite  existence  of  various policy guidelines.
+grounds” (Admission and removal of pupils). This in essence affirms the principle of inclusive education in Kenyan learning institutions.
+
+The Presidential Working Committee on Education And Training For This Decade And Beyond, (The Kamunge Report, 1988), emphasized deployment of SNE inspectors at district level and The Totally Integrated Quality Education And Training Taskforce (The Koech report, 1999) recommended the establishment of a national special education advisory board and noted that there was no comprehensive SNE policy or legal framework on SNE despite existence of various policy guidelines.
 
 The Persons with Disabilities Act (2003) further provides a comprehensive legal framework which outlaws all forms of discriminative  treatment  of  persons  with  special  needs  and  disabilities. This includes, among others, access to education and training. It provides for  adaptation  of  infrastructural,  socio-economic  and  environmental facilities  to  ensure  a  conducive  environment  for  persons  with  special needs and disabilities.  The Children's Act (2001) harmonizes all existing laws and policies on children into one document and aims at improving the well being of ALL children irrespective of whether they are disabled or not.
 
 The Sessional Paper No. 1 of 2005 states in part the overall government policy direction on learners with special needs and disabilities. It sets out clear policy guidelines for all education sub-sectors, including SNE and further  underscores  the  government's  commitment  to  ensuring  that learners  with  special  needs  and  disabilities  have  equal  access  to  quality and relevant education. It provides the overall policy framework for the education sector and references the necessary legal context within which education and training, including SNE, shall be designed, developed and implemented in Kenya.
 
-The gender  policy  in  education  singles  out  education  for  learners  with special  needs  and  disabilities  as  an  area  of  specific  focus.    This  policy states in part that to increase participation, retention and completion for learners  with  special  needs  and  disabilities,  the  government  should provide an enabling (legal and policy) environment. This should be done through flexing curriculum, providing trained personnel, equipment and facilities and ensuring accommodative physical infrastructure for learners with  special  needs  and  disabilities.  There  is  also  need  to  create  public awareness  on  causes  of  special  needs  and  disabilities  especially  in  rural areas. Coordination of early intervention and assessment of children with special needs and disabilities should be reinforced.
+The gender policy in education singles out education for learners with special needs and disabilities as an area of specific focus. This policy states in part that to increase participation, retention and completion for
 
 21
 
@@ -534,19 +486,18 @@ The gender  policy  in  education  singles  out  education  for  learners  with 
 
 [[START OF PAGE 22]]
 
+learners with special needs and disabilities, the government should provide an enabling (legal and policy) environment. This should be done through flexing curriculum, providing trained personnel, equipment and facilities and ensuring accommodative physical infrastructure for learners with special needs and disabilities. There is also need to create public awareness on causes of special needs and disabilities especially in rural areas. Coordination of early intervention and assessment of children with special needs and disabilities should be reinforced.
+
 ### 1.4 Ongoing Initiatives, Disparities and Underlying Causes
 
 Early  initiatives  for  provision  of  services  to  persons  with  special  needs and  disabilities  were  mostly  undertaken  by  Faith  Based  Organizations such  as  the  Salvation  Army,  the  Catholic,  Presbyterian,  Anglican  and Methodist Churches. Other initiatives included the Kenya Society for the Blind (KSB), Association for the Physically Disabled of Kenya (APDK), Kenya  Society  for  the  Mentally  Handicapped  (KSMH)  and  the  Kenya Society for Deaf Children (KSDC). The Government has supported the efforts  of  these  players  through  provision  of  financial,  technical  and human  resource support, as well as development  of an enabling environment to facilitate their work. Currently, majority  of  SNE institutions are run by the government in collaboration with other service providers.
 
 Although  the  Government  has  made  progress  in  the  provision  of educational services for persons with special needs and disabilities, it has also faced various challenges. These include:
 
-- Inadequate  data  on  children  with  special  educational  needs  and disabilities,
-
-- Lack of a comprehensive policy on SNE and proper guidelines on mainstreaming  of  special  needs  education  at  all  levels  and  in  the country.
-
-- Lack  of  appropriate  tools  and  skills  for  early  identification  and assessment;
-
-- Inadequate physical infrastructure, teaching/learning materials and facilities appropriate for SNE learners
+1. Inadequate data on children with special educational needs and disabilities,
+2. Lack of a comprehensive policy on SNE and proper guidelines on mainstreaming of special needs education at all levels and in the country.
+3. Lack of appropriate tools and skills for early identification and assessment;
+4. Inadequate physical infrastructure, teaching/learning materials and facilities appropriate for SNE learners
 
 22
 
@@ -554,9 +505,9 @@ Although  the  Government  has  made  progress  in  the  provision  of education
 
 [[START OF PAGE 23]]
 
-- Inadequate  skilled  manpower  and  inappropriate  placement  of children with special needs and disabilities
+5. Inadequate skilled manpower and inappropriate placement of children with special needs and disabilities
 
-The  development  of  the  National  Special  Needs  Education  Policy Framework  in  Kenya  is  taking  place  at  a  time  when  the  international community  is  in  agreement  that  education  is  the  main  driver  in  the attainment  of  the  Millennium  Development  Goals  (MDGs).  In  an attempt to provide quality special needs education, the government has committed  itself  towards  inclusive  education  and  has  set  out  to  reexamine  the  provision  of  education  to  all  through  review  of  existing physical facilities, curriculum, instruction materials and teacher preparation  to  ensure  that  all  learners  have  equal  access  to  quality  and relevant education.
+The development of the National Special Needs Education Policy Framework in Kenya is taking place at a time when the international community is in agreement that education is the main driver in the attainment of the Millennium Development Goals (MDGs). In an attempt to provide quality special needs education, the government has committed itself towards inclusive education and has set out to re-examine the provision of education to all through review of existing physical facilities, curriculum, instruction materials and teacher preparation to ensure that all learners have equal access to quality and relevant education.
 
 ### 1.5 Rationale for a Comprehensive Special Needs Education Policy
 
@@ -586,9 +537,9 @@ The overall goal of education is to achieve education for all by 2015 in line wi
 
 #### Vision
 
-In line with the government's overall goal for education, the SNE subsector's vision is to have:
+In line with the government’s overall goal for education, the SNE sub-sector’s vision is to have:
 
-' A  Society  in  which  ALL  persons  regardless  of  their  disabilities and special needs achieve education to realize their full potential'
+“A Society in which ALL persons regardless of their disabilities and special needs achieve education to realize their full potential”
 
 #### Mission
 
@@ -598,29 +549,21 @@ To create a conducive environment for learners with special needs and disabiliti
 
 The National SNE policy framework implementation has been guided by the following core values
 
-- Commitment and service to learners with special needs.
-
-- Respect for diversity.
-
-- Self motivation  for multi-tasking and  skillfulness as relevant to learners with special needs.
-
-- Sacrifice and resilience.
-
-- Honesty in service provision.
-
-- Empathy and solidarity with people with Special Needs.
-
-- Self  -  motivation  for  guiding  and  counseling  learners  with  special needs.
+1. Commitment and service to learners with special needs.
+2. Respect for diversity.
+3. Self motivation for multi-tasking and skillfulness as relevant to learners with special needs.
+4. Sacrifice and resilience.
+5. Honesty in service provision.
+6. Empathy and solidarity with people with Special Needs.
+7. Self – motivation for guiding and counseling learners with special needs.
 
 #### Overall objectives
 
 The National SNE policy framework is hinged on and aim to achieve the following overarching objectives at all times;
 
-- To enhance early  identification,  assessment,  intervention,  placement, habilitation  and  rehabilitation  of  learners  with  special  needs  and disabilities.
-
-- To  promote  awareness  on  the  educational  needs  and  capabilities  of persons with special learning needs and disabilities.
-
-- To promote and facilitate inclusion of children with special needs in formal and non-formal education and training.
+1. To enhance early identification, assessment, intervention, placement, habilitation and rehabilitation of learners with special needs and disabilities.
+2. To promote awareness on the educational needs and capabilities of persons with special learning needs and disabilities.
+3. To promote and facilitate inclusion of children with special needs in formal and non-formal education and training.
 
 25
 
@@ -628,21 +571,21 @@ The National SNE policy framework is hinged on and aim to achieve the following 
 
 [[START OF PAGE 26]]
 
-- To  put  in  place  measures  to  promote  barrier  free  environment  for learners with special needs in ALL learning institutions.
+4. To put in place measures to promote barrier free environment for learners with special needs in ALL learning institutions.
 
-- To  provide  and  promote  the  use  of  specialized  facilities,  services, assistive  devices  and  technology,  equipment  and  teaching  /  learning materials.
+5. To provide and promote the use of specialized facilities, services, assistive devices and technology, equipment and teaching / learning materials.
 
-- To promote quality, relevant and holistic  education  in  ALL  learning institutions for learners with special needs and disabilities.
+6. To promote quality, relevant and holistic education in ALL learning institutions for learners with special needs and disabilities.
 
-- To  develop  capacity  of  SNE  professionals,  specialists  and  essential service  providers  to  deliver  quality  services  to  learners  with  special needs and disabilities.
+7. To develop capacity of SNE professionals, specialists and essential service providers to deliver quality services to learners with special needs and disabilities.
 
-- To enhance collaboration and networking, strategic partnerships and participation of stakeholders including learners with special needs and disabilities in provision of SNE services.
+8. To enhance collaboration and networking, strategic partnerships and participation of stakeholders including learners with special needs and disabilities in provision of SNE services.
 
-- To support research  and  development  on  SNE,  documentation  and dissemination of relevant information.
+9. To support research and development on SNE, documentation and dissemination of relevant information.
 
-- To promote effective management and coordination of SNE and other related services.
+10. To promote effective management and coordination of SNE and other related services.
 
-- The  provide  education  that  promotes  spiritual  growth  and  value development.
+11. The provide education that promotes spiritual growth and value development.
 
 ### 1.7 Scope of the Special Needs Education Policy
 
@@ -650,17 +593,17 @@ The  policy  applies  to  all  educational,  training  and  research  activities
 
 The  policy will apply to (but not limited to) the following key stakeholders:
 
-- Public  and  private  service  providers  to  learners  (individuals)  with special needs and disabilities.
+1. Public and private service providers to learners (individuals) with special needs and disabilities.
 
-- Development Partners, CBOs, NGOs, CSOs and FBOs.
+2. Development Partners, CBOs, NGOs, CSOs and FBOs.
 
-- Learners with and without special needs and disabilities.
+3. Learners with and without special needs and disabilities.
 
-- Heads and managers of educational institutions.
+4. Heads and managers of educational institutions.
 
-- Ministry of Education, other government ministries/departments and SAGAs.
+5. Ministry of Education, other government ministries/departments and SAGAs.
 
-- Other SNE service providers
+6. Other SNE service providers
 
 26
 
@@ -670,27 +613,27 @@ The  policy will apply to (but not limited to) the following key stakeholders:
 
 7. Parents and guardians
 
-Thematically, the policy covers the following sub-sectors:Early Childhood  Development  and  Education  (ECDE),  Primary,  Secondary, Adult and Continuing Education (ACE), Non-formal Education, Technical,  Industrial  and  Vocational  Entrepreneurship  and  Training (TIVET), Teacher Education and Training and all other Tertiary institutions  including  universities.  In  line  with  the  global  and  national trends, the policy will address issues of access, equity, retention, transition,  relevance  and  quality  of  education  in  SNE.  Application  and implementation  in  relation  to  financing,  management  and  coordination and governance of SNE at all levels is covered within this policy.
+Thematically, the policy covers the following sub-sectors:- Early Childhood Development and Education (ECDE), Primary, Secondary, Adult and Continuing Education (ACE), Non-formal Education, Technical, Industrial and Vocational Entrepreneurship and Training (TIVET), Teacher Education and Training and all other Tertiary institutions including universities. In line with the global and national trends, the policy will address issues of access, equity, retention, transition, relevance and quality of education in SNE. Application and implementation in relation to financing, management and coordination and governance of SNE at all levels is covered within this policy.
 
 ### 1.8 Guiding Principles
 
 In coming up with this policy document, the following guiding principles have been taken into consideration:
 
-- Professional delivery of services to the learners with special needs and disabilities for the best of their interests.
+1. Professional delivery of services to the learners with special needs and disabilities for the best of their interests.
 
-- Equal  access  to  all  educational  institutions  by  learners  with  special needs and disabilities
+2. Equal access to all educational institutions by learners with special needs and disabilities
 
-- Equitable access to services that meet the needs of individual learners with special needs and disabilities within diverse learning environments.
+3. Equitable access to services that meet the needs of individual learners with special needs and disabilities within diverse learning environments.
 
-- Non-discrimination  in  enrolment  and  retention  of  learners  with special needs and disabilities in any institution of learning.
+4. Non-discrimination in enrolment and retention of learners with special needs and disabilities in any institution of learning.
 
-- Barrier  free  transition  of  learners  with  special  needs  and  disabilities through  the  various  educational levels in  accordance  with  their abilities.
+5. Barrier free transition of learners with special needs and disabilities through the various educational levels in accordance with their abilities.
 
-- Learner  -  centered  curriculum  and  responsive  learning  systems  and materials.
+6. Learner – centered curriculum and responsive learning systems and materials.
 
-- Holistic realization of the full potential of learners with special needs and disabilities.
+7. Holistic realization of the full potential of learners with special needs and disabilities.
 
-- Protection  of  the  human  dignity  and  rights  of  learners  with  special needs and disabilities.
+8. Protection of the human dignity and rights of learners with special needs and disabilities.
 
 27
 
@@ -698,11 +641,11 @@ In coming up with this policy document, the following guiding principles have be
 
 [[START OF PAGE 28]]
 
-- Gender parity  applying  equally  to  men,  women,  boys  and  girls  with special needs and disabilities.
+9. Gender parity applying equally to men, women, boys and girls with special needs and disabilities.
 
-- Active and proactive primary role of parents and families as caregivers and health providers of their children.
+10. Active and proactive primary role of parents and families as care-givers and health providers of their children.
 
-- Equal opportunities for all learners with Special Needs.
+11. Equal opportunities for all learners with Special Needs.
 
 28
 
@@ -716,35 +659,35 @@ In coming up with this policy document, the following guiding principles have be
 
 The National SNE policy framework addresses the following 15 target areas  which  have  been  incorporated  as  policy  provisions.    The  policy provisions discussed in this chapter will be interpreted to mean areas of intervention covered by this policy.
 
-- Assessment and intervention
+1. Assessment and intervention
 
-- Access to quality and relevant education
+2. Access to quality and relevant education
 
-- Conducive environment, health and safety (adaptation of facilities)
+3. Conducive environment, health and safety (adaptation of facilities)
 
-- Specialized facilities and technology
+4. Specialized facilities and technology
 
-- Inclusive education
+5. Inclusive education
 
-- Curriculum development
+6. Curriculum development
 
-- Capacity building and development
+7. Capacity building and development
 
-- Participation and involvement
+8. Participation and involvement
 
-- Advocacy and awareness creation
+9. Advocacy and awareness creation
 
-- Partnerships and collaboration
+10. Partnerships and collaboration
 
-- Gender mainstreaming in SNE
+11. Gender mainstreaming in SNE
 
-- Research and documentation
+12. Research and documentation
 
-- Disaster preparedness
+13. Disaster preparedness
 
-- Resource mobilization - finance, human and material resources
+14. Resource mobilization – finance, human and material resources
 
-- 15 Guidance and counseling
+15 Guidance and counseling
 
 ### 2.1 Assessment and Intervention
 
@@ -774,7 +717,7 @@ To  strengthen  the  existing  structures  and  develop  new  ones  for  early i
 
 The  Ministry  of  Education,  in  collaboration  with  other  ministries  and government bodies (SAGAs) shall:
 
-- Develop and continually review the curriculum in assessment in line with the requirements of children with special needs and disabilities.
+1. Develop and continually review the curriculum in assessment in line with the requirements of children with special needs and disabilities.
 
 30
 
@@ -782,33 +725,33 @@ The  Ministry  of  Education,  in  collaboration  with  other  ministries  and g
 
 [[START OF PAGE 31]]
 
-- Conduct in-service and professional development courses for assessment teachers.
+2. Conduct in-service and professional development courses for assessment teachers.
 
-- Establish formal linkages with relevant ministries, partners and professionals in assessment, referral and intervention of learners with special needs and disabilities.
+3. Establish formal linkages with relevant ministries, partners and professionals in assessment, referral and intervention of learners with special needs and disabilities.
 
-- Have a formalized multi-disciplinary team appointed by the Minister of Education.
+4. Have a formalized multi-disciplinary team appointed by the Minister of Education.
 
-- Develop new, and continually review existing assessment and referral tools.
+5. Develop new, and continually review existing assessment and referral tools.
 
-- Ensure all EARCs established fall under the jurisdiction of the District Education Board.
+6. Ensure all EARCs established fall under the jurisdiction of the District Education Board.
 
 #### Strategies
 
 To implement the foregoing policy interventions, the Government shall engage the following strategies:
 
-- KIE shall develop and continually review curriculum in assessment of learners with special needs.
+1. KIE shall develop and continually review curriculum in assessment of learners with special needs.
 
-- KIE shall develop training manuals and guidelines in assessment of learners with special needs.
+2. KIE shall develop training manuals and guidelines in assessment of learners with special needs.
 
-- MOE shall conduct regular in-service and professional development courses for teacher deployed to work as assessment teachers in the EARC.
+3. MOE shall conduct regular in-service and professional development courses for teacher deployed to work as assessment teachers in the EARC.
 
-- MOE shall put in place mechanisms for engaging partners, professionals and other ministries in the assessment and rehabilitation procedures; such as Joint committees, joint planning meetings at all levels, joint implementation and pooling of resources.
+4. MOE shall put in place mechanisms for engaging partners, professionals and other ministries in the assessment and rehabilitation procedures; such as Joint committees, joint planning meetings at all levels, joint implementation and pooling of resources.
 
-- MOE in collaboration with KISE and KIE shall carry out reviews of the existing assessment and referral tools.
+5. MOE in collaboration with KISE and KIE shall carry out reviews of the existing assessment and referral tools.
 
-- KIE shall develop assessment tests, administrator's and norms manuals, and referral tools/mechanisms in line with recommendation made in the review.
+6. KIE shall develop assessment tests, administrator's and norms manuals, and referral tools/mechanisms in line with recommendation made in the review.
 
-- MOE shall establish and enhance linkages with the Ministry of Health and other relevant ministries for appropriate assessment,
+7. MOE shall establish and enhance linkages with the Ministry of Health and other relevant ministries for appropriate assessment,
 
 31
 
@@ -816,13 +759,13 @@ To implement the foregoing policy interventions, the Government shall engage the
 
 [[START OF PAGE 32]]
 
-- intervention, and referral and follow up of learners with special needs.
+intervention, and referral and follow up of learners with special needs.
 
-- MOE in collaboration with other stakeholders shall develop and strengthen home based programs and ECDE for learners with Special Needs.
+8. MOE in collaboration with other stakeholders shall develop and strengthen home based programs and ECDE for learners with Special Needs.
 
-- Directorate of Basic Education, Quality Assurance and Standards and TSC shall coordinate the management of all EARCs.
+9. Directorate of Basic Education, Quality Assurance and Standards and TSC shall coordinate the management of all EARCs.
 
-- 10 MOE shall ensure that the teachers posted to EARCs are trained in Special Needs Education and do not exceed the approved number per centre.
+10 MOE shall ensure that the teachers posted to EARCs are trained in Special Needs Education and do not exceed the approved number per centre.
 
 ### 2.2 Access to Quality and Relevant Education
 
@@ -850,25 +793,25 @@ To  increase  access  to  quality  and  relevant  education  for  learners  with
 
 The Ministry of Education shall;
 
-- Enforce equal access and inclusion of persons with special needs and disabilities in education and training programmes at all levels.
+1. Enforce equal access and inclusion of persons with special needs and disabilities in education and training programmes at all levels.
 
-- Intensify monitoring, supervision and quality control in all schools to ensure children with special needs and disabilities are provided for without discrimination.
+2. Intensify monitoring, supervision and quality control in all schools to ensure children with special needs and disabilities are provided for without discrimination.
 
-- Ensure  timely  provision  of  learning  and  teaching  materials  in accessible formats.
+3. Ensure timely provision of learning and teaching materials in accessible formats.
 
 #### Strategies
 
 MOE (in collaboration with partners) shall;
 
-- Sensitize administrative personnel and others working with learners with special needs and disabilities on their roles in education.
+1. Sensitize administrative personnel and others working with learners with special needs and disabilities on their roles in education.
 
-- Educate  the  parents,  other  learners  and  the  communities  on  the needs of the learners with special needs and disabilities.
+2. Educate the parents, other learners and the communities on the needs of the learners with special needs and disabilities.
 
-- Intensify monitoring, supervision and quality assurance and standards in all schools to ensure quality education
+3. Intensify monitoring, supervision and quality assurance and standards in all schools to ensure quality education
 
-- Ensure KIE produces learning/teaching materials in tandem with the change of curriculum and textbooks.
+4. Ensure KIE produces learning/teaching materials in tandem with the change of curriculum and textbooks.
 
-- Expand  educational  services  to cater for other categories of youth/children  with  special  needs  and  disabilities  not  currently catered for in regular learning institutions.
+5. Expand educational services to cater for other categories of youth/children with special needs and disabilities not currently catered for in regular learning institutions.
 
 33
 
@@ -876,9 +819,9 @@ MOE (in collaboration with partners) shall;
 
 [[START OF PAGE 34]]
 
-- Maintain and increase necessary support for special institutions to cater  for  children  and  youth  who  cannot  benefit  from  inclusive education.
+6. Maintain and increase necessary support for special institutions to cater for children and youth who cannot benefit from inclusive education.
 
-### 2.3 Conducive and Safe Environment -Health and Safety (Adaptation of Facilities)
+### 2.3 Conducive and Safe Environment - Health and Safety (Adaptation of Facilities)
 
 #### Background
 
@@ -902,29 +845,29 @@ To enhance provision of accessible, safe and friendly learning environment and f
 
 The Ministry of Education in collaboration with stakeholders shall:
 
-- Facilitate establishment of barrier free environment in all  learning institutions.
+1. Facilitate establishment of barrier free environment in all learning institutions.
 
-- Continuously develop modalities for enhancing safety measures in learning institutions
+2. Continuously develop modalities for enhancing safety measures in learning institutions
 
-- Liaise with the Ministry of Health to ensure that learners with special needs and disabilities are provided with regular treatment and medicine to preserve or improve their level of functioning.
+3. Liaise with the Ministry of Health to ensure that learners with special needs and disabilities are provided with regular treatment and medicine to preserve or improve their level of functioning.
 
-- Put in place measures to ensure appropriate modification of learning institutions to respond to the needs of learners with special needs and disabilities.
+4. Put in place measures to ensure appropriate modification of learning institutions to respond to the needs of learners with special needs and disabilities.
 
-- Provide a learning environment that is free from violence, sexual harassment and abuse, drug and substance abuse.
+5. Provide a learning environment that is free from violence, sexual harassment and abuse, drug and substance abuse.
 
 #### Strategies
 
 The MOE (in collaboration with stakeholders) shall:
 
-- Provide resources to make learning institutions accessible to children with special needs and disabilities.
+1. Provide resources to make learning institutions accessible to children with special needs and disabilities.
 
-- Ensure provision of adequate and friendly buildings, furniture and equipment among others in learning institutions for learners with special needs and disabilities.
+2. Ensure provision of adequate and friendly buildings, furniture and equipment among others in learning institutions for learners with special needs and disabilities.
 
-- Ensure appropriate modification of tuition, boarding and sanitation facilities to respond to the needs of learners with special needs and disabilities.
+3. Ensure appropriate modification of tuition, boarding and sanitation facilities to respond to the needs of learners with special needs and disabilities.
 
-- Constantly collaborate with MOH in provision of clinical services geared towards prevention and treatment of disability conditions.
+4. Constantly collaborate with MOH in provision of clinical services geared towards prevention and treatment of disability conditions.
 
-- Ensure that all learning institutions have a safe environment that is user friendly to learners with special needs and disabilities.
+5. Ensure that all learning institutions have a safe environment that is user friendly to learners with special needs and disabilities.
 
 35
 
@@ -962,13 +905,13 @@ The MOE, in collaboration with relevant partners shall facilitate acquisition an
 
 The MOE (in collaboration with partners) shall:
 
-- Provide information on available technical aids
+1. Provide information on available technical aids
 
-- Enhance accessibility and utilization of software that will enhance easy access of information and education materials.
+2. Enhance accessibility and utilization of software that will enhance easy access of information and education materials.
 
-- Acquire, standardize, produce, fabricate, adopt, repair and maintain assistive devices in the provincial assessment workshops, KISE and other services providers.
+3. Acquire, standardize, produce, fabricate, adopt, repair and maintain assistive devices in the provincial assessment workshops, KISE and other services providers.
 
-- Provide teachers who will train learners with special needs and disabilities on the use of assistive devices.
+4. Provide teachers who will train learners with special needs and disabilities on the use of assistive devices.
 
 ### 2.5 Inclusive Education
 
@@ -996,23 +939,23 @@ MOE shall Recognize and Reinforce inclusive education as one of the means for ch
 
 #### Strategies
 
-- MOE shall promote the development and use of Kenyan Sign Language as an official language.
+1. MOE shall promote the development and use of Kenyan Sign Language as an official language.
 
-- Government ministries and agencies shall provide information in the public domain to learners with special needs and disabilities in both Kenyan Sign Language and Braille.
+2. Government ministries and agencies shall provide information in the public domain to learners with special needs and disabilities in both Kenyan Sign Language and Braille.
 
-- MOE and partners will provide funds for adaptation of infrastructure, equipment and facilities in learning institutions.
+3. MOE and partners will provide funds for adaptation of infrastructure, equipment and facilities in learning institutions.
 
-- KIE shall adapt curriculum and learning materials to suit learners with special needs and disabilities.
+4. KIE shall adapt curriculum and learning materials to suit learners with special needs and disabilities.
 
-- MOE and partners shall provide and fund forums for learners with special needs and disabilities to participate in co-curricular activities so as to enhance social integration.
+5. MOE and partners shall provide and fund forums for learners with special needs and disabilities to participate in co-curricular activities so as to enhance social integration.
 
-- KIE shall review teacher education curriculum in order to impart skills and competencies in teaching learners with special needs and disabilities.
+6. KIE shall review teacher education curriculum in order to impart skills and competencies in teaching learners with special needs and disabilities.
 
-- Kenya National Examination Council shall establish a special needs education section to deal with issues of curriculum evaluation of learners with special needs and disabilities.
+7. Kenya National Examination Council shall establish a special needs education section to deal with issues of curriculum evaluation of learners with special needs and disabilities.
 
-- KNEC shall mark Braille scripts directly without debrailling them.
+8. KNEC shall mark Braille scripts directly without debrailling them.
 
-- MOE shall enforce affirmative action in admission for learners with special needs and disabilities at all levels and shall include those with low vision.
+9. MOE shall enforce affirmative action in admission for learners with special needs and disabilities at all levels and shall include those with low vision.
 
 38
 
@@ -1020,13 +963,13 @@ MOE shall Recognize and Reinforce inclusive education as one of the means for ch
 
 [[START OF PAGE 39]]
 
-- 9 MOE together with partners shall create awareness among      teachers and  learners  (both  with  and  without  disabilities),  parents  and  other members of the community about inclusive education.
+9 MOE together with partners shall create awareness among teachers and learners (both with and without disabilities), parents and other members of the community about inclusive education.
 
 MOE shall organize for in-servicing of teachers on inclusive education
 
-- 10 MOE  shall  promote  the  development  of  Braille as an official communication for touch readers.
+10 MOE shall promote the development of Braille as an official communication for touch readers.
 
-- 11 MOE shall mainstream and strengthen the development of Integrated Education.
+11 MOE shall mainstream and strengthen the development of Integrated Education.
 
 ### 2.6 Curriculum Development
 
@@ -1058,11 +1001,11 @@ The Ministry of Education shall ensure constant review and development of curric
 
 #### Strategies
 
-- KIE shall develop adapted, specialized and regular curriculum for all  specialized  areas  in  special  needs  education  and  monitor  their implementation to ensure sensitivity to the needs of learners with special needs and disabilities.
+1. KIE shall develop adapted, specialized and regular curriculum for all specialized areas in special needs education and monitor their implementation to ensure sensitivity to the needs of learners with special needs and disabilities.
 
-- KIE  shall expand teacher training curriculum to include a component of special  needs  to  develop  their  capacity  to  support children with special needs in regular schools
+2. KIE shall expand teacher training curriculum to include a component of special needs to develop their capacity to support children with special needs in regular schools
 
-- KNEC shall design national examinations for learners with SN as individuals and provide certification to learners with special needs who  do  not  sit  for  national  examinations  due  to  their  diverse learning needs.
+3. KNEC shall design national examinations for learners with SN as individuals and provide certification to learners with special needs who do not sit for national examinations due to their diverse learning needs.
 
 40
 
@@ -1070,19 +1013,19 @@ The Ministry of Education shall ensure constant review and development of curric
 
 [[START OF PAGE 41]]
 
-- KNEC  shall  train  examination  invigilators  and  supervisors  to enable them to provide specialist support to candidates with special needs during examinations.
+4. KNEC shall train examination invigilators and supervisors to enable them to provide specialist support to candidates with special needs during examinations.
 
-- KNEC shall ensure specialized subjects such as KSL are examined in all national examinations.
+5. KNEC shall ensure specialized subjects such as KSL are examined in all national examinations.
 
-- KNEC  shall  ensure  that  time  allocated  to  learners  with  special needs  for  examination  papers  is  determined  by  the  nature  and severity of their special needs and disabilities.
+6. KNEC shall ensure that time allocated to learners with special needs for examination papers is determined by the nature and severity of their special needs and disabilities.
 
-- MOE  and  other  stakeholders  shall  sensitize  the  society  on  the importance of all learning processes to demystify the value given to certificates  of  final  exams  at  the  expense  of  the  skills  acquired  in the learning process.
+7. MOE and other stakeholders shall sensitize the society on the importance of all learning processes to demystify the value given to certificates of final exams at the expense of the skills acquired in the learning process.
 
-- MOE shall seek copyrights from publishers so as to adapt regular curriculum and have mass production of teaching/ learning materials for learners with special needs and disabilities.
+8. MOE shall seek copyrights from publishers so as to adapt regular curriculum and have mass production of teaching/ learning materials for learners with special needs and disabilities.
 
-- KIE shall ensure the development of Braille curriculum for use in schools from Pre-primary to Post Primary levels.
+9. KIE shall ensure the development of Braille curriculum for use in schools from Pre-primary to Post Primary levels.
 
-- KNEC  shall design national examinations for Braille transcribers (Braillists).
+10. KNEC shall design national examinations for Braille transcribers (Braillists).
 
 ### 2.7 Capacity Building and Human Resource Development
 
@@ -1110,19 +1053,19 @@ To facilitate provision of effective and efficient professional and support serv
 
 The Ministry of Education shall:
 
-- Ensure deployment and retention of adequate SNE teachers and other support staff in learning institutions and other areas where their services are required.
+1. Ensure deployment and retention of adequate SNE teachers and other support staff in learning institutions and other areas where their services are required.
 
-- Undertake and collaborate with development partners to develop mechanisms to improve efficiency in human resource training and deployment in institutions offering SNE
+2. Undertake and collaborate with development partners to develop mechanisms to improve efficiency in human resource training and deployment in institutions offering SNE
 
-- Develop and implement mechanisms to identify and strengthen recruitment procedures.
+3. Develop and implement mechanisms to identify and strengthen recruitment procedures.
 
 #### Strategies
 
 MOE shall ;
 
-- Facilitate provision of adequate support staff in SNE such as physiotherapists, sign language interpreters and braillists in institutions enrolling learners with special needs and disabilities.
+1. Facilitate provision of adequate support staff in SNE such as physiotherapists, sign language interpreters and braillists in institutions enrolling learners with special needs and disabilities.
 
-- In collaboration with TSC ensure the staffing norm for teacher/pupil ratio is adhered to.
+2. In collaboration with TSC ensure the staffing norm for teacher/pupil ratio is adhered to.
 
 42
 
@@ -1130,23 +1073,23 @@ MOE shall ;
 
 [[START OF PAGE 43]]
 
-- Develop a scheme of service for other related professional support personnel such as, teacher aids, sign language interpreters, braillists among others  in SNE
+3. Develop a scheme of service for other related professional support personnel such as, teacher aids, sign language interpreters, braillists among others in SNE
 
-- Ensure quality and standards control in the training of professional and support staff in SNE
+4. Ensure quality and standards control in the training of professional and support staff in SNE
 
-- Strengthen transparent recruitment establishment for SNE learning institutions
+5. Strengthen transparent recruitment establishment for SNE learning institutions
 
-- In  collaboration with relevant ministries shall increase opportunities for continuous training of professional and support staff in SNE
+6. In collaboration with relevant ministries shall increase opportunities for continuous training of professional and support staff in SNE
 
-- Have Key Resource Teachers for SNE in every school/learning institution.
+7. Have Key Resource Teachers for SNE in every school/learning institution.
 
-- Sensitize all school heads to ensure the welfare of learners with special needs and disabilities is safeguarded.
+8. Sensitize all school heads to ensure the welfare of learners with special needs and disabilities is safeguarded.
 
 ### 2.8 Participation and Involvement
 
 #### Background
 
-Participation  and  involvement  of  learners  with  special  needs  in  socioeconomic  issues  and  in  decision  making  on  matters  affecting  them directly  or  indirectly  is  important  in  the  process  of  ensuring  that  these learners  enjoy  equal  opportunities  in  society.    The  government  has declared affirmative action to ensure that vulnerable and disadvantaged groups of persons are actively involved in policy and governance issues. It  is  therefore  critical  that  learners  with  special  needs  and  disabilities participate  in  all  matters  within  the  learning  environment  and  are encouraged to be involved in activities and decision making processes.
+Participation and involvement of learners with special needs in socio-economic issues and in decision making on matters affecting them directly or indirectly is important in the process of ensuring that these learners enjoy equal opportunities in society. The government has declared affirmative action to ensure that vulnerable and disadvantaged groups of persons are actively involved in policy and governance issues. It is therefore critical that learners with special needs and disabilities participate in all matters within the learning environment and are encouraged to be involved in activities and decision making processes.
 
 #### Issues and Constraints
 
@@ -1170,15 +1113,15 @@ The  MOE  will  involve  learners  with  special  needs  in  decision  making pr
 
 #### Strategies
 
-- MOE shall develop modalities to involve learners with special needs and disabilities in decision making on issues that concern them.
+1. MOE shall develop modalities to involve learners with special needs and disabilities in decision making on issues that concern them.
 
-- School administrations shall appoint learners with special needs to positions of responsibilities in their learning institutions.
+2. School administrations shall appoint learners with special needs to positions of responsibilities in their learning institutions.
 
-- MOE shall encourage institutions to employ persons with special needs and disabilities in learning and training institutions.
+3. MOE shall encourage institutions to employ persons with special needs and disabilities in learning and training institutions.
 
-- School Management boards shall engage and utilize learners with special needs and disabilities in sports, culture and other recreational activities.
+4. School Management boards shall engage and utilize learners with special needs and disabilities in sports, culture and other recreational activities.
 
-- School administrations shall encourage formation of clubs and associations for learners with special needs and disabilities in learning/training institutions
+5. School administrations shall encourage formation of clubs and associations for learners with special needs and disabilities in learning/training institutions
 
 ### 2.9 Advocacy and Awareness Creation
 
@@ -1206,9 +1149,9 @@ To advocate and create awareness among stakeholders on the needs and issues affe
 
 The MOE (in collaboration with partners) shall:
 
-- Recognize and respond to issues of advocacy on learners with special needs and disabilities in line with other existing policies, conventions and practices.
+1. Recognize and respond to issues of advocacy on learners with special needs and disabilities in line with other existing policies, conventions and practices.
 
-- Undertake continuous awareness creation and campaigns on special needs education.
+2. Undertake continuous awareness creation and campaigns on special needs education.
 
 45
 
@@ -1216,19 +1159,19 @@ The MOE (in collaboration with partners) shall:
 
 [[START OF PAGE 46]]
 
-- Ensure that minimum teaching and learning requirements are in place in all institutions providing education to learners with special needs and disabilities in Kenya.
+3. Ensure that minimum teaching and learning requirements are in place in all institutions providing education to learners with special needs and disabilities in Kenya.
 
 #### Strategies
 
-- MOE shall liaise with other relevant ministries to sensitize public transport providers on the special   transport needs of the learners with special needs and disabilities.
+1. MOE shall liaise with other relevant ministries to sensitize public transport providers on the special transport needs of the learners with special needs and disabilities.
 
-- MOE shall use both public and private electronic and print media in sensitizing and creating awareness among the general public.
+2. MOE shall use both public and private electronic and print media in sensitizing and creating awareness among the general public.
 
-- Teachers shall instill in all learners values of mutual support and responsibility towards learners with special needs and disabilities.
+3. Teachers shall instill in all learners values of mutual support and responsibility towards learners with special needs and disabilities.
 
-- MOE shall educate stakeholders on the legal and social rights of learners with special needs and disabilities.
+4. MOE shall educate stakeholders on the legal and social rights of learners with special needs and disabilities.
 
-- MOE and Partners shall advocate for mainstreaming of issues of persons with special needs and disabilities in matters of the society.
+5. MOE and Partners shall advocate for mainstreaming of issues of persons with special needs and disabilities in matters of the society.
 
 ### 2.10 Partnerships and Collaboration
 
@@ -1260,9 +1203,9 @@ The MOE shall encourage and coordinate partnerships and collaboration with other
 
 MOE (in collaboration with partners) shall:
 
-- Periodically organize stakeholders' national conferences at different levels to share information on special needs and disabilities.
+1. Periodically organize stakeholders' national conferences at different levels to share information on special needs and disabilities.
 
-- Coordinate the activities of all partners for purposes of transparency and non-duplication of activities.
+2. Coordinate the activities of all partners for purposes of transparency and non-duplication of activities.
 
 ### 2.11 Gender Mainstreaming in Special Needs Education
 
@@ -1278,7 +1221,7 @@ Gender  mainstreaming  to  ensure  equity  and  equality  in  SNE  is  a challen
 
 #### Issues and Constraints
 
-While education has grown rapidly in Kenya over the last 40 years, the SNE sub-sector has lagged behind. There are 116 primary, 8 secondary, 4 technical, 3 integrating teacher training colleges and one resource centre for  the  blind  special  education  programmes,  including  vocational  and technical institutions with an enrolment of 49,000. These, viewed against the  background  that  an  estimated  1.8  million  people  in  Kenya  aged between  0  -  19  years  have  special  needs  and  disabilities  (National Development Plan 2002 - 2008) show big disparities in the development of SNE.
+While education has grown rapidly in Kenya over the last 40 years, the SNE sub-sector has lagged behind. There are 116 primary, 8 secondary, 4 technical, 3 integrating teacher training colleges and one resource centre for the blind special education programmes, including vocational and technical institutions with an enrolment of 49,000. These, viewed against the background that an estimated 1.8 million people in Kenya aged between 0 – 19 years have special needs and disabilities (National Development Plan 2002 – 2008) show big disparities in the development of SNE.
 
 The  community  and  society  in  general  has  a  negative  attitude  towards people with special needs. The situation is worse for the girl child with special  needs  and  disabilities.    They  face  a  bigger  challenge  than  their male  counter-parts.  The  drop  out  rate  for  girls  with  special  needs  and disabilities is high due to teachers who may not be sensitive to the needs of these kinds of learners. These learners are also sometimes left out of sex  education,  HIV  and  AIDS  and  life  skills  education  programmes because  people  believe  that  they  do  not  engage  in  social  activities  and sex.
 
@@ -1296,25 +1239,25 @@ To address gender disparities in SNE, the ministry shall:
 
 [[START OF PAGE 49]]
 
-- Encourage  gender  mainstreaming  of  boys  and  girls,  men  and women with special needs in education programmes at all levels.
+1. Encourage gender mainstreaming of boys and girls, men and women with special needs in education programmes at all levels.
 
-- Enforce the gender policy in education to ensure effective implementation in all education programs at all levels.
+2. Enforce the gender policy in education to ensure effective implementation in all education programs at all levels.
 
 #### Strategies
 
 MOE  together  with  other  stakeholders  shall  employ  the  following strategies to implement the above policies:
 
-- Create awareness and sensitize communities on the importance of SNE, especially for the girl child.
+1. Create awareness and sensitize communities on the importance of SNE, especially for the girl child.
 
-- Sensitize  teachers,  communities  and  other  stakeholders  on  the provisions of a gender policy in education.
+2. Sensitize teachers, communities and other stakeholders on the provisions of a gender policy in education.
 
-- Ensure  that  quality  assurance  and  standards  officers  deliberately focus  on  equal  participation  of  both  girls  and  boys  with  special needs and disabilities in social and educational activities alongside regular learners.
+3. Ensure that quality assurance and standards officers deliberately focus on equal participation of both girls and boys with special needs and disabilities in social and educational activities alongside regular learners.
 
-- Carry  out  surveys  and  research  to  understand  the  gender  and education  issues  for  learners  with  special  needs  and  advise  the government and other stakeholders on emerging issues and how to address them.
+4. Carry out surveys and research to understand the gender and education issues for learners with special needs and advise the government and other stakeholders on emerging issues and how to address them.
 
-- Develop a conducive physical environment for learners with special education needs with emphasis on the girl child.
+5. Develop a conducive physical environment for learners with special education needs with emphasis on the girl child.
 
-- Reroute young mothers back to school to reduce their drop- out rates.
+6. Reroute young mothers back to school to reduce their drop- out rates.
 
 ### 2.12  Research and Documentation
 
@@ -1344,7 +1287,7 @@ The MOE in collaboration with partners shall undertake and provide an enabling e
 
 MOE (in collaboration with partners) shall:
 
-- Undertake research on different aspects of children with special needs and disabilities and ensure documentation and dissemination to stakeholders.
+1. Undertake research on different aspects of children with special needs and disabilities and ensure documentation and dissemination to stakeholders.
 
 50
 
@@ -1352,15 +1295,15 @@ MOE (in collaboration with partners) shall:
 
 [[START OF PAGE 51]]
 
-- Empower KISE to carry out research in SNE
+2. Empower KISE to carry out research in SNE
 
-- Undertake baseline surveys to establish the actual numbers and requirements of learners with special needs and disabilities.
+3. Undertake baseline surveys to establish the actual numbers and requirements of learners with special needs and disabilities.
 
-- Provide funds and other resources for research on Special Needs Education and development of appropriate technology for learners with special needs
+4. Provide funds and other resources for research on Special Needs Education and development of appropriate technology for learners with special needs
 
-- Establish and strengthen databank on Special Needs Education within the planning division of the MOE and the utilization of the data in planning and resource allocation for special needs.
+5. Establish and strengthen databank on Special Needs Education within the planning division of the MOE and the utilization of the data in planning and resource allocation for special needs.
 
-- Ensure the dissemination of research findings to planners, consumers and stakeholders among others
+6. Ensure the dissemination of research findings to planners, consumers and stakeholders among others
 
 ### 2.13 Disaster Preparedness
 
@@ -1372,13 +1315,15 @@ Vulnerable groups such as children, the elderly and people with special needs an
 
 #### Issues and Constraints
 
-The  negligence  of  learners  with  special  needs  and  disabilities  by  those concerned  with  their  care  exposes  them  to  immense  suffering  during emergencies,  conflicts  and  disasters.    Lack  of  specific  training  for handling  people  with  special  needs  and  disabilities  among  essential service officers is a major constraint in providing preferential attention to these target groups in situations of disaster and conflict.
+The negligence of learners with special needs and disabilities by those concerned with their care exposes them to immense suffering during emergencies, conflicts and disasters. Lack of specific training for handling people with special needs and disabilities among essential
 
 51
 
 [[END OF PAGE 51]]
 
 [[START OF PAGE 52]]
+
+service officers is a major constraint in providing preferential attention to these target groups in situations of disaster and conflict.
 
 #### Objective
 
@@ -1390,15 +1335,15 @@ The Ministry of Education shall develop and enforce mechanisms for mitigation, e
 
 #### Strategies
 
-- MOE shall sensitize the public, security agencies and humanitarian organizations to be responsive in prevention, mitigation, caring and evacuation of learners with special needs and disabilities during times of disaster and conflicts.
+1. MOE shall sensitize the public, security agencies and humanitarian organizations to be responsive in prevention, mitigation, caring and evacuation of learners with special needs and disabilities during times of disaster and conflicts.
 
-- MOE, Communities and humanitarian agencies shall identify learners with special needs and disabilities and evacuate them to safe areas on a first priority basis.
+2. MOE, Communities and humanitarian agencies shall identify learners with special needs and disabilities and evacuate them to safe areas on a first priority basis.
 
-- MOE and other strategic partners shall train SNE teachers and other service providers in practical knowledge and skills in the delivery of services during disasters and emergencies
+3. MOE and other strategic partners shall train SNE teachers and other service providers in practical knowledge and skills in the delivery of services during disasters and emergencies
 
-- MOE shall prepare disaster preparedness Information and Educational Communication  materials and disseminate to SNE schools and other institutions.
+4. MOE shall prepare disaster preparedness Information and Educational Communication materials and disseminate to SNE schools and other institutions.
 
-- MOE shall facilitate provision of guidance and counseling services to learners with special needs during disaster and conflict periods.
+5. MOE shall facilitate provision of guidance and counseling services to learners with special needs during disaster and conflict periods.
 
 52
 
@@ -1438,15 +1383,15 @@ The MOE in collaboration with development partners shall continually review and 
 
 MOE together with partners shall:
 
-- Identify programmes in special needs education that require financial support.
+1. Identify programmes in special needs education that require financial support.
 
-- Ensure affirmative action in provision of   bursaries, loans and scholarships to learners with special needs and disabilities for further studies.
+2. Ensure affirmative action in provision of bursaries, loans and scholarships to learners with special needs and disabilities for further studies.
 
-- Allocate adequate funds for teaching and learning materials for learners with special needs and disabilities.
+3. Allocate adequate funds for teaching and learning materials for learners with special needs and disabilities.
 
-- Put in place sound procurement processes to facilitate easy and timely access to the required equipment and materials.
+4. Put in place sound procurement processes to facilitate easy and timely access to the required equipment and materials.
 
-- Provide incentives for local production of relevant equipment and material
+5. Provide incentives for local production of relevant equipment and material
 
 ### 2.15  Guidance and Counseling
 
@@ -1476,11 +1421,11 @@ The ministry in collaboration with other service providers shall develop, avail 
 
 #### Strategies
 
-- MOE shall  develop  guidance  and  counseling  guidelines  for learners with special needs
+1. MOE shall develop guidance and counseling guidelines for learners with special needs
 
-- MOE shall ensure interests of learners with special needs are addressed  in  guidance  and  counseling  programmes  in  all learning institutions.
+2. MOE shall ensure interests of learners with special needs are addressed in guidance and counseling programmes in all learning institutions.
 
-- Special learning institution shall establish guidance and counseling programmes to cater for interests of their learners.
+3. Special learning institution shall establish guidance and counseling programmes to cater for interests of their learners.
 
 55
 
@@ -1488,7 +1433,7 @@ The ministry in collaboration with other service providers shall develop, avail 
 
 [[START OF PAGE 56]]
 
-## 3.0 CHAPTER  THREE  -  IMPLEMENTATION  OF  SPECIAL NEEDS EDUCATION POLICY
+## 3.0 CHAPTER THREE – IMPLEMENTATION OF SPECIAL NEEDS EDUCATION POLICY
 
 ### Introduction
 
@@ -1502,7 +1447,7 @@ Effective  implementation  and  coordination  of  the  SNE  policy  requires  a 
 
 The cost of providing educational services to learners with special needs and disabilities is relatively high and constitutes the single most limiting factor to increased enrollment,  retention and  transition of such  learners within educational  programmes.  This  is  compounded  further  by  the  fact  that  a majority  of  learners  with  special  needs  and  disabilities  come  from  poor families.  Such  families  find  it  difficult  to  participate  in  cost  sharing  where this is required.
 
-There  is  also  inadequate  planning  of  service  delivery  programmes.  This  is mainly due to lack of skilled personnel and insufficient financial resources, thereby compromising the quality of services provided. On the other hand, uncoordinated  planning  amongst  partners  often  results  in  duplication  of programmes,  poor  utilisation  of  resources  and  gaps  in  service  delivery. Financial and human resources are inadequate, the prices of equipment are ever rising and training of professionals is below expectations. Consequently, educational services for children with special needs call for concerted efforts between the government and development partners.
+There is also inadequate planning of service delivery programmes. This is mainly due to lack of skilled personnel and insufficient financial resources, thereby compromising the quality of services provided. On the other hand, uncoordinated planning amongst partners often results in duplication of programmes, poor utilisation of resources and gaps in service delivery. Financial and human resources are inadequate, the prices of equipment are ever rising and training of professionals is below expectations. Consequently,
 
 56
 
@@ -1510,7 +1455,9 @@ There  is  also  inadequate  planning  of  service  delivery  programmes.  This 
 
 [[START OF PAGE 57]]
 
-Since Free Primary Education does not cover boarding and other mandatory requirements which learners with special needs and disabilities have, children in boarding special institutions are still paying for them.  The government's allocation of additional grants to special schools and units which are meant for schools recurrent expenditure and emergencies is insufficient.
+educational services for children with special needs call for concerted efforts between the government and development partners.
+
+Since Free Primary Education does not cover boarding and other mandatory requirements which learners with special needs and disabilities have, children in boarding special institutions are still paying for them. The government's allocation of additional grants to special schools and units which are meant for schools recurrent expenditure and emergencies is insufficient.
 
 #### Objective
 
@@ -1522,15 +1469,15 @@ The  government  shall  offer  free  basic  education  to  learners  with  speci
 
 #### Strategies
 
-- The MOE shall allocate funds per child commensurate with the needs, circumstances and cost of living for learners with special needs and disabilities in day and boarding institutions respectively and review these allocations periodically.
+1. The MOE shall allocate funds per child commensurate with the needs, circumstances and cost of living for learners with special needs and disabilities in day and boarding institutions respectively and review these allocations periodically.
 
-- The Government shall take up the full responsibility of educating children/students with special needs and disabilities at all levels.
+2. The Government shall take up the full responsibility of educating children/students with special needs and disabilities at all levels.
 
-- MOE shall ensure proper  use  and  maintenance  of  the  existing physical  structures  and  facilities  for  learners  with  special  needs and disabilities.
+3. MOE shall ensure proper use and maintenance of the existing physical structures and facilities for learners with special needs and disabilities.
 
 ### 3.2 Information and Communication Technology (ICT)
 
-ICT in the context of SNE refers to communication systems and techniques which  are  specific  to  various  learners  with  special  needs  and  disabilities. Currently  ICT  has  not  been  optimally  applied  to  the  SNE  teaching  and learning processes. These include both augmentative and alternative modes of communication such as spoken language and sign language, Braille, tactile communication, readers for the blind, print, audio and visual tapes, and ICT skills.
+ICT in the context of SNE refers to communication systems and techniques which are specific to various learners with special needs and disabilities. Currently ICT has not been optimally applied to the SNE teaching and learning processes. These include both augmentative and alternative modes of communication such as spoken language and sign language, Braille, tactile
 
 57
 
@@ -1538,7 +1485,9 @@ ICT in the context of SNE refers to communication systems and techniques which  
 
 [[START OF PAGE 58]]
 
-ICT  plays  a  critical  role  in  educating  people  on  issues  like  human  rights, democracy and sustainable development.  It is an important tool for shaping opinions, educating and entertaining people.
+communication, readers for the blind, print, audio and visual tapes, and ICT skills.
+
+ICT plays a critical role in educating people on issues like human rights, democracy and sustainable development. It is an important tool for shaping opinions, educating and entertaining people.
 
 #### Issues and Constraints
 
@@ -1546,17 +1495,17 @@ Provision  of  SNE  services  has  not  adequately  integrated  the  use  of  IC
 
 #### Objectives
 
-- To enhance access to public information and communication technology for persons/learners with special needs and disabilities.
+1. To enhance access to public information and communication technology for persons/learners with special needs and disabilities.
 
-- To  enhance  effective  communication  and  learning  for  learners  with special needs and disabilities in all learning institutions.
+2. To enhance effective communication and learning for learners with special needs and disabilities in all learning institutions.
 
 #### Policy Statements
 
 The government through the Ministry of Education shall:
 
-- Continue  to  work  with  ICT  partners  to  increase  ICT  services  to educational institutions particularly for persons with special needs and disabilities.
+1. Continue to work with ICT partners to increase ICT services to educational institutions particularly for persons with special needs and disabilities.
 
-- Establish  mechanisms  to  ensure  persons  with  special  needs  and disabilities venture into technical training in ICT.
+2. Establish mechanisms to ensure persons with special needs and disabilities venture into technical training in ICT.
 
 58
 
@@ -1568,27 +1517,26 @@ The government through the Ministry of Education shall:
 
 To achieve the above objectives, the government shall:
 
-- Provide guidelines on special needs and disabilities' friendly language for  use  by  the  media,  educational  institutions,  individuals  and  the general public.
+1. Provide guidelines on special needs and disabilities' friendly language for use by the media, educational institutions, individuals and the general public.
 
-- Promote  and  develop  use  of  alternative  communication  systems  for persons  with  special  needs  and  disabilities  and  especially  those  with communication difficulties.
+2. Promote and develop use of alternative communication systems for persons with special needs and disabilities and especially those with communication difficulties.
 
-- Promote  the  development  and  use  of  standard  sign  language  and braille  while  enhancing  availability  of  information  in  these  modes  of communication in educational and other institutions.
+3. Promote the development and use of standard sign language and braille while enhancing availability of information in these modes of communication in educational and other institutions.
 
-- Waive  duties,  taxes  and  other  levies  on  equipment  used  in  the production  of  information  in  accessible  formats  for  persons  with special needs and disabilities.
+4. Waive duties, taxes and other levies on equipment used in the production of information in accessible formats for persons with special needs and disabilities.
 
-- Assist stakeholders involved in the industry reduce the cost of availing information  to persons with special needs and disabilities through the reduction of taxes on information and communication equipment.
+5. Assist stakeholders involved in the industry reduce the cost of availing information to persons with special needs and disabilities through the reduction of taxes on information and communication equipment.
 
-- Facilitate and provide incentives to public and private broadcasters and other media outlets, universities,  research  institutions  and  libraries  to encourage  provision  of  user  friendly  information  to  persons  with special needs and disabilities.
+6. Facilitate and provide incentives to public and private broadcasters and other media outlets, universities, research institutions and libraries to encourage provision of user friendly information to persons with special needs and disabilities.
 
-- Require educators and employers to provide assistive communication equipment, such as talking computers and tape recorders, to learners and  employees  with  special  needs  and  disabilities  according  to  their needs.
+7. Require educators and employers to provide assistive communication equipment, such as talking computers and tape recorders, to learners and employees with special needs and disabilities according to their needs.
 
-- Facilitate  access  to  public  communication  and  information  service points by persons with special needs and disabilities.
+8. Facilitate access to public communication and information service points by persons with special needs and disabilities.
 
-- Make  adaptation  of  ICT  equipment  mandatory  in  educational  and other service provider institutions.
+9. Make adaptation of ICT equipment mandatory in educational and other service provider institutions.
 
-- 10 Ensure  that  ministries  and  agencies  provide  information  in  the  public domain to persons with special needs and disabilities in accessible formats such as sign language and braille.
-
-- Ensure  that  all  teachers  learn  and  apply  techniques  and  methods    of communication appropriate to learners with special needs and disabilities.
+10 Ensure that ministries and agencies provide information in the public domain to persons with special needs and disabilities in accessible formats such as sign language and braille.
+Ensure that all teachers learn and apply techniques and methods of communication appropriate to learners with special needs and disabilities.
 
 59
 
@@ -1596,9 +1544,9 @@ To achieve the above objectives, the government shall:
 
 [[START OF PAGE 60]]
 
-- 11 Ensure  that  teacher  training  institutions  and  other  institutions  training SNE personnel incorporate Information and Communication Technology and techniques appropriate to learners with special needs and disabilities in their training curriculum.
+11 Ensure that teacher training institutions and other institutions training SNE personnel incorporate Information and Communication Technology and techniques appropriate to learners with special needs and disabilities in their training curriculum.
 
-- 12 Sensitize entire communities within learning institutions and the general public on the need to learn communication techniques used by learners with special communication needs.
+12 Sensitize entire communities within learning institutions and the general public on the need to learn communication techniques used by learners with special communication needs.
 
 ### 3.4 Management and Coordination of Special Needs Education
 
@@ -1612,7 +1560,7 @@ A multi sectoral approach will be used in the management of SNE services. The go
 
 [[START OF PAGE 61]]
 
-The quality assurance and standards officers at MOE shall ensure quality and standards  control  in  schools.  The  capacity  of  all  quality  officers  at  zonal, district  and  provincial  levels  shall  be  developed  and  enhanced  through  inservicing in SNE to ensure effective supervision of SNE services alongside regular educational services. The capacity of head teachers of special schools and  units  will  be  a  minimum  of  diploma  in  SNE.    The  Teachers  Service Commission  (TSC)  will  be  required  to  post  SNE  teachers  in  specialized subjects to meet the minimum  demand  for both special education institutions/units and regular schools to support inclusive education.
+The quality assurance and standards officers at MOE shall ensure quality and standards control in schools. The capacity of all quality officers at zonal, district and provincial levels shall be developed and enhanced through in-servicing in SNE to ensure effective supervision of SNE services alongside regular educational services. The capacity of head teachers of special schools and units will be a minimum of diploma in SNE. The Teachers Service Commission (TSC) will be required to post SNE teachers in specialized subjects to meet the minimum demand for both special education institutions/units and regular schools to support inclusive education.
 
 ### 3.5 Monitoring and Evaluation
 
@@ -1622,13 +1570,15 @@ Continuous monitoring will be undertaken by  MOE and periodic (annual) evaluatio
 
 ### 3.6 Review and Amendment of the Policy
 
-The  Ministry  of  Education  in  collaboration  with  key  stakeholders  shall review  the  SNE  policy  every  (5)  years  to  ensure  that  the  policy  remains relevant to changing national and international environments.  Reviews shall incorporate emerging issues and trends, both local and global, that impact on SNE services. Specific policy provisions may be reviewed from time to time in circumstances where there is a major legal and policy shift requiring government  ratification  and  inclusion  in  the  national  legal  framework. Review of part of or whole of SNE policy shall remain the prerogative of the Government of Kenya through the MOE.
+The Ministry of Education in collaboration with key stakeholders shall review the SNE policy every (5) years to ensure that the policy remains relevant to changing national and international environments. Reviews shall incorporate emerging issues and trends, both local and global, that impact on SNE services. Specific policy provisions may be reviewed from time to
 
 61
 
 [[END OF PAGE 61]]
 
 [[START OF PAGE 62]]
+
+time in circumstances where there is a major legal and policy shift requiring government ratification and inclusion in the national legal framework. Review of part of or whole of SNE policy shall remain the prerogative of the Government of Kenya through the MOE.
 
 ### 3.6 Interpretation and Context
 
@@ -1678,13 +1628,13 @@ Republic of Kenya. (2004). Economic Survey. Nairobi: Government Printer.
 
 Republic of Kenya.  (2002, January). The Children Act,  2001 . Nairobi: Government Printer.
 
-Republic of Kenya. (Not Dated). National Action Plan on Education for all 20032015 . Nairobi: Ministry of Education, Science and Technology.
+Republic of Kenya. (Not Dated). National Action Plan on Education for all 2003-2015. Nairobi: Ministry of Education, Science and Technology.
 
 Republic of Kenya (1998). Master Plan and Education and Training, 1997-2010 . Nairobi: Government Printer.
 
 Republic of Kenya (1998). National Primary Education Baseline Report: The State of Primary Education in Kenya. Nairobi: Government Printer.
 
-Republic  of  Kenya  (1999). Totally  Integrated  Quality  Education  and  Training  TIQET: Report of The Commission of Inquiry into The Education System of Kenya. Nairobi: Government Printer.
+Republic of Kenya (1999). Totally Integrated Quality Education and Training – TIQET: Report of The Commission of Inquiry into The Education System of Kenya. Nairobi: Government Printer.
 
 Republic of Kenya, (1988). Report of The Presidential Working Party On Education and  Manpower  Training  for  the  Next  Decade  and  Beyond .  Nairobi:  Government Printer.
 
