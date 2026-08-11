@@ -26,7 +26,7 @@ O  PAIGC,  fundado  em  19  de  Setembro  de  1956,  cumpriu  exemplarmente  o  
 
 Constituição da República da Guiné-Bissau
 
-## TÍTULO 1 PRINCÍPIOS FUNDAMENTAIS - DA NATUREZA E FUNDAMENTOS DO ESTADO
+## TÍTULO I PRINCÍPIOS FUNDAMENTAIS – DA NATUREZA E FUNDAMENTOS DO ESTADO
 
 #### ARTIGO 1°
 
@@ -34,7 +34,7 @@ A Guiné-Bissau é uma República soberana, democrática, laica e unitária.
 
 #### ARTIGO 2°
 
-- 1 O A soberania nacional da República da Guiné-Bissau reside no povo.
+- 1 A soberania nacional da República da Guiné-Bissau reside no povo.
 
 - 2 O povo exerce o poder político directamente ou através dos órgãos de poder eleitos democraticamente.
 
@@ -66,15 +66,15 @@ Constituição da República da Guiné-Bissau
 
 #### ARTIGO 5°
 
-- 1  A  República  da  Guiné-Bissau  proclama  a  sua  gratidão  eterna  ao  combatente que,  pelo  seu  sacrifício  voluntário,  garantiu  a  libertação  da  Pátria  do  jugo estrangeiro, reconquistando a dignidade e o direito do nosso povo a liberdade, ao progresso e à paz.
+- 1 A República da Guiné-Bissau proclama a sua gratidão eterna ao combatente que, pelo seu sacrifício voluntário, garantiu a libertação da Pátria do jugo estrangeiro, reconquistando a dignidade e o direito do nosso povo à liberdade, ao progresso e à paz.
 
 - 2 A República da Guiné-Bissau considera como sua honra e dever:
 
-- Agir no sentido de garantir uma existência condigna aos combatentes da liberdade da Pátria e, em particular, àqueles que pelo facto da sua participação na luta de libertação sofreram uma diminuição física que os torna,  total  ou  parcialmente,  incapazes  para  o  trabalho  e  que  são  os primeiros credores do reconhecimento nacional;
+- a) Agir no sentido de garantir uma existência condigna aos combatentes da liberdade da Pátria e, em particular, àqueles que pelo facto da sua participação na luta de libertação sofreram uma diminuição física que os torna, total ou parcialmente, incapazes para o trabalho e que são os primeiros credores do reconhecimento nacional;
 
-- Garantir  a  educação  dos  órfãos  dos  combatentes  da  liberdade  da Pátria;
+- b) Garantir a educação dos órfãos dos combatentes da liberdade da Pátria;
 
-- Assistir os pais, os filhos e os viúvos dos combatentes da liberdade da Pátria.
+- c) Assistir os pais, os filhos e os viúvos dos combatentes da liberdade da Pátria.
 
 - 3 O combatente da liberdade da Pátria é o militante que, nos quadros do PAIGC, participou  na  luta  de  libertação  entre  19  de  Setembro  de  1956  e  24  de Setembro  de  1973  e  o  que,  tendo-se  integrado  nas  fileiras  do  Partido,  nas frentes de combate, após esta última data e até 24 de Abril de 1974, revelou, pela sua conduta exemplar, ser digno desse título.
 
@@ -92,7 +92,7 @@ No quadro da sua estrutura unitária e da realização do interesse nacional, o 
 
 A República da Guiné-Bissau exerce a sua soberania:
 
-- Sobre todo o território nacional, que compreende:
+- 1) Sobre todo o território nacional, que compreende:
 
 3
 
@@ -102,13 +102,13 @@ A República da Guiné-Bissau exerce a sua soberania:
 
 Constituição da República da Guiné-Bissau
 
-- A superfície emersa compreendida nos limites das fronteiras nacionais;
+- a) A superfície emersa compreendida nos limites das fronteiras nacionais;
 
-- O  mar  interior  e  o  mar  territorial  definidos  na  lei,  assim  como  os respectivos leitos e subsolos;
+- b) O mar interior e o mar territorial definidos na lei, assim como os respectivos leitos e subsolos;
 
-- O  espaço  aéreo  supra  jacente  aos  espaços  geográficos  referidos  nas alíneas anteriores;
+- c) O espaço aéreo supra jacente aos espaços geográficos referidos nas alíneas anteriores;
 
-- Sobre todos os recursos naturais vivos, que se encontrem no seu território.
+- 2) Sobre todos os recursos naturais vivos, que se encontrem no seu território.
 
 #### ARTIGO 10°
 
@@ -124,11 +124,11 @@ Na sua zona económica exclusiva, definida por lei, o Estado da Guiné-Bissau, e
 
 - 1  Na  República  da  Guiné-Bissau  são  reconhecidas  as  seguintes  formas  de propriedade:
 
-- A propriedade do Estado, património comum de todo o povo;
+- a) A propriedade do Estado, património comum de todo o povo;
 
-- A  propriedade  cooperativa  que,  organizada  sob  a  base  do  livre consentimento, incide sobre a exploração agrícola, a produção de bens de consumo, o artesanato e outras actividades fixadas por lei;
+- b) A propriedade cooperativa que, organizada sob a base do livre consentimento, incide sobre a exploração agrícola, a produção de bens de consumo, o artesanato e outras actividades fixadas por lei;
 
-- A propriedade privada, que incide sobre bens distintos do Estado.
+- c) A propriedade privada, que incide sobre bens distintos do Estado.
 
 - 2 São propriedade do Estado o solo, o subsolo, as águas, as riquezas minerais, as principais fontes de energia, a riqueza florestal e as infra-estruturas sociais.
 
@@ -159,7 +159,7 @@ A  saúde  pública  tem  por  objectivo  promover  o  bem-estar  físico  e  me
 
 - 1  A  educação  visa  a  formação  do  homem.  Ela  deverá  manter-se  estreitamente ligada ao trabalho produtivo, proporcionar a aquisição de qualificações, conhecimentos e valores que permitam ao cidadão inserir-se na comunidade e contribuir para o seu incessante progresso.
 
-- 2 -O  Estado  considera a liquidação  do  analfabetismo  como  uma  tarefa fundamental.
+- 2 O Estado considera a liquidação do analfabetismo como uma tarefa fundamental.
 
 #### ARTIGO 17°
 
@@ -183,7 +183,7 @@ Constituição da República da Guiné-Bissau
 
 - 2 A República da Guiné-Bissau defende o direito dos povos à autodeterminação e à independência, apoia a luta dos povos contra o colonialismo, o imperialismo, o  racismo  e  todas  as  demais  formas  de  opressão  e  exploração,  preconiza  a solução pacífica dos conflitos internacionais e participa nos esforços tendentes a assegurar a paz e a justiça nas relações entre os Estados e o estabelecimento da nova ordem económica internacional.
 
-- 3 Sem prejuízo das conquistas alcançadas através da luta de libertação nacional, a República  da  Guiné-Bissau  participa  nos  esforços  que  realizam  os  Estados africanos, na base regional continental, em ordem à concretização do princípio da unidade africana.
+- 3 Sem prejuízo das conquistas alcançadas através da luta de libertação nacional, a República da Guiné-Bissau participa nos esforços que realizam os Estados africanos, na base regional e continental, em ordem à concretização do princípio da unidade africana.
 
 #### ARTIGO 19º
 
@@ -277,7 +277,7 @@ Constituição da República da Guiné-Bissau
 
 - 1 Os preceitos constitucionais respeitantes aos direitos, liberdades e garantias são directamente aplicáveis e vinculam as entidades públicas e privadas.
 
-- 2  O  exercício  dos  direitos,  liberdades  e  garantias  fundamentais  só  poderá  ser suspenso ou limitado em caso de estado de emergência, declarados nos termos da Constituição e da lei.
+- 2 O exercício dos direitos, liberdades e garantias fundamentais só poderá ser suspenso ou limitado em caso de estado de sítio ou de estado de emergência, declarados nos termos da Constituição e da lei.
 
 - 3  As  leis  restritivas  de  direitos,  liberdades  e  garantias  têm  carácter  geral  e abstracto,  devem  limitar-se  ao  necessário  para  salvaguardar  outros  direitos  ou
 
@@ -289,11 +289,11 @@ Constituição da República da Guiné-Bissau
 
 Constituição da República da Guiné-Bissau
 
-- interesses constitucionalmente protegidos e não podem ter efeitos retroactivos, nem diminuir o conteúdo essencial dos direitos.
+interesses constitucionalmente protegidos e não podem ter efeitos retroactivos, nem diminuir o conteúdo essencial dos direitos.
 
 #### ARTIGO 31º
 
-- 1 O estado de sítio ou o estado de emergência só podem ser declarados, no todo ou em parte do território nacional, nos casos de agressão efectiva ou eminente por forças estrangeiras, de grave ameaça ou perturbação da ordem constitucional democrática ou de calamidade política.
+- 1 O estado de sítio ou o estado de emergência só podem ser declarados, no todo ou em parte do território nacional, nos casos de agressão efectiva ou iminente por forças estrangeiras, de grave ameaça ou perturbação da ordem constitucional democrática ou de calamidade pública.
 
 - 2 A declaração do estado de sítio em caso algum pode afectar os direitos à vida, à integridade pessoal e à identidade pessoal, a capacidade civil e a cidadania, a não retroactividade da lei penal, o direito de defesa dos arguidos e a liberdade de consciência e de religião.
 
@@ -305,13 +305,13 @@ Todo o cidadão tem o direito de recorrer aos órgãos jurisdicionais contra os 
 
 #### ARTIGO 33º
 
-O Estado e as demais entidades públicas são civilmente responsáveis, de forma solidária com  os  titulares  dos  seus  órgãos,  funcionário  ou  agentes,  por  acções  ou  omissões praticadas no exercício das suas funções, e por causa desse exercício, de que resulte violação dos direitos, liberdades e garantias, ou prejuízo para outrem.
+O Estado e as demais entidades públicas são civilmente responsáveis, de forma solidária com os titulares dos seus órgãos, funcionários ou agentes, por acções ou omissões praticadas no exercício das suas funções, e por causa desse exercício, de que resulte violação dos direitos, liberdades e garantias, ou prejuízo para outrem.
 
 #### ARTIGO 34º
 
 Todos têm direito à informação e à protecção jurídica, nos termos da lei.
 
-#### ARTIGO 35º·
+#### ARTIGO 35º
 
 Nenhum dos direitos e liberdades garantidos aos cidadãos pode ser exercido contra a independência da Nação, a integridade do território, a unidade nacional, as instituições da República e os princípios e objectivos consagrados na presente Constituição.
 
@@ -337,7 +337,7 @@ Constituição da República da Guiné-Bissau
 
 - 3 Em caso algum haverá trabalhos forçados, nem medidas de segurança privativas de liberdade de duração ilimitada ou indefinida.
 
-- 4 ­ A responsabilidade criminal é pessoal e intransmissível.
+- 4 A responsabilidade criminal é pessoal e intransmissível.
 
 #### ARTIGO 38°
 
@@ -355,15 +355,15 @@ Constituição da República da Guiné-Bissau
 
 - 2 A privação da liberdade contra o disposto na Constituição e na lei constitui o Estado no dever de indemnizar o lesado, nos termos que a lei estabelecer.
 
-- 3 A prisão ou detenção ilegal resultante de abuso de poder confere ao cidadão o direito de recorrer à providência do habeas corpus .
+- 3 A prisão ou detenção ilegal resultante de abuso de poder confere ao cidadão o direito de recorrer à providência do habeas corpus.
 
 - 4 A  providência do habeas corpus é  interposta no Supremo Tribunal de Justiça, nos termos da lei.
 
-- 5  Em  caso  de  dificuldade  de  recurso  ao  Supremo  Tribunal  de  Justiça, providência poderá ser requerida no tribunal regional mais próximo. a
+- 5 Em caso de dificuldade de recurso ao Supremo Tribunal de Justiça, a providência poderá ser requerida no tribunal regional mais próximo.
 
 #### ARTIGO 40°
 
-- 1 A prisão sem culpa formada será submetida, no prazo máximo de quarenta e oito  horas,  a  decisão  judicial  de  validação  ou  manutenção,  devendo  o  juiz conhecer das causas da detenção e comunicá-las ao detido, interrogá-lo e dar­ lhe oportunidade de defesa.
+- 1 A prisão sem culpa formada será submetida, no prazo máximo de quarenta e oito horas, a decisão judicial de validação ou manutenção, devendo o juiz conhecer das causas da detenção e comunicá-las ao detido, interrogá-lo e dar-lhe oportunidade de defesa.
 
 10
 
@@ -379,11 +379,11 @@ Constituição da República da Guiné-Bissau
 
 #### ARTIGO 41°
 
-- 1 Ninguém pode ser sentenciado criminalmente se não em virtude de lei anterior que declare punível a acção ou a omissão, nem sofrer medidas de segurança cujos pressupostos não estejam fixados em lei anterior.
+- 1 Ninguém pode ser sentenciado criminalmente senão em virtude de lei anterior que declare punível a acção ou a omissão, nem sofrer medidas de segurança cujos pressupostos não estejam fixados em lei anterior.
 
 - 2  Não  podem  ser  aplicadas  penas  ou  medidas  de  segurança  que  não  estejam expressamente cominadas em lei anterior.
 
-- 3  Ninguém pode sofrer penas ou medidas de segurança mais grave do que as previstas  no  momento  da  correspondente  conduta  ou  de  verificação  dos respectivos pressupostos.
+- 3 Ninguém pode sofrer penas ou medidas de segurança mais graves do que as previstas no momento da correspondente conduta ou de verificação dos respectivos pressupostos.
 
 - 4 Ninguém pode ser julgado mais de uma vez pela prática do mesmo crime.
 
@@ -433,15 +433,15 @@ Constituição da República da Guiné-Bissau
 
 - 2 No exercício da liberdade sindical é garantido aos trabalhadores, sem qualquer discriminação, designadamente:
 
-- A  liberdade  de  constituição,  de  organização  e  de  regulamentação interna das associações;
+- a) A liberdade de constituição, de organização e de regulamentação interna das associações;
 
-- O direito de exercício da actividade sindical nas empresas, nos termos previstos na lei.
+- b) O direito de exercício da actividade sindical nas empresas, nos termos previstos na lei.
 
 - 3  As  associações  sindicais  são  independentes  do  Estado,  do  patronato,  das confissões religiosas, dos partidos e outras associações políticas.
 
 - 4  A  lei  assegura  a  protecção  adequada  aos  representantes  dos  trabalhadores contra quaisquer formas de limitações do exercício legítimo das suas funções.
 
-- 5  As  associações  sindicais  devem  reger-se  pelos  princípios  da  organização  e  da gestão democráticas, baseados na eleição periódica e por escrutínio secreto dos órgãos  dirigentes,  sem  sujeição  a  qualquer  autorização  ou  homologação  dos trabalhadores, em todos os domínios da actividade sindical.
+- 5 As associações sindicais devem reger-se pelos princípios da organização e da gestão democráticas, baseados na eleição periódica e por escrutínio secreto dos órgãos dirigentes, sem sujeição a qualquer autorização ou homologação, e assentes na participação activa dos trabalhadores, em todos os domínios da actividade sindical.
 
 12
 
@@ -461,13 +461,13 @@ Constituição da República da Guiné-Bissau
 
 #### ARTIGO 47°
 
-- 1  É  reconhecido  aos  trabalhadores  o  direito  a  greve  nos  termos  da  lei, competindo-lhes definir o âmbito de interesses profissionais a defender através da greve, devendo a lei estabelecer as suas limitações nos serviços e actividades essenciais, no interesse das necessidades inadiáveis da sociedade.
+- 1 É reconhecido aos trabalhadores o direito à greve nos termos da lei, competindo-lhes definir o âmbito de interesses profissionais a defender através da greve, devendo a lei estabelecer as suas limitações nos serviços e actividades essenciais, no interesse das necessidades inadiáveis da sociedade.
 
 - 2 É proibido o lock-out .
 
 #### ARTIGO 48°
 
-- 1  O  Estado  reconhece  o  direito  do  cidadão  à  inviolabilidade  do  domicilio,  da correspondência e dos outros meios de comunicação privada, exceptuando os casos expressamente previstos na lei em matéria de processo criminal.
+- 1 O Estado reconhece o direito do cidadão à inviolabilidade do domicílio, da correspondência e dos outros meios de comunicação privada, exceptuando os casos expressamente previstos na lei em matéria de processo criminal.
 
 - 2  A  entrada  no  domicílio  contra  a  sua  vontade  só  pode  ser  ordenada  pela autoridade judicial competente nos casos e segundo as formas previstos na lei.
 
@@ -477,7 +477,7 @@ Constituição da República da Guiné-Bissau
 
 - 2 O Estado promove gradualmente a gratuitidade e a igual possibilidade de acesso de todos os cidadãos aos diversos graus de ensino.
 
-- 3 ­ É garantido o direito de criação de escolas privadas e cooperativas.
+- 3 É garantido o direito de criação de escolas privadas e cooperativas.
 
 - 4 O ensino público não será confessional.
 
@@ -525,7 +525,7 @@ A todos os cidadãos é garantido o direito de se deslocar livremente em qualque
 
 #### ARTIGO 55º
 
-- 1  Os  cidadãos  têm  o  direito  de,  livremente  e  sem  dependência  de  qualquer autorização, constituir associações, desde'que estas não se destinem a promover a violência e os respectivos fins não sejam contrários à lei.
+- 1 Os cidadãos têm o direito de, livremente e sem dependência de qualquer autorização, constituir associações, desde que estas não se destinem a promover a violência e os respectivos fins não sejam contrários à lei.
 
 14
 
@@ -545,7 +545,7 @@ Constituição da República da Guiné-Bissau
 
 - 2  As  estações  de  rádio  e  televisão  só  podem  ser  criadas  mediante  licença  a conferir nos termos da lei.
 
-- 3 -O  Estado  garante  um  serviço  de  imprensa,  de  rádio  e  de  televisão, independente dos interesses económicos e políticos, que assegure a expressão e o confronto das diversas correntes de opinião.
+- 3 O Estado garante um serviço de imprensa, de rádio e de televisão, independente dos interesses económicos e políticos, que assegure a expressão e o confronto das diversas correntes de opinião.
 
 - 4  Para  garantir  o  disposto  no  número  anterior  e  assegurar  o  respeito  pelo pluralismo  ideológico,  será  criado  um  Conselho  Nacional  de  Comunicação Social,  órgão  independente cuja composição e funcionamento serão definidos por lei.
 
@@ -557,9 +557,9 @@ Os partidos políticos têm direito a tempos de antena na rádio e na televisão
 
 Em conformidade com o desenvolvimento do País, o Estado criará progressivamente as condições necessárias à realização integral dos direitos de natureza económica e social reconhecidos neste título.
 
-## TITULO III ORGANIZAÇÃO DO PODER POLÍTICO
+## TÍTULO III ORGANIZAÇÃO DO PODER POLÍTICO
 
-### CAPÍTULO 1 DOS PRINCÍPIOS GERAIS
+### CAPÍTULO I DOS PRINCÍPIOS GERAIS
 
 #### ARTIGO 59º
 
@@ -625,23 +625,23 @@ As  funções  de  Presidente  da  República  são  incompatíveis  com  quaisq
 
 #### ARTIGO 67°
 
-O  Presidente  da  República  eleito  é  investido  em  reunião  plenária  da  Assembleia Nacional Popular, pelo respectivo Presidente, prestando nesse acto o seguinte juramento: ' Juro por minha honra defender a Constituição e as leis, a independência e a unidade nacionais, dedicar a minha inteligência e as minhas energias ao serviço do povo da Guiné-Bissau, cumprindo com total fidelidade os deveres da alta função para que fui eleito '.
+O Presidente da República eleito é investido em reunião plenária da Assembleia Nacional Popular, pelo respectivo Presidente, prestando nesse acto o seguinte juramento: “Juro por minha honra defender a Constituição e as leis, a independência e a unidade nacionais, dedicar a minha inteligência e as minhas energias ao serviço do povo da Guiné-Bissau, cumprindo com total fidelidade os deveres da alta função para que fui eleito”.
 
 #### ARTIGO 68°
 
 São atribuições do Presidente da República:
 
-- Representar o Estado Guineense;
+- a) Representar o Estado Guineense;
 
-- Defender a Constituição da República;
+- b) Defender a Constituição da República;
 
-- Dirigir mensagem à Nação e à Assembleia Nacional;
+- c) Dirigir mensagem à Nação e à Assembleia Nacional;
 
-- Convocar extraordinariamente a Assembleia Nacional Popular sempre que razões imperiosas de interesse público o justifiquem;
+- d) Convocar extraordinariamente a Assembleia Nacional Popular sempre que razões imperiosas de interesse público o justifiquem;
 
-- Ratificar os tratados internacionais;
+- e) Ratificar os tratados internacionais;
 
-- Fixar a data das eleições do Presidente da República, dos deputados à Assembleia Nacional Popular e dos titulares dos órgãos de poder local, nos termos da lei;
+- f) Fixar a data das eleições do Presidente da República, dos deputados à Assembleia Nacional Popular e dos titulares dos órgãos de poder local, nos termos da lei;
 
 17
 
@@ -651,39 +651,39 @@ São atribuições do Presidente da República:
 
 Constituição da República da Guiné-Bissau
 
-- Nomear e exonerar o Primeiro-Ministro, tendo em conta 6s resultados eleitorais  e  ouvidas  as  forças  políticas  representadas  na  Assembleia Nacional Popular;
+- g) Nomear e exonerar o Primeiro-Ministro, tendo em conta os resultados eleitorais e ouvidas as forças políticas representadas na Assembleia Nacional Popular;
 
-- Empossar o Primeiro-Ministro;
+- h) Empossar o Primeiro-Ministro;
 
-- Nomear e exonerar os restantes membros do Governo, sob proposta do Primeiro-Ministro, e dar-lhes posse;
+- i) Nomear e exonerar os restantes membros do Governo, sob proposta do Primeiro-Ministro, e dar-lhes posse;
 
-- Criar e extinguir ministérios e secretarias de Estado, sob proposta do Primeiro-Ministro;
+- j) Criar e extinguir ministérios e secretarias de Estado, sob proposta do Primeiro-Ministro;
 
-- Presidir o Conselho de Estado;
+- l) Presidir o Conselho de Estado;
 
-- Presidir o Conselho de Ministros, quando entender;
+- m) Presidir o Conselho de Ministros, quando entender;
 
-- Empossar os juízes do Supremo Tribunal de Justiça;
+- n) Empossar os juízes do Supremo Tribunal de Justiça;
 
-- Nomear  e  exonerar,  sob  proposta  do  Governo,  o  Chefe  do  Estado­ Maior-General das Forças Armadas;
+- o) Nomear e exonerar, sob proposta do Governo, o Chefe do Estado-Maior-General das Forças Armadas;
 
-- Nomear  e  exonerar,  ouvido  o  governo,  o  Procurador-Geral  da República;
+- p) Nomear e exonerar, ouvido o governo, o Procurador-Geral da República;
 
-- Nomear e exonerar os Embaixadores, ouvido o Governo;
+- q) Nomear e exonerar os Embaixadores, ouvido o Governo;
 
-- Acreditar os embaixadores Estrangeiros;
+- r) Acreditar os embaixadores Estrangeiros;
 
-- Promulgar as leis, os decretos-lei e os decretos;
+- s) Promulgar as leis, os decretos-lei e os decretos;
 
-- Indultar e comutar penas;
+- t) Indultar e comutar penas;
 
-- Declarar a guerra e fazer a paz, nos temos do artigo 85°, nº 1, alínea), da Constituição;
+- u) Declarar a guerra e fazer a paz, nos termos do artigo 85°, nº 1, alínea j), da Constituição;
 
-- Declarar o estado de sítio e de emergência, nos termos do artigo 85°, nº 1, alínea i), da Constituição;
+- v) Declarar o estado de sítio e de emergência, nos termos do artigo 85°, nº 1, alínea i), da Constituição;
 
-- Conceder títulos honoríficos e condecorações do Estado;
+- x) Conceder títulos honoríficos e condecorações do Estado;
 
-- Exercer as demais funções que lhe forem atribuídas pela Constituição e pela lei.
+- z) Exercer as demais funções que lhe forem atribuídas pela Constituição e pela lei.
 
 #### ARTIGO 69°
 
@@ -697,11 +697,11 @@ Constituição da República da Guiné-Bissau
 
 Constituição da República da Guiné-Bissau
 
-- Dissolver  a  Assembleia  Nacional  Popular,  em  caso  de  grave  crise política,  ouvidos  o  Presidente  da  Assembleia  Nacional  Popular  e  os partidos  políticos  nela  representados  e  observados  os  limites  impostos pela Constituição;
+- a) Dissolver a Assembleia Nacional Popular, em caso de grave crise política, ouvidos o Presidente da Assembleia Nacional Popular e os partidos políticos nela representados e observados os limites impostos pela Constituição;
 
-- Demitir o Governo, nos termos do nº 2 do artigo 104° da Constituição;
+- b) Demitir o Governo, nos termos do nº 2 do artigo 104° da Constituição;
 
-- Promulgar ou exercer o direito de veto no prazo de 30 dias contados da  recepção  de  qualquer  diploma  da  Assembleia  Nacional  Popular  ou do Governo para promulgação.
+- c) Promulgar ou exercer o direito de veto no prazo de 30 dias contados da recepção de qualquer diploma da Assembleia Nacional Popular ou do Governo para promulgação.
 
 - 2 O veto do Presidente da República sobre as leis da Assembleia Nacional Popular pode ser superado por voto favorável da maioria de dois terços dos deputados em efectividade de funções.
 
@@ -719,7 +719,7 @@ No exercício das suas funções, o Presidente da República profere decretos pr
 
 - 4  O  Presidente  da  República  interino  não  pode,  em  caso  algum,  exercer  as atribuições previstas nas alíneas g), i), m), n), o), s), v) e x) do artigo 68° e ainda nas alíneas a), b) e c) do nº 1 do artigo 69° da Constituição.
 
-- 5 A competência prevista na alínea J) do artigo 68° só poderá ser exercida pelo Presidente da República interino para cumprimento no nº 3 do presente artigo.
+- 5 A competência prevista na alínea f) do artigo 68° só poderá ser exercida pelo Presidente da República interino para cumprimento do nº 3 do presente artigo.
 
 #### ARTIGO 72°
 
@@ -749,15 +749,15 @@ O Conselho de Estado é o órgão político de consulta do Presidente da Repúbl
 
 - 1 O  Conselho de Estado é presidido pelo Presidente da República e composto pelos seguintes membros:
 
-- O Presidente da Assembleia Nacional;
+- a) O Presidente da Assembleia Nacional;
 
-- O Primeiro-Ministro;
+- b) O Primeiro-Ministro;
 
-- O Presidente do Supremo Tribunal de Justiça;
+- c) O Presidente do Supremo Tribunal de Justiça;
 
-- O  representante  de  cada  um  dos  partidos  políticos  com  assento  na Assembleia Nacional Popular;
+- d) O representante de cada um dos partidos políticos com assento na Assembleia Nacional Popular;
 
-- Cinco cidadãos designados pelo Presidente da República pelo período correspondente à duração do seu mandato.
+- e) Cinco cidadãos designados pelo Presidente da República pelo período correspondente à duração do seu mandato.
 
 - 2 O representante a que se refere a alínea d) do número anterior é escolhido por cooptação entre os deputados à Assembleia Nacional Popular.
 
@@ -767,7 +767,7 @@ O Conselho de Estado é o órgão político de consulta do Presidente da Repúbl
 
 Compete ao Conselho de Estado:
 
-- Pronunciar-se sobre a dissolução da Assembleia Nacional Popular;
+- a) Pronunciar-se sobre a dissolução da Assembleia Nacional Popular;
 
 20
 
@@ -777,11 +777,11 @@ Compete ao Conselho de Estado:
 
 Constituição da República da Guiné-Bissau
 
-- Pronunciar-se sobre a declaração de estado de sítio e de emergência;
+- b) Pronunciar-se sobre a declaração de estado de sítio e de emergência;
 
-- Pronunciar-se sobre a declaração da guerra e a instauração da paz;
+- c) Pronunciar-se sobre a declaração da guerra e a instauração da paz;
 
-- Aconselhar o Presidente da República no exercício das suas funções, quando este lho solicitar.
+- d) Aconselhar o Presidente da República no exercício das suas funções, quando este lho solicitar.
 
 ### CAPÍTULO IV DA ASSEMBLEIA NACIONAL POPULAR
 
@@ -807,7 +807,7 @@ Cada  legislatura  tem  a  duração  de  quatro  anos  e  inicia-se  com  a  pr
 
 #### ARTIGO 80º
 
-Os deputados à Assembleia Nacional Popular prestam juramento nos seguintes termos: ' Juro  que  farei  tudo  o  que  estiver  nas  minhas  forças  para  cumprir,  com  honra  e fidelidade  total  ao  povo,  o  meti  mandato  de  deputado,  defendendo  sempre  e intransigentemente os interesses nacionais e os princípios e objectivos da Constituição da República da Guiné-Bissau '.
+Os deputados à Assembleia Nacional Popular prestam juramento nos seguintes termos: “Juro que farei tudo o que estiver nas minhas forças para cumprir, com honra e fidelidade total ao povo, o meu mandato de deputado, defendendo sempre e intransigentemente os interesses nacionais e os princípios e objectivos da Constituição da República da Guiné-Bissau”.
 
 21
 
@@ -835,9 +835,9 @@ O deputado tem direito de fazer interpelação ao Governo, oralmente ou por escr
 
 #### ARTIGO 84°
 
-- 1 A Assembleia Nacional Popular elegerá, na 1a sessão de cada legislatura, o seu Presidente e os demais membros da Mesa.
+- 1 A Assembleia Nacional Popular elegerá, na 1ª sessão de cada legislatura, o seu Presidente e os demais membros da Mesa.
 
-- 2  A  Mesa  é  composta  pelo  Presidente,  um  l  Vice-Presidente,  um  2°  VicePresidente, um 1° Secretário e um 2° Secretário, eleitos por toda a legislatura.
+- 2 A Mesa é composta pelo Presidente, um 1° Vice-Presidente, um 2° Vice-Presidente, um 1° Secretário e um 2° Secretário, eleitos por toda a legislatura.
 
 - 3  As  atribuições  e  competências  da  Mesa  são  reguladas  pelo  Regimento  da Assembleia.
 
@@ -847,9 +847,9 @@ O deputado tem direito de fazer interpelação ao Governo, oralmente ou por escr
 
 Compete à Assembleia Nacional Popular:
 
-- Proceder  à  revisão  constitucional,  nos  termos  dos  artigos  127°  e seguintes;
+- a) Proceder à revisão constitucional, nos termos dos artigos 127° e seguintes;
 
-- Decidir da realização de referendos populares;
+- b) Decidir da realização de referendos populares;
 
 22
 
@@ -859,33 +859,35 @@ Compete à Assembleia Nacional Popular:
 
 Constituição da República da Guiné-Bissau
 
-- Fazer leis e votar moções e resoluções;
+- c) Fazer leis e votar moções e resoluções;
 
-- Aprovar o Programa do Governo;
+- d) Aprovar o Programa do Governo;
 
-- Requerer  ao  Procurador-Geral  da  República  o  exercício  da  acção penal  contra  o  Presidente  da  República,  nos  termos  do  artigo  72°  da Constituição; Votar moções de confiança e de censura ao Governo;
+- e) Requerer ao Procurador-Geral da República o exercício da acção penal contra o Presidente da República, nos termos do artigo 72° da Constituição;
 
-- Aprovar o Orçamento  Geral  do  Estado  e  o Plano Nacional de Desenvolvimento, bem como as respectivas leis;
+- f) Votar moções de confiança e de censura ao Governo;
 
-- Aprovar os tratados que envolvam a participação da Guiné-Bissau em organizações internacionais, os tratados de amizade, de paz, de defesa, de  rectificação  de  fronteiras  e  ainda  quaisquer  outros  que  o  Governo entenda submeter-lhe;
+- g) Aprovar o Orçamento Geral do Estado e o Plano Nacional de Desenvolvimento, bem como as respectivas leis;
 
-- Pronunciar-se sobre a declaração de estado de sítio e de emergência;
+- h) Aprovar os tratados que envolvam a participação da Guiné-Bissau em organizações internacionais, os tratados de amizade, de paz, de defesa, de rectificação de fronteiras e ainda quaisquer outros que o Governo entenda submeter-lhe;
 
-- Autorizar  o  Presidente  da  República  a  declarar  a  guerra  e  a  fazer  a paz;
+- i) Pronunciar-se sobre a declaração de estado de sítio e de emergência;
 
-- Conferir ao Governo a autorização legislativa;
+- j) Autorizar o Presidente da República a declarar a guerra e a fazer a paz;
 
-- Ratificar os decretos-lei aprovados pelo Governo no uso da competência legislativa delegada;
+- k) Conferir ao Governo a autorização legislativa;
 
-- Apreciar as contas do Estado relativas a cada ano económico;
+- l) Ratificar os decretos-lei aprovados pelo Governo no uso da competência legislativa delegada;
 
-- Conceder amnistia;
+- m) Apreciar as contas do Estado relativas a cada ano económico;
 
-- Zelar pelo cumprimento da Constituição e das leis e apreciar os actos do Governo e da Administração
+- n) Conceder amnistia;
 
-- Elaborar e aprovar o seu Regimento
+- o) Zelar pelo cumprimento da Constituição e das leis e apreciar os actos do Governo e da Administração
 
-- Exercer as demais atribuições que lhe sejam conferidas pela Constituição e pela lei.
+- p) Elaborar e aprovar o seu Regimento
+
+- q) Exercer as demais atribuições que lhe sejam conferidas pela Constituição e pela lei.
 
 - 2  Quando  o  Programa  do  Governo  não  tenha  sido  aprovado  pela  Assembleia Nacional Popular, terá lugar, no prazo de 15 dias, um novo debate.
 
@@ -909,41 +911,41 @@ Constituição da República da Guiné-Bissau
 
 É da exclusiva competência da Assembleia Nacional Popular legislar sobre as seguintes matérias:
 
-- Nacionalidade guineense;
+- a) Nacionalidade guineense;
 
-- Estatuto da terra e a forma da sua utilização;
+- b) Estatuto da terra e a forma da sua utilização;
 
-- Organização de defesa nacional;
+- c) Organização de defesa nacional;
 
-- Sistema monetário;
+- f) Sistema monetário;
 
-- Organização judiciária e estatuto dos magistrados;
+- g) Organização judiciária e estatuto dos magistrados;
 
-- Definição  dos  crimes,  penas  e  medidas  de  segurança  e  processo criminal;
+- h) Definição dos crimes, penas e medidas de segurança e processo criminal;
 
-- Estado de sítio e estado de emergência;
+- i) Estado de sítio e estado de emergência;
 
-- Definição dos limites das águas territoriais e da sua zona económica exclusiva;
+- j) Definição dos limites das águas territoriais e da sua zona económica exclusiva;
 
-- Direitos, liberdades e garantias;
+- k) Direitos, liberdades e garantias;
 
-- Associações e partidos políticos;
+- l) Associações e partidos políticos;
 
-- Sistema eleitoral.
+- m) Sistema eleitoral.
 
 #### ARTIGO 87º
 
 É da exclusiva competência da Assembleia Nacional Popular legislar sobre as seguintes matérias, salvo autorização conferida ao Governo:
 
-- Organização da administração central e local;
+- a) Organização da administração central e local;
 
-- Estatuto dos funcionários públicos e responsabilidade civil da Administração;
+- b) Estatuto dos funcionários públicos e responsabilidade civil da Administração;
 
-- Expropriação e requisição por utilidade púbica;
+- c) Expropriação e requisição por utilidade pública;
 
-- Estado e capacidade das pessoas;
+- d) Estado e capacidade das pessoas;
 
-- Nacionalização dos meios de produção;
+- e) Nacionalização dos meios de produção;
 
 24
 
@@ -953,7 +955,7 @@ Constituição da República da Guiné-Bissau
 
 Constituição da República da Guiné-Bissau
 
-- Delimitação dos sectores de propriedade e das actividades económicas.
+- f) Delimitação dos sectores de propriedade e das actividades económicas.
 
 #### ARTIGO 88°
 
@@ -961,7 +963,7 @@ A  Assembleia  Nacional  Popular  cria  comissões  especializadas  em  razão  
 
 #### ARTIGO 89°
 
-- 1 A Assembleia Nacional Popular reúne-se, em sessão ordinária,
+- 1 A Assembleia Nacional Popular reúne-se, em sessão ordinária, duas vezes por ano.
 
 - 2 A Assembleia Nacional Popular reunir-se-á extraordinariamente por iniciativa do Presidente  da  República,  dos  deputados,  do  Governo  e  da  sua  Comissão Permanente.
 
@@ -981,13 +983,13 @@ Os  membros  do  Governo  podem  tomar  assento  e  usar  da  palavra  nas  reun
 
 - 2 O termo da legislatura e a mudança de Governo acarretam a caducidade das autorizações legislativas concedidas.
 
-- 3  Os  decretos-leis  aprovados  pelo  Governo  no  uso  da  competência  legislativa delegada  serão  remetidos  à  Assembleia  Nacional  Popular  para  ratificação, dispondo esta de um prazo de 30 aias para o efeito, findo o qual o diploma será considerado ratificado.
+- 3 Os decretos-leis aprovados pelo Governo no uso da competência legislativa delegada serão remetidos à Assembleia Nacional Popular para ratificação, dispondo esta de um prazo de 30 dias para o efeito, findo o qual o diploma será considerado ratificado.
 
 #### ARTIGO 93º
 
 São atribuições do Presidente da Assembleia Nacional Popular:
 
-- Presidir às sessões da Assembleia Nacional Popular e velar pela aplicação do seu Regimento
+- 1) Presidir às sessões da Assembleia Nacional Popular e velar pela aplicação do seu Regimento
 
 25
 
@@ -997,15 +999,15 @@ São atribuições do Presidente da Assembleia Nacional Popular:
 
 Constituição da República da Guiné-Bissau
 
-- Convocar as sessões ordinárias da Assembleia Nacional Popular;
+- 2) Convocar as sessões ordinárias da Assembleia Nacional Popular;
 
-- Superintender  e  coordenar  os  trabalhos  das  comissões  permanentes  e eventuais da Assembleia Nacional Popular;
+- 3) Superintender e coordenar os trabalhos das comissões permanentes e eventuais da Assembleia Nacional Popular;
 
-- Assinar  e  ordenar  a  publicação  no  Boletim  Oficial  das  leis  e  resoluções  da Assembleia Nacional Popular;
+- 4) Assinar e ordenar a publicação no Boletim Oficial das leis e resoluções da Assembleia Nacional Popular;
 
-- Dirigir as relações internacionais da Assembleia Nacional Popular;
+- 5) Dirigir as relações internacionais da Assembleia Nacional Popular;
 
-- Todas as demais que lhe forem atribuídas pela presente Constituição ou pela Assembleia Nacional Popular.
+- 6) Todas as demais que lhe forem atribuídas pela presente Constituição ou pela Assembleia Nacional Popular.
 
 #### ARTIGO 94º
 
@@ -1021,13 +1023,13 @@ Constituição da República da Guiné-Bissau
 
 - 3 Compete à Comissão Permanente:
 
-- Acompanhar a actividade do Governo e da Administração;
+- a) Acompanhar a actividade do Governo e da Administração;
 
-- Exercer os poderes da Assembleia Nacional Popular relativamente ao mandato dos deputados;
+- b) Exercer os poderes da Assembleia Nacional Popular relativamente ao mandato dos deputados;
 
-- Promover a convocação da Assembleia Nacional Popular sempre que tal se afigure necessário;
+- c) Promover a convocação da Assembleia Nacional Popular sempre que tal se afigure necessário;
 
-- Preparar a abertura das sessões;
+- d) Preparar a abertura das sessões;
 
 26
 
@@ -1037,7 +1039,7 @@ Constituição da República da Guiné-Bissau
 
 Constituição da República da Guiné-Bissau
 
-- Pronunciar-se  sobre  a  declaração  do  estado  de  sítio  e  do  estado  de emergência.
+- e) Pronunciar-se sobre a declaração do estado de sítio e do estado de emergência.
 
 - 4 A Comissão Permanente responde e presta contas de todas as suas actividades perante a Assembleia Nacional Popular
 
@@ -1059,7 +1061,7 @@ Constituição da República da Guiné-Bissau
 
 #### ARTIGO 98º
 
-- 1 O Primeiro-Ministro É nomeado pelo Presidente da República tendo em conta os resultados eleitorais e ouvidos os partidos políticos representados na Assembleia Nacional Popular.
+- 1 O Primeiro-Ministro é nomeado pelo Presidente da República tendo em conta os resultados eleitorais e ouvidos os partidos políticos representados na Assembleia Nacional Popular.
 
 - 2  Os  ministros  e  secretários  de  Estado  são  nomeados  pelo  Presidente  da República, sob proposta do Primeiro-Ministro.
 
@@ -1067,7 +1069,7 @@ Constituição da República da Guiné-Bissau
 
 Os  Ministros  e  Secretários  de  Estado  prestam,  no  acto  da  sua  posse  o  seguinte juramento:
 
-' Juro  por  minha  honra  dedicar  a  minha  inteligência  e  as  minhas  energias  ao serviço do povo, exercendo as funções (de Ministro ou Secretário de Estado) para que fui nomeado no Governo da República da Guiné-Bissau, com total fidelidade à Constituição e as leis '.
+“Juro por minha honra dedicar a minha inteligência e as minhas energias ao serviço do povo, exercendo as funções (de Ministro ou Secretário de Estado) para
 
 27
 
@@ -1077,31 +1079,33 @@ Os  Ministros  e  Secretários  de  Estado  prestam,  no  acto  da  sua  posse  
 
 Constituição da República da Guiné-Bissau
 
+que fui nomeado no Governo da República da Guiné-Bissau, com total fidelidade à Constituição e as leis”.
+
 #### ARTIGO 100º
 
 - 1 No exercício das suas funções compete ao Governo:
 
-- Dirigir a Administração Pública, coordenando  e controlando a actividade dos Ministérios e dos demais Organismos Centrais da Administração e os do Poder Local;
+- a) Dirigir a Administração Pública, coordenando e controlando a actividade dos Ministérios e dos demais Organismos Centrais da Administração e os do Poder Local;
 
-- Organizar e dirigir a execução das actividades políticas, económicas, culturais, científicas, sociais, de defesa e segurança, de acordo com o seu Programa;
+- b) Organizar e dirigir a execução das actividades políticas, económicas, culturais, científicas, sociais, de defesa e segurança, de acordo com o seu Programa;
 
-- Preparar o Piano de Desenvolvimento Nacional e o Orçamento Geral do Estado e execução:
+- c) Preparar o Plano de Desenvolvimento Nacional e o Orçamento Geral do Estado e assegurar a sua execução;
 
-- Legislar por decretos-leis e decretos sobre matérias respeitantes à sua organização e funcionamento e sobre matérias não reservadas à Assembleia Nacional Popular;
+- d) Legislar por decretos-leis e decretos sobre matérias respeitantes à sua organização e funcionamento e sobre matérias não reservadas à Assembleia Nacional Popular;
 
-- Aprovar propostas de lei e submetê-las à Assembleia Nacional Popular;
+- e) Aprovar propostas de lei e submetê-las à Assembleia Nacional Popular;
 
-- Negociar e concluir acordos e convenções internacionais;
+- f) Negociar e concluir acordos e convenções internacionais;
 
-- Nomear e propor a nomeação dos cargos civis e militares;
+- g) Nomear e propor a nomeação dos cargos civis e militares;
 
-- O que mais lhe for cometido por lei.
+- h) O que mais lhe for cometido por lei.
 
 - 2 As competências atribuídas nas alíneas a), b), d) e e) do número anterior são exercidas pelo Governo, reunido em Conselho de Ministros.
 
 #### ARTIGO 101º
 
-- L O Conselho de Ministro é constituído pelo Primeiro-Ministro, que o preside, e pelos ministros.
+- 1 O Conselho de Ministros é constituído pelo Primeiro-Ministro, que o preside, e pelos ministros.
 
 - 2 Podem ser criados Conselhos de Ministros especializados em razão da matéria.
 
@@ -1129,19 +1133,19 @@ O Governo é politicamente responsável perante o Presidente da República e per
 
 - 1 Acarreta a demissão do Governo:
 
-- O início de nova 1eis1atura:
+- a) O início de nova legislatura;
 
-- A  não  aprovação  pela  segunda  vez  consecutiva  do  Programa  do Governo;
+- b) A não aprovação pela segunda vez consecutiva do Programa do Governo;
 
-- A  aceitação  pelo  Presidente  da  República  do  pedido  de  demissão apresentado pelo Primeiro-Ministro;
+- c) A aceitação pelo Presidente da República do pedido de demissão apresentado pelo Primeiro-Ministro;
 
-- A aprovação de uma moção, de censura ou não aprovação de uma moção de confiança por maioria absoluta dos deputados em efectividade de funções;
+- d) A aprovação de uma moção, de censura ou não aprovação de uma moção de confiança por maioria absoluta dos deputados em efectividade de funções;
 
-- A morte ou impossibilidade física prolongada do Primeiro-Ministro.
+- e) A morte ou impossibilidade física prolongada do Primeiro-Ministro.
 
 - 2  O  Presidente  da  República  pode  demitir  o  Governo  em  caso  de  grave  crise política  que  ponha  em  causa  o  normal  funcionamento  das  instituições  da República,  ouvidos  o  Conselho  de  Estado  e  os  partidos  políticos  com  assento parlamentar
 
-### CAPITULO VI DO PODER LOCAL (*)
+### CAPÍTULO VI DO PODER LOCAL (*)
 
 (*) Nova redacção dada pela Lei Constitucional n°1/96
 
@@ -1149,7 +1153,7 @@ O Governo é politicamente responsável perante o Presidente da República e per
 
 - 1  A  organização  do  poder  político  do  Estado  compreende  a  existência  das autarquias locais, que gozam de autonomia administrativa e financeira.
 
-- 2 As autarquias locais são pessoas colectivas territoriais, de órgãos representativos, que visam a prossecução de interesses próprios das comunidades locais, não se subtraindo à estrutura unitária do Estado.
+- 2 As autarquias locais são pessoas colectivas territoriais, dotadas de órgãos representativos, que visam a prossecução de interesses próprios das comunidades locais, não se subtraindo à estrutura unitária do Estado.
 
 #### ARTIGO 106º
 
@@ -1189,7 +1193,7 @@ As atribuições e a organização das autarquias locais, bem como a competênci
 
 - 1 As autarquias locais têm património e finanças próprios.
 
-- 2 O regime das finanças locais, a estabelecer por lei, deverá visar ajusta repartição dos  recursos  públicos  pelo  Estado  e  pelas  autarquias  locais  e  a  necessária correcção de desigualdades entre as autarquias.
+- 2 O regime das finanças locais, a estabelecer por lei, deverá visar a justa repartição dos recursos públicos pelo Estado e pelas autarquias locais e a necessária correcção de desigualdades entre as autarquias.
 
 - 3  São  receitas  próprias  das  autarquias  locais  as  provenientes  da  gestão  do  seu património e as cobradas pela utilização dos seus serviços.
 
@@ -1203,9 +1207,9 @@ As atribuições e a organização das autarquias locais, bem como a competênci
 
 Constituição da República da Guiné-Bissau
 
-- 1  A  organização  das  autarquias  locais  compreende  uma  assembleia  dotada  de poderes  deliberativos,  eleita por  sufrágio universal,  directo  e  secreto  dos cidadãos  residentes,  segundo  o  sistema  de  representação  proporcional,  e  um órgão colegial executivo perante ele responsável.
+- 1 A organização das autarquias locais compreende uma assembleia dotada de poderes deliberativos, eleita por sufrágio universal, directo e secreto dos cidadãos residentes, segundo o sistema de representação proporcional, e um órgão colegial executivo perante ela responsável.
 
-- 2 Os órgãos das autarquias locais podem efectuar consultas directas aos cidadãos eleitores recenseados na respectiva área, por voto secreto, sobre matéria de sua competência  exclusiva,  nos  casos, termos  e  com  a  eficiência que  a  lei estabelecer.
+- 2 Os órgãos das autarquias locais podem efectuar consultas directas aos cidadãos eleitores recenseados na respectiva área, por voto secreto, sobre matéria de sua competência exclusiva, nos casos, termos e com a eficácia que a lei estabelecer.
 
 #### ARTIGO 112°
 
@@ -1217,9 +1221,9 @@ Constituição da República da Guiné-Bissau
 
 Os órgãos representativos das autarquias locais são:
 
-- Nos municípios, a assembleia municipal e a câmara municipal;
+- a) Nos municípios, a assembleia municipal e a câmara municipal;
 
-- Nas  secções  autárquicas,  a  assembleia  dos  moradores  e  a  comissão directiva dos moradores.
+- b) Nas secções autárquicas, a assembleia dos moradores e a comissão directiva dos moradores.
 
 #### ARTIGO 114°
 
@@ -1285,9 +1289,9 @@ Os tribunais são órgãos de soberania com competência para administrar a just
 
 Constituição da República da Guiné-Bissau
 
-- Os  tribunais  militares,  aos  quais  compete  o  julgamento  dos  crimes essencialmente militares definidos por lei;
+- a) Os tribunais militares, aos quais compete o julgamento dos crimes essencialmente militares definidos por lei;
 
-- Os tribunais administrativos, fiscais e de contas.
+- b) Os tribunais administrativos, fiscais e de contas.
 
 #### ARTIGO 122°
 
@@ -1324,7 +1328,7 @@ A lei regula a organização, competência e o funcionamento dos órgãos de adm
 Constituição da República da Guiné-Bissau
 
 ## TÍTULO IV GARANTIA E REVISÃO DA CONSTITUIÇÃO
-### CAPÍTULO 1 DA FISCALIZAÇÃO DA CONSTITUCIONALIDADE DAS LEIS
+### CAPÍTULO I DA FISCALIZAÇÃO DA CONSTITUCIONALIDADE DAS LEIS
 
 #### ARTIGO 126°
 
@@ -1366,35 +1370,35 @@ Constituição da República da Guiné-Bissau
 
 Nenhum projecto de revisão poderá afectar:
 
-- A estrutura unitária e a forma republicana do Estado;
+- a) A estrutura unitária e a forma republicana do Estado;
 
-- O estatuto laico do Estado;
+- b) O estatuto laico do Estado;
 
-- A integridade do território nacional;
+- c) A integridade do território nacional;
 
-- Símbolos nacionais e Bandeira e Hino Nacionais;
+- d) Símbolos nacionais e Bandeira e Hino Nacionais;
 
-- Direitos, liberdades e garantias dos cidadãos;
+- e) Direitos, liberdades e garantias dos cidadãos;
 
-- O Direitos fundamentais dos trabalhadores;
+- f) Os Direitos fundamentais dos trabalhadores;
 
-- O sufrágio universal, directo, igual, secreto e periódico na designação dos titulares de cargos electivos dos órgãos de soberania;
+- g) O sufrágio universal, directo, igual, secreto e periódico na designação dos titulares de cargos electivos dos órgãos de soberania;
 
-- O pluralismo político e de expressão, partidos políticos e o direito da oposição democrática;
+- h) O pluralismo político e de expressão, partidos políticos e o direito da oposição democrática;
 
-- A separação e a interdependência dos órgãos de soberania;
+- i) A separação e a interdependência dos órgãos de soberania;
 
-- A independência dos tribunais.
+- j) A independência dos tribunais.
 
 #### ARTIGO 131º
 
 Nenhum projecto ou proposta de revisão poderá ser apresentado, debatido ou votado na vigência de estado de sítio ou de estado de emergência.
 
-## TITULO V DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+## TÍTULO V DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 #### ARTIGO 132°
 
-Os  elementos  das  forças  e  da  segurança,  no  activo,  actualmente  deputados  à Assembleia Nacional Popular continuarão em exercício até à realização das próximas eleições legislativas.
+Os elementos das forças de defesa e segurança, no activo, actualmente deputados à Assembleia Nacional Popular continuarão em exercício até à realização das próximas eleições legislativas.
 
 #### ARTIGO 133°
 
@@ -1410,9 +1414,13 @@ Aprovada em 27 de Novembro de 1996.
 
 Constituição da República da Guiné-Bissau
 
-Promulgada em 4 de Dezembro de 1996. Publique-se.
+Promulgada em 4 de Dezembro de 1996.
 
-O Presidente da Assembleia Nacional Popular, Malam Bacai Sanhá . O Presidente da República, João Bernardo Vieira
+Publique-se.
+
+O Presidente da Assembleia Nacional Popular, Malam Bacai Sanhá.
+
+O Presidente da República, João Bernardo Vieira
 
 36
 
