@@ -2,11 +2,11 @@
 
 Unofficial translation
 
-NS/RKM/1207/032
-
 Kingdom of Cambodia
 
 Nation Religion King
+
+NS/RKM/1207/032
 
 # Royal Kram
 
@@ -38,6 +38,10 @@ The  Law  on  Education  enacted  by  the  National  Assembly  on  the  19 th of
 
 Unofficial translation
 
+## CHAPTER I
+
+### GENERAL PROVISIONS
+
 #### Article 1: Goals
 
 This  law  is  aim  to  determine  the  national  measures  and  criteria  for establishing the completely comprehensive and uniform education system ensuring the principles of freedoms of studies in compliance with the Constitution of the Kingdom of Cambodia.
@@ -57,10 +61,6 @@ This law also covers individual persons and other relevant persons such as child
 In this law, 'Education' refers to the process of educational development or training  for  physical,  mental  and  spiritual  development  through  all  activities  that allow  the  learners  to  obtain  a  set  of  knowledge,  skills,  capacities  and  values  to become individuals who are useful for themselves, their families, their communities, the nation and the world.
 
 The key words used in this law shall be attached as annex to this law.
-
-## CHAPTER I
-
-### GENERAL PROVISIONS
 
 -2-
 
@@ -322,7 +322,7 @@ The Ministry in charge of education shall determine the policies on science and 
 
 #### Article 29: Partnership for education
 
-The  state  shall  widely  open  the  participation  of  the  relevant  stakeholders such as public  and  private  sector,  national  and  international  organizations,  nongovernmental  organizations  and  communities  in  the  process  of  development, draft, monitoring and assessing the implementation, the review and the amendment of national education policies, plans and strategies.
+The  state  shall  widely  open  the  participation  of  the  relevant  stakeholders such as public  and  private  sector,  national  and  international  organizations,  non-governmental  organizations  and  communities  in  the  process  of  development, draft, monitoring and assessing the implementation, the review and the amendment of national education policies, plans and strategies.
 
 The State shall  strongly  encourage  and  support  private  institutions  in  the establishment  of  partnerships  providing  all  kinds  of  educational  services  at  all levels.
 
@@ -404,9 +404,9 @@ Parents  or  guardians  of  minor  children,  who  are  dependent,  shall  have 
 
 -The right to choose the educational programs and educational institutions to be attended by the learner;
 
--The  right  to  active  and  full  participation  in  order  to  develop  educational standards at school and national levels, directly or through their representatives,
-
 -The right to receive information and study records of the learner from the educational institutions;
+
+-The  right  to  active  and  full  participation  in  order  to  develop  educational standards at school and national levels, directly or through their representatives,
 
 Parents  or  guardians  of  minor  children,  who  are  dependent,  shall  have  the following obligations:
 
@@ -420,9 +420,9 @@ Parents  or  guardians  of  minor  children,  who  are  dependent,  shall  have 
 
 The rights of educational personnel are as follows:
 
--The right to develop their careers;
-
 -The right to achieve career value dignity and social high respect
+
+-The right to develop their careers;
 
 -The right to establish or participate in educational personnel associations or other career associations in accordance with existing law;
 
@@ -466,9 +466,9 @@ Disabled  learners  have  the  same  rights  as  able  learners  and  have  sepa
 
 -Disabled learners of either sex have the right to study with able learners if there is sufficient facilitation in the study process for the disabled learner to fulfill the educational program of the educational institutions;
 
--Disabled  learners  who  are  not  able  to  learn  with  able  learners  have  the right  to  receive  special  education  in  separate  special  classes.  These disabled learners can study at community schools in their locality.
-
 -Disabled learners with special needs have the rights to receive additional teaching  in  the  regular  educational  program,  which  is  not  a  particularly special educational program.
+
+-Disabled  learners  who  are  not  able  to  learn  with  able  learners  have  the right  to  receive  special  education  in  separate  special  classes.  These disabled learners can study at community schools in their locality.
 
 #### Article 40: Right to request, right to protest, right to complain, right to solution
 
@@ -609,6 +609,9 @@ After this law comes  into forces, the educational establishments and educationa
 
 Unofficial translation
 
+## CHAPTER XI
+### FINAL PROVISION
+
 #### Article 55: Abrogation
 
 Any provision contrary to this law shall be abrogated.
@@ -626,9 +629,6 @@ Having informed Samdech Akas Mohasena Badey Tejou HUN SEN Prime Minister of the 
 KOL PHENG
 
 ## ANNEX TO THE LAW ON EDUCATION APPROVED ON …
-
-## CHAPTER XI
-### FINAL PROVISION
 
 -15-
 
