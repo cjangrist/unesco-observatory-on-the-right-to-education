@@ -1,86 +1,89 @@
 [[START OF PAGE 1]]
 
-20 Safar 1429 27 fØvrier 2008
+20 Safar 1429
+27 février 2008
 
-JOURNAL OFFICIEL DE LA  REPUBLIQUE ALGERIENNE N ° 10
+JOURNAL OFFICIEL DE LA REPUBLIQUE ALGERIENNE N° 10
 
 33
 
-# Loi n ° 08-06  du  16  Safar  1429  correspondant au 23 fØvrier 2008  modifiant  et  complØtant  la  loi  n ° 99-05 du   18  Dhou   El Hidja 1419   correspondant   au 4 avril 1999 portant loi d'orientation sur l'enseignement supØrieur.
+# Loi n° 08-06 du 16 Safar 1429 correspondant au 23 février 2008 modifiant et complétant la loi n° 99-05 du 18 Dhou El Hidja 1419 correspondant au 4 avril 1999 portant loi d'orientation sur l'enseignement supérieur.
 
-Le PrØsident de la RØpublique,
+————
 
-Vu  la  Constitution,  notamment  ses  articles  122-16  et 126 ;
+Le Président de la République,
 
-Vu  la loi  n ° 99-05 du 18 Dhou  El Hidja  1419 correspondant  au  4  avril 1999,  modifiØe,  portant loi d'orientation sur l'enseignement supØrieur ;
+Vu la Constitution, notamment ses articles 122-16 et 126 ;
 
-AprŁs avis du Conseil d'Etat ;
+Vu la loi n° 99-05 du 18 Dhou El Hidja 1419 correspondant au 4 avril 1999, modifiée, portant loi d'orientation sur l'enseignement supérieur ;
 
-AprŁs adoption par le Parlement ;
+Après avis du Conseil d'Etat ;
+
+Après adoption par le Parlement ;
 
 Promulgue la loi dont la teneur suit :
 
 ## Article 1er.
-La prØsente loi a pour objet de modifier et de complØter la loi n ° 99-05 du 18 Dhou El Hidja 1419 correspondant  au  4  avril 1999,  modifiØe,  portant loi d orientation sur l enseignement supØrieur.
+La présente loi a pour objet de modifier et de compléter la loi n° 99-05 du 18 Dhou El Hidja 1419 correspondant au 4 avril 1999, modifiée, portant loi d'orientation sur l'enseignement supérieur.
 
-## Art.  2.
-Les  articles  6     21  de  la  loi  n ° 99-05 du 18 Dhou El Hidja 1419 correspondant au 4 avril 1999, modifiØe, portant loi d  orientation  sur  l  enseignement supØrieur, sont abrogØs et remplacØs par les articles 6   21 rØdigØs comme suit :
+## Art. 2.
+Les articles 6 à 21 de la loi n° 99-05 du 18 Dhou El Hidja 1419 correspondant au 4 avril 1999, modifiée, portant loi d'orientation sur l'enseignement supérieur, sont abrogés et remplacés par les articles 6 à 21 rédigés comme suit :
 
 ### Art. 6.
-En matiŁre de formation supØrieure, l'enseignement supØrieur dispense des enseignements organisØs  en  trois  (3)  cycles  et  participe      la  formation continue .
+En matière de formation supérieure, l'enseignement supérieur dispense des enseignements organisés en trois (3) cycles et participe à la formation continue.
 
 ### Art. 7.
-Le premier cycle a pour finalitØ :
+Le premier cycle a pour finalité :
 
-- de permettre   l'Øtudiant d'acquØrir, d'approfondir, et de diversifier ses connaissances dans des disciplines ouvrant sur des secteurs d'activitØs divers,
+- de permettre à l'étudiant d'acquérir, d'approfondir, et de diversifier ses connaissances dans des disciplines ouvrant sur des secteurs d'activités divers,
 
-- de mettre l'Øtudiant en mesure d'Øvaluer ses capacitØs d'assimilation des bases scientifiques requises pour chaque filiŁre de formation et de rØunir les ØlØments d'un choix professionnel,
+- de mettre l'étudiant en mesure d'évaluer ses capacités d'assimilation des bases scientifiques requises pour chaque filière de formation et de réunir les éléments d'un choix professionnel,
 
-- de permettre l'orientation de l'Øtudiant en fonction de ses  aptitudes  et  dans  le  respect  de  ses  voeux  en  le prØparant soit aux formations dans le second cycle, soit l'entrØe dans la vie active .
+- de permettre l'orientation de l'étudiant en fonction de ses aptitudes et dans le respect de ses voeux en le préparant soit aux formations dans le second cycle, soit à l'entrée dans la vie active.
 
 ### Art. 8.
-Le premier cycle est organisØ en domaines regroupant des filiŁres rØparties en spØcialitØs.
+Le premier cycle est organisé en domaines regroupant des filières réparties en spécialités.
 
-Le domaine couvre un ensemble de disciplines regroupØes de maniŁre cohØrente au plan acadØmique ou celui des dØbouchØs professionnels de la formation.
+Le domaine couvre un ensemble de disciplines regroupées de manière cohérente au plan académique ou à celui des débouchés professionnels de la formation.
 
-La liste des domaines, filiŁres et spØcialitØs est fixØe par le ministre chargØ de l'enseignement supØrieur, sous rØserve des dispositions de l'article 20 de la prØsente loi .
+La liste des domaines, filières et spécialités est fixée par le ministre chargé de l'enseignement supérieur, sous réserve des dispositions de l'article 20 de la présente loi.
 
-### Art.  9.
-Le  premier  cycle  est  ouvert  aux  candidats titulaires  du  dipl  me  du  baccalaurØat  de  l'enseignement secondaire ou d'un dipl me Øtranger reconnu Øquivalent .
+### Art. 9.
+Le premier cycle est ouvert aux candidats titulaires du diplôme du baccalauréat de l'enseignement secondaire ou d'un diplôme étranger reconnu équivalent.
 
-### Art.  10.
-Le  premier  cycle  est  sanctionnØ  par  le dipl me de licence .
+### Art. 10.
+Le premier cycle est sanctionné par le diplôme de licence.
 
-### Art.  11.
-Le  second  cycle  regroupe  des  formations acadØmiques  et  des  formations  professionnalisantes.  Ces formations  organisØes  en  vue  de  la  prØparation      une profession  ou      un  ensemble  de  professions  ou      la poursuite  d'Øtudes  dans  le  troisiŁme  cycle,  permettent aux Øtudiants de complØter et d'approfondir leurs connaissances,  de  dØvelopper  leurs  aptitudes,  et  de  les initier   la recherche scientifique .
+### Art. 11.
+Le second cycle regroupe des formations académiques et des formations professionnalisantes. Ces formations organisées en vue de la préparation à une profession ou à un ensemble de professions ou à la poursuite d'études dans le troisième cycle, permettent aux étudiants de compléter et d'approfondir leurs connaissances, de développer leurs aptitudes, et de les initier à la recherche scientifique.
 
-### Art.  12.
-L'accŁs  au  second  cycle  est  ouvert  aux candidats titulaires du dipl me de licence ou de dipl mes reconnus Øquivalents dans la limite des places pØdagogiques disponibles .
+### Art. 12.
+L'accès au second cycle est ouvert aux candidats titulaires du diplôme de licence ou de diplômes reconnus équivalents dans la limite des places pédagogiques disponibles.
 
 ### Art. 13.
-L'accŁs au premier cycle et au second cycle est  organisØ  par  voie  de  concours  sur  titres  et/ou  sur Øpreuves  dans  des  conditions  fixØes  annuellement  par  le ministre chargØ de l'enseignement supØrieur.
+L'accès au premier cycle et au second cycle est organisé par voie de concours sur titres et/ou sur épreuves dans des conditions fixées annuellement par le ministre chargé de l'enseignement supérieur.
 
-L'orientation  des  candidats      l'accŁs  au  premier  cycle vers  les  diffØrents    domaines  est  opØrØe  en  fonction  des v ux exprimØs, des rØsultats obtenus aux concours prØvus ci-dessus et des places pØdagogiques disponibles .
+L'orientation des candidats à l'accès au premier cycle vers les différents domaines est opérée en fonction des voeux exprimés, des résultats obtenus aux concours prévus ci-dessus et des places pédagogiques disponibles.
 
-### Art.  14.
-L'accŁs      la  formation  de  second  cycle assurØe  au  sein  d'Øcoles  extØrieures      l'universitØ,  telles que prØvues aux articles 38 et 40 ci-dessous, est subordonnØ   la rØussite   un concours sur titres et/ou sur Øpreuves,  ouvert  aux  candidats  ayant  subi  avec  succŁs deux (2) annØes de formation supØrieure.
+### Art. 14.
+L'accès à la formation de second cycle assurée au sein d'écoles extérieures à l'université, telles que prévues aux articles 38 et 40 ci-dessous, est subordonné à la réussite à un concours sur titres et/ou sur épreuves, ouvert aux candidats ayant subi avec succès deux (2) années de formation supérieure.
 
-Les modalitØs d'organisation du concours prØvu ci-dessus  sont  fixØes  annuellement,  selon  le  cas,  par  le ministre chargØ de l'enseignement supØrieur ou conjointement avec le ministre concernØ .
+Les modalités d'organisation du concours prévu ci-dessus sont fixées annuellement, selon le cas, par le ministre chargé de l'enseignement supérieur ou conjointement avec le ministre concerné.
 
-### Art.  15.
-Le  second  cycle  est  sanctionnØ  par  le dipl me de master .
+### Art. 15.
+Le second cycle est sanctionné par le diplôme de master.
 
-### Art.  16 .
-Le  rØgime des Øtudes conduisant l'obtention  des  dipl  mes  de  licence  et  de  master  est  fixØ par voie rØglementaire.
+### Art. 16.
+Le régime des études conduisant à l'obtention des diplômes de licence et de master est fixé par voie réglementaire.
 
-Les programmes d'enseignement, les modalitØs d'Øvaluation, de progression et d'orientation des Øtudiants dans  le  premier  et  le  second  cycles  sont  fixØs  par  le ministre chargØ de l'enseignement supØrieur ou conjointement avec le ministre concernØ, en cas d'exercice de la tutelle pØdagogique .
+Les programmes d'enseignement, les modalités d'évaluation, de progression et d'orientation des étudiants dans le premier et le second cycles sont fixés par le ministre chargé de l'enseignement supérieur ou conjointement avec le ministre concerné, en cas d'exercice de la tutelle pédagogique.
 
 ### Art. 17.
-Le troisiŁme cycle est  une  formation      la recherche et par la recherche intØgrant en permanence les derniŁres innovations scientifiques et technologiques.
+Le troisième cycle est une formation à la recherche et par la recherche intégrant en permanence les dernières innovations scientifiques et technologiques.
 
-Le  troisiŁme  cycle  est  sanctionnØ  par  le  dipl  me  de doctorat obtenu aprŁs soutenance d'une thŁse ou prØsentation d'un ensemble de travaux scientifiques originaux.
+Le troisième cycle est sanctionné par le diplôme de doctorat obtenu après soutenance d'une thèse ou présentation d'un ensemble de travaux scientifiques originaux.
 
-Les  modalitØs  d'organisation  du  troisiŁme  cycle  et  les conditions d'obtention  du dipl me de doctorat sont fixØes par voie rØglementaire .
+Les modalités d'organisation du troisième cycle et les conditions d'obtention du diplôme de doctorat sont fixées par voie réglementaire.
 
 [[END OF PAGE 1]]
 
@@ -88,152 +91,152 @@ Les  modalitØs  d'organisation  du  troisiŁme  cycle  et  les conditions d'obt
 
 34
 
-JOURNAL OFFICIEL DE LA  REPUBLIQUE ALGERIENNE N ° 10
+JOURNAL OFFICIEL DE LA REPUBLIQUE ALGERIENNE N° 10
 
-20 Safar 1429 27 fØvrier 2008
+20 Safar 1429
+27 février 2008
 
-### Art.  18.
-Le  troisiŁme  cycle  peut  Œtre  assurØ dans le cadre d'une coopØration entre Øtablissements d'enseignement supØrieur sous la forme d'une organisation pØdagogique spØcifique dØnommØe  Øcoles doctorales.
+### Art. 18.
+Le troisième cycle peut être assuré dans le cadre d'une coopération entre établissements d'enseignement supérieur sous la forme d'une organisation pédagogique spécifique dénommée écoles doctorales.
 
-Les  modalitØs  de  mise  en  place,  d'organisation  et  de fonctionnement des Øcoles doctorales sont fixØes par voie rØglementaire .
+Les modalités de mise en place, d'organisation et de fonctionnement des écoles doctorales sont fixées par voie réglementaire.
 
 ### Art. 19.
-L'accŁs  au  troisiŁme  cycle  est  ouvert  aux candidats titulaires du dipl me de master ou de dipl mes reconnus Øquivalents, et il est organisØ dans des conditions fixØes  annuellement par le ministre chargØ de l'enseignement supØrieur .
+L'accès au troisième cycle est ouvert aux candidats titulaires du diplôme de master ou de diplômes reconnus équivalents, et il est organisé dans des conditions fixées annuellement par le ministre chargé de l'enseignement supérieur.
 
-### Art.  20.
-La  carte  des  formations  supØrieures  est Øtablie et actualisØe par le ministre chargØ de l'enseignement  supØrieur  aprŁs  consultation  des  parties concernØes, en fonction des orientations du plan  de dØveloppement Øconomique, social et culturel de la Nation .
+### Art. 20.
+La carte des formations supérieures est établie et actualisée par le ministre chargé de l'enseignement supérieur après consultation des parties concernées, en fonction des orientations du plan de développement économique, social et culturel de la Nation.
 
 ### Art. 21.
-Les  dipl mes de licence, de master et de doctorat sont des dipl mes d'enseignement supØrieur.
+Les diplômes de licence, de master et de doctorat sont des diplômes d'enseignement supérieur.
 
-Les dipl mes d'enseignement supØrieur sont des dipl mes nationaux dont la collation et la reconnaissance de l'Øquivalence relŁvent exclusivement de l'Etat.
+Les diplômes d'enseignement supérieur sont des diplômes nationaux dont la collation et la reconnaissance de l'équivalence relèvent exclusivement de l'Etat.
 
-Ils  confŁrent      leurs  titulaires  respectifs  les  mŒmes droits .
+Ils confèrent à leurs titulaires respectifs les mêmes droits.
 
-## Art.  3.
-La  loi  n ° 99-05  du  18  Dhou  El  Hidja  1419 correspondant au 4 avril 1999, susvisØe, est complØtØe par les articles 21 bis et 21 bis 1 rØdigØs comme suit :
-
-mes
+## Art. 3.
+La loi n° 99-05 du 18 Dhou El Hidja 1419 correspondant au 4 avril 1999, susvisée, est complétée par les articles 21 bis et 21 bis 1 rédigés comme suit :
 
 ### Art. 21 bis.
-Les titulaires de dipl d'enseignement  supØrieur,  crØØs  antØrieurement      la  date de promulgation de la prØsente loi ou  de  dipl  mes Øtrangers  reconnus  Øquivalents,  peuvent  s'inscrire  pour poursuivre des Øtudes en second ou troisiŁme cycle selon des conditions fixØes par le ministre chargØ de l'enseignement supØrieur .
+Les titulaires de diplômes d'enseignement supérieur, créés antérieurement à la date de promulgation de la présente loi ou de diplômes étrangers reconnus équivalents, peuvent s'inscrire pour poursuivre des études en second ou troisième cycle selon des conditions fixées par le ministre chargé de l'enseignement supérieur.
 
-### Art.  21  bis  1.
-Les  Øtudiants  inscrits  en  vue  de l'obtention d'un des dipl mes de l'enseignement supØrieur crØØs  antØrieurement      la  date  de  promulgation  de  la prØsente loi peuvent Œtre autorisØs   poursuivre des Øtudes en premier, second ou troisiŁme cycle selon des conditions fixØes par le ministre chargØ de l'enseignement supØrieur .
+### Art. 21 bis 1.
+Les étudiants inscrits en vue de l'obtention d'un des diplômes de l'enseignement supérieur créés antérieurement à la date de promulgation de la présente loi peuvent être autorisés à poursuivre des études en premier, second ou troisième cycle selon des conditions fixées par le ministre chargé de l'enseignement supérieur.
 
-## Art.  4.
-Les  articles  22  et  39  de  la  loi n ° 99-05 du 18 Dhou El Hidja 1419 correspondant au 4 avril 1999, susvisØe, sont modifiØs et rØdigØs comme suit :
+## Art. 4.
+Les articles 22 et 39 de la loi n° 99-05 du 18 Dhou El Hidja 1419 correspondant au 4 avril 1999, susvisée, sont modifiés et rédigés comme suit :
 
 ### Art. 22.
-En matiŁre de formation continue, l'enseignement supØrieur assure des formations ayant pour finalitØ  le  perfectionnement  et  le  recyclage  ainsi  que l'amØlioration du niveau professionnel et culturel  du citoyen.
+En matière de formation continue, l'enseignement supérieur assure des formations ayant pour finalité le perfectionnement et le recyclage ainsi que l'amélioration du niveau professionnel et culturel du citoyen.
 
-Les modalitØs d'application du prØsent article sont fixØes par voie rØglemenaire .
+Les modalités d'application du présent article sont fixées par voie règlemenaire.
 
 ### Art. 39.
-Les centres universitaires sont des Øtablissements  d'enseignement  supØrieur  appelØs      Œtre ØrigØs  en  universitØs  selon,  en  particulier,  des  critŁres pØdagogiques et scientifiques.
+Les centres universitaires sont des établissements d'enseignement supérieur appelés à être érigés en universités selon, en particulier, des critères pédagogiques et scientifiques.
 
-Cette Ørection a lieu sur rapport du ministre chargØ de l'enseignement supØrieur .
+Cette érection a lieu sur rapport du ministre chargé de l'enseignement supérieur.
 
-## Art.  5.
-La  loi  n ° 99-05  du  18  Dhou  El  Hidja  1419 correspondant au 4 avril 1999, susvisØe, est complØtØe par les articles 40 bis et 43 bis rØdigØs comme suit :
+## Art. 5.
+La loi n° 99-05 du 18 Dhou El Hidja 1419 correspondant au 4 avril 1999, susvisée, est complétée par les articles 40 bis et 43 bis rédigés comme suit :
 
-### Art. 40  bis.
-Il peut Œtre crØØ auprŁs d'autres dØpartements ministØriels, sur rapport conjoint du ministre chargØ  de  l'enseignement  supØrieur  et  du  ministre  de tutelle  concernØ,  des  Øtablissements  publics      caractŁre administratif assurant les missions dØfinies   l'article 5 de la prØsente loi.
+### Art. 40 bis.
+Il peut être créé auprès d'autres départements ministériels, sur rapport conjoint du ministre chargé de l'enseignement supérieur et du ministre de tutelle concerné, des établissements publics à caractère administratif assurant les missions définies à l'article 5 de la présente loi.
 
-La tutelle pØdagogique sur ces Øtablissements est assurØe conjointement par le ministre chargØ de l'enseignement supØrieur et le ministre de tutelle .
+La tutelle pédagogique sur ces établissements est assurée conjointement par le ministre chargé de l'enseignement supérieur et le ministre de tutelle.
 
 ### Art. 43 bis.
-Il est crØØ, auprŁs du ministre chargØ de l'enseignement  supØrieur,  un  comitØ  national  d'Øvalution des Øtablissements publics caractŁre scientifique, culturel et professionnel et autres Øtablissements d'enseignement supØrieur.
+Il est créé, auprès du ministre chargé de l'enseignement supérieur, un comité national d'évalution des établissements publics à caractère scientifique, culturel et professionnel et autres établissements d'enseignement supérieur.
 
-Le comitØ est chargØ d'Øvaluer le fonctionnement administratif, pØdagogique et scientifique des Øtablissements suscitØs  par  rapport  aux  objectifs  qui  leur sont fixØs.
+Le comité est chargé d'évaluer le fonctionnement administratif, pédagogique et scientifique des établissements suscités par rapport aux objectifs qui leur sont fixés.
 
-Les missions, la composition, l'organisation et le fonctionnement du comitØ sont fixØs par voie rØglementaire .
+Les missions, la composition, l'organisation et le fonctionnement du comité sont fixés par voie réglementaire.
 
-## Art.  6.
-La  loi  n ° 99-05  du  18  Dhou  El  Hidja  1419 correspondant  au 4  avril  1999,  modifiØe,  susvisØe,  est complØtØe  par un  titre  4  bis  intitulØ  :  De  la  formation supØrieure assurØe par des Øtablissements privØs comportant les articles 43 bis 1, 43 bis 2,  43 bis 3,  43 bis 4, 43 bis 5,  43 bis 6, 43 bis 7,  43 bis 8,  43 bis 9,  43 bis  10,    43  bis  11, 43  bis  12,  43  bis  13  et    43  bis  14, rØdigØs comme suit :
+## Art. 6.
+La loi n° 99-05 du 18 Dhou El Hidja 1419 correspondant au 4 avril 1999, modifiée, susvisée, est complétée par un titre 4 bis intitulé : De la formation supérieure assurée par des établissements privés comportant les articles 43 bis 1, 43 bis 2, 43 bis 3, 43 bis 4, 43 bis 5, 43 bis 6, 43 bis 7, 43 bis 8, 43 bis 9, 43 bis 10, 43 bis 11, 43 bis 12, 43 bis 13 et 43 bis 14, rédigés comme suit :
 
 ### TITRE IV bis
 
 ### DE LA FORMATION SUPERIEURE ASSUREE PAR DES ETABLISSEMENTS PRIVES
 
 #### Art. 43 bis 1.
-La formation supØrieure du premier et second  cycles  peut  Œtre  assurØe  par  des  Øtablissements crØØs par une personne morale de droit privØ.
+La formation supérieure du premier et second cycles peut être assurée par des établissements créés par une personne morale de droit privé.
 
-La crØation d'un Øtablissement privØ de formation supØrieure est subordonnØe   une autorisation du ministre chargØ  de  l'enseignement  supØrieur,  dØlivrØe  au  vu  du respect, notamment, des conditions suivantes :
+La création d'un établissement privé de formation supérieure est subordonnée à une autorisation du ministre chargé de l'enseignement supérieur, délivrée au vu du respect, notamment, des conditions suivantes :
 
-- la jouissance par le directeur de l'Øtablissement privØ de formation supØrieure, de la nationalitØ algØrienne,
+- la jouissance par le directeur de l'établissement privé de formation supérieure, de la nationalité algérienne,
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-20 Safar 1429 27 fØvrier 2008
+20 Safar 1429
+27 février 2008
 
-JOURNAL OFFICIEL DE LA  REPUBLIQUE ALGERIENNE N ° 10
+JOURNAL OFFICIEL DE LA REPUBLIQUE ALGERIENNE N° 10
 
 35
 
-- la  disponibilitØ  des  infrastructures  et  Øquipements nØcessaires au bon dØroulement de la formation supØrieure envisagØe,
+- la disponibilité des infrastructures et équipements nécessaires au bon déroulement de la formation supérieure envisagée,
 
-- la disponibilitØ d'un personnel enseignant qualifiØ mŒme  d'assurer un encadrement pØdagogique de la formation supØrieure envisagØe dont le niveau des enseignements doit Œtre au moins Øgal   celui assurØ dans les Øtablisements publics de formation supØrieure,
+- la disponibilité d'un personnel enseignant qualifié à même d'assurer un encadrement pédagogique de la formation supérieure envisagée dont le niveau des enseignements doit être au moins égal à celui assuré dans les établissements publics de formation supérieure,
 
-- l'insertion de la formation supØrieure envisagØe dans la  rØponse  aux  besoins  nationaux  dØfinis  par  le  plan  de dØveloppement Øconomique, social et culturel du pays,
+- l'insertion de la formation supérieure envisagée dans la réponse aux besoins nationaux définis par le plan de développement économique, social et culturel du pays,
 
-- la  justification  d'un  capital  social  au  moins  Øgal celui  exigØ  par  la  lØgislation  en  vigueur  pour  la  crØation d'une sociØtØ par actions,
+- la justification d'un capital social au moins égal à celui exigé par la législation en vigueur pour la création d'une société par actions,
 
-- le respect des composantes de l'identitØ nationale,
+- le respect des composantes de l'identité nationale,
 
-- le  respect  des  spØcificitØs  religieuses  et  culturelles nationales.
+- le respect des spécificités religieuses et culturelles nationales.
 
-Les  Øtablissements  universitaires  publics  ne  peuvent, pour quelque motif que ce soit, faire l'objet de privatisation.
+Les établissements universitaires publics ne peuvent, pour quelque motif que ce soit, faire l'objet de privatisation.
 
-Ces conditions et d'autres sont prØcisØes dans un cahier des charges fixØ par le ministre chargØ de l'enseignement supØrieur .
+Ces conditions et d'autres sont précisées dans un cahier des charges fixé par le ministre chargé de l'enseignement supérieur.
 
 #### Art. 43 bis 2.
-Les Øtablissements privØs de formation supØrieure, citØs   l'article 43 bis 1 ci-dessus, ne peuvent assurer des formations supØrieures dans le domaine des sciences mØdicales .
+Les établissements privés de formation supérieure, cités à l'article 43 bis 1 ci-dessus, ne peuvent assurer des formations supérieures dans le domaine des sciences médicales.
 
 #### Art. 43 bis 3.
-La crØation d'Øtablissements privØs de formation supØrieure Øtrangers est  subordonnØe      un accord bilatØral ratifiØ .
+La création d'établissements privés de formation supérieure étrangers est subordonnée à un accord bilatéral ratifié.
 
-#### Art.  43  bis  4.
-L'autorisation  dØlivrØe  prØcise  les spØcialitØs  et  les  dipl  mes  de  formation  supØrieure  pour lesquels elle est dØlivrØe et toute modification de l'un des ØlØments fondamentaux ayant conduit   sa dØlivrance est subordonnØe   un accord prØalable du ministre chargØ de l'enseignement supØrieur .
+#### Art. 43 bis 4.
+L'autorisation délivrée précise les spécialités et les diplômes de formation supérieure pour lesquels elle est délivrée et toute modification de l'un des éléments fondamentaux ayant conduit à sa délivrance est subordonnée à un accord préalable du ministre chargé de l'enseignement supérieur.
 
 #### Art. 43 bis 5.
-Le ministre chargØ de l'enseignement supØrieur publie   chaque rentrØe universitaire la liste des Øtablissements  privØs  autorisØs      assurer  une  formation supØrieure ainsi que la liste des spØcialitØs assurØes .
+Le ministre chargé de l'enseignement supérieur publie à chaque rentrée universitaire la liste des établissements privés autorisés à assurer une formation supérieure ainsi que la liste des spécialités assurées.
 
-#### Art.  43  bis  6.
-L'Øtablissement  privØ  de  formation supØrieure est tenu :
+#### Art. 43 bis 6.
+L'établissement privé de formation supérieure est tenu :
 
-- d'appliquer  les  programmes  d'enseignements  et  les conditions  de  progression  dans  le cursus  fixØs par le ministre  chargØ  de  l'enseignement  supØrieur  lorsque  la spØcialitØ  assurØe  est  dispensØe  dans  des  Øtablissements publics de formation supØrieure,
+- d'appliquer les programmes d'enseignements et les conditions de progression dans le cursus fixés par le ministre chargé de l'enseignement supérieur lorsque la spécialité assurée est dispensée dans des établissements publics de formation supérieure,
 
-- de soumettre les programmes d'enseignement correspondant la spØcialitØ assurØe ainsi que les conditions  de  progression  dans  le cursus      la  validation par le ministre chargØ de l'enseignement supØrieur lorsqu'elle n'est pas assurØe par des Øtablissements publics de formation supØrieure,
+- de soumettre les programmes d'enseignement correspondant à la spécialité assurée ainsi que les conditions de progression dans le cursus à la validation par le ministre chargé de l'enseignement supérieur lorsqu'elle n'est pas assurée par des établissements publics de formation supérieure,
 
-- de conclure, au moment de l'inscription, un contrat individuel de formation avec l'Øtudiant,
+- de conclure, au moment de l'inscription, un contrat individuel de formation avec l'étudiant,
 
-- de souscrire toute assurance pour couvrir la responsabilitØ civile des Øtudiants et des personnels et de mettre  en  oeuvre  les  rŁgles  prØvues  par  la  lØgislation  en vigueur en matiŁre de protection sociale et de prØvention et protection sanitaires des Øtudiants .
+- de souscrire toute assurance pour couvrir la responsabilité civile des étudiants et des personnels et de mettre en oeuvre les règles prévues par la législation en vigueur en matière de protection sociale et de prévention et protection sanitaires des étudiants.
 
-#### Art.  43  bis  7.
-L'Øtablissement  privØ  de  formation supØrieure    est    tenu    de    n'inscrire    que    les    candidats titulaires  du  dipl  me  de  baccalaurØat  de  l'enseignement secondaire  ou  d'un  dipl  me  Øtranger  reconnu  Øquivalent en vue de la poursuite d'Øtudes dans le premier ou le seond cycle .
+#### Art. 43 bis 7.
+L'établissement privé de formation supérieure est tenu de n'inscrire que les candidats titulaires du diplôme de baccalauréat de l'enseignement secondaire ou d'un diplôme étranger reconnu équivalent en vue de la poursuite d'études dans le premier ou le seond cycle.
 
 #### Art. 43 bis 8.
-Les  Øtudiants  titulaires  de  dipl  mes dØlivrØs par des Øtablissements privØs de formation supØrieure, prØvus   l'article 43 bis 1  ci-dessus,  peuvent, aprŁs  Øquivalence  du  dipl  me  obtenu,  postuler      une inscription,  dans  le  respect  des  dispositions  prØvues par   la   rØglementation   en   vigueur   en   la   matiŁre, dans  un  Øtablissement  public  de  formation  supØrieure  en vue  de  poursuivre  des  Øtudes  de  second  ou  de  troisiŁme cycle.
+Les étudiants titulaires de diplômes délivrés par des établissements privés de formation supérieure, prévus à l'article 43 bis 1 ci-dessus, peuvent, après équivalence du diplôme obtenu, postuler à une inscription, dans le respect des dispositions prévues par la réglementation en vigueur en la matière, dans un établissement public de formation supérieure en vue de poursuivre des études de second ou de troisième cycle.
 
-Les modalitØs et conditions de dØlivrance de l'Øquivalence des dipl mes dØlivrØs par des Øtablissements privØs de formation supØrieure sont fixØes par voie rØglementaire .
+Les modalités et conditions de délivrance de l'équivalence des diplômes délivrés par des établissements privés de formation supérieure sont fixées par voie réglementaire.
 
-#### Art.  43  bis  9.
-L'Øtablissement  privØ  de  formation supØrieure  doit  faire  appara  tre  sur  l'ensemble  de  ses documents  l'expression    privØ    en  cractŁres  identiques ceux  utilisØs  pour  le  nom  proprement  dit  ainsi  que  le numØro et la date de l'autorisation dØlivrØe par le ministre chargØ de l'enseignement supØrieur.
+#### Art. 43 bis 9.
+L'établissement privé de formation supérieure doit faire apparaître sur l'ensemble de ses documents l'expression “privé” en cractères identiques à ceux utilisés pour le nom proprement dit ainsi que le numéro et la date de l'autorisation délivrée par le ministre chargé de l'enseignement supérieur.
 
-L'Øtablissement  privØ  de  formation  supØrieure  ne  doit faire  aucune  publicitØ  susceptible  d'induire  en  erreur  les Øtudiants ou leurs parents sur le statut, la nature et la durØe de la formation assurØe et ses dØbouchØs Øventuels .
+L'établissement privé de formation supérieure ne doit faire aucune publicité susceptible d'induire en erreur les étudiants ou leurs parents sur le statut, la nature et la durée de la formation assurée et ses débouchés éventuels.
 
-#### Art. 43  bis  10.
-Les Øtablissements privØs de formation supØrieure sont soumis au contr le administratif et  pØdagogique,  au  suivi  et      l'Øvaluation  du  ministre chargØ de l'enseignement supØrieur.
+#### Art. 43 bis 10.
+Les établissements privés de formation supérieure sont soumis au contrôle administratif et pédagogique, au suivi et à l'évaluation du ministre chargé de l'enseignement supérieur.
 
-Le contr le, le suivi et l'Øvaluation portent sur le respect des  conditions  fixØes  par  la  prØsente  loi,  les  rŁglements pris en son application et le contenu du cahier des charges prØvu   l'article 43 bis 1 ci-dessus.
+Le contrôle, le suivi et l'évaluation portent sur le respect des conditions fixées par la présente loi, les règlements pris en son application et le contenu du cahier des charges prévu à l'article 43 bis 1 ci-dessus.
 
-En cas de non-respect du cahier des charges  ou d'infraction  aux  dispositions  de  la  prØsente  loi  et  de  ses textes  d'application,  le  ministre  chargØ  de  l'enseignement supØrieur peut dØcider du retrait de l'autorisation .
+En cas de non-respect du cahier des charges ou d'infraction aux dispositions de la présente loi et de ses textes d'application, le ministre chargé de l'enseignement supérieur peut décider du retrait de l'autorisation.
 
 #### Art. 43 bis 11.
-Il ne peut Œtre procØdØ   la fermeture d'un Øtablissement privØ de formation supØrieure en cours d'annØe  universitaire      l'initiative  de  la  personne  morale fondatrice ou du responsable de l'Øtablissement habilitØ la reprØsenter .
+Il ne peut être procédé à la fermeture d'un établissement privé de formation supérieure en cours d'année universitaire à l'initiative de la personne morale fondatrice ou du responsable de l'établissement habilité à la représenter.
 
 [[END OF PAGE 3]]
 
@@ -241,132 +244,142 @@ Il ne peut Œtre procØdØ   la fermeture d'un Øtablissement privØ de formatio
 
 36
 
-JOURNAL OFFICIEL DE LA  REPUBLIQUE ALGERIENNE N ° 10
+JOURNAL OFFICIEL DE LA REPUBLIQUE ALGERIENNE N° 10
 
-#### Art.  43  bis  12.
-Dans  les  cas  de  force  majeure rendant impossible la poursuite de l'activitØ de l'Øtablissement privØ de formation supØrieure ou de retrait de  l'autorisation  prØvu      l'article 43  bis  10  ci-dessus,  le ministre chargØ de l'enseignement supØrieur peut demander pour la sauvegarde des intØrŒts des Øtudiants au juge  territorialement  compØtent  de  nommer  un  gØrant parmi le corps des personnels enseignants de l'enseignement supØrieur relevant d'Øtablissements publics de formation supØrieure.
+20 Safar 1429
+27 février 2008
 
-Durant cette pØriode, les biens immeubles et meubles de l'Øtablissement,  nØcessaires  au  bon  dØroulement  de  la formation, ne peuvent faire l'objet d'une saisie.
+#### Art. 43 bis 12.
+Dans les cas de force majeure rendant impossible la poursuite de l'activité de l'établissement privé de formation supérieure ou de retrait de l'autorisation prévu à l'article 43 bis 10 ci-dessus, le ministre chargé de l'enseignement supérieur peut demander pour la sauvegarde des intérêts des étudiants au juge territorialement compétent de nommer un gérant parmi le corps des personnels enseignants de l'enseignement supérieur relevant d'établissements publics de formation supérieure.
 
-En cas de fermeture d'un Øtablissement privØ de formation  supØrieure  en  fin  d'annØe  universitaire,  il  est procØdØ  au  transfert  des  Øtudiants  vers  les  universitØs  et les centres universitaires proches de celui-ci, conformØment  aux  modalitØs  et  conditions  fixØes  par  le ministre chargØ de l'enseignement supØrieur .
+Durant cette période, les biens immeubles et meubles de l'établissement, nécessaires au bon déroulement de la formation, ne peuvent faire l'objet d'une saisie.
+
+En cas de fermeture d'un établissement privé de formation supérieure en fin d'année universitaire, il est procédé au transfert des étudiants vers les universités et les centres universitaires proches de celui-ci, conformément aux modalités et conditions fixées par le ministre chargé de l'enseignement supérieur.
 
 #### Art. 43 bis 13.
-La  personne  morale  de  droit  privØ fondatrice  ou  le  responsable  de  l'Øtablissement  habilitØ la reprØsenter doit, au dØbut de chaque annØe universitaire, justifier  auprŁs  du  ministre  chargØ  de  l'enseignement supØrieur de la souscription d'une caution bancaire permettant de faire face aux dØpenses occasionnØes dans les cas de fermeture prØvus   l'article 43 bis 12 ci-dessus.
+La personne morale de droit privé fondatrice ou le responsable de l'établissement habilité à la représenter doit, au début de chaque année universitaire, justifier auprès du ministre chargé de l'enseignement supérieur de la souscription d'une caution bancaire permettant de faire face aux dépenses occasionnées dans les cas de fermeture prévus à l'article 43 bis 12 ci-dessus.
 
-Le  montant  de  la  caution  est  dØterminØ  selon  des critŁres  fixØs  par  le  ministre  chargØ  de  l'enseignement supØrieur .
+Le montant de la caution est déterminé selon des critères fixés par le ministre chargé de l'enseignement supérieur.
 
-#### Art.  43  bis  14.
-Les  modalitØs  d'application  des dispositions  du  prØsent  titre  sont  fixØes,  en  tant  que  de besoin, par voie rØglementaire .
+#### Art. 43 bis 14.
+Les modalités d'application des dispositions du présent titre sont fixées, en tant que de besoin, par voie réglementaire.
 
-## Art.   7.
-L'article   45   de   la   loi   n ° 99-05  du 18  Dhou  El  Hidja  1419  correspondant  au  4  avril  1999, susvisØe, est modifiØ et rØdigØ comme suit :
+## Art. 7.
+L'article 45 de la loi n° 99-05 du 18 Dhou El Hidja 1419 correspondant au 4 avril 1999, susvisée, est modifié et rédigé comme suit :
 
 ### Art. 45.
-Est Øtudiant tout candidat   l'obtention d'un dipl me d'enseignement supØrieur rØguliŁrement inscrit....(le reste sans changement)....  .
+Est étudiant tout candidat à l'obtention d'un diplôme d'enseignement supérieur régulièrement inscrit....(le reste sans changement)....
 
-## Art.  8.
-Les  article  52  et  53  de  la  loi  n ° 99-05 du 18 Dhou El Hidja 1419 correspondant au 4 avril 1999, susvisØe, sont modifiØs,  complØtØs et rØdigØs comme suit :
+## Art. 8.
+Les article 52 et 53 de la loi n° 99-05 du 18 Dhou El Hidja 1419 correspondant au 4 avril 1999, susvisée, sont modifiés, complétés et rédigés comme suit :
 
 ### Art. 52.
-Les missions des personnels enseignants de l'enseignement  supØrieur  s'exercent  principalement  dans les domaines suivants :
+Les missions des personnels enseignants de l'enseignement supérieur s'exercent principalement dans les domaines suivants :
 
 - l'enseignement,
 
-- l'encadrement, le tutorat, l'orientation, le contr le et l'Øvaluation    des  connaissances    des  Øtudiants  ainsi  que celle des encadreurs,
+- l'encadrement, le tutorat, l'orientation, le contrôle et l'évaluation des connaissances des étudiants ainsi que celle des encadreurs,
 
-- la recherche      laquelle  adhŁre  obligatoirement  tout enseignant,
+- la recherche à laquelle adhère obligatoirement tout enseignant,
 
 - la formation continue,
-
-### Art.  53.
-L'aptitude  des  enseignants  chercheurs  et des  personnels  chercheurs      encadrer  les  Øtudiants  au dipl  me  de  doctorat  et/ou diriger des activitØs  de recherche est consacrØe par une habilitation universitaire dØlivrØe selon des modalitØs et conditions fixØes par voie rØglementaire .
-
-## Art.  9.
-La  loi  n ° 99-05  du  18  Dhou  El  Hidja  1419 correspondant  au 4  avril  1999,  susvisØe,  est  complØtØe par un titre 6 bis intitulØ Dispositions pØnales comportant les articles 63  bis, 63 bis 1 et 63 bis 2 rØdigØs comme suit :
-
-20 Safar 1429 27 fØvrier 2008
 
 - l'expertise et la consultation,
 
 - la diffusion des connaissances.
 
-.........(le reste sans changement)....... .
+.........(le reste sans changement)........
+
+### Art. 53.
+L'aptitude des enseignants chercheurs et des personnels chercheurs à encadrer les étudiants au diplôme de doctorat et/ou à diriger des activités de recherche est consacrée par une habilitation universitaire délivrée selon des modalités et conditions fixées par voie réglementaire.
+
+## Art. 9.
+La loi n° 99-05 du 18 Dhou El Hidja 1419 correspondant au 4 avril 1999, susvisée, est complétée par un titre 6 bis intitulé “Dispositions pénales” comportant les articles 63 bis, 63 bis 1 et 63 bis 2 rédigés comme suit :
 
 ### TITRE 6 bis
 
 ### DISPOSITIONS PENALES
 
 #### Art. 63 bis.
-Quiconque enfreint les dispositions de l'alinØa  2  de  l'article 43 bis 9  de  la  prØsente  loi  est  puni d'un emprisonnement de deux (2)   six (6) mois et d'une amende  de  cent  mille  dinars  (100.000  DA)      cinq  cent mille  dinars  (500.000  DA)  ou  de  l'une  de  ces  deux peines .
+Quiconque enfreint les dispositions de l'alinéa 2 de l'article 43 bis 9 de la présente loi est puni d'un emprisonnement de deux (2) à six (6) mois et d'une amende de cent mille dinars (100.000 DA) à cinq cent mille dinars (500.000 DA) ou de l'une de ces deux peines.
 
 #### Art. 63 bis 1.
-Quiconque  poursuit  ses  activitØs  en cas de retrait de l'autorisation tel que prØvu   l'article 43 bis 10 de la prØsente loi est puni d'un emprisonnement de six  (6)      douze  (12)  mois  et  d'une  amende  de  cent  mille dinars  (100.000  DA)      cinq  cent  mille  dinars    (500.000 DA)  ou de l'une de ces deux peines.
+Quiconque poursuit ses activités en cas de retrait de l'autorisation tel que prévu à l'article 43 bis 10 de la présente loi est puni d'un emprisonnement de six (6) à douze (12) mois et d'une amende de cent mille dinars (100.000 DA) à cinq cent mille dinars (500.000 DA) ou de l'une de ces deux peines.
 
 #### Art. 63 bis 2.
-Quiconque enfreint les dispositions de l'article 43 bis 11 de la prØsente loi, est puni d'une amende de cent mille dinars (100.000 DA)   cinq cent mille dinars (500.000  DA),  sans  prØjudice  des  droits  des  Øtudiants rØparation.
+Quiconque enfreint les dispositions de l'article 43 bis 11 de la présente loi, est puni d'une amende de cent mille dinars (100.000 DA) à cinq cent mille dinars (500.000 DA), sans préjudice des droits des étudiants à réparation.
 
 ## Art. 10.
-La loi n ° 99-05 du 18 Dhou El Hidja 1419 correspondant au 4 avril 1999, susvisØe est complØtØe par les    articles   64  bis,  64  bis  1  et  64  bis  2    rØdigØs comme suit :
+La loi n° 99-05 du 18 Dhou El Hidja 1419 correspondant au 4 avril 1999, susvisée est complétée par les articles 64 bis, 64 bis 1 et 64 bis 2 rédigés comme suit :
 
 ### Art. 64 bis.
-Durant la pØriode nØcessaire   la pleine mise  en    uvre  du  contenu  des  articles  6      19  de  la prØsente loi, les dipl mes d'enseignement supØrieur sanctionnant  la  formation  supØrieure  de  graduation  et  la formation supØrieure de post-graduation ainsi que le rØgime des Øtudes conduisant   leur obtention demeurent rØgis par les dispositions en vigueur la date de promulgation de la prØsente loi.
+Durant la période nécessaire à la pleine mise en oeuvre du contenu des articles 6 à 19 de la présente loi, les diplômes d'enseignement supérieur sanctionnant la formation supérieure de graduation et la formation supérieure de post-graduation ainsi que le régime des études conduisant à leur obtention demeurent régis par les dispositions en vigueur à la date de promulgation de la présente loi.
 
-En  attendant  son  organisation  en  cycles,  la  formation supØrieure  en  sciences  mØdicales  demeure  rØgie  par  les dispositions  en  vigueur      la  date  de  promulgation  de  la prØsente loi .
+En attendant son organisation en cycles, la formation supérieure en sciences médicales demeure régie par les dispositions en vigueur à la date de promulgation de la présente loi.
 
 ### Art. 64 bis 1.
-Durant la pØriode prØvue   l'article 64 bis  ci-dessus,  les  modalitØs  d'organisation  de  l'accŁs  des candidats titulaires du  baccalaurØat  de  l'enseignement
+Durant la période prévue à l'article 64 bis ci-dessus, les modalités d'organisation de l'accès des candidats titulaires du baccalauréat de l'enseignement
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-20 Safar 1429 27 fØvrier 2008
+20 Safar 1429
+27 février 2008
 
-JOURNAL OFFICIEL DE LA  REPUBLIQUE ALGERIENNE N ° 10
+JOURNAL OFFICIEL DE LA REPUBLIQUE ALGERIENNE N° 10
 
 37
 
-secondaire  aux  formations  en  vue  de  l'obtention  d'un dipl me d'enseignement supØrieur sanctionnant formation supØrieure de graduation sont fixØes annuellement  par  le  ministre  chargØ  de  l'enseignement supØrieur .
-
-la
-## Art. 11.
-L'alinØa 2 de l'article 2 et les articles 41 et 42  de  la loi  n ° 99-05  du  18  Dhou  El  Hidja  1419 correspondant au 4 avril 1999, susvisØe, sont abrogØs.
+secondaire aux formations en vue de l'obtention d'un diplôme d'enseignement supérieur sanctionnant la formation supérieure de graduation sont fixées annuellement par le ministre chargé de l'enseignement supérieur.
 
 ### Art. 64 bis 2.
-Durant la pØriode prØvue   l'article 64 bis  ci-dessus,  les  Øtudiants  inscrits  en  premier  ou  second cycle  peuvent  postuler      l'obtention  d'un  des  dipl  mes d'enseignement supØrieur sanctionnant la formation supØrieure de graduation selon des conditions fixØes par le ministre chargØ de l'enseignement supØrieur .
+Durant la période prévue à l'article 64 bis ci-dessus, les étudiants inscrits en premier ou second cycle peuvent postuler à l'obtention d'un des diplômes d'enseignement supérieur sanctionnant la formation supérieure de graduation selon des conditions fixées par le ministre chargé de l'enseignement supérieur.
+
+## Art. 11.
+L'alinéa 2 de l'article 2 et les articles 41 et 42 de la loi n° 99-05 du 18 Dhou El Hidja 1419 correspondant au 4 avril 1999, susvisée, sont abrogés.
+
+## Art. 12.
+La présente loi sera publiée au Journal officiel de la République algérienne démocratique et populaire.
+
+Fait à Alger, le 16 Safar 1429 correspondant au 23 février 2008.
+
+Abdelaziz BOUTEFLIKA.
 
 # D E C R E T S
 
-## DØcret exØcutif n ° 08-61 du 17 Safar 1429 correspondant  au  24  fØvrier  2008  modifiant  et complØtant la liste des Øtablissements publics hospitaliers annexØe au dØcret exØcutif n ° 07-140 du  2  Joumada  El  Oula  1428  correspondant  au 19  mai  2007  portant  crØation,  organisation  et fonctionnement des Øtablissements publics hospitaliers et des Øtablissements publics de santØ de proximitØ.
+## Décret exécutif n° 08-61 du 17 Safar 1429 correspondant au 24 février 2008 modifiant et complétant la liste des établissements publics hospitaliers annexée au décret exécutif n° 07-140 du 2 Joumada El Oula 1428 correspondant au 19 mai 2007 portant création, organisation et fonctionnement des établissements publics hospitaliers et des établissements publics de santé de proximité.
+
+————
 
 Le Chef du Gouvernement,
 
-Sur le rapport du ministre de la santØ, de la population et de la rØforme hospitaliŁre,
+Sur le rapport du ministre de la santé, de la population et de la réforme hospitalière,
 
-Vu la Constitution, notamment ses articles 85-4 ° et 125 (alinØa 2) ;
+Vu la Constitution, notamment ses articles 85-4° et 125 (alinéa 2) ;
 
-Vu  la  loi  n ° 85-05  du  16  fØvrier  1985,  modifiØe  et complØtØe, relative   la protection et   la promotion de la santØ ;
+Vu la loi n° 85-05 du 16 février 1985, modifiée et complétée, relative à la protection et à la promotion de la santé ;
 
-Vu  la  loi  n ° 90-21  du  15  aoßt  1990  relative      la comptabilitØ publique ;
+Vu la loi n° 90-21 du 15 août 1990 relative à la comptabilité publique ;
 
-Vu l ordonnance n ° 95-20 du 19 Safar 1416 correspondant  au  17  juillet  1995  relative      la  Cour  des comptes ;
+Vu l'ordonnance n° 95-20 du 19 Safar 1416 correspondant au 17 juillet 1995 relative à la Cour des comptes ;
 
-Vu  le  dØcret  prØsidentiel  n ° 07-172  du  18  Joumada El  Oula  1428  correspondant  au  4  juin  2007  portant nomination du Chef du Gouvernement ;
+Vu le décret présidentiel n° 07-172 du 18 Joumada El Oula 1428 correspondant au 4 juin 2007 portant nomination du Chef du Gouvernement ;
 
-Vu  le  dØcret  prØsidentiel  n ° 07-173  du  18  Joumada El  Oula  1428  correspondant  au  4  juin  2007    portant nomination des membres du Gouvernement ;
+Vu le décret présidentiel n° 07-173 du 18 Joumada El Oula 1428 correspondant au 4 juin 2007 portant nomination des membres du Gouvernement ;
 
-Vu le dØcret exØcutif n ° 07-140 du 2 Joumada El Oula 1428  correspondant  au  19  mai  2007  portant crØation, organisation et fonctionnement des Øtablissements publics hospitaliers  et  des  Øtablissements  publics  de  santØ  de proximitØ ;
+Vu le décret exécutif n° 07-140 du 2 Joumada El Oula 1428 correspondant au 19 mai 2007 portant création, organisation et fonctionnement des établissements publics hospitaliers et des établissements publics de santé de proximité ;
 
-DØcrŁte :
+Décrète :
 
-### Article  1er.
-La  liste des Øtablissements  publics hospitaliers  annexØe  au  dØcret  exØcutif  n ° 07-140  du  2 Joumada  El  Oula  1428  correspondant  au  19  mai  2007, susvisØ, est modifiØe et complØtØe comme suit :
+### Article 1er.
+La liste des établissements publics hospitaliers annexée au décret exécutif n° 07-140 du 2 Joumada El Oula 1428 correspondant au 19 mai 2007, susvisé, est modifiée et complétée comme suit :
 
 ### ANNEXE «1»
 
 ### LISTE DES ETABLISSEMENTS PUBLICS HOSPITALIERS
 
-.......................  (sans changement) ...............................
+....................... (sans changement) ...............................
 
 #### 02/ - Wilaya de Chlef :
 
@@ -374,37 +387,37 @@ Chlef (Ouled Mohamed)
 
 Chlef (Chorfa)
 
-TØnŁs (Zighoud Youcef)
+Ténès (Zighoud Youcef)
 
-TØnŁs (ancien h pital)
+Ténès (ancien hôpital)
 
 Sobha
 
 Chettia
 
-.......................  (sans changement) ...............................
+....................... (sans changement) ...............................
 
-#### 04/ - Wilaya d Oum El Bouaghi :
+#### 04/ - Wilaya d'Oum El Bouaghi :
 
 Oum El Bouaghi (Mohamed Boudiaf)
 
-Oum El Bouaghi (ancien h pital)
+Oum El Bouaghi (ancien hôpital)
 
-A n Be da (Zerdani Salah)
+Aïn Beïda (Zerdani Salah)
 
 Meskiana
 
-A n M Lila
+Aïn M'Lila
 
-A n Fekroun
+Aïn Fekroun
 
-.......................  (sans changement) ...............................
+....................... (sans changement) ...............................
 
-#### 12/ - Wilaya de TØbessa :
+#### 12/ - Wilaya de Tébessa :
 
-TØbessa (Alia Salah)
+Tébessa (Alia Salah)
 
-TØbessa (Bouguerra Boulares)
+Tébessa (Bouguerra Boulares)
 
 Morsot
 
@@ -416,27 +429,20 @@ Cheria
 
 Ouenza
 
-.......................  (sans changement) ...............................
+....................... (sans changement) ...............................
 
-#### 19/ - Wilaya de SØtif :
+#### 19/ - Wilaya de Sétif :
 
 El Eulma
 
-A n El Kebira
+Aïn El Kebira
 
 Bougaa
 
-A n Oulmene
+Aïn Oulmene
 
-BØni Ourtilene
+Béni Ourtilene
 
-.......................  (sans changement) ...............................
-
-## Art.  12.
-La  prØsente  loi  sera  publiØe  au Journal officiel de la RØpublique  algØrienne dØmocratique  et populaire.
-
-Fait       Alger,   le   16   Safar   1429   correspondant au  23 fØvrier 2008.
-
-Abdelaziz  BOUTEFLIKA.
+....................... (sans changement) ...............................
 
 [[END OF PAGE 5]]
