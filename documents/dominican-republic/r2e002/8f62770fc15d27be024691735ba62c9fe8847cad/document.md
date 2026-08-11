@@ -10,6 +10,60 @@ Ley No. 66­97
 
 ## Índice de contenidos
 
+TÍTULO I  CONSIDERACIONES GENERALES .......................................................................................... 1
+CAPÍTULO I DEL OBJETO Y ALCANCE DE LA LEY...................................................................................................................1
+CAPÍTULO II PRINCIPIOS Y FINES DE LA EDUCACIÓN DOMINICANA.....................................................................................1
+CAPÍTULO III FUNCIONES DEL ESTADO EN LA EDUCACIÓN, CIENCIA Y CULTURA ..............................................................3
+CAPÍTULO IV DE LA LIBERTAD DE APRENDIZAJE Y ENSEÑANZA..........................................................................................4
+CAPÍTULO V DE LAS FUNCIONES DE LA COMUNIDAD, LA FAMILIA Y EL SECTOR PRIVADO EN EDUCACIÓN ...................5
+CAPÍTULO VI DE LA ENSEÑANZA MORAL Y RELIGIOSA .........................................................................................................5
+TÍTULO II  SOBRE LA ESTRUCTURA ACADÉMICA DEL SISTEMA EDUCATIVO ...................... 6
+CAPÍTULO I DE LOS ASPECTOS BÁSICOS DEL SISTEMA EDUCATIVO ..................................................................................6
+CAPÍTULO II DE LA ESTRUCTURA ACADÉMICA DEL SISTEMA EDUCATIVO ..........................................................................7
+TÍTULO III  DE LA CALIDAD DE LA EDUCACIÓN ................................................................................. 11
+CAPÍTULO I DE LOS ASPECTOS LIGADOS A LA CALIDAD DE LA EDUCACIÓN .................................................................... 11
+CAPÍTULO II DEL FOMENTO DE LA INNOVACIÓN Y LA FLEXIBILIDAD CURRICULAR .......................................................... 12
+TÍTULO IV  GOBIERNO DEL SISTEMA EDUCATIVO ............................................................................ 13
+CAPÍTULO I ESTRUCTURA ORGANIZATIVA DE LA SECRETARÍA DE ESTADO DE EDUCACIÓN Y CULTURA ..................... 13
+CAPÍTULO II EL CONSEJO NACIONAL DE EDUCACIÓN Y CULTURA .................................................................................... 14
+CAPÍTULO III EL SECRETARIO DE ESTADO DE EDUCACIÓN Y CULTURA............................................................................ 18
+CAPÍTULO IV LA SECRETARÍA DE ESTADO DE EDUCACIÓN Y CULTURA Y SU RELACIÓN CON LA EDUCACIÓN ............. 19
+CAPÍTULO V LA SECRETARÍA DE ESTADO DE EDUCACIÓN Y CULTURA EN RELACIÓN CON LA CIENCIA ........................ 21
+CAPÍTULO VI LA SECRETARÍA DE ESTADO DE EDUCACIÓN Y CULTURA EN RELACIÓN CON LA CULTURA..................... 22
+TÍTULO V  DE LOS ORGANISMOS DESCENTRALIZADOS .................................................................. 23
+CAPÍTULO I DE LOS ORGANISMOS DESCENTRALIZADOS NACIONALES ............................................................................ 23
+CAPÍTULO II DE LOS ORGANISMOS REGIONALES DE EDUCACIÓN Y CULTURA ................................................................ 24
+CAPÍTULO III DE LOS ORGANISMOS DISTRITALES DE EDUCACIÓN Y CULTURA................................................................ 25
+CAPÍTULO IV DE LOS ORGANISMOS LOCALES DE EDUCACIÓN Y CULTURA ..................................................................... 26
+TÍTULO VI  DE LA PROFESIONALIZACIÓN, EL ESTATUTO Y LA CARRERA DOCENTE ....... 27
+CAPÍTULO I DE LA FORMACIÓN Y LA CAPACITACIÓN .......................................................................................................... 27
+CAPÍTULO II DEL ESTATUTO DOCENTE................................................................................................................................. 28
+CAPÍTULO III DEL INGRESO A LA CARRERA DOCENTE Y LA ESTABILIDAD EN EL EMPLEO .............................................. 29
+CAPÍTULO IV DEL ESCALAFÓN DOCENTE............................................................................................................................. 30
+CAPÍTULO V DE LA DIGNIFICACIÓN Y VALORACIÓN DEL TRABAJO DOCENTE .................................................................. 30
+CAPÍTULO VI DEL TRIBUNAL DE LA CARRERA DOCENTE .................................................................................................... 31
+TÍTULO VII  DE LOS SERVICIOS DE BIENESTAR MAGISTERIAL Y DEL PERSONAL DE LA EDUCACIÓN
+................................................................................................................................................................................... 32
+CAPÍTULO I DEL INSTITUTO NACIONAL DE BIENESTAR MAGISTERIAL ............................................................................... 32
+CAPÍTULO II DE LAS JUBILACIONES Y PENSIONES .............................................................................................................. 34
+TÍTULO VIII  DEL INSTITUTO NACIONAL DE BIENESTAR ESTUDIANTIL.................................. 35
+CAPÍTULO I INSTITUTO NACIONAL DE BIENESTAR ESTUDIANTIL ....................................................................................... 35
+TÍTULO IX  DE LA PARTICIPACIÓN ........................................................................................................... 36
+CAPÍTULO I DE LA NATURALEZA DE LA PARTICIPACIÓN ..................................................................................................... 36
+CAPÍTULO II DE LOS ORGANISMOS DE PARTICIPACIÓN...................................................................................................... 36
+CAPÍTULO III DE LOS ORGANISMOS DE AMPLIA CONSULTA ............................................................................................... 37
+TÍTULO X  FINANCIAMIENTO DE LA EDUCACIÓN .............................................................................. 38
+CAPÍTULO I DEL FINANCIAMIENTO DE LA EDUCACIÓN........................................................................................................ 38
+TÍTULO XI  DE LA ACREDITACIÓN, LA TITULACIÓN  Y EL RECONOCIMIENTO DE ESTUDIOS
+................................................................................................................................................................................... 39
+CAPÍTULO I RECONOCIMIENTO DE ESTUDIOS ..................................................................................................................... 39
+TÍTULO XII  DISPOSICIONES GENERALES Y TRANSITORIAS ......................................................... 40
+CAPÍTULO I DE LA IGUALDAD DE SEXOS .............................................................................................................................. 40
+CAPÍTULO II DE LOS REGLAMENTOS .................................................................................................................................... 40
+CAPÍTULO III DE LAS JERARQUÍAS DE LAS NORMATIVAS LEGALES................................................................................... 41
+CAPÍTULO IV DISPOSICIONES TRANSITORIAS ..................................................................................................................... 41
+CAPÍTULO V DISPOSICIONES FINALES ................................................................................................................................. 42
+
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
@@ -28,7 +82,7 @@ Ley No. 66­97
 La  presente  ley  garantiza  el  derecho  de todos  los  habitantes  del  país  a la  educación.  Regula,  en el campo  educativo,  la  labor  del  Estado  y  de  sus  organismos  descentralizados  y  la  de  los  particulares  que recibieren  autorización  o  reconocimiento  oficial  a  los  estudios  que  imparten.  Esta  ley,  además,  encauza  la participación de los distintos sectores en el proceso educativo nacional.
 
 ##### Parrafo.­
-Los asuntos específicos relacionados con la Educación Superior de leyes especiales, complementarias a la presente ley.
+Los asuntos específicos relacionados con la Educación Superior se regirán por leyes especiales, complementarias a la presente ley.
 
 #### Art. 2.­
 A partir de la promulgación de la presente ley la Secretaría de Estado de Educación, Bellas Artes y Cultos se denominará Secretaría de Estado de Educación y Cultura.
@@ -1426,7 +1480,7 @@ La organización y funcionamiento de las Juntas Regionales, Distritales�
 ### CAPÍTULO I DE LA FORMACIÓN Y LA CAPACITACIÓN
 
 #### Art.  126.­
-El  Estado  Dominicano  fomentará  y  garantizará  la  formación  de  docentes  a  nivel  superior  para  la integración  al  proceso  educativo  en  todos  los  niveles  y  las  distintas  modalidades  existentes,  incluyendo  el fortalecimiento de centros especializados para tales fines. El Consejo Nacional de Educación establecerá ias normas  de  funcionamiento  que  regirán  los  centros  estatales  de  formación  de  docentes,  sus  requisitos  de admisión y graduación y sus planes de estudios.
+El  Estado  Dominicano  fomentará  y  garantizará  la  formación  de  docentes  a  nivel  superior  para  la integración  al  proceso  educativo  en  todos  los  niveles  y  las  distintas  modalidades  existentes,  incluyendo  el fortalecimiento de centros especializados para tales fines. El Consejo Nacional de Educación establecerá las normas  de  funcionamiento  que  regirán  los  centros  estatales  de  formación  de  docentes,  sus  requisitos  de admisión y graduación y sus planes de estudios.
 
 #### Art.  127.­
 En  la  formación  de  los  docentes  se  desarrollará,  además  de  la  capacidad  técnica  y  de  los conocimientos en el campo respectivo, la conciencia ética en todas sus dimensiones. Para lograrlo, el nuevo docente  deberá  comprender  la  interrelación  que  existe  entre  promoción  humana  y  desarrollo,  apreciará  y asumirá los valores de la comunidad, manteniendo capacidad crítica frente a ella; podrá promover un nuevo orden  social,  sin  menoscabo  de  los  eternos  valores  del  bien,  el  amor  y  la  justicia;  valorará  la  formación profesional y cultural como medio de promoción social y se convencerá de la eficacia permanente de su trabajo como docente.
@@ -1446,7 +1500,7 @@ Se  crea el Instituto Nacional de Formación  y Capacitación del Magisterio,�
 #### Art. 130.­
 Los estudios magisteriales serán impartidos en el nivel de educación superior en coordinación con el Instituto Nacional de Formación y Capacitación del Magisterio.
 
-#### Ant.  131.­
+#### Art.  131.­
 El  sistema  de  formación  y  capacitación  permanente  ofrecido  por  la  Secretaría  de  Estado  de Educación y Cultura será gratuito para todos los docentes.
 
 ### CAPÍTULO II DEL ESTATUTO DOCENTE
@@ -1501,7 +1555,7 @@ La  Carrera  Docente  se  inicia  necesariamente  con  docencia  de  au
 - Reunir las cualidades morales, éticas, intelectuales y afectivas necesarias, así como los conocimientos y competencias requeridas para el ejercicio de la función específica a desempeñar.
 
 ##### Párrafo.­
-Estos requisitos serán ampliados y procesados a través de un "Manuel de categoría y funciones" que se debe redactar junto a los reglamentos que completarán el alcance de la ley de educación.
+Estos requisitos serán ampliados y procesados a través de un "Manual de categoría y funciones" que se debe redactar junto a los reglamentos que completarán el alcance de la ley de educación.
 
 #### Art.  137.­
 Los  profesionales  docentes  que  ingresen  al  sistema  de  enseñanza  mediante  los  procedimientos establecidos en el Reglamento del Estatuto y la Carrera Docente gozarán de estabilidad en el ejercicio de sus labores, salvo violaciones a las leyes, las normas éticas y morales y las disposiciones administrativas.
@@ -1671,7 +1725,7 @@ El  Instituto  de  Bienestar  Magisterial  (INABIMA)  será  coordinado 
 
 - El Secretario de Estado de Finanzas;
 
-- El Director General del Instituto Dominicano de Seguro Sociales;
+- El Director General del Instituto Dominicano de Seguros Sociales;
 
 - Dos representantes de la organización magisterial mayoritaria, uno proveniente del sector público y el otro del sector privado de la educación.
 
@@ -1705,7 +1759,7 @@ La organización de estos consejos, así como lo relativo a sus funci
 
 - o Un representante de la organización magisterial mayoritaria.
 
-- o El Administrador General de Instituto de Auxilios y Vivienda.
+- o El Administrador General del Instituto de Auxilios y Viviendas.
 
 - o Un representante de la Cooperativa Nacional de Maestros.
 
@@ -1791,10 +1845,10 @@ Los empleadores privados deberán pagar, adicionalmente al mencionado va
 Los  aportes  y  descuentos  consignados  al  INABIMA,  serán  administrados  en  una  cuenta  especial denominada  Fondo  de  Pensiones  y  Jubilaciones  del  Sistema  Educativo  recapitalizable  de  acuerdo  a  las políticas y el mejor interés de dicho régimen.
 
 #### Art. 170.­
-Para los fines de la presente ley, se entiende como jubilación el beneficio que permite al personal de educación  continuar  recibiendo  ingresos  al  retirarse  de  sus  labores,  como  consecuencia  exclusive  de  la protección por antigüedad en la prestación de servicios. Las pensiones constituyen los beneficios sociales que amparan a aquellos que no habiendo alcanzado niveles de antigüedad suficientes, en la prestación del servicio, deben ser separados del cargo por razones de fuerza mayor, debidamente acreditadas.
+Para los fines de la presente ley, se entiende como jubilación el beneficio que permite al personal de educación  continuar  recibiendo  ingresos  al  retirarse  de  sus  labores,  como  consecuencia  exclusiva  de  la protección por antigüedad en la prestación de servicios. Las pensiones constituyen los beneficios sociales que amparan a aquellos que no habiendo alcanzado niveles de antigüedad suficientes, en la prestación del servicio, deben ser separados del cargo por razones de fuerza mayor, debidamente acreditadas.
 
 ##### Párrafo.­
-Los sueldos de los docentes pensionados y jubilados serán revisados por lo menos cada 3 años para hacer los ajustes adecuados a la variación de índice de precios del país, pero nunca serán menores que el sueldo mínimo del sector oficial. Esta disposición beneficiara también a todos los pensionados y jubilados que estén vivos al momento de promulgarse la presente ley.
+Los sueldos de los docentes pensionados y jubilados serán revisados por lo menos cada 3 años para hacer los ajustes adecuados a la variación de índice de precios del país, pero nunca serán menores que el sueldo mínimo del sector oficial. Esta disposición beneficiará también a todos los pensionados y jubilados que estén vivos al momento de promulgarse la presente ley.
 
 #### Art.  171.­
 El  servidor  del  sistema  adquiere  el  derecho  a  la  jubilación  automática  de  acuerdo  a  la  siguiente escala:
@@ -1850,7 +1904,7 @@ El beneficio de esta pensión cesará de inmediato:
 - Al alcanzar los menores la mayoría de edad.
 
 #### Art. 176.­
-Todo lo no previsto en el articulo del régimen de pensiones y jubilaciones del Sistema Educativo, será resuelto  en  el  reglamento  elaborado  al  efecto  por  el  Consejo  de  Seguridad  Social  del  Instituto  Nacional  de Bienestar Magisterial (INABIMA) y aprobado por el Poder Ejecutivo.
+Todo lo no previsto en el articulado del régimen de pensiones y jubilaciones del Sistema Educativo, será resuelto  en  el  reglamento  elaborado  al  efecto  por  el  Consejo  de  Seguridad  Social  del  Instituto  Nacional  de Bienestar Magisterial (INABIMA) y aprobado por el Poder Ejecutivo.
 
 ## TÍTULO VIII DEL INSTITUTO NACIONAL DE BIENESTAR ESTUDIANTIL
 
@@ -2022,7 +2076,7 @@ Para  el  cumplimiento  de  los  fines  educativos  consignados  en  la
 Su administración estará a cargo de una directiva compuesta por cinco miembros designados por el Consejo Nacional de Educación y sometidos a la regulación que este último organismo dicte.
 
 #### Art.  202.­
-El  Fondo  Nacional  de  Fomento  a  la  Educación  tendrá  personería  jurídica  y  estará  representado legalmente  por  su  presidente.  Sin  perjuicio  de  otras  responsabilidades  jurídicas,  sus  integrantes  serán responsables del buen manejo de los recursos y bienes que estén a su cargo, ante el Consejo Nacional de Educación, que tendrá la obligación de supervisión y vigilancia.  Los  cargos  de  miembro  del  consejo  y  el  de directivo del fondo, serán incompatibles. En todo caso, el fondo contará con un auditor interno y se someterá a auditoria externa periódicamente.
+El  Fondo  Nacional  de  Fomento  a  la  Educación  tendrá  personería  jurídica  y  estará  representado legalmente  por  su  presidente.  Sin  perjuicio  de  otras  responsabilidades  jurídicas,  sus  integrantes  serán responsables del buen manejo de los recursos y bienes que estén a su cargo, ante el Consejo Nacional de Educación, que tendrá la obligación de supervisión y vigilancia.  Los  cargos  de  miembro  del  consejo  y  el  de directivo del fondo, serán incompatibles. En todo caso, el fondo contará con un auditor interno y se someterá a auditoría externa periódicamente.
 
 #### Art. 203.­
 El Fondo Nacional de Fomento a la Educación se nutrirá de las fuentes siguientes:
@@ -2167,7 +2221,7 @@ Como complemento de las leyes, decretos y reglamentos que emanen de l
 (Transitorio)  El Plan  Decenal  de  Educación,  elaborado  con  una  amplia  participación  nacional,  se asume como el Plan Nacional de Desarrollo Educativo para el período 1992­2002.
 
 #### Art. 220.­
-(Transitorio) A partir de la promulgación de la presente ley el Estado dispondrá de un período de días años para universalizar el año obligatorio del nivel inicial que ésta dispone.
+(Transitorio) A partir de la promulgación de la presente ley el Estado dispondrá de un período de diez años para universalizar el año obligatorio del nivel inicial que ésta dispone.
 
 #### Art. 221.­
 (Transitorio) Se traspasan al Instituto Nacional de Bienestar Magisterial (INABIMA) los descuentos y derechos que por concepto de deducciones o aportes del Estado tuviesen los servidores de la educación en otras instituciones públicas.
@@ -2190,7 +2244,7 @@ La Secretaría de Estado de Educación y Cultura organizará y estruct
 La Secretaría de Estado de Educación y Cultura queda facultada para realizar las reorganizaciones que las circunstancias demanden, de suerte que se tenga siempre una estructura administrativa ágil y flexible que permita realizar los planes, programas y acciones de la política educativa.
 
 #### Art. 227.­
-En toda reorganización que llegare a operarse con fundamento en lo dispuesto en el articulo anterior, se  respetarán  los  derechos  de  los  servidores  y  se  procurará  mantener  en  todo  caso  su  nivel  y  categoría. Cuando ello no fuere factible se actuará de conformidad con lo que establecerá el Reglamento del Estatuto y la Carrera Docente, así como los criterios del Consejo Nacional de Educación.
+En toda reorganización que llegare a operarse con fundamento en lo dispuesto en el artículo anterior, se  respetarán  los  derechos  de  los  servidores  y  se  procurará  mantener  en  todo  caso  su  nivel  y  categoría. Cuando ello no fuere factible se actuará de conformidad con lo que establecerá el Reglamento del Estatuto y la Carrera Docente, así como los criterios del Consejo Nacional de Educación.
 
 #### Art. 228.­
 La presente ley deroga y sustituye cualquier disposición que le sea contraria y entrará en vigor dentro de los plazos establecidos por la Constitución de la República.
@@ -2203,7 +2257,7 @@ Enrique Pujals
 
 Secretario
 
-Rafael Octavio
+Rafael Octavio Silverio
 
 Secretario
 
