@@ -17,7 +17,7 @@ L'Etat  assigne  à  l'Enseignement  Supérieur  une  mission  fondamentale  de 
 ##### Article 3 :
 (1) L'Etat accorde à l'Enseignement Supérieur un caractère de priorité nationale.
 
-- Il organise et contrôle l'Enseignement Supérieur.
+(2) Il organise et contrôle l'Enseignement Supérieur.
 
 ##### Article 4 :
 Des partenaires privés concourent à l'offre de formation de niveau supérieur.
@@ -84,16 +84,16 @@ L'Etat  consacre  le  bilinguisme  au  niveau  de  l'Enseignement  Supérieur  c
 
 [[START OF PAGE 3]]
 
-### DE L'ELABORATION, DE LA  MISE EN ŒUVRE ET DU SUIVI DE LA
+### CHAPITRE II
 
-### CHAPITRE II POLITIQUE DE L'ENSEIGNEMENT SUPERIEUR
+### DE L'ELABORATION, DE LA MISE EN ŒUVRE ET DU SUIVI DE LA POLITIQUE DE L'ENSEIGNEMENT SUPERIEUR
 
 #### Section 1 :  De l'élaboration de la politique de l'Enseignement Supérieur
 
 ##### Article 7 :
 (1) L'Etat élabore la politique de l'Enseignement Supérieur et assure sa mise en œuvre.
 
-- Les collectivités territoriales décentralisées, les partenaires socioéconomiques, ainsi que les Institutions ou Organisations  publiques ou privées nationales ou internationales participent à l'élaboration et à la mise  en œuvre  de  la politique de l'Enseignement Supérieur dans les formes et selon les modalités fixées par voie réglementaire.
+(2) Les collectivités territoriales décentralisées, les partenaires socio-économiques, ainsi que les Institutions ou Organisations publiques ou privées nationales ou internationales participent à l'élaboration et à la mise en œuvre de la politique de l'Enseignement Supérieur dans les formes et selon les modalités fixées par voie réglementaire.
 
 #### Section 2 : De la mise en œuvre de la politique de l'Enseignement Supérieur
 
@@ -153,22 +153,22 @@ A ce titre :
 
 (2) A ce titre :
 
-- l'Etat protège contre toute discrimination tout postulant à l'Enseignement Supérieur,  en  raison  de  la  race,  du  genre,  de  l'âge,  de  la  religion,  de  l'origine linguistique et géographique ;
+a) l'Etat protège contre toute discrimination tout postulant à l'Enseignement Supérieur, en raison de la race, du genre, de l'âge, de la religion, de l'origine linguistique et géographique ;
 
-- l'Etat  encourage  les  Institutions  universitaires  à  prendre  des  dispositions  ou  des initiatives  appropriées  facilitant  notamment  l'accès  des  personnes  handicapées  à l'Enseignement Supérieur.
+b) l'Etat encourage les Institutions universitaires à prendre des dispositions ou des initiatives appropriées facilitant notamment l'accès des personnes handicapées à l'Enseignement Supérieur.
 
-- Chaque  Institution  d'enseignement  supérieur  peut  déterminer  d'autres conditions  d'accès  qui  lui  soient  propres,  dans  le  respect  des  dispositions  de  l'alinéa  1  cidessus et des lois et règlements en vigueur.
+(3) Chaque Institution d'enseignement supérieur peut déterminer d'autres conditions d'accès qui lui soient propres, dans le respect des dispositions de l'alinéa 1 ci-dessus et des lois et règlements en vigueur.
 
-- L'enseignement  à  distance    est  reconnu  et  encouragé  comme  un  mode alternatif de développement de l'Enseignement Supérieur. Son organisation, son fonctionnement et son contrôle sont régis par des textes particuliers.
+(4) L'enseignement à distance est reconnu et encouragé comme un mode alternatif de développement de l'Enseignement Supérieur. Son organisation, son fonctionnement et son contrôle sont régis par des textes particuliers.
 
-- Des personnes de nationalité étrangère, remplissant les conditions académiques  prévues  à  l'alinéa  (1)  ci-dessus,  peuvent  également  être  admises  dans  les Institutions d'enseignement supérieur du Cameroun, conformément aux usages internationaux et/ou aux conditions et accords signés entre le Cameroun et les pays d'origine  des postulants.
+(5) Des personnes de nationalité étrangère, remplissant les conditions académiques prévues à l'alinéa (1) ci-dessus, peuvent également être admises dans les Institutions d'enseignement supérieur du Cameroun, conformément aux usages internationaux et/ou aux conditions et accords signés entre le Cameroun et les pays d'origine des postulants.
 
 #### Section 2 : De l'organisation des études dans l'Enseignement  Supérieur
 
 ##### Article 12 :
 (1)  Les  études  dans  l'Enseignement  Supérieur  sont  organisées  en  cycles  et filières de formation, dont le nombre et la durée varient en fonction des établissements et de la nature des études.
 
-- L'organisation  des  cycles  en  niveaux  ou  années  d'études  au  sein  des établissements des Institutions universitaires est fixée par des textes particuliers.
+(2) L'organisation des cycles en niveaux ou années d'études au sein des établissements des Institutions universitaires est fixée par des textes particuliers.
 
 [[END OF PAGE 5]]
 
@@ -270,11 +270,11 @@ La  création  et  l'organisation  des  Universités  d'Etat  sont  fixées  par
 
 (2)  Elles  fonctionnent  sous  le  régime  de  l'autorisation,  de  l'agrément  ou  de l'homologation selon les modalités fixées par des textes réglementaires spécifiques :
 
-- l'autorisation habilite à ouvrir un établissement d'enseignement supérieur  ;
+a) l'autorisation habilite à ouvrir un établissement d'enseignement supérieur ;
 
-- l'agrément  est  la  reconnaissance  du  fonctionnement  effectif  et  régulier  de l'institution privée d'enseignement  supérieur considérée ; il donne  droit à l'ouverture  des  filières,  à  la  formation  et  à  la  présentation  des  candidats  aux diplômes nationaux dans le respect des normes fixées par des textes particuliers ;
+b) l'agrément est la reconnaissance du fonctionnement effectif et régulier de l'institution privée d'enseignement supérieur considérée ; il donne droit à l'ouverture des filières, à la formation et à la présentation des candidats aux diplômes nationaux dans le respect des normes fixées par des textes particuliers ;
 
-- l'homologation  autorise  l'institution  privée  d'enseignement  supérieur  à  délivrer des diplômes nationaux.
+c) l'homologation autorise l'institution privée d'enseignement supérieur à délivrer des diplômes nationaux.
 
 (3)  Les  habilitations  à  ouvrir  de  nouvelles  filières  peuvent  être  accordées  aux Institutions  privées  d'enseignement  supérieur  agréées  ou  homologuées  dans  les  conditions fixées par la réglementation en vigueur.
 
@@ -349,14 +349,14 @@ Les  personnels  administratifs,  financiers  et  techniques  des  Institutions 
 
 [[START OF PAGE 11]]
 
-- Les  modalités  de  cette  coopération  sont  définies  par  des  textes  particuliers.
+(2) Les modalités de cette coopération sont définies par des textes particuliers.
 
 #### Section 3 :  De l'évaluation de l'Enseignement Supérieur
 
 ##### Article 32 :
 (1) L'Enseignement Supérieur est soumis à l'obligation d'évaluations périodiques.
 
-- Les objectifs de ces évaluations sont :
+(2) Les objectifs de ces évaluations sont :
 
 -l'instauration d'une culture et d'une pratique de l'évaluation ;
 
@@ -365,7 +365,7 @@ Les  personnels  administratifs,  financiers  et  techniques  des  Institutions 
 ##### Article 33:
 (1) Le domaine de l'évaluation de l'enseignement supérieur recouvre notamment la politique de l'enseignement supérieur, les Institutions, les activités de formation et de  recherche et la gouvernance.
 
-- Les  modalités  de  l'évaluation  de  l'enseignement  supérieur  sont  fixées  par voie réglementaire.
+(2) Les modalités de l'évaluation de l'enseignement supérieur sont fixées par voie réglementaire.
 
 ## TITRE III DE LA COMMUNAUTE UNIVERSITAIRE
 
@@ -382,7 +382,7 @@ Les  personnels  administratifs,  financiers  et  techniques  des  Institutions 
 
 -les étudiants ou élèves des écoles de formation, selon les cas.
 
-- Les  membres  de  la  Communauté  Universitaire  disposent  de  la  liberté d'information et d'expression qu'ils exercent dans les conditions qui ne portent pas atteinte aux  activités d'enseignement et de recherche et qui ne troublent pas l'ordre public.
+(3) Les membres de la Communauté Universitaire disposent de la liberté d'information et d'expression qu'ils exercent dans les conditions qui ne portent pas atteinte aux activités d'enseignement et de recherche et qui ne troublent pas l'ordre public.
 
 [[END OF PAGE 11]]
 
@@ -410,17 +410,17 @@ Les  autorités  académiques  de  chaque  Institution  publique  d'enseignement
 
 (2) Les Personnels enseignants exercent notamment dans les domaines suivants :
 
-- l'enseignement,  incluant  la  formation  initiale  et  continue,  la  formation  à distance, le tutorat, l'orientation, le conseil et le contrôle des connaissances ;
+a) l'enseignement, incluant la formation initiale et continue, la formation à distance, le tutorat, l'orientation, le conseil et le contrôle des connaissances ;
 
-- la recherche ;
+b) la recherche ;
 
-- la diffusion des connaissances et la liaison avec l'environnement économique, social et culturel ;
+c) la diffusion des connaissances et la liaison avec l'environnement économique, social et culturel ;
 
-- la coopération inter-universitaire nationale et internationale ;
+d) la coopération inter-universitaire nationale et internationale ;
 
-- les activités d'appui au développement ;
+e) les activités d'appui au développement ;
 
-- l'administration et la gestion.
+f) l'administration et la gestion.
 
 ##### Article 39 :
 (1)  Le statut  des  enseignants  des Institutions  universitaires  publiques  est  fixé par voie réglementaire.
@@ -495,7 +495,7 @@ Les  institutions  d'enseignement  supérieur  doivent  développer  des  politi
 
 (2) L'inspection d'un établissement d'enseignement supérieur porte sur la salubrité des locaux et le respect permanent des normes de sécurité.
 
-- L'inspection des enseignements dispensés par les établissements d'enseignement supérieur a pour objet de vérifier que le contenu et les méthodes d'enseignement  et  d'évaluation  sont  conformes  à  l'éthique,  à  la  constitution,  aux  lois  et règlements en vigueur.
+(3) L'inspection des enseignements dispensés par les établissements d'enseignement supérieur a pour objet de vérifier que le contenu et les méthodes d'enseignement et d'évaluation sont conformes à l'éthique, à la constitution, aux lois et règlements en vigueur.
 
 (4) Toute entrave à l'inspection prévue à l'alinéa 1 ci-dessus entraîne des sanctions administratives suivant des modalités fixées par voie réglementaire.
 
@@ -510,11 +510,11 @@ Les  institutions  d'enseignement  supérieur  doivent  développer  des  politi
 
 (3)  Sont  passibles  des  sanctions  prévues  à  l'article  321  (c)  du  Code  Pénal,  les promoteurs d'Institutions privées d'enseignement supérieur qui se rendent coupables de l'une des infractions ci-après :
 
-- l'ouverture d'une Institution privée d'enseignement supérieur sans autorisation préalable ;
+a) l'ouverture d'une Institution privée d'enseignement supérieur sans autorisation préalable ;
 
-- le maintien en fonctionnement d'une Institution privée d'enseignement supérieur fermée à titre provisoire ou définitif ;
+b) le maintien en fonctionnement d'une Institution privée d'enseignement supérieur fermée à titre provisoire ou définitif ;
 
-- la fermeture pendant l'année académique d'une Institution Privée d'Enseignement Supérieur sans autorisation expresse préalable de l'autorité de tutelle compétente.
+c) la fermeture pendant l'année académique d'une Institution Privée d'Enseignement Supérieur sans autorisation expresse préalable de l'autorité de tutelle compétente.
 
 ## TITRE V DISPOSITIONS TRANSITOIRES ET FINALES
 
