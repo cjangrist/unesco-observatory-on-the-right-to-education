@@ -1,249 +1,233 @@
 [[START OF PAGE 1]]
+Le Moniteur
 
-Paraissant du  Lundi  au  Vendredi
+Paraissant
+du Lundi au Vendredi
 
-172'  Annee -No 1
+JOURNAL OFFICIEL DE LA RÉPUBLIQUE D'HAÏTI
 
-JOURNAL OFFICIEL DE LA REPUBLIQUE D'HAITI
+Directeur Général
+Ronald Saint Jean
+
+172e Année – N° 1
 
 PORT-AU-PRINCE
 
+Mardi 3 Janvier 2017
+
 # SOMMAIRE
 
-- Loi  port  ant  regularisation  des frais  scolaires,  votee  au  Senat  de  Ia  Republique  le  10 septembre 2009 et a  Ia  chambre des Deputes le 13 septembre 2009.
+## LOI
 
-* *  *
-
-## ARRETES
-
-- Arrete constituant le Conseil d'Administration du Fonds d'Entretien Routier (FER).
-
-- Arrete constituant le Conseil d'Administration de  Ia Direction Nationale de l'Eau Potable et de l'Assainissement(DINEPA).
-
-- Arrete nommant le citoyen Phanuel SAINFLEUR, Vice-delegue de ['arrondissement de Limbe.
-
-* **
-
-## CONVENTION
-
-- Convention entre l'  Etat Hai.tien et La  Federation Protestante d'Hai"ti (  FPH).
+- Loi portant régularisation des frais scolaires, votée au Sénat de la République le 10 septembre 2009 et à la chambre des Députés le 13 septembre 2009.
 
 * * *
 
-## RESOLUTION
+## ARRÊTÉS
 
-- Resolution No.1 du Conseil des Ministres du 23 decembre 2016 (Resolution de laNATCOM).
+- Arrêté constituant le Conseil d'Administration du Fonds d'Entretien Routier (FER).
 
-Directeur General Ronald Saint Jean
+- Arrêté constituant le Conseil d'Administration de la Direction Nationale de l'Eau Potable et de l'Assainissement (DINEPA).
 
-Mardi  3 Janvier  2017
+- Arrêté nommant le citoyen Phanuel SAINFLEUR, Vice-délégué de l'arrondissement de Limbé.
+
+* * *
+
+## CONVENTION
+
+- Convention entre l'État Haïtien et la Fédération Protestante d'Haïti (FPH).
+
+* * *
+
+## RÉSOLUTION
+
+- Résolution No. 1 du Conseil des Ministres du 23 décembre 2016 (Résolution de la NATCOM).
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
-
 2
 
 << LE MONITEUR >>
 
-No 1 -Mardi 3 Janvier 2017
+N° 1 - Mardi 3 Janvier 2017
 
-LIBERTE
+LIBERTÉ
 
-EGALITE REPUBLIQUE D'HAITI
+ÉGALITÉ
 
-FRATERNITE
+FRATERNITÉ
 
-CORPS LEGISLATIF
+RÉPUBLIQUE D'HAÏTI
 
-# LOIPORTANT REGULARISA  TION DES FRAIS SCOLAIRES
+CORPS LÉGISLATIF
 
-Vu les Articles 6, 22, 32, 32-1, 32-2, 32-3, 32-4, 32-5, 32-6, 32-7, 32-8, 32-9, 33, 133, 136, 156, 200 de la Constitution de  1987;
+# LOI PORTANT RÉGULARISATION DES FRAIS SCOLAIRES
 
-Vu !'Article 26 de la Declaration Universelle des Droits de l'Homme sur le droit a !'education;
+Vu les Articles 6, 22, 32, 32-1, 32-2, 32-3, 32-4, 32-5, 32-6, 32-7, 32-8, 32-9, 33, 133, 136, 156, 200 de la Constitution de 1987 ;
 
-Vu  Ia  Convention relative aux droits de I' enfant en  date du  20 novembre  1989;
+Vu l'Article 26 de la Déclaration Universelle des Droits de l'Homme sur le droit à l'éducation;
 
-Vu  le Decret du  11 VHSWHaEUH 1974 sur l'ouverture et le fonctionnement des ecoles privees;
+Vu la Convention relative aux droits de l'enfant en date du 20 novembre 1989;
 
-Vu  le Decret du  30 mars  1982 sur Ia reforme globale du  systeme educatif ha"itien;
+Vu le Décret du 11 septembre 1974 sur l'ouverture et le fonctionnement des écoles privées;
 
-Vu le decret du 8 juin 1989, conferant au Ministere de !'Education Nationale, de Ia Jeunesse et des Sports la mission de formuler et d'appliquer Ia  politique nationale dans  le domaine de !'education;
+Vu le Décret du 30 mars 1982 sur la réforme globale du système éducatif haïtien;
 
-Considerant les  engagements  pris  par la  Republique d'Ha"iti  en  vue  de  realiser les  objectifs  de !'Education  pour Taus conformement au cadre d' Action de Dakar ;
+Vu le décret du 8 juin 1989, conférant au Ministère de l'Éducation Nationale, de la Jeunesse et des Sports la mission de formuler et d'appliquer la politique nationale dans le domaine de l'éducation;
 
-Considerant les engagements pris par Ia Republique d'Ha'iti en vue d'atteindre les Objectifs de Developpement du Millenaire en  matiere d'education  ;
+Considérant les engagements pris par la République d'Haïti en vue de réaliser les objectifs de l'Éducation pour Tous conformément au cadre d'Action de Dakar ;
 
-Considerant !'engagement de Ia Republique d'Hai'ti  a  promouvoir et proteger les droits des enfants, notamment le droit a I' education  ;
+Considérant les engagements pris par la République d'Haïti en vue d'atteindre les Objectifs de Développement du Millénaire en matière d'éducation ;
 
-Considerant que le coOt eleve des frais  scolaires constitue une des barrieres importantes  a I' acces  a I' education  ;
+Considérant l'engagement de la République d'Haïti à promouvoir et protéger les droits des enfants, notamment le droit à l'éducation ;
 
-Considerant que  le Plan  National  d'Education et de  Formation  (PNEF)  constitue le  document cadre de politique pour  toutes  les  actions  visant  !'amelioration de  la  qualite  de  !'Education  et  le  renforcement  de  la  Gouvemance du Systeme educatif haHien  ;
+Considérant que le coût élevé des frais scolaires constitue une des barrières importantes à l'accès à l'éducation ;
 
-Considerant  qu'il  importe  pour  l'Etat  ha!tien  d'arreter  toutes  mesures  visant  a retablir  l'equite  d'acces  a 1' education,  notamment  par  le  controle  des  couts  y  relatifs  en  attendant  l' application  stricte  de l' article  32.1  de  Ia Constitution.
+Considérant que le Plan National d'Éducation et de Formation (PNEF) constitue le document cadre de politique pour toutes les actions visant l'amélioration de la qualité de l'Éducation et le renforcement de la Gouvernance du Système éducatif haïtien ;
 
-Sur proposition du Senateur Kely C. BASTIEN, le corps Legislatif a vote La loi suivante:
+Considérant qu'il importe pour l'État haïtien d'arrêter toutes mesures visant à rétablir l'équité d'accès à l'éducation, notamment par le contrôle des coûts y relatifs en attendant l'application stricte de l'article 32.1 de la Constitution.
 
-## I. Du Controle et du Paiement des frais Scolaires
+Sur proposition du Sénateur Kély C. BASTIEN, le corps Législatif a voté la loi suivante :
 
-### Article 1
-Taus les frais  de scolarite sont payes en  monnaie nationale.
+## I. Du Contrôle et du Paiement des frais Scolaires
+
+### Article 1-
+Tous les frais de scolarité sont payés en monnaie nationale.
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
-
-No 1 -Mardi 3  Janvier 2017
+N° 1 - Mardi 3 Janvier 2017
 
 << LE MONITEUR >>
 
 3
 
-### Article 2.
-Les frais  de reinscription et/ou de confirmation de place sont interdits. Toutefois, en cas d'admission en classe superieure, Ies  parents ou  a  detaut le tuteur sont tenus de signer un  contrat les engageant a garder I' eleve a  I' ecole pour Ia  prochaine an  nee scolaire.
+### Article 2.-
+Les frais de réinscription et/ou de confirmation de place sont interdits. Toutefois, en cas d'admission en classe supérieure, les parents ou à défaut le tuteur sont tenus de signer un contrat les engageant à garder l'élève à l'école pour la prochaine année scolaire.
 
-### Article 2.1.
-A  la signature du contrat un depot de garantie ne depassant pas cinq cents (500) gourdes est verse. Ce montant n'  est pas remboursable, si I' eleve quitte I' etablissement. Dans le cas contraire, il est deductible des  frais  scolaires.
+### Article 2.1.-
+À la signature du contrat un dépôt de garantie ne dépassant pas cinq cents (500) gourdes est versé. Ce montant n'est pas remboursable, si l'élève quitte l'établissement. Dans le cas contraire, il est déductible des frais scolaires.
 
-### Article 3.
-Le  MENFP identifie  Ies  charges  couvertes  par le  paiement  des  frais  annuels.  Ces  frais  couvrent prioritairement les domaines suivants: eau potable, electricite, materiels d'examens, Ies materiels de travail  (bane, craie, effaceur), Ies  kits d'hygiene, le sport, les frais d'assurance, Ies  toilettes.
+### Article 3.-
+Le MENFP identifie les charges couvertes par le paiement des frais annuels. Ces frais couvrent prioritairement les domaines suivants : eau potable, électricité, matériels d'examens, les matériels de travail (banc, craie, effaceur), les kits d'hygiène, le sport, les frais d'assurance, les toilettes.
 
-Le montant des frais annuels ne doit, en aucun cas, depasser !'equivalent de deux (2) mois de scolarite pour le prescolaire et de trois (3)  mois de scolarite pour Ie fondamental et Ie  secondaire.
+Le montant des frais annuels ne doit, en aucun cas, dépasser l'équivalent de deux (2) mois de scolarité pour le préscolaire et de trois (3) mois de scolarité pour le fondamental et le secondaire.
 
 ### Article 3.-1
-Les frais  annuels sont payes comme suit :
+Les frais annuels sont payés comme suit :
 
-50% a la rentree des classes
+50% à la rentrée des classes
 
-25%, au debut du  second trimestre
+25% au début du second trimestre
 
-25% au debut du troisieme trimestre
+25% au début du troisième trimestre
 
-### Article 4.
-L'augmentation des frais d'entree annuels et des scolarites mensuelles scolaires ne peut etre envisage que to  us  les quatre (  4) ans.  Dans to  us  les cas, elle ne pourra depasser I  0%.
+### Article 4.-
+L'augmentation des frais d'entrée annuels et des scolarités mensuelles scolaires ne peut être envisagé que tous les quatre (4) ans. Dans tous les cas, elle ne pourra dépasser 10%.
 
-### Article 5.
-Les frais pour les ceremonies de graduation du kindergarden sont interdits. Par contre, ils sont facultatifs pour Ies cleves de terminale. La realisation de telles activites est sujette au consentement prealable et eclaire des parents. Le montant de cotisation ne doit pas depasser !'equivalent deux mois de scolarite et devra etre paye en monnaie nationale.
+### Article 5.-
+Les frais pour les cérémonies de graduation du kindergarden sont interdits. Par contre, ils sont facultatifs pour les élèves de terminale. La réalisation de telles activités est sujette au consentement préalable et éclairé des parents. Le montant de cotisation ne doit pas dépasser l'équivalent deux mois de scolarité et devra être payé en monnaie nationale.
 
-## II- Des activites commerciales parascolaires
+## II- Des activités commerciales parascolaires
 
-### Article 6.
-II  est strictement interdit a un  professeur de donner des cours particuliers a un ou plusieurs cleves de sa classe sans le consentement prealable et eclaire des parents, ainsi que du  conseil pedagogique de la  direction.
+### Article 6.-
+Il est strictement interdit à un professeur de donner des cours particuliers à un ou plusieurs élèves de sa classe sans le consentement préalable et éclairé des parents, ainsi que du conseil pédagogique de la direction.
 
-### Article 7.
-Toute ecole se livrant a des pratiques de vente de tissus d'uniforme doit detenir sa patente de la DGI et se doit de remplir toutes formalites y relatives notamment le paiement des impots et taxes.
+### Article 7.-
+Toute école se livrant à des pratiques de vente de tissus d'uniforme doit détenir sa patente de la DGI et se doit de remplir toutes formalités y relatives notamment le paiement des impôts et taxes.
 
-### Article 8.
-Les  directions  d' ecole  doivent  tenir  leurs  livres  comptables  a jour aux  fins  de  consultation  et de verification par Ia DGI et Ie MENFP.
+### Article 8.-
+Les directions d'école doivent tenir leurs livres comptables à jour aux fins de consultation et de vérification par la DGI et le MENFP.
 
 ## III- Des recours ou du service des contentieux
 
-### Article 9.
-II  est cree au  niveau de chaque direction departementale du  MENFP un  serv_ice des contentieux.
+### Article 9.-
+Il est créé au niveau de chaque direction départementale du MENFP un service des contentieux.
 
-### Article 9.1
-Les parents, les cleves, les enseignants, les directeurs d'  ecoles ou  tout citoyen se sentant concemes ou  Ieses  dans le cadre de !'application de cette loi peuvent s'adresser aux services des contentieux des bureaux departementaux du MENFP.
+### Article 9.1-
+Les parents, les élèves, les enseignants, les directeurs d'écoles ou tout citoyen se sentant concernés ou lésés dans le cadre de l'application de cette loi peuvent s'adresser aux services des contentieux des bureaux départementaux du MENFP.
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+4
 
 << LE MONITEUR >>
 
-No  1  -Mardi 3  Janvier 2017
+N° 1 - Mardi 3 Janvier 2017
 
-4
+### Article 9 2-
+Chaque plainte doit être documentée. Une fois saisi, le MENFP dispose d'un délai de 20 jours ouvrables pour produire sa décision.
 
-### Article 9 2
-Chaque plainte  doit  etre  documentee.  Une  fois  saisi,  le MENFP dispose  d' un  delai  de  20 jours ouvrables  pour produire sa decision.
+### Article 9.3-
+Les décisions du MENFP, dans le cadre d'application de cette loi, sont finales.
 
-### Article 9.3
-Les decisions du MENFP, dans le cadre d'application de cette loi, sont finales.
+### Article 10.-
+Le cas de tout élève puni ou chassé d'un établissement dans le cadre de l'application de cette loi fera l'objet d'une documentation de la direction. Celle-ci est soumise à ses parents, au comité des parents de l'établissement, au MENFP via ses directions départementales à toutes fins utiles.
 
-### Article 10.
-Le cas de  tout eleve puni ou  chasse d'un etablissement dans le cadre de !'application de cette loi fera  !'objet d'une documentation de Ia  direction. Celle-ci est soumise a  ses  parents, au  comite des parents de l'etablissement, au MENFP via ses directions departementales a toutes fins  utiles.
+### Article 11.-
+Les parents, les élèves, les enseignants coupables de complicité et/ou de violation de la présente loi versent une amende de 5,000 gourdes à la DGI pour le compte du MENFP.
 
-### Article  11.
-Les parents, les eleves, les enseignants coupables de complicite et/ou de violation de Ia presente loi versent une amende de 5,000 gourdes a  Ia DGI pour lecompte du MENFP.
+### Article 11-1.-
+Le directeur d'école coupable de complicité ou de violation de cette loi verse une amende de cinquante mille (50,000.00) gourdes à la DGI pour le compte du MENFP.
 
-### Article 11-1.
-Le directeur  d'ecole coupable  de  complicite  ou  de  violation  de  cette  loi  verse  une  amende  de cinquante mille (50,000.00) gourdes a  Ia DGI pour lecompte du MENFP.
+En cas de refus du paiement de l'amende, le MENFP prend les dispositions appropriées conformément aux dispositions du Code Pénal.
 
-En cas de refus du paiement de I' amende, le MENFP prend les dispositions appropriees conformement aux  dispositions du  Code Penal.
+## CHAPITRE IV DISPOSITIONS FINALES
 
-## CHAPITREIV DISPOSITIONS FINALES
+### Article 12.-
+La présente Loi abroge toutes Lois ou dispositions de lois, tous décrets ou dispositions de décrets, tous décrets-lois ou dispositions de décrets-lois qui lui sont contraires et sera publiée à la diligence du Ministère de l'Éducation Nationale et de la Formation Professionnelle, du Ministère de l'Économie et des Finances, du Ministère des Affaires Sociales et du Travail, chacun en ce qui le concerne.
 
-### Article 12.
-La  presente  Loi  abroge WXXWFa Lois  ou  dispositions  de  lois,  tous  decrets  ou  dispositions  de decrets,  tous decrets-lois RFa dispositions  de  decrets-lois  qui  lui  sont contraires  et  sera  publiee a Ia diligence du  Ministere de I' Education  Nationale et de Ia  Formation Professionnelle, du  Ministere de I'Economie et  des  Finances,  du  Ministere  des  Affaires  Sociales et  du  Travail,  chacun  en  ce qui  le concern  e.
+Votée au Sénat de la République, le jeudi 10 septembre 2009, An 206e de l'Indépendance.
 
-Yo  tee au  Senat de  Ia Republique, le jeudi  10 septembre 2009, An a de l'Independance.
+Sénateur Kély C. BASTIEN
+Président
 
-Senateur aHUUH Franky EX Premier Secretaire
+Sénateur Pierre Franky EXIUS
+Premier Secrétaire
 
-r Kely C. BASTIEN President
-
-teur Jean Willy Deuxieme Se  ntaire
+Sénateur Jean Willy JEAN BAPTISTE
+Deuxième Secrétaire
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
-
-No 1 -Mardi 3 Janvier 2017
+N° 1 - Mardi 3 Janvier 2017
 
 << LE MONITEUR >>
 
 5
 
--
+Votée à la Chambre des Députés, le dimanche 13 septembre 2009, An 206e de l'Indépendance.
 
--
+Député Levaillant LOUIS JEUNE
+Président
 
-I
+Député Francenet DENIUS
+Premier Secrétaire
 
-Votee a  Ia Chambre des Deputes,  le dimanche 13 septembre 2009, An 206<  de l'Independance.
+Député Miolii CHARLES PIERRE
+Deuxième Secrétaire
 
-/     aa
+LIBERTÉ
 
-a  aB    āāāāāā
+ÉGALITÉ
 
-.
+FRATERNITÉ
 
-...
+RÉPUBLIQUE D'HAÏTI
 
-,... _.·
+# AU NOM DE LA RÉPUBLIQUE
 
-Premier Secretaire
+Par les présentes,
 
-LIBERTE
+Le Président de la République ordonne que la Loi portant régularisation des frais scolaires, votée au Sénat de la République le 10 septembre 2009 et à la Chambre des Députés le 13 septembre 2009, soit revêtue du sceau de la République, imprimée, publiée et exécutée.
 
-/     aa
+Donné au Palais National, à Port-au-Prince, le 19 décembre 2016, An 213e de l'Indépendance.
 
-Depute Levaillant LOUIS JEUNE President
-
-a  aB    āāāāāā
-
-.
-
-...
-
-,... _.·
-
-EGALITE
-
-REPUBLIQUE D'HAITI
-
-# AU NOM DE LA REPUBLIQUE
-
-FRATERNITE
-
-Par les presentes,
-
-Le President de Ia Republique ordonne que Ia  Loi  portant regularisation des  frais  scolaires,  votee au  Senat de  Ia Republique  le  10  septembre  2009  et  a  Ia  Chambre des  Deputes  le  13  septembre  2009,  soit  revetue  du  sceau  de  Ia Republique, imprimee, publiee et executee.
-
-Donne au Palais National, a  Port-au-Prince, le  19 decembre 2016, An  213· de l'Independance.
-
-FWa
-
-Jocelerme PRIVERT President Provisoire de Ia  Republique
+Jocelerme PRIVERT
+Président Provisoire de la République
 
 [[END OF PAGE 5]]
