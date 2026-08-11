@@ -124,11 +124,13 @@ En République populaire démocratique de Corée, les moyens de production appar
 
 La propriété de l'État est celle du peuple entier. L'étendue du droit de propriété de l'État n'est pas limitée. L'ensemble des richesses naturelles du pays, les chemins de fer, les moyens de transport aérien, les postes et télécommunications ainsi que les usines, les entreprises, les ports et
 
-les banques importants sont la propriété exclusive de l'État. L'Etat accorde la priorité à la protection et à l'extension de sa propriété qui joue un rôle prépondérant dans le développement économique du pays.
+les banques importants sont la propriété exclusive de l'État. L'Etat accorde la priorité à la
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+protection et à l'extension de sa propriété qui joue un rôle prépondérant dans le développement économique du pays.
 
 ### Article 22
 
@@ -322,6 +324,8 @@ L'Etat soumet la production aux mesures nécessaires à la protection de l'envir
 
 [[START OF PAGE 12]]
 
+## Chapitre IV - Défense nationale
+
 ### Article 58
 
 La République populaire démocratique de Corée s'appuie sur un système de défense assurée par le peuple et l'État.
@@ -347,8 +351,6 @@ Le statut du citoyen de la République populaire démocratique de Corée est dé
 ### Article 63
 
 En République populaire démocratique de Corée, les droits et les devoirs du citoyen reposent sur le principe du collectivisme : « Un pour tous, tous pour un ».
-
-## Chapitre IV - Défense nationale
 
 [[END OF PAGE 12]]
 
@@ -488,9 +490,9 @@ L'Assemblée populaire suprême est constituée des députés élus au scrutin s
 
 #### Article 90
 
-Le mandat de l'Assemblée populaire suprême est de cinq ans. l'ancienne selon une décision de son Présidium.
-
-L'élection de la nouvelle Assemblée populaire suprême a lieu avant la fin du mandat de Lorsque l'élection ne peut avoir lieu pour une raison majeure, le mandat de l'Assemblée se prolonge jusqu'à l'élection de la nouvelle Assemblée.
+Le mandat de l'Assemblée populaire suprême est de cinq ans.
+L'élection de la nouvelle Assemblée populaire suprême a lieu avant la fin du mandat de l'ancienne selon une décision de son Présidium.
+Lorsque l'élection ne peut avoir lieu pour une raison majeure, le mandat de l'Assemblée se prolonge jusqu'à l'élection de la nouvelle Assemblée.
 #### Article 91
 
 L'Assemblée populaire suprême a le pouvoir de : 1) Réviser ou amender la Constitution, 2) Établir, réviser ou amender les lois, 3) Approuver les lois importantes adoptées par le Présidium de l'Assemblée populaire suprême pendant une vacance de celle-ci, 4) Arrêter les principes fondamentaux de la politique intérieure et extérieure de l'État, 5) Élire ou révoquer le Président du Comité de la défense nationale de la République populaire démocratique de Corée, 6) Élire ou révoquer le président du Présidium de l'Assemblée populaire suprême, 7) Élire ou révoquer le premier vice-président, les vice-présidents ou les membres du Comité de la défense nationale de la République populaire démocratique de Corée sur proposition du Président de ce comité, 8) Élire ou révoquer les vice-présidents, les vice-présidents d'honneur, le secrétaire général et les membres du Présidium de l'Assemblée populaire suprême, 9) Élire ou révoquer le Premier ministre, 10) Nommer les vice-Premiers ministres, les présidents de comité, les ministres et autres membres du Cabinet des ministres sur proposition du Premier ministre, 11) Nommer ou destituer le procureur général du Parquet suprême, 12) Élire ou révoquer le président de la Cour suprême, 13) Élire ou révoquer les présidents, les vice-présidents et les membres des commissions sectorielles de l'Assemblée populaire suprême, 14) Examiner le plan de l'État pour le développement de l'économie nationale et son rapport d'exécution et les approuver, 15) Examiner le budget de l'État et son rapport d'exécution et les approuver,
@@ -599,17 +601,12 @@ La durée du mandat du Comité de la défense nationale est identique à celle d
 
 Le Comité de la défense nationale a le devoir et le pouvoir de :
 
-- Définir les points importants de la politique d'État visant à l'application de la ligne de la révolution fondée sur le Songun,
-
-- Diriger l'ensemble des forces armées de l'État et l'édification de la défense nationale,
-
-- Surveiller l'exécution des ordres du Président du Comité de la défense nationale de la République populaire démocratique de Corée, des décisions et des directives du Comité de la défense nationale et prendre les mesures nécessaires en la matière,
-
-- Abroger les décisions et les directives des organismes de l'État allant à l'encontre des ordres du Président du Comité de la défense nationale de la République populaire démocratique de Corée et des décisions et directives du Comité de la défense nationale,
-
-- Créer des organismes centraux du secteur de la défense nationale ou en supprimer,
-
-- Instituer des titres militaires et décerner les titres militaires égaux ou supérieurs à celui de général.
+1) Définir les points importants de la politique d'État visant à l'application de la ligne de la révolution fondée sur le Songun,
+2) Diriger l'ensemble des forces armées de l'État et l'édification de la défense nationale,
+3) Surveiller l'exécution des ordres du Président du Comité de la défense nationale de la République populaire démocratique de Corée, des décisions et des directives du Comité de la défense nationale et prendre les mesures nécessaires en la matière,
+4) Abroger les décisions et les directives des organismes de l'État allant à l'encontre des ordres du Président du Comité de la défense nationale de la République populaire démocratique de Corée et des décisions et directives du Comité de la défense nationale,
+5) Créer des organismes centraux du secteur de la défense nationale ou en supprimer,
+6) Instituer des titres militaires et décerner les titres militaires égaux ou supérieurs à celui de général.
 
 #### Article 110
 
@@ -627,7 +624,7 @@ Le Présidium de l'Assemblée populaire suprême est l'organe suprême du pouvoi
 
 #### Article 113
 
-Le Présidium de l'Assemblée populaire suprême est composé d'un président, de viceprésidents, d'un secrétaire général et de membres.
+Le Présidium de l'Assemblée populaire suprême est composé d'un président, de vice-présidents, d'un secrétaire général et de membres.
 
 #### Article 114
 
@@ -646,29 +643,21 @@ Le mandat du Présidium de l'Assemblée populaire suprême est de durée identiq
 
 Le Présidium de l'Assemblée populaire suprême a le devoir et le pouvoir de : 1) Convoquer l'Assemblée populaire suprême, 2) Examiner les nouveaux projets de loi et de règlement et les projets d'amendement des lois et des règlements en vigueur présentés pendant une vacance de l'Assemblée populaire suprême, les adopter et obtenir, lors de la session suivante de l'Assemblée populaire suprême, la ratification des lois importantes adoptées et mises en vigueur pendant ce temps, 3) Examiner et approuver les projets de plan de l'État pour le développement de l'économie nationale, ceux de budget de l'État et les éventuels amendements qui interviendraient pour des raisons majeures, pendant une vacance de l'Assemblée populaire suprême, 4) Interpréter la Constitution, les lois et les règlements en vigueur, 5) Surveiller l'application et l'exécution des lois par les organismes de l'État et prendre les mesures nécessaires, 6) Abolir les décisions et directives prises par les organismes de l'État et qui iraient à l'encontre de la Constitution, des lois et décisions de l'Assemblée populaire suprême, des ordres du Président du Comité de la défense nationale de la République populaire démocratique de Corée, des décisions et ordres du Comité de la défense nationale, des décrets, décisions et directives du Présidium de l'Assemblée populaire suprême, et suspendre l'exécution des décisions illégitimes des assemblées populaires locales, 7) Préparer l'élection des députés à l'Assemblée populaire suprême et organiser celle des députés aux assemblées populaires locales, 8) Procéder au travail avec les députés à l'Assemblée populaire suprême, 9) Procéder au travail avec les commissions sectorielles de l'Assemblée populaire suprême,
 
-- Établir ou supprimer les comités et les ministères du Cabinet des ministres,
+10) Établir ou supprimer les comités et les ministères du Cabinet des ministres,
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
 
-- Nommer ou destituer les vice-Premiers ministres, les présidents de comité, les ministres et autres membres du Cabinet des ministres sur proposition du Premier ministre pendant une vacance de l'Assemblée populaire suprême,
-
-- Nommer ou destituer les membres des commissions sectorielles du Présidium de l'Assemblée populaire suprême,
-
-- Élire ou révoquer les juges et les assesseurs populaires de la Cour suprême,
-
-- Ratifier ou annuler les traités conclus avec les autres pays,
-
-- Décider de la nomination ou du rappel des représentants diplomatiques accrédités à l'étranger et les publier,
-
-- Instituer les ordres, médailles, titres honorifiques et grades diplomatiques et décerner les ordres, médailles et titres honorifiques,
-
-- Exercer le droit d'amnistie,
-
-- Instituer ou modifier les unités administratives et les circonscriptions administratives,
-
-- Mener des activités sur le plan extérieur, notamment à l'endroit des parlements d'autres pays et des organisations parlementaires internationales.
+11) Nommer ou destituer les vice-Premiers ministres, les présidents de comité, les ministres et autres membres du Cabinet des ministres sur proposition du Premier ministre pendant une vacance de l'Assemblée populaire suprême,
+12) Nommer ou destituer les membres des commissions sectorielles du Présidium de l'Assemblée populaire suprême,
+13) Élire ou révoquer les juges et les assesseurs populaires de la Cour suprême,
+14) Ratifier ou annuler les traités conclus avec les autres pays,
+15) Décider de la nomination ou du rappel des représentants diplomatiques accrédités à l'étranger et les publier,
+16) Instituer les ordres, médailles, titres honorifiques et grades diplomatiques et décerner les ordres, médailles et titres honorifiques,
+17) Exercer le droit d'amnistie,
+18) Instituer ou modifier les unités administratives et les circonscriptions administratives,
+19) Mener des activités sur le plan extérieur, notamment à l'endroit des parlements d'autres pays et des organisations parlementaires internationales.
 
 #### Article 117
 
@@ -720,21 +709,23 @@ l'Assemblée populaire suprême
 
 Le Cabinet des ministres a le devoir et le pouvoir de :
 
-- Prendre les mesures nécessaires à l'exécution de la politique de l'État,
-
-- Établir, réviser ou amender les règlements relatifs à la gestion de l'État à la lumière de la Constitution et des lois,
-
-- Diriger le travail des comités, des ministères, des organismes qui lui sont directement subordonnés et des comités populaires locaux,
-
-- Instituer ou supprimer les organismes qui lui sont directement subordonnés, les organismes de l'administration et de l'économie et les entreprises importants et prendre les mesures nécessaires pour perfectionner l'appareil de gestion de l'État,
+1) Prendre les mesures nécessaires à l'exécution de la politique de l'État,
+2) Établir, réviser ou amender les règlements relatifs à la gestion de l'État à la lumière de la Constitution et des lois,
+3) Diriger le travail des comités, des ministères, des organismes qui lui sont directement subordonnés et des comités populaires locaux,
+4) Instituer ou supprimer les organismes qui lui sont directement subordonnés, les organismes de l'administration et de l'économie et les entreprises importants et prendre les mesures nécessaires pour perfectionner l'appareil de gestion de l'État,
 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
 
-- Élaborer le plan de l'État pour le développement de l'économie nationale et prendre les mesures nécessaires à son exécution, 6) Établir le budget de l'État et arrêter les mesures requises pour son exécution, 7) Organiser le travail et assurer son exécution dans les différents secteurs, notamment l'industrie, l'agriculture, le bâtiment, les transports, les postes et télécommunications, le commerce intérieur, le commerce extérieur, l'administration du territoire national, l'urbanisme, l'éducation, la science, la culture, la santé publique, le sport, le travail, l'environnement et le tourisme, 8) Arrêter les mesures nécessaires à la consolidation du système monétaire et bancaire, 9) Procéder au travail d'inspection et de contrôle pour assurer l'ordre dans la gestion de l'État, 10) Prendre les mesures nécessaires pour maintenir l'ordre public, protéger la propriété et les intérêts de l'État et des organisations sociales ou coopératives et assurer les droits des citoyens, 11) Conclure des traités avec d'autres pays et s'occuper des affaires étrangères, 12) Abroger les décisions et directives des organismes de l'administration et de
-
-- l'économie lorsqu'elles s'avèrent contraires à ses propres décisions et directives.
+5) Élaborer le plan de l'État pour le développement de l'économie nationale et prendre les mesures nécessaires à son exécution,
+6) Établir le budget de l'État et arrêter les mesures requises pour son exécution,
+7) Organiser le travail et assurer son exécution dans les différents secteurs, notamment l'industrie, l'agriculture, le bâtiment, les transports, les postes et télécommunications, le commerce intérieur, le commerce extérieur, l'administration du territoire national, l'urbanisme, l'éducation, la science, la culture, la santé publique, le sport, le travail, l'environnement et le tourisme,
+8) Arrêter les mesures nécessaires à la consolidation du système monétaire et bancaire,
+9) Procéder au travail d'inspection et de contrôle pour assurer l'ordre dans la gestion de l'État,
+10) Prendre les mesures nécessaires pour maintenir l'ordre public, protéger la propriété et les intérêts de l'État et des organisations sociales ou coopératives et assurer les droits des citoyens,
+11) Conclure des traités avec d'autres pays et s'occuper des affaires étrangères,
+12) Abroger les décisions et directives des organismes de l'administration et de l'économie lorsqu'elles s'avèrent contraires à ses propres décisions et directives.
 
 #### Article 126
 
@@ -856,7 +847,7 @@ l'assemblée populaire correspondante.
 
 - Le comité populaire local a le devoir et le pouvoir de : 1) Convoquer les sessions de l'assemblée populaire, 2) Organiser l'élection des députés à l'assemblée populaire, 3) Procéder au travail avec les députés à l'assemblée populaire, 4) Exécuter les décisions et directives de l'assemblée populaire de sa circonscription et du comité populaire de l'échelon supérieur, les lois et décisions de l'Assemblée populaire suprême, les ordres du Président du Comité de la défense nationale de la République populaire démocratique de Corée, les décisions et directives du Comité de la défense nationale, les décrets, décisions et directives du Présidium de l'Assemblée populaire suprême, les décisions et directives du Cabinet des ministres, des comités et des ministères du Cabinet,
 
-- Organiser et exécuter l'ensemble du travail administratif dans sa région,
+5) Organiser et exécuter l'ensemble du travail administratif dans sa région,
 
 [[END OF PAGE 28]]
 
@@ -892,6 +883,8 @@ des ministres et au Présidium de l'Assemblée populaire suprême.
 
 [[START OF PAGE 30]]
 
+### 8. Le Parquet et la Cour
+
 #### Article 153
 
 Les enquêtes sont effectuées par le Parquet suprême et les parquets de province (ou de ville relevant directement des autorités centrales), de ville (ou d'arrondissement urbain) et d'arrondissement ainsi que par le parquet spécial.
@@ -906,9 +899,10 @@ Les procureurs sont nommés et révoqués par le Parquet suprême.
 
 #### Article 156
 
-- Le parquet a le devoir de : 1) Surveiller les organismes et les entreprises, les organisations et les citoyens pour s'assurer qu'ils observent strictement la loi de l'État, 2) Vérifier les décisions et directives des organismes de l'État pour s'assurer qu'elles ne vont pas à l'encontre de la Constitution, des lois et décisions de l'Assemblée populaire suprême, des ordres du Président du Comité de la défense nationale de la République populaire démocratique de Corée, des décisions et directives du Comité de la défense nationale, des décrets, décisions et directives du Présidium de l'Assemblée populaire suprême, des décisions et directives du Cabinet des ministres, 3) Surprendre les criminels et autres contrevenants et engager des poursuites contre eux
-
-- en vertu de la loi, afin de préserver le pouvoir et le régime socialiste de la République populaire démocratique de Corée, de protéger les biens de l'État et des organisations sociales ou coopératives, les droits constitutionnels, la vie et les biens du peuple.
+Le parquet a le devoir de :
+1) Surveiller les organismes et les entreprises, les organisations et les citoyens pour s'assurer qu'ils observent strictement la loi de l'État,
+2) Vérifier les décisions et directives des organismes de l'État pour s'assurer qu'elles ne vont pas à l'encontre de la Constitution, des lois et décisions de l'Assemblée populaire suprême, des ordres du Président du Comité de la défense nationale de la République populaire démocratique de Corée, des décisions et directives du Comité de la défense nationale, des décrets, décisions et directives du Présidium de l'Assemblée populaire suprême, des décisions et directives du Cabinet des ministres,
+3) Surprendre les criminels et autres contrevenants et engager des poursuites contre eux en vertu de la loi, afin de préserver le pouvoir et le régime socialiste de la République populaire démocratique de Corée, de protéger les biens de l'État et des organisations sociales ou coopératives, les droits constitutionnels, la vie et les biens du peuple.
 
 #### Article 157
 
@@ -917,8 +911,6 @@ Le Parquet suprême dirige uniformément les enquêtes, et chaque instance du pa
 #### Article 158
 
 Le Parquet suprême répond de ses activités devant l'Assemblée populaire suprême et, pendant une vacance de celle-ci, devant son Présidium.
-
-### 8. Le Parquet et la Cour
 
 [[END OF PAGE 30]]
 
