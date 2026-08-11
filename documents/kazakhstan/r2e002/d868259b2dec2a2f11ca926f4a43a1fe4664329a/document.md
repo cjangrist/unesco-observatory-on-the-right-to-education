@@ -2,7 +2,7 @@
 
 1/13/2021
 
-The Constitution of the Republic of Kazakhstan - Official site of the President of the Republic of Kazakhstan
+The Constitution of the Republic of Kazakhstan — Official site of the President of the Republic of Kazakhstan
 
 ҚАЗ (/KZ/OFFICIAL_DOCUMENTS/CONSTITUTION)   РУС (/RU/OFFICIAL_DOCUMENTS/CONSTITUTION)
 
@@ -16,7 +16,7 @@ ser/akordapress)
 
 (https://twitter.com/AkordaPress)
 
-(https://www.facebook.com/AkordaPress) (/en/rss) 
+(https://www.facebook.com/AkordaPress)  (/en/rss)
 
 (/en)
 
@@ -160,9 +160,9 @@ We, the people of Kazakhstan, united by a common historic fate, creating a state
 
 
 
-https://www.akorda.kz/en/official_documents/constitution
-
 ## Section I
+
+https://www.akorda.kz/en/official_documents/constitution
 
 1/23
 
@@ -172,7 +172,7 @@ https://www.akorda.kz/en/official_documents/constitution
 
 1/13/2021
 
-The Constitution of the Republic of Kazakhstan - Official site of the President of the Republic of Kazakhstan
+The Constitution of the Republic of Kazakhstan — Official site of the President of the Republic of Kazakhstan
 
 ### General Provisions
 
@@ -244,29 +244,7 @@ https://www.akorda.kz/en/official_documents/constitution
 
 1/13/2021
 
-### Person and Citizen
-
-#### Article 10
-
-- Citizenship of the Republic of Kazakhstan shall be acquired and terminated, as prescribed by law and shall be indivisible and equal regardless of the grounds of its acquisition.
-
-- A citizen of the Republic shall not be deprived of citizenship, the right to change such citizenship, and also may not be expelled from Kazakhstan. Deprivation of citizenship is allowed only by a court decision for the commission of terrorist crimes, as well as for causing other grave harm to the vital interests of the Republic of Kazakhstan.
-
-- Foreign citizenship of a citizen of the Republic shall not be recognized.
-
-Footnote: See resolution of the Constitutional Council of the Republic of Kazakhstan No. 12 dated December 1, 2003.
-
-Footnote: Article 10 as amended by the Law of the Republic of Kazakhstan No. 51-VI dated March 10, 2017 (shall be applied from the date of its first official publication).
-
-#### Article 11
-
-- A citizen of the Republic of Kazakhstan shall not be extradited to a foreign state unless otherwise stipulated by international agreements of the Republic. 
-
-- The Republic shall guarantee protection and patronage to its citizens outside its boundaries.
-
-#### Article 12
-
-The Constitution of the Republic of Kazakhstan - Official site of the President of the Republic of Kazakhstan
+The Constitution of the Republic of Kazakhstan — Official site of the President of the Republic of Kazakhstan
 
 - Activities of political parties and trade unions of other states, religious parties, as well as the financing of political parties and trade unions of foreign legal entities and citizens, foreign states and international organizations shall not be permitted in the Republic.
 
@@ -290,13 +268,13 @@ Footnote: See resolution of the Constitutional Council of the Republic of Kazakh
 
 - The state language of the Republic of Kazakhstan shall be the Kazakh language.
 
-- Russian  language  shall  be  officially  used  on  equal  grounds  along  with  the  Kazakh  language  in  state  institutions  and  local  selfadministrative bodies.
+- Russian language shall be officially used on equal grounds along with the Kazakh language in state institutions and local self-administrative bodies.
 
 - The state shall promote conditions for the study and development of the languages of the people of Kazakhstan.
 
 #### Article 8
 
-The Republic of Kazakhstan shall respect principles and norms of international law, shape policy of cooperation and good-neighbourly relations between states, their equality and non-interference in each other's domestic affairs, peaceful settlement of international disputes and renounce the [first] use of military force.
+The Republic of Kazakhstan shall respect principles and norms of international law, shape policy of cooperation and good-neighbourly relations between states, their equality and non-interference in each other’s domestic affairs, peaceful settlement of international disputes and renounce the [first] use of military force.
 
 Footnote: See resolution of the Constitutional Council of the Republic of Kazakhstan No.1/2 dated April 12, 2001.
 
@@ -308,6 +286,28 @@ Footnote. Article 9 as amended in the Kazakh language, the text in the Russian l
 
 ## Section II
 
+### Person and Citizen
+
+#### Article 10
+
+- Citizenship of the Republic of Kazakhstan shall be acquired and terminated, as prescribed by law and shall be indivisible and equal regardless of the grounds of its acquisition.
+
+- A citizen of the Republic shall not be deprived of citizenship, the right to change such citizenship, and also may not be expelled from Kazakhstan. Deprivation of citizenship is allowed only by a court decision for the commission of terrorist crimes, as well as for causing other grave harm to the vital interests of the Republic of Kazakhstan.
+
+- Foreign citizenship of a citizen of the Republic shall not be recognized.
+
+Footnote: See resolution of the Constitutional Council of the Republic of Kazakhstan No. 12 dated December 1, 2003.
+
+Footnote: Article 10 as amended by the Law of the Republic of Kazakhstan No. 51-VI dated March 10, 2017 (shall be applied from the date of its first official publication).
+
+#### Article 11
+
+- A citizen of the Republic of Kazakhstan shall not be extradited to a foreign state unless otherwise stipulated by international agreements of the Republic. 
+
+- The Republic shall guarantee protection and patronage to its citizens outside its boundaries.
+
+#### Article 12
+
 https://www.akorda.kz/en/official_documents/constitution
 
 3/23
@@ -318,7 +318,7 @@ https://www.akorda.kz/en/official_documents/constitution
 
 1/13/2021
 
-The Constitution of the Republic of Kazakhstan - Official site of the President of the Republic of Kazakhstan
+The Constitution of the Republic of Kazakhstan — Official site of the President of the Republic of Kazakhstan
 
 - Human rights and freedoms in the Republic of Kazakhstan shall be recognized and guaranteed in accordance with this Constitution.
 
@@ -396,7 +396,7 @@ https://www.akorda.kz/en/official_documents/constitution
 
 1/13/2021
 
-The Constitution of the Republic of Kazakhstan - Official site of the President of the Republic of Kazakhstan
+The Constitution of the Republic of Kazakhstan — Official site of the President of the Republic of Kazakhstan
 
 - State bodies, public associations, officials, and the mass media must provide every citizen with the possibility to become familiar with the documents, decisions and other sources of information concerning his rights and interests.
 
@@ -472,7 +472,7 @@ https://www.akorda.kz/en/official_documents/constitution
 
 1/13/2021
 
-The Constitution of the Republic of Kazakhstan - Official site of the President of the Republic of Kazakhstan
+The Constitution of the Republic of Kazakhstan — Official site of the President of the Republic of Kazakhstan
 
 - No one may be deprived of his property unless otherwise stipulated by a court judgment. Forcible alienation of property for public use in extraordinary cases specified by law shall be exercised on condition of its equivalent compensation.
 
@@ -548,7 +548,7 @@ https://www.akorda.kz/en/official_documents/constitution
 
 1/13/2021
 
-The Constitution of the Republic of Kazakhstan - Official site of the President of the Republic of Kazakhstan
+The Constitution of the Republic of Kazakhstan — Official site of the President of the Republic of Kazakhstan
 
 - Everyone must observe the Constitution, legislation of the Republic of Kazakhstan and respect the rights, freedoms, honor, and dignity of other people.
 
@@ -578,7 +578,7 @@ Citizens of the Republic of Kazakhstan must preserve nature and protect natural 
 
 - Any acts capable of violating inter-ethnic and inter-religious harmony shall be recognized as unconstitutional.
 
-- Restriction of the rights and freedoms of citizens for political reasons shall not be allowed in any form. The rights and freedoms provided for by articles 11, 13-15, paragraph 1 of article 16, article 17, article 19, article 22, paragraph 2 of article 26 of the Constitution, are not subject to limitation in any case.
+- Restriction of the rights and freedoms of citizens for political reasons shall not be allowed in any form. The rights and freedoms provided for by articles 11, 13–15, paragraph 1 of article 16, article 17, article 19, article 22, paragraph 2 of article 26 of the Constitution, are not subject to limitation in any case.
 
 Footnote. Article 39 as amended by the Law of the Republic of Kazakhstan No.51-VI dated March 10, 2017 (shall be applied from the date of its first official publication).
 
@@ -620,7 +620,7 @@ https://www.akorda.kz/en/official_documents/constitution
 
 1/13/2021
 
-The Constitution of the Republic of Kazakhstan - Official site of the President of the Republic of Kazakhstan
+The Constitution of the Republic of Kazakhstan — Official site of the President of the Republic of Kazakhstan
 
 Footnote: Article 41 as amended by the Laws of the Republic of Kazakhstan No. 284 dated October 7, 1998: No. 254 dated May 21, 2007 (shall be applied from the date of its official publication); No. 403-IV dated February 02, 2011 (shall be applied from the date of its first official publication); No. 51-VI dated March 10, 2017 (shall be applied from the date of its first official publication).
 
@@ -686,7 +686,7 @@ https://www.akorda.kz/en/official_documents/constitution
 
 1/13/2021
 
-The Constitution of the Republic of Kazakhstan - Official site of the President of the Republic of Kazakhstan
+The Constitution of the Republic of Kazakhstan — Official site of the President of the Republic of Kazakhstan
 
 12) act as the Commander-in-Chief of the Armed Forces of the Republic, appoint and discharge the highest command of the Armed Forces from office;
 
@@ -740,7 +740,7 @@ Footnote: Article 46 as amended by the Law of the Republic of Kazakhstan No. 254
 
 1. The President of the Republic of Kazakhstan may be prematurely discharged from office in the case of continued incapacity to carry out his duties due to illness. In this case, the Parliament shall form a commission consisting of equal numbers of deputies from each Chamber and  specialists  in  the  corresponding  areas  of  medicine.  The  decision  on  early  discharge  shall  be  adopted  at  a  joint  sitting  of  the Parliament's Chambers by the majority of not less than three quarters of the total number of deputies of each Chamber on the grounds of opinion of the commission and the Constitutional Council on compliance with the established constitutional procedures. 
 
-2. The President of the Republic shall bear responsibility for the actions performed while carrying out his duties and only in the case of high treason may be discharged from office by Parliament. The decision to bring an accusation and conduct its investigation may be adopted by the majority of the deputies of the Mazhilis at the initiative of no less, than one-third of the total number of its deputies. Investigation of the accusation  shall  be  organized  by  the  Senate  and  its  results  shall  be  transferred  for  consideration  by  the  majority  of  votes  of  the  total number of the deputies of the Senate at a joint session of the Parliament's Chambers. The final decision on this issue shall be adopted at a joint sitting of the Chambers of Parliament by a majority of not less than three-quarters of the total number of the deputies of each Chamber provided  that  the  Supreme  Court  concludes  that  on  the  validity  of  the  accusation  and  conclusion  of  the  Constitutional  Council  on compliance with the established constitutional procedures. The failure to make a final decision within two months from the moment of the accusation shall result in recognition of the rejection of the allegation against the President of the Republic. The rejection of the accusation against the President of the Republic in the commission of high treason at any stage shall result in early termination of the powers of the deputies of the Mazhilis, who initiated the consideration of this issue.
+2. The President of the Republic shall bear responsibility for the actions performed while carrying out his duties and only in the case of high treason may be discharged from office by Parliament. The decision to bring an accusation and conduct its investigation may be adopted by the majority of the deputies of the Mazhilis at the initiative of no less, than one-third of the total number of its deputies. Investigation of the accusation shall be organized by the Senate and its results shall be transferred for consideration by the majority of votes of the total
 
 https://www.akorda.kz/en/official_documents/constitution
 
@@ -752,7 +752,9 @@ https://www.akorda.kz/en/official_documents/constitution
 
 1/13/2021
 
-The Constitution of the Republic of Kazakhstan - Official site of the President of the Republic of Kazakhstan
+The Constitution of the Republic of Kazakhstan — Official site of the President of the Republic of Kazakhstan
+
+number of the deputies of the Senate at a joint session of the Parliament's Chambers. The final decision on this issue shall be adopted at a joint sitting of the Chambers of Parliament by a majority of not less than three-quarters of the total number of the deputies of each Chamber provided that the Supreme Court concludes that on the validity of the accusation and conclusion of the Constitutional Council on compliance with the established constitutional procedures. The failure to make a final decision within two months from the moment of the accusation shall result in recognition of the rejection of the allegation against the President of the Republic. The rejection of the accusation against the President of the Republic in the commission of high treason at any stage shall result in early termination of the powers of the deputies of the Mazhilis, who initiated the consideration of this issue.
 
 3. The issue of discharge of the President of the Republic from office may not be commenced within the period of consideration by him of the issue of early termination of the powers of Parliament of the Republic or the Mazhilis of Parliament.
 
@@ -818,7 +820,7 @@ https://www.akorda.kz/en/official_documents/constitution
 
 1/13/2021
 
-The Constitution of the Republic of Kazakhstan - Official site of the President of the Republic of Kazakhstan
+The Constitution of the Republic of Kazakhstan — Official site of the President of the Republic of Kazakhstan
 
 4. A deputy of Parliament may be a person who is a citizen of the Republic of Kazakhstan and who has been a permanent resident for the last ten years on its territory. A deputy of the Senate may be a person who has reached thirty years of age, has a higher education and length  of  service  of  not  less  than  five  years,  and  has  been  a  permanent  resident  for  not  less  than  three  years  on  the  territory  of  the respective region, city of republic significance or the capital of the Republic. A deputy of the Mazhilis may be a person who has reached twenty-five years of age.
 
@@ -894,7 +896,7 @@ https://www.akorda.kz/en/official_documents/constitution
 
 1/13/2021
 
-The Constitution of the Republic of Kazakhstan - Official site of the President of the Republic of Kazakhstan
+The Constitution of the Republic of Kazakhstan — Official site of the President of the Republic of Kazakhstan
 
 - form  joint  commissions  of  the  Chambers,  elect  and  release  their  chairpersons  from  office,  hear  reports  on  the  activity  of  the commissions;
 
@@ -976,7 +978,7 @@ https://www.akorda.kz/en/official_documents/constitution
 
 1/13/2021
 
-The Constitution of the Republic of Kazakhstan - Official site of the President of the Republic of Kazakhstan
+The Constitution of the Republic of Kazakhstan — Official site of the President of the Republic of Kazakhstan
 
 4) performance of  other powers that have been conferred upon the  Mazhilis  by the Constitution.
 
@@ -1058,7 +1060,7 @@ https://www.akorda.kz/en/official_documents/constitution
 
 1/13/2021
 
-The Constitution of the Republic of Kazakhstan - Official site of the President of the Republic of Kazakhstan
+The Constitution of the Republic of Kazakhstan — Official site of the President of the Republic of Kazakhstan
 
 4. Generally the session of Parliament shall be opened by the President of the Republic and closed at joint sessions of the Senate and Mazhilis. During the intersession period, the President of the Republic of Kazakhstan, either on his own initiative, or at the suggestion of one of the Chairpersons or at least one-third of the total membership of the Parliament, is entitled to convene an extraordinary session of Parliament. Only the issues that were the reason for the convocation shall be considered at this session.
 
@@ -1128,13 +1130,13 @@ https://www.akorda.kz/en/official_documents/constitution
 
 1/13/2021
 
-The Constitution of the Republic of Kazakhstan - Official site of the President of the Republic of Kazakhstan
+The Constitution of the Republic of Kazakhstan — Official site of the President of the Republic of Kazakhstan
 
 6. The draft laws that provide for the reduction of state revenues or increase in state expenditures may only be submitted when there is a positive resolution of the Government of the Republic of Kazakhstan. This resolution shall not be required with respect to the draft laws that are  subject  to  consideration  by  the  Mazhilis  of  the  Parliament  as  part  of  the  legislative  initiative  of  the  President  of  the  Republic  of Kazakhstan.
 
 7.  If  the  draft  law  submitted  by  the  Government  has  not  been  adopted,  the  Prime-  Minister  shall  have  the  right  to  raise  an  issue  of confidence in the Government at a joint session of the Chambers. The voting on this issue shall be held no earlier than forty-eight hours from the moment of calling for a vote of confidence. If the call for a vote of confidence does not receive the majority vote of the total number of deputies of each Chambers, a draft law shall be deemed to be adopted without voting. However, the Government may not exercise this right more than twice a year.
 
-Footnote: See regulatory resolutions of the Constitutional Council of the Republic of Kazakhstan N 3/2 dated March 12, 1999, N 19/2 dated November 11, 1999; No 9/2 dated June 15, 2000, No15/2 dated July 3, 2000, No 8/2 dated June 6, 2001, as amended pursuant to the Law of Republic of Kazakhstan N 254 dated May 21, 2007 (shall be enacted from the day of its official publication), dated March 3, 2017; № 51VI (shall be enacted  from the day of its first official publication).
+Footnote: See regulatory resolutions of the Constitutional Council of the Republic of Kazakhstan N 3/2 dated March 12, 1999, N 19/2 dated November 11, 1999; No 9/2 dated June 15, 2000, No15/2 dated July 3, 2000, No 8/2 dated June 6, 2001, as amended pursuant to the Law of Republic of Kazakhstan N 254 dated May 21, 2007 (shall be enacted from the day of its official publication), dated March 3, 2017; № 51-VI (shall be enacted from the day of its first official publication).
 
 #### Article 62
 
@@ -1198,7 +1200,7 @@ https://www.akorda.kz/en/official_documents/constitution
 
 1/13/2021
 
-The Constitution of the Republic of Kazakhstan - Official site of the President of the Republic of Kazakhstan
+The Constitution of the Republic of Kazakhstan — Official site of the President of the Republic of Kazakhstan
 
 - Proposals on the structure and composition of the Government shall be made to the President of the Republic by the Prime Minister of the Republic within ten days of the appointment of the Prime Minister.
 
@@ -1278,7 +1280,7 @@ https://www.akorda.kz/en/official_documents/constitution
 
 1/13/2021
 
-The Constitution of the Republic of Kazakhstan - Official site of the President of the Republic of Kazakhstan
+The Constitution of the Republic of Kazakhstan — Official site of the President of the Republic of Kazakhstan
 
 - The Government shall resign its powers to the newly elected Mazhilis of the Parliament of the Republic.
 
@@ -1354,7 +1356,7 @@ https://www.akorda.kz/en/official_documents/constitution
 
 1/13/2021
 
-The Constitution of the Republic of Kazakhstan - Official site of the President of the Republic of Kazakhstan
+The Constitution of the Republic of Kazakhstan — Official site of the President of the Republic of Kazakhstan
 
 #### Article 73
 
@@ -1434,7 +1436,7 @@ https://www.akorda.kz/en/official_documents/constitution
 
 1/13/2021
 
-The Constitution of the Republic of Kazakhstan - Official site of the President of the Republic of Kazakhstan
+The Constitution of the Republic of Kazakhstan — Official site of the President of the Republic of Kazakhstan
 
 - everyone has the right to be heard in court;
 
@@ -1508,7 +1510,7 @@ https://www.akorda.kz/en/official_documents/constitution
 
 1/13/2021
 
-The Constitution of the Republic of Kazakhstan - Official site of the President of the Republic of Kazakhstan
+The Constitution of the Republic of Kazakhstan — Official site of the President of the Republic of Kazakhstan
 
 #### Article 83
 
@@ -1582,7 +1584,7 @@ https://www.akorda.kz/en/official_documents/constitution
 
 1/13/2021
 
-The Constitution of the Republic of Kazakhstan - Official site of the President of the Republic of Kazakhstan
+The Constitution of the Republic of Kazakhstan — Official site of the President of the Republic of Kazakhstan
 
 - the appointment and dismissal of heads of local executive bodies, and the solution of other issues related to the organization of work of local executive bodies;
 
@@ -1648,7 +1650,7 @@ https://www.akorda.kz/en/official_documents/constitution
 
 1/13/2021
 
-The Constitution of the Republic of Kazakhstan - Official site of the President of the Republic of Kazakhstan
+The Constitution of the Republic of Kazakhstan — Official site of the President of the Republic of Kazakhstan
 
 the  republican  referendum  took  part  in  the  vote.  Amendments  and  additions  to  the  Constitution  which  are  submitted  to  the  republican referendum, are considered adopted if more than half of the citizens who took part in the voting voted for them in at least two thirds of regions, cities of republican significance and the capital.
 
@@ -1708,7 +1710,7 @@ https://www.akorda.kz/en/official_documents/constitution
 
 1/13/2021
 
-The Constitution of the Republic of Kazakhstan - Official site of the President of the Republic of Kazakhstan
+The Constitution of the Republic of Kazakhstan — Official site of the President of the Republic of Kazakhstan
 
 - The provisions of the Constitution of the Republic of Kazakhstan, on the election of deputies of the Mazhilis of Parliament and on the basis of party lists, apply after the election of deputies of the Mazhilis of Parliament of the second convocation. <*>
 
