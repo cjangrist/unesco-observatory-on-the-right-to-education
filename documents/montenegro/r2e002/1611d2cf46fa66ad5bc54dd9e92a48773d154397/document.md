@@ -380,7 +380,7 @@ The founding act and the act for discontinuing a private institution shall be pa
 
 In addition to evidence on meeting the requirements referred to in Article 23 hereof, the founder of a public institution shall submit evidence from a public authority in charge of financial affairs that the relevant amount of funds required for the implementation of a study programme has been provided.
 
-In addition to evidence on meeting the requirements referred to in Article 23 hereof, the  founder  of  a  private  institution  shall  submit  a  commercial  bank's  guarantee  on  timedeposited funds in the amount required for the implementation of the study programme for a period of one year.
+In addition to evidence on meeting the requirements referred to in Article 23 hereof, the founder of a private institution shall submit a commercial bank's guarantee on time-deposited funds in the amount required for the implementation of the study programme for a period of one year.
 
 Funds required for the implementation of a study programme referred to in paragraphs 1 and 2 of this Article shall be calculated on the basis of cost price of education per student for  a  certain  study  programme,  as  well  as  the  number  of  students  for  which  the  license  is requested.
 
@@ -746,7 +746,7 @@ Composition, competence, terms of office, manner of work and decision making of 
 
 A professional body of an organisational unit of a public university is Council.
 
-The Council referred to in paragraph 1 of this Article shall be composed of: dean, vicedeans, persons with academic titles, representatives of associates and students, in compliance with statute of public university.
+The Council referred to in paragraph 1 of this Article shall be composed of: dean, vice-deans, persons with academic titles, representatives of associates and students, in compliance with statute of public university.
 
 Competence, terms of office, manner of work and decision making of the Council shall be regulated by statute of public university.
 
@@ -839,7 +839,7 @@ Norms and standards for funding public institutions referred to in paragraph  1 
 
 A public institution shall obtain funds from the Budget of Montenegro on the basis of norms  and  standards  for  funding  public  institutions  referred  to  in  Article  64  of  this  Law, taking  into  account  the  number  of  students  defined  by  the  license,  cost  per  student  for  a certain  study  programme  and  the  assessment  of  quality  work  of  the  institution  from  the external evaluation report.
 
-Mutual rights and obligations between the public institution and the Government for the implementation of study programmes of the 1 st  and 2 nd  study cycles shall be regulated by a funding agreement.
+Mutual rights and obligations between the public institution and the Government for the implementation of study programmes of the 1st and 2nd study cycles shall be regulated by a funding agreement.
 
 The agreement referred to in paragraph 2 of this Article shall be concluded for at least one fiscal year.
 
@@ -903,17 +903,17 @@ A  private  institution  shall  be  responsible  for  lawful  and  purposeful  u
 
 ### Tuition Fee Article 69a
 
-Students of the 1 st  and 2 nd  cycles of studies at public institutions shall not pay tuition fee.
+Students of the 1st and 2nd cycles of studies at public institutions shall not pay tuition fee.
 
-Students of the 3 rd  cycle of studies at public institutions shall pay tuition fee.
+Students of the 3rd cycle of studies at public institutions shall pay tuition fee.
 
-Students of the 1 st , 2 nd  and 3 rd  cycles at private institutions shall pay tuition fees.
+Students of the 1st, 2nd and 3rd cycles at private institutions shall pay tuition fees.
 
 ### Determining the Tuition Fee Article 70
 
 The  amount  of  fee  to  be  paid  by  students  at  institutions  shall  be  determined  by governing body of institution.
 
-Notwithstanding paragraph 1 of this Article, the amount of fee to be paid by students attending the 1 st  and 2 nd  cycles at public institutions who fail to acquire 45 ECTS credits shall be determined by governing body, following the approval of the Ministry.
+Notwithstanding paragraph 1 of this Article, the amount of fee to be paid by students attending the 1st and 2nd cycles at public institutions who fail to acquire 45 ECTS credits shall be determined by governing body, following the approval of the Ministry.
 
 The amount of fee referred to in paragraph 2 of this Article may vary depending on the cost of implementation of a study programme.
 
@@ -1140,33 +1140,17 @@ Student referred to in paragraph 2 of this Article who completes all exams, i.e.
 
 [[START OF PAGE 28]]
 
-An exam shall be public.
-
-A student shall take an exam at premises of an institution.
-
-Notwithstanding paragraph 2 of this Article, an exam can be taken outside the premises of an institution only if it concerns an exam of a study course whose character demands it.
-
-A  student  shall  take  an  exam  immediately  after  completion  of  instruction  for  the relevant course.
-
-A student with disability is entitled to take an exam at a place and in a manner adjusted to their abilities, in accordance with statute of institution.
-
-A student may take only one mid-term or final exam in one day, and not more than two mid-terms or final exams in a week.
-
-### Examination Term Article 91
-
-Examination terms shall take place in January, June and September.
-
 ### Grading System Article 89
 
 A student shall take an exam upon completion of instruction from that study course in a manner determined by a study programme, in compliance with statute of institution.
 
-The  success  of  students  to  master  a  course  and  overcome  all  forms  of  knowledge assessment before the exam shall be valued and expressed in points.
+The success of students to master a course and overcome all forms of knowledge assessment before the exam shall be valued and expressed in points.
 
 Total number of points a student can earn through all pre-exam forms of knowledge assessment, or study results ranges from 30 to 70, in compliance with the rules of studying.
 
 On the basis of all pre-exam forms of knowledge assessment, or learning outcomes and by taking exams, a student can earn a maximum of 100 points, in compliance with the rules of studying.
 
-Students'  performance  on  exam  and  other  forms  of  knowledge  assessment  shall  be expressed in letter grades, specifically: A, B, C, D, E and F.
+Students' performance on exam and other forms of knowledge assessment shall be expressed in letter grades, specifically: A, B, C, D, E and F.
 
 Grade F is an insufficient grade.
 
@@ -1182,11 +1166,25 @@ Letter grades referred to in paragraph 5 of this Article shall be equivalent to 
 
 - E (sufficient) is equivalent to grade 6.
 
-Average grade  during  the  studies  is  determined  as  quotient  of  the  sum  of  numerical grades multiplied by ECTS credits for each course, and the total number of obtained ECTS credits.
+Average grade during the studies is determined as quotient of the sum of numerical grades multiplied by ECTS credits for each course, and the total number of obtained ECTS credits.
 
 ### Exams Article 90
 
+An exam shall be public.
 
+A student shall take an exam at premises of an institution.
+
+Notwithstanding paragraph 2 of this Article, an exam can be taken outside the premises of an institution only if it concerns an exam of a study course whose character demands it.
+
+A student shall take an exam immediately after completion of instruction for the relevant course.
+
+A student with disability is entitled to take an exam at a place and in a manner adjusted to their abilities, in accordance with statute of institution.
+
+A student may take only one mid-term or final exam in one day, and not more than two mid-terms or final exams in a week.
+
+### Examination Term Article 91
+
+Examination terms shall take place in January, June and September.
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
@@ -1211,7 +1209,7 @@ If  a  student  requests  an  exemption  of  a  course  teacher,  that  teacher 
 
 ### Enrolment in Undergraduate Studies Article 93
 
-A person who has obtained a proper level education required for attaining IV-1 sublevel  of  National  Qualifications  Framework  is  entitled  to  enrol  in  undergraduate  academic and applied studies.
+A person who has obtained a proper level education required for attaining IV-1 sub-level of National Qualifications Framework is entitled to enrol in undergraduate academic and applied studies.
 
 Enrolment in studies referred to in paragraph 1 of this Article shall be conducted on the basis of:
 
@@ -1281,7 +1279,7 @@ Competition for enrolment in studies at a public institution shall be announced 
 
 An  institution  shall  determine  the  number  of  students to  be  enrolled  in  study programmes it organises, which cannot exceed the number determined by the license.
 
-In case the number of qualified candidates for enrolment is higher than the number of publicly funded places at any study programme, candidates may be enrolled on tuition feepaying  places,  on  the  basis  of  criteria  referred  to  in  paragraph  93  of  this  Law,  up  to  the number determined in the competition.
+In case the number of qualified candidates for enrolment is higher than the number of publicly funded places at any study programme, candidates may be enrolled on tuition fee-paying places, on the basis of criteria referred to in paragraph 93 of this Law, up to the number determined in the competition.
 
 Notwithstanding paragraph 2 of this Article, if a candidate is a person with a disability, the principle of affirmative action shall apply.
 
@@ -1523,9 +1521,9 @@ Regulations that were in force before the entry into force of this Law shall app
 
 ### Funding Article 118b
 
-Funding  of public institutions for the implementation of new  1 st cycle study programmes shall begin in academic year 2017/18.
+Funding of public institutions for the implementation of new 1st cycle study programmes shall begin in academic year 2017/18.
 
-Funding  of public institutions for the implementation  of new  2 nd cycle study programmes shall begin in academic year 2020/21.
+Funding of public institutions for the implementation of new 2nd cycle study programmes shall begin in academic year 2020/21.
 
 [[END OF PAGE 36]]
 
@@ -1654,7 +1652,7 @@ Governing Board of the University of Montenegro appointed until the day of entry
 
 ### Repeal Article 126
 
-Law on Higher Education (Official Gazette of the Republic of Montenegro, 60/30 and Official  Gazette  of  Montenegro,  47/40,  47/11  and  48/13)  and  Article  24  of  the  Law  on Amendments to the Law Prescribing Fines for Violations (Official Gazette of Montenegro 40/11) shall be repealed on the day of entry into force of this Law.
+Law on Higher Education (Official Gazette of the Republic of Montenegro, 60/03 and Official Gazette of Montenegro, 45/10, 47/11 and 48/13) and Article 24 of the Law on Amendments to the Law Prescribing Fines for Violations (Official Gazette of Montenegro 40/11) shall be repealed on the day of entry into force of this Law.
 
 ### Article 127
 
