@@ -1,18 +1,14 @@
 [[START OF PAGE 1]]
 
-### 1) School in hospital and home education
+Ministero dell’Istruzione
 
-The MI has prepared an allocation of 2.5 million euros per year since 2017. Furthermore, a total exemption from the payment of school fees - based on the ISEE - has been provided for students of fourth and fifths year of second grade of secondary school. On May 15, 2019 the new MI portal was presented: https://scuolainospital.miur.gov.it/sio/ Hospital schooling and home education are fundamental support programs for children and families and help to tackle early school leaving. Guaranteeing the right to study and educational continuity for those who are unable to attend normal education courses is crucial. The Portal responds to the need to guarantee an ever closer service to students and to support teachers' commitment to the use of technologies. In
+Dipartimento per il sistema educativo di istruzione e di formazione
 
-Viale Trastevere, 76/A - 00153 Roma 06/5849 2125 2126 - dgsip.ufficio2@istruzione.it
-
-Ministero dell'Istruzione
-
-Dipartimento per il sistema educativo di istruzione e di formazione Direzione Generale per lo Studente, l'Inclusione e l'Orientamento scolastico
+Direzione Generale per lo Studente, l’Inclusione e l’Orientamento scolastico
 
 Ufficio II
 
-# Reporting process for the 10th Consultation of Member States on the application of the 1960 Convention and Recommendation against Discrimination in Education - Contribution from Italian Ministry of Education
+# Reporting process for the 10th Consultation of Member States on the application of the 1960 Convention and Recommendation against Discrimination in Education – Contribution from Italian Ministry of Education
 
 ## Actions for the right to study, against educational poverty and for inclusion
 
@@ -26,15 +22,22 @@ In territories affected by natural disasters or economic and social problems tha
 
 ## Inclusion Actions
 
+### 1) School in hospital and home education
+
+The MI has prepared an allocation of 2.5 million euros per year since 2017. Furthermore, a total exemption from the payment of school fees - based on the ISEE - has been provided for students of fourth and fifths year of second grade of secondary school. On May 15, 2019 the new MI portal was presented: https://scuolainospital.miur.gov.it/sio/ Hospital schooling and home education are fundamental support programs for children and families and help to tackle early school leaving. Guaranteeing the right to study and educational continuity for those who are unable to attend normal education courses is crucial. The Portal responds to the need to guarantee an ever closer service to students and to support teachers' commitment to the use of technologies. In
+
+Viale Trastevere, 76/A - 00153 Roma
+06/5849 2125 2126 - dgsip.ufficio2@istruzione.it
+
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-Dipartimento per il sistema educativo di istruzione e di
+Ministero dell’Istruzione
 
-Ministero dell'Istruzione formazione
+Dipartimento per il sistema educativo di istruzione e di formazione
 
-Direzione Generale per lo Studente, l'Inclusione e l'Orientamento scolastico
+Direzione Generale per lo Studente, l’Inclusione e l’Orientamento scolastico
 
 Ufficio II
 
@@ -46,11 +49,11 @@ Among the tasks of the Student Administration there is the free supply of textbo
 
 ### 3) Inclusion for minors from families in organized crime contexts
 
-"Free to choose" is the title of the Memorandum of Understanding signed on November 5, 2019 at the Ministry of Education with the aim of giving minors from families inserted in organized crime contexts a concrete opportunity. The  document  was  signed  by  the  Minister  of  Education,  the  Minister  of  Justice,  the  Minister  for  Equal Opportunities and the Family, the National Anti-Mafia and Counter-Terrorism Prosecutor, the Public Prosecutor at the Court of Reggio Calabria, the President of the Tribunal for Reggio Calabria minors, the Public Prosecutor at the Reggio Calabria Juvenile Court and the President of Libera.
+"Free to choose" is the title of the Memorandum of Understanding signed on November 5, 2019 at the Ministry of Education with the aim of giving minors from families inserted in organized crime contexts a concrete opportunity. The document was signed by the Minister of Education, the Minister of Justice, the Minister for Equal Opportunities and the Family, the National Anti-Mafia and Counter-Terrorism Prosecutor, the Public Prosecutor at the Court of Reggio Calabria, the President of the Tribunal for Reggio Calabria minors, the Public Prosecutor at the Reggio Calabria Juvenile Court and the President of Libera.
 
 ### 4) Memorandum of understanding with UNICEF
 
-The protocol signed on 24 October 2018 between the MI Student Directorate and UNICEF allows to strengthen interventions  aimed  at  giving  students  greater  information  on  their  individual  rights,  but  also  at  promoting behaviors concretely respectful of the principles of inclusion and prevention of all forms of discrimination and violence.  The  aim  is  to  spread  the  culture  of  the  rights  of  children  and  adolescents,  working  for  the  full implementation of the principle of non-discrimination and the promotion of active digital education for a conscious use of new technologies and social networks. With this aim in mind, the Project "School Friend of Children and Teens" was born in which more than 1.200 schools of all levels and degrees join annually. The project is aimed at promoting knowledge and implementation of the Convention on the rights of the child and adolescence ".
+The protocol signed on 24 October 2018 between the MI Student Directorate and UNICEF allows to strengthen interventions aimed at giving students greater information on their individual rights, but also at promoting behaviors concretely respectful of the principles of inclusion and prevention of all forms of discrimination and violence. The aim is to spread the culture of the rights of children and adolescents, working for the full implementation of the principle of non-discrimination and the promotion of active digital education for a conscious use of new technologies and social networks. With this aim in mind, the Project "School Friend of Children and Teens" was born in which more than 1.200 schools of all levels and degrees join annually. The project is aimed at promoting knowledge and implementation of the Convention on the rights of the child and adolescence ".
 
 ### 5) Supply of teaching aids
 
@@ -60,7 +63,8 @@ As required by art. 7 of the d. lgs. 63/2017, for the three-year period 2017-202
 
 With the aim of promoting the right to education for minorities, the following national training projects have been launched for the years 2016/2020 in the context of the protection of foreign minors in Italy or of Roma groups, Sinti Caminanti: for the years 2017/2019 the FAMI project "Multiannual training plan for managers and teachers of schools with a high incidence of foreign pupils", with a financing of 4.000.000 euros, involving a total of 1000 school managers, 10.000 teachers and 2000 units of ATA staff; for the years 2016/2020 the FAMI project "MICSE
 
-Viale Trastevere, 76/A - 00153 Roma 06/5849 2125 2126 - dgsip.ufficio2@istruzione.it
+Viale Trastevere, 76/A - 00153 Roma
+06/5849 2125 2126 - dgsip.ufficio2@istruzione.it
 
 [[END OF PAGE 2]]
 
@@ -114,17 +118,19 @@ Viale Trastevere, 76/A - 00153 Roma 06/5849 2125 2126 - dgsip.ufficio2@istruzion
 
 [[START OF PAGE 4]]
 
-Dipartimento per il sistema educativo di istruzione e di
+Ministero dell’Istruzione
 
-Ministero dell'Istruzione formazione
+Dipartimento per il sistema educativo di istruzione e di formazione
 
-Direzione Generale per lo Studente, l'Inclusione e l'Orientamento scolastico
+Direzione Generale per lo Studente, l’Inclusione e l’Orientamento scolastico
 
 Ufficio II
 
 ### 8) National observatory for the integration of foreign students and for interculture
 
-It is a reconvened consultation body, partially renewed in its composition after two years of interruption, with the Ministerial Decree 1119 of 04/12/2019 and met on December 16, 2019. The date chosen is not accidental because it follows the third national summit of diasporas (December 14), whose goal is to promote the economic, social,  cultural  exchange  between the Italy and the countries of origin of the resident migrants. Countering stereotypes and involving the talents and professionalisms of this plural Italy and the new generations. The task of the Observatory is to identify solutions for adapting school integration policies to the real needs of an increasingly multicultural and constantly changing school.
+It is a reconvened consultation body, partially renewed in its composition after two years of interruption, with the Ministerial Decree 1119 of 04/12/2019 and met on December 16, 2019. The date chosen is not accidental because it follows the third national summit of diasporas (December 14), whose goal is to promote the economic, social, cultural exchange between the Italy and the countries of origin of the resident migrants. Countering stereotypes and involving the talents and professionalisms of this plural Italy and the new generations.
+
+The task of the Observatory is to identify solutions for adapting school integration policies to the real needs of an increasingly multicultural and constantly changing school.
 
 Objectives of the Observatory:
 
@@ -136,7 +142,7 @@ Objectives of the Observatory:
 
 - Formulate proposals on integration legislation.
 
-The current Observatory is composed of representatives of the competent Ministries (Internal and Foreign), experts from universities, associations from the third sector, research bodies and institutes, school managers, representatives of associations of the new generations, as well as representatives of the various DirectoratesGeneral of the Ministry of Education.
+The current Observatory is composed of representatives of the competent Ministries (Internal and Foreign), experts from universities, associations from the third sector, research bodies and institutes, school managers, representatives of associations of the new generations, as well as representatives of the various Directorates-General of the Ministry of Education.
 
 The Observatory carries out its activity through five working groups on issues deemed to be priority:
 
@@ -150,27 +156,28 @@ The Observatory carries out its activity through five working groups on issues d
 
 - Make school in the suburbs.
 
-In  particular,  the  latter  group  has  prepared  with  the  USR  Liguria  and  the  University  of  Genoa  the  national seminar "The peripheries in the center. The mending of the suburbs. Schools and territory in comparison' which took place in Genoa on February 21, 2020 and which has dedicated attention and analyzed operational proposals on the aspects of greater fragility of pupils and families in contexts of social complexity.
+In particular, the latter group has prepared with the USR Liguria and the University of Genoa the national seminar "The peripheries in the center. The mending of the suburbs. Schools and territory in comparison” which took place in Genoa on February 21, 2020 and which has dedicated attention and analyzed operational proposals on the aspects of greater fragility of pupils and families in contexts of social complexity.
 
 ## Equal Opportunities and for Respect Education, in accordance with the "Respect Guidelines" issued by MIUR in 2017
 
-In compliance with the provisions of paragraph 16 of article 1 of Law 107 of 2015 which establishes that: "The three-year  plan  of  the  educational  offer  ensures  the  implementation  of  the  principles  of  equal  opportunity  by promoting  schools  of  all  levels  education  for  gender  equality,  prevention  of  gender-based  violence  and  all discrimination,  in  order  to  inform  and  raise  awareness  among  students,  teachers  and  parents  on  the  issues indicated in article 5, paragraph 2, of the decree-law of 14 August 2013, n. 93, converted, with modifications, by law 15 October 2013, n. 11" we point out:
+In compliance with the provisions of paragraph 16 of article 1 of Law 107 of 2015 which establishes that: "The three-year plan of the educational offer ensures the implementation of the principles of equal opportunity by promoting schools of all levels education for gender equality, prevention of gender-based violence and all discrimination, in order to inform and raise awareness among students, teachers and parents on the issues indicated in article 5, paragraph 2, of the decree-law of 14 August 2013, n. 93, converted, with modifications, by law 15 October 2013, n. 11" we point out:
 
-### 1) Education portal to affectivity - www.noisiamopari.it
+### 1) Education portal to affectivity – www.noisiamopari.it
 
 The MI has designed and created the Noi Siamo Pari online platform in order to support the teachers' commitment and contribute to constantly enriching our school's educational offer, to adapt it to the delicate educational tasks to which it is called. Inside the platform there are teaching materials and projects created by schools and associations on issues relating to equal opportunities. Furthermore, information, exchange and support tools are proposed with the aim of carrying out a capillary self-training action on the issues of education for affectivity, mutual respect,
 
-Viale Trastevere, 76/A - 00153 Roma 06/5849 2125 2126 - dgsip.ufficio2@istruzione.it
+Viale Trastevere, 76/A - 00153 Roma
+06/5849 2125 2126 - dgsip.ufficio2@istruzione.it
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-Dipartimento per il sistema educativo di istruzione e di
+Ministero dell’Istruzione
 
-Ministero dell'Istruzione formazione
+Dipartimento per il sistema educativo di istruzione e di formazione
 
-Direzione Generale per lo Studente, l'Inclusione e l'Orientamento scolastico
+Direzione Generale per lo Studente, l’Inclusione e l’Orientamento scolastico
 
 Ufficio II
 
@@ -178,11 +185,11 @@ equal opportunities, as well as the prevention of the phenomenon of bullying and
 
 ### 2) November 25 - International Day for the Elimination of Violence Against Women.
 
-The International Day for the Elimination of Violence against Women occurs on 25 November each year. In order to sensitize all the school institutions, the MI issues every year a note of awareness on the day of November 25th established  by  the  united  nations  since  1999.  The  circular  aims  to  incentivize  the  school  institutions  to  start awareness, prevention and contrast to all forms of violence and discrimination.
+The International Day for the Elimination of Violence against Women occurs on 25 November each year. In order to sensitize all the school institutions, the MI issues every year a note of awareness on the day of November 25th established by the united nations since 1999. The circular aims to incentivize the school institutions to start awareness, prevention and contrast to all forms of violence and discrimination.
 
 ### 3) March 8 - International Women's Day (commonly referred to as Women's Day)
 
-In view of the International Women's Day, the student DG invites all schools of all levels to carry out an in-depth study of issues related to gender equality and the fight against discrimination, referred to in art. 3 of the Italian Constitution. On this occasion, the student DG, under the High Patronage of the Presidency of the Republic, also promotes a Competition that aims to make students think about the issue of male violence against women and gender discrimination. In the a.s. 2015/2016 the National Competition was: '1946 - 2016: Towards full active citizenship. 70 years from the vote of women ", addressed to all schools of all levels. For the 2019/2020 school year, the Competition, entitled "With respect by educating", aims to make people reflect on the theme of education in respect for the workplace and in all living spaces. Educating to respect means educating to the difference, to the freedom of choice of others, to knowing how to live relationships in which the will and characteristics of others have the same weight as ours.
+In view of the International Women's Day, the student DG invites all schools of all levels to carry out an in-depth study of issues related to gender equality and the fight against discrimination, referred to in art. 3 of the Italian Constitution. On this occasion, the student DG, under the High Patronage of the Presidency of the Republic, also promotes a Competition that aims to make students think about the issue of male violence against women and gender discrimination. In the a.s. 2015/2016 the National Competition was: “1946 - 2016: Towards full active citizenship. 70 years from the vote of women ", addressed to all schools of all levels. For the 2019/2020 school year, the Competition, entitled "With respect by educating", aims to make people reflect on the theme of education in respect for the workplace and in all living spaces. Educating to respect means educating to the difference, to the freedom of choice of others, to knowing how to live relationships in which the will and characteristics of others have the same weight as ours.
 
 ### 4) Plan for teacher training
 
@@ -190,9 +197,10 @@ The Ministry, in October 2016, launched the 2016-2019 Teacher Training Plan, fin
 
 ### 5) Funded projects
 
-In  November 2016, the  Department  for  Equal  Opportunities  of  the  Prime  Minister,  in  collaboration  with  MI, published a call for the presentation of school educational initiatives on the prevention and fight against all forms of sexual and gender-based violence, open to all. public schools, on the national territory - in implementation of the  Extraordinary  Action  Plan  against  sexual  and  gender-based  violence.  The  call  encouraged  the  creation  of partnerships between schools and NGOs working in this sector. The total amount allocated was € 5 million and the selected projects started their activities on February 1, 2017. In 2017, as part of the MI 10-Action Plan for an open, inclusive  and  innovative  school  -  funded  with  the  PON's  840  million  for  the  School  -  120  million  have  been foreseen  for  projects  on  Global  Citizenship  Skills,  which  include  respect  for  diversity  and  active  citizenship. Another series of measures that contribute to the promotion of the culture of respect and equal opportunities and to the fight against violence and discrimination, passes through sport, which is and must increasingly become a place of female participation at all levels. The Ministry has paid particular attention to the physical activity of boys and girls, also through specific actions to support teachers. Particular mention should be made of the "Class sports" initiative,  also  carried  out  thanks  to  the  contribution  of  CONI,  which  consists  in  the  enhancement  of  physical education in primary school, as a tool for the promotion of correct lifestyles and values from a young age, thanks to the inclusion of the specialized figure of the School Sports Tutor. Over time there has been a constant increase in participation by state schools, which has reached 70%. In addition, school sport brings with it a message to raise awareness among young people about the fight against violence against women, with the #NoViolenzaControLeDonne  campaign.  Since  2017,  all  athletes  participating  in  the  international  student championships take to the field wearing a symbol of the campaign on their shirt. The initiative kicked off in Palermo
+In November 2016, the Department for Equal Opportunities of the Prime Minister, in collaboration with MI, published a call for the presentation of school educational initiatives on the prevention and fight against all forms of sexual and gender-based violence, open to all. public schools, on the national territory - in implementation of the Extraordinary Action Plan against sexual and gender-based violence. The call encouraged the creation of partnerships between schools and NGOs working in this sector. The total amount allocated was € 5 million and the selected projects started their activities on February 1, 2017. In 2017, as part of the MI 10-Action Plan for an open, inclusive and innovative school - funded with the PON's 840 million for the School - 120 million have been foreseen for projects on Global Citizenship Skills, which include respect for diversity and active citizenship. Another series of measures that contribute to the promotion of the culture of respect and equal opportunities and to the fight against violence and discrimination, passes through sport, which is and must increasingly become a place of female participation at all levels. The Ministry has paid particular attention to the physical activity of boys and girls, also through specific actions to support teachers. Particular mention should be made of the "Class sports" initiative, also carried out thanks to the contribution of CONI, which consists in the enhancement of physical education in primary school, as a tool for the promotion of correct lifestyles and values from a young age, thanks to the inclusion of the specialized figure of the School Sports Tutor. Over time there has been a constant increase in participation by state schools, which has reached 70%. In addition, school sport brings with it a message to raise awareness among young people about the fight against violence against women, with the #NoViolenzaControLeDonne campaign. Since 2017, all athletes participating in the international student championships take to the field wearing a symbol of the campaign on their shirt. The initiative kicked off in Palermo
 
-Viale Trastevere, 76/A - 00153 Roma 06/5849 2125 2126 - dgsip.ufficio2@istruzione.it
+Viale Trastevere, 76/A - 00153 Roma
+06/5849 2125 2126 - dgsip.ufficio2@istruzione.it
 
 [[END OF PAGE 5]]
 
@@ -210,11 +218,11 @@ with the orienteering world championship.
 
 ### 1) Actions against religious and racial discrimination
 
-The  MI,  in  order  to  combat  racism  and  pursue  an  education  to  respect  differences  and  against  all  forms  of discrimination, has promoted, in collaboration with the Union of Italian Jewish Communities (UCEI), initiatives and projects aimed at handing down and strengthening awareness among young people of the memory of the Shoah and renew the memory of those events. In this regard, in 2002 the national competition "Young people remember the Shoah" was launched, one of the best practices of MI aimed at stimulating the younger generations to study and research on the issue of the Shoah. The competition is aimed at students of the first and second cycle of education and has the ultimate goal of promoting the study and deepening of the history of the Shoah and of antiJewish persecutions, intended as a universal lesson to combat all forms of racism and discrimination. Since its inception, over 7.000 schools have participated in the competition, for a total of over 300.000 students. For the 2019/2020 school year the Competition will reach its 18th edition and like every year the winners will be awarded at the Quirinale by the President of the Republic Sergio Mattarella. Over the years, itinerant exhibitions have been organized throughout the national territory, collecting the best works created by students over the various years. During the last school year, the works collected as part of the competition have given rise to two appointments: the first, in February 2019, at Palazzo Chiaramonte Steri in Palermo; the second, at the Shoah Memorial in Milan, in the months of March and April. As regards the training of teachers, the first national seminar on the issues of the Shoah was held on 15 and 16 April 2019, entitled "Passage of Witness: the memory of the Shoah by survivors of school practices", in which they participated over 200 teachers from all over Italy. The active commitment of educational institutions and places of education, in fact, is the best vehicle so that the lesson of the Shoah is not dispersed,  but  rather  is  a  warning  against  any  form  of  persecution,  religious  in  fact,  but  also  of  gender.  The initiatives aimed at stimulating the fight against discrimination include the creation of the "School and Memory" portal, dedicated to the didactics of the Shoah and designed with the aim of providing teachers, trainers and students with a useful tool for information and training on the issue of the Shoah. Its main task, however, remains to create a platform for the exchange of the best Best Practices in the didactics of the Shoah between schools throughout the national territory, so that schools feel involved and protagonists in educating equality and in the fight against racism of all kinds. As part of the initiatives related to the Italian Presidency of the International Holocaust Remembrance Alliance (IHRA), which took place between March 2018 and March 2019, the conference "The innocent enemy. Incitement to hatred in contemporary Europe ". The meeting, which was held on 12 November 2018 at the Shoah Memorial in Milan, aimed to analyze and describe hate speech processes from various points of view: historical (the characteristics of anti-Semitic propaganda and type discriminatory from the National Socialist regime to date), legal ("pro" and "no hate" rules and legislation: a weakness of the law in the face of these phenomena?), sociological and communication (the trivialization of hatred and aspects related to hate speech on the web) and educationaldidactic (indications to contrast the spread of hate speech).
+The MI, in order to combat racism and pursue an education to respect differences and against all forms of discrimination, has promoted, in collaboration with the Union of Italian Jewish Communities (UCEI), initiatives and projects aimed at handing down and strengthening awareness among young people of the memory of the Shoah and renew the memory of those events. In this regard, in 2002 the national competition "Young people remember the Shoah" was launched, one of the best practices of MI aimed at stimulating the younger generations to study and research on the issue of the Shoah. The competition is aimed at students of the first and second cycle of education and has the ultimate goal of promoting the study and deepening of the history of the Shoah and of anti-Jewish persecutions, intended as a universal lesson to combat all forms of racism and discrimination. Since its inception, over 7.000 schools have participated in the competition, for a total of over 300.000 students. For the 2019/2020 school year the Competition will reach its 18th edition and like every year the winners will be awarded at the Quirinale by the President of the Republic Sergio Mattarella. Over the years, itinerant exhibitions have been organized throughout the national territory, collecting the best works created by students over the various years. During the last school year, the works collected as part of the competition have given rise to two appointments: the first, in February 2019, at Palazzo Chiaramonte Steri in Palermo; the second, at the Shoah Memorial in Milan, in the months of March and April. As regards the training of teachers, the first national seminar on the issues of the Shoah was held on 15 and 16 April 2019, entitled "Passage of Witness: the memory of the Shoah by survivors of school practices", in which they participated over 200 teachers from all over Italy. The active commitment of educational institutions and places of education, in fact, is the best vehicle so that the lesson of the Shoah is not dispersed, but rather is a warning against any form of persecution, religious in fact, but also of gender. The initiatives aimed at stimulating the fight against discrimination include the creation of the "School and Memory" portal, dedicated to the didactics of the Shoah and designed with the aim of providing teachers, trainers and students with a useful tool for information and training on the issue of the Shoah. Its main task, however, remains to create a platform for the exchange of the best Best Practices in the didactics of the Shoah between schools throughout the national territory, so that schools feel involved and protagonists in educating equality and in the fight against racism of all kinds. As part of the initiatives related to the Italian Presidency of the International Holocaust Remembrance Alliance (IHRA), which took place between March 2018 and March 2019, the conference "The innocent enemy. Incitement to hatred in contemporary Europe ". The meeting, which was held on 12 November 2018 at the Shoah Memorial in Milan, aimed to analyze and describe hate speech processes from various points of view: historical (the characteristics of anti-Semitic propaganda and type discriminatory from the National Socialist regime to date), legal ("pro" and "no hate" rules and legislation: a weakness of the law in the face of these phenomena?), sociological and communication (the trivialization of hatred and aspects related to hate speech on the web) and educational-didactic (indications to contrast the spread of hate speech).
 
 ### 2) May 17 - International Day against Homophobia
 
-The European Union has called the International Day against Homophobia (resolution of the European Parliament of  April  26,  2007)  for  17  May  each  year,  or  against  any  form  of  prejudice  based  on  sexual  orientation.  The principles  that  inspire  the  day  are  the  constitutive  principles  of  both  the  European  Union  and  the  Italian Constitution:  respect  for  human  rights  and  fundamental  freedoms,  equality  between  all  citizens  and  nondiscrimination. These are also the conditions that allow society to promote the inclusion of each and every one and to fight against any offense to people. Each year the Ministry sends a note to all educational institutions to reiterate the importance of the Day by inviting schools to start awareness-raising initiatives against inequalities and promote a valorisation of diversity.
+The European Union has called the International Day against Homophobia (resolution of the European Parliament of April 26, 2007) for 17 May each year, or against any form of prejudice based on sexual orientation. The principles that inspire the day are the constitutive principles of both the European Union and the Italian Constitution: respect for human rights and fundamental freedoms, equality between all citizens and non-discrimination. These are also the conditions that allow society to promote the inclusion of each and every one and to fight against any offense to people. Each year the Ministry sends a note to all educational institutions to reiterate the importance of the Day by inviting schools to start awareness-raising initiatives against inequalities and promote a valorisation of diversity.
 
 Viale Trastevere, 76/A - 00153 Roma 06/5849 2125 2126 - dgsip.ufficio2@istruzione.it
 
@@ -246,19 +254,26 @@ Viale Trastevere, 76/A - 00153 Roma 06/5849 2125 2126 - dgsip.ufficio2@istruzion
 
 [[START OF PAGE 8]]
 
+Ministero dell’Istruzione
+
+Dipartimento per il sistema educativo di istruzione e di formazione
+
+Direzione Generale per lo Studente, l’Inclusione e l’Orientamento scolastico
+
+Ufficio II
+
 summarized below:
 
 ##### Online awareness activities: information and communication campaigns aimed at students, young people in general, teachers and parents.
 
-Through the youtube and social channels, cartoon videos and video tutorials were first produced and then promoted in order to make children, parents and educators in general think about the positive and conscious use of the network: https://www.youtube.com/user/GenerazioniConnesse/playlists https://www.facebook.com/generazioniconnesse/
-
+Through the youtube and social channels, cartoon videos and video tutorials were first produced and then promoted in order to make children, parents and educators in general think about the positive and conscious use of the network: https://www.youtube.com/user/GenerazioniConnesse/playlists
+https://www.facebook.com/generazioniconnesse/
 https://twitter.com/saferinternetit
-
 https://www.instagram.com/generazioni_connesse/
 
 ##### International day of online security, Safer Internet Day
 
-Safer Internet Day (SID) 2020 is the world day for network security, established and promoted by the European Commission,  which  is  celebrated  on  the  second  Tuesday  of  February.  For  all  schools  that  want  to  offer  a contribution to the Safer Internet Day 2020 celebrations, it is required to upload their events online on the website www.generazioniconnesse.it obtaining visibility at national and European level.
+Safer Internet Day (SID) 2020 is the world day for network security, established and promoted by the European Commission, which is celebrated on the second Tuesday of February. For all schools that want to offer a contribution to the Safer Internet Day 2020 celebrations, it is required to upload their events online on the website www.generazioniconnesse.it obtaining visibility at national and European level.
 
 ##### E-policy in schools
 
@@ -288,37 +303,30 @@ The SIC also makes use of a National Advisory Board, a working group that boasts
 
 The Generazioni Connesse project is also projected at European Cooperation level in synergy with the other safer Internet Centers for the exchange of good practices, materials, educational and communication resources. The
 
-Viale Trastevere, 76/A - 00153 Roma 06/5849 2125 2126 - dgsip.ufficio2@istruzione.it
-
-Ministero dell'Istruzione
-
-Dipartimento per il sistema educativo di istruzione e di formazione
-
-Direzione Generale per lo Studente, l'Inclusione e l'Orientamento scolastico
-
-Ufficio II
+Viale Trastevere, 76/A - 00153 Roma
+06/5849 2125 2126 - dgsip.ufficio2@istruzione.it
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-Dipartimento per il sistema educativo di istruzione e di
+Ministero dell’Istruzione
 
-Ministero dell'Istruzione formazione
+Dipartimento per il sistema educativo di istruzione e di formazione
 
-Direzione Generale per lo Studente, l'Inclusione e l'Orientamento scolastico
+Direzione Generale per lo Studente, l’Inclusione e l’Orientamento scolastico
 
 Ufficio II
 
-safest Internet Center English was actively illustrated at all the meetings planned by the European Commission: Safer  Internet  Forum  and  Insafe  training  meetings,  aimed  at  promoting  the  exchange  of  good  practices. Furthermore, all the activities described above were promoted within the # SaferInternet4EU campaign, launched by Commissioner Mariya Gabriel, as well as giving them visibility in a European and international context.
+safest Internet Center English was actively illustrated at all the meetings planned by the European Commission: Safer Internet Forum and Insafe training meetings, aimed at promoting the exchange of good practices. Furthermore, all the activities described above were promoted within the # SaferInternet4EU campaign, launched by Commissioner Mariya Gabriel, as well as giving them visibility in a European and international context.
 
 #### B) ELISA Platform Project - Training of referent teachers
 
-With the  issuance  of  the  "Guidelines  for  actions  to  prevent  and  combat  bullying  and  cyberbullying",  and  the subsequent "National Plan for the prevention of bullying and cyberbullying at school" presented in October 2016, the  Ministry  of  Education  wanted  give  a  strong  signal  of  recovery  of  bullying  and  cyberbullying  prevention activities, making specific financial resources available to schools to implement national initiatives, with the aim of involving as many educational institutions as possible and creating a national network aimed at contrasting youth unease. Furthermore, as required by Law 71/2017 and by the update of the Guidelines for the prevention and countering of cyberbullying (MIUR note prot. No. 5515 of 27-10-2017), the MI has undertaken to implement a National  Training  Plan  for  referring  teachers  to  combat  bullying  and  cyberbullying,  requiring  all  schools  and regional  school  offices  to  identify  at  least  one  referring  teacher  for  bullying  and  cyberbullying.  In  fact,  in collaboration  with  the  Department  of  Education,  Languages,  Interculture,  Literature  and  Psychology  of  the University of Florence, the ELISA platform (E-learning of Teachers on Anti-bullying Strategies) was prepared and launched https://www.piattaformaelisa.it/piattaforma-e-learning/ to equip schools with effective intervention tools on cyberbullying and bullying. To meet this objective, two specific actions have been carried out: an area dedicated to schools for online monitoring of bullying and cyberbullying and a section dedicated to teachers for training through modules and learning aimed at teachers.
+With the issuance of the "Guidelines for actions to prevent and combat bullying and cyberbullying", and the subsequent "National Plan for the prevention of bullying and cyberbullying at school" presented in October 2016, the Ministry of Education wanted give a strong signal of recovery of bullying and cyberbullying prevention activities, making specific financial resources available to schools to implement national initiatives, with the aim of involving as many educational institutions as possible and creating a national network aimed at contrasting youth unease. Furthermore, as required by Law 71/2017 and by the update of the Guidelines for the prevention and countering of cyberbullying (MIUR note prot. No. 5515 of 27-10-2017), the MI has undertaken to implement a National Training Plan for referring teachers to combat bullying and cyberbullying, requiring all schools and regional school offices to identify at least one referring teacher for bullying and cyberbullying. In fact, in collaboration with the Department of Education, Languages, Interculture, Literature and Psychology of the University of Florence, the ELISA platform (E-learning of Teachers on Anti-bullying Strategies) was prepared and launched https://www.piattaformaelisa.it/piattaforma-e-learning/ to equip schools with effective intervention tools on cyberbullying and bullying. To meet this objective, two specific actions have been carried out: an area dedicated to schools for online monitoring of bullying and cyberbullying and a section dedicated to teachers for training through modules and learning aimed at teachers.
 
 #### C) Interministerial Technical Table
 
-Following the entry into force of Law 71/2017 "Provisions for the protection of minors for the prevention and contrast of the phenomenon of cyberbullying", the Interinstitutional Technical Table was established with DPCM 2566 of 20 October 2017, whose coordination is entrusted to the Ministry of Education. The objective of the Table, which took place in February 2018, is to produce an Integrated Action Plan for the fight against and prevention of cyberbullying, in compliance with the European directives on the matter and within the framework of the European Union's  multi-annual  program  (referred  to  in  Decision  1351/2008/EC  of  the  European  Parliament  and  of  the Council, of 16 December 2008) and implement a data collection system aimed at monitoring the evolution of the phenomena, also using collaboration with the Postal and Communications Police and with other police forces. The table met on 10 July 2019, resuming activities for the drafting of the Integrated Action Plan envisaged by the standard.
+Following the entry into force of Law 71/2017 "Provisions for the protection of minors for the prevention and contrast of the phenomenon of cyberbullying", the Interinstitutional Technical Table was established with DPCM 2566 of 20 October 2017, whose coordination is entrusted to the Ministry of Education. The objective of the Table, which took place in February 2018, is to produce an Integrated Action Plan for the fight against and prevention of cyberbullying, in compliance with the European directives on the matter and within the framework of the European Union's multi-annual program (referred to in Decision 1351/2008/EC of the European Parliament and of the Council, of 16 December 2008) and implement a data collection system aimed at monitoring the evolution of the phenomena, also using collaboration with the Postal and Communications Police and with other police forces. The table met on 10 July 2019, resuming activities for the drafting of the Integrated Action Plan envisaged by the standard.
 
 #### B) Participation in Interinstitutional Tables
 
@@ -326,93 +334,97 @@ The Minister of Education participates in several interinstitutional tables aime
 
 ## Actions for the National Plan to combat trafficking and serious exploitation of human beings 2019-2020
 
-- The Student DG of the MI provided, as far as it is concerned, a Contribution for the National Plan for the fight against trafficking and the serious exploitation of human beings 2019-2020 in October 2019.
+1) The Student DG of the MI provided, as far as it is concerned, a Contribution for the National Plan for the fight against trafficking and the serious exploitation of human beings 2019-2020 in October 2019.
 
 ### 2) Actions for the culture of legality
 
-Viale Trastevere, 76/A - 00153 Roma 06/5849 2125 2126 - dgsip.ufficio2@istruzione.it
+Viale Trastevere, 76/A - 00153 Roma
+06/5849 2125 2126 - dgsip.ufficio2@istruzione.it
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
-Dipartimento per il sistema educativo di istruzione e di
+Ministero dell’Istruzione
 
-Ministero dell'Istruzione formazione
+Dipartimento per il sistema educativo di istruzione e di formazione
 
-Direzione Generale per lo Studente, l'Inclusione e l'Orientamento scolastico
+Direzione Generale per lo Studente, l’Inclusione e l’Orientamento scolastico
 
 Ufficio II
 
-In partnership with the Chamber of Deputies and the Senate of the Republic, the MI student management organizes the following competitions every year to promote the culture of legality in order to exercise active citizenship in various sectors: 1) "From parliamentary classrooms to classrooms. Constitution lessons"; 2)"A day in the Senate"; 3)"Senate  &  Environment";  4)  "Witnesses  of  rights";  5)"I  would  like  a  law  that  ...";  6)  "Training  day  in Montecitorio"; 7) "Parlawiki - Build the Democracy Vocabulary".
+In partnership with the Chamber of Deputies and the Senate of the Republic, the MI student management organizes the following competitions every year to promote the culture of legality in order to exercise active citizenship in various sectors: 1) "From parliamentary classrooms to classrooms. Constitution lessons"; 2)"A day in the Senate"; 3)"Senate & Environment"; 4) "Witnesses of rights"; 5)"I would like a law that ..."; 6) "Training day in Montecitorio"; 7) "Parlawiki - Build the Democracy Vocabulary".
 
 ## Actions for health education and correct lifestyles
 
 ### 1) Memorandum of Understanding Ministry of Education - Ministry of Health
 
-Over the years, the MI Student DG has started various activities and collaborations, aimed at schools of all levels and degrees, to protect the right to health, raise awareness of prevention issues and promote correct lifestyles. In February  2019,  the  protocol  of  understanding  with  the  Ministry  of  Health  was  renewed  and  the  document  of Integrated Policy Addresses for the school that promotes health was signed, a document that integrates what has already  been  defined  in  the  renewed  protocol.  To  implement  the  memorandum  of  understanding,  a  new  joint committee was set up which organized itself into working groups on the following topics: 1.Lifestyles, Nutrition, Nutrition; 2.Addictions, Mental Health, Eating Disorders; 3.Disability and Inclusion; 4.Affection; 5.Prevention of infectious diseases, Vaccinations.
+Over the years, the MI Student DG has started various activities and collaborations, aimed at schools of all levels and degrees, to protect the right to health, raise awareness of prevention issues and promote correct lifestyles. In February 2019, the protocol of understanding with the Ministry of Health was renewed and the document of Integrated Policy Addresses for the school that promotes health was signed, a document that integrates what has already been defined in the renewed protocol. To implement the memorandum of understanding, a new joint committee was set up which organized itself into working groups on the following topics: 1.Lifestyles, Nutrition, Nutrition; 2.Addictions, Mental Health, Eating Disorders; 3.Disability and Inclusion; 4.Affection; 5.Prevention of infectious diseases, Vaccinations.
 
 ### 2) Participation and inter-ministerial tables
 
-The MI also participates in the following inter-ministerial tables set up at the Ministry of health: 1.Urban Health City and Health Working Table, at the Ministry of Health, made up of members of MI, Ministry of Infrastructure and Transport, Ministry of the Environment, Protection of the Territory and the Sea, Interregional Coordination of Prevention, National Association of the Municipalities of Italy, the Higher Institute of Health, the Italian Hygiene Society, the Italian Healthy Cities Network, with the aim of producing a policy document aimed at promoting the integration  of  health  policies  with  urban  planning  policies;  2.  Intersectoral  table  for  the  promotion  of  correct lifestyles in public administrations, to make employees aware of the issues of prevention and promotion of correct lifestyles; 3.The Observatory for the fight against the spread of gambling and the phenomenon of serious addiction, set up at the Ministry of Health in agreement with the Ministry of Finance, with the task of defining the guidelines, monitoring  dependencies  and  verifying  the  effectiveness  of  the  treatments  and  preventive  actions  undertaken. Finally, there are some associations and foundations, with which the MI has signed memoranda of understanding and agreements, to prepare calls for students or the promulgation of educational offers, related to health issues: Italian  Association  for  Cancer  Research  (AIRC  Foundation);  Italian  Red  Cross  (CRI);  Umberto  Veronesi Foundation  (FUV);  Italian  Society  of  Urology  (SIU);  Melanoma  Italian  Intergroup  (IMI);  Italian  Scientific Association  for  Research  and  Education  in  Sleep  Medicine  (ASSIREM);  Italian  Institute  of  Donation  (IID); Biological gift; Italian League for the Fight against Cancer (LILT); Italian Blood Volunteers Association (AVIS); Italian Thyroid Association (AIT); Italian Salvation Society; Italian Society of Pediatrics (SIP); National Council of Psychologists Order (CNOP).
+The MI also participates in the following inter-ministerial tables set up at the Ministry of health: 1.Urban Health - City and Health Working Table, at the Ministry of Health, made up of members of MI, Ministry of Infrastructure and Transport, Ministry of the Environment, Protection of the Territory and the Sea, Interregional Coordination of Prevention, National Association of the Municipalities of Italy, the Higher Institute of Health, the Italian Hygiene Society, the Italian Healthy Cities Network, with the aim of producing a policy document aimed at promoting the integration of health policies with urban planning policies; 2. Intersectoral table for the promotion of correct lifestyles in public administrations, to make employees aware of the issues of prevention and promotion of correct lifestyles; 3.The Observatory for the fight against the spread of gambling and the phenomenon of serious addiction, set up at the Ministry of Health in agreement with the Ministry of Finance, with the task of defining the guidelines, monitoring dependencies and verifying the effectiveness of the treatments and preventive actions undertaken. Finally, there are some associations and foundations, with which the MI has signed memoranda of understanding and agreements, to prepare calls for students or the promulgation of educational offers, related to health issues: Italian Association for Cancer Research (AIRC Foundation); Italian Red Cross (CRI); Umberto Veronesi Foundation (FUV); Italian Society of Urology (SIU); Melanoma Italian Intergroup (IMI); Italian Scientific Association for Research and Education in Sleep Medicine (ASSIREM); Italian Institute of Donation (IID); Biological gift; Italian League for the Fight against Cancer (LILT); Italian Blood Volunteers Association (AVIS); Italian Thyroid Association (AIT); Italian Salvation Society; Italian Society of Pediatrics (SIP); National Council of Psychologists Order (CNOP).
 
 ### 3) Contrast to the use of drugs and psychotropic substances
 
-On August 7, 2017 MI and the Prime Minister signed the Memorandum of Understanding on the prevention of drugs in school age. The parties have also signed a collaboration agreement (pursuant to article 15 of L. 241 of 1990). The Steering Committee, made up of members of the Student DG and the Drug Policy Department, has prepared  the  three-year  plan  of  activities  that  identifies  teachers,  students  and  parents  as  recipients,  to  whom information and training campaigns are addressed. In particular, teachers of schools of all levels have been involved in a training plan (online and in presence) precisely on the issues of addiction.
+On August 7, 2017 MI and the Prime Minister signed the Memorandum of Understanding on the prevention of drugs in school age. The parties have also signed a collaboration agreement (pursuant to article 15 of L. 241 of 1990). The Steering Committee, made up of members of the Student DG and the Drug Policy Department, has prepared the three-year plan of activities that identifies teachers, students and parents as recipients, to whom information and training campaigns are addressed. In particular, teachers of schools of all levels have been involved in a training plan (online and in presence) precisely on the issues of addiction.
 
 ### 4) Promotion of road safety
 
-Viale Trastevere, 76/A - 00153 Roma 06/5849 2125 2126 - dgsip.ufficio2@istruzione.it
+Viale Trastevere, 76/A - 00153 Roma
+06/5849 2125 2126 - dgsip.ufficio2@istruzione.it
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
-### 1) World Soil Day
+Ministero dell’Istruzione
 
-On December 5, 2013, in the framework of the Global Soil Partnership, with the unanimous support of the members of the Food Agricultural Organization, and with the support of the United Nations, World Soil Day was recognized for the first time. Since 2014, the World Day Soil is held every year on December 5 to focus attention on the importance  of  healthy  soil  and  to  promote  its  sustainable  management.  On  29  November  2019,  the  student administration of the MI issued a circular addressed to all schools of all levels and inviting schools to carry out further studies on the topic also thanks to the materials indicated in the note itself, with the aim of promoting sustainable management soil intended as a non-renewable resource.
+Dipartimento per il sistema educativo di istruzione e di formazione
 
-### 2) PON "For the School" 2014-2020
-
-On  December  13,  2019,  MI  presented  the  theme  of  this  year's  projects  to  which  European  funds  should  be dedicated: "Educating for sustainability. The stories of the PON Scuola ". 3.157 new projects will be financed with 113 million euros; more than 2 million students are those involved so far, over 52.000 projects already funded, almost  8.000  institutions  involved.  The  National  Operational  Program  "For  the  School  -  Skills  and  learning environments" held by the MI in the context of the Programming of the European Structural Funds 2014-2020 has a total financial envelope of over 2.8 billion euros.
-
-## Actions after Covid 19 epidemic
-
-The Ministry of Education has dedicated a section on the home page to Covid 19 https://www.istruzione.it/coronavirus/index.html
-
-In particular, for the law enforcement, please see: https://www.istruzione.it/coronavirus/norme.html
-
-The  following  documents  are  those  with  the  basic  principle  of  the  contrast  of  any  discrimination  and  the implementation of full inclusion:
-
-- Letter  from  the  Minister  of  Education  to  schools  -  protection  of  the  right  to  education  for  pupils  with disabilities April 27, 2020
-
-- Adoption of the Document for the planning of school, educational and training activities in all Institutions of the National Education System for the 2020/2021 school year
-
-- Guidance and orientation document for the resumption of activities in the presence of educational services and kindergartens
-
-Viale Trastevere, 76/A - 00153 Roma 06/5849 2125 2126 - dgsip.ufficio2@istruzione.it
-
-Dipartimento per il sistema educativo di istruzione e di
-
-Ministero dell'Istruzione formazione
-
-Direzione Generale per lo Studente, l'Inclusione e l'Orientamento scolastico
+Direzione Generale per lo Studente, l’Inclusione e l’Orientamento scolastico
 
 Ufficio II
 
-Road education is one of the priorities on which MI works to promote the culture of street safety among young people.  Edustrada  is  the  national  project  for  road  education  in  schools,  an  operational  tool  that  uses  new methodologies  to  increase  the  involvement  of  students  and  teachers.  The  www.edustrada.it  platform  is  an interactive space dedicated to schools, of all types and levels, to allow participation in the initiative. The training offer includes educational projects, meetings in schools, materials, information content and competitions, which promote the active participation of students and teachers. The Project calls for awareness and internalization of values that lead to taking on responsible and constructive forms of coexistence. The portal was started by the MI student management in 2017, in collaboration with the Ministry of infrastructure and transport, the traffic police, the  psychology  department  of  the  Sapienza  University  of  Rome,  the  Italian  cycling  federation  and  the  Italian motorcycle federation, the Automobile club of Italy, the Ania Foundation.
+Road education is one of the priorities on which MI works to promote the culture of street safety among young people. Edustrada is the national project for road education in schools, an operational tool that uses new methodologies to increase the involvement of students and teachers. The www.edustrada.it platform is an interactive space dedicated to schools, of all types and levels, to allow participation in the initiative. The training offer includes educational projects, meetings in schools, materials, information content and competitions, which promote the active participation of students and teachers. The Project calls for awareness and internalization of values that lead to taking on responsible and constructive forms of coexistence. The portal was started by the MI student management in 2017, in collaboration with the Ministry of infrastructure and transport, the traffic police, the psychology department of the Sapienza University of Rome, the Italian cycling federation and the Italian motorcycle federation, the Automobile club of Italy, the Ania Foundation.
 
 ## Actions for environmental education and sustainability
+
+### 1) World Soil Day
+
+On December 5, 2013, in the framework of the Global Soil Partnership, with the unanimous support of the members of the Food Agricultural Organization, and with the support of the United Nations, World Soil Day was recognized for the first time. Since 2014, the World Day Soil is held every year on December 5 to focus attention on the importance of healthy soil and to promote its sustainable management. On 29 November 2019, the student administration of the MI issued a circular addressed to all schools of all levels and inviting schools to carry out further studies on the topic also thanks to the materials indicated in the note itself, with the aim of promoting sustainable management soil intended as a non-renewable resource.
+
+### 2) PON "For the School" 2014-2020
+
+On December 13, 2019, MI presented the theme of this year's projects to which European funds should be dedicated: "Educating for sustainability. The stories of the PON Scuola ". 3.157 new projects will be financed with 113 million euros; more than 2 million students are those involved so far, over 52.000 projects already funded, almost 8.000 institutions involved. The National Operational Program "For the School - Skills and learning environments" held by the MI in the context of the Programming of the European Structural Funds 2014-2020 has a total financial envelope of over 2.8 billion euros.
+
+## Actions after Covid 19 epidemic
+
+The Ministry of Education has dedicated a section on the home page to Covid 19
+https://www.istruzione.it/coronavirus/index.html
+
+In particular, for the law enforcement, please see: https://www.istruzione.it/coronavirus/norme.html
+
+The following documents are those with the basic principle of the contrast of any discrimination and the implementation of full inclusion:
+
+1) Letter from the Minister of Education to schools - protection of the right to education for pupils with disabilities April 27, 2020
+
+2) Adoption of the Document for the planning of school, educational and training activities in all Institutions of the National Education System for the 2020/2021 school year
+
+3) Guidance and orientation document for the resumption of activities in the presence of educational services and kindergartens
+
+Viale Trastevere, 76/A - 00153 Roma
+06/5849 2125 2126 - dgsip.ufficio2@istruzione.it
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
-Dipartimento per il sistema educativo di istruzione e di
+Ministero dell’Istruzione
 
-Ministero dell'Istruzione formazione
+Dipartimento per il sistema educativo di istruzione e di formazione
 
-Direzione Generale per lo Studente, l'Inclusione e l'Orientamento scolastico
+Direzione Generale per lo Studente, l’Inclusione e l’Orientamento scolastico
 
 Ufficio II
 
@@ -422,6 +434,7 @@ https://fra.europa.eu/sites/default/files/fra_uploads/it_report_on_coronavirus_p
 
 Roma, 4 agosto 2020
 
-Viale Trastevere, 76/A - 00153 Roma 06/5849 2125 2126 - dgsip.ufficio2@istruzione.it
+Viale Trastevere, 76/A - 00153 Roma
+06/5849 2125 2126 - dgsip.ufficio2@istruzione.it
 
 [[END OF PAGE 12]]
