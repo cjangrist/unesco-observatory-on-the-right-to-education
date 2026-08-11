@@ -8,15 +8,15 @@ Status: This is the original version (as it was originally enacted).
 
 An Act to make provision about free childcare for young children of working parents and about the publication of information about childcare and related matters by local authorities in England. [16th March 2016]
 
-BE IT ENACTED by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:-
+BE IT ENACTED by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
 ## Availability of free childcare
 
 ### 1 Duty to secure 30 hours free childcare available for working parents
 
-- The  Secretary  of  State  must  secure  that  childcare  is  available  free  of  charge  for qualifying children of working parents for, or for a period equivalent to, 30 hours in each of 38 weeks in any year.
+(1) The Secretary of State must secure that childcare is available free of charge for qualifying children of working parents for, or for a period equivalent to, 30 hours in each of 38 weeks in any year.
 
-'Qualifying child of working parents' means a young child-
+(2) “Qualifying child of working parents” means a young child—
 
 (a) who is under compulsory school age,
 
@@ -28,9 +28,9 @@ BE IT ENACTED by the Queen's most Excellent Majesty, by and with the advice and 
 
 (e) in respect of whom a declaration has been made, in accordance with such regulations, to the effect that the requirements of paragraphs (a) to (d) are satisfied.
 
-- The conditions mentioned in subsection (2)(d) may, in particular, relate to the paid work undertaken by a parent or partner.
+(3) The conditions mentioned in subsection (2)(d) may, in particular, relate to the paid work undertaken by a parent or partner.
 
-- For  the  purposes  of  subsections  (2)  and  (3),  the  Secretary  of  State  may  by regulations-
+(4) For the purposes of subsections (2) and (3), the Secretary of State may by regulations—
 
 [[END OF PAGE 1]]
 
@@ -44,13 +44,13 @@ Document Generated: 2020-04-06
 
 Status: This is the original version (as it was originally enacted).
 
-(a) make provision about when a person is, or is not, to be regarded as another person's partner;
+(a) make provision about when a person is, or is not, to be regarded as another person’s partner;
 
 (b) make provision as to what is, or is not, paid work;
 
 (c) specify circumstances in which a person is, or is not, to be regarded as in such work;
 
-(d) make provision about-
+(d) make provision about—
 
 (i) the form of a declaration and the manner in which it is to be made;
 
@@ -58,37 +58,39 @@ Status: This is the original version (as it was originally enacted).
 
 (iii) the period for which a declaration has effect.
 
-- For the purposes of assisting the Secretary of State in the discharge of the duty imposed by subsection (1), the Commissioners for Her Majesty's Revenue and Customs may carry out functions in connection with the making of determinations as to whether a child is a qualifying child of working parents.
+(5) For the purposes of assisting the Secretary of State in the discharge of the duty imposed by subsection (1), the Commissioners for Her Majesty’s Revenue and Customs may carry out functions in connection with the making of determinations as to whether a child is a qualifying child of working parents.
 
-- In determining, for the purposes of subsection (1), the amount of childcare that is available-
+(6) In determining, for the purposes of subsection (1), the amount of childcare that is available—
 
 (a) account is to be taken of any childcare available under the duty imposed by section 7(1) of the Childcare Act 2006 (duty of English local authorities to secure early years provision free of charge in accordance with regulations), but
 
 (b) no account is to be taken of childcare available otherwise than by virtue of that duty or the duty imposed by subsection (1).
 
-- The Secretary of State must set out in regulations when a year begins for the purposes of  determining  in  relation  to  a  child  whether  the  duty  in  subsection  (1)  has  been discharged.
+(7) The Secretary of State must set out in regulations when a year begins for the purposes of determining in relation to a child whether the duty in subsection (1) has been discharged.
 
-- The Secretary of State may by regulations make provision about the circumstances in which a child is, or is not, in England for the purposes of this section.
+(8) The Secretary of State may by regulations make provision about the circumstances in which a child is, or is not, in England for the purposes of this section.
 
-- In this section-
+(9) In this section—
 
-'childcare' has the meaning given by section 18 of the Childcare Act 2006; 'parent', in relation to a child, includes any individual who-
+“childcare” has the meaning given by section 18 of the Childcare Act 2006;
+“parent”, in relation to a child, includes any individual who—
 
 (a) has parental responsibility for the child, or
 
 (b) has care of the child;
 
-'parental responsibility' has the same meaning as in the Children Act 1989; 'young child': a child is a 'young child' during the period-
+“parental responsibility” has the same meaning as in the Children Act 1989;
+“young child”: a child is a “young child” during the period—
 
-(a) beginning with the child's birth, and
+(a) beginning with the child’s birth, and
 
 (b) ending immediately before the 1 September next following the date on which the child attains the age of 5.
 
 ### 2 Discharging the section 1(1) duty
 
-- The Secretary of State may make regulations for the purpose of discharging the duty imposed by section 1(1) ('extended entitlement regulations').
+(1) The Secretary of State may make regulations for the purpose of discharging the duty imposed by section 1(1) (“extended entitlement regulations”).
 
-- Extended entitlement regulations may (amongst other things)-
+(2) Extended entitlement regulations may (amongst other things)—
 
 (a) require an English local authority to secure that childcare of such a description as may be specified is made available free of charge for children in their area who are qualifying children of working parents;
 
@@ -100,39 +102,39 @@ Childcare Act 2016 (c. 5)
 
 Document Generated: 2020-04-06
 
-Status: This is the original version (as it was originally enacted).
-
 3
+
+Status: This is the original version (as it was originally enacted).
 
 (b) make provision about how much childcare is to be so made available for each child, and about the times at which, and periods over which, that childcare is to be made available;
 
 (c) make provision about the terms of any arrangements made between English local authorities and providers or arrangers of childcare for the purposes of meeting any requirement imposed under paragraph (a) or (b);
 
-(d) impose obligations or confer powers on the Commissioners for Her Majesty's Revenue and Customs;
+(d) impose obligations or confer powers on the Commissioners for Her Majesty’s Revenue and Customs;
 
-(e) make  provision  requiring  information  or  documents  to  be  provided  by  a person  to  the  Secretary  of  State,  the  Commissioners  for  Her  Majesty's Revenue and Customs or an English local authority;
+(e) make provision requiring information or documents to be provided by a person to the Secretary of State, the Commissioners for Her Majesty’s Revenue and Customs or an English local authority;
 
 (f) make provision for the purpose of enabling any person to check whether a child is a qualifying child of working parents;
 
-(g) for that purpose, make provision about the disclosure of information held by a Minister of the Crown, the Commissioners for Her Majesty's Revenue and Customs or an English local authority;
+(g) for that purpose, make provision about the disclosure of information held by a Minister of the Crown, the Commissioners for Her Majesty’s Revenue and Customs or an English local authority;
 
-(h) create  criminal  offences  in  connection  with  the  onward  disclosure  of information obtained under paragraph (g) where that information relates to a particular person and is not disclosed in a way authorised by or specified in the regulations;
+(h) create criminal offences in connection with the onward disclosure of information obtained under paragraph (g) where that information relates to a particular person and is not disclosed in a way authorised by or specified in the regulations;
 
-(i) make provision for reviews of, or appeals to the First-tier Tribunal against, determinations relating to a child's eligibility for childcare under section 1;
+(i) make provision for reviews of, or appeals to the First-tier Tribunal against, determinations relating to a child’s eligibility for childcare under section 1;
 
-(j) make provision for a person specified in the regulations to impose financial penalties on persons in connection with-
+(j) make provision for a person specified in the regulations to impose financial penalties on persons in connection with—
 
-(i) false  or  misleading  information  provided,  or  statements  made  or provided, in connection with a determination of a child's eligibility for childcare under section 1, or
+(i) false or misleading information provided, or statements made or provided, in connection with a determination of a child’s eligibility for childcare under section 1, or
 
 (ii) dishonest conduct in connection with the process of making such a determination;
 
-(k) require  English  local  authorities,  when  discharging  their  duties  under  the regulations, to have regard to any guidance given from time to time by the Secretary of State.
+(k) require English local authorities, when discharging their duties under the regulations, to have regard to any guidance given from time to time by the Secretary of State.
 
-- Extended  entitlement  regulations  which  impose  a  duty,  or  confer  a  power,  on  the Commissioners for Her Majesty's Revenue and Customs, or authorise disclosure of information held by the Commissioners, may only be made with the consent of the Treasury.
+(3) Extended entitlement regulations which impose a duty, or confer a power, on the Commissioners for Her Majesty’s Revenue and Customs, or authorise disclosure of information held by the Commissioners, may only be made with the consent of the Treasury.
 
-- In  relation  to  a  criminal  offence  created  by  virtue  of  subsection  (2)(h),  extended entitlement regulations may not provide for a penalty of imprisonment on conviction on indictment greater than imprisonment for a term not exceeding two years (whether or not accompanied by a fine).
+(4) In relation to a criminal offence created by virtue of subsection (2)(h), extended entitlement regulations may not provide for a penalty of imprisonment on conviction on indictment greater than imprisonment for a term not exceeding two years (whether or not accompanied by a fine).
 
-- If provision is made by virtue of subsection (2)(j)-
+(5) If provision is made by virtue of subsection (2)(j)—
 
 (a) the maximum amount of any penalty that may be specified in, or determined in accordance with, the regulations is £3,000;
 
@@ -154,51 +156,49 @@ Status: This is the original version (as it was originally enacted).
 
 (ii) to appeal against the imposition of the penalty or its amount to the First-tier Tribunal.
 
-- The Secretary of State may by regulations substitute a different amount for the amount for the time being specified in subsection (5)(a).
+(6) The Secretary of State may by regulations substitute a different amount for the amount for the time being specified in subsection (5)(a).
 
-- In section 15 of the Childcare Act 2006 (powers of Secretary of State to secure proper performance of English local authorities' powers and duties under Part 1 of that Act) references to Part 1 of that Act are to be read as including a reference to section 1 and this section.
+(7) In section 15 of the Childcare Act 2006 (powers of Secretary of State to secure proper performance of English local authorities’ powers and duties under Part 1 of that Act) references to Part 1 of that Act are to be read as including a reference to section 1 and this section.
 
-- In this section-
+(8) In this section—
 
-'childcare' has the meaning given by section 18 of the Childcare Act 2006;
+“childcare” has the meaning given by section 18 of the Childcare Act 2006;
 
-'English local authority' means-
+“English local authority” means—
 
 (a) a county council in England;
 
 (b) a metropolitan district council;
 
-(c) a  non-metropolitan  district  council  for  an  area  for  which  there  is  no county council;
+(c) a non-metropolitan district council for an area for which there is no county council;
 
 (d) a London borough council;
 
 (e) the Common Council of the City of London (in their capacity as a local authority);
 
-(f)
+(f) the Council of the Isles of Scilly;
 
-- the Council of the Isles of Scilly;
+“parent” has the same meaning as in section 1;
 
-'parent' has the same meaning as in section 1;
-
-'qualifying child of working parents' has the meaning  given  by section 1(2).
+“qualifying child of working parents” has the meaning given by section 1(2).
 
 ### 3 Sections 1 and 2: consequential amendments
 
-- In  section  99  of  the  Childcare  Act  2006  (provision  of  information  about  young children: England), in subsection (1), omit the 'and' at the end of paragraph (aa) and after paragraph (b) insert  ', and
+(1) In section 99 of the Childcare Act 2006 (provision of information about young children: England), in subsection (1), omit the “and” at the end of paragraph (aa) and after paragraph (b) insert “, and
 
-(c) any other person who provides early years provision for the purposes of section 1(1) of the Childcare Act 2016 (Secretary of State's duty to secure 30 hours free childcare available for working parents),'.
+(c) any other person who provides early years provision for the purposes of section 1(1) of the Childcare Act 2016 (Secretary of State’s duty to secure 30 hours free childcare available for working parents),”.
 
-- In Chapter 4 of Part 2 of the School Standards and Framework Act 1998 (financing of maintained schools)-
+(2) In Chapter 4 of Part 2 of the School Standards and Framework Act 1998 (financing of maintained schools)—
 
-(a) in section 45A (determination of specified budgets of local authority), after subsection (4B) insert-
+(a) in section 45A (determination of specified budgets of local authority), after subsection (4B) insert—
 
-'(4C) For the purposes of this Part, a duty imposed on a local authority in  England  under  section  2  of  the  Childcare  Act  2016  (duties  in connection  with  Secretary  of  State's  duty  to  secure  30  hours  free childcare for working parents) is also to be treated as an education function of the authority.';
+“(4C) For the purposes of this Part, a duty imposed on a local authority in England under section 2 of the Childcare Act 2016 (duties in connection with Secretary of State’s duty to secure 30 hours free childcare for working parents) is also to be treated as an education function of the authority.”;
 
-(b) in section 47ZA (free of charge early years provision outside a maintained school: budgetary framework: England), in subsection (3), for paragraph (a) (but not the 'and' after it) substitute-
+(b) in section 47ZA (free of charge early years provision outside a maintained school: budgetary framework: England), in subsection (3), for paragraph (a) (but not the “and” after it) substitute—
 
-'(a) for the purpose of the discharge of-
+“(a) for the purpose of the discharge of—
 
-(i) the authority's duty under section 7 of the Childcare Act 2006, or
+(i) the authority’s duty under section 7 of the Childcare Act 2006, or
 
 [[END OF PAGE 4]]
 
@@ -208,17 +208,17 @@ Childcare Act 2016 (c. 5)
 
 Document Generated: 2020-04-06
 
-Status: This is the original version (as it was originally enacted).
-
 5
 
-(ii) a duty imposed on the authority under section 2 of the Childcare Act 2016,'.
+Status: This is the original version (as it was originally enacted).
+
+(ii) a duty imposed on the authority under section 2 of the Childcare Act 2016,”.
 
 ### 4 Supplementary provision about regulations under sections 1 and 2
 
-- In this section 'regulations' means regulations under section 1 or 2.
+(1) In this section “regulations” means regulations under section 1 or 2.
 
-- Regulations may-
+(2) Regulations may—
 
 (a) confer a discretion on any person;
 
@@ -228,11 +228,11 @@ Status: This is the original version (as it was originally enacted).
 
 (d) amend, repeal or revoke any provision made by or under an Act (whenever passed or made).
 
-- Regulations are to be made by statutory instrument.
+(3) Regulations are to be made by statutory instrument.
 
-- A statutory instrument containing (whether alone or with other provision) regulations mentioned in subsection (5) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+(4) A statutory instrument containing (whether alone or with other provision) regulations mentioned in subsection (5) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
 
-- The regulations referred to in subsection (4) are-
+(5) The regulations referred to in subsection (4) are—
 
 (a) the first regulations made under section 1;
 
@@ -242,23 +242,23 @@ Status: This is the original version (as it was originally enacted).
 
 (d) any other regulations that amend or repeal provision made by an Act.
 
-- Any  other  statutory  instrument  containing  regulations  is  subject  to  annulment  in pursuance of a resolution of either House of Parliament.
+(6) Any other statutory instrument containing regulations is subject to annulment in pursuance of a resolution of either House of Parliament.
 
 ## Publication of information
 
 ### 5 Duty to publish information about childcare and related matters
 
-In  section  12  of  the  Childcare  Act  2006  (duty  to  provide  information,  advice  and assistance), after subsection (6) insert-
+In section 12 of the Childcare Act 2006 (duty to provide information, advice and assistance), after subsection (6) insert—
 
-'(6A) Regulations may require each English local authority to publish information which is of a prescribed description and relates to any of the matters mentioned in paragraphs (a) to (c) of subsection (2).
+“(6A) Regulations may require each English local authority to publish information which is of a prescribed description and relates to any of the matters mentioned in paragraphs (a) to (c) of subsection (2).
 
-(6B) Regulations under subsection (6A) may require information to be published-
+(6B) Regulations under subsection (6A) may require information to be published—
 
 (a) at prescribed intervals;
 
 (b) in a prescribed manner.
 
-(6C) Subsection (3) applies in relation to information prescribed under subsection  (6A)  as  it  applies  in  relation  to  information  prescribed  under subsection (2).'
+(6C) Subsection (3) applies in relation to information prescribed under subsection (6A) as it applies in relation to information prescribed under subsection (2).”
 
 [[END OF PAGE 5]]
 
@@ -270,13 +270,17 @@ Childcare Act 2016 (c. 5)
 
 Document Generated: 2020-04-06
 
+Status: This is the original version (as it was originally enacted).
+
+## General
+
 ### 6 Extent
 
 This Act extends to England and Wales only.
 
 ### 7 Commencement
 
-- The following provisions come into force on the day on which this Act is passed-
+(1) The following provisions come into force on the day on which this Act is passed—
 
 (a) section 1(5);
 
@@ -286,20 +290,16 @@ This Act extends to England and Wales only.
 
 (d) section 8.
 
-- The remaining provisions of this Act come into force on such day or days as may be appointed by regulations made by the Secretary of State.
+(2) The remaining provisions of this Act come into force on such day or days as may be appointed by regulations made by the Secretary of State.
 
-- Regulations under subsection (2) may appoint different days for different purposes or different areas.
+(3) Regulations under subsection (2) may appoint different days for different purposes or different areas.
 
-- The Secretary of State may by regulations make transitional or saving provision in connection with the coming into force of any provision of this Act.
+(4) The Secretary of State may by regulations make transitional or saving provision in connection with the coming into force of any provision of this Act.
 
-- Regulations under this section are to be made by statutory instrument.
+(5) Regulations under this section are to be made by statutory instrument.
 
 ### 8 Short title
 
 This Act may be cited as the Childcare Act 2016.
-
-Status: This is the original version (as it was originally enacted).
-
-## General
 
 [[END OF PAGE 6]]
