@@ -10,11 +10,11 @@ Aprobadas por el Consejo Ejecutivo de la UNESCO en su 207ª reunión (octubre de
 
 ### 1. Introducción
 
-La Convención relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza ('la Convención') y la Recomendación relativa a la Lucha contra las Discriminaciones en la Esfera de la  Enseñanza  ('la  Recomendación'),  que  fueron  aprobadas  por  la  Conferencia  General  de  la UNESCO  en  1960,  responden  al  mandato  constitucional  de  la  Organización  consistente  en ' fomentar el ideal de la igualdad de posibilidades de educación para todos, sin distinción de raza, sexo ni condición social o económica alguna '. La Convención es el primer instrumento internacional jurídicamente vinculante en  establecer el derecho  a  la  educación y el  único  dedicado exclusivamente a tal derecho.
+La Convención relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza (“la Convención”) y la Recomendación relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza (“la Recomendación”), que fueron aprobadas por la Conferencia General de la UNESCO en 1960, responden al mandato constitucional de la Organización consistente en “fomentar el ideal de la igualdad de posibilidades de educación para todos, sin distinción de raza, sexo ni condición social o económica alguna”. La Convención es el primer instrumento internacional jurídicamente vinculante en establecer el derecho a la educación y el único dedicado exclusivamente a tal derecho.
 
-El  derecho  a  la  educación  es  hoy  en  día  uno  de  los  principios  clave  que  sustentan  la  agenda Educación 2030 y el Objetivo de Desarrollo Sostenible 4 (ODS 4), aprobados por la comunidad internacional. El ODS 4 está basado en los derechos y busca garantizar el pleno disfrute del derecho a la educación como elemento fundamental para lograr el desarrollo sostenible. Su alcance refleja la naturaleza multidimensional del derecho a la educación.
+El derecho a la educación es hoy en día uno de los principios clave que sustentan la agenda Educación 2030 y el Objetivo de Desarrollo Sostenible 4 (ODS 4), aprobados por la comunidad internacional. El ODS 4 está basado en los derechos y busca garantizar el pleno disfrute del derecho a la educación como elemento fundamental para lograr el desarrollo sostenible. Su alcance refleja la naturaleza multidimensional del derecho a la educación.
 
-La  Convención  ha  sido  reconocida  como  la piedra  angular  de  la  agenda  Educación  2030 . Además,  representa  una  poderosa  herramienta  para  avanzar  en  la  consecución  del  ODS 4, asegurando una articulación efectiva entre la labor normativa y operacional.
+La Convención ha sido reconocida como la piedra angular de la agenda Educación 2030. Además, representa una poderosa herramienta para avanzar en la consecución del ODS 4, asegurando una articulación efectiva entre la labor normativa y operacional.
 
 Las presentes directrices tienen por objeto ayudar a los Estados Miembros a preparar los informes nacionales sobre la aplicación de la Convención y la Recomendación en el marco de la décima consulta.
 
@@ -24,7 +24,7 @@ Existen diferencias entre la índole jurídica de las obligaciones previstas en 
 
 Al margen de las diferencias en cuanto a formulación y alcance jurídico inherentes al carácter de cada instrumento, el contenido de la Recomendación es idéntico al de la Convención. Se espera que  los  Estados  Miembros  la  pongan  en  práctica  en  su  legislación  nacional  y  sus  políticas educativas.
 
-Lo  que  es  más  importante,  las  disposiciones  del  artículo  VII  de  la  Convención  y  del  párrafo correspondiente de la Recomendación, relativas a las obligaciones en materia de presentación de informes, son idénticas. En el artículo VIII de la Constitución de la UNESCO se establece que ' cada Estado Miembro someterá a la Organización, en el momento y la forma que decida la Conferencia General,  informes  sobre  las  leyes,  reglamentos  y  estadísticas  relativos  a  sus  instituciones  y actividades educativas, científicas y culturales, así como sobre el curso dado a las recomendaciones y convenciones a que se refiere el párrafo 4 del Artículo IV '. Por tanto, incluso los países que no sean  Estados  Partes  en  la  Convención  deben  presentar  un  informe  sobre  la  aplicación  de  la Recomendación, lo que significa que se espera que todos los Estados Miembros de la UNESCO presenten un informe nacional sobre  la  aplicación  de  estos  instrumentos  en  el  marco  de  las consultas realizadas para su seguimiento.
+Lo que es más importante, las disposiciones del artículo VII de la Convención y del párrafo correspondiente de la Recomendación, relativas a las obligaciones en materia de presentación de informes, son idénticas. En el artículo VIII de la Constitución de la UNESCO se establece que “cada Estado Miembro someterá a la Organización, en el momento y la forma que decida la Conferencia General, informes sobre las leyes, reglamentos y estadísticas relativos a sus instituciones y actividades educativas, científicas y culturales, así como sobre el curso dado a las recomendaciones y convenciones a que se refiere el párrafo 4 del Artículo IV”. Por tanto, incluso los países que no
 
 [[END OF PAGE 1]]
 
@@ -32,9 +32,11 @@ Lo  que  es  más  importante,  las  disposiciones  del  artículo  VII  de  la 
 
 - 2 -
 
+sean Estados Partes en la Convención deben presentar un informe sobre la aplicación de la Recomendación, lo que significa que se espera que todos los Estados Miembros de la UNESCO presenten un informe nacional sobre la aplicación de estos instrumentos en el marco de las consultas realizadas para su seguimiento.
+
 ### 3. Participación en las consultas
 
-A  la  luz  de  la  agenda  Educación  2030,  el  seguimiento  de  la  aplicación  de  la  Convención  y  la Recomendación es de vital importancia  a  fin  de  garantizar  que  la  educación  esté  realmente  al alcance de todos y hacer frente a la persistencia de las desigualdades en cuanto al acceso, la participación y los resultados del aprendizaje en todos los niveles, especialmente para los grupos más vulnerables. Las medidas concretas adoptadas por los Estados Miembros en consonancia con sus obligaciones jurídicas en virtud de estos instrumentos contribuyen a este proceso.
+A la luz de la agenda Educación 2030, el seguimiento de la aplicación de la Convención y la Recomendación es de vital importancia a fin de garantizar que la educación esté realmente al alcance de todos y hacer frente a la persistencia de las desigualdades en cuanto al acceso, la participación y los resultados del aprendizaje en todos los niveles, especialmente para los grupos más vulnerables. Las medidas concretas adoptadas por los Estados Miembros en consonancia con sus obligaciones jurídicas en virtud de estos instrumentos contribuyen a este proceso.
 
 Dado que el alcance y el contenido de las obligaciones jurídicas en virtud del derecho a la educación están en consonancia con las diez metas del ODS 4, dedicadas a la educación, también se han hecho esfuerzos para velar por que las directrices incluyan los componentes específicos y sean un valioso instrumento de seguimiento para medir los progresos realizados hacia la consecución de estas metas 1 . Además, en vista de los desafíos en materia de educación que plantean la afluencia de refugiados y el aumento de los desplazamientos en todo el mundo, las directrices brindan la oportunidad de informar sobre las medidas concretas adoptadas durante el periodo que abarca el informe  para  incluir  a  los  refugiados  y  a  los  migrantes  en  los  sistemas  educativos  nacionales. Asimismo,  se  hará  hincapié  en  la  existencia  de  un  marco  jurídico  y  normativo  que  proteja  los derechos de las minorías nacionales.
 
@@ -48,9 +50,9 @@ El  periodo  examinado  para  la  décima  consulta  sobre  la  aplicación  de 
 
 Se invita a los Estados Miembros que ya presentaron informes en el marco de la novena consulta (2016-2017) a que se remitan a ellos cuando proceda. La información pertinente proporcionada en otros informes puede reproducirse o indicarse como referencia con indicaciones precisas para su consulta.  Del  mismo  modo,  se  apreciarán  los  hipervínculos  a  cualquier  documento  útil  o  texto jurídico o normativo pertinente, y también pueden añadirse textos en el anexo.
 
-Al preparar los informes, se ruega a los Estados Miembros que faciliten información breve y concisa, aunque  pueden  proporcionar  detalles  sobre  el  alcance  de  alguna  cuestión  si  lo  consideran necesario.  Además  de  una  descripción  del  marco  constitucional,  legislativo,  administrativo  y normativo establecido para la aplicación de las disposiciones consagradas en los instrumentos, la información facilitada por los Estados Miembros también deberá poner de relieve la forma en que la legislación y las prácticas nacionales se ajustan a la Convención y la Recomendación.
+Al preparar los informes, se ruega a los Estados Miembros que faciliten información breve y concisa, aunque pueden proporcionar detalles sobre el alcance de alguna cuestión si lo consideran necesario. Además de una descripción del marco constitucional, legislativo, administrativo y normativo establecido para la aplicación de las disposiciones consagradas en los instrumentos, la
 
-> 1 Cabe  señalar  que  la  Recomendación  sobre  la  Educación  para  la  Comprensión,  la  Cooperación  y  la  Paz Internacionales y la Educación relativa a los Derechos Humanos y las Libertades Fundamentales (1974) es el instrumento  utilizado  específicamente  para  el  seguimiento  de  la  meta  4.7  de  los  ODS.  La  Convención  y  la Recomendación de 1960 contribuyen de manera más general al conjunto de datos para el seguimiento de las metas del ODS 4.
+> 1 Cabe señalar que la Recomendación sobre la Educación para la Comprensión, la Cooperación y la Paz Internacionales y la Educación relativa a los Derechos Humanos y las Libertades Fundamentales (1974) es el instrumento utilizado específicamente para el seguimiento de la meta 4.7 de los ODS. La Convención y la Recomendación de 1960 contribuyen de manera más general al conjunto de datos para el seguimiento de las metas del ODS 4.
 
 [[END OF PAGE 2]]
 
@@ -58,13 +60,15 @@ Al preparar los informes, se ruega a los Estados Miembros que faciliten informac
 
 - 3 -
 
+información facilitada por los Estados Miembros también deberá poner de relieve la forma en que la legislación y las prácticas nacionales se ajustan a la Convención y la Recomendación.
+
 ### 5. Modalidades
 
 Con miras a simplificar las directrices proporcionando al mismo tiempo la información sustantiva necesaria para orientar a los Estados Miembros en la preparación de sus respuestas, se presentan dos series de preguntas y comentarios:
 
-- Preguntas abiertas y cerradas que los Estados Miembros deben responder directamente mediante  un  proceso  participativo.  Tenga  en  cuenta  que  pueden  proporcionarse múltiples respuestas cuando sea pertinente.
+1) Preguntas abiertas y cerradas que los Estados Miembros deben responder directamente mediante un proceso participativo. Tenga en cuenta que pueden proporcionarse múltiples respuestas cuando sea pertinente.
 
-- Información adicional destinada a orientar a los Estados Miembros para que estructuren y detallen sus respuestas a las preguntas abiertas (incluidos comentarios sobre cómo responder adecuadamente a las preguntas planteadas). Estos elementos se presentan en cursiva.
+2) Información adicional destinada a orientar a los Estados Miembros para que estructuren y detallen sus respuestas a las preguntas abiertas (incluidos comentarios sobre cómo responder adecuadamente a las preguntas planteadas). Estos elementos se presentan en cursiva.
 
 Se alienta a los Estados Miembros a que formulen sus respuestas de manera concisa, velando al mismo tiempo por que el contenido sea sustantivo y pertinente.
 
@@ -80,9 +84,9 @@ Nombre del país: República Argentina
 
 Organización o entidad responsable de la preparación del informe: Ministerio de Educación de la Nación.
 
-## Información sobre las medidas legislativas, judiciales, administrativas o de otra índole adoptadas por el Estado a escala nacional
+## I. Información sobre las medidas legislativas, judiciales, administrativas o de otra índole adoptadas por el Estado a escala nacional
 
-### Ratificación de la Convención 2
+### 1. Ratificación de la Convención 2
 
 ¿Es su país un Estado Parte en la Convención?
 
@@ -102,9 +106,9 @@ o En preparación activa
 
 Describa:
 
-- è Los obstáculos, ya sean de carácter jurídico, institucional, político o práctico
+- ➔ Los obstáculos, ya sean de carácter jurídico, institucional, político o práctico
 
-- è Cómo el país ha superado dichos obstáculos y en qué medida la UNESCO puede ayudarlo a completar el proceso
+- ➔ Cómo el país ha superado dichos obstáculos y en qué medida la UNESCO puede ayudarlo a completar el proceso
 
 o No, su país no está considerando la posibilidad de ratificar este instrumento en un futuro próximo. Por favor, explique por qué:
 
@@ -118,7 +122,7 @@ http://portal.unesco.org/es/ev.php-URL_ID=12949&URL_DO=DO_TOPIC&URL_SECTION=201.
 
 - 5 -
 
-### Ratificación del Protocolo para instituir una Comisión de Conciliación y Buenos Oficios facultada para resolver las controversias que puedan plantearse entre Estados Partes en la Convención relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza 3
+### 2. Ratificación del Protocolo para instituir una Comisión de Conciliación y Buenos Oficios facultada para resolver las controversias que puedan plantearse entre Estados Partes en la Convención relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza 3
 
 ¿Ha ratificado su país el Protocolo?
 
@@ -126,7 +130,7 @@ X   Sí
 
 o No. Por favor, explique brevemente las dificultades encontradas:
 
-### Marco jurídico que rige la protección de los derechos consagrados en la Convención y la Recomendación en el ordenamiento jurídico interno
+### 3. Marco jurídico que rige la protección de los derechos consagrados en la Convención y la Recomendación en el ordenamiento jurídico interno
 
 #### Si su país es un Estado Parte en la Convención:
 
@@ -178,7 +182,7 @@ Puede facilitarse información sobre la forma en que tales políticas y programa
 
 ## II. Información sobre la aplicación de la Convención o la Recomendación
 
-### No discriminación e igualdad de posibilidades de educación en el contexto del Objetivo de Desarrollo Sostenible 4 (ODS 4)
+### 1. No discriminación e igualdad de posibilidades de educación en el contexto del Objetivo de Desarrollo Sostenible 4 (ODS 4)
 
 Los artículos o párrafos 1.1, 2 y 3 de la Convención o la Recomendación hacen referencia a la no discriminación y a la igualdad de posibilidades en la esfera de la enseñanza. Esta parte se refiere al objetivo principal de la Convención y la Recomendación, a saber, subrayar la obligación  de  los  Estados  de  prohibir  toda  forma  de  discriminación  en  la  enseñanza  y promover al mismo tiempo la igualdad de oportunidades educativas.
 
@@ -214,9 +218,9 @@ Además de lo indicado, el derecho a la educación y la no discriminación en la
 
 Proporcione  una  breve  descripción  de  los  textos  jurídicos,  reglamentarios  o  normativos pertinentes, incluidas las medidas relacionadas con:
 
-- è La no discriminación en lo que respecta a la admisión de alumnos en las instituciones educativas
+- ➔ La no discriminación en lo que respecta a la admisión de alumnos en las instituciones educativas
 
-- è El trato igualitario, incluso para los extranjeros residentes en su país
+- ➔ El trato igualitario, incluso para los extranjeros residentes en su país
 
 El derecho de igualdad ante la ley y el principio de no discriminación se encuentran previstos en la Constitución Nacional (artículos 16, 37 y 75 incisos 2, 19, 22 y 23) y en diversos instrumentos internacionales que gozan de igual jerarquía. El artículo 14 de la Constitución Nacional expresa el derecho a la educación estableciendo el derecho 'de enseñar y aprender' y el artículo 16 señala la igualdad ente la ley para todos los habitantes de la Nación Argentina, así como la no admisión de 'prerrogativas  de  sangre,  ni  de  nacimiento:  no  hay  en  ella  fueros  personales  ni  títulos  de nobleza'.
 
@@ -226,7 +230,7 @@ Antecedente de la Ley de Educación Nacional, la Ley de Protección Integral de 
 
 En esta dirección, la Ley de Educación Nacional N°26206/06 (LEN) regula el ejercicio del derecho de enseñar y aprender consagrado en el artículo 14 de la Constitución nacional y garantiza la igualdad de derechos en educación, en particular respecto al acceso de los estudiantes a las instituciones educativas, así como su permanencia y egreso.
 
-En  los  'Fines  y  Objetivos  de  la  Política  Educativa'  (articulo  11),  establece  como  aspectos centrales: el '…Garantizar una educación integral que desarrolle todas las dimensiones de la persona y habilite tanto para el desempeño social y laboral, como para el acceso a estudios superiores', '…….Fortalecer la identidad nacional, basada en el respeto a la diversidad cultural y a  las  particularidades  locales,  abierta  a  los  valores  universales  y  a  la  integración  regional  y latinoamericana', '……Garantizar la inclusión educativa a través de políticas universales y de estrategias pedagógicas y de asignación de recursos que otorguen prioridad a los sectores más desfavorecidos  de  la  sociedad.',  '…….Asegurar  condiciones  de  igualdad,  respetando  las diferencias entre las personas sin admitir discriminación de género ni de ningún otro tipo.', '… Garantizar  a  todos/as  el  acceso  y  las  condiciones  para  la  permanencia  y  el  egreso  de  los diferentes  niveles  del  sistema  educativo,  asegurando  la  gratuidad  de  los  servicios  de  gestión estatal, en todos los niveles y modalidades.' y '… Promover en todos los niveles educativos y modalidades  la  comprensión  del  concepto  de  eliminación  de  todas  las  formas  de discriminación .', entre otros aspectos.
+En los “Fines y Objetivos de la Política Educativa” (articulo 11), establece como aspectos centrales: el “…Garantizar una educación integral que desarrolle todas las dimensiones de la persona y habilite tanto para el desempeño social y laboral, como para el acceso a estudios superiores”, “…….Fortalecer la identidad nacional, basada en el respeto a la diversidad cultural y a las particularidades locales, abierta a los valores universales y a la integración regional y latinoamericana”, “……Garantizar la inclusión educativa a través de políticas universales y de estrategias pedagógicas y de asignación de recursos que otorguen prioridad a los sectores más desfavorecidos de la sociedad.”, “…….Asegurar condiciones de igualdad, respetando las diferencias entre las personas sin admitir discriminación de género ni de ningún otro tipo.”, “… Garantizar a todos/as el acceso y las condiciones para la permanencia y el egreso de los diferentes niveles del sistema educativo, asegurando la gratuidad de los servicios de gestión
 
 [[END OF PAGE 7]]
 
@@ -234,7 +238,9 @@ En  los  'Fines  y  Objetivos  de  la  Política  Educativa'  (articulo  11),  e
 
 - 8 -
 
-Las Resoluciones del Consejo Federal del Educación (órgano rector integrado por los 24 ministros y ministras de educación de las jurisdicciones y por el ministro de educación de la Nación) tiene la potestad de reglamentar la legislación educativa y reafirma en sus resoluciones, en particular las  referidas  a  los  niveles  (Educación  Inicial,  Educación  Primaria,  Educación  Secundaria  y Educación  Superior)  y  las  modalidades  (Educación  Técnico  Profesional,  Educación  Artística, Educación Especial, Educación Permanente de Jóvenes y Adultos, Educación Rural, Educación Intercultural Bilingüe, Educación en Contextos de Privación de la Libertad, Educación Domiciliaria y Hospitalaria), la igualdad de acceso a las instituciones educativas así como la eliminación de toda forma de discriminación, definidas en la LEN 26.206/06 y conforme a los tratados, convenios y convenciones internacionales y a la Constitución Nacional.
+estatal, en todos los niveles y modalidades.” y “…Promover en todos los niveles educativos y modalidades la comprensión del concepto de eliminación de todas las formas de discriminación.”, entre otros aspectos.
+
+Las Resoluciones del Consejo Federal del Educación (órgano rector integrado por los 24 ministros y ministras de educación de las jurisdicciones y por el ministro de educación de la Nación) tiene la potestad de reglamentar la legislación educativa y reafirma en sus resoluciones, en particular las referidas a los niveles (Educación Inicial, Educación Primaria, Educación Secundaria y Educación Superior) y las modalidades (Educación Técnico Profesional, Educación Artística, Educación Especial, Educación Permanente de Jóvenes y Adultos, Educación Rural, Educación Intercultural Bilingüe, Educación en Contextos de Privación de la Libertad, Educación Domiciliaria y Hospitalaria), la igualdad de acceso a las instituciones educativas así como la eliminación de toda forma de discriminación, definidas en la LEN 26.206/06 y conforme a los tratados, convenios y convenciones internacionales y a la Constitución Nacional.
 
 En dirección a la garantías de derechos por parte del estado, es importante citar lo que establece la Ley de Migraciones (Ley 25.871/04) en su artículo 7: 'En ningún caso la irregularidad migratoria de un extranjero impedirá su admisión como alumno en un establecimiento educativo, ya sea este público o privado; nacional, provincial o municipal; primario, secundario, terciario o universitario. Las autoridades de los establecimientos educativos deberán brindar orientación y asesoramiento respecto de los trámites correspondientes a los efectos de subsanar la irregularidad migratoria.'
 
@@ -294,8 +300,6 @@ Los grupos de destinatarios son:
 
 Cantidad de Becas Socioeducativas otorgadas:
 
-IVA
-
 2016 | 2017 | 2018 | 2019 | Total
 --- | --- | --- | --- | ---
 16.319 | 20.320 | 24.194 | 25.248 | 86.081
@@ -310,49 +314,49 @@ IVA
 
 personas marginadas económica y socialmente, las personas con discapacidad y otros grupos vulnerables) en los procesos de aprendizaje (pueden marcarse o mencionarse varios puntos):
 
-- X  Ofrecer incentivos financieros y becas
+- X Ofrecer incentivos financieros y becas
 
-- X  Adoptar medidas de acción positiva o afirmativa
+- X Adoptar medidas de acción positiva o afirmativa
 
-- X  Garantizar la inclusión de todos los educandos en las escuelas de enseñanza general
+- X Garantizar la inclusión de todos los educandos en las escuelas de enseñanza general
 
-- X  Formar a los docentes en materia de educación inclusiva
+- X Formar a los docentes en materia de educación inclusiva
 
-- X  Garantizar la paridad entre los sexos en las ciencias, tecnología, ingeniería y matemáticas (STEM) y en la enseñanza y formación técnica y profesional (EFTP)
+- X Garantizar la paridad entre los sexos en las ciencias, tecnología, ingeniería y matemáticas (STEM) y en la enseñanza y formación técnica y profesional (EFTP)
 
 - X Ofrecer programas de reescolarización para las madres jóvenes
 
-- X  Eliminar todas las barreras para la educación de las niñas embarazadas o las madres jóvenes
-
-- o Otra:
-
-- Explique con más detalle las medidas adoptadas, incluidas aquellas destinadas a garantizar la igualdad entre los géneros y el empoderamiento de las niñas y las mujeres en la educación y por medio de ella :
-
-##### Asignación Universal por Hijo
-
-Desde el año 2009 en Argentina se implementa por decisión del Poder Ejecutivo Nacional la  Asignación  Universal  por  Hijo  (AUH)  que  consiste  en  una  prestación  monetaria  no retributiva de carácter mensual destinada a las familias vulnerables y que se desempeñen en el sector informal de la economía. Dicha asignación se abona a uno solo de los padres, tutor,  curador  o  pariente  hasta  tercer  grado  de  consanguinidad  por  cada  menor  de DIECIOCHO (18) años que se encuentre a su cargo o sin límite de edad cuando se trate de un hijo discapacitado, y hasta un límite de 5 hijos, priorizando siempre a los discapacitados y a los de menor edad.
-
-El derecho de percibirla requiere la acreditación anual de escolarización y controles de salud de los niñas, niños y adolescentes.
-
-Entre los requisitos para acceder a la AUH se especifica que a partir de los cuatro años de edad y hasta los dieciocho años es necesario acreditar el cumplimiento de los controles sanitarios  y  el  plan  de  vacunación  obligatoria  así  como  la  asistencia  obligatoria  a  los establecimientos educativos públicos (certificado de alumno regular). En este sentido, el
-
-> 7 Las barreras administrativas a la educación incluyen, entre otros, la falta de documentos de identidad o de certificados de nacimiento necesarios para la matriculación.
+- X Eliminar todas las barreras para la educación de las niñas embarazadas o las madres jóvenes
 
 - o Proporcionar asistencia auxiliar
 
-- X  Adaptar las infraestructuras educativas
+- X Adaptar las infraestructuras educativas
 
-- X  Adaptar los planes y los métodos de estudio
+- X Adaptar los planes y los métodos de estudio
 
-- X  Impartir clases de idiomas a los recién llegados (por ejemplo, los refugiados)
+- X Impartir clases de idiomas a los recién llegados (por ejemplo, los refugiados)
 
-- X  Eliminar las barreras administrativas a la educación 7
+- X Eliminar las barreras administrativas a la educación 7
 
 - X Ofrecer itinerarios de aprendizaje flexibles
 
 - X Valorar la diversidad en las escuelas
 
-X Luchar contra los estereotipos y la estigmatización beneficiario debe presentar una declaración jurada relativa al cumplimiento de los requisitos exigidos.
+- X Luchar contra los estereotipos y la estigmatización
+
+- o Otra:
+
+- Explique con más detalle las medidas adoptadas, incluidas aquellas destinadas a garantizar la igualdad entre los géneros y el empoderamiento de las niñas y las mujeres en la educación y por medio de ella:
+
+##### Asignación Universal por Hijo
+
+Desde el año 2009 en Argentina se implementa por decisión del Poder Ejecutivo Nacional la Asignación Universal por Hijo (AUH) que consiste en una prestación monetaria no retributiva de carácter mensual destinada a las familias vulnerables y que se desempeñen en el sector informal de la economía. Dicha asignación se abona a uno solo de los padres, tutor, curador o pariente hasta tercer grado de consanguinidad por cada menor de DIECIOCHO (18) años que se encuentre a su cargo o sin límite de edad cuando se trate de un hijo discapacitado, y hasta un límite de 5 hijos, priorizando siempre a los discapacitados y a los de menor edad.
+
+El derecho de percibirla requiere la acreditación anual de escolarización y controles de salud de los niñas, niños y adolescentes.
+
+Entre los requisitos para acceder a la AUH se especifica que a partir de los cuatro años de edad y hasta los dieciocho años es necesario acreditar el cumplimiento de los controles sanitarios y el plan de vacunación obligatoria así como la asistencia obligatoria a los establecimientos educativos públicos (certificado de alumno regular). En este sentido, el
+
+> 7 Las barreras administrativas a la educación incluyen, entre otros, la falta de documentos de identidad o de certificados de nacimiento necesarios para la matriculación.
 
 [[END OF PAGE 10]]
 
@@ -360,16 +364,18 @@ X Luchar contra los estereotipos y la estigmatización beneficiario debe present
 
 - 11 -
 
+beneficiario debe presentar una declaración jurada relativa al cumplimiento de los requisitos exigidos.
+
 A noviembre de 2019, el total de beneficiarios de la AUH era de 4.188.734 niños, niñas y jóvenes. A continuación, se detalla la cantidad de beneficiarios según el sexo para los años del período 2016 - 2019.
 
 Cantidad de Beneficiarios de AUH por año según sexo
 
 AÑO* | FEMENINO | MASCULINO | TOTAL
 --- | --- | --- | ---
-1.948.270 | 2.019.355 | 3.967.625 | 2016
-1.947.720 | 2.019.241 | 3.966.961 | 2017
-1.978.628 | 2.045.536 | 4.024.164 | 2018
-2.058.110 | 2.130.624 | 4.188.734 | 2019
+2016 | 1.948.270 | 2.019.355 | 3.967.625
+2017 | 1.947.720 | 2.019.241 | 3.966.961
+2018 | 1.978.628 | 2.045.536 | 4.024.164
+2019 | 2.058.110 | 2.130.624 | 4.188.734
 
 Fuente: Datos elaborados a partir de información publicada por el Observatorio del ANSES (http://observatorio.anses.gob.ar/)
 
@@ -393,7 +399,7 @@ Actualmente la oferta académica implica:
 
 ##### Programa Asistire
 
-El programa surge con el fin de dar respuesta a la interrupción de las trayectorias escolares de adolescentes y jóvenes de escuelas secundarias que atraviesan situaciones problemáticas  que  se  traducen  en  inasistencias  reiteradas  y  trayectorias  discontinuas  e irregulares. Su propuesta implica detectar y revertir la exclusión a partir de la identificación e intervención temprana ante el riesgo de abandono escolar a partir de un abordaje integral de  las  distintas  problemáticas  que  atraviesan  los  estudiantes  secundarios.  Tiene  por objetivo potenciar el desarrollo pleno de las trayectorias educativas y aumentar la tasa de retención escolar.
+El programa surge con el fin de dar respuesta a la interrupción de las trayectorias escolares de adolescentes y jóvenes de escuelas secundarias que atraviesan situaciones problemáticas que se traducen en inasistencias reiteradas y trayectorias discontinuas e irregulares. Su propuesta implica detectar y revertir la exclusión a partir de la identificación e intervención temprana ante el riesgo de abandono escolar a partir de un abordaje integral de las distintas problemáticas que atraviesan los estudiantes secundarios. Tiene por
 
 [[END OF PAGE 11]]
 
@@ -401,15 +407,13 @@ El programa surge con el fin de dar respuesta a la interrupción de las trayecto
 
 - 12 -
 
--  Indique  si  su  país  ha  aprobado  y  revisado  la  legislación  relativa  a  la  edad  mínima  para contraer matrimonio de manera que se ajuste a las normas internacionales (18 años):
+objetivo potenciar el desarrollo pleno de las trayectorias educativas y aumentar la tasa de retención escolar.
+
+- Indique si su país ha aprobado y revisado la legislación relativa a la edad mínima para contraer matrimonio de manera que se ajuste a las normas internacionales (18 años):
 
 Tenga en cuenta que el matrimonio infantil es una práctica discriminatoria, ya que a menudo las niñas pueden contraer matrimonio a una edad más temprana que los niños. El matrimonio infantil viola el derecho de los niños a la educación, puesto que es más probable que los niños casados abandonen la escuela y que aquellos que no van a la escuela contraigan matrimonio.
 
-X  Sí
-
-o
-
-No
+X Sí o No
 
 Mencione las leyes y disposiciones pertinentes:
 
@@ -470,7 +474,7 @@ Fuente: Relevamiento Anual 2017, DIEE, MECCyT.
 
 Estimaciones y Proyecciones de Población 2010-2040. INDEC.
 
-Si  bien  la  educación  preescolar  está  prácticamente  universalizada,  hay  un  conjunto  de desafíos que es necesario abordar, por un lado, la necesidad de ampliar la infraestructura, en particular para avanzar en la universalización del nivel desde los 3 años y para mejorar la cobertura en las zonas rurales, la necesidad de profundizar la formación y el desarrollo profesional docente del nivel inicial y la necesidad de trabajar con las familias para superar las resistencia que aún existen a la escolarización temprana de los niños y niñas.
+Si bien la educación preescolar está prácticamente universalizada, hay un conjunto de desafíos que es necesario abordar, por un lado, la necesidad de ampliar la infraestructura, en particular para avanzar en la universalización del nivel desde los 3 años y para mejorar la cobertura en las zonas rurales, la necesidad de profundizar la formación y el desarrollo
 
 [[END OF PAGE 13]]
 
@@ -478,7 +482,9 @@ Si  bien  la  educación  preescolar  está  prácticamente  universalizada,  ha
 
 - 14 -
 
-Las  políticas  de  ajuste  fiscal  y  de  achicamiento  presupuestario  implementadas  por  el gobierno  que  gestionó  el  estado  nacional  entre  2016  y  2019,  provocó  que  sus  propias propuestas de construcción de 3000 jardines que luego se redujo a la realización de 10000 salas destinadas a completar la universalización de los 4 años y avanzar en la de 3 años, quedaran como promesas incumplidas con un extremadamente bajo nivel de ejecución financiera y una deuda social y política significativa.
+profesional docente del nivel inicial y la necesidad de trabajar con las familias para superar las resistencia que aún existen a la escolarización temprana de los niños y niñas.
+
+Las políticas de ajuste fiscal y de achicamiento presupuestario implementadas por el gobierno que gestionó el estado nacional entre 2016 y 2019, provocó que sus propias propuestas de construcción de 3000 jardines que luego se redujo a la realización de 10000 salas destinadas a completar la universalización de los 4 años y avanzar en la de 3 años, quedaran como promesas incumplidas con un extremadamente bajo nivel de ejecución financiera y una deuda social y política significativa.
 
 Este  proceso  de  achicamiento  y  ajuste  estatal  también  tuvo  incidencia  en  las  políticas sociales impactando en los alcances de la implementación del Programa Primeros Años. Si bien los estados provinciales pudieron de algún modo paliar parte de este déficit, estos desafíos constituyen dificultades que este nuevo gobierno se ha propuesto resolver.
 
@@ -504,7 +510,7 @@ El nivel primario de educación admite dos estructuras académicas posibles, una
 
 El Anuario Estadístico Educativo 2018 del Ministerio de Educación, Cultura, Ciencia y Tecnología de la Nación, muestra los alcances de la escolarización en la educación primaria:
 
-Tasa Neta de Escolarización Tasa neta de escolarización del nivel primario: Porcentaje de alumnos de 6 a 11 años de edad para una estructura educativa de 6 años, o de 6 a 12 años para una estructura educativa de 7 años, matriculados en el Nivel Primario de la Educación Común, Especial y de Jóvenes y Adultos, sobre la población de ese mismo grupo etario.
+Tasa Neta de Escolarización
 
 TOTAL PAIS | ESTRUCTURA EDUCATIVA | TASA
 --- | --- | ---
@@ -515,10 +521,11 @@ TOTAL PAIS | ESTRUCTURA EDUCATIVA | TASA
 
 - 15 -
 
-6 / 7 AÑOS | 103, 0%
---- | ---
+ | 6 / 7 AÑOS | 103, 0%
 
-EL valor superior al 100% surge por diferencias entre el numerador y el denominador de la fórmula de cálculo debido a la utilización de fuentes de datos distintas.
+Tasa neta de escolarización del nivel primario: Porcentaje de alumnos de 6 a 11 años de edad para una estructura educativa de 6 años, o de 6 a 12 años para una estructura educativa de 7 años, matriculados en el Nivel Primario de la Educación Común, Especial y de Jóvenes y Adultos, sobre la población de ese mismo grupo etario.
+
+El valor superior al 100% surge por diferencias entre el numerador y el denominador de la fórmula de cálculo debido a la utilización de fuentes de datos distintas.
 
 Fuente: Relevamiento Anual 2017, DIEE, MECCyT.
 
@@ -602,7 +609,7 @@ Tasa Neta de Escolarización
 
 TOTAL PAIS | ESTRUCTURA EDUCATIVA | TASA
 --- | --- | ---
-6 / 5 AÑOS | 90,5%
+ | 6 / 5 AÑOS | 90,5%
 
 Tasa neta de escolarización del nivel secundario: Porcentaje de alumnos de 12 a 17 años de edad para una estructura educativa de 6 años, o de 13 a 17 años para una estructura educativa de 5 años, matriculados en el Nivel Secundario de la Educación Común, Especial y de Jovenes y Adultos, sobre la población de ese mismo grupo etario.
 
@@ -618,7 +625,7 @@ SECUNDARIO | 3.680.507 | 3.746.170 | 3.791.310 | 3.832.054 | 50,25%
 
 Fuente: Relevamiento Anual 2018, DIEE, MECCyT.
 
-Cabe destacar que el Ministerio de Educación de la Nación y sus pares jurisdiccionales venían desplegando desde el año 2006 un importante conjunto de políticas universales de inclusión, tales como: distribución de libros y material didáctico, ampliación de la cobertura de becas, distribución de netbook y equipamiento de TIC a través del Programa Conectar Igualdad a cada alumno y docente, cobertura de gastos de movilidad, acompañamiento socioeducativo en el territorio a partir del trabajo de mesas intersectoriales locales, acciones de  mejora  y  fortalecimiento  del  pasaje  entre  la  educación  primaria  y  la  secundaria, asistencias técnicas y acompañamiento situado a las instituciones educativas, entre otras acciones de los estados nacionales y provinciales.
+Cabe destacar que el Ministerio de Educación de la Nación y sus pares jurisdiccionales venían desplegando desde el año 2006 un importante conjunto de políticas universales de inclusión, tales como: distribución de libros y material didáctico, ampliación de la cobertura de becas, distribución de netbook y equipamiento de TIC a través del Programa Conectar Igualdad a cada alumno y docente, cobertura de gastos de movilidad, acompañamiento socioeducativo en el territorio a partir del trabajo de mesas intersectoriales locales, acciones de mejora y fortalecimiento del pasaje entre la educación primaria y la secundaria,
 
 [[END OF PAGE 17]]
 
@@ -626,15 +633,18 @@ Cabe destacar que el Ministerio de Educación de la Nación y sus pares jurisdic
 
 - 18 -
 
-En  este  último  período  de  cuatro  años  casi  la  totalidad  de  estos  programas  se desaceleraron, disminuyeron en su operatoria o directamente fueron cerrados, producto de una  visión  minimalista  y  no  conducente  del  estado  nacional,  del  ajuste  fiscal  y  la consecuente  reducción  del  presupuesto  educativo.  Esto  trajo  como  consecuencia  el abandono y no cumplimiento de la LEN a partir de la descentración del estado nacional, tanto  en  la  orientación,  definición  e  implementación  de  políticas  como  respecto  del acompañamiento a las jurisdicciones en la gestión educativa y la asistencia para el logro de sus políticas. Esto trajo entre otras consecuencias: el no cumplimiento y disminución de la inversión en educación del 6% del PBI, el abandono de las políticas públicas universales y el desarrollo de programas hiperfocalizados de muy bajo impacto en el territorio.
+asistencias técnicas y acompañamiento situado a las instituciones educativas, entre otras acciones de los estados nacionales y provinciales.
+
+En este último período de cuatro años casi la totalidad de estos programas se desaceleraron, disminuyeron en su operatoria o directamente fueron cerrados, producto de una visión minimalista y no conducente del estado nacional, del ajuste fiscal y la consecuente reducción del presupuesto educativo. Esto trajo como consecuencia el abandono y no cumplimiento de la LEN a partir de la descentración del estado nacional, tanto en la orientación, definición e implementación de políticas como respecto del acompañamiento a las jurisdicciones en la gestión educativa y la asistencia para el logro de sus políticas. Esto trajo entre otras consecuencias: el no cumplimiento y disminución de la inversión en educación del 6% del PBI, el abandono de las políticas públicas universales y el desarrollo de programas hiperfocalizados de muy bajo impacto en el territorio.
 
 Más allá de los importantes esfuerzos que hicieron las jurisdicciones para sostener algunas de  las  políticas  que  se  entendían  sustantivas  para  garantizar  la  inclusión  y  realizar  las transformaciones en las trayectorias estudiantiles y en la enseñanza, el nivel secundario sigue presentando importantes desafíos centralmente vinculados con la retención, con los aprendizajes y con los regímenes de evaluación y promoción.
 
 Tasa de repitencia
 
 SECUNDARIA
+
+ | TOTAL | 7 año | 8 año | 9 año | 10 año | 11 año | 12 año
 --- | --- | --- | --- | --- | --- | --- | ---
-TOTAL | 7 año | 8 año | 9 año | 10 año | 11 año | 12 año
 TOTAL PAIS | 10,8% | 11,6 | 14,6 | 12,8 | 10,7 | 7,2 | 4,0
 
 Tasa de repitencia: Porcentaje de alumnos que se matriculan como alumnos repitientes en el año lectivo siguiente. Fuentes: Relevamientos Anuales 2017 y 2018, DIEE, MECCyT.
@@ -642,15 +652,16 @@ Tasa de repitencia: Porcentaje de alumnos que se matriculan como alumnos repitie
 Tasa de abandono interanual
 
 SECUNDARIA
+
+ | TOTAL | 7 año | 8 año | 9 año | 10 año | 11 año | 12 año
 --- | --- | --- | --- | --- | --- | --- | ---
-TOTAL | 7 año | 8 año | 9 año | 10 año | 11 año | 12 año
 TOTAL PAIS | 9,5% | 4,4 | 9,5 | 7,8 | 10,6 | 8,1 | 18,6
 
 Tasa de abandono interanual: Porcentaje de alumnos que no se matriculan en el año lectivo siguiente. Fuentes: Relevamientos Anuales 2017 y 2018, DIEE, MECCyT.
 
 Tasa de egreso y de egreso a término.
 
-TASA DE EGRESO | TASA DE EGRESO A TERMINO**
+ | TASA DE EGRESO | TASA DE EGRESO A TERMINO**
 --- | --- | ---
 TOTAL PAÍS | 50,8 | 26,1
 
@@ -678,13 +689,15 @@ Con este último fin se llevó adelante una fuerte articulación con distintos o
 
 Para  cumplimentar  estos  objetivos  se  desarrollaron  tres  líneas  de  acción:  a)  toma  de asistencia digital que posibilita la detección temprana del riesgo de abandono; b) equipo de promotores que conforman duplas de trabajo profesional (una con perfil pedagógico y otra con  experiencia  en  trabajo  social  -  territorial)  que  trabajan  de  manera  articulada  con estudiantes y familias, directivos, preceptores y docentes, actores de la comunidad social y organizaciones  sociales;  y  c)  mesas  de  inclusión  educativa  distritales/locales:  espacio interdisciplinar conformado por diferentes organismos públicos y sociales presentes en la comunidad de pertenencia de los estudiantes, con el fin de trabajar articuladamente para atender las problemáticas educativas, en particular las situaciones potenciales de exclusión y abandono.
 
-Alcances del Programa: Si bien la toma de asistencia digital tuvo un alcance sobre 914 establecimientos y 279.725 estudiantes, el programa en su integralidad atendió un total de 670  instituciones  educativas  (370  de  provincia  de  Buenos  Aires,  100  de  Provincia  de Corrientes y 50 escuelas en cada una de las provincias de Chaco, Chubut, Jujuy y San Juan).
+Alcances del Programa: Si bien la toma de asistencia digital tuvo un alcance sobre 914 establecimientos y 279.725 estudiantes, el programa en su integralidad atendió un total de 670 instituciones educativas (370 de provincia de Buenos Aires, 100 de Provincia de
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
 
 - 20 -
+
+Corrientes y 50 escuelas en cada una de las provincias de Chaco, Chubut, Jujuy y San Juan).
 
 Las principales situaciones de riesgo de abandono reportadas son:
 
@@ -718,7 +731,7 @@ También se implemento el Programa 'Escuelas Faro' que comprendió un universo d
 
 Con el objetivo de mejorar los aprendizajes en lengua y matemática y las trayectorias de estudiantes, comprendía un conjunto de acciones integrales orientados al fortalecimiento de  la  gestión  institucional,  de  la  enseñanza  de  lengua  y  de  matemática,  así  como  la provisión de recursos y equipamiento. Si se toma la incidencia sobre el total de unidades educativas  de  gestión  estatal  implica  un  alcance  del  27%,  si  se  toma  sobre  el  total  de unidades educativas implica un alcance del 18%. Cualquiera de los dos datos muestra el bajo impacto en función de las necesidades de asistencia técnico pedagógica del nivel.
 
-En  esta  dirección,  siguen  siendo  un  desafío  pendiente  para  fortalecer  los  procesos vinculados a la retención, la modificación de los regímenes académicos, la flexibilización de la estructura curricular, los modos de transitar la educación secundaria y la transformación del régimen de evaluación y promoción, en particular lo que se refiere a la repitencia en bloque. En este sentido resulta necesario recuperar Resoluciones del Consejo Federal de Educación como la 93/09 que habilitan a trabajar en esta dirección.
+En esta dirección, siguen siendo un desafío pendiente para fortalecer los procesos vinculados a la retención, la modificación de los regímenes académicos, la flexibilización de la estructura curricular, los modos de transitar la educación secundaria y la transformación del régimen de evaluación y promoción, en particular lo que se refiere a la repitencia en
 
 [[END OF PAGE 20]]
 
@@ -726,17 +739,15 @@ En  esta  dirección,  siguen  siendo  un  desafío  pendiente  para  fortalecer
 
 - 21 -
 
-Otro  desafío  es  la  infraestructura  que  sigue  siendo  una  deuda  pendiente  para  poder garantizar  el  desarrollo  pleno  y  en  las  mejores  condiciones  de  trabajo  de  la  educación secundaria. No hubo avances significativos en el período de gestión 2016 - 2019.
+bloque. En este sentido resulta necesario recuperar Resoluciones del Consejo Federal de Educación como la 93/09 que habilitan a trabajar en esta dirección.
+
+Otro desafío es la infraestructura que sigue siendo una deuda pendiente para poder garantizar el desarrollo pleno y en las mejores condiciones de trabajo de la educación secundaria. No hubo avances significativos en el período de gestión 2016 - 2019.
 
 - Indique si su país ha aprobado y revisado la legislación relativa a la edad mínima de entrada en el mundo laboral para armonizarla con la edad de finalización de la educación obligatoria:
 
 Tenga en cuenta que las leyes  laborales  sobre  la  edad  mínima  para  trabajar  y  las  leyes relativas a la educación obligatoria son interdependientes y se refuerzan mutuamente. Si la edad mínima para trabajar es inferior a la edad de finalización de la educación obligatoria, los niños corren el riesgo de abandonar la escuela para trabajar y, por tanto, de no completar la educación obligatoria. Por otra parte, si la edad de finalización de la educación obligatoria es inferior a la edad mínima para trabajar, una vez que los niños terminan la educación obligatoria se abre la puerta a la explotación infantil y a la violación de las leyes laborales.
 
-X Sí
-
-o
-
-No
+X Sí o No
 
 - Mencione las leyes y disposiciones pertinentes:
 
@@ -776,11 +787,11 @@ Becas  Progresar  que  comprende:  a)  Formación  Docente  y  b)  Compromiso  D
 
 Becas específicas para la Formación Docente de Pueblos Originarios.
 
-- Proporcione  una  breve  descripción  de  los  textos  jurídicos,  reglamentarios  o  normativos pertinentes, incluidas las medidas relacionadas con:
+- Proporcione una breve descripción de los textos jurídicos, reglamentarios o normativos pertinentes, incluidas las medidas relacionadas con:
 
-- è La no discriminación en lo que respecta a la admisión de estudiantes en las instituciones de enseñanza superior por los motivos prohibidos por la Convención y la Recomendación
+- ➔ La no discriminación en lo que respecta a la admisión de estudiantes en las instituciones de enseñanza superior por los motivos prohibidos por la Convención y la Recomendación
 
-- è El trato igualitario, incluso para los estudiantes extranjeros
+- ➔ El trato igualitario, incluso para los estudiantes extranjeros
 
 La  Constitución  Nacional,  la  LEN  26.206/06  y  las  Resoluciones  del  Consejo  Federal  de Educación,  así  como  las  políticas  y  normativas  del  Ministerio  de  Educación  de  la  Nación  ya citadas establecen y regulan la no discriminación en la educación superior y garantizan el acceso irrestricto para todos aquellos estudiantes que hubieren finalizado la educación secundaria. Los mismos  derechos  aplican  para  los  estudiantes  extranjeros  (Ley  Nacional  de  Migraciones  ya citada).
 
@@ -788,7 +799,7 @@ En Argentina los estudios de grado en la universidad pública son gratuitos y el
 
 La Ley de Educación Superior 24.521 y su modificatoria 27.204, establece en su Artículo en su Artículo 2 la responsabilidad del Estado nacional sobre el financiamiento de las universidades nacionales y la responsabilidad principal e indelegable del Estado sobre la educación superior que implica entre otras cosas: garantizar la igualdad de oportunidades y condiciones en el acceso, la permanencia, la graduación y el egreso en las distintas alternativas y trayectorias educativas del nivel para todos quienes lo requieran y reúnan las condiciones legales establecidas en la ley; proveer  equitativamente,  en  la  educación  superior  de  gestión  estatal,  becas,  condiciones adecuadas de infraestructura y recursos tecnológicos apropiados para todas aquellas personas que  sufran  carencias  económicas  verificables;  promover  políticas  de  inclusión  educativa  que reconozcan igualitariamente las diferentes identidades de género y de los procesos multiculturales e interculturales. A su vez, establece que los estudios de grado en las instituciones de educación superior de gestión estatal son gratuitos e implican la prohibición de establecer sobre ellos cualquier tipo de gravamen, tasa, impuesto, arancel, o tarifa directos o indirectos.
 
-En esta dirección, la Ley de Implementación Efectiva de la Responsabilidad del Estado en el Nivel de Educación Superior N° 27.204/2015, establece '…la igualdad de oportunidades y condiciones en el acceso, la permanencia, la graduación y el egreso en las distintas alternativas y trayectorias educativas del nivel para todos quienes lo requieran y reúnan las condiciones legales establecidas en esta ley…' como responsabilidad primara e indelegable del estado nacional, de los estados provinciales y de la Ciudad Autónoma de Buenos Aires.
+En esta dirección, la Ley de Implementación Efectiva de la Responsabilidad del Estado en el Nivel de Educación Superior N° 27.204/2015, establece “…la igualdad de oportunidades y condiciones en el acceso, la permanencia, la graduación y el egreso en las distintas alternativas y trayectorias educativas del nivel para todos quienes lo requieran y reúnan las condiciones legales establecidas
 
 [[END OF PAGE 22]]
 
@@ -796,7 +807,9 @@ En esta dirección, la Ley de Implementación Efectiva de la Responsabilidad del
 
 - 23 -
 
-La ley además reafirma que podrán ingresar a la educación superior de grado, de manera libre e irrestricta,  todos/as  aquellos/as  que  hayan  aprobado  el  nivel  secundario,  destacando  que 'Excepcionalmente, los mayores de veinticinco (25) años que no reúnan esa condición, podrán ingresar siempre que demuestren, a través de las evaluaciones que las provincias, la Ciudad Autónoma de Buenos Aires o las universidades en su caso establezcan, que tienen preparación o  experiencia  laboral  acorde  con  los  estudios  que  se  proponen  iniciar,  así  como  aptitudes  y conocimientos suficientes para cursarlos satisfactoriamente. Este ingreso debe ser complementado mediante los procesos de nivelación y orientación profesional y vocacional que cada institución de educación superior debe constituir, pero que en ningún caso debe tener un carácter selectivo excluyente o discriminador'.
+en esta ley…” como responsabilidad primara e indelegable del estado nacional, de los estados provinciales y de la Ciudad Autónoma de Buenos Aires.
+
+La ley además reafirma que podrán ingresar a la educación superior de grado, de manera libre e irrestricta, todos/as aquellos/as que hayan aprobado el nivel secundario, destacando que “Excepcionalmente, los mayores de veinticinco (25) años que no reúnan esa condición, podrán ingresar siempre que demuestren, a través de las evaluaciones que las provincias, la Ciudad Autónoma de Buenos Aires o las universidades en su caso establezcan, que tienen preparación o experiencia laboral acorde con los estudios que se proponen iniciar, así como aptitudes y conocimientos suficientes para cursarlos satisfactoriamente. Este ingreso debe ser complementado mediante los procesos de nivelación y orientación profesional y vocacional que cada institución de educación superior debe constituir, pero que en ningún caso debe tener un carácter selectivo excluyente o discriminador”.
 
 Por  su  parte,  el  Artículo  13  determina  que  los  estudiantes  de  las  instituciones  estatales  de educación  superior  tienen  derecho  al  acceso  al  sistema  sin  discriminaciones  de  ninguna naturaleza y el Artículo 33, entre otras cosas, dispone que las instituciones universitarias deben promover  la  excelencia  y  asegurar  la  libertad  académica,  la  igualdad  de  oportunidades  y posibilidades.
 
@@ -956,7 +969,7 @@ como,  de  la  distribución  de  materiales  y  contenidos  a  las  jurisdiccio
 
 En este período el Consejo Federal de Educación aprobó:
 
-'Núcleos de Aprendizaje Prioritario para Educación Sexual Integral' (Res CFE N° 140/19) para  'garantizar  el  desarrollo  de  los  lineamientos  curriculares.  Las  jurisdicciones  se comprometen a implementar la obligatoriedad de la educación sexual integral en todos los niveles y modalidades educativas, abordando, sin excepción, los cinco ejes conceptuales:
+a) 'Núcleos de Aprendizaje Prioritario para Educación Sexual Integral' (Res CFE N° 140/19) para 'garantizar el desarrollo de los lineamientos curriculares. Las jurisdicciones se comprometen a implementar la obligatoriedad de la educación sexual integral en todos los niveles y modalidades educativas, abordando, sin excepción, los cinco ejes conceptuales:
 
 - Cuidar el cuerpo y la salud.
 
@@ -968,7 +981,7 @@ En este período el Consejo Federal de Educación aprobó:
 
 - Ejercer nuestros derechos.'
 
-- Se  aprobó  por  Res  CFE  340/18:  la  creación  de  un  espacio  específico  de  ESI  en  la Formación  Inicial  de  los  docentes;  la  incorporación  del  enfoque  de  ESI  en  los  Planes Institucionales tanto de manera transversal y/o en un espacio curricular específico y en las normas de organización institucional; la conformación de un equipo de referentes ESI por institución que articule con la jurisdicción y el proyecto institucional de cada establecimiento; e  incluir  contenidos  de  ESI  en  las  evaluaciones  de  los  concursos  de  ascenso  docente conforme las normativas de cada jurisdicción.
+b) Se aprobó por Res CFE 340/18: la creación de un espacio específico de ESI en la Formación Inicial de los docentes; la incorporación del enfoque de ESI en los Planes Institucionales tanto de manera transversal y/o en un espacio curricular específico y en las normas de organización institucional; la conformación de un equipo de referentes ESI por institución que articule con la jurisdicción y el proyecto institucional de cada establecimiento; e incluir contenidos de ESI en las evaluaciones de los concursos de ascenso docente conforme las normativas de cada jurisdicción.
 
 ##### Ley Micaela
 
@@ -1012,35 +1025,37 @@ En diciembre del 2016 el CFE aprobó la Res 311/16 que establece por un lado, la
 
 En el año 2013 se promulgo la Ley para la promoción de la convivencia y el abordaje de la conflictividad social en las instituciones educativas N° 26.892, que 'establece las bases para la promoción, intervención institucional y la investigación y recopilación de experiencias sobre la convivencia así como sobre el abordaje de la conflictividad social en las instituciones educativas de todos los niveles y modalidades del sistema educativo nacional.' 'Sus principios orientadores son:
 
-- El respeto irrestricto a la dignidad e intimidad de las personas.
+a)El respeto irrestricto a la dignidad e intimidad de las personas.
 
-- El reconocimiento de los valores, creencias e identidades culturales de todos.
+b)El reconocimiento de los valores, creencias e identidades culturales de todos.
 
-- El respeto y la aceptación de las diferencias, el rechazo a toda forma de discriminación, hostigamiento,  violencia  y  exclusión  en  las  interacciones  entre  los  integrantes  de  la comunidad educativa, incluyendo las que se produzcan mediante entornos virtuales y otras tecnologías de la información y comunicación.
+c)El respeto y la aceptación de las diferencias, el rechazo a toda forma de discriminación, hostigamiento, violencia y exclusión en las interacciones entre los integrantes de la comunidad educativa, incluyendo las que se produzcan mediante entornos virtuales y otras tecnologías de la información y comunicación.
 
-- El  derecho  a  participar  de  diferentes  ámbitos  y  asuntos  de  la  vida  de  las  instituciones educativas.
+d)El derecho a participar de diferentes ámbitos y asuntos de la vida de las instituciones educativas.
 
-- La resolución no violenta de conflictos, la utilización del diálogo como metodología para la identificación y resolución de los problemas de convivencia.
+e)La resolución no violenta de conflictos, la utilización del diálogo como metodología para la identificación y resolución de los problemas de convivencia.
 
-- El respeto por las normas y la sanción de sus transgresiones como parte de la enseñanza socializadora de las instituciones educativas.
+f) El respeto por las normas y la sanción de sus transgresiones como parte de la enseñanza socializadora de las instituciones educativas.
 
-- La contextualización de las transgresiones en las circunstancias en que acontecen, según las perspectivas de los actores, los antecedentes previos y otros factores que inciden en las mismas, manteniendo la igualdad ante la ley.
+g)La contextualización de las transgresiones en las circunstancias en que acontecen, según las perspectivas de los actores, los antecedentes previos y otros factores que inciden en las mismas, manteniendo la igualdad ante la ley.
 
-- El derecho del estudiante a ser escuchado y a formular su descargo ante situaciones de transgresión a las normas establecidas.
+h)El derecho del estudiante a ser escuchado y a formular su descargo ante situaciones de transgresión a las normas establecidas.
 
-- La valoración primordial del sentido formativo de las eventuales sanciones o llamados de atención.
+i) La valoración primordial del sentido formativo de las eventuales sanciones o llamados de atención.
 
-- El reconocimiento y reparación del daño u ofensa a personas o bienes de las instituciones educativas  o  miembros  de  la  comunidad  educativa  por  parte  de  la  persona  o  grupos responsables de esos hechos.
+j) El reconocimiento y reparación del daño u ofensa a personas o bienes de las instituciones educativas o miembros de la comunidad educativa por parte de la persona o grupos responsables de esos hechos.
 
 En orden a dar cumplimiento de la Ley, se elaboró la ' Guía Federal de Orientaciones para la intervención  educativa  en  situaciones  complejas  relacionadas  con  la  vida  escolar', aprobada por Res CFE N° 217/14. La Guía está conformada por dos volúmenes que contienen herramientas para trabajar institucionalmente y de manera integral las situaciones conflictivas o vulneración de derechos en el ámbito educativo. Este abordaje permite el diseño de estrategias y marcos de convivencia democrática en las escuelas. Algunas de las temáticas que abordan son: la definición de qué es una situación conflictiva y como abordarla; conflictos en las redes sociales;  discriminación  u  hostigamiento  por  orientación  sexual  o  por  identidad  de  género  y situaciones de violencia que involucran a estudiantes y docentes, entre otras.
 
-Si bien la Guía está vigente y es utilizada federalmente por los equipos de orientación de las jurisdicciones,  es  importante  destacar  que  en  este  período  se  desactivó  el  Observatorio  de Violencia  Escolar  así  como  el  área  nacional  de  apoyo  y  asistencia  técnica  a  los  equipos  de orientación escolar en las jurisdicciones. Es decir que el cumplimiento de las Resoluciones 93/09 y  la  239/14  que  estableces  las  regulaciones  de  convivencia  para  los  niveles  de  la  educación obligatorias quedaron delegadas en las provincias y la Ciudad Autónoma de Buenos Aires, sin el acompañamiento del ministerio nacional.
+Si bien la Guía está vigente y es utilizada federalmente por los equipos de orientación de las jurisdicciones, es importante destacar que en este período se desactivó el Observatorio de
 
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
 
 - 30 -
+
+Violencia Escolar así como el área nacional de apoyo y asistencia técnica a los equipos de orientación escolar en las jurisdicciones. Es decir que el cumplimiento de las Resoluciones 93/09 y la 239/14 que estableces las regulaciones de convivencia para los niveles de la educación obligatorias quedaron delegadas en las provincias y la Ciudad Autónoma de Buenos Aires, sin el acompañamiento del ministerio nacional.
 
 En este período se avanzó en un trabajo articulado con otras áreas y organismos de gobierno que trabajaban sobre los derechos de niños, niñas y adolescentes con la intención de articular estrategias que coadyuvaran en las garantías del derecho a la educación. Fue posible obtener algunos logros en ciertos programas tales como Asistiré, pero en general estos esfuerzos de articulación tuvieron bajo impacto tanto en sus fines como en el territorio.
 
@@ -1098,7 +1113,7 @@ X  Se  organizan  actividades  educativas  o  extracurriculares  relacionadas  c
 
 X  Otra:
 
-Enmarcado en el artículo  3  de  la  LEN  que  señala  que  'La  educación  es  una  prioridad nacional  y  se  constituye  como  política  de  Estado  para  construir  una  sociedad  justa, reafirmar  la  soberanía  e  identidad  nacional,  profundizar  el  ejercicio  de  la  ciudadanía democrática,  respetar  los  derechos  humanos  y  libertades  fundamentales  y  fortalecer  el desarrollo  económico  -  social  de  la  Nación.',  el  Programa  Educación  y  Memoria  del Ministerio de Educación de la Nación tiene como objetivo consolidar una política educativa que promueva la enseñanza de la historia reciente y de los Derechos Humanos mediante la elaboración y puesta a disposición de materiales y acciones de capacitación docente a nivel nacional.
+Enmarcado en el artículo 3 de la LEN que señala que 'La educación es una prioridad nacional y se constituye como política de Estado para construir una sociedad justa, reafirmar la soberanía e identidad nacional, profundizar el ejercicio de la ciudadanía democrática, respetar los derechos humanos y libertades fundamentales y fortalecer el desarrollo económico - social de la Nación.', el Programa Educación y Memoria del Ministerio de Educación de la Nación tiene como objetivo consolidar una política educativa que promueva la enseñanza de la historia reciente y de los Derechos Humanos mediante
 
 > 12 En la que se insta a los Estados a 'asegurar que todos los alumnos adquieran los conocimientos teóricos y prácticos necesarios para promover el desarrollo sostenible, entre otras cosas mediante la educación para el desarrollo sostenible y los estilos de vida sostenibles, los derechos humanos, la igualdad de género, la promoción de una cultura de paz y no violencia, la ciudadanía mundial y la valoración de la diversidad cultural y la contribución de la cultura al desarrollo sostenible'.
 
@@ -1108,7 +1123,9 @@ Enmarcado en el artículo  3  de  la  LEN  que  señala  que  'La  educación  e
 
 - 32 -
 
-Los  ejes  temáticos  que  desarrolla  son:  Terrorismo  de  Estado  en  Argentina,  Malvinas, Holocausto y Genocidios en el siglo XX. Además, se trabaja con otros temas significativos en ocasión de conmemoraciones para la escuela, como el Bicentenario y los 30 años de Democracia. Para su desarrollo durante este período se llevaron adelante reuniones de la Red Federal de Educación y Memoria, creada por Res CFE 269/15, se realizaron acciones virtuales  de  formación  docente,  se  produjeron  materiales  y  publicaciones,  se  realizaron asistencias técnicas a las jurisdicciones y se realizaron dos seminarios internacionales: a) 'Experiencias significativas en el desafío de enseñar Holocausto y Genocidios en el siglo XXI' y b) 'Los sitios de memoria como desafío pedagógico', ambos con la participación de organismos  e  instituciones  nacionales  e  internacionales,  como:  UNESCO;  IHRA  International Holocaust Remembrance Alliance; la Catedra Libre de Derechos Humanos de la Facultad de Filosofía y Letras de la UBA, entre otras.
+la elaboración y puesta a disposición de materiales y acciones de capacitación docente a nivel nacional.
+
+Los ejes temáticos que desarrolla son: Terrorismo de Estado en Argentina, Malvinas, Holocausto y Genocidios en el siglo XX. Además, se trabaja con otros temas significativos en ocasión de conmemoraciones para la escuela, como el Bicentenario y los 30 años de Democracia. Para su desarrollo durante este período se llevaron adelante reuniones de la Red Federal de Educación y Memoria, creada por Res CFE 269/15, se realizaron acciones virtuales de formación docente, se produjeron materiales y publicaciones, se realizaron asistencias técnicas a las jurisdicciones y se realizaron dos seminarios internacionales: a) 'Experiencias significativas en el desafío de enseñar Holocausto y Genocidios en el siglo XXI' y b) 'Los sitios de memoria como desafío pedagógico', ambos con la participación de organismos e instituciones nacionales e internacionales, como: UNESCO; IHRA - International Holocaust Remembrance Alliance; la Catedra Libre de Derechos Humanos de la Facultad de Filosofía y Letras de la UBA, entre otras.
 
 #### 2.8 Enseñanza privada
 
@@ -1132,7 +1149,7 @@ o No
 
 - Explique brevemente qué leyes, reglamentos o políticas garantizan que el desarrollo de la educación privada no genere discriminación y que las escuelas privadas representen una alternativa pertinente en su país:
 
-El artículo 14 de la LEN establece que el Sistema Educativo está integrado por servicios educativos de gestión estatal y privada, gestión cooperativa y gestión social reguladas por el estado, que posibilitan el ejercicio del derecho a la educación. En este sentido, la gestión privada es partícipe y responsable del cumplimiento de los fines y objetivos de la política educativa previstas en la LEN (artículo 11) entre los que se explicita.
+El artículo 14 de la LEN establece que el Sistema Educativo está integrado por servicios educativos de gestión estatal y privada, gestión cooperativa y gestión social reguladas por
 
 > 13 Véase el artículo/párrafo 1.1.
 
@@ -1141,6 +1158,8 @@ El artículo 14 de la LEN establece que el Sistema Educativo está integrado por
 [[START OF PAGE 33]]
 
 - 33 -
+
+el estado, que posibilitan el ejercicio del derecho a la educación. En este sentido, la gestión privada es partícipe y responsable del cumplimiento de los fines y objetivos de la política educativa previstas en la LEN (artículo 11) entre los que se explicita.
 
 La misma legislación y normativa de política educativa que regula la no discriminación en la educación y en la enseñanza tiene alcance sobre la educación privada, en virtud de la definición de sistema educativo regulado por el estado definido por la LEN.
 
@@ -1170,7 +1189,7 @@ En el artículo/párrafo 5.1.c de la Convención y la Recomendación se establec
 
 El artículo 75 de la Constitución Nacional  reconoce la preexistencia étnica y cultural de los pueblos indígenas argentinos, garantiza el respeto a su identidad y el derecho a una educación bilingüe e intercultural (EIB), entre otros derechos.
 
-La  LEN  26.206/06  define  a  la  Educación  Intercultural  Bilingüe  (EIB)  como  una  de  las modalidades del sistema educativo (Artículo 52) que garantiza el derecho constitucional de los  pueblos  indígenas,  conforme  al  art.  75  inc.  17  de  la  Constitución  Nacional.  En  este sentido, la EIB constituye el ámbito del sistema educativo cuya finalidad es brindar una educación que contribuye a: preservar y fortalecer las pautas culturales, las lenguas, las cosmovisiones  e  identidades  étnicas  de  los  pueblos  indígenas;  a  desempeñarse  en  un mundo  multicultural  y  a  mejorar  la  calidad  de  vida.  Esta  modalidad  define  la  LEN '…promueve un diálogo mutuamente enriquecedor de conocimientos y valores entre los pueblos indígenas y poblaciones étnica, lingüística y culturalmente diferentes, y propicia el reconocimiento y el respeto hacia tales diferencias.'
+La LEN 26.206/06 define a la Educación Intercultural Bilingüe (EIB) como una de las modalidades del sistema educativo (Artículo 52) que garantiza el derecho constitucional de los pueblos indígenas, conforme al art. 75 inc. 17 de la Constitución Nacional. En este sentido, la EIB constituye el ámbito del sistema educativo cuya finalidad es brindar una
 
 [[END OF PAGE 33]]
 
@@ -1178,7 +1197,9 @@ La  LEN  26.206/06  define  a  la  Educación  Intercultural  Bilingüe  (EIB)  
 
 - 34 -
 
-La LEN define las responsabilidades del Estado en el desarrollo de la EIB  (Artículo 53) destacando entre otros aspectos la de: garantizar la formación docente específica, inicial y continua  para  los  distintos  niveles  del  sistema  educativo  y  propiciar  la  inclusión  de  los valores, conocimientos, lenguas y otros rasgos sociales y culturales en la construcción de modelos y prácticas educativas propias de los pueblos indígenas.
+educación que contribuye a: preservar y fortalecer las pautas culturales, las lenguas, las cosmovisiones e identidades étnicas de los pueblos indígenas; a desempeñarse en un mundo multicultural y a mejorar la calidad de vida. Esta modalidad define la LEN '…promueve un diálogo mutuamente enriquecedor de conocimientos y valores entre los pueblos indígenas y poblaciones étnica, lingüística y culturalmente diferentes, y propicia el reconocimiento y el respeto hacia tales diferencias.'
+
+La LEN define las responsabilidades del Estado en el desarrollo de la EIB (Artículo 53) destacando entre otros aspectos la de: garantizar la formación docente específica, inicial y continua para los distintos niveles del sistema educativo y propiciar la inclusión de los valores, conocimientos, lenguas y otros rasgos sociales y culturales en la construcción de modelos y prácticas educativas propias de los pueblos indígenas.
 
 La  resolución  del  Consejo  Federal  de  Educación  N°  119/10  define  los  lineamientos federales  para  la  institucionalización  de  la  modalidad  de  EIB  en  las  jurisdicciones,  la incorporación de la modalidad en la política curricular de los niveles y modalidades de la educación, la formación docente gradual y progresiva en y para la EIB, específica, inicial y continua y la gestión participativa de la EIB en las jurisdicciones.
 
@@ -1258,9 +1279,9 @@ o Otras medidas innovadoras:
 
 Proporcione más detalles sobre las medidas adoptadas:
 
-## Métodos  utilizados  para  familiarizar  a  las  diferentes  autoridades  del  país  con  los instrumentos y superar los obstáculos encontrados
+## III. Métodos utilizados para familiarizar a las diferentes autoridades del país con los instrumentos y superar los obstáculos encontrados
 
-### Desafíos y obstáculos
+### 1. Desafíos y obstáculos
 
 #### 1.1 Mencione y detalle las dificultades que ha encontrado su país en el proceso de aplicación de las  disposiciones  fundamentales  de  la  Convención  y  la  Recomendación  (incluidos  los obstáculos jurídicos y prácticos) y facilite información sobre las principales cuestiones que deben abordarse para seguir promoviendo el derecho a la educación en su país (pueden marcarse o mencionarse varios puntos):
 
@@ -1276,7 +1297,7 @@ La falta de equipamiento y materiales didáctico, libros de lectura, libros de t
 
 La necesidad de trabajar sobre las necesidades de más personal docente y la consecuente existencia de ofertas educativas atendida por personal con o sin título habilitantes.
 
-Ampliar la infraestructura en el nivel inicial y en el nivel secundario y mejorar el parque edilicio de los distintos niveles y modalidades en general, para construir las condiciones adecuadas de un entorno escolar adecuado y saludable que posibilite el desarrollo de las actividades pedagógicas y de socialización entre pares.
+Ampliar la infraestructura en el nivel inicial y en el nivel secundario y mejorar el parque edilicio de los distintos niveles y modalidades en general, para construir las condiciones
 
 [[END OF PAGE 36]]
 
@@ -1284,7 +1305,9 @@ Ampliar la infraestructura en el nivel inicial y en el nivel secundario y mejora
 
 - 37 -
 
-Transformar los procesos de gestión institucional y de uso de la información para la toma de decisiones para habilitar procesos de cambio dentro de las instituciones. En este sentido los equipos de conducción que manejan información respecto de las asistencias y los logros académicos de sus estudiantes por años y por curso, pueden intervenir de manera más oportuna  para  prevenir  la  alteración  de  la  trayectoria  escolar  o  bien  el  abandono  de  la escolarización.
+adecuadas de un entorno escolar adecuado y saludable que posibilite el desarrollo de las actividades pedagógicas y de socialización entre pares.
+
+Transformar los procesos de gestión institucional y de uso de la información para la toma de decisiones para habilitar procesos de cambio dentro de las instituciones. En este sentido los equipos de conducción que manejan información respecto de las asistencias y los logros académicos de sus estudiantes por años y por curso, pueden intervenir de manera más oportuna para prevenir la alteración de la trayectoria escolar o bien el abandono de la escolarización.
 
 Trabajar en el fortalecimiento de la enseñanza en los distintos niveles del sistema educativo poniendo el acento en la renovación de los procesos de desarrollo curricular en las escuelas que incentiven la curiosidad y el deseo en los estudiantes y posibiliten nuevos aprendizajes.
 
