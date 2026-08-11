@@ -188,7 +188,7 @@ No person may be at the same time a member of both chambers of Parliament.
 
 - Senators shall take the oath of office at the first meeting of the Senate which they attend.
 
-- Deputies and Senators shall take the following oath of office: ' I pledge loyalty to the Czech Republic. I pledge that I will uphold its Constitution and laws. I pledge on my honor that I will carry out my duties in the interest of all the people, to the best of my knowledge and conscience. '
+- Deputies and Senators shall take the following oath of office: „I pledge loyalty to the Czech Republic. I pledge that I will uphold its Constitution and laws. I pledge on my honor that I will carry out my duties in the interest of all the people, to the best of my knowledge and conscience.“
 
 [[END OF PAGE 5]]
 
@@ -512,6 +512,22 @@ Further conditions of the exercise of the right to vote in the election of the P
 
 [[START OF PAGE 15]]
 
+#### ARTICLE 59
+
+- The Chairman of the Senate of the Parliament shall administer the oath of office to the President-elect at a joint meeting of both chambers.
+
+- The President-elect shall take the following oath of office: „I pledge loyalty to the Czech Republic. I pledge to uphold its Constitution and laws. I pledge on my honor to carry out my duties in the interest of all the people, to the best of my knowledge and conscience.“
+
+#### ARTICLE 60
+
+If the President-elect refuses to take the oath of office or takes it with reservations, he shall be deemed not to have been elected.
+
+#### ARTICLE 61
+
+The President of the Republic may resign her office by submitting her resignation to the Chairperson of the Senate of the Parliament.
+
+#### ARTICLE 62
+
 The President of the Republic:
 
 - appoints and recalls the Prime Minister and other members of the government and accepts their resignations, recalls the government and accepts its resignation;
@@ -545,22 +561,6 @@ The President of the Republic:
 - negotiates and ratifies international treaties; she may delegate the negotiation of international treaties to the government or, with its consent, to individual members thereof;
 
 - is the supreme commander of the armed forces;
-
-#### ARTICLE 59
-
-- The Chairman of the Senate of the Parliament shall administer the oath of office to the President-elect at a joint meeting of both chambers.
-
-- The President-elect shall take the following oath of office: ' I pledge loyalty to the Czech Republic. I pledge to uphold its Constitution and laws. I pledge on my honor to carry out my duties in the interest of all the people, to the best of my knowledge and conscience. '
-
-#### ARTICLE 60
-
-If the President-elect refuses to take the oath of office or takes it with reservations, he shall be deemed not to have been elected.
-
-#### ARTICLE 61
-
-The President of the Republic may resign her office by submitting her resignation to the Chairperson of the Senate of the Parliament.
-
-#### ARTICLE 62
 
 [[END OF PAGE 15]]
 
@@ -598,9 +598,11 @@ The President of the Republic may resign her office by submitting her resignatio
 
 #### ARTICLE 65
 
-(1) The President of the Republic may not be taken into detention, criminally prosecuted, nor prosecuted for misdemeanors or other administrative offense while in her office. (2) The Senate of the Parliament may with the Consent of the Chamber of Deputies of the Parliament lodge a constitutional charge against the President of the Republic for high treason, gross violation of the Constitution or other segment of the constitutional order before the Constitutional Court; treason is deemed to mean any conduct of the President of the Republic directed against the sovereignty and integrality of the Republic as well as against the democratic order of the republic. Based on the constitutional action the Constitutional Court may hold that the President shall lose the Presidency office and any further eligibility for the office. majority of the votes of the present senators is required. For the Chamber of Deputies of the
+(1) The President of the Republic may not be taken into detention, criminally prosecuted, nor prosecuted for misdemeanors or other administrative offense while in her office.
 
-- For the Senate to admit the proposal for constitutional action the consent of three-fifths Parliament to issue the consent with the filing of constitutional action a three-fifths majority
+(2) The Senate of the Parliament may with the Consent of the Chamber of Deputies of the Parliament lodge a constitutional charge against the President of the Republic for high treason, gross violation of the Constitution or other segment of the constitutional order before the Constitutional Court; treason is deemed to mean any conduct of the President of the Republic directed against the sovereignty and integrality of the Republic as well as against the democratic order of the republic. Based on the constitutional action the Constitutional Court may hold that the President shall lose the Presidency office and any further eligibility for the office.
+
+(3) For the Senate to admit the proposal for constitutional action the consent of three-fifths majority of the votes of the present senators is required. For the Chamber of Deputies of the Parliament to issue the consent with the filing of constitutional action a three-fifths majority
 
 [[END OF PAGE 16]]
 
@@ -610,7 +612,7 @@ of the votes of all deputies is required: shall the Chamber of Deputies of the P
 
 #### ARTICLE 66
 
-If the office of the Presidency becomes vacant and before a new President of the Republic has been elected or has taken the oath of office, likewise if the President of the Republic is, for serious reasons, incapable of performing his duties and if the Assembly of Deputies and the Senate adopt a resolution to this effect, the performance of the presidential duties under Article 63 paragraph 1, letters a) to e) and h) to k), and Article 63, paragraph 2 shall devolve upon the Prime Minister. In any period in which the Prime Minister is performing the abovespecified presidential duties, the performance of the duties under Article 62 letters a) to e) and k) and further Article 63 paragraph 1 letter f) if the announcement of the election for the Senate is concerned shall devolve upon the Chairperson of the Assembly of Deputies; if the office of the Presidency becomes vacant during a period in which the Assembly of Deputies is dissolved, the performance of these functions shall devolve upon the Chairperson of the Senate who is also in charge of the office of the Presidency at the time when the Prime Minister is in charge of the designated functions of the President of the Republic pursuant to Article 63 paragraph 1 letter f), if the announcement of the election for the Chamber of Deputies of the Parliament is concerned.
+If the office of the Presidency becomes vacant and before a new President of the Republic has been elected or has taken the oath of office, likewise if the President of the Republic is, for serious reasons, incapable of performing his duties and if the Assembly of Deputies and the Senate adopt a resolution to this effect, the performance of the presidential duties under Article 63 paragraph 1, letters a) to e) and h) to k), and Article 63, paragraph 2 shall devolve upon the Prime Minister. In any period in which the Prime Minister is performing the above-specified presidential duties, the performance of the duties under Article 62 letters a) to e) and k) and further Article 63 paragraph 1 letter f) if the announcement of the election for the Senate is concerned shall devolve upon the Chairperson of the Assembly of Deputies; if the office of the Presidency becomes vacant during a period in which the Assembly of Deputies is dissolved, the performance of these functions shall devolve upon the Chairperson of the Senate who is also in charge of the office of the Presidency at the time when the Prime Minister is in charge of the designated functions of the President of the Republic pursuant to Article 63 paragraph 1 letter f), if the announcement of the election for the Chamber of Deputies of the Parliament is concerned.
 
 ### THE GOVERNMENT
 
@@ -636,7 +638,7 @@ a proposal by the Chairperson of the Assembly of Deputies.
 
 (1) The President of the Republic shall administer the oath of office to the members of the government.
 
-- The members of the government shall take the following oath of office: 'I pledge loyalty to the Czech Republic. I pledge that I will uphold its Constitution and laws and bring them to life. I pledge on my honor that I will conscientiously carry out my duties and not abuse my position."
+- The members of the government shall take the following oath of office: “I pledge loyalty to the Czech Republic. I pledge that I will uphold its Constitution and laws and bring them to life. I pledge on my honor that I will conscientiously carry out my duties and not abuse my position."
 
 #### ARTICLE 70
 
@@ -744,7 +746,7 @@ The Constitutional Court is the judicial body responsible for the protection of 
 
 - A Justice of the Constitutional Court assumes her duties upon taking the oath of office administered by the President of the Republic.
 
-- A Justice of the Constitutional Court shall take the following oath of office: ' I pledge upon my honor and conscience that I will protect the inviolability of natural human rights and of the rights of citizens, adhere to constitutional acts, and make decisions according to my best convictions, independently and impartially. '.
+- A Justice of the Constitutional Court shall take the following oath of office: „I pledge upon my honor and conscience that I will protect the inviolability of natural human rights and of the rights of citizens, adhere to constitutional acts, and make decisions according to my best convictions, independently and impartially.“.
 
 - Should a Justice refuse to take the oath of office or should he take it with reservations, he shall be deemed not to have been appointed.
 
@@ -886,11 +888,11 @@ detailed provisions, shall be set down in a statute.
 
 #### ARTICLE 99
 
-The Czech Republic is subdivided into municipalities, which are the basic territorial selfgoverning units, and into regions, which are the higher territorial self-governing units.
+The Czech Republic is subdivided into municipalities, which are the basic territorial self-governing units, and into regions, which are the higher territorial self-governing units.
 
 #### ARTICLE 100
 
-(1) Territorial self-governing units are territorial communities of citizens with the right to selfgovernment. A statute shall specify the cases when they shall be administrative districts. (2) Municipalities shall always form part of a higher self-governing region.
+(1) Territorial self-governing units are territorial communities of citizens with the right to self-government. A statute shall specify the cases when they shall be administrative districts. (2) Municipalities shall always form part of a higher self-governing region.
 
 (3) Higher self-governing regions may be created or dissolved only by a constitutional act.
 
@@ -916,9 +918,7 @@ electoral term shall be designated by statute.
 
 #### ARTICLE 104
 
-(1) The powers of representative bodies shall be provided for only by statute. (2) Representative bodies of municipalities shall have jurisdiction in matters of selfgovernment, to the extent such matters are not entrusted by statute to the representative bodies of higher self-governing regions. (3) Representative bodies may, within the limits of their jurisdiction, issue generally binding
-
-- ordinances.
+(1) The powers of representative bodies shall be provided for only by statute. (2) Representative bodies of municipalities shall have jurisdiction in matters of self-government, to the extent such matters are not entrusted by statute to the representative bodies of higher self-governing regions. (3) Representative bodies may, within the limits of their jurisdiction, issue generally binding ordinances.
 
 #### ARTICLE 105
 
@@ -930,17 +930,13 @@ The exercise of state administration may be delegated to self-governing bodies o
 
 #### ARTICLE 106
 
-(1) On the day this Constitution enters into force, the Czech National Council shall become the Assembly of Deputies, the electoral term of which shall conclude on the sixth of June 1996. (2) Until such time as the Senate is elected in accordance with this Constitution, the Senate's duties shall be carried out by the Provisional Senate. The Provisional Senate shall be established in the manner provided for by a constitutional act. Until that act enters into force, the Assembly of Deputies shall perform the duties of the Senate. (3) So long as it is performing the duties of the Senate pursuant to paragraph 2, the Assembly of Deputies may not be dissolved. (4) Until statutes enacting the standing orders for both chambers are adopted, each chamber
-
-- shall proceed in accordance with the standing orders of the Czech National Council.
+(1) On the day this Constitution enters into force, the Czech National Council shall become the Assembly of Deputies, the electoral term of which shall conclude on the sixth of June 1996. (2) Until such time as the Senate is elected in accordance with this Constitution, the Senate's duties shall be carried out by the Provisional Senate. The Provisional Senate shall be established in the manner provided for by a constitutional act. Until that act enters into force, the Assembly of Deputies shall perform the duties of the Senate. (3) So long as it is performing the duties of the Senate pursuant to paragraph 2, the Assembly of Deputies may not be dissolved. (4) Until statutes enacting the standing orders for both chambers are adopted, each chamber shall proceed in accordance with the standing orders of the Czech National Council.
 
 #### ARTICLE 107
 
-- The statute on elections to the Senate shall indicate, for the first Senate election, the years and which third of those Senators shall have a term of office lasting four years.
+(1) The statute on elections to the Senate shall indicate, for the first Senate election, the manner of determining which third of those Senators shall have a term of office lasting two years and which third of those Senators shall have a term of office lasting four years.
 
-- The President of the Republic shall convene the session of the Senate so that it opens no days after the election.
-
-manner of determining which third of those Senators shall have a term of office lasting two later than thirty days after the election; if he does not do so, the Senate shall convene thirty
+(2) The President of the Republic shall convene the session of the Senate so that it opens no later than thirty days after the election; if he does not do so, the Senate shall convene thirty days after the election.
 
 [[END OF PAGE 26]]
 
@@ -956,7 +952,7 @@ Until such time as the State Attorney's Office is established, its duties shall 
 
 #### ARTICLE 110
 
-Until the thirty-first of December1993, military courts shall also form a system of courts.
+Until the thirty-first of December 1993, military courts shall also form a system of courts.
 
 #### ARTICLE 111
 
