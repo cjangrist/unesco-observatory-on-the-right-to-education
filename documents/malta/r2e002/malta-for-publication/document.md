@@ -6,17 +6,17 @@
 
 ### A. About the 1974 Recommendation
 
-- UNESCO's 1974 Recommendation concerning Education for International Understanding,  Co-operation  and  Peace  and  Education  relating  to  Human  Rights  and Fundamental  Freedoms 1 (the ' 1974  Recommendation' )  aims  to  promote  international education and world peace through understanding, solidarity and cooperation. It was adopted on 19 November 1974 by the General Conference of UNESCO at its 18th session.
+1. UNESCO’s 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms¹ (the “1974 Recommendation”) aims to promote international education and world peace through understanding, solidarity and cooperation. It was adopted on 19 November 1974 by the General Conference of UNESCO at its 18th session.
 
-- The 1974 Recommendation applies to formal, non-formal and informal education and to all levels, from pre-primary to tertiary and adult education and lifelong learning. The General Conference recommended ' that Member States should apply ' the provisions included in the 1974 Recommendation ' by taking whatever legislative or other steps ' that provide institutional (e.g.  policies  and  legal  frameworks)  and  pedagogical  (e.g.  curricula,  teacher  training, educational materials, equipment, and student assessment) support for its  implementation, based on the ' objectives ', referred to in paragraph 4 of the 1974 Recommendation , ' regarded as major guiding principles of education policy '  including: an international dimension and a global  perspective  on  education,  cultural  diversity,  interdependence,  communication, rights and responsibilities, international solidarity and cooperation, and problem solving.
+2. The 1974 Recommendation applies to formal, non-formal and informal education and to all levels, from pre-primary to tertiary and adult education and lifelong learning. The General Conference recommended “that Member States should apply” the provisions included in the 1974 Recommendation “by taking whatever legislative or other steps” that provide institutional (e.g. policies and legal frameworks) and pedagogical (e.g. curricula, teacher training, educational materials, equipment, and student assessment) support for its implementation, based on the “objectives”, referred to in paragraph 4 of the 1974 Recommendation, “regarded as major guiding principles of education policy” including: an international dimension and a global perspective on education, cultural diversity, interdependence, communication, rights and responsibilities, international solidarity and cooperation, and problem solving.
 
-- Today, the principles of the 1974 Recommendation apply equally well to Education for Sustainable Development (ESD) and to Global Citizenship Education (GCED) and therefore represent a powerful tool for promoting the 2030 Agenda for Sustainable Development and in particular SDG Target 4.7 on the promotion of sustainable development and global citizenship through  education,  Target  12.8  on  access  to  information  on  sustainable  development  and Target 13.3 on climate change education.
+3. Today, the principles of the 1974 Recommendation apply equally well to Education for Sustainable Development (ESD) and to Global Citizenship Education (GCED) and therefore represent a powerful tool for promoting the 2030 Agenda for Sustainable Development and in particular SDG Target 4.7 on the promotion of sustainable development and global citizenship through education, Target 12.8 on access to information on sustainable development and Target 13.3 on climate change education.
 
-- The  General  Conference  in  its  39th  session  recommended  the  use  of  the 1974 Recommendation reporting process to support the implementation and monitoring of Target 4.7 of Sustainable Development Goal 4 (39 C/Resolution 79). The UNESCO Executive Board at its 209th session approved the use of the current guidelines for both the monitoring of the 1974 Recommendation and the collection of data needed for the following global SDG indicator for which UNESCO is custodian (209 EX/Decision 18.II):
+4. The General Conference in its 39th session recommended the use of the 1974 Recommendation reporting process to support the implementation and monitoring of Target 4.7 of Sustainable Development Goal 4 (39 C/Resolution 79). The UNESCO Executive Board at its 209th session approved the use of the current guidelines for both the monitoring of the 1974 Recommendation and the collection of data needed for the following global SDG indicator for which UNESCO is custodian (209 EX/Decision 18.II):
 
-- 4.7.1,  12.8.1  and  13.3.1: The extent to which (i) global  citizenship  education  and (ii) education  for  sustainable  development  are  mainstreamed  in  (a)  national  education policies; (b) curricula; (c) teacher education and (d) student assessment.
+4.7.1, 12.8.1 and 13.3.1: The extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education and (d) student assessment.
 
-- Questions marked with an asterisk (*) will be used in the calculation of the respective indicators  ( Table  1 ).  As  approved  by  the  Inter-Agency  and  Expert  Group  on  the  SDG Indicators, the indicators will be calculated for primary and secondary education only.
+5. Questions marked with an asterisk (*) will be used in the calculation of the respective indicators (Table 1). As approved by the Inter-Agency and Expert Group on the SDG Indicators, the indicators will be calculated for primary and secondary education only.
 
 Table 1 Questions used in the calculation of the global SDG indicator for Targets 4.7, 12.8 and 13.3
 
@@ -32,19 +32,19 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 ### B. Reporting obligations
 
-- The General Conference, at its 18th session, when adopting the 1974 Recommendation recommended ' that Member States submit […] reports concerning the action taken by them in pursuance of this recommendation '. Moreover, in accordance with Article VIII of UNESCO's Constitution ' Each Member State shall submit to the Organization […] reports […] on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4 .'
+6. The General Conference, at its 18th session, when adopting the 1974 Recommendation recommended “that Member States submit […] reports concerning the action taken by them in pursuance of this recommendation”. Moreover, in accordance with Article VIII of UNESCO’s Constitution “Each Member State shall submit to the Organization […] reports […] on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4.”
 
-- Thus, all UNESCO Member States are expected to report on the steps they have taken  to  implement  the 1974  Recommendation preferably  by  completing  the  following questionnaire. Such reporting takes place every four years.
+7. Thus, all UNESCO Member States are expected to report on the steps they have taken to implement the 1974 Recommendation preferably by completing the following questionnaire. Such reporting takes place every four years.
 
 ## II. Guidelines for completion of the questionnaire
 
-- This  questionnaire  and  its  accompanying  guidelines  are  addressed  to  Ministers responsible for relations with UNESCO. The questionnaire is typically completed by Ministries of Education and other government authorities responsible for education. Responses should cover, as far as possible, education at all levels of government, including sub-national levels where applicable as well as education outside the government sector.
+8. This questionnaire and its accompanying guidelines are addressed to Ministers responsible for relations with UNESCO. The questionnaire is typically completed by Ministries of Education and other government authorities responsible for education. Responses should cover, as far as possible, education at all levels of government, including sub-national levels where applicable as well as education outside the government sector.
 
-- National respondents are encouraged to consult widely both within, across and beyond government, including with Ministries of Environment, with national human rights institutions, the education sector, civil society partners and others, as necessary, to gather the information needed to complete the questionnaire.
+9. National respondents are encouraged to consult widely both within, across and beyond government, including with Ministries of Environment, with national human rights institutions, the education sector, civil society partners and others, as necessary, to gather the information needed to complete the questionnaire.
 
-- Responses to the seventh consultation should cover:
+10. Responses to the seventh consultation should cover:
 
-(i)      the time period 2017-2020;
+(i) the time period 2017-2020;
 
 (ii) education at all levels of formal education from pre-primary to tertiary education as well as non-formal education;
 
@@ -52,79 +52,79 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 (iv) where possible, education outside the government sector.
 
-- To assist  countries  in  responding  to  this  questionnaire,  UNESCO  has  developed  the following  set  of  global  citizenship  education  and  education  for  sustainable  development themes. The list is based on a review of current common practices in many countries as well as a review of relevant literature. While the terms ESD and GCED may be used differently in some countries, the list of themes typically captures what are seen as key elements of Target 4.7.  Please  refer  to  the  definitions  of  key  terms  in Section  III before  completing  the questionnaire.
+11. To assist countries in responding to this questionnaire, UNESCO has developed the following set of global citizenship education and education for sustainable development themes. The list is based on a review of current common practices in many countries as well as a review of relevant literature. While the terms ESD and GCED may be used differently in some countries, the list of themes typically captures what are seen as key elements of Target 4.7. Please refer to the definitions of key terms in Section III before completing the questionnaire.
 
 ### Global citizenship education and education for sustainable development
 
-- cultural diversity and tolerance
+1. cultural diversity and tolerance
 
-- 1.1 international or intercultural understanding, solidarity and cooperation
+1.1 international or intercultural understanding, solidarity and cooperation
 
-- 1.2 intercultural and interreligious dialogue
+1.2 intercultural and interreligious dialogue
 
-- 1.3 local, national and/or global citizenship
+1.3 local, national and/or global citizenship
 
-- gender equality education
+2. gender equality education
 
-- 2.1 gender-based equal opportunities
+2.1 gender-based equal opportunities
 
-- 2.2 gender equality and justice
+2.2 gender equality and justice
 
-- 2.3 gender roles, identity and stereotypes
+2.3 gender roles, identity and stereotypes
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-- human rights education
+3. human rights education
 
-- 3.1 equality  and  non-discrimination  based  on race, colour,  language, religion, disability,  political  or  other  opinion,  national  or  social  origin,  birth  or  other status
+3.1 equality and non-discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status
 
-- 3.2 human rights values, human dignity, justice, inclusion and participation
+3.2 human rights values, human dignity, justice, inclusion and participation
 
-- 3.3 respect for  human  rights  and  fundamental  freedoms  (as  outlined  in international conventions and declarations)
+3.3 respect for human rights and fundamental freedoms (as outlined in international conventions and declarations)
 
-- peace and non-violence
+4. peace and non-violence
 
-- 4.1 friendly relations among peoples and nations
+4.1 friendly relations among peoples and nations
 
-- 4.2 challenging negative stereotypes, promoting peaceful solutions, learning to live together, including others and preventing violent extremism
+4.2 challenging negative stereotypes, promoting peaceful solutions, learning to live together, including others and preventing violent extremism
 
-- 4.3 preventing all forms of violence including bullying, verbal abuse and genderbased violence
+4.3 preventing all forms of violence including bullying, verbal abuse and gender-based violence
 
-- climate change education
+5. climate change education
 
-- 5.1 mitigation
+5.1 mitigation
 
-- 5.2 adaptation
+5.2 adaptation
 
-- 5.3 impact reduction
+5.3 impact reduction
 
-- 5.4 early warning
+5.4 early warning
 
-- environmental sustainability
+6. environmental sustainability
 
-- 6.1 caring for the planet, protecting nature
+6.1 caring for the planet, protecting nature
 
-- 6.2 environmental justice
+6.2 environmental justice
 
-- 6.3 biodiversity, water
+6.3 biodiversity, water
 
-- human survival and well-being
+7. human survival and well-being
 
-- 7.1 environmental health as it pertains to  human well-being, disaster risk reduction
+7.1 environmental health as it pertains to human well-being, disaster risk reduction
 
-- 7.2 health of the planet for future generations
+7.2 health of the planet for future generations
 
-- 7.3 sustainable cities and communities
+7.3 sustainable cities and communities
 
-- sustainable consumption and production
+8. sustainable consumption and production
 
-- 8.1 responsible and sustainable lifestyles
+8.1 responsible and sustainable lifestyles
 
-- 8.2 green economy, green jobs
+8.2 green economy, green jobs
 
-- 8.3 sustainable energy
+8.3 sustainable energy
 
 [[END OF PAGE 3]]
 
@@ -141,7 +141,7 @@ Themes of global citizenship and education for sustainable development
 4. Peace and non-violence | Education about peace and peace-building, mediation, conflict prevention and resolution, non-violence, reconciliation and living together peacefully. It includes advocating for friendly relations among peoples and nations, challenging negative stereotypes, promoting peaceful solutions, learning to live together and preventing violent extremism and other forms of violence including bullying.
 5. Climate change education | Education to help people, in particular youth, understand, address, mitigate, and adapt to the impacts of climate change. It encourages changes in attitudes and behaviours needed to put the world on a more sustainable development path, and build a new generation of climate change-aware citizens. It covers various responses to climate change including mitigation, adaptation, impact reduction and early warning.
 6. Environmental sustainability | Education about responsible interactions with the environment to avoid depletion or degradation and to promote environmental quality and health. It includes, caring for the planet and protecting nature, environmental justice, biodiversity and water.
-7. Human survival and well- being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
+7. Human survival and well-being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
 
 [[END OF PAGE 4]]
 
@@ -176,12 +176,6 @@ Vocational education | Education that is designed for learners to acquire the kn
 [[START OF PAGE 7]]
 
 ## IV. Information about the respondent
-
-Malta
----
-
-14.01.2021
----
 
 Country:
 
@@ -241,27 +235,45 @@ N/A
 
 #### A1a. Please  describe any  specific national or sub-national laws, legislation or legal framework(s) in your country that govern the promotion of global citizenship education (GCED) and/or education for sustainable development (ESD). Explain whether GCED and/or ESD themes 2  are mentioned explicitly or are inferred and what types or levels of education are covered.
 
-• The National Curriculum Framework 2012 / Learning Outcomes Framework • Transgender, Variant and Intersex Students in Schools Policy (2015) • A Whole School Approach to a Healthy Lifestyle: Healthy Eating and Physical Activity Policy (2015)
----
-• Special Needs and Inclusive Education in Malta: External Audit Report • Malta National Lifelong Learning Strategy (2020) • Respect for All Framework (2014) • A National Literacy Strategy for All in Malta and Gozo (2014 - 2019) • National Employment Policy (2014) • Framework for the Education Strategy for Malta (2014 - 2024) • Waste Management Plan for the Maltese Islands (2014 - 2020) • Sustainable Development Act (2012) • Malta's National Biodiversity Strategy and Action Plan (2012 - 2020) • National Environmental Policy (2012) • National Climate Change Adaptation Strategy (2012) • Environmental and Development Planning Act (2010) • National Strategy for Policy and Abatement Measures Relating to the Reduction of Greenhouse Gas Emissions (2008 • Sustainable Development Strategy for the Maltese Islands (2007-2016) • Environmental Protection Act (2001)
+• The National Curriculum Framework 2012 / Learning Outcomes Framework
+• Transgender, Variant and Intersex Students in Schools Policy (2015)
+• A Whole School Approach to a Healthy Lifestyle: Healthy Eating and Physical Activity Policy (2015)
+• Special Needs and Inclusive Education in Malta: External Audit Report
+• Malta National Lifelong Learning Strategy (2020)
+• Respect for All Framework (2014)
+• A National Literacy Strategy for All in Malta and Gozo (2014 – 2019)
+• National Employment Policy (2014)
+• Framework for the Education Strategy for Malta (2014 – 2024)
+• Waste Management Plan for the Maltese Islands (2014 – 2020)
+• Sustainable Development Act (2012)
+• Malta’s National Biodiversity Strategy and Action Plan (2012 – 2020)
+• National Environmental Policy (2012)
+• National Climate Change Adaptation Strategy (2012)
+• Environmental and Development Planning Act (2010)
+• National Strategy for Policy and Abatement Measures Relating to the Reduction of Greenhouse Gas Emissions (2008
+• Sustainable Development Strategy for the Maltese Islands (2007-2016)
+• Environmental Protection Act (2001)
 
 #### A1b. Please provide the full names of any laws, legislation or legal frameworks referred to in A1a and, where possible, web links to relevant documents.
 
-• The National Curriculum Framework 2012 / Learning Outcomes Framework • Transgender, Variant and Intersex Students in Schools Policy (2015) • A Whole School Approach to a Healthy Lifestyle: Healthy Eating and Physical Activity
----
-Policy (2015)
-• Special Needs and Inclusive Education in Malta: External Audit Report • Malta National Lifelong Learning Strategy (2020) • Respect for All Framework (2014)
-• A National Literacy Strategy for All in Malta and Gozo (2014 - 2019)
+• The National Curriculum Framework 2012 / Learning Outcomes Framework
+• Transgender, Variant and Intersex Students in Schools Policy (2015)
+• A Whole School Approach to a Healthy Lifestyle: Healthy Eating and Physical Activity Policy (2015)
+• Special Needs and Inclusive Education in Malta: External Audit Report
+• Malta National Lifelong Learning Strategy (2020)
+• Respect for All Framework (2014)
+• A National Literacy Strategy for All in Malta and Gozo (2014 – 2019)
 • National Employment Policy (2014)
-• Framework for the Education Strategy for Malta (2014 - 2024)
-• Waste Management Plan for the Maltese Islands (2014 - 2020)
+• Framework for the Education Strategy for Malta (2014 – 2024)
+• Waste Management Plan for the Maltese Islands (2014 – 2020)
 • Sustainable Development Act (2012)
-• Malta's National Biodiversity Strategy and Action Plan (2012 - 2020)
+• Malta’s National Biodiversity Strategy and Action Plan (2012 – 2020)
 • National Environmental Policy (2012)
-• National Climate Change Adaptation Strategy (2012) • Environmental and Development Planning Act (2010) • National Strategy for Policy and Abatement Measures Relating to the Reduction of
-Greenhouse Gas Emissions (2008 • Sustainable Development Strategy for the Maltese Islands (2007-2016)
-Environmental Protection Act (2001)
-•
+• National Climate Change Adaptation Strategy (2012)
+• Environmental and Development Planning Act (2010)
+• National Strategy for Policy and Abatement Measures Relating to the Reduction of Greenhouse Gas Emissions (2008
+• Sustainable Development Strategy for the Maltese Islands (2007-2016)
+• Environmental Protection Act (2001)
 
 > 2 See the schema described in paragraph 11 of Section II of these guidelines.
 
@@ -271,7 +283,21 @@ Environmental Protection Act (2001)
 
 #### *A2 Please indicate which GCED and ESD themes are covered in national or sub-national laws, legislation or legal frameworks on education by entering the appropriate number in each white cell.
 
-#### A3a.  Please  describe  any  specific  current  national  or  sub-national  education  policies, frameworks  or  strategic  objectives  in  your  country  that  promote  global  citizenship education  (GCED)  and/or  education  for  sustainable  development  (ESD).  Explain whether GCED and/or ESD themes 3  are mentioned explicitly or are inferred and what types or levels of education are covered.
+KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
+
+National | Sub-national
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Pre-primary | Primary/secondary | Tertiary | Non-formal | Pre-primary | Primary/secondary | Tertiary | Non-formal
+1. | Cultural diversity and tolerance | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
+2. | Gender equality | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
+3. | Human rights | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
+4. | Peace and non-violence | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
+5. | Climate change | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
+6. | Environmental sustainability | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
+7. | Human survival and well-being | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
+8. | Sustainable consumption and production | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
+
+#### A3a. Please describe any specific current national or sub-national education policies, frameworks or strategic objectives in your country that promote global citizenship education (GCED) and/or education for sustainable development (ESD). Explain whether GCED and/or ESD themes³ are mentioned explicitly or are inferred and what types or levels of education are covered.
 
 - The National Curriculum Framework 2012 / Learning Outcomes Framework
 
@@ -285,13 +311,13 @@ Environmental Protection Act (2001)
 
 - National Employment Policy (2014)
 
-- Framework for the Education Strategy for Malta (2014 - 2024)
+- Framework for the Education Strategy for Malta (2014 – 2024)
 
-- Waste Management Plan for the Maltese Islands (2014 - 2020)
+- Waste Management Plan for the Maltese Islands (2014 – 2020)
 
 - Sustainable Development Act (2012)
 
-- Malta's National Biodiversity Strategy and Action Plan (2012 - 2020)
+- Malta’s National Biodiversity Strategy and Action Plan (2012 – 2020)
 
 - National Environmental Policy (2012)
 
@@ -302,20 +328,6 @@ Environmental Protection Act (2001)
 - National Strategy for Policy and Abatement Measures Relating to the Reduction of Greenhouse Gas Emissions (2008
 
 - Sustainable Development Strategy for the Maltese Islands (2007-2016)
-
-National | Sub-national
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Pre- primary | Primary/ secondary | Tertiary | Non- formal | Pre- primary | Primary/ secondary | Tertiary | Non- formal
-1. | Cultural diversity and tolerance | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
-2. | Gender equality | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
-3. | Human rights | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
-4. | Peace and non- violence | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
-5. | Climate change | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
-6. | Environmental sustainability | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
-7. | Human survival and well-being | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
-8. | Sustainable consumption and production | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
-
-KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
 
 > 3 See the schema described in paragraph 11 of Section II of these guidelines.
 
@@ -359,9 +371,9 @@ https://www.ilo.org/dyn/natlex/natlex4.detail?p_isn=90497&p_lang=
 
 - Sustainable Development Strategy for the Maltese Islands (2007-2016) shorturl.at/bmBC5
 
-- MCAST - Globalisation Strategy https://www.mcast.edu.mt/wp-content/uploads/MCASTGlobalization-Strategy_Final.pdf
+- MCAST - Globalisation Strategy https://www.mcast.edu.mt/wp-content/uploads/MCAST-Globalization-Strategy_Final.pdf
 
-- MCAST Strategic Plan 2019-2021 https://www.mcast.edu.mt/wp-content/uploads/MCASTStrategic-Plan-2019-2021-1.pdf
+- MCAST Strategic Plan 2019-2021 https://www.mcast.edu.mt/wp-content/uploads/MCAST-Strategic-Plan-2019-2021-1.pdf
 
 #### *A4.  Please indicate which GCED and ESD themes are covered in national or sub-national education policies, frameworks or strategic objectives affecting each level of education by entering the appropriate number in each white cell.
 
@@ -405,9 +417,9 @@ Assessment of student outcomes | 99 | 99 | 0 | 99
 
 #### B1a. Please describe in which ways GCED and ESD are mainstreamed in school curricula. Indicate  whether  topics  are  taught  as  standalone  subjects  or  are  integrated  into  the curricula of other subjects. Explain whether GCED and/or ESD themes 4  are mentioned explicitly or are inferred and what types or levels of education are covered.
 
-The  National  Curriculum  Framework  (2012)  stipulates  ESD  (including  GCED)  as  a  crosscurricular theme. In this manner ESD/GCED-related knowledge, principles, values and related skills / competences are embedded across all subjects / curricular areas, at all levels.
+The National Curriculum Framework (2012) stipulates ESD (including GCED) as a cross-curricular theme. In this manner ESD/GCED-related knowledge, principles, values and related skills / competences are embedded across all subjects / curricular areas, at all levels.
 
-Reference can be made to the Learning Outcomes Framework (https://www.schoolslearningoutcomes.edu.mt/en/). However, certain content outcomes in subjects, namely Primary Science, Integrated Science, Physics, Chemistry, Biology, Environmental Studies and Geography are directly related to ESD/GCED.  Moreover, Themes 18  are  integrated  in  Social  Studies  and  PSCD  in  secondary  schools.  Subjects  such  as  Social Studies (Option) and European Studies (Option) also tackle themes 1-8 from a sociological and European point of view.
+Reference can be made to the Learning Outcomes Framework (https://www.schoolslearningoutcomes.edu.mt/en/). However, certain content outcomes in subjects, namely Primary Science, Integrated Science, Physics, Chemistry, Biology, Environmental Studies and Geography are directly related to ESD/GCED. Moreover, Themes 1-8 are integrated in Social Studies and PSCD in secondary schools. Subjects such as Social Studies (Option) and European Studies (Option) also tackle themes 1-8 from a sociological and European point of view.
 
 GCED and ESD are not specifically mainstreamed in college curricula. Some GCED and ESD Topics are integrated within specific courses, eg:
 
@@ -427,9 +439,9 @@ GCED and ESD are not specifically mainstreamed in college curricula. Some GCED a
 
 #### B1b. Please provide examples of curricula in which GCED and/or ESD are mainstreamed and, where possible, web links to relevant documents.
 
-#### *B2 Please indicate which GCED and ESD themes are taught as part of the curriculum at each level of education by entering the appropriate number in each white cell.
-
 Refer to: Learning Outcomes Framework (https://www.schoolslearningoutcomes.edu.mt/en/)
+
+#### *B2 Please indicate which GCED and ESD themes are taught as part of the curriculum at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -450,7 +462,9 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 
 #### *B3 Please indicate in which subjects or fields of study GCED and ESD are taught in primary and secondary education by entering the appropriate number in each white cell.
 
-Cultural diversity and tolerance | Gender equality | Human rights | Peace and non- violence | Climate change | Environmental sustainability | Human survival and well- being | Sustainable consumption and production
+KEY: 0 = no, 1 = yes, 9 = unknown
+
+Cultural diversity and tolerance | Gender equality | Human rights | Peace and non-violence | Climate change | Environmental sustainability | Human survival and well-being | Sustainable consumption and production
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Arts | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Civics, civil or citizenship education | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
@@ -466,8 +480,6 @@ Social studies | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Integrated studies | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9
 Other (please specify)
 1 (PCSD) | 1 | 1 | 0 | 0 | 1 | 1 | 0
-
-KEY: 0 = no, 1 = yes, 9 = unknown
 
 #### *B4 Please indicate the approaches used to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
 
@@ -499,7 +511,7 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 
 [[START OF PAGE 16]]
 
-### Teacher education (including the training of trainers and educators) (paras 4 and 33-37 of the 1974 Recommendation )
+### C. Teacher education (including the training of trainers and educators) (paras 4 and 33-37 of the 1974 Recommendation)
 
 #### C1a. Please describe in which ways GCED and ESD are mainstreamed in initial training and in  continuing  professional  development  of  teachers,  trainers  and  educators.  Indicate whether all teachers, trainers and educators or only some are required to receive training to teach GCED and/or ESD.
 
@@ -511,7 +523,7 @@ The Department of Arts, Open Communities and Adult Education, within the Faculty
 
 The  Bachelor  in  VET  aims  to  provide  practitioners  or  intending  practitioners  in  Vocational Education  and  Training  (VET)  settings  with  the  knowledge,  skills  and  competences  to  work effectively, efficiently and confidently as professional teachers, supervisors, mentors, educational designers and agents of change in the fast changing reality of industry 4.0. Participants on the programme have the opportunity to receive training in GCED and ESD. https://www.mcast.edu.mt/courses/pd6-e16-20/
 
-##### Cultural diversity and tolerance
+##### 1.Cultural diversity and tolerance
 
 - Embracing Cultural and Ethnic diversity in VET
 
@@ -521,7 +533,7 @@ The  Bachelor  in  VET  aims  to  provide  practitioners  or  intending  practit
 
 - Strategies for Teaching and Learning in VET 2
 
-##### Gender equality
+##### 2. Gender equality
 
 - Learner Development: Adolescence to Adulthood
 
@@ -529,7 +541,7 @@ The  Bachelor  in  VET  aims  to  provide  practitioners  or  intending  practit
 
 - Mentoring and Career Guidance
 
-##### Human rights
+##### 3.Human rights
 
 - Vocational Education principles and trends
 
@@ -569,7 +581,9 @@ The Masters in Vocational Education Applied Research 4.0 (MVEAR) students also h
 
 - Learning Outcomes Framework https://www.schoolslearningoutcomes.edu.mt/en/
 
-#### *C2 Please indicate whether teachers, trainers and educators are trained to teach GCED and ESD  during  initial  or  pre-service  training  and/or  through  continuing  professional development. Please enter the appropriate number in each white cell.
+#### *C2 Please indicate whether teachers, trainers and educators are trained to teach GCED and ESD during initial or pre-service training and/or through continuing professional development. Please enter the appropriate number in each white cell.
+
+KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
@@ -580,17 +594,11 @@ Continuing professional development
 For teachers of selected subjects only (in which GCED or ESD are typically taught) | 1 | 1 | 1 | 9
 For teachers of other subjects | 1 | 1 | 1 | 9
 
-KEY: 0 = no, 1 = yes, 9 = unknown
-
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
 #### *C3 Please indicate on which GCED and ESD themes pre-service or in-service training is available for teachers, trainers and educators at each level of education by entering the appropriate number in each white cell.
-
-#### *C4   Please  indicate  whether  teachers,  trainers  and  educators  are  trained  to  teach  the following  dimensions  of  learning  in  GCED  and  ESD.  Please  enter  the  appropriate number in each white cell.
-
-#### *C5 Please indicate whether teachers, trainers and educators are trained to use the following approaches to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -605,6 +613,8 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 7. | Human survival and well-being | 1 | 1 | 1 | 1
 8. | Sustainable consumption and production | 1 | 1 | 1 | 1
 
+#### *C4 Please indicate whether teachers, trainers and educators are trained to teach the following dimensions of learning in GCED and ESD. Please enter the appropriate number in each white cell.
+
 KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
@@ -614,28 +624,28 @@ Skills | 1 | 1 | 1 | 9
 Values | 1 | 1 | 1 | 9
 Attitudes and behaviours | 1 | 1 | 1 | 9
 
+#### *C5 Please indicate whether teachers, trainers and educators are trained to use the following approaches to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
+
 KEY: 0 = no, 1 = yes, 9 = unknown
 
 Global citizenship and education for sustainable development
 --- | ---
 GCED/ESD are taught as separate subject(s) | 0
-Cross curriculum approach ( e.g. GCED/ESD are taught in more than one subject but not throughout the curriculum ) | 1
-Integrated approach ( e.g. GCED/ESD are taught throughout the whole curriculum ) | 1
-Whole school approach (e.g. GCED/ESD are integrated in the school ethos, management, governance, curriculum, teacher training, teaching practices, the learning environment, and in learning experiences in the community and life outside school ) | 1
+Cross curriculum approach (e.g. GCED/ESD are taught in more than one subject but not throughout the curriculum) | 1
+Integrated approach (e.g. GCED/ESD are taught throughout the whole curriculum) | 1
+Whole school approach (e.g. GCED/ESD are integrated in the school ethos, management, governance, curriculum, teacher training, teaching practices, the learning environment, and in learning experiences in the community and life outside school) | 1
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
 
-### Student assessment (paras 4 and 5 of the 1974 Recommendation )
+### D. Student assessment (paras 4 and 5 of the 1974 Recommendation)
 
 #### D1a.  Please describe in which ways GCED and ESD are covered in student assessments and examinations. Indicate whether students are assessed only on their knowledge of and skills  related  to  the  topics  being  tested  or  also  on  their  values,  attitudes  and/or behaviours.
 
 The Learning Outcomes Framework at pre / primary and secondary levels require continuous assessment of skills, competences, attitudes and behaviors apart from knowledge. While examinations are administered from year 4 onwards, frequent / periodic class assessment tasks at all levels are intended to assess the acquisition of skills and competences. Educators are also encouraged to test also values, attitudes and behaviors on these topics
 
-#### *D2 Please indicate whether the GCED and ESD themes below are generally included in student  assessments  or  examinations  at  each  level  of  education  by  entering  the appropriate number in each white cell.
-
-#### *D3 Please indicate which of the dimensions of learning in GCED and ESD below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
+#### *D2 Please indicate whether the GCED and ESD themes below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -649,6 +659,8 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 6. | Environmental sustainability | 0 | 1 | 1 | 1
 7. | Human survival and well-being | 0 | 1 | 1 | 1
 8. | Sustainable consumption and production | 0 | 1 | 1 | 1
+
+#### *D3 Please indicate which of the dimensions of learning in GCED and ESD below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -744,13 +756,13 @@ Nurturing a Sustainable Society - A Strategy for ESD in Malta is the final revie
 
 Interreg Italia-Malta  - The Italy-Malta Programme is a cross-border Programme which covers the Maltese Islands and several regions in Sicily. This Programme aims to reinforce sustainable growth at the cross-border level with a particular focus on the Research & Innovation sectors, foster the competitiveness of small and medium-sized enterprises, protect the environment as well as promoting actions which mitigate the effects of climate change whilst also addressing the area's natural and anthropic risks.
 
-EIT Climate KIC and Urban Mobility - https://eit.europa.eu/our-communities/eit-urban-mobility H2020 - Twinning H2020 - NEEMO  - https://www.mcast.edu.mt/2020/01/13/eu-h2020-neemoproject/   Jump2Excel - http://jump2excel.eu/    FOWARIM https://ec.europa.eu/eip/agriculture/en/find-connect/projects/fostering-water-agricultureresearch-and
+EIT Climate KIC and Urban Mobility - https://eit.europa.eu/our-communities/eit-urban-mobility H2020 - Twinning H2020 - NEEMO - https://www.mcast.edu.mt/2020/01/13/eu-h2020-neemo-project/ Jump2Excel - http://jump2excel.eu/ FOWARIM - https://ec.europa.eu/eip/agriculture/en/find-connect/projects/fostering-water-agriculture-research-and
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
 
-#### H2 Please indicate which types of activities are available that promote international cooperation at each level of education by entering the appropriate number in each white cell.
+#### H2 Please indicate which types of activities are available that promote international co-operation at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -765,11 +777,11 @@ Other activities (please specify):
 
 ### I. Any other comments
 
-#### I1 Please indicate whether your country has faced any constraints, in particular related to global or national  crises,  including  natural  disasters,  in  implementing  the  1974 Recommendation during the reporting period.
-
-#### I2 Please provide any other relevant information or clarifications regarding the implementation of the 1974 Recommendation or the mainstreaming of GCED and ESD in your country's education system.
+#### I1 Please indicate whether your country has faced any constraints, in particular related to global or national crises, including natural disasters, in implementing the 1974 Recommendation during the reporting period.
 
 N/A
+
+#### I2 Please provide any other relevant information or clarifications regarding the implementation of the 1974 Recommendation or the mainstreaming of GCED and ESD in your country’s education system.
 
 N/A
 
