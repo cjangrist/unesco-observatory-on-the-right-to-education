@@ -1,5 +1,11 @@
 [[START OF PAGE 1]]
 
+N° 79
+
+Journal Officiel de la République Tunisienne — 1er octobre 2010
+
+Page 2719
+
 # MINISTERE DE LA FORMATION PROFESSIONNELLE ET DE L'EMPLOI
 
 ## Arrêté du ministre de la formation professionnelle et de l'emploi du 27 septembre 2010, fixant les conditions d'équivalence des diplômes de formation professionnelle étrangers.
@@ -55,12 +61,6 @@ Les demandes d'équivalence des diplômes de formation professionnelle étranger
 ### Art.  9  -
 Les  décisions  d'équivalence  des  diplômes de formation professionnelle étrangers sont prises par le ministre de  la formation  professionnelle  et  de l'emploi,  après  avis  de  la  commission  consultative prévue aux articles 10 et 11 du présent arrêté.
 
-N° 79
-
-Journal Officiel de la République Tunisienne -1 er octobre 2010
-
-Page 2719
-
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
@@ -68,7 +68,7 @@ Page 2719
 ### Art.  10  -
 Est  créée,  une  commission  consultative d'équivalence des diplômes de formation professionnelle  étrangers,  chargée  notamment  de  ce qui suit :
 
-- examiner les demandes présentées à cet effet au ministère  la  formation  professionnelle  et  de  l'emploi, et proposer les équivalences appropriées,
+- examiner les demandes présentées à cet effet au ministère de la formation professionnelle et de l'emploi, et proposer les équivalences appropriées,
 
 - examiner les demandes de révision des décisions d'équivalence.
 
