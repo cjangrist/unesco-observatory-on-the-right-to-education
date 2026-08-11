@@ -58,7 +58,7 @@ Die Ausführungsbestimmungen sind mit 1. September 2012 in Kraft zu setzen (vgl.
 
 Für die Gesetzgebung der Länder auf dem Gebiete der Errichtung, Erhaltung, Auflassung und der Sprengel  der  öffentlichen  Pflichtschulen  und  der  öffentlichen  Schülerheime,  die  ausschließlich  oder vorwiegend für Schüler von Pflichtschulen bestimmt sind, werden folgende Grundsätze aufgestellt:
 
-(1) Öffentliche Pflichtschulen im Sinne dieses Bundesgesetzes sind die vom  gesetzlichen Schulerhalter errichteten und  erhaltenen Volks-,  Haupt-  und  Sonderschulen,  Neue  Mittelschulen, Polytechnische Schulen sowie Berufsschulen jedoch mit  Ausnahme der land- und forstwirtschaftlichen Berufsschulen;  öffentliche  Schülerheime  im  Sinne  dieses  Bundesgesetzes  sind  die  vom  gesetzlichen Heimerhalter  errichteten  und  erhaltenen  Schülerheime,  die  ausschließlich  oder  vorwiegend  für  Schüler von  Pflichtschulen  bestimmt  sind;  nicht  darunter  fallen  öffentliche  Übungsschulen  und  öffentliche Übungsschülerheime, die einer öffentlichen Schule zum  Zwecke lehrplanmäßig vorgesehener Übungen eingegliedert  sind,  sowie  öffentliche  Schülerheime,  die  ausschließlich  oder  vorwiegend  für  Schüler solcher Übungsschulen  bestimmt  sind,  ferner das Bundes-Blindenerziehungsinstitut in  Wien,  das Bundesinstitut für Gehörlosenbildung in Wien und die Bundes-Berufsschule für Uhrmacher in Karlstein in Niederösterreich.
+(1) Öffentliche Pflichtschulen im Sinne dieses Bundesgesetzes sind die vom gesetzlichen Schulerhalter errichteten und erhaltenen Volks-, Haupt- und Sonderschulen, Neue Mittelschulen, Polytechnische Schulen sowie Berufsschulen jedoch mit Ausnahme der land- und forstwirtschaftlichen Berufsschulen; öffentliche Schülerheime im Sinne dieses Bundesgesetzes sind die vom gesetzlichen Heimerhalter errichteten und erhaltenen Schülerheime, die ausschließlich oder vorwiegend für Schüler von Pflichtschulen bestimmt sind; nicht darunter fallen öffentliche Übungsschulen und öffentliche Übungsschülerheime, die einer öffentlichen Schule zum Zwecke lehrplanmäßig vorgesehener Übungen eingegliedert sind, sowie öffentliche Schülerheime, die ausschließlich oder vorwiegend für Schüler
 
 www.ris.bka.gv.at
 
@@ -69,6 +69,8 @@ Seite 1 von 8
 [[START OF PAGE 2]]
 
 Bundesrecht konsolidiert
+
+solcher Übungsschulen bestimmt sind, ferner das Bundes-Blindenerziehungsinstitut in Wien, das Bundesinstitut für Gehörlosenbildung in Wien und die Bundes-Berufsschule für Uhrmacher in Karlstein in Niederösterreich.
 
 (2) Die Errichtung, Erhaltung und Auflassung der öffentlichen Pflichtschulen sowie die Bestimmung und  Aufhebung  der  Bestimmung  einer  öffentlichen  Volks-,  Haupt-  oder  Sonderschule,  einer  Neuen Mittelschule  oder  einer  öffentlichen  Polytechnischen  Schule  als  ganztägige  Schulform  obliegt  den gesetzlichen  Schulerhaltern;  die  Errichtung,  Erhaltung  und  Auflassung  der  öffentlichen  Schülerheime kommt den gesetzlichen Heimerhaltern zu.
 
@@ -89,7 +91,7 @@ Die Ausführungsbestimmungen sind mit 1. September 2012 in Kraft zu setzen (vgl.
 Die Ausführungsbestimmungen sind mit 1. September 2012 in Kraft zu setzen (vgl. § 19 Abs. 10).
 
 #### § 4.
-Öffentliche Sonderschulen oder an öffentliche Volksoder Hauptschulen oder Neue Mittelschulen angeschlossene Sonderschulklassen haben nach Maßgabe des Bedarfes unter Bedachtnahme  auf  eine  für  die  Schulführung  erforderliche  Mindestschülerzahl  und  erforderlichenfalls unter  Angliederung  eines  Schülerheimes  (§ 6)  in  solcher  Zahl  und  an  solchen  Orten  zu  bestehen,  daß möglichst alle Kinder mit einem sonderpädagogischen Förderbedarf (§ 8 Abs. 1 des Schulpflichtgesetzes 1985, BGBl. Nr. 76, in der Fassung BGBl. Nr. 513/1993), die nicht eine allgemeine Schule besuchen, eine ihrer Behinderung entsprechende Sonderschule oder Sonderschulklasse bei einem ihnen zumutbaren Schulweg besuchen können.
+Öffentliche Sonderschulen oder an öffentliche Volks- oder Hauptschulen oder Neue Mittelschulen angeschlossene Sonderschulklassen haben nach Maßgabe des Bedarfes unter Bedachtnahme auf eine für die Schulführung erforderliche Mindestschülerzahl und erforderlichenfalls unter Angliederung eines Schülerheimes (§ 6) in solcher Zahl und an solchen Orten zu bestehen, daß möglichst alle Kinder mit einem sonderpädagogischen Förderbedarf (§ 8 Abs. 1 des Schulpflichtgesetzes 1985, BGBl. Nr. 76, in der Fassung BGBl. Nr. 513/1993), die nicht eine allgemeine Schule besuchen, eine ihrer Behinderung entsprechende Sonderschule oder Sonderschulklasse bei einem ihnen zumutbaren Schulweg besuchen können.
 
 #### Beachte für folgende Bestimmung
 
@@ -133,7 +135,7 @@ Die Ausführungsbestimmungen sind mit 1. September 2012 in Kraft zu setzen (vgl.
 
 (2)  Jede  Schule  hat  in  der  baulichen  Gestaltung  und  in  ihrer  Einrichtung  den  Grundsätzen  der Pädagogik und der Schulhygiene zu entsprechen und jene Lehrmittel aufzuweisen, die im Lehrplan für die betreffende Schulart vorgesehen sind. Als staatliche Symbole sind zumindest in jedem Klassenraum das Bundeswappen und in jeder Schule ein Bild des Bundespräsidenten anzubringen.
 
-(3)  Die  Schulen  haben  nach  Tunlichkeit  mit  einem  Turn-  und  Spielplatz  und  -  vor  allem  die Hauptschulen und Neuen Mittelschulen - mit einem Turnsaal, ferner nach Bedarf mit einer Schulküche, einer Schulwerkstätte und einem Schulgarten, die Polytechnischen Schulen sowie die Berufsschulen mit den  für  die  praktischen  Unterrichtsgegenstände  erforderlichen  Lehrwerkstätten  und  Unterrichtsräumen ausgestattet zu sein.
+(3) Die Schulen haben nach Tunlichkeit mit einem Turn- und Spielplatz und – vor allem die Hauptschulen und Neuen Mittelschulen – mit einem Turnsaal, ferner nach Bedarf mit einer Schulküche, einer Schulwerkstätte und einem Schulgarten, die Polytechnischen Schulen sowie die Berufsschulen mit den für die praktischen Unterrichtsgegenstände erforderlichen Lehrwerkstätten und Unterrichtsräumen ausgestattet zu sein.
 
 (4)  Wohnungen  für  den  Schulleiter  und  die  Lehrer  sowie  für  den  Schulwart  können  inner-  oder außerhalb des Schulgebäudes vorgesehen werden.
 
@@ -142,9 +144,9 @@ Die Ausführungsbestimmungen sind mit 1. September 2012 in Kraft zu setzen (vgl.
 
 (2) Sofern mehrere Gebietskörperschaften zu einem Schulsprengel (§ 13) gehören oder in sonstiger Weise an einer öffentlichen Pflichtschule beteiligt sind, kann die Landesgesetzgebung bestimmen, daß die beteiligten Gebietskörperschaften Umlagen oder Schulerhaltungsbeiträge an den gesetzlichen Schulerhalter zu leisten haben. Handelt es sich dabei um  Gebietskörperschaften verschiedener Bundesländer, so richtet sich die Beitragsleistung nach den Vorschriften, die im Land des gesetzlichen Schulerhalters gelten. In jenen Fällen, in denen sich die Sprengelangehörigkeit nach dem Wohnort richtet (§ 13 Abs. 7), kann die Landesgesetzgebung auch bestimmen, daß nicht an einer öffentlichen Pflichtschule beteiligte Gebietskörperschaften Umlagen oder Schulerhaltungsbeiträge an den gesetzlichen Schulerhalter zu leisten haben, wenn Schulpflichtige, deren Hauptwohnsitz außerhalb des Schulsprengels gelegen ist, lediglich zum Schulbesuch oder auf Grund einer Maßnahme der Jugendwohlfahrt innerhalb des  Schulsprengels  wohnen  oder  mit  Zustimmung  des  Schulerhalters  der  sprengelmäßig  zuständigen Schule eine sprengelfremde Schule besuchen; eine derartige Zustimmung ist nicht erforderlich, wenn
 
-- Kinder mit sonderpädagogischem Förderbedarf (§ 8 Abs. 1 des Schulpflichtgesetzes 1985 in der jeweils geltenden Fassung) statt einer entsprechenden Sonderschule eine außerhalb des eigenen Schulsprengels  liegende  allgemeine  Schule  deshalb  besuchen,  weil  an  der  allgemeinen  Schule des eigenen Schulsprengels eine entsprechende Förderung nicht in gleicher Weise erfolgen kann, und
+1. Kinder mit sonderpädagogischem Förderbedarf (§ 8 Abs. 1 des Schulpflichtgesetzes 1985 in der jeweils geltenden Fassung) statt einer entsprechenden Sonderschule eine außerhalb des eigenen Schulsprengels liegende allgemeine Schule deshalb besuchen, weil an der allgemeinen Schule des eigenen Schulsprengels eine entsprechende Förderung nicht in gleicher Weise erfolgen kann, und
 
-- ein der allgemeinen Schulpflicht unterliegender Schüler gemäß § 49 Abs. 1 des Schulunterrichtsgesetzes, BGBl. Nr. 472/1986, in seiner jeweils geltenden Fassung, vom Besuch einer  Schule  ausgeschlossen  wurde  und  eine  außerhalb  des  eigenen  Schulsprengels  liegende allgemeinbildende Pflichtschule besucht.
+2. ein der allgemeinen Schulpflicht unterliegender Schüler gemäß § 49 Abs. 1 des Schulunterrichtsgesetzes, BGBl. Nr. 472/1986, in seiner jeweils geltenden Fassung, vom Besuch einer Schule ausgeschlossen wurde und eine außerhalb des eigenen Schulsprengels liegende allgemeinbildende Pflichtschule besucht.
 
 (3)  Im  übrigen  kann  die  Landesgesetzgebung  Einrichtungen  zur  Unterstützung  der  gesetzlichen Schulerhalter  hinsichtlich  ihrer  Schulbaulasten  vorsehen  und  zur  Dotierung  dieser  Einrichtungen  auch Beiträge des Landes, der Gemeinden und von Gemeindeverbänden festsetzen.
 
@@ -205,7 +207,7 @@ Seite 4 von 8
 
 Bundesrecht konsolidiert
 
-(2)  Der  Schulsprengel  kann  für  Haupt-  und  Sonderschulen  sowie  für  Neue  Mittelschulen  unbeschadet der die Schulpflicht regelnden Vorschriften -in einen Pflichtsprengel und einen Berechtigungssprengel geteilt werden.
+(2) Der Schulsprengel kann für Haupt- und Sonderschulen sowie für Neue Mittelschulen - unbeschadet der die Schulpflicht regelnden Vorschriften - in einen Pflichtsprengel und einen Berechtigungssprengel geteilt werden.
 
 (3)  Die  Schulsprengel  der  Volksschulen  und  der  Polytechnischen  Schulen  sowie  zumindest  die Berechtigungssprengel  der  Hauptschulen  und  der  Neuen  Mittelschulen  und  der  einzelnen  Arten  der Sonderschulen,  ferner  die  Schulsprengel  der  für  die  einzelnen  Lehrberufe  in  Betracht  kommenden Berufsschulen haben lückenlos aneinanderzugrenzen.
 
@@ -230,7 +232,7 @@ Bundesrecht konsolidiert
 
 (2) Von der Schulgeldfreiheit gemäß Abs. 1 sind Beiträge für die Unterbringung, Verpflegung und Betreuung in öffentlichen Schülerheimen sowie im Freizeitbereich öffentlicher ganztägiger Schulformen (§ 8 lit. j sublit. cc des Schulorganisationsgesetzes in der geltenden Fassung) ausgenommen. Die Beiträge dürfen  höchstens  kostendeckend  sein  und  haben  auf  die  finanzielle  Leistungsfähigkeit  der  Schüler (Unterhaltspflichtigen) Bedacht zu nehmen.
 
-(3) An  Berufsschulen sowie im Betreuungsteil sonstiger Pflichtschulen können Lernund Arbeitsmittelbeiträge eingehoben werden.
+(3) An Berufsschulen sowie im Betreuungsteil sonstiger Pflichtschulen können Lern- und Arbeitsmittelbeiträge eingehoben werden.
 
 (4) Die in den Absätzen 2 und 3 angeführten Beiträge haben jene Personen zu leisten, die für den Unterhalt des Schülers aufzukommen haben.
 
@@ -268,14 +270,14 @@ Als unmittelbar anzuwendendes Bundesrecht haben die nachfolgenden Bestimmungen d
 #### § 17.
 (1) Die Privatrechte, wie das Eigentumsrecht, das Recht der Dienstbarkeit, das Bestandsrecht oder ein sonstiges Benützungsrecht, auf Grund deren Baulichkeiten und Liegenschaften für Zwecke der öffentlichen Pflichtschulen benützt werden, stehen dem gesetzlichen Schulerhalter zu. Ist der durch das Ausführungsgesetz bestimmte Schulerhalter nicht der bisher Berechtigte, dann gehen die Rechte in dem im Zeitpunkt des Wirksamwerdens des Ausführungsgesetzes bestehenden Umfang in diesem Zeitpunkt auf den durch das Ausführungsgesetz bestimmten Schulerhalter über.
 
-- Gerichtliche Eingaben und grundbücherliche Eintragungen, die zur Durchführung der Bestimmungen des Absatzes 1 erforderlich sind, sind von den Gerichtsgebühren befreit.
+(2) Gerichtliche Eingaben und grundbücherliche Eintragungen, die zur Durchführung der Bestimmungen des Absatzes 1 erforderlich sind, sind von den Gerichtsgebühren befreit.
 
 ### Abschnitt III.
 
 Für die Gesetzgebung des Landes Salzburg wird abweichend von den Bestimmungen der §§ 9 und 19 im § 18 folgender weiterer Grundsatz aufgestellt:
 
 #### § 18.
-Das  Wirksamwerden der Aufhebung der auf dem Gesetz vom 24. November 1863, LandesGesetz- und Verordnungsblatt für das Herzogtum Salzburg Nr. 18/1864, beruhenden Patronatspflicht des Bundes gegenüber Gemeinden des Landes Salzburg bleibt einem gesonderten Bundesgesetz und einem Ausführungsgesetz des Landes Salzburg vorbehalten.
+Das Wirksamwerden der Aufhebung der auf dem Gesetz vom 24. November 1863, Landes-Gesetz- und Verordnungsblatt für das Herzogtum Salzburg Nr. 18/1864, beruhenden Patronatspflicht des Bundes gegenüber Gemeinden des Landes Salzburg bleibt einem gesonderten Bundesgesetz und einem Ausführungsgesetz des Landes Salzburg vorbehalten.
 
 ### Abschnitt IV.
 
@@ -284,19 +286,19 @@ Das  Wirksamwerden der Aufhebung der auf dem Gesetz vom 24. November 1863, Lande
 #### § 19.
 (1)  Dieses  Bundesgesetz  tritt  gegenüber  den  Ländern  für  die  Ausführungsgesetzgebung  mit dem Tage der Kundmachung, im übrigen in jedem Bundesland gleichzeitig mit dem in dem betreffenden Bundesland erlassenen Ausführungsgesetz in Kraft.
 
-- Die Ausführungsgesetze der Bundesländer sind binnen eines Jahres, vom Tage der Kundmachung dieses Bundesgesetzes an gerechnet, zu erlassen.
+(2) Die Ausführungsgesetze der Bundesländer sind binnen eines Jahres, vom Tage der Kundmachung dieses Bundesgesetzes an gerechnet, zu erlassen.
 
-§ 4, § 8 Abs. 2 und § 13 Abs. 3a und 3b in der Fassung des Bundesgesetzes BGBl. Nr. 515/1993 treten gegenüber den Ländern für die Ausführungsgesetzgebung mit Ablauf des Tages der Kundmachung dieser Novelle im Bundesgesetzblatt in Kraft. Die Ausführungsgesetze sind hinsichtlich des § 4 und des § 8 Abs. 2 mit 1. September 1993 in Kraft zu setzen.
+(3) § 4, § 8 Abs. 2 und § 13 Abs. 3a und 3b in der Fassung des Bundesgesetzes BGBl. Nr. 515/1993 treten gegenüber den Ländern für die Ausführungsgesetzgebung mit Ablauf des Tages der Kundmachung dieser Novelle im Bundesgesetzblatt in Kraft. Die Ausführungsgesetze sind hinsichtlich des § 4 und des § 8 Abs. 2 mit 1. September 1993 in Kraft zu setzen.
 
-§ 1 Abs. 2, § 10, § 11 Abs. 1 sowie § 14 Abs. 2 und 3 in der Fassung des Bundesgesetzes BGBl. Nr. 515/1993 treten gegenüber den Ländern für die Ausführungsgesetzgebung mit Ablauf des Tages der Kundmachung  im  Bundesgesetzblatt  in  Kraft.  Die  Ausführungsgesetze  sind  innerhalb  eines  Jahres  zu erlassen.
+(4) § 1 Abs. 2, § 10, § 11 Abs. 1 sowie § 14 Abs. 2 und 3 in der Fassung des Bundesgesetzes BGBl. Nr. 515/1993 treten gegenüber den Ländern für die Ausführungsgesetzgebung mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft. Die Ausführungsgesetze sind innerhalb eines Jahres zu erlassen.
 
-§ 12 Abs. 4 in der Fassung des Bundesgesetzes BGBl. Nr. 332/1996 tritt gegenüber den Ländern für die Ausführungsgesetzgebung mit 1. September 1996 in Kraft.
+(5) § 12 Abs. 4 in der Fassung des Bundesgesetzes BGBl. Nr. 332/1996 tritt gegenüber den Ländern für die Ausführungsgesetzgebung mit 1. September 1996 in Kraft.
 
-- Folgende Bestimmungen in der Fassung des Bundesgesetzes BGBl. Nr. 771/1996 treten wie folgt in Kraft:
+(6) Folgende Bestimmungen in der Fassung des Bundesgesetzes BGBl. Nr. 771/1996 treten wie folgt in Kraft:
 
-§ 1  Abs. 1  und  2,  § 4a,  der  Entfall  des  § 5a,  § 7  Abs. 3,  § 8  Abs. 2  sowie  § 13  Abs. 3  und  7 gegenüber den Ländern für die Ausführungsgesetzgebung und
+1. § 1 Abs. 1 und 2, § 4a, der Entfall des § 5a, § 7 Abs. 3, § 8 Abs. 2 sowie § 13 Abs. 3 und 7 gegenüber den Ländern für die Ausführungsgesetzgebung und
 
-§ 21
+2. § 21
 
 www.ris.bka.gv.at
 
@@ -327,28 +329,28 @@ mit  Ablauf  des  Tages  der  Kundmachung  im  Bundesgesetzblatt.  Die  Ausführ
 
 (2) Insbesondere treten gemäß Absatz 1 folgende Vorschriften außer Kraft:
 
-- Die  §§ 59  bis  67  des  Gesetzes  vom  14. Mai  1869,  RGBl.  Nr. 62,  in  der  geltenden  Fassung (Reichsvolksschulgesetz);
+a) Die §§ 59 bis 67 des Gesetzes vom 14. Mai 1869, RGBl. Nr. 62, in der geltenden Fassung (Reichsvolksschulgesetz);
 
-- die im Sinne des § 42 des Übergangsgesetzes vom 1. Oktober 1920, in seiner jeweiligen Fassung, ergangenen übereinstimmenden Bundesgesetze zu den auf dem  Gebiete der Errichtung, Erhaltung und Auflassung der öffentlichen Pflichtschulen erlassenen Landesgesetzen;
+b) die im Sinne des § 42 des Übergangsgesetzes vom 1. Oktober 1920, in seiner jeweiligen Fassung, ergangenen übereinstimmenden Bundesgesetze zu den auf dem Gebiete der Errichtung, Erhaltung und Auflassung der öffentlichen Pflichtschulen erlassenen Landesgesetzen;
 
-- Erste  Ausführungsanweisung  zur  Siebzehnten  Verordnung  zur  Einführung  steuerrechtlicher Vorschriften in der Ostmark vom 11. August 1939, Ministerialblatt des Reichs- und Preußischen Ministeriums des Innern, Jahrgang 1939, S. 1725;
+c) Erste Ausführungsanweisung zur Siebzehnten Verordnung zur Einführung steuerrechtlicher Vorschriften in der Ostmark vom 11. August 1939, Ministerialblatt des Reichs- und Preußischen Ministeriums des Innern, Jahrgang 1939, S. 1725;
 
-- Verordnung über die vorläufige Regelung des Berufsschulwesens im Reichsgau Sudetenland und in den Reichsgauen der Ostmark vom 31. Mai 1940, Deutsches RGBl. I S. 832;
+d) Verordnung über die vorläufige Regelung des Berufsschulwesens im Reichsgau Sudetenland und in den Reichsgauen der Ostmark vom 31. Mai 1940, Deutsches RGBl. I S. 832;
 
-- Verordnung  zur  Durchführung  des  § 10  Abs. 1  des  Reichsschulpflichtgesetzes  vom  12. Mai 1941, Deutsches RGBl. I S. 255;
+e) Verordnung zur Durchführung des § 10 Abs. 1 des Reichsschulpflichtgesetzes vom 12. Mai 1941, Deutsches RGBl. I S. 255;
 
-- Durchführungsverordnung zur Verordnung über die vorläufige Regelung des Berufsschulwesens im Reichsgau Sudetenland und in den Reichsgauen der Ostmark vom 15. Mai 1941, Deutsches RGBl. I S. 276;
+f) Durchführungsverordnung zur Verordnung über die vorläufige Regelung des Berufsschulwesens im Reichsgau Sudetenland und in den Reichsgauen der Ostmark vom 15. Mai 1941, Deutsches RGBl. I S. 276;
 
-- Verordnung über den Fortfall der Berufsschulbeiträge vom 20. Februar 1942, Deutsches RGBl. I S. 85;
+g) Verordnung über den Fortfall der Berufsschulbeiträge vom 20. Februar 1942, Deutsches RGBl. I S. 85;
 
-- Zweite  Verordnung  zur  Durchführung  der  Verordnung  über  die  vorläufige  Regelung  des Berufsschulwesens in den Reichsgauen Kärnten, Niederdonau, Oberdonau, Salzburg, Steiermark und Tirol-Vorarlberg vom 22. Juli 1942, Deutsches RGBl. I S. 499;
+h) Zweite Verordnung zur Durchführung der Verordnung über die vorläufige Regelung des Berufsschulwesens in den Reichsgauen Kärnten, Niederdonau, Oberdonau, Salzburg, Steiermark und Tirol-Vorarlberg vom 22. Juli 1942, Deutsches RGBl. I S. 499;
 
-- Verordnung zur vorläufigen Regelung der Errichtung und Unterhaltung der Hauptschulen vom 31. März 1943, Deutsches RGBl. I S. 249;
+i) Verordnung zur vorläufigen Regelung der Errichtung und Unterhaltung der Hauptschulen vom 31. März 1943, Deutsches RGBl. I S. 249;
 
-§ 22 Abs. 3 des Behörden-Überleitungsgesetzes, StGBl. Nr. 94/1945.
+j) § 22 Abs. 3 des Behörden-Überleitungsgesetzes, StGBl. Nr. 94/1945.
 
 #### § 21.
-(1) Mit der Wahrnehmung der dem Bund gemäß Artikel 14 Abs. 8 des BundesVerfassungsgesetzes zustehenden Rechte auf dem durch dieses Bundesgesetz geregelten Gebiet ist der Bundesminister für Bildung und Frauen betraut.
+(1) Mit der Wahrnehmung der dem Bund gemäß Artikel 14 Abs. 8 des Bundes-Verfassungsgesetzes zustehenden Rechte auf dem durch dieses Bundesgesetz geregelten Gebiet ist der Bundesminister für Bildung und Frauen betraut.
 
 www.ris.bka.gv.at
 
