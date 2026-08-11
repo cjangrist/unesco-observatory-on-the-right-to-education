@@ -26,15 +26,9 @@ BGBl. I Nr. 73/2011 (NR: GP XXIV RV 1209 AB 1265 S. 113. BR: AB 8535 S. 799.)
 
 ## Präambel/Promulgationsklausel
 
-Paragraf
-
-§ 1. Geltungsbereich
-
-§ 2. Rechtsstellung
-
-§ 3. Rechtspersönlichkeit
-
 ## Inhaltsverzeichnis
+
+Paragraf
 
 Gegenstand
 
@@ -46,6 +40,12 @@ Gegenstand
 
 ## Allgemeine Bestimmungen
 
+§ 1. Geltungsbereich
+
+§ 2. Rechtsstellung
+
+§ 3. Rechtspersönlichkeit
+
 ## 2. Abschnitt
 
 ## Private Pädagogische Hochschulen bzw. private Studienangebote
@@ -54,9 +54,9 @@ Gegenstand
 
 § 5. Voraussetzungen für die Anerkennung
 
-§ 6.  Anerkennungsverfahren
+§ 6. Anerkennungsverfahren
 
-§ 7.  Rechtswirkungen der Anerkennung
+§ 7. Rechtswirkungen der Anerkennung
 
 ## 3. Abschnitt
 
@@ -150,11 +150,15 @@ Bundesrecht konsolidiert
 
 ## Allgemeine studienrechtliche Bestimmungen
 
-§ 35.  Begriffsbestimmungen
+§ 35. Begriffsbestimmungen
 
 § 36. Studienjahr
 
 § 37. Fernstudien
+
+## 2. Abschnitt
+
+## Studien
 
 § 38. Studiengänge
 
@@ -172,7 +176,7 @@ Bundesrecht konsolidiert
 
 § 42. Curriculum
 
-§ 43.  Prüfungsordnung
+§ 43. Prüfungsordnung
 
 § 44. Rechtsschutz bei Prüfungen
 
@@ -186,14 +190,11 @@ Bundesrecht konsolidiert
 
 § 49. Veröffentlichungspflicht
 
-§ 50.  Zulassung zum Studium
+§ 50. Zulassung zum Studium
 
 § 51. Zulassungsvoraussetzungen
 
 § 52. Zulassungsfristen
-
-## 2. Abschnitt
-## Studien
 
 www.ris.bka.gv.at
 
@@ -211,15 +212,15 @@ Bundesrecht konsolidiert
 
 § 55. Inskription
 
-§ 56.  Anrechnungen
+§ 56. Anrechnungen
 
 § 57. Anerkennung von Bachelorarbeiten
 
-§ 58.  Beurlaubung
+§ 58. Beurlaubung
 
 § 59. Beendigung des Studiums
 
-§ 60.  Abgangsbescheinigung
+§ 60. Abgangsbescheinigung
 
 ## 4. Abschnitt
 
@@ -237,21 +238,19 @@ Bundesrecht konsolidiert
 
 § 64. Akademischer Grad und akademische Bezeichnung bei Abschluss von Hochschullehrgängen
 
-§ 65.
+§ 65. Verleihung des akademischen Grades bzw. der akademischen Bezeichnung nach Abschluss von Studiengängen und Hochschullehrgängen
 
-Verleihung des akademischen Grades bzw. der akademischen Bezeichnung nach
+§ 65a. Verleihung des akademischen Grades „Bachelor of Education“ aufgrund hochschulischer Nachqualifizierung
 
-Abschluss von Studiengängen und Hochschullehrgängen
+§ 66. Führung von akademischen Graden
 
-§ 65a. Verleihung des akademischen Grades 'Bachelor of Education' aufgrund hochschulischer Nachqualifizierung
-
-§ 66.  Führung von akademischen Graden
-
-§ 67.
-
-- Widerruf inländischer akademischer Grade bzw. einer akademischen Bezeichnung
+§ 67. Widerruf inländischer akademischer Grade bzw. einer akademischen Bezeichnung
 
 § 68. Nostrifizierung
+
+## 6. Abschnitt
+
+## Studienbeiträge
 
 § 69. Studienbeitrag
 
@@ -279,13 +278,17 @@ Abschluss von Studiengängen und Hochschullehrgängen
 
 # Liegenschaften, Bauwerke, Räumlichkeiten samt Inventar, Drittmittel
 
-§ 75.  Raumnutzung
+§ 75. Raumnutzung
 
 § 76. Mietrechte an Objekten der BIG und anderer Eigentümer
 
 § 77. Drittmittel
 
-§ 78.  Verweisungen
+# 5. Hauptstück
+
+# Schlussbestimmungen
+
+§ 78. Verweisungen
 
 § 79. Vollziehung
 
@@ -301,14 +304,6 @@ Abschluss von Studiengängen und Hochschullehrgängen
 
 § 82c. (Anm.: Tritt mit 1.10.2019 in Kraft.)
 
-## 6. Abschnitt
-
-## Studienbeiträge
-
-# 5. Hauptstück
-
-# Schlussbestimmungen
-
 www.ris.bka.gv.at
 
 Seite 3 von 41
@@ -321,13 +316,18 @@ Bundesrecht konsolidiert
 
 § 82d. Übergangsrecht für Studierende sechssemestriger Bachelorstudien
 
-§ 83.  Gründung der Pädagogischen Hochschulen
+§ 83. Gründung der Pädagogischen Hochschulen
 
 § 84. Übergangsrecht für das Personal an Bundeseinrichtungen
 
-§ 85. Übergangsrecht für das Personal an privaten Einrichtungen Anlage
+§ 85. Übergangsrecht für das Personal an privaten Einrichtungen
+
+Anlage
+
+## Text
 
 # 1. Hauptstück
+
 # Organisationsrecht
 
 ## 1. Abschnitt
@@ -336,55 +336,40 @@ Bundesrecht konsolidiert
 
 ### Geltungsbereich
 
-§ 1. (1)  Dieses  Bundesgesetz  regelt  die  Organisation  der  nachstehend  genannten  öffentlichen Pädagogischen Hochschulen sowie das Studium an diesen:
+§ 1. (1) Dieses Bundesgesetz regelt die Organisation der nachstehend genannten öffentlichen Pädagogischen Hochschulen sowie das Studium an diesen:
 
-- Pädagogische Hochschule Kärnten,
+1. Pädagogische Hochschule Kärnten,
+2. Pädagogische Hochschule Niederösterreich,
+3. Pädagogische Hochschule Oberösterreich,
+4. Pädagogische Hochschule Salzburg,
+5. Pädagogische Hochschule Steiermark,
+6. Pädagogische Hochschule Tirol,
+7. Pädagogische Hochschule Vorarlberg,
+8. Pädagogische Hochschule Wien,
+9. Hochschule für Agrar- und Umweltpädagogik Wien.
 
-- Pädagogische Hochschule Niederösterreich,
+(2) Dieses Bundesgesetz regelt weiters die staatliche Anerkennung von
 
-- Pädagogische Hochschule Oberösterreich,
+1. Bildungseinrichtungen als private Pädagogische Hochschulen und
+2. Studienangeboten als private Studiengänge, private Hochschullehrgänge oder private Lehrgänge.
 
-- Pädagogische Hochschule Salzburg,
-
-- Pädagogische Hochschule Steiermark,
-
-- Pädagogische Hochschule Tirol,
-
-- Pädagogische Hochschule Vorarlberg,
-
-- Pädagogische Hochschule Wien,
-
-- Hochschule für Agrar- und Umweltpädagogik Wien.
-
-- Dieses Bundesgesetz regelt weiters die staatliche Anerkennung von
-
-- Bildungseinrichtungen als private Pädagogische Hochschulen und
-
-- Studienangeboten als private Studiengänge, private Hochschullehrgänge oder private Lehrgänge.
-
-Die  Bestimmungen  des  Bundesgesetzes  über  die  Akkreditierung  von  Privatuniversitäten  (UniversitätsAkkreditierungsgesetz - UniAkkG, BGBl. I Nr. 168/1999) bleiben unberührt.
+Die Bestimmungen des Bundesgesetzes über die Akkreditierung von Privatuniversitäten (Universitäts-Akkreditierungsgesetz - UniAkkG, BGBl. I Nr. 168/1999) bleiben unberührt.
 
 ### Rechtsstellung
 
-§ 2. (1)  Die  in  § 1  Abs. 1  genannten  öffentlichen  Pädagogischen  Hochschulen  sind  Einrichtungen des Bundes. Ihnen kommt Rechtspersönlichkeit nach Maßgabe der Bestimmungen des § 3 zu.
+§ 2. (1) Die in § 1 Abs. 1 genannten öffentlichen Pädagogischen Hochschulen sind Einrichtungen des Bundes. Ihnen kommt Rechtspersönlichkeit nach Maßgabe der Bestimmungen des § 3 zu.
 
-- Die öffentlichen Pädagogischen Hochschulen sind anerkannte postsekundäre Bildungseinrichtungen im Sinne des § 51 Abs. 2 Z 1 des Universitätsgesetzes 2002, BGBl. I Nr. 120.
+(2) Die öffentlichen Pädagogischen Hochschulen sind anerkannte postsekundäre Bildungseinrichtungen im Sinne des § 51 Abs. 2 Z 1 des Universitätsgesetzes 2002, BGBl. I Nr. 120.
 
 ### Rechtspersönlichkeit
 
-§ 3. (1) Der öffentlichen Pädagogischen Hochschule kommt insofern Rechtspersönlichkeit zu, als sie berechtigt  ist,  im  eigenen  Namen  und  für  eigene  Rechnung  rechtsgeschäftlich  an  der  Erfüllung  der Aufgaben  der  Pädagogischen  Hochschule  insbesondere  im  Bereich  der  über  den  öffentlich-rechtlichen Bildungsauftrag hinausgehenden Lehrund Forschungstätigkeit sowie der Erwachsenenbildung mitzuwirken, und zwar durch:
+§ 3. (1) Der öffentlichen Pädagogischen Hochschule kommt insofern Rechtspersönlichkeit zu, als sie berechtigt ist, im eigenen Namen und für eigene Rechnung rechtsgeschäftlich an der Erfüllung der Aufgaben der Pädagogischen Hochschule insbesondere im Bereich der über den öffentlich-rechtlichen Bildungsauftrag hinausgehenden Lehr- und Forschungstätigkeit sowie der Erwachsenenbildung mitzuwirken, und zwar durch:
 
-- den Erwerb von Vermögen und Rechten durch unentgeltliche Rechtsgeschäfte,
-
-- die Annahme von Förderungen,
-
-- den  Abschluss  von  Verträgen  über  die  Durchführung  wissenschaftlich-berufsfeldbezogener Arbeiten sowie Untersuchungen und Befundungen zum Zwecke der wissenschaftlichen Forschung,
-
-- die Organisation und Durchführung von (Hochschul-)Lehrgängen in pädagogischen Berufsfeldern sowie zur wissenschaftlich-berufsfeldbezogenen und/oder berufsbegleitenden Fortund Weiterbildung in pädagogischen Berufen,
-
-- die Mitgliedschaft zu juristischen Personen und zwischenstaatlichen Organisationen in Bildungsangelegenheiten,
-
-## Text
+1. den Erwerb von Vermögen und Rechten durch unentgeltliche Rechtsgeschäfte,
+2. die Annahme von Förderungen,
+3. den Abschluss von Verträgen über die Durchführung wissenschaftlich-berufsfeldbezogener Arbeiten sowie Untersuchungen und Befundungen zum Zwecke der wissenschaftlichen Forschung,
+4. die Organisation und Durchführung von (Hochschul-)Lehrgängen in pädagogischen Berufsfeldern sowie zur wissenschaftlich-berufsfeldbezogenen und/oder berufsbegleitenden Fort- und Weiterbildung in pädagogischen Berufen,
+5. die Mitgliedschaft zu juristischen Personen und zwischenstaatlichen Organisationen in Bildungsangelegenheiten,
 
 www.ris.bka.gv.at
 
@@ -396,11 +381,11 @@ Seite 4 von 41
 
 Bundesrecht konsolidiert
 
-- den Abschluss von Vereinbarungen mit anderen Rechtsträgern über die Zusammenarbeit auf dem Gebiet der wissenschaftlich-berufsfeldbezogenen Forschung und der Lehre,
+6. den Abschluss von Vereinbarungen mit anderen Rechtsträgern über die Zusammenarbeit auf dem Gebiet der wissenschaftlich-berufsfeldbezogenen Forschung und der Lehre,
 
-- den Abschluss von Rechtsgeschäften zur Erfüllung der unter Z 1 bis 6 genannten Aufgaben.
+7. den Abschluss von Rechtsgeschäften zur Erfüllung der unter Z 1 bis 6 genannten Aufgaben.
 
-- Die §§ 4 bis 7 finden auf (Hochschul-)Lehrgänge gemäß Abs. 1 Z 4 Anwendung.
+(2) Die §§ 4 bis 7 finden auf (Hochschul-)Lehrgänge gemäß Abs. 1 Z 4 Anwendung.
 
 (3)  Im  Rahmen  der  eigenen  Rechtspersönlichkeit  wird  die  Pädagogische  Hochschule  durch  den Rektor  bzw.  die  Rektorin,  oder  im  jeweiligen  Zuständigkeitsbereich  durch  den  Vizerektor  bzw.  die Vizerektorin, nach  außen vertreten.  Der Abschluss  von Rechtsgeschäften bedarf der vorherigen Genehmigung durch den Hochschulrat,  wenn die zu vereinbarende  Tätigkeit  voraussichtlich  länger  als drei  Jahre  dauern  wird  oder  wenn  das  zu  vereinbarende  Gesamtentgelt  eines  derartigen  Vertrages 360 000 Euro übersteigt.
 
@@ -444,49 +429,39 @@ Bundesrecht konsolidiert
 
 § 4. (1) Auf Antrag einer vom Bund verschiedenen Rechtsperson ist
 
-- eine Bildungseinrichtung als private Pädagogische Hochschule bzw.
+1. eine Bildungseinrichtung als private Pädagogische Hochschule bzw.
+2. ein Studienangebot als privater Studiengang, privater Hochschullehrgang oder privater Lehrgang
 
-2. ein Studienangebot als privater Studiengang, privater Hochschullehrgang oder privater Lehrgang anzuerkennen. Z 2 ist auch auf Studienangebote im Rahmen der eigenen Rechtspersönlichkeit (§ 3 Abs. 1 Z 4)  anzuwenden.  Z 2  ist  jedoch  nicht  auf  Studienangebote  (Lehrgänge)  in  der  Dauer  von  weniger  als einem Semester anzuwenden.
+anzuerkennen. Z 2 ist auch auf Studienangebote im Rahmen der eigenen Rechtspersönlichkeit (§ 3 Abs. 1 Z 4) anzuwenden. Z 2 ist jedoch nicht auf Studienangebote (Lehrgänge) in der Dauer von weniger als einem Semester anzuwenden.
 
-(2) Die Anerkennung  einer Bildungseinrichtung (Abs. 1 Z 1) ist in der beantragten  Dauer auszusprechen.  Die  Anerkennung  eines  Studienangebotes  (Abs. 1  Z 2)  ist  in  der  beantragten  Dauer, längstens  jedoch  auf  die  zweifache  Dauer  des  Studienganges,  Hochschullehrganges  oder  Lehrganges auszusprechen;  eine  darüber  hinausgehende  Anerkennung  hat  auf  neuerlichen  Antrag  für  längstens denselben Zeitraum zu erfolgen.
+(2) Die Anerkennung einer Bildungseinrichtung (Abs. 1 Z 1) ist in der beantragten Dauer auszusprechen. Die Anerkennung eines Studienangebotes (Abs. 1 Z 2) ist in der beantragten Dauer, längstens jedoch auf die zweifache Dauer des Studienganges, Hochschullehrganges oder Lehrganges auszusprechen; eine darüber hinausgehende Anerkennung hat auf neuerlichen Antrag für längstens denselben Zeitraum zu erfolgen.
 
-- Sofern nach erfolgter Anerkennung die für diese maßgeblichen Umstände nicht mehr vorliegen, ist das Erlöschen der Anerkennung mit Bescheid auszusprechen.
+(3) Sofern nach erfolgter Anerkennung die für diese maßgeblichen Umstände nicht mehr vorliegen, ist das Erlöschen der Anerkennung mit Bescheid auszusprechen.
 
 ### Voraussetzungen für die Anerkennung
 
-§ 5. (1)  Die  Anerkennung  als  private  Pädagogische  Hochschule  bzw.  als  privates  Studienangebot (Studiengang,  Hochschullehrgang  oder  Lehrgang)  darf  nur  bei  Vorliegen  folgender  Voraussetzungen erfolgen:
+§ 5. (1) Die Anerkennung als private Pädagogische Hochschule bzw. als privates Studienangebot (Studiengang, Hochschullehrgang oder Lehrgang) darf nur bei Vorliegen folgender Voraussetzungen erfolgen:
 
-- die Ausbildung hat in ihren Grundsätzen und in ihrer Qualität jener an öffentlichen Pädagogischen Hochschulen zu entsprechen,
+1. die Ausbildung hat in ihren Grundsätzen und in ihrer Qualität jener an öffentlichen Pädagogischen Hochschulen zu entsprechen,
+2. an einer privaten Pädagogischen Hochschule sind Studiengänge für das Lehramt für Volksschulen oder für das Lehramt für Neue Mittelschulen und zumindest für ein weiteres Lehramt auf Dauer einzurichten und zu führen,
+3. das Lehrpersonal hat wissenschaftlich-berufsfeldbezogen und pädagogisch-didaktisch qualifiziert zu sein,
+4. zur Erreichung der Ziele und zur Sicherung der Grundsätze sind die erforderlichen wissenschaftlich-berufsfeldbezogenen Forschungs- und Entwicklungsarbeiten durch die Lehrenden durchzuführen,
+5. die Autonomie hat wenigstens der an öffentlichen Pädagogischen Hochschulen zu entsprechen,
+6. die Mitbestimmung der Studierenden muss gewährleistet sein,
+7. die Anrechenbarkeit von bereits absolvierten Studien (Teilen von Studien) muss gewährleistet sein,
+8. die erforderliche Personal-, Raum- und Sachausstattung muss für die Dauer der Anerkennung vorhanden sein.
 
-- an einer privaten Pädagogischen Hochschule sind Studiengänge für das Lehramt für Volksschulen  oder  für  das  Lehramt  für  Neue  Mittelschulen  und  zumindest  für  ein  weiteres Lehramt auf Dauer einzurichten und zu führen,
-
-- das Lehrpersonal hat wissenschaftlich-berufsfeldbezogen und pädagogisch-didaktisch qualifiziert zu sein,
-
-- zur Erreichung der Ziele und zur Sicherung der Grundsätze sind die erforderlichen wissenschaftlich-berufsfeldbezogenen Forschungsund Entwicklungsarbeiten durch die Lehrenden durchzuführen,
-
-- die Autonomie hat wenigstens der an öffentlichen Pädagogischen Hochschulen zu entsprechen,
-
-- die Mitbestimmung der Studierenden muss gewährleistet sein,
-
-- die  Anrechenbarkeit  von  bereits  absolvierten  Studien  (Teilen  von  Studien)  muss  gewährleistet sein,
-
-- die  erforderliche  Personal-,  Raum-  und  Sachausstattung  muss  für  die  Dauer  der  Anerkennung vorhanden sein.
-
-- Bei der Errichtung einer Pädagogischen Hochschule im Burgenland ist abweichend von Abs. 1 Z 2 zumindest eines der genannten Lehrämter auf Dauer einzurichten und zu führen. Darüber hinaus ist zur Heranbildung von Lehrern und Lehrerinnen für Volksschulen und für Neue Mittelschulen gemäß § 3 und  § 8  des  Minderheiten-Schulgesetzes  für  das  Burgenland,  BGBl.  Nr. 641/1994,  je  ein  ergänzendes Studium in kroatischer und ungarischer Sprache und ein entsprechendes zusätzliches Angebot im Bereich der Unterrichtspraxis anzubieten und zu führen.
+(2) Bei der Errichtung einer Pädagogischen Hochschule im Burgenland ist abweichend von Abs. 1 Z 2 zumindest eines der genannten Lehrämter auf Dauer einzurichten und zu führen. Darüber hinaus ist zur Heranbildung von Lehrern und Lehrerinnen für Volksschulen und für Neue Mittelschulen gemäß § 3 und § 8 des Minderheiten-Schulgesetzes für das Burgenland, BGBl. Nr. 641/1994, je ein ergänzendes Studium in kroatischer und ungarischer Sprache und ein entsprechendes zusätzliches Angebot im Bereich der Unterrichtspraxis anzubieten und zu führen.
 
 ### Anerkennungsverfahren
 
-§ 6. (1)  Über  einen  Antrag  auf  Anerkennung  bzw.  über  das  Erlöschen  der  Anerkennung  hat  das zuständige Regierungsmitglied durch Bescheid zu erkennen. Der Anerkennungsbescheid hat jedenfalls zu beinhalten:
+§ 6. (1) Über einen Antrag auf Anerkennung bzw. über das Erlöschen der Anerkennung hat das zuständige Regierungsmitglied durch Bescheid zu erkennen. Der Anerkennungsbescheid hat jedenfalls zu beinhalten:
 
-- Bezeichnung der Rechtsperson, bei natürlichen Personen deren Personalien,
-
-- Bezeichnung und Standort der Bildungseinrichtung,
-
-- Bezeichnung der Studiengänge, Hochschullehrgänge oder Lehrgänge,
-
-- Bezeichnung des akademischen Grades bzw. der akademischen Bezeichnung, der bzw. die nach Abschluss des Studiums verliehen werden soll,
-
-- Dauer der Anerkennung.
+1. Bezeichnung der Rechtsperson, bei natürlichen Personen deren Personalien,
+2. Bezeichnung und Standort der Bildungseinrichtung,
+3. Bezeichnung der Studiengänge, Hochschullehrgänge oder Lehrgänge,
+4. Bezeichnung des akademischen Grades bzw. der akademischen Bezeichnung, der bzw. die nach Abschluss des Studiums verliehen werden soll,
+5. Dauer der Anerkennung.
 
 www.ris.bka.gv.at
 
@@ -498,25 +473,25 @@ Seite 6 von 41
 
 Bundesrecht konsolidiert
 
-- Das  zuständige  Regierungsmitglied  hat  im  Rahmen  des  Verfahrens  zur  Anerkennung  einer privaten Pädagogischen Hochschule jedenfalls den örtlich zuständigen Landesschulrat und die Landesregierung anzuhören.
+(2) Das zuständige Regierungsmitglied hat im Rahmen des Verfahrens zur Anerkennung einer privaten Pädagogischen Hochschule jedenfalls den örtlich zuständigen Landesschulrat und die Landesregierung anzuhören.
 
-- Änderungen von für die Anerkennung maßgeblichen Umständen oder Sachverhalten sind dem zuständigen Regierungsmitglied ohne Aufschub mitzuteilen.
+(3) Änderungen von für die Anerkennung maßgeblichen Umständen oder Sachverhalten sind dem zuständigen Regierungsmitglied ohne Aufschub mitzuteilen.
 
-- Im Übrigen sind auf das Anerkennungsverfahren die Bestimmungen  des Allgemeinen Verwaltungsverfahrensgesetzes 1991, BGBl. Nr. 51, anzuwenden.
+(4) Im Übrigen sind auf das Anerkennungsverfahren die Bestimmungen des Allgemeinen Verwaltungsverfahrensgesetzes 1991, BGBl. Nr. 51, anzuwenden.
 
 ### Rechtswirkungen der Anerkennung
 
-§ 7. (1) Anerkannte Bildungseinrichtungen sind zur Führung der Bezeichnung 'Private Pädagogische  Hochschule'  berechtigt.  Anerkannte  Studienangebote  sind  als  'Private  Studiengänge', 'Private Hochschullehrgänge' bzw. 'Private Lehrgänge' zu bezeichnen.
+§ 7. (1) Anerkannte Bildungseinrichtungen sind zur Führung der Bezeichnung „Private Pädagogische Hochschule“ berechtigt. Anerkannte Studienangebote sind als „Private Studiengänge“, „Private Hochschullehrgänge“ bzw. „Private Lehrgänge“ zu bezeichnen.
 
-- Der Rechtsträger einer privaten Pädagogischen Hochschule, eines privaten Studienganges oder eines privaten Hochschullehrganges ist berechtigt, akademische Grade und akademische Bezeichnungen gleichlautend  mit  den  in  diesem  Bundesgesetz  geregelten  akademischen  Graden  und  akademischen Bezeichnungen zu verleihen.
+(2) Der Rechtsträger einer privaten Pädagogischen Hochschule, eines privaten Studienganges oder eines privaten Hochschullehrganges ist berechtigt, akademische Grade und akademische Bezeichnungen gleichlautend mit den in diesem Bundesgesetz geregelten akademischen Graden und akademischen Bezeichnungen zu verleihen.
 
-- Private Pädagogische Hochschulen sowie private Studienangebote (Studiengänge, Hochschullehrgänge oder Lehrgänge) unterliegen der Aufsicht des zuständigen Regierungsmitglieds.
+(3) Private Pädagogische Hochschulen sowie private Studienangebote (Studiengänge, Hochschullehrgänge oder Lehrgänge) unterliegen der Aufsicht des zuständigen Regierungsmitglieds.
 
-- Konfessionellen privaten Pädagogischen Hochschulen sind die zur Erfüllung der Aufgaben nach diesem Bundesgesetz erforderlichen Subventionen zum Personalaufwand des Lehrpersonals (einschließlich der Aus-, Fort- und Weiterbildung der Religionslehrer) wie sie dem Aufwand öffentlicher Pädagogischer Hochschulen vergleichbarer Art und Größe entsprechen, zu gewähren.
+(4) Konfessionellen privaten Pädagogischen Hochschulen sind die zur Erfüllung der Aufgaben nach diesem Bundesgesetz erforderlichen Subventionen zum Personalaufwand des Lehrpersonals (einschließlich der Aus-, Fort- und Weiterbildung der Religionslehrer) wie sie dem Aufwand öffentlicher Pädagogischer Hochschulen vergleichbarer Art und Größe entsprechen, zu gewähren.
 
-- Die  Subventionierung  kann  dabei  durch  die  Zuweisung  von  Planstellen  sowie  durch  die Bereitstellung  von  Mitteln  für  Leistungen  Dritter,  wie  sie  öffentlichen  Pädagogischen  Hochschulen  für personalkapazitätswirksame Leistungen zur Verfügung stehen, erfolgen.
+(5) Die Subventionierung kann dabei durch die Zuweisung von Planstellen sowie durch die Bereitstellung von Mitteln für Leistungen Dritter, wie sie öffentlichen Pädagogischen Hochschulen für personalkapazitätswirksame Leistungen zur Verfügung stehen, erfolgen.
 
-- Im Bereich der Fort- und Weiterbildung sind die zur Erfüllung dieser Aufgaben erforderlichen Subventionen zum Personalaufwand des Lehrpersonals unter sinngemäßer Anwendung der §§ 30 und 31 nach Maßgabe einer jährlich im Einvernehmen mit dem zuständigen Regierungsmitglied festzulegenden Planung zu gewähren. Dies gilt nicht für die religionspädagogische Fort- und Weiterbildung.
+(6) Im Bereich der Fort- und Weiterbildung sind die zur Erfüllung dieser Aufgaben erforderlichen Subventionen zum Personalaufwand des Lehrpersonals unter sinngemäßer Anwendung der §§ 30 und 31 nach Maßgabe einer jährlich im Einvernehmen mit dem zuständigen Regierungsmitglied festzulegenden Planung zu gewähren. Dies gilt nicht für die religionspädagogische Fort- und Weiterbildung.
 
 ## 3. Abschnitt
 
@@ -524,15 +499,15 @@ Bundesrecht konsolidiert
 
 ### Aufgaben der Pädagogischen Hochschule
 
-§ 8. (1) Die Pädagogische Hochschule hat mit dem Fokus auf die pädagogische Profession und ihre Berufsfelder im  Rahmen von Lehre und Forschung nach internationalen Standards sowohl Personen in Lehrberufen sowie nach Maßgabe  des  Bedarfs in pädagogischen Berufsfeldern aus-, fortund weiterzubilden  als  auch  Bildungsinstitutionen,  vornehmlich  Schulen,  in  ihrer  Qualitätsentwicklung  zu beraten und zu begleiten. Den Anforderungen des Lehrberufes ist durch Angebote der bildungwissenschaftlichen,  fachwissenschaftlichen,  fachdidaktischen  und  schulpraktischen  Ausbildung (Praxisschulen)  Rechnung zu tragen. In allen pädagogischen Berufsfeldern  ist  Forschung zu betreiben, um wissenschaftliche Erkenntnisse zur Weiterentwicklung der Lehre zu erlangen.
+§ 8. (1) Die Pädagogische Hochschule hat mit dem Fokus auf die pädagogische Profession und ihre Berufsfelder im Rahmen von Lehre und Forschung nach internationalen Standards sowohl Personen in Lehrberufen sowie nach Maßgabe des Bedarfs in pädagogischen Berufsfeldern aus-, fort- und weiterzubilden als auch Bildungsinstitutionen, vornehmlich Schulen, in ihrer Qualitätsentwicklung zu beraten und zu begleiten. Den Anforderungen des Lehrberufes ist durch Angebote der bildungwissenschaftlichen, fachwissenschaftlichen, fachdidaktischen und schulpraktischen Ausbildung (Praxisschulen) Rechnung zu tragen. In allen pädagogischen Berufsfeldern ist Forschung zu betreiben, um wissenschaftliche Erkenntnisse zur Weiterentwicklung der Lehre zu erlangen.
 
-(2) An  der Pädagogischen  Hochschule  sind jedenfalls Studiengänge für die Lehrämter an Volksschulen und an Hauptschulen zu führen. Darüber hinaus sind Studiengänge für die Lehrämter an Sonderschulen und an Polytechnischen Schulen anzubieten und bei Bedarf zu führen. An  der Pädagogischen Hochschule Kärnten ist zur Heranbildung von Lehrern und Lehrerinnen für Volksschulen und für Neue Mittelschulen gemäß § 12 des Minderheiten-Schulgesetzes für Kärnten, BGBl. Nr. 101/1959,  ein  ergänzendes  Studium  in  slowenischer  Sprache  und  ein  entsprechendes  zusätzliches Angebot im Bereich der Unterrichtspraxis anzubieten und zu führen.
+(2) An der Pädagogischen Hochschule sind jedenfalls Studiengänge für die Lehrämter an Volksschulen und an Hauptschulen zu führen. Darüber hinaus sind Studiengänge für die Lehrämter an Sonderschulen und an Polytechnischen Schulen anzubieten und bei Bedarf zu führen. An der Pädagogischen Hochschule Kärnten ist zur Heranbildung von Lehrern und Lehrerinnen für Volksschulen und für Neue Mittelschulen gemäß § 12 des Minderheiten-Schulgesetzes für Kärnten, BGBl. Nr. 101/1959, ein ergänzendes Studium in slowenischer Sprache und ein entsprechendes zusätzliches Angebot im Bereich der Unterrichtspraxis anzubieten und zu führen.
 
-- Für  Absolventinnen  und  Absolventen  eines  Lehramtsstudiums  können  von  den  Pädagogischen Hochschulen Induktionslehrveranstaltungen angeboten werden.
+(3) Für Absolventinnen und Absolventen eines Lehramtsstudiums können von den Pädagogischen Hochschulen Induktionslehrveranstaltungen angeboten werden.
 
-(3a) An der Pädagogischen Hochschule sind weiters Hochschullehrgänge für Freizeitpädagogik (für Erzieherinnen und Erzieher  für die Freizeit  an  ganztägigen  Schulformen  -  Freizeitpädagoginnen  und  pädagogen) im Umfang von 60 ECTS-Credits bei Bedarf anzubieten und zu führen.
+(3a) An der Pädagogischen Hochschule sind weiters Hochschullehrgänge für Freizeitpädagogik (für Erzieherinnen und Erzieher für die Freizeit an ganztägigen Schulformen – Freizeitpädagoginnen und -pädagogen) im Umfang von 60 ECTS-Credits bei Bedarf anzubieten und zu führen.
 
-(3b) An der Pädagogischen Hochschule können weiters nach Maßgabe des Bedarfes facheinschlägige  Studien  ergänzende  Studien  zur  Erlangung  eines  Lehramtes  gemäß  § 35  Z  1b  im
+(3b) An der Pädagogischen Hochschule können weiters nach Maßgabe des Bedarfes facheinschlägige Studien ergänzende Studien zur Erlangung eines Lehramtes gemäß § 35 Z 1b im
 
 www.ris.bka.gv.at
 
@@ -546,17 +521,16 @@ Bundesrecht konsolidiert
 
 Umfang von mindestens 60 ECTS-Credits im  Auftrag des zuständigen Regierungsmitglieds angeboten und geführt werden.
 
-- In allen pädagogischen Berufsfeldern sind
+(4) In allen pädagogischen Berufsfeldern sind
 
-- jedenfalls Fortbildungsangebote für Lehrer und Lehrerinnen nach den inhaltlichen Vorgaben des zuständigen  Regierungsmitglieds  oder  in  dessen  bzw.  deren  Ermächtigung  zur  Wahrung  der regionalen Erfordernisse der Landesschulräte sowie darüber hinaus
-
-- weitere Fort- und Weiterbildungsangebote
+1. jedenfalls Fortbildungsangebote für Lehrer und Lehrerinnen nach den inhaltlichen Vorgaben des zuständigen Regierungsmitglieds oder in dessen bzw. deren Ermächtigung zur Wahrung der regionalen Erfordernisse der Landesschulräte sowie darüber hinaus
+2. weitere Fort- und Weiterbildungsangebote
 
 zu erstellen.
 
 (5) An der Pädagogischen Hochschule sind insbesondere Fort- und Weiterbildungsangebote auch in allgemein pädagogischen Angelegenheiten der Betreuung von Kindern und Jugendlichen anzubieten und durchzuführen.
 
-- Die  Pädagogische  Hochschule  hat  weiters  durch  die  Schul-  bzw.  Berufspraxis  sowie  durch wissenschaftlich-berufsfeldbezogene Forschung und Lehre die Befähigung zur verantwortungsbewussten Ausübung von Berufen im Bereich pädagogischer Berufsfelder, einschließlich jener der Berufspädagogik, zu vermitteln.
+(6) Die Pädagogische Hochschule hat weiters durch die Schul- bzw. Berufspraxis sowie durch wissenschaftlich-berufsfeldbezogene Forschung und Lehre die Befähigung zur verantwortungsbewussten Ausübung von Berufen im Bereich pädagogischer Berufsfelder, einschließlich jener der Berufspädagogik, zu vermitteln.
 
 (6a)  Die  Pädagogische  Hochschule  hat  im  Rahmen  ihrer  wissenschaftlich-berufsfeldbezogenen Lehre und Forschung  an  der Schulentwicklung  sowie  durch die Begleitung  und  Beratung  von Schulentwicklungsprozessen zur qualitativen Weiterentwicklung der Schulen beizutragen.
 
@@ -568,27 +542,23 @@ zu erstellen.
 
 ### Leitende Grundsätze
 
-§ 9. (1)  Die  Pädagogischen  Hochschulen  und  sämtliche  im  Rahmen  dieses  Bundesgesetzes angebotenen  Studiengänge  und Studienangebote haben durch die Vermittlung  von  fundiertem, auf den neuesten wissenschaftlichen Erkenntnissen basierendem Fachwissen und umfassenden Lehrkompetenzen sicher zu stellen, dass die österreichische Lehrerinnen- und Lehrerbildung die Unterrichtsqualität an den österreichischen Schulen gewährleistet.
+§ 9. (1) Die Pädagogischen Hochschulen und sämtliche im Rahmen dieses Bundesgesetzes angebotenen Studiengänge und Studienangebote haben durch die Vermittlung von fundiertem, auf den neuesten wissenschaftlichen Erkenntnissen basierendem Fachwissen und umfassenden Lehrkompetenzen sicher zu stellen, dass die österreichische Lehrerinnen- und Lehrerbildung die Unterrichtsqualität an den österreichischen Schulen gewährleistet.
 
-(2) Dieser Grundsatz ist verbunden mit dem Ziel, die Lehrerinnen und Lehrer zu professionalisieren, damit sie den gesellschaftlichen Herausforderungen gewachsen sind und ihre Unterrichtsund erzieherischen Pflichten und Aufgaben bestens erfüllen können.
+(2) Dieser Grundsatz ist verbunden mit dem Ziel, die Lehrerinnen und Lehrer zu professionalisieren, damit sie den gesellschaftlichen Herausforderungen gewachsen sind und ihre Unterrichts- und erzieherischen Pflichten und Aufgaben bestens erfüllen können.
 
-- Die  Studienangebote  sind  auf  Hochschulniveau  durchzuführen  und  haben  einer  auf  aktuellen wissenschaftlichen Standards basierenden Aus-, Fortund Weiterbildung zu dienen. Die Praxisbezogenheit in der Ausbildung sowie in der Fort- und Weiterbildung ist zu gewährleisten.
+(3) Die Studienangebote sind auf Hochschulniveau durchzuführen und haben einer auf aktuellen wissenschaftlichen Standards basierenden Aus-, Fort- und Weiterbildung zu dienen. Die Praxisbezogenheit in der Ausbildung sowie in der Fort- und Weiterbildung ist zu gewährleisten.
 
-- Die  Studienangebote  haben  sich  an  sich  verändernden  Professionalisierungserfordernissen  und am Transfer neuer wissenschaftlich-berufsfeldbezogener Erkenntnisse in die pädagogische Arbeitswelt zu orientieren.
+(4) Die Studienangebote haben sich an sich verändernden Professionalisierungserfordernissen und am Transfer neuer wissenschaftlich-berufsfeldbezogener Erkenntnisse in die pädagogische Arbeitswelt zu orientieren.
 
-(5)  Durch  die  Unterstützung  der  internationalen  Zusammenarbeit  im  Bereich  der  Forschung  und Lehre sowie durch den Ausbau der nationalen und internationalen Mobilität im Bereich der pädagogischen  Berufsbildung  ist  der  Stellenwert  der  europäischen  Dimension  in  der  österreichischen Gesellschaft zu festigen.
+(5) Durch die Unterstützung der internationalen Zusammenarbeit im Bereich der Forschung und Lehre sowie durch den Ausbau der nationalen und internationalen Mobilität im Bereich der pädagogischen Berufsbildung ist der Stellenwert der europäischen Dimension in der österreichischen Gesellschaft zu festigen.
 
-- Im Besonderen sind über Abs. 1 bis 5 hinaus folgende leitende Grundsätze zu beachten:
+(6) Im Besonderen sind über Abs. 1 bis 5 hinaus folgende leitende Grundsätze zu beachten:
 
-- die Vielfalt wissenschaftlicher Theorien, Methoden und Lehrmeinungen,
-
-- die Verbindung von Forschung und Lehre,
-
-- die Lernfreiheit,
-
-- die Berücksichtigung der Erfordernisse der Berufszugänge,
-
-- die Berücksichtigung der besonderen Bedürfnisse der Berufsbildung,
+1. die Vielfalt wissenschaftlicher Theorien, Methoden und Lehrmeinungen,
+2. die Verbindung von Forschung und Lehre,
+3. die Lernfreiheit,
+4. die Berücksichtigung der Erfordernisse der Berufszugänge,
+5. die Berücksichtigung der besonderen Bedürfnisse der Berufsbildung,
 
 www.ris.bka.gv.at
 
@@ -600,33 +570,23 @@ Seite 8 von 41
 
 Bundesrecht konsolidiert
 
-- die Mitsprache der Studierenden, insbesondere bei Studienangelegenheiten und bei der Qualitätssicherung der Lehre,
+6. die Mitsprache der Studierenden, insbesondere bei Studienangelegenheiten und bei der Qualitätssicherung der Lehre,
+7. die Wahrnehmung der Verantwortung gegenüber der Entwicklung der Gesellschaft durch eine zeitgemäße Professionalisierung der Absolventinnen und Absolventen (dies schließt eine Wert- und Sinnorientierung mit ein),
+8. die Stärkung sozialer Kompetenz (einschließlich der Befähigung zur Vermittlung von sozialen, moralisch-ethischen und religiösen Werten sowie der Gender- und Diversity-Kompetenz),
+9. die Anwendbarkeit der Studien in der beruflichen pädagogischen Praxis,
+10. das Zusammenwirken von Studierenden, Lehrenden sowie des Verwaltungspersonals der Pädagogischen Hochschule im Sinne einer hochschulischen Lehr- und Lernkultur,
+11. die Mitwirkung an der Schulentwicklung durch wissenschaftlich -berufsfeldbezogene Forschung, durch praktische Arbeiten sowie in sozial- und bildungspolitischen Anliegen,
+12. die Gleichbehandlung und Gleichstellung von Frauen und Männern,
+13. die soziale Chancengleichheit,
+14. die besondere Berücksichtigung der Erfordernisse von Menschen mit Behinderungen im Sinne des Bundes-Behindertengleichstellungsgesetzes, BGBl. I Nr. 82/2005,
+15. die besondere Berücksichtigung der Erfordernisse von besonders begabten und interessierten Studierenden,
+16. die Wirtschaftlichkeit, Sparsamkeit und Zweckmäßigkeit der Gebarung.
 
-- die  Wahrnehmung  der  Verantwortung  gegenüber  der  Entwicklung  der  Gesellschaft  durch  eine zeitgemäße Professionalisierung der Absolventinnen und Absolventen (dies schließt eine Wertund Sinnorientierung mit ein),
+(7) Die Forschung an Pädagogischen Hochschulen dient der Gewinnung von wissenschaftlichen Erkenntnissen, die zur Entwicklung der pädagogischen Berufsfelder beitragen.
 
-- die Stärkung sozialer Kompetenz (einschließlich der Befähigung zur Vermittlung von sozialen, moralisch-ethischen und religiösen Werten sowie der Gender- und Diversity-Kompetenz),
+(8) Die Pädagogischen Hochschulen haben bei der Erfüllung ihrer Aufgaben die Strategie des Gender Mainstreaming anzuwenden und die Ergebnisse im Bereich der Gender Studies und der gendersensiblen Didaktik zu berücksichtigen.
 
-- die Anwendbarkeit der Studien in der beruflichen pädagogischen Praxis,
-
-- das  Zusammenwirken  von  Studierenden,  Lehrenden  sowie  des  Verwaltungspersonals  der Pädagogischen Hochschule im Sinne einer hochschulischen Lehr- und Lernkultur,
-
-- die Mitwirkung an der Schulentwicklung durch wissenschaftlich -berufsfeldbezogene Forschung, durch praktische Arbeiten sowie in sozial- und bildungspolitischen Anliegen,
-
-- die Gleichbehandlung und Gleichstellung von Frauen und Männern,
-
-- die soziale Chancengleichheit,
-
-- die besondere Berücksichtigung der Erfordernisse von Menschen mit Behinderungen im Sinne des Bundes-Behindertengleichstellungsgesetzes, BGBl. I Nr. 82/2005,
-
-- die  besondere  Berücksichtigung  der  Erfordernisse  von  besonders  begabten  und  interessierten Studierenden,
-
-- die Wirtschaftlichkeit, Sparsamkeit und Zweckmäßigkeit der Gebarung.
-
-- Die  Forschung  an  Pädagogischen  Hochschulen  dient  der  Gewinnung  von  wissenschaftlichen Erkenntnissen, die zur Entwicklung der pädagogischen Berufsfelder beitragen.
-
-- Die  Pädagogischen  Hochschulen  haben  bei  der  Erfüllung  ihrer  Aufgaben  die  Strategie  des Gender  Mainstreaming  anzuwenden  und  die  Ergebnisse  im  Bereich  der  Gender  Studies  und  der gendersensiblen Didaktik zu berücksichtigen.
-
-- Die Pädagogische Hochschule hat die Situation berufstätiger Studierender bei der Angebotserstellung  zu  berücksichtigen.  Bei  Bedarf  kann  die  Mindeststudiendauer  berufsbegleitender Studienangebote bei gleichbleibendem Umfang an ECTS-Credits verlängert werden.
+(9) Die Pädagogische Hochschule hat die Situation berufstätiger Studierender bei der Angebotserstellung zu berücksichtigen. Bei Bedarf kann die Mindeststudiendauer berufsbegleitender Studienangebote bei gleichbleibendem Umfang an ECTS-Credits verlängert werden.
 
 ### Wissenschaftliche und organisatorische Kooperation mit anderen Bildungseinrichtungen
 
@@ -640,17 +600,15 @@ Bundesrecht konsolidiert
 
 § 11. (1) Die Organe der Pädagogischen Hochschule sind der Hochschulrat, das Rektorat, der Rektor bzw. die Rektorin und die Studienkommission.
 
-- Eine  Person  darf  in  höchstens  einem  dieser  Organe  Mitglied  sein;  dies  gilt  nicht  für  die Mitgliedschaft des Rektors bzw. der Rektorin im Rektorat.
+(2) Eine Person darf in höchstens einem dieser Organe Mitglied sein; dies gilt nicht für die Mitgliedschaft des Rektors bzw. der Rektorin im Rektorat.
 
 ### Hochschulrat
 
 § 12. (1) Der Hochschulrat besteht aus fünf Mitgliedern, die in verantwortungsvollen Positionen in der Gesellschaft, insbesondere der Pädagogik, der (Berufs-)bildung und der Wissenschaft tätig sind oder waren und auf Grund ihrer hervorragenden Kenntnisse und Erfahrungen einen Beitrag zur Erreichung der Ziele und Aufgaben der Pädagogischen Hochschule leisten können. Mitglieder des Hochschulrates sind
 
-- drei  von  der  Bundesministerin  bzw.  vom  Bundesminister  für  Unterricht,  Kunst  und  Kultur  zu bestellende Mitglieder,
-
-- der Amtsführende Präsident bzw. die Amtsführende Präsidentin des Landesschulrates, in dessen bzw. in deren örtlichen Wirkungsbereich die Pädagogische Hochschule ihren Sitz hat,
-
-- ein von der Landesregierung zu bestellendes Mitglied.
+1. drei von der Bundesministerin bzw. vom Bundesminister für Unterricht, Kunst und Kultur zu bestellende Mitglieder,
+2. der Amtsführende Präsident bzw. die Amtsführende Präsidentin des Landesschulrates, in dessen bzw. in deren örtlichen Wirkungsbereich die Pädagogische Hochschule ihren Sitz hat,
+3. ein von der Landesregierung zu bestellendes Mitglied.
 
 www.ris.bka.gv.at
 
@@ -662,55 +620,42 @@ Seite 9 von 41
 
 Bundesrecht konsolidiert
 
-(2) Abweichend von Abs. 1 Z 1 bis 3 sind Mitglieder des Hochschulrates der Hochschule für Agrarund Umweltpädagogik Wien:
+(2) Abweichend von Abs. 1 Z 1 bis 3 sind Mitglieder des Hochschulrates der Hochschule für Agrar- und Umweltpädagogik Wien:
 
-- drei von der Bundesministerin bzw. vom Bundesminister für Land- und Forstwirtschaft, Umwelt und  Wasserwirtschaft  zu  bestellende  Mitglieder,  von  denen  jedenfalls  eines  dem  land-  und forstwirtschaftlichen Schulwesen anzugehören hat,
+1. drei von der Bundesministerin bzw. vom Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft zu bestellende Mitglieder, von denen jedenfalls eines dem land- und forstwirtschaftlichen Schulwesen anzugehören hat,
+2. ein von der Bundesministerin bzw. vom Bundesminister für Unterricht, Kunst und Kultur zu bestellendes Mitglied,
+3. ein von der Landwirtschaftskammer Österreich zu bestellendes Mitglied.
 
-- ein  von  der  Bundesministerin  bzw.  vom  Bundesminister  für  Unterricht,  Kunst  und  Kultur  zu bestellendes Mitglied,
+(3) Die Mitgliedschaft im Hochschulrat endet
 
-- ein von der Landwirtschaftskammer Österreich zu bestellendes Mitglied.
+1. durch Ablauf der Funktionsperiode,
+2. durch Verzicht,
+3. durch Abberufung,
+4. durch Tod.
 
-- Die Mitgliedschaft im Hochschulrat endet
+(4) Die Funktionsperiode der Mitglieder gemäß Abs. 1 Z 1 und 3 sowie Abs. 2 beträgt fünf Jahre. Eine Wiederbestellung für die unmittelbar folgende Funktionsperiode ist nur ein Mal zulässig. Bei vorzeitigem Ausscheiden eines Mitglieds des Hochschulrates ist für den Rest der Funktionsperiode ein neues Mitglied auf dieselbe Art wie das ausgeschiedene Mitglied zu bestellen.
 
-- durch Ablauf der Funktionsperiode,
+(5) Das zuständige Regierungsmitglied kann ein Mitglied des Hochschulrates wegen einer schweren Pflichtverletzung, einer strafgerichtlichen Verurteilung oder wegen mangelnder körperlicher oder geistiger Eignung mit Bescheid von seiner Funktion abberufen. Eine Abberufung setzt übereinstimmende Beschlüsse der Studienkommission und des Rektorats voraus, die beide einer Zweidrittelmehrheit bedürfen.
 
-- durch Verzicht,
+(6) Der bzw. die Vorsitzende im Hochschulrat wird durch Wahl mit einfacher Mehrheit aus dem Kreis der Mitglieder festgelegt. Bis zur Wahl des bzw. der Vorsitzenden führt das an Lebensjahren älteste Mitglied des Hochschulrates den Vorsitz.
 
-- durch Abberufung,
+(7) Der Hochschulrat ist beschlussfähig, wenn mindestens die Hälfte der Mitglieder anwesend ist. Für einen Beschluss ist die unbedingte Mehrheit der abgegebenen gültigen Stimmen erforderlich. Bei Stimmengleichheit entscheidet der oder die Vorsitzende. Die Vertretung eines an einer Beratung oder Beschlussfassung verhinderten Mitgliedes sowie die Übertragung des Stimmrechtes an eine andere Person sind unzulässig. Erforderlichenfalls können andere Personen als Fachleute mit beratender Stimme beigezogen und Ausschüsse eingerichtet werden.
 
-- durch Tod.
-
-(4) Die Funktionsperiode der Mitglieder gemäß Abs. 1 Z 1 und 3 sowie Abs. 2 beträgt fünf Jahre. Eine  Wiederbestellung  für  die  unmittelbar  folgende  Funktionsperiode  ist  nur  ein  Mal  zulässig.  Bei vorzeitigem Ausscheiden eines Mitglieds des Hochschulrates ist für den Rest der Funktionsperiode ein neues Mitglied auf dieselbe Art wie das ausgeschiedene Mitglied zu bestellen.
-
-(5) Das zuständige Regierungsmitglied kann ein Mitglied des Hochschulrates wegen einer schweren Pflichtverletzung, einer strafgerichtlichen Verurteilung oder wegen  mangelnder  körperlicher oder geistiger Eignung mit Bescheid von seiner Funktion abberufen. Eine Abberufung setzt übereinstimmende Beschlüsse  der  Studienkommission  und  des  Rektorats  voraus,  die  beide  einer  Zweidrittelmehrheit bedürfen.
-
-(6)  Der  bzw.  die  Vorsitzende  im  Hochschulrat  wird  durch  Wahl  mit  einfacher  Mehrheit  aus  dem Kreis der Mitglieder festgelegt. Bis zur Wahl des bzw. der Vorsitzenden führt das an Lebensjahren älteste Mitglied des Hochschulrates den Vorsitz.
-
-(7)  Der  Hochschulrat ist beschlussfähig,  wenn  mindestens die Hälfte der Mitglieder anwesend ist. Für  einen  Beschluss  ist  die  unbedingte  Mehrheit  der  abgegebenen  gültigen  Stimmen  erforderlich.  Bei Stimmengleichheit  entscheidet  der  oder  die  Vorsitzende.  Die  Vertretung  eines  an  einer  Beratung  oder Beschlussfassung  verhinderten  Mitgliedes  sowie  die  Übertragung  des  Stimmrechtes  an  eine  andere Person sind unzulässig. Erforderlichenfalls können andere Personen als Fachleute mit beratender Stimme beigezogen und Ausschüsse eingerichtet werden.
-
-(8)  Das  Rektorat,  der  oder  die  Vorsitzende  der  Studienkommission,  der  oder  die  Vorsitzende  des Arbeitskreises für Gleichbehandlungsfragen und der oder die Vorsitzende der Vertretung der Studierenden  an  der  betreffenden  Pädagogischen  Hochschule  haben  das  Recht,  in  den  Sitzungen  des Hochschulrates zu Tagesordnungspunkten angehört zu werden, die ihren Aufgabenbereich betreffen.
+(8) Das Rektorat, der oder die Vorsitzende der Studienkommission, der oder die Vorsitzende des Arbeitskreises für Gleichbehandlungsfragen und der oder die Vorsitzende der Vertretung der Studierenden an der betreffenden Pädagogischen Hochschule haben das Recht, in den Sitzungen des Hochschulrates zu Tagesordnungspunkten angehört zu werden, die ihren Aufgabenbereich betreffen.
 
 (9) Der Hochschulrat hat folgende Aufgaben:
 
-- Ausschreibung der Funktion des Rektors bzw. der Rektorin sowie Durchführung des Auswahlverfahrens  und  Erstellung eines Dreiervorschlages für die Bestellung durch das zuständige Regierungsmitglied,
+1. Ausschreibung der Funktion des Rektors bzw. der Rektorin sowie Durchführung des Auswahlverfahrens und Erstellung eines Dreiervorschlages für die Bestellung durch das zuständige Regierungsmitglied,
+2. auf Vorschlag des Rektors bzw. der Rektorin Zuordnung von Aufgabengebieten zu den Funktionen der Vizerektoren bzw. der Vizerektorinnen,
+3. Festlegung von Ausbildungsinhalten für die Curricula,
+4. Beschlussfassung über den Organisationsplan,
+5. Genehmigung der Satzung und der Geschäftsordnung,
+6. Stellungnahme zur beabsichtigten Betrauung mit der Leitung eines Institutes der Pädagogischen Hochschule gemäß § 16,
+7. Beschlussfassung über den Ziel- und Leistungsplan der Pädagogischen Hochschule und Weiterleitung an das zuständige Regierungsmitglied zur Genehmigung,
+8. Beschlussfassung über den jährlichen Ressourcenplan der Pädagogischen Hochschule und Weiterleitung an das zuständige Regierungsmitglied zur Genehmigung,
+9. Berichtspflicht an das zuständige Regierungsmitglied bei schwerwiegenden Rechtsverstößen von Hochschulorganen sowie bei Gefahr eines schweren wirtschaftlichen Schadens.
 
-- auf  Vorschlag  des  Rektors  bzw.  der  Rektorin  Zuordnung  von  Aufgabengebieten  zu  den Funktionen der Vizerektoren bzw. der Vizerektorinnen,
-
-- Festlegung von Ausbildungsinhalten für die Curricula,
-
-- Beschlussfassung über den Organisationsplan,
-
-- Genehmigung der Satzung und der Geschäftsordnung,
-
-- Stellungnahme zur beabsichtigten Betrauung mit der Leitung eines Institutes der Pädagogischen Hochschule gemäß § 16,
-
-- Beschlussfassung über den Zielund Leistungsplan der  Pädagogischen  Hochschule und Weiterleitung an das zuständige Regierungsmitglied zur Genehmigung,
-
-- Beschlussfassung  über  den  jährlichen  Ressourcenplan  der  Pädagogischen  Hochschule  und Weiterleitung an das zuständige Regierungsmitglied zur Genehmigung,
-
-- Berichtspflicht an das zuständige Regierungsmitglied bei schwerwiegenden Rechtsverstößen von Hochschulorganen sowie bei Gefahr eines schweren wirtschaftlichen Schadens.
-
-(10) Der Hochschulrat ist berechtigt, sich über alle Angelegenheiten der Pädagogischen Hochschule zu informieren. Die Hochschulorgane sind verpflichtet, dem  Hochschulrat alle zweckdienlichen Auskünfte  zu  erteilen,  Geschäftsstücke  und  Unterlagen  über  die  vom  Hochschulrat  bezeichneten Gegenstände vorzulegen, von ihm angeordnete Erhebungen anzustellen und Überprüfungen an Ort und Stelle vornehmen zu lassen.
+(10) Der Hochschulrat ist berechtigt, sich über alle Angelegenheiten der Pädagogischen Hochschule zu informieren. Die Hochschulorgane sind verpflichtet, dem Hochschulrat alle zweckdienlichen Auskünfte zu erteilen, Geschäftsstücke und Unterlagen über die vom Hochschulrat bezeichneten
 
 www.ris.bka.gv.at
 
@@ -722,6 +667,8 @@ Seite 10 von 41
 
 Bundesrecht konsolidiert
 
+Gegenstände vorzulegen, von ihm angeordnete Erhebungen anzustellen und Überprüfungen an Ort und Stelle vornehmen zu lassen.
+
 (11) Die Mitglieder des Hochschulrats sind bei ihrer Tätigkeit zu entsprechender Sorgfalt verpflichtet. Sie haben Anspruch auf Ersatz der Aufwendungen, die ihnen aus Anlass der Ausübung ihrer Funktion erwachsen. Die näheren Bestimmungen über den Ersatz sind durch Verordnung des zuständigen Regierungsmitglieds zu treffen, in der auch ein pauschalierter Aufwandsersatz festgelegt werden kann.
 
 (12)  Der  Hochschulrat  hat  eine  Geschäftsordnung  zu  beschließen,  die  die  näheren  Bestimmungen über die Geschäftsführung festzulegen hat.
@@ -730,15 +677,12 @@ Bundesrecht konsolidiert
 
 § 13. (1)  Der  Rektor  bzw.  die  Rektorin  leitet  die  Pädagogische  Hochschule,  ist  der  oder  die Vorgesetzte des an der Pädagogischen Hochschule tätigen Lehr- und Verwaltungspersonals, vertritt die Pädagogische  Hochschule  nach  außen  und  koordiniert  die  Tätigkeit  der  Organe  der  Pädagogischen Hochschule. Er bzw. sie hat darüber hinaus alle Aufgaben nach diesem Bundesgesetz wahrzunehmen, die nicht einem anderen Hochschulorgan zugewiesen sind.
 
-(2)  Zum  Rektor  bzw.  zur  Rektorin  darf  nur  eine  Lehrerin  oder  ein  Lehrer  einer  Pädagogischen Hochschule mit
+(2) Zum Rektor bzw. zur Rektorin darf nur eine Lehrerin oder ein Lehrer einer Pädagogischen Hochschule mit
 
-- einem abgeschlossenen Universitätsstudium,
-
-- der Fähigkeit zur organisatorischen und wirtschaftlichen Leitung einer Pädagogischen Hochschule,
-
-- mehrjähriger Erfahrung in der Lehre und
-
-- mit Erfahrung in der internationalen Bildungskooperation
+1. einem abgeschlossenen Universitätsstudium,
+2. der Fähigkeit zur organisatorischen und wirtschaftlichen Leitung einer Pädagogischen Hochschule,
+3. mehrjähriger Erfahrung in der Lehre und
+4. mit Erfahrung in der internationalen Bildungskooperation
 
 oder eine außerhalb einer Pädagogischen Hochschule tätige Person mit gleichzuhaltender Qualifikation bestellt werden.
 
@@ -754,7 +698,7 @@ oder eine außerhalb einer Pädagogischen Hochschule tätige Person mit gleichzu
 
 § 14. (1) An der Pädagogischen Hochschule ist ein Vizerektor bzw. eine Vizerektorin oder sind unter Bedachtnahme  auf  die  innere  Struktur  der  Pädagogischen  Hochschule  auch  zwei  Vizerektoren  bzw. Vizerektorinnen  zu  bestellen.  Der  oder  die  Vizerektor(en)  bzw.  Vizerektorin(nen)  sind  Mitglieder  des Rektorats und haben den Rektor bzw. die Rektorin im Verhinderungsfall zu vertreten, auf den ihnen vom Hochschulrat zugeordneten Aufgabengebieten zu unterstützen und im Falle eines vorzeitigen Ausscheidens des Rektors bzw. der Rektorin dessen bzw. deren Aufgaben bis zur Bestellung eines neuen Rektors bzw. einer neuen Rektorin wahrzunehmen.
 
-(2)  Die  Ausschreibung der Funktion des Vizerektors bzw. der Vizerektorin und die Durchführung des Auswahlverfahrens obliegen dem Hochschulrat. Die einlangenden Bewerbungen sind dem Dienststellenausschuss  zu  übermitteln;  dieser  hat  das  Recht,  binnen  drei  Wochen  eine  begründete schriftliche Stellungnahme abzugeben. Der Hochschulrat hat dem zuständigen Regierungsmitglied einen Dreiervorschlag  für  die  Bestellung  zum  Vizerektor  bzw.  zur  Vizerektorin  sowie  eine  diesbezügliche Stellungnahme des Rektors bzw. der Rektorin vorzulegen. Die Bestellung erfolgt durch das zuständige Regierungsmitglied für eine Funktionsperiode von vier Studienjahren gerechnet ab dem der Bestellung folgenden 1. Oktober.
+(2) Die Ausschreibung der Funktion des Vizerektors bzw. der Vizerektorin und die Durchführung des Auswahlverfahrens obliegen dem Hochschulrat. Die einlangenden Bewerbungen sind dem Dienststellenausschuss zu übermitteln; dieser hat das Recht, binnen drei Wochen eine begründete schriftliche Stellungnahme abzugeben. Der Hochschulrat hat dem zuständigen Regierungsmitglied einen Dreiervorschlag für die Bestellung zum Vizerektor bzw. zur Vizerektorin sowie eine diesbezügliche Stellungnahme des Rektors bzw. der Rektorin vorzulegen. Die Bestellung erfolgt durch das zuständige
 
 www.ris.bka.gv.at
 
@@ -766,7 +710,9 @@ Seite 11 von 41
 
 Bundesrecht konsolidiert
 
-§ 13 Abs. 4 und 5 finden Anwendung.
+Regierungsmitglied für eine Funktionsperiode von vier Studienjahren gerechnet ab dem der Bestellung folgenden 1. Oktober.
+
+(3) § 13 Abs. 4 und 5 finden Anwendung.
 
 (4)  Die  Vizerektoren  bzw.  die  Vizerektorinnen  stehen  in  einem  auf  die  Dauer  der  Ausübung  der Funktion  zeitlich  befristeten,  besonderen  vertraglichen  Dienstverhältnis  zum  Bund.  Die  Aufnahme  in dieses Dienstverhältnis erfolgt  durch  das  zuständige  Regierungsmitglied.  Wird  eine  Person  zum Vizerektor bzw. zur Vizerektorin bestellt, die bereits in einem Dienstverhältnis zum Bund steht, so ist sie für  die  Dauer  der  Ausübung  der  Funktion  im  bereits  bestehenden  Dienstverhältnis  unter  Entfall  der Bezüge beurlaubt.
 
@@ -776,41 +722,25 @@ Bundesrecht konsolidiert
 
 (2) Der Rektor bzw. die Rektorin hat die Vorsitzführung im Rektorat inne und vertritt dieses nach außen.
 
-- Das Rektorat hat folgende Aufgaben:
+(3) Das Rektorat hat folgende Aufgaben:
 
-- Festlegung der allgemeinen Zulassungsfrist,
+1. Festlegung der allgemeinen Zulassungsfrist,
+2. Erstellung der Satzung,
+3. Erstellung des Entwurfes eines Organisationsplanes der Pädagogischen Hochschule zur Vorlage an den Hochschulrat zur Beschlussfassung,
+4. Ausschreibung von Planstellen für Lehrpersonal gemäß § 18 Abs. 1 Z 1, Durchführung des Auswahlverfahrens, Bewertung der Ergebnisse und Vorlage eines begründeten Besetzungsantrages an das zuständige Regierungsmitglied,
+5. Antragstellung betreffend Zuweisung und Mitverwendung von Lehrenden gemäß § 18 Abs. 1 Z 2 und 3 an die zuständige Dienstbehörde oder Personalstelle,
+6. Bestellung von Lehrenden gemäß § 18 Abs. 1 Z 4,
+7. Ausschreibung von Planstellen für das Verwaltungspersonal (§ 20 Abs. 3),
+8. Zulassung der Studierenden,
+9. Einhebung der Studienbeiträge in der gesetzlich festgelegten Höhe,
+10. Veranlassung von Evaluierungen und Veröffentlichung von Evaluierungsergebnissen,
+11. Stellungnahme zu den Entwürfen von Curricula und Genehmigung der Curricula,
+12. Erstellung eines Ziel- und Leistungsplanes für die Pädagogische Hochschule und Vorlage an den Hochschulrat zur Beschlussfassung,
+13. Erstellung eines jährlichen Ressourcenplanes für die Pädagogische Hochschule und Vorlage an den Hochschulrat zur Beschlussfassung,
+14. interne Budgetzuteilung gemäß dem genehmigten Ressourcenplan,
+15. Betrauung mit der Leitung eines im Organisationsplan vorgesehenen Institutes.
 
-- Erstellung der Satzung,
-
-- Erstellung des Entwurfes eines Organisationsplanes der Pädagogischen Hochschule zur Vorlage an den Hochschulrat zur Beschlussfassung,
-
-- Ausschreibung  von  Planstellen  für  Lehrpersonal  gemäß  § 18  Abs. 1  Z 1,  Durchführung  des Auswahlverfahrens, Bewertung der Ergebnisse und Vorlage eines begründeten Besetzungsantrages an das zuständige Regierungsmitglied,
-
-- Antragstellung betreffend Zuweisung und Mitverwendung von Lehrenden gemäß § 18 Abs. 1 Z 2 und 3 an die zuständige Dienstbehörde oder Personalstelle,
-
-- Bestellung von Lehrenden gemäß § 18 Abs. 1 Z 4,
-
-- Ausschreibung von Planstellen für das Verwaltungspersonal (§ 20 Abs. 3),
-
-- Zulassung der Studierenden,
-
-- Einhebung der Studienbeiträge in der gesetzlich festgelegten Höhe,
-
-- Veranlassung von Evaluierungen und Veröffentlichung von Evaluierungsergebnissen,
-
-- Stellungnahme zu den Entwürfen von Curricula und Genehmigung der Curricula,
-
-- Erstellung eines Ziel- und Leistungsplanes für die Pädagogische Hochschule und Vorlage an den Hochschulrat zur Beschlussfassung,
-
-- Erstellung eines jährlichen Ressourcenplanes für die Pädagogische Hochschule und Vorlage an den Hochschulrat zur Beschlussfassung,
-
-- interne Budgetzuteilung gemäß dem genehmigten Ressourcenplan,
-
-- Betrauung mit der Leitung eines im Organisationsplan vorgesehenen Institutes.
-
-- Das Rektorat kann Entscheidungen anderer Organe mit
-
-Ausnahme der Beschlüsse des Hochschulrates zurückverweisen,  wenn  diese  Entscheidungen  nach Auffassung  des  Rektorats  im  Widerspruch  zu  Gesetzen  und  Verordnungen  einschließlich  der  Satzung stehen. Der Hochschulrat ist in schwerwiegenden Fällen zu informieren.
+(4) Das Rektorat kann Entscheidungen anderer Organe mit Ausnahme der Beschlüsse des Hochschulrates zurückverweisen, wenn diese Entscheidungen nach Auffassung des Rektorats im Widerspruch zu Gesetzen und Verordnungen einschließlich der Satzung stehen. Der Hochschulrat ist in schwerwiegenden Fällen zu informieren.
 
 (5)  Das Rektorat entscheidet  mit  Stimmenmehrheit, soweit in der Geschäftsordnung nicht anderes bestimmt ist. Bei Stimmengleichheit gibt die Stimme des Rektors bzw. der Rektorin den Ausschlag.
 
@@ -838,29 +768,25 @@ Bundesrecht konsolidiert
 
 § 17. (1) Die Studienkommission besteht aus 12 Mitgliedern, und zwar
 
-- neun von den Lehrenden aus deren Kreis zu wählende Mitglieder und
+1. neun von den Lehrenden aus deren Kreis zu wählende Mitglieder und
+2. drei von der Studierendenvertretung zu entsendende Mitglieder.
 
-- drei von der Studierendenvertretung zu entsendende Mitglieder.
-
-(2) An der Hochschule für Agrar- und Umweltpädagogik Wien gehört der Studienkommission neben den in Abs. 1 genannten Mitgliedern ein von der Bundesministerin oder vom Bundesminister für Landund Forstwirtschaft, Umwelt und Wasserwirtschaft zu entsendendes Mitglied an.
+(2) An der Hochschule für Agrar- und Umweltpädagogik Wien gehört der Studienkommission neben den in Abs. 1 genannten Mitgliedern ein von der Bundesministerin oder vom Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft zu entsendendes Mitglied an.
 
 (3) Neben den auf Grund anderer gesetzlicher Bestimmungen übertragenen Entscheidungsbefugnissen obliegt der Studienkommission insbesondere die Beratung über pädagogische Fragen der Pädagogischen Hochschule sowie über Maßnahmen der Qualitätssicherung. Die Studienkommission hat folgende Aufgaben:
 
-- Erlassung des Curriculums sowie der Prüfungsordnung,
+1. Erlassung des Curriculums sowie der Prüfungsordnung,
+2. Stellungnahme zu Beschwerdevorentscheidungen gemäß § 14 des Verwaltungsgerichtsverfahrensgesetzes – VwGVG, BGBl. I Nr. 33/2013 bei Beschwerden in Studienangelegenheiten, welche im Fall der Vorlage an das Verwaltungsgericht der Beschwerde anzuschließen ist,
+3. Erstellung von Maßnahmen der Evaluation und der Qualitätssicherung der Studienangebote,
+4. Einrichtung eines Arbeitskreises für Gleichbehandlungsfragen.
 
-- Stellungnahme zu Beschwerdevorentscheidungen gemäß § 14 des Verwaltungsgerichtsverfahrensgesetzes  -  VwGVG,  BGBl. I  Nr. 33/2013  bei  Beschwerden  in Studienangelegenheiten, welche im Fall der Vorlage an das Verwaltungsgericht der Beschwerde anzuschließen ist,
+(4) Die Funktionsperiode der Studienkommission beträgt drei Studienjahre.
 
-- Erstellung von Maßnahmen der Evaluation und der Qualitätssicherung der Studienangebote,
+(5) Die Vertreter des Lehrpersonals sind innerhalb der ersten drei Monate des ersten Studienjahres der Funktionsperiode in gleicher, unmittelbarer, geheimer und persönlicher Verhältniswahl zu wählen; gleichzeitig ist eine entsprechende Anzahl von Stellvertreterinnen oder Stellvertretern zu wählen. Das Wahlergebnis ist unverzüglich und auf geeignete Weise in der Pädagogischen Hochschule kundzumachen.
 
-- Einrichtung eines Arbeitskreises für Gleichbehandlungsfragen.
+(6) Jedem Mitglied der Studienkommission kommt eine beschließende Stimme zu. Stimmenthaltung ist unzulässig. Der Rektor bzw. die Rektorin und die Vizerektoren bzw. die Vizerektorinnen bzw. der Vizerektor und die Vizerektorin haben das Recht, an den Sitzungen der Studienkommission mit beratender Stimme teilzunehmen. Erforderlichenfalls können andere Personen als Fachleute mit beratender Stimme beigezogen und Ausschüsse (insbesondere für die vorgesehenen Studienangebote) eingerichtet werden.
 
-- Die Funktionsperiode der Studienkommission beträgt drei Studienjahre.
-
-(5) Die Vertreter des Lehrpersonals sind innerhalb der ersten drei Monate des ersten Studienjahres der  Funktionsperiode  in  gleicher,  unmittelbarer,  geheimer  und  persönlicher  Verhältniswahl  zu  wählen; gleichzeitig  ist  eine  entsprechende  Anzahl  von  Stellvertreterinnen  oder  Stellvertretern  zu  wählen.  Das Wahlergebnis ist unverzüglich und auf geeignete Weise in der Pädagogischen Hochschule kundzumachen.
-
-(6) Jedem Mitglied der Studienkommission kommt eine beschließende Stimme zu. Stimmenthaltung ist  unzulässig.  Der  Rektor  bzw.  die  Rektorin  und  die  Vizerektoren  bzw.  die  Vizerektorinnen  bzw.  der Vizerektor  und  die  Vizerektorin  haben  das  Recht,  an  den  Sitzungen  der  Studienkommission  mit beratender Stimme  teilzunehmen. Erforderlichenfalls können andere Personen als Fachleute mit beratender  Stimme  beigezogen  und  Ausschüsse  (insbesondere  für  die  vorgesehenen  Studienangebote) eingerichtet werden.
-
-(7)  Die  Studienkommission  ist  beschlussfähig,  wenn  mehr  als  die  Hälfte  der  Mitglieder  sowie mindestens  ein  Mitglied  aus  dem  Bereich  der  Studierenden  und  zwei  Mitglieder  aus  dem  Bereich  der Lehrenden anwesend  sind.  Für  einen  Beschluss  ist  die  unbedingte  Mehrheit  der  abgegebenen  gültigen Stimmen erforderlich. Bei Stimmengleichheit entscheidet der oder die Vorsitzende.  Die Sitzungen der Studienkommission sind nicht öffentlich.
+(7) Die Studienkommission ist beschlussfähig, wenn mehr als die Hälfte der Mitglieder sowie mindestens ein Mitglied aus dem Bereich der Studierenden und zwei Mitglieder aus dem Bereich der Lehrenden anwesend sind. Für einen Beschluss ist die unbedingte Mehrheit der abgegebenen gültigen Stimmen erforderlich. Bei Stimmengleichheit entscheidet der oder die Vorsitzende. Die Sitzungen der Studienkommission sind nicht öffentlich.
 
 (8) Die Studienkommission hat eine Geschäftsordnung zu beschließen, die die näheren Bestimmungen über die Geschäftsführung festzulegen hat.
 
@@ -868,13 +794,10 @@ Bundesrecht konsolidiert
 
 § 18. (1) Die Lehre an Pädagogischen Hochschulen erfolgt durch
 
-- Bundeslehr- und Bundesvertragslehrpersonal (Stammlehrpersonal),
-
-- vorübergehend zur Dienstleistung zugewiesenes Bundeslehrpersonal, Bundesvertragslehrpersonal,  Landeslehrpersonal  oder  Landesvertragslehrpersonal,  land-  und forstwirtschaftliches Landeslehr- oder land- und forstwirtschaftliches Landesvertragslehrpersonal (§ 39 BDG 1979, § 6a VBG, § 22 LDG 1984, § 22 LLDG 1985),
-
-- mitverwendetes Bundeslehrund Bundesvertragslehrpersonal (§ 210 BDG 1979), mitverwendetes  Landeslehr-  und  Landesvertragslehrpersonal  (§ 22  LDG 1984,  § 2  Abs. 2  lit. h Landesvertragslehrergesetz 1966),  land-  und  forstwirtschaftliches  Landeslehr-  oder  land-  und forstwirtschaftliches Landesvertragslehrpersonal (§ 22 LLDG 1985),
-
-- Lehrbeauftragte.
+1. Bundeslehr- und Bundesvertragslehrpersonal (Stammlehrpersonal),
+2. vorübergehend zur Dienstleistung zugewiesenes Bundeslehrpersonal, Bundesvertragslehrpersonal, Landeslehrpersonal oder Landesvertragslehrpersonal, land- und forstwirtschaftliches Landeslehr- oder land- und forstwirtschaftliches Landesvertragslehrpersonal (§ 39 BDG 1979, § 6a VBG, § 22 LDG 1984, § 22 LLDG 1985),
+3. mitverwendetes Bundeslehr- und Bundesvertragslehrpersonal (§ 210 BDG 1979), mitverwendetes Landeslehr- und Landesvertragslehrpersonal (§ 22 LDG 1984, § 2 Abs. 2 lit. h Landesvertragslehrergesetz 1966), land- und forstwirtschaftliches Landeslehr- oder land- und forstwirtschaftliches Landesvertragslehrpersonal (§ 22 LLDG 1985),
+4. Lehrbeauftragte.
 
 www.ris.bka.gv.at
 
@@ -906,19 +829,13 @@ Bundesrecht konsolidiert
 
 (2) Die Ausschreibung hat jedenfalls zu enthalten:
 
-- die dienstrechtlichen Erfordernisse,
-
-- die  besonderen  Kenntnisse  und  Fähigkeiten,  die  für  die  Erfüllung  der  mit  der  Funktion,  der Planstelle oder des Arbeitsplatzes verbundenen Anforderungen erwartet werden,
-
-- im Fall des Rektors bzw. der Rektorin - die Voraussetzungen des § 13 Abs. 2,
-
--  im  Fall  des  Vizerektors  bzw.  der  Vizerektorin  -  das  vom  Hochschulrat  der  Funktion zugewiesene Aufgabengebiet,
-
-- die Art des Auswahlverfahrens,
-
-- die Einreichungsstelle für die Bewerbungen und
-
-- die Bewerbungsfrist, die nicht weniger als einen Monat betragen darf.
+1. die dienstrechtlichen Erfordernisse,
+2. die besonderen Kenntnisse und Fähigkeiten, die für die Erfüllung der mit der Funktion, der Planstelle oder des Arbeitsplatzes verbundenen Anforderungen erwartet werden,
+3. – im Fall des Rektors bzw. der Rektorin – die Voraussetzungen des § 13 Abs. 2,
+4. – im Fall des Vizerektors bzw. der Vizerektorin – das vom Hochschulrat der Funktion zugewiesene Aufgabengebiet,
+5. die Art des Auswahlverfahrens,
+6. die Einreichungsstelle für die Bewerbungen und
+7. die Bewerbungsfrist, die nicht weniger als einen Monat betragen darf.
 
 (3) Auf die Ausschreibung der Planstellen des Verwaltungspersonals ist das Ausschreibungsgesetz 1989, BGBl. Nr. 85, anzuwenden.
 
@@ -940,34 +857,32 @@ Seite 14 von 41
 
 Bundesrecht konsolidiert
 
-- Die  Mitglieder des  Arbeitskreises  für Gleichbehandlungsfragen dürfen bei der Ausübung ihrer Befugnisse nicht behindert  und wegen  dieser Tätigkeit  in  ihrem  beruflichen  Fortkommen  nicht benachteiligt werden.
+(4) Die Mitglieder des Arbeitskreises für Gleichbehandlungsfragen dürfen bei der Ausübung ihrer Befugnisse nicht behindert und wegen dieser Tätigkeit in ihrem beruflichen Fortkommen nicht benachteiligt werden.
 
-- Den  Mitgliedern  des  Arbeitskreises  ist  vom  Rektorat  in  allen  inneren  Angelegenheiten  der Pädagogischen Hochschule Auskunft zu erteilen sowie Einsicht in die Geschäftsstücke, Unterlagen und in die  automationsunterstützt  aufgezeichneten  Daten  über  das  Personal  der Pädagogischen  Hochschule  zu geben, deren Kenntnis zur Erfüllung der Aufgaben des Arbeitskreises erforderlich ist. Auf Verlangen ist die  Herstellung  von  Fotokopien  dieser  Unterlagen  zu  gestatten.  Einsicht  in  Personalakten  ist  nur  mit Genehmigung des bzw. der Betroffenen zulässig.
+(5) Den Mitgliedern des Arbeitskreises ist vom Rektorat in allen inneren Angelegenheiten der Pädagogischen Hochschule Auskunft zu erteilen sowie Einsicht in die Geschäftsstücke, Unterlagen und in die automationsunterstützt aufgezeichneten Daten über das Personal der Pädagogischen Hochschule zu geben, deren Kenntnis zur Erfüllung der Aufgaben des Arbeitskreises erforderlich ist. Auf Verlangen ist die Herstellung von Fotokopien dieser Unterlagen zu gestatten. Einsicht in Personalakten ist nur mit Genehmigung des bzw. der Betroffenen zulässig.
 
-- Werden  vom  Arbeitskreis  für  Gleichbehandlungsfragen  zur  Vorbereitung  seiner  Beschlüsse Gutachten und Stellungnahmen facheinschlägiger Experten bzw. Expertinnen sowie Auskünfte eingeholt, dürfen  diesen  Experten  bzw.  Expertinnen  die  dafür  erforderlichen  Unterlagen  zur  Verfügung  gestellt werden. Diese Experten bzw. Expertinnen sind zur Verschwiegenheit verpflichtet.
+(6) Werden vom Arbeitskreis für Gleichbehandlungsfragen zur Vorbereitung seiner Beschlüsse Gutachten und Stellungnahmen facheinschlägiger Experten bzw. Expertinnen sowie Auskünfte eingeholt, dürfen diesen Experten bzw. Expertinnen die dafür erforderlichen Unterlagen zur Verfügung gestellt werden. Diese Experten bzw. Expertinnen sind zur Verschwiegenheit verpflichtet.
 
 (7) Dem Arbeitskreis für Gleichbehandlungsfragen sind insbesondere unverzüglich zur Kenntnis zu bringen:
 
-- alle Ausschreibungstexte für die Besetzung von Stellen und Funktionen,
+1. alle Ausschreibungstexte für die Besetzung von Stellen und Funktionen,
+2. die Liste der eingelangten Bewerbungen,
+3. die Liste der in das Auswahlverfahren einbezogenen Bewerberinnen oder Bewerber.
 
-- die Liste der eingelangten Bewerbungen,
+(8) Das Rektorat hat gleichzeitig mit der Information des zuständigen Organs der Personalvertretung den Arbeitskreis für Gleichbehandlungsfragen darüber in Kenntnis zu setzen, mit welcher Bewerberin bzw. mit welchem Bewerber ein Dienstverhältnis eingegangen werden soll.
 
-- die Liste der in das Auswahlverfahren einbezogenen Bewerberinnen oder Bewerber.
+(9) Hat der Arbeitskreis für Gleichbehandlungsfragen Grund zur Annahme, dass die Entscheidung eines Hochschulorgans eine Diskriminierung von Personen auf Grund ihres Geschlechts darstellt, ist er berechtigt, innerhalb von zwei Wochen den Hochschulrat oder das zuständige Regierungsmitglied anzurufen.
 
-- Das Rektorat hat gleichzeitig mit der Information des zuständigen Organs der Personalvertretung den  Arbeitskreis  für  Gleichbehandlungsfragen  darüber  in  Kenntnis  zu  setzen,  mit  welcher  Bewerberin bzw. mit welchem Bewerber ein Dienstverhältnis eingegangen werden soll.
-
-- Hat der Arbeitskreis für Gleichbehandlungsfragen Grund zur Annahme, dass die Entscheidung eines Hochschulorgans eine Diskriminierung von Personen auf Grund ihres Geschlechts darstellt, ist er berechtigt,  innerhalb  von  zwei  Wochen  den  Hochschulrat  oder  das  zuständige  Regierungsmitglied anzurufen.
-
-- Dem  Hochschulrat  und  dem  Rektorat  ist  jährlich  ein  Tätigkeitsbericht  des  Arbeitskreises  für Gleichbehandlungsfragen zu übermitteln.
+(10) Dem Hochschulrat und dem Rektorat ist jährlich ein Tätigkeitsbericht des Arbeitskreises für Gleichbehandlungsfragen zu übermitteln.
 
 ## 5. Abschnitt
 ## Praxisschulen
 
 ### Organisatorische Stellung von Praxisschulen
 
-§ 22. (1)  In  Pädagogische  Hochschulen  eingegliederte  Praxisschulen  sind  Schulen  im  Sinne  des Art. 14 Abs. 5 lit. a des Bundes-Verfassungsgesetzes, BGBl. Nr. 1/1930.
+§ 22. (1) In Pädagogische Hochschulen eingegliederte Praxisschulen sind Schulen im Sinne des Art. 14 Abs. 5 lit. a des Bundes-Verfassungsgesetzes, BGBl. Nr. 1/1930.
 
-- Sofern mit Zustimmung  des  Schulerhalters  andere  als  in Abs. 1  genannte Schulen  als Praxisschulen herangezogen werden, bleibt deren organisatorische Stellung unberührt.
+(2) Sofern mit Zustimmung des Schulerhalters andere als in Abs. 1 genannte Schulen als Praxisschulen herangezogen werden, bleibt deren organisatorische Stellung unberührt.
 
 ### Aufgaben der Praxisschulen
 
@@ -977,9 +892,9 @@ Bundesrecht konsolidiert
 ## Verfahren
 ### Aufsicht
 
-§ 24. (1) Die Organe der Pädagogischen Hochschule unterliegen bei der Besorgung ihrer Angelegenheiten der Aufsicht des zuständigen Regierungsmitglieds. Die Aufsicht erstreckt sich auf die Einhaltung  der  geltenden  Rechtsvorschriften  (einschließlich  der  von  den  Organen  der  Pädagogischen Hochschule erlassenen  Rechtsvorschriften) sowie auf die  Erfüllung der der Pädagogischen Hochschule obliegenden Aufgaben.
+§ 24. (1) Die Organe der Pädagogischen Hochschule unterliegen bei der Besorgung ihrer Angelegenheiten der Aufsicht des zuständigen Regierungsmitglieds. Die Aufsicht erstreckt sich auf die Einhaltung der geltenden Rechtsvorschriften (einschließlich der von den Organen der Pädagogischen Hochschule erlassenen Rechtsvorschriften) sowie auf die Erfüllung der der Pädagogischen Hochschule obliegenden Aufgaben.
 
-- Das zuständige Regierungsmitglied ist berechtigt, sich über alle Angelegenheiten der Pädagogischen Hochschule zu informieren. Die Organe der Pädagogischen Hochschule sind verpflichtet, dem zuständigen Regierungsmitglied im Wege über den Rektor bzw. der Rektorin Auskünfte über alle
+(2) Das zuständige Regierungsmitglied ist berechtigt, sich über alle Angelegenheiten der Pädagogischen Hochschule zu informieren. Die Organe der Pädagogischen Hochschule sind verpflichtet, dem zuständigen Regierungsmitglied im Wege über den Rektor bzw. der Rektorin Auskünfte über alle
 
 www.ris.bka.gv.at
 
@@ -993,33 +908,29 @@ Bundesrecht konsolidiert
 
 Angelegenheiten der Pädagogischen Hochschule zu erteilen, Geschäftsstücke und Unterlagen vorzulegen, angeordnete Erhebungen anzustellen und Überprüfungen an Ort und Stelle vornehmen zu lassen.
 
-- Das  zuständige  Regierungsmitglied  hat  Entscheidungen  (einschließlich  der  Durchführung  von Wahlen) von Organen der Pädagogischen Hochschule aufzuheben und deren Durchführung zu untersagen, wenn die betreffende Entscheidung bzw. Wahl
+(3) Das zuständige Regierungsmitglied hat Entscheidungen (einschließlich der Durchführung von Wahlen) von Organen der Pädagogischen Hochschule aufzuheben und deren Durchführung zu untersagen, wenn die betreffende Entscheidung bzw. Wahl
 
-- von einem unzuständigen Organ herrührt,
+1. von einem unzuständigen Organ herrührt,
+2. unter Außerachtlassung von Verfahrensvorschriften zustande gekommen ist,
+3. im Widerspruch zu geltendem Recht steht,
+4. wegen der finanziellen Auswirkungen nicht durchführbar ist oder
+5. wegen der organisatorischen Auswirkungen die Pädagogische Hochschule oder einzelne ihrer Organisationseinheiten an der Erfüllung der ihr übertragenen Aufgaben hindern könnte oder hindert.
 
-- unter Außerachtlassung von Verfahrensvorschriften zustande gekommen ist,
-
-- im Widerspruch zu geltendem Recht steht,
-
-- wegen der finanziellen Auswirkungen nicht durchführbar ist oder
-
-- wegen  der  organisatorischen  Auswirkungen  die  Pädagogische  Hochschule  oder  einzelne  ihrer Organisationseinheiten  an  der  Erfüllung  der  ihr  übertragenen  Aufgaben  hindern  könnte  oder hindert.
-
-- Die  Organe  der  Pädagogischen  Hochschule  sind  verpflichtet,  den  der  Rechtsanschauung  des zuständigen  Regierungsmitglieds  entsprechenden  Rechtszustand  mit  den  ihnen  rechtlich  zu  Gebote stehenden Mitteln  unverzüglich herzustellen,  widrigenfalls  die  zu  erfüllende  Aufgabe  vom  zuständigen Regierungsmitglied wahrzunehmen ist. Allenfalls zwischenzeitig ergangene Entscheidungen, Bescheide bzw. durchgeführte Wahlen leiden im Sinn des § 68 Abs. 4 Z 4 des Allgemeinen Verwaltungsverfahrensgesetzes 1991, BGBl. Nr. 51, an einem mit Nichtigkeit bedrohten Fehler.
+(4) Die Organe der Pädagogischen Hochschule sind verpflichtet, den der Rechtsanschauung des zuständigen Regierungsmitglieds entsprechenden Rechtszustand mit den ihnen rechtlich zu Gebote stehenden Mitteln unverzüglich herzustellen, widrigenfalls die zu erfüllende Aufgabe vom zuständigen Regierungsmitglied wahrzunehmen ist. Allenfalls zwischenzeitig ergangene Entscheidungen, Bescheide bzw. durchgeführte Wahlen leiden im Sinn des § 68 Abs. 4 Z 4 des Allgemeinen Verwaltungsverfahrensgesetzes 1991, BGBl. Nr. 51, an einem mit Nichtigkeit bedrohten Fehler.
 
 ### Verfahrensvorschriften
 
 § 25. (1) Für Verfahren der Organe der Pädagogischen Hochschule auf Grund dieses Bundesgesetzes ist das Allgemeine Verwaltungsverfahrensgesetz 1991, BGBl. Nr. 51, anzuwenden.
 
-- Beschwerden  in  Studienangelegenheiten  sind  bei  dem  Organ  einzubringen,  das  den  Bescheid erlassen  hat.  Dieses  hat,  wenn  die  Beschwerde nicht unzulässig oder verspätet ist, die Beschwerde  mit dem  gesamten  Akt  unverzüglich  der  Studienkommission  vorzulegen,  die  eine  Stellungnahme  zur Beschwerde abgeben kann. Liegt eine derartige Stellungnahme vor, so hat die Beschwerdevorentscheidung  unter  Beachtung  dieser  Stellungnahme  zu  erfolgen.  Wird  die  Beschwerde dem Verwaltungsgericht vorgelegt, so ist die Stellungnahme der Studienkommission anzuschließen.
+(2) Beschwerden in Studienangelegenheiten sind bei dem Organ einzubringen, das den Bescheid erlassen hat. Dieses hat, wenn die Beschwerde nicht unzulässig oder verspätet ist, die Beschwerde mit dem gesamten Akt unverzüglich der Studienkommission vorzulegen, die eine Stellungnahme zur Beschwerde abgeben kann. Liegt eine derartige Stellungnahme vor, so hat die Beschwerdevorentscheidung unter Beachtung dieser Stellungnahme zu erfolgen. Wird die Beschwerde dem Verwaltungsgericht vorgelegt, so ist die Stellungnahme der Studienkommission anzuschließen.
 
 ### Säumnis von Organen
 
-§ 27. (1) Kommt ein anderes als in Abs. 2 genanntes Organ einer Pädagogischen Hochschule einer ihm nach diesem Bundesgesetz oder nach aufgrund dieses Bundesgesetzes erlassenen Rechtsvorschriften obliegenden  Aufgabe  nicht  innerhalb  angemessener  Zeit  nach,  hat  das  Rektorat  auf  Antrag  von  davon betroffenen  Studierenden  der  Pädagogischen  Hochschule  oder  von  Amts  wegen  eine  Frist  von  vier Wochen zu setzen, innerhalb der das säumige Organ die zu erfüllende Aufgabe nachzuholen hat. Lässt dieses die Frist verstreichen, ist die zu erfüllende Aufgabe vom Rektorat wahrzunehmen (Ersatzvornahme). Dies gilt nicht im Anwendungsbereich des § 73 des Allgemeinen Verwaltungsverfahrensgesetzes 1991, BGBl. Nr. 51.
+§ 27. (1) Kommt ein anderes als in Abs. 2 genanntes Organ einer Pädagogischen Hochschule einer ihm nach diesem Bundesgesetz oder nach aufgrund dieses Bundesgesetzes erlassenen Rechtsvorschriften obliegenden Aufgabe nicht innerhalb angemessener Zeit nach, hat das Rektorat auf Antrag von davon betroffenen Studierenden der Pädagogischen Hochschule oder von Amts wegen eine Frist von vier Wochen zu setzen, innerhalb der das säumige Organ die zu erfüllende Aufgabe nachzuholen hat. Lässt dieses die Frist verstreichen, ist die zu erfüllende Aufgabe vom Rektorat wahrzunehmen (Ersatzvornahme). Dies gilt nicht im Anwendungsbereich des § 73 des Allgemeinen Verwaltungsverfahrensgesetzes 1991, BGBl. Nr. 51.
 
-- Ist die Studienkommission, das Rektorat oder der Rektor bzw. die Rektorin im Sinne des Abs. 1 säumig,  hat  der  Hochschulrat  auf  Antrag  von  davon  betroffenen  Studierenden  der  Pädagogischen Hochschule oder von Amts wegen die Maßnahmen gemäß Abs. 1 zu setzen.
+(2) Ist die Studienkommission, das Rektorat oder der Rektor bzw. die Rektorin im Sinne des Abs. 1 säumig, hat der Hochschulrat auf Antrag von davon betroffenen Studierenden der Pädagogischen Hochschule oder von Amts wegen die Maßnahmen gemäß Abs. 1 zu setzen.
 
-- Ist der Hochschulrat im Sinne des Abs. 2 oder in einer Angelegenheit des § 12 säumig, hat das zuständige Regierungsmitglied die Ersatzvornahme vorzunehmen.
+(3) Ist der Hochschulrat im Sinne des Abs. 2 oder in einer Angelegenheit des § 12 säumig, hat das zuständige Regierungsmitglied die Ersatzvornahme vorzunehmen.
 
 ## 7. Abschnitt
 
@@ -1027,21 +938,18 @@ Angelegenheiten der Pädagogischen Hochschule zu erteilen, Geschäftsstücke und
 
 ### Satzung
 
-§ 28. (1)  Jede  Pädagogische  Hochschule  hat  durch  Verordnung  die  zur  Erfüllung  ihrer  Aufgaben erforderlichen Ordnungsvorschriften auf Grund der bestehenden Gesetze und Verordnungen zu erlassen (Satzung).
+§ 28. (1) Jede Pädagogische Hochschule hat durch Verordnung die zur Erfüllung ihrer Aufgaben erforderlichen Ordnungsvorschriften auf Grund der bestehenden Gesetze und Verordnungen zu erlassen (Satzung).
 
-- In der Satzung sind zu regeln:
+(2) In der Satzung sind zu regeln:
 
-- Wahlordnungen für die Mitglieder des Lehrpersonals in der Studienkommission,
-
-- Einrichtung von für die Vollziehung studienrechtlicher Bestimmungen  in erster Instanz zuständigen monokratischen Organen,
-
-- Zusammensetzung des Arbeitskreises für Gleichbehandlungsfragen,
-
-- Erlassung eines Frauenförderungsplanes,
-
-Seite 16 von 41
+1. Wahlordnungen für die Mitglieder des Lehrpersonals in der Studienkommission,
+2. Einrichtung von für die Vollziehung studienrechtlicher Bestimmungen in erster Instanz zuständigen monokratischen Organen,
+3. Zusammensetzung des Arbeitskreises für Gleichbehandlungsfragen,
+4. Erlassung eines Frauenförderungsplanes,
 
 www.ris.bka.gv.at
+
+Seite 16 von 41
 
 [[END OF PAGE 16]]
 
@@ -1049,17 +957,13 @@ www.ris.bka.gv.at
 
 Bundesrecht konsolidiert
 
-- Betriebs- und Benutzungsordnungen für die Dienstleistungseinrichtungen,
+5. Betriebs- und Benutzungsordnungen für die Dienstleistungseinrichtungen,
+6. Regelungen für die Benützung von Räumen und Einrichtungen der Pädagogischen Hochschule durch Hochschulangehörige und im Rahmen der eigenen Rechtspersönlichkeit,
+7. Richtlinien für akademische Ehrungen,
+8. nähere Bestimmungen zur Nostrifizierung,
+9. nähere Bestimmungen zur Beurlaubung.
 
-- Regelungen für die Benützung von Räumen und Einrichtungen der Pädagogischen Hochschule durch Hochschulangehörige und im Rahmen der eigenen Rechtspersönlichkeit,
-
-- Richtlinien für akademische Ehrungen,
-
-- nähere Bestimmungen zur Nostrifizierung,
-
-- nähere Bestimmungen zur Beurlaubung.
-
-- Die Satzung ist vom Rektorat zu erlassen bzw. abzuändern; die Erlassung sowie jede Änderung der Satzung bedarf zu ihrer Wirksamkeit der Genehmigung durch den Hochschulrat. Die Satzung ist für die Dauer eines Monats ab der Erlassung bzw. einer Änderung auf geeignete Weise in der Pädagogischen Hochschule kundzumachen und sodann beim Rektor bzw. bei der Rektorin aufzulegen; auf Verlangen ist sie Studierenden, Lehrenden sowie sonstigen Bediensteten der Pädagogischen Hochschule zugänglich zu machen.
+(3) Die Satzung ist vom Rektorat zu erlassen bzw. abzuändern; die Erlassung sowie jede Änderung der Satzung bedarf zu ihrer Wirksamkeit der Genehmigung durch den Hochschulrat. Die Satzung ist für die Dauer eines Monats ab der Erlassung bzw. einer Änderung auf geeignete Weise in der Pädagogischen Hochschule kundzumachen und sodann beim Rektor bzw. bei der Rektorin aufzulegen; auf Verlangen ist sie Studierenden, Lehrenden sowie sonstigen Bediensteten der Pädagogischen Hochschule zugänglich zu machen.
 
 ### Organisationsplan
 
@@ -1067,33 +971,30 @@ Bundesrecht konsolidiert
 
 ### Ziel- und Leistungsplan
 
-§ 30. (1)  Das  Rektorat  hat  unter  den  Gesichtspunkten  der  Sparsamkeit,  Wirtschaftlichkeit  und Zweckmäßigkeit sowie im Rahmen der vom zuständigen Regierungsmitglied zu verordnenden Rahmenbedingungen einen Ziel- und Leistungsplan für jeweils  drei Jahre zu erstellen  und diesen dem Hochschulrat  zur  Beschlussfassung  vorzulegen.  Die  Aufnahme  der  Angebote  von  Bachelor-  und Masterstudien zur Erlangung eines Lehramtes in den Ziel- und Leistungsplan setzt die Prüfung und die positive Stellungnahme des Qualitätssicherungsrates gemäß § 74a Abs. 1 Z 3 und 4 voraus.
+§ 30. (1) Das Rektorat hat unter den Gesichtspunkten der Sparsamkeit, Wirtschaftlichkeit und Zweckmäßigkeit sowie im Rahmen der vom zuständigen Regierungsmitglied zu verordnenden Rahmenbedingungen einen Ziel- und Leistungsplan für jeweils drei Jahre zu erstellen und diesen dem Hochschulrat zur Beschlussfassung vorzulegen. Die Aufnahme der Angebote von Bachelor- und Masterstudien zur Erlangung eines Lehramtes in den Ziel- und Leistungsplan setzt die Prüfung und die positive Stellungnahme des Qualitätssicherungsrates gemäß § 74a Abs. 1 Z 3 und 4 voraus.
 
-- Inhalt des Ziel- und Leistungsplans sind insbesondere:
+(2) Inhalt des Ziel- und Leistungsplans sind insbesondere:
 
-- strategische Ziele, Schwerpunkte, Profilbildung,
+1. strategische Ziele, Schwerpunkte, Profilbildung,
+2. die zur Erreichung der Ziele bzw. Schwerpunkte notwendigen Maßnahmen sowie zu erbringenden Leistungen in qualitativer und quantitativer Hinsicht.
 
-- die zur Erreichung der Ziele bzw. Schwerpunkte notwendigen Maßnahmen sowie zu erbringenden Leistungen in qualitativer und quantitativer Hinsicht.
-
-- Der  Hochschulrat  hat  den  vorgelegten  Ziel-  und  Leistungsplan  innerhalb  von  vier  Wochen  zu beschließen und an das zuständige Regierungsmitglied zur Genehmigung weiterzuleiten.
+(3) Der Hochschulrat hat den vorgelegten Ziel- und Leistungsplan innerhalb von vier Wochen zu beschließen und an das zuständige Regierungsmitglied zur Genehmigung weiterzuleiten.
 
 ### Ressourcenplan
 
-§ 31. (1)  Das  Rektorat  hat  dem  Hochschulrat  einmal  jährlich  einen  Ressourcenplan  für  das kommende Jahr zur Beschlussfassung vorzulegen.
+§ 31. (1) Das Rektorat hat dem Hochschulrat einmal jährlich einen Ressourcenplan für das kommende Jahr zur Beschlussfassung vorzulegen.
 
-- Der Ressourcenplan hat unter Beachtung der Vorgaben des zuständigen Regierungsmitglieds den zur Erreichung der Ziele und Erbringung der Leistungen notwendigen Personal-, Raum-, Anlagen- und Aufwandsbedarf zu enthalten. Zusätzlich sind im Hinblick auf den Ziel- und Leistungsplan Angaben
+(2) Der Ressourcenplan hat unter Beachtung der Vorgaben des zuständigen Regierungsmitglieds den zur Erreichung der Ziele und Erbringung der Leistungen notwendigen Personal-, Raum-, Anlagen- und Aufwandsbedarf zu enthalten. Zusätzlich sind im Hinblick auf den Ziel- und Leistungsplan Angaben
 
-- zum Grad der Zielerreichung,
+1. zum Grad der Zielerreichung,
+2. zum Erfolg der Maßnahmen bzw. zu notwendigen Anpassungen und
+3. zum Leistungsangebot
 
-- zum Erfolg der Maßnahmen bzw. zu notwendigen Anpassungen und
+aufzunehmen. Ebenso hat der Ressourcenplan eine Ressourcenbilanz, einschließlich eines Rechnungsabschlusses zur Tätigkeit der Pädagogischen Hochschule im Rahmen der eigenen Rechtspersönlichkeit, zum abgelaufenen Jahr sowie eine Darstellung der erwarteten Entwicklung des Leistungsangebots und der dafür einzusetzenden Ressourcen für die kommenden drei Jahre zu enthalten. In den Ressourcenplan sind darüber hinaus betriebs- und finanztechnische sowie outputorientierte Kennzahlen aufzunehmen.
 
-- zum Leistungsangebot
+(3) Der Hochschulrat hat den Ressourcenplan nach der Beschlussfassung an das zuständige Regierungsmitglied zur Genehmigung weiterzuleiten.
 
-aufzunehmen. Ebenso hat der Ressourcenplan eine Ressourcenbilanz, einschließlich eines Rechnungsabschlusses zur Tätigkeit der Pädagogischen Hochschule im Rahmen der eigenen Rechtspersönlichkeit,  zum  abgelaufenen  Jahr  sowie  eine  Darstellung  der  erwarteten  Entwicklung  des Leistungsangebots und der dafür einzusetzenden Ressourcen für die kommenden drei Jahre zu enthalten. In  den  Ressourcenplan  sind  darüber  hinaus  betriebs-  und  finanztechnische  sowie  outputorientierte Kennzahlen aufzunehmen.
-
-- Der  Hochschulrat  hat  den  Ressourcenplan  nach  der  Beschlussfassung  an  das  zuständige Regierungsmitglied zur Genehmigung weiterzuleiten.
-
-- Sämtliche Organe der Pädagogischen Hochschule sind verpflichtet, dem zuständigen Regierungsmitglied  alle  zweckdienlichen  Auskünfte  zu  erteilen,  Unterlagen  vorzulegen  und  von  ihm angeordnete Erhebungen durchzuführen.
+(4) Sämtliche Organe der Pädagogischen Hochschule sind verpflichtet, dem zuständigen Regierungsmitglied alle zweckdienlichen Auskünfte zu erteilen, Unterlagen vorzulegen und von ihm angeordnete Erhebungen durchzuführen.
 
 www.ris.bka.gv.at
 
@@ -1111,39 +1012,31 @@ Bundesrecht konsolidiert
 
 (2) Im Mitteilungsblatt sind kundzumachen:
 
-- die  Satzung,  der  Organisationsplan  und  andere  Verordnungen  (generelle  Richtlinien)  von Organen der Pädagogischen Hochschule,
-
-- ein Verzeichnis der Lehrveranstaltungen als Information über den Titel, die Art, die Zeit und den Ort der Abhaltung der Lehrveranstaltungen,
-
-- Verordnungen und Geschäftsordnungen von Organen,
-
-- die Curricula und Prüfungsordnungen,
-
-- von  der  Pädagogischen  Hochschule  zu  verleihende  akademische  Grade  sowie  akademische Bezeichnungen bei Abschluss von Hochschullehrgängen,
-
-- Mitteilungen an die Studierenden sowie sonstige Verlautbarungen von allgemeinem Interesse,
-
-- die Ausschreibung und Ergebnisse von Wahlen,
-
-- die Mitglieder der Organe der Pädagogischen Hochschule,
-
-- die Art der Verwendung der Studienbeiträge sowie des Studienbeitragsersatzes.
+1. die Satzung, der Organisationsplan und andere Verordnungen (generelle Richtlinien) von Organen der Pädagogischen Hochschule,
+2. ein Verzeichnis der Lehrveranstaltungen als Information über den Titel, die Art, die Zeit und den Ort der Abhaltung der Lehrveranstaltungen,
+3. Verordnungen und Geschäftsordnungen von Organen,
+4. die Curricula und Prüfungsordnungen,
+5. von der Pädagogischen Hochschule zu verleihende akademische Grade sowie akademische Bezeichnungen bei Abschluss von Hochschullehrgängen,
+6. Mitteilungen an die Studierenden sowie sonstige Verlautbarungen von allgemeinem Interesse,
+7. die Ausschreibung und Ergebnisse von Wahlen,
+8. die Mitglieder der Organe der Pädagogischen Hochschule,
+9. die Art der Verwendung der Studienbeiträge sowie des Studienbeitragsersatzes.
 
 ### Evaluierung und Qualitätsentwicklung
 
 § 33. (1) Die Pädagogischen Hochschulen haben zur Qualitäts- und Leistungssicherung ein eigenes Qualitätsmanagementsystem aufzubauen und regelmäßig interne Evaluierungen vorzunehmen.
 
-- Gegenstand der Evaluierung sind die Aufgaben und Tätigkeiten sowie das gesamte Leistungsspektrum der Pädagogischen Hochschule.
+(2) Gegenstand der Evaluierung sind die Aufgaben und Tätigkeiten sowie das gesamte Leistungsspektrum der Pädagogischen Hochschule.
 
-- Bei externen Evaluierungen haben die betreffenden Pädagogischen Hochschulen und ihre Organe die für die Evaluierungen erforderlichen Daten und Informationen zur Verfügung zu stellen und sind zur Mitwirkung verpflichtet.
+(3) Bei externen Evaluierungen haben die betreffenden Pädagogischen Hochschulen und ihre Organe die für die Evaluierungen erforderlichen Daten und Informationen zur Verfügung zu stellen und sind zur Mitwirkung verpflichtet.
 
 ### Internes Rechnungswesen
 
 § 34. (1) An jeder Pädagogischen Hochschule ist unter der Verantwortung und Leitung des Rektorats eine Kosten- und Leistungsrechnung einzurichten.
 
-- Das zuständige Regierungsmitglied hat durch Verordnung nähere Bestimmungen zu den §§ 30 bis 34 festzulegen.
+(2) Das zuständige Regierungsmitglied hat durch Verordnung nähere Bestimmungen zu den §§ 30 bis 34 festzulegen.
 
-- Die Pädagogischen Hochschulen unterliegen der Kontrolle durch den Rechnungshof.
+(3) Die Pädagogischen Hochschulen unterliegen der Kontrolle durch den Rechnungshof.
 
 # 2. Hauptstück
 
@@ -1156,15 +1049,11 @@ Bundesrecht konsolidiert
 
 § 35. Im Anwendungsbereich dieses Bundesgesetzes gelten folgende Begriffsbestimmungen:
 
-- Studiengänge  sind  sechssemestrige  Studien,  deren  Arbeitsaufwand  180  ECTS-Credits  beträgt und die der Erlangung eines Lehramtes dienen.
-
-- 1a. (Anm.: Tritt mit 1.10.2019 in Kraft.)
-
-- 1b. Facheinschlägige Studien ergänzende Studien zur Erlangung eines Lehramtes sind berufsbegleitende Studien, die facheinschlägige Studien im Umfang von mindestens 180 ECTSCredits an einer anerkannten postsekundären Bildungseinrichtung (sowie eine facheinschlägige Berufspraxis) um die didaktischen und pädagogischen Inhalte ergänzen und der Erlangung eines Lehramtes mit nur einem Studienfach im Bereich der Allgemeinbildung oder eines Lehramtes im Bereich der Berufsbildung dienen. Ihr Arbeitsaufwand beträgt mindestens 60 ECTS-Credits. Die genaueren Regelungen insbesondere zu den Aufnahmsvoraussetzungen und dem Arbeitsaufwand sind durch Verordnung des zuständigen Regierungsmitglieds festzulegen.
-
-- Hochschullehrgänge sind Bildungsangebote, deren Arbeitsaufwand mindestens 60 ECTS-Credits beträgt.
-
-- Lehrgänge sind Bildungsangebote, die nicht Hochschullehrgänge sind.
+1. Studiengänge sind sechssemestrige Studien, deren Arbeitsaufwand 180 ECTS-Credits beträgt und die der Erlangung eines Lehramtes dienen.
+1a. (Anm.: Tritt mit 1.10.2019 in Kraft.)
+1b. Facheinschlägige Studien ergänzende Studien zur Erlangung eines Lehramtes sind berufsbegleitende Studien, die facheinschlägige Studien im Umfang von mindestens 180 ECTS-Credits an einer anerkannten postsekundären Bildungseinrichtung (sowie eine facheinschlägige Berufspraxis) um die didaktischen und pädagogischen Inhalte ergänzen und der Erlangung eines Lehramtes mit nur einem Studienfach im Bereich der Allgemeinbildung oder eines Lehramtes im Bereich der Berufsbildung dienen. Ihr Arbeitsaufwand beträgt mindestens 60 ECTS-Credits. Die genaueren Regelungen insbesondere zu den Aufnahmsvoraussetzungen und dem Arbeitsaufwand sind durch Verordnung des zuständigen Regierungsmitglieds festzulegen.
+2. Hochschullehrgänge sind Bildungsangebote, deren Arbeitsaufwand mindestens 60 ECTS-Credits beträgt.
+3. Lehrgänge sind Bildungsangebote, die nicht Hochschullehrgänge sind.
 
 www.ris.bka.gv.at
 
@@ -1176,17 +1065,15 @@ Seite 18 von 41
 
 Bundesrecht konsolidiert
 
-- Gemeinsame Studienprogramme sind Studien, die auf Grund von Vereinbarungen zwischen einer oder mehreren  Pädagogischen  Hochschulen,  österreichischen Universitäten, Erhaltern  von Fachhochschul-Studiengängen oder Privatuniversitäten sowie ausländischen anerkannten postsekundären  Bildungseinrichtungen  in  der  Form  eines  joint,  double  oder  multiple  degree programs  durchgeführt  werden,  wobei  in  diesen  Vereinbarungen  festgelegt  sein  muss,  welche Leistungen die betreffenden Studierenden an den beteiligten Institutionen zu erbringen haben.
-
-- 4a. Gemeinsam  eingerichtete  Studien  sind  Studien  gemäß  § 10,  bei  denen  zwei  oder  mehrere Pädagogische Hochschulen oder eine (oder mehrere) Pädagogische Hochschule(n) in Kooperation mit einer (oder mehreren) Universität(en), Erhaltern von FachhochschulStudiengängen,  BGBl.  Nr.  340/1993,  bzw.  ausländischen  Hochschulen  ein  gleichlautendes Curriculum  erlassen,  in  dem vorzusehen  ist, welche  Studienteile  von welcher  Institution durchgeführt  werden.  In  einer  Kooperationsvereinbarung  sind  insbesondere  die  Arbeits-,  die Ressourcenaufteilung sowie die Aufnahmsvoraussetzungen festzulegen.
-
-- Soweit von Studierenden die Rede ist, sind die betreffenden Bestimmungen auf Studierende  der Erstausbildung  für  ein  Lehramt  für  allgemein  bildenden  Pflichtschulen,  auf  Studierende  der Erstausbildung für ein Lehramt für berufsbildende Schulen, auf Studierende im Rahmen der Fortund  Weiterbildung  (unabhängig  von  einem  allenfalls  bestehenden  Dienstverhältnis)  oder  auf sonstige Studierende von Studienangeboten in der (wissenschaftlich-berufsfeldbezogenen) Aus-, Fort-  und  Weiterbildung  und  in  allgemein  pädagogischen  Angelegenheiten  der  Betreuung  von Kindern und Jugendlichen jeweils sinngemäß anzuwenden.
+4. Gemeinsame Studienprogramme sind Studien, die auf Grund von Vereinbarungen zwischen einer oder mehreren Pädagogischen Hochschulen, österreichischen Universitäten, Erhaltern von Fachhochschul-Studiengängen oder Privatuniversitäten sowie ausländischen anerkannten postsekundären Bildungseinrichtungen in der Form eines joint, double oder multiple degree programs durchgeführt werden, wobei in diesen Vereinbarungen festgelegt sein muss, welche Leistungen die betreffenden Studierenden an den beteiligten Institutionen zu erbringen haben.
+4a. Gemeinsam eingerichtete Studien sind Studien gemäß § 10, bei denen zwei oder mehrere Pädagogische Hochschulen oder eine (oder mehrere) Pädagogische Hochschule(n) in Kooperation mit einer (oder mehreren) Universität(en), Erhaltern von Fachhochschul-Studiengängen, BGBl. Nr. 340/1993, bzw. ausländischen Hochschulen ein gleichlautendes Curriculum erlassen, in dem vorzusehen ist, welche Studienteile von welcher Institution durchgeführt werden. In einer Kooperationsvereinbarung sind insbesondere die Arbeits-, die Ressourcenaufteilung sowie die Aufnahmsvoraussetzungen festzulegen.
+5. Soweit von Studierenden die Rede ist, sind die betreffenden Bestimmungen auf Studierende der Erstausbildung für ein Lehramt für allgemein bildenden Pflichtschulen, auf Studierende der Erstausbildung für ein Lehramt für berufsbildende Schulen, auf Studierende im Rahmen der Fort- und Weiterbildung (unabhängig von einem allenfalls bestehenden Dienstverhältnis) oder auf sonstige Studierende von Studienangeboten in der (wissenschaftlich-berufsfeldbezogenen) Aus-, Fort- und Weiterbildung und in allgemein pädagogischen Angelegenheiten der Betreuung von Kindern und Jugendlichen jeweils sinngemäß anzuwenden.
 
 ### Studienjahr
 
-§ 36. (1)  Das  Studienjahr  beginnt  am  1. Oktober und endet am 30. September des Folgejahres. Es besteht aus dem Wintersemester, dem Sommersemester und der lehrveranstaltungsfreien Zeit.
+§ 36. (1) Das Studienjahr beginnt am 1. Oktober und endet am 30. September des Folgejahres. Es besteht aus dem Wintersemester, dem Sommersemester und der lehrveranstaltungsfreien Zeit.
 
-- Die  näheren  Bestimmungen  über  das  Studienjahr,  die  lehrveranstaltungsfreie  Zeit  sowie  die zeitliche  Gestaltung  der  Studien  sind  durch  Verordnung  des  zuständigen  Regierungsmitglieds  und  im Rahmen einer allfälligen Ermächtigung durch die Studienkommission festzulegen.
+(2) Die näheren Bestimmungen über das Studienjahr, die lehrveranstaltungsfreie Zeit sowie die zeitliche Gestaltung der Studien sind durch Verordnung des zuständigen Regierungsmitglieds und im Rahmen einer allfälligen Ermächtigung durch die Studienkommission festzulegen.
 
 ### Fernstudien
 
@@ -1199,11 +1086,11 @@ Bundesrecht konsolidiert
 
 § 38. (1) An den Pädagogischen Hochschulen sind Studiengänge (§ 35 Z 1) einzurichten.
 
-- Studiengänge schließen mit dem akademischen Grad 'Bachelor of Education' ('BEd') ab.
+(2) Studiengänge schließen mit dem akademischen Grad „Bachelor of Education“ („BEd“) ab.
 
-- Studiengänge können auch als gemeinsame Studienprogramme angeboten und geführt werden.
+(3) Studiengänge können auch als gemeinsame Studienprogramme angeboten und geführt werden.
 
-- An  Hochschulen  für  Agrar-  und  Umweltpädagogik  Wien  umfasst  der  akademische  Grad  des 'Bachelor of Education' auch die 'Befähigung  für den  land-  und  forstwirtschaftlichen  Beratungs-  und Förderungsdienst'.
+(4) An Hochschulen für Agrar- und Umweltpädagogik Wien umfasst der akademische Grad des „Bachelor of Education“ auch die „Befähigung für den land- und forstwirtschaftlichen Beratungs- und Förderungsdienst“.
 
 ### Beachte für folgende Bestimmung
 
@@ -1215,9 +1102,9 @@ Abs. 1: Zum Ende des Bezugszeitraums vgl. § 80 Abs. 8 Z 3.
 
 (1a) Facheinschlägige Studien ergänzende Studien zur Erlangung eines Lehramtes für die Sekundarstufe (Allgemeinbildung) oder eines Lehramtes im Bereich der Sekundarstufe (Berufsbildung)
 
-Seite 19 von 41
-
 www.ris.bka.gv.at
+
+Seite 19 von 41
 
 [[END OF PAGE 19]]
 
@@ -1225,11 +1112,11 @@ www.ris.bka.gv.at
 
 Bundesrecht konsolidiert
 
-schließen mit einem 'Bachelor of Education' ('BEd') ab. Sie haben jedenfalls die Bachelorarbeit sowie die  jeweils  vorgesehenen  Studienfachbereiche  mit  Ausnahme  des  fachwissenschaftlichen  Anteils  zu umfassen.
+schließen mit einem „Bachelor of Education“ („BEd“) ab. Sie haben jedenfalls die Bachelorarbeit sowie die jeweils vorgesehenen Studienfachbereiche mit Ausnahme des fachwissenschaftlichen Anteils zu umfassen.
 
-- Pädagogische  Hochschulen  können  diese  nur  für  jene  Lehrämter  anbieten,  die  sie  auch  als Bachelorstudien gemäß § 38 Abs. 2 führen.
+(2) Pädagogische Hochschulen können diese nur für jene Lehrämter anbieten, die sie auch als Bachelorstudien gemäß § 38 Abs. 2 führen.
 
-- Die für Bachelorstudien geltenden Bestimmungen dieses Abschnitts gelten sinngemäß.
+(3) Die für Bachelorstudien geltenden Bestimmungen dieses Abschnitts gelten sinngemäß.
 
 ### Beachte für folgende Bestimmung
 
@@ -1241,11 +1128,11 @@ Abs. 2 tritt hinsichtlich der Masterstudien mit 1. Oktober 2019 in Kraft. Pädag
 
 ### Lehrgänge, Hochschullehrgänge
 
-§ 39. (1)  An  den  Pädagogischen Hochschulen sind Lehrgänge (§ 35 Z 3) und Hochschullehrgänge (§ 35 Z 2), deren Arbeitsaufwand mindestens 60 und höchstens 90 ECTS-Credits beträgt, zur Fort- und Weiterbildung  und  in  allgemein  pädagogischen  Angelegenheiten  der  Betreuung  von  Kindern  und Jugendlichen einzurichten. Es sind weiters Hochschullehrgänge (§ 35 Z 2) zur Ausbildung für Erzieherinnen  und  Erzieher  für  die  Freizeit  an  ganztägigen  Schulformen  (Hochschullehrgänge  für Freizeitpädagogik) einzurichten, deren Arbeitsaufwand 60 ECTS-Credits beträgt. Die Hochschullehrgänge  schließen  mit  der  Bezeichnung  'Akademischer  bzw.  Akademische  …'  mit  einem die Inhalte des jeweiligen Hochschullehrganges charakterisierenden Zusatz ab. Weiters können Hochschullehrgänge zur wissenschaftlich-berufsfeldbezogenen Weiterbildung im Umfang von mindestens 90 und höchstens 120 ECTS-Credits bedarfsgerecht und nach Prüfung über die Erfüllung der wissenschaftlichen  und  professionsorientierten  Voraussetzungen  im  Sinne  des  §  74a  Abs. 1  Z 3  nach Maßgabe der Schwerpunktsetzungen des zuständigen Regierungsmitgliedes im Rahmen des öffentlichrechtlichen Bildungsauftrages eingerichtet werden. Sie schließen mit dem akademischen Grad 'Master of Education ('MEd') ab.
+§ 39. (1) An den Pädagogischen Hochschulen sind Lehrgänge (§ 35 Z 3) und Hochschullehrgänge (§ 35 Z 2), deren Arbeitsaufwand mindestens 60 und höchstens 90 ECTS-Credits beträgt, zur Fort- und Weiterbildung und in allgemein pädagogischen Angelegenheiten der Betreuung von Kindern und Jugendlichen einzurichten. Es sind weiters Hochschullehrgänge (§ 35 Z 2) zur Ausbildung für Erzieherinnen und Erzieher für die Freizeit an ganztägigen Schulformen (Hochschullehrgänge für Freizeitpädagogik) einzurichten, deren Arbeitsaufwand 60 ECTS-Credits beträgt. Die Hochschullehrgänge schließen mit der Bezeichnung „Akademischer bzw. Akademische …“ mit einem die Inhalte des jeweiligen Hochschullehrganges charakterisierenden Zusatz ab. Weiters können Hochschullehrgänge zur wissenschaftlich-berufsfeldbezogenen Weiterbildung im Umfang von mindestens 90 und höchstens 120 ECTS-Credits bedarfsgerecht und nach Prüfung über die Erfüllung der wissenschaftlichen und professionsorientierten Voraussetzungen im Sinne des § 74a Abs. 1 Z 3 nach Maßgabe der Schwerpunktsetzungen des zuständigen Regierungsmitgliedes im Rahmen des öffentlich-rechtlichen Bildungsauftrages eingerichtet werden. Sie schließen mit dem akademischen Grad „Master of Education („MEd“) ab.
 
-(2)  Im  Rahmen  der  eigenen  Rechtspersönlichkeit  der  Pädagogischen  Hochschule  können  in sämtlichen pädagogischen Berufsfeldern Lehrgänge und Hochschullehrgänge (insbesondere zur wissenschaftlichen  berufsfeldbezogenen  Fort-  und  Weiterbildung)  eingerichtet  werden,  die  auf  andere pädagogische  Berufsfelder als jene der Bachelorund  Masterstudien ausgerichtet sind. Für die Hochschullehrgänge sind international gebräuchliche Mastergrade festzulegen, wenn deren Arbeitsaufwand mindestens 90 und höchstens 120 ECTS-Credits beträgt.
+(2) Im Rahmen der eigenen Rechtspersönlichkeit der Pädagogischen Hochschule können in sämtlichen pädagogischen Berufsfeldern Lehrgänge und Hochschullehrgänge (insbesondere zur wissenschaftlichen berufsfeldbezogenen Fort- und Weiterbildung) eingerichtet werden, die auf andere pädagogische Berufsfelder als jene der Bachelor- und Masterstudien ausgerichtet sind. Für die Hochschullehrgänge sind international gebräuchliche Mastergrade festzulegen, wenn deren Arbeitsaufwand mindestens 90 und höchstens 120 ECTS-Credits beträgt.
 
-(3)  Hochschullehrgänge  und  Lehrgänge  können  auch  als  gemeinsame  Studienprogramme  oder  als gemeinsam  eingerichtete  Studien  und  während  der  sonst  lehrveranstaltungsfreien  Zeit  angeboten  und durchgeführt werden.
+(3) Hochschullehrgänge und Lehrgänge können auch als gemeinsame Studienprogramme oder als gemeinsam eingerichtete Studien und während der sonst lehrveranstaltungsfreien Zeit angeboten und durchgeführt werden.
 
 ### Beachte für folgende Bestimmung
 
@@ -1293,29 +1180,22 @@ Abs. 4: Zum Inkrafttreten vgl. § 80 Abs. 8 Z 1 und 2.
 
 (1a) (Anm.: Tritt mit 1.10.2015 in Kraft.)
 
-(1b) Für Studierende mit einer Behinderung im Sinne des § 3 des BundesBehindertengleichstellungsgesetzes,  BGBl.  I  Nr.  82/2005,  sind  die  Anforderungen  der  Curricula  allenfalls unter Bedachtnahme auf gemäß § 63 Abs. 1 Z 7 beantragte abweichende Prüfungsmethoden zu modifizieren (individuelles Curriculum), wobei das Ausbildungsziel des gewählten  Studiums erreichbar sein muss.
+(1b) Für Studierende mit einer Behinderung im Sinne des § 3 des Bundes-Behindertengleichstellungsgesetzes, BGBl. I Nr. 82/2005, sind die Anforderungen der Curricula – allenfalls unter Bedachtnahme auf gemäß § 63 Abs. 1 Z 7 beantragte abweichende Prüfungsmethoden – zu modifizieren (individuelles Curriculum), wobei das Ausbildungsziel des gewählten Studiums erreichbar sein muss.
 
-(2) Das zuständige Regierungsmitglied hat durch Verordnung nach den Aufgaben der Pädagogischen Hochschule sowie nach der Dauer der Ausbildung Grundsätze für die nähere Gestaltung der Curricula (einschließlich  der  Prüfungsordnungen)  festzulegen,  wenn  dies  im  Hinblick  auf  eine  einheitliche Ausbildung erforderlich ist. Die Verordnung hat insbesondere vorzusehen:
+(2) Das zuständige Regierungsmitglied hat durch Verordnung nach den Aufgaben der Pädagogischen Hochschule sowie nach der Dauer der Ausbildung Grundsätze für die nähere Gestaltung der Curricula (einschließlich der Prüfungsordnungen) festzulegen, wenn dies im Hinblick auf eine einheitliche Ausbildung erforderlich ist. Die Verordnung hat insbesondere vorzusehen:
 
-- die Bildungsziele,
+1. die Bildungsziele,
+2. (Anm.: aufgehoben durch BGBl. I Nr. 124/2013)
+3. den Umfang der jedenfalls verpflichtend vorzusehenden Studienfachbereiche,
+4. nähere Bestimmungen über die Bachelorprüfungen.
 
-(Anm.: aufgehoben durch BGBl. I Nr. 124/2013)
+(3) Die Curricula haben unter Bedachtnahme auf die Verordnung gemäß Abs. 2 sowie weiters unter Bedachtnahme auf die Bestimmungen dieses Bundesgesetzes jedenfalls zu enthalten:
 
-- den Umfang der jedenfalls verpflichtend vorzusehenden Studienfachbereiche,
-
-- nähere Bestimmungen über die Bachelorprüfungen.
-
-- Die Curricula haben unter Bedachtnahme auf die Verordnung gemäß Abs. 2 sowie weiters unter Bedachtnahme auf die Bestimmungen dieses Bundesgesetzes jedenfalls zu enthalten:
-
-- die verpflichtend vorgesehenen Studienveranstaltungen, deren Art und Ausmaß,
-
-- die Bildungsziele und -inhalte sowie die zu erwerbenden Kompetenzen,
-
-- die Art der Studienveranstaltungen (zB Vorlesung, Seminar, Übung, Praktika),
-
-- Art  und  Umfang  sowie  die  näheren  Bestimmungen  über  die  Durchführung  von  Prüfungen (Prüfungsordnung),
-
-- die Anzahl der durch die Studien zu erwerbenden ECTS-Credits.
+1. die verpflichtend vorgesehenen Studienveranstaltungen, deren Art und Ausmaß,
+2. die Bildungsziele und -inhalte sowie die zu erwerbenden Kompetenzen,
+3. die Art der Studienveranstaltungen (zB Vorlesung, Seminar, Übung, Praktika),
+4. Art und Umfang sowie die näheren Bestimmungen über die Durchführung von Prüfungen (Prüfungsordnung),
+5. die Anzahl der durch die Studien zu erwerbenden ECTS-Credits.
 
 (4) Curricula sind vor deren Erlassung sowie vor wesentlichen Änderungen durch die Studienkommission einem Begutachtungsverfahren zu unterziehen. Im Rahmen dieses Begutachtungsverfahrens ist dem zu begutachtenden Curriculum ein Qualifikationsprofil anzuschließen, welches eine Beschreibung der Umsetzung der Aufgaben und der leitenden Grundsätze beinhaltet und die Vergleichbarkeit mit Curricula gleichartiger Studien darlegt. Curricula für Studien zur Erlangung eines Lehramtes sind dem Qualitätssicherungsrat für Pädagoginnen- und Pädagogenbildung zur Stellungnahme zuzuleiten. Die Curricula bedürfen der Genehmigung des Rektorats.
 
@@ -1341,21 +1221,18 @@ Bundesrecht konsolidiert
 
 § 43. (1)  Die  Prüfungsordnung  ist  Teil  des  durch  die  Studienkommission  zu  verordnenden Curriculums.
 
-(2)  Die  Prüfungsordnung  hat  unter  Bedachtnahme  auf  die  Verordnung  gemäß  § 42  Abs. 2  sowie weiters  unter  Bedachtnahme  auf  bestehende  Vorschriften  und  die  nachstehenden  Absätze  die  näheren Bestimmungen über die Durchführung allenfalls im Rahmen eines Studiums abzuhaltender Prüfungen zu regeln; sie hat jedenfalls zu enthalten:
+(2) Die Prüfungsordnung hat unter Bedachtnahme auf die Verordnung gemäß § 42 Abs. 2 sowie weiters unter Bedachtnahme auf bestehende Vorschriften und die nachstehenden Absätze die näheren Bestimmungen über die Durchführung allenfalls im Rahmen eines Studiums abzuhaltender Prüfungen zu regeln; sie hat jedenfalls zu enthalten:
 
-- die Art und den Umfang der Prüfungen und wissenschaftlich-berufsfeldbezogenen Arbeiten,
+1. die Art und den Umfang der Prüfungen und wissenschaftlich-berufsfeldbezogenen Arbeiten,
+2. die Bestellungsweise der mit der Durchführung von Prüfungen betrauten Personen, wobei für Bachelorprüfungen nach den organisatorischen Gegebenheiten Wahlmöglichkeiten für die Studierenden vorzusehen sind,
+3. die Anmeldeerfordernisse sowie Anmeldeverfahren,
+4. generelle Beurteilungskriterien.
 
-- die  Bestellungsweise  der  mit  der  Durchführung  von  Prüfungen  betrauten  Personen,  wobei  für Bachelorprüfungen nach den organisatorischen Gegebenheiten  Wahlmöglichkeiten  für  die Studierenden vorzusehen sind,
+(3) Der positive Erfolg von Prüfungen und wissenschaftlichberufsfeldbezogenen Arbeiten ist mit „sehr gut“ (1), „gut“ (2), „befriedigend“ (3) oder „genügend“ (4), der negative Erfolg ist mit „nicht genügend“ (5) zu beurteilen. Zwischenbeurteilungen sind unzulässig. Wenn diese Form der Beurteilung unmöglich oder unzweckmäßig ist, hat die positive Beurteilung „mit Erfolg teilgenommen“, die negative Beurteilung „ohne Erfolg teilgenommen“ zu lauten.
 
-- die Anmeldeerfordernisse sowie Anmeldeverfahren,
+(4) Bei studienabschließenden Prüfungen, die mehr als ein Fach umfassen, ist zusätzlich zu den Beurteilungen für die einzelnen Fächer eine Gesamtbeurteilung zu vergeben. Diese hat „bestanden“ zu lauten, wenn jedes Fach positiv beurteilt wurde, anderenfalls hat sie „nicht bestanden“ zu lauten. Die Gesamtbeurteilung hat „mit Auszeichnung bestanden“ zu lauten, wenn in keinem Fach eine schlechtere Beurteilung als „gut“ und in mindestens der Hälfte der Fächer die Beurteilung „sehr gut“ erteilt wurde.
 
-- generelle Beurteilungskriterien.
-
-(3)  Der  positive  Erfolg  von  Prüfungen  und  wissenschaftlichberufsfeldbezogenen  Arbeiten  ist  mit 'sehr  gut'  (1),  'gut'  (2),  'befriedigend'  (3)  oder  'genügend'  (4),  der  negative  Erfolg  ist  mit  'nicht genügend' (5) zu beurteilen. Zwischenbeurteilungen sind unzulässig. Wenn diese Form der Beurteilung unmöglich oder unzweckmäßig ist, hat die positive Beurteilung 'mit Erfolg teilgenommen', die negative Beurteilung 'ohne Erfolg teilgenommen' zu lauten.
-
-(4)  Bei  studienabschließenden  Prüfungen,  die  mehr  als  ein  Fach  umfassen,  ist  zusätzlich  zu  den Beurteilungen für die einzelnen Fächer eine Gesamtbeurteilung zu vergeben. Diese hat 'bestanden' zu lauten,  wenn  jedes  Fach  positiv  beurteilt  wurde,  anderenfalls  hat  sie  'nicht  bestanden'  zu  lauten.  Die Gesamtbeurteilung hat 'mit Auszeichnung bestanden' zu lauten, wenn in keinem Fach eine schlechtere Beurteilung als 'gut' und in mindestens der Hälfte der Fächer die Beurteilung 'sehr gut' erteilt wurde.
-
-(5)  Bei  negativer  Beurteilung  einer  Prüfung  stehen  insgesamt  drei  Wiederholungen  zu,  wobei  die letzte Wiederholung als kommissionelle Prüfung abzulegen ist.
+(5) Bei negativer Beurteilung einer Prüfung stehen insgesamt drei Wiederholungen zu, wobei die letzte Wiederholung als kommissionelle Prüfung abzulegen ist.
 
 ### Rechtsschutz bei Prüfungen
 
@@ -1371,31 +1248,31 @@ Seite 22 von 41
 
 Bundesrecht konsolidiert
 
-- Mündliche Prüfungen sind öffentlich. Die Prüferin bzw. der Prüfer oder die bzw. der Vorsitzende einer  Prüfungskommission  ist  berechtigt,  den Zutritt erforderlichenfalls  auf  eine  den  räumlichen Verhältnissen  entsprechende  Anzahl  von  Personen  zu  beschränken.  Bei  kommissionellen  mündlichen Prüfungen hat jedes Mitglied der Prüfungskommission während der gesamten Prüfungszeit anwesend zu sein. Das Ergebnis einer mündlichen Prüfung ist unmittelbar nach der Prüfung bekannt zu geben. Wurde die Prüfung negativ beurteilt, sind auch die Gründe dafür zu erläutern.
+(2) Mündliche Prüfungen sind öffentlich. Die Prüferin bzw. der Prüfer oder die bzw. der Vorsitzende einer Prüfungskommission ist berechtigt, den Zutritt erforderlichenfalls auf eine den räumlichen Verhältnissen entsprechende Anzahl von Personen zu beschränken. Bei kommissionellen mündlichen Prüfungen hat jedes Mitglied der Prüfungskommission während der gesamten Prüfungszeit anwesend zu sein. Das Ergebnis einer mündlichen Prüfung ist unmittelbar nach der Prüfung bekannt zu geben. Wurde die Prüfung negativ beurteilt, sind auch die Gründe dafür zu erläutern.
 
-- Wenn die Beurteilungsunterlagen (insbesondere Gutachten, Korrekturen schriftlicher Prüfungen und  Prüfungsarbeiten)  den  Studierenden  nicht  ausgehändigt  werden,  ist  sicherzustellen,  dass  diese mindestens sechs Jahre ab der Bekanntgabe der Beurteilung aufbewahrt werden. Beurteilungsunterlagen und Prüfungsprotokolle über abschließende Prüfungen sind mindestens 30 Jahre aufzubewahren.
+(3) Wenn die Beurteilungsunterlagen (insbesondere Gutachten, Korrekturen schriftlicher Prüfungen und Prüfungsarbeiten) den Studierenden nicht ausgehändigt werden, ist sicherzustellen, dass diese mindestens sechs Jahre ab der Bekanntgabe der Beurteilung aufbewahrt werden. Beurteilungsunterlagen und Prüfungsprotokolle über abschließende Prüfungen sind mindestens 30 Jahre aufzubewahren.
 
-- Die bzw. der Vorsitzende einer Prüfungskommission hat für den geordneten Ablauf der Prüfung zu sorgen und das Prüfungsprotokoll zu führen. In das Protokoll sind der Prüfungsgegenstand, der Ort und die Zeit der Prüfung, die Namen der Prüferinnen bzw. Prüfer oder Mitglieder der Prüfungskommission,  die  Namen  der  Studierenden  bzw.  des  Studierenden,  die  gestellten  Fragen,  die erteilten Beurteilungen, die Gründe für eine negative Beurteilung sowie allfällige besondere Vorkommnisse  aufzunehmen.  Die  Gründe  für  die  negative  Beurteilung  sind  auf  Antrag  schriftlich mitzuteilen.  Das  Prüfungsprotokoll  ist  mindestens  sechs  Jahre  ab  der  Bekanntgabe  der  Beurteilung aufzubewahren.
+(4) Die bzw. der Vorsitzende einer Prüfungskommission hat für den geordneten Ablauf der Prüfung zu sorgen und das Prüfungsprotokoll zu führen. In das Protokoll sind der Prüfungsgegenstand, der Ort und die Zeit der Prüfung, die Namen der Prüferinnen bzw. Prüfer oder Mitglieder der Prüfungskommission, die Namen der Studierenden bzw. des Studierenden, die gestellten Fragen, die erteilten Beurteilungen, die Gründe für eine negative Beurteilung sowie allfällige besondere Vorkommnisse aufzunehmen. Die Gründe für die negative Beurteilung sind auf Antrag schriftlich mitzuteilen. Das Prüfungsprotokoll ist mindestens sechs Jahre ab der Bekanntgabe der Beurteilung aufzubewahren.
 
-- Den  Studierenden  ist  auf Verlangen  Einsicht  in die  Beurteilungsunterlagen und  in die Prüfungsprotokolle  zu  gewähren.  Die  Studierenden  sind  berechtigt,  von  diesen  Unterlagen  Fotokopien anzufertigen.
+(5) Den Studierenden ist auf Verlangen Einsicht in die Beurteilungsunterlagen und in die Prüfungsprotokolle zu gewähren. Die Studierenden sind berechtigt, von diesen Unterlagen Fotokopien anzufertigen.
 
 ### Nichtigerklärung von Beurteilungen
 
 § 45. (1) Das für die studienrechtlichen Angelegenheiten zuständige Organ hat die Beurteilung einer Prüfung für nichtig zu erklären, wenn die Anmeldung zu dieser Prüfung erschlichen wurde.
 
-- Überdies  ist  die  Beurteilung  einer  Prüfung  oder  einer  wissenschaftlich-berufsfeldbezogenen Arbeit für nichtig zu erklären, wenn diese Beurteilung, insbesondere durch die Verwendung unerlaubter Hilfsmittel, erschlichen wurde.
+(2) Überdies ist die Beurteilung einer Prüfung oder einer wissenschaftlich-berufsfeldbezogenen Arbeit für nichtig zu erklären, wenn diese Beurteilung, insbesondere durch die Verwendung unerlaubter Hilfsmittel, erschlichen wurde.
 
-- Die Prüfung, deren Beurteilung für nichtig erklärt wurde,  ist auf die  Gesamtzahl  der Wiederholungen anzurechnen.
+(3) Die Prüfung, deren Beurteilung für nichtig erklärt wurde, ist auf die Gesamtzahl der Wiederholungen anzurechnen.
 
 ### Zeugnis
 
 § 46. (1) Jede Beurteilung/Teilnahme an einer Lehrveranstaltung ist auf Verlangen durch Ausstellung eines Zeugnisses/einer Teilnahmebestätigung zu bescheinigen und jedenfalls in der Studierendenevidenz (§ 53) zu vermerken.
 
-(1a)  Erfolgreich  absolvierte  Studien  nach  individuellen  Curricula  gemäß  § 42  Abs.  1b  sind  im studienabschließenden  Zeugnis  durch  einen  Hinweis  auf  das  festgesetzte  abweichende  Curriculum  zu kennzeichnen.
+(1a) Erfolgreich absolvierte Studien nach individuellen Curricula gemäß § 42 Abs. 1b sind im studienabschließenden Zeugnis durch einen Hinweis auf das festgesetzte abweichende Curriculum zu kennzeichnen.
 
-- Die Ausstellung von Zeugnissen mittels automationsunterstützter Datenverarbeitung ist zulässig. Wenn  keine  eigenhändige  Fertigung  erfolgt,  ist  eine  Beglaubigung  nur  bei  studienabschließenden Zeugnissen erforderlich.
+(2) Die Ausstellung von Zeugnissen mittels automationsunterstützter Datenverarbeitung ist zulässig. Wenn keine eigenhändige Fertigung erfolgt, ist eine Beglaubigung nur bei studienabschließenden Zeugnissen erforderlich.
 
-- Die  näheren  Bestimmungen  über  die  Gestaltung  der  (studienabschließenden)  Zeugnisse  sind durch Verordnung des zuständigen Regierungsmitgliedes festzulegen.
+(3) Die näheren Bestimmungen über die Gestaltung der (studienabschließenden) Zeugnisse sind durch Verordnung des zuständigen Regierungsmitgliedes festzulegen.
 
 ### Qualitätssicherung
 
@@ -1405,7 +1282,7 @@ Bundesrecht konsolidiert
 
 § 48. (1)  Im  Bachelorstudium  ist  eine  Bachelorarbeit  abzufassen.  Nähere  Bestimmungen  über Bachelorarbeiten sind im jeweiligen Curriculum festzulegen.
 
-- Bei der Bearbeitung des Themas und der Betreuung der Studierenden sind die Bestimmungen des Urheberrechtsgesetzes, BGBl. Nr. 111/1936, zu beachten.
+(2) Bei der Bearbeitung des Themas und der Betreuung der Studierenden sind die Bestimmungen des Urheberrechtsgesetzes, BGBl. Nr. 111/1936, zu beachten.
 
 www.ris.bka.gv.at
 
@@ -1463,23 +1340,19 @@ Seite 24 von 41
 
 Bundesrecht konsolidiert
 
-- Die allgemeine Universitätsreife ist durch eine der folgenden Urkunden nachzuweisen:
+(2) Die allgemeine Universitätsreife ist durch eine der folgenden Urkunden nachzuweisen:
 
-- österreichisches  Reifezeugnis  einschließlich  eines  Zeugnisses  über  die  Berufsreifeprüfung  und nach schulrechtlichen Vorschriften nostrifizierte Reifeprüfungszeugnisse,
-
-- Studienberechtigungsprüfung gemäß Hochschul-Studienberechtigungsgesetz, BGBl. I Nr. 71/2008,
-
-- ausländisches Zeugnis, das einem  österreichischen Zeugnis gemäß  Z 1  auf Grund  einer völkerrechtlichen Vereinbarung gleichwertig ist,
-
-- Urkunde  über  den  Abschluss  eines  mindestens  dreijährigen  Studiums  an  einer  anerkannten inländischen oder ausländischen postsekundären Bildungseinrichtung,
-
-- Erwerb  des  Diplomgrades  gemäß  § 35  AHStG  bzw.  eines  akademischen  Grades  gemäß Universitätsstudiengesetz, Universitätsgesetz 2002, Fachhochschul-Studiengesetz oder Universitäts-Akkreditierungsgesetz auf Grund eines Studiums von mindestens drei Jahren.
+1. österreichisches Reifezeugnis einschließlich eines Zeugnisses über die Berufsreifeprüfung und nach schulrechtlichen Vorschriften nostrifizierte Reifeprüfungszeugnisse,
+2. Studienberechtigungsprüfung gemäß Hochschul-Studienberechtigungsgesetz, BGBl. I Nr. 71/2008,
+3. ausländisches Zeugnis, das einem österreichischen Zeugnis gemäß Z 1 auf Grund einer völkerrechtlichen Vereinbarung gleichwertig ist,
+4. Urkunde über den Abschluss eines mindestens dreijährigen Studiums an einer anerkannten inländischen oder ausländischen postsekundären Bildungseinrichtung,
+5. Erwerb des Diplomgrades gemäß § 35 AHStG bzw. eines akademischen Grades gemäß Universitätsstudiengesetz, Universitätsgesetz 2002, Fachhochschul-Studiengesetz oder Universitäts-Akkreditierungsgesetz auf Grund eines Studiums von mindestens drei Jahren.
 
 (2a) Für ein  Bachelorstudium  für  ein Lehramt  für  die  Sekundarstufe  (Berufsbildung)  kann abweichend  von  § 51  Abs.  1  die  allgemeine  Universitätsreife  durch  einen  Meisterbrief  oder  eine gleichzuhaltende  Qualifikation  in  Verbindung  mit  einer  mindestens  dreijährigen  Berufspraxis  ersetzt werden.
 
 (2b) (Anm.: Tritt mit 1.10.2019 in Kraft.)
 
-(2c) Zum Bachelorstudium an Pädagogischen Hochschulen dürfen nur solche Personen zugelassen werden,  die  die  durch  Verordnung  näher  festzulegenden  Voraussetzungen  gemäß  Abs.  3  erfüllen.  Die Anforderungen an die Eignung sind in Orientierung an dem Kompetenzkatalog gemäß § 42 Abs. 1a so zu konkretisieren,  dass  hinsichtlich  der  Auswahl  der  Studierenden  den  Zielstellungen  des  Lehrberufs  zu Diversität und Inklusion Rechnung getragen wird. Es ist vom Nachweis jener Eignungskriterien Abstand zu nehmen, die bei Erfüllung der wesentlichen Anforderungen für den angestrebten Beruf aufgrund einer anderen Erstsprache als Deutsch oder einer Behinderung im Sinne des BundesBehindertengleichstellungsgesetzes nicht erfüllt werden können. Bei Bedarf sind sowohl im Rahmen des Eignungsfeststellungsverfahrens als auch im Verlauf des Studiums geeignete Ausgleichsmaßnahmen (zB im Sinne des § 63 Abs. 1 Z 7) vorzusehen.
+(2c) Zum Bachelorstudium an Pädagogischen Hochschulen dürfen nur solche Personen zugelassen werden, die die durch Verordnung näher festzulegenden Voraussetzungen gemäß Abs. 3 erfüllen. Die Anforderungen an die Eignung sind in Orientierung an dem Kompetenzkatalog gemäß § 42 Abs. 1a so zu konkretisieren, dass hinsichtlich der Auswahl der Studierenden den Zielstellungen des Lehrberufs zu Diversität und Inklusion Rechnung getragen wird. Es ist vom Nachweis jener Eignungskriterien Abstand zu nehmen, die bei Erfüllung der wesentlichen Anforderungen für den angestrebten Beruf aufgrund einer anderen Erstsprache als Deutsch oder einer Behinderung im Sinne des Bundes-Behindertengleichstellungsgesetzes nicht erfüllt werden können. Bei Bedarf sind sowohl im Rahmen des Eignungsfeststellungsverfahrens als auch im Verlauf des Studiums geeignete Ausgleichsmaßnahmen (zB im Sinne des § 63 Abs. 1 Z 7) vorzusehen.
 
 (3)  Das  Verfahren  zur  Feststellung  der  Eignung  zum  Bachelorstudium  hat  wissenschaftliche Kriterien  zu  berücksichtigen.  Die  Materialien  und  Informationen  sind  spätestens  sechs  Monate  vor Durchführung des Verfahrens auf der Homepage zur Verfügung zu stellen. Die näheren Bestimmungen über die Zulassungsvoraussetzungen und das Verfahren zur Feststellung der Eignung zum Bachelorstudium, über die Voraussetzungen zum Studium von (Hochschul)Lehrgängen sowie über das Aufnahmeverfahren  sind  durch  Verordnung  des  zuständigen  Regierungsmitgliedes  sowie  nach  den Anforderungen der Curricula durch Verordnung der Studienkommission festzulegen.
 
@@ -1497,7 +1370,7 @@ Tritt hinsichtlich der Masterstudien mit 1. Oktober 2019 in Kraft. Pädagogische
 
 ### Matrikelnummer, Studierendenevidenz
 
-§ 53. (1) Einem Studierenden bzw. einer Studierenden, der bzw. die noch an keiner Pädagogischen Hochschule  zum  Studium  zugelassen  war,  ist  anlässlich  der  erstmaligen  Zulassung  zum  Studium  eine Matrikelnummer  zuzuordnen.  Diese  ist  für  allfällige  weitere  Studienzulassungen  beizubehalten.  Die näheren Bestimmungen über die Bildung und die Vergabe von Matrikelnummern sind durch Verordnung des zuständigen Regierungsmitglieds zu treffen.
+§ 53. (1) Einem Studierenden bzw. einer Studierenden, der bzw. die noch an keiner Pädagogischen Hochschule zum Studium zugelassen war, ist anlässlich der erstmaligen Zulassung zum Studium eine
 
 www.ris.bka.gv.at
 
@@ -1509,13 +1382,15 @@ Seite 25 von 41
 
 Bundesrecht konsolidiert
 
-(2)  Der  Rektor  bzw.  die  Rektorin  hat  hinsichtlich  der  zum  Studium  an  der  Pädagogischen Hochschule  zugelassenen  Studierenden  eine  Evidenz  zu  führen,  die  neben  der  Matrikelnummer  als bildungseinrichtungsspezifisches  Personenkennzeichen  die  gemäß  dem  Bildungsdokumentationsgesetz, BGBl. I Nr. 12/2002, zu erfassenden Daten zu enthalten hat.
+Matrikelnummer zuzuordnen. Diese ist für allfällige weitere Studienzulassungen beizubehalten. Die näheren Bestimmungen über die Bildung und die Vergabe von Matrikelnummern sind durch Verordnung des zuständigen Regierungsmitglieds zu treffen.
+
+(2) Der Rektor bzw. die Rektorin hat hinsichtlich der zum Studium an der Pädagogischen Hochschule zugelassenen Studierenden eine Evidenz zu führen, die neben der Matrikelnummer als bildungseinrichtungsspezifisches Personenkennzeichen die gemäß dem Bildungsdokumentationsgesetz, BGBl. I Nr. 12/2002, zu erfassenden Daten zu enthalten hat.
 
 ### Studienbuch, Studienausweis
 
 § 54. (1)  Den  ordentlichen  und  außerordentlichen  Studierenden  von  Studiengängen  ist  deren Angehörigkeit  zur  Pädagogischen  Hochschule  (§ 73)  durch  die  Aushändigung  eines  Studienbuches  für das  (die)  gewählte(n)  Studium  (Studien)  sowie  durch  die  Ausstellung  eines  Studienausweises  zu bestätigen.
 
-- Im Studienbuch sind alle für das Studium maßgeblichen Umstände zu vermerken.
+(2) Im Studienbuch sind alle für das Studium maßgeblichen Umstände zu vermerken.
 
 (3)  Der  Studienausweis  ist  als  Lichtbildausweis  auszugestalten  und  hat  Namen,  Geburtsdatum, Matrikelnummer des oder der Studierenden, die Gültigkeitsdauer und die Bezeichnung der Pädagogischen  Hochschule  zu  enthalten.  Der  Studienausweis  kann  über  ein  Speichermedium  mit weiteren  Funktionalitäten  ausgestattet  sein,  deren  Einsatz  jedoch  der  Zustimmung  jedes  bzw.  jeder Studierenden bedarf. Die Zustimmung ist bei erstmaliger Ausstellung des Studienausweises schriftlich zu erteilen und kann jederzeit widerrufen werden.
 
@@ -1561,21 +1436,21 @@ Bundesrecht konsolidiert
 
 (2) Das Studium an einer Pädagogischen Hochschule gilt als vorzeitig beendet, wenn Studierende
 
-- sich vom weiteren Studium an der Pädagogischen Hochschule schriftlich beim Rektor bzw. bei der Rektorin abmelden,
+1. sich vom weiteren Studium an der Pädagogischen Hochschule schriftlich beim Rektor bzw. bei der Rektorin abmelden,
 
-- nicht inskribieren, ohne beurlaubt worden zu sein,
+2. nicht inskribieren, ohne beurlaubt worden zu sein,
 
-- über  einen  Zeitraum  von  zwei  aufeinander  folgenden  Semestern  zu  keiner  Prüfung  antreten (allenfalls  auch  im  Rahmen  eines  anderen  Studiums  bzw.  des  Studiums  an  einer  anderen Pädagogischen Hochschule),
+3. über einen Zeitraum von zwei aufeinander folgenden Semestern zu keiner Prüfung antreten (allenfalls auch im Rahmen eines anderen Studiums bzw. des Studiums an einer anderen Pädagogischen Hochschule),
 
-- eine im Curriculum vorgesehene Prüfung über eine Pflichtveranstaltung oder eine im Curriculum vorgesehene abschließende Prüfung bzw.  Arbeit auch bei  der letzten zulässigen Wiederholung (allenfalls  auch  im  Rahmen  eines  anderen  Studiums  bzw.  des  Studiums  an  einer  anderen Pädagogischen Hochschule) nicht erfolgreich ablegen,
+4. eine im Curriculum vorgesehene Prüfung über eine Pflichtveranstaltung oder eine im Curriculum vorgesehene abschließende Prüfung bzw. Arbeit auch bei der letzten zulässigen Wiederholung (allenfalls auch im Rahmen eines anderen Studiums bzw. des Studiums an einer anderen Pädagogischen Hochschule) nicht erfolgreich ablegen,
 
-- die  doppelte  Mindeststudiendauer  überschreiten  würden  (allenfalls  auch  im  Rahmen  eines anderen  Studiums  bzw.  des  Studiums  an  einer  anderen  Pädagogischen  Hochschule),  wobei Zeiten des Präsenz-, Ausbildungs- und Zivildienstes oder einer Beurlaubung nicht einzurechnen sind,
+5. die doppelte Mindeststudiendauer überschreiten würden (allenfalls auch im Rahmen eines anderen Studiums bzw. des Studiums an einer anderen Pädagogischen Hochschule), wobei Zeiten des Präsenz-, Ausbildungs- und Zivildienstes oder einer Beurlaubung nicht einzurechnen sind,
 
-- in der verpflichtend vorzusehenden  schulpraktischen  Ausbildung  im  ersten  oder zweiten Semester des Studiums, in den folgenden Semestern nach einmaliger Wiederholung (allenfalls auch  im  Rahmen  eines  anderen  Studiums  bzw.  des  Studiums  an  einer  anderen  Pädagogischen Hochschule)  -  insgesamt  jedoch  zweimal  -  negativ  beurteilt  wurden;  ein  Verweis  von  der Praxisschule ist einer negativen Semesterbeurteilung gleichzuhalten,
+6. in der verpflichtend vorzusehenden schulpraktischen Ausbildung im ersten oder zweiten Semester des Studiums, in den folgenden Semestern nach einmaliger Wiederholung (allenfalls auch im Rahmen eines anderen Studiums bzw. des Studiums an einer anderen Pädagogischen Hochschule) – insgesamt jedoch zweimal – negativ beurteilt wurden; ein Verweis von der Praxisschule ist einer negativen Semesterbeurteilung gleichzuhalten,
 
-- Bei einer vorgeschriebenen Prüfung der Studieneingangs- und Orientierungsphase auch bei der letzten Wiederholung negativ beurteilt wurde,
+7. Bei einer vorgeschriebenen Prüfung der Studieneingangs- und Orientierungsphase auch bei der letzten Wiederholung negativ beurteilt wurde,
 
-- der  Lehramtsstudien  Berufsschulpädagogik  und  technisch-gewerbliche  Pädagogik  aus  dem Dienstverhältnis ausscheiden.
+8. der Lehramtsstudien Berufsschulpädagogik und technisch-gewerbliche Pädagogik aus dem Dienstverhältnis ausscheiden.
 
 Die vorzeitige Beendigung des Studiums ist bei der vorzeitigen Beendigung von  Studiengängen in der Studierendenevidenz (§ 53) zu vermerken  und  (bei allen Studien) den betroffenen Studierenden schriftlich  unter  Angabe  der  Gründe  bekannt  zu  geben.  Eine  neuerliche  Zulassung  für  das  vorzeitig beendete Studium ist durch das Rektorat nur in besonders berücksichtigungswürdigen Fällen zulässig.
 
@@ -1609,33 +1484,33 @@ Bundesrecht konsolidiert
 
 (2) Die Studierenden haben insbesondere
 
-- der  Pädagogischen  Hochschule,  an  der  eine  Zulassung  zum  Studium  besteht,  Namens-  und Adressänderungen sowie sämtliche Umstände, die für das Studium von Bedeutung sein könnten, unverzüglich bekannt zu geben,
+1. der Pädagogischen Hochschule, an der eine Zulassung zum Studium besteht, Namens- und Adressänderungen sowie sämtliche Umstände, die für das Studium von Bedeutung sein könnten, unverzüglich bekannt zu geben,
 
-- die Fortsetzung des Studiums an der Pädagogischen Hochschule, an der die Zulassung zu einem Studium besteht, jedes Semester während der allgemeinen Zulassungsfrist oder der Nachfrist zu melden,
+2. die Fortsetzung des Studiums an der Pädagogischen Hochschule, an der die Zulassung zu einem Studium besteht, jedes Semester während der allgemeinen Zulassungsfrist oder der Nachfrist zu melden,
 
-- sich bei vorhersehbarer Studieninaktivität zeitgerecht vom Studium zu beurlauben,
+3. sich bei vorhersehbarer Studieninaktivität zeitgerecht vom Studium zu beurlauben,
 
-- sich zu den Prüfungen fristgerecht an- und abzumelden und
+4. sich zu den Prüfungen fristgerecht an- und abzumelden und
 
-- anlässlich  der  Verleihung  des  akademischen  Grades  ein  Exemplar  ihrer  Bachelorarbeit  der Bibliothek der Pädagogischen Hochschule abzuliefern.
+5. anlässlich der Verleihung des akademischen Grades ein Exemplar ihrer Bachelorarbeit der Bibliothek der Pädagogischen Hochschule abzuliefern.
 
 ### Rechte der Studierenden
 
 § 63. (1) Den Studierenden steht nach Maßgabe der gesetzlichen Bestimmungen Lernfreiheit zu. Sie umfasst insbesondere das Recht,
 
-- nach Maßgabe des Lehrangebotes und der Curricula unter dem Lehrpersonal auszuwählen,
+1. nach Maßgabe des Lehrangebotes und der Curricula unter dem Lehrpersonal auszuwählen,
 
-- die facheinschlägigen Lehrund Forschungseinrichtungen und die Bibliothek an jeder Pädagogischen Hochschule in Österreich nach Maßgabe der Benützungsordnungen zu benützen,
+2. die facheinschlägigen Lehr- und Forschungseinrichtungen und die Bibliothek an jeder Pädagogischen Hochschule in Österreich nach Maßgabe der Benützungsordnungen zu benützen,
 
-- wissenschaftlich-berufsfeldbezogene  Arbeiten  in  einer  Fremdsprache  abzufassen,  wenn  die betreuende Lehrperson zustimmt,
+3. wissenschaftlich-berufsfeldbezogene Arbeiten in einer Fremdsprache abzufassen, wenn die betreuende Lehrperson zustimmt,
 
-- nach Erbringung der in den Curricula vorgeschriebenen Leistungen akademische Grade verliehen zu erhalten,
+4. nach Erbringung der in den Curricula vorgeschriebenen Leistungen akademische Grade verliehen zu erhalten,
 
-- als  außerordentliche  Studierende  an  den  betreffenden  Lehrgängen  teilzunehmen  und  die  darin vorgeschriebenen Prüfungen abzulegen,
+5. als außerordentliche Studierende an den betreffenden Lehrgängen teilzunehmen und die darin vorgeschriebenen Prüfungen abzulegen,
 
-- als außerordentliche Studierende, die nur zum Besuch von Lehrveranstaltungen zugelassen sind, Lehrveranstaltungen  zu  besuchen  sowie  nach  Maßgabe  der  hochschulrechtlichen  Vorschriften Prüfungen abzulegen,
+6. als außerordentliche Studierende, die nur zum Besuch von Lehrveranstaltungen zugelassen sind, Lehrveranstaltungen zu besuchen sowie nach Maßgabe der hochschulrechtlichen Vorschriften Prüfungen abzulegen,
 
-- eine  abweichende  Prüfungsmethode  zu  beantragen,  wenn  eine  länger  andauernde  Behinderung vorliegt, die die Ablegung der Prüfung in der vorgeschriebenen Methode unmöglich macht, und der Inhalt und die Anforderungen  der  Prüfung  durch eine  abweichende  Methode  nicht beeinträchtigt werden.
+7. eine abweichende Prüfungsmethode zu beantragen, wenn eine länger andauernde Behinderung vorliegt, die die Ablegung der Prüfung in der vorgeschriebenen Methode unmöglich macht, und der Inhalt und die Anforderungen der Prüfung durch eine abweichende Methode nicht beeinträchtigt werden.
 
 (2) Die Studierenden haben das Recht auf Information über den Titel, die Art, die Zeit und den Ort der Abhaltung der Lehrveranstaltungen, deren Ziele und die Inhalte sowie die Methoden der Lehrenden und die Beurteilungskriterien und -maßstäbe der Lehrveranstaltungsprüfungen.
 
@@ -1657,13 +1532,13 @@ Bundesrecht konsolidiert
 
 § 64. (1) In den Curricula von Hochschullehrgängen gemäß § 39 Abs. 2 darf der im jeweiligen Fach international gebräuchliche Mastergrad festgelegt werden, der nach Absolvieren solcher Hochschullehrgänge  zu  verleihen  ist,  deren  Zugangsbedingungen,  Umfang  und  Anforderungen  mit Zugangsbedingungen, Umfang und Anforderungen entsprechender ausländischer Masterstudien vergleichbar sind.
 
-(2) Wenn Abs. 1 nicht zur Anwendung kommt, darf die akademische Bezeichnung 'Akademischer bzw.  Akademische  …'  mit  einem  die  Inhalte  des  jeweiligen  Hochschullehrganges  charakterisierenden Zusatz festgelegt werden, die bei Abschluss jener Hochschullehrgänge zu verleihen ist, die mindestens 60 ECTS-Credits umfassen.
+(2) Wenn Abs. 1 nicht zur Anwendung kommt, darf die akademische Bezeichnung „Akademischer bzw. Akademische …“ mit einem die Inhalte des jeweiligen Hochschullehrganges charakterisierenden Zusatz festgelegt werden, die bei Abschluss jener Hochschullehrgänge zu verleihen ist, die mindestens 60 ECTS-Credits umfassen.
 
 ### Verleihung des akademischen Grades bzw. der akademischen Bezeichnung nach Abschluss von Studiengängen und Hochschullehrgängen
 
-§ 65. (1)  Der  Rektor  bzw.  die  Rektorin  der  Pädagogischen  Hochschule  hat  Studierenden  von Lehramtsstudien  nach  der  positiven  Beurteilung  aller  im  jeweiligen  Curriculum  vorgeschriebenen Prüfungen und nach Ablieferung der positiv beurteilten wissenschaftlich-berufsfeldbezogenen Bachelorarbeit  den  akademischen  Grad  'Bachelor  of  Education  (BEd)'  durch  einen  schriftlichen Bescheid unverzüglich, jedoch spätestens einen Monat nach Erfüllung aller Voraussetzungen von Amts wegen zu verleihen. Davon unberührt bleibt die Bestimmung des § 65a.
+§ 65. (1) Der Rektor bzw. die Rektorin der Pädagogischen Hochschule hat Studierenden von Lehramtsstudien nach der positiven Beurteilung aller im jeweiligen Curriculum vorgeschriebenen Prüfungen und nach Ablieferung der positiv beurteilten wissenschaftlich-berufsfeldbezogenen Bachelorarbeit den akademischen Grad „Bachelor of Education (BEd)“ durch einen schriftlichen Bescheid unverzüglich, jedoch spätestens einen Monat nach Erfüllung aller Voraussetzungen von Amts wegen zu verleihen. Davon unberührt bleibt die Bestimmung des § 65a.
 
-(1a) Für Studien gemäß § 35 Z 1b gilt Abs. 1 hinsichtlich der Verleihung des akademischen Grades 'Bachelor of Education (BEd)' sinngemäß.
+(1a) Für Studien gemäß § 35 Z 1b gilt Abs. 1 hinsichtlich der Verleihung des akademischen Grades „Bachelor of Education (BEd)“ sinngemäß.
 
 (2) Der Rektor bzw. die Rektorin der Pädagogischen Hochschule hat Studierenden von Hochschullehrgängen  nach  der  positiven  Beurteilung  aller  im  jeweiligen  Curriculum  vorgeschriebenen Prüfungen  den  festgelegten  akademischen  Mastergrad  bzw.  die  festgelegte  akademische  Bezeichnung durch  einen  schriftlichen  Bescheid  unverzüglich,  jedoch  spätestens  einen  Monat  nach  Erfüllung  aller Voraussetzungen von Amts wegen zu verleihen.
 
@@ -1671,27 +1546,27 @@ Bundesrecht konsolidiert
 
 (4) Die Urkunde über die Verleihung hat jedenfalls folgende Angaben zu enthalten:
 
-- den Familiennamen und die Vornamen, allenfalls den Geburtsnamen,
+1. den Familiennamen und die Vornamen, allenfalls den Geburtsnamen,
 
-- das Geburtsdatum und die Staatsangehörigkeit,
+2. das Geburtsdatum und die Staatsangehörigkeit,
 
-- das abgeschlossene Studium,
+3. das abgeschlossene Studium,
 
-- den verliehenen akademischen Grad.
+4. den verliehenen akademischen Grad.
 
 (5) Wird ein ordentliches Studium aufgrund eines gemeinsamen Studienprogramms abgeschlossen, bei dessen Durchführung bei einem Studienumfang von bis zu 120 ECTS-Credits jeweils mindestens 30 ECTS-Credits,  bei  einem  Studienumfang  von  mindestens  120  ECTS-Credits  jeweils  mindestens  60 ECTS-Credits  unter  der  Verantwortung  einer  ausländischen  Partnerinstitution  erbracht  wurden,  ist  es zulässig,  die  Verleihung  des  akademischen  Grades  durch  eine  gemeinsame  Urkunde  mit  dieser Partnereinrichtung oder diesen Partnereinrichtungen vorzunehmen.
 
 (6)  Werden  die  Voraussetzungen  für  einen  akademischen  Grad  mit  demselben  Wortlaut  mehr  als einmal erbracht, so ist derselbe akademische Grad auch mehrfach zu verleihen.
 
-### Verleihung des akademischen Grades 'Bachelor of Education' aufgrund hochschulischer Nachqualifizierung
+### Verleihung des akademischen Grades „Bachelor of Education“ aufgrund hochschulischer Nachqualifizierung
 
 § 65a. (1) Auf Antrag ist Personen, die
 
-- eine insgesamt sechssemestrige Lehramtsausbildung,
+1. eine insgesamt sechssemestrige Lehramtsausbildung,
 
-- eine Lehramtsausbildung unter sechs Semestern sowie ein zusätzliches Lehramt oder
+2. eine Lehramtsausbildung unter sechs Semestern sowie ein zusätzliches Lehramt oder
 
-- eine Lehramtsausbildung im Bereich der Berufsbildung unter sechs Semestern sowie eine nach den zum Zeitpunkt der Zulassung geltenden Aufnahmevoraussetzungen erforderliche facheinschlägige Vorbildung und bzw. oder Berufspraxis in Vollbeschäftigung im Ausmaß von mindestens einem Jahr
+3. eine Lehramtsausbildung im Bereich der Berufsbildung unter sechs Semestern sowie eine nach den zum Zeitpunkt der Zulassung geltenden Aufnahmevoraussetzungen erforderliche facheinschlägige Vorbildung und bzw. oder Berufspraxis in Vollbeschäftigung im Ausmaß von mindestens einem Jahr
 
 www.ris.bka.gv.at
 
@@ -1703,7 +1578,7 @@ Seite 29 von 41
 
 Bundesrecht konsolidiert
 
-nach  den  vor  dem  Inkrafttreten  dieses  Bundesgesetzes  geltenden  Studienrechtsvorschriften  erfolgreich abgeschlossen bzw. erlangt haben, nach Absolvierung von berufsbegleitenden Ergänzungsstudien sowie einer  Bachelorarbeit  im  Gesamtausmaß  von  39  ECTS  (davon  9  ECTS  für  die  Bachelorarbeit)  der akademische Grad 'Bachelor of Education, BEd' zu verleihen. Der Antrag ist an einer Pädagogischen Hochschule oder an einer anerkannten privaten Pädagogischen Hochschule bzw. an einem anerkannten privaten Studiengang zu stellen, an der das entsprechende Bachelorstudium geführt wird. Das zuständige Regierungsmitglied hat durch Verordnung die näheren Regelungen über die Gestaltung des berufsbegleitenden Ergänzungsstudiums zu erlassen. Dabei können Qualifikationen, die erlangt wurden, zur Gänze  oder zum  Teil nach den Anforderungen  des  Rahmencurriculums  anerkannt werden. Diesbezüglich  kommen  beispielsweise  einschlägige  Ausbildungen  wie  ein  erfolgreich  abgeschlossenes Universitätsoder Fachhochschulstudium, ein weiteres Lehramtsstudium (sofern dieses nicht Zugangsvoraussetzung gemäß § 65a Abs. 1 Z 2 ist),  berufsbegleitende  Fort-  und  Weiterbildungen  wie Universitätsoder Hochschullehrgänge, auf Lehramtsstudien aufbauende Studien zur Erlangung zusätzlicher Lehrbefähigungen, Zusatzausbildungen für Sonderschullehrerinnen und -lehrer oder weitere inhaltlich und anforderungsmäßig entsprechende Zusatzqualifikationen, Projektbetreuungen, Führungstätigkeiten im Schulbereich, einschlägige Veröffentlichungen sowie sonstige für den Lehrberuf relevante  Qualifikationen  in  Betracht.  Abweichend  von  § 57  können  auch  Hausarbeiten  sowie  andere wissenschaftliche Arbeiten zur Anerkennung kommen, sofern sie den Anforderungen einer Bachelorarbeit  an  der  Pädagogischen  Hochschule  inhaltlich  entsprechen.  Die  Qualifikationen  sind  in einem Kompetenzportfolio zu dokumentieren.
+nach den vor dem Inkrafttreten dieses Bundesgesetzes geltenden Studienrechtsvorschriften erfolgreich abgeschlossen bzw. erlangt haben, nach Absolvierung von berufsbegleitenden Ergänzungsstudien sowie einer Bachelorarbeit im Gesamtausmaß von 39 ECTS (davon 9 ECTS für die Bachelorarbeit) der akademische Grad „Bachelor of Education, BEd“ zu verleihen. Der Antrag ist an einer Pädagogischen Hochschule oder an einer anerkannten privaten Pädagogischen Hochschule bzw. an einem anerkannten privaten Studiengang zu stellen, an der das entsprechende Bachelorstudium geführt wird. Das zuständige Regierungsmitglied hat durch Verordnung die näheren Regelungen über die Gestaltung des berufsbegleitenden Ergänzungsstudiums zu erlassen. Dabei können Qualifikationen, die erlangt wurden, zur Gänze oder zum Teil nach den Anforderungen des Rahmencurriculums anerkannt werden. Diesbezüglich kommen beispielsweise einschlägige Ausbildungen wie ein erfolgreich abgeschlossenes Universitäts- oder Fachhochschulstudium, ein weiteres Lehramtsstudium (sofern dieses nicht Zugangsvoraussetzung gemäß § 65a Abs. 1 Z 2 ist), berufsbegleitende Fort- und Weiterbildungen wie Universitäts- oder Hochschullehrgänge, auf Lehramtsstudien aufbauende Studien zur Erlangung zusätzlicher Lehrbefähigungen, Zusatzausbildungen für Sonderschullehrerinnen und -lehrer oder weitere inhaltlich und anforderungsmäßig entsprechende Zusatzqualifikationen, Projektbetreuungen, Führungstätigkeiten im Schulbereich, einschlägige Veröffentlichungen sowie sonstige für den Lehrberuf relevante Qualifikationen in Betracht. Abweichend von § 57 können auch Hausarbeiten sowie andere wissenschaftliche Arbeiten zur Anerkennung kommen, sofern sie den Anforderungen einer Bachelorarbeit an der Pädagogischen Hochschule inhaltlich entsprechen. Die Qualifikationen sind in einem Kompetenzportfolio zu dokumentieren.
 
 (2) § 65 Abs. 3 und 4 finden Anwendung.
 
@@ -1719,23 +1594,23 @@ nach  den  vor  dem  Inkrafttreten  dieses  Bundesgesetzes  geltenden  Studienre
 
 § 68. (1) Die Antragstellung betreffend die Anerkennung eines ausländischen Studienabschlusses als Abschluss eines inländischen Studienganges oder Lehramtsstudiums (Nostrifizierung) setzt den Nachweis voraus, dass die Nostrifizierung zwingend für die Berufsausübung oder die Fortsetzung der Ausbildung der  antragstellenden  Person  in  Österreich  erforderlich  ist.  Nähere  Bestimmungen  sind  in  der  Satzung festzulegen.
 
-- Der  Antrag  ist  an  einer  Pädagogischen  Hochschule  einzubringen,  an  der  das  entsprechende inländische  Hochschulstudium  eingerichtet  ist.  Es  ist unzulässig,  denselben  Nostrifizierungsantrag gleichzeitig an einer anderen Pädagogischen Hochschule einzubringen.
+(2) Der Antrag ist an einer Pädagogischen Hochschule einzubringen, an der das entsprechende inländische Hochschulstudium eingerichtet ist. Es ist unzulässig, denselben Nostrifizierungsantrag gleichzeitig an einer anderen Pädagogischen Hochschule einzubringen.
 
-- Die Nostrifizierung ist vom Rektor bzw. von der Rektorin auszusprechen. Dabei ist festzulegen, welchem  inländischen  Hochschulstudienabschluss  der  ausländische  Studienabschluss  entspricht  und welchen  inländischen  akademischen  Grad  bzw.  welche  inländische  akademische  Bezeichnung  die Antragstellerin bzw. der Antragsteller an Stelle des ausländischen akademischen Grades auf Grund der Nostrifizierung zu führen berechtigt ist. Die Ausfertigung der Nostrifizierung ist auf der Urkunde, die als Nachweis des ausländischen Studienabschlusses vorgelegt wurde, zu vermerken.
+(3) Die Nostrifizierung ist vom Rektor bzw. von der Rektorin auszusprechen. Dabei ist festzulegen, welchem inländischen Hochschulstudienabschluss der ausländische Studienabschluss entspricht und welchen inländischen akademischen Grad bzw. welche inländische akademische Bezeichnung die Antragstellerin bzw. der Antragsteller an Stelle des ausländischen akademischen Grades auf Grund der Nostrifizierung zu führen berechtigt ist. Die Ausfertigung der Nostrifizierung ist auf der Urkunde, die als Nachweis des ausländischen Studienabschlusses vorgelegt wurde, zu vermerken.
 
 (3a) Soweit den Anforderungen nach Abs. 3 nur zum Teil entsprochen wird, ist die Nostrifizierung von der erfolgreichen Absolvierung von Prüfungen abhängig zu machen.
 
-- Die  Nostrifizierung  ist  zu  widerrufen,  wenn  sie  insbesondere  durch  gefälschte  Zeugnisse erschlichen worden ist.
+(4) Die Nostrifizierung ist zu widerrufen, wenn sie insbesondere durch gefälschte Zeugnisse erschlichen worden ist.
 
-- Die Taxe für die Nostrifizierung eines ausländischen Studienabschlusses beträgt 150 Euro. Die Taxe  ist  im  Voraus  zu  entrichten.  Sie  verfällt,  wenn  der  Antrag  auf  Nostrifizierung  abgewiesen  oder zurückgezogen wird.
+(5) Die Taxe für die Nostrifizierung eines ausländischen Studienabschlusses beträgt 150 Euro. Die Taxe ist im Voraus zu entrichten. Sie verfällt, wenn der Antrag auf Nostrifizierung abgewiesen oder zurückgezogen wird.
 
 ### Beachte für folgende Bestimmung
 
 Abs. 1 tritt hinsichtlich Bachelorstudien und Abs. 2 hinsichtlich der Nachfrist mit 1. Oktober 2013 in Kraft (vgl. § 80 Abs. 8 Z 2).
 
-Seite 30 von 41
-
 www.ris.bka.gv.at
+
+Seite 30 von 41
 
 [[END OF PAGE 30]]
 
@@ -1765,19 +1640,19 @@ Abs. 1 und 2 treten hinsichtlich der Masterstudien mit 1. Oktober 2019 in Kraft.
 
 ### Beitragsfreiheit in der Fort- und Weiterbildung
 
-§ 70. Die  Teilnahme  an  (Hochschul)Lehrgängen  der  Fort-  und  Weiterbildung,  die  im  öffentlichrechtlichen Bildungsauftrag der Pädagogischen Hochschule gemäß § 8 durchgeführt werden, ist für  die Teilnehmer und Teilnehmerinnen frei von Beiträgen.
+§ 70. Die Teilnahme an (Hochschul)Lehrgängen der Fort- und Weiterbildung, die im öffentlich-rechtlichen Bildungsauftrag der Pädagogischen Hochschule gemäß § 8 durchgeführt werden, ist für die Teilnehmer und Teilnehmerinnen frei von Beiträgen.
 
 ### Erlass und Rückerstattung von Studienbeiträgen
 
 § 71. (1) Der Studienbeitrag ist insbesondere zu erlassen
 
-- Studierenden für die Semester, in denen sie nachweislich Studien oder Praxiszeiten im Rahmen von  transnationalen  EU-,  staatlichen  oder  universitären  Mobilitätsprogrammen  absolvieren werden;
+1. Studierenden für die Semester, in denen sie nachweislich Studien oder Praxiszeiten im Rahmen von transnationalen EU-, staatlichen oder universitären Mobilitätsprogrammen absolvieren werden;
 
-- Studierenden, die die Voraussetzungen gemäß § 69 Abs. 1 erfüllen, auch bei Überschreitung des in  Abs. 1  festgelegten  Zeitraumes  für  Semester,  in  denen  sie  nachweislich  mehr  als  2  Monate durch Krankheit oder Schwangerschaft am Studium gehindert waren oder sich überwiegend der Betreuung  von  Kindern  bis  zum  7.  Geburtstag  oder  einem  allfälligen  späteren  Schuleintritt gewidmet haben;
+2. Studierenden, die die Voraussetzungen gemäß § 69 Abs. 1 erfüllen, auch bei Überschreitung des in Abs. 1 festgelegten Zeitraumes für Semester, in denen sie nachweislich mehr als 2 Monate durch Krankheit oder Schwangerschaft am Studium gehindert waren oder sich überwiegend der Betreuung von Kindern bis zum 7. Geburtstag oder einem allfälligen späteren Schuleintritt gewidmet haben;
 
-- Studierenden, die die Voraussetzungen gemäß § 69 Abs. 1 erfüllen, auch bei Überschreitung des in Abs. 1 festgelegten Zeitraumes, wenn sie im Kalenderjahr vor dem jeweiligen Semesterbeginn durch eine Erwerbstätigkeit in Anspruch genommen waren, durch die sie ein Jahreseinkommen zumindest in der Höhe des 14-fachen Betrages gem. § 5 Abs. 2 ASVG in der jeweils geltenden Fassung erzielt haben. Die §§ 8 bis 11 Studienförderungsgesetz sind bei der Einkommensberechnung anzuwenden;
+3. Studierenden, die die Voraussetzungen gemäß § 69 Abs. 1 erfüllen, auch bei Überschreitung des in Abs. 1 festgelegten Zeitraumes, wenn sie im Kalenderjahr vor dem jeweiligen Semesterbeginn durch eine Erwerbstätigkeit in Anspruch genommen waren, durch die sie ein Jahreseinkommen zumindest in der Höhe des 14-fachen Betrages gem. § 5 Abs. 2 ASVG in der jeweils geltenden Fassung erzielt haben. Die §§ 8 bis 11 Studienförderungsgesetz sind bei der Einkommensberechnung anzuwenden;
 
-- Studierenden, die die Voraussetzungen gemäß § 69 Abs. 1 erfüllen, auch bei Überschreitung des in Abs. 1 festgelegten Zeitraumes, wenn eine Behinderung nach bundesgesetzlichen Vorschriften mit mindestens 50% festgestellt ist;
+4. Studierenden, die die Voraussetzungen gemäß § 69 Abs. 1 erfüllen, auch bei Überschreitung des in Abs. 1 festgelegten Zeitraumes, wenn eine Behinderung nach bundesgesetzlichen Vorschriften mit mindestens 50% festgestellt ist;
 
 www.ris.bka.gv.at
 
@@ -1789,25 +1664,25 @@ Seite 31 von 41
 
 Bundesrecht konsolidiert
 
-- Studierenden, wenn sie im vergangenen Semester Studienbeihilfe gemäß dem Studienförderungsgesetz 1992, BGBl. Nr. 305/1992, bezogen haben oder im laufenden Semester beziehen;
+5. Studierenden, wenn sie im vergangenen Semester Studienbeihilfe gemäß dem Studienförderungsgesetz 1992, BGBl. Nr. 305/1992, bezogen haben oder im laufenden Semester beziehen;
 
-- Antragstellern und Antragstellerinnen gemäß § 68 Abs. 3a;
+6. Antragstellern und Antragstellerinnen gemäß § 68 Abs. 3a;
 
-- Studierenden gemäß § 63 Abs. 1 Z 6.
+7. Studierenden gemäß § 63 Abs. 1 Z 6.
 
-- Über den Antrag auf Erlass des Studienbeitrages entscheidet das Rektorat. Dem Antrag sind die für die Entscheidung erforderlichen Nachweise beizufügen.
+(2) Über den Antrag auf Erlass des Studienbeitrages entscheidet das Rektorat. Dem Antrag sind die für die Entscheidung erforderlichen Nachweise beizufügen.
 
-- Studierende,  denen  gemäß  Abs. 1  Z 1  der  Studienbeitrag  erlassen  wurde  und  die  in  diesem Semester keine Studien oder Praxiszeiten im Sinne dieser Bestimmungen im Ausland absolviert haben, haben den Studienbeitrag nachträglich zu entrichten.
+(3) Studierende, denen gemäß Abs. 1 Z 1 der Studienbeitrag erlassen wurde und die in diesem Semester keine Studien oder Praxiszeiten im Sinne dieser Bestimmungen im Ausland absolviert haben, haben den Studienbeitrag nachträglich zu entrichten.
 
-- Sofern Studierende den Erlass des Studienbeitrages durch unvollständige oder unwahre Angaben maßgebender Tatsachen schuldhaft veranlasst oder erschlichen haben, haben sie unbeschadet strafrechtlicher Verantwortlichkeit den doppelten Studienbeitrag zu entrichten. Dies hat das Rektorat zu verfügen.
+(4) Sofern Studierende den Erlass des Studienbeitrages durch unvollständige oder unwahre Angaben maßgebender Tatsachen schuldhaft veranlasst oder erschlichen haben, haben sie unbeschadet strafrechtlicher Verantwortlichkeit den doppelten Studienbeitrag zu entrichten. Dies hat das Rektorat zu verfügen.
 
-- Studierende, die beurlaubt sind, haben keinen Studienbeitrag zu entrichten.
+(5) Studierende, die beurlaubt sind, haben keinen Studienbeitrag zu entrichten.
 
-(Anm.: aufgehoben durch BGBl. I Nr. 78/2013)
+(6) (Anm.: aufgehoben durch BGBl. I Nr. 78/2013)
 
-- Das  zuständige  Regierungsmitglied  ist  berechtigt,  entsprechend  den  Schwerpunktsetzungen Österreichs  bei  den  Maßnahmen  zur  Unterstützung  und  Förderung  der  wirtschaftlichen  und  sozialen Entwicklung der Entwicklungsländer sowie der Unterstützung der Reformländer Zentral- und Osteuropas durch Verordnung Staaten festzulegen, deren Angehörigen der Studienbeitrag rückerstattet werden kann.
+(7) Das zuständige Regierungsmitglied ist berechtigt, entsprechend den Schwerpunktsetzungen Österreichs bei den Maßnahmen zur Unterstützung und Förderung der wirtschaftlichen und sozialen Entwicklung der Entwicklungsländer sowie der Unterstützung der Reformländer Zentral- und Osteuropas durch Verordnung Staaten festzulegen, deren Angehörigen der Studienbeitrag rückerstattet werden kann.
 
-- Die Rückerstattung erfolgt im Rahmen der Privatwirtschaftsverwaltung auf Grund von Anträgen der  Studierenden.  Die  Rückerstattung  hat  binnen  vier  Wochen  ab  Antragstellung  auf  Erstattung  zu erfolgen. Auf die Erstattung besteht kein Rechtsanspruch.
+(8) Die Rückerstattung erfolgt im Rahmen der Privatwirtschaftsverwaltung auf Grund von Anträgen der Studierenden. Die Rückerstattung hat binnen vier Wochen ab Antragstellung auf Erstattung zu erfolgen. Auf die Erstattung besteht kein Rechtsanspruch.
 
 # 3. Hauptstück
 
@@ -1817,13 +1692,13 @@ Bundesrecht konsolidiert
 
 § 72. Zu den Angehörigen der Pädagogischen Hochschule zählen:
 
-- alle Studierenden im Sinne des § 35 Z 5,
+1. alle Studierenden im Sinne des § 35 Z 5,
 
-- das Lehrpersonal,
+2. das Lehrpersonal,
 
-- das Verwaltungspersonal,
+3. das Verwaltungspersonal,
 
-- die  Mitglieder  von  Organen  der  Pädagogischen  Hochschule,  die  nicht  auch  dem  Lehr-  oder Verwaltungspersonal angehören.
+4. die Mitglieder von Organen der Pädagogischen Hochschule, die nicht auch dem Lehr- oder Verwaltungspersonal angehören.
 
 ### Gewissensfreiheit und Forschungsfreiheit
 
@@ -1851,27 +1726,27 @@ Seite 32 von 41
 
 Bundesrecht konsolidiert
 
-- Beobachtung  und  Analyse  der  Entwicklung  der  Pädagoginnen-  und  Pädagogenbildung  in Österreich unter Bedachtnahme  auf  europäische und internationale Entwicklungen  sowie Erarbeitung von Vorschlägen zu deren Weiterentwicklung,
+1. Beobachtung und Analyse der Entwicklung der Pädagoginnen- und Pädagogenbildung in Österreich unter Bedachtnahme auf europäische und internationale Entwicklungen sowie Erarbeitung von Vorschlägen zu deren Weiterentwicklung,
 
-- Beratung der Bundesministerinnen und der Bundesminister sowie der hochschulischen Bildungseinrichtungen in Angelegenheiten der Qualitätssicherung und Bedarfsfragen,
+2. Beratung der Bundesministerinnen und der Bundesminister sowie der hochschulischen Bildungseinrichtungen in Angelegenheiten der Qualitätssicherung und Bedarfsfragen,
 
-- studienangebotsspezifische Prüfung der wissenschaftlichen und professionsorientierten Voraussetzungen für  die  Leistungserbringung  von  Pädagogischen  Hochschulen  allenfalls  unter Hinzuziehung einer dafür international anerkannten unabhängigen HochschulQualitätssicherungseinrichtung (zB Agentur für Qualitätssicherung und Akkreditierung Austria, oder eine im European Quality Assurance Register eingetragene Qualitätssicherungseinrichtung),
+3. studienangebotsspezifische Prüfung der wissenschaftlichen und professionsorientierten Voraussetzungen für die Leistungserbringung von Pädagogischen Hochschulen allenfalls unter Hinzuziehung einer dafür international anerkannten unabhängigen Hochschul-Qualitätssicherungseinrichtung (zB Agentur für Qualitätssicherung und Akkreditierung Austria, oder eine im European Quality Assurance Register eingetragene Qualitätssicherungseinrichtung),
 
-- Stellungnahme im Rahmen der Curricula-Begutachtungsverfahren zu den Curricula der Lehramtsstudien  gemäß Anlage hinsichtlich  der  Umsetzung  der  berufsrechtlichen  Vorgaben (insbesondere der für den Beruf der Pädagoginnen und Pädagogen notwendigen Kompetenzen, des Qualifikationsprofils, die entsprechende Berücksichtigung von im Schulorganisationsgesetz 1962 in der jeweils geltenden  Fassung  genannten  Aufgaben  der Schularten und der Anstellungserfordernisse) an die anbietende Bildungsinstitution, sowie
+4. Stellungnahme im Rahmen der Curricula-Begutachtungsverfahren zu den Curricula der Lehramtsstudien gemäß Anlage hinsichtlich der Umsetzung der berufsrechtlichen Vorgaben (insbesondere der für den Beruf der Pädagoginnen und Pädagogen notwendigen Kompetenzen, des Qualifikationsprofils, die entsprechende Berücksichtigung von im Schulorganisationsgesetz 1962 in der jeweils geltenden Fassung genannten Aufgaben der Schularten und der Anstellungserfordernisse) an die anbietende Bildungsinstitution, sowie
 
-- jährliche  Veröffentlichung  eines  Berichts  über  den  aktuellen  Stand  der  Pädagoginnen-  und Pädagogenbildung in Österreich und Vorlage an den Nationalrat.
+5. jährliche Veröffentlichung eines Berichts über den aktuellen Stand der Pädagoginnen- und Pädagogenbildung in Österreich und Vorlage an den Nationalrat.
 
 (2)  Der  Qualitätssicherungsrat  besteht  aus  sechs  auf  fünf  Jahre  bestellten  Mitgliedern,  die  als Expertinnen und Experten aus dem Bereich des nationalen bzw. internationalen Hochschulwesens über die  für  die  Aufgaben  des  Qualitätssicherungsrates  wesentlichen  Kenntnisse,  insbesondere  auch  des österreichischen Schulsystems, verfügen. Eine Wiederbestellung ist möglich. Der Rat soll je zur Hälfte aus  Frauen  und  Männern  bestehen.  Mindestens  zwei Mitglieder müssen  über  eine einschlägige internationale  Berufserfahrung  verfügen.  Drei  Mitglieder  sind  von  der  Bundesministerin  oder  vom Bundesminister für Unterricht, Kunst und Kultur, drei von der Bundesministerin oder vom Bundesminister für Wissenschaft und Forschung zu bestellen.
 
-- Die Mitgliedschaft im Qualitätssicherungsrat endet
+(3) Die Mitgliedschaft im Qualitätssicherungsrat endet
 
-- durch Ablauf der Funktionsperiode;
+1. durch Ablauf der Funktionsperiode;
 
-- durch Verzicht;
+2. durch Verzicht;
 
-- durch Abberufung;
+3. durch Abberufung;
 
-- durch Tod.
+4. durch Tod.
 
 (4) Die Bundesministerin oder der Bundesminister kann ein von ihr oder ihm bestelltes Mitglied des Qualitätssicherungsrates  wegen  einer  schweren  Pflichtverletzung,  einer  strafgerichtlichen  Verurteilung oder wegen mangelnder gesundheitlicher Eignung mit Bescheid von seiner Funktion abberufen.
 
@@ -1915,7 +1790,7 @@ Bundesrecht konsolidiert
 
 ### Mietrechte an Objekten der BIG und anderer Eigentümer
 
-§ 76. Die  Bestimmungen  des § 75 finden auf von der Bundesimmobildiengesellschaft mit beschränkter  Haftung  gemäß  BIG-Gesetz,  BGBl.  Nr. 419/1992,  oder  von  anderen  Dritten  angemietete Liegenschaften, Bauwerke  und Räumlichkeiten samt Inventar, die  kurzfristig nicht zu  hochschulischen Zwecken benötigt werden, Anwendung, soweit dies auf Grund des Mietvertrages und des Mietrechtsgesetzes, BGBl. Nr. 520/1981, zulässig ist.
+§ 76. Die Bestimmungen des § 75 finden auf von der Bundesimmobiliengesellschaft mit beschränkter Haftung gemäß BIG-Gesetz, BGBl. Nr. 419/1992, oder von anderen Dritten angemietete Liegenschaften, Bauwerke und Räumlichkeiten samt Inventar, die kurzfristig nicht zu hochschulischen Zwecken benötigt werden, Anwendung, soweit dies auf Grund des Mietvertrages und des Mietrechtsgesetzes, BGBl. Nr. 520/1981, zulässig ist.
 
 ### Drittmittel
 
@@ -1943,51 +1818,51 @@ Bundesrecht konsolidiert
 
 § 79. Mit der Vollziehung dieses Bundesgesetzes ist betraut:
 
-- hinsichtlich der Hochschule für Agrar- und Umweltpädagogik Wien gemäß § 1 Abs. 1 Z 9 der Bundesminister bzw. die Bundesministerin für Landund Forstwirtschaft, Umwelt  und Wasserwirtschaft in den Angelegenheiten der Errichtung, Erhaltung und Auflassung einschließlich  der  Bestellung  von  Funktionären  und  der  mit  der  Finanzgebarung  an  der Hochschule für Agrarund Umweltpädagogik Wien im Zusammenhang stehenden Bestimmungen,
+1. hinsichtlich der Hochschule für Agrar- und Umweltpädagogik Wien gemäß § 1 Abs. 1 Z 9 der Bundesminister bzw. die Bundesministerin für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft in den Angelegenheiten der Errichtung, Erhaltung und Auflassung einschließlich der Bestellung von Funktionären und der mit der Finanzgebarung an der Hochschule für Agrar- und Umweltpädagogik Wien im Zusammenhang stehenden Bestimmungen,
 
-- 1a. hinsichtlich des § 74a die Bundesministerin oder der Bundesminister für Unterricht, Kunst und Kultur und die Bundesministerin oder der Bundesminister für Wissenschaft und Forschung;
+1a. hinsichtlich des § 74a die Bundesministerin oder der Bundesminister für Unterricht, Kunst und Kultur und die Bundesministerin oder der Bundesminister für Wissenschaft und Forschung;
 
-- im Übrigen die Bundesministerin bzw. der Bundesminister für Unterricht, Kunst und Kultur.
+2. im Übrigen die Bundesministerin bzw. der Bundesminister für Unterricht, Kunst und Kultur.
 
 ### In-Kraft-Treten
 
 § 80. (1) Dieses Bundesgesetz tritt wie folgt in Kraft:
 
-§ 4, § 5, § 6, § 12, § 13 Abs. 3, § 14 Abs. 2, § 20 und § 83 treten mit 1. April 2006 in Kraft,
+1. § 4, § 5, § 6, § 12, § 13 Abs. 3, § 14 Abs. 2, § 20 und § 83 treten mit 1. April 2006 in Kraft,
 
-§ 13 Abs. 1, 2 und 6 tritt mit 1. September 2006 in Kraft,
+2. § 13 Abs. 1, 2 und 6 tritt mit 1. September 2006 in Kraft,
 
-§ 14 Abs. 1 und 4, § 15 und § 17 treten mit 1. Oktober 2006 in Kraft,
+3. § 14 Abs. 1 und 4, § 15 und § 17 treten mit 1. Oktober 2006 in Kraft,
 
-§ 29, § 75 und § 76 treten mit 1. Jänner 2007 in Kraft,
+4. § 29, § 75 und § 76 treten mit 1. Jänner 2007 in Kraft,
 
-§ 30, § 31 und § 42 treten mit 1. April 2007 in Kraft,
+5. § 30, § 31 und § 42 treten mit 1. April 2007 in Kraft,
 
-- im Übrigen tritt dieses Bundesgesetz mit 1. Oktober 2007 in Kraft.
+6. im Übrigen tritt dieses Bundesgesetz mit 1. Oktober 2007 in Kraft.
 
-- Verordnungen auf Grund dieses Bundesgesetzes können bereits von dem der Kundmachung im Bundesgesetzblatt folgenden Tag an erlassen werden; sie dürfen frühestens mit 1. Oktober 2007 in Kraft gesetzt werden.
+(2) Verordnungen auf Grund dieses Bundesgesetzes können bereits von dem der Kundmachung im Bundesgesetzblatt folgenden Tag an erlassen werden; sie dürfen frühestens mit 1. Oktober 2007 in Kraft gesetzt werden.
 
-§ 7  Abs. 4,  5  und  6  sowie  § 51  Abs. 2  Z 2  dieses  Bundesgesetzes  in  der  Fassung  des Bundesgesetzes BGBl. I Nr. 71/2008 treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft.
+(3) § 7 Abs. 4, 5 und 6 sowie § 51 Abs. 2 Z 2 dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 71/2008 treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft.
 
-§ 32 Abs. 2 Z 9 sowie § 52 sowie § 69 Abs. 1, Abs. 2 und Abs. 6 dieses Bundesgesetzes in der Fassung BGBl. I Nr. 134/2008 treten mit 1. März 2009 in Kraft.
+(4) § 32 Abs. 2 Z 9 sowie § 52 sowie § 69 Abs. 1, Abs. 2 und Abs. 6 dieses Bundesgesetzes in der Fassung BGBl. I Nr. 134/2008 treten mit 1. März 2009 in Kraft.
 
-- Die folgenden Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 47/2010 treten wie folgt in Kraft:
+(5) Die folgenden Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 47/2010 treten wie folgt in Kraft:
 
-§ 4 Abs. 1, § 7 Abs. 2, § 9 Abs. 6 Z 8 und Abs. 8, § 12 Abs. 1 Z 1 und Abs. 2 Z 2, § 12 Abs. 9 Z 6, § 13 Abs. 3, § 14 Abs. 1 und 2, § 15 Abs. 3 Z 14 und 15, § 16 Abs. 1a, § 18 Abs. 4 und 5, § 27 Abs. 1, § 28 Abs. 2 Z 7 bis 9, § 35 Z 4, § 38 Abs. 3, § 39 Abs. 2 und 3, § 44 Abs. 2, § 50 Abs. 1a, § 51 Abs. 2 Z 4 und 5, § 54 Abs. 3, § 55 Abs. 3, § 56 Abs. 1, § 57, § 59 Abs. 2 Z 2, Z 3 und Z 5, § 65 Abs. 1 und 5, § 67, § 68 Abs. 2 und 3a, § 69 Abs. 1, § 70 samt Überschrift, § 71 Abs. 1 Z 2 bis 7 sowie § 79 Z 2 mit 1. Oktober 2010,
+1. § 4 Abs. 1, § 7 Abs. 2, § 9 Abs. 6 Z 8 und Abs. 8, § 12 Abs. 1 Z 1 und Abs. 2 Z 2, § 12 Abs. 9 Z 6, § 13 Abs. 3, § 14 Abs. 1 und 2, § 15 Abs. 3 Z 14 und 15, § 16 Abs. 1a, § 18 Abs. 4 und 5, § 27 Abs. 1, § 28 Abs. 2 Z 7 bis 9, § 35 Z 4, § 38 Abs. 3, § 39 Abs. 2 und 3, § 44 Abs. 2, § 50 Abs. 1a, § 51 Abs. 2 Z 4 und 5, § 54 Abs. 3, § 55 Abs. 3, § 56 Abs. 1, § 57, § 59 Abs. 2 Z 2, Z 3 und Z 5, § 65 Abs. 1 und 5, § 67, § 68 Abs. 2 und 3a, § 69 Abs. 1, § 70 samt Überschrift, § 71 Abs. 1 Z 2 bis 7 sowie § 79 Z 2 mit 1. Oktober 2010,
 
-§ 65 Abs. 6 mit 1. Februar 2008.
+2. § 65 Abs. 6 mit 1. Februar 2008.
 
-§ 65a samt Überschrift am 1. Jänner 2011.
+3. § 65a samt Überschrift am 1. Jänner 2011.
 
-- Der  Titel,  § 8  Abs. 3a,  § 35  Z 5,  § 39  Abs. 1  sowie  § 56  Abs. 1  dieses  Bundesgesetzes  in  der Fassung  BGBl. I  Nr. 73/2011  treten  mit  Ablauf  des  Tages  der  Kundmachung  im  Bundesgesetzblatt  in Kraft.
+(6) Der Titel, § 8 Abs. 3a, § 35 Z 5, § 39 Abs. 1 sowie § 56 Abs. 1 dieses Bundesgesetzes in der Fassung BGBl. I Nr. 73/2011 treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft.
 
-- Die nachstehend genannten Bestimmungen dieses Bundegesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 78/2013 treten wie folgt in bzw. außer Kraft:
+(7) Die nachstehend genannten Bestimmungen dieses Bundegesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 78/2013 treten wie folgt in bzw. außer Kraft:
 
-§ 17 Abs. 3 Z 2, § 25 sowie § 44 Abs. 1 treten am 1. Jänner 2014 in Kraft.
+1. § 17 Abs. 3 Z 2, § 25 sowie § 44 Abs. 1 treten am 1. Jänner 2014 in Kraft.
 
-- Die den § 26 betreffende Zeile des Inhaltsverzeichnisses, § 26 samt Überschriftsowie § 71 Abs. 6 treten am 31. Dezember 2013 außer Kraft.
+2. Die den § 26 betreffende Zeile des Inhaltsverzeichnisses, § 26 samt Überschriftsowie § 71 Abs. 6 treten am 31. Dezember 2013 außer Kraft.
 
-- Die folgenden Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 124/2013 treten wie folgt in Kraft:
+(8) Die folgenden Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 124/2013 treten wie folgt in Kraft:
 
 www.ris.bka.gv.at
 
@@ -1999,13 +1874,13 @@ Seite 35 von 41
 
 Bundesrecht konsolidiert
 
-- Das Inhaltsverzeichnis hinsichtlich der die §§ 38a, und das 4a. Hauptstück betreffenden Zeilen, § 5 Abs. 1 Z 4, § 8 Abs. 1, 3b und 6a, § 9 Abs. 7, § 10, § 35 Z 1b und 4a, § 38a samt Überschrift mit Ausnahme des Abs. 1a, § 39 Abs. 1 bis 3, § 42 Abs. 4, § 52 hinsichtlich der Zulassungsfrist für facheinschlägige Studien ergänzende Studien zur Erlangung eines Lehramtes, § 59 Abs. 2 Z 8, § 65 Abs. 1a, § 65a Abs. 1, § 79 Abs. 1a sowie das 4a. Hauptstück treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft.
+1. Das Inhaltsverzeichnis hinsichtlich der die §§ 38a, und das 4a. Hauptstück betreffenden Zeilen, § 5 Abs. 1 Z 4, § 8 Abs. 1, 3b und 6a, § 9 Abs. 7, § 10, § 35 Z 1b und 4a, § 38a samt Überschrift mit Ausnahme des Abs. 1a, § 39 Abs. 1 bis 3, § 42 Abs. 4, § 52 hinsichtlich der Zulassungsfrist für facheinschlägige Studien ergänzende Studien zur Erlangung eines Lehramtes, § 59 Abs. 2 Z 8, § 65 Abs. 1a, § 65a Abs. 1, § 79 Abs. 1a sowie das 4a. Hauptstück treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft.
 
-- Das Inhaltsverzeichnis hinsichtlich der die §§ 41, 82a und § 82b betreffenden Zeilen, § 5 Abs. 2, § 8  Abs. 7,  § 8  Abs.  2  letzter  Satz,  § 9  Abs.  9,  § 30  Abs.  1,  § 39  Abs.  2  hinsichtlich  des Studienumfanges, § 40 Abs. 3 hinsichtlich der Bachelorstudien, § 41 samt Überschrift, § 42 Abs. 1b, 2 Z 2 und Abs. 4, § 46 Abs. 1a, § 49 hinsichtlich der Bachelorarbeit, § 51 Abs. 1, 2a, 2c und 3, § 59 Abs. 2 Z 3, 5, 6 und 7, § 69 Abs. 1 hinsichtlich Bachelorstudien und Abs. 2 hinsichtlich der Nachfrist, § 82a samt Überschrift sowie § 82b samt Überschrift treten mit 1. Oktober 2013 in Kraft.
+2. Das Inhaltsverzeichnis hinsichtlich der die §§ 41, 82a und § 82b betreffenden Zeilen, § 5 Abs. 2, § 8 Abs. 7, § 8 Abs. 2 letzter Satz, § 9 Abs. 9, § 30 Abs. 1, § 39 Abs. 2 hinsichtlich des Studienumfanges, § 40 Abs. 3 hinsichtlich der Bachelorstudien, § 41 samt Überschrift, § 42 Abs. 1b, 2 Z 2 und Abs. 4, § 46 Abs. 1a, § 49 hinsichtlich der Bachelorarbeit, § 51 Abs. 1, 2a, 2c und 3, § 59 Abs. 2 Z 3, 5, 6 und 7, § 69 Abs. 1 hinsichtlich Bachelorstudien und Abs. 2 hinsichtlich der Nachfrist, § 82a samt Überschrift sowie § 82b samt Überschrift treten mit 1. Oktober 2013 in Kraft.
 
-- Das Inhaltsverzeichnis hinsichtlich der die §§ 4, 38 und 65 betreffenden Zeilen, § 1 Abs. 2 Z 2, die Überschrift zu § 4, § 4 Abs. 1 Z 2 und Abs. 2, § 5 Abs. 1 und Abs. 1 Z 2, § 6 Abs. 1 Z 3, § 7 Abs. 1 bis 3, § 8 Abs. 2 mit Ausnahme des letzten Satzes, § 9 Abs. 1, § 32 Abs. 2 Z 1a, § 35 Z 1 und 5, § 38 samt Überschrift, § 39 Abs. 2, § 42 Abs. 1a, § 49, § 52, § 54 Abs. 1, § 55 Abs. 1, § 56 Abs. 1, die Überschrift zu § 57, § 57, § 58 Abs. 1, § 59 Abs. 2, die Überschrift zu § 65, § 65 Abs. 1, § 68 Abs. 1 sowie § 69 Abs. 2 treten hinsichtlich der neu beginnenden Bachelorstudien für die Primarstufe mit 1. Oktober 2015 in Kraft und finden auf Bachelorstudien für die Sekundarstufe im  Bereich  der  Allgemeinbildung  und  der  Berufsbildung  ab  1.  Oktober  2016  Anwendung. Pädagogische  Hochschulen können  die Bachelorstudien auch bereits vor den erwähnten Inkrafttretenszeitpunkten anbieten. Mit Ablauf des 30. Septembers 2016 tritt § 38a Abs. 1 außer Kraft, wobei dieser Absatz im Falle eines früheren Angebotes eines achtsemestrigen Bachelorstudiums an einer Pädagogischen Hochschule bereits entsprechend früher nicht mehr zur Anwendung kommt.
+3. Das Inhaltsverzeichnis hinsichtlich der die §§ 4, 38 und 65 betreffenden Zeilen, § 1 Abs. 2 Z 2, die Überschrift zu § 4, § 4 Abs. 1 Z 2 und Abs. 2, § 5 Abs. 1 und Abs. 1 Z 2, § 6 Abs. 1 Z 3, § 7 Abs. 1 bis 3, § 8 Abs. 2 mit Ausnahme des letzten Satzes, § 9 Abs. 1, § 32 Abs. 2 Z 1a, § 35 Z 1 und 5, § 38 samt Überschrift, § 39 Abs. 2, § 42 Abs. 1a, § 49, § 52, § 54 Abs. 1, § 55 Abs. 1, § 56 Abs. 1, die Überschrift zu § 57, § 57, § 58 Abs. 1, § 59 Abs. 2, die Überschrift zu § 65, § 65 Abs. 1, § 68 Abs. 1 sowie § 69 Abs. 2 treten hinsichtlich der neu beginnenden Bachelorstudien für die Primarstufe mit 1. Oktober 2015 in Kraft und finden auf Bachelorstudien für die Sekundarstufe im Bereich der Allgemeinbildung und der Berufsbildung ab 1. Oktober 2016 Anwendung. Pädagogische Hochschulen können die Bachelorstudien auch bereits vor den erwähnten Inkrafttretenszeitpunkten anbieten. Mit Ablauf des 30. Septembers 2016 tritt § 38a Abs. 1 außer Kraft, wobei dieser Absatz im Falle eines früheren Angebotes eines achtsemestrigen Bachelorstudiums an einer Pädagogischen Hochschule bereits entsprechend früher nicht mehr zur Anwendung kommt.
 
-- Das Inhaltsverzeichnis hinsichtlich der die §§ 4, 38, 48a, 57, 65 und 82c betreffenden Zeilen, § 1 Abs. 2 Z 2, § 4 Abs. 1 Z 2 und Abs. 2, § 5 Abs. 1 und Abs. 1 Z 2, § 6 Abs. 1 Z 3, § 7 Abs. 1 bis 3, § 8 Abs. 2 mit Ausnahme des letzten Satzes, § 9 Abs. 1, § 32 Abs. 2 Z 1a, § 35 Z 1a, 5 und 6, § 38 samt Überschrift, § 39 Abs. 2, § 40 Abs. 3, § 42 Abs. 1a, § 48a samt Überschrift, § 49, § 51 Abs. 2b, § 52, § 54 Abs.1, § 55 Abs. 1, § 56 Abs. 1, Überschrift zu § 57, § 57§ 58 Abs. 1, § 59 Abs. 2, § 62 Abs. 2 Z 5, die Überschrift zu § 65, § 65 Abs. 1, § 68 Abs. 1, § 69 Abs. 1 und 2 sowie § 82c samt Überschrift treten hinsichtlich der Masterstudien mit 1. Oktober 2019 in Kraft. Pädagogische Hochschulen können die Masterstudien auch bereits vor dem erwähnten Inkrafttretenszeitpunkt anbieten.
+4. Das Inhaltsverzeichnis hinsichtlich der die §§ 4, 38, 48a, 57, 65 und 82c betreffenden Zeilen, § 1 Abs. 2 Z 2, § 4 Abs. 1 Z 2 und Abs. 2, § 5 Abs. 1 und Abs. 1 Z 2, § 6 Abs. 1 Z 3, § 7 Abs. 1 bis 3, § 8 Abs. 2 mit Ausnahme des letzten Satzes, § 9 Abs. 1, § 32 Abs. 2 Z 1a, § 35 Z 1a, 5 und 6, § 38 samt Überschrift, § 39 Abs. 2, § 40 Abs. 3, § 42 Abs. 1a, § 48a samt Überschrift, § 49, § 51 Abs. 2b, § 52, § 54 Abs.1, § 55 Abs. 1, § 56 Abs. 1, Überschrift zu § 57, § 57§ 58 Abs. 1, § 59 Abs. 2, § 62 Abs. 2 Z 5, die Überschrift zu § 65, § 65 Abs. 1, § 68 Abs. 1, § 69 Abs. 1 und 2 sowie § 82c samt Überschrift treten hinsichtlich der Masterstudien mit 1. Oktober 2019 in Kraft. Pädagogische Hochschulen können die Masterstudien auch bereits vor dem erwähnten Inkrafttretenszeitpunkt anbieten.
 
 ### Übergangsrecht für den Studienbeginn im Studienjahr 2006/07
 
@@ -2015,13 +1890,13 @@ Bundesrecht konsolidiert
 
 § 82. (1) Studierende, die ein Lehramtsstudium vor dem Studienjahr 2006/07 an einer Akademie im Sinne  des  Akademien-Studiengesetzes 1999,  BGBl. I  Nr. 94,  begonnen  haben,  sind  berechtigt,  dieses Studium
 
-- nach  den  zu  Beginn  des  Studiums  geltenden  Rechtsvorschriften  unter  den  gemäß  Abs. 2 vorgesehenen Adaptierungen fortzusetzen, oder
+1. nach den zu Beginn des Studiums geltenden Rechtsvorschriften unter den gemäß Abs. 2 vorgesehenen Adaptierungen fortzusetzen, oder
 
-- ab dem Studienjahr 2007/08 als Bachelorstudium nach den Bestimmungen dieses Bundesgesetzes sowie der auf Grund dieses Bundesgesetzes erlassenen Verordnungen fortzuführen.
+2. ab dem Studienjahr 2007/08 als Bachelorstudium nach den Bestimmungen dieses Bundesgesetzes sowie der auf Grund dieses Bundesgesetzes erlassenen Verordnungen fortzuführen.
 
-- Für  Studierende, die ihr Studium  gemäß Abs. 1 Z 1 fortsetzen, hat die Studienkommission die betreffenden Curricula dahingehend  neu  zu erlassen, dass  das  Studium  durch  den  Besuch  von Lehrveranstaltungen  (Teilen  von  Lehrveranstaltungen)  des  Bachelorstudiums  (mit  oder  ohne  Auflagen oder  Abweichungen)  absolviert  werden  kann.  Für  einzelne  Studierende  können  individuelle  Curricula erlassen werden. Für die Studierenden darf sich aus dieser Umstellung  des Curriculums  keine Zeitverzögerung im Studium ergeben.
+(2) Für Studierende, die ihr Studium gemäß Abs. 1 Z 1 fortsetzen, hat die Studienkommission die betreffenden Curricula dahingehend neu zu erlassen, dass das Studium durch den Besuch von Lehrveranstaltungen (Teilen von Lehrveranstaltungen) des Bachelorstudiums (mit oder ohne Auflagen oder Abweichungen) absolviert werden kann. Für einzelne Studierende können individuelle Curricula erlassen werden. Für die Studierenden darf sich aus dieser Umstellung des Curriculums keine Zeitverzögerung im Studium ergeben.
 
-- Im Falle des Abs. 1 Z 2 haben die Studierenden zusätzliche Lehrveranstaltungen im Mindestausmaß von 30 ECTS-Credits erfolgreich zu absolvieren; die Inhalte und Anforderungen dieser
+(3) Im Falle des Abs. 1 Z 2 haben die Studierenden zusätzliche Lehrveranstaltungen im Mindestausmaß von 30 ECTS-Credits erfolgreich zu absolvieren; die Inhalte und Anforderungen dieser
 
 www.ris.bka.gv.at
 
@@ -2037,7 +1912,7 @@ Lehrveranstaltungen  haben  die  Differenz  der  Curricula  des  Diplomstudiums 
 
 ### Übergangsrecht zur Neuen Mittelschule für den Studienbeginn im Studienjahr 2013/14
 
-§ 82a. (1)  Bis  zum  1.  Oktober  2015  ist  in  § 5  Abs. 1  Z 2  der  Begriff  'Hauptschulen'  durch  den Begriff 'Neue Mittelschulen' zu ersetzen.
+§ 82a. (1) Bis zum 1. Oktober 2015 ist in § 5 Abs. 1 Z 2 der Begriff „Hauptschulen“ durch den Begriff „Neue Mittelschulen“ zu ersetzen.
 
 (2)  Mit  dem  Studienjahr  2013/14  sind  an  Stelle  von  Bachelorstudien  für  das  Lehramt  für Hauptschulen nur mehr Bachelorstudien für das Lehramt für Neue Mittelschulen zu führen. Studierende des  Bachelorstudiums  des  Lehramts  für  Hauptschulen  haben  bei  Fortsetzung  des  Studiums  ab  dem Studienjahr 2013/14 dieses als Bachelorstudium für das Lehramt für Neue Mittelschulen fortzuführen.
 
@@ -2053,25 +1928,28 @@ Lehrveranstaltungen  haben  die  Differenz  der  Curricula  des  Diplomstudiums 
 
 § 83. (1)  Insofern § 80 ein früheres In-Kraft-Treten als den 1. Oktober 2007 vorsieht, haben die in diesen  Bestimmungen genannten Organe abweichend von den sonstigen Befugnissen auf Grund dieses Bundesgesetzes  alle  für  die  Vorbereitung  des  Studienbetriebes  ab  1. Oktober  2007  erforderlichen Maßnahmen,  die  für  eine  unverzügliche  Aufnahme  der  Tätigkeiten  der  Pädagogischen  Hochschule erforderlich sind, zu setzen.
 
-- Die mit 1. September 2006 zu bestellenden Rektoren bzw. Rektorinnen tragen bis zum Ablauf des  30. September  2007  die  Funktionsbezeichnung  'Gründungsrektor'  bzw.  'Gründungsrektorin'  und gelten ab 1. Oktober 2007 für ihre erste Funktionsperiode als zum Rektor bzw. zur Rektorin bestellt.
+(2) Die mit 1. September 2006 zu bestellenden Rektoren bzw. Rektorinnen tragen bis zum Ablauf des 30. September 2007 die Funktionsbezeichnung „Gründungsrektor“ bzw. „Gründungsrektorin“ und gelten ab 1. Oktober 2007 für ihre erste Funktionsperiode als zum Rektor bzw. zur Rektorin bestellt.
 
 (3) Abs. 2 findet hinsichtlich der mit 1. Oktober 2006 zu bestellenden Vizerektoren bzw. Vizerektorinnen sowie für das Rektorat sinngemäß Anwendung.
 
-- Die mit 1. Oktober 2006 einzurichtende Studienkommission ist bis zum Ablauf des 30. September  2007  als  'Gründungs-Studienkommission'  einzurichten,  wobei  die  Vertreter  bzw.  die Vertreterinnen des Lehrpersonals aus dem Lehrpersonal derjenigen Akademien zu wählen sind, die mit Wirksamkeit des 1. Oktober 2007 der betreffenden Pädagogischen Hochschule zuzurechnen sein werden.
+(4) Die mit 1. Oktober 2006 einzurichtende Studienkommission ist bis zum Ablauf des 30. September 2007 als „Gründungs-Studienkommission“ einzurichten, wobei die Vertreter bzw. die Vertreterinnen des Lehrpersonals aus dem Lehrpersonal derjenigen Akademien zu wählen sind, die mit Wirksamkeit des 1. Oktober 2007 der betreffenden Pädagogischen Hochschule zuzurechnen sein werden.
 
-- Anträge auf Anerkennung gemäß § 4 Abs. 1 Z 1 und 2 dürfen bereits von dem der Kundmachung dieses Bundesgesetzes im Bundesgesetzblatt folgenden Tag an eingereicht werden. Anerkennungsbescheide  gemäß  § 6  können  vor  dem  In-Kraft-Treten  dieses  Bundesgesetzes  erlassen werden, sie dürfen jedoch frühestens mit 1. Oktober 2007 rechtswirksam werden.
+(5) Anträge auf Anerkennung gemäß § 4 Abs. 1 Z 1 und 2 dürfen bereits von dem der Kundmachung dieses Bundesgesetzes im Bundesgesetzblatt folgenden Tag an eingereicht werden. Anerkennungsbescheide gemäß § 6 können vor dem In-Kraft-Treten dieses Bundesgesetzes erlassen werden, sie dürfen jedoch frühestens mit 1. Oktober 2007 rechtswirksam werden.
 
 ### Übergangsrecht für das Personal an Bundeseinrichtungen
 
 § 84. (1) Die Pädagogischen und Berufspädagogischen Akademien des Bundes, die Pädagogischen Institute des Bundes und die Agrarpädagogische Akademie werden mit Ablauf des 30. September 2007 aufgelöst.
 
-- Die  am  30.  September  2007  einer  Pädagogischen  oder  Berufspädagogischen  Akademie  des Bundes  oder  einem  Pädagogischen  Institut  des  Bundes  zur  dauernden  Dienstleistung  zugewiesenen Bundesbediensteten  werden  mit  Wirksamkeit  vom  1.  Oktober  2007  den  Pädagogischen  Hochschulen gemäß § 1 Abs. 1 Z 1 bis 8 zur dauernden Dienstleistung wie folgt zugewiesen:
+(2) Die am 30. September 2007 einer Pädagogischen oder Berufspädagogischen Akademie des Bundes oder einem Pädagogischen Institut des Bundes zur dauernden Dienstleistung zugewiesenen Bundesbediensteten werden mit Wirksamkeit vom 1. Oktober 2007 den Pädagogischen Hochschulen gemäß § 1 Abs. 1 Z 1 bis 8 zur dauernden Dienstleistung wie folgt zugewiesen:
 
 bisherige Dienststelle | neue Dienststelle
 --- | ---
-Pädagogische Akademie des Bundes in Kärnten Pädagogisches Institut des Bundes für Kärnten Pädagogische Akademie des Bundes in Niederösterreich Pädagogisches Institut des Bundes für | Pädagogische Hochschule Kärnten Pädagogische Hochschule
-Niederösterreich Pädagogische Akademie des Bundes in Oberösterreich | Niederösterreich
-Berufspädagogische Akademie Linz | Pädagogische Hochschule Oberösterreich
+Pädagogische Akademie des Bundes in Kärnten | Pädagogische Hochschule Kärnten
+Pädagogisches Institut des Bundes für Kärnten |
+Pädagogische Akademie des Bundes in Niederösterreich | Pädagogische Hochschule Niederösterreich
+Pädagogisches Institut des Bundes für Niederösterreich |
+Pädagogische Akademie des Bundes in Oberösterreich | Pädagogische Hochschule Oberösterreich
+Berufspädagogische Akademie Linz |
 
 www.ris.bka.gv.at
 
@@ -2083,18 +1961,25 @@ Seite 37 von 41
 
 Bundesrecht konsolidiert
 
-Pädagogisches Institut des Bundes für Oberösterreich | Pädagogische Hochschule Salzburg Pädagogische Hochschule
---- | ---
-Pädagogische Akademie des Bundes in Salzburg Pädagogisches Institut des Bundes für Salzburg Pädagogische Akademie des Bundes in der Steiermark Berufspädagogische Akademie Graz Pädagogisches Institut des Bundes für Steiermark | Steiermark
-Pädagogische Akademie des Bundes in Tirol Berufspädagogische Akademie Innsbruck | Pädagogische Hochschule Tirol
-Pädagogische Akademie des Bundes in Vorarlberg Pädagogisches Institut des Bundes für Vorarlberg Pädagogische Akademie des Bundes in Wien Berufspädagogische Akademie Wien | Pädagogische Hochschule Vorarlberg
-Pädagogisches Institut des Bundes in Wien | Pädagogische Hochschule Wien
+Pädagogisches Institut des Bundes für Oberösterreich |
+Pädagogische Akademie des Bundes in Salzburg | Pädagogische Hochschule Salzburg
+Pädagogisches Institut des Bundes für Salzburg |
+Pädagogische Akademie des Bundes in der Steiermark | Pädagogische Hochschule Steiermark
+Berufspädagogische Akademie Graz |
+Pädagogisches Institut des Bundes für Steiermark |
+Pädagogische Akademie des Bundes in Tirol | Pädagogische Hochschule Tirol
+Berufspädagogische Akademie Innsbruck |
+Pädagogische Akademie des Bundes in Vorarlberg | Pädagogische Hochschule Vorarlberg
+Pädagogisches Institut des Bundes für Vorarlberg |
+Pädagogische Akademie des Bundes in Wien | Pädagogische Hochschule Wien
+Berufspädagogische Akademie Wien |
+Pädagogisches Institut des Bundes in Wien |
 
-- Bei den am 30. September 2007 einer Pädagogischen Akademie des Bundes als Übungsschullehrer zur dauernden Dienstleistung zugewiesenen Bundeslehrern und Bundesvertragslehrern erfolgt die Zuweisung gemäß Abs. 2 zur dauernden Dienstleistung an der der jeweiligen Pädagogischen Hochschule eingegliederten Praxisschule (§ 22 Abs. 1).
+(3) Bei den am 30. September 2007 einer Pädagogischen Akademie des Bundes als Übungsschullehrer zur dauernden Dienstleistung zugewiesenen Bundeslehrern und Bundesvertragslehrern erfolgt die Zuweisung gemäß Abs. 2 zur dauernden Dienstleistung an der der jeweiligen Pädagogischen Hochschule eingegliederten Praxisschule (§ 22 Abs. 1).
 
-- Die  am  30.  September  2007  der  Agrarpädagogischen  Akademie  zur  dauernden  Dienstleistung zugewiesenen  Bundesbediensteten  werden  mit  Wirksamkeit  vom  1.  Oktober  2007  der  Hochschule  für Agrar- und Umweltpädagogik (§ 1 Abs. 1 Z 9) zur dauernden Dienstleistung zugewiesen.
+(4) Die am 30. September 2007 der Agrarpädagogischen Akademie zur dauernden Dienstleistung zugewiesenen Bundesbediensteten werden mit Wirksamkeit vom 1. Oktober 2007 der Hochschule für Agrar- und Umweltpädagogik (§ 1 Abs. 1 Z 9) zur dauernden Dienstleistung zugewiesen.
 
-- Durch  Ernennung  oder  Betrauung  übertragene  Leitungsfunktionen  gemäß  §  115  Abs.  1  erster Satz, § 123 Abs. 1 und § 127 Abs. 1 und 2 des Schulorganisationsgesetzes, BGBl. Nr. 242/1962, und gemäß § 26 Abs. 1 des Land- und forstwirtschaftlichen Bundesschulgesetzes, BGBl. Nr. 175/1966, enden mit Ablauf des 30. September 2007.
+(5) Durch Ernennung oder Betrauung übertragene Leitungsfunktionen gemäß § 115 Abs. 1 erster Satz, § 123 Abs. 1 und § 127 Abs. 1 und 2 des Schulorganisationsgesetzes, BGBl. Nr. 242/1962, und gemäß § 26 Abs. 1 des Land- und forstwirtschaftlichen Bundesschulgesetzes, BGBl. Nr. 175/1966, enden mit Ablauf des 30. September 2007.
 
 ### Übergangsrecht für das Personal an privaten Einrichtungen
 
@@ -2103,10 +1988,22 @@ Pädagogisches Institut des Bundes in Wien | Pädagogische Hochschule Wien
 bisherige Dienststelle | neue Dienststelle
 --- | ---
 Religionspädagogische Akademie der Diözese Gurk-Klagenfurt | Pädagogische Hochschule Kärnten
-Pädagogische Akademie Burgenland Pädagogische Akademie der Diözese St. Pölten Pädagogische Akademie der Diözese Graz-Seckau Religionspädagogische Akademie der Diözese | Pädagogische Hochschule Niederösterreich Pädagogische Hochschule Steiermark
+Pädagogische Akademie Burgenland | Pädagogische Hochschule Niederösterreich
+Pädagogische Akademie der Diözese St. Pölten |
+Pädagogische Akademie der Diözese Graz-Seckau | Pädagogische Hochschule Steiermark
+Religionspädagogische Akademie der Diözese Graz-Seckau |
 Religionspädagogische Akademie der Erzdiözese Salzburg | Pädagogische Hochschule Salzburg
-Pädagogische Akademie der Diözese Innsbruck Religionspädagogische Akademie der Diözese Innsbruck Pädagogisches Institut des Landes Tirol | Pädagogische Hochschule Tirol
-Pädagogisches Institut des Landes Vorarlberg Pädagogische Akademie der Erzdiözese Wien Religionspädagogische Akademie der Erzdiözese Wien Evangelische Religionspädagogische Akademie Islamische Religionspädagogische Akademie Jüdische Religionspädagogische Akademie Pädagogisches Institut der Stadt Wien Pädagogisches Institut der Erzdiözese Wien | Pädagogische Hochschule Vorarlberg Pädagogische Hochschule Wien
+Pädagogische Akademie der Diözese Innsbruck | Pädagogische Hochschule Tirol
+Religionspädagogische Akademie der Diözese Innsbruck |
+Pädagogisches Institut des Landes Tirol |
+Pädagogisches Institut des Landes Vorarlberg | Pädagogische Hochschule Vorarlberg
+Pädagogische Akademie der Erzdiözese Wien | Pädagogische Hochschule Wien
+Religionspädagogische Akademie der Erzdiözese Wien |
+Evangelische Religionspädagogische Akademie |
+Islamische Religionspädagogische Akademie |
+Jüdische Religionspädagogische Akademie |
+Pädagogisches Institut der Stadt Wien |
+Pädagogisches Institut der Erzdiözese Wien |
 
 www.ris.bka.gv.at
 
@@ -2126,7 +2023,7 @@ Bundesrecht konsolidiert
 
 zu § 74a Abs. 1 Z 4
 
-## 'Rahmenvorgaben  für  die  Begutachtung  der  Curricula  durch  den  Qualitätssicherungsrat  für Pädagoginnen- und Pädagogenbildung
+## „Rahmenvorgaben für die Begutachtung der Curricula durch den Qualitätssicherungsrat für Pädagoginnen- und Pädagogenbildung
 
 Der  Qualitätssicherungsrat  für  Pädagoginnen-  und  Pädagogenbildung  orientiert  sich  in  der  Erstellung seiner  Stellungnahmen  im  Rahmen  der  Curricula-Begutachtungsverfahren  zu  den  Curricula  der  neuen Lehramtsstudien an folgenden Rahmenvorgaben zur Studienarchitektur.
 
@@ -2137,9 +2034,9 @@ Der  Qualitätssicherungsrat  für  Pädagoginnen-  und  Pädagogenbildung  orie
 
 - 40 bis 50 ECTS-Credits für allgemeine bildungswissenschaftliche Grundlagen;
 
-- 120 bis 130 ECTS-Credits für Elementar- und Primarstufenpädagogik und -didaktik mit Schwerpunk im jeweiligen Altersbereich (Elementar- oder Primarstufe);
+- 120 bis 130 ECTS-Credits für Elementar- und Primarstufenpädagogik und –didaktik mit Schwerpunk im jeweiligen Altersbereich (Elementar- oder Primarstufe);
 
-- 60 bis 80 ECTS-Credits Schwerpunktsetzung (z. B. in einem fachlichen Bildungsbereich, in Inklusiver Pädagogik, in Sonderund Heilpädagogik, in Sozialpädagogik, in Mehrsprachigkeit usw.);
+- 60 bis 80 ECTS-Credits Schwerpunktsetzung (z. B. in einem fachlichen Bildungsbereich, in Inklusiver Pädagogik, in Sonder- und Heilpädagogik, in Sozialpädagogik, in Mehrsprachigkeit usw.);
 
 - pädagogisch-praktische Studien sind zu integrieren.
 
@@ -2157,7 +2054,7 @@ Für Absolventinnen und Absolventen eines Lehramtsstudiums im Bereich der Sekund
 
 #### Für Bachelor- und Masterstudien zur Erlangung eines Lehramtes im Bereich der Sekundarstufe (Allgemeinbildung)
 
-Ein  'Studienfach'  bezieht  sich  im  Folgenden  immer  auf  einen  Unterrichtsgegenstand  im  Bereich  der Sekundarstufe (Allgemeinbildung).
+Ein „Studienfach“ bezieht sich im Folgenden immer auf einen Unterrichtsgegenstand im Bereich der Sekundarstufe (Allgemeinbildung).
 
 ##### Bachelorstudium im Umfang von 240 ECTS-Credits; davon:
 
@@ -2175,7 +2072,7 @@ Seite 39 von 41
 
 Bundesrecht konsolidiert
 
-- oder  statt  2.  Studienfach  Spezialisierungen  im  Umfang  von  95  bis  100  ECTS  Credtis (z. B. Inklusive Pädagogik, Sonderund Heilpädagogik, Sozialpädagogik; Berufsorientierung, Mehrsprachigkeit, Medienpädagogik usw.);
+- oder statt 2. Studienfach Spezialisierungen im Umfang von 95 bis 100 ECTS Credtis (z. B. Inklusive Pädagogik, Sonder- und Heilpädagogik, Sozialpädagogik; Berufsorientierung, Mehrsprachigkeit, Medienpädagogik usw.);
 
 - pädagogisch-praktische Studien sind zu integrieren.
 
@@ -2211,7 +2108,7 @@ Für Absolventinnen und Absolventen eines Lehramtsstudiums im Bereich der Primar
 
 - der Anteil für allgemeine bildungswissenschaftliche Grundlagen muss so groß sein, dass zusammen  mit  dem  Anteil im Bachelorstudium mindestens 60 ECTS-Credits im Gesamtstudium enthalten sind;
 
-- Falls  im  Masterstudium  pädagogische  Spezialisierungen  (z. B.  Inklusive  Pädagogik, Sonderund Heilpädagogik, Sozialpädagogik; Berufsorientierung, Mehrsprachigkeit, Medienpädagogik usw.) abgedeckt werden sollen, erhöht sich der Aufwand des Masterstudiums auf mindestens 90 ECTS-Credits.
+- Falls im Masterstudium pädagogische Spezialisierungen (z. B. Inklusive Pädagogik, Sonder- und Heilpädagogik, Sozialpädagogik; Berufsorientierung, Mehrsprachigkeit, Medienpädagogik usw.) abgedeckt werden sollen, erhöht sich der Aufwand des Masterstudiums auf mindestens 90 ECTS-Credits.
 
 #### Für Bachelor- und Masterstudien zur Erlangung eines Lehramtes im Bereich der Sekundarstufe (Berufsbildung)
 
@@ -2225,7 +2122,7 @@ Für Absolventinnen und Absolventen eines Lehramtsstudiums im Bereich der Primar
 
 - 60  ECTS-Credits  für  allgemeine  bildungswissenschaftliche  Grundlagen;  davon  können maximal 30 ECTS-Credits für eine Berufspraxis mit pädagogischen Anteilen angerechnet werden;
 
-- 120  ECTS-Credits  für  berufsfachliche  Grundlagen;  davon  können  maximal  120  ECTSCredits für eine mindestens dreijährige facheinschlägige Berufspraxis angerechnet werden; falls keine mindestens dreijährige facheinschlägige Berufspraxis vorliegt, können maximal 60 ECTS-Credits angerechnet werden;
+- 120 ECTS-Credits für berufsfachliche Grundlagen; davon können maximal 120 ECTS-Credits für eine mindestens dreijährige facheinschlägige Berufspraxis angerechnet werden; falls keine mindestens dreijährige facheinschlägige Berufspraxis vorliegt, können maximal 60 ECTS-Credits angerechnet werden;
 
 www.ris.bka.gv.at
 
