@@ -2,55 +2,7 @@
 
 06/06/2019
 
-CONSTITUTION OF GEORGIA | სსიპ ' საქართველოს საკანონმდებლო მაცნე '
-
-### Article 1 - State sovereignty
-
-- Georgia is an independent, unified and indivisible state as confirmed by the Referendum of 31 March 1991 held in the entire territory of the country, including the Autonomous Soviet Socialist Republic of Abkhazia and the former Autonomous Region of South Ossetia, and by the Act of Restoration of State Independence of Georgia of 9 April 1991.
-
-- The territory of the state of Georgia was determined on 21 December 1991. The territorial integrity of Georgia and the inviolability of the state border is  confirmed  by  the  Constitution  and  laws  of  Georgia,  and  recognised  by  the  world  community  of  nations  and  by  international  organisations.  The alienation of the territory of the state of Georgia shall be prohibited. The state border may be changed only by a bilateral agreement with a neighbouring state.
-
-Constitutional Law of Georgia No 1324 of 13 October 2017 - website, 19.10.2017
-
-Constitutional Law of Georgia No 2071 of 23 March 2018 - website, 2.4.2018
-
-### Article 2 - State symbols
-
-'Georgia' is the name of the state of Georgia.
-
-- Tbilisi is the capital of Georgia.
-
-- The official language of Georgia shall be Georgian, and, in the Autonomous Republic of Abkhazia, also Abkhazian. The official language is protected by the organic law.
-
-- The  state  flag,  the  coat  of  arms,  and  the  anthem  of  Georgia  are  established  by  the  organic  law,  which  shall  be  revised  in  accordance  with  the procedure established for revising the Constitution.
-
-Constitutional Law of Georgia No 1324 of 13 October 2017 - website, 19.10.2017
-
-Constitutional Law of Georgia No 2071 of 23 March 2018 - website, 2.4.2018
-
-### Article 3 - Democracy
-
-- Georgia is a democratic republic.
-
-- People are the source of state authority. People exercise power through their representatives, as well as through referendums and other forms of direct democracy.
-
-- No  one  shall  have  the  right  to  seize  power.  The  current  term  of  a  body  elected  in  general  elections  shall  not  be  extended  or  reduced  by  the Constitution or law.
-
-- Political parties shall participate in the formation and exercise of the political will of the people. The activities of political parties shall be based on the principles of freedom, equality, transparency, and intra-party democracy.
-
-Constitutional Law of Georgia No 1324 of 13 October 2017 - website, 19.10.2017
-
-Constitutional Law of Georgia No 2071 of 23 March 2018 - website, 2.4.2018
-
-### Article 4 - Legal state
-
-- Georgia is a legal state.
-
-- The State acknowledges and protects universally recognised human rights and freedoms as eternal and supreme human values. While exercising authority,  the  people  and  the  State  shall  be  bound  by  these  rights  and  freedoms  as  directly  applicable  law.  The  Constitution  shall  not  deny  other universally  recognised  human  rights  and  freedoms  that  are  not  explicitly  referred  to  herein,  but  that  inherently  derive  from  the  principles  of  the Constitution.
-
-- State authority shall be exercised based on the principle of the separation of powers.
-
-- State authority shall be exercised within the ambit of the Constitution and law. The Constitution of Georgia shall be the supreme law of the State. General rules for the adoption and issuance of legislative and other normative acts, and their hierarchy, shall be determined by the organic law.
+CONSTITUTION OF GEORGIA | სსიპ ”საქართველოს საკანონმდებლო მაცნე”
 
 Consolidated version (final)
 
@@ -64,6 +16,54 @@ Constitutional Law of Georgia No 2071 of 23 March 2018 - website, 2.4.2018
 
 ## Chapter One - General Provisions
 
+### Article 1 - State sovereignty
+
+- Georgia is an independent, unified and indivisible state as confirmed by the Referendum of 31 March 1991 held in the entire territory of the country, including the Autonomous Soviet Socialist Republic of Abkhazia and the former Autonomous Region of South Ossetia, and by the Act of Restoration of State Independence of Georgia of 9 April 1991.
+
+- The territory of the state of Georgia was determined on 21 December 1991. The territorial integrity of Georgia and the inviolability of the state border is confirmed by the Constitution and laws of Georgia, and recognised by the world community of nations and by international organisations. The alienation of the territory of the state of Georgia shall be prohibited. The state border may be changed only by a bilateral agreement with a neighbouring state.
+
+Constitutional Law of Georgia No 1324 of 13 October 2017 - website, 19.10.2017
+
+Constitutional Law of Georgia No 2071 of 23 March 2018 - website, 2.4.2018
+
+### Article 2 - State symbols
+
+‘Georgia’ is the name of the state of Georgia.
+
+- Tbilisi is the capital of Georgia.
+
+- The official language of Georgia shall be Georgian, and, in the Autonomous Republic of Abkhazia, also Abkhazian. The official language is protected by the organic law.
+
+- The state flag, the coat of arms, and the anthem of Georgia are established by the organic law, which shall be revised in accordance with the procedure established for revising the Constitution.
+
+Constitutional Law of Georgia No 1324 of 13 October 2017 - website, 19.10.2017
+
+Constitutional Law of Georgia No 2071 of 23 March 2018 - website, 2.4.2018
+
+### Article 3 - Democracy
+
+- Georgia is a democratic republic.
+
+- People are the source of state authority. People exercise power through their representatives, as well as through referendums and other forms of direct democracy.
+
+- No one shall have the right to seize power. The current term of a body elected in general elections shall not be extended or reduced by the Constitution or law.
+
+- Political parties shall participate in the formation and exercise of the political will of the people. The activities of political parties shall be based on the principles of freedom, equality, transparency, and intra-party democracy.
+
+Constitutional Law of Georgia No 1324 of 13 October 2017 - website, 19.10.2017
+
+Constitutional Law of Georgia No 2071 of 23 March 2018 - website, 2.4.2018
+
+### Article 4 - Legal state
+
+- Georgia is a legal state.
+
+- The State acknowledges and protects universally recognised human rights and freedoms as eternal and supreme human values. While exercising authority, the people and the State shall be bound by these rights and freedoms as directly applicable law. The Constitution shall not deny other universally recognised human rights and freedoms that are not explicitly referred to herein, but that inherently derive from the principles of the Constitution.
+
+- State authority shall be exercised based on the principle of the separation of powers.
+
+- State authority shall be exercised within the ambit of the Constitution and law. The Constitution of Georgia shall be the supreme law of the State. General rules for the adoption and issuance of legislative and other normative acts, and their hierarchy, shall be determined by the organic law.
+
 https://matsne.gov.ge/en/document/view/30346?publication=35
 
 1/23
@@ -74,7 +74,7 @@ https://matsne.gov.ge/en/document/view/30346?publication=35
 
 06/06/2019
 
-CONSTITUTION OF GEORGIA | სსიპ ' საქართველოს საკანონმდებლო მაცნე '
+CONSTITUTION OF GEORGIA | სსიპ ”საქართველოს საკანონმდებლო მაცნე”
 
 - The legislation of Georgia shall comply with the universally recognised principles and norms of international law. An international treaty of Georgia shall take precedence over domestic normative acts unless it comes into conflict with the Constitution or the Constitutional Agreement of Georgia.
 
@@ -150,7 +150,7 @@ https://matsne.gov.ge/en/document/view/30346?publication=35
 
 06/06/2019
 
-CONSTITUTION OF GEORGIA | სსიპ ' საქართველოს საკანონმდებლო მაცნე '
+CONSTITUTION OF GEORGIA | სსიპ ”საქართველოს საკანონმდებლო მაცნე”
 
 Constitutional Law of Georgia No 1324 of 13 October 2017 - website, 19.10.2017
 
@@ -228,7 +228,7 @@ https://matsne.gov.ge/en/document/view/30346?publication=35
 
 06/06/2019
 
-CONSTITUTION OF GEORGIA | სსიპ ' საქართველოს საკანონმდებლო მაცნე '
+CONSTITUTION OF GEORGIA | სსიპ ”საქართველოს საკანონმდებლო მაცნე”
 
 - The detention period for an accused person shall not exceed 9 months.
 
@@ -302,7 +302,7 @@ https://matsne.gov.ge/en/document/view/30346?publication=35
 
 06/06/2019
 
-CONSTITUTION OF GEORGIA | სსიპ ' საქართველოს საკანონმდებლო მაცნე '
+CONSTITUTION OF GEORGIA | სსიპ ”საქართველოს საკანონმდებლო მაცნე”
 
 ### Article 18 - Rights to fair administrative proceedings, access to public information, informational self-determination, and compensation for damage inflicted by public authority
 
@@ -380,7 +380,7 @@ https://matsne.gov.ge/en/document/view/30346?publication=35
 
 06/06/2019
 
-CONSTITUTION OF GEORGIA | სსიპ ' საქართველოს საკანონმდებლო მაცნე '
+CONSTITUTION OF GEORGIA | სსიპ ”საქართველოს საკანონმდებლო მაცნე”
 
 - Citizens of Georgia shall have the right to form a political party and participate in its activities in accordance with the organic law.
 
@@ -444,9 +444,7 @@ Constitutional Law of Georgia No 2071 of 23 March 2018 - website, 2.4.2018
 
 - The right of a citizen to affordable and quality health care services shall be guaranteed by law.
 
-- The State shall exercise control over all health care institutions and the quality of medical services, and shall regulate the production and circulation
-
-- of pharmaceuticals.
+- The State shall exercise control over all health care institutions and the quality of medical services, and shall regulate the production and circulation of pharmaceuticals.
 
 Constitutional Law of Georgia No 1324 of 13 October 2017 - website, 19.10.2017
 
@@ -460,7 +458,7 @@ https://matsne.gov.ge/en/document/view/30346?publication=35
 
 06/06/2019
 
-CONSTITUTION OF GEORGIA | სსიპ ' საქართველოს საკანონმდებლო მაცნე '
+CONSTITUTION OF GEORGIA | სსიპ ”საქართველოს საკანონმდებლო მაცნე”
 
 Constitutional Law of Georgia No 2071 of 23 March 2018 - website, 2.4.2018
 
@@ -540,7 +538,7 @@ https://matsne.gov.ge/en/document/view/30346?publication=35
 
 06/06/2019
 
-CONSTITUTION OF GEORGIA | სსიპ ' საქართველოს საკანონმდებლო მაცნე '
+CONSTITUTION OF GEORGIA | სსიპ ”საქართველოს საკანონმდებლო მაცნე”
 
 - Citizens of other states and stateless persons living in Georgia shall have rights and obligations equal to those of citizens of Georgia except in cases provided for by the Constitution and law.
 
@@ -598,7 +596,7 @@ Constitutional Law of Georgia No 2071 of 23 March 2018 - website, 2.4.2018
 
 - Before the condition provided for by paragraph 1 of this article is created, Parliament shall be composed of 150 Members of Parliament elected in a single multi-mandate electoral district for a term of 4 years by a proportional system on the basis of universal, free, equal and direct suffrage, by secret ballot.
 
-- Regular parliamentary elections shall be held on the last Saturday of October of the calendar year in which the term of Parliament expires. In case of the dissolution of Parliament, elections shall be held no earlier than the 45 day and no later than the 60 day after the dissolution of Parliament. If the election date coincides with a state of emergency or martial law, elections shall be held no earlier than the 45 day and no later than the 60 day after the state of emergency or martial law has been revoked. th th th th
+- Regular parliamentary elections shall be held on the last Saturday of October of the calendar year in which the term of Parliament expires. In case of the dissolution of Parliament, elections shall be held no earlier than the 45th day and no later than the 60th day after the dissolution of Parliament. If the election date coincides with a state of emergency or martial law, elections shall be held no earlier than the 45th day and no later than the 60th day after the state of emergency or martial law has been revoked.
 
 https://matsne.gov.ge/en/document/view/30346?publication=35
 
@@ -610,7 +608,7 @@ https://matsne.gov.ge/en/document/view/30346?publication=35
 
 06/06/2019
 
-CONSTITUTION OF GEORGIA | სსიპ ' საქართველოს საკანონმდებლო მაცნე '
+CONSTITUTION OF GEORGIA | სსიპ ”საქართველოს საკანონმდებლო მაცნე”
 
 - Any citizen of Georgia having the electoral right, who has attained the age of 25 and who has lived in Georgia for at least 10 years, may be elected as a Member of Parliament. A person who has been sentenced to imprisonment by a court judgment shall not be elected as a Member of Parliament.
 
@@ -626,7 +624,7 @@ Constitutional Law of Georgia No 2071 of 23 March 2018 - website, 2.4.2018
 
 ### Article 38 - First meeting of Parliament and termination of powers
 
-The first meeting of the newly elected Parliament shall be held no later than the 10 day after the results of the parliamentary elections have been officially announced. The first meeting of Parliament is called by the President. Parliament shall be authorised to start work at the first meeting if the majority of the total number of the Members of Parliament is present at the meeting. Parliament shall acquire full powers once this is acknowledged by two thirds of the Members of Parliament. The powers of the previous Parliament shall be terminated from this moment. th
+The first meeting of the newly elected Parliament shall be held no later than the 10th day after the results of the parliamentary elections have been officially announced. The first meeting of Parliament is called by the President. Parliament shall be authorised to start work at the first meeting if the majority of the total number of the Members of Parliament is present at the meeting. Parliament shall acquire full powers once this is acknowledged by two thirds of the Members of Parliament. The powers of the previous Parliament shall be terminated from this moment.
 
 Constitutional Law of Georgia No 1324 of 13 October 2017 - website, 19.10.2017
 
@@ -678,7 +676,7 @@ https://matsne.gov.ge/en/document/view/30346?publication=35
 
 06/06/2019
 
-CONSTITUTION OF GEORGIA | სსიპ ' საქართველოს საკანონმდებლო მაცნე '
+CONSTITUTION OF GEORGIA | სსიპ ”საქართველოს საკანონმდებლო მაცნე”
 
 Parliament shall fulfil full administrative functions in the House of Parliament in accordance with the procedures established by the Rules of Procedure.
 
@@ -744,7 +742,7 @@ https://matsne.gov.ge/en/document/view/30346?publication=35
 
 06/06/2019
 
-CONSTITUTION OF GEORGIA | სსიპ ' საქართველოს საკანონმდებლო მაცნე '
+CONSTITUTION OF GEORGIA | სსიპ ”საქართველოს საკანონმდებლო მაცნე”
 
 - A member of the Government, an official accountable to Parliament or the head of a body accountable to Parliament shall be entitled and, upon request, obliged to attend sittings of Parliament, parliamentary committees or commissions, in order to provide answers to questions raised during the sitting and to submit a report of activities performed. Parliament, a committee or a commission shall hear such an official immediately upon request.
 
@@ -778,7 +776,7 @@ Constitutional Law of Georgia No 2071 of 23 March 2018 - website, 2.4.2018
 
 - If the President of Georgia does not promulgate the law, return it to Parliament with justified remarks within the time frame established by paragraph 2 of this article, or promulgate it within the time frame established by paragraphs 3, 4 or 5 of this article, then the Chairperson of Parliament shall sign and promulgate the law within 5 days after this time frame expires.
 
-- A law shall enter into force on the 15 day after its promulgation in the official body unless another date is established by the same law. th
+- A law shall enter into force on the 15th day after its promulgation in the official body unless another date is established by the same law.
 
 Constitutional Law of Georgia No 1324 of 13 October 2017 - website, 19.10.2017
 
@@ -814,7 +812,7 @@ https://matsne.gov.ge/en/document/view/30346?publication=35
 
 06/06/2019
 
-CONSTITUTION OF GEORGIA | სსიპ ' საქართველოს საკანონმდებლო მაცნე '
+CONSTITUTION OF GEORGIA | სსიპ ”საქართველოს საკანონმდებლო მაცნე”
 
 Constitutional Law of Georgia No 1324 of 13 October 2017 - website, 19.10.2017
 
@@ -878,7 +876,7 @@ https://matsne.gov.ge/en/document/view/30346?publication=35
 
 06/06/2019
 
-CONSTITUTION OF GEORGIA | სსიპ ' საქართველოს საკანონმდებლო მაცნე '
+CONSTITUTION OF GEORGIA | სსიპ ”საქართველოს საკანონმდებლო მაცნე”
 
 Constitutional Law of Georgia No 1324 of 13 October 2017 - website, 19.10.2017
 
@@ -948,7 +946,7 @@ https://matsne.gov.ge/en/document/view/30346?publication=35
 
 06/06/2019
 
-CONSTITUTION OF GEORGIA | სსიპ ' საქართველოს საკანონმდებლო მაცნე '
+CONSTITUTION OF GEORGIA | სსიპ ”საქართველოს საკანონმდებლო მაცნე”
 
 - calling parliamentary elections, dissolving Parliament, or convening sessions or sittings of Parliament;
 
@@ -1026,7 +1024,7 @@ https://matsne.gov.ge/en/document/view/30346?publication=35
 
 06/06/2019
 
-CONSTITUTION OF GEORGIA | სსიპ ' საქართველოს საკანონმდებლო მაცნე '
+CONSTITUTION OF GEORGIA | სსიპ ”საქართველოს საკანონმდებლო მაცნე”
 
 - Within 2 weeks after the Government relinquishes its authority, as well as after the resignation of the Prime Minister or the termination of his/her authority otherwise, Parliament shall hold a vote of confidence in the Government proposed by a candidate for the office of Prime Minister nominated by the political party that secured the best results in the parliamentary elections. A Government programme shall be presented to Parliament together with the composition of the Government. A majority of the total number of the Members of Parliament is required to pass a vote of confidence.
 
@@ -1058,7 +1056,7 @@ Constitutional Law of Georgia No 2071 of 23 March 2018 - website, 2.4.2018
 
 - The Prime Minister shall have the right to present to Parliament an issue of confidence in the Government.
 
-- An issue of confidence shall be put to vote no earlier than the 7 day and no later than the 14 day after it has been presented. If the Government fails to achieve a vote of confidence from Parliament, the President of Georgia shall, no earlier than the 8 day and no later than the 14 day after the vote, dissolve Parliament and call extraordinary parliamentary elections. th th th th
+- An issue of confidence shall be put to vote no earlier than the 7th day and no later than the 14th day after it has been presented. If the Government fails to achieve a vote of confidence from Parliament, the President of Georgia shall, no earlier than the 8th day and no later than the 14th day after the vote, dissolve Parliament and call extraordinary parliamentary elections.
 
 - The President of Georgia shall not dissolve Parliament if, within 7 days after voting against a vote of confidence in the Government, Parliament passes by a majority of the total number of its members a vote of confidence in the Government proposed by a candidate for the office of Prime Minister nominated by more than one third of the total number of the Members of Parliament. A Government programme shall be presented to Parliament together  with  the  composition  of  the  Government.  Within  2  days  of  the  vote  of  confidence  in  the  new  Government,  the  President  of  Georgia  shall appoint the Prime Minister. The Prime Minister shall then appoint ministers within 2 days of his/her appointment. If the President of Georgia does not appoint the Prime Minister within the established time frame, the Prime Minister shall be considered appointed. The authority of the Government shall be terminated once a new Prime Minister is appointed.
 
@@ -1086,7 +1084,7 @@ https://matsne.gov.ge/en/document/view/30346?publication=35
 
 06/06/2019
 
-CONSTITUTION OF GEORGIA | სსიპ ' საქართველოს საკანონმდებლო მაცნე '
+CONSTITUTION OF GEORGIA | სსიპ ”საქართველოს საკანონმდებლო მაცნე”
 
 authority and procedure for activity shall be determined by the organic law.
 
@@ -1156,7 +1154,7 @@ https://matsne.gov.ge/en/document/view/30346?publication=35
 
 06/06/2019
 
-CONSTITUTION OF GEORGIA | სსიპ ' საქართველოს საკანონმდებლო მაცნე '
+CONSTITUTION OF GEORGIA | სსიპ ”საქართველოს საკანონმდებლო მაცნე”
 
 ### Article 62 - Judicial proceedings
 
@@ -1218,7 +1216,7 @@ https://matsne.gov.ge/en/document/view/30346?publication=35
 
 06/06/2019
 
-CONSTITUTION OF GEORGIA | სსიპ ' საქართველოს საკანონმდებლო მაცნე '
+CONSTITUTION OF GEORGIA | სსიპ ”საქართველოს საკანონმდებლო მაცნე”
 
 - The Prosecutor's Office of Georgia shall be independent in its activity and shall only comply with the Constitution and law.
 
@@ -1284,7 +1282,7 @@ https://matsne.gov.ge/en/document/view/30346?publication=35
 
 06/06/2019
 
-CONSTITUTION OF GEORGIA | სსიპ ' საქართველოს საკანონმდებლო მაცნე '
+CONSTITUTION OF GEORGIA | სსიპ ”საქართველოს საკანონმდებლო მაცნე”
 
 - The  National  Bank  shall  be  independent  in  its  activity.  Only  the  administrative  and  capital  expenditure  of  the  National  Bank  shall  be  subject  to supervision and control provided for by Article 69 of the Constitution. The National Bank shall be accountable to Parliament and shall annually submit an activity report to it.
 
@@ -1354,7 +1352,7 @@ https://matsne.gov.ge/en/document/view/30346?publication=35
 
 06/06/2019
 
-CONSTITUTION OF GEORGIA | სსიპ ' საქართველოს საკანონმდებლო მაცნე '
+CONSTITUTION OF GEORGIA | სსიპ ”საქართველოს საკანონმდებლო მაცნე”
 
 - During a state of emergency or martial law, the President of Georgia shall have the right to restrict by decree the rights listed in Articles 13, 14, 15, 17, 18, 19, 21 and 26 of the Constitution across the entire territory of Georgia or in any part of it. During a state of emergency or martial law, the President of Georgia shall have the right to suspend by decree Articles 13(2)-(6), 14(2), 15(2), 17(3), (5) and (6), 18(2), 19(3) of the Constitution across the  entire  territory  of  Georgia  or  in  any  part  of  it.  The  President  of  Georgia  shall  immediately  submit  the  decree  provided  for  by  this  paragraph  to Parliament for approval. A decree on the restriction of a right shall enter into force upon its issuance, whereas a decree on the suspension of a norm shall enter into force upon approval by Parliament. A decree on the restriction of a right shall be approved in accordance with the procedure established by paragraph 3 of this article.
 
@@ -1420,13 +1418,13 @@ https://matsne.gov.ge/en/document/view/30346?publication=35
 
 06/06/2019
 
-CONSTITUTION OF GEORGIA | სსიპ ' საქართველოს საკანონმდებლო მაცნე '
+CONSTITUTION OF GEORGIA | სსიპ ”საქართველოს საკანონმდებლო მაცნე”
 
 - The powers of the state authorities and the self-governing units shall be separated.
 
 - Self-governing units shall be authorised to take decisions, on their own initiative and in compliance with legislation, on all matters that do not fall within the exclusive powers of the State or of the autonomous republics, and which are not excluded from the powers of self-governing units by law.
 
-- A self-governing unit shall exercise its powers independently and be responsible for doing so within the ambit of the legislation of Georgia. A selfgoverning unit's powers, as defined by the organic law, shall be full and exclusive.
+- A self-governing unit shall exercise its powers independently and be responsible for doing so within the ambit of the legislation of Georgia. A self-governing unit's powers, as defined by the organic law, shall be full and exclusive.
 
 - The State shall delegate powers to a self-governing unit on the basis of a legislative act or agreement by transferring the appropriate material and financial resources.
 
@@ -1446,7 +1444,7 @@ Constitutional Law of Georgia No 2071 of 23 March 2018 - website, 2.4.2018
 
 - The  state  authorities  shall  take  decisions  on  issues  related  to  local  self-government  in  consultation  with  self-governing  units.  The  procedure  for consultations shall be determined by the organic law.
 
-- Decisions  made  by  the  bodies  of  local  self-government  within  the  scope  of  their  competence  shall  be  binding  in  the  territory  of  respective  selfgoverning units.
+- Decisions made by the bodies of local self-government within the scope of their competence shall be binding in the territory of respective self-governing units.
 
 Constitutional Law of Georgia No 1324 of 13 October 2017 - website, 19.10.2017
 
@@ -1490,7 +1488,7 @@ https://matsne.gov.ge/en/document/view/30346?publication=35
 
 06/06/2019
 
-CONSTITUTION OF GEORGIA | სსიპ ' საქართველოს საკანონმდებლო მაცნე '
+CONSTITUTION OF GEORGIA | სსიპ ”საქართველოს საკანონმდებლო მაცნე”
 
 Constitutional Law of Georgia No 1324 of 13 October 2017 - website, 19.10.2017
 
@@ -1502,21 +1500,20 @@ Tbilisi
 
 24 August 1995
 
-No 786რს
+No 786-რს
 
-35. 23/03/2018 - Constitution of Georgia, Constitutional Law of Georgia - 2071-II ს - Website, 02/04/2018 - Amendment contains transitional provision (/en/document/view/4110673)
----
-34. 13/10/2017 - Constitution of Georgia, Constitutional Law of Georgia - 1324- რს - Website, 19/10/2017 - Amendment contains transitional provision (/en/document/view/3811818)
-33. 04/10/2013 - Constitution of Georgia, Constitutional Law of Georgia - 1456-I ს - Website, 16/10/2013 (/en/document/view/2045059)
-32. 25/03/2013 - Constitution of Georgia, Constitutional Law of Georgia - 496- რს - Website, 27/03/2013 (/en/document/view/1877698)
-31. 29/06/2012 - Constitution of Georgia, Constitutional Law of Georgia - 6602- რს - Website, 10/07/2012 (/en/document/view/1696093)
-30. 22/05/2012 - Constitution of Georgia, Constitutional Law of Georgia - 6240-I ს - Website, 29/05/2012 (/en/document/view/1661774)
-29. 22/05/2012 - Constitution of Georgia, Constitutional Law of Georgia - 6239-I ს - Website, 29/05/2012 - Amendment contains transitional provision (/en/document/view/1661745)
-28. 22/05/2012 - Constitution of Georgia, Constitutional Law of Georgia - 6238-I ს - Website, 29/05/2012 (/en/document/view/1661721)
-27. 27/12/2011 - Constitution of Georgia, Constitutional Law of Georgia - 5630- რს - Website, 09/01/2012 - Amendment contains transitional provision (/en/document/view/1556256)
-26. 01/07/2011 - Constitution of Georgia, Constitutional Law of Georgia - 4985- რს - Website, 110714025, 14/07/2011 (/en/document/view/1405338)
-25. 15/12/2010 - Constitution of Georgia, Constitutional Law of Georgia - 4033- რს - Website, 030111, 03/01/2011 - Amendment contains transitional provision (/en/document/view/1168565)
-24. 15/10/2010 - Constitution of Georgia, Constitutional Law of Georgia - 3710-II ს - LHG, 62, 05/11/2010 - Amendment contains transitional provision (/en/document/view/1080890)
+35. 23/03/2018 - Constitution of Georgia, Constitutional Law of Georgia - 2071-IIს - Website, 02/04/2018 - Amendment contains transitional provision (/en/document/view/4110673)
+34. 13/10/2017 - Constitution of Georgia, Constitutional Law of Georgia - 1324-რს - Website, 19/10/2017 - Amendment contains transitional provision (/en/document/view/3811818)
+33. 04/10/2013 - Constitution of Georgia, Constitutional Law of Georgia - 1456-Iს - Website, 16/10/2013 (/en/document/view/2045059)
+32. 25/03/2013 - Constitution of Georgia, Constitutional Law of Georgia - 496-რს - Website, 27/03/2013 (/en/document/view/1877698)
+31. 29/06/2012 - Constitution of Georgia, Constitutional Law of Georgia - 6602-რს - Website, 10/07/2012 (/en/document/view/1696093)
+30. 22/05/2012 - Constitution of Georgia, Constitutional Law of Georgia - 6240-Iს - Website, 29/05/2012 (/en/document/view/1661774)
+29. 22/05/2012 - Constitution of Georgia, Constitutional Law of Georgia - 6239-Iს - Website, 29/05/2012 - Amendment contains transitional provision (/en/document/view/1661745)
+28. 22/05/2012 - Constitution of Georgia, Constitutional Law of Georgia - 6238-Iს - Website, 29/05/2012 (/en/document/view/1661721)
+27. 27/12/2011 - Constitution of Georgia, Constitutional Law of Georgia - 5630-რს - Website, 09/01/2012 - Amendment contains transitional provision (/en/document/view/1556256)
+26. 01/07/2011 - Constitution of Georgia, Constitutional Law of Georgia - 4985-რს - Website, 110714025, 14/07/2011 (/en/document/view/1405338)
+25. 15/12/2010 - Constitution of Georgia, Constitutional Law of Georgia - 4033-რს - Website, 030111, 03/01/2011 - Amendment contains transitional provision (/en/document/view/1168565)
+24. 15/10/2010 - Constitution of Georgia, Constitutional Law of Georgia - 3710-IIს - LHG, 62, 05/11/2010 - Amendment contains transitional provision (/en/document/view/1080890)
 23. 12/02/2010 - Constitution of Georgia, Constitutional Law of Georgia - 2565 - LHG, 6, 22/02/2010 (/en/document/view/91378)
 22. 24/09/2009 - Constitution of Georgia, Constitutional Law of Georgia - 1675 - LHG, 29, 12/10/2009 - Amendment contains transitional provision (/en/document/view/89638)
 21. 24/09/2009 - Constitution of Georgia, Constitutional Law of Georgia - 1674 - LHG, 29, 12/10/2009 - Amendment contains transitional provision (/en/document/view/89632)
@@ -1540,10 +1537,9 @@ https://matsne.gov.ge/en/document/view/30346?publication=35
 
 06/06/2019
 
-CONSTITUTION OF GEORGIA | სსიპ ' საქართველოს საკანონმდებლო მაცნე '
+CONSTITUTION OF GEORGIA | სსიპ ”საქართველოს საკანონმდებლო მაცნე”
 
 11. 23/12/2005 - Law of Georgia - 2494 - LHG, 1, 04/01/2006 (/en/document/view/25318)
----
 10. 23/02/2005 - Law of Georgia - 1010 - LHG, 8, 10/03/2005 (/en/document/view/30862)
 9. 01/07/2004 - Law of Georgia - 306 - LHG, 16, 04/07/2004 (/en/document/view/30448)
 8. 23/04/2004 - Law of Georgia - 6 - LHG, 9, 03/05/2004 (/en/document/view/13534)
