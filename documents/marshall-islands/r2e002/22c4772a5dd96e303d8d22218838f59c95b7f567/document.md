@@ -16,59 +16,61 @@ Section
 
 #### PART I - PRELIMINARY
 
-#### PART IV - FINANCE
-
 §601. Short Title.
-
-§614. National Training Fund.
 
 §602. Interpretation.
 
-§615. Payments into the Fund.
-
 §603. Preference.
-
-§616. Payment out of the Fund.
-
-§617. Bank Accounts.
 
 #### PART II - NATIONAL TRAINING COUNCIL
 
-§618. Accounts and Records.
-
 §604. Establishment of Council.
-
-§619. Borrowing
 
 §605. Council Membership.
 
 §606. Meetings, by-laws and procedures
 
-#### PART V - MISCELLANEOUS
-
 §607. Functions of Council.
-
-§620. Inspection and Records.
 
 §608. Annual Report.
 
-§621. Authorised Officers
-
 §609. Director and staff.
 
-§622. Regulations
-
-§623. Transition
-
-#### PART II - TRAINING
-
-§624. Merger of Work Investment Act Program Activities
+#### PART III - TRAINING
 
 §610. Courses of training.
 
 §611. Selection and placement of trainees
 
 §612. Apprenticeship Training.
+
+§613. Contract of apprenticeship.
+
+#### PART IV - FINANCE
+
+§614. National Training Fund.
+
+§615. Payments into the Fund.
+
+§616. Payment out of the Fund.
+
+§617. Bank Accounts.
+
+§618. Accounts and Records.
+
+§619. Borrowing
+
+#### PART V - MISCELLANEOUS
+
+§620. Inspection and Records.
+
+§621. Authorised Officers
+
+§622. Regulations
+
+§623. Transition
+
+§624. Merger of Work Investment Act Program Activities
 
 _______________________________________________________________________
 
@@ -110,6 +112,8 @@ In this Chapter, unless the context otherwise requires;
 
 ______________________________________________________________________________
 
+636.6
+
 (d) 'Council' means the National Training Council established under Section 604.
 
 (e) 'Designated trade or occupation' means a trade or occupation designated by the  President for the purposes of this Chapter.
@@ -132,27 +136,27 @@ In the administration of this Chapter, preference shall be given to citizens of 
 
 (2) The Council:
 
-(i) is a body corporate with perpetual succession;
+(a) is a body corporate with perpetual succession;
 
-(j) shall have a seal;
+(b) shall have a seal;
 
-(k) may enter into contracts;
+(c) may enter into contracts;
 
-(l) may sue and be sued in its corporate name; and
+(d) may sue and be sued in its corporate name; and
 
-(m) for the purposes of its functions, has all the powers, functions, duties, and  responsibilities of a corporation, provided that it shall not have the power to hold  or convey real property.
+(e) for the purposes of its functions, has all the powers, functions, duties, and responsibilities of a corporation, provided that it shall not have the power to hold or convey real property.
 
-- To the extent that the provisions of the Associations Law, P.L. 1990-91, as amended,  are not inconsistent with this Chapter, they shall apply to the Council and its activities. [P.L. 1991140, §4.]
+(3) To the extent that the provisions of the Associations Law, P.L. 1990-91, as amended, are not inconsistent with this Chapter, they shall apply to the Council and its activities. [P.L. 1991-140, §4.]
 
 #### §605.   Council-membership.
 
 The Council shall consist of the following seven (7) members:
 
-(n) the Chief Secretary, who shall serve as Chairman of the Council;
+(a) the Chief Secretary, who shall serve as Chairman of the Council;
 
-(o) one member representing the Ministry of Resources and Development, who  shall be appointed by the President ;
+(b) one member representing the Ministry of Resources and Development, who shall be appointed by the President ;
 
-(p) one member representing the Economic Policy, Planning and Statistics Office, who shall be appointed by the President; and
+(c) one member representing the Economic Policy, Planning and Statistics Office, who shall be appointed by the President; and
 
 (d) three (3) members from the general public who shall be appointed by the  President in the following manner:
 
@@ -164,8 +168,6 @@ The Council shall consist of the following seven (7) members:
 
 (e) one member representing the Ministry of Education appointed by
 
-636.6
-
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
@@ -176,13 +178,15 @@ CHAPTER 6 - NATIONAL TRAINING COUNCIL
 
 ______________________________________________________________________________
 
+636.7
+
 the  President; [P.L. 1991-140, §5.][amended by P.L. 2005-39]
 
 #### §606.   Meetings, by-laws and procedures.
 
-(i)  The Council shall meet not less than four (4) times per year. The members shall be notified in writing by the Director or other person designated by the Council at least one week before the date of any meeting.
+(1) The Council shall meet not less than four (4) times per year. The members shall be notified in writing by the Director or other person designated by the Council at least one week before the date of any meeting.
 
-(ii) Subject to this Chapter and any other law, the Council shall determine its own bylaws,  which shall provide for a quorum and the conduct of meetings; the appointment and duties of a  Vice-Chairman and Secretary of the Council; the appointment of any additional committees as the  Council deems advisable to assist the Council in its functions; and any other matters relating to  the Council and its operations and procedures which it deems appropriate. [P.L. 1991-140, §6.]
+(2) Subject to this Chapter and any other law, the Council shall determine its own bylaws, which shall provide for a quorum and the conduct of meetings; the appointment and duties of a Vice-Chairman and Secretary of the Council; the appointment of any additional committees as the Council deems advisable to assist the Council in its functions; and any other matters relating to the Council and its operations and procedures which it deems appropriate. [P.L. 1991-140, §6.]
 
 #### §607.   Functions of Council.
 
@@ -218,8 +222,6 @@ The Council shall submit a report to the Nitijela in its regular constitutional 
 
 #### §609.   Director and staff.
 
-636.7
-
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
@@ -228,9 +230,11 @@ The Council shall submit a report to the Nitijela in its regular constitutional 
 
 ______________________________________________________________________________
 
-- The Council shall appoint a Director of the Council on such terms and conditions as the Council, with the approval of the Minister, decides.
+636.8
 
-- The Director shall serve at the pleasure of the Council, and shall be responsible for assisting the Council in carrying out its functions and for the implementation of this Chapter.
+(1) The Council shall appoint a Director of the Council on such terms and conditions as the Council, with the approval of the Minister, decides.
+
+(2) The Director shall serve at the pleasure of the Council, and shall be responsible for assisting the Council in carrying out its functions and for the implementation of this Chapter.
 
 (3) The Director may, with the prior approval of the Council, hire such staff, including technical and other advisors, as may be necessary to carry out the functions of the Council as provided in this Chapter. [P.L. 1991-140, §9.]
 
@@ -252,7 +256,7 @@ The President, in consultation with the Council, shall adopt regulations concern
 
 (1) Any apprentice in any designated trade or occupation shall be employed under an agreement made between the Director on behalf of the Council, the apprentice and the employer, whereby the employer agrees to employ the apprentice, and the apprentice agrees to work for the employer for a specified period of training in accordance with this Chapter and regulations promulgated under this Chapter.
 
-- The President, in consultation with the Council, shall adopt regulations prescribing the  form, duration and any other necessary particulars of contracts of apprenticeship, including but  not limited to:
+(2) The President, in consultation with the Council, shall adopt regulations prescribing the form, duration and any other necessary particulars of contracts of apprenticeship, including but not limited to:
 
 (a) the release of any employer or apprentice from their respective obligations under a contract; and
 
@@ -262,11 +266,11 @@ The President, in consultation with the Council, shall adopt regulations concern
 
 #### §614.   National Training Fund.
 
-- The National Training Fund (hereinafter, 'the Fund') is hereby established.
+(1) The National Training Fund (hereinafter, 'the Fund') is hereby established.
+
+(2) The Fund shall be administered by the Council.
 
 (3)The Fund is a fund other than the Marshall Islands General Fund, within the meaning and for the purposes of Article XIII, Section 3(2) of the Constitution of the Marshall Islands. [P.L.1991-140, §14.]
-
-636.8
 
 [[END OF PAGE 4]]
 
@@ -277,6 +281,8 @@ CHAPTER 6 - NATIONAL TRAINING COUNCIL
 14 MIRC Ch.6
 
 ______________________________________________________________________________
+
+636.9
 
 #### §615.   Payments into the Fund.
 
@@ -328,8 +334,6 @@ The Council shall open a bank account or accounts with a bank approved by the Mi
 
 (c) a report containing details of the activities of the Council during
 
-636.9
-
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
@@ -338,17 +342,19 @@ The Council shall open a bank account or accounts with a bank approved by the Mi
 
 ______________________________________________________________________________
 
+636.10
+
 the financial  year. [P.L. 1991-140, §18.]
 
 #### §619.   Borrowing and contributions.
 
 (1)With the approval of the Cabinet and subject to such conditions and within such limits  as it imposes, and subject to this Section, the Council may borrow money for its purposes.
 
-(5)Subject to the direction of the President and to this Section, the Council may accept  gifts, grants, advances, contributions or other assistance for its purposes.
+(2)Subject to the direction of the President and to this Section, the Council may accept gifts, grants, advances, contributions or other assistance for its purposes.
 
-(6) No money may be borrowed by the Council, and no gift, grant, advance, contribution  or other assistance may be accepted by the Council, from the Government or agency of another  country, or from any other sources outside of the Republic, except through the Government of the  Republic or with the concurrence of the Cabinet.
+(3) No money may be borrowed by the Council, and no gift, grant, advance, contribution or other assistance may be accepted by the Council, from the Government or agency of another country, or from any other sources outside of the Republic, except through the Government of the Republic or with the concurrence of the Cabinet.
 
-(7) Where any money is borrowed, or any gift, grant, advance, contribution or other  assistance is received for a specific purpose or subject to any conditions, it may be expended or  used only for that purpose or subject to those conditions. [P.L. 1991-140, §19.][Sub-section (2) amended by P. L.2005-39]
+(4) Where any money is borrowed, or any gift, grant, advance, contribution or other assistance is received for a specific purpose or subject to any conditions, it may be expended or used only for that purpose or subject to those conditions. [P.L. 1991-140, §19.][Sub-section (2) amended by P. L.2005-39]
 
 ### PART V - MISCELLANEOUS
 
@@ -374,8 +380,6 @@ With respect to any employer of an apprentice or other trainee placed with such 
 
 The President, in consultation with the Council, shall promulgate such
 
-636.10
-
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
@@ -385,6 +389,8 @@ CHAPTER 6 - NATIONAL TRAINING COUNCIL
 14 MIRC Ch.6
 
 ______________________________________________________________________________
+
+636.11
 
 regulations as are  necessary to implement this Chapter, including but not limited to the following:
 
@@ -418,8 +424,6 @@ regulations as are  necessary to implement this Chapter, including but not limit
 
 (4) The re-organization under subsection (1) herein shall be completed within thirty (30)  days from the effective date of this Act (P.L. 2005-39).
 
-(5) All employees of the Work Investment Act program and the National Training Council  shall continue to perform their duties and responsibilities, and be compensated for work done  during the thirty-day reorganization period. [New section inserted by P.L. 2005-39]
-
-636.11
+(5) All employees of the Work Investment Act program and the National Training Council shall continue to perform their duties and responsibilities, and be compensated for work done during the thirty-day reorganization period. [New section inserted by P.L. 2005-39]
 
 [[END OF PAGE 7]]
