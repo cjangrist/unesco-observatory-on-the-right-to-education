@@ -24,11 +24,13 @@ There are differences in the legal nature of the obligations under the Conventio
 
 Bearing in mind the differences in wording and in legal scope inherent to the nature of these two categories  of  instruments,  the  content  of  the  Recommendation  is  identical  to  that  of  the Convention. Member States are expected to give effect to it in national legislation and education policies.
 
-Most importantly, the reporting obligation under the provisions of Article VII of the Convention and of  the  Recommendation  is  the  same.  Article  VIII  of  UNESCO's  Constitution  states  that  ' Each Member State shall  submit  to  the  Organization,  at  such  times  and  in  such  manner  as  shall  be determined by the General Conference, reports on the laws, regulations and statistics relating to its educational,  scientific  and  cultural  institutions  and  activities,  and  on  the  action  taken  upon  the recommendations  and  conventions  referred  to  in  Article  IV,  paragraph  4' .  Therefore,  even  if  a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national  report on  the  implementation  of  these  instruments  in  the  context  of  monitoring consultations.
+Most importantly, the reporting obligation under the provisions of Article VII of the Convention and of the Recommendation is the same. Article VIII of UNESCO's Constitution states that 'Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General Conference, reports on the laws, regulations and statistics relating to its educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4'. Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+national report on the implementation of these instruments in the context of monitoring consultations.
 
 ### 3. Participation in consultations
 
@@ -58,9 +60,9 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 3]]
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States through  a  participatory  process.  Please  note  that  multiple  answers  may  be  provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States through a participatory process. Please note that multiple answers may be provided where relevant.
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses  to  the  open-ended  questions  (including  remarks  on  how  to  respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 In  their  responses,  Member  States  are  encouraged  to  provide  information  in  a  concise  manner while preserving substantive and relevant content.
 
@@ -76,9 +78,9 @@ Organization or entity responsible for the preparation of the report:
 
 Ministry of Education, Youth and Sports
 
-### Information on the legislative, judicial, administrative and other measures taken by the state at the national level
+### I. Information on the legislative, judicial, administrative and other measures taken by the state at the national level
 
-#### Ratification of the Convention 2
+#### 1. Ratification of the Convention 2
 
 Is your country a State Party to the Convention?
 
@@ -112,7 +114,7 @@ http://portal.unesco.org/en/ev.php-URL_ID=12949&URL_DO=DO_TOPIC&URL_SECTION=201.
 
 [[START OF PAGE 5]]
 
-#### Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
+#### 2. Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
 
 Has your country ratified the Protocol?
 
@@ -120,7 +122,7 @@ o Yes
 
 - x No, please briefly explain the difficulties encountered:
 
-#### Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
+#### 3. Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
 
 In case your country is a State Party to the Convention:
 
@@ -172,9 +174,9 @@ If yes, the report could list the main texts adopted to guarantee the right to e
 
 Information supplied could demonstrate how such policies and programmes comply with commitments of the right to education under the Recommendation.
 
-### Information on the implementation of the Convention or Recommendation
+### II. Information on the implementation of the Convention or Recommendation
 
-#### Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
+#### 1. Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
 
 Articles/Paragraphs  1(1),  2  and  3  of  the  Convention/Recommendation  provide  for  non- discrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
 
@@ -284,17 +286,19 @@ Please provide reference to the relevant laws and provisions:
 
 Act No. 89/2012 Civil Code -  Section 672
 
-#### Progress made with respect to implementing the right to education in the context of SDG 4
+#### 2. Progress made with respect to implementing the right to education in the context of SDG 4
 
 ##### 2.1 Pre-primary education
 
-Pre-primary  education  is  not  explicitly  provided  for  in  the  Convention/Recommendation. However, the international community has increasingly recognized the importance of early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General  Comment  7).  This  became  more  explicit  with  the  2010  Moscow  Framework  for Action and Cooperation 8 .  In  the current context of the Education 2030 agenda, under SDG target  4.2,  states  have  now  committed  to  'the  provision  of  at  least  one  year  of  free  and compulsory pre-primary education'.
+Pre-primary education is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of early
 
 > 7 Administrative barriers to education include, amongst others, lack of identity papers or birth certificates required to enrol.
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+
+childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 8. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Is compulsory and free of charge pre-primary education available in your country?
 
@@ -308,7 +312,7 @@ Education in a kindergarten established by the state, region, municipality or as
 
 - Please list the laws and policies that ensure the availability of pre-primary education for all and provide information on the difficulties experienced by your government in the realization of access to pre-primary education. Brief quantitative information could be added.
 
-Education Act (No. 561/2004 Coll.) states that a child for whom pre-school education is compulsory is educated in a nursery school established by a municipality or association of municipalities with a seat in the school district in which the child has a place of permanent residence (in case of a foreigner a place of residence). According to an estimate based on the total number of five-year-olds in the Czech Republic, the share of five-year-olds in preprimary education has been around 97 % since 2017. The Ministry of Education, Youth and Sports, through the Technology Agency of the Czech Republic, has commissioned the project  "Verification  of  the  impacts  of  the  introduction  of  compulsory  final  year  of  preprimary  education",  which  will  evaluate  the  impacts  of  the  introduction  for  three  years, including with regard to socially excluded localities. Its main goal is to map and describe the  specific  impacts  and  obstacles  to  the  implementation  of  compulsory  pre-primary education.
+Education Act (No. 561/2004 Coll.) states that a child for whom pre-school education is compulsory is educated in a nursery school established by a municipality or association of municipalities with a seat in the school district in which the child has a place of permanent residence (in case of a foreigner a place of residence). According to an estimate based on the total number of five-year-olds in the Czech Republic, the share of five-year-olds in pre-primary education has been around 97 % since 2017. The Ministry of Education, Youth and Sports, through the Technology Agency of the Czech Republic, has commissioned the project "Verification of the impacts of the introduction of compulsory final year of pre-primary education", which will evaluate the impacts of the introduction for three years, including with regard to socially excluded localities. Its main goal is to map and describe the specific impacts and obstacles to the implementation of compulsory pre-primary education.
 
 ##### 2.2 Universal primary and secondary education
 
@@ -328,7 +332,7 @@ x Yes o No Please  indicate  the  current  duration  period  of  compulsory  edu
 
 In  this  part,  you  may  also  provide  information  on  the  difficulties  experienced  by  your government  in  the  realization  of  universal  access  to  primary  education.  Quantitative information could be added.
 
-Basic education at basic schools is compulsory from the age of six for a period of nine years. It shall consist of nine (9) grades and shall be divided into a first level (primary education grade 1-5) and a second level (lower secondary education - grade 6-9).
+Basic education at basic schools is compulsory from the age of six for a period of nine years. It shall consist of nine (9) grades and shall be divided into a first level (primary education – grade 1-5) and a second level (lower secondary education – grade 6-9).
 
 - Is primary education available free of charge to all?
 
@@ -490,7 +494,7 @@ o Other:
 
 In  2007,  Act  No.  179/2006  Coll.,  on  the  verification  and  recognition  of  further  education results,  as  amended  (Act  on  the  Recognition  of  Further  Education  Results),  came  into effect.  This  Act  makes  it  possible  for  individuals  to  have  their  acquired  competencies recognised by means of professional qualifications examinations that are described in the National  System  of  Qualifications.  Recognition  may  take  place  regardless  of  the  way  in which  these  competencies  have  been  acquired  and  regardless  of  the  necessity  of  prior education.  A  precondition  for  sitting  a  professional  qualification  examination  is  the minimum  age  of  18  years  and  basic  education  (not  completed  primary  education). Following  a  successful  professional  qualification  examination,  an  individual  receives  a professional  qualification  certificate,  which  has  lifelong  validity.  The  certificate  proves  a certain qualification, this individual has to pursue certain work activities, in certain cases even  a  profession.  By  obtaining  the  certificate  the  individual  increases  their  chances  of finding a job on the labour market.
 
-Furthermore,  the  National  System  of  Qualifications  makes  it  possible  to  sit  a  final  or school-leaving examination without the need for prior education in a school institution if a person  has  obtained  a  full  professional  qualification  in  a  given  field.  Full  professional qualifications that follow up on secondary fields of education may  be found at http://www.narodnikvalifikace.cz/vyber-kvalifikace/obory-vzdelani/skupiny-oboru- vse/pouze-platne-ano/pouze-s-terminy-zkousek-ne/seradit-1v/ku-1-8.  In  order  to  obtain  a full professional qualification, professional qualification examinations that are the components of a full professional qualification have to be passed first (see the link above).
+Furthermore, the National System of Qualifications makes it possible to sit a final or school-leaving examination without the need for prior education in a school institution if a person has obtained a full professional qualification in a given field. Full professional qualifications that follow up on secondary fields of education may be found at http://www.narodnikvalifikace.cz/vyber-kvalifikace/obory-vzdelani/skupiny-oboru-vse/pouze-platne-ano/pouze-s-terminy-zkousek-ne/seradit-1v/ku-1-8. In order to obtain a full professional qualification, professional qualification examinations that are the components of a full professional qualification have to be passed first (see the link above).
 
 Act No. 561/2004 Coll., on pre-school, primary, secondary, tertiary professional and other education (the Education Act) does not restrict an adult of any age in any way from having access to obtaining primary and secondary education free of charge.
 
@@ -498,7 +502,7 @@ The Ministry of Education, Youth and Sports accredits retraining programs in acc
 
 ##### 2.5 Quality education provision and learning environment
 
-Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education.  Quality  education  is  fundamental  to  achieve  all  targets  of  SDG4.  It  is  also particularly  highlighted  in  SDG  target  4.a  that  recommends  states  to  'build  and  upgrade education  facilities  that  are  child,  disability  and  gender  sensitive  and  provide  safe,  nonviolent, inclusive and effective learning environments for all'.
+Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
 
 - Please  indicate  the  measures  taken  by  your  country  to  ensure  equivalence  in  all educational institutions with regard to (several items could be ticked/mentioned):
 
@@ -552,8 +556,8 @@ Planned continuous improvement of the remuneration of teachers so that their sal
 
 [[START OF PAGE 16]]
 
-Improvement of methodological and professional development support for teachers and directors - activities of the 'SYPO' (systematic support for all teachers and directors)
----
+Improvement of methodological and professional development support for teachers and directors - activities of the 'SYPO' (systematic support for all teachers and directors) project.
+
 Financial interventions aimed at universities educating the future teachers.
 
 - Please briefly elaborate further on the measures taken:
@@ -746,9 +750,11 @@ Yes x No o
 
 - Please briefly describe what laws, regulations or policies guarantee that the development of private education does not generate discrimination and that private schools offer a relevant alternative in your country:
 
-- Does your country have an education policy framework for minimum educational standards as  regards  the  rights  of  the  parents  /legal  guardians  for  providing  religious  and  moral education for their children?
+Act No. 561 (Education Act) of 2004
 
-Act No. 561 (Education Act) of 2004 The Constitution of the Czech Republic
+The Constitution of the Czech Republic
+
+- Does your country have an education policy framework for minimum educational standards as regards the rights of the parents /legal guardians for providing religious and moral education for their children?
 
 Yes x No o
 
@@ -770,7 +776,7 @@ x Other:
 
 - Please provide a brief description of the provisions:
 
-There  is  a  possibility  to  establish  schools  for  national  minorities  or  classes  for  national minorities within ordinary schools under given conditions (Section 14 of the Act No. 561 Education Act).
+There is a possibility to establish schools for national minorities or classes for national minorities within ordinary schools under given conditions (Section 14 of the Act No. 561 - Education Act).
 
 If  it  is  not  possible  to  establish a class or school for a national minority according to the conditions as mentioned above, it is possible to educate bilingually (in Czech and in the language of the national minority).
 
@@ -828,15 +834,15 @@ o Other innovative measures:
 
 Please briefly elaborate further on the measures taken:
 
-### Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
+### III. Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
 
-#### Challenges and obstacles
+#### 1. Challenges and obstacles
 
 - 1.1 Please indicate and provide any information on the difficulties encountered in the process of implementing  the  key  provisions  of  the  Convention/Recommendation  (including  legal  and practical obstacles) and on the main issues that need to be addressed for promoting further the right to education in your country (several items could be ticked/mentioned):
 
 o Challenges related to equitable access and inclusion in education (such as poverty and socio-economic  factors,  cultural  and  traditional  attitudes,  remoteness,  migration  and displacement, etc.)
 
-The Long-term Plan for the Development of Education and the Education System of the Czech  Republic  for  the  period  2019-2023  includes  measures  aimed  at  increasing  the share of children in pre-primary education with a focus on socially excluded localities. The Ministry of Education, Youth and Sports, together with the Ministry of Labour and Social Affairs, issued an opinion on the enrolment of a child in compulsory pre-primary education https://www.msmt.cz/vzdelavani/predskolni-vzdelavani/stanovisko-ministerstva-prace-asocialnich-veci-a.  The  Long-term  Plan  also  includes  measures  aimed  at  developing cooperation between schools and social service providers for a multidisciplinary approach to children, pupils and students with social disadvantages and their families.
+The Long-term Plan for the Development of Education and the Education System of the Czech Republic for the period 2019-2023 includes measures aimed at increasing the share of children in pre-primary education with a focus on socially excluded localities. The Ministry of Education, Youth and Sports, together with the Ministry of Labour and Social Affairs, issued an opinion on the enrolment of a child in compulsory pre-primary education https://www.msmt.cz/vzdelavani/predskolni-vzdelavani/stanovisko-ministerstva-prace-a-socialnich-veci-a. The Long-term Plan also includes measures aimed at developing cooperation between schools and social service providers for a multidisciplinary approach to children, pupils and students with social disadvantages and their families.
 
 The  recent  Strategy  of  education  policy  of  the  Czech  Republic  until  2030+  focuses  on tackling  with  education  challenges.  One  of  its  two  strategic  goals  is  dedicated  to elimination of inequalities in access to quality education and endorsing maximal development  of  children,  pupils´  and  students´  potential.  It  is  important  to  eliminate influence  of  socio-economical  background  on  pupils´  educational  outcomes,  addressing regional  disparities  and  eliminating  segregating  tendencies  in  education.  It  aims  at supporting digital education and prevention of digital gap.
 
@@ -860,7 +866,7 @@ o Other:
 
 - 1.2 Please provide a brief assessment of the effectiveness of the methods introduced to remove the obstacles encountered:
 
-#### Awareness-raising
+#### 2. Awareness-raising
 
 UNESCO  governing  bodies  have  underlined  the  need  for  awareness  raising.  Given  the importance of normative action at the national level, wide dissemination of the Convention must be ensured, with the support of National Commissions for UNESCO.
 
