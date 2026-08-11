@@ -14,7 +14,7 @@ Number: 01-081-03-2660/2
 
 Zagreb, 23 July 2003
 
-President of the Republic of Croatia Stjepan Mesi ć
+President of the Republic of Croatia Stjepan Mesić
 
 # THE SCIENCE AND HIGHER EDUCATION ACT
 
@@ -430,7 +430,7 @@ In order to perform their common tasks, the National Council for Science and the
 
 ## III. THE SYSTEM OF SCIENTIFIC RESEARCH
 
-### 1 . GENERAL PROVISIONS ON SCIENTIFIC WORK AND ACTIVITY
+### 1. GENERAL PROVISIONS ON SCIENTIFIC WORK AND ACTIVITY
 
 ##### Freedom of Scientific Work and Activity
 
@@ -768,7 +768,7 @@ novine', the daily press and on the official internet web-sites of the scientifi
 
 - If in the election procedure another person is elected, the employee who has previously been in this employment position shall be offered another adequate employment position or in the absence of such a position, the procedure for dismissal with notice on the grounds of personal capability shall be instituted.
 
-- If for the competition under Section 1 of this Article the employee fails to submit application or he or she is not elected due to non-fulfillment of the requirements for reelection, the procedure for dismissal with notice on the grounds of personal capability shall be instituted, without the obligation of offering another adequate employment position.
+- If for the competition under Section 1 of this Article the employee fails to submit application or he or she is not elected due to non-fulfillment of the requirements for re-election, the procedure for dismissal with notice on the grounds of personal capability shall be instituted, without the obligation of offering another adequate employment position.
 
 [[END OF PAGE 20]]
 
@@ -984,7 +984,7 @@ operations and legal transactions, investments, plans for development and in con
 
 - The decisions on the change of the status of the constituent units within the university or on the separation of particular constituent units from the university shall be made by the Senate by the two-thirds majority of the total number of votes. The procedure for the change of the status of constituent units shall be regulated in detail by the Statute of the University. Unless provided otherwise by the Statute of the University, against the decision of the Senate there may be no appeal, but an administrative dispute may be instituted.
 
-- For the purpose of commercialization of scientific results, discoveries or patents and artistic creations, promotion of co-operation with the business community or strengthening economy based on knowledge, the university may be a founder or cofounder of a company. The part of the profit of such companies which belongs to the university may be used exclusively for the improvement of its activity.
+- For the purpose of commercialization of scientific results, discoveries or patents and artistic creations, promotion of co-operation with the business community or strengthening economy based on knowledge, the university may be a founder or co-founder of a company. The part of the profit of such companies which belongs to the university may be used exclusively for the improvement of its activity.
 
 [[END OF PAGE 27]]
 
@@ -1084,13 +1084,13 @@ operations and legal transactions, investments, plans for development and in con
 
 [[START OF PAGE 30]]
 
-- Decision-making on particular issues from the competence of the Senate may be entrusted to corresponding constituent units of the university by the statute. The Statute of the University may, in order to ensure integration of the educational and scientific process at the university, provide for the right of the suspensive veto against certain decisions of competent bodies of the constituent units on these issues, but in such a manner as not to violate their academic freedoms and academic selfgovernment.
+- Decision-making on particular issues from the competence of the Senate may be entrusted to corresponding constituent units of the university by the statute. The Statute of the University may, in order to ensure integration of the educational and scientific process at the university, provide for the right of the suspensive veto against certain decisions of competent bodies of the constituent units on these issues, but in such a manner as not to violate their academic freedoms and academic self-government.
 
 ##### The University Council
 
 ###### Article 59
 
-- The University Council shall be a managing body consisting of the Rector, ViceRectors, Deans and Heads of departments. Heads of other constituent units of the university and representatives of students may be members of the University Council in conformity with the provisions of the Statute of the University. The method of constituting and the mode of work of the University Council shall be prescribed by the Statute of the University.
+- The University Council shall be a managing body consisting of the Rector, Vice-Rectors, Deans and Heads of departments. Heads of other constituent units of the university and representatives of students may be members of the University Council in conformity with the provisions of the Statute of the University. The method of constituting and the mode of work of the University Council shall be prescribed by the Statute of the University.
 
 - The University Council shall:
 
@@ -1152,7 +1152,7 @@ operations and legal transactions, investments, plans for development and in con
 
 ###### Article 61
 
-Issues of special interest to students, for which the students' representatives shall have the right of the suspensive veto in decision-making, shall be determined by the Statute of the University. Issues of special interest for students shall be particularly those regarding changes in the system of study, quality assurance of study, development of programmes of study, determining curricula and the standard of students. Upon the suspensive veto, the Senate shall discuss the issue in question anew within the term of 8 days at the earliest. The way in which the suspensive veto by the students as well as the necessary majority in the repeated decisionmaking upon the suspensive veto shall be specified in detail by the Statute of the University.
+Issues of special interest to students, for which the students' representatives shall have the right of the suspensive veto in decision-making, shall be determined by the Statute of the University. Issues of special interest for students shall be particularly those regarding changes in the system of study, quality assurance of study, development of programmes of study, determining curricula and the standard of students. Upon the suspensive veto, the Senate shall discuss the issue in question anew within the term of 8 days at the earliest. The way in which the suspensive veto by the students as well as the necessary majority in the repeated decision-making upon the suspensive veto shall be specified in detail by the Statute of the University.
 
 [[END OF PAGE 31]]
 
@@ -1226,7 +1226,7 @@ Issues of special interest to students, for which the students' representatives 
 
 [[START OF PAGE 34]]
 
-- rule connected with the process of higher education at the university. The University Institute may also carry out highly professional work and participate in teaching in accordance with the regulations of the university.
+rule connected with the process of higher education at the university. The University Institute may also carry out highly professional work and participate in teaching in accordance with the regulations of the university.
 
 - The University Institute shall have the Director, the Academic Council and other bodies whose composition, method of establishment, competence and authority shall be determined by the Statute of the University and the regulations of the University Institute. The Director shall be appointed by the Senate of the university and the term of the mandate, method and procedure shall be determined by the Statute of the University.
 
@@ -1356,7 +1356,7 @@ Issues of special interest to students, for which the students' representatives 
 
 - for university theological programmes: Graduate Theologian (Dipl. Teol.),
 
-- for university programmes for the educational profession: Graduate Teacher (Dipl.U č .),
+- for university programmes for the educational profession: Graduate Teacher (Dipl.Uč.),
 
 - for university programmes for the teaching profession: Professor (Prof.) of profession,
 
@@ -1444,7 +1444,7 @@ Issues of special interest to students, for which the students' representatives 
 
 [[START OF PAGE 40]]
 
-- requirements for the applicants who have completed another undergraduate study or graduate university study.
+requirements for the applicants who have completed another undergraduate study or graduate university study.
 
 - Persons who completed professional study may be admitted to graduate study if it is provided by the regulations of the university conducting this study, in which case admission may be conditioned by passing differential examinations.
 
@@ -1532,7 +1532,7 @@ Issues of special interest to students, for which the students' representatives 
 
 ###### Article 81
 
-- The achievement of students at the examinations and other tests of knowledge shall be expressed by the following grades: 5 - excellent, 4 - very good, 3 - good, 2 satisfactory, 1 - unsatisfactory. Passing grades: 5, 4, 3 and 2 shall be recorded in the index and/or another adequate document and/or the student's record.
+- The achievement of students at the examinations and other tests of knowledge shall be expressed by the following grades: 5 - excellent, 4 - very good, 3 - good, 2 - satisfactory, 1 - unsatisfactory. Passing grades: 5, 4, 3 and 2 shall be recorded in the index and/or another adequate document and/or the student's record.
 
 - It may be determined by the curriculum that some forms of teaching shall be conducted without grading, or that grading shall be descriptive.
 
@@ -1622,7 +1622,7 @@ The procedure of recognition of foreign diplomas and academic and professional q
 
 - Students may be full-time and part-time students.
 
-- Full-time students are those who study according to the programme based on the fulltime teaching schedule. Costs of full-time study (programme of study) shall be partially or fully, according to the regulations of the university, the polytechnic or the college, subsidized from the state budget.
+- Full-time students are those who study according to the programme based on the full-time teaching schedule. Costs of full-time study (programme of study) shall be partially or fully, according to the regulations of the university, the polytechnic or the college, subsidized from the state budget.
 
 - Part-time students are those who participate in the educational programme while they work or perform some other activity requiring a specific programme. The costs of such study shall be fully or partially covered by the student, in compliance with the regulations of the university, the polytechnic or the college.
 
@@ -1744,7 +1744,7 @@ A person shall lose the student status:
 
 ###### Article 92
 
-- At the university, elections shall be conducted to scientific-educational, artisticeducational and associate titles and to educational titles of lecturer, senior lecturer, artistic associate and senior artistic associate, as well as to professional titles, in accordance with this Act. When the university conducts professional studies, it may conduct elections to all educational titles under Article 91 Section 3 of this Act.
+- At the university, elections shall be conducted to scientific-educational, artistic-educational and associate titles and to educational titles of lecturer, senior lecturer, artistic associate and senior artistic associate, as well as to professional titles, in accordance with this Act. When the university conducts professional studies, it may conduct elections to all educational titles under Article 91 Section 3 of this Act.
 
 [[END OF PAGE 46]]
 
@@ -1752,9 +1752,9 @@ A person shall lose the student status:
 
 - At the university, teachers shall be elected to titles under Section 1 of this Article to corresponding employment positions by public competition and with the selected applicant the employment contract shall be concluded.
 
-- A person may be elected to the corresponding scientific-educational, artisticeducational, associate and educational title without concluding the employment contract if he or she satisfies the requirements for the election to this title and if he or she participates, or will participate, partly or entirely in teaching of a particular subject (so-called nominal title) at the higher education institution.
+- A person may be elected to the corresponding scientific-educational, artistic-educational, associate and educational title without concluding the employment contract if he or she satisfies the requirements for the election to this title and if he or she participates, or will participate, partly or entirely in teaching of a particular subject (so-called nominal title) at the higher education institution.
 
-- The higher education institution may entrust the teaching of up to one third of a subject to teachers, scientists, artists or professionals without the obligation of concluding an employment contract with them, and in conformity with the provisions of the statute without the election to the scientific-educational title (so-called visiting professor or teacher), under the condition that the rest of the subject is covered by persons elected to scientific-educational, artistic-educational or educational titles. Under the conditions provided by the Statute of the University, a distinguished foreign professor or an eminent expert may be entrusted, without the election to the scientificeducational title, to teach a particular subject for two subsequent academic years at most.
+- The higher education institution may entrust the teaching of up to one third of a subject to teachers, scientists, artists or professionals without the obligation of concluding an employment contract with them, and in conformity with the provisions of the statute without the election to the scientific-educational title (so-called visiting professor or teacher), under the condition that the rest of the subject is covered by persons elected to scientific-educational, artistic-educational or educational titles. Under the conditions provided by the Statute of the University, a distinguished foreign professor or an eminent expert may be entrusted, without the election to the scientific-educational title, to teach a particular subject for two subsequent academic years at most.
 
 - Postgraduate students may participate in the conduct of teaching at undergraduate and graduate studies of the university in compliance with the programme of study and the university regulations.
 
@@ -1804,9 +1804,9 @@ A person shall lose the student status:
 
 [[START OF PAGE 49]]
 
-- employment position or in the absence of such a position, the procedure for dismissal with notice on the grounds of personal capability shall be instituted.
+employment position or in the absence of such a position, the procedure for dismissal with notice on the grounds of personal capability shall be instituted.
 
-- If for the competition under Section 1 of this Article the employee fails to submit application or if he or she is not elected due to non-fulfillment of conditions for reelection, the procedure for dismissal with notice on the grounds of personal capability shall be instituted, without the obligation of offering another adequate employment position.
+- If for the competition under Section 1 of this Article the employee fails to submit application or if he or she is not elected due to non-fulfillment of conditions for re-election, the procedure for dismissal with notice on the grounds of personal capability shall be instituted, without the obligation of offering another adequate employment position.
 
 ##### Honorary Title
 
@@ -1892,13 +1892,13 @@ For the purpose of conducting scientific and professional projects, persons may 
 
 - If in the competition procedure another person is elected, the employee who has been previously employed in this employment position shall be offered another adequate employment position or in the absence of such a position, the procedure for dismissal with notice on the grounds of personal capability shall be instituted.
 
-- If for the competition under Section 1 of this Article the employee fails to submit application or he or she is not elected due to non-fulfillment of the conditions for reelection, the procedure for dismissal with notice on the grounds of personal capability shall be instituted, but without the obligation of offering another adequate employment position.
+- If for the competition under Section 1 of this Article the employee fails to submit application or he or she is not elected due to non-fulfillment of the conditions for re-election, the procedure for dismissal with notice on the grounds of personal capability shall be instituted, but without the obligation of offering another adequate employment position.
 
 ##### Employment Contract for Scientific-Educational, Artistic-Educational, Educational and Professional Employment Positions
 
 ###### Article 102
 
-- With the person elected to scientific-educational, artistic-educational, educational and professional employment positions, the permanent employment contract shall be concluded with the obligation of re-election or promotion every five years. If at the reelection the employee is not elected due to non-fulfillment of conditions, the procedure according to Article 95 Section 5 and Article 101 Section 5 of this Act shall be conducted.
+- With the person elected to scientific-educational, artistic-educational, educational and professional employment positions, the permanent employment contract shall be concluded with the obligation of re-election or promotion every five years. If at the re-election the employee is not elected due to non-fulfillment of conditions, the procedure according to Article 95 Section 5 and Article 101 Section 5 of this Act shall be conducted.
 
 - The obligation to conduct the re-election procedure shall cease after the employee has been elected to the scientific-educational employment position of full professor or to the educational employment position of college professor for the second time (tenure).
 
@@ -1956,7 +1956,7 @@ For the purpose of conducting scientific and professional projects, persons may 
 
 - The Rectors' Conference shall:
 
-- prescribe necessary conditions for the evaluation of educational and professional activity in the election procedure to scientific-educational, artisticeducational and educational titles and employment positions,
+- prescribe necessary conditions for the evaluation of educational and professional activity in the election procedure to scientific-educational, artistic-educational and educational titles and employment positions,
 
 - propose members of scientific and artistic area councils and filed committees,
 
@@ -2132,7 +2132,7 @@ For the purpose of conducting scientific and professional projects, persons may 
 
 - Upon entry into force of this Act, higher education institutions and other scientific organizations established according to previous regulations shall continue their work in accordance with previous regulations until their adjustment pursuant to Section 1 of this Article.
 
-- Rectors and Vice-Rectors of universities and polytechnics and Deans and ViceDeans of university constituent units and colleges and directors of public scientific institutes elected before entry into force of this Act shall remain on their duty until the expiry of the mandate for which they have been elected, except that with the date of the adjustment under Section 1 of this Article, Rectors and Vice-Rectors of polytechnics shall become their Deans and Vice-Deans.
+- Rectors and Vice-Rectors of universities and polytechnics and Deans and Vice-Deans of university constituent units and colleges and directors of public scientific institutes elected before entry into force of this Act shall remain on their duty until the expiry of the mandate for which they have been elected, except that with the date of the adjustment under Section 1 of this Article, Rectors and Vice-Rectors of polytechnics shall become their Deans and Vice-Deans.
 
 - Legal integration of the university shall begin on the date of entry into force of this Act, and it shall be completed by 31 December 2007 at the latest.
 
@@ -2277,11 +2277,11 @@ Zagreb, 17 July 2003
 
 THE CROATIAN PARLIAMNET President of the Croatian Parliament
 
-Zlatko Tom č i ć
+Zlatko Tomčić
 
 The Science and Higher Education Act - The Official Gazette 'Narodne novine' No. 123 of 31 July 2003.
 
-Translated by Mr.Sc. Marija Dunja Vi ć an and Prof. Dr. Sc. Branko Smerdel
+Translated by Mr.Sc. Marija Dunja Vićan and Prof. Dr. Sc. Branko Smerdel
 
 Zagreb, 29 September  2003
 
