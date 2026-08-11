@@ -14,33 +14,33 @@ Number 30 of 2004
 
 Section
 
-- Interpretation.
+- 1. Interpretation.
 
-- Inclusive education.
+- 2. Inclusive education.
 
-- Preparation of education plan by school (including steps preliminary to such preparation).
+- 3. Preparation of education plan by school (including steps preliminary to such preparation).
 
-- Assessment of child by or on behalf of health board or Council.
+- 4. Assessment of child by or on behalf of health board or Council.
 
-- Mode of assessment under section 3 or 4 .
+- 5. Mode of assessment under section 3 or 4.
 
-- Appeals in relation to assessments.
+- 6. Appeals in relation to assessments.
 
-- Provision of services.
+- 7. Provision of services.
 
-- Preparation of education plan at direction of Council.
+- 8. Preparation of education plan at direction of Council.
 
-- Content of education plan.
+- 9. Content of education plan.
 
-- Designation of school.
+- 10. Designation of school.
 
-- Review of education plan.
+- 11. Review of education plan.
 
-- Appeals in relation to education plans.
+- 12. Appeals in relation to education plans.
 
-- Duty of Minister and Minister for Health and Children to make resources available.
+- 13. Duty of Minister and Minister for Health and Children to make resources available.
 
-- Duty of schools.
+- 14. Duty of schools.
 
 [[END OF PAGE 1]]
 
@@ -50,65 +50,65 @@ Section
 
 Section
 
-- Planning for future education needs.
+- 15. Planning for future education needs.
 
-- Implementation of relevant education policy by health boards.
+- 16. Implementation of relevant education policy by health boards.
 
-- Liaison officers.
+- 17. Liaison officers.
 
-- Delegation of functions of principals, etc.
+- 18. Delegation of functions of principals, etc.
 
-- National Council for Special Education.
+- 19. National Council for Special Education.
 
-- Functions of Council.
+- 20. Functions of Council.
 
-- Membership of Council.
+- 21. Membership of Council.
 
-- Consultative forum.
+- 22. Consultative forum.
 
-- Implementation report.
+- 23. Implementation report.
 
-- Chief Executive Officer.
+- 24. Chief Executive Officer.
 
-- Employees.
+- 25. Employees.
 
-- Special educational needs organisers.
+- 26. Special educational needs organisers.
 
-- Curriculum.
+- 27. Curriculum.
 
-- Removal of Council from office.
+- 28. Removal of Council from office.
 
-- Accounts and audits.
+- 29. Accounts and audits.
 
-- Accountability of Chief Executive Officer to Committee of Public Accounts.
+- 30. Accountability of Chief Executive Officer to Committee of Public Accounts.
 
-- Accountability of Chief Executive Officer to other Oireachtas Committees.
+- 31. Accountability of Chief Executive Officer to other Oireachtas Committees.
 
-- Gifts.
+- 32. Gifts.
 
-- Committees.
+- 33. Committees.
 
-- Annual report and information.
+- 34. Annual report and information.
 
-- Establishment day.
+- 35. Establishment day.
 
-- Special Education Appeals Board.
+- 36. Special Education Appeals Board.
 
-- Report of Appeals Board.
+- 37. Report of Appeals Board.
 
-- Provision for mediation in certain cases.
+- 38. Provision for mediation in certain cases.
 
-- Duty of health boards.
+- 39. Duty of health boards.
 
-- Amendment of section 7 of Act of 1998.
+- 40. Amendment of section 7 of Act of 1998.
 
-- Maintenance of records.
+- 41. Maintenance of records.
 
-- Regulations.
+- 42. Regulations.
 
-- Grants to Council and Appeals Board.
+- 43. Grants to Council and Appeals Board.
 
-- Service of notices.
+- 44. Service of notices.
 
 2
 
@@ -120,23 +120,23 @@ Section
 
 Section
 
-- Dissolution of body established under section 54 of Act of 1998.
+- 45. Dissolution of body established under section 54 of Act of 1998.
 
-- Legal proceedings pending against former Council.
+- 46. Legal proceedings pending against former Council.
 
-- Transfer of property rights and liabilities of former Council.
+- 47. Transfer of property rights and liabilities of former Council.
 
-- Bonds, guarantees, contracts, etc., of former Council.
+- 48. Bonds, guarantees, contracts, etc., of former Council.
 
-- Transfer of staff of former Council.
+- 49. Transfer of staff of former Council.
 
-- Plans, reports, etc., under Act privileged.
+- 50. Plans, reports, etc., under Act privileged.
 
-- Expenses.
+- 51. Expenses.
 
-- Amendment of Act of 1998.
+- 52. Amendment of Act of 1998.
 
-- Short title and commencement.
+- 53. Short title and commencement.
 
 ### SCHEDULE 1
 
@@ -156,6 +156,14 @@ Section
 
 ## Acts referred to
 
+Civil Service Commissioners Act 1956    1956, No. 45
+Civil Service Regulation Acts 1956 to 1996
+Comhairle Act 2000    2000, No. 1
+Companies Acts 1963 to 2001
+Comptroller and Auditor General (Amendment) Act 1993    1993, No. 8
+Education Act 1998    1998, No. 51
+Health Act 1970    1970, No. 7
+
 4
 
 [[END OF PAGE 4]]
@@ -164,20 +172,22 @@ Section
 
 --------
 
-Number 30 of 2004 --------
+Number 30 of 2004
+
+--------
 
 # EDUCATION FOR PERSONS WITH SPECIAL EDUCATIONAL NEEDS ACT 2004
 
 --------
 
-AN ACT TO MAKE FURTHER PROVISION, HAVING REGARD TO THE COMMON GOOD AND IN A MANNER THAT IS INFORMED BY BEST INTERNATIONAL PRACTICE, FOR THE EDUCATION OF PEOPLE WITH SPECIAL EDUCATIONAL NEEDS, TO PROVIDE THAT THE EDUCATION OF PEOPLE WITH SUCH NEEDS SHALL, WHEREVER POSSIBLE, TAKE PLACE IN AN INCLUSIVE ENVIRONMENT WITH THOSE WHO DO NOT HAVE SUCH NEEDS, TO PROVIDE THAT PEOPLE WITH SPECIAL EDUCATIONAL NEEDS SHALL HAVE THE SAME RIGHT TO AVAIL OF, AND BENEFIT FROM, APPROPRIATE EDUCATION AS DO THEIR PEERS WHO DO NOT HAVE SUCH NEEDS, TO ASSIST CHILDREN WITH SPECIAL EDUCATIONAL NEEDS TO LEAVE SCHOOL WITH THE SKILLS NECESSARY TO PARTICIPATE, TO THE LEVEL OF THEIR CAPACITY, IN AN INCLUSIVE WAY IN THE SOCIAL AND ECONOMIC ACTIVITIES OF SOCIETY AND TO LIVE INDEPENDENT AND FULFILLED LIVES, TO PROVIDE FOR THE GREATER INVOLVEMENT OF PARENTS OF CHILDREN WITH SPECIAL EDUCATIONAL NEEDS IN THE EDUCATION OF THEIR CHILDREN, FOR THOSE PURPOSES TO ESTABLISH A BODY TO BE KNOWN AS THE NATIONAL COUNCIL FOR SPECIAL EDUCATION AND TO DEFINE ITS FUNCTIONS, TO CONFER CERTAIN FUNCTIONS ON HEALTH BOARDS IN RELATION TO THE EDUCATION OF PEOPLE WITH SPECIAL EDUCATIONAL NEEDS, TO ENABLE CERTAIN DECISIONS MADEIN RELATION TO THE EDUCATION OF PEOPLE WITH SUCH NEEDS TO BE THE SUBJECT OF AN APPEAL TO AN APPEALS BOARD AND TO PROVIDE FOR RELATED MATTERS. [19 th July 2004]
+AN ACT TO MAKE FURTHER PROVISION, HAVING REGARD TO THE COMMON GOOD AND IN A MANNER THAT IS INFORMED BY BEST INTERNATIONAL PRACTICE, FOR THE EDUCATION OF PEOPLE WITH SPECIAL EDUCATIONAL NEEDS, TO PROVIDE THAT THE EDUCATION OF PEOPLE WITH SUCH NEEDS SHALL, WHEREVER POSSIBLE, TAKE PLACE IN AN INCLUSIVE ENVIRONMENT WITH THOSE WHO DO NOT HAVE SUCH NEEDS, TO PROVIDE THAT PEOPLE WITH SPECIAL EDUCATIONAL NEEDS SHALL HAVE THE SAME RIGHT TO AVAIL OF, AND BENEFIT FROM, APPROPRIATE EDUCATION AS DO THEIR PEERS WHO DO NOT HAVE SUCH NEEDS, TO ASSIST CHILDREN WITH SPECIAL EDUCATIONAL NEEDS TO LEAVE SCHOOL WITH THE SKILLS NECESSARY TO PARTICIPATE, TO THE LEVEL OF THEIR CAPACITY, IN AN INCLUSIVE WAY IN THE SOCIAL AND ECONOMIC ACTIVITIES OF SOCIETY AND TO LIVE INDEPENDENT AND FULFILLED LIVES, TO PROVIDE FOR THE GREATER INVOLVEMENT OF PARENTS OF CHILDREN WITH SPECIAL EDUCATIONAL NEEDS IN THE EDUCATION OF THEIR CHILDREN, FOR THOSE PURPOSES TO ESTABLISH A BODY TO BE KNOWN AS THE NATIONAL COUNCIL FOR SPECIAL EDUCATION AND TO DEFINE ITS FUNCTIONS, TO CONFER CERTAIN FUNCTIONS ON HEALTH BOARDS IN RELATION TO THE EDUCATION OF PEOPLE WITH SPECIAL EDUCATIONAL NEEDS, TO ENABLE CERTAIN DECISIONS MADE IN RELATION TO THE EDUCATION OF PEOPLE WITH SUCH NEEDS TO BE THE SUBJECT OF AN APPEAL TO AN APPEALS BOARD AND TO PROVIDE FOR RELATED MATTERS. [19th July 2004]
 
 BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
 
 ## Interpretation.
-1. -(1) In this Act, unless the context otherwise requires
+1.—(1) In this Act, unless the context otherwise requires—
 
-''Act of 1998'' means the Education Act 1998;
+‘‘Act of 1998’’ means the Education Act 1998;
 
 5
 
@@ -185,11 +195,11 @@ BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
 
 [[START OF PAGE 6]]
 
-S.1
-
 [ No. 30. ] Education for Persons with Special [2004.] Educational Needs Act 2004.
 
-''Appeals Board'' shall be construed in accordance with section 36 ;
+S.1
+
+''Appeals Board'' shall be construed in accordance with section 36;
 
 ''child'' means a person not more than 18 years of age;
 
@@ -241,39 +251,39 @@ S.1
 
 [2004.] Education for Persons with Special [ No. 30. ] Educational Needs Act 2004.
 
-(2) In this Act-
-
-( a ) a reference to a section is a reference to a section of this Act, unless it is indicated that reference to some other enactment is intended,
-
-( b ) a reference to a subsection, paragraph or subparagraph is a reference to a subsection, paragraph or subparagraph of the provision in which the reference occurs, unless it is indicated that reference to some other provision is intended,
-
-( c ) a reference to any other enactment shall, unless the context otherwise requires, be construed as a reference to that enactment as amended, extended or adapted by or under any subsequent enactment.
-
-2. -Achild with special educational needs shall be educated in an inclusive environment with children who do not have such needs unless the nature or degree of those needs of the child is such that to do so would be inconsistent with-
-
-( a ) the best interests of the child as determined in accordance with any assessment carried out under this Act, or
-
-( b ) the effective provision of education for children with whom the child is to be educated.
-
-3. -(1) Subsection (2) applies where the principal of a school-
-
-( a ) having been notified by the parents of a student in the school that they are of the opinion referred to in this paragraph and been requested by them to take the measures specified in subsection (2) , considers that opinion to be well founded, namely, an opinion that the student is not benefiting from the education programme provided in the school to children who do not have special educational needs to the extent that would be expected of the student, or
-
-( b ) otherwise forms such an opinion in respect of a student in the school.
-
-(2) Where this subsection applies, the principal of the school shall take such measures as are practicable to meet the educational needs of the student concerned.
-
-(3) Where the principal of a school, having taken the measures referred to in subsection (2) , is of the opinion that the student concerned is still not benefiting from the education programme provided in the school and that his or her difficulty in doing so may arise from his or her having special educational needs, the principal, after consultation with the parents of the student, shall, subject to subsection (6) , arrange for an assessment of the student to be carried out.
-
-(4) Without prejudice to section 5(5) , an assessment referred to in subsection (3) shall be-
-
-( a ) commenced as soon as practicable, and in any case not later than 1 month, after the principal has reached the opinion referred to in that subsection,
-
 S.1
+
+(2) In this Act—
+
+(a) a reference to a section is a reference to a section of this Act, unless it is indicated that reference to some other enactment is intended,
+
+(b) a reference to a subsection, paragraph or subparagraph is a reference to a subsection, paragraph or subparagraph of the provision in which the reference occurs, unless it is indicated that reference to some other provision is intended,
+
+(c) a reference to any other enactment shall, unless the context otherwise requires, be construed as a reference to that enactment as amended, extended or adapted by or under any subsequent enactment.
 
 ## Inclusive education.
 
+2.—A child with special educational needs shall be educated in an inclusive environment with children who do not have such needs unless the nature or degree of those needs of the child is such that to do so would be inconsistent with—
+
+(a) the best interests of the child as determined in accordance with any assessment carried out under this Act, or
+
+(b) the effective provision of education for children with whom the child is to be educated.
+
 ## Preparation of education plan by school (including steps preliminary to such preparation).
+
+3.—(1) Subsection (2) applies where the principal of a school—
+
+(a) having been notified by the parents of a student in the school that they are of the opinion referred to in this paragraph and been requested by them to take the measures specified in subsection (2), considers that opinion to be well founded, namely, an opinion that the student is not benefiting from the education programme provided in the school to children who do not have special educational needs to the extent that would be expected of the student, or
+
+(b) otherwise forms such an opinion in respect of a student in the school.
+
+(2) Where this subsection applies, the principal of the school shall take such measures as are practicable to meet the educational needs of the student concerned.
+
+(3) Where the principal of a school, having taken the measures referred to in subsection (2), is of the opinion that the student concerned is still not benefiting from the education programme provided in the school and that his or her difficulty in doing so may arise from his or her having special educational needs, the principal, after consultation with the parents of the student, shall, subject to subsection (6), arrange for an assessment of the student to be carried out.
+
+(4) Without prejudice to section 5(5), an assessment referred to in subsection (3) shall be—
+
+(a) commenced as soon as practicable, and in any case not later than 1 month, after the principal has reached the opinion referred to in that subsection,
 
 7
 
@@ -281,9 +291,9 @@ S.1
 
 [[START OF PAGE 8]]
 
-S.3
-
 [ No. 30. ] Education for Persons with Special [2004.] Educational Needs Act 2004.
+
+S.3
 
 ( b ) completed as soon as practicable, and in any case not later than 3 months, after the principal has reached that opinion, and
 
@@ -319,43 +329,45 @@ and references in this section to the carrying out of such an assessment include
 
 [2004.] Education for Persons with Special [ No. 30. ] Educational Needs Act 2004.
 
-S.3 time being in force under section 9(3) will not meet the child's special educational needs, or
+S.3
 
-( b ) whether the opinion is formed in consequence of a review under section 11 or otherwise, an education plan prepared under subsection (5) in respect of a child is not meeting those needs of the child and the taking of any steps by a special educational needs organiser under section 11 on foot of any report by the principal under subsection (3) of that section is unlikely to result in those needs being met,
+time being in force under section 9(3) will not meet the child's special educational needs, or
+
+(b) whether the opinion is formed in consequence of a review under section 11 or otherwise, an education plan prepared under subsection (5) in respect of a child is not meeting those needs of the child and the taking of any steps by a special educational needs organiser under section 11 on foot of any report by the principal under subsection (3) of that section is unlikely to result in those needs being met,
 
 the principal shall request the Council to prepare an education plan under section 8 in respect of the child.
 
-(12) If the Council accedes to a request under subsection (11) , then subsections (3) to (5) of section 8 shall apply and, in the case of paragraph (b) of subsection (11) , the education plan prepared by the Council under section 8 shall supersede the education plan referred to in that paragraph.
+(12) If the Council accedes to a request under subsection (11), then subsections (3) to (5) of section 8 shall apply and, in the case of paragraph (b) of subsection (11), the education plan prepared by the Council under section 8 shall supersede the education plan referred to in that paragraph.
 
-(13) If the Council refuses to accede to a request under subsection (6) or (11) , then the principal, or the parents of the child concerned, may appeal against that refusal to the Appeals Board.
+(13) If the Council refuses to accede to a request under subsection (6) or (11), then the principal, or the parents of the child concerned, may appeal against that refusal to the Appeals Board.
 
-(14) On the hearing of an appeal under subsection (13) , the Appeals Board may-
+(14) On the hearing of an appeal under subsection (13), the Appeals Board may—
 
-( a ) allow the appeal and give a direction to the Council requiring it, as appropriate, to-
+(a) allow the appeal and give a direction to the Council requiring it, as appropriate, to—
 
-(i) arrange for an assessment of the child concerned to be carried out under section 4 , or
+(i) arrange for an assessment of the child concerned to be carried out under section 4, or
 
-(ii) cause to be prepared an education plan in respect of the child concerned under section 8 ,
+(ii) cause to be prepared an education plan in respect of the child concerned under section 8,
 
 or
 
-( b ) dismiss the appeal.
+(b) dismiss the appeal.
 
-(15) The Council shall comply with a direction given to it under subsection (14) .
+(15) The Council shall comply with a direction given to it under subsection (14).
 
-4. -(1) Where the relevant health board is of the opinion that a child who is not a student has or may have special educational needs it shall cause an assessment under this section of that child to be carried out.
+## Assessment of child by or on behalf of health board or Council.
+
+4.—(1) Where the relevant health board is of the opinion that a child who is not a student has or may have special educational needs it shall cause an assessment under this section of that child to be carried out.
 
 (2) Where the Council is of the opinion that a child who is a student has or may have special educational needs it shall, unless an assessment under section 3 of the child is being or has been carried out, cause an assessment under this section of that child to be carried out.
 
-(3) Where the parents of a child are of the opinion that the child has or may have special educational needs they may request-
+(3) Where the parents of a child are of the opinion that the child has or may have special educational needs they may request—
 
-( a ) the relevant health board, or
+(a) the relevant health board, or
 
-( b ) in the case of a child who is a student, the Council,
+(b) in the case of a child who is a student, the Council,
 
 to cause an assessment under this section of the child to be carried out.
-
-## Assessment of child by or on behalf of health board or Council.
 
 9
 
@@ -363,43 +375,43 @@ to cause an assessment under this section of the child to be carried out.
 
 [[START OF PAGE 10]]
 
-S.4
-
-## Mode of assessment under section 3 or 4 .
-
 [ No. 30. ] Education for Persons with Special [2004.] Educational Needs Act 2004.
 
-(4) Subject to subsection (5) , within 1 month from the receipt of a request under subsection (3) , the health board or the Council shall cause the assessment to be commenced and thereafter to be completed without undue delay.
+S.4
 
-(5) A health board or the Council may refuse to accede to a request under subsection (3) if-
+(4) Subject to subsection (5), within 1 month from the receipt of a request under subsection (3), the health board or the Council shall cause the assessment to be commenced and thereafter to be completed without undue delay.
 
-( a ) it is of the opinion that there are insufficient grounds to support the requesters' opinion that the child has special educational needs, or
+(5) A health board or the Council may refuse to accede to a request under subsection (3) if—
 
-( b ) an assessment under this Act has been carried out in respect of the child in the 12 months prior to the date of the request.
+(a) it is of the opinion that there are insufficient grounds to support the requesters' opinion that the child has special educational needs, or
+
+(b) an assessment under this Act has been carried out in respect of the child in the 12 months prior to the date of the request.
 
 (6) An assessment for the purposes of this section shall include an evaluation and statement of the nature and extent of the child's disability (including in respect of matters that affect the child overall as an individual) and an evaluation and statement of the services which the child will need so as to be able to participate in and benefit from education and, generally, to develop his or her potential.
 
 (7) If a health board or the Council refuses to accede to a request under subsection (3) the parents of the child concerned may appeal against that refusal to the Appeals Board; such an appeal shall be determined by the Appeals Board within 6 weeks from the date that it receives the appeal.
 
-(8) On the hearing of an appeal under subsection (7) , the Appeals Board may-
+(8) On the hearing of an appeal under subsection (7), the Appeals Board may—
 
-( a ) allow the appeal and direct the health board or the Council, as the case may be, to cause to be carried out an assessment under this section of the child, or
+(a) allow the appeal and direct the health board or the Council, as the case may be, to cause to be carried out an assessment under this section of the child, or
 
-( b ) dismiss the appeal.
+(b) dismiss the appeal.
 
-5. -(1) An assessment under section 4 shall be carried out with the assistance of persons possessing such expertise and qualifications as the health board or the Council considers appropriate; those persons may, in the discretion of the board or the Council, include one or more of the following:
+## Mode of assessment under section 3 or 4.
 
-( a ) a psychologist;
+5.—(1) An assessment under section 4 shall be carried out with the assistance of persons possessing such expertise and qualifications as the health board or the Council considers appropriate; those persons may, in the discretion of the board or the Council, include one or more of the following:
 
-( b ) a medical practitioner;
+(a) a psychologist;
 
-( c ) the principal of the school which the child is attending or a teacher of that school nominated by the principal;
+(b) a medical practitioner;
 
-( d ) an appropriately qualified social worker; and
+(c) the principal of the school which the child is attending or a teacher of that school nominated by the principal;
 
-( e ) a therapist who is suitably qualified to provide support services in respect of the special educational needs of the child.
+(d) an appropriately qualified social worker; and
 
-(2) A health board, the Council or a principal, as appropriate, shall facilitate, in a manner that is consistent with the assessment being carried out effectively, the participation by the parents of the child concerned in the carrying out of an assessment under section 3 or 4 .
+(e) a therapist who is suitably qualified to provide support services in respect of the special educational needs of the child.
+
+(2) A health board, the Council or a principal, as appropriate, shall facilitate, in a manner that is consistent with the assessment being carried out effectively, the participation by the parents of the child concerned in the carrying out of an assessment under section 3 or 4.
 
 10
 
@@ -409,13 +421,15 @@ S.4
 
 [2004.] Education for Persons with Special [ No. 30. ] Educational Needs Act 2004.
 
-(3) Before causing an assessment under section 4 (other than pursuant to a request under subsection (3) of that section) to be carried out, the health board or the Council shall give notice in writing to the parents of the child of the intention to do so and the reasons therefor and, subject to subsection (4) , shall not cause the assessment to be carried out without the consent in writing of the parents.
+S.5
+
+(3) Before causing an assessment under section 4 (other than pursuant to a request under subsection (3) of that section) to be carried out, the health board or the Council shall give notice in writing to the parents of the child of the intention to do so and the reasons therefor and, subject to subsection (4), shall not cause the assessment to be carried out without the consent in writing of the parents.
 
 (4) Where the parent of a child fails or refuses to give his or her consent, within such period as may be specified by the health board or the Council, to the carrying out of an assessment under section 4 to which subsection (3) applies, the health board or the Council, as the case may be, may apply to the Circuit Court for an order dispensing with the requirement under subsection (3) for the parent's consent and the Circuit Court may, on the hearing of the application, make such an order if it considers it in the best interests of the child to do so.
 
 (5) An assessment under section 3 or 4 shall be carried out in a manner which conforms to such standards as may from time to time be determined, after consultation with the Minister, by a prescribed body, that is to say, a body standing prescribed by regulations made by the Minister for Health and Children for the purposes of its determining the standards that assessments under those sections must conform to.
 
-(6) In carrying out an assessment under section 4 , the health board or the Council, as appropriate, shall have regard to any relevant assessment of the child concerned that is available to it at that time.
+(6) In carrying out an assessment under section 4, the health board or the Council, as appropriate, shall have regard to any relevant assessment of the child concerned that is available to it at that time.
 
 (7) A statement of the findings in relation to an assessment that has been carried out under section 4 and any relevant documents relating to that assessment shall be made available immediately to the parents of the child concerned after that statement has been prepared.
 
@@ -423,15 +437,13 @@ S.4
 
 (9) An application under subsection (4) to the Circuit Court shall be made to the judge of the Circuit Court for the circuit in which the child concerned resides.
 
-6. -(1) Parents may, in respect of their child, appeal to the Appeals Board against an assessment made under section 3 or 4 in relation to the child on the ground that it was not carried out in a manner which conforms with the standards determined under section 5(5) .
-
-(2) The Appeals Board shall hear and determine an appeal under this section within 2 months after the making thereof and such a determination may be one either to-
-
-( a ) allow the appeal and give such direction as it considers appropriate to the principal, the health board or the Council, as appropriate, (which may include a direction requiring a fresh assessment under section 3 or 4 to be carried out in relation to the child), or
-
-S.5
-
 ## Appeals in relation to assessments.
+
+6.—(1) Parents may, in respect of their child, appeal to the Appeals Board against an assessment made under section 3 or 4 in relation to the child on the ground that it was not carried out in a manner which conforms with the standards determined under section 5(5).
+
+(2) The Appeals Board shall hear and determine an appeal under this section within 2 months after the making thereof and such a determination may be one either to—
+
+(a) allow the appeal and give such direction as it considers appropriate to the principal, the health board or the Council, as appropriate, (which may include a direction requiring a fresh assessment under section 3 or 4 to be carried out in relation to the child), or
 
 11
 
@@ -439,35 +451,35 @@ S.5
 
 [[START OF PAGE 12]]
 
+[ No. 30. ] Education for Persons with Special [2004.] Educational Needs Act 2004.
+
 S.6
+
+(b) dismiss the appeal.
+
+(3) A principal of a school, a health board or the Council shall comply with a direction given to him or her or it under subsection (2).
 
 ## Provision of services.
 
-[ No. 30. ] Education for Persons with Special [2004.] Educational Needs Act 2004.
+7.—(1) In the case of a child who is not a student, the relevant health board shall, subject to subsection (2), provide to the child such of the services identified in the assessment carried out under section 4 in relation to the child as are necessary to enable him or her to participate in and benefit from education.
 
-( b ) dismiss the appeal.
+(2) Where, in performing its functions under subsection (1), a health board is of the opinion that particular services can most effectively be provided for by the Council, it shall inform the Council of that opinion by notice in writing and, upon being so informed, the Council shall, subject to subsection (5), provide those services to the child concerned.
 
-(3) A principal of a school, a health board or the Council shall comply with a direction given to him or her or it under subsection (2) .
+(3) In the case of a child who is a student the Council shall, subject to subsection (4), ensure that there are provided to him or her such of the services identified in the education plan prepared in relation to the child as are necessary to enable him or her to participate in and benefit from education.
 
-7. -(1) In the case of a child who is not a student, the relevant health board shall, subject to subsection (2) , provide to the child such of the services identified in the assessment carried out under section 4 in relation to the child as are necessary to enable him or her to participate in and benefit from education.
-
-(2) Where, in performing its functions under subsection (1) , a health board is of the opinion that particular services can most effectively be provided for by the Council, it shall inform the Council of that opinion by notice in writing and, upon being so informed, the Council shall, subject to subsection (5) , provide those services to the child concerned.
-
-(3) In the case of a child who is a student the Council shall, subject to subsection (4) , ensure that there are provided to him or her such of the services identified in the education plan prepared in relation to the child as are necessary to enable him or her to participate in and benefit from education.
-
-(4) Where, in performing its functions under subsection (3) , the Council is of the opinion that particular services can most effectively be provided for by the relevant health board, it shall inform the health board of that opinion by notice in writing and, upon being so informed, the health board shall, subject to subsection (5) , provide those services in respect of the child concerned.
+(4) Where, in performing its functions under subsection (3), the Council is of the opinion that particular services can most effectively be provided for by the relevant health board, it shall inform the health board of that opinion by notice in writing and, upon being so informed, the health board shall, subject to subsection (5), provide those services in respect of the child concerned.
 
 (5) If a dispute arises between the Council and a health board as to which of them can more effectively provide particular services identified as being required in respect of a child by an assessment or an education plan, as appropriate, the dispute shall, within 2 months from the dispute arising, be referred by either or both of them to the Appeals Board for its determination (and which determination shall be made within 2 months from its referral) and, on the hearing of the reference, the Appeals Board shall determine which of them shall provide those services and give a direction to the Council or the health board, as the case may be, to that effect accordingly.
 
-(6) The Council or the relevant health board shall comply with a direction given to it under subsection (5) .
+(6) The Council or the relevant health board shall comply with a direction given to it under subsection (5).
 
 (7) The provision of services under subsection (1) or (3) by a health board or the Council shall be made as soon as practicable after the completion of the assessment or, as the case may be, the preparation of the education plan in respect of the child concerned.
 
-(8) The fact that-
+(8) The fact that—
 
-( a ) an appeal against an assessment under section 6 or an appeal under section 12 in relation to an education plan is made, or
+(a) an appeal against an assessment under section 6 or an appeal under section 12 in relation to an education plan is made, or
 
-( b ) a dispute is referred under subsection (5) ,
+(b) a dispute is referred under subsection (5),
 
 shall not, during the period pending its determination, absolve the Council or a health board (or both) of the duty of providing such of the services to the child concerned as are, irrespective of the outcome of the determination of the appeal or dispute, required by this section to be provided to him or her.
 
@@ -479,7 +491,9 @@ shall not, during the period pending its determination, absolve the Council or a
 
 [2004.] Education for Persons with Special [ No. 30. ] Educational Needs Act 2004.
 
-8. -(1) The Council upon being informed by a health board or the principal of a relevant school that a child has special educational needs, shall, unless an education plan has been or is being prepared under section 3 in respect of the child, direct the relevant special educational needs organiser to cause to be prepared a plan for the appropriate education of the child (in this Act also referred to as an ''education plan'').
+## Preparation of education plan at direction of Council.
+
+8.—(1) The Council upon being informed by a health board or the principal of a relevant school that a child has special educational needs, shall, unless an education plan has been or is being prepared under section 3 in respect of the child, direct the relevant special educational needs organiser to cause to be prepared a plan for the appropriate education of the child (in this Act also referred to as an ''education plan'').
 
 (2) The preparation of an education plan under this section shall commence not later than 1 month from the direction concerned referred to in subsection (1) being given and be completed without undue delay and, in any case, not later than 2 months from its being commenced.
 
@@ -506,7 +520,6 @@ shall not, during the period pending its determination, absolve the Council or a
 ''relevant school'' means the school which the child concerned is attending or which it is proposed the child will attend;
 
 ''relevant special educational needs organiser'' means the special educational needs organiser with responsibility for the area in which
-## Preparation of education plan at direction of Council.
 
 13
 
@@ -514,15 +527,15 @@ shall not, during the period pending its determination, absolve the Council or a
 
 [[START OF PAGE 14]]
 
-S.8
-
-## Content of education plan.
-
 [ No. 30. ] Education for Persons with Special [2004.] Educational Needs Act 2004.
+
+S.8
 
 the relevant school is situated or, as the case may be, for the particular category of school designated pursuant to section 26(5) into which the relevant school falls.
 
-9. -(1) An education plan under section 3 or 8 shall be in such form as the Council may determine from time to time and specify in a notice published, in such manner as it thinks fit, for the purposes of this subsection.
+## Content of education plan.
+
+9.—(1) An education plan under section 3 or 8 shall be in such form as the Council may determine from time to time and specify in a notice published, in such manner as it thinks fit, for the purposes of this subsection.
 
 (2) The matters to be specified in an education plan under section 3 or 8 shall include-
 
@@ -560,7 +573,9 @@ the relevant school is situated or, as the case may be, for the particular categ
 
 [2004.] Education for Persons with Special [ No. 30. ] Educational Needs Act 2004.
 
-S.9 (8) Where the transfer from one school to another school of a child in respect of whom an education plan has been prepared is proposed, the principal of the first-mentioned school shall consult, before such transfer takes place, with the principal of the secondmentioned school for the purpose of-
+S.9
+
+(8) Where the transfer from one school to another school of a child in respect of whom an education plan has been prepared is proposed, the principal of the first-mentioned school shall consult, before such transfer takes place, with the principal of the second-mentioned school for the purpose of—
 
 ( a ) ensuring that the principal of the second-mentioned school is informed of the content of the education plan, and
 
@@ -570,7 +585,9 @@ S.9 (8) Where the transfer from one school to another school of a child in respe
 
 (10) Where a special educational needs organiser is consulted pursuant to subsection (9) , he or she may decide to reconvene the relevant team, or, as the organiser thinks fit, engage the assistance of one or more of the members of that team, or in the case of an education plan prepared under section 3 , convene a group of persons (in this Act also referred to as a ''team''), for the purpose of reviewing the content and implementation of the plan and may, as a consequence of that review, amend the plan.
 
-10. -(1) The Council may-
+## Designation of school.
+
+10.—(1) The Council may—
 
 ( a ) of its own volition, or
 
@@ -586,21 +603,17 @@ designate the school which a child with special educational needs or, in the cas
 
 ( b ) a recommendation of the Council, communicated to the school as part of that designation, in respect of the additional resources referred to in subsection (2) to be given to the school.
 
-## Designation of school.
-
 15
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
 
-S.10
-
-## Review of education plan.
-
 [ No. 30. ] Education for Persons with Special [2004.] Educational Needs Act 2004.
 
-(4) On the hearing of an appeal under subsection (3) , the Appeals Board may-
+S.10
+
+(4) On the hearing of an appeal under subsection (3), the Appeals Board may—
 
 ( a ) allow the appeal and, in the case of a designation, cancel the designation and, in the case of a recommendation, cancel, or, as it thinks appropriate, vary the recommendation, or
 
@@ -624,7 +637,9 @@ S.10
 
 (11) In this section ''school'' includes a centre for education (within the meaning of the Education Act 1998).
 
-11. -(1) Without prejudice to subsection (4) , the principal of the relevant school shall review or cause to be reviewed at regular intervals, but in any case not less than once a year, the operation of each education plan for children who are attending the school-
+## Review of education plan.
+
+11.—(1) Without prejudice to subsection (4), the principal of the relevant school shall review or cause to be reviewed at regular intervals, but in any case not less than once a year, the operation of each education plan for children who are attending the school—
 
 ( a ) for the purpose of establishing whether or not the child concerned has received the services required as contained in the education plan and is achieving the goals specified in the education plan, and
 
@@ -636,11 +651,13 @@ S.10
 
 [2004.] Education for Persons with Special [ No. 30. ] Educational Needs Act 2004.
 
-- S.11 ( b ) with a view to making recommendations in a report under subsection (2) , being recommendations for the amendment of the plan and the purposes of which are to assist the child concerned in achieving any of those goals that he or she is not achieving.
+S.11
 
-(2) The principal shall make a report to the parents of the child concerned and the relevant special educational needs organiser of the outcome of a review under subsection (1) .
+(b) with a view to making recommendations in a report under subsection (2), being recommendations for the amendment of the plan and the purposes of which are to assist the child concerned in achieving any of those goals that he or she is not achieving.
 
-(3) Where, as a result of his or her consideration of that report, the special educational needs organiser is of the opinion that the goals specified in the plan concerned have not been achieved the organiser shall reconvene the relevant team, or, as the organiser thinks fit, engage the assistance of one or more of the members of that team, or, in the case of an education plan prepared under s ection 3 , convene a group of persons (in this Act also referred to as a ''team''), for the purpose of reviewing the content and implementation of the plan and may, as a consequence of that review, amend the plan.
+(2) The principal shall make a report to the parents of the child concerned and the relevant special educational needs organiser of the outcome of a review under subsection (1).
+
+(3) Where, as a result of his or her consideration of that report, the special educational needs organiser is of the opinion that the goals specified in the plan concerned have not been achieved the organiser shall reconvene the relevant team, or, as the organiser thinks fit, engage the assistance of one or more of the members of that team, or, in the case of an education plan prepared under section 3, convene a group of persons (in this Act also referred to as a ''team''), for the purpose of reviewing the content and implementation of the plan and may, as a consequence of that review, amend the plan.
 
 (4) Where parents have reason to believe that the goals specified in an education plan prepared in respect of their child are not being achieved and a review of the plan has not occurred in the previous 6 months, they may request the principal of the relevant school to arrange for such a review and where the principal considers it appropriate to accede to their request he or she shall carry out or cause to be carried out that review as if it were a review under subsection (1) , and subsection (2) shall apply accordingly.
 
@@ -664,13 +681,11 @@ S.10
 
 [[START OF PAGE 18]]
 
-## Appeals in relation to education plans.
-
-## Duty of Minister and Minister for Health and Children to make resources available.
-
 [ No. 30. ] Education for Persons with Special [2004.] Educational Needs Act 2004.
 
-12. -(1) Parents may, in respect of their child, appeal to the Appeals Board against-
+## Appeals in relation to education plans.
+
+12.—(1) Parents may, in respect of their child, appeal to the Appeals Board against—
 
 ( a ) the discharge by the Council or a principal of a school of its or his or her duties in relation to-
 
@@ -692,9 +707,11 @@ on the ground that the statement or description is incorrect or inadequate to me
 
 (4) In this section ''relevant school'' has the same meaning as it has in section 8 .
 
-13. -(1) The Minister and the Minister for Health and Children shall each, with the consent of the Minister for Finance, out of moneys provided by the Oireachtas, provide such moneys and other resources as are determined by him or her for the purposes of the preparation and implementation of education plans prepared in respect of children with special educational needs.
+## Duty of Minister and Minister for Health and Children to make resources available.
 
-- Each of the following-
+13.—(1) The Minister and the Minister for Health and Children shall each, with the consent of the Minister for Finance, out of moneys provided by the Oireachtas, provide such moneys and other resources as are determined by him or her for the purposes of the preparation and implementation of education plans prepared in respect of children with special educational needs.
+
+(2) Each of the following—
 
 ( a ) a determination by the Minister or the Minister for Health and Children in respect of the matters referred to in subsection (1) , and
 
@@ -710,13 +727,17 @@ shall be in accordance with the policies from time to time formulated by the Min
 
 [2004.] Education for Persons with Special [ No. 30. ] Educational Needs Act 2004.
 
-S.13 (3) In formulating any such policy, the Minister of the Government concerned shall have regard to, and take due account of, the following principles-
+S.13
+
+(3) In formulating any such policy, the Minister of the Government concerned shall have regard to, and take due account of, the following principles—
 
 ( a ) that the provision of resources by the State in fulfilment of its duties under Article 42 of the Constitution (being the resources available to the State and allocated by it in a manner consistent with common good) shall be such as to ensure the equitable treatment of every child in the State,
 
 ( b ) that the objective of the educational provision made by this Act is to ensure that children with special educational needs have the same right to avail of, and benefit from, appropriate education as do their peers who do not have such needs.
 
-14. -(1) The board of management of a school shall-
+## Duty of schools.
+
+14.—(1) The board of management of a school shall—
 
 ( a ) ensure that section 2 is complied with as respects that school,
 
@@ -738,45 +759,43 @@ S.13 (3) In formulating any such policy, the Minister of the Government concerne
 
 (3) Any person (other than a school) who or which provides education to persons with special educational needs, being a person funded in whole or in part from moneys provided by the Oireachtas, shall provide to the Council such information as the Council may from time to time reasonably request for the performance by it of its functions.
 
-## Duty of schools.
-
 19
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
 
+[ No. 30. ] Education for Persons with Special [2004.] Educational Needs Act 2004.
+
 S.14
+
+(4) A request under subsection (1)(c) or (3) shall be complied with within such period (not being a period longer than 1 month from the date of the request) as the Council specifies in the request.
 
 ## Planning for future education needs.
 
-## Implementation of relevant education policy by health boards.
+15.—(1) In preparing or reviewing an education plan, the principal of the relevant school or relevant special educational needs organiser shall, from the child's attaining such age as the principal or organiser considers appropriate, have regard to the provision which will need to be made to assist the child to continue his or her education or training on becoming an adult.
 
-## Liaison officers.
+(2) In performing the functions under subsection (1), the principal or the special educational needs organiser shall—
 
-[ No. 30. ] Education for Persons with Special [2004.] Educational Needs Act 2004.
+(a) ascertain the wishes of the child concerned and of his or her parents, and
 
-(4) Arequest under subsection (1)(c) or (3) shall be complied with within such period (not being a period longer than 1 month from the date of the request) as the Council specifies in the request.
+(b) take such steps as are necessary as will enable the child to progress as a young adult to the level of education or training that meets his or her wishes or those of his or her parents and that are appropriate to his or her ability.
 
-15. -(1) In preparing or reviewing an education plan, the principal of the relevant school or relevant special educational needs organiser shall, from the child's attaining such age as the principal or organiser considers appropriate, have regard to the provision which will need to be made to assist the child to continue his or her education or training on becoming an adult.
+(3) In preparing or carrying out a review of an education plan in respect of the child who has special educational needs and who within the following 12 months will reach the age of 18 years, the Council shall cause an assessment to be made of—
 
-(2) In performing the functions under subsection (1) , the principal or the special educational needs organiser shall-
+(a) the extent, if any, to which goals set out in any previous such plan or the plan, as the case may be, successfully met the special educational needs of the child or student, and
 
-( a ) ascertain the wishes of the child concerned and of his or her parents, and
-
-( b ) take such steps as are necessary as will enable the child to progress as a young adult to the level of education or training that meets his or her wishes or those of his or her parents and that are appropriate to his or her ability.
-
-(3) In preparing or carrying out a review of an education plan in respect of the child who has special educational needs and who within the following 12 months will reach the age of 18 years, the Council shall cause an assessment to be made of-
-
-( a ) the extent, if any, to which goals set out in any previous such plan or the plan, as the case may be, successfully met the special educational needs of the child or student, and
-
-( b ) the reasons for any failure to meet those goals and the effect any such failure has had on the development of the child,
+(b) the reasons for any failure to meet those goals and the effect any such failure has had on the development of the child,
 
 and the plan shall include measures to address any such effect.
 
-16. -Ahealth board, in the performance of its functions under this Act, shall implement the policies relating to education generally and the education of children with special educational needs and to the provision of support services which are formulated, from time to time, by the Minister or the Minister for Health and Children.
+## Implementation of relevant education policy by health boards.
 
-17. -The Council and each health board shall designate one or more of its officers, not below such rank as the Council after consultation with the chief executive officer of the health board shall determine, to perform the following functions, namely to ensure, so far as practicable, that-
+16.—A health board, in the performance of its functions under this Act, shall implement the policies relating to education generally and the education of children with special educational needs and to the provision of support services which are formulated, from time to time, by the Minister or the Minister for Health and Children.
+
+## Liaison officers.
+
+17.—The Council and each health board shall designate one or more of its officers, not below such rank as the Council after consultation with the chief executive officer of the health board shall determine, to perform the following functions, namely to ensure, so far as practicable, that—
 
 ( a ) the activities of the Council and those of the health board, in so far as they relate to their respective functions under this Act, are co-ordinated, and
 
@@ -792,17 +811,23 @@ and each officer so designated shall be known as a ''liaison officer''.
 
 [2004.] Education for Persons with Special [ No. 30. ] Educational Needs Act 2004.
 
-18. -(1) The principal of a school may delegate the performance of any of the functions conferred on him or her by this Act to such teacher in the school as the principal considers appropriate and a function so delegated shall, accordingly, be performable by the teacher concerned.
+## Delegation of functions of principals, etc.
+
+18.—(1) The principal of a school may delegate the performance of any of the functions conferred on him or her by this Act to such teacher in the school as the principal considers appropriate and a function so delegated shall, accordingly, be performable by the teacher concerned.
 
 (2) The relevant special educational needs organiser shall give all such advice and assistance as is reasonable to the principal and teachers of the school concerned in their performance of functions under this Act.
 
-19. -(1) There shall stand established on the establishment day a body to be known as an Chomhairle Na ´isiu ´nta um Oideachas Speisialta or in the English language the National Council for Special Education, and which in this Act is referred to as the ''Council'', to perform the functions conferred on it by or under this Act.
+## National Council for Special Education.
+
+19.—(1) There shall stand established on the establishment day a body to be known as an Chomhairle Náisiúnta um Oideachas Speisialta or in the English language the National Council for Special Education, and which in this Act is referred to as the ''Council'', to perform the functions conferred on it by or under this Act.
 
 (2) The Council shall be a body corporate with perpetual succession and a seal and power to sue and be sued in its corporate name and, with the consent of the Minister (given with the approval of the Minister for Finance), to acquire, hold and dispose of land or an interest in land and to acquire, hold and dispose of any other property.
 
 (3) Schedule 1 to this Act shall apply to the Council.
 
-20. -(1) The Council shall have the following functions:
+## Functions of Council.
+
+20.—(1) The Council shall have the following functions:
 
 ( a ) to disseminate to schools, parents and such other persons as the Council considers appropriate information relating to best practice, nationally and internationally, concerning the education of children with special educational needs;
 
@@ -817,12 +842,6 @@ and each officer so designated shall be known as a ''liaison officer''.
 ( f ) to assess and review the resources required in relation to educational provision for children with special educational needs;
 
 ( g ) to ensure that a continuum of special educational provision is available as required in relation to each type of disability;
-
-## Delegation of functions of principals, etc.
-
-## National Council for Special Education.
-
-## Functions of Council.
 
 21
 
@@ -846,7 +865,7 @@ S.20
 
 (2) The Council shall have the power to do all things necessary for or incidental to the performance of its functions.
 
-- The Council, in the performance of its functions, shall-
+(3) The Council, in the performance of its functions, shall—
 
 ( a ) implement the policies relating to education generally and the education of children with special educational needs which are formulated, from time to time, by the Minister (including the policy referred to in section 13 ), and
 
@@ -856,7 +875,7 @@ S.20
 
 (ii) have regard to the practical implementation of that advice.
 
-- The Minister may by order-
+(4) The Minister may by order—
 
 ( a ) confer on the Council such additional functions relating to the provision by the Council of support services to children with special educational needs as he or she considers appropriate,
 
@@ -870,7 +889,9 @@ S.20
 
 [2004.] Education for Persons with Special [ No. 30. ] Educational Needs Act 2004.
 
-21. -(1) The Council shall consist of a chairperson and 12 ordinary members.
+## Membership of Council.
+
+21.—(1) The Council shall consist of a chairperson and 12 ordinary members.
 
 (2) The chairperson and ordinary members of the Council shall be appointed by the Minister from among persons who have a special interest in or knowledge relating to the education of children with special educational needs.
 
@@ -896,13 +917,11 @@ with a view, where the Minister considers it appropriate to do so, to appointing
 
 (7) The members of the Council (including the chairperson and deputy chairperson) may be paid such allowances for expenses as the Minister, with the consent of the Minister for Finance, may determine.
 
-22. -(1) There shall be, for the purpose mentioned in subsection (2) , a consultative forum, that is to say, a group of persons who shall be appointed in accordance with subsections (3) and (5) and who, as a collective body, are referred to subsequently in this section and in section 23 as the ''consultative forum''.
+## Consultative forum.
+
+22.—(1) There shall be, for the purpose mentioned in subsection (2), a consultative forum, that is to say, a group of persons who shall be appointed in accordance with subsections (3) and (5) and who, as a collective body, are referred to subsequently in this section and in section 23 as the ''consultative forum''.
 
 (2) The purpose referred to in subsection (1) is the purpose of the Council's consulting the consultative forum with respect to the performance by the Council of one or more functions, or elements of one or more functions, determined by the Council, from time to time, to be functions or elements of functions appropriate for such consultation to take place in relation to them.
-
-## Membership of Council.
-
-## Consultative forum.
 
 23
 
@@ -910,11 +929,9 @@ with a view, where the Minister considers it appropriate to do so, to appointing
 
 [[START OF PAGE 24]]
 
-S.22
-
-## Implementation report.
-
 [ No. 30. ] Education for Persons with Special [2004.] Educational Needs Act 2004.
+
+S.22
 
 (3) Such number of persons (not exceeding 17) as the Council considers appropriate shall be appointed by the Council to be members of the consultative forum and the Council shall ensure, as far as practicable, that at least 7 of the members so appointed are women and at least 7 of them are men.
 
@@ -944,7 +961,9 @@ S.22
 
 (8) The members of the consultative forum may be paid such allowances (if any) for expenses incurred by them in the discharge of their functions as may be determined by the Minister with the consent of the Minister for Finance.
 
-23. -(1) The Council, after consultation with the consultative forum and the Minister shall, within 12 months from the establishment day, make a report (in this section referred to as the ''implementation report'') to the Minister outlining the steps that must be taken in order that the provisions of this Act will be fully implemented within the period specified in the report.
+## Implementation report.
+
+23.—(1) The Council, after consultation with the consultative forum and the Minister shall, within 12 months from the establishment day, make a report (in this section referred to as the ''implementation report'') to the Minister outlining the steps that must be taken in order that the provisions of this Act will be fully implemented within the period specified in the report.
 
 (2) The period so specified shall not be more than 5 years from the establishment day.
 
@@ -960,15 +979,19 @@ S.22
 
 [2004.] Education for Persons with Special [ No. 30. ] Educational Needs Act 2004.
 
-- S.23 ( b ) provide an estimate of the resources that will be necessary for the taking of each step in the implementation of this Act, and
+S.23
+
+(b) provide an estimate of the resources that will be necessary for the taking of each step in the implementation of this Act, and
 
 ( c ) contain a review of any other relevant enactments or instruments under enactments that affect, or may affect, the performance of the Council's functions under this Act and make such recommendations to the Minister as the Council considers appropriate in relation to the amendment, repeal or revocation, as appropriate of those enactments or instruments.
 
 (4) In preparing the implementation report, the Council shall also consider how the educational needs of children with special educational needs can, to the greatest extent practicable, be met pending the full implementation of this Act; the Council shall include in the report recommendations in that regard.
 
-24. -(1) There shall be a chief executive of the Council who shall be appointed by the Council (and such officer shall be known, and is in this Act referred to, as ''the Chief Executive Officer'').
+## Chief Executive Officer.
 
-(2) The Chief Executive Officer shall be appointed in a wholetime capacity and for a term of 7 years.
+24.—(1) There shall be a chief executive of the Council who shall be appointed by the Council (and such officer shall be known, and is in this Act referred to, as ''the Chief Executive Officer'').
+
+(2) The Chief Executive Officer shall be appointed in a whole-time capacity and for a term of 7 years.
 
 (3) The Chief Executive Officer shall be appointed in accordance with procedures determined by the Council with the consent of the Minister.
 
@@ -976,17 +999,15 @@ S.22
 
 (5) Schedule 2 to this Act shall apply to the Chief Executive Officer.
 
-25. -(1) Subject to the consent of the Minister and the Minister for Finance, the Council may, from time to time, appoint such and so many persons to be employees of the Council as the Council may determine.
+## Employees.
+
+25.—(1) Subject to the consent of the Minister and the Minister for Finance, the Council may, from time to time, appoint such and so many persons to be employees of the Council as the Council may determine.
 
 (2) Subject to such conditions as it thinks fit, the Council may delegate to the Chief Executive Officer any of the functions of the Council in relation to the appointment of employees and the determination of selection procedures.
 
 (3) Except as otherwise provided by this Act, the Chief Executive Officer and each other employee of the Council shall be employed on such terms and conditions as the Council, with the consent of the Minister and the Minister for Finance, may from time to time determine.
 
 (4) Except as otherwise provided by this Act, the Council shall pay to its employees (including the Chief Executive Officer) such remuneration, fees and allowances for expenses as the Council, with the consent of the Minister and the Minister for Finance, may from time to time determine.
-
-## Chief Executive Officer.
-
-## Employees.
 
 25
 
@@ -996,19 +1017,15 @@ S.22
 
 S.25
 
-## Special educational needs organisers.
-
-## Curriculum.
-
-## Removal of Council from office.
-
-[ No. 30. ] Education for Persons with Special [2004.] Educational Needs Act 2004.
+[No. 30.] Education for Persons with Special [2004.] Educational Needs Act 2004.
 
 (5) The Civil Service Commissioners Act 1956 and the Civil Service Regulation Acts 1956 to 1996 shall apply to the Chief Executive Officer and to employees of the Council.
 
-26. -(1) The Council may appoint such and so many persons as it determines to perform the functions expressed by this Act to be performable by special educational needs organisers and each person who is so appointed shall be known, and in this Act is referred to, as a ''special educational needs organiser''.
+## Special educational needs organisers.
 
-(2) Aspecial educational needs organiser shall carry out his or her duties under this Act under the direction and control of the Council.
+26.—(1) The Council may appoint such and so many persons as it determines to perform the functions expressed by this Act to be performable by special educational needs organisers and each person who is so appointed shall be known, and in this Act is referred to, as a ''special educational needs organiser''.
+
+(2) A special educational needs organiser shall carry out his or her duties under this Act under the direction and control of the Council.
 
 (3) A special educational needs organiser shall have such qualifications, expertise and experience relevant to the education of children with special educational needs as the Council considers appropriate.
 
@@ -1018,17 +1035,21 @@ S.25
 
 (6) The board of management, principal, teachers and other members of staff of a school shall give all such assistance as may reasonably be required by the special educational needs organiser in the performance by him or her of his or her functions.
 
-27. -The National Council for Curriculum and Assessment shall consult with the Council prior to advising the Minister under section 41(2)( f ) of the Education Act 1998.
+## Curriculum.
 
-28. -(1) Where the Minister is of the opinion that the Council has failed, neglected or refused to perform a function assigned to it under this Act or has failed to effectively perform any such function or otherwise has contravened this Act, the Minister may, after first advising the Council of his or her opinion and considering any explanation given in response, appoint a person to inquire into any matter giving rise to that opinion.
+27.—The National Council for Curriculum and Assessment shall consult with the Council prior to advising the Minister under section 41(2)(f) of the Education Act 1998.
 
-- A person appointed under subsection (1) shall-
+## Removal of Council from office.
 
-( a ) inquire into the matters giving rise to the Minister's opinion and any related matter and report to the Minister on the findings of the inquiry,
+28.—(1) Where the Minister is of the opinion that the Council has failed, neglected or refused to perform a function assigned to it under this Act or has failed to effectively perform any such function or otherwise has contravened this Act, the Minister may, after first advising the Council of his or her opinion and considering any explanation given in response, appoint a person to inquire into any matter giving rise to that opinion.
 
-( b ) for the purposes of this section, be entitled at all reasonable times to enter the premises of the Council to inquire into the affairs of the Council or to conduct an inspection of the premises, equipment and records where the inspection is, in his or her opinion, relevant to the inquiry,
+(2) A person appointed under subsection (1) shall—
 
-( c ) be afforded all reasonable co-operation and assistance by the Council and its employees, including access to such premises, equipment and records as the person may
+(a) inquire into the matters giving rise to the Minister's opinion and any related matter and report to the Minister on the findings of the inquiry,
+
+(b) for the purposes of this section, be entitled at all reasonable times to enter the premises of the Council to inquire into the affairs of the Council or to conduct an inspection of the premises, equipment and records where the inspection is, in his or her opinion, relevant to the inquiry,
+
+(c) be afforded all reasonable co-operation and assistance by the Council and its employees, including access to such premises, equipment and records as the person may
 
 26
 
@@ -1036,32 +1057,35 @@ S.25
 
 [[START OF PAGE 27]]
 
-[2004.] Education for Persons with Special [ No. 30. ] Educational Needs Act 2004.
+[2004.] Education for Persons with Special [No. 30.] Educational Needs Act 2004.
 
-S.28 require, to enable the person to perform his or her functions under this section.
+S.28
 
-(3) Where the Minister, after considering the report referred to in subsection (2)(a) , remains of the opinion that the Council has failed, neglected or refused to perform a function assigned to it under this Act or has failed to effectively perform any such function or otherwise has contravened this Act, the Minister shall, by notice in writing, inform the Chief Executive Officer and the chairperson of the Council, and shall give a copy of the report to the Chief Executive Officer and the chairperson.
+require, to enable the person to perform his or her functions under this section.
+
+(3) Where the Minister, after considering the report referred to in subsection (2)(a), remains of the opinion that the Council has failed, neglected or refused to perform a function assigned to it under this Act or has failed to effectively perform any such function or otherwise has contravened this Act, the Minister shall, by notice in writing, inform the Chief Executive Officer and the chairperson of the Council, and shall give a copy of the report to the Chief Executive Officer and the chairperson.
 
 (4) The Council may make representations to the Minister in respect of the report within 14 days after the date of receipt of the report.
 
-(5) After the end of the period referred to in subsection (4) and after considering the representations, if any, of the Council in respect of the report, the Minister may by order remove the members of the Council and terminate their membership if-
+(5) After the end of the period referred to in subsection (4) and after considering the representations, if any, of the Council in respect of the report, the Minister may by order remove the members of the Council and terminate their membership if—
 
-( a ) the Minister remains of the opinion that the Council has failed, neglected or refused to perform a function assigned to it under this Act or has failed to effectively perform any such function or otherwise has contravened this Act, and
+(a) the Minister remains of the opinion that the Council has failed, neglected or refused to perform a function assigned to it under this Act or has failed to effectively perform any such function or otherwise has contravened this Act, and
 
-( b ) the Minister is of the opinion that the Council should be removed.
+(b) the Minister is of the opinion that the Council should be removed.
 
-(6) Where an order is made under subsection (5) , the Minister shall appoint such person or body of persons as he or she thinks fit to perform the functions of the Council and that person or body shall perform those functions until the commencement of the first meeting of the Council after the appointment of its members under subsection (8).
+(6) Where an order is made under subsection (5), the Minister shall appoint such person or body of persons as he or she thinks fit to perform the functions of the Council and that person or body shall perform those functions until the commencement of the first meeting of the Council after the appointment of its members under subsection (8).
 
-(7) Where an order is proposed to be made under subsection (5) , a draft of the order shall be laid before each House of the Oireachtas and the order shall not be made until a resolution approving of the draft has been passed by each such House.
+(7) Where an order is proposed to be made under subsection (5), a draft of the order shall be laid before each House of the Oireachtas and the order shall not be made until a resolution approving of the draft has been passed by each such House.
 
-(8) The Minister shall, within 12 months of the removal of the members of the Council, appoint, in replacement of those members, members of the Council in accordance with section 21 .
+(8) The Minister shall, within 12 months of the removal of the members of the Council, appoint, in replacement of those members, members of the Council in accordance with section 21.
 
 (9) The remuneration, if any, of a person appointed under subsection (1) or of a person or member of a body appointed under subsection (6) shall be determined by the Minister with the consent of the Minister for Finance and be paid out of moneys provided by the Oireachtas.
 
-29. -(1) The Council shall keep, in such form as may be approved of by the Minister, all proper and usual accounts and records of all moneys received or expended by it.
+## Accounts and audits.
+
+29.—(1) The Council shall keep, in such form as may be approved of by the Minister, all proper and usual accounts and records of all moneys received or expended by it.
 
 (2) Accounts kept in accordance with subsection (1) shall, to the extent directed by the Comptroller and Auditor General, be submitted by the Council for audit to the Comptroller and Auditor General, at such intervals and by such date as the Comptroller and Auditor General may from time to time determine and, immediately after
-## Accounts and audits.
 
 27
 
@@ -1071,35 +1095,35 @@ S.28 require, to enable the person to perform his or her functions under this se
 
 S.29
 
-## Accountability of Chief Executive Officer to Committee of Public Accounts.
-
-## Accountability of Chief Executive Officer to other Oireachtas Committees.
-
-## Gifts.
-
-[ No. 30. ] Education for Persons with Special [2004.] Educational Needs Act 2004.
+[No. 30.] Education for Persons with Special [2004.] Educational Needs Act 2004.
 
 the audit, a copy of the accounts, together with a copy of the report of the Comptroller and Auditor General on the accounts, shall be submitted by the Council to the Minister.
 
 (3) The Council shall cause copies of the accounts submitted under this section to the Minister, together with copies of the report of the Comptroller and Auditor General on those accounts, to be laid before each House of the Oireachtas.
 
-30. -(1) The Chief Executive Officer shall, whenever required to do so by the Committee of Da ´il E ´ ireann established under the Standing Orders of Da ´il E ´ ireann to examine and report to Da ´il E ´ ireann on the appropriation accounts and reports of the Comptroller and Auditor General, give evidence to that Committee on-
+## Accountability of Chief Executive Officer to Committee of Public Accounts.
 
-( a ) the regularity and propriety of the transactions recorded or required to be recorded in any book or other record of account subject to audit by the Comptroller and Auditor General which the Council is required by this Act to prepare,
+30.—(1) The Chief Executive Officer shall, whenever required to do so by the Committee of Dáil Éireann established under the Standing Orders of Dáil Éireann to examine and report to Dáil Éireann on the appropriation accounts and reports of the Comptroller and Auditor General, give evidence to that Committee on—
 
-( b ) the economy and efficiency of the Council in the use of its resources,
+(a) the regularity and propriety of the transactions recorded or required to be recorded in any book or other record of account subject to audit by the Comptroller and Auditor General which the Council is required by this Act to prepare,
 
-( c ) the systems, procedures and practices employed by the Council for the purpose of evaluating the effectiveness of its operations, and
+(b) the economy and efficiency of the Council in the use of its resources,
 
-( d ) any matter affecting the Council referred to in a special report of the Comptroller and Auditor General under section 11(2) of the Comptroller and Auditor General (Amendment) Act 1993 or in any other report of the Comptroller and Auditor General (in so far as it relates to a matter specified in paragraph (a) , (b) or (c) ) that is laid before Da ´il E ´ ireann.
+(c) the systems, procedures and practices employed by the Council for the purpose of evaluating the effectiveness of its operations, and
 
-(2) In the performance of his or her duties under this section, the Chief Executive Officer shall not question or express an opinion on the merits of any policy of the Government or a Minister of the Government or on the merits of the objectives of such a policy.
-
-31. -(1) The Chief Executive Officer shall, whenever required to do so by a Committee (or a subcommittee of such a committee) appointed by either House of the Oireachtas or jointly by both Houses of the Oireachtas (other than the Committee on Members' Interests of Da ´il E ´ ireann or the Committee on Members' Interests of Seanad E ´ ireann) to examine matters relating to the Department of Education and Science, or to disabilities, give evidence to that Committee on the performance, by him or her, or by the employees of the Council, of his or her or their duties in relation to the Council's functions under this Act.
+(d) any matter affecting the Council referred to in a special report of the Comptroller and Auditor General under section 11(2) of the Comptroller and Auditor General (Amendment) Act 1993 or in any other report of the Comptroller and Auditor General (in so far as it relates to a matter specified in paragraph (a), (b) or (c)) that is laid before Dáil Éireann.
 
 (2) In the performance of his or her duties under this section, the Chief Executive Officer shall not question or express an opinion on the merits of any policy of the Government or a Minister of the Government or on the merits of the objectives of such a policy.
 
-32. -(1) The Council may accept gifts of money, land or other property upon such trusts and conditions, if any, as may be specified by the donor.
+## Accountability of Chief Executive Officer to other Oireachtas Committees.
+
+31.—(1) The Chief Executive Officer shall, whenever required to do so by a Committee (or a subcommittee of such a committee) appointed by either House of the Oireachtas or jointly by both Houses of the Oireachtas (other than the Committee on Members' Interests of Dáil Éireann or the Committee on Members' Interests of Seanad Éireann) to examine matters relating to the Department of Education and Science, or to disabilities, give evidence to that Committee on the performance, by him or her, or by the employees of the Council, of his or her or their duties in relation to the Council's functions under this Act.
+
+(2) In the performance of his or her duties under this section, the Chief Executive Officer shall not question or express an opinion on the merits of any policy of the Government or a Minister of the Government or on the merits of the objectives of such a policy.
+
+## Gifts.
+
+32.—(1) The Council may accept gifts of money, land or other property upon such trusts and conditions, if any, as may be specified by the donor.
 
 28
 
@@ -1107,24 +1131,27 @@ the audit, a copy of the accounts, together with a copy of the report of the Com
 
 [[START OF PAGE 29]]
 
-[2004.] Education for Persons with Special [ No. 30. ] Educational Needs Act 2004.
+[2004.] Education for Persons with Special [No. 30.] Educational Needs Act 2004.
 
-S.32 (2) The Council shall not accept a gift if the trusts or conditions attached to it would be inconsistent with its functions.
+S.32
+
+(2) The Council shall not accept a gift if the trusts or conditions attached to it would be inconsistent with its functions.
 
 (3) The Council shall include in each report published by it under section 34 details of all gifts accepted by it during the period to which the report relates.
 
-33. -(1) The Council may establish committees to assist and advise it in relation to the performance of any of its functions.
 ## Committees.
+
+33.—(1) The Council may establish committees to assist and advise it in relation to the performance of any of its functions.
 
 (2) The Council may delegate to a committee any of its functions which, in its opinion, can be better or more conveniently performed by a committee.
 
 (3) A committee established under this section may include or consist of persons who are not members of the Council but who have particular expertise in relation to the field of special educational needs.
 
-(4) Members of a committee-
+(4) Members of a committee—
 
-( a ) shall be appointed subject to such terms and conditions, and
+(a) shall be appointed subject to such terms and conditions, and
 
-( b ) may be paid by the Council such allowances (if any) for expenses incurred by them in the discharge of their functions,
+(b) may be paid by the Council such allowances (if any) for expenses incurred by them in the discharge of their functions,
 
 as the Council may determine, subject to the consent of the Minister.
 
@@ -1132,11 +1159,11 @@ as the Council may determine, subject to the consent of the Minister.
 
 (6) A committee shall appoint, from time to time, a chairperson from among its members.
 
-(7) The Chief Executive Officer may-
+(7) The Chief Executive Officer may—
 
-( a ) opt to be a member of a committee, or
+(a) opt to be a member of a committee, or
 
-( b ) in lieu of his or her opting to be such a member, may nominate, with that other's consent, another to be such a member,
+(b) in lieu of his or her opting to be such a member, may nominate, with that other's consent, another to be such a member,
 
 and where the Chief Executive Officer so opts or nominates another, the Chief Executive Officer or the other person, as the case may be, shall be deemed to stand appointed as a member of the committee but shall not be entitled to cast a vote in respect of any matter falling to be decided by the committee.
 
@@ -1154,41 +1181,41 @@ and where the Chief Executive Officer so opts or nominates another, the Chief Ex
 
 S.33
 
+[No. 30.] Education for Persons with Special [2004.] Educational Needs Act 2004.
+
+(11) A committee shall provide the Council with such information as the Council may from time to time require, in respect of the committee's activities and operation, for the purposes of the performance by the Council of its functions.
+
 ## Annual report and information.
 
-## Establishment day.
+34.—(1) Subject to subsection (2), the Council shall prepare and publish, in such form and manner as it considers appropriate, a report of its activities and proceedings under this Act.
 
-## Special Education Appeals Board.
+(2) A report under subsection (1) shall be prepared—
 
-[ No. 30. ] Education for Persons with Special [2004.] Educational Needs Act 2004.
+(a) in the case of the first such report, at the end of 1 year after the establishment day, and relate to the Council's activities and proceedings under this Act during that year, and
 
-(11) Acommittee shall provide the Council with such information as the Council may from time to time require, in respect of the committee's activities and operation, for the purposes of the performance by the Council of its functions.
-
-34. -(1) Subject to subsection (2) , the Council shall prepare and publish, in such form and manner as it considers appropriate, a report of its activities and proceedings under this Act.
-
-(2) A report under subsection (1) shall be prepared-
-
-( a ) in the case of the first such report, at the end of 1 year after the establishment day, and relate to the Council's activities and proceedings under this Act during that year, and
-
-( b ) thereafter, at the end of 1 year following the preparation of the preceding report, and relate to the Council's activities and proceedings under this Act during the preceding 12 months.
+(b) thereafter, at the end of 1 year following the preparation of the preceding report, and relate to the Council's activities and proceedings under this Act during the preceding 12 months.
 
 (3) The Council shall provide the Minister with a copy of the report under subsection (1) and the Minister shall cause the report to be laid before each House of the Oireachtas.
 
 (4) The Council shall provide the Minister with such information as the Minister may from time to time require.
 
-35. -The Minister shall within one year from the passing of this Act by order or orders appoint a day to be the establishment day for the purposes of sections 19 and 36 and the day that is so appointed for the purposes of one of those sections may be different to that which is so appointed for the other of them.
+## Establishment day.
 
-36. -(1) On the establishment day there shall stand established the Special Education Appeals Board (in this Act referred to as the ''Appeals Board'') to hear and determine appeals made pursuant to this Act.
+35.—The Minister shall within one year from the passing of this Act by order or orders appoint a day to be the establishment day for the purposes of sections 19 and 36 and the day that is so appointed for the purposes of one of those sections may be different to that which is so appointed for the other of them.
+
+## Special Education Appeals Board.
+
+36.—(1) On the establishment day there shall stand established the Special Education Appeals Board (in this Act referred to as the ''Appeals Board'') to hear and determine appeals made pursuant to this Act.
 
 (2) The Appeals Board may sit in divisions of itself to hear appeals.
 
-(3) In hearing and determining an appeal under this Act, the Appeals Board shall act in accordance with such procedures as may be determined from time to time by it, with the consent of the Minister, and such procedures shall ensure that-
+(3) In hearing and determining an appeal under this Act, the Appeals Board shall act in accordance with such procedures as may be determined from time to time by it, with the consent of the Minister, and such procedures shall ensure that—
 
-( a ) the parties to the appeal are assisted, through mediation, to reach agreement on the matters the subject of the appeal where the Appeals Board is of the opinion that reaching such agreement is practicable in the circumstances,
+(a) the parties to the appeal are assisted, through mediation, to reach agreement on the matters the subject of the appeal where the Appeals Board is of the opinion that reaching such agreement is practicable in the circumstances,
 
-( b ) hearings are conducted with the minimum of formality consistent with giving each of the parties a fair hearing,
+(b) hearings are conducted with the minimum of formality consistent with giving each of the parties a fair hearing,
 
-( c ) the Appeals Board performs its functions in accordance with the policies referred to in section 13(2) .
+(c) the Appeals Board performs its functions in accordance with the policies referred to in section 13(2).
 
 (4) The Appeals Board shall be independent in the performance of its functions.
 
@@ -1198,9 +1225,11 @@ S.33
 
 [[START OF PAGE 31]]
 
-[2004.] Education for Persons with Special [ No. 30. ] Educational Needs Act 2004.
+[2004.] Education for Persons with Special [No. 30.] Educational Needs Act 2004.
 
-S.36 (5) The Appeals Board shall consist of a chairperson and such number of ordinary members as may be determined, by the Minister.
+S.36
+
+(5) The Appeals Board shall consist of a chairperson and such number of ordinary members as may be determined, by the Minister.
 
 (6) The chairperson and ordinary members of the Appeals Board shall be appointed by the Minister from among persons who have a special interest in or knowledge of education and in particular the education of persons with special educational needs.
 
@@ -1214,27 +1243,27 @@ S.36 (5) The Appeals Board shall consist of a chairperson and such number of ord
 
 (11) The Appeals Board may, with the consent of the Minister given with the concurrence of the Minister for Finance, appoint such and so many persons to be employees of the Appeals Board as the Board considers necessary to assist the Board in the performance of its functions and each person so appointed shall hold office on such terms and receive such remuneration as the Appeals Board with the consent of the Minister for Finance determines.
 
-37. -(1) The Appeals Board shall submit a report of its activities and particulars of its accounts to the Minister at such intervals (not being less than once a year) and in such manner and format, as the Minister directs.
+## Report of Appeals Board.
+
+37.—(1) The Appeals Board shall submit a report of its activities and particulars of its accounts to the Minister at such intervals (not being less than once a year) and in such manner and format, as the Minister directs.
 
 (2) The Minister shall cause copies of a report under subsection (1) to be laid before each House of the Oireachtas.
 
-38. -(1) This section applies to cases in which a person with special educational needs or, if the person with such needs is a minor, a parent of the person-
+## Provision for mediation in certain cases.
 
-( a ) makes a complaint to the Minister that the special educational needs of the person are not being met, or
+38.—(1) This section applies to cases in which a person with special educational needs or, if the person with such needs is a minor, a parent of the person—
 
-( b ) proposes to bring, or has brought, proceedings in any court seeking redress in respect of an alleged failure by the Minister or the State to meet those needs of the person (whether the failure to be alleged or alleged in the proceedings is expressed as amounting to a breach of Article 42 of the Constitution, a failure to comply with this Act or howsoever otherwise).
+(a) makes a complaint to the Minister that the special educational needs of the person are not being met, or
 
-(2) The Minister may make regulations (''the regulations'') as respects cases to which this section applies enabling-
+(b) proposes to bring, or has brought, proceedings in any court seeking redress in respect of an alleged failure by the Minister or the State to meet those needs of the person (whether the failure to be alleged or alleged in the proceedings is expressed as amounting to a breach of Article 42 of the Constitution, a failure to comply with this Act or howsoever otherwise).
 
-( a ) a complaint mentioned in subsection (1)(a) , or
+(2) The Minister may make regulations (''the regulations'') as respects cases to which this section applies enabling—
 
-( b ) an alleged failure by the Minister or the State mentioned in subsection (1)(b) ,
+(a) a complaint mentioned in subsection (1)(a), or
+
+(b) an alleged failure by the Minister or the State mentioned in subsection (1)(b),
 
 to be the subject of mediation.
-
-## Report of Appeals Board.
-
-## Provision for mediation in certain cases.
 
 31
 
@@ -1244,35 +1273,35 @@ to be the subject of mediation.
 
 S.38
 
-[ No. 30. ] Education for Persons with Special [2004.] Educational Needs Act 2004.
+[No. 30.] Education for Persons with Special [2004.] Educational Needs Act 2004.
 
 (3) The reference in subsection (2) to a matter being the subject of mediation is a reference to the matter being referred, in accordance with procedures specified in the regulations, to an individual or body appointed in accordance with the regulations (''the mediator'') for the purpose of mediation being conducted by the mediator in relation to it, that is to say, mediation conducted with a view to resolving the issue or issues the subject of the complaint or the proceedings or the proposed proceedings concerned.
 
-(4) The regulations shall provide that, for the purpose of resolving that issue or those issues, the mediator shall-
+(4) The regulations shall provide that, for the purpose of resolving that issue or those issues, the mediator shall—
 
-( a ) inquire fully into each relevant aspect of the issue or issues,
+(a) inquire fully into each relevant aspect of the issue or issues,
 
-( b ) provide to, and receive from, the parties to the mediation such information and generally make such suggestions to each of them as the mediator considers appropriate, and
+(b) provide to, and receive from, the parties to the mediation such information and generally make such suggestions to each of them as the mediator considers appropriate, and
 
-( c ) on completion of any hearing (or the last of them where there is more than one hearing) conducted for that purpose, prepare and furnish to each of the parties a report in relation to the mediation,
+(c) on completion of any hearing (or the last of them where there is more than one hearing) conducted for that purpose, prepare and furnish to each of the parties a report in relation to the mediation,
 
-and the regulations shall also contain the provisions referred to in subsection (5) .
+and the regulations shall also contain the provisions referred to in subsection (5).
 
-(5) Those provisions are-
+(5) Those provisions are—
 
-( a ) a provision prohibiting, subject to such exceptions as may be specified in the regulations, the disclosure of any statements made or information given by the parties to the mediation for the purpose of the mediation,
+(a) a provision prohibiting, subject to such exceptions as may be specified in the regulations, the disclosure of any statements made or information given by the parties to the mediation for the purpose of the mediation,
 
-( b ) a provision prohibiting, subject to such exceptions as may be specified in the regulations, the disclosure of the report referred to in subsection (4)(c) to persons other than the parties to the mediation,
+(b) a provision prohibiting, subject to such exceptions as may be specified in the regulations, the disclosure of the report referred to in subsection (4)(c) to persons other than the parties to the mediation,
 
-( c ) provisions specifying procedures with respect to the appointment of the mediator, and those provisions shall enable only-
+(c) provisions specifying procedures with respect to the appointment of the mediator, and those provisions shall enable only—
 
-(i) a body which is independent of the persons who will be parties to the mediation to make such an appointment (and such provision shall be in addition to any provision made by the regulations under subsection (6) ),
+(i) a body which is independent of the persons who will be parties to the mediation to make such an appointment (and such provision shall be in addition to any provision made by the regulations under subsection (6)),
 
 (ii) an individual or body who or which is independent of those persons to be the subject of such an appointment,
 
-( d ) a provision specifying that mediation shall not be conducted pending the hearing and determination of an appeal under this Act that lies in respect of the matter concerned, and
+(d) a provision specifying that mediation shall not be conducted pending the hearing and determination of an appeal under this Act that lies in respect of the matter concerned, and
 
-( e ) such provisions consequential on, or incidental to, the foregoing provisions or the provisions of subsection (3) or (4) as the Minister may consider necessary or expedient.
+(e) such provisions consequential on, or incidental to, the foregoing provisions or the provisions of subsection (3) or (4) as the Minister may consider necessary or expedient.
 
 (6) The regulations may also provide that only a body falling within a class of bodies standing recognised for the time being by the
 
@@ -1282,45 +1311,45 @@ and the regulations shall also contain the provisions referred to in subsection 
 
 [[START OF PAGE 33]]
 
-[2004.] Education for Persons with Special [ No. 30. ] Educational Needs Act 2004.
+[2004.] Education for Persons with Special [No. 30.] Educational Needs Act 2004.
 
-Minister for the purposes of the provision referred to in subsection (5)(c)(i) , may, subject to that provision, make an appointment of the kind referred to in that provision.
+S.38
 
-(7) A court hearing proceedings such as are referred to in subsection (1)(b) , may, in making any decision as to the costs of those proceedings, have regard to, if such be the case-
+Minister for the purposes of the provision referred to in subsection (5)(c)(i), may, subject to that provision, make an appointment of the kind referred to in that provision.
 
-( a ) that the person bringing those proceedings refused to participate in a mediation provided for by the regulations in relation to the issue or issues the subject of those proceedings, or
+(7) A court hearing proceedings such as are referred to in subsection (1)(b), may, in making any decision as to the costs of those proceedings, have regard to, if such be the case—
 
-( b ) that that person did not participate in good faith in such a mediation, and, for the purpose of determining whether that person did not so participate in good faith, the court may have regard to the report referred to in subsection (4)(c) prepared in relation to the mediation.
+(a) that the person bringing those proceedings refused to participate in a mediation provided for by the regulations in relation to the issue or issues the subject of those proceedings, or
+
+(b) that that person did not participate in good faith in such a mediation, and, for the purpose of determining whether that person did not so participate in good faith, the court may have regard to the report referred to in subsection (4)(c) prepared in relation to the mediation.
 
 (8) In this section ''body'' means a body corporate or an unincorporated body of persons.
 
-39. -(1) Where it appears to the Council that a health board could, by taking specified action, assist in the preparation or implementation of an education plan in respect of a particular child or assist more generally in the performance of the Council of its functions, then it may, by notice in writing, request the assistance of that board, specifying the action in question.
+## Duty of health boards.
 
-(2) Before making a request under subsection (1) , the Council shall consult with the board concerned.
+39.—(1) Where it appears to the Council that a health board could, by taking specified action, assist in the preparation or implementation of an education plan in respect of a particular child or assist more generally in the performance of the Council of its functions, then it may, by notice in writing, request the assistance of that board, specifying the action in question.
 
-(3) A board of which a request under subsection (1) is made shall comply with the request unless it considers that-
+(2) Before making a request under subsection (1), the Council shall consult with the board concerned.
 
-( a ) the assistance concerned is not required,
+(3) A board of which a request under subsection (1) is made shall comply with the request unless it considers that—
 
-( b ) compliance with the request would not be compatible with its functions or duties or would unduly prejudice the performance of any of its functions, or
+(a) the assistance concerned is not required,
 
-( c ) having regard to the resources available to the board it is not possible for it to comply with the request.
+(b) compliance with the request would not be compatible with its functions or duties or would unduly prejudice the performance of any of its functions, or
+
+(c) having regard to the resources available to the board it is not possible for it to comply with the request.
 
 (4) Where a board decides not to comply with a request it shall give notice in writing to the Council of that decision and the reasons therefor.
 
 (5) The Council may appeal against a decision of the board referred to in subsection (4) to the Appeals Board.
 
-(6) On the hearing of an appeal under subsection (5) , the Appeals Board may-
+(6) On the hearing of an appeal under subsection (5), the Appeals Board may—
 
-( a ) allow the appeal and direct the board concerned to comply with the request, the subject of the appeal, or
+(a) allow the appeal and direct the board concerned to comply with the request, the subject of the appeal, or
 
-( b ) dismiss the appeal.
+(b) dismiss the appeal.
 
-(7) A health board shall comply with a direction given to it under subsection (6)(a) .
-
-S.38
-
-## Duty of health boards.
+(7) A health board shall comply with a direction given to it under subsection (6)(a).
 
 33
 
@@ -1328,45 +1357,45 @@ S.38
 
 [[START OF PAGE 34]]
 
+[No. 30.] Education for Persons with Special [2004.] Educational Needs Act 2004.
+
 ## Amendment of section 7 of Act of 1998.
 
-## Maintenance of records.
-
-## Regulations.
-
-## Grants to Council and Appeals Board.
-
-## Service of notices.
-
-[ No. 30. ] Education for Persons with Special [2004.] Educational Needs Act 2004.
-
-40. -Section 7 of the Education Act 1998 is amended by inserting the following subsections after subsection (4):
+40.—Section 7 of the Education Act 1998 is amended by inserting the following subsections after subsection (4):
 
 ''(5) In carrying out his or her functions in respect of the provision, planning and co-ordination of support services, the Minister may, following consultation with the Minister for Health and Children, request the assistance of a relevant health board.
 
 (6) A health board of which a request under subsection (5) is made shall comply with the request.''.
 
-41. -(1) The Council shall keep and maintain records for the purpose of-
+## Maintenance of records.
 
-( a ) identifying persons to whom special educational and support services are being provided,
+41.—(1) The Council shall keep and maintain records for the purpose of—
 
-( b ) identifying schools and other places where such services are provided to persons with special educational needs, and
+(a) identifying persons to whom special educational and support services are being provided,
 
-( c ) planning the provision of special educational and support services.
+(b) identifying schools and other places where such services are provided to persons with special educational needs, and
+
+(c) planning the provision of special educational and support services.
 
 (2) In performing its functions under subsection (1) the Council shall, to the greatest extent practicable, co-ordinate its system of record-keeping with the systems of record-keeping maintained by health boards and any other relevant public bodies.
 
-42. -(1) The Minister may make regulations prescribing any matter which is referred to in this Act as prescribed or to be prescribed or in relation to any matter referred to in this Act as the subject of regulations or for the purposes of enabling any provision of this Act to have full effect.
+## Regulations.
+
+42.—(1) The Minister may make regulations prescribing any matter which is referred to in this Act as prescribed or to be prescribed or in relation to any matter referred to in this Act as the subject of regulations or for the purposes of enabling any provision of this Act to have full effect.
 
 (2) Every regulation under this Act shall be laid before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation is passed by either such House within the next 21 days on which that House has sat after the regulation is laid before it, the regulation shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
 
-43. -The Minister may, in each financial year of the Council and of the Appeals Board, pay to the Council and the Appeals Board, out of moneys provided by the Oireachtas, a grant of such amount as he or she, with the consent of the Minister for Finance, determines towards the expenses of the Council or the Appeals Board, as the case may be, in the performance of its functions.
+## Grants to Council and Appeals Board.
 
-44. -(1) A notice under this Act shall, subject to subsection (2) , be addressed to the person concerned by name, and may be served on or given to the person in one of the following ways:
+43.—The Minister may, in each financial year of the Council and of the Appeals Board, pay to the Council and the Appeals Board, out of moneys provided by the Oireachtas, a grant of such amount as he or she, with the consent of the Minister for Finance, determines towards the expenses of the Council or the Appeals Board, as the case may be, in the performance of its functions.
 
-( a ) by delivering it to the person;
+## Service of notices.
 
-( b ) by leaving it at the address at which the person ordinarily resides or, in a case in which an address for service has been furnished, at that address;
+44.—(1) A notice under this Act shall, subject to subsection (2), be addressed to the person concerned by name, and may be served on or given to the person in one of the following ways:
+
+(a) by delivering it to the person;
+
+(b) by leaving it at the address at which the person ordinarily resides or, in a case in which an address for service has been furnished, at that address;
 
 34
 
@@ -1374,35 +1403,37 @@ S.38
 
 [[START OF PAGE 35]]
 
-[2004.] Education for Persons with Special [ No. 30. ] Educational Needs Act 2004.
+[2004.] Education for Persons with Special [No. 30.] Educational Needs Act 2004.
 
-- S.44 ( c ) by sending it by post in a prepaid registered letter to the address at which the person ordinarily resides or, in a case in which an address for service has been furnished, to that address.
+S.44
+
+(c) by sending it by post in a prepaid registered letter to the address at which the person ordinarily resides or, in a case in which an address for service has been furnished, to that address.
 
 (2) Where a notice under this Act is to be served on or given to a person who is the owner or occupier of land and the name of the person cannot be ascertained by reasonable inquiry, it may be addressed to the person by using the words the owner or, as the case may require, the occupier.
 
 (3) For the purposes of this section, a company within the meaning of the Companies Acts 1963 to 2001, shall be deemed to be ordinarily resident at its registered office, and every other body corporate and every unincorporated body shall be deemed to be ordinarily resident at its principal office or place of business.
 
-45. -(1) The National Council for Special Education (referred to in subsequent sections of this Act as the ''former Council'') established by order under section 54 of the Act of 1998 is dissolved.
+## Dissolution of body established under section 54 of Act of 1998.
+
+45.—(1) The National Council for Special Education (referred to in subsequent sections of this Act as the ''former Council'') established by order under section 54 of the Act of 1998 is dissolved.
 
 (2) References to the National Council for Special Education in an enactment (other than this Act) or in an instrument made thereunder or in the memorandum of association or articles of association of any company (within the meaning of the Companies Acts 1963 to 2001) or any other legal document, shall be construed, on and after the commencement of this section, as references to the Council.
 
-46. -Where, immediately before the commencement of this section, any legal proceedings are pending in any court or tribunal to which the former Council is a party, the name of the Council shall be substituted in the proceedings for that of the former Council or, as the case may be, such trustee or agent thereof, or added in those proceedings as may be appropriate, and those proceedings shall not abate by reason of the substitution.
-
-47. -(1) The following shall be and are, by virtue of this section, transferred to the Council-
-
-( a ) all property and rights relating to such property held or enjoyed immediately before the commencement of this section by the former Council or any trustee or agent thereof acting on its behalf,
-
-( b ) all liabilities incurred before such commencement by the former Council or any trustee or agent thereof acting on its behalf that had not been discharged before such commencement,
-
-and, accordingly, without any further conveyance, transfer or assignment-
-
-(i) the said property, real and personal, shall, on such commencement, vest in the Council for all the estate, term or interest for which, immediately before such commencement, it was vested in the former Council but subject to all trusts and equities affecting the property and capable of being performed,
-
-## Dissolution of body established under section 54 of Act of 1998.
-
 ## Legal proceedings pending against former Council.
 
+46.—Where, immediately before the commencement of this section, any legal proceedings are pending in any court or tribunal to which the former Council is a party, the name of the Council shall be substituted in the proceedings for that of the former Council or, as the case may be, such trustee or agent thereof, or added in those proceedings as may be appropriate, and those proceedings shall not abate by reason of the substitution.
+
 ## Transfer of property rights and liabilities of former Council.
+
+47.—(1) The following shall be and are, by virtue of this section, transferred to the Council—
+
+(a) all property and rights relating to such property held or enjoyed immediately before the commencement of this section by the former Council or any trustee or agent thereof acting on its behalf,
+
+(b) all liabilities incurred before such commencement by the former Council or any trustee or agent thereof acting on its behalf that had not been discharged before such commencement,
+
+and, accordingly, without any further conveyance, transfer or assignment—
+
+(i) the said property, real and personal, shall, on such commencement, vest in the Council for all the estate, term or interest for which, immediately before such commencement, it was vested in the former Council but subject to all trusts and equities affecting the property and capable of being performed,
 
 35
 
@@ -1412,17 +1443,7 @@ and, accordingly, without any further conveyance, transfer or assignment-
 
 S.47
 
-## Bonds, guarantees, contracts, etc., of former Council.
-
-## Transfer of staff of former Council.
-
-## Plans, reports, etc., under Act privileged.
-
-## Expenses.
-
-## Amendment of Act of 1998.
-
-[ No. 30. ] Education for Persons with Special [2004.] Educational Needs Act 2004.
+[No. 30.] Education for Persons with Special [2004.] Educational Needs Act 2004.
 
 (ii) those rights shall, as and from such commencement, be enjoyed by the Council, and
 
@@ -1432,15 +1453,25 @@ S.47
 
 (3) Every right and liability transferred to the Council by this section may, on or after the commencement of this section, be sued on, recovered or enforced by or against the Council in its own name and it shall not be necessary for the Council to give notice to the person whose right or liability is transferred by this section of the transfer.
 
-48. -Every bond, guarantee or other security of a continuing nature made or given by or on behalf of the former Council to any person or given by any person to and accepted by or on behalf of the former Council and every contract or agreement made between the former Council or any trustee or agent thereof acting on its behalf, and any other person and in force but not fully executed and completed immediately before the commencement of this section shall continue in force on and after such commencement and shall be construed and have effect as if the name of the Council was substituted therein for that of the former Council or, as appropriate, any trustee or agent thereof acting on its behalf, and shall be enforceable by or against the Council.
+## Bonds, guarantees, contracts, etc., of former Council.
 
-49. -Every person who, immediately before the commencement of this section, is an employee of the former Council shall, on such commencement, become and be an employee of the Council and the rights and entitlements in respect of tenure, remuneration, fees, allowances, expenses and superannuation enjoyed on the commencement of this section by that person shall not, by virtue of the operation of this Act, be any less beneficial than those rights and entitlements enjoyed by that person immediately before such commencement.
+48.—Every bond, guarantee or other security of a continuing nature made or given by or on behalf of the former Council to any person or given by any person to and accepted by or on behalf of the former Council and every contract or agreement made between the former Council or any trustee or agent thereof acting on its behalf, and any other person and in force but not fully executed and completed immediately before the commencement of this section shall continue in force on and after such commencement and shall be construed and have effect as if the name of the Council was substituted therein for that of the former Council or, as appropriate, any trustee or agent thereof acting on its behalf, and shall be enforceable by or against the Council.
 
-50. -Every plan, report and assessment prepared or made under this Act shall, for the purposes of the law of defamation, enjoy qualified privilege.
+## Transfer of staff of former Council.
 
-51. -The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+49.—Every person who, immediately before the commencement of this section, is an employee of the former Council shall, on such commencement, become and be an employee of the Council and the rights and entitlements in respect of tenure, remuneration, fees, allowances, expenses and superannuation enjoyed on the commencement of this section by that person shall not, by virtue of the operation of this Act, be any less beneficial than those rights and entitlements enjoyed by that person immediately before such commencement.
 
-52. -Section 2(1) of the Act of 1998 is amended by substituting the following definition for the definition of ''disability'':
+## Plans, reports, etc., under Act privileged.
+
+50.—Every plan, report and assessment prepared or made under this Act shall, for the purposes of the law of defamation, enjoy qualified privilege.
+
+## Expenses.
+
+51.—The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of moneys provided by the Oireachtas.
+
+## Amendment of Act of 1998.
+
+52.—Section 2(1) of the Act of 1998 is amended by substituting the following definition for the definition of ''disability'':
 
 '' 'disability' means, in relation to a person, a restriction in the capacity of the person to participate in and benefit from education on account of an enduring physical, sensory, mental health or learning disability, or any other condition which results
 
@@ -1450,15 +1481,17 @@ S.47
 
 [[START OF PAGE 37]]
 
-[2004.] Education for Persons with Special [ No. 30. ] Educational Needs Act 2004.
+[2004.] Education for Persons with Special [No. 30.] Educational Needs Act 2004.
 
-S.52 in a person learning differently from a person without that condition and cognate words shall be construed accordingly;''.
+S.52
 
-53. -(1) This Act may be cited as the Education for Persons with Special Educational Needs Act 2004.
-
-(2) This Act shall come into operation on such day or days as the Minister may appoint by order or orders either generally or with reference to any particular purpose or provision and different days may be so appointed for different purposes or different provisions.
+in a person learning differently from a person without that condition and cognate words shall be construed accordingly;''.
 
 ## Short title and commencement.
+
+53.—(1) This Act may be cited as the Education for Persons with Special Educational Needs Act 2004.
+
+(2) This Act shall come into operation on such day or days as the Minister may appoint by order or orders either generally or with reference to any particular purpose or provision and different days may be so appointed for different purposes or different provisions.
 
 37
 
@@ -1468,29 +1501,29 @@ S.52 in a person learning differently from a person without that condition and c
 
 Section 19.
 
-[ No. 30. ] Education for Persons with Special [2004.] Educational Needs Act 2004.
+[No. 30.] Education for Persons with Special [2004.] Educational Needs Act 2004.
 
-## SCHEDULE 1
+### SCHEDULE 1
 
-### Membership and Meetings of Council
+#### Membership and Meetings of Council
 
 1. In this Schedule, unless the context otherwise requires, ''member'' means a member of the Council, including the chairperson.
 
 2. (1) Upon its establishment the Council shall provide itself with and retain in its possession a seal.
 
-(2) The seal of the Council shall be authenticated by the signature of-
+(2) The seal of the Council shall be authenticated by the signature of—
 
-( a ) the chairperson of the Council or other member of the Council authorised by the Council to act in that behalf, and
+(a) the chairperson of the Council or other member of the Council authorised by the Council to act in that behalf, and
 
-( b ) an employee of the Council authorised by the Council to act in that behalf.
+(b) an employee of the Council authorised by the Council to act in that behalf.
 
-(3) Judicial notice shall be taken of the seal of the Council and every document purporting to be an instrument made by the Council and to be sealed with the seal of the Council (purporting to be authenticated in accordance with subparagraph (2) ) shall be received in evidence and be deemed to be such instrument without further proof unless the contrary is shown.
+(3) Judicial notice shall be taken of the seal of the Council and every document purporting to be an instrument made by the Council and to be sealed with the seal of the Council (purporting to be authenticated in accordance with subparagraph (2)) shall be received in evidence and be deemed to be such instrument without further proof unless the contrary is shown.
 
 3. (1) The Minister may at any time, for stated reasons, remove from office a member of the Council.
 
 (2) The Council may at any time, with the consent of the Minister, for stated reasons, remove a member from office, other than the chairperson.
 
-(3) Amember (other than the chairperson) may at any time resign from office as a member by notice in writing to the chairperson and the resignation shall take effect on the date of the meeting of the Council next held after receipt by the Council of the notice.
+(3) A member (other than the chairperson) may at any time resign from office as a member by notice in writing to the chairperson and the resignation shall take effect on the date of the meeting of the Council next held after receipt by the Council of the notice.
 
 (4) The chairperson may at any time resign from office as a member by notice in writing to the Chief Executive Officer and the resignation shall take effect on the date of the meeting of the Council next held after receipt by the Chief Executive Officer of the notice.
 
@@ -1510,13 +1543,15 @@ Section 19.
 
 [[START OF PAGE 39]]
 
-[2004.] Education for Persons with Special [ No. 30. ] Educational Needs Act 2004.
+[2004.] Education for Persons with Special [No. 30.] Educational Needs Act 2004.
 
-Sch. 1 (2) The deputy chairperson shall hold office for such term as may be specified by the Council at the time of his or her appointment, unless-
+Sch.1
 
-( a ) he or she resigns the office of deputy chairperson, or
+(2) The deputy chairperson shall hold office for such term as may be specified by the Council at the time of his or her appointment, unless—
 
-( b ) the Council by a resolution, of which not less than 7 days notice of the intention to propose is given to each member and for which not less than two thirds of the members vote, removes the deputy chairperson.
+(a) he or she resigns the office of deputy chairperson, or
+
+(b) the Council by a resolution, of which not less than 7 days notice of the intention to propose is given to each member and for which not less than two thirds of the members vote, removes the deputy chairperson.
 
 (3) The deputy chairperson may at any time resign from office by notice in writing to the Council and the resignation shall take effect on the date of the meeting of the Council next held after the receipt by the Council of the notice.
 
@@ -1526,23 +1561,23 @@ Sch. 1 (2) The deputy chairperson shall hold office for such term as may be spec
 
 (2) The Council shall hold at least 6 meetings in each year and such and so many other meetings and at such times as the chairperson may determine.
 
-- The quorum for a meeting of the Council shall be 4.
+(3) The quorum for a meeting of the Council shall be 4.
 
-(4) At least 3 days before a meeting of the Council notice of the time and place of the meeting shall be sent to each member of the Council signed-
+(4) At least 3 days before a meeting of the Council notice of the time and place of the meeting shall be sent to each member of the Council signed—
 
-( a ) by the Chief Executive Officer or chairperson, or
+(a) by the Chief Executive Officer or chairperson, or
 
-( b ) if the meeting is convened by members, by those members.
+(b) if the meeting is convened by members, by those members.
 
 (5) If the meeting is convened by members, the notice convening the meeting shall specify the business to be transacted at that meeting.
 
-(6) At a meeting of the Council-
+(6) At a meeting of the Council—
 
 (a) the chairperson shall, if present, be the chairperson of the meeting, or
 
-( b ) if and so long as the chairperson is not present, or if the office of chairperson is vacant, the deputy chairperson shall, if present, be the chairperson of the meeting, or
+(b) if and so long as the chairperson is not present, or if the office of chairperson is vacant, the deputy chairperson shall, if present, be the chairperson of the meeting, or
 
-( c ) if and so long as the chairperson is not present or the office of chairperson is vacant, and the deputy chairperson is not present or the office of deputy chairperson is vacant, the members who are present shall choose one of their number to preside at that meeting.
+(c) if and so long as the chairperson is not present or the office of chairperson is vacant, and the deputy chairperson is not present or the office of deputy chairperson is vacant, the members who are present shall choose one of their number to preside at that meeting.
 
 6. (1) Minutes of the proceedings of all meetings of the Council shall be drawn up and entered in a book kept for that purpose and such minutes shall be signed by the chairperson of the next subsequent meeting.
 
@@ -1554,21 +1589,21 @@ Sch. 1 (2) The deputy chairperson shall hold office for such term as may be spec
 
 [[START OF PAGE 40]]
 
-Sch. 1
+Sch.1
 
-Section 24.
-
-[ No. 30. ] Education for Persons with Special [2004.] Educational Needs Act 2004.
+[No. 30.] Education for Persons with Special [2004.] Educational Needs Act 2004.
 
 (3) At a meeting of the Council every act of the Council and every question coming before the Council shall be determined by a majority of the votes of members (including the chairperson) present and voting in relation to the act or question and, in the case of an equal division of votes on any act or question arising at a meeting of the Council (other than the election of the chairperson or deputy chairperson), the chairperson or other person presiding at that meeting shall have a second or casting vote.
 
-7. Subject to paragraph 5(3) , the Council may act notwithstanding one or more than one vacancy among its members or any deficiency in the appointment of a member which may subsequently be discovered.
+7. Subject to paragraph 5(3), the Council may act notwithstanding one or more than one vacancy among its members or any deficiency in the appointment of a member which may subsequently be discovered.
 
 8. Save as is otherwise provided by any enactment, including this Act, the Council may make, from time to time, such standing orders as it thinks fit for the regulation of its proceedings and may amend or revoke such standing orders.
 
-## SCHEDULE 2
+Section 24.
 
-### The Chief Executive Officer
+### SCHEDULE 2
+
+#### The Chief Executive Officer
 
 1. The Chief Executive Officer shall perform his or her functions subject to such policies as may be determined from time to time by the Council and shall be answerable to the Council for the efficient and effective management of the Council and for the due performance of his or her functions.
 
