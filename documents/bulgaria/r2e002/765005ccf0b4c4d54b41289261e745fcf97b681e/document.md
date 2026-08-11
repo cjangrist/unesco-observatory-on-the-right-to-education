@@ -6,11 +6,14 @@ REPUBLIC OF BULGARIA
 
 Adopted by Protocol N 42 of a meeting of the Council of Ministers on 30 October 2008
 
+УЧЕНЕ
+през целия живот
+
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-This publication is supported by the Project 2007-3865/001-001 'Raising Awareness about Lifelong Learning in Bulgaria', f i n a n c e d   b y   t h e   E u r o p e a n   U n i o n   a n d   t h e   M i n i s t r y   o f   L a b o u r   a n d   S o c i a l   P o l i c y   o f   B u l g a r i a .
+This publication is supported by the Project 2007-3865/001-001 „Raising Awareness about Lifelong Learning in Bulgaria”, financed by the European Union and the Ministry of Labour and Social Policy of Bulgaria.
 
 [[END OF PAGE 2]]
 
@@ -18,11 +21,38 @@ This publication is supported by the Project 2007-3865/001-001 'Raising Awarenes
 
 ## Table of Content:
 
+List of abbreviations..........................................................................................................................................4
+Foreword.............................................................................................................................................................5
+І. CONCEPTUAL FRAMEWORK FOR LIFELONG LEARNING (LLL)
+1. Definition of lifelong learning.....................................................................................................................6
+2. The process of lifelong learning..................................................................................................................6
+3. European and national context of LLL......................................................................................................6
+4. The strategy vision.........................................................................................................................................8
+5. Objective.........................................................................................................................................................8
+6. Principles........................................................................................................................................................9
+7. Participants in lifelong learning..................................................................................................................9
+ІІ. LIFELONG LEARNING DURING THE DIFFERENT STAGES OF DEVELOPMENT OF THE INDIVIDUAL
+1. Secondary education – general and vocational.......................................................................................10
+2. Higher education ........................................................................................................................................11
+3. Adult Learning.............................................................................................................................................12
+ІІІ. PRIORITY DIRECTIONS OF LIFELONG LEARNING
+- PRIORITY DIRECTION: IMPROVING THE OPPORTUNITIES FOR ACCESSIBILITY TO LIFELONG LEARNING ................................................................................................................................15
+- PRIORITY DIRECTION: ENSURING QUALITY AND EFFECTIVENESS OF LIFELONG LEARNING......................................................................................................................................................16
+1. Contemporary requirements for learning content.................................................................................17
+2. Vocational training in the context of LLL................................................................................................18
+3. On the job training......................................................................................................................................19
+4. The key competencies in the process of LLL...........................................................................................20
+5. Training of teachers, trainers and faculty.................................................................................................20
+6. Lifelong guidance........................................................................................................................................21
+7. Recognition of qualifications.....................................................................................................................22
+8. Evaluating learning outcomes....................................................................................................................23
+9. LLL - research and development...............................................................................................................24
+10. Financial resources of lifelong learning..................................................................................................24
+ІV. INDICATORS FOR LLL PROGRESS MEASURING.......................................................................26
+Appendix: Glossary.........................................................................................................................................27
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
-
-4
 
 ## List of abbreviations:
 
@@ -106,6 +136,8 @@ VETA
 
 Vocational Education and Training Act
 
+4
+
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
@@ -124,7 +156,7 @@ Bulgaria's accession to the European Union (EU) demands changes in the education
 
 The Strategy for Lifelong Learning provides guidelines for the actions that the Bulgarian government should undertake in order to ensure the future preparedness of Bulgarian citizens to actively participate in a new global knowledge-based economy.
 
-Achieving the strategic goals requires the active inclusion of each citizen and each institution state, municipal, employer's, trade-union's, non-governmental, etc. Applying a new, integrated approach to lifelong learning requires ensuring and using suitable and sufficient material, technical, financial and human resources.
+Achieving the strategic goals requires the active inclusion of each citizen and each institution – state, municipal, employer's, trade-union's, non-governmental, etc. Applying a new, integrated approach to lifelong learning requires ensuring and using suitable and sufficient material, technical, financial and human resources.
 
 This strategic document points out the priority directions for development of LLL, the activities needed to achieve them, the necessary legislative changes, financing mechanisms, indicators for measuring the progress.
 
@@ -230,7 +262,7 @@ Further development of the regulatory framework is needed, related to improving 
 
 The concept of LLL is also included in national strategic documents and programmes: the National Strategy for Continuing Vocational Training 2005-2010, National Employment Action Plan; the Updated Employment Strategy 2008-2015; the School and Pre-school Education Development National Programme 2006-2015; National Strategy for Implementation of ICT in School Education 2005-2007; the Strategy for National Youth Policy; the Strategy for Educational Integration of Children and Students from Ethnic Minority Groups, etc.
 
-The implementation of the Strategy for LLL on regional and local level will be supported by the measures within the framework of the Regional Plans for Economic Development, as well as by those in the plans for municipal development, already designed for the period 2007-2013, in accordance with the National Plan for Development and the National Plan for Regional Development for the respective period, the Integrated Programme for LLL and the three Operational Programmes Human Resources Development, Competitiveness and Regional Development.
+The implementation of the Strategy for LLL on regional and local level will be supported by the measures within the framework of the Regional Plans for Economic Development, as well as by those in the plans for municipal development, already designed for the period 2007-2013, in accordance with the National Plan for Development and the National Plan for Regional Development for the respective period, the Integrated Programme for LLL and the three Operational Programmes – Human Resources Development, Competitiveness and Regional Development.
 
 7
 
@@ -280,7 +312,7 @@ The  Strategy  marks  activities  for  improving  the  conditions  for  taking  
 
 By the year 2013 the Republic of Bulgaria will strive to achieve the following goals in the field of lifelong learning:
 
-2007 (base value) | 2013 г. (target)
+ | 2007 (base value) | 2013 г. (target)
 --- | --- | ---
 Level of participation of people aged 25-64 in lifelong learning | 1,3% | 5%
 Percentage of early school leavers | 16,6% | 12%
@@ -306,19 +338,17 @@ This Strategy is based on the following principles:
 
 The participants in the process of lifelong learning are:
 
-- learners all Bulgarian citizens who become a part of lifelong learning in order to acquire personal and professional competencies;
+- learners – all Bulgarian citizens who become a part of lifelong learning in order to acquire personal and professional competencies;
 
 - education and training institutions - the institutions providing formal and non-formal education and training in order to meet the expectations and needs of individual persons and the community;
 
 - state authorities - ministries and agencies - define the national policy in the field of education and training as well as the respective tools and measures ensuring the effectiveness of LLL;
 
-- employers and employers' organisations, trade unions, school boards of trustees and other partners
-
-- define the expected results, actively support the LLL processes, suggest new methods of cooperation and participate in shaping the policy and the future priorities for LLL;
+- employers and employers' organisations, trade unions, school boards of trustees and other partners – define the expected results, actively support the LLL processes, suggest new methods of cooperation and participate in shaping the policy and the future priorities for LLL;
 
 - district administrations, municipalities and local communities - participate in designing LLL policies on regional and local level and directly oversee the processes of development of LLL in the context of establishing their position as 'learning regions';
 
-- non-governmental  organisations,  scientific  organisations,  etc. ,  supporting  the  process  of  LLL  by conducting research and analyses, organising information and promoting activities for lifelong learning, etc.
+- non-governmental organisations, scientific organisations, etc., supporting the process of LLL by conducting research and analyses, organising information and promoting activities for lifelong learning, etc.
 
 9
 
@@ -350,7 +380,7 @@ Pre-school and school education cover the period from early childhood up to the 
 
 The Ministry of  Education  and  Science,  on  a  central  level,  and  the  Regional  Inspectorates  for Education, on regional level, support the implementation of state policy into the school education system and follow the common national priorities, synchronized with the EU priorities.
 
-The Strategy  for  LLL  envisions  result-oriented  activities  for  developing  opportunities  for  nonformal and informal learning within the framework of compulsory school education.
+The Strategy for LLL envisions result-oriented activities for developing opportunities for non-formal and informal learning within the framework of compulsory school education.
 
 #### Directions for future development:
 
@@ -370,7 +400,7 @@ Regardless of the relative stability of inclusion of the age groups between 5 an
 
 [[START OF PAGE 11]]
 
-'Recognizing' non-formal and informal learning on a systematic level as instruments for development and/or improvement of learning skills (deadline - by 2013);
+- 'Recognizing' non-formal and informal learning on a systematic level as instruments for development and/or improvement of learning skills (deadline - by 2013);
 
 - Developing the key competencies that are fundamental for school education such as ICT, foreign languages, entrepreneurship, learning to learn skills in terms of the EU framework, which defines them not only as knowledge, skills and relations in the formal (school) education but also in the non-formal (extracurricular and out-of-school initiatives) and the informal learning (self-education) (deadline - by 2011);
 
@@ -471,7 +501,7 @@ Year* | Primary and lower education | Secondary education | Higher education
 2006 | 25,6 | 52,5 | 21,9
 2007 | 22,5 | 55,1 | 22,4
 
-* Data of the labour force survey; for the period 2000-2002 the data is for June and for the period 20032007 is average for the year.
+* Data of the labour force survey; for the period 2000-2002 the data is for June and for the period 2003-2007 is average for the year.
 
 #### Directions for future development:
 
@@ -515,7 +545,7 @@ In order to enhance the participation/inclusion in lifelong learning result-orie
 
 - Improving education programmes and teaching methods so that they take account of prior learning and experience of the learners; encouraging the training and upgrading of  qualification of adult trainers, developing different forms of learning - distant, electronic, blended learning (class-room based learning as well as completing tasks on their own) (deadline - by 2013);
 
-- Designing instruments for recognition of prior learning and validation and certification of results of nonformal and informal learning (deadline - by 2013);
+- Designing instruments for recognition of prior learning and validation and certification of results of non-formal and informal learning (deadline - by 2013);
 
 - Changes in legislation, related to flexible opportunities for re-entering education, for mobility in the education system and the labour market, and also control and monitoring of the system (deadline - by 2013).
 
@@ -529,7 +559,7 @@ In order to enhance the participation/inclusion in lifelong learning result-orie
 
 ### PRIORITY DIRECTION: IMPROVING THE OPPORTUNITIES FOR ACCESSIBILITY TO LIFELONG LEARNING
 
-Ensuring  fl exible  access  to  education  and  training is  a  key  priority  for  lifelong  learning  on European and national  level.  The  national  policy  of  Bulgaria  with  regard  to  the  access  is    directed  at guaranteeing large-scale inclusion of all in different learning activities. The purpose is to ensure a real, effective and equal access to learning for everyone.
+Ensuring flexible access to education and training is a key priority for lifelong learning on European and national level. The national policy of Bulgaria with regard to the access is directed at guaranteeing large-scale inclusion of all in different learning activities. The purpose is to ensure a real, effective and equal access to learning for everyone.
 
 Regardless of the positive changes in the last few years, there are still  unsolved  problems  in regard to the access to education and training in Bulgaria, including in regard to groups with specific needs and at risk:
 
@@ -623,7 +653,7 @@ The quality of education and training is also influenced by: the available mater
 
 [[START OF PAGE 17]]
 
-of teaching and training within the system of formal education, with an emphasis on the key competence 'learning to learn' .
+of teaching and training within the system of formal education, with an emphasis on the key competence 'learning to learn'.
 
 - Implementing a management and monitoring system of the quality of education and training.
 
@@ -907,7 +937,7 @@ The realisation of lifelong learning and employment policies requires developing
 
 - Finding effective ways of expanding the access of citizens to lifelong guidance.
 
-- Formulating  policies  and  programmes  for  lifelong  guidance  аs  an  integrated  part  of  the    social  and economic development programmes on a national and European level.
+- Formulating policies and programmes for lifelong guidance as an integrated part of the social and economic development programmes on a national and European level.
 
 - Developing coordinated lifelong guidance policies and programmes in the sectors of education, training, employment and municipal development in accordance with the national and international economic changes and technological development.
 
@@ -1041,7 +1071,7 @@ State expenses /%/ | 4,3 | 4,1 | 4,4 | 4,4 | 4,3
 Private expenses /%/ | 0,6 | 0,6 | 0,6 | 0,6 | 0,6
 Total expenses /%/ | 4,9 | 4,7 | 5,0 | 5,0 | 4,9
 
-The public expenditures of Bulgaria for education comprised 4.2 % of the GDP for 2006; the same amount is approved for 2007. In the last few years there is a visible increase in absolute figures of the budget means allocated to the formal education system. Furthermore, since 2007 through programme financing there  are  also  funds  provided  for  projects  in  the  field  of  school  education:  optimisation  of  the  school network, extracurricular and out-of-school activities, upgrading of the technical equipment and facilities of schools, etc. Private education financing for Bulgaria is around 0.6 % per year.
+The public expenditures of Bulgaria for education comprised 4.2 % of the GDP for 2006; the same amount is approved for 2007. In the last few years there is a visible increase in absolute figures of the budget means allocated to the formal education system. Furthermore, since 2007 through programme financing there are also funds provided for projects in the field of school education: optimisation of the school network, extracurricular and out-of-school activities, upgrading of the technical equipment and facilities
 
 24
 
@@ -1049,21 +1079,25 @@ The public expenditures of Bulgaria for education comprised 4.2 % of the GDP for
 
 [[START OF PAGE 25]]
 
-Financing for education and training has also been received from the European programmes 'Phare' , 'Tempus', etc. Since 2007 Bulgaria participates in the European Integrated Programme 'Lifelong learning' 2007-2013, which incorporates the Comenius - for school education, Erasmus - for higher education, Leonardo da Vinci - for vocational education and training and Grundtvig - for adult education.
+of schools, etc. Private education financing for Bulgaria is around 0.6 % per year.
+
+Financing for education and training has also been received from the European programmes 'Phare', 'Tempus', etc. Since 2007 Bulgaria participates in the European Integrated Programme 'Lifelong learning' 2007-2013, which incorporates the Comenius - for school education, Erasmus - for higher education, Leonardo da Vinci - for vocational education and training and Grundtvig - for adult education.
 
 Since  the  beginning  of  2007  Bulgaria  has  access  to  financing  from  the  European  Social  Fund through Operational Programme 'Human Resources Development' 2007-2013. Priority directions for development are related to: encouraging economic activity of unemployed and inactive persons; increasing productivity and adaptability of the employed; improving education and training quality in accordance with the needs of the labour market; improving the access to education and training.
 
 Financing lifelong learning activities should be based on sharing the expenses and profits between all interested parties in the system - providers, consumers and employers. Co-financing by providers, consumers and employers will lead to higher effectiveness of the education and training measures in the context of LLL. In terms of public finances, the measures of this Strategy should be planned and programmed according to the principles of effectiveness, efficiency and good management.
 
-Outside the system of formal education, which presently is to a large extent financial responsibility of the state, various options for co-financing that could be used together or separately are possible, for example: · Co-usage of the education and training infrastructure: using the existing school facilities for adult training or other measures in the field of LLL.
+Outside the system of formal education, which presently is to a large extent financial responsibility of the state, various options for co-financing that could be used together or separately are possible, for example:
 
-· Attracting private investments in LLL: training providers and enterprises share expenses for practical training  of  pupils/students  and  adults,  through  practical  training  at  schools  and  in  real  working environment.
+- Co-usage of the education and training infrastructure: using the existing school facilities for adult training or other measures in the field of LLL.
 
-·  Attracting  private  investment  in  the  sector  of  general  education,  with  a  view  to  provide  additional education services or extracurricular activities at schools.
+- Attracting private investments in LLL: training providers and enterprises share expenses for practical training of pupils/students and adults, through practical training at schools and in real working environment.
 
-·  Implementing a system of crediting university and Ph.D. students in higher education, which would expand the access to higher education and the inclusion in the system, while at the same time freeing public resource for investment in the development of higher schools.
+- Attracting private investment in the sector of general education, with a view to provide additional education services or extracurricular activities at schools.
 
-The  Structural  funds  will  grant  financing  to  a  number  of  activities  related  to  LLL,  under  the three  Operational  Programmes  -  'Human  Resources  Development' ,  'Competitiveness'  and  'Regional Development' , as well as the Rural Regions Development Programme for the Republic of Bulgaria 20072013.
+- Implementing a system of crediting university and Ph.D. students in higher education, which would expand the access to higher education and the inclusion in the system, while at the same time freeing public resource for investment in the development of higher schools.
+
+The Structural funds will grant financing to a number of activities related to LLL, under the three Operational Programmes - 'Human Resources Development', 'Competitiveness' and 'Regional Development', as well as the Rural Regions Development Programme for the Republic of Bulgaria 2007-2013.
 
 25
 
@@ -1079,15 +1113,15 @@ As an EU member-state Bulgaria is obliged to apply European indicators included 
 
 - Inclusion in pre-school education (percentage of children enrolled in kindergartens and preparatory groups/classes aged 3 - 6)
 
-- Level of reading literacy - percentage of pupils with low level of reading literacy among the 15-year-olds (level 1 and lower on the PISA reading literacy scale)
+- Level of reading literacy – percentage of pupils with low level of reading literacy among the 15-year-olds (level 1 and lower on the PISA reading literacy scale)
 
 - Yearly school leavers (percentage of people aged 18-24 with at most lower secondary education and not in further education and training);
 
-- Young people who have completed secondary education - percentage of the people aged 20-24 who have completed secondary education;
+- Young people who have completed secondary education – percentage of the people aged 20-24 who have completed secondary education;
 
-- Tertiary graduates in mathematics, natural and technical sciences - graduates per 1000 people aged 20-29;
+- Tertiary graduates in mathematics, natural and technical sciences – graduates per 1000 people aged 20-29;
 
-- International  mobility  of  students  and  Ph.  D.  students  studying  in  Bulgaria  -  percentage  of  mobile students and Ph. D. students (of their total number) according to the criteria country of citizenship and previous education;
+- International  mobility  of  students  and  Ph.  D.  students  studying  in  Bulgaria  –  percentage  of  mobile students and Ph. D. students (of their total number) according to the criteria country of citizenship and previous education;
 
 - Inclusion in LLL  - percentage of people aged 25-64 who have participated in education or training;
 
@@ -1097,13 +1131,13 @@ As an EU member-state Bulgaria is obliged to apply European indicators included 
 
 - Education structure of the population;
 
-- Investments in education and training - total, both public and private;
+- Investments in education and training – total, both public and private;
 
-- Share of GDP devoted to education and training - Eurostat methodology for calculating the financial expenditures for formal education;
+- Share of GDP devoted to education and training – Eurostat methodology for calculating the financial expenditures for formal education;
 
 - Ratio between the number of trainees and the number of computers in secondary education.
 
-For completing the National Strategy for Lifelong Learning for the period 2008 - 2013 in Bulgaria two Action Plans, one for the period 2009-2011 and another for the period 2012-2013 will be drafted and adopted by the Council of Ministers.
+For completing the National Strategy for Lifelong Learning for the period 2008 – 2013 in Bulgaria two Action Plans, one for the period 2009-2011 and another for the period 2012-2013 will be drafted and adopted by the Council of Ministers.
 
 26
 
@@ -1123,8 +1157,8 @@ For the purposes of this Strategy key terms in the field of vocational education
 3 | Adult | Any person of 16 and more years.
 4 | Adult education | Education provided to adults and taking into accounts their specific characteristics as learners. It includes a set of activities used by teachers, trainers and other specialists to assist adult learners in studying by themselves, in a group and in education institutions.
 5 | Certification | The process of formally validating learning outcomes.
-6 | Credit Transfer System | System which provides a way of measuring and comparing learning achievements (from a course, training or a placement) and transferring them from one institution to another, using credits validated in training programmes. The credit transfer system supports the transparency and comparability of education and training pathways, curricula and systems. In a credit transfer system, a value is allocated to every learning unit (course, train- ing or placement) that the learner is required to successfully complete, in order to pass a full training programme at a school or training centre, including examinations or other assessments.
-7 | Distance learning | A form of education where the teacher and the learner are not in con- stant immediate contact but the education is imparted at a distance through communication media: radio, TV, telephone, correspondence, computer or video. Distance learning uses previously developed study courses and packages with learning documents that include printed materials (textbooks and additional information), audio and/or video materials, discs as well as clear instructions for the organisation and the way the training has to be conducted. Learners study by themselves, choosing their own time, place and strategy of learning, while maintaining regular contacts with the trainer (instructor, tutor, mentor, course consultant).
+6 | Credit Transfer System | System which provides a way of measuring and comparing learning achievements (from a course, training or a placement) and transferring them from one institution to another, using credits validated in training programmes. The credit transfer system supports the transparency and comparability of education and training pathways, curricula and systems. In a credit transfer system, a value is allocated to every learning unit (course, training or placement) that the learner is required to successfully complete, in order to pass a full training programme at a school or training centre, including examinations or other assessments.
+7 | Distance learning | A form of education where the teacher and the learner are not in constant immediate contact but the education is imparted at a distance through communication media: radio, TV, telephone, correspondence, computer or video. Distance learning uses previously developed study courses and packages with learning documents that include printed materials (textbooks and additional information), audio and/or video materials, discs as well as clear instructions for the organisation and the way the training has to be conducted. Learners study by themselves, choosing their own time, place and strategy of learning, while maintaining regular contacts with the trainer (instructor, tutor, mentor, course consultant).
 8 | Early school leavers | Young people aged 18-24 who have not completed secondary education and have not been involved in a form of learning for the last four weeks.
 
 27
@@ -1133,18 +1167,18 @@ For the purposes of this Strategy key terms in the field of vocational education
 
 [[START OF PAGE 28]]
 
-9 | Education | Institutionalised process of teaching and acquiring general, special pro- fessional knowledge and skills developing the intellectual abilities of the individual. This process usually leads to acquiring an education degree or a vocational/professional qualification.
+9 | Education | Institutionalised process of teaching and acquiring general, special professional knowledge and skills developing the intellectual abilities of the individual. This process usually leads to acquiring an education degree or a vocational/professional qualification.
 --- | --- | ---
 10 | E-learning | Learning supported by information and communication technologies (ICT)
-11 | Formal learning /training/ education | Learning that occurs in an organised and structured context (in a school/ higher education institution/training centre) and is explicitly designated as learning (in terms of objectives, time or learning support). Formal learning is intentional from the learner's point of view. It typically leads to officially recognised document (diploma, certificate).
-12 | Informal learning | Intentional learning, non-instutionalised, less organised or structured; can include learning activities resulting from daily work-related, fam- ily or leisure activities, self-, family- or society-directed. It could lead to validation and certification.
+11 | Formal learning /training/ education | Learning that occurs in an organised and structured context (in a school/higher education institution/training centre) and is explicitly designated as learning (in terms of objectives, time or learning support). Formal learning is intentional from the learner's point of view. It typically leads to officially recognised document (diploma, certificate).
+12 | Informal learning | Intentional learning, non-institutionalised, less organised or structured; can include learning activities resulting from daily work-related, family or leisure activities, self-, family- or society-directed. It could lead to validation and certification.
 13 | Key competencies | The set of basic knowledge, skills, aptitudes and attitudes supporting the professional and social realisation and integration. In the EU countries the following eight key competencies are defined: communication in the mother tongue; communication in foreign languages; mathematical competence and basic competencies in science and technology; digital competence; learning to learn; social and civic competencies; sense of initiative and entrepreneurship; and cultural awareness and expression. (Recommendation of the European Parliament of 18.12.2006, published in the Official Journal of the EU, 31.12.2006).
 14 | Knowledge-based society | A society whose processes and practices are based on the production, distribution and use of knowledge.
-15 | Learning | A cumulative process whereby individuals gradually assimilate increas- ingly complex and abstract entities (concepts, categories, and patterns of behaviour or models) and/or acquire skills and competencies.
+15 | Learning | A cumulative process whereby individuals gradually assimilate increasingly complex and abstract entities (concepts, categories, and patterns of behaviour or models) and/or acquire skills and competencies.
 16 | Learning outcomes | Knowledge and skills acquired as a result of formal, non-formal and informal learning.
-17 | Lifelong learning | The process of acquiring knowledge and skills through formal, non-for- mal and informal learning during a person's life. It includes all learning activity undertaken throughout life, with the aim of improving knowl- edge, skills/competencies and/or qualifications for personal, social and/or professional reasons.
+17 | Lifelong learning | The process of acquiring knowledge and skills through formal, non-formal and informal learning during a person's life. It includes all learning activity undertaken throughout life, with the aim of improving knowledge, skills/competencies and/or qualifications for personal, social and/or professional reasons.
 18 | Literacy | Education for acquiring reading, writing, mathematics knowledge and skills as well as elementary knowledge in the field of the humanities and sciences.
-19 | Non-formal learning | Learning which is embedded in planned activities inside and outside education institutions. It could include adult literacy programmes, social skills, work skills, common knowledge, etc. Non-formal learning is in- tentional from the learner's point of view. It could lead to validation and certification.
+19 | Non-formal learning | Learning which is embedded in planned activities inside and outside education institutions. It could include adult literacy programmes, social skills, work skills, common knowledge, etc. Non-formal learning is intentional from the learner's point of view. It could lead to validation and certification.
 20 | Professional competencies | Ability to acquire knowledge, know-how and skills related to acquisition of a specific profession.
 
 28
@@ -1156,10 +1190,11 @@ For the purposes of this Strategy key terms in the field of vocational education
 21 | Vocational guidance | Vocational guidance provides information, counselling and advice to students and other persons with regard to the choice of profession and career developmen.
 --- | --- | ---
 22 | Recognition | A general term for validation and certification of knowledge, skills and competencies.
-23 | Training | Process of teaching and acquiring knowledge and skills for a specific pro- fessional, social and personal sphere, which takes place both in and out of education institutions. It can lead to validation and certification.
+23 | Training | Process of teaching and acquiring knowledge and skills for a specific professional, social and personal sphere, which takes place both in and out of education institutions. It can lead to validation and certification.
 24 | On the job training | Training in a real work environment under the guidance of a qualified trainer for putting into practice previously acquired habits and skills. It could take place fully on the job or be combined with external training.
-25 | Validation | The process of assessing and recognising a wide range of knowledge, know-how, skills and competencies which people develop throughout their lives in different contexts, for example through education, work and leisure activities. It typically leads to certification - education degree of professional qualification. Certain type of validation procedures allow recognition of key competen- cies obtained or developed through non-formal and/or informal educa- tion. Knowledge and skills that are a part of vocation and/or individual modules can also be validated, which leads to upgrading competencies and credit transfer. Validation is one of the main mechanisms ensuring qualifications mobil- ity and transparency.
-
+25 | Validation | The process of assessing and recognising a wide range of knowledge, know-how, skills and competencies which people develop throughout their lives in different contexts, for example through education, work and leisure activities. It typically leads to certification – education degree of professional qualification. Certain type of validation procedures allow recognition of key competencies obtained or developed through non-formal and/or informal education. Knowledge and skills that are a part of vocation and/or individual modules can also be validated, which leads to upgrading competencies and credit transfer. Validation is one of the main mechanisms ensuring qualifications mobility and transparency.
+УЧЕНЕ
+през целия живот
 29
 
 [[END OF PAGE 29]]
@@ -1178,6 +1213,6 @@ For the purposes of this Strategy key terms in the field of vocational education
 
 [[START OF PAGE 32]]
 
-This publication is supported by the Project 2007-3865/001-001 'Raising Awareness about Lifelong Learning in Bulgaria', f i n a n c e d   b y   t h e   E u r o p e a n   U n i o n   a n d   t h e   M i n i s t r y   o f   L a b o u r   a n d   S o c i a l   P o l i c y   o f   B u l g a r i a .
+This publication is supported by the Project 2007-3865/001-001 „Raising Awareness about Lifelong Learning in Bulgaria”, financed by the European Union and the Ministry of Labour and Social Policy of Bulgaria.
 
 [[END OF PAGE 32]]
