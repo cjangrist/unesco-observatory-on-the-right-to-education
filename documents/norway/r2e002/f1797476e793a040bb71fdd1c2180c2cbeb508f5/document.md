@@ -1,5 +1,6 @@
 [[START OF PAGE 1]]
-
+NORWEGIAN MINISTRY
+OF EDUCATION AND RESEARCH
 Strategic Plan
 
 # Equal Education in Practice!
@@ -17,7 +18,8 @@ Revised edition February 2007
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
-
+NORWEGIAN MINISTRY
+OF EDUCATION AND RESEARCH
 Strategic Plan
 
 # Equal Education in Practice!
@@ -30,7 +32,7 @@ Revised edition February 2007
 
 [[START OF PAGE 4]]
 
-
+4
 
 [[END OF PAGE 4]]
 
@@ -38,7 +40,27 @@ Revised edition February 2007
 
 ## Contents
 
-
+Foreword  7
+Section 1  Introduction  9
+Education in a multi-cultural society  9
+The Strategic Plan  9
+Concepts  11
+Target group  11
+Section 2  The current situation  12
+Kindergartens  12
+Primary and lower secondary schools  14
+Upper secondary education and training  17
+Higher education  19
+Adult education  21
+Education for particularly vulnerable groups  23
+Section 3  The goals of the Strategic Plan  24
+Section 4  Measures  26
+Section 5  Organisation, implementation and evaluation  40
+Contacts  46
+References  47
+Legislation and regulation  50
+
+5
 
 [[END OF PAGE 5]]
 
@@ -56,7 +78,7 @@ Revised edition February 2007
 
 - 5	 Improving Norwegian language proficiency among linguistic minority adults to increase opportunities for education and active participation in work and society
 
-
+6
 
 [[END OF PAGE 6]]
 
@@ -80,13 +102,13 @@ Oslo, February 2007
 
 Øystein Djupedal Minister of Education and Research
 
-
+7
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-
+8
 
 [[END OF PAGE 8]]
 
@@ -102,23 +124,23 @@ Dissimilarity  can  also  present  challenges.  Educational  organisation,  cont
 
 ### The Strategic Plan
 
-The formal Norwegian name of the Strategic Plan has  changed  from Likeverdig  utdanning  i  praksis! (2004-2009) to Likeverdig opplæring i praksis! (20072009) . Since the original commencement of the plan, a  number of action programmes have been completed, some have been commenced and must be followed up or changed and new ones must now be set in motion.
+The formal Norwegian name of the Strategic Plan has changed from Likeverdig utdanning i praksis! (2004-2009) to Likeverdig opplæring i praksis! (2007-2009). Since the original commencement of the plan, a number of action programmes have been completed, some have been commenced and must be followed up or changed and new ones must now be set in motion.
 
 The measures in the plan are examples of how education may be organised in the best possible way. They are intended to increase knowledge about linguistic minorities in nurseries, schools and training and to improve cooperation between kindergartens,  public health centres, schools, adult education institutions, higher education and working life.
 
-
+9
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
-The strategic plan should help to realise the political goals for education and integration in the Soria Moria declaration . It is also linked to the following Reports to the Storting (White Papers): Report to the Storting No. 30 (2003-2004) Culture for learning, Report to the Storting No. 49 (2003-2004) Diversity through inclusion and participation and Report to the Storting No. 16 (2006-2007) …and none were left standing. Early efforts for lifelong learning to the comprehensive reform of primary and secondary education and training  known  as  'Knowledge  Promotion' (Kunnskapsløftet) and the corresponding Kindergarten Promotion for kindergartens. The aim of the Kindergarten Promotion is full kindegarten coverage, low price and high quality, including emphasis on developing competence within this sector. The Ministry of Education and Research is in the process of preparing a strategy for  raising  competence  in  the  kindergarten  sector and  a  plan  for  recruiting  pre-school  teachers. The Knowledge  Promotion applies  to  education  for  children and young people in primary, lower secondary and upper secondary education and training, as well as education directed at adults who have the right to such  education.  It  is  important  in  this  context  to safeguard the multicultural perspective, not just in teaching but also in efforts to raise competence.
+The strategic plan should help to realise the political goals for education and integration in the Soria Moria declaration. It is also linked to the following Reports to the Storting (White Papers): Report to the Storting No. 30 (2003-2004) Culture for learning, Report to the Storting No. 49 (2003-2004) Diversity through inclusion and participation and Report to the Storting No. 16 (2006-2007) …and none were left standing. Early efforts for lifelong learning to the comprehensive reform of primary and secondary education and training known as 'Knowledge Promotion' (Kunnskapsløftet) and the corresponding Kindergarten Promotion for kindergartens. The aim of the Kindergarten Promotion is full kindergarten coverage, low price and high quality, including emphasis on developing competence within this sector. The Ministry of Education and Research is in the process of preparing a strategy for raising competence in the kindergarten sector and a plan for recruiting pre-school teachers. The Knowledge Promotion applies to education for children and young people in primary, lower secondary and upper secondary education and training, as well as education directed at adults who have the right to such education. It is important in this context to safeguard the multicultural perspective, not just in teaching but also in efforts to raise competence.
 
 The  general  strategy  for  implementation  of  the Knowledge Promotion is Competence for development , which is intended to provide a common basis for the raising of competence which is being implemented in  primary  and  secondary  education  and  training during the period 2005-2008.
 
 The strategic plan also includes training and qualification,  as  described  in  the  Act  on  an  introductory programme and Norwegian language Instruction for newly arrived immigrants (Introduction Act). Teachers teaching according to the Introduction Act are not part of the competence-raising scheme. The Directorate of Integration and Diversity  and the National Centre for Learning in Employment are in the process of preparing a plan for competence-raising for these teachers.
 
-The Norwegian Directorate for Education and Training is responsible for following up on the Strategic Plan and keeping an eye on the overall picture. In this, the Directorate is collaborating closely with the National Centre for Multi-cultural Education (NAFO) at Oslo University College (HiO), with the National Centre for Learning in Employment (Vox) and with Ithe Directorate of Integration and Diversity (IMDi). The National Parents' Committee for Primary and Lower Secondary Education (FUG) is also an important partner. A status report on action and main aims of  the  Strategic  Plan  is  prepared  every  year.  The Norwegian Directorate for Education and Training is responsible for this report, which is published on the Directorate's website (http://www.utdanningsdirektoratet.no/). The strategic plan is in operation until 2009.
+The Norwegian Directorate for Education and Training is responsible for following up on the Strategic Plan and keeping an eye on the overall picture. In this, the Directorate is collaborating closely with the National Centre for Multi-cultural Education (NAFO) at Oslo University College (HiO), with the National Centre for Learning in Employment (Vox) and with the Directorate of Integration and Diversity (IMDi). The National Parents' Committee for Primary and Lower Secondary Education (FUG) is also an important partner. A status report on action and main aims of the Strategic Plan is prepared every year. The Norwegian Directorate for Education and Training is responsible for this report, which is published on the Directorate's website (http://www.utdanningsdirektoratet.no/). The strategic plan is in operation until 2009.
 
 The plan provides guidelines for executives and decision makers at all levels. Educational activities must be included in the general planning of local authorities and county councils. The measures outlined in the plan must be an essential part of their planning documents,  so  as  to  ensure  inclusion,  totality  and continuity of action, from kindergarten to higher education and research. Based on such comprehensive planning, collaboration between the various municipal services and between municipalities  and county municipalities will ensure a more suitable and more holistic  provision  for  children,  young  people  and adults.  Conferences  at  county  level  are  part  of  the task  of  following  and  implementing  the  Strategic Plan in municipalities and county municipalities.
 
@@ -144,11 +166,11 @@ Descendant refers to persons born in Norway to two foreign-born parents. These p
 
 The concepts linguistic minority students and students from linguistic minorities / participants from linguistic minorities (about adults with the right to primary and lower secondary education and training) are used in primary and lower secondary education and training. They refer to pupils or participants who - in the short or long term - have special educational needs.
 
-The concept of linguistic minority is generally used in Norway to describe everyone whose native language is not either Norwegian or Sami. When this concept is  used  in  the  Strategic  Plan  it  refers  to  pupils  or participants whose native language   is not Norwegian or  Sami  and  adults  whose  native  language  is  not Norwegian, Sami, Danish or Swedish and who have special educational needs.
+The concept of linguistic minority is generally used in Norway to describe everyone whose native language is not either Norwegian or Sami. When this concept is used in the Strategic Plan it refers to pupils or participants whose native language¹ is not Norwegian or Sami and adults whose native language is not Norwegian, Sami, Danish or Swedish and who have special educational needs.
 
 In the kindergarten sector, the concept of linguistic minority  children is  used  to  describe  all  children whose  native  language  is  not  Norwegian,  Sami, Swedish, Danish or English. The definition decides which  children  may  receive  special  attention  to stimulate  language  ability,  financed  by  a  special subsidy to improve language understanding among linguistic minority children of pre-school age.
 
-	 	 The concept linguistic minority does not include national minorities, such as persons of Finnish descent.
+1  The concept linguistic minority does not include national minorities, such as persons of Finnish descent.
 
 ### Target group
 
@@ -166,21 +188,21 @@ Cultural, religious and linguistic variations are the normal state of affairs in
 
 ### Kindergartens
 
-Good, inexpensive  and  available    places  in  kindergartens are important in order to give all children equal opportunities. The nursery is the most important arena for integration and language teaching for linguistic  minority  children  of  pre-school  age.  Research has shown that well prepared measures aimed at linguistic minority children have a positive effect when  they  start  school,  on  their  Norwegian  skills and  on  how  they  get  on  as  they  progress  through school.   It is therefore an expressed aim to get more linguistic minority children to go to kindergartens.
+Good, inexpensive and available places in kindergartens are important in order to give all children equal opportunities. The nursery is the most important arena for integration and language teaching for linguistic minority children of pre-school age. Research has shown that well prepared measures aimed at linguistic minority children have a positive effect when they start school, on their Norwegian skills and on how they get on as they progress through school.² It is therefore an expressed aim to get more linguistic minority children to go to kindergartens.
 
-	 	 Nergård 2003, Sand and Skoug 2002 and 2003, Bakken 2003, Øzerk 2003.
+2  Nergård 2003, Sand and Skoug 2002 and 2003, Bakken 2003, Øzerk 2003.
 
-About 54 per cent of all linguistic minority children aged 1 to 5 went to kindergartens as at 15.12.2005.  The corresponding figure for all children In this age group was 76 per cent. There were as many as 82 per cent of linguistic minority 5 year olds in nurseries, against 93 per cent of all 5 year olds in kindergartens. For 4 year olds, the figures were 79 and 92 per cent respectively. 
+About 54 per cent of all linguistic minority children aged 1 to 5 went to kindergartens as at 15.12.2005.³ The corresponding figure for all children In this age group was 76 per cent. There were as many as 82 per cent of linguistic minority 5 year olds in nurseries, against 93 per cent of all 5 year olds in kindergartens. For 4 year olds, the figures were 79 and 92 per cent respectively.⁴
 
-The government target is that full kindergarten coverage should be achieved by the end of 2007 and provision has been made for this in the 2007 budget. A survey among four  different  ethnic  groups  in  Oslo  in  1998 concluded that price, lack of availability, lack of information about nurseries and that the children were too small to go to kindergartens were the reasons given by minority background parents for not having their children  in  kindergartens.  Lower  prices  and  available places  for  all  should  help  to  increase  the  number  of linguistic minority children in kindergartens.
+The government target is that full kindergarten coverage should be achieved by the end of 2007 and provision has been made for this in the 2007 budget. A survey among four different ethnic groups in Oslo in 1998 concluded that price, lack of availability, lack of information about nurseries and that the children were too small to go to kindergartens were the reasons given by minority background parents for not having their children in kindergartens.⁵ Lower prices and available places for all should help to increase the number of linguistic minority children in kindergartens.
 
-All children should be assured of good development opportunities  and  close  collaboration  between  kindergarten and parents will help to achieve this. The parents know their children best and can tell nursery staff what they need to know about them. At the same time, kindergarten staff  can help support the parents as sources of guidance and care. This is important, certainly when it comes to early language stimulation  for  the  child.  Nursery  staff  and  parents  must therefore communicate and the staff must acknowledge the parents as equal partners. Partnership with parents  is  prescribed  in  the  Day  Care  Institutions Act and described in more detail in the outline plan for kindergartens.
+All children should be assured of good development opportunities and close collaboration between kindergarten and parents will help to achieve this. The parents know their children best and can tell nursery
 
-	 	 The percentage is calculated from the KOSTRA report on linguistic minority children in kindergartens as at 15.12.2005 and population statistics as at 01.01.2006, children from Immigrant background aged 1-5, with the exception of Swedish, Danish and English children.
+3  The percentage is calculated from the KOSTRA report on linguistic minority children in kindergartens as at 15.12.2005 and population statistics as at 01.01.2006, children from Immigrant background aged 1-5, with the exception of Swedish, Danish and English children.
 
-	 	 SSB 2006.
+4  SSB 2006.
 
-	 	 Djuve and Pettersen 1998.
+5  Djuve and Pettersen 1998.
 
 12
 
@@ -188,7 +210,9 @@ All children should be assured of good development opportunities  and  close  co
 
 [[START OF PAGE 13]]
 
-The content of the new framework plan for kindegartens  underlines  the  importance  of  good,  early  language stimulation as part of what the kindegartens provides.  The  framework  plan  makes  evident  the significance  of  the  pre-school  years  for  developing language. In the case of linguistic minority children, the nursery must 'support the child's use of its native language and at the same time actively encourage the  development  of  the  child's  competence  in  the Norwegian  language'  (outline  plan  2006:29).  Linguistic  minority  children  who  do  not  receive  sufficient support in their development of Norwegian before they start school will need support in school until their competence in Norwegian is sufficient. Without sufficient  support  in  Norwegian  before  starting school or at school, there is a strong probability that those from linguistic minorities will never regain the ground lost to Norwegian speakers. Communication, language and text is one of the seven subjects which should  be  included  in  the  daily  nursery  activities. NAFO has developed a publication about linguistic and cultural diversity. This is intended to offer inspiration and reflection to kindergarten staff.
+staff what they need to know about them. At the same time, kindergarten staff can help support the parents as sources of guidance and care. This is important, certainly when it comes to early language stimulation for the child. Nursery staff and parents must therefore communicate and the staff must acknowledge the parents as equal partners. Partnership with parents is prescribed in the Day Care Institutions Act and described in more detail in the outline plan for kindergartens.
+
+The content of the new framework plan for kindegartens underlines the importance of good, early language stimulation as part of what the kindegartens provides. The framework plan makes evident the significance of the pre-school years for developing language. In the case of linguistic minority children, the nursery must 'support the child's use of its native language and at the same time actively encourage the development of the child's competence in the Norwegian language' (outline plan 2006:29). Linguistic minority children who do not receive sufficient support in their development of Norwegian before they start school will need support in school until their competence in Norwegian is sufficient. Without sufficient support in Norwegian before starting school or at school, there is a strong probability that those from linguistic minorities will never regain the ground lost to Norwegian speakers. Communication, language and text is one of the seven subjects which should be included in the daily nursery activities. NAFO has developed a publication about linguistic and cultural diversity. This is intended to offer inspiration and reflection to kindergarten staff.
 
 Kindergarten staff are important role models for the children.  Employees  with  linguistic  and  cultural backgrounds other  than  Norwegian  are  a  valuable resource  and  strengthen  the  kindergarten's  multicultural and multi-linguistic competence. It is therefore a goal that the staff should reflect the diversity within the population. It is also a goal to have more pre-school  teachers  from  minority  backgrounds. Persons  with  foreign  qualifications  as  pre-school teachers  may  require  additional  education  to  fulfil the competence requirements in Norway. At the end of 2005, 3.1 per cent of all pre-school teachers working  in  Norwegian  nurseries  came  from  immigrant backgrounds.  By  comparison,  linguistic  minority children represented 6.2 per cent of all those in kindergartens the same year.
 
@@ -228,19 +252,19 @@ The Knowledge Promotion also includes a clear focus on  competence  development 
 
 Insufficient knowledge of Norwegian is a problem for many  linguistic  minority  students.  Proficiency  in Norwegian is a prerequisite for being able to benefit from teaching at all levels. It is also important to value the dual language competence which many linguistic minority students develop.
 
-Norwegian  and  international  surveys  consistently show  that  linguistic  minority  students  as  a  group score lower than linguistic majority students.   The national tests for 4th and 10th year students in mathematics and reading and average reported marks for final year students in mathematics, written Norwegian and English in 2004 showed, furthermore, that on  average  first  generation  immigrants  achieved weaker results than descendants. 
+Norwegian and international surveys consistently show that linguistic minority students as a group score lower than linguistic majority students.⁶ The national tests for 4th and 10th year students in mathematics and reading and average reported marks for final year students in mathematics, written Norwegian and English in 2004 showed, furthermore, that on average first generation immigrants achieved weaker results than descendants.⁷
 
-The differences are greatly reduced, however if we take  into  account  that  linguistic  minority  students, both descendants and immigrants, tend to have less well educated parents and come from families with more  limited  financial  resources  than  the  majority pupils. This shows the importance of taking into account more than one characteristic at a time when comparing  learning outcomes  between  different groups of students. Lack of competence and low expectations on the part of the teachers can also contribute to slow progress in a number of linguistic minority pupils. International research shows that having high expectations of the students is a vital precondition  for  children  and  young  people  actually  learning.  Negative  expectations  have  a  stronger  effect  than positive ones. It is easier to weaken a pupil's self-belief than to strengthen it. Research also shows that teachers  have  consistently  lower  expectations  of  certain pupil groups, including linguistic minority students. 
+The differences are greatly reduced, however if we take into account that linguistic minority students, both descendants and immigrants, tend to have less well educated parents and come from families with more limited financial resources than the majority pupils. This shows the importance of taking into account more than one characteristic at a time when comparing learning outcomes between different groups of students. Lack of competence and low expectations on the part of the teachers can also contribute to slow progress in a number of linguistic minority pupils. International research shows that having high expectations of the students is a vital precondition for children and young people actually learning.⁸ Negative expectations have a stronger effect than positive ones. It is easier to weaken a pupil's self-belief than to strengthen it. Research also shows that teachers have consistently lower expectations of certain pupil groups, including linguistic minority students.⁹
 
-The earlier children and young people receive help, the  greater  the  probability  that  larger  and  more complex problems are averted. Measures are more beneficial and use fewer resources if begun as early as possible. Surveys show that there is a strong tendency in Norwegian schools to 'wait and see' instead of making an early intervention into pupils' development and learning. The international PIRLS survey of 2001 showed that half of teachers of 4th year pupils have  a  strategy  of  'waiting  until  the  pupil  is  more mature' if the pupil's reading development is lagging behind. 10 This particularly effects children and young people whose parents are unable to compensate for the weaknesses of the educational system.
+The earlier children and young people receive help, the greater the probability that larger and more complex problems are averted. Measures are more beneficial and use fewer resources if begun as early
 
-	 	 Progress in International Reading Literacy Study 2001 (PIRLS), Wagner 2004, Third International Mathematics and Science Study 2003 (TIMSS), Hvistendahl and Roe 2004.
+6  Progress in International Reading Literacy Study 2001 (PIRLS), Wagner 2004, Third International Mathematics and Science Study 2003 (TIMSS), Hvistendahl and Roe 2004.
 
-	 	 Norwegian Directorate for Education and Training 2004.
+7  Norwegian Directorate for Education and Training 2004.
 
-	 	 Jenner 2004.
+8  Jenner 2004.
 
-	 	 Øzerk 2003.
+9  Øzerk 2003.
 
 14
 
@@ -248,13 +272,15 @@ The earlier children and young people receive help, the  greater  the  probabili
 
 [[START OF PAGE 15]]
 
-Basic  knowledge  about  language  development  and valid testing implements are important in assessing and considering linguistic minority students, not least in avoiding recommending special educational measures for those who have a normal dual language development.  At  the  end  of  2006  a  handbook  was  being completed for studying linguistic minority students. The Norwegian Directorate for Education and Training  is  responsible  for  the  project,  which  is  mainly aimed at those working in the Pedagogical Psychological Service. Assessment tests have also been developed for reading skills in seven languages. 11  These can help to give a better picture of the students' general  reading  development  and  indicate  who  might have  genuine  reading  difficulties  and  need  further assessment. One should also be aware that the variations in learning outcomes are great and that many pupils from minority backgrounds do extremely well.
+as possible. Surveys show that there is a strong tendency in Norwegian schools to 'wait and see' instead of making an early intervention into pupils' development and learning. The international PIRLS survey of 2001 showed that half of teachers of 4th year pupils have a strategy of 'waiting until the pupil is more mature' if the pupil's reading development is lagging behind.¹⁰ This particularly effects children and young people whose parents are unable to compensate for the weaknesses of the educational system.
+
+Basic knowledge about language development and valid testing implements are important in assessing and considering linguistic minority students, not least in avoiding recommending special educational measures for those who have a normal dual language development. At the end of 2006 a handbook was being completed for studying linguistic minority students. The Norwegian Directorate for Education and Training is responsible for the project, which is mainly aimed at those working in the Pedagogical Psychological Service. Assessment tests have also been developed for reading skills in seven languages.¹¹ These can help to give a better picture of the students' general reading development and indicate who might have genuine reading difficulties and need further assessment. One should also be aware that the variations in learning outcomes are great and that many pupils from minority backgrounds do extremely well.
 
 #### Language teaching
 
 The  Soria-Moria  declaration  states  that  good  language teaching is key to the success of linguistic minority children in education and working life. It is also known that research shows that knowledge about and of one's native language is important in being able to learn other languages. However there is a need for more  knowledge  about  the  content  and  extent  of mother tongue teaching. The Ministry of Education and Research will summarize existing research and initiate new research into mother tongue teaching, so that greater insight into the effect and significance of this teaching can be obtained. The Soria-Moria declaration points out that being bilingual is a resource in a globalised world. Good language teaching is key to linguistic minority children and young people being able to succeed in education and working life.
 
-The Ministry of Education and Research has given Nova - Norwegian Social Research - the task of compiling  a  review  combining  existing  research  on mother tongue teaching, bilingual subject teaching and Norwegian as a second language for linguistic minority pupils. 12  The review will also cover research Into  the  pre-school  stage.  This  review  of  present knowledge is intended to help increase insight into the effect of the  mother tongue  and significance for the  subject  development  of  linguistic  minority  children and young people, including bilingual teaching and Norwegian as a second language. The review of current  knowledge  will  be  completed  by  1st  April 2007. Through the present Strategy Plan an initiative has  been  taken  for  a  review  of  competence  among teachers  working  with  linguistic  minority  students (measure no 32). In spring 2007 a White Paper on language policy will be presented. Further clarifications and measuresare anticipated from this.
+The Ministry of Education and Research has given Nova - Norwegian Social Research - the task of compiling a review combining existing research on mother tongue teaching, bilingual subject teaching and Norwegian as a second language for linguistic minority pupils.¹² The review will also cover research into the pre-school stage. This review of present knowledge is intended to help increase insight into the effect of the mother tongue and significance for the subject development of linguistic minority children and young people, including bilingual teaching and Norwegian as a second language. The review of current knowledge will be completed by 1st April 2007. Through the present Strategy Plan an initiative has been taken for a review of competence among teachers working with linguistic minority students (measure no 32). In spring 2007 a White Paper on language policy will be presented. Further clarifications and measures are anticipated from this.
 
 > 10		 Solheim and Tønnesen (2003).
 
@@ -264,9 +290,9 @@ The Education Act gives primary and lower secondary school pupils with a mother 
 
 From 2000 to 2004 there has been a reduction in the number  of  linguistic  minority  pupils  who  have  received mother tongue teaching, but there has been an increase in the number who have received bilingual subject teaching. There has also been a small increase  in  the  number  of  pupils  receiving  special teaching in Norwegian. 13
 
-On a national basis, the number of pupils receiving special  teaching  in  Norwegian  reduces  from  the fourth to the tenth year. .14 It is particularly important that the pedagogical staff can identify and develop methods for language teaching and subject teaching for linguistic minority pupils.
+On a national basis, the number of pupils receiving special teaching in Norwegian reduces from the fourth to the tenth year.¹⁴ It is particularly important that the pedagogical staff can identify and develop methods for language teaching and subject teaching for linguistic minority pupils.
 
-A very small proportion of those employed in primary and  lower  secondary  schools  have  an  immigrant background. This teacher group is an important role model  for  linguistic  minority  children  and  young people  and  being  bilingual  and  having  a  different cultural background gives them special competence.
+A very small proportion of those employed in primary and lower secondary schools have an immigrant background. This teacher group is an important role model for linguistic minority children and young
 
 > 12		 New stage-based curricula in native languages and basic Norwegian will be introduced from autumn 2007. This last replaces Norwegian as a second language.
 
@@ -280,13 +306,15 @@ A very small proportion of those employed in primary and  lower  secondary  scho
 
 [[START OF PAGE 16]]
 
-In  November  2006  Rambøll  Management's  report 'Evaluation of the practice of Norwegian as a second language  for  linguistic  minorities  in  primary  and lower secondary schools' was presented. This concluded among other things that practice in the schools was  very  varied,  both  as  regards  assessing  pupils' linguistic abilities and the practice of individual decisions. The report points out that there are no standardised assessment procedures which might clarify whether a pupil has sufficiently good Norwegian to go over to ordinary Norwegian teaching. Moreover many municipalities do not know enough about their obligations in respect of individual decisions.
+people and being bilingual and having a different cultural background gives them special competence.
+
+In November 2006 Rambøll Management's report 'Evaluation of the practice of Norwegian as a second language for linguistic minorities in primary and lower secondary schools' was presented. This concluded among other things that practice in the schools was very varied, both as regards assessing pupils' linguistic abilities and the practice of individual decisions. The report points out that there are no standardised assessment procedures which might clarify whether a pupil has sufficiently good Norwegian to go over to ordinary Norwegian teaching. Moreover many municipalities do not know enough about their obligations in respect of individual decisions.
 
 The report shows that only 30 per cent of Norwegian local  authorities  have  a  very  high  or  high  level  of knowledge  about  the  strategy Equal  Education  in Practice! and  that  few  local  authorities  encourage schools  to  try  out  new  organisational  methods  for special teaching in Norwegian. The lack of competence among teachers who give special teaching in Norwegian was also pointed out.
 
 The report shows that very many of the students who receive special teaching in Norwegian continue this throughout their school attendance. In other words the curriculum in Norwegian as a second language and  other  special  teaching  in  Norwegian  has  not been  the  platform  for  a  transition  to  the  ordinary curriculum in Norwegian that it was meant to be.
 
-The Ministry has decided that a new curriculum for basic Norwegian for linguistic minorities, based on level, will be established in spring 2007. This will replace the curriculum in Norwegian as a second language, which is based on age. A new curriculum in native  languages,  also  based  on  level,  will  also  be established.  A  new,  standardised  assessment  tool will also be established, which will make it simpler to decide when students have sufficient proficiency to follow  the  normal  curriculum.  Guidance  material will  also  be  prepared  for  teachers  who  teach  basic Norwegian (see action programme 11). Post qualifying  courses  will  also  be  developed  for  teachers  in basic Norwegian in respect of the change (see action programme 10). It will be necessary to keep parents and schools informed about the Introduction of the new curriculum In autumn 2007.
+The Ministry has decided that a new curriculum for basic Norwegian for linguistic minorities, based on level, will be established in spring 2007. This will replace the curriculum in Norwegian as a second language, which is based on age. A new curriculum in native languages, also based on level, will also be established. A new, standardised assessment tool will also be established, which will make it simpler to decide when students have sufficient proficiency to follow the normal curriculum. Guidance material will also be prepared for teachers who teach basic Norwegian (see action programme 11). Post qualifying courses will also be developed for teachers in basic Norwegian in respect of the change (see action programme 10). It will be necessary to keep parents and schools informed about the introduction of the new curriculum in autumn 2007.
 
 Other measures which are outlined in this strategy, such as measure no 22 'Bachelor level education for bilingual  teachers'  and  measure  15  'Scholarship scheme for teachers from linguistic minority backgrounds', will also help to improve conditions which the Rambøll report has indicated as critical.
 
@@ -300,7 +328,7 @@ The multicultural perspective is central to this national initiative. 'The cultu
 
 Parents must receive support in being good carers. Collaboration between schools and linguistic minority parents is an important focus area in the educational system. Collaboration with parents about the significance  of  early  language  stimulation  may  be naturally  continued  into  collaboration  on  reading development  at  the  primary  primary  school  level Collaboration between home and school is vital for the students to derive sufficient educational and social benefit from school and for the parents' ability to support their children in their choice of education. In this  context  it  is  important  to  develop  competence among  school  staff  in  collaborational  skills.  To achieve  good  communication  between  school  and parents it is necessary for teaching staff to acknowledge and support the authority of parents..
 
-The National Parents' Committee for Primary and Lower Secondary Education (FUG) plays an active role in involving linguistic minority parents in closer collaboration  with  schools. 15   In  autumn  2006  FUG concluded the project 'Linguistic minority parents - a resource for the teaching of pupils in schools'. A resource  network  consisting  of  linguistic  minority parents has been established in connection with this project.  FUG  has  also  issued  a  number  of  useful publications,  which    underline  the  significance  of parents  as  resources  in  the  educational  and  social development of children and young people.
+The National Parents' Committee for Primary and Lower Secondary Education (FUG) plays an active role in involving linguistic minority parents in closer collaboration with schools.¹⁵ In autumn 2006 FUG concluded the project 'Linguistic minority parents - a resource for the teaching of pupils in schools'. A resource network consisting of linguistic minority parents has been established in connection with this project. FUG has also issued a number of useful
 
 > 15		 Cf. the strategic plan Gi rom for lesing! (Make space for reading) Action programme 20.
 
@@ -310,11 +338,13 @@ The National Parents' Committee for Primary and Lower Secondary Education (FUG) 
 
 [[START OF PAGE 17]]
 
-In  Report  to  the  Storting  No.  16  (2006-2007)  the Ministry of Education and Research also takes the initiative in developing suggested templates for parent contracts. Parent contracts provide the opportunity to clarify mutual expectations and create unity regarding  educational  measures  and  activities  for the individual student.
+publications, which underline the significance of parents as resources in the educational and social development of children and young people.
+
+In Report to the Storting No. 16 (2006-2007) the Ministry of Education and Research also takes the initiative in developing suggested templates for parent contracts. Parent contracts provide the opportunity to clarify mutual expectations and create unity regarding educational measures and activities for the individual student.
 
 #### Teaching aids
 
-To ensure proper subject and linguistic learning outcomes, it is also important that multicultural reality should be reflected in the teaching materials. Vestfold University College has prepared a report which shows that there is potential for improvement in respect of the linguistic adaptation of teaching aids, so that they are more accessible for students from linguistic minorities.  The  Norwegian  Directorate  for  Education and Training's 'Action plan for teaching aids for linguistic  minorities  (2004-2006)'  gives    the  basis  for providing resources for the preparation of teaching aids  for  linguistic  minority  children,  young  people and adults In primary and  secondary education and training and for adults taking Norwegian and social studies.  The  Norwegian  Directorate  for  Education and Training is also responsible for subsidies for other teaching aids. A criterion for all such state subsidy is that  the  teaching  aids  should  safeguard  the  multicultural perspective.
+To ensure proper subject and linguistic learning outcomes, it is also important that multicultural reality should be reflected in the teaching materials. Vestfold University College has prepared a report which shows that there is potential for improvement in respect of the linguistic adaptation of teaching aids, so that they are more accessible for students from linguistic minorities. The Norwegian Directorate for Education and Training's 'Action plan for teaching aids for linguistic minorities (2004-2006)' gives the basis for providing resources for the preparation of teaching aids for linguistic minority children, young people and adults in primary and secondary education and training and for adults taking Norwegian and social studies. The Norwegian Directorate for Education and Training is also responsible for subsidies for other teaching aids. A criterion for all such state subsidy is that the teaching aids should safeguard the multicultural perspective.
 
 #### The right of child asylum seekers to schooling
 
@@ -334,7 +364,7 @@ There are however differences between pupils  from a  linguistic  minority backg
 
 In practice a number of pupils  start upper secondary education and training with deficient knowledge and skills from lower secondary. This applies in particular  to  students  who  have  not  been  part  of  a  good learning  process  in  primary  and  lower  secondary, who  are  from  a  linguistic  minority  background  or who were late entering into the learning process in the primary and lower secondary level.
 
-There appear to be relatively few differences in the choice of educational courses between linguistic minority  students  and  the  majority,  but  immigrants from  a  non-western  background  appear  to  choose education  programmes which will lead on to university  or  university  college  studies  to  a  somewhat greater  degree  than  majority  students,  when  we compare  groups  with  identical  marks  from  lower secondary and parents of a similar educational level. 18 This does not apply in Oslo, however, where a higher proportion of majority than linguistic minority pupils choose academic education prgrammes  rather than vocational education programmes. 19
+There appear to be relatively few differences in the
 
 > 16		 Norwegian Directorate for Education and Training
 
@@ -346,11 +376,15 @@ There appear to be relatively few differences in the choice of educational cours
 
 [[START OF PAGE 18]]
 
+choice of educational courses between linguistic minority students and the majority, but immigrants from a non-western background appear to choose education programmes which will lead on to university or university college studies to a somewhat greater degree than majority students, when we compare groups with identical marks from lower secondary and parents of a similar educational level.¹⁸
+
+This does not apply in Oslo, however, where a higher proportion of majority than linguistic minority pupils choose academic education programmes rather than vocational education programmes.¹⁹
+
 #### Completing upper secondary education
 
 The goal is that the proportion of linguistic minority students  and  apprentices  who  complete  upper  secondary education and training should be as high as that  for  linguistic  majority  students.  Linguistic  minority  students  and  apprentices  currently  have  a lower completion percentage that the majority. Figures from the Centre for Economic Research (SØF) at  NTNU for students who commenced upper secondary education in autumn 2002 show that among immigrants of a non-western background there was a dropout of almost 45 per cent. This compares with a  figure  for  linguistic  majority  students  of  26  per cent.  Among  descendants  from  non-western  backgrounds the dropout rate was 30 per cent. 20
 
-It  is  important  to  underline  that  this  difference  between  majority  and  linguistic  minority  students  is linked to the fact that linguistic minority pupils  have parents with a lower level of education than the majority students, 21 and that linguistic minority pupils  have lower average marks from lower secondary school. 22 Immigrant juveniles with a non-western background have somewhat lower average marks than linguistic majority students. Girls have better marks than boys in both groups. 23  When we compare linguistic minority and majority pupils  with equal lower secondary marks and with equally educated parents, the nonwestern linguistic minority pupils , both descendants and first  generation  immigrants,  have  a  lesser  tendency to drop out than the majority students. 24  Research shows that linguistic minority students devote more time to homework than majority students and that they are also more motivated. 25
+It is important to underline that this difference between majority and linguistic minority students is linked to the fact that linguistic minority pupils have parents with a lower level of education than the majority students,²¹ and that linguistic minority pupils have lower average marks from lower secondary school.²² Immigrant juveniles with a non-western background have somewhat lower average marks than linguistic majority students. Girls have better marks than boys in both groups.²³ When we compare linguistic minority and majority pupils with equal lower secondary marks and with equally educated parents, the non-western linguistic minority pupils, both descendants and first generation immigrants, have a lesser tendency to drop out than the majority students.²⁴ Research shows that linguistic minority students devote more time to homework than majority students and that they are also more motivated.²⁵
 
 > 18		 Markussen et al. 2006.
 
@@ -372,9 +406,9 @@ Research  also  shows  that  linguistic  minority  applicants from non-western c
 
 #### Counselling service
 
-The counselling service is  important  in  improving completion rates and reducing drop out. According to the Education Act pupils  have the right to necessary counselling on education, choice of employment and social questions and it is the school owners who are responsible for ensuring that students can exercise this right. It is also Important that the counselling service should be professional and neutral. The 'Strategy  for  raising  competence  in  primary  and secondary education and training 2005-2008' names counsellors as a priority group in the context of  further  and  continuing  education.  In  2005,  NOK  300 million  was  allocated  to  this  strategy  and  in  2006, 375 million. The Norwegian Directorate for Education and Training has also ensured that information leaflets about upper secondary education and educational and vocational choices for linguistic minority juveniles  and  their  parents  have  been  distributed. The leaflets are straightforward and informative and are available in 13 languages in addition to Norwegian. 30
+The counselling service is important in improving completion rates and reducing drop out. According to the Education Act pupils have the right to necessary counselling on education, choice of employment and social questions and it is the school owners who are responsible for ensuring that students can exercise this right. It is also important that the counselling service should be professional and neutral. The 'Strategy for raising competence in primary and secondary education and training 2005-2008' names counsellors as a priority group in the context of further and continuing education. In 2005, NOK 300 million was allocated to this strategy and in 2006, 375 million. The Norwegian Directorate for Education and Training has also ensured that information leaflets about upper secondary education and educational and vocational choices for linguistic minority juveniles and their parents have been distributed. The leaflets are straightforward and informative and are available in 13 languages in addition to Norwegian.³⁰
 
-In order to motivate towards education and counteract dropping out, it is important to increase efforts to encourage collaboration between school and parents and between educational levels. It is absolutely vital that this collaboration with parents continues in upper secondary education and training until the pupils have reached the age of 18. The Ministry of Education  and  Research therefore proposed in Report to the  Storting  No.  16  (2006-2007)  to  extend  FUG's mandate to include the first year of upper secondary education and training. Contact between upper secondary education and training  and higher education institutions should be strengthened.
+In order to motivate towards education and counteract dropping out, it is important to increase efforts to encourage collaboration between school and parents and between educational levels. It is absolutely vital
 
 > 26		 Non-western countries here means Turkey and Eastern European countries, Asia, Africa and South and Central America. The third world comprises the same countries as non-western countries, with the exception of Eastern European countries.
 
@@ -392,9 +426,11 @@ In order to motivate towards education and counteract dropping out, it is import
 
 [[START OF PAGE 19]]
 
-In school, and perhaps especially in upper secondary education  and  training,  many  linguistic  minority students  encounter  difficulties  with  subjects.  This may be due to the teaching not being tailored to the students' bilingual backgrounds. The National Centre for Multi-cultural Education (NAFO) has therefore developed and tried out further and continuing courses which can be offered to teachers at primary, and   secondary level to counter these difficulties.
+that this collaboration with parents continues in upper secondary education and training until the pupils have reached the age of 18. The Ministry of Education and Research therefore proposed in Report to the Storting No. 16 (2006-2007) to extend FUG's mandate to include the first year of upper secondary education and training. Contact between upper secondary education and training and higher education institutions should be strengthened.
 
-16 to 20-yearold immigrants with a weak school history and brief residence In Norway present a particular  challenge  for  upper  secondary  education  and training. Of those who came to Norway as teenagers and are currently aged between 20 and 40, 27 per cent  have  completed  upper  secondary  education. This shows that this group had particular problems in completing upper secondary education and training. Because of their migration, many of them have not completed primary and lower secondary education in their home countries, which makes it difficult for them to make use of their right to upper secondary  education  and  training.  This  group  of  pupils should attend education according to their age group and many of them need special adaptation. Report to the Storting No. 49 (2003-2004) points out the challenges involved in offering these pupils a proper education. NAFO has made an assessment of the school opportunities for 16 to 20- year olds with a limited educational background. This was done by means of a poll of county municipalities and municipalities in 2005-2006. Consideration is currently being given to the best way of following up on these results.
+In school, and perhaps especially in upper secondary education and training, many linguistic minority students encounter difficulties with subjects. This may be due to the teaching not being tailored to the students' bilingual backgrounds. The National Centre for Multi-cultural Education (NAFO) has therefore developed and tried out further and continuing courses which can be offered to teachers at primary, and secondary level to counter these difficulties.
+
+16 to 20-year-old immigrants with a weak school history and brief residence in Norway present a particular challenge for upper secondary education and training. Of those who came to Norway as teenagers and are currently aged between 20 and 40, 27 per cent have completed upper secondary education. This shows that this group had particular problems in completing upper secondary education and training. Because of their migration, many of them have not completed primary and lower secondary education in their home countries, which makes it difficult for them to make use of their right to upper secondary education and training. This group of pupils should attend education according to their age group and many of them need special adaptation. Report to the Storting No. 49 (2003-2004) points out the challenges involved in offering these pupils a proper education. NAFO has made an assessment of the school opportunities for 16 to 20-year-olds with a limited educational background. This was done by means of a poll of county municipalities and municipalities in 2005-2006. Consideration is currently being given to the best way of following up on these results.
 
 ### Higher education
 
@@ -410,7 +446,7 @@ Descendants of non-western backgrounds in the 19 to 24 age group are now represe
 
 There is some difference between the linguistic minority population and the majority population when it comes to choice of type of higher education. Linguistic minority students are more likely to choose scientific  and  technical  studies  and  the  humanities  and less likely to choose teaching related studies. This tendency was stable throughout the 1990s. In 2003, 22 per cent of newly registered students in scientific and technical studies had a linguistic minority background -  both  first  generation  immigrants  and  descendants. 32
 
-It is important to provide information about the entire spectrum of studies and professional opportunities. The  University of Oslo (UiO) has been collaborating with selected upper secondary schools to strengthen guidance,  give  help  with  homework  and  broaden knowledge about various studies. Oslo University's figures for January 2006 show that 9.5 per cent of the students had non-western backgrounds. 33  The figures for Oslo University College (HiO) for 2006 show that 12  per  cent  of  the  students  had  non-western  backgrounds. In computer, bio-engineering and pharmacy studies the proportion is close to 40 per cent. Students  with  non-western  backgrounds  represent  20 per  cent  of  those  studying  engineering,  but  only  4 per cent of those attending  general teacher training programmes.
+It is important to provide information about the entire spectrum of studies and professional opportunities. The University of Oslo (UiO) has been collaborating with selected upper secondary schools to strengthen guidance, give help with homework and broaden knowledge about various studies. Oslo University's figures for January 2006 show that 9.5 per cent of the
 
 > 31		 Støren 2005. (New figures from SSB: Descendants of immigrants are now better represented than majority young people.)
 
@@ -422,15 +458,17 @@ It is important to provide information about the entire spectrum of studies and 
 
 [[START OF PAGE 20]]
 
-HiO and UiO have for several years been working  on recruiting and following up on linguistic minority students and have systematised their experience in this field.  HiO publishes an electronic newssheet, MaiAnytt 34 , swhich contains a number of articles about linguistic  minority  students  and  choice  of  studies  and which are of benefit to other Institutions of higher education. HiO has also developed a method of gathering annual information about linguistic minority students. The records provide interesting information about recruitment, progress, completion and dropout.
+students had non-western backgrounds.³³ The figures for Oslo University College (HiO) for 2006 show that 12 per cent of the students had non-western backgrounds. In computer, bio-engineering and pharmacy studies the proportion is close to 40 per cent. Students with non-western backgrounds represent 20 per cent of those studying engineering, but only 4 per cent of those attending general teacher training programmes.
+
+HiO and UiO have for several years been working on recruiting and following up on linguistic minority students and have systematised their experience in this field. HiO publishes an electronic newssheet, MaiA-nytt³⁴, which contains a number of articles about linguistic minority students and choice of studies and which are of benefit to other institutions of higher education. HiO has also developed a method of gathering annual information about linguistic minority students. The records provide interesting information about recruitment, progress, completion and dropout.
 
 #### Linguistic minority student teachers
 
-In studies leading to qualifications as a teacher, 35  in 2005 there were only 4 per cent of students with an Immigrant background, for the country as a whole. It is  important to continue the work of recruiting linguistic minority students into studying to be teachers and to intensify the work of improving the practicalities for more of them to complete their studies. Many people  from  linguistic  minorities  lack  the  formal competence  required  to  work  as  a  teacher  under prevailing Norwegian rules. Some of them require only a short course of further education to complete this  formal  competence,  whilst  others  must  take  a more comprehensive education. Nine university colleges have created a network and have come together to  offer  a  three-year  bachelor  course  for  bilingual teachers who need to complete their education. The course is partially internet based. In 2005 about 350 students  began  this  course.  Hedmark  University College  (HiH)  is  responsible  for  coordination.  As part of this initiative a new language subject has been developed as part of teacher training. HiO for example now offers Urdu and has prepared a subject curriculum  in  Turkish  to  be  taken  as  part  of  teacher training.
+In studies leading to qualifications as a teacher,³⁵ in 2005 there were only 4 per cent of students with an immigrant background, for the country as a whole. It is important to continue the work of recruiting linguistic minority students into studying to be teachers and to intensify the work of improving the practicalities for more of them to complete their studies. Many people from linguistic minorities lack the formal competence required to work as a teacher under prevailing Norwegian rules. Some of them require only a short course of further education to complete this formal competence, whilst others must take a more comprehensive education. Nine university colleges have created a network and have come together to offer a three-year bachelor course for bilingual teachers who need to complete their education. The course is partially internet based. In 2005 about 350 students began this course. Hedmark University College (HiH) is responsible for coordination. As part of this initiative a new language subject has been developed as part of teacher training. HiO for example now offers Urdu and has prepared a subject curriculum in Turkish to be taken as part of teacher training.
 
-A  scholarship  scheme  has  been  set  up  to  make  it easier financially for linguistic minority teachers to take the formal education which will provide the formal competence for teaching in schools. The scheme was initiated in 2004 as one of the measures of the Strategic  Plan Equal  Education  In  Practice! This measure  is being continued in this revised Strategic Plan.  The  arrangements  for  authorising  foreign qualifications  have  been  improved  in  recent  years. Total qualifications are taken Into account in admission to and possible shortening of the course of education.  Institutions  of  higher  education  have  been working on the assessment of actual, acknowledged competence with the intention that more people will be able to apply for admission on the basis of it. Surveys have shown that students of non-western backgrounds are less likely to apply for admission than others because of acknowledged competence.
+A scholarship scheme has been set up to make it easier financially for linguistic minority teachers to take the formal education which will provide the formal competence for teaching in schools. The scheme was initiated in 2004 as one of the measures of the Strategic Plan Equal Education In Practice! This measure is being continued in this revised Strategic Plan. The arrangements for authorising foreign qualifications have been improved in recent years. Total qualifications are taken into account in admission to and possible shortening of the course of education. Institutions of higher education have been working on the assessment of actual, acknowledged competence with the intention that more people will be able to apply for admission on the basis of it. Surveys have shown that students of non-western backgrounds are less likely to apply for admission than others because of acknowledged competence.
 
-> 33		 Source: MIFA (Minorities in Focus in Academia)..
+> 33  Source: MIFA (Minorities in Focus in Academia).
 
 > 34	 	 www.hio.no
 
@@ -438,13 +476,13 @@ A  scholarship  scheme  has  been  set  up  to  make  it easier financially for 
 
 #### Linguistic minority students with higher educational qualifications from abroad
 
-The Norwegian Agency for Quality Assurance in Education  (NOKUT)  gives  general  approval  of  foreign qualifications. This means that NOKUT investigates whether the documentation for qualifications isgenuine and whether it is from an approved university or university college. If it is, NOKUT issues a document which shows what the qualification is equivalent to in the Norwegian system, given in years/study credits and level - for example three years/180 study credit on the same level as a bachelor degree in Norway. NOKUT does not express itself concerning the technical content of the foreign qualification - whether it qualifies for a teaching position, for example.
+The Norwegian Agency for Quality Assurance in Education (NOKUT) gives general approval of foreign qualifications. This means that NOKUT investigates whether the documentation for qualifications is genuine and whether it is from an approved university or university college. If it is, NOKUT issues a document which shows what the qualification is equivalent to in the Norwegian system, given in years/study credits and level - for example three years/180 study credit on the same level as a bachelor degree in Norway. NOKUT does not express itself concerning the technical content of the foreign qualification - whether it qualifies for a teaching position, for example.
 
 If the applicant wishes to have the technical content considered in respect of further studies or the pursuit of a chosen profession, then he or she must ask for an assessment from a university or university  college which  covers  the  subject  in  question.  Universities and university colleges can ask NOKUT for advice if there  is  any  doubt  whether  the  documentation  is genuine, or about the foreign institution's status as a university or university college.
 
-For some qualifications there are specific approval schemes.  For  qualifications  for  professions  within the health system, for example, it Is theNorwegian Registration  Authority  for  Health  Personnel  which decides  whether  the  applicant's  qualifications  are equivalent to the Norwegian.
+For some qualifications there are specific approval schemes. For qualifications for professions within the health system, for example, it is the Norwegian Registration Authority for Health Personnel which decides whether the applicant's qualifications are equivalent to the Norwegian.
 
-As far as refugees are concerned, it is often difficult to obtain documentation regarding qualifications from the home country. NOKUT has implemented a pilot project for the method the educational institutions can use to assess the educational background. This scheme has now been made permanent and the Ministry of Education    and  Research  has  recommended that all educational institutions in Norway should start using it. 36
+As far as refugees are concerned, it is often difficult to obtain documentation regarding qualifications from the home country. NOKUT has implemented a pilot project
 
 20
 
@@ -452,15 +490,17 @@ As far as refugees are concerned, it is often difficult to obtain documentation 
 
 [[START OF PAGE 21]]
 
+for the method the educational institutions can use to assess the educational background. This scheme has now been made permanent and the Ministry of Education and Research has recommended that all educational institutions in Norway should start using it.³⁶
+
 ### Adult education
 
-The right of adults to education was established in the Education Act and the Introduction Act. Adults with  legal  residence  are  entitled  to  primary,  lower secondary and upper secondary education and training, 37  newly arrived adult Immigrants have the right and the obligation to learn Norwegian, 38  and newly arrived  refugees  have  the  right  to  an  Introduction programme. 39  A review has been announced of the financing schemes for the various measures guaranteed by the Introduction Act: the Integration subsidy and the subsidy for  learning  Norwegian  and  social studies for adult immigrants. The evaluation of the integration subsidy is reaching its conclusion, whilst the subsidy for learning Norwegian and social studies for adult immigrants will be reviewed during 2007.
+The right of adults to education was established in the Education Act and the Introduction Act. Adults with legal residence are entitled to primary, lower secondary and upper secondary education and training,³⁷ newly arrived adult immigrants have the right and the obligation to learn Norwegian,³⁸ and newly arrived refugees have the right to an introduction programme.³⁹ A review has been announced of the financing schemes for the various measures guaranteed by the Introduction Act: the Integration subsidy and the subsidy for learning Norwegian and social studies for adult immigrants. The evaluation of the integration subsidy is reaching its conclusion, whilst the subsidy for learning Norwegian and social studies for adult immigrants will be reviewed during 2007.
 
 #### Primary, lower secondary and upper secondary education and training for adults
 
 The Education Act gives adults the right to primary and secondary education and training if they need it. The right to upper secondary education and training applies to adults who were born before 1978 and who have  not  previously  completed  this  education.  The Government intends to devote more efforts to ensuring that the right to primary and secondary education and training is being taken up, by focusing on information about adults' rights. In Report to the Storting No. 16 (2006-2007), the Ministry of Education proposes moreover to amend the Education Act so that more adults receive the right to upper secondary education and training.
 
-Primary, lower secondary and upper secondary education and training for adults is part of the Knowledge Promotion reform . Many adults need to improve their basic skills, without necessarily undergoing the full education in the various primary and lower secondary subjects. In Report to the Storting No. 16 (20062007) the Ministry of Education and Research announced that guidelines for the education of adults in basic  skills  at  primary  and  lower  secondary  level were to be prepared.
+Primary, lower secondary and upper secondary education and training for adults is part of the Knowledge Promotion reform. Many adults need to improve their basic skills, without necessarily undergoing the full education in the various primary and lower secondary subjects. In Report to the Storting No. 16 (2006-2007) the Ministry of Education and Research announced that guidelines for the education of adults in basic skills at primary and lower secondary level were to be prepared.
 
 > 36		 Letter from the Ministry of Education 03.06.2005.
 
@@ -472,13 +512,13 @@ Primary, lower secondary and upper secondary education and training for adults i
 
 Part  of  the  adult's  right  to  primary  and  secondary education is the right to an assessment of his or her own  total  qualifications  Everyone  being  included under this right as an adult will, as far as is possible, be so assessed with a view to abbreviating all or parts of the full curriculum. Occupational testing is a form of  assessment  of  the  total  qualifications  which  is particularly suited to immigrants who have no documentation of their occupational competence.
 
-Young people from the age of 16 receive education in Norwegian and social studies as prescribed in the Introduction Act. 16 to 20 year olds from an immigrant  background  and  with  a  weak  school  history and brief residence In Norway present a particular challenge. This age group is also covered by the right to primary and lower secondary education for adults. With regard to upper secondary education and training, the Education Act provides the right to education for young people up to the age of 24.
+Young people from the age of 16 receive education in Norwegian and social studies as prescribed in the Introduction Act. 16 to 20 year olds from an immigrant background and with a weak school history and brief residence in Norway present a particular challenge. This age group is also covered by the right to primary and lower secondary education for adults. With regard to upper secondary education and training, the Education Act provides the right to education for young people up to the age of 24.
 
 #### Norwegian and social studies for adult immigrants
 
 With effect from 01.09.2005 learning Norwegian and social studies became both a right and an obligation for newly arrived immigrants. From the same date, local authorities were obliged to provide for the education  of  the  individual  in  Norwegian  and  social studies. Those covered by this right and obligation to 300 hours of free education are persons being granted asylum, transferred refugees, those being accommodated on humanitarian grounds whilst seeking asylum, reunited family members of those named above and reunited family members of Norwegian citizens. The right to free education lasts for 3 years and covers 300 hours, made up of 250 hours Norwegian and 50 hours social studies in a language which the person understands. Completion of this education gives the  basis  for  a  settlement  permit  (permanent  residence) and Norwegian citizenship. Those covered by the right and obligation and who have need of it may receive further education for up to 2,700 hours.
 
-Immigrants aged 55-67, with permits as listed above, have the right to free education, but no obligation to participate in it. Immigrants aged 16-55 with permits as migrant workers and their family members have the obligation, but not the right, to participate in education. This means they do not have the right to free education  and  the  municipality  may  demand  payment. Immigrants with short-term permits which do not constitute a basis for permanent residence have neither the right nor the obligation to participate in such  education.  The  same  applies  to  persons  with residence according to EEA/EFTA regulations. Immigrants  who  received  residence  permits  before 01.09.2005 and who have not completed education or who have not received Norwegian education earlier may,  during  a  transition  period  of  5  years  from 01.09.2005, receive free education according to the old scheme.
+Immigrants aged 55-67, with permits as listed above, have the right to free education, but no obligation to participate in it. Immigrants aged 16-55 with permits as migrant workers and their family members have the obligation, but not the right, to participate in education. This means they do not have the right to free education and the municipality may demand payment. Immigrants with short-term permits which do not constitute a basis for permanent residence have neither the right nor the obligation to participate in such education. The same applies to persons with
 
 21
 
@@ -486,7 +526,9 @@ Immigrants aged 55-67, with permits as listed above, have the right to free educ
 
 [[START OF PAGE 22]]
 
-From  autumn  2007,  adult  asylum  seekers  over  16 may receive up to 250 hours Norwegian education whilst  they  are  in  the  reception  centre.  The  host municipality for the reception centre will receive a government grant  to  cover  this  education.  Asylum seekers who receive residence permits will continue the education as part of their right and obligation to follow the introduction programme.
+residence according to EEA/EFTA regulations. Immigrants who received residence permits before 01.09.2005 and who have not completed education or who have not received Norwegian education earlier may, during a transition period of 5 years from 01.09.2005, receive free education according to the old scheme.
+
+From autumn 2007, adult asylum seekers over 16 may receive up to 250 hours Norwegian education whilst they are in the reception centre. The host municipality for the reception centre will receive a government grant to cover this education. Asylum seekers who receive residence permits will continue the education as part of their right and obligation to follow the introduction programme.
 
 From 1st January 2007, the  Ministry of Labour and Social Inclusion (AID) took over general professional and  educational  responsibility  for  the  education  in Norwegian  and  social  studies  for  adults.  The  National Centre for Learning in Employment (Vox) has been delegated the responsibility for the professional and educational development of this education. What this means in practice is that Vox is responsible for:
 
@@ -504,11 +546,11 @@ The language test which was the final test under the educational plan of 1998 ha
 
 According  to  the  Introduction  Act,  municipalities may require participants to take a test to document that they have a requirement for education beyond the 300 hours.
 
-The overall aim of education in Norwegian and social studies is that it should lead to a level of proficiency in Norwegian which enables the participant to use or build on his or her previous competence and thereby improve his or her opportunities for participating in working life  and society. Employers,labour market authorities  and  entrance  authorities  for  upper  secondary  education  and  training  have  all  stated  that Norwegian  proficiency  levels  are  too  low  among many of those from linguistic minorities who have completed the initial  education  in  Norwegian.  The employment service Aetat has for many years been employing  its  own  tests  before  entry  to  its  own courses and work training and these have often been used  for  reference  purposes  outside  Aetat.  Many counties also carry out their own testing before entry to upper secondary education and training.
+The overall aim of education in Norwegian and social studies is that it should lead to a level of proficiency in Norwegian which enables the participant to use or build on his or her previous competence and thereby improve his or her opportunities for participating in working life and society. Employers, labour market authorities and entrance authorities for upper secondary education and training have all stated that Norwegian proficiency levels are too low among many of those from linguistic minorities who have completed the initial education in Norwegian. The employment service Aetat has for many years been employing its own tests before entry to its own courses and work training and these have often been used for reference purposes outside Aetat. Many counties also carry out their own testing before entry to upper secondary education and training.
 
 The need for education varies according to the participant's circumstances and what level of proficiency may be required for various jobs or further education. The language proficiency levels which the publicly  financed  education  should  achieve  have,  however been centrally determined.
 
-On the introduction of the right and obligation to education a new curriculum was introduced, The curriculum for Norwegian and social studies for adult Immigrants . This consists of two parts: a plan for education in  Norwegian  and  another  for  education  in  social studies. The curriculum in Norwegian is objectives oriented  and  linked  to  the  European  framework. Methodic guidelines for the curriculum have been developed.
+On the introduction of the right and obligation to education a new curriculum was introduced, The curriculum for Norwegian and social studies for adult immigrants. This consists of two parts: a plan for education in Norwegian and another for education in social studies. The curriculum in Norwegian is objectives oriented and linked to the European framework. Methodic guidelines for the curriculum have been developed.
 
 According  to  the  regulations,  education  in  social studies should be given in a language which the immigrant understands. In many municipalities there has been uncertainty about how this should be implemented. Many have reported problems in getting hold  of  suitable  instructors  and  in  organising  the courses  because  there  are  so  many  languages  involved. In some places this has been solved by having larger  centres  which  allow  for  collaboration  or  by buying services from each other. It takes time for all local  authorities  to  arrive  at  a  satisfactory  system. Several different measures have been implemented.
 
@@ -530,13 +572,13 @@ The Act is aimed at newly arrived immigrants aged 18 to 55 with a need for basic
 
 According to section 3 of the Introduction Act, the individual municipality is responsible for offering the introduction  programme  to  newly  arrived  immigrants  who  are  resident  within  its  area.  The  programme should be tailored to the individual person's need for qualification and may last up to two years. The goal of the introduction programme is to provide basic  proficiency  in  Norwegian  and  a  basic  insight into Norwegian society, as well as preparing for participation in working life  and/or education.
 
-The target groups for the introduction scheme and the right and/or obligation to education In Norwegian and social studies partly overlap. The framework of  the  introduction  programme  takes  precedence over  the  obligation  to  education  in  Norwegian  and social studies.
+The target groups for the introduction scheme and the right and/or obligation to education in Norwegian and social studies partly overlap. The framework of the introduction programme takes precedence over the obligation to education in Norwegian and social studies.
 
 ### Education for particularly vulnerable groups
 
 #### Participants with psychosocial problems
 
-Experience has shown that a number of refugees and immigrants who participate in the Norwegian education have problems in acquiring an understanding of language and society through the courses which are being offered. Dropping out of or persistent absence from courses and a lack of progress on the part of some participants may be due to psychosocial problems, such as sorrow, stress or trauma. It is important for language teachers and administrators to have the competence to identify such problems. This competence does not form part of the formal education of a teacher and there is a need for providing this extra competence to teachers who are working with adult refugees  and  immigrants.  Three  bodies  -  NAFO, UC2 - Resource Centre for Bilingualism and Interculturalism (In Copenhagen) and The National Centre for Swedish as a Second Language (in Stockholm) have begun to collaborate in organising courses for teachers  who  work  with  language  teaching  to  linguistic minority adults with psychosocial problems.
+Experience has shown that a number of refugees and immigrants who participate in the Norwegian education have problems in acquiring an understanding of language and society through the courses which are being offered. Dropping out of or persistent absence from courses and a lack of progress on the part of some participants may be due to psychosocial problems, such as sorrow, stress or trauma. It is important for language teachers and administrators to have the competence to identify such problems. This competence does not form part of the formal education of a teacher and there is a need for providing this extra competence to teachers who are working with adult refugees and immigrants. Three bodies - NAFO, UC2 - Resource Centre for Bilingualism and Interculturalism (in Copenhagen) and The National Centre for Swedish as a Second Language (in Stockholm) - have begun to collaborate in organising courses for teachers who work with language teaching to linguistic minority adults with psychosocial problems.
 
 #### Education in prison
 
@@ -645,7 +687,7 @@ In 2006 an experiment was begun of offering free core time to all 4 and 5 year o
 City of Oslo/Ministry of Labour and Social Inclusion (AID)
 
 ###### Time frame
-2007-2009
+2007–2009
 
 #### Measure to enable good, all-round language development among children of pre-school age
 
@@ -671,7 +713,7 @@ Norwegian Directorate for Education and Training/Ministry of Education and Resea
 
 ###### Time frame
 
-2007-2011
+2007–2011
 
 ##### Measure 3 Ambulatory educationalists
 
@@ -681,7 +723,7 @@ From autumn 2005 and through 2006 the City of Oslo received funds for a project 
 
 ###### Responsibility
 
-City of Oslo/Ministry of Education and Researc
+City of Oslo/Ministry of Education and Research
 
 ###### Time frame
 
@@ -693,11 +735,11 @@ City of Oslo/Ministry of Education and Researc
 
 The Norwegian Directorate for Education and Training and NAFO will carry out a broad model project in which various bilingual education models in schools and kindergartens and models for collaboration across various educational levels will be developed and tried out. The project has formulated three main areas in which models will be developed:
 
-1 Family learning 2 Language teaching in kindergartens and schools 3 Focus on the transitions between various
+1 Family learning
+2 Language teaching in kindergartens and schools
+3 Focus on the transitions between various levels and collaboration between administration levels
 
-levels and collaboration between administration levels
-
-NAFO is collaborating with selected kindergartens, schools, municipalities and county municipalities in this development work. Examples of the experiences resulting from the project will be made available on the school net , http:/ /skolenettet.no/flerkulturell , and on NAFO's website, www.hio.no/nafo
+NAFO is collaborating with selected kindergartens, schools, municipalities and county municipalities in this development work. Examples of the experiences resulting from the project will be made available on the school net, http://skolenettet.no/flerkulturell, and on NAFO's website, www.hio.no/nafo
 
 Within the model project a pilot project will be carried out in four counties (Hordaland, Møre og Romsdal, Oslo and Rogaland) in which upper secondary schools and adult education institutions will develop models for education of young people with limited schooling in their homeland and only a brief period of residence in Norway. This is described in more detail under measure 20.
 
@@ -715,7 +757,7 @@ The Norwegian Directorate for Education and Training/NAFO/County Governors, kind
 
 ###### Time frame
 
-2007-2009
+2007–2009
 
 ##### Measure 5 Systematic development of kindergartens' and schools' teaching environment and basic values 41
 
@@ -729,7 +771,7 @@ The Norwegian Directorate for Education and Training/County Governors/ kindergar
 
 ###### Time frame
 
-2007-2009
+2007–2009
 
 #### Measure to increase competence in bilingual development and multi-cultural issues among employees in kindergartens
 
@@ -746,7 +788,7 @@ In 2006 funds were made available for competence measures aimed at employees in 
 County Governors/municipalities/NAFO/ university colleges/universities/kindergartens
 
 ###### Time frame
-2007-2009
+2007–2009
 
 #### Measure to improve collaboration between kindergarten and home
 
@@ -789,7 +831,7 @@ A scheme has been established for subsidising development projects in schools wh
 The Norwegian Directorate for Education and Training/NAFO/school owners
 
 ###### Time frame
-2007-2009
+2007–2009
 
 ##### Measure 9 Commence an experiment using mother tongue as the second language
 
@@ -805,9 +847,9 @@ The Norwegian Directorate for Education and Training/NAFO
 
 ###### Time frame
 
-2007-2009
+2007–2009
 
-##### Measure 10 Develop and offer further and continuing learning/second language didactics for levelbased curricula in basic Norwegian
+##### Measure 10 Develop and offer further and continuing learning/second language didactics for level-based curricula in basic Norwegian
 
 ###### Action
 
@@ -831,7 +873,7 @@ The Norwegian Directorate for Education and Training/NAFO/school owners/schools
 
 ###### Time frame
 
-2007-2009
+2007–2009
 
 ##### Measure 11 Develop guideline materials for teachers who teach basic Norwegian
 
@@ -855,7 +897,7 @@ Start of school year 2007
 
 Circular F-003-06 regarding the introduction of the Knowledge Promotion says the following about foreign languages at lower secondary level: 'The school owner should offer foreign language teaching in at least one of the four languages German, French, Spanish or Russian according to the curriculum for foreign languages at Level 1. Other languages may also be offered, including non-European languages, under the same curriculum. The school owner decides which foreign languages the students will be offered and how this should be organised.'
 
-Trials will be commenced in teaching nonEuropean languages at the lower secondary stage or as an early start at the primary stage. The trials include following up on and advising schools, documentation and follow up research, so that as many as possible will be able to benefit from the development work and examples of good practice. Experiences from the trial will be published on the foreign language centre's website and through relevant networks. http://www.fremmedspraksenteret.no/
+Trials will be commenced in teaching non-European languages at the lower secondary stage or as an early start at the primary stage. The trials include following up on and advising schools, documentation and follow up research, so that as many as possible will be able to benefit from the development work and examples of good practice. Experiences from the trial will be published on the foreign language centre's website and through relevant networks. http://www.fremmedspraksenteret.no/
 
 ###### Responsibility
 
@@ -863,7 +905,7 @@ Norwegian Directorate for Education and Training/Norwegian Centre for Foreign La
 
 ###### Time frame
 
-2007-2009
+2007–2009
 
 ##### Measure 13 Assessing and studying pupils'  skills and needs
 
@@ -889,11 +931,11 @@ As part of the assessment and study work, the Directorate
 
 ###### Responsibility
 
-Norwegian Directorate for Education and Training/NAFO Also, for the first point, Bredtvedt and Torshov Competence Centres
+Norwegian Directorate for Education and Training/NAFO Also, for the first point, Bredtvet and Torshov Competence Centres
 
 ###### Time frame
 
-2007-2009
+2007–2009
 
 ##### Measure 14 Help with homework and summer schools during primary and  secondary education and training
 
@@ -915,7 +957,7 @@ Norwegian Directorate for Education and Training/NAFO/school owners/schools/ vol
 
 ###### Time frame
 
-2007-2009
+2007–2009
 
 #### Measure to increase recruitment of linguistic minority teachers at all stages of education
 
@@ -933,7 +975,7 @@ Norwegian Directorate for Education and Training/university colleges/universitie
 
 ###### Time frame
 
-2007-2009
+2007–2009
 
 #### Measure to improve collaboration between school and home
 ##### Measure 16 Collaboration with parents
@@ -950,7 +992,9 @@ A good level of collaboration between school and parents is important for the pa
 
 Based on the project 'Linguistic minority parents - a resource for the teaching of students in schools', we should seek to establish parent networks (linguistic minority resource networks), in more municipalities.
 
-IFUG should take on the informational aspect, in collaboration with NAFO. Materials about parent collaboration in multi-cultural schools, for example FUG's guidelines and brochures which are available in many languages, will be used in this collaboration between home and school. 46 See http:/ /www.foreldrenettet.no. The Ministry proposed in Report to the Storting No. 16 (2006-2007) that templates for parent contracts should be devised.
+FUG should take on the informational aspect, in collaboration with NAFO. Materials about parent collaboration in multi-cultural schools, for example FUG's guidelines and brochures which are available in many languages, will be used in this collaboration between home and school. 46 See http://www.foreldrenettet.no. The Ministry proposed in Report to the Storting No. 16 (2006-2007) that templates for parent contracts should be devised.
+
+> 46 	 	 See FUG's website, www.fug.no.
 
 ###### Responsibility
 
@@ -958,7 +1002,7 @@ Norwegian Directorate for Education and Training/NAFO/FUG
 
 ###### Time frame
 
-2007-2009
+2007–2009
 
 #### Measure to improve the teaching environment and efforts against racism and discrimination
 
@@ -966,9 +1010,7 @@ Norwegian Directorate for Education and Training/NAFO/FUG
 
 ###### Action
 
-Section 9 of the Education Act and the so called the Learning Poster (Læringsplakaten) declare that all students in primary, lower secondary and upper secondary schools have the right to a good physical and psychosocial environment which promotes health, wellbeing and learning. All those who work in schools are obliged to ensure that students are not exposed to assault in the form of offensive words or actions, such as bullying, violence, racism or discrimination. The law gives students and parents a great deal of scope for involvement and the opportunity to complain.
-
-> 46	 	 See FUG's website, www.fug.no.
+Section 9 of the Education Act and the so called the Learning Poster (Læringsplakaten) declare that all students in primary, lower secondary and upper secondary schools have the right to a good physical and psychosocial environment which promotes health, well-being and learning. All those who work in schools are obliged to ensure that students are not exposed to assault in the form of offensive words or actions, such as bullying, violence, racism or discrimination. The law gives students and parents a great deal of scope for involvement and the opportunity to complain.
 
 The Norwegian Directorate for Education and Training will incorporate questions concerning prejudice, discrimination and racism into the Pupil Survey.
 
@@ -978,7 +1020,7 @@ School owners/school administrations/Norwegian Directorate for Education and Tra
 
 ###### Time frame
 
-2007-2009
+2007–2009
 
 ##### Measure 18 Working throughout the school system to develop a teaching environment which promotes subject and social teaching
 
@@ -1002,7 +1044,7 @@ First section: Behavioural Centre at the University of Oslo/Norwegian Directorat
 
 ###### Time frame
 
-2007-2009
+2007–2009
 
 ### Goal 3: 	Increase the proportion of linguistic minority students and apprentices who commence and complete upper secondary education and training
 
@@ -1012,7 +1054,7 @@ First section: Behavioural Centre at the University of Oslo/Norwegian Directorat
 
 ###### Action
 
-As part of the work of counteracting students dropping out of education, it is important to safeguard the multi-cultural perspective in competence development for counsellors in school and instructors in companies. Good advice and special education can counteract the dropout tendency and may be vital to the pupil completing his or her education. Developing competence can also help to give linguistic minority students better access to apprenticehips.
+As part of the work of counteracting students dropping out of education, it is important to safeguard the multi-cultural perspective in competence development for counsellors in school and instructors in companies. Good advice and special education can counteract the dropout tendency and may be vital to the pupil completing his or her education. Developing competence can also help to give linguistic minority students better access to apprenticeships.
 
 The Ministry of Education and Research will propose a change to the Education Act so that the right of linguistic minority students to special Norwegian education in upper secondary schools will be regulated in specific legislation.
 
@@ -1026,7 +1068,7 @@ Norwegian Directorate for Education and Training/NAFO/Ministry of Education/ Cou
 
 ###### Time frame
 
-2007-2009
+2007–2009
 
 #### Measure to develop more flexible and goal-oriented teaching for students with insufficient education and  with brief residence in Norway
 
@@ -1034,7 +1076,7 @@ Norwegian Directorate for Education and Training/NAFO/Ministry of Education/ Cou
 
 ###### Action
 
-Based on NAFO's assessment of what should be offered to linguistic minority young people who come to Norway in late school age, the Norwegian Directorate for Education and Training is working on how to best follow up on this group to ensure that what is being offered is better tailored. The Directorate is therefore implementing a pilot project involving primary and  lower secondary teaching within upper secondary education for linguistic minority young people with a week school background. The project is aimed at developing good models for teaching in partnership between schools and working life, based on experience and experiments Tools for assessing school background are being tested and will be finalised during the course of 2007. The project is also working on improving information about upper secondary education and career choice aimed at linguistic minority young people and their parents, for example through 'Partnership for career guidance' and the recruitment of bilingual teachers as counsellors. This programme should be seen in connection with measure 4 and information will be made available on www.hio.no/nafo
+Based on NAFO's assessment of what should be offered to linguistic minority young people who come to Norway in late school age, the Norwegian Directorate for Education and Training is working on how to best follow up on this group to ensure that what is being offered is better tailored. The Directorate is therefore implementing a pilot project involving primary and lower secondary teaching within upper secondary education for linguistic minority young people with a weak school background. The project is aimed at developing good models for teaching in partnership between schools and working life, based on experience and experiments. Tools for assessing school background are being tested and will be finalised during the course of 2007. The project is also working on improving information about upper secondary education and career choice aimed at linguistic minority young people and their parents, for example through 'Partnership for career guidance' and the recruitment of bilingual teachers as counsellors. This programme should be seen in connection with measure 4 and information will be made available on www.hio.no/nafo
 
 33
 
@@ -1047,7 +1089,7 @@ Based on NAFO's assessment of what should be offered to linguistic minority youn
 Norwegian Directorate for Education and Training/NAFO/Vox/school owners/FUG
 
 ###### Time frame
-2007-2009
+2007–2009
 
 ### Goal 4: 	Increase the proportion of linguistic minority students in higher education and improve opportunities for completing education
 
@@ -1079,7 +1121,7 @@ Ongoing
 
 ###### Action
 
-Nine university colleges are collaborating to offer a three-year-bachelor course for native language teachers and bilingual assistants who need to complete their education so as to achieve the necessary teaching competence to teach more subjects at primary/lower secondary level. The course is partially internet based. Hedmark University College (HiH) is responsible for coordination. In 2005 about 350 started a course within the bachelor studies framework. The studies are put together in such a way that students can achieve general teacher training programmes with a one year supplementary study (http://www.hino. no/). A scholarship scheme has been set up to make it easier financially for linguistic minority teachers to take the formal education which will provide the formal qualifications for teaching in schools.
+Nine university colleges are collaborating to offer a three-year-bachelor course for native language teachers and bilingual assistants who need to complete their education so as to achieve the necessary teaching competence to teach more subjects at primary/lower secondary level. The course is partially internet based. Hedmark University College (HiH) is responsible for coordination. In 2005 about 350 started a course within the bachelor studies framework. The studies are put together in such a way that students can achieve general teacher training programmes with a one year supplementary study (http://www.hino.no/). A scholarship scheme has been set up to make it easier financially for linguistic minority teachers to take the formal education which will provide the formal qualifications for teaching in schools.
 
 ###### Responsibility
 
@@ -1087,7 +1129,7 @@ Universities and university colleges/NAFO/ Ministry of Education and Research
 
 ###### Time frame
 
-2007-2009
+2007–2009
 
 34
 
@@ -1108,9 +1150,9 @@ The goal is that more people with immigrant backgrounds should become administra
 University colleges/Ministry of Education and Research
 
 ###### Time frame
-2007-2009
+2007–2009
 
-#### Measure to strengthen the multicultural perspective in framework and subject plans for teacher training and health and care sevice occupations
+#### Measure to strengthen the multicultural perspective in framework and subject plans for teacher training and health and care service occupations
 
 ##### Measure 24 Framework and subject plans for higher education
 
@@ -1118,7 +1160,7 @@ University colleges/Ministry of Education and Research
 
 When revising framework planning and in the work of the universities and university colleges on subject planning, it is important to bear in mind the multi-cultural perspective and how education can be made suitable to cover the needs of all parts of the population. This applies to the basic education for a number of occupations. The general teacher training programmes  were evaluated in 2006. NOKUT's report shows that the multicultural perspective has only been fully taken up in some of the university colleges, particularly those in the geographical areas with a relatively high concentration of linguistic minority students. The report states that some institutions do not seem aware that multicultural issues affect the whole country and that the recruitment of teachers with an immigrant background is not satisfactory.
 
-The framework plans for the colleges of education depend on a focus on the multicultural. The Ministry of Education and Research has asked the teacher training insitutions to submit an action plan to follow up of the evaluation by March 2007.
+The framework plans for the colleges of education depend on a focus on the multicultural. The Ministry of Education and Research has asked the teacher training institutions to submit an action plan to follow up of the evaluation by March 2007.
 
 ###### Responsibility
 
@@ -1132,7 +1174,7 @@ Ongoing
 
 ###### Action
 
-Universities and university colleges are being urged to develop relevant further and continuing education courses for all those who work with linguistic minorities and to offer courses in collaboration with school owners and others who have defined further and continuing education needs. This applies to occupations in the health and social sector, as well as to kindergartens and schools. The multicultural perspective must be reflected in various opportunities forfurther and continuing education. See the summary of post-qualifying and further education opportunities on http://www.hio.no
+Universities and university colleges are being urged to develop relevant further and continuing education courses for all those who work with linguistic minorities and to offer courses in collaboration with school owners and others who have defined further and continuing education needs. This applies to occupations in the health and social sector, as well as to kindergartens and schools. The multicultural perspective must be reflected in various opportunities for further and continuing education. See the summary of post-qualifying and further education opportunities on http://www.hio.no
 
 ###### Responsibility
 
@@ -1162,7 +1204,7 @@ Ministry of Education and Research/ NOKUT/university colleges/universities
 
 ###### Time frame
 
-2007-2008
+2007–2008
 
 ### Goal 5: 	Improve Norwegian language proficiency among linguistic minority adults to increase opportunities for education and active participation in working life and society
 
@@ -1174,13 +1216,13 @@ Ministry of Education and Research/ NOKUT/university colleges/universities
 
 Vox will seek to enable the best possible implementation of the system concerning adult immigrants' right and obligation to learn Norwegian and social studies by
 
-- collaborating with municipalties s and the Integration and Diversity Directorate (IMDi)
+- collaborating with municipalities and the Integration and Diversity Directorate (IMDi)
 
--developing teaching aids for teaching in social studies
+- developing teaching aids for teaching in social studies
 
--developing materials and templates for use in entrance assessment
+- developing materials and templates for use in entrance assessment
 
--giving information about formulation and use of individual plans for education
+- giving information about formulation and use of individual plans for education
 
 - in collaboration with County Governors, offering competence development opportunities to teachers and managers
 
@@ -1188,16 +1230,16 @@ Information will be made available on http://www.vox.no/
 
 ###### Responsibility
 
-Vox/IMDi/NAFO/County Governors/ municipalitiess
+Vox/IMDi/NAFO/County Governors/municipalities
 
 ###### Time frame
-2007-2009
+2007–2009
 
 ##### Measure 28 Teaching in prisons
 
 ###### Action
 
-A working group chaired by the County Governor of Hordaland has prepared an action plan for following up on Report to the Storting No. 27 (2204-2005). In this regard, guidance material about the scope, methodology and organisation of the teaching will be prepared. The working group is looking particularly at the measures proposed in the Report which are of special relevance to linguistic minority inmates.
+A working group chaired by the County Governor of Hordaland has prepared an action plan for following up on Report to the Storting No. 27 (2004-2005). In this regard, guidance material about the scope, methodology and organisation of the teaching will be prepared. The working group is looking particularly at the measures proposed in the Report which are of special relevance to linguistic minority inmates.
 
 ###### Responsibility
 
@@ -1205,9 +1247,9 @@ County Governor of Hordaland/Norwegian Directorate for Education and Training/ C
 
 ###### Time frame
 
-2007-2009
+2007–2009
 
-#### Measure to ensure that more adult immi grants complete Norwegian education and that they pass the language tests
+#### Measure to ensure that more adult immigrants complete Norwegian education and that they pass the language tests
 
 ##### Measure 29 Developing teacher qualifications
 
@@ -1227,7 +1269,7 @@ Vox/IMDi/AID/NAFO/Ministry of Education and Research
 
 ###### Time frame
 
-2007-2009
+2007–2009
 
 #### Measure to develop more opportunities for teaching Norwegian to parents in connection with their children's school or kindergarten
 
@@ -1244,7 +1286,7 @@ Another model involves adult education institutions collaborating with kindergar
 Vox/NAFO/IMDi/FUG/Norwegian Directorate for Education and Training
 
 ###### Time frame
-2007-2008
+2007–2008
 
 #### Measure to improve information about and strengthen the use of assessment of total qualifications and testing of work related qualifications
 
@@ -1264,7 +1306,7 @@ The programme will:
 
 ###### Responsibility
 
-Vox /IMDi/municipalities/County Municipaltiess/the Social Partners
+Vox /IMDi/municipalities/County Municipalities/the Social Partners
 
 ###### Time frame
 
@@ -1276,7 +1318,7 @@ Ongoing
 
 ###### Action
 
-The Ministry of Education and Researchwill ask the Norwegian Directorate for Education and Training to take the initiative for a review of competence and competence requirements among teachers who educate linguistic minority students in mother tongue teaching, bilingual subject teaching and basic Norwegian in order to assess the competence situation among teachers.
+The Ministry of Education and Research will ask the Norwegian Directorate for Education and Training to take the initiative for a review of competence and competence requirements among teachers who educate linguistic minority students in mother tongue teaching, bilingual subject teaching and basic Norwegian in order to assess the competence situation among teachers.
 
 > 47		 Course material for assessment of actual competence in the counties www.vox.no
 
@@ -1297,7 +1339,7 @@ Ministry of Education and Research/Norwegian Directorate for Education and Train
 
 ###### Action
 
-The Norwegian Directorate for Education and Training will revise and develop the theme of multi-cultural schools on the school net http://skolenettet.no. The Directorate will expand the website, using more languages and building up the collection of examples of special education for linguistic minorities in kindergartens and schools. This website should be seen in connection with other relevant websites, including those of Migranorsk: http://www.migranorsk.no/, NOA-nett: http://noa.cappelen.no/, Bazar: http://www.bazar.deichman.no/, Vox: http://www.vox.no/, NAFO: http://www.hio. no/nafo and FUG http://www.fug.no/
+The Norwegian Directorate for Education and Training will revise and develop the theme of multi-cultural schools on the school net http://skolenettet.no. The Directorate will expand the website, using more languages and building up the collection of examples of special education for linguistic minorities in kindergartens and schools. This website should be seen in connection with other relevant websites, including those of Migranorsk: http://www.migranorsk.no/, NOA-nett: http://noa.cappelen.no/, Bazar: http://www.bazar.deichman.no/, Vox: http://www.vox.no/, NAFO: http://www.hio.no/nafo and FUG http://www.fug.no/
 
 ###### Responsibility
 
@@ -1315,7 +1357,7 @@ The Norwegian Directorate for Education and Training is working towards improvin
 
 -The scheme for subsidising teaching aids for native language teaching, teaching in basic Norwegian, bilingual subject teaching, teaching in native language as a second language and teaching Norwegian and social studies will be continued. The subsidy scheme also applies to digital teaching aids.
 
--The LEXIN-N project of illustrated, webbased dictionaries (also available in paper versions) for linguistic minority pupils will be continued and adapted for other languages. The action plan for teaching aids for linguistic minorities will be revised in spring 2007.
+-The LEXIN-N project of illustrated, web-based dictionaries (also available in paper versions) for linguistic minority pupils will be continued and adapted for other languages. The action plan for teaching aids for linguistic minorities will be revised in spring 2007.
 
 -An initiative will be taken in respect of those who develop teaching aids, to ensure better implementation of the multi-cultural perspective in new teaching aids and to obtain teaching aids which are better tailored to pupils with a linguistic minority background.
 
@@ -1327,13 +1369,13 @@ Norwegian Directorate for Education and Training/Vox/teaching aids producers
 
 ###### Time frame
 
-2007-2009
+2007–2009
 
 ##### Measure 35 Use of literature and school library
 
 ###### Action
 
-A wide selection of books in various languages is important for creating the desire to read among children, young people and adults and for promoting cultural exchange among learning arenas. Deichmanske Library The Multilingual Library http:/ /nyhuus.deich. folkebibl.no/ is the national remote loan centre for literature in minority languages and the guidance and competence centre for library services for linguistic minorities. The library also runs the Bazar website, which is a tailored service for linguistic minorities in Norway. The Norwegian Directorate for Education and Training is aiming to use relevant websites to communicate examples of good collaboration between kindergartens, schools, libraries and homes in the effort to stimulate reading among linguistic minority students. Collaboration with libraries is also included in the development of educational models (see programme 4). Information is being made available on www.hio.no/nafo
+A wide selection of books in various languages is important for creating the desire to read among children, young people and adults and for promoting cultural exchange among learning arenas. Deichmanske Library The Multilingual Library http://nyhuus.deich.folkebibl.no/ is the national remote loan centre for literature in minority languages and the guidance and competence centre for library services for linguistic minorities. The library also runs the Bazar website, which is a tailored service for linguistic minorities in Norway. The Norwegian Directorate for Education and Training is aiming to use relevant websites to communicate examples of good collaboration between kindergartens, schools, libraries and homes in the effort to stimulate reading among linguistic minority students. Collaboration with libraries is also included in the development of educational models (see programme 4). Information is being made available on www.hio.no/nafo
 
 38
 
@@ -1359,7 +1401,7 @@ Norway is participating in a project under the authority of the European Agency 
 
 The Norwegian Directorate for Education and Training and Vox want to encourage schools and adult education institutions to participate in international collaboration - for example in the school development programmes 'Comenius' and 'Grundtvig'. The Norwegian Directorate for Education and Training has the primary responsibility for pursuing collaboration in the Nordic Countries , including the development of the Nordic research database Nordbas.
 
-NAFO is collaborating closely with UC2 Resource Centre for Bilingualism and Interculturalism, CVU, (In Copenhagen) and The National Centre for Swedish as a Second Language (in Stockholm) in organising joint Nordic courses for teachers  within the migrant educational field.
+NAFO is collaborating closely with UC2 - Resource Centre for Bilingualism and Interculturalism, CVU, (In Copenhagen) and The National Centre for Swedish as a Second Language (in Stockholm) in organising joint Nordic courses for teachers within the migrant educational field.
 
 ###### Responsibility
 
@@ -1381,7 +1423,7 @@ Norwegian Directorate for Education and Training/NAFO/Vox/County Governors/ FUG
 
 ###### Time frame
 
-2006-2009
+2006–2009
 
 ##### Measure 38 The committee for school objectives
 
@@ -1415,7 +1457,7 @@ The committee will present its findings by 01.06.2007.
 
 This plan is intended to contribute towards a complete perspective in respect of all efforts, from kindergarten to university college and research, of the individual programmes' connection with each other and of the use of resources and finance. To achieve this we must involve all  parts  of  the  education  system,  parents,  public  authorities and society in general. The plan of measuress is  intended  to  give  results  in  a  range  of  areas  which should together contribute towards the realisation of the five primary goals. A vital part of the effort will be to investigate the achievement of goals in various areas so as to find out what works and to identify good practice.
 
-#### Goal 1: 	Improving language skills among preschool children of linguistic minorities
+#### Goal 1: 	Improving language skills among pre-school children of linguistic minorities
 
 The KOSTRA statistics produced annually by the Central Bureau of Statistics show how many linguistic minority children attend kindergartens. The municipalities also report to KOSTRA how many linguistic minority children receive special language stimulation in nurseries and how the nurseries collaborate with other services. The experiments and projects for children of pre-school age which have been set in motion will also be reported on.
 
@@ -1423,7 +1465,7 @@ The KOSTRA statistics produced annually by the Central Bureau of Statistics show
 
 The national system for quality evaluation, begun in spring 2004, has already been tested for a period (national tests and web based user surveys). Based on experience to date, the system will be improved and extended so as to become a more precise tool for users and decision makers at all levels of the education system.
 
-A new framework for national tests has been laid down and dates for implementation of the tests in 2007 have been decided. The national tests will assess to what extent pupils' skills correspond with the goals of the curriculum for basic skills in reading in Norwegian and English and maths, in the way that  they are integrated into the competence goals for subjects in LK06 48 for 4th and 7th years. The tests will provide information to pupils, parents, teachers, school administrators, school owners, regional authorities and the national level as the basis for improvement and development. The national tests will not provide detailed information about individuals but can still have a pedagogic value. In cases where the tests indicate that further assessment is necessary, it would be natural to use suitable assessment material which could give more detailed information for follow-up and tailoring to individual, group or school level. NAFO is developing tests for assessing reading skills in various languages, specially designed to identify pupils who may have specific difficulties and who should be better considered. These tests will thus help to ensure that education may be better tailored to each individual linguistic minority pupil.
+A new framework for national tests has been laid down and dates for implementation of the tests in 2007 have been decided. The national tests will assess to what extent pupils' skills correspond with the goals of the curriculum for basic skills in reading in Norwegian and English and maths, in the way that they are integrated into the competence goals for subjects in LK06 48 for 4th and 7th years. The tests will provide information to pupils, parents, teachers, school administrators, school owners, regional authorities and the national level as the basis for improvement and development. The national tests will not provide detailed information about individuals but can still have a pedagogic value. In cases where the tests indicate that further assessment is necessary, it would be natural to use
 
 > 48	 	 The curricula in the Knowledge Promotion .
 
@@ -1433,11 +1475,13 @@ A new framework for national tests has been laid down and dates for implementati
 
 [[START OF PAGE 41]]
 
+suitable assessment material which could give more detailed information for follow-up and tailoring to individual, group or school level. NAFO is developing tests for assessing reading skills in various languages, specially designed to identify pupils who may have specific difficulties and who should be better considered. These tests will thus help to ensure that education may be better tailored to each individual linguistic minority pupil.
+
 The internet based user surveys will be used to investigate the opinions of students and apprentices about teaching and well-being in their education. Testing and evaluation of various models for special language teaching, the practice of Norwegian as a second language and basic Norwegian for linguistic minorities, mother tongue teaching and bilingual subject teaching will give important information for future initiatives.
 
 #### Goal 3: 	Increase the proportion of linguistic minority students and apprentices who commence and complete upper secondary education and training
 
-The Central Bureau of Statistics records applications for intake to and extent of completions of upper secondary education and training. By following developments over a period of time it is possible to investigate changes in the degree of completion among linguistic minorities. A broadly composed working group set up by the Ministry of Education and Research submitted a report on the problem of early drop out in 2006 (the Givo Report, Minstry of Education and Research 2006) Countrywide efforts have been to counteract this early dropping out from upper secondary education and training,including a focus on young people from linguistic minorities. These efforts were evaluated in 2006 by SINTEF (The Foundation for Scientific and Industrial Research at the Norwegian Institure of Technology) and they will submit their report in 2007. The report will provide an assessment of which measures work and should therefore be focused on.
+The Central Bureau of Statistics records applications for intake to and extent of completions of upper secondary education and training. By following developments over a period of time it is possible to investigate changes in the degree of completion among linguistic minorities. A broadly composed working group set up by the Ministry of Education and Research submitted a report on the problem of early drop out in 2006 (the Givo Report, Ministry of Education and Research 2006). Countrywide efforts have been to counteract this early dropping out from upper secondary education and training, including a focus on young people from linguistic minorities. These efforts were evaluated in 2006 by SINTEF (The Foundation for Scientific and Industrial Research at the Norwegian Institute of Technology) and they will submit their report in 2007. The report will provide an assessment of which measures work and should therefore be focused on.
 
 In four counties a pilot project is being carried out aimed particularly at students who have not been living in Norway long and whose homeland education is deficient. This project will be evaluated with a view to disseminating details of good models (www.hio.no/nafo).
 
@@ -1488,7 +1532,7 @@ The kindergarten should give children below school age good opportunities for de
 
 (Framework  plan  for  the  kindergarten's  content  and tasks 2006)
 
-#### The County Governore
+#### The County Governor
 
 The County Governor's role is vital at regional level. The County Governor should:
 
@@ -1536,7 +1580,7 @@ The Ministry
 
 -implements policies by means of commissions to the Norwegian Directorate for Education and Training and other bodies
 
--administers the subsidy scheme for measures to improve language understanding among linguistic minority children of preschool age
+-administers the subsidy scheme for measures to improve language understanding among linguistic minority children of pre-school age
 
 #### National Centre for Multi-cultural Education (NAFO)
 NAFO is a national centre for competence development  in  multicultural  kindergartens,  schools  and education. The centre is responsible for building up competence  in  teaching  linguistic minorities in nurseries,  primary  and  secondary  education  and training, adult education and higher education. The centre should:
@@ -1645,18 +1689,24 @@ It  is  also  important to maintain a good level of collaboration with a number 
 
 ## Abbreviations
 
-AID: | Ministry of Labour and Social Inclusion National Parents' Committee for Primary and Lower Secondary | NIR: NOKUT: NOVA: | National Introduction Register The Norwegian Agency for Quality Assurance in Education Norwegian Social Research
---- | --- | --- | ---
-FUG:
-Education
-GSI: | Information System for Primary and Lower Secondary Education | SINTEF
-(NTNU): | Foundation for Scientific and Industrial
-HiO: | Oslo University College | Research at the Norwegian Institute of
-HOD: | Ministry of Health and Care Services: | Technology (NTH)
-IMDi: | Integration and Diversity Directorate | SSB: | Central Bureau of Statistics
-KD: | Ministry of Education and Research | UDI: | Norwegian Directorate of Immigration
-KRD: | Ministry of Local Government and Regional Development | Udir: | Norwegian Directorate for Education and Training
-NAFO: | National Centre for Multi-cultural Education | UiO: Vox: | University of Oslo: National Centre for Learning in Employment
+AID: Ministry of Labour and Social Inclusion
+FUG: National Parents’ Committee for Primary and Lower Secondary Education
+GSI: Information System for Primary and Lower Secondary Education
+HiO: Oslo University College
+HOD: Ministry of Health and Care Services:
+IMDi: Integration and Diversity Directorate
+KD: Ministry of Education and Research
+KRD: Ministry of Local Government and Regional Development
+NAFO: National Centre for Multi-cultural Education
+NIR: National Introduction Register
+NOKUT: The Norwegian Agency for Quality Assurance in Education
+NOVA: Norwegian Social Research
+SINTEF (NTNU): Foundation for Scientific and Industrial Research at the Norwegian Institute of Technology (NTH)
+SSB: Central Bureau of Statistics
+UDI: Norwegian Directorate of Immigration
+Udir: Norwegian Directorate for Education and Training
+UiO: University of Oslo:
+Vox: National Centre for Learning in Employment
 
 45
 
@@ -1714,7 +1764,7 @@ Helland, Håvard and Støren, Liv Anne (2004): Videregående opplæring - progre
 
 Hvistendahl, Rita and Roe, Astrid (2004): The Literacy Achievement of Norwegian Minority Students. Carfax Publishing . Vol. 48, No. 3, pp. 307-324.
 
-Jenner, Håkan (2004): Motivation och motivationsarbete i skola och behandling. Forskning i fokus , 16513460. School Development Authority.
+Jenner, Håkan (2004): Motivation och motivationsarbete i skola och behandling. Forskning i fokus, 1651-3460. School Development Authority.
 
 Kavli, Hanne C. (2006): Med rett til å lære. Det offentlige kvalifiseringsregimet for innvandrere og flyktninger. Integreringskart 2006 . IMDI report 1/2006.
 
@@ -1762,7 +1812,7 @@ Sand, Sigrun and Skoug, Tove (2003): Med Madhia og Akbar fra barnehage til skole
 
 Skjelbred, Dagrun and Aamodtsbakken, Bente (2003): Det flerkulturelle perspektivet i lærebøker og andre læremidler . Final report. Eik: Vestfold University College.
 
-Solheim, Ragnas Gees and Tønnesen, Finn Egil (2003): Hvorfor leser klasser så forskjellig? Centre for Reading Research, Stavanger University College.
+Solheim, Ragnar Gees and Tønnesen, Finn Egil (2003): Hvorfor leser klasser så forskjellig? Centre for Reading Research, Stavanger University College.
 
 SSB 2004. Figures ordered from the Central Bureau of Statistics by the Ministry of Education and Research.
 
@@ -1798,7 +1848,7 @@ Third International Mathematics Study 2003 (TIMSS): Findings From IEA's Trends i
 
 Norwegian Directorate for Education and Training (2004): Utdanningsspeilet 2004 - Analyse av grunnskole og videregående opplæring i Norge.
 
-(2005):Ministry of Education and Research Strategiplanene Gi rom for lesing! Strategi for stimulering av leselyst og leseferdigheter 2003-2007 , April 2005. Web version: http://skolenettet.no/
+Ministry of Education and Research (2005): Strategiplanene Gi rom for lesing! Strategi for stimulering av leselyst og leseferdigheter 2003–2007, April 2005. Web version: http://skolenettet.no/
 
 Viljugrein, Tone (2002): Skole, språk og fengsel. Undervisning av mannlige minoritetsspråklige fanger i fire norske fengsler . Institute for Criminology and Sociological Jurisprudence, Criminology Dept., University of Oslo, National Education Office in Hordaland, 2002.
 
