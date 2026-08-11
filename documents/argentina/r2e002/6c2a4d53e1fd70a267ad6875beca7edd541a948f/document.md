@@ -50,58 +50,58 @@ El Estado Nacional no suscribirá tratados bilaterales o multilaterales  de  lib
 
 ##### FINES Y OBJETIVOS DE LA POLÍTICA EDUCATIVA NACIONAL
 
-###### ARTÍCULO 11.
+###### ARTÍCULO 11.-
 Los fines y objetivos de la política educativa nacional son:
 
-- Asegurar una educación de calidad con igualdad de oportunidades y posibilidades, sin desequilibrios regionales ni inequidades sociales.
+- a) Asegurar una educación de calidad con igualdad de oportunidades y posibilidades, sin desequilibrios regionales ni inequidades sociales.
 
-- Garantizar una educación integral que desarrolle todas las dimensiones de la persona y habilite tanto para el desempeño social y laboral, como para el acceso a estudios superiores.
+- b) Garantizar una educación integral que desarrolle todas las dimensiones de la persona y habilite tanto para el desempeño social y laboral, como para el acceso a estudios superiores.
 
-- Brindar  una  formación  ciudadana  comprometida  con  los  valores  éticos  y democráticos de participación, libertad, solidaridad, resolución pacífica de conflictos, respeto a los derechos humanos, responsabilidad, honestidad, valoración y preservación del patrimonio natural y cultural.
+- c) Brindar una formación ciudadana comprometida con los valores éticos y democráticos de participación, libertad, solidaridad, resolución pacífica de conflictos, respeto a los derechos humanos, responsabilidad, honestidad, valoración y preservación del patrimonio natural y cultural.
 
-- Fortalecer la identidad nacional, basada en el respeto a la diversidad cultural y a las  particularidades  locales,  abierta  a  los  valores  universales  y  a  la  integración regional y latinoamericana.
+- d) Fortalecer la identidad nacional, basada en el respeto a la diversidad cultural y a las particularidades locales, abierta a los valores universales y a la integración regional y latinoamericana.
 
-- Garantizar  la  inclusión  educativa  a  través  de  políticas  universales  y  de estrategias pedagógicas y de asignación de recursos que otorguen prioridad a los sectores más desfavorecidos de la sociedad.
+- e) Garantizar la inclusión educativa a través de políticas universales y de estrategias pedagógicas y de asignación de recursos que otorguen prioridad a los sectores más desfavorecidos de la sociedad.
 
-- Asegurar condiciones de igualdad, respetando las diferencias entre las personas sin admitir discriminación de género ni de ningún otro tipo.
+- f) Asegurar condiciones de igualdad, respetando las diferencias entre las personas sin admitir discriminación de género ni de ningún otro tipo.
 
-- Garantizar, en el ámbito educativo, el respeto a los derechos de los/as niños/as y adolescentes establecidos en la Ley N° 26.061.
+- g) Garantizar, en el ámbito educativo, el respeto a los derechos de los/as niños/as y adolescentes establecidos en la Ley N° 26.061.
 
-- Garantizar  a  todos/as  el  acceso  y  las  condiciones  para  la  permanencia  y  el egreso de los diferentes niveles del sistema educativo, asegurando la gratuidad de los servicios de gestión estatal, en todos los niveles y modalidades.
+- h) Garantizar a todos/as el acceso y las condiciones para la permanencia y el egreso de los diferentes niveles del sistema educativo, asegurando la gratuidad de los servicios de gestión estatal, en todos los niveles y modalidades.
 
-- Asegurar la participación democrática de docentes, familias y estudiantes en las instituciones educativas de todos los niveles.
+- i) Asegurar la participación democrática de docentes, familias y estudiantes en las instituciones educativas de todos los niveles.
 
-- Concebir  la  cultura  del  trabajo  y  del  esfuerzo  individual  y  cooperativo  como principio fundamental de los procesos de enseñanza-aprendizaje.
+- j) Concebir la cultura del trabajo y del esfuerzo individual y cooperativo como principio fundamental de los procesos de enseñanza-aprendizaje.
 
-- Desarrollar  las  capacidades  y  ofrecer  oportunidades  de  estudio  y  aprendizaje necesarias para la educación a lo largo de toda la vida.
+- k) Desarrollar las capacidades y ofrecer oportunidades de estudio y aprendizaje necesarias para la educación a lo largo de toda la vida.
 
-- Fortalecer la centralidad de la lectura y la escritura, como condiciones básicas para la  educación  a  lo  largo  de  toda  la  vida,  la  construcción  de  una  ciudadanía responsable y la libre circulación del conocimiento.
+- l) Fortalecer la centralidad de la lectura y la escritura, como condiciones básicas para la educación a lo largo de toda la vida, la construcción de una ciudadanía responsable y la libre circulación del conocimiento.
 
-- Desarrollar  las  competencias  necesarias  para  el  manejo  de  los  nuevos lenguajes producidos por las tecnologías de la información y la comunicación.
+- m) Desarrollar las competencias necesarias para el manejo de los nuevos lenguajes producidos por las tecnologías de la información y la comunicación.
 
-- Brindar  a  las  personas  con  discapacidades,  temporales  o  permanentes,  una propuesta pedagógica que les permita el máximo desarrollo de sus posibilidades, la integración y el pleno ejercicio de sus derechos.
+- n) Brindar a las personas con discapacidades, temporales o permanentes, una propuesta pedagógica que les permita el máximo desarrollo de sus posibilidades, la integración y el pleno ejercicio de sus derechos.
 
-- ñ)  Asegurar  a  los  pueblos  indígenas  el  respeto  a  su  lengua  y  a  su  identidad cultural,  promoviendo  la  valoración  de  la  multiculturalidad  en  la  formación  de todos/as los/as educandos/as.
+- ñ) Asegurar a los pueblos indígenas el respeto a su lengua y a su identidad cultural, promoviendo la valoración de la multiculturalidad en la formación de todos/as los/as educandos/as.
 
-- Comprometer a los medios masivos de comunicación a asumir mayores grados de responsabilidad ética y social por los contenidos y valores que transmiten.
+- o) Comprometer a los medios masivos de comunicación a asumir mayores grados de responsabilidad ética y social por los contenidos y valores que transmiten.
 
-- Brindar conocimientos y promover valores que fortalezcan la formación integral de una sexualidad  responsable.
+- p) Brindar conocimientos y promover valores que fortalezcan la formación integral de una sexualidad responsable.
 
-- Promover valores y actitudes que fortalezcan las capacidades de las personas para prevenir las adicciones y el uso indebido de drogas.
+- q) Promover valores y actitudes que fortalezcan las capacidades de las personas para prevenir las adicciones y el uso indebido de drogas.
 
-- Brindar  una  formación corporal, motriz y deportiva que favorezca el desarrollo armónico de todos/as los/as educandos/as y su inserción activa en la sociedad.
+- r) Brindar una formación corporal, motriz y deportiva que favorezca el desarrollo armónico de todos/as los/as educandos/as y su inserción activa en la sociedad.
 
-- Promover el aprendizaje de saberes científicos fundamentales para comprender y participar reflexivamente en la sociedad contemporánea.
+- s) Promover el aprendizaje de saberes científicos fundamentales para comprender y participar reflexivamente en la sociedad contemporánea.
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-- Brindar una formación que estimule la creatividad, el gusto y la comprensión de las distintas manifestaciones del arte y la cultura.
+- t) Brindar una formación que estimule la creatividad, el gusto y la comprensión de las distintas manifestaciones del arte y la cultura.
 
-- Coordinar  las  políticas  de  educación,  ciencia  y  tecnología  con  las  de  cultura, salud, trabajo, desarrollo social, deportes y comunicaciones, para atender integralmente  las  necesidades  de  la  población,  aprovechando  al  máximo  los recursos estatales, sociales y comunitarios.
+- u) Coordinar las políticas de educación, ciencia y tecnología con las de cultura, salud, trabajo, desarrollo social, deportes y comunicaciones, para atender integralmente las necesidades de la población, aprovechando al máximo los recursos estatales, sociales y comunitarios.
 
-- Promover  en  todos  los  niveles  educativos  y  modalidades  la  comprensión  del concepto de eliminación de todas las formas de discriminación.
+- v) Promover en todos los niveles educativos y modalidades la comprensión del concepto de eliminación de todas las formas de discriminación.
 
 ## TITULO II
 
@@ -126,14 +126,18 @@ El Sistema Educativo Nacional tendrá una estructura unificada en todo  el  paí
 ###### ARTÍCULO 16 .-
 La  obligatoriedad  escolar  en  todo  el  país  se  extiende  desde  la edad de cinco (5) años hasta la finalización del nivel de la Educación Secundaria. El Ministerio de Educación, Ciencia y Tecnología y las autoridades jurisdiccionales competentes asegurarán el cumplimiento de la obligatoriedad escolar a través de alternativas  institucionales,  pedagógicas  y  de  promoción  de  derechos,  que  se ajusten a los requerimientos locales y comunitarios, urbanos y rurales, mediante acciones que permitan alcanzar resultados de calidad equivalente en todo el país y en todas las situaciones sociales.
 
-###### ARTÍCULO 17.
-La estructura del Sistema Educativo Nacional comprende cuatro (4) niveles -la Educación Inicial, la Educación Primaria, la Educación Secundaria y la Educación Superior-, y ocho (8) modalidades.
+###### ARTÍCULO 17.-
+La estructura del Sistema Educativo Nacional comprende cuatro (4) niveles –la Educación Inicial, la Educación Primaria, la Educación Secundaria y la Educación Superior-, y ocho (8) modalidades.
 
-A los efectos de la presente ley, constituyen modalidades del Sistema Educativo Nacional aquellas opciones organizativas y/o curriculares de la educación común, dentro de uno o más  niveles educativos, que procuran dar respuesta a requerimientos  específicos  de  formación  y  atender  particularidades  de  carácter permanente  o temporal, personales y/o contextuales, con el propósito de garantizar la igualdad en el derecho a la educación y cumplir con las exigencias legales, técnicas y pedagógicas  de  los diferentes niveles educativos.  Son modalidades: la Educación Técnico Profesional, la Educación Artística, la Educación Especial, la Educación Permanente de Jóvenes y Adultos, la Educación Rural, la Educación Intercultural Bilingüe, la Educación en Contextos de Privación de Libertad y la Educación Domiciliaria y Hospitalaria. Las jurisdicciones podrán definir, con carácter excepcional, otras modalidades de la educación común, cuando requerimientos específicos de carácter permanente y contextual así lo justifiquen.
+A los efectos de la presente ley, constituyen modalidades del Sistema Educativo Nacional aquellas opciones organizativas y/o curriculares de la educación común, dentro de uno o más niveles educativos, que procuran dar respuesta a requerimientos específicos de formación y atender particularidades de carácter permanente o temporal, personales y/o contextuales, con el propósito de garantizar la igualdad en el derecho a la educación y cumplir con las exigencias legales, técnicas y pedagógicas de los diferentes niveles educativos. Son modalidades: la Educación Técnico Profesional, la Educación Artística, la
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+Educación Especial, la Educación Permanente de Jóvenes y Adultos, la Educación Rural, la Educación Intercultural Bilingüe, la Educación en Contextos de Privación de Libertad y la Educación Domiciliaria y Hospitalaria.
+
+Las jurisdicciones podrán definir, con carácter excepcional, otras modalidades de la educación común, cuando requerimientos específicos de carácter permanente y contextual así lo justifiquen.
 
 #### CAPÍTULO II
 
@@ -149,55 +153,61 @@ El  Estado  Nacional,  las  Provincias  y  la  Ciudad  Autónoma  de Buenos Aire
 
 Son objetivos de la Educación Inicial:
 
-- Promover el aprendizaje y desarrollo de los/as niños/as de cuarenta y cinco (45) días  a  cinco  (5)  años  de  edad  inclusive,  como  sujetos  de  derechos  y  partícipes activos/as de un proceso de formación integral, miembros de una familia y de una comunidad.
+- a) Promover el aprendizaje y desarrollo de los/as niños/as de cuarenta y cinco (45) días a cinco (5) años de edad inclusive, como sujetos de derechos y partícipes activos/as de un proceso de formación integral, miembros de una familia y de una comunidad.
 
-- Promover  en  los/as  niños/as  la  solidaridad,  confianza,  cuidado,  amistad  y respeto a sí mismo y a los/as otros/as.
+- b) Promover en los/as niños/as la solidaridad, confianza, cuidado, amistad y respeto a sí mismo y a los/as otros/as.
 
-- Desarrollar  su  capacidad  creativa  y  el  placer  por  el  conocimiento  en  las experiencias de aprendizaje.
+- c) Desarrollar su capacidad creativa y el placer por el conocimiento en las experiencias de aprendizaje.
 
-- Promover  el  juego  como  contenido  de  alto  valor  cultural  para  el  desarrollo cognitivo, afectivo, ético, estético, motor y social.
+- d) Promover el juego como contenido de alto valor cultural para el desarrollo cognitivo, afectivo, ético, estético, motor y social.
 
-- Desarrollar la capacidad de expresión y comunicación a través de los distintos lenguajes, verbales y no verbales: el movimiento, la música, la expresión plástica y la literatura.
+- e) Desarrollar la capacidad de expresión y comunicación a través de los distintos lenguajes, verbales y no verbales: el movimiento, la música, la expresión plástica y la literatura.
 
-- Favorecer la formación corporal y motriz a través de la educación física.
+- f) Favorecer la formación corporal y motriz a través de la educación física.
 
-- Propiciar  la  participación  de  las  familias  en  el  cuidado  y  la  tarea  educativa promoviendo la comunicación y el respeto mutuo.
+- g) Propiciar la participación de las familias en el cuidado y la tarea educativa promoviendo la comunicación y el respeto mutuo.
 
-- Atender  a  las  desigualdades  educativas  de  origen  social  y  familiar  para favorecer  una  integración  plena  de  todos/as  los/as  niños/as  en  el  sistema educativo.
+- h) Atender a las desigualdades educativas de origen social y familiar para favorecer una integración plena de todos/as los/as niños/as en el sistema educativo.
 
-- Prevenir y atender necesidades especiales y dificultades de aprendizaje.
+- i) Prevenir y atender necesidades especiales y dificultades de aprendizaje.
 
-###### ARTÍCULO  21 .-
-El  Estado  Nacional,  las  Provincias  y  la  Ciudad  Autónoma  de Buenos Aires tienen la responsabilidad de:
+###### ARTÍCULO 21.-
+El Estado Nacional, las Provincias y la Ciudad Autónoma de Buenos Aires tienen la responsabilidad de:
 
-- Expandir los servicios de Educación Inicial.
+- a) Expandir los servicios de Educación Inicial.
 
-- Promover  y  facilitar  la  participación  de  las  familias  en  el  desarrollo  de  las acciones destinadas al cuidado y educación de sus hijos/as.
+- b) Promover y facilitar la participación de las familias en el desarrollo de las acciones destinadas al cuidado y educación de sus hijos/as.
 
-- Asegurar el acceso y la permanencia  con igualdad de oportunidades, atendiendo especialmente a los sectores menos favorecidos de la población.
+- c) Asegurar el acceso y la permanencia con igualdad de oportunidades, atendiendo especialmente a los sectores menos favorecidos de la población.
 
-- Regular,  controlar  y  supervisar  el  funcionamiento  de  las  instituciones  con  el objetivo  de  asegurar  la  atención,  el  cuidado  y  la  educación  integral  de  los/as niños/as.
+- d) Regular, controlar y supervisar el funcionamiento de las instituciones con el objetivo de asegurar la atención, el cuidado y la educación integral de los/as niños/as.
 
-###### ARTÍCULO 22.
-Se crearán en los ámbitos nacional, provinciales y de la Ciudad Autónoma de Buenos Aires mecanismos para la articulación y/o gestión asociada entre los organismos gubernamentales, especialmente con el área responsable de la niñez y familia del Ministerio de Desarrollo Social y con el Ministerio de Salud, a fin de garantizar el cumplimiento de los derechos de los/as niños/as establecidos en la Ley N° 26.061. Tras el mismo objetivo y en función de las particularidades locales  o  comunitarias,  se  implementarán otras  estrategias  de  desarrollo  infantil, con  la  articulación  y/o  gestión  asociada  de  las  áreas  gubernamentales  de desarrollo social, salud y educación, en el ámbito de la educación no formal, para atender integralmente a los/as niños/as entre los cuarenta y cinco (45) días y los dos (2) años de edad, con participación de las familias y otros actores sociales.
+###### ARTÍCULO 22.-
+Se crearán en los ámbitos nacional, provinciales y de la Ciudad Autónoma de Buenos Aires mecanismos para la articulación y/o gestión asociada entre los organismos gubernamentales, especialmente con el área responsable de la niñez y familia del Ministerio de Desarrollo Social y con el Ministerio de Salud, a fin de garantizar el cumplimiento de los derechos de los/as niños/as establecidos en la Ley N° 26.061. Tras el mismo objetivo y en función de las particularidades locales o comunitarias, se implementarán otras estrategias de desarrollo infantil,
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-###### ARTÍCULO  23.
-Están  comprendidas  en  la  presente  ley  las  instituciones  que brinden Educación Inicial: a)  de  gestión  estatal,  pertenecientes  tanto  a  los  órganos  de  gobierno  de  la educación como a otros organismos gubernamentales. b)  de  gestión  privada  y/o  pertenecientes  a  organizaciones  sin  fines  de  lucro, sociedades civiles, gremios, sindicatos, cooperativas, organizaciones no gubernamentales, organizaciones barriales, comunitarias y otros.
+con la articulación y/o gestión asociada de las áreas gubernamentales de desarrollo social, salud y educación, en el ámbito de la educación no formal, para atender integralmente a los/as niños/as entre los cuarenta y cinco (45) días y los dos (2) años de edad, con participación de las familias y otros actores sociales.
 
-###### ARTÍCULO  24.
-La  organización  de  la  Educación  Inicial  tendrá  las  siguientes características:
+###### ARTÍCULO 23.-
+Están comprendidas en la presente ley las instituciones que brinden Educación Inicial:
 
-- Los Jardines Maternales atenderán a los/as niños/as desde los cuarenta y cinco (45) días a los dos (2) años de edad inclusive y los Jardines de Infantes a los/as niños/as desde los tres (3) a los cinco (5) años de edad inclusive.
+- a) de gestión estatal, pertenecientes tanto a los órganos de gobierno de la educación como a otros organismos gubernamentales.
 
-- En  función  de  las  características  del  contexto  se  reconocen  otras  formas organizativas  del  nivel  para  la  atención  educativa  de  los/as  niños/as  entre  los cuarenta  y  cinco  (45)  días  y  los  cinco  (5)  años,  como  salas  multiedades  o plurisalas en contextos rurales o urbanos, salas de juego y otras modalidades que pudieran conformarse, según lo establezca la reglamentación de la presente ley.
+- b) de gestión privada y/o pertenecientes a organizaciones sin fines de lucro, sociedades civiles, gremios, sindicatos, cooperativas, organizaciones no gubernamentales, organizaciones barriales, comunitarias y otros.
 
-- La  cantidad  de  secciones,  cobertura  de  edades,  extensión  de  la  jornada  y servicios  complementarios  de  salud  y  alimentación,  serán  determinados  por  las disposiciones reglamentarias, que respondan a las necesidades de los/as niños/as y sus familias.
+###### ARTÍCULO 24.-
+La organización de la Educación Inicial tendrá las siguientes características:
 
-- Las  certificaciones  de  cumplimiento  de  la  Educación  Inicial  obligatoria  en cualesquiera  de  las  formas  organizativas  reconocidas  y  supervisadas  por  las autoridades educativas, tendrán plena validez para la inscripción en la Educación Primaria.
+- a) Los Jardines Maternales atenderán a los/as niños/as desde los cuarenta y cinco (45) días a los dos (2) años de edad inclusive y los Jardines de Infantes a los/as niños/as desde los tres (3) a los cinco (5) años de edad inclusive.
+
+- b) En función de las características del contexto se reconocen otras formas organizativas del nivel para la atención educativa de los/as niños/as entre los cuarenta y cinco (45) días y los cinco (5) años, como salas multiedades o plurisalas en contextos rurales o urbanos, salas de juego y otras modalidades que pudieran conformarse, según lo establezca la reglamentación de la presente ley.
+
+- c) La cantidad de secciones, cobertura de edades, extensión de la jornada y servicios complementarios de salud y alimentación, serán determinados por las disposiciones reglamentarias, que respondan a las necesidades de los/as niños/as y sus familias.
+
+- d) Las certificaciones de cumplimiento de la Educación Inicial obligatoria en cualesquiera de las formas organizativas reconocidas y supervisadas por las autoridades educativas, tendrán plena validez para la inscripción en la Educación Primaria.
 
 ###### ARTÍCULO 25.
 Las actividades pedagógicas realizadas en el nivel de Educación Inicial  estarán  a  cargo  de  personal  docente  titulado,  conforme  lo  establezca  la normativa  vigente  en  cada  jurisdicción.  Dichas  actividades  pedagógicas  serán supervisadas  por  las  autoridades  educativas  de  las  Provincias  y  de  la  Ciudad Autónoma de Buenos Aires.
@@ -209,36 +219,36 @@ Las actividades pedagógicas realizadas en el nivel de Educación Inicial  estar
 ###### ARTÍCULO  26.
 La  Educación  Primaria  es  obligatoria  y  constituye  una  unidad pedagógica y organizativa destinada a la formación de los/as niños/as a partir de los seis (6) años de edad.
 
-###### ARTÍCULO  27.
-La  Educación  Primaria  tiene  por  finalidad  proporcionar  una formación integral, básica y común y sus objetivos son:
+###### ARTÍCULO 27.-
+La Educación Primaria tiene por finalidad proporcionar una formación integral, básica y común y sus objetivos son:
 
-- Garantizar  a  todos/as  los/as  niños/as  el  acceso  a  un  conjunto  de  saberes comunes que les permitan participar de manera plena y acorde a su edad en la vida familiar, escolar y comunitaria.
+- a) Garantizar a todos/as los/as niños/as el acceso a un conjunto de saberes comunes que les permitan participar de manera plena y acorde a su edad en la vida familiar, escolar y comunitaria.
 
-- Ofrecer las condiciones necesarias para un desarrollo integral de la infancia en todas sus dimensiones.
+- b) Ofrecer las condiciones necesarias para un desarrollo integral de la infancia en todas sus dimensiones.
 
-- Brindar oportunidades equitativas a todos/as los/as niños/as para el aprendizaje de saberes significativos en los diversos campos del conocimiento, en especial la lengua  y  la  comunicación,  las  ciencias  sociales,  la  matemática,  las  ciencias naturales  y  el  medio  ambiente,  las  lenguas  extranjeras,  el  arte  y  la  cultura  y  la capacidad de aplicarlos en situaciones de la vida cotidiana.
+- c) Brindar oportunidades equitativas a todos/as los/as niños/as para el aprendizaje de saberes significativos en los diversos campos del conocimiento, en especial la lengua y la comunicación, las ciencias sociales, la matemática, las ciencias naturales y el medio ambiente, las lenguas extranjeras, el arte y la cultura y la capacidad de aplicarlos en situaciones de la vida cotidiana.
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-- Generar las condiciones pedagógicas para el manejo de las nuevas tecnologías de  la  información  y  la  comunicación,  así  como  para  la  producción  y  recepción crítica de los discursos mediáticos.
+- d) Generar las condiciones pedagógicas para el manejo de las nuevas tecnologías de la información y la comunicación, así como para la producción y recepción crítica de los discursos mediáticos.
 
-- Promover el desarrollo de una actitud de esfuerzo, trabajo y responsabilidad en el estudio y de curiosidad e interés por el aprendizaje, fortaleciendo la confianza en las propias posibilidades de aprender.
+- e) Promover el desarrollo de una actitud de esfuerzo, trabajo y responsabilidad en el estudio y de curiosidad e interés por el aprendizaje, fortaleciendo la confianza en las propias posibilidades de aprender.
 
-- Desarrollar la iniciativa individual y el trabajo en equipo y hábitos de convivencia solidaria y cooperación.
+- f) Desarrollar la iniciativa individual y el trabajo en equipo y hábitos de convivencia solidaria y cooperación.
 
-- Fomentar el desarrollo de la creatividad y la expresión, el placer estético y la comprensión, conocimiento y valoración de las distintas manifestaciones del arte y la cultura.
+- g) Fomentar el desarrollo de la creatividad y la expresión, el placer estético y la comprensión, conocimiento y valoración de las distintas manifestaciones del arte y la cultura.
 
-- Brindar  una  formación  ética  que  habilite  para  el  ejercicio  de  una  ciudadanía responsable y permita asumir los valores  de libertad,  paz,  solidaridad,  igualdad, respeto a la diversidad, justicia, responsabilidad y bien común.
+- h) Brindar una formación ética que habilite para el ejercicio de una ciudadanía responsable y permita asumir los valores de libertad, paz, solidaridad, igualdad, respeto a la diversidad, justicia, responsabilidad y bien común.
 
-- Ofrecer los conocimientos y las estrategias cognitivas necesarias para continuar los estudios en la Educación Secundaria.
+- i) Ofrecer los conocimientos y las estrategias cognitivas necesarias para continuar los estudios en la Educación Secundaria.
 
-- Brindar  oportunidades  para  una  educación  física  que  promueva  la  formación corporal y motriz y consolide el desarrollo armónico de todos/as los/as niños/as.
+- j) Brindar oportunidades para una educación física que promueva la formación corporal y motriz y consolide el desarrollo armónico de todos/as los/as niños/as.
 
-- Promover  el  juego  como  actividad  necesaria  para  el  desarrollo  cognitivo, afectivo, ético, estético, motor y social.
+- k) Promover el juego como actividad necesaria para el desarrollo cognitivo, afectivo, ético, estético, motor y social.
 
-- Promover el conocimiento y los valores que permitan el desarrollo de actitudes de protección y cuidado del patrimonio cultural y el medio ambiente.
+- l) Promover el conocimiento y los valores que permitan el desarrollo de actitudes de protección y cuidado del patrimonio cultural y el medio ambiente.
 
 ###### ARTÍCULO 28.
 Las  escuelas  primarias  serán  de  jornada  extendida  o  completa con la finalidad de asegurar el logro de los objetivos fijados para este nivel por la presente ley.
@@ -250,54 +260,54 @@ Las  escuelas  primarias  serán  de  jornada  extendida  o  completa con la fin
 ###### ARTÍCULO 29.
 La Educación Secundaria es obligatoria y constituye una unidad pedagógica y organizativa destinada a los/as adolescentes y jóvenes que hayan cumplido con el nivel de Educación Primaria.
 
-###### ARTÍCULO  30.
+###### ARTÍCULO 30.-
 La Educación Secundaria en todas sus modalidades y orientaciones tiene la finalidad de habilitar a los/las adolescentes y jóvenes para el ejercicio pleno de la ciudadanía, para el trabajo y para la continuación de estudios. Son sus objetivos:
 
-- Brindar  una  formación  ética  que  permita  a  los/as  estudiantes  desempeñarse como  sujetos  conscientes  de  sus  derechos  y  obligaciones,  que  practican  el pluralismo, la cooperación y la solidaridad, que respetan los derechos humanos, rechazan  todo  tipo de  discriminación, se preparan  para  el ejercicio de  la ciudadanía democrática y preservan el patrimonio natural y cultural.
+- a) Brindar una formación ética que permita a los/as estudiantes desempeñarse como sujetos conscientes de sus derechos y obligaciones, que practican el pluralismo, la cooperación y la solidaridad, que respetan los derechos humanos, rechazan todo tipo de discriminación, se preparan para el ejercicio de la ciudadanía democrática y preservan el patrimonio natural y cultural.
 
-- Formar  sujetos  responsables,  que  sean  capaces  de  utilizar  el  conocimiento como herramienta para comprender y transformar  constructivamente  su  entorno social, económico, ambiental y cultural, y de situarse como participantes activos/as en un mundo en permanente cambio.
+- b) Formar sujetos responsables, que sean capaces de utilizar el conocimiento como herramienta para comprender y transformar constructivamente su entorno social, económico, ambiental y cultural, y de situarse como participantes activos/as en un mundo en permanente cambio.
 
-- Desarrollar  y  consolidar  en  cada  estudiante  las  capacidades  de  estudio, aprendizaje  e  investigación,  de  trabajo  individual  y  en  equipo,  de  esfuerzo, iniciativa y responsabilidad, como condiciones necesarias para el acceso al mundo laboral, los estudios superiores y la educación a lo largo de toda la vida.
+- c) Desarrollar y consolidar en cada estudiante las capacidades de estudio, aprendizaje e investigación, de trabajo individual y en equipo, de esfuerzo, iniciativa y responsabilidad, como condiciones necesarias para el acceso al mundo laboral, los estudios superiores y la educación a lo largo de toda la vida.
 
-- Desarrollar  las  competencias  lingüísticas,  orales  y  escritas  de  la  lengua española y comprender y expresarse en una lengua extranjera.
+- d) Desarrollar las competencias lingüísticas, orales y escritas de la lengua española y comprender y expresarse en una lengua extranjera.
 
-- Promover  el  acceso  al  conocimiento  como  saber  integrado,  a  través  de  las distintas  áreas  y  disciplinas  que  lo  constituyen  y  a  sus  principales  problemas, contenidos y métodos.
+- e) Promover el acceso al conocimiento como saber integrado, a través de las distintas áreas y disciplinas que lo constituyen y a sus principales problemas, contenidos y métodos.
 
-- Desarrollar  las  capacidades  necesarias  para  la  comprensión  y  utilización inteligente  y  crítica  de  los  nuevos  lenguajes  producidos  en  el  campo  de  las tecnologías de la información y la comunicación.
+- f) Desarrollar las capacidades necesarias para la comprensión y utilización inteligente y crítica de los nuevos lenguajes producidos en el campo de las tecnologías de la información y la comunicación.
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-- Vincular a los/as estudiantes con el mundo del trabajo, la producción, la ciencia y la tecnología.
+- g) Vincular a los/as estudiantes con el mundo del trabajo, la producción, la ciencia y la tecnología.
 
-- Desarrollar procesos de orientación vocacional a fin de permitir una adecuada elección profesional y ocupacional de los/as estudiantes.
+- h) Desarrollar procesos de orientación vocacional a fin de permitir una adecuada elección profesional y ocupacional de los/as estudiantes.
 
-- Estimular  la  creación  artística,  la libre  expresión,  el  placer  estético  y  la comprensión de las distintas manifestaciones de la cultura.
+- i) Estimular la creación artística, la libre expresión, el placer estético y la comprensión de las distintas manifestaciones de la cultura.
 
-- Promover la formación corporal y motriz a través de una educación física acorde con los requerimientos del proceso de desarrollo integral de los adolescentes.
+- j) Promover la formación corporal y motriz a través de una educación física acorde con los requerimientos del proceso de desarrollo integral de los adolescentes.
 
 ###### ARTÍCULO 31.
 La Educación Secundaria se divide en dos (2) ciclos: un (1) Ciclo Básico, de carácter común a todas las orientaciones y un (1) Ciclo Orientado, de carácter diversificado según distintas áreas del conocimiento, del mundo social y del trabajo.
 
-###### ARTÍCULO  32.
-El Consejo  Federal  de  Educación  fijará las disposiciones necesarias para que las distintas jurisdicciones garanticen:
+###### ARTÍCULO 32.-
+El Consejo Federal de Educación fijará las disposiciones necesarias para que las distintas jurisdicciones garanticen:
 
-- La revisión de la estructura curricular de la Educación Secundaria, con el objeto de  actualizarla  y  establecer  criterios  organizativos  y  pedagógicos  comunes  y núcleos de aprendizaje prioritarios a nivel nacional.
+- a) La revisión de la estructura curricular de la Educación Secundaria, con el objeto de actualizarla y establecer criterios organizativos y pedagógicos comunes y núcleos de aprendizaje prioritarios a nivel nacional.
 
-- Las alternativas de acompañamiento de la trayectoria escolar de los/as jóvenes, tales  como  tutores/as  y  coordinadores/as  de  curso,  fortaleciendo  el  proceso educativo individual y/o grupal de los/as alumnos/as.
+- b) Las alternativas de acompañamiento de la trayectoria escolar de los/as jóvenes, tales como tutores/as y coordinadores/as de curso, fortaleciendo el proceso educativo individual y/o grupal de los/as alumnos/as.
 
-- Un mínimo de veinticinco (25) horas reloj de clase semanales.
+- c) Un mínimo de veinticinco (25) horas reloj de clase semanales.
 
-- La  discusión  en  convenciones  colectivas  de  trabajo  de  mecanismos  de concentración de horas cátedra o cargos de los/as profesores/as, con el objeto de constituir equipos docentes más estables en cada institución.
+- d) La discusión en convenciones colectivas de trabajo de mecanismos de concentración de horas cátedra o cargos de los/as profesores/as, con el objeto de constituir equipos docentes más estables en cada institución.
 
-- La  creación  de  espacios  extracurriculares,  fuera  de  los  días  y  horarios  de actividad escolar, para el conjunto de los/as estudiantes y jóvenes  de  la comunidad, orientados  al  desarrollo  de  actividades  ligadas  al  arte,  la  educación física  y  deportiva,  la  recreación,  la  vida  en  la  naturaleza,  la  acción  solidaria  y  la apropiación crítica de las distintas manifestaciones de la ciencia y la cultura.
+- e) La creación de espacios extracurriculares, fuera de los días y horarios de actividad escolar, para el conjunto de los/as estudiantes y jóvenes de la comunidad, orientados al desarrollo de actividades ligadas al arte, la educación física y deportiva, la recreación, la vida en la naturaleza, la acción solidaria y la apropiación crítica de las distintas manifestaciones de la ciencia y la cultura.
 
-- La inclusión de adolescentes y jóvenes no escolarizados en espacios escolares no formales como tránsito hacia procesos de reinserción escolar plena.
+- f) La inclusión de adolescentes y jóvenes no escolarizados en espacios escolares no formales como tránsito hacia procesos de reinserción escolar plena.
 
-- El  intercambio  de  estudiantes  de  diferentes  ámbitos  y  contextos,  así  como  la organización de actividades de voluntariado juvenil y proyectos educativos solidarios,  para  cooperar  en  el  desarrollo  comunitario,  en  el  marco  del  proyecto educativo institucional.
+- g) El intercambio de estudiantes de diferentes ámbitos y contextos, así como la organización de actividades de voluntariado juvenil y proyectos educativos solidarios, para cooperar en el desarrollo comunitario, en el marco del proyecto educativo institucional.
 
-- La atención psicológica, psicopedagógica y médica de aquellos adolescentes y jóvenes que la necesiten, a través de la conformación de gabinetes interdisciplinarios  en  las  escuelas  y  la  articulación  intersectorial  con  las  distintas áreas gubernamentales de políticas sociales y otras que se consideren pertinentes.
+- h) La atención psicológica, psicopedagógica y médica de aquellos adolescentes y jóvenes que la necesiten, a través de la conformación de gabinetes interdisciplinarios en las escuelas y la articulación intersectorial con las distintas áreas gubernamentales de políticas sociales y otras que se consideren pertinentes.
 
 ###### ARTÍCULO 33.
 Las autoridades jurisdiccionales propiciarán la vinculación de las escuelas secundarias con el mundo de la producción y el trabajo. En este marco, podrán  realizar  prácticas  educativas  en  las  escuelas,  empresas,  organismos estatales,  organizaciones  culturales  y  organizaciones  de  la  sociedad  civil,  que permitan a los/as alumnos/as el manejo de tecnologías o brinden una experiencia adecuada  a  su  formación  y  orientación  vocacional.  En  todos  los  casos  estas prácticas  tendrán  carácter  educativo  y  no  podrán  generar  ni  reemplazar  ningún vínculo  contractual  o  relación  laboral.  Podrán  participar  de  dichas  actividades los/as  alumnos/as  de  todas  las  modalidades  y  orientaciones  de  la  Educación Secundaria, mayores de dieciséis (16) años de edad, durante el período lectivo, por un período no mayor a seis (6) meses, con el acompañamiento de docentes y/o  autoridades  pedagógicas  designadas  a  tal  fin.  En  el  caso  de  las  escuelas técnicas  y  agrotécnicas,  la  vinculación  de  estas  instituciones  con  el  sector productivo se realizará en conformidad con lo dispuesto por los artículos 15 y 16 de la Ley N° 26.058.
@@ -310,12 +320,12 @@ Las autoridades jurisdiccionales propiciarán la vinculación de las escuelas se
 
 ##### EDUCACIÓN SUPERIOR
 
-###### ARTÍCULO 34.
+###### ARTÍCULO 34.-
 La Educación Superior comprende:
 
-- Universidades  e  Institutos  Universitarios,  estatales  o  privados  autorizados,  en concordancia con la denominación establecida en la Ley N° 24.521.
+- a) Universidades e Institutos Universitarios, estatales o privados autorizados, en concordancia con la denominación establecida en la Ley N° 24.521.
 
-- Institutos  de  Educación  Superior  de  jurisdicción  nacional,  provincial  o  de  la Ciudad Autónoma de Buenos Aires, de gestión estatal o privada.
+- b) Institutos de Educación Superior de jurisdicción nacional, provincial o de la Ciudad Autónoma de Buenos Aires, de gestión estatal o privada.
 
 ###### ARTÍCULO 35.
 La  Educación  Superior  será  regulada  por  la  Ley  de  Educación Superior Nº 24.521, la Ley de Educación Técnico Profesional N° 26.058 y por las disposiciones de la presente ley en lo que respecta a los Institutos de Educación Superior.
@@ -339,14 +349,14 @@ Esta  modalidad  se  implementa  en  las  instituciones  de  gestión  estatal  
 
 ##### EDUCACIÓN ARTÍSTICA
 
-###### ARTÍCULO 39.
+###### ARTÍCULO 39.-
 La Educación Artística comprende:
 
-- La formación en distintos lenguajes artísticos para niños/as y adolescentes, en todos los niveles y modalidades.
+- a) La formación en distintos lenguajes artísticos para niños/as y adolescentes, en todos los niveles y modalidades.
 
-- La modalidad artística orientada a la formación específica de Nivel Secundario para aquellos/as alumnos/as que opten por seguirla.
+- b) La modalidad artística orientada a la formación específica de Nivel Secundario para aquellos/as alumnos/as que opten por seguirla.
 
-- La  formación  artística  impartida  en  los  Institutos  de  Educación  Superior,  que comprende los profesorados en los diversos lenguajes artísticos para los distintos niveles de enseñanza y las carreras artísticas específicas.
+- c) La formación artística impartida en los Institutos de Educación Superior, que comprende los profesorados en los diversos lenguajes artísticos para los distintos niveles de enseñanza y las carreras artísticas específicas.
 
 ###### ARTÍCULO 40.
 El Ministerio de Educación, Ciencia y Tecnología, las Provincias y la  Ciudad  Autónoma  de  Buenos  Aires  garantizarán  una  educación  artística  de calidad  para  todos/as  los/as  alumnos/as  del  Sistema  Educativo,  que  fomente  y desarrolle la sensibilidad y la capacidad creativa de cada persona, en un marco de valoración y protección del patrimonio natural y cultural, material y simbólico de las diversas comunidades que integran la Nación.
@@ -368,18 +378,18 @@ La  Educación  Especial  es  la  modalidad  del  sistema  educativo destinada a
 ###### ARTÍCULO  43.
 Las  Provincias  y  la  Ciudad  Autónoma  de  Buenos  Aires,  en  el marco  de  la  articulación  de  niveles  de  gestión  y  funciones  de  los  organismos competentes para la aplicación de la Ley N° 26.061, establecerán los procedimientos  y  recursos  correspondientes  para  identificar  tempranamente  las necesidades  educativas  derivadas  de  la  discapacidad  o  de  trastornos  en  el desarrollo,  con  el  objeto  de  darles  la  atención  interdisciplinaria  y  educativa  para lograr su inclusión desde el Nivel Inicial.
 
-###### ARTÍCULO  44.
-Con  el  propósito  de  asegurar  el  derecho  a  la  educación,  la integración escolar y favorecer la inserción social de las personas con discapacidades, temporales o permanentes, las autoridades jurisdiccionales dispondrán las medidas necesarias para:
+###### ARTÍCULO 44.-
+Con el propósito de asegurar el derecho a la educación, la integración escolar y favorecer la inserción social de las personas con discapacidades, temporales o permanentes, las autoridades jurisdiccionales dispondrán las medidas necesarias para:
 
-- Posibilitar una trayectoria educativa integral que permita el acceso a los saberes tecnológicos, artísticos y culturales.
+- a) Posibilitar una trayectoria educativa integral que permita el acceso a los saberes tecnológicos, artísticos y culturales.
 
-- Contar con el personal especializado suficiente que trabaje en equipo con los/as docentes de la escuela común.
+- b) Contar con el personal especializado suficiente que trabaje en equipo con los/as docentes de la escuela común.
 
-- Asegurar la cobertura de los servicios educativos especiales, el transporte, los recursos técnicos y materiales necesarios para el desarrollo del currículo escolar.
+- c) Asegurar la cobertura de los servicios educativos especiales, el transporte, los recursos técnicos y materiales necesarios para el desarrollo del currículo escolar.
 
-- Propiciar  alternativas  de  continuidad  para  su  formación  a  lo  largo  de  toda  la vida.
+- d) Propiciar alternativas de continuidad para su formación a lo largo de toda la vida.
 
-- Garantizar la accesibilidad física de todos los edificios escolares.
+- e) Garantizar la accesibilidad física de todos los edificios escolares.
 
 ###### ARTÍCULO 45.
 El Ministerio de Educación, Ciencia y Tecnología, en acuerdo con el  Consejo Federal de Educación, creará las instancias institucionales y técnicas necesarias para la orientación de la trayectoria escolar más adecuada de los/as alumnos/as con discapacidades, temporales o permanentes, en todos los niveles de  la  enseñanza  obligatoria,  así  como  también  las  normas  que  regirán  los procesos de evaluación y certificación escolar. Asimismo, participarán en mecanismos de articulación entre ministerios y otros organismos del Estado que atienden  a  personas  con  discapacidades,  temporales  o  permanentes,  para garantizar un servicio eficiente y de mayor calidad.
@@ -398,28 +408,30 @@ La Educación Permanente de Jóvenes y Adultos es la modalidad educativa  destin
 ###### ARTÍCULO 47.
 Los programas y acciones de educación para jóvenes y adultos del Ministerio de Educación, Ciencia y Tecnología y de las distintas jurisdicciones se articularán  con  acciones  de  otros  Ministerios,  particularmente  los  de  Trabajo, Empleo y Seguridad Social, de Desarrollo Social, de Justicia y Derechos Humanos y de Salud, y se vincularán con el mundo de la producción y el trabajo. A tal fin, en el  marco  del  Consejo  Federal  de  Educación  se  acordarán  los  mecanismos  de participación  de  los  sectores  involucrados,  a  nivel  nacional,  regional  y  local. Asimismo, el Estado garantiza el acceso a la información y a la orientación sobre las ofertas de educación permanente y las posibilidades de acceso a las mismas.
 
-###### ARTÍCULO  48.
-La organización curricular e institucional de la  Educación Permanente de Jóvenes y Adultos responderá a los siguientes objetivos y criterios: a) Brindar una formación básica que permita adquirir conocimientos y desarrollar las capacidades de expresión, comunicación, relación interpersonal y de construcción  del  conocimiento,  atendiendo  las  particularidades  socioculturales, laborales, contextuales y personales de la población destinataria.
+###### ARTÍCULO 48.-
+La organización curricular e institucional de la Educación Permanente de Jóvenes y Adultos responderá a los siguientes objetivos y criterios:
 
-- Desarrollar  la  capacidad  de  participación  en  la  vida  social,  cultural,  política  y económica y hacer efectivo su derecho a la ciudadanía democrática.
+- a) Brindar una formación básica que permita adquirir conocimientos y desarrollar las capacidades de expresión, comunicación, relación interpersonal y de construcción del conocimiento, atendiendo las particularidades socioculturales, laborales, contextuales y personales de la población destinataria.
 
-- Mejorar  su  formación  profesional  y/o  adquirir  una  preparación  que  facilite  su inserción laboral.
+- b) Desarrollar la capacidad de participación en la vida social, cultural, política y económica y hacer efectivo su derecho a la ciudadanía democrática.
 
-- Incorporar  en  sus  enfoques  y  contenidos  básicos  la  equidad  de  género  y  la diversidad cultural.
+- c) Mejorar su formación profesional y/o adquirir una preparación que facilite su inserción laboral.
 
-- Promover  la  inclusión  de  los/as  adultos/as  mayores  y  de  las  personas  con discapacidades, temporales o permanentes.
+- d) Incorporar en sus enfoques y contenidos básicos la equidad de género y la diversidad cultural.
 
-- Diseñar  una  estructura  curricular  modular  basada  en  criterios  de  flexibilidad  y apertura.
+- e) Promover la inclusión de los/as adultos/as mayores y de las personas con discapacidades, temporales o permanentes.
 
-- Otorgar certificaciones parciales y acreditar los saberes adquiridos a través de la experiencia laboral.
+- f) Diseñar una estructura curricular modular basada en criterios de flexibilidad y apertura.
 
-- Implementar sistemas de créditos y equivalencias que permitan y acompañen la movilidad de los/as participantes.
+- g) Otorgar certificaciones parciales y acreditar los saberes adquiridos a través de la experiencia laboral.
 
-- Desarrollar acciones educativas presenciales y/o a distancia, particularmente en zonas rurales o aisladas, asegurando la calidad y la igualdad de sus resultados.
+- h) Implementar sistemas de créditos y equivalencias que permitan y acompañen la movilidad de los/as participantes.
 
-- Promover la participación de los/as docentes y estudiantes en el desarrollo del proyecto  educativo,  así  como  la  vinculación  con  la  comunidad  local  y  con  los sectores laborales o sociales de pertenencia de los/as estudiantes.
+- i) Desarrollar acciones educativas presenciales y/o a distancia, particularmente en zonas rurales o aisladas, asegurando la calidad y la igualdad de sus resultados.
 
-- Promover el acceso al conocimiento y manejo de nuevas tecnologías.
+- j) Promover la participación de los/as docentes y estudiantes en el desarrollo del proyecto educativo, así como la vinculación con la comunidad local y con los sectores laborales o sociales de pertenencia de los/as estudiantes.
+
+- k) Promover el acceso al conocimiento y manejo de nuevas tecnologías.
 
 #### CAPÍTULO X
 ##### EDUCACIÓN RURAL
@@ -431,30 +443,30 @@ La Educación Rural es la modalidad del sistema educativo de los niveles  de  Ed
 
 Son objetivos de la Educación Rural:
 
-a) Garantizar el acceso a los saberes postulados para el conjunto del sistema a través  de  propuestas  pedagógicas  flexibles  que  fortalezcan  el  vínculo  con  las identidades culturales y las actividades productivas locales.
+- a) Garantizar el acceso a los saberes postulados para el conjunto del sistema a través de propuestas pedagógicas flexibles que fortalezcan el vínculo con las identidades culturales y las actividades productivas locales.
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
-- Promover diseños institucionales  que  permitan  a  los/as  alumnos/as  mantener los  vínculos  con  su  núcleo  familiar  y  su  medio  local  de  pertenencia,  durante  el proceso  educativo,  garantizando  la  necesaria  coordinación  y  articulación  del sistema dentro de cada provincia y entre las diferentes jurisdicciones.
+- b) Promover diseños institucionales que permitan a los/as alumnos/as mantener los vínculos con su núcleo familiar y su medio local de pertenencia, durante el proceso educativo, garantizando la necesaria coordinación y articulación del sistema dentro de cada provincia y entre las diferentes jurisdicciones.
 
-- Permitir  modelos  de  organización  escolar  adecuados  a  cada  contexto,  tales como  agrupamientos  de  instituciones,  salas  plurigrados  y  grupos  multiedad, instituciones  que  abarquen  varios  niveles  en  una  misma  unidad  educativa, escuelas de alternancia, escuelas itinerantes u otras, que garanticen el cumplimiento de la obligatoriedad escolar y la continuidad de los estudios en los diferentes ciclos, niveles y modalidades  del sistema educativo, atendiendo asimismo las necesidades educativas de la población rural migrante.
+- c) Permitir modelos de organización escolar adecuados a cada contexto, tales como agrupamientos de instituciones, salas plurigrados y grupos multiedad, instituciones que abarquen varios niveles en una misma unidad educativa, escuelas de alternancia, escuelas itinerantes u otras, que garanticen el cumplimiento de la obligatoriedad escolar y la continuidad de los estudios en los diferentes ciclos, niveles y modalidades del sistema educativo, atendiendo asimismo las necesidades educativas de la población rural migrante.
 
-- Promover la igualdad de oportunidades y posibilidades asegurando la equidad de género.
+- d) Promover la igualdad de oportunidades y posibilidades asegurando la equidad de género.
 
-###### ARTÍCULO 51.
-El Ministerio de Educación, Ciencia y Tecnología, en acuerdo con el Consejo  Federal de Educación, es responsable de definir las  medidas necesarias para que los servicios educativos brindados en zonas rurales alcancen niveles  de  calidad  equivalente  a  los  urbanos.  Los  criterios  generales  que  deben orientar dichas medidas son:
+###### ARTÍCULO 51.-
+El Ministerio de Educación, Ciencia y Tecnología, en acuerdo con el Consejo Federal de Educación, es responsable de definir las medidas necesarias para que los servicios educativos brindados en zonas rurales alcancen niveles de calidad equivalente a los urbanos. Los criterios generales que deben orientar dichas medidas son:
 
-- instrumentar  programas  especiales  de  becas  para  garantizar  la  igualdad  de posibilidades.
+- a) instrumentar programas especiales de becas para garantizar la igualdad de posibilidades.
 
-- asegurar el funcionamiento de comedores escolares y otros servicios asistenciales que resulten necesarios a la comunidad.
+- b) asegurar el funcionamiento de comedores escolares y otros servicios asistenciales que resulten necesarios a la comunidad.
 
-- integrar redes intersectoriales de organizaciones gubernamentales  y no gubernamentales y agencias de extensión a fin de coordinar la cooperación y el apoyo de los diferentes sectores para expandir y garantizar las oportunidades y posibilidades educativas de los alumnos.
+- c) integrar redes intersectoriales de organizaciones gubernamentales y no gubernamentales y agencias de extensión a fin de coordinar la cooperación y el apoyo de los diferentes sectores para expandir y garantizar las oportunidades y posibilidades educativas de los alumnos.
 
-- organizar  servicios  de  educación  no  formal  que  contribuyan  a  la  capacitación laboral y la promoción cultural de la población rural, atendiendo especialmente la condición de las mujeres.
+- d) organizar servicios de educación no formal que contribuyan a la capacitación laboral y la promoción cultural de la población rural, atendiendo especialmente la condición de las mujeres.
 
-- proveer los recursos pedagógicos y materiales necesarios para la escolarización  de  los/as  alumnos/as  y  estudiantes  del  medio  rural  tales  como textos, equipamiento informático, televisión educativa, instalaciones y equipamiento para la educación física y la práctica deportiva,  comedores escolares, residencias y transporte, entre otros.
+- e) proveer los recursos pedagógicos y materiales necesarios para la escolarización de los/as alumnos/as y estudiantes del medio rural tales como textos, equipamiento informático, televisión educativa, instalaciones y equipamiento para la educación física y la práctica deportiva, comedores escolares, residencias y transporte, entre otros.
 
 #### CAPÍTULO XI
 
@@ -463,18 +475,22 @@ El Ministerio de Educación, Ciencia y Tecnología, en acuerdo con el Consejo  F
 ###### ARTÍCULO 52.
 La  Educación Intercultural  Bilingüe  es  la  modalidad  del  sistema educativo de los niveles de Educación Inicial, Primaria y Secundaria que garantiza el derecho constitucional de los pueblos indígenas, conforme al art. 75 inc. 17 de la  Constitución  Nacional,  a  recibir  una  educación  que  contribuya  a  preservar  y fortalecer  sus  pautas culturales, su lengua, su cosmovisión e identidad étnica; a desempeñarse activamente en un mundo multicultural y a mejorar su calidad de vida. Asimismo, la Educación Intercultural Bilingüe promueve un diálogo mutuamente enriquecedor de conocimientos y valores entre los pueblos indígenas y poblaciones étnica, lingüística y culturalmente diferentes, y propicia el reconocimiento y el respeto hacia tales diferencias.
 
-###### ARTÍCULO 53.
-Para favorecer el desarrollo de la Educación Intercultural Bilingüe, el Estado será responsable de: a) Crear mecanismos de participación permanente de los/as representantes de los pueblos indígenas en los órganos responsables de definir y evaluar las estrategias de Educación Intercultural Bilingüe. b) garantizar la formación docente específica, inicial y continua, correspondiente a los distintos niveles del sistema.
+###### ARTÍCULO 53.-
+Para favorecer el desarrollo de la Educación Intercultural Bilingüe, el Estado será responsable de:
+
+- a) Crear mecanismos de participación permanente de los/as representantes de los pueblos indígenas en los órganos responsables de definir y evaluar las estrategias de Educación Intercultural Bilingüe.
+
+- b) garantizar la formación docente específica, inicial y continua, correspondiente a los distintos niveles del sistema.
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
-- impulsar  la  investigación  sobre  la  realidad  sociocultural  y  lingüística  de  los pueblos indígenas, que permita el diseño de  propuestas curriculares,  materiales educativos pertinentes e instrumentos de gestión pedagógica.
+- c) impulsar la investigación sobre la realidad sociocultural y lingüística de los pueblos indígenas, que permita el diseño de propuestas curriculares, materiales educativos pertinentes e instrumentos de gestión pedagógica.
 
-- promover  la  generación  de  instancias  institucionales  de  participación  de  los pueblos indígenas en la planificación y gestión de los procesos de enseñanza y aprendizaje.
+- d) promover la generación de instancias institucionales de participación de los pueblos indígenas en la planificación y gestión de los procesos de enseñanza y aprendizaje.
 
-- propiciar  la  construcción  de  modelos  y  prácticas  educativas  propias  de  los pueblos indígenas que incluyan sus valores, conocimientos, lengua y otros rasgos sociales y culturales.
+- e) propiciar la construcción de modelos y prácticas educativas propias de los pueblos indígenas que incluyan sus valores, conocimientos, lengua y otros rasgos sociales y culturales.
 
 ###### ARTÍCULO 54.
 El Ministerio de Educación, Ciencia y Tecnología, en acuerdo con el  Consejo  Federal  de  Educación,  definirá  contenidos  curriculares  comunes  que promuevan  el  respeto  por  la  multiculturalidad  y  el  conocimiento  de  las  culturas originarias en todas las escuelas del país, permitiendo a los/as alumnos/as valorar y comprender la diversidad cultural como atributo positivo de nuestra sociedad.
@@ -490,19 +506,19 @@ La  Educación  en  Contextos  de  Privación  de  Libertad  es  la modalidad de
 
 Son objetivos de esta modalidad:
 
-- Garantizar  el  cumplimiento  de  la  escolaridad  obligatoria  a  todas  las  personas privadas de libertad dentro de las instituciones de encierro o fuera de ellas cuando las condiciones de detención lo permitieran.
+- a) Garantizar el cumplimiento de la escolaridad obligatoria a todas las personas privadas de libertad dentro de las instituciones de encierro o fuera de ellas cuando las condiciones de detención lo permitieran.
 
-- Ofrecer formación técnico profesional, en todos los niveles y modalidades, a las personas privadas de libertad.
+- b) Ofrecer formación técnico profesional, en todos los niveles y modalidades, a las personas privadas de libertad.
 
-- Favorecer  el  acceso  y  permanencia  en  la  Educación  Superior  y  un  sistema gratuito de educación a distancia.
+- c) Favorecer el acceso y permanencia en la Educación Superior y un sistema gratuito de educación a distancia.
 
-- Asegurar alternativas de educación no formal y apoyar las iniciativas educativas que formulen las personas privadas de libertad.
+- d) Asegurar alternativas de educación no formal y apoyar las iniciativas educativas que formulen las personas privadas de libertad.
 
-- Desarrollar propuestas  destinadas  a  estimular  la creación artística y la participación en diferentes manifestaciones culturales, así como en actividades de educación física y deportiva.
+- e) Desarrollar propuestas destinadas a estimular la creación artística y la participación en diferentes manifestaciones culturales, así como en actividades de educación física y deportiva.
 
-- Brindar  información  permanente  sobre  las  ofertas  educativas  y  culturales existentes.
+- f) Brindar información permanente sobre las ofertas educativas y culturales existentes.
 
-- Contribuir a la inclusión social de las personas privadas de libertad a través del acceso al sistema educativo y a la vida cultural.
+- g) Contribuir a la inclusión social de las personas privadas de libertad a través del acceso al sistema educativo y a la vida cultural.
 
 ###### ARTÍCULO 57.
 Para  asegurar  la  educación  de  todas  las  personas  privadas  de libertad  el  Ministerio  de  Educación,  Ciencia  y  Tecnología  acordará  y  coordinará acciones, estrategias y mecanismos necesarios con las autoridades nacionales y provinciales  y  de  la  Ciudad  Autónoma  de  Buenos  Aires,  con  institutos  de educación superior  y  con  universidades.  Corresponde  al  Ministerio  de  Justicia  y Derechos Humanos y sus equivalentes provinciales y de la Ciudad Autónoma de Buenos Aires, así como a los organismos responsables de las instituciones en que se encuentran niños/as y adolescentes privados de libertad, adoptar las disposiciones  necesarias  para  el  cumplimiento  de  lo  establecido  en  el  presente capítulo.
@@ -534,10 +550,12 @@ El  objetivo  de  esta  modalidad  es  garantizar  la  igualdad  de oportunidade
 ###### ARTÍCULO 62.
 Los servicios educativos de gestión privada estarán sujetos a la autorización, reconocimiento y supervisión de las autoridades educativas jurisdiccionales correspondientes.
 
-###### ARTÍCULO 63.
-Tendrán derecho a prestar estos servicios la Iglesia Católica, las confesiones religiosas inscriptas en el Registro Nacional de Cultos; las sociedades, cooperativas, organizaciones sociales, sindicatos, asociaciones, fundaciones  y  empresas  con  personería  jurídica  y  las  personas  físicas.  Estos agentes tendrán los siguientes derechos y obligaciones: a) Derechos: crear, administrar y sostener establecimientos educativos; matricular, evaluar y emitir certificados y títulos con validez nacional; nombrar y promover a su personal directivo, docente, administrativo y auxiliar; formular planes y programas de estudio; aprobar el proyecto educativo institucional de acuerdo con su ideario y participar del planeamiento educativo. b)  Obligaciones:  Cumplir  con  la  normativa  y  los  lineamientos  de  la  política educativa nacional y jurisdiccional; ofrecer servicios educativos que respondan a necesidades  de  la  comunidad;  brindar  toda  la  información  necesaria  para  la
+###### ARTÍCULO 63.-
+Tendrán derecho a prestar estos servicios la Iglesia Católica, las confesiones religiosas inscriptas en el Registro Nacional de Cultos; las sociedades, cooperativas, organizaciones sociales, sindicatos, asociaciones, fundaciones y empresas con personería jurídica y las personas físicas. Estos agentes tendrán los siguientes derechos y obligaciones:
 
-- supervisión pedagógica y el control contable y laboral por parte del Estado.
+- a) Derechos: crear, administrar y sostener establecimientos educativos; matricular, evaluar y emitir certificados y títulos con validez nacional; nombrar y promover a su personal directivo, docente, administrativo y auxiliar; formular planes y programas de estudio; aprobar el proyecto educativo institucional de acuerdo con su ideario y participar del planeamiento educativo.
+
+- b) Obligaciones: Cumplir con la normativa y los lineamientos de la política educativa nacional y jurisdiccional; ofrecer servicios educativos que respondan a necesidades de la comunidad; brindar toda la información necesaria para la supervisión pedagógica y el control contable y laboral por parte del Estado.
 
 ###### ARTÍCULO  64.
 Los/las  docentes  de  las  instituciones  de  educación  de  gestión privada  reconocidas  tendrán  derecho  a  una  remuneración  mínima  igual  a  la  de los/las  docentes  de  instituciones  de  gestión  estatal,  conforme  al  régimen  de equiparación fijado por la legislación vigente, y deberán poseer títulos reconocidos oficialmente.
@@ -560,50 +578,50 @@ Las entidades representativas de las instituciones educativas de gestión  priva
 
 ##### DERECHOS Y OBLIGACIONES
 
-###### ARTÍCULO  67.
-Los/as  docentes  de  todo  el  sistema  educativo  tendrán  los siguientes  derechos  y  obligaciones,  sin  perjuicio  de  los  que  establezcan  las negociaciones colectivas y la legislación laboral general y específica:
+###### ARTÍCULO 67.-
+Los/as docentes de todo el sistema educativo tendrán los siguientes derechos y obligaciones, sin perjuicio de los que establezcan las negociaciones colectivas y la legislación laboral general y específica:
 
 Derechos:
 
-- Al desempeño en cualquier jurisdicción, mediante la acreditación de los títulos y certificaciones, de acuerdo con la normativa vigente.
+- a) Al desempeño en cualquier jurisdicción, mediante la acreditación de los títulos y certificaciones, de acuerdo con la normativa vigente.
 
-- A  la  capacitación  y  actualización  integral,  gratuita  y  en  servicio,  a  lo  largo  de toda su carrera.
+- b) A la capacitación y actualización integral, gratuita y en servicio, a lo largo de toda su carrera.
 
-- Al ejercicio de la docencia sobre la base de la libertad de cátedra y la libertad de enseñanza, en el marco de los principios establecidos por la Constitución Nacional y las disposiciones de esta ley .
+- c) Al ejercicio de la docencia sobre la base de la libertad de cátedra y la libertad de enseñanza, en el marco de los principios establecidos por la Constitución Nacional y las disposiciones de esta ley.
 
-- A  la  activa  participación  en  la  elaboración  e  implementación  del  proyecto institucional de la escuela.
+- d) A la activa participación en la elaboración e implementación del proyecto institucional de la escuela.
 
-- Al desarrollo de sus tareas en condiciones dignas de seguridad e higiene.
+- e) Al desarrollo de sus tareas en condiciones dignas de seguridad e higiene.
 
-- Al  mantenimiento  de  su  estabilidad  en  el  cargo  en  tanto  su  desempeño  sea satisfactorio de conformidad con la normativa vigente.
+- f) Al mantenimiento de su estabilidad en el cargo en tanto su desempeño sea satisfactorio de conformidad con la normativa vigente.
 
-- A los beneficios de la seguridad social, jubilación, seguros y obra social.
+- g) A los beneficios de la seguridad social, jubilación, seguros y obra social.
 
-- A un salario digno.
+- h) A un salario digno.
 
-- A  participar  en  el  gobierno  de  la  educación  por  sí  y/o  a  través  de  sus representantes.
+- i) A participar en el gobierno de la educación por sí y/o a través de sus representantes.
 
-- Al  acceso  a  programas  de  salud  laboral  y  prevención  de  las  enfermedades profesionales.
+- j) Al acceso a programas de salud laboral y prevención de las enfermedades profesionales.
 
-- Al acceso a los cargos por concurso de antecedentes y oposición, conforme a lo establecido en la legislación vigente para las instituciones de gestión estatal.
+- k) Al acceso a los cargos por concurso de antecedentes y oposición, conforme a lo establecido en la legislación vigente para las instituciones de gestión estatal.
 
-- A la negociación colectiva nacional y jurisdiccional.
+- l) A la negociación colectiva nacional y jurisdiccional.
 
-- A  la  libre  asociación  y  al  respeto  integral  de  todos  sus  derechos  como ciudadano/a.
+- m) A la libre asociación y al respeto integral de todos sus derechos como ciudadano/a.
 
 Obligaciones:
 
-- A respetar y hacer respetar los principios constitucionales, las disposiciones de la presente ley, la normativa institucional y la que regula la tarea docente.
+- a) A respetar y hacer respetar los principios constitucionales, las disposiciones de la presente ley, la normativa institucional y la que regula la tarea docente.
 
-- A  cumplir  con  los  lineamientos  de  la  política  educativa  de  la  Nación  y  de  la respectiva jurisdicción y con los diseños curriculares de cada uno de los niveles y modalidades.
+- b) A cumplir con los lineamientos de la política educativa de la Nación y de la respectiva jurisdicción y con los diseños curriculares de cada uno de los niveles y modalidades.
 
-- A capacitarse y actualizarse en forma permanente.
+- c) A capacitarse y actualizarse en forma permanente.
 
-- A ejercer su trabajo de manera idónea y responsable.
+- d) A ejercer su trabajo de manera idónea y responsable.
 
-- A proteger y garantizar los derechos de los/as niños/as y adolescentes que se encuentren bajo su responsabilidad, en concordancia con lo dispuesto en la Ley N° 26.061.
+- e) A proteger y garantizar los derechos de los/as niños/as y adolescentes que se encuentren bajo su responsabilidad, en concordancia con lo dispuesto en la Ley N° 26.061.
 
-- A Respetar la libertad de conciencia, la dignidad, integridad e intimidad de todos los miembros de la comunidad educativa.
+- f) A Respetar la libertad de conciencia, la dignidad, integridad e intimidad de todos los miembros de la comunidad educativa.
 
 ###### ARTÍCULO 68.
 El  personal administrativo, técnico, auxiliar, social, de la salud y de  servicio  es  parte  integrante  de  la  comunidad  educativa  y  su  misión  principal será contribuir a asegurar el funcionamiento de las instituciones educativas y de los servicios de la educación, conforme los derechos y obligaciones establecidos en sus respectivos estatutos.
@@ -628,69 +646,69 @@ La formación docente tiene la finalidad de preparar profesionales capaces de en
 ###### ARTÍCULO 72.
 La formación docente es parte constitutiva del nivel de Educación Superior  y  tiene  como  funciones,  entre  otras,  la  formación  docente  inicial,  la formación docente continua, el apoyo pedagógico a las escuelas y la investigación educativa.
 
-###### ARTÍCULO  73.
-La  política  nacional  de  formación  docente  tiene  los  siguientes objetivos:
+###### ARTÍCULO 73.-
+La política nacional de formación docente tiene los siguientes objetivos:
 
-- Jerarquizar y revalorizar la formación docente, como  factor clave del mejoramiento de la calidad de la educación.
+- a) Jerarquizar y revalorizar la formación docente, como factor clave del mejoramiento de la calidad de la educación.
 
-- Desarrollar  las  capacidades  y  los  conocimientos  necesarios  para  el  trabajo docente en los diferentes niveles y modalidades del sistema educativo de acuerdo a las orientaciones de la presente ley.
+- b) Desarrollar las capacidades y los conocimientos necesarios para el trabajo docente en los diferentes niveles y modalidades del sistema educativo de acuerdo a las orientaciones de la presente ley.
 
-- Incentivar la investigación y la innovación educativa vinculadas con las tareas de enseñanza, la experimentación y sistematización de propuestas que aporten a la reflexión sobre la práctica y a la renovación de las experiencias escolares.
+- c) Incentivar la investigación y la innovación educativa vinculadas con las tareas de enseñanza, la experimentación y sistematización de propuestas que aporten a la reflexión sobre la práctica y a la renovación de las experiencias escolares.
 
-- Ofrecer  diversidad  de  propuestas  y  dispositivos  de  formación  posterior  a  la formación  inicial  que  fortalezcan  el  desarrollo  profesional  de  los/as  docentes  en todos los niveles y modalidades de enseñanza.
+- d) Ofrecer diversidad de propuestas y dispositivos de formación posterior a la formación inicial que fortalezcan el desarrollo profesional de los/as docentes en todos los niveles y modalidades de enseñanza.
 
-- Articular la continuidad de estudios en las instituciones universitarias.
+- e) Articular la continuidad de estudios en las instituciones universitarias.
 
-- Planificar y desarrollar el sistema de formación docente inicial y continua.
+- f) Planificar y desarrollar el sistema de formación docente inicial y continua.
 
-- Acreditar  instituciones,  carreras  y  trayectos  formativos  que  habiliten  para  el ejercicio de la docencia.
+- g) Acreditar instituciones, carreras y trayectos formativos que habiliten para el ejercicio de la docencia.
 
-- Coordinar y articular acciones de cooperación académica e institucional entre los  institutos  de  educación  superior  de  formación  docente,  las  instituciones universitarias y otras instituciones de investigación educativa.
+- h) Coordinar y articular acciones de cooperación académica e institucional entre los institutos de educación superior de formación docente, las instituciones universitarias y otras instituciones de investigación educativa.
 
-- Otorgar validez nacional a los títulos y las certificaciones para el ejercicio de la docencia en los diferentes niveles y modalidades del sistema.
+- i) Otorgar validez nacional a los títulos y las certificaciones para el ejercicio de la docencia en los diferentes niveles y modalidades del sistema.
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
 
-###### ARTÍCULO 74.
-El  Ministerio  de  Educación,  Ciencia  y  Tecnología  y  el  Consejo Federal de Educación acordarán:
+###### ARTÍCULO 74.-
+El Ministerio de Educación, Ciencia y Tecnología y el Consejo Federal de Educación acordarán:
 
-- Las políticas y los planes de formación docente inicial.
+- a) Las políticas y los planes de formación docente inicial.
 
-- Los  lineamientos  para  la  organización  y  administración  del  sistema  y  los parámetros de calidad que orienten los diseños curriculares.
+- b) Los lineamientos para la organización y administración del sistema y los parámetros de calidad que orienten los diseños curriculares.
 
-- Las  acciones  que  garanticen  el  derecho  a  la  formación  continua  a  todos/as los/as  docentes  del  país,  en  todos  los  niveles  y  modalidades,  así  como  la gratuidad de la oferta estatal de capacitación.
+- c) Las acciones que garanticen el derecho a la formación continua a todos/as los/as docentes del país, en todos los niveles y modalidades, así como la gratuidad de la oferta estatal de capacitación.
 
-###### ARTÍCULO 75.
+###### ARTÍCULO 75.-
 La formación docente se estructura en dos (2) ciclos:
 
-- Una  formación  básica  común,  centrada  en  los  fundamentos  de  la  profesión docente y el conocimiento y reflexión de la realidad educativa y,
+- a) Una formación básica común, centrada en los fundamentos de la profesión docente y el conocimiento y reflexión de la realidad educativa y,
 
-- Una formación especializada, para la enseñanza de los contenidos curriculares de cada nivel y modalidad.
+- b) Una formación especializada, para la enseñanza de los contenidos curriculares de cada nivel y modalidad.
 
-La  formación  docente  para  el  Nivel  Inicial  y  Primario  tendrá  cuatro  (4)  años  de duración y se introducirán formas de residencia, según las definiciones establecidas  por  cada  jurisdicción  y  de  acuerdo  con  la  reglamentación  de  la presente ley. Asimismo, el desarrollo de prácticas docentes de estudios a distancia deberá realizarse de manera presencial.
+La formación docente para el Nivel Inicial y Primario tendrá cuatro (4) años de duración y se introducirán formas de residencia, según las definiciones establecidas por cada jurisdicción y de acuerdo con la reglamentación de la presente ley. Asimismo, el desarrollo de prácticas docentes de estudios a distancia deberá realizarse de manera presencial.
 
-###### ARTÍCULO  76.
-Créase  en  el  ámbito  del  Ministerio  de  Educación,  Ciencia  y Tecnología el Instituto Nacional de Formación Docente como organismo responsable de:
+###### ARTÍCULO 76.-
+Créase en el ámbito del Ministerio de Educación, Ciencia y Tecnología el Instituto Nacional de Formación Docente como organismo responsable de:
 
-- Planificar y ejecutar políticas de articulación del sistema de formación docente inicial y continua.
+- a) Planificar y ejecutar políticas de articulación del sistema de formación docente inicial y continua.
 
-- Impulsar  políticas  de  fortalecimiento  de  las  relaciones  entre  el  sistema  de formación docente y los otros niveles del sistema educativo.
+- b) Impulsar políticas de fortalecimiento de las relaciones entre el sistema de formación docente y los otros niveles del sistema educativo.
 
-- Aplicar las regulaciones que rigen el sistema de formación docente en cuanto a evaluación,  autoevaluación  y  acreditación  de  instituciones  y  carreras,  validez nacional de títulos y certificaciones, en todo lo que no resulten de aplicación las disposiciones específicas referidas al nivel universitario de la Ley N° 24.521.
+- c) Aplicar las regulaciones que rigen el sistema de formación docente en cuanto a evaluación, autoevaluación y acreditación de instituciones y carreras, validez nacional de títulos y certificaciones, en todo lo que no resulten de aplicación las disposiciones específicas referidas al nivel universitario de la Ley N° 24.521.
 
-- Promover  políticas  nacionales  y  lineamientos  básicos  curriculares  para  la formación docente inicial y continua.
+- d) Promover políticas nacionales y lineamientos básicos curriculares para la formación docente inicial y continua.
 
-- Coordinar  las  acciones  de  seguimiento  y  evaluación  del  desarrollo  de  las políticas de formación docente inicial y continua.
+- e) Coordinar las acciones de seguimiento y evaluación del desarrollo de las políticas de formación docente inicial y continua.
 
-- Desarrollar  planes,  programas y materiales para la formación docente inicial y continua y para las carreras de áreas socio humanísticas y artísticas.
+- f) Desarrollar planes, programas y materiales para la formación docente inicial y continua y para las carreras de áreas socio humanísticas y artísticas.
 
-- Instrumentar  un  fondo  de  incentivo  para  el  desarrollo  y  el  fortalecimiento  del sistema formador de docentes.
+- g) Instrumentar un fondo de incentivo para el desarrollo y el fortalecimiento del sistema formador de docentes.
 
-- Impulsar  y  desarrollar  acciones  de  investigación  y  un  laboratorio  de  la formación.
+- h) Impulsar y desarrollar acciones de investigación y un laboratorio de la formación.
 
-- Impulsar acciones de cooperación técnica interinstitucional e internacional.
+- i) Impulsar acciones de cooperación técnica interinstitucional e internacional.
 
 ###### ARTÍCULO  77.
 El  Instituto  Nacional  de  Formación  Docente  contará  con  la asistencia y asesoramiento de un Consejo Consultivo integrado por representantes  del  Ministerio  de  Educación,  Ciencia  y  Tecnología,  del  Consejo Federal  de  Educación,  del  Consejo  de  Universidades,  del  sector  gremial,  de  la educación de gestión privada y del ámbito académico.
@@ -732,26 +750,26 @@ EL Ministerio de Educación, Ciencia y Tecnología y las autoridades  jurisdicci
 ###### ARTÍCULO 84.
 El Estado debe garantizar las condiciones materiales y culturales para  que  todos/as  los/as  alumnos/as  logren  aprendizajes  comunes  de  buena calidad, independientemente de su origen social, radicación geográfica, género o identidad cultural.
 
-###### ARTÍCULO 85.
+###### ARTÍCULO 85.-
 Para asegurar la buena calidad de la educación, la cohesión y la integración nacional y garantizar la validez nacional de los títulos
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
-- correspondientes,  el  Ministerio  de  Educación,  Ciencia  y  Tecnología,  en  acuerdo con el Consejo Federal de Educación:
+correspondientes, el Ministerio de Educación, Ciencia y Tecnología, en acuerdo con el Consejo Federal de Educación:
 
-- Definirá estructuras y contenidos curriculares comunes y núcleos de aprendizaje prioritarios en todos los niveles y años de la escolaridad obligatoria.
+- a) Definirá estructuras y contenidos curriculares comunes y núcleos de aprendizaje prioritarios en todos los niveles y años de la escolaridad obligatoria.
 
-- Establecerá  mecanismos  de  renovación  periódica  total  o  parcial  de  dichos contenidos curriculares comunes. Para esta tarea contará con la contribución del Consejo de Actualización Curricular previsto en el artículo 119 inciso c) de esta ley.
+- b) Establecerá mecanismos de renovación periódica total o parcial de dichos contenidos curriculares comunes. Para esta tarea contará con la contribución del Consejo de Actualización Curricular previsto en el artículo 119 inciso c) de esta ley.
 
-- Asegurará el mejoramiento de la formación inicial y continua de los/as docentes como factor clave de la calidad de la educación, conforme a lo establecido en los artículos 71 a 78 de la presente ley.
+- c) Asegurará el mejoramiento de la formación inicial y continua de los/as docentes como factor clave de la calidad de la educación, conforme a lo establecido en los artículos 71 a 78 de la presente ley.
 
-- Implementará  una  política  de  evaluación  concebida  como  instrumento  de mejora de la calidad de la educación, conforme a lo establecido en los artículos 94 a 97 de la presente ley.
+- d) Implementará una política de evaluación concebida como instrumento de mejora de la calidad de la educación, conforme a lo establecido en los artículos 94 a 97 de la presente ley.
 
-- Estimulará procesos de innovación y experimentación educativa.
+- e) Estimulará procesos de innovación y experimentación educativa.
 
-- Dotará  a  todas  las  escuelas  de  los  recursos  materiales  necesarios  para garantizar una educación de calidad, tales como la infraestructura, los equipamientos científicos y tecnológicos, de educación física y deportiva, bibliotecas  y  otros  materiales  pedagógicos,  priorizando  aquéllas  que  atienden  a alumnos/as en situaciones sociales más desfavorecidas, conforme a lo establecido en los artículos 79 a 83 de la presente  ley.
+- f) Dotará a todas las escuelas de los recursos materiales necesarios para garantizar una educación de calidad, tales como la infraestructura, los equipamientos científicos y tecnológicos, de educación física y deportiva, bibliotecas y otros materiales pedagógicos, priorizando aquéllas que atienden a alumnos/as en situaciones sociales más desfavorecidas, conforme a lo establecido en los artículos 79 a 83 de la presente ley.
 
 ###### ARTÍCULO  86.
 Las Provincias y la Ciudad Autónoma  de Buenos  Aires establecerán contenidos curriculares acordes a sus realidades sociales, culturales y productivas, y promoverán la definición de proyectos institucionales que permitan a las instituciones educativas postular sus propios desarrollos curriculares, en el marco de los objetivos y pautas comunes definidas por esta ley.
@@ -769,8 +787,8 @@ El  acceso  y  dominio  de  las  tecnologías  de  la  información  y  la comun
 ###### ARTÍCULO 89.
 El Ministerio de Educación, Ciencia y Tecnología, en acuerdo con el Consejo Federal de Educación, dispondrá las medidas necesarias para proveer la educación ambiental en todos los niveles y modalidades del Sistema Educativo Nacional, con la finalidad de promover valores, comportamientos y actitudes que sean  acordes  con  un  ambiente  equilibrado  y  la  protección  de  la  diversidad biológica;  que  propendan  a  la  preservación  de  los  recursos  naturales  y  a  su utilización sostenible y que mejoren la calidad de vida de la población. A tal efecto se definirán en dicho ámbito institucional, utilizando el mecanismo de coordinación que  establece  el  artículo  15  de  la  Ley  N°  25.675,  las  políticas  y  estrategias destinadas a incluir la educación  ambiental  en los contenidos curriculares comunes  y  núcleos  de  aprendizaje  prioritario,  así  como  a  capacitar  a  los/as docentes en esta temática.
 
-###### ARTÍCULO 90.
-El  Ministerio  de  Educación,  Ciencia  y  Tecnología  promoverá,  a través  del  Consejo  Federal  de  Educación,  la  incorporación  de  los  principios  y valores  del  cooperativismo  y  del  mutualismo  en  los  procesos  de  enseñanzaaprendizaje  y  la  capacitación  docente  correspondiente,  en  concordancia  con  los principios  y  valores  establecidos  en  la  Ley  N°  16.583  y  sus  reglamentaciones. Asimismo, se promoverá el cooperativismo y el mutualismo escolar.
+###### ARTÍCULO 90.-
+El Ministerio de Educación, Ciencia y Tecnología promoverá, a través del Consejo Federal de Educación, la incorporación de los principios y valores del cooperativismo y del mutualismo en los procesos de enseñanza-aprendizaje y la capacitación docente correspondiente, en concordancia con los principios y valores establecidos en la Ley N° 16.583 y sus reglamentaciones. Asimismo, se promoverá el cooperativismo y el mutualismo escolar.
 
 [[END OF PAGE 18]]
 
@@ -779,20 +797,20 @@ El  Ministerio  de  Educación,  Ciencia  y  Tecnología  promoverá,  a través
 ###### ARTÍCULO 91.
 El Ministerio de Educación, Ciencia y Tecnología, en acuerdo con el Consejo Federal de Educación, fortalecerá las bibliotecas escolares existentes y asegurará  su  creación  y  adecuado  funcionamiento  en  aquellos  establecimientos que  carezcan  de  las  mismas.  Asimismo,  implementará  planes  y  programas permanentes de promoción del libro y la lectura.
 
-###### ARTÍCULO 92.
+###### ARTÍCULO 92.-
 Formarán parte de los contenidos curriculares comunes a todas las jurisdicciones:
 
-- El fortalecimiento de la perspectiva regional latinoamericana, particularmente de la  región  del  MERCOSUR,  en  el  marco  de  la  construcción  de  una  identidad nacional abierta, respetuosa de la diversidad.
+- a) El fortalecimiento de la perspectiva regional latinoamericana, particularmente de la región del MERCOSUR, en el marco de la construcción de una identidad nacional abierta, respetuosa de la diversidad.
 
-- La  causa  de  la  recuperación  de  nuestras  Islas  Malvinas,  Georgias  del  Sur  y Sandwich  del  Sur,  de  acuerdo  con  lo  prescripto  en  la  Disposición  Transitoria Primera de la Constitución Nacional.
+- b) La causa de la recuperación de nuestras Islas Malvinas, Georgias del Sur y Sandwich del Sur, de acuerdo con lo prescripto en la Disposición Transitoria Primera de la Constitución Nacional.
 
-- El ejercicio y construcción de la memoria colectiva sobre los procesos históricos y  políticos  que  quebraron  el  orden  constitucional  y  terminaron  instaurando  el terrorismo de Estado, con el objeto de generar en los/as alumnos/as reflexiones y sentimientos democráticos y de defensa del Estado de Derecho y la plena vigencia de  los  Derechos  Humanos,  en  concordancia  con  lo  dispuesto  por  la  Ley  N° 25.633.
+- c) El ejercicio y construcción de la memoria colectiva sobre los procesos históricos y políticos que quebraron el orden constitucional y terminaron instaurando el terrorismo de Estado, con el objeto de generar en los/as alumnos/as reflexiones y sentimientos democráticos y de defensa del Estado de Derecho y la plena vigencia de los Derechos Humanos, en concordancia con lo dispuesto por la Ley N° 25.633.
 
-- El conocimiento de los derechos de los/as niños/as y adolescentes establecidos en la Convención sobre los Derechos del Niño y en la Ley N° 26.061.
+- d) El conocimiento de los derechos de los/as niños/as y adolescentes establecidos en la Convención sobre los Derechos del Niño y en la Ley N° 26.061.
 
-- El  conocimiento  de  la  diversidad  cultural  de  los  pueblos  indígenas  y  sus derechos, en concordancia con el artículo 54 de la presente ley.
+- e) El conocimiento de la diversidad cultural de los pueblos indígenas y sus derechos, en concordancia con el artículo 54 de la presente ley.
 
-- Los contenidos y enfoques que contribuyan a generar relaciones basadas en la igualdad,  la  solidaridad  y  el  respeto  entre  los  sexos,  en  concordancia  con  la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer, con rango constitucional, y las leyes Nº 24.632 y Nº 26.171.
+- f) Los contenidos y enfoques que contribuyan a generar relaciones basadas en la igualdad, la solidaridad y el respeto entre los sexos, en concordancia con la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer, con rango constitucional, y las leyes Nº 24.632 y Nº 26.171.
 
 ###### ARTÍCULO  93.
 Las autoridades educativas jurisdiccionales organizarán o facilitarán  el  diseño  de  programas  para  la  identificación,  evaluación  temprana, seguimiento  y  orientación  de  los/as  alumnos/as  con    capacidades  o  talentos especiales y la flexibilización o ampliación del proceso de escolarización.
@@ -807,8 +825,8 @@ El  Ministerio  de  Educación,  Ciencia  y  Tecnología  tendrá  la responsabi
 ###### ARTÍCULO 95.
 Son objeto de información y evaluación las principales variables de  funcionamiento  del  sistema,  tales  como  cobertura,  repetición,  deserción, egreso, promoción, sobreedad, origen socioeconómico, inversiones y costos, los procesos  y  logros  de  aprendizaje,  los  proyectos  y  programas  educativos,  la formación  y  las  prácticas  de  docentes,  directivos  y  supervisores,  las  unidades escolares, los contextos socioculturales del aprendizaje y los propios métodos de evaluación.
 
-###### ARTÍCULO 96.
-La política de información y evaluación se concertará en el ámbito del Consejo Federal  de Educación. Las jurisdicciones participarán en el desarrollo e implementación del sistema de evaluación e información periódica del sistema educativo, verificando la concordancia con las necesidades de su propia community  en  la  búsqueda  de  la  igualdad  educativa  y  la  mejora  de  la  calidad. Asimismo, apoyará y facilitará la autoevaluación de las unidades educativas con la participación de los/as docentes y otros/as integrantes de la comunidad educativa.
+###### ARTÍCULO 96.-
+La política de información y evaluación se concertará en el ámbito del Consejo Federal de Educación. Las jurisdicciones participarán en el desarrollo e implementación del sistema de evaluación e información periódica del sistema educativo, verificando la concordancia con las necesidades de su propia comunidad en la búsqueda de la igualdad educativa y la mejora de la calidad. Asimismo, apoyará y facilitará la autoevaluación de las unidades educativas con la participación de los/as docentes y otros/as integrantes de la comunidad educativa.
 
 [[END OF PAGE 19]]
 
@@ -817,20 +835,20 @@ La política de información y evaluación se concertará en el ámbito del Cons
 ###### ARTÍCULO  97.
 El Ministerio de Educación, Ciencia y Tecnología y las jurisdicciones educativas harán públicos los datos e indicadores que contribuyan a facilitar  la  transparencia,  la  buena  gestión  de  la  educación  y  la  investigación educativa.  La  política  de  difusión  de  la  información  sobre  los  resultados  de  las evaluaciones resguardará la identidad de los/as alumnos/as, docentes e instituciones educativas, a fin de evitar cualquier forma de estigmatización, en el marco de la legislación vigente en la materia.
 
-###### ARTÍCULO 98.
-Créase  el  Consejo  Nacional  de  Calidad  de  la  Educación,  en  el ámbito  del  Ministerio  de  Educación,  Ciencia  y  Tecnología,  como  órgano  de asesoramiento especializado, que estará integrado por miembros de la comunidad académica y científica de reconocida trayectoria en la materia, representantes de dicho Ministerio, del Consejo Federal de Educación, del Congreso Nacional, de las organizaciones  del  trabajo  y  la  producción,  y  de  las  organizaciones  gremiales docentes con personería nacional.
+###### ARTÍCULO 98.-
+Créase el Consejo Nacional de Calidad de la Educación, en el ámbito del Ministerio de Educación, Ciencia y Tecnología, como órgano de asesoramiento especializado, que estará integrado por miembros de la comunidad académica y científica de reconocida trayectoria en la materia, representantes de dicho Ministerio, del Consejo Federal de Educación, del Congreso Nacional, de las organizaciones del trabajo y la producción, y de las organizaciones gremiales docentes con personería nacional.
 
 Tendrá por funciones:
 
-- Proponer  criterios  y  modalidades  en  los  procesos  evaluativos  del  Sistema Educativo Nacional.
+- a) Proponer criterios y modalidades en los procesos evaluativos del Sistema Educativo Nacional.
 
-- Participar  en  el  seguimiento  de  los  procesos  de  evaluación  del  Sistema Educativo Nacional, y emitir opinión técnica al respecto.
+- b) Participar en el seguimiento de los procesos de evaluación del Sistema Educativo Nacional, y emitir opinión técnica al respecto.
 
-- Elevar al Ministerio de Educación, Ciencia y Tecnología propuestas y estudios destinados  a  mejorar  la  calidad  de  la  educación  nacional  y  la  equidad  en  la asignación de recursos.
+- c) Elevar al Ministerio de Educación, Ciencia y Tecnología propuestas y estudios destinados a mejorar la calidad de la educación nacional y la equidad en la asignación de recursos.
 
-- Participar  en  la  difusión  y  utilización  de  la  información  generada  por  dichos procesos.
+- d) Participar en la difusión y utilización de la información generada por dichos procesos.
 
-- Asesorar  al  Ministerio  de  Educación,  Ciencia  y  Tecnología  con  respecto  a  la participación en operativos  internacionales de evaluación.
+- e) Asesorar al Ministerio de Educación, Ciencia y Tecnología con respecto a la participación en operativos internacionales de evaluación.
 
 ###### ARTÍCULO  99.
 El  Poder  Ejecutivo  Nacional,  a  propuesta  del  Ministerio  de Educación,  Ciencia  y  Tecnología,  elevará  anualmente  un  informe  al  Honorable Congreso  de  la  Nación  dando  cuenta  de  la  información  relevada  y  de  los resultados de las evaluaciones realizadas conforme a las variables estipuladas en el artículo 95 de la presente, y de las acciones desarrolladas y políticas a ejecutar para alcanzar los objetivos postulados en esta ley.
@@ -845,20 +863,22 @@ El Poder  Ejecutivo Nacional, a través del Ministerio de Educación, Ciencia y 
 ###### ARTÍCULO 101.
 Reconócese a Educ.ar Sociedad del Estado como el organismo responsable  del  desarrollo  de  los  contenidos  del  Portal  Educativo  creado  en  el ámbito  del  Ministerio  de  Educación,  Ciencia  y  Tecnología,  o  bajo  cualquier  otro dominio que pueda reemplazarlo en el futuro. A tal efecto, Educ.ar Sociedad del Estado  podrá  elaborar,  desarrollar,  contratar,  administrar,  calificar  y  evaluar contenidos  propios  y  de  terceros  que  sean  incluidos  en  el  Portal  Educativo,  de acuerdo con los lineamientos respectivos que apruebe su directorio y/o le instruya dicho Ministerio.
 
-###### ARTÍCULO 102.
-El  Ministerio  de  Educación,  Ciencia  y  Tecnología  encargará  a Educ.ar Sociedad del Estado, a través de la señal educativa 'Encuentro' u otras que pudieran generarse en el futuro, la realización de actividades de producción y emisión de programas de televisión educativa y multimedial destinados a fortalecer y  complementar  las  estrategias  nacionales  de  equidad  y  mejoramiento  de  la calidad  de  la  educación,  en  el  marco  de  las  políticas  generales  del  Ministerio. Dicha programación estará dirigida a:
+###### ARTÍCULO 102.-
+El Ministerio de Educación, Ciencia y Tecnología encargará a Educ.ar Sociedad del Estado, a través de la señal educativa “Encuentro” u otras que pudieran generarse en el futuro, la realización de actividades de producción y emisión de programas de televisión educativa y multimedial destinados a fortalecer y complementar las estrategias nacionales de equidad y mejoramiento de la
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
 
-- Los/as docentes de todos los niveles del Sistema Educativo Nacional, con fines de capacitación y actualización profesional.
+calidad de la educación, en el marco de las políticas generales del Ministerio. Dicha programación estará dirigida a:
 
-- Los/as  alumnos/as,  con  el  objeto  de  enriquecer  el  trabajo  en  el  aula  con metodologías  innovadoras  y  como  espacio  de  búsqueda  y  ampliación  de  los contenidos curriculares desarrollados en las clases.
+- a) Los/as docentes de todos los niveles del Sistema Educativo Nacional, con fines de capacitación y actualización profesional.
 
-- Los/as adultos/as y jóvenes que están fuera del sistema educativo, a través de propuestas de formación profesional y técnica, alfabetización y finalización de la Educación  Primaria  y  Secundaria,  con  el  objeto  de  incorporar,  mediante  la aplicación de nuevos procesos educativos, a sectores sociales excluidos.
+- b) Los/as alumnos/as, con el objeto de enriquecer el trabajo en el aula con metodologías innovadoras y como espacio de búsqueda y ampliación de los contenidos curriculares desarrollados en las clases.
 
-- La  población  en  general  mediante  la  emisión  de  contenidos  culturales, educativos  y  de  divulgación  científica,  así  como  también  cursos  de  idiomas  en formato de educación a distancia.
+- c) Los/as adultos/as y jóvenes que están fuera del sistema educativo, a través de propuestas de formación profesional y técnica, alfabetización y finalización de la Educación Primaria y Secundaria, con el objeto de incorporar, mediante la aplicación de nuevos procesos educativos, a sectores sociales excluidos.
+
+- d) La población en general mediante la emisión de contenidos culturales, educativos y de divulgación científica, así como también cursos de idiomas en formato de educación a distancia.
 
 ###### ARTÍCULO  103.
 El  Ministerio  de  Educación,  Ciencia  y  Tecnología  creará  un Consejo Consultivo constituido por representantes de los medios de comunicación escritos, radiales y televisivos, de los organismos representativos de los anunciantes  publicitarios  y  del  Consejo  Federal  de  Educación,  con  el  objeto  de promover  mayores  niveles  de  responsabilidad  y  compromiso  de  los  medios masivos de comunicación con la tarea educativa de niños/as y jóvenes.
@@ -899,20 +919,20 @@ Las autoridades educativas deberán supervisar la  veracidad de la  información
 
 ### EDUCACIÓN NO FORMAL
 
-###### ARTICULO 112.
+###### ARTICULO 112.-
 El Ministerio de Educación, Ciencia y Tecnología, las Provincias y la Ciudad Autónoma de Buenos Aires promoverán propuestas de Educación no Formal destinadas a cumplir con los siguientes objetivos:
 
-- Desarrollar programas  y  acciones  educativas que  den  respuesta  a los requerimientos y necesidades de capacitación y reconversión productiva y laboral, la  promoción  comunitaria,  la  animación  sociocultural  y  el  mejoramiento  de  las condiciones de vida.
+- a) Desarrollar programas y acciones educativas que den respuesta a los requerimientos y necesidades de capacitación y reconversión productiva y laboral, la promoción comunitaria, la animación sociocultural y el mejoramiento de las condiciones de vida.
 
-- Organizar  centros  culturales  para  niños/as  y  jóvenes  con  la  finalidad  de desarrollar capacidades expresivas, lúdicas y de investigación mediante programas no escolarizados de actividades vinculadas con el  arte,  la  cultura,  la ciencia, la tecnología y el deporte.
+- b) Organizar centros culturales para niños/as y jóvenes con la finalidad de desarrollar capacidades expresivas, lúdicas y de investigación mediante programas no escolarizados de actividades vinculadas con el arte, la cultura, la ciencia, la tecnología y el deporte.
 
-- Implementar  estrategias  de  desarrollo  infantil,  con  la  articulación  y/o  gestión asociada  de  las  áreas  gubernamentales  de  desarrollo  social  y  de  salud  para atender integralmente a los/as niños/as entre los cuarenta y cinco (45) días y los dos (2) años de edad, con participación de las familias y otros actores sociales.
+- c) Implementar estrategias de desarrollo infantil, con la articulación y/o gestión asociada de las áreas gubernamentales de desarrollo social y de salud para atender integralmente a los/as niños/as entre los cuarenta y cinco (45) días y los dos (2) años de edad, con participación de las familias y otros actores sociales.
 
-- Coordinar acciones con instituciones públicas o privadas y organizaciones no gubernamentales, comunitarias y sociales para desarrollar actividades formativas complementarias de la educación formal.
+- d) Coordinar acciones con instituciones públicas o privadas y organizaciones no gubernamentales, comunitarias y sociales para desarrollar actividades formativas complementarias de la educación formal.
 
-- Lograr el máximo aprovechamiento de las capacidades y recursos educativos de la comunidad en los planos de la cultura, el arte, el deporte, la investigación científica y tecnológica.
+- e) Lograr el máximo aprovechamiento de las capacidades y recursos educativos de la comunidad en los planos de la cultura, el arte, el deporte, la investigación científica y tecnológica.
 
-- Coordinar  acciones  educativas  y  formativas  con  los  medios  masivos  de comunicación social.
+- f) Coordinar acciones educativas y formativas con los medios masivos de comunicación social.
 
 ## TITULO X
 
@@ -936,26 +956,26 @@ El  Gobierno y Administración del Sistema Educativo asegurará el  efectivo  cu
 
 ##### EL MINISTERIO DE EDUCACIÓN, CIENCIA Y TECNOLOGÍA
 
-###### ARTICULO  115.
-El Poder  Ejecutivo Nacional, a través del Ministerio de Educación, Ciencia y Tecnología, será autoridad de aplicación de la presente ley. Serán sus funciones:
+###### ARTICULO 115.-
+El Poder Ejecutivo Nacional, a través del Ministerio de Educación, Ciencia y Tecnología, será autoridad de aplicación de la presente ley. Serán sus funciones:
 
-- Fijar  las  políticas  y  estrategias  educativas,  conforme  a  los  procedimientos  de participación y consulta de la presente ley.
+- a) Fijar las políticas y estrategias educativas, conforme a los procedimientos de participación y consulta de la presente ley.
 
-- Asegurar  el  cumplimiento  de  los  principios,  fines,  objetivos  y  previsiones establecidos por la presente ley para el Sistema Educativo Nacional a través de la planificación, ejecución, supervisión y  evaluación  de políticas,  programas  y resultados educativos. En caso de controversia en la implementación jurisdiccional de los aludidos principios, fines y objetivos, someterá la cuestión al dictamen del Consejo Federal de Educación de conformidad con el artículo 118 de la presente ley.
+- b) Asegurar el cumplimiento de los principios, fines, objetivos y previsiones establecidos por la presente ley para el Sistema Educativo Nacional a través de la planificación, ejecución, supervisión y evaluación de políticas, programas y resultados educativos. En caso de controversia en la implementación jurisdiccional de los aludidos principios, fines y objetivos, someterá la cuestión al dictamen del Consejo Federal de Educación de conformidad con el artículo 118 de la presente ley.
 
-- Fortalecer las capacidades de planificación y gestión educativa de los gobiernos provinciales para el cumplimiento de las funciones propias y aquellas emanadas de la presente ley.
+- c) Fortalecer las capacidades de planificación y gestión educativa de los gobiernos provinciales para el cumplimiento de las funciones propias y aquellas emanadas de la presente ley.
 
-- Desarrollar programas de investigación, formación de formadores e innovación educativa, por iniciativa propia o en cooperación con las instituciones de Educación Superior y otros centros académicos.
+- d) Desarrollar programas de investigación, formación de formadores e innovación educativa, por iniciativa propia o en cooperación con las instituciones de Educación Superior y otros centros académicos.
 
-- Contribuir  con  asistencia  técnica  y  financiera  a  las  Provincias  y  a  la  Ciudad Autónoma  de Buenos  Aires para asegurar el funcionamiento del sistema educativo.
+- e) Contribuir con asistencia técnica y financiera a las Provincias y a la Ciudad Autónoma de Buenos Aires para asegurar el funcionamiento del sistema educativo.
 
-- Declarar la emergencia educativa para brindar asistencia de carácter extraordinario  en  aquella  jurisdicción  en  la  que  esté  en  riesgo  el  derecho  a  la educación  de  los/as  alumnos/as  que  cursan  los  niveles  y  ciclos  de  carácter obligatorio,  conforme  a  lo  establecido  por  el  artículo  2°  de  la  presente  ley.  Esta decisión y las medidas que se instrumenten deberán contar con el acuerdo de la jurisdicción involucrada y del Consejo Federal de Educación, y serán comunicadas al Poder Legislativo Nacional.
+- f) Declarar la emergencia educativa para brindar asistencia de carácter extraordinario en aquella jurisdicción en la que esté en riesgo el derecho a la educación de los/as alumnos/as que cursan los niveles y ciclos de carácter obligatorio, conforme a lo establecido por el artículo 2° de la presente ley. Esta decisión y las medidas que se instrumenten deberán contar con el acuerdo de la jurisdicción involucrada y del Consejo Federal de Educación, y serán comunicadas al Poder Legislativo Nacional.
 
-- Dictar normas generales sobre equivalencias de planes de estudios y  diseños curriculares de las jurisdicciones, de acuerdo a lo establecido en el artículo 85 de la presente ley y otorgar validez nacional a los títulos y certificaciones de estudios.
+- g) Dictar normas generales sobre equivalencias de planes de estudios y diseños curriculares de las jurisdicciones, de acuerdo a lo establecido en el artículo 85 de la presente ley y otorgar validez nacional a los títulos y certificaciones de estudios.
 
-- Dictar normas generales sobre revalidación, equivalencia y reconocimiento de títulos expedidos y de estudios realizados en el extranjero.
+- h) Dictar normas generales sobre revalidación, equivalencia y reconocimiento de títulos expedidos y de estudios realizados en el extranjero.
 
-- Coordinar  y  gestionar  la  cooperación  técnica  y  financiera  internacional  y promover la integración, particularmente con los países del MERCOSUR.
+- i) Coordinar y gestionar la cooperación técnica y financiera internacional y promover la integración, particularmente con los países del MERCOSUR.
 
 #### CAPITULO III
 
@@ -964,8 +984,10 @@ El Poder  Ejecutivo Nacional, a través del Ministerio de Educación, Ciencia y 
 ###### ARTÍCULO 116.
 Créase el Consejo Federal de Educación, organismo interjurisdiccional, de carácter permanente, como ámbito de concertación, acuerdo y coordinación de la política educativa nacional, asegurando  la unidad y articulación  del  Sistema  Educativo  Nacional.  Estará  presidido  por  el  Ministro  de Educación, Ciencia y Tecnología e integrado por las autoridades responsables de la conducción educativa de cada jurisdicción y tres (3) representantes del Consejo de Universidades, según lo establecido en la Ley N° 24.521.
 
-###### ARTÍCULO 117.
-Los órganos que integran el Consejo Federal de Educación son: a) La Asamblea Federal es el órgano superior del Consejo. Estará integrada por el/la  ministro  del  área  del  Poder  Ejecutivo  Nacional  como  presidente,  por  los/as ministros  o  responsables  del  área  Educativa  de  las  Provincias  y  la  Ciudad Autónoma de Buenos Aires y tres (3) representantes del Consejo de Universidades.
+###### ARTÍCULO 117.-
+Los órganos que integran el Consejo Federal de Educación son:
+
+- a) La Asamblea Federal es el órgano superior del Consejo. Estará integrada por el/la ministro del área del Poder Ejecutivo Nacional como presidente, por los/as ministros o responsables del área Educativa de las Provincias y la Ciudad Autónoma de Buenos Aires y tres (3) representantes del Consejo de Universidades.
 
 En las reuniones participarán con voz y sin voto dos (2) representantes por cada una de las Comisiones de Educación de las Honorables Cámaras de Senadores y Diputados de la Nación, uno por la mayoría y otro por la primera minoría.
 
@@ -973,17 +995,23 @@ En las reuniones participarán con voz y sin voto dos (2) representantes por cad
 
 [[START OF PAGE 24]]
 
-b)  El  Comité  Ejecutivo  ejercerá  sus  actividades  en  el  marco  de  las  resoluciones adoptadas por la Asamblea Federal. Estará presidido por el ministro del área del Poder Ejecutivo Nacional e integrado por los/as miembros representantes de las regiones  que  lo  componen,  designados  por  la  Asamblea  Federal  cada  dos  (2) años. A efectos de garantizar mayor participación según el tipo de decisiones que se consideren, podrá convocarse al Comité Ejecutivo ampliado, integrado por las autoridades educativas jurisdiccionales que se requieran. c) La Secretaría General tendrá la misión de conducir y coordinar las actividades, trabajos  y  estudios  según  lo  establezcan  la  Asamblea  Federal  y  el  Comité Ejecutivo. Su titular ejercerá asimismo las funciones de Coordinador Federal de la Comisión  Federal  de  Registro  y  Evaluación  Permanente  de  las  Ofertas  de Educación  a  Distancia  y  de  la  implementación,  durante  su  vigencia,  del  Fondo Nacional de Incentivo  Docente  y  del  Programa  de  Compensación  Salarial Docente, conforme a la Ley Nº 26.075. Será designado cada dos (2) años por la
+- b) El Comité Ejecutivo ejercerá sus actividades en el marco de las resoluciones adoptadas por la Asamblea Federal. Estará presidido por el ministro del área del Poder Ejecutivo Nacional e integrado por los/as miembros representantes de las regiones que lo componen, designados por la Asamblea Federal cada dos (2) años. A efectos de garantizar mayor participación según el tipo de decisiones que se consideren, podrá convocarse al Comité Ejecutivo ampliado, integrado por las autoridades educativas jurisdiccionales que se requieran.
 
-- Asamblea Federal.
+- c) La Secretaría General tendrá la misión de conducir y coordinar las actividades, trabajos y estudios según lo establezcan la Asamblea Federal y el Comité Ejecutivo. Su titular ejercerá asimismo las funciones de Coordinador Federal de la Comisión Federal de Registro y Evaluación Permanente de las Ofertas de Educación a Distancia y de la implementación, durante su vigencia, del Fondo Nacional de Incentivo Docente y del Programa de Compensación Salarial Docente, conforme a la Ley Nº 26.075. Será designado cada dos (2) años por la Asamblea Federal.
 
 ###### ARTICULO 118.
 Las  resoluciones  del  Consejo  Federal  de  Educación  serán  de cumplimiento obligatorio, cuando la Asamblea así lo disponga, de acuerdo con la Reglamentación  que  la  misma  establezca  para  estos  casos.  En  cuanto  a  las resoluciones que  se refieran a transferencias de partidas del  presupuesto nacional, regirán los mecanismos de supervisión y control establecidos por la Ley Nº 26.075.
 
-###### ARTÍCULO 119.
-El  Consejo Federal de Educación contará con el apoyo de los siguientes Consejos Consultivos, cuyas opiniones y propuestas serán de carácter público: a) El Consejo de Políticas Educativas, cuya misión principal es analizar y proponer cuestiones prioritarias  a  ser  consideradas  en  la  elaboración  de  las  políticas  que surjan de la implementación de la presente ley. Está  integrado  por  representantes  de  la  Academia  Nacional  de  Educación, representantes de las organizaciones gremiales docentes con personería nacional, de las entidades representativas de la Educación de Gestión Privada, representantes  del  Consejo  de  Universidades,  de  las  organizaciones  sociales vinculadas  con  la  educación,  y  autoridades  educativas  del  Comité  Ejecutivo  del Consejo Federal de Educación. La Asamblea Federal podrá invitar a personas u organizaciones a participar de sesiones del Consejo de Políticas Educativas para ampliar el análisis de temas de su agenda. b) El Consejo Económico y Social, participará en aquellas discusiones relativas a las  relaciones  entre  la  educación  y  el  mundo  del  trabajo  y  la  producción.  Está integrado por representantes de organizaciones empresariales, de organizaciones de trabajadores, de organizaciones no gubernamentales, de organizaciones socio productivas  de  reconocida  trayectoria  nacional  y  autoridades  educativas  del Comité Ejecutivo del Consejo Federal de Educación. c) El Consejo de Actualización Curricular, a cargo de proponer innovaciones en los contenidos curriculares comunes. Estará conformado por personalidades calificadas  de  la  cultura,  la  ciencia,  la  técnica  y  el  mundo  del  trabajo  y  la producción,  designadas  por  el  ministro  de  Educación,  Ciencia  y  Tecnología  en
+###### ARTÍCULO 119.-
+El Consejo Federal de Educación contará con el apoyo de los siguientes Consejos Consultivos, cuyas opiniones y propuestas serán de carácter público:
 
-- acuerdo con el Consejo Federal de Educación.
+- a) El Consejo de Políticas Educativas, cuya misión principal es analizar y proponer cuestiones prioritarias a ser consideradas en la elaboración de las políticas que surjan de la implementación de la presente ley.
+
+Está integrado por representantes de la Academia Nacional de Educación, representantes de las organizaciones gremiales docentes con personería nacional, de las entidades representativas de la Educación de Gestión Privada, representantes del Consejo de Universidades, de las organizaciones sociales vinculadas con la educación, y autoridades educativas del Comité Ejecutivo del Consejo Federal de Educación. La Asamblea Federal podrá invitar a personas u organizaciones a participar de sesiones del Consejo de Políticas Educativas para ampliar el análisis de temas de su agenda.
+
+- b) El Consejo Económico y Social, participará en aquellas discusiones relativas a las relaciones entre la educación y el mundo del trabajo y la producción. Está integrado por representantes de organizaciones empresariales, de organizaciones de trabajadores, de organizaciones no gubernamentales, de organizaciones socio productivas de reconocida trayectoria nacional y autoridades educativas del Comité Ejecutivo del Consejo Federal de Educación.
+
+- c) El Consejo de Actualización Curricular, a cargo de proponer innovaciones en los contenidos curriculares comunes. Estará conformado por personalidades calificadas de la cultura, la ciencia, la técnica y el mundo del trabajo y la producción, designadas por el ministro de Educación, Ciencia y Tecnología en acuerdo con el Consejo Federal de Educación.
 
 ###### ARTÍCULO 120.
 La Asamblea Federal realizará como mínimo una (1) vez al año el  seguimiento  y  la  evaluación  del  cumplimiento  de  la  presente  ley.  Asimismo, convocará como mínimo dos (2) veces al año a representantes de organizaciones gremiales docentes con personería nacional para considerar agendas definidas de común acuerdo.
@@ -998,22 +1026,22 @@ La Asamblea Federal realizará como mínimo una (1) vez al año el  seguimiento 
 
 ##### Y LA CIUDAD AUTÓNOMA DE BUENOS AIRES
 
-###### ARTÍCULO 121.
+###### ARTÍCULO 121.-
 Los gobiernos provinciales y de la Ciudad Autónoma de Buenos Aires, en cumplimiento del mandato constitucional, deben:
 
-- Asegurar  el  derecho  a  la  educación  en  su  ámbito  territorial.  Cumplir  y  hacer cumplir la presente ley, adecuando la legislación jurisdiccional y disponiendo las medidas necesarias para su implementación;
+- a) Asegurar el derecho a la educación en su ámbito territorial. Cumplir y hacer cumplir la presente ley, adecuando la legislación jurisdiccional y disponiendo las medidas necesarias para su implementación;
 
-- Ser  responsables  de  planificar,  organizar,  administrar  y  financiar  el  sistema educativo  en  su  jurisdicción,  según  sus  particularidades  sociales,  económicas  y culturales.
+- b) Ser responsables de planificar, organizar, administrar y financiar el sistema educativo en su jurisdicción, según sus particularidades sociales, económicas y culturales.
 
-- Aprobar  el  currículo  de  los  diversos  niveles  y  modalidades  en  el  marco  de  lo acordado en el Consejo Federal de Educación.
+- c) Aprobar el currículo de los diversos niveles y modalidades en el marco de lo acordado en el Consejo Federal de Educación.
 
-- Organizar y conducir las instituciones educativas de gestión estatal.
+- d) Organizar y conducir las instituciones educativas de gestión estatal.
 
-- Autorizar,  reconocer,  supervisar  y  realizar  los  aportes  correspondientes  a  las instituciones  educativas de gestión privada, cooperativa y social, conforme a los criterios establecidos en el artículo 65 de esta ley.
+- e) Autorizar, reconocer, supervisar y realizar los aportes correspondientes a las instituciones educativas de gestión privada, cooperativa y social, conforme a los criterios establecidos en el artículo 65 de esta ley.
 
-- Aplicar  las  resoluciones del Consejo Federal de Educación para resguardar la unidad del Sistema Educativo Nacional.
+- f) Aplicar las resoluciones del Consejo Federal de Educación para resguardar la unidad del Sistema Educativo Nacional.
 
-- Expedir títulos y certificaciones de estudios.
+- g) Expedir títulos y certificaciones de estudios.
 
 #### CAPITULO V
 ##### LA INSTITUCIÓN EDUCATIVA
@@ -1021,75 +1049,75 @@ Los gobiernos provinciales y de la Ciudad Autónoma de Buenos Aires, en cumplimi
 ###### ARTÍCULO 122.
 La  institución  educativa  es  la  unidad  pedagógica  del  sistema responsable de los procesos de enseñanza-aprendizaje destinados al logro de los objetivos establecidos por esta ley. Para ello , favorece y articula la participación de los distintos actores que constituyen la comunidad educativa: directivos, docentes, padres, madres y/o tutores/as, alumnos/as, ex alumnos/as, personal administrativo y auxiliar de la docencia, profesionales de los equipos de apoyo que garantizan el carácter integral de la educación, cooperadoras escolares y otras organizaciones vinculadas a la institución.
 
-###### ARTICULO  123.
-El  Consejo  Federal  de  Educación  fijará  las  disposiciones necesarias para que las distintas jurisdicciones dispongan la organización de las institutions  educativas  de  acuerdo  a  los  siguientes  criterios  generales,  que  se adecuarán a los niveles y modalidades:
+###### ARTICULO 123.-
+El Consejo Federal de Educación fijará las disposiciones necesarias para que las distintas jurisdicciones dispongan la organización de las instituciones educativas de acuerdo a los siguientes criterios generales, que se adecuarán a los niveles y modalidades:
 
-- Definir, como comunidad de trabajo, su proyecto educativo con la participación de todos sus integrantes, respetando los principios y objetivos enunciados en esta ley y en la legislación jurisdiccional vigente.
+- a) Definir, como comunidad de trabajo, su proyecto educativo con la participación de todos sus integrantes, respetando los principios y objetivos enunciados en esta ley y en la legislación jurisdiccional vigente.
 
-- Promover  modos  de  organización  institucional  que  garanticen  dinámicas democráticas de convocatoria y participación de los/as alumnos/as en la experiencia escolar.
+- b) Promover modos de organización institucional que garanticen dinámicas democráticas de convocatoria y participación de los/as alumnos/as en la experiencia escolar.
 
-- Adoptar el principio de no discriminación en el acceso y trayectoria educativa de los/as alumnos/as.
+- c) Adoptar el principio de no discriminación en el acceso y trayectoria educativa de los/as alumnos/as.
 
-- Brindar a los equipos docentes la posibilidad de contar con espacios institucionales destinados a elaborar sus proyectos educativos comunes.
+- d) Brindar a los equipos docentes la posibilidad de contar con espacios institucionales destinados a elaborar sus proyectos educativos comunes.
 
-- Promover  la  creación  de  espacios  de  articulación  entre  las  instituciones  del mismo nivel educativo y de distintos niveles educativos de una misma zona.
+- e) Promover la creación de espacios de articulación entre las instituciones del mismo nivel educativo y de distintos niveles educativos de una misma zona.
 
-- Promover  la  vinculación  intersectorial  e  interinstitucional  con  las  áreas  que  se consideren  pertinentes,  a  fin  de  asegurar  la  provisión  de  servicios  sociales, psicológicos, psicopedagógicos y médicos que garanticen condiciones adecuadas para el aprendizaje.
+- f) Promover la vinculación intersectorial e interinstitucional con las áreas que se consideren pertinentes, a fin de asegurar la provisión de servicios sociales, psicológicos, psicopedagógicos y médicos que garanticen condiciones adecuadas para el aprendizaje.
 
-- Desarrollar procesos de autoevaluación institucional con el propósito de revisar las prácticas pedagógicas y de gestión.
+- g) Desarrollar procesos de autoevaluación institucional con el propósito de revisar las prácticas pedagógicas y de gestión.
 
-- Realizar adecuaciones curriculares, en el marco de los lineamientos curriculares jurisdiccionales y federales, para responder a las particularidades y necesidades de su alumnado y su entorno.
+- h) Realizar adecuaciones curriculares, en el marco de los lineamientos curriculares jurisdiccionales y federales, para responder a las particularidades y necesidades de su alumnado y su entorno.
 
-- Definir su código de convivencia.
+- i) Definir su código de convivencia.
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
 
-- Desarrollar prácticas de mediación que contribuyan a la resolución pacífica de conflictos.
+- j) Desarrollar prácticas de mediación que contribuyan a la resolución pacífica de conflictos.
 
-- Promover iniciativas  en  el  ámbito  de  la  experimentación  y  de  la  investigación pedagógica.
+- k) Promover iniciativas en el ámbito de la experimentación y de la investigación pedagógica.
 
-- Mantener  vínculos  regulares  y  sistemáticos  con  el  medio  local,  desarrollar actividades  de  extensión,  tales  como  las  acciones  de  aprendizaje-servicio,  y promover  la  creación  de  redes  que  fortalezcan la  cohesión  comunitaria  e intervengan frente a la diversidad de situaciones que presenten los/as alumnos/as y sus familias.
+- l) Mantener vínculos regulares y sistemáticos con el medio local, desarrollar actividades de extensión, tales como las acciones de aprendizaje-servicio, y promover la creación de redes que fortalezcan la cohesión comunitaria e intervengan frente a la diversidad de situaciones que presenten los/as alumnos/as y sus familias.
 
-- Promover la participación de la comunidad a través de la cooperación escolar en todos los establecimientos educativos de gestión estatal.
+- m) Promover la participación de la comunidad a través de la cooperación escolar en todos los establecimientos educativos de gestión estatal.
 
-- Favorecer  el  uso  de  las  instalaciones  escolares  para  actividades  recreativas, expresivas y comunitarias.
+- n) Favorecer el uso de las instalaciones escolares para actividades recreativas, expresivas y comunitarias.
 
-- Promover  experiencias  educativas  fuera  del  ámbito  escolar,  con  el  fin  de permitir a los/as estudiantes conocer la cultura nacional, experimentar actividades físicas  y  deportivas  en  ambientes  urbanos  y  naturales  y  tener  acceso  a  las actividades culturales de su localidad y otras.
+- o) Promover experiencias educativas fuera del ámbito escolar, con el fin de permitir a los/as estudiantes conocer la cultura nacional, experimentar actividades físicas y deportivas en ambientes urbanos y naturales y tener acceso a las actividades culturales de su localidad y otras.
 
-###### ARTÍCULO  124.
-Los  institutos  de  educación  superior  tendrán  una  gestión democrática, a través de organismos colegiados, que favorezcan la participación de  los/as  docentes  y  de  los/as  estudiantes  en  el  gobierno  de  la  institución  y mayores  grados  de  decisión  en  el  diseño  e  implementación  de  su  proyecto institutional.
+###### ARTÍCULO 124.-
+Los institutos de educación superior tendrán una gestión democrática, a través de organismos colegiados, que favorezcan la participación de los/as docentes y de los/as estudiantes en el gobierno de la institución y mayores grados de decisión en el diseño e implementación de su proyecto institucional.
 
 #### CAPÍTULO VI
 
 ##### DERECHOS Y DEBERES DE LOS/AS ALUMNOS/AS
 
-###### ARTÍCULO  125.
+###### ARTÍCULO 125.-
 Todos/as  los/as  alumnos/as  tienen  los  mismos  derechos  y deberes, sin más distinciones  que las derivadas de su edad, del nivel educativo o modalidad que estén cursando o de las que se establezcan por leyes especiales.
 
-###### ARTÍCULO 126.
+###### ARTÍCULO 126.-
 Los/as alumnos/as tienen derecho a:
 
 a)  Una  educación  integral  e  igualitaria  en  términos  de  calidad  y  cantidad,  que contribuya al desarrollo de su personalidad, posibilite la adquisición de conocimientos, habilidades y sentido de responsabilidad y solidaridad sociales y que garantice igualdad de oportunidades.
 
-- Ser respetados/as en su libertad de conciencia, en el marco de la convivencia democrática.
+- b) Ser respetados/as en su libertad de conciencia, en el marco de la convivencia democrática.
 
-- Concurrir a la escuela hasta completar la educación obligatoria.
+- c) Concurrir a la escuela hasta completar la educación obligatoria.
 
-- Ser protegidos/as contra toda agresión física, psicológica o moral.
+- d) Ser protegidos/as contra toda agresión física, psicológica o moral.
 
-- Ser  evaluados/as  en  su  desempeño  y  logros,  conforme  a  criterios  rigurosa  y científicamente  fundados,  en  todos  los  niveles,  modalidades  y  orientaciones  del sistema, e informados/as al respecto.
+- e) Ser evaluados/as en su desempeño y logros, conforme a criterios rigurosa y científicamente fundados, en todos los niveles, modalidades y orientaciones del sistema, e informados/as al respecto.
 
-- Recibir  el  apoyo  económico,  social,  cultural  y  pedagógico  necesario  para garantizar la igualdad de oportunidades y posibilidades que le permitan completar la educación obligatoria.
+- f) Recibir el apoyo económico, social, cultural y pedagógico necesario para garantizar la igualdad de oportunidades y posibilidades que le permitan completar la educación obligatoria.
 
-- Recibir orientación vocacional, académica  y  profesional-ocupacional que posibilite su inserción en el mundo laboral y la prosecución de otros estudios.
+- g) Recibir orientación vocacional, académica y profesional-ocupacional que posibilite su inserción en el mundo laboral y la prosecución de otros estudios.
 
-- Integrar centros, asociaciones y clubes de estudiantes u otras organizaciones comunitarias para participar en el funcionamiento de las instituciones educativas, con  responsabilidades  progresivamente  mayores,  a  medida  que  avancen  en  los niveles del sistema.
+- h) Integrar centros, asociaciones y clubes de estudiantes u otras organizaciones comunitarias para participar en el funcionamiento de las instituciones educativas, con responsabilidades progresivamente mayores, a medida que avancen en los niveles del sistema.
 
-- Participar  en  la  toma  de  decisiones  sobre  la  formulación  de  proyectos  y  en  la elección  de  espacios  curriculares  complementarios  que  propendan  a  desarrollar mayores grados de responsabilidad y autonomía en su proceso de aprendizaje.
+- i) Participar en la toma de decisiones sobre la formulación de proyectos y en la elección de espacios curriculares complementarios que propendan a desarrollar mayores grados de responsabilidad y autonomía en su proceso de aprendizaje.
 
-- Desarrollar sus aprendizajes en edificios que respondan a normas de seguridad y  salubridad,  con  instalaciones  y  equipamiento  que  aseguren  la  calidad  del servicio educativo.
+- j) Desarrollar sus aprendizajes en edificios que respondan a normas de seguridad y salubridad, con instalaciones y equipamiento que aseguren la calidad del servicio educativo.
 
 [[END OF PAGE 26]]
 
@@ -1099,105 +1127,105 @@ a)  Una  educación  integral  e  igualitaria  en  términos  de  calidad  y  ca
 
 Son deberes de los/as alumnos/as:
 
-- Estudiar y esforzarse por conseguir el máximo desarrollo según sus capacidades y posibilidades.
+- a) Estudiar y esforzarse por conseguir el máximo desarrollo según sus capacidades y posibilidades.
 
-- Participar en todas las actividades formativas y complementarias.
+- b) Participar en todas las actividades formativas y complementarias.
 
-- Respetar  la  libertad  de  conciencia,  la  dignidad,  integridad  e  intimidad  de todos/as los/as miembros de la comunidad educativa.
+- c) Respetar la libertad de conciencia, la dignidad, integridad e intimidad de todos/as los/as miembros de la comunidad educativa.
 
-- Participar y colaborar  en  la mejora  de  la  convivencia  escolar  y  en  la consecución  de  un  adecuado  clima  de  estudio  en  la  institución,  respetando  el derecho de sus compañeros/as a la educación y las orientaciones de la autoridad, los/as docentes y los/as profesores/as.
+- d) Participar y colaborar en la mejora de la convivencia escolar y en la consecución de un adecuado clima de estudio en la institución, respetando el derecho de sus compañeros/as a la educación y las orientaciones de la autoridad, los/as docentes y los/as profesores/as.
 
-- Respetar  el  proyecto  educativo  institucional,  las  normas  de  organización, convivencia y disciplina del establecimiento escolar.
+- e) Respetar el proyecto educativo institucional, las normas de organización, convivencia y disciplina del establecimiento escolar.
 
-- Asistir a clase regularmente y con puntualidad.
+- f) Asistir a clase regularmente y con puntualidad.
 
-- Conservar y hacer un buen uso de las instalaciones, equipamiento y materiales didácticos del establecimiento educativo.
+- g) Conservar y hacer un buen uso de las instalaciones, equipamiento y materiales didácticos del establecimiento educativo.
 
 #### CAPITULO VII
 
 ##### DERECHOS Y DEBERES DE LOS PADRES, MADRES, TUTORES/AS
 
-###### ARTÍCULO 128.
+###### ARTÍCULO 128.-
 Los  padres,  madres  o  tutores/as  de  los/as  estudiantes  tienen derecho a:
 
-- Ser reconocidos/as como agentes naturales y primarios de la educación.
+- a) Ser reconocidos/as como agentes naturales y primarios de la educación.
 
-- Participar  en  las  actividades  de  los  establecimientos  educativos  en  forma individual  o  a  través  de  las  cooperadoras  escolares  y  los  órganos  colegiados representativos, en el marco del proyecto educativo institucional.
+- b) Participar en las actividades de los establecimientos educativos en forma individual o a través de las cooperadoras escolares y los órganos colegiados representativos, en el marco del proyecto educativo institucional.
 
-- Elegir para sus hijos/as o representados/as, la institución educativa cuyo ideario responda a sus convicciones filosóficas, éticas o religiosas.
+- c) Elegir para sus hijos/as o representados/as, la institución educativa cuyo ideario responda a sus convicciones filosóficas, éticas o religiosas.
 
-- Ser  informados/as  periódicamente  acerca  de  la  evolución  y  evaluación  del proceso educativo de sus hijos/as o representados/as.
+- d) Ser informados/as periódicamente acerca de la evolución y evaluación del proceso educativo de sus hijos/as o representados/as.
 
-###### ARTÍCULO 129.
+###### ARTÍCULO 129.-
 Los padres, madres o tutores/as de los/as estudiantes tienen los siguientes deberes:
 
-- Hacer cumplir a sus hijos/as o representados/as la educación obligatoria.
+- a) Hacer cumplir a sus hijos/as o representados/as la educación obligatoria.
 
-- Asegurar la concurrencia de sus hijos/as o representados/as a los establecimientos  escolares  para  el  cumplimiento  de  la  escolaridad  obligatoria, salvo excepciones de salud o de orden legal que impidan a los/as educandos/as su asistencia periódica a la escuela.
+- b) Asegurar la concurrencia de sus hijos/as o representados/as a los establecimientos escolares para el cumplimiento de la escolaridad obligatoria, salvo excepciones de salud o de orden legal que impidan a los/as educandos/as su asistencia periódica a la escuela.
 
-- Seguir  y apoyar  la evolución del proceso  educativo  de  sus  hijos/as o representados/as
+- c) Seguir y apoyar la evolución del proceso educativo de sus hijos/as o representados/as
 
-- Respetar  y  hacer  respetar  a  sus  hijos/as  o  representados/as  la  autoridad pedagógica del/de la docente y las normas de convivencia de la unidad educativa.
+- d) Respetar y hacer respetar a sus hijos/as o representados/as la autoridad pedagógica del/de la docente y las normas de convivencia de la unidad educativa.
 
-- Respetar  y  hacer  respetar  a  sus  hijos/as  o  representados/as  la  libertad  de conciencia, la dignidad, integridad e intimidad de todos/as los/as miembros de la comunidad educativa.
+- e) Respetar y hacer respetar a sus hijos/as o representados/as la libertad de conciencia, la dignidad, integridad e intimidad de todos/as los/as miembros de la comunidad educativa.
 
 ## TITULO XI
 
 ### CUMPLIMIENTO DE LOS OBJETIVOS DE LA LEY
 
-###### ARTÍCULO 130.
-El Ministerio de Educación, Ciencia y Tecnología, en su carácter de autoridad de aplicación de esta ley, acordará con las Provincias y la Ciudad Autónoma de Buenos Aires, en el ámbito del Consejo Federal de Educación, la implementación y seguimiento de las políticas educativas destinadas a cumplir con lo establecido en la presente ley. A tal fin, se establecerán: a) El calendario de implementación de la nueva estructura unificada del Sistema
+###### ARTÍCULO 130.-
+El Ministerio de Educación, Ciencia y Tecnología, en su carácter de autoridad de aplicación de esta ley, acordará con las Provincias y la Ciudad Autónoma de Buenos Aires, en el ámbito del Consejo Federal de Educación, la implementación y seguimiento de las políticas educativas destinadas a cumplir con lo establecido en la presente ley. A tal fin, se establecerán:
 
-- Educativo Nacional, conforme a lo dispuesto por los artículos 15 y 134 de esta ley.
+- a) El calendario de implementación de la nueva estructura unificada del Sistema Educativo Nacional, conforme a lo dispuesto por los artículos 15 y 134 de esta ley.
 
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
 
-- La planificación de los programas, actividades y acciones que serán desarrollados para coadyuvar al cumplimiento de los objetivos de esta ley, con sus respectivas metas, cronogramas y recursos.
+- b) La planificación de los programas, actividades y acciones que serán desarrollados para coadyuvar al cumplimiento de los objetivos de esta ley, con sus respectivas metas, cronogramas y recursos.
 
-- Dicha planificación asegurará la convergencia, complementación e integración de los objetivos de esta ley con los fijados en el artículo 2° de la Ley N° 26.075, que rigen hasta el año 2010.
+- c) Dicha planificación asegurará la convergencia, complementación e integración de los objetivos de esta ley con los fijados en el artículo 2° de la Ley N° 26.075, que rigen hasta el año 2010.
 
-- Los mecanismos de seguimiento y evaluación del cumplimiento de los objetivos de esta ley y de los fijados en el artículo 2° de la Ley N° 26.075.
+- d) Los mecanismos de seguimiento y evaluación del cumplimiento de los objetivos de esta ley y de los fijados en el artículo 2° de la Ley N° 26.075.
 
-- La  definición  e  implementación  de  procedimientos  de  auditoría  eficientes  que garanticen  la  utilización  de  los  recursos  destinados  a  educación  en  la  forma prevista.
+- e) La definición e implementación de procedimientos de auditoría eficientes que garanticen la utilización de los recursos destinados a educación en la forma prevista.
 
-###### ARTÍCULO 131.
+###### ARTÍCULO 131.-
 El Ministerio de Educación, Ciencia y Tecnología, en su carácter de autoridad de aplicación de esta ley, llevará a cabo convenios bilaterales con las Provincias y la Ciudad Autónoma de Buenos Aires en los que se establecerán:
 
-- las  metas  anuales  destinadas  a  alcanzar  los  objetivos  propuestos  por  esta norma, que no se encuentren incluidos en el artículo 2° de la Ley N° 26.075;
+- a) las metas anuales destinadas a alcanzar los objetivos propuestos por esta norma, que no se encuentren incluidos en el artículo 2° de la Ley N° 26.075;
 
-- los  recursos  de  origen  nacional  y  provincial,  o  en  su  caso  de  la  Ciudad Autónoma de Buenos Aires, que se asignarán para su cumplimiento; y
+- b) los recursos de origen nacional y provincial, o en su caso de la Ciudad Autónoma de Buenos Aires, que se asignarán para su cumplimiento; y
 
-- los mecanismos de evaluación destinados a verificar su correcta asignación.
+- c) los mecanismos de evaluación destinados a verificar su correcta asignación.
 
 ## TÍTULO XII
 
 ### DISPOSICIONES TRANSITORIAS Y COMPLEMENTARIAS
 
-###### ARTÍCULO 132.
+###### ARTÍCULO 132.-
 Derógase la Ley Nº 25.030 , la Ley N° 24.195, la Ley N° 22.047 y su  Decreto  reglamentario  N°  943/84,  y  demás  normas  complementarias  y aclaratorias.
 
-###### ARTÍCULO 133.
+###### ARTÍCULO 133.-
 Sustitúyese, en el artículo 5° y sucesivos de la Ley N° 24.521 y sus  modificatorias,  la  denominación  'instituciones  de  educación  superior  no universitaria' por la de 'institutos de educación superior'.
 
-###### ARTÍCULO 134.
+###### ARTÍCULO 134.-
 A partir de la vigencia de la presente ley cada jurisdicción podrá decidir  sólo  entre  dos  opciones  de  estructura  para  los  niveles  de  Educación Primaria y Secundaria de la educación común:
 
-- una estructura de seis (6) años para el nivel de Educación Primaria y de seis (6) años para el nivel de Educación Secundaria o,
+- a) una estructura de seis (6) años para el nivel de Educación Primaria y de seis (6) años para el nivel de Educación Secundaria o,
 
-- una estructura de siete (7) años para el nivel de Educación Primaria y cinco (5) años para el nivel de Educación Secundaria.
+- b) una estructura de siete (7) años para el nivel de Educación Primaria y cinco (5) años para el nivel de Educación Secundaria.
 
 Con respecto a la Educación Técnica rige lo dispuesto por el artículo 24 de la Ley Nº 26.058.
 
 Se establece un plazo de seis (6) años, a partir de la sanción de la presente ley, para  que,  a  través  de  acuerdos  entre  el  Ministerio  de  Educación,  Ciencia  y Tecnología y el Consejo Federal de Educación, se defina la ubicación del séptimo (7°)  año  de  escolaridad.  El  Ministerio  de  Educación,  Ciencia  y  Tecnología  y  el Consejo  Federal de Educación  acordarán los criterios de unificación que, respetando las condiciones de las distintas jurisdicciones, aseguren los mecanismos necesarios de equivalencia y certificación de los estudios, movilidad de los/as alumnos/as y derechos adquiridos por los/as docentes.
 
-###### ARTÍCULO 135.
+###### ARTÍCULO 135.-
 El Consejo Federal de Educación acordará y definirá los criterios organizativos, los modelos pedagógicos y demás disposiciones necesarias para:
 
-- universalizar  progresivamente  los  servicios  educativos  para  los  niños/as  de cuatro  (4)  años  de  edad,  establecida  en  el  artículo  19  de  la  presente  ley, priorizando a los sectores más desfavorecidos;
+- a) universalizar progresivamente los servicios educativos para los niños/as de cuatro (4) años de edad, establecida en el artículo 19 de la presente ley, priorizando a los sectores más desfavorecidos;
 
-- implementar la jornada extendida o completa, establecida por el artículo 28 de esta ley, con el objeto de introducir los nuevos contenidos curriculares propuestos para la Educación Primaria.
+- b) implementar la jornada extendida o completa, establecida por el artículo 28 de esta ley, con el objeto de introducir los nuevos contenidos curriculares propuestos para la Educación Primaria.
 
 [[END OF PAGE 28]]
 
@@ -1205,40 +1233,40 @@ El Consejo Federal de Educación acordará y definirá los criterios organizativ
 
 Dicha implementación se planificará y ejecutará conforme a las disposiciones de los  incisos  b),  c)  y  d)  del  artículo  130  de  la  presente  ley;  y  hasta  tanto  haya concluido este proceso, las distintas jurisdicciones deberán garantizar un mínimo de  veinte  (20)  horas  de  clase  semanales  para  las  escuelas  primarias  que  no cuenten aún con la jornada extendida o completa.
 
-###### ARTÍCULO 136.
+###### ARTÍCULO 136.-
 El Consejo Federal de Educación deberá acordar en el término de  un  (1)  año,  a  partir  de  la  sanción  de  la  presente  ley,  una  resolución  de cumplimiento obligatorio de lo dispuesto por el artículo 32 de esta ley, acompañada de los estudios técnicos y presupuestarios que faciliten su implementación.
 
-###### ARTÍCULO  137.
+###### ARTÍCULO 137.-
 Los  servicios  educativos  de  la  modalidad  de  Educación  en Contextos de Privación de Libertad son las propias del nivel que corresponda a la población  destinataria  y  podrán  ser  implementadas  a  través  de  estrategias pedagógicas flexibles, que garanticen la igualdad en la calidad de los resultados. Las certificaciones corresponderán a los modelos de la educación común.
 
-###### ARTÍCULO 138.
+###### ARTÍCULO 138.-
 El  Ministerio  de  Educación,  Ciencia  y  Tecnología,  de  acuerdo con el Consejo Federal de Educación, diseñará programas a término destinados a garantizar  la  erradicación  del  analfabetismo  y  el  cumplimiento  de  la  educación obligatoria prescripta en el artículo 16 de la presente ley, para la población mayor de  dieciocho  (18)  años  de  edad  que  no  la  haya  alcanzado  a  la  fecha  de  la promulgación de la presente ley. Dicho programa contará con servicios educativos presenciales y a distancia, integrando un sistema de becas para jóvenes y adultos, y provisión gratuita de materiales de aprendizaje, que  asegure  la calidad educativa, así como la permanencia y egreso de los/as participantes.
 
 Asimismo, y en el marco de lo establecido en el artículo  47  de  la  presente  ley, impulsará  la  adopción  de  programas  de  relevamiento,  difusión,  comunicación, orientación y apoyo a dichas personas cuando efectúen gestiones administrativas y participen de programas tales como la tramitación del Documento Nacional de Identidad, licencia para conducir y campañas de vacunación, entre otros.
 
-###### ARTÍCULO 139.
+###### ARTÍCULO 139.-
 La  concertación técnica de las políticas de formación docente, acordadas  en  el  Consejo  Federal  de  Educación,  se  realizará  a  través  de encuentros federales que garanticen la participación y consulta de los/as directores/as o responsables de la Educación Superior de cada jurisdicción, bajo la coordinación del Instituto Nacional de Formación Docente.
 
-###### ARTICULO  140.
+###### ARTICULO 140.-
 El Consejo  Federal de Educación  acordará los criterios generales y comunes para orientar, previo análisis y relevamiento de la situación en  cada  jurisdicción,  el  encuadramiento  legal  de  las  instituciones  educativas  de gestión cooperativa y social y las  normas  que  regirán  su  reconocimiento, autorización y supervisión.
 
-###### ARTICULO 141.
+###### ARTICULO 141.-
 Invitar a las jurisdicciones provinciales y a la Ciudad Autónoma de Buenos Aires a efectuar las reformas necesarias en la legislación que regula la actividad laboral y profesional docente, con el objeto de incorporar la inhabilitación para el ejercicio de la docencia a quien haya sido condenado/a por delitos contra la integridad sexual, conforme a lo establecido en el Título III, Capítulos II, III, IV y V del Libro Segundo del Código Penal, aún cuando se hubieren beneficiado por el indulto o la conmutación de la pena.
 
-###### ARTICULO  142.
+###### ARTICULO 142.-
 Educ.ar  Sociedad  del  Estado,  los  bienes  que  integran  su patrimonio,  actos  y  contratos  que  celebre  a  título  oneroso  o  gratuito,  estarán exentos  de  todo  gravamen,  arancel  o  impuesto  nacional,  cualquiera  fuera  su denominación, toda vez que su objeto social excede la mera búsqueda de un fin de lucro y constituye una herramienta esencial para la educación pública argentina y la difusión del conocimiento igualitario de todos/as los/as habitantes, a través de internet y la televisión educativa.
 
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
 
-###### ARTÍCULO 143.
+###### ARTÍCULO 143.-
 El  Estado  Nacional,  las  Provincias  y  la  Ciudad  Autónoma  de Buenos  Aires  deberán  garantizar  a  las  personas  migrantes  sin  Documento Nacional de Identidad (DNI), el acceso y las condiciones para la permanencia y el egreso de todos los niveles  del  sistema  educativo,  mediante  la  presentación  de documentos  emanados  de  su  país  de  origen,  conforme  a  lo  establecido  por  el artículo 7º de la Ley N° 25.871.
 
-###### ARTÍCULO 144.
+###### ARTÍCULO 144.-
 Los/as niños/as y jóvenes radicados/as temporariamente en el exterior  podrán  cumplir  con  la  educación  obligatoria  a  través  de  servicios  de educación a distancia.
 
-###### ARTICULO 145.
+###### ARTICULO 145.-
 Comuníquese al Poder Ejecutivo Nacional.
 
 De acuerdo con las disposiciones pertinentes del Reglamento del H. Senado este Dictamen pasa directamente al Orden del Día.-
