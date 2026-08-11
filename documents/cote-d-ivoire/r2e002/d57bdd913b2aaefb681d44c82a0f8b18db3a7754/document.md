@@ -436,7 +436,7 @@ Le Président de la République est le Chef de l'Etat. Il incarne l'unité natio
 
 Le Président de la République est élu pour cinq ans au suffrage universel direct. Il n'est rééligible qu'une fois.
 
-Il choisit un vice-Président de la République, qui est élu en même temps que lui. Le candidat à l'élection présidentielle doit jouir de ses droits civils et politiques et doit être âgé de trentecinq ans au moins. Il doit être exclusivement de nationalité ivoirienne, né de père ou de mère ivoirien d'origine.
+Il choisit un vice-Président de la République, qui est élu en même temps que lui. Le candidat à l'élection présidentielle doit jouir de ses droits civils et politiques et doit être âgé de trente-cinq ans au moins. Il doit être exclusivement de nationalité ivoirienne, né de père ou de mère ivoirien d'origine.
 
 #### Article 56
 
@@ -444,7 +444,7 @@ Le Président de la République et le vice-Président de la République sont él
 
 Le premier tour du scrutin a lieu le dernier samedi du mois d'octobre de la cinquième année du mandat du Président de la République et du vice-Président de la République en fonction.
 
-Si la majorité absolue n'est pas obtenue au premier tour, il est procédé à un second tour. Seules peuvent s'y présenter les deux listes de candidats ayant recueilli le plus grand nombre de suffrages exprimés au premier tour. Le second tour a lieu le dernier samedi du mois de novembre de la cinquième année du mandat du Président de la République et du vicePrésident de la République en fonction.
+Si la majorité absolue n'est pas obtenue au premier tour, il est procédé à un second tour. Seules peuvent s'y présenter les deux listes de candidats ayant recueilli le plus grand nombre de suffrages exprimés au premier tour. Le second tour a lieu le dernier samedi du mois de novembre de la cinquième année du mandat du Président de la République et du vice-Président de la République en fonction.
 
 Est élue au second tour la liste de candidats ayant recueilli le plus grand nombre de voix.
 
@@ -486,7 +486,7 @@ Lors de son entrée en fonction et à la fin de son mandat, le Président de la 
 
 [[START OF PAGE 13]]
 
-Durant l'exercice de ses fonctions, le Président de la République ne peut, par luimême, ni par personne interposée, rien acquérir ou louer qui appartienne au domaine de l'Etat et des collectivités publiques, sauf autorisation préalable de la Cour des Comptes dans les conditions fixées par la loi.
+Durant l'exercice de ses fonctions, le Président de la République ne peut, par lui-même, ni par personne interposée, rien acquérir ou louer qui appartienne au domaine de l'Etat et des collectivités publiques, sauf autorisation préalable de la Cour des Comptes dans les conditions fixées par la loi.
 
 Le Président de la République ne peut soumissionner aux marchés de l'Etat et des collectivités publiques.
 
@@ -588,7 +588,7 @@ Lorsque le référendum a conclu à l'adoption du texte, le Président de la Ré
 
 #### Article 76
 
-Le Président de la République peut, par décret, déléguer certains de ses pouvoirs au vicePrésident de la République, au Premier ministre et aux autres membres du Gouvernement.
+Le Président de la République peut, par décret, déléguer certains de ses pouvoirs au vice-Président de la République, au Premier ministre et aux autres membres du Gouvernement.
 
 [[END OF PAGE 15]]
 
