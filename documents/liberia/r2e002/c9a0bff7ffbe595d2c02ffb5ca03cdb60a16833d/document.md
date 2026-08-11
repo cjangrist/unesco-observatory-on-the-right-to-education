@@ -2,9 +2,9 @@
 
 Children's Law, 2011
 
-September  2011
-
 # AN ACT TO ESTABLISH THE CHILDREN'S LAW OF LIBERIA, 2011
+
+September 2011
 
 1
 
@@ -14,73 +14,73 @@ September  2011
 
 Children's Law, 2011
 
+## CONTENTS
+
 SECTION
 
 ### ARTICLE I: Title and Definitions
 
-- Establishment
+1. Establishment
 
-- Short Title
+2. Short Title
 
-- Definition
+3. Definition
 
 ### ARTICLE II: Objective and Principles of the Law
 
-- Objective of Law
+1. Objective of Law
 
-- The principle of the best interests of the child to underlie the Law
+2. The principle of the best interests of the child to underlie the Law
 
-- Complementary principles
+3. Complementary principles
 
 ### ARTICLE III: Child Rights and Governmental Duties
 
-- A Bill of Rights for Children
+1. A Bill of Rights for Children
 
-- Realization of child rights to be progressive and subject to maximum use of available resources
+2. Realization of child rights to be progressive and subject to maximum use of available resources
 
-- The right to life
+3. The right to life
 
-- The right to a name and identity
+4. The right to a name and identity
 
-- The right to know and be brought up by parents
+5. The right to know and be brought up by parents
 
-- The right to parental guidance
+6. The right to parental guidance
 
-- The right to an adequate standard of living
+7. The right to an adequate standard of living
 
-- The right to access medically necessary health care
+8. The right to access medically necessary health care
 
-- The right to education
+9. The right to education
 
-- The right to adequate food and water
+10. The right to adequate food and water
 
-- The right to adequate shelter
+11. The right to adequate shelter
 
-- The right to adequate clothing
+12. The right to adequate clothing
 
-- The right to leisure, play, and recreation
+13. The right to leisure, play, and recreation
 
-- The right to expression and access to information
+14. The right to expression and access to information
 
-- Freedom of thought and religion
+15. Freedom of thought and religion
 
-- Freedom of association
+16. Freedom of association
 
-- The child's right to benefit from inheritance
+17. The child's right to benefit from inheritance
 
-- The right to privacy
+18. The right to privacy
 
-- The right to participate  in cultural activities
+19. The right to participate in cultural activities
 
-- The right to be protected from harmful work
+20. The right to be protected from harmful work
 
-- The right to be protected from abuse and exploitation
+21. The right to be protected from abuse and exploitation
 
-- The right to be protected from involvement in armed conflicts and violence
+22. The right to be protected from involvement in armed conflicts and violence
 
 ### ARTICLE IV: Parental Duties and Rights
-
-## CONTENTS
 
 2
 
@@ -90,69 +90,69 @@ SECTION
 
 Children's Law, 2011
 
-- Parental duties
+1. Parental duties
 
-- Parental rights
+2. Parental rights
 
-- Assistance to parents in difficult circumstances
+3. Assistance to parents in difficult circumstances
 
 ### ARTICLE V: Community and Governmental Support to Parents
 
-- Support from community or town heads and the community or town
+1. Support from community or town heads and the community or town
 
-- Support from local government authorities
+2. Support from local government authorities
 
-- Support from central government
+3. Support from central government
 
-- Support from service providers to be as a matter of duty
+4. Support from service providers to be as a matter of duty
 
 ### ARTICLE VI: The Child's Responsibilities, Culture, and Tradition
 
-- Bringing up of a child to instill responsibility and  cultural and national Pride
+1. Bringing up of a child to instill responsibility and cultural and national Pride
 
-- Guidance from relatives
+2. Guidance from relatives
 
-- Child to contribute to respect of parents, family cohesion and to exhibit hard working spirit
+3. Child to contribute to respect of parents, family cohesion and to exhibit hard working spirit
 
-- Harmful practices prohibited for a child
+4. Harmful practices prohibited for a child
 
 ### ARTICLE VII: Children and Situations of Vulnerability
 
-- Definition of children in situations of disadvantage
+1. Definition of children in situations of disadvantage
 
-- Ministry of Gender and Development to coordinate efforts to address the causes of child vulnerability
+2. Ministry of Gender and Development to coordinate efforts to address the causes of child vulnerability
 
-- The Ministry of Health and Social Welfare to coordinate efforts to address the effects of situations of vulnerability
+3. The Ministry of Health and Social Welfare to coordinate efforts to address the effects of situations of vulnerability
 
-- Realizing the rights of the child with disabilities
+4. Realizing the rights of the child with disabilities
 
-- Realizing rights of  refugee and displaced children
+5. Realizing rights of refugee and displaced children
 
-- The rights of children of imprisoned mothers
+6. The rights of children of imprisoned mothers
 
-- Cruel, degrading or Inhumane Punishment and Discipline Prohibited
+7. Cruel, degrading or Inhumane Punishment and Discipline Prohibited
 
-- Abduction and trafficking of children prohibited
+8. Abduction and trafficking of children prohibited
 
-- Hazardous employment of children prohibited
+9. Hazardous employment of children prohibited
 
-- Rehabilitative care for traumatized and abused children
+10. Rehabilitative care for traumatized and abused children
 
 ### ARTICLE VIII: Standards for Child Protection Practitioners and Organizations
 
-- Guiding principles in child protection
+1. Guiding principles in child protection
 
-- Conduct for child protection practitioners
+2. Conduct for child protection practitioners
 
-- Standards for child protection organizations
+3. Standards for child protection organizations
 
 ### ARTICLE IX: Standards in Juvenile Justice
 
-- Chapters 10 and 11 of the Judiciary Law to be subject to sections 4 and 5
+1. Chapters 10 and 11 of the Judiciary Law to be subject to sections 4 and 5
 
-- Objectives and principles for policy and decision making
+2. Objectives and principles for policy and decision making
 
-- Principles to guide the administration of juvenile justice and related matters
+3. Principles to guide the administration of juvenile justice and related matters
 
 3
 
@@ -164,71 +164,71 @@ Children's Law, 2011
 
 ### ARTICLE X: Alternative Care of Children
 
-#### Sub-Article X(I): General Provisions on  Alternative Care
+#### Sub-Article X(I): General Provisions on Alternative Care
 
-- The right to alternative care for children in need of care and the priority caregiving of biological parents and relatives
+1. The right to alternative care for children in need of care and the priority caregiving of biological parents and relatives
 
-- Applications for placement of a child in need of special care and protection into care
+2. Applications for placement of a child in need of special care and protection into care
 
-- Alternative  care  to  be  subject  to  the  best  interest  of  the  child  and  based  on  a  care agreement
+3. Alternative care to be subject to the best interest of the child and based on a care agreement
 
-- Requirements of a care agreement
+4. Requirements of a care agreement
 
-- Periodic review of placement or alternative care
+5. Periodic review of placement or alternative care
 
 #### Sub-Article X(II): Institutional Care of Children
 
-- Institutionalization of a child to be a last resort
+6. Institutionalization of a child to be a last resort
 
-- Child care institutions to be registered
+7. Child care institutions to be registered
 
-- Period for considering an application for the registration of an institution
+8. Period for considering an application for the registration of an institution
 
-- Factors for the registration of child care institutions
+9. Factors for the registration of child care institutions
 
-- Every institution to undertake responsive planning for every child in its care
+10. Every institution to undertake responsive planning for every child in its care
 
-- Duty to provide quality care in a child care institution
+11. Duty to provide quality care in a child care institution
 
-- Suitability of living conditions in child care institutions
+12. Suitability of living conditions in child care institutions
 
-- Requirement to have adequate staff in child care institutions
+13. Requirement to have adequate staff in child care institutions
 
-- Protection of the child and handling of complaints in a child care institution
+14. Protection of the child and handling of complaints in a child care institution
 
-- Closure of child care institutions by Minister
+15. Closure of child care institutions by Minister
 
 #### Sub-Article X(III): Foster Care
 
-- Eligibility to foster a child
+16. Eligibility to foster a child
 
-- Family members to have priority in fostering
+17. Family members to have priority in fostering
 
-- Applications for foster care
+18. Applications for foster care
 
-- Report of a social worker
+19. Report of a social worker
 
-- Decision of the Minister
+20. Decision of the Minister
 
-- Foster care agreement
+21. Foster care agreement
 
-- A foster child not to be moved from Liberia without Court of law order
+22. A foster child not to be moved from Liberia without Court of law order
 
 ### ARTICLE XI: Administration of the Law
 
-- Child Rights Advancement Fund
+1. Child Rights Advancement Fund
 
-- Child Rights Education Committee
+2. Child Rights Education Committee
 
-- Every community or town to have a child welfare committee
+3. Every community or town to have a child welfare committee
 
-- Functions of a community or town child welfare committee
+4. Functions of a community or town child welfare committee
 
-- Jurisdiction and powers  of child welfare committees limited to recommendations and advice
+5. Jurisdiction and powers of child welfare committees limited to recommendations and advice
 
-- Child welfare committees' power to present needs to local government authorities
+6. Child welfare committees' power to present needs to local government authorities
 
-- Composition of a community or town child welfare committees
+7. Composition of a community or town child welfare committees
 
 4
 
@@ -238,47 +238,47 @@ Children's Law, 2011
 
 Children's Law, 2011
 
-- Qualifications  of members of community or town child welfare committees
+8. Qualifications of members of community or town child welfare committees
 
-- Duration of office of members of community or town child welfare committees
+9. Duration of office of members of community or town child welfare committees
 
-- Child-related duties of district local authorities
+10. Child-related duties of district local authorities
 
-- Child-related duties of county welfare local authorities
+11. Child-related duties of county welfare local authorities
 
-- Establishment of a National Council for Child Well-being
+12. Establishment of a National Council for Child Well-being
 
-- Appointment of members of the National Council for Child Well-being
+13. Appointment of members of the National Council for Child Well-being
 
-- Duties of the National Council for National Well-being
+14. Duties of the National Council for National Well-being
 
-- Qualifications  of members of the council
+15. Qualifications of members of the council
 
-- Tenure of office of members of the council
+16. Tenure of office of members of the council
 
-- Duties of the Chief Executive Secretary
+17. Duties of the Chief Executive Secretary
 
-- Property and accounts of the council
+18. Property and accounts of the council
 
-- Annual reports of the council
+19. Annual reports of the council
 
-- Town children's representatives forums
+20. Town children's representatives forums
 
-- District children's representatives forums
+21. District children's representatives forums
 
-- County children's representatives forum
+22. County children's representatives forum
 
-- National children's representative forum
+23. National children's representative forum
 
-- The police to maintain units to protect women and children
+24. The police to maintain units to protect women and children
 
 ### ARTICLE XII: Miscellaneous
 
-- Other laws inconsistent with this Law to stand invalid
+1. Other laws inconsistent with this Law to stand invalid
 
-- Minister's general power
+2. Minister's general power
 
-- Commencement
+3. Commencement
 
 5
 
@@ -310,7 +310,7 @@ WHEREAS many  children  have  in  the  past  suffered  because  of  abuse,  expl
 
 WHEREAS Liberia  is  a  signatory  to  and  the  people  of  Liberia  share  the  beliefs expressed in international human rights instruments such as the Universal Declaration of Human Rights, the Convention on the Rights of the Child, the African  Charter on the Rights and Welfare of the Child, and the Convention on the Elimination of All Forms of Discrimination against Women;
 
-NOW THEREFORE ,
+NOW THEREFORE,
 
 It is enacted by the House of Senate and the House of Representatives of the Republic of Liberia, in Legislature Assembled:
 
@@ -325,20 +325,25 @@ Children's Law, 2011
 ## ARTICLE I Establishment, Title and Definitions
 
 #### Section 1
-That  from  and  immediately  upon  the  passage  of  this  Law, there should be established a Children's Law of Liberia, 2011. Establishment
+That from and immediately upon the passage of this Law, there should be established a Children's Law of Liberia, 2011.
+
+Establishment
 
 #### Section 2
-This  Law  to  establish  the  Children's  Law  of  Liberia,  2011 shall be cited as the -Children's Law of 2011 '. The rights and correlative duties stipulated in this Law shall constitute a Bill of Child Rights. Short Title
+This Law to establish the Children's Law of Liberia, 2011 shall be cited as the “Children's Law of 2011”. The rights and correlative duties stipulated in this Law shall constitute a Bill of Child Rights.
+
+Short Title
 
 #### Section 3
+In this Law, unless the context otherwise requires: -
 
-In this Law, unless the context otherwise requires: Definitions
+Definitions
 
--Absent  parent‖  shall  mean  a  biological  or  other  parent  not ordinarily residing as a member of the child's household;
+“Absent parent” shall mean a biological or other parent not ordinarily residing as a member of the child's household;
 
--Adequate  food‖  shall  be  construed  to  mean  availability  of food in a quantity and quality sufficient to satisfy the dietary needs  of  an  individual,  free  from  adverse  substances,  and acceptable within Liberia's culture;
+“Adequate food” shall be construed to mean availability of food in a quantity and quality sufficient to satisfy the dietary needs of an individual, free from adverse substances, and acceptable within Liberia's culture;
 
--Adequate water‖ shall be construed to mean that water supply for each person is:
+“Adequate water” shall be construed to mean that water supply for each person is:
 
 (a) sufficient and continuous for personal and domestic uses;
 
@@ -346,19 +351,19 @@ In this Law, unless the context otherwise requires: Definitions
 
 (c) from sources, facilities and services that are accessible to everyone without discrimination;
 
--Adoptive parent‖ shall mean an adult, not being the biological parent of the child, in whom a court order has vested parental rights and duties following adoption proceedings;
+“Adoptive parent” shall mean an adult, not being the biological parent of the child, in whom a court order has vested parental rights and duties following adoption proceedings;
 
--Alternative care‖ shall mean the factual provision of care for the upbringing of a child by a person other than a biological parent or by a child care institution, and includes:-
+“Alternative care” shall mean the factual provision of care for the upbringing of a child by a person other than a biological parent or by a child care institution, and includes:—
 
--caring for a child as a result of an adoption order ;
+- caring for a child as a result of an adoption order;
 
--foster parenting;
+- foster parenting;
 
--caring for a child with the implied or express consent of a parent or guardian of the child;
+- caring for a child with the implied or express consent of a parent or guardian of the child;
 
--caring for a child whilst the child is in temporary safe care;
+- caring for a child whilst the child is in temporary safe care;
 
--caring for a child at a shelter, collective home for children in need of care, or center where a child has been placed;
+- caring for a child at a shelter, collective home for children in need of care, or center where a child has been placed;
 
 7
 
@@ -368,31 +373,31 @@ In this Law, unless the context otherwise requires: Definitions
 
 Children's Law, 2011
 
--Biological parent‖ shall mean a person whose gamete contributed to the conception of the child in question;
+“Biological parent” shall mean a person whose gamete contributed to the conception of the child in question;
 
--Caregiver‖ in relation to a child shall mean a person who has duties to nurture a child under this Law or under any other law, or  is  in  any  way  providing  nurture  to  the  child  concerned, provided  that  such  law  does  not  limit  the  definition  herein provided;
+“Caregiver” in relation to a child shall mean a person who has duties to nurture a child under this Law or under any other law, or is in any way providing nurture to the child concerned, provided that such law does not limit the definition herein provided;
 
--Child‖ shall mean any person below the age of 18 years;
+“Child” shall mean any person below the age of 18 years;
 
--Council‖ shall mean the National Child Well-being Council established under Article XI, Section 12;
+“Council” shall mean the National Child Well-being Council established under Article XI, Section 12;
 
--County‖ shall  mean  county  as  defined  in  the  Government's policy or law on local government administrative structures;
+“County” shall mean county as defined in the Government's policy or law on local government administrative structures;
 
--Dietary needs‖ shall mean that the diet as a whole containing a mix of nutrients for physical and mental growth, development and maintenance, and physical activity that are in compliance  with  human  physiological  needs  at  all  stages throughout the life cycle and according to gender and occupation;
+“Dietary needs” shall mean that the diet as a whole containing a mix of nutrients for physical and mental growth, development and maintenance, and physical activity that are in compliance with human physiological needs at all stages throughout the life cycle and according to gender and occupation;
 
--District‖  shall  mean  district  as  defined  in  the  Government's policy or law on local government administrative structures;
+“District” shall mean district as defined in the Government's policy or law on local government administrative structures;
 
--Diversion‖ shall mean removal from criminal or juvenile justice processing and referral to alternative social welfare and services;
+“Diversion” shall mean removal from criminal or juvenile justice processing and referral to alternative social welfare and services;
 
--Foster  parent‖  shall  mean  a  person  who  is  not  a  biological parent of a child but is willing and registered to foster a child under this Law;
+“Foster parent” shall mean a person who is not a biological parent of a child but is willing and registered to foster a child under this Law;
 
--Gender  coordinator‖  shall  mean  a  gender  coordinator  as provided  for  under  the  Law  Establishing  the  Ministry  of Gender and Development;
+“Gender coordinator” shall mean a gender coordinator as provided for under the Law Establishing the Ministry of Gender and Development;
 
--Inclusive education‖ shall mean a set of values, principles and practices that seeks meaningful, effective, and quality education  for  all  pupils  or  students,  that  does  justice  to  the diversity  of  learning  conditions  and  requirements  not  only  of children with disabilities, but for all pupils and students.
+“Inclusive education” shall mean a set of values, principles and practices that seeks meaningful, effective, and quality education for all pupils or students, that does justice to the diversity of learning conditions and requirements not only of children with disabilities, but for all pupils and students.
 
--Parent‖, in relation to a child, shall include a biological parent, foster parent, step parent, or absent parent, but for the purposes of any parental rights outlined in this Law, shall exclude -
+“Parent”, in relation to a child, shall include a biological parent, foster parent, step parent, or absent parent, but for the purposes of any parental rights outlined in this Law, shall exclude –
 
--the biological father of a child conceived through the
+- the biological father of a child conceived through the
 
 8
 
@@ -402,33 +407,32 @@ Children's Law, 2011
 
 Children's Law, 2011
 
-#### Section 1
-
 rape of or incest with the child's mother;
 
--a parent whose parental responsibilities and rights in respect to a child have been terminated;
+- a parent whose parental responsibilities and rights in respect to a child have been terminated;
 
 The termination of parental rights described in this section shall in no way be construed to relieve the excluded biological parent of parental responsibilities, including but not limited to financial support, or to deny any child her or his rights;
 
--Service provider‖ shall mean any person or body, whether in the public or private sector licensed or otherwise competent to provide  services  for  the  health,  education,  development,  and protection of any child and the general well-being of the child; this definition shall include teachers, nurses, policewomen and policemen, and others rendering essential care to children;
+“Service provider” shall mean any person or body, whether in the public or private sector licensed or otherwise competent to provide services for the health, education, development, and protection of any child and the general well-being of the child; this definition shall include teachers, nurses, policewomen and policemen, and others rendering essential care to children;
 
--Progressive‖ in relation to the realization of any right provided for in this Law shall be interpreted to mean to move as expeditiously as possible towards the realization of the right or  rights;  under  no  circumstances  shall  this  be  interpreted  as implying  the  right  to  deter  indefinitely  efforts  to  ensure  full realization  but  rather  an  obligation  to  begin  immediately  to take steps to fulfill the obligation concerned. The  term -progressively‖  in  relation  to  duties  of  the  state  shall  be construed accordingly;
+“Progressive” in relation to the realization of any right provided for in this Law shall be interpreted to mean to move as expeditiously as possible towards the realization of the right or rights; under no circumstances shall this be interpreted as implying the right to deter indefinitely efforts to ensure full realization but rather an obligation to begin immediately to take steps to fulfill the obligation concerned. The term “progressively” in relation to duties of the state shall be construed accordingly;
 
--Social worker‖ shall mean a social worker in the service of-
+“Social worker” shall mean a social worker in the service of—
 
--a ministry responsible for social welfare;
+- a ministry responsible for social welfare;
 
--a designated child survival, development, participation or  protection  organization;  or  a  local  authority  with jurisdiction over child welfare issues;
+- a designated child survival, development, participation or protection organization; or a local authority with jurisdiction over child welfare issues;
 
--Stepparent‖ means a spouse or partner of a biological parent of a child;
+“Stepparent” means a spouse or partner of a biological parent of a child;
 
--Town‖  shall  mean  town  as  defined  in  the  Government's policy or law on local government administrative structures;
+“Town” shall mean town as defined in the Government's policy or law on local government administrative structures;
 
--Youth facilitator‖ shall mean a person with skills, designated by the appointing authority, to work with children and young people in an appropriate and participatory manner.
+“Youth facilitator” shall mean a person with skills, designated by the appointing authority, to work with children and young people in an appropriate and participatory manner.
 
 ## Article II: Objective and Principles of the Law
 
-The  objective  of  this  Law  shall  be  to  facilitate  the  respect, protection, promotion, and provision of the realization of child rights in order to make maximum contribution to the survival, development,  participation,  and  protection  of  every  child  in Liberia.
+#### Section 1
+The objective of this Law shall be to facilitate the respect, protection, promotion, and provision of the realization of child rights in order to make maximum contribution to the survival, development, participation, and protection of every child in Liberia.
 
 Objective of Law
 
@@ -441,13 +445,13 @@ Objective of Law
 Children's Law, 2011
 
 #### Section 2
-2.1 In all decisions and actions that may affect the child, the best interests  of  the  child  shall  be  the  paramount  consideration. This  principle  shall  underlie  and  guide  the  interpretation  and implementation of this Law and, subject to the Constitution, its impact on other laws.
+2.1 In all decisions and actions that may affect the child, the best interests of the child shall be the paramount consideration. This principle shall underlie and guide the interpretation and implementation of this Law and, subject to the Constitution, its impact on other laws.
 
-- 2.2 In  determining  the  best  interests  of  the  child,  a  court  or  any other  person  or  body  shall  take  into  account  the  following factors:
+2.2 In determining the best interests of the child, a court or any other person or body shall take into account the following factors:
 
-(a) the  need  to  balance  the  short  and  long  term  best interests of the child;
+(a) the need to balance the short and long term best interests of the child;
 
-(b) the ascertainable  wishes  and  feelings  of the child concerned;
+(b) the ascertainable wishes and feelings of the child concerned;
 
 (c) the child's physical, emotional, and educational needs;
 
@@ -455,29 +459,28 @@ Children's Law, 2011
 
 (e) the child's age, sex, background, and any other attributes;
 
-(f) any  harm  that  the  child  has  suffered  or  is  at  risk  of suffering; and
+(f) any harm that the child has suffered or is at risk of suffering; and
 
-(g) any  other  factor  that  is  generally  important  for  the welfare of children in the same category as the child.
-
-The following principles shall complement the principle of the best interests of the child in section 4 for  the interpretation and implementation of this Law:
-
-(a) no  decision  or  action  shall  be  taken  whose  result  or likelihood  is  to  discriminate  against  any  child  on  the basis  of  sex,  family,  color,  race,  ethnicity,  place  of origin, language, religion, economic status, parents, or any other status;
-
-(b) subject  to  her  or  his  evolving  capacities,  the  child  is entitled  to  participate  in  decisions  that  may  affect  her or his welfare;
-
-(c) in  all  decisions  and  actions,  the  advancement  of  the child's  survival  and  development  shall  be  a  matter  of duty;
-
-(d) as much as possible, work to advance the rights of the child  shall  be  multi-sectoral,    holistic,  and  life  cyclebased;
-
-(e) the  development  of  the  child's  sense  of  responsibility according  to  her  or  his  evolving  capacities  in  the enjoyment  of  child  rights  shall  be  a  consideration  in parental  guidance  and  the  enjoyment  of  child  rights; and,
-
-(f) any  person  obligated  to  respect,  protect,  promote,  or provide  for  the  enjoyment  of  child  rights  remains accountable for the well-being of the child.
-
-#### Section 3
+(g) any other factor that is generally important for the welfare of children in the same category as the child.
 
 The principle of the best interests of the child to underlie the Law
 
-Complementa ry principles
+#### Section 3
+The following principles shall complement the principle of the best interests of the child in section 4 for the interpretation and implementation of this Law:
+
+(a) no decision or action shall be taken whose result or likelihood is to discriminate against any child on the basis of sex, family, color, race, ethnicity, place of origin, language, religion, economic status, parents, or any other status;
+
+(b) subject to her or his evolving capacities, the child is entitled to participate in decisions that may affect her or his welfare;
+
+(c) in all decisions and actions, the advancement of the child's survival and development shall be a matter of duty;
+
+(d) as much as possible, work to advance the rights of the child shall be multi-sectoral, holistic, and life cycle-based;
+
+(e) the development of the child's sense of responsibility according to her or his evolving capacities in the enjoyment of child rights shall be a consideration in parental guidance and the enjoyment of child rights; and,
+
+(f) any person obligated to respect, protect, promote, or provide for the enjoyment of child rights remains accountable for the well-being of the child.
+
+Complementary principles
 
 10
 
@@ -490,21 +493,37 @@ Children's Law, 2011
 ## Article III: Child Rights and Governmental Duties
 
 #### Section 1
-| The rights and correlative duties stipulated in this Article shall constitute a Bill of Child Rights and shall not exclude other child rights recognized in the Constitution , any other law of Liberia or any international law to which Liberia is a party. | A Bill of Rights for children
---- | --- | --- | ---
+The rights and correlative duties stipulated in this Article shall constitute a Bill of Child Rights and shall not exclude other child rights recognized in the Constitution, any other law of Liberia or any international law to which Liberia is a party.
+
+A Bill of Rights for children
+
 #### Section 2
-| Subject to the meaning of -progressive‖ in section 2 herein, the realization of the child rights in this Article, the Constitution, other law, and international law shall be progressive, subject to the availability of human, organizational, and economic resources provided that the government shall demonstrate that any such available resources are used to the maximum extent to realize such rights. | Realization of child rights to be progressive and subject to maximum use of available resources
+Subject to the meaning of “progressive” in section 2 herein, the realization of the child rights in this Article, the Constitution, other law, and international law shall be progressive, subject to the availability of human, organizational, and economic resources provided that the government shall demonstrate that any such available resources are used to the maximum extent to realize such rights.
+
+Realization of child rights to be progressive and subject to maximum use of available resources
+
 #### Section 3
-| 3.1 | Every child shall have the right to life. | The right to life
-3.2 | No law shall be valid if it requires the execution or any form of killing of a child.
+3.1 Every child shall have the right to life.
+
+3.2 No law shall be valid if it requires the execution or any form of killing of a child.
+
+The right to life
+
 #### Section 4
-| 4.1 | Every child shall have a right to a name that is not humiliating or degrading to the child except where these names is based on cultural and traditional practice. | The right to a name and identity
-4.2 | Every child shall have a right to have her or his identity
-4.3 | preserved.
+4.1 Every child shall have a right to a name that is not humiliating or degrading to the child except where these names is based on cultural and traditional practice.
+
+4.2 Every child shall have a right to be registered immediately after birth.
+
+4.3 Every child shall have a right to have her or his identity preserved.
+
+The right to a name and identity
+
 #### Section 5
-| 5.1 | Subject to the best interests of the child, every child shall have a right to know and to be cared for by her or his biological parents. | The right to know and be brought up by parents
-5.2 | Every child shall have a right to have contact with her or his biological parent, if not living with such parent.
-5.3 | The Ministry of Health and Social Welfare shall have
+5.1 Subject to the best interests of the child, every child shall have a right to know and to be cared for by her or his biological parents.
+
+5.2 Every child shall have a right to have contact with her or his biological parent, if not living with such parent.
+
+5.3 The Ministry of Health and Social Welfare shall have
 
 11
 
@@ -516,35 +535,35 @@ Children's Law, 2011
 
 the power to act as a mediator in child support cases, taking into consideration Penal Code Section 16.5 regarding persistent non-support and Domestic Relations Law Section 5.4 granting courts jurisdiction over support proceedings. If a mediated solution cannot be found, such cases shall be forwarded to courts of competent jurisdiction.
 
-- 5.4 No  child  shall  be  separated  from  her  or  his  parents against  the  child's  will  by  any  authority  or  person unless  doing  so  would  be  in  the  best  interest  of  the child and is decided by a court of competent jurisdiction.
+5.4 No child shall be separated from her or his parents against the child's will by any authority or person unless doing so would be in the best interest of the child and is decided by a court of competent jurisdiction.
 
 #### Section 6
 6.1 Every child shall have the right to appropriate parental guidance.
 
-- 6.2 Every parent shall provide guidance to her or his child in a manner that is consistent with the child's evolving capacities.
+6.2 Every parent shall provide guidance to her or his child in a manner that is consistent with the child's evolving capacities.
+
+The right to parental guidance
 
 #### Section 7
-7.1 Every  child  has  the  right to a standard  of  living adequate for her or his holistic development.
+7.1 Every child has the right to a standard of living adequate for her or his holistic development.
 
-- 7.2 All ministries responsible for implementing any provision  under  this  Law  shall,  on  an  annual  basis, collaborate  to  submit  a  joint  report,  issued  by  the Ministry of Gender and Development, to the President of the Republic of Liberia.
+7.2 All ministries responsible for implementing any provision under this Law shall, on an annual basis, collaborate to submit a joint report, issued by the Ministry of Gender and Development, to the President of the Republic of Liberia.
+
+The right to an adequate standard of living
 
 #### Section 8
 8.1 Every child shall have the right to access all medically necessary health care.
 
-- 8.2 The Ministry of Health and Social Welfare shall work with the Ministry of Internal Affairs and local government  authorities  and  other  ministries  to  devise and implement programs that result in the progressive decline  of  malnutrition,  child  illnesses,  and  child  and parental deaths.
+8.2 The Ministry of Health and Social Welfare shall work with the Ministry of Internal Affairs and local government authorities and other ministries to devise and implement programs that result in the progressive decline of malnutrition, child illnesses, and child and parental deaths.
 
-- 8.3 The Ministry of Health and Social Welfare shall  work with other ministries, non-governmental organizations, and  other  service  providers  to  ensure  the  delivery  of reproductive  health  services  through  regular  clinics, hospitals, and other centers.
+8.3 The Ministry of Health and Social Welfare shall work with other ministries, non-governmental organizations, and other service providers to ensure the delivery of reproductive health services through regular clinics, hospitals, and other centers.
+
+The right to access medically necessary health care
 
 #### Section 9
 9.1 Every child shall have the right to education.
 
-The  right  to parental guidance
-
-The  right  to an adequate standard of living
-
-The right to access medically necessary health care
-
-The  right  to education
+The right to education
 
 12
 
@@ -554,33 +573,33 @@ The  right  to education
 
 Children's Law, 2011
 
-- 9.2 The  Government  of  Liberia  shall  ensure  that  primary level education is free and compulsory in line with the Education Law.
+9.2 The Government of Liberia shall ensure that primary level education is free and compulsory in line with the Education Law.
 
-- 9.3 The Ministry of Education shall provide and encourage the enrolment of children into school and re-enrolment into school or alternative forms of education for those children who may have dropped out of school.
+9.3 The Ministry of Education shall provide and encourage the enrolment of children into school and re-enrolment into school or alternative forms of education for those children who may have dropped out of school.
 
-- 9.4 The Ministry of Education shall progressively develop various forms of secondary education and progressively make it free and accessible to all children in Liberia.
+9.4 The Ministry of Education shall progressively develop various forms of secondary education and progressively make it free and accessible to all children in Liberia.
 
-- 9.5 The  Ministry  of  Education  shall  progressively  make higher  education  accessible  to  all  on  the  basis  of capacity and ability.
+9.5 The Ministry of Education shall progressively make higher education accessible to all on the basis of capacity and ability.
 
-- 9.6 The  Ministry  of  Education  shall  progressively  work with local government authorities to encourage regular attendance  at  schools  and  the  reduction  of  dropout rates.
+9.6 The Ministry of Education shall progressively work with local government authorities to encourage regular attendance at schools and the reduction of dropout rates.
 
-- 9.7 The  Ministry  of  Education  shall  progressively  work with local government authorities through the Ministry of  Internal  Affairs  to  take  special  measures  in  respect of female, gifted and disadvantaged children to ensure equal and equitable access to education for such children.
+9.7 The Ministry of Education shall progressively work with local government authorities through the Ministry of Internal Affairs to take special measures in respect of female, gifted and disadvantaged children to ensure equal and equitable access to education for such children.
 
-- 9.8 The  Ministry  of  Education  shall  progressively  work with local government authorities through the Ministry of  Internal  Affairs  and  other  ministries  to  devise  and implement  programs  and  measures  to  provide  early childhood education, including pre-schools.
+9.8 The Ministry of Education shall progressively work with local government authorities through the Ministry of Internal Affairs and other ministries to devise and implement programs and measures to provide early childhood education, including pre-schools.
 
 #### Section 10
 10.1 Every child shall have the right to access adequate food, safe and clean water, and nutrition.
 
-- 10.2 The  Ministry  of  Health  and  Social  Welfare  working with other Ministries and local government authorities through  the  Ministry  of  Internal  Affairs  shall  ensure that local government authorities devise and implement annual plans on the progressive realization of the right in subsection 1.
+10.2 The Ministry of Health and Social Welfare working with other Ministries and local government authorities through the Ministry of Internal Affairs shall ensure that local government authorities devise and implement annual plans on the progressive realization of the right in subsection 1.
+
+The right to adequate food and water
 
 #### Section 11
-11.1 Every  child  shall  have  a  right  to  adequate  and  safe housing.
+11.1 Every child shall have a right to adequate and safe housing.
 
-- 11.2 The  Ministry  of  Health  and  Social  Welfare  working
+11.2 The Ministry of Health and Social Welfare working with other Ministries and local government authorities through the Ministry of Internal Affairs shall ensure that habitation conditions are conducive, safe, healthy, clean, and appropriate for the growth and development of children.
 
-The  right  to adequate  food and water
-
-The  right  to adequate shelter with other Ministries and local government authorities through  the  Ministry  of  Internal  Affairs  shall  ensure that habitation conditions are conducive, safe, healthy, clean, and appropriate for the growth and development of children.
+The right to adequate shelter
 
 13
 
@@ -593,12 +612,16 @@ Children's Law, 2011
 #### Section 12
 12.1 Every child shall have the right to adequate clothing.
 
-- 12.2 The  Ministry  of  Health  and  Social  Welfare  working with other Ministries and local government authorities through  the  Ministry  of  Internal  Affairs  shall  ensure that parents meet material and other needs for the wellbeing of their children, rendering material assistance to parents  and  guardians  who  reasonably  fail  to  make provisions  for  the  enjoyment  of  this  right  for  their children.
+12.2 The Ministry of Health and Social Welfare working with other Ministries and local government authorities through the Ministry of Internal Affairs shall ensure that parents meet material and other needs for the well-being of their children, rendering material assistance to parents and guardians who reasonably fail to make provisions for the enjoyment of this right for their children.
+
+The right to adequate clothing
 
 #### Section 13
-13.1 Every  child  shall  have  the  right  to  leisure,  play,  and recreation.
+13.1 Every child shall have the right to leisure, play, and recreation.
 
-- 13.2 The  Ministry  of  Youth  and  Sport  shall  progressively work  with  local  government  authorities  through  the Ministry  of  Internal  Affairs  and  other  Ministries  to provide  and  maintain  accessible,  safe,  and  acceptable recreation  centers  and  facilities  for  communities  and towns.
+13.2 The Ministry of Youth and Sport shall progressively work with local government authorities through the Ministry of Internal Affairs and other Ministries to provide and maintain accessible, safe, and acceptable recreation centers and facilities for communities and towns.
+
+The right to leisure, play, and recreation
 
 #### Section 14
 14.1 Every child shall have a right to freedom of expression subject to the following:
@@ -611,23 +634,18 @@ Children's Law, 2011
 
 (d) national security; or
 
-(e) public  order,  public  health  or  morals  or  the rights and freedoms of other people.
+(e) public order, public health or morals or the rights and freedoms of other people.
 
-- 14.2 Every  child shall, subject to her or his evolving capacities,  have  the  right  to  seek,  receive,  and  impart information  and  ideas  or  otherwise  express  herself  or himself freely.
+14.2 Every child shall, subject to her or his evolving capacities, have the right to seek, receive, and impart information and ideas or otherwise express herself or himself freely.
 
-- 14.3 The  Ministry  of  Information,  Culture,  and  Tourism shall progressively work with the Ministry of Education and other Ministries to mobilize and provide information  and  technology  for  the  development  of knowledge and skills for children.
+14.3 The Ministry of Information, Culture, and Tourism shall progressively work with the Ministry of Education and other Ministries to mobilize and provide information and technology for the development of knowledge and skills for children.
+
+The right to expression and access to information
 
 #### Section 15
 15.1 Every child shall have the right to think freely and adopt any religion subject to the following matters:
 
-The  right  to adequate clothing
-
-The  right  to leisure, play, and recreation
-
-The  right  to expression and  access  to information
-
 Freedom of thought and
-#### Section 17
 
 14
 
@@ -647,9 +665,9 @@ religion
 
 (d) national security; or
 
-(e) public order, public health , or morals or the  rights and freedoms of other
+(e) public order, public health, or morals or the rights and freedoms of other people
 
-- 15.2 No child shall, subject to her or his evolving capacities, be forced to adopt any religion.
+15.2 No child shall, subject to her or his evolving capacities, be forced to adopt any religion.
 
 #### Section 16
 16.1 Every child shall have a right to freedom of association subject to the following:
@@ -660,26 +678,29 @@ religion
 
 (c) parental guidance;
 
-(d) national security, public order, public health or morals  or  the  rights  and  freedoms  of  other people.
+(d) national security, public order, public health or morals or the rights and freedoms of other people.
 
-- 16.2 Every  school  and  local  authority  shall  progressively facilitate  the  formation  of  children's  rights  clubs  and other forums for the expression of views of children to advance  child  rights enjoyment  and  social  justice, environmental management, and other matters that may be of interest to children.
+16.2 Every school and local authority shall progressively facilitate the formation of children's rights clubs and other forums for the expression of views of children to advance child rights enjoyment and social justice, environmental management, and other matters that may be of interest to children.
 
-- 16.3 The Ministry of Education shall ensure that the teaching  of  child  rights  is  included  in  curricular  for teacher training and primary and secondary schools.
+16.3 The Ministry of Education shall ensure that the teaching of child rights is included in curricular for teacher training and primary and secondary schools.
 
-- 16.4 Each  school  shall  ensure  that  child  rights  education extends  to  parents  through  the  participation  of  local school committees established under Chapter 2 of the Education Law and civil society organizations.
+16.4 Each school shall ensure that child rights education extends to parents through the participation of local school committees established under Chapter 2 of the Education Law and civil society organizations.
 
-- 16.5 The  attendance  of  any  child  at  meetings,  workshops, assemblies, or any other forum shall be subject to the attendance  of classroom  teaching  and  overall best interests of the child.
-
-- 17.1 Every  child  shall  have  the  right  to  benefit  from  any inheritance left to the child by the child's parents.
+16.5 The attendance of any child at meetings, workshops, assemblies, or any other forum shall be subject to the attendance of classroom teaching and overall best interests of the child.
 
 Freedom of Association
 
-The  right  to benefit from inheritance
+#### Section 17
+17.1 Every child shall have the right to benefit from any inheritance left to the child by the child's parents.
 
-- 17.2 No guardian, caregiver, executor of a will, administrator or other such person shall dispossess any surviving child of the child's inheritance.
+17.2 No guardian, caregiver, executor of a will, administrator or other such person shall dispossess any surviving child of the child's inheritance.
+
+The right to benefit from inheritance
 
 #### Section 18
-18.1 Every child shall have a right to have her or his privacy protected.  The  protection  of  this  right  shall  extend  to The  right  to privacy
+18.1 Every child shall have a right to have her or his privacy protected. The protection of this right shall extend to
+
+The right to privacy
 
 15
 
@@ -689,39 +710,39 @@ The  right  to benefit from inheritance
 
 Children's Law, 2011
 
-- publicity  which places the child in a false light  in the public eye.
+publicity which places the child in a false light in the public eye.
 
-- 18.2 Subject  to this Law,  nothing  in  this  section  shall prevent  parents,  teachers,  social  workers,  and  other service providers from carrying out their rightful duties or professional functions in the protection and general well-being of the child.
+18.2 Subject to this Law, nothing in this section shall prevent parents, teachers, social workers, and other service providers from carrying out their rightful duties or professional functions in the protection and general well-being of the child.
 
 #### Section 19
 19.1 Every child shall have a right to participate in cultural activities that are in her or his best interests.
 
-- 19.2 The  Ministry  of  Information,  Culture,  and  Tourism shall  promote  activities  that  are  compatible  with  the dignified life of children.
+19.2 The Ministry of Information, Culture, and Tourism shall promote activities that are compatible with the dignified life of children.
+
+The right to participate in cultural activities
 
 #### Section 20
-20.1 Every  child  shall  have  the  right  to  be  protected  from work and other practices  that  may  threaten  her  or  his health, educational, spiritual, physical, and moral development.
+20.1 Every child shall have the right to be protected from work and other practices that may threaten her or his health, educational, spiritual, physical, and moral development.
 
-- 20.2 A social worker or probation officer shall have power to treat a child involved in work and other practices as described  in  subsection  1  of  this  section  as  a  child  in need of care under this Law.
+20.2 A social worker or probation officer shall have power to treat a child involved in work and other practices as described in subsection 1 of this section as a child in need of care under this Law.
+
+The right to be protected from harmful work
 
 #### Section 21
-21.1 Every  child  shall  have  the  right  to  be  protected  from sexual  abuse  and  exploitation  including  prostitution and pornography.
+21.1 Every child shall have the right to be protected from sexual abuse and exploitation including prostitution and pornography.
 
-- 21.2 Provisions  in  the  Penal Law  and  other  legislation whose  intent is to protect the child from sexual exploitation  shall  be  construed  with  the  child's  best interests as the primary consideration.
-
-#### Section 22
-22.1 Every  child  shall  have  the  right  to  be  protected  from involvement in armed or any kind of violent conflicts.
-
-- 22.2 The  Ministry  of  National  Defense  shall  not  recruit  or conscript any child into military service.
-
-- 22.3 The Ministry of National Defense shall ensure that the Army  in  Liberia  does  not  use  landmines  and  other weapons declared by international law to be adverse to children.
-
-The right to participate  in cultural activities
-
-The  right  to be protected from harmful work
+21.2 Provisions in the Penal Law and other legislation whose intent is to protect the child from sexual exploitation shall be construed with the child's best interests as the primary consideration.
 
 The right to be protected from abuse and exploitation
 
-The  right  to be protected from involvement in armed conflicts and violence
+#### Section 22
+22.1 Every child shall have the right to be protected from involvement in armed or any kind of violent conflicts.
+
+22.2 The Ministry of National Defense shall not recruit or conscript any child into military service.
+
+22.3 The Ministry of National Defense shall ensure that the Army in Liberia does not use landmines and other weapons declared by international law to be adverse to children.
+
+The right to be protected from involvement in armed conflicts and violence
 
 16
 
@@ -734,31 +755,33 @@ Children's Law, 2011
 ## Article IV Parental Duties and Rights
 
 #### Section 1
-1.1 Subject  to  financial  and  other  capacities,  a  biological parent shall have the primary and joint duties with a coparent to nurture, maintain, and guide the child. Parental duties
+1.1 Subject to financial and other capacities, a biological parent shall have the primary and joint duties with a co-parent to nurture, maintain, and guide the child.
 
-- 1.2 In cases where both parents are deceased or the biological parents do not reside as a nuclear family unit, a  grandparent,  stepparent  or  foster  parent  with  whom the child resides shall be deemed to have assumed the parental duties associated with biological parents. This section  shall  in  no  way  be  construed  to  absolve  a surviving  biological  parent  of  any  responsibilities  that she or he may have under existing law.
+Parental duties
 
-- 1.3 Without  prejudice  to  the  generality  of  subsection  2  of this section, every parent shall have an equal duty with a co-parent to:-
+1.2 In cases where both parents are deceased or the biological parents do not reside as a nuclear family unit, a grandparent, stepparent or foster parent with whom the child resides shall be deemed to have assumed the parental duties associated with biological parents. This section shall in no way be construed to absolve a surviving biological parent of any responsibilities that she or he may have under existing law.
+
+1.3 Without prejudice to the generality of subsection 2 of this section, every parent shall have an equal duty with a co-parent to:-
 
 (a) ensure that the best interests of the child are the bases for the parent's decision or action;
 
-(b) promote  the  growth  and  educational  and  other development of the child;
+(b) promote the growth and educational and other development of the child;
 
-(c) prevent diseases, facilitate safety, and seek and comply  with  professional  advice  for  the  wellbeing of the child;
+(c) prevent diseases, facilitate safety, and seek and comply with professional advice for the well-being of the child;
 
-(d) safeguard and promote the child's health, development  and  participation  encouraging  the child's participation in household decisions and actions, subject to the child's evolving capacities;
+(d) safeguard and promote the child's health, development and participation encouraging the child's participation in household decisions and actions, subject to the child's evolving capacities;
 
-(e) provide,  consistent  with  the  child's  evolving capacities, direction and guidance for the child's best interests;
+(e) provide, consistent with the child's evolving capacities, direction and guidance for the child's best interests;
 
-(f) raise  any  child  in  her  or  his  household  as  of equal dignity irrespective of sex;
+(f) raise any child in her or his household as of equal dignity irrespective of sex;
 
-(g) respect the child's dignity  and  refrain  from administering  domestic  discipline  that  violates such dignity or adversely affects the psychosocial or physical well-being of any child living in the household;
+(g) respect the child's dignity and refrain from administering domestic discipline that violates such dignity or adversely affects the psychosocial or physical well-being of any child living in the household;
 
 (h) exercise parental rights with the express or implied consent of other persons having similar rights for the upbringing of the child, subject to the child's best interests;
 
 (i) refrain from perpetrating violence in the household where the child lives;
 
-(j) take  any  other  decision  or  action  that  advances
+(j) take any other decision or action that advances
 
 17
 
@@ -768,53 +791,48 @@ Children's Law, 2011
 
 Children's Law, 2011
 
-#### Section 2
-
-#### Section 3
-
 the well-being of the child.
 
-A child welfare committee may summon any parent or caregiver  who  contravenes  any  of  the  duties  in  this section  and  after  hearing  an  account  from  her  or  him,
+1.4 A child welfare committee may summon any parent or caregiver who contravenes any of the duties in this section and after hearing an account from her or him, the child welfare committee shall make recommendations to her or him, to safeguard the child's best interests.
 
-- 1.4 the child welfare committee shall make recommendations to her or him, to safeguard the child's best interests.
-
+#### Section 2
 Every parent, subject to the best interests of the child, has the rights to:-
 
 (a) have the child live with her or him or regulate the child's residence;
 
 (b) control and guide the child's upbringing;
 
-(c) maintain  personal  relations  if  the  child  is  not living with her or him;
+(c) maintain personal relations if the child is not living with her or him;
 
 (d) act as the child's legal representative regarding the child's property and other interests;
 
-(e) appoint  a  guardian  and  revoke  guardianship  for the child subject to the approval by a court;
+(e) appoint a guardian and revoke guardianship for the child subject to the approval by a court;
 
-(f) have  access to acceptable  parenting  programs provided by the state;
+(f) have access to acceptable parenting programs provided by the state;
 
 (g) participate in child welfare committees, court, and other proceedings related to the parent's child;
 
-In  support  to  needy  parents,  the  Ministry  of  Health  and Social Welfare shall prioritize the needs of the following caregivers:
+Parental rights
 
-(a) a  parent  who  has  triplets  or  more  babies  born  to her or him,
+#### Section 3
+In support to needy parents, the Ministry of Health and Social Welfare shall prioritize the needs of the following caregivers:
+
+(a) a parent who has triplets or more babies born to her or him,
 
 (b) a parent who has a child with disabilities born to her or him;
 
-(c) a  grandparent  taking  care  of  grand  children  in cases where the biological mother or father of the child is deceased or incapacitated; or
+(c) a grandparent taking care of grand children in cases where the biological mother or father of the child is deceased or incapacitated; or
 
-(d) a relative of the child who, in view of the needs of her or his biological child or children, has insufficient  means  to  support  surviving  children of  a  deceased  brother,  sister,  or  any  nuclear  or extended family relation
+(d) a relative of the child who, in view of the needs of her or his biological child or children, has insufficient means to support surviving children of a deceased brother, sister, or any nuclear or extended family relation
+
+Assistance to parents in difficult circumstances
 
 ## Article V: Community and Governmental Support to Parents
 
 #### Section 1
-1.1 The head of any community or town shall have a duty to receive  and  have  discussed  in  community  or  similar gathering matters that may be affecting or may affect the
-
-Parental rights
-
-Assistance to  parents  in difficult circumstances
+1.1 The head of any community or town shall have a duty to receive and have discussed in community or similar gathering matters that may be affecting or may affect the
 
 Support from community
-#### Section 2
 
 18
 
@@ -824,34 +842,32 @@ Support from community
 
 Children's Law, 2011
 
-#### Section 3
+common well-being of children in the community or town.
 
-#### Section 4
-
-- common  well-being  of  children  in  the  community  or town.
-
-- 1.2 The head of a community or town shall refer matters that are complex or on which the community or town fails to reach  a  consensus  to  a  child  welfare  committee  having jurisdiction over the community or town.
-
-The  head  of  a  district  or  county  administration,  shall have a responsibility to lead the development, implementation, and monitoring of plans by each district and  local  government  authority  to  advance  child  wellbeing.
-
-The  Ministry  of  Gender  and  Development  shall  work with other ministries to coordinate government work for childcare services focusing on parental skills, the work of mother support groups, the promotion of community day care  centers,  and  other  schemes  and  strategies  that  ease the burden of child care on parents.
-
-- 4.1 Any  health  worker,  teacher,  social  welfare  officer,  or governmental or non-governmental service provider shall discharge her or his duties to children and communities with diligence, fairly, without being swayed by personal interest,  without  discrimination,  and  respecting  people's dignity and worth.
-
-- 4.2 Any  health  worker,  teacher,  social  welfare  officer,  and any governmental or non-governmental service provider shall  have  a  duty  to  advise  parents  and  bring  matters adversely affecting or promoting the well-being of children to a community or town leader for discussion in community or similar gatherings.
-
-- 4.3 Every  service  provider  shall  have  a  duty  to  account  to community members on her or his discharge of her or his duties  in  the  promotion  of  child  survival,  development, participation,  and  protection  within  the  community  for which the service provider is officially responsible. Such accounting may  be through a community  or other gathering.
-
-- 4.4 Any  service  provider,  parent  and  community  or  town member shall report sexual and other forms of abuse to the Police.
+1.2 The head of a community or town shall refer matters that are complex or on which the community or town fails to reach a consensus to a child welfare committee having jurisdiction over the community or town.
 
 or town heads and the community or town
 
+#### Section 2
+The head of a district or county administration, shall have a responsibility to lead the development, implementation, and monitoring of plans by each district and local government authority to advance child well-being.
+
 Support from local government authorities
+
+#### Section 3
+The Ministry of Gender and Development shall work with other ministries to coordinate government work for childcare services focusing on parental skills, the work of mother support groups, the promotion of community day care centers, and other schemes and strategies that ease the burden of child care on parents.
 
 Support from central government
 
-Support from service providers  to be as a matter of duty
-#### Section 3
+#### Section 4
+4.1 Any health worker, teacher, social welfare officer, or governmental or non-governmental service provider shall discharge her or his duties to children and communities with diligence, fairly, without being swayed by personal interest, without discrimination, and respecting people's dignity and worth.
+
+4.2 Any health worker, teacher, social welfare officer, and any governmental or non-governmental service provider shall have a duty to advise parents and bring matters adversely affecting or promoting the well-being of children to a community or town leader for discussion in community or similar gatherings.
+
+4.3 Every service provider shall have a duty to account to community members on her or his discharge of her or his duties in the promotion of child survival, development, participation, and protection within the community for which the service provider is officially responsible. Such accounting may be through a community or other gathering.
+
+4.4 Any service provider, parent and community or town member shall report sexual and other forms of abuse to the Police.
+
+Support from service providers to be as a matter of duty
 
 19
 
@@ -861,36 +877,34 @@ Support from service providers  to be as a matter of duty
 
 Children's Law, 2011
 
-#### Section 4
-
 ## Article VI: The Child's Responsibilities, Culture, and Tradition
 
 #### Section 1
-
-#### Section 2
-2.1
-
-A  parent, teacher, and  any  person  responsible  for providing guidance and direction to a child shall provide to the child guidance and education that promote the following values:
+A parent, teacher, and any person responsible for providing guidance and direction to a child shall provide to the child guidance and education that promote the following values:
 
 (a) the child's own current and future wellbeing;
 
 (b) respect for parents and adults;
 
-(c) the  well-being  of  others,  her  or  his  family, society,  his  or  her  country,  and  humanity  in general;
+(c) the well-being of others, her or his family, society, his or her country, and humanity in general;
 
-(d) the  child's  pride  in  her  or  his  culture  and national identity;
+(d) the child's pride in her or his culture and national identity;
 
 (e) the value of the family and marriage.
 
 (f) Any other value that instills in the child a proper sense of responsibility.
 
-Subject  to  the  best  interests  of  the  child  and  parental guidance,  every  member  of  a  child's  extended  family shall have the authority to render guidance and advice
+Bringing up of a child to instill responsibility and cultural and national Pride
 
-- to the child.
+#### Section 2
+2.1 Subject to the best interests of the child and parental guidance, every member of a child's extended family shall have the authority to render guidance and advice to the child.
 
-- 2.2 The  guidance  of  the  child  from  parents,  relatives  and service providers shall include the use of tradition and cultural standards to foster the development of a sense of  responsibility  in  the  child,  subject  to  her  or  his evolving capacities.
+2.2 The guidance of the child from parents, relatives and service providers shall include the use of tradition and cultural standards to foster the development of a sense of responsibility in the child, subject to her or his evolving capacities.
 
-Subject  to  the  child's  evolving  capacities,  every  child shall contribute towards: -
+Guidance from relatives
+
+#### Section 3
+Subject to the child's evolving capacities, every child shall contribute towards: -
 
 (a) family cohesion;
 
@@ -900,19 +914,18 @@ Subject  to  the  child's  evolving  capacities,  every  child shall contribute 
 
 (d) positive cultural values of her or his community or town.
 
+Child to contribute to respect of parents, family cohesion and to exhibit hard working spirit
+
+#### Section 4
 No person or society shall subject a child to any of the following practices:-
 
 (a) marrying any person when she or he is still under the age of 18;
 
 (b) betrothing a child into marriage or a promise for marriage;
 
-(c) giving over a child to work either as a means of  satisfying  obligations  on  the  part  of  the
+(c) giving over a child to work either as a means of satisfying obligations on the part of the
 
-Bringing  up of  a  child  to instill responsibility and  cultural and  national Pride
-
-Guidance from relatives
-
-Child to contribute  to respect of parents, family cohesion  and to exhibit hard working spirit Harmful practices prohibited for a child
+Harmful practices prohibited for a child
 
 20
 
@@ -922,9 +935,9 @@ Child to contribute  to respect of parents, family cohesion  and to exhibit hard
 
 Children's Law, 2011
 
-- parent regardless of whether or not the work is harmful, hazardous or indecent;
+parent regardless of whether or not the work is harmful, hazardous or indecent;
 
-(d) any  unnecessary or uncultured  practice  that may inflict physical, psychosocial, or emotional  pain  to  the  child  or  otherwise violate or endanger her or his bodily integrity, life, health, dignity, education, welfare, or holistic development.
+(d) any unnecessary or uncultured practice that may inflict physical, psychosocial, or emotional pain to the child or otherwise violate or endanger her or his bodily integrity, life, health, dignity, education, welfare, or holistic development.
 
 ## Article VII: Children and Situations of Vulnerability
 
@@ -979,40 +992,36 @@ Definition of children in situations of disadvantage
 
 Children's Law, 2011
 
-#### Section 2
+child welfare committee, is unable to provide proper parenting;
 
-#### Section 3
-3.1
-
-child  welfare  committee,  is  unable  to  provide proper parenting;
-
-(s) is truant or is in association of people who may involve  her  or  him  in  criminal  or  immoral practice;
+(s) is truant or is in association of people who may involve her or him in criminal or immoral practice;
 
 (t) is displaced as a result of war, civil disturbance or natural disasters;
 
 (u) has been sexually abused;
 
-(v) consumes  or  is  exposed  to  alcohol  or  any intoxicating or narcotic drug;
+(v) consumes or is exposed to alcohol or any intoxicating or narcotic drug;
 
 (w) is involved in work that is hazardous to her or his physical, social, or educational development, such as hunting; and
 
-(x) has been given by parents or guardians  to work for  a relative or on a farm.
+(x) has been given by parents or guardians to work for a relative or on a farm.
 
-The Ministry of Gender and Development, shall coordinate  the  efforts  of  local  government  authorities, private sector, civil society, and child welfare committees  to address the causes of situations of vulnerability as described in section 39
+#### Section 2
+The Ministry of Gender and Development, shall coordinate the efforts of local government authorities, private sector, civil society, and child welfare committees to address the causes of situations of vulnerability as described in section 39
 
-- The Ministry of Health and Social Welfare shall work with other ministries to develop, implement, and promote  public  policies  and  programs  that  alleviate, mitigate, and address the effects of situations of vulnerability as described in section 39.
+Ministry of Gender and Development to coordinate efforts to address the causes of child vulnerability
 
-- 3.2 The  Legislature  through  its  Committees  on  Gender Development,  Women,  Children,  Health  and  Social Welfare shall make recommendations and may introduce  any  necessary  law  to  provide  and  enforce recommendations to the Ministry of Gender and Development  and  the  Ministry  of  Health  and  Social Welfare in connection with the respective performance of their duties under subsection 1.
+#### Section 3
+3.1 The Ministry of Health and Social Welfare shall work with other ministries to develop, implement, and promote public policies and programs that alleviate, mitigate, and address the effects of situations of vulnerability as described in section 39.
 
-#### Section 4
-
-- 4.1 Every child with disabilities shall have a right to enjoy a full and decent life, in conditions that ensure dignity, promote  self-reliance  and  facilitate  the  child's  active participation in the community or town.
-
-- 4.2 Every child with disabilities shall have a right to special care in a manner  that is conducive to the child achieving  the  fullest  possible  social  integration  and individual  development,  including  his  or  her  cultural and spiritual development.
-
-Ministry of Gender and Development to  coordinate efforts to address the causes of child vulnerability
+3.2 The Legislature through its Committees on Gender Development, Women, Children, Health and Social Welfare shall make recommendations and may introduce any necessary law to provide and enforce recommendations to the Ministry of Gender and Development and the Ministry of Health and Social Welfare in connection with the respective performance of their duties under subsection 1.
 
 The Ministry of Health and Social Welfare to coordinate efforts to address the effects of situations of vulnerability
+
+#### Section 4
+4.1 Every child with disabilities shall have a right to enjoy a full and decent life, in conditions that ensure dignity, promote self-reliance and facilitate the child's active participation in the community or town.
+
+4.2 Every child with disabilities shall have a right to special care in a manner that is conducive to the child achieving the fullest possible social integration and individual development, including his or her cultural and spiritual development.
 
 Realizing the rights of the child with disabilities
 
@@ -1024,34 +1033,32 @@ Realizing the rights of the child with disabilities
 
 Children's Law, 2011
 
-- 4.3 County  local  government  authorities  with  appropriate support from central government shall provide to children with disabilities and those responsible for their care,  free  appropriate  assistance  to  ensure  that  such children have effective access to and receive education, training,  health  care  services,  rehabilitation  services, preparation for employment and recreation opportunities in  an  environment  that  is  physically  and socially friendly.
+4.3 County local government authorities with appropriate support from central government shall provide to children with disabilities and those responsible for their care, free appropriate assistance to ensure that such children have effective access to and receive education, training, health care services, rehabilitation services, preparation for employment and recreation opportunities in an environment that is physically and socially friendly.
 
-- 4.4 Every  child  with  disabilities  shall  access  and  benefit from an inclusive education system offering education that is responsive and supportive to the child's learning needs and talents in a participative and nondiscrimination manner.
+4.4 Every child with disabilities shall access and benefit from an inclusive education system offering education that is responsive and supportive to the child's learning needs and talents in a participative and non-discrimination manner.
 
 #### Section 5
-5.1 The Ministry of Health and Social Welfare shall work with the international community, civil society organization and government, and public agencies and service  providers  to  provide  access  to  basic  social welfare and services for refugees and internally displaced children.
+5.1 The Ministry of Health and Social Welfare shall work with the international community, civil society organization and government, and public agencies and service providers to provide access to basic social welfare and services for refugees and internally displaced children.
 
-- 5.2 The ministry responsible for social welfare shall facilitate as much  as  possible  the  reunification of unaccompanied or similarly situated children with their families.
-
-#### Section 6
-
-#### Section 7
-
-- 6.1 No expectant mother or a mother of a child below the age of 5 shall be imprisoned with her child. If necessary,  the  confinement  of  a  convicted  expectant mother  or  a  mother  of  a  young  child  shall  be  in  a separate  prison  facility  with  her  child  where  the  child can continue to enjoy the nurture of her or his biological mother, including, where appropriate, being breastfed  by  such  mother.    Where  there  is  no  such facility, in the best interest of the child, the child shall be placed in a caregiver facility.
-
-- 6.2 No expectant mother or mother of a child below the age of 5 shall be  executed.
-
-- 7.1 No person shall subject a child to torture or other cruel, inhuman or degrading treatment or punishment.
-
-- 7.2 Any  correction  or  punishment  of  a  child  shall  be justifiable for the child concerned.
-
-- 7.3 No correction of a child is justifiable for any child if it
+5.2 The ministry responsible for social welfare shall facilitate as much as possible the reunification of unaccompanied or similarly situated children with their families.
 
 Realizing rights of refugee and displaced children
 
+#### Section 6
+6.1 No expectant mother or a mother of a child below the age of 5 shall be imprisoned with her child. If necessary, the confinement of a convicted expectant mother or a mother of a young child shall be in a separate prison facility with her child where the child can continue to enjoy the nurture of her or his biological mother, including, where appropriate, being breastfed by such mother. Where there is no such facility, in the best interest of the child, the child shall be placed in a caregiver facility.
+
+6.2 No expectant mother or mother of a child below the age of 5 shall be executed.
+
 The rights of children of imprisoned mothers
 
-Cruel, degrading  or inhumane punishment and discipline prohibited
+#### Section 7
+7.1 No person shall subject a child to torture or other cruel, inhuman or degrading treatment or punishment.
+
+7.2 Any correction or punishment of a child shall be justifiable for the child concerned.
+
+7.3 No correction of a child is justifiable for any child if it
+
+Cruel, degrading or inhumane punishment and discipline prohibited
 
 23
 
@@ -1061,37 +1068,33 @@ Cruel, degrading  or inhumane punishment and discipline prohibited
 
 Children's Law, 2011
 
+is unreasonable in kind or in degree relative to the age, physical and mental condition of the child and no correction is justifiable if the child by reason of tender age or otherwise is incapable of understanding the purpose and fairness of the correction.
+
+7.4 The Ministry of Gender and Development shall progressively facilitate parental guidance programs aimed at developing the capacity of parents to discipline and guide their children without use of any form of violence.
+
 #### Section 8
-
-- is unreasonable in kind or in degree relative to the age, physical  and  mental  condition  of  the  child  and  no correction is justifiable if the child by reason of tender age  or  otherwise  is  incapable  of  understanding  the purpose and fairness of the correction.
-
-- 7.4 The Ministry of Gender and Development shall progressively facilitate parental guidance programs aimed at developing the capacity of parents to discipline  and  guide  their  children  without  use  of  any form of violence.
-
-Any  person,  convicted  under  the  Trafficking  Law  or any  penal  law  prohibiting  the  abduction  or  trafficking of children shall be placed on a child offenders' register and  not  allowed  to  render  direct  work  services  to children.
-
-#### Section 9
-9.1 No  person  shall employ  a child in work  that is inappropriate for the child's age or that  may  be hazardous to the child's health, educational, emotional or physical development. This prohibition applies to all work undertaken by children, regardless of whether the work is under a contractual relationship, and regardless
-
-of whether the work is for payment or other reward.
-
-- 9.2 The Ministry of Labor shall issue regulations to further specify terms and conditions applicable to specific categories of work, including, as appropriate, the establishment of minimum working ages for different categories of work.
-
-- 9.3 Any contract for apprenticeship or employment shall be with the consent of the child's parent or guardian, consistent with the provisions of subsections 1 and 2 of this section and all other applicable laws and regulations, and under license from the Ministry of Labor.
-
-- 9.4 The duties of an employer towards a child employee or an apprentice shall be to:
-
-- train and instruct the child in a trade to the best of the ability, skill and knowledge of  the employer;
-
-- provide reasonable pay or allowances for the services of the child;
-
-- take responsibility for any harm caused to the child as a result of the child's employment or apprenticeship;
-
-- provide a safe and healthy environment
+Any person, convicted under the Trafficking Law or any penal law prohibiting the abduction or trafficking of children shall be placed on a child offenders' register and not allowed to render direct work services to children.
 
 Abduction and trafficking of children prohibited
 
+#### Section 9
+9.1 No person shall employ a child in work that is inappropriate for the child's age or that may be hazardous to the child's health, educational, emotional or physical development. This prohibition applies to all work undertaken by children, regardless of whether the work is under a contractual relationship, and regardless of whether the work is for payment or other reward.
+
+9.2 The Ministry of Labor shall issue regulations to further specify terms and conditions applicable to specific categories of work, including, as appropriate, the establishment of minimum working ages for different categories of work.
+
+9.3 Any contract for apprenticeship or employment shall be with the consent of the child's parent or guardian, consistent with the provisions of subsections 1 and 2 of this section and all other applicable laws and regulations, and under license from the Ministry of Labor.
+
+9.4 The duties of an employer towards a child employee or an apprentice shall be to:
+
+a. train and instruct the child in a trade to the best of the ability, skill and knowledge of the employer;
+
+b. provide reasonable pay or allowances for the services of the child;
+
+c. take responsibility for any harm caused to the child as a result of the child's employment or apprenticeship;
+
+d. provide a safe and healthy environment
+
 Hazardous employment of children prohibited
-#### Section 10
 
 24
 
@@ -1103,32 +1106,31 @@ Children's Law, 2011
 
 for the child;
 
-- abide by all other employment laws and regulations applicable to other employees.
+e. abide by all other employment laws and regulations applicable to other employees.
 
-- 9.5 Every employer who lawfully employs or apprentices a child shall send the records of such employment to the Ministry  of  Labor  in  such  format  and  under  such conditions as may be prescribed by the Ministry.
+9.5 Every employer who lawfully employs or apprentices a child shall send the records of such employment to the Ministry of Labor in such format and under such conditions as may be prescribed by the Ministry.
 
-The Ministry of Health and Social Welfare shall work with local government authorities through the Ministry of  Internal Affairs to facilitate rehabilitative measures, including  community  or  town-based  counseling  and other forms of psychosocial support, to reintegrate any abused or exploited child.
+#### Section 10
+The Ministry of Health and Social Welfare shall work with local government authorities through the Ministry of Internal Affairs to facilitate rehabilitative measures, including community or town-based counseling and other forms of psychosocial support, to reintegrate any abused or exploited child.
+
+Rehabilitative care for traumatized and abused children
 
 ## Article VIII: Standards for Child Protection Practitioners and Organizations
 
 #### Section 1
-1.1 No  person  shall  be  designated,  employed,  or  work  as  a child  protection  officer  or  in  any  official  child  protection role  unless  she  or  he  has  at  least  a  certificate  in  social child
+1.1 No person shall be designated, employed, or work as a child protection officer or in any official child protection role unless she or he has at least a certificate in social welfare, child protection, law, education, child development, or health.
 
-welfare, child protection, law, education, development, or health.
+1.2 Every child protection officer or worker shall take as a primary consideration, the best interests of the child, in all decisions and actions concerning every child. Without prejudice to the generality of this duty, every child protection officer or worker shall: -
 
-- 1.2 Every  child  protection  officer  or  worker  shall  take  as  a primary consideration, the best interests of the child, in all decisions  and  actions  concerning  every  child.  Without prejudice to the generality of this duty, every child protection officer or worker shall: -
+(a) not condone, accept, or otherwise tolerate any form of child abuse, exploitation, or neglect on the part of any person;
 
-(a) not condone, accept, or otherwise tolerate any form of  child  abuse,  exploitation,  or  neglect  on  the  part of any person;
-
-(b) not  discriminate  against  any  child  on  the  basis  of sex,  family,  color,  race,  ethnicity,  place  of  origin, language, religion, economic status, parents, or any other status;
+(b) not discriminate against any child on the basis of sex, family, color, race, ethnicity, place of origin, language, religion, economic status, parents, or any other status;
 
 (c) encourage and allow the participation of a child in matters that may affect the child concerned;
 
-(d) demonstrate dedication to duty and commitment to the  protection  of  every  child,  especially  such  a child as may be in need of protection;
+(d) demonstrate dedication to duty and commitment to the protection of every child, especially such a child as may be in need of protection;
 
 (e) collaborate with other child protection officers and other service providers involved in child protection work;
-
-Rehabilitative care for traumatized and abused children
 
 Guiding principles in child protection
 
@@ -1140,13 +1142,13 @@ Guiding principles in child protection
 
 Children's Law, 2011
 
-#### Section 2
-
 (f) iteratively assess and respond to any risk that may result in any child's vulnerability to abuse, exploitation, and neglect;
 
-(g) demonstrate a holistic approach in child protection work  aimed  at  achieving  results  that  prevent,  and respond to child exploitation and abuse, and promote rehabilitation and reintegration.
+(g) demonstrate a holistic approach in child protection work aimed at achieving results that prevent, and respond to child exploitation and abuse, and promote rehabilitation and reintegration.
 
-Every employer of a child protection officer shall incorporate into the child protection officer's employment contract  a  code of conduct which mandates the employee to:
+#### Section 2
+
+Every employer of a child protection officer shall incorporate into the child protection officer's employment contract a code of conduct which mandates the employee to:
 
 (a) comply and advance the best interests of the child;
 
@@ -1172,7 +1174,9 @@ Every employer of a child protection officer shall incorporate into the child pr
 
 (l) refrain from hiring any child into the child protection officer's domestic or other harmful work;
 
-(m) immediately  report  allegations,  concerns  of  child Conduct  for child protection practitioner s
+(m) immediately report allegations, concerns of child
+
+Conduct for child protection practitioners
 
 26
 
@@ -1181,8 +1185,6 @@ Every employer of a child protection officer shall incorporate into the child pr
 [[START OF PAGE 27]]
 
 Children's Law, 2011
-
-#### Section 3
 
 abuse, exploitation, and neglect in accordance with procedures established under the Law or any other law;
 
@@ -1194,7 +1196,9 @@ abuse, exploitation, and neglect in accordance with procedures established under
 
 (q) not  possess,  sell,  profit  from,  or  otherwise  deal  in illegal goods and substances; and
 
-(r) respect  the  confidentiality  and  privacy  of  children and adults the child protection officer  works with and any person whose personal information she or he  may  come  across  in  the  course  of  her  or  his work as a child protection worker.
+(r) respect the confidentiality and privacy of children and adults the child protection officer works with and any person whose personal information she or he may come across in the course of her or his work as a child protection worker.
+
+#### Section 3
 
 Every child protection organization shall have and implement a policy on child protection. Every policy of a child protection agency shall contain the following elements:-
 
@@ -1202,14 +1206,13 @@ Every child protection organization shall have and implement a policy on child p
 
 (b) a  child  protection  training  policy  and  plan  for  its staff;
 
-(c) a  commitment  not  to  allow  any  person  who  may pose  any  unacceptable  risk  to  any  child's  wellbeing to work with children;
+(c) a commitment not to allow any person who may pose any unacceptable risk to any child's well-being to work with children;
 
 (d) a requirement to stipulate in its contracts with staff members  that  any  member  of  staff  who  breaches the code of conduct in section 50 shall have her or his contract terminated;
 
 (e) a  provision  for  the  review  of  the  child  protection policy at least once every five years;
 
-Standards for child protection organizatio ns
-#### Section 1
+Standards for child protection organizations
 
 27
 
@@ -1219,7 +1222,7 @@ Standards for child protection organizatio ns
 
 Children's Law, 2011
 
-#### Section 2
+#### Section 1
 
 (f) a  statement  not  to  accept  funding  and  expressing non-associations  with  any  person  or  organization that  may  be  abusing, exploiting, or neglecting children;
 
@@ -1229,7 +1232,11 @@ Children's Law, 2011
 
 Chapters 10 and 11 of the Judiciary Law shall be subject to Article II, Sections 2 and 3 of this Law.
 
-- 2.1 The objectives of the juvenile justice system in Liberia shall be:
+Chapters 10 and 11 of the Judiciary Law to be subject to sections 4 and 5
+
+#### Section 2
+
+2.1 The objectives of the juvenile justice system in Liberia shall be:
 
 (a) prevention  of  juvenile  delinquency  and  offences committed by children;
 
@@ -1251,9 +1258,7 @@ Chapters 10 and 11 of the Judiciary Law shall be subject to Article II, Sections
 
 (e) monitoring  of  the  effectiveness  of  measures  to ensure  that  the  deprivation  of  liberty  of  a  child, including pre-trial detention and post-trial incarceration, conform to this Law and international standards on juvenile justice.
 
-Chapters 10 and  11  of  the Judiciary  Law to be subject to sections 4 and 5
-
-Objectives and principles for  policy  and decision making
+Objectives and principles for policy and decision making
 
 28
 
@@ -1275,9 +1280,9 @@ Children's Law, 2011
 
 - 3.5 Corporal punishment, placement in a dark cell, closed or solitary  confinement,  or  any  other  punishment  that  may compromise the physical or mental health or well-being of the child concerned are hereby prohibited.
 
-- 3.6 3.7 The  Ministry  of  Health  and  Social  Welfare shall  take measures  to  ensure  that  juvenile  delinquents  in  whose respect a juvenile or other court has made an order under the  Juvenile  Court  Procedural  Code  are  appropriately integrated into family and community life.
+3.6 The Ministry of Health and Social Welfare shall take measures to ensure that juvenile delinquents in whose respect a juvenile or other court has made an order under the Juvenile Court Procedural Code are appropriately integrated into family and community life.
 
-The  Juvenile  Court  Procedural  Code  and  any  laws  or rules  relating  to  the  administration  of  justice  in  cases where  a  child  is  alleged  to  have  committed  a  criminal offence shall be construed to balance the best interests of the  child  and  responding  to  the  needs  of  any  alleged victim.
+3.7 The Juvenile Court Procedural Code and any laws or rules relating to the administration of justice in cases where a child is alleged to have committed a criminal offence shall be construed to balance the best interests of the child and responding to the needs of any alleged victim.
 
 Principles to guide the administration of juvenile justice and related matters
 
@@ -1323,18 +1328,34 @@ The right to alternative care for children in need of care and the priority care
 Children's Law, 2011
 
 #### Section 2
-| 2.1 | Any person concerned with the well-being of a child in need of special care and protection shall bring the case to the attention of a social worker, a police officer, or a child welfare committee. | Applications for placement of a child in need of
---- | --- | --- | ---
-2.2 | A social worker, police officer or other officials notified or otherwise aware that a child has been taken into care shall bring the matter before a juvenile court or a magistrate court discharging the duties of a juvenile court within forty-eight hours after the notice. | special care and protection into care
-3.3 | In cases of emergency or when the child's life may be in danger, any person may take a child into her or his care. Any person who takes a child into her or his care to protect the child from an emergency or imminent danger shall duly notify a social worker or a police officer within twenty- four hours.
+
+2.1 Any person concerned with the well-being of a child in need of special care and protection shall bring the case to the attention of a social worker, a police officer, or a child welfare committee.
+
+2.2 A social worker, police officer or other officials notified or otherwise aware that a child has been taken into care shall bring the matter before a juvenile court or a magistrate court discharging the duties of a juvenile court within forty-eight hours after the notice.
+
+3.3 In cases of emergency or when the child's life may be in danger, any person may take a child into her or his care. Any person who takes a child into her or his care to protect the child from an emergency or imminent danger shall duly notify a social worker or a police officer within twenty-four hours.
+
+Applications for placement of a child in need of special care and protection into care
+
 #### Section 4
-| 4.1 | A social worker may apply in writing to a juvenile court or a magistrate court that is discharging the duties of a juvenile court to place a child into alternative care if the parents of the child and the prospective care giver have given consent. | Alternative care to be subject to the best interest of
-4.2 | The social worker referred to in subsection 1 shall provide in the written application a statement of her or his particulars, the particulars of the child concerned, and her or his knowledge of the child, and the child's circumstances. | the child and based on a care agreement
-4.3 | Upon consideration of the application, the juvenile court or the magistrate court discharging the functions of a juvenile court may issue notice of hearing.
-4.4 | Upon hearing the application of the social worker and the representations of all concerned parties including, subject to her or his evolving capacities, the child concerned, the juvenile court or magistrate court that is discharging the functions of a juvenile court may adjudge that the child be placed in alternative care according to the best interests of the child and on the basis of an agreement for the care of the child.
+
+4.1 A social worker may apply in writing to a juvenile court or a magistrate court that is discharging the duties of a juvenile court to place a child into alternative care if the parents of the child and the prospective care giver have given consent.
+
+4.2 The social worker referred to in subsection 1 shall provide in the written application a statement of her or his particulars, the particulars of the child concerned, and her or his knowledge of the child, and the child's circumstances.
+
+4.3 Upon consideration of the application, the juvenile court or the magistrate court discharging the functions of a juvenile court may issue notice of hearing.
+
+4.4 Upon hearing the application of the social worker and the representations of all concerned parties including, subject to her or his evolving capacities, the child concerned, the juvenile court or magistrate court that is discharging the functions of a juvenile court may adjudge that the child be placed in alternative care according to the best interests of the child and on the basis of an agreement for the care of the child.
+
+Alternative care to be subject to the best interest of the child and based on a care agreement
+
 #### Section 5
-| 5.1 | An agreement for the care of a child shall be signed by the child's parent or guardian or relative or the social worker and the prospective caregiver. | Requiremen ts of a Care Agreement
-5.2 | A care agreement shall contain the following details as sanctioned by the juvenile court or the magistrate court discharging the duties of a juvenile court:
+
+5.1 An agreement for the care of a child shall be signed by the child's parent or guardian or relative or the social worker and the prospective caregiver.
+
+5.2 A care agreement shall contain the following details as sanctioned by the juvenile court or the magistrate court discharging the duties of a juvenile court:
+
+Requirements of a Care Agreement
 
 31
 
@@ -1380,7 +1401,9 @@ Periodic review of placement or alternative care
 #### Section 7
 7.1
 
-Institutionalization of any child shall be a last resort and, in any case, policies, decisions, and actions on alternative care shall be oriented towards the realization of the child's right to  live  in  a  familial  environment  with  her  or  his  parents  or parents. Institution alization of  a  child to be a last resort
+Institutionalization of any child shall be a last resort and, in any case, policies, decisions, and actions on alternative care shall be oriented towards the realization of the child's right to live in a familial environment with her or his parents or parents.
+
+Institutionalization of a child to be a last resort
 
 - 7.2 No child shall  be  placed  in  a  child  care  institution  without the  order  of  a  court  and  registration  of  such  order  and placement with the Ministry of Health and Social Welfare.
 
@@ -1417,17 +1440,15 @@ No child  care  institution  shall  operate  in  Liberia  without  a certificate
 
 (i) a  child  protection  policy  to  govern the conduct  of the staff of the proposed institution in  their dealings with children in and outside the institution.
 
-- 8.3 Every child care institution shall have a statement of purpose which accurately sets out the objective of the institution for child well-being and the manner in which such an objective is to be realized.
+8.3 Every child care institution shall have a statement of purpose which accurately sets out the objective of the institution for child well-being and the manner in which such an objective is to be realized.
 
-Upon receipt of an application for the registration of a child care  institution,  the  Ministry  of  Health  and  Social  Welfare shall  within fourteen days acknowledge the application and within three months cause to be conducted necessary investigations to determine the suitability of the institution.
+Child care institutions to be registered
 
 #### Section 9
 
-Child care institution s to be registered
+Upon receipt of an application for the registration of a child care institution, the Ministry of Health and Social Welfare shall within fourteen days acknowledge the application and within three months cause to be conducted necessary investigations to determine the suitability of the institution.
 
-Period  for
-
-considerin g an applicatio n for the registratio n of an institution
+Period for considering an application for the registration of an institution
 
 33
 
@@ -1439,28 +1460,27 @@ Children's Law, 2011
 
 #### Section 10
 
-#### Section 11
-11.1
-
 In determining the suitability of a child care institution, the Ministry of Health and Social Welfare shall take into account the following matters:
 
-(a) the degree of likelihood of the objectives and proposed  plan  of  activities  to  advance  the  survival, development, participation, and protection of children;
+(a) the degree of likelihood of the objectives and proposed plan of activities to advance the survival, development, participation, and protection of children;
 
-(b) the  capacity  of  the  proposed  institution  to  comply with minimum standards established in this Law;
+(b) the capacity of the proposed institution to comply with minimum standards established in this Law;
 
 (c) the capacity of the proposed institution to respect the rights of children irrespective of sex, color, religion, origin, or ethnicity;
 
-(d) any other matters that may be conducive to the wellbeing of children under the care of the institution.
+(d) any other matters that may be conducive to the well-being of children under the care of the institution.
 
-Every institution shall cause to be reflected in its work the implications of its statement of purpose, which shall include but not be restricted to: -
+Factors for the registration of child care institutions
+
+#### Section 11
+
+11.1 Every institution shall cause to be reflected in its work the implications of its statement of purpose, which shall include but not be restricted to: -
 
 (a) the objective or objectives to be attained through the institution;
 
 (b) a description of the facilities to be provided to children in the institution;
 
-(c) arrangements for supervision, training,
-
-- and development of members of staff;
+(c) arrangements for supervision, training, and development of members of staff;
 
 (d) specification of the age range, sex, and numbers to be cared for by the institution per year; and
 
@@ -1474,9 +1494,7 @@ Every institution shall cause to be reflected in its work the implications of it
 
 - 11.3 A person registered to operate an institution shall permit and encourage every child in the institution to receive available practical  support  from  her  or  his  mother,  father,  relatives, friends,  or  other  people  who  may  play  a  significant  role  in the child's development and life. The discharge of this duty shall include but not be limited to: -:
 
-(a) written guidance to members of staff on the rights of children,  parents,  relatives  and  others  to  maintain contact with the child;
-
-Factors for the registratio n  of  child care institution s
+(a) written guidance to members of staff on the rights of children, parents, relatives and others to maintain contact with the child;
 
 Every institution to undertake responsive planning for every child in its care
 
@@ -1523,7 +1541,7 @@ Duty to provide quality care  in a child  care institution
 
 Children's Law, 2011
 
-- likely  to  affect  the  current  and  future  lives  of  such children;
+likely to affect the current and future lives of such children;
 
 (b) ensure that care providers take into account the views of the parents, guardians, and relatives of the children residing in the institution and a child welfare committee working in the area where the institution is situated;
 
@@ -1587,9 +1605,9 @@ Children's Law, 2011
 
 (k) children, members of staff, volunteers, and visitors in the institution do not smoke tobacco or other substance  that  may  be  injurious  to  the  health  of  a child or any person near the person smoking.
 
-- 12.7 The person registered to operate an institution shall ensure child's education during their residence in the institution.
+12.7 The person registered to operate an institution shall ensure that the institution has a policy on the advancement of every child's education during their residence in the institution.
 
-- that the institution has a policy on the advancement of every This duty shall extend but not be restricted to:-
+This duty shall extend but not be restricted to:-
 
 (a) the provision of facilities and materials conducive to study and education appropriate to each child's age, aptitude, interests, and potential; and
 
@@ -1609,14 +1627,13 @@ Children's Law, 2011
 
 Children's Law, 2011
 
+children in the institution; and
+
+(c) friendships between children in the institution and other children in the community and elsewhere.
+
 #### Section 13
-13.1
 
-- children in the institution; and
-
-(c) friendships  between  children  in  the  institution  and other children in the community and elsewhere.
-
-The person registered to operate an institution shall ensure that the design, size, and location is compatible with the statement of purpose of the institution. Without prejudice to the generality of this duty, the person registered to operate an institution shall ensure that: -
+13.1 The person registered to operate an institution shall ensure that the design, size, and location is compatible with the statement of purpose of the institution. Without prejudice to the generality of this duty, the person registered to operate an institution shall ensure that: -
 
 (a) the  location  of  the  institution  takes  into  account proximity to education, health, leisure, and transport facilities;
 
@@ -1648,7 +1665,7 @@ The person registered to operate an institution shall ensure that the design, si
 
 (i) children and staff know the evacuation procedures in cases of fire and other emergencies.
 
-Suitability of living conditions in child care institution s
+Suitability of living conditions in child care institutions
 
 38
 
@@ -1660,22 +1677,19 @@ Children's Law, 2011
 
 #### Section 14
 
-#### Section 14
-14.1
-
 The person registered to operate an institution shall ensure that any kind of abuse, neglect and exploitation of a child in the care of the institution is prevented. Without prejudice to the generality of this duty, the person registered to operate an institution shall ensure that:
 
-(a) staff,  volunteers,  and  any  other  persons  working  in the institution are carefully selected concerning qualifications,  employment  history,  references,  and any criminal record;
+(a) staff, volunteers, and any other persons working in the institution are carefully selected concerning qualifications, employment history, references, and any criminal record;
 
 (b) staff and volunteers receive clear job descriptions;
 
-(c) there  are  sufficient  competent  staff  working  in  the institution for the children in the institution;
+(c) there are sufficient competent staff working in the institution for the children in the institution;
 
-(d) children  are  not  subjected  to  situations  where  they may  be  abused  by  visitors  and  strangers  to the institution;
+(d) children are not subjected to situations where they may be abused by visitors and strangers to the institution;
 
 (e) supervision of staff working with children, including methods for working with children and staff roles and accountabilities;
 
-(f) the  institution  implements  a  staff  development  and training plan;
+(f) the institution implements a staff development and training plan;
 
 (g) the performance of staff is appraised periodically and objectives and means are set for greater performance;
 
@@ -1683,9 +1697,13 @@ The person registered to operate an institution shall ensure that any kind of ab
 
 (i) written procedures on guidelines for the operation of the institution exit.
 
-The  person  registered  to  operate  an  institution  shall  ensure that there  are adequate  measures  to  prevent  the  abuse, neglect, and exploitation of children and that whenever such harm to children occurs, the institution provides an effective response.
+Requirement to have adequate staff in child care institutions
 
-- 14.2 The discharge of the duty to protect the child in the institution shall extend but not be limited to the: -
+#### Section 14
+
+14.1 The person registered to operate an institution shall ensure that there are adequate measures to prevent the abuse, neglect, and exploitation of children and that whenever such harm to children occurs, the institution provides an effective response.
+
+14.2 The discharge of the duty to protect the child in the institution shall extend but not be limited to the: -
 
 (a) the existence and implementation of a child protection policy for the institution;
 
@@ -1693,18 +1711,15 @@ The  person  registered  to  operate  an  institution  shall  ensure that there 
 
 (c) the training of staff in child protection;
 
-(d) the  implementation  of  a  procedure  to  refer  to  the Police any member of staff or any other person who may have abused, neglected, or exploited any child in the institution;
+(d) the implementation of a procedure to refer to the Police any member of staff or any other person who may have abused, neglected, or exploited any child in the institution;
 
-(e) counseling  and  rehabilitation  services  to  any  child who may have been abused, neglected, or  exploited by any person in and outside the institution;
+(e) counseling and rehabilitation services to any child who may have been abused, neglected, or exploited by any person in and outside the institution;
 
-(f) an  atmosphere  in  the  institution  where  bullying  is understood as unacceptable;
+(f) an atmosphere in the institution where bullying is understood as unacceptable;
 
 (g) existence of known and used methods for countering
 
-Requireme nt  to  have adequate staff in child  care institution s
-
-Protection of the child and handling of complaint s in a child  care institution
-#### Section 15
+Protection of the child and handling of complaints in a child care institution
 
 39
 
@@ -1714,31 +1729,35 @@ Protection of the child and handling of complaint s in a child  care institution
 
 Children's Law, 2011
 
-#### Section 16
-
 bullying;
 
 (h) children who are bullied are supported and those who may have bullied others are given suitable guidance; and
 
-(i) the implementation  of  procedures  to ensure that children  are  not  absent  from  the  institution  without authority  and  that  when  a  child  misses  from  the institution,  prompt  steps  are  taken,  in  liaison  with social welfare workers and the police to find such as a child.
+(i) the implementation of procedures to ensure that children are not absent from the institution without authority and that when a child misses from the institution, prompt steps are taken, in liaison with social welfare workers and the police to find such as a child.
 
-- 14.3 The  person  registered  to  operate  an  institution  shall  ensure that the institution has and implements a culture and procedure to address  grievances for children, staff, parents, guardians, relatives, and other persons interested in the best interests of the child.
+14.3 The person registered to operate an institution shall ensure that the institution has and implements a culture and procedure to address grievances for children, staff, parents, guardians, relatives, and other persons interested in the best interests of the child.
 
-- 14.4 The implementation of such a procedure shall extend but not exceed: -
+14.4 The implementation of such a procedure shall extend but not exceed: -
 
-(a) The  ascertainable  wishes  and  feelings  of  the  child concerned;
+(a) The ascertainable wishes and feelings of the child concerned;
 
-(b) the  making  of  both  minor  and  major  complaints  by children  and  staff  in  the  institution  concerning  the operation and management of the institution;
+(b) the making of both minor and major complaints by children and staff in the institution concerning the operation and management of the institution;
 
-(c) the  making  of  complaints  by  parents, guardians, relatives, and other members of the public regarding the operation and management of the institution;
+(c) the making of complaints by parents, guardians, relatives, and other members of the public regarding the operation and management of the institution;
 
 (d) training of staff in the institution on the handling of internal and external complainants and conflict resolution within the institution; and
 
 (e) provision of the right to appeal in cases of dissatisfaction with any decision taken in the resolution of a conflict or a complaint;
 
-The  Minister  of  Health  and  Social  Welfare  shall,  upon consideration of a report of a social worker, order that a child care  institution  be  closed  on  account  of  failure  to  comply with this Law.
+#### Section 15
+
+The Minister of Health and Social Welfare shall, upon consideration of a report of a social worker, order that a child care institution be closed on account of failure to comply with this Law.
+
+Closure of child care institutions by Minister
 
 ### Sub-Article X(III): Foster Care
+
+#### Section 16
 
 Any of the following persons may apply to the Minister of Health and Social Welfare to be appointed a foster parent:
 
@@ -1748,9 +1767,7 @@ Any of the following persons may apply to the Minister of Health and Social Welf
 
 (c) a man and woman commonly known to be cohabiting though not legally married couple.
 
-Closure of child care institution s by Minister
-
-Eligibility to  foster  a child
+Eligibility to foster a child
 
 40
 
@@ -1765,12 +1782,13 @@ Children's Law, 2011
 
 The  child's  paternal  and  maternal  extended  families  shall have priority to provide foster care.
 
-- 17.2 No person shall be appointed a foster parent unless she or he has been resident in Liberia for at least six month s .
+17.2 No person shall be appointed a foster parent unless she or he has been resident in Liberia for at least six months.
+
+Family members to have priority in fostering
 
 #### Section 18
-18.1
 
-An  application to foster a child shall be in writing, accompanied by:
+18.1 An application to foster a child shall be in writing, accompanied by:
 
 (a) a report by a social worker about the suitability of the applicant to foster the concerned child and that it is in the  best  interests  of  the  child  to  be  fostered  by  the said applicant;
 
@@ -1792,15 +1810,19 @@ An  application to foster a child shall be in writing, accompanied by:
 
 (f) reasons for the application; and
 
-(g) an expression of undertaking to raise the child concerned as parents  to  the  best  of  their  ability  and advancing the child's best interests.
+(g) an expression of undertaking to raise the child concerned as parents to the best of their ability and advancing the child's best interests.
 
-The report of the social worker to accompany an application to  foster  a  child  referred  to  in  section  72.1(a) shall  state  or contain:-
+Applications for foster care
 
-(a) the  personal  and  professional  details  of  the  social worker;
+#### Section 19
 
-(b) the  department  or  organization  through  which  the social worker works;
+The report of the social worker to accompany an application to foster a child referred to in section 72.1(a) shall state or contain:-
 
-(c) the  address  of  the  social  worker's  department  or organization;
+(a) the personal and professional details of the social worker;
+
+(b) the department or organization through which the social worker works;
+
+(c) the address of the social worker's department or organization;
 
 (d) the name and age of the child who is the subject of the application for fosterage;
 
@@ -1809,12 +1831,6 @@ The report of the social worker to accompany an application to  foster  a  child
 (f) a brief assessment of the suitability of the prospective foster parent to care for the child;
 
 (g) a brief statement of the suitability of the prospective foster parent to protect the child;
-
-#### Section 19
-
-Family members to have priority  in fostering
-
-Applicatio ns for foster care
 
 Report of a social worker
 
@@ -1837,24 +1853,36 @@ Children's Law, 2011
 (l) overall  recommendation  on  whether  the  application should be granted or refused.
 
 #### Section 20
-20.1 Upon  consideration  of  the  application  for  fosterage,  the Minister  of  Health  and  Social  Welfare  may  refuse  the application or issue a foster placement certificate in favor of the applicant.
+
+20.1 Upon consideration of the application for fosterage, the Minister of Health and Social Welfare may refuse the application or issue a foster placement certificate in favor of the applicant.
+
+74.2 Any person dissatisfied with the decision of the minister may lodge a complaint in a probate court.
 
 Decision of the Minister
 
-- 74.2 Any person dissatisfied with the decision of the minister may lodge a complaint in a probate court.
-
 #### Section 21
-| A foster parent shall sign an alternative care agreement as required by section 58 herein. | Foster care agreement
---- | --- | ---
+
+A foster parent shall sign an alternative care agreement as required by section 58 herein.
+
+Foster care agreement
+
 #### Section 22
-| A foster parent shall not remove a fostered child from Liberia without the leave of a court of law. | A foster child not to be
-moved from Liberia without Court of law order
+
+A foster parent shall not remove a fostered child from Liberia without the leave of a court of law.
+
+A foster child not to be moved from Liberia without Court of law order
 
 ## Part XI Administration of the Law
 
 #### Section 1
-| 1.1 1.2 1.3 | A fund is hereby established to be known as the Child Rights Advancement Fund to be held and managed by the Ministry of Gender and Development, subject to the Revenue Code and any other financial laws and regulations that Government may put in place; The purpose of the fund shall be to provide for education on child rights and correlative duties or child well-being in Liberia. The Ministry of Gender and Development may every quarter of the year make any necessary grants to child rights and youth clubs or any civil society organizations involved in child rights education in | Child Rights Advancement Fund
---- | --- | --- | ---
+
+1.1 A fund is hereby established to be known as the Child Rights Advancement Fund to be held and managed by the Ministry of Gender and Development, subject to the Revenue Code and any other financial laws and regulations that Government may put in place;
+
+1.2 The purpose of the fund shall be to provide for education on child rights and correlative duties or child well-being in Liberia.
+
+1.3 The Ministry of Gender and Development may every quarter of the year make any necessary grants to child rights and youth clubs or any civil society organizations involved in child rights education in Liberia.
+
+Child Rights Advancement Fund
 
 42
 
@@ -1879,14 +1907,13 @@ Such grants as referred to in subsection 3 of this section shall be according to
 
 - 2.4 In  cases  when  the  Child  Rights  Education  Committee by  a  majority  vote  expresses  dissatisfaction  with  the management of the fund, it shall petition the Committee on Gender Equity and Child Development in each House of the Legislature, which shall summon the  Minister  of  Gender  and  Development  to  give  an account in both Houses of the Legislature.
 
-There shall be established in every community or town a  child  welfare  committee  consistent  with  sections  83
+Child Rights Education Committee
 
 #### Section 3
-to 85 of this Law.
 
-Child  Rights Education Committee
+There shall be established in every community or town a child welfare committee consistent with sections 83 to 85 of this Law.
 
-Every community  or town  to  have a child welfare committee
+Every community or town to have a child welfare committee
 
 43
 
@@ -1897,40 +1924,40 @@ Every community  or town  to  have a child welfare committee
 Children's Law, 2011
 
 #### Section 4
-4.1
 
-The  overall  function  of  a  community  or  town  child welfare  committee  shall  be  to  advance  the  realization of  the  rights  of  the  child  at  the  community  or  town level.
+4.1 The overall function of a community or town child welfare committee shall be to advance the realization of the rights of the child at the community or town level.
 
-- 4.2 Without prejudice to subsection 1, the duties of a child welfare  committee  at  the  community  or  town  level shall  be  to  make  recommendations  to  relevant  public and other functionaries on the following matters: -
+4.2 Without prejudice to subsection 1, the duties of a child welfare committee at the community or town level shall be to make recommendations to relevant public and other functionaries on the following matters: -
 
-(a) the promotion of awareness on child rights and their  realization,  including  the  elimination  of any harmful practices;
+(a) the promotion of awareness on child rights and their realization, including the elimination of any harmful practices;
 
-(b) guidance  to  children's  representatives  forums working in the community for which the child welfare committee discharges its functions;
+(b) guidance to children's representatives forums working in the community for which the child welfare committee discharges its functions;
 
-(c) the monitoring of  the enjoyment of child rights within its jurisdiction;
+(c) the monitoring of the enjoyment of child rights within its jurisdiction;
 
 (d) prevention of domestic violence through awareness and educational activities;
 
-(e) rendering advice to children, parents and other community  or  town  members  to  promote  the best interests of the child;
+(e) rendering advice to children, parents and other community or town members to promote the best interests of the child;
 
 (f) drawing and presentation of child welfare plans to local government authorities;
 
-(g) following  up  on  the  implementation  of  child welfare plans; and
+(g) following up on the implementation of child welfare plans; and
 
 (h) any other functions that may advance the enjoyment of the rights of the child within the jurisdiction of the committee.
 
-The powers and functions of a child welfare committee shall be limited to advice, mediation, recommendations,  and  representation  and  in  no  event shall a child welfare committee conduct a trial or pass a sentence against any person.
-
-When a child welfare committee presents a need for the advancement  of  child  rights  or  child  well-being  to  a district local government authority or a service provider, such authority or service provider shall promptly respond to take measure to have the need met or otherwise explain why the need cannot be met.
+Functions of a community or town child welfare committee
 
 #### Section 5
 
+The powers and functions of a child welfare committee shall be limited to advice, mediation, recommendations, and representation and in no event shall a child welfare committee conduct a trial or pass a sentence against any person.
+
+Jurisdiction and powers of child welfare committees limited to recommendations and advice
+
 #### Section 6
-6.1
 
-Functions  of a community or  town  child welfare committee
+6.1 When a child welfare committee presents a need for the advancement of child rights or child well-being to a district local government authority or a service provider, such authority or service provider shall promptly respond to take measure to have the need met or otherwise explain why the need cannot be met.
 
-Jurisdiction and powers of child welfare committees limited to recommendati ons and advice Child welfare committees' power to present  needs to local government
+Child welfare committees' power to present needs to local government
 
 44
 
@@ -1940,10 +1967,13 @@ Jurisdiction and powers of child welfare committees limited to recommendati ons 
 
 Children's Law, 2011
 
-6.2 When  a  child  welfare  committee  determines  that  a district  local  government authority or service provider is not responding as required by subsection 1, the child welfare  committee  shall  refer  the  matter  to  a  county local government authority, the House of Representative  and the  Senate committees responsible for the matter, or any  other authorities or public functionaries in local and central government.
+6.2 When a child welfare committee determines that a district local government authority or service provider is not responding as required by subsection 1, the child welfare committee shall refer the matter to a county local government authority, the House of Representative and the Senate committees responsible for the matter, or any other authorities or public functionaries in local and central government.
+
+authorities
 
 #### Section 7
-7.1 Every  head  of  a  community  or  town,  assisted  by  a representative from the Ministry of Gender and Development, shall cause to be elected in a community or  town  gathering  in  her  or  his  community  or  town members  of a community  or town child welfare committee.
+
+7.1 Every head of a community or town, assisted by a representative from the Ministry of Gender and Development, shall cause to be elected in a community or town gathering in her or his community or town members of a community or town child welfare committee.
 
 - 7.2 The composition of a community or town child welfare committee shall be as follows:-
 
@@ -1955,13 +1985,11 @@ Children's Law, 2011
 
 (d) one male child, representing children and nominated  by  a  specially  convened  children's forum facilitated by a gender coordinator designated by such gender coordinator, provided that such a child shall not have reached  the  age  of  18  by  the  time  her  or  his term on the committee ends, and.
 
-(e) two  representatives,  female  and  male,  of  nongovernmental  organizations  or  community  or town-based organizations who may be working to advance child rights in the said community or town and who shall be elected by the members of the committee mentioned in paragraphs (a) to (d) in this subsection.
+(e) two representatives, female and male, of non-governmental organizations or community or town-based organizations who may be working to advance child rights in the said community or town and who shall be elected by the members of the committee mentioned in paragraphs (a) to (d) in this subsection.
 
 (f) three local members from various faiths, a least one of which should be female, elected by the members of the committee mentioned in paragraphs (a) to (d) in this subsection.
 
-authorities
-
-Composition of a community  or town child welfare committees
+Composition of a community or town child welfare committees
 
 45
 
@@ -1971,15 +1999,11 @@ Composition of a community  or town child welfare committees
 
 Children's Law, 2011
 
+7.3 A child welfare committee shall elect a chairperson and secretary from within its membership.
+
 #### Section 8
 
-#### Section 9
-
-#### Section 10
-
-- 7.3 A child welfare committee shall elect a chairperson and secretary from within its membership.
-
-No  person  shall  qualify  to  serve  on  a  child  welfare committee unless he or she is: -
+No person shall qualify to serve on a child welfare committee unless he or she is: -
 
 (a) of good repute
 
@@ -1989,39 +2013,43 @@ No  person  shall  qualify  to  serve  on  a  child  welfare committee unless he
 
 (d) literate or at least able effectively to participate in the proceedings of the committee; and
 
-(e) except for members elected under paragraph (e) of  section  83,  resident  in  the  community  or town.
+(e) except for members elected under paragraph (e) of section 83, resident in the community or town.
 
-- 9.1 A person shall cease to be a member of a community or town child welfare committee if she or he dies, resigns, neglects  her  or  his  duties,  or  commits  an  act  that  is inconsistent with the protection of child rights.
+Qualifications of members of community or town child welfare committees
 
-- 9.2 Subject  to  subsection  1,  a  member  of  the  committee shall hold office for a renewable term of one year.
+#### Section 9
 
-- 10.1 Every district local government authority as established under the law or policy on local government shall have a duty to advance child welfare at the district level.
+9.1 A person shall cease to be a member of a community or town child welfare committee if she or he dies, resigns, neglects her or his duties, or commits an act that is inconsistent with the protection of child rights.
 
-- 10.2 Without prejudice to the generality of subsection 1, the child  rights-related  duties  of  district  local  government authorities shall  be to: -
+9.2 Subject to subsection 1, a member of the committee shall hold office for a renewable term of one year.
+
+Duration of office of members of community or town child welfare committees
+
+#### Section 10
+
+10.1 Every district local government authority as established under the law or policy on local government shall have a duty to advance child welfare at the district level.
+
+10.2 Without prejudice to the generality of subsection 1, the child rights-related duties of district local government authorities shall be to: -
 
 (a) provide services, response, and support to community or town welfare committees;
 
-(b) receive  and  attend  to  matters  and  questions referred  to  it  from  community  or  town  child welfare committees;
+(b) receive and attend to matters and questions referred to it from community or town child welfare committees;
 
 (c) monitor the enjoyment of child rights within the district; and
 
-(d) present  child  welfare  plans  for  support  to  the county local government authority.
-
-#### Section 11
-11.1 Every  county  local  government  authority  shall  render services, assistance, and response to district local government authorities.
-
-- 11.2 Without prejudice to the generality of subsection 1, the child rights-related duties of a county local government authority shall be to:-
-
-(a) receive  and  attend  to  child  well-being-related questions  and  matters  referred  to  the  county
-
-Qualifications of members of community  or town child welfare committees
-
-Duration of office of members of community  or town child welfare committees
+(d) present child welfare plans for support to the county local government authority.
 
 Child-related duties of district local authorities
 
-Childrelated  duties of county welfare local authorities
-#### Section 12
+#### Section 11
+
+11.1 Every county local government authority shall render services, assistance, and response to district local government authorities.
+
+11.2 Without prejudice to the generality of subsection 1, the child rights-related duties of a county local government authority shall be to:-
+
+(a) receive and attend to child well-being-related questions and matters referred to the county
+
+Child-related duties of county welfare local authorities
 
 46
 
@@ -2031,46 +2059,47 @@ Childrelated  duties of county welfare local authorities
 
 Children's Law, 2011
 
-#### Section 13
-
-#### Section 14
-
-- local government authority by district authorities;
+local government authority by district authorities;
 
 (b) monitor the enjoyment of child rights within the county;
 
 (c) present child welfare plans for support to Central Government departments; and
 
-(d) take any other action to advance  the best interests  and  dignified  life  of  children  in  the county.
+(d) take any other action to advance the best interests and dignified life of children in the county.
 
-An  independent  body  corporate  to  be  known  as  the National Child Well-being Council is hereby established.
+#### Section 12
 
-The  composition  of  the  National  Child  Well-being Council shall be as follows:
+An independent body corporate to be known as the National Child Well-being Council is hereby established.
 
-(a) the  chairperson  of  the  council  who  shall  be appointed by the President of Liberia;
+Establishment of a National Council for Child Well-being
 
-(b) A deputy minister(s) from each of the following Ministries:  Health  and  Social  Welfare,  Gender and  Development,  Youth  and  Sports,  Internal Affairs,  Justice,  Foreign  Affairs,  and  Finance appointed by  their respective Ministers;
+#### Section 13
+
+The composition of the National Child Well-being Council shall be as follows:
+
+(a) the chairperson of the council who shall be appointed by the President of Liberia;
+
+(b) A deputy minister(s) from each of the following Ministries: Health and Social Welfare, Gender and Development, Youth and Sports, Internal Affairs, Justice, Foreign Affairs, and Finance appointed by their respective Ministers;
 
 (c) two representatives of civil society organizations working on child well-being elected at a forum of such organizations facilitated by a Deputy Minister from the Ministry of Gender and Development;
 
 (d) the chairperson of the National Children's Representative Forum;
 
-(e) a professionally qualified National Child Wellbeing  Council  Chief  Executive  Secretary  who shall  be  employed  on  a  five-year  renewable contract comparable to at least that of a deputy minister.
+(e) a professionally qualified National Child Well-being Council Chief Executive Secretary who shall be employed on a five-year renewable contract comparable to at least that of a deputy minister.
 
-- 14.1 The overall function of the National Child Well-being Council  shall be to exercise oversight  on matters related to child well-being.
+Appointment of members of the National Council for Child Well-being
 
-- 14.2 Without  prejudice  to  the  generality  of  sub-section  1, the Council shall: -
+#### Section 14
+
+14.1 The overall function of the National Child Well-being Council shall be to exercise oversight on matters related to child well-being.
+
+14.2 Without prejudice to the generality of sub-section 1, the Council shall: -
 
 (a) promote the enjoyment of child rights or child well-being in Liberia;
 
 (b) make observations and recommendations on the state of child well-being in Liberia;
 
-Establishment of  a  National Council for Child Wellbeing
-
-Appointment of members of the National Council for Child Wellbeing
-
 Duties of the National Council for National Well-being
-#### Section 15
 
 47
 
@@ -2080,19 +2109,15 @@ Duties of the National Council for National Well-being
 
 Children's Law, 2011
 
-#### Section 16
+(c) indicate and require government organizations to provide reports on any matter related to child well-being;
 
-#### Section 17
-
-17.1
-
-(c) indicate  and  require  government  organizations to provide reports on any matter related to child well-being;
-
-(d) receive,  examine,  and  publicize  reports  from any Government department or nongovernmental  organization,  on  the  situation  of children in Liberia;
+(d) receive, examine, and publicize reports from any Government department or non-governmental organization, on the situation of children in Liberia;
 
 (e) issue observations and recommendations to advance child well-being in Liberia; and
 
-(f) do any other acts that promote and facilitate the advancement  of  the  well-being  of  children  in Liberia.
+(f) do any other acts that promote and facilitate the advancement of the well-being of children in Liberia.
+
+#### Section 15
 
 No person shall qualify to be a member of the Council unless she or he is: -
 
@@ -2100,34 +2125,39 @@ No person shall qualify to be a member of the Council unless she or he is: -
 
 (b) without a felonious record of guilt.; and
 
-(c) Certified  to advance child rights at the national level.
+(c) Certified to advance child rights at the national level.
 
-A person shall cease to be a member of the Council if she  or  he  dies,  resigns,  neglects  her  or  his  duties,  or commits an act that is inconsistent with the protection of child rights.
+Qualifications of members of the council
 
-The  overall  duty  of  the  Chief  Executive  Secretary  of the  Council  shall  be  to  provide  and  facilitate  services for the efficient and effective discharge of the duties of the Council.
+#### Section 16
 
-- 17.2 Without prejudice to the generality of subsection 1,  the Chief Executive Secretary  for the Council shall:-
+A person shall cease to be a member of the Council if she or he dies, resigns, neglects her or his duties, or commits an act that is inconsistent with the protection of child rights.
+
+Tenure of office of members of the council
+
+#### Section 17
+
+17.1 The overall duty of the Chief Executive Secretary of the Council shall be to provide and facilitate services for the efficient and effective discharge of the duties of the Council.
+
+17.2 Without prejudice to the generality of subsection 1, the Chief Executive Secretary for the Council shall:-
 
 (a) be the official spokesperson for the Council;
 
-(b) provide professional information and advice to the  Council  on  matters  related  to  child  wellbeing;
+(b) provide professional information and advice to the Council on matters related to child well-being;
 
 (c) administer the staff under her or his office; and
 
 (d) prepare and keep records of the proceedings of the Council.
 
+Duties of the Chief Executive Secretary
+
 #### Section 18
+
 18.1 The finances of the Council shall be from:-
 
-(a) the  Consolidated  Fund,  based  on  a  financial management  plan  agreed  between  the  Chief Executive  Secretary  of  the  Council  and  the Ministry of Finance;
+(a) the Consolidated Fund, based on a financial management plan agreed between the Chief Executive Secretary of the Council and the Ministry of Finance;
 
-(b) gifts, grants, and donations from any organization  in  and  outside  Liberia  provided
-
-Qualifications of members of the council
-
-Tenure of office of members of the council
-
-Duties of the Chief Executive Secretary
+(b) gifts, grants, and donations from any organization in and outside Liberia provided
 
 Property and accounts of the council
 
@@ -2139,7 +2169,7 @@ Property and accounts of the council
 
 Children's Law, 2011
 
-- that  such  organization  or  person  shall  be  in good stead with the protection of  children and their rights; and
+that such organization or person shall be in good stead with the protection of children and their rights; and
 
 (c) any other sources compatible with the protection of child rights.
 
@@ -2171,7 +2201,7 @@ Children's Law, 2011
 
 Annual reports  of  the council
 
-Town children's representative s forums
+Town children's representatives forums
 
 49
 
@@ -2181,7 +2211,7 @@ Town children's representative s forums
 
 Children's Law, 2011
 
-- the  media,  any  violation  of  child  rights  at  the community level.
+the media, any violation of child rights at the community level.
 
 - 20.5 The  membership  of  a  town  children's  representatives forum  shall  be  open  to  all children  living in the community.
 
@@ -2197,7 +2227,7 @@ Children's Law, 2011
 
 (e) three  committee  members  who  shall  assist  the chairperson and her or his deputy to manage the affairs and agendas of the forum.
 
-- 20.7 A  member  of  the  district  children's  representatives' forum  shall  hold  office  for  a  renewable  term  of  one year  provided  that  she  or  he  shall  be  eligible  for  reelection if she or he has not attained the age of 18 or will not have attained that age by the end of her or his new term of office.
+20.7 A member of the district children's representatives' forum shall hold office for a renewable term of one year provided that she or he shall be eligible for re-election if she or he has not attained the age of 18 or will not have attained that age by the end of her or his new term of office.
 
 #### Section 21
 21.1 There  shall  be  a  children's  representative  forum  in every  district  in  Liberia  whose  formation  shall  be directly  facilitated  by  a  gender  coordinator or  through instructions by  the gender  coordinator  to a  youth facilitator.
@@ -2208,8 +2238,7 @@ Children's Law, 2011
 
 - 21.4 Without prejudice to the generality of the subsection 2, the  roles  of  a  district  children's  representative  forum shall be to:-
 
-District children's representative s forums
-#### Section 22
+District children's representatives forums
 
 50
 
@@ -2239,13 +2268,14 @@ Children's Law, 2011
 
 (e) three committee members, who shall  assist the chairperson and her or his deputy to manage the affairs and agendas of the forum
 
-- 21.6 A  member  of  the  district  children's  representatives forum  shall  hold  office  for  a  renewable  term  of  one year  provided  that  she  or  he  shall  be  eligible  for  reelection if she or he has not attained the age of 18 or will not have attained that age by the end of her or his new term of office.
+- 21.6 A  member  of  the  district  children's  representatives forum  shall  hold  office  for  a  renewable  term  of  one year  provided  that  she  or  he  shall  be  eligible  for  re-election if she or he has not attained the age of 18 or will not have attained that age by the end of her or his new term of office.
 
-- 22.1 There  shall  be  a  children's  representative  forum  in every  county  in  Liberia  whose  formation  shall  be directly  facilitated  by  a  gender  coordinator or  through instructions by  the gender  coordinator  to a  youth facilitator.
+#### Section 22
+22.1 There  shall  be  a  children's  representative  forum  in every  county  in  Liberia  whose  formation  shall  be directly  facilitated  by  a  gender  coordinator or  through instructions by  the gender  coordinator  to a  youth facilitator.
 
 - 22.2 The  county  children's  forum  shall  be  composed  of children  elected  at  district  children's  representatives special forums.
 
-County children's representative s forum
+County children's representatives forum
 
 51
 
@@ -2277,14 +2307,14 @@ Children's Law, 2011
 
 (e) three committee members who shall  assist the chairperson and her or his deputy to manage the affairs and agendas of the forum.
 
-- 22.6 A member of the committee for a county representatives  children's  forum  shall  hold  office  for one year provided that she or he shall be eligible for reelection if she or he has not attained the age of 18 or will not have attained that age by the end of her or his new term of office.
+- 22.6 A member of the committee for a county representatives  children's  forum  shall  hold  office  for one year provided that she or he shall be eligible for re-election if she or he has not attained the age of 18 or will not have attained that age by the end of her or his new term of office.
 
 #### Section 23
 23.1 There  shall  be  a  national  children's  forum  whose formation  shall  be  facilitated  directly  by  an  official from the Ministry of Gender and Development who is at least of Assistant Minister level.
 
 - 23.2 The  role  of  the  National  Children's  Representative Forum  shall  be  to  ensure  that  children  and  young
 
-National Children's Representativ e Forum
+National Children's Representative Forum
 
 52
 
@@ -2294,7 +2324,7 @@ National Children's Representativ e Forum
 
 Children's Law, 2011
 
-- people's views are heard and acted upon to advance the realization of child rights at the national level.
+people's views are heard and acted upon to advance the realization of child rights at the national level.
 
 - 23.3 Without prejudice to the generality of the subsection 2, the roles of a National Children's Representative Forum shall be to:-
 
@@ -2333,37 +2363,38 @@ Children's Law, 2011
 #### Section 24
 24.1
 
-24.2
+24.2 The functions of units referred to in subsection 1 of this section shall be to investigate and handle cases of sexual violence, sexual abuse, sexual exploitation, domestic violence, criminal allegations against children, and other cases requiring police protection for any woman or child.
 
-24.3
+24.3 Without prejudice to the generality of subsection 2, the police units to protect women and children shall:-
 
-24.4
-
-The functions of units referred to in subsection 1 of this section  shall  be  to  investigate  and  handle  cases  of sexual violence, sexual abuse, sexual exploitation, domestic violence, criminal allegations against children, and other cases requiring police protection for any woman or child.
-
-Without prejudice to the generality of subsection 2, the police units to protect women and children shall:-
-
-(a) maintain  updated  registers  of  convicted  child abusers  and  offenders    which  shall  be  merged every quarter to create a national register;
+(a) maintain updated registers of convicted child abusers and offenders which shall be merged every quarter to create a national register;
 
 (b) monitor the whereabouts and activities of child abusers and offenders on the register;
 
 (c) make arrangements for the prosecution of cases of alleged domestic violence and violence against children; and
 
-(d) provide  and  seek  temporary  safe  places  for women or children who have or are in danger of suffering violence, exploitation, or abuse.
+(d) provide and seek temporary safe places for women or children who have or are in danger of suffering violence, exploitation, or abuse.
 
-In the discharge of its functions, a women and children protection  unit  shall  not  mix  children  in  need  of  care against whom no allegations of infringement of the law have  been  made  and  children  who  are  accused  of having been in conflict with the law.
+24.4 In the discharge of its functions, a women and children protection unit shall not mix children in need of care against whom no allegations of infringement of the law have been made and children who are accused of having been in conflict with the law.
+
+The police to maintain units to protect women and children
 
 ## Article XII: Miscellaneous
 
 #### Section 1
-| Subject to the Constitution, any law that is inconsistent with Article I, Section 2 of this Law shall be invalid to the extent of such inconsistency . Other with | laws inconsistent this Law to stand invalid
---- | --- | ---
-#### Section 2
-| Each ministry or governmental agency vested with specified powers and charged with specific duties in this Law shall have power to make regulations for the implementation of the provisions in this Law. | Ministers' general power
-#### Section 3
-| This Law shall take effect immediately upon publication into Handbill. | Commencement
+Subject to the Constitution, any law that is inconsistent with Article I, Section 2 of this Law shall be invalid to the extent of such inconsistency.
 
-The police to maintain units to protect women and children
+Other laws inconsistent with this Law to stand invalid
+
+#### Section 2
+Each ministry or governmental agency vested with specified powers and charged with specific duties in this Law shall have power to make regulations for the implementation of the provisions in this Law.
+
+Ministers' general power
+
+#### Section 3
+This Law shall take effect immediately upon publication into Handbill.
+
+Commencement
 
 54
 
@@ -2393,16 +2424,16 @@ That Section 51.21, Sub-Chapter B, Chapter 51, of the Public Health Law, as rela
 
 ##### Section 51.21. Reporting Requirements.
 
-- The  Ministry  of  Health  and  Social  Welfare  shall  provide  to  community leaders,  traditional  health  attendants,  clinics  and  hospitals,  forms  which parents can use to give notification of birth of their children.
+1. The  Ministry  of  Health  and  Social  Welfare  shall  provide  to  community leaders,  traditional  health  attendants,  clinics  and  hospitals,  forms  which parents can use to give notification of birth of their children.
 
-- The birth of each child born alive in the Republic shall be registered within fourteen days after the date of birth by filing with the Registrar of the district in which the birth occurred a report of such birth.
+2. The birth of each child born alive in the Republic shall be registered within fourteen days after the date of birth by filing with the Registrar of the district in which the birth occurred a report of such birth.
 
-- In each case where a physician, midwife or person acting as a midwife, was in attendance upon the birth, it shall be the duty of such Physician, midwife, or person acting as such midwife, to file the report of the birth.  Where there is no physician, midwife or person acting as midwife in attendance upon the birth, it shall be the duty of the father or mother of the child, the householder or owner of the premises where the birth occurred, or the director or person in charge of the  public  or  private  institution  where  the  birth  occurred,  each  in  the  order named, within fourteen days after the date of such birth, to inform the local Registrar of the fact of such birth and to file the required report thereof.
+3. In each case where a physician, midwife or person acting as a midwife, was in attendance upon the birth, it shall be the duty of such Physician, midwife, or person acting as such midwife, to file the report of the birth.  Where there is no physician, midwife or person acting as midwife in attendance upon the birth, it shall be the duty of the father or mother of the child, the householder or owner of the premises where the birth occurred, or the director or person in charge of the  public  or  private  institution  where  the  birth  occurred,  each  in  the  order named, within fourteen days after the date of such birth, to inform the local Registrar of the fact of such birth and to file the required report thereof.
 
 #### Section 2.
-That section 51.21 subsection 3, Registration of birth of foundings is hereby amended in said subheading to read:
+That section 51.21 subsection 3, Registration of birth of foundlings is hereby amended in said subheading to read:
 
--Registration of births of findings‖.
+―Registration of births of foundlings‖.
 
 #### Section  3.
 Effective  date  of  Amendment: This  amendment  shall  take  effect immediately upon publication into handbills.
@@ -2424,18 +2455,18 @@ It is enacted by the Senate and House of Representatives of the Republic of Libe
 #### Section 1.
 That  Section  14.1,  Chapter  14,  is  amended  by  adding  thereto  a  new sub-section  (  c  )  (i),  (ii)  and  (iii),  covering  sacrificial  and  ritualistic  killings  of children, to read as follows:
 
-(c )(i) -Any person who enters into an agreement, gives  or received consideration or thing of value, of any kind or nature that results in the sacrifice or ritualistic killing of a child, or participates in any form of sacrifice or ritualistic killing of a child, shall be guilty  if  murder,  a  felony  if  the  first  degree,  and  shall  be  punishable  as  prescribed under sections 50.1 and 50.5 of the Penal Law.  Where death does not ensue but an attempt  is  made  to  commit  murder,  the  perpetrator(s)  shall  be  guilty  of  attempted murder, a felony of the second degree, punishable by imprisonment of five years.
+(c )(i) ―Any person who enters into an agreement, gives  or received consideration or thing of value, of any kind or nature that results in the sacrifice or ritualistic killing of a child, or participates in any form of sacrifice or ritualistic killing of a child, shall be guilty  if  murder,  a  felony  if  the  first  degree,  and  shall  be  punishable  as  prescribed under sections 50.1 and 50.5 of the Penal Law.  Where death does not ensue but an attempt  is  made  to  commit  murder,  the  perpetrator(s)  shall  be  guilty  of  attempted murder, a felony of the second degree, punishable by imprisonment of five years.
 
-(ii) -Any  person  who  belongs  to  or  joins  an  association  or  group  with  the objective of engaging in sacrificial or ritualistic killing of a child or other persons, for any  reason  whatsoever,  where  death  occurs,  although  he  or  she  did  not  directly  or actually participate in carrying out the act, shall be guilty of conspiracy, aiding and abetting murder, a felony of the second degree, punishable by imprisonment of five years.
+(ii) ―Any  person  who  belongs  to  or  joins  an  association  or  group  with  the objective of engaging in sacrificial or ritualistic killing of a child or other persons, for any  reason  whatsoever,  where  death  occurs,  although  he  or  she  did  not  directly  or actually participate in carrying out the act, shall be guilty of conspiracy, aiding and abetting murder, a felony of the second degree, punishable by imprisonment of five years.
 
-(iii) -Any  person  who  belongs  to  or  joins  an  association  or  group  with  the objective of engaging in sacrificial or ritualistic killing of a child or other person, for any reason whatsoever, where death does not result, shall be guilty of conspiracy and aiding  and  abetting  attempted  murder,  a  felony  of  the  third  degree,  punishable  by imprisonment of three years.
+(iii) ―Any  person  who  belongs  to  or  joins  an  association  or  group  with  the objective of engaging in sacrificial or ritualistic killing of a child or other person, for any reason whatsoever, where death does not result, shall be guilty of conspiracy and aiding  and  abetting  attempted  murder,  a  felony  of  the  third  degree,  punishable  by imprisonment of three years.
 
 #### Section 2.
 That section 16.4, Chapter 16, is hereby amended to read as follows:
 
-- A person commits a first degree misdemeanor if as a parent, guardian, or other caregiver for the child, he or she knowingly endangers the child's welfare by violating  the  legal  duty  of  care,  protection  or  support  specified  in  Section 11.11(d) of the Judiciary Law, or otherwise neglects, ill-treats, or exploits the child entrusted to his or her care.
+(1) A person commits a first degree misdemeanor if as a parent, guardian, or other caregiver for the child, he or she knowingly endangers the child's welfare by violating  the  legal  duty  of  care,  protection  or  support  specified  in  Section 11.11(d) of the Judiciary Law, or otherwise neglects, ill-treats, or exploits the child entrusted to his or her care.
 
-- The offence in section 16.4(1) shall be proven if one of the following factors is established:
+(2) The offence in section 16.4(1) shall be proven if one of the following factors is established:
 
 (a) unreasonable  failure  to  provide  or  pay  for  adequate  food,  clothing  or housing for the child;
 
@@ -2460,7 +2491,7 @@ Chapter  16  of  the  Penal  Law  is  amended  in  section  16.6  by substitutin
 
 ##### 16.6  Selling, sending a child to procure, or serving of beverages, narcotics and cigarettes to a child; employment in sale.
 
--A parent  or  any  person  eighteen  years  old  and  above,  who  sells,  sends  a  child  to procure or serves alcoholic beverages, cigarettes or any narcotic or intoxicating drugs to a child or who employs a child in the sale of such beverage, cigarettes or narcotic and intoxicating drugs is guilty of a misdemeanor of the first degree.
+―A parent  or  any  person  eighteen  years  old  and  above,  who  sells,  sends  a  child  to procure or serves alcoholic beverages, cigarettes or any narcotic or intoxicating drugs to a child or who employs a child in the sale of such beverage, cigarettes or narcotic and intoxicating drugs is guilty of a misdemeanor of the first degree.
 
 ##### 16.7 Unauthorized Change of a Child's Name
 
@@ -2524,7 +2555,7 @@ Chapter 17 of the Penal Law, subsection 17.8  is amended by making 17.8 subsecti
 #### Section 5.
 Chapter 18 of the Penal Law is amended to add the following, after section 18.13:
 
-##### '18.14 Subjecting or Involving a Child to Pornography
+##### “18.14 Subjecting or Involving a Child to Pornography
 
 A person who subjects any child to pornographic material or involves any child in the making of such material is guilty of a third degree felony.
 
@@ -2575,7 +2606,7 @@ It is enacted by the Senate and House Representatives of the Republic of Liberia
 #### Section 1.
 Chapter 11 of the Judiciary Law is amended in section 11.42 by inserting the following at the end of paragraph 2 and before Subchapter E:
 
--Any child deprived of her or his liberty shall have the right to:-
+―Any child deprived of her or his liberty shall have the right to:-
 
 (a) to prompt access to legal and other appropriate assistance;
 
@@ -2621,7 +2652,7 @@ Without prejudice to the generality of section 11.53, the right to a fair trial 
 (j) to receive free interpreter services upon request
 
 #### Section 3.
-Chapter 11 of the Judiciary Law is amended in section 11.97 by deleting the full stop and adding the following words to the paragraph: -provided that evidence relating  to  fingerprints,  deoxyribonucleic  acid  otherwise  known  as  DNA,  and  other biological attributes of the child shall not be used for any other purpose apart from that of proving the alleged offence.‖
+Chapter 11 of the Judiciary Law is amended in section 11.97 by deleting the full stop and adding the following words to the paragraph: ―provided that evidence relating  to  fingerprints,  deoxyribonucleic  acid  otherwise  known  as  DNA,  and  other biological attributes of the child shall not be used for any other purpose apart from that of proving the alleged offence.‖
 
 61
 
@@ -2634,7 +2665,7 @@ Children's Law, 2011
 #### Section 4.
 Chapter  11  of  the  Judiciary  Law  is  amended by inserting the following sections under section 11.96 before Sub-chapter H to read as follows:
 
--Court records in cases involving a child shall be sealed within five  years after the determination of closure of the case.  Where the records are opened and proceedings continue  beyond  the  five  years,  the  records  shall  remain  openly  for  the  purpose  of concluding the case.'
+―Court records in cases involving a child shall be sealed within five  years after the determination of closure of the case.  Where the records are opened and proceedings continue  beyond  the  five  years,  the  records  shall  remain  openly  for  the  purpose  of concluding the case.’
 
 Any  person  not  authorized  by  law  who  discloses  information  relating  to  previous convictions and or records of finger-prints, palm-prints or foot-prints of any child for which such disclosure is not to a person authorized by law, shall be guilty of a third degree felony.‖
 
@@ -2658,13 +2689,13 @@ It  is  hereby  enacted by the Senate and House of Representatives of the Republ
 #### Section 1.
 The Domestic Relations Law is amended as follows:
 
-(a)  by  substituting  the  words  -twenty-one‖  with  the  word  -eighteen‖  wherever  the word -twenty-one‖ appears;
+(a)  by  substituting  the  words  ―twenty-one‖  with  the  word  ―eighteen‖  wherever  the word ―twenty-one‖ appears;
 
-(b) by substituting the word -minor‖ with the word -child.‖
+(b) by substituting the word ―minor‖ with the word ―child.‖
 
 (c)  in  subsection  1.1  by  substituting  the  full  stop  with  a  coma,  and  adding  the following words: subject to the Children's Act 2011.‖
 
-(d) in subchapter A of Chapter 4 by substituting the word -Custody‖ in the title of the subchapter  with the phrase -the child's access to parents‖;
+(d) in subchapter A of Chapter 4 by substituting the word ―Custody‖ in the title of the subchapter  with the phrase ―the child's access to parents‖;
 
 #### Section  2.
 Effective  date  of  Amendment: This  amendment  shall  take  effect immediately upon publication into handbills.
@@ -2708,9 +2739,9 @@ It  is  hereby  enacted by the Senate and House of Representatives of the Republ
 #### Section 1.
 The Domestic Relations Law is amended as follows:
 
-(a)  by  substituting  the  words  -twenty-one‖  with  the  word  -eighteen‖  wherever  the word -twenty-one‖ appears;
+(a)  by  substituting  the  words  ―twenty-one‖  with  the  word  ―eighteen‖  wherever  the word ―twenty-one‖ appears;
 
-(b) by substituting the word -minor‖ with the word -child.‖
+(b) by substituting the word ―minor‖ with the word ―child.‖
 
 (c)  in  subsection  1.1  by  substituting  the  full  stop  with  a  coma,  and  adding  the following words: subject to the Children's Act 2011.‖
 
