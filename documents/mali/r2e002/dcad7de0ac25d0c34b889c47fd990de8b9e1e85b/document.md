@@ -4,9 +4,11 @@
 
 REPUBLIQUE DU MALI
 
-UN PEUPLE - UN BUT - UNE FOI
+UN PEUPLE – UN BUT – UNE FOI
 
 __________________
+
+CONSTITUTION
 
 Adoptée par référendum du 12 janvier 1992 et promulguée par décret N°92-073 P-CTSP du 25 février 1992
 
@@ -42,7 +44,7 @@ Le PEUPLE Souverain du Mali, fort de ses traditions de lutte héroïque, engagé
 
 # TITRE PREMIER DES DROITS ET DEVOIRS DE LA PERSONNE HUMAINE
 
-## ARTICLE 1 er :
+## ARTICLE 1er :
 La personne humaine est sacrée et inviolable.
 
 Tout individu a droit à la vie, à la liberté, à la sécurité et à l'intégrité de sa personne
@@ -148,9 +150,9 @@ Le droit de grève est garanti. Il s'exerce dans le cadre des lois et règlement
 ## ARTICLE 22 :
 La défense de la patrie est un devoir pour tout citoyen.
 
-## ARTICLE 23
+## ARTICLE 23 :
 
-: Tout citoyen doit oeuvrer pour le bien commun.
+Tout citoyen doit oeuvrer pour le bien commun.
 
 Il  doit  remplir  toutes  ses  obligations  civiques  et  notamment  s'acquitter  de  ses  contributions fiscales.
 
@@ -602,7 +604,7 @@ Après l'ouverture du débat, le Gouvernement peut s'opposer à l'examen de tout
 ## ARTICLE 77 :
 L'Assemblée Nationale est saisie du projet de loi de Finances dès l'ouverture de la session ordinaire précédant la période budgétaire. Le projet de loi de Finances doit prévoir les recettes nécessaires à la couverture intégrale des dépenses.
 
-Si l'Assemblée Nationale ne s'est pas prononcée avant l'ouverture de la période budgétaire ou si elle ne vote pas le budget, le Gouvernement renvoie le projet de budget dans les quinze jours à l'Assemblée Nationale convoquée à cet effet en session extraordinaire. L'Assemblée Nationale doit alors statuer dans les huit jours. Si cette délibération n'a pas abouti au vote du budget, celuici est alors établi d'office par le Gouvernement sur la base des recettes de l'exercice précédent et après avis de la Cour Suprême.
+Si l'Assemblée Nationale ne s'est pas prononcée avant l'ouverture de la période budgétaire ou si elle ne vote pas le budget, le Gouvernement renvoie le projet de budget dans les quinze jours à l'Assemblée Nationale convoquée à cet effet en session extraordinaire. L'Assemblée Nationale doit alors statuer dans les huit jours. Si cette délibération n'a pas abouti au vote du budget, celui-ci est alors établi d'office par le Gouvernement sur la base des recettes de l'exercice précédent et après avis de la Cour Suprême.
 
 ## ARTICLE 78 :
 Le Premier Ministre, après délibération du Conseil des Ministres engage devant l'Assemblée la responsabilité du Gouvernement sur son programme ou éventuellement sur une déclaration de politique générale.
