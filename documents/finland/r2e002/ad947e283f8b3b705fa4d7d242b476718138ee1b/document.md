@@ -52,7 +52,7 @@ No one can be divested of or released from his or her Finnish citizenship except
 
 Everyone is equal before the law.
 
-No one shall, without an acceptable reason, be treated differently from other persons on the ground of sex, age, origin, language, religion, conviction, opinion, health, disability or other reason that concerns his or her p erson.
+No one shall, without an acceptable reason, be treated differently from other persons on the ground of sex, age, origin, language, religion, conviction, opinion, health, disability or other reason that concerns his or her person.
 
 Children shall be treated equally and as individuals and they shall be allowed to influence matters pertaining to themselves to a degree corresponding to their level of development.
 
@@ -150,7 +150,7 @@ The freedom of science, the arts and higher education is guaranteed.
 
 The national languages of Finland are Finnish and Swedish.
 
-The right of everyone to use his or her own language, either Finnish or Swedish, before courts of law and o ther authorities, and to receive official documents in that language, shall be guaranteed by an Act. The public authorities shall provide for the cultural and societal needs of the Finnish-speaking and Swedish-speaking populations of the country on an equal basis.
+The right of everyone to use his or her own language, either Finnish or Swedish, before courts of law and other authorities, and to receive official documents in that language, shall be guaranteed by an Act. The public authorities shall provide for the cultural and societal needs of the Finnish-speaking and Swedish-speaking populations of the country on an equal basis.
 
 The Sami, as an indigenous people, as well as the Roma and other groups, have the right to maintain and develop their own language and culture. Provisions on the right of the Sami to use the Sami language before the authorities are laid down by an Act. The rights of persons using sign language and of persons in need of interpretation or translation aid owing to disability shall be guaranteed by an Act.
 
@@ -196,7 +196,7 @@ The public authorities shall guarantee the observance of basic rights and libert
 
 ### Section 23 - Basic rights and liberties in situations of emergency (1112/2011, entry into force 1.3.2012).
 
-Such provisional exceptions to basic rights and liberties that are compatible with Finland's international human rights obligations and that are deemed necessary in the case of an armed attack against Finland or in the event of other situations of emergency, as provided by an Act, which pose a serious threat to the nation may be provided by an Act or by a Government Decree to be issued on the basis of authorisation given in an Act for a special reason and sub ject to a precisely circumscribed scope of application. The grounds for provisional exceptions shall be laid down by an Act, however.
+Such provisional exceptions to basic rights and liberties that are compatible with Finland's international human rights obligations and that are deemed necessary in the case of an armed attack against Finland or in the event of other situations of emergency, as provided by an Act, which pose a serious threat to the nation may be provided by an Act or by a Government Decree to be issued on the basis of authorisation given in an Act for a special reason and subject to a precisely circumscribed scope of application. The grounds for provisional exceptions shall be laid down by an Act, however.
 
 Government Decrees concerning provisional exceptions shall without delay be submitted to the Parliament for consideration. The Parliament may decide on the validity of the Decrees.
 
@@ -214,13 +214,15 @@ The Representatives shall be elected by a direct, proportional and secret vote. 
 
 For the parliamentary elections, the country shall be divided, on the basis of the number of Finnish citizens, into at least twelve and at most eighteen constituencies. In addition, the Åland Islands shall form their own constituency for the election of one Representative.
 
-The right to nominate candidates in parliamentary elections belongs to registered political parties and, as provided by an Act, to groups of persons who have the right to vote.
+The right to nominate candidates in parliamentary elections belongs to registered political parties and, as provided by
 
 5
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+an Act, to groups of persons who have the right to vote.
 
 More detailed provisions on the timing of parliamentary elections, the nomination of candidates, the conduct of the elections and the constituencies are laid down by an Act.
 
@@ -332,7 +334,7 @@ Matters are initiated for consideration in the Parliament on the basis of a Gove
 
 Representatives may put forward:
 
-- Legislative motions, containing a proposal for the enactment of an Act;
+(1) Legislative motions, containing a proposal for the enactment of an Act;
 
 (2) Budgetary motions, containing a proposal for an appropriation to be included in the budget or a supplementary budget, or for another budgetary decision; and
 
@@ -408,7 +410,7 @@ In addition, the right of the Parliament to information on international affairs
 
 ### Section 48 - Right of attendance of Ministers, the Ombudsman and the Chancellor of Justice
 
-Minister has the right to attend and to participate in debates in plenary sessions of the Parliament even if the Minister is not a Representative. A Minister may not be a member of a Committee of the Parliament. When performing the duties of the President of the Republic under section 59, a Minister may not participate in parliamentary work.
+A Minister has the right to attend and to participate in debates in plenary sessions of the Parliament even if the Minister is not a Representative. A Minister may not be a member of a Committee of the Parliament. When performing the duties of the President of the Republic under section 59, a Minister may not participate in parliamentary work.
 
 The Parliamentary Ombudsman and the Chancellor of Justice of the Government may attend and participate in debates in plenary sessions of the Parliament when their reports or other matters taken up on their initiative are being considered.
 
@@ -460,13 +462,15 @@ The President of the Republic is elected by a direct vote for a term of six year
 
 The candidate who receives more than half of the votes cast in the election shall be elected President. If none of the candidates has received a majority of the votes cast, a new election shall be held between the two candidates who have received most votes. In the new election, the candidate receiving the most votes is elected President. If only one presidential candidate has been nominated, he or she is appointed President without an election.
 
-The right to nominate a candidate in the election for President is held by any registered political party from whose candidate list at least one Representative was elected to the Parliament in the most recent parliamentary elections, as well as by any group of twenty thousand persons who have the right to vote. The time of the election and the procedure in the election of a President are laid down by an Act.
+The right to nominate a candidate in the election for President is held by any registered political party from whose candidate list at least one Representative was elected to the Parliament in the most recent parliamentary elections, as
 
 11
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+
+well as by any group of twenty thousand persons who have the right to vote. The time of the election and the procedure in the election of a President are laid down by an Act.
 
 ### Section 55 - The presidential term
 
@@ -494,13 +498,13 @@ If the President does not make the decision in accordance with the motion propos
 
 Notwithstanding the provision in paragraph (1), the President makes decisions on the following matters without a motion from the Government:
 
-- The appointment of the Government or a Minister, as well as the acceptance of the resignation of the Government or a Minister;
+(1) The appointment of the Government or a Minister, as well as the acceptance of the resignation of the Government or a Minister;
 
-- The issuance of an order concerning extraordinary parliamentary elections;
+(2) The issuance of an order concerning extraordinary parliamentary elections;
 
-- Presidential pardons and other matters, as specifically laid down by Acts, concerning private individuals or matters not requiring consideration in a plenary meeting of the Government; and
+(3) Presidential pardons and other matters, as specifically laid down by Acts, concerning private individuals or matters not requiring consideration in a plenary meeting of the Government; and
 
-- Matters referred to in the Act on the Autonomy of the Åland Islands, other than those relating to the finances of the Åland Islands.
+(4) Matters referred to in the Act on the Autonomy of the Åland Islands, other than those relating to the finances of the Åland Islands.
 
 The appropriate Minister presents matters to the President. However, the appropriate government rapporteur presents a proposal concerning the alteration of the composition of the Government, where this concerns the entire Government.
 
@@ -590,13 +594,15 @@ Provisions on the maximum number of Ministries and on the general principles for
 
 ### Section 69 - The Chancellor of Justice of the Government
 
-Attached to the Government, there is a Chancellor of Justice and a Deputy Chancellor of Justice, who are appointed by the President of the Republic, and who shall have outstanding knowledge of law. In addition, the President appoints a substitute for the Deputy Chancellor of Justice for a term of office not exceeding five years. When the Deputy Chancellor of Justice is prevented from performing his or her duties, the substitute shall take responsibility for them.
+Attached to the Government, there is a Chancellor of Justice and a Deputy Chancellor of Justice, who are appointed by the President of the Republic, and who shall have outstanding knowledge of law. In addition, the President
 
 14
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+
+appoints a substitute for the Deputy Chancellor of Justice for a term of office not exceeding five years. When the Deputy Chancellor of Justice is prevented from performing his or her duties, the substitute shall take responsibility for them.
 
 The provisions on the Chancellor of Justice apply, in so far as appropriate, to the Deputy Chancellor of Justice and the substitute.
 
@@ -628,7 +634,7 @@ However, the proposal may be declared urgent by a decision that has been support
 
 ### Section 74 - Supervision of constitutionality
 
-The Constitutional Law Committee shall issue statements on the constitutionality of legislative proposals an d other matters brought for its consideration, as well as on their relation to international human rights treaties.
+The Constitutional Law Committee shall issue statements on the constitutionality of legislative proposals and other matters brought for its consideration, as well as on their relation to international human rights treaties.
 
 ### Section 75 - Special legislation for the Åland Islands
 
@@ -798,7 +804,7 @@ An international obligation shall not endanger the democratic foundations of the
 
 ### Section 95 - Bringing into force of international obligations
 
-The provisions of treaties and other international obligations, in so far as they are of a legislative nature, are brought in to force by an Act. Otherwise, international obligations are brought into force by a Decree. (1112/2011, entry into force 1.3.2012)
+The provisions of treaties and other international obligations, in so far as they are of a legislative nature, are brought into force by an Act. Otherwise, international obligations are brought into force by a Decree. (1112/2011, entry into force 1.3.2012)
 
 A Government bill for the bringing into force of an international obligation is considered in accordance with the ordinary legislative procedure pertaining to an Act. However, if the proposal concerns the Constitution or a change to the national territory, or such transfer of authority to the European Union, an international organisation or an international body that is of significance with regard to Finland's sovereignty, the Parliament shall adopt it, without leaving it in abeyance, by a decision supported by at least two thirds of the votes cast. (1112/2011, entry into force 1.3.2012)
 
@@ -842,13 +848,15 @@ Provisional courts shall not be established.
 
 Justice in civil, commercial and criminal matters is in the final instance administered by the Supreme Court. Justice in administrative matters is in the final instance administered by the Supreme Administrative Court.
 
-The highest courts supervise the administration of justice in their own fields of competence. They may submit proposals to the Government for the initiation of legislative action.
+The highest courts supervise the administration of justice in their own fields of competence. They may submit
 
 20
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
+
+proposals to the Government for the initiation of legislative action.
 
 ### Section 100 - Composition of the Supreme Court and the Supreme Administrative Court
 
@@ -889,13 +897,14 @@ A general amnesty may be provided only by an Act.
 ## Chapter 10 - Supervision of legality
 
 ### Section 106 - Primacy of the Constitution
-If, in a matter being tried by a court of law, the application of an Act would be in evident conflict with the Constitution, the court of law shall give primacy to the provision in the Constitution.
 
 21
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
+
+If, in a matter being tried by a court of law, the application of an Act would be in evident conflict with the Constitution, the court of law shall give primacy to the provision in the Constitution.
 
 ### Section 107 - Subordination of lower-level statutes
 
@@ -929,13 +938,15 @@ The Chancellor of Justice shall be present at meetings of the Government and whe
 
 ### Section 112 - Supervision of the lawfulness of the official acts of the Government and the President of the Republic
 
-If the Chancellor of Justice becomes aware that the lawfulness of a decision or measure taken by the Government, a Minister or the President of the Republic gives rise to a comment, the Chancellor shall present the comment, with reasons, on the aforesaid decision or measure. If the comment is ignored, the Chancellor of Justice shall have the comment entered in the minutes of the Government and, where necessary, undertake other measures. The Ombudsman has the corresponding right to make a comment and to undertake measures.
+If the Chancellor of Justice becomes aware that the lawfulness of a decision or measure taken by the Government, a Minister or the President of the Republic gives rise to a comment, the Chancellor shall present the comment, with reasons, on the aforesaid decision or measure. If the comment is ignored, the Chancellor of Justice shall have the
 
 22
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
+
+comment entered in the minutes of the Government and, where necessary, undertake other measures. The Ombudsman has the corresponding right to make a comment and to undertake measures.
 
 If a decision made by the President is unlawful, the Government shall, after having obtained a statement from the Chancellor of Justice, notify the President that the decision cannot be implemented, and propose to the President that the decision be amended or revoked.
 
@@ -955,9 +966,9 @@ A Member of the Government is prosecuted by the Prosecutor-General.
 
 An inquiry into the lawfulness of the official acts of a Minister may be initiated in the Constitutional Law Committee on the basis of:
 
-- A notification submitted to the Constitutional Law Committee by the Chancellor of Justice or the Ombudsman;
+(1) A notification submitted to the Constitutional Law Committee by the Chancellor of Justice or the Ombudsman;
 
-- A petition signed by at least ten Representatives; or
+(2) A petition signed by at least ten Representatives; or
 
 (3) A request for an inquiry addressed to the Constitutional Law Committee by another Committee of the Parliament.
 
@@ -1001,13 +1012,13 @@ The Åland Islands have self-government in accordance with what is specifically 
 
 Finland is divided into municipalities, whose administration shall be based on the self-government of their residents. Provisions on the general principles governing municipal administration and the duties of the municipalities are laid down by an Act.
 
-The municipalities have the right to levy municipal tax. Provisions on the general principles governing tax liab ility and the grounds for the tax as well as on the legal remedies available to the persons or entities liable to taxation are laid down by an Act.
+The municipalities have the right to levy municipal tax. Provisions on the general principles governing tax liability and the grounds for the tax as well as on the legal remedies available to the persons or entities liable to taxation are laid down by an Act.
 
 Provisions on self-government in administrative areas larger than a municipality are laid down by an Act. In their native region, the Sami have linguistic and cultural self-government, as provided by an Act.
 
 ### Section 122 - Administrative divisions
 
-In the organisation of administration, the objective shall be suitable territorial divisions, so that the Finnish -speaking and Swedish-speaking populations have an opportunity to receive services in their own language on equal terms.
+In the organisation of administration, the objective shall be suitable territorial divisions, so that the Finnish-speaking and Swedish-speaking populations have an opportunity to receive services in their own language on equal terms.
 
 The principles governing the municipal divisions are laid down by an Act.
 
@@ -1067,11 +1078,11 @@ Detailed provisions necessary for the implementation of the Constitution are lai
 
 This Constitution repeals the following constitutional Acts, as amended:
 
-- The Constitution Act of Finland, of 17 July 1919;
+(1) The Constitution Act of Finland, of 17 July 1919;
 
-- The Parliament Act, of 13 January 1928;
+(2) The Parliament Act, of 13 January 1928;
 
-- The Act on the High Court of Impeachment, of 25 November 1922 (273/1922); and
+(3) The Act on the High Court of Impeachment, of 25 November 1922 (273/1922); and
 
 25
 
