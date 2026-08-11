@@ -28,7 +28,7 @@ As the scope and content of the legal obligations under the right to education a
 
 Beyond SDG 4, the Convention is also closely aligned with the normative content on the right to education of other international human rights instruments such as the International Covenant on Economic, Social and Cultural Rights (1966), Convention on the Elimination of All Forms of Discrimination against Women (1979), the Convention on the Rights of the Child (1989) and the Convention on the Rights of Persons with Disabilities (2006).
 
-In addition, this Consultation is an opportunity to inform the ongoing UNESCO Initiative on the Evolving Right to Education within a lifelong learning perspective 1  (launched in December 2021). The Initiative investigates how the right to education could be reinforced placing it within a lifelong learning perspective and in  light  of  the  new  demands  being  placed  on  education.  This  Initiative  builds  on  the Report  from  the International Commission on the Futures of Education 2 , which suggests to broaden our understanding of the right to education to clearly apply it to all ages and across all times and spaces. The initiative is also in-line with the Vision Statement of the United Nations Secretary General on Transforming Education 3 , and the Report  on  the  2022  Transforming  Education  Summit 4 which  call  for  the  transformation  of  education systems  to  'include  everyone,  regardless  of  circumstance,  context  or  background'.  The  Initiative  on  the Evolving Right to Education aims to open a collaborative and participatory discussion about the international framework to ensure the effective enforcement of the right to education and learning throughout life for all. Finally, the Initiative builds on recent inter-governmental dialogues, including the Marrakech Framework for Action  for  Adult  Learning  and  Education 5  and  the  Tashkent  Declaration  on  Early  Childood  Care  and Education. 6
+In addition, this Consultation is an opportunity to inform the ongoing UNESCO Initiative on the Evolving Right to Education within a lifelong learning perspective 1 (launched in December 2021). The Initiative investigates how the right to education could be reinforced placing it within a lifelong learning perspective and in light of the new demands being placed on education. This Initiative builds on the Report from the
 
 > 1  https://www.unesco.org/en/right-education/evolving
 
@@ -37,6 +37,8 @@ In addition, this Consultation is an opportunity to inform the ongoing UNESCO In
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+International Commission on the Futures of Education 2, which suggests to broaden our understanding of the right to education to clearly apply it to all ages and across all times and spaces. The initiative is also in-line with the Vision Statement of the United Nations Secretary General on Transforming Education 3, and the Report on the 2022 Transforming Education Summit 4 which call for the transformation of education systems to ‘include everyone, regardless of circumstance, context or background’. The Initiative on the Evolving Right to Education aims to open a collaborative and participatory discussion about the international framework to ensure the effective enforcement of the right to education and learning throughout life for all. Finally, the Initiative builds on recent inter-governmental dialogues, including the Marrakech Framework for Action for Adult Learning and Education 5 and the Tashkent Declaration on Early Childood Care and Education. 6
 
 It is also important to note that previous consultations on the Convention and Recommendation revealed that countries now understand the right to education in an extended manner. The 11th consultation builds on the findings of the previous national reports to include various areas that have direct repercussions on the right to education such as, for instance, digital learning, climate considerations, lifelong learning entitlement, and the role of non-state actors in education.
 
@@ -118,7 +120,7 @@ Name of contact person
 
 Email and telephone number of contact person : julia.white@education.govt.nz, +6444630955
 
-# Ratification and applicability of the Convention against Discrimination in Education 9
+# I. Ratification and applicability of the Convention against Discrimination in Education 9
 
 - Is your country a State Party to the Convention?
 
@@ -160,7 +162,7 @@ Information  could  also  be  given  about  the  judicial,  administrative  and 
 
 The  Education  and  Training  Act  2020  establishes  a  right  to  education  that  is  not  a  freestanding  one enforceable through the Courts. Under this Act, children aged 5 to 19 have a right to free education, and children with special education needs have the same rights to enrol, attend and receive education at a State school as all other children. If the Secretary for Education is satisfied that a student requires an educational service beyond that normally obtained in an ordinary class in a State school, that student can enrol in a specialist school or receive help from a special service under Section 37 of the Act. The application the Education and Training Act 2020 receives external scrutiny through the Education Review Office's review processes,  by  the  Ombudsman,  the  Controller  and  Auditor  General,  parliamentary  processes  and international review.
 
-New Zealand jurisprudence about the right to education includes Daniels v The Attorney-General 11 . In the High Court (2002), Justice Baragnawath said that 'Where a child's needs are met in an ordinary school, the Crown's duty in respect of that child has been discharged  where a conventional school is incapable of meeting a child's need, the Crown has an obligation, pursuant to s. 9 of the Education Act 1989, to provide special education to the child sufficient to enable the child to receive some sort of worthwhile education.' However, the Court of Appeal (2003) found that the statutory right to education, and the corresponding legal obligation  on  education  authorities  to  meet  the  education  needs  of  each  individual,  apply  equally  to  all children irrespective of whether they have special needs or not. In the view of the Court of Appeal the right to a suitable education was promoted by the establishment of a system by which it was provided, rather than in its being a judicially enforceable right.
+New Zealand jurisprudence about the right to education includes Daniels v The Attorney-General 11. In the High Court (2002), Justice Baragnawath said that 'Where a child's needs are met in an ordinary school, the Crown's duty in respect of that child has been discharged where a conventional school is incapable of meeting a child's need, the Crown has an obligation, pursuant to s. 9 of the Education Act 1989, to provide special education to the child sufficient to enable the child to receive some sort of worthwhile education.' However, the Court of Appeal (2003) found that the statutory right to education, and the corresponding legal obligation on education authorities to meet the education needs of each individual, apply equally to all
 
 > 9  https://www.unesco.org/en/legal-affairs/convention-against-discrimination-education
 
@@ -174,6 +176,8 @@ New Zealand jurisprudence about the right to education includes Daniels v The At
 
 [[START OF PAGE 5]]
 
+children irrespective of whether they have special needs or not. In the view of the Court of Appeal the right to a suitable education was promoted by the establishment of a system by which it was provided, rather than in its being a judicially enforceable right.
+
 # II. Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the  context  of Sustainable Development Goal 4 (SDG4)
 
 ## 1. Towards an inclusive non-discriminatory education system
@@ -182,11 +186,9 @@ For  reference:  This  section  relates  to  the  main  purpose  of  the  Conven
 
 - Please indicate whether the rights and principles laid out in the Convention/Recommendation informed the elaboration of the education legal and/or policy framework:
 
+☐ Yes ☐ No
+
 - If yes, please provide reference:
-
-☐ Yes
-
-☐ No
 
 All legislative and regulatory amendment includes a population impact analysis which aims to identify whether specific population groups will be disproportionately impacted by proposals. Any new legislation also passes through a Bill of Rights 1990 vet. Therefore, while the specific Convention and sustainable development goals have not been explicitly considered, the standard processes in New Zealand provide safeguards to mitigate risk of discrimination.
 
@@ -212,12 +214,11 @@ For reference: This notably is covered under SDG target 4.1 and partly target 4.
 
 - Please indicate the relevant legal provisions:
 
-- Please list the prohibited grounds of discrimination in education as laid out in legal texts:
+• Education and Training Act 2020 - https://www.legislation.govt.nz/act/public/2020/0038/latest/LMS170676.html
+• Human Rights Act 1993 - https://www.legislation.govt.nz/act/public/1993/0082/latest/DLM304212.html?search=sw_096be8ed81ce7ed5_discrimination_25_se&p=1#DLM304211
+• New Zealand Bill of Rights Act 1990 - https://www.legislation.govt.nz/act/public/1990/0109/latest/DLM224792.html?search=sw_096be8ed81c84723_discrimination_25_se&p=1#DLM224791
 
-• | Education and Training Act 2020 - https://www.legislation.govt.nz/act/public/2020/0038/latest/LMS170676.html
---- | ---
-• | Human Rights Act 1993 - https://www.legislation.govt.nz/act/public/1993/0082/latest/DLM304212.html?search=sw_096be8ed8 1ce7ed5_discrimination_25_se&p=1#DLM304211
-• | New Zealand Bill of Rights Act 1990 - https://www.legislation.govt.nz/act/public/1990/0109/latest/DLM224792.html?search=sw_096be8ed8 1c84723_discrimination_25_se&p=1#DLM224791
+- Please list the prohibited grounds of discrimination in education as laid out in legal texts:
 
 > 12  Which calls on states to 'eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations'.
 
@@ -305,7 +306,7 @@ As a partner to Te Tiriti o Waitangi/the Treaty of Waitangi (Te Tiriti/the Treat
 
 A new planning and reporting framework came into effect on 1 January 2023. Under this new framework schools are required to publish and submit to their community and the Ministry of Education, their strategic plans, annual implementation and annual reports. The first set of reports were required to be submitted to the Ministry of Education by May 2024.
 
-For more information, see:  https://www.education.govt.nz/our-work/legislation/education-and-training-act2020/the-education-and-training-act-te-tiriti-o-waitangi/.
+For more information, see: https://www.education.govt.nz/our-work/legislation/education-and-training-act-2020/the-education-and-training-act-te-tiriti-o-waitangi/.
 
 #### The Education and Training Act 2020
 
@@ -389,15 +390,15 @@ The Education (Pastoral Care of Tertiary and International Learners) Code of Pra
 
 - Upholding the cultural needs and aspirations of all groups throughout the learning environment
 
-For more information, see: https://www.education.govt.nz/news/new-code-of-practice-for-the-pastoral-careof-tertiary-and-international-learners/.
+For more information, see: https://www.education.govt.nz/news/new-code-of-practice-for-the-pastoral-care-of-tertiary-and-international-learners/.
 
-#### Ōritetanga - Learner Success
+#### Ōritetanga – Learner Success
 
 The Learner Success framework (developed by the Tertiary Education Commission) aims to promote parity across New Zealand's tertiary education system, with a particular focus on Māori and Pacific learners.
 
-#### Ka Hikitia - Ka Hāpaitia (Ka Hikitia)
+#### Ka Hikitia – Ka Hāpaitia (Ka Hikitia)
 
-Ka Hikitia is a cross-agency Māori education strategy for the education sector. The agencies include Ministry of Education; Te Aho o Te Kura Pounamu; Education New Zealand; Education Review Office (ERO); New Zealand Qualifications Authority (NZQA); The Teaching Council Aotearoa New Zealand; Tertiary Education Commission (TEC); New Zealand School Trustees Association. The education sector includes all early learning, schooling, and tertiary education provision. It sets out how Government will work with education services to achieve system shifts in education and support Māori learners and their whānau (family), hapū (sub-tribe) and iwi (tribe) to achieve excellent and equitable outcomes and provides an organising framework for the actions agencies will take. For more  information, see: https://www.education.govt.nz/ourwork/overall-strategies-and-policies/ka-hikitia-ka-hapaitia/.
+Ka Hikitia is a cross-agency Māori education strategy for the education sector. The agencies include Ministry of Education; Te Aho o Te Kura Pounamu; Education New Zealand; Education Review Office (ERO); New Zealand Qualifications Authority (NZQA); The Teaching Council Aotearoa New Zealand; Tertiary Education Commission (TEC); New Zealand School Trustees Association. The education sector includes all early learning, schooling, and tertiary education provision. It sets out how Government will work with education services to achieve system shifts in education and support Māori learners and their whānau (family), hapū (sub-tribe) and iwi (tribe) to achieve excellent and equitable outcomes and provides an organising framework for the actions agencies will take. For more information, see: https://www.education.govt.nz/our-work/overall-strategies-and-policies/ka-hikitia-ka-hapaitia/.
 
 8
 
@@ -427,13 +428,13 @@ This includes programmes such as:
 
 - The communication service that offers support if a student has difficulties with speaking, listening and understanding language.
 
-- The Ongoing Resourcing Scheme that provides support for students with the highest ongoing levels of need for specialist support to enable them to attend school, join in and learn alongside other students at  school.  For  more  information,  see:  https://www.education.govt.nz/school/student-support/specialeducation/ors/.
+- The Ongoing Resourcing Scheme that provides support for students with the highest ongoing levels of need for specialist support to enable them to attend school, join in and learn alongside other students at school. For more information, see: https://www.education.govt.nz/school/student-support/special-education/ors/.
 
 - Scholarships for Māori and Pacific secondary school and tertiary students.
 
-- Ka Ora Ka Ako l Healthy School Lunches Programme which provides food every school day to all learners in eligible schools. Ka Ora Ka Ako is targeted at the top 25% of schools and kura with learners facing the greatest socio-economic barriers according to the Equity Index (see page 20). For more information,  see:  https://www.education.govt.nz/our-work/overall-strategies-and-policies/wellbeing-ineducation/free-and-healthy-school-lunches/.
+- Ka Ora Ka Ako | Healthy School Lunches Programme which provides food every school day to all learners in eligible schools. Ka Ora Ka Ako is targeted at the top 25% of schools and kura with learners facing the greatest socio-economic barriers according to the Equity Index (see page 20). For more information, see: https://www.education.govt.nz/our-work/overall-strategies-and-policies/wellbeing-in-education/free-and-healthy-school-lunches/.
 
-- Ikura l Manaakitia te whare tangata: Period Products in Schools is the opt-in period products in schools' initiative which provides access to free period products for children and young people in participating state and state-integrated schools across New Zealand. For more information, see: https://www.education.govt.nz/our-work/overall-strategies-and-policies/wellbeing-in-education/ikuramanaakitia-te-whare-tangata-period-products-in-schools/.
+- Ikura | Manaakitia te whare tangata: Period Products in Schools is the opt-in period products in schools' initiative which provides access to free period products for children and young people in participating state and state-integrated schools across New Zealand. For more information, see: https://www.education.govt.nz/our-work/overall-strategies-and-policies/wellbeing-in-education/ikura-manaakitia-te-whare-tangata-period-products-in-schools/.
 
 - Tu'u  Mālohi  I  Stand  Strong is  a  programme  aimed  at  strengthening  wellbeing  support  for  Pacific Learners in Years 9-13, their families and communities. It is a Pacific  community-led approach that provides  opportunities  to  unpack,  values  and  languages,  providing  among  other  things,  skills  and awareness on how to combat and navigate racism, improve resilience and set career goals and future aspirations.
 
@@ -441,7 +442,7 @@ This includes programmes such as:
 
 - Alongside efforts to support remote and isolated schools, the Ministry of Education offers a range of additional support to help secondary school students living in remote areas or facing significant barriers to their education. This includes:
 
-- o A boarding allowance to students.  When there is  no  local  secondary  school  for  geographically remote learners. Multiple Barriers Boarding Allowance' to help learners with multiple barriers attend their local school. For more information, see:  https://www.education.govt.nz/school/funding-andfinancials/boarding-allowances-information-for-schools/.
+- o A boarding allowance to students. When there is no local secondary school for geographically remote learners. Multiple Barriers Boarding Allowance' to help learners with multiple barriers attend their local school. For more information, see: https://www.education.govt.nz/school/funding-and-financials/boarding-allowances-information-for-schools/.
 
 9
 
@@ -449,11 +450,9 @@ This includes programmes such as:
 
 [[START OF PAGE 10]]
 
-- o Transport assistance to help more than 100,000 students from rural communities get to school each day. For more information, see: https://www.education.govt.nz/school/property-andtransport/transport/sta-eligibility/.
+- o Transport assistance to help more than 100,000 students from rural communities get to school each day. For more information, see: https://www.education.govt.nz/school/property-and-transport/transport/sta-eligibility/.
 
-- There is a wide range of Ministry of Education programmes to support the revitalisation of te reo Māori and to assist schools to meet their Te Tiriti/the Treaty related obligations. For more information see: https://www.education.govt.nz/our-work/legislation/education-and-training-act-2020/giving-better-
-
-effect-to-te-tiriti-o-waitangi/.
+- There is a wide range of Ministry of Education programmes to support the revitalisation of te reo Māori and to assist schools to meet their Te Tiriti/the Treaty related obligations. For more information see: https://www.education.govt.nz/our-work/legislation/education-and-training-act-2020/giving-better-effect-to-te-tiriti-o-waitangi/.
 
 ☒ Combatting discrimination in terms of curriculum:
 
@@ -473,7 +472,7 @@ effect-to-te-tiriti-o-waitangi/.
 
 #### National Curricula
 
-New  Zealand  has  two  curricula  for  schooling  The  New  Zealand  Curriculum and Te  Marautanga  o Aotearoa . The New Zealand Curriculum acknowledges New Zealand's official languages - te reo Māori and New Zealand Sign Language, as well as English. Te Marautanga o Aotearoa is designed for Māori language education pathways and recognises that every ākonga deserves to be supported to reach their full potential and to be immersed and gain expertise in te reo Māori, tikanga Māori, mātauranga Māori, and te ao Māori (Māori language, practices, customs, and knowledge).
+New Zealand has two curricula for schooling - The New Zealand Curriculum and Te Marautanga o Aotearoa. The New Zealand Curriculum acknowledges New Zealand's official languages - te reo Māori and New Zealand Sign Language, as well as English. Te Marautanga o Aotearoa is designed for Māori language education pathways and recognises that every ākonga deserves to be supported to reach their full potential and to be immersed and gain expertise in te reo Māori, tikanga Māori, mātauranga Māori, and te ao Māori (Māori language, practices, customs, and knowledge).
 
 The New Zealand Curriculum is in the process of being refreshed and Te Marautanga o Aotearoa is in the process of being redesigned. While building on the strengths of our current national curriculum, this work aims to establish a knowledge-rich curriculum grounded in the science of learning that is clear about what to teach, and by when, each year of schooling. For more information, see: https://tahurangi.education.govt.nz/.
 
@@ -493,7 +492,7 @@ Te Whāriki holds the vision that all children are 'competent and confident lear
 
 Te Whāriki is an inclusive curriculum - a curriculum for all children. Inclusion encompasses gender and ethnicity, diversity of ability and learning needs, family structure and values, socio-economic status and religion. An inclusive curriculum is founded on Māori values and principles and is strengths-based. Kaiako (teachers, educators, and other adults, including parents in parent-led services) seek to develop mutually positive relationships with children and to work with family to realise high expectations.
 
-Section 267 of the Education and Training Act 2020 advises that universities and wānanga (other than Te Pūkenga-New Zealand Institute of Skills and Technology) have academic freedom and institutional autonomy.
+Section 267 of the Education and Training Act 2020 advises that universities and wānanga (other than Te Pūkenga—New Zealand Institute of Skills and Technology) have academic freedom and institutional autonomy.
 
 10
 
@@ -519,13 +518,19 @@ See 1.1.
 
 ☒ Initiatives to address discrimination and promote cultural diversity and mutual acceptance
 
+☒ Multiple and flexible learning pathways 18 are provided for
+
+☒ Curricula and teaching methods are inclusive in design 19
+
+☒ Multilingual and intercultural education is supported
+
 o Other:
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
 The Education and Training Act 2020 establishes and regulates an education system that:
 
-- Provides  New  Zealanders  and  those  studying  in  New  Zealand  with  the  skills,  knowledge,  and capabilities they need to fully participate in the labour market, society and their communities.
+- Provides New Zealanders and those studying in New Zealand with the skills, knowledge, and capabilities they need to fully participate in the labour market, society and their communities.
 
 - Provides all domestic students with the right to enrol, attend and receive education at a state school, including equal rights for students with learning support needs.
 
@@ -547,15 +552,9 @@ The New Zealand Bill of Rights Act 1990 and Human Rights Act 1993 makes it unlaw
 
 > 17 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
 
-> 18 Multiple and flexible learning pathways are 'entry points and re-entry points at all ages and all educational levels, strengthened links between  formal  and  non-formal  structures,  and  recognition,  validation  and  accreditation  of  the  knowledge,  skills  and  competencies acquired through nonformal and informal education' (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
+> 18 Multiple and flexible learning pathways are 'entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education' (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
 
 > 19 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
-
-☒ Multiple and flexible learning pathways 18  are provided for
-
-☒ Curricula and teaching methods are inclusive in design 19
-
-☒ Multilingual and intercultural education is supported
 
 11
 
@@ -587,7 +586,7 @@ The Government believes that these priorities will result in an education system
 
 Although schooling is compulsory, there are different kinds of schools in New Zealand, and a family's choice depends on what is available where they live and the needs of the child and family. These options provide multiple and flexible learning pathways within the compulsory system so that families can choose options that are aligned to their identity, language, culture, and religion. Students can transfer between available pathways in response to their changing needs. For more information, see:
 
-https://parents.education.govt.nz/primary-school/schooling-in-nz/different-types-of-primary-andintermediate-schools/.
+https://parents.education.govt.nz/primary-school/schooling-in-nz/different-types-of-primary-and-intermediate-schools/.
 
 Most schools in New Zealand are owned and funded by the state (state schools). They teach the national curriculum and are secular (non-religious). Designated character schools and State-integrated schools provide different options that cater to specific religious beliefs, ethnic groups, and ideas about teaching and learning.
 
@@ -653,15 +652,30 @@ The Government has set a target of 80% of students present for more than 90% of 
 
 - sharing  with  schools  and  parents  refreshed  health  guidance  to  support  educationally-powerful conversations about the importance of attendance.
 
-For more information, see: https://www.education.govt.nz/our-work/overall-strategies-andpolicies/increasing-school-
-
-attendance/#:~:text=The%20attendance%20action%20plan%20is,the%20importance%20of%20regular% 20attendance,
+For more information, see: https://www.education.govt.nz/our-work/overall-strategies-and-policies/increasing-school-attendance/#:~:text=The%20attendance%20action%20plan%20is,the%20importance%20of%20regular%20attendance,
 
 ##### Attendance in primary and secondary
 
 In Term 2 2023 47.0% of students met the criteria for regular attendance (attending more than 90% of the term). This is an increase of 7.2 percentage points from Term 2 2022 (39.8%). This remains lower than Term 2 2019 (pre-COVID-19) when 57.7% of students were regularly attending. Chronic absence (attending 70% or less of the term) decreased to 12.5% in Term 2 2023 from 13.9% in Term 2 2022 (1.4 percentage points). This remains higher than Term 2 2019 (before the COVID-19 pandemic).
 
 Figure: All attendance categories other than regular attendance decreased in Term 2 2023, compared to Term 2, 2022
+
+Percent of Students
+100%
+75%
+50%
+25%
+0%
+
+Attendance category | 2019 | 2020 | 2021 | 2022 | 2023
+Regular Attendance (attending more than 90%) | 57.7 | 64.2 | 59.7 | 39.8 | 47.0
+Irregular Absence (attending more than 80% and up to 90%) | 25.6 | 19.1 | 24.1 | 31.3 | 27.9
+Moderate Absence (attending more than 70% and up to 80%) | 9.4 | 8.0 | 8.5 | 15.0 | 12.7
+Chronic Absence (attending 70% or less) | 7.3 | 8.7 | 7.7 | 13.9 | 12.5
+
+Percent of Half-Days Attended
+Year: Term 2
+2019  2020  2021  2022  2023
 
 ##### Student Attendance by Sector*, Term 2, 2018-2023
 
@@ -673,11 +687,31 @@ Regular attendance has increased for students of all year levels in 2023. In Ter
 
 [[START OF PAGE 15]]
 
+Year | Sector | Students Attending Regularly (%) | Students Attending 80-90% (%) | Students Attending 70-80% (%) | Students Attending 70% or less (%)
+2023 | Primary | 49.8 | 28.2 | 11.9 | 10.1
+2023 | Secondary | 41.7 | 27.2 | 14.0 | 17.0
+2023 | All | 47.0 | 27.9 | 12.7 | 12.5
+2022 | Primary | 41.5 | 32.1 | 14.7 | 11.7
+2022 | Secondary | 36.5 | 29.8 | 15.6 | 18.1
+2022 | All | 39.8 | 31.3 | 15.0 | 13.9
+2021 | Primary | 63.6 | 23.7 | 7.5 | 5.2
+2021 | Secondary | 52.5 | 25.0 | 10.3 | 12.2
+2021 | All | 59.7 | 24.1 | 8.5 | 7.7
+2020 | Primary | 66.9 | 18.3 | 7.4 | 7.4
+2020 | Secondary | 59.2 | 20.5 | 9.1 | 11.2
+2020 | All | 64.2 | 19.1 | 8.0 | 8.7
+2019 | Primary | 60.1 | 25.7 | 8.5 | 5.6
+2019 | Secondary | 53.0 | 25.5 | 10.9 | 10.6
+2019 | All | 57.7 | 25.6 | 9.4 | 7.3
+2018 | Primary | 67.3 | 21.7 | 6.7 | 4.4
+2018 | Secondary | 57.2 | 24.1 | 9.6 | 9.2
+2018 | All | 63.8 | 22.5 | 7.7 | 6.0
+
 * Sector defined by student year level. Primary refers to students in years 1-8, and Secondary to students in years 9-13.
 
-- Students with missing year levels have been excluded.
+* Students with missing year levels have been excluded.
 
-- Year 13 includes students in years 13, 14, 15.
+* Year 13 includes students in years 13, 14, 15.
 
 #### Other relevant general measures, including gender equality
 
@@ -695,19 +729,19 @@ Regular attendance has increased for students of all year levels in 2023. In Ter
 
 ☒ Teachers are trained to combat stigmatisation 22
 
-o Other:
-
-☒ All  barriers  for  pregnant  girls  and  young mothers in education are eliminated to ensure the continuity of their education
+☒ All barriers for pregnant girls and young mothers in education are eliminated to ensure the continuity of their education
 
 ☒ Re-entry programmes for young mothers are provided for
 
 ☒ Ensuring safe and adequate gender-sensitive sanitation facilities 23
 
-☒ Curricula are rid of all stereotypes 24  and bias
+☒ Curricula are rid of all stereotypes 24 and bias
 
 ☒ Ensuring gender parity in science, technology, engineering and mathematics (STEM)
 
 ☒ Ensuring gender parity in technical and vocational training education and training (TVET)
+
+o Other:
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
@@ -733,7 +767,7 @@ Schools cannot refuse to enrol learners because of their gender identity. They h
 
 A range of initiatives have been introduced to increase the accessibility of educational achievement and improve education outcomes for women and girls. This includes providing period products to menstruating students and supporting pregnant and parenting students.
 
-Ikura l Manaakitia te whare tangata | Period Products in Schools is an opt-in initiative which provides access to free period products for children and young people in participating state and state-integrated schools and kura across New Zealand. This is intended to reduce barriers to education, promote positive gender norms, improve attendance and engagement, and mitigate the impacts of socioeconomic disadvantage. Schools and kura have been able to access products for students since June 2021. Budget 2024 provided $14 million over four years  to support  the  ongoing  delivery  of the  programme.  For  more  information,  see https://www.education.govt.nz/our-work/overall-strategies-and-policies/wellbeing-in-education/ikuramanaakitia-te-whare-tangata-period-products-in-schools/.
+Ikura | Manaakitia te whare tangata | Period Products in Schools is an opt-in initiative which provides access to free period products for children and young people in participating state and state-integrated schools and kura across New Zealand. This is intended to reduce barriers to education, promote positive gender norms, improve attendance and engagement, and mitigate the impacts of socioeconomic disadvantage. Schools and kura have been able to access products for students since June 2021. Budget 2024 provided $14 million over four years to support the ongoing delivery of the programme. For more information, see https://www.education.govt.nz/our-work/overall-strategies-and-policies/wellbeing-in-education/ikura-manaakitia-te-whare-tangata-period-products-in-schools/.
 
 There are 25 Teen Parent Units (TPUs) in New Zealand, which are attached to an established state or state integrated secondary school. An Early Childhood Education (ECE) centre, which caters for the children of teen parents, is located either onsite or close by. TPUs provide wraparound support to pregnant or parenting learners to minimise the barriers to education. An Individual Learning Programme is developed based on each learner's individual needs. TPUs provide secondary education that results in successful transitions to further education, training or employment. For more information, see: https://alternativeeducation.tki.org.nz/Teen-parent-units.
 
@@ -801,21 +835,21 @@ The Education and Training Act 2020 sets out the right to free enrolment and fre
 
 Changes to the national curriculum that are currently underway will mean that The New Zealand Curriculum, which is used in English-medium state schools, and Te Marautanga o Aotearoa, which is used in Māori language education pathways support and empower all students to learn and achieve personal excellence, regardless  of  their  individual  circumstances.  The  changes  will  be  grounded  in  six  overarching  design principles:
 
-- Underpinned by the Science of Learning
+1. Underpinned by the Science of Learning
 
-- Knowledge-rich (selective, coherent, carefully sequenced, and specific and clear)
+2. Knowledge-rich (selective, coherent, carefully sequenced, and specific and clear)
 
-- Inclusive of evidence informed teaching practices
+3. Inclusive of evidence informed teaching practices
 
-- Clear and easy to use
+4. Clear and easy to use
 
-- Internationally comparable
+5. Internationally comparable
 
-- Supporting the development of key competencies.
+6. Supporting the development of key competencies.
 
 > 25  Please note that according to the Joint general recommendation No. 31 of the Committee on the Elimination of Discrimination against Women/general comment No. 18 of the Committee on the Rights of the Child on harmful practice, para. 20: 'a marriage of a mature, capable child below 18 years of age may be allowed in exceptional circumstances, provided that the child is at least 16 years of age and that such decisions are made by a judge based on legitimate exceptional grounds defined by law and on the evidence of maturity, without deference to culture and tradition.'
 
-> 26 https://legislation.govt.nz/bill/member/2017/0256/latest/whole.html#:~:text=The%20bill%20aims%20to%20prevent,will%20to%20enter %20a%20marriage
+> 26 https://legislation.govt.nz/bill/member/2017/0256/latest/whole.html#:~:text=The%20bill%20aims%20to%20prevent,will%20to%20enter%20a%20marriage
 
 > 27  Supra note 15.
 
@@ -837,9 +871,9 @@ Pacific  people  make  up  one  of  the  largest  ethnic  groups  in  New  Zeala
 
 - The next set of Government actions that will further contribute to achieving the vision and 5 key shifts for Pacific education success.
 
-For more information, see: https://www.education.govt.nz/our-work/overall-strategies-and-policies/actionplan-for-pacific-education/#refresh-2023.
+For more information, see: https://www.education.govt.nz/our-work/overall-strategies-and-policies/action-plan-for-pacific-education/#refresh-2023.
 
-Pacific languages are reflected in the New Zealand education system through the valuing, promotion and integration of identity, language, and culture, and enabling second language learning of Pacific languages and Pacific bilingual and immersion education, both in the early learning and schooling sectors. Tapasā, the cultural competencies framework for teachers of Pacific learners, identifies understanding and valuing the identities, languages, and cultures of Pacific languages as a key competency. This is supported by the ongoing development of curriculum resources in Pacific languages, including the development of storybooks and teaching materials in Gagana Tokelau and Vagahau Niue. For more information, see: https://pasifika.tki.org.nz/Pacific-languages/Gagana-Tokelau and https://pasifika.tki.org.nz/Pacificlanguages/Vagahau-Niue.
+Pacific languages are reflected in the New Zealand education system through the valuing, promotion and integration of identity, language, and culture, and enabling second language learning of Pacific languages and Pacific bilingual and immersion education, both in the early learning and schooling sectors. Tapasā, the cultural competencies framework for teachers of Pacific learners, identifies understanding and valuing the identities, languages, and cultures of Pacific languages as a key competency. This is supported by the ongoing development of curriculum resources in Pacific languages, including the development of storybooks and teaching materials in Gagana Tokelau and Vagahau Niue. For more information, see: https://pasifika.tki.org.nz/Pacific-languages/Gagana-Tokelau and https://pasifika.tki.org.nz/Pacific-languages/Vagahau-Niue.
 
 ##### Parent involvement in learning
 
@@ -895,6 +929,20 @@ The  2023  Education  Review  Office  (ERO)  report, Education  For  All  our  C
 
 ☒ Positive or affirmative action measures are provided for indigenous people
 
+☒ Financial incentives and fellowships are provided for indigenous people
+
+☒ Teachers are trained on intercultural education
+
+☒ Teachers are trained to combat stigmatisation 29
+
+☒ Multilingual and intercultural education are supported
+
+☒ Native language instruction is ensured
+
+☒ Adapting curricula and teaching and learning methods to their needs for indigenous people
+
+☒ Curricula are rid of all stereotypes 30 and bias
+
 o Other:
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
@@ -911,23 +959,9 @@ As mentioned, the New Zealand Government has set ambitious targets for attendanc
 
 - more students at expected curriculum levels, so that 80% of Year 8 students are 'at or above' the expected curriculum level for their age in reading, writing and maths by December 2030.
 
-> 29  Supra note 15.
+> 29 Supra note 15.
 
-> 30  Supra note 16.
-
-☒ Financial incentives and fellowships are provided for indigenous people
-
-☒ Teachers are trained on intercultural education
-
-☒ Teachers are trained to combat stigmatisation 29
-
-☒ Multilingual and intercultural education are supported
-
-☒ Native language instruction is ensured
-
-☒ Adapting curricula and teaching and learning methods to their needs for indigenous people
-
-☒ Curricula are rid of all stereotypes 30  and bias
+> 30 Supra note 16.
 
 19
 
@@ -943,13 +977,13 @@ An example of an initiative that has shown to be impactful for Māori ākonga in
 
 Education legislation includes provisions that recognise and respect the Crown's responsibility to give effect to Te Tiriti/the Treaty. The Ministry of Education considers Te Tiriti/the Treaty implications in day-to-day work and partner with Māori so that they can participate as tangata whenua (people of the land) in our advice to government on how we can achieve better outcomes for Māori learners, whānau, hapū, iwi and Māori communities.
 
-The Māori language (te reo Māori) is a taonga. There have been efforts to encourage its greater usage in New Zealand. Te reo Māori and tikanga Māori expectations are part of the whole education system including in regulations, strategies, policies and services such as Section 4 of the Education and Training Act 2020, Ka Hikitia - Ka Hāpaitia, Tau Mai te Reo. There has been a continued increase in participation in Māori language in education, including an increase in the number of students participating in Māorimedium education. There has also been an increase in participation in Māori language in English-medium education. For more information, see: https://www.educationcounts.govt.nz/statistics/maori-language-inschooling#:~:text=As%20at%201%20July%202023,%2C%2095.8%25%20identify%20as%20M%C4%81o ri.
+The Māori language (te reo Māori) is a taonga. There have been efforts to encourage its greater usage in New Zealand. Te reo Māori and tikanga Māori expectations are part of the whole education system including in regulations, strategies, policies and services such as Section 4 of the Education and Training Act 2020, Ka Hikitia – Ka Hāpaitia, Tau Mai te Reo. There has been a continued increase in participation in Māori language in education, including an increase in the number of students participating in Māori-medium education. There has also been an increase in participation in Māori language in English-medium education. For more information, see: https://www.educationcounts.govt.nz/statistics/maori-language-in-schooling#:~:text=As%20at%201%20July%202023,%2C%2095.8%25%20identify%20as%20M%C4%81ori.
 
-##### Ka Hikitia - Ka Hāpaitia
+##### Ka Hikitia – Ka Hāpaitia
 
-To ensure that Māori can enjoy and achieve education success as Māori, the Māori Education strategy (Ka Hikitia - Ka Hāpaitia) sets out how government agencies will work with education services to achieve system shifts in education and support Māori learners and their wider families and communities to achieve excellent and equitable outcomes (refer above).
+To ensure that Māori can enjoy and achieve education success as Māori, the Māori Education strategy (Ka Hikitia – Ka Hāpaitia) sets out how government agencies will work with education services to achieve system shifts in education and support Māori learners and their wider families and communities to achieve excellent and equitable outcomes (refer above).
 
-Te Marautanga o Aotearoa (New Zealand's curriculum for students learning through te reo Māori), the Ako Framework and Aromatawai are designed for primary and secondary kura and settings that deliver learning and teaching programmes in te reo Māori - Māori-medium and kaupapa Māori education pathways .
+Te Marautanga o Aotearoa (New Zealand's curriculum for students learning through te reo Māori), the Ako Framework and Aromatawai are designed for primary and secondary kura and settings that deliver learning and teaching programmes in te reo Māori – Māori-medium and kaupapa Māori education pathways.
 
 ##### The redesign of Te Marautanga o Aotearoa
 
@@ -969,13 +1003,13 @@ The Ako Framework outlines the principles,  approaches, and high-quality teachin
 
 ##### Aromatawai
 
-Aromatawai as a kaupapa Māori approach provides relevant ways to monitor progression and development of learning that are mutually valued by learners, whānau, hapū and iwi in collaboration with their kura and community.  With  the  redesign  of  Te  Marautanga  o  Aotearoa,  te  reo  Māori  education  pathways  will  be supported  and  guided  by  authentic  indigenous  ways  of  monitoring  learner  progress,  achievement,  and success. For more information, see: https://kauwhatareo.govt.nz/en/kaupapa/nga-tini-mata-o-tearomatawai/.
+Aromatawai as a kaupapa Māori approach provides relevant ways to monitor progression and development of learning that are mutually valued by learners, whānau, hapū and iwi in collaboration with their kura and community. With the redesign of Te Marautanga o Aotearoa, te reo Māori education pathways will be supported and guided by authentic indigenous ways of monitoring learner progress, achievement, and success. For more information, see: https://kauwhatareo.govt.nz/en/kaupapa/nga-tini-mata-o-te-aromatawai/.
 
 ##### Te Ahu o te Reo Māori
 
 Te  Ahu  o  te  Reo  Māori  was  designed  to  strengthen  the  te  reo  Māori  capability  and  proficiency  of  the education workforce to support early learning services, kura and schools to integrate te reo Māori into the learning of all learners in New Zealand and support the growth of te reo Māori and mātauranga Māori (Māori knowledge). Te Ahu o te Reo Māori was made available across all regions in New Zealand in 2021, it is now being discontinued.
 
-For more information, see: https://kauwhatareo.tahurangi.education.govt.nz/mi/kauwhata-reoonline/engage/ministry-initiatives/te-ahu-o-te-reo-m-ori/5637154327.c
+For more information, see: https://kauwhatareo.tahurangi.education.govt.nz/mi/kauwhata-reo-online/engage/ministry-initiatives/te-ahu-o-te-reo-m-ori/5637154327.c
 
 ##### Huia Kaimanawa - Māori First Time Principals and Emerging Māori Leaders
 
@@ -999,7 +1033,7 @@ Wānanga are tertiary education  institutions  which  Māori  have  been  instru
 
 ##### Relationships with iwi
 
-Iwi and community organisations can play an important role in brokering stronger relationships at the local level. The Ministry of Education has a range of relationships with iwi, from formal through to regular one-onone meetings. The Ministry of Education also works with the Mātauranga Iwi Leaders Group (MILG) which provides a collective voice for iwi on education matters. It has particular focus on building whānau learner capability, targeted support for mental health and learners with additional learning needs, and pathways for re-engaging young people back into education.
+Iwi and community organisations can play an important role in brokering stronger relationships at the local level. The Ministry of Education has a range of relationships with iwi, from formal through to regular one-on-one meetings. The Ministry of Education also works with the Mātauranga Iwi Leaders Group (MILG) which provides a collective voice for iwi on education matters. It has particular focus on building whānau learner capability, targeted support for mental health and learners with additional learning needs, and pathways for re-engaging young people back into education.
 
 21
 
@@ -1017,6 +1051,19 @@ In 2023, 5,583 Māori school leavers attained NCEA Level 3 or above, 33.2% of al
 
 Figure: Māori school leavers attainment in NCEA Level 3 or above decreased from 2013 to 2023
 
+School leavers with NCEA Level 3 or above (%)
+80
+70
+60
+50
+40
+30
+20
+10
+2013  2014  2015  2016  2017  2018  2019  2020  2021  2022  2023
+Māori
+All Leavers
+
 For more information, see https://www.educationcounts.govt.nz/statistics/school-leavers.
 
 ##### Māori learners attendance
@@ -1033,19 +1080,47 @@ Figure: Regular attendance across all ethnicities in Term 1 from 2019-2023
 
 [[START OF PAGE 23]]
 
-> 31  This is a subset of all ākonga Māori predominantly learning in te reo Māori, based on ākonga Māori attending kura/schools where all students are predominantly learning in te reo Māori (more than 50% of the time). It does not include ākonga Māori predominantly learning in te reo Māori who are attending schools where the medium of education across the school is predominantly English
+Percent of Students Regularly Attending
+100%
+75%
+50%
+25%
+0%
 
-Attendance was reported for 189,617 Māori learners. Of these learners, 4.4% (8,405) 31  were in kura/schools where teaching and learning is predominantly in te reo Māori. The regular attendance rate for Māori learners predominantly learning in te reo Māori increased by 6.1 percentage points, from 38.3% in 2023 to 44.4% in 2024. In Term 1 2024, the difference in regular attendance rates for all Māori learners compared with Māori learners predominantly learning in te reo Māori has decreased to 3.0 percentage points. Regular attendance for Māori learners predominantly learning in te reo Māori, and all Māori Learners in Term 1 from 2019-2023.
+Student: Ethnicity | 2019 | 2020 | 2021 | 2022 | 2023 | 2024
+Total | 72.8% | 50.5% | 66.8% | 46.0% | 59.5% | 61.7%
+Māori | 59.7% | 39.0% | 52.1% | 32.7% | 44.9% | 47.4%
+Pacific | 63.1% | 42.2% | 52.6% | 30.2% | 47.6% | 50.6%
+European/Pākehā | 76.1% | 54.2% | 70.5% | 51.2% | 62.8% | 64.4%
+Asian | 80.5% | 54.6% | 79.2% | 53.7% | 70.6% | 72.0%
 
-Figure: Regular attendance for ākonga Māori predominantly learning in te reo Māori, and all ākonga Māori
+Year: Term 1
+2019  2020  2021  2022  2023  2024
 
-in Term 1 from 2019-2023
+Attendance was reported for 189,617 Māori learners. Of these learners, 4.4% (8,405) 31 were in kura/schools where teaching and learning is predominantly in te reo Māori. The regular attendance rate for Māori learners predominantly learning in te reo Māori increased by 6.1 percentage points, from 38.3% in 2023 to 44.4% in 2024. In Term 1 2024, the difference in regular attendance rates for all Māori learners compared with Māori learners predominantly learning in te reo Māori has decreased to 3.0 percentage points. Regular attendance for Māori learners predominantly learning in te reo Māori, and all Māori Learners in Term 1 from 2019-2023.
+
+Figure: Regular attendance for ākonga Māori predominantly learning in te reo Māori, and all ākonga Māori in Term 1 from 2019-2023
+
+Percent of students
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+2019  2020  2021  2022  2023  2024
+Ākonga Māori predominantly learning in te reo Māori
+All Ākonga Māori
 
 For more information, see: https://www.educationcounts.govt.nz/statistics/attendance.
 
-Sense of belonging is crucial for Māori to succeed as Māori. The education system needs to better reflect and  foster  Māori identity,  culture,  and  values in  all  their  diversity.  Education  settings  should  support the holistic wellbeing of Māori learners and their whānau by providing physically, culturally, emotionally, and spiritually safe learning environments and spaces.
+Sense of belonging is crucial for Māori to succeed as Māori. The education system needs to better reflect and foster Māori identity, culture, and values in all their diversity. Education settings should support the holistic wellbeing of Māori learners and their whānau by providing physically, culturally, emotionally, and spiritually safe learning environments and spaces.
 
-Teacher bias and low expectations are significant issues in New Zealand, and this has a significant impact on Māori. There is a shortage of Māori language teachers and kaupapa Māori and Māori-medium teachers, and the Māori language capability of the existing workforce is limited. The education workforce needs to be representative of and responsive to Māori. Māori staff need to be better supported and recognised for their work. More Māori teachers and more quality professionals are also required, particularly in the areas of te reo  Māori  provision,  learning  support  and  social  services.  It  is  important  to  have  culturally  responsive teachers who have consistent expectations for all learners.
+Teacher bias and low expectations are significant issues in New Zealand, and this has a significant impact on Māori. There is a shortage of Māori language teachers and kaupapa Māori and Māori-medium teachers, and the Māori language capability of the existing workforce is limited. The education workforce needs to be representative of and responsive to Māori. Māori staff need to be better supported and recognised for their work. More Māori teachers and more quality professionals are also required, particularly in the areas of te reo Māori provision, learning support and social services. It is important to have culturally responsive teachers who have consistent expectations for all learners.
+
+> 31 This is a subset of all ākonga Māori predominantly learning in te reo Māori, based on ākonga Māori attending kura/schools where all students are predominantly learning in te reo Māori (more than 50% of the time). It does not include ākonga Māori predominantly learning in te reo Māori who are attending schools where the medium of education across the school is predominantly English
 
 23
 
@@ -1053,7 +1128,7 @@ Teacher bias and low expectations are significant issues in New Zealand, and thi
 
 [[START OF PAGE 24]]
 
-#### People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations 32 :
+#### People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations 32:
 
 ☒ Legislation provides for their right to education
 
@@ -1065,21 +1140,19 @@ Teacher bias and low expectations are significant issues in New Zealand, and thi
 
 ☒ All administrative barriers to access education are removed
 
-☐ Alternative administrative procedures (placement tests, portfolio of evidence, etc.) to overcome administrative barriers 33  are provided for
+☐ Alternative administrative procedures (placement tests, portfolio of evidence, etc.) to overcome administrative barriers 33 are provided for
 
 ☒ Teachers are specifically trained to ensure their inclusion
 
 ☒ Teachers are trained to combat stigmatisation 34
 
-☐ Other:
-
 ☒ Financial incentives and fellowships are provided for
 
 ☒ Auxiliary assistance is provided
 
-☒ Multiple and flexible learning pathways 35  are provided
+☒ Multiple and flexible learning pathways 35 are provided
 
-☒ Curricula are rid of all stereotypes 36  and bias
+☒ Curricula are rid of all stereotypes 36 and bias
 
 ☐ Accelerated learning programmes are provided
 
@@ -1088,6 +1161,8 @@ Teacher bias and low expectations are significant issues in New Zealand, and thi
 ☐ Language classes to newcomers are provided for
 
 ☒ Multilingualism and intercultural education are encouraged
+
+☐ Other:
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
@@ -1099,7 +1174,7 @@ The Education (Domestic Students) Notice 2023 advises classes or descriptions th
 
 There is also policy provision for inclusion of school age children unlawfully residing in New Zealand to attend  school  with  domestic  status  if  they  meet  the  criteria  laid  out  by  the  Ministry  of  Education  (see:
 
-https://www.education.govt.nz/school/managing-and-supporting-students/enrolling-students/enrollingstudents-as-domestic-students-who-are-living-unlawfully-in-newzealand/#:~:text=Unlawfully%20means%20the%20student%20does,not%20holding%20a%20valid%20vis a). These students have access to the same teaching and learning experiences, and learning supports as all domestic students.
+https://www.education.govt.nz/school/managing-and-supporting-students/enrolling-students/enrolling-students-as-domestic-students-who-are-living-unlawfully-in-new-zealand/#:~:text=Unlawfully%20means%20the%20student%20does,not%20holding%20a%20valid%20visa). These students have access to the same teaching and learning experiences, and learning supports as all domestic students.
 
 There are policy, funding, and auxiliary supports available for English for Speakers of Other Languages (ESOL), refugees, and migrants. For example, schools can access funding for ESOL to support learners directly in the classroom, Refugee Flexible Funding for additional resources that address barriers to refugee learners participating and achieving, and in some cases schools access provision for bilingual support. As at March 2024, schools received ESOL funding for 78,769 students. Of these students, 3% are refugees, 40% are New Zealand born children of migrant parents, and 57% are new migrants.
 
@@ -1139,29 +1214,15 @@ Each learner is unique, arriving at school with varying levels of English profic
 
 ☒ Policy measures aim to enhance their right to education
 
-☒ Inclusion in mainstream schools is ensured Special schools are used as resource centers to inclusive schools
+☒ Inclusion in mainstream schools is ensured
+
+Special schools are used as resource centers to inclusive schools
 
 ☒ Positive or affirmative action measures are provided
 
 ☒ Financial incentives and fellowships are provided
 
-- o Other
-
-- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
-
-The right to inclusive education is set out in the Education and Training Act 2020. New Zealand schools have obligations to provide a quality education for all learners. Section 34 of the Education and Training Act 2020 says, "people who have special educational needs (whether because of disability or otherwise) have the same rights to enrol and receive education in state schools as people who do not". The Education and Training Act 2020 also requires schools to be inclusive of and cater for students with differing needs.
-
-The New Zealand Disability Strategy is the government's strategy for realising the rights of disabled people as set out in the United Nations Convention on the Rights of Persons with Disabilities. The New Zealand Disability  Strategy's  vision  is  of  a  society  that  highly  values  the  lives  and  continually  enhances  the  full participation of disabled people. It provides a framework to guide government agencies when making policy and  services  affecting disabled  people.  For  more  information,  see:  https://www.odi.govt.nz/nz-disabilitystrategy.
-
-Schools must ensure that students' identities, languages, abilities, and talents are recognised and affirmed and that their learning needs are addressed, and that all students are offered a broad education that opens pathways to further learning. All students' learning, progress and achievement should be visible and reported back to family.
-
-As mentioned, our curricula are underpinned by principles of inclusion. Schools using the New Zealand Curriculum need to make sure that their teaching and learning programmes support and empower all students to learn and achieve personal excellence, regardless of their individual circumstances and that
-
-> 37  Supra note 15.
-
-> 38  Supra note 16.
-
-- Mainstream teachers are specifically trained on disabilities
+Mainstream teachers are specifically trained on disabilities
 
 ☒ Teachers are trained to combat stigmatisation 37
 
@@ -1169,9 +1230,25 @@ As mentioned, our curricula are underpinned by principles of inclusion. Schools 
 
 ☒ Curricula and teaching and learning methods are adapted
 
-☒ Curricula are rid of all stereotypes 38  and bias
+☒ Curricula are rid of all stereotypes 38 and bias
 
 ☒ Education infrastructure and learning materials are adapted
+
+o Other
+
+- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
+
+The right to inclusive education is set out in the Education and Training Act 2020. New Zealand schools have obligations to provide a quality education for all learners. Section 34 of the Education and Training Act 2020 says, "people who have special educational needs (whether because of disability or otherwise) have the same rights to enrol and receive education in state schools as people who do not". The Education and Training Act 2020 also requires schools to be inclusive of and cater for students with differing needs.
+
+The New Zealand Disability Strategy is the government's strategy for realising the rights of disabled people as set out in the United Nations Convention on the Rights of Persons with Disabilities. The New Zealand Disability Strategy's vision is of a society that highly values the lives and continually enhances the full participation of disabled people. It provides a framework to guide government agencies when making policy and services affecting disabled people. For more information, see: https://www.odi.govt.nz/nz-disability-strategy.
+
+Schools must ensure that students' identities, languages, abilities, and talents are recognised and affirmed and that their learning needs are addressed, and that all students are offered a broad education that opens pathways to further learning. All students' learning, progress and achievement should be visible and reported back to family.
+
+As mentioned, our curricula are underpinned by principles of inclusion. Schools using the New Zealand Curriculum need to make sure that their teaching and learning programmes support and empower all students to learn and achieve personal excellence, regardless of their individual circumstances and that
+
+> 37 Supra note 15.
+
+> 38 Supra note 16.
 
 25
 
@@ -1181,7 +1258,7 @@ As mentioned, our curricula are underpinned by principles of inclusion. Schools 
 
 they are non-sexist, non-racist, and non-discriminatory. For more information, see: https://nzcurriculum.tki.org.nz/Principles/Inclusion-principle.
 
-Learning support provision in education is based on understanding the needs and strengths of learners within the contexts in which they learn. Access to Ministry of Education learning support is not dependent on  a  formal  diagnosis.  Learning  support  service  provision  is  flexible  and  supports  learners  within  their individual learning environment. Schools and educators are supported with a range of Ministry of Educationled or funded services, supports, tools, resources, and websites to understand and support learners with the vast range of learning support needs. A wide range of measures are taken to support inclusive education, including targeted provision of resources in schools to those with additional learning support needs through the Ongoing Resourcing Scheme. Specialist schools provide outreach services to students enrolled at their local school and operate satellite units on local school sites as well as providing specialist education at a base  school.  For  more  information,  see:    https://www.education.govt.nz/school/student-support/specialeducation/ors/.
+Learning support provision in education is based on understanding the needs and strengths of learners within the contexts in which they learn. Access to Ministry of Education learning support is not dependent on a formal diagnosis. Learning support service provision is flexible and supports learners within their individual learning environment. Schools and educators are supported with a range of Ministry of Education-led or funded services, supports, tools, resources, and websites to understand and support learners with the vast range of learning support needs. A wide range of measures are taken to support inclusive education, including targeted provision of resources in schools to those with additional learning support needs through the Ongoing Resourcing Scheme. Specialist schools provide outreach services to students enrolled at their local school and operate satellite units on local school sites as well as providing specialist education at a base school. For more information, see: https://www.education.govt.nz/school/student-support/special-education/ors/.
 
 The  Ministry  of  Education  is  developing  a  work  programme  for  targeting  effective  learning  support interventions for students with additional needs. Key features of the work programme will include:
 
@@ -1197,7 +1274,7 @@ The  Ministry  of  Education  is  developing  a  work  programme  for  targeting
 
 - What challenges were encountered in realizing the right to education of people with disabilities? If needed, brief quantitative information may be added.
 
-The ERO report Thriving at school? Education for disabled learners in schools , published in 2022, found that many disabled learners are still experiencing exclusion. Many disabled learners are being discouraged from enrolling in their local schools, asked to stay home due to resourcing issues, stood down, and are having to move schools. Too many students are also not supported to take part in wider school activities. Disabled learners are enjoying school, but too many are not progressing sufficiently. A significant proportion of disabled learners do not feel accepted or that they belong, some experience bullying. Disabled learners with more complex needs have poorer experiences and outcomes than other disabled learners.
+The ERO report Thriving at school? Education for disabled learners in schools, published in 2022, found that many disabled learners are still experiencing exclusion. Many disabled learners are being discouraged from enrolling in their local schools, asked to stay home due to resourcing issues, stood down, and are having to move schools. Too many students are also not supported to take part in wider school activities. Disabled learners are enjoying school, but too many are not progressing sufficiently. A significant proportion of disabled learners do not feel accepted or that they belong, some experience bullying. Disabled learners with more complex needs have poorer experiences and outcomes than other disabled learners.
 
 The report found that areas that could be strengthened included:
 
@@ -1215,7 +1292,7 @@ The report found that areas that could be strengthened included:
 
 - School buildings and facilities are mostly accessible but schools with older buildings still face challenges.
 
-For more information, see: https://ero.govt.nz/our-research/thriving-at-school-education-for-disabledlearners-in-schools.
+For more information, see: https://ero.govt.nz/our-research/thriving-at-school-education-for-disabled-learners-in-schools.
 
 New research on disabled students' experiences in tertiary education shows that accessing support can be difficult and levels of support can be inconsistent, and that barriers to inclusion are common and power dynamics make it hard for disabled students to speak up. For more information, see: https://www.educationcounts.govt.nz/publications/80898/243364.
 
@@ -1225,13 +1302,13 @@ New research on disabled students' experiences in tertiary education shows that 
 
 ☒ Positive or affirmative action measures are provided
 
+☒ Teachers are trained to combat stigmatisation 39
+
+☒ Curricula are rid of all stereotypes 40 and bias
+
 > 39  Supra note 15.
 
 > 40  Supra note 16.
-
-☒ Teachers are trained to combat stigmatisation 39
-
-☒ Curricula are rid of all stereotypes 40  and bias
 
 26
 
@@ -1249,7 +1326,7 @@ Education is free in New Zealand state schools and kura. There are a number of e
 
 ##### Equity Index
 
-The Equity Index (EQI) is a statistical model that estimates the extent to which students at a school face socio-economic  barriers  to  educational  achievement.  It  was  introduced  in  2023  and  allows  for  more accurately targeted resourcing to support schools with students facing greater socioeconomic disadvantage. For more information, see: https://www.education.govt.nz/our-work/changes-ineducation/equity-index/.
+The Equity Index (EQI) is a statistical model that estimates the extent to which students at a school face socio-economic barriers to educational achievement. It was introduced in 2023 and allows for more accurately targeted resourcing to support schools with students facing greater socioeconomic disadvantage. For more information, see: https://www.education.govt.nz/our-work/changes-in-education/equity-index/.
 
 Every year, each school is given an Equity Index number (between 344 and 569). To produce this number, the Equity Index takes into account the circumstances of the individual students actually attending each school and is refreshed each year, so that it stays up to date and continues to reflect changes in each school's community over time.
 
@@ -1261,13 +1338,13 @@ An  evaluation  is  underway  to  assess  the  influence  of  the  Equity  Index
 
 Domestic students in New Zealand are entitled to free enrolment and education. However, schools may also seek voluntary donations from their students' families, caregivers, and communities for general or specific purposes. The school donations scheme was introduced in 2019 and is set out in Section 551 of the Education and Training Act 2020. The scheme is designed to alleviate the pressure and expectations on families, caregivers, and communities most likely to face financial pressures to pay school donations.
 
-State and state integrated schools with an EQI value of 432 or higher will be able to opt into the scheme, reflecting the top 70% of schools whose students face the greatest barriers to achieving in education. Eligible schools may opt into the scheme and receive a pre-student grant payment on the condition that they do not ask for voluntary school donations from their students' parents and caregivers (except for overnight camps).
+State and state integrated schools with an EQI value of 432 or higher will be able to opt into the scheme, reflecting the top 70% of schools whose students face the greatest barriers to achieving in education. Eligible schools may opt into the scheme and receive a per-student grant payment on the condition that they do not ask for voluntary school donations from their students' parents and caregivers (except for overnight camps).
 
-Ka Ora Ka Ako | Healthy School Lunches Programme aims to reduce food insecurity by providing access to food every school day to all learners in eligible schools. Ka Ora Ka Ako is targeted at the top 25% of schools and kura with learners facing the greatest socio-economic barriers according to the Equity Index. For more information, see:  https://www.education.govt.nz/our-work/overall-strategies-andpolicies/wellbeing-in-education/free-and-healthy-school-lunches/.
+Ka Ora Ka Ako | Healthy School Lunches Programme aims to reduce food insecurity by providing access to food every school day to all learners in eligible schools. Ka Ora Ka Ako is targeted at the top 25% of schools and kura with learners facing the greatest socio-economic barriers according to the Equity Index. For more information, see: https://www.education.govt.nz/our-work/overall-strategies-and-policies/wellbeing-in-education/free-and-healthy-school-lunches/.
 
 Ikura | Manaakitia te whare tangata: Period products in schools is the opt-in period products in schools' initiative which provides access to free period products for children and young people in participating state and state-integrated schools across New Zealand. For more information, see:
 
-https://www.education.govt.nz/our-work/overall-strategies-and-policies/wellbeing-in-education/ikuramanaakitia-te-whare-tangata-period-products-in-schools/.
+https://www.education.govt.nz/our-work/overall-strategies-and-policies/wellbeing-in-education/ikura-manaakitia-te-whare-tangata-period-products-in-schools/.
 
 27
 
@@ -1275,9 +1352,9 @@ https://www.education.govt.nz/our-work/overall-strategies-and-policies/wellbeing
 
 [[START OF PAGE 28]]
 
-The Ministry of Education also provides school transport assistance to help students overcome barriers to education  and  to  help  caregivers  meet  their  responsibility  to  get  their  children  to  school.  For  more information, see: https://www.education.govt.nz/school/property-and-transport/transport/staeligibility/#:~:text=If%20a%20student%20is%20eligible,a%20place%20on%20a%20vehicle.
+The Ministry of Education also provides school transport assistance to help students overcome barriers to education and to help caregivers meet their responsibility to get their children to school. For more information, see: https://www.education.govt.nz/school/property-and-transport/transport/sta-eligibility/#:~:text=If%20a%20student%20is%20eligible,a%20place%20on%20a%20vehicle.
 
-The Ministry of Education's Equitable Digital Access (EDA) initiative provided connectivity to over 40,000 families as part of Ministries COVID-19 response in 2020. Since then, the number has come down significantly as students graduated secondary school or moved house without having their connection transferred. For more information, see:  https://www.education.govt.nz/school/digital-technology/yourschools-ict-network/enabling-home-internet-access-for-your-community/.
+The Ministry of Education's Equitable Digital Access (EDA) initiative provided connectivity to over 40,000 families as part of Ministries COVID-19 response in 2020. Since then, the number has come down significantly as students graduated secondary school or moved house without having their connection transferred. For more information, see: https://www.education.govt.nz/school/digital-technology/your-schools-ict-network/enabling-home-internet-access-for-your-community/.
 
 For information on ECE, refer to pre-primary education on page 25.
 
@@ -1303,6 +1380,27 @@ Regular attendance for Term 1 2024 by school equity index band shows that, on av
 
 Figure: Average regular attendance rates are lower for students in schools with higher socioeconomic barriers
 
+Regular Attendance by School Equity Index Band - Term 1 2024
+
+Percentage of students attending regularly
+
+100%
+80%
+60%
+40%
+20%
+0%
+
+Fewest 74.0
+Few 67.7
+Below Average 64.3
+Average 59.9
+Above Average 55.6
+Many 48.9
+Most 41.8
+
+Socioeconomic barriers to achievement (school equity index band)
+
 ##### School Leaver attainment for students with socio-economic barriers
 
 There is a strong gradient in school leaver attainment across School Equity Bands, with retention and attainment rates being consistently higher in schools where students experience fewer socioeconomic barriers and lower in schools where students experience more socioeconomic barriers. In 2023 there were larger decreases in attainment and retention for schools where students experience more socioeconomic barriers than for schools where students have fewer barriers to achievement.  For example, compared to 2019, the attainment rates of NCEA Level 3 or above were lower across all School Equity Index bands in
@@ -1327,11 +1425,36 @@ There is a strong gradient in school leaver attainment across School Equity Band
 
 - 38.7% at schools with many socio-economic barriers
 
-- 29.4% at schools with most socio-economic barriers. .
+- 29.4% at schools with most socio-economic barriers..
 
 Figure: School leavers with NCEA Level 3 or above (%)
 
-For additional information on Equity Index see: https://www.educationcounts.govt.nz/dataservices/guidelines/school-equity-index bands-and-groups
+School leavers with NCEA Level 3 or above (%)
+
+100%
+80%
+60%
+40%
+20%
+0%
+
+Fewest
+Few
+Below Average
+Average
+Above Average
+Many
+Most
+
+Socioeconomic barriers to achievement (School Equity Index Bands)
+
+2019
+2020
+2021
+2022
+2023
+
+For additional information on Equity Index see: https://www.educationcounts.govt.nz/data-services/guidelines/school-equity-index bands-and-groups
 
 For additional information on School Leavers attainment please see:
 
@@ -1349,17 +1472,17 @@ For reference: Early childhood care and education (ECCE)  is not explicitly prov
 
 ☒ Prior to pre-primary education, ECCE services are affordable
 
-☒ ECCE services are accessible on a nondiscriminatory basis
+☒ ECCE services are accessible on a non-discriminatory basis
+
+☐ ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
 - Please elaborate further on the measures taken:
 
-New Zealand places a strong emphasis on early childhood education and care, recognising its role in preparing children for  lifelong learning. Nearly all  New Zealand children attend early learning services before starting school.
+New Zealand places a strong emphasis on early childhood education and care, recognising its role in preparing children for lifelong learning. Nearly all New Zealand children attend early learning services before starting school.
 
 > 41  Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'.
 
 > 42  Which commits states to 'Enhance policy and legal frameworks to ensure that the right to education includes ECCE'
-
-☐ ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
 29
 
@@ -1371,11 +1494,11 @@ There are a variety of early learning services and kōhanga reo 43  available in
 
 For more information, see: Education (Early Childhood Services) Regulations 2008
 
-https://www.legislation.govt.nz/regulation/public/2008/0204/latest/DLM1412501.html?search=ts_act%40 bill%40regulation%40deemedreg_education_resel_25_a&p=1
+https://www.legislation.govt.nz/regulation/public/2008/0204/latest/DLM1412501.html?search=ts_act%40bill%40regulation%40deemedreg_education_resel_25_a&p=1
 
 and:  Education (Playgroups) Regulations 2008
 
-https://www.legislation.govt.nz/regulation/public/2008/0205/latest/DLM1396401.html?search=ts_act%40 bill%40regulation%40deemedreg_playgroup_resel_25_a&p=1.
+https://www.legislation.govt.nz/regulation/public/2008/0205/latest/DLM1396401.html?search=ts_act%40bill%40regulation%40deemedreg_playgroup_resel_25_a&p=1.
 
 The ECE Funding Subsidy and the 20 Hours ECE subsidy are the primary form of government funding for licensed ECE services. Licensed ECE services receiving the ECE Funding Subsidy, and the 20 Hours ECE subsidy must meet certain eligibility and funding conditions. Licensing and certification provisions are set out in regulations and in licensing criteria.
 
@@ -1391,7 +1514,7 @@ Licensed  early  learning  Services  and  certified  playgroups  will  be  legal
 
 ☒ Pre-primary education is not compulsory.
 
-- o Pre-primary education is free of charge for all. Please provide the duration and indicate the extent to which it is free:
+o Pre-primary education is free of charge for all. Please provide the duration and indicate the extent to which it is free:
 
 ☒ Pre-primary education is not free.
 
@@ -1431,7 +1554,7 @@ The review will provide a report to the Minister for Regulation (who is also the
 
 ☐ Lack of support to families
 
--Please elaborate. Brief quantitative information may be added.
+- Please elaborate. Brief quantitative information may be added.
 
 Challenges include inequities in participation for groups such as Māori and Pacific children, children with disabilities, and children from lower socio-economic backgrounds. Participation rates for Māori, Pacific and children from low socio-economic status tracked below the national average.
 
@@ -1441,9 +1564,7 @@ The quality of ECE matters for children's outcomes. Evaluations undertaken by ER
 
 Service providers say the cost and burden of regulation is too  high and getting in the way of delivering affordable services for parents. Regulatory requirements are a key driver of cost, particularly those relating to adult-to-child ratios and teaching qualification requirements, as are funding conditions (for example, those which support pay parity for teachers).
 
-A 2022 ERO report found that too many disabled children are excluded from ECE and, while many services provide safe and nurturing environments, we need to strengthen teaching practices. For more information, see: https://evidence.ero.govt.nz/documents/a-great-start-education-for-disabled-children-in-early-
-
-childhood.
+A 2022 ERO report found that too many disabled children are excluded from ECE and, while many services provide safe and nurturing environments, we need to strengthen teaching practices. For more information, see: https://evidence.ero.govt.nz/documents/a-great-start-education-for-disabled-children-in-early-childhood.
 
 #### 2.2 Primary and secondary education
 
@@ -1485,13 +1606,11 @@ State schools cannot charge for any costs associated with delivering the curricu
 
 - Attendance dues: These are compulsory for students attending state integrated schools as a condition of their enrolment. Attendance dues cover school property-related costs as these costs are managed separately by a school proprietor who must use these funds for meeting charges associated with the schools' premises.
 
-For more information, see: https://www.education.govt.nz/school/funding-and-financials/fees-charges-anddonations/.
+For more information, see: https://www.education.govt.nz/school/funding-and-financials/fees-charges-and-donations/.
 
 The Ministry of Education also provides school transport assistance to support parents and caregivers to overcome  barriers  to  education  and  meet  their  responsibility  to  get  their  students  to  school.  For  more information, see: https://www.education.govt.nz/school/property-and-transport/transport/.
 
 - What challenges were encountered in realizing primary education?
-
-- Please elaborate. Brief quantitative information may be added.
 
 ☐ Limited access
 
@@ -1505,11 +1624,16 @@ The Ministry of Education also provides school transport assistance to support p
 
 ☒ Poor learning outcomes in:
 
-Foundation literacy Numeracy Social and emotional learning Others
+Foundation literacy
+Numeracy
+Social and emotional learning
+Others
 
 ☒ Disparity in learning outcomes
 
 ☐ Low number of professionally trained teachers
+
+- Please elaborate. Brief quantitative information may be added.
 
 Challenges encountered in primary education include:
 
@@ -1569,7 +1693,7 @@ Please refer to answers provided previously above for primary education .
 
 The National Certificate in Educational Achievement (NCEA) is the main qualification for secondary school students in New Zealand. NCEA qualifications are organised by the New Zealand Qualifications Authority (NZQA). There is no charge for domestic student entry for all NCEA standards and any Scholarship subject they may wish to sit.
 
-Students can access technical and vocational training while at school. Vocational education is delivered in schools,  or  in  partnership  with  secondary  schools  and  tertiary  providers,  for  example,  through  Trades Academies. Trades Academies funding supports trades and technology programmes for senior secondary school students to provide a transition between school and tertiary education. Trades Academies teach pretrade courses to Year 11-13 students.
+Students can access technical and vocational training while at school. Vocational education is delivered in schools, or in partnership with secondary schools and tertiary providers, for example, through Trades Academies. Trades Academies funding supports trades and technology programmes for senior secondary school students to provide a transition between school and tertiary education. Trades Academies teach pre-trade courses to Year 11-13 students.
 
 - Please  indicate  whether  the  legal  minimum  age  for  employment  is  aligned  with  the  end  of  compulsory education:
 
@@ -1607,7 +1731,7 @@ There is no minimum age of entry into employment in New Zealand; however, there 
 
 - Please elaborate. Brief quantitative information may be added.
 
-Refer to challenges provided in primary education .
+Refer to challenges provided in primary education.
 
 ##### School Leavers attainment - Summary results for School Leavers 2023
 
@@ -1623,7 +1747,42 @@ School leavers' is the main measure of secondary student attainment. It focuses 
 
 In  2023, attainment rates are also lower than they were in 2019 (the year prior to COVID-19), with the greatest decrease since 2019 being 5.6 percentage points observed for NCEA Level 2 or above.
 
-Figure: School leavers' attainment, 2009 - 2023 44
+Figure: School leavers' attainment, 2009 – 2023 44
+
+Proportion of All School Leavers
+
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+
+NCEA Level 1 or above
+NCEA Level 2 or above
+NCEA Level 3 or above
+University Entrance standard
 
 The 2023 school leavers results aligned with the overall findings from the 2023 NCEA and UE statistics of attainment  for  each  year  level  (as  reported  by  New  Zealand  Qualifications  Authority  (NZQA).   NZQA reported declines in achievement of NCEA qualifications by Year 11 to 13 students from 2022 to 2023, with rates of attainment in 2023 also being lower than attainment by Year Level in 2019 for Year 11 and Year 12 learners.  The drop in attainment by year level and the increased number of students leaving school before their 17th birthday has impacted the proportions of school leavers attaining qualifications at all levels of NCEA.
 
@@ -1691,7 +1850,7 @@ The system is made up of:
 
 > 49 https://www.tec.govt.nz/vocational-education/vocational-education/delivering-vocational-education/private-training-establishments/
 
-> 50  https://www.tec.govt.nz/vocational-education/vocational-education/strengthening-vocational-education/workforce-developmentcouncils-wdcs/
+> 50  https://www.tec.govt.nz/vocational-education/vocational-education/strengthening-vocational-education/workforce-development-councils-wdcs/
 
 35
 
@@ -1703,11 +1862,11 @@ The Minister of Education sets the direction for the tertiary education system. 
 
 New Zealand's tertiary education system is open entry and is funded in a way that is not restricted by learner age.
 
-Government funds tertiary education organisations and providers via the TEC, and many tertiary education organisations also receive external funding through publicly funded research contracts. Government sets funding rules (e.g., funding rates, rules around fees free payments on behalf of learners and fee regulation) through Ministerial funding determinations issued under section 419 of the Education and Training Act 2020. This requires decisions by the Minister of Education to determine the design of funding mechanisms that the  TEC  then  use  to  fund  organisations.  Funding  Determinations  specify  the  amount  of  money,  or  the proportion,  available  under  any  particular  funding  mechanism,  any  conditions  that  TEC  must  attach  to funding, and provide for funding that targets particular groups of students. The largest fund, Qualifications Delivery, pays tuition subsidies to providers, based on the projected number of equivalent full-time student - called an EFTS. 51
+Government funds tertiary education organisations and providers via the TEC, and many tertiary education organisations also receive external funding through publicly funded research contracts. Government sets funding rules (e.g., funding rates, rules around fees free payments on behalf of learners and fee regulation) through Ministerial funding determinations issued under section 419 of the Education and Training Act 2020. This requires decisions by the Minister of Education to determine the design of funding mechanisms that the TEC then use to fund organisations. Funding Determinations specify the amount of money, or the proportion, available under any particular funding mechanism, any conditions that TEC must attach to funding, and provide for funding that targets particular groups of students. The largest fund, Qualifications Delivery, pays tuition subsidies to providers, based on the projected number of equivalent full-time student – called an EFTS. 51
 
 The  Government  contributes  to  the  cost  of  further  education  for  eligible  students  by  providing  tuition subsidies  and  targeted  fee  subsidies  but  most  New  Zealand  tertiary  education  providers  charge  fees depending on the type of course being offered.
 
-The Government has a subsidised Student Loan Scheme to help students pay for their tuition fees (and contribute to their course costs and living expenses if they are studying full-time). Student loans are interestfree and income-contingent for borrowers living in New Zealand.
+The Government has a subsidised Student Loan Scheme to help students pay for their tuition fees (and contribute to their course costs and living expenses if they are studying full-time). Student loans are interest-free and income-contingent for borrowers living in New Zealand.
 
 Student  allowance  payments  (which  are  grants)  and  living  cost  student  loans  are  the  main  ways  the government helps students to meet their living expenses. These entitlements are adjusted every year on 1 April to account for inflation.
 
@@ -1745,7 +1904,7 @@ The  Minister  of  Tertiary  Education  and  Skills  has  indicated  an  immedia
 
 #### Tertiary Education Strategy (TES)
 
-The Tertiary Education Strategy as mandated under the Education and Training Act 2020, sets out the Government's long-term strategic direction for tertiary education. For more information, see: https://www.legislation.govt.nz/act/public/2020/0038/latest/LMS202208.html. The TES includes the economic, social, and environmental goals for tertiary education, along with the development aspirations for Māori and other population groups, and the current and medium-term priorities for tertiary education. The TES includes actions that both tertiary education organisations and Government can take to help achieve the priorities. See: https://www.education.govt.nz/our-work/overall-strategies-and-policies/the-statement-ofnational-education-and-learning-priorities-nelp-and-the-tertiary-education-strategy-tes/.
+The Tertiary Education Strategy as mandated under the Education and Training Act 2020, sets out the Government's long-term strategic direction for tertiary education. For more information, see: https://www.legislation.govt.nz/act/public/2020/0038/latest/LMS202208.html. The TES includes the economic, social, and environmental goals for tertiary education, along with the development aspirations for Māori and other population groups, and the current and medium-term priorities for tertiary education. The TES includes actions that both tertiary education organisations and Government can take to help achieve the priorities. See: https://www.education.govt.nz/our-work/overall-strategies-and-policies/the-statement-of-national-education-and-learning-priorities-nelp-and-the-tertiary-education-strategy-tes/.
 
 Tertiary  education  organisations  need  to  show  how  they  will  have  regard  to  the  TES  priorities  in  their investment plans to the TEC. Tertiary education organisations are autonomous and, therefore, responsible for  their  own  operational  arrangements,  including  all  financial,  employment  and  other  management practices. This  includes the freedom of universities and  wānanga to appoint their own staff, decide the subject matter they teach, and to teach and assess in a way that they consider best promotes learning.
 
@@ -1767,13 +1926,14 @@ In  2020,  and  as  a  response  to  COVID-19,  the  Government  implemented  th
 Apprenticeship Boost provides subsidies to employers of eligible apprentices to help keep them employed and  training  towards  their  qualification  and  to  incentivise  employers  to  take  on  new  apprentices.  This initiative provides funding for targeted industries from 1 January 2025 at $500 a month per eligible apprentice and targeted to first-year  apprentices  only  (where  funding  for  second-year  apprentices  will  finish  on  31 December 2024). This  initiative  has  supported  more  than  66,000  apprentices  to  stay  in  or  take  up  an apprenticeship since the initiative was introduced in August 2020.
 
 #### Māori and Pasifika Trades Training funding
-Māori and Pasifika Trades Training (MPTT) funding provides fees-free tertiary places for Māori and Pasifika learners aged between 16 and 40 to achieve in pre-trades training and progress to sustainable trades or trades-related employment (including New Zealand Apprenticeships), other successful industry training programmes at Level 3 and above on the New Zealand Qualification Framework (NZQF), and managed apprenticeships. For more information, see: https://www.tec.govt.nz/funding/funding-andperformance/funding/fund-finder/maori-and-pasifika-tradestraining/#:~:text=M%C4%81ori%20and%20Pasifika%20Trades%20Training%20(MPTT)%20funding%20pr ovides%20fees%2D,Apprenticeships)%2C%20other%20successful%20industry%20training.
 
 37
 
 [[END OF PAGE 37]]
 
 [[START OF PAGE 38]]
+
+Māori and Pasifika Trades Training (MPTT) funding provides fees-free tertiary places for Māori and Pasifika learners aged between 16 and 40 to achieve in pre-trades training and progress to sustainable trades or trades-related employment (including New Zealand Apprenticeships), other successful industry training programmes at Level 3 and above on the New Zealand Qualification Framework (NZQF), and managed apprenticeships. For more information, see: https://www.tec.govt.nz/funding/funding-and-performance/funding/fund-finder/maori-and-pasifika-trades-training/#:~:text=M%C4%81ori%20and%20Pasifika%20Trades%20Training%20(MPTT)%20funding%20provides%20fees%2D,Apprenticeships)%2C%20other%20successful%20industry%20training.
 
 #### Youth Guarantee Fund
 
@@ -1795,15 +1955,13 @@ Youth  Guarantee  funding  provides  fees-free  tertiary  study  at  Levels  1-3
 
 ☒ Insufficient mechanisms to ensure smooth transition from secondary to tertiary
 
-- Please elaborate. Brief quantitative information may be added
-
-.
+- Please elaborate. Brief quantitative information may be added.
 
 New Zealand is facing the challenge of managing affordability and access for students, while maintaining the quality and viability of tertiary education organisations.
 
-Some groups of students are statistically less likely to succeed in tertiary education, namely Māori, Pacific, disabled, people from lower socio-economic backgrounds, and people who are the first in their family to attend tertiary education. These priority groups are disproportionately affected by external barriers to higher education pathways, including: cost of living and tertiary study; systemic biases, for example streaming in schools; capacity (time and space) to engage; lack of connections to people already on desired pathways; and  COVID-19  impacts.  For  more  information,  see:  https://www.tec.govt.nz/assets/Publications-andothers/Transitions-from-Secondary-School.pdf.
+Some groups of students are statistically less likely to succeed in tertiary education, namely Māori, Pacific, disabled, people from lower socio-economic backgrounds, and people who are the first in their family to attend tertiary education. These priority groups are disproportionately affected by external barriers to higher education pathways, including: cost of living and tertiary study; systemic biases, for example streaming in schools; capacity (time and space) to engage; lack of connections to people already on desired pathways; and COVID-19 impacts. For more information, see: https://www.tec.govt.nz/assets/Publications-and-others/Transitions-from-Secondary-School.pdf.
 
-New research on disabled students' experiences in tertiary education shows that accessing learning spaces and support can be difficult and the levels of this support can be inconsistent. It also found that barriers to inclusion, such as ableism, inaccessible events, and lack of trainings on disability, are common and power dynamics  between disabled students, teaching staff, and providers can make  advocacy  unsafe, unsupportive,  or  ineffective.  For  more  information,  see:  https://www.education.govt.nz/news/disabledstudents-face-difficulties-accessing-support-in-tertiary-education/ .
+New research on disabled students' experiences in tertiary education shows that accessing learning spaces and support can be difficult and the levels of this support can be inconsistent. It also found that barriers to inclusion, such as ableism, inaccessible events, and lack of trainings on disability, are common and power dynamics between disabled students, teaching staff, and providers can make advocacy unsafe, unsupportive, or ineffective. For more information, see: https://www.education.govt.nz/news/disabled-students-face-difficulties-accessing-support-in-tertiary-education/.
 
 ### 2.4 Adult education and alternative learning
 
@@ -1851,7 +2009,7 @@ This funding enables secondary schools to give senior learners access to structu
 
 #### Micro-credentials
 
-Micro-credentials are small, stand-alone awards with set learning outcomes. They are part of New Zealand's education and training system. Micro-credentials recognise learner's' skills, experience, or knowledge, while meeting demand from employers, industry, and communities. Although they are standalone awards, some micro-credentials may also form part of a programme that leads to a qualification.
+Micro-credentials are small, stand-alone awards with set learning outcomes. They are part of New Zealand's education and training system. Micro-credentials recognise learner's' skills, experience, or knowledge, while meeting demand from employers, industry, and communities. Although they are stand-alone awards, some micro-credentials may also form part of a programme that leads to a qualification.
 
 - What challenges were encountered in realizing adult learning and education?
 
@@ -1875,7 +2033,7 @@ Common challenges identified by learners included managing academic requirements
 
 Challenges for providers include meeting the diverse needs of learners and resourcing.
 
-## 3 . Quality education provision and learning environment
+## 3. Quality education provision and learning environment
 
 For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
 
@@ -1965,7 +2123,7 @@ The Education and Training Act  2020  has  provisions regarding the regulation o
 
 - The administration of tertiary institutions
 
-- Te Pūkenga-New Zealand Institute of Skills and Technology
+- Te Pūkenga—New Zealand Institute of Skills and Technology
 
 - Private training establishments
 
@@ -2115,7 +2273,7 @@ In 2023, the Education and Training Amendment Act 2023 clarified police vetting 
 
 #### Salaries in Schools and Kindergartens
 
-Salaries  and  other  terms  and  conditions  for  teachers,  in  state  and  state-integrated  schools  and  in kindergartens, are determined through collective bargaining. The negotiations take place no less than every three years between education unions and the Secretary for Education, under delegation from the Public Service  Commissioner.  The  cyclical  nature  of  collective  bargaining  ensures  that  salaries  are  adjusted according to cultural and environmental factors on a regular basis. All trained teachers in state and stateintegrated schools and in kindergartens are paid on the Unified Base Salary Scale which provides parity for base remuneration across these settings, according to their qualifications and teaching experience. Entry salary is assessed by the Ministry of Education taking into account academic qualifications, any teaching experience and other relevant work experience.
+Salaries and other terms and conditions for teachers, in state and state-integrated schools and in kindergartens, are determined through collective bargaining. The negotiations take place no less than every
 
 > 54  Entry requirements for Initial Teacher Education (ITE) programmes :: Teaching Council of Aotearoa New Zealand
 
@@ -2126,6 +2284,8 @@ Salaries  and  other  terms  and  conditions  for  teachers,  in  state  and  st
 [[END OF PAGE 43]]
 
 [[START OF PAGE 44]]
+
+three years between education unions and the Secretary for Education, under delegation from the Public Service Commissioner. The cyclical nature of collective bargaining ensures that salaries are adjusted according to cultural and environmental factors on a regular basis. All trained teachers in state and state-integrated schools and in kindergartens are paid on the Unified Base Salary Scale which provides parity for base remuneration across these settings, according to their qualifications and teaching experience. Entry salary is assessed by the Ministry of Education taking into account academic qualifications, any teaching experience and other relevant work experience.
 
 In addition to their base salary, teachers earn additional salary units and allowances. Schools allocate units to teachers for additional responsibilities such as management roles, curriculum development, or pastoral care.
 
@@ -2200,7 +2360,7 @@ The funding will be used to:
 
 - Fund 670 Study Awards and support grants for current teachers offered each year to reflect current teacher salary rates for professional learning and development.
 
-For  more  information,  see:  https://www.beehive.govt.nz/release/major-investment-teacher-supply-throughbudget-24.
+For more information, see: https://www.beehive.govt.nz/release/major-investment-teacher-supply-through-budget-24.
 
 #### Kahui Ako
 
@@ -2236,13 +2396,13 @@ Performance  monitoring  is  provided  through  the  Professional  Growth  Cycle
 
 #### Teacher workforce
 
-There are ongoing shortages of qualified teachers at the secondary school level, and these are projected to continue for some years. Anecdotally, the shortages are particularly pronounced in STEM subjects and in te reo Māori. In English-medium secondary education, the shortage is set to increase from 227 in 2024 to 679 by 2026.  English-medium Primary education has sufficient teacher supply for now at a nationwide level, with  a  projected  supply  of  593  to  1,217  teachers  from  2024  to  2026.  For  more  information,  see: https://www.educationcounts.govt.nz/publications/series/a-summary-of-the-teacher-demand-and-supplyplanning-tool.
+There are ongoing shortages of qualified teachers at the secondary school level, and these are projected to continue for some years. Anecdotally, the shortages are particularly pronounced in STEM subjects and in te reo Māori. In English-medium secondary education, the shortage is set to increase from 227 in 2024 to 679 by 2026. English-medium Primary education has sufficient teacher supply for now at a nationwide level, with a projected supply of 593 to 1,217 teachers from 2024 to 2026. For more information, see: https://www.educationcounts.govt.nz/publications/series/a-summary-of-the-teacher-demand-and-supply-planning-tool.
 
 There are also challenges in the consistency of teaching quality, with recognised issues including lack of cultural responsiveness, bias and lack of inclusion of students with disability and/or learning support needs. These issues continue to be the focus of funding for professional learning development for teachers.
 
 New Zealand has an extensive work programme underway to strengthen the education system, from early childhood education through to tertiary and beyond, including work to overcome challenges. This includes a priority to focus on developing the workforce need for the future.
 
-The Council sets a Code of Professional Responsibility and Standards for the Teaching Profession, and teachers must meet these standards in order to renew their certification. The Teaching Council deals with concerns about a teacher's competence or conduct through its disciplinary functions, including the quasijudicial Complaints Assessment Committee and Disciplinary Tribunal. The Teaching Council also reviews and approves initial teacher education programmes, which lead to registration as a teacher
+The Council sets a Code of Professional Responsibility and Standards for the Teaching Profession, and teachers must meet these standards in order to renew their certification. The Teaching Council deals with concerns about a teacher's competence or conduct through its disciplinary functions, including the quasi-judicial Complaints Assessment Committee and Disciplinary Tribunal. The Teaching Council also reviews and approves initial teacher education programmes, which lead to registration as a teacher
 
 ### 3.3 Respect for human rights and fundamental freedoms
 
@@ -2254,7 +2414,7 @@ For  reference:  Article/Paragraph  5(1)(a)  of  the  Convention/Recommendation 
 
 ☒ Educational and/or extracurricular activities are organized on human rights education.
 
-- o Other:
+o Other:
 
 - Please elaborate on each of the measures taken:
 
@@ -2278,7 +2438,7 @@ Te Marautanga o Aotearoa incorporates a vision and principles for the revitalisa
 
 All  learners  should have the opportunity to acquire knowledge in all learning areas and to develop key competencies.  Through  this  approach,  they  will  be  able  to  reach  their  full  potential,  and  to  participate effectively and positively in the Māori community and the global world.
 
-The school-based curriculum provides for learning programmes which affirm and revitalise Māori language and culture. The primary aim is that the learner will be confident in the Māori world. Second, the schoolbased curriculum will provide experiences that enable the learner to participate in the wider society.
+The school-based curriculum provides for learning programmes which affirm and revitalise Māori language and culture. The primary aim is that the learner will be confident in the Māori world. Second, the school-based curriculum will provide experiences that enable the learner to participate in the wider society.
 
 ### 3.4 Non-state actors in education
 
@@ -2446,7 +2606,7 @@ Section 196 of the Education and Training Act 2020 provides that a distance scho
 
 In New Zealand, governance of the education system is hierarchically devolved with areas of responsibility at various levels between the Minister, the Secretary of Education, education providers, schools and kura have autonomy over how they meet curriculum expectations, and for assessment, and resource allocation.
 
-Responsibilities for providing digital technologies in education follow the devolved approach, with part of the digital education infrastructure provided centrally and other parts acquired locally. While provision of digital infrastructure to schools is partly devolved, the overarching rules that govern the access to and use of data and digital technologies in education, including data protection and privacy, are enacted by the central government and apply to all educational levels. The Education and Training Act 2020 contains some provisions that are directly relevant to how schools should manage certain incidents involving digital technology.
+Responsibilities for providing digital technologies in education follow the devolved approach, with part of the digital education infrastructure provided centrally and other parts acquired locally. While provision of digital infrastructure to schools is partly devolved, the overarching rules that govern the access to and use of data and digital technologies in education, including data protection and privacy, are enacted by the central government and apply to all educational levels. The Education and Training Act 2020 contains
 
 > 59  Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment.
 
@@ -2458,7 +2618,9 @@ Responsibilities for providing digital technologies in education follow the devo
 
 [[START OF PAGE 51]]
 
-Central government publicly provides, funds or partly funds digital infrastructure for system and institutional management  at  all  levels  of  education  for  state  and  state-integrated  schools.  This  includes  internet connectivity, cyber protection, laptops for teachers and a limited form of student information system that tracks compulsory sector enrolment, exam administration systems, and some administrative and facility management  systems.  Independent  private  schools  fall  outside  the  remit  of  the  government's  digital strategy and their provision and funding of digital infrastructure. While they are part-financed by the state, they must acquire their digital hardware infrastructure (Internet and devices) with their own budget and in some cases may not be able to access publicly procured software made available to public state schools by the Ministry of Education.
+some provisions that are directly relevant to how schools should manage certain incidents involving digital technology.
+
+Central government publicly provides, funds or partly funds digital infrastructure for system and institutional management at all levels of education for state and state-integrated schools. This includes internet connectivity, cyber protection, laptops for teachers and a limited form of student information system that tracks compulsory sector enrolment, exam administration systems, and some administrative and facility management systems. Independent private schools fall outside the remit of the government’s digital strategy and their provision and funding of digital infrastructure. While they are part-financed by the state, they must acquire their digital hardware infrastructure (Internet and devices) with their own budget and in some cases may not be able to access publicly procured software made available to public state schools by the Ministry of Education.
 
 The Ministry of Education funds Te Aho o Te Kura Pounamu, a distance education provider that offers a wide range of learning programmes for students (early childhood through to secondary education) and follows the national curriculum. For more information, see: https://www.tekura.school.nz/.
 
@@ -2466,14 +2628,14 @@ New Zealand has invested in supporting access to technologies in educational ins
 
 #### Connected Ako: Digital and Data for Learning
 
-In  June 2023, Connected Ako: Digital and Data for Learning -  a  strategy  for  education  agencies  was released  as  a  major  refresh  of  New  Zealand's  digital  education  strategy,  taking  into  account  lessons learned in the COVID-19 pandemic and advances in education technology and data analytics. Connected Ako,  Digital  and  Data  for  Learning,  is  a  10-year  strategy  (2023-2033)  to  guide  the  digital  and  data approaches  of  New  Zealand  government  education  agencies.  The  principles  will  help  shape  ongoing budget and resource decision-making by education agencies. A light-touch monitoring mechanism is being put in place through a board which has representation from the Ministry of Education, NZQA, and TEC. For more information, see: https://www.education.govt.nz/digitalstrategy/.
+In June 2023, Connected Ako: Digital and Data for Learning – a strategy for education agencies was released as a major refresh of New Zealand’s digital education strategy, taking into account lessons learned in the COVID-19 pandemic and advances in education technology and data analytics. Connected Ako, Digital and Data for Learning, is a 10-year strategy (2023-2033) to guide the digital and data approaches of New Zealand government education agencies. The principles will help shape ongoing budget and resource decision-making by education agencies. A light-touch monitoring mechanism is being put in place through a board which has representation from the Ministry of Education, NZQA, and TEC. For more information, see: https://www.education.govt.nz/digitalstrategy/.
 
 #### Digital Strategy for Aotearoa and Action Plan
 
-More broadly, New Zealand has a national digitalisation strategy, the 'Digital Strategy for Aotearoa and Action Plan', to modernise and transform public services. Please note that digitalisation of the education system does not explicitly feature in the strategy. The Government has also created Chief Digital Officer, Chief  Data  Steward  and  Chief  Information  Security  Officer  roles  to  support  a  whole-of-government approach. For more information, see: https://www.digital.govt.nz/digital-government/strategy/digitalstrategy-for-aotearoa-and-action-plan/.
+More broadly, New Zealand has a national digitalisation strategy, the “Digital Strategy for Aotearoa and Action Plan”, to modernise and transform public services. Please note that digitalisation of the education system does not explicitly feature in the strategy. The Government has also created Chief Digital Officer, Chief Data Steward and Chief Information Security Officer roles to support a whole-of-government approach. For more information, see: https://www.digital.govt.nz/digital-government/strategy/digital-strategy-for-aotearoa-and-action-plan/.
 
 #### Digital Identity for learning and assessment, Education Data Framework
-For Digital Identity for Online learning, see: http://www.education.govt.nz/school/digitaltechnology/software/digital-identity-for-online-learning-di4ol/. .
+For Digital Identity for Online learning, see: http://www.education.govt.nz/school/digital-technology/software/digital-identity-for-online-learning-di4ol/. .
 
 #### Digital Technologies and Hangarau Matihiko curriculum
 
@@ -2493,17 +2655,17 @@ Schools are required to develop strategic and annual plans and report to the Min
 
 Implementing smarter and consistent assessment is one of the key education priorities of the government.
 
-Not enough schools are using robust tools that consistently measure student progress, which risks students not being offered additional support early enough. This could lead to them falling behind in their learning. And it's likely to be the most vulnerable and transient students who are most affected by this lack of consistency in the education system.
+Not enough schools are using robust tools that consistently measure student progress, which risks students not being offered additional support early enough. This could lead to them falling behind in their learning. And it’s likely to be the most vulnerable and transient students who are most affected by this lack of consistency in the education system.
 
 It also means there is limited data on how all students in New Zealand are progressing with their core skills. It is too late to find out at Year 10 or 11 when a student does the NCEA co-requisite that their reading, writing and maths skills are not at the expected level.
 
-The Ministry is looking to make changes to the education system, so we have a consistent, coherent approach to assessment. As part of these changes, schools and kura will transition to do twice yearly assessments for students in Years 3 - 8 to monitor their progress in reading, writing, maths, pānui, tuhituhi and pāngarau using one of the standardised assessment tools (e-asTTle, Progressive Achievement Tests (PAT) and Te Waharoa Ararau (TWA).
+The Ministry is looking to make changes to the education system, so we have a consistent, coherent approach to assessment. As part of these changes, schools and kura will transition to do twice yearly assessments for students in Years 3 – 8 to monitor their progress in reading, writing, maths, pānui, tuhituhi and pāngarau using one of the standardised assessment tools (e-asTTle, Progressive Achievement Tests (PAT) and Te Waharoa Ararau (TWA).
 
 This will help teachers check students are progressing at expected levels, enabling them to provide support those who need additional help. This will also help parents, whānau and caregivers to clearly see how their child is progressing, and whether additional help or extension is needed.
 
 #### Formative assessment tools
 
-The  Ministry  of  Education  provides  digital  tools  for  assessment  to  support  student  progress  and achievement.  For example, the electronic assessment Tool for Teaching and learning (e-asTTle) is an online assessment tool developed to assess students' achievement and progress in reading, mathematics, writing, and in pānui, pāngarau, and tuhituhi (Māori-medium). The tool is used nationally and is designed to  provide  reliable  and  valid  assessment  information  for  teachers  and  students  which  can  be  used  to enhance and support teaching and learning.
+The Ministry of Education provides digital tools for assessment to support student progress and achievement. For example, the electronic assessment Tool for Teaching and learning (e-asTTle) is an online assessment tool developed to assess students’ achievement and progress in reading, mathematics, writing, and in pānui, pāngarau, and tuhituhi (Māori-medium). The tool is used nationally and is designed to provide reliable and valid assessment information for teachers and students which can be used to enhance and support teaching and learning.
 
 - What challenges were encountered in digital education provision (check all that apply)?
 
@@ -2531,7 +2693,7 @@ The  Ministry  of  Education  provides  digital  tools  for  assessment  to  sup
 
 During  COVID-19,  the  Ministry  of  Education  worked  to  overcome  the  digital  divide  created  by  the requirement for remote learning during school closures. It provided access to internet connectivity to more than 40,000 households, digital resources, and other learning equipment.  In 2021, research found  that affordability of devices and connection was, and remains, a barrier to digital inclusion, and coordinated and accelerated action on digital inclusion is required. For more information, see: https://www.digital.govt.nz/showcase/tackling-the-digital-divide-during-covid-19/.
 
-The Ministry of Education's Equitable Digital Access (EDA) initiative has been working with schools and community organisations to identify home connectivity gaps for students in rural and remote areas as part of Ministry of Education's distance learning support initiative. The Ministry of Education has connected over 3,300  student  households  in  rural  zones,  including  over  760  homes  during  the  final  extension  of  the programme (it is due to end on 30 June 2024). The connections were provided using a wide range of technology solutions, including conventional satellite and more recently Starlink connections.
+The Ministry of Education’s Equitable Digital Access (EDA) initiative has been working with schools and community organisations to identify home connectivity gaps for students in rural and remote areas as part of Ministry of Education’s distance learning support initiative. The Ministry of Education has connected over 3,300 student households in rural zones, including over 760 homes during the final extension of the
 
 52
 
@@ -2539,11 +2701,13 @@ The Ministry of Education's Equitable Digital Access (EDA) initiative has been w
 
 [[START OF PAGE 53]]
 
+programme (it is due to end on 30 June 2024). The connections were provided using a wide range of technology solutions, including conventional satellite and more recently Starlink connections.
+
 For one year from July 2024, the Ministry is partnering with the Manaiakalani Education Trust, to coordinate between families and internet service providers, and continue offering internet connections to families.
 
 ## 4 Strengthening governance systems
 
-For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management  information  systems;  transparent  and  effective  financing  procedures  and  mechanisms;  and institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and  accessible  data  are available' (para. 18).
+For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for effective education outcomes, governments should strengthen education systems by instituting and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional management arrangements, as well as ensure that robust, timely and accessible data are available” (para. 18).
 
 - Please indicate the measures taken in terms of governance (several items may be ticked):
 
@@ -2553,15 +2717,15 @@ For reference: The Education 2030 Framework for Action states "to ensure quality
 
 In New Zealand, governance of different parts of the education system is set at the appropriate level for that part. There is no middle-level school administration. Schools are managed by school boards with a focus on  student  achievement.  The  role  of  government  education  agencies  has  been  refocused  to  support education  system  leaders,  such  as  teachers  and  education  providers.  The  government  sets  annual objectives in a Statement of Intent for its central education agencies, and the Ministry of Education develops a national policy framework. Funding aims to support free schooling, and although tertiary study involves costs to the student, financial support is available. A part of the funding that tertiary institutions receive depends on student achievement.
 
-In New Zealand, the school board is the governing body of the school, composed of five elected parent representatives, the principal, a student (secondary schools only) and a teacher representative. The board is the employer of staff and has responsibilities for setting targets and reporting on them, management of school  curriculum,  financial  and  property  management,  health  and  safety  and  policies  and  procedures, student  achievements  and  discipline.  The  board  also  plays  a  key  role  in  supporting  principals  in  their planning, reporting and self-review tasks and in evaluating them. Many of the board's responsibilities are delegated to the principal on a day-to-day basis, but the school board is ultimately collectively responsible for all governance decisions.
+In New Zealand, the school board is the governing body of the school, composed of five elected parent representatives, the principal, a student (secondary schools only) and a teacher representative. The board is the employer of staff and has responsibilities for setting targets and reporting on them, management of school curriculum, financial and property management, health and safety and policies and procedures, student achievements and discipline. The board also plays a key role in supporting principals in their planning, reporting and self-review tasks and in evaluating them. Many of the board’s responsibilities are delegated to the principal on a day-to-day basis, but the school board is ultimately collectively responsible for all governance decisions.
 
 The School Trustees Association, funded by the Ministry of Education, provides support services to boards, including principals. The Association employs people with a background in school governance (e.g., former board members) as well as specialists in areas for which boards are responsible (e.g., employment lawyers). It also helps spread best practice via a large annual national conference and in advisory services to schools.
 
-The  tertiary  education  system  is  designed  so  that  there  is  limited  direct  influence  in  the  day-to-day functioning of the Crown agencies that oversee tertiary education and the organisations that deliver it. This protects institutional autonomy and keeps separate the government's purchasing and investment role (TEC), its quality assurance role (NZQA) and its policy, legislative roles (Ministry of Education).
+The tertiary education system is designed so that there is limited direct influence in the day-to-day functioning of the Crown agencies that oversee tertiary education and the organisations that deliver it. This protects institutional autonomy and keeps separate the government’s purchasing and investment role (TEC), its quality assurance role (NZQA) and its policy, legislative roles (Ministry of Education).
 
 ### Wānanga
 
-Wānanga play a unique role in the tertiary education sector because of their 'for Māori, by Māori' approach, commitment to and involvement with the protection and revitalisation of te ao, te reo and mātauranga Māori. The Education and Training Amendment Act 2023 established a new Wānanga Enabling Framework. This Act amends the Education and Training Act 2020, establishing a new 'enabling' framework for the wānanga sector creating new fit-for-purpose administrative settings for wānanga to recognise their unique role. For more information, see: https://www.education.govt.nz/our-work/legislation/wananga-sector-framework/.
+Wānanga play a unique role in the tertiary education sector because of their ‘for Māori, by Māori’ approach, commitment to and involvement with the protection and revitalisation of te ao, te reo and mātauranga Māori. The Education and Training Amendment Act 2023 established a new Wānanga Enabling Framework. This Act amends the Education and Training Act 2020, establishing a new 'enabling' framework for the wānanga sector creating new fit-for-purpose administrative settings for wānanga to recognise their unique role. For more information, see: https://www.education.govt.nz/our-work/legislation/wananga-sector-framework/.
 
 The framework is intended to foster a flourishing wānanga sector that normalises te reo and mātauranga Māori and strengthens a sense of identity and culture for Māori learners. It is expected that this will, in turn, lead  to  associated  wellbeing  impacts  and  higher  learning  outcomes  for  Māori  learners.  This  significant reform will allow for the transfer of some governance and accountability arrangements currently held by the Crown to the founding iwi or hapū of a wānanga or another Māori organisation.
 
@@ -2577,9 +2741,9 @@ The  Ministry  of  Education  monitors  three  Crown  entities:  Education  New 
 
 ### Education Review Office
 
-ERO is the New Zealand government's external education evaluation agency. ERO evaluate and report on the education and care of learners in schools and early childhood services.
+ERO is the New Zealand government’s external education evaluation agency. ERO evaluate and report on the education and care of learners in schools and early childhood services.
 
-The Chief Executive, who is also the Chief Review Officer (CRO), assigns approximately 135 review officers to undertake reviews across the country. The CRO's functions and powers are described in the Education and Training Act 2020, Part 5, subpart 3 and Part 6, subpart 6. The Act gives the CRO the power to initiate reviews, report and publish findings on the provision of education and the care for children and young people in New Zealand. This takes place in Māori-medium, English-medium and Pacific-medium contexts through:
+The Chief Executive, who is also the Chief Review Officer (CRO), assigns approximately 135 review officers to undertake reviews across the country. The CRO’s functions and powers are described in the Education and Training Act 2020, Part 5, subpart 3 and Part 6, subpart 6. The Act gives the CRO the power to initiate reviews, report and publish findings on the provision of education and the care for children and young people in New Zealand. This takes place in Māori-medium, English-medium and Pacific-medium contexts through:
 
 - Regular institutional reviews
 
@@ -2589,7 +2753,7 @@ ERO undertakes regular institutional reviews. Reviews of schools are focused on 
 
 ERO conducts research and evaluations on the performance of the education system with the purpose of providing unbiased evidence to the education sector. These findings can be shared and used as a catalyst for change in achieving participation, engagement, and achievement for all learners.
 
-ERO's  focus  areas  are  wide  ranging,  including  the  evaluation  of  groups  of  students  such  high  priority learners, key aspects in the provision in the New Zealand curriculum, and key issues affecting learners such as bullying  and  learner  wellbeing.  National  evaluations  capture  the  voice  of  children  and  young  people through student surveys, focus groups or interviews, and student perspectives from institutional reviews. ERO uses its findings and the information it gathers to remain well-informed about what's happening at a system level and the effectiveness of programmes and investments that make the biggest difference to learner outcomes. For more information, see: https://ero.govt.nz/.
+ERO’s focus areas are wide ranging, including the evaluation of groups of students such high priority learners, key aspects in the provision in the New Zealand curriculum, and key issues affecting learners such as bullying and learner wellbeing. National evaluations capture the voice of children and young people through student surveys, focus groups or interviews, and student perspectives from institutional reviews. ERO uses its findings and the information it gathers to remain well-informed about what’s happening at a system level and the effectiveness of programmes and investments that make the biggest difference to learner outcomes. For more information, see: https://ero.govt.nz/.
 
 ### Tertiary Education Commission (TEC)
 
@@ -2597,7 +2761,7 @@ The  TEC  is  a  Crown  entity  established  under  section  159C  of  the  Educ
 
 TEC use audits and investigations to monitor individual tertiary education organisations and help them to address specific issues. They also undertake reviews of system-level trends and issues and share findings with the sector to help tertiary education organisations improve their performance and compliance.
 
-The TEC also has specific functions relating to the monitoring of tertiary education institutions, the financial performance of the tertiary sector, and supporting their governance. This is to ensure the public can have confidence in the stability of the tertiary education sector in New Zealand and to minimise risks to the Crown. For more information, see: https://www.tec.govt.nz/funding/funding-andperformance/monitoring-tertiary-education-sector/monitoring-the-tertiary-education-sector-2/.
+The TEC also has specific functions relating to the monitoring of tertiary education institutions, the financial performance of the tertiary sector, and supporting their governance. This is to ensure the public can have confidence in the stability of the tertiary education sector in New Zealand and to minimise risks to the Crown. For more information, see: https://www.tec.govt.nz/funding/funding-and-performance/monitoring-tertiary-education-sector/monitoring-the-tertiary-education-sector-2/.
 
 ### New Zealand Qualifications Authority
 
@@ -2645,8 +2809,6 @@ NZQA are responsibilities include to:
 
 - Please elaborate on each of the measures taken:
 
-- Please elaborate. Brief quantitative information may be added.
-
 See above.
 
 - What challenges were encountered in terms of governance?
@@ -2657,19 +2819,21 @@ See above.
 
 lack of cooperation/coordination at different levels
 
-☐ Poor dialogue with teachers' trade unions
+☐ Poor dialogue with teachers’ trade unions
 
 ☐ Other:
 
 ☐ Absence  of  supportive/  inconsistent/obsolete legal and policy environment
 
-☐ Lack  or  weakness  of  monitoring  systems  - including the lack of reliable data
+☐ Lack or weakness of monitoring systems – including the lack of reliable data
 
-The  design  of  New  Zealand's  education  system  (where  schools  largely  operate  as  autonomous,  selfmanaging entities) works well for many schools, but is not without its challenges. The highly devolved system of  school  governance  empowers  schools  with  greater  flexibility  to  be  responsive  to  diverse  needs  and aspirations of the communities they serve. However, schools are largely left to operate on their own, often with slow and uneven transfers of professional knowledge, skills, and best practice, as well as duplication of effort. This has resulted in wide variability in learners' outcomes, both across and within schools. Despite a solid school governance support system, the burden on school boards and principals is high. The nature of the relationship between schools and central government can also be highly variable, and there is an opportunity for the system to be more cohesive and connected across all levels of the system.
+- Please elaborate. Brief quantitative information may be added.
+
+The design of New Zealand’s education system (where schools largely operate as autonomous, self-managing entities) works well for many schools, but is not without its challenges. The highly devolved system of school governance empowers schools with greater flexibility to be responsive to diverse needs and aspirations of the communities they serve. However, schools are largely left to operate on their own, often with slow and uneven transfers of professional knowledge, skills, and best practice, as well as duplication of effort. This has resulted in wide variability in learners’ outcomes, both across and within schools. Despite a solid school governance support system, the burden on school boards and principals is high. The nature of the relationship between schools and central government can also be highly variable, and there is an opportunity for the system to be more cohesive and connected across all levels of the system.
 
 While these challenges do exist, however, New Zealand has an extensive work programme underway to strengthen the education system, from early childhood education through to  higher education, including work to overcome challenges in the schooling system (and its governance).
 
-# Methods used to draw the attention of the various authorities in the country to the instruments
+# III. Methods used to draw the attention of the various authorities in the country to the instruments
 For reference: UNESCO governing bodies have underlined the need for awareness raising. Given the importance of normative action at the national level, wide dissemination of the Convention must be ensured, with the support of National Commissions for UNESCO.
 
 - Have  activities  been  carried  out  to  draw  the  attention  of  the  various  authorities  of  the  country  to  the Convention/Recommendation and their provisions about the right to education and to raise awareness of the principles of non-discrimination and equality of educational opportunities? (Several items may be ticked)
@@ -2678,9 +2842,7 @@ For reference: UNESCO governing bodies have underlined the need for awareness ra
 
 ☐ Dissemination and advocacy of the core content of the Convention/Recommendation or the core principles of the right to education including through appropriate materials and resources
 
-☒ Activities undertaken or supported by the National Commission to promote non-discrimination and equality of educational opportunities and to foster debate on critical issues in relation to the rights enshrined in the
-
-- instruments
+☒ Activities undertaken or supported by the National Commission to promote non-discrimination and equality of educational opportunities and to foster debate on critical issues in relation to the rights enshrined in the instruments
 
 55
 
