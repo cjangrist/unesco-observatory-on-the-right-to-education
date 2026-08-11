@@ -1,8 +1,11 @@
 [[START OF PAGE 1]]
 
-Spécial Lois 02549
+Spécial VI.A.01
 
-VI.A.01 p.1
+Lois 02549 p.1
+
+Centre de documentation administrative L. 06-07-1970
+Secrétariat général mis à jour au 01/09/2004
 
 intitulé complété par L. 11-03-1986 ; modifié par D. 03-03-2004
 
@@ -11,10 +14,11 @@ intitulé complété par L. 11-03-1986 ; modifié par D. 03-03-2004
 L. 06-07-1970 M.B. 25-08-1970
 
 modifications :
---- | ---
-L. 12-07-74 (M.B. 09-10-74) L. 11-03-86 (M.B. 13-09-86) D. 19-07-91 (M.B. D. 13-07-98 (M.B. D. 03-03-04 (M.B. 03-06-04) | L. 29-06-83 (M.B. 06-07-83) D. 28-01-91 (M.B. 19-02-91) D. 24-07-97 (M.B. 05-11-97) D. 11-07-02 (M.B. 31-08-02)
-26-09-91)
-28-08-98)
+L. 12-07-74 (M.B. 09-10-74) L. 29-06-83 (M.B. 06-07-83)
+L. 11-03-86 (M.B. 13-09-86) D. 28-01-91 (M.B. 19-02-91)
+D. 19-07-91 (M.B. 26-09-91) D. 24-07-97 (M.B. 05-11-97)
+D. 13-07-98 (M.B. 28-08-98) D. 11-07-02 (M.B. 31-08-02)
+D. 03-03-04 (M.B. 03-06-04)
 
 Les Chambres ont adopté et Nous sanctionnons ce qui suit :
 
@@ -33,11 +37,5 @@ Les  membres  du  personnel  des  établissements  et  des sections d'enseigneme
 L'Etat  prend  en  charge,  suivant  des  modalités  à  fixer par le Roi, par type d'enseignement spécialisé et par niveau d'enseignement et  sur  avis  du  Conseil  supérieur  de  l'enseignement  spécialisé,  les  frais  de déplacement des enfants ou adolescents à besoins spécifiques se rendant de leur résidence, du home ou de la famille d'accueil à un établissement ou de leur résidence à l'institut d'enseignement spécialisé, au home ou à la famille d'accueil,  ainsi  que  les  frais  de  voyage  de  retour  au  lieu  de  départ,  et  ce pendant toute la durée de leur fréquentation de l'enseignement spécialisé.
 
 (…)
-
-L. 06-07-1970 mis à jour au 01/09/2004
-
-Centre de documentation administrative
-
-Secrétariat général
 
 [[END OF PAGE 1]]
