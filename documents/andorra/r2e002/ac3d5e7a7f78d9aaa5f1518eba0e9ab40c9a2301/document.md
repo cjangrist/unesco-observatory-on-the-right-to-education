@@ -1,12 +1,13 @@
 [[START OF PAGE 1]]
-
-# PLA D'ESTUDIS
+Govern d’Andorra
+Presentació
+# PLA D’ESTUDIS
 
 ## Segona ensenyança Curs 2013-2014
 
 Pla estratègic per a la Renovació i Millora del Sistema Educatiu Andorrà
 
-Ministeri d'Educació i Joventut Andorra la Vella 31 d'octubre del 2013
+Ministeri d’Educació i Joventut Andorra la Vella 31 d’octubre del 2013
 
 [[END OF PAGE 1]]
 
@@ -14,7 +15,7 @@ Ministeri d'Educació i Joventut Andorra la Vella 31 d'octubre del 2013
 
 Dedicació horari lectiu setmanal 1r cicle
 --- | --- | ---
-Situació espai global | A - 5.00 h B - 5.00 h
+Situació espai global | A – 5.00 h B – 5.00 h
 Català | 1.30h | 7.30h
 Francès | 1.30h
 Castellà | 1.30h
