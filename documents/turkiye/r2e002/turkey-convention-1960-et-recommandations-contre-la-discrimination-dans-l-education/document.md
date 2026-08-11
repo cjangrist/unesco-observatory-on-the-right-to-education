@@ -8,23 +8,23 @@ Country name: TURKEY
 
 Organization or entity responsible for the preparation of the report: Directorate General For EU and Foreign Relations/Ministry of National Education
 
-## Information on the legislative, judicial, administrative and other measures taken by the state at the national level
+## I. Information on the legislative, judicial, administrative and other measures taken by the state at the national level
 
-### Ratification of the Convention 1
+### 1. Ratification of the Convention1
 
 Is your country a State Party to the Convention?
 
-o Yes
+☐ Yes
 
-No: Does your country plan to ratify this instrument?
+☒ No: Does your country plan to ratify this instrument?
 
-o Yes: Please indicate the stage of ratification process reached by your country:
+☐ Yes: Please indicate the stage of ratification process reached by your country:
 
-o Close to ratification
+☐ Close to ratification
 
-o Underway
+☐ Underway
 
-o Actively under preparation
+☐ Actively under preparation
 
 - Please  briefly  explain  the  difficulties  encountered  in  completing  the  ratification process and the means of overcoming them:
 
@@ -34,7 +34,7 @@ Describe:
 
 - è the means of overcoming them and the extent to which UNESCO can assist in completing the process
 
-o No, not considering ratification in the near future. Please explain why:
+☐ No, not considering ratification in the near future. Please explain why:
 
 1
 
@@ -46,37 +46,37 @@ http://portal.unesco.org/en/ev.php-URL_ID=12949&URL_DO=DO_TOPIC&URL_SECTION=201.
 
 [[START OF PAGE 2]]
 
-### Ratification of the Protocol 2 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
+### 2. Ratification of the Protocol2 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
 
 Has your country ratified the Protocol?
 
-o Yes
+☐ Yes
 
-- No, please briefly explain the difficulties encountered:
+☒ No, please briefly explain the difficulties encountered:
 
-### Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
+### 3. Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
 
 In case your country is a State Party to the Convention:
 
 - Is the Convention directly applicable in your country's domestic law following its ratification?
 
-o Yes
+☐ Yes
 
-o No
+☐ No
 
 - If not, has it been incorporated into the national Constitution or domestic law so as to be directly applicable?
 
-o Yes
+☐ Yes
 
-o No
+☐ No
 
 This seeks information on whether the provisions of the Convention are guaranteed in a domestic  legal  instrument.  The  report  should  list  the  main  legal  texts  (Constitution, legislative text or other provisions) adopted to guarantee the right to education for all and to promote equal educational opportunities. References, dates and aims could be provided.
 
 - Have the provisions of the Convention been invoked before and given effect to by courts, tribunals and administrative authorities?
 
-o Yes
+☐ Yes
 
-o No
+☐ No
 
 If yes, please illustrate on the basis of available case law and jurisprudence. Information could also be given about the judicial, administrative and other competent authorities having jurisdiction with respect to the rights guaranteed by the Convention and the scope of such competence.
 
@@ -92,9 +92,9 @@ http://portal.unesco.org/en/ev.php-URL_ID=15321&URL_DO=DO_TOPIC&URL_SECTION=201.
 
 [[START OF PAGE 3]]
 
-Yes
+☒ Yes
 
-o No
+☐ No
 
 If yes, the report could list the main texts adopted to guarantee the right to education for all and to  promote  equal  educational  opportunities.  References,  dates  and  aims  could  be provided.
 
@@ -140,7 +140,7 @@ The right to education is a universal right guaranteed by the Constitution of th
 
 [[START OF PAGE 5]]
 
-There is no gender discrimination in education; on the contrary, positive discrimination policies have been implimented in favor of girls . With the view to involve girls in the education  system  who  are  not  sent  to  school  for  various  reasons  and  to  ensure  their attendance,  some  initiatives  such  as  different  projects,  programs,  campaigns  are frequently  implemented  by  both  public  institutions  and  the  private  sector,  nongovernmental  organizations,  especially  the  Ministry  of  National  Education.  In  this framework, there are many successful examples such as the Campaign called 'Haydi Kızlar Okula' (Hey Girls, Let's Go to School), the Project for Increasing Enrolment Rates Especially  for  Girls  (KEP1),  the  Project  for  Increasing  School  Attendance  Rates Especially for Girls (KEP2), and Eliminating Gender Inequality in Education Project.
+There is no gender discrimination in education; on the contrary, positive discrimination policies have been implimented in favor of girls. With the view to involve girls in the education system who are not sent to school for various reasons and to ensure their attendance, some initiatives such as different projects, programs, campaigns are frequently implemented by both public institutions and the private sector, non-governmental organizations, especially the Ministry of National Education. In this framework, there are many successful examples such as the Campaign called 'Haydi Kızlar Okula' (Hey Girls, Let's Go to School), the Project for Increasing Enrolment Rates Especially for Girls (KEP1), the Project for Increasing School Attendance Rates Especially for Girls (KEP2), and Eliminating Gender Inequality in Education Project.
 
 Turkey is currently home to a large number of the refugees / migrants and the people under temporary protection. There is no obstacle for these people to receive both general and vocational education. The Ministry of National Education has initiated studies for Syrians and their children, who have been under temporary protection since the first day of the mass migration movement that started in 2011, to receive education in Turkey. MoNE sees education not only as a fundamental right for Syrian children, but also as the most basic tool for them to survive the difficult period they live, to ensure that Syrian children are not lost generations and can build a beautiful future for themselves. In this direction policies  that  increase  and  improve  educational  opportunities  are  being developed for the Syrian children welcomed as guests in Turkey. Syrians living in all over Turkey are included in the current education system and provided access to services together with their Turkish citizens. Syrian students continue their education with their Turkish peers from preschool education to the 12th grade in public institutions affiliated to  MoNE.  There  are  no  obstacles  for  Syrian  students  to  enroll  in  public  and  private schools.
 
@@ -182,23 +182,23 @@ The following projects related to the education of Syrians under Temporary Prote
 
 [[START OF PAGE 7]]
 
-Articles/Paragraphs  1(1),  2  and  3  of  the  Convention/Recommendation  provide  for  nondiscrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
+Articles/Paragraphs 1(1), 2 and 3 of the Convention/Recommendation provide for non-discrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
 
-This corresponds to the overall aspiration of SDG4 which aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all' by 2030. It therefore covers all the SDG4 targets, but also specifically SDG target 4.5. 3
+This corresponds to the overall aspiration of SDG4 which aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all' by 2030. It therefore covers all the SDG4 targets, but also specifically SDG target 4.5.3
 
-#### 1.1 Please indicate measures adopted by your government to eliminate and prevent discrimination in  education  within  the  meaning  of  the  Convention/Recommendation  (please  tick  all  that apply) 4 (several items could be ticked/mentioned):
+#### 1.1 Please indicate measures adopted by your government to eliminate and prevent discrimination in education within the meaning of the Convention/Recommendation (please tick all that apply)4 (several items could be ticked/mentioned):
 
-- Constitutional laws and/or legislation prohibit discrimination in education
+☒ Constitutional laws and/or legislation prohibit discrimination in education
 
-Regulations prohibit discrimination in education
+☒ Regulations prohibit discrimination in education
 
-Policies and programmes aim to eliminate and prevent discrimination in education
+☒ Policies and programmes aim to eliminate and prevent discrimination in education
 
-Access to justice in case of violations of the right to non-discrimination in education
+☒ Access to justice in case of violations of the right to non-discrimination in education
 
-Combatting discrimination in terms of curriculum
+☒ Combatting discrimination in terms of curriculum
 
-o Other:
+☐ Other:
 
 Please provide a brief description of the relevant legal, regulatory or policy texts including measures on:
 
@@ -254,17 +254,17 @@ Many programs and projects are carried out (stated above) by the Ministry for Sy
 
 #### 1.2 Please indicate actions taken by your government to guarantee equal access to all levels and types of education in your country (several items could be ticked/mentioned):
 
-- Constitutional laws and/or legislation guarantee equal access to education
+☒ Constitutional laws and/or legislation guarantee equal access to education
 
-- Regulations ensure equal access to all levels and types of education
+☒ Regulations ensure equal access to all levels and types of education
 
-- Policies and programmes ensure equal access to all levels and types of education
+☒ Policies and programmes ensure equal access to all levels and types of education
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
-o Other:
+☐ Other:
 
 - Ø Individuals are provided with the opportunity to receive diplomas in the formal education age and out, and the opportunity to move to the next education level is provided by means of Open Education Schools.
 
@@ -320,37 +320,37 @@ There is an education objective in the 11th Development Plan in Article 547 stat
 
 marginalized,  people  with  disabilities  and  other  vulnerable  groups)  in  learning  processes (several items could be ticked/mentioned):
 
-- Providing financial incentives and fellowships
+☒ Providing financial incentives and fellowships
 
-- Providing positive or affirmative action measures
+☒ Providing positive or affirmative action measures
 
-- Ensuring inclusion in mainstream schools for all learners
+☒ Ensuring inclusion in mainstream schools for all learners
 
-- Training teachers on inclusive education
+☒ Training teachers on inclusive education
 
-- Ensuring gender parity in science, technology, engineering and mathematics (STEM) and technical and vocational training (TVET)
+☒ Ensuring gender parity in science, technology, engineering and mathematics (STEM) and technical and vocational training (TVET)
 
-- Providing  re-entry  programmes  for  young mothers
+☒ Providing re-entry programmes for young mothers
 
-o Eliminating all barriers for pregnant girls or young mothers in education.
+☐ Eliminating all barriers for pregnant girls or young mothers in education.
 
-Providing auxiliary assistance
+☒ Providing auxiliary assistance
 
-Adapting education infrastructure
+☒ Adapting education infrastructure
 
-Adapting curricula and methods
+☒ Adapting curricula and methods
 
-- Providing language classes to newcomers (e.g. refugees)
+☒ Providing language classes to newcomers (e.g. refugees)
 
-- Eliminating administrative barriers to education 6
+☒ Eliminating administrative barriers to education6
 
-- Providing flexible learning pathways
+☒ Providing flexible learning pathways
 
-Valuing diversity in schools
+☒ Valuing diversity in schools
 
-- Combatting stereotyping and stigmatisation
+☒ Combatting stereotyping and stigmatisation
 
-o Other:
+☐ Other:
 
 ##### Ø Opportunities for students with disabilities
 
@@ -410,9 +410,9 @@ With this project applied in 81 Provinces, it was aimed to provide employment by
 
 Please  note  that  child  marriage  is  a  discriminatory  practice  as  often  girls  can  marry  at  a younger age than boys. Child marriage violates the child's right to education as they are more likely to drop out of school and children who are not in school are more likely to get married.
 
-Yes o
+Yes ☐
 
-No x
+No ☒
 
 Please provide reference to the relevant laws and provisions:
 
@@ -426,15 +426,15 @@ According to Article 124 of the Turkish Civil Code 'Man or woman cannot marry un
 
 #### 2.1 Pre-primary education
 
-Pre-primary  education  is  not  explicitly  provided  for  in  the  Convention/Recommendation. However, the international community has increasingly recognized the importance of early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 7 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory preprimary education'.
+Pre-primary education is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation7. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Is compulsory and free of charge pre-primary education available in your country?
 
-o Pre-primary education is compulsory: Please provide the age of enrolment and duration:
+☐ Pre-primary education is compulsory: Please provide the age of enrolment and duration:
 
 Pre-school education is not compulsory in Turkey.
 
-o Pre-primary education is free of charge for all: Please provide the duration:
+☐ Pre-primary education is free of charge for all: Please provide the duration:
 
 Pre-primary  education  in  Turkey  is  free  for  pre-school  children  aged  36-69  months  at educational institutions affiliated to Ministry of National Education.
 
@@ -454,7 +454,7 @@ Which states that 'ECCE is part of the right to education and the main foundatio
 
 [[START OF PAGE 16]]
 
-The following statement exists in the first paragraph of the Article 82 of the same regulation, "To ensure access of preschool education to children in residential areas where the preschoolaged population is not dense so the schools cannot open, or where the physical conditions are insufficient and the preschool-aged population is dense; mobile teacher classroom, mobile classroom, transport center kindergarten, summer education and similar models of access to flexible time education can be applied, and mobile teacher can be assigned. At least 200 activity hours of training per year is provided in different access models to be implemented. Training in one day cannot be less than 2 (two) hours of activity. Children who could not benefit  from  pre-school  education  are  registered  in  the  summer  months,  especially  the children who will start primary school in the next school year '. According to this statement, alternative and completely free access models are applied for unschooled children.
+The following statement exists in the first paragraph of the Article 82 of the same regulation, "To ensure access of preschool education to children in residential areas where the preschool-aged population is not dense so the schools cannot open, or where the physical conditions are insufficient and the preschool-aged population is dense; mobile teacher classroom, mobile classroom, transport center kindergarten, summer education and similar models of access to flexible time education can be applied, and mobile teacher can be assigned. At least 200 activity hours of training per year is provided in different access models to be implemented. Training in one day cannot be less than 2 (two) hours of activity. Children who could not benefit from pre-school education are registered in the summer months, especially the children who will start primary school in the next school year ". According to this statement, alternative and completely free access models are applied for unschooled children.
 
 Importance accorded to early childhood education is gradually increasing in the context of reducing poverty through generations and increasing equality of opportunities. Within this scope, the objective is to ensure that every child attends preschool education minimum one year before primary education and to increase the schooling rate at age 5 from 75% to 100%. Further, it  is  obligatory  for  nurseries,  daycare  centres  and  children  clubs  operated  by  the private sector to allocate 3% of their current capacities for disadvantaged and poor children. Besides,  children  with  disabilities  who  need  special  education  benefit  from  education services free of charge.
 
@@ -478,9 +478,9 @@ Article/Paragraph 4(a) of the Convention/Recommendation provides for universal p
 
 - Is primary education compulsory in your country?
 
-Yes
+☒ Yes
 
-o No
+☐ No
 
 Please indicate the current duration period of compulsory education and the age of enrolment:
 
@@ -500,11 +500,11 @@ In subparagraphs (a) and (b) of the sixth paragraph of Article 11 of the Regulat
 
 'a) Children who are 69 months old by the end of September of the year of registration,  are enrolled in the first grade of primary schools. In addition, 66, 67 and 68 months old children who have written requests from their parents are also enrolled in the first grade of primary school.
 
-- The school directorates direct the children to preschool education who are 69, 70 and 71 months old and have the right to register or postpone their enrolment for one year if their parents have a written request.' Enrolment age for primary school is regulated in accordance with these provisions.
+b) The school directorates direct the children to preschool education who are 69, 70 and 71 months old and have the right to register or postpone their enrolment for one year if their parents have a written request.' Enrolment age for primary school is regulated in accordance with these provisions.
 
 - Is primary education available free of charge to all?
 
-Yes: Please provide the duration and indicate the extent to which it is.
+☒ Yes: Please provide the duration and indicate the extent to which it is.
 
 For this,  please  list  the  laws  and  policies  that  ensure  the  universal  and  free  availability  of primary education and indicate whether direct and indirect costs are charged (such as tuition fees,  exam  fees,  schools  supplies,  uniforms,  transport  costs  and  compulsory  levies  on parents).
 
@@ -516,7 +516,7 @@ Primary education is compulsory for 8 years; 4 years primary school and 4 years 
 
 In the second paragraph of Article 15 of Regulation on School Family Association of the Ministry of National Education, the following provision takes place; "Associations cannot force parents to make donations under any circumstances, and during the school enrolment period donations cannot be collected."
 
-In  addition,  the  following  provision  exists  in  Article  16  of  the  Basic  Law  of  National Education  No.  1739;  "Cooperation  between  the  school  and  the  family  is  provided  to contribute to the realization of the aims of educational institutions. For this purpose, schoolfamily associations are established in schools. School-family associations can accept in-kind and cash donations in order to bring effectiveness and efficiency to the education and training services in schools, to meet the basic needs of the students having no financial means. In order  to  make  financial  contributions,  they  can  organize  social  and  cultural  events  and campaigns, and run open spaces, canteens, saloons and similar places within the schools or have them run. Parents of students cannot be forced to donate under any circumstances. The procedures and principles regarding all the followings are regulated by the regulation jointly prepared by the Ministry of Finance and the Ministry of Education: the establishment and operation  of  School-Family  Association;  the  formation  and  election  types  of  association agencies; financial contributions from social and cultural activities; distribution locations, rates, expense and inspection of incomes from running open spaces, canteens, salons and similar places or having them run.
+In addition, the following provision exists in Article 16 of the Basic Law of National Education No. 1739; "Cooperation between the school and the family is provided to contribute to the realization of the aims of educational institutions. For this purpose, school-family associations are established in schools. School-family associations can accept in-kind and cash donations in order to bring effectiveness and efficiency to the education and training services in schools, to meet the basic needs of the students having no financial means. In order to make financial contributions, they can organize social and cultural events and campaigns, and run open spaces, canteens, saloons and similar places within the schools or have them run. Parents of students cannot be forced to donate under any circumstances. The procedures and principles regarding all the followings are regulated by the regulation jointly prepared by the Ministry of Finance and the Ministry of Education: the establishment and operation of School-Family Association; the formation and election types of association agencies; financial contributions from social and cultural activities; distribution locations, rates, expense and inspection of incomes from running open spaces, canteens, salons and similar places or having them run.
 
 In line with the principle of equal opportunities for all, several projects are implemented by public, private sector and NGOs to ensure compulsory education age group benefits from free and quality primary and secondary education and support individuals who drop out of education early to continue their education.
 
@@ -528,11 +528,11 @@ Additionally, free accommodation and boarding facilities are provided to student
 
 [[START OF PAGE 20]]
 
-o No: Is your country already engaged in legal and policy reforms to work towards universal and free primary education?
+☐ No: Is your country already engaged in legal and policy reforms to work towards universal and free primary education?
 
-o Yes
+☐ Yes
 
-o No
+☐ No
 
 - Please briefly provide information on the reforms taken:
 
@@ -542,7 +542,7 @@ In this part, please provide information on the general availability and accessi
 
 - Is secondary education (middle/high) available free of charge?
 
-Yes: Please provide the duration and describe the extent to which it is.
+☒ Yes: Please provide the duration and describe the extent to which it is.
 
 Please list the laws and policies that ensure the free availability of secondary education and describe whether direct and indirect costs are covered (such as tuition fees, exam fees, school supplies, uniforms, transport costs and compulsory levies on parents).
 
@@ -570,13 +570,13 @@ Like  all  stages  and  types  of  compulsory  education  in  Turkey,  vocationa
 
 [[START OF PAGE 22]]
 
-o No: What are the measures your government intends to take to ensure free secondary education?
+☐ No: What are the measures your government intends to take to ensure free secondary education?
 
 - Is secondary education (middle/high) compulsory in your country?
 
-Yes
+☒ Yes
 
-o No
+☐ No
 
 - Please  provide  details  on  its  implementation  and  indicate  the  duration  of  compulsory secondary education and the age of enrolment:
 
@@ -594,23 +594,25 @@ The net schooling rate in secondary education level is 83.88 % for girls and 84.
 
 Please  note  that  minimum  age  labour  laws  and  those  related  to  compulsory  education interdependent and mutually reinforce each other. If the minimum age of employment is below that of compulsory education, the child is at risk of dropping out of school to work and therefore not completing compulsory education. On the other hand, if compulsory education is lower than the minimum age of employment, once the child has completed compulsory education, the door is open to child exploitation and the violation of labour laws.
 
-Yes
+Yes ☒
 
-No o
+No ☐
 
 - Please provide reference to the relevant laws and provisions:
 
 The following provision exists in Article 3 of the Primary Education Law, "Compulsory primary education involves children between the ages of 6-14. Children who have completed 72 months on 31 December of that year, are enrolled in the first grades of primary schools. However, depending on the child's developmental situation, the issues related to the starting school at an early age or postponing their enrolments are regulated by regulations. '
 
-In the 21st Article of the Regulation on Secondary Education Institutions, this provision takes place 'In order to enroll in secondary education institutions, it is required to have completed the secondary school or religious secondary school and not to have completed the age of 18 at the beginning of the academic year. Students who do not meet the age requirement are not enrolled in formal secondary education institutions. (Additional sentence: RG-26/3 / 201730019) (Different sentence: RG-1/9 / 2018-30522) Age requirement is not required for those who have not  suspended  their  education.  However,  those  who  cannot  graduate  from  the school  are  expelled  and  directed  to  open  secondary  education  institutions  or  vocational education  centers,  except  those  who  are  able  to  graduate  from  school  by  taking  the responsibility exams at the end of the academic year at the age of 22. However, the agerelated provisions of this paragraph do not apply in the matters regarding registration and dismissal from the vocational training center. '
+In the 21st Article of the Regulation on Secondary Education Institutions, this provision takes place “In order to enroll in secondary education institutions, it is required to have completed the secondary school or religious secondary school and not to have completed the age of 18 at the beginning of the academic year. Students who do not meet the age requirement are not enrolled in formal secondary education institutions. (Additional sentence: RG-26/3 / 2017-30019) (Different sentence: RG-1/9 / 2018-30522) Age requirement is not required for those who have not suspended their education. However, those who cannot graduate from the school are expelled and directed to open secondary education institutions or vocational education centers, except those who are able to graduate from school by taking the responsibility exams at the end of the academic year at the age of 22. However, the age-related provisions of this paragraph do not apply in the matters regarding registration and dismissal from the vocational training center. ”
 
-According to Article 71 of Labor Law on the age of employment and the prohibition on employing children; Employment of children who have not completed the age of fifteen is prohibited. However, children who have completed the full age of fourteen and their primary education may be employed on light works that will not hinder their physical, mental and moral development, and for those who continue their education, in jobs that will not prevent their  school  attendance.  Children  who  have  not  completed  the  age  of  fourteen  may  be employed in artistic,  culture  and  advertising  activities  that  will  not  hinder  their  physical, mental  and  moral  development,  and  that  will  not  prevent  their  school  attendance  on  the condition  that  a  written  contract  is  made  and  permission  is  obtained  for  each  activity separately. In the placement of children and young employees in jobs and in the types of work  where  they are employable, their security and health, physical, mental and psychological development as well as their personal suitability and capability shall be taken into consideration. The job the child performs must not bar him for attending school and from continuing his vocational training, nor impair his pursuance of class work on a regular basis.
+According to Article 71 of Labor Law on the age of employment and the prohibition on employing children; Employment of children who have not completed the age of fifteen is prohibited. However, children who have completed the full age of fourteen and their primary education may be employed on light works that will not hinder their physical, mental and moral development, and for those who continue their education, in jobs that will not prevent their school attendance. Children who have not completed the age of fourteen may be employed in artistic, culture and advertising activities that will not hinder their physical,
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
 
-Jobs that are prohibited for children and young workers under the age of eighteen, and jobs to  allow  young  workers  to  work,  who  have  completed  fifteen  years  of  age  but  have  not completed eighteen years of age; light jobs for children who have completed fourteen years of age and have completed the compulsory primary school age; jobs and working conditions for young workers who have completed sixteen years of age and children who not completed eighteen years of age shall be determined in a regulation of the Ministry of Labour and Social Security to be issued within six months. ( 1) (2) (Amended fourth paragraph: 4/4 / 2015-6645 / 38 art.)  The working hours of children who have completed their basic education and yet who are no longer attending school shall not be more than seven hours a day and more than thirty-five hours a week; and for the children who are employed in the artistic, cultural and advertising activities working time shall not be more than five hours a day and thirty hours a week. However this working time may be increased up to forty hours a week for the children completed the age of 15. The working hours during the education term of the children who receive preschool education and attend school may be at most two hours a day and ten hours a week, outside the education hours. The working hours for holiday terms shall not exceed the periods set forth in the fourth paragraph above. (3)  (Paragraph added on 4 April 2015 by Article 38 of the Law No. 6645) The scope of artistic, cultural and advertising activities, the work permit of the children to be employed in such activities, the working periods and breaks according to age groups and types of activities, the work environment and its conditions, the procedures and principles regarding the payment of the wage as well as other issues shall be laid down in a regulation to be issued by the Ministry of Labour and Social Security, by receiving the opinions of the Ministry of Family and Social Policies, the Ministry of Culture and Tourism, the Ministry of Health, the Ministry of National Education and the Supreme Board of Radio and Television. It is understood from the expressions in the law that a 15year-old child can be employed, subject to certain restrictions and will not encounter any limits after 18.
+mental and moral development, and that will not prevent their school attendance on the condition that a written contract is made and permission is obtained for each activity separately. In the placement of children and young employees in jobs and in the types of work where they are employable, their security and health, physical, mental and psychological development as well as their personal suitability and capability shall be taken into consideration. The job the child performs must not bar him for attending school and from continuing his vocational training, nor impair his pursuance of class work on a regular basis.
+
+Jobs that are prohibited for children and young workers under the age of eighteen, and jobs to allow young workers to work, who have completed fifteen years of age but have not completed eighteen years of age; light jobs for children who have completed fourteen years of age and have completed the compulsory primary school age; jobs and working conditions for young workers who have completed sixteen years of age and children who not completed eighteen years of age shall be determined in a regulation of the Ministry of Labour and Social Security to be issued within six months. (1) (2) (Amended fourth paragraph: 4/4 / 2015-6645 / 38 art.) The working hours of children who have completed their basic education and yet who are no longer attending school shall not be more than seven hours a day and more than thirty-five hours a week; and for the children who are employed in the artistic, cultural and advertising activities working time shall not be more than five hours a day and thirty hours a week. However this working time may be increased up to forty hours a week for the children completed the age of 15. The working hours during the education term of the children who receive preschool education and attend school may be at most two hours a day and ten hours a week, outside the education hours. The working hours for holiday terms shall not exceed the periods set forth in the fourth paragraph above. (3) (Paragraph added on 4 April 2015 by Article 38 of the Law No. 6645) The scope of artistic, cultural and advertising activities, the work permit of the children to be employed in such activities, the working periods and breaks according to age groups and types of activities, the work environment and its conditions, the procedures and principles regarding the payment of the wage as well as other issues shall be laid down in a regulation to be issued by the Ministry of Labour and Social Security, by receiving the opinions of the Ministry of Family and Social Policies, the Ministry of Culture and Tourism, the Ministry of Health, the Ministry of National Education and the Supreme Board of Radio and Television. It is understood from the expressions in the law that a 15-year-old child can be employed, subject to certain restrictions and will not encounter any limits after 18.
 
 [[END OF PAGE 24]]
 
@@ -624,13 +626,13 @@ Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  high
 
 -  Please  indicate  the  measures  adopted  to  ensure  that  there  is  no  discrimination  on  the grounds  prohibited  by  the  Convention/Recommendation 10 to  enter  and  complete  higher education, including technical and vocational education and training (several items could be ticked/mentioned):
 
-- Constitutional laws and/or legislation prohibit discrimination in higher education, including technical and vocational education and training
+☒ Constitutional laws and/or legislation prohibit discrimination in higher education, including technical and vocational education and training
 
-- Regulations prohibit discrimination in higher education, including technical and vocational education and training
+☒ Regulations prohibit discrimination in higher education, including technical and vocational education and training
 
-- Policies  and  programs  aim  to  eliminate  and  prevent  discrimination  in  higher  education, including technical and vocational education and training
+☒ Policies and programs aim to eliminate and prevent discrimination in higher education, including technical and vocational education and training
 
-- o Other:
+☐ Other:
 
 - Please provide a brief description of the relevant legal, regulatory or policy texts including measures on:
 
@@ -696,17 +698,17 @@ https://denklik.yok.gov.tr/multeciler
 
 Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights, further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'.
 
-Higher education is generally free of charge
+☒ Higher education is generally free of charge
 
-Higher education is accessible on the basis of individual capacity as assessed by reference to relevant qualifications and experience
+☒ Higher education is accessible on the basis of individual capacity as assessed by reference to relevant qualifications and experience
 
-Higher education is accessible through financial incentives and scholarships
+☒ Higher education is accessible through financial incentives and scholarships
 
-Higher education is accessible through positive or affirmative action measures
+☒ Higher education is accessible through positive or affirmative action measures
 
-o Higher education is accessible through credit transfer system between states
+☐ Higher education is accessible through credit transfer system between states
 
-o Other:
+☐ Other:
 
 - Please elaborate on the measures taken and provide brief information on the financial costs to receive education in higher public or private education institutions, if higher education is not free of charge.
 
@@ -720,21 +722,21 @@ Article/Paragraph 4(c) of the Convention/Recommendation provides for adult educa
 
 [[START OF PAGE 30]]
 
--  Please indicate the efforts made by your government to establish a system of continuing education and equitable access to learning and training opportunities (several items could be ticked/mentioned):
+- Please indicate the efforts made by your government to establish a system of continuing education and equitable access to learning and training opportunities (several items could be ticked/mentioned):
 
-- Provision of education for persons who have not received or completed the whole period of their primary education
+☒ Provision of education for persons who have not received or completed the whole period of their primary education
 
-- Provision of literacy programmes
+☒ Provision of literacy programmes
 
-- Provision of appropriate learning and life-skills programmes
+☒ Provision of appropriate learning and life-skills programmes
 
-- Provision of free of charge learning opportunities
+☒ Provision of free of charge learning opportunities
 
-- Provision of flexible learning pathways
+☒ Provision of flexible learning pathways
 
-- Provision of professional training and qualifications
+☒ Provision of professional training and qualifications
 
-- o Other:
+☐ Other:
 
 ##### Literacy Courses
 
@@ -800,11 +802,11 @@ Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide fo
 
 - Please indicate the measures taken by your country to ensure equivalence in all educational institutions with regard to (several items could be ticked/mentioned):
 
-- Establishment of minimum norms and standards in education
+☒ Establishment of minimum norms and standards in education
 
-- Establishment  of  conditions  relating  to  the  quality  of  the  education  provided  (e.g. infrastructure, learner/teacher ratios, teaching and learning materials, use of ICT)
+☒ Establishment of conditions relating to the quality of the education provided (e.g. infrastructure, learner/teacher ratios, teaching and learning materials, use of ICT)
 
-- o Adoption of legal or regulatory provisions to ensure that children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools).
+☐ Adoption of legal or regulatory provisions to ensure that children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools).
 
 - Please elaborate further on the measures taken:
 
@@ -828,21 +830,21 @@ All  schools  across  the  country  have  access  to  basic  utilities  includin
 
 Article/Paragraph  4(d)  of  the  Convention/Recommendation  provides  for  the  education personnel.  This  corresponds  to  SDG  target  4.c  which  is  entirely  devoted  to  the  teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'.
 
-- Please  indicate  the  measures  taken  to  improve  the  teaching  and  working  conditions  of education personnel, especially teaching staff at all levels in your country and regarding the training for the teaching profession (several items could be ticked/mentioned):
+- Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels in your country and regarding the training for the teaching profession (several items could be ticked/mentioned):
 
-Teachers' average salaries are competitive or at least comparable to those paid in other professions requiring similar or equivalent qualifications (at all levels)
+☒ Teachers’ average salaries are competitive or at least comparable to those paid in other professions requiring similar or equivalent qualifications (at all levels)
 
-Initial training and continuous professional development is provided
+☒ Initial training and continuous professional development is provided
 
-Minimum standards and qualifications are required for the teaching profession
+☒ Minimum standards and qualifications are required for the teaching profession
 
-Measures  taken  to  strengthen  the  social  status  and  attractiveness  of  the  teaching profession
+☒ Measures taken to strengthen the social status and attractiveness of the teaching profession
 
-o Performance monitoring systems
+☐ Performance monitoring systems
 
-o Measures taken to increase women in leadership positions in education
+☐ Measures taken to increase women in leadership positions in education
 
-- o Other:
+☐ Other:
 
 - Please briefly elaborate further on the measures taken:
 
@@ -858,13 +860,13 @@ The  criteria  required  in  teaching  profession  are  determined  by  the  Min
 
 - Have there been instances of discrimination as regards the training for education personnel in your country?
 
-o Yes: Has your government addressed this issue?
+☐ Yes: Has your government addressed this issue?
 
-o Yes
+☐ Yes
 
-o No
+☐ No
 
-No
+☒ No
 
 #### 2.7 Respect for human rights and fundamental freedoms
 
@@ -878,11 +880,11 @@ Article/Paragraph  5(1)(a)  of  the  Convention/Recommendation  provides  for  t
 
 [[START OF PAGE 36]]
 
-Curriculum includes human rights education
+☒ Curriculum includes human rights education
 
-Educational and/or extracurricular activities are organized on human rights education
+☒ Educational and/or extracurricular activities are organized on human rights education
 
-o Other:
+☐ Other:
 
 The  education  programmes  were  renewed  to  convey  values  including  justice,  peace, friendship, respect and love to students under relevant disciplines in 2016 by MoNE.
 
@@ -904,9 +906,9 @@ Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide fo
 
 - Does your country have a regulatory framework relating to the establishment and functioning of private educational institutions?
 
-Yes
+☒ Yes
 
-No o
+☐ No
 
 - Please provide a brief description:
 
@@ -920,33 +922,33 @@ Regulation for Private Education Institutions
 
 - Do legal provisions prohibiting discrimination on the grounds listed by the Convention/Recommendation 12 explicitly apply to private educational institutions?
 
-Yes
+☒ Yes
 
-No o
+☐ No
 
 - Please briefly describe what laws, regulations or policies guarantee that the development of private education does not generate discrimination and that private schools offer a relevant alternative in your country:
 
 - Does your country have an education policy framework for minimum educational standards as regards the rights of the parents /legal guardians for providing religious and moral education for their children?
 
-Yes
+☒ Yes
 
-No o
+☐ No
 
 #### 2.9 Rights of national minorities
 
 Article/Paragraph  5(1)(c)  of  the  Convention/Recommendation  provides  for  the  rights  of national  minorities.  National  minorities,  who  often  face  language  barriers,  are  among  the specific groups referred to in the Convention.
 
-- Please indicate the legal, policy and regulatory measures that protect the rights given to national  minorities  to  carry  out  their  own  educational  activities  (several  items  could  be ticked/mentioned):
+- Please indicate the legal, policy and regulatory measures that protect the rights given to national minorities to carry out their own educational activities (several items could be ticked/mentioned):
 
-Constitutional laws and/or legislation protect the right to education of national minorities
+☒ Constitutional laws and/or legislation protect the right to education of national minorities
 
-Legislation  or  regulations  guarantee  the  right  of  national  minorities  to  study  in  their mother tongue
+☒ Legislation or regulations guarantee the right of national minorities to study in their mother tongue
 
-Curriculum is adapted to national minority needs
+☒ Curriculum is adapted to national minority needs
 
-Teachers are trained to adapt to national minority needs
+☒ Teachers are trained to adapt to national minority needs
 
-o Other:
+☐ Other:
 
 - Please provide a brief description of the provisions:
 
@@ -974,7 +976,7 @@ For  Minority  Schools,  Turkish  and  Turkish  culture  course  teachers  are  
 
 #### 2.10  Rights of refugees and migrants
 
-The rights of refugees and migrants are not explicitly provided for in the Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin. 13 In this context,  a  number  of  Member  States  that  participated  in  the  9 th Consultation  reported  on measures adopted to ensure refugees' and migrants' right to education. Growing displacement and influx of refugees worldwide and the emergence of major educational challenges in this area,  as  well  as  the  frameworks  recently  adopted  by  the  international  community, 14 demonstrate the opportunity for states to report on measures adopted to include refugees and migrants in their educational systems.
+The rights of refugees and migrants are not explicitly provided for in the Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin. 13 In this context, a number of Member States that participated in the 9th Consultation reported on measures adopted to ensure refugees' and migrants' right to education. Growing displacement and influx of refugees worldwide and the emergence of major educational challenges in this area, as well as the frameworks recently adopted by the international community, 14 demonstrate the opportunity for states to report on measures adopted to include refugees and migrants in their educational systems.
 
 [[END OF PAGE 38]]
 
@@ -998,25 +1000,25 @@ Many programs and projects are carried out (stated above) by the Ministry for Sy
 
 [[START OF PAGE 40]]
 
-- Please briefly indicate measures adopted by national and local authorities to ensure refugees' and migrants' right to education (several items could be ticked/mentioned):
+- Please briefly indicate measures adopted by national and local authorities to ensure refugees’ and migrants’ right to education (several items could be ticked/mentioned):
 
-- Inclusion in mainstream education
+☒ Inclusion in mainstream education
 
-Provision of language courses
+☒ Provision of language courses
 
-- Specific training for educational staff
+☒ Specific training for educational staff
 
-- Initiatives addressing discrimination and promoting cultural diversity and mutual acceptance
+☒ Initiatives addressing discrimination and promoting cultural diversity and mutual acceptance
 
-o Alternative administrative procedure (placement tests, portfolio of evidence, etc.)
+☐ Alternative administrative procedure (placement tests, portfolio of evidence, etc.)
 
-Accelerated learning programmes
+☒ Accelerated learning programmes
 
-Non-formal and/or alternative education programmes
+☒ Non-formal and/or alternative education programmes
 
-Financial support
+☒ Financial support
 
-o Other innovative measures:
+☐ Other innovative measures:
 
 Please briefly elaborate further on the measures taken:
 
@@ -1046,19 +1048,19 @@ The following projects related to the education of Syrians under Temporary Prote
 
 - Ø Promoting Integration of Syrian Kids into the Turkish Education System (PIKTES).
 
-## Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
+## III. Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
 
 ### 1. Challenges and obstacles
 
 #### 1.1 Please indicate and provide any information on the difficulties encountered in the process of implementing  the  key  provisions  of  the  Convention/Recommendation  (including  legal  and practical obstacles) and on the main issues that need to be addressed for promoting further the right to education in your country (several items could be ticked/mentioned):
 
-o Challenges related to equitable access and inclusion in education (such as poverty and socio-economic  factors,  cultural  and  traditional  attitudes,  remoteness,  migration  and displacement, etc.)
+☐ Challenges related to equitable access and inclusion in education (such as poverty and socio-economic factors, cultural and traditional attitudes, remoteness, migration and displacement, etc.)
 
-o Challenges related to the quality of education (such as shortages of qualified, trained and motivated teaching staff, non-supportive or inadequate teaching and learning as well as school environment, etc.)
+☐ Challenges related to the quality of education (such as shortages of qualified, trained and motivated teaching staff, non-supportive or inadequate teaching and learning as well as school environment, etc.)
 
-o Challenges relating to the system and governance (such as budgetary constraints, lack or weakness of monitoring systems - including the lack of reliable data, absence of supportive/ inconsistent/obsolete  legal  and  policy  environment,  lack  of  involvement  of  relevant stakeholders and lack of cooperation/coordination at different levels, etc.)
+☐ Challenges relating to the system and governance (such as budgetary constraints, lack or weakness of monitoring systems – including the lack of reliable data, absence of supportive/inconsistent/obsolete legal and policy environment, lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels, etc.)
 
-o Other:
+☐ Other:
 
 #### 1.2 Please provide a brief assessment of the effectiveness of the methods introduced to remove the obstacles encountered:
 
@@ -1070,25 +1072,25 @@ o Other:
 
 UNESCO  governing  bodies  have  underlined  the  need  for  awareness  raising.  Given  the importance of normative action at the national level, wide dissemination of the Convention must be ensured, with the support of National Commissions for UNESCO.
 
-- Have activities been carried out to draw the attention of the various authorities of the country to the Convention/Recommendation and their provisions about the right to education and to raise awareness  of the principles of non-discrimination and equality of educational opportunities? (several items could be ticked/mentioned)
+- Have activities been carried out to draw the attention of the various authorities of the country to the Convention/Recommendation and their provisions about the right to education and to raise awareness of the principles of non-discrimination and equality of educational opportunities? (several items could be ticked/mentioned)
 
-- o Translation  of  the  Convention/Recommendation  into  the  national  and  possibly  local languages
+☐ Translation of the Convention/Recommendation into the national and possibly local languages
 
-- o Dissemination and advocacy of the core content of the Convention/Recommendation or the core principles of the right to education
+☐ Dissemination and advocacy of the core content of the Convention/Recommendation or the core principles of the right to education
 
-- o Increased public awareness through advocacy material on the Convention/ Recommendation or the core principles of the right to education
+☐ Increased public awareness through advocacy material on the Convention/Recommendation or the core principles of the right to education
 
-- Activities undertaken  or supported by the  National  Commission  to  promote  non- discrimination  and  equality  of  educational  opportunities  and  to  foster  debate  on  critical issues in relation to the rights enshrined in the instruments
+☒ Activities undertaken or supported by the National Commission to promote non-discrimination and equality of educational opportunities and to foster debate on critical issues in relation to the rights enshrined in the instruments
 
-- o Other:
+☐ Other:
 
 #### Works of Turkish National Commission
 
 Fostering  close  liaison  between  state  agencies  and  services,  professional  and  other associations, universities and other centres of research and education are among the works of the Turkish National Commission for UNESCO.
 
-Being aware that discrimination in education is a violation of rights as enunciated in the Declaration,  the  NatCom  works  with  the  spirit  of  the  Convention.  The  NatCom  tries  to promote  equality  of  opportunity  and  of  treatment  in  the  matter  of  education via  the programmes of education sector such as UNITWIN/UNESCO Chairs, ASPnet and Learning Cities. Besides, seminars on cultural heritage are given to the newly appointed teachers every year by the president of the NatCom to raise awareness on heritage and ' to provide training for the teaching profession without discrimination ' as indicated in the Recommendation.
+Being aware that discrimination in education is a violation of rights as enunciated in the Declaration, the NatCom works with the spirit of the Convention. The NatCom tries to promote equality of opportunity and of treatment in the matter of education via the programmes of education sector such as UNITWIN/UNESCO Chairs, ASPnet and Learning Cities. Besides, seminars on cultural heritage are given to the newly appointed teachers every year by the president of the NatCom to raise awareness on heritage and “to provide training for the teaching profession without discrimination” as indicated in the Recommendation.
 
-In addition, pertaining to the article of the Recommendation ; 'III. Member States should … (e) Give foreign nationals resident within their territory the same access to education as that given to their own nationals. ', the Committees of the NatCom, such as Education Committee, Intangible Cultural Heritage Committee, Gender Equality Committee and Management of Social Transformations Committee, visits the Protection Centers in which Syrian Refugees are welcomed in Turkey to observe the educational and cultural activities and prepares report to share with the relevant authorities, inter alia, with those in charge of the implementation of the Recommendation.
+In addition, pertaining to the article of the Recommendation; “III. Member States should … (e) Give foreign nationals resident within their territory the same access to education as that given to their own nationals.”, the Committees of the NatCom, such as Education Committee, Intangible Cultural Heritage Committee, Gender Equality Committee and Management of Social Transformations Committee, visits the Protection Centers in which Syrian Refugees are welcomed in Turkey to observe the educational and cultural activities and prepares report to share with the relevant authorities, inter alia, with those in charge of the implementation of the Recommendation.
 
 [[END OF PAGE 42]]
 
@@ -1096,6 +1098,6 @@ In addition, pertaining to the article of the Recommendation ; 'III. Member Stat
 
 #### Works of Council of Higher Education
 
-Council of Higher Education (CoHE) started to raise awareness about the accessibility of people with disabilities to higher education institutions, educational opportunities and sociocultural activities and to promote good practices under the mottos 'Accessible Accessibility' and  'Accessible  Education'.  In  2018,  CoHEstarted  giving  'University  Accessibility Awards'  to  universities.  CoHE  has  awarded  16  Universities  within  the  category  of 'Accessibility in Space', 7 Universities within the category of 'Accessibility in Education', 3  Universities  in  'Accessibility  in  Socio-Cultural  Activities',  3  Universities  received Programme  Awards.  In  2019,  26  Universities  were  awarded  within  the  category  of 'Accessibility in Space', 6 Universities within the category of 'Accessibility in Education', 7  Universities  in  'Accessibility  in  Socio-Cultural  Activities',  2  Universities  received Programme Awards. As for 2020, the call is closed and the evaluations are being processed.
+Council of Higher Education (CoHE) started to raise awareness about the accessibility of people with disabilities to higher education institutions, educational opportunities and socio-cultural activities and to promote good practices under the mottos “Accessible Accessibility” and “Accessible Education”. In 2018, CoHE started giving “University Accessibility Awards” to universities. CoHE has awarded 16 Universities within the category of “Accessibility in Space”, 7 Universities within the category of “Accessibility in Education”, 3 Universities in “Accessibility in Socio-Cultural Activities”, 3 Universities received Programme Awards. In 2019, 26 Universities were awarded within the category of “Accessibility in Space”, 6 Universities within the category of “Accessibility in Education”, 7 Universities in “Accessibility in Socio-Cultural Activities”, 2 Universities received Programme Awards. As for 2020, the call is closed and the evaluations are being processed.
 
 [[END OF PAGE 43]]
