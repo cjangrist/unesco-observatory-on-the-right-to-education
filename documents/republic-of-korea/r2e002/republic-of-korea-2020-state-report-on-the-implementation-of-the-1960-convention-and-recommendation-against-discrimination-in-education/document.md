@@ -6,7 +6,7 @@ Tenth consultation of Member States on the application of the Convention and the
 
 ## GUIDELINES FOR THE PREPARATION OF REPORTS BY MEMBER STATES ON THE APPLICATION OF THE 1960 CONVENTION AND RECOMMENDATION AGAINST DISCRIMINATION IN EDUCATION
 
-Approved by the UNESCO Executive Board at its 207 th session in October 2019
+Approved by the UNESCO Executive Board at its 207th session in October 2019
 
 ### 1. Introduction
 
@@ -16,7 +16,7 @@ The right to education is today one of the key principles underpinning the Educa
 
 The  Convention  has  been  recognized  as  a cornerstone  of  Education  2030  agenda .  It  also represents a powerful tool to advance SDG4 by ensuring effective articulation between normative and operational work.
 
-The present Guidelines are intended to assist Member States in the preparation of national reports on the implementation of the Convention as well as the Recommendation in the context of the 10 th Consultation.
+The present Guidelines are intended to assist Member States in the preparation of national reports on the implementation of the Convention as well as the Recommendation in the context of the 10th Consultation.
 
 ### 2. Reporting obligations
 
@@ -58,9 +58,9 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 3]]
 
-- Open-ended and closed-ended questions to be directly filled in by Member States through a participatory  process.  Please  note  that  multiple  answers  may  be  provided  where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States through a participatory process. Please note that multiple answers may be provided where relevant.
 
-- Additional information aimed at guiding Members States to structure and detail their responses to  the  open-ended  questions  (including  remarks  on  how  to  respond  efficiently  to  the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 In their responses, Member States are encouraged to provide information in a concise manner while preserving substantive and relevant content.
 
@@ -74,9 +74,9 @@ Country name: Republic of Korea
 
 Organization or entity responsible for the preparation of the report: Ministry of Education
 
-### Information on the legislative, judicial, administrative and other measures taken by the state at the national level
+### I. Information on the legislative, judicial, administrative and other measures taken by the state at the national level
 
-#### Ratification of the Convention 2
+#### 1. Ratification of the Convention 2
 
 Is your country a State Party to the Convention?
 
@@ -116,7 +116,7 @@ http://portal.unesco.org/en/ev.php-URL_ID=12949&URL_DO=DO_TOPIC&URL_SECTION=201.
 
 □ No, not considering ratification in the near future. Please explain why:
 
-#### Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
+#### 2. Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
 
 Has your country ratified the Protocol?
 
@@ -132,7 +132,7 @@ Has your country ratified the Protocol?
 
 ■  Controversy  concerning  reverse  discrimination  in  support  policies  that  target vulnerable groups in education
 
-#### Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
+#### 3. Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
 
 ##### In case your country is a State Party to the Convention:
 
@@ -346,11 +346,11 @@ supplementary learning equipment, etc.); subsidies for daycare fees for children
 
 ■  Policies  to  close  gaps  in  terms  of  lifelong  learning  opportunities  include:  Lifelong Learning Vouchers (approximately KRW 350,000/person can be provided annually to those aged 19 and over who are recipients of the national basic living allowance or in lower  income  groups,  in  order  to  ensure  their  ability  to  access  lifelong  learning opportunities); operating the National Center for Adult Literacy Education (support for adult  literacy  education),  operating  the  National  Institute  for  Lifelong  Learning  for Persons with Disabilities (conducting research and developing programmes in relation to lifelong learning for persons with disabilities); establishing Lifelong Learning Cities (providing comprehensive  on/off-line support systems  for lifelong learning  and customized lifelong learning opportunities for social integration); encouraging universities to offer lifelong education.
 
-### Information on the implementation of the Convention or Recommendation
+### II. Information on the implementation of the Convention or Recommendation
 
-#### Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
+#### 1. Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
 
-Articles/Paragraphs  1(1),  2  and  3  of  the  Convention/Recommendation  provide  for  nondiscrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
+Articles/Paragraphs 1(1), 2 and 3 of the Convention/Recommendation provide for non-discrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
 
 This corresponds to the overall aspiration of SDG4 which aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all' by 2030. It therefore covers all the SDG4 targets, but also specifically SDG target 4.5. 4
 
@@ -510,23 +510,23 @@ This notably is covered under SDG target 4.1 and partly target 4.b
 
 □   Other:
 
+■ Providing auxiliary assistance
+
+■ Adapting education infrastructure
+
+■ Adapting curricula and methods
+
+■ Providing language classes to newcomers
+
+■ Eliminating administrative barriers to education 6
+
+■ Providing flexible learning pathways
+
+□ Valuing diversity in schools
+
+■ Combatting stereotyping and stigmatisation
+
 > 6 Administrative barriers to education include, amongst others, lack of identity papers or birth certificates required to enrol.
-
-■  Providing auxiliary assistance
-
-■  Adapting education infrastructure
-
-■  Adapting curricula and methods
-
-■  Providing language classes to newcomers
-
-■  Eliminating administrative barriers to education 6
-
-■  Providing flexible learning pathways
-
-□  Valuing diversity in schools
-
-■  Combatting stereotyping and stigmatisation
 
 [[END OF PAGE 10]]
 
@@ -534,15 +534,25 @@ This notably is covered under SDG target 4.1 and partly target 4.b
 
 - Please elaborate further on the measures taken, including those to ensure gender equality and the empowerment of girls and women in and through education:
 
-■ Measures to ensure gender equality - Article 26 of the National Human Rights Commission Act stipulates that the Commission shall conduct education and promotional activities necessary to awaken and enhance everyone's awareness of human rights; and in particular, that the Commission may consult with the Minister of Education in order for content on human rights to be included in school curricula. It also states that the Commission may consult with the heads of State agencies or local governments in order for human rights-related content to be included in employment or promotion examinations and training or education courses for public officials. - Article 17-2 (Advancement of Equality of Education of Males and Females) of the Framework Act on Education stipulates that the State and local governments, and founders or managers of schools or institutions for social education, shall not practise
----
-discrimination, such as restricting or excluding participation or benefits on the grounds of gender, without any reasonable grounds, when providing education. In addition, Article 17-4 (Cultivation of Healthy Gender Consciousness) of the same Framework Act stipulates that the State and local governments shall establish and implement policies necessary for protecting the dignity of students' gender and to cultivate healthy sentiments relating to gender; and that such policies shall include educational programs to respect the dignity and character of individual students, and plans for the provision of education and amenities that take account of male and female gender characteristics. - Article 18 (Gender Responsive Education) of the Framework Act on Gender Equality stipulates that the State and local governments shall provide education to their public officials, etc., to increase their ability to recognize the impacts of statutes, policies, customs, and other systems on men and women in all areas of society ("gender responsive education"). Article 36 (Gender Equality Education) of the same Framework Act also stipulates that State and local governments shall strive to promote education that enhances gender equality both within the family and at school; and that the State and local governments shall strive to ensure that training courses run by national and public training institutions and lifelong education institutions, as well as other training and education courses, will provide education that enhances awareness about gender equality. - The Framework Act on Gender Equality and its Enforcement Decree include diverse measures that have been taken to promote gender equality in and through education, such as the Fact-Finding Survey on Gender Equality, Gender Equality Council, Working Committee on Gender Equality, Subcommittees on Gender Equality, designation of officials in charge of gender equality, National Gender Equality Index, Women's Day and Gender Equality Week, designation of Women-Friendly Cities, and Female Workforce Development Centers. - Article 19 (Education to Prevent Violence against Women) of the Framework Act on Prevention of Violence against Women stipulates that the Minister of Education and
+■ Measures to ensure gender equality
+
+- Article 26 of the National Human Rights Commission Act stipulates that the Commission shall conduct education and promotional activities necessary to awaken and enhance everyone's awareness of human rights; and in particular, that the Commission may consult with the Minister of Education in order for content on human rights to be included in school curricula. It also states that the Commission may consult with the heads of State agencies or local governments in order for human rights-related content to be included in employment or promotion examinations and training or education courses for public officials.
+
+- Article 17-2 (Advancement of Equality of Education of Males and Females) of the Framework Act on Education stipulates that the State and local governments, and founders or managers of schools or institutions for social education, shall not practise discrimination, such as restricting or excluding participation or benefits on the grounds of gender, without any reasonable grounds, when providing education. In addition, Article 17-4 (Cultivation of Healthy Gender Consciousness) of the same Framework Act stipulates that the State and local governments shall establish and implement policies necessary for protecting the dignity of students' gender and to cultivate healthy sentiments relating to gender; and that such policies shall include educational programs to respect the dignity and character of individual students, and plans for the provision of education and amenities that take account of male and female gender characteristics.
+
+- Article 18 (Gender Responsive Education) of the Framework Act on Gender Equality stipulates that the State and local governments shall provide education to their public officials, etc., to increase their ability to recognize the impacts of statutes, policies, customs, and other systems on men and women in all areas of society ("gender responsive education"). Article 36 (Gender Equality Education) of the same Framework Act also stipulates that State and local governments shall strive to promote education that enhances gender equality both within the family and at school; and that the State and local governments shall strive to ensure that training courses run by national and public training institutions and lifelong education institutions, as well as other training and education courses, will provide education that enhances awareness about gender equality.
+
+- The Framework Act on Gender Equality and its Enforcement Decree include diverse measures that have been taken to promote gender equality in and through education, such as the Fact-Finding Survey on Gender Equality, Gender Equality Council, Working Committee on Gender Equality, Subcommittees on Gender Equality, designation of officials in charge of gender equality, National Gender Equality Index, Women's Day and Gender Equality Week, designation of Women-Friendly Cities, and Female Workforce Development Centers.
+
+- Article 19 (Education to Prevent Violence against Women) of the Framework Act on Prevention of Violence against Women stipulates that the Minister of Education and Governor of Education of each province shall establish and implement policies at kindergartens and schools to enhance understanding of violence against women and to provide education to prevent it.
+
+- Article 29 (Prevention of Gender Discrimination) of the Act on the Prohibition of Discrimination against Persons with Disabilities, Remedy against Infringement of Their Rights, Etc. also stipulates that rights relating to gender shall be respected for all persons with disabilities; and that the State and local governments shall conduct awareness-raising activities and education to eliminate all disability-based prejudices and customs relating to gender, as well as all other discriminatory practices. Article 33 (Prevention of Discrimination against Women with Disabilities) of the same law stipulates that the State and local governments shall not discriminate against women with disabilities on the basis
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
-of  their  disability  in  any  aspect  of  life;  and  that  persons  in  charge  of  sexual  violence prevention programs at educational institutions, workplaces, welfare facilities, etc. shall include in such programs gender awareness in relation to women with disabilities and prevention of sexual violence against them; however, such programs shall not distort the image of women with disabilities.
+of their disability in any aspect of life; and that persons in charge of sexual violence prevention programs at educational institutions, workplaces, welfare facilities, etc. shall include in such programs gender awareness in relation to women with disabilities and prevention of sexual violence against them; however, such programs shall not distort the image of women with disabilities.
 
 -  In  order  to  promote  gender  equality,  the  Ministry  of  Education  launched  the  6th Deliberation Committee for Equal Education of Males and Females on December 6, 2019. At the level of primary and secondary education, the Committee carries out a variety of policy measures, including revision and distribution of the Gender Equality Examination Index;  development  and  distribution  of  comprehensive  teaching  guidelines  on  gender equality; training for on-site teaching support staff on human rights and gender equality; and running pilot schools for gender equality measures. At the level of higher education, the  Committee  carries  out  policy  measures  such  as  assessment  and  examination  of gender equality in public universities and dissemination of best practices. Revisions are currently in the process of being made to the Educational Officials Act to ensure that the appointment of teaching staff in public universities does not unduly favor either gender.
 
@@ -562,7 +572,7 @@ Please provide reference to the relevant laws and provisions:
 
 ##### 2.1 Pre-primary education
 
-Pre-primary  education  is  not  explicitly  provided  for  in  the  Convention/Recommendation. However, the international community has increasingly recognized the importance of early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 7 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory preprimary education'.
+Pre-primary education is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 7. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 > 7 Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'.
 
@@ -670,15 +680,15 @@ Please list the laws and policies that ensure the free availability of secondary
 
 - In the case of middle and high schools, tuition fees and school operation support fees are partly subsidized by the government, but the remainder of the costs must be covered by parents. Parents should also cover expenses for specific services that are directly beneficial to their children.
 
-- Is secondary education (middle/high) compulsory in your country?
-
-■ Yes (middle school education)        ■ No (high school education)
-
-- Please  provide  details  on  its  implementation  and  indicate  the  duration  of  compulsory secondary education and the age of enrolment:
-
 □ No: What are the measures your government intends to take to ensure free secondary education?
 
-In  this  part,  you  may  also  provide  information  on  the  difficulties  experienced  by  your government  in  the  realization  of  universal  access  to  secondary  education.  Quantitative information could be added.
+- Is secondary education (middle/high) compulsory in your country?
+
+■ Yes (middle school education) ■ No (high school education)
+
+- Please provide details on its implementation and indicate the duration of compulsory secondary education and the age of enrolment:
+
+In this part, you may also provide information on the difficulties experienced by your government in the realization of universal access to secondary education. Quantitative information could be added.
 
 ■ Duration of compulsory secondary education and age of enrolment
 
@@ -734,7 +744,7 @@ Non-differential treatment, including of foreign students
 
 ■ Legal, regulatory or policy measures which forbid discrimination in admission to higher education institutions.
 
-###### Laws
+###### 1. Laws
 
 - Most comprehensively, article 31 of the Constitution of the Republic of Korea stipulates that all citizens shall have an equal right to receive an education corresponding to their abilities;  and  article  4  (Equal  Opportunities  in  Education)  of  the  Framework  Act  on Education stipulates that no citizen shall be treated with discrimination in education for reasons  of  gender,  religion,  faith,  race,  social  standing,  economic  status,  or  physical conditions, etc.
 
@@ -834,12 +844,29 @@ The credit exchange system in the Republic of Korea is based on the exchanges be
 
 In  this  part,  you  may  also  provide  information  on  the  difficulties  experienced  by  your government as regards access to higher education and on the progress realized. Quantitative information could be added.
 
-■ Financial costs of education in higher public or private education institutions - In general, higher education in the Republic of Korea is not free of charge. According to 2019 public disclosure information, the average annual tuition per student is approximately KRW 4,160,000 for national/public universities (total for a four-year-course); and approximately KRW 7,460,000 for private universities (total for a four-year-course).
----
-■ Measures to promote access to higher education - Article 31.1 of the Constitution of the Republic of Korea and Article 31 (Selection of Students) of the Enforcement Decree of the Higher Education Act provide that all people should have an equal right to education according to their abilities, in terms of student admissions. - In order to lighten the financial burden for students and to enhance access to higher education, various scholarships are provided by education institutions, the State, local governments, etc. According to 2019 public disclosure information, the average amount of annual scholarship funds awarded to a student on a four-year university course is approximately KRW 2,700,000 at national/public universities and approximately KRW 3,510,000 at private universities.
-■ Affirmative action in relation to access to higher education - With regard to access to higher education, non-discriminatory measures are mostly aimed at persons with disabilities. Representative measures include legal measures (such as article 4 of the Act on Special Education for Persons with Disabilities, Etc.), special screening systems in university admissions, and assessment of educational welfare support provided in practice for university students with disabilities. In addition, a number of universities have special screening systems for the admission of persons with disabilities, students from multicultural families, etc. beyond the designated quota. A special screening process for students from rural communities ('farming, mountain and fishing towns') also exists in the admission system, in order to close gaps in opportunities caused by social and economic differences.
-■ Credit exchange programme - A number of universities run a credit exchange programme, allowing students to learn from other universities as well as their own. Credit exchange programmes and/or student exchange programmes are also run with universities in different countries, enabling Korean students to study abroad and foreign students to study in Korea.
-■ Difficulties experienced by the government with regard to increasing access to higher education - In terms of financial support, the government has frozen tuition and expanded scholarships for higher education in order to lighten the load for students. These measures have become the most prominent higher education policies, and a considerable proportion of higher education budgets has been spent on the national scholarship programme. The downside of such policies is that, when combined with the decrease in the number of students, they have led to universities complaining of financial difficulties. - In relation to anti-discrimination measures, a number of legal and institutional efforts have been made in order to ensure persons with disabilities have access to higher education and equal opportunities for learning. Since 2005, the Support Programme for Students with
+■ Financial costs of education in higher public or private education institutions
+
+- In general, higher education in the Republic of Korea is not free of charge. According to 2019 public disclosure information, the average annual tuition per student is approximately KRW 4,160,000 for national/public universities (total for a four-year-course); and approximately KRW 7,460,000 for private universities (total for a four-year-course).
+
+■ Measures to promote access to higher education
+
+- Article 31.1 of the Constitution of the Republic of Korea and Article 31 (Selection of Students) of the Enforcement Decree of the Higher Education Act provide that all people should have an equal right to education according to their abilities, in terms of student admissions.
+
+- In order to lighten the financial burden for students and to enhance access to higher education, various scholarships are provided by education institutions, the State, local governments, etc. According to 2019 public disclosure information, the average amount of annual scholarship funds awarded to a student on a four-year university course is approximately KRW 2,700,000 at national/public universities and approximately KRW 3,510,000 at private universities.
+
+■ Affirmative action in relation to access to higher education
+
+- With regard to access to higher education, non-discriminatory measures are mostly aimed at persons with disabilities. Representative measures include legal measures (such as article 4 of the Act on Special Education for Persons with Disabilities, Etc.), special screening systems in university admissions, and assessment of educational welfare support provided in practice for university students with disabilities. In addition, a number of universities have special screening systems for the admission of persons with disabilities, students from multicultural families, etc. beyond the designated quota. A special screening process for students from rural communities ('farming, mountain and fishing towns') also exists in the admission system, in order to close gaps in opportunities caused by social and economic differences.
+
+■ Credit exchange programme
+
+- A number of universities run a credit exchange programme, allowing students to learn from other universities as well as their own. Credit exchange programmes and/or student exchange programmes are also run with universities in different countries, enabling Korean students to study abroad and foreign students to study in Korea.
+
+■ Difficulties experienced by the government with regard to increasing access to higher education
+
+- In terms of financial support, the government has frozen tuition and expanded scholarships for higher education in order to lighten the load for students. These measures have become the most prominent higher education policies, and a considerable proportion of higher education budgets has been spent on the national scholarship programme. The downside of such policies is that, when combined with the decrease in the number of students, they have led to universities complaining of financial difficulties.
+
+- In relation to anti-discrimination measures, a number of legal and institutional efforts have been made in order to ensure persons with disabilities have access to higher education and equal opportunities for learning. Since 2005, the Support Programme for Students with
 
 [[END OF PAGE 18]]
 
@@ -912,11 +939,17 @@ To provide such quality assessment, please take into account all educational ins
 [[START OF PAGE 21]]
 
 - Article 59 (Integrated Education) of the Elementary and Secondary Education Act states that where any person who needs special education intends to receive education at an elementary school, middle school, high school, or any type of school equivalent thereto, the State and local government shall establish policies necessary for conducting integrated education, such as providing for separate admission procedures and curricula.
----
+
 ■ Establishment of conditions relating to the quality of the education provided
-- Infrastructure to ensure equity in education includes: provision of transportation to support mobility of students with disabilities, assistance with transportation costs, remote learning for students with disabilities, a mobile education system, and provision of other facilities for students with disabilities, all of which aim to enhance access to education and to increase the participation of youth with disabilities. Infrastructure to ensure access to education for students with an immigrant background includes the operation of schools with multicultural education policies, Korean language classes, and special multicultural classes. In addition, the establishment and operation of education welfare offices provide students from economically disadvantaged populations with counseling on adaptation to school life and academic support. - In terms of teaching and learning materials provided to ensure equity in education, the Korea National Institute for Special Education develops various forms of teaching and learning support content and websites for different levels of education in order to eliminate educational gaps and ensure that students who are targets of special education can exercise their right to education. Various supplementary materials are also provided so
+
+- Infrastructure to ensure equity in education includes: provision of transportation to support mobility of students with disabilities, assistance with transportation costs, remote learning for students with disabilities, a mobile education system, and provision of other facilities for students with disabilities, all of which aim to enhance access to education and to increase the participation of youth with disabilities. Infrastructure to ensure access to education for students with an immigrant background includes the operation of schools with multicultural education policies, Korean language classes, and special multicultural classes. In addition, the establishment and operation of education welfare offices provide students from economically disadvantaged populations with counseling on adaptation to school life and academic support.
+
+- In terms of teaching and learning materials provided to ensure equity in education, the Korea National Institute for Special Education develops various forms of teaching and learning support content and websites for different levels of education in order to eliminate educational gaps and ensure that students who are targets of special education can exercise their right to education. Various supplementary materials are also provided so that the needs of students with disabilities can be catered for within the basic curriculum.
+
 ■ Legal or regulatory provisions to ensure that children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools)
+
 - The Act on the Prevention of and Countermeasures against Violence in Schools aims to protect the human rights of students and ensure that students develop into healthy members of society through the provision of measures to prevent and resolve violence in schools, to protect students that are victims of such violence, to guide and educate students that perpetrate such violence, and to mediate between victims and perpetrators. This Act provides for the establishment of the Committee for Countermeasures against School Violence under the jurisdiction of the Prime Minister, and states that the Minister of Education should set the policy direction and goals for the prevention and resolution of school violence every 5 years. In addition, the Act provides that the Superintendent of the Office of Education within each city/province shall establish and operate an exclusive unit for the prevention and solution of school violence and conduct a fact-finding survey at least twice a year to ascertain the current situation relating to school violence and formulate efficient measures to prevent school violence.
+
 - Pursuant to the above-mentioned Act, the 4th Basic Plan for Prevention of and Countermeasures against Violence in Schools was established in January 2020, with the vision of 'happy schools made by everyone'. This five-year plan consists of 14 projects in 5 areas of action, including prevention of school violence by enhancing the capacities of the school community, strengthening of equitable and educational actions to address school violence, strengthening remedial systems and the measures in place to protect victims of school violence, reinforcing education and guidance for wrongdoing students, and establishing social systems for prevention of school violence.
 
 [[END OF PAGE 21]]
@@ -965,9 +998,9 @@ Article/Paragraph  4(d)  of  the  Convention/Recommendation  provides  for  the 
 
 [[START OF PAGE 23]]
 
-■
+welfare policies. In addition, article 44 (Temporary Suspension from Office) of the Educational Officials Act provides that public educational officials can be temporarily suspended from office and retain their status, instead of being dismissed, if they take time off for various reasons, such as child care, participation in training, studying abroad, etc.
 
-welfare  policies.  In  addition,  article  44  (Temporary  Suspension  from  Office)  of  the Educational  Officials  Act  provides  that  public  educational  officials  can  be  temporarily suspended from office and retain their status, instead of being dismissed, if they take time off for various reasons, such as child care, participation in training, studying abroad, etc. -  Selected  teachers  who  have  been  evaluated  as  outstanding  in  appraisals  for professional development and who meet certain other criteria are awarded a special one- year sabbatical for special training. This special training year allows teachers to continue their self-development and offers an opportunity to refresh themselves, with the aim of strengthening  the  competitiveness  of  the  teaching  profession  and  contributing  to  the advancement of the school system.
+- Selected teachers who have been evaluated as outstanding in appraisals for professional development and who meet certain other criteria are awarded a special one-year sabbatical for special training. This special training year allows teachers to continue their self-development and offers an opportunity to refresh themselves, with the aim of strengthening the competitiveness of the teaching profession and contributing to the advancement of the school system.
 
 ■ Performance monitoring systems
 
@@ -1037,15 +1070,11 @@ professors.
 
 □ Yes: Has your government addressed this issue?
 
-□
+□ Yes
 
-Yes
+□ No
 
-□
-
-No
-
-No Article/Paragraph  5(1)(a)  of  the  Convention/Recommendation  provides  for  the  respect  for human rights and fundamental freedoms. This is covered under SDG target 4.7. 11 Please note that  this  section  contributes  to  the  general  monitoring  of  Article/Paragraph  5(1)(a)  of  the Convention/Recommendation  and  that  the  consultation  on  the  1974  Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms will be used specifically for monitoring SDG4 indicator 4.7.1.
+■ No
 
 ##### 2.7 Respect for human rights and fundamental freedoms
 
@@ -1053,7 +1082,9 @@ No Article/Paragraph  5(1)(a)  of  the  Convention/Recommendation  provides  for
 
 [[START OF PAGE 24]]
 
-- Please indicate the national efforts taken in directing education to the full development of the human  personality  and  the  strengthening  of  respect  for  human  rights  and  fundamental freedoms (several items could be ticked/mentioned):
+Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SDG target 4.7.11 Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation and that the consultation on the 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms will be used specifically for monitoring SDG4 indicator 4.7.1.
+
+- Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items could be ticked/mentioned):
 
 ■  Curriculum includes human rights education
 
@@ -1359,31 +1390,19 @@ Act as requiring support to pay educational costs to the Minister of Education a
 
 by Ordinance of the Ministry of Justice.
 
-### Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
+### III. Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
 
 #### 1. Challenges and obstacles
 
-- 1.1 Please indicate and provide any information on the difficulties encountered in the process of implementing  the  key  provisions  of  the  Convention/Recommendation  (including  legal  and
+1.1 Please indicate and provide any information on the difficulties encountered in the process of implementing the key provisions of the Convention/Recommendation (including legal and
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
 
-- 1.2 Please provide a brief assessment of the effectiveness of the methods introduced to remove the obstacles encountered:
-
-■ The compulsory and free education policies expand educational opportunities. Also, free lunch and half-price tuition policies have contributed to reducing the risks of exclusion from educational opportunities due to economic difficulties.
-
-■ The Republic of Korea has tried to guarantee educational opportunities for vulnerable groups (e.g. students with disabilities and from low-income families), and has improved the educational situation for agricultural, mountain and fishing villages, as well as underdeveloped cities and overcrowded school areas.
-
-■ Results have been achieved in solving issues such as school drop-outs and difficulties in adapting to the school environment.
-
-■  Projects  related  to  global  citizenship  education  (GCED)  and  democratic  citizenship education  (e.g.  human  rights  education,  citizenship  education,  unification  education, education  to  improve  awareness  about  disabilities,  peace  education,  environmental education, etc.) have contributed to fostering awareness.
-
-■ There is still a need to promote students' voluntary participation in learning-through measures  such as innovative schools and the 'free semester system (test-free semesters)- and ultimately to expand this into policies for individualized and inclusive education.
-
 practical obstacles) and on the main issues that need to be addressed for promoting further the right to education in your country (several items could be ticked/mentioned):
 
-■ Challenges related to equitable access and inclusion in education (such as poverty and socio-economic  factors,  cultural  and  traditional  attitudes,  remoteness,  migration  and displacement, etc.)
+■ Challenges related to equitable access and inclusion in education (such as poverty and socio-economic factors, cultural and traditional attitudes, remoteness, migration and displacement, etc.)
 
 ■ Need to ameliorate discriminatory culture and increase awareness of it
 
@@ -1391,7 +1410,7 @@ practical obstacles) and on the main issues that need to be addressed for promot
 
 ■ Challenges in reinforcement of lifelong education policies for adulthood and at each stage of the life cycle
 
-■   Challenges related to the quality of education (such as shortages of qualified, trained and motivated teaching staff, non-supportive or inadequate teaching and learning as well as school environment, etc.)
+■ Challenges related to the quality of education (such as shortages of qualified, trained and motivated teaching staff, non-supportive or inadequate teaching and learning as well as school environment, etc.)
 
 ■ Low readiness of faculty and support personnel for inclusive education (lack of training and professional development opportunities)
 
@@ -1401,13 +1420,27 @@ practical obstacles) and on the main issues that need to be addressed for promot
 
 ■ Lack of involvement of vulnerable groups in curriculum development and management
 
-■   Challenges relating to the system and governance (such as budgetary constraints, lack or weakness of monitoring systems - including the lack of reliable data, absence of supportive/ inconsistent/obsolete  legal  and  policy  environment,  lack  of  involvement  of  relevant stakeholders and lack of cooperation/coordination at different levels, etc.)
+■ Challenges relating to the system and governance (such as budgetary constraints, lack or weakness of monitoring systems – including the lack of reliable data, absence of supportive/inconsistent/obsolete legal and policy environment, lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels, etc.)
 
-■ Limited budget (lack of faculty and support staff, regional differences in support, etc.) ■  Lack  of  outcomes  in  terms  of  proclamations  of  legislation  and  the  actual  state  of education in practice (linked to the issue of governance reform)
+■ Limited budget (lack of faculty and support staff, regional differences in support, etc.)
+
+■ Lack of outcomes in terms of proclamations of legislation and the actual state of education in practice (linked to the issue of governance reform)
 
 ■ Insufficient guarantee of participation by policy recipients in policy establishment and execution
 
 □ Other:
+
+1.2 Please provide a brief assessment of the effectiveness of the methods introduced to remove the obstacles encountered:
+
+■ The compulsory and free education policies expand educational opportunities. Also, free lunch and half-price tuition policies have contributed to reducing the risks of exclusion from educational opportunities due to economic difficulties.
+
+■ The Republic of Korea has tried to guarantee educational opportunities for vulnerable groups (e.g. students with disabilities and from low-income families), and has improved the educational situation for agricultural, mountain and fishing villages, as well as underdeveloped cities and overcrowded school areas.
+
+■ Results have been achieved in solving issues such as school drop-outs and difficulties in adapting to the school environment.
+
+■ Projects related to global citizenship education (GCED) and democratic citizenship education (e.g. human rights education, citizenship education, unification education, education to improve awareness about disabilities, peace education, environmental education, etc.) have contributed to fostering awareness.
+
+■ There is still a need to promote students' voluntary participation in learning—through measures such as innovative schools and the ‘free semester system (test-free semesters)— and ultimately to expand this into policies for individualized and inclusive education.
 
 [[END OF PAGE 29]]
 
@@ -1425,7 +1458,7 @@ UNESCO  governing  bodies  have  underlined  the  need  for  awareness  raising.
 
 □ Increased public awareness through advocacy material on the Convention/ Recommendation or the core principles of the right to education
 
-■   Activities undertaken  or supported by the  National  Commission  to  promote  nondiscrimination  and  equality  of  educational  opportunities  and  to  foster  debate  on  critical issues in relation to the rights enshrined in the instruments
+■ Activities undertaken or supported by the National Commission to promote non-discrimination and equality of educational opportunities and to foster debate on critical issues in relation to the rights enshrined in the instruments
 
 □ Other:
 
