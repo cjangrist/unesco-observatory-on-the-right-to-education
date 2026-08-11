@@ -1,20 +1,20 @@
 [[START OF PAGE 1]]
-
+Biblioteca del Congreso Nacional de Chile    Legislación chilena
 Tipo Norma               :Ley 20609
 
 Fecha Publicación        :24-07-2012
 
 Fecha Promulgación       :12-07-2012
 
+Organismo                :MINISTERIO SECRETARÍA GENERAL DE GOBIERNO
+
+Título                   :ESTABLECE MEDIDAS CONTRA LA DISCRIMINACIÓN
+
 Tipo Versión             :Única     De : 24-07-2012
 
 Inicio Vigencia          :24-07-2012
 
 Id Norma                 :1042092
-
-Organismo                :MINISTERIO SECRETARÍA GENERAL DE GOBIERNO
-
-Título                   :ESTABLECE MEDIDAS CONTRA LA DISCRIMINACIÓN
 
 URL                      :https://www.leychile.cl/N?i=1042092&f=2012-07-24&p=
 
@@ -50,7 +50,7 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
-
+Biblioteca del Congreso Nacional de Chile    Legislación chilena
 ### Artículo 4º.- Legitimación activa.
 La acción podrá interponerse por cualquier persona lesionada en su derecho a no ser objeto de discriminación arbitraria, por su representante legal o por quien tenga de hecho el cuidado personal o la educación del afectado, circunstancia esta última que deberá señalarse en la presentación.
 
@@ -64,17 +64,17 @@ La acción se interpondrá por escrito, pudiendo, en casos urgentes, interponers
 ### Artículo 6º.- Admisibilidad.
 No se admitirá a tramitación la acción de no discriminación arbitraria en los siguientes casos:
 
-- Cuando se ha recurrido de protección o de amparo, siempre que tales acciones hayan sido declaradas admisibles, aun cuando el recurrente se haya desistido. Tampoco se admitirá cuando se haya requerido tutela en los términos de los artículos 485 y siguientes del Código del Trabajo.
+a) Cuando se ha recurrido de protección o de amparo, siempre que tales acciones hayan sido declaradas admisibles, aun cuando el recurrente se haya desistido. Tampoco se admitirá cuando se haya requerido tutela en los términos de los artículos 485 y siguientes del Código del Trabajo.
 
-- Cuando se impugnen los contenidos de leyes vigentes.
+b) Cuando se impugnen los contenidos de leyes vigentes.
 
-- Cuando se objeten sentencias emanadas de los tribunales creados por la Constitución o la ley.
+c) Cuando se objeten sentencias emanadas de los tribunales creados por la Constitución o la ley.
 
-- Cuando carezca de fundamento. El juez deberá decretarla por resolución fundada.
+d) Cuando carezca de fundamento. El juez deberá decretarla por resolución fundada.
 
-- Cuando la acción haya sido deducida fuera de plazo.
+e) Cuando la acción haya sido deducida fuera de plazo.
 
-- Si la situación a que se refiere la letra a) se produce después de que haya sido admitida a tramitación la acción de no discriminación arbitraria, el proceso iniciado mediante esta última acción terminará por ese solo hecho.
+Si la situación a que se refiere la letra a) se produce después de que haya sido admitida a tramitación la acción de no discriminación arbitraria, el proceso iniciado mediante esta última acción terminará por ese solo hecho.
 
 ### Artículo 7º.- Suspensión provisional del acto reclamado.
 En cualquier momento del juicio, el recurrente podrá solicitar la suspensión provisional del acto reclamado, y el tribunal deberá concederla cuando, además de la apariencia de derecho, su ejecución haga inútil la acción o muy gravosa o imposible la restitución de la situación a su estado anterior.
@@ -98,7 +98,7 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
-
+Biblioteca del Congreso Nacional de Chile    Legislación chilena
 Acto seguido, el tribunal dictará una resolución fijando la fecha para la realización de la audiencia de recepción de las pruebas, que deberá tener lugar entre el quinto y el décimo quinto día hábil posterior a dicha resolución. Si tal audiencia no fuere suficiente para recibir todas las pruebas que fueren procedentes o si las partes piden su suspensión por motivos fundados o de común acuerdo, lo que podrán hacer sólo por una vez, se fijará una nueva audiencia para dentro de los cinco días hábiles siguientes a la fecha de la anterior. Finalizada la última audiencia de prueba, el tribunal deberá citar a las partes a oír sentencia.
 
 ### Artículo 10.- Prueba.
@@ -138,12 +138,12 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
-
-- En el artículo 84, reemplázase la letra l) que se ordenó incorporar a dicho precepto por la ley Nº 20.005, por la siguiente:
+Biblioteca del Congreso Nacional de Chile    Legislación chilena
+1) En el artículo 84, reemplázase la letra l) que se ordenó incorporar a dicho precepto por la ley Nº 20.005, por la siguiente:
 
 "l) Realizar cualquier acto atentatorio a la dignidad de los demás funcionarios. Se considerará como una acción de este tipo el acoso sexual, entendido según los términos del artículo 2º, inciso segundo, del Código del Trabajo, y la discriminación arbitraria, según la define el artículo 2º de la ley que establece medidas contra la discriminación.".
 
-- Reemplázase la letra b) del artículo 125 por la siguiente:
+2) Reemplázase la letra b) del artículo 125 por la siguiente:
 
 "b) Infringir las disposiciones de las letras i), j), k) y l) del artículo 84 de este Estatuto;".
 
@@ -160,7 +160,7 @@ Agrégase en el artículo 12 el siguiente numeral:
 ### Artículo 18.- Interpretación de esta ley.
 Los preceptos de esta ley no podrán ser interpretados como derogatorios o modificatorios de otras normas legales vigentes, con la sola excepción de las disposiciones señaladas en los tres artículos precedentes.
 
-Habiéndose cumplido con lo establecido en el Nº 1º del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República. Santiago, 12 de julio de 2012.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Andrés Chadwick Piñera, Ministro Secretario General de Gobierno.Patricia Pérez Goldberg, Ministra de Justicia (S).
+Habiéndose cumplido con lo establecido en el Nº 1º del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República. Santiago, 12 de julio de 2012.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Andrés Chadwick Piñera, Ministro Secretario General de Gobierno.- Patricia Pérez Goldberg, Ministra de Justicia (S).
 
 Lo que transcribo a usted para su conocimiento.- Mauricio Lob de la Carrera, Subsecretario General de Gobierno (S).
 
