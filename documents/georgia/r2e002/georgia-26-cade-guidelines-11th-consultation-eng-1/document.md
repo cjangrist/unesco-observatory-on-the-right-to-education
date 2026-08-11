@@ -24,7 +24,7 @@ Eleventh consultation of Member  States on the application of the Convention and
 
 ## 1. Introduction
 
-The Convention against Discrimination in Education ('the Convention') and the Recommendation against  Discrimination  in  Education  ('the  Recommendation'),  adopted  by  UNESCO's  General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'ad vance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
+The Convention against Discrimination in Education ('the Convention') and the Recommendation against Discrimination in Education ('the Recommendation'), adopted by UNESCO's General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'advance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
 
 The right to education is one of the key principles underpinning the Education 2030 agenda and Sustainable Development Goal 4 (SDG4) adopted by the international community in 2015. SDG 4 seeks to ensure the full enjoyment of the right to education as fundamental to achieving sustainable development. Its scope captures the multidimensional nature of the right to education.
 
@@ -54,7 +54,7 @@ There are differences in the legal nature of the obligations under the Conventio
 
 Bearing in mind the differences in legal scope inherent to the nature of these two categories of instruments,  the  content  of  the  Recommendation  is  identical  to  that  of  the  Convention.  Member States are expected to give effect to it in national legislation and education policies.
 
-The  reporting  obligation  under  the  provisions  of  Article  VII  of  the  Convention  and  of  the Recommendation is the same. Article VIII of UNESCO's Constitution states that ' Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General  Conference,  reports  on  the  laws,  regulations  and  statistics  relating  to  its  educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to i n Article IV, paragraph 4' . Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
+The reporting obligation under the provisions of Article VII of the Convention and of the Recommendation is the same. Article VIII of UNESCO's Constitution states that “Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General Conference, reports on the laws, regulations and statistics relating to its educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4”. Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
 
 > 1 https://www.unesco.org/en/right-education/evolving
 
@@ -80,11 +80,11 @@ The Futures of Education Report calls for a new social contract for education, w
 
 The preparation of national reports provides a good opportunity for Member States to assess the implementation  of  the  right  to  education  in  their  country,  identify  specific  challenges,  build constructive dialogue with other actors involved in this field and share good practices.
 
-In the preparation of reports, Member States are encouraged to provide substantive and relevant information  in  a  concise  manner .  In  addition  to  a  description  of  the  constitutional,  legislative, administrative, and  policy framework  established  for  the implementation  of  the provisions guaranteed by the instruments, the information supplied by Member States should demonstrate how legal norms and practices comply with the Convention and the Recommendation.
+In the preparation of reports, Member States are encouraged to provide substantive and relevant information in a concise manner. In addition to a description of the constitutional, legislative, administrative, and policy framework established for the implementation of the provisions guaranteed by the instruments, the information supplied by Member States should demonstrate how legal norms and practices comply with the Convention and the Recommendation.
 
 Relevant information supplied for other reporting instances may be reproduced or referred to with precise indication as to its retrieval. Similarly, hyperlinks to any useful documents or relevant legal and policy texts are most welcome and texts can also be added in the annex.
 
-Country reports submitted for previous consultations can be found on the Observatory on the right to education 7 in the monitoring section of the country profile. The information provided in the reports are valuable both for the Observatory on the right to education as well as for HerAtlas 8 , the online monitoring tool for girls' and women's right to education. Information and data regarding countries ' education systems are also available through the UNESCO Institute for Statistics database 9 . Beyond monitoring  purposes,  the  consultation  findings  and  reports  inform  broader  work  -  serving  for knowledge generation, advocacy, and technical cooperation.
+Country reports submitted for previous consultations can be found on the Observatory on the right to education 7 in the monitoring section of the country profile. The information provided in the reports are valuable both for the Observatory on the right to education as well as for HerAtlas 8, the online monitoring tool for girls' and women's right to education. Information and data regarding countries' education systems are also available through the UNESCO Institute for Statistics database 9. Beyond monitoring purposes, the consultation findings and reports inform broader work - serving for knowledge generation, advocacy, and technical cooperation.
 
 ## 5. Modalities and structure
 
@@ -108,9 +108,9 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 6]]
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States. Please note that multiple answers may be provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States. Please note that multiple answers may be provided where relevant.
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 [[END OF PAGE 6]]
 
@@ -126,7 +126,7 @@ Name of contact person:
 
 Email and telephone number of contact person:
 
-## Ratification and applicability of the Convention against Discrimination in Education 10
+## I. Ratification and applicability of the Convention against Discrimination in Education 10
 
 - Is your country a State Party to the Convention?
 
@@ -174,7 +174,7 @@ Email and telephone number of contact person:
 
 Information could also be given about the judicial, administrative and other competent authorities having jurisdiction with respect to the right to education.
 
-## Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the  context  of Sustainable Development Goal 4 (SDG4)
+## II. Information on the implementation of the Convention or Recommendation in the context of Sustainable Development Goal 4 (SDG4)
 
 ### 1. Towards an inclusive non-discriminatory education system
 
@@ -206,25 +206,25 @@ It further corresponds to the overall aspiration of SDG4 which aims to 'ensure i
 
 #### Article 13 - Neutrality and non-discrimination
 
-- Politicization of the study process in general education institutions shall be inadmissible.
+1. Politicization of the study process in general education institutions shall be inadmissible.
 
-- The use of the study process in general education institutions for the purpose of religious indoctrination,  proselytism  or  forced  assimilation  shall  be  inadmissible.  This  rule  shall  not restrict the celebration of public holidays and historical dates in public schools, as well as the organisation of such events that are intended to establish national and universal values.
+2. The use of the study process in general education institutions for the purpose of religious indoctrination, proselytism or forced assimilation shall be inadmissible. This rule shall not restrict the celebration of public holidays and historical dates in public schools, as well as the organisation of such events that are intended to establish national and universal values.
 
-- Any discrimination on admission to a school shall be inadmissible. This rule shall not exclude the possibility of holding a competitive selection in general education institutions that carry out military, specialized arts and sports trainings, as well as in schools with other status. Special educational needs of a person must be considered in a competitive selection.
+3. Any discrimination on admission to a school shall be inadmissible. This rule shall not exclude the possibility of holding a competitive selection in general education institutions that carry out military, specialized arts and sports trainings, as well as in schools with other status. Special educational needs of a person must be considered in a competitive selection.
 
-- It shall be inadmissible for schools to use their powers and resources in a way to directly or indirectly discriminate against pupils, parents, teachers or their associations.
+4. It shall be inadmissible for schools to use their powers and resources in a way to directly or indirectly discriminate against pupils, parents, teachers or their associations.
 
-- Any differentiating act or an exception shall be considered as discrimination, except for the cases where such act or exception is fair and reasonable and ensures free development of and equal opportunities for each person and group.
+5. Any differentiating act or an exception shall be considered as discrimination, except for the cases where such act or exception is fair and reasonable and ensures free development of and equal opportunities for each person and group.
 
-- Schools shall observe and facilitate tolerance and mutual respect among pupils, parents and teachers irrespective of their social, ethnic, religious, linguistic and world-view affiliations.
+6. Schools shall observe and facilitate tolerance and mutual respect among pupils, parents and teachers irrespective of their social, ethnic, religious, linguistic and world-view affiliations.
 
-- Schools shall protect individual and collective rights of minorities to freely use their native language, preserve and manifest their cultural affiliation on the basis of equality.
+7. Schools shall protect individual and collective rights of minorities to freely use their native language, preserve and manifest their cultural affiliation on the basis of equality.
 
 #### Article 26 - Authority of the Ministry of Education and Science of Georgia in the field of general education
 
-- On the basis of the legislation of Georgia in the field of general education, in particular the Constitution of Georgia, the Constitutional Agreement, international agreements and treaties of Georgia, this Law, other laws and secondary legislation, the Ministry of Education and Science of Georgia shall:
+1. On the basis of the legislation of Georgia in the field of general education, in particular the Constitution of Georgia, the Constitutional Agreement, international agreements and treaties of Georgia, this Law, other laws and secondary legislation, the Ministry of Education and Science of Georgia shall:
 
-l) take the measures necessary for acquisition of education by all pupils, including pupils with special  educational  needs and  pupils  expelled  from school;  develop  provisions  for  certifying external education; develop provisions for moving pupils from one general education institution to  another  general  education  institution;  develop  provisions  for  alternative  ways  to  acquire education;  develop  the  procedures  for  introducing,  developing  and  monitoring  inclusive education, as well as the mechanisms for identifying pupils with special educational needs;
+l) take the measures necessary for acquisition of education by all pupils, including pupils with special educational needs and pupils expelled from school; develop provisions for certifying external education; develop provisions for moving pupils from one general education institution to another general education institution; develop provisions for alternative ways to acquire education; develop the procedures for introducing, developing and monitoring inclusive education, as well as the mechanisms for identifying pupils with special educational needs;
 
 Since 2005 the Ministry of Education, Science and Youth of Georgia started to develop Inclusive Education  at  General  Education  level.  Law  on  General  Education  and  National  Curriculum recognize the individual and alternative forms of Education. For accessible and quality education additional services for SENs in Public schools are developed.
 
@@ -268,7 +268,7 @@ For reference: This notably is covered under SDG target 4.1 and partly target 4.
 
 > 13 See: Article/Paragraph 1(1).
 
-> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programm es'.
+> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'.
 
 [[END OF PAGE 10]]
 
@@ -292,7 +292,7 @@ For reference: This notably is covered under SDG target 4.1 and partly target 4.
 
 · Constitution of Georgia, Article 35
 
-Article 35 of Constitution of Georgia, adopted on 24 August 1995 (Last amendment 27.12.06) states that everyone shall have the right to receive education and the right to free choice of a form  of  Education.  Inclusive  education  in  Georgia  is  regulated  by  th e  Law  on  'Early  and Preschool Education', "General Education", 'Vocational Education' and the National Curriculum. The Laws of Early and Preschool, General and Vocation Education are harmonized to the Convention on the Right of People with Disability.
+Article 35 of Constitution of Georgia, adopted on 24 August 1995 (Last amendment 27.12.06) states that everyone shall have the right to receive education and the right to free choice of a form of Education. Inclusive education in Georgia is regulated by the Law on 'Early and Preschool Education', "General Education", 'Vocational Education' and the National Curriculum. The Laws of Early and Preschool, General and Vocation Education are harmonized to the Convention on the Right of People with Disability.
 
 - Law of Georgia on On Early and Preschool Education
 
@@ -300,21 +300,21 @@ Article 35 of Constitution of Georgia, adopted on 24 August 1995 (Last amendment
 
 In  order  to  ensure  equal  and  qualified  early  and  preschool  education  that  is  based  on  the principle of the protection of the best interests of children in the entire territory of the country, the  Government  of  Georgia  shall  exercise  the  following  powers  and  fulfil  the  following obligations:
 
-- to ensure the universal availability of early and preschool education programmes, including the  school  readiness  programme,  within  the  scopes  of  the  legal  regulation  of  the  rights  of children and their parents and/or legal representatives;
+a) to ensure the universal availability of early and preschool education programmes, including the school readiness programme, within the scopes of the legal regulation of the rights of children and their parents and/or legal representatives;
 
 ##### Article 10- Powers and/or obligations of municipalities in the field of preschool education
 
-- On the basis of the legislation of Georgia in the field of preschool education, the Constitution of Georgia, the international agreements and treaties of Georgia, this Law, and other laws and subordinate legislative acts of Georgia municipalities shall:
+1. On the basis of the legislation of Georgia in the field of preschool education, the Constitution of Georgia, the international agreements and treaties of Georgia, this Law, and other laws and subordinate legislative acts of Georgia municipalities shall:
 
-- ensure the delivery of preschool education services in compliance with state standards;
+a) ensure the delivery of preschool education services in compliance with state standards;
 
-- ensure the delivery of equally available and inclusive preschool education;
+b) ensure the delivery of equally available and inclusive preschool education;
 
 - Law of Georgia on General Education
 
 ##### Article 9 - Right to acquire general education
 
-- Everyone shall enjoy equal rights to acquire a complete general education in order to fully develop his/her personality and acquire knowledge and skills necessary for equal opportunities
+1. Everyone shall enjoy equal rights to acquire a complete general education in order to fully develop his/her personality and acquire knowledge and skills necessary for equal opportunities
 
 > 15 Constitution, laws, decrees, regulations, circulars, etc.
 
@@ -386,27 +386,29 @@ environment in the educational institution, for persons with special educational
 
 Article 3 - Goals of higher education
 
-The goals of higher education are determined by the law of Georgia on higher education. In order to achieve the goals determined by Article 3 the State shall ensure:
+The goals of higher education are determined by the law of Georgia on higher education.
 
-- access to and openness of higher education and academic freedom in learning, teaching and scientific research;
+In order to achieve the goals determined by Article 3 the State shall ensure:
 
-- the opportunity to acquire higher education at any time during a person's lifetime;
+a) access to and openness of higher education and academic freedom in learning, teaching and scientific research;
 
-- the integration of higher education and science;
+b) the opportunity to acquire higher education at any time during a person's lifetime;
 
-- the development of quality assurance systems, which implies the functioning of authorization and accreditation systems, and quality management assurance mechanisms at higher education institutions;
+c) the integration of higher education and science;
 
-- full participation in a unified European educational and research area for the processes of learning, teaching and for conducting scientific research works, as well as in other international systems of cooperation;
+d) the development of quality assurance systems, which implies the functioning of authorization and accreditation systems, and quality management assurance mechanisms at higher education institutions;
 
-- the autonomy of higher education institutions;
+e) full participation in a unified European educational and research area for the processes of learning, teaching and for conducting scientific research works, as well as in other international systems of cooperation;
 
-- the  participation  of  academic  personnel,  scientific  personnel  and  students  of  a  higher education institution in the process of making decisions and monitoring of their execution;
+f) the autonomy of higher education institutions;
 
-- the  prevention  of  any  forms  of  discrimination  in  the  field  of  higher  education,  including academic, religious or ethnic discrimination, as well as discrimination on the grounds of opinion, gender, social origin and others;
+g) the participation of academic personnel, scientific personnel and students of a higher education institution in the process of making decisions and monitoring of their execution;
 
-- publicity  and transparency of the management of higher education institutions and of the competitions held in these institutions;
+h) the prevention of any forms of discrimination in the field of higher education, including academic, religious or ethnic discrimination, as well as discrimination on the grounds of opinion, gender, social origin and others;
 
-- the  provision  of  other  conditions  that  facilitate  achievement  of  the  goals  specified  by paragraph 1 of this article.
+i) publicity and transparency of the management of higher education institutions and of the competitions held in these institutions;
+
+j) the provision of other conditions that facilitate achievement of the goals specified by paragraph 1 of this article.
 
  Policies, programmes and initiatives aim to prohibit and prevent discrimination and ensure equal access to education
 
@@ -428,14 +430,14 @@ The goals of higher education are determined by the law of Georgia on higher edu
 
 [[START OF PAGE 15]]
 
-The Ministry nearly 18 years develops Inclusive Education. Article 35 of Constitution of Georgia , adopted on 24 August 1995 (Last amendment 27.12.06) states that everyone shall have the right to receive education and the right to free choice of a form of Education. Inclusive education in Georgia is regulated by the Law on 'Early and Preschool Education', "General Education", 'Vocational Education' and the National Curriculum. The Laws of Early and Preschool, General and Vocation Education are harmonized to the Convention on the Right of People with Disability.
----
+The Ministry nearly 18 years develops Inclusive Education. Article 35 of Constitution of Georgia, adopted on 24 August 1995 (Last amendment 27.12.06) states that everyone shall have the right to receive education and the right to free choice of a form of Education. Inclusive education in Georgia is regulated by the Law on 'Early and Preschool Education', "General Education", 'Vocational Education' and the National Curriculum. The Laws of Early and Preschool, General and Vocation Education are harmonized to the Convention on the Right of People with Disability.
+
 Since 2005 the Ministry started to develop Inclusive Education at General Education level. Law on General Education and National Curriculum recognize the individual and alternative forms of Education. For accessible and quality education developed additional services for SENs in Public schools.
 In Georgia special education needs (SEN) of a pupil is based on the assessment and conclusion of the multidisciplinary team. A multidisciplinary team was created, which consists of 50 members and covers the whole Georgia. The team consists of different specialists (psychologist, special teacher, occupational therapist, psychiatrist), whose function is to determine special educational needs (SEN) in accordance with standardized tests and develop recommendations for schools in teaching and learning.
 The number of SEN students is increasing in public schools. In the beginning, the number of SEN students was only a few hundred, while the number has reached 13,123 in public schools by April 2024.
 The model of school funding has changed since September 1, 2013, and the schools where SEN students are enrolled receive additional funding to ensure their education. In 2013, funding amounted to GEL 350 for every six SEN students and since 2021, the funding has increased to GEL 700 for every five students.
 In 2018, amendments were made to the Law of Georgia on General Education, determining the special teacher as one of the types of teachers. The standard of special teacher was approved as well as the career advancement and professional development scheme was defined. Currently, 2253 special education teachers are employed in schools, out of whom 10 are lead and 1505 senior teachers. From June 2023 to March 2024, 151 special education teachers were granted the status of a senior teacher.
-By the Order N86/N of the Minister of Education, Science and Youth of Georgia dated April 1, 2024, the "Rule of conducting the basic professional skills test" was approved. From April 3 to April 15, 2024, registration for the basic professional skills test is underway by the National Assessment and Examinations Center (NAEC). Successful passing of the text is a prerequisite for enrolment in the special teacher training educational program. More than 16,000 applicants registered for the 2023 teacher subject exam, and about 2,500 examinees registered for the senior special teacher exam. The exam started on the 6th of July and concluded on the 24th of
+By the Order N86/N of the Minister of Education, Science and Youth of Georgia dated April 1, 2024, the "Rule of conducting the basic professional skills test" was approved. From April 3 to April 15, 2024, registration for the basic professional skills test is underway by the National Assessment and Examinations Center (NAEC). Successful passing of the text is a prerequisite for enrolment in the special teacher training educational program. More than 16,000 applicants registered for the 2023 teacher subject exam, and about 2,500 examinees registered for the senior special teacher exam. The exam started on the 6th of July and concluded on the 24th of July. More than 82% of the 18,500 applicants were present for the exams.
 The procedure for the introduction, development and monitoring of inclusive education were approved as well as the mechanism for the identification of students with special educational needs. The mechanism regulated the progression of inclusive education in the school as well as the process of determining the status of SEN students by a multidisciplinary team. The additional specialists who should work with the SEN student were defined - psychologist, occupational therapist, speech therapist, sign language interpreter, sign language specialist, orientation and mobility specialist, assistant of a person with special educational needs.
 The Ministry is developing numerous auxiliary resources, guides, manuals, which serve to promote the education of the SEN student and are intended for specialists, teachers, and
 
@@ -522,11 +524,21 @@ To strengthen the quality and inclusiveness of the educational system, since 202
 [[START OF PAGE 17]]
 
 in a single space, which will greatly contribute to the coordinated management of existing resources, their efficient usage, and strengthening of required competencies. In addition, the new system ensures the strengthening of resource schools, the improvement of the counseling and transition components of public schools, the formation of effective operational teams, and the development of new support services, upon the needs. The new system envisages consistent, multitiered educational support, tailored to the individual needs and abilities of each child, which on its own helps to improve the quality of inclusive educational practices in the learning environment. In November 2023, an amendment was introduced to the Law of Georgia "On General Education", which, based on best Norwegian practice, creates the basis for the implementation of a new system supporting inclusive education in the Office of Resource Officers of Educational Institutions (ORO). The new model supporting inclusive education will enter into force from June 1, 2024. In the meantime, the process of setting up Inclusive and Special Education Support Center is underway at the Office of Resource Officers of Educational Institutions (ORO). The Center will coordinate the identification of special educational needs, counselling services, transition support processes, etc.
----
-the Georgian Braille font in order to foster access to education for blind pupils/students. Electronic braille support tool is integrated into the open-source, free software 'liblui', which is built into various screen readers such as NVDA, JAWS, and others. As a result, blind people can read information displayed on a computer screen using an electronic braille display. It has also become possible to type text using the Braille keyboard, which allows blind people to fully use computers both in study and working environments, as well as in everyday life. In December 2022, the Law of Georgia "On General Education" was amended, the term
-the "Inclusive Education Action Plan of the Ministry of Education and Science of Georgia for 2023-2024" was approved. The Action plan aims to ensure accessibility and quality of education at all levels. The plan is based on 3 strategic priorities: 1. systematic strengthening and development of inclusive education; 2. development of inclusive education approaches, methodology and services at all levels of education; 3. promotion of professional development of human resources involved in inclusive education. In 2023, two journal issues on "Inclusive Education" were prepared and published. "Inclusive Education" journal intends to create a communication space and collaborative network for open communication on important issues in the field. In the course of 2023 Unified National Examinations, NAEC provided 220 entrants and 22 master's degree candidates with special examination conditions. As a result, 191 entrants 14 candidates obtained the right to continue their studies. For the 2023-2024 academic year, within the framework of the Social Program, educational grant was awarded to 99 students who are disabled, a state educational grant was awarded to 1 student who is a person with the spectrum condition. For the 2023-2024 academic year, within the framework of the social program, the
-and state severely/significantly/moderately autism state educational master's grant was awarded to 11 persons who severely/significantly/moderately disabled persons. In order to support the professional development of a special teacher, the Sectoral for Special Education (Teacher Education) for MA programs was prepared and was by the Order of the Director of the National Center for Educational Quality Enhancement
-are Benchmarks approved (MES 0 23 0001779079 of December 29, 2023). The process of accreditation of the special teacher
+The Ministry of Education, Science and Youth of Georgia has created electronic support tool for the Georgian Braille font in order to foster access to education for blind pupils/students. Electronic braille support tool is integrated into the open-source, free software “liblui”, which is built into various screen readers such as NVDA, JAWS, and others. As a result, blind people can read information displayed on a computer screen using an electronic braille display. It has also become possible to type text using the Braille keyboard, which allows blind people to fully use computers both in study and working environments, as well as in everyday life.
+
+In December 2022, the Law of Georgia "On General Education" was amended, the term “transition” was defined, the measures supporting the transition were defined as part of the school curriculum, and the duties of the teacher and the general educational institution in relation to the support of the transitional process were defined as well.
+
+On October 03, 2023, by order N1292040 of the Minister of Education and Science of Georgia, the "Inclusive Education Action Plan of the Ministry of Education and Science of Georgia for 2023-2024" was approved. The Action plan aims to ensure accessibility and quality of education at all levels. The plan is based on 3 strategic priorities: 1. systematic strengthening and development of inclusive education; 2. development of inclusive education approaches, methodology and services at all levels of education; 3. promotion of professional development of human resources involved in inclusive education.
+
+In 2023, two journal issues on "Inclusive Education" were prepared and published. "Inclusive Education" journal intends to create a communication space and collaborative network for open communication on important issues in the field.
+
+In the course of 2023 Unified National Examinations, NAEC provided 220 entrants and 22 master's degree candidates with special examination conditions. As a result, 191 entrants and 14 candidates obtained the right to continue their studies.
+
+For the 2023-2024 academic year, within the framework of the Social Program, state educational grant was awarded to 99 students who are severely/significantly/moderately disabled, a state educational grant was awarded to 1 student who is a person with the autism spectrum condition.
+
+For the 2023-2024 academic year, within the framework of the social program, the state educational master's grant was awarded to 11 persons who are severely/significantly/moderately disabled persons.
+
+In order to support the professional development of a special teacher, the Sectoral Benchmarks for Special Education (Teacher Education) for MA programs was prepared and was approved by the Order of the Director of the National Center for Educational Quality Enhancement (MES 0 23 0001779079 of December 29, 2023). The process of accreditation of the special teacher
 
 [[END OF PAGE 17]]
 
@@ -552,9 +564,7 @@ The program works in several main directions, namely:
 
 • promoting the development of life skills;
 
-• Facilitating the development of academic skills for out
-
--of-school beneficiaries, and with
+• Facilitating the development of academic skills for out-of-school beneficiaries, and with
 
 beneficiaries at high risk of dropping out, specialists work to support the coping in school
 
@@ -634,11 +644,7 @@ Is actively involved in promoting implementation of the Council of Europe's 'Ref
 
 Framework  of  Competences  for  Democratic  Culture',  which  is  a  tool  to  implement
 
-Human Rights Education. In 2018 state program 'Democratic Culture and Human Rights
-
-Educat
-
-ion at Schools,' was launched. The given program aims to promote competences
+Human Rights Education. In 2018 state program 'Democratic Culture and Human Rights Education at Schools,' was launched. The given program aims to promote competences
 
 for  democratic  culture  in  schools  through  professional  development  of  teachers,  to
 
@@ -654,7 +660,7 @@ teachers and the school community with appropriate knowledge, skills and resourc
 
 Within the framework of the program, the cooperation with various organizations at the local  or  international  level  and  the  Council  of  Europe  and  the  European  Union  is  in progress.  Council  of  Europe  has  developed  a  platform  Democratic  Schools  Network, where school projects are presented on a dedicated webpage so thousands of education practitioners  across  Europe  can  learn  about  it  and  Georgian  schools  also  became  a member of the Democratic Schools Network.
 
-- Provides teachers with training modules that address issues of  human and  children's rights, violence against children, discrimination. Teachers on their part,  are  be able to transfer  and  use  the  acquired  knowledge/information  in  the  classroom  the  following number of teachers participated in trainings, where human and  children rights were discussed:
+2. Provides teachers with training modules that address issues of human and children's rights, violence against children, discrimination. Teachers on their part, are be able to transfer and use the acquired knowledge/information in the classroom the following number of teachers participated in trainings, where human and children rights were discussed:
 
 - Training modul:" Competencies of Democratic Culture " (online format)- 689 teachers were trained  in 2021 ;
 
@@ -693,11 +699,10 @@ Since 2013 studying in state VET institutions is fully financed by the state, an
 [[START OF PAGE 21]]
 
 mobile application of the mentioned bank, audio versions of vocational textbooks, guidelines related to vocational education were prepared. Furthermore, assistive technical devices such as portable video magnifiers, braille displays are available. Professional development of teachers and specialists involved in inclusive vocational education is carried out.
----
 The new regulation of providing inclusive vocational education has been developed aimed at supporting principles of inclusiveness and ensures involvement of persons with disabilities and special education needs in VET. It also considers provision of orientation service for persons with special educational needs, which will help beneficiaries to make informed decision regarding future career pathway through practical testing of different elements of profession, throughout the year.
 In 2021, a unified rule of enrolment in educational institutions was introduced in the vocational education system (The Order of the Minister of Education and Science of Georgia 42/n adopted in July 2, 2021 "On the approval of the rules and conditions of enrolment in the professional educational program"), according to which, in 2021, for the first time it became possible to enrol VET students with unified enrolment procedures not only in public but in all private institutions. 15% of the announced places are offered to the people with special needs. The admission process uses a variety of mechanisms, which, depending on the specifics of the program, provide a much more flexible approach to student selection. Registration of applicants is carried out online, the multidisciplinary team provides an assessment of the applicant and prepares of a relevant report, which will be reflected in the EMIS database. After the confirmation of the status, the selection of the person will be conducted based on a practical testing, which involves the practical performance of the activity/activities most characterizing the program by a person in conditions adapted to his/her individual needs and abilities.
 Skills Agency established jointly by Chamber of Commerce and MoESY developed Career Guidance Service for persons with special educational needs and disabilities. The purpose of the service is to facilitate, on the one hand, the transition of persons with SEN and Disabilities to the level of vocational education, and on the other hand, to support them in the process of choosing a profession. To implement the service, methodological resources were developed and college staff have been trained.
-Recently vocational education teachers' inclusion and gender mainstreaming standard has been created, which is a constituent part of the developed standards and represents the main determining regulatory framework of the teacher's work and its main goal is to develop practical skills and relevant attitudes among teachers for planning and implementing an inclusive and gender-sensitive learning process. According to the enrollment rule non- Georgian-speaking applicants have the opportunity to enroll in a professional educational program by passing the selection procedures (written test and/or interviews) in Armenian, Azerbaijani or Russian languages and choose a professional institution implementing professional educational programs with state funding. However, before enrolling at a specific field of VET programs, the applicant will be placed to take a 6-month long Georgian Language course and then, upon successful completion of this course, proceed studies to a VET program, accordingly.
+Recently vocational education teachers' inclusion and gender mainstreaming standard has been created, which is a constituent part of the developed standards and represents the main determining regulatory framework of the teacher's work and its main goal is to develop practical skills and relevant attitudes among teachers for planning and implementing an inclusive and gender-sensitive learning process. According to the enrollment rule non-Georgian-speaking applicants have the opportunity to enroll in a professional educational program by passing the selection procedures (written test and/or interviews) in Armenian, Azerbaijani or Russian languages and choose a professional institution implementing professional educational programs with state funding. However, before enrolling at a specific field of VET programs, the applicant will be placed to take a 6-month long Georgian Language course and then, upon successful completion of this course, proceed studies to a VET program, accordingly.
 People who received secondary education in the occupied territories of Georgia, can enroll in the vocational educational programs without passing the tests.
 Enrolment procedures is differentiated adjusted to socially vulnerable people as well. Education management and information system generates the ranked list of applicants,
 
@@ -745,13 +750,7 @@ which determines compliance of a programme with the accreditation standards. The
 
 is  carried  out  by  the  accreditation  experts'  panel  including  with  international expert  and  is
 
-based  on  the  analysis  of  the  information  indicated  in  the  self-evaluation  report  of  the
-
-programme and collected during the experts' site
-
--visit. Accreditation is obligatory for all types
-
-and stages of programmes.
+based on the analysis of the information indicated in the self-evaluation report of the programme and collected during the experts' site-visit. Accreditation is obligatory for all types and stages of programmes.
 
 LEPL National Centre for Educational Quality Enhancement (NCEQE) under the Ministry has
 
@@ -823,11 +822,11 @@ Physical  environment standard  -  indicators  cover  universal  design  princip
 
 Communication -  positive  relationship  with  peers:  (4.1.3;  4.1.4;  4.1.7;  4.1.12;  4.1.13; 4.1.14.) Provision of an inclusive environment to include a child with special educational needs in the educational process and promote positive relationships with peers; a new indicator (4.3.5) support for families of linguistic minorities, the importance of providing information in a language they understand;
 
-Educational process 5.1 The educational staff draws on the universal design principles during the educational process, considering respective indicators. The new indicator (5.3.5) refers  to  the  necessity  of  assessing  the  additional  needs  of  the  educator  to  implement individual approaches. The 12 new standard (5.6) indicators address the needs of children with disabilities about individual goals, plans, and processes (5.6.1; 5.6.2; 5.6.3; 5.6.4; 5.6.5; 5.6.6; 5.6.7; 5.6. 8; 5.6.10; 5.6.12.
+Educational process 5.1 - The educational staff draws on the universal design principles during the educational process, considering respective indicators. The new indicator (5.3.5) refers to the necessity of assessing the additional needs of the educator to implement individual approaches. The 12 new standard (5.6) indicators address the needs of children with disabilities about individual goals, plans, and processes (5.6.1; 5.6.2; 5.6.3; 5.6.4; 5.6.5; 5.6.6; 5.6.7; 5.6. 8; 5.6.10; 5.6.12.
 
-Standard 5.7 Educational staff takes care of personal and professional development. The staff  must  independently  assess  needs  and  the  need  to  own  assistive  technologies  for working with children with disabilities (5.7.4; 5.7.5).
+Standard 5.7 - Educational staff takes care of personal and professional development. The staff must independently assess needs and the need to own assistive technologies for working with children with disabilities (5.7.4; 5.7.5).
 
-The  National  Curriculum at  all  levels  of  general  education  (primary,  lower-secondary  and upper-secondary) in various subjects provides students with the opportunity to comprehend and  apply  such  concepts  in  various  contexts  as:  rule  of  law,  transparency,  equality,  nondiscrimination, human rights and others. Introduction to these concepts commences at the primary level with the subject "I and Society" (grades III-IV), followed by "Our Georgia" (grades V-VI),  and  at  the  intermediate  level,  the  subject  "Citizenship"  is  taught  as  an  independent course from grades VII to XII.
+The National Curriculum at all levels of general education (primary, lower-secondary and upper-secondary) in various subjects provides students with the opportunity to comprehend and apply such concepts in various contexts as: rule of law, transparency, equality, non-discrimination, human rights and others. Introduction to these concepts commences at the primary level with the subject "I and Society" (grades III-IV), followed by "Our Georgia" (grades V-VI), and at the intermediate level, the subject "Citizenship" is taught as an independent course from grades VII to XII.
 
 Vocational education contributes to the development of the necessary competencies through which citizens act in society with appropriate responsibility, as well as in accordance with such values as equality, dignity, social responsibility, and etc.
 
@@ -897,31 +896,31 @@ International Mechanisms for the Protection of Human Rights:
 
 ##### Evaluation of school textbooks is carried out by content criteria, which includes the following types of criteria along with field ones:
 
-- Content of the textbook (subject/sectoral content) is accurate and objective
+1. Content of the textbook (subject/sectoral content) is accurate and objective
 
 -The content (text/visual material) is reliable and accurate. The content is in line with modern achievements of the field: terms, concepts, facts, events, processes are provided correctly.
 
 -The information is objective. An author of the textbook does not influence the reader with his/her attitudes and subjective sentiments and beliefs.
 
-- Protection of equality, Prohibition of discrimination and discrediting elements
+2. Protection of equality, Prohibition of discrimination and discrediting elements
 
 -Textbook is free of stereotypical, incorrect, discriminatory and/or discrediting elements of race, colour, sex, origin, ethnicity, language, religion, political or other views, social affiliation, etc.
 
 -Depending  on  the  specifics  of  subject,  the  equality  of  nationality,  religion,  gender,  social belonging, etc.  are protected in the texts and illustrations
 
-- Protection ethic standards
+3. Protection ethic standards
 
 -Textbook is free of obscene and inaccurate expressions. If primary source contains such an expression, the appropriate text is provided in an adapted form.
 
-- Prohibition violence and enmity:
+4. Prohibition violence and enmity:
 
 The illustrations and content are free:
 
-- of any incitement to violence, including vandalism and harmful acts against a living and nonliving nature;
+- of any incitement to violence, including vandalism and harmful acts against a living and non-living nature;
 
 - of texts and illustrations provoking national, regional, religious or social hostility.
 
-- Relevance to the constitution of Georgia
+5. Relevance to the constitution of Georgia
 
 -Content  (texts,  visual  materials,  exercises,  tasks)  of  the  textbook  does  not  contradict  the Constitution of Georgia.
 
@@ -945,35 +944,31 @@ In addition, at the evaluation stage, along with specialists in the field, there
 
  Initiatives to address discrimination and promote cultural diversity and mutual acceptance
 
- Other:
-
-The ORO specialists regularly carry out informative, educational and social-skill development activities, using evidence-based materials and resources for school students, teachers, parents and school representatives on human rights, equality, diversity, hate speech, non-discriminatory approach and harmful practices.
-
-Vocational  student's  selection  procedures  are  tailored  to  the  needs  of  vulnerable  groups. Persons with special educational needs go through simplified process and do not pass selection stages defined for general stream of applicants.
-
-Flexible and needs-based selection procedures are also in place for representatives of ethnic minority groups as well, who, in addition to the basic services, attend Georgian language course, which is fully funded by the state.
-
-Enrolment procedures is differentiated adjusted to socially vulnerable people as well. Moreover, people who received secondary education in the occupied territories of Georgia, can enrol in the  vocational  educational  programs without  passing  the  tests .    (please  see  the  information above).
-
-> 16 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
-
-> 17 Multiple and flexible learning pathways are 'entry points and re -entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge,  skills  and  c ompetencies  acquired  through  nonformal  and  informal  education'  ( Education  2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
-
-18
-
-> In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
-
  Multiple and flexible learning pathways 17 are provided for
 
  Curricula and teaching methods are inclusive in design 18
 
  Multilingual and intercultural education is supported
 
+ Other:
+
+The ORO specialists regularly carry out informative, educational and social-skill development activities, using evidence-based materials and resources for school students, teachers, parents and school representatives on human rights, equality, diversity, hate speech, non-discriminatory approach and harmful practices.
+
+Vocational student's selection procedures are tailored to the needs of vulnerable groups. Persons with special educational needs go through simplified process and do not pass selection stages defined for general stream of applicants.
+
+Flexible and needs-based selection procedures are also in place for representatives of ethnic minority groups as well, who, in addition to the basic services, attend Georgian language course, which is fully funded by the state.
+
+Enrolment procedures is differentiated adjusted to socially vulnerable people as well. Moreover, people who received secondary education in the occupied territories of Georgia, can enrol in the vocational educational programs without passing the tests. (please see the information above).
+
+> 16 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
+
+> 17 Multiple and flexible learning pathways are ‘entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education’ (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
+
+> 18 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
+
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
-
-- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
@@ -1011,6 +1006,8 @@ Please see the question 1.1
 
  Ensuring gender parity in technical and vocational training education and training (TVET)
 
+- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
+
 2022-2030 Unified National Strategy of Education and Science of Georgia was adopted on the 31st of August   by the Governmental Decree N446. The Strategy dwells on three main pillars of Equity, Quality and Governance and adheres to the principles of equality, inclusion and diversity. 2022-2024 Action Plan of the Strategy encompasses multiple activities focusing on the gender equality:
 
 - Conducting awareness-raising campaigns on the importance of early and preschool education services, including gender equality issues
@@ -1019,7 +1016,7 @@ Please see the question 1.1
 
 > 19 ' Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them' (Cambridge Dictionary).
 
-> 20 ' Gendersensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
+> 20 ‘ Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal’ (UNGEI blog post, Gender-sensitive sanitation, 2018)
 
 > 21 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
 
@@ -1027,29 +1024,15 @@ Please see the question 1.1
 
 [[START OF PAGE 28]]
 
-•
-
-Supporting  HEIs  (Higher  Education  Institutions)  in  developing  and  implementing
-
-gender equality policy documents/mechanisms
+- Supporting HEIs (Higher Education Institutions) in developing and implementing gender equality policy documents/mechanisms
 
 - Developing a resource allocation mechanism for research and innovation, considering the gender equality principle
 
 - Creating a digital platform for career planning and empowerment of girls/women in STEM fields
 
-The Ministry of Education and Science of Georgia strives to integrate gender mainstreaming in  its  policy  documents. The recommendations of international or local organizations and partners concerning the gender equality are taken into account. The Ministry works closely with partners and field specialists to integrate the best practices of different countries in Georgian education system.
+The Ministry of Education and Science of Georgia strives to integrate gender mainstreaming in its policy documents. The recommendations of international or local organizations and partners concerning the gender equality are taken into account. The Ministry works closely with partners and field specialists to integrate the best practices of different countries in Georgian education system.
 
-A
-
-Gender Mainstreaming Platform
-
-was created in the Ministry within the framework of the
-
-Memorandum signed between the Ministry and UN Women in 2022, to strengthen gender
-
-mainstreaming in the education system, to eliminate gender stereotypes, as well as to raise
-
-the sensitivity of teachers and schoolchildren to issues of gender equality.
+A Gender Mainstreaming Platform was created in the Ministry within the framework of the Memorandum signed between the Ministry and UN Women in 2022, to strengthen gender mainstreaming in the education system, to eliminate gender stereotypes, as well as to raise the sensitivity of teachers and schoolchildren to issues of gender equality.
 
 Additionally, a  participatory  gender audit (PGA)  was conducted within the system of the Ministry of Education and Science by UN Women to identify issues for improvement and assess progress in a number of directions of gender equality in the sector.
 
@@ -1067,9 +1050,29 @@ Issues of early marriage and gender equality are discussed in the following TPDC
 
 [[START OF PAGE 29]]
 
-The training module is designed for teachers of all subjects of general education schools. 1231 teachers were trained in 2022. 2.Early marriage issues are discussed in the training module: " Overcoming Violence Against Children, INSPAIR Strategies ", attended by: ➢ 249 trainees in 2022. ➢ 364 trainees in 2023. 3. Sexual and reproductive health issues are covered in the training course " Sexual and Reproductive Health for Teachers ", which is uploaded on the Edx platform. 25 participants, teachers of different subjects, completed the course in 2023. relevant policy documents developed in VET system in recent years, are gender including the draft vocational education strategy for 2024-2030; Career strategy Regulatory framework for Vocational education teachers' professional standards, remuneration, code of ethics; Draft document of Inclusive education concept;
----
-All mainstreamed, guidance development, vocational A manual, "Gender mainstreaming in a vocational educational institution', was developed to support VET institutions to integrate gender issues in all areas of the school policy and activities. The guide was prepared within the framework of the USAID-financed project "Integrating gender equality and equal opportunities in regional vocational education institutions", implemented by the Georgian Institute of Public Affairs (GIPA). Based on the newly developed VET teacher's standards, one of which is focused on gender and inclusion, as part of the teachers in-service and pre-service programmes, is being developed comprehensive training modules covering inclusive and gender sensitive teaching and learning in VET. Hub Colleges Prestige and Iberia are developing a sexual harassment prevention and response mechanism aimed at creating a safe environment free from sexual violence and discrimination. In hub colleges gender desegrated statistical data was analyzed, the respective recommendations were developed on how to develop more gender sensitive and socially adjusted strategies and services in the institution. Based on the recommendations both colle ges' management updated college strategies and action plans and carried out gender
+The training module is designed for teachers of all subjects of general education schools. 1231 teachers were trained in 2022.
+
+2.Early marriage issues are discussed in the training module: "Overcoming Violence Against Children, INSPAIR Strategies", attended by:
+
+➢ 249 trainees in 2022.
+
+➢ 364 trainees in 2023.
+
+3. Sexual and reproductive health issues are covered in the training course "Sexual and Reproductive Health for Teachers", which is uploaded on the Edx platform. 25 participants, teachers of different subjects, completed the course in 2023.
+
+All relevant policy documents developed in VET system in recent years, are gender mainstreamed, including the draft vocational education strategy for 2024-2030; Career guidance strategy Regulatory framework for Vocational education teachers’ professional development, standards, remuneration, code of ethics; Draft document of Inclusive vocational education concept;
+
+A manual, "Gender mainstreaming in a vocational educational institution”, was developed to support VET institutions to integrate gender issues in all areas of the school policy and activities. The guide was prepared within the framework of the USAID-financed project "Integrating gender equality and equal opportunities in regional vocational education institutions", implemented by the Georgian Institute of Public Affairs (GIPA).
+
+Based on the newly developed VET teacher’s standards, one of which is focused on gender and inclusion, as part of the teachers in-service and pre-service programmes, is being developed comprehensive training modules covering inclusive and gender sensitive teaching and learning in VET.
+
+Hub Colleges Prestige and Iberia are developing a sexual harassment prevention and response mechanism aimed at creating a safe environment free from sexual violence and discrimination.
+
+In hub colleges gender desegrated statistical data was analyzed, the respective recommendations were developed on how to develop more gender sensitive and socially adjusted strategies and services in the institution. Based on the recommendations both colleges’ management updated college strategies and action plans and carried out gender sensitive awareness raising and information campaigns to attract potential students, especially women and girls in VET.
+
+Higher educational institutions have implemented a number of activities within their autonomy, in particular, issues of gender discrimination are reflected in the educational programs, modules and training courses of different higher educational institutions of Georgia, both private and public.
+
+For additional information please see the question 1.1
 
 - What challenges were encountered in achieving gender equality in and through education? If needed, brief quantitative information may be added.
 
@@ -1133,25 +1136,25 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 
  Other 23 :
 
-The  National  Center  for  Teacher  Professional  Development  (TPDC) implements  the  "NonGeorgian  Language  Schools  Support  "  program,  the  purpose  of  which  is  to  support  the professional development of teachers of non-Georgian language schools in regions densely populated  by  national  minorities;  Within  the  framework  of  the  program,  145  consultantteachers are currently assigned to the above-mentioned regions (Samtskhe-Javakheti, Kvemo Kartli  and  Kakheti).  TPDC carries  out  the  following  activities  to  enhance  the  state  language knowledge among the teachers of non-Georgian-language schools:
+The National Center for Teacher Professional Development (TPDC) implements the "Non-Georgian Language Schools Support " program, the purpose of which is to support the professional development of teachers of non-Georgian language schools in regions densely populated by national minorities; Within the framework of the program, 145 consultant-teachers are currently assigned to the above-mentioned regions (Samtskhe-Javakheti, Kvemo Kartli and Kakheti). TPDC carries out the following activities to enhance the state language knowledge among the teachers of non-Georgian-language schools:
 
--Offers state language training course to teachers;
+- Offers state language training course to teachers;
 
--Offers  non-formal  activities  to  students  on  project-based  learning,  club  work  and Sunday schools for ethnic minority school students
+- Offers non-formal activities to students on project-based learning, club work and Sunday schools for ethnic minority school students
 
 Since  2016  non-Georgian-speaking  applicants  to  VET  institutions  have  the  opportunity  to undertake  selection  procedures  in  Armenian,  Russian  and  Azerbaijani  languages.  After enrollment, they are offered a Georgian language learning module, upon successful completion of which, they are given the opportunity to continue their studies at the desired VET program. Currently, the process of development of new state language program in VET is underway and after  its  implementation,  the  vocational  education  system  will  provide  new  program  for learning the state language for non-Georgian language applicants, including ethnic minorities.
 
-'1+4  Program'  is  a  higher  education opportunity  for  ethnic  minorities  available  as  an accredited, special one-year preparatory program in Georgian language. Beneficiaries of the Program are financed for one-year language course and Bachelor studies for the duration of the educational program in authorized higher educational institutions.
+“1+4 Program” is a higher education opportunity for ethnic minorities available as an accredited, special one-year preparatory program in Georgian language. Beneficiaries of the Program are financed for one-year language course and Bachelor studies for the duration of the educational program in authorized higher educational institutions.
 
 University entrants are entitled to pursue their studies on the mentioned program, if they pass one of the following tests in Unified National Examinations:
 
-- Azerbaijani -language general skills test;
+- Azerbaijani-language general skills test;
 
-- Armenian -language general skills test;
+- Armenian-language general skills test;
 
-- Ossetian -language test;
+- Ossetian-language test;
 
-- Abkhazian -language test.
+- Abkhazian-language test.
 
 Since 2023, in order to promote higher education in Roma, MoESY is financing studies at the bachelor's  level  for  Roma  students  within  the  framework  of  the  student  financing  social program, (Decree of the Government of Georgia, #324, 18/08/2023). In 2023, 1 Roma student submitted an application, who was awarded a state grant for the duration of her educational program.
 
@@ -1163,9 +1166,7 @@ LEPL  Zurab  Zhvania  School  of  Public  Administration operating  under  the  
 
 [[START OF PAGE 32]]
 
-##### Indigenous people:
-
-language  proficiency,  complying  with  the  European language  competency  levels  (Beginners Georgian (A1.1 A1.2), Basic Georgian (A2.1, A2.2), General Georgian (B1.1, B1.2), Alphabetic Georgian, Communication Georgian), as well as 17 professional courses saturated with sectoral vocabulary, that helps the beneficiaries not only to advance the language skills, but to better integrate in the respective professional field, which, among others, includes Support Course for Teachers (I and II course). In 2021-2024 (as of 1 June 2024), 5410 teachers and pedagogues of various  subjects  of  non-Georgian  public  schools  were  involved  in  various  state  language courses.
+language proficiency, complying with the European language competency levels (Beginners Georgian (A1.1 A1.2), Basic Georgian (A2.1, A2.2), General Georgian (B1.1, B1.2), Alphabetic Georgian, Communication Georgian), as well as 17 professional courses saturated with sectoral vocabulary, that helps the beneficiaries not only to advance the language skills, but to better integrate in the respective professional field, which, among others, includes Support Course for Teachers (I and II course). In 2021-2024 (as of 1 June 2024), 5410 teachers and pedagogues of various subjects of non-Georgian public schools were involved in various state language courses.
 
 For additional information Please see the question 1.1
 
@@ -1174,6 +1175,8 @@ For additional information Please see the question 1.1
 - What challenges were encountered in realizing the right to education of minorities? If needed, brief quantitative information may be added.
 
 Proficiency in the state language, for better integration in the society.
+
+##### Indigenous people:
 
  Legislation provides for the right to education of indigenous people
 
@@ -1205,13 +1208,9 @@ Proficiency in the state language, for better integration in the society.
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-26
+> 26 Supra note 15.
 
-27
-
-Supra note 15.
-
-Supra note 16.
+> 27 Supra note 16.
 
 [[END OF PAGE 32]]
 
@@ -1289,33 +1288,27 @@ In addition to language lessons, the program includes the use of elements of art
 
 Evaluation of school textbooks is carried out by content criteria, which includes the following types of criteria along with field ones:
 
-- Content of the textbook (subject/sectoral content) is accurate and objective
+6. Content of the textbook (subject/sectoral content) is accurate and objective
 
-- The content  (text/visual  material)  is  reliable  and  accurate.  The  content  is  in  line  with modern achievements of the field: terms, concepts, facts, events, processes are provided correctly.
+- The content (text/visual material) is reliable and accurate. The content is in line with modern achievements of the field: terms, concepts, facts, events, processes are provided correctly.
 
--
+- The information is objective. An author of the textbook does not influence the reader with his/her attitudes and subjective sentiments and beliefs.
 
-The information is objective. An author of the textbook does not influence the reader with
+7. Protection of equality, Prohibition of discrimination and discrediting elements
 
-his/her attitudes and subjective sentiments and beliefs.
-
-7.
-
-Protection of equality, Prohibition of discrimination and discrediting elements
-
-- Textbook is free of stereotypical, incorrect, discriminatory and/or discrediting elements of  race,  colour,  sex, origin,  ethnicity,  language,  religion,  political or other  views,  social affiliation, etc.
+- Textbook is free of stereotypical, incorrect, discriminatory and/or discrediting elements of race, colour, sex, origin, ethnicity, language, religion, political or other views, social affiliation, etc.
 
 [[END OF PAGE 34]]
 
 [[START OF PAGE 35]]
 
--Depending on the specifics of subject, the equality of nationality, religion, gender, social belonging, etc.  are protected in the texts and illustrations
+- Depending on the specifics of subject, the equality of nationality, religion, gender, social belonging, etc. are protected in the texts and illustrations
 
-- Protection ethic standards
+8. Protection ethic standards
 
--Textbook is free of obscene and inaccurate expressions. If primary source contains such an expression, the appropriate text is provided in an adapted form.
+- Textbook is free of obscene and inaccurate expressions. If primary source contains such an expression, the appropriate text is provided in an adapted form.
 
-- Prohibition violence and enmity:
+9. Prohibition violence and enmity:
 
 The illustrations and content are free:
 
@@ -1323,13 +1316,13 @@ The illustrations and content are free:
 
 - of texts and illustrations provoking national, regional, religious or social hostility.
 
-- Relevance to the constitution of Georgia
+10. Relevance to the constitution of Georgia
 
--Content (texts, visual materials, exercises, tasks) of the textbook does not contradict the Constitution of Georgia.
+- Content (texts, visual materials, exercises, tasks) of the textbook does not contradict the Constitution of Georgia.
 
 In  addition,  at  the  evaluation  stage,  along  with  specialists  in  the  field,  there  is  also  a representative of the human rights defender in the evaluation commission, which is a guarantee of minimizing the anti-discriminatory nature of the content of the educational resources.
 
-The National Center for Teacher Professional Development (TPDC )  in  collaboration with NE (NC) Gudavadze  Patarkatsishvili Foundation, the Office of the United Nations High Commissioner for Refugees (UNHCR) and World Vision Georgia Foundation is implementing the project "Supporting access to state language education for refugee students living in Georgia".
+The National Center for Teacher Professional Development (TPDC) in collaboration with NE (NC) Gudavadze - Patarkatsishvili Foundation, the Office of the United Nations High Commissioner for Refugees (UNHCR) and World Vision Georgia Foundation is implementing the project "Supporting access to state language education for refugee students living in Georgia".
 
 The project provides online Georgian language classes twice a week for asylum-seeking school students.  At  this  stage,  10  students  are  involved.  Working  groups  are  also  developing  a curriculum and textbook for Georgian as a foreign language.
 
@@ -1389,11 +1382,9 @@ Since  2017,  Zurab  Zhvania  School  of  Public  Administration  has  been  tea
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-33
+> 33 Supra note 15.
 
 > 34 Supra note 16.
-
-Supra note 15.
 
 [[END OF PAGE 36]]
 
@@ -1609,11 +1600,11 @@ The standards for the authorization of vocational educational institutions inclu
 
 - What challenges were encountered in realizing the right to education of people with disabilities? If needed, brief quantitative information may be added.
 
-- Challenge: Insufficient number of  qualified  special education teachers in the mountainous and remote villages of Georgia, where special education needs  students are enrolled.
+1. Challenge: Insufficient number of qualified special education teachers in the mountainous and remote villages of Georgia, where special education needs students are enrolled.
 
-- Challenge : There is no professional regulation and career advancment  scheme  for psychologists in the general education system.
+2. Challenge: There is no professional regulation and career advancment scheme for psychologists in the general education system.
 
-- 3 . Challenge: Integrating the component of social and emotional learning into educational practice, enhancing  the competencies of teachers and  inclusive education support specialists in  socialemotional learning.
+3 .Challenge: Integrating the component of social and emotional learning into educational practice, enhancing the competencies of teachers and inclusive education support specialists in social-emotional learning.
 
 ##### Students from poor households:
 
@@ -1641,9 +1632,9 @@ All public-school students are provided with school textbooks free of charge by 
 
 Article 14 of the Law of Georgia "On General Education" defines:
 
-- School has the right to introduce/set the school uniform in a way that does not restrict the freedom of expression of a student and a teacher. The student and the teacher have the right to refuse to wear the school uniform.
+6. School has the right to introduce/set the school uniform in a way that does not restrict the freedom of expression of a student and a teacher. The student and the teacher have the right to refuse to wear the school uniform.
 
-- When  introducing  a  school  uniform,  a  school  shall  consider  the  student's  financial background, and if they are unable to purchase a uniform, the school shall provide them with a uniform.
+7. When introducing a school uniform, a school shall consider the student's financial background, and if they are unable to purchase a uniform, the school shall provide them with a uniform.
 
 The Social Service Agency and local municipalities have targeted financial assistance allocated to help vulnerable families with children, including for providing school supplies.
 
@@ -1657,7 +1648,7 @@ Enrolment  procedures  is  differentiated  adjusted  to  socially  vulnerable  p
 
 - What  challenges  were  encountered  in  realizing  the  right  to  education  of  students  from  poor households? If needed, brief quantitative information may be added.
 
-### Progress made with respect to implementing the right to education across all levels and forms of education
+### 2. Progress made with respect to implementing the right to education across all levels and forms of education
 
 #### 2.1 Early childhood care and education
 
@@ -1665,7 +1656,7 @@ Enrolment  procedures  is  differentiated  adjusted  to  socially  vulnerable  p
 
 [[START OF PAGE 42]]
 
-For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explicitly  provided  for  in  the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initi ally recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent  Declaration  and  Commitments  to  Action  for  Transforming  Early  Childhood  Care  and Education 38 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre -primary education'.
+For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized ‘the right to education during early childhood as beginning at birth’ (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education 38. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to ‘the provision of at least one year of free and compulsory pre-primary education’.
 
 - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked):
 
@@ -1675,7 +1666,7 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
  ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
- ECCE services are accessible on a nondiscriminatory basis
+ ECCE services are accessible on a non-discriminatory basis
 
 - Please elaborate further on the measures taken:
 
@@ -1700,13 +1691,13 @@ According  to  the  changes,  authorization  process  of  kindergartens  within 
 
 [[START OF PAGE 43]]
 
-- Mission and Strategic Development of the Institution;
+a) Mission and Strategic Development of the Institution;
 
-- Curriculum; (The curriculum is based on play and considers the child as an active participant in his own learning and development).
+b) Curriculum; (The curriculum is based on play and considers the child as an active participant in his own learning and development).
 
-- Family and Community Involvement;
+c) Family and Community Involvement;
 
-- Supporting the Process of Education and Care (including Personnel management and  development,  Material  resources,  Food  organization  and  rations,  Sanitaryhygiene norms, Physical and emotional security and Financial resources).
+d) Supporting the Process of Education and Care (including Personnel management and development, Material resources, Food organization and rations, Sanitary-hygiene norms, Physical and emotional security and Financial resources).
 
 The  participation  of  young  children  in  preschool  and  kindergarten  education  increased significantly between 2005 and 2018, from 45% in 2005 to 78% in 2018. (By 2021-2022), 72.3% of preschool children went to kindergarten.
 
@@ -1740,9 +1731,9 @@ Law of Georgia on Early and Preschool Education
 
 ##### Article 4- The principles of preschool education
 
-- The children of Georgia at the public preschool education institutions of Georgia are ensured free education and catering services as provided for by the legislation of Georgia .
+1. The children of Georgia at the public preschool education institutions of Georgia are ensured free education and catering services as provided for by the legislation of Georgia .
 
-- Preschool education, including the school readiness programme, is voluntary, universal and available for every child of relevant age.
+2. Preschool education, including the school readiness programme, is voluntary, universal and available for every child of relevant age.
 
 - What challenges were encountered in realizing early childhood care and education and pre-primary education?
 
@@ -1766,7 +1757,7 @@ Law of Georgia on Early and Preschool Education
 
 In 2016, the Law on Early and Preschool Education was adopted in Georgia. In 2017, the state  standards  of  early  and  preschool  education,  the  professional  standard  of  the educator-pedagogue.
 
-"Early Education Curriculum Play' has been implemented since 2022.
+“Early Education Curriculum -Play” has been implemented since 2022.
 
 The  level  of  satisfaction  with  the  quality  of  formal  education  is  very  high.  93.6%  of parents/family  members  of  children  in  kindergarten  are  satisfied  with  the  quality  of preschool education.
 
@@ -1782,7 +1773,7 @@ In 2021 a mandatory training module for kindergarten teachers was approved. Sinc
 
 #### 2.2 Primary and secondary education
 
-For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclus ive, equitable, quality primary and secondary education -of which at least nine years are compulsory.'
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide ‘12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education – of which at least nine years are compulsory.’
 
 ##### Primary education
 
@@ -1808,9 +1799,9 @@ Duration of primary education is 6 years.
 
 ##### Article 27 -Right to education and academic freedom
 
-- Everyone  has  the  right  to  receive  education  and  the  right  to  choose  the  form  of education they receive.
+1. Everyone has the right to receive education and the right to choose the form of education they receive.
 
-- Pre-school  education  shall  be  guaranteed  in  accordance  with  the  procedures established  by  law.  Elementary  and  basic  education  shall  be  compulsory.  General education  shall  be  fully  funded  by  the  State,  in  accordance  with  the  procedures established by law.
+2. Pre-school education shall be guaranteed in accordance with the procedures established by law. Elementary and basic education shall be compulsory. General education shall be fully funded by the State, in accordance with the procedures established by law.
 
 - Law of Georgia on General Education
 
@@ -1820,13 +1811,13 @@ Duration of primary education is 6 years.
 
 [[START OF PAGE 46]]
 
-- Primary schooling of general education shall begin at the age of six.
+1¹. Primary schooling of general education shall begin at the age of six.
 
 According to Article 9 of the Law of Georgia "On General Education":
 
 "1. Everyone has an equal right to complete full general education in order to fully develop their personality and acquire the knowledge and skills necessary for equal opportunities for success in private and public life. Primary and basic education is mandatory.
 
-- To ensure general education, the state creates a general education system and appropriate socio-economic conditions.
+1. To ensure general education, the state creates a general education system and appropriate socio-economic conditions.
 
 All public-school students are provided with school textbooks free of charge by the state. Uniforms are not required in public schools.
 
@@ -1922,19 +1913,17 @@ employment, once the child has completed compulsory education, the door is open 
 
 - Please provide reference to the relevant laws and provisions and indicate how the provision is enforced:
 
-ORGANIC LAW OF GEORGIA -LABOUR CODE OF GEORGIA
+ORGANIC LAW OF GEORGIA – LABOUR CODE OF GEORGIA
 
-##### Article  10  -  Emergence  of  legal  capacity  to  enter  into  employment  agreements  and minimum employment age
+##### Article 10 – Emergence of legal capacity to enter into employment agreements and minimum employment age
 
-- The  legal  capacity  of  natural  persons  to  enter  into  an  employment  agreement  shall commence from the age of 16.
+1. The legal capacity of natural persons to enter into an employment agreement shall commence from the age of 16.
 
-- The legal capacity of minors under the age 16 to enter into an employment agreement shall  derive  from  the  consent  of  their  legal  representative  or  a  custody/guardianship authority, unless the labour relations in question are contrary to the minor's inte rests, or prejudice their moral, physical and mental development, or limit their right and opportunity to acquire compulsory primary and basic education. Where the consent of a minor's legal representative or custody/guardianship authority validly constitutes legal capacity to enter into an employment agreement, such consent shall be valid with respect to similar types of subsequent labour relations as well.
+2. The legal capacity of minors under the age 16 to enter into an employment agreement shall derive from the consent of their legal representative or a custody/guardianship authority, unless the labour relations in question are contrary to the minor's interests, or prejudice their moral, physical and mental development, or limit their right and opportunity to acquire compulsory primary and basic education. Where the consent of a minor's legal representative or custody/guardianship authority validly constitutes legal capacity to enter into an employment agreement, such consent shall be valid with respect to similar types of subsequent labour relations as well.
 
-- An employment agreement with minors under the age 14 may be concluded solely for the performance  of  activities  in  the  fields  of  sport,  art,  and  culture,  and/or  to  do  work  in advertising.
+3. An employment agreement with minors under the age 14 may be concluded solely for the performance of activities in the fields of sport, art, and culture, and/or to do work in advertising.
 
 - What challenges were encountered in realizing secondary education?
-
-#### 2.3 Higher education
 
  Limited access
 
@@ -1953,6 +1942,8 @@ ORGANIC LAW OF GEORGIA -LABOUR CODE OF GEORGIA
  Low number of professionally trained teachers
 
 - Please elaborate. Brief quantitative information may be added.
+
+#### 2.3 Higher education
 
 [[END OF PAGE 48]]
 
@@ -1980,7 +1971,7 @@ For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  pr
 
 Maximum amount of tuition fee at state universities are fixed to the size of state education grant (2250 GEL). State funding for Higher Education is secured through merit-based and needs-based education grants, as well funds allocated to the state universities for financing priority  fields.  State  education  grants,  awarded  to  the  best  scoring  students  in  the  UNE entrance exam provide secondary school graduates with an opportunity to continue their education at higher education level both at public and private universities. Foreign citizens passing unified national exams are funded under special program designed purposefully for them.
 
-20% of state education grants are annually allocated for the social grants program. Needsbased  grants  are  awarded  to  students  with  different  social  background:  students  from highland areas; graduates from minority schools (Azerbaijanian and Armenian); students from families of the militaries Killed in Actions and Missing in Actions; repatriates; orphans and students from large families, students under the state care; students affected by Russian aggression;  students  from  the  occupied  territories;  students  with  special  education needs/disabilities; socially vulnerable students In addition to this, the Ministry developed the special preparatory program for the university entrants from the Occupied territories of Georgia to ensure their access to higher education in Georgian universities.
+20% of state education grants are annually allocated for the social grants program. Needs-based grants are awarded to students with different social background: students from highland areas; graduates from minority schools (Azerbaijanian and Armenian); students from families of the militaries Killed in Actions and Missing in Actions; repatriates; orphans and students from large families, students under the state care; students affected by Russian
 
 > 39 Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'.
 
@@ -1990,19 +1981,23 @@ Maximum amount of tuition fee at state universities are fixed to the size of sta
 
 [[START OF PAGE 50]]
 
+aggression; students from the occupied territories; students with special education needs/disabilities; socially vulnerable students.
+
+In addition to this, the Ministry developed the special preparatory program for the university entrants from the Occupied territories of Georgia to ensure their access to higher education in Georgian universities.
+
 In addition, state scholarships for the best performing students are awarded annually, under the special support program.
 
 Besides, '1+4 Program' is a higher education opportunity for ethnic minorities available as an accredited, special one-year preparatory program in Georgian language. Beneficiaries of the  Program  are  financed  for  one-year  language  course  and  Bachelor  studies  for  the duration of the educational program in authorized higher educational institutions.
 
 University entrants are entitled to pursue their studies on the mentioned program, if they pass one of the following tests in Unified National Examinations:
 
-- Azerbaijani -language general skills test;
+- Azerbaijani-language general skills test;
 
-- Armenian -language general skills test;
+- Armenian-language general skills test;
 
-- Ossetian -language test;
+- Ossetian-language test;
 
-- Abkhazian -language test.
+- Abkhazian-language test.
 
 - What challenges were encountered in realizing higher education?
 
@@ -2066,14 +2061,14 @@ For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides 
 
 - Please elaborate further on the measures taken:
 
-In 2019, Georgia's formal education system introduced new educational services. The system has  been  transformed,  and  the  private  sector  with  an  educational  component  and  nonstandard  qualifications  has  been  added  to  existing  providers  and  qualifications.  Short-term vocational training-retraining programs became part of formal education, which means that a certificate  recognized  by the  state  will  be  issued  upon  completion  of  a  relevant  short-term course. This opportunity to teach adult learners certain competencies and skills in a relatively short  period  of  time  through  vocational  training  and  retraining  programs  is  attractive  for The State Language Teaching and Integration Programme provides 25 State language training courses  for  improving  general  competencies  in  Georgian  language  proficiency  (Beginners Georgian (A1.1 A1.2), Basic Georgian (A2.1, A2.2), General Georgian (B1.1, B1.2), Alphabetic Georgian, Communication Georgian), as well as 17 professional courses saturated with sectoral vocabulary, that helps the beneficiaries not only to advance the language skills but to better integrate into the respective professional field:
+In 2019, Georgia's formal education system introduced new educational services. The system has been transformed, and the private sector with an educational component and non-standard qualifications has been added to existing providers and qualifications. Short-term vocational training-retraining programs became part of formal education, which means that a certificate recognized by the state will be issued upon completion of a relevant short-term course. This opportunity to teach adult learners certain competencies and skills in a relatively short period of time through vocational training and retraining programs is attractive for
 
 [[END OF PAGE 51]]
 
 [[START OF PAGE 52]]
 
 employers looking to hire qualified personnel for performing specific tasks, as well as for people who want to improve their professional skills and advance their careers.
----
+
 The aforementioned change in the formal education system has several objectives: (1) meeting the needs of the labour market in a relatively short period of time; (2) involving employers in the implementation of programs to improve their quality and relevance or programs and (3) activating the adult population in the labour market.
 Any legal entity such as a private company, training center, association, or educational institute, etc can obtain the right to provide vocational training and retraining, either individually or jointly with other institutions, as long as they meet the standards established by the government of Georgia. All short-term programs are conducted in the form of work-based learning and meet the following criteria: program efficiency, human resource availability, and institutional efficiency. The vocational training and retraining programs electronic system, developed by the LEPL Education Management Information System, supports the conduction of processes in an electronic format.
 It's worth noting that systematized service, flexible quality assurance mechanisms, and state funding opportunities stimulate the involvement of the private sector in delivering short-term programs. As a result, the number of private sector providers is increasing from year to year. What makes the service even more attractive is the fact that the program provider is not restricted by existing qualifications and programs. The provider can create an entirely new program and submit it, along with relevant justification for acquiring the right of implementation.
@@ -2088,70 +2083,60 @@ Vocational educational institutions in Georgia offer a career support service th
 [[START OF PAGE 53]]
 
 Since 2023, Skills Agency has been working on introducing a career education course designed to help vocational students develop their career guidance skills. This course equips students with the necessary tools to make informed career decisions. The pilot program has been implemented in six educational institutions, and there are plans to expand the course to all vocational educational institutions. This service is also provided free of charge to students.
----
+
 Skills Agency is also in the process of introducing a new concept of "open door" service in all vocational educational institutions. This service aims to promote vocational education, increase public awareness, and support individuals in the process of career self-determination. The "open door" service has been piloted in seven institutions. By offering these services, the agency seeks to enhance the overall effectiveness and reach of career guidance and counselling in the vocational education system.
+
 The provision of free-of-charge career guidance and counselling in Georgia's vocational education system is a vital component in supporting students' educational and professional success. By continuously updating and expanding these services, Georgia ensures that vocational students are well-prepared to enter the workforce and achieve their career aspirations.
+
 A special electronic platform for training and retraining programs for adults has been created and is operational. This platform ensures that the right to implement these programs is handled electronically. Additionally, it facilitates the registration, enrollment, and granting of graduate status for participants in these programs.
+
 There are nearly 360 Special Education Needs students at Vocation Education level. There are 62 specialists in inclusive professional education.
-With regard to adult education, Zurab Zhvania School of Public Administration (ZSPA) LEPL, established in 2005, operating under the umbrella of the Ministry of Education, Science and
-Teaching and Integration Programme and Public Management and Administration Programme. Employing customized teaching methods, the SZPA ensures no one is left behind, reaching all, including the most vulnerable groups living in the most remote areas through the Training Centres, mobile groups and online format teaching.
-The school has 12 training centres, which are distributed over four regions in Georgia, specifically Kutaisi, Akhalkalaki, Ninotsminda, Akhaltsikhe, Bolnisi, Dmanisi, Tsalka, Marneuli, Gardabani, Lagodekhi, Sagarejo, and Akhmeta, conducting face-to-face teaching in a group format at these centres. In regions where the learning centres are far from the beneficiary's place of residence and there is a demand from their side, the institution goes to great lengths to ensure maximum accessibility by creating mobile groups on the ground in a face-to-face format, primarily in the premises of public schools, preschool institutions, administration of municipal bodies, public service halls, and community centres. The school significantly expanded its geographic coverage throughout the years to 63 geographic areas in 2024, while the teaching process was provided in 7 locations in 2021 (2022 - 32, 2023 - 57).
+
+With regard to adult education, Zurab Zhvania School of Public Administration (ZSPA) LEPL, established in 2005, operating under the umbrella of the Ministry of Education, Science and Youth of Georgia, is the leading institution that provides State language teaching to ethnic minorities, asylum seekers, persons with international protection in Georgia and other target groups at no cost and thereby supports their full-fledged integration into society as well as professional skills development of public officials in the municipal bodies within two main programme directions: The State Language Teaching and Integration Programme and Public Management and Administration Programme.
+
+Employing customized teaching methods, the SZPA ensures no one is left behind, reaching all, including the most vulnerable groups living in the most remote areas through the Training Centres, mobile groups and online format teaching.
+
+The school has 12 training centres, which are distributed over four regions in Georgia, specifically Kutaisi, Akhalkalaki, Ninotsminda, Akhaltsikhe, Bolnisi, Dmanisi, Tsalka, Marneuli, Gardabani, Lagodekhi, Sagarejo, and Akhmeta, conducting face-to-face teaching in a group format at these centres. In regions where the learning centres are far from the beneficiary's place of residence and there is a demand from their side, the institution goes to great lengths to ensure maximum accessibility by creating mobile groups on the ground in a face-to-face format, primarily in the premises of public schools, preschool institutions, administration of municipal bodies, public service halls, and community centres. The school significantly expanded its geographic coverage throughout the years to 63 geographic areas in 2024, while the teaching process was provided in 7 locations in 2021 (2022 – 32, 2023 - 57).
 
 [[END OF PAGE 53]]
 
 [[START OF PAGE 54]]
 
+The State Language Teaching and Integration Programme provides 25 State language training courses for improving general competencies in Georgian language proficiency (Beginners Georgian (A1.1 A1.2), Basic Georgian (A2.1, A2.2), General Georgian (B1.1, B1.2), Alphabetic Georgian, Communication Georgian), as well as 17 professional courses saturated with sectoral vocabulary, that helps the beneficiaries not only to advance the language skills but to better integrate into the respective professional field:
+
 - Civic Education
-
 - Finance
-
 - Procurement
-
 - Jurisprudence
-
 - Infrastructure
-
 - Support course for teachers (I and II course)
-
 - Nursing work
-
 - Management
-
 - Transport
+•
+- Construction
+- Food Technologies
+- Animal husbandry
+- Agronomy
+- Electricity
+- Accounting
+- Tourism
+- Information Technologies
 
-·
+The school's growing influence and impact have been witnessed throughout the years, resulting in a significant rise in the number of beneficiaries with diverse ethnic and linguistic backgrounds, reaching up to 5,500 in 2023 compared to previous years (3919 beneficiaries in 2021, 5125 in 2022). In 2024, already 3,010 beneficiaries have been involved in the programme.
 
-The school's growing influence and impact have been witnessed throughout the years, resulting in  a  significant  rise  in  the  number  of  beneficiaries  with  diverse  ethnic  and  linguistic backgrounds, reaching up to 5,500 in 2023 compared to previous years (3919 beneficiaries in 2021, 5125 in 2022). In 2024, already 3,010 beneficiaries have been involved in the programme. In 2022-2023, the ZSPA introduced and approved the Integration Course for Public Officials. The programme is designed to help improve their language competencies in general and sectorspecific  areas,  develop  their  professional  skills,  use  the  state  language  efficiently  in  the workplace,  and  strengthen  their  cooperation  with  Georgian-speaking  colleagues  through mutual experience-sharing. This ensures their rapid and efficient integration into the public governance  sphere.  The  program  includes  three  thematic  courses  embedded  with  the components of professional integration, including practice in municipal administrations and other public institutions, as well as language and cultural integration:
+In 2022-2023, the ZSPA introduced and approved the Integration Course for Public Officials. The programme is designed to help improve their language competencies in general and sector-specific areas, develop their professional skills, use the state language efficiently in the workplace, and strengthen their cooperation with Georgian-speaking colleagues through mutual experience-sharing. This ensures their rapid and efficient integration into the public governance sphere. The program includes three thematic courses embedded with the components of professional integration, including practice in municipal administrations and other public institutions, as well as language and cultural integration:
 
 - An introductory course in municipal management
-
 - A general course in municipal management
-
 - A specialized course in municipal management
 
 The pilot cycle of the Integration Course for Public Officials included 21 civil servants of ethnic minority backgrounds.
 
-Within the second programme direction of Public Management and Administration , the ZSPA provides two accredited basic programs for the professional development of public servants -
+Within the second programme direction of Public Management and Administration, the ZSPA provides two accredited basic programs for the professional development of public servants -
+“Development of Managerial Skills” and "Development of Personal and Professional Competencies" defined by the Government resolution #№242 (22.05.2018) on the "Rule of determining the professional development needs of a public servant, and rule of adopting professional development standard. These programmes, by promoting the professional development of the officials through enhancing their theoretical knowledge and practical skills, contribute to establishing a high professional standard in public service. Besides, the following additional programs are available for the representatives of specific fields of particular sectors:
 
-'Development  of  Managerial  Skills' and "Development  of  Personal  and  Professional Competencies" defined by the Government resolution #№242 (22.05.2018) on the "Rule of determining  the  professional  development  needs  of  a  public  servant,  and  rule  of  adopting professional  development  standard.  These  programmes,  by  promoting  the  professional development of the officials through enhancing their theoretical knowledge and practical skills, contribute to establishing a high professional standard in public service. Besides, the following additional programs are available for the representatives of specific fields of particular sectors:
-
--Human Resources Management;
-
-- Construction
-
-- Food Technologies
-
-- Animal husbandry
-
-- Agronomy
-
-- Electricity
-
-- Accounting
-
-- Tourism
-
-- Information Technologies
+- Human Resources Management;
 
 [[END OF PAGE 54]]
 
@@ -2261,13 +2246,11 @@ A  gap  is  observed  in  the  accessibility  reskilling/upskilling  programs  a
 
 ### 3. Quality education provision and learning environment
 
-For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends state s to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
+For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
 
 #### 3.1 General measures
 
 - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding:
-
-- Please elaborate on each of the measures taken:
 
  State monitoring and inspections
 
@@ -2285,6 +2268,8 @@ For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommenda
 
  Other
 
+- Please elaborate on each of the measures taken:
+
 [[END OF PAGE 56]]
 
 [[START OF PAGE 57]]
@@ -2292,13 +2277,19 @@ For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommenda
 You may include information on policies, protocols or codes of conduct.
 
 LEPL Office of Resource Officers of Educational Institutions (ORO) under MoES was set up to ensure safe and psychologically healthy environment for children at schools across Georgia. The ORO employs Resource officers, psychologists, psychiatrists and social workers.
----
-In accordance with the Georgian legislation, since teachers, social workers, psychologists, psychiatrists and school resource officers are the public sector actors that work most closely with students and are often aware of the children's rights violations , they are obliged to report suspected violence/ violence to the relevant authorities.
+
+In accordance with the Georgian legislation, since teachers, social workers, psychologists, psychiatrists and school resource officers are the public sector actors that work most closely with students and are often aware of the children's rights violations, they are obliged to report suspected violence/ violence to the relevant authorities.
+
 The ORO has 10 psycho-social service centers throughout Georgia. The Centers provide qualified, free of charge psychological services to students, their parents and school representatives. Center operates a 24-hour hotline to provide timely and immediate psychological counseling, as well as, deliver the necessary information to service recipients.
-In November 2023, the Parliament of Georgia amended the Law of Georgia on General Education. According to the amendments, the provision of all state services supporting inclusive education of learners with special educational needs and disabilities (psychoeducational assessment and counselling service) is placed under the leadership of the Office of Resource Officers of Educational Institutions of Georgia. Inclusive and Special Education Support Center (division) has already been established at the Office of Resource Officers of Educational
-For the first time in the educational institutions of Georgia, in 2021, Social Work component has been introduced in educational institutions, in accordance to the 'law on Social Work of Georgia' adopted by the Parliament of Georgia in 2018, as well as in full compliance with the regulations issued by the Minister of Education and Science of Georgia - 'Rule on Professional Standards of Social Work and Social Worker's Organizational-Technical and Infrastructural Provision" (order N22/N), approved on January 27, 2022, and "social work safety rules" (order
+
+In November 2023, the Parliament of Georgia amended the Law of Georgia on General Education. According to the amendments, the provision of all state services supporting inclusive education of learners with special educational needs and disabilities (psychoeducational assessment and counselling service) is placed under the leadership of the Office of Resource Officers of Educational Institutions of Georgia. Inclusive and Special Education Support Center (division) has already been established at the Office of Resource Officers of Educational Institutions. Currently, hiring managerial staff of the center is in progress.
+
+For the first time in the educational institutions of Georgia, in 2021, Social Work component has been introduced in educational institutions, in accordance to the "law on Social Work of Georgia" adopted by the Parliament of Georgia in 2018, as well as in full compliance with the regulations issued by the Minister of Education and Science of Georgia - "Rule on Professional Standards of Social Work and Social Worker's Organizational-Technical and Infrastructural Provision" (order N22/N), approved on January 27, 2022, and "social work safety rules" (order N104/N), approved on December 29, 2021.
+
 The Social work model has been developed together with local and European experts. More than 65 social workers have been hired by the Office of Resource Officers of the Ministry of Education and Science of Georgia and deployed to 70 public schools. All of them have received basic in-house trainings as well as demands-led trainings on sexual abuse, sexual harassment, domestic violance, stalking, economic violence, violence against girls, women, most vulnerable groups/monitories.
+
 The ORO representatives regularly carry out informative, educational and social-skill activities in the public schools for students, teachers, parents and school representatives on human rights, equality, diversity, hate speech, nondiscriminatory approach and harmful practices.
+
 LEPL-Education and Science Infrastructure Development Agency (ESIDA) carries out construction/rehabilitation works of educational buildings, taking into account the priorities agreed with the Ministry of Education, Science and Youth. The construction/rehabilitation process is regulated by the technical regulations of the "National Accessibility Standards" approved by the Resolution N734 of the Government of Georgia of December 4, 2020 and the Resolution No. 41 of the Government of Georgia of January 28, 2016 "On the Regulation and Technical Approval of the Arrangement of Space and Architectural and Planning Elements". Accordingly, the rehabilitation and construction of educational institutions is implemented in compliance with the requirements of the mentioned regulation. As a result, newly built
 
 [[END OF PAGE 57]]
@@ -2349,7 +2340,7 @@ Authorization of HEIs is an external mechanism of higher education quality assur
 
 obligatory for all HEIs in order to be allowed to carry out educational activities and issue a diploma that is recognized by the state.
 
-Accreditation of higher education programmes is an external mechanism of higher education quality assurance, which is carried out by the NCEQE. Accreditation is a programme evaluation, which determines compliance of a programme with the accreditation standards. The evaluation is carried out by the accreditation experts' panel and is based on the analysis of the information indicated in the selfevaluation report of the programme and collected during the experts' site -visit. Accreditation is obligatory for regulated professions (Medicine, Law, Teacher Education, Maritime Education, Veterinary) and doctoral programmes. It is not obligatory to be accredited for the rest of the programmes. However, higher education programme has to be accredited in order to be eligible for national grants.
+Accreditation of higher education programmes is an external mechanism of higher education quality assurance, which is carried out by the NCEQE. Accreditation is a programme evaluation, which determines compliance of a programme with the accreditation standards. The evaluation is carried out by the accreditation experts' panel and is based on the analysis of the information indicated in the self-evaluation report of the programme and collected during the experts' site-visit. Accreditation is obligatory for regulated professions (Medicine, Law, Teacher Education, Maritime Education, Veterinary) and doctoral programmes. It is not obligatory to be accredited for the rest of the programmes. However, higher education programme has to be accredited in order to be eligible for national grants.
 
 LEPL National Centre for Educational Quality Enhancement (NCEQE) under the Ministry has developed quality assurance standards in early and preschool, general, vocational and higher education  and  undertakes  external  quality  evaluations  that  establishes  and  encourages minimum standards and norms in education.
 
@@ -2421,10 +2412,25 @@ In order to establish teachers' evaluation system and implement CPD model approp
 
 [[START OF PAGE 61]]
 
-Analyze of teachers' evaluation research and piloting of teachers' self -assessment form significantly contributed the refinement and development of the model.
----
+Analyze of teachers' evaluation research and piloting of teachers' self-assessment form significantly contributed the refinement and development of the model.
+
 With the collaboration of international partners, a comprehensive CPD manual was created accompanied by training sessions for certain administrative representatives of VET Institutions.
-One of the most important approaches is to stimulate VET teacher partnerships and school- to-school cooperation in order to shift centralized training system to a more cooperative and practice-based model. To achieve this goal, the Skills Agency within the subprogram for 'Innovative learning - teaching Support', approved by Order N1653889 of 26 December 2022 of General Director of Skills Agency, facilitated the process of developing teacher networks and coaching practices. Additionally, the concept of TVET tea chers' sectoral networks has been developed, which is focused on the benefits of peer cooperation and offers ways for teachers' collaboration
+
+One of the most important approaches is to stimulate VET teacher partnerships and school-to-school cooperation in order to shift centralized training system to a more cooperative and practice-based model. To achieve this goal, the Skills Agency within the subprogram for "Innovative learning-teaching Support", approved by Order N1653889 of 26 December 2022 of General Director of Skills Agency, facilitated the process of developing teacher networks and coaching practices. Additionally, the concept of TVET teachers' sectoral networks has been developed, which is focused on the benefits of peer cooperation and offers ways for teachers' collaboration
+
+In order to provide teachers with the opportunity to continuous professional development, skills agency during the period 2022-2023 has offered the in-service training for the VET teachers throughout the country. As a result, around 900 teachers were trained in teaching and students assessment methods, including utilizing electronic resources and digital tools in learning process. In order to ensure accessibility, trainings were held in the mountainous regions of Georgia as well.
+
+Additionally, Skills agency has created the draft version of the pre-service program which is focused on preparation of new teachers in the VET system. Program is aimed to equip new teachers with all the necessary skills and knowledge to lead the learning process.
+
+In accordance with the institutional development policy and in order to promote the diversification of opportunities for continuous professional development of vocational education teachers, in 2023, sectoral networks of vocational education teachers were created in 18 directions, which unite more than 1,300 teachers with from all public and private institutions. Sectorial networks enable teachers to share and gain experience with peers effectively as skills agency support networks by organizing workshops/webinars for them.
+
+In order to boost teacher professional development skills agency has offered grant competitions for the VET teachers which aims to develop digital learning materials by teachers. Grant competition enables teachers to increase their role at the institutional level and initiate projects that are needed for the learning process.
+
+In 2024, Skills agency has developed mechanism to enable teachers to get an international experience by participating in the study visits at the partner institutions within the Europe. As a result of pilot initiative, approximately 50 teachers will have been participating in the visits.
+
+The salary of a vocational education teachers has increased 3 times in the last few years - by 20% in 2023 and in 2024 it will be increased by 10%.
+
+Institutional evaluation standards for higher education institutions consider initial training and continuous professional development and performance monitoring system.
 
 [[END OF PAGE 61]]
 
@@ -2444,7 +2450,11 @@ Moreover, institution has to have a developed performance evaluation system for 
 
  Other:
 
-Skills  agency  is  in  the  process  of  tailoring mechanism  for teacher professional development model. Before the system is created for the CPD, skills agency offers in-service opportunities based on the need identified  periodically.  Currently,  the  challenge  for  the  system  is to  answer  teachers'  the  needs especially for the novice teachers. nevertheless, the draft version of pre-service program exists, there is a lack of the center/institution which will provide teachers preparation trainings.
+ Low quality educational infrastructure and materials
+
+ High student – teacher ratio
+
+Skills agency is in the process of tailoring mechanism for teacher professional development model. Before the system is created for the CPD, skills agency offers in-service opportunities based on the need identified periodically. Currently, the challenge for the system is to answer teachers' the needs especially for the novice teachers. nevertheless, the draft version of pre-service program exists, there is a lack of the center/institution which will provide teachers preparation trainings.
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -2454,17 +2464,13 @@ Additionally, there is a scarcity of other subject teachers in the mountainous r
 
 #### 3.3 Respect for human rights and fundamental freedoms
 
-For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SDG target 4.7. 41 Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation  and  that  the  future  consultation  on  the  1974  Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on [….] will be used specifically for monitoring SDG4 indicator 4.7.1.
+For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SDG target 4.7. 41 Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation and that the future consultation on the 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on [….] will be used specifically for monitoring SDG4 indicator 4.7.1.
 
 - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked):
 
  Curriculum includes human rights education.
 
 > 41 Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'.
-
-- o Low quality educational infrastructure and materials
-
-- o High student -teacher ratio
 
 [[END OF PAGE 62]]
 
@@ -2474,11 +2480,11 @@ For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provid
 
  Other:
 
-The National Center for Teacher Professional Development (TPDC) participates in the development of  teacher  professional  development  policies,  implements  professional  development  programs. TPDC aims to establish education as a core value while protecting children's rights and ensuring access to quality education, alonside with  enhancing human rights teaching in schools. To achieve this, TPDC:
+The National Center for Teacher Professional Development (TPDC) participates in the development of teacher professional development policies, implements professional development programs. TPDC aims to establish education as a core value while protecting children's rights and ensuring access to quality education, alonside with enhancing human rights teaching in schools. To achieve this, TPDC:
 
-- Is  actively  involved  in  promoting  implementation  of  the  Council  of  Europe's  'Reference Framework of Competences for Democratic Culture', which is a tool to implement Human Rights Education. In 2018 state program 'Democratic Culture and Human Rights Educati on at Schools,' was launched. The given program aims to promote competences for democratic culture in schools through professional development of teachers, to provide the educational process oriented on human rights education, prevention of discrimination and development of safe and tolerant learning environment, to equip teachers and the school community with appropriate knowledge, skills and resources. Within the framework of the program, the cooperation with various organizations at the local or international level and the Council of Europe and the European Union is in progress. Council of Europe has developed a platform Democratic Schools Network, where school projects are presented on a dedicated webpage so  thousands  of  education  practitioners  across  Europe  can  learn  about  it  and  Georgian schools also became a member of the Democratic Schools Network.
+1. Is actively involved in promoting implementation of the Council of Europe's "Reference Framework of Competences for Democratic Culture", which is a tool to implement Human Rights Education. In 2018 state program "Democratic Culture and Human Rights Education at Schools," was launched. The given program aims to promote competences for democratic culture in schools through professional development of teachers, to provide the educational process oriented on human rights education, prevention of discrimination and development of safe and tolerant learning environment, to equip teachers and the school community with appropriate knowledge, skills and resources. Within the framework of the program, the cooperation with various organizations at the local or international level and the Council of Europe and the European Union is in progress. Council of Europe has developed a platform Democratic Schools Network, where school projects are presented on a dedicated webpage so thousands of education practitioners across Europe can learn about it and Georgian schools also became a member of the Democratic Schools Network.
 
-- Provides teachers with training modules that address issues of  human and  children's rights, violence against children, discrimination. Teachers on their part,  are  be able to transfer and use the acquired knowledge/information in the classroom the following number of teachers participated in trainings, where human and  children rights were discussed:
+2. Provides teachers with training modules that address issues of human and children's rights, violence against children, discrimination. Teachers on their part, are be able to transfer and use the acquired knowledge/information in the classroom the following number of teachers participated in trainings, where human and children rights were discussed:
 
 -Training modul:" Competencies of Democratic Culture " (online format)- 689 teachers were trained  in 2021 ;
 
@@ -2576,8 +2582,6 @@ For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommenda
 
 [[START OF PAGE 66]]
 
-#### 3.5 Digital education
-
 According to the Law of Georgia on Higher Education (9th Article, 2nd Paragraph) 'A higher education institution shall be established in a form of a legal entity under public or private law'. Besides, external quality regulatory provisions apply equally to all types of higher education institutions operating across the country.
 
 Higher education institutions in Georgia are required by law to work in compliance with the internal and external quality assurance standards.
@@ -2601,6 +2605,8 @@ Authorization standards and higher education regulatory laws are common for stat
  Weak government regulatory and monitoring capacity
 
 - Please elaborate. Brief quantitative information may be added.
+
+#### 3.5 Digital education
 
 Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion 44 .
 
@@ -2644,28 +2650,41 @@ In  order  to  promote  digital  literacy  among  the  target  groups  (teachers
 
 [[START OF PAGE 68]]
 
-microcontroller. 37 STEAM clubs have been functioning within 'Science Support (STEM)" sup -program in Tbilisi and regions of Georgia. Natural Science teachers and students are involved and actively participate in STEM activities carried out
----
-within the clubs. • Georgia, through TPDC, continues to support the participation of Georgian schools in the EU digital programme "eTwinning". eTwinning community encourages almost 4800 eTwinners from Georgia to collaborate with colleagues from different European
-countries, share experiences and use digital tools to create projects together with their students. 1600 new teachers were registered on the ESEP portal in 2023-2024. In order to facilitate the development of digital literacy, 3742 teachers registered on the eTwinning (ESEP) portal were trained during 2022-2023 with different training modules ("Working on the eTwinning portal and initiating projects", "Media literacy and disinformation", "Climate change in my classroom");
+microcontroller.
+
+37 STEAM clubs have been functioning within “Science Support (STEM)" sup-program in Tbilisi and regions of Georgia. Natural Science teachers and students are involved and actively participate in STEM activities carried out within the clubs.
+
+• Georgia, through TPDC, continues to support the participation of Georgian schools in the EU digital programme "eTwinning". eTwinning community encourages almost 4800 eTwinners from Georgia to collaborate with colleagues from different European countries, share experiences and use digital tools to create projects together with their students. 1600 new teachers were registered on the ESEP portal in 2023-2024. In order to facilitate the development of digital literacy, 3742 teachers registered on the eTwinning (ESEP) portal were trained during 2022-2023 with different training modules ("Working on the eTwinning portal and initiating projects", "Media literacy and disinformation", "Climate change in my classroom");
+
 • TPDC offers trainings not only to ICT teachers, but also offers trainings to various subject teachers which digital technologies were integrated with subject component.
+
 Several important measures have been taken by the Government between 2021-2024:
-1. The need for teachers to facilitate distance learning led to the creation of the el.ge platform, which is a public platform and contains a variety of educational and cognitive
-2. Education Management Information System (EMIS) also created and developed various learning resources, including "Interactive Alphabet," "Fun Math," and "'Learning by Playing" and more.
+
+1. The need for teachers to facilitate distance learning led to the creation of the el.ge platform, which is a public platform and contains a variety of educational and cognitive e-resources.
+
+2. Education Management Information System (EMIS) also created and developed various learning resources, including "Interactive Alphabet," "Fun Math," and "“Learning by Playing" and more.
+
 3. Microsoft 365 and Microsoft Teams software licenses have been extended to both students and educators in every public school throughout Georgia. This initiative offers valuable resources to enhance the integration of technology within the education system. To boost distance learning, the el.ge platform has been integrated with Microsoft Teams. Additionally, it's worth mentioning that Teams was localized in the Georgian language, further enhancing its user-friendliness for the platform's users.
+
 4. A series of training sessions and webinars focusing on digital literacy and cybersecurity were held for teachers, students and their parents.
+
 5. A memorandum was signed with mobile Internet providers, within the framework of which students and teachers could purchase an Internet package at different prices (mobile.emis.ge).
+
 6. In 2021-2022, 23744 students and 18254 teachers were registered in Mobile.emis.ge system.
+
 7. Video and text instructions for various platforms have been created to facilitate online learning process.
+
 8. A group was created on the social network Facebook, where the parties involved in the educational process could get information about various platforms and ask questions to the Ministry of Education and Science and the Education Management Information System (EMIS).
+
 9. For over a decade, Georgia's Ministry of Education, Science and Youth provides each first grader a laptop within "My First Computer" program, distributing 55,000 yearly. Back in 2021-2024, digital education and Microsoft 365 became part of 2,086 public schools, proving valuable for remote learning during the COVID-19 pandemic.
+
 10. Georgia's success in distance learning during the pandemic was recognized by the OECD among 98 countries (see the link bellow).
 
 [[END OF PAGE 68]]
 
 [[START OF PAGE 69]]
 
-- Regarding the internet connectivity in public schools, it's important to note that, all public schools (2086) have access to internet (Fiber optics around 70% else - Radio), corporate-standard wireless (Wi-Fi) networks have been successfully deployed in 500 public schools.
+11. Regarding the internet connectivity in public schools, it's important to note that, all public schools (2086) have access to internet (Fiber optics around 70% else - Radio), corporate-standard wireless (Wi-Fi) networks have been successfully deployed in 500 public schools.
 
 All vocational education institutions are equipped with computers in accordance with the number of students, which is regulated by the 5th standard  of  authorization in  terms  of material, financial and ICT resources. Students in computer labs, Fab LABs and libraries in vocational education institutions have the opportunity to develop digital competencies and apply them in the learning process under appropriate mentoring.
 
@@ -2713,7 +2732,7 @@ As  digitalization  transforms  economies  and  societies,  It  triggers  new  p
 
 Teachers'  basic  digital  competencies  are  also  a  critical  limiting  factor  in  promoting digitalization  in  TVET.  Digital  competencies  of  teachers  play  a  vital  role  in  effectively integrating technology into their teaching and training practices, and providing TVET learners with needed digital skills. The lack of sufficient digital competencies in teachers is also the main barrier to using/creating digital tools and resources.
 
-Skills  agency  has  tailored  the  pre  and  inservice  modules  for  developing  teachers'  digital competences.  Piloting  of  the  pre-service  module  has  been  completed  in  2023.  But  the training for developing digital skills for teachers is still not the accessible as a part of the preservice program and has not been implemented yet.
+Skills agency has tailored the pre and in-service modules for developing teachers' digital competences. Piloting of the pre-service module has been completed in 2023. But the training for developing digital skills for teachers is still not the accessible as a part of the pre-service program and has not been implemented yet.
 
 ### 4 Strengthening governance systems
 
@@ -2753,11 +2772,13 @@ In  addition  to  these  core  functionalities,  eSchool  incorporates  componen
 
 Vocational  Education  Management  Information  System  (evet.emis.ge)  is  an  electronic platform  where  personal  and  other  types  of  data  is  collected,  elaborated  and  kept  in accordance  to  the  Georgian  legislation.  This  data  is  used  for  the  vocational  educational process  administration  by  the  state  and  vocational  educational  institutions  as  well  as  for statistics, analytics and relevant policy making. The system is interconnected with student registration processes, and funding calculations are derived from the data collected within the system. It is centralized system access to which is provided for authorized users only.
 
-Zurab  Zhvania  School  of  Public  Administration  employs  constant  quality  control  and development during its everyday work and further development - the respective structural units of the School conduct quality monitoring and management to refine and subsequently advance the strategies and methods. The ZSPA has enforced a quality management system since  2015,  which  adheres  to  the  international  standard  ISO  9001  requirements.  On December 20, 2023, the school underwent a supervisory audit by the certifier, which affirmed the  compliance  of  the  school  and  its  management  system  with  the  latest  version  of  the international  standard  ISO  9001:2015.  The  quality  control  system  of  the  School  is  a comprehensive process that involves various forms of evaluation, monitoring, and development and is designed to ensure the smooth functioning of the educational process and maximize the satisfaction of the beneficiaries.
+Zurab Zhvania School of Public Administration employs constant quality control and development during its everyday work and further development - the respective structural units of the School conduct quality monitoring and management to refine and subsequently advance the strategies and methods. The ZSPA has enforced a quality management system
 
 [[END OF PAGE 71]]
 
 [[START OF PAGE 72]]
+
+since 2015, which adheres to the international standard ISO 9001 requirements. On December 20, 2023, the school underwent a supervisory audit by the certifier, which affirmed the compliance of the school and its management system with the latest version of the international standard ISO 9001:2015. The quality control system of the School is a comprehensive process that involves various forms of evaluation, monitoring, and development and is designed to ensure the smooth functioning of the educational process and maximize the satisfaction of the beneficiaries.
 
 - What challenges were encountered in terms of governance?
 
@@ -2765,7 +2786,7 @@ Zurab  Zhvania  School  of  Public  Administration  employs  constant  quality  
 
  Lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels
 
- P oor dialogue with teachers' trade unions
+ Poor dialogue with teachers' trade unions
 
  Other:
 
