@@ -1,12 +1,12 @@
 [[START OF PAGE 1]]
 
-<Tit l e >   L a w   o n   g y m n a s i u m   < / T i t l e >
+<Title> Law on gymnasium </Title>
 
-<META name="keywords" content=" SL O , ENL  , T04">
+<META name="description" content=" ">
 
-<META name="description" cont e nt = "   " >
+<META name="keywords" content=" SLO , ENL , T04">
 
-<!-- N O S E A R C H S T A R T - - >
+<!--NOSEARCHSTART-->
 
 # Law on Gymnasium
 
@@ -32,25 +32,25 @@ The task of general and technical gymnasia (hereinafter: gymnasium ) shall be to
 
 - transfer the knowledge of the Slovene language and literature and, in areas with mixed ethnicity populations, also of the Italian and Hungarian languages and literature as well as develop the skills of understanding and communicating in standard language;
 
-- foster the awareness of individual s integrity;
-
-- educate for the responsible protection of freedom, tolerance and peaceful coexistence, and respect for others;
+- foster the awareness of individualís integrity;
 
 - develop citizenship and national identity and the knowledge of the history and culture of Slovenia;
 
-- develop and protect our cultural heritage and inform about other cultures and civilizations;
+- educate for the responsible protection of freedom, tolerance and peaceful coexistence, and respect for others;
 
-- develop the commitment to the establishment of a free, democratic and social state;
+- develop and protect our cultural heritage and inform about other cultures and civilizations;
 
 - educate for common values of culture and civilization based on the European tradition;
 
-- develop  the  awareness  of  the  responsibility  for  the  natural  environment  and  the  health  of  the individual;
+- develop the commitment to the establishment of a free, democratic and social state;
+
+- develop the awareness of the responsibility for the natural environment and the health of the individual;
 
 - develop the awareness of the rights and responsibilities of the individual and the citizen;
 
-- enable the choice of a profession.
-
 - develop the talents and the capacity for artistic experience and expression;
+
+- enable the choice of a profession.
 
 #### Article 3 (State Approved Education)
 
@@ -144,7 +144,7 @@ Individuals who have not attained education in compliance with the previous para
 
 (Pre-enrollment Announcement)
 
-Every year, the ministry having jurisdiction over education shall publish a joint announcement of enrollment in the first grade of gymnasia and matura courses six months prior to the beginning of the school year. The schools shall obtain the minister s approval of the number of study places.
+Every year, the ministry having jurisdiction over education shall publish a joint announcement of enrollment in the first grade of gymnasia and matura courses six months prior to the beginning of the school year. The schools shall obtain the ministerís approval of the number of study places.
 
 #### Article 14
 
@@ -182,7 +182,7 @@ Individuals enrolled in a gymnasium or matura course shall be considered student
 
 Students have the right to pursue education at several schools or in several education programs at the same time.
 
-If a student is pursuing education at several schools, the schools shall agree on the manner of the student s completion of the requirements.
+If a student is pursuing education at several schools, the schools shall agree on the manner of the studentís completion of the requirements.
 
 The completion of requirements set forth by education programs may be adapted to the needs of students enrolled concurrently in several schools, to promising or outstanding sportsmen/women and to students preparing for international knowledge contests in the manner set forth by the minister.
 
@@ -210,9 +210,9 @@ The student status shall be terminated:
 
 - for students of the final grade 30 days after the end of the school year;
 
-- if a student withdraws;
-
 - if a student fails to register for the next grade by the set deadline during the course of studies;
+
+- if a student withdraws;
 
 - if a student is expelled; or
 
@@ -228,7 +228,7 @@ The student status shall be terminated:
 
 The student status of concurrently enrolled students, promising and outstanding sportsmen/women and students who fail to progress or complete the education program for justifiable reasons may be prolonged for two years at the most.
 
-The decision shall be made by the school s principal.
+The decision shall be made by the schoolís principal.
 
 #### Article 24
 
@@ -256,9 +256,9 @@ Pursuant  to  this  Act  and  school  bylaws,  the  following  disciplinary  act
 
 - notice,
 
-- expulsion from school.
-
 - reprimand,
+
+- expulsion from school.
 
 Expulsion  shall  be  imposed  for  the  most  severe  violations  or  a  repeated  failure  to  carry  out responsibilities and shall be effective for two years at the most.
 
@@ -268,7 +268,7 @@ Expulsion  shall  be  imposed  for  the  most  severe  violations  or  a  repeat
 
 [[START OF PAGE 7]]
 
-Detailed stipulations concerning students  duties, the procedure and manner of imposing disciplinary actions and school order shall be set forth by the minister.
+Detailed stipulations concerning studentsí duties, the procedure and manner of imposing disciplinary actions and school order shall be set forth by the minister.
 
 #### Article 28 (Judicial Protection of Rights)
 
@@ -316,15 +316,15 @@ Organized educational activities shall include:
 
 - instruction in general education subjects and technical theory subjects and exercises,
 
-- educational excursions,
-
 - compulsory electives,
+
+- educational excursions,
 
 - practical instruction and other forms of practical work,
 
-- other forms of individual or group work.
-
 - seminar projects,
+
+- other forms of individual or group work.
 
 The  instruction  in  general  education  subjects  and  profession-oriented  theoretical  subjects  and exercises and required electives, not including physical education, may amount to 30 hours per week at the most. The amount of all types of educational activities shall not exceed 36 hours per week.
 
@@ -344,9 +344,9 @@ In gymnasia ,  educational  activities  shall  be  carried  out  according  to  
 
 - enrollment plan,
 
-- examination dates,
-
 - grouping of students into classes and groups,
+
+- examination dates,
 
 - in-service education and training of educators,
 
@@ -364,7 +364,7 @@ The financial feasibility of the annual work plan shall be checked in the proces
 
 Within  the  framework  of  the  annual  work  plan,  schools,  with  the  consent  of  parents,  can  offer educational  activities  which  otherwise  do  not  form  part  of  the  syllabus  to  students  who  wish  to participate.
 
-Schools shall present students  rights and duties, the characteristic elements of the education program and work organization to parents and students in a special publication.
+Schools shall present studentsí rights and duties, the characteristic elements of the education program and work organization to parents and students in a special publication.
 
 The compulsory parts of the publication shall be determined by the minister having jurisdiction over education.
 
@@ -380,7 +380,7 @@ In compliance with standards and criteria, schools shall provide additional supp
 
 #### Article 37 (Assessment and Grading)
 
-Students    achievements  in  reaching  the  standards  of  knowledge  set  forth  by  catalogues  and  in meeting  the  requirements  set  forth  by  education  programs  shall  be  evaluated  by  assessment  and grading.
+Studentsí achievements in reaching the standards of knowledge set forth by catalogues and in meeting the requirements set forth by education programs shall be evaluated by assessment and grading.
 
 #### Article 38 (Grading System)
 
@@ -410,9 +410,9 @@ Students  awarded  negative  grades  in  no  more  than  three  subjects  shall 
 
 Students may file a complaint with the principal against grades in individual subjects within three days after the receipt of a report card for a particular grade.
 
-The principal shall appoint a committee within three days after the receipt of the complaint at the latest. The committee shall reassess the student s knowledge within three days at the latest. At least one of the committee members shall not be a school employee.
+The principal shall appoint a committee within three days after the receipt of the complaint at the latest. The committee shall reassess the studentís knowledge within three days at the latest. At least one of the committee members shall not be a school employee.
 
-The committee s grade shall be final.
+The committeeís grade shall be final.
 
 #### Article 41
 
@@ -420,7 +420,7 @@ The committee s grade shall be final.
 
 More detailed stipulations of the assessment, grading form and contents of records on knowledge assessment and grading, and the form and content of public documents certifying the completion of education shall be set forth by the minister.
 
-## III. COLLECTION AND PROTECTION OF STUDENTS  PERSONAL DATA
+## III. COLLECTION AND PROTECTION OF STUDENTSí PERSONAL DATA
 
 #### Article 42
 
@@ -428,25 +428,25 @@ More detailed stipulations of the assessment, grading form and contents of recor
 
 Elementary schools shall keep the following records containing personally identifiable information:
 
-- records of applicants;
+1. records of applicants;
 
-- records of enrollment and students enrolled by grades, classes and groups in roll books;
+2. records of enrollment and students enrolled by grades, classes and groups in roll books;
 
-- personal records of individual students from their enrollment to the completion of education or withdrawal;
+3. personal records of individual students from their enrollment to the completion of education or withdrawal;
 
-- register of students containing general data on enrolled students and the course of their education from their enrollment to the completion of education or withdrawal;
+4. register of students containing general data on enrolled students and the course of their education from their enrollment to the completion of education or withdrawal;
 
-- data on motor skills and morphological characteristics;
+5. data on motor skills and morphological characteristics;
 
-- minutes of meetings of school matura committee;
+6. minutes of meetings of school matura committee;
 
-- minutes of matura examinations;
+7. minutes of matura examinations;
 
-- reports on matura examinations;
+8. reports on matura examinations;
 
-- records  of  examinations  containing  the  application  for  the  examination,  the  details  of  the examinations and grades awarded;
+9. records of examinations containing the application for the examination, the details of the examinations and grades awarded;
 
-10.  records of students receiving counseling;
+10. records of students receiving counseling;
 
 10
 
@@ -454,29 +454,29 @@ Elementary schools shall keep the following records containing personally identi
 
 [[START OF PAGE 11]]
 
-- records of adult learners and of adults taking examinations;
+11. records of adult learners and of adults taking examinations;
 
-12.  records of student assessment and grading;
+12. records of student assessment and grading;
 
-- records of issued certificates on the completion of education.
+13. records of issued certificates on the completion of education.
 
 Student dormitories shall keep records of points 1, 2 and 3 of paragraph one of this Article and the records of the social status of the students applying for fee reduction.
 
-The records of points 1 to 4, 6 to 9 and 11 to 13 of paragraph one of this Article shall include: pupil s first and family name, sex, date, place, community and country of birth, address and prior education.
+The records of points 1 to 4, 6 to 9 and 11 to 13 of paragraph one of this Article shall include: pupilís first and family name, sex, date, place, community and country of birth, address and prior education.
 
-In addition to the information of the preceding paragraph, the records of point 3 of paragraph 1 of this Article  shall  also  include  the  information  on  pupil  s  overall  achievement,  examinations  passed, advancement, and completion of education.
+In addition to the information of the preceding paragraph, the records of point 3 of paragraph 1 of this Article shall also include the information on pupilís overall achievement, examinations passed, advancement, and completion of education.
 
-In addition to the information of paragraph 3 of this Article, the records of point 5 of paragraph 1 of this  Article  shall  also  include  the  information  on  pupil  s  orthopedic  skills  and  morphological characteristics referring to: pupil s height, body volume, speed of alternative movements, explosive power,  coordination  of  body  movement,  physical  endurance  of  the  body,  motor  skills,  muscular endurance  of  shoulders  and  arms,  running  speed  and  endurance  under  the  condition  of  belowmaximum continuing effort.
+In addition to the information of paragraph 3 of this Article, the records of point 5 of paragraph 1 of this Article shall also include the information on pupilís orthopedic skills and morphological characteristics referring to: pupilís height, body volume, speed of alternative movements, explosive power, coordination of body movement, physical endurance of the body, motor skills, muscular endurance of shoulders and arms, running speed and endurance under the condition of below-maximum continuing effort.
 
-Student s consent is required for the collection of personal data of the preceding paragraph.
+Studentís consent is required for the collection of personal data of the preceding paragraph.
 
 In addition to the information of paragraph 3 of this Article, the records of point 10 of paragraph 3 of this Article shall include:
 
 - family and social anamnesis,
 
-- diagnostic procedures,
-
 - development anamnesis,
+
+- diagnostic procedures,
 
 - procedures for professional support,
 
@@ -498,7 +498,7 @@ More detailed stipulations on the data collection method and the keeping of reco
 
 Personal data on pupils kept in files of the preceding Article shall be collected, processed, stored and transferred for the needs of gymnasia and the ministry having jurisdiction over education; in other cases, they may be used only in compliance with special regulations.
 
-For research and statistical analyses, personal information may be used and published only in a form that does not disclose pupils  identity.
+For research and statistical analyses, personal information may be used and published only in a form that does not disclose pupilsí identity.
 
 #### Article 44 (Storing Records)
 
@@ -538,7 +538,7 @@ Students having enrolled in secondary education programs before the day of entry
 
 #### Article 49 (Completion of Education)
 
-Students enrolling in gymnasia after entry into force of this Act but before the introduction of new education programs shall pursue and complete education under the conditions stipulated by this Act. They shall complete their education within the term of the program s regular duration extended by two years at the most.
+Students enrolling in gymnasia after entry into force of this Act but before the introduction of new education programs shall pursue and complete education under the conditions stipulated by this Act. They shall complete their education within the term of the programís regular duration extended by two years at the most.
 
 Students of paragraph one and three of Article 20 of this Act and students of the preceding paragraph having the right to repeat a year in compliance with the regulations in force so far, but are unable to do so because of the gradual introduction of education programs pursuant to this Act, shall continue and  complete  education  in  new  education  programs  in  compliance  with  this  Act.  In  such  cases, students have the right to repeat the grade in an appropriate new program.
 
@@ -560,7 +560,7 @@ The charters of gymnasia shall be aligned with this Act within one year of its e
 
 This Act shall enter into force on the fifteenth day after its publication in the Official Gazette of the Republic of Slovenia.
 
-<!-- N O S E A R C H E N D - - >
+<!--NOSEARCHEND-->
 
 13
 
