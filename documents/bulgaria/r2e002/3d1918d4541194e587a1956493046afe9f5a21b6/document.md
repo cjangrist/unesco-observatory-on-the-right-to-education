@@ -4,7 +4,7 @@
 
 ## Education for All 2015 National Review
 
-This report was prepared by the relevant national authorities in view of the World Education Forum (Incheon, Republic of Korea, 19 -22 May 2015). It was submitted in response to UNESCO's invitation to its Member States to assess progress made since 2000
+This report was prepared by the relevant national authorities in view of the World Education Forum (Incheon, Republic of Korea, 19-22 May 2015). It was submitted in response to UNESCO’s invitation to its Member States to assess progress made since 2000
 
 towards achieving Education for All (EFA).
 
@@ -12,7 +12,7 @@ The views and opinions expressed in this document are those of the authors and d
 
 frontiers or boundaries.
 
-The paper can be cited with the following reference: 'Education for All 2015 National Review Report: Bulgaria'. For further information, please contact: efa2015reviews@unesco.org No.……….………………….
+The paper can be cited with the following reference: “Education for All 2015 National Review Report: Bulgaria”. For further information, please contact: efa2015reviews@unesco.org
 
 [[END OF PAGE 1]]
 
@@ -21,6 +21,8 @@ The paper can be cited with the following reference: 'Education for All 2015 Nat
 REPUBLIC OF BULGARIA
 
 Ministry of Education and Science
+
+No.……….………………….
 
 ……………………. 2014
 
@@ -48,7 +50,7 @@ The  programme  is  implemented  by  way  of  annual  secondary  education  deve
 
 In the Strategy for decreasing the share of early school leavers (2013-2020) policies and  measures  are  laid  out  for  prevention  of  dropping  out  from  school  and  early  school leaving, including such focused on education and cares in early childhood age. In pursuance of  the  objectives  of  the  Strategy,  it  is  expected  to  achieve  results,  among  which:  increased coverage  by  kindergartens  and  schools  through  encouragement  of  enrollment  and  regular attendance,  offering  inter-sector  services  for  educational  and  social  support;  improved education results and provision of suitable educational support to every child and student.
 
-In the implementation of the National Roma Integration Strategy of the Republic of Bulgaria /2012-2020/ , the Ministry of Education and Science is a leading institution under the Education priority. The first objective under the Education priority in the Action Plan of the National Roma Integration Strategy of the Republic of Bulgaria (2012 - 2020) and Roma Inclusion  Decade  2005-201  refers  to guaranteeing  the  right  of  equal  access  to  quality education .  For its implementation it is envisaged to provide positive educational conditions for  the  children's  development  in  the  preschool  education  system  /early  childhood and  preschool age from 0 to 7 years/. In addition, activities are laid out for provision of appropriate educational  environment  for  coverage  of  the  children  from  the  kindergartens  separated  on ethnic basis  through stage-by-stage admission to kindergartens outside the Roma residential areas,  in  multiethnic  groups  and  opening  of  hour-based,  seasonal  and  weekend  groups  in kindergartens.
+In the implementation of the National Roma Integration Strategy of the Republic of Bulgaria /2012-2020/ , the Ministry of Education and Science is a leading institution under the Education priority. The first objective under the Education priority in the Action Plan of the National Roma Integration Strategy of the Republic of Bulgaria (2012 - 2020) and Roma Inclusion Decade 2005-2015 refers to guaranteeing the right of equal access to quality education . For its implementation it is envisaged to provide positive educational conditions for the children's development in the preschool education system /early childhood and preschool age from 0 to 7 years/. In addition, activities are laid out for provision of appropriate educational environment for coverage of the children from the kindergartens separated on ethnic basis through stage-by-stage admission to kindergartens outside the Roma residential areas, in multiethnic groups and opening of hour-based, seasonal and weekend groups in kindergartens.
 
 For increasing the quality of education, the aforementioned plan envisages activities related to the preparation of children of early age (3-6 years old) for their future successful inclusion in the educational process, especially of children from minority groups, as well as additional  activities  with  children  in  kindergartens,  for  whom  Bulgarian  is  not  a  native tongue.  For  the  prevention  of  dropping  out  from  school  the  plan  prescribes  measures  for provision  of  conditions  of  maximal  scope  and  early  adaptation  of  the  preschool  education system. Also planned is the organization of campaigns for raising the awareness of parents from vulnerable communities as regards the benefits of preschool education.
 
@@ -62,7 +64,7 @@ The full integration of Roma children by way of desegregation of kindergartens i
 
 The Republic of Bulgaria recognizes the right of the  child  to  education  and  guarantees through  the  legal  framework  equal  treatment  of  children  in  respect  of  this  right.  In  Art.  9, para. 1 of PEA it is specified that every citizen applies his/her right to education in a school of his/her own choice and as per a type of education complied with his/her personal preferences and abilities, as the right to education of minors is applied by their parents or legal guardians.
 
-Within the national legislation preschool education is regulated as an integral part of the public education system. Pursuant to Art. 2 of PEA ' The public education system includes kindergartens, schools and servicing units".
+Within the national legislation preschool education is regulated as an integral part of the public education system. Pursuant to Art. 2 of PEA “The public education system includes kindergartens, schools and servicing units".
 
 Art.  20,  para.  2  of  PEA  reads  as  follows: Preschool  preparation  of  children  two  years before  their  admission  to  the  first  grade  is  obligatory,  but  not  earlier  than  the  year  of  the child's fifth birthday. Through increasing the preparation for school from one to two years in 2010 the Bulgarian state assumes concrete commitments related to the early development of children and obliges to procure the necessary conditions for all 5-year-old children to attend a kindergarten  -  places  at  kindergartens  /or  at  school,  with  provision  of  the  necessary conditions/, aids free of charge, transport for children, charge payment reliefs, etc.
 
@@ -122,6 +124,8 @@ As  a  result  of  the  consistent  policy  for  all-embracing  and  accessible 
 
 [[START OF PAGE 7]]
 
+Table 1. Group net coefficient of enrolment for preschool education in the period from the year 2000 to the year 2013 2
+
 School year | Group net coefficient of enrolment to preschool education
 --- | ---
 2000/2001 | 66,8 %
@@ -139,8 +143,6 @@ School year | Group net coefficient of enrolment to preschool education
 2012/2013 | 82,1 %
 2013/2014 | 83,6 %
 
-Table 1. Group net coefficient of enrolment for preschool education in the period from the year 2000 to the year 2013 2
-
 The dynamics of the values of the net coefficient of enrolment to preschool education in the period 2000- 2013 is visualized in Chart 1.
 
 Chart 1. Dynamics of the values of the group net coefficient of enrolment to preschool education in the period 2000- 2013.
@@ -150,6 +152,23 @@ Chart 1. Dynamics of the values of the group net coefficient of enrolment to pre
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+
+нетен коефициент на записване
+
+90,00%
+80,00%
+70,00%
+60,00%
+50,00%
+40,00%
+30,00%
+20,00%
+10,00%
+0,00%
+
+2000/01 | 2001/02 | 2002/03 | 2003/04 | 2004/05 | 2005/06 | 2006/07 | 2007/08 | 2008/09 | 2009/10 | 2010/11 | 2011/12 | 2012/13 | 2013/14
+
+нетен коефициент на записване
 
 net coefficient of enrolment
 
@@ -163,7 +182,7 @@ The improvement of the scope of preschool education through increasing the numbe
 
 ### What particular strategies and measures have been introduced in view of increasing the degree of preparation of the children before school among all children, and especially among those in underprivileged position? Does the state conduct any policies focused on the quality of public and private preschool training and preparation?
 
-The assurance of quality and access to preschool training and preparation is a part of a number of strategic documents of the country  National Programme for Reforms; Strategy for Life-Long Learning; Strategy for Decreasing the Share of Early School Leavers, as well as in the draft Strategy for Literacy Encouragement and Increasing.
+The assurance of quality and access to preschool training and preparation is a part of a number of strategic documents of the country –National Programme for Reforms; Strategy for Life-Long Learning; Strategy for Decreasing the Share of Early School Leavers, as well as in the draft Strategy for Literacy Encouragement and Increasing.
 
 [[END OF PAGE 8]]
 
@@ -257,7 +276,7 @@ A  possibility  is  guaranteed  for  integrated  education  of  children  with  
 
 The  accomplishment  of  the  respective  education  level  guarantees  the  mastering  of  a  total educational minimum, as well as of knowledge and skills corresponding to the interests and individual abilities of students.
 
-The  general  education  minimum  is  the  basis  of  the  general  education  training.  It  includes obligatory  knowledge  and  skills  necessary  for  the  successful  fulfillment  of  students  in  the following  level  of  education.  The  general  educational  minimum  for  the  primary  and  presecondary stage of basic education is identical and obligatory for all types of schools.
+The general education minimum is the basis of the general education training. It includes obligatory knowledge and skills necessary for the successful fulfillment of students in the following level of education. The general educational minimum for the primary and pre-secondary stage of basic education is identical and obligatory for all types of schools.
 
 The general educational training in our country is built on the principle of respecting:
 
@@ -279,7 +298,7 @@ The  general  education  training  in  Bulgarian  school  is  implemented  throu
 
 School education provides conditions for mastering literary Bulgarian language. The students  for  whom  Bulgarian  is  not  a  native  tongue,  in  addition  to  the  obligatory  study  of Bulgarian language, are entitled to study their native tongue as well at the municipal school with the protection and control by the state.
 
-The basic education has a duration of eight years and is carried out in two stages - primary (IIV  grade)  and  pre-secondary  (V-VIII  grade).  It  is  acquired  after  completion  of  the  lower secondary stage (VIII grade) and is testified by a certificate giving a right to study in the next education  level,  to  vocational  study,  as  well  as  to  practice  professions,  for  which  basic education is required. Those who have completed the primary stage of basic education receive certificate for completed IV grade.
+The basic education has a duration of eight years and is carried out in two stages - primary (I-IV grade) and pre-secondary (V-VIII grade). It is acquired after completion of the lower secondary stage (VIII grade) and is testified by a certificate giving a right to study in the next education level, to vocational study, as well as to practice professions, for which basic education is required. Those who have completed the primary stage of basic education receive certificate for completed IV grade.
 
 The primary stage of basic education guarantees the mastering of basic knowledge, skills and competencies, without which successful education at the pre-secondary level is impossible. The tasks of the study during this period are related to building initial literacy and building on it with skills which presuppose the mastering of both the functional and the key competencies necessary for realization in the modern democratic and knowledge-based society.
 
@@ -305,7 +324,7 @@ Measures are elaborated for guaranteeing that all children from urban and rural 
 
 The Additional Provisions of PEA /§ 6c., (1) § 6f., (1)/ regulate the establishment of central and protected schools .
 
-"Central school' is a school located in the nearest populated area on the territory of the municipality, where training is provided to the students from the populated areas in which there is no relevant school.
+“Central school” is a school located in the nearest populated area on the territory of the municipality, where training is provided to the students from the populated areas in which there is no relevant school.
 
 "Protected school" is a school the closing down of which would distort the access to education in the area.
 
@@ -319,11 +338,11 @@ Apart from the funds provided  by the state  budget  as  per  unified  cost  sta
 
 [[START OF PAGE 15]]
 
--textbooks  and  learning  aids  for  gratuitous  use  by  the  children  from  the  preparatory groups and the pupils from І to V ІІ grade;
+-textbooks and learning aids for gratuitous use by the children from the preparatory groups and the pupils from І to VІІ grade;
 
 -transport for children and students up to 16 years of age;
 
--supporting the nutrition of children from the preparatory groups and the pupils from І to І V grade;
+-supporting the nutrition of children from the preparatory groups and the pupils from І to ІV grade;
 
 -full-school-day organization for the pupils in the primary level (the measure has started since school year 2010/2011 for grade I pupils, in the school year 2011/2012 grade ІІ pupils are also included, in the school year 2012/2013 III grade pupils are included as well, and as of school  year  2013/2014,  IV  grade  pupils  are  included,  as  from  the  school  2014/2015  the inclusion of V grade students is also forthcoming);
 
@@ -341,11 +360,13 @@ For tackling inequality at the primary level of basic education individual appro
 
 Special cares on the part of the state are taken for children with distinct natural gifts and  talents.  For  provision  of  conditions  for  their  participation  in  contests  and  students' Olympiads at municipal, regional, national and international level, scholarships are granted or additional financing to the schools through national programmes and projects.
 
-An expression of the aspiration towards enhancing the quality of the education and training process while respecting the interests, abilities and age peculiarities of students is the policy for provision of full school day organization .  As of the school year 2010-2011 full school day organization is being introduced on a stage-by-stage basis and up to date pupils from I to IV grade are covered. By Decree No. 186 of the Council of Ministers of 2010 for provision of full school day organization to pupils from I to IV grades at the state and municipal schools additional  funds  are  annually  provided  to  all  state  and  municipal  schools  for  the  pupils covered within the full school day organization. Through the National Programme The School -  Territory  of  the  Students , Module on supporting full-day school for students in the initial school  years  Support  to  full  day  education  of  the  pupils  at  the  primary  stage additional conditions and prerequisites are created for mutual knowledge and communication of children from  different  communities.  A  great  number  of  schools  with  full-day  education  process implement  projects  financed  through  the  European  Union  funds  (the  project Success ,  for instance). Under the project Enhancing the quality of education in central schools through the introduction of full-day organization , financed  under  Operational  Programme Human Resource Development 2007-2013 , Framework programme for full-day organization of the school process is elaborated for stimulating  the  development  of  school  programmes depending on the specifics of the school conditions and the particular needs. As a result of the implemented policy, the necessary conditions and high quality are ensured for its conducting.
+An expression of the aspiration towards enhancing the quality of the education and training process while respecting the interests, abilities and age peculiarities of students is the policy for provision of full school day organization. As of the school year 2010-2011 full school day organization is being introduced on a stage-by-stage basis and up to date pupils from I to
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+
+IV grade are covered. By Decree No. 186 of the Council of Ministers of 2010 for provision of full school day organization to pupils from I to IV grades at the state and municipal schools additional funds are annually provided to all state and municipal schools for the pupils covered within the full school day organization. Through the National Programme The School - Territory of the Students, Module on supporting full-day school for students in the initial school years Support to full day education of the pupils at the primary stage additional conditions and prerequisites are created for mutual knowledge and communication of children from different communities. A great number of schools with full-day education process implement projects financed through the European Union funds (the project Success, for instance). Under the project Enhancing the quality of education in central schools through the introduction of full-day organization, financed under Operational Programme Human Resource Development 2007-2013, Framework programme for full-day organization of the school process is elaborated for stimulating the development of school programmes depending on the specifics of the school conditions and the particular needs. As a result of the implemented policy, the necessary conditions and high quality are ensured for its conducting.
 
 ### What efforts (e.g., more inclusive social policies, stimuli, etc.) have been made in view of reducing the costs necessary for school enrolment and attendance?
 
@@ -353,7 +374,7 @@ In view of reducing the expenses necessary for school enrolment and attendance, 
 
 Provision of gratuitous use of sets of textbooks and learning aids:
 
-Provided learning aids for children in preparatory group, of sets of textbooks and learning aids for pupils from І to І V grade, of sets of textbooks for the students from V to V ІІ grade in the state, municipal and private kindergartens and schools.
+Provided learning aids for children in preparatory group, of sets of textbooks and learning aids for pupils from І to ІV grade, of sets of textbooks for the students from V to VІІ grade in the state, municipal and private kindergartens and schools.
 
 Textbooks and learning aids, provided for gratuitous use, in special school subjects - Speech development and Pronunciation for students with impaired hearing ability
 
@@ -389,7 +410,7 @@ As  of  the  school  year  2010/2011  the  gradual  introduction  of  full  day 
 
 The  project  BG  051PO001-3.1.06 Enhancing  the  quality  of  education  in  central schools  through  the  introduction  of  full  day  organization  of  the  study  process provides additional possibilities for the implementation of this organization. The full-day organization of the study process includes the complete educational cycle /mandatory training, obligatory optional  training,  freely  optional  training,  self-training,  recreation  and  games,  meals  /for achievement  of  generally  accessible,  basic  knowledge,  based  on  the  principles  of  justice, tolerance and viability.
 
-Through  inclusion  of  the  students  in  activities  under  project  BG051PO001-4.2.050001 School  for  self-affirmation  and  preparation  towards  European  horizons /USPEH/ conditions are created for providing sense to their free time. This is of special importance for students at risk of dropping out and/or students with displays of aggression and/or violence. The participation  in  extracurricular  and  out-of-school  activities  also  leads  to  increasing  the motivation  of  students  to  participate  in  the  educational  process,  in  accordance  with  their interests and needs.
+Through inclusion of the students in activities under project BG051PO001-4.2.05-0001 School for self-affirmation and preparation towards European horizons /USPEH/ conditions are created for providing sense to their free time. This is of special importance for students at risk of dropping out and/or students with displays of aggression and/or violence. The participation in extracurricular and out-of-school activities also leads to increasing the motivation of students to participate in the educational process, in accordance with their interests and needs.
 
 The  elaboration  and  application  of  overall,  far-reaching  and  efficient  policies  for decreasing the vulnerability of risk groups is related to research, analysis and systematization of the specific reasons for early school leaving and (mapping) of the necessary measures for retaining  students  at  school.  It  is  necessary  to  ensure  the  provision  of  unified  and  reliable database and the implementation of policies at all levels - regional, municipal and school, and for guaranteeing of individual approach towards each particular case of early school leaving.
 
@@ -399,13 +420,13 @@ The  Ministry  of  Education  and  Science  implements  national  programmes,  a
 
 -National programme for more complete coverage of the students /2007-2009/ has  the objective  of  implementing  strategic  priorities  related  to  a  more  complete  coverage  and retaining of students at mandatory school age.
 
-Module Provision of breakfast and/or fruit, and/or milk (tea) to students in І -І V school grade  inclusive,  and  children  in  the  preparatory  groups  and  grades  in  schools  and kindergartens aims at keeping children at school and supporting parents in the provision of meals to children.
+Module Provision of breakfast and/or fruit, and/or milk (tea) to students in І – ІV school grade inclusive, and children in the preparatory groups and grades in schools and kindergartens aims at keeping children at school and supporting parents in the provision of meals to children.
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
 
-Module Provision of textbooks and learning aids for students from І to І V grade aims at the provision of equal access to the syllabus for students at the state, municipal and private schools and of children from preparatory groups at kindergartens. The provision of textbooks and learning aids for gratuitous use is an investment that has a long-term effect on the access to and quality of education. The measure has a positive influence in respect of the difficulties of  socially  disadvantaged  families  in  the  provision  of  textbook  and  leads  to  reducing  the dropping out of students from school.
+Module Provision of textbooks and learning aids for students from І to ІV grade aims at the provision of equal access to the syllabus for students at the state, municipal and private schools and of children from preparatory groups at kindergartens. The provision of textbooks and learning aids for gratuitous use is an investment that has a long-term effect on the access to and quality of education. The measure has a positive influence in respect of the difficulties of socially disadvantaged families in the provision of textbook and leads to reducing the dropping out of students from school.
 
 Module Provision  of  transport  for  students  at  the  basic  educational  level ensures conditions  for  equal  access  to  education  commensurate  in  quality  through  free  of  charge transport to the central schools for students, who study outside the populated area in which they live.
 
@@ -445,10 +466,12 @@ The strategy systematizes the specific reasons for dropping out from school and 
 
 The  number  of  students  and  those  who  have  left  the  educational  system  per  school years during the period from school year 2000/2001 to school year 2013/2014 is presented in Table 2.
 
-Age (in compl eted years) | 2000 /01 | 2001 /02 | 2002 /03 | 2003 /04 | 2004 /05 | 2005 /06 | 2006 /07 | 2007 /08 | 2008 /09 | 2009 /10 | 2010 /11 | 2011 /12 | 2012 /13 | 2013 /14
+Table 2. Students and persons who have left the educational system per school years during the period from school year 2000/2001 to school year 2013/2014
+
+Age (in completed years) | 2000/01 | 2001/02 | 2002/03 | 2003/04 | 2004/05 | 2005/06 | 2006/07 | 2007/08 | 2008/09 | 2009/10 | 2010/11 | 2011/12 | 2012/13 | 2013/14
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Total | 200 449 | 199 206 | 201 317 | 201 145 | 202 803 | 206 243 | 206 745 | 207 682 | 212 454 | 217 804 | 223 186 | 227 971 | 235 015 | 240 622
-Unde r 3 | 9 259 | 11 485 | 11 172 | 10 263 | 8 731 | 7 940 | 8 404 | 8 738 | 9 131 | 8 496 | 7 375 | 7 254 | 6 632 | 6 165
+Under 3 | 9 259 | 11 485 | 11 172 | 10 263 | 8 731 | 7 940 | 8 404 | 8 738 | 9 131 | 8 496 | 7 375 | 7 254 | 6 632 | 6 165
 3 | 37 088 | 39 563 | 43 514 | 42 123 | 39 298 | 40 435 | 42 421 | 44 758 | 47 102 | 48 215 | 49 391 | 50 844 | 52 919 | 51 135
 4 | 47 207 | 44 187 | 46 563 | 49 413 | 48 724 | 46 046 | 47 162 | 48 248 | 50 050 | 51 998 | 52 696 | 53 899 | 55 840 | 58 540
 5 | 49 850 | 51 235 | 47 411 | 48 485 | 52 935 | 52 234 | 49 645 | 50 527 | 50 946 | 52 882 | 56 282 | 58 284 | 60 725 | 64 317
@@ -456,13 +479,11 @@ Unde r 3 | 9 259 | 11 485 | 11 172 | 10 263 | 8 731 | 7 940 | 8 404 | 8 738 | 9 
 7 | 1 797 | 1 559 | 1 099 | 823 | 606 | 555 | 591 | 638 | 782 | 689 | 694 | 659 | 585 | 561
 Over 7 | 79 | 129 | 164 | 73 | 42 | 88 | 32 | 48 | 47 | 84 | 39 | 31 | 50 | 18
 Boys | 103 507 | 102 749 | 104 148 | 103 910 | 104 669 | 106 299 | 106 911 | 107 452 | 109 789 | 112 711 | 115 267 | 117 804 | 121 253 | 123 947
-Unde r 3 | 4 678 | 5 752 | 5 663 | 5 270 | 4 473 | 3 989 | 4 294 | 4 487 | 4 654 | 4 343 | 3 685 | 3 705 | 3 323 | 3 162
+Under 3 | 4 678 | 5 752 | 5 663 | 5 270 | 4 473 | 3 989 | 4 294 | 4 487 | 4 654 | 4 343 | 3 685 | 3 705 | 3 323 | 3 162
 3 | 19 270 | 20 247 | 22 290 | 21 580 | 20 322 | 20 865 | 21 863 | 23 004 | 24 333 | 24 884 | 25 469 | 26 293 | 27 104 | 26 238
 4 | 24 387 | 22 944 | 24 103 | 25 456 | 25 242 | 23 764 | 24 488 | 24 928 | 25 804 | 26 949 | 27 270 | 27 789 | 28 844 | 29 930
 5 | 25 717 | 26 475 | 24 699 | 25 058 | 27 181 | 26 940 | 25 658 | 26 191 | 26 212 | 27 336 | 29 047 | 30 057 | 31 347 | 33 160
 6 | 28 441 | 26 429 | 26 713 | 26 025 | 27 067 | 30 400 | 30 253 | 28 442 | 28 292 | 28 753 | 29 372 | 29 555 | 30 270 | 31 142
-
-Table 2. Students and persons who have left the educational system per school years during the period from school year 2000/2001 to school year 2013/2014
 
 [[END OF PAGE 21]]
 
@@ -472,7 +493,7 @@ Table 2. Students and persons who have left the educational system per school ye
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Over 7 | 43 | 61 | 90 | 37 | 26 | 39 | 15 | 31 | 35 | 49 | 27 | 17 | 25 | 8
 Girls | 96 942 | 96 457 | 97 169 | 97 235 | 98 134 | 99 944 | 99 834 | 100 230 | 102 665 | 105 093 | 107 919 | 110 167 | 113 762 | 116 675
-Unde r 3 | 4 581 | 5 733 | 5 509 | 4 993 | 4 258 | 3 951 | 4 110 | 4 251 | 4 477 | 4 153 | 3 690 | 3 549 | 3 309 | 3 003
+Under 3 | 4 581 | 5 733 | 5 509 | 4 993 | 4 258 | 3 951 | 4 110 | 4 251 | 4 477 | 4 153 | 3 690 | 3 549 | 3 309 | 3 003
 3 | 17 818 | 19 316 | 21 224 | 20 543 | 18 976 | 19 570 | 20 558 | 21 754 | 22 769 | 23 331 | 23 922 | 24 551 | 25 815 | 24 897
 4 | 22 820 | 21 243 | 22 460 | 23 957 | 23 482 | 22 282 | 22 674 | 23 320 | 24 246 | 25 049 | 25 426 | 26 110 | 26 996 | 28 610
 5 | 24 133 | 24 760 | 22 712 | 23 427 | 25 754 | 25 294 | 23 987 | 24 336 | 24 734 | 25 546 | 27 235 | 28 227 | 29 378 | 31 157
@@ -487,6 +508,21 @@ Chart 2. Dynamics in the number of those who have left the educational system pe
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
+
+напуснали системата на образованието
+
+35 000
+30 000
+25 000
+20 000
+15 000
+10 000
+5 000
+0
+
+1999/00 | 2000/01 | 2001/02 | 2002/03 | 2003/04 | 2004/05 | 2005/06 | 2006/07 | 2007/08 | 2008/09 | 2009/10 | 2010/11 | 2011/12 | 2012/13
+
+напуснали системата на образованието
 
 persons who have left the educational system
 
@@ -532,15 +568,15 @@ The  concept  of adult  literacy  provision, apart  from  the  requirements  for
 
 The elaboration and implementation of appropriate policies for stimulation of literacy among adults requires the collection and use of data at school, regional and national level which allow researching the needs of provision of literacy to adults and the possibilities for their fulfillment.
 
-On the methodic preparation and on the adequate impact of the teacher is to depend the overcoming of the weaknesses related to the psychological and didactic aspects of the process of  literacy  provision  to  adults.  On  his/her  skill  to  implement  pedagogical  technologies adequate  in  respect  of  the  experience  of  the  adult  learners  is  to  depend  the  result  of  the literacy provision.
+On the methodic preparation and on the adequate impact of the teacher is to depend the overcoming of the weaknesses related to the psychological and didactic aspects of the process of literacy provision to adults. On his/her skill to implement pedagogical technologies
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
-
+adequate in respect of the experience of the adult learners is to depend the result of the literacy provision.
 Adult learners apply targeted efforts to study when they have realized for themselves the benefit thereof. That is why the conducting of information campaigns for inclusion of illiterate and low literate persons in training shall be based on taking into consideration and recognizing their experience and their values as a part of the knowledge being significant to them  as  well  as  of  their  orientation  towards  learning  as  "orientation  towards  life."  The overcoming of stereotypes  and prejudices of  ethno-cultural  environment implies  their  good knowing  and  continuous  communication  between  the  school  community  and  the  learner, including via mediator.
 
-For raising the self-esteem and motivation of adults to learn and for increasing their literacy  of  substantial  importance  is  the  development  of  the  system  for recognition  and validation  of  informal  and  non-formal  learning. The  change  of  the  status  of  the  adult learner and his/her return to the "literacy" cause presupposes broader possibilities for offering forms  of  education,  which  correspond  to  the  interests  and  abilities  of  employed  persons  evening classes, distance learning, etc.
+For raising the self-esteem and motivation of adults to learn and for increasing their literacy of substantial importance is the development of the system for recognition and validation of informal and non-formal learning. The change of the status of the adult learner and his/her return to the "literacy" cause presupposes broader possibilities for offering forms of education, which correspond to the interests and abilities of employed persons – evening classes, distance learning, etc.
 
 ## Objective 4: Adult literacy and continuing education
 
@@ -582,13 +618,15 @@ Even though the outlined specific focus of the Strategy is on the achievement of
 
 As at  the  time  of  elaboration  of  the  Strategy,  no  generally  accepted  concept  of  literacy exists in Bulgaria. The traditional understanding of literacy is most often related to mastering reading and writing in the native tongue (or in the language that is official for the particular country in which the person lives).
 
-At  the  same  time,  due  to  the  lack  of  another  word  in  Bulgarian,  the  same  word "literacy"  is  used  in  the  meaning  of  both  linguistic  literacy  (literacy)  and  of  mathematical literacy (numeracy), and often of literacy in the field of natural sciences and technologies. In this  manner  literacy  functions  in  a  narrow  (understood  exactly  as  reading  and  writing,  i.e., mostly to indicate "reading literacy"and/or language literacy) and in a broad sense (understood as a complex of "literacies", including mathematical, financial, numerical, in the area  of  natural  sciences  and  technologies,  and  often  it  is  perceived  as  a  synonym  of competences). For the purposes of this Strategy the concept of literacy will be used to indicate linguistic  literacy  in  the  official  language, the  underlying element of which is mostly the reading literacy (related to the skills of reading and writing), but it is consistently related to the remaining skills as well - listening and speaking.
+At the same time, due to the lack of another word in Bulgarian, the same word "literacy" is used in the meaning of both linguistic literacy (literacy) and of mathematical
 
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
 
-In the document of the National strategy for encouragement and increasing of literacy 2014-2020 a review is presented of the steps taken internationally for unified defining of the concept  of literacy .  The  strategy  expressly  refers  to  the  definition  of  literacy  adopted  by UNESCO in  2003  at  an  international  expert  meeting:  " Literacy  is  the  ability  to  identify, understand, interpret, create, communicate and compute, using printed and written materials associated  with  varying  contexts.  Literacy  involves  a  continuum  of  learning  in  enabling individuals  to  achieve  their  goals,  to  develop  their  knowledge  and  potential,  and  to participate fully in their community and wider society.'
+literacy (numeracy), and often of literacy in the field of natural sciences and technologies. In this manner literacy functions in a narrow (understood exactly as reading and writing, i.e., mostly to indicate "reading literacy"and/or language literacy) and in a broad sense (understood as a complex of "literacies", including mathematical, financial, numerical, in the area of natural sciences and technologies, and often it is perceived as a synonym of competences). For the purposes of this Strategy the concept of literacy will be used to indicate linguistic literacy in the official language, the underlying element of which is mostly the reading literacy (related to the skills of reading and writing), but it is consistently related to the remaining skills as well - listening and speaking.
+
+In the document of the National strategy for encouragement and increasing of literacy 2014-2020 a review is presented of the steps taken internationally for unified defining of the concept of literacy. The strategy expressly refers to the definition of literacy adopted by UNESCO in 2003 at an international expert meeting: " Literacy is the ability to identify, understand, interpret, create, communicate and compute, using printed and written materials associated with varying contexts. Literacy involves a continuum of learning in enabling individuals to achieve their goals, to develop their knowledge and potential, and to participate fully in their community and wider society.”
 
 The  National  strategy  defines  primary  literacy  in  the  following  manner: Primary literacy is  related  to  the  initial  stage  of  mastering  reading  and  writing  along  with  the understanding what is being read and written, whereby the code for transition from graphic signs to the sound form of the word in reading and vice versa - from the sound form to the graphic one in writing ( primary provision of literacy ).  The  components of primary literacy include the skill to read, the skill to write and the skill to understand the meaning of what is being read and written - skills which should be acquired in the first grade in accordance with the  requirements  embedded  in  the  national  curricula.  It  is  expressly  stated  that  the  lack  of primary literacy provides grounds for determining a person as illiterate .
 
@@ -610,7 +648,7 @@ Functional literacy can be viewed in two dimensions: as application of the knowl
 
 The concept of PISA about functional literacy in the field of reading is based on the understanding that this is the skill to understand, realize and use written texts for achievement of concrete targets, for developing the potential of a personality and for its full participation in  social  life ,  i.e.,  functional  literacy  is  present  when  reading  and  writing  are  mastered  as distinct practices with motivation for use and are thus integrated in the social behavior of the person in various spheres. In other words, functional literacy is interpreted in a much wider context than the skill to read and write.
 
-Correlated to the state educational requirements and national curricula in Bulgaria, the basis for acquisition of functional literacy is laid in the primary school, it is built on a stageby-stage  basis  within  the  pre-secondary  stage,  as  the  elements  of  functional  literacy  in  the field  of  reading  are  derived  as  expected  results  from  the  education at  the  end  of  basic education, and every student is expected to possess it before the end of his/her mandatory education.
+Correlated to the state educational requirements and national curricula in Bulgaria, the basis for acquisition of functional literacy is laid in the primary school, it is built on a stage-by-stage basis within the pre-secondary stage, as the elements of functional literacy in the field of reading are derived as expected results from the education at the end of basic education, and every student is expected to possess it before the end of his/her mandatory education.
 
 [[END OF PAGE 29]]
 
@@ -638,7 +676,7 @@ According to data of the National Statistical Institute (NSI) the share of illit
 
 The distribution of persons at the age of 7+ completed years who have never attended school shows that  their  share  is  the  greatest  in  the  regions  of  Kardzahli  (3.56%),  Sliven  (3.53%), Silistra (2.54%), Dobrich (2.09%) and Yambol (2.00%). A more in-depth review of two of the five  regions  shows  that  these  are  among  the  regions  with  the  lowest  levels  of  employment among the population at the age 15-64: Sliven (48.5%) and Silistra (42.4%), occupy the 24th and 28th place as per employment level for the year 2013 (out of 28 regional centers), the remaining  three  regions  still  occupy  8th,  9th  and  accordingly,  10th  place.  Another  specific characteristic  of  the  regions  is  the  presence  of  compact  ethnic  masses.  In  the  region  of Kardzhali the share of ethnic groups other than Bulgarian is 69.8%, in Silistra it is 42.6%, and in  Sliven  it  is  23.4%,  which  is  rather  higher  than  the  average  value  for  the  country, equaling14.6%.
 
-Illiteracy viewed within the ethnic group itself (age group 25 to 64 years old) shows that the share  of  illiterate  persons  is  the  highest  among  the  Roma  ethnos  -  16.6%  out  of  all  selfdeclared  Roma  persons  have  stated  that  they  are  illiterate  according  to  the  UN  definition, among  the  Turkish  such  are  2.8%,  and  among  Bulgarians  these  are  barely  0.4%.  What  is striking is also the high relative share of illiterate persons among Roma people at the age of 20-24 and 25-29, accordingly, 20.2% and 21.4%.
+Illiteracy viewed within the ethnic group itself (age group 25 to 64 years old) shows that the share of illiterate persons is the highest among the Roma ethnos - 16.6% out of all self-declared Roma persons have stated that they are illiterate according to the UN definition, among the Turkish such are 2.8%, and among Bulgarians these are barely 0.4%. What is striking is also the high relative share of illiterate persons among Roma people at the age of 20-24 and 25-29, accordingly, 20.2% and 21.4%.
 
 ### What  type  of  programmes  for  continuous/basic  -  UNESCO's  note  basic/  primary education have been organized in the country for provision of literacy to adults? How can they become even more efficient?
 
@@ -678,7 +716,7 @@ The  trainings  are  conducted  under  curricula  and  syllabuses  elaborated  s
 
 In future the literacy provision programmes should not be viewed as a problem and function of  the  educational  system  only.  The  future  development  of  literacy  provision  programmes requires focusing the efforts for literacy provision in order to achieve a certain basic literacy related  to  the  acquisition  of  educational  degree  and  professional  qualification  for  ensuring employment.
 
-In fact, low literacy is a problem of society with enormous consequences for the ambitions and strategies in  the  area  of  public  healthcare,  employment,  participation  in  digitization,  egovernment, civic participation, poverty and social involvement and integration.
+In fact, low literacy is a problem of society with enormous consequences for the ambitions and strategies in the area of public healthcare, employment, participation in digitization, e-government, civic participation, poverty and social involvement and integration.
 
 ## Objective 5: Gender equality
 
@@ -724,7 +762,7 @@ In the year 2000 state educational requirements (SER) were elaborated in respect
 
 In  the  year  2008  a  campaign  was  conducted  for  promotion  of  the  key competencies embedded  in  the  European  Reference  Framework  on  Key  Competences  passed  by  the European Parliament on 18 December 2006.
 
-National external assessment has  been  introduced in order to measure the results achieved according to the respective level of state  educational  requirements  for syllabi. Its  stage-bystage conducting has commenced since the school year 2006-2007 when it took place for the first  time  for  the  students  of  the  IV  grade  on  four  basic school  subjects,  namely, Bulgarian language and literature, Mathematics, Man and nature, Man and society. As of the school year 2009-2010 it is applied also for students in the VII grade on the following subjects of study: Bulgarian  language  and  literature,  Mathematics,  Cultural  Education  Area  Natural  Sciences and Ecology, Cultural Education Area Social Sciences, Civil Education and Religion; English language,  Spanish  language,  Italian  language,  German  language,  Russian  language  and French language (depending on the foreign language being learnt by the students). Traditionally,  for  more  than  ten  years  external  assessment  is  also  conducted  in  foreign languages for the students of VIII grade with intensive foreign language learning.
+National external assessment has been introduced in order to measure the results achieved according to the respective level of state educational requirements for syllabi. Its stage-by-stage conducting has commenced since the school year 2006-2007 when it took place for the first time for the students of the IV grade on four basic school subjects, namely, Bulgarian language and literature, Mathematics, Man and nature, Man and society. As of the school year 2009-2010 it is applied also for students in the VII grade on the following subjects of study: Bulgarian language and literature, Mathematics, Cultural Education Area Natural Sciences and Ecology, Cultural Education Area Social Sciences, Civil Education and Religion; English language, Spanish language, Italian language, German language, Russian language and French language (depending on the foreign language being learnt by the students). Traditionally, for more than ten years external assessment is also conducted in foreign languages for the students of VIII grade with intensive foreign language learning.
 
 In the school year 2008-2009 the first state matriculation exams based on the State Educational  Requirements  adopted  in  2000. The  state  matriculation  exams  measure  the achieved  results,  which  include  knowledge,  skills,  attitudes  or  competences,  from  the education in the relevant subject of study or cycle of subjects of study within the mandatory training at the secondary level, irrespective of the duration of the level and the planned hours of study for the respective subject of study or cycle of subjects of study. These are two, as one of them is in Bulgarian language and literature, and the second is determined by choice of the student  among  the  subjects  of  study:  "foreign  language",  "mathematics",  "physics  and astronomy", "biology and health education", "chemistry and environment protection", "history and civilization" and "geography and economy" and the cycle of subjects titled "philosophy" studied in the mandatory general education classes. Based on his/her own wish, the student may also pass state matriculation exams in selected by him/her subjects of study or cycle of subjects.
 
@@ -798,14 +836,14 @@ Relative share of the population at the age of 15 - 24 completed years, as per e
 
 Age groups | 15-19 | 20-24 | 15-24
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Year | 2001 | 2011 | Change in percentage points | 2001 | 2011 | Change in percenta ge points | 2001 | 2011 | Change in percent age points
+Year | 2001 | 2011 | Change in percentage points | 2001 | 2011 | Change in percentage points | 2001 | 2011 | Change in percentage points
 Without education | 2,11 | 2,94 | 0,83 | 1,48 | 3,04 | 1,56 | 1,78 | 2,99 | 1,21
 Out of which: never attended school | : | 1,23 | - | : | 1,53 | - | : | 1,40 | -
 Primary education | 12,81 | 7,40 | -5,41 | 5,90 | 4,15 | -1,75 | 9,24 | 5,56 | -3,67
 Basic education | 61,38 | 71,73 | 10,35 | 17,18 | 12,59 | -4,59 | 38,52 | 38,37 | -0,15
 Secondary education | 23,45 | 17,93 | -5,52 | 67,56 | 69,69 | 2,13 | 46,26 | 47,13 | 0,87
-Higher education (Bachelor and Master) Higher education | 0,00 | : | - | 7,50 | 10,53 | - | 3,88 | 5,94 | -
-(Bachelor) | : | N/A | - | 5,59 | N/A | - | 2,89 | N/A | -
+Higher education (Bachelor and Master) | 0,00 | : | - | 7,50 | 10,53 | - | 3,88 | 5,94 | -
+Higher education (Bachelor) | : | N/A | - | 5,59 | N/A | - | 2,89 | N/A | -
 Higher education (master) | 0,00 | N/A | - | 1,91 | N/A | - | 0,99 | N/A | -
 Higher education (PhD) | : | N/A | - | : | N/A | - | : | N/A | -
 Unspecified | 0,25 | N/A | - | 0,39 | N/A | - | 0,32 | N/A | -
@@ -939,13 +977,13 @@ VETRINO | 243 | 8 | 166 | 47 | 15 | 7 | -
 VALCHI DOL | 491 | 19 | 259 | 143 | 40 | 20 | 10
 DEVNYA | 582 | 17 | 381 | 126 | 34 | 15 | 9
 DOLNI CHIFLIK | 1384 | 24 | 546 | 428 | 225 | 74 | 87
-DALGOPOL | 854 | 424 | 207 | 143 | 26 | 25
-PROVADIA | 1306 | 29 69 | 720 | 285 | 146 | 37 | 49
+DALGOPOL | 854 | 29 | 424 | 207 | 143 | 26 | 25
+PROVADIA | 1306 | 69 | 720 | 285 | 146 | 37 | 49
 SUVOROVO | 385 | 8 | 222 | 95 | 41 | .. | ..
 VELIKO TARNOVO | 23350 | 2677 | 17918 | 1979 | 514 | 121 | 141
-VELIKO TARNOVO | 9429 | 1125 | 414 | 32
-GORNA ORYAHOVITSA | 2457 | 275 | 7797 1720 | 49 71 | 12 20 | 15
-ELENA | 488 | 27 | 283 | 356 118 | 32 | 4 | 24
+VELIKO TARNOVO | 9429 | 1125 | 7797 | 414 | 49 | 12 | 32
+GORNA ORYAHOVITSA | 2457 | 275 | 1720 | 356 | 71 | 20 | 15
+ELENA | 488 | 27 | 283 | 118 | 32 | 4 | 24
 ZLATARITSA | 221 | 12 | 128 | 53 | 23 | .. | ..
 LYASKOVETS | 700 | 70 | 537 | 68 | 20 | .. | ..
 PAVLIKENI | 1152 | 85 | 666 | 269 | 92 | 25 | 15
@@ -979,8 +1017,9 @@ KOZLODUY | 1186 | 87 | 796 | 179 | 75 | 30 | 19
 KRIVODOL | 403 | 11 | 212 | 121 | 32 | 11 | 16
 MEZDRA | 1086 | 63 | 849 | 126 | 21 | 6 | 21
 MIZIA | 363 | 16 | 257 | 69 | 17 | .. | ..
-ОРЯХОВО | 515 | 21 | 317 | 133 | 27 | 8 | 9 10
-ROMAN HAYREDIN | 328 203 | 15 7 | 202 135 | 77 46 | 14 12 | 10 .. | ..
+ОРЯХОВО | 515 | 21 | 317 | 133 | 27 | 8 | 9
+ROMAN | 328 | 15 | 202 | 77 | 14 | 10 | 10
+HAYREDIN | 203 | 7 | 135 | 46 | 12 | .. | ..
 GABROVO | 6369 | 600 | 4930 | 682 | 100 | 30 | 27
 GABROVO | 3700 | 342 | 3038 | 289 | 21 | .. | ..
 DRYANOVO | 443 | 47 | 311 | 57 | 20 | .. | ..
@@ -1005,12 +1044,12 @@ MOMCHILGRAD | 1086 | 119 | 691 | 228 | 23 | 14 | 11
 CHERNOOCHENE | 661 | 55 | 411 | 183 | 5 | .. | ..
 KYUSTENDIL | 6073 | 477 | 4256 | 978 | 199 | 93 | 70
 BOBOV DOL | 479 | 16 | 340 | 78 | 19 | 13 | 13
-BOBOSHEVO | 146 | 11 | 104 | .. | -
-DUPNITSA | 2070 | 170 | 1438 | 28 356 | 60 | .. 22 | 24
-209 | 17 | 148 | 31 | 10 | .. | -
-KOCHERINOVO | 2604 | 219 | 1803 | 402 | 96 | 52 | 32
-KYUSTENDIL | 58 | .. | 46 | 8 | .. | - | -
-NEVESTINO RILA | 111 | .. | 83 | 10 | .. | - | -
+BOBOSHEVO | 146 | 11 | 104 | 28 | .. | .. | -
+DUPNITSA | 2070 | 170 | 1438 | 356 | 60 | 22 | 24
+KOCHERINOVO | 209 | 17 | 148 | 31 | 10 | .. | -
+KYUSTENDIL | 2604 | 219 | 1803 | 402 | 96 | 52 | 32
+NEVESTINO | 58 | .. | 46 | 8 | .. | - | -
+RILA | 111 | .. | 83 | 10 | .. | - | -
 SAPAREVA BANYA | 383 | 27 | 288 | 58 | 7 | .. | ..
 TREKLYANO | 13 | - | 6 | 7 | - | - | -
 LOVECH | 6676 | 552 | 4166 | 1223 | 411 | 181 | 143
@@ -1055,13 +1094,14 @@ STRELTCHA | 260 | 17 | 165 | 35 | 33 | .. | ..
 PERNIK | 6260 | 416 | 4864 | 732 | 159 | 49 | 40
 BREZNIK | 280 | 7 | 208 | 47 | 12 | 4 | ..
 ZEMEN | 93 | .. | 66 | 20 | .. | - | ..
-KOVATCHEVSTI PERNIK | 45 4614 | .. 348 | 39 3650 | 4 491 | - 84 | .. 22 | - 19
+KOVATCHEVSTI | 45 | .. | 39 | 4 | - | .. | -
+PERNIK | 4614 | 348 | 3650 | 491 | 84 | 22 | 19
 RADOMIR | 1037 | 51 | 817 | 136 | 22 | 5 | 6
 TRAN | 191 | 6 | 84 | 34 | 40 | 18 | 9
 PLEVEN | 13949 | 1159 | 9353 | 2137 | 783 | 228 | 289
 BELENE | 557 | 46 | 375 | 87 | 33 | - | 16
-GULYANTSI DOLNA MITROPOLIYA | 498 | 24 | 310 | 98 | 45 | 9 | 12
-МИТРОПОЛИЯ | 916 | 35 | 517 | 243 | 82 | 16 | 23
+GULYANTSI | 498 | 24 | 310 | 98 | 45 | 9 | 12
+DOLNA MITROPOLIYA МИТРОПОЛИЯ | 916 | 35 | 517 | 243 | 82 | 16 | 23
 DOLNI DABNIK | 543 | 22 | 309 | 110 | 51 | 29 | 22
 ISKAR | 338 | 9 | 206 | 92 | 22 | 4 | 5
 KNEZHA | 733 | 51 | 486 | 106 | 57 | 24 | 9
@@ -1071,12 +1111,13 @@ PLEVEN | 7259 | 799 | 5265 | 726 | 256 | 90 | 123
 PORDIM | 299 | 9 | 180 | 75 | 19 | .. | 15
 CHERVEN BRYAG | 1504 | 83 | 924 | 324 | 112 | 28 | 33
 PLOVDIV | 45089 | 4585 | 30853 | 5458 | 2329 | 894 | 970
-3835 | 399 | 2737 | 436 | 79
-ASENOVGRAD BREZOVO | 333 | 10 | 177 | 61 | 105 48 | 79 20 | 17
+ASENOVGRAD | 3835 | 399 | 2737 | 436 | 105 | 79 | 79
+BREZOVO | 333 | 10 | 177 | 61 | 48 | 20 | 17
 KALOYANOVO | 587 | 22 | 359 | 121 | 46 | 16 | 23
 KARLOVO | 2974 | 178 | 1930 | 374 | 242 | 102 | 148
 KRICHIM | 559 | 35 | 300 | 93 | 100 | 17 | 14
-KUKLEN LAKI | 394 156 | 35 12 | 292 125 | 45 11 | .. .. | 6 - | .. ..
+KUKLEN | 394 | 35 | 292 | 45 | .. | 6 | ..
+LAKI | 156 | 12 | 125 | 11 | .. | - | ..
 
 [[END OF PAGE 43]]
 
@@ -1110,15 +1151,16 @@ DVE MOGILI | 527 | 28 | 285 | 125 | 53 | 12 | 24
 IVANOVO | 401 | 31 | 230 | 104 | 29 | .. | ..
 RUSSE | 11409 | 1352 | 8780 | 1048 | 130 | 54 | 45
 SLIVO POLE | 611 | 28 | 340 | 161 | 51 | 19 | 12
-TSENOVO | 223 | 11 | 127 | 60 | 17 | .. 171 | .. 195
-SILISTRA ALFATAR | 6677 133 | 606 4 | 3871 73 | 1299 27 | 535 15 | 11 | 3
+TSENOVO | 223 | 11 | 127 | 60 | 17 | .. | ..
+SILISTRA | 6677 | 606 | 3871 | 1299 | 535 | 171 | 195
+ALFATAR | 133 | 4 | 73 | 27 | 15 | 11 | 3
 GLAVINITSA | 573 | 54 | 246 | 187 | 61 | 16 | 9
 DULOVO | 1777 | 124 | 871 | 447 | 155 | 76 | 104
 KAYNARDZHA | 384 | 9 | 91 | 111 | 137 | 24 | 12
 SILISTRA | 2838 | 345 | 2012 | 339 | 81 | 22 | 39
 SITOVO | 242 | 16 | 114 | 53 | 27 | 10 | 22
-TUTRAKAN | 730 | 54 | 59 | 12 | 6
-SLIVEN | 11983 | 729 | 464 5901 | 135 2159 | 1489 | 823 | 882
+TUTRAKAN | 730 | 54 | 464 | 135 | 59 | 12 | 6
+SLIVEN | 11983 | 729 | 5901 | 2159 | 1489 | 823 | 882
 KOTEL | 1269 | 37 | 475 | 424 | 203 | 89 | 41
 NOVA ZAGORA | 2308 | 102 | 1014 | 510 | 384 | 174 | 124
 SLIVEN | 7547 | 547 | 4106 | 1130 | 774 | 471 | 519
@@ -1129,18 +1171,19 @@ BORINO | 217 | 14 | 171 | 32 | - | - | -
 DEVIN | 703 | 68 | 526 | 92 | .. | - | ..
 DOSPAT | 640 | 41 | 527 | 63 | .. | .. | ..
 ZLATOGRAD | 688 | 56 | 593 | 35 | - | .. | ..
-613 | 101 | .. | - | ..
-MADAN | 760 | 39 | 373 | 23 | .. | ..
-NEDELINO RUDOZEM | 434 569 | 32 60 | 443 | 60 | - | .. ..
-SMOLYAN | 2443 | 281 | 1900 | 174 | 51 | 18 | .. 19
+MADAN | 760 | 39 | 613 | 101 | .. | - | ..
+NEDELINO | 434 | 32 | 373 | 23 | .. | .. | ..
+RUDOZEM | 569 | 60 | 443 | 60 | - | .. | ..
+SMOLYAN | 2443 | 281 | 1900 | 174 | 51 | 18 | 19
 CHEPELARE | 402 | 49 | 311 | 37 | 5 | - | -
-882 | 9065 | 2051 | 676 | 183 | 178
-SOFIA-REGION | 13035 | ..
-ANTON BOZHURISHTE | 80 352 | 4 30 | 61 289 | 12 29 | .. .. | - - | ..
+SOFIA-REGION | 13035 | 882 | 9065 | 2051 | 676 | 183 | 178
+ANTON | 80 | 4 | 61 | 12 | .. | - | ..
+BOZHURISHTE | 352 | 30 | 289 | 29 | .. | - | ..
 BOTEVGRAD | 1831 | 188 | 1241 | 264 | 89 | 24 | 25
-GODECH | 248 | 13 | 198 | 33 | .. | - | .. ..
-GORNA MALINA | 316 | 17 | 247 | 32 | 13 | ..
-DOLNA BANYA DRAGOMAN | 295 208 | 15 10 | 161 170 | 77 24 | 28 .. | 4 .. | 10 -
+GODECH | 248 | 13 | 198 | 33 | .. | - | ..
+GORNA MALINA | 316 | 17 | 247 | 32 | 13 | .. | ..
+DOLNA BANYA | 295 | 15 | 161 | 77 | 28 | 4 | 10
+DRAGOMAN | 208 | 10 | 170 | 24 | .. | .. | -
 
 [[END OF PAGE 44]]
 
@@ -1183,27 +1226,29 @@ OPAKA | 424 | 26 | 275 | 107 | 13 | .. | ..
 POPOVO | 1411 | 85 | 858 | 343 | 79 | .. | ..
 TARGOVISHTE | 3252 | 229 | 2046 | 763 | 158 | 37 | 19
 HASKOVO | 13412 | 1087 | 8184 | 2528 | 984 | 302 | 327
-DIMITROVGRAD | 2799 | 201 | 1841 | 477 | 171 | 59 .. | 50 ..
-IVAYLOVGRAD | 352 | 20 | 255 | 62 | 9
+DIMITROVGRAD | 2799 | 201 | 1841 | 477 | 171 | 59 | 50
+IVAYLOVGRAD | 352 | 20 | 255 | 62 | 9 | .. | ..
 LYUBIMETS | 516 | 29 | 263 | 83 | 91 | 33 | 17
 MADZHAROVO | 76 | 5 | 50 | 12 | 3 | .. | ..
-MINERALNI BANI SVILENGRAD | 359 1307 | 30 137 | 235 807 | 80 180 | 8 137 | 6 16 | - 30
+MINERALNI BANI | 359 | 30 | 235 | 80 | 8 | 6 | -
+SVILENGRAD | 1307 | 137 | 807 | 180 | 137 | 16 | 30
 SIMEONOVGRAD | 551 | 11 | 247 | 113 | 82 | 42 | 56
 STAMBOLOVO | 351 | 9 | 165 | 134 | 27 | 7 | 9
 TOPOLOVGRAD | 513 | 29 | 298 | 138 | 36 | 6 | 6
 HARMANLI | 1445 | 93 | 777 | 339 | 151 | 46 | 39
 HASKOVO | 5143 | 523 | 3246 | 910 | 269 | 82 | 113
 SHUMEN | 11921 | 783 | 8080 | 2003 | 737 | 185 | 133
-VELIKI PRESLAV ПРЕСЛАВ | 786 | 36 | 545 | 144 | 48 | 6 | 7 7
-VENETS | 494 669 | 22 15 | 249 | 143 | 55 | 18 | 12
-VARBITSA | 823 | 276 | 231 | 116 104 | 19 | 25
-KAOLINOVO | 21 | 397 | 251 | 25
-KASPICHAN | 468 | 19 | 258 179 | 125 | 51 | 11 | 4 21
-NIKOLA KOZLEVO | 427 | 14 | 112 | 73 | 28
-NOVI PAZAR | 1011 | 60 14 | 650 | 170 | 93 | 22 | 16 3
-SMYADOVO | 355 | 197 | 101 | 31 | 9 | 3
-HITRINO SHUMEN | 333 | 10 | 202 | 85 641 | 29 | 4 | 35
-YAMBOL | 6555 7082 | 572 561 | 5127 4260 | 1214 | 137 535 | 43 224 | 288
+VELIKI PRESLAV ПРЕСЛАВ | 786 | 36 | 545 | 144 | 48 | 6 | 7
+VENETS | 494 | 22 | 249 | 143 | 55 | 18 | 7
+VARBITSA | 669 | 15 | 276 | 231 | 116 | 19 | 12
+KAOLINOVO | 823 | 21 | 397 | 251 | 104 | 25 | 25
+KASPICHAN | 468 | 19 | 258 | 125 | 51 | 11 | 4
+NIKOLA KOZLEVO | 427 | 14 | 179 | 112 | 73 | 28 | 21
+NOVI PAZAR | 1011 | 60 | 650 | 170 | 93 | 22 | 16
+SMYADOVO | 355 | 14 | 197 | 101 | 31 | 9 | 3
+HITRINO | 333 | 10 | 202 | 85 | 29 | 4 | 3
+SHUMEN | 6555 | 572 | 5127 | 641 | 137 | 43 | 35
+YAMBOL | 7082 | 561 | 4260 | 1214 | 535 | 224 | 288
 
 [[END OF PAGE 45]]
 
@@ -1224,58 +1269,58 @@ Source: NSI, Census 2011
 
 [[START OF PAGE 47]]
 
-#### Participation of the population at the age of 15 -24 completed years in formal education and informal learning per gender
+#### Participation of the population at the age of 15-24 completed years in formal education and informal learning per gender
 
 Year | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Participation in formal education and informal learning - total
-15 - 24 | 52.7 | 55.6 | 55.9 | 46.1 | 48.3 | 50.0 | 47.7 | 48.6 | 49.3 | 50.1
+15-24 | 52.7 | 55.6 | 55.9 | 46.1 | 48.3 | 50.0 | 47.7 | 48.6 | 49.3 | 50.1
 Male | 51.4 | 53.9 | 54.6 | 45.5 | 46.7 | 48.0 | 45.7 | 46.2 | 46.4 | 47.8
 Female | 54.1 | 57.3 | 57.1 | 46.8 | 49.9 | 52.0 | 49.7 | 51.2 | 52.3 | 52.4
 Out of whom - with basic and lower education
-15 - 24 | 64.9 | 68.2 | 68.6 | 57.8 | 61.2 | 62.2 | 59.0 | 62.3 | 63.2 | 61.3
+15-24 | 64.9 | 68.2 | 68.6 | 57.8 | 61.2 | 62.2 | 59.0 | 62.3 | 63.2 | 61.3
 Male | 65.6 | 68.5 | 69.5 | 57.5 | 61.7 | 63.6 | 60.4 | 62.9 | 64.8 | 62.9
 Female | 64.2 | 67.9 | 67.7 | 58.2 | 60.8 | 60.8 | 57.5 | 61.7 | 61.6 | 59.5
 Out of whom - with secondary education and college
-15 - 24 | 38.4 | 39.0 | 39.8 | 32.3 | 33.8 | 36.8 | 36.8 | 36.2 | 39.2 | 42.5
+15-24 | 38.4 | 39.0 | 39.8 | 32.3 | 33.8 | 36.8 | 36.8 | 36.2 | 39.2 | 42.5
 Male | 32.6 | 33.2 | 34.2 | 29.6 | 28.5 | 30.2 | 31.2 | 30.7 | 32.5 | 36.6
 Female | 44.3 | 45.1 | 45.6 | 35.1 | 39.1 | 43.8 | 43.3 | 42.4 | 46.6 | 48.9
 Out of whom - with higher education
-15 - 24 | 17.7 | 25.8 | 26.5 | 21.9 | 23.0 | 26.7 | 20.9 | 20.4 | 27.8 | 31.0
-Male | : | : | : | : | : | : | : | 34.8
-: Female : | 21.8 : | 23.3 | 28.5 | 19.5 : | 28.6 | 28.5
+15-24 | 17.7 | 25.8 | 26.5 | 21.9 | 23.0 | 26.7 | 20.9 | 20.4 | 27.8 | 31.0
+Male | : | : | : | : | : | : | : | : | : | 34.8
+Female | : | : | 21.8 | : | 23.3 | 28.5 | 19.5 | : | 28.6 | 28.5
 Participation in formal education - total
-15 - 24 | 52.3 | 55.3 | 55.7 | 51.9 | 54.2 | 55.3 | 53.8 | 54.1 | 54.8 | 55.5
+15-24 | 52.3 | 55.3 | 55.7 | 51.9 | 54.2 | 55.3 | 53.8 | 54.1 | 54.8 | 55.5
 Male | 50.8 | 53.7 | 54.5 | 51.4 | 52.2 | 53.0 | 51.5 | 51.3 | 51.3 | 52.4
 Female | 53.8 | 57.1 | 56.9 | 52.3 | 56.3 | 57.8 | 56.3 | 56.9 | 58.6 | 58.9
 Out of whom - with basic and lower education
-15 - 24 | 64.9 | 68.2 | 68.6 | 67.5 | 71.5 | 71.8 | 69.8 | 72.1 | 71.6 | 69.7
+15-24 | 64.9 | 68.2 | 68.6 | 67.5 | 71.5 | 71.8 | 69.8 | 72.1 | 71.6 | 69.7
 Male | 65.5 | 68.5 | 69.5 | 67.9 | 72.2 | 73.5 | 71.7 | 73.5 | 73.7 | 71.4
 Female | 64.2 | 67.9 | 67.6 | 67.0 | 70.9 | 69.9 | 67.8 | 70.7 | 69.5 | 67.9
 Out of whom with secondary education and college
-15 - 24 | 37.5 | 38.5 | 39.5 | 34.7 | 36.2 | 39.0 | 39.7 | 38.7 | 43.1 | 46.3
+15-24 | 37.5 | 38.5 | 39.5 | 34.7 | 36.2 | 39.0 | 39.7 | 38.7 | 43.1 | 46.3
 Male | 31.2 | 32.7 | 33.8 | 31.6 | 30.0 | 31.5 | 33.2 | 32.4 | 35.2 | 39.0
 Female | 43.8 | 44.7 | 45.2 | 38.0 | 42.7 | 47.0 | 47.3 | 45.9 | 52.2 | 54.5
 Out of whom - with higher education
-15 - 24 | : | 25.1 | 25.4 | 21.5 | 22.7 | 26.3 | 20.6 | 20.3 | 29.1 | 32.6
-Male : | : | : | : | : | : | : | : | 35.0
-Female : : 20.7 : : 27.7 19.7 : 29.7 31.0 Participation in informal learning - total
-15 - 24 | 2.6 | 1.2 | 0.6 | 1.0 | 0.8 | 1.4 | 1.2 | 1.3 | 0.9 | 1.1
-Male | 2.2 | 1.2 : | 0.8 : | 1.1 | 1.0 | 1.1 : | :
+15-24 | : | 25.1 | 25.4 | 21.5 | 22.7 | 26.3 | 20.6 | 20.3 | 29.1 | 32.6
+Male | : | : | : | : | : | : | : | : | : | 35.0
+Female | : | : | 20.7 | : | : | 27.7 | 19.7 | : | 29.7 | 31.0
+Participation in informal learning - total
+15-24 | 2.6 | 1.2 | 0.6 | 1.0 | 0.8 | 1.4 | 1.2 | 1.3 | 0.9 | 1.1
+Male | 2.2 | 1.2 | : | 0.8 | : | 1.1 | 1.0 | 1.1 | : | :
 Female | 2.9 | 1.2 | 0.8 | 1.2 | 1.1 | 1.6 | 1.4 | 1.5 | 1.2 | 1.3
 Out of whom - with basic and lower education
-15 - 24 | 2.4 | 1.0 : | 0.9 : | 1.2 | 1.1 | 1.4 | 1.0 :
-Male : Female | 3.2 | : : | : : | : : | : | : 1.5 : | : | : 1.6 : | : :
-of whom - with secondary education and college
-15 - 24 | 2.8 | : | Out | 1.0 : | 1.5 | 1.2 | 1.1 | 0.9 | 1.3
-Male Female : | 3.2 | : : | : | : | : | : | : | : | :
-: : 1.7 : : : :
-15 - 24
-Male | : | :
+15-24 | 2.4 | 1.0 | : | 0.9 | : | 1.2 | 1.1 | 1.4 | 1.0 | :
+Male | : | : | : | : | : | : | : | : | : | :
+Female | 3.2 | : | : | : | : | 1.5 | : | 1.6 | : | :
+Out of whom - with secondary education and college
+15-24 | 2.8 | : | : | 1.0 | : | 1.5 | 1.2 | 1.1 | 0.9 | 1.3
+Male | 3.2 | : | : | : | : | : | : | : | : | :
+Female | : | : | : | : | : | 1.7 | : | : | : | :
 Out of whom - with higher education
-: : : : : : : : : :
-: | : | : | : | : | : | :
-Female : | : | : | : | : | : | : | : | :
+15-24 | : | : | : | : | : | : | : | : | : | :
+Male | : | : | : | : | : | : | : | : | : | :
+Female | : | : | : | : | : | : | : | : | : | :
 
 [[END OF PAGE 47]]
 
@@ -1313,8 +1358,7 @@ female | 1,013,344 | 159,478 | 29.68 | 42,933 | 7.46 | 202,411 | 18.19
 Secondary education | 2,826,821 | 125,996 | 23.45 | 388,895 | 67.56 | 514,891 | 46.26
 male | 1,461,679 | 63,234 | 11.77 | 208,869 | 36.28 | 272,103 | 24.45
 female | 1,365,142 | 62,762 | 11.68 | 180,026 | 31.27 | 242,788 | 21.81
-Higher education (Bachelor
-and Master) | 1,050,534 | 8 | 0.00 | 43,197 | 7.50 | 43,205 | 3.88
+Higher education (Bachelor and Master) | 1,050,534 | 8 | 0.00 | 43,197 | 7.50 | 43,205 | 3.88
 male | 446,735 | 5 | 0.00 | 8,545 | 1.48 | 8,550 | 0.77
 female | 603,799 | 3 | 0.00 | 34,652 | 6.02 | 34,655 | 3.11
 Higher education (Bachelor) | 702,999 | : | : | 32,188 | 5.59 | 32,188 | 2.89
@@ -1326,9 +1370,8 @@ female | 221,247 | 3 | 0.00 | 9,186 | 1.60 | 9,189 | 0.83
 Higher education (PhD) | 13,864 | : | : | : | : | : | :
 male | 8,727 | : | : | : | : | : | :
 female | 5,137 | : | : | : | : | : | :
-Unspecified | 496,493 | 1,318 | 0.32
-male | 0.25 | 2,225 | 0.39 | 3,543 | 0.14
-253,430 | 589 | 0.11 | 949 | 0.16 | 1,538
+Unspecified | 496,493 | 1,318 | 0.25 | 2,225 | 0.39 | 3,543 | 0.32
+male | 253,430 | 589 | 0.11 | 949 | 0.16 | 1,538 | 0.14
 female | 243,063 | 729 | 0.14 | 1,276 | 0.22 | 2,005 | 0.18
 
 [[END OF PAGE 48]]
