@@ -10,28 +10,33 @@ ACT 6
 
 COMMONWEALTH OF DOMINICA
 
-Act NO. 6 OF  2002
+Act NO. 6 OF 2002
 
-I  assent
+I assent
 
-VERNON L. SHAW President.
+VERNON L. SHAW
+President.
 
-9 th  May, 2002.
+9th May, 2002.
 
-# AN ACT TO AMEND THE EDUCATION ACT (NO. 11 OF  1997).
+# AN ACT TO AMEND THE EDUCATION ACT (NO. 11 OF 1997).
 
-(Gazetted 16 th  May, 2002.)
+(Gazetted 16th May, 2002.)
 
 BE IT ENACTED by the Parliament of the Commonwealth of Dominica as follows:
 
-## 1 .
-This Act may be cited as the -
+Short title.
 
-- Short  title.
+## 1.
+This Act may be cited as the –
 
 EDUCATION (AMENDMENT) ACT 2002.
 
-- In this Act the Education Act is referred to as 'the Act'. Interpretation. 11  of  1997.
+Interpretation.
+11 of 1997.
+
+## 2.
+In this Act the Education Act is referred to as “the Act”.
 
 LS
 
@@ -47,37 +52,40 @@ EDUCATION (AMENDMENT)
 
 ACT 6
 
-Amendment  of section  2  of  the  Act.
+Amendment of section 2 of the Act.
 
-Amendment  of section  9  of  the  Act.
+## 3.
+Section 2 of the Act is amended -
 
-Amendment  of section  72  of  the Act.
+(a) by repealing the definition of “pre-primary education” and substituting the following definition:
 
-- Section 2 of the Act is amended -
+“early childhood education” means education and care suited to the requirements of children under five years of age provided either within a primary school or in an Early Childhood Education Facility specially designed for that purpose;
 
-(a) by  repealing  the  definition  of  'pre-primary  education' and substituting  the  following  definition:
+(b) by repealing the definition of “pre-primary school” and substituting the following definition:
 
-'early childhood education' means education and  care  suited  to  the  requirements  of children under five years of age provided either  within  a  primary  school  or  in  an  Early Childhood  Education  Facility  specially designed for that purpose;
+“Early Childhood Education Facility” means a school, Day Care Centre, Crèche or other similar institution that provides early childhood education;
 
-(b) by  repealing  the  definition  of  'pre-primary  school'  and substituting  the  following  definition:
+(c) by deleting the words “during that same school year” in the definition of “primary student” and substituting the words “by December 31 of that same year”;
 
-'Early Childhood Education Facility' means a school, Day Care Centre, Crèche or other similar  institution  that  provides  early childhood education;
+(d) by deleting the word “pre-primary” in the definition of “school” and substituting the words “early childhood education facility”.
 
-(c) by deleting the words 'during that same school year' in  the  definition  of  'primary  student' and  substituting the words 'by December 31 of that same year';
+Amendment of section 9 of the Act.
 
-(d) by deleting  the  word  'pre-primary'  in  the  definition  of 'school' and  substituting  the  words  'early  childhood education facility'.
+## 4.
+Section 9 of the Act is amended in subsection (2) by -
 
-- Section 9 of the Act is amended in subsection (2) by -
+(a) repealing paragraph (a) and substituting the following:
 
-(a) repealing  paragraph (a) and  substituting  the  following:
+“(a) the President of the Dominica State College or his representative;”.
 
-' (a) the President of the Dominica State College or his representative;'.
+(b) repealing paragraph (f) and substituting the following:
 
-(b) repealing  paragraph (f) and  substituting  the  following:
+“(f) two representatives nominated by the Dominica Christian Council and two representatives nominated by the Dominica Evangelical Association.
 
-' (f) two representatives nominated by the Dominica Christian  Council  and  two  representatives nominated  by  the  Dominica  Evangelical Association.
+Amendment of section 72 of the Act.
 
-- Section 72 of the Act is amended -
+## 5.
+Section 72 of the Act is amended -
 
 [[END OF PAGE 2]]
 
@@ -91,35 +99,35 @@ ACT 6
 
 221
 
-(a) in subsection (3), by deleting the words 'subsection (1) (b) '  and  substituting  the  words  'subsection  (1) (a) ';
+(a) in subsection (3), by deleting the words “subsection (1)(b)” and substituting the words “subsection (1)(a)”;
 
 (b) by inserting the following as subsection (4) -
 
-'(4) Notwithstanding subsection (2), where the Minister is satisfied that it is in the general interest of the schools to which this section applies, that the membership of a Board of Management appointed under subsection (1) should exceed fifteen members he may, by Order published in the Gazette , prescribe the number of persons who may be appointed to that Board of Management and the membership of that Board of Management shall not exceed the number so prescribed.'.
+“(4) Notwithstanding subsection (2), where the Minister is satisfied that it is in the general interest of the schools to which this section applies, that the membership of a Board of Management appointed under subsection (1) should exceed fifteen members he may, by Order published in the Gazette, prescribe the number of persons who may be appointed to that Board of Management and the membership of that Board of Management shall not exceed the number so prescribed.”.
+
+Amendment of section 73 of the Act.
 
 ## 6.
 Subsection (2) of section 73 of the Act is hereby repealed.
 
-## 7 .
-Section 74 of the Act is amended in subsection (2) (a) by deleting the words 'pre-primary education' and substituting the words 'early childhood education'.
+Amendment of section 74 of the Act.
+
+## 7.
+Section 74 of the Act is amended in subsection (2)(a) by deleting the words “pre-primary education” and substituting the words “early childhood education”.
+
+Amendment of the Heading of Division B of Part IV of the Act.
 
 ## 8.
-The  heading  of  Division  B  of  Part  IV  of  the  Act  is amended by deleting  the  words  'PRE-PRIMARY'  and  substituting the  words 'EARLY CHILDHOOD'.
+The heading of Division B of Part IV of the Act is amended by deleting the words “PRE-PRIMARY” and substituting the words “EARLY CHILDHOOD”.
 
-## 9 .
+Amendment of section 75 of the Act.
+
+## 9.
 Section 75 of the Act is amended -
 
-(a) in  subsection  (1),  by  deleting  the  words  'a  PrePrimary Services Programme suitable to the needs of children three years of age or older but under five years of age' and substituting the words 'an Early Childhood Education Services Programme suitable to the needs of children under five years of age';
+(a) in subsection (1), by deleting the words “a Pre-Primary Services Programme suitable to the needs of children three years of age or older but under five years of age” and substituting the words “an Early Childhood Education Services Programme suitable to the needs of children under five years of age”;
 
-(b) in  subsection  (2),  by  deleting  the  words  'pre-primary services'  and  substituting  the  words  'early  childhood education services'.
-
-Amendment  of section  73  of  the Act.
-
-Amendment  of section  74  of  the Act.
-
-Amendment  of  the Heading  of  Division B  of  Part  IV  of  the Act.
-
-Amendment  of section  75  of  the Act.
+(b) in subsection (2), by deleting the words “pre-primary services” and substituting the words “early childhood education services”.
 
 [[END OF PAGE 3]]
 
@@ -133,42 +141,42 @@ EDUCATION (AMENDMENT)
 
 ACT 6
 
-Amendment  of section  76  of  the Act.
+Amendment of section 76 of the Act.
 
-Amendment  of section  77  of  the Act.
+## 10.
+Section 76 of the Act is amended by deleting the words “pre-primary education services” wherever they appear in the section and substituting the words “early childhood education services”;
 
-Amendment  of section  78  of  the Act.
+Amendment of section 77 of the Act.
 
-Amendment  of section  89  of  the Act.
-
-Amendment  of section  91  of  the Act.
-
-## 10 .
-Section 76 of the Act is amended by deleting the words 'pre-primary education services' wherever they appear in the section and substituting the words 'early childhood education services';
-
-## 11 .
+## 11.
 Section 77 of the Act is amended -
 
-(a) in subsection (1), by deleting the words 'Council on Pre-Primary Education' and substituting the words 'Council on Early Childhood Education';
+(a) in subsection (1), by deleting the words “Council on Pre-Primary Education” and substituting the words “Council on Early Childhood Education”;
 
-(b) in subsection (2), by deleting the words 'Council on Pre-Primary Education' and substituting the words 'Council on Early Childhood Education';
+(b) in subsection (2), by deleting the words “Council on Pre-Primary Education” and substituting the words “Council on Early Childhood Education”;
+
+Amendment of section 78 of the Act.
 
 ## 12.
-Section 78 (2) is amended in paragraphs (a) , (b) , (d) and (e) , by deleting the words 'pre-primary education services' and substituting the words 'early childhood education services'.
+Section 78 (2) is amended in paragraphs(a), (b), (d) and (e), by deleting the words “pre-primary education services” and substituting the words “early childhood education services”.
+
+Amendment of section 89 of the Act.
 
 ## 13.
-Section 89 of the Act is amended in paragraph (a) by deleting  the  words  'pre-primary  educational  services'  and substituting the words 'early childhood education services'.
+Section 89 of the Act is amended in paragraph (a) by deleting the words “pre-primary educational services” and substituting the words “early childhood education services”.
+
+Amendment of section 91 of the Act.
 
 ## 14.
 Section 91 of the Act is amended -
 
 (a) by renumbering the existing provision as subsection (1);
 
-(b) by  deleting  the  word  'A'  appearing  at  the commencement of the newly numbered subsection (1)  and  substituting  the  words  'Subject  to  section  93, a';
+(b) by deleting the word “A” appearing at the commencement of the newly numbered subsection (1) and substituting the words “Subject to section 93, a”;
 
 (c) by inserting the following as subsection (2) -
 
-'(2) A person who contravenes subsection (1) is  guilty  of  an  offence  and  liable  on  summary conviction to a fine of one thousand dollars and six months imprisonment, and, in the case of  a continuing offence is liable to a further fine of two hundred dollars for each day during which the  offence  continues  after  the  first  conviction.'.
+“(2) A person who contravenes subsection (1) is guilty of an offence and liable on summary conviction to a fine of one thousand dollars and
 
 [[END OF PAGE 4]]
 
@@ -182,13 +190,22 @@ ACT 6
 
 223
 
+six months imprisonment, and, in the case of a
+continuing offence is liable to a further fine of
+two hundred dollars for each day during which
+the offence continues after the first conviction.”.
+
+Amendment of section 100 of the Act.
+
 ## 15.
-Section 100 of the Act is amended in paragraph (e) by deleting  the  words  'sections  98  and  99'  and  substituting  the  words 'sections 96, 98 and 99''.
+Section 100 of the Act is amended in paragraph (e) by deleting the words “sections 98 and 99” and substituting the words “sections 96, 98 and 99””.
+
+Commencement.
 
 ## 16.
-The amendment made to section 9 of the Act by paragraph (a) of section 4 of this Act shall come into effect on the date of establishment of the Dominica State College.'.
+The amendment made to section 9 of the Act by paragraph (a) of section 4 of this Act shall come into effect on the date of establishment of the Dominica State College.”.
 
-Passed in the House of Assembly this17 th day of April, 2002.
+Passed in the House of Assembly this17th day of April, 2002.
 
 ALEX F. PHILLIP (MRS.)
 
@@ -199,9 +216,5 @@ DOMINICA
 Printed by the Government Printer at the Government Printery, Roseau
 
 (Price $1.00).
-
-Amendment  of section  100  of  the Act.
-
-Commencement.
 
 [[END OF PAGE 5]]
