@@ -36,13 +36,23 @@ La Presidenta del honorable Senado de la República,
 
 Claudia Blum de Barberi.
 
-El Secretario General del honorable Senado de la República, Emilio Ramón Otero Dajud. El Presidente de la honorable Cámara de Representantes, Julio E. Gallardo Archbold. El Secretario General de la honorable Cámara de Representantes, Angelino Lizcano Rivera.
+El Secretario General del honorable Senado de la República,
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-## REPUBLICA DE COLOMBIA - GOBIERNO NACIONAL
+Emilio Ramón Otero Dajud.
+
+El Presidente de la honorable Cámara de Representantes,
+
+Julio E. Gallardo Archbold.
+
+El Secretario General de la honorable Cámara de Representantes,
+
+Angelino Lizcano Rivera.
+
+## REPUBLICA DE COLOMBIA – GOBIERNO NACIONAL
 
 Publíquese y cúmplase. Dada en Bogotá, D. C., a 4 de agosto de 2006.
 
