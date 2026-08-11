@@ -34,7 +34,7 @@ Promulghiamo  e  mandiamo  a  pubblicare  la  seguente  legge  ordinaria  approv
 
 [[START OF PAGE 2]]
 
-- a organizza le attività didattiche e di ricerca anche in relazione alle attività sociali, professionali, produttive, con particolare attenzione a quelle esistenti nella Repubblica di San Marino;
+- a) organizza le attività didattiche e di ricerca anche in relazione alle attività sociali, professionali, produttive, con particolare attenzione a quelle esistenti nella Repubblica di San Marino;
 
 - promuove la diffusione della cultura scientifica;
 
@@ -54,7 +54,7 @@ Promulghiamo  e  mandiamo  a  pubblicare  la  seguente  legge  ordinaria  approv
 
 - L'Università considera l'internazionalizzazione delle proprie attività di ricerca e di didattica obiettivo strategico di sviluppo e strumento di valorizzazione del proprio ruolo nei rapporti con gli altri Paesi.
 
-- L'Università si identifica nella comunità di studenti, docenti, ricercatori e personale tecnicoamministrativo.  Ogni  sua  componente  concorre,  con  pari  dignità,  nell'esercizio  delle  rispettive funzioni e nel rispetto dei propri ruoli e doveri, al perseguimento dei fini istituzionali dell'Ateneo.
+- L'Università si identifica nella comunità di studenti, docenti, ricercatori e personale tecnico-amministrativo. Ogni sua componente concorre, con pari dignità, nell'esercizio delle rispettive funzioni e nel rispetto dei propri ruoli e doveri, al perseguimento dei fini istituzionali dell'Ateneo.
 
 - L'Università  è  disciplinata  dalla  presente  legge  e  dalle  leggi  e  decreti  che  vi  fanno riferimento, dallo Statuto, dal Codice etico e dai Regolamenti di funzionamento ai quali si rimanda per tutto quanto non contemplato dalla presente legge.
 
@@ -220,7 +220,7 @@ Promulghiamo  e  mandiamo  a  pubblicare  la  seguente  legge  ordinaria  approv
 
 - un rappresentante dei professori nominato dal Senato Accademico.
 
-- Alle  sedute  del  Consiglio  dell'Università  partecipano  senza  diritto  di  voto  il  Direttore Generale, un rappresentante degli studenti e un rappresentante del personale tecnicoamministrativo.
+- Alle sedute del Consiglio dell'Università partecipano senza diritto di voto il Direttore Generale, un rappresentante degli studenti e un rappresentante del personale tecnico-amministrativo.
 
 - I componenti del Consiglio dell'Università di cui alla lettera c), sono scelti tra personalità di cultura  di  chiara  fama  e  competenza.  Rimangono in carica per l'intera  durata  della  legislatura  e possono essere riconfermati una sola volta.
 
@@ -282,7 +282,7 @@ Promulghiamo  e  mandiamo  a  pubblicare  la  seguente  legge  ordinaria  approv
 
 ##### (Il Direttore del Dipartimento)
 
-- Il Direttore del Dipartimento ha responsabilità per la gestione e la promozione delle attività scientifiche  e  didattiche  del  Dipartimento  e  lo  rappresenta  in  tutti  i  suoi  aspetti  scientificoaccademici.
+- Il Direttore del Dipartimento ha responsabilità per la gestione e la promozione delle attività scientifiche e didattiche del Dipartimento e lo rappresenta in tutti i suoi aspetti scientifico-accademici.
 
 - È  garante  della  legalità  e  dell'eticità  della  conduzione  trasparente  di  tutte  le  attività  del Dipartimento e assume le decisioni rilevanti del Dipartimento in maniera collegiale.
 
@@ -494,7 +494,11 @@ Promulghiamo  e  mandiamo  a  pubblicare  la  seguente  legge  ordinaria  approv
 
 ##### (Collegio dei sindaci revisori)
 
-- Il Collegio dei sindaci revisori è l'organo cui spetta il controllo sulla regolarità amministrativa, finanziaria, contabile e patrimoniale. Esso esercita la funzione di garantire lo Stato negli atti comportanti spesa e la loro rispondenza alle finalità dell'Università. 2. Il  Collegio dei sindaci revisori è composto di tre membri designati dal Consiglio Grande e Generale,  con  nomina  a  maggioranza  qualificata  di  2/3  per  la  prima  votazione  e  a  maggioranza semplice per le votazioni successive. I Sindaci Revisori sono selezionati fra gli iscritti all'Albo dei Revisori Contabili; il Collegio designa fra i suoi membri il proprio Presidente. Il  Collegio dei sindaci revisori dura in carica per tre anni e i suoi membri possono essere
+- Il Collegio dei sindaci revisori è l'organo cui spetta il controllo sulla regolarità amministrativa, finanziaria, contabile e patrimoniale. Esso esercita la funzione di garantire lo Stato negli atti comportanti spesa e la loro rispondenza alle finalità dell'Università.
+
+- Il Collegio dei sindaci revisori è composto di tre membri designati dal Consiglio Grande e Generale, con nomina a maggioranza qualificata di 2/3 per la prima votazione e a maggioranza semplice per le votazioni successive. I Sindaci Revisori sono selezionati fra gli iscritti all'Albo dei Revisori Contabili; il Collegio designa fra i suoi membri il proprio Presidente.
+
+- Il Collegio dei sindaci revisori dura in carica per tre anni e i suoi membri possono essere riconfermati una sola volta.
 
 #### Art.29
 
@@ -521,8 +525,6 @@ Promulghiamo  e  mandiamo  a  pubblicare  la  seguente  legge  ordinaria  approv
 - il Direttore generale;
 
 - i Coordinatori di Dipartimento.
-
-- riconfermati una sola volta.
 
 [[END OF PAGE 10]]
 
@@ -694,7 +696,9 @@ Gian Carlo Venturini
 
 [[START OF PAGE 15]]
 
-- L'Università  cura  la  conservazione,  lo  sviluppo,  la  valorizzazione  e  la  gestione  del  suo patrimonio bibliografico,  documentario e archivistico;  favorisce  l'accesso  alle  risorse  informative  on line,  in  particolare,  attraverso  il  sistema  bibliotecario  di  Ateneo  ed  i  servizi  che  assicurano  il
+su proposta del Rettore.
+
+- L'Università cura la conservazione, lo sviluppo, la valorizzazione e la gestione del suo patrimonio bibliografico, documentario e archivistico; favorisce l'accesso alle risorse informative on line, in particolare, attraverso il sistema bibliotecario di Ateneo ed i servizi che assicurano il trasferimento delle conoscenze.
 
 ### Art. 2
 
@@ -737,8 +741,6 @@ Gian Carlo Venturini
 ### Art. 4
 
 #### (Funzioni del Rettore)
-
-su proposta del Rettore. trasferimento delle conoscenze.
 
 - Il Rettore:
 
@@ -864,13 +866,13 @@ su proposta del Rettore. trasferimento delle conoscenze.
 
 - Dipartimento di Scienze Umane: il DSU promuove e coordina l'attività di didattica e di ricerca nel campo  della  formazione  e  della  comunicazione.  Confluiscono  nel  DSU  le  attività  dei  precedenti Dipartimento della Formazione e Dipartimento della Comunicazione. In particolare al  DSU afferiscono:
 
-- Centro per lo Studio e la Ricerca Applicata sulla Dislessia;
+- i) Centro per lo Studio e la Ricerca Applicata sulla Dislessia;
 
 - ii) Centro Studi sulla Memoria.
 
 - Dipartimento di storia, cultura e storia sammarinesi: il DSS promuove e coordina l'attività didattica e  di  ricerca  nella  storia,  e  nella  cultura  e  storia  della  tradizione  sammarinese.  In  particolare  al  DSS afferiscono:
 
-- Scuola Superiore di Studi Storici (SSSS);
+- i) Scuola Superiore di Studi Storici (SSSS);
 
 - ii) Centro Sammarinese di Studi Storici;
 
@@ -882,7 +884,7 @@ su proposta del Rettore. trasferimento delle conoscenze.
 
 #### (Funzioni del Direttore di Dipartimento)
 
-- II Direttore rappresenta il Dipartimento nei suoi aspetti scientifico/accademici.
+- Il Direttore rappresenta il Dipartimento nei suoi aspetti scientifico/accademici.
 
 - Il Direttore:
 
@@ -1246,6 +1248,8 @@ doppia linea circolare esterna e una linea singola interna.
 
 [[START OF PAGE 25]]
 
+# ALLEGATO B
+
 ## CODICE ETICO
 
 ### Titolo I Diritti e doveri fondamentali
@@ -1277,8 +1281,6 @@ doppia linea circolare esterna e una linea singola interna.
 - L'Università  ritiene  essenziali,  ai  fini  del  conseguimento  delle  proprie  finalità  istituzionali,  il rispetto dei valori di onestà intellettuale, rispetto reciproco e probità.
 
 - Altresì,  tutti  gli  appartenenti  alla  comunità  universitaria  sono  tenuti  a  uniformarsi,  nel  loro agire, alle norme vigenti e a criteri di lealtà e imparzialità nei confronti dell'istituzione universitaria, nel suo complesso, e di ogni suo singolo componente.
-
-# ALLEGATO B
 
 [[END OF PAGE 25]]
 
@@ -1324,11 +1326,11 @@ doppia linea circolare esterna e una linea singola interna.
 
 [[START OF PAGE 27]]
 
-- Altresì,  si  considera  nepotismo  ogni  pratica  di  favoritismo,  posta  in  essere  da  un  docente  a vantaggio  di  un  collaboratore,  che  si  traduca  in  condotte  arbitrarie  e  contrarie  al  buon  nome
+universitaria di figli, familiari, affini o conviventi.
 
-- Fatta  salva  la  normativa  vigente,  l'Università  condanna  e  persegue  ogni  forma  di  familismo, nepotismo  e  favoritismo,  pertanto,  prescrive  ai  professori,  ai  ricercatori  e  a  ogni  altro  componente
+- Altresì,  si  considera  nepotismo  ogni  pratica  di  favoritismo,  posta  in  essere  da  un  docente  a vantaggio  di  un  collaboratore,  che  si  traduca  in  condotte  arbitrarie  e  contrarie  al  buon  nome dell'Ateneo, ai valori d'imparzialità e all'interesse di altri candidati più meritevoli.
 
-universitaria di figli, familiari, affini o conviventi. dell'Ateneo, ai valori d'imparzialità e all'interesse di altri candidati più meritevoli. della comunità universitaria di astenersi da qualsivoglia condotta di tal genere.
+- Fatta  salva  la  normativa  vigente,  l'Università  condanna  e  persegue  ogni  forma  di  familismo, nepotismo  e  favoritismo,  pertanto,  prescrive  ai  professori,  ai  ricercatori  e  a  ogni  altro  componente della comunità universitaria di astenersi da qualsivoglia condotta di tal genere.
 
 #### Articolo 8
 
@@ -1430,8 +1432,8 @@ facendone un uso conforme ai doveri d'ufficio e consentendone l'accesso solo a c
 
 ##### Osservanza e violazione del codice etico
 
-- È dovere dei professori, dei ricercatori, del personale dirigente, tecnico amministrativo, degli studenti e di ogni altro componente della comunità dell'Ateneo, prendere visione del presente Codice e conformarsi agli standard di condotta che vi sono dettati e a quelli ricavabili dalle prassi interpretative. Fatte salve le norme civili, penali e amministrative, la violazione delle disposizioni del presente
+- È dovere dei professori, dei ricercatori, del personale dirigente, tecnico amministrativo, degli studenti e di ogni altro componente della comunità dell'Ateneo, prendere visione del presente Codice e conformarsi agli standard di condotta che vi sono dettati e a quelli ricavabili dalle prassi interpretative.
 
-- Codice è fonte di responsabilità disciplinare.
+- Fatte salve le norme civili, penali e amministrative, la violazione delle disposizioni del presente Codice è fonte di responsabilità disciplinare.
 
 [[END OF PAGE 29]]
