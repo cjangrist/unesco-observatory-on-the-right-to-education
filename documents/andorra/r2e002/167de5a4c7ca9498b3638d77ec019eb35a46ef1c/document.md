@@ -26,7 +26,7 @@ Elaboració d'estadístiques
 
 ### Article 46 Legalització dels llibres
 
-1. Els col·legis i les associacions professionals han de portar un llibre de col· legiats i associats, un llibre d'actes, un llibre d'inventari dels béns i un llibre de comptabilitat.
+1. Els col·legis i les associacions professionals han de portar un llibre de col·legiats i associats, un llibre d'actes, un llibre d'inventari dels béns i un llibre de comptabilitat.
 
 2. Els llibres que han de portar els col·legis i les associacions professionals han de ser legalitzats pel responsable del Registre.
 
@@ -40,7 +40,7 @@ professional, el número de registre, el tipus de llibre de què es tracta i el 
 
 ### Disposició transitòria
 
-Els actes inscrits i els documents i les dades continguts al llibre principal i a l'arxiu annex del Registre de Professionals Liberals, Col·legis i Associacions Professionals, creat a l'empara de la Llei 6/2008, del 15 de maig, d'exercici de professions liberals i de col·legis i associacions professionals i desenvolupat pel Decret del 29-02-2010 d'aprovació del Reglament del Registre de Professionals Liberals, Col· legis i Associacions Professionals, s'inscriuen i s'incorporen d'ofici, respectivament, al Registre de Professionals Titulats, Col· legis i Associacions Professionals, amb efectes a partir de la data de l'entrada en vigor d'aquest Reglament.
+Els actes inscrits i els documents i les dades continguts al llibre principal i a l'arxiu annex del Registre de Professionals Liberals, Col·legis i Associacions Professionals, creat a l'empara de la Llei 6/2008, del 15 de maig, d'exercici de professions liberals i de col·legis i associacions professionals i desenvolupat pel Decret del 29-02-2010 d'aprovació del Reglament del Registre de Professionals Liberals, Col·legis i Associacions Professionals, s'inscriuen i s'incorporen d'ofici, respectivament, al Registre de Professionals Titulats, Col·legis i Associacions Professionals, amb efectes a partir de la data de l'entrada en vigor d'aquest Reglament.
 
 ### Disposició derogatòria
 
@@ -64,7 +64,7 @@ El dret de tota persona a l'educació és un dret que la Constitució d'Andorra 
 
 La nova Llei dóna resposta a la necessitat d'adequar el sistema d'ajuts a l'estructura de l'Espai Europeu d'Ensenyament Superior, crea el sistema d'ajuts al segon cicle universitari i autoritza el Govern a desenvolupar-ne l'aplicació per via reglamentària.
 
-Aquest Reglament, a partir d'uns principis generals comuns, concreta els procediments i els criteris específics que El text ordena el conjunt de criteris socioeconòmics, patrimonials i acadèmics, així com els premis nacionals a l'estudi, les beques fora de termini i la compatibilitat amb altres ajuts. També estableix les comprovacions i els processos de verificació de dades i, finalment, annexa el barem de puntuació per a la valoració de béns patrimonials.
+Aquest Reglament, a partir d'uns principis generals comuns, concreta els procediments i els criteris específics que regulen l'atorgament d'ajuts a l'estudi. El text ordena el conjunt de criteris socioeconòmics, patrimonials i acadèmics, així com els premis nacionals a l'estudi, les beques fora de termini i la compatibilitat amb altres ajuts. També estableix les comprovacions i els processos de verificació de dades i, finalment, annexa el barem de puntuació per a la valoració de béns patrimonials.
 
 A proposta de la ministra d'Educació i Joventut, el Govern, en la sessió del 13 d'agost del 2014,
 
@@ -102,7 +102,7 @@ Residència a Andorra i situació familiar de la persona sol·licitant
 
 1. A l'efecte de la normativa reguladora del sistema d'ajuts a l'estudi, es considera que una persona està legalment establerta a Andorra quan ella o un dels seus pares o tutors o ambdós, si és menor d'edat, resideix al Principat d'Andorra de manera permanent i efectiva.
 
-2 Pel que fa als ajuts a l'estudi de l'ensenyament superior, el període mínim de residència efectiva requerida per poder obtenir un ajut és de tres anys consecutius just abans de la sol·licitud.
+2. Pel que fa als ajuts a l'estudi de l'ensenyament superior, el període mínim de residència efectiva requerida per poder obtenir un ajut és de tres anys consecutius just abans de la sol·licitud.
 
 ### Article 3
 
@@ -250,9 +250,9 @@ Els ministeris andorrans encarregats de l'educació i de la salut i el benestar 
 
 3. Les despeses suplementàries que es puguin derivar en l'àmbit educatiu de la discapacitat de cada persona són acumulables amb les ajudes i les beques establertes en aquest Reglament, sempre que hagin estat declarades legalment per la Conava com a persones amb discapacitat.
 
-Determinació de l'import de la beca
+### Article 13
 
-### Article 13 de material
+Determinació de l'import de la beca de material
 
 La beca de material té un import màxim fix per a cada nivell educatiu i es determina per a cada curs en la convocatòria anual dels ajuts a l'estudi.
 
@@ -408,7 +408,7 @@ Els estudiants proposats han d'haver obtingut, de mitjana ponderada en tot el ba
 
 2. Una vegada rebudes les propostes, el ministeri les analitza i les avalua i, per a un millor coneixement de les propostes rebudes, pot sol·licitar que se li ampliï la informació lliurada. Els responsables acadèmics ho han d'efectuar en un termini no superior a 10 dies hàbils des que rebin la sol·licitud.
 
-3 El ministeri competent en matèria educativa resol sobre l'atorgament dels premis nacionals a l'estudi, i els noms dels alumnes premiats es publiquen al Butlletí Oficial del Principat d'Andorra.
+3. El ministeri competent en matèria educativa resol sobre l'atorgament dels premis nacionals a l'estudi, i els noms dels alumnes premiats es publiquen al Butlletí Oficial del Principat d'Andorra.
 
 4. L'obtenció del Premi nacional a l'estudi comporta l'atorgament d'un ajut a l'estudi on s'integren els conceptes de beca de matrícula, beca de material, beca de desplaçament i beca de residència o de manutenció per cursar el cicle d'estudis següent d'ensenyament superior, és a dir, formació professional superior o primer cicle d'estudis universitaris, segons l'elecció de l'estudiant.
 
