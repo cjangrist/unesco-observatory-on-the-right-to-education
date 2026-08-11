@@ -42,9 +42,7 @@ The concepts and terms used in this law are defined as follows:
 
 - Institutions of Higher Education: Universities, Higher Institutes of Technology, Faculties, Graduate Schools, Schools of Higher Education, Conservatories, Vocational Schools and Research Centers.
 
-- A Higher Institute of Technology is an institution of higher education possessing academic autonomy and juristic personality, carrying out high-level research, education, production, publication, and con-
-
-- sultancy specifically in the areas of technology.
+- A Higher Institute of Technology is an institution of higher education possessing academic autonomy and juristic personality, carrying out high-level research, education, production, publication, and consultancy specifically in the areas of technology.
 
 - University: An institution of higher education possessing academic autonomy and juristic personality, conducting advanced-level education, scholarly research, publication and consultancy; it is composed of faculties, graduate schools, schools of higher education and similar institutions and units.
 
@@ -188,6 +186,9 @@ Higher education is organized, planned, and programmed in accordance with the fo
 
 Hacettepe University Self-Evaluation Report
 
+### PART THREE
+#### GOVERNING BODIES
+
 ##### The Council of Higher Education
 
 ###### Article 6
@@ -216,8 +217,7 @@ The Minister of National Education, when (s)he deems necessary, participates and
 
 The Executive Board is composed of nine members, including the President. Two Vice-Presidents are selected from among the members of the General Assembly as members of the Board, one by the President of the Board and the other by the General Assembly. The remaining members of the Board are selected by the General Assembly as follows: two members from among those specified in Article 6,
 
-### PART THREE
-#### GOVERNING BODIES
+
 
 80
 
@@ -235,7 +235,7 @@ The General Assembly may delegate to the Executive Board authority and responsib
 
 The quorum for meetings of the General Assembly is 14, while that for the Executive Board is 6. Decisions in both bodies are taken by majority of votes cast. In the event of a tie, the President's vote counts as two.
 
-- The salaries of the President and members of the Executive Board are determined by the Council of Ministers with the proviso that this amount is no more than two times the salary paid to the highestranking civil servant (including supplementary indicator, auxiliary payment, and compensation) in accordance with Law No. 657, the Civil Service Law. Members of the Executive Board receive no further salary from public institutions. Those receiving a retirement pension continue to receive that pension. Civil servants who serve as members of the Executive Board are considered to be on leave without pay from the institution at which they are employed and retain all of their accumulated rights as personnel.
+- The salaries of the President and members of the Executive Board are determined by the Council of Ministers with the proviso that this amount is no more than two times the salary paid to the highest-ranking civil servant (including supplementary indicator, auxiliary payment, and compensation) in accordance with Law No. 657, the Civil Service Law. Members of the Executive Board receive no further salary from public institutions. Those receiving a retirement pension continue to receive that pension. Civil servants who serve as members of the Executive Board are considered to be on leave without pay from the institution at which they are employed and retain all of their accumulated rights as personnel.
 
 The sum to be paid to members of the General Assembly other than Executive Board members as an honorarium for attendance at meetings shall be calculated by multiplying the monthly salary coefficient for civil servants by 4,000. However, a maximum of twelve such participation honoraria can be paid in one year.
 
@@ -326,7 +326,7 @@ Three members to be selected and nominated by the Council of Higher Education fr
 
 Two further members, one to be selected by the Chief of the General Staff and the other by the Ministry of National Education.
 
-The appointment of the members thus defined to the Higher Education Supervisory Board will be carried out according to current procedures. The Chairperson of the Higher Education Supervisory Board is appointed from among board members by the President of the Council of Higher Education. The term of the member selected by the Chief of the General Staff is two years; that of the other members is six years. The member selected by the Chief of the General Staff will be assumed to be on unpaid leave but all his/her other rights arising from personnel legislation are reserved. All other members' relations with their institutions are discontinued. The age limit (for retirement) of board members is the same as that of teaching staff members. One third of the members are renewed every two years, with the exception of the member selected by the Chief of the General Staff. Members whose term expires can be re-elected. Upon termination (irrespective of reason) of membership before the completion of the normal term, a new member with the same status is selected to complete the remaining term. The salaries of the board members are fixed by the Council of Ministers so as not to exceed those of the members of the Council of Higher Education. Retired persons selected continue to receive their pensions. The members of the Higher Education Supervisory Board are not allowed to work for any public or private organization, with or without pay, except in the case of exceptional temporary duties assigned by the Council of Ministers and by the Council of Higher Education. Any member who is absent from duty for a period of three months within a year for any reason other than temporary assignment and annual leave will be assumed to have left the Board.
+The appointment of the members thus defined to the Higher Education Supervisory Board will be car-
 
 83
 
@@ -337,6 +337,8 @@ The appointment of the members thus defined to the Higher Education Supervisory 
 Hacettepe University
 
 Self-Evaluation Report
+
+ried out according to current procedures. The Chairperson of the Higher Education Supervisory Board is appointed from among board members by the President of the Council of Higher Education. The term of the member selected by the Chief of the General Staff is two years; that of the other members is six years. The member selected by the Chief of the General Staff will be assumed to be on unpaid leave but all his/her other rights arising from personnel legislation are reserved. All other members' relations with their institutions are discontinued. The age limit (for retirement) of board members is the same as that of teaching staff members. One third of the members are renewed every two years, with the exception of the member selected by the Chief of the General Staff. Members whose term expires can be re-elected. Upon termination (irrespective of reason) of membership before the completion of the normal term, a new member with the same status is selected to complete the remaining term. The salaries of the board members are fixed by the Council of Ministers so as not to exceed those of the members of the Council of Higher Education. Retired persons selected continue to receive their pensions. The members of the Higher Education Supervisory Board are not allowed to work for any public or private organization, with or without pay, except in the case of exceptional temporary duties assigned by the Council of Ministers and by the Council of Higher Education. Any member who is absent from duty for a period of three months within a year for any reason other than temporary assignment and annual leave will be assumed to have left the Board.
 
 ##### Duties of the Higher Education Supervisory Board
 
@@ -358,7 +360,7 @@ The Student Selection and Placement Center determines, in the context of fundame
 
 The Student Selection and Placement Center, upon the request of institutions of higher education, carries out questionnaire-based research, examinations and evaluation at all levels, including the Associate Professorship examinations, student registration procedures, and other duties assigned by the Council of Higher Education.
 
-Candidates pay a fee for these services. These fees are to be collected in the Council of Higher Education Student Selection and Placement Fund. The President of the Council of Higher Education is responsible for the fund. This fund is to be used for selection and placement services. In expenditures to be made from the fund and in other financial matters, the principles of a revolving fund are applied. The fundamentals relating to its administration, management and supervision are determined by the Council of Higher Education. At the end of each year, the money remaining in the fund is transferred to the following year's fund.
+Candidates pay a fee for these services. These fees are to be collected in the Council of Higher Education Student Selection and Placement Fund. The President of the Council of Higher Education is
 
 84
 
@@ -367,6 +369,8 @@ Candidates pay a fee for these services. These fees are to be collected in the C
 [[START OF PAGE 10]]
 
 Hacettepe University Self-Evaluation Report
+
+responsible for the fund. This fund is to be used for selection and placement services. In expenditures to be made from the fund and in other financial matters, the principles of a revolving fund are applied. The fundamentals relating to its administration, management and supervision are determined by the Council of Higher Education. At the end of each year, the money remaining in the fund is transferred to the following year's fund.
 
 ##### Inter-university Board
 
@@ -442,6 +446,8 @@ In accordance with the aims and basic principles of this law, the duties of the 
 
 Hacettepe University Self-Evaluation Report
 
+#### UNIVERSITY ORGANS
+
 ##### Rector
 ###### Article 13
 
@@ -471,7 +477,7 @@ To carry out other duties assigned by this law.
 
 The Rector is invested with final authority and responsibility for the rational use and development of the educational capacity of a university and its attached organizations, for providing the students with
 
-#### UNIVERSITY ORGANS
+
 
 87
 
@@ -683,7 +689,7 @@ The Department is administered by the Head of the Department.
 
 The Head of the Department is appointed for three years from among full-time professors in the Department; if none, from among the associate professors; if none, from among the assistant professors. The appointment is made by the Dean in the case of faculties, in the case of schools of higher education attached to the faculty, by the Dean upon the nomination of the Director, and by the Rector upon the nomination of the Director in schools of higher education attached to the office of the Rector. The Head of the Department may be re-appointed, at the end of his/her term of office.
 
-The Head of the Department appoints one of the teaching staff members as his/her deputy during his/ her absence.
+The Head of the Department appoints one of the teaching staff members as his/her deputy during his/her absence.
 
 In case of an absence lasting, for any reason whatsoever, for more than six months, a new Head is appointed following the procedures outlined above, to complete the remaining part of the term.
 
@@ -701,7 +707,7 @@ The Head of the Department is responsible for education and research at every le
 
 - To undertake scientific and scholarly research for publication in the institutions of higher education.
 
-- n accordance with a program arranged by the head of the related unit, to set aside certain days for the advising and guidance of students, helping them as needed and directing them in line with the aims and basic principles of this law.
+- In accordance with a program arranged by the head of the related unit, to set aside certain days for the advising and guidance of students, helping them as needed and directing them in line with the aims and basic principles of this law.
 
 92
 
@@ -725,7 +731,7 @@ The Assistant Professor(s) may be appointed to any one university for no longer 
 
 - Prerequisites for the appointment of Assistant Professors:
 
-To have acquired a doctorate, or specialist status in medicine, or proficiency in certain branches of the fine arts to be determined by the Council of Higher Education upon the recommendation of the Interuniversity Board,
+To have acquired a doctorate, or specialist status in medicine, or proficiency in certain branches of the fine arts to be determined by the Council of Higher Education upon the recommendation of the Inter-university Board,
 
 To pass the foreign language examination, which will cover a translation in the candidate's major field of about 150-200 words from Turkish into a foreign language and from the foreign language into Turkish to the satisfaction of a jury of three members, one of them a teaching staff member in the relevant language. The jury shall be selected by the Administrative Board of the Faculty, Graduate School or School of Higher Education.
 
@@ -818,7 +824,7 @@ Teaching staff members will retire, at the latest, at the age of 67.
 
 ###### Article 31
 
-Instructors may be appointed on a full-time or hourly basis in universities and attached units to teach courses or conduct applied practical studies for which a teaching staff member has not been appointed in accordance with this law, or courses requiring particular specialization, from among individuals recognized as specialists in their field on the basis of their experience and works. Instructors may be appointed to positions designated for teaching staff members, ancillary staff or instructors, by a rector, upon the proposal of the Faculty Administrative Board and the Dean in the case of faculties, or the head of department in the case of departments attached to the office of the Rector. They may also be appointed on a part-time (hourly) basis or on a contract basis. Instructors may be appointed to a position designated for a teaching staff member for a maximum two-year period. If, at the end of this period, no teaching staff member has applied for the said position, and the institution deems it appropriate, they may be re-appointed in the same manner. Such appointments are not automatically renewed. Conservatories and schools of higher education may appoint instructors on a regular basis, when necessary.
+Instructors may be appointed on a full-time or hourly basis in universities and attached units to teach courses or conduct applied practical studies for which a teaching staff member has not been appointed in accordance with this law, or courses requiring particular specialization, from among individuals
 
 95
 
@@ -829,6 +835,8 @@ Instructors may be appointed on a full-time or hourly basis in universities and 
 Hacettepe University
 
 Self-Evaluation Report
+
+recognized as specialists in their field on the basis of their experience and works. Instructors may be appointed to positions designated for teaching staff members, ancillary staff or instructors, by a rector, upon the proposal of the Faculty Administrative Board and the Dean in the case of faculties, or the head of department in the case of departments attached to the office of the Rector. They may also be appointed on a part-time (hourly) basis or on a contract basis. Instructors may be appointed to a position designated for a teaching staff member for a maximum two-year period. If, at the end of this period, no teaching staff member has applied for the said position, and the institution deems it appropriate, they may be re-appointed in the same manner. Such appointments are not automatically renewed. Conservatories and schools of higher education may appoint instructors on a regular basis, when necessary.
 
 ##### Lecturers
 
@@ -846,7 +854,7 @@ a. Research assistants are members of the ancillary staff who assist with resear
 
 The Council of Higher Education sets the criteria concerning those research assistants who are to be sent abroad for graduate study, as well as those appointed for the first time with this aim in view.
 
-The stipulation stated above with regard to the period of appointment is not applied in the case of research assistants sent abroad for graduate study. Tuition fees, travel expenses and other relevant expenditures of such research assistants are paid for out of special funds within the personnel expenditures of the universities concerned. During the period of their graduate study abroad the appointments of such research assistants remain in force and they are paid 60 % of their net monthly salaries by the institution concerned [with the exception of those who receive scholarships (for the period after one year) and those who secure scholarships on their own and have been granted leave of absence without pay]. Those who are sent by their institutions are also paid a sum stipulated by Law No. 1416 on Students to be Sent to Foreign Countries, equivalent to that paid to students in the same country. In the case of scholarship holders, if the amount of their scholarship is less than this amount, the difference is paid by their institution. Tuition fees and fees for courses which are prerequisite to begin their studies are also paid by their institutions. Each year, in the months of March and September, they are also paid two equal supplementary payments (each equivalent to their monthly remuneration) to cover textbook, stationery, and other educational expenses).
+The stipulation stated above with regard to the period of appointment is not applied in the case of research assistants sent abroad for graduate study. Tuition fees, travel expenses and other relevant expenditures of such research assistants are paid for out of special funds within the personnel expenditures of the universities concerned. During the period of their graduate study abroad the appointments of such research assistants remain in force and they are paid 60 % of their net monthly salaries by the institution concerned [with the exception of those who receive scholarships (for the period after one year) and those who secure scholarships on their own and have been granted leave of absence without pay]. Those who are sent by their institutions are also paid a sum stipulated by Law No. 1416 on Students to be Sent to Foreign Countries, equivalent to that paid to students in the same country. In the case of scholarship holders, if the amount of their scholarship is less than this amount, the difference is paid by their institution. Tuition fees and fees for courses which are prerequisite to begin their studies are also paid by their institutions. Each year, in the months of March and September, they are also paid
 
 96
 
@@ -856,9 +864,13 @@ The stipulation stated above with regard to the period of appointment is not app
 
 Hacettepe University Self-Evaluation Report
 
+two equal supplementary payments (each equivalent to their monthly remuneration) to cover textbook, stationery, and other educational expenses).
+
 - Specialists are ancillary staff who are required, for a specific period, to carry out duties directly or indirectly related to instruction or to assist in laboratory work or in libraries where special skills or specialized knowledge is required.
 
-- Translators are ancillary staff employed for specific periods to carry out oral or written translation. d. Educational Planners are ancillary staff responsible for the planning of instruction and education at institutions of higher education.
+- Translators are ancillary staff employed for specific periods to carry out oral or written translation.
+
+- Educational Planners are ancillary staff responsible for the planning of instruction and education at institutions of higher education.
 
 - The appointment of Specialists, Translators and Educational Planners is made by the Rector of the university, upon the proposal of the respective Deans of Faculties or Directors of Graduate Schools or Schools of Higher Education. The Deans and the Rectors have to consult the respective Administrative Boards, before making their proposals. Such appointments are made for a maximum of two years, and automatically expire at the end of this period. Re­appointments can be made following the same procedures. After the third appointment, full-time appointment can be made.
 
@@ -878,7 +890,7 @@ To meet their own needs and those of other higher education institutions either 
 
 The positions allocated to research assistants may be transferred on a temporary basis by the Council of Higher Education to other universities for the purpose of training faculty members in order for them to carry out research or doctoral studies. Those who obtain their doctorate, specialization in medicine, or proficiency in the arts in this manner are to return to their own universities upon the completion of their studies. In this event the staff position is re-allocated to the research assistant's university.
 
-Faculty members trained in Turkey or abroad are required to carry out compulsory service to their institutions in accordance with general provisions in force. Those who do not carry out this requirement are not appointed to higher education institutions. Forms of compulsory service stipulated by special laws are not covered by this provision.
+Faculty members trained in Turkey or abroad are required to carry out compulsory service to their institutions in accordance with general provisions in force. Those who do not carry out this requirement
 
 97
 
@@ -889,6 +901,8 @@ Faculty members trained in Turkey or abroad are required to carry out compulsory
 Hacettepe University
 
 Self-Evaluation Report
+
+are not appointed to higher education institutions. Forms of compulsory service stipulated by special laws are not covered by this provision.
 
 ### PART
 
@@ -914,15 +928,17 @@ Within the framework of the graduate school, the Graduate School Director perfor
 
 - Within the framework of the graduate school, the Graduate School Board and the Graduate School Administrative Board perform the duties assigned by this law to the Faculty Board and the Faculty Administrative Board.
 
-- The organs of the schools of higher education are the Directors of schools of higher education, their Boards and Administrative Boards.
-
-- The Director of a school of higher education is appointed by the Rector for a period of three years upon nomination by the respective faculty dean. In schools of higher education, attached to the office of the Rector, appointment is made directly by the Rector. A Director whose term of office has expired may be re-appointed.
-
 #### SCHOOLS OF HIGHER EDUCATION
 
 ##### Organs
 
 ###### ARTICLE 20
+
+- The organs of the schools of higher education are the Directors of schools of higher education, their Boards and Administrative Boards.
+
+- The Director of a school of higher education is appointed by the Rector for a period of three years upon nomination by the respective faculty dean. In schools of higher education, attached to the office of the Rector, appointment is made directly by the Rector. A Director whose term of office has expired may be re-appointed.
+
+
 
 98
 
@@ -954,7 +970,7 @@ The Department is administered by the Head of the Department.
 
 The Head of the Department is appointed for three years from among full-time professors in the Department; if none, from among the associate professors; if none, from among the assistant professors. The appointment is made by the Dean in the case of faculties, in the case of schools of higher education attached to the faculty, by the Dean upon the nomination of the Director, and by the Rector upon the nomination of the Director in schools of higher education attached to the office of the Rector. The Head of the Department may be re-appointed, at the end of his/her term of office.
 
-The Head of the Department appoints one of the teaching staff members as his/her deputy during his/ her absence.
+The Head of the Department appoints one of the teaching staff members as his/her deputy during his/her absence.
 
 In case of an absence lasting, for any reason whatsoever, for more than six months, a new Head is appointed following the procedures outlined above, to complete the remaining part of the term.
 
@@ -995,7 +1011,7 @@ The Assistant Professor(s) may be appointed to any one university for no longer 
 
 - Prerequisites for the appointment of Assistant Professors:
 
-To have acquired a doctorate, or specialist status in medicine, or proficiency in certain branches of the fine arts to be determined by the Council of Higher Education upon the recommendation of the Interuniversity Board,
+To have acquired a doctorate, or specialist status in medicine, or proficiency in certain branches of the fine arts to be determined by the Council of Higher Education upon the recommendation of the Inter-university Board,
 
 To pass the foreign language examination, which will cover a translation in the candidate's major field of about 150-200 words from Turkish into a foreign language and from the foreign language into Turkish to the satisfaction of a jury of three members, one of them a teaching staff member in the relevant language. The jury shall be selected by the Administrative Board of the Faculty, Graduate School or School of Higher Education.
 
@@ -1009,7 +1025,7 @@ Hacettepe University Self-Evaluation Report
 
 ##### Associate Professorship Examinations
 
-###### Article 24
+###### ARTICLE 24
 
 - The Associate Professorship examinations are held once a year by the Inter-university Board.
 
@@ -1021,7 +1037,7 @@ After receiving a bachelor's degree, to have received a doctorate degree, specia
 
 To have produced original research and publications,
 
-To have passed a centralized foreign language examination to be prepared by the Inter­university Board.
+To have passed a centralized foreign language examination to be prepared by the Inter-university Board.
 
 It is not necessary for the foreign language examination referred to in paragraph (3) above to be related to the major branch of the candidate. If the candidate's major area is a foreign language, the examination is to be taken in another foreign language.
 
@@ -1069,7 +1085,7 @@ One of the publications referred to in paragraph (2) above is designated as the 
 
 ###### Article 27
 
-Those who have been granted an Associate Professorship title in a foreign country after they have received a doctorate degree or qualified as a specialist in a medical field may apply to the Inter­university Board for confirmation of the validity of this title provided they have worked under this title in a higher education institution or at a research center for at least two years in foreign countries. In order for the title to be granted equivalency, the Inter-university Board must recognize the foreign institution of higher education at which the candidate has worked as being of a standard equal to that of such institutions in Turkey.
+Those who have been granted an Associate Professorship title in a foreign country after they have received a doctorate degree or qualified as a specialist in a medical field may apply to the Inter-university Board for confirmation of the validity of this title provided they have worked under this title in a higher education institution or at a research center for at least two years in foreign countries. In order for the title to be granted equivalency, the Inter-university Board must recognize the foreign institution of higher education at which the candidate has worked as being of a standard equal to that of such institutions in Turkey.
 
 ##### The Title of Professorship Obtained in Foreign Countries
 
@@ -1136,7 +1152,7 @@ The stipulation stated above with regard to the period of appointment is not app
 
 - Educational Planners are ancillary staff responsible for the planning of instruction and education at institutions of higher education.
 
-- The appointment of Specialists, Translators and Educational Planners is made by the Rector of the university, upon the proposal of the respective Deans of Faculties or Directors of Graduate Schools or Schools of Higher Education. The Deans and the Rectors have to consult the respective Administrative Boards, before making their proposals. Such appointments are made for a maximum of two years, and automatically expire at the end of this period. Re­appointments can be made following the same procedures. After the third appointment, full-time appointment can be made.
+- The appointment of Specialists, Translators and Educational Planners is made by the Rector of the university, upon the proposal of the respective Deans of Faculties or Directors of Graduate Schools or Schools of Higher Education. The Deans and the Rectors have to consult the respective Administrative Boards, before making their proposals. Such appointments are made for a maximum of two years, and automatically expire at the end of this period. Re-appointments can be made following the same procedures. After the third appointment, full-time appointment can be made.
 
 ##### Foreign National Teaching Staff Members
 
@@ -1185,7 +1201,7 @@ All payments due from work of this kind are entered as income in the Revolving F
 
 - Those employed on a part-time basis at the university
 
-Those Professors and Associate Professors, who are appointed for a period of made in accordance with the provisions of this law if there is an opening in the relevant department, for such an appointment.
+Those Professors and Associate Professors, who are appointed for a period of
 
 105
 
@@ -1195,7 +1211,7 @@ Those Professors and Associate Professors, who are appointed for a period of mad
 
 Hacettepe University Self-Evaluation Report
 
-- Two years at a time, are obliged to be present for at least twenty hours a week at the university. They are to undertake teaching duties, practical work and research under the direction of the Head of the Department. They: receive no supplementary salary nor any increment of any kind; nor may they benefit from the revenue of the Revolving Fund; cannot serve as Rector, Dean, Director of Graduate Schools and Schools of Higher Education, or Head of Department; nor can they become their deputies. However, they may serve as Graduate School Director, Department Head, or Section Head within the working hours and period stipulated for civil servants; may go abroad to further their knowledge, to carry out research work and to take part in any academic activity, but their expenses are not to be paid for out of the budget or out of university funds. The appointment of those whose services are still required after two years is reserved according to the same procedure as of the original appointment. The appointment of those who wish to be employed on a permanent basis can be
+two years at a time, are obliged to be present for at least twenty hours a week at the university. They are to undertake teaching duties, practical work and research under the direction of the Head of the Department. They: receive no supplementary salary nor any increment of any kind; nor may they benefit from the revenue of the Revolving Fund; cannot serve as Rector, Dean, Director of Graduate Schools and Schools of Higher Education, or Head of Department; nor can they become their deputies. However, they may serve as Graduate School Director, Department Head, or Section Head within the working hours and period stipulated for civil servants; may go abroad to further their knowledge, to carry out research work and to take part in any academic activity, but their expenses are not to be paid for out of the budget or out of university funds. The appointment of those whose services are still required after two years is reserved according to the same procedure as of the original appointment. The appointment of those who wish to be employed on a permanent basis can be made in accordance with the provisions of this law if there is an opening in the relevant department, for such an appointment.
 
 - Assistant Professors may only be employed on a permanent basis in the university and in the units attached to it.
 
@@ -1303,6 +1319,9 @@ Those assigned within the provisions of this article or paragraph (b) of Article
 
 Hacettepe University Self-Evaluation Report
 
+### PART SEVEN
+#### EDUCATION AND STUDENTS
+
 ##### Education at Bachelor's Level
 
 ###### Article 43
@@ -1320,9 +1339,6 @@ c.	 Institutions of higher education may use any kind of educational method: for
 ###### Article 44
 
 A maximum of 4 years is to be granted to students for the completion of 2-year pre-baccalaureate programs, and of 7 years for 4-year bachelor's degree programs. As for programs normally taking 5 and 6 years, the maximum periods shall be 8 and 9 years, respectively. However, at the end of this period, those final-year students shall be given the right to take two additional examinations for all courses which they have failed, one of them being a make-up examination, in order that they might graduate. Those, who after these examinations are still failing in a maximum of 5 courses, will be allowed to take examinations for these 5 courses for a period of 3 semesters. Those students who fail up to 5 courses without taking additional examinations will be granted 4 additional semesters to pass the examinations (or two academic years for those institutions operating on a yearly rather than a semester basis). With the exception of the Gülhane Military Academy of Medicine, students failing 3 or fewer courses will be granted the right to take an unlimited number of examinations. Those students who have passed all courses required for graduation, but whose grade point average is below the minimum required for them not to be dismissed, and are in their last semester of study (or last year, in the case of institutions operating on a yearly basis) will be given the right to take an unlimited number of examinations in any two courses in the last two years of the curriculum in order to raise their grade point average. Apart from courses requiring practical sessions and such courses as they have not already taken, attendance shall not be a pre-condition for passing. Students who do not take any additional examinations for three consecutive or non-consecutive academic years, shall be considered to have forfeited their right to take an unlimited number of examinations and may not benefit from it. Those students who do benefit from this right are required to continue to pay tuition fees, but do not benefit from any
-
-### PART SEVEN
-#### EDUCATION AND STUDENTS
 
 110
 
@@ -1517,7 +1533,7 @@ Faculty members appointed to investigate the case of another faculty member must
 
 - by a three-member commission composed of members of the Council of Higher Education, in the case of university rectors, vice-rectors, or secretaries-general of governing bodies,
 
-- by a three-member commission composed of vice-rectors, chaired and appointed by the Rector, in the case of administrative board members of a university, faculty, graduate school or school of higher education, as well as in the case of deans and assistant deans of faculties, directors and assistant directors of graduate schools or schools of higher education, or university secretariesgeneral,
+- by a three-member commission composed of vice-rectors, chaired and appointed by the Rector, in the case of administrative board members of a university, faculty, graduate school or school of higher education, as well as in the case of deans and assistant deans of faculties, directors and assistant directors of graduate schools or schools of higher education, or university secretaries-general,
 
 - by a three-member commission composed of members of the University Administrative Board, in the case of teaching faculty members, and of faculty, graduate school, or school of higher education secretaries,
 
@@ -1539,7 +1555,7 @@ With regard to members of the Council of Higher Education and the Higher Educati
 
 In the case of a crime jointly committed by those of different status, the investigatory procedures as well as authority conducting the trial are to be determined with respect to the suspect occupying the highest status.
 
-- In the case of penal investigations concerning the President of the Council of Higher Education and rectors, with regard to crimes covered by Law No. 1609 on Procedures Governing Prosecution and Trial of Civil Servants and their Co-Defendants with Regard to Certain Felonies, the penal investigation is to be carried out in accordance with the procedures indicated above. All others shall be dealt with in according with the afore­mentioned Law No. 1609.
+- In the case of penal investigations concerning the President of the Council of Higher Education and rectors, with regard to crimes covered by Law No. 1609 on Procedures Governing Prosecution and Trial of Civil Servants and their Co-Defendants with Regard to Certain Felonies, the penal investigation is to be carried out in accordance with the procedures indicated above. All others shall be dealt with in according with the afore-mentioned Law No. 1609.
 
 Permission for legal proceedings to be initiated concerning members of the Council of Higher Education and the President and members of the Higher Education Supervisory Board and administrative personnel of these institutions (including those of the Inter-university Board) is granted by the President of the Council of Higher Education, while that concerning university administrators, teaching faculty members, and civil servants is granted by university rectors.
 
@@ -1585,6 +1601,9 @@ Investigation, Powers and Penalties
 
 Hacettepe University Self-Evaluation Report
 
+### PART TEN
+#### FINANCIAL PROVISIONS
+
 ##### Sources of Income
 
 ###### Article 55
@@ -1619,12 +1638,9 @@ Procedures and Methods
 
 - Machines, tools and instruments, equipment, pharmaceuticals, materials and publications which are imported for educational and research purposes by governing bodies of higher education, higher education institutions and the units attached to them are exempt from stamps, customs duty and excise on the condition that these goods are not available or manufactured within the country; similarly, goods of the same kind which are given as donations are also exempt from the same taxes and duties.
 
-- The Rector in the university and the President in the governing bodies, is entitled to waive claims on the part of the respective institution up to and including one million Turkish Liras, if, according to his/ her judgment, prosecution would not be in the best interests of the institution; for amounts above one million Turkish Liras, authorization has to be obtained from the Ministry of Finance, upon the application of the President, in the case of governing bodies, or the Rector in the case of universities, taking into consideration the advice of the Government Accounting Bureau.
+- The Rector in the university and the President in the governing bodies, is entitled to waive claims on the part of the respective institution up to and including one million Turkish Liras, if, according to his/her judgment, prosecution would not be in the best interests of the institution; for amounts above one million Turkish Liras, authorization has to be obtained from the Ministry of Finance, upon the application of the President, in the case of governing bodies, or the Rector in the case of universities, taking into consideration the advice of the Government Accounting Bureau.
 
 - Expenditures necessitated by scholarly, scientific, technical research and publication conducted by
-
-### PART TEN
-#### FINANCIAL PROVISIONS
 
 119
 
@@ -1658,7 +1674,7 @@ Revolving fund enterprises can be set up in governing bodies upon the proposal o
 
 Fields of activities for revolving fund enterprises, their capital limits, the principles governing the administrative procedures related to management, and accounting procedures are set down in the revolving fund regulations, in accordance with principles established by the Council of Higher Education and the recommendation of the Ministry of Finance.
 
-Enterprises of a revolving fund are not subject to the provisions of Law No. 1050 on General Accounting and Auditing of the State, or of Law No. 2490 on Auction, Bids and Award of Contracts. The revenues acquired from the revolving fund and also each year's unspent funds are added to the revolving fund of the following fiscal year. The balance sheets and their supplements together with all incomeexpenditure documents, prepared within four months from the end of the fiscal year, are submitted to the Government Accounting Bureau, and copies sent to the Ministry of Finance within the same period.
+Enterprises of a revolving fund are not subject to the provisions of Law No. 1050 on General Accounting and Auditing of the State, or of Law No. 2490 on Auction, Bids and Award of Contracts. The revenues acquired from the revolving fund and also each year's unspent funds are added to the revolving fund of the following fiscal year. The balance sheets and their supplements together with all income-expenditure documents, prepared within four months from the end of the fiscal year, are submitted to the Government Accounting Bureau, and copies sent to the Ministry of Finance within the same period.
 
 120
 
@@ -1668,7 +1684,7 @@ Enterprises of a revolving fund are not subject to the provisions of Law No. 105
 
 Hacettepe University Self-Evaluation Report
 
-At least 30 % of the income accruing to the revolving fund, which is established by the contributions of the teaching faculty members of all the individual units (teaching, research, practice), is allocated to the provision of the various needs of that particular unit, including materials, equipment, research projects, etc. The remaining portion is divided among the relevant teaching faculty members and administrative personnel subject to Law No. 657 on Civil Servants in accordance with proportions established by the University Administrative Board. Teaching staff members and faculty members in units proposed by the Inter-university Board and approved by the Council of Higher Education may, in one year, receive a total payment from the revolving fund not to exceed twice the total income they receive from the university including their salary (including supplementary coefficient and all other supplementary payments). Other faculty members' total payment from the revolving fund shall not exceed an amount equal to the total income they receive from the university (all­inclusive). This is not to exceed 50 % in the case of administrative personnel subject to Law No. 657 on Civil Servants. However, the share that teaching staff members receive for contributions to the revolving fund outside of regular working hours shall not be taken into account with regard to the limit of a maximum payment of double their all-inclusive income.
+At least 30 % of the income accruing to the revolving fund, which is established by the contributions of the teaching faculty members of all the individual units (teaching, research, practice), is allocated to the provision of the various needs of that particular unit, including materials, equipment, research projects, etc. The remaining portion is divided among the relevant teaching faculty members and administrative personnel subject to Law No. 657 on Civil Servants in accordance with proportions established by the University Administrative Board. Teaching staff members and faculty members in units proposed by the Inter-university Board and approved by the Council of Higher Education may, in one year, receive a total payment from the revolving fund not to exceed twice the total income they receive from the university including their salary (including supplementary coefficient and all other supplementary payments). Other faculty members' total payment from the revolving fund shall not exceed an amount equal to the total income they receive from the university (all-inclusive). This is not to exceed 50 % in the case of administrative personnel subject to Law No. 657 on Civil Servants. However, the share that teaching staff members receive for contributions to the revolving fund outside of regular working hours shall not be taken into account with regard to the limit of a maximum payment of double their all-inclusive income.
 
 b.	 Research Fund
 
@@ -1714,7 +1730,7 @@ Teaching faculty members and students who are members of political parties shall
 
 - Those teaching staff members who have left institutions of higher education upon their being appointed to the Council of Ministers or elected to the Legislature, may, in accordance with the provisions of this law, be re-appointed to institutions of higher education. The period thus spent shall be considered to have been spent at the university, with regard to salary and promotion, and their re-appointment shall not require a vacant staff position.
 
-- Those teaching members who have, with their own consent, left higher education institutions, can, unless they have been expelled by court order or on disciplinary procedure, be re­appointed in accordance with the provisions of this law and not requiring a vacant staff position.
+- Those teaching members who have, with their own consent, left higher education institutions, can, unless they have been expelled by court order or on disciplinary procedure, be re-appointed in accordance with the provisions of this law and not requiring a vacant staff position.
 
 - Those selected as President or members of the Council of Higher Education, as well as those selected as Rector or Dean while employed in an institution of higher education or a public institution may, upon completion of their term of appointment, and not being re-appointed, be re-appointed to their institution. The period thus spent shall be considered to have been spent at their institution with regard to salary and promotion, and their re-appointment shall not require a vacant staff position.
 
@@ -1770,9 +1786,17 @@ Matters concerning the formation, functioning, supervision procedures and princi
 
 Principles relating to the organization, functioning and duties, of the Student Selection and Placement Center to procedures of student selection and placement, and to the registration and examination fees to be received from the candidates and the utilization of the fund thus resulting,
 
-Procedures regarding promotion and appointment of Assistant Professors, Associate Professors, and Professors in higher education institutions covered by this law, Principles concerning the training of teaching faculty members, Principles regarding the weekly teaching load, Principles of procedure as regards tuition fees, including those of foreign students, Principles governing printing of textbooks and educational materials, and also royalties, Principles governing disciplinary procedures regarding teaching faculty members, administrative and
+Procedures regarding promotion and appointment of Assistant Professors, Associate Professors, and Professors in higher education institutions covered by this law,
 
-other personnel, and students, as well as principles concerning the powers of disciplinary superiors and the formation and functioning of disciplinary committees, Principles and procedures concerning all types of expenditure arising from scientific and technical studies; research and publications to be carried out by higher education institutions and their attached units; and also concerning construction, machinery and equipment, and their maintenance and repair, Matters concerning the official records of teaching faculty members, administrative and other personnel, and students, Taking into account the educational fields dealt with by institutions of higher education to be established by foundations, matters related to buildings, facilities, equipment, education, administrators, and other academic matters, Principles related to appointment, transfer, and other matters related to the implementation of this law.
+Principles concerning the training of teaching faculty members,
+
+Principles regarding the weekly teaching load,
+
+Principles of procedure as regards tuition fees, including those of foreign students,
+
+Principles governing printing of textbooks and educational materials, and also royalties,
+
+Principles governing disciplinary procedures regarding teaching faculty members, administrative and other personnel, and students, as well as principles concerning the powers of disciplinary superiors
 
 123
 
@@ -1782,7 +1806,19 @@ other personnel, and students, as well as principles concerning the powers of di
 
 Hacettepe University Self-Evaluation Report
 
-- The following matters are determined in the regulations to be drafted by the Inter-university Board: Principles of post-graduate education,
+and the formation and functioning of disciplinary committees,
+
+Principles and procedures concerning all types of expenditure arising from scientific and technical studies; research and publications to be carried out by higher education institutions and their attached units; and also concerning construction, machinery and equipment, and their maintenance and repair,
+
+Matters concerning the official records of teaching faculty members, administrative and other personnel, and students,
+
+Taking into account the educational fields dealt with by institutions of higher education to be established by foundations, matters related to buildings, facilities, equipment, education, administrators, and other academic matters,
+
+Principles related to appointment, transfer, and other matters related to the implementation of this law.
+
+- The following matters are determined in the regulations to be drafted by the Inter-university Board:
+
+Principles of post-graduate education,
 
 Other academic matters related to the implementation of this law.
 
