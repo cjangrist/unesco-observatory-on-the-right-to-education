@@ -28,7 +28,7 @@ DE L’EDUCATION POUR TOUS
 Bangui. Novembre 2002
 
 MINISTERE DE L’EDUCATION NATIONALE ET DE LA RECHERCHE SCIENTIFIQUE
-COORDINATION NATIONALE DE L’E.P.T – E.mail    eptbeafrica@yahoo.fr
+COORDINATION NATIONALE DE L’E.P.T – E.mail   eptbeafrica@yahoo.fr
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
 2
@@ -41,65 +41,64 @@ République Centrafricaine
 
 SOMMAIRE
 
-I- Préface ........................................................................................................ 4
-II- Avant propos .............................................................................................. 5
-III- Introduction .............................................................................................. 6
-IV- Présentation synthétique des caractéristiques physiques et humaines de la RCA ............................................................................................................... 7
+I- Préface ........................................................................................................ 5
+II- Avant Propos .............................................................................................. 6
+III- Introduction ............................................................................................... 7
+IV- Présentation synthétique des caractéristiques physiques et humaines de la RCA ........................................ 8
 
-SECTION I : DIAGNOSTIC ET ANALYSE DE SITUATION ........................ 10
-1.1- L’organisation politique et administrative du pays ............................... 10
-1.2- Le contexte national ............................................................................... 10
-1.2.1 Poids de l’enclavement ......................................................................... 10
-1.2.2 Contexte socio-politique ....................................................................... 10
-1.2.3 Contexte macro-économique ................................................................. 11
-1.3- La situation du secteur ........................................................................... 11
-1.3.1 L’enseignement préscolaire .................................................................. 11
-1.3.2 L’enseignement fondamental 1 ............................................................. 12
-1.3.3 L’enseignement secondaire ................................................................... 15
-1.3.4 L’enseignement technique et formation professionnelle ...................... 16
-1.3.5 L’éducation non formelle ...................................................................... 16
-1.4- Les problèmes majeurs de l’enseignement ............................................. 19
-1.4.1 Le faible taux de couverture ................................................................. 19
-1.4.2 L’éducation des filles et lutte contre les disparités entre les sexes ...... 20
+SECTION 1 : DIAGNOSTIC ET ANALYSE DE SITUATION ........................................................ 10
+1.1- Organisation politique et administrative du pays ............................................................. 10
+1.2- Contexte national .............................................................................................................. 10
+1.2.1 Poids de l’enclavement ................................................................................................... 10
+1.2.2 Contexte socio-politique ................................................................................................. 10
+1.2.3 Contexte macro-économique ........................................................................................... 11
+1.3- Situation du secteur .......................................................................................................... 11
+1.3.1 Enseignement préscolaire ............................................................................................... 11
+1.3.2 Enseignement fondamental 1 .......................................................................................... 12
+1.3.3 Enseignement secondaire ............................................................................................... 15
+1.3.4 Enseignement technique et formation professionnelle ................................................... 17
+1.3.5 Education non formelle ................................................................................................... 17
+1.4- Problèmes majeurs de l’enseignement .............................................................................. 19
+1.4.1- Le faible taux de couverture .......................................................................................... 19
+1.4.2- Education des filles et lutte contre les disparités entre les sexes .................................. 20
 
-SECTION II : CADRE D’ACTION ................................................................ 21
-2.1 Domaines d’actions .................................................................................. 21
-2.2 Objectifs ................................................................................................... 21
-2.2.1 Objectifs nationaux ............................................................................... 21
-2.2.2 Objectifs généraux ................................................................................ 21
-2.2.3 Objectifs spécifiques par niveau ........................................................... 21
-2.2.4 Objectifs de l’EPT ................................................................................ 22
-2.3 Résultats attendus .................................................................................... 22
-2.4 Les principaux obstacles ......................................................................... 23
-2.5 Stratégies de mise en œuvre .................................................................... 24
-2.6 Les grandes étapes de la mise en œuvre .................................................. 25
-2.7 Les parties prenantes ............................................................................... 26
-2.8 Les modalités d’intervention ................................................................... 26
+SECTION 2 : CADRE D’ACTION ............................................................................................... 21
+2.1. Domaines d’actions ........................................................................................................... 21
+2.2 Objectifs ............................................................................................................................. 21
+2.2.1- Objectifs nationaux ........................................................................................................ 21
+2.2.2- Objectifs généraux ......................................................................................................... 21
+2.2.3- Objectifs spécifiques par niveaux .................................................................................. 21
+2.2.4- Objectifs de l’EPT .......................................................................................................... 22
+2.3 Résultats attendus ............................................................................................................... 22
+2.4 Les principaux obstacles .................................................................................................... 23
+2.5 Stratégies de mise en œuvre ............................................................................................... 24
+2.6 Les grandes étapes de la mise en œuvre ............................................................................. 25
+2.7 Les parties prenantes .......................................................................................................... 26
+2.8 Les modalités d’intervention .............................................................................................. 26
 
-SECTION III : CADRE DE RESSOURCES ................................................... 27
-3.1 Grands besoins en ressources financières ............................................... 27
-3.2 Stratégies de mobilisation des ressources financières ............................ 27
-3.3 Mécanisme de coordination de l’aide extérieure ..................................... 27
+SECTION 3 : CADRE DE RESSOURCES .................................................................................. 27
+3.1. Grands besoins en ressources financières ........................................................................ 27
+3.2 Stratégies de mobilisation des ressources financières ....................................................... 27
+3.3 Mécanisme de coordination de l’aide extérieure ................................................................ 27
 
-SECTION IV : MISE EN ŒUVRE ................................................................ 28
-4.1 Modalités de mise en œuvre .................................................................... 28
-4.2 Structure de mise en œuvre ..................................................................... 28
-4.3 Actions spécifiques .................................................................................. 28
-4.4 Chronogramme ......................................................................................... 29
+SECTION 4 : MISE EN ŒUVRE ................................................................................................. 28
+4.1. Modalités de mise en œuvre .............................................................................................. 28
+4.2. Structure de mise en œuvre ............................................................................................... 28
+4.3. Actions spécifiques ............................................................................................................ 28
+4.4. Chronogramme ................................................................................................................... 29
 
-SECTION V : SUIVI-EVALUATION ............................................................ 30
-5.1 Description du tableau des indicateurs par résultats ............................... 30
-5.2 Structures de suivi ................................................................................... 31
-5.3 Mécanismes de suivi-évaluation .............................................................. 31
-5.3.1 Suivi continu .......................................................................................... 32
-5.3.2 Revues à mi-parcours ............................................................................ 32
-5.3.3 Evaluations spécifiques ......................................................................... 32
-5.3.4 Sources des données .............................................................................. 32
+SECTION 5 : SUIVI ET EVALUATION ....................................................................................... 30
+5.1. Description du tableau des indicateurs par résultats ......................................................... 30
+5.2. Structures de suivi .............................................................................................................. 31
+5.3. Mécanismes de suivi-évaluation ........................................................................................ 31
+5.3.1 suivi continu ..................................................................................................................... 32
+5.3.2 revues à mi-parcours ........................................................................................................ 32
+5.3.3 évaluations spécifiques .................................................................................................... 32
+5.3.4 sources des données ......................................................................................................... 32
 
-Conclusion ..................................................................................................... 33
+Conclusion ................................................................................................................................. 33
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
-2
 
 [[END OF PAGE 3]]
 
@@ -109,28 +108,28 @@ République Centrafricaine
 
 ANNEXES
 
-1. Cadre logique des objectifs EPT ................................................................ 35
-1.1. Objectif 1 ................................................................................................. 35
-1.2. Objectif 2 ................................................................................................. 37
-1.3. Objectif 3 ................................................................................................. 40
-1.4. Objectif 4 ................................................................................................. 41
-1.5. Objectif 5 ................................................................................................. 42
-1.6. Objectif 6 ................................................................................................. 43
-1.7. Objectif 7 ................................................................................................. 50
+1. Cadre logique des objectifs EPT .......................................................................................... 35
+1.1. Objectif EPT 1 ................................................................................................................... 35
+1.2. Objectif EPT 2 ................................................................................................................... 37
+1.3. Objectif EPT 3 ................................................................................................................... 40
+1.4. Objectif EPT 4 ................................................................................................................... 41
+1.5. Objectif EPT 5 ................................................................................................................... 42
+1.6. Objectif EPT 6 ................................................................................................................... 43
+1.7. Objectif EPT 7 ................................................................................................................... 50
 
-2. Sous-secteur Mise en œuvre par objectif ................................................... 53
-2.1. Objectif 1 ................................................................................................. 53
-2.2. Objectif 2 ................................................................................................. 55
-2.3. Objectif 3 ................................................................................................. 56
-2.4. Objectif 4 ................................................................................................. 57
-2.5. Objectif 5 ................................................................................................. 59
-2.6. Objectif 6 ................................................................................................. 60
-2.7. Objectif 7 ................................................................................................. 67
+2. Tableau de Mise en œuvre par objectif .................................................................................. 53
+2.1. Objectif EPT 1 ................................................................................................................... 53
+2.2. Objectif EPT 2 ................................................................................................................... 55
+2.3. Objectif EPT 3 ................................................................................................................... 56
+2.4. Objectif EPT 4 ................................................................................................................... 57
+2.5. Objectif EPT 5 ................................................................................................................... 59
+2.6. Objectif EPT 6 ................................................................................................................... 60
+2.7. Objectif EPT 7 ................................................................................................................... 67
 
-3. Tableaux récapitulatifs des coûts de la mise en œuvre ............................. 68
-4. Liste des membres du Comité National de Coordination et de Suivi et de l’Equipe de Rédaction .................................................................................... 68
-5. Rapport sur l’élaboration et la validation du PNA-EPT ............................ 69
-6. Bibliographie .............................................................................................. 75
+3. Tableau récapitulatif des coûts de mise en œuvre ................................................................. 68
+4. Liste des membres du Comité national de Coordination et de Suivi et de l’Equipe de Rédaction .................................................................................................................................... 68
+5. Rapport sur l’élaboration et la validation du PNA-EPT ......................................................... 69
+6. Bibliographie .......................................................................................................................... 75
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
 3
@@ -143,7 +142,7 @@ République Centrafricaine
 
 SIGLES
 
-PNA - EPT : Plan National d’Action de l’Education Pour Tous.
+PNA-EPT : Plan National d’Action de l’Education Pour Tous.
 PNUD : Programme des Nations-Unies pour le Développement.
 UNICEF : Fonds des Nations-Unies pour l’Enfance.
 FNUAP : Fonds des Nations-Unies pour la Population
@@ -154,7 +153,7 @@ EVF/EMP : Education à la vie familiale et en matière de Population
 APE : Association des Parents d’Elèves
 PNLCP : Plan National de Lutte Contre la Pauvreté
 ONG : Organisation Non Gouvernementale
-MENS : Ministère de l’Education Nationale et de la Recherche Scientifique
+MENRS : Ministère de l’Education Nationale et de la recherche Scientifique
 VIH : Virus de l’Immuno-Déficience Humaine
 SIDA : Syndrome de l’Immuno-déficience Acquise
 FCFA : Franc de la Communauté Financière Africaine
@@ -174,9 +173,9 @@ IANE : Inspection Académique du Nord-Est
 IAO : Inspection Académique de l’Ouest
 TBS : Taux Brut de Scolarisation
 TNS : Taux Net de Scolarisation
-MST/SIDA : Maladie Sexuellement Transmissible et Sida
+MST/SIDA : Maladie Sexuellement Transmissible et SIDA
 EM : Ecole Maternelle
-CRA : Centre Rural d’Apprentissage
+CA : Centre rural d’Apprentissage
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
 4
@@ -189,19 +188,19 @@ République Centrafricaine
 
 PREFACE
 
-Le bilan de l’Education Pour Tous « EPT » de l’an 2000 a révélé que la République Centrafricaine n’a pas fourni assez d’efforts pour atteindre l’objectif de l’éducation universelle. Par conséquent, elle doit faire davantage d’efforts pour les années à venir afin de s’assurer une éducation pour tous d’ici 2015.
+Le Gouvernement Centrafricain a élaboré en Novembre 2002 le présent Plan National d’Action de l’Education Pour Tous pour la période 2003-2015.
 
-Conscients du retard et de l’importance de l’enjeu, le Gouvernement et les différentes parties prenantes (départements sectoriels, Assemblée Nationale, Organisations Non Gouvernementales, syndicats d’enseignants, Associations religieuses, Associations des Parents d’élèves, Apprenants, partenaires au développement - parrains de l’EPT tels que le PNUD, l’UNICEF, le FNUAP, l’UNESCO et la Banque Mondiale ainsi que la France, les Etats-Unis d’Amérique, le Japon, l’Allemagne, la Chine, le Canada, la Norvège, le Danemark et le PAM) ont participé à l’élaboration du présent plan. Ce titre, un document de consensus national.
+Conscients du retard et de l’importance de l’enjeu, le Gouvernement et les différentes parties prenantes (départements sectoriels, Assemblée Nationale, Organisations Non Gouvernementales, syndicats d’enseignants, Associations religieuses, Associations des Parents d’élèves, Apprenants, partenaires au développement) parrains de l’EPT tels que le PNUD, l’UNICEF, le FNUAP, l’UNESCO et la Banque Mondiale ainsi que la France, les Etats-Unis d’Amérique, le Japon, l’Allemagne, la Chine, le Canada, la Norvège, le Danemark et le PAM ont participé à l’élaboration du présent plan qui fait à juste titre un document de consensus national.
 
-Il est donc le fruit d’une approche participative au niveau national et international, obéit à une double exigence de réalisme et d’ambition et tire sa substance de la Constitution du 14 janvier 1995 qui, en son article 7, garantit à chaque citoyenne et citoyen le droit d’accéder aux sources du savoir. Comme réponse aux exigences nationales d’éducation et de renforcement des capacités, le plan s’attaque aux problèmes majeurs de la pauvreté et du VIH/SIDA et développe des stratégies pertinentes pour transformer en profondeur la société centrafricaine.
+Il est donc le fruit d’une approche participative sur le plan national et international, obéit à une double exigence de réalisme et d’ambition et tire sa substance de la Constitution du 14 janvier 1995 qui, en son article 7, garantit à chaque citoyenne et citoyen le droit d’accéder aux sources du savoir. Comme réponse aux exigences nationales d’éducation et de renforcement des capacités, le plan s’attaque aux problèmes majeurs de la pauvreté et de l’analphabétisme et développe des stratégies pertinentes pour transformer en profondeur la société centrafricaine.
 
 S’inspirant des objectifs de développement du millénaire et du NEPAD, les actions qui seront mises en œuvre dans le cadre de ce plan permettront de :
-- Développer la protection et l’éducation de la petite enfance ;
-- Apporter un enseignement primaire gratuit et obligatoire de qualité pour tous d’ici 2015 ;
-- Promouvoir l’acquisition des compétences dans la vie courante pour les adolescents et les jeunes ;
-- Améliorer de 50 % les niveaux d’alphabétisation des adultes d’ici 2015 ;
-- Eliminer les disparités entre les sexes et instaurer l’égalité dans l’éducation d’ici 2015 ;
-- Améliorer la qualité de l’éducation de base.
+- développer la protection et l’éducation de la petite enfance ;
+- apporter un enseignement primaire gratuit et obligatoire de qualité pour tous d’ici 2015 ;
+- promouvoir l’acquisition des compétences dans la vie courante pour les adolescents et les jeunes ;
+- améliorer de 50% les niveaux d’alphabétisation des adultes d’ici 2015 ;
+- éliminer les disparités entre les sexes et instaurer l’égalité dans l’éducation d’ici 2015 ;
+- améliorer la qualité de l’éducation de base.
 
 Les actions préconisées ont le mérite de débarrasser le système éducatif de ses insuffisances et imperfections et de faire réellement de l’éducation en RCA un droit fondamental et un impératif catégorique de développement et de lutte contre la pauvreté.
 
@@ -209,7 +208,7 @@ Il convient de noter que les apports financiers et techniques des parrains de l�
 
 A cet effet, il lance un vibrant appel à la communauté nationale et internationale en faveur de l’éducation universelle des enfants de Centrafrique et de l’amélioration des connaissances des adultes pour le développement du capital humain indispensable à l’essor économique et social de la Centrafrique.
 
-Interpellé par l’ampleur du défi à relever, le gouvernement s’engage de son côté à tout mettre en œuvre pour traduire dans les faits les actions contenues dans ce plan. Pour y parvenir, il entend augmenter progressivement la part actuelle de l’éducation dans le budget de l’Etat de 9,25 afin de la stabiliser à 18 % d’ici 2015. Vu la taille du défi, la mise en œuvre nécessite la mobilisation de tous les partenaires comme mentionné ci-dessus. Aussi, tout en sollicitant des apports des parrains de l’EPT, il lance un vibrant appel en direction des autres partenaires pour l’accompagner dans l’exécution du programme.
+Interpellé par l’ampleur du défi à relever, le gouvernement s’engage de son côté à tout mettre en œuvre pour traduire dans les faits les actions contenues dans ce plan. Pour y parvenir, il entend augmenter progressivement la part actuelle de l’éducation dans le budget de l’Etat de 7,25 afin de la stabiliser à 15% d’ici 2015. Au regard de la taille du défi, la mise en œuvre nécessite la mobilisation de tous les partenaires comme mentionné ci-dessus. Aussi, tout en sollicitant des apports des parrains de l’EPT, il lance un vibrant appel en direction des autres partenaires pour l’accompagner dans l’exécution du programme.
 
 LE MINISTRE DE L’EDUCATION NATIONALE
 ET DE LA RECHERCHE SCIENTIFIQUE
@@ -225,7 +224,7 @@ République Centrafricaine
 
 INTRODUCTION
 
-Le Plan National d’Action de l’Education Pour Tous (PNA-EPT) est un vaste programme de réforme en profondeur et de redynamisation du système éducatif de la République Centrafricaine. Son élaboration a été conçue à partir des leçons de l’expérience et s’est essentiellement appuyée sur les données pertinentes tirées des nombreuses études consacrées au secteur. Intervenant dans la deuxième décennie de l’EPT, l’objectif stratégique qui lui est assigné est de promouvoir et mettre en œuvre de nouveaux principes appropriés au contexte national ainsi que les normes et droits citoyens fondamentaux. Au-delà de sa finalité, il est affirmé que l’on ne peut réaliser l’établissement véritable de la démocratie, de la paix et atteindre le progrès économique et social sans un investissement massif et continu dans l’éducation et la formation. Par conséquent, ce plan ne se détache point du cadre de développement des stratégies de lutte contre la pauvreté et met l’accent sur l’accroissement des possibilités pour les enfants, les femmes et les hommes d’obtenir un emploi et un revenu convenables. Parmi ces possibilités, il y a sans doute la protection sociale de tous les usagers du système éducatif.
+Le Plan National d’Action de l’Education Pour Tous (PNA-EPT) est un vaste programme de réforme en profondeur et de redynamisation du système éducatif de la République Centrafricaine. Son élaboration a été conçue à partir des leçons de l’expérience et s’est essentiellement appuyée sur les données pertinentes tirées des nombreuses études consacrées au secteur. Intervenant dans la deuxième décennie de l’EPT, l’objectif stratégique qui lui est assigné est de promouvoir et mettre en œuvre de nouveaux principes appropriés au contexte national ainsi que les normes et droits citoyens fondamentaux. Au-delà, sa finalité est d’affirmer que l’on ne peut réaliser l’établissement véritable de la démocratie, de la paix et atteindre le progrès économique et social sans un investissement massif et continu dans l’éducation et la formation. Par conséquent, ce plan se détache point du cadre de développement des stratégies de lutte contre la pauvreté et met l’accent sur l’accroissement des possibilités pour les enfants, les femmes et les hommes d’obtenir un emploi et un revenu convenables. Parmi ces possibilités, il y a sans conteste la protection sociale de tous les usagers du système éducatif.
 
 Il convient de souligner que l’approche intégrée et participative a sous-tendu toutes les phases d’élaboration du PNA-EPT. Car il est apparu nécessaire d’impliquer tous les acteurs de la vie nationale ainsi que les partenaires internationaux en vue de mieux préparer la mise en œuvre et le suivi-évaluation du programme de manière collégiale.
 
@@ -234,9 +233,9 @@ Le plan est subdivisé en cinq sections portant sur des thèmes spécifiques :
 - la seconde présente le cadre d’action et met en relief les domaines, les objectifs, les résultats, les stratégies susceptibles d’atteindre des résultats, les activités subséquentes et identifie clairement les parties prenantes et les modalités d’intervention ;
 - la troisième consacrée au cadre des ressources fait état des besoins, de la possibilité de mobilisation des ressources, spécifie le mécanisme de coordination et définit les besoins prioritaires ;
 - la quatrième expose la mise en œuvre qui comprend les programmes, les structures et les modalités ;
-- la cinquième enfin définit le cadre de suivi-évaluation et précise les indicateurs d’appréciation des résultats, de suivi et des mécanismes.
+- la cinquième enfin définit le cadre de suivi-évaluation en précisant les indicateurs d’appréciation des résultats, de suivi et des mécanismes.
 
-Des différentes articulations de ce document, il ressort donc qu’aucun des maux qui gangrènent le système éducatif centrafricain si longtemps depuis des décennies n’a été laissé sous silence et que surtout des actions correctives vigoureuses et ambitieuses ont été préconisées pour améliorer le système. Des tableaux synoptiques donnent un aperçu synthétique de l’ensemble des défis, des obstacles, des stratégies, des activités et indiquent les structures de domiciliation institutionnelle de ces activités, le chronogramme d’exécution, les coûts et les indicateurs de résultats. Le souci permanent qui a guidé l’équipe de rédaction était non seulement l’efficacité, la pertinence des analyses, les propositions d’actions mais surtout la lisibilité et la faisabilité de ces dernières.
+Des différentes articulations de ce document, il ressort donc qu’aucun des maux qui gangrènent le système éducatif centrafricain n’ont été laissés sous silence et que surtout des actions correctives vigoureuses et ambitieuses ont été préconisées pour améliorer le système. Des tableaux synoptiques donnent un aperçu synthétique de l’ensemble des défis, des obstacles, des stratégies, des activités et indiquent les structures de domiciliation institutionnelle de ces activités, le chronogramme d’exécution, les coûts et les indicateurs de résultats. Le souci permanent qui a guidé l’équipe de rédaction était non seulement l’efficacité, la pertinence des analyses, les propositions d’actions mais surtout la lisibilité et la faisabilité de ces dernières.
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
 6
@@ -262,7 +261,7 @@ Sous-sol : Importantes potentialités minérales :
 - Indices de fer, uranium, pétrole, étain, cuivre, etc.
 Hydrographie : 2 bassins :
 - Bassin de l’Oubangui au Sud (le Mbomou, Kotto et Lobaye) ;
-- Bassin du Tchad au Nord (l’Ouham, Pendé, Bar-Aouk)
+- Bassin du Tchad au Nord (l’Ouham, Péndé, Bar-Aouk)
 Climat : 3 types de climat :
 - Climat Equatorial au Sud (plus de 1500 mm d’eau)
 - Climat inter-tropical au Centre (entre 1000 et 1500)
@@ -331,7 +330,7 @@ Capitale Bangui
 Indicateurs économiques
 PIB (en 1999) : 684 milliards de F.CFA
 PIB/hab (1999) : 180.931 F. CFA
-Taux de croissance du PIB (1999) : 3,5 %
+Taux de croissance du PIB (1999) : 3,5%
 Indice de Développement Humain (2002) : 0,342 (165ème /173 pays)
 Poids de la dette : Plus de 90 % des recettes propres de l’Etat
 
@@ -339,9 +338,9 @@ Indicateurs de santé
 5 centres anti-lèpre
 21.342 hab/médecin ; 7189 hab/formation sanitaire
 1 lit pour 800 habitants
-55 % des enfants 0-4 ans ont souffert du paludisme (2000)
-37 % des enfants 0-4 ans ont souffert de diarrhée (1998)
-55 % de la population a accès à l’eau potable
+55% des enfants 0-4 ans ont souffert du paludisme (2000)
+37% des enfants 0-4 ans ont souffert de diarrhée (1998)
+55% de la population a accès à l’eau potable
 
 Diagnostic du secteur de l’éducation
 a) Enseignement Préscolaire : 175 jardins d’enfants, 30 écoles maternelles à Bangui et 5 en province
@@ -383,14 +382,14 @@ CARACTERISTIQUES PHYSIQUES ET HUMAINES DE LA RCA
 - Primaire : 26.243 élèves (9.512 filles), 211 écoles, 561 salles de classe, 229 enseignants qualifiés (18 femmes), 232 enseignants non qualifiés (21 femmes), 22.078 table-banc ;
 - Secondaire : 4 lycées et 3 collèges d’enseignement général
 
-TOTAL RCA : Primaire : 335.500 élèves (136.879 filles), 1.433 écoles, 4.730 salles de classe, 2.492 enseignants qualifiés (435 femmes), 2.092 enseignants non qualifiés (413 femmes), 191.945 tables
-Taux brut de scolarisation au primaire : Ensemble = 56 % ; Masculin = 65 % ; Filles = 47 %
-Taux Net de Scolarisation au primaire 2001 : Ensemble = 40 % ; Garçons = 46 % ; Filles = 34 %
-Taux brut de scolarisation au secondaire : Ensemble = 9 % ; masc. = 11,3 % ; Féminin = 7 %
-Taux de déperdition au primaire : ensemble = 32 % ; garçons = 32 % ; filles = 33 %
-Taux de déperdition au secondaire : ensemble = 26 % ; garçons = 25 % ; filles = 28 %
-Parité filles/garçons au primaire = 0,68
-Parité filles/garçons au secondaire = 0,62
+TOTAL RCA : Primaire : 335.500 élèves (136.879 filles), 1.433 écoles, 4.730 salles de classe, 2.492 enseignants qualifiés (435 femmes), 2092 enseignants non qualifiés (413 femmes), 191.945 tables
+Taux brut de scolarisation au primaire : Ensemble=56 % ; Masculin=55%, Filles=47 %
+Taux Net de Scolarisation au primaire 2001 : Ensemble =40 % ; Garçons=46%, Filles=34%
+Taux brut de scolarisation au secondaire : Ensemble=9% masculin=11,3% ; Féminin 7%
+Taux de déperdition au primaire : ensemble =32% ; garçons =32% ; filles=33%
+Taux de déperdition au secondaire : ensemble =26 % ; garçons=25% ; filles=27%
+Parité filles/garçons au primaire =0,68
+Parité filles/garçons au secondaire =0,62
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
 9
@@ -417,15 +416,15 @@ Les facteurs suivants sont à la base de cette situation.
 
 L’enclavement du pays lui impose des difficultés à la fois internes et externes. Sur le plan extérieur, l’accès aux marchés européens passe par les ports de Pointe Noire au Congo et de Douala au Cameroun situés tous deux à plus de 1200 kilomètres de Bangui, capitale et principal centre économique du pays.
 
-Sur le plan intérieur, le réseau routier peu développé et mal entretenu pénalise le développement des échanges intérieurs. Le transport aérien, avec un coût élevé, ne constitue qu’une solution palliative. L’étroitesse du marché intérieur ainsi que l’intégration sous régionale est une faiblesse critique pour le pays. La faible monétarisation et bancarisation de l’économie du pays ne facilite pas le développement des marchés intérieurs.
+Sur le plan intérieur, le réseau routier peu développé et mal entretenu pénalise le développement des échanges intérieurs. Le transport aérien, avec un coût élevé constitue qu’une solution palliative. L’étroitesse du marché intérieur ainsi que l’intégration sous régionale une jeu critique pour le pays. La faible monétarisation et bancarisation de l’économie du pays ne facilite pas le développement des marchés intérieurs.
 
 La faiblesse de l’épargne nationale limite considérablement les capacités nationales de participation aux investissements publics.
 
 1.2.2. Contexte socio-politique
 
-Le contexte social est marqué par la pauvreté monétaire des ménages (62 % des familles vivent en dessous du seuil mondial de pauvreté de 1 $ US par jour par personne). Cela constitue un des principaux obstacles à l’accès de la population aux services sociaux, notamment l’accès des enfants à l’école. A cela s’ajoutent les grèves à répétition dues essentiellement à la précarité des conditions de vie des travailleurs et aux inégalités sociales.
+Le contexte social est marqué par la pauvreté monétaire des ménages (62% des familles vivent en dessous du seuil mondial de pauvreté de 1$US par jour par personne). Cela constitue un des principaux obstacles à l’accès de la population aux services sociaux, notamment l’accès des enfants à l’école. A cela s’ajoutent les grèves à répétition dues essentiellement à la précarité des conditions de vie des travailleurs et aux inégalités sociales.
 
-A partir de 1995, la résurgence des déséquilibres budgétaires du fait de la non maîtrise des dépenses publiques a ramené la situation à la case de départ à savoir, celle des tensions sociales et de violentes turbulences ayant servi de détonateur aux mutineries successives d’Avril et Mai 1996. Ces mutineries ont porté un coup sévère au processus de redressement économique, notamment par la destruction des bâtiments administratifs ainsi que des divers autres moyens de travail de l’administration et du secteur privé. C’est donc dans un contexte macro-économique assez difficile et marqué par des soubresauts politiques, des tensions sociales et par l’absence de performances économiques que le pays a évolué depuis bientôt une quarantaine d’années.
+A partir de 1995, la résurgence des déséquilibres budgétaires du fait de la non maîtrise des dépenses publiques a ramené la situation à la case de départ à savoir, celle des tensions sociales et des violentes turbulences ayant servi de détonateur aux mutineries successives d’Avril et Mai 1996. Ces mutineries ont porté un coup sévère au processus de redressement économique, notamment par la destruction des bâtiments administratifs ainsi que des divers autres moyens de travail de l’administration et du secteur privé. C’est donc dans un contexte macro-économique assez difficile et marqué par des soubresauts politiques, des tensions sociales et par l’absence de performances économiques que le pays a évolué depuis bientôt une quarantaine d’années.
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
 10
@@ -438,19 +437,19 @@ République Centrafricaine
 
 1.2.3. Contexte macro-économique
 
-Depuis 1991, la situation économique du pays ne s’est guère améliorée de manière durable. Pire, le processus de démocratisation avec les perturbations qu’il a connu ont porté un coup sévère aux activités économiques. Les longues périodes de grève ont paralysé et dégradé l’efficience des services de l’administration publique et du secteur privé. Le PIB réel a connu une baisse importante de 6 % environ suite à une importante chute de la production des cultures de rente. Les échanges extérieurs ont considérablement régressé avec une baisse des exportations plus accentuée que celle des importations. Le déficit budgétaire s’est aggravé du fait du faible taux de recouvrement des ressources de l’Etat.
+Depuis 1991, la situation économique du pays ne s’est guère améliorée de manière durable. Pire, le processus de démocratisation avec les perturbations qu’il a connu ont porté un coup sévère aux activités économiques. Les longues périodes de grève ont paralysé et dégradé l’efficience des services de l’administration publique et du secteur privé. Le PIB réel a connu une baisse importante de 6% environ suite à une importante chute de la production des cultures de rente. Les échanges extérieurs ont considérablement régressé avec une baisse des exportations plus accentuée que celle des importations. Le déficit budgétaire s’est aggravé du fait du faible taux de recouvrement des ressources de l’Etat.
 
-La crise économique et financière persiste et érode l’espoir d’une croissance soutenue. Elle n’a même pu être jugulée par la mutation politique remarquable de 1993. Au contraire, elle s’est aggravée avec la dévaluation du Franc CFA en Janvier 1994 et a même amené le nouveau gouvernement à mettre en œuvre un programme de redémarrage visant l’assainissement des finances publiques, la réhabilitation des secteurs de l’éducation et de la santé ainsi que la relance du secteur productif. Il a même été enregistré, suite à la dévaluation du Franc CFA, une éphémère amélioration de la situation économique du pays : le taux de croissance du PIB étant passé de - 2,6 % en 1993 à 7,4 % en 1994. Malheureusement, ce léger progrès s’est révélé insuffisant eu égard à l’ampleur du dysfonctionnement.
+La crise économique et financière persiste et érode l’espoir d’une croissance soutenue. Elle n’a même pas été jugulée par la mutation politique remarquable de 1993. Au contraire, elle s’est aggravée avec la dévaluation du Franc CFA en Janvier 1994 et a même amené le nouveau gouvernement à mettre en œuvre un programme de redémarrage visant l’assainissement des finances publiques, la réhabilitation des secteurs de l’éducation et de la santé ainsi que la relance du secteur productif. Il a même été enregistré, suite à la dévaluation du Franc CFA, une éphémère amélioration de la situation économique du pays : le taux de croissance du PIB étant passé de -2,6% en 1993 à 7,4% en 1994. Malheureusement, ce léger progrès s’est révélé insuffisant eu égard à l’ampleur du dysfonctionnement.
 
-L’endettement du pays s’est accru passant de 61 Milliards de Francs CFA en 1981 à 122 Milliards de Francs CFA en 1984 représentant 40 % du PIB et s’est aggravé en 2000, atteignant 853 millions de dollars US soit 597,1 milliards de francs CFA. Les services annuels de la dette représentent au moins 27 % des recettes d’exportation et plus de 80 % du PIB. Le remboursement de la dette freine les investissements de l’Etat dans les domaines sociaux.
+L’endettement du pays s’est accru passant de 61 Milliards de Francs CFA en 1981 à 122 Milliards de Francs CFA en 1984 représentant 40% du PIB et s’est aggravé en 2000, atteignant 853 millions de dollars US soit 597,1 milliards de francs CFA. Les services annuels de la dette représentent au moins 27% des recettes d’exportation et plus de 80% du PIB. Le remboursement de la dette freine les investissements de l’Etat dans les domaines sociaux.
 
 1.3. Situation du secteur
 
-1.3.1. Enseignement préscolaire
+1.3.1 Enseignement préscolaire
 
-Les progrès réalisés depuis l’indépendance jusqu’à ce jour sont très peu importants. Le nombre d’enfants scolarisés n’atteint pas 4.000 enfants au niveau national.
+Les progrès réalisés depuis l’indépendance jusqu’à ce jour sont très peu importants. Le nombre d’enfants scolarisés n’atteint pas 4.000 enfants au niveau national.(1)
 
-Le taux brut de scolarisation au niveau national reste faible : 1,9 % pour un effectif de 9.106 enfants de 3 à 5 ans scolarisés.
+Le taux brut de scolarisation au niveau national reste faible : 1,9% pour un effectif de 9.106 enfants de 3 à 5 ans scolarisés.(2)
 
 Le nombre d’enfants inscrits au préscolaire n’a pas évolué en raison du manque ou de l’insuffisance d’infrastructures d’accueil à travers le pays d’une part et d’autre part de la méconnaissance des objectifs poursuivis par l’Ecole Maternelle (E.M.) par les parents. Ceux-ci refusent d’inscrire leurs enfants de moins de 6 ans dans un établissement préscolaire pour des raisons de distance, ce qui explique les faibles taux d’inscription. Malgré l’autorisation de l’ouverture des écoles préscolaires privées, les effectifs demeurent encore très bas.
 
@@ -465,7 +464,7 @@ Les jardins d’enfants accueillent jusqu’à ce jour des enfants de 4 à 5 ans
 Le personnel au niveau des jardins d’enfants, aussi bien dans le public que dans le privé est formé sur le tas. A l’opposé, le personnel enseignant des écoles maternelles est qualifié.
 
 1 - Annuaire Statistique de L’Education Nationale 2000-2001
-2 - Rapport final MICS2000 RCA
+2 - Rapport final MICS 2000 RCA
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
 11
@@ -510,11 +509,11 @@ IAO | 54.024 | 672 | 257 | 332 | 701
 IASE | 26.243 | 446 | 211 | 281 | 561
 RCA | 335.500 | 4.565 | 1.407 | 2.147 | 4.732
 
-De ce tableau, il ressort que les 335 500 élèves fréquentent 1.407 écoles soit une moyenne de 238 élèves par établissement scolaire. Ils sont pris en charge par 4.565 enseignants soit un ratio de 74/1 par classe et un ratio de 71 par salle au niveau national.
+De ce tableau il ressort que les 335.500 élèves fréquentent 1.407 écoles soit une moyenne de 238 élèves par établissement scolaire. Ils sont pris en charge par 4.565 enseignants soit un ratio de 74/1 par classe et un ratio de 71 par salle au niveau national.
 
-Entre la capitale Bangui et le reste des préfectures, il y a un profond clivage. Par exemple, Bangui la capitale regroupe presque les 19 % des établissements, comprend le 1/3 des effectifs scolaires et totalise quasiment les 40 % des enseignants.
+Entre la capitale Bangui et le reste des préfectures, il y a un profond clivage. Par exemple, Bangui la capitale regroupe presque les 19% des établissements, comprend le 1/3 des effectifs scolaires et totalise quasiment les 40% des enseignants.
 
-Dans l’ensemble, le taux brut d’admission au CI n’est que de 37 % : 1 enfant de 6 ans sur 3 est inscrit à l’école. Le taux brut de scolarisation au titre de l’année académique 2000-2001 est de 55,88 %. Cela signifie qu’à peine 1 enfant sur 2 peut accéder aux services éducatifs du Fondamental 1. Par rapport à la pression démographique, la capacité de l’offre est insuffisante.
+Dans l’ensemble, le taux brut d’admission au CI n’est que de 37% : 1 enfant de 6 ans sur 3 est inscrit à l’école. Le taux brut de scolarisation au titre de l’année académique 2000-2001 est de 55,88%. Cela signifie qu’à peine 1 enfant sur 2 peut accéder aux services éducatifs du Fondamental 1. Par rapport à la pression démographique, la capacité de l’offre est insuffisante.
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
 12
@@ -525,13 +524,13 @@ Plan National d’Action  -  Education Pour Tous  2003 - 2015
 
 République Centrafricaine
 
-Le taux net de scolarisation quant à lui pour la même période est de 39,79 %. Ainsi, 1 enfant d’âge scolaire sur 3 est effectivement inscrit à l’école. Les parents et la société ont des efforts à faire pour que les enfants d’âge scolaire soient tous inscrits dans un établissement scolaire. Pour ce faire, le nombre des écoles doit être augmenté sur l’ensemble du territoire.
+Le taux net de scolarisation quant à lui pour la même période est de 39,79%. Ainsi, 1 enfant d’âge scolaire sur 3 est effectivement inscrit à l’école. Les parents et la société ont des efforts à faire pour que les enfants d’âge scolaire soient tous inscrits dans un établissement scolaire. Pour ce faire, le nombre des écoles doit être augmenté sur l’ensemble du territoire.
 
 Les établissements para-scolaires non formels ne sont pas comptabilisés parmi les écoles. Leurs effectifs qui peuvent moduler les indicateurs ci-dessus ne sont pas non plus pris en compte.
 
 La qualité de l’enseignement dépend des conditions de transmission et d’apprentissage. Les ratios élèves/Maître (74/1) et élèves/salle (71/1) donnent partiellement l’image des conditions de travail pour l’enseignant. En effet, avec ces grands effectifs, au bout d’un trimestre, l’enseignant ne connaîtra pas tous ses élèves. Dans les centres urbains, ces ratios moyens dépassent 100/1.
 
-Quant à ce qui concerne la qualification des enseignants, il se dégage que 46 % de ceux-ci ne sont pas qualifiés d’après l’article 55 de la Loi 97.094 du 10 Décembre 1997. Ceci pose le problème de la qualité des enseignements transmis aux élèves. Le tableau ci-dessous rend bien compte de cette situation.
+Quant à ce qui concerne la qualification des enseignants, il se dégage que 46% de ceux-ci ne sont pas qualifiés d’après l’article 55 de la Loi 97.094 du 10 Décembre 1997. Ceci pose le problème de la qualité des enseignements transmis aux élèves. Le tableau ci-dessous rend bien compte de cette situation.
 
 - Tableau 2 : Pourcentage des enseignants qualifiés, ratio élèves-livre de lecture, ratio élèves-livre de calcul, ratio élèves-tables-bancs par Inspection Académique
 
@@ -552,9 +551,9 @@ L’un des éléments qui influencent la qualité des connaissances est l’util
 
 En ce qui concerne les livres de calcul, ceux-ci font vraiment défaut. Le ratio moyen est de 3 élèves pour un livre. Dans certaines circonscriptions, ce ratio atteint 5 pour 1. L’objectif de 1 livre pour 1 élève est loin d’être atteint.
 
-Dans une salle de classe, pour suivre les enseignements, l’élève doit être bien installé. Malheureusement ce n’est pas le cas en Centrafrique car le ratio moyen donne 6 élèves pour une place. Donc ces conditions, l’apprentissage de l’écriture devient problématique. L’école devient une corvée que subit l’élève obligé alors de s’y rendre. Cette situation se caractérise par un taux moyen de redoublement de l’ordre de 25 % et un taux d’abandon d’environ 15 %. D’une manière globale, ces déperditions sont plus observées dans les trois premiers niveaux de l’enseignement fondamental-1. Ceci corrobore l’appréciation courante de baisse du niveau scolaire.
+Dans une salle de classe, pour suivre les enseignements, l’élève doit être bien installé. Malheureusement ce n’est pas le cas en Centrafrique car le ratio moyen donne 6 élèves pour une place. Donc ces conditions, l’apprentissage de l’écriture devient problématique. L’école devient une corvée que subit l’élève obligé alors de s’y rendre. Cette situation se caractérise par un taux moyen de redoublement de l’ordre de 25% et un taux d’abandon d’environ 15%. D’une manière globale, ces déperditions sont plus observées dans les trois premiers niveaux de l’enseignement fondamental-1. Ceci corrobore l’appréciation courante de baisse du niveau scolaire.
 
-Ces constats vont dans le même sens que les résultats de l’enquête à indicateurs multiples de 2000. D’après ce rapport, sur 100 enfants inscrits en 1ère année du F1, presque 12 % seulement atteignent le niveau 5 sans échec alors qu’à peine 7 % parviennent dans les mêmes conditions au niveau 6.
+Ces constats vont dans le même sens que les résultats de l’enquête à indicateurs multiples de 2000. D’après ce rapport, sur 100 enfants inscrits en 1ère année du F1, presque 12% seulement atteignent le niveau 5 sans échec alors qu’à peine 7% parviennent dans les mêmes conditions au niveau 6.
 
 - Disparité et inégalité
 
@@ -572,36 +571,36 @@ République Centrafricaine
 - Tableau 3 : Distribution des élèves, des écoles, des enseignants qualifiés, des salles de classe par Inspection Académique
 
 Inspection Académique | Elèves | Ecoles | Enseignants qualifiés | Enseignants non qualifiés | Salles
-IAB | 29 % | 8 % | 39 % | 19 % | 25 %
-IAC | 6 % | 8 % | 8 % | 6 % | 7 %
-IACE | 8 % | 11 % | 9 % | 10 % | 10 %
-IAS | 16 % | 15 % | 13 % | 15 % | 14 %
-IAN | 13 % | 21 % | 9 % | 17 % | 15 %
-IANE | 3 % | 4 % | 2 % | 3 % | 2 %
-IAO | 16 % | 18 % | 11 % | 18 % | 15 %
-IASE | 9 % | 15 % | 9 % | 12 % | 12 %
-RCA | 100 % | 100 % | 100 % | 100 % | 100 %
+IAB | 29% | 8% | 39% | 19% | 25%
+IAC | 6% | 8% | 8% | 6% | 7%
+IACE | 8% | 11% | 9% | 10% | 10%
+IAS | 16% | 15% | 13% | 15% | 14%
+IAN | 13% | 21% | 9% | 17% | 15%
+IANE | 3% | 4% | 2% | 3% | 2%
+IAO | 16% | 18% | 11% | 18% | 15%
+IASE | 9% | 15% | 9% | 12% | 12%
+RCA | 100% | 100% | 100% | 100% | 100%
 
-L’IAB a 29 % de l’effectif des élèves, 39 % des enseignants qualifiés et 25 % des salles de classe. L’IAS et l’IAO ont chacune 16 % de l’effectif des élèves et respectivement 13 % et 11 % des enseignants qualifiés contre 15 % et 18 % d’enseignants non qualifiés. Le poids des enseignants non qualifiés dépasse celui des élèves dans l’IAO (16 % et 18 %), l’IAN (13 % et 17 %) et l’IACE (8 % et 10 %). La dotation équitable des établissements en enseignants qualifiés permettra la recherche de la qualité de l’offre éducative.
+L’IAB a 29% de l’effectif des élèves, 39% des enseignants qualifiés et 25% des salles de classe. L’IAS et l’IAO ont chacune 16% de l’effectif des élèves et respectivement 13% et 11% des enseignants qualifiés contre 15% et 18% d’enseignants non qualifiés. Le poids des enseignants non qualifiés dépasse celui des élèves dans l’IAO (16% et 18%), l’IAN (13% et 17%) et l’IACE (8% et 10%). La dotation équitable des établissements en enseignants qualifiés permettra la recherche de la qualité de l’offre éducative.
 
 Le nombre important d’enseignants non qualifiés en province constitue une charge supplémentaire supportée directement par les parents d’élèves qui disposent déjà de très faibles revenus. Cette charge supplémentaire réduit la capacité de prise en charge des parents et affecte la qualité des apprentissages.
 
 - Tableau 4 : Taux de scolarisation par Inspection Académique
 
 Inspection Académique | TBS | TNS
-IAB | 85 % | 59 %
-IAC | 62 % | 43 %
-IACE | 31 % | 23 %
-IAS | 67 % | 45 %
-IAN | 41 % | 31 %
-IANE | 56 % | 41 %
-IAO | 58 % | 43 %
-IASE | 42 % | 31 %
-RCA | 56 % | 40 %
+IAB | 85% | 59%
+IAC | 62% | 43%
+IACE | 31% | 23%
+IAS | 67% | 45%
+IAN | 41% | 31%
+IANE | 56% | 41%
+IAO | 58% | 43%
+IASE | 42% | 31%
+RCA | 56% | 40%
 
-Du point de vue des taux de scolarisation, trois zones académiques ne peuvent pas, avec les services offerts, accueillir la moitié des enfants âgés de 6-11 ans. Il s’agit notamment de l’IACE (TBS=31 %), l’IAN (TBS=41 %) et l’IASE (TBS=42 %). Par contre, l’IANE et l’IAO ont chacune des taux qui n’atteignent même pas les 60 %. En un mot, sur toute l’étendue du territoire, la capacité d’accueil est une préoccupation quand l’équité est recherchée.
+Du point de vue des taux de scolarisation, trois zones académiques ne peuvent pas, avec les services offerts, accueillir la moitié des enfants âgés de 6-11 ans. Il s’agit notamment de l’IACE (TBS=31%), l’IAN (TBS=41%) et l’IASE (TBS=42%). Par contre, l’IANE et l’IAO ont chacune des taux qui n’atteignent même pas les 60%. En un mot, sur toute l’étendue du territoire, la capacité d’accueil est une préoccupation quand l’équité est recherchée.
 
-Les taux nets de scolarisation démontrent quant à eux que les enfants d’âge scolaire ne sont pas les cibles des services éducatifs. Des efforts accrus sont à développer dans les zones du Centre Est, du Nord et du Sud Est où il y a moins ou à peine 30 % des enfants d’âge scolaire qui sont inscrits.
+Les taux nets de scolarisation démontrent quant à eux que les enfants d’âge scolaire ne sont pas les cibles des services éducatifs. Des efforts accrus sont à développer dans les zones du Centre Est, du Nord et du Sud Est où il y a moins ou à peine 30% des enfants d’âge scolaire qui sont inscrits.
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
 14
@@ -627,13 +626,13 @@ Ensemble RCA | 1407 | 4732 | 136879 | 198621 | 335500 | 2057 | 435 | 2492 | 1679
 
 Le tableau ci-dessus, monté à partir des données de l’annuaire statistique de l’éducation nationale de l’année scolaire 2000-2001, donne un aperçu général du dispositif de l’enseignement primaire de la République Centrafricaine par zone académique.
 
-Ce niveau d’enseignement regroupe 335500 élèves répartis dans 1407 écoles dotées de 4732 salles de classe. Les enseignements sont dispensés par 4584 maîtres dont près de la moitié manquent de qualification. Il est à noter que la capitale Bangui rassemble à elle seule près du tiers des effectifs du primaire (29,23 %) et des enseignants de ce niveau (29,18 %).
+Ce niveau d’enseignement regroupe 335500 élèves répartis dans 1407 écoles dotées de 4732 salles de classe. Les enseignements sont dispensés par 4584 maîtres dont près de la moitié manquent de qualification. Il est à noter que la capitale Bangui rassemble à elle seule près du tiers des effectifs du primaire (29,23%) et des enseignants de ce niveau (29,18%).
 
 1.3.3. Enseignement secondaire
 
 L’enseignement secondaire dans le système d’éducation en RCA est subdivisé en deux (2) cycles :
 
-1°) Le premier cycle correspond au cycle des collèges d’Enseignement Général ou Technique qui, au terme de la réforme, est appelé “Fondamental-2”. Les études dans ce cycle débouchent sur le Brevet des Collèges (BC), les Certificats d’Aptitude Professionnelle (CAP), le Brevet d’Etudes Techniques (BET) et le Brevet Professionnel de l’Enseignement Technique (BPET).
+1°) Le premier cycle correspond au cycle des collèges d’Enseignement Général ou Technique qui, au terme de la réforme, est appelé ‘‘Fondamental-2’’. Les études dans ce cycle débouchent sur le Brevet des Collèges (BC), les Certificats d’Aptitude Professionnelle (CAP), le Brevet d’Etudes Techniques (BET) et le Brevet Professionnel de l’Enseignement Technique (BPET).
 
 2°) Le second cycle comprend les classes de seconde, première et terminale et offre deux types d’études secondaires à l’issue desquelles les élèves subissent l’examen du baccalauréat notamment :
 
@@ -673,7 +672,7 @@ République Centrafricaine
 
 4°) Inspection d’Académie du Centre-Sud
 
-9 établissements dont 2 lycées et 7 Collèges d’enseignement général
+9 établissements dont 2 lycées et 7 collèges d’enseignement général
 
 5°) Inspection d’Académie de l’Ouest
 
@@ -699,11 +698,11 @@ De toutes les académies, seule celle de Bangui abrite trois établissements tec
 
 - L’alphabétisation fonctionnelle
 
-Le concept d’alphabétisation fonctionnelle signifie un dépassement de l’apprentissage rudimentaire de la lecture et de l’écriture, souvent insuffisant et parfois illusoire.
+Le concept d’alphabétisation fonctionnelle signifie un dépassement de l’apprentissage rudimentaire de la lecture et de l’écriture, souvent insuffisante et parfois illusoire.
 
-L’alphabétisation doit comporter un enseignement qui permette à l’analphabète, dépassé par l’évolution actuelle et producteur insuffisant, de s’intégrer socialement et économiquement dans un monde nouveau où les progrès techniques et scientifiques exigent de plus en plus de connaissances et spécialisations. C’est une alphabétisation orientée vers le travail. L’alphabétisation fonctionnelle devient une stratégie de libération. Il ne s’agit plus de déchiffrer les mots mais de déchiffrer le monde.
+L’alphabétisation doit comporter un enseignement qui permette à l’analphabète, dépassé par l’évolution naturelle et producteur insuffisant, de s’intégrer socialement et économiquement dans un monde nouveau où les progrès techniques et scientifiques exigent de plus en plus de connaissances et spécialisations. C’est une alphabétisation orientée vers le travail. L’alphabétisation fonctionnelle devient une stratégie de libération : il ne s’agit plus de déchiffrer les mots mais de déchiffrer le monde.
 
-En République Centrafricaine, avec un taux cumulé d’analphabètes estimé à 50,85 %, l’alphabétisation fonctionnelle apparaît comme une nécessité. Malheureusement, ce secteur d’activités est confronté à de sérieux problèmes : insuffisance de centres d’alphabétisation, insuffisance de formateurs, non suivi des néo-alphabètes, manque de matériels didactiques.
+En République Centrafricaine, avec un taux cumulé d’analphabètes estimé à 50,75 %(3), l’alphabétisation fonctionnelle apparaît comme une nécessité. Malheureusement, ce secteur d’activités est confronté à de sérieux problèmes : insuffisance de centres d’alphabétisation, insuffisance de formateurs, non suivi des néo-alphabètes, manque de matériels didactiques.
 
 L’alphabétisation visera à mettre en œuvre un mécanisme pour éviter l’analphabétisme de retour (illettrisme), à rendre équitable l’accès à l’alphabétisme en faveur des groupes défavorisés (filles, femmes, enfants de la rue), à renforcer les acquis de l’alphabétisation en développant le goût de la lecture.
 
@@ -736,13 +735,13 @@ La multiplication de ces structures d’encadrement permettra d’accueillir les
 
 Les écoles communautaires de base constituent à n’en point douter, la traduction dans les faits de l’une des recommandations des Etats Généraux de l’Education et de la Formation de 1994. Ces assises avaient formulé entre autres souhaits le développement des alternatives d’éducation de base. C’est ainsi que le Département de l’Education Nationale appuyé par l’UNICEF a initié cette expérience dans la Nana Gribizi.
 
-Ces écoles, de type non formel, ont été implantées dans l’optique de contribuer à relever le taux de scolarisation en général et celui des filles en particulier, avérés le plus bas par rapport aux autres régions du pays.
+Ces écoles, de type non formel, ont été implantées dans l’optique de contribuer à relever le taux de scolarisation en général et celui des filles en particulier, avéré le plus bas par rapport aux autres régions du pays.
 
 Cette expérimentation qui se déroule dans la Nana Gribizi a très vite été répliquée dans l’Ouham pour la simple raison qu’il y a eu une forte demande des populations.
 
 Ces écoles communautaires de base ont pour objet de recruter les enfants de 8 à 15 ans non scolarisés ou déscolarisés et leur faire acquérir des capacités à lire, à écrire à compter et à résoudre des problèmes simples de la vie quotidienne. Les apprenants sont répartis dans deux cycles. Les plus jeunes (8-11 ans) reçoivent une formation en trois ans avec comme langues d’enseignement : le Sango et le Français. A la fin du cycle, ils subissent un test à la faveur duquel les récipiendaires obtiennent la passerelle qui les conduit au CM1 du système formel. Les plus âgés (12-15 ans) ont un cycle de deux ans au cours duquel ils bénéficient d’un apprentissage de petits métiers pour leur insertion sociale harmonieuse.
 
-Cette initiative, quoique embryonnaire, est une preuve de la détermination de l’Etat à mener une lutte acharnée contre l’analphabétisme. Selon les tableaux de bord social du Ministère du Plan, cette expérimentation a contribué à relever le taux de scolarisation de 30 à 44 % sur une période de cinq ans (1997-2001) dans la zone de démonstration.
+Cette initiative, quoique embryonnaire, est une preuve de la détermination de l’Etat à mener une lutte acharnée contre l’analphabétisme. Selon les tableaux de bord social du Ministère du Plan, cette expérimentation a contribué à relever le taux de scolarisation de 30 à 44% sur une période de cinq ans (1997-2001) dans la zone de démonstration.
 
 - L’accès
 
@@ -781,9 +780,9 @@ L’un des outils pertinents d’appréciation de la qualité des enseignements 
 
 Il aurait été judicieux de doter ces organes de cadres totalement déchargés et disponibles dont la mission exclusive consisterait à mener des réflexions sur les orientations, la mise en œuvre, le contrôle bref, à assurer la gestion de cette innovation. Ce qui sous-tend la création de postes budgétaires dans le plan d’effectif du département si le gouvernement veut utiliser les grands moyens pour réduire l’analphabétisme. Il lui faudrait en outre rechercher et développer un partenariat agissant pour la mobilisation des ressources matérielles et financières à la vulgarisation de cette nouvelle école.
 
-- Les ressources
+- La gestion
 
-Les ressources humaines, matérielles et financières sont mises à disposition de ces écoles non formelles respectivement par le Ministère de l’Education Nationale, l’UNICEF et les communautés.
+Les ressources humaines, matérielles et financières sont mis à disposition de ces écoles non formelles respectivement par le Ministère de l’Education Nationale, l’UNICEF et les communautés.
 
 Le Ministère de l’Education fournit l’expertise technique par la désignation des cadres qui élaborent les programmes, assurent la formation des maîtres, la mise en œuvre des activités du projet, le suivi et l’évaluation. La contribution de l’Etat se mesure rien que par la mise à disposition du projet de l’assistance technique.
 
@@ -791,7 +790,7 @@ L’UNICEF, unique Bailleur malheureusement, apporte un appui en mobilier, maté
 
 Les Communautés, quant à elles, ont pour rôle de rassembler les agrégats pour la construction des bâtiments scolaires et prendre en charge financièrement les prestations des maîtres. C’est à ce niveau que le bât blesse car les paysans à qui est dévolu cette tâche ont des revenus extrêmement faibles qui ne leur permettent nullement d’y faire face. Voilà qui augure de la chute du projet à court ou moyen terme. En plus, les structures ou institutions pouvant assurer la phase de post-projet ou de post-alphabétisation ne sont pas encore identifiées.
 
-- Les contenus thématiques
+- Autres innovations
 
 En ce début du 3ème millénaire marqué par de profondes mutations au sein de nos sociétés, les hommes en général et en particulier les jeunes se trouvent confrontés à des problèmes nouveaux de comportement, de santé et de bien-être. De ce fait émergent chez les adolescents et adolescentes des attentes et besoins inédits auxquels les systèmes éducatifs ne répondent que partiellement.
 
@@ -818,24 +817,24 @@ La création des centres de formation continue pour jeunes et adultes, de centre
 
 1.4. Les problèmes majeurs de l’enseignement
 
-1.4.1 - Le faible taux de couverture (accès)
+1.4.1- Le faible taux de couverture (accès)
 
 Les données statistiques font apparaître d’énormes disparités entre les genres et les régions :
-- L’enseignement primaire se caractérise par une très faible scolarisation. Le taux net de scolarisation (TNS) se situe aujourd’hui à 39,79 %. Il en résulte que 60,2 % d’enfants de 6 à 11 ans ne sont pas scolarisés dans les classes correspondant à leur âge. Cette situation s’explique par l’insuffisance du dispositif scolaire sur l’ensemble du territoire national ainsi que par le manque de personnel enseignant ; ce qui restreint la capacité d’accueil du système et en limite l’accès. A titre d’illustration, le déficit réel du personnel enseignant au titre de l’année académique 2000/2001 est de 2.450.
+- L’enseignement primaire se caractérise par une très faible scolarisation. Le taux net de scolarisation (TNS) se situe aujourd’hui à 39,79%. Il en résulte que 60,2% d’enfants de 6 à 11 ans ne sont pas scolarisés dans les classes correspondant à leur âge. Cette situation s’explique par l’insuffisance du dispositif scolaire sur l’ensemble du territoire national ainsi que par le manque de personnel enseignant ; ce qui restreint la capacité d’accueil du système et en limite l’accès. A titre d’illustration, le déficit réel du personnel enseignant au titre de l’année académique 2000/2001 est de 2.450.
 
-On note également un faible TBS, 55,88 % en 2000 - 2001 avec une forte disparité filles-garçons qui est de 64,88 % pour les garçons et 46,44 % pour les filles. Au secondaire et technique, le TBS est plus criard. En moyenne 9,21 % pour l’ensemble du pays dont 11,32 % pour les garçons et 7,10 % pour les filles.
+On note également un faible TBS, 55,88% en 2000-2001 avec une forte disparité filles-garçons qui est de 64,88% pour les garçons et 46,44 pour les filles. Au secondaire et technique, le TBS est plus criard. En moyenne 9,21% pour l’ensemble du pays dont 11,32% pour les garçons et 7,10% pour les filles.
 
-Le taux de déperdition au primaire est de 32 % alors qu’il est de 26 % au secondaire. Les taux de déperdition scolaire des filles au fondamental-1 et fondamental-2 sont supérieurs à ceux des garçons et l’indice de parité est de 0,68 au F1 et 0,60 au F2. Les filles du milieu rural sont nettement moins scolarisées que celles de Bangui et des grandes villes de province. Les causes de ces déperditions scolaires sont la pauvreté des parents, l’échec scolaire, les us et coutumes, l’éloignement des écoles, le manque de structures d’accueil, etc.
+Le taux de déperdition au primaire est de 32% alors qu’il est de 26% au secondaire. Les taux de déperdition scolaire des filles au fondamental-1 et fondamental-2 sont supérieurs à ceux des garçons et l’indice de parité est de 0,68 au F1 et 0,60 au F2. Les filles du milieu rural sont nettement moins scolarisées que celles de Bangui et des grandes villes de province. Les causes de ces déperditions scolaires sont la pauvreté des parents, l’échec scolaire, les us et coutumes, l’éloignement des écoles, le manque de structures d’accueils, etc.
 
 Le poids de ces facteurs se fait lourdement sentir sur le ratio classe/élèves qui est de 1/120 en moyenne. Il atteint et dépasse 1/240 en certains endroits à cause du mode de fonctionnement des cours dits à mi-temps, ou à tiers-temps, caractérisé par l’utilisation d’une même salle par plusieurs promotions d’élèves.
 
-A cela s’ajoute la pénurie en matériels didactiques et en mobiliers qui persiste et s’accentue. Les autres écueils qui contribuent beaucoup à affaiblir le système éducatif centrafricain sont les différentes formes de déperdition (redoublement, abandon) dont les taux assez élevés de 23 % de moyenne et surtout chez les filles où ils sont de 34 % constituent une réelle préoccupation du gouvernement.
+A cela s’ajoute la pénurie en matériels didactiques et en mobiliers qui persiste et s’accentue. Les autres écueils qui contribuent beaucoup à affaiblir le système éducatif centrafricain sont les différentes formes de déperdition (redoublement, abandon) dont les taux assez élevés de 23% de moyenne et surtout chez les filles où ils sont de 34% constituent une réelle préoccupation du gouvernement.
 
 L’insuffisance d’un système d’enseignement technique et de formation professionnelle, condition indispensable de toute réussite en matière de développement favorise l’émergence des établissements d’enseignement général.
 
 Ainsi, l’un des défis majeurs à relever par le gouvernement centrafricain est non seulement d’offrir aux jeunes une éducation de qualité mais aussi et surtout l’accès aux filières de formation technique et professionnelle.
 
-Un tel défi est de taille lorsqu’on sait que le jeune doit être formé dans l’optique de devenir un adulte responsable et pouvoir s’autogérer afin d’assurer son épanouissement individuel.
+Un tel défi est de taille lorsqu’on sait que le jeune doit être formé dans l’optique de devenir un adulte responsable et pouvoir s’auto gérer afin d’assurer son épanouissement individuel.
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
 19
@@ -855,7 +854,7 @@ Cette loi pose notamment les principes et règles suivants :
 - la garantie de l’accès libre à l’instruction, à la culture et à la formation professionnelle sans considération de sexe, de rang social, d’ethnie, de religion ou d’appartenance politique ;
 - la laïcité de l’éducation ;
 - la scolarisation obligatoire de 6 à 16 ans ;
-- l’affirmation que « la nation fixe comme priorité l’éducation de base et comme objectifs d’améliorer la scolarisation des filles et de parvenir à terme à la scolarisation pour tous » (art. 8)
+- l’affirmation que « la nation fixe comme priorité l’éducation de base et comme objectifs d’améliorer la scolarisation des filles et de parvenir à terme à la scolarisation pour tous » (art. 8)(1)
 
 1 Source : Situation de l’enfant et de la femme en Centrafrique, UNICEF, Bangui 2001
 
@@ -868,7 +867,7 @@ Plan National d’Action  -  Education Pour Tous  2003 - 2015
 
 République Centrafricaine
 
-SECTION II : CADRE D’ACTIONS
+SECTION 2 : CADRE D’ACTIONS
 
 2.1. Les domaines d’actions
 
@@ -878,40 +877,35 @@ Les domaines d’actions du secteur de l’éducation sont identifiés, regroup�
 
 2.2.1 Objectifs nationaux
 
-Les objectifs nationaux définis par les Etats Généraux de l’Education et de la Formation et réitérés par le Plan National de Développement de l’Education ont été adoptés et promulgués par la Loi d’orientation de l’éducation. Ces objectifs sont de deux types : généraux et spécifiques.
+Les objectifs nationaux définis par les Etats Généraux de l’Education et de la Formation et entérinés par le Plan National de Développement de l’Education ont été adoptés et promulgués par la Loi d’orientation de l’éducation. Ces objectifs sont de deux types : généraux et spécifiques.
 
 2.2.2 Objectifs généraux
 
-- La qualité
+La qualité
 
 Elle vise la maîtrise des éléments fondamentaux du programme d’enseignement et les pratiques utiles dans la vie active par les apprenants.
 
-- L’efficacité
+L’efficacité
 
 Il s’agit d’établir une cohérence entre les besoins de l’économie nationale et les contenus des programmes d’enseignement.
 
-- L’accessibilité
+L’accessibilité
 
 L’accès dans les trois niveaux d’enseignement (préscolaire, primaire, secondaire) au niveau local, régional et national.
 
-- L’équité
+L’équité
 
-Cet objectif vise la réduction des inégalités de genre (filles/garçons) et les disparités locales, régionales.
-
-Il s’agit de promouvoir la scolarisation des filles et rétablir l’équilibre par des actions vigoureuses.
+Cet objectif vise la réduction des inégalités de genre (filles/garçons) et les disparités locales, régionales. Il s’agit de promouvoir la scolarisation des filles et rétablir l’équilibre par des actions vigoureuses.
 
 2.2.3 Objectifs spécifiques par niveau
 
-- Le préscolaire :
-
+Le préscolaire :
 Améliorer quantitativement et qualitativement le système existant, harmoniser et uniformiser son mode de fonctionnement et de gestion.
 
-- L’enseignement primaire.
-
+L’enseignement primaire.
 Cet ordre d’enseignement a mission de former les jeunes de 6 - 16 ans à l’acquisition du programme d’enseignement général et de la formation pratique adaptée au milieu. Le niveau actuel de scolarisation sera amélioré à travers l’élargissement de l’accès aux groupes défavorisés.
 
-- L’enseignement secondaire
-
+L’enseignement secondaire
 Tout en préparant les élèves pour la poursuite des études supérieures un accent particulier est mis sur l’enseignement scientifique, technique, agricole et agro-pastoral pour au moins les 3/4 ou la moitié des élèves engagés dans ce cycle.
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
@@ -923,11 +917,11 @@ Plan National d’Action  -  Education Pour Tous  2003 - 2015
 
 République Centrafricaine
 
-- L’éducation non formelle
+L’éducation non formelle
 
 Eliminer l’analphabétisme des jeunes et des adultes en assurant leur éducation en coordination avec l’enseignement fondamental-2 et secondaire pour relever le faible taux d’alphabétisme à travers un programme d’alphabétisation fonctionnelle renforcé.
 
-2.2.4. Les objectifs de l’EPT
+2.2.4 Les objectifs de l’EPT
 
 Le cadre d’actions présente par domaines prioritaires, les six (6) objectifs de l’EPT ainsi qu’un septième appelé transversal, les résultats attendus, les principaux obstacles, les stratégies de mise en œuvre, les grandes étapes de la mise en œuvre, les parties prenantes et les modalités d’intervention.
 
@@ -935,7 +929,7 @@ Le but de l’EPT est de réaliser d’ici 2015, le développement humain durabl
 
 1- Développer et améliorer sur tous leurs aspects, la protection et l’éducation de la petite enfance et notamment les enfants les plus vulnérables et défavorisés ;
 
-2- Faire en sorte que d’ici 2015, tous les enfants notamment les filles y compris les plus pauvres, les enfants qui travaillent et les enfants ayant les besoins spécifiques suivent jusqu’à son terme, un enseignement primaire de qualité ;
+2- Faire en sorte que d’ici 2015, tous les enfants notamment les filles y compris les plus pauvres, les enfants qui travaillent et les enfants ayant les besoins spécifiques suivent jusqu’à son terme, un enseignement primaire de qualité.
 
 3- Répondre aux besoins éducatifs de tous les jeunes en assurant un accès équitable à des programmes appropriés ayant pour objet, l’acquisition des connaissances et des compétences nécessaires dans la vie courante ;
 
@@ -949,16 +943,16 @@ Le but de l’EPT est de réaliser d’ici 2015, le développement humain durabl
 
 2.3. Les résultats attendus
 
-A travers ces objectifs, le gouvernement s’engage à tout mettre en œuvre pour réaliser les résultats escomptés à l’horizon 2015. A cet effet, le concours des parties prenantes (secteur privé, société civile, ONG, confessions religieuses, APE, les collectivités, ...) et des partenaires extérieurs (bilatéraux et multilatéraux) est indispensable pour atteindre ces résultats.
+A travers ces objectifs, le gouvernement s’engage à tout mettre en œuvre pour réaliser les résultats escomptés à l’horizon 2015. A cet effet, le concours des parties prenantes (secteur privé, société civile, ONG, confessions religieuses, APE, les collectivités, …) et des partenaires extérieurs (bilatéraux et multilatéraux) est indispensable pour atteindre ces résultats.
 
-Résultats par défis par objectif 1 :
-1- élever de 2,7 à 10 % d’ici à 2006 et à 80 % d’ici à 2015, le taux brut d’inscription au préscolaire
+Résultats par objectifs 1 :
+1- élever de 2,7 à 10 % d’ici 2006 et à 80% d’ici à 2015, le taux brut d’inscription au préscolaire
 2- Promouvoir l’éducation préscolaire des enfants malvoyants, malentendants et des malades mentaux
 3- Augmenter le pourcentage des enfants ayant suivis un programme d’éveil de la petite enfance
 
-Résultats par défis pour objectif 2
+Résultats par objectifs 2
 4- élever le taux d’accès dans l’enseignement primaire aux enfants de 6 à 16 ans de 40 à 100 %
-5- élever le taux d’accès à l’enseignement primaire aux enfants malvoyants, malentendants et des malades mentaux de 6 à 16 ans à 100 % d’ici à 2015.
+5- élever le taux d’accès à l’enseignement primaire aux enfants malvoyants, malentendants et des malades mentaux de 6 à 16 ans à 100 % d’ici à 2015 ;
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
 22
@@ -969,30 +963,30 @@ Plan National d’Action  -  Education Pour Tous  2003 - 2015
 
 République Centrafricaine
 
-Résultats par défis de l’objectif 3 :
-6- élever le taux d’accès des jeunes de 12 - 18 ans aux formations et aux compétences essentielles dans la vie courante de 17 % à 80 % d’ici à 2015 en respectant l’équité,
+Résultats par objectifs 3
+6- élever le taux d’accès des jeunes de 12 à 18 ans aux formations et aux compétences essentielles dans la vie courante de 17% à 80 % d’ici à 2015 en respectant l’équité,
 
-Résultats par défis pour objectif 4 :
+Résultats par objectifs 4
 7- Augmenter le taux d’alphabétisation des adultes de 32 à 50 % d’ici à 2015,
 8- Réduire à 1 l’indice de parité entre les sexes en alphabétisation ;
 9- Assurer la pérennité des acquis de l’alphabétisation fonctionnelle.
 
-Résultats par défis pour objectif 5 :
+Résultats par objectifs 5
 10- élever le Taux Brut de Scolarisation des filles à 100 % d’ici à 2015,
 11- Augmenter le Taux de Scolarisation des filles dans le primaire et le secondaire et réduire l’indice de parité à 1 ;
 
-Résultats par défis pour objectif 6 :
+Résultats par objectifs 6
 12- Réduire le ratio élèves/maître et élèves/classe de 74 à 50 d’ici à 2015,
-13- Faire acquérir les connaissances, les compétences et les attitudes nécessaires à la résolution des problèmes de la vie courante et relever le coefficient d’efficacité dans le F1 à 100 % et 80 % au F2 ;
-14- Augmenter à 100 % le pourcentage des élèves de la 4ème année maîtrisant un ensemble de compétences de base (lecture, calcul, écriture) définies à l’échelon national ;
-15- Augmenter à 100 % le taux d’accès des jeunes à un enseignement post-primaire de qualité.
-16- Augmenter à 80 % le niveau de connaissances, de compétences, d’attitudes des néo-alphabètes ;
-17- Augmenter à 100 % le niveau de connaissances, de compétences, d’attitudes des filles.
+13- Faire acquérir les connaissances, les compétences et les attitudes nécessaires à la résolution des problèmes de la vie courante et relever le coefficient d’efficacité dans le F1 à 100% et 80% au F2 ;
+14- Augmenter à 100% le pourcentage des élèves de la 4ème année maîtrisant un ensemble de compétences de base (lecture, calcul, écriture) définies à l’échelon national ;
+15- Augmenter à 100% le taux d’accès des jeunes à un enseignement post-primaire de qualité.
+16- Augmenter à 80% le niveau de connaissances, de compétences, d’attitudes des néo-alphabètes ;
+17- Augmenter à 100% le niveau de connaissances, de compétences, d’attitudes des filles.
 
-Résultats par défis pour objectif transversal 7 :
+Résultats par objectifs transversal 7
 18- Développer une culture de la citoyenneté, de la paix à l’école et dans la communauté.
-19- Assurer à 100 % l’enseignement en et du sango à tous les niveaux d’enseignement.
-20- Réduire le taux de prévalence du VIH/SIDA de 14 % à 2 % en milieu scolaire, et dans la communauté tout en accentuant la lutte contre les Maladies Sexuellement Transmissibles.
+19- Assurer à 100% l’enseignement en et du sango à tous les niveaux d’enseignement.
+20- Réduire le taux de prévalence du VIH/SIDA de 14% à 2 % en milieu scolaire, et dans la communauté tout en accentuant la lutte contre les Maladies Sexuellement Transmissibles.
 
 2.4. Les principaux obstacles
 
@@ -1000,7 +994,7 @@ Les principaux obstacles identifiés dans le cadre du Plan National d’Action d
 
 - Obstacles immédiats
 
-Les obstacles immédiats à l’atteinte des objectifs d’éducation pour tous sont : l’insuffisance de structures d’accueil, l’insuffisance du personnel enseignant qualifié, l’ignorance des parents sur l’importance de l’école, les difficultés de paiement des frais de scolarité, l’absence de pièces d’état civil et de carnet de santé, la perte de crédibilité de l’école, les comportements discriminatoires à l’égard des filles et des minorités, l’insuffisance d’équipements, de matériels et de supports didactiques, l’insuffisance de matériels ludiques et éducatifs pour la petite enfance ainsi que de manuels scolaires, l’inexistence d’une structure initiale de formation des cadres de l’alphabétisation et des enfants handicapés, les insuffisances de collaboration intersectorielle, le rejet de l’école moderne, le nomadisme de certaines minorités ethniques, l’inadéquation des programmes aux réalités nationales, sous-régionales et internationales etc...
+Les obstacles immédiats à l’atteinte des objectifs d’éducation pour tous sont : l’insuffisance de structures d’accueil, l’insuffisance du personnel enseignant qualifié, l’ignorance des parents sur l’importance de l’école, les difficultés de paiement des frais de scolarité, l’absence de pièces d’état civil et de carnet de santé, la perte de crédibilité de l’école, les comportements discriminatoires à l’égard des filles et des minorités, l’insuffisance d’équipements, de matériels et de supports didactiques, l’insuffisance de matériels ludiques et éducatifs pour la petite enfance ainsi que de manuels scolaires, l’inexistence d’une structure initiale de formation des cadres de l’alphabétisation et des enfants handicapés, les insuffisances de collaboration intersectorielle, le rejet de l’école moderne, le nomadisme de certaines minorités ethniques, l’inadéquation des programmes aux réalités nationales, sous-régionales, et internationales etc…
 
 - Obstacles sous-jacents
 
@@ -1027,7 +1021,7 @@ Afin de donner la chance au PNA-EPT de réaliser ses objectifs, les stratégies 
 
 - Un engagement politique de l’Etat
 
-Au cours des 10 dernières années, l’Etat a souscrit à de nombreux instruments qui font de l’éducation une priorité. Il a pris de nombreuses initiatives visant à traduire concrètement dans les faits ces initiatives notamment l’adoption d’une Loi d’Orientation, l’élaboration d’un Plan National de Développement de l’Education, la Déclaration Préliminaire sur la Réduction de la Pauvreté, et la traduction dans un plan d’action des principes d’éducation pour tous. Toutes ces initiatives méritent d’être traduites en actes notamment l’allocation d’un budget conséquent, la gestion rigoureuse des ressources humaines, matérielles, informationnelles et l’établissement d’indicateurs fiables permettant de mieux piloter et suivre le fonctionnement du système.
+Au cours des 10 dernières années, l’Etat a souscrit à de nombreux instruments qui font de l’éducation une priorité. Il a pris de nombreuses initiatives visant à traduire concrètement dans les faits ces initiatives notamment l’adoption d’une Loi d’Orientation, l’élaboration d’un Plan National de Développement de l’Education, la Déclaration Préliminaire sur la réduction de la Pauvreté, et la traduction dans un plan d’action des principes d’éducation pour tous. Toutes ces initiatives méritent d’être traduites en actes notamment l’allocation d’un budget conséquent, la gestion rigoureuse des ressources humaines, matérielles, informationnelles et l’établissement d’indicateurs fiables permettant de mieux piloter et suivre le fonctionnement du système.
 
 - Un engagement des parties prenantes nationales
 
@@ -1037,9 +1031,9 @@ En plus du service social qu’il offre, le service éducatif est devenu un bien
 
 Le PNA-EPT est bâti dans le cadre d’un partenariat multiforme. Il est donc important que sa mise en œuvre reflète ce souci de départ. A cet effet, les parties prenantes nationales doivent œuvrer dans le sens d’une concertation permanente en vue de garantir la complémentarité d’actions et la mise en commun des moyens, et des compétences.
 
-- Mobilisation des ressources.
+- La mobilisation des ressources.
 
-La mise en œuvre du PNA-EPT est un véritable défi que le pays doit relever. Pour y parvenir, la mobilisation des ressources est l’une des composantes principales des stratégies de mise en œuvre. Des efforts exceptionnels doivent être faits pour répondre aux besoins de renforcement des capacités, de sensibilisation des parties prenantes afin de changer leur comportement vis-à-vis de l’importance du secteur, la construction et fourniture d’équipement, l’accès aux nouvelles technologies et aux sources d’énergie modernes dans les écoles les plus marginalisées ainsi que la prise en compte des situations spéciales notamment les enfants au sein des communautés en crise ou minoritaires.
+La mise en œuvre du PNA-EPT est un véritable défi que le pays doit relever. Pour y parvenir, la mobilisation des ressources est l’une des composantes principales des stratégies de mise en œuvre. Des efforts exceptionnels doivent être ainsi faits pour répondre aux besoins de renforcement des capacités, de sensibilisation des parties prenantes afin de changer leur comportement vis-à-vis de l’importance du secteur, la construction et fourniture d’équipement, l’accès aux nouvelles technologies et aux sources d’énergie modernes dans les écoles les plus marginalisées ainsi que la prise en compte des situations spéciales notamment les enfants au sein des communautés en crise ou minoritaires.
 
 - Appui direct
 
@@ -1052,29 +1046,27 @@ Plan National d’Action  -  Education Pour Tous  2003 - 2015
 
 [[START OF PAGE 26]]
 
-secteurs constituent une action indispensable pour augmenter l’accès de tous les enfants d’ici à 2015 à une éducation de base de qualité et produire à cet effet des citoyens de qualité.
+domaines sont indispensables pour augmenter l’accès de tous les enfants d’ici à 2015 à une éducation de base de qualité et produire à terme des citoyens de qualité.
 
-- Renforcement des capacités
+- Le renforcement des capacités
 
-L’analyse du programme de l’EPT a mis en exergue la dégradation de la qualité et de la quantité des capacités humaines en charge de la gestion et de l’animation du secteur éducatif. Cette situation s’aggrave au jour le jour sous l’effet à la fois du vieillissement naturel du personnel et le manque d’une politique de rajeunissement d’une part, des décès massifs liés à la forte prévalence de la pandémie du VIH/SIDA d’autre part. La gravité du drame est telle que le renforcement des capacités du personnel dans le secteur devient impératif. Il prend en compte la formation de nouveaux enseignants. Il prend en compte la formation de nouveaux enseignants et leur intégration pour améliorer le ratio élèves/maître, le recyclage des anciens pour les rendre plus performants. En sus cette dynamique privilégie la synergie multisectorielle de lutte contre le VIH/SIDA et la pauvreté pour créer les meilleures conditions de travail.
+L’analyse du programme de l’EPT a mis en exergue la dégradation de la qualité et de la quantité des capacités humaines en charge de la gestion et de l’animation du secteur éducatif. Cette situation s’aggrave au jour le jour sous l’effet à la fois du vieillissement naturel du personnel et le manque d’une politique de rajeunissement d’une part, des décès massifs liés à la forte prévalence de la pandémie du VIH/SIDA d’autre part. La gravité du drame est telle que le renforcement des capacités du personnel dans le secteur devient impératif. Il prend en compte la formation de nouveaux enseignants. Il prend en compte la formation de nouveaux enseignants et leur intégration pour améliorer le ratio élèves/maître, le recyclage des anciens pour les rendre plus performants. En sus, cette dynamique privilégie la synergie multisectorielle de lutte contre le VIH/SIDA et la pauvreté pour créer les meilleures conditions de travail.
 
-- Le plaidoyer
+- Un plaidoyer
 
 Toutes les stratégies énoncées ci-dessus seront appuyées par les activités de plaidoyer et de communication afin de lever de nombreuses pesanteurs qui bloquent le système. La mobilisation des partenaires comme la société civile, les ONG, les médias, les communautés de base constitue une des premières priorités à la réalisation du PNA-EPT.
 
-2.7. Les grandes étapes de la mise en œuvre
+2.6. Les grandes étapes de la mise en œuvre
 
 Pour atteindre les résultats escomptés, plusieurs activités sont prévues à court, moyen et long terme :
 
-A court terme :
-
+• A court terme
 - renforcement du cadre institutionnel (formulation de politique) ;
 - mesures administratives (textes officiels et application du statut général de la fonction publique) ;
-- formation de 750 nouveaux enseignants par an ;
-- recrutement des enseignants formés et en chômage, etc.
+- formation de 300 nouveaux enseignants par an ;
+- recrutement des enseignants formés et au chômage, etc.
 
-A moyen terme :
-
+• A moyen terme
 - Mesures incitatives : Par exemple, le rétablissement des concours professionnels ;
 - Mobilisation des ressources financières pour l’équipement et la dotation en manuels et moyens logistiques ;
 - Formation diversifiée des enseignants, des concepteurs de manuels et des techniciens de maintenance, quantitativement et qualitativement ;
@@ -1084,8 +1076,7 @@ A moyen terme :
 - application effective de l’initiative 20/20 ;
 - développement de micro-projets générateurs de revenus, vulgarisation des programmes etc.
 
-A long terme :
-
+• A long terme
 - Formation des enseignants, construction, équipement, dotation en manuels, matériels, logistiques etc.
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
@@ -1095,16 +1086,15 @@ Plan National d’Action  -  Education Pour Tous  2003 - 2015
 
 [[START OF PAGE 27]]
 
-2.8. Les parties prenantes
+2.7. Les parties prenantes
 
 Les parties prenantes impliquées dans la réalisation du PNA-EPT sont :
-
 - La partie nationale comprenant le gouvernement, la société civile, les ONG, les confessions religieuses, la communauté de base, les APE.
 - Les partenaires extérieurs : les partenaires au développement, les pays amis, les agences du système des Nations Unies, les organismes internationaux, les représentations diplomatiques, les ONG internationales.
 
 Il est impératif de promouvoir une coopération agissante, donc dynamique entre les parties pour assurer l’efficacité et l’efficience des efforts d’éducation et de formation.
 
-2.9. Les modalités d’intervention
+2.8. Les modalités d’intervention
 
 Au niveau des modalités d’intervention, l’Etat mènera des actions individuelles, encouragera le développement des programmes parallèles à travers les Confessions religieuses, les ONG, etc.
 
@@ -1123,20 +1113,19 @@ Section 3 : Cadre de ressources
 
 3.1. Etat de besoins en ressources financières.
 
-Le plan comporte cent vingt-six (126) activités qui se résument pour l’essentiel et par ordre de priorité en huit (8) points, à savoir :
-
+Le plan comporte cent vingt six (126) activités qui se résument pour l’essentiel et par ordre de priorité en huit (8) points, à savoir :
 1. L’élaboration ou la révision, la multiplication et la mise en œuvre des programmes et des manuels d’enseignement ;
 2. Le développement de la stratégie IEC/plaidoyer ;
 3. Le renforcement des capacités institutionnelles et des ressources ;
-4. L’intensification de la lutte contre les MST/SIDA et le développement de la culture de la citoyenneté et de la paix ;
-5. La promotion du partenariat éducatif ;
-6. La réhabilitation, la construction et l’équipement des écoles et bureaux ;
-7. Le regroupement des petits villages pour une administration efficace ;
+4. L’intensification de la lutte contre les MST/SIDA et le développement de la culture de la citoyenneté et de la paix.
+5. La promotion du partenariat éducatif.
+6. La réhabilitation, la construction et l’équipement des écoles et bureaux.
+7. Le regroupement des petits villages pour une administration efficace.
 8. L’établissement du couple équité/justice entre les sexes dans la scolarisation et dans la vie courante.
 
 Le coût global de ces besoins s’élève à : six cent quarante deux milliards huit cent soixante cinq millions neuf cent cinquante mille (642.865.950.000) francs CFA, soit 918,379.921 millions de dollar US.
 
-Pour l’année budgétaire 2002, la part de l’éducation dans le budget de l’Etat est de 7,1%. Mais dans le cadre de la mobilisation des ressources en faveur de l’EPT, le gouvernement a programmé son augmentation progressive en vue de la stabiliser à 25% avant 2015. Cet accroissement du financement de l’Etat est estimé à : cent soixante milliards sept cent seize millions quatre cent quatre vingt six mille trois cents (160.716.486.300) francs CFA, soit 229,594.980 millions de dollar US. Le gap à rechercher auprès des partenaires tant nationaux qu’internationaux est de : quatre cent quatre vingt deux milliards cent quarante neuf millions quatre cent cinquante neuf mille (482.149.459.000) francs CFA, soit 688 784.941.400 millions de dollar US.
+Pour l’année budgétaire 2002, la part de l’éducation dans le budget de l’Etat est de 7,1%. Mais dans le cadre de la mobilisation des ressources en faveur de l’EPT, le gouvernement a programmé son augmentation progressive en vue de la stabiliser à 25% avant 2015. Cet accroissement du financement de l’Etat est estimé à : cent soixante milliards sept cent seize millions quatre cent quatre vingt six mille trois cents (160.716.486.300) francs cfa, soit 229,594.980 millions de dollar US. Le gap à rechercher auprès des partenaires tant nationaux qu’internationaux est de : quatre cent quatre vingt deux milliards cent quarante neuf millions quatre cent cinquante neuf mille (482.149.459.000) francs CFA, soit 688 784.941.400 millions de dollar US.
 
 La priorité étant la promotion et la généralisation de l’éducation de base ou fondamentale 1 et 2, il convient de noter que 70% du budget global de l’EPT sera réservé à cet ordre d’enseignement.
 
@@ -1145,24 +1134,22 @@ Le financement de ces besoins sera assuré par les parties prenantes : nationale
 3.2. Stratégies de mobilisation des ressources financières
 
 En dehors de l’appui direct, matériel et technique, l’Etat se propose de mettre en œuvre les stratégies suivantes :
-
 - Organisation des tables-rondes avec le secteur privé et autres partenaires ;
-- Renforcement des capacités des cadres aux techniques de négociation ;
-- Plaidoyer auprès des partenaires/autorités ;
+- renforcement des capacités des cadres aux techniques de négociation ;
+- Plaidoyer auprès des partenaires /autorités ;
 - Sensibilisation et responsabilisation des APE et des communautés locales ;
-- Intégration du PNA-EPT dans le cadre stratégique de lutte contre la pauvreté (PNLCP).
+- intégration du PNA-EPT dans le cadre stratégique de lutte contre la pauvreté (PNLCP)
 
 3.3. Mécanisme de coordination de l’aide extérieure
 
 Dès la mobilisation des ressources en faveur de la RCA, une structure de coordination composée du Gouvernement et des partenaires internes et externes, impliqués dans la mise en œuvre du plan sera constituée. La réalisation de ce programme se fera d’une manière conjointe, parallèle ou individuelle par le Gouvernement et les partenaires.
 
 Le gouvernement mettra en place une structure de coordination nationale, regroupant toutes les parties prenantes, à savoir :
-
 - Ministère du Plan ;
 - Ministère de l’Education Nationale ;
 - Tous les ministères impliqués dans l’exécution du PNA-EPT ;
 - Organisations Non-Gouvernementales nationales et internationales ;
-- Tous les partenaires Bi et Multilatéraux ;
+- Tous les partenaires Bi et Multilatéraux.
 - Le secteur privé national etc.
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
@@ -1172,9 +1159,9 @@ Plan National d’Action  -  Education Pour Tous  2003 - 2015
 
 [[START OF PAGE 29]]
 
-Section 4 : Mise en œuvre
+Section 4 : Mise en oeuvre
 
-4.1. Les modalités de mise en œuvre
+4.1. Les modalités de mise en oeuvre
 
 L’exécution du PNA-EPT est d’abord nationale. Par conséquent le gouvernement financera les actions relevant de sa souveraineté.
 
@@ -1209,7 +1196,6 @@ Comité villageois
 4.3. Actions spécifiques
 
 La structure nationale de coordination se chargera de la mise en œuvre des actions spécifiques suivantes :
-
 - Construction et équipement des infrastructures scolaires ;
 - Formation des enseignants et du corps administratif ;
 - Dotation en moyens logistiques
@@ -1227,9 +1213,7 @@ Plan National d’Action  -  Education Pour Tous  2003 - 2015
 Le calendrier des activités ainsi que les budgets prévisionnels les accompagnants se feront en fonction des grandes lignes d’activités.
 
 Toutes les activités à court terme seront réalisées entre 2003 à 2006.
-
 Celles à moyen terme interviendront dans la période comprise entre 2006 à 2010.
-
 Les activités à long terme qui sont des activités transversales s’échelonneront sur toute la période 2003 à 2015. Il s’agira notamment de la construction des bâtiments, leur équipement, la dotation en manuels, matériels, logistiques, la réalisation des études, la promotion du plaidoyer, la formation et le recyclage des enseignants, etc.
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
@@ -1245,75 +1229,59 @@ Section 5 : Suivi-Evaluation
 
 Les principaux indicateurs de suivi et d’évaluation sont énumérés par objectif ci-après et comprennent les indicateurs de Dakar et les indicateurs nationaux avec un indicateur de départ et un idéal à atteindre :
 
-Objectifs | Défis | Indicateurs de Dakar | Indicateurs nationaux : Point de départ | Idéal
+Objectifs | Défis | Indicateurs de Dakar | Indicateurs nationaux — Point de départ | Idéal
 
 Objectif 1
-
-Défis
+Défis :
 1. Augmenter le taux brut d’inscription dans les programmes d’éveil de la petite enfance (public et privé) de 2,7 en 2001 à 80% d’ici 2015
 2. Promouvoir l’éducation des enfants malvoyants, malentendants, malades mentaux
 3. Augmenter le pourcentage des nouveaux élèves du F1 ayant suivi un programme organisé du préscolaire
-
-Indicateurs
+Indicateurs :
 1. Taux brut d’inscription aux programmes d’éveil de la petite enfance — Point de départ : 2,7% — Idéal : 80%
 2. Pourcentage des enfants ayant suivi le programme d’éveil de la petite enfance — Point de départ : 1,9% — Idéal : 80%
 
 Objectif 2
-
-Défis
+Défis :
 1. Accès de tous les enfants de 6 à 16 ans à l’enseignement primaire relevé de 40 à 100%
 2. Relever le taux d’accès à l’enseignement primaire aux enfants malvoyants, malentendants, malades mentaux
 3. Améliorer le niveau de compétence et les conditions de vie des enseignants
-
-Indicateurs
+Indicateurs :
 3. Taux brut d’admission au primaire — Point de départ : 46% — Idéal : 100%
 4. Taux net d’admission au primaire — Point de départ : 22% — Idéal : 100%
 5. Taux brut de scolarisation — Point de départ : 56% — Idéal : 100%
 6. Taux net de scolarisation — Point de départ : 40% — Idéal : 100%
-Point de départ : 10% — Idéal : 80%
+==== — Point de départ : 10% — Idéal : 80%
 7. Dépenses publiques pour l’enseignement primaire en % du PNB, par habitant augmenté ; — Point de départ : 1,90%
 8. Dépenses publiques pour l’enseignement primaire en % des dépenses publiques d’éducation augmenté à 70% — Point de départ : 57% — Idéal : 70%
-Point de départ : 20% — Idéal : 100%
-9. % des enseignants du primaire ayant la qualification académique requise relevé à 100% — Point de départ : 56% — Idéal : 100%
-10. % des enseignants du primaire qualifiés relevé à 100%
+9. % des enseignants du primaire ayant la qualification académique requise relevé à 100% — Point de départ : 20% — Idéal : 100%
+10. % des enseignants du primaire qualifiés relevé à 100% — Point de départ : 56% — Idéal : 100%
 
 Objectif 3
-
-Défi
+Défi :
 1. Relever le taux d’accès des jeunes (12-18 ans) aux connaissances et aux compétences essentielles dans la vie courante en respectant l’équité
-
-Indicateur
-11. Taux d’alphabétisme des jeunes âgés de 15 à 24 ans 80% — Point de départ : 9% — Idéal : 80%
-Point de départ : 15% — Idéal : 100%
+Indicateur :
+11. Taux d’alphabétisme des jeunes âgés de 15 à 24 ans — Dakar : 80% — Points de départ : 9%, 15% — Idéaux : 80%, 100%
 
 Objectif 4
-
-Défi
+Défi :
 1. Augmenter le taux d’alphabétisation des adultes de 32 à 50% d’ici à 2015 et réduire à 1 l’indice de parité par sexe en matière d’alphabétisation
 Assurer la pérennité des acquis de l’alphabétisation fonctionnelle
-
-Indicateur
-12. Taux d’alphabétisme des adultes (15 ans et plus) 50% — Point de départ : 37% — Idéal : 90%
-Point de départ : 76% — Idéal : 10%
-00
+Indicateur :
+12. Taux d’alphabétisme des adultes (15 ans et plus) — Dakar : 50%, 00 — Points de départ : 37%, 76% — Idéaux : 90%, 10%
 
 Objectif 5
-
-Défi
+Défi :
 1. Augmenter le taux de scolarisation des filles (6-16 ans) et
 - Réduire l’indice de parité à 1
-
-Dakar : 100% ; 100%
-Point de départ : 46% ; 7% ; 0,58
-Idéal : 100% ; 80% ; 1
-13. Indice de parité entre les sexes en alphabétisme 1
+Dakar : 100%, 100%
+Points de départ : 46%, 7%, 0,58
+Idéaux : 100%, 80%, 1
+13. Indice de parité entre les sexes en alphabétisme : 1
 
 Objectif 6
-
-Défi
+Défi :
 1. Augmenter à 100% le pourcentage des élèves de 4è année maîtrisant un ensemble de compétences de base
-
-Indicateurs
+Indicateurs :
 14. Nombre d’élèves par maître — Point de départ : 1/74 — Idéal : 1/50
 15. Taux de redoublement — Point de départ : 23% — Idéal : 5%
 16. Taux de survie en 5è année — Point de départ : 25% — Idéal : 80%
@@ -1325,11 +1293,10 @@ Plan National d’Action  -  Education Pour Tous  2003 - 2015
 
 [[START OF PAGE 32]]
 
-Objectifs | Défis | Indicateurs de Dakar | Indicateurs nationaux : Point de départ | Idéal
+Objectifs | Défis | Indicateurs de Dakar | Indicateurs nationaux — Point de départ | Idéal
 
 Objectif 6 (suite)
-
-Défis
+Défis :
 (lecture, calcul, écriture)
 2. Réduire le ratio Elèves/Maître et Elèves/Classe de 74 à 50 d’ici à 2015
 3. Faire acquérir les connaissances, les compétences et les attitudes nécessaires à la résolution des problèmes de la vie courante et augmenter le coefficient d’efficacité dans le Fondamental-1 à 100% et le Fondamental-2 à 80%
@@ -1339,41 +1306,34 @@ Défis
 6. Améliorer la qualité de l’alphabétisation et
 - augmenter à 80% le niveau de connaissance de compétences et d’attitudes des néo-alphabètes
 7. Augmenter à 100% le niveau de connaissance, de compétences et d’attitudes des filles
-
-Indicateurs
+Indicateurs :
 17. Coefficient d’efficacité — Point de départ : 39,2% — Idéal : 100%
-18. % des élèves ayant atteint au moins la 4è année du primaire et maîtrisant des compétences de base
-Idéal : Paix assurée
+18. % des élèves ayant atteint au moins la 4è année du primaire et maîtrisant des compétences de base — Idéal : Paix assurée
 
 Objectif 7
-
-Défis
+Défis :
 1. Développer une culture de citoyenneté à l’école et dans la communauté
 2. Développer la culture de la paix
 3. Réduire le taux de prévalence de 14 à 2% du VIH/SIDA en milieu scolaire et dans la communauté tout en accentuant la lutte contre les MST
 4. Assurer à 100% l’enseignement en et du sango à tous les niveaux d’enseignement
-
-Indicateurs de Dakar
+Indicateurs de Dakar :
 Ces défis portent sur un ensemble de valeurs, de compétences, d’attitudes à acquérir qui sont difficilement quantifiables
-
 Point de départ : 14%
 Idéal : Citoyens responsable à 80% ; Paix assurée ; 2%
 
 5.2 Structure de suivi
 
 La structure de suivi se compose de :
-
 2. Au niveau super structurel un Comité National de suivi qui est l’unité de gestion du programme composé de différentes cellules spécialisées.
 3. Au niveau 1 : des structures nationales focalisées sur des volets précis.
 4. Au niveau 2 : des structures régionales calquées sur les volets des structures nationales
-5. Au niveau 3 : des structures locales, organes de décentralisation des différents structures mentionnées ci-dessus.
+5. Au niveau 3 : des structures locales, organes de décentralisation des différentes structures mentionnées ci-dessus.
 
 5.3. Mécanisme de suivi-évaluation
 
 Il sera mis en place un Comité Technique de suivi-évaluation
 
 Le suivi et l’évaluation s’effectueront à travers :
-
 • des visites pédagogiques de contrôle de l’exécution de l’EPT ;
 • des revues à mi-parcours tous les trois ans ;
 • l’évaluation spécifique se fera en fonction des problèmes qui pourraient se poser dans les composantes ou sur demande du Comité de Coordination Technique.
@@ -1385,26 +1345,24 @@ Plan National d’Action  -  Education Pour Tous  2003 - 2015
 
 [[START OF PAGE 33]]
 
-5.3.1 Suivi continu
+5.3.1. Suivi continu
 
 Le suivi continu sera assuré par :
-
-- Les missions de contrôle-évaluation ;
+- Les missions de contrôle - évaluation ;
 - Les rapports périodiques des structures de mise en œuvre.
 
 5.3.2. Revues à mi-parcours
 
 Les revues seront organisées semestriellement pour évaluer l’avancement des travaux.
 
-5.3.3. Evaluations spécifique
+5.3.3. Evaluations spécifiques
 
 Les audits seront consignés dans les rapports commandités annuellement.
 
 5.3.4. Sources des données
 
 Les données peuvent provenir :
-
-- du service des statistiques du MENRS,
+- du service des statistiques du MENS,
 - des responsables des différentes composantes de mise en œuvre de l’EPT
 - des représentants des bailleurs de fonds
 - Les données seront consignées dans les différents rapports (mission, périodiques et audits).
@@ -1426,9 +1384,9 @@ Dans ce cadre, il a été sous-tendu par un engagement national et international
 
 En sus des actions de remédiation relatives aux six objectifs du cadre d’actions de Dakar, un septième objectif jugé indispensable a été ajouté et intitulé : Faire en sorte que l’éducation à la citoyenneté, à la paix et à la lutte contre les MST et le VIH/SIDA s’organise à la fois en français et en sango. C’est en effet, un défi à relever que de bouter hors des consciences nationales la haine tribale, l’incivisme en même temps que de promouvoir le sango comme acteur d’unité nationale et de développement.
 
-Globalement, dix-neuf (19) défis sont mis en exergue pour cent vingt-six (126) activités de remédiation.
+Globalement, dix-neuf (19) défis sont mis en exergue pour cent vingt six (126) activités de remédiation.
 
-Trois types d’obstacles (immédiats, sous-jacents et profonds) doivent impérativement être surmontés afin de vaincre les dits défis. Un cadre logique joint en annexe donne les détails des défis, des obstacles et des activités en spécifiant les indicateurs des résultats en relation avec les indicateurs de départ. Le tableau de mise en œuvre précise la domiciliation institutionnelle des activités par objectifs, fournit les coûts estimatifs sur la période 2003-2015, définit les modalités de mobilisation des ressources et les structures de gestion, de suivi-évaluation ainsi que le chronogramme.
+Trois types d’obstacles (immédiats, sous-jacents et profonds) doivent impérativement être surmontés afin de vaincre les dix défis. Un cadre logique joint en annexe donne les détails des défis, des obstacles et des activités en spécifiant les indicateurs des résultats en relation avec les indicateurs de départ. Le tableau de mise en œuvre précise la domiciliation institutionnelle des activités par objectifs, fournit les coûts estimatifs sur la période 2003-2015, définit les modalités de mobilisation des ressources et les structures de gestion, de suivi-évaluation ainsi que le chronogramme.
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
 33
@@ -1437,7 +1395,7 @@ Plan National d’Action  -  Education Pour Tous  2003 - 2015
 
 [[START OF PAGE 35]]
 
-ANNEXE :
+ANNEXE I
 
 [[END OF PAGE 35]]
 
@@ -1445,7 +1403,7 @@ ANNEXE :
 
 1. Cadre logique des Objectifs 1 à 7.
 
-Objectif-1 : Développer et améliorer sous tous leurs aspects la protection et l’éducation de la petite enfance et des enfants les plus vulnérables et défavorisés
+Objectif-1 : Développer et améliorer sous tous leurs aspects la protection et l’éducation de la petite enfance et notamment des enfants les plus vulnérables et défavorisés
 
 Défis | Obstacles | Stratégies | Activités
 
@@ -1487,7 +1445,7 @@ Activités
 - Doter les écoles maternelles en manuels didactiques scolaires et matériels ludiques ;
 - Créer une unité de production de matériels didactiques ;
 - Augmenter le budget consacré à l’enseignement préscolaire ;
-- Réaliser une étude sur l’impact de l’école préscolaire sur le Fondamental-1
+- Réaliser une étude sur l’impact de l’école préscolaire sur le fondamental-1
 - Confectionner des fiches de visites médicales ;
 - Organiser des visites médicales dans les écoles maternelles ;
 - Construire une salle de réfectoire dans chaque école maternelle.
@@ -1498,7 +1456,7 @@ Activités
 - Construire et équiper de nouvelles structures d’accueil
 - Former et recycler les inspecteurs et les conseillers pédagogiques du préscolaire
 - Créer un centre de documentation du préscolaire
-- Former et recycler en nombre suffisants
+- Former et recycler en nombre suffisantes
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
 35
@@ -1509,10 +1467,9 @@ Plan National d’Action  -  Education Pour Tous  2003 - 2015
 
 Défis | Obstacles | Stratégies | Activités
 
-- Instabilité politique
+enseignants
 
-Activités (suite)
-- enseignants
+- Instabilité politique
 
 2. Promouvoir l’éducation des enfants handicapés, malvoyants, mentaux, défavorisés et ceux des minorités
 
@@ -1552,7 +1509,7 @@ Plan National d’Action  -  Education Pour Tous  2003 - 2015
 
 [[START OF PAGE 38]]
 
-Objectif II : Faire en sorte que d’ici à 2015 tous les enfants, notamment les filles, les enfants en difficulté et ceux appartenant à des minorités ethniques aient la possibilité d’accéder à un enseignement primaire obligatoire et gratuit de qualité et de le suivre jusqu’à son terme
+Objectif II : Faire en sorte que d’ici à 2015 tous les enfants, notamment les filles, les enfants en difficulté et ceux appartenant à des minorités ethniques aient la possibilité d’accéder à un enseignement primaire obligatoire et gratuit de qualité
 
 Défis | Obstacles | Stratégies | Activités
 
@@ -1578,7 +1535,7 @@ Obstacles sous-jacents
 Stratégies
 - Mobilisation des ressources nationales et internationales
 - Renforcement des capacités
-- Sensibilisation des parents en faveur de l’enseignement Fondamental 1
+- Sensibilisation des parents en faveur de l’enseignement Fondamental
 - Promotion des mesures incitatives
 - Redynamisation des structures de formation initiale et continue
 - IEC
@@ -1591,7 +1548,7 @@ Activités
 - Elaborer des textes légaux relatifs à l’application de la convention sur le travail de l’enfant.
 - Accroître la proportion du budget national accordé à l’éducation.
 - Accroître la proportion du budget de l’éducation accordé à l’enseignement primaire.
-- Construire et entretenir régulièrement les structures d’accueil ;
+- Construire et entretenir régulièrement les structures d’accueil.
 - Former et recruter les enseignants en grand nombre.
 - Elaborer des programmes de sensibilisation
 - Animer des séances de sensibilisation
@@ -1622,7 +1579,7 @@ Stratégie
 - Plaidoyer
 
 Activités (suite)
-- l’application de la convention sur le travail de l’enfant
+l’application de la convention sur le travail de l’enfant
 - Renforcer les capacités en gestion financière
 - Réhabiliter les structures d’accueil existantes
 - Construire et équiper de nouvelles structures d’accueil
@@ -1631,7 +1588,7 @@ Activités (suite)
 - Réaliser une étude sur les attentes de ces groupes
 - Allouer une bourse d’étude aux enfants défavorisés
 
-2. Relever le taux d’accès à l’enseignement primaire aux enfants handicapés des deux sexes
+2. Relever le taux d’accès à l’enseignement primaire aux enfants Handicapés des deux sexes
 
 Obstacles immédiats
 - Absence d’infrastructures d’accueil pour les enfants défavorisés
@@ -1639,15 +1596,12 @@ Obstacles immédiats
 - Perception négative du handicap
 - Coût élevé de la prise en charge
 
-Obstacles sous-jacents
-
-Stratégies
+Stratégie
 - Mobilisation sociale des minorités ethniques en faveur de la scolarisation et de l’intégration sociale des enfants défavorisés et ceux des minorités
-- Mettre en place un cadre juridique pour la scolarisation des enfants défavorisés et ceux des minorités ethniques
-- Réaliser une étude sur les attentes de ces groupes cibles
-- Allouer une bourse d’étude aux enfants défavorisés
 
 Activités
+- Mettre en place un cadre juridique pour la scolarisation des enfants défavorisés et ceux des minorités ethniques
+- Réaliser une étude sur les attentes de ces groupes cibles
 - Elaborer des programmes de sensibilisation
 - Organiser des séances de sensibilisation
 - Animer les séances de sensibilisation
@@ -1662,7 +1616,7 @@ Plan National d’Action  -  Education Pour Tous  2003 - 2015
 
 Défis | Obstacles | Stratégies | Activités
 
-Obstacles sous-jacents (suite)
+Obstacles sous-jacents
 - Rejet des enfants handicapés ;
 - Faible revenu des parents
 - Absence de subventions
@@ -1676,9 +1630,7 @@ Stratégies
 - Plaidoyer
 
 Activités (suite)
-- jeunes handicapés ;
-- Plaidoyer
-- l’enseignement général, secondaire, technique, professionnel et post-primaire (centres d’apprentissage ruraux)
+l’enseignement général, secondaire, technique, professionnel et post-primaire (centres d’apprentissage ruraux)
 - Renforcer les capacités financières (partenariat)
 - Réhabiliter les établissements existants
 - Développer les écoles de 3è type (post-primaire)
@@ -1697,7 +1649,7 @@ Objectif III : Répondre aux besoins éducatifs de tous les jeunes et de tous le
 
 Défis | Obstacles | Stratégies | Activités
 
-1- Relever le taux d’accès des jeunes (12-18 ans) aux connaissances et aux compétences essentielles dans la vie courante en respectant l’équité
+1- Relever le taux d’accès des jeunes (12–18 ans) aux connaissances et aux compétences essentielles dans la vie courante en respectant l’équité
 
 Obstacles immédiats
 - Insuffisance des structures de formation
@@ -1736,7 +1688,7 @@ Plan National d’Action  -  Education Pour Tous  2003 - 2015
 
 [[START OF PAGE 42]]
 
-Objectif IV : Relever de 50% le niveau d’alphabétisation des adultes et notamment des femmes d’ici à l’an 2015 et offrir à tous les adultes un accès équitable aux programmes d’éducation de base et d’éducation permanente.
+Objectif IV : Relever de 50% le niveau d’alphabétisation des adultes et notamment des femmes d’ici à l’an 2015 et assurer à tous les adultes un accès équitable aux programmes d’éducation de base et d’éducation permanente.
 
 Défis | Obstacles | Stratégies | Activités
 
@@ -1752,7 +1704,7 @@ Obstacles immédiats
 
 Obstacles sous-jacents
 - Inexistence d’un budget alloué à l’alphabétisation des adultes
-- Faiblesse de revenus des communautés concernés
+- Faiblesse de revenus des communautés concernées
 - Faible intériorisation de l’approche participative
 
 Obstacles profonds
@@ -1809,7 +1761,7 @@ Objectif V : Eliminer les disparités entre les sexes dans l’enseignement prim
 
 Défis | Obstacles | Stratégies | Activités
 
-1. Augmenter le taux de scolarisation des filles (6-16 ans) et réduire l’indice de parité à 1
+1. Augmenter le taux de scolarisation des filles (6–16 ans) et réduire l’indice de parité à 1
 
 Obstacles immédiats
 - Insuffisance de structures d’accueil pour la scolarisation des filles
@@ -1853,7 +1805,7 @@ Objectif n° VI : Améliorer sous tous ses aspects la qualité de l’éducation
 
 DEFIS | OBSTACLES | STRATEGIES | ACTIVITES
 
-Le Fondamental 1 (F1)
+LE FONDAMENTAL 1 (F1)
 
 1. Améliorer la qualité de l’enseignement de lecture, du calcul et de l’écriture
 
@@ -1900,9 +1852,10 @@ Plan National d’Action  -  Education Pour Tous  2003 - 2015
 
 DEFIS | OBSTACLES | STRATEGIES | ACTIVITES
 
-Obstacles profonds (suite)
 1.9. Non priorisation du secteur éducatif dans la réalité
+
 1.10. Mauvaise gouvernance
+
 1.11. Insuffisance de l’aide publique à l’éducation et faible mobilisation des ressources
 
 Activités (suite)
@@ -1942,13 +1895,16 @@ Plan National d’Action  -  Education Pour Tous  2003 - 2015
 
 DEFIS | OBSTACLES | STRATEGIES | ACTIVITES
 
-Obstacles (suite)
 2.5. Inadaptation du contenu des programmes aux réalisations socio-culturelles
+
 2.6. Ignorance de la communauté locale des valeurs mondialisées
+
 2.7. Faiblesse de l’encadrement administratif, de supervision et d’évaluation des compétences
+
 2.9. Non maîtrise des méthodes modernes de gestion administrative et des ressources humaines
 2.10
-2.9. Limitation de l’EVF/EMP à certaines régions
+
+2.9 Limitation de l’EVF/EMP à certaines régions
 
 Stratégie
 Renforcement des capacités
@@ -1960,7 +1916,7 @@ Activités
 - Etoffer et articuler les filières de formation en fonction des besoins réels
 - Appliquer un texte réglementaire relatif aux critères et normes de nomination aux postes de responsabilités dans les établissements publics et privés
 - Organiser des stages de recyclage ou de perfectionnement en gestion et administration scolaire des directeurs, des IEF1 et des IA
-- Doter les organes de direction, de supervision et d’évaluation en moyens logistiques (moyens roulant, ordinateurs, …)
+- Doter les organes de direction, de supervision et d’évaluation en moyens logistiques (moyens roulant, ordinateurs,…)
 - Mettre en place une politique d’incitation et de stabilisation du personnel
 - Prendre des mesures en matière de protection sociale des enseignants
 
@@ -1996,10 +1952,10 @@ Plaidoyer
 Renforcement des capacités
 
 Activités
-- Elaborer les programmes, organiser et animer les séances de sensibilisation
+- Elaborer les programmes, Organiser et animer les séances de sensibilisation
 - Organiser les séminaires, conférences et tables rondes
 - Augmenter les structures de formation du personnel enseignant du F2, secondaire général, technique et professionnel
-- Faire des études sur les compétences, les aptitudes et les savoirs nécessaires à une vie acceptable, ainsi que les possibilités d’exploitation des ressources naturelles locales.
+- Faire des études sur les compétences, les attitudes et les savoirs nécessaires à une vie acceptable, ainsi que les possibilités d’exploitation des ressources naturelles locales.
 - Adapter les programmes d’enseignement du F2, Secondaire général, technique et professionnel aux besoins du marché
 - Renforcer l’équipement des classes du F2 en fonction de la spécificité des matières
 - Introduire à tous les niveaux d’enseignement dans toutes les filières l’EVF/EMP
@@ -2048,8 +2004,8 @@ Plaidoyer
 Renforcement des capacités
 
 Activités
-- Elaborer des programmes, organiser et animer des séances de sensibilisation
-- Organiser des séminaires, des conférences et tables-rondes
+- Elaborer des programmes, Organiser et animer des séances de sensibilisation
+- Organiser les séminaires, des conférences et tables-rondes
 - Former le personnel d’enseignement et d’encadrement des centres ruraux et artisanaux
 - Recycler le personnel en cours d’emploi
 - Former les encadreurs des écoles communautaires
@@ -2090,7 +2046,7 @@ Plaidoyer
 Renforcement des capacités
 
 Activités
-- Elaborer les programmes, organiser et animer les séances de sensibilisation
+- Elaborer les programmes, Organiser et animer les séances de sensibilisation
 - Organiser les séminaires, conférences et tables rondes
 - Former les alphabétiseurs
 - Recycler les alphabétiseurs en cours d’emploi
@@ -2131,7 +2087,7 @@ Plaidoyer
 Renforcement des capacités
 
 Activités
-- Elaborer des programmes, organiser et animer des séances de sensibilisation
+- Elaborer des programmes, Organiser et animer les séances de sensibilisation
 - Organiser des séminaires, conférences et tables rondes
 - Ouvrir toutes les filières aux filles
 - Etendre les écoles communautaires
@@ -2146,7 +2102,7 @@ Plan National d’Action  -  Education Pour Tous  2003 - 2015
 
 République Centrafricaine
 
-Objectif transversal VII : Faire en sorte que l’éducation à la citoyenneté, à la paix et à la lutte contre les MST/SIDA, au français et en sango, langue nationale
+Objectif transversal VII : Faire en sorte que l’éducation à la citoyenneté, à la paix et à la lutte contre les MST/SIDA soit assurée en français et en sango, langue nationale
 
 Défis
 1. Développer une culture de citoyenneté à l’école et dans la communauté
@@ -2174,12 +2130,12 @@ Activités
 - Organiser des séminaires, des conférences et des tables rondes
 - Elaborer et diffuser une politique de développement d’une culture de citoyenneté à l’école et dans les communautés
 - Introduire dans les disciplines existantes des thèmes liés à la notion de citoyenneté
-- Créer des clubs civiques dans les écoles et les communautés en vue de pérenniser les valeurs citoyennes ;
+- Créer des clubs éthiques dans les écoles et les communautés en vue de pérenniser les valeurs citoyennes
 - Elaborer de nouveaux programmes de formation à la citoyenneté
 - Former et recycler le personnel enseignant et d’encadrement à l’enseignement de la culture à la citoyenneté
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
-50
+51
 
 [[END OF PAGE 51]]
 
@@ -2210,8 +2166,8 @@ Activités
 - Organiser et animer des séances de sensibilisation
 - Organiser des séminaires, conférences et tables rondes
 - Elaborer des programmes de la culture de la paix
-- Concevoir des manuels sur l’éducation à la culture de la paix.
-- Former et recycler les enseignants sur la culture de la paix.
+- Concevoir des manuels sur l’éducation à la culture de la paix
+- Former et recycler les enseignants sur la culture de la paix
 
 Défis
 3. Stopper l’expansion de la pandémie du VIH/SIDA en milieu scolaire et dans la communauté
@@ -2236,9 +2192,9 @@ Activités
 - Elaborer des programmes de sensibilisation
 - Organiser et animer des séances de sensibilisation
 - Organiser des séminaires, conférences et tables rondes
-- Elaborer les programmes de santé sexuelle et reproductive
-- Concevoir et diffuser les manuels d’éducation sexuelle et reproductive.
-- Former et recycler les enseignants de tous les niveaux.
+- Elaborer des programmes de santé sexuelle et reproductive
+- Concevoir et diffuser les manuels d’éducation sexuelle et reproductive
+- Former et recycler les enseignants de tous les niveaux
 
 Défis
 4. Promouvoir la langue sango
@@ -2257,10 +2213,13 @@ Stratégie
 - Renforcement des capacités
 
 Activités
+- Elaborer des programmes de sensibilisation
+- Organiser et animer des séances de sensibilisation
+- Organiser des séminaires, conférences et tables rondes
 - Elaborer les programmes
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
-51
+52
 
 [[END OF PAGE 52]]
 
@@ -2268,18 +2227,21 @@ Plan National d’Action  -  Education Pour Tous  2003 - 2015
 
 République Centrafricaine
 
+Défis
+4. Promouvoir la langue sango (suite)
+
 Obstacle
 Obstacles profonds
 - Lenteur dans l’introduction du sango dans l’enseignement
 
 Activités
-d’enseignement du sango à différents niveaux
+- Elaborer les programmes d’enseignement du sango aux différents niveaux
 - Concevoir les manuels d’enseignement
-- Elaborer des modules du sango en tant que véhicule de la culture nationale du préscolaire au F2 et aux systèmes non formels
-- Former et recycler les enseignants des différents niveaux considérés.
+- Elaborer des modules du sango en tant que véhicule de la culture nationale du préscolaire au F2 et au système non formel
+- Former et recycler les enseignants des différents niveaux considérés
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
-52
+53
 
 [[END OF PAGE 53]]
 
@@ -2292,53 +2254,19 @@ République Centrafricaine
 Objectif I.
 
 Activités | Responsables et autres partenaires | Période | Coût en milliard | Indicateurs de résultats
-1. Elaborer les programmes de sensibilisation des communautés ;
-2. Organiser et animer les séances de sensibilisation.
-Responsables : MENRS - Mini Affaires Sociales ; Les leaders villageois - Les Journalistes ; Les partenaires au développement.
-Période : 2003 à 2010
-Coût : 0,2
-Indicateur : 80% d’enfants d’âge préscolaire effectivement scolarisés.
-
-3. Organiser des séminaires, des conférences et des tables rondes
-4. Formuler une politique nationale de promotion du scolaire
-5. Réaliser une étude de l’impact du préscolaire sur le F1
-Responsables : MENRS ; Partenaires au développement ; Les ONG.
-Période : 2003 à 2010
-Coûts : 0,1 ; 0,5 ; 0,02
-Indicateurs : Ecoles maternelles qui fonctionnent selon les normes décrites par le Ministère de l’Education Nationale. Etude réalisée/résultat disponible.
-
-6. Construire, équiper et réhabiliter les bâtiments scolaires
-Responsables : MENRS - UNESCO - UNICEF - ONG.
-Période : 2003 à 2015
-Coût : 20
-Indicateur : 100 écoles construites
-
-7. Construire des salles de réfectoire
-Responsables : MENRS – PAM – ONG
-Période : 2003 à 2015
-Coût : 2,5
-Indicateur : 100 salles construites
-
-8. Créer des centres de documentation du préscolaire par préfecture
-Responsables : MENRS – UNICEF – UNESCO - ONG
-Période : 2003 à 2015
-Coût : 3
-Indicateur : 15 centres de documentation construits et fonctionnels
-
-9. Doter les écoles maternelles en manuels scolaires, matériels didactiques ;
-Responsables : MENRS - ONG ; Partenaires au développement
-Période : 2003 à 2015
-Coût : 0,05
-Indicateur : Nombre suffisant des manuels scolaires et matériels ludiques disponibles dans les établissements.
-
-10. Organiser des séminaires, conférences d’échanges pédagogiques au niveau national et international dans les inspections scolaires du préscolaire
-Responsables : MENRS – ONG – UNESCO ; Partenaires au développement
-Période : 2005 - 2015
-Coût : 0,05
-Indicateur : 20 séminaires organisés
+1. Elaborer les programmes de sensibilisation des communautés ; | MENRS - Mini Affaires Sociales ; les leaders villageois ; les journalistes ; les partenaires au développement | 2003 à 2010 |  | 
+2. Organiser et animer les séances de sensibilisation. | MENRS - Mini Affaires Sociales ; les leaders villageois ; les journalistes ; les partenaires au développement | 2003-2010 | 0,2 | 80 % d’enfants d’âge préscolaire effectivement scolarisés
+3. Organiser des séminaires, des conférences et des tables rondes | MENRS ; partenaires au développement ; les ONG | 2003 à 2010 | 0,1 | 
+4. Formuler une politique nationale de promotion du préscolaire | MENRS ; partenaires au développement ; les ONG | 2003 à 2010 | 0,5 | Ecoles maternelles qui fonctionnent selon les normes décrites par le Ministère de l’Education Nationale
+5. Réaliser une étude de l’impact du préscolaire sur le F1 | MENRS ; partenaires au développement ; les ONG | 2003 à 2010 | 0,02 | Etude réalisée, résultat disponible
+6. Construire, équiper et réhabiliter les bâtiments scolaires | MENRS - UNESCO - UNICEF - ONG | 2003 à 2015 | 20 | 100 écoles construites
+7. Construire des salles de réfectoire | MENRS - PAM - ONG | 2003 à 2015 | 2,5 | 100 salles construites
+8. Créer des centres de documentation du préscolaire par préfecture | MENRS - UNICEF - UNESCO - ONG | 2003 à 2015 | 3 | 16 centres de documentation construits et fonctionnels
+9. Doter les écoles maternelles en manuels scolaires, matériels didactiques | MENRS - ONG ; partenaires au développement | 2003 à 2015 | 0,05 | Nombre suffisant des manuels scolaires et matériels ludiques disponibles dans les établissements
+10. Organiser des séminaires, conférences d’échanges pédagogiques au niveau national et international dans les inspections scolaires du préscolaire | MENRS - ONG - UNESCO ; partenaires au développement | 2005-2015 | 0,05 | 20 séminaires organisés
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
-53
+54
 
 [[END OF PAGE 54]]
 
@@ -2347,58 +2275,19 @@ Plan National d’Action  -  Education Pour Tous  2003 - 2015
 République Centrafricaine
 
 Activités | Responsables et autres partenaires | Période | Coût en milliard | Indicateurs de résultats
-11. Créer une unité de production de manuels didactiques ;
-Responsables : MENRS - ONG ; Partenaires au développement
-Période : 2003 - 2015
-Coût : 0,05
-Indicateur : Une unité de production de manuels didactiques disponible et fonctionnelle.
-
-12. Former et recycler en nombre suffisant les cadres pédagogiques et les enseignants
-Responsables : MENRS - ONG ; Partenaires au développement
-Période : 2003 - 2015
-Coût : 25
-Indicateur : 100% de cadres pédagogiques et enseignants
-
-13. Construire des centres d’état civil de proximité par groupement de village (2000 groupement. Le coût par groupement est de 10 000 000)
-Responsables : Ministère de l’intérieur ; Partenaires au développement ; ONG - Communautés
-Période : 2005 - 2015
-Coût : 20
-Indicateur : 2000 centres construits
-
-14. Créer et doter des unités de soins infirmiers dans les établissements préscolaires (400 centres).
-Responsables : Ministère de la santé ; MENRS - ONG
-Période : 2005 - 2015
-Coût : 15
-Indicateur : 400 centres créés et fonctionnels
-
-15. Mener des études sur les enfants handicapés, défavorisés et des minorités ethniques
-Responsables : Ministère des affaires sociales ; MENRS - ONG
-Période : 2003 - 2005
-Coût : 0,06
-Indicateur : Etude réalisée
-
-16. Construire et équiper un centre pour l’éducation des handicapés ;
-17. Renforcer la capacité des structures existantes ;
-18. Former les éducateurs spécialisés.
-Responsables : Mini Affaires Sociales ; Mini Santé ; MENRS - ONG ; Partenaires au développement.
-Périodes : 2003 - 2015 ; 2003 à 2015
-Coûts : 1 ; 0,5 ; 2
-Indicateurs : Nombre de centres spécialisés créés ; Nombre de personnels enseignants formés
-
-19. Allouer des bourses d’études aux enfants handicapés, défavorisés et ceux des minorités
-Responsables : Ministère affaires sociales ; MENRS - ONG ; Partenaires au développement
-Période : 2005 - 2015
-Coût : 1
-Indicateur : Bourses effectivement allouées
-
-20. Rédiger et vulgariser les instructions officielles et masses horaires et programmes d’enseignement.
-Responsables : MENRS - Ministère Affaires Sociales ; Partenaires au développement
-Période : 2003 à 2005
-Coût : 0,5
-Indicateur : Instructions officielles et programmes d’enseignement disponibles.
+11. Créer une unité de production de manuels didactiques ; | MENRS - ONG ; partenaires au développement | 2003-2015 | 0,05 | Une unité de production de manuels didactiques disponible et fonctionnelle
+12. Former et recycler en nombre suffisant les cadres pédagogiques et les enseignants | MENRS - ONG ; partenaires au développement | 2003-2015 | 25 | 100 % de cadres pédagogiques et enseignants
+13. Construire des centres d’état civil de proximité par groupement de village (2000 groupement. Le coût par groupement est de 10 000 000) | Ministère de l’intérieur ; partenaires au développement ; ONG - Communautés | 2005-2015 | 20 | 2000 centres construits
+14. Créer et doter des unités de soins infirmiers dans les établissements préscolaires (400 centres). | Ministère de la santé ; MENRS - ONG | 2005-2015 | 15 | 400 centres créés et fonctionnels
+15. Mener des études sur les enfants handicapés, défavorisés et des minorités ethniques | Ministère des affaires sociales ; MENRS - ONG | 2003-2005 | 0,06 | Etude réalisée
+16. Construire et équiper un centre pour l’éducation des handicapés ; | Mini Affaires Sociales ; Mini Santé ; MENRS - ONG ; partenaires au développement | 2003-2015 | 1 | Nombre de centres spécialisés créés
+17. Renforcer la capacité des structures existantes ; | Mini Affaires Sociales ; Mini Santé ; MENRS - ONG ; partenaires au développement | 2003-2015 | 0,5 | 
+18. Former les éducateurs spécialisés. | Mini Affaires Sociales ; Mini Santé ; MENRS - ONG ; partenaires au développement | 2003 à 2015 | 2 | Nombre de personnels enseignants formés
+19. Allouer des bourses d’études aux enfants handicapés, défavorisés et ceux des minorités | Ministère affaires sociales ; MENRS - ONG ; partenaires au développement | 2005-2015 | 1 | Bourses effectivement allouées
+20. Rédiger et vulgariser les instructions officielles et masses horaires et programmes d’enseignement. | MENRS - Ministère Affaires Sociales ; partenaires au développement | 2003 à 2005 | 0,5 | Instructions officielles et programmes d’enseignement disponibles
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
-54
+55
 
 [[END OF PAGE 55]]
 
@@ -2409,74 +2298,20 @@ République Centrafricaine
 Objectif II :
 
 Activités | Responsables et autres partenaires | Période | Coût en millions F CFA | Indicateurs de résultats
-1- Réaliser une étude sociologique sur les attentes des parents vis à vis de l’école
-Responsables : MENRS ; Mini Affaires Sociales
-Période : 2003
-Coût : 0,02
-Indicateur : Etude disponible
-
-2- Mener une campagne de sensibilisation en faveur de la généralisation de l’enseignement Fondamental 1.
-Responsables : MENRS – RTS - Radio-Télévision Centrafricaine - APE
-Période : 2003
-Coût : 0,5
-Indicateur : Toutes les localités du territoire national ont été sensibilisées.
-
-3- Promouvoir des projets de développement à travers tout le pays
-Responsables : Mini Economie, Plan ; Mini Développement Rural
-Période : 2003-2015
-Coût : 5
-Indicateur : Les indicateurs socio-économiques s’améliorent.
-
-4- Elaborer des textes légaux relatifs à l’application de la convention sur le travail de l’enfant.
-Responsable : Assemblée Nationale
-Période : 2003
-Coût : 0,02
-Indicateur : Les textes sont élaborés et appliqués.
-
-5- Construire et entretenir régulièrement les structures d’accueil.
-Responsables : MENRS ; Mini Travaux Publics
-Période : 2003-2015
-Coût : 200
-Indicateur : Les routes sont régulièrement entretenues.
-
-6. Former et recruter les enseignants en grand nombre pour l’enseignement public et privé.
-Responsables : MENRS ; Mini Fonction Publique
-Période : 2003-2015
-Coût : 50
-Indicateur : Ratio élève/maître réduit à 50.
-
-7. Réaliser une étude sociologique sur les attentes des parents
-Responsables : Affaires Sociales - MENRS
-Période : 2003-2005
-Coût : 0,02
-Indicateur : Etude réalisée
-
-8- Renforcer les capacités de ressources humaine et financière
-Responsables : MENRS - Ministère du Plan ; Ministère de la Fonction Publique
-Période : 2003-2004
-Coût : 0,5
-Indicateur : Les unités déconcentrées n’éprouvent plus de difficulté matérielle.
-
-9- Réhabiliter les structures d’accueil existantes
-Responsable : MENRS
-Période : 2003-2015
-Coût : 5
-Indicateur : L’offre d’éducation renforcée en milieu rural.
-
-10. Promouvoir les écoles communautaires de base
-Responsables : MENRS – Partenaires au développement
-Période : 2005-2015
-Coût : 0,2
-Indicateur : Structures réhabilitées et fonctionnelles
-
-11. Réaliser une étude sur les attentes de ces groupes
-Responsables : Ministère des Affaires Sociales ; MENRS - ONG ; Partenaires au développement
-Période : 2003-2005
-Coût : 0,06
-Indicateur : Etude réalisée
+1- Réaliser une étude sociologique sur les attentes des parents vis à vis de l’école | MENRS ; Mini Affaires Sociales | 2003 | 0,02 | Etude disponible
+2- Mener une campagne de sensibilisation en faveur de la généralisation de l’enseignement Fondamental 1. | MENRS - RTS - Radio-Télévision Centrafricaine - APE | 2003 | 0,5 | Toutes les localités du territoire national ont été sensibilisées
+3- Promouvoir des projets de développement à travers tout le pays | Mini Economie, Plan ; Mini Développement Rural | 2003-2015 | 5 | Les indicateurs socio-économiques s’améliorent
+4- Elaborer des textes légaux relatifs à l’application de la convention sur le travail de l’enfant. | Assemblée Nationale | 2003 | 0,02 | Les textes sont élaborés et appliqués
+5- Construire et entretenir régulièrement les structures d’accueil. | MENRS ; Mini Travaux Publics | 2003-2015 | 200 | Les routes sont régulièrement entretenues
+6- Former et recruter les enseignants en grand nombre pour l’enseignement public et privé. | MENRS ; Mini Fonction Publique | 2003-2015 | 50 | Ratio élève/maître réduit à 50
+7- Réaliser une étude sociologique sur les attentes des parents | Affaires Sociales - MENRS | 2003-2005 | 0,02 | Etude réalisée
+8- Renforcer les capacités de ressources humaine et financière | MENRS - Ministère du Plan ; Ministère de la Fonction Publique | 2003-2004 | 0,5 | Les unités déconcentrées n’éprouvent plus de difficultés matérielles
+9- Réhabiliter les structures d’accueil existantes | MENRS | 2003-2015 | 5 | L’offre d’éducation renforcée en milieu rural
+10. Promouvoir les écoles communautaires de base | MENRS - Partenaires au développement | 2005-2015 | 0,2 | Structures réhabilitées et fonctionnelles
+11. Réaliser une étude sur les attentes de ces groupes | Ministère des Affaires Sociales ; MENRS - ONG ; partenaires au développement | 2003-2005 | 0,06 | Etude réalisée
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
-55
+56
 
 [[END OF PAGE 56]]
 
@@ -2487,55 +2322,17 @@ République Centrafricaine
 Objectif III :
 
 Activités | Responsables + Partenaires | Période d’exécution | Coût total en milliard F CFA | Indicateurs de résultats
-1. Elaborer des programmes de sensibilisation.
-Responsables : MENRS - APE ; Mini Communication
-Période : 2003 - 2010
-Coût : 0,026
-Indicateur : Programmes élaborés disponibles
-
-2. Organiser et animer les séances de sensibilisation
-Responsables : MENRS - Mini Plan ; Partenaires
-Période : 2003 – 2010
-Coût : 0,2
-Indicateur : Nombre de séances de sensibilisations réalisées.
-
-3. Construire des établissements pour l’enseignement secondaire général, technique, professionnel et post-primaire (centre d’apprentissage ruraux)
-Responsables : MENRS ; Sociétés forestières
-Période : 2003 - 2015
-Coût : 0,936
-Indicateur : Nombre d’établissements pour l’enseignement secondaire général, technique, professionnel et post-primaire construits
-
-4. Renforcer les capacités financières (partenariat)
-Responsables : MENRS - FAPE ; Partenaires
-Période : 2003 - 2015
-Coût : 0,13
-Indicateur : Appui financier des partenaires accordé
-
-5. Réhabiliter les établissements existants.
-Période : 2003 - 2010
-Coût : 2,6
-Indicateur : Nombre d’établissements réhabilités
-
-6. Développer les écoles de 3è type (post-primaire).
-Responsables : MENRS ; Partenaires
-Période : 2003 - 2015
-Coût : 0,65
-Indicateur : Ecoles de 3ème type construites et équipées
-
-7. Former les administrateurs à la gestion scolaire.
-Responsables : MENRS - ONI
-Période : 2003 - 2006
-Coût : 0,03
-Indicateur : 260 administrateurs en gestion scolaire formés
-
-8. Réaliser une étude sur les besoins en formation de chaque région.
-Responsables : MENRS - Partenaires ; Autres secteurs
-Période : 2003-2006
-Coût : (0,005 x 4) x7 = 0,14
-Indicateur : Etudes réalisées dans les 7 régions
+1. Elaborer des programmes de sensibilisation. | MENRS - APE ; Mini Communication | 2003-2010 | 0,026 | Programmes élaborés disponibles
+2. Organiser et animer les séances de sensibilisation | MENRS - Mini Plan ; partenaires | 2003-2010 | 0,2 | Nombre de séances de sensibilisation réalisées
+3. Construire des établissements pour l’enseignement secondaire général, technique, professionnel et post-primaire (centre d’apprentissage ruraux) | MENRS ; sociétés forestières | 2003-2015 | 0,936 | Nombre d’établissements pour l’enseignement secondaire général, technique, professionnel et post-primaire construits
+4. Renforcer les capacités financières (partenariat) | MENRS - FAPE ; partenaires | 2003-2015 | 0,13 | Appui financier des partenaires accordé
+5. Réhabiliter les établissements existants. |  | 2003-2010 | 2,6 | Nombre d’établissements réhabilités
+6. Développer les écoles de 3è type (post-primaire). | MENRS ; partenaires | 2003-2015 | 0,65 | Ecoles de 3ème type construites et équipées
+7. Former les administrateurs à la gestion scolaire. | MENRS - ONI | 2003-2006 | 0,03 | 260 administrateurs en gestion scolaire formés
+8. Réaliser une étude sur les besoins en formation de chaque région. | MENRS - partenaires ; autres secteurs | 2003-2006 | (0,005 x 4) x 7 = 0,14 | Etudes réalisées dans les 7 régions
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
-56
+57
 
 [[END OF PAGE 57]]
 
@@ -2546,68 +2343,18 @@ République Centrafricaine
 Objectif IV
 
 Activités | Responsables + Partenaires | Période d’exécution | Coût total en milliard de FCA | Indicateurs de résultats
-1. Elaborer des programmes de sensibilisation.
-Responsables : MENRS - ONG ; Mini communication ; Association/groupements féminins ; Chefs de département ; Chefs traditionnels
-Période : 2003-2015
-Coût : 0,026
-Indicateur : 90% de la population alphabétisée/informée.
-
-2. Animer et organiser des séances de sensibilisation.
-Responsables : MENRS - ONG ; Associations
-Période : 2003-2005
-Coût : 0,065
-Indicateur : Nombre de séances de sensibilisation réalisées
-
-3. Construire et équiper 960 centres d’alphabétisation.
-Responsables : MENRS ; Partenaires au développement
-Période : 2003-2015
-Coût : 9,6
-Indicateur : 960 centres d’alphabétisation fonctionnels équipés.
-
-4. Former 1.968 agents d’alphabétisation :
-- 1920 alphabétiseurs ;
-- 48 superviseurs et chefs de section.
-Responsables : MENRS - ONG ; Associations et groupements féminins.
-Période : 2003-2015
-Coût : 2,664.720
-(Formation de base des alphabétiseurs : 2.073.600.000
-Recyclage des alphabétiseurs : 518.400.000
-Formation des superviseurs et chefs de section : 43.200.000
-Transport des agents : 29.520.000)
-Indicateur : 1.968 alphabétiseurs et superviseurs formés.
-
-5. Recenser les analphabètes et leurs besoins en matière d’alphabétisation.
-Responsables : MENRS ; Ministère Communication ; Groupements féminins et ONG.
-Période : 2003-2015
-Coût : 0,02
-Indicateur : 1.200.000 alphabétisés
-
-6. Elaborer et/ou réviser les programmes d’alphabétisation et post-alphabétisation existants.
-Responsables : MENRS ; ONG/Associations
-Période : 2003-2005
-Coût : 0,050
-Indicateur : Programmes d’alphabétisation disponibles.
-
-7. Organiser la formation des cadres au niveau central (séminaires et voyages d’études)
-Responsables : MENRS ; ONG
-Période : 2005-2010
-Coût : 0,116.6
-Indicateur : Echanges d’expériences menés.
-
-8. Equiper la DEA en moyens roulants au niveau central et régional.
-Responsables : MENRS - ONG ; Associations
-Période : 2003-2005
-Coût : 3,294.825
-Indicateur : Matériels de suivi disponibles
-
-9. Equiper la DEA en matériels et fournitures de bureau et en bibliothèque.
-Responsables : MENRS ; Partenaires au développement.
-Période : 2003-2015
-Coût : 1,1828
-Indicateur : DEA équipée et dotée en bibliothèque.
+1. Elaborer des programmes de sensibilisation. | MENRS - ONG ; Mini communication ; Association/groupements féminins ; Chefs de département ; Chefs traditionnels | 2003-2015 | 0,026 | 80 % de la population analphabétisée/informée
+2. Animer et organiser des séances de sensibilisation. | MENRS - ONG ; Associations | 2003-2005 | 0,065 | Nombre de séances de sensibilisation réalisées
+3. Construire et équiper 960 centres d’alphabétisation. | MENRS ; partenaires au développement | 2003-2015 | 9,6 | 960 centres d’alphabétisation fonctionnels équipés
+4. Former 1.968 agents d’alphabétisation : 1920 alphabétiseurs ; 48 superviseurs et chefs de section. | MENRS - ONG ; Associations et groupements féminins | 2003-2015 | 2,664.720 (Formation de base des alphabétiseurs : 2.073.600.000 ; Recyclage des alphabétiseurs : 518.400.000 ; Formation des superviseurs et chefs de section : 43.200.000 ; Transport des agents : 29.520.000) | 1.968 alphabétiseurs et superviseurs formés
+5. Recenser les analphabètes et leurs besoins en matière d’alphabétisation. | MENRS ; Ministère Communication ; Groupements féminins et ONG | 2003-2015 | 0,02 | 1.200.000 alphabétisés
+6. Elaborer et/ou réviser les programmes d’alphabétisation et post-alphabétisation existants. | MENRS ; ONG/Associations | 2003-2005 | 0,050 | Programmes d’alphabétisation disponibles
+7. Organiser la formation des cadres au niveau central (séminaires et voyages d’études) | MENRS ; ONG | 2005-2010 | 0,116.6 | Echanges d’expériences menés
+8. Equiper la DEA en moyens roulants au niveau central et régional. | MENRS - ONG ; Associations | 2003-2005 | 3,294.825 | Matériels de suivi disponibles
+9. Equiper la DEA en matériels et fournitures de bureau et en bibliothèque. | MENRS ; partenaires au développement | 2003-2015 | 1,1828 | DEA équipée et dotée en bibliothèque
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
-57
+58
 
 [[END OF PAGE 58]]
 
@@ -2616,38 +2363,14 @@ Plan National d’Action  -  Education Pour Tous  2003 - 2015
 République Centrafricaine
 
 Activités | Responsables + Partenaires | Période d’exécution | Coût total en milliard de FCA | Indicateurs de résultats
-10. Mettre en place des technologies appropriées et des structures d’accompagnement susceptibles de générer des revenus.
-Responsables : MENRS - Mini Affaires Sociales ; Mini Agriculture ; ONG/Associations
-Période : 2003-2015
-Coût : 1
-Indicateur : Technologies appropriées et structures d’accompagnement disponibles.
-
-11. Développer des actions de post-alphabétisation dans les associations et groupements exerçant des activités sur le terrain.
-Responsables : MENRS ; ONG
-Période : 2003-2015
-Coût : 0,2
-Indicateur : Groupements et Associations rendus dynamiques et compétents.
-
-12. Effectuer régulièrement des missions de formation, de suivi et d’évaluation.
-Responsables : MENRS ; Mini Communication ; ONG
-Période : 2003-2015
-Coût : 0,2
-Indicateur : Rapports de missions et d’évaluation disponibles.
-
-13. Créer 1.000 centres villageois de lecture et d’animation culturelle au niveau des communes.
-Responsables : MENRS - ONG ; Mini Communication ; Partenaires au développement.
-Période : 2003-2015
-Coût : 10
-Indicateur : Centres opérationnels à 100%.
-
-14. Organiser régulièrement les journées internationales d’alphabétisation.
-Responsables : MENRS ; Partenaires au développement.
-Période : 2003-2015
-Coût : 0,06
-Indicateur : 12 journées internationales d’alphabétisation organisées.
+10. Mettre en place des technologies appropriées et des structures d’accompagnement susceptibles de générer des revenus. | MENRS - Mini Affaires Sociales ; Mini Agriculture ; ONG/Associations | 2003-2015 | 1 | Technologies appropriées et structures d’accompagnement disponibles
+11. Développer des actions de post-alphabétisation dans les associations et groupements exerçant des activités sur le terrain. | MENRS ; ONG | 2003-2015 | 0,2 | Groupements et Associations rendus dynamiques et compétents
+12. Effectuer régulièrement des missions de formation, de suivi et d’évaluation. | MENRS ; Mini Communication ; ONG | 2003-2015 | 0,2 | Rapports de missions et d’évaluation disponibles
+13. Créer 1.000 centres villageois de lecture et d’animation culturelle au niveau des communes. | MENRS - ONG ; Mini Communication ; partenaires au développement | 2003-2015 | 10 | Centres opérationnels à 100 %
+14. Organiser régulièrement les journées internationales d’alphabétisation. | MENRS ; partenaires au développement | 2003-2015 | 0,06 | 12 journées internationales d’alphabétisation organisées
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
-58
+59
 
 [[END OF PAGE 59]]
 
@@ -2658,44 +2381,15 @@ République Centrafricaine
 Objectif V
 
 Activités | Responsables + Partenaires | Période | Coût | Indicateurs de résultats
-1. Accroître la construction des structures d’accueil au profit des filles.
-Responsables : MENRS / Finances / Mini. Habitat / Autres partenaires
-Période : 2003 – 2005
-Coût : 3,2
-Indicateur : Structures d’accueil opérationnelle
-
-2. Organisation des séminaires de sensibilisation en faveur de la scolarisation des filles.
-Responsables : Communauté / Partenaires
-Période : 2003 – 2015
-Coût : 0,05
-Indicateur : 8 séminaires organisés
-
-3. Organisation des séminaires de sensibilisation au profit des populations.
-Responsables : MENRS / Ministère Communication / Partenaires
-Période : 2003 – 2015
-Coût : 0,05
-Indicateur : 16 séminaires organisés
-
-4. Octroi des bourses d’études
-Responsables : MENRS / Finances
-Période : 2003 – 2015
-Coût : 0,65
-Indicateur : Filles du F2 boursières
-
-5. Création des pensionnats au F2
-Responsables : MENRS / Finances / Partenaires
-Période : 2003 - 2015
-Coût : 1,2
-Indicateur : 60 pensionnats construits
-
-6. Doter le service de promotion de la scolarisation des filles en moyens logistiques (moyen roulant et un ordinateur)
-Responsables : MENRS / Partenaires
-Période : 2003
-Coût : 0,03
-Indicateur : 1 véhicule 4 x 4 et 1 ordinateur
+1. Accroître la construction des structures d’accueil au profit des filles. | MENRS / Finances / Mini. Habitat / Autres partenaires | 2003-2005 | 3,2 | Structures d’accueil opérationnelles
+2. Organisation des séminaires de sensibilisation en faveur de la scolarisation des filles. | Communauté / Partenaires | 2003-2015 | 0,05 | 8 séminaires organisés
+3. Organisation des séminaires de sensibilisation au profit des populations. | MENRS / Ministère Communication / Partenaires | 2003-2015 | 0,05 | 16 séminaires organisés
+4. Octroi des bourses d’études | MENRS / Finances | 2003-2015 | 0,65 | Filles du F2 boursières
+5. Création des pensionnats au F2 | MENRS / Finances / Partenaires | 2003-2015 | 1,2 | 60 pensionnats construits
+6. Doter le service de promotion de la scolarisation des filles en moyens logistiques (moyen roulant et un ordinateur) | MENRS / Partenaires | 2003 | 0,03 | 1 véhicule 4 x 4 et 1 ordinateur
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
-59
+60
 
 [[END OF PAGE 60]]
 
@@ -2705,67 +2399,22 @@ République Centrafricaine
 
 Objectif VI
 
-ACTIVITES | Responsables + Partenaires | PERIODE D’EXECUTION | COUT TOTAL En milliard de F CFA | INDICATEURS DE RESULTATS
+ACTIVITES | Responsables + Partenaires | PERIODE D’EXECUTION | COUT TOTAL en milliard de F CFA | Indicateurs de résultats
 
 Fondamental-1
 
-1. Elaborer les programmes, organiser et animer les séances de sensibilisation
-Responsables : MENRS – Communication – ONG
-Période : 2003-2006
-Coût : 0,2
-Indicateurs : Programme élaboré ; nombre de séances organisées
-
-2. Organiser des séminaires, conférences et tables rondes
-Responsables : MENRS – Communication – ONG – PLAN
-Période : 2003-2006
-Coût : 0,1
-Indicateur : Nombre de séminaires/conférences et tables rondes tenus
-
-3. Construire 1756 bâtiments de 3 salles de classe
-Responsables : MENRS - Finances – ONG – PLAN
-Période : 2003 – 2010
-Coût : 7,8
-Indicateur : ratio élève/classes ramené à 50
-
-4. Confectionner 69351 tables-bancs
-Responsables : MENRS - Finances – ONG – PLAN
-Période : 2003 – 2010
-Coût : 1,8
-Indicateur : ratio élève/tables-bancs
-
-5. Doter les écoles de 1500 bibliothèques
-Responsables : MENRS - Finances – ONG – PLAN
-Période : 2003 – 2010
-Coût : 2
-Indicateur : 1500 bibliothèques disponibles
-
-6. Confectionner le matériel didactique de calcul nécessaire d’ici 2015
-Responsables : MENRS - Finances – ONG – PLAN
-Période : 2003 – 2015
-Coût : 0,5
-Indicateur : 335 500 matériels didactiques de calcul confectionnés
-
-7. Redéfinir les domaines de responsabilités de l’Etat, des APE, des collectivités locales et autres partenaires
-Responsables : MENRS - ONG – APE
-Période : 2003 – 2005
-Indicateur : Textes conçus élaborés et disponibles
-
-8. Former 750 enseignants chaque année
-Responsables : MENRS - Finances – PLAN – ONG - Partenaires
-Période : 2003
-Coût : 0,04
-Indicateur : 750 enseignants du F1 formés
-
-9. Recycler les enseignants du public et du privé
-Responsables : MENRS - Finances – ONG – PLAN - Partenaires
-Période : 2003-2007
-Coût : 0,1
-Indicateur : Nombre d’enseignants recyclés
-
-Nombre de professeurs d’écoles
+1. Elaborer les programmes, organiser et animer les séances de sensibilisation | MENRS - Communication - ONG | 2003-2006 | 0,2 | Programme élaboré ; nombre de séances organisées
+2. Organiser des séminaires, conférences et tables rondes | MENRS - Communication - ONG - PLAN | 2003-2006 | 0,1 | Nombre de séminaires, conférences et tables rondes tenus
+3. Construire 1756 bâtiments de 3 salles de classe | MENRS - Finances - ONG - PLAN | 2003-2010 | 7,8 | Ratio élève/classe ramené à 50
+4. Confectionner 69351 tables-bancs | MENRS - Finances - ONG - PLAN | 2003-2010 | 1,8 | Ratio élève/tables-bancs
+5. Doter les écoles de 1500 bibliothèques | MENRS - Finances - ONG - PLAN | 2003-2010 | 2 | 1500 bibliothèques disponibles
+6. Confectionner le matériel didactique de calcul nécessaire d’ici 2015 | MENRS - Finances - ONG - PLAN | 2003-2015 | 0,5 | 335 500 matériels didactiques de calcul confectionnés
+7. Redéfinir les domaines de responsabilités de l’Etat, des APE, des collectivités locales et autres partenaires | MENRS - ONG - APE | 2003-2005 |  | Textes conçus, élaborés et disponibles
+8. Former 750 enseignants chaque année | MENRS - Finances - PLAN - ONG - Partenaires | 2003 | 0,04 | 750 enseignants du F1 formés
+9. Recycler les enseignants du public et du privé | MENRS - Finances - ONG - PLAN - Partenaires | 2003-2007 | 0,1 | Nombre d’enseignants recyclés
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
-60
+61
 
 [[END OF PAGE 61]]
 
@@ -2773,77 +2422,21 @@ Plan National d’Action  -  Education Pour Tous  2003 - 2015
 
 République Centrafricaine
 
-ACTIVITES | Responsables + Partenaires | PERIODE D’EXECUTION | COUT TOTAL En milliard de F CFA | INDICATEURS DE RESULTATS
-
-11. Former des professeurs d’écoles normales)
-Responsables : PLAN - Partenaires
-Période : 2003 – 2007
-Coût : 2
-Indicateur : normales formés
-
-12. Former les encadreurs pédagogiques du F1 ;
-Responsables : MENRS - ONG - APE
-Période : 2003-2010
-Coût : 3
-Indicateur : Nombre d’encadreurs pédagogiques du F1 formés
-
-13. Réviser les programmes d’enseignement du F1
-Responsables : MENRS - Finances – ONG – Partenaires
-Période : 2003 - 2015
-Coût : 45
-Indicateur : Programmes révisés disponibles
-
-14. Renforcer les activités de formation à distance à tous les niveaux
-Responsables : MENRS - Finances – ONG – PLAN – Partenaires
-Période : 2003-2015
-Coût : 20
-Indicateur : Nombre de formation à distance assurée
-
-15. Introduire le sango dans le F1 en tant que discipline et langue d’enseignement
-Responsables : MENRS - Finances – ONG – PLAN – Partenaires
-Période : 2003-2015
-Coût : 0,4
-Indicateur : Le sango est introduit dans toutes les écoles
-
-16. Organiser des stages de recyclage ou de perfectionnement en gestion et administration scolaire des directeurs, des IEF1 et des Inspecteurs d’Académie
-Responsables : MENRS - Finances – ONG – PLAN – Partenaires
-Période : 2003-2015
-Coût : 4
-Indicateur : Nombre de recyclages réalisés
-
-17. Doter les organes de direction, de supervision et d’évaluation en moyens logistiques
-Responsables : MENRS - Finances – ONG – Partenaires
-Période : 2003-20015
-Coût : 25
-Indicateur : Nombre de moyens logistiques fournis
-
-18. Créer un environnement propice à l’apprentissage (cantine scolaire, installation sportives, culturelle et sanitaire)
-Responsables : MENRS - Justice – ONG – Partenaires
-Période : 2003-2004
-Coût : 0,05
-Indicateur : Nombre de structures créées et fonctionnelles
-
-19. Renforcer et appliquer les textes de protection juridiques et sociale en milieu scolaire
-Responsables : MENRS - Finances – ONG – PLAN – Partenaires
-Période : 2003-2004
-Indicateur : Protection de la communauté scolaire assurée et diminution des actes de violence en milieu scolaire
-
-20. Former et recycler les agents parents
-Responsables : MENRS – ONG – Partenaires
-Période : 2003 – 2015
-Coût : 0,8
-Indicateur : 100% d’agents parents du F1 qualifiés
-
-21. Harmoniser les méthodes d’enseignement aussi bien dans le secteur public que privé
-Responsables : MENRS - Finances – PLAN – Partenaires
-Période : 2003 – 2006
-Coût : 0,005
-Indicateur : Méthodes harmonisées
-
-EVF/EMP enseigné dans toutes les
+ACTIVITES | Responsables + Partenaires | PERIODE D’EXECUTION | COUT TOTAL en milliard de F CFA | Indicateurs de résultats
+11. Former des professeurs d’écoles normales | PLAN - Partenaires | 2003-2007 | 2 | Nombre de professeurs d’écoles normales formés
+12. Former les encadreurs pédagogiques du F1 ; | MENRS - ONG - APE | 2003-2010 | 3 | Nombre d’encadreurs pédagogiques du F1 formés
+13. Réviser les programmes d’enseignement du F1 | MENRS - Finances - ONG - Partenaires | 2003-2015 | 45 | Programmes révisés disponibles
+14. Renforcer les activités de formation à distance à tous les niveaux | MENRS - Finances - ONG - PLAN - Partenaires | 2003-2015 | 20 | Nombre de formations à distance assurées
+15. Introduire le sango dans le F1 en tant que discipline et langue d’enseignement | MENRS - Finances - ONG - PLAN - Partenaires | 2003-2015 | 0,4 | Le sango est introduit dans toutes les écoles
+16. Organiser des stages de recyclage ou de perfectionnement en gestion et administration scolaire des directeurs, des IEF1 et des Inspecteurs d’Académie | MENRS - Finances - ONG - PLAN - Partenaires | 2003-2015 | 4 | Nombre de recyclages réalisés
+17. Doter les organes de direction, de supervision et d’évaluation en moyens logistiques | MENRS - Finances - ONG - Partenaires | 2003-20015 | 25 | Nombre de moyens logistiques fournis
+18. Créer un environnement propice à l’apprentissage (cantine scolaire, installation sportives, culturelle et sanitaire) | MENRS - Justice - ONG - Partenaires | 2003-2004 | 0,05 | Nombre de structures créées et fonctionnelles
+19. Renforcer et appliquer les textes de protection juridiques et sociale en milieu scolaire | MENRS - Finances - ONG - PLAN - Partenaires | 2003-2004 |  | Protection de la communauté scolaire assurée et diminution des actes de violence en milieu scolaire
+20. Former et recycler les agents parents | MENRS - ONG - Partenaires | 2003-2015 | 0,8 | 100 % d’agents parents du F1 qualifiés
+21. Harmoniser les méthodes d’enseignement aussi bien dans le secteur public que privé | MENRS - Finances - PLAN - Partenaires | 2003-2006 | 0,005 | Méthodes harmonisées
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
-61
+62
 
 [[END OF PAGE 62]]
 
@@ -2851,72 +2444,23 @@ Plan National d’Action  -  Education Pour Tous  2003 - 2015
 
 République Centrafricaine
 
-ACTIVITES | Responsables + Partenaires | PERIODE D’EXECUTION | COUT TOTAL En milliard de F CFA | INDICATEURS DE RESULTATS
-
-22. Généraliser l’enseignement de l’EVF/EMP ;
-Responsables : MENRS - ONG – Partenaires
-Période : 2003 – 2010
-Coût : 3
-Indicateur : écoles
-
-23. Renforcer la collaboration école/milieu
-Responsables : MENRS - ONG – Partenaires
-Période : 2003 - 2015
-Coût : ----
-Indicateur : Ecole intégrée au milieu
-
-24. Réviser à la hausse les quotas horaires des enseignements de lecture, écriture et calcul (10 h hebdomadaire au CI-CP et 5 h de lecture hebdomadaire au CE-CM)
-Responsables : MENRS - ONG – Partenaires
-Période : 2003 - 2006
-Coût : 0,05
-Indicateur : Quotas horaires augmentés
-
-25. Elaborer les curricula et le programme d’enseignement de la langue sango comme vecteur de la culture nationale
-Responsables : MENRS - ONG – Partenaires
-Période : 2003 - 2006
-Coût : 0,02
-Indicateur : Programme élaboré disponible
-
-26. Etoffer et articuler les filières de formation en fonction des besoins réels
-Responsable : MENRS
-Période : 2003 - 2006
-Coût : 0,005
-Indicateur : Adéquation formation emploi
-
-27. Appliquer les textes réglementaires relatifs aux critères et normes de nomination aux postes de responsabilités dans les établissements publics et privés
-Responsables : MENRS - Finances – ONG – PLAN – Fonction Publique - MENRS
-Période : 2003 - 2006
-Coût : 0
-Indicateur : Nomination conforme aux qualifications
-
-28. Mettre en place une politique d’incitation et de stabilisation du personnel
-Responsables : MENRS - Finances – ONG – PLAN – Partenaires
-Période : 2003 - 2006
-Coût : 0
-Indicateur : Politique d’incitation et de stabilisation élaborée et mise en oeuvre
+ACTIVITES | Responsables + Partenaires | PERIODE D’EXECUTION | COUT TOTAL en milliard de F CFA | Indicateurs de résultats
+22. Généraliser l’enseignement de l’EVF/EMP ; | MENRS - ONG - Partenaires | 2003-2010 | 3 | EVF/EMP enseigné dans toutes les écoles
+23. Renforcer la collaboration école/milieu | MENRS - ONG - Partenaires | 2003-2015 | ---- | Ecole intégrée au milieu
+24. Réviser à la hausse les quotas horaires des enseignements de lecture, écriture et calcul (10 h hebdomadaire au CI-CP et 5 h de lecture hebdomadaire au CE-CM) | MENRS - ONG - Partenaires | 2003-2006 | 0,05 | Quotas horaires augmentés
+25. Elaborer les curricula et le programme d’enseignement de la langue sango comme vecteur de la culture nationale | MENRS - ONG - Partenaires | 2003-2006 | 0,02 | Programme élaboré disponible
+26. Etoffer et articuler les filières de formation en fonction des besoins réels | MENRS | 2003-2006 | 0,005 | Adéquation formation emploi
+27. Appliquer les textes réglementaires relatifs aux critères et normes de nomination aux postes de responsabilités dans les établissements publics et privés | MENRS - Finances - ONG - PLAN - Fonction Publique - MENRS | 2003-2006 | 0 | Nomination conforme aux qualifications
+28. Mettre en place une politique d’incitation et de stabilisation du personnel | MENRS - Finances - ONG - PLAN - Partenaires | 2003-2006 | 0 | Politique d’incitation et de stabilisation élaborée et mise en œuvre
 
 Le Fondamental 2, Secondaire général, technique et professionnel (F2, SGTP)
 
-1. Elaborer les programmes de sensibilisation ;
-Responsables : MENRS, JEUNESSE et SPORT, ONG, Partenaires
-Période : 2003-2006
-Coût : 0
-Indicateur : Programmes élaborés et disponibles
-
-2. Organiser et animer les séances de sensibilisation
-Responsables : MENRS, JEUNESSE et SPORT, ONG, Partenaires, Communication
-Période : 2003-2006
-Coût : 0,2
-Indicateur : Nombre de séances réalisées
-
-3. Organiser les séminaires, conférences et tables rondes
-Responsables : MENRS, JEUNESSE et SPORT, ONG, Partenaires, Communication, PLAN
-Période : 2003-2006
-Coût : 0,1
-Indicateur : Nombre de séminaires, conférences et tables rondes tenus
+1. Elaborer les programmes de sensibilisation ; | MENRS, JEUNESSE et SPORT, ONG, Partenaires | 2003-2006 |  | Programmes élaborés et disponibles
+2. Organiser et animer les séances de sensibilisation | MENRS, JEUNESSE et SPORT, ONG, Partenaires, Communication | 2003-2006 | 0,2 | Nombre de séances réalisées
+3. Organiser les séminaires, conférences et tables rondes | MENRS, JEUNESSE et SPORT, ONG, Partenaires, Communication, PLAN | 2003-2006 | 0,1 | Nombre de séminaires, conférences et tables rondes tenus
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
-62
+63
 
 [[END OF PAGE 63]]
 
@@ -2924,82 +2468,22 @@ Plan National d’Action  -  Education Pour Tous  2003 - 2015
 
 République Centrafricaine
 
-ACTIVITES | Responsables + Partenaires | PERIODE D’EXECUTION | COUT TOTAL En milliard de F CFA | INDICATEURS DE RESULTATS
-
-4. Augmenter les structures de formation du personnel enseignant du F2, secondaire général, technique et professionnel
-Responsables : MENRS, ONG, Partenaires, PLAN
-Période : 2003-2015
-Coût : 3
-Indicateur : Nombre de structures de formation construites et équipées
-
-5. Faire des études sur les compétences, les attitudes et les savoirs nécessaires à une vie acceptable et les possibilités d’exploitation des ressources naturelles locales
-Responsables : MENRS, JEUNESSE et SPORT, ONG, Partenaires, Communication, PLAN
-Période : 2003-2006
-Coût : 0,01
-Indicateur : Résultats d’études disponibles
-
-6. Adapter les programmes d’enseignement du F2, Secondaire général, technique et professionnel aux besoins du marché
-Responsables : MENRS, JEUNESSE et SPORT, ONG, Partenaires
-Période : 2003-2006
-Coût : 0,002
-Indicateur : Adéquation formation emploi
-
-7. Renforcer l’équipement des classes du F2 en fonction de la spécificité des matières
-Responsables : MENRS, JEUNESSE et SPORT, ONG, Partenaires, Plan
-Période : 2003 2010
-Coût : 1,5
-Indicateur : Nombres de classes équipées selon les filières
-
-8. Introduire à tous les niveaux d’enseignement dans toutes les filières l’EVF/EMP
-Responsables : MENRS, Plan et Partenaires
-Période : 2003 2010
-Coût : 1,
-Indicateur : EVF/EMP introduite dans toutes les filières
-
-9. Former les concepteurs des matériels et supports didactiques
-Responsables : MENRS Partenaires
-Période : 2003-2006
-Coût : 0,5
-Indicateur : Nombre de concepteurs formés
-
-10. Mettre en œuvre le PNDE
-Responsables : MENRS Partenaires, ONG
-Période : 2003-2006
-Coût : Voir PNDE
-Indicateur : PNDE appliqué
-
-11. Respecter le volume horaire des classes
-Responsables : MENRS, ONG
-Période : 2003-2015
-Coût : Néant
-Indicateur : Volume horaire respecté
-
-12. Former les enseignants spécialisés dans les différentes filières du F2, secondaire, général, technique et professionnel
-Responsables : MENRS, JEUNESSE et SPORT, ONG, Partenaires
-Période : 2003-2015
-Coût : 1,5
-Indicateur : Nombre d’enseignants qualifiés
-
-13. Renforcer les moyens logistiques d’encadrement et de supervision
-Responsables : MENRS, JEUNESSE et SPORT, ONG, Partenaires, Plan
-Période : 2003 2010
-Coût : 2
-Indicateur : Nombre de moyens logistiques fournis
-
-14. Vulgariser les textes réglementant les responsabilités éducatives du personnel scolaire
-Responsables : MENRS, JEUNESSE et SPORT, ONG, Partenaires
-Période : 2003 2006
-Coût : 0,02
-Indicateur : Textes vulgarisés
-
-15. Renforcer le dispositif de suivi-évaluation
-Responsables : MENRS, JEUNESSE et SPORT, ONG, Partenaires, Plan
-Période : 2003-2010
-Coût : 0,5
-Indicateur : Rapports de missions disponibles
+ACTIVITES | Responsables + Partenaires | PERIODE D’EXECUTION | COUT TOTAL en milliard de F CFA | Indicateurs de résultats
+4. Augmenter les structures de formation du personnel enseignant du F2, secondaire général, technique et professionnel | MENRS, ONG, Partenaires, PLAN | 2003-2015 | 3 | Nombre de structures de formation construites et équipées
+5. Faire des études sur les compétences, les attitudes et les savoirs nécessaires à une vie acceptable et les possibilités d’exploitation des ressources naturelles locales | MENRS, JEUNESSE et SPORT, ONG, Partenaires, Communication, PLAN | 2003-2006 | 0,01 | Résultats d’études disponibles
+6. Adapter les programmes d’enseignement du F2, Secondaire général, technique et professionnel aux besoins du marché | MENRS, JEUNESSE et SPORT, ONG, Partenaires | 2003-2006 | 0,002 | Adéquation formation emploi
+7. Renforcer l’équipement des classes du F2 en fonction de la spécificité des matières | MENRS, JEUNESSE et SPORT, ONG, Partenaires, Plan | 2003-2010 | 1,5 | Nombres de classes équipées selon les filières
+8. Introduire à tous les niveaux d’enseignement dans toutes les filières l’EVF/EMP | MENRS, Plan et Partenaires | 2003-2010 | 1 | EVF/EMP introduite dans toutes les filières
+9. Former les concepteurs des matériels et supports didactiques | MENRS Partenaires | 2003-2006 | 0,5 | Nombre de concepteurs formés
+10. Mettre en œuvre le PNDE | MENRS Partenaires, ONG | 2003-2006 | Voir PNDE | PNDE appliqué
+11. Respecter le volume horaire des classes | MENRS, ONG | 2003-2015 | Néant | Volume horaire respecté
+12. Former les enseignants spécialisés dans les différentes filières du F2, secondaire, général, technique et professionnel | MENRS, JEUNESSE et SPORT, ONG, Partenaires | 2003-2015 | 1,5 | Nombre d’enseignants qualifiés
+13. Renforcer les moyens logistiques d’encadrement et de supervision | MENRS, JEUNESSE et SPORT, ONG, Partenaires, Plan | 2003-2010 | 2 | Nombre de moyens logistiques fournis
+14. Vulgariser les textes réglementant les responsabilités éducatives du personnel scolaire | MENRS, JEUNESSE et SPORT, ONG, Partenaires | 2003-2006 | 0,02 | Textes vulgarisés
+15. Renforcer le dispositif de suivi-évaluation | MENRS, JEUNESSE et SPORT, ONG, Partenaires, Plan | 2003-2010 | 0,5 | Rapports de missions disponibles
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
-63
+64
 
 [[END OF PAGE 64]]
 
@@ -3007,60 +2491,21 @@ Plan National d’Action  -  Education Pour Tous  2003 - 2015
 
 République Centrafricaine
 
-ACTIVITES | Responsables + Partenaires | PERIODE D’EXECUTION | COUT TOTAL En milliard de F CFA | INDICATEURS DE RESULTATS
+ACTIVITES | Responsables + Partenaires | PERIODE D’EXECUTION | COUT TOTAL en milliard de F CFA | Indicateurs de résultats
 
-- Le Post-primaire ou Post-Fondamental1
+Le Post-primaire ou Post-Fondamental1
 
-1. Elaborer des programmes, organiser et animer des séances de sensibilisation
-Responsables : MENRS, Jeunesse et Sport, Affaires sociales, Communication, ONG, Partenaires
-Période : 2003 2006
-Coût : 0,2
-Indicateurs : Programmes élaborés et nombre de séances réalisées
-
-2. Organiser des séminaires, des conférences et tables-rondes
-Responsables : MENRS, Jeunesse et Sport, Affaires sociales, Communication, ONG, Partenaires
-Période : 2003 2006
-Coût : 0,1
-Indicateur : Nombre de séminaires, conférences et tables rondes tenus
-
-3. Former le personnel d’enseignement et d’encadrement des centres ruraux et artisanaux
-Responsables : MENRS, Jeunesse et Sport, Affaires sociales, ONG, Partenaires
-Période : 2003 2010
-Coût : 1,5
-Indicateur : Nombre d’encadreurs formés
-
-4. Recycler le personnel en cours d’emploi
-Responsables : MENRS, Jeunesse et Sport, Affaires sociales, ONG, Partenaires
-Période : 2003 2010
-Coût : 1
-Indicateur : Nbre de formateurs recyclés
-
-5. Former les encadreurs des écoles communautaires
-Responsables : MENRS, Jeunesse et Sport, Affaires sociales, ONG, Partenaires
-Période : 2003 2010
-Coût : 1,5
-Indicateur : Nbre de maîtres qualifiés
-
-6. Concevoir des programmes et élaborer des manuels appropriés
-Responsables : MENRS, Jeunesse et Sport, Affaires sociales, ONG, Partenaires
-Période : 2003 2010
-Coût : 0,8
-Indicateur : Programmes élaborés et disponibles, manuels produits
-
-7. Créer et équiper des centres de formation post primaires
-Responsables : MENRS, Jeunesse et Sport, Affaires sociales, ONG, Partenaires, Finances et Plan
-Période : 2003 2010
-Coût : 2
-Indicateur : Nbre de centres créés et équipés
-
-8. Réhabiliter les centres existants
-Responsables : MENRS, Jeunesse et Sport, Affaires sociales, ONG, Partenaires, Finances et Plan
-Période : 2003 2006
-Coût : 1,5
-Indicateur : Nbre de centres réhabilités
+1. Elaborer des programmes, organiser et animer des séances de sensibilisation | MENRS, Jeunesse et Sport, Affaires sociales, Communication, ONG, Partenaires | 2003-2006 | 0,2 | Programmes élaborés et nombre de séances réalisées
+2. Organiser des séminaires, des conférences et tables-rondes | MENRS, Jeunesse et Sport, Affaires sociales, Communication, ONG, Partenaires | 2003-2006 | 0,1 | Nombre de séminaires, conférences et tables rondes tenus
+3. Former le personnel d’enseignement et d’encadrement des centres ruraux et artisanaux | MENRS, Jeunesse et Sport, Affaires sociales, ONG, Partenaires | 2003-2010 | 1,5 | Nombre d’encadreurs formés
+4. Recycler le personnel en cours d’emploi | MENRS, Jeunesse et Sport, Affaires sociales, ONG, Partenaires | 2003-2010 | 1 | Nombre de formateurs recyclés
+5. Former les encadreurs des écoles communautaires | MENRS, Jeunesse et Sport, Affaires sociales, ONG, Partenaires | 2003-2010 | 1,5 | Nombre de maîtres qualifiés
+6. Concevoir des programmes et élaborer des manuels appropriés | MENRS, Jeunesse et Sport, Affaires sociales, ONG, Partenaires | 2003-2010 | 0,8 | Programmes élaborés et disponibles, manuels produits
+7. Créer et équiper des centres de formation post primaires | MENRS, Jeunesse et Sport, Affaires sociales, ONG, Partenaires, Finances et Plan | 2003-2010 | 2 | Nombre de centres créés et équipés
+8. Réhabiliter les centres existants | MENRS, Jeunesse et Sport, Affaires sociales, ONG, Partenaires, Finances et Plan | 2003-2006 | 1,5 | Nombre de centres réhabilités
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
-64
+65
 
 [[END OF PAGE 65]]
 
@@ -3068,78 +2513,24 @@ Plan National d’Action  -  Education Pour Tous  2003 - 2015
 
 République Centrafricaine
 
-ACTIVITES | Responsables + Partenaires | PERIODE D’EXECUTION | COUT TOTAL En milliard de F CFA | INDICATEURS DE RESULTATS
+ACTIVITES | Responsables + Partenaires | PERIODE D’EXECUTION | COUT TOTAL en milliard de F CFA | Indicateurs de résultats
 
-- L’alphabétisation
+L’alphabétisation
 
-1. Elaborer les programmes, organiser et animer les séances de sensibilisation
-Responsables : MENRS, ONG, Communautés
-Période : 2003 2006
-Coût : 0,2
-Indicateurs : Programmes élaborés et disponibles ; nombre de séances réalisées
-
-2. Organiser les séminaires, conférences et tables rondes
-Responsables : MENRS, Plan, Partenaires, ONG, Communauté
-Période : 2003 2006
-Coût : 0,1
-Indicateur : Nbre de séminaires, conférences et tables rondes réalisés
-
-3. Réviser et adapter les programmes d’alphabétisation aux besoins des apprenants
-Responsables : MENRS, Plan, Partenaires, ONG, Communauté
-Période : 2003 2006
-Coût : 0,002
-Indicateur : Programmes révisés
-
-4. Former les alphabétiseurs
-Responsables : MENRS, Plan, Partenaires, ONG, Communauté
-Période : 2003 2015
-Coût : 2
-Indicateur : Nbre d’alphabétiseurs formés
-
-5. Recycler les alphabétiseurs en cours d’emploi
-Responsables : MENRS, Plan, Partenaires, ONG, Communauté, Finances
-Période : 2003 2015
-Coût : 1
-Indicateur : Nbre d’alphabétiseurs recyclés
-
-6. Créer et équiper un centre de fabrication de matériels d’alphabétisation
-Responsables : MENRS, Plan, Partenaires, ONG, Communauté, Finances
-Période : 2003 2006
-Coût : 0,5
-Indicateur : un centre créé et équipé
-
-7. Construire et équiper des centres d’alphabétisation
-Responsables : MENRS, Plan, Partenaires, ONG, Communauté, Finances
-Période : 2003 2010
-Coût : 5
-Indicateur : Nbre de centres créés et équipés
-
-8. Créer des centres de lecture et d’animation culturelle
-Responsables : MENRS, Plan, Partenaires, ONG, Communauté, Finances
-Période : 2003 2015
-Coût : 2
-Indicateur : Nbre de centres de lecture et d’animation créés et équipés
-
-9. Développer et faire appliquer l’approche fonctionnelle de l’alphabétisation
-Responsables : MENRS, Plan, Partenaires, ONG, Communauté, Finances
-Période : 2003 2006
-Coût : 0,02
-Indicateur : Approche fonctionnelle mise en œuvre
-
-10. Assurer le suivi permanent des alphabétisés
-Responsables : MENRS, Plan, Partenaires, ONG, Communauté, Finances
-Période : 2003 2010
-Coût : 0,02
-Indicateur : Nbre de missions réalisées et rapports disponibles
-
-11. Développer les activités génératrices de revenus en faveur des néo-alphabètes
-Responsables : MENRS, Plan, Partenaires, ONG, Communauté, Finances
-Période : 2003 2015
-Coût : 0,5
-Indicateur : Nbre d’activités réalisées
+1. Elaborer les programmes, organiser et animer les séances de sensibilisation | MENRS, ONG, Communautés | 2003-2006 | 0,2 | Programmes élaborés et disponibles, nombre de séances réalisées
+2. Organiser les séminaires, conférences et tables rondes | MENRS, Plan, Partenaires, ONG, Communauté | 2003-2006 | 0,1 | Nombre de séminaires, conférences et tables rondes réalisés
+3. Réviser et adapter les programmes d’alphabétisation aux besoins des apprenants | MENRS, Plan, Partenaires, ONG, Communauté | 2003-2006 | 0,002 | Programmes révisés
+4. Former les alphabétiseurs | MENRS, Plan, Partenaires, ONG, Communauté | 2003-2015 | 2 | Nombre d’alphabétiseurs formés
+5. Recycler les alphabétiseurs en cours d’emploi | MENRS, Plan, Partenaires, ONG, Communauté, Finances | 2003-2015 | 1 | Nombre d’alphabétiseurs recyclés
+6. Créer et équiper un centre de fabrication de matériels d’alphabétisation | MENRS, Plan, Partenaires, ONG, Communauté, Finances | 2003-2006 | 0,5 | Un centre créé et équipé
+7. Construire et équiper des centres d’alphabétisation | MENRS, Plan, Partenaires, ONG, Communauté, Finances | 2003-2010 | 5 | Nombre de centres créés et équipés
+8. Créer des centres de lecture et d’animation culturelle | MENRS, Plan, Partenaires, ONG, Communauté, Finances | 2003-2015 | 2 | Nombre de centres de lecture et d’animation créés et équipés
+9. Développer et faire appliquer l’approche fonctionnelle de l’alphabétisation | MENRS, Plan, Partenaires, ONG, Communauté, Finances | 2003-2006 | 0,02 | Approche fonctionnelle mise en œuvre
+10. Assurer le suivi permanent des alphabétisés | MENRS, Plan, Partenaires, ONG, Communauté, Finances | 2003-2010 | 0,02 | Nombre de missions réalisées et rapports disponibles
+11. Développer les activités génératrices de revenus en faveur des néo-alphabètes | MENRS, Plan, Partenaires, ONG, Communauté, Finances | 2003-2015 | 0,5 | Nombre d’activités réalisées
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
-65
+66
 
 [[END OF PAGE 66]]
 
@@ -3147,42 +2538,18 @@ Plan National d’Action  -  Education Pour Tous  2003 - 2015
 
 République Centrafricaine
 
-ACTIVITES | Responsables + Partenaires | PERIODE D’EXECUTION | COUT TOTAL En milliard de F CFA | INDICATEURS DE RESULTATS
+ACTIVITES | Responsables + Partenaires | PERIODE D’EXECUTION | COUT TOTAL en milliard de F CFA | Indicateurs de résultats
 
 Scolarisation des filles
 
-1. Elaborer les programmes, organiser et animer les séances de sensibilisation
-Responsables : MENRS, ONG, Partenaires, Affaires sociales, Communication
-Période : 2003 2006
-Coût : 0,2
-Indicateurs : Programmes élaborés et nombre de séances réalisées
-
-2. Organiser des séminaires, conférences et tables rondes
-Responsables : MENRS, ONG, Partenaires, Affaires sociales, Communication, Plan, Finances
-Période : 2003 2006
-Coût : 0,1
-Indicateur : Nbre de séminaires, conférences et tables rondes tenus
-
-3. Ouvrir toutes les filières aux filles
-Responsables : MENRS, ONG
-Période : 2003 2006
-Coût : Néant
-Indicateur : Accès de toutes les filles aux différentes filières
-
-4. Etendre les écoles communautaires
-Responsables : MENRS, Partenaires et ONG
-Période : 2003 2015
-Coût : 3
-Indicateur : Couverture de tout le pays en écoles communautaires
-
-5. Eliminer les stéréotypes sexistes dans les manuels scolaires
-Responsables : MENRS, Partenaires et ONG
-Période : 2003 2010
-Coût : 0,2
-Indicateur : Nbre de manuels révisés selon l’approche genre
+1. Elaborer les programmes, organiser et animer les séances de sensibilisation | MENRS, ONG, Partenaires, Affaires sociales, Communication | 2003-2006 | 0,2 | Programmes élaborés et nombre de séances réalisées
+2. Organiser des séminaires, conférences et tables rondes | MENRS, ONG, Partenaires, Affaires sociales, Communication, Plan, Finances | 2003-2006 | 0,1 | Nombre de séminaires, conférences et tables rondes tenus
+3. Ouvrir toutes les filières aux filles | MENRS, ONG | 2003-2006 | Néant | Accès de toutes les filles aux différentes filières
+4. Etendre les écoles communautaires | MENRS, Partenaires et ONG | 2003-2015 | 3 | Couverture de tout le pays en écoles communautaires
+5. Eliminer les stéréotypes sexistes dans les manuels scolaires | MENRS, Partenaires et ONG | 2003-2010 | 0,2 | Nombre de manuels révisés selon l’approche genre
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
-66
+67
 
 [[END OF PAGE 67]]
 
@@ -3193,32 +2560,13 @@ République Centrafricaine
 Objectif transversal VII.
 
 Activités | Responsables et partenaires | Périodes | Coûts | Indicateurs de résultats
-1. Elaborer, organiser et animer les séances de sensibilisation
-Responsables : MENRS / Ministère de la Communication ; Mini Jeunesse et Sport ; APE / Partenaires / ONG ; Mini Santé
-Période : 2003-2006
-Coût : 0,2x4 = 0,8
-Indicateur : Nombre de séances de sensibilisation réalisées
-
-2. Organiser des séminaires, conférences et tables rondes
-Responsables : MENRS / PLAN ; Ministère de la Communication ; Mini Jeunesse et Sport ; APE / Partenaires / ONG ; Mini Santé
-Période : 2003-2015
-Coût : 0,1x4 = 0,4
-Indicateur : Nombre de séminaires/conférences et tables rondes tenus
-
-3. Elaborer des programmes de formation à l’éducation citoyenne, à la culture de la paix, à la lutte contre les MST/SIDA et à la promotion de la langue sango
-Responsables : MENRS / PLAN ; Ministère de la Communication ; Mini Jeunesse et Sport ; APE / Partenaires / ONG ; Mini Santé
-Période : 2003-2015
-Coût : 0,2x4 = 0,8
-Indicateur : Programmes élaborés et disponibles
-
-4. Former et recycler les enseignants à l’éducation citoyenne, à la culture de la paix, à la lutte contre les MST/SIDA et à la promotion de la langue sango
-Responsables : MENRS ; Ministère de la Communication ; Mini Jeunesse et Sport ; APE / Partenaires / ONG ; Mini Affaires sociales ; Mini Santé
-Période : 2003-2015
-Coût : 25x4 = 100
-Indicateur : Nombre d’enseignants formés/recyclés
+1. Elaborer, organiser et animer les séances de sensibilisation | MENRS / Ministère de la Communication ; Mini Jeunesse et Sport ; APE / Partenaires / ONG ; Mini Santé | 2003-2006 | 0,2 x 4 = 0,8 | Nombre de séances de sensibilisation réalisées
+2. Organiser des séminaires, conférences et tables-rondes | MENRS / PLAN ; Ministère de la Communication ; Mini Jeunesse et Sport ; APE / Partenaires / ONG ; Mini Santé | 2003-2015 | 0,1 x 4 = 0,4 | Nombre de séminaires, conférences et tables rondes tenus
+3. Elaborer des programmes de formation à l’éducation citoyenne, à la culture de la paix, à la lutte contre les MST/SIDA et à la promotion de la langue sango | MENRS / PLAN ; Ministère de la Communication ; Mini Jeunesse et Sport ; APE / Partenaires / ONG ; Mini Santé | 2003-2015 | 0,2 x 4 = 0,8 | Programmes élaborés et disponibles
+4. Former et recycler les enseignants à l’éducation citoyenne, à la culture de la paix, à la lutte contre les MST/SIDA et à la promotion de la langue sango | MENRS ; Ministère de la Communication ; Mini Jeunesse et Sport ; APE / Partenaires / ONG ; Mini Affaires sociales ; Mini Santé | 2003-2015 | 25 x 4 = 100 | Nombre d’enseignants formés/recyclés
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
-67
+68
 
 [[END OF PAGE 68]]
 
@@ -3255,12 +2603,12 @@ Activités | Objectif-1 | Objectif-2 | Objectif-3 | Objectif-4 | Objectif-5 | Ob
 24 |  |  |  |  |  | 0,05 |  |  |  |  | 
 25 |  |  |  |  |  | 0,02 |  |  |  |  | 
 26 |  |  |  |  |  | 0,005 |  |  |  |  | 
-Total | 91,53 | 261,32 | 4,712 | 28,479945 | 5,18 | 115,87 | 10,332 | 8,6 | 11,342 | 3,5 | 102
+Totaux | 91,53 | 261,32 | 4,712 | 28,479945 | 5,18 | 115,87 | 10,332 | 8,6 | 11,342 | 3,5 | 102
 
 Total général = 642,86595
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
-68
+69
 
 [[END OF PAGE 69]]
 
@@ -3268,32 +2616,34 @@ Plan National d’Action  -  Education Pour Tous  2003 - 2015
 
 République Centrafricaine
 
-6. LISTE DES PARTICIPANTS AU PROCESSUS D’ELABORATION ET DE VALIDATION DU PNA-EPT
+4. Equipe de coordination, de rédaction et de validation du PNA-EPT
 
-6.1 Comité de coordination et de suivi
-- MBAÏKOUA, Ministre de l’Education Nationale et de la Recherche Scientifique
+4.1 Equipe de coordination et de supervision
 
-Coordonnateur national
-- Jonas GUEZEWANE-PIKI, Directeur Général de l’Education Nationale
+Coordonnateur général
+- François MBAÏKOUA, Ministre de l’Education Nationale et de la Recherche Scientifique
 
-6.2 Membres de l’équipe de rédaction
-- Jean Louis POUNINGUINZA, Ministère du Plan et de la Coopération Internationale.
-- Dr Jean Benoît MBOOHOU, Ministère de la Promotion du Monde Rural
-- Jean Pierre KONIE, Ministère des Affaires Sociales, de la Promotion des Femmes, de la Jeunesse chargé de l’Insertion des Handicapés
-- DONGOLA Augustin, Commission Nationale pour l’UNESCO.
-- JACKOTA Roger-José-Yves, Ministère de la Santé Publique et de la Population
+Coordonnateur adjoint
+- Jonas GUEBE-ANE-PIKI, Directeur Général de l’Education Nationale
+
+Membres
+- Jean Louis POUNINGUIZA, Ministre du plan et de la coopération internationale
+- Dr Jean Benoît MBOUKOULOU, Ministère de la promotion du monde rural
+- Jean Pierre KONIE, Ministère des Affaires Sociales, de la promotion des Femmes, des Jeunes chargé de l’Insertion des Handicapés
+- DONGOLA Augustin, Commission Nationale pour l’UNESCO
+- WAKOTA Roger-José-Yves, Ministère de la Santé publique et de la population
 - DEWA AHMAT Harold, Ministère de la Fonction Publique, de l’Emploi et de la Prévoyance Sociale
-- Mary-Hubert DJAMAN, Ministère d’Etat, des Postes, Télécommunications, chargé des Nouvelles Technologies, de la Culture et de la Francophonie
-- GOUMBA Achime, Ministère de la Jeunesse et des Sports.
-- NDAMOBISSI Robert, Chargé du programme Suivi/Information et gestion-PNA/EPT
-- NDANGUEE Joseph, Chargé du programme Education-PNA/EPT.
+- Mary-Hubert DJAMAND, Ministère d’Etat, des postes, télécommunications, chargé des Nouvelles Technologies, de la Culture et de la Francophonie
+- GOUMBA Ephrem, Ministère de la Jeunesse et des Sports
+- NDAMOBISSI Hubert, Chargé du programme Suivi/Formation et Gestion-PNA/EPT
+- NDANGUE Joseph, Chargé du programme Education-PNA/EPT
 - Patronat
-- BOTI Jacques, Syndicat des Enseignants.
-- OUANE KPONE Patrice, Fédération Nationale des Associations des Parents d’Elèves de Centrafrique (FNAPEC)
-- KAANGAZE Marc, Education.
+- GOTI Jacques, Syndicat des Enseignants
+- ORANE KPONE Patrice René, Fédération Nationale des Associations des Parents d’Elèves de Centrafrique (FNAPEC)
+- KAANGAZE Marc, Aide et Action
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
-69
+70
 
 [[END OF PAGE 70]]
 
@@ -3301,37 +2651,37 @@ Plan National d’Action  -  Education Pour Tous  2003 - 2015
 
 République Centrafricaine
 
-6.3 Membres de l’équipe de rédaction
+4.2 Membres de l’équipe de rédaction
 
 Présidents des commissions
 SAMBARA André
 SIOLO Jacques
-ZAWARA Ambroise
+YAPARA Ambroise
 DONGOMBE Albert
 BENGUEMALET Isaac
 GUIKAMA-MASSOGO Clément
 
 Membres
-MALLEBANDA Lucie
+MALLEBANDA Lucien
 FIOMONA Bernard
-BISSEFI Pierre-Thomas
-GOBWE-BEN-DOEMONDO
-ZENZONGO Enock
+BISSEFI Pierre-Bombas
+GROUPE-BEN-DOEMOND
+YENGONGO Enoch
 DOUNGOUTE Ferdinand
 HAMADJIDA Bernard
 NGUITONGO Hilaire
-NINGHA-DOEW ISS Abdou
+NINGHA-DOUE ISSA Abdon
 BELLY Michel
-MBINGA-TAKAMA Maxime Faustin
+MBINGA-TABAMA Maxime Faustin
 
 Le secrétariat
-DETOUA-KOSSI David
-INOUSSE Bouban
+DETOURA-BOSSI David
+INOUSSE Bouba
 YAPAMA Sidonie
 PADOUNDJI Pierre
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
-70
+71
 
 [[END OF PAGE 71]]
 
@@ -3339,7 +2689,7 @@ Plan National d’Action  -  Education Pour Tous  2003 - 2015
 
 République Centrafricaine
 
-7. RAPPORT SUR LE PROCESSUS D’ELABORATION ET DE VALIDATION DU PNA-EPT
+RAPPORT SUR L’ELABORATION ET LA VALIDATION DU PNA-EPT
 
 A l’instar des autres pays d’Afrique, la République Centrafricaine a finalement fait aboutir le processus d’élaboration et de validation de son PNA-EPT. Ce processus a consisté en plusieurs étapes à l’issue desquelles le but recherché a été atteint, à savoir la production effective du document du plan. Le présent rapport a pour objet la restitution de l’essentiel des activités menées à chacune de ces étapes et la présentation cursive de la méthodologie de travail ainsi que les principaux résultats auxquels est parvenue l’équipe de rédaction. Pour cela, il s’articule autour des points suivants :
 1. l’engagement politique du gouvernement ;
@@ -3350,22 +2700,23 @@ A l’instar des autres pays d’Afrique, la République Centrafricaine a finale
 6. les principaux résultats
 7. Les activités et les coûts
 
-I. Engagement politique
+A. L’engagement politique
 
 Après les Etats Généraux de l’éducation et de la formation en 1994, la promulgation de la Constitution du 14 janvier 1995, l’adoption de la loi d’orientation de l’éducation en 1997 et l’adoption du PNDE en l’an 2000, le gouvernement de la RCA a pris un engagement encore plus fort en faveur de la promotion d’un système éducatif de qualité accessible à tous au sortir du forum bilan de la première décennie de l’EPT tenu à Dakar en avril 2000.
 
-En effet, on a pu noter une prise de conscience plus élevée de la nécessité de tenir les engagements collectifs de Dakar et une ferme volonté de passer aux actes. C’est ainsi que le Coordonnateur National a d’abord été nommé par arrêté N°014 du 13 juillet 2001 du Ministre de l’Education Nationale et de la Recherche Scientifique tandis que les membres du comité de coordination et de suivi ont été nommés par l’arrêté N°016 du 08 avril 2002 du Premier Ministre, Chef du Gouvernement. Les membres de l’équipe de rédaction quant à eux ont été nommés par décision N°050 du 04 avril 2002 par le Ministre de l’Education Nationale et de la recherche scientifique. Non seulement cette équipe comprenait les cadres et personnes ressources des différents ministères du pays ainsi que les représentants de la société civile mais toute latitude lui a été laissée pour organiser et réaliser un travail efficient. Par conséquent, cet engagement du gouvernement a été déterminant pour la préparation des différentes phases du travail.
+En effet, on a pu noter une prise de conscience plus élevée de la nécessité de tenir les engagements collectifs de Dakar et une ferme volonté de passer aux actes. C’est ainsi que le Coordonnateur National a d’abord été nommé par arrêté n° 014 du 13 juillet 2001 du Ministre de l’Education Nationale et de la Recherche Scientifique tandis que les membres du comité de coordination et de suivi ont été nommés par l’arrêté n° 016 du 08 avril 2002 du Premier Ministre, Chef du Gouvernement. Les membres de l’équipe de rédaction ont quant à eux été nommés par décision n° 050 du 04 avril 2002 par le Ministre de l’Education Nationale et de la recherche scientifique. Non seulement cette équipe comprenait les cadres et personnes ressources des différents ministères du pays ainsi que les représentants de la société civile mais toute la latitude lui a été laissée pour organiser et réaliser un travail efficient. Par conséquent, cet engagement du gouvernement a été déterminant pour la préparation des différentes phases du travail.
 
-II. Mobilisation et la gestion des ressources
+B. La mobilisation et la gestion des ressources
 
 L’engagement politique du gouvernement ne s’est pas arrêté à la prise des textes puisqu’il s’est prolongé dans la mobilisation des ressources nécessaires à la réalisation du travail. Un protocole d’accord a alors été élaboré et signé avec les parrains de l’EPT prévoyant un financement global de 61 000 dollars US. Malgré l’engagement des parrains dans leur ensemble, seuls quelques uns ont réagi concrètement. Il s’agit de :
-- l’UNESCO : pour une subvention de : 10 000 dollars US
-- l’UNICEF : pour une subvention de : 7 500 dollars US
-- le PNUD : pour une subvention de : 10 000 dollars US
-Le montant total de ces subventions s’est élevé à 42.000 dollars dont la part du gouvernement se chiffrant à 15 000 dollars.
+- l’UNESCO : pour une subvention de 10 000 dollars US
+- l’UNICEF : pour une subvention de 7 500 dollars US
+- le PNUD : pour une subvention de 10 000 dollars US
+
+Le montant total de ces subventions s’est élevé à 42.000 dollars dont la part du gouvernement se chiffrait à 15 000 dollars.
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
-71
+72
 
 [[END OF PAGE 72]]
 
@@ -3373,9 +2724,9 @@ Plan National d’Action  -  Education Pour Tous  2003 - 2015
 
 République Centrafricaine
 
-La gestion de ces fonds a été confiée à la coordination nationale du PNA-EPT qui a effectué la plupart des dépenses et fourni les justificatifs. Cette gestion était en outre supervisée par les bailleurs et le Ministère de l’Education Nationale et de la Recherche Scientifique, Président du Comité de coordination et de suivi. Les dépenses en question rentraient dans les rubriques suivantes :
+La gestion de ces fonds a été confiée à la coordination nationale du PNA-EPT qui a effectué la plupart des dépenses et fourni les justificatifs. Cette gestion était en outre supervisée par les bailleurs et le Ministre de l’Education Nationale et de la Recherche Scientifique, Président du Comité de coordination et de suivi. Les dépenses en question rentraient dans les rubriques suivantes :
 - Fonctionnement coordination et comité technique
-- Fourniture et matériels (ordinateur, encre, papier etc)
+- Fourniture et matériels (ordinateur, encre, papier etc.)
 - Réunions techniques/commodités comité de rédaction
 - Sensibilisation par les média
 - Séminaire-atelier à Bouar
@@ -3384,27 +2735,27 @@ La gestion de ces fonds a été confiée à la coordination nationale du PNA-EPT
 - Consultations internationales
 - Impression et reproduction du Plan
 
-III. Méthodologie de travail
+C. La méthodologie de travail
 
-Il convient de souligner que l’approche participative a été privilégiée et l’accent a été mis sur la pluridisciplinarité eu égard à la diversité des compétences associées à la rédaction du document. Cela signifie que malgré le cadre méthodologique du Forum de Dakar qui a clairement défini les domaines d’action, les objectifs stratégiques, les principes d’action et les modalités d’exécution, il a aussi été fait appel à l’imagination créatrice et au sens de l’innovation compte tenu de la généralité dudit cadre et des spécificités du pays. En outre, en raison de l’existence du PNDE qui avait également posé un diagnostic sans complaisance du système et proposé des actions correctives, le souci de l’équipe a été de rechercher une cohérence entre le cadre de Dakar et le document du PNDE qu’il était alors question d’améliorer significativement. Sur le plan technique cependant, le travail a aussi bien été mené en commissions articulées sur chacun des 06 objectifs qu’en plénières a scrupuleusement respecté les critères suivants :
+Il convient de souligner que l’approche participative a été privilégiée et l’accent a été mis sur la pluridisciplinarité eu égard à la diversité des compétences associées à la rédaction du document. Cela signifie que malgré le cadre méthodologique du Forum de Dakar qui a clairement défini les domaines d’action, les objectifs stratégiques, les principes d’action et les modalités d’exécution, il a aussi été fait appel à l’imagination créatrice et au sens de l’innovation compte tenu de la généralité dudit cadre et des spécificités du pays. En outre, en raison de l’existence du PNDE qui avait également posé un diagnostic sans complaisance du système et proposé des actions correctives, le souci de l’équipe a été de rechercher une cohérence entre le cadre de Dakar et le document du PNDE qu’il était alors question d’améliorer significativement. Sur le plan technique cependant, le travail a aussi bien été fait en commissions articulées sur chacun des 06 objectifs qu’en plénières. A scrupuleusement respecté les critères suivants :
+- Revue de la documentation
+- Revue du cadre macro-économique et social
+- Analyse du secteur dans toutes ses composantes à partir des données de base existantes et en fonction du cadre macro-économique et social
+- Définition rigoureuse du cadre stratégique ou planification axée sur le PNA-EPT
+- Définition exhaustive des activités du plan et leur répartition rationnelle sur le court, le moyen et le long terme
+- Estimation des coûts à partir des données disponibles et élaboration du budget global sur la base d’une simulation dans l’évolution des données de base
+- Mise en cohérence des résultats avec les indicateurs de l’EPT
 
-Respect de la documentation
-Respect du cadre macro-économique et social
-Analyse du secteur dans toutes ses composantes à partir des données de base existantes et en fonction du cadre macro-économique et social
-Définition rigoureuse du cadre stratégique pour la mise en œuvre du PNA-EPT
-Définition exhaustive des activités du plan et leur répartition rationnelle sur le court, le moyen et le long terme
-Estimation des coûts à partir des données disponibles et élaboration du budget global sur la base d’une simulation dans l’évolution des données de base
-Mise en cohérence des résultats avec les indicateurs de l’EPT
-
-IV. Processus d’élaboration du plan
+D. Processus d’élaboration du plan
 
 C’est sur la base des principes méthodologiques définis ci-dessus que se sont déroulés les travaux selon le calendrier élaboré par la coordination nationale et adopté en plénière le 16/05/2002. Ce calendrier prévoyait la périodicité suivante :
 - 01 plénière par mois
 - 02 ou 03 réunions techniques des commissions techniques par semaine
+
 Avec cette périodicité, on escomptait terminer la rédaction du plan au bout de 03 mois et le soumettre aux différentes validations à partir du mois de septembre 2002. L’expert de l’UNESCO, M. MPAKIMANA Paul arrivé le 16 juin 2002 a jugé ce calendrier trop élastique et de nature à éloigner du but d’avoir un document dès le mois de septembre. Il a alors proposé et obtenu la mobilisation de l’équipe de rédaction pour un travail intensif de 02 semaines à l’issue desquelles un premier draft pouvait être produit. C’est ce qui a été fait et l’expert a pu rapporter ledit draft à la fin de son séjour le 28/06/2002.
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
-72
+73
 
 [[END OF PAGE 73]]
 
@@ -3414,16 +2765,16 @@ République Centrafricaine
 
 Comme il ne s’agissait que d’un draft, une équipe restreinte de 06 experts nationaux a été constituée pour procéder à la relecture du document et y apporter tous les amendements utiles avant sa communication officielle au bureau de l’UNESCO à Dakar. Cet exercice a duré 01 mois et a permis un toilettage de la forme du document, l’ajustement de certaines stratégies et la redéfinition de certaines activités. C’est le résultat de ce travail qui a été soumis à la validation technique lors du séminaire-atelier organisé à Bouar du 16 au 21 septembre 2002.
 
-Au cours de ce séminaire qui a vu la participation du représentant du ministre de l’Education Nationale et de la recherche Scientifique, des autorités politiques locales (MM. Le préfet de la Nana-Mambéré et le Maire de la ville de Bouar), de 61 experts nationaux, de 02 consultants nationaux (MM. Charles GOUNEBANA et Dieudonné YASSONGO), de 02 experts commis par les parrains en la personne de M. Robert NDAMOBISSI pour l’UNICEF et de M. Maxime Faustin MBINGA-TAKAMA pour le PNUD, d’un représentant de la Coopération Française (Jean-Pierre CUZEL) et d’un représentant du PAM (M. Saïdou Moussa), on a procédé à un réexamen général du document aussi bien du point de vue de la méthodologie adoptée que du point de vue des résultats auxquels on était parvenu auparavant. Au plan pratique, ce travail a été fait au sein de 03 groupes traitant chacun de 02 objectifs et les résultats des travaux en groupes ont été adoptés en plénières. En accord avec les experts du PNUD et de l’UNICEF, les modifications suivantes ont été apportées au document :
+Au cours de ce séminaire qui a vu la participation du représentant du ministre de l’Education Nationale et de la recherche Scientifique, des autorités politiques locales (MM. le Préfet de la Nana-Mambéré et le Maire de la ville de Bouar), de 61 experts nationaux, de 02 consultants nationaux (MM. Charles GOUNEMANA et Dieudonné YASSONGO), de 02 experts commis par les parrains en la personne de M. Obert NDAMOBISSI pour l’UNICEF et de M. Maxime Faustin MBINGA-TABAMA pour le PNUD, d’un représentant de la Coopération Française (Jean-Pierre CUVEL) et d’un représentant du PAM (M. Saïdou Moussa), on a procédé à un réexamen général du document aussi bien du point de vue de la méthodologie adoptée que du point de vue des résultats auxquels on était parvenu auparavant. Au plan pratique, ce travail a été fait au sein de 03 groupes traitant chacun de 02 objectifs et les résultats des travaux en groupes ont été adoptés en plénières. En accord avec les experts du PNUD et de l’UNICEF, les modifications suivantes ont été apportées au document :
 
 a) Du point de vue de la vision globale du plan
 - Considérer le plan d’abord comme une affaire nationale et non comme celle des bailleurs de fonds
 - Avoir conscience de contribuer à la réalisation d’un rêve, celui de transformer en profondeur la société centrafricaine
-- Percevoir le plan comme un patrimoine national dont chacun devrait s’approprier.
+- Percevoir le plan comme un patrimoine national dont chacun devrait s’approprier
 - Prendre l’engagement et la résolution de développer une solidarité familiale autour du document produit
 
 b) Du point de vue de la forme
-- Formalisation sous forme de tableaux des présentations générales comme celle du pays.
+- Formalisation sous forme de tableaux des présentations générales comme celle du pays
 - Catégorisation des obstacles
 
 c) Du point de vue des activités
@@ -3431,14 +2782,15 @@ c) Du point de vue des activités
 - Regroupement des activités qui se recoupent par souci de cohérence
 - Priorisation des activités
 - Evaluation courageuse des coûts
+
 Tous ces éléments ont permis une retouche de fond et de forme du document qui a encore été confié à une équipe restreinte chargée d’introduire tous les amendements et améliorations recommandés par le séminaire.
 
-Amorcé à Bouar à la fin du séminaire, ce travail a été poursuivi à Bangui avec une période de pointe du 21 au 29 Octobre au cours de laquelle l’équipe restreinte a bénéficié de l’appui technique de Mme Félicité MOHIMPOUCO, consultante internationale venue de Yaoundé (CAMEROUN). Grâce à ce concours extérieur, le draft du plan a encore été relu attentivement, analysé en détail dans le sens d’une amélioration qualitative. En outre, la consultante internationale a eu à faire ses observations sur la scientificité du mécanisme de suivi, sur les actions préconisées et sur la cohérence interne du document en relation avec les autres cadres plus généraux de développement tels que le PNDE, les objectifs du Millénaire, le Cadre de Lutte contre la Pauvreté et le NEPAD.
+Amorcé à Bouar à la fin du séminaire, ce travail a été poursuivi à Bangui avec une période de pointe du 21 au 29 Octobre au cours de laquelle l’équipe restreinte a bénéficié de l’appui technique de Mme Félicité MOHIMPOU, consultante internationale venue de Yaoundé (CAMEROUN). Grâce à ce concours extérieur, le draft du plan a encore été relativement analysé en détail dans le sens d’une amélioration qualitative. En outre, la consultante internationale a eu à faire ses observations sur la scientificité du mécanisme de suivi, sur les actions préconisées et sur la cohérence interne du document en relation avec les autres cadres plus généraux de développement tels que le PNDE, les objectifs du Millénaire, le Cadre de Lutte contre la Pauvreté et le NEPAD.
 
 C’est le fruit de ce travail qui a été remis officiellement au Gouvernement dans la perspective du séminaire national de validation politique. En raison d’un problème de financement, l’organisation de ce séminaire a été reportée à une date ultérieure.
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
-73
+74
 
 [[END OF PAGE 74]]
 
@@ -3446,7 +2798,7 @@ Plan National d’Action  -  Education Pour Tous  2003 - 2015
 
 République Centrafricaine
 
-V. Les difficultés rencontrées
+E. Les difficultés rencontrées
 
 Dans la mesure où tous les fonds initialement prévus pour la préparation du document n’ont pas été mobilisés, il s’en est suivi la réduction du nombre des activités à réaliser. Ainsi, il n’a pas été possible d’effectuer les missions sur le terrain sollicitées par certaines commissions techniques en vue d’actualiser les données disponibles depuis quelques années et de recueillir des éléments d’analyse reflétant la réalité du moment. Il en est de même pour les missions à l’extérieur destinées à s’imprégner de l’expérience des autres pays.
 
@@ -3455,119 +2807,114 @@ En ce qui concerne les travaux proprement dits, la première difficulté portait
 Ensuite, on s’est confronté aux divergences des points de vue, notamment au sujet du diagnostic du système que certains estimaient trop sombre eu égard aux efforts fournis par le gouvernement alors que d’autres pensaient qu’il était le reflet de la réalité. Il a fallu exhorter les uns et les autres à taire leurs passions pour fournir un travail essentiellement technique sur lequel le politique aurait le loisir de revenir pour en élaguer certaines parties.
 
 Enfin, les approches méthodologiques des consultants ont été un sujet de préoccupation pour les experts nationaux qui ont dû à chaque fois chercher à s’adapter à celle qui était proposée par les uns et les autres.
+
 Même si cela a eu l’avantage de clarifier certaines démarches consacrées par les organismes internationaux, ces différences dans les approches n’en ont pas moins occasionné des pertes de temps qui auraient pu être évitées.
 
-VI. Les principaux résultats
+F. Les principaux résultats
 
 Résultats par défis et par objectif en fonction des principaux indicateurs
 
-1. Résultats par défi pour objectif 1
+1. Résultats par défis pour objectif 1
 1- relever de 2,7 à 10 % le taux d’éducation préscolaire
 2- garantir la protection de la petite enfance
 
-2. Résultats par défi pour objectif 2
-3- relever le taux d’accès dans l’enseignement primaire aux enfants de 6 à 16 ans de 40 à 100%
-4- relever le niveau d’accès des groupes minoritaires (pygmées, mbororo, handicapés, enfants des zones minières etc) de 5 à 15 ans de 10 à 80 %
+2. Résultats par défis pour objectif 2
+3- relever le taux d’accès dans l’enseignement primaire aux enfants de 6 à 16 ans de 40 à 100 %
+4- relever le niveau d’accès des groupes minoritaires (pygmées, mbororo, handicapés, enfants des zones minières etc.) de 5 à 15 ans de 10 à 80 %
 
-3. Résultats par défi pour objectif 3
-5- relever le taux d’accès des adolescents aux formations et compétences essentielles dans la vie courante de 09 à 80 % d’ici 2015
+3. Résultats par défis pour objectif 3
+5- relever le taux d’accès des adolescents aux formations en compétences essentielles dans la vie courante de 09 à 80 % d’ici 2015
 6- faire acquérir par les jeunes et les adultes des savoirs, des valeurs, des attitudes et des compétences nécessaires à la vie courante (EVF/EMP, éducation à la citoyenneté, éducation à la culture de la paix, IST/SIDA)
 
-4. Résultats par défi pour objectif 4
+4. Résultats par défis pour objectif 4
 7- relever le taux d’alphabétisation des adultes de 37 à 90 % d’ici 2015
 8- ramener le taux d’analphabétisme des femmes de 76 à 10 % d’ici 2015
 
-5. Résultats par défi pour objectif 5
+5. Résultats par défis pour objectif 5
 9- relever le TBS des filles dans le primaire de 46 à 100 % d’ici 2015
 10- relever le TBS des filles dans le secondaire de 07 à 80 % d’ici 2015
 11- indice de parité d’alphabétisme ramené à la valeur 1
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
-74
+75
 
 [[END OF PAGE 75]]
 
 [[START OF PAGE 76]]
 
-6. Résultats par défi pour objectif 6
-12- réduire le ratio élève/maître de 1/109 à 1/50 et élève/classe de 1/120 à 1/50 d’ici 2015
-13- relever le pourcentage d’enseignants qualifiés de 25 % à 100 %
-14- augmenter le coefficient d’efficacité à 100 %
-15- augmenter le pourcentage des élèves du F1 maîtrisant un ensemble de compétences de base défini à l’échelon national
+3.2. ACTIVITES DU PLAN
 
-2. Résultats par défis pour objectifs stratégiques
-16- augmenter le niveau de connaissances, de compétences, d’attitudes des jeunes et des adultes pour une culture citoyenne et une éducation à la culture de la paix
-17- forger un citoyen nationaliste, patriote, compétent et honnête
-18- augmenter le pourcentage des structures de formation pratiquant l’enseignement en et du sango
-19- réduire le taux de prévalence du VIH/SIDA et des IST en milieu scolaire à 2 %
+a) Généralités
 
-3. Activités prioritaires
 Le plan comporte plusieurs activités qui se résument pour l’essentiel et par ordre de priorité en huit (8) activités, à savoir :
-9. L’élaboration ou la révision, la multiplication et la mise en œuvre des programmes et des manuels d’enseignement.
-10. Le développement de la stratégie IEC/plaidoyer.
-11. Le renforcement des capacités institutionnelles et des ressources.
-12. L’intensification de la lutte contre les IST, le VIH/SIDA et le développement de la culture de la citoyenneté et de la paix.
-13. La promotion du partenariat éducatif.
-14. La réhabilitation, la construction et l’équipement des écoles et bureaux.
-15. Le regroupement des petits villages pour une administration efficace.
-16. L’établissement du couple équité/justice entre les sexes dans la scolarisation et dans la vie courante.
 
-4. Coût
+9- L’élaboration ou la révision, la multiplication et la mise en œuvre des programmes et des manuels d’enseignement ;
+10- Le développement de la stratégie IEC/plaidoyer ;
+11- Le renforcement des capacités institutionnelles et des ressources ;
+12- L’intensification de la lutte contre les MST, le VIH/SIDA et le développement de la culture à la citoyenneté et à la paix ;
+13- La promotion du partenariat éducatif ;
+14- La réhabilitation, la construction et l’équipement des écoles et bureaux ;
+15- Le regroupement des petits villages pour une administration efficace ;
+16- L’établissement du couple équité-justice entre les sexes dans la scolarisation et dans la vie courante.
+
+b) Coût
+
 L’ensemble des activités se chiffre à six cent quarante trois milliards cinq cent quatre vingt cinq millions neuf cent cinquante mille (643.585.950.000) francs cfa, soit 1 milliard de dollars des Etats Unis d’Amérique.
 
-Conclusion
+4. CONCLUSION
+
 Au final, on peut affirmer que l’aboutissement du processus d’élaboration et de validation du PNA-EPT de la R.C.A est un motif de satisfaction nationale. Car, ce processus a été laborieux mais a permis de mesurer le degré de prise de conscience des acteurs nationaux quant à l’enjeu que constitue l’EPT. En effet, ce qui était remarquable dans ce processus, c’était la ferme volonté de doter la R.C.A de cet instrument de travail et rattraper son retard par rapport aux autres pays. A cela il convient d’ajouter l’ambition qui a animé l’équipe de rédaction qui était de fournir un travail de qualité et reflétant au maximum les besoins éducatifs réels du pays. Le document désormais disponible est le fruit de la conjugaison de cette volonté et de cette ambition. Il reste que cette détermination n’aurait pas abouti à quoi que ce soit sans l’engagement massif du gouvernement de la R.C.A et l’appui non moins massif de certains parrains de l’EPT. C’est ici le lieu pour le comité de rédaction de témoigner sa reconnaissance et sa profonde gratitude aux autorités centrafricaines et aux parrains de l’EPT, notamment l’UNESCO, l’UNICEF, le PNUD qui n’ont ménagé aucun effort pour lui faciliter les conditions de travail pendant ce processus.
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
-75
+76
 
 [[END OF PAGE 76]]
 
 [[START OF PAGE 77]]
 
-Bibliographie
+BIBLIOGRAPHIE
 
 1.- Le système éducatif et le secteur de la formation et de l’emploi en République Centrafricaine : Bilan et perspectives, Ministère de l’Education Nationale et de la Recherche Scientifique, 1990.
 2.- Instructions officielles des Ecoles Primaires, MEN/INEF, 1975.
-3.- Instructions officielles/programmes de l’Enseignement Fondamental niveau 2 et secondaire général, INAP, juin 1986/1987.
-4.- Instructions officielles/programmes de l’enseignement fondamental niveau 1, 1991.
+3.- Instructions officielles-programmes de l’Enseignement Fondamental niveau 2 et secondaire général, INAP, juin 1986-1987.
+4.- Instructions officielles-programmes de l’enseignement fondamental niveau 1, 1991.
 5.- L’Annuaire statistique de l’Education Nationale, 2000-2001.
-6.- Cadre d’Action de Dakar : EPT : tenir nos engagements collectifs, avril 2000
-7.- Plan National de Développement de l’Education 2000-2010
+6.- Cadre d’Action de Dakar : EPT : tenir nos engagements collectifs, avril 2000.
+7.- Plan National de Développement de l’Education 2000-2010.
 8.- Données de base sur le système éducatif centrafricain, Ministère de l’Education Nationale, 2001.
 9.- Education Pour Tous (EPT) : Canevas pour l’élaboration de Plans d’Action pour le développement de l’EPT, BREDA, mars 2001.
 10.- PNA-EPT (Sénégal), avril 2001.
-11.- Loi N°97.014 du 10 décembre 1997 portant Orientation de l’Education Nationale en République Centrafricaine.
-12.- Arrêté N°0002 du 19 janvier 1998 portant déconcentration de l’organisation de certains examens et concours scolaires.
-13.- Arrêté N°0026 du 23 avril 1997 fixant les conditions d’ouverture des établissements privés d’enseignement in le Bulletin d’Information de l’Education National numéro spécial.
+11.- Loi n°97.014 du 10 décembre 1997 portant Orientation de l’Education Nationale en République Centrafricaine.
+12.- Arrêté n°0002 du 19 janvier 1998 portant déconcentration de l’organisation de certains examens et concours scolaires.
+13.- Arrêté n°0026 du 23 avril 1997 fixant les conditions d’ouverture des établissements privés d’enseignement in le Bulletin d’Information de l’Education Nationale numéro spécial.
 14.- Rapport de la 2ème réunion du groupe de travail sur l’EPT, UNESCO, Paris, septembre 2001.
-15.- Rapport final du séminaire-atelier de Libreville : réforme des systèmes éducatifs et réformes curriculaires, Gabon, 2000.
+15.- Rapport final du séminaire-atelier de Libreville : Réforme des systèmes éducatifs et réformes curriculaires, Gabon, 2000.
 16.- Rapport sur le développement humain durable en République Centrafricaine, UNICEF, 1996.
 17.- Partenariats pour le renforcement des capacités et l’amélioration de la qualité de l’éducation, ADEA, 1997.
-18.- Politiques et pratiques éducatives en Afrique, ADEA, 1998
-19.- La qualité de l’éducation en République Centrafricaine, CONFEMEN
-21.- COOMBES, la crise mondiale de l’éducation
+18.- Politiques et pratiques éducatives en Afrique, ASE, 1998.
+19.- La qualité de l’éducation en République Centrafricaine, CONFEMEN.
+21.- COOMBES, la crise mondiale de l’éducation.
 22.- Bilan Commun de pays (CCA) : La République Centrafricaine face aux défis de la pauvreté, de la bonne gouvernance et de la démocratie, Bangui 2001.
-23.- Le droit à l’éducation : analyse des instruments normatifs de l’UNESCO, Paris 2001
+23.- Le droit à l’éducation : analyse des instruments normatifs de l’UNESCO, Paris 2001.
 24.- Bilan de l’EPT à l’an 2000, Bangui Novembre 1999.
-25.- Enquête à indicateurs multiples « MICS » 2000, Bangui, 2001
-26.- Rapport des Inspections Académiques - Année scolaire 2000 - 2001
-27.- Constitution de la République Centrafricaine, janvier 1995
-28- Déclaration relative au cadre stratégique de lutte contre la pauvreté, Ministère de l’Economie, du Plan et de la Coopération International, 2000
-29- Etats Généraux de la Jeunesse et de l’Enfance, Ministère de la Jeunesse, des Sports, des Arts et de la Culture
-30- Plan National de Développement Sanitaire (PNDS), Ministère de la Santé Publique et de la Population, 1994 - 1998
+25.- Enquête à indicateurs multiples - MICS - 2000, Bangui, 2001.
+26.- Rapport des Inspections Académiques - Année scolaire 2000 - 2001.
+27.- Constitution de la République Centrafricaine, janvier 1995.
+28.- Déclaration relative au cadre stratégique de lutte contre la pauvreté, Ministère de l’Economie, du Plan et de la Coopération Internationale, 2000.
+29.- Etats Généraux de la Jeunesse et de l’Enfance, Ministère de la Jeunesse, des Sports, des Arts et de la Culture.
+30.- Plan National de Développement Sanitaire (PNDS), Ministère de la Santé Publique et de la Population, 1994 - 1998.
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
-76
+77
 
 [[END OF PAGE 77]]
 
 [[START OF PAGE 78]]
 
-31- Recensement Général de la Population (RGP), Ministère de l’Economie, du Plan et de la Coopération International, 1988
-32- Travaux préparatoires sur la décentralisation et la régionalisation, Haut Commissariat chargé de la Décentralisation et de la Régionalisation, 1995
+31.- Recensement Général de la Population (RGP), Ministère de l’Economie, du Plan et de la Coopération Internationale, 1988.
+32.- Travaux préparatoires sur la décentralisation et la régionalisation, Haut Commissariat chargé de la Décentralisation et de la Régionalisation, 1995.
 
 Plan National d’Action  -  Education Pour Tous  2003 - 2015
-77
+78
 
 [[END OF PAGE 78]]
