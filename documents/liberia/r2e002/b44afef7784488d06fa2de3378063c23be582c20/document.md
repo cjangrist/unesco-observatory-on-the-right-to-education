@@ -80,7 +80,7 @@ The Republic shall direct its policy towards ensuring for all citizens, without 
 
 #### Article 9
 
-The Republic shall encourage the promotion of bilateral and regional cooperation between and among Liberian and other nations and the formation and maintenance of regional organizations aimed at the cultural, social, political and economic development of the peoples of Africa and other nations of the world.
+The Republic shall encourage the promotion of bilateral and regional cooperation between and among Liberia and other nations and the formation and maintenance of regional organizations aimed at the cultural, social, political and economic development of the peoples of Africa and other nations of the world.
 
 #### Article 10
 
@@ -98,7 +98,7 @@ the Republic and the teaching of its principles and provisions in all institutio
 
 #### Article 11
 
-- All persons are born equally free and independent and have certain natural, inherent and inalienable rights, among which are the right of enjoying and defending life and liberty, of pursuing and maintaining and security of the person and of acquiring, possessing and protecting property, subject to such qualifications as provided for in this Constitution.
+- All persons are born equally free and independent and have certain natural, inherent and inalienable rights, among which are the right of enjoying and defending life and liberty, of pursuing and maintaining the security of the person and of acquiring, possessing and protecting property, subject to such qualifications as provided for in this Constitution.
 
 - All persons, irrespective of ethnic background, race, sex, creed, place of origin or political opinion, are entitled to the fundamental rights and freedoms of the individual, subject to such qualifications as provided for in this Constitution.
 
@@ -130,7 +130,7 @@ All persons shall be entitled to freedom of thought, conscience and religion and
 
 - In pursuance of this right, there shall be no limitation on the public right to be informed about the government and its functionaries.
 
-- Access to state owned media shall not be denied because of any disagreement with or dislike of the ideas express. Denial of such access may be challenged in a court of competent jurisdiction.
+- Access to state owned media shall not be denied because of any disagreement with or dislike of the ideas expressed. Denial of such access may be challenged in a court of competent jurisdiction.
 
 - This freedom may be limited only by judicial action in proceedings grounded in defamation or invasion of the rights of privacy and publicity or in the commercial
 
@@ -146,7 +146,7 @@ No person shall be subjected to interference with his privacy of person, family,
 
 #### Article 17
 
-All persons, at all times, in an orderly and peaceable manner, shall have the right to assemble and consult upon the common good, to instruct their representatives, to petition the Government or other functionaries for the redress of grievances and to associate fully with others or refuse to associate in political parties, trade unions and other organizations.
+All persons, at all times, in an orderly and peaceable manner, shall have the right to assemble and consult upon the common good, to instruct their representatives, to petition the Government or other functionaries for the redress of grievances and to associate freely with others or refuse to associate in political parties, trade unions and other organizations.
 
 #### Article 18
 
@@ -176,11 +176,11 @@ No person other than members of the Armed Forces of Liberia or of the militia in
 
 d.
 
-- All accused persons shall be bailable upon their personal recognizance or by sufficient sureties, depending upon the gravity of the charge, unless charged for capital offenses or grave offenses&#9;as defined by law.
+- All accused persons shall be bailable upon their personal recognizance or by sufficient sureties, depending upon the gravity of the charge, unless charged for capital offenses or grave offenses as defined by law.
 
 - Excessive bail shall not be required, nor excessive fines imposed, nor excessive punishment inflicted.
 
-- No person charged, arrested, restricted, detained or otherwise held in confinement shall be subject to torture or inhumane treatment; nor shall any person except military personnel, be kept or confined in any military facility; nor shall any person be seized and kept among convicted prisoners or treated as a convict, unless such person first shall have been convicted of a crime in court of competent jurisdiction. The Legislature shall make it a criminal offense and provide for appropriate penalties against any police or security officer, prosecutor, administrator or any other public or security officer, prosecutor, administrator or any other public official acting in contravention of this provision; and any person so damaged by the conduct of any such public official shall have a civil remedy therefor, exclusive of any
+- No person charged, arrested, restricted, detained or otherwise held in confinement shall be subject to torture or inhumane treatment; nor shall any person except military personnel, be kept or confined in any military facility; nor shall any person be seized and kept among convicted prisoners or treated as a convict, unless such person first shall have been convicted of a crime in court of competent jurisdiction. The Legislature shall make it a criminal offense and provide for appropriate penalties against any police or security officer, prosecutor, administrator or any other public official acting in contravention of this provision; and any person so damaged by the conduct of any such public official shall have a civil remedy therefor, exclusive of any
 
 [[END OF PAGE 7]]
 
@@ -194,7 +194,7 @@ d.
 
 - No person shall be held to answer for a capital or infamous crime except in cases of impeachment, cases arising in the Armed Forces and petty offenses, unless upon indictment by Grand Jury; and in all such cases, the accused shall have the right to a speedy, public and impartial trial by a jury of the vicinity, unless such person shall, with appropriate understanding, expressly waive the right to a jury trial. In all criminal cases, the accused shall have the right to be represented by counsel of his choice, to confront witnesses against him and to have compulsory process for obtaining witnesses in his favor. He shall not be compelled to furnish evidence against himself and he shall be presumed innocent until the contrary is proved beyond a reasonable doubt. No person shall be subject to double jeopardy.
 
-- The right to counsel and the rights of counsel shall be inviolable. There shall be no interference with the lawyer-client relationship. In all trials, hearings, interrogatories and other proceedings where a person ins accused of a criminal offense, the accused shall have the right to counsel of his choice; and where the accused is unable to secure such representation, the Republic shall make available legal aid services to ensure the protection of his rights.
+- The right to counsel and the rights of counsel shall be inviolable. There shall be no interference with the lawyer-client relationship. In all trials, hearings, interrogatories and other proceedings where a person is accused of a criminal offense, the accused shall have the right to counsel of his choice; and where the accused is unable to secure such representation, the Republic shall make available legal aid services to ensure the protection of his rights.
 
 There shall be absolute immunity from any government sanctions or interference in the performance of legal services as a counselor or advocate; lawyers' offices and homes shall not be searched or papers examined or taken save pursuant to a search warrant and court order; and no lawyer shall be prevented from or punished for providing legal services, regardless of the charges against or the guilt of his client, no lawyer shall be barred from practice for political reasons.
 
@@ -228,13 +228,13 @@ There shall be absolute immunity from any government sanctions or interference i
 
 - While the inviolability of private property shall be guaranteed by the Republic, expropriation may be authorized for the security of the nation in the event of armed conflict or where the public health and safety are endangered or for any other public purposes, provided:
 
-(i)&#9;&#9;that reasons for such expropriation are given;
+(i) that reasons for such expropriation are given;
 
-(ii)&#9;&#9;that there is prompt payment of just compensation;
+(ii) that there is prompt payment of just compensation;
 
-(iii)&#9;that such expropriation or the compensation offered may be challenged freely by the owner of the property in a court of law with no penalty for having brought such action; and
+(iii) that such expropriation or the compensation offered may be challenged freely by the owner of the property in a court of law with no penalty for having brought such action; and
 
-(iv)&#9;that when property taken for public use ceases to be so used, the Republic shall accord the former owner or those entitled to the property through such owner, the right of first refusal to reacquire the property.
+(iv) that when property taken for public use ceases to be so used, the Republic shall accord the former owner or those entitled to the property through such owner, the right of first refusal to reacquire the property.
 
 - All real property held by a person whose certificate of naturalization has been cancelled shall escheat to the Republic unless such person shall have a spouse and/or lineal heirs who are Liberian citizens, in which case the real property shall be transferred to them in accordance with the intestacy law.
 
@@ -288,11 +288,11 @@ Citizens of Liberia who meet the following qualifications are eligible to become
 
 - for the Senate, have attained the age of 30 years and for the House of Representatives, have attained the age of 25 years;
 
-- be domiciled in the country or constituency to be represented not less than one year prior to the time of the election and be a taxpayer.
+- be domiciled in the county or constituency to be represented not less than one year prior to the time of the election and be a taxpayer.
 
 #### Article 31
 
-Each member of the Legislature, before taking his seat and entering upon the duties of office, shall take and subscribe to a solemn oath of affirmation, before the presiding officer of the House to which such person was elected and in the presence of other members of that House, to uphold and defend the Constitution and laws of the Republic and to discharge
+Each member of the Legislature, before taking his seat and entering upon the duties of office, shall take and subscribe to a solemn oath or affirmation, before the presiding officer of the House to which such person was elected and in the presence of other members of that House, to uphold and defend the Constitution and laws of the Republic and to discharge
 
 [[END OF PAGE 12]]
 
@@ -318,17 +318,17 @@ The Legislature shall have the power:
 
 - to provide for the security of the Republic;
 
-- to provide for the common defense, to declare war and authorize the Executive to conclude peace; to raise and support the Armed Forces of the Republic, and to make appropriations therefor provided that no appropriation of money for that use shall be for a longer term than on year; and to make rules for the governance of the Armed Forces of the Republic;
+- to provide for the common defense, to declare war and authorize the Executive to conclude peace; to raise and support the Armed Forces of the Republic, and to make appropriations therefor provided that no appropriation of money for that use shall be for a longer term than one year; and to make rules for the governance of the Armed Forces of the Republic;
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
-- to levy taxes, duties, imports, exercise and other revenues, to borrow money, issue currency, mint coins, and to make appropriations for the fiscal governance of the Republic, subject to the following qualifications:
+- to levy taxes, duties, imposts, excise and other revenues, to borrow money, issue currency, mint coins, and to make appropriations for the fiscal governance of the Republic, subject to the following qualifications:
 
-- all revenue bills, whether subsidies, charges, imports, duties or taxes, and other financial bills, shall originate in the House of Representatives, but the Senate may propose or concur with amendments as on other bills. No other financial charge shall be established, fixed, laid or levied on any individual, community or locality under any pretext whatsoever except by the expressed consent of the individual, community or locality. In all such cases, a true and correct account of funds collected shall be made to the community or locality;
+- all revenue bills, whether subsidies, charges, imposts, duties or taxes, and other financial bills, shall originate in the House of Representatives, but the Senate may propose or concur with amendments as on other bills. No other financial charge shall be established, fixed, laid or levied on any individual, community or locality under any pretext whatsoever except by the expressed consent of the individual, community or locality. In all such cases, a true and correct account of funds collected shall be made to the community or locality;
 
-- no monies shall be drawn form the treasure except in consequence of appropriations made by legislative enactment and upon warrant of the President; and no coin shall be minted or national currency issued except by the expressed authority of the Legislature. An annual statement and account of the expenditure of all public monies shall be submitted by the office of the President to the Legislature and published once a year;
+- no monies shall be drawn from the treasury except in consequence of appropriations made by legislative enactment and upon warrant of the President; and no coin shall be minted or national currency issued except by the expressed authority of the Legislature. An annual statement and account of the expenditure of all public monies shall be submitted by the office of the President to the Legislature and published once a year;
 
 - no loans shall be raised by the Government on behalf of the Republic or guarantees given for any public institutions or authority otherwise than by or under the authority of a legislative enactment;
 
@@ -336,7 +336,7 @@ The Legislature shall have the power:
 
 - to approve treaties, conventions and such other international agreements negotiated or signed on behalf of the Republic;
 
-- to regulate trade and commence between Liberia and other nations;
+- to regulate trade and commerce between Liberia and other nations;
 
 - to establish laws for citizenship, naturalization and residence;
 
@@ -356,7 +356,7 @@ Government of the Republic, or in any department or officer thereof.
 
 #### Article 35
 
-Each bill or resolution which shall have passed both Houses of the Legislature shall, before it becomes law, be laid before the President for his approval. If he grants approval, it shall become law. If the President does not approve such bill or resolution, he shall return it, with his objections, to the House in which it originated. In so doing, the President may disapprove of the entire bill or resolution or any item or items thereof. This veto may be overridden by the re-passage of such bill, resolution or item thereof by a veto of two-thirds of the members in each House, in which case it shall become law. If the President does not return the bill or resolution within twenty days after the same shall have been laid before him it shall become law in like manner as if he had signed it, unless the Legislature by adjournment prevents its return.
+Each bill or resolution which shall have passed both Houses of the Legislature shall, before it becomes law, be laid before the President for his approval. If he grants approval, it shall become law. If the President does not approve such bill or resolution, he shall return it, with his objections, to the House in which it originated. In so doing, the President may disapprove of the entire bill or resolution or any item or items thereof. This veto may be overridden by the re-passage of such bill, resolution or item thereof by a vote of two-thirds of the members in each House, in which case it shall become law. If the President does not return the bill or resolution within twenty days after the same shall have been laid before him it shall become law in like manner as if he had signed it, unless the Legislature by adjournment prevents its return.
 
 No bill or resolution shall embrace more than one subject which shall be expressed in its title.
 
@@ -366,7 +366,7 @@ The Senators and Representatives shall receive from the Republic remuneration fo
 
 #### Article 37
 
-In the event of a vacancy in the Legislature caused by death, resignation, expulsion or otherwise, the presiding officer shall within 30 days notify the Elections Commission thereof. The Elections Commission shall not later than 90 days thereafter cause a byelection to be held; provided that where such vacancy occurs within 90 days prior to the holding of general elections, the filling of the vacancy shall await the holding of such general elections.
+In the event of a vacancy in the Legislature caused by death, resignation, expulsion or otherwise, the presiding officer shall within 30 days notify the Elections Commission thereof. The Elections Commission shall not later than 90 days thereafter cause a by-election to be held; provided that where such vacancy occurs within 90 days prior to the holding of general elections, the filling of the vacancy shall await the holding of such general elections.
 
 #### Article 38
 
@@ -382,15 +382,15 @@ The Legislature shall cause a census of the Republic to be undertaken every ten 
 
 #### Article 40
 
-Neither House shall adjourn for more than rive days without the consent of the other and both Houses shall always sit in the same city.
+Neither House shall adjourn for more than five days without the consent of the other and both Houses shall always sit in the same city.
 
 #### Article 41
 
-The business of the Legislature shall be concluded in the English language or, when adequate preparations shall have been made, in one more of the languages of the Republic as the Legislature may by resolution approve.
+The business of the Legislature shall be concluded in the English language or, when adequate preparations shall have been made, in one or more of the languages of the Republic as the Legislature may by resolution approve.
 
 #### Article 42
 
-No member of the Senate or House of Representatives shall be arrested, detained, prosecuted or tried as a result of opinions expressed or votes cast in the exercise of the functions of his office. Members shall be privileged from arrest while attending, going to or returning from sessions of the Legislature, except for treason, felony or breach of the peace. All official acts done or performed and all statement made in the Chambers of the Legislature shall be privileged, and no Legislator shall be held accountable or punished therefor.
+No member of the Senate or House of Representatives shall be arrested, detained, prosecuted or tried as a result of opinions expressed or votes cast in the exercise of the functions of his office. Members shall be privileged from arrest while attending, going to or returning from sessions of the Legislature, except for treason, felony or breach of the peace. All official acts done or performed and all statements made in the Chambers of the Legislature shall be privileged, and no Legislator shall be held accountable or punished therefor.
 
 [[END OF PAGE 16]]
 
@@ -406,11 +406,11 @@ Contempt of the Legislature shall consist of actions which obstruct the legislat
 
 #### Article 45
 
-The Senate shall composed of Senators elected for a term of nine years by the registered voters in each of the counties, but a Senator elected in a by-election to fill a vacancy created by death, resignation, expulsion or otherwise, shall be so elected to serve only the remainder of the unexpired term of office. Each county shall elect two Senators and each Senator shall have one vote in the Senate. Senators shall be eligible for re-election.
+The Senate shall be composed of Senators elected for a term of nine years by the registered voters in each of the counties, but a Senator elected in a by-election to fill a vacancy created by death, resignation, expulsion or otherwise, shall be so elected to serve only the remainder of the unexpired term of office. Each county shall elect two Senators and each Senator shall have one vote in the Senate. Senators shall be eligible for re-election.
 
 #### Article 46
 
-Immediately after the Senate shall have assembled following the elections prior to the coming into force of this Constitution, the Senators shall be divided into two categories as a result of the votes cast in each county. The Senator with the higher votes cast shall be the Senator from a county shall be placed in the same category. The seats of Senators of the first category shall be vacated at the expiration of the ninth year. In the interest of legislative continuity, the Senators of the second category shall serve a first term of six years only, after the first elections. Thereafter, all Senators shall be elected to serve a term of nine years.
+Immediately after the Senate shall have assembled following the elections prior to the coming into force of this Constitution, the Senators shall be divided into two categories as a result of the votes cast in each county. The Senator with the higher votes cast shall be placed in the first category, and the Senator with the lower votes cast shall be placed in the second category; provided that no two Senators from a county shall be placed in the same category. The seats of Senators of the first category shall be vacated at the expiration of the ninth year. In the interest of legislative continuity, the Senators of the second category shall serve a first term of six years only, after the first elections. Thereafter, all Senators shall be elected to serve a term of nine years.
 
 [[END OF PAGE 17]]
 
@@ -418,7 +418,7 @@ Immediately after the Senate shall have assembled following the elections prior 
 
 #### Article 47
 
-The Senate shall elect once every six years a President Pro Tempore who shall preside in the absence of the President of the Senate, and such shall officers as shall ensure the proper functioning of the Senate. The President Pro Tempore and other officers so elected may be removed from office for cause by resolution of a two-theirs majority of the members of the Senate.
+The Senate shall elect once every six years a President Pro Tempore who shall preside in the absence of the President of the Senate, and such other officers as shall ensure the proper functioning of the Senate. The President Pro Tempore and other officers so elected may be removed from office for cause by resolution of a two-thirds majority of the members of the Senate.
 
 #### Article 48
 
@@ -426,11 +426,13 @@ The House of Representatives shall be composed of members elected for a term of 
 
 #### Article 49
 
-The House of Representative shall elect once every six years a Speaker who shall be the presiding officer of that body, a Deputy Speaker, and such other officers as shall ensure the proper functioning of the House. The speaker, the Deputy Speaker and other officers so elected may be removed from office for cause by resolution of a two-thirds majority of the members of the House.
+The House of Representatives shall elect once every six years a Speaker who shall be the presiding officer of that body, a Deputy Speaker, and such other officers as shall ensure the proper functioning of the House. The speaker, the Deputy Speaker and other officers so elected may be removed from office for cause by resolution of a two-thirds majority of the members of the House.
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
+
+## CHAPTER VI
 
 ### THE EXECUTIVE
 
@@ -450,8 +452,6 @@ No person shall be eligible to hold the office of President or Vice-President, u
 
 - the owner of unencumbered real property valued at not less than twenty-five
 
-## CHAPTER VI
-
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
@@ -464,7 +464,7 @@ thousand dollars; and
 
 - The President and the Vice-President shall, before entering on the execution of the duties of their respective offices, take a solemn oath or affirmation to preserve, protect and defend the Constitution and laws of the Republic and faithfully execute the duties of the office. The oath or affirmation shall be administered in joint convention of both Houses of the Legislature by the Chief Justice or, in his absence, the most senior Associate Justice.
 
-- In an emergency where the Chief Justice and the Associate Justice are not available, such oath or affirmation shall be administered by a judge of a subordinate court of record.
+- In an emergency where the Chief Justice and the Associate Justices are not available, such oath or affirmation shall be administered by a judge of a subordinate court of record.
 
 #### Article 54
 
@@ -474,11 +474,11 @@ The President shall nominate and, with the consent of the Senate, appoint and co
 
 - ambassadors, ministers, consuls; and
 
-- the Chief Justice and Associate Justice of the Supreme Court and judges of subordinate courts;
+- the Chief Justice and Associate Justices of the Supreme Court and judges of subordinate courts;
 
 - superintendents, other county officials and officials of other political sub-divisions;
 
-- members of the military from the rank of lieutenant of its equivalent and above; and
+- members of the military from the rank of lieutenant or its equivalent and above; and
 
 - marshals, deputy marshals, and sheriffs.
 
@@ -490,13 +490,13 @@ The President shall appoint and commission Notaries Public and Justices of the P
 
 [[START OF PAGE 21]]
 
-shall hold office for a term of two years but may be removed by the President for cause. They shall be eligible for appointment.
+shall hold office for a term of two years but may be removed by the President for cause. They shall be eligible for reappointment.
 
 #### Article 56
 
 - All cabinet ministers, deputy and assistant cabinet ministers, ambassadors, ministers and consuls, superintendents of counties and other government officials, both military and civilian, appointed by the President pursuant to this Constitution shall hold their offices at the pleasure of the President.
 
-- There shall be elections of Paramount, Clan and Town Chiefs by the registered voters in their respective localities, to serve for a term of six years. They may be re- elected and may be removed only by the President for proved misconduct. The Legislature shall enact laws to provide for their qualifications as may be required.
+- There shall be elections of Paramount, Clan and Town Chiefs by the registered voters in their respective localities, to serve for a term of six years. They may be re-elected and may be removed only by the President for proved misconduct. The Legislature shall enact laws to provide for their qualifications as may be required.
 
 #### Article 57
 
@@ -508,7 +508,7 @@ The President shall, on the fourth working Monday in January of each year, prese
 
 #### Article 59
 
-The President may remit any public forfeitures and penalties suspend and fines and sentences, grant reprieves and pardons, and restore civil rights after conviction for all public offenses, except impeachment.
+The President may remit any public forfeitures and penalties, suspend any fines and sentences, grant reprieves and pardons, and restore civil rights after conviction for all public offenses, except impeachment.
 
 [[END OF PAGE 21]]
 
@@ -516,11 +516,11 @@ The President may remit any public forfeitures and penalties suspend and fines a
 
 #### Article 60
 
-The President and the Vice-President shall receive salaries which shall be determined by the Legislature and be paid by the Republic. Such salaries shall be subject to taxes as defined by law and shall neither be increased nor diminished during the period for which the President and the Vice-President shall have elected.
+The President and the Vice-President shall receive salaries which shall be determined by the Legislature and be paid by the Republic. Such salaries shall be subject to taxes as defined by law and shall neither be increased nor diminished during the period for which the President and the Vice-President shall have been elected.
 
 #### Article 61
 
-The President shall be immune from any suits, actions or proceedings, judicial or otherwise, and from arrest, detention or other actions on account of any act done by him while President of Liberia pursuant to any provision of this Constitution or any other laws of the Republic. The President shall not, however, be immune form prosecution upon removal from office for the commission of any criminal act done while President.
+The President shall be immune from any suits, actions or proceedings, judicial or otherwise, and from arrest, detention or other actions on account of any act done by him while President of Liberia pursuant to any provision of this Constitution or any other laws of the Republic. The President shall not, however, be immune from prosecution upon removal from office for the commission of any criminal act done while President.
 
 #### Article 62
 
@@ -530,7 +530,7 @@ The President and the Vice-President may be removed from office by impeachment f
 
 - Whenever a person elected to the office of President dies or is otherwise incapacitated before being inaugurated into office, the Vice-President elected shall succeed to the office of President, and this accession shall commence a term.
 
-- Whenever the office of the President shall become vacant by reason of death, resignation, impeachment, or the President shall be declared incapable of carrying out the duties and functions of his office, the Vice-President shall succeed to the of the President to complete the unexpired term. In such a case, this not constitute a term.
+- Whenever the office of the President shall become vacant by reason of death, resignation, impeachment, or the President shall be declared incapable of carrying out the duties and functions of his office, the Vice-President shall succeed to the office of the President to complete the unexpired term. In such a case, this shall not constitute a term.
 
 - The Legislature shall, no later than one year after the coming into force of this Constitution, prescribe the guidelines and determine the procedure under which the
 
@@ -540,11 +540,11 @@ The President and the Vice-President may be removed from office by impeachment f
 
 - President, by reason of illness, shall be declared incapable of carrying out the functions of his office.
 
-- Whenever the office of the Vice-President becomes vacant by reason of death, resignation, impeachment, inability or otherwise, the President shall, without delay, nominate a candidate who, with the concurrence of both Houses of the Legislature, shall be sworn in and hold office as Vice-President until the next general elections are held. Whenever the Vice-President elect dies, resigns, or is incapacitated before being inaugurated, the President elected on the same ticket with him, shall, after being inaugurated into office, nominate without delay a candidate who, with the concurrence of both Houses of the Legislature, shall be sworn in an hold office as Vice-President until the next general elections are held.
+- Whenever the office of the Vice-President becomes vacant by reason of death, resignation, impeachment, inability or otherwise, the President shall, without delay, nominate a candidate who, with the concurrence of both Houses of the Legislature, shall be sworn in and hold office as Vice-President until the next general elections are held. Whenever the Vice-President elect dies, resigns, or is incapacitated before being inaugurated, the President elected on the same ticket with him, shall, after being inaugurated into office, nominate without delay a candidate who, with the concurrence of both Houses of the Legislature, shall be sworn in and hold office as Vice-President until the next general elections are held.
 
 #### Article 64
 
-Whenever the office of the President and of the Vice-President shall become vacant by reason of removal, death, resignation, inability or other disability of the President and VicePresident, the Speaker of the House of Representatives shall be sworn in as Acting President until the holding of elections to fill the vacancies so created. Should the Speaker be legally incapable or otherwise unable to assume the office of Acting President, then the same shall devolve in order upon the Deputy speaker and members of the Cabinet in the order of precedence as established by law. The Elections Commission shall within ninety days conduct elections for a new President and a new Vice-President.
+Whenever the office of the President and of the Vice-President shall become vacant by reason of removal, death, resignation, inability or other disability of the President and Vice-President, the Speaker of the House of Representatives shall be sworn in as Acting President until the holding of elections to fill the vacancies so created. Should the Speaker be legally incapable or otherwise unable to assume the office of Acting President, then the same shall devolve in order upon the Deputy speaker and members of the Cabinet in the order of precedence as established by law. The Elections Commission shall within ninety days conduct elections for a new President and a new Vice-President.
 
 ## CHAPTER VII
 
@@ -560,15 +560,15 @@ The Judicial Power of the Republic shall be vested in a Supreme Court and such s
 
 #### Article 66
 
-The Supreme Court shall be final arbiter of constitutional issues and shall exercise final appellate jurisdiction in all cases whether emanating from courts of record, courts not of record, administrative agencies, autonomous agencies or any other authority, both as to law and fact except cases involving ambassadors, ministers, or cases in which a country is a party. In all such cases, the Supreme Court shall exercise original jurisdiction. The Legislature shall make no law nor create any exceptions as would deprive the Supreme Court of any of the powers granted herein.
+The Supreme Court shall be final arbiter of constitutional issues and shall exercise final appellate jurisdiction in all cases whether emanating from courts of record, courts not of record, administrative agencies, autonomous agencies or any other authority, both as to law and fact except cases involving ambassadors, ministers, or cases in which a county is a party. In all such cases, the Supreme Court shall exercise original jurisdiction. The Legislature shall make no law nor create any exceptions as would deprive the Supreme Court of any of the powers granted herein.
 
 #### Article 67
 
-The Supreme Court shall comprise of one Chief Justice and four Associate Justice, a majority of whom shall be deemed competent to transact the business of the Court. It a quorum is not obtained to enable the Court to hear any case, a circuit judge in the order of seniority shall sit as an ad hod justice of the Supreme Court.
+The Supreme Court shall comprise of one Chief Justice and four Associate Justices, a majority of whom shall be deemed competent to transact the business of the Court. If a quorum is not obtained to enable the Court to hear any case, a circuit judge in the order of seniority shall sit as an ad hoc justice of the Supreme Court.
 
 #### Article 68
 
-The Chief Justice and Associate Justice of the Supreme Court shall, with the consent of the Senate, be appointed and commissioned by the President; provided that any person so appointed shall be:
+The Chief Justice and Associate Justices of the Supreme Court shall, with the consent of the Senate, be appointed and commissioned by the President; provided that any person so appointed shall be:
 
 - a citizen of Liberia and of good moral character; and
 
@@ -584,7 +584,7 @@ The judges of subordinate courts of record shall, with the consent of the Senate
 
 - a citizen of Liberia and of good moral character; and
 
-- an Attorney-at-Law whom has practiced for at least 3 years, or a counselor of the Supreme Court Bar.
+- an Attorney-at-Law who has practiced for at least 3 years, or a counselor of the Supreme Court Bar.
 
 #### Article 70
 
@@ -592,7 +592,7 @@ The Chief Justice and the Associate Justices of the Supreme Court and all judges
 
 #### Article 71
 
-The Chief Justice and Associates Justices of the Supreme Court and the judges of subordinate courts of record shall hold office during good behavior. They may be removed upon impeachment and conviction by the Legislature based on proved misconduct, gross breach of duty, inability to perform the functions of their office, or conviction in a court of law for treason, bribery or other infamous crimes.
+The Chief Justice and Associate Justices of the Supreme Court and the judges of subordinate courts of record shall hold office during good behavior. They may be removed upon impeachment and conviction by the Legislature based on proved misconduct, gross breach of duty, inability to perform the functions of their office, or conviction in a court of law for treason, bribery or other infamous crimes.
 
 #### Article 72
 
@@ -750,11 +750,13 @@ The Legislature shall by law provide penalties for any violations of the relevan
 
 #### Article 85
 
-The President, as Commander-in-Chief of the Armed Forces, may order any portion of the Armed Forces into a state of combat readiness in defense of the Republic, before or after the declaration of a state of emergency, as may be warranted by the situation. All military power or authority shall at all times, however, be held in subordination to the civil authority and the Constitution.
+The President, as Commander-in-Chief of the Armed Forces, may order any portion of the Armed Forces into a state of combat readiness in defense of the Republic, before or after the declaration of a state of emergency, as may be warranted by the situation. All military
 
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
+
+power or authority shall at all times, however, be held in subordination to the civil authority and the Constitution.
 
 #### Article 86
 
