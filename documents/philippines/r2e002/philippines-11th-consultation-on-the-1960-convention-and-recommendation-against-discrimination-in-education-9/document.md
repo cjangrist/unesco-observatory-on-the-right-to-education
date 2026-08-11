@@ -4,8 +4,6 @@
 
 ## Survey response 1
 
-## ENERAL INFORMATION
-
 Response ID
 
 590
@@ -25,6 +23,8 @@ en
 Seed
 
 1538249980
+
+## GENERAL INFORMATION
 
 Country name:
 
@@ -82,27 +82,27 @@ Have the provisions of the Convention been invoked ?
 
 Court rulings and legal precedents show the country's commitment to the principles of the Convention Against Discrimination in Education (CADE). This demonstrates the dedication to educational equality and non-discrimination, highlighting the legal system's recognition of the importance of these principles.
 
-1. Supreme Court of the Republic of the Philippines, International School Alliance of Educators v. Hon Leonardo A. Quisumbing and others, 1 June 2000,  .R. No. 128845
+1. Supreme Court of the Republic of the Philippines, International School Alliance of Educators v. Hon Leonardo A. Quisumbing and others, 1 June 2000, G.R. No. 128845
 
-The case International School Alliance of Educators v. Hon. Leonardo A. Quisumbing and others ( .R. No. 128845, June 1, 2000) is a significant decision by the Supreme Court of the Philippines that deals with the issue of equal pay for equal work, specifically in the context of foreign and Filipino teachers at the International School Manila (ISM). The Supreme Court ruled in favor of thelocal teachers, holding that the salary disparity was unjustified and discriminatory. CADE was cited, page 8.[1]
+The case International School Alliance of Educators v. Hon. Leonardo A. Quisumbing and others (G.R. No. 128845, June 1, 2000) is a significant decision by the Supreme Court of the Philippines that deals with the issue of equal pay for equal work, specifically in the context of foreign and Filipino teachers at the International School Manila (ISM). The Supreme Court ruled in favor of thelocal teachers, holding that the salary disparity was unjustified and discriminatory. CADE was cited, page 8.[1]
 
-2.	Philippine Association of Colleges and Universities v. Secretary of Education ( .R. No. 115703, October 26, 1995)
+2.	Philippine Association of Colleges and Universities v. Secretary of Education (G.R. No. 115703, October 26, 1995)
 
 The Supreme Court ruled in favor of the government's right to control tuition fees by upholding the balance between academic freedom and the state's obligation to make education accessible to all. This ruling is in line with CADE's principle of removing financial obstacles to education, as it ensures that education is available to all, regardless of their financial situation.
 
-3.	Isagani Cruz v. Secretary of Environment and Natural Resources ( .R. No. 135385, December 6, 2000)
+3.	Isagani Cruz v. Secretary of Environment and Natural Resources (G.R. No. 135385, December 6, 2000)
 
 This case was primarily concerned with ancestral lands, but it also touched upon indigenous peoples' right to educational opportunities that respect their cultural identity. The Supreme Court acknowledged that indigenous peoples have a right to their ancestral land and stressed the importance of education that is sensitive to their culture and accessible to them. This case is in line with CADE's focus on preserving and promoting the cultural identities of minorities and Indigenous peoples.
 
-4.	Ebralinag v. Division Superintendent of Schools of Cebu ( .R. No. 95770, March 1, 1993)
+4.	Ebralinag v. Division Superintendent of Schools of Cebu (G.R. No. 95770, March 1, 1993)
 
 In this case, the students were removed from school for not saluting the flag, reciting the Pledge of Allegiance, and singing the national anthem on religious grounds. The Supreme Court ruled that the students' expulsion was a violation of their freedom of religion as well as their right to attend school. This case is important to CADE because it upholds CADE's principles and ensures that all students have the right to attend school without discrimination based on their religious beliefs.
 
-5.	 overnment Service Insurance System v. Manila Prince Hotel ( .R. No. 122156, February 3, 1997)
+5.	Government Service Insurance System v. Manila Prince Hotel (G.R. No. 122156, February 3, 1997)
 
 While the main focus of this case was on the issue of privatization and national ownership, it also focused on the state's role in safeguarding public interests. The Supreme Court highlighted the state's obligation to protect the public good, which includes making essential services, such as education, available to all. Importance of this case for CADE: This case reinforces the state's right to protect the right to education, which is an essential public good, in accordance with CADE's goals.
 
-## II. Information on the implementation of the Convention or Recommendation in the context of Sustainable Development  oal 4 (SD 4).
+## II. Information on the implementation of the Convention or Recommendation in the context of Sustainable Development Goal 4 (SDG4).
 ### 1. Towards an inclusive non-discriminatory education system
 
 Please indicate whether the rights and principles laid out in the Convention/Recommendation informed the elaboration of the education legal and/or policy framework:
@@ -123,32 +123,28 @@ Legal Framework
 
 Republic Act No. 10533 (Enhanced Basic Education Act of 2013) explicitly states its commitment to inclusive education and equal access (Sec. 2. Declaration of Policy). It emphasizes inclusivity in curriculum development (Sec. 5), teacher training (Sec. 6), and inclusion of special education and alternative learning systems (Sec. 8) and promotes equal educational opportunities for every learner, irrespective of their background or circumstances.
 
-Republic Act No. 7722, also known as the Higher Education Act of 1
+Republic Act No. 7722, also known as the Higher Education Act of 1994 aims to promote relevant and quality higher education that is accessible to all and free from any form of discrimination. Sec. 2. Declaration of Policy outlines the state policy on higher education, emphasizing equality and non-discrimination; Sec 8: Powers and Functions of the Commission have several provisions that empower CHED to implement policies promoting non-discrimination and equal access; Sec. 10: Policies, Standards, and Guidelines for Higher Education empowers CHED to formulate policies ensuring inclusive and non-discriminatory practices in higher education institutions (HEIs).
 
-994 aims to promote relevant and quality higher education that is accessible to all and free from any form of discrimination. Sec. 2. Declaration of Policy outlines the state policy on higher education, emphasizing equality and non-discrimination; Sec 8: Powers and Functions of the Commission have several provisions that empower CHED to implement policies promoting non-
-
-discrimination and equal access; Sec. 10: Policies, Standards, and  uidelines for Higher Education empowers CHED to formulate policies ensuring inclusive and non-discriminatory practices in higher education institutions (HEIs).
-
-Republic Act No. 7796, known as the Technical Education and Skills Development Act of 1994 sets forth policies to ensure that technical education and skills development in the Philippines are accessible to all citizens, promoting an inclusive and nondiscriminatory environment. The provisions and subsequent regulations aim to create equitable access to technical and vocational training opportunities, ensuring that every individual, regardless of background or circumstance, can benefit from skills development and training programs.   Section 28 of R.A. 7796 also known as the TESDA Act of 1994 directs the implementation of an effective and efficient delivery system for quality technical education and skills development opportunities particularly in disadvantaged sectors, with new tools to take on higher value-added gainful activities and to share equitably in productivity gains. Likewise, Section 32 of the same Act outlines TESDA's scholarship grants which shall be responsive to the technical education and skills development needs of the different regions in the country.
+Republic Act No. 7796, known as the Technical Education and Skills Development Act of 1994 sets forth policies to ensure that technical education and skills development in the Philippines are accessible to all citizens, promoting an inclusive and non-discriminatory environment. The provisions and subsequent regulations aim to create equitable access to technical and vocational training opportunities, ensuring that every individual, regardless of background or circumstance, can benefit from skills development and training programs. Section 28 of R.A. 7796 also known as the TESDA Act of 1994 directs the implementation of an effective and efficient delivery system for quality technical education and skills development opportunities particularly in disadvantaged sectors, with new tools to take on higher value-added gainful activities and to share equitably in productivity gains. Likewise, Section 32 of the same Act outlines TESDA’s scholarship grants which shall be responsive to the technical education and skills development needs of the different regions in the country.
 
 Republic Act 10410: Early Years Act of 2013  The ECCD 10-Year Plan crafted by the ECCD Council and UNICEF
 
-Republic Act No. 11510 or the Alternative Learning System (ALS) Act, December 2020 provides an inclusive and nondiscriminatory educational system for learners who are unable to access the formal education system. This legislation aims to ensure that all Filipinos have the opportunity to receive education, regardless of their circumstances.
+Republic Act No. 11510 or the Alternative Learning System (ALS) Act, December 2020 provides an inclusive and non-discriminatory educational system for learners who are unable to access the formal education system. This legislation aims to ensure that all Filipinos have the opportunity to receive education, regardless of their circumstances.
 
 Republic Act No. 11650, known as the "Instituting a Policy of Inclusion and Services for Learners with Disabilities in Support of Inclusive Education Act", March 11, 2022 aims to recognize, protect, and promote the rights of all learners with disabilities, including those belonging to ethnic, religious, or linguistic minorities or persons of indigenous origin, to education compulsory and accessible to them by ensuring that no learner with disability is deprived of the right of access to an inclusive, equitable, and quality education, and promote lifelong learning opportunities for them. (Sec. 2). CADE is cited in Sec. 3 (b).
 
 Republic Act (RA) No. 10931 or the Universal Access to Quality Tertiary Education Act (UAQTEA) Section 2 (b) directed to provide Filipinos with equal opportunity to quality tertiary education in both private and public educational institutions;
 
-R.A. 8545 or the Expanded  overnment Assistance to Students and Teachers in Private Education Act (E ASTPE) Section 2 mandated to promote and make quality education accessible to all Filipino citizens by maximizing the use of existing resources of private education
+R.A. 8545 or the Expanded Government Assistance to Students and Teachers in Private Education Act (EGASTPE) Section 2 mandated to promote and make quality education accessible to all Filipino citizens by maximizing the use of existing resources of private education
 
 Policy Framework
 
 Philippine Development Plan (PDP) 2017-2022 and PDP 2023-2028 - Education sector strategies are outlined in the PDP, aiming to ensure lifelong learning opportunities and improve access to quality education from the early years to basic education; TVET and higher education including adult learning and education.
 
-Basic Education Development Plan (BEDP) 2030. The BEDP 2030 is the Philippines' strategic framework aimed at improving the quality of basic education while ensuring inclusivity and equal access for all learners. The BEDP 2030 outlines specific goals and strategies to achieve these aims, addressing issues of discrimination and barriers to education. The plan's commitment to inclusivity aligns with global standards and international conventions, such as the Convention Against Discrimination in Education (CADE) and SD 4.
+Basic Education Development Plan (BEDP) 2030. The BEDP 2030 is the Philippines' strategic framework aimed at improving the quality of basic education while ensuring inclusivity and equal access for all learners. The BEDP 2030 outlines specific goals and strategies to achieve these aims, addressing issues of discrimination and barriers to education. The plan's commitment to inclusivity aligns with global standards and international conventions, such as the Convention Against Discrimination in Education (CADE) and SDG4.
 
 #### 1.1 Non-discrimination and equality in education
-Please indicate measures adopted to both prevent and eliminate discrimination in education within the meaning of the Convention/Recommendation [1], and ensure equal access to all levels and types of education (please tick all that apply): For reference: This notably is covered under SD  target 4.1 and partly target 4.b [2]. [1] See: Article/Paragraph 1(1). [2] Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'. [Legal texts (Constitution, laws, decrees, regulations, circulars, etc.) prohibit discrimination and guarantee equal access to education]
+Please indicate measures adopted to both prevent and eliminate discrimination in education within the meaning of the Convention/Recommendation [1], and ensure equal access to all levels and types of education (please tick all that apply): For reference: This notably is covered under SDG target 4.1 and partly target 4.b [2]. [1] See: Article/Paragraph 1(1). [2] Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'. [Legal texts (Constitution, laws, decrees, regulations, circulars, etc.) prohibit discrimination and guarantee equal access to education]
 
 Yes
 
@@ -158,11 +154,11 @@ page 3 / 60
 
 [[START OF PAGE 4]]
 
-1.1 Non-discrimination and equality in education Please indicate measures adopted to both prevent and eliminate discrimination in education within the meaning of the Convention/Recommendation [1], and ensure equal access to all levels and types of education (please tick all that apply): For reference: This notably is covered under SD  target 4.1 and partly target 4.b [2]. [1] See: Article/Paragraph 1(1). [2] Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'. [Policies, programmes and initiatives aim to prohibit and prevent discrimination and ensure equal access to education]
+1.1 Non-discrimination and equality in education Please indicate measures adopted to both prevent and eliminate discrimination in education within the meaning of the Convention/Recommendation [1], and ensure equal access to all levels and types of education (please tick all that apply): For reference: This notably is covered under SDG target 4.1 and partly target 4.b [2]. [1] See: Article/Paragraph 1(1). [2] Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'. [Policies, programmes and initiatives aim to prohibit and prevent discrimination and ensure equal access to education]
 
 Yes
 
-1.1 Non-discrimination and equality in education Please indicate measures adopted to both prevent and eliminate discrimination in education within the meaning of the Convention/Recommendation [1], and ensure equal access to all levels and types of education (please tick all that apply): For reference: This notably is covered under SD  target 4.1 and partly target 4.b [2]. [1] See: Article/Paragraph 1(1). [2] Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'. [Combatting discrimination in terms of curriculum]
+1.1 Non-discrimination and equality in education Please indicate measures adopted to both prevent and eliminate discrimination in education within the meaning of the Convention/Recommendation [1], and ensure equal access to all levels and types of education (please tick all that apply): For reference: This notably is covered under SDG target 4.1 and partly target 4.b [2]. [1] See: Article/Paragraph 1(1). [2] Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'. [Combatting discrimination in terms of curriculum]
 
 Yes
 
@@ -214,13 +210,15 @@ Ensure that all children, regardless of social status, family income, or geograp
 
 Provide special protection to children belonging to marginalized and disadvantaged groups, including children with disabilities, children of indigenous peoples, and children in difficult circumstances.
 
-In the Philippines 0-4 years old children are accepted in National Child Development Center, without exceptions Section 5:  uiding Principles
+In the Philippines 0-4 years old children are accepted in National Child Development Center, without exceptions
+
+Section 5: Guiding Principles
 
 Equality and Non-Discrimination: Provision of services to all children without discrimination on the basis of gender, age, ethnicity, language, religion, disability, social status, or any other condition.
 
 3.	Republic Act No. 10157 or the Kindergarten Education Act of 2012
 
-SEC. 2. Declaration of Policy. - In consonance with the Millennium Development  oals on achieving Education for All (EFA) by the year 2015, it is hereby declared the policy of the State to provide equal opportunities for all children to avail of accessible mandatory and compulsory kindergarten education that effectively promotes physical, social, intellectual, emotional and skills stimulation and values formation to sufficiently prepare them for formal elementary schooling.
+SEC. 2. Declaration of Policy. - In consonance with the Millennium Development Goals on achieving Education for All (EFA) by the year 2015, it is hereby declared the policy of the State to provide equal opportunities for all children to avail of accessible mandatory and compulsory kindergarten education that effectively promotes physical, social, intellectual, emotional and skills stimulation and values formation to sufficiently prepare them for formal elementary schooling.
 
 4.	Republic Act No. 10533 (Enhanced Basic Education Act of 2013)
 
@@ -256,51 +254,51 @@ page 5 / 60
 
 Philippine laws address prohibited grounds of discrimination in education, ensuring that all individuals have equal access to educational opportunities. These laws cover discrimination based on gender, disability, ethnicity, age, social status, and other relevant factors, aligning with the principles of the Convention Against Discrimination in Education (CADE).
 
-- 1987 Philippine Constitution
+1.	1987 Philippine Constitution
 
 Section 1: State Responsibility for Education
 
-- Principle of State Responsibility: The State shall protect and promote the right of all citizens to quality education at all levels. It shall take appropriate steps to make such education accessible to all.
+·	Principle of State Responsibility: The State shall protect and promote the right of all citizens to quality education at all levels. It shall take appropriate steps to make such education accessible to all.
 
-- Section 2: Establishing and Maintaining a System of Education
+Section 2: Establishing and Maintaining a System of Education
 
-- Basic Education: The State shall establish and maintain a system of free public education in the elementary and high school levels. It shall also ensure that access to education shall not be denied to any individual due to poverty.
+·	Basic Education: The State shall establish and maintain a system of free public education in the elementary and high school levels. It shall also ensure that access to education shall not be denied to any individual due to poverty.
 
 Section 12: Affirmative Action for Disadvantaged Citizens
 
 Affirmative Action: The State shall take affirmative action to promote equal access to educational opportunities for all citizens, especially those who are economically disadvantaged.
 
-- Republic Act No. 9710, Magna Carta of Women - This law promotes gender equality and
+2.	Republic Act No. 9710, Magna Carta of Women - This law promotes gender equality and
 
 prohibits discrimination against women in various fields, including education.
 
-- Section 13: Ensures equal access and elimination of discrimination in education, scholarships, and training.
+·	Section 13: Ensures equal access and elimination of discrimination in education, scholarships, and training.
 
-- Republic Act No. 7277 - Magna Carta for Disabled Persons
+3.	Republic Act No. 7277 - Magna Carta for Disabled Persons
 
-- Section 12: Prohibits discrimination against persons with disabilities in educational institutions and mandates the provision of support services.
+·	Section 12: Prohibits discrimination against persons with disabilities in educational institutions and mandates the provision of support services.
 
-- Republic Act No. 7610 - Special Protection of Children Against Abuse, Exploitation and Discrimination Act
+4.	Republic Act No. 7610 - Special Protection of Children Against Abuse, Exploitation and Discrimination Act
 
-- Section 5: Protects children from any act of discrimination, which includes deprivation of educational opportunities.
+·	Section 5: Protects children from any act of discrimination, which includes deprivation of educational opportunities.
 
-- Republic Act No. 8371 - Indigenous Peoples' Rights Act
+5.	Republic Act No. 8371 - Indigenous Peoples' Rights Act
 
-- Section 30: Mandates that the State shall provide equal access to various cultural opportunities and education without discrimination.
+·	Section 30: Mandates that the State shall provide equal access to various cultural opportunities and education without discrimination.
 
-- Republic Act No. 9442 - An Act Amending Republic Act No. 7277
+6.	Republic Act No. 9442 - An Act Amending Republic Act No. 7277
 
-- Section 32: Reinforces the prohibition of discrimination against persons with disabilities in educational institutions.
+·	Section 32: Reinforces the prohibition of discrimination against persons with disabilities in educational institutions.
 
-- Republic Act No. 11510 - Alternative Learning System Act
+7.	Republic Act No. 11510 - Alternative Learning System Act
 
-- Section 3(b): Ensures that the ALS is inclusive and responsive to the needs of diverse learners, particularly those from marginalized groups.
+·	Section 3(b): Ensures that the ALS is inclusive and responsive to the needs of diverse learners, particularly those from marginalized groups.
 
-- Republic Act No. 7722 (Higher Education Act of 1994) - Section 23 (Equality of Opportunities) CHED shall take appropriate steps to provide equal opportunities for all qualified students, regardless of their socio-economic status or background.
+8.	Republic Act No. 7722 (Higher Education Act of 1994) - Section 23 (Equality of Opportunities) CHED shall take appropriate steps to provide equal opportunities for all qualified students, regardless of their socio-economic status or background.
 
-- Republic Act No. 10931 (Universal Access to Quality Tertiary Education Act) - Section 2: Affirms the state policy to provide access to quality tertiary education for all Filipinos, including those from marginalized sectors, ensuring equal access without discrimination.
+9.	Republic Act No. 10931 (Universal Access to Quality Tertiary Education Act) - Section 2: Affirms the state policy to provide access to quality tertiary education for all Filipinos, including those from marginalized sectors, ensuring equal access without discrimination.
 
-- In line with the abovementioned offering of TESDA scholarship grants, the Authority also issued TESDA Circular No. 004, s. 2024 on 2024 Omnibus  uidelines for the Implementation of TESDA Scholarship Programs. Wherein, section 10 of the issuance provides the sanctions to be imposed for violation of the guidelines, including disciplinary action under the 2017 ules on Administrative Cases in the Civil Service (RACCS).
+10.	In line with the abovementioned offering of TESDA scholarship grants, the Authority also issued TESDA Circular No. 004, s. 2024 on 2024 Omnibus Guidelines for the Implementation of TESDA Scholarship Programs. Wherein, section 10 of the issuance provides the sanctions to be imposed for violation of the guidelines, including disciplinary action under the 2017 ules on Administrative Cases in the Civil Service (RACCS).
 
 Policies, programmes and initiatives aim to prohibit and prevent discrimination and ensure equal access to education: [In pre-primary education (including early learning and care)]
 
@@ -336,55 +334,61 @@ page 6 / 60
 
 Institutional Policies
 
-- Department of Education (DepEd) Orders and Programs
+1. Department of Education (DepEd) Orders and Programs
 
-DepEd Order No. 21, s. 2020 (Policy  uidelines on the K to 12 Basic Education Program): Ensures the inclusion of diverse learners in the educational system, including those with disabilities, indigenous peoples, and other marginalized groups. DepEd Order No. 40, s. 2012 - Child Protection Policy: This order establishes the Child Protection Committee in all public and private schools to ensure the safety and well-being of learners. It outlines procedures for reporting and addressing cases of child abuse, bullying, discrimination, and other forms of violence in educational settings.
+DepEd Order No. 21, s. 2020 (Policy Guidelines on the K to 12 Basic Education Program): Ensures the inclusion of diverse learners in the educational system, including those with disabilities, indigenous peoples, and other marginalized groups.
+
+DepEd Order No. 40, s. 2012 - Child Protection Policy: This order establishes the Child Protection Committee in all public and private schools to ensure the safety and well-being of learners. It outlines procedures for reporting and addressing cases of child abuse, bullying, discrimination, and other forms of violence in educational settings.
 
 DepEd Order No. 31, 2022 - Adoption of the Rights-based Education Framework for Philippine Basic Education
 
-DepEd Order  No. 55 s 2017 - Implementing Rules and Regulations of the Republic Act 10627 or the AntiBullying Act of 2013 School-Based Feeding Program: Provides free meals to undernourished children in public schools to improve attendance and learning outcomes.
+DepEd Order No. 55 s 2017 – Implementing Rules and Regulations of the Republic Act 10627 or the AntiBullying Act of 2013
+
+School-Based Feeding Program: Provides free meals to undernourished children in public schools to improve attendance and learning outcomes.
 
 DOs on Education for Learners with Disabilities.
 
-- D.O. 042, s2021 - Utilization of Program Support Funds for SPED
+D.O. 042, s2021 – Utilization of Program Support Funds for SPED
 
-- D.O. 044, s2021 - Policy  uidelines on the Provision of Educational Programs and Services for Learners with Disabilities
+D.O. 044, s2021 - Policy Guidelines on the Provision of Educational Programs and Services for Learners with Disabilities
 
-D.O. 045, s2021 - Policy  uidelines on Conversion of SPED Centers into Inclusive Learning Resource Centers (ILRCs)
+D.O. 045, s2021 – Policy Guidelines on Conversion of SPED Centers into Inclusive Learning Resource Centers (ILRCs)
 
-2.  Commission on Higher Education (CHED) Policies
+2. Commission on Higher Education (CHED) Policies
 
-·		CHED Memorandum Order No. 8, s. 2019 ( uidelines for Student Affairs and Services Programs): Provides a framework for higher education institutions to develop student services that promote inclusivity and support the diverse needs of students. ·	CHED Memorandum Order No. 1, s. 2015 ( ender and Development Focal Points): Promotes gender equality and the elimination of gender-based discrimination in higher education institutions.
+·	CHED Memorandum Order No. 8, s. 2019 (Guidelines for Student Affairs and Services Programs): Provides a framework for higher education institutions to develop student services that promote inclusivity and support the diverse needs of students.
+
+·	CHED Memorandum Order No. 1, s. 2015 (Gender and Development Focal Points): Promotes gender equality and the elimination of gender-based discrimination in higher education institutions.
 
 3.	Technical Education and Skills Development Authority (TESDA) Initiatives
 
-·		Inclusive Education for TVET: TESDA offers a range of scholarship opportunities and training programs designed to be accessible to marginalized groups, including Indigenous Peoples (IPs), the unemployed, out-of-school youth (OSY), persons with disabilities (PWDs), women, Overseas Filipino Workers (OFWs), and both rural and urban poor communities. By doing so, TESDA plays a crucial role in empowering these groups through education and skill development, fostering greater social and economic inclusion.
+·	Inclusive Education for TVET: TESDA offers a range of scholarship opportunities and training programs designed to be accessible to marginalized groups, including Indigenous Peoples (IPs), the unemployed, out-of-school youth (OSY), persons with disabilities (PWDs), women, Overseas Filipino Workers (OFWs), and both rural and urban poor communities. By doing so, TESDA plays a crucial role in empowering these groups through education and skill development, fostering greater social and economic inclusion.
 
-4.  RA 10410 Early Years Act of 2013 and the ECCD 10 Year Plan
+4. RA 10410 Early Years Act of 2013 and the ECCD 10 Year Plan
 
 Financial Assistance Programs
 
-- Pantawid Pamilyang Pilipino Program (4Ps) - A conditional cash transfer program that provides financial support to poor families, with conditions that include regular school attendance for children. This program helps reduce dropout rates and ensure that children from low-income families have access to education.
+1.	Pantawid Pamilyang Pilipino Program (4Ps) - A conditional cash transfer program that provides financial support to poor families, with conditions that include regular school attendance for children. This program helps reduce dropout rates and ensure that children from low-income families have access to education.
 
-2.	Senior High School Voucher Program - Provides financial assistance to  rade 10 completers from public and private junior
+2.	Senior High School Voucher Program - Provides financial assistance to Grade 10 completers from public and private junior high schools to enroll in senior high school in private schools, state universities, and colleges, or technical-vocational institutions.
 
-high schools to enroll in senior high school in private schools, state universities, and colleges, or technical-vocational institutions. student loans to help deserving students pursue higher education, especially those from financially disadvantaged backgrounds.
+3.	Student Financial Assistance Programs (StuFAPs) - CHED administers various scholarship programs, grants-in-aid, and student loans to help deserving students pursue higher education, especially those from financially disadvantaged backgrounds.
 
-- Student Financial Assistance Programs (StuFAPs) - CHED administers various scholarship programs, grants-in-aid, and Community-Based Initiatives
+Community-Based Initiatives
 
-- Alternative Learning System (ALS) - Provides a parallel learning system for out-of- school youth and adults who have not completed formal education. ALS offers basic and functional literacy programs, allowing learners to achieve educational competencies equivalent to formal school.
+1.	Alternative Learning System (ALS) - Provides a parallel learning system for out-of-school youth and adults who have not completed formal education. ALS offers basic and functional literacy programs, allowing learners to achieve educational competencies equivalent to formal school.
 
-- Indigenous Peoples Education (IPEd) Program - Supports culturally appropriate education for indigenous communities, ensuring that their educational needs and cultural heritage are respected and integrated into the learning process.
+2.	Indigenous Peoples Education (IPEd) Program - Supports culturally appropriate education for indigenous communities, ensuring that their educational needs and cultural heritage are respected and integrated into the learning process.
 
-- Partnerships with Non- overnmental Organizations (N Os) - Collaborations with N Os and community-based organizations help implement programs targeting marginalized groups, such as street children, working youth, and rural populations, ensuring they receive education and support services.
+3.	Partnerships with Non-Governmental Organizations (NGOs) - Collaborations with NGOs and community-based organizations help implement programs targeting marginalized groups, such as street children, working youth, and rural populations, ensuring they receive education and support services.
 
 Monitoring and Evaluation
 
-- Regular surveys and research to gather data on enrollment, dropout rates, and other indicators are conducted by PSA and DepEd to inform policy decisions and help identify areas needing targeted interventions.
+1.	Regular surveys and research to gather data on enrollment, dropout rates, and other indicators are conducted by PSA and DepEd to inform policy decisions and help identify areas needing targeted interventions.
 
-- School-Based Management (SBM) - Empowers schools to develop and implement policies and practices tailored to their local context, promoting inclusivity and non- discrimination at the grassroots level.
+2.	School-Based Management (SBM) - Empowers schools to develop and implement policies and practices tailored to their local context, promoting inclusivity and non-discrimination at the grassroots level.
 
-- Human rights principles are integrated into the curriculum and teacher training programs to foster a culture of respect, equality, and non-discrimination among students and educators.
+3.	Human rights principles are integrated into the curriculum and teacher training programs to foster a culture of respect, equality, and non-discrimination among students and educators.
 
 Combatting discrimination in terms of curriculum: [In pre-primary education (including early learning and care)]
 
@@ -405,7 +409,6 @@ page 7 / 60
 [[START OF PAGE 8]]
 
 Combatting discrimination in terms of curriculum: [In technical and vocational education and training]
----
 Yes
 Combatting discrimination in terms of curriculum: [In higher education]
 Yes
@@ -424,77 +427,77 @@ The Philippines has implemented a range of policies and initiatives across its e
 
 Pre-Primary Education (Including Early Learning and Care)
 
-Local government units (L Us) which manage NCDCS, accept/enroll 0-4 years old children regardless of social station, religious affiliation and economic situation
+Local government units (LGUs) which manage NCDCS, accept/enroll 0-4 years old children regardless of social station, religious affiliation and economic situation
 
-- Republic Act No. 10410 (Early Years Act of 2013):
+1. Republic Act No. 10410 (Early Years Act of 2013):
 
-- Establishes a framework for early childhood care and development (ECCD) and ensures 2.	Kindergarten Education Act (Republic Act No. 10157):
+●	Establishes a framework for early childhood care and development (ECCD) and ensures 2.	Kindergarten Education Act (Republic Act No. 10157):
 
-- Makes kindergarten education mandatory and free in public schools, promoting equal access to early learning opportunities for all children, regardless of their socio-economic background.
+●	Makes kindergarten education mandatory and free in public schools, promoting equal access to early learning opportunities for all children, regardless of their socio-economic background.
 
-- DepEd Order No. 20, s. 2018 ( uidelines on the Conduct of the Kindergarten Summer Program):
+3.	DepEd Order No. 20, s. 2018 (Guidelines on the Conduct of the Kindergarten Summer Program):
 
-- Provides additional learning opportunities for children who need to meet the Kindergarten curriculum standards, ensuring that all children are prepared for formal schooling.
+●	Provides additional learning opportunities for children who need to meet the Kindergarten curriculum standards, ensuring that all children are prepared for formal schooling.
 
 Primary Education
 
-- Enhanced Basic Education Act of 2013 (Republic Act No. 10533):
+1.	Enhanced Basic Education Act of 2013 (Republic Act No. 10533):
 
-- Promotes an inclusive K-12 curriculum that caters to diverse learners, including those from disadvantaged and marginalized communities.
+●	Promotes an inclusive K-12 curriculum that caters to diverse learners, including those from disadvantaged and marginalized communities.
 
 2.	Mother Tongue-Based Multilingual Education (MTB-MLE):
 
-- Mandates the use of the mother tongue as the medium of instruction from Kindergarten to  rade 3 to improve learning outcomes and ensure that children from different linguistic backgrounds are not disadvantaged.
+●	Mandates the use of the mother tongue as the medium of instruction from Kindergarten to Grade 3 to improve learning outcomes and ensure that children from different linguistic backgrounds are not disadvantaged.
 
-3.	DepEd Order No. 32, s. 2017 ( ender-Responsive Basic Education Policy):
+3.	DepEd Order No. 32, s. 2017 (Gender-Responsive Basic Education Policy):
 
-- Integrates gender equality principles into the curriculum and teaching practices, promoting gender sensitivity and addressing gender-based discrimination in schools.
+●	Integrates gender equality principles into the curriculum and teaching practices, promoting gender sensitivity and addressing gender-based discrimination in schools.
 
 Secondary Education
 
-- K to 12 Basic Education Program:
+1.	K to 12 Basic Education Program:
 
-- Extends the basic education cycle to 12 years, with a curriculum designed to be inclusive and relevant to all learners, including those from marginalized sectors.
+●	Extends the basic education cycle to 12 years, with a curriculum designed to be inclusive and relevant to all learners, including those from marginalized sectors.
 
 2.	DepEd Order No. 40, s. 2012 (Child Protection Policy):
 
-- Implements measures to protect children from abuse, violence, exploitation, and discrimination, creating a safe and supportive learning environment.
+●	Implements measures to protect children from abuse, violence, exploitation, and discrimination, creating a safe and supportive learning environment.
 
-3.	Special Programs for the  ifted and Talented:
+3.	Special Programs for the Gifted and Talented:
 
-- Provides opportunities for learners with exceptional abilities, ensuring that all students have access to appropriate educational challenges and support.
+●	Provides opportunities for learners with exceptional abilities, ensuring that all students have access to appropriate educational challenges and support.
 
 Technical and Vocational Education and Training (TVET)
 
-- TESDA Programs:
+1.	TESDA Programs:
 
-- The Technical Education and Skills Development Authority (TESDA) offers various scholarship programs such as the Training for Work Scholarship Program (TWSP) and the Special Training for Employment Program (STEP) to ensure access to TVET for all, including marginalized and disadvantaged groups.
+●	The Technical Education and Skills Development Authority (TESDA) offers various scholarship programs such as the Training for Work Scholarship Program (TWSP) and the Special Training for Employment Program (STEP) to ensure access to TVET for all, including marginalized and disadvantaged groups.
 
-2.	TESDA Order No. 148, s. 2017 (Policy  uidelines on the Implementation of Flexible Learning in TVET):
+2.	TESDA Order No. 148, s. 2017 (Policy Guidelines on the Implementation of Flexible Learning in TVET):
 
-- Promotes flexible learning options in TVET to accommodate the diverse needs of learners, ensuring that everyone has access to vocational education and training opportunities.
+●	Promotes flexible learning options in TVET to accommodate the diverse needs of learners, ensuring that everyone has access to vocational education and training opportunities.
 
 3.	Inclusion of Entrepreneurship in TVET Curriculum:
 
-- Encourages the inclusion of entrepreneurship training in the TVET curriculum to empower learners with the skills needed for self-employment and economic independence.
+●	Encourages the inclusion of entrepreneurship training in the TVET curriculum to empower learners with the skills needed for self-employment and economic independence.
 
-- Section 2 (b) of Republic Act (RA) No. 10931 or the Universal Access to Quality Tertiary Education Act (UAQTEA) directed to provide Filipinos with equal opportunity to quality tertiary education in both private and public educational institutions;
+4.	Section 2 (b) of Republic Act (RA) No. 10931 or the Universal Access to Quality Tertiary Education Act (UAQTEA) directed to provide Filipinos with equal opportunity to quality tertiary education in both private and public educational institutions;
 
-- Section 2 of R.A. 8545 or the Expanded  overnment Assistance to Students and Teachers in Private Education Act (E ASTPE) mandated to promote and make quality education accessible to all Filipino citizens by maximizing the use of existing resources of private education
+5.	Section 2 of R.A. 8545 or the Expanded Government Assistance to Students and Teachers in Private Education Act (EGASTPE) mandated to promote and make quality education accessible to all Filipino citizens by maximizing the use of existing resources of private education
 
-- Section 28 of R.A. 7796 also known as the TESDA Act of 1994 directs the implementation of an effective and efficient delivery system for quality technical education and skills development opportunities particularly in disadvantaged sectors, with new tools to take on higher value-added gainful activities and to share equitably in productivity gains.
+6.	Section 28 of R.A. 7796 also known as the TESDA Act of 1994 directs the implementation of an effective and efficient delivery system for quality technical education and skills development opportunities particularly in disadvantaged sectors, with new tools to take on higher value-added gainful activities and to share equitably in productivity gains.
 
-- Section 32 of the same Act outlines TESDA's scholarship grants which shall be responsive to the technical education and skills development needs of the different regions in the country
+7.	Section 32 of the same Act outlines TESDA’s scholarship grants which shall be responsive to the technical education and skills development needs of the different regions in the country
 
 Higher Education
 
-- Universal Access to Quality Tertiary Education Act (Republic Act No. 10931) of 2017:
+1.	Universal Access to Quality Tertiary Education Act (Republic Act No. 10931) of 2017:
 
-- Provides free tuition and other fees in state universities and colleges, ensuring that financial barriers do not prevent access to higher education.
+●	Provides free tuition and other fees in state universities and colleges, ensuring that financial barriers do not prevent access to higher education.
 
-- Implementing Rules and Regulations to Universal Access to Quality Tertiary Education (UAQTE) Act (RA 10931)that cover equal opportunity to quality tertiary education in both public and private educational institutions; support young Filipinos through adequate guidance and incentives with their career choices and towards proper development and utilization of human resources.
+●	Implementing Rules and Regulations to Universal Access to Quality Tertiary Education (UAQTE) Act (RA 10931)that cover equal opportunity to quality tertiary education in both public and private educational institutions; support young Filipinos through adequate guidance and incentives with their career choices and towards proper development and utilization of human resources.
 
-- Sec. 44 Benefitting from Multiple Provisions in this Act of Rule VII of RA 10931) states that it shall not discriminate among its
+●	Sec. 44 Benefitting from Multiple Provisions in this Act of Rule VII of RA 10931) states that it shall not discriminate among its
 
 page 9 / 60
 
@@ -504,48 +507,48 @@ page 9 / 60
 
 beneficiaries of the free tertiary education provision the removal of the right of a student to avail of other government support stated in the Act.
 
-- Tulong Dunong
+●	Tulong Dunong
 
-- CHED Memorandum Order No. 1, s. 2015 ( uidelines for the Creation of  ender and Development ( AD) Focal Points in Higher Education Institutions):
+2.	CHED Memorandum Order No. 1, s. 2015 (Guidelines for the Creation of Gender and Development (GAD) Focal Points in Higher Education Institutions):
 
-- Promotes gender equality and the elimination of gender-based discrimination in higher education institutions through the establishment of  AD focal points.
+●	Promotes gender equality and the elimination of gender-based discrimination in higher education institutions through the establishment of GAD focal points.
 
-- CHED Memorandum Order No. 2, s. 2019 ( uidelines for the Implementation of Indigenous Peoples Education (IPEd) Programs):
+3.	CHED Memorandum Order No. 2, s. 2019 (Guidelines for the Implementation of Indigenous Peoples Education (IPEd) Programs):
 
-- Ensures that higher education institutions provide culturally relevant education for indigenous students, supporting their access to and success in higher education.
+●	Ensures that higher education institutions provide culturally relevant education for indigenous students, supporting their access to and success in higher education.
 
 Other measures adopted to both prevent and eliminate discrimination in education and ensure equal access to all levels and types of education:
 
 #### 1.2. Equality of opportunities and inclusion in education
-Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked):  eneral measures: [Legislation provides for inclusive education for all]
+Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked): General measures: [Legislation provides for inclusive education for all]
 
 Yes
 
-- 1.2. Equality of opportunities and inclusion in education Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked):  eneral measures: [Policy measures aim to enhance inclusion in education for all]
+1.2. Equality of opportunities and inclusion in education Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked): General measures: [Policy measures aim to enhance inclusion in education for all]
 
 Yes
 
-- 1.2. Equality of opportunities and inclusion in education Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked):  eneral measures: [Teachers are trained on inclusive education and to value diversity ]
+1.2. Equality of opportunities and inclusion in education Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked): General measures: [Teachers are trained on inclusive education and to value diversity ]
 
 Yes
 
-- 1.2. Equality of opportunities and inclusion in education Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked):  eneral measures: [Initiatives to address discrimination and promote cultural diversity and mutual acceptance]
+1.2. Equality of opportunities and inclusion in education Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked): General measures: [Initiatives to address discrimination and promote cultural diversity and mutual acceptance]
 
 No
 
-- 1.2. Equality of opportunities and inclusion in education Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked):  eneral measures: [Multiple and flexible learning pathways are provided for]
+1.2. Equality of opportunities and inclusion in education Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked): General measures: [Multiple and flexible learning pathways are provided for]
 
 Yes
 
-- 1.2. Equality of opportunities and inclusion in education Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked):  eneral measures: [Curricula and teaching methods are inclusive in design ]
+1.2. Equality of opportunities and inclusion in education Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked): General measures: [Curricula and teaching methods are inclusive in design ]
 
 Yes
 
-- 1.2. Equality of opportunities and inclusion in education Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked):  eneral measures: [Multilingual and intercultural education is supported]
+1.2. Equality of opportunities and inclusion in education Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked): General measures: [Multilingual and intercultural education is supported]
 
 Yes
 
-- 1.2. Equality of opportunities and inclusion in education Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked):  eneral measures: [Other]
+1.2. Equality of opportunities and inclusion in education Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked): General measures: [Other]
 
 page 10 / 60
 
@@ -557,7 +560,7 @@ page 10 / 60
 
 R.A 10533 (Enhanced Basic Education Act of 2013) directs inclusive education that aims to enhance the basic education curriculum to make it more responsive to the needs of all learners, including those from marginalized and vulnerable sectors.
 
-R.A 10931 (Universal Access to Quality Tertiary Education Act) aims to provide free tuition and other school fees in state universities and colleges (SUCs), local universities and colleges (LUCs), and state-run technical-vocational institutions (TVIs) to ensure that all Filipinos especially those from economically disadvantaged backgrounds have access to tertiary education. RA11984, AN ACT MANDATIN  PUBLIC AND PRIVATE EDUCATIONAL INSTITUTIONS TO ALLOW DISADVANTA ED STUDENTS WITH UNPAID TUITION AND OTHER SCHOOL FEES TO TAKE THE PERIODIC AND FINAL EXAMINATIONS AND FOR OTHER PURPOSES.
+R.A 10931 (Universal Access to Quality Tertiary Education Act) aims to provide free tuition and other school fees in state universities and colleges (SUCs), local universities and colleges (LUCs), and state-run technical-vocational institutions (TVIs) to ensure that all Filipinos especially those from economically disadvantaged backgrounds have access to tertiary education. RA11984, AN ACT MANDATING PUBLIC AND PRIVATE EDUCATIONAL INSTITUTIONS TO ALLOW DISADVANTAGED STUDENTS WITH UNPAID TUITION AND OTHER SCHOOL FEES TO TAKE THE PERIODIC AND FINAL EXAMINATIONS AND FOR OTHER PURPOSES.
 
 Approved by the President on: March 11, 2024
 
@@ -573,7 +576,7 @@ DepEd has implemented various policies to prevent discrimination and ensure incl
 
 ·	DepEd Order No. 40, s. 2012: Implements the Anti-Bullying Act of 2013, creating a safe and supportive environment for all students and addressing all forms of bullying and discrimination.
 
-·	DepEd Order No. 32, s. 2017: The  ender-Responsive Basic Education Policy integrates gender equality principles into the curriculum and teaching practices, aiming to eliminate gender-based discrimination.
+·	DepEd Order No. 32, s. 2017: The Gender-Responsive Basic Education Policy integrates gender equality principles into the curriculum and teaching practices, aiming to eliminate gender-based discrimination.
 
 ·	Mother Tongue-Based Multilingual Education (MTB-MLE): Ensures that children are taught in their first language in the early grades, promoting better learning outcomes and inclusivity for linguistic minorities.
 
@@ -595,7 +598,7 @@ Specific Initiatives and Programs
 
 ·	Alternative Learning System (ALS): Provides out-of-school youth and adults with opportunities to complete basic education outside the formal school system, ensuring that those who missed out on formal education have alternative pathways to learning. ·		Alternative Delivery Modes (ADM) are alternative modalities of education delivery within the confines of the formal system that allows schools to deliver quality education to marginalized learners and those at risk of dropping out to help them overcome personal, social, and economic constraints in their schooling - marginalized learners, children whose parents are always moving, sick children, children/youth working at daytime, late enrollees, and children at risk of dropping out.
 
-·	Last Mile Schools (LMS) is a comprehensive response for schools that do not fall under the usual planning parameters because of factors related to isolation and marginalization.59 Most of these schools are in remote areas and  IDA. The communities where the schools are located also tend to lack other basic services.
+·	Last Mile Schools (LMS) is a comprehensive response for schools that do not fall under the usual planning parameters because of factors related to isolation and marginalization.59 Most of these schools are in remote areas and GIDA. The communities where the schools are located also tend to lack other basic services.
 
 - Pantawid Pamilyang Pilipino Program (4Ps) - DepEd has a total of 8.2 million learners that come from the Pantawid Pamilyang Pilipino Program (4Ps) beneficiaries. The conditional cash transfer program, implemented by the Department of Social Welfare and Development (DSWD), provides financial incentives for poor families that enroll and keep their children in school, thus potentially having a significant effect on participation.
 
@@ -611,17 +614,15 @@ page 11 / 60
 
 While the Philippines has taken steps to promote non-discrimination and equal opportunities in education, some challenges remain, including:
 
-- Limited resources and funding for education, particularly in rural and remote areas.
+1.	Limited resources and funding for education, particularly in rural and remote areas.
 
-- Inadequate infrastructure and learning materials in some schools, leading to unequal access to education. Availability of PWDfriendly facilities and equipment
+2.	Inadequate infrastructure and learning materials in some schools, leading to unequal access to education. Availability of PWD-friendly facilities and equipment
 
-- Socioeconomic factors that may prevent some students from fully participating in
+3.	Socioeconomic factors that may prevent some students from fully participating in education, such as poverty, lack of parental support, and child labor.
 
-- education, such as poverty, lack of parental support, and child labor.
+4.	Cultural and gender biases that may discourage certain groups from pursuing education.
 
-- Cultural and gender biases that may discourage certain groups from pursuing education.
-
-- Lack of assessors and trainers in critical qualifications
+5.	Lack of assessors and trainers in critical qualifications
 
 Other relevant general measures, including gender equality [Legislation provides for gender equality in education ]
 
@@ -631,7 +632,7 @@ Other relevant general measures, including gender equality [Policy measures aim 
 
 Yes
 
-Other relevant general measures, including gender equality [ ender-responsive education sector planning is undertaken]
+Other relevant general measures, including gender equality [Gender-responsive education sector planning is undertaken]
 
 Yes
 
@@ -685,11 +686,13 @@ page 12 / 60
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-Legislation and policies that promote gender equality in education are essential to ensure that all individuals, regardless of gender, have equal access to quality education. These measures help eliminate gender-based barriers and discrimination. Legislation
+Legislation and policies that promote gender equality in education are essential to ensure that all individuals, regardless of gender, have equal access to quality education. These measures help eliminate gender-based barriers and discrimination.
 
-- Republic Act No. 9710 (Magna Carta of Women), Section 13 - Ensures women's and girls' equal access to education and scholarships. The law mandates the elimination of gender-based discrimination in educational institutions and curricula.
+Legislation
 
-Republic Act No. 10533 (Enhanced Basic Education Act of 2013), Section 8 - Stipulates that the curriculum should be learnercentered, inclusive, and developmentally appropriate, promoting gender equality and sensitivity.
+1. Republic Act No. 9710 (Magna Carta of Women), Section 13 - Ensures women’s and girls’ equal access to education and scholarships. The law mandates the elimination of gender-based discrimination in educational institutions and curricula.
+
+Republic Act No. 10533 (Enhanced Basic Education Act of 2013), Section 8 - Stipulates that the curriculum should be learner-centered, inclusive, and developmentally appropriate, promoting gender equality and sensitivity.
 
 3.	Republic Act No. 10627 (Anti-Bullying Act of 2013), Section 3 - Requires schools to adopt policies addressing bullying and discrimination, including gender-based bullying, to ensure a safe and inclusive learning environment.
 
@@ -697,25 +700,25 @@ Republic Act No. 10533 (Enhanced Basic Education Act of 2013), Section 8 - Stipu
 
 Policies
 
-1.	DepEd Order No. 32, s. 2017 - Policy and  uidelines for the Implementation of the  ender-Responsive Basic Education Policy - This order integrates gender equality principles into the curriculum, teaching methods, and learning materials used in basic education. It aims to eliminate gender-based discrimination and promote equal opportunities for all learners, regardless of gender. The policy emphasizes the importance of addressing gender stereotypes and promoting positive attitudes towards gender equality in schools.
+1.	DepEd Order No. 32, s. 2017 - Policy and Guidelines for the Implementation of the Gender-Responsive Basic Education Policy - This order integrates gender equality principles into the curriculum, teaching methods, and learning materials used in basic education. It aims to eliminate gender-based discrimination and promote equal opportunities for all learners, regardless of gender. The policy emphasizes the importance of addressing gender stereotypes and promoting positive attitudes towards gender equality in schools.
 
-2.	CHED Memorandum Order No. 1, Series of 2015 -  uidelines for the Creation of  ender and Development ( AD) Offices in Higher Education Institutions (HEIs) - This memorandum order mandates the establishment of  ender and Development ( AD) offices in HEIs to mainstream gender equality principles in all aspects of higher education. These offices are tasked with developing and implementing programs and initiatives that promote gender equality, eliminate gender-based discrimination, and ensure equal opportunities for all students and staff.
+2.	CHED Memorandum Order No. 1, Series of 2015 - Guidelines for the Creation of Gender and Development (GAD) Offices in Higher Education Institutions (HEIs) - This memorandum order mandates the establishment of Gender and Development (GAD) offices in HEIs to mainstream gender equality principles in all aspects of higher education. These offices are tasked with developing and implementing programs and initiatives that promote gender equality, eliminate gender-based discrimination, and ensure equal opportunities for all students and staff.
 
-3.	TESDA Circular No. 40, Series of 2014 - TESDA  ender Equality  uidelines - This circular provides guidelines for promoting gender equality in TESDA programs and services. It emphasizes the importance of eliminating gender-based discrimination and ensuring equal opportunities for men and women in accessing and participating in TVET programs.
+3.	TESDA Circular No. 40, Series of 2014 - TESDA Gender Equality Guidelines - This circular provides guidelines for promoting gender equality in TESDA programs and services. It emphasizes the importance of eliminating gender-based discrimination and ensuring equal opportunities for men and women in accessing and participating in TVET programs.
 
 What challenges were encountered in achieving gender equality in and through education? If needed, brief quantitative information may be added.
 
-1.		A persistent obstacle to education in the Philippines is poverty, disproportionately affecting both girls and boys. The alreadyhigh poverty rates are being exacerbated by rising inflation, which hit a 4-year high of 6.1% in May 2023. As food and fuel prices continue to soar, the poverty situation in the country is likely to worsen, further impeding access to education for those most in need. Children from low-income families face higher dropout rates and lower educational attainment because they often cannot afford school fees, uniforms, textbooks and other expenses like food and transportation. In 2023, the share of girls/females in outof-school children and youth is 4.8%. Two-thirds (66.6%) of female OSCY come from the bottom 40% of the population.
+1.	A persistent obstacle to education in the Philippines is poverty, disproportionately affecting both girls and boys. The already-high poverty rates are being exacerbated by rising inflation, which hit a 4-year high of 6.1% in May 2023. As food and fuel prices continue to soar, the poverty situation in the country is likely to worsen, further impeding access to education for those most in need. Children from low-income families face higher dropout rates and lower educational attainment because they often cannot afford school fees, uniforms, textbooks and other expenses like food and transportation. In 2023, the share of girls/females in out-of-school children and youth is 4.8%. Two-thirds (66.6%) of female OSCY come from the bottom 40% of the population.
 
 2.	Early marriage and teenage pregnancy are significant barriers to girls' education. According to the Philippine Statistics Authority - there is a hike in total live births among girls under 15 years old from 2,320 in 2021 to 3,135 in 2022. Teenage mothers are less likely to continue their education, leading to higher dropout rates among girls.
 
-3.		 irls are often at risk of gender-based violence, harassment, and bullying within school environments. These experiences can lead to absenteeism, dropout, and poor academic performance.
+3.	Girls are often at risk of gender-based violence, harassment, and bullying within school environments. These experiences can lead to absenteeism, dropout, and poor academic performance.
 
-4.	 irls with disabilities face multiple layers of discrimination and barriers to accessing quality education. Schools often lack the necessary infrastructure, trained personnel, and resources to support inclusive education for students with disabilities.
+4.	Girls with disabilities face multiple layers of discrimination and barriers to accessing quality education. Schools often lack the necessary infrastructure, trained personnel, and resources to support inclusive education for students with disabilities.
 
-- Many teachers lack training in gender-sensitive pedagogy and classroom management. Professional development opportunities for teachers to learn about gender equality and inclusive education practices are often insufficient.
+5.	Many teachers lack training in gender-sensitive pedagogy and classroom management. Professional development opportunities for teachers to learn about gender equality and inclusive education practices are often insufficient.
 
-- While there are gender equality policies in place, the implementation at the grassroots level can be inconsistent. Monitoring and ensuring compliance with gender- responsive policies in all schools remain a challenge.
+6.	While there are gender equality policies in place, the implementation at the grassroots level can be inconsistent. Monitoring and ensuring compliance with gender-responsive policies in all schools remain a challenge.
 
 Does the legal minimum age for marriage conform to international standards (18 years) [1]: Please note that child marriage is a discriminatory practice as often girls can marry at a younger age than boys. Child marriage violates the child's right to education as they are more likely to drop out of school and children who are not in school are more likely to get married. [1] Please note that according to the Joint general recommendation No. 31 of the Committee on the Elimination of Discrimination against Women/general comment No. 18 of the Committee on the Rights of the Child on harmful practice, para. 20: 'a marriage of a mature, capable child below 18 years of age may be allowed in exceptional circumstances, provided that the child is at least 16 years of age and that such decisions are made by a judge based on legitimate exceptional grounds defined by law and on the evidence of maturity, without deference to culture and tradition.'
 
@@ -771,13 +774,15 @@ Yes
 
 National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. For 'others', please see: UNESCO report 'The right to education of minorities: Overview of States' measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. [Teachers are trained on intercultural education ]
 
-Yes National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. For 'others', please see: UNESCO report 'The right to education of minorities: Overview of States' measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. [Teachers are trained to combat stigmatisation]
+Yes
 
 page 14 / 60
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+
+National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. For 'others', please see: UNESCO report 'The right to education of minorities: Overview of States' measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. [Teachers are trained to combat stigmatisation]
 
 Yes
 
@@ -840,7 +845,6 @@ page 15 / 60
 [[START OF PAGE 16]]
 
 Indigenous people: [Teachers are trained on intercultural education]
----
 No
 Indigenous people: [Teachers are trained to combat stigmatisation]
 No
@@ -868,51 +872,49 @@ Legal Framework
 
 1.	1987 Philippine Constitution
 
-- Article XIV, Section 1: The State shall protect and promote the right of all citizens to quality education at all levels.
+·	Article XIV, Section 1: The State shall protect and promote the right of all citizens to quality education at all levels.
 
-- Article XIV, Section 2 (4): The State shall encourage non-formal, informal, and indigenous learning systems, as well as selflearning, independent, and out-of- school study programs particularly those that respond to community needs.
+·	Article XIV, Section 2 (4): The State shall encourage non-formal, informal, and indigenous learning systems, as well as self-learning, independent, and out-of- school study programs particularly those that respond to community needs.
 
-- Republic Act No. 8371 (Indigenous Peoples' Rights Act of 1997)
+2.	Republic Act No. 8371 (Indigenous Peoples' Rights Act of 1997)
 
-- Chapter VI, Section 30: Mandates the State to provide equal access to various cultural opportunities to IPs through the educational system, public or cultural entities, scholarships, grants, and other incentives.
+·	Chapter VI, Section 30: Mandates the State to provide equal access to various cultural opportunities to IPs through the educational system, public or cultural entities, scholarships, grants, and other incentives.
 
-- Chapter VI, Section 31: Emphasizes the inclusion of IPs' histories, cultures, and identities in education curricula and the need for IPs to have access to education in their own languages.
+·	Chapter VI, Section 31: Emphasizes the inclusion of IPs' histories, cultures, and identities in education curricula and the need for IPs to have access to education in their own languages.
 
-- Republic Act No. 10533 (Enhanced Basic Education Act of 2013) - Supports the implementation of the K-12 curriculum which includes the incorporation of indigenous
+3.	Republic Act No. 10533 (Enhanced Basic Education Act of 2013) - Supports the implementation of the K-12 curriculum which includes the incorporation of indigenous knowledge systems and practices and the development of indigenous learning systems.
 
-knowledge systems and practices and the development of indigenous learning systems. Policy Measures
+Policy Measures
 
-- DepEd Order No. 62, s. 2011 (Adopting the National Indigenous Peoples Education Policy Framework) - Aims to make the education system more inclusive and respectful of the cultural diversity of IPs.
+1.	DepEd Order No. 62, s. 2011 (Adopting the National Indigenous Peoples Education Policy Framework) - Aims to make the education system more inclusive and respectful of the cultural diversity of IPs.
 
 ·	Key Components:
 
-- Curriculum Development: Incorporates Indigenous Knowledge Systems and Practices (IKSPs), Indigenous Learning Systems (ILS), and community life.
+·	Curriculum Development: Incorporates Indigenous Knowledge Systems and Practices (IKSPs), Indigenous Learning Systems (ILS), and community life.
 
-- Learning Resources: Development of culturally relevant and responsive learning resources and materials.
+·	Learning Resources: Development of culturally relevant and responsive learning resources and materials.
 
-- Capacity Building: Training of educators and school personnel to be sensitive to IP cultures and responsive to their educational needs.
+·	Capacity Building: Training of educators and school personnel to be sensitive to IP cultures and responsive to their educational needs.
 
-- Partnerships and Collaboration: Engagement with IP communities and organizations in the planning and implementation of education programs.
+·	Partnerships and Collaboration: Engagement with IP communities and organizations in the planning and implementation of education programs.
 
-- DepEd Order No. 32, s. 2015 (Indigenous Peoples Education Curriculum Framework) - Provides guidelines for integrating indigenous content into the curriculum, including:
+2.	DepEd Order No. 32, s. 2015 (Indigenous Peoples Education Curriculum Framework) - Provides guidelines for integrating indigenous content into the curriculum, including:
 
-- Mother Tongue-Based Multilingual Education (MTB-MLE): Promotes the use of indigenous languages as a medium of instruction, especially in the early years of education.
+·	Mother Tongue-Based Multilingual Education (MTB-MLE): Promotes the use of indigenous languages as a medium of instruction, especially in the early years of education.
 
-- Indigenous Content: Ensures that IPs' histories, cultures, traditions, and aspirations are part of the curriculum.
+·	Indigenous Content: Ensures that IPs' histories, cultures, traditions, and aspirations are part of the curriculum.
 
-- National Commission on Indigenous Peoples (NCIP) - Plays a crucial role in advocating for and protecting the rights of IPs, including the right to education.
+3.	National Commission on Indigenous Peoples (NCIP) - Plays a crucial role in advocating for and protecting the rights of IPs, including the right to education.
 
-- Programs and Initiatives: Support scholarships, capacity-building programs, and educational grants for Indigenous students.
+·	Programs and Initiatives: Support scholarships, capacity-building programs, and educational grants for Indigenous students.
 
-- Cultural Education Program - Implemented by the National Commission for Culture and the Arts (NCCA), this program
+4.	Cultural Education Program - Implemented by the National Commission for Culture and the Arts (NCCA), this program supports the development of culturally relevant educational materials and resources for IPs.
 
-- supports the development of culturally relevant educational materials and resources for IPs.
+5.	TESDA Circular No. 004, s. 2024, it is a policy to consider special clients in the provision of TESDA scholarship programs.
 
-- TESDA Circular No. 004, s. 2024, it is a policy to consider special clients in the provision of TESDA scholarship programs.
+“Special Clients refer to special target beneficiaries to include: (1) farmers and fishermen, (2) workers in the informal sectors, (3) migrant workers, (4) Indigenous people (IP) and cultural communities, (5) women, (6) persons with disability, (7) senior citizens, (8) victims of calamities and disasters, (9) out-of-school youths, (10) urban poor.
 
-'Special Clients refer to special target beneficiaries to include: (1) farmers and fishermen, (2) workers in the informal sectors, (3) migrant workers, (4) Indigenous people (IP) and cultural communities, (5) women, (6) persons with disability, (7) senior citizens, (8) victims of calamities and disasters, (9) out-of-school youths, (10) urban poor.
-
-- Furthermore, special beneficiaries also cover solo parents and their children, OFWs and their dependents, drug surrenderees and their dependents, victims of human trafficking, wounded-in-action or killed-in-action AFP and PNP personnel and their dependents, returnees, decommissioned combatants, inmates, and detainees and their dependents, micro-entrepreneurs and their dependents, members of cooperatives, internally displaced population. Not in Employment, Education, or Training (NEET), underemployed, and other related or similarly situated clients.
+Furthermore, special beneficiaries also cover solo parents and their children, OFWs and their dependents, drug surrenderees and their dependents, victims of human trafficking, wounded-in-action or killed-in-action AFP and PNP personnel and their dependents, returnees, decommissioned combatants, inmates, and detainees and their dependents, micro-entrepreneurs and their dependents, members of cooperatives, internally displaced population. Not in Employment, Education, or Training (NEET), underemployed, and other related or similarly situated clients.
 
 The coverage of the scholarship benefits include (depending on the scholarship program): - Free skills training - Free national competency assessment
 
@@ -922,7 +924,7 @@ Free national competency assessment
 
 Training support fund
 
-- Free entrepreneurship training
+Free entrepreneurship training
 
 Starter tool kits
 
@@ -930,17 +932,17 @@ Book/Learning materials allowance
 
 Specific Programs and Initiatives
 
-- Indigenous Peoples Education (IPEd) Program - A DepEd initiative that focuses on the provision of culture-based education. It supports schools serving IPs in developing curricula that are responsive to their cultural context and educational needs.
+1.	Indigenous Peoples Education (IPEd) Program - A DepEd initiative that focuses on the provision of culture-based education. It supports schools serving IPs in developing curricula that are responsive to their cultural context and educational needs.
 
-- School of Living Traditions (SLT): Community-based learning centers where knowledge of traditional a
+· School of Living Traditions (SLT): Community-based learning centers where knowledge of traditional a
 
-- Educational Assistance Programs - Various government and non-governmental organizations provide scholarships and financial assistance to Indigenous students at different educational levels.
+2.	Educational Assistance Programs - Various government and non-governmental organizations provide scholarships and financial assistance to Indigenous students at different educational levels.
 
-- Community Learning Centers (CLCs) - Provide alternative education programs tailored to the needs of IPs, often focusing on adult education, literacy programs, and vocational training.
+3.	Community Learning Centers (CLCs) - Provide alternative education programs tailored to the needs of IPs, often focusing on adult education, literacy programs, and vocational training.
 
 Monitoring and Evaluation
 
-- Education Management Information System (EMIS): Includes data on Indigenous students to monitor their participation,
+1.	Education Management Information System (EMIS): Includes data on Indigenous students to monitor their participation,
 
 page 17 / 60
 
@@ -950,21 +952,21 @@ page 17 / 60
 
 retention, and completion rates in education. Schools and education divisions report on the implementation of IPEd programs and initiatives annually, highlighting achievements and areas for improvement.
 
-- Continuous engagement with IP communities ensures that education programs remain relevant and effective. Feedback mechanisms allow IPs to voice their needs and concerns regarding education.
+2.	Continuous engagement with IP communities ensures that education programs remain relevant and effective. Feedback mechanisms allow IPs to voice their needs and concerns regarding education.
 
 - What challenges were encountered in realizing the right to education of indigenous people? If needed, brief quantitative information may be added.
 
-Realizing the right to education of Indigenous Peoples in the Philippines faces several challenges, which stem from socioeconomic, cultural, institutional, and infrastructural factors.
+Realizing the right to education of Indigenous Peoples in the Philippines faces several challenges, which stem from socio-economic, cultural, institutional, and infrastructural factors.
 
-- Many IP communities experience higher levels of poverty compared to the general population. Poverty often leads to barriers such as lack of access to education-related resources like textbooks, uniforms, and transportation. This results in lower enrollment and higher dropout rates. According to a 2020 report by the United Nations Children's Fund (UNICEF), the dropout rate for indigenous children in the Philippines is almost three times higher than the national average.
+1.	Many IP communities experience higher levels of poverty compared to the general population. Poverty often leads to barriers such as lack of access to education-related resources like textbooks, uniforms, and transportation. This results in lower enrollment and higher dropout rates. According to a 2020 report by the United Nations Children's Fund (UNICEF), the dropout rate for indigenous children in the Philippines is almost three times higher than the national average.
 
-- The use of languages not spoken by IP groups as the medium of instruction can pose a significant barrier to education. IP children may struggle to understand the curriculum, leading to lower academic performance and higher dropout rates.
+2.	The use of languages not spoken by IP groups as the medium of instruction can pose a significant barrier to education. IP children may struggle to understand the curriculum, leading to lower academic performance and higher dropout rates.
 
-- Educational materials and teaching methods may not be culturally sensitive or relevant to IP communities. This lack of cultural responsiveness can lead to disengagement and alienation from the education system.
+3.	Educational materials and teaching methods may not be culturally sensitive or relevant to IP communities. This lack of cultural responsiveness can lead to disengagement and alienation from the education system.
 
-- IP groups often face discrimination and marginalization within the education system. This can manifest in unequal treatment, limited access to resources, and lower quality of education compared to mainstream students.
+4.	IP groups often face discrimination and marginalization within the education system. This can manifest in unequal treatment, limited access to resources, and lower quality of education compared to mainstream students.
 
-- IP communities may lack representation in decision-making bodies and educational institutions, limiting their ability to advocate for their educational needs and interests.
+5.	IP communities may lack representation in decision-making bodies and educational institutions, limiting their ability to advocate for their educational needs and interests.
 
 People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] 'Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards' (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [Legislation provides for their right to education]
 
@@ -992,13 +994,15 @@ No
 
 People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] 'Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards' (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [Teachers are specifically trained to ensure their inclusion ]
 
-No People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] 'Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards' (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [Teachers are trained to combat stigmatisation ]
+No
 
 page 18 / 60
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
+
+People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] 'Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards' (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [Teachers are trained to combat stigmatisation ]
 
 No
 
@@ -1048,13 +1052,13 @@ Internally displaced persons (IDPs) in the country are often those affected by n
 
 Legal Framework
 
-- 1987 Philippine Constitution -  uarantees the right to education for all citizens, including IDPs, under Article XIV, Section 1, which mandates the State to protect and promote the right of all citizens to quality education at all levels.
+1. 1987 Philippine Constitution - Guarantees the right to education for all citizens, including IDPs, under Article XIV, Section 1, which mandates the State to protect and promote the right of all citizens to quality education at all levels.
 
-- Republic Act No. 10121 (Philippine Disaster Risk Reduction and Management Act of 2010) - Provides the legal basis for addressing the needs of disaster-affected populations, including IDPs.
+2.	Republic Act No. 10121 (Philippine Disaster Risk Reduction and Management Act of 2010) - Provides the legal basis for addressing the needs of disaster-affected populations, including IDPs.
 
-- Section 4 (d): Mandates the integration of disaster risk reduction and management concerns in the education sector, including the development of education programs and materials for disaster awareness and resilience.
+·	Section 4 (d): Mandates the integration of disaster risk reduction and management concerns in the education sector, including the development of education programs and materials for disaster awareness and resilience.
 
-- Republic Act No. 10821 (Children's Emergency Relief and Protection Act)
+3.	Republic Act No. 10821 (Children's Emergency Relief and Protection Act)
 
 provides special protection to children in situations of emergency and disaster.
 
@@ -1064,17 +1068,17 @@ provides special protection to children in situations of emergency and disaster.
 
 - Ensures psychosocial support and recovery programs for affected children.
 
-- Republic Act no. 11510 (Alternative Learning System Act, Dec. 2020) - An Act institutionalizing the Alternative Learning System in basic Education for out-of-school children in special cases and adults, including indigenous peoples and persons with disabilities. It guarantees equitable access for all learners, including those who reside in unreached, underserved, conflict-affected communities, and communities in emergency situations to avail of systematic, flexible and appropriate basic education programs outside of the formal school system.
+4.	Republic Act no. 11510 (Alternative Learning System Act, Dec. 2020) - An Act institutionalizing the Alternative Learning System in basic Education for out-of-school children in special cases and adults, including indigenous peoples and persons with disabilities. It guarantees equitable access for all learners, including those who reside in unreached, underserved, conflict-affected communities, and communities in emergency situations to avail of systematic, flexible and appropriate basic education programs outside of the formal school system.
 
 Policy Measures
 
-DepEd Order No. 37, s. 2014:  uidelines on the Implementation of the Learners' Information System (LIS) for School Year 2014-2015 - Track and monitor the enrollment and movement of learners, including those affected by disasters.
+DepEd Order No. 37, s. 2014: Guidelines on the Implementation of the Learners' Information System (LIS) for School Year 2014-2015 - Track and monitor the enrollment and movement of learners, including those affected by disasters.
 
 -	Facilitates the quick re-enrollment of displaced learners in host schools.
 
 -	Ensures that displaced learners' educational records are maintained and transferred accurately.
 
-DepEd Order No. 33, s. 2010: Implementing  uidelines for the DepEd Disaster Risk Reduction and Management (DRRM)
+DepEd Order No. 33, s. 2010: Implementing Guidelines for the DepEd Disaster Risk Reduction and Management (DRRM)
 
 Program - Provide a framework for disaster preparedness, response, and recovery within the education sector.
 
@@ -1096,16 +1100,15 @@ The Child and Youth Welfare Code provides a role of the Department of Social Wel
 
 Practical Interventions include the following:
 
-- Temporary Learning Spaces - DepEd, in collaboration with humanitarian agencies, sets up temporary learning spaces in evacuation centers and temporary shelters to provide IDP children with access to education.
+1.	Temporary Learning Spaces - DepEd, in collaboration with humanitarian agencies, sets up temporary learning spaces in evacuation centers and temporary shelters to provide IDP children with access to education.
 
-- Psychosocial Support and Counseling - Schools and educational institutions offer psychosocial support and counseling services to IDP students to help them cope with trauma, displacement, and other psychosocial challenges.
+2.	Psychosocial Support and Counseling - Schools and educational institutions offer psychosocial support and counseling services to IDP students to help them cope with trauma, displacement, and other psychosocial challenges.
 
-- Inclusive Education Programs - DepEd promotes inclusive education programs that cater to the diverse needs of IDP children, including those with disabilities and special needs.
+3.	Inclusive Education Programs - DepEd promotes inclusive education programs that cater to the diverse needs of IDP children, including those with disabilities and special needs.
 
-- Mobile Education Services - In areas with limited access to formal education, mobile education services are provided to reach IDP populations in remote and underserved areas.
+4.	Mobile Education Services - In areas with limited access to formal education, mobile education services are provided to reach IDP populations in remote and underserved areas.
 
 - Have specific measures been adopted for climate displaced persons?
----
 Yes
 
 page 20 / 60
@@ -1116,25 +1119,23 @@ page 20 / 60
 
 - Please elaborate
 
-According to data from the Internal Displacement Monitoring Centre (IDMC), the Philippines had an average of 620,000 new displacements per year due to disasters between 2010 and 2020. The  lobal Report on Internal Displacement estimates that as of 2020, there were 1.1 million IDPs in the Philippines, with the majority displaced due to conflict and violence in the southern region of Mindanao. The challenges that IDPs in the country face include the following:
+According to data from the Internal Displacement Monitoring Centre (IDMC), the Philippines had an average of 620,000 new displacements per year due to disasters between 2010 and 2020. The Global Report on Internal Displacement estimates that as of 2020, there were 1.1 million IDPs in the Philippines, with the majority displaced due to conflict and violence in the southern region of Mindanao. The challenges that IDPs in the country face include the following:
 
-- Internal Displaced Persons (IDPs) and those displaced by climate change often originate from already disadvantaged communities, where access to resources, including education, is limited. Poverty, economic instability, and the resulting financial constraints can create significant hurdles for these individuals in affording educational expenses, such as school fees, uniforms, and supplies, further hindering their ability to receive a quality education.
+1.	Internal Displaced Persons (IDPs) and those displaced by climate change often originate from already disadvantaged communities, where access to resources, including education, is limited. Poverty, economic instability, and the resulting financial constraints can create significant hurdles for these individuals in affording educational expenses, such as school fees, uniforms, and supplies, further hindering their ability to receive a quality education.
 
-- Displacement, be it due to conflict or climate-induced disasters, often has devastating consequences on the livelihoods and economic prospects of affected individuals and families. The resulting financial distress can be overwhelming, leading children to prioritize earning a livelihood over education in order to provide for their families.
+2.	Displacement, be it due to conflict or climate-induced disasters, often has devastating consequences on the livelihoods and economic prospects of affected individuals and families. The resulting financial distress can be overwhelming, leading children to prioritize earning a livelihood over education in order to provide for their families.
 
-- Climate-induced disasters, such as typhoons, floods, landslides, and droughts, are not uncommon in the Philippines and have devastating effects on communities. Displacement caused by these disasters can upend access to educational infrastructure and servic es, leaving schools damaged or destroyed, and limiting access to crucial educational resources. This disruption can have far-reaching consequences on the educational opportunities and outcomes of affected children, making it difficult for them to recover and rebuild their lives.
+3.	Climate-induced disasters, such as typhoons, floods, landslides, and droughts, are not uncommon in the Philippines and have devastating effects on communities. Displacement caused by these disasters can upend access to educational infrastructure and servic es, leaving schools damaged or destroyed, and limiting access to crucial educational resources. This disruption can have far-reaching consequences on the educational opportunities and outcomes of affected children, making it difficult for them to recover and rebuild their lives.
 
-- Displacement due to climate change often results in the loss of homes and community infrastructure, including schools and educational facilities. Displaced populations may face difficulties in accessing alternative education options, particularly in remote or hard-to-reach areas.
+4.	Displacement due to climate change often results in the loss of homes and community infrastructure, including schools and educational facilities. Displaced populations may face difficulties in accessing alternative education options, particularly in remote or hard-to-reach areas.
 
-- Insufficient schools, classrooms, and learning materials in disaster and conflict-affected areas can create significant barriers to education, compelling displaced children to undertake long and arduous journeys just to attend school. This lack of access to quality education not only hinders their learning and development but can also pose significant risks to their safety and well-being, exacerbating the challenges faced by these vulnerable populations.
+5.	Insufficient schools, classrooms, and learning materials in disaster and conflict-affected areas can create significant barriers to education, compelling displaced children to undertake long and arduous journeys just to attend school. This lack of access to quality education not only hinders their learning and development but can also pose significant risks to their safety and well-being, exacerbating the challenges faced by these vulnerable populations.
 
-- Traumatic experiences like displacements whether caused by conflict or climate change can significantly interfere with children's capacity to focus, learn, and engage in educational activities, hindering their ability to achieve positive educational outcomes.
+6.	Traumatic experiences like displacements whether caused by conflict or climate change can significantly interfere with children's capacity to focus, learn, and engage in educational activities, hindering their ability to achieve positive educational outcomes.
 
-- Displaced populations, especially those in remote or conflict-affected areas, often face a
+7.	Displaced populations, especially those in remote or conflict-affected areas, often face a significant shortage of qualified teachers and educational personnel, compromising the quality of education they receive. This can limit the learning outcomes and prospects of IDP and climate-displaced children, whose educational needs may be more complex due to the challenges they face as a result of displacement.
 
-significant shortage of qualified teachers and educational personnel, compromising the quality of education they receive. This can limit the learning outcomes and prospects of IDP and climate-displaced children, whose educational needs may be more complex due to the challenges they face as a result of displacement.
-
-- Displaced populations, particularly indigenous communities, may face language and cultural barriers in accessing education services. Lack of educational materials in local languages and culturally insensitive teaching practices can hinder learning and educational attainment
+8.	Displaced populations, particularly indigenous communities, may face language and cultural barriers in accessing education services. Lack of educational materials in local languages and culturally insensitive teaching practices can hinder learning and educational attainment
 
 - What challenges were encountered in realizing the right to education of migrants, refugees, asylum seekers, stateless persons and IDPs? If needed, brief quantitative information may be added.
 
@@ -1202,13 +1203,15 @@ Also, R.A. 11510 or the Alternative System Act, have provisions on institutional
 
 Department of Education Orders on Education for Learners with Disabilities.
 
-- D .O. 042, s2021 - Utilization of Program Support Funds for SPED
+1. D .O. 042, s2021 - Utilization of Program Support Funds for SPED
 
-- 2.D.O. 044, s2021 - Policy  uidelines on the Provision of Educational Programs and Services for Learners with Disabilities 3.	D.O. 045, s2021 - Policy  uidelines on Conversion of SPED Centers into Inclusive Learning Resource Centers (ILRCs) TESDA Circular No. 004, s. 2024, it is a policy to consider special clients in the provision of TESDA scholarship programs.
+2.D.O. 044, s2021 - Policy Guidelines on the Provision of Educational Programs and Services for Learners with Disabilities
 
-'Special Clients refer to special target beneficiaries to include: (1) farmers and fishermen, (2) workers in the informal sectors, (3) migrant workers, (4) Indigenous people (IP) and cultural communities, (5) women, (6) persons with disability, (7) senior citizens,
+3.	D.O. 045, s2021 - Policy Guidelines on Conversion of SPED Centers into Inclusive Learning Resource Centers (ILRCs)
 
-- victims of calamities and disasters, (9) out-of-school youths, (10) urban poor. Furthermore, special beneficiaries also cover solo parents and their children, OFWs and their dependents, drug surrenderees and their dependents, victims of human trafficking, wounded-in-action or killed-in-action AFP and PNP personnel and their dependents, returnees, decommissioned combatants, inmates, and detainees and their dependents, micro-entrepreneurs and their dependents, members of cooperatives, internally displaced population. Not in Employment, Education, or Training (NEET), underemployed, and other related or similarly situated clients.
+TESDA Circular No. 004, s. 2024, it is a policy to consider special clients in the provision of TESDA scholarship programs.
+
+“Special Clients refer to special target beneficiaries to include: (1) farmers and fishermen, (2) workers in the informal sectors, (3) migrant workers, (4) Indigenous people (IP) and cultural communities, (5) women, (6) persons with disability, (7) senior citizens, (8) victims of calamities and disasters, (9) out-of-school youths, (10) urban poor. Furthermore, special beneficiaries also cover solo parents and their children, OFWs and their dependents, drug surrenderees and their dependents, victims of human trafficking, wounded-in-action or killed-in-action AFP and PNP personnel and their dependents, returnees, decommissioned combatants, inmates, and detainees and their dependents, micro-entrepreneurs and their dependents, members of cooperatives, internally displaced population. Not in Employment, Education, or Training (NEET), underemployed, and other related or similarly situated clients.
 
 The coverage of the scholarship benefits include (depending on the scholarship program):
 
@@ -1216,21 +1219,21 @@ The coverage of the scholarship benefits include (depending on the scholarship p
 
 - What challenges were encountered in realizing the right to education of people with disabilities? If needed, brief quantitative information may be added.
 
-- The lack of financial resources due to poverty can limit the ability of persons with disabilities to obtain necessary assistive devices, transportation, and specialized services, further hindering their economic opportunities and perpetuating a cycle of poverty. This can ultimately result in reduced educational attainment and limited access to quality education.
+1.	The lack of financial resources due to poverty can limit the ability of persons with disabilities to obtain necessary assistive devices, transportation, and specialized services, further hindering their economic opportunities and perpetuating a cycle of poverty. This can ultimately result in reduced educational attainment and limited access to quality education.
 
-- High cost of specialized education and support services for persons with disabilities, such as assistive devices, therapies, and accessible transportation makes it more difficult for persons with disabilities to access and benefit from quality education. This situation creates an unequal playing field in education, further disadvantaging persons with disabilities.
+2.	High cost of specialized education and support services for persons with disabilities, such as assistive devices, therapies, and accessible transportation makes it more difficult for persons with disabilities to access and benefit from quality education. This situation creates an unequal playing field in education, further disadvantaging persons with disabilities.
 
-- Despite the existence of inclusive education policies, their successful implementation at the grassroots level is often hindered by various challenges. Many schools in the Philippines lack the necessary resources, training, and support required to accommodate the diverse learning needs of persons with disabilities, resulting in inadequate implementation of inclusive education policies.
+3.	Despite the existence of inclusive education policies, their successful implementation at the grassroots level is often hindered by various challenges. Many schools in the Philippines lack the necessary resources, training, and support required to accommodate the diverse learning needs of persons with disabilities, resulting in inadequate implementation of inclusive education policies.
 
-- Accessing specialized support services, such as assessment and intervention programs, can be a significant challenge for individuals with disabilities. Long waiting times, limited availability, and geographic disparities in service provision all contribute to these barriers. This can result in delayed diagnoses, inadequate support, and suboptimal learning outcomes for persons with disabilities.
+4.	Accessing specialized support services, such as assessment and intervention programs, can be a significant challenge for individuals with disabilities. Long waiting times, limited availability, and geographic disparities in service provision all contribute to these barriers. This can result in delayed diagnoses, inadequate support, and suboptimal learning outcomes for persons with disabilities.
 
-- Many educational facilities lack accessible infrastructure and amenities for person with disabilities, such as ramps, elevators, accessible toilets, and sensory-friendly classrooms. This physical inaccessibility hinders their participation in inclusive educational settings.
+5.	Many educational facilities lack accessible infrastructure and amenities for person with disabilities, such as ramps, elevators, accessible toilets, and sensory-friendly classrooms. This physical inaccessibility hinders their participation in inclusive educational settings.
 
-- The digital divide disproportionately affects persons with disabilities, who may encounter barriers in accessing educational materials and online resources due to the lack of accessible ICT infrastructure, assistive technologies, and digital literacy.
+6.	The digital divide disproportionately affects persons with disabilities, who may encounter barriers in accessing educational materials and online resources due to the lack of accessible ICT infrastructure, assistive technologies, and digital literacy.
 
-- Stigma, discrimination, and negative attitudes towards persons with disabilities are prevalent in society, including educational environments. These discriminatory behaviors and beliefs can create barriers to education for persons with disabilities, leading to social exclusion, bullying, and low self-esteem impacting their ability to achieve positive educational outcomes.
+7.	Stigma, discrimination, and negative attitudes towards persons with disabilities are prevalent in society, including educational environments. These discriminatory behaviors and beliefs can create barriers to education for persons with disabilities, leading to social exclusion, bullying, and low self-esteem impacting their ability to achieve positive educational outcomes.
 
-- Many stakeholders, including educators, parents, and policymakers, may have limited awareness and understanding of disability rights and the importance of inclusive education. This lack of awareness can hinder efforts to promote inclusive policies and practices.
+8.	Many stakeholders, including educators, parents, and policymakers, may have limited awareness and understanding of disability rights and the importance of inclusive education. This lack of awareness can hinder efforts to promote inclusive policies and practices.
 
 page 22 / 60
 
@@ -1264,23 +1267,23 @@ Students from poor households: [Other]
 
 Legal Framework
 
-- 1987 Philippine Constitution -  uarantees the right to education for all citizens, irrespective of socio-economic status, under Article XIV, Section 1. It mandates the State to provide accessible and quality education at all levels.
+1.	1987 Philippine Constitution - Guarantees the right to education for all citizens, irrespective of socio-economic status, under Article XIV, Section 1. It mandates the State to provide accessible and quality education at all levels.
 
-- Republic Act No. 10533 (Enhanced Basic Education Act of 2013) - Also known as the K-12 Law, this legislation emphasizes universal access to quality education and provides mechanisms to address barriers faced by marginalized students, including those from poor households.
+2.	Republic Act No. 10533 (Enhanced Basic Education Act of 2013) - Also known as the K-12 Law, this legislation emphasizes universal access to quality education and provides mechanisms to address barriers faced by marginalized students, including those from poor households.
 
-3.		Republic Act no. 11510 (Alternative Learning System Act, Dec. 2020) - An Act institutionalizing the Alternative Learning System in basic Education for out-of-school children in special cases and adults, including indigenous peoples and persons with disabilities. It guarantees equitable access for all learners, including those who reside in unreached, underserved, conflict-affected communities, and communities in emergency situations to avail of systematic, flexible and appropriate basic education programs outside of the formal school system.
+3.	Republic Act no. 11510 (Alternative Learning System Act, Dec. 2020) - An Act institutionalizing the Alternative Learning System in basic Education for out-of-school children in special cases and adults, including indigenous peoples and persons with disabilities. It guarantees equitable access for all learners, including those who reside in unreached, underserved, conflict-affected communities, and communities in emergency situations to avail of systematic, flexible and appropriate basic education programs outside of the formal school system.
 
 Policy Measures and Other Interventions
 
-1.		Pantawid Pamilyang Pilipino Program (4Ps) - Implemented by the Department of Social Welfare and Development (DSWD), 4Ps is a conditional cash transfer program aimed at alleviating poverty and improving access to education and health services for poor households. Conditional cash transfers are provided to eligible families, conditional upon compliance with certain health and education requirements, such as regular school attendance and participation in health check-ups.
+1.	Pantawid Pamilyang Pilipino Program (4Ps) - Implemented by the Department of Social Welfare and Development (DSWD), 4Ps is a conditional cash transfer program aimed at alleviating poverty and improving access to education and health services for poor households. Conditional cash transfers are provided to eligible families, conditional upon compliance with certain health and education requirements, such as regular school attendance and participation in health check-ups.
 
-- School Feeding Programs - DepEd implements school feeding programs to address malnutrition and improve attendance among students from poor households. Nutritious meals are provided to students during school hours, reducing financial burdens on families and supporting children's educational outcomes.
+2.	School Feeding Programs - DepEd implements school feeding programs to address malnutrition and improve attendance among students from poor households. Nutritious meals are provided to students during school hours, reducing financial burdens on families and supporting children's educational outcomes.
 
 2.	Scholarship and Financial Assistance Programs - Various scholarship programs and financial assistance schemes are available to support students from poor households in pursuing higher education. These include government-funded scholarships, grants, and student loan programs aimed at reducing financial barriers to education access and attainment.
 
 3.	Alternative Learning Modalities - DepEd offers alternative learning modalities, such as distance education and flexible learning programs, to accommodate the diverse needs of students from poor households, including those who may face challenges attending traditional classroom-based instruction.
 
-4.	TESDA Circular No. 004, s. 2024, it is a policy to consider special clients in the provision of TESDA scholarship programs. 'Special Clients refer to special target beneficiaries to include: (1) farmers and fishermen, (2) workers in the informal sectors, (3) migrant workers, (4) Indigenous people (IP) and cultural communities, (5) women, (6) persons with disability, (7) senior citizens, (8) victims of calamities and disasters, (9) out-of-school youths, (10) urban poor.
+4.	TESDA Circular No. 004, s. 2024, it is a policy to consider special clients in the provision of TESDA scholarship programs. “Special Clients refer to special target beneficiaries to include: (1) farmers and fishermen, (2) workers in the informal sectors, (3) migrant workers, (4) Indigenous people (IP) and cultural communities, (5) women, (6) persons with disability, (7) senior citizens, (8) victims of calamities and disasters, (9) out-of-school youths, (10) urban poor.
 
 Furthermore, special beneficiaries also cover solo parents and their children, OFWs and their dependents, drug surrenderees and their dependents, victims of human trafficking, wounded-in-action or killed-in-action AFP and PNP personnel and their dependents, returnees, decommissioned combatants, inmates, and detainees and their dependents, micro-entrepreneurs and their dependents, members of cooperatives, internally displaced population. Not in Employment, Education, or Training (NEET), underemployed, and other related or similarly situated clients.
 
@@ -1316,7 +1319,7 @@ page 23 / 60
 
 5.	Schools in marginalized communities may face significant challenges in providing adequate facilities, such as classrooms, sanitation facilities, electricity, and clean water. Poor infrastructure can negatively impact student well-being, safety, and learning experiences, making it difficult for students to focus on their studies and achieve their educational goals.
 
-6.		 eographic barriers can discourage school attendance and exacerbate educational inequities. Students from poor households living in remote or rural areas may face long distances to reach schools, coupled with limited or costly transportation options.
+6.		Geographic barriers can discourage school attendance and exacerbate educational inequities. Students from poor households living in remote or rural areas may face long distances to reach schools, coupled with limited or costly transportation options.
 
 7.		Parents from poor households may have limited education themselves and face challenges in providing academic support and guidance to their children. Lack of parental involvement in education can hinder student motivation and academic success.
 
@@ -1325,11 +1328,11 @@ page 23 / 60
 ### 2. Progress made with respect to implementing the right to education across all levels and forms of education
 
 #### 2.1 Early childhood care and education
-For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' ( eneral Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation[1] and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education[2]. In the current context of the Education 2030 agenda, under SD  target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'. - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked): [1] Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'. [2] Which commits states to 'Enhance policy and legal frameworks to ensure that the right to education includes ECCE' [Prior to pre-primary education, ECCE services are free]
+For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation[1] and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education[2]. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'. - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked): [1] Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'. [2] Which commits states to 'Enhance policy and legal frameworks to ensure that the right to education includes ECCE' [Prior to pre-primary education, ECCE services are free]
 
 Yes
 
-2.1 Early childhood care and education For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' ( eneral Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation[1] and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education[2]. In the current context of the Education 2030 agenda, under SD  target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'. - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked): [1] Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'. [2] Which commits states to 'Enhance policy and legal frameworks to ensure that the right to education includes ECCE' [Prior to pre-primary education, ECCE services are affordable]
+2.1 Early childhood care and education For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation[1] and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education[2]. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'. - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked): [1] Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'. [2] Which commits states to 'Enhance policy and legal frameworks to ensure that the right to education includes ECCE' [Prior to pre-primary education, ECCE services are affordable]
 
 Yes
 
@@ -1339,11 +1342,11 @@ page 24 / 60
 
 [[START OF PAGE 25]]
 
-2.1 Early childhood care and education For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' ( eneral Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation[1] and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education[2]. In the current context of the Education 2030 agenda, under SD  target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'. - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked): [1] Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'. [2] Which commits states to 'Enhance policy and legal frameworks to ensure that the right to education includes ECCE' [ECCE services are accessible on a non-discriminatory basis]
+2.1 Early childhood care and education For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation[1] and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education[2]. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'. - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked): [1] Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'. [2] Which commits states to 'Enhance policy and legal frameworks to ensure that the right to education includes ECCE' [ECCE services are accessible on a non-discriminatory basis]
 
 No
 
-2.1 Early childhood care and education For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' ( eneral Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation[1] and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education[2]. In the current context of the Education 2030 agenda, under SD  target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'. - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked): [1] Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'. [2] Which commits states to 'Enhance policy and legal frameworks to ensure that the right to education includes ECCE' [ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.]
+2.1 Early childhood care and education For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation[1] and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education[2]. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'. - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked): [1] Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'. [2] Which commits states to 'Enhance policy and legal frameworks to ensure that the right to education includes ECCE' [ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.]
 
 Yes
 
@@ -1351,7 +1354,7 @@ Yes
 
 The government provides various ECCE programs aimed at children below the age of primary education which are generally free. These services include:
 
-1.	Day Care Centers - Managed by local government units (L Us), these centers offer free early childhood care and development services to children aged 3 to 5 years old.
+1.	Day Care Centers - Managed by local government units (LGUs), these centers offer free early childhood care and development services to children aged 3 to 5 years old.
 
 2.	Kindergartens - As part of the K-12 education system, one year of kindergarten is compulsory and free for children aged 5, provided by public schools.
 
@@ -1403,7 +1406,7 @@ However, while efforts have been made to make pre-primary education accessible t
 
 While public pre-primary education may be more affordable or subsidized by the government, access to these programs may still be limited, particularly in remote or underserved areas where educational infrastructure and resources are lacking. As a result, not all children have equal access to quality pre-primary education, and financial considerations can be a significant barrier for some families.
 
-Compulsory and free pre-primary education is available in the Philippines. The Universal Kindergarten Program, implemented by the Philippine government, provides free and compulsory kindergarten education for all Filipino children aged 5-6 years old. Under this program, kindergarten education is integrated into the basic education system as part of the K-12 curriculum. The government covers the costs of tuition and other fees for kindergarten education. The Universal Kindergarten Program is aligned with international frameworks such as Sustainable Development  oal 4 (SD  4), which emphasizes the importance of early childhood education in achieving equitable and quality education for all.
+Compulsory and free pre-primary education is available in the Philippines. The Universal Kindergarten Program, implemented by the Philippine government, provides free and compulsory kindergarten education for all Filipino children aged 5-6 years old. Under this program, kindergarten education is integrated into the basic education system as part of the K-12 curriculum. The government covers the costs of tuition and other fees for kindergarten education. The Universal Kindergarten Program is aligned with international frameworks such as Sustainable Development Goal 4 (SDG 4), which emphasizes the importance of early childhood education in achieving equitable and quality education for all.
 
 For the Kindergarten Program, direct costs include tuition fees and other enrollment fees that are typically covered by the government, making kindergarten education free of charge for parents. However, while tuition fees are covered, parents may still incur indirect costs such as school supplies, uniforms, transportation, and miscellaneous expenses.
 
@@ -1449,16 +1452,16 @@ page 26 / 60
 
 4.	Many ECCE and pre-primary education centers lack basic infrastructure and facilities, such as safe and child-friendly classrooms, sanitation facilities, and play areas. According to DepEd, as of 2021, only 52% of public schools offering kindergarten have dedicated kindergarten classrooms, indicating inadequate infrastructure for early childhood education.
 
-5.	Limited parental awareness of the importance of early childhood education and the role of parents in supporting learning hinders children's participation in ECCE programs. A survey by the Philippine Institute for Development Studies (PIDS) found that only 49% of parents were aware of the benefits of early childhood education, highlighting the need for increased awarenessraising efforts.
+5.	Limited parental awareness of the importance of early childhood education and the role of parents in supporting learning hinders children's participation in ECCE programs. A survey by the Philippine Institute for Development Studies (PIDS) found that only 49% of parents were aware of the benefits of early childhood education, highlighting the need for increased awareness-raising efforts.
 
 6.	Access to ECCE and pre-primary education can be particularly challenging for marginalized groups, including indigenous children, children with disabilities, and children from low-income families. According to UNICEF, as of 2021, children from the poorest households were less likely to participate in pre-primary education compared to their wealthier counterparts, exacerbating inequalities in access.
 
 #### 2.2 Primary and secondary education
-For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for universal primary and secondary education. In the context of the Education 2030 agenda, SD  target 4.1 calls on States to provide '12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education - of which at least nine years are compulsory.'
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education - of which at least nine years are compulsory.'
 ##### Primary education
 - Please provide the age of enrolment and duration of primary education:
 
-In the Philippines, the age of enrolment for primary education typically begins at around 6 years old. This corresponds to  rade 1 in the Philippine educational system. The duration of primary education in the Philippines is typically six years, covering  rades 1 to 6.
+In the Philippines, the age of enrolment for primary education typically begins at around 6 years old. This corresponds to Grade 1 in the Philippine educational system. The duration of primary education in the Philippines is typically six years, covering Grades 1 to 6.
 
 - Is primary education compulsory and free of charge? [Primary education is compulsory]
 
@@ -1497,7 +1500,7 @@ page 27 / 60
 [[START OF PAGE 28]]
 
 - What challenges were encountered in realizing primary education? [Limited access]
----
+
 No
 - What challenges were encountered in realizing primary education? [Issues of equity and inclusion]
 No
@@ -1510,6 +1513,8 @@ Yes
 - What challenges were encountered in realizing primary education? [Poor learning outcomes in numeracy]
 Yes
 - What challenges were encountered in realizing primary education? [Poor learning outcomes in social and emotional learning]
+
+Yes
 - What challenges were encountered in realizing primary education? [Other poor learning outcomes]
 Yes
 - What challenges were encountered in realizing primary education? [Disparity in learning outcomes ]
@@ -1541,11 +1546,11 @@ schools where learners with disabilities are enrolled. From 21,270 in SY 2019-20
 
 8.		Many primary schools lack basic infrastructure and facilities, such as classrooms, sanitation facilities, libraries, and computer labs. According to DepEd, only 61% of public elementary schools have complete basic facilities as of 2021, highlighting infrastructure gaps.
 
-9.		Dropout rates remain a concern in primary education, particularly among disadvantaged and vulnerable groups. According to DepEd, four out of 10 learners who enter  rade 1 end up leaving school by  rade 10.
+9.		Dropout rates remain a concern in primary education, particularly among disadvantaged and vulnerable groups. According to DepEd, four out of 10 learners who enter Grade 1 end up leaving school by Grade 10.
 
 10.		Concerns persist about the quality of the education system. Learning assessments[1] revealed low learning outcomes of Filipino learners. The dismal performance of the Philippines in the 2022 Program for International Student Assessment (PISA) indicates that students in the country are five to six years behind in learning competencies, according to the Department of Education.[2]
 
-- PISA 2018 and 2022; TIMSS 2019; SEA-PLM
+[1]	PISA 2018 and 2022; TIMSS 2019; SEA-PLM
 
 [2]	https://www.philstar.com/headlines/2023/12/07/2317044/pisa-philippines-5-6-years-behind
 
@@ -1553,11 +1558,11 @@ schools where learners with disabilities are enrolled. From 21,270 in SY 2019-20
 In this part, please provide information on the general availability and accessibility to all of secondary education, including technical and vocational secondary education and training.
 - Please provide the age of enrolment and duration of lower secondary education:
 
-Age of enrolment for junior high school typically begins at around 12 years old. The duration of junior high school education in the Philippines is typically four years, covering  rades 7 to 10.
+Age of enrolment for junior high school typically begins at around 12 years old. The duration of junior high school education in the Philippines is typically four years, covering Grades 7 to 10.
 
 - Please provide the age of enrolment and duration of upper secondary education:
 
-Age of enrolment begins at around 16 to 17 years old. Senior high school education in the Philippines lasts for two years, covering rades 11 and 12. This completes the K-12 educational cycle in the Philippines.
+Age of enrolment begins at around 16 to 17 years old. Senior high school education in the Philippines lasts for two years, covering Grades 11 and 12. This completes the K-12 educational cycle in the Philippines.
 
 - Is lower and upper secondary education compulsory and free of charge? [Lower secondary education is compulsory.]
 
@@ -1601,7 +1606,7 @@ No
 
 Yes, both lower (junior) and upper (senior) secondary education are compulsory and free of charge in public schools in the Philippines.
 
-The Enhanced Basic Education Act of 2013 (Republic Act No. 10533), also known as the K- 12 Law, mandates the government to provide free and compulsory education from kindergarten to  rade 12 encompassing both lower and upper secondary education. Public junior high schools ( rades 7 to 10) and senior high schools ( rades 11 and 12) in the Philippines do not charge tuition fees, ensuring that secondary education is accessible to all Filipino students regardless of their socio-economic background. However, while tuition fees are covered by the government in public schools, there may still be indirect costs associated with attending secondary education such as:
+The Enhanced Basic Education Act of 2013 (Republic Act No. 10533), also known as the K- 12 Law, mandates the government to provide free and compulsory education from kindergarten to Grade 12 encompassing both lower and upper secondary education. Public junior high schools (Grades 7 to 10) and senior high schools (Grades 11 and 12) in the Philippines do not charge tuition fees, ensuring that secondary education is accessible to all Filipino students regardless of their socio-economic background. However, while tuition fees are covered by the government in public schools, there may still be indirect costs associated with attending secondary education such as:
 
 1.	School Supplies: Textbooks, notebooks, pens, and other educational materials may need to be purchased by students or their families.
 
@@ -1633,7 +1638,7 @@ The general minimum age for employment is 15 years old. This is in accordance wi
 
 Labor Code of the Philippines - Article 139: Prohibits the employment of children below the age of 15 years old, except under certain conditions specified by law.
 
-Republic Act No. 7610, also known as the "Special Protection of Children Against Abuse, Exploitation and Discrimination Act". The Philippines follows the K-12 education system, where compulsory education ends after  rade 12, which students typically complete at around 18 years of age. This is in accordance with the Enhanced Basic Education Act of 2013 (Republic Act No. 10533) - Section 2 extending the coverage of compulsory education from six to eighteen years old, encompassing both primary and secondary education.
+Republic Act No. 7610, also known as the "Special Protection of Children Against Abuse, Exploitation and Discrimination Act". The Philippines follows the K-12 education system, where compulsory education ends after Grade 12, which students typically complete at around 18 years of age. This is in accordance with the Enhanced Basic Education Act of 2013 (Republic Act No. 10533) - Section 2 extending the coverage of compulsory education from six to eighteen years old, encompassing both primary and secondary education.
 
 This means that there may be a gap between the end of compulsory education and the legal minimum age for employment. However, there may be exceptions or special circumstances that allow younger individuals to work in certain industries or under specific conditions.
 
@@ -1641,10 +1646,10 @@ Children below 15 years old are not allowed to work, except in the context of wo
 
 Minors aged 15 to 17 can legally work, but there are strict regulations to ensure their safety and well-being. They are only allowed to work in non-hazardous environments and for limited hours to ensure that their work does not interfere with their schooling. Enforcement of these provisions is primarily carried out by the Department of Labor and Employment (DOLE) and the Department of Education (DepEd), which are responsible for monitoring compliance with labor laws and educational policies, respectively. DOLE conducts inspections of workplaces to ensure compliance with labor laws, including provisions related to child labor. DepEd monitors school attendance and may collaborate with other government agencies and stakeholders to address issues related to access to education and child labor.
 
-Violations of labor laws, including the employment of children below the legal minimum age, are subject to penalties and sanctions prescribed by the Labor Code and other relevant regulations. Likewise, DepEd may take appropriate measures to address noncompliance with compulsory education requirements, including outreach programs, alternative learning systems, and legal actions if necessary.
+Violations of labor laws, including the employment of children below the legal minimum age, are subject to penalties and sanctions prescribed by the Labor Code and other relevant regulations. Likewise, DepEd may take appropriate measures to address non-compliance with compulsory education requirements, including outreach programs, alternative learning systems, and legal actions if necessary.
 
 - What challenges were encountered in realizing secondary education? [Limited access]
----
+
 No
 - What challenges were encountered in realizing secondary education? [Issues of equity and inclusion]
 No
@@ -1676,18 +1681,18 @@ page 31 / 60
 
 4.	The availability of qualified teachers is a critical issue in the Philippines, especially in remote and underserved areas. DepEd reported that in 2021, the pupil-teacher ratio in public secondary schools was 31:1, which is far from ideal for effective teaching and learning.
 
-5.	Dropout rates remai[1] Philippine Statistics Authority, APIS 2020n a concern in secondary education. There are 3.4 million outof-school youth in the Philippines.[1]
+5.	Dropout rates remai[1] Philippine Statistics Authority, APIS 2020n a concern in secondary education. There are 3.4 million out-of-school youth in the Philippines.[1]
 
 #### 2.3 Higher education
-For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SD 4, both targets 4.3[1], and target 4.4[2]. Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training. - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked): [1] Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'. [2] Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'. [Higher education is free of charge]
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SDG4, both targets 4.3[1], and target 4.4[2]. Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training. - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked): [1] Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'. [2] Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'. [Higher education is free of charge]
 
 No
 
-2.3 Higher education For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SD 4, both targets 4.3[1], and target 4.4[2]. Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training. - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked): [1] Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'. [2] Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'. [Higher education is accessible on the basis of individual capacity (as assessed by reference to relevant qualifications and experience)]
+2.3 Higher education For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SDG4, both targets 4.3[1], and target 4.4[2]. Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training. - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked): [1] Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'. [2] Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'. [Higher education is accessible on the basis of individual capacity (as assessed by reference to relevant qualifications and experience)]
 
 No
 
-2.3 Higher education For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SD 4, both targets 4.3[1], and target 4.4[2]. Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training. - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked): [1] Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'. [2] Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'. [Higher education is accessible through financial incentives and scholarships ]
+2.3 Higher education For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SDG4, both targets 4.3[1], and target 4.4[2]. Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training. - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked): [1] Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'. [2] Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'. [Higher education is accessible through financial incentives and scholarships ]
 
 No
 
@@ -1697,19 +1702,19 @@ page 32 / 60
 
 [[START OF PAGE 33]]
 
-2.3 Higher education For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SD 4, both targets 4.3[1], and target 4.4[2]. Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training. - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked): [1] Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'. [2] Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'. [Higher education is accessible through positive or affirmative action measures ]
+2.3 Higher education For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SDG4, both targets 4.3[1], and target 4.4[2]. Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training. - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked): [1] Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'. [2] Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'. [Higher education is accessible through positive or affirmative action measures ]
 
 No
 
-2.3 Higher education For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SD 4, both targets 4.3[1], and target 4.4[2]. Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training. - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked): [1] Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'. [2] Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'. [Higher education is accessible through credit transfer system between states]
+2.3 Higher education For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SDG4, both targets 4.3[1], and target 4.4[2]. Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training. - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked): [1] Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'. [2] Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'. [Higher education is accessible through credit transfer system between states]
 
 No
 
-2.3 Higher education For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SD 4, both targets 4.3[1], and target 4.4[2]. Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training. - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked): [1] Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'. [2] Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'. [Higher education allows for multiple and flexible learning pathways (flexible entry and re-entry, recognition, validation, and accreditation of knowledge and skills acquired through non-formal and informal education).]
+2.3 Higher education For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SDG4, both targets 4.3[1], and target 4.4[2]. Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training. - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked): [1] Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'. [2] Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'. [Higher education allows for multiple and flexible learning pathways (flexible entry and re-entry, recognition, validation, and accreditation of knowledge and skills acquired through non-formal and informal education).]
 
 No
 
-2.3 Higher education For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SD 4, both targets 4.3[1], and target 4.4[2]. Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training. - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked): [1] Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'. [2] Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'. [Other]
+2.3 Higher education For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SDG4, both targets 4.3[1], and target 4.4[2]. Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training. - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked): [1] Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'. [2] Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'. [Other]
 
 page 33 / 60
 
@@ -1721,7 +1726,7 @@ page 33 / 60
 
 Accessibility and Equity
 
-eographic Disparities: Students from remote and rural areas often have limited access to higher education institutions Socioeconomic Barriers: Despite free tuition, indirect costs of education can still be prohibitive for students from low-income families
+Geographic Disparities: Students from remote and rural areas often have limited access to higher education institutions Socioeconomic Barriers: Despite free tuition, indirect costs of education can still be prohibitive for students from low-income families
 
 Inclusive Education: There are challenges in ensuring that higher education is inclusive and accessible to marginalized groups, including persons with disabilities and indigenous peoples
 
@@ -1799,11 +1804,11 @@ Addressing Indirect Costs
 
 While RA 10931 primarily focuses on removing direct costs (tuition and other school fees), it also provides mechanisms to help students with indirect costs:
 
-- TERTIARY EDUCATION SUBSIDY (TES): Undergraduate students enrolled in SUCs, CHED-recognized LUCs and qualityassured private Higher Education Institutions (HEIs), and programs in the CHED Registry.
+- TERTIARY EDUCATION SUBSIDY (TES): Undergraduate students enrolled in SUCs, CHED-recognized LUCs and quality-assured private Higher Education Institutions (HEIs), and programs in the CHED Registry.
 
 *Subject to prioritization and availability of funds including the Tulong Dunong Program (TDP)
 
-rantees enrolled in SUCs, CHED-recognized LUCs and private HEIs are entitled to receive PhP 20,000.00 per academic year or PhP 10,000 per semester
+Grantees enrolled in SUCs, CHED-recognized LUCs and private HEIs are entitled to receive PhP 20,000.00 per academic year or PhP 10,000 per semester
 
 Additional benefits for TES grantees:
 
@@ -1813,13 +1818,13 @@ TES 3B - Board/Licensure Examination maximum of PhP 8,000.00 one-time reimbursem
 
 Tulong Dunong Program PhP 15,000 per academic year or PhP 7,500 per semester
 
-- FREE TECHNICAL-VOCATIONAL EDUCATION AND TRAININ  (FTVET):
+- FREE TECHNICAL-VOCATIONAL EDUCATION AND TRAINING (FTVET):
 
 - Learners enrolled in their first post-secondary TESDA-registered TVET programs.
 
 - Learners who are not holding a National Certificate III or higher, except those enrolled in bundled programs *Subject to prioritization and availability of funds
 
-- STUDENT LOAN PRO RAM (SLP): Undergraduate and graduate students enrolled in SUCs, CHED-recognized LUCs and quality assured private HEIs.
+- STUDENT LOAN PROGRAM (SLP): Undergraduate and graduate students enrolled in SUCs, CHED-recognized LUCs and quality assured private HEIs.
 
 -	Short-term loan covers expenses for undergraduate and graduate programs, including medicine and law.
 
@@ -1866,25 +1871,25 @@ page 35 / 60
 #### 2.4 Adult education and alternative learning
 For reference: Article/Paragraph 4(c) of the
 
-Convention/Recommendation provides for adult education and alternative learning. While SD 4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Provision of education for persons who have not received or completed the whole period of their primary education]
+Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Provision of education for persons who have not received or completed the whole period of their primary education]
 
 No
 
 2.4 Adult education and alternative learning For reference: Article/Paragraph 4(c) of the
 
-Convention/Recommendation provides for adult education and alternative learning. While SD 4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Provision of literacy programmes]
+Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Provision of literacy programmes]
 
 No
 
 2.4 Adult education and alternative learning For reference: Article/Paragraph 4(c) of the
 
-Convention/Recommendation provides for adult education and alternative learning. While SD 4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Provision of continuous learning (such as learning programmes to develop knowledge, skills, abilities, or competencies for personal and professional development) ]
+Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Provision of continuous learning (such as learning programmes to develop knowledge, skills, abilities, or competencies for personal and professional development) ]
 
 No
 
 2.4 Adult education and alternative learning For reference: Article/Paragraph 4(c) of the
 
-Convention/Recommendation provides for adult education and alternative learning. While SD 4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Provision of free of charge learning opportunities ]
+Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Provision of free of charge learning opportunities ]
 
 No
 
@@ -1894,23 +1899,23 @@ page 36 / 60
 
 [[START OF PAGE 37]]
 
-2.4 Adult education and alternative learning For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides for adult education and alternative learning. While SD 4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Provision of professional training including reskilling and upskilling programmes]
+2.4 Adult education and alternative learning For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Provision of professional training including reskilling and upskilling programmes]
 
 No
 
-2.4 Adult education and alternative learning For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides for adult education and alternative learning. While SD 4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Recognition, validation and certification of non-formal and informal learning ]
+2.4 Adult education and alternative learning For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Recognition, validation and certification of non-formal and informal learning ]
 
 No
 
-2.4 Adult education and alternative learning For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides for adult education and alternative learning. While SD 4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Provision of free of charge career guidance and counselling ]
+2.4 Adult education and alternative learning For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Provision of free of charge career guidance and counselling ]
 
 No
 
-2.4 Adult education and alternative learning For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides for adult education and alternative learning. While SD 4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Lifelong learning entitlements including learning accounts, vouchers, etc.]
+2.4 Adult education and alternative learning For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Lifelong learning entitlements including learning accounts, vouchers, etc.]
 
 No
 
-2.4 Adult education and alternative learning For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides for adult education and alternative learning. While SD 4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Other]
+2.4 Adult education and alternative learning For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Other]
 
 page 37 / 60
 
@@ -1920,7 +1925,7 @@ page 37 / 60
 
 - Please elaborate further on the measures taken:
 
-The Philippines has implemented several measures to establish a system of continuing education and ensure equitable access to learning and training opportunities, in line with international commitments such as the Sustainable Development  oals (SD s), particularly SD  4 on quality education.
+The Philippines has implemented several measures to establish a system of continuing education and ensure equitable access to learning and training opportunities, in line with international commitments such as the Sustainable Development Goals (SDGs), particularly SDG 4 on quality education.
 
 ●	Alternative Learning System (ALS)
 
@@ -1958,7 +1963,7 @@ The Open Distance Learning Act expands access to quality tertiary education in t
 
 Open Universities offer online courses and programs that provide flexible learning options for individuals who cannot attend traditional classes.
 
-Despite government efforts, many Filipino adults struggle to access education, often due to poverty, remote location, or other social and economic barriers. For these adults, alternative learning systems offer a valuable pathway to acquire literacy, numeracy, and basic life skills. These programs, such as the Alternative Learning System (ALS), provide flexible, communitybased learning that can be adapted to the needs of each learner. However, challenges remain in ensuring that these programs are accessible, affordable, and of high quality. The budget for ALS is still
+Despite government efforts, many Filipino adults struggle to access education, often due to poverty, remote location, or other social and economic barriers. For these adults, alternative learning systems offer a valuable pathway to acquire literacy, numeracy, and basic life skills. These programs, such as the Alternative Learning System (ALS), provide flexible, community-based learning that can be adapted to the needs of each learner. However, challenges remain in ensuring that these programs are accessible, affordable, and of high quality. The budget for ALS is still
 
 TESDA also received lower budget allocations despite its critical role in workforce development. The limited funding allocation of the Authority constraints TESDA's ability to expand its reach and the number of scholarship slots available, particularly for marginalized groups such as Indigenous Peoples (IPs), out-of-school youth, persons with disabilities, and unemployed individuals. Initial development of adult education learning toolkit: Inputs from adult education providers in the Philippines
 
@@ -2000,32 +2005,32 @@ No
 
 ### 3. Quality education provision and learning environment
 
-#### 3.1  eneral measures
+#### 3.1 General measures
 - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding: [State monitoring and inspections]
 
 Yes
 
-- 3.1  eneral measures - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding: [Health and sanitation]
+- 3.1 General measures - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding: [Health and sanitation]
 
 Yes
 
-- 3.1  eneral measures - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding: [Safety (children learn in a safe environment free from violence or harassment, including school-related genderbased violence (in and around schools))]
+- 3.1 General measures - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding: [Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools))]
 
 Yes
 
-- 3.1  eneral measures - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding: [Infrastructure ]
+- 3.1 General measures - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding: [Infrastructure ]
 
 Yes
 
-- 3.1  eneral measures - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding: [Curriculum]
+- 3.1 General measures - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding: [Curriculum]
 
 Yes
 
-- 3.1  eneral measures - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding: [Student-teacher ratio]
+- 3.1 General measures - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding: [Student-teacher ratio]
 
 Yes
 
-- 3.1  eneral measures - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding: [School fees (if relevant)]
+- 3.1 General measures - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding: [School fees (if relevant)]
 
 Yes
 
@@ -2035,9 +2040,7 @@ page 39 / 60
 
 [[START OF PAGE 40]]
 
-3.1 eneral measures - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding: [Other]
----
-
+3.1 General measures - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding: [Other]
 page 40 / 60
 
 [[END OF PAGE 40]]
@@ -2048,7 +2051,7 @@ page 40 / 60
 
 State Monitoring and Inspections:
 
-Republic Act No. 9155 ( overnance of Basic Education Act of 2001):  overnance of basic education shall begin at the national level. It is at the regions, divisions, schools and learning
+Republic Act No. 9155 (Governance of Basic Education Act of 2001): Governance of basic education shall begin at the national level. It is at the regions, divisions, schools and learning
 
 center where the policy and principle for the governance of basic education shall be translated into programs, projects and services developed, adapted and offered to fit local needs. The State shall encourage local initiatives for improving the quality of basic education. The State shall ensure that the values, needs and aspirations of a school community are reflected in the program of education for the children, out-of-school youth and adult learners. Schools and learning centers shall be empowered to make decisions on what is best for the learners they serve.
 
@@ -2088,7 +2091,7 @@ TESDA is mandated to:
 
 - Manage skills development funds.
 
-TESDA issued its Omnibus  uidelines on Program Registration under the Unified
+TESDA issued its Omnibus Guidelines on Program Registration under the Unified
 
 TVET Program Registration and Accreditation System (UTPRAS) outlined in
 
@@ -2100,13 +2103,13 @@ Procedures Manual on Program Registration.
 
 Health and Sanitation:
 
-DepEd Orders and  uidelines
+DepEd Orders and Guidelines
 
-DepEd Order No. 43, s. 2011: Strengthening the School Health and Nutrition Programs For the Achievement of the Education for All (EFA) and Millennium Development  oals (MD s)
+DepEd Order No. 43, s. 2011: Strengthening the School Health and Nutrition Programs For the Achievement of the Education for All (EFA) and Millennium Development Goals (MDGs)
 
-The Department of Education (DepEd) through the Health and Nutrition Center (HNC) is strengthening the School Health and Nutrition Programs (SHNP) into its key programs and aligning all its activities into one seamless whole. This is envisioned to make this Department better able to determine the effectiveness and relevance of its programs, and to make these more responsive to the DepEd's mission of enhancing the student's motivation and capacity for learning, improving learning outcomes, reducing absenteeism, and ensuring that school-age children are able to stay in school as enunciated in the Education For All (EFA) and Millennium Development  oals (MD s).
+The Department of Education (DepEd) through the Health and Nutrition Center (HNC) is strengthening the School Health and Nutrition Programs (SHNP) into its key programs and aligning all its activities into one seamless whole. This is envisioned to make this Department better able to determine the effectiveness and relevance of its programs, and to make these more responsive to the DepEd's mission of enhancing the student's motivation and capacity for learning, improving learning outcomes, reducing absenteeism, and ensuring that school-age children are able to stay in school as enunciated in the Education For All (EFA) and Millennium Development Goals (MDGs).
 
-DepEd Order No. 10, s. 2016: Policy and  uidelines for the Comprehensive Water, Sanitation, and Hygiene (WASH) in Schools (WinS) Program
+DepEd Order No. 10, s. 2016: Policy and Guidelines for the Comprehensive Water, Sanitation, and Hygiene (WASH) in Schools (WinS) Program
 
 This Policy aims to:
 
@@ -2126,7 +2129,7 @@ page 41 / 60
 
 - engage public and private partners for program implementation and sustainability.
 
-DepEd Order No. 13, s. 2017: Policy and  uidelines on Healthy Food and Beverage Choices in Schools and in DepEd Offices The Policy and  uidelines aim to:
+DepEd Order No. 13, s. 2017: Policy and Guidelines on Healthy Food and Beverage Choices in Schools and in DepEd Offices The Policy and Guidelines aim to:
 
 - make available healthier food and beverage choices among the learners and DepEd personnel and their stakeholders;
 
@@ -2136,13 +2139,13 @@ DepEd Order No. 13, s. 2017: Policy and  uidelines on Healthy Food and Beverage 
 
 - provide guidance in the selling and marketing of foods and beverages in schools and DepEd offices, including the purchasing of foods for school feeding.
 
-DepEd Order No. 036, s. 2019  uidelines on the Implementation of School-Based Feeding Program-Milk
+DepEd Order No. 036, s. 2019 Guidelines on the Implementation of School-Based Feeding Program-Milk
 
 DepEd Memorandum No. 15, s. 2020: FIRST SET OF POLICY DIRECTIVES OF THE DEPED TASK FORCE NCOV
 
 The Department of Education (DepEd) issued on February 1, 2020, DepEd Memorandum (DM) No. 011, s. 2020, titled Creation of a Task Force for the Management of Department of Education Response to Novel Coronavirus Acute Respiratory Disease (2019-nCoV ARD), following the expansion of the DepEd Quick Response and Recovery Team (QRRT) that included 2019-nCoV ARD. The memorandum declares that the DepEd regards the 2019-nCoV ARD as a matter of serious and urgent concern, and supports the overall efforts of the Philippine government to manage this public health situation.
 
-DepEd Order No. 14, s. 2020:  uidelines on the Required Health Standards in Basic Education Offices and Schools Establishes guidelines for implementing health standards in schools and DepEd offices to mitigate the risk of COVID-19 and other infectious diseases. It also details protocols for cleaning and disinfection, waste management, and the provision of sanitation facilities.
+DepEd Order No. 14, s. 2020: Guidelines on the Required Health Standards in Basic Education Offices and Schools Establishes guidelines for implementing health standards in schools and DepEd offices to mitigate the risk of COVID-19 and other infectious diseases. It also details protocols for cleaning and disinfection, waste management, and the provision of sanitation facilities.
 
 Safety:
 
@@ -2150,7 +2153,7 @@ Anti-Bullying Act of 2013 (Republic Act No. 10627): This law requires all school
 
 For purposes of this Act, 'bullying' shall refer to any severe or repeated use by one or more students of a written, verbal or electronic expression, or a physical act or gesture, or any combination thereof, directed at another student that has the effect of actually causing or placing the latter in reasonable fear of physical or emotional harm or damage to his property; creating a hostile environment at school for the other student; infringing on the rights of the other student at school; or materially and substantially disrupting the education process or the orderly operation of a school.
 
-DepEd's Child Protection Policy is the Policy and  uidelines on Protecting Children in School from Abuse, Violence, Exploitation, Discrimination, Bullying and Other Forms of Abuse. It outlines measures to safeguard children from abuse, violence, exploitation, and discrimination in schools.
+DepEd's Child Protection Policy is the Policy and Guidelines on Protecting Children in School from Abuse, Violence, Exploitation, Discrimination, Bullying and Other Forms of Abuse. It outlines measures to safeguard children from abuse, violence, exploitation, and discrimination in schools.
 
 Philippine Disaster Risk Reduction and Management Act of 2010: This Act provides for the development of policies and plans and the implementation of actions and measures pertaining to all aspects of disaster risk reduction and management, including good governance, risk assessment and early warning, knowledge building and awareness raising, reducing underlying risk factors, and preparedness for effective response and early recovery.
 
@@ -2168,11 +2171,11 @@ Institutionalization and Implementation of Risk-Informed and Evidence-Based Scho
 
 INFRASTRUCTURE  FOR  SAFER  AND  RESILIENT  SCHOOLS  (ISRS)  PROJECT
 
-STAKEHOLDER EN A EMENT PLAN (SEP) The Infrastructure for Safer and Resilient Schools (ISRS) Project design strategically integrates efforts to address physical recovery and enhance the resilience of disaster-affected school infrastructure in selected regions. The project will answer the need to recover school infrastructure affected in the short term; that is, infrastructure impactedby tropical cyclones and earthquakes between 2019 and 2023. The project design considers that as part of the recovery strategy, vulnerability reduction measures will be integrated into the engineering designs. Therefore, intervening school facilities will have enhanced performance against future hazard events. To accomplish such, the project will support not only the damage assessment but also the multi-hazard vulnerability assessment of affected school buildings.
+STAKEHOLDER ENGAGEMENT PLAN (SEP) The Infrastructure for Safer and Resilient Schools (ISRS) Project design strategically integrates efforts to address physical recovery and enhance the resilience of disaster-affected school infrastructure in selected regions. The project will answer the need to recover school infrastructure affected in the short term; that is, infrastructure impactedby tropical cyclones and earthquakes between 2019 and 2023. The project design considers that as part of the recovery strategy, vulnerability reduction measures will be integrated into the engineering designs. Therefore, intervening school facilities will have enhanced performance against future hazard events. To accomplish such, the project will support not only the damage assessment but also the multi-hazard vulnerability assessment of affected school buildings.
 
 Curriculum:
 
-Enhanced Basic Education Act of 2013 (Republic Act No. 10533) AN ACT ENHANCIN  THE PHILIPPINE BASIC EDUCATION SYSTEM BY STREN THENIN  ITS CURRICULUM AND INCREASIN  THE NUMBER OF YEARS FOR BASIC EDUCATION, APPROPRIATIN  FUNDS THEREFOR AND FOR OTHER PURPOSES
+Enhanced Basic Education Act of 2013 (Republic Act No. 10533) AN ACT ENHANCING THE PHILIPPINE BASIC EDUCATION SYSTEM BY STRENGTHENING ITS CURRICULUM AND INCREASING THE NUMBER OF YEARS FOR BASIC EDUCATION, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES
 
 SEC. 5. Curriculum Development. - The DepED shall formulate the design and details of the enhanced basic education curriculum. It shall work with the Commission on Higher Education (CHED) to craft harmonized basic and tertiary curricula for the global competitiveness of Filipino graduates. To ensure college readiness and to avoid remedial and duplication of basic education subjects, the DepED shall coordinate with the CHED and the Technical Education and Skills Development Authority (TESDA).
 
@@ -2182,11 +2185,11 @@ page 42 / 60
 
 [[START OF PAGE 43]]
 
-Department of Education Orders and  uidelines
+Department of Education Orders and Guidelines
 
 DepEd Order No. 31, s. 2012: Provides guidelines on the implementation of the K-12 Basic Education Curriculum (BEC). It outlines the curriculum structure, learning areas, time allocation, and teaching strategies.
 
-DepEd Order No. 21, s. 2019: Issues the Policy  uidelines on the K to 12 Basic Education Program. This includes details on curriculum implementation, teacher training, instructional materials, and assessment strategies.
+DepEd Order No. 21, s. 2019: Issues the Policy Guidelines on the K to 12 Basic Education Program. This includes details on curriculum implementation, teacher training, instructional materials, and assessment strategies.
 
 DepEd's Learning Continuity Plan: In response to the COVID-19 pandemic, DepEd developed the Learning Continuity Plan, which includes the use of blended learning modalities and the development of self-learning modules to ensure continuous education despite disruptions.
 
@@ -2196,11 +2199,11 @@ Student-Teacher Ratio:
 
 The legal and regulatory framework in the Philippines does establish conditions and minimum education standards regarding student-teacher ratios to ensure quality education. DepEd's orders and guidelines provide specific directives aimed at maintaining optimal class sizes, which are critical for effective teaching and learning. The ongoing monitoring and adjustment mechanisms further support the implementation of these standards across the country's public education system.
 
-Enhanced Basic Education Act of 2013 (Republic Act No. 10533) AN ACT ENHANCIN  THE PHILIPPINE BASIC EDUCATION SYSTEM BY STREN THENIN  ITS CURRICULUM AND INCREASIN  THE NUMBER OF YEARS FOR BASIC EDUCATION, APPROPRIATIN  FUNDS THEREFOR AND FOR OTHER PURPOSES
+Enhanced Basic Education Act of 2013 (Republic Act No. 10533) AN ACT ENHANCING THE PHILIPPINE BASIC EDUCATION SYSTEM BY STRENGTHENING ITS CURRICULUM AND INCREASING THE NUMBER OF YEARS FOR BASIC EDUCATION, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES
 
 While the act itself does not specify exact student-teacher ratios, it empowers the DepEd to set standards and guidelines to ensure quality education, which includes maintaining appropriate student-teacher ratios.
 
-Executive Order No. 349: REVISION TO DEPED ORDER NO. 77 S. 2010 ( uidelines on the Allocation/Deployment of New Teaching, Teaching-Related and Non-teaching positions for FY 2010)
+Executive Order No. 349: REVISION TO DEPED ORDER NO. 77 S. 2010 (Guidelines on the Allocation/Deployment of New Teaching, Teaching-Related and Non-teaching positions for FY 2010)
 
 The ideal pupil-teacher ratio is 25:1 (per Executive Order No. 349). Teachers to be hired must be holders of Bachelor of Science in Education major in Early Childhood Education (ECE), or Bachelor's degree in Education with 18 units in ECE. School fees:
 
@@ -2208,7 +2211,7 @@ R.A. 10931 or Universal Access to Quality Tertiary Education Act Universal Acces
 
 This act provides for free tuition and other school fees in state universities and colleges (SUCs), local universities and colleges (LUCs), and state-run technical-vocational institutions. It ensures that qualified students in these institutions are exempted from paying tuition and other mandatory fees. The act also includes provisions for subsidies and loans to support students in private higher education institutions and technical-vocational education and training (TVET) programs. Department of Education Orders and  uidelines
 
-DepEd Order No. 19, s. 2008 (Implementation of No Collection Policy in Public Elementary and Secondary Schools):  No fees shall be collected from school children enrolling in pre-school up to  rade IV, during the enrollment period and at any time during the school year.
+DepEd Order No. 19, s. 2008 (Implementation of No Collection Policy in Public Elementary and Secondary Schools):  No fees shall be collected from school children enrolling in pre-school up to Grade IV, during the enrollment period and at any time during the school year.
 
 Commission on Higher Education (CHED) Policies
 
@@ -2216,7 +2219,7 @@ CHED Memorandum Orders (CMOs): CHED regulates the imposition of fees in higher e
 
 Technical Education and Skills Development Authority (TESDA) Policies
 
-TESDA  uidelines: TESDA regulates fees for technical-vocational education and training (TVET) programs. Public TVET programs offered by state-run institutions are generally tuition-free under the Universal Access to Quality Tertiary Education Act.
+TESDA Guidelines: TESDA regulates fees for technical-vocational education and training (TVET) programs. Public TVET programs offered by state-run institutions are generally tuition-free under the Universal Access to Quality Tertiary Education Act.
 
 - What challenges were encountered in realizing quality education? [Non-supportive or inadequate learning environments]
 
@@ -2245,7 +2248,7 @@ page 43 / 60
 [[START OF PAGE 44]]
 
 - What challenges were encountered in realizing quality education? [Inadequate parental support to education]
----
+
 Yes
 - What challenges were encountered in realizing quality education? [Long distances to schools]
 Yes
@@ -2289,13 +2292,13 @@ UN bodies have repeatedly called on states to eliminate all barriers to schoolin
 
 Privatization and Commercialization
 
-Privatization, Commercialization, and Low  overnment Financing in Education: Infringing on the Right to Education of Filipinos The primary importance being given to Public-Private Partnerships (PPPs), which enjoy support from and institutionalized by government policies and programs clearly indicates a general bias for the private sector.
+Privatization, Commercialization, and Low Government Financing in Education: Infringing on the Right to Education of Filipinos The primary importance being given to Public-Private Partnerships (PPPs), which enjoy support from and institutionalized by government policies and programs clearly indicates a general bias for the private sector.
 
-The Education Service Contracting (ESC) under Expanded  overnment Assistance To Students And Teachers In Private Education Act (E- ASTPE) is considered as the world's largest and longest running PPP in education. The ESC is a scheme involving public subsidies for each student enrolled in eligible private schools. The ESC provides an annual per pupil subsidy to certified private high schools to accept public school students who cannot be accommodated in nearby congested public high schools. The ESC is not a full subsidy, rather a flat fee of 6,500 pesos (USD 151) per pupil across the country, other than in the National Capital Region, where it is 10,000 pesos (USD 232) per year. Parents are then required to pay top-up fees bridging the difference between the ESC grant and the total cost of tuition. (World Bank, 2010).
+The Education Service Contracting (ESC) under Expanded Government Assistance To Students And Teachers In Private Education Act (E-GASTPE) is considered as the world's largest and longest running PPP in education. The ESC is a scheme involving public subsidies for each student enrolled in eligible private schools. The ESC provides an annual per pupil subsidy to certified private high schools to accept public school students who cannot be accommodated in nearby congested public high schools. The ESC is not a full subsidy, rather a flat fee of 6,500 pesos (USD 151) per pupil across the country, other than in the National Capital Region, where it is 10,000 pesos (USD 232) per year. Parents are then required to pay top-up fees bridging the difference between the ESC grant and the total cost of tuition. (World Bank, 2010).
 
-ASTPE and Expanded  ASTPE including the SHS Voucher System funding has become the single largest budget item of DepEd since 2016.
+GASTPE and Expanded GASTPE including the SHS Voucher System funding has become the single largest budget item of DepEd since 2016.
 
-- 2018: PhP 39.3 billion annual budget for SHS under E- ASTPE
+- 2018: PhP 39.3 billion annual budget for SHS under E-GASTPE
 
 - 2019: PhP 32.12 billion
 
@@ -2321,7 +2324,7 @@ COVID-19 Impacts on Low Income Families in the Philippines
 
 The COVID-19 pandemic has caused a dramatic disruption in the delivery of education and health services in the Philippines.
 
-Schools were closed in March 2020 as part of COVID-19 containment measures, only to be reopened with distance learning in October 2020. As of mid-February 2021, the country stands out as one of few countries which have banned all face-to-face classes since the start of the pandemic with no clear plans to resume them. With school closures and challenges in the delivery of distance learning, students' learning losses are expected to be enormous. Meanwhile, the health system is strained under the challenge of management of COVID-19 cases which likely crowd out the delivery of essential health services.
+Schools were closed in March 2020 as part of COVID-19 containment measures, only to be reopened with distance learning in
 
 page 45 / 60
 
@@ -2329,9 +2332,11 @@ page 45 / 60
 
 [[START OF PAGE 46]]
 
+October 2020. As of mid-February 2021, the country stands out as one of few countries which have banned all face-to-face classes since the start of the pandemic with no clear plans to resume them. With school closures and challenges in the delivery of distance learning, students' learning losses are expected to be enormous. Meanwhile, the health system is strained under the challenge of management of COVID-19 cases which likely crowd out the delivery of essential health services.
+
 COVID-19 crisis and a new social contract for education in the Philippines
 
-Due to one of the longest and strictest lockdowns in the world, limited in-person teaching in the Philippines only resumed in late 2021. More than 27 million children have been out of school. The country's Department of Education (DepEd) was only able to allow 100 public schools to take part in its pilot run of face-to-face classes in November 2021. Only five thousand students went back to the physical classroom. The Philippine national government has no choice but to continue to rely on remote learning. This has set the Philippines back in attaining UN Sustainable Development  oal (SD ) 4: Quality Education which aims to achieve inclusive and equitable quality education and to promote lifelong educational opportunities for all.
+Due to one of the longest and strictest lockdowns in the world, limited in-person teaching in the Philippines only resumed in late 2021. More than 27 million children have been out of school. The country's Department of Education (DepEd) was only able to allow 100 public schools to take part in its pilot run of face-to-face classes in November 2021. Only five thousand students went back to the physical classroom. The Philippine national government has no choice but to continue to rely on remote learning. This has set the Philippines back in attaining UN Sustainable Development Goal (SDG) 4: Quality Education which aims to achieve inclusive and equitable quality education and to promote lifelong educational opportunities for all.
 
 The Basic Educational-Learning Continuity Plan (BE-LCP) has been the DepEd's flagship response since the beginning of the pandemic. Aiming to deliver quality education in the 'new normal' setting, the BE-LCP involves the distribution of self-learning modules integrated with alternative learning modalities such as online, blended, television-based, and radio-based instructions. This programme has safeguarded not just students, but also teachers and staff, from contracting COVID-19. Nonetheless, the national government's earnest efforts to deliver inclusive quality education were met with challenges.
 
@@ -2355,14 +2360,14 @@ PIDS study reveals serious school infrastructure gaps in PH basic educ sector
 
 According to 2020 data from DepEd, 1,562 schools still had no electricity connection, and 39,335 schools needed upgrading of their electrical connections.
 
-aps in ICT access, particularly in terms of unmet delivery targets for computer package-the focus of the ICT developmental objective in the Philippine basic education sector-were also found in the study.
+Gaps in ICT access, particularly in terms of unmet delivery targets for computer package—the focus of the ICT developmental objective in the Philippine basic education sector—were also found in the study.
 
 Philippine schools have low computer and internet access rates, unlike those in many neighboring countries which had already achieved universal access to computers and internet for their schools.
 
 Marginalized students living in areas without electricity face the problem of connectivity and access to new technologies, apart from the cost entailed in the usage of the internet.
 
 #### 3.2 Education personnel
-For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SD  target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Teacher training is provided without discrimination.]
+For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Teacher training is provided without discrimination.]
 
 Yes
 
@@ -2372,35 +2377,35 @@ page 46 / 60
 
 [[START OF PAGE 47]]
 
-3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SD  target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Teachers' average salaries are competitive or at least comparable to those paid in other professions requiring similar or equivalent qualifications (at all levels).]
+3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Teachers' average salaries are competitive or at least comparable to those paid in other professions requiring similar or equivalent qualifications (at all levels).]
 
 Yes
 
-3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SD  target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Initial training and continuous professional development are provided.]
+3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Initial training and continuous professional development are provided.]
 
 Yes
 
-3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SD  target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Minimum standards and qualifications required for the teaching profession.]
+3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Minimum standards and qualifications required for the teaching profession.]
 
 Yes
 
-3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SD  target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Measures taken to strengthen the social status and attractiveness of the teaching profession.]
+3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Measures taken to strengthen the social status and attractiveness of the teaching profession.]
 
 Yes
 
-3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SD  target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Measures taken to promote diversity in the teaching workforce, including to redress gender imbalances at different levels of education.]
+3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Measures taken to promote diversity in the teaching workforce, including to redress gender imbalances at different levels of education.]
 
 Yes
 
-3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SD  target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Establishment of performance monitoring systems.]
+3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Establishment of performance monitoring systems.]
 
 Yes
 
-3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SD  target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Measures taken to increase women in leadership positions in education.]
+3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Measures taken to increase women in leadership positions in education.]
 
 Yes
 
-3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SD  target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Other]
+3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Other]
 
 page 47 / 60
 
@@ -2418,7 +2423,7 @@ Freedom from Discrimination Republic Act No. 4670 Section 10. No Discrimination.
 
 The correct and full implementation of RA 4670 the Magna Carta for Public School teachers will greatly strengthen and reinforce the recruitment of new teachers and keep existing teachers in the profession. It will promote and improve the social and economic status of public school teachers. It seeks to enhance their living and working conditions, terms of employment, and career prospects.
 
-- Measures taken to increase women in leadership positions in education.
+4.	Measures taken to increase women in leadership positions in education.
 
 Though the teaching profession is highly feminized, but then, inclusion of women in the hiring and promotion committees are dominated by men. That's why there is no parity or balance in terms of gender distribution.
 
@@ -2426,17 +2431,17 @@ Public School Teachers
 
 Public school teachers' salaries are determined by the RA No. 11466 otherwise known as the 'Salary Standardization Law of 2019,' and are categorized into different salary grades.
 
-Entry-Level Salary: As of 2023, an entry-level public school teacher (Salary  rade 11) earns approximately PHP 27,000 to PHP 29,000 per month.
+Entry-Level Salary: As of 2023, an entry-level public school teacher (Salary Grade 11) earns approximately PHP 27,000 to PHP 29,000 per month.
 
 Private School Teachers
 
-The private school teachers' salaries vary significantly depending on the institution, location, and financial capability of the school. enerally, private school teachers may earn less than their public school counterparts whose salaries are standardized and regularly adjusted through government initiatives like the Salary Standardization Law (SSL). However, prestigious private institutions may offer competitive salaries that exceed public school rates.
+The private school teachers' salaries vary significantly depending on the institution, location, and financial capability of the school. Generally, private school teachers may earn less than their public school counterparts whose salaries are standardized and regularly adjusted through government initiatives like the Salary Standardization Law (SSL). However, prestigious private institutions may offer competitive salaries that exceed public school rates.
 
 PHP 50,000.00 salary for entry-level public school teachers sought
 
 A bill seeking to raise the monthly salary of public school teachers to meet the 'family living wage' needed for a decent standard of living has been filed in the House of Representatives.
 
-House Bill 9920 - filed by Makabayan bloc lawmakers on Tuesday - increases entry-level public school teachers' monthly salary to P50,000 or Salary  rade 15 from the current P27,000 or Salary  rade 11. The proposed wage hike, which nearly doubles the current wages received by public school educators, takes into account the rising prices of basic goods and the 'distortion' caused  by the two-fold jump in military personnel's wages during the term of former President Rodrigo Duterte, the bill's explanatory note stated.
+House Bill 9920 - filed by Makabayan bloc lawmakers on Tuesday - increases entry-level public school teachers' monthly salary to P50,000 or Salary Grade 15 from the current P27,000 or Salary Grade 11. The proposed wage hike, which nearly doubles the current wages received by public school educators, takes into account the rising prices of basic goods and the 'distortion' caused  by the two-fold jump in military personnel's wages during the term of former President Rodrigo Duterte, the bill's explanatory note stated.
 
 Initial training and continuous professional development are provided
 
@@ -2470,7 +2475,7 @@ Initial teacher education programs are offered through various colleges and univ
 
 Continuing Professional Development Act of 2016
 
-Sec. 3 (f) Continuing Professional Development or CPD refers to the inculcation of advanced knowledge, skills and ethical values in a post-licensure specialization or in an inter- or multidisciplinary field of study, for assimilation into professional prac tice, selfdirected research and/or lifelong learning:
+Sec. 3 (f) Continuing Professional Development or CPD refers to the inculcation of advanced knowledge, skills and ethical values in a post-licensure specialization or in an inter- or multidisciplinary field of study, for assimilation into professional prac tice, self-directed research and/or lifelong learning:
 
 Minimum standards and qualifications required for the teaching profession.
 
@@ -2498,7 +2503,7 @@ The exam is administered by the Professional Regulation Commission (PRC) twice a
 
 The LET is divided into two main parts:
 
-●	 eneral Education: Covers subjects such as English, Filipino, Mathematics, Science, and Social Sciences.
+●	General Education: Covers subjects such as English, Filipino, Mathematics, Science, and Social Sciences.
 
 - Professional Education: Includes teaching methodologies, principles of teaching, educational technology, curriculum development, and assessment and evaluation of learning.
 
@@ -2526,9 +2531,9 @@ Teachers who wish to specialize in certain areas, such as special education, tec
 
 Measures taken to promote diversity in the teaching workforce, including to redress gender imbalances at different levels of education
 
-The Magna Carta of Women (Republic Act No. 9710) defines  ender and Development Program ( AD) as the development perspective and process that is participatory and empowering, equitable, sustainable, free from violence, respectful of human rights, supportive of self-determination and actualization of human potential. It seeks to achieve gender equality as a fundamental value that should be reflected in development choices and contends that women are active agents of development, not just passive recipients of development.
+The Magna Carta of Women (Republic Act No. 9710) defines Gender and Development Program (GAD) as the development perspective and process that is participatory and empowering, equitable, sustainable, free from violence, respectful of human rights, supportive of self-determination and actualization of human potential. It seeks to achieve gender equality as a fundamental value that should be reflected in development choices and contends that women are active agents of development, not just passive recipients of development.
 
-- AD focuses on  ender Mainstreaming or a strategy for:
+GAD focuses on Gender Mainstreaming or a strategy for:
 
 - Making women's as well as men's concerns and experiences an integral dimension of the design, implementation, monitoring, and evaluation of policies, programs and projects in
 
@@ -2538,9 +2543,9 @@ The Magna Carta of Women (Republic Act No. 9710) defines  ender and Development 
 
 Establishment of performance monitoring systems
 
-DO 2, S. 2015 -  UIDELINES ON THE ESTABLISHMENT AND IMPLEMENTATION OF THE RESULTS-BASED PERFORMANCE MANA EMENT SYSTEM (RPMS) IN THE DEPARTMENT OF EDUCATION
+DO 2, S. 2015 - GUIDELINES ON THE ESTABLISHMENT AND IMPLEMENTATION OF THE RESULTS-BASED PERFORMANCE MANAGEMENT SYSTEM (RPMS) IN THE DEPARTMENT OF EDUCATION
 
-It aims to provide comprehensive guidelines for the adoption of the Civil Service Commission's (CSC) Strategic Performance Management System (SPMS) in DepEd. These guidelines stipulate the specific mechanisms, criteria and processes for the performance target setting, monitoring, evaluation and development planning for schools and offices, covering all officials and employees, school-based and non school-based, in the Department holding regular plantilla positions. Personnel under contracts of service/job order and L U-funded employees shall likewise be covered, but for purposes of performance evaluation only. Key Components:
+It aims to provide comprehensive guidelines for the adoption of the Civil Service Commission's (CSC) Strategic Performance Management System (SPMS) in DepEd. These guidelines stipulate the specific mechanisms, criteria and processes for the performance target setting, monitoring, evaluation and development planning for schools and offices, covering all officials and employees, school-based and non school-based, in the Department holding regular plantilla positions. Personnel under contracts of service/job order and LGU-funded employees shall likewise be covered, but for purposes of performance evaluation only. Key Components:
 
 - Performance Indicators: Specific, measurable indicators aligned with the Philippine Professional Standards for Teachers (PPST).
 
@@ -2624,22 +2629,22 @@ Lack of classrooms, teachers among challenges faced on school opening day
 
 A shortage in classrooms and lack of teachers were among the challenges faced by several schools as classes for School Year 2022-2023 opened. For instance, the number of students per section will also be limited to 50. Josette Terrora, a school principal, said they had to stop the enrollment in other tracks as they also have a shortage in teachers.
 
-' laring' teacher shortage on school opening day needs 'strategic' solutions - lawmaker
+'Glaring' teacher shortage on school opening day needs 'strategic' solutions - lawmaker
 
 While DepEd in recent years managed to whittle down the teacher-to-student ratio to around 1:31 for elementary, 1:36 for junior high school and 1:31 for senior high school (as of SY 2017- 2018), several schools, especially in highly urbanized cities, continue to have large class sizes.
 
 Commission on Audit reports on DepEd from 2019 to 2021 show that DepEd has struggled to fill its target number of teaching positions despite modicum increases in pay.
 
 #### 3.3 Respect for human rights and fundamental freedoms
-For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SD  target 4.7.[1] Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation and that the future consultation on the 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on [….] will be used specifically for monitoring SD 4 indicator 4.7.1. - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked): [1] Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'. [Curriculum includes human rights education.]
+For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SDG target 4.7.[1] Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation and that the future consultation on the 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on [….] will be used specifically for monitoring SDG4 indicator 4.7.1. - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked): [1] Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'. [Curriculum includes human rights education.]
 
 No
 
-3.3 Respect for human rights and fundamental freedoms For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SD  target 4.7.[1] Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation and that the future consultation on the 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on [….] will be used specifically for monitoring SD 4 indicator 4.7.1. - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked): [1] Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'. [Educational and/or extracurricular activities are organized on human rights education.]
+3.3 Respect for human rights and fundamental freedoms For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SDG target 4.7.[1] Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation and that the future consultation on the 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on [….] will be used specifically for monitoring SDG4 indicator 4.7.1. - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked): [1] Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'. [Educational and/or extracurricular activities are organized on human rights education.]
 
 No
 
-3.3 Respect for human rights and fundamental freedoms For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SD  target 4.7.[1] Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation and that the future consultation on the 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on [….] will be used specifically for monitoring SD 4 indicator 4.7.1. - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked): [1] Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'. [Other]
+3.3 Respect for human rights and fundamental freedoms For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SDG target 4.7.[1] Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation and that the future consultation on the 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on [….] will be used specifically for monitoring SDG4 indicator 4.7.1. - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked): [1] Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'. [Other]
 
 page 51 / 60
 
@@ -2657,7 +2662,7 @@ Article XIV, Section 3(2) states that "all educational institutions shall includ
 
 All schools at all levels including non-formal education and technical and vocational education programs shall include in their curricula the study of human rights, as well as the responsibilities that accompany them, which is one of the values indicated in the DECS Values Education Frameworks.
 
-In the elementary and secondary levels, human rights lessons can be integrated in Civics, Culture,  eography and History and Social Studies respectively: in the tertiary level, this can be integrated for example in Political Science or History. Schools are given the option to determine how human rights teaching is appropriately integrated in their subject offerings. Non-formal education and technical and vocational education programs shall make provisions for studying and emphasizing the importance of respect for human rights and their accompanying responsibilities.
+In the elementary and secondary levels, human rights lessons can be integrated in Civics, Culture, Geography and History and Social Studies respectively: in the tertiary level, this can be integrated for example in Political Science or History. Schools are given the option to determine how human rights teaching is appropriately integrated in their subject offerings. Non-formal education and technical and vocational education programs shall make provisions for studying and emphasizing the importance of respect for human rights and their accompanying responsibilities.
 
 Basic Education Curriculum (K-12)
 
@@ -2669,7 +2674,7 @@ Edukasyon sa Pagpapakatao (Values Education)
 
 This subject includes lessons on moral and ethical values, emphasizing respect for human dignity and human rights. It aims to instill a sense of social responsibility and respect for others.
 
-Senior High School ( rades 11-12)
+Senior High School (Grades 11-12)
 
 Contemporary Issues
 
@@ -2681,14 +2686,14 @@ Some specialized subjects, such as the Humanities and Social Sciences (HUMSS) tr
 
 Higher Education
 
-eneral Education Curriculum
+General Education Curriculum
 
 Universities and colleges include human rights education in their general education curriculum. Courses in political science, sociology, law, and other related fields often cover human rights extensively.
 
 #### 3.4 Non-state actors in education
 For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the
 
-Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1]  Private, faith-based, N Os, community actors. [Legal provisions prohibiting discrimination on the grounds listed by the
+Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1]  Private, faith-based, NGOs, community actors. [Legal provisions prohibiting discrimination on the grounds listed by the
 
 Convention/Recommendation explicitly apply to non-state educational institutions. Please specify:]
 
@@ -2696,13 +2701,13 @@ No
 
 3.4 Non-state actors in education For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the
 
-Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1]  Private, faith-based, N Os, community actors. [Legal provisions prohibiting discrimination on the grounds listed by the
+Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1]  Private, faith-based, NGOs, community actors. [Legal provisions prohibiting discrimination on the grounds listed by the
 
 Convention/Recommendation explicitly apply to non-state educational institutions. Please specify:][Comment]
 
 3.4 Non-state actors in education For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the
 
-Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1]  Private, faith-based, N Os, community actors. [Policies aim to guarantee that the development of non-state education does not generate discrimination and that non-state actors offer a relevant alternative (without supplanting public education). Please specify:]
+Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1]  Private, faith-based, NGOs, community actors. [Policies aim to guarantee that the development of non-state education does not generate discrimination and that non-state actors offer a relevant alternative (without supplanting public education). Please specify:]
 
 Yes
 
@@ -2712,21 +2717,21 @@ page 52 / 60
 
 [[START OF PAGE 53]]
 
-3.4 Non-state actors in education For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1]  Private, faith-based, N Os, community actors. [Policies aim to guarantee that the development of non-state education does not generate discrimination and that non-state actors offer a relevant alternative (without supplanting public education). Please specify:][Comment]
+3.4 Non-state actors in education For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1]  Private, faith-based, NGOs, community actors. [Policies aim to guarantee that the development of non-state education does not generate discrimination and that non-state actors offer a relevant alternative (without supplanting public education). Please specify:][Comment]
 
-Recognition and Regulation Non-state educational institutions, including private schools and higher education institutions, are required to be recognized and regulated by the Department of Education (DepEd) or the Commission on Higher Education (CHED), respectively. They must meet minimum standards and requirements set by these agencies to ensure quality education and prevent discrimination. Accreditation Standards Accreditation processes ensure that non-state educational institutions adhere to educational standards, including non-discrimination policies. This includes the provision of accessible education for all, regardless of background, gender, religion, or disability. DepEd Orders and Memoranda DepEd issues orders and memoranda that promote non-discrimination in schools, both public and private. Policies include guidelines for preventing discrimination based on gender, disability, socio- economic status, and other factors. DO 32, S. 2017 -  ENDER-RESPONSIVE BASIC EDUCATION POLICY in line with its  ender and Development ( AD) mandate as stipulated in the 1987 Philippine Constitution, Republic Act (RA) No. 9710 or the Magna Carta of Women (MCW), RA 10533 or the Enhanced Basic Education Act of 2013, and the Philippines' International Human Rights Commitments to the Universal Declaration of Human Rights (UDHR), Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW), and the Convention on the Rights of the Child (CRC) among others. This policy seeks to enable the DepEd to undertake gender-mainstreaming in education to address both enduring and emerging gender and sexuality-related issues in basic education, to promote the protection of children from all forms of genderrelated violence, abuse, exploitation, discrimination, bullying, and to promote gender equality and non-discrimination in the workplace and within DepEd. The Magna Carta of Women (Republic Act No. 9710) defines  ender and  Development Program ( AD) as the development perspective and process that is participatory and empowering, equitable, sustainable, free from violence, respectful of human rights, supportive of self-determination and actualization of human potentials. DO 40, S. 2012 DEPED CHILD PROTECTION POLICY - Protecting Children in School from Abuse, Violence, Exploitation, Discrimination, Bullying and Other Forms of Abuse  Private TVET providers are also required to comply with TESDA regulations under the Unified TVET Program Registration and Accreditation System (UTPRAS) and Philippine TVET Competency Assessment and Certification System PTCACS)
+Recognition and Regulation Non-state educational institutions, including private schools and higher education institutions, are required to be recognized and regulated by the Department of Education (DepEd) or the Commission on Higher Education (CHED), respectively. They must meet minimum standards and requirements set by these agencies to ensure quality education and prevent discrimination. Accreditation Standards Accreditation processes ensure that non-state educational institutions adhere to educational standards, including non-discrimination policies. This includes the provision of accessible education for all, regardless of background, gender, religion, or disability. DepEd Orders and Memoranda DepEd issues orders and memoranda that promote non-discrimination in schools, both public and private. Policies include guidelines for preventing discrimination based on gender, disability, socio- economic status, and other factors. DO 32, S. 2017 - GENDER-RESPONSIVE BASIC EDUCATION POLICY in line with its Gender and Development (GAD) mandate as stipulated in the 1987 Philippine Constitution, Republic Act (RA) No. 9710 or the Magna Carta of Women (MCW), RA 10533 or the Enhanced Basic Education Act of 2013, and the Philippines' International Human Rights Commitments to the Universal Declaration of Human Rights (UDHR), Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW), and the Convention on the Rights of the Child (CRC) among others. This policy seeks to enable the DepEd to undertake gender-mainstreaming in education to address both enduring and emerging gender and sexuality-related issues in basic education, to promote the protection of children from all forms of gender-related violence, abuse, exploitation, discrimination, bullying, and to promote gender equality and non-discrimination in the workplace and within DepEd. The Magna Carta of Women (Republic Act No. 9710) defines Gender and Development Program (GAD) as the development perspective and process that is participatory and empowering, equitable, sustainable, free from violence, respectful of human rights, supportive of self-determination and actualization of human potentials. DO 40, S. 2012 - DEPED CHILD PROTECTION POLICY - Protecting Children in School from Abuse, Violence, Exploitation, Discrimination, Bullying and Other Forms of Abuse Private TVET providers are also required to comply with TESDA regulations under the Unified TVET Program Registration and Accreditation System (UTPRAS) and Philippine TVET Competency Assessment and Certification System PTCACS)
 
-3.4 Non-state actors in education For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1]  Private, faith-based, N Os, community actors. [Legal provisions provide for the rights of the parents /legal guardians for providing religious and moral education for their children. Please specify:]
-
-No
-
-3.4 Non-state actors in education For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1]  Private, faith-based, N Os, community actors. [Legal provisions provide for the rights of the parents /legal guardians for providing religious and moral education for their children. Please specify:][Comment]
-
-3.4 Non-state actors in education For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1]  Private, faith-based, N Os, community actors. [Legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of non-state educational institutions. Please specify what is covered:]
+3.4 Non-state actors in education For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1]  Private, faith-based, NGOs, community actors. [Legal provisions provide for the rights of the parents /legal guardians for providing religious and moral education for their children. Please specify:]
 
 No
 
-3.4 Non-state actors in education For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1]  Private, faith-based, N Os, community actors. [Legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of non-state educational institutions. Please specify what is covered:][Comment]
+3.4 Non-state actors in education For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1]  Private, faith-based, NGOs, community actors. [Legal provisions provide for the rights of the parents /legal guardians for providing religious and moral education for their children. Please specify:][Comment]
+
+3.4 Non-state actors in education For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1]  Private, faith-based, NGOs, community actors. [Legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of non-state educational institutions. Please specify what is covered:]
+
+No
+
+3.4 Non-state actors in education For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1]  Private, faith-based, NGOs, community actors. [Legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of non-state educational institutions. Please specify what is covered:][Comment]
 
 Legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of non-state educational institutions. Please specify what is covered: [Registration]
 
@@ -2800,11 +2805,11 @@ No
 
 THE 1987 CONSTITUTION OF THE REPUBLIC OF THE PHILIPPINES - ARTICLE XIV
 
-- At the option expressed in writing by the parents or guardians, religion shall be allowed to be taught to their children or wards in public elementary and high schools within the regular class hours by instructors designated or approved by the religious authorities of the religion to which the children or wards belong, without additional cost to the  overnment.
+(3) At the option expressed in writing by the parents or guardians, religion shall be allowed to be taught to their children or wards in public elementary and high schools within the regular class hours by instructors designated or approved by the religious authorities of the religion to which the children or wards belong, without additional cost to the Government.
 
-Executive Order No. 209, s. 1987 THE FAMILY CODE OF THE PHILIPPINES TITLE IX PARENTAL AUTHORITY CHAPTER 1. ENERAL PROVISIONS
+Executive Order No. 209, s. 1987 THE FAMILY CODE OF THE PHILIPPINES TITLE IX PARENTAL AUTHORITY CHAPTER 1. GENERAL PROVISIONS
 
-- Art. 209. Pursuant to the natural right and duty of parents over the person and property of their unemancipated children, parental authority and responsibility shall include the caring for and rearing them for civic consciousness and efficiency and the development of their moral, mental and physical character and well-being.
+Art. 209. Pursuant to the natural right and duty of parents over the person and property of their unemancipated children, parental authority and responsibility shall include the caring for and rearing them for civic consciousness and efficiency and the development of their moral, mental and physical character and well-being.
 
 page 54 / 60
 
@@ -2813,35 +2818,35 @@ page 54 / 60
 [[START OF PAGE 55]]
 
 #### 3.5 Digital education
-Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see  eneral Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment. [Digital technology use in education is provided for in the legal framework.]
+Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment. [Digital technology use in education is provided for in the legal framework.]
 
 No
 
-3.5 Digital education Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see  eneral Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment. [Core legislations, policies, strategies or plans for the management, privacy, security, storage, transfer, use, and sharing of education data internally and externally to ensure the right to privacy of learners and education stakeholders (e.g., informed consent, transparent usage policies, etc.)]
+3.5 Digital education Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment. [Core legislations, policies, strategies or plans for the management, privacy, security, storage, transfer, use, and sharing of education data internally and externally to ensure the right to privacy of learners and education stakeholders (e.g., informed consent, transparent usage policies, etc.)]
 
 Yes
 
-3.5 Digital education Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see  eneral Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment. [Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.]
+3.5 Digital education Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment. [Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.]
 
 No
 
-3.5 Digital education Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see  eneral Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment. [Measures to remove barriers to accessing digital content , including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.]
+3.5 Digital education Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment. [Measures to remove barriers to accessing digital content , including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.]
 
 No
 
-3.5 Digital education Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see  eneral Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment. [Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a culture of digital innovation and growth anchored in equity and inclusion that enables ongoing professional development for existing and emerging staff.]
+3.5 Digital education Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment. [Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a culture of digital innovation and growth anchored in equity and inclusion that enables ongoing professional development for existing and emerging staff.]
 
 Yes
 
-3.5 Digital education Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see  eneral Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment. [Future-ready skills (including digital skills, data and AI competencies, critical thinking, etc.) integrated into formal curriculum at all levels of education ]
+3.5 Digital education Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment. [Future-ready skills (including digital skills, data and AI competencies, critical thinking, etc.) integrated into formal curriculum at all levels of education ]
 
 Yes
 
-3.5 Digital education Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see  eneral Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment. [Measures address the digital divide, including ensuring access to reliable electricity, meaningful internet connectivity at school and at home, devices suitable for learning and teaching, safe and sustainable software and secure platforms, and integrated education data systems.]
+3.5 Digital education Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment. [Measures address the digital divide, including ensuring access to reliable electricity, meaningful internet connectivity at school and at home, devices suitable for learning and teaching, safe and sustainable software and secure platforms, and integrated education data systems.]
 
 No
 
-3.5 Digital education Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see  eneral Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment. [A wellestablished, sustainable, and cost-effective budget secured from a range of funding sources and intersectoral cooperation, supported by impact focused reporting linked to regional strategic goals.]
+3.5 Digital education Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment. [A well-established, sustainable, and cost-effective budget secured from a range of funding sources and intersectoral cooperation, supported by impact focused reporting linked to regional strategic goals.]
 
 No
 
@@ -2855,11 +2860,11 @@ page 55 / 60
 
 Enhanced Basic Education Act of 2013
 
-Policy  uidelines on the K to 12 Basic Education Program
+Policy Guidelines on the K to 12 Basic Education Program
 
 DepEd envisions Information and Communications. Technology (ICT) as a powerful tool and an important medium in delivering curriculum.
 
-JUNE 10, 2010 DO 78, S. 2010 -  UIDELINES ON THE IMPLEMENTATION OF THE DEPED COMPUTERIZATION PRO RAM (DCP)
+JUNE 10, 2010 DO 78, S. 2010 - GUIDELINES ON THE IMPLEMENTATION OF THE DEPED COMPUTERIZATION PROGRAM (DCP)
 
 Through this program and the combined efforts of other government agencies and the private sector, 5,409 public secondary schools have been provided with at least one computer laboratory each. This ranges from 10-20 computer units including other peripherals depending on the agencies providing the computer units. The objectives of the DepEd Computerization Program are
 
@@ -2879,7 +2884,7 @@ as follows:
 
 Republic Act No. 11927 - An Act To Enhance The Philippine Digital Workforce Competitiveness, Establishing For The Purpose An Inter-Agency Council For Development And Competitiveness Of Philippine Digital Workforce And For Other Purposes
 
-- What challenges were encountered in digital education provision (check all that apply)? [Lack of quality, curriculumaligned digital teaching and learning content that supports flexible learning and teaching pathways]
+- What challenges were encountered in digital education provision (check all that apply)? [Lack of quality, curriculum-aligned digital teaching and learning content that supports flexible learning and teaching pathways]
 
 Yes
 
@@ -2933,7 +2938,7 @@ UNESCO: Philippines still lacking in computers for students' learning
 
 While the Philippines is among the countries whose school administrators welcomed the adoption and use of technology in the curriculum and school management, it remains among the countries where most students do not have a computer for learning activities, a global education report has bared.
 
-In the 2023  lobal Education Monitoring ( EM) Report of the United Nations Educational, Scientific and Cultural Organization (UNESCO), the Philippines is noted as one of the countries that has positive 'administrator attitudes' because of the adoption and use of technology in basic education curriculum and school management.
+In the 2023 Global Education Monitoring (GEM) Report of the United Nations Educational, Scientific and Cultural Organization (UNESCO), the Philippines is noted as one of the countries that has positive 'administrator attitudes' because of the adoption and use of technology in basic education curriculum and school management.
 
 However, it was among the countries reported to have insufficient computers in schools, leading to more disadvantaged students, especially in rural areas.
 
@@ -2941,7 +2946,7 @@ Disadvantaged groups have fewer resources at home, own fewer devices and are les
 
 Philippines internet divide expanding
 
-According to an April 4 World Bank blog report titled 'Upgrading Philippine Internet for Faster and Inclusive  rowth,' jointly written by Naoto Kanehira, Mitch Abdon and Mary  race Mirandilla- Santos, the access gap in broadband internet between the rich and the poor in the Philippines has been rapidly expanding, making digital opportunities out of reach for many.
+According to an April 4 World Bank blog report titled 'Upgrading Philippine Internet for Faster and Inclusive Growth,' jointly written by Naoto Kanehira, Mitch Abdon and Mary Grace Mirandilla- Santos, the access gap in broadband internet between the rich and the poor in the Philippines has been rapidly expanding, making digital opportunities out of reach for many.
 
 According to their report, from 2019 to 2022, access to fixed broadband increased by around 20 percentage points for the richest 40 percent of the population, against less than three percentage points for the poorest, and around seven percentage points for the lower-middle income group.
 
@@ -2985,7 +2990,7 @@ page 57 / 60
 
 Yes
 
-- Please indicate the measures taken in terms of governance (several items may be ticked): [Ensuring crisissensitive and disaster risk-informed planning and programming, including the provision of quality education in emergencies.]
+- Please indicate the measures taken in terms of governance (several items may be ticked): [Ensuring crisis-sensitive and disaster risk-informed planning and programming, including the provision of quality education in emergencies.]
 
 No
 
@@ -2995,17 +3000,17 @@ No
 
 - Please elaborate. Brief quantitative information may be added.
 
-The results of SD  monitoring are generally made public in the Philippines. The Philippine Statistics Office (PSO) has published various reports and data sets related to the SD s, including the "Philippine SD  Progress Report," which presents progress on SD  indicators for the Philippines. These reports and data sets are made available through the PSO website and other government platforms, allowing for greater transparency and accountability in SD  implementation. In addition, civil society organizations and research institutions in the Philippines often conduct their own monitoring and analysis of SD  progress, making their findings public through reports, studies, and media coverage. https://psa.gov.ph/
+The results of SDG monitoring are generally made public in the Philippines. The Philippine Statistics Office (PSO) has published various reports and data sets related to the SDGs, including the "Philippine SDG Progress Report," which presents progress on SDG indicators for the Philippines. These reports and data sets are made available through the PSO website and other government platforms, allowing for greater transparency and accountability in SDG implementation. In addition, civil society organizations and research institutions in the Philippines often conduct their own monitoring and analysis of SDG progress, making their findings public through reports, studies, and media coverage. https://psa.gov.ph/
 
 TESDA Annual Reports: https://tesda.gov.ph/About/TESDA/21987
 
-The Philippine government has established monitoring mechanisms to assess its compliance with the right to education obligations and the Sustainable Development  oals (SD s), including through the use of management information systems. These systems, such as the Enhanced Basic Education Information System (EBEIS) and the Early Childhood Care and Development Information System (ECCD-IS), are designed to collect, manage, and analyze data on various aspects of the education system, including enrollment, completion rates, teacher performance, and educational infrastructure. This data is used to identify areas where the government needs to improve its policies and practices to ensure that all children have equal access to quality education.
+The Philippine government has established monitoring mechanisms to assess its compliance with the right to education obligations and the Sustainable Development Goals (SDGs), including through the use of management information systems. These systems, such as the Enhanced Basic Education Information System (EBEIS) and the Early Childhood Care and Development Information System (ECCD-IS), are designed to collect, manage, and analyze data on various aspects of the education system, including enrollment, completion rates, teacher performance, and educational infrastructure. This data is used to identify areas where the government needs to improve its policies and practices to ensure that all children have equal access to quality education.
 
-The NEDA SD  Stakeholders Chamber is a multistakeholder platform established by the National Economic and Development Authority (NEDA) of the Philippines to promote the achievement of the Sustainable Development  oals (SD s). It serves as a venue for diverse stakeholders, including civil society organizations, business leaders, and government agencies, to collaborate and identify concrete strategies to advance the SD s.The Chamber monitors the progress of SD  implementation in the country, identifies key gaps and challenges, and develops innovative solutions to address these issues.
+The NEDA SDG Stakeholders Chamber is a multistakeholder platform established by the National Economic and Development Authority (NEDA) of the Philippines to promote the achievement of the Sustainable Development Goals (SDGs). It serves as a venue for diverse stakeholders, including civil society organizations, business leaders, and government agencies, to collaborate and identify concrete strategies to advance the SDGs.The Chamber monitors the progress of SDG implementation in the country, identifies key gaps and challenges, and develops innovative solutions to address these issues.
 
-The Philippine Statistics Office (PSA), also known as the National Statistics Office, is the primary government agency responsible for collecting, processing, and disseminating statistical information on various aspects of the Philippine economy, society, and population. It was established in 1974 through the Presidential Decree No. 418, to provide a unified statistical system that will be responsible for developing, coordinating, and implementing national policies and programs for the development of statistics.The Philippine Statistics Office (PSO) plays a crucial role in the implementation and monitoring of the Sustainable Development  oals (SD s) in the Philippines. The PSO has been designated as the custodian agency for several SD  indicators,  responsible for collecting and analyzing data to measure progress towards the goals. It has developed a set of indicators that align with the SD s to monitor the country's performance in achieving the goals and provide policy recommendations to the governm ent.
+The Philippine Statistics Office (PSA), also known as the National Statistics Office, is the primary government agency responsible for collecting, processing, and disseminating statistical information on various aspects of the Philippine economy, society, and population. It was established in 1974 through the Presidential Decree No. 418, to provide a unified statistical system that will be responsible for developing, coordinating, and implementing national policies and programs for the development of statistics.The Philippine Statistics Office (PSO) plays a crucial role in the implementation and monitoring of the Sustainable Development Goals (SDGs) in the Philippines. The PSO has been designated as the custodian agency for several SDG indicators, responsible for collecting and analyzing data to measure progress towards the goals. It has developed a set of indicators that align with the SDGs to monitor the country's performance in achieving the goals and provide policy recommendations to the governm ent.
 
-The implementation of RA 9155, otherwise known as the  overnance of Basic Education Act of 2001, provides direction for decentralizing the system of management and governance at the school level and further recognizes the role of local government units and other stakeholders as partners in education service delivery. In 2012 the DepEd provided the parameters for exercising dentralized decision-making at the school level through DepEd Order No. 083, s 2012, Implementing  uidelines on the Revised School-Based Management (SBM) Framework, Assessment Process, and Tool. To further improve the SBM system, DepEd issued DO No. 007, s 2024, updating the SBM framework.
+The implementation of RA 9155, otherwise known as the Governance of Basic Education Act of 2001, provides direction for decentralizing the system of management and governance at the school level and further recognizes the role of local government units and other stakeholders as partners in education service delivery. In 2012 the DepEd provided the parameters for exercising dentralized decision-making at the school level through DepEd Order No. 083, s 2012, Implementing Guidelines on the Revised School-Based Management (SBM) Framework, Assessment Process, and Tool. To further improve the SBM system, DepEd issued DO No. 007, s 2024, updating the SBM framework.
 
 The following councils and boards play essential roles in shaping the direction, quality, and relevance of technical education and skills development in the country:
 
@@ -3053,7 +3058,7 @@ Yes
 
 Addressing access, equity, and inclusion in education requires not only an agenda but also sufficient education investments and a specific focus on marginalized sectors. Funding for marginalized, excluded and vulnerable sectors (MEVS) and Inclusive Education Programs remain minimal. Less than 2% is allocated for Inclusive Education Programs of the DepEd, with seven (7) programs under it. Disability-specific appropriation is estimated to be only 0.44% of the DepEd budget. The Alternative Learning System which is supposed to cater to OSY and adults who missed out on basic education, account for less than 1% of the education budget.
 
-The Philippines has taken steps to create platforms for civil society organizations (CSOs) and other education stakeholders to engage and participate in the education sector planning and monitoring. Specifically on the SD s, the NEDA Stakeholders Chamber on SD s serves as the platform of engagement between government and non-government actors for better resource management and coordination of the SD  goals and targets. Platforms specific to education include the Education Forum which is the Local (National) Education  roup recognized by the  lobal Partnership on Education ( PE), Philippine Open  overnment Partnership (O P) where there is an O P-Education. A new development is the creation of the Second Congressional Commission on Education (EDCOM 2) which is a national commission tasked to undertake a comprehensive national assessment and evaluation of the performance of the Philippine education sector for the purpose of recommending concrete and targeted reforms in the sector in the next three years, from 2023 to 2025. While these platforms exist, CSOs engaging in these spaces still view that the level of participation allowed by government is still limited and appears to be tokenistic rather than substantive. There are opportunities for discussion wherein CSOs are allowed to provide insights but very limited when it comes to decision-making and having issues addressed. Additionally, the government should consider regular evaluations and feedback mechanisms to assess the impact and effectiveness of these engagement platforms.The relationship between teachers' trade unions and the Philippine government and education agencies has been strained, with limited dialogue and engagement between the two parties. Teachers' unions often complain about a lack of consultation in policy decisions, inadequate support, and low salaries, while government officials and education agencies have been accused of not addressing these concerns effectively. This has led to tension and conflict, including protests and strikes by teachers, which can disrupt educational services and hinder progress in education reform.
+The Philippines has taken steps to create platforms for civil society organizations (CSOs) and other education stakeholders to engage and participate in the education sector planning and monitoring. Specifically on the SDGs, the NEDA Stakeholders Chamber on SDGs serves as the platform of engagement between government and non-government actors for better resource management and coordination of the SDG goals and targets. Platforms specific to education include the Education Forum which is the Local (National) Education Group recognized by the Global Partnership on Education (GPE), Philippine Open Government Partnership (OGP) where there is an OGP-Education. A new development is the creation of the Second Congressional Commission on Education (EDCOM 2) which is a national commission tasked to undertake a comprehensive national assessment and evaluation of the performance of the Philippine education sector for the purpose of recommending concrete and targeted reforms in the sector in the next three years, from 2023 to 2025. While these platforms exist, CSOs engaging in these spaces still view that the level of participation allowed by government is still limited and appears to be tokenistic rather than substantive. There are opportunities for discussion wherein CSOs are allowed to provide insights but very limited when it comes to decision-making and having issues addressed. Additionally, the government should consider regular evaluations and feedback mechanisms to assess the impact and effectiveness of these engagement platforms.The relationship between teachers' trade unions and the Philippine government and education agencies has been strained, with limited dialogue and engagement between the two parties. Teachers' unions often complain about a lack of consultation in policy decisions, inadequate support, and low salaries, while government officials and education agencies have been accused of not addressing these concerns effectively. This has led to tension and conflict, including protests and strikes by teachers, which can disrupt educational services and hinder progress in education reform.
 
 There is lack of solid data as to the real number of Filipino children, youth and adults left behind in education. Some existing data gathering activities of government agencies do not gather comprehensive, usable disaggregated data. Poor data collection is one of the many reasons why many especially the marginalized sectors are left out of education plans because it impedes education planning and implementation. Moreover, even when data are collected, data on participation restrictions and environmental factors are generally lacking especially data regarding barriers to full participation.
 
@@ -3064,8 +3069,6 @@ page 59 / 60
 [[END OF PAGE 59]]
 
 [[START OF PAGE 60]]
-
-Powered by TCPDF (www.tcpdf.org)
 
 - Have activities been carried out to draw the attention of the various authorities of the country to the Convention/Recommendation and their provisions about the right to education and to raise awareness of the principles of non-discrimination and equality of educational opportunities? (Several items may be ticked) [Translation of the Convention/Recommendation into the national and possibly local languages]
 
@@ -3081,6 +3084,7 @@ No
 
 - Have activities been carried out to draw the attention of the various authorities of the country to the Convention/Recommendation and their provisions about the right to education and to raise awareness of the principles of non-discrimination and equality of educational opportunities? (Several items may be ticked) [Other]
 
+Powered by TCPDF (www.tcpdf.org)
 page 60 / 60
 
 [[END OF PAGE 60]]
