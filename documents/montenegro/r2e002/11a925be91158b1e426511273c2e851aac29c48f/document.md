@@ -4,6 +4,44 @@
 
 ## C o n t e n t s
 
+I BASIC PROVISIONS ..............................................................................................57
+Definition (Article 1)..............................................................................................57
+Activity (Article 2)..................................................................................................57
+The age of children (Article 3)..............................................................................57
+Aims (Article 4).....................................................................................................57
+The organizing (Article 5) .....................................................................................58
+Educational units (Article 6)..................................................................................58
+The right to choose program (Article 7)................................................................58
+The stay of children (Article 8) .............................................................................58
+Children with Special Needs (Article 9)................................................................59
+Supervision (Article 10) ........................................................................................59
+Interpretation clause (Article 11) ..........................................................................59
+II THE STRUCTURING OF THE CULTURE AND 
+EDUCATION WORK.................................................................................................60
+Educational curriculum (Article 12) ......................................................................60
+Educational curriculum according to duration (Article 13)....................................60
+The types of educational curricula (Article 14).....................................................60
+Primary curriculum (Article 15).............................................................................60
+Shortened curriculum (Article 16).........................................................................61
+Specialized curriculum (Article 17).......................................................................61
+Separate curriculum (Article 18)...........................................................................61
+Competency (Article 19).......................................................................................61
+The curriculum based on the specific pedagogical principles (Article 20) ...........62
+The annual schedule of work (Article 21).............................................................62
+Time arrangement (Article 22) .............................................................................62
+Preschool education in family (Article 23)............................................................62
+Pedagogical Groups (Article 24) ..........................................................................62
+Pedagogical Units Outside the Institution Seat (Article 25) .................................63
+The Enrollment of Children (Article 26)................................................................63
+Temporary exclusion from institution (Article 27).................................................63
+III PEDAGOGUES, PROFESSIONAL ASSISTANTS AND 
+ASSOCIATES ...........................................................................................................64
+Pedagogical and professional cadre (Article 28) .................................................64
+The conditions for the Delivery of Educational Work (Article 29).........................64
+Private pedagogue (Article 30).............................................................................65
+Records of private educators (Article 31).............................................................65
+Health examination (Article 32)............................................................................65
+
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
@@ -14,17 +52,30 @@ Law on Preschool Education
 
 Ministry of Education and Science Montenegro
 
+Working time (Article 33)......................................................................................65
+Pedagogical records (Article 34)..........................................................................66
+Children diet costs (Article 35) .............................................................................66
+The costs of children’s diet paid by the parents (Article 36) ................................66
+IV PENAL PROVISIONS...........................................................................................66
+The violations made by legal and liable entities (Article 37) ................................66
+V TRANSITIONAL AND FINAL PROVISIONS ........................................................67
+The harmonization of institutions work (Article 38) ..............................................67
+Deadline for the Passing of By-Laws (Article 39).................................................67
+The application of educational curriculum (Article 40) .........................................67
+The Cessation of the Law Validity (Article 41) .....................................................68
+Coming into Effect (Article 42) .............................................................................68
+
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
 Law on Preschool Education
 
-### Definition
-
 # LAW ON PRESCHOOL EDUCATION
 
 ## I BASIC PROVISIONS
+
+### Definition
 
 #### Article 1
 
@@ -134,23 +185,23 @@ The Ministry competent for education and science (hereinafter referred to as: Mi
 
 Particular expressions in this Law shall have the following meaning:
 
--'educational curriculum' is the broadest definition of program orientation, on the basis of which the fundamentals of primary, shortened, specialized and special curricula are established.
+- “educational curriculum” is the broadest definition of program orientation, on the basis of which the fundamentals of primary, shortened, specialized and special curricula are established.
 
--'nurseries' are part of a preschool institution which include the education of children up to the age of three;
+- “nurseries” are part of a preschool institution which include the education of children up to the age of three;
 
--'kindergarten'  is  a  part  of  a  preschool  institution  which  includes  the education  of  children  from  the  age  of  three  to  the  age  the  primary schooling starts;
+- “kindergarten” is a part of a preschool institution which includes the education of children from the age of three to the age the primary schooling starts;
 
--'pedagogical  group'  represents  the  composition  of  children  structured according to the age, pedagogical norms and the number;
+- “pedagogical group” represents the composition of children structured according to the age, pedagogical norms and the number;
 
--'pedagogical unit' is a part of preschool institution out of the seat of the institution, which includes one or two pedagogical groups;
+- “pedagogical unit” is a part of preschool institution out of the seat of the institution, which includes one or two pedagogical groups;
 
--'the  children  with  special  needs'  includes  the  talented  children  and  the children with difficulties in growth;
+- “the children with special needs” includes the talented children and the children with difficulties in growth;
 
--'publicly valid curriculum' is the program that is passed, or approved by the competent state authority;
+- “publicly valid curriculum” is the program that is passed, or approved by the competent state authority;
 
--'private institutions' are the institutions of preschool education, the founder of which is a legal or natural entity;
+- “private institutions” are the institutions of preschool education, the founder of which is a legal or natural entity;
 
--'private  educator'  is  a  teacher  for  preschool  education  engaged  for  the purpose  of  the  implementation  of  the  basic  program  requirements  with children in families when needed.
+- “private educator” is a teacher for preschool education engaged for the purpose of the implementation of the basic program requirements with children in families when needed.
 
 Ministry of Education and Science Montenegro
 
@@ -168,7 +219,7 @@ Law on Preschool Education
 
 #### Article 12
 
-Preschool  education  shall  be  implemented  according  to  the  educational curriculum of preschool education (hereinafter referred to as: educational curriculum) .
+Preschool  education  shall  be  implemented  according  to  the  educational curriculum of preschool education (hereinafter referred to as: educational curriculum).
 
 The  aims  and  tasks  of  educational  work,  the  number  of  children  within pedagogical  groups,  the  types,  the  scope  and  the  forms  of  the  duration  of educational work shall be established by the curriculum.
 
@@ -372,7 +423,7 @@ Nurse-assistants shall execute the preventive health protection of children.
 
 Any person that acquired two-year post-secondary or University education degree of qualification for preschool education may be a pedagogue.
 
-Any person that acquired the University or two-year post-secondary degree of qualification, of appropriate special education branch, may be a special teacherpedagogue.
+Any person that acquired the University or two-year post-secondary degree of qualification, of appropriate special education branch, may be a special teacher-pedagogue.
 
 Any  person  that  acquired  secondary,  two-year  post-secondary,  or  the University  degree  of  qualification,  the  profiles  of  whom  are  defined  according  to each one of the curricula of educational work may be a pedagogue-assistant.
 
@@ -442,10 +493,6 @@ Law on Preschool Education
 
 ### Pedagogical records
 
-The institution:
-
-- does  not  accomplish  the  prescribed  curriculum  of  the  educational  work (Articles 15 - 19);
-
 #### Article 34
 
 Institutions  shall  keep  the  unique  pedagogical  records,  such  as  work registers,  registers  of  children,  file-cards  containing  the  data  of  each  child's development, the institution chronicle, and alike.
@@ -477,6 +524,10 @@ The fixing of the amount of costs referred to in paragraph 1 of this Article sha
 ### The violations made by legal and liable entities
 
 #### Article 37
+
+The institution:
+
+- does  not  accomplish  the  prescribed  curriculum  of  the  educational  work (Articles 15 - 19);
 
 66
 
@@ -520,7 +571,7 @@ Until the passing of regulations referred to in paragraph 1 of this Article, the
 
 Primary, shortened, specialized and separate curriculum shall be passed within the period of two years as of the effective date of this Law, and they shall be applied in the institutions that have met the requirements provided for by this Law.
 
-The institutions that have not meet the conditions for the application of the curriculum under provision 1 of this Article shall execute the curriculum in line with the Law on Preschool Education ('Official Gazette of RM' , NO. 56/92).
+The institutions that have not meet the conditions for the application of the curriculum under provision 1 of this Article shall execute the curriculum in line with the Law on Preschool Education (“Official Gazette of RM” , NO. 56/92).
 
 Ministry of Education and Science Montenegro
 
@@ -536,15 +587,15 @@ Law on Preschool Education
 
 #### Article 41
 
-The  Law  on  Preschool  Education  ('Official  Gazette  of  RM',  No.  56/92) shall cease to be valid as of the effective date of this Law.
+The  Law  on  Preschool  Education  (“Official  Gazette  of  RM”,  No.  56/92) shall cease to be valid as of the effective date of this Law.
 
-The  provisions  of  the  Law  on  Preschool  Education  ('Official  Gazette  of RM', No. 56/92), relating to the educational curriculum, shall be applied until the passing of the curriculum in line with this Law.
+The  provisions  of  the  Law  on  Preschool  Education  (“Official  Gazette  of RM”, No. 56/92), relating to the educational curriculum, shall be applied until the passing of the curriculum in line with this Law.
 
 ### Coming into Effect
 
 #### Article 42
 
-This Law comes into effect on the eight day as of the day of its publishing in 'Official Gazette of the Republic of Montenegro', and it shall be applied as of the day of the introduction of the curriculum passed in line with this Law.
+This Law comes into effect on the eight day as of the day of its publishing in “Official Gazette of the Republic of Montenegro”, and it shall be applied as of the day of the introduction of the curriculum passed in line with this Law.
 
 68
 
