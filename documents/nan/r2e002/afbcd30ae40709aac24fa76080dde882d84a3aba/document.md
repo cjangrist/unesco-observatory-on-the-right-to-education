@@ -8,7 +8,7 @@
 
 #### Subject matter of the Act
 
-(1)  This  Act  provides  for  the  protection  and  promotion  of  equality  as  the  highest  value  of  the constitutional  order  of  the  Republic  of  Croatia,  creates  prerequisites  for  the  realisation  of  equal opportunities  and  regulates  protection  against  discrimination  on  the  grounds  of  race  or  ethnic affiliation  or  colour,  gender,  language,  religion,  political  or  other  belief,  national  or  social  origin, property,  trade  union  membership,  education,  social  status,  marital  or  family  status,  age,  health condition, disability, genetic heritage, native identity, expression or sexual orientation..
+(1) This Act provides for the protection and promotion of equality as the highest value of the constitutional order of the Republic of Croatia, creates prerequisites for the realisation of equal opportunities and regulates protection against discrimination on the grounds of race or ethnic affiliation or colour, gender, language, religion, political or other belief, national or social origin, property, trade union membership, education, social status, marital or family status, age, health condition, disability, genetic heritage, gender identity, expression or sexual orientation..
 
 (2) Placing of any person, or a person related to that person by kinship or other relationship, in a less favourable  position  on  the  grounds  referred  to  in  paragraph  1  of  this  Article  shall  be,  within  the meaning of this Act, deemed to be discrimination.
 
@@ -126,21 +126,21 @@ This Act shall apply to the conduct of all state bodies, bodies of local and reg
 
 [[START OF PAGE 4]]
 
-- granting  of  privileges  to  pregnant  women,  children,  young  people,  older  persons,  persons  with caring responsibilities who regularly fulfil their caring duties, and disabled persons with a view to their protection, when such a conduct is based on provisions of laws, subordinate regulations, programmes and measures;
+3. granting of privileges to pregnant women, children, young people, older persons, persons with caring responsibilities who regularly fulfil their caring duties, and disabled persons with a view to their protection, when such a conduct is based on provisions of laws, subordinate regulations, programmes and measures;
 
-- in relation to a particular job, when the nature of the job is such or the job is performed under such conditions  that  its  characteristics  related  to  any  of  the  grounds  referred  to  in  Article  1  of  this  Act present  an  actual  and  decisive  condition  for  performing  that  job,  provided  that  the  purpose  to  be achieved is justified and the condition appropriate;
+4. in relation to a particular job, when the nature of the job is such or the job is performed under such conditions that its characteristics related to any of the grounds referred to in Article 1 of this Act present an actual and decisive condition for performing that job, provided that the purpose to be achieved is justified and the condition appropriate;
 
-- in relation to occupational activities, entering into membership and acting in conformity with the canon  and  mission  of  a  church  and  religious  congregation  entered  into  the  Register  of  Religious Congregations of the Republic of Croatia, and any other public or private organisation which acts in conformity  with  the  Constitution  and  laws,  if  this  is  required  by  the  religious  doctrine,  beliefs  or objectives;
+5. in relation to occupational activities, entering into membership and acting in conformity with the canon and mission of a church and religious congregation entered into the Register of Religious Congregations of the Republic of Croatia, and any other public or private organisation which acts in conformity with the Constitution and laws, if this is required by the religious doctrine, beliefs or objectives;
 
-- on the grounds of age and sex in the course of determining insurance premiums, insurance amounts and other insurance conditions in line with relevant and accurate statistical data and rules of actuarial calculations, in which case costs related to pregnancy and motherhood may not justify differences;
+6. on the grounds of age and sex in the course of determining insurance premiums, insurance amounts and other insurance conditions in line with relevant and accurate statistical data and rules of actuarial calculations, in which case costs related to pregnancy and motherhood may not justify differences;
 
-- fixing of minimum conditions of age and/or professional experience and/or level of education limit for access to a certain employment or for acquiring other advantages linked to employment when it is provided for in separate regulations;
+7. fixing of minimum conditions of age and/or professional experience and/or level of education limit for access to a certain employment or for acquiring other advantages linked to employment when it is provided for in separate regulations;
 
-- fixing of a suitable and appropriate maximum age as a reason for the termination of an employment and prescribing a certain age as a condition for acquiring the right to retirement;
+8. fixing of a suitable and appropriate maximum age as a reason for the termination of an employment and prescribing a certain age as a condition for acquiring the right to retirement;
 
-- on the grounds of nationality pursuant to separate regulations;
+9. on the grounds of nationality pursuant to separate regulations;
 
-- placing in a less favourable position when regulating the rights and obligations arising from family relations when it is stipulated by law, particularly with the aim to protect the rights and interests of children,  which  must  be  justified  by  a  legitimate  aim,  protection  of  public  morality  and  favouring marriage in line with Family Act provisions.
+10. placing in a less favourable position when regulating the rights and obligations arising from family relations when it is stipulated by law, particularly with the aim to protect the rights and interests of children, which must be justified by a legitimate aim, protection of public morality and favouring marriage in line with Family Act provisions.
 
 (3) All the exceptions laid down in paragraph 2 of this Article shall be interpreted in proportion to the aim and purpose for which they are determined.
 
@@ -174,23 +174,23 @@ This Act shall apply to the conduct of all state bodies, bodies of local and reg
 
 (2) Within the scope of his/her work, the Ombudsman shall:
 
-- receive reports of all the natural and legal persons referred to in Article 10 of this Act;
+1. receive reports of all the natural and legal persons referred to in Article 10 of this Act;
 
-- provide necessary information to natural and legal persons that have filed a complaint on account of discrimination  with  regard  to  their  rights  and  obligations  and  to  possibilities  of  court  and  other protection;
+2. provide necessary information to natural and legal persons that have filed a complaint on account of discrimination with regard to their rights and obligations and to possibilities of court and other protection;
 
-- if  the  court  proceedings  have  not  yet  been  initiated,  examine  individual  reports  and  take  actions falling within his/her competence required for elimination of discrimination and protection of rights of discriminated persons;
+3. if the court proceedings have not yet been initiated, examine individual reports and take actions falling within his/her competence required for elimination of discrimination and protection of rights of discriminated persons;
 
-- warn the public about the occurrence of discrimination;
+4. warn the public about the occurrence of discrimination;
 
-- with  the  parties'  consent,  conduct  mediation  with  a  possibility  of  reaching  an  out-of-court settlement;
+5. with the parties’ consent, conduct mediation with a possibility of reaching an out-of-court settlement;
 
-- file criminal charges related to discrimination cases to the competent state attorney's office;
+6. file criminal charges related to discrimination cases to the competent state attorney’s office;
 
-- collect and analyse statistical data on discrimination cases,
+7. collect and analyse statistical data on discrimination cases,
 
-- inform  the  Croatian  Parliament  on  the  occurrence  of  discrimination  in  his/her  annual  and,  when required, extraordinary reports;
+8. inform the Croatian Parliament on the occurrence of discrimination in his/her annual and, when required, extraordinary reports;
 
-- conduct  surveys  concerning  discrimination,  give  opinions  and  recommendations,  and  suggest appropriate legal and strategic solutions to the Government of the Republic of Croatia.
+9. conduct surveys concerning discrimination, give opinions and recommendations, and suggest appropriate legal and strategic solutions to the Government of the Republic of Croatia.
 
 ### Article 13
 
@@ -250,11 +250,11 @@ Certain activities referred to in Article 12, paragraph 2, items 1 to 6 of this 
 
 [[START OF PAGE 7]]
 
-- to prohibit the undertaking of activities which violate or may violate the plaintiff's right to equal treatment,  or  to  carry  out  activities  which  eliminate  discrimination  or  its  consequences  (action  for prohibition or elimination of discrimination);
+2. to prohibit the undertaking of activities which violate or may violate the plaintiff’s right to equal treatment, or to carry out activities which eliminate discrimination or its consequences (action for prohibition or elimination of discrimination);
 
-- to  compensate  for  proprietary  and  non-proprietary  damage  caused  by  the  violation  of  the  rights protected by this Act (action for damages);
+3. to compensate for proprietary and non-proprietary damage caused by the violation of the rights protected by this Act (action for damages);
 
-- to publish in the media the ruling establishing the violation of the right to equal treatment, at the defendant's cost.
+4. to publish in the media the ruling establishing the violation of the right to equal treatment, at the defendant’s cost.
 
 (2)  The  court  shall  decide  on  the  claims  referred  to  in  paragraph  1  of  this  Article  by  applying provisions of the Civil Procedure Act, unless otherwise provided by this Act.
 
@@ -262,9 +262,9 @@ Certain activities referred to in Article 12, paragraph 2, items 1 to 6 of this 
 
 (4)  The  claim  for  publishing  the  ruling  referred  to  in  paragraph  1,  item  4  of  this  Article  shall  be granted if the court establishes:
 
-- that the violation of the right to equal treatment took place through the media, or
+1. that the violation of the right to equal treatment took place through the media, or
 
-- that information on the conduct violating the right to equal treatment were published in the media, and that the publishing of the ruling is necessary for the purpose of complete damage compensation or protection against unequal treatment in future cases.
+2. that information on the conduct violating the right to equal treatment were published in the media, and that the publishing of the ruling is necessary for the purpose of complete damage compensation or protection against unequal treatment in future cases.
 
 (5) If the court grants the claim for publishing the ruling, it shall order that the ruling be published in its  entirety.  In  exceptional  cases,  the  court  may  decide  that  the  ruling  be  published  partially  or  that certain personal data be removed from the text of the ruling if this is necessary for the protection of privacy of the parties and other persons, and if it does not jeopardise the purpose of the provided legal protection.
 
@@ -337,23 +337,23 @@ In the proceedings referred to in Article 17, paragraph 1 of this Act, audit sha
 
 (1)  Associations,  bodies,  institutions  or  other  organisations  set  up  in  line  with  law  and  having  a justified interest in protecting collective interests of a certain group, or those which within their scope of activities deal with the protection of the right to equal treatment, may bring a legal action against a person  that  has  violated  the  right  to  equal  treatment,  if  they  make  plausible  that  the  defendant's conduct has violated the right to equal treatment of a larger number of persons who predominantly belong to the group whose rights the plaintiff defends.
 
-(2) In the legal action referred to in paragraph 1, the following claims may be brought before the court: 1.  to  establish  that  the  defendant's  conduct  has  violated  the  right  to  equal  treatment  in  relation  to
+(2) In the legal action referred to in paragraph 1, the following claims may be brought before the court:
 
-- to prohibit the undertaking of activities which violate or may violate the right to equal treatment, or to carry out activities which eliminate discrimination or its consequences in relation to members of the
+1. to establish that the defendant’s conduct has violated the right to equal treatment in relation to members of the group;
 
-members of the group; group;
+2. to prohibit the undertaking of activities which violate or may violate the right to equal treatment, or to carry out activities which eliminate discrimination or its consequences in relation to members of the group;
 
-- to  publish  in  the  media  the  ruling  establishing  violation  of  the  right  to  equal  treatment,  at  the defendant's cost.
+3. to publish in the media the ruling establishing violation of the right to equal treatment, at the defendant’s cost.
 
 (3) The legal action referred to in paragraph 1 of this Article shall be decided upon in the first instance by the county court which has general territorial jurisdiction over the defendant, or by the county court of the place where discrimination took place, or by the Zagreb County Court.
 
 (4)  Other  procedural  provisions  of  this  Act  pertaining  to  the  legal  actions  referred  to  in  Article  17, paragraph 1 of this Act shall accordingly apply to the legal action referred to in paragraph 1 of this Article.
 
-## V PENALTY PROVISIONS
+## VI PENALTY PROVISIONS
 
 ### Article 25
 
-(1) Whoever, with the aim to intimidate another person or to create a hostile, degrading or offensive environment  on  the  grounds  of  a  difference  in  race,  ethnic  affiliation,  colour,  gender,  language, religion, political or other belief, national or social origin, property, trade union membership, social status,  marital  or  family  status,  age,  health  condition,  disability,  genetic  origin,  native  identity  or expression,  and  sexual  orientation,  hurts  another  person's  dignity,  shall  be  charged  a  fine  for misdemeanour amounting from HRK 5,000.00 to HRK 30,000.00.
+(1) Whoever, with the aim to intimidate another person or to create a hostile, degrading or offensive environment on the grounds of a difference in race, ethnic affiliation, colour, gender, language, religion, political or other belief, national or social origin, property, trade union membership, social status, marital or family status, age, health condition, disability, genetic origin, gender identity or expression, and sexual orientation, hurts another person’s dignity, shall be charged a fine for misdemeanour amounting from HRK 5,000.00 to HRK 30,000.00.
 
 (2) The responsible person in a legal person, state body, legal person vested with public authority, and local  and  regional  self-government  unit  shall  be  charged  the  fine  for  misdemeanour  referred  to  in paragraph 1 of this Article.
 
