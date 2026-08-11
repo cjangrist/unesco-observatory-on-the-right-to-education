@@ -1,64 +1,44 @@
 [[START OF PAGE 1]]
 
+# CHAPTER 25:13
+
+# NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY ACT
+
+Acts 22/1990, 11/1991 (s. 35), 22/2001 (s. 4), 14/2002 (s. 35).
+
+## ARRANGEMENT OF SECTIONS
+
 Section
 
-- Short title.
-
-- Interpretation.
-
-- Establishment of University.
-
-- Objects and powers of University.
-
-- Membership of University.
-
-- Prohibition against discrimination in membership of University.
-
-- Chancellor.
-
-- Vice-Chancellor.
-
-- Pro-Vice-Chancellors.
-
-- Council.
-
-- Functions of Council.
-
-- Chairman and vice-chairman of Council.
-
-- Executive Committee of Council.
-
-- Senate.
-
-- Functions of Senate.
-
-- Academic Board.
-
-- Registrar.
-
-- Bursar.
-
-- Librarian.
-
-- Convocation.
-
-- Terms and conditions of service of staff.
-
-- Appointment and grading of staff.
-
-- Promotion of staff.
-
-- Staff Disciplinary Committee.
-
-- Student Disciplinary Committee.
-
-- Finance Committee.
-
-- Statutes.
-
-- Regulations.
-
-- Validity of decisions of Council, Senate, Convocation and boards and committees.
+1. Short title.
+2. Interpretation.
+3. Establishment of University.
+4. Objects and powers of University.
+5. Membership of University.
+6. Prohibition against discrimination in membership of University.
+7. Chancellor.
+8. Vice-Chancellor.
+9. Pro-Vice-Chancellors.
+10. Council.
+11. Functions of Council.
+12. Chairman and vice-chairman of Council.
+13. Executive Committee of Council.
+14. Senate.
+15. Functions of Senate.
+16. Academic Board.
+17. Registrar.
+18. Bursar.
+19. Librarian.
+20. Convocation.
+21. Terms and conditions of service of staff.
+22. Appointment and grading of staff.
+23. Promotion of staff.
+24. Staff Disciplinary Committee.
+25. Student Disciplinary Committee.
+26. Finance Committee.
+27. Statutes.
+28. Regulations.
+29. Validity of decisions of Council, Senate, Convocation and boards and committees.
 
 ### SCHEDULE
 
@@ -70,35 +50,27 @@ AN ACT to establish the National University of Science and Technology and to pro
 
 ## 1 Short title
 
-This Act may be cited as the National University of Science and Technology Act [ Chapter 25:13 ].
+This Act may be cited as the National University of Science and Technology Act [Chapter 25:13].
 
 ## 2 Interpretation
 
-In this Act-
+In this Act—
 
-'academic staff' means all persons employed, whether full-time or part-time by the University as 
+“academic staff” means all persons employed, whether full-time or part-time by the University as—
 
-( a ) professors, lecturers of any class or persons engaged in research; or
+(a) professors, lecturers of any class or persons engaged in research; or
 
-( b ) holders of posts declared by the Senate to be academic posts;
+(b) holders of posts declared by the Senate to be academic posts;
 
 [Definition substituted by section 35 of Act 14 of 2002]
 
-'administrative staff' means all persons employed by University who are categorized in terms of the Statutes as members of the administrative staff;
+“administrative staff” means all persons employed by University who are categorized in terms of the Statutes as members of the administrative staff;
 
-'Bursar' means the person holding office as Bursar of the University in terms of section eighteen ;
+“Bursar” means the person holding office as Bursar of the University in terms of section eighteen;
 
-'Chairman of Department' means a person appointed in terms of the Statutes to be chairman of a Teaching Department or head of an Institute or Centre controlled by the University;
+“Chairman of Department” means a person appointed in terms of the Statutes to be chairman of a Teaching Department or head of an Institute or Centre controlled by the University;
 
-'chairman of the Council' means the person elected to be chairman of the Council in terms of section twelve ;
-
-# CHAPTER 25:13
-
-# NATIONALUNIVERSITY OF SCIENCE AND TECHNOLOGY ACT
-
-Acts 22/1990, 11/1991 (s. 35), 22/2001 (s. 4), 14/2002 (s. 35).
-
-## ARRANGEMENT OF SECTIONS
+“chairman of the Council” means the person elected to be chairman of the Council in terms of section twelve;
 
 [[END OF PAGE 1]]
 
@@ -228,11 +200,11 @@ The University shall consist of-
 
 ## 7 Chancellor
 
-- The President of Zimbabwe shall be Chancellor of the University.
+(1) The President of Zimbabwe shall be Chancellor of the University.
 
-- The Chancellor shall be the Head of the University.
+(2) The Chancellor shall be the Head of the University.
 
-- The Chancellor shall have the right-
+(3) The Chancellor shall have the right—
 
 ( a ) to preside over any assembly or meeting held by or under the authority of the University; and
 
@@ -284,13 +256,13 @@ Provided that the delegation of a function in terms of this subsection shall not
 
 ## 10 Council
 
-(1) Subject to this Act and any general directions as to policy given by the Minister, the government and e executive authority of the University shall be vested in the Council, which shall consist of-
+(1) Subject to this Act and any general directions as to policy given by the Minister, the government and executive authority of the University shall be vested in the Council, which shall consist of—
 
 ( a ) the Chancellor, the Vice-Chancellor and the Pro-Vice-Chancellors, who shall be ex officio members; and
 
 ( b ) sixteen persons appointed by the Minister; and
 
-( c ) nine persons who are members of the academic staff appointed by the Senate, other than the Vice Chancellor and the Pro-Vice-Chancellors; and
+( c ) nine persons who are members of the academic staff appointed by the Senate, other than the Vice-Chancellor and the Pro-Vice-Chancellors; and
 
 ( d ) the President of the Students' Union, who shall be an ex officio member; and
 
@@ -326,7 +298,7 @@ Provided that the delegation of a function in terms of this subsection shall not
 
 ( r ) one person appointed by the Minister from a list of names submitted by such organization representing youths or the interests of youths as the Minister recognises for the purposes of this paragraph.
 
-- If any person, organization or authority fails or declines-
+(2) If any person, organization or authority fails or declines—
 
 ( a ) to appoint or elect any person in terms of paragraph ( c ), ( g ), ( h ) or ( i ) of subsection (1) within a reasonable time after being called upon to do so, the Council, after consultation with the Minister, may appoint any person to fill the vacancy;
 
@@ -376,7 +348,7 @@ Provided that the Council may delegate its duties under this paragraph to such c
 
 (2) At all meetings of Council at which the Chancellor is not present the chairman of the Council or, in his absence, the vice-chairman shall preside.
 
-(3) If at any meeting of the Council the Chancellor and the chairman and vice-chairman of the Council are all absent. the members of the Council who are present shall elect a person from amongst their number to preside at the meeting.
+(3) If at any meeting of the Council the Chancellor and the chairman and vice-chairman of the Council are all absent, the members of the Council who are present shall elect a person from amongst their number to preside at the meeting.
 
 [[END OF PAGE 5]]
 
@@ -384,7 +356,7 @@ Provided that the Council may delegate its duties under this paragraph to such c
 
 ## 13 Executive Committee of Council
 
-- There shall be a principal committee of the Council to be known as the Executive Committee.
+(1) There shall be a principal committee of the Council to be known as the Executive Committee.
 
 (2) The Executive Committee shall consist of-
 
@@ -436,7 +408,7 @@ The Senate shall have the following functions-
 
 ( d ) to regulate the admission of students to the University;
 
-( e ) to recommend to the Chancellor, through the Council. the conferment of degrees, including honorary degrees. diplomas, certificates and other awards and distinctions of the University and the withdrawal and restoration of such awards;
+( e ) to recommend to the Chancellor, through the Council, the conferment of degrees, including honorary degrees, diplomas, certificates and other awards and distinctions of the University and the withdrawal and restoration of such awards;
 
 ( f ) to fix, subject to consultation with any sponsors and subject to the approval of the Council, the times, modes and conditions of competitions for fellowships, scholarships and prizes;
 
@@ -448,7 +420,7 @@ The Senate shall have the following functions-
 
 ( j ) to recommend to the Council the institution, abolition or holding in abeyance of professorial chairs and other academic offices;
 
-( k ) without derogation from the powers of the Council, to propose changes to the Statutes:
+( k ) without derogation from the powers of the Council, to propose changes to the Statutes;
 
 ( l ) to make any regulations it is authorized to make by or in terms of this Act;
 
@@ -498,7 +470,7 @@ The Senate shall have the following functions-
 
 (1) There shall be a Bursar of the University who shall be appointed by the Council in the manner provided in the Statutes.
 
-(2) Subject to the directions of the Council, the Bursar shall act as the accountant of the University and shall be responsible for the safeguarding of its funds and, in accordance with the general directions of the ViceChancellor, for authorizing its investments and expenditure.
+(2) Subject to the directions of the Council, the Bursar shall act as the accountant of the University and shall be responsible for the safeguarding of its funds and, in accordance with the general directions of the Vice-Chancellor, for authorizing its investments and expenditure.
 
 (3) The Bursar shall perform such additional functions as may be specified in the Statutes.
 
@@ -570,7 +542,7 @@ The terms and conditions of service for each category of staff employed by the U
 
 ( e ) at least three full professors of the University appointed by Senate once every three years.
 
-(2) Every promotion of a person to a post or grade within the non-academic staff shall be effected by a NonAcademic Staff Promotions Committee appointed by the Council and consisting of-
+(2) Every promotion of a person to a post or grade within the non-academic staff shall be effected by a Non-Academic Staff Promotions Committee appointed by the Council and consisting of—
 
 ( a ) a Pro-Vice-Chancellor, who shall be chairman; and
 
@@ -588,15 +560,15 @@ The terms and conditions of service for each category of staff employed by the U
 
 ## 24 Staff Disciplinary Committee
 
-(1) There shall be a Staff Disciplinary Committee which shall consist of the following members appointed by the Vice-Chancellor
+(1) There shall be a Staff Disciplinary Committee which shall consist of the following members appointed by the Vice-Chancellor—
 
-( a ) a Pro-Vice-Chancellor. who shall be chairman; and
+( a ) a Pro-Vice-Chancellor, who shall be chairman; and
 
 ( b ) a senior member of the academic or administrative staff; and
 
 ( c ) a member of the academic or administrative staff of similar status to the person charged.
 
-- Two members of the Staff Disciplinary Committee shall form a quorum.
+(2) Two members of the Staff Disciplinary Committee shall form a quorum.
 
 (3) All matters to be decided at any meeting of the Staff Disciplinary Committee shall be decided by a simple majority and, in the event of an equality of votes, the chairman or person presiding shall have a casting vote in addition to his deliberative vote.
 
@@ -634,7 +606,7 @@ The terms and conditions of service for each category of staff employed by the U
 
 ( d ) one student nominated by the Students' Union.
 
-- Five members of the Student Disciplinary Committee shall form a quorum.
+(2) Five members of the Student Disciplinary Committee shall form a quorum.
 
 (3) All matters to be decided at any meeting of the Student Disciplinary Committee shall be decided by a simple majority and, in the event of an equality of votes, the chairman or person presiding shall have a casting vote in addition to his deliberative vote.
 
@@ -649,6 +621,8 @@ The terms and conditions of service for each category of staff employed by the U
 ( b ) the withdrawal of any academic or University privilege, benefit, right or facility other than to follow courses of instruction and present himself for examination;
 
 ( c ) the imposition of a fine not exceeding level four, which fine may be deducted from any allowances payable to the student and shall be paid to the University;
+
+[Paragraph amended by section 4 of Act 22 of 2001]
 
 ( d ) a censure or reprimand;
 
@@ -674,7 +648,7 @@ The terms and conditions of service for each category of staff employed by the U
 
 ( h ) a representative of the Deans of Faculties appointed by the Council.
 
-- The functions of the Finance Committee shall be as provided in the Statutes.
+(2) The functions of the Finance Committee shall be as provided in the Statutes.
 
 ## 27 Statutes
 
@@ -695,8 +669,6 @@ The terms and conditions of service for each category of staff employed by the U
 ( e ) the terms of office and conditions of service of the chairman and vice-chairman of the Council;
 
 ( f ) the convening of meetings of the Council, the Senate and the Convocation and of committees of the Council and the Senate, the quorum at such meetings and the procedure to be adopted thereat;
-
-[Paragraph amended by section 4 of Act 22 of 2001]
 
 [[END OF PAGE 9]]
 
@@ -742,7 +714,7 @@ The terms and conditions of service for each category of staff employed by the U
 
 ( f ) the award of degrees, diplomas, certificates and other academic honours and awards, other than honorary degrees, honours or awards.
 
-- The Senate may at any time amend or repeal any regulations.
+(3) The Senate may at any time amend or repeal any regulations.
 
 (4) Regulations need not be published in the Gazette , but the Senate shall publish them in such manner as the Senate considers will best make them known to the persons to whom they apply.
 
@@ -758,249 +730,181 @@ if the duly qualified members who took the decision or did or authorized the act
 
 ## SCHEDULE (Sections 2 and 27)
 
-### STATUTES OFTHEUNIVERSITY
+### STATUTES OF THE UNIVERSITY
 
 #### ARRANGEMENT OF STATUTES
 
 Statute
 
-- Appointment of Pro-Vice-Chancellors.
-
-- Length of appointment of members of Council.
-
-- Casual vacancies in Council.
-
-- Meetings and quorum of Council.
-
-- Resolutions by circulation among members of Council.
-
-- Meetings and quorum of Senate.
-
-- Convocation.
-
-- Faculties.
-
-- Deans.
+1. Appointment of Pro-Vice-Chancellors.
+2. Length of appointment of members of Council.
+3. Casual vacancies in Council.
+4. Meetings and quorum of Council.
+5. Resolutions by circulation among members of Council.
+6. Meetings and quorum of Senate.
+7. Convocation.
+8. Faculties.
+9. Deans.
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
-- Composition of Faculty Boards.
-
-- Functions of Faculty Boards.
-
-- Meetings of Faculty Boards.
-
-- Teaching Departments.
-
-- Institutes and Centres.
-
-- Appointment of Registrar, Bursar and Librarian.
-
-- Procedure generally.
-
-- Financial procedures.
-
-- Auditors.
-
-- University seal.
-
-- Ordinances.
-
-- Arrangements with other universities, affiliated bodies, etc.
+10. Composition of Faculty Boards.
+11. Functions of Faculty Boards.
+12. Meetings of Faculty Boards.
+13. Teaching Departments.
+14. Institutes and Centres.
+15. Appointment of Registrar, Bursar and Librarian.
+16. Procedure generally.
+17. Financial procedures.
+18. Auditors.
+19. University seal.
+20. Ordinances.
+21. Arrangements with other universities, affiliated bodies, etc.
 
 #### Appointment of Pro-Vice-Chancellors
 
-(1) For the purpose of considering appointments to the office of Pro-Vice-Chancellor, there shall be a joint committee of the Council and the Senate consisting of-
-
-( a ) the chairman of the Council, who shall be the chairman of the joint committee; and
-
-( b ) the vice-chairman of the Council; and
-
-( c ) the Vice-Chancellor; and
-
-( d ) two persons appointed by the Council from among its members who are not members of the Senate; and
-
-( e ) three persons appointed by the Senate from among its members.
-
-- The joint committee constituted by this Statute shall consider each applicant for appointment to a vacancy in the office of Pro-Vice-Chancellor and shall make recommendations thereon to the Council, and the Council, after considering the joint committee's recommendations, shall make the appointment concerned with the approval of the Minister.
-
-- A Pro-Vice-Chancellor shall hold office for three years from the date of his appointment and, subject to subsection (2) and the approval of the Minister, shall be eligible for re-appointment.
+1. (1) For the purpose of considering appointments to the office of Pro-Vice-Chancellor, there shall be a joint committee of the Council and the Senate consisting of—
+(a) the chairman of the Council, who shall be the chairman of the joint committee; and
+(b) the vice-chairman of the Council; and
+(c) the Vice-Chancellor; and
+(d) two persons appointed by the Council from among its members who are not members of the Senate; and
+(e) three persons appointed by the Senate from among its members.
+(2) The joint committee constituted by this Statute shall consider each applicant for appointment to a vacancy in the office of Pro-Vice-Chancellor and shall make recommendations thereon to the Council, and the Council, after considering the joint committee’s recommendations, shall make the appointment concerned with the approval of the Minister.
+(3) A Pro-Vice-Chancellor shall hold office for three years from the date of his appointment and, subject to subsection (2) and the approval of the Minister, shall be eligible for re-appointment.
 
 #### Length of appointment of members of Council
 
-(1) Members of the Council, other than ex officio members, shall hold office for three years and shall be eligible for re-appointment or re-election, as the case may be. (2) Any member of the Council, other than an ex officio member, may resign his membership at any time by
-
-- notice in writing addressed to the Registrar.
+2. (1) Members of the Council, other than ex officio members, shall hold office for three years and shall be eligible for re-appointment or re-election, as the case may be.
+(2) Any member of the Council, other than an ex officio member, may resign his membership at any time by notice in writing addressed to the Registrar.
 
 #### Casual vacancies in Council
 
-- Any casual vacancy occurring among the appointed or elected members of the Council shall be filled as soon as possible by the person, persons or body which appointed or elected the member whose place has become vacant, and the person so appointed or elected shall hold office for the remainder of the period for which the person whose place he fills was appointed or elected.
+3. Any casual vacancy occurring among the appointed or elected members of the Council shall be filled as soon as possible by the person, persons or body which appointed or elected the member whose place has become vacant, and the person so appointed or elected shall hold office for the remainder of the period for which the person whose place he fills was appointed or elected.
 
 #### Meetings and quorum of Council
 
-(1) The Council shall meet at least three times a year.
-
-- The quorum of the Council shall be one-half of the members holding office at the time of the meeting.
+4. (1) The Council shall meet at least three times a year.
+(2) The quorum of the Council shall be one-half of the members holding office at the time of the meeting.
 
 #### Resolutions by circulation among members of Council
 
-- A resolution proposed by the Executive Committee of the Council, other than for the purpose of making a Statute, which is on its authority circulated by the Registrar to all members of the Council and which receives the written agreement of not less than two-thirds of such members shall, upon receipt of such agreement by the Registrar, have the same force and effect as a resolution passed at a meeting of the Council.
+5. A resolution proposed by the Executive Committee of the Council, other than for the purpose of making a Statute, which is on its authority circulated by the Registrar to all members of the Council and which receives the written agreement of not less than two-thirds of such members shall, upon receipt of such agreement by the Registrar, have the same force and effect as a resolution passed at a meeting of the Council.
 
 #### Meetings and quorum of Senate
 
-(1) The Senate shall meet at least three times a year.
-
-- The quorum of the Senate shall be one-half of the members holding office at the time of the meeting.
-
-- The Vice-Chancellor or, in his absence, a Pro-Vice-Chancellor, shall be chairman of the Senate.
+6. (1) The Senate shall meet at least three times a year.
+(2) The quorum of the Senate shall be one-half of the members holding office at the time of the meeting.
+(3) The Vice-Chancellor or, in his absence, a Pro-Vice-Chancellor, shall be chairman of the Senate.
 
 #### Convocation
 
-- There shall be no quorum for meetings of the Convocation, the proceedings of which shall be regulated by the chairman subject to any general or special direction of the Council.
+7. There shall be no quorum for meetings of the Convocation, the proceedings of which shall be regulated by the chairman subject to any general or special direction of the Council.
 
 #### Faculties
 
-- The University shall include such Faculties as may from time to time be established by the Council.
+8. The University shall include such Faculties as may from time to time be established by the Council.
 
 #### Deans
 
-(1) There shall be a Dean of each Faculty, who shall be elected by the Faculty Board, in such manner as may be prescribed by Ordinance, from the full-time teaching staff of the Faculty. (2) In the event of there being an equality of votes in an election to the office of Dean, the Vice-Chancellor shall have a casting vote.
+9. (1) There shall be a Dean of each Faculty, who shall be elected by the Faculty Board, in such manner as may be prescribed by Ordinance, from the full-time teaching staff of the Faculty.
+(2) In the event of there being an equality of votes in an election to the office of Dean, the Vice-Chancellor shall have a casting vote.
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
-- A Dean shall hold office for three years or such other period as may be prescribed by Ordinance, and shall be eligible for re-election.
-
-- A Dean shall preside at meetings of the Faculty Board of his faculty and at meetings called by him in terms of these Statutes, and shall have such functions as are prescribed by Ordinance.
+(3) A Dean shall hold office for three years or such other period as may be prescribed by Ordinance, and shall be eligible for re-election.
+(4) A Dean shall preside at meetings of the Faculty Board of his faculty and at meetings called by him in terms of these Statutes, and shall have such functions as are prescribed by Ordinance.
 
 #### Composition of Faculty Boards
 
-- For each Faculty there shall be a Faculty Board which shall consist of-
-
-( a ) all the full-time academic staff of the Faculty; and
-
-( b ) such persons as may be assigned to the Faculty Board by the Senate; and
-
-( c ) two students elected annually by the students in the Faculty.
+10. For each Faculty there shall be a Faculty Board which shall consist of—
+(a) all the full-time academic staff of the Faculty; and
+(b) such persons as may be assigned to the Faculty Board by the Senate; and
+(c) two students elected annually by the students in the Faculty.
 
 #### Functions of Faculty Boards
 
-- A Faculty Board shall have the following functions-
-
-( a ) to regulate, subject to the approval of the Senate, the teaching and study of the subjects assigned to the Faculty;
-
-( b ) to report to the Senate on any matter specifically relating to the work of the Faculty;
-
-( c ) to deal with any matter referred or delegated to it by the Senate;
-
-( d ) to appoint committees, which may include a minority of persons who are not members of the Faculty Board, to carry out any of the duties or exercise any of the powers of the Board.
+11. A Faculty Board shall have the following functions—
+(a) to regulate, subject to the approval of the Senate, the teaching and study of the subjects assigned to the Faculty;
+(b) to report to the Senate on any matter specifically relating to the work of the Faculty;
+(c) to deal with any matter referred or delegated to it by the Senate;
+(d) to appoint committees, which may include a minority of persons who are not members of the Faculty Board, to carry out any of the duties or exercise any of the powers of the Board.
 
 #### Meetings of Faculty Boards
 
-(1) The Dean of each Faculty shall call regular meetings of the Faculty Board at which matters relating to the policy of the Faculty and appointments shall be discussed and recommendations adopted for submission to the appropriate authorities on appointments.
-
-- The Vice-Chancellor and every Pro-Vice-Chancellor shall be entitled to attend any meeting of a Faculty Board or any committee thereof.
+12. (1) The Dean of each Faculty shall call regular meetings of the Faculty Board at which matters relating to the policy of the Faculty and appointments shall be discussed and recommendations adopted for submission to the appropriate authorities on appointments.
+(2) The Vice-Chancellor and every Pro-Vice-Chancellor shall be entitled to attend any meeting of a Faculty Board or any committee thereof.
 
 #### Teaching Departments
 
-(1) The Teaching Departments and their allocation to Faculties shall be prescribed by ordinances. (2) A Chairman of Department shall be appointed by the Vice-Chancellor, on behalf of the Council, from among, the full-time members of the academic staff of the Department, after consultation with each member of the academic staff in the Department and the Dean of the Faculty to which the Department is allocated. (3) A Chairman of Department shall hold office for a period of three years, or such other period as may be
-
-- determined by ordinance, and shall be eligible for re-appointment.
-
-- A Department may be allocated to two or more Faculties.
+13. (1) The Teaching Departments and their allocation to Faculties shall be prescribed by ordinances.
+(2) A Chairman of Department shall be appointed by the Vice-Chancellor, on behalf of the Council, from among the full-time members of the academic staff of the Department, after consultation with each member of the academic staff in the Department and the Dean of the Faculty to which the Department is allocated.
+(3) A Chairman of Department shall hold office for a period of three years, or such other period as may be determined by ordinance, and shall be eligible for re-appointment.
+(4) A Department may be allocated to two or more Faculties.
 
 #### Institutes and Centres
 
-- The Council, after consultation with the Senate, may establish Institutes or Centres of learning within or outside the University and shall appoint the head of any such Institute or Centre and give directions as to its studies and research and administration.
+14. The Council, after consultation with the Senate, may establish Institutes or Centres of learning within or outside the University and shall appoint the head of any such Institute or Centre and give directions as to its studies and research and administration.
 
 [Paragraph amended by section 35 of Act 14 of 2002]
 
 #### Appointment of Registrar, Bursar and Librarian
 
-(1) For the purpose of considering appointments to the offices of Registrar, Bursar and Librarian, there shall be a joint committee of the Council and the Senate consisting of-
-
-( a ) the chairman of the Council, who shall be the chairman of the joint committee; and
-
-( b ) the vice-chairman of the Council; and
-
-( c ) the Vice-Chancellor; and
-
-( d ) every Pro-Vice-Chancellor; and
-
-( e ) two persons appointed by the Council from among its members who are not members of the Senate; and
-
-( f ) three persons appointed by the Senate from among its members.
-
-- The joint committee constituted by this Statute shall consider each applicant to a vacancy in the office of Registrar, Bursar or Librarian and shall make recommendations thereon to the Council.
+15. (1) For the purpose of considering appointments to the offices of Registrar, Bursar and Librarian, there shall be a joint committee of the Council and the Senate consisting of—
+(a) the chairman of the Council, who shall be the chairman of the joint committee; and
+(b) the vice-chairman of the Council; and
+(c) the Vice-Chancellor; and
+(d) every Pro-Vice-Chancellor; and
+(e) two persons appointed by the Council from among its members who are not members of the Senate; and
+(f) three persons appointed by the Senate from among its members.
+(2) The joint committee constituted by this Statute shall consider each applicant to a vacancy in the office of Registrar, Bursar or Librarian and shall make recommendations thereon to the Council.
 
 #### Procedure generally
 
-(1) Except as otherwise specifically provided by the Act or, these Statutes, in the absence of the chairman or vice-chairman at a meeting of a board or committee the members present shall elect from those present a chairman to preside over that meeting.
-
-- Except as otherwise specifically provided by the Act or these Statutes, the quorum at any meeting of a board or committee shall be as fixed by the person or authority that appointed the board or committee.
-
-- Except as otherwise specifically provided by the Act or these Statutes, each board or committee shall determine and may make rules for the time, place and procedure of its meetings.
-
-- The minutes of a meeting of aboard or committee shall be laid on the table at the next following meeting of the body that appointed it.
-
-- At a meeting of board or committee, in the event of an equality of votes on any matter, the person presiding shall have a casting vote in addition to his original vote.
+16. (1) Except as otherwise specifically provided by the Act or these Statutes, in the absence of the chairman or vice-chairman at a meeting of a board or committee the members present shall elect from those present a chairman to preside over that meeting.
+(2) Except as otherwise specifically provided by the Act or these Statutes, the quorum at any meeting of a board or committee shall be as fixed by the person or authority that appointed the board or committee.
+(3) Except as otherwise specifically provided by the Act or these Statutes, each board or committee shall determine and may make rules for the time, place and procedure of its meetings.
+(4) The minutes of a meeting of a board or committee shall be laid on the table at the next following meeting of the body that appointed it.
+(5) At a meeting of a board or committee, in the event of an equality of votes on any matter, the person presiding shall have a casting vote in addition to his original vote.
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
-- Subsections (3), (4) and (5) shall apply, mutatis mutandis , to the Council and the Senate, save that minutes of the Council shall be sent to the Chancellor and the Minister and a report of each meeting of the Senate shall be laid on the table at a meeting of the Council.
+(6) Subsections (3), (4) and (5) shall apply, mutatis mutandis, to the Council and the Senate, save that minutes of the Council shall be sent to the Chancellor and the Minister and a report of each meeting of the Senate shall be laid on the table at a meeting of the Council.
 
 #### Financial procedures
 
-(1) The Council shall fix the financial year of the University.
-
-- The Finance Committee shall submit to the Council, before the beginning of the financial year, draft estimates of income and expenditure, and such estimates, amended as the Council thinks fit, shall be approved by the Council before the beginning of the financial year.
-
-- The Council may revise the estimates during the course of the financial year and give directions for the manner in which amendments of expenditure estimates may be made, which directions may make provision for delegating the powers of revision so long as such delegation does not extend to altering the total estimated expenditure.
-
-- As soon as practicable after the end of the financial years, a balance sheet and income and expenditure account with supporting schedules shall be submitted to the auditors.
-
-- The audited accounts, with any comments thereon made by the auditors, shall be submitted to the Council.
+17. (1) The Council shall fix the financial year of the University.
+(2) The Finance Committee shall submit to the Council, before the beginning of the financial year, draft estimates of income and expenditure, and such estimates, amended as the Council thinks fit, shall be approved by the Council before the beginning of the financial year.
+(3) The Council may revise the estimates during the course of the financial year and give directions for the manner in which amendments of expenditure estimates may be made, which directions may make provision for delegating the powers of revision so long as such delegation does not extend to altering the total estimated expenditure.
+(4) As soon as practicable after the end of the financial year, a balance sheet and income and expenditure account with supporting schedules shall be submitted to the auditors.
+(5) The audited accounts, with any comments thereon made by the auditors, shall be submitted to the Council.
 
 #### Auditors
 
-(1) Subject to subsections (2) and (3). the Council shall, before the beginning of each financial year, appoint auditors who are registered as public auditors in terms of the Public Accountants and Auditors Act [ Chapter 27:12 ] .
-
-- No person shall be appointed as an auditor in terms of subsection (1) if he, or any of his partners or employees, holds any other office in the University.
-
-- If no appointment of new auditors is made before the beginning of any financial year, the auditors in office shall continue in office.
-
-- An auditor appointed in terms of subsection (1) shall be entitled at all reasonable times to require any officer, employee or agent of the University-
-
-( a ) to produce all accounts and other records relating to the financial affairs of the University as may be in the custody of such officer, employee or agent; and
-
-( b ) to provide such information or explanation as, in the opinion of the auditor, is necessary for the purposes of the audit.
+18. (1) Subject to subsections (2) and (3), the Council shall, before the beginning of each financial year, appoint auditors who are registered as public auditors in terms of the Public Accountants and Auditors Act [Chapter 27:12].
+(2) No person shall be appointed as an auditor in terms of subsection (1) if he, or any of his partners or employees, holds any other office in the University.
+(3) If no appointment of new auditors is made before the beginning of any financial year, the auditors in office shall continue in office.
+(4) An auditor appointed in terms of subsection (1) shall be entitled at all reasonable times to require any officer, employee or agent of the University—
 
 #### University seal
 
-(1) There shall be a seal of the University, of such design as may be approved by the Council.
-
-- The seal of the University shall be kept in the custody of the Registrar and, subject to the directions of the Council, shall be affixed to-
-
-( a ) certificates, degrees and diplomas conferred by the University; and
-
-( b ) any document attested by the signature of the Vice-Chancellor and the Registrar.
+19. (1) There shall be a seal of the University, of such design as may be approved by the Council.
+(2) The seal of the University shall be kept in the custody of the Registrar and, subject to the directions of the Council, shall be affixed to—
 
 #### Ordinances
 
-(1) The Council may, with the approval of the Minister, make ordinances providing for any matter referred to in paragraphs ( a ) to ( p ) of subsection (3) of section 27 of the Act.
-
-- The Registrar shall publish any ordinance made in terms of subsection (1) in such manner as the Council may direct, being a manner which the Council considers will best make the ordinance known to the persons whom it applies.
+20. (1) The Council may, with the approval of the Minister, make ordinances providing for any matter referred to in paragraphs (a) to (p) of subsection (3) of section 27 of the Act.
+(2) The Registrar shall publish any ordinance made in terms of subsection (1) in such manner as the Council may direct, being a manner which the Council considers will best make the ordinance known to the persons to whom it applies.
 
 #### Arrangements with other universities, affiliated bodies, etc.
 
-(1) The Council may make arrangements with any other university whereby students of the University may be registered as students of such other university and so enabled to study for, enter the examinations of and be afforded the degrees of such other university.
-
-- The Council may affiliate to the University any other institution or any branch or department of any other institution, and may-
+21. (1) The Council may make arrangements with any other university whereby students of the University may be registered as students of such other university and so enabled to study for, enter the examinations of and be afforded the degrees of such other university.
+(2) The Council may affiliate to the University any other institution or any branch or department of any other institution, and may—
 
 ( a ) recognise selected members of the staff of any affiliated institution, branch or department as teachers of the University; and
 
