@@ -6,17 +6,17 @@
 
 ### A. About the 1974 Recommendation
 
-- UNESCO's 1974 Recommendation concerning Education for International Understanding,  Co-operation  and  Peace  and  Education  relating  to  Human  Rights  and Fundamental  Freedoms 1 (the ' 1974  Recommendation' ) aims  to  promote  international education and world peace through understanding, solidarity and cooperation. It was adopted on 19 November 1974 by the General Conference of UNESCO at its 18th session.
+1. UNESCO’s 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms¹ (the “1974 Recommendation”) aims to promote international education and world peace through understanding, solidarity and cooperation. It was adopted on 19 November 1974 by the General Conference of UNESCO at its 18th session.
 
-- The 1974 Recommendation applies to formal, non-formal and informal education and to all levels, from pre-primary to tertiary and adult education and lifelong learning. The General Conference recommended ' that Member States should apply ' the provisions included in the 1974 Recommendation ' by taking whatever legislative or other steps ' that provide institutional (e.g.  policies  and  legal  frameworks)  and  pedagogical  (e.g.  curricula,  teacher  training, educational materials, equipment, and student assessment) support for its  implementation, based on the ' objectives ', referred to in paragraph 4 of the 1974 Recommendation , ' regarded as major guiding principles of education policy '  including: an international dimension and a global  perspective  on  education,  cultural  diversity,  interdependence,  communication, rights and responsibilities, international solidarity and cooperation, and problem solving.
+2. The 1974 Recommendation applies to formal, non-formal and informal education and to all levels, from pre-primary to tertiary and adult education and lifelong learning. The General Conference recommended “that Member States should apply” the provisions included in the 1974 Recommendation “by taking whatever legislative or other steps” that provide institutional (e.g. policies and legal frameworks) and pedagogical (e.g. curricula, teacher training, educational materials, equipment, and student assessment) support for its implementation, based on the “objectives”, referred to in paragraph 4 of the 1974 Recommendation, “regarded as major guiding principles of education policy” including: an international dimension and a global perspective on education, cultural diversity, interdependence, communication, rights and responsibilities, international solidarity and cooperation, and problem solving.
 
-- Today, the principles of the 1974 Recommendation apply equally well to Education for Sustainable Development (ESD) and to Global Citizenship Education (GCED) and therefore represent a powerful tool for promoting the 2030 Agenda for Sustainable Development and in particular SDG Target 4.7 on the promotion of sustainable development and global citizenship through  education,  Target  12.8  on  access  to  information  on  sustainable  development  and Target 13.3 on climate change education.
+3. Today, the principles of the 1974 Recommendation apply equally well to Education for Sustainable Development (ESD) and to Global Citizenship Education (GCED) and therefore represent a powerful tool for promoting the 2030 Agenda for Sustainable Development and in particular SDG Target 4.7 on the promotion of sustainable development and global citizenship through education, Target 12.8 on access to information on sustainable development and Target 13.3 on climate change education.
 
-- The  General  Conference  in  its  39th  session  recommended  the  use  of  the 1974 Recommendation reporting process to support the implementation and monitoring of Target 4.7 of Sustainable Development Goal 4 (39 C/Resolution 79). The UNESCO Executive Board at its 209th session approved the use of the current guidelines for both the monitoring of the 1974 Recommendation and the collection of data needed for the following global SDG indicator for which UNESCO is custodian (209 EX/Decision 18.II):
+4. The General Conference in its 39th session recommended the use of the 1974 Recommendation reporting process to support the implementation and monitoring of Target 4.7 of Sustainable Development Goal 4 (39 C/Resolution 79). The UNESCO Executive Board at its 209th session approved the use of the current guidelines for both the monitoring of the 1974 Recommendation and the collection of data needed for the following global SDG indicator for which UNESCO is custodian (209 EX/Decision 18.II):
 
-- 4.7.1,  12.8.1  and  13.3.1: The extent to which (i) global citizenship education and (ii) education  for  sustainable  development  are  mainstreamed  in  (a)  national  education policies; (b) curricula; (c) teacher education and (d) student assessment.
+4.7.1, 12.8.1 and 13.3.1: The extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education and (d) student assessment.
 
-- Questions marked with an asterisk (*) will be used in the calculation of the respective indicators  ( Table  1 ).  As  approved  by  the  Inter-Agency  and  Expert  Group  on  the  SDG Indicators, the indicators will be calculated for primary and secondary education only.
+5. Questions marked with an asterisk (*) will be used in the calculation of the respective indicators (Table 1). As approved by the Inter-Agency and Expert Group on the SDG Indicators, the indicators will be calculated for primary and secondary education only.
 
 Table 1 Questions used in the calculation of the global SDG indicator for Targets 4.7, 12.8 and 13.3
 
@@ -32,19 +32,19 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 ### B. Reporting obligations
 
-- The General Conference, at its 18th session, when adopting the 1974 Recommendation recommended ' that Member States submit […] reports concerning the action taken by them in pursuance of this recommendation '. Moreover, in accordance with Article VIII of UNESCO's Constitution ' Each Member State shall submit to the Organization […] reports […] on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4 .'
+6. The General Conference, at its 18th session, when adopting the 1974 Recommendation recommended “that Member States submit […] reports concerning the action taken by them in pursuance of this recommendation”. Moreover, in accordance with Article VIII of UNESCO’s Constitution “Each Member State shall submit to the Organization […] reports […] on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4.”
 
-- Thus, all UNESCO Member States are expected to report on the steps they have taken  to  implement  the 1974  Recommendation preferably  by  completing  the  following questionnaire. Such reporting takes place every four years.
+7. Thus, all UNESCO Member States are expected to report on the steps they have taken to implement the 1974 Recommendation preferably by completing the following questionnaire. Such reporting takes place every four years.
 
 ## II. Guidelines for completion of the questionnaire
 
-- This  questionnaire  and  its  accompanying  guidelines  are  addressed  to  Ministers responsible for relations with UNESCO. The questionnaire is typically completed by Ministries of Education and other government authorities responsible for education. Responses should cover, as far as possible, education at all levels of government, including sub-national levels where applicable as well as education outside the government sector.
+8. This questionnaire and its accompanying guidelines are addressed to Ministers responsible for relations with UNESCO. The questionnaire is typically completed by Ministries of Education and other government authorities responsible for education. Responses should cover, as far as possible, education at all levels of government, including sub-national levels where applicable as well as education outside the government sector.
 
-- National respondents are encouraged to consult widely both within, across and beyond government, including with Ministries of Environment, with national human rights institutions, the education sector, civil society partners and others, as necessary, to gather the information needed to complete the questionnaire.
+9. National respondents are encouraged to consult widely both within, across and beyond government, including with Ministries of Environment, with national human rights institutions, the education sector, civil society partners and others, as necessary, to gather the information needed to complete the questionnaire.
 
-- Responses to the seventh consultation should cover:
+10. Responses to the seventh consultation should cover:
 
-(i)      the time period 2017-2020;
+(i) the time period 2017-2020;
 
 (ii) education at all levels of formal education from pre-primary to tertiary education as well as non-formal education;
 
@@ -52,79 +52,79 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 (iv) where possible, education outside the government sector.
 
-- To assist countries in  responding to this  questionnaire,  UNESCO has developed the following  set  of  global  citizenship  education  and  education  for  sustainable  development themes. The list is based on a review of current common practices in many countries as well as a review of relevant literature. While the terms ESD and GCED may be used differently in some countries, the list of themes typically captures what are seen as key elements of Target 4.7.  Please  refer  to  the  definitions  of  key  terms  in Section  III before  completing  the questionnaire.
+11. To assist countries in responding to this questionnaire, UNESCO has developed the following set of global citizenship education and education for sustainable development themes. The list is based on a review of current common practices in many countries as well as a review of relevant literature. While the terms ESD and GCED may be used differently in some countries, the list of themes typically captures what are seen as key elements of Target 4.7. Please refer to the definitions of key terms in Section III before completing the questionnaire.
 
 ### Global citizenship education and education for sustainable development
 
-- cultural diversity and tolerance
+1. cultural diversity and tolerance
 
-- 1.1 international or intercultural understanding, solidarity and cooperation
+1.1 international or intercultural understanding, solidarity and cooperation
 
-- 1.2 intercultural and interreligious dialogue
+1.2 intercultural and interreligious dialogue
 
-- 1.3 local, national and/or global citizenship
+1.3 local, national and/or global citizenship
 
-- gender equality education
+2. gender equality education
 
-- 2.1 gender-based equal opportunities
+2.1 gender-based equal opportunities
 
-- 2.2 gender equality and justice
+2.2 gender equality and justice
 
-- 2.3 gender roles, identity and stereotypes
+2.3 gender roles, identity and stereotypes
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-- human rights education
+3. human rights education
 
-- 3.1 equality  and  non-discrimination  based  on race, colour,  language, religion, disability,  political  or  other  opinion,  national  or  social  origin,  birth  or  other status
+3.1 equality and non-discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status
 
-- 3.2 human rights values, human dignity, justice, inclusion and participation
+3.2 human rights values, human dignity, justice, inclusion and participation
 
-- 3.3 respect  for  human  rights  and  fundamental  freedoms  (as  outlined  in international conventions and declarations)
+3.3 respect for human rights and fundamental freedoms (as outlined in international conventions and declarations)
 
-- peace and non-violence
+4. peace and non-violence
 
-- 4.1 friendly relations among peoples and nations
+4.1 friendly relations among peoples and nations
 
-- 4.2 challenging negative stereotypes, promoting peaceful solutions, learning to live together, including others and preventing violent extremism
+4.2 challenging negative stereotypes, promoting peaceful solutions, learning to live together, including others and preventing violent extremism
 
-- 4.3 preventing all forms of violence including bullying, verbal abuse and genderbased violence
+4.3 preventing all forms of violence including bullying, verbal abuse and gender-based violence
 
-- climate change education
+5. climate change education
 
-- 5.1 mitigation
+5.1 mitigation
 
-- 5.2 adaptation
+5.2 adaptation
 
-- 5.3 impact reduction
+5.3 impact reduction
 
-- 5.4 early warning
+5.4 early warning
 
-- environmental sustainability
+6. environmental sustainability
 
-- 6.1 caring for the planet, protecting nature
+6.1 caring for the planet, protecting nature
 
-- 6.2 environmental justice
+6.2 environmental justice
 
-- 6.3 biodiversity, water
+6.3 biodiversity, water
 
-- human survival and well-being
+7. human survival and well-being
 
-- 7.1 environmental health as it pertains to human well-being, disaster risk reduction
+7.1 environmental health as it pertains to human well-being, disaster risk reduction
 
-- 7.2 health of the planet for future generations
+7.2 health of the planet for future generations
 
-- 7.3 sustainable cities and communities
+7.3 sustainable cities and communities
 
-- sustainable consumption and production
+8. sustainable consumption and production
 
-- 8.1 responsible and sustainable lifestyles
+8.1 responsible and sustainable lifestyles
 
-- 8.2 green economy, green jobs
+8.2 green economy, green jobs
 
-- 8.3 sustainable energy
+8.3 sustainable energy
 
 [[END OF PAGE 3]]
 
@@ -141,7 +141,7 @@ Themes of global citizenship and education for sustainable development
 4. Peace and non-violence | Education about peace and peace-building, mediation, conflict prevention and resolution, non-violence, reconciliation and living together peacefully. It includes advocating for friendly relations among peoples and nations, challenging negative stereotypes, promoting peaceful solutions, learning to live together and preventing violent extremism and other forms of violence including bullying.
 5. Climate change education | Education to help people, in particular youth, understand, address, mitigate, and adapt to the impacts of climate change. It encourages changes in attitudes and behaviours needed to put the world on a more sustainable development path, and build a new generation of climate change-aware citizens. It covers various responses to climate change including mitigation, adaptation, impact reduction and early warning.
 6. Environmental sustainability | Education about responsible interactions with the environment to avoid depletion or degradation and to promote environmental quality and health. It includes, caring for the planet and protecting nature, environmental justice, biodiversity and water.
-7. Human survival and well- being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
+7. Human survival and well-being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
 
 [[END OF PAGE 4]]
 
@@ -176,12 +176,6 @@ Vocational education | Education that is designed for learners to acquire the kn
 [[START OF PAGE 7]]
 
 ## IV. Information about the respondent
-
-Austria
----
-
-31.12.2020
----
 
 Country:
 
@@ -231,7 +225,7 @@ Austrian Ecolabel for Educational Institutions; Forum Environmental Education ; 
 
 ## VI. Questionnaire
 
-### Laws and policies (preamble and paras 4 and 7 of the 1974 Recommendation )
+### A. Laws and policies (preamble and paras 4 and 7 of the 1974 Recommendation)
 
 #### A1a. Please  describe any  specific national or sub-national laws, legislation or legal framework(s) in your country that govern the promotion of global citizenship education (GCED) and/or education for sustainable development (ESD). Explain whether GCED and/or ESD themes 2  are mentioned explicitly or are inferred and what types or levels of education are covered.
 
@@ -275,7 +269,7 @@ Citizenship Education - including its global dimension of Citizenship Education 
 
 - highlights the role of Austria in Europe and globally, and communicates an understanding of existential and global relationships and problems of humanity; […]
 
-- shows that a just order of peace and a fair distribution of resources are necessary for humanity's survival, and that these demand a global, concerted effort, but also need to be understood as a personal obligation. […]'
+- shows that a just order of peace and a fair distribution of resources are necessary for humanity’s survival, and that these demand a global, concerted effort, but also need to be understood as a personal obligation. […]”
 
 Reflexive Gender Education and Gender Equality (Directive No. 21/2018): This teaching principle gives University Colleges for Teacher Education, boards of education (education directorates) and  schools  an  orientation  framework  regarding  equal  opportunities  for  girls  and  boys independently  of  their  social  background,  culture  or  religion.  It  provides  a  central  impetus  for gender-appropriate teaching and learning cultures in schools, i.e. to reflect and dismantle gender stereotypes  and  sexism  in  all  its  scope.  All  facets  of  (patriarchal)  role  norms  and  gender inequalities  should  be  addressed  -  whether  in  so-called  majority  society  (e.g.,  sexism  in advertising)  or  in  so-called  minority  communities  (e.g.,  "honourable  behavioural  demands"  on girls). The principle is based on the concept of universal girls' and women's rights that are not challenged by culture or religion.
 
@@ -315,51 +309,50 @@ General Ordinance on Intercultural Education
 
 https://www.bmbwf.gv.at/Themen/schule/schulrecht/rs/1997-2017/2017_29.html
 
-Citizenship Education as a Cross-curricular Educational Principle -General Ordinance 2015 www.bmbwf.gv.at/dam/jcr:bdb06320-6227-49ee-853c-d06fe8725e39/2015_12_en.pdf
+Citizenship Education as a Cross-curricular Educational Principle – General Ordinance 2015
+www.bmbwf.gv.at/dam/jcr:bdb06320-6227-49ee-853c-d06fe8725e39/2015_12_en.pdf
 
 General Ordinance on Reflexive Gender Education and Gender Equality (Directive No. 21/2018) https://www.bmbwf.gv.at/Themen/schule/schulrecht/rs/2018_21.html
 
 Basic Decree on Environmental Education
 
-www.bmbwf.gv.at/dam/jcr:e470c99b-52cb-44fd-959b-24b2af87d7f1/2014_20_ge_umwelt_en.pdf Universities Act 2002 = Universitätsgesetz (2002)
+www.bmbwf.gv.at/dam/jcr:e470c99b-52cb-44fd-959b-24b2af87d7f1/2014_20_ge_umwelt_en.pdf
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
-https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=200021 28&FassungVom=2020-10-20&Artikel=&Paragraf=12a&Anlage=&Uebergangsrecht=
+Universities Act 2002 = Universitätsgesetz (2002)
+https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&FassungVom=2020-10-20&Artikel=&Paragraf=12a&Anlage=&Uebergangsrecht=
 
-Wissensbilanzverordnung -WBV 2016 idF. BGBl. II Nr. 307/2019
+Wissensbilanzverordnung – WBV 2016 idF. BGBl. II Nr. 307/2019
+https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009519
 
-https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009
+Fachhochschulgesetz – FHG idF. BGBl. I Nr. 77/2020 https://www.ris.bka.gv.at/eli/bgbl/I/2020/77
 
-519
+Privathochschulgesetz – PHG idF. BGBl. I Nr. 77/2020 https://www.ris.bka.gv.at/eli/bgbl/I/2020/77
 
-Fachhochschulgesetz -FHG idF. BGBl. I Nr. 77/2020 https://www.ris.bka.gv.at/eli/bgbl/I/2020/77
+Hochschulgesetz (2005) – Federal Act on University Colleges of Teacher Education
+https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004626
 
-Privathochschulgesetz -PHG idF. BGBl. I Nr. 77/2020 https://www.ris.bka.gv.at/eli/bgbl/I/2020/77
-
-Hochschulgesetz (2005) -Federal Act on University Colleges of Teacher Education https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004 626
-
-Federal Development Cooperation Act (Entwicklungszusammenarbeitsgesetz, EZA-G, 2002) https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001
-
-847
+Federal Development Cooperation Act (Entwicklungszusammenarbeitsgesetz, EZA-G, 2002)
+https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001847
 
 #### *A2 Please indicate which GCED and ESD themes are covered in national or sub-national laws, legislation or legal frameworks on education by entering the appropriate number in each white cell.
 
+KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
+
 National | Sub-national
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Pre- primary | Primary/ secondary | Tertiary | Non- formal | Pre- primary | Primary/ secondary | Tertiary | Non- formal
+Pre-primary | Primary/secondary | Tertiary | Non-formal | Pre-primary | Primary/secondary | Tertiary | Non-formal
 1. | Cultural diversity and tolerance | 1 | 1 | 1 | 99 | 1 | 1 | 99 | 99
 2. | Gender equality | 1 | 1 | 1 | 99 | 1 | 99 | 99 | 99
 3. | Human rights | 1 | 1 | 9 | 99 | 1 | 1 | 99 | 99
-4. | Peace and non- violence | 1 | 1 | 9 | 99 | 1 | 1 | 99 | 99
+4. | Peace and non-violence | 1 | 1 | 9 | 99 | 1 | 1 | 99 | 99
 5. | Climate change | 1 | 1 | 9 | 99 | 1 | 1 | 99 | 99
 6. | Environmental sustainability | 1 | 1 | 9 | 99 | 1 | 1 | 99 | 99
 7. | Human survival and well-being | 1 | 1 | 1 | 99 | 1 | 9 | 99 | 99
 8. | Sustainable consumption and production | 1 | 1 | 9 | 99 | 1 | 1 | 99 | 99
-
-KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
 
 [[END OF PAGE 12]]
 
@@ -373,7 +366,9 @@ Primary/Secondary (including Vocational Education): Educational Concerns extend 
 
 The implementation of the Reference Framework of Competences for Democratic Culture (Council of Europe) and related Citizenship Education programmes in the school setting ensure quality Global Citizenship Education to all young people. Examples for measures:
 
-·Raising awareness through communication work (newsletter, social media, etc.) ·Offering various tools and materials (explanatory film, activities in the framework of the Austrian Citizenship Days; Teacher Self Reflection Tool: Becoming a "Democratic" teacher …) ·Networking with NECE focus group members (e.g. the Austrian NGO Land de r Menschen, which is testing RFCDC in the context of its workshops
+• Raising awareness through communication work (newsletter, social media, etc.)
+• Offering various tools and materials (explanatory film, activities in the framework of the Austrian Citizenship Days; Teacher Self Reflection Tool: Becoming a “Democratic” teacher …)
+• Networking with NECE focus group members (e.g. the Austrian NGO Land der Menschen, which is testing RFCDC in the context of its workshops
 
 The Austrian Strategy for Education for Sustainable Development aims to support a trans-formation of awareness toward sustainability among teachers and learners alike, and also to interlink the actors.  The strategy covers formal and non-formal education, lifelong learning and vocational education. The following themes are explicitly mentioned: gender equality education, health promotion, environmental sustainability, peace and non-violence, rural development, climate change education, human survival and well-being, sustainable consumption and production, cultural diversity, justice and non-violence.
 
@@ -381,7 +376,7 @@ Within the framework of the National Action Plan for Entrepreneurship Education,
 
 · primary education level is, to develop a whole physical way to be able to act in various situations that sport offers at this age level ·secondary education level is, to develop appropriate physical skills and values in order to participate in different sport-cultures and different sports after leaving school. · as non-formal education is concerned, Austria is aiming at implementing the 'daily hour' of physical education.
 
-Tertiary: At the level of higher education policy-making, the Federal Ministry of Education, Science and Research (BMBWF) fosters the implementation of Agenda 2030 by incorporating it in key government strategy documents such as the Austrian National Development Plan for Public Universities (GUEP) from 2019 onwards (GUEP 2019-2024 and GUEP 2022-2027).
+Tertiary: At the level of higher education policy-making, the Federal Ministry of Education, Science and Research (BMBWF) fosters the implementation of Agenda 2030 by incorporating it in key government
 
 > 3 See the schema described in paragraph 11 of Section II of these guidelines.
 
@@ -389,47 +384,48 @@ Tertiary: At the level of higher education policy-making, the Federal Ministry o
 
 [[START OF PAGE 14]]
 
-In January 2020 Universities Austria (uniko) adopted a manifesto for sustainability, which consists of six points recognising the responsibility of universities for sustainability in teaching, research, knowledge exchange and university management, and sup ports the objectives of the 'Fridays for Future' movement for global climate justice.
+strategy documents such as the Austrian National Development Plan for Public Universities (GUEP) from 2019 onwards (GUEP 2019-2024 and GUEP 2022-2027).
+
+In January 2020 Universities Austria (uniko) adopted a manifesto for sustainability, which consists of six points recognising the responsibility of universities for sustainability in teaching, research, knowledge exchange and university management, and supports the objectives of the “Fridays for Future” movement for global climate justice.
 
 National Strategy on the Social Dimension of Higher Education (2017): Gender equality and Cultural diversity are mentioned explicitly, there are quantitative targets for gender equality in all tertiary studies and for people with migrant background participating in tertiary education. The strategy addresses tertiary education as well as transition into tertiary education.
 
 Overarching: The Three-Year Programme on Austrian Development Policy (whole-of government strategy) mentions the importance of Global Citizenship Education for general education. The Strategy Development Communication and Education in Austria (2010) is the strategic framework of the Austrian Development Agency's funding activities in Austria, which contribute to the implementation of the Sustainable Development Goals, especially to SDG 4.7.
 
-#### A3b. Please  provide  the  full  names  of  any education  policies,  frameworks  or  strategic objectives referred to in A3a and, where possible, web links to relevant documents.
+#### A3b. Please provide the full names of any education policies, frameworks or strategic objectives referred to in A3a and, where possible, web links to relevant documents.
 
 Cross State Educational Framework Plan for Pre-Primary Education and Care Institutions and manual Living Values, Creating Values. Building of Values in Early Childhood Education and Care Institutions: https://www.bmbwf.gv.at/Themen/ep/v_15a/paed_grundlagendok.html
 
-Council of Europe's Reference Framework of Competencies for Democratic Culture (RFCDC) www.politik-lernen.at/site/ueberuns/english/article/109587.html
+Council of Europe’s Reference Framework of Competencies for Democratic Culture (RFCDC)
+www.politik-lernen.at/site/ueberuns/english/article/109587.html
 
-Austrian Strategy for Education for Sustainable Development: www.bmbwf.gv.at/dam/jcr:701bea45-5218-4c42-b123fd251228b4b2/bine_strategie_e_18300.pdf
+Austrian Strategy for Education for Sustainable Development:
+www.bmbwf.gv.at/dam/jcr:701bea45-5218-4c42-b123-fd251228b4b2/bine_strategie_e_18300.pdf
 
-National Action Plan for Entrepreneurship Education https://www.bmbwf.gv.at/Themen/schule/schulsystem/sa/bmhs/kfm/entrepreneurship/ entrepreneurship_landkarte.html
+National Action Plan for Entrepreneurship Education
+https://www.bmbwf.gv.at/Themen/schule/schulsystem/sa/bmhs/kfm/entrepreneurship/entrepreneurship_landkarte.html
 
-GUEP -Austrian National Development Plan for public universities (https://www.bmbwf.gv.at)
+GUEP – Austrian National Development Plan for public universities (https://www.bmbwf.gv.at)
 
 Universities Austria (uniko) Manifest for sustainable development (http://www.uniko.ac.at)
 
-National Strategy on the Social Dimension of Higher Education (2017) Full text in English: http://www.sozialerhebung.at/sozdim/strategiepapier/Strategie_2017_englisch.pdf Short summary in English:
-
-http://www.sozialerhebung.at/sozdim/strategiepapier/Strategie_2017_Kurzfassung_barrierefrei_ englisch.pdf
+National Strategy on the Social Dimension of Higher Education (2017) Full text in English:
+http://www.sozialerhebung.at/sozdim/strategiepapier/Strategie_2017_englisch.pdf
+Short summary in English:
+http://www.sozialerhebung.at/sozdim/strategiepapier/Strategie_2017_Kurzfassung_barrierefrei_englisch.pdf
 
 Austrian Lifelong Learning Strategy - LLL:2020
-
 https://uil.unesco.org/document/austria-strategy-lifelong-learning-lll2020-issued-2011
 
-Three-Year Programme on Austrian Development Policy 2019 -
-
-2021
-
-https://www.entwicklung.at/fileadmin/user_upload/Dokumente/Publikationen/3_JP/Englisch/3JP_
-
-2019-2021_EN.pdf Austrian Development Agency (ADA): Strategy Development Communication and Education in Austria (2010)
+Three-Year Programme on Austrian Development Policy 2019–2021
+https://www.entwicklung.at/fileadmin/user_upload/Dokumente/Publikationen/3_JP/Englisch/3JP_2019-2021_EN.pdf
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
-https://www.entwicklung.at/fileadmin/user_upload/Dokumente/Publikationen/Strategien/Englisch/ EN_Strategy_Development_Communication.pdf
+Austrian Development Agency (ADA): Strategy Development Communication and Education in Austria (2010)
+https://www.entwicklung.at/fileadmin/user_upload/Dokumente/Publikationen/Strategien/Englisch/EN_Strategy_Development_Communication.pdf
 
 #### *A4.  Please indicate which GCED and ESD themes are covered in national or sub-national education policies, frameworks or strategic objectives affecting each level of education by entering the appropriate number in each white cell.
 
@@ -487,7 +483,14 @@ Tertiary: Austrian universities have, from the start, accepted the challenges of
 
 #### B1b. Please provide examples of curricula in which GCED and/or ESD are mainstreamed and, where possible, web links to relevant documents.
 
-Primary/Secondary: Curriculum for History and Social Studies/Citizenship Education (2016): www.politiklernen.at/dl/mnoNJKJKonmomJqx4lJK/Gesetzesblatt_113__Verordnung_18_Mai_2016_pdf The Curriculum for Secondary School defines five areas of education as a basis for cross-curricular collaboration. The educational area "People and society" is intended to provide an understanding of social (including political, economic, legal, environmental and cultural) correlations. Teaching has to contribute to democracy based on human rights. Humanity, solidarity, tolerance, justice, equality and environmental consciousness are guiding values.  General Didactic Principles include diversity and inclusion, equality of opportunity and gender equality, reflective coeducation and gender sensitive pedagogy. https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40207228/NOR40207228.pdf The curriculum for primary school suggests health related topics such as hygiene, nutrition, clothing etc. In Physical Education and Sports, pupils should learn how to exercise in natural environment, learning how to treat the natural environment with respect.
+Primary/Secondary:
+
+Curriculum for History and Social Studies/Citizenship Education (2016): www.politik-lernen.at/dl/mnoNJKJKonmomJqx4lJK/Gesetzesblatt_113__Verordnung_18_Mai_2016_pdf
+
+The Curriculum for Secondary School defines five areas of education as a basis for cross-curricular collaboration. The educational area “People and society” is intended to provide an understanding of social (including political, economic, legal, environmental and cultural) correlations. Teaching has to contribute to democracy based on human rights. Humanity, solidarity, tolerance, justice, equality and environmental consciousness are guiding values. General Didactic Principles include diversity and inclusion, equality of opportunity and gender equality, reflective coeducation and gender sensitive pedagogy.
+https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40207228/NOR40207228.pdf
+
+The curriculum for primary school suggests health related topics such as hygiene, nutrition, clothing etc. In Physical Education and Sports, pupils should learn how to exercise in natural environment, learning how to treat the natural environment with respect.
 
 > 4 See the schema described in paragraph 11 of Section II of these guidelines.
 
@@ -495,17 +498,15 @@ Primary/Secondary: Curriculum for History and Social Studies/Citizenship Educati
 
 [[START OF PAGE 18]]
 
-https://www.bmbwf.gv.at/dam/jcr:b89e56f6-7e9d-466d-9747-
-
-fa739d2d15e8/lp_vs_gesamt_14055.pdf
+https://www.bmbwf.gv.at/dam/jcr:b89e56f6-7e9d-466d-9747-fa739d2d15e8/lp_vs_gesamt_14055.pdf
 
 An example from the curriculum Physical Education and Sports in secondary school: Pupils should participate in sports with the topic of self-defense, learning how to deal with power and violence.
 
-https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008 568
+https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008568
 
-https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007 850
+https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007850
 
-Tertiary: The network UniNEtZ -universities and sustainable development (www.uninetz.at) organizes inter-university lectures with different universities (Ringvorlesungen: e.g. https://www.uibk.ac.at/international/aurora/sdg/; https://triplen.unileoben.ac.at/)
+Tertiary: The network UniNEtZ – universities and sustainable development (www.uninetz.at) organizes inter-university lectures with different universities (Ringvorlesungen: e.g. https://www.uibk.ac.at/international/aurora/sdg/; https://triplen.unileoben.ac.at/)
 
 #### *B2 Please indicate which GCED and ESD themes are taught as part of the curriculum at each level of education by entering the appropriate number in each white cell.
 
@@ -528,7 +529,9 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 
 #### *B3 Please indicate in which subjects or fields of study GCED and ESD are taught in primary and secondary education by entering the appropriate number in each white cell.
 
-Cultural diversity and tolerance | Gender equality | Human rights | Peace and non- violence | Climate change | Environmental sustainability | Human survival and well- being | Sustainable consumption and production
+KEY: 0 = no, 1 = yes, 9 = unknown
+
+Cultural diversity and tolerance | Gender equality | Human rights | Peace and non-violence | Climate change | Environmental sustainability | Human survival and well-being | Sustainable consumption and production
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Arts | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9
 Civics, civil or citizenship education | 1 | 1 | 1 | 1 | 9 | 9 | 1 | 9
@@ -543,8 +546,6 @@ Science | 9 | 9 | 9 | 9 | 1 | 1 | 9 | 9
 Social studies | 1 | 1 | 1 | 1 | 9 | 9 | 1 | 9
 Integrated studies | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9
 Other (please specify): Business; Entrepreneurship; Economics
-
-KEY: 0 = no, 1 = yes, 9 = unknown
 
 #### *B4 Please indicate the approaches used to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
 
@@ -576,11 +577,11 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 
 [[START OF PAGE 21]]
 
-### Teacher education (including the training of trainers and educators) (paras 4 and 33-37 of the 1974 Recommendation )
+### C. Teacher education (including the training of trainers and educators) (paras 4 and 33-37 of the 1974 Recommendation)
 
 #### C1a. Please describe in which ways GCED and ESD are mainstreamed in initial training and in  continuing  professional  development  of  teachers,  trainers  and  educators.  Indicate whether all teachers, trainers and educators or only some are required to receive training to teach GCED and/or ESD.
 
-Pre-primary: Teachers in the pre-primary education field (ISCED 0) are trained in teacher training colleges for early childhood education. In their five-year form, they impart comprehensive general education as well as a professional attitude, specialist knowledge and skills which are required to fulfil  the  educational  tasks  in  Early  Childhood  Education  and  Care  (ECEC)  services  and institutions. This includes contents in the subject areas religion, languages and communication, general education, early childhood education (0 to 6 years) -theory and practice, expression, design and physical education as well as subjects within the school's autonomy.
+Pre-primary: Teachers in the pre-primary education field (ISCED 0) are trained in teacher training colleges for early childhood education. In their five-year form, they impart comprehensive general education as well as a professional attitude, specialist knowledge and skills which are required to fulfil the educational tasks in Early Childhood Education and Care (ECEC) services and institutions. This includes contents in the subject areas religion, languages and communication, general education, early childhood education (0 to 6 years) – theory and practice, expression, design and physical education as well as subjects within the school’s autonomy.
 
 Intercultural  Learning,  Diversity  and  Inclusive  Pedagogy  are  part  of  the  curricula  of  teacher training  colleges  for  early  childhood  education.  Conveying  values  such  as  human  rights, tolerance, gender equality is an essential part of the curriculum in the course of training. The curriculum  of  the  educational  institutions  for  elementary  education  (BAfEP)  also  includes instructions for pedagogues on how to deal sensitively with aspects of diversity, culture, gender etc.
 
@@ -604,13 +605,14 @@ A special focus is placed on the 2030 agenda. Some university colleges of teache
 
 As far as physical education and sport is concerned, the GCED and ESD topics are mainstreamed according to the interests of the teacher trainer. The curricula for teacher training contain overall outlines for GCED and ESD but no specific anchoring in subjects.
 
-Members of the advisory board advisory board on 'Transformative Education/Global Citizenship Education' at the Austrian Commission for UNESCO (see section I2 for a further, comprehensive statement of the advisory board) point out that generally, ESD and GCED are not mainstreamed in  teacher  education. Some of the themes are part of programmes for specific subjects (e.g., Geography, Biology, Chemistry, Religion) and to a certain extent are integrated in pedagogical training. Consequently, the themes addressed in this survey are optional and stand-alone in the curricula of teacher training, not structurally anchored and neither offered in a building-up nor indepth manner. The advisory board is concerned that student teachers might enter the teaching profession after a six-year course of study without relevant competences for most of the diversity dimensions such as inclusion, migration pedagogy, multilingualism and religious plurality. This could be seen as a threat to the successful implementation of GCED in Austrian schools.
+Members of the advisory board advisory board on “Transformative Education/Global Citizenship Education” at the Austrian Commission for UNESCO (see section I2 for a further, comprehensive statement of the advisory board) point out that generally, ESD and GCED are not mainstreamed in teacher education. Some of the themes are part of programmes for specific subjects (e.g., Geography, Biology, Chemistry, Religion) and to a certain extent are integrated in pedagogical training. Consequently, the themes addressed in this survey are optional and stand-alone in the curricula of teacher training, not structurally anchored and neither offered in a building-up nor in-depth manner. The advisory board is concerned that student teachers might enter the teaching profession after a six-year course of study without relevant competences for most of the diversity dimensions such as inclusion, migration pedagogy, multilingualism and religious plurality. This could be seen as a threat to the successful implementation of GCED in Austrian schools.
 
 #### C1b. Please provide examples of teacher training policies or curricula in which GCED and/or ESD are mainstreamed and, where possible, web links to relevant documents. If  possible, include examples related to initial training and to continuing professional development.
 
 The regional development alliance South-East connecting four University Colleges of Teacher Education and four universities in three federal states of Austria have defined and integrated several transversal key competences and skills into the training programme: Diversity, Multilingualism, Interculturality, Interreligiosity, Gender, Global Citizenship Education, Inclusion of Minorities and Vulnerable Groups (esp. disabled), Media and Digital competencies, Language and Literacy. https://www.lehramt-so.at/wp-content/uploads/2019/07/BA_LA_SekAB_19W.pdf
 
-In a collaboration with partner institutions, the University of Klagenfurt is offering its third Global Citizenship Education course (started in the academic year 2019/20). The second phase took place from 2015 -2018. The Master's Programme combines Citize nship Education, Global Learning, Intercultural Learning and Peace Education in an interdisciplinary approach. Course participants develop knowledge and didactic competences that allow them to create adequate teaching and learning processes. The course is organised on a modular basis, with an even balance between theory and practice. It is extra-occupational, blocked and lasts for a total of six semesters. The programme was honoured with the Austrian Sustainability Award 2018. http://www.globaleslernen.at/fileadmin/user_upload/PDF/Berichte/GlobalCitizenshipEdu_engl2019 _online.pdf
+In a collaboration with partner institutions, the University of Klagenfurt is offering its third Global Citizenship Education course (started in the academic year 2019/20). The second phase took place from 2015 – 2018. The Master’s Programme combines Citizenship Education, Global Learning, Intercultural Learning and Peace Education in an interdisciplinary approach. Course participants develop knowledge and didactic competences that allow them to create adequate teaching and learning processes. The course is organised on a modular basis, with an even balance between theory and practice. It is extra-occupational, blocked and lasts for a total of six semesters. The programme was honoured with the Austrian Sustainability Award 2018.
+http://www.globaleslernen.at/fileadmin/user_upload/PDF/Berichte/GlobalCitizenshipEdu_engl2019_online.pdf
 
 The Vorarlberg university college of teacher education has a focus on Global Education at primary level.
 
@@ -618,35 +620,38 @@ The University College of Teacher Education Salzburg is offering a course in Ref
 
 https://www.phsalzburg.at/fort-und-weiterbildung/angebot/hochschullehrgaenge/hlg-rgp/
 
-A National Center for Psychosocial Health promotion offers materials and in-service training for teachers on emotional and social personality development (stress management, resilience, mindfulness, trauma education, peer education), self-reflection and self-care. www.hepi.at The Forum Environmental Education organises an annual ESD summer academy for educators and multipliers in formal and non-formal education on all levels. Based on the train-the-trainer approach, it offers theoretical inputs, practical workshops and the opportunity to try out various methods in the sense of ESD. An essential point is to create space for changing perspectives and for new ways of thinking and acting. Dimensions of learning are: knowledge, skills, values and attitudes and behaviours. There is an annually changing focus topic. https://www.umweltbildung.at/unsere-angebote/sommerakademie/
+A National Center for Psychosocial Health promotion offers materials and in-service training for teachers on emotional and social personality development (stress management, resilience, mindfulness, trauma education, peer education), self-reflection and self-care. www.hepi.at
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
 
-The Strategy Group Global Learning/Global Citizenship Education organises an annual conference on different aspects of Global Citizenship Education, in recent years with a strong focus on the 2030 Agenda. http://www.globaleslernen.at/aktivitaeten/aktuelleveranstaltungen.html
+The Forum Environmental Education organises an annual ESD summer academy for educators and multipliers in formal and non-formal education on all levels. Based on the train-the-trainer approach, it offers theoretical inputs, practical workshops and the opportunity to try out various methods in the sense of ESD. An essential point is to create space for changing perspectives and for new ways of thinking and acting. Dimensions of learning are: knowledge, skills, values and attitudes and behaviours. There is an annually changing focus topic.
+https://www.umweltbildung.at/unsere-angebote/sommerakademie/
+
+The Strategy Group Global Learning/Global Citizenship Education organises an annual conference on different aspects of Global Citizenship Education, in recent years with a strong focus on the 2030 Agenda. http://www.globaleslernen.at/aktivitaeten/aktuelle-veranstaltungen.html
 
 The University College of Teacher Education Vienna supports the idea of trainings for teachers, trainers and educators when dealing with ideas and principles of GCED and ESD. E.g., "Citizenship Education in the Context of Austrian Social Structure" is explicitly mentioned in the Curriculum Bachelor Primary School Teacher Education. ESD has been part of university didactics since 2017. University college staff work out ideas to support the SDGs in their teaching. Many ESD and GCED themes are implicit parts of seminars, e.g. cultural diversity and tolerance, human rights and gender equality. One example from in-service training taking into account SDGs 4 and 10: 'Concepts and models for appreciative guidance of multilingual children' https://www.ph-online.ac.at/ph-wien/wbLv.wbShowLVDetail?pStpSpNr=256625&pSpracheNr=1
 
 The University College of Teacher Education Vienna has designed an International Programme for Erasmus+ exchange teacher students at the university college. GCED is part of the qualification profile.
 
-https://www.phwien.ac.at/28-hochschullehrgaenge-und-fortbildungsangebot/lehrgaenge/3111international-programme-teacher-training
+https://www.phwien.ac.at/28-hochschullehrgaenge-und-fortbildungsangebot/lehrgaenge/3111-international-programme-teacher-training
 
 The Competence Centre for Migration, Multilingualism and Human Rights Education (Ko.M.M.M.) at the University College of Teacher Education Vienna is charged with consulting, networking and initiating research development projects related to the aspects of multilingualism, migration and human rights education. The team arranges events and teacher trainings and supports selected national and international initiatives. Since 2018, an annual conference on human rights education for teachers, teacher trainers and teacher student is organised. For the 2020 online edition, the SDGs and GCED were put on the agenda.
 
-https://www.phwien.ac.at/86-paedagogische-hochschule-wien/nachlese/3315-1-jahrestagung-zurmenschenrechtsbildung-in-oesterreich
+https://www.phwien.ac.at/86-paedagogische-hochschule-wien/nachlese/3315-1-jahrestagung-zur-menschenrechtsbildung-in-oesterreich
 
-https://paedagogik.de/alle-anzeigen-paedagogik/product/tagungsband-menschenrechtsbildung2018-825/calledBy/searchResult/
+https://paedagogik.de/alle-anzeigen-paedagogik/product/tagungsband-menschenrechtsbildung-2018-825/calledBy/searchResult/
 
-https://www.phwien.ac.at/die-ph-wien/institute/institut-fuer-uebergreifende-bildungsschwerpunkteder-ph-wien/news/3728-zweite-jahrestagung-zur-menschenrechtsbildung
+https://www.phwien.ac.at/die-ph-wien/institute/institut-fuer-uebergreifende-bildungsschwerpunkte-der-ph-wien/news/3728-zweite-jahrestagung-zur-menschenrechtsbildung
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
 
-#### *C2 Please indicate whether teachers, trainers and educators are trained to teach GCED and ESD  during  initial  or  pre-service  training  and/or  through  continuing  professional development. Please enter the appropriate number in each white cell.
+#### *C2 Please indicate whether teachers, trainers and educators are trained to teach GCED and ESD during initial or pre-service training and/or through continuing professional development. Please enter the appropriate number in each white cell.
 
-#### *C3 Please indicate on which GCED and ESD themes pre-service or in-service training is available for teachers, trainers and educators at each level of education by entering the appropriate number in each white cell.
+KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
@@ -657,7 +662,7 @@ Continuing professional development
 For teachers of selected subjects only (in which GCED or ESD are typically taught) | 1 | 1 | 1 | 1
 For teachers of other subjects | 1 | 1 | 1 | 1
 
-KEY: 0 = no, 1 = yes, 9 = unknown
+#### *C3 Please indicate on which GCED and ESD themes pre-service or in-service training is available for teachers, trainers and educators at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -714,7 +719,7 @@ In tertiary education, student assessments are based on knowledge and skills rel
 
 #### *D2 Please indicate whether the GCED and ESD themes below are generally included in student  assessments  or  examinations  at  each  level  of  education  by  entering  the appropriate number in each white cell.
 
-#### *D3 Please indicate which of the dimensions of learning in GCED and ESD below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
+KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
@@ -727,6 +732,8 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 7. | Human survival and well-being | 1 | 9 | 0
 8. | Sustainable consumption and production | 1 | 9 | 0
 
+#### *D3 Please indicate which of the dimensions of learning in GCED and ESD below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
+
 KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
@@ -735,8 +742,6 @@ Knowledge | 1 | 9 | 1 | 9
 Skills | 1 | 9 | 1 | 9
 Values | 1 | 9 | 9 | 9
 Attitudes and behaviours | 1 | 9 | 9 | 9
-
-KEY: 0 = no, 1 = yes, 9 = unknown
 
 [[END OF PAGE 26]]
 
@@ -752,15 +757,15 @@ KEY:
 
 GCED and ESD are not mainstreamed.
 
-- 1 Partially
+1 Partially
 
 Some GCED and/or ESD themes 6  are mainstreamed. Select this option if GCED is mainstreamed but ESD is not (or vice versa).
 
-- 2 Extensively
+2 Extensively
 
 Most GCED and ESD themes are mainstreamed.
 
-- 9 Not known
+9 Not known
 
 It is not known whether GCED and ESD are mainstreamed or not.
 
@@ -789,7 +794,7 @@ Sub-national
 
 [[START OF PAGE 28]]
 
-### Technical  and  vocational  education  and  training (paras 25-29  of the 1974 Recommendation )
+### F. Technical  and  vocational  education  and  training (paras 25-29  of the 1974 Recommendation )
 
 #### F1 Please  describe  any  major  initiatives  that  have  been  undertaken  to  promote  GCED and/or  ESD  in  technical  and  vocational  education  and  training.  Describe  briefly  the outcomes and impact of such initiatives and provide examples of good practices.
 
@@ -817,9 +822,9 @@ The Austrian Lifelong Learning Strategy - LLL:2020 is an instrument to look at d
 
 The Adult Education Initiative is a programme that provides courses in basic education and enables adults who have not acquired school-leaving qualifications to do so. The aim of the Adult Education Initiative is to open up better access opportunities to the labour market and to support social integration.
 
-Young people and adults living in Austria, regardless of origin and previous education, have the opportunity to acquire basic skills free of charge, even after the end of their school-based education.  The Austrian Development Agency funds projects promoting GCED and ESD in adult education and other forms of non-formal education including youth education and out-ofschool education. The projects focus on civic participation and contribute to developing social skills and to understanding complex global interdependencies.  Good practice examples:
+Young people and adults living in Austria, regardless of origin and previous education, have the opportunity to acquire basic skills free of charge, even after the end of their school-based education.  The Austrian Development Agency funds projects promoting GCED and ESD in adult education and other forms of non-formal education including youth education and out-of-school education. The projects focus on civic participation and contribute to developing social skills and to understanding complex global interdependencies.  Good practice examples:
 
-· 'Global Learning in extracurricular youth work 2016 -2017' has contributed to the implementation of Global Learning in youth work by providing education material and training for youth workers https://bjv.at/portfolio-items/projekt-our-world/
+· 'Global Learning in extracurricular youth work 2016-2017' has contributed to the implementation of Global Learning in youth work by providing education material and training for youth workers https://bjv.at/portfolio-items/projekt-our-world/
 
 - The Austrian CSO Südwind has offered innovative material and training for youth and projects for youth organisations. https://www.suedwind.at/bilden/jugendarbeit/
 
@@ -835,11 +840,11 @@ The UniNEtZ project aids inter- and intra-university networking and the integrat
 
 [[START OF PAGE 30]]
 
-Adult education institutions engage in numerous initiatives of research and collaboration -e. g. EU programmes such as Erasmus+ and Horizon 2020 - with the intent of improving their educational programmes.
+Adult education institutions engage in numerous initiatives of research and collaboration – e. g. EU programmes such as Erasmus+ and Horizon 2020 - with the intent of improving their educational programmes.
 
 National Coordinators for the Implementation of the European Agenda for Adult Learning exchange with EU member states in the realm of basic education.
 
-#### H2 Please indicate which types of activities are available that promote international cooperation at each level of education by entering the appropriate number in each white cell.
+#### H2 Please indicate which types of activities are available that promote international co-operation at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -868,9 +873,9 @@ Experts of the Advisory Board on Transformative Education at the Austrian Nation
 
 Some assumptions that seem to be behind the questions about the curricula and the teacher education seem problematic and the generalizing approach does not allow for an adequate
 
-Definitely, GCED and ESD are not mainstreamed in teacher education (initial training), even if there are very timid first steps (like to establish GCED as 'guiding principle', but not as a course, in the teacher education programmes in some Southern Austrian universities). However, there are several well established training programmes (further education) for GCED as well as for ESD in Austria.  T
+Definitely, GCED and ESD are not mainstreamed in teacher education (initial training), even if there are very timid first steps (like to establish GCED as 'guiding principle', but not as a course, in the teacher education programmes in some Southern Austrian universities). However, there are several well established training programmes (further education) for GCED as well as for ESD in Austria.
 
-he Strategy Group Global Learning/Global Citizenship Education was founded in 2003 with the aim of promoting the implementation of Global Learning/ Global Citizenship Education in the Austrian education system and of contributing to networking in the field of Global Learning.  The Strategy Group understands GCED and ESD as pedagogical concepts that aim to provide a deeper understanding of global interdependencies, of connections between ecological, social and economic dimensions of sustainable development and of the importance of political decisions and of the necessity of a profound transformation. This overarching perspective is to be explicitly emphasised and it is to be elaborated on the basis of various topics.
+The Strategy Group Global Learning/Global Citizenship Education was founded in 2003 with the aim of promoting the implementation of Global Learning/ Global Citizenship Education in the Austrian education system and of contributing to networking in the field of Global Learning.  The Strategy Group understands GCED and ESD as pedagogical concepts that aim to provide a deeper understanding of global interdependencies, of connections between ecological, social and economic dimensions of sustainable development and of the importance of political decisions and of the necessity of a profound transformation. This overarching perspective is to be explicitly emphasised and it is to be elaborated on the basis of various topics.
 
 In summary, we can state that there are a number of activities and efforts by teachers, teacher trainers, experts and NGOs to strengthen and implement GCED and ESD in the Austrian education system. However, there is no overarching national strategy for this, therefore GCED and ESD are not mainstreamed in national education policies, curricula and teacher education.
 
