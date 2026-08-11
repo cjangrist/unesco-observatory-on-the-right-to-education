@@ -24,11 +24,13 @@ La nature juridique des obligations découlant de la Convention diffère à plus
 
 Compte tenu des différences de formulation et de portée juridique dues à la nature même de ces deux instruments, la teneur de la Recommandation et celle de la Convention sont identiques. Les États  membres  doivent  donner  effet  à  l'un  ou  l'autre  de  ces  instruments  dans  leur  législation nationale et dans leurs politiques de l'éducation.
 
-Par-dessus tout, les dispositions relatives à l'obligation de soumettre des rapports de l'article VII de la Convention et de l'article correspondant de la Recommandation sont les mêmes. L'article VIII de l'Acte constitutif de l'UNESCO dispose que « Chaque État membre adresse à l'Organisation, aux dates  et  sous  la  forme  que  déterminera  la  Conférence  générale,  des  rapports  sur  les  lois,  les règlements et statistiques relatifs à ses institutions et à son activité dans l'ordre de l'éducation, de la  science  et  de  la  culture,  ainsi  que  sur  la  suite  donnée  aux  recommandations  et  conventions visées  à  l'article IV,  paragraphe 4 » .  Par  conséquent,  même  si  un  État  n'est  pas  partie  à  la Convention, il doit soumettre un rapport sur l'application de la Recommandation, ce qui signifie que tous  les  États  membres  de  l'UNESCO  sont  censés  soumettre  un  rapport  national sur l'application de l'un ou l'autre de ces instruments dans le cadre des consultations de suivi.
+Par-dessus tout, les dispositions relatives à l'obligation de soumettre des rapports de l'article VII de la Convention et de l'article correspondant de la Recommandation sont les mêmes. L'article VIII de l'Acte constitutif de l'UNESCO dispose que « Chaque État membre adresse à l'Organisation, aux dates et sous la forme que déterminera la Conférence générale, des rapports sur les lois, les règlements et statistiques relatifs à ses institutions et à son activité dans l'ordre de l'éducation, de la science et de la culture, ainsi que sur la suite donnée aux recommandations et conventions visées à l'article IV, paragraphe 4 ». Par conséquent, même si un État n'est pas partie à la Convention, il doit soumettre un rapport sur l'application de la Recommandation, ce qui signifie que
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+tous les États membres de l'UNESCO sont censés soumettre un rapport national sur l'application de l'un ou l'autre de ces instruments dans le cadre des consultations de suivi.
 
 ### 3. Participation aux consultations
 
@@ -58,9 +60,9 @@ Lors de l'établissement des rapports, il est demandé aux États membres de bie
 
 Afin  de  simplifier  les  principes  directeurs  tout  en  apportant  aux  États  membres  les  indications indispensables pour les guider dans la formulation de leurs réponses, il est proposé deux séries de questions/remarques :
 
-- Des  questions  ouvertes  ou  fermées  auxquelles  les  États  membres  sont  invités  à répondre  directement  à  l'issue  d'un  processus  participatif.  Veuillez  noter  qu'il  est possible, le cas échéant, de fournir des réponses multiples.
+(1) Des questions ouvertes ou fermées auxquelles les États membres sont invités à répondre directement à l'issue d'un processus participatif. Veuillez noter qu'il est possible, le cas échéant, de fournir des réponses multiples.
 
-- Des indications additionnelles visant à aider les États membres à mieux structurer et détailler  leurs  réponses  aux  questions  ouvertes  (y  compris  des  remarques  sur  la manière  de  répondre  efficacement  aux  questions  posées).  Ces  indications  sont  en italiques.
+(2) Des indications additionnelles visant à aider les États membres à mieux structurer et détailler leurs réponses aux questions ouvertes (y compris des remarques sur la manière de répondre efficacement aux questions posées). Ces indications sont en italiques.
 
 Les  États  membres  sont  encouragés  à  répondre  de  manière  concise,  tout  en  veillant  à  la substance et à la pertinence de leurs réponses.
 
@@ -72,9 +74,9 @@ Les  États  membres  sont  encouragés  à  répondre  de  manière  concise,  
 
 Nom du pays :  GUINEE
 
-### Renseignements sur les mesures législatives, judiciaires, administratives ou autres prises par l'État au niveau national
+### I. Renseignements sur les mesures législatives, judiciaires, administratives ou autres prises par l'État au niveau national
 
-#### Ratification de la Convention 2
+#### 1. Ratification de la Convention 2
 
 Votre pays est-il un État partie à la Convention ?
 
@@ -100,7 +102,7 @@ Indiquez :
 
 o Non,  pas  de  ratification  envisagée  dans  le  proche  avenir.  Veuillez  expliquer pourquoi :
 
-#### Ratification du Protocole 3 instituant une Commission de conciliation et de bons offices chargée de rechercher la solution des différends qui naîtraient entre États parties à la Convention concernant la lutte contre la discrimination dans le domaine de l'enseignement
+#### 2. Ratification du Protocole 3 instituant une Commission de conciliation et de bons offices chargée de rechercher la solution des différends qui naîtraient entre États parties à la Convention concernant la lutte contre la discrimination dans le domaine de l'enseignement
 
 > 2 http://portal.unesco.org/fr/ev.php-URL_ID=12949&URL_DO=DO_TOPIC&URL_SECTION=201.html.
 
@@ -116,7 +118,7 @@ o X Oui
 
 o Non : veuillez exposer succinctement les difficultés rencontrées :
 
-#### Cadre juridique régissant la protection des droits garantis par la Convention et la Recommandation dans le système juridique national
+#### 3. Cadre juridique régissant la protection des droits garantis par la Convention et la Recommandation dans le système juridique national
 
 ##### Si votre pays est un État partie à la Convention :
 
@@ -180,11 +182,11 @@ Les informations fournies pourraient montrer en quoi ces politiques et programme
 
 Ces dispositions contribuent à éliminer  les  inégalités  entre  les  sexes  dans  le  domaine  de  l'éducation  et assurer l'égalité d'accès des personnes vulnérables, y compris les personnes handicapées, les déplacés, les enfants  vulnérables, à tous les niveaux d'enseignement et de formation même au niveau de l'éducation non formelle.
 
-### Renseignements concernant l'application de la Convention ou de la Recommandation
+### II. Renseignements concernant l'application de la Convention ou de la Recommandation
 
-#### Non-discrimination et égalité des chances en matière d'éducation dans le cadre de l'Objectif de développement durable 4 (ODD 4)
+#### 1. Non-discrimination et égalité des chances en matière d'éducation dans le cadre de l'Objectif de développement durable 4 (ODD 4)
 
-Les articles / paragraphes 1(1), 2 et 3 de la Convention / Recommandation prévoient la non- discrimination  et  l'égalité  de  chance  en  matière  d'éducation.  Cette  partie  porte  sur  l'objet principal  de  la  Convention/Recommandation, c'est-à-dire souligner l'obligation qui incombe aux États de proscrire toute forme de discrimination dans le domaine de l'enseignement tout en promouvant l'égalité des chances en matière d'éducation.
+Les articles / paragraphes 1(1), 2 et 3 de la Convention / Recommandation prévoient la non-discrimination et l'égalité de chance en matière d'éducation. Cette partie porte sur l'objet principal de la Convention/Recommandation, c'est-à-dire souligner l'obligation qui incombe aux États de proscrire toute forme de discrimination dans le domaine de l'enseignement tout en promouvant l'égalité des chances en matière d'éducation.
 
 Cette obligation correspond à l'ambition globale énoncée dans l'ODD 4, à savoir « assurer l'accès de tous à une éducation de qualité, sur un pied d'égalité, et promouvoir les possibilités  d'apprentissage  tout  au  long  de  la  vie » d'ici  à  2030.  Elle  couvre  donc l'ensemble des cibles de l'ODD 4, mais aussi, plus particulièrement, la cible 4.5 4 .
 
@@ -238,6 +240,12 @@ La Guinée a opté pour l'éducation inclusive totale. Il convient de noter que 
 
 Ces mesures répondent notamment à la cible 4.1 et, pour partie, à la cible 4.b 6
 
+La lettre de Politique Sectorielle de l'Education (LPSE 2020-2029) novembre 2019)
+Lettre de Politique Sectorielle de l'Education (LPSE 2016-2019)
+Programme prioritaire 1 du ProDEG 2020-2029 : accès équitable à l'enseignement général
+26. l'objectif de ce programme prioritaire est d'améliorer l'accès et l'équité dans l'enseignement général.
+spécifiquement, il s'agira de garantir l'accès à l'enseignement général pour tous les enfants sans distinction de sexe, du milieu de résidence, de localités géographiques et d'origine socio-économique. Le nombre de bourses d'études supérieures augmente d'année en année
+
 ##### 1.3 Veuillez  indiquer  les  mesures  prises  ou  qu'il  est  prévu  de  prendre  dans  votre  pays  pour assurer l'égalité  des  chances (en ce qui concerne l'accès, la participation et l'achèvement des études), et l'égalité de traitement et pour faciliter l'inclusion de tous les apprenants (y compris les filles et les femmes, les personnes économiquement et socialement marginalisées,  les  personnes  handicapées  et  les  autres  groupes  vulnérables)  dans  les processus  d'apprentissage  (il  est  possible  de  cocher/mentionner  plusieurs  catégories  de mesures) :
 
 x o Incitations financières et bourses d'études
@@ -274,15 +282,9 @@ o Autres :
 
 - Veuillez  donner  de  plus  amples  détails  sur  les  mesures  prises,  notamment  pour  assurer l'égalité des genres et l'autonomisation des filles et des femmes dans et par l'éducation :
 
-Dans chaque cycle d'enseignement, il existe un Secrétariat Technique Genre/Equité, comité chargé des questions d'équilibre entre Filles et garçons en milieu scolaire et universitaire. Cela a son implication sur tout le fonctionnement des institutions d'enseignement et de formation. Ainsi, le Gouvernement s'est engagé d'atteindre d'ici 2029 un TBS de 51% et un indice de parité milieu rural/urbain. Pour ce faire, il envisage d'opérer les reformes suivantes (i) appuyer le développement préscolaire communautaire ; (ii) améliorer l'offre publique par l'implantation des classes de préscolaire dans les écoles publiques rurales, (iii) réduire la durée de préscolarisation 3 à 2 ans pour permettre l'accueil d'un plus grand nombre d'enfants. Le gouvernement à atteindre un taux d'achèvement du primaire de 98% à l'horizon 2029. Aussi , il mettra en œuvre des mesures pour atteindre : l'indice de parité filles/garçons du TBS à 0.99 ; l'indice de parité rural/urbain  du taux d'achèvement  à 0.96. l'accè à
+Dans chaque cycle d'enseignement, il existe un Secrétariat Technique Genre/Equité, comité chargé des questions d'équilibre entre Filles et garçons en milieu scolaire et universitaire. Cela a son implication sur tout le fonctionnement des institutions d'enseignement et de formation. Ainsi, le Gouvernement s'est engagé d'atteindre d'ici 2029 un TBS de 51% et un indice de parité milieu rural/urbain. Pour ce faire, il envisage d'opérer les reformes suivantes (i) appuyer le développement préscolaire communautaire ; (ii) améliorer l'offre publique par l'implantation des classes de préscolaire dans les écoles publiques rurales, (iii) réduire la durée de préscolarisation 3 à 2 ans pour permettre l'accueil d'un plus grand nombre d'enfants. Le gouvernement à atteindre un taux d'achèvement du primaire de 98% à l'horizon 2029. Aussi , il mettra en œuvre des mesures pour atteindre : l'indice de parité filles/garçons du TBS à 0.99 ; l'indice de parité rural/urbain du taux d'achèvement à 0.96. l'accès à
 
-> 6 Qui appelle les États à « augmenter nettement à l'échelle mondiale le nombre de bourses d'études offertes  […]  pour  financer  le  suivi  d'études  supérieures,  y  compris  la  formation  professionnelle,  les cursus informatiques, techniques et scientifiques et les études d'ingénieur ».
-
-La lettre de Politique Sectorielle de l'Education (LPSE 2020-2029) novembre 2019) Lettre de Politique Sectorielle de l'Education (LPSE 2016-2019)
-
-Programme prioritaire 1 du ProDEG 2020-2029 : accès équitable à l'enseignement général
-
-- l'objectif de ce programme prioritaire est d'améliorer l'accès et l'équité dans l'enseignement général. spécifiquement, il s'agira de garantir l'accès à l'enseignement général pour tous les enfants sans distinction de sexe, du milieu de résidence, de localités géographiques et d'origine socio-économique. Le nombre de bourses d'études supérieures augmente d'année en année
+> 6 Qui appelle les États à « augmenter nettement à l'échelle mondiale le nombre de bourses d'études offertes […] pour financer le suivi d'études supérieures, y compris la formation professionnelle, les cursus informatiques, techniques et scientifiques et les études d'ingénieur ».
 
 > 7 Parmi les obstacles administratifs à l'accès à l'enseignement figurent, notamment, la non-possession des documents d'identité ou certificats de naissance exigés lors de l'inscription.
 
@@ -308,7 +310,7 @@ Art 23 de la nouvelle constitution : la famille et le mariage
 
 A partir de l'âge de 18 ans, l'homme et la femme, sans aucune restriction de race, de nationalité ou de religion, ont droit de se marier et de fonder une famille. Le mariage avant l'âge de 18 ans est un délit puni par la loi.
 
-#### Progrès accomplis dans la mise en œuvre du droit à l'éducation dans le cadre de l'ODD 4
+#### 2. Progrès accomplis dans la mise en œuvre du droit à l'éducation dans le cadre de l'ODD 4
 
 ##### 2.1 Enseignement pré primaire
 
@@ -316,9 +318,7 @@ L'enseignement pré primaire n'est pas explicitement prévu dans la Convention /
 
 - Une éducation pré primaire obligatoire et gratuite est-elle offerte dans votre pays ?
 
-o X  L'éducation  pré  primaire  est  obligatoire :  veuillez  indiquer  l'âge  d'inscription  et  la durée de cette éducation :
-
-o X  L'éducation  pré  primaire  est  obligatoire :  veuillez  indiquer  l'âge  d'inscription  et  la durée de cette éducation :
+o X L'éducation pré primaire est obligatoire : veuillez indiquer l'âge d'inscription et la durée de cette éducation :
 
 o L'éducation pré primaire est gratuite pour tous : veuillez en indiquer la durée :
 
@@ -442,7 +442,7 @@ Vous pouvez aussi donner ci-dessous  des  informations  sur  les  difficultés  
 
 [[START OF PAGE 12]]
 
-Le rapport annuel de performance 2018 du secteur de l'éducation et de la formation indique que des efforts sont encore à fournir en dépit des progrès enregistrés ces dernières années pour améliorer la qualité des enseignements et apprentissage s à tous les ordres d'enseignement. Il s'agit principalement au niveau du secondaire de : (1) l'inadéquation entre l'offre et la demande scolaire qui se traduit par l'insuffisance des capacités d'accueil en zones urbaines et rurales. (2) la persistance des disparités et la faible rétention des enfants à l'école (30% décrochent avant le secondaire). (3) l'insuffisance d'enseignants et leur  mauvaise  allocation.  (4)  l'insuffisance  des  capacités  académiques  et  professionnelles  de  certains  enseignants.  (5) l'insuffisance de manuels scolaires. (6) le manque d'harmonisation des différentes interventions dans la formation continue des enseignants ; (7) l'inadéquation de la formation dispensée avec les besoins réels du marché de l'emploi etc.
+Le rapport annuel de performance 2018 du secteur de l'éducation et de la formation indique que des efforts sont encore à fournir en dépit des progrès enregistrés ces dernières années pour améliorer la qualité des enseignements et apprentissages à tous les ordres d'enseignement. Il s'agit principalement au niveau du secondaire de : (1) l'inadéquation entre l'offre et la demande scolaire qui se traduit par l'insuffisance des capacités d'accueil en zones urbaines et rurales. (2) la persistance des disparités et la faible rétention des enfants à l'école (30% décrochent avant le secondaire). (3) l'insuffisance d'enseignants et leur mauvaise allocation. (4) l'insuffisance des capacités académiques et professionnelles de certains enseignants. (5) l'insuffisance de manuels scolaires. (6) le manque d'harmonisation des différentes interventions dans la formation continue des enseignants ; (7) l'inadéquation de la formation dispensée avec les besoins réels du marché de l'emploi etc.
 
 -  Indiquez  si  votre  pays  a  adopté  une  législation  définissant  l'âge  minimum  d'admission  à l'emploi  et  l'a  éventuellement  révisée  de  façon  que  cet  âge  corresponde  à  la  fin  de  la scolarité obligatoire :
 
@@ -508,11 +508,15 @@ Les étudiants étrangers sont reçus dans les mêmes conditions d'études et de
 
 Vous  pouvez  aussi  donner  des  informations  sur  les  difficultés  rencontrées  par  votre Gouvernement en ce qui concerne l'accès à l'enseignement supérieur et les progrès réalisés, éventuellement assorties de données quantitatives.
 
-L'enseignement  supérieur  est  généralement  gratuit.  C'est  dans  les  universités  privées  que  des  frais  de  scolarités  sont obligatoires  si  l'étudiant  ne  bénéficie  pas  de  la  bourse  de  l'Etat.  l'état  a  payé  les  bourses  aux  étudiants  même  dans  les universités privées, le  nombre  très  croissant  des  étudiants  dans  les  universités  privées  avec  quelques  fois  des surévaluations  sur  les  effectifs,  l'Etat  a  du  renoncer  à  cette  surfacturation  pour  se  concentrer  sur  l'esentiel.      Les  coûts financiers sont différents d'un établissement à l'autre. Dans ces conditions les frais sont liés à l'inscription et la réinscription, les frais de scolarité, l'achat des manuels et autres kits scolaires, la restauration, le transport etc. Les  principaux  défis  auxquels  répondent  la  réforme  de  l'enseignement  supérieur  et  la  recherche  scientifique  sont  entre autres : 1.la faible gouvernance et le pilotage. 2. l'offre publique reste inéquitable.  3. L'offre de l'enseignement supérieur n'est pas suffisamment en lien avec les priorités socioéconomiques nationales. 4. l'insuffisance de la qualité d'enseignement, de  la  formation  et  de  la  recherche  scientifique ;  5.la  faible  coopération  scientifique  et  technique  sous-régional  et internationale ;  6.la  faible  mobilisation  de  ressources  financières  publiques  et  privées ;  7.  Le  vieillissement  du  corps enseignant ;  8.  Les  conditions  de  vie  précaires  du  personnel  enseignant  et  de  recherche. ProDEG  2020-2029  programme prioritaire 5 : Réforme de l'enseignement supérieur et de la recherche scientifique.
+L'enseignement supérieur est généralement gratuit. C'est dans les universités privées que des frais de scolarités sont obligatoires si l'étudiant ne bénéficie pas de la bourse de l'Etat. l'état a payé les bourses aux étudiants même dans les universités privées, le nombre très croissant des étudiants dans les universités privées avec quelques fois des surévaluations sur les effectifs, l'Etat a du renoncer à cette surfacturation pour se concentrer sur l'esentiel. Les coûts
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+
+financiers sont différents d'un établissement à l'autre. Dans ces conditions les frais sont liés à l'inscription et la réinscription, les frais de scolarité, l'achat des manuels et autres kits scolaires, la restauration, le transport etc.
+
+Les principaux défis auxquels répondent la réforme de l'enseignement supérieur et la recherche scientifique sont entre autres : 1.la faible gouvernance et le pilotage. 2. l'offre publique reste inéquitable. 3. L'offre de l'enseignement supérieur n'est pas suffisamment en lien avec les priorités socioéconomiques nationales. 4. l'insuffisance de la qualité d'enseignement, de la formation et de la recherche scientifique ; 5.la faible coopération scientifique et technique sous-régional et internationale ; 6.la faible mobilisation de ressources financières publiques et privées ; 7. Le vieillissement du corps enseignant ; 8. Les conditions de vie précaires du personnel enseignant et de recherche. ProDEG 2020-2029 programme prioritaire 5 : Réforme de l'enseignement supérieur et de la recherche scientifique.
 
 ##### 2.4 Éducation des adultes et autres possibilités d'apprentissage
 
@@ -536,7 +540,7 @@ o Autres :
 
 - Veuillez décrire plus en détail les mesures prises :
 
-Les centres Nafa (ou école de la seconde chance) sont construits et ouverts à l'intention des enfants déscolarisés et ou non scolarisés de 9 à 14 ans pour une formation accélérée de 3 ans. Les enfants font la passerelle pour le collège pour retrouver leurs camarades en majorité et les autres apprennent un métier pour leur réinsertion socio-économique. Les écoles postprimaires  recrutent  les  enfants  ayant  abandonnés  l'école  après  le  primaire  sans  aucune  qualification  et  pour  diverses raisons.  Les  post-primaires  offrent  des  formations  techniques  et  professionnelles  pour  une  réinsertion  dans  la  vie économique et sociale. Le programme d'alphabétisation des adultes offre des possibilités d'apprentissage avec plusieurs sous programmes : (1) alphabétisation fonctionnelle des jeunes et adultes avec priorité aux filles/femmes. (2) alphabétisation  professionnalisant  des  jeunes  de  19  à  25  ans.  (3)  alphabétisation  des  élus  locaux  et  membres  des Associations des Parents et Amis de l'Ecole. (4) formation des enfants déscolarisés et non scolarisés de 9 à 14 ans. (5) alphabétisation des personnes en situation difficile (handicapés, nomades, réfugiés, filles-mères, enfants en conflit avec la loi etc.) ; formation technique et professionnelle des adultes dans les centres d'apprentissage communautaires
+Les centres Nafa (ou école de la seconde chance) sont construits et ouverts à l'intention des enfants déscolarisés et ou non scolarisés de 9 à 14 ans pour une formation accélérée de 3 ans. Les enfants font la passerelle pour le collège pour retrouver leurs camarades en majorité et les autres apprennent un métier pour leur réinsertion socio-économique. Les écoles post-primaires recrutent les enfants ayant abandonnés l'école après le primaire sans aucune qualification et pour diverses raisons. Les post-primaires offrent des formations techniques et professionnelles pour une réinsertion dans la vie économique et sociale. Le programme d'alphabétisation des adultes offre des possibilités d'apprentissage avec plusieurs sous programmes : (1) alphabétisation fonctionnelle des jeunes et adultes avec priorité aux filles/femmes. (2) alphabétisation professionnalisant des jeunes de 19 à 25 ans. (3) alphabétisation des élus locaux et membres des Associations des Parents et Amis de l'Ecole. (4) formation des enfants déscolarisés et non scolarisés de 9 à 14 ans. (5) alphabétisation des personnes en situation difficile (handicapés, nomades, réfugiés, filles-mères, enfants en conflit avec la loi etc.) ; formation technique et professionnelle des adultes dans les centres d'apprentissage communautaires
 
 Ainsi, l'alphabétisation et l'éducation des adultes jouent un rôle central dans la prévention et l'exclusion sociale et dans la promotion  de  l'équité  et  de  la  justice  sociale.  L'objectif  quantitatif  sera  de  sortir  2  millions  de  jeunes  et  adultes  de l'analphabétisme  à  l'horizon  2029.  Pour  ce  faire,  un  accent  particulier  sera  mis  sur :  (i)la  mobilisation  sociale  pour l'accroissement de financement de l'AEA. (ii) la diversification des approches /modèles et des types de centres d'accueil. (iii) l'amélioration de la qualité de l'AEA. (iv) le développement de la post alphabétisation.
 
@@ -576,7 +580,7 @@ Dans le rapport annuel de performance 2018 du secteur de l'Education et de la fo
 
 - construction et équipement de 36 salles de classe sur le BND ;
 
-- construction de 80 écoles (240 SDC) avec 2 blocs de latrines , points d'eau, dispositifs de lavage des mains par plan-internationalguinée sur financement de la KFW ;
+- construction de 80 écoles (240 SDC) avec 2 blocs de latrines , points d'eau, dispositifs de lavage des mains par plan-international-guinée sur financement de la KFW ;
 
 - construction de 22 logements pour enseignants par plan-international -guinée ;
 
@@ -694,7 +698,7 @@ Objectifs et priorités du pilotage et gestion au MEN-A programmés et réalisé
 
 Tous les enseignants du même niveau se valent et sont traités conséquemment sans distinction de sexes
 
-o : votre Gouvernement a-t-il pris des mesures pour y remédier ?
+o Oui : votre Gouvernement a-t-il pris des mesures pour y remédier ?
 
 o Oui
 
@@ -802,9 +806,7 @@ Les droits des réfugiés et des migrants ne sont pas explicitement prévus dans
 
 Cette rubrique correspond en outre à la cible 4.5, qui appelle les États à « assurer l'égalité d'accès des personnes vulnérables, y compris les (...) enfants en situation vulnérable, à tous les  niveaux  d'enseignement  et  de  formation  professionnelle »,  et  couvre  la  majorité  des cibles de l'ODD 4.
 
--Veuillez  décrire  succinctement  le  cadre  juridique  et  politique  qui  protège  le  droit  des réfugiés et des migrants à une éducation de qualité dans votre pays.
-
-### Moyens mis en place pour sensibiliser les différentes autorités du pays à ces instruments et pour lever les obstacles rencontrés
+- Veuillez décrire succinctement le cadre juridique et politique qui protège le droit des réfugiés et des migrants à une éducation de qualité dans votre pays.
 
 - Veuillez indiquer brièvement les mesures qui ont été adoptées par les autorités nationales et locales pour garantir le droit à l'éducation des réfugiés et des migrants (il est possible de cocher/mentionner plusieurs catégories de mesures) :
 
@@ -827,6 +829,8 @@ o X Aides financières
 o Autres mesures innovantes :
 
 - Veuillez préciser brièvement les mesures prises :
+
+### III. Moyens mis en place pour sensibiliser les différentes autorités du pays à ces instruments et pour lever les obstacles rencontrés
 
 > 14 Articles/paragraphes 1 et 3.
 
