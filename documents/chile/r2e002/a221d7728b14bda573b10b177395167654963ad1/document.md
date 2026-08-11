@@ -6,15 +6,15 @@ Fecha Publicación        :28-01-2010
 
 Fecha Promulgación       :18-01-2010
 
-Inicio Vigencia          :02-02-2010
-
-Id Norma                 :1010482
-
 Organismo                :MINISTERIO DE SALUD; SUBSECRETARÍA DE SALUD PÚBLICA
 
 Título                   :FIJA NORMAS SOBRE INFORMACIÓN, ORIENTACIÓN Y PRESTACIONES EN MATERIA DE REGULACIÓN DE LA FERTILIDAD
 
 Tipo Versión             :Última Versión     De : 02-02-2010
+
+Inicio Vigencia          :02-02-2010
+
+Id Norma                 :1010482
 
 URL                      :https://www.leychile.cl/N?i=1010482&f=2010-02-02&p=
 
@@ -38,13 +38,15 @@ Sin perjuicio de lo anterior, los establecimientos educacionales reconocidos por
 ## Artículo 2º.-
 Toda persona tiene derecho a elegir libremente, sin coacción de ninguna clase y de acuerdo a sus creencias o formación, los métodos de regulación de la fertilidad femenina y masculina, que cuenten con la debida autorización y, del mismo modo, acceder efectivamente a ellos, en la forma señalada en el artículo 4º.
 
-Sin embargo, en aquellos casos en que el método anticonceptivo de emergencia sea solicitado por una persona menor de 14 años, el funcionario o facultativo que corresponda, sea del sistema público o privado de salud, procederá a la entrega de dicho medicamento, debiendo informar, posteriormente, al padre o madre de la menor o al adulto responsable que la menor señale.
+Sin embargo, en aquellos casos en que el método
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 23-May-2018
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+anticonceptivo de emergencia sea solicitado por una persona menor de 14 años, el funcionario o facultativo que corresponda, sea del sistema público o privado de salud, procederá a la entrega de dicho medicamento, debiendo informar, posteriormente, al padre o madre de la menor o al adulto responsable que la menor señale.
 
 ## Artículo 3º.-
 Toda persona tiene derecho a la confidencialidad y privacidad sobre sus opciones y conductas sexuales, así como sobre los métodos y terapias que elija para la regulación o planificación de su vida sexual.
@@ -77,9 +79,12 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 (Boletín Nº 6582-11)
 
-La Secretaria del Tribunal Constitucional, quien suscribe, certifica que la Honorable Cámara de Diputados envió el proyecto enunciado en el rubro, aprobado por el Congreso Nacional, a fin de que este Tribunal ejerciera el control de constitucionalidad respecto de las normas que regulan materias propias de ley orgánica constitucional que aquel contiene, y que por sentencia de 14 de enero de 2010 en los autos Rol Nº1.588-09-CPR.                                Aviso S/N
+La Secretaria del Tribunal Constitucional, quien suscribe, certifica que la Honorable Cámara de Diputados envió el proyecto enunciado en el rubro, aprobado por el Congreso Nacional, a fin de que este Tribunal ejerciera el control de constitucionalidad respecto de las normas que regulan materias propias de ley orgánica constitucional que aquel contiene, y que por sentencia de 14 de enero de 2010 en los autos Rol Nº1.588-09-CPR.
 
-Se declara: Que es constitucional el inciso cuarto del     D.O. 02.02.2010 artículo 1º del proyecto de ley remitido para su control pre-ventivo.
+Se declara: Que es constitucional el inciso cuarto del artículo 1º del proyecto de ley remitido para su control pre-ventivo.
+
+Aviso S/N
+D.O. 02.02.2010
 
 Santiago, 14 de enero de 2010.- Marta de la Fuente Olguín, Secretaria.
 
