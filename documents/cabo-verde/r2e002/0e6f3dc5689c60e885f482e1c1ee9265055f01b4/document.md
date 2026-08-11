@@ -2,7 +2,7 @@
 
 REPÚBLICA DE CABO VERDE MINISTÉRIO DA EDUCAÇÃO E VALORIZAÇÃO DOS RECURSOS HUMANOS
 
-# PLANO NACIONAL DE ACÇÃO DE EDUCAÇÃO PARA TODOS (P N A - E P T)
+# PLANO NACIONAL DE ACÇÃO DE EDUCAÇÃO PARA TODOS (P N A – E P T)
 
 Praia, 25 de Outubro de 2002
 
@@ -41,6 +41,41 @@ Página 1 de 73
 ## I PARTE
 
 ### 1. CARACTERIZAÇÃO DE CABO VERDE
+
+25°
+24°
+23°
+17°
+SANTO ANTÃO
+Ribeira Grande
+Tarrafal
+SÃO VICENTE
+Mindelo
+ILHÉU BRANCO
+ILHÉU RASO
+SANTA LUZIA
+SÃO NICOLAU
+Ribeira Brava
+SAL
+Palmeira
+Pedra Lume
+Santa Maria
+16°
+ATLANTIC OCEAN
+BOA VISTA
+Sal Rei
+15°
+ILHÉUS DO ROMBO
+Villa de Nova Sintra
+BRAVA
+FOGO
+São Filipe
+SANTIAGO
+Tarrafal
+Assomada
+PRAIA
+MAIO
+Porto Inglês
 
 #### 1.1 Aspectos físicos e demográficos
 
@@ -120,95 +155,64 @@ Página 5 de 73
 
 ### 1. ORGANOGRAMA DO SISTEMA EDUCATIVO CABO-VERDIANO 2000/01
 
-Ensino Básico Integrado
+ENSINO SUPERIOR
 
-(EBI)
-
-Educação Pré-Escolar
+Ensino Médio
 
 Ensino Secundário
 
-3ª Fase
-
-2ª Fase
-
-1ª Fase
-
-Ensino Básico de Adultos
-
-(EBA)
-
-ENSINO SUPERIOR
-
-Ensino
-
-Médio
-
-2ª Fase
-
-4º ano
-
-3º ano
-
-8º ano
-
-1º Ciclo (Tronco Comum)
-
-7º ano
-
-10º ano
-
-2º Ciclo (via geral e técnica)
-
-9º ano
-
-12º ano
-
 3º Ciclo (via geral e técnica)
-
+12º ano
 11º ano
 
-1ª Fase
+2º Ciclo (via geral e técnica)
+10º ano
+9º ano
 
-2º ano
+1º Ciclo (Tronco Comum)
+8º ano
+7º ano
 
-1º ano
+Formação Complementar Profissionalizante
+
+Ensino Básico Integrado
+(EBI)
 
 3ª Fase
-
 6º ano
-
 5º ano
 
-Formação Complementar
+2ª Fase
+4º ano
+3º ano
 
-Profissionalizante
+1ª Fase
+2º ano
+1º ano
+
+Ensino Básico de Adultos
+(EBA)
+
+3ª Fase
+2ª Fase
+1ª Fase
+
+Educação Pré-Escolar
 
 Idades
-
+17/18
+15/16
+14/15
+12/13
+11/12
+10/11
+8/9
+6/7*
 5
-
 4
-
 3
 
-11/12
-
-10/11
-
-8/9
-
-6/7 *
-
-17/18
-
-15/16
-
-14/15
-
-12/13
-
-Elaboração:  GEP-SIGE/PROMEF-MED
+Elaboração: GEP-SIGE/PROMEF-MED
 
 * Os alunos que frequentaram os dois últimos anos de Pré-Escolar podem matricular no EBI, desde que completem 6 anos de idade até 31 de Dezembro do ano de matricula. Os que não frequentaram esse nível, só podem matricular no EBI com 7 anos.
 
@@ -218,7 +222,7 @@ Página 6 de 73
 
 [[START OF PAGE 8]]
 
-### 2. -ESTRUTURA E ORGANIZAÇÃO DO SISTEMA
+### 2. – ESTRUTURA E ORGANIZAÇÃO DO SISTEMA
 
 O sistema educativo, de acordo com a Lei de Bases (Lei n°103/III/90 de 29 de  Dezembro),  compreende  os  subsistemas  de  educação  pré-escolar,  de educação escolar e de educação extra-escolar, complementados com actividades  de  animação  cultural  e  desporto  escolar  numa  perspectiva  de integração.
 
@@ -250,19 +254,19 @@ Na última  década  registou-se  um  crescimento  acentuado  da  população  e
 
 ##### 2.1.1 Dados Demográficos
 
-1980 | 1990 | 2000
+Quadro 1 – Dados Demográficos
+
+ | 1980 | 1990 | 2000
 --- | --- | --- | ---
-População residente | 270999 | 341491 | 43199
+População residente | 270999 | 341491 | 431989
 População com [0-2] anos | 24337 | 26625 | 31694
 [3-5] anos | 27687 | 34293 | 35912
-População em idade escolar
+População em idade escolar |  |  | 
 [6] anos | 9653 | 10618 | 12491
 [6-11] anos | 53068 | 57792 | 77422
 [12-17] anos | 42276 | 45694 | 68125
 População com [15-49] anos | 104111 | 139285 | 198645
 [15 e + ] anos. | 142293 | 187968 | 249996
-
-Quadro 1 - Dados Demográficos
 
 ##### 2.1.2 Evolução dos Efectivos
 
@@ -270,7 +274,7 @@ Dos cerca de 158.000 inscritos  em  2000/01  nas  diversas  instituições  educ
 
 No  ensino  pós-secundário  estavam  inscritos  os  restantes  alunos  (3%  do  total). Destes, cerca de 57% eram estudantes no estrangeiro e 26% frequentava cursos em instituições nacionais de formação de professores (IP e ISE).
 
-Pelas  tabelas  apresentadas  de  seguida,  verifica-se  uma  diminuição  das  taxas  de analfabetismo  que,  segundo  o  censo  de  2000,  ainda  atingem  cerca  de  25%  da população com 15 e mais anos (se bem que, apenas 7,6% da população com [1534] anos é considerada analfabeta).
+Pelas  tabelas  apresentadas  de  seguida,  verifica-se  uma  diminuição  das  taxas  de analfabetismo  que,  segundo  o  censo  de  2000,  ainda  atingem  cerca  de  25%  da população com 15 e mais anos (se bem que, apenas 7,6% da população com [15-34] anos é considerada analfabeta).
 
 Página 8 de 73
 
@@ -278,24 +282,24 @@ Página 8 de 73
 
 [[START OF PAGE 10]]
 
-80/81 | 85/86 | 90/91 | 97/98 | 00/01
+Quadro 1.2 – Evolução dos efectivos
+
+ | 80/81 | 85/86 | 90/91 | 97/98 | 00/01
 --- | --- | --- | --- | --- | ---
-Educação Pré-escolar | 12484( * ) | 18227 | 19801
+Educação Pré-escolar |  |  | 12484(*) | 18227 | 19801
 Ensino Básico (6 anos) | 57044 | 58064 | 69823 | 91777 | 90640
 Ensino Secundário (5/6 anos) | 3246 | 5440 | 9586 | 31602 | 43384
 Ensino Geral | 2742 | 4979 | 8687 | 30166 | 42353
 Ensino Técnico | 504 | 461 | 899 | 1436 | 1031
-Ensino Médio Superior
-Form Prof ED | 134 | 126 | 138 | 496 | 582( ** )
-Form Prof ES | 100 | 313 | 507( ** )
-Cursos Diversos | 232 | 712( ** )
+Ensino Médio Superior |  |  |  |  | 
+Form Prof ED | 134 | 126 | 138 | 496 | 582(**)
+Form Prof ES |  |  | 100 | 313 | 507(**)
+Cursos Diversos |  |  |  | 232 | 712(**)
 Taxa de analfabetismo | 48,8% | 41,1% | 38,0% | 30,0% | 25,0%
 
-Quadro 1.2 - Evolução dos efectivos
+(*) – Dados referentes a 1993.
 
-(*) - Dados referentes a 1993.
-
-(**) - Dados provisórios de 2001/02.
+(**) – Dados provisórios de 2001/02.
 
 Enquanto a Educação pré-escolar registava, na década de 90, taxas de crescimento médio anual da ordem dos 6,8% o Ensino Básico Integrado torna-se universal em meados desta década atingindo hoje taxas líquidas de escolarização de 96%. No primeiro quinquénio dos anos 90 foi efectuado um grande esforço, tanto na área das  construções  escolares,  como  na  área  da  formação  de  professores,  para  se poder responder com alguma qualidade à enorme procura educativa que então se registava ao nível do Ensino Básico. A partir de 1998/99 os efectivos deste nível de ensino começam a estabilizar e mesmo a diminuir devido, certamente, à diminuição da taxa de natalidade, à melhoria das condições de ensino e, por conseguinte, à melhoria do aproveitamento escolar.
 
@@ -303,20 +307,20 @@ A expansão do EBI registada em meados da década de 90 vem provocar um forte au
 
 ##### 2.1.3 Escolarização e Aproveitamento Escolar
 
-80/81 | 85/86 | 90/91 | 97/98 | 00/01
---- | --- | --- | --- | --- | --- | ---
-Taxa de cobertura | PE | 40,0% | 49,0% | 52,5%
-Taxa líquida de escolarização | EB | 72,6% | 76,3% | 89,0% | 96,0% | 96,0%
-ES | 2,8% | 5,3% | 20,3% | 45,8% | 54,0%
-Taxa de promoção | EB | 63,8% | 63,1% | 73,6% | 85,7%
-ES | 56,9% | 57,9% | 64,0% | 67,0%
-Taxa de repetência | EB | 29,5% | 30,2% | 18,0% | 12,0%
-ES | 27,0% | 28,0% | 26,0% | 22,0%
-% Inscritos do sexo feminino | PE | 49,5% | 50,7%
-EB | 49,0% | 49,0% | 48,9%
-ES | 49,0% | 50,0% | 51,0%
+Quadro 1.3 – Escolarização e aproveitamento
 
-Quadro 1.3 - Escolarização e aproveitamento
+ |  | 80/81 | 85/86 | 90/91 | 97/98 | 00/01
+--- | --- | --- | --- | --- | --- | ---
+Taxa de cobertura | PE |  |  | 40,0% | 49,0% | 52,5%
+Taxa líquida de escolarização | EB | 72,6% | 76,3% | 89,0% | 96,0% | 96,0%
+ | ES | 2,8% | 5,3% | 20,3% | 45,8% | 54,0%
+Taxa de promoção | EB | 63,8% | 63,1% | 73,6% | 85,7% | 
+ | ES | 56,9% | 57,9% | 64,0% | 67,0% | 
+Taxa de repetência | EB | 29,5% | 30,2% | 18,0% | 12,0% | 
+ | ES | 27,0% | 28,0% | 26,0% | 22,0% | 
+% Inscritos do sexo feminino | PE |  |  |  | 49,5% | 50,7%
+ | EB |  |  | 49,0% | 49,0% | 48,9%
+ | ES |  |  | 49,0% | 50,0% | 51,0%
 
 Página 9 de 73
 
@@ -328,29 +332,29 @@ Página 9 de 73
 
 A  forte  expansão  do  EBI  e  posteriormente  do  ES,  não  foi  correspondida  pelas políticas  de  formação  que  então  se  desenvolveram  com  o  apoio  das  Escolas  de Formação de Professores. Com efeito, verifica-se ainda hoje uma grande  penúria
 
-80/81 | 85/86 | 90/91 | 97/98 | 00/01
+Quadro 1.4 – Evolução do corpo docente
+
+ |  | 80/81 | 85/86 | 90/91 | 97/98 | 00/01
 --- | --- | --- | --- | --- | --- | ---
-PE | 617 | 799
-Professores em exercício | EB | 1586 | 1787 | 2186 | 3219 | 3214
-ES | 164 | 212 | 364 | 1372 | 1818
-Monitores com Habilitação Adequada para PE | 8,0 | 7,0
-Monitores com Habilitação Adequada para todas as fases do EB | 20,5 | 23,2 | 36,3
-Professores com Habilitação Adequada para ES | 65,0 | 63,0 | 58,6
+Professores em exercício | PE |  |  |  | 617 | 799
+ | EB | 1586 | 1787 | 2186 | 3219 | 3214
+ | ES | 164 | 212 | 364 | 1372 | 1818
+Monitores com Habilitação Adequada para PE |  |  |  |  | 8,0 | 7,0
+Monitores com Habilitação Adequada para todas as fases do EB |  |  |  | 20,5 | 23,2 | 36,3
+Professores com Habilitação Adequada para ES |  |  |  | 65,0 | 63,0 | 58,6
 
-Quadro 1.4 - Evolução do corpo docente
+Quadro 1.4 – Evolução nº de instalações escolares
 
-80/81 | 85/86 | 90/91 | 97/98 | 00/01
+ |  | 80/81 | 85/86 | 90/91 | 97/98 | 00/01
 --- | --- | --- | --- | --- | --- | ---
-Número de Instituições Educativas | PE | 203( * ) | 313 | 384
-EB | 451 | 451 | 370 | 407 | 420
-ES | 4 | 5 | 8 | 24 | 33
-PE | 638
-Número de salas de aula | EB | 860 | 923 | 1156 | 1702 | 1796
-ES | 68 | 94 | 145 | 499 | 654
-% de salas | PE | 65,8% | 66,1%
-EB | 65,0% | 74,0% | 76,0% | 77,0% | 84,0%
-
-Quadro 1.4 - Evolução nº de instalações escolares
+Número de Instituições Educativas | PE |  |  | 203(*) | 313 | 384
+ | EB | 451 | 451 | 370 | 407 | 420
+ | ES | 4 | 5 | 8 | 24 | 33
+Número de salas de aula | PE |  |  |  |  | 638
+ | EB | 860 | 923 | 1156 | 1702 | 1796
+ | ES | 68 | 94 | 145 | 499 | 654
+% de salas em condições | PE |  |  |  | 65,8% | 66,1%
+ | EB | 65,0% | 74,0% | 76,0% | 77,0% | 84,0%
 
 de  professores,  quer  para  leccionar  as  3  fases  do  ensino  básico  (apenas  36% possuía habilitações adequadas), quer  no ensino secundário com a penas 59% de professores qualificados.
 
@@ -368,6 +372,25 @@ Página 10 de 73
 
 ##### 2.1.5 Evolução da Frequência Escolar e Índice de Desenvolvimento EPT
 
+Gráfico 1.1 - Evolução das Frequências do EBI
+
+Total Nacional - Ensino Básico
+
+Frequências
+10000
+8000
+6000
+4000
+2000
+0
+
+80/81 | 85/86 | 90/91 | 95/96 | 00/01
+
+Cma₁ = 2,3%;     Cma₂ = 0,8%
+
+Nota: Cma₁ - Taxa de crescimento médio anual para o período entre 1980 e 2000.
+Cma₂ - Taxa de crescimento médio anual para o período entre 1995 e 2000.
+
 Integrado no âmbito do Plano Nacional de Educação para Todos, efectuou-se um estudo  para  o  Ensino  Básico  que  caracteriza  o índice  de  desenvolvimento da Educação para Todos e o coeficiente de eficácia interna para o EBI.
 
 Para se analisar o índice de desenvolvimento da Educação para Todos (EPT), teve-se em conta:
@@ -383,6 +406,26 @@ Página 11 de 73
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+Gráfico 1.8- Índice de desenvolvimento da EPT
+
+T. Alfabetização = 75,0%
+T. Admis. = 92,8%
+Índice de Paridade = 0,96
+
+Gráfico 1.9 - Perfil de Escolarização
+
+Novos Inscritos
+17000
+15000
+13000
+11000
+9000
+7000
+5000
+
+95/96 1º | 96/97 2º | 97/98 3º | 98/99 4º | 99/00 5º | 00/01 6º
+N.Inscr./Ano Esc. | 14782 | 14670 | 14592 | 14407 | 12938 | 12372
 
 Explorando as coortes relativas à evolução dos 6 primeiros anos de escolaridade pode analisar-se, entre outros indicadores, o número de anos-aluno necessário para formar os respectivos graduados.
 
@@ -404,6 +447,8 @@ Com efeito, utilizando uma coorte teórica fundamentada na coorte real das frequ
 
 . O número médio de anos para formar um graduado do EBI é de :
 
+Nº a/G = [(G1x6)+(G2x7)+(G3x8)]/ Tot.(G) = 6,56
+
 Por último, a esperança de vida escolar (EVE) para uma criança que ingressava em 2000, com 6 anos, no 1º ano de escolaridade, era de EVE = 11,8 anos.
 
 Para além de se conhecer o coeficiente de eficácia interna (73%) e a consequente taxa  de  desperdício  (27%),  este  método  permite  conhecer  também,  o  número médio de anos que um aluno leva para completar o EBI (8,2 anos), bem como, o número  médio  de  anos  que  os  graduados  do  EBI  levam  para  completar,  com sucesso, este nível de ensino.
@@ -418,24 +463,25 @@ Página 12 de 73
 
 As despesas com a educação aumentaram, sobretudo, na década de 90, passando dos 13% do OGE,  em 1990, para cerca de 20% em 2000.
 
-No início  da  presente  década,  estimava-se  que  o  Ministério  da  Educação  gastava anualmente, com cada aluno do EBI, cerca de 19.500 ECV e que, com os alunos do Ensino Secundário, este valor chegava aos 5O.400 ECV.
+No início  da  presente  década,  estimava-se  que  o  Ministério  da  Educação  gastava anualmente, com cada aluno do EBI, cerca de 19.500 ECV e que, com os alunos do Ensino Secundário, este valor chegava aos 50.400 ECV.
 
-Quadro 1.6 - Despesas com a Educação
+Quadro 1.6 – Despesas com a Educação
 
-*   - MFP/MED - Revisão da Despesa Pública Educação- 2000.
-
-1980 | 1985 | 1990 | 1997* | 2000*
+ | 1980 | 1985 | 1990 | 1997* | 2000*
 --- | --- | --- | --- | --- | ---
 Peso das despesas c/ a Educação no PIB (%) | 4,4 | 5,6 | 5,9 | 8,5 | 7,1
 Peso das despesas c/ a Educação no OGE (%) | 9,4 | 10,0 | 13,0 | 18,0 | 20,2
-Custos Unitários em 2000** (10 3 ECV) | Desp. Invest. | Desp. Funcion. | Desp. Total
+
+Custos Unitários em 2000** (10³ ECV) | Desp. Invest. | Desp. Funcion. | Desp. Total
+--- | --- | --- | ---
 Educação Pré-Escolar | - | 5,4 | 5,4
 Ensino Básico | 3,1 | 16,4 | 19,5
 Ensino Secundário | 18,4 | 32,0 | 50,4
 Ensino Médio | - | 48,8 | 48,8**
 Ensino Superior | 18,0 | 72,8 | 90,8**
 
-** -  Não se incluem as despesas com Bolsas de Estudo
+* - MFP/MED - Revisão da Despesa Pública Educação- 2000.
+** - Não se incluem as despesas com Bolsas de Estudo
 
 Página 13 de 73
 
@@ -541,37 +587,37 @@ Página 17 de 73
 
 O  efeito  dessas  actividades    traduzem-se  em  avanços  conseguidos  em algumas áreas como a Saúde  e a Educação,  que nos coloca numa posição, um tanto ou quanto confortável, em relação a um grande número de países da  nossa  região,  conforme  expressam  alguns  indicadores  constantes  do balanço  efectuado  no  quadro  da  Conferência  Mundial  a  favor  das  Crianças (Quadro 1)
 
+Quadro 1 - Situação do cumprimento das metas definidas na Cimeira Mundial para a Criança
+
 Objectivos | Atingidos | Satisfatoriamente atingidos | Não atingidos
 --- | --- | --- | ---
-1.Redução de um terço da mortalidade infantil e a mortalidade das crianças com menos de 5 anos ou redução a 50 e 70/1000 | +
-2. Reduzir a metade a taxa de mortalidade materna | +
-3. Reduzir para metade a malnutrição grave e moderada das crianças com menos de 5 anos | +
-4. Acesso universal à água potável | +
-5. Acesso universal aos meios de saneamento e tratamento de excretas | +
-6. Acesso universal à educação de base e conclusão do ensino primário | +
-7. Reduzir a taxa de analfabetismo dos adultos | +
-8.Melhorar a protecção das crianças que vivem em circunstâncias particularmente difíceis | +
-9. Conceder uma importância particular à saúde e nutrição das jovens | +
-10.Acesso dos casais às informações e serviços para prevenir a gravidez precoce | +
-11.Acesso de todas as mulheres grávidas aos cuidados pré-natal | +
-12.Reduzir a taxa de insuficiência de peso ao nascer | +
-13.Reduzir a um terço, em relação a 1990, a proporção de mulheres sofrendo de anemia | +
-14.Eliminar quase que totalmente os distúrbios provocados pela falta de iodo | +
-15.Eliminar quase que totalmente a avitaminose A e seus efeitos, incluindo a cegueira | +
-16.Permitir a todas as mulheres alimentar os seus filhos exclusivamente ao seio | +
-17.Institucionalizar a promoção e a vigilância periódica do crescimento | +
-18.Promover o conhecimento dos meios do aumento da produção alimentar | +
-19. Erradicara poliomielite | +
-20.Eliminar o tétano neo - natal | +
-21. Reduzir em 95% as mortes provadas pelo sarampo e de 90% a incidência do sarampo | +
-22.Manter um nível elevado de vacinação | +
-23.Reduzir em 50% a mortalidade devida à diarreia nas crianças menores de 5 anos e de 25% a incidência da diarreia | +
-24.Reduzir de um terço a mortalidade devida às infecções respiratórias agudas nas crianças com menos de 5 anos | +
-25.Eliminar a doença provocada pelo verme da Guiné (dracunlose) - não faz parte da epidemiologia de CV | - | - | -
-26.Alargar as actividades de desenvolvimento da pequena infância | +
+1.Redução de um terço da mortalidade infantil e a mortalidade das crianças com menos de 5 anos ou redução a 50 e 70/1000 | + |  | 
+2. Reduzir a metade a taxa de mortalidade materna | + |  | 
+3. Reduzir para metade a malnutrição grave e moderada das crianças com menos de 5 anos |  |  | +
+4. Acesso universal à água potável |  | + | 
+5. Acesso universal aos meios de saneamento e tratamento de excretas |  |  | +
+6. Acesso universal à educação de base e conclusão do ensino primário | + |  | 
+7. Reduzir a taxa de analfabetismo dos adultos | + |  | 
+8.Melhorar a protecção das crianças que vivem em circunstâncias particularmente difíceis |  | + | 
+9. Conceder uma importância particular à saúde e nutrição das jovens |  | + | 
+10.Acesso dos casais às informações e serviços para prevenir a gravidez precoce |  | + | 
+11.Acesso de todas as mulheres grávidas aos cuidados pré-natal |  | + | 
+12.Reduzir a taxa de insuficiência de peso ao nascer |  |  | +
+13.Reduzir a um terço, em relação a 1990, a proporção de mulheres sofrendo de anemia |  |  | +
+14.Eliminar quase que totalmente os distúrbios provocados pela falta de iodo |  |  | +
+15.Eliminar quase que totalmente a avitaminose A e seus efeitos, incluindo a cegueira |  |  | +
+16.Permitir a todas as mulheres alimentar os seus filhos exclusivamente ao seio |  |  | +
+17.Institucionalizar a promoção e a vigilância periódica do crescimento | + |  | 
+18.Promover o conhecimento dos meios do aumento da produção alimentar |  |  | +
+19. Erradicara poliomielite |  |  | +
+20.Eliminar o tétano neo – natal |  |  | +
+21. Reduzir em 95% as mortes provadas pelo sarampo e de 90% a incidência do sarampo | + |  | 
+22.Manter um nível elevado de vacinação |  | + | 
+23.Reduzir em 50% a mortalidade devida à diarreia nas crianças menores de 5 anos e de 25% a incidência da diarreia |  |  | +
+24.Reduzir de um terço a mortalidade devida às infecções respiratórias agudas nas crianças com menos de 5 anos |  | + | 
+25.Eliminar a doença provocada pelo verme da Guiné (dracunlose) – não faz parte da epidemiologia de CV | - | - | -
+26.Alargar as actividades de desenvolvimento da pequena infância |  |  | +
 27.Permitir aos indivíduos e famílias aumentar os seus conhecimentos e competências | - | - | -
-
-Quadro 1  - Situação do cumprimento das metas definidas na Cimeira Mundial para a Criança
 
 Página 18 de 73
 
@@ -607,7 +653,7 @@ Tal  como  acontece  em  um grande número de países da nossa região, em  Cabo
 
 #### 1.3   Avaliação da situação da Pequena Infância
 
-O facto da 'Pequena Infância' se identificar normalmente com o período da préescolarização,  explica  de  certo  modo,  a  visão  reducionista  e  a  dispersão  das diferentes  intervenções,  sem  a  coordenação  desejável  a  nível  institucional  e  dos programas de intervenção.
+O facto da 'Pequena Infância' se identificar normalmente com o período da pré-escolarização,  explica  de  certo  modo,  a  visão  reducionista  e  a  dispersão  das diferentes  intervenções,  sem  a  coordenação  desejável  a  nível  institucional  e  dos programas de intervenção.
 
 A realidade é que o desenvolvimento das 3 etapas da Pequena Infância se processa de  forma  desarticulada,  em  termos  de  políticas,  da  definição  dos  níveis  de responsabilidade,  da  formação  dos  recursos  humanos  e  do  aproveitamento  dos serviços básicos existentes ou previstos.
 
@@ -675,23 +721,29 @@ Página 23 de 73
 
 No  Quadro  2,  apresenta-se  um  resumo  da  situação  existente,  a  nível  nacional, realçando-se  a  situação  precária  do  corpo  docente  que  não  possui,  na  sua esmagadora maioria, habilitações adequadas para este nível educativo.
 
-1. Cobertura Educativa 1.1 Efectivos | 19801 799 384
---- | ---
-2.1 Taxa de Cobertura (3-5) anos 2.2 Taxa de Cobertura com 5 anos | 55,1%
-1.2 Docentes 1.3 Jardins
-1.4 Espaços ocupados | 636
-2. Taxas da Educação Pré-Escolar | 63,8%
-2.3 Taxa de Cobertura com 4 anos 3. Utilização dos Recursos 3.1 Rácio Aluno/Educadora 3.2 Rácio Aluno/Sala 4. Caracterização dos Agentes 4.1 Distribuição por sexos: | 70,5%
-Educativos | 25
-31
-Educativos | 98,0%
-- Feminino - Masculino 4.2 Distribuição por categorias: - Educadoras | 2,0%
-0,5%
-- | 6,5%
-Monitoras
-- Orientadoras | 93,0%
+Quadro 2 – Principais Indicadores da Educação Pré-Escolar a nível nacional (2000/01)
 
-Quadro 2 - Principais Indicadores da Educação Pré-Escolar a nível nacional (2000/01)
+1. Cobertura Educativa | 
+--- | ---
+1.1 Efectivos | 19801
+1.2 Docentes | 799
+1.3 Jardins | 384
+1.4 Espaços ocupados | 636
+2. Taxas da Educação Pré-Escolar | 
+2.1 Taxa de Cobertura (3-5) anos | 55,1%
+2.2 Taxa de Cobertura com 5 anos | 63,8%
+2.3 Taxa de Cobertura com 4 anos | 70,5%
+3. Utilização dos Recursos Educativos | 
+3.1 Rácio Aluno/Educadora | 25
+3.2 Rácio Aluno/Sala | 31
+4. Caracterização dos Agentes Educativos | 
+4.1 Distribuição por sexos: | 
+- Feminino | 98,0%
+- Masculino | 2,0%
+4.2 Distribuição por categorias: | 
+- Educadoras | 0,5%
+- Monitoras | 6,5%
+- Orientadoras | 93,0%
 
 ##### 1.4.1 Acesso à Educação Pré-Escolar e Progressão no Sistema
 
@@ -707,9 +759,11 @@ Página 24 de 73
 
 [[START OF PAGE 26]]
 
-Concelhos | T BE (%) | T LE (%) | Género (%) - F
+Quadro 2.1 – Taxas de Cobertura na Educação Pré-Escolar
+
+Concelhos | TBE (%) | TLE (%) |  |  | Género (%) - F
 --- | --- | --- | --- | --- | ---
-[3 - 5] | [4] | [5]
+ |  | [3 - 5] | [4] | [5] | 
 Boa Vista | 91,4 | 83,5 | 98,5 | 71,7 | 48,9
 Sal | 87,5 | 81,2 | 98,1 | 83,9 | 49,7
 Maio | 77,3 | 76,1 | 89,2 | 74,1 | 51,0
@@ -729,8 +783,6 @@ Paul | 42,3 | 41,8 | 62,2 | 59,9 | 47,1
 Sta. Catarina | 39,7 | 38,5 | 59,3 | 45,9 | 49,7
 Total no País | 55,1 | 52,5 | 70,5 | 63,8 | 50,7
 
-Quadro 2.1 - Taxas de Cobertura na Educação Pré-Escolar
-
 Para o grupo etário dos [3-5]anos a taxa líquida de cobertura situa-se acima dos 70% nos concelhos de Boa Vista, Sal, Maio e S. Domingos.
 
 No pólo oposto, esta taxa que bem caracteriza a cobertura do sistema, não chega a atingir  valores  de  50%  na  maioria  dos  concelhos  do  interior  de  Santiago  (Santa Catarina,  Tarrafal  e  Santa  Cruz),  nos  concelhos  de  Santo  Antão  (Paúl,  Ribeira Grande e Porto Novo) e ainda no concelho dos Mosteiros no Fogo.
@@ -746,12 +798,17 @@ Página 25 de 73
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
-
+Gráfico 2.1.1 - Taxas de Cobertura
+TBE | TLE [3-5] | TLE [5]
+0 | 10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100
+Boa Vista | Sal | Maio | S. Domingos | S. Miguel | Brava | Praia | S. Nicolau | S. Vicente | S. Filipe | Mosteiros | Porto Novo | Sta. Cruz | Ribeira Grande | Tarrafal | Paúl | Sta. Catarina | Total para o País
 Ao analisarmos a percentagem de alunos do 1º ano do EBI oriundos do Pré-Escolar verifica-se,  com  efeito,  que  os  referidos  concelhos  (excepção  para  Tarrafal  e Mosteiros)  conseguem  ombrear  com  os  da  Boa  Vista,  Sal,  Maio  e  Praia  que possuem os melhores indicadores no acesso à Educação Pré-Escolar.
-
+Gráfico 2.1.2 - Percentagem de Alunos do 1º ano oriundos do Pré-Escolar
+0% | 10% | 20% | 30% | 40% | 50% | 60% | 70% | 80% | 90% | 100%
+Praia | S. Vicente | Sta. Catarina | Sta. Cruz | S. Filipe | S. Miguel | Tarrafal | S. Domingos | Ribeira Grande | Porto Novo | Sal | S. Nicolau | Mosteiros | Brava | Maio | Paúl | Boa Vista | Total para o País
 #### 1.5 Constrangimentos existentes ao nível da Pequena Infância
 
-A faixa dos 6 - 8 anos  corresponde à primeira fase do ensino básico, constituindo um período de adaptação, seja para as crianças que saíram do pré- escolar, para reforço dos conhecimentos, seja para as que não tiveram essa oportunidade e que beneficiando de acções integradas, poderão usufruir de maiores possibilidades de sucesso.
+A faixa dos 6 - 8 anos corresponde à primeira fase do ensino básico, constituindo um período de adaptação, seja para as crianças que saíram do pré- escolar, para
 
 Página 26 de 73
 
@@ -759,7 +816,9 @@ Página 26 de 73
 
 [[START OF PAGE 28]]
 
-Corresponde a um período de muita importância na vida da criança por ser uma fase de aquisição e consolidação de conhecimentos, de hábitos e de valores, mas de transição brusca, principalmente  para aqueles que não frequentaram o ensino pré-escolar.  Se  em  termos  quantitativos  os  objectivos  da  educação  para  todos foram atingidos, aos níveis da qualidade e do acesso registam-se ainda disfuncionamentos e assimetrias dos quais importa destacar:
+reforço dos conhecimentos, seja para as que não tiveram essa oportunidade e que beneficiando de acções integradas, poderão usufruir de maiores possibilidades de sucesso.
+
+Corresponde a um período de muita importância na vida da criança por ser uma fase de aquisição e consolidação de conhecimentos, de hábitos e de valores, mas de transição brusca, principalmente para aqueles que não frequentaram o ensino pré-escolar. Se em termos quantitativos os objectivos da educação para todos foram atingidos, aos níveis da qualidade e do acesso registam-se ainda disfuncionamentos e assimetrias dos quais importa destacar:
 
 -A  desarticulação  entre  o  pré  -escolar  e  o  ensino  básico  evidenciada  por uma mudança brusca de conteúdos, de metodologias, de posturas e até do ambiente físico;
 
@@ -779,13 +838,15 @@ Não  há  praticamente  acções  programadas  no  tocante  à  saúde  incidin
 
 Existe  um  índice  bastante  elevado  de  anemias  e  de  outras  doenças,  na sequência do que se constata na faixa etária anterior. A reintrodução de uma refeição  quente  nas  escolas  do  ensino  básico,  contribuirá  para    a  melhoria  do estado nutricional das crianças, e  para a diminuição do abandono escolar.
 
-Ainda no sector saúde há a referir as doenças de pele que afectam as crianças dessa idade, associadas muitas vezes à falta de água para  a higiene  pessoal e à  situação deficitária  do  saneamento.  Um  outro  problema  que  merece  ser destacado diz respeito à saúde dentária, visto que nesta fase é preciso incutir hábitos de higiene e acompanhar as mudanças que se processam nessas idades que, eventualmente, poderão ser acompanhadas de alguns riscos.
+Ainda no sector saúde há a referir as doenças de pele que afectam as crianças dessa idade, associadas muitas vezes à falta de água para a higiene pessoal e à situação deficitária do saneamento. Um outro problema que merece ser destacado diz respeito à saúde dentária, visto que nesta fase é preciso incutir
 
 Página 27 de 73
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
+
+hábitos de higiene e acompanhar as mudanças que se processam nessas idades que, eventualmente, poderão ser acompanhadas de alguns riscos.
 
 Em relação à protecção importa referir especialmente às seguintes situações:
 
@@ -797,7 +858,7 @@ Em relação à protecção importa referir especialmente às seguintes situaç�
 
 -Prática de violência física, de abusos sexuais, violência psicológica, que tem de ser combatida através de acção concertada a nível individual e institucional.
 
-Os factores explicativos dos problemas que afectam a condição da criança caboverdiana,  em  particular  na  vertente  desenvolvimento,  são  múltiplos,  sendo  de realçar os seguintes:
+Os factores explicativos dos problemas que afectam a condição da criança cabo-verdiana, em particular na vertente desenvolvimento, são múltiplos, sendo de realçar os seguintes:
 
 ##### i) Situação socioeconómica
 
@@ -805,7 +866,7 @@ A  situação  de  pobreza    com  maior  incidência  nos  meios  rurais,  e  n
 
 ##### ii) de natureza política
 
-Inexistência de uma política global para a pequena infância e para a educação préescolar. Insuficiente articulação entre as políticas de Saúde e de Educação;
+Inexistência de uma política global para a pequena infância e para a educação pré-escolar. Insuficiente articulação entre as políticas de Saúde e de Educação;
 
 Página 28 de 73
 
@@ -855,12 +916,13 @@ Por razões  de  carácter organizacional, a pequena  infância, entre nós, est
 
 Referente aos dois ciclos referidos, a organização das estruturas de intervenção/acolhimento correspondentes às necessidades fundamentais da criança,  processa-se  sem  interligações  entre  si,  ou  com  articulação  muito  ténue, conforme pretende evidenciar o quadro seguinte:
 
-Faixa etária | Dimensões | Área prioritária
---- | --- | --- | --- | --- | ---
-0 - 3 anos | Sobrevivência M.Saúde | Desenvolvimento Família; | Protecção Família; | Nutrição e Higiene Família; | Saúde
-3- 6anos | Família M.Saúde | Estruturas P-E : CM; OMCV: ICS; CVCV; Org.Rel. Família; | Família; M. Justiça; ICM | Família; Inst. / Org . ; Estruturas P-E | Desenvolvimento
+Quadro 2.2 - Estruturas de intervenção
 
-Quadro 2.2   - Estruturas de intervenção
+Faixa etária | Dimensões |  |  |  | Área prioritária
+--- | --- | --- | --- | --- | ---
+ | Sobrevivência | Desenvolvimento | Protecção | Nutrição e Higiene | 
+0 – 3 anos | M.Saúde; Família | Família; Inst. / Org.; Privados | Família; M. Justiça; ICM | Família; Inst. / Org.; Privados | Saúde
+3– 6anos | Família; M.Saúde | Estruturas P-E : CM; OMCV: ICS; CVCV; Org.Rel. Família; | Família; M. Justiça; ICM | Família; Inst. / Org.; Estruturas P-E | Desenvolvimento
 
 O  quadro  2.3,  apresenta  de  forma  sintética  a  situação  da  Pequena  Infância evidenciando  algumas fragilidade inerentes às condições específicas da sociedade cabo-verdiana e as respectivas repercussões nas diferentes faixas etárias.
 
@@ -873,27 +935,29 @@ Página 30 de 73
 Quadro 2.3
 
 Pontos Fracos
---- | --- | --- | ---
-Saúde/ nutrição | protecção | higiene | desenvolvimento
-Casos frequentes de doenças infecciosas , consequência das insuficientes condições de saneamento básico e qualidade da água e de hábitos culturais | Crianças sob os cuidados de outras crianças um pouco mais velhas, com todos os riscos inerentes; | Fraco nível de higiene individual, familiar comunitária | Fraca capacidade das famílias de acompanhar o desenvolvimento cognitivo afectivo e físico das crianças
-Fraco controle do crescimento /desenvolvimento, terminado o calendário da vacinação; | Situação de crianças órfãos, órfãos de sida e de outras situações, sem as necessárias condições de acolhimento | A situação no que diz respeito ao acesso à água potável e a estruturas básicas de saneamento caracterizada por grandes desequilíbrios regionais | Insuficiência quantitativa e qualitativa das estruturas físicas
-Prevalência de carências nutricionais | indícios de práticas de violência contra a criança, | Assimetrias sociais e de qualidade das estruturas de acolhimento
-Detecção tardia de crianças portadoras de deficiências | problemas de não registo das crianças, | Fraqueza do acompanhamento e da avaliação
-paternidade irresponsável
-Insuficiente seguimento dos casos de adopção
-Insuficientes mecanismos para a aplicação das disposições legais referentes a menores
+
+Pontos comuns | Saúde/ nutrição | protecção | higiene | desenvolvimento
+--- | --- | --- | --- | ---
+Pontos comuns | Casos frequentes de doenças infecciosas, consequência das insuficientes condições de saneamento básico e qualidade da água e de hábitos culturais | Crianças sob os cuidados de outras crianças um pouco mais velhas, com todos os riscos inerentes; | Fraco nível de higiene individual, familiar comunitária | Fraca capacidade das famílias de acompanhar o desenvolvimento cognitivo afectivo e físico das crianças
+ | Fraco controle do crescimento /desenvolvimento, terminado o calendário da vacinação; | Situação de crianças órfãos, órfãos de sida e de outras situações, sem as necessárias condições de acolhimento | A situação no que diz respeito ao acesso à água potável e a estruturas básicas de saneamento caracterizada por grandes desequilíbrios regionais | Insuficiência quantitativa e qualitativa das estruturas físicas
+ | Prevalência de carências nutricionais | indícios de práticas de violência contra a criança, |  | Assimetrias sociais e de qualidade das estruturas de acolhimento
+ | Detecção tardia de crianças portadoras de deficiências | problemas de não registo das crianças, |  | Fraqueza do acompanhamento e da avaliação
+ |  | paternidade irresponsável |  | 
+ |  | Insuficiente seguimento dos casos de adopção |  | 
+ |  | Insuficientes mecanismos para a aplicação das disposições legais referentes a menores |  | 
 
 Quadro 2.3 (continuação)
 
 Pontos Fracos específicos
+
+Faixa etária | Saúde/ nutrição | Protecção | Higiene | Desenvolvimento
 --- | --- | --- | --- | ---
-Faixa etária 0-3anoa | Saúde/ nutrição | Protecção | Higiene | Desenvolvimento
-Diminuição da cobertura vacinal; | Dimensão negligenciada, salvo casos pontuais, cobrindo apenas 11% das crianças, dos centros urbanos
-Baixa taxa de aleitamento materno
-Carências nutricionais das mães;
-Faixa etária 3-5noa | Não existência de um programa específico para essa faixa etária; | Insuficientes condições existentes nos jardins infantis; Insuficiente preparação dos monitores e orientadores | Insuficientes condições sanitárias de grande parte dos jardins de infância | Ausência de uma política para o pré-escolar; Assimetrias sociais no acesso à educação pré- escolar; Fraca qualidade : agentes educativos rede física, enquadradores, equipamentos, métodos e metodologias; curricula
-Frequência de doenças de pele relacionadas com problemas de falta de higiene
-Prevalência de carências nutricionais
+Faixa etária 0-3anoa | Diminuição da cobertura vacinal; |  |  | Dimensão negligenciada, salvo casos pontuais, cobrindo apenas 11% das crianças, dos centros urbanos
+ | Baixa taxa de aleitamento materno |  |  | 
+ | Carências nutricionais das mães; |  |  | 
+Faixa etária 3-5noa | Não existência de um programa específico para essa faixa etária; | Insuficientes condições existentes nos jardins infantis; Insuficiente preparação dos monitores e orientadores | Insuficientes condições sanitárias de grande parte dos jardins de infância | Ausência de uma política para o pré-escolar; Assimetrias sociais no acesso à educação pré-escolar; Fraca qualidade : agentes educativos rede física, enquadradores, equipamentos, métodos e metodologias; curricula
+ | Frequência de doenças de pele relacionadas com problemas de falta de higiene |  |  | 
+ | Prevalência de carências nutricionais |  |  | 
 
 Conclui-se  da  análise  dos  quadros  que  o  atendimento  de  crianças  menores  de quatro anos se revela muito limitado, e que a cobertura dos jardins infantis atinge um  número  significativo de crianças,  situando-se  os  grandes  problemas  na qualidade e nos desequilíbrios no acesso.
 
@@ -907,16 +971,19 @@ Em  compensação,  a  dimensão  saúde  é  privilegiada  nos  menores  de  3 
 
 Estas duas dimensões, saúde e educação constituem os pontos fortes, (conforme evidencia o Quadro 2.4) respectivamente das faixas etária dos 0-3 anos e dos 3-5 anos,  o  que  permitirá  retirar  benefícios  das  respectivas  vantagens  comparativas, por  um  melhor  aproveitamento  dos  recursos,  através  de  uma  maior  articulação interinstitucional e intersectorial .
 
-Pontos Fortes
---- | ---
-Saúde/ nutrição | Desenvolvimento
-Faixa etária dos 0-3anos | Rede de estruturas de saúde em todos os concelhos e ilhas, que garante a prestação dos cuidados básicos e a vigilância periódica do crescimento no primeiro ano de vida.
-Valores satisfatórios da cobertura vacinal
-Faixa etária dos 3-6nos | Extensão do projecto PAM aos jardins infantis Rede de cobertura dos jardins à volta dos 60%, abrangendo um total de 19.801 em 2000/01com paridade entre os géneros.
-
 Quadro 2.4
 
+Pontos Fortes
+
+ | Saúde/ nutrição | Desenvolvimento
+--- | --- | ---
+Faixa etária dos 0-3anos | Rede de estruturas de saúde em todos os concelhos e ilhas, que garante a prestação dos cuidados básicos e a vigilância periódica do crescimento no primeiro ano de vida. | 
+ | Valores satisfatórios da cobertura vacinal | 
+Faixa etária dos 3-6nos | Extensão do projecto PAM aos jardins infantis | Rede de cobertura dos jardins à volta dos 60%, abrangendo um total de 19.801 em 2000/01com paridade entre os géneros.
+
 Conjugando  os  dados  disponíveis  em  vários  estudos  sobre  a  situação  da  criança cabo-verdiana, é possível equacionar os problemas  prioritários, a partir da identificação das ameaças e oportunidades que  se apresentam conforme evidencia o quadro 2.5.
+
+Quadro 2.5
 
 Ameaças | Oportunidades
 --- | ---
@@ -928,9 +995,7 @@ Situação da mulher e gravidez precoce | Descentralização e papel crescente d
 Êxodo rural | Possibilidades de utilização das novas tecnologias de comunicação e de informação
 Desemprego | Parcerias estratégicas aproveitando as oportunidades de geminação ao nível dos municípios
 Fenómenos sociais recentes: HIV/SIDA, violência e exploração sexual, droga | Participação das comunidades emigradas
-Dinamismo sector privado
-
-Quadro 2.5
+ | Dinamismo sector privado
 
 Página 32 de 73
 
@@ -942,14 +1007,14 @@ Quadro 2.6
 
 Problemas | Linhas gerais para o desenvolvimento da pequena infância
 --- | ---
-1. Fragilidade das políticas | Definição de uma política para a pequena infância e para o pré-escolar : - Realizar estudos analíticos, num quadro integrado - Melhorar as estratégias de comunicação, de pressão, de promoção, através de actividades de IEC a favor da pequena infância - Criar um sistema de informações sobre a pequena infância; - definir as responsabilidades e competências dos diferentes
+1. Fragilidade das políticas | Definição de uma política para a pequena infância e para o pré-escolar : - Realizar estudos analíticos, num quadro integrado - Melhorar as estratégias de comunicação, de pressão, de promoção, através de actividades de IEC a favor da pequena infância - Criar um sistema de informações sobre a pequena infância; - definir as responsabilidades e competências dos diferentes intervenientes
 2. Fraca coordenação institucional e sectorial | Criação de uma estrutura de coordenação inter institucional e inter sectorial para a pequena infância: - estabelecer o enquadramento legal e institucional; - definir normas de funcionamento das estruturas de atendimento; - estabelecer programas transversais - potencializar as estruturas e os quadros do pré-escolar
-3. Deficiente enquadramento institucional da Educação Pré-Escolar | Definição das atribuições e competências dos Serviços Centrais e Regionais do MED: definir : - formar gestores e coordenadores - avaliar e monitorizar o sistema Definir as funções das equipas de coordenação pedagógica: apoiar o funcionamento dos jardins de infância e das estruturas
-4. Insuficiência do quadro legal | ligação ao meio. Regulamentar as disposições legais existentes: Definir normas precisas sobre a aplicação das disposições contidas na CDC Trabalhar em estreita colaboração com o Ministério da Justiça; Definir o enquadramento legal do Instituto da Criança
-5. Insuficiência ou inadequada utilização dos recursos | Cooperação com promotores, parceiros sociais e ONG's : - Elaborar contratos programa para a consolidação do sistema - Reforçar parcerias para o alargamento do atendimento Apoiar o desenvolvimento dos recursos humanos, físicos e materiais
-6. Fraca capacidade de atendimento e assimetrias em termos sociais e de qualidade | Dinamizar a participação das famílias Adoptar soluções alternativos e enraizadas no meio comunitário de com aproveitamento máximo das estruturas existentes, beneficiando as zonas mais desfavorecidas
+3. Deficiente enquadramento institucional da Educação Pré-Escolar | Definição das atribuições e competências dos Serviços Centrais e Regionais do MED: definir : - formar gestores e coordenadores - avaliar e monitorizar o sistema Definir as funções das equipas de coordenação pedagógica: apoiar o funcionamento dos jardins de infância e das estruturas de atendimento da pequena infância; formar quadros responsáveis pelos J.I e das estruturas de atendimento do primeiro ciclo da pequena infância; dinamizar as actividades de ligação ao meio.
+4. Insuficiência do quadro legal | Regulamentar as disposições legais existentes: Definir normas precisas sobre a aplicação das disposições contidas na CDC Trabalhar em estreita colaboração com o Ministério da Justiça; Definir o enquadramento legal do Instituto da Criança
+5. Insuficiência ou inadequada utilização dos recursos | Cooperação com promotores, parceiros sociais e ONG’s: - Elaborar contratos programa para a consolidação do sistema - Reforçar parcerias para o alargamento do atendimento Apoiar o desenvolvimento dos recursos humanos, físicos e materiais Dinamizar a participação das famílias
+6. Fraca capacidade de atendimento e assimetrias em termos sociais e de qualidade | Adoptar soluções alternativos e enraizadas no meio comunitário de com aproveitamento máximo das estruturas existentes, beneficiando as zonas mais desfavorecidas
 7. Insuficiência qualitativa e quantitativa de agentes educativos | Elaborar e implementar um quadro de formação, e de aperfeiçoamento de quadros: definir um sistema de formação inicial, presencial e a distância; reorganizar a formação em exercício; dinamizar as reciclagem e o aperfeiçoamento dos agentes educativos;
-8. inexistência de uma carreira profissional para os agentes educativos da pequena infância | Elaborar e regulamentar o Estatuto e Carreira Profissional dos trabalhadores da Pequena Infância : Definir regas de contratação dos agentes educativos; atribuir promoções e retribuições; estabelecer qualificações e funções.
+8. inexistência de uma carreira profissional para os agentes educativos da pequena infância | Elaborar e regulamentar o Estatuto e Carreira Profissional dos trabalhadores da Pequena Infância: Definir regas de contratação dos agentes educativos; atribuir promoções e retribuições; estabelecer qualificações e funções.
 
 Com base  no  diagnóstico  efectuado,  em  que  se  analisou  a  situação  da  pequena infância,  essencialmente  na  vertente  desenvolvimento,  complementado  com  as contribuições de diferentes intervenientes,  estabeleceram-se as  linhas gerais para o desenvolvimento da pequena infância, conforme mostra o quadro 2.6, na lógica de uma  integração dos dois ciclos, tendo em vista o aproveitamento máximo dos recursos, a potencialização das intervenções e o início, através  de  uma programação  conjunta,  da  utilização  de  novas  metodologias  de  abordagem  da problemática da pequena infância.
 
@@ -965,7 +1030,8 @@ A evolução do ensino básico, em Cabo Verde, espelha melhorias  significativas
 
 #### 2.1 Caracterização da situação no Ensino Básico
 
-No que tange aos indicadores de acesso e participação no sistema educativo, notase  a    universalização  do  ensino  básico  obrigatório  de  seis  anos,  registando  uma taxa líquida de escolarização na ordem dos  96% e a taxa bruta de 117%, (ii) o acesso  quase  igualitário  de  meninas  e  meninos,  obtendo  taxas  de  49%  e  51%, respectivamente, sendo o índice de paridade (F/M) em torno de 0,96.
+No que tange aos indicadores de acesso e participação no sistema educativo, nota-se a universalização do ensino básico obrigatório de seis anos, registando uma taxa líquida de escolarização na ordem dos 96% e a taxa bruta de 117%, (ii) o acesso quase igualitário de meninas e meninos, obtendo taxas de 49% e 51%, respectivamente, sendo o índice de paridade (F/M) em torno de 0,96.
+Quadro 3 – Principais Indicadores do Ensino Básico a nível nacional (2000/01)
 
 1. Cobertura Educativa
 --- | ---
@@ -995,8 +1061,6 @@ No que tange aos indicadores de acesso e participação no sistema educativo, no
 - Feminino | 63,9%
 - Masculino | 36,1%
 
-Quadro 3 - Principais Indicadores do Ensino Básico a nível nacional (2000/01)
-
 Página 34 de 73
 
 [[END OF PAGE 35]]
@@ -1011,13 +1075,13 @@ O processo de democratização do acesso ao ensino básico nos anos 90 engendrou
 
 Os  dados  da  avaliação  aferida  realizada  pelo  Instituto  Pedagógico,  em  1997/98, evidenciam  que    61%  das  crianças  no  4º  ano  de  escolaridade      apresentam dificuldades em produzir um texto com autonomia e criatividade.  Relativamente ao desenvolvimento  do  raciocínio  lógico  matemático,  58%  das  crianças  no  6º  ano demonstravam  dificuldades  para  resolver  problemas  que  envolvem  cálculo  das áreas, onde se requer um certo grau de abstracção. 1 Esta tendência é corroborada pelos recentes estudos da  equipa de Pesquisa Qualitativa do PROMEF que apontam para o facto de 56% das crianças do 6º ano apresentarem dificuldades na produção de  textos  e  de  54%  demonstrarem  dificuldades  nos  domínios  das  proporções  e resolução de problemas. 2
 
-Os    estudos  elaborados  pela  UNICEF  sobre  a  qualidade  da  educação  básica demonstram claramente que subsiste um desfasamento substancial entre o nível de preparação pedagógico dos professores e as exigências de uma aprendizagem de qualidade das crianças. Neste sentido, como constata o relatório sobre Dificuldades e Possibilidades dos Professores e dos Alunos no Processo de EnsinoAprendizagem;    "  o  ensino  dos  conteúdos,  na  maioria  das  aulas  observadas,  é marcado quase sempre por um ritual em que o silêncio, a submissão, a sacralização do  saber  e  do  professor,  são  os  seus  elementos  constitutivos." 3 Por  outro  lado, como aponta o referido relatório, "percebe-se que o impedimento maior, implícito nas opiniões dos professores, é a descrença na capacidade de aprender dos seus alunos,  por  serem  eles  oriundos  de  um  meio  sociocultural  com  poucos  estímulos para uma boa aprendizagem".  4
+Os estudos elaborados pela UNICEF sobre a qualidade da educação básica demonstram claramente que subsiste um desfasamento substancial entre o nível de preparação pedagógico dos professores e as exigências de uma aprendizagem de qualidade das crianças. Neste sentido, como constata o relatório sobre Dificuldades e Possibilidades dos Professores e dos Alunos no Processo de Ensino-Aprendizagem; " o ensino dos conteúdos, na maioria das aulas observadas, é marcado quase sempre por um ritual em que o silêncio, a submissão, a sacralização do saber e do professor, são os seus elementos constitutivos." 3 Por outro lado, como aponta o referido relatório, "percebe-se que o impedimento maior, implícito nas opiniões dos professores, é a descrença na capacidade de aprender dos seus alunos, por serem eles oriundos de um meio sociocultural com poucos estímulos para uma boa aprendizagem". 4
 
 > 1 C.f. Ministério da Educação. Avaliação do Rendimento Escolar no primeiro ano primeiro ano da generalização da reforma curricular do Ensino Básico.
 
-> 3 C.f. Programa de Cooperação 1995-1999 - Projecto do Ensino Básico: Dificuldades e Possibilidades dos Professores e dos Alunos no Processo de Ensino-Aprendizagem. Cabo Verde, 1999, p.15
-
 > 2 C.f. MED- PROMEF. Resultados Preliminares da Equipa sobre a Pesquisa Qualitativa, p.34
+
+> 3 C.f. Programa de Cooperação 1995-1999 - Projecto do Ensino Básico: Dificuldades e Possibilidades dos Professores e dos Alunos no Processo de Ensino-Aprendizagem. Cabo Verde, 1999, p.15
 
 > 4 . UNICEF. O Quotidiano e Educação: Os desafios da Escola em Cabo Verde, pp 64-67
 
@@ -1027,7 +1091,7 @@ Página 35 de 73
 
 [[START OF PAGE 37]]
 
-Os resultados preliminares da Pesquisa Qualitativa corroboram estas indicações ao postular-se que, 'a natureza do conhecimento que circula nas escolas,  baseia-se fundamentalmente na distribuição de informação, em transmitir os conteúdos dos currículos aos alunos sem ter em conta a sua apropriação e o desenvolvimento das competências básicas necessárias para aprender a aprender permanentemente ao longo da vida. A essência criativa do conhecimento,  a sua aplicação à vida real, a sua utilidade para o vivenciar nos contextos sociais e culturais onde estão imersas as escolas, é  muito débil, e torna-se ainda mais fraco na medida em que se avança nos níveis de formação' 5 .
+Os resultados preliminares da Pesquisa Qualitativa corroboram estas indicações ao postular-se que, “a natureza do conhecimento que circula nas escolas, baseia-se fundamentalmente na distribuição de informação, em transmitir os conteúdos dos currículos aos alunos sem ter em conta a sua apropriação e o desenvolvimento das competências básicas necessárias para aprender a aprender permanentemente ao longo da vida. A essência criativa do conhecimento, a sua aplicação à vida real, a sua utilidade para o vivenciar nos contextos sociais e culturais onde estão imersas as escolas, é muito débil, e torna-se ainda mais fraco na medida em que se avança nos níveis de formação” 5.
 
 Com  efeito,  pode-se  considerar  que  a  prática  quotidiana  dos  professores  está aquém de possibilitar uma participação activa e criativa das crianças no processo de  aprendizagem.  Contrariamente,    e  no  ardor  do  cumprimento  do  programa,  o professor faz opção pelo controlo pedagógico que consiste em fazer do aluno um depositário do conhecimento.
 
@@ -1046,9 +1110,15 @@ Página 36 de 73
 [[END OF PAGE 37]]
 
 [[START OF PAGE 38]]
-
+Gráfico 3.1 - Taxas de Escolarização - EBI
+TBE | TLE [6-11] | TLE [6]
+0% | 20% | 40% | 60% | 80% | 100% | 120% | 140%
+S. Domingos | Paúl | Brava | Sal | S. Vicente | Boa Vista | S. Filipe | Ribeira Grande | Maio | Praia | Sta. Cruz | Porto Novo | S. Nicolau | Sta. Catarina | S. Miguel | Tarrafal | Mosteiros | Total para o País
 A análise da distribuição dos professores com qualificação pedagógica aponta para a existência de fortes assimetrias regionais, persistindo disparidades acentuadas na formação  e  na  afectação  de  professores,  sobretudo  nos  concelhos  do  interior  de Santiago, Santo Antão e Fogo. Com efeito, se em S. Vicente 77% dos professores possuem  qualificação pedagógica para leccionar os 6 anos de escolaridade obrigatória,  nos  concelhos  de  Mosteiros,  Tarrafal,  e  S.  Miguel  estas  taxas  são inferiores a 15%.
-
+Gráfico 3.2 – Habilitações dos Docentes - EBI
+0,0% | 10,0% | 20,0% | 30,0% | 40,0% | 50,0% | 60,0% | 70,0% | 80,0% | 90,0%
+S. Vicente | Praia | Ribeira Grande | S. Nicolau | Paúl | Sal | Sta. Catarina | Boa Vista | Maio | Porto Novo | Brava | S. Filipe | Sta. Cruz | S. Domingos | S. Miguel | Tarrafal | Mosteiros | Total para o País
+Suficientes | Insuficientes | s/ Formação
 Página 37 de 73
 
 [[END OF PAGE 38]]
@@ -1063,11 +1133,11 @@ As escolas e os pólos educativos continuam a funcionar sem qualquer autonomia e
 
 Durante  o  processo  de  auscultação  realizado  com  representantes  de  todos  os concelhos do país, os diferentes actores do sistema de ensino básico, nomeadamente os delegados da educação, os professores, os gestores, os pais e os representantes de alunos, assinalaram e discutiram os principais factores internos e externos  que  caracterizam  o  actual  sistema.    Com  a  exploração  do  método  de SWOT, analisaram-se estes factores, agrupando-se os factores internos em torno de fraquezas a eliminar, ou a reduzir, e de forças a potencializar.
 
+Quadro 3.1  FACTORES INTERNOS AO SISTEMA
+
 PONTOS FRACOS | PONTOS FORTES
 --- | ---
 • Existência de uma percentagem significativa de professores sem formação pedagógica; • Falta de preparação pedagógica dos professores para gerir o actual sistema de avaliação por fases; • Dificuldades de aprendizagem das crianças nas áreas de língua portuguesa e matemática; • Mobilidade de professores intra e inter concelhos; • Persistência de escolas degradadas; • Gestores sem preparação nos domínios da animação pedagógica, administrativa e financeira; • Falta de preparação pedagógica dos coordenadores para o seguimento e apoio aos professores; • Falta de ligação escola comunidade que se traduz na baixa participação dos pais nas actividades da escola. | • A universalização do acesso ao ensino; • A igualdade de acesso entre meninos e meninas; • Melhoria do nível de formação dos professores com a criação do Instituto Pedagógico; • A existência de manuais para os alunos e guias para os professores; • Criação de Pólos Educativos.
-
-Quadro 3.1  FACTORES INTERNOS AO SISTEMA
 
 Relativamente aos factores externos ao sistema, os participantes apontaram cinco grandes ameaças  a considerar e seis grandes oportunidades a aproveitar para a consolidação do EBI, conforme o Quadro 3.2 documenta.
 
@@ -1085,11 +1155,11 @@ AMEAÇAS | OPORTUNIDADES
 
 Numa apreciação mais acurada sobre a evolução ensino básico em Cabo Verde, 10 anos  após  Jomptien,  denota-se  que  não  obstante  as  conquistas  substanciais, persistem fragilidades  que  requerem  a  adopção  de  estratégias  de  natureza qualitativa e que se prendem com (i) a formação de professores; (ii) a pertinência das  aprendizagens de base (lecto - escrita e matemática); (iii) o sistema de gestão da avaliação por fases ; (iv) a gestão e avaliação das escolas pólos; (v) o apoio e seguimento  pedagógico  a  nível  de  concelho;  (vi)  a  disponibilidade  dos  recursos pedagógicos;  (vii)  as  parcerias  entre  a  escola  e  a  comunidade;  (viii)  os  apoios sócio-educativos.
 
-Por outro lado, uma análise mais atenta da eficácia externa da educação de base, constata-se  uma  estreita  relação  entre  o  nível  de  educação  e  o  desenvolvimento social    das  famílias.  Nessa  perspectiva,  'a educação é tida como principal factor determinante  da  pobreza  e  também  como  porta  de  saída  para  a  pobreza.  Os indicadores de pobreza indicam uma forte correlação entre o nível de instrução e a pobreza. A probabilidade de ser pobre aumenta numa relação inversa com o nível de  instrução.  A  incidência  da  pobreza  reduz-se  de  metade  quando  se  passa  da população analfabeta para a população com nível de instrução primária. O nível de educação determina o tamanho das famílias. Quanto menor for o nível de instrução, maior é a probabilidade de ser pobre.' 6
+Por outro lado, uma análise mais atenta da eficácia externa da educação de base, constata-se uma estreita relação entre o nível de educação e o desenvolvimento social das famílias. Nessa perspectiva, “a educação é tida como principal factor determinante da pobreza e também como porta de saída para a pobreza. Os indicadores de pobreza indicam uma forte correlação entre o nível de instrução e a pobreza. A probabilidade de ser pobre aumenta numa relação inversa com o nível de instrução. A incidência da pobreza reduz-se de metade quando se passa da população analfabeta para a população com nível de instrução primária. O nível de educação determina o tamanho das famílias. Quanto menor for o nível de instrução, maior é a probabilidade de ser pobre.” 6
 
 ### 3. ALFABETIZAÇÃO E EDUCAÇÃO DE ADULTOS
 
-A Alfabetização e Educação de Adultos é entendida como um meio de participação na  conjuntura  social,  económica,  política  e  cultural  do  país.  Isto  é,  como  um conjunto  de  acções  a  definir  com  as  comunidades,  com  vista  a  responder  aos problemas  que  as  preocupam  quotidianamente  e  que  poderão  variar,  desde  a aprendizagem  da  leitura,  da  escrita  e  do  cálculo,  passando  pela  aquisição  de conhecimentos básicos sobre a gestão de actividades geradoras de rendimento.
+A Alfabetização e Educação de Adultos é entendida como um meio de participação na conjuntura social, económica, política e cultural do país. Isto é, como um conjunto de acções a definir com as comunidades, com vista a responder aos problemas que as preocupam quotidianamente e que poderão variar, desde a
 
 > 6 Ministério das Finanças e Planeamento. 2002. Documento Estratégico da Redução da Pobreza (Intermédio), pp.18-19.
 
@@ -1099,7 +1169,9 @@ Página 39 de 73
 
 [[START OF PAGE 41]]
 
-A Conferência Mundial de Educação de Adultos, realizada em Hamburgo, em 1997, considerou  a  educação  de  adultos  como  'a  chave  que  abre  as  portas  do  século XXI'.  Considerou  ainda  que  a  educação  de  adultos  deve  estar  enquadrada  no contexto  de  uma  educação  moderna,  multifacetada  e  permanente,  adequada  às rápidas transformações que o mundo está sujeito.
+aprendizagem da leitura, da escrita e do cálculo, passando pela aquisição de conhecimentos básicos sobre a gestão de actividades geradoras de rendimento.
+
+A Conferência Mundial de Educação de Adultos, realizada em Hamburgo, em 1997, considerou a educação de adultos como “a chave que abre as portas do século XXI”. Considerou ainda que a educação de adultos deve estar enquadrada no contexto de uma educação moderna, multifacetada e permanente, adequada às rápidas transformações que o mundo está sujeito.
 
 Assim, de caris fortemente democrático, a educação de adultos deve :
 
@@ -1130,7 +1202,10 @@ Página 40 de 73
 [[START OF PAGE 42]]
 
 No Gráfico 4 apresenta-se uma distribuição da população analfabeta por concelho, verificando-se  que  as  taxas  mais  elevadas  de  analfabetismo  se  encontram  nos concelhos do interior de Santiago, em Santo Antão e no Fogo.
-
+Gráfico 4 - Distribuição da População Analfabeta
+0,0% | 5,0% | 10,0% | 15,0% | 20,0% | 25,0% | 30,0% | 35,0% | 40,0% | 45,0% | 50,0%
+Ribeira Grande | Paúl | Porto Novo | S. Nicolau | Maio | S. Vicente | Sal | Boa Vista | Praia | S. Domingos | Sta. Cruz | Sta. Catarina | S. Miguel | Tarrafal | Mosteiros | S. Filipe | Brava | Total para o País
+HM | M
 Por outro lado, cerca de 6000 formandos frequentaram com sucesso as actividades de  formação  profissional  de  base  e  mais  de  150.000  presenças  foram  registadas nas actividades de animação comunitária.
 
 As  bibliotecas  móveis  que  começaram  a  ser  implementadas  através  de  uma experiência piloto na Praia no ano de 1995, cobrem actualmente os seis concelhos de Santiago, três de S. Antão, dois do Fogo e um de S. Nicolau e contam com cerca de 20.000 inscritos e 239.439 requisições. Estas bibliotecas percorrem 75 itinerários e 179 localidades rurais.
@@ -1187,11 +1262,11 @@ Página 43 de 73
 
 ## IV  PARTE OPÇÕES ESTRATÉGICAS DO PLANO NACIONAL DE EDUCAÇÃO PARA TODOS
 
-### 1 -Quadro de Acção de Dakar
+### 1 - Quadro de Acção de Dakar
 
 O Quadro de Acção de Dakar desenvolve as grandes temáticas de Jomptien e, com base no balanço dos resultados alcançados e dos constrangimentos identificados, propõe os seguintes objectivos :
 
-- Desenvolver  e  melhorar  a  protecção  e  a  educação  da  pequena  infância, nomeadamente das crianças mais vulneráveis e desfavorecidas.
+i) Desenvolver e melhorar a protecção e a educação da pequena infância, nomeadamente das crianças mais vulneráveis e desfavorecidas.
 
 - ii) Assegurar que até 2015 todas as crianças e, sobretudo as meninas e as crianças  em  situação  difícil  e  pertencentes  a  minorias  étnicas,  tenham acesso  a  um  ensino    primário  gratuito  e  obrigatório  de  qualidade  e  o concluam;
 
@@ -1199,13 +1274,13 @@ O Quadro de Acção de Dakar desenvolve as grandes temáticas de Jomptien e, com
 
 - iv) Aumentar em 50%, até ao ano 2015, o número de adultos alfabetizados, em  particular mulheres, facilitando a todos os adultos,  um  acesso equitativo à educação básica e à educação permanente;
 
-- Eliminar as disparidades de género no ensino primário e secundário, até ao ano  2015  e  alcançar,  antes  de  2015  a  igualdade  entre  os  sexos  na educação,  garantindo  às  meninas  um  acesso  pleno  e  equitativo  a  uma educação básica de qualidade, com as mesmas possibilidades de sucesso;
+v) Eliminar as disparidades de género no ensino primário e secundário, até ao ano 2015 e alcançar, antes de 2015 a igualdade entre os sexos na educação, garantindo às meninas um acesso pleno e equitativo a uma educação básica de qualidade, com as mesmas possibilidades de sucesso;
 
 - vi) Melhorar todos os aspectos qualitativos da educação, garantindo resultados  de  aprendizagem  reconhecidos  e  mensuráveis,  especialmente em leitura, escrita, cálculo e habilidades práticas essenciais para a vida.
 
-### 2 - O rientações Estratégicas Nacionais
+### 2 – Orientações Estratégicas Nacionais
 
-Estes  objectivos  são  em  larga  medida  absorvidos  no  Plano  Nacional  de  Educação para Todos que incorpora as orientações políticas contidas nas Grandes Opções do Plano,  consubstanciadas  no  Programa  do  Governo  para  a  VI  legislatura  (20012005)  e  no  Plano  Nacional  de  Desenvolvimento  (2002-2005).  Na  decorrência desses referenciais adopta como orientações estratégicas as seguintes:
+Estes objectivos são em larga medida absorvidos no Plano Nacional de Educação para Todos que incorpora as orientações políticas contidas nas Grandes Opções do Plano, consubstanciadas no Programa do Governo para a VI legislatura (2001-2005) e no Plano Nacional de Desenvolvimento (2002-2005). Na decorrência desses referenciais adopta como orientações estratégicas as seguintes:
 
 Página 44 de 73
 
@@ -1269,13 +1344,15 @@ O Plano de Educação para Todos no concernente à Pequena Infância repousa sob
 
 O  desenvolvimento  integrado  da  criança,    implica  a  coordenação  das  acções  aos níveis institucional e político, traduzida em programas transversais, que fomentam a criação de um clima de cooperação que permite encorajar e apoiar a  participação de todos os actores no processo educativo - a família, a comunidade e a criança como o centro de todo o processo .
 
-A concepção das acções  educativas da pequena infância como   primeira etapa da educação  básica  arrasta  a  questão  da  sua  articulação  com  o  1°  nível  do  ensino básico,  facilitando  de  certa  forma  a  coordenação  no  seio  do  sistema  educativo, lançando  também    as  pontes  para  o  acesso  a  programas  estruturados  e  que atingem o ensino básico.
+A concepção das acções educativas da pequena infância como primeira etapa da educação básica arrasta a questão da sua articulação com o 1° nível do ensino básico, facilitando de certa forma a coordenação no seio do sistema educativo,
 
 Página 46 de 73
 
 [[END OF PAGE 47]]
 
 [[START OF PAGE 48]]
+
+lançando também as pontes para o acesso a programas estruturados e que atingem o ensino básico.
 
 ##### 1.1.2 -  A família como actor principal
 
@@ -1321,15 +1398,16 @@ A expansão e o desenvolvimento do atendimento constitui um objectivo de elevado
 
 ##### 1.2.2. - promover uma abordagem integrada para a Pequena Infância
 
-Apesar  dos  esforços  consentidos    para  implicar  de  forma  coordenada  todas  as estruturas governamentais na causa das crianças, continuam a persistir intervenções  dispersas  sem  a  necessária  concertação,  por  ausência  de  uma concepção holística e integrada da criança, na satisfação das suas necessidades e defesa dos seus direitos, o que tem como consequência  resultados desfasados dos investimentos. Regista - se assim a necessidade de uma intervenção estratégica e integrada nos sectores sociais, visando uma maior coordenação: entre os diferentes programas em matéria de saúde, educação, protecção, e de solidariedade, nutrição, desenvolvimento  comunitário  e  outros;  no  seio  do  sector  educativo;  entre  as organizações  governamentais,  a  família  e  as  diversas  organizações  da  sociedade civil.
+Apesar dos esforços consentidos para implicar de forma coordenada todas as estruturas governamentais na causa das crianças, continuam a persistir intervenções dispersas sem a necessária concertação, por ausência de uma concepção holística e integrada da criança, na satisfação das suas necessidades e defesa dos seus direitos, o que tem como consequência resultados desfasados dos investimentos.
 
 Página 48 de 73
 
 [[END OF PAGE 49]]
 
 [[START OF PAGE 50]]
+Regista – se assim a necessidade de uma intervenção estratégica e integrada nos sectores sociais, visando uma maior coordenação: entre os diferentes programas em matéria de saúde, educação, protecção, e de solidariedade, nutrição, desenvolvimento comunitário e outros; no seio do sector educativo; entre as organizações governamentais, a família e as diversas organizações da sociedade civil.
 
-##### 1.2.3.Implementar um quadro de formação e aperfeiçoamento de  agentes educativos
+##### 1.2.3.– Implementar um quadro de formação e aperfeiçoamento de agentes educativos
 
 A expansão  das actividades de despertar e desenvolvimento da pequena infância, não pode deixar de ir a par com a valorização da profissão e a dignificação do papel dos educadores. Esse esforço constitui condição essencial para que, por um lado, seja substancialmente melhorada a qualidade dos recursos humanos ao serviço da pequena infância e, por outro, se criem  condições para a mobilização das energias criativas dos agentes educativos para as mudanças que pequena infância exige.
 
@@ -1367,9 +1445,9 @@ Página 50 de 73
 
 Acções | Objectivos | Estratégias | Actividades | Resultados Esperados | Período | Custos (contos)
 --- | --- | --- | --- | --- | --- | ---
-Acção 1 Construção e equipamento de estruturas de acolhimento da Pequena Infância [0-3] anos | Alargar e melhorar a qualidade do atendimento para a Pequena Infância | Adequação das acções e forte envolvimento dos municípios; Concertação com o PNLP; | Selecção das zonas de implantação dos equipamentos e do público alvo; Melhoria das estruturas familiares; Construção de creches e centros comunitários; | 20% das crianças c/ 0-3 anos, em estruturas de acolhimento. 150 creches 50 centros comunitários 500 amas | 2003-2010 | 300.000
-Acção 2 Reabilitação e equipamento de Jardins de Infância | Adopção de modelos inovadores, de raiz comunitária, de baixo custo; | Apoio à construção de novos JI em zonas carênciadas; Aproveitamento | 80 JI reabilitados e equipados (20%). | 2003-2006 | 53.000 13.000
-Acção 3 Construção e equipamento de novos Jardins de Infância. [4-5] anos | Desenvolvimento de parcerias aos níveis central e local ; Mobilização social, no sentido de se criar um ambiente participativo a favor da pequena infância Incentivo às organizações e empresas para a criação de creches e JI. | de estruturas do pré-escolar e do ensino básico; Aquisição e produção de equipamentos e de material lúdico e didáctico; Adequação das estruturas e do equipamento às crianças com necessidades educativas especiais; | 80% das crianças c/ 4-5 anos em JI. Construção e Equipamento de 65 JI. | 2003-2010 | 260.000 26.000
+Acção 1 Construção e equipamento de estruturas de acolhimento da Pequena Infância [0-3] anos | Alargar e melhorar a qualidade do atendimento para a Pequena Infância | Adequação das acções e forte envolvimento dos municípios; Concertação com o PNLP; Adopção de modelos inovadores, de raiz comunitária, de baixo custo; Desenvolvimento de parcerias aos níveis central e local ; Mobilização social, no sentido de se criar um ambiente participativo a favor da pequena infância Incentivo às organizações e empresas para a criação de creches e JI. | Selecção das zonas de implantação dos equipamentos e do público alvo; Melhoria das estruturas familiares; Construção de creches e centros comunitários; Apoio à construção de novos JI em zonas carênciadas; Aproveitamento de estruturas do pré-escolar e do ensino básico; Aquisição e produção de equipamentos e de material lúdico e didáctico; Adequação das estruturas e do equipamento às crianças com necessidades educativas especiais; | 20% das crianças c/ 0-3 anos, em estruturas de acolhimento. 150 creches 50 centros comunitários 500 amas | 2003-2010 | 300.000
+Acção 2 Reabilitação e equipamento de Jardins de Infância |  |  |  | 80 JI reabilitados e equipados (20%). | 2003-2006 | 53.000 13.000
+Acção 3 Construção e equipamento de novos Jardins de Infância. [4-5] anos |  |  |  | 80% das crianças c/ 4-5 anos em JI. Construção e Equipamento de 65 JI. | 2003-2010 | 260.000 26.000
 Subtotal | 652.000
 
 Página 51 de 73
@@ -1397,9 +1475,9 @@ Página 52 de 73
 Acções | Objectivos | Estratégias | Actividades | Resultados Esperados | Período | Custos
 --- | --- | --- | --- | --- | --- | ---
 Acção 6 Estatuto e Carreira Profissional dos Educadores | Capacitar os educadores para agir ao nível do desenvolvimento integral da criança; Apoiar as famílias nos cuidados a prestar às crianças; Apoiar a gestão das creches, centros comunitários e jardins de infância | Estabelecimento de parcerias com o Instituto Pedagógico; Colaboração entre as diversas estruturas que operam neste sector; Adopção de modelos de formação inovadores, com recurso ao ensino a distância; Mobilização social, no sentido de se criar um ambiente participativo a favor da pequena infância; | Elaboração e regulamentação do estatuto e da carreira profissional dos trabalhadores do sector; Criação e implementação de um sistema articulado de formação e aperfeiçoamento de quadros; Formação dos coordenadores das equipas pedagógicas; Elaboração e divulgação de um manual de referência. | Estatuto e Carreira Profissional elaborados e implementados | 2003 | 1.700
-Acção 7 Formação dos agentes educativos | 200 Monitores formados 1000 Monitores capacitados 100 Agentes de animação comunitária | 2003-2010 | 88.000
-Acção 8 Formação dos Coordenadores | 60 Supervisores | 2003-2004 | 1.300
-Acção 9 Elaboração de Manuais | Manual divulgado (2.000) | 2004 | 1.000
+Acção 7 Formação dos agentes educativos |  |  |  | 200 Monitores formados 1000 Monitores capacitados 100 Agentes de animação comunitária | 2003-2010 | 88.000
+Acção 8 Formação dos Coordenadores |  |  |  | 60 Supervisores | 2003-2004 | 1.300
+Acção 9 Elaboração de Manuais |  |  |  | Manual divulgado (2.000) | 2004 | 1.000
 Subtotal | 92.000
 
 ##### Componente 4: Reforçar a capacidade das famílias  mais desfavorecidas
@@ -1407,8 +1485,8 @@ Subtotal | 92.000
 Acções | Objectivos | Estratégias | Actividades | Resultados Esperados | Período | Custos
 --- | --- | --- | --- | --- | --- | ---
 Acção 10 Apoio às famílias mais desfavorecidas | Promover a prática de comportamentos imperativos em matéria de cuidados às crianças em todas as vertentes | Coordenação aos níveis institucional, político e de programas; Dinamização de parcerias; Reforço da descentralização; Mobilização social; Implementação de programas transversais, em concertação com o PNLP, com os programas de alfabetização e outros; | Elaboração de normas e regulamentos. Realização de acções no seio dos serviços existentes: Saúde, programas de alfabetização, serviços comunitários, programas destinados às famílias, Sessões de sensibilização com recurso à utilização dos meios de comunicação social; | Regulamentação das disposições legais de apoio à família. | 2003 | 1.100
-Acção 11 Actividades de formação para as famílias | Famílias mais capacitadas para prestar os cuidados necessários às crianças. - Identificação de necessidades. | 2003-2005 | 1.800
-Acção 12 Sessões de sensibilização | 50 Sessões de sensibilização de realizadas | 2003-2004 | 500
+Acção 11 Actividades de formação para as famílias |  |  |  | Famílias mais capacitadas para prestar os cuidados necessários às crianças. - Identificação de necessidades. | 2003-2005 | 1.800
+Acção 12 Sessões de sensibilização |  |  |  | 50 Sessões de sensibilização de realizadas | 2003-2004 | 500
 Subtotal | 3.400
 Total Parcial | 760.000
 
@@ -1436,11 +1514,11 @@ O Estado de Cabo Verde tem atribuído à qualidade o papel central no processo d
 
 Os estudos internacionais sobre a qualidade das aprendizagens escolares apontam as escolas eficazes como factores essenciais para a construção de uma educação de qualidade. De acordo com  (Stoll y Wikeley, 1998), 'a escola é eficaz se promove o progresso  de  todos  e  de  cada  um  dos  seus    alunos,  para  além  do  que  seria esperado, considerando o seu rendimento inicial e o seu percurso escolar. A escola deverá  contribuir  para  que  cada  aluno  possa  atingir  o  maior  nível  possível  e melhorar todos os aspectos relacionados com o rendimento e o desenvolvimento dos alunos'. 9
 
-> 7 C.f, Rapport de Suivi sur  l´éducation pour tous. Unesco, octobre de 2001, p.7
-
-> 9 PROMEF. Pesquisa Qualitativa. In: Lições Aprendidas, p.155.
+> 7 C.f, Rapport de Suivi sur l´éducation pour tous. Unesco, octobre de 2001, p.7
 
 > 8 C.f; Programa de Governo para a Legislatura 2001-05.
+
+> 9 PROMEF. Pesquisa Qualitativa. In: Lições Aprendidas, p.155.
 
 Página 54 de 73
 
@@ -1454,13 +1532,13 @@ O  pressuposto  teórico  inerente  a  este  conceito,  revela  implicações  t
 
 Neste  sentido,  a  operacionalização  do  Plano  de  Acção  tem  em  linha  de  conta  os seguintes  princípios orientadores:
 
-- A Escola como Centro de Mudança das Práticas Educativas : As escolas são os lugares onde todos os elementos do sistema educativo se encontram para interagir determinando a qualidade do processo de aprendizagem. É ao nível da escola que se podem seguir correctamente os principais problemas que  afectam  a  qualidade  (absenteísmo  dos  alunos  e  dos  professores,  má utilização dos recursos humanos e materiais, práticas pedagógicas deficientes,  etc.).  Por  este  motivo,  a  escola  deve  ser  o  primeiro  alvo  dos esforços visando a melhoria da qualidade do ensino ;
+1. A Escola como Centro de Mudança das Práticas Educativas: As escolas são os lugares onde todos os elementos do sistema educativo se encontram para interagir determinando a qualidade do processo de aprendizagem. É ao nível da escola que se podem seguir correctamente os principais problemas que afectam a qualidade (absenteísmo dos alunos e dos professores, má utilização dos recursos humanos e materiais, práticas pedagógicas deficientes, etc.). Por este motivo, a escola deve ser o primeiro alvo dos esforços visando a melhoria da qualidade do ensino ;
 
-- Da Integração das Acções : os resultados escolares não dependem de um único  factor.  Não  são  um  ou  muitos  elementos  separados  que  explicam  as diferenças entre as escolas, mas  a interacção específica de recursos materiais,  humanos  e  organizacionais,  implicadas  no  processo  pedagógico. Assim, é necessário uma abordagem integrada que tome em conta a estreita interdependência entre os diversos factores;
+2. Da Integração das Acções: os resultados escolares não dependem de um único factor. Não são um ou muitos elementos separados que explicam as diferenças entre as escolas, mas a interacção específica de recursos materiais, humanos e organizacionais, implicadas no processo pedagógico. Assim, é necessário uma abordagem integrada que tome em conta a estreita interdependência entre os diversos factores;
 
-- Da  Pertinência  dos  Factores  Ligados  ao  Processo  Educativo :  para explicar as diferenças de qualidade entre as escolas, verifica-se que em geral, as  variáveis  relacionadas  com  os  processos  (ligadas  à  organização  e  suas práticas) são mais importantes que as variáveis relacionadas com os recursos (materiais e humanos). Os programas tradicionais de melhoria da qualidade que se concentraram, sobretudo, na injecção maciça de recursos em infraestruturas e equipamentos, bem como, na formação de professores, não tem tido o impacto desejado;
+3. Da Pertinência dos Factores Ligados ao Processo Educativo: para explicar as diferenças de qualidade entre as escolas, verifica-se que em geral, as variáveis relacionadas com os processos (ligadas à organização e suas práticas) são mais importantes que as variáveis relacionadas com os recursos (materiais e humanos). Os programas tradicionais de melhoria da qualidade que se concentraram, sobretudo, na injecção maciça de recursos em infra-estruturas e equipamentos, bem como, na formação de professores, não tem tido o impacto desejado;
 
-- Da  Autonomia  e  da  Qualidade  das  Relações  na  Escola  e  com  a Comunidade :  o  comportamento  do  director  e  dos  professores,  a  natureza das suas relações com os alunos e colegas, constituem o cerne da escola de boa qualidade. As políticas de melhoria da qualidade devem colocar o acento tónico sobre o factor humano. Os directores podem criar um ambiente escolar
+4. Da Autonomia e da Qualidade das Relações na Escola e com a Comunidade: o comportamento do director e dos professores, a natureza das suas relações com os alunos e colegas, constituem o cerne da escola de boa qualidade. As políticas de melhoria da qualidade devem colocar o acento tónico sobre o factor humano. Os directores podem criar um ambiente escolar
 
 Página 55 de 73
 
@@ -1470,7 +1548,7 @@ Página 55 de 73
 
 favorável à construção de consensos para elaboração de  projectos de escola de forma partilhada; 10
 
-- Da Natureza do Ensino e do Conhecimento que se Produz na Escola . As recentes revoluções que se operaram no campo  científico-técnico, nomeadamente no domínio das novas tecnologias de informação e comunicação, evidenciam as limitação de uma  aprendizagem baseada exclusivamente  na  exposição  de  conteúdos.  A  aprendizagem  é  tanto  mais significativa  quanto  maior  for  a  implicação  do  formando  no  processo  de apropriação do conhecimento, atitudes e valores.  As práticas educativas que propiciam às crianças as competências necessárias para aprender a aprender, preparam-nas melhor para a adaptação às mutações rápidas da vida social contemporânea.
+5. Da Natureza do Ensino e do Conhecimento que se Produz na Escola. As recentes revoluções que se operaram no campo científico-técnico, nomeadamente no domínio das novas tecnologias de informação e comunicação, evidenciam as limitação de uma aprendizagem baseada exclusivamente na exposição de conteúdos. A aprendizagem é tanto mais significativa quanto maior for a implicação do formando no processo de apropriação do conhecimento, atitudes e valores. As práticas educativas que propiciam às crianças as competências necessárias para aprender a aprender, preparam-nas melhor para a adaptação às mutações rápidas da vida social contemporânea.
 
 #### 2.2 Objectivos Estratégicos para o período 2003-2010
 
@@ -1494,7 +1572,7 @@ A concretização dos objectivos estratégicos acima referenciados requer a adop
 
 - o Reforço nos currículos e nas práticas pedagógicas dos professores do EBI, dos valores relacionados com a cidadania, a democracia, o ambiente, a paz e a justiça social;
 
-> 10 C.f; CARRON, Gabriel e CHAU Ta Hgoc. 1998. La Qualité de L'école Primaire dans les Contextes de Développement Différents. Paris: Edition UNESCO.
+> 10 C.f; CARRON, Gabriel e CHAU Ta Ngoc. 1998. La Qualité de L'école Primaire dans les Contextes de Développement Différents. Paris: Edition UNESCO.
 
 Página 56 de 73
 
@@ -1553,7 +1631,7 @@ Acções | Objectivos | Estratégias | Actividades | Resultados Esperados | Per�
 --- | --- | --- | --- | --- | --- | ---
 Acção 4 Reconversão de Formadores | Aperfeiçoar a competência pedagógica dos formadores | Agenciamento de parcerias com instituições e universidades | Identificação das áreas prioritárias de formação Definição das parcerias externas para o agenciamento da assistência técnica | 90% dos formadores das instituições de formação participam nas acções de aperfeiçoamento | 2003 - 2006 | 25.000
 Acção 5 Renovação das modalidades de formação inicial de Professores para poderem leccionar as 3 fases do EBI | Melhorar a qualificação e prestação dos docentes; Qualificar os professores sem formação pedagógica; | Desenvolvimento da capacidade formativa das Escolas que integram o IP | Recrutamento de candidatos com perfil adequado | 100% dos professores do Ensino Básico com formação pedagógica | 2003 - 2010 | 132.800
-Acção 6 Formação em Exercício e Contínua de professores | Reconverter e aperfeiçoar a competência pedagógica dos professores com a 1 a Fase da Form. em Exercício | Criação de Centros de Recursos regionais para implementação de actividades formativas na modalidade de ensino a distância; Articulação entre o IP a DGAEA e a Rádio Educativa | Recrutamento dos formandos; Sensibilização de pessoas e recursos a nível central e concelhio | Criação de 6 Centros de Recursos. 75% dos profess. com a 1 a fase reconvertidos ; 50% do total de profess. recebem acções de formação contínua | 2003 -2010 | 60.000 62.200 10.000
+Acção 6 Formação em Exercício e Contínua de professores | Reconverter e aperfeiçoar a competência pedagógica dos professores com a 1ª Fase da Form. em Exercício | Criação de Centros de Recursos regionais para implementação de actividades formativas na modalidade de ensino a distância; Articulação entre o IP a DGAEA e a Rádio Educativa | Recrutamento dos formandos; Sensibilização de pessoas e recursos a nível central e concelhio | Criação de 6 Centros de Recursos. 75% dos profess. com a 1ª fase reconvertidos ; 50% do total de profess. recebem acções de formação contínua | 2003 -2010 | 60.000 62.200 10.000
 Sub-Total | 290.000
 
 Página 58 de 73
@@ -1567,10 +1645,10 @@ Página 58 de 73
 Acções | Objectivos | Estratégias | Actividades | Resultados Esperados | Período | Custos (contos)
 --- | --- | --- | --- | --- | --- | ---
 Acção 7 Criação do dispositivo legal para enquadram. dos Gestores e Coordenadores. | Melhorar o enquadramento profissional dos Gestores e Coordenadores. | Elaboração do Estatuto da carreira dos Gestores e Coordenadores Pedagógicos. | Realização de estudos de impacto financeiro. | Estatuto e Carreira dos Gestores e Coordenadores Publicado. | 2003 - 2004 | 1200
-Acção 8 Formação de Gestores e Coordenadores Pedagógicos. | Melhorar a eficácia da gestão pedagógica e administrativa das escolas. | Implementação de cursos de formação em exercício com recurso a tecnologias de formação a distância | Recrutamento de gestores do EBI e Professores; Organização de um Curso de Gestão e Supervisão Peda- gógica. | 100% dos gestores das escolas do EBI recebem formação técnico-pedagógica | 2003 - 2005 | 17.800 4.300
-Acção 9 Promoção da participação dos pais nos órgãos colegiais da escola | Assegurar a partilha e consensualização das decisões da Escola; Criar um modelo de gestão participativa dos pais e da sociedade civil em geral. Generalizar a participação dos pais na gestão das escolas. | Sensibilização da comunidade para participação activa na vida Escolar ; Desenvolvimento de parcerias com as associações comunitárias e com ONGs; Integração de actividades de alfabetização dos adultos (pais e enc. educ) nas actividades de apoio educativo aos alunos; Implementado nas | Criação de Associações de pais dos alunos; Sensibilização dos líderes comunitários; Identificação de redes de apoio nas famílias dos alunos; | 80% dos Pais/encarregados de Educação participam activamente na definição das actividade | 2003 -2010 | 2.000
-Acção 10 Formação de capacidades no domínio da avaliação das aprendizagens a nível central e local. | Melhorar a sistematização e tratamento das informações sobre o rendimento escolar; Criar as condições para utilização dos resultados dos alunos como instrumentos para melhorar as aprendizagens. Avaliar a | escolas de formação de professores estruturas direccionadas para a pesquisa - acção sobre a avaliação das aprendizagens; Desenvolvendo capacidades a nível de 'zonas pedagógicas' dos diferentes concelhos. Instalação das | Identificação de especialistas nacionais na área de avaliação; Identificação da assistência técnica para a renovação das unidades de avaliação das escolas de formação. | Renovadas as unidades de avaliação das escolas de formação de professores; Qualificados 90% dos coordenadores pedagógicos e professores. Implementado o | 2003 -2005 | 10.000
-Acção 11: Implementação do Sistema Nacional de Avaliação da Aprendizagem | Qualidade das Aprendizagens Escolares Contribuir para o mapeamento dos níveis de aprendizagem alcançados pelos alunos | Unidades de Avaliação nas Escolas de Formação de Professores do IP Criação de um Grupo de Pesquisa permanente a nível central | Constituição das equipas de trabalho nas escolas de formação e nos serviços centrais; Análise dos resultados das provas sumativas dos alunos do 6ª ano; Aplicação da Prova Internacional. | Sistema Nacional de avaliação das Aprendizagens; Gradação dos principais níveis de aprendizagem das crianças do EB. | 2004-2010 | 9.000
+Acção 8 Formação de Gestores e Coordenadores Pedagógicos. | Melhorar a eficácia da gestão pedagógica e administrativa das escolas. | Implementação de cursos de formação em exercício com recurso a tecnologias de formação a distância | Recrutamento de gestores do EBI e Professores; Organização de um Curso de Gestão e Supervisão Pedagógica. | 100% dos gestores das escolas do EBI recebem formação técnico-pedagógica | 2003 - 2005 | 17.800 4.300
+Acção 9 Promoção da participação dos pais nos órgãos colegiais da escola | Assegurar a partilha e consensualização das decisões da Escola; Criar um modelo de gestão participativa dos pais e da sociedade civil em geral. Generalizar a participação dos pais na gestão das escolas. | Sensibilização da comunidade para participação activa na vida Escolar ; Desenvolvimento de parcerias com as associações comunitárias e com ONGs; Integração de actividades de alfabetização dos adultos (pais e enc. educ) nas actividades de apoio educativo aos alunos; | Criação de Associações de pais dos alunos; Sensibilização dos líderes comunitários; Identificação de redes de apoio nas famílias dos alunos; | 80% dos Pais/encarregados de Educação participam activamente na definição das actividade | 2003 -2010 | 2.000
+Acção 10 Formação de capacidades no domínio da avaliação das aprendizagens a nível central e local. | Melhorar a sistematização e tratamento das informações sobre o rendimento escolar; Criar as condições para utilização dos resultados dos alunos como instrumentos para melhorar as aprendizagens. | Implementado nas escolas de formação de professores estruturas direccionadas para a pesquisa - acção sobre a avaliação das aprendizagens; Desenvolvendo capacidades a nível de “zonas pedagógicas” dos diferentes concelhos. | Identificação de especialistas nacionais na área de avaliação; Identificação da assistência técnica para a renovação das unidades de avaliação das escolas de formação. | Renovadas as unidades de avaliação das escolas de formação de professores; Qualificados 90% dos coordenadores pedagógicos e professores. | 2003 -2005 | 10.000
+Acção 11: Implementação do Sistema Nacional de Avaliação da Aprendizagem | Avaliar a Qualidade das Aprendizagens Escolares Contribuir para o mapeamento dos níveis de aprendizagem alcançados pelos alunos | Instalação das Unidades de Avaliação nas Escolas de Formação de Professores do IP Criação de um Grupo de Pesquisa permanente a nível central | Constituição das equipas de trabalho nas escolas de formação e nos serviços centrais; Análise dos resultados das provas sumativas dos alunos do 6ª ano; Aplicação da Prova Internacional. | Implementado o Sistema Nacional de avaliação das Aprendizagens; Gradação dos principais níveis de aprendizagem das crianças do EB. | 2004-2010 | 9.000
 Sub-Total | 44.300
 
 Página 59 de 73
@@ -1585,7 +1663,7 @@ Acções | Objectivos | Estratégias | Actividades | Resultados Esperados | Per�
 --- | --- | --- | --- | --- | --- | ---
 Acção 12 Actualização e renovação dos programas e dos materiais didácticos (manuais e guias). | Assegurar a pertinência e a qualidade das aprendizagens das crianças; Adequar a aprendizagem das crianças às exigências da vida social; | Criação de equipas pedagógicas por área curricular; Formação de professores em desenvolvimento curricular; | Actualização de informações e conhecimentos sobre manuais; Definição de competências a desenvolver nas crianças; Definição de orientações metodológicas baseadas nas conquistas da pedagogia activa. | Renovados todos os programas, manuais e guias do EBI. | 2003 - 2010 | 175.000
 Acção 13 Consolidação da Rádio Educativa | Melhorar as condições de aprendizagem nas diversas fases do EBI | Apoio ao alargamento das actividades a todos as áreas e anos da escolaridade básica. | Elaboração de Programas e materiais para os 6 anos de escolar.; Aumento do nº de postos de recepção. | 1ª fase Programas de Mat. e Líng. Portuguesa; 2ª fase Restantes Programas | 2003-2005 2006-2010 | 12.000 8.000
-Acção 14 Promoção das bibliotecas escolares | Melhorar o acervo de materiais educativos aos professores e alunos; Fomentar o hábito de utilização das bibliotecas escolares. | Desenvolvimento de parcerias com as bibliotecas móveis da DGAEA; Concertação com as autarquias através de programas de geminação e de cooperação internacional; Envolvimento de pais na aquisição de materiais bibliográficos; | Sensibilização das Autarquias e das ONGs para o fornecimento de livros; Distribuição de Kits pedagógicos a todas a s escolas; | 100% das Escolas-Pólo dispõem de bibliotecas escolares. | 2003 - 2010 | 23.000
+Acção 14 Promoção das bibliotecas escolares | Melhorar o acervo de materiais educativos aos professores e alunos; Fomentar o hábito de utilização das bibliotecas escolares. | Desenvolvimento de parcerias com as bibliotecas móveis da DGAEA; Concertação com as autarquias através de programas de geminação e de cooperação internacional; Envolvimento de pais na aquisição de materiais bibliográficos; | Sensibilização das Autarquias e das ONGs para o fornecimento de livros; Distribuição de Kits pedagógicos a todas as escolas; | 100% das Escolas-Pólo dispõem de bibliotecas escolares. | 2003 - 2010 | 23.000
 Sub-Total | 218.000
 
 Página 60 de 73
@@ -1624,7 +1702,7 @@ Acções | Objectivos | Estratégias | Actividades | Resultados Esperados | Per�
 Acção 20 Consolidação do programa das Cantinas Escolares | Fornecer a todas as crianças uma refeição quente Melhorar a qualidade do stock dos géneros alimentícios | Mobilização dos parceiros nacionais e internacionais Construção e reparação dos armazéns e das cozinhas. | Identificação das escolas localizadas em zonas de maior carência social Trabalhos de reparação. Formação das cozinheiras | 100% das crianças recebem uma refeição quente na escola | 2003 -2010 | 192.100
 Acção 21 Transporte de Água e de Géneros Alimentícios | Melhorar o transporte de água e de géneros alimentícios às escolas | Mobilização dos parceiros nacionais e internacionais | Aquisição de viaturas para o transporte dos géneros alimentícios | 100% dos géneros transportados de forma atempada às cantinas e armazéns | 2003-2010 | 16.100
 Acção 22 Fornecimento de materiais escolares | Melhorar as condições de aprendizagem das crianças mais desfavorecidas. | Identificação das crianças mais desfavorecidas | Dotar as crianças desfavorecidas de materiais didácticos | 95% das crianças carênciadas recebem materiais escolares | 2003-2010 | 100.000
-Acção 23 Desenvolvimento da educação para a saúde | Sensibilizar os docentes e as famílias para os problemas da saúde escolar. Incutir nas crianças comportamentos conducentes à melhoria da higiene e da saúde | Desenvolvimen- to de parcerias com os Serviços Centrais do Min. da Saúde, delegacias de saúde e ONGs. Sensibilização dos professores e das escolas para estabelecimento de contactos c/ os Serviços de Saúde. | Sensibilização da comunidade e dos pais; Introdução de conteúdos de educação sexual e luta contra a SIDA; Formação de docentes e coordenadores; Divulgação do Manual de Saúde Escolar; | 100% dos Gestores, Coordenadores e Professores formados em saúde escolar. 100% das crianças do EBI desenvolvem comportamen- tos básicos em matéria da saúde/nutrição; | 2003 -2006 2005-2010 | 12.000 80.000
+Acção 23 Desenvolvimento da educação para a saúde | Sensibilizar os docentes e as famílias para os problemas da saúde escolar. Incutir nas crianças comportamentos conducentes à melhoria da higiene e da saúde | Desenvolvimento de parcerias com os Serviços Centrais do Min. da Saúde, delegacias de saúde e ONGs. Sensibilização dos professores e das escolas para estabelecimento de contactos c/ os Serviços de Saúde. | Sensibilização da comunidade e dos pais; Introdução de conteúdos de educação sexual e luta contra a SIDA; Formação de docentes e coordenadores; Divulgação do Manual de Saúde Escolar; | 100% dos Gestores, Coordenadores e Professores formados em saúde escolar. 100% das crianças do EBI desenvolvem comportamentos básicos em matéria da saúde/nutrição; | 2003 -2006 2005-2010 | 12.000 80.000
 Sub-Total | 400.200
 
 Página 62 de 73
@@ -1661,7 +1739,7 @@ Página 63 de 73
 
 ##### 3.1.1 Reforço de estruturas e apoios educativos:
 
-- dinamizar os Serviços Centrais e Regionais de Alfabetização e Educação de Adultos;
+- i) dinamizar os Serviços Centrais e Regionais de Alfabetização e Educação de Adultos;
 
 - ii) redefinir estratégias para a Educação de Adultos;
 
@@ -1671,7 +1749,7 @@ Página 63 de 73
 
 ##### 3.1.2 Consolidação e reforço das Estratégias de Alfabetização e Educação de Adultos:
 
-- reforçar e priorizar as acções de alfabetização para as mulheres e para o grupo etário dos 15 aos 49 anos;
+- i) reforçar e priorizar as acções de alfabetização para as mulheres e para o grupo etário dos 15 aos 49 anos;
 
 - ii) alargar a 2ª e a 3ª fase do ensino básico para adultos;
 
@@ -1679,7 +1757,7 @@ Página 63 de 73
 
 ##### 3.1.3 Reformulação  das  políticas  de  enquadramento  e  de formação de quadros:
 
-- regulamentar e implementar a Carreira Profissional dos Agentes  Educativos  de  Alfabetização  e  Educação  de Adultos;
+- i) regulamentar e implementar a Carreira Profissional dos Agentes Educativos de Alfabetização e Educação de Adultos;
 
 - ii) promover a formação contínua dos agentes da educação básica de adultos.
 
@@ -1703,6 +1781,8 @@ Este  esforço  representará  em  termos  absolutos,  um  total  de  15.748 pes
 
 A redução da taxa do analfabetismo, na faixa dos 15 aos 49 anos, de 15% em 2000 para 5% no horizonte 2010, permite a diminuição da taxa de analfabetismo na faixa etária dos 15 e mais anos de 25% em 2000 para 15% em 2010. Esta tendência permitirá ainda o aumento da taxa global  de  alfabetização  de  adultos  para  cerca  de  90%  até  2015,  meta considerada pela UNESCO como desejável de atingir no âmbito do Plano de Educação para Todos.
 
+Previsão das Actividades de Alfabetização até 2010
+
 Situação em 2000 | Situação em 2010 | Previsão Alfabetizados (2003-2010)
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Concelhos | Populaç (15-49) | Pop.Analf (15-49) | Taxa Analf. | Populaç. (15-49) | P.Analf (15-49) | Taxa Analf. | Total a formar | Formand. /ano | Número de Animadores
@@ -1724,8 +1804,6 @@ S. Filipe | 12964 | 1884 | 14,5% | 14853 | 743 | 5,0% | 1141 | 143 | 20
 Mosteiros | 4392 | 798 | 18,2% | 5226 | 261 | 5,0% | 537 | 67 | 10
 Brava | 3155 | 501 | 15,9% | 3163 | 158 | 5,0% | 343 | 43 | 6
 Total País | 201577 | 29502 | 14,6% | 275047 | 13754 | 5,0% | 15748 | 1969 | 281
-
-Previsão das Actividades de Alfabetização até 2010
 
 Página 65 de 73
 
@@ -1785,9 +1863,9 @@ Página 67 de 73
 
 Acções | Objectivos | Estratégias | Actividades | Resultados Esperados | Período | Custos (contos)
 --- | --- | --- | --- | --- | --- | ---
-Acção 1 Informação, sensibilização e mobilização da população. | Aumentar a cobertura dos círculos de cultura tendo em conta as disparidades sociais e geográficas. | Promoção de campanhas permanentes de sensibilização e mobilização da luta contra o analfabetismo utilizando os media; | Elaboração de programas radiofónicos e televisivos. | Programas radiofónicos e televisivos elaborados e difundidos. | 2003-2010 | 8 000
-Acção 2 Identificação e mobilização da população analfabeta. | Enfoque das acções de alfabetização nos concelhos e freguesias que apresentarem maiores disparidades sociais e geográficas ; | Identificação e levantamento da população analfabeta por Concelho e localidades de acordo com o censo 2000 e as perspectivas demográficas para o horizonte 2020. | População analfabeta identificada por localidade. | 2003-2004 e 2008-2009 | 1 000 1 200
-Acção 3 Planificação e avaliação das acções de alfabetização e educação de adultos. | Articulação com as ONGs, Associações Cívicas, Câmaras Municipais, Igrejas e outros. | Promoção de encontros periódicos com os parceiros sociais. | Encontros anuais de planificação e avaliação com os parceiros realizados. | 2003-2010 | 8 000
+Acção 1 Informação, sensibilização e mobilização da população. | Aumentar a cobertura dos círculos de cultura tendo em conta as disparidades sociais e geográficas. | Promoção de campanhas permanentes de sensibilização e mobilização da luta contra o analfabetismo utilizando os media; Enfoque das acções de alfabetização nos concelhos e freguesias que apresentarem maiores disparidades sociais e geográficas ; Articulação com as ONGs, Associações Cívicas, Câmaras Municipais, Igrejas e outros. | Elaboração de programas radiofónicos e televisivos. | Programas radiofónicos e televisivos elaborados e difundidos. | 2003-2010 | 8 000
+Acção 2 Identificação e mobilização da população analfabeta. |  |  | Identificação e levantamento da população analfabeta por Concelho e localidades de acordo com o censo 2000 e as perspectivas demográficas para o horizonte 2020. | População analfabeta identificada por localidade. | 2003-2004 e 2008-2009 | 1 000 1 200
+Acção 3 Planificação e avaliação das acções de alfabetização e educação de adultos. |  |  | Promoção de encontros periódicos com os parceiros sociais. | Encontros anuais de planificação e avaliação com os parceiros realizados. | 2003-2010 | 8 000
 Subtotal | 18 200
 
 Página 68 de 73
@@ -1800,9 +1878,9 @@ Página 68 de 73
 
 Acções | Objectivos | Estratégias | Actividades | Resultados Esperados | Período | Custos (contos)
 --- | --- | --- | --- | --- | --- | ---
-Acção 4 Recrutamento , selecção e formação de animadores e formadores | Melhorar a capacidade de desempenho dos animadores e formadores; Capacitar os agentes da alfabetização e educação de adultos; Aumentar a capacidade de cobertura das actividades de alfabetização e educação de adultos. | Elaboração de modalidades inovadores de formação, com recurso ao ensino a distância; Estabeleciment o de parceria com o Instituto Pedagógico. | Definição de critérios e recrutamento de animadores; Formação inicial e contínua de animadores. | 100 animadore recrutados; 100 % dos Animadores com formação pedagógica. | 2003/2004 2003-2010 | 7 200
-Organização e realização da 2ª fase do curso de formação em exercício. | 100% dos Animadores com 1ª fase e com requisitos recebem complemento de formação. | 2003-2005 | 30 000
-Formação de formadores de animadores. | Formadores actualizados | 2003-2010 | 5 000
+Acção 4 Recrutamento , selecção e formação de animadores e formadores | Melhorar a capacidade de desempenho dos animadores e formadores; Capacitar os agentes da alfabetização e educação de adultos; Aumentar a capacidade de cobertura das actividades de alfabetização e educação de adultos. | Elaboração de modalidades inovadores de formação, com recurso ao ensino a distância; Estabelecimento de parceria com o Instituto Pedagógico. | Definição de critérios e recrutamento de animadores; Formação inicial e contínua de animadores. | 100 animadore recrutados; 100 % dos Animadores com formação pedagógica. | 2003/2004 2003-2010 | 7 200
+ |  |  | Organização e realização da 2ª fase do curso de formação em exercício. | 100% dos Animadores com 1ª fase e com requisitos recebem complemento de formação. | 2003-2005 | 30 000
+ |  |  | Formação de formadores de animadores. | Formadores actualizados | 2003-2010 | 5 000
 Subtotal | 42 200
 
 ##### Componente 3 : Recursos pedagógicos
@@ -1810,9 +1888,9 @@ Subtotal | 42 200
 Acções | Objectivos | Estratégias | Actividades | Resultados Esperados | Período | Custos (contos)
 --- | --- | --- | --- | --- | --- | ---
 Acção 5 Actualização dos materiais de suporte | Assegurar a pertinência e a qualidade das aprendizagens dos jovens e adultos | Mobilização da capacidade nacional para elaboração, revisão e actualização dos materiais didácticos | Produção de suportes televisivos; Produção de programas de formação a distância. | Suportes audiovisuais elaborados. | 2004-2005 | 10 000
-Produção de brochuras e desdobráveis. | Brochuras e desdobráveis distribuídos. | 2003-2010 | 2 000
-Actualização de programas, manuais e guias de orientação metodológica. | Programas, manuais e guias actualizados. | 2005-2006 | 70 000
-Produção do Jornal ALFA | Jornal editado e distribuído. | 2003-2006 | 58 600
+ |  |  | Produção de brochuras e desdobráveis. | Brochuras e desdobráveis distribuídos. | 2003-2010 | 2 000
+ |  |  | Actualização de programas, manuais e guias de orientação metodológica. | Programas, manuais e guias actualizados. | 2005-2006 | 70 000
+ |  |  | Produção do Jornal ALFA | Jornal editado e distribuído. | 2003-2006 | 58 600
 Subtotal | 140 600
 
 Página 69 de 73
@@ -1832,7 +1910,7 @@ Subtotal | 8 200
 
 Acções | Objectivos | Estratégias | Actividades | Resultados Esperados | Período | Custos (contos)
 --- | --- | --- | --- | --- | --- | ---
-Acção 7 Actividades de alfabetização | Reduzir a taxa de analfabetismo com incidência na faixa dos 15 aos 49 anos. | Desenvolviment o de acções de acordo com os manuais e guias. | Animação pedagógica dos círculos de cultura. | 2000 pessoas alfabetizadas por ano. | 2003-2010 | 320 000
+Acção 7 Actividades de alfabetização | Reduzir a taxa de analfabetismo com incidência na faixa dos 15 aos 49 anos. | Desenvolvimento de acções de acordo com os manuais e guias. | Animação pedagógica dos círculos de cultura. | 2000 pessoas alfabetizadas por ano. | 2003-2010 | 320 000
 Acção 8 Formação profissional de base e actividades geradoras de rendimento | Melhorar a pertinência da educação de base de adultos | Promover maior articulação entre a formação académica, a formação profissional de base e as actividades geradoras de rendimento. | Elaboração de planos de formação profissional de base em articulação com diversos parceiros. | 1500 formandos por ano nas FPB e AGR | 2003-2010 | 264 000
 Acção 9 Animação comunitária | Dinamizar as actividades de alfabetização e educação de adultos. | Realizar intervenções focalizadas por localidade e grupos alvo. | Elaboração de planos de animação comunitária. | Alfabetizandos envolvidos. Localidades e grupos específicos abrangidos. | 2003-2010 | 60 000
 Acção 10 Animação para a leitura | Estimular o hábito e o gosto pela leitura. | Reforço e expansão das bibliotecas móveis. | Aquisição de livros para o fundo bibliográfico; Manutenção dos Bibliobus. | Bibliotecas móveis reforçadas e alargadas; Frota mantida | 2003-2010 | 8 000 19 000
@@ -1848,13 +1926,13 @@ Página 70 de 73
 
 Acções | Objectivos | Estratégias | Actividades | Resultados Esperados | Período | Custos (contos)
 --- | --- | --- | --- | --- | --- | ---
-Acção 11 Acompanha- mento pedagógico e avaliação | Garantir a qualidade e a eficácia das actividades de alfabetização e educação de adultos | Implementação do sistema de acompanhament o e de avaliação | Realização de visitas de supervisão e acompanhamen to pedagógico Elaboração e implementação de instrumentos de avaliação | Sistema de acompanha- mento e avaliação implementado Instrumentos de avaliação elaborados e distribuídos | 2003-2010 | 5 800 2 000
+Acção 11 Acompanhamento pedagógico e avaliação | Garantir a qualidade e a eficácia das actividades de alfabetização e educação de adultos | Implementação do sistema de acompanhamento e de avaliação | Realização de visitas de supervisão e acompanhamento pedagógico Elaboração e implementação de instrumentos de avaliação | Sistema de acompanhamento e avaliação implementado Instrumentos de avaliação elaborados e distribuídos | 2003-2010 | 5 800 2 000
 Subtotal | 7.800
 Total Parcial | 888.000
 
 ### 4. - Orçamento Global Por Subsistema
 
-SUBSISTEMA | Montante 10 3 ECV | Percentagem
+SUBSISTEMA | Montante 10³ ECV | Percentagem
 --- | --- | ---
 Pequena Infância | 760.000 c. | 23,0
 Ensino Básico | 1.663.900 c. | 50,2
@@ -1889,11 +1967,15 @@ Documentos sobre a reforma do Sistema de Ensino;
 
 Estudos preparatórios do Plano Estratégico de Educação e Formação Profissional;
 
-Uma visão holística da criança - E. Pressoir/BRAOC ( Apresentação da delegada do Unicef na Mesa Redonda sobre a Pequena Infância Novembro 2000);
+Uma visão holística da criança – E. Pressoir/BRAOC ( Apresentação da delegada do Unicef na Mesa Redonda sobre a Pequena Infância – Novembro 2000);
 
-Governo de Cabo Verde (2001). Programa do Governo 2001-2005. Direcção Geral do Plano (2002). Plano Nacional de Desenvolvimento 2002-2005, versão provisória .
+Governo de Cabo Verde (2001). Programa do Governo 2001-2005.
 
-Direcção Geral do Plano (2001). As Grandes Opções do Plano . Direcção Geral do Plano (2001). Interim Poverty Reduction Strategy Program .
+Direcção Geral do Plano (2002). Plano Nacional de Desenvolvimento 2002-2005, versão provisória.
+
+Direcção Geral do Plano (2001). As Grandes Opções do Plano.
+
+Direcção Geral do Plano (2001). Interim Poverty Reduction Strategy Program.
 
 Plan d'Education pour Tous - Algérie
 
@@ -1913,7 +1995,9 @@ Le carnet du coordenateur N° 3/2001 UNESCO;
 
 Lei  de  Bases  do  Sistema  Educativo  (Lei  n°  103/II/90  de  29  de Dezembro);
 
-Governo de Cabo Verde/UNICEF (1999). Análise da situação: criança Ministério da Justiça e Administração Interna (1998). Relatório inicial
+Governo de Cabo Verde/UNICEF (1999). Análise da situação: criança
+
+Ministério da Justiça e Administração Interna (1998). Relatório inicial
 
 IIPE.  2002.  Les  Questions  de  Stratégies  dans  le  Développement  de l'Education pour Tous. 4 Modules.
 
@@ -1927,7 +2011,9 @@ Ministério da Educação (2000). Estatísticas do pré-escolar;
 
 Ministério do Emprego, Formação e Integração Social (2000). Relatório  nacional  sobre  o  seguimento  da  Cimeira  Mundial  para  a criança.
 
-Mulher em Cabo Verde, revisão Agosto 2002 . Relatórios de actividades do ICM 2000 e 2001;
+Mulher em Cabo Verde, revisão Agosto 2002.
+
+Relatórios de actividades do ICM 2000 e 2001;
 
 UNICEF (2001). Mesa redonda sobre a pequena infância, documento síntese .
 
