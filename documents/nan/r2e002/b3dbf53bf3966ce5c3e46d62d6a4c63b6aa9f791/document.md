@@ -4,7 +4,8 @@
 
 Republic of Croatia
 
-Ministry of Science, Education and Sports Council for the National Curriculum Strategy for the Construction and Development of the National Curriculum for Preschool Education, General Compulsory and Secondary School Education Strategy for the Construction and Development of the National Curriculum for Preschool Education, General Compulsory and Secondary School Education
+Ministry of Science, Education and Sports
+Council for the National Curriculum
 
 [[END OF PAGE 1]]
 
@@ -16,11 +17,17 @@ Ministry of Science, Education and Sports Council for the National Curriculum St
 
 [[START OF PAGE 3]]
 
-Republic of Croatia Ministry of Science, Education and Sports Council for the National Curriculum
+# Strategy for the Construction and Development of the National Curriculum for Preschool Education, General Compulsory and Secondary School Education
+
+Republic of Croatia
+Ministry of Science, Education and Sports
+Council for the National Curriculum
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+Strategy for the Construction and Development of the National Curriculum for Preschool Education, General Compulsory and Secondary School Education
 
 PUBLISHER:
 
@@ -60,21 +67,12 @@ ISBN 978-953-6569-38-0
 
 Zagreb, 2007
 
-Tel.:
-
-+385 (0) 1 4569 000
-
-Fax:
-
-+385 (0) 1 4569 099
-
-Email: 	ured@mzos.hr
-
-URL:
-
-http://www.mzos.hr
-
-© Ministry of Science, Education and Sports Trg hrvatskih velikana 6, 10000 Zagreb, Croatia
+©Ministry of Science, Education and Sports
+Trg hrvatskih velikana 6, 10000 Zagreb, Croatia
+Tel.: +385 (0) 1 4569 000
+Fax: +385 (0) 1 4569 099
+Email: ured@mzos.hr
+URL: http://www.mzos.hr
 
 [[END OF PAGE 4]]
 
@@ -98,45 +96,29 @@ STRATEGY FOR THE CONSTRUCTION AND DEVELOPMENT OF THE NATIONAL CURRICULUM
 
 ### President of the Council
 
-Dijana Vican ‡ Pedagogy department, University of Zadar
+Dijana Vican – Pedagogy department, University of Zadar
 
 ### Members
 
-Branka Baranović ‡ Institute for Social Research, Zagreb
+Branka Baranović – Institute for Social Research, Zagreb
+Zdenka Barović – “Marjan” Primary School, Split
+Josip Brana – Faculty of Pedagogy, University of Osijek
+Vladimir Findak – Faculty of Kinesiology, University of Zagreb
+Vesna Hrvoj Šic – Secondary School, Oroslavje
+Vladimir Jurić – Faculty of Philosophy, University of Zagreb
+Milan Matijević – Faculty of Teacher Education, University of Zagreb
+Branimir Mihalinec – Independent Trade Union of Workers in Secondary Education of Croatia
+Josip Milat – Faculty of Philosophy, University of Split
+Petar Mladinić – 5th Grammar School, Zagreb
+Marko Mušanović – Faculty of Philosophy, University of Rijeka
+Vladimir Paar – Croatian Academy of Sciences and Arts
+Vlatko Previšić – Faculty of Philosophy, University of Zagreb
+Vini Rakić – Ministry of Science, Education and Sports
+Ružica Razum – Catholic Theological Faculty, University of Zagreb
+Božena Strugar – The Union of Pre-school Education Employees of Croatia
+Slavica Šimić – 2nd Primary School, Knin
 
-Zdenka Barović ‡ 'Marjan' Primary School, Split
-
-Josip Brana ‡ Faculty of Pedagogy, University of Osijek
-
-Vladimir Findak ‡ Faculty of Kinesiology, University of Zagreb
-
-Vesna Hrvoj Šic ‡ Secondary School, Oroslavje
-
-Vladimir Jurić ‡ Faculty of Philosophy, University of Zagreb
-
-Milan Matijević ‡ Faculty of Teacher Education, University of Zagreb
-
-Branimir Mihalinec ‡ Independent Trade Union of Workers in Secondary Education of Croatia
-
-Josip Milat ‡ Faculty of Philosophy, University of Split
-
-Petar Mladinić ‡ 5 th  Grammar School, Zagreb
-
-Marko Mušanović ‡ Faculty of Philosophy, University of Rijeka
-
-Vladimir Paar ‡ Croatian Academy of Sciences and Arts
-
-Vlatko Previšić ‡ Faculty of Philosophy, University of Zagreb
-
-Vini Rakić ‡ Ministry of Science, Education and Sports
-
-Ružica Razum ‡ Catholic Theological Faculty, University of Zagreb
-
-Božena Strugar ‡ The Union of Pre-school Education Employees of Croatia
-
-Slavica Šimić ‡ 2 nd  Primary School, Knin
-
-
+4
 
 [[END OF PAGE 6]]
 
@@ -150,17 +132,17 @@ To be a visionary in the area of education in a time of deep and rapid social, e
 
 Members of the Council for the National Curriculum have examined the goals of development of the Republic of Croatia, the goals of educational policy of the Ministry of Science, Education and Sports of the Republic of Croatia, have analyzed scientific results, consulted European documents, carried out a public debate with relevant education actors and developed a clear and concise Strategy for the Construction and Development of the National Curriculum for Preschool, General Compulsory and Secondary Education.
 
-The Strategy is, on one hand, the presupposition for the creation of The National Curriculum Framework which is going to answer the question of exactly what knowledge, skills, abilities and attitudes the children and students need to acquire in order to, while responding to demands of the future, find their place in their private, social and professional life. On the other hand, the Strategy shows the way to changes to be undergone by all education actors ‡ preschool institutions and schools, their founders, higher education institutions, agencies, parents/guardians, children and students, political, social and professional associations and media, as well as all Croatian citizens ‡ who need to share responsibility while contributing to the achievement of the highest level of education quality.
+The Strategy is, on one hand, the presupposition for the creation of The National Curriculum Framework which is going to answer the question of exactly what knowledge, skills, abilities and attitudes the children and students need to acquire in order to, while responding to demands of the future, find their place in their private, social and professional life. On the other hand, the Strategy shows the way to changes to be undergone by all education actors – preschool institutions and schools, their founders, higher education institutions, agencies, parents/guardians, children and students, political, social and professional associations and media, as well as all Croatian citizens – who need to share responsibility while contributing to the achievement of the highest level of education quality.
 
 The  realization  of  a  knowledge-based  society presupposes knowledge as  a  social  and cultural value, which is not to be imposed but stimulated by permanent activities of teaching and learning.
 
-The future of our children is in what we are doing here and now. The Strategy guidelines set clear expectations on adults ‡ to join personal and professional responsibility with personal conscious, and to move towards the utmost quality of its realization.
+The future of our children is in what we are doing here and now. The Strategy guidelines set clear expectations on adults – to join personal and professional responsibility with personal conscious, and to move towards the utmost quality of its realization.
 
 Dragan Primorac
 
 Minister of Science, Education and Sports
 
-
+5
 
 [[END OF PAGE 7]]
 
@@ -176,7 +158,27 @@ STRATEGY FOR THE CONSTRUCTION AND DEVELOPMENT OF THE NATIONAL CURRICULUM
 
 ## Contents
 
-
+Foreword  5
+Introduction  9
+Aims and Objectives of the Strategy  11
+Why the Changes  11
+Identifying Conditions in Preschool, Primary and Secondary Education  13
+Aims and Objectives of Curriculum Changes  15
+General and Particular Goals of the National Curriculum for Preschool Education  15
+General and Particular Goals of the National Curriculum, Education Achievements and Principles of General Compulsory Education  16
+Curriculum Areas  19
+Structure of the National Curriculum  20
+Student Achievement Evaluation, Certificates and School Quality Evaluation  20
+Organizational Structure of School System and Curriculum Cycles  21
+Goals of the National Curriculum for Secondary Education  22
+Organizational Structure of Secondary School System and Curriculum Cycles  23
+Evaluating Quality of Work in Schools and Student Achievements  25
+Internal Organization of the National Curriculum  26
+Education Infrastructure in the Republic of Croatia  27
+Basis for the Realization of the National Curriculum  28
+Potential Learning Difficulties  29
+
+7
 
 [[END OF PAGE 9]]
 
@@ -192,7 +194,7 @@ STRATEGY FOR THE CONSTRUCTION AND DEVELOPMENT OF THE NATIONAL CURRICULUM
 
 ## Introduction
 
-Systematic  work  on  raising  the  quality  of  education  is  provided  by Education  Sector Development Plan 2005 ‡ 2010 , a document created by the Ministry of Science, Education and Sports (hereinafter: 'the Ministry') and adopted by the Government of the Republic of Croatia in June 2005. The quality of education has been set as a goal and a principle of Croatian education policy.
+Systematic work on raising the quality of education is provided by Education Sector Development Plan 2005 – 2010, a document created by the Ministry of Science, Education and Sports (hereinafter: 'the Ministry') and adopted by the Government of the Republic of Croatia in June 2005. The quality of education has been set as a goal and a principle of Croatian education policy.
 
 Accepting the curriculum approach implies the construction of a national curriculum and is to be preceded by efficiency evaluation of all the immediate actors in the field of education and the redefinition of education on all its levels, in order to respond to the developmental needs of the Croatian society, while bearing in mind a wider European and global context.
 
@@ -202,7 +204,7 @@ The Strategy contains expert suggestions on how to modernize, upgrade and improv
 
 The Strategy is a developmental document open to changes and improvements depending on the needs and developmental tendencies in the education area, as well as on the various studies and evaluation results.
 
-
+9
 
 [[END OF PAGE 11]]
 
@@ -220,29 +222,24 @@ STRATEGY FOR THE CONSTRUCTION AND DEVELOPMENT OF THE NATIONAL CURRICULUM
 
 The Strategy aims at:
 
- defining goals and values on which to base preschool, general compulsory and secondary school education, ·
+• defining goals and values on which to base preschool, general compulsory and secondary school education,
+• improving the quality of educational process, i.e. quality of teaching and learning,
+• ensuring equal rights and equal conditions of teaching and learning in Croatian schools (pedagogical standard),
+• ensuring conditions for constant development of the national curriculum,
+• systematically following and argumentatively portraying priority changes, defining change-bearing factors, timelines and financial plans,
+• comparing the system with other European education systems.
 
-- improving the quality of educational process, i.e. quality of teaching and learning, ·
-
- ensuring equal rights and equal conditions of teaching and learning in Croatian schools (pedagogical standard), ·
-
-- ensuring conditions for constant development of the national curriculum, ·
-
- systematically following and argumentatively portraying priority changes, defining changebearing factors, timelines and financial plans, ·
-
-- comparing the system with other European education systems. ·
-
-The Strategy will serve the architects of educational policies, education 'providers' ‡ teachers, expert associates, principals, and education 'consumers' ‡ pupils/students, parents, local communities and agencies, higher education institutions, scientific and research institutions and other organizations.
+The Strategy will serve the architects of educational policies, education 'providers' – teachers, expert associates, principals, and education 'consumers' – pupils/students, parents, local communities and agencies, higher education institutions, scientific and research institutions and other organizations.
 
 ## Why the Changes
 
-The development of a knowledge -based society and the globalization process are creating new  social  and  individual  needs  ‡  in  the  areas  of  culture,  scientific  and  technological development, social cohesion, the position and the role of an individual as a citizen as well as in the area of an individual's personal development. Education, given its importance in knowledge production and transfer and in preparing an individual for further life and work, has gained considerable importance in the context and has become, along with science, one of the fundamental pillars of society development.
+The development of a knowledge-based society and the globalization process are creating new social and individual needs – in the areas of culture, scientific and technological development, social cohesion, the position and the role of an individual as a citizen as well as in the area of an individual's personal development. Education, given its importance in knowledge production and transfer and in preparing an individual for further life and work, has gained considerable importance in the context and has become, along with science, one of the fundamental pillars of society development.
 
 Society development and preparing the individual for life and work in new conditions are creating the need for new competencies (innovativeness, creativity, IT literacy, teamwork, constant acquisition of new knowledge, adjusting to changes). They cannot be acquired through a traditional educational system, which functions as a transfer vehicle and is oriented towards  the  knowledge  of  facts.  The  curriculum  policy  shift  from  the  idea  of  knowledge transfer to that of development of competencies is a dominant trend in Europe, as well as in the rest of the world today.
 
 In today's highly competitive economic and social context, education and work productivity can be improved by setting high educational standards on the national level. This position leads to the standardization of educational achievements, the emphasis of the need for their achievement on a wider national scale and the assessment of the actually achieved results.
 
-11 11
+11
 
 [[END OF PAGE 13]]
 
@@ -256,11 +253,11 @@ Adapting to the socio-cultural and other changes and tendencies in the contempor
 
 The  new  demands  in  the  field  of  education  are  not  oriented  solely  towards  increasing students' success rates, but also towards the need to render students capable of facing a changing world and to acquire competencies in contemporary education areas. This reflects itself in the need for the extension of general compulsory education .
 
-Acquisition of a secondary school diploma or a university degree can no longer guarantee absolute competence or proficiency to efficiently perform professional, civil or family roles and tasks. If one is to be professionally involved in the labour market and in the life of a community, one should be highly motivated and capable of constant learning. Contemporary education, whose goal is a democratic and knowledge-based society, demands from an individual  to  be  a  complete  and  responsible  person  who  will  spare  no  efforts  for  sociocultural advancement.
+Acquisition of a secondary school diploma or a university degree can no longer guarantee absolute competence or proficiency to efficiently perform professional, civil or family roles and tasks. If one is to be professionally involved in the labour market and in the life of a community, one should be highly motivated and capable of constant learning. Contemporary education, whose goal is a democratic and knowledge-based society, demands from an individual to be a complete and responsible person who will spare no efforts for socio-cultural advancement.
 
 There is  both  a  need  and  an  obligation  to  direct  the  education  of  children  and  youth  to those values that aim at preserving national, regional  and  local  cultural  heritage,  as  well as  at  affirming  the  historical  and  cultural  legacy  in  one's  personal  life  and  surroundings. This educational goal requires a concept of systematically rendering youth more susceptible to  others  and  to  their  own  personal  environment,  to  a  wider  context  of  living  marked  by pluralism of cultures and religions, a multi-linguistic society and diversity of moral values. It requires competencies which facilitate cohabitation and mutual understanding. Therefore, the youth needs to be taught and rendered capable for life in their local community as well as in a wider one.
 
-Given  the  mentioned  tendencies  in  modern  society  development  ‡  constant  increase  in scientific and technological knowledge and the demands for changes in it, the importance of research, innovation growth, know-how as a component in a country's competitiveness, global competition increase, internationalization of societies, etc. ‡ the education system in the Republic of Croatia needs to contribute to a faster economic growth, to social interconnection, to the democratic development of society and to a faster and more successful integration of Croatia into the European Union.
+Given the mentioned tendencies in modern society development – constant increase in scientific and technological knowledge and the demands for changes in it, the importance of research, innovation growth, know-how as a component in a country's competitiveness, global competition increase, internationalization of societies, etc. – the education system in the Republic of Croatia needs to contribute to a faster economic growth, to social interconnection, to the democratic development of society and to a faster and more successful integration of Croatia into the European Union.
 
 12
 
@@ -298,7 +295,7 @@ As far as IT literacy is concerned, research indicates a low level of IT literac
 
 STRATEGY FOR THE CONSTRUCTION AND DEVELOPMENT OF THE NATIONAL CURRICULUM
 
-There is still no systematic internal or external education evaluation or self-evaluation on a pre-tertiary level.  Bearing in mind the fact that external evaluation was introduced as late as  2005,  we  are  facing  a  problem  of  incompetence  of  education  bearers  to  evaluate  or self-evaluate. No strategy for external education evaluation has yet been constructed, nor has a way been conceived to use the results of such evaluation. This is reflected in the nonsystematic approach to planning and implementing short and long term changes.
+There is still no systematic internal or external education evaluation or self-evaluation on a pre-tertiary level. Bearing in mind the fact that external evaluation was introduced as late as 2005, we are facing a problem of incompetence of education bearers to evaluate or self-evaluate. No strategy for external education evaluation has yet been constructed, nor has a way been conceived to use the results of such evaluation. This is reflected in the non-systematic approach to planning and implementing short and long term changes.
 
 Similarly, no assessment system has yet been developed nor a system to award any given school or individual for special contribution or for education innovation.
 
@@ -314,11 +311,11 @@ Curriculum development requires the existence of a separate department (an offic
 
 Similarly,  there  is  no  regulation  in  managing  data  useful  for  quality  monitoring  and development. It is, therefore, necessary to define who has the authority to deal with research and evaluation results and to determine the range and level of information transfer towards direct and indirect actors in the education system.
 
-An additional difficulty lies in the lack of a single methodology for gathering data relevant for the  development of education system. The Ministry, Central Bureau of Statistics, National Centre for the External Evaluation of Education, the City of Zagreb and other units of local selfgovernment gather information using different methodologies and update data rather slowly.
+An additional difficulty lies in the lack of a single methodology for gathering data relevant for the development of education system. The Ministry, Central Bureau of Statistics, National Centre for the External Evaluation of Education, the City of Zagreb and other units of local self-government gather information using different methodologies and update data rather slowly.
 
 On the other hand, the work has been intensified on a more systematic orientation towards improving material conditions in schools, at all levels. The process of creating a schools' network has also begun.
 
-Schools have been rendered more sensible to change via international projects, Ministry  projects  (Croatian  National  Education  Standard  ‡  CNES)  and  national  exams implementation.
+Schools have been rendered more sensible to change via international projects, Ministry projects (Croatian National Education Standard – CNES) and national exams implementation.
 
 The Ministry has directed its activities towards quality evaluation of the education system (national exams in primary and secondary schools) and has inspired the formation of the system support infrastructure.
 
@@ -334,15 +331,11 @@ STRATEGY FOR THE CONSTRUCTION AND DEVELOPMENT OF THE NATIONAL CURRICULUM
 
 Aims and objectives of curriculum changes are to:
 
- synchronize the national curriculum with the needs and developmental goals of Croatian society and the developmental needs of the individual, ·
-
- synchronize  the  national  curriculum  with  the  latest  trends  in  the  education  area  and improve it permanently, ·
-
- more efficiently connect the national curriculum with other education system components, ·
-
- more efficiently  connect  the  inner  components  of  the  national  curriculum  into  a  more coherent system, ·
-
- develop a national curriculum whose goals, implementation and effects are clear and transparent to its participants and users. ·
+• synchronize the national curriculum with the needs and developmental goals of Croatian society and the developmental needs of the individual,
+• synchronize the national curriculum with the latest trends in the education area and improve it permanently,
+• more efficiently connect the national curriculum with other education system components,
+• more efficiently connect the inner components of the national curriculum into a more coherent system,
+• develop a national curriculum whose goals, implementation and effects are clear and transparent to its participants and users.
 
 The Strategy aims  at  developing  a  national  curriculum  which  will  stimulate  vertical  and horizontal  mobility  in  the  education  system  and  will  enable  students  to,  once  they  finish general  compulsory  education,  acquire  basic  (general)  and  professional  competencies so as to continue their education or get their first job, should they choose to discontinue education.
 
@@ -354,11 +347,10 @@ The goal of the national curriculum for preschool education is to create and syn
 
 The achievement of the goal of the national curriculum for preschool education is divided, considering a child's age, into two program levels:
 
-- program level of preschool education for children up to 6 years of age, ·
+• program level of preschool education for children up to 6 years of age,
+• program level of preschool education in the year before starting primary school, including children aged between 5 and 6.
 
- program level of preschool education in the year before starting primary school, including children aged between 5 and 6. ·
-
-During  early  childhood,  the  focus  of  educational  activities  is  set  on  stimulating  a  comprehensive, optimal  and  healthy  growth  and  development  of  all  aspects  of  personality  ‡  physical, emotional, social and intellectual ‡ in line with children's developmental possibilities.
+During early childhood, the focus of educational activities is set on stimulating a comprehensive, optimal and healthy growth and development of all aspects of personality – physical, emotional, social and intellectual – in line with children's developmental possibilities.
 
 15
 
@@ -370,27 +362,17 @@ STRATEGY FOR THE CONSTRUCTION AND DEVELOPMENT OF THE NATIONAL CURRICULUM
 
 Particular goals of the national curriculum are aimed at:
 
-- healthy development of dimensions of personality, ·
-
- developing and nurturing a child's comprehension capacity, perception, memory, thinking, openness to new learning experiences, ·
-
- stimulating and enabling children to use various means of communication and expression (speech, vocabulary enrichment, visual arts expression, musical expression), ·
-
- stimulating  spontaneous expression of a child's creative capability, especially through play as a basic activity, ·
-
-- creating a sense of security and self-confidence, ·
-
-- enabling children for space and time orientation, ·
-
-- developing curiosity and an active, exploratory rapport to one's surroundings, ·
-
-- developing motoric and working skills, ·
-
-- developing ecological consciousness, ·
-
-- developing child independence, ·
-
-- stimulating pro-social behaviour. ·
+• healthy development of dimensions of personality,
+• developing and nurturing a child's comprehension capacity, perception, memory, thinking, openness to new learning experiences,
+• stimulating and enabling children to use various means of communication and expression (speech, vocabulary enrichment, visual arts expression, musical expression),
+• stimulating spontaneous expression of a child's creative capability, especially through play as a basic activity,
+• creating a sense of security and self-confidence,
+• enabling children for space and time orientation,
+• developing curiosity and an active, exploratory rapport to one's surroundings,
+• developing motoric and working skills,
+• developing ecological consciousness,
+• developing child independence,
+• stimulating pro-social behaviour.
 
 During  preschool  education  of  children  who  are  aged  between  5  and  6,  and  have  not been included in standard preschool education programs, the focus is put on stimulating optimal development in all areas of psycho-physical development and the acquisition of new knowledge, skills and habits which would facilitate a child's transfer to an organized school system.
 
@@ -398,7 +380,7 @@ The aim of preschool program is to teach children the knowledge, skills and atti
 
 ## General and Particular Goals of the National Curriculum, Education Achievements and Principles of General Compulsory Education
 
-The goal of the national curriculum is portrayed in effecting the principles of developmental curriculum construction. It expresses the orientation towards student's personal development, towards preparing one for quality  life,  for  active  and  responsible  participation  in  cultural, economic, scientific and general social progress of one's country in an era of knowledgebased society development and globalization.
+The goal of the national curriculum is portrayed in effecting the principles of developmental curriculum construction. It expresses the orientation towards student's personal development, towards preparing one for quality life, for active and responsible participation in cultural, economic, scientific and general social progress of one's country in an era of knowledge-based society development and globalization.
 
 The general goal expresses the education needs of an individual and of the society. To prevent  it  from  being  simply  declarative,  it  is  specified  through  particular  goals  relating to  the  needs  of  the  individual,  economic,  cultural  and  general  social  needs.  Therefore, the  abovementioned  goals  are  being  operatively  expressed  through  student's  expected educational achievements (competencies), which makes it possible to evaluate their level of development.
 
@@ -412,59 +394,35 @@ STRATEGY FOR THE CONSTRUCTION AND DEVELOPMENT OF THE NATIONAL CURRICULUM
 
 Particular goals of the national curriculum are aimed at developing student competencies which prepare him or her for:
 
-- life and work in constantly changing conditions, ·
-
- active and responsible participation in social life and taking responsibility for its democratic development, ·
-
-- responsible rapport to nature and environment, ·
-
-- responsible rapport to one's own health and care for the health of others, ·
-
-- lifelong learning and education, ·
-
-- responsible rapport to oneself and to developing one's own capabilities, ·
-
- preservation  of  one's  historical  and  cultural  tradition,  and  development  of  national culture, ·
-
-- development of moral and spiritual personality dimensions, ·
-
-- social integration and life in heterogeneous societies. ·
+• life and work in constantly changing conditions,
+• active and responsible participation in social life and taking responsibility for its democratic development,
+• responsible rapport to nature and environment,
+• responsible rapport to one's own health and care for the health of others,
+• lifelong learning and education,
+• responsible rapport to oneself and to developing one's own capabilities,
+• preservation of one's historical and cultural tradition, and development of national culture,
+• development of moral and spiritual personality dimensions,
+• social integration and life in heterogeneous societies.
 
 The  expected  student  education  achievements (outcomes)  after  finishing  general compulsory education are the following:
 
-- developed communication competencies (in mother tongue and if foreign languages), ·
-
- developed mathematical competency (conceptual knowledge and using mathematics in problem solving, including problems in various life situations), ·
-
- developed IT literacy (be familiar with and use IT and communications technology), ·
-
- awareness  and  understanding  of  natural  phenomena  and  a  developed  reasoning  in nature sciences, ·
-
-- developed critical thinking and problem solving capabilities, ·
-
-- developed creative capabilities, ·
-
-- self-organized studying competence, ·
-
-- developed social competencies, ·
-
- knowledge of human and children's rights and competence to respect and carry them through, ·
-
- developed basic knowledge and positive attitude towards artistic creation and expression, ·
-
- developed basic knowledge and positive attitude towards one's own culture and other cultures, ·
-
-- developed consciousness of one's own health and the health of others, ·
-
-- developed consciousness of the need for nature and environment preservation, ·
-
-- developed practical and working skills for everyday life, ·
-
-- developed entrepreneurial competence, ·
-
- developed competence for decision making regarding personal professional development, ·
-
-- developed self-confidence, self-respect and own capabilities awareness. ·
+• developed communication competencies (in mother tongue and if foreign languages),
+• developed mathematical competency (conceptual knowledge and using mathematics in problem solving, including problems in various life situations),
+• developed IT literacy (be familiar with and use IT and communications technology),
+• awareness and understanding of natural phenomena and a developed reasoning in nature sciences,
+• developed critical thinking and problem solving capabilities,
+• developed creative capabilities,
+• self-organized studying competence,
+• developed social competencies,
+• knowledge of human and children's rights and competence to respect and carry them through,
+• developed basic knowledge and positive attitude towards artistic creation and expression,
+• developed basic knowledge and positive attitude towards one's own culture and other cultures,
+• developed consciousness of one's own health and the health of others,
+• developed consciousness of the need for nature and environment preservation,
+• developed practical and working skills for everyday life,
+• developed entrepreneurial competence,
+• developed competence for decision making regarding personal professional development,
+• developed self-confidence, self-respect and own capabilities awareness.
 
 17
 
@@ -480,33 +438,20 @@ A logical link between principal orientation and concrete results of the nationa
 
 The foundation principles of national curriculum development and implementation are the following :
 
- ensuring quality education for all (ensuring proper material, personnel and other conditions for quality education throughout Croatia, diminishing regional educational differences), ·
-
-- equal education opportunity for all, ·
-
-- compulsory general education, ·
-
-- inclusion of all students, ·
-
-- respecting human and children's rights, ·
-
- multiculturalism,  tolerance,  respect  for  differences,  preservation  and  development  of one's own historical and cultural heritage and national identity, ·
-
-- competence and professional ethics, ·
-
-- scientific foundation of the curriculum, ·
-
- democracy ( involvement and responsibility of a wide range of education participants and users), ·
-
-- school autonomy, ·
-
-- pedagogical and school pluralism, ·
-
-- European dimension of education, ·
-
-- lifelong learning, ·
-
-- education and training aimed at students' individual development. ·
+• ensuring quality education for all (ensuring proper material, personnel and other conditions for quality education throughout Croatia, diminishing regional educational differences),
+• equal education opportunity for all,
+• compulsory general education,
+• inclusion of all students,
+• respecting human and children's rights,
+• multiculturalism, tolerance, respect for differences, preservation and development of one's own historical and cultural heritage and national identity,
+• competence and professional ethics,
+• scientific foundation of the curriculum,
+• democracy (involvement and responsibility of a wide range of education participants and users),
+• school autonomy,
+• pedagogical and school pluralism,
+• European dimension of education,
+• lifelong learning,
+• education and training aimed at students' individual development.
 
 Parents and/or legal guardians participate in the construction, implementation and evaluation of national curriculum. Their role is to share the responsibility for the education of their children with education institutions and other partners in the education process.
 
@@ -524,17 +469,12 @@ The weak spot of Croatian national curriculum, along with its insufficient inner
 
 Following the mentioned goals and expected educational achievements, national curriculum for  general  compulsory  education  in  the  Republic  of  Croatia  includes  the  following educational (curricular) areas :
 
-- language and communication, ·
-
-- social and humanist area, ·
-
-- mathematics and nature sciences, ·
-
-- technical and technological area, ·
-
-- arts, ·
-
-- practical work and design. ·
+• language and communication,
+• social and humanist area,
+• mathematics and nature sciences,
+• technical and technological area,
+• arts,
+• practical work and design.
 
 National  framework  curriculum  specifies  contents  and  structures  of  separate  education areas,  defines  their  education  goals  and  expected  achievements  on  particular  levels  of student development.
 
@@ -552,9 +492,8 @@ STRATEGY FOR THE CONSTRUCTION AND DEVELOPMENT OF THE NATIONAL CURRICULUM
 
 National curriculum should differ between its:
 
-- common part, compulsory for all schools (curriculum core), and ·
-
-- specific part, school curriculum created for a specific school. ·
+• common part, compulsory for all schools (curriculum core), and
+• specific part, school curriculum created for a specific school.
 
 The common part, compulsory for all schools ( curriculum core) ensures equal education conditions for all students, at a national level. It defines general curriculum goals, curriculum fields, goals in separate education cycles, mandatory subjects, integrative and inter-subject thematic units, projected timetable for mandatory subjects, etc.
 
@@ -586,23 +525,18 @@ Curriculum  construction  and  development  in  Croatia  with  the  extension  o
 
 Curriculum cycles represent the school degrees covering several years of education, having common educational goals and not necessarily overlapping with formal education levels (preschool, primary and secondary school). These cycles are important in the construction of the national curriculum in Croatia because they provide:
 
-- better specification of general goals of education and goals on different school levels, ·
-
-- specification of class organization and realization, ·
-
-- better conceptual connection between different formal levels of education. ·
+• better specification of general goals of education and goals on different school levels,
+• specification of class organization and realization,
+• better conceptual connection between different formal levels of education.
 
 From the national curriculum point of view, forming the mentioned cycles is important for:
 
-- introducing curriculum fields, ·
+• introducing curriculum fields,
+• determining the time (grade) when a subject or educational content will be introduced,
+• allocating time, i.e. determining the importance of certain curriculum fields and subjects,
+• defining efficient class strategies.
 
-- determining the time (grade) when a subject or educational content will be introduced, ·
-
-- allocating time, i.e. determining the importance of certain curriculum fields and subjects, ·
-
-- defining efficient class strategies. ·
-
-The organizational framework which would enable the realization of a new national framework is  marked  by  the  maintenance  of  external  differentiation  after  finishing  8 th grade  and  the extension of compulsory general education to secondary school education, in the appropriate ratio (considering vocational education) and in line with the National Programme of Measures for the Implementation of Compulsory Secondary Education .
+The organizational framework which would enable the realization of a new national framework is marked by the maintenance of external differentiation after finishing 8th grade and the extension of compulsory general education to secondary school education, in the appropriate ratio (considering vocational education) and in line with the National Programme of Measures for the Implementation of Compulsory Secondary Education.
 
 The possible ratio  between  general  education  and  professional  contents  in  the  first  year of secondary school education would be 60 : 40, and in the second 40 : 60. The final ratio of general and professional and vocational education shares will be regulated by law and by  a  series  of  documents  and  handbooks  (National  Curriculum  for  General  Compulsory Education,  National  Curriculum  for  Secondary  School  Education,  National  Qualifications Framework,  Vocational  Qualifications,  etc.).  It  is  important  to  note  that  the  modules  of vocational education would be set by schools in cooperation with other partners. In general education secondary schools (grammar schools) the part of the curriculum set by schools would consist of different modules of general education or related contents, to be decided by the schools.
 
@@ -628,27 +562,17 @@ The goal of secondary school education is a responsible, independent individual 
 
 Expected  educational  achievements (outcomes)  after finishing  secondary  school education are the following:
 
- developed  language  and  communication,  mathematical,  nature  sciences  and  socialhumanist competencies, ·
-
-- acquired information-communication, technical and technological competencies, ·
-
- acquired professional competences, considering professional qualification, and understanding the meaning of work for an individual and for the community, ·
-
-- developed entrepreneurial competencies, ·
-
-- personal and social responsibility and independence/autonomy, ·
-
-- developed consciousness towards personal health and the health of others, ·
-
-- developed social and intercultural competencies, ·
-
- developed sense of national cultural heritage preservation and national culture cultivation, ·
-
-- developed ecological consciousness, ·
-
-- familiarity with, respect for and appliance of human rights, ·
-
-- capacity to recognize and solve problems within and outside one's community, ·
+• developed language and communication, mathematical, nature sciences and social-humanist competencies,
+• acquired information-communication, technical and technological competencies,
+• acquired professional competences, considering professional qualification, and understanding the meaning of work for an individual and for the community,
+• developed entrepreneurial competencies,
+• personal and social responsibility and independence/autonomy,
+• developed consciousness towards personal health and the health of others,
+• developed social and intercultural competencies,
+• developed sense of national cultural heritage preservation and national culture cultivation,
+• developed ecological consciousness,
+• familiarity with, respect for and appliance of human rights,
+• capacity to recognize and solve problems within and outside one's community,
 
 22
 
@@ -658,25 +582,18 @@ Expected  educational  achievements (outcomes)  after finishing  secondary  scho
 
 STRATEGY FOR THE CONSTRUCTION AND DEVELOPMENT OF THE NATIONAL CURRICULUM
 
-- capacity for self-organized study, ·
-
-- capacity to face changes, find solutions and opportunity for oneself and for others, ·
-
-- capacity to accept and practice lifelong learning. ·
+• capacity for self-organized study,
+• capacity to face changes, find solutions and opportunity for oneself and for others,
+• capacity to accept and practice lifelong learning.
 
 Principles of secondary school education are connected with the principles of general compulsory education and are focused on the following:
 
- obligation  to  finish secondary school  curriculum  (at  least  until  first  occupation  is acquired), ·
-
- partnership (coordinating opinions and needs of all indirect and direct education actors, especially the relationship between education, economy and labour market), ·
-
-- vertical and horizontal mobility, ·
-
-- program differentiation and individualization, ·
-
-- school autonomy, ·
-
-- lifelong learning. ·
+• obligation to finish secondary school curriculum (at least until first occupation is acquired),
+• partnership (coordinating opinions and needs of all indirect and direct education actors, especially the relationship between education, economy and labour market),
+• vertical and horizontal mobility,
+• program differentiation and individualization,
+• school autonomy,
+• lifelong learning.
 
 ## Organizational Structure of Secondary School System and Curriculum Cycles
 
@@ -708,13 +625,13 @@ The program range of certain educational areas and subjects or modules will depe
 
 The general compulsory part of the national curriculum should form the core structure in such areas as mother tongue and literature, mathematics, foreign languages, IT, biology, chemistry, physics, history, geography, physical education and arts.
 
-In grammar schools and 4-year secondary schools, i.e. in secondary school senior grades, the contents will be structured on 'subject principle' (e.g. mathematics, chemistry, physics, history, Croatian language, etc.).
+In grammar schools and 4-year secondary schools, i.e. in secondary school senior grades, the contents will be structured on “subject principle” (e.g. mathematics, chemistry, physics, history, Croatian language, etc.).
 
 The contents of classes in vocational schools will be structured as subjects (mathematics, history,  physics,  etc.)  or  as  modules,  i.e.  learning  areas  depending  on  the  nature  of  a subject and/or on school profile (e.g. the integration of chemistry and physics or biology and chemistry, etc.), which will be derived from the goals shown by expected competencies.
 
 Considering the individual approach to students and children with special needs, it is important to make differentiated programs , adapting them to student affinities and capabilities.
 
-The national curriculum presupposes the existence of inter-subject (integrative) contents that a school will develop according to its needs and capacities, while bearing in mind student needs. Considering students' age and the stage of development they are in, such intersubject  contents  are  recommended  that  will  deepen  the  knowledge  and  consciousness on  health,  rights  and  responsibilities  of  children  and  adults,  responsible  involvement  in the democratic society, systematic socio-cultural, economic, technological and ecological development, strengthening of personal responsibility for well-being of oneself and of others, personal security and that of others, entrepreneurship, values of learning for an individual and for the society, tolerance and gender equality.
+The national curriculum presupposes the existence of inter-subject (integrative) contents that a school will develop according to its needs and capacities, while bearing in mind student needs. Considering students’ age and the stage of development they are in, such inter-subject contents are recommended that will deepen the knowledge and consciousness on health, rights and responsibilities of children and adults, responsible involvement in the democratic society, systematic socio-cultural, economic, technological and ecological development, strengthening of personal responsibility for well-being of oneself and of others, personal security and that of others, entrepreneurship, values of learning for an individual and for the society, tolerance and gender equality.
 
 The demands regarding the level of achievement of certain competencies will depend on the capacity and developmental and educational status of a student, and on the level of secondary school education. On higher levels, more attention should be given to developing competency for research and critical  thinking,  self-organized  study,  social  competencies directed at professional ethics and working culture demands, developing and strengthening self-awareness,  sensitivity  to  others,  understanding  of  others  and  developing  pro-social behaviour, the consciousness and desire to participate in lifelong learning.
 
@@ -726,7 +643,7 @@ The demands regarding the level of achievement of certain competencies will depe
 
 STRATEGY FOR THE CONSTRUCTION AND DEVELOPMENT OF THE NATIONAL CURRICULUM
 
-The national curriculum presupposes the existence of optional contents that a school will determine independently, while bearing in mind student needs. In general and vocational education  secondary  schools,  optional  contents  can  be  reinforced  in  order  to  better prepare students for the State 'Matura' exam. In 3-year vocational education schools it is also necessary to enable students to attend classes with reinforced contents, especially the students feel they have greater capacity (and are recognized as such by their teachers) and potential to continue education and take the State Matura exam. It is recommended that the schools link themselves and realize the reinforced programs for students with greater capacities  (rationalization  principle),  while  looking  after  horizontal  and  vertical  mobility  at secondary school level and towards higher (university) education.
+The national curriculum presupposes the existence of optional contents that a school will determine independently, while bearing in mind student needs. In general and vocational education secondary schools, optional contents can be reinforced in order to better prepare students for the State ‘Matura’ exam. In 3-year vocational education schools it is also necessary to enable students to attend classes with reinforced contents, especially the students feel they have greater capacity (and are recognized as such by their teachers) and potential to continue education and take the State Matura exam. It is recommended that the schools link themselves and realize the reinforced programs for students with greater capacities (rationalization principle), while looking after horizontal and vertical mobility at secondary school level and towards higher (university) education.
 
 The national curriculum presupposes the construction of an extracurricular program and activities , which is actually an integrative part of the school curriculum.
 
@@ -734,7 +651,7 @@ The national curriculum presupposes the construction of an extracurricular progr
 
 Constructing national curriculum, as the very substance of education system, presupposes the constant evaluation of education system and all its parts as well as the re-examination of evaluation and assessment criteria.
 
-We are still lacking the clear and precisely formulated indicators and criteria of education system quality.  Their existence would make possible the comparability of schools regarding the degree of realization of the established criteria and the resources, i.e. conditions of the realization of criteria for 'quality school'.
+We are still lacking the clear and precisely formulated indicators and criteria of education system quality. Their existence would make possible the comparability of schools regarding the degree of realization of the established criteria and the resources, i.e. conditions of the realization of criteria for “quality school”.
 
 A very important integrative  part  of  the  national  curriculum  should  be  the  document  that establishes the framework and criteria of external evaluation of all levels of education system covered by National Curriculum Framework .  A  step  in  this  direction  is  the  carrying  out  of national exams in primary and secondary schools, with a tendency to evaluate efficiency of all educational activity bearers (teachers, principals, expert associates, mentors, counsellors and inspectors).
 
@@ -742,7 +659,7 @@ Evaluation  should  also  include self-evaluation , which  demonstrates  the  ne
 
 State Matura exam , as a standardized final exam, is a form of external evaluation that aims at  ensuring  vertical  mobility  from  secondary  school  to  university  level.  A  clear  strategy  is needed for carrying out the State Matura exam, as is the creation of an ordinance on carrying out the State Matura exam.
 
-Except for the State Matura exam, the forms of external student achievement evaluation should also be constructed for levels prior to secondary school, especially at levels where they are useful  for  achievement  and  capability  based  student  differentiation,  or  at  an  internationally comparable level (e.g. primary education level, comparison with PISA results, etc.). Bearing in mind the extension of compulsory education, it is recommended to carry out external evaluation of student achievements after the mandatory part of the national curriculum is finished.
+Except for the State Matura exam, the forms of external student achievement evaluation should also be constructed for levels prior to secondary school, especially at levels where they are useful for achievement and capability based student differentiation, or at an internationally comparable level (e.g. primary education level, comparison with PISA results, etc.). Bearing in
 
 25
 
@@ -752,13 +669,15 @@ Except for the State Matura exam, the forms of external student achievement eval
 
 STRATEGY FOR THE CONSTRUCTION AND DEVELOPMENT OF THE NATIONAL CURRICULUM
 
+mind the extension of compulsory education, it is recommended to carry out external evaluation of student achievements after the mandatory part of the national curriculum is finished.
+
 Results of evaluation of work in schools should serve to all the participants of education process/activities as feedback on the efficiency degree of teaching/learning, on the planning and realization of the improvement of preschool and school education. Educational policy should use it to intervene and devise ways to improve quality of formal education system.
 
 The purpose of carrying  out  national  exams  (2006,  2007)  is  to  prepare  students  to  take the State Matura exam and to render students and teachers more sensitive to evaluation. National exam results also provide other information on efficiency of work in schools. It is necessary to observe exam results, determine the causes for low student achievements and low quality of educational work, and train and introduce supervision service to improve and upgrade the quality of work in schools.
 
 The problem with primary and secondary schools is quite often their internal evaluation . Objective assessment and its criteria are  addressed in a rulebook directed at student achievement levels, but the standards are hardly clear enough. The origins of the problem lie  in  the  traditional  orientation  of  educational  activity  to  program  contents.  Curriculum approaches have developed assessment modules and techniques in view of the various levels  of  acquiring  competencies  perceived  as  a  total  of  knowledge,  skills,  abilities, standpoints and motivation degree.
 
-Each educational level should have well defined assessment procedures ‡ for formative, summative, teamwork, project work, given activity realization, etc. Both parents and students should be acquainted with assessment levels and student achievement expectations.
+Each educational level should have well defined assessment procedures – for formative, summative, teamwork, project work, given activity realization, etc. Both parents and students should be acquainted with assessment levels and student achievement expectations.
 
 Each  acquisition  of  a  certain  competence  in  secondary  school  vocational  education presupposes the grading of achievements from given educational fields/subjects/modules, and of credits obtained, as well as acquiring certificates.
 
@@ -790,7 +709,7 @@ The national curriculum for general compulsory education and the curriculum for 
 
 The development of a national curriculum was preceded by a series of activities demonstrating efforts to improve and achieve education quality, and by the establishment of institutions that constitute the entirety of Croatian educational infrastructure today.
 
-Bearing in mind the invitation by the Croatian Academy of Sciences and Arts ( Declaration on Knowledge ,  2004), and the recommendations by the National Competitiveness Council ( 55 Policy Recommendations for Raising Croatia's Competitiveness ‡ Education for Growth and Development , 2004), the Ministry created in 2005 its Education Sector Development Plan 2005 ‡ 2010 , and participated in the construction of Strategic Development Framework, 2006 ‡ 2013.
+Bearing in mind the invitation by the Croatian Academy of Sciences and Arts (Declaration on Knowledge, 2004), and the recommendations by the National Competitiveness Council (55 Policy Recommendations for Raising Croatia’s Competitiveness – Education for Growth and Development, 2004), the Ministry created in 2005 its Education Sector Development Plan 2005 – 2010, and participated in the construction of Strategic Development Framework, 2006 – 2013.
 
 The  Ministry  is  undertaking  a  reform  project  on  schools/teachers  entitled the Croatian National Education Standard, and is publishing the concept of the reform in the Guide through the  Croatian  National  Education  Standard  for  Primary  School (2005) . It  is  developing  and evaluating the Experimental Curriculum for Primary School 2005/2006 (2005) and introducing the Curriculum  for  Primary  School (2006) . The  Ministry  is  also  implementing  the National Programme of Measures for the Implementation of Compulsory Secondary Education (2007).
 
@@ -800,15 +719,15 @@ Since 2006, as part of preparations for the introduction of the State Matura exa
 
 Education infrastructure consists of the following:
 
-- Education and Teacher Training Agency (ETTA, 2006), ·
+• Education and Teacher Training Agency (ETTA, 2006),
 
-- Agency for Science and Higher Education  (ASHE, 2004), ·
+• Agency for Science and Higher Education (ASHE, 2004),
 
-- Agency for Vocational Education and Training (AVET, 2005), ·
+• Agency for Vocational Education and Training (AVET, 2005),
 
-- National Centre for External Evaluation of Education (NSEEE, 2005), ·
+• National Centre for External Evaluation of Education (NSEEE, 2005),
 
-- Agency for Adult Education (AAE, 2006). ·
+• Agency for Adult Education (AAE, 2006).
 
 27
 
@@ -824,25 +743,25 @@ By  establishing  these  education  institutions  in  the  Republic  of  Croatia
 
 Apart from the aforementioned requirements and proposals for the construction, implementation and development of the national curriculum, a higher priority is given to:
 
- defining  competencies  for  teachers  and  equalization  of  their  initial  education  and training, ·
+• defining competencies for teachers and equalization of their initial education and training,
 
- defining of competencies  for  principals, expert associates, mentors,  counsellors, supervisors and inspectors, ·
+• defining of competencies for principals, expert associates, mentors, counsellors, supervisors and inspectors,
 
- training  teachers,  principals,  expert  associates,  mentors,  counsellors,  supervisors  and inspectors, based on the research of their actual education needs, ·
+• training teachers, principals, expert associates, mentors, counsellors, supervisors and inspectors, based on the research of their actual education needs,
 
-- enabling education bearers to implement the curriculum, ·
+• enabling education bearers to implement the curriculum,
 
- clearly defining the roles, authority and responsibilities of all education bearers, and the distinction between supervision and inspection, ·
+• clearly defining the roles, authority and responsibilities of all education bearers, and the distinction between supervision and inspection,
 
- ensuring  constant  expert  support  and  help  (in  addition  to  the  existing  infrastructure) for  curriculum  implementation  (office,  department,  unit)  to  teachers,  principals,  expert associates, parents, local and regional government and to other partners in education, ·
+• ensuring constant expert support and help (in addition to the existing infrastructure) for curriculum implementation (office, department, unit) to teachers, principals, expert associates, parents, local and regional government and to other partners in education,
 
-- publishing information materials and expert manuals, ·
+• publishing information materials and expert manuals,
 
-- allowing for school autonomy and decision decentralization, ·
+• allowing for school autonomy and decision decentralization,
 
-- providing material and personnel requirements for educational institutions, ·
+• providing material and personnel requirements for educational institutions,
 
-- providing legal regulation and adequate implementation acts. ·
+• providing legal regulation and adequate implementation acts.
 
 28
 
@@ -860,7 +779,7 @@ The experience in other countries shows that the most frequent problems and diff
 
 The resistance to change originates from the extremely high expectations, from the impatience to wait for the results of changes to become more apparent, but also from the individual's or groups' standpoint that changes will not lead to improvements. It is therefore necessary to timely inform change bearers of the activities planned, of the obstacles predicted and of the support needed during changes. It is necessary to train change bearers to efficiently carry through the changes, to raise awareness on the contribution of each teacher in the implementation of quality improvements in the area of education.
 
-Resistance  towards  performance  evaluation  is  expected  because  of  the  prior  lack  of evaluation and self-evaluation practice, and partially because of teachers', principals' and expert associates' lack of proficiency for this activity. It is necessary to systematically train education bearers in preschool institutions and in schools to practice evaluation and selfevaluation.
+Resistance towards performance evaluation is expected because of the prior lack of evaluation and self-evaluation practice, and partially because of teachers’, principals’ and expert associates’ lack of proficiency for this activity. It is necessary to systematically train education bearers in preschool institutions and in schools to practice evaluation and self-evaluation.
 
 Resistance  to  change  will  also  appear  considering  the  insufficient  information  exposure and the incomprehension of the goals of curriculum changes. It is therefore necessary to actualize the involvement of all direct and indirect education bearers by visiting schools and local communities, by public debates, lectures and discussions.
 
@@ -874,8 +793,6 @@ Disagreements between subject teachers, as well as between faculty representativ
 
 [[START OF PAGE 32]]
 
-STRATEGY FOR THE CONSTRUCTION AND DEVELOPMENT OF THE NATIONAL CURRICULUM
 
-30
 
 [[END OF PAGE 32]]
