@@ -34,27 +34,44 @@ STATE PROGRESS COUNCIL
 
 ## CONTENTS
 
+INTRODUCTION.....................................................................Error! Bookmark not defined.
+Why is this Strategy important? ........................................................................................... 4
+STRATEGY DEVELOPMENT AND IMPLEMENTATION........................................... 5
+What is its background?........................................................................................................ 5
+How are we going to implement the Strategy? .................................................................. 5
+NEED AND PURPOSE OF THE STRATEGY......................Error! Bookmark not defined.
+Why do we need this Strategy? ........................................................................................... 6
+What is our focus?.................................................................................................................. 7
+VISION.................................................................................................................................... 7
+SMART SOCIETY ................................................................................................................ 9
+SMART ECONOMY ........................................................................................................... 14
+SMART GOVERNANCE.................................................................................................... 17
+ANNEX 1. CURRENT OVERVIEW ................................................................................. 20
+ANNEX 2. PROGRESS INDICATORS............................................................................. 28
+ANNEX 3. STRATEGY DEVELOPMENT PROCESS ................................................... 32
+ANNEX 4. MECHANISM FOR STRATEGY IMPLEMENTATION............................ 33
+
 3
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
+## INTRODUCTION
+
 ### Why is this Strategy important?
 
 The world has been constantly changing, which calls for faster response to changes, better  use  of  opportunities,  easier  adjustment  and  adaptation.  Therefore,  our  social life, economy, and governance must resort on principles that adequately equip us to face new challenges.
 
-Lithuania's Progress Strategy 'Lithuania 2030' (hereinafter referred to as the Strategy)  reflects  a  national  vision  and  priorities  for  development  as  well  as guidelines for their implementation by 2030 . This is a roadmap to be followed in decision making and in drawing -up national plans or programmes.
+Lithuania's Progress Strategy 'Lithuania 2030' (hereinafter referred to as the Strategy) reflects a national vision and priorities for development as well as guidelines for their implementation by 2030. This is a roadmap to be followed in decision making and in drawing –up national plans or programmes.
 
 Country's wellbeing and development is based on national security, which needs to be  ensured  to  achieve  sustainable  national  progress.  National  progress  processes, which affect the public awareness and maturity as well as national prosperity, will contribute to consolidating national security.
 
 The  Strategy  identifies  national  development  policies,  which  are  understood  and accepted by the Lithuanian people, communities, NGOs, business organizations, and government institutions. The Strategy does not set any specific goals or objectives for  individual  sectors  of  the  economy,  stressing  instead  the  need  for  fundamental change. Each Lithuanian is welcomed to play a part here.
 
-The Strategy was built on the principles of sustainable development, as well tangible and intangible national resources of state and social development: natural resources, rich history and cultural heritage, professional and qualification opportunities, highengagement work culture,  a  stable  legal  system,  good  information  technology  and digital  infrastructure.  At  the  same  time,  the  Strategy  points  out  the  outstanding problems: identity crisis, the power of stereotypes, emigration, closed society, lack of tolerance and trust, lack of concern for one another and the environment, as well as fragile faith in country's success. Our main initiatives aim to address these problems.
+The Strategy was built on the principles of sustainable development, as well tangible and intangible national resources of state and social development: natural resources, rich history and cultural heritage, professional and qualification opportunities, high-engagement work culture, a stable legal system, good information technology and digital infrastructure. At the same time, the Strategy points out the outstanding problems: identity crisis, the power of stereotypes, emigration, closed society, lack of tolerance and trust, lack of concern for one another and the environment, as well as fragile faith in country's success. Our main initiatives aim to address these problems.
 
 The  Strategy  will  require  public  approval,  commitment  to  change,  mutual  trust, respect and pro-activeness. If the public is but a passive observer, the initiatives will be doomed to failure, and we will be unable to address the issues of social exclusion, public  reticence,  community  solidarity,  gender  equality,  and  other  key  areas.  We have to overcome inertia and contrasts, and set clear goals to be consistently pursued. The citizens should know that their rights will be properly protected, social tensions reduced, and safe environment ensured enabling everyone to pursue their favourite activities, get a reasonable remuneration, and ensure personal and family well-being, while at the same time contributing to the national success.
-
-## INTRODUCTION
 
 4
 
@@ -106,13 +123,15 @@ in each other, in our country and in the success of our future. Often, we hope t
 
 What we need today is a clear road map to long-term success in future. Lithuania needs  creative  personalities,  who  are  not  afraid  to  make  mistakes  and  assume
 
-Trust and creative empowerment of people is our greatest strength responsibility for them. Most importantly, we must have a belief that we can make Lithuania a success story. Such belief is a major driving force in overall progress.
+Trust and creative empowerment of people is our greatest strength
 
 6
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+
+responsibility for them. Most importantly, we must have a belief that we can make Lithuania a success story. Such belief is a major driving force in overall progress.
 
 ### What is our focus?
 
@@ -146,15 +165,22 @@ The implementation of the vision will be guided by progress-relevant values, lik
 
 - Responsibility for  actions  taken,  morality,  active  concern  not  only  about themselves, but also the environment, community and the country at large.
 
-The Strategy is aimed at creating an environment that would enable progress-related values. There are three key areas of progress: society, economy and governance . Developments  in  these  areas  will  consolidate  progress  values  and  build  on  the principles  of  sustainable  development.  The  progress-related  values  will  become conscious human target in each area of progress; and as regards public policy - it will  become  the  most  important  measurement  indicator  in  strategic  decisionmaking.
+The Strategy is aimed at creating an environment that would enable progress-related values. There are three key areas of progress: society, economy and governance. Developments in these areas will consolidate progress values and build on the principles of sustainable development. The progress-related values will become conscious human target in each area of progress; and as regards public policy – it will become the most important measurement indicator in strategic decision-making.
 
 Changes will take place in the following areas:
 
-Smart society: happy society that is open [ openness ]  to  the  ideas  of  each  citizen [ creativity ], to innovations and challenges, demonstrating solidarity, selfgovernance and political maturity [ responsibility ].
+Smart society: happy society that is open [openness] to the ideas of each citizen [creativity], to innovations and challenges, demonstrating solidarity, self-governance and political maturity [responsibility].
 
 Smart economy: economy that is flexible and able to compete globally [ openness ], generating  high  added  value,  based  on  knowledge,  innovations  entrepreneurship [ creativity ] and social responsibility as well as 'green' growth [ responsibility ].
 
-Smart governance: governance that is open and participatory [ openness ], delivering, meeting public demands and ensuring high quality services [ responsibility ],  as  well  as  competent  government,  able  to  take  targeted  strategic decisions [ creativity ].
+Smart governance: governance that is open and participatory [openness], delivering, meeting public demands and ensuring high quality services [responsibility], as well as competent government, able to take targeted strategic decisions [creativity].
+
+Smart society
+Smart economy
+Smart governance
+Open creative responsible people
+Clean and safe environment
+Sustainable development
 
 8
 
@@ -182,9 +208,9 @@ The Strategy provides for national development guidelines (critical factors fort
 
 ## SMART SOCIETY
 
-The Smart Society is a happy society, which seeks greater personal and economic Three million creators!
+The Smart Society is a happy society, which seeks greater personal and economic security and dynamism, as well as fairer income distribution, cleaner environment, better social and political inclusion, better access to education and training, skills improvement and good public health.
 
-security  and  dynamism,  as  well  as  fairer income distribution, cleaner environment, better  social  and  political  inclusion,  better access to education and training, skills improvement and good public health.
+Three million creators!
 
 National progress values find their way in the society together with growing public awareness and maturity. It takes a mature society to be confident in itself and in the future of its country. It is a society whose members are not afraid of changes; it is open to new ideas and global competition. The required changes must ensure the development, application and recognition of individual skills. Major public institutions and public areas of life should also undergo purposeful changes to focus on  the  development  of  creativity  and  leadership  skills  at  an  early  age.  Future Lithuanian citizens will feel safe and free in an ever changing world only when they are not afraid of changes, of making mistakes and learning from them.
 
@@ -196,7 +222,7 @@ National progress values find their way in the society together with growing pub
 
 The society must learn to be more organised, more benevolent, more cooperative, which  would  lead  towards  the  culture  of  mutual  understanding  and  trust.  As  a result, people would be ready to assume responsibility not only for themselves, but also for the others, for the society, with a strong feeling of national ownership. The realisation that the government cannot and will not solve all the problems should enable each of us to mobilize our powers and responsibilities in taking and carrying out many important decisions. We need an energetic society.
 
-It is important to re-consider our national identity, and understand what unites us in the modern world. We should be able to draw strength from our history, at the same time remaining a modern and open society. In times of globalization, we should not treat Lithuanians leaving the country as a lost part of the nation, and the incomers as strangers. We can and must mobilize the Lithuanian diaspora for a build-up of economic  and  social prosperity in Lithuania, for the promotion  of culture, traditions, for the preservation of quality environment. It is important to realize that we are one nation. On the other hand, the sense of community must be promoted not only with respect to the emigrants or immigrants, but also inside the nation at large, embracing  different social groups, different generations, and  different cultures.  Lithuania has been famous for its admirable nature and culture, creating favourable conditions for living as well as for work. We should seek to preserve and promote the natural and cultural heritage and wise use of the resources.
+It is important to re-consider our national identity, and understand what unites us in the modern world. We should be able to draw strength from our history, at the same time remaining a modern and open society. In times of globalization, we should not treat Lithuanians leaving the country as a lost part of the nation, and the incomers – as strangers. We can and must mobilize the Lithuanian diaspora for a build-up of economic and social prosperity in Lithuania, for the promotion of culture, traditions, for the preservation of quality environment. It is important to realize that we are one nation. On the other hand, the sense of community must be promoted not only with respect to the emigrants or immigrants, but also inside the nation at large, embracing different social groups, different generations, and different cultures. Lithuania has been famous for its admirable nature and culture, creating favourable conditions for living as well as for work. We should seek to preserve and promote the natural and cultural heritage and wise use of the resources.
 
 The society must recognize the rights of socially marginalized people, helping them to  maintain  dignity  and  play  a  full  part  in  the  society,  be  active  participants  as regards social inclusion policies and related actions; it also has to help combating the  stereotypes  and  stigma,  to  preserve  and  enhance  the  quality  of  life,  social wellbeing, especially as regards children, and equal opportunities for all.
 
@@ -214,9 +240,7 @@ The society has been enabled to build its own future and change the environment,
 
 [[START OF PAGE 11]]
 
-.
-
-lifestyle  is  consistently  fostered  from  young  age,  focusing  on  disease  prevention and health preservation.
+lifestyle is consistently fostered from young age, focusing on disease prevention and health preservation.
 
 #### Solidarious  society:  consolidated,  dignified,  responsible  for  a  common  fate, brought together by the idea of 'Global Lithuania'.
 
@@ -224,13 +248,15 @@ The Lithuanian nation is the society of living traditions. It draws its strength
 
 #### Learning society: modern and dynamic, ready for future challenges and able to perform in an ever changing world
 
-The Lithuanian society is open to global changes: Lithuanian people are educated, interested in science and innovations, easy and familiar with the latest technologies, good at foreign languages, and eager to pursue lifelong-learning. Lithuania enables learners  to  pursue  individual  development  and  empowers  creativity  as  well  as productive interaction between business and science. The higher education is able to compete in the world: Lithuania's scientists have been contributing internationally to the solution of the most pressing global problems. Access to nonformal education and lifelong learning is made available across Lithuania. Lithuania has  been  renowned  for  its  admirable  versatile  natural  and  cultural  environment creating favourable conditions for life and work.
+The Lithuanian society is open to global changes: Lithuanian people are educated, interested in science and innovations, easy and familiar with the latest technologies, good at foreign languages, and eager to pursue lifelong-learning. Lithuania enables learners  to  pursue  individual  development  and  empowers  creativity  as  well  as productive interaction between business and science. The higher education is able to compete in the world: Lithuania's scientists have been contributing internationally to the solution of the most pressing global problems. Access to non-formal education and lifelong learning is made available across Lithuania. Lithuania has  been  renowned  for  its  admirable  versatile  natural  and  cultural  environment creating favourable conditions for life and work.
+
+.
 
 ### SMART SOCIETY - key initiatives for change:
 
 #### Energetic society
 
-- To gear the general education system to creativity, citizenship and leadership skills. To develop programmes  focussed  on  creativity,  quest  and  personal  development,  as  well  as  competence assessment  and  self-assessment  framework,  putting  them  in  place  across  all  the  educational establishments.  To  reorganize  the  concentrated  examination  system  to  a  balanced  system  of accumulation and recognition of various learning achievements, the system that captures evergrowing personal experience and recognizes ever-higher achievements in education. To facilitate proper learning environment, establish science laboratories, create arts education tools, wellness areas, etc. in all schools.
+- To gear the general education system to creativity, citizenship and leadership skills. To develop programmes  focussed  on  creativity,  quest  and  personal  development,  as  well  as  competence assessment  and  self-assessment  framework,  putting  them  in  place  across  all  the  educational establishments.  To  reorganize  the  concentrated  examination  system  to  a  balanced  system  of accumulation and recognition of various learning achievements, the system that captures ever-growing personal experience and recognizes ever-higher achievements in education. To facilitate proper learning environment, establish science laboratories, create arts education tools, wellness areas, etc. in all schools.
 
 - To  develop  high  quality  cultural  services  across  the  country  in  order  to  ensure  diversity  of cultural services and their accessibility. To promote partnership between culture and other areas of life through creative cultural products and services.
 
@@ -302,7 +328,7 @@ At the same time, we have to take care of our environment,  which  is  the  basi
 
 added,  long-term  stability  and  progress  across  all  economic  sectors.  We  need  to develop  technologies  that  would  minimize  adverse  environmental  impact  and ensure  resources-friendly  sustainable  growth.  Competitive  and  environmentally sustainable energy sector will be of utmost importance for national economy: it is necessary to achieve energy independence and sustainable development of environment-friendly use of resources.
 
-As  a  part  of  the  successful  Nordic-Baltic  region,  we  must  take  advantage  of  the opportunities  offered  by  it  to  become  a  dynamic,  ambitious,  and  investmentappealing country. We need to encourage the set-up of international companies and scientific  research  and  service  centres  in  Lithuania.  This  will  not  only  guarantee high-paying jobs and halting brain drain and emigration, but also will play a very important role as catalysts for change, by bringing to Lithuania the leading world trends,  modern  technologies  as  well  as  challenging  the  public  education  and innovation policy and business conditions.
+As  a  part  of  the  successful  Nordic-Baltic  region,  we  must  take  advantage  of  the opportunities  offered  by  it  to  become  a  dynamic,  ambitious,  and  investment-appealing country. We need to encourage the set-up of international companies and scientific  research  and  service  centres  in  Lithuania.  This  will  not  only  guarantee high-paying jobs and halting brain drain and emigration, but also will play a very important role as catalysts for change, by bringing to Lithuania the leading world trends,  modern  technologies  as  well  as  challenging  the  public  education  and innovation policy and business conditions.
 
 Smart  economy  must  create  opportunities  to  unlock  to  the  maximum  the  most important resource of Lithuania: creative, innovative, responsible and enterprising people.
 
@@ -396,11 +422,9 @@ The approach of the public sector to the goals put forward by the people and way
 
 Progress  can  only  be  encouraged  by  a  credible  government.  Therefore,  public governance has to be performing and enabling. It is important that the culture of governance  should  change  towards  reasonable  decision-making  and  culture  of consensus. Not only basic needs of security  and human dignity must be met, but also quality public services must be delivered. The authorities must be able to act strategically and purposefully, primarily focusing on key priorities. It  should be a concern of us  all  to  make  sure  the  value-for-money  is  achieved,  therefore  public governance must be performing, and decisions should be cost-effective.
 
-Confidence in the governance processes and just decisions calls for our active participation in decision making and
+Confidence in the governance processes and just decisions calls for our active participation in decision making and implementation, therefore, public governance must be transparent and open. Government's role should be changing accordingly: from executor to organizer and coordinator; and public services must be provided with the help of the citizens, the private sector, local communities and NGOs.
 
 Leadership-driven governance!
-
-implementation,  therefore, public governance  must  be  transparent  and  open. Government's role should be changing accordingly: from executor to organizer and coordinator; and public services must be provided with the help of the citizens, the private sector, local communities and NGOs.
 
 Changes in public governance, new  relations between the people and the representative  public  authorities  should  result  in  a  respectful  attitude of the mentioned  authorities  towards  the  citizens,  as  well  as  the  understanding  of  their mission to serve the people and act for the public good. This will help build public confidence and encourage active participation in addressing relevant public issues.
 
@@ -450,7 +474,7 @@ The  public  sector  ensures  the  delivery  of  high  quality  services  that  
 
 [[START OF PAGE 19]]
 
-#### O pen and empowering governance
+#### Open and empowering governance
 
 - To create actual opportunities for public services to be delivered not only by authorities, but also the communities, NGOs and the private sector.
 
@@ -482,11 +506,11 @@ The  public  sector  ensures  the  delivery  of  high  quality  services  that  
 
 ### Smart society
 
-- Society's  ability  to  adapt  to  change,  using  it  for  generation  of  wealth  and  as  a  competitive advantage, is basically determined by the degree of openness and creativity in the society. Lack of openness in the society is reflected in the index of globalization, which currently places Lithuania 25th in the European Union 1 . The index measures economic, political and social globalization. Our country's social globalization is the lowest in the European Union. General level of creativity in the society is gauged by different instruments. According to the survey 2 conducted by the University of Maastricht, Lithuania is 17 th in the European Union by its creativity; while its creativity climate is ranked 24 th . These data suggest the lack of the right conditions for the development and expression of creativity.
+1. Society's  ability  to  adapt  to  change,  using  it  for  generation  of  wealth  and  as  a  competitive advantage, is basically determined by the degree of openness and creativity in the society. Lack of openness in the society is reflected in the index of globalization, which currently places Lithuania 25th in the European Union 1 . The index measures economic, political and social globalization. Our country's social globalization is the lowest in the European Union. General level of creativity in the society is gauged by different instruments. According to the survey 2 conducted by the University of Maastricht, Lithuania is 17 th in the European Union by its creativity; while its creativity climate is ranked 24 th . These data suggest the lack of the right conditions for the development and expression of creativity.
 
-- One of the most important factors in social development is a well-developed and successfully operating  life-long  learning  system.  The  number  of  the  population  involved  in  learning  and competence development places Lithuania the  20 th in the  European  Union 3 . This clearly demonstrates  the  need  to  develop  a  lifelong  learning  system.  For  the  development  of  personal creativity  and  civic  awareness,  it  is  particularly  important  to  develop  individual  abilities.  The current education system lacks flexibility, and underestimates the importance of critical thinking, creativity  and  pro-action.  Often,  training  programmes  are  based  on  repetition  and  consolidation, failing to stimulate processes of thinking, analyses and creativeness. On the other hand, it should be noted that the number of 30-34 year-olds in Lithuania with a qualification degree or its equivalent is well above the European Union average 4 .  This only confirms the desire of knowledge and higher education in the society.
+2. One of the most important factors in social development is a well-developed and successfully operating  life-long  learning  system.  The  number  of  the  population  involved  in  learning  and competence development places Lithuania the  20 th in the  European  Union 3 . This clearly demonstrates  the  need  to  develop  a  lifelong  learning  system.  For  the  development  of  personal creativity  and  civic  awareness,  it  is  particularly  important  to  develop  individual  abilities.  The current education system lacks flexibility, and underestimates the importance of critical thinking, creativity  and  pro-action.  Often,  training  programmes  are  based  on  repetition  and  consolidation, failing to stimulate processes of thinking, analyses and creativeness. On the other hand, it should be noted that the number of 30-34 year-olds in Lithuania with a qualification degree or its equivalent is well above the European Union average 4 .  This only confirms the desire of knowledge and higher education in the society.
 
-- Advanced skills are particularly important for the country's wealth and progress, and serve as a driving force for creativity and innovation, which are the basis for smart economy. The study by the Organisation of Economic Cooperation and Development on fifteen year olds assesses their reading skills, literacy in mathematical and natural science 5 . Conducted in 2009, the survey revealed that the Lithuanian pupils'  skills  were  far  behind  the  average  of  the  countries  surveyed.  Since  the  lowest achievement level is achieved by the majority of pupils, Lithuania is attributed to the high social justice group. However, problems are seen as regards the number of people with the highest level of achievement. As regards reading skills, the highest level is reached by only 0.1 per cent of pupils (average is 0.8 per cent); as regards the natural science literacy - only 0.4 per cent (average is 1.1
+3. Advanced skills are particularly important for the country's wealth and progress, and serve as a driving force for creativity and innovation, which are the basis for smart economy. The study by the Organisation of Economic Cooperation and Development on fifteen year olds assesses their reading skills, literacy in mathematical and natural science 5 . Conducted in 2009, the survey revealed that the Lithuanian pupils'  skills  were  far  behind  the  average  of  the  countries  surveyed.  Since  the  lowest achievement level is achieved by the majority of pupils, Lithuania is attributed to the high social justice group. However, problems are seen as regards the number of people with the highest level of achievement. As regards reading skills, the highest level is reached by only 0.1 per cent of pupils (average is 0.8 per cent); as regards the natural science literacy - only 0.4 per cent (average is 1.1
 
 > 1 Axel  Dreher,  'KOF  Index  of  Globalization'  Zurich,  2010.  <  http://globalization.kof.ethz.ch  >  [Checked  on  30  09 2011].
 
@@ -518,11 +542,11 @@ per cent.); and as regards the mathematical literacy - 1.3 per cent (average is 
 
 4. Individual  creativity  is  not  only  about  the  quality  of  education  programmes,  but  also  the physical environment 6 . Educational institutions need to promote creativity-conducive environment, so that education opportunities were not restricted by scarce material resources. It should be noted that  the  practical  skills  infrastructure  is  particularly  important  for  the  development  of  advanced skills.  According  to  the  2010  data  by  the  Ministry  of  Education  and  Science,  only  4  per  cent  of gymnasiums  and  secondary  schools  had  a  natural  science  laboratory.  Moreover,  the  Lithuanian schools, compared to the average of OECD countries, are particularly poorly equipped with audio and video devices, computer software for training purposes 7 .
 
-- The family plays an important role in the formation of a creative and responsible personality. Lithuanian children feel the least happy in Europe at the moment 8 . Many children grow in socially vulnerable families; according to 2010 data, the number of children growing in this type of families was 23.335 (3.7 per cent of the total figure) 9 . Families with children spend more than a third of the income  on  food  and  beverages,  and  on  average,  38.7  itas,  or  5.7  per  cent  of  total  household consumption,  on  education,  recreation  and  culture  (only  0.9  per  cent  on  education,  if  taken separately) 10 .  Family  problems  are  associated  with  growing  parental  occupational  engagement, decline  in  generation  solidarity  and  inadequate  culture  of  mutual  relations,  as  demonstrated  by numerous family conflicts. All this leads to the need for society to create conditions which would enable development of a harmonious family that may focus much more on individual development.
+5. The family plays an important role in the formation of a creative and responsible personality. Lithuanian children feel the least happy in Europe at the moment 8 . Many children grow in socially vulnerable families; according to 2010 data, the number of children growing in this type of families was 23.335 (3.7 per cent of the total figure) 9 . Families with children spend more than a third of the income  on  food  and  beverages,  and  on  average,  38.7  itas,  or  5.7  per  cent  of  total  household consumption,  on  education,  recreation  and  culture  (only  0.9  per  cent  on  education,  if  taken separately) 10 .  Family  problems  are  associated  with  growing  parental  occupational  engagement, decline  in  generation  solidarity  and  inadequate  culture  of  mutual  relations,  as  demonstrated  by numerous family conflicts. All this leads to the need for society to create conditions which would enable development of a harmonious family that may focus much more on individual development.
 
-- A particular role in national progress is given to social activism, which manifests itself through self-governance and civic awareness. These elements are best reflected by the Lithuanian Society's Civic Empowerment Index 11 . The index reveals small but steady growth in civil empowerment over the past four years. However, it is still inadequate, and the civic capacity of the population is still low. The empowerment index of the Lithuanian society in 2010 was only 35.5 points out of 100 possible.
+6. A particular role in national progress is given to social activism, which manifests itself through self-governance and civic awareness. These elements are best reflected by the Lithuanian Society's Civic Empowerment Index 11 . The index reveals small but steady growth in civil empowerment over the past four years. However, it is still inadequate, and the civic capacity of the population is still low. The empowerment index of the Lithuanian society in 2010 was only 35.5 points out of 100 possible.
 
-- The  formation  of  socially  active  society  is  largely  influenced  by  active  involvement  in community life. In 2010, 34 per cent of the population participated in local community life,  and only 11 per cent were involved in the activities of public organizations and movements 12 . It should be  noted  that  young  people  represent  but  a  lower  proportion  in  local  communities  (in  2010,  the figure was 26 per cent). The lack of social activism in youth is also reflected in a study on 16-24 year-olds. The 2009 survey reveals that only 45 per cent of the youth representing the mentioned
+7. The  formation  of  socially  active  society  is  largely  influenced  by  active  involvement  in community life. In 2010, 34 per cent of the population participated in local community life,  and only 11 per cent were involved in the activities of public organizations and movements 12 . It should be  noted  that  young  people  represent  but  a  lower  proportion  in  local  communities  (in  2010,  the figure was 26 per cent). The lack of social activism in youth is also reflected in a study on 16-24 year-olds. The 2009 survey reveals that only 45 per cent of the youth representing the mentioned
 
 > 6 Ministry of Education and Science, (Non) creativity in education, 2009.
 
@@ -600,19 +624,19 @@ densest network of public Internet access points. Lithuania maintains a leading 
 
 11. The country's economic situation and the main indicators are revealed annually by the World Economic  Forum's  Global  Competitiveness  Report,  carried  out  in  countries  around  the  world, calculating global competitiveness index 21 . Lithuania is favourably assessed in areas such as higher education and vocational training, infrastructure and technological readiness. However, the overall quality of education, the quality of management training and staff training are not seen quite as well. Nor is good the situation in those areas that reflect our ability to make use of available benefits: efficiency of services and goods market, financial market development, and size of the market also get  poor  assessment.  Analysis  of  individual  indicators  in  the  mentioned  areas  shows  that  some factors related to business environment have certain influence here.
 
-12. Favourable business environment is one of the essential determinants of smart economy, based on knowledge and spirit of entrepreneurship. One of the most important conditions for businessfriendly environment is reduction of regulatory burden. This burden is normally known as excessive regulation hindering business development, its response to environmental changes, and changes in course,  etc.  By  regulatory  burden,  Lithuania  is  the  20 th in  the  European  Union,  with  Estonia, Sweden and Finland as the frontrunners 22 .
+12. Favourable business environment is one of the essential determinants of smart economy, based on knowledge and spirit of entrepreneurship. One of the most important conditions for business-friendly environment is reduction of regulatory burden. This burden is normally known as excessive regulation hindering business development, its response to environmental changes, and changes in course,  etc.  By  regulatory  burden,  Lithuania  is  the  20 th in  the  European  Union,  with  Estonia, Sweden and Finland as the frontrunners 22 .
 
-13. Conditions  affecting  financial  flows  are  also  important  in  terms  of  business  environment: business funding availability and tax environment. The suitability of the conditions for business is revealed  by  elements  of  competitiveness  index  related  to  the  scope  of  taxation  and  financial services. The taxation scope and effectiveness puts us in the 22 nd position in the European Union (Estonia is 2nd). By the efficiency of financial services and diversity of financial sources we are the 22 nd in  the  European Union, and by service affordability - we are the 19 th .  As regards the above indicators,  the  Scandinavian  countries  take  the  lead  in  the  European  Union,  and  the  United Kingdom is also at the top with 2nd and 3 rd places respectively 23 .
+13. Conditions affecting financial flows are also important in terms of business environment: business funding availability and tax environment. The suitability of the conditions for business is revealed by elements of competitiveness index related to the scope of taxation and financial
 
 > 19 FTTH Council Europe. Annual Report 2010-2011.
 
 <http://www.ftthcouncil.eu/documents/Reports/FTTHCE_AnnualReport_2010-2011.pdf> [Checked on 30 09 2011].
 
-> 20 European Commission, Innovation Union Scoreboard, 2010. <http://www.proinno-europe.eu/innometrics/page/innovation-union-scoreboard-2010>  [Checked on 2011 09 30].
+> 20 European Commission, Innovation Union Scoreboard, 2010. <http://www.proinno-europe.eu/inno-metrics/page/innovation-union-scoreboard-2010> [Checked on 2011 09 30].
 
-> 21 World Economic Forum, Global Competitiveness Report 2010-2011. <http://www.weforum.org/issues/globalcompetitiveness> [Checked on 30 09 2011].
+> 21 World Economic Forum, Global Competitiveness Report 2010-2011. <http://www.weforum.org/issues/global-competitiveness> [Checked on 30 09 2011].
 
-> 22 World Economic Forum, Global Competitiveness Report 2010-2011. <http://www.weforum.org/issues/globalcompetitiveness> [Checked on 30 09 2011].
+> 22 World Economic Forum, Global Competitiveness Report 2010-2011. <http://www.weforum.org/issues/global-competitiveness> [Checked on 30 09 2011].
 
 23
 
@@ -620,7 +644,9 @@ densest network of public Internet access points. Lithuania maintains a leading 
 
 [[START OF PAGE 24]]
 
-14. Economic  development  is  strongly  influenced  by  the  focused  cooperation  between  business, research and government set to achieve common goals. For economic competitiveness in the global scale it is particularly important to ensure not only the efficient use of available national resources, but also integration into global chains of value generation. These aspects of both domestic as well as international integrity are also revealed by the competitiveness index. We rank 14th in the European Union by university-business cooperation, and by involvement in the global value chain - the 16 th24 . In  2009,  the  largest  share  of  research  and  development  (hereinafter  called  as  R&D)  spending  by source of funding was: public funds - 54 per cent, business funds - 21 per cent, foreign funds 13.1 per cent, higher education and non-profit institutions funds - 11.9 per cent. In government and higher  education  sectors,  R&D  expenditure  in  Lithuania  (in  2009  -  0.64  per  cent  of  GDP)  was within the average of the European Union, but business spending on R&D remains low (in 2009 it was 0.2 per cent of GDP). The lack of investment in research and development, particularly from the private sector, is an important factor resulting in relatively low level of innovativeness. Thus, the integrity level of the economy suggests that we are at intermediate position in the European Union; therefore we must work together more closely towards global value generation.
+services. The taxation scope and effectiveness puts us in the 22nd position in the European Union (Estonia is 2nd). By the efficiency of financial services and diversity of financial sources we are the 22nd in the European Union, and by service affordability – we are the 19th. As regards the above indicators, the Scandinavian countries take the lead in the European Union, and the United Kingdom is also at the top with 2nd and 3rd places respectively 23.
+
+14. Economic  development  is  strongly  influenced  by  the  focused  cooperation  between  business, research and government set to achieve common goals. For economic competitiveness in the global scale it is particularly important to ensure not only the efficient use of available national resources, but also integration into global chains of value generation. These aspects of both domestic as well as international integrity are also revealed by the competitiveness index. We rank 14th in the European Union by university-business cooperation, and by involvement in the global value chain – the 16th 24. In 2009, the largest share of research and development (hereinafter called as R&D) spending by source of funding was: public funds – 54 per cent, business funds – 21 per cent, foreign funds – 13.1 per cent, higher education and non-profit institutions funds – 11.9 per cent. In government and higher education sectors, R&D expenditure in Lithuania (in 2009 – 0.64 per cent of GDP) was within the average of the European Union, but business spending on R&D remains low (in 2009 it was 0.2 per cent of GDP). The lack of investment in research and development, particularly from the private sector, is an important factor resulting in relatively low level of innovativeness. Thus, the integrity level of the economy suggests that we are at intermediate position in the European Union; therefore we must work together more closely towards global value generation.
 
 15. For  sustainable  development  it  is  important  to  have  not  only  public,  but  also  economic responsibility,  i.e.  when  business  assumes  responsibility  for  social  and  natural  environment, community  or  national  development  processes.  Corporate  social  responsibility  is  not  typical  for Lithuania; it is a sporadic phenomenon manifesting itself through individual initiatives of individual organisations, focussing on strengthening of family relations, addressing children and youth-related social problems, educating talented children.
 
@@ -628,7 +654,7 @@ densest network of public Internet access points. Lithuania maintains a leading 
 
 16. Creativity, openness and responsibility are the values to be followed in taking public strategic decisions.  However,  it  also  requires  for  the  government  itself  to  be  creative,  open-minded  and responsible. The Worldwide Governance Indicators Project by the World Bank assessed government  efficiency,  which  is  measured  by  the  efficiency  indicator  of  public  policy,  public services  and  the  quality  of  the  civil  service,  ranking  Lithuania  21st  in  the  European  Union  (the frontrunners  being  Denmark,  Finland  and  Sweden) 25 .  These  aspects,  in  particular  the  quality  of public services, are among the most important factors of responsible governance. Confidence in the authorities  reflects  the  level  of  responsibility  exercised  by  public  authorities.  In  2010,  the  public credibility  of  state  and  municipal  institutions  and  agencies  was  46%.  These  data  show  that  the government must be more responsible and follow a targeted improvement of the quality of public services.
 
-17. The rapidly changing environment and growing need for self-governance call for an adjusted model  of  governance,  including  increased  openness  and  collaboration  with  citizens.  Today,  the government regulates a very large number of areas of public life and, therefore, the majority of the citizens are accustomed to expect that it will resolve all their problems and answer all the questions. Only 33% of the population think that there is too much government interference in their lives. This is one of the lowest indicators in the European Union, as the majority of EU citizens think that there is too much regulation by the government (average 58 per cent) 26 .  This must change. Along with growing civic maturity,  the government must reduce areas of intervention, thus enabling citizens and communities to take responsibility into their hands. Government powers should be redistributed from public authorities to people and communities, enabling them to act together. The role of the government  should  shift  from  implementer  or  executor  to  organizer  or  coordinator;  and  public services  must  be  delivered  together  with  citizens,  the  private  sector,  local  communities  and  nongovernmental organizations.
+17. The rapidly changing environment and growing need for self-governance call for an adjusted model of governance, including increased openness and collaboration with citizens. Today, the government regulates a very large number of areas of public life and, therefore, the majority of the
 
 > 23 ibid.
 
@@ -641,6 +667,8 @@ densest network of public Internet access points. Lithuania maintains a leading 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
+
+citizens are accustomed to expect that it will resolve all their problems and answer all the questions. Only 33% of the population think that there is too much government interference in their lives. This is one of the lowest indicators in the European Union, as the majority of EU citizens think that there is too much regulation by the government (average 58 per cent) 26. This must change. Along with growing civic maturity, the government must reduce areas of intervention, thus enabling citizens and communities to take responsibility into their hands. Government powers should be redistributed from public authorities to people and communities, enabling them to act together. The role of the government should shift from implementer or executor to organizer or coordinator; and public services must be delivered together with citizens, the private sector, local communities and non-governmental organizations.
 
 18. One  of  the  most  important  aspects  related  to  public  participation,  is  the  actual  inclusion  of citizens in the decision-making processes, going beyond the conventional provision of information or consultation. It is very important to involve the private sector in the provision of public services. The public participation in the processes of public governance is currently in action through better regulatory  initiatives,  specific  pilot  public-private  partnership  projects  in  the  areas  of  health, education, social housing, public transport, environment protection and public order. Methodology for the evaluation of customer satisfaction with public services has been drawn up, thus promoting a continuous  survey  of  public  opinion;  and  institutions  are  encouraged  to  include  in  the  strategic operational plans indicators reflecting changes in customer satisfaction. However, this is happening on  the  basis  of  separate  initiatives.  In  order  to  achieve  a  coherent  system  of  openness  in  the government, it needs systemic changes.
 
@@ -734,6 +762,7 @@ INDICATORS | VALUE | PLACE (VALUE)
 --- | --- | --- | --- | --- | ---
 EU27 AVERAGE | LT | 2009 / 2010 | 2020 | 2030
 Eurostat, 2010
+### SMART ECONOMY
 Summary Innovation Index Innovation Union Scoreboard, 2010 | 0.465 | 0.227 | 25 th place in the EU | 15 th place in the EU | 10 th or higher place in the EU
 The ease of doing business Doing business , 2012 | - | 9 th place in the EU | 9 th place in the EU | 5 th or higher place in the EU | 1 st among Nordic-Baltic states, At least 3 rd place in the EU
 Gross domestic product (GDP) per capita in purchasing power standard (PPS) Eurostat, 2010 | 100 per cent | 57 per cent | 24 th place in the EU | 15 th place in the EU | 10 th or higher place in the EU
@@ -769,17 +798,17 @@ Corruption Perceptions Index Transparency International, 2011 | 6.3 points | 4.8
 
 ## ANNEX 3. STRATEGY DEVELOPMENT PROCESS
 
-- The  Strategy  seeks  the  widest  possible  public  consensus  on  the  national  vision  and  progress values;  therefore  its  development  process  is  set  to  involve  the  largest  possible  number  of  public representatives and social partners.
+1. The Strategy seeks the widest possible public consensus on the national vision and progress values; therefore its development process is set to involve the largest possible number of public representatives and social partners.
 
-- Its main author is the society, which actively participated at all the stages of the development of the Strategy. Public discussions were arranged with a view to attracting as many contributors to the common vision as possible. The regions had operating idea generation centres; a National Day of Ideas was held across Lithuania; the Bank of Ideas welcomed all the proposals (www.Lietuva2030.lt).  Furthermore,  a  Week  of  Ideas  for  Lithuania  was  held  at  schools,  and students were welcomed to express their ideas about the future of their country, and the most gifted students  participated  in  the  project  Students  to  the  Government  putting  forward  their  ideas. Residents of Lithuania and Lithuanians from all over the world were invited to share their views on the Strategy development in public consultations (www.lrv.lt).
+2. Its main author is the society, which actively participated at all the stages of the development of the Strategy. Public discussions were arranged with a view to attracting as many contributors to the common vision as possible. The regions had operating idea generation centres; a National Day of Ideas was held across Lithuania; the Bank of Ideas welcomed all the proposals (www.Lietuva2030.lt). Furthermore, a Week of Ideas for Lithuania was held at schools, and students were welcomed to express their ideas about the future of their country, and the most gifted students participated in the project Students to the Government putting forward their ideas. Residents of Lithuania and Lithuanians from all over the world were invited to share their views on the Strategy development in public consultations (www.lrv.lt).
 
-- The  Strategy  development  process  was  led  by  the  State  Progress  Council,  which  brought together  outstanding  figures  from  business,  culture,  art,  science  and  public  life  as  well  as Government representatives. The State Progress Council analysed and assessed proposals and ideas put  forward  by  specific  task  forces,  social  partners  as  well  as  the  public  at  large.  The  Council merged all the ideas and proposals into the Strategy and launched for national consideration. The State Progress Council held seven official meetings, and was closely involved in all the stages of the preparation of the Strategy, promoting it nationwide through different media, and participating in all the related discussions.
+3. The Strategy development process was led by the State Progress Council, which brought together outstanding figures from business, culture, art, science and public life as well as Government representatives. The State Progress Council analysed and assessed proposals and ideas put forward by specific task forces, social partners as well as the public at large. The Council merged all the ideas and proposals into the Strategy and launched for national consideration. The State Progress Council held seven official meetings, and was closely involved in all the stages of the preparation of the Strategy, promoting it nationwide through different media, and participating in all the related discussions.
 
-- To  assess  the  current  situation,  and  analyse  ideas  and  proposals  put  forward  by  the  public, specific task forces have been set up: 'Creative society', 'Smart economy' and 'Civil society and values'. These task forces enjoyed voluntary contributions from non-governmental organizations, academia, business organizations and ministries, as well as independent consultants and experts.
+4. To assess the current situation, and analyse ideas and proposals put forward by the public, specific task forces have been set up: “Creative society”, “Smart economy” and “Civil society and values”. These task forces enjoyed voluntary contributions from non-governmental organizations, academia, business organizations and ministries, as well as independent consultants and experts.
 
-- In pursuit of constructive dialogue with social and economic partners, round table discussions were  held  in  cooperation  with  the  Knowledge  Economy  Forum,  academia,  youth  and  student organizations,  the  Lithuanian  community  in  Great  Britain,  associated  organizations  of  social  and economic  partners,  media  and  business  organizations.  The  project  was  also  discussed  with Lithuanian  emigrants  in  Lithuania's  diplomatic  missions,  consultations  with  non-governmental organizations were held, public discussions with local communities and businesses were held in five regions, and radio programmes were prepared with the State Progress Council and the task forces.
+5. In pursuit of constructive dialogue with social and economic partners, round table discussions were held in cooperation with the Knowledge Economy Forum, academia, youth and student organizations, the Lithuanian community in Great Britain, associated organizations of social and economic partners, media and business organizations. The project was also discussed with Lithuanian emigrants in Lithuania’s diplomatic missions, consultations with non-governmental organizations were held, public discussions with local communities and businesses were held in five regions, and radio programmes were prepared with the State Progress Council and the task forces.
 
-- All  the  Strategy  related  information  is  available  at:  www.Lietuva2030.lt  and  social  network Facebook (www.facebook.com/Lietuva2030).
+6. All the Strategy related information is available at: www.Lietuva2030.lt and social network Facebook (www.facebook.com/Lietuva2030).
 
 32
 
@@ -789,31 +818,33 @@ Corruption Perceptions Index Transparency International, 2011 | 6.3 points | 4.8
 
 ## ANNEX 4. MECHANISM FOR STRATEGY IMPLEMENTATION
 
-- The implementation of the Strategy is an on-going dynamic process, with proactive society and the  State  Progress  Council,  set  up  by  the  Government.  This  process  is  not  only  a  direct implementation of strategic guidelines and initiatives; it also includes solutions of other issues of public  relevance,  and  promotes  continued  development  of  progress-related  ideas.  Therefore,  the State  Progress  Council  initiates  a  broad  debate,  inviting  people  to  get  actively  involved  in  the implementation of the common vision. The implementation of the 'Lithuania 2030' will be ensured by the key participants: Open Progress Forum "Lithuania 2030', the State Progress Council and its Secretariat.
+1. The implementation of the Strategy is an on-going dynamic process, with proactive society and the State Progress Council, set up by the Government. This process is not only a direct implementation of strategic guidelines and initiatives; it also includes solutions of other issues of public relevance, and promotes continued development of progress-related ideas. Therefore, the State Progress Council initiates a broad debate, inviting people to get actively involved in the implementation of the common vision. The implementation of the “Lithuania 2030” will be ensured by the key participants: Open Progress Forum "Lithuania 2030”, the State Progress Council and its Secretariat.
 
-- The  mission  of  the Open  Progress  Forum  'Lithuania  2030': to  promote  and  maintain  a permanent dialogue with the society on a country's development processes, priorities and values. The  Forum  will  bring together  academic, business, artistic  communities  and  other public representatives for a debate and sharing of ideas. The Forum "Lithuania 2030" will be held at least two times a year.
+2. The mission of the Open Progress Forum “Lithuania 2030”: to promote and maintain a permanent dialogue with the society on a country's development processes, priorities and values. The Forum will bring together academic, business, artistic communities and other public representatives for a debate and sharing of ideas. The Forum "Lithuania 2030" will be held at least two times a year.
 
-- The State  Progress  Council will  not  only  support  the  communication  and  encourage  public discussion of the ideas, but will take the leadership in the activities of the Forum 'Lithuania 2030'. It will also oversee the implementation of the Strategy and monitor its results. The State Progress Council  will  annually  assess  the  relevance  of  the  Strategy  initiatives  and  will  be  responsible  for drawing up annual inventory of the progress-related actions and its presentation to the Government. In  view  of  these  aspects,  the  composition  of  the  Council  will  be  adjusted  to  include  active representatives of the society (~ 50 per cent), parliamentary groups (~ 20 per cent) and government agencies (~ 30 per cent). The State Progress Council will convene at least once every 3 months.
+3. The State Progress Council will not only support the communication and encourage public discussion of the ideas, but will take the leadership in the activities of the Forum “Lithuania 2030”. It will also oversee the implementation of the Strategy and monitor its results. The State Progress Council will annually assess the relevance of the Strategy initiatives and will be responsible for drawing up annual inventory of the progress-related actions and its presentation to the Government. In view of these aspects, the composition of the Council will be adjusted to include active representatives of the society (~ 50 per cent), parliamentary groups (~ 20 per cent) and government agencies (~ 30 per cent). The State Progress Council will convene at least once every 3 months.
 
-- The Secretariat of the State Progress Council will be based at the Office of the Prime Minister and  will  be  responsible  for  coordination  of  the  implementation  of  the  Strategy  and  on-going monitoring  at  governmental  level.  The  Secretariat  will  provide  necessary  support  to  the  State Progress  Council  as  regards  supervision  and  monitoring  of  the  performance.  It  will  also  actively participate  in  the  activities  of  the  Forum  'Lithuania  2030',  focussing  on  the  analysis  of  the discussion conclusions and their implementation proposals.
+5. The Secretariat of the State Progress Council will be based at the Office of the Prime Minister and will be responsible for coordination of the implementation of the Strategy and on-going monitoring at governmental level. The Secretariat will provide necessary support to the State Progress Council as regards supervision and monitoring of the performance. It will also actively participate in the activities of the Forum “Lithuania 2030”, focussing on the analysis of the discussion conclusions and their implementation proposals.
 
 6. The Strategy will be implemented in the following main directions (implementation diagram is presented in Figure 1):
 
-'quick wins': commitment to take 10 progress priority actions a year;
+- “quick wins”: commitment to take 10 progress priority actions a year;
 
 - consistent implementation of the vision through the system of strategic planning documents (medium and short-term planning documents);
 
 - direct involvement of communities and NGOs.
 
-- Quick wins: annual progress actions .  Considering the progress achieved and existing state of events, the State Progress Council will identify ten key actions for the implementation of the most important initiatives. Annual progress actions will also be debated and discussed at the open Forum 'Lithuania 2030'.
+7. Quick wins: annual progress actions. Considering the progress achieved and existing state of events, the State Progress Council will identify ten key actions for the implementation of the most important initiatives. Annual progress actions will also be debated and discussed at the open Forum “Lithuania 2030”.
 
-8.  The  State  Progress  Council  will  submit  to  the  Government  a  list  of  progress  actions,  and recommend  that  they  are  included  in  annual  governmental  and/or  ministerial  priority  lists,  thus linking governmental annual priorities with the Strategy initiatives, and ensuring the implementation of the progress-related actions.
+8. The State Progress Council will submit to the Government a list of progress actions, and recommend that they are included in annual governmental and/or ministerial priority lists, thus
 
 33
 
 [[END OF PAGE 33]]
 
 [[START OF PAGE 34]]
+
+linking governmental annual priorities with the Strategy initiatives, and ensuring the implementation of the progress-related actions.
 
 9. The inclusion of annual progress actions into the governmental priorities is a very important step towards the achievement of the Strategy results, having not only annual but also longer-term effect. All the resources required should be mobilized for the implementation of Government's priorities, which has a direct impact on the state budgeting. With a view to ensuring effective implementation of the Strategy, the Seimas of the Republic of Lithuania, when considering a draft budget, should take into account allocation of appropriations, and the link between governmental priorities and the Strategy.
 
@@ -823,11 +854,11 @@ Corruption Perceptions Index Transparency International, 2011 | 6.3 points | 4.8
 
 12. The success of the Strategy will be measured by monitoring the progress in indicators that are directly linked to the main achievable outcomes 2030. Given a substantial length of this period, and in view of the goals of the Strategy 2020, interim indicators for 2020 were established.
 
-- A comprehensive interim assessment of the strategy has been foreseen for 2020, aimed at the improvement of the implementation process of the Strategy, and better outcomes. Evaluation of the Strategy or its individual components may be effected more frequently to assess relevant aspects, such as effectiveness, efficiency, appropriateness and need for continuity of individual guidelines.
+13. A comprehensive interim assessment of the strategy has been foreseen for 2020, aimed at the improvement of the implementation process of the Strategy, and better outcomes. Evaluation of the Strategy or its individual components may be effected more frequently to assess relevant aspects, such as effectiveness, efficiency, appropriateness and need for continuity of individual guidelines.
 
-- The people and the State Progress Council will be regularly reported to on the progress of the Strategy in terms of the achievement of the goals. Information on the progress of the Strategy will be put to public consideration as part of the Government Performance Report, submitted annually to the Seimas. It should be noted that national progress processes will be measured not only against the Strategy's  progress  indicators,  but  also  the  indicators  of  national  economic  competitiveness.  The Strategy progress report will also include information about the progress achieved as regards the implementation of Government's priorities as well as progress actions. The scoreboard of progress indicators and progress actions results will be available at: www.Lietuva2030.lt.
+14. The people and the State Progress Council will be regularly reported to on the progress of the Strategy in terms of the achievement of the goals. Information on the progress of the Strategy will be put to public consideration as part of the Government Performance Report, submitted annually to the Seimas. It should be noted that national progress processes will be measured not only against the Strategy's progress indicators, but also the indicators of national economic competitiveness. The Strategy progress report will also include information about the progress achieved as regards the implementation of Government's priorities as well as progress actions. The scoreboard of progress indicators and progress actions results will be available at: www.Lietuva2030.lt.
 
-- Direct involvement of communities and non-governmental organizations . The implementation  of  the  Strategy  will  involve  public  at  large,  focusing  on  communities  and  nongovernmental organizations. The Lithuanian society and business organizations will be encouraged to contribute to the implementation of progress policies. Much in this respect is being done already today, which is regularly covered at: www.Lietuva2030.lt.
+15. Direct involvement of communities and non-governmental organizations. The implementation of the Strategy will involve public at large, focusing on communities and non-governmental organizations. The Lithuanian society and business organizations will be encouraged to contribute to the implementation of progress policies. Much in this respect is being done already today, which is regularly covered at: www.Lietuva2030.lt.
 
 34
 
@@ -836,6 +867,31 @@ Corruption Perceptions Index Transparency International, 2011 | 6.3 points | 4.8
 [[START OF PAGE 35]]
 
 Figure 1. Strategy implementation diagram
+
+PUBLIC PARTICIPATION
+Citizens and communities
+NGOs
+Business organisations
+
+STATE PROGRESS COUNCIL
+OPEN PROGRESS FORUM
+GOVERNMENT
+MINISTRIES
+MUNICIPALITIES
+
+2014
+2020
+2030
+
+Annual progress actions
+Governmental and ministerial priorities
+Europe 2020
+National Progress Programme
+
+Strategic action plans
+Other documents of strategic planning
+
+Assessment of the Strategy
 
 35
 
