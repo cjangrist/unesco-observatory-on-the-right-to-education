@@ -18,29 +18,25 @@ As at 1 June 2019
 
 # EDUCATIONAL INSTITUTIONS (DISCIPLINE) ACT 1976
 
+Date of Royal Assent … … … … … 25 May 1976
+
+Date of publication in the Gazette … … … 31 May 1976
+
+Latest amendment made by
+P.U. (A) 125/2019 which
+came into operation on … … … … … 23 May 2018
+
+## PREVIOUS REPRINTS
+
+First Reprint … … … 2001
+
+Second Reprint … … … 2006
+
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
 3
-
-Section
-
-- Short title
-
-- Interpretation
-
-- Power of Minister to decide any question as to Executive Head
-
-### PART II
-
-#### DISCIPLINARY AUTHORITIES
-
-( Deleted )
-
-- Disciplinary authority in respect of students of an Institution
-
-- Students' disciplinary rules
 
 LAWS OF MALAYSIA
 
@@ -53,15 +49,33 @@ Act 174
 ### PART I
 #### PRELIMINARY
 
+Section
+
+1. Short title
+
+2. Interpretation
+
+3. Power of Minister to decide any question as to Executive Head
+
+### PART II
+
+#### DISCIPLINARY AUTHORITIES
+
+4. (Deleted)
+
+5. Disciplinary authority in respect of students of an Institution
+
+6. Students’ disciplinary rules
+
 ### PART III
 
-#### THE STUDENTS' REPRESENTATIVE COMMITTEE AND OTHER STUDENT BODIES
+#### THE STUDENTS’ REPRESENTATIVE COMMITTEE AND OTHER STUDENT BODIES
 
-- Students' Representative Committee
+7. Students’ Representative Committee
 
-- Establishment of other student bodies
+8. Establishment of other student bodies
 
-- Power of Executive Head to suspend or dissolve SRC or any organization, body or group of students
+9. Power of Executive Head to suspend or dissolve SRC or any organization, body or group of students
 
 [[END OF PAGE 3]]
 
@@ -73,59 +87,59 @@ ACT 174
 
 4
 
-Section
-
-- Activities of students or students' society, organization, body or group
-
-- Prohibition on collection of money by a student or by an organization, body or group of students
-
-- Liability of student or students' organization, body or group
-
-( Deleted )
-
-- Suspension of student charged with registrable offence and matters relating to detention, etc.
-
-( Deleted )
-
-( Deleted )
-
-- Delegation by Minister
-
-- Application  of  Act  to  Institutions  specified  in  the  First  Schedule,  and Minister's power to amend Schedules
-
-- Minister's power to apply provisions of Act to Institutions with modifications, etc.
-
-- Branch itemized in the First Schedule deemed to be a separate Institution
-
-- Date of commencement of this Act in relation to an Institution subsequently included in the First Schedule
-
-- This Act and subsidiary legislation made thereunder to prevail
-
-- FIRST SCHEDULE
-
-- SECOND SCHEDULE
-
-- THIRD SCHEDULE
-
 ### PART IV
 
 #### OFFENCES
+
+Section
+
+10. Activities of students or students’ society, organization, body or group
+
+11. Prohibition on collection of money by a student or by an organization, body or group of students
+
+12. Liability of student or students’ organization, body or group
+
+13. (Deleted)
+
+14. Suspension of student charged with registrable offence and matters relating to detention, etc.
+
+15. (Deleted)
+
+16. (Deleted)
 
 ### PART V
 
 #### TRANSITIONAL
 
-- Students who are members of an existing society
+17. Students who are members of an existing society
 
-- Existing societies of students
+18. Existing societies of students
 
-- Sections 17 and 18 to prevail over Societies Act 1966 or relevant Co-operative Societies Ordinance
+19. Sections 17 and 18 to prevail over Societies Act 1966 or relevant Co-operative Societies Ordinance
 
-- Existing organizations and bodies of students in an Institution
+20. Existing organizations and bodies of students in an Institution
 
 ### PART VI
 
 #### GENERAL
+
+21. Delegation by Minister
+
+22. Application of Act to Institutions specified in the First Schedule, and Minister’s power to amend Schedules
+
+23. Minister’s power to apply provisions of Act to Institutions with modifications, etc.
+
+24. Branch itemized in the First Schedule deemed to be a separate Institution
+
+25. Date of commencement of this Act in relation to an Institution subsequently included in the First Schedule
+
+26. This Act and subsidiary legislation made thereunder to prevail
+
+FIRST SCHEDULE
+
+SECOND SCHEDULE
+
+THIRD SCHEDULE
 
 [[END OF PAGE 4]]
 
@@ -133,31 +147,31 @@ Section
 
 5
 
-#### Short title
-
-- This Act may be cited as the Educational Institutions (Discipline) Act 1976.
-
-#### Interpretation
-
-- In this Act, unless the context otherwise requires-
-
-'Executive Head' means the officer or member of the staff of the Institution  who  functions  as  the  principal  executive  officer  of  the Institution;
-
 LAWS OF MALAYSIA
 
 Act 174
 
 # EDUCATIONAL INSTITUTIONS (DISCIPLINE) ACT 1976
 
-An  Act  to  provide  for  matters  related  to  discipline  in  educational institutions, and for matters connected therewith.
+An Act to provide for matters related to discipline in educational institutions, and for matters connected therewith.
 
-[ 1 June 1976 ]
+[1 June 1976]
 
-BE  IT  ENACTED by  the  Seri  Paduka  Baginda  Yang  di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows:
+BE IT ENACTED by the Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows:
 
 ## PART I
 
 ### PRELIMINARY
+
+#### Short title
+
+1. This Act may be cited as the Educational Institutions (Discipline) Act 1976.
+
+#### Interpretation
+
+2. In this Act, unless the context otherwise requires—
+
+“Executive Head” means the officer or member of the staff of the Institution who functions as the principal executive officer of the Institution;
 
 [[END OF PAGE 5]]
 
@@ -169,33 +183,31 @@ ACT 174
 
 6
 
-'Institution' means any institution, other than a University, which provides education, instruction or training of any description to any person, and which is specified or described in the First Schedule;
+“Institution” means any institution, other than a University, which provides education, instruction or training of any description to any person, and which is specified or described in the First Schedule;
 
-'Minister'  means  the  Minister  responsible  for  education  or  the Minister responsible for higher education, as the case may require;
+“Minister” means the Minister responsible for education or the Minister responsible for higher education, as the case may require;
 
-];
+“registrable offence” has the meaning assigned to it under the Registration of Criminals and Undesirable Persons Act 1969 [Act 7];
 
-'registrable  offence'  has  the  meaning  assigned  to  it  under  the Registration of Criminals and Undesirable Persons Act 1969 [ Act 7
+“staff” includes any person employed by or in an Institution;
 
-'staff' includes any person employed by or in an Institution;
+“student” means a person receiving education, instruction or training of any description from or in an Institution;
 
-'student' means  a person receiving education, instruction or training of any description from or in an Institution;
+“Students’ Affairs Officer” means a member of the staff of an Institution who is designated as such by the Minister under subsection 5(1);
 
-'Students'  Affairs  Officer'  means  a  member  of  the  staff  of  an Institution who  is designated as such by the Minister under subsection 5(1);
+“Students’ Representative Committee” or “SRC” means the Students’ Representative Committee provided under section 7;
 
-'Students' Representative Committee' or 'SRC' means the Students' Representative Committee provided under section 7;
-
-'University' means a University or a University College established under the Universities and University Colleges Act 1971 [ Act 30 ].
+“University” means a University or a University College established under the Universities and University Colleges Act 1971 [Act 30].
 
 #### Power of Minister to decide any question as to Executive Head
 
-- Where any question arises as to who is the Executive Head of any particular  Institution  the  question  shall  be  decided  by  the  Minister whose decision thereon shall be final.
+3. Where any question arises as to who is the Executive Head of any particular Institution the question shall be decided by the Minister whose decision thereon shall be final.
 
 ## PART II
 
 ### DISCIPLINARY AUTHORITIES
 
-( Deleted by Act A1375 ).
+4. (Deleted by Act A1375).
 
 [[END OF PAGE 6]]
 
@@ -249,7 +261,7 @@ an  appeal  in  writing  to  the  Student  Disciplinary  Appeal  Committee estab
 
 #### Students' disciplinary rules
 
-6. The Educational Institutions (Discipline of Students) Rules 1976 in the Second Schedule shall apply to an Institution, provided that the Minister may, in his absolute discretion, make, by order published in the Gazette ,  such  modifications,  adaptations,  additions,  deletions  or amendments  thereto  in  the  application  thereof  to  any  particular Institution  or  class  or  description  of  Institutions  as  he  may  deem necessary or expedient.
+6. The Educational Institutions (Discipline of Students) Rules 1976 in the Second Schedule shall apply to an Institution, provided that the Minister may, in his absolute discretion, make, by order published in
 
 [[END OF PAGE 8]]
 
@@ -258,6 +270,8 @@ an  appeal  in  writing  to  the  Student  Disciplinary  Appeal  Committee estab
 Educational Institutions (Discipline)
 
 9
+
+the Gazette, such modifications, adaptations, additions, deletions or amendments thereto in the application thereof to any particular Institution or class or description of Institutions as he may deem necessary or expedient.
 
 ## PART III
 
@@ -271,7 +285,7 @@ Educational Institutions (Discipline)
 
 8. (1)  Without prejudice to section 7, it shall be lawful for not less than  ten  students  of  an  Institution  with  the  prior  approval  of  the Students' Affairs Officer given after obtaining the concurrence of the Minister,  and  subject  to  such  terms  and  conditions  as  the  Students' Affairs Officer may specify, to establish a student body consisting of students  of  the  Institution  for  the  promotion  of  a  specific  object  or interest within the Institution.
 
-- The Third Schedule, except paragraphs 1 and 7 thereof, shall apply mutatis  mutandis to  a  student  body  established  under  this section as they apply to the SRC.
+(2) The Third Schedule, except paragraphs 1 and 7 thereof, shall apply mutatis mutandis to a student body established under this section as they apply to the SRC.
 
 #### Power  of  Executive  Head  to  suspend  or  dissolve  SRC  or  any organization, body or group of students
 
@@ -299,7 +313,7 @@ manner which the Executive Head considers detrimental or prejudicial to the inte
 
 10. (1) Subject to subsection (2), a student of an Institution may become  a  member  of  any  society,  organization,  body  or  group  of persons, whether in or outside Malaysia, including any political party.
 
-- A student of the Institution shall not-
+(2) A student of the Institution shall not—
 
 (a) become a member of any unlawful society, organization, body or group of persons, whether in or outside Malaysia; or
 
@@ -353,13 +367,13 @@ the  interests  and  well-being  of  the  students or the Institution.
 
 (3) The  Executive  Head  may,  in  any  particular  case, grant exemption  to  any  person  from  the  application  of  subsection  (1), subject to such terms and conditions as he thinks fit.
 
-( Deleted by Act A1375 ).
+(4) (Deleted by Act A1375).
 
 (5) This section shall be in addition to and not in derogation from the provisions of any written law relating to house to house and street collections, public collections, or collection of money or sale of badges.
 
 #### Liability of students or students' organization, body or group
 
-12. Where  a  registrable  offence  has  been  committed  under  any written law and such offence has been committed or purports to have been committed in the name or on behalf of any organization, body or group of students of an Institution which is established by, under or in accordance with this Act, every person convicted of such offence shall  be  liable  to  disciplinary  action  and  such  organization,  body  or group of students shall be dealt with in accordance with section 9.
+12. Where a registrable offence has been committed under any written law and such offence has been committed or purports to have
 
 [[END OF PAGE 12]]
 
@@ -368,6 +382,8 @@ the  interests  and  well-being  of  the  students or the Institution.
 Educational Institutions (Discipline)
 
 13
+
+been committed in the name or on behalf of any organization, body or group of students of an Institution which is established by, under or in accordance with this Act, every person convicted of such offence shall be liable to disciplinary action and such organization, body or group of students shall be dealt with in accordance with section 9.
 
 13. ( Deleted by Act A1375 ).
 
@@ -441,13 +457,13 @@ ACT 174
 
 16
 
-(2) Where  a  society  is  dissolved  under  subsection  17(1)  of  the Societies Act 1966 shall apply in respect thereof mutatis mutandis as if it were a society the registration whereof had been cancelled under the said Act.
+(2) Where a society is dissolved under subsection (1), section 17(1) of the Societies Act 1966 shall apply in respect thereof mutatis mutandis as if it were a society the registration whereof had been cancelled under the said Act.
 
-(3)    Where  a  co-operative  society  is  dissolved  under  subsection (1)  the  relevant  Registrar  of  Co-operative  Societies  shall  appoint  a competent person to be, subject to the direction and control of such Registrar  of  Co-operative  Societies,  liquidator  of  such  co-operative society  and  the  provisions  of  the  relevant  Co-operative  Societies Ordinance shall apply to such co-operative society as if it were a cooperative society the registration whereof had  been cancelled under that Ordinance and the said liquidator had been appointed a liquidator thereof under section 41 of that Ordinance.
+(3) Where a co-operative society is dissolved under subsection (1) the relevant Registrar of Co-operative Societies shall appoint a competent person to be, subject to the direction and control of such Registrar of Co-operative Societies, liquidator of such co-operative society and the provisions of the relevant Co-operative Societies Ordinance shall apply to such co-operative society as if it were a co-operative society the registration whereof had been cancelled under that Ordinance and the said liquidator had been appointed a liquidator thereof under section 41 of that Ordinance.
 
-(4) Where  a  person  who  was  a  member  of  a  society  or  a  cooperative  society  when  he  was  a  student  of  an  Institution  had continued to be a member thereof after he had ceased to be a student of an Institution, he shall, for the purpose of determining under this section  whether  the  members  of  the  society  or  co-operative  society are wholly or predominantly students of one or more Institutions, be deemed to be a student of an Institution.
+(4) Where a person who was a member of a society or a co-operative society when he was a student of an Institution had continued to be a member thereof after he had ceased to be a student of an Institution, he shall, for the purpose of determining under this section whether the members of the society or co-operative society are wholly or predominantly students of one or more Institutions, be deemed to be a student of an Institution.
 
-(5)    Any question as to whether the members of any society or cooperative  society,  as  the  case  may  be,  are  wholly  or  predominantly students of one or more Institutions shall be decided by the Registrar of Societies or the relevant Registrar of Co-operative Societies, as the case may be, and his decision thereon shall be final and shall not be questioned or reviewed in any court.
+(5) Any question as to whether the members of any society or co-operative society, as the case may be, are wholly or predominantly students of one or more Institutions shall be decided by the Registrar of Societies or the relevant Registrar of Co-operative Societies, as the case may be, and his decision thereon shall be final and shall not be questioned or reviewed in any court.
 
 #### Sections 17 and 18 to prevail over Societies Act 1966 or relevant Co-operative Societies Ordinance
 
@@ -507,7 +523,7 @@ Provided, however, that the Executive Head of the Institution may, in his absolu
 
 21. (1)  The  Minister  may  delegate,  subject  to  such  terms  and restrictions as he may specify, any of his functions, powers or duties under this Act.
 
-(2) A delegation made under subsection (1) may be made either generally  or  in  relation  to  any  particular  Institution  or  class  or description of Institutions, and it may be made to any person or body of persons.
+(2) A delegation made under subsection (1) may be made either generally or in relation to any particular Institution or class or
 
 [[END OF PAGE 18]]
 
@@ -516,6 +532,8 @@ Provided, however, that the Executive Head of the Institution may, in his absolu
 Educational Institutions (Discipline)
 
 19
+
+description of Institutions, and it may be made to any person or body of persons.
 
 (3)    A delegation under this section may be revoked at any time by the Minister.
 
@@ -543,15 +561,15 @@ ACT 174
 
 #### Branch itemized in First Schedule deemed to be a separate Institution
 
-- Where a branch or other subsidiary whatever of an institution is included  in  the  First  Schedule  as  a  separate  item  of  that  Schedule, such branch or other subsidiary shall, for all purposes of this Act, be deemed to be a separate Institution from the institution of which it is a branch or other subsidiary.
+24. Where a branch or other subsidiary whatever of an institution is included in the First Schedule as a separate item of that Schedule, such branch or other subsidiary shall, for all purposes of this Act, be deemed to be a separate Institution from the institution of which it is a branch or other subsidiary.
 
-#### Date  of  commencement  of  this  Act  in  relation  to  an  Institution subsequently included in the First Schedule
+#### Date of commencement of this Act in relation to an Institution subsequently included in the First Schedule
 
-- Any reference in this Act to the date of commencement of this Act shall, in its application to an Institution which is included in the First Schedule after the date of coming into force of this Act, be read as a reference to the date on which the inclusion of such Institution in the First Schedule takes effect.
+25. Any reference in this Act to the date of commencement of this Act shall, in its application to an Institution which is included in the First Schedule after the date of coming into force of this Act, be read as a reference to the date on which the inclusion of such Institution in the First Schedule takes effect.
 
 #### This Act and subsidiary legislation made thereunder to prevail
 
-- In  the  event  of  any  inconsistency  or  conflict  between  the provisions of this Act or any subsidiary legislation made thereunder and the provisions of any other federal law or subsidiary legislation made thereunder relating  to  education  or  educational  institutions  or any particular educational institution, the provisions of this Act and the subsidiary legislation made thereunder shall prevail.
+26. In the event of any inconsistency or conflict between the provisions of this Act or any subsidiary legislation made thereunder and the provisions of any other federal law or subsidiary legislation made thereunder relating to education or educational institutions or any particular educational institution, the provisions of this Act and the subsidiary legislation made thereunder shall prevail.
 
 [[END OF PAGE 20]]
 
@@ -590,7 +608,27 @@ Item No. | Name or description of Institution | Provisions of Act applicable
 
 22 Laws of Malaysia ACT 174
 
-First Column Second Column Third Column Item No. Name or description of Institution Provisions of Act applicable 22. Institut Pendidikan Guru Kampus Sultan Abdul Halim The whole Act except sections 4, 17, 18, 19 and 20 23. Institut Pendidikan Guru Kampus Pulau Pinang The whole Act except sections 4, 17, 18, 19 and 20 24. Institut Pendidikan Guru Kampus Tuanku Bainun The whole Act except sections 4, 17, 18, 19 and 20 25. Institut Pendidikan Guru Kampus Ipoh The whole Act except sections 4, 17, 18, 19 and 20 26. Institut Pendidikan Guru Kampus Ilmu Khas The whole Act except sections 4, 17, 18, 19 and 20 27. Institut Pendidikan Guru Kampus Pendidikan Teknik The whole Act except sections 4, 17, 18, 19 and 20 28. Institut Pendidikan Guru Kampus Bahasa Antarabangsa The whole Act except sections 4, 17, 18, 19 and 20 29. Institut Pendidikan Guru Kampus Bahasa Melayu The whole Act except sections 4, 17, 18, 19 and 20 30. English Language Teaching Centre The whole Act except sections 4, 17, 18, 19 and 20 31. Institut Pendidikan Guru Kampus Pendidikan Islam The whole Act except sections 4, 17, 18, 19 and 20 32. Institut Pendidikan Guru Kampus Raja Melewar The whole Act except sections 4, 17, 18, 19 and 20 33. Institut Pendidikan Guru Kampus Perempuan Melayu The whole Act except sections 4, 17, 18, 19 and 20 34. Institut Pendidikan Guru Kampus Temenggong Ibrahim The whole Act except sections 4, 17, 18, 19 and 20 35. Institut Pendidikan Guru Kampus Tun Hussein Onn The whole Act except sections 4, 17, 18, 19 and 20 36. Institut Pendidikan Guru Kampus Tengku Ampuan Afzan The whole Act except sections 4, 17, 18, 19 and 20 37. Institut Pendidikan Guru Kampus Sultan Mizan The whole Act except sections 4, 17, 18, 19 and 20 38. Institut Pendidikan Guru Kampus Dato' Razali Ismail The whole Act except sections 4, 17, 18, 19 and 20 39. Institut Pendidikan Guru Kampus Kota Bharu The whole Act except sections 4, 17, 18, 19 and 20
+First Column | Second Column | Third Column
+--- | --- | ---
+Item No. | Name or description of Institution | Provisions of Act applicable
+22. | Institut Pendidikan Guru Kampus Sultan Abdul Halim | The whole Act except sections 4, 17, 18, 19 and 20
+23. | Institut Pendidikan Guru Kampus Pulau Pinang | The whole Act except sections 4, 17, 18, 19 and 20
+24. | Institut Pendidikan Guru Kampus Tuanku Bainun | The whole Act except sections 4, 17, 18, 19 and 20
+25. | Institut Pendidikan Guru Kampus Ipoh | The whole Act except sections 4, 17, 18, 19 and 20
+26. | Institut Pendidikan Guru Kampus Ilmu Khas | The whole Act except sections 4, 17, 18, 19 and 20
+27. | Institut Pendidikan Guru Kampus Pendidikan Teknik | The whole Act except sections 4, 17, 18, 19 and 20
+28. | Institut Pendidikan Guru Kampus Bahasa Antarabangsa | The whole Act except sections 4, 17, 18, 19 and 20
+29. | Institut Pendidikan Guru Kampus Bahasa Melayu | The whole Act except sections 4, 17, 18, 19 and 20
+30. | English Language Teaching Centre | The whole Act except sections 4, 17, 18, 19 and 20
+31. | Institut Pendidikan Guru Kampus Pendidikan Islam | The whole Act except sections 4, 17, 18, 19 and 20
+32. | Institut Pendidikan Guru Kampus Raja Melewar | The whole Act except sections 4, 17, 18, 19 and 20
+33. | Institut Pendidikan Guru Kampus Perempuan Melayu | The whole Act except sections 4, 17, 18, 19 and 20
+34. | Institut Pendidikan Guru Kampus Temenggong Ibrahim | The whole Act except sections 4, 17, 18, 19 and 20
+35. | Institut Pendidikan Guru Kampus Tun Hussein Onn | The whole Act except sections 4, 17, 18, 19 and 20
+36. | Institut Pendidikan Guru Kampus Tengku Ampuan Afzan | The whole Act except sections 4, 17, 18, 19 and 20
+37. | Institut Pendidikan Guru Kampus Sultan Mizan | The whole Act except sections 4, 17, 18, 19 and 20
+38. | Institut Pendidikan Guru Kampus Dato’ Razali Ismail | The whole Act except sections 4, 17, 18, 19 and 20
+39. | Institut Pendidikan Guru Kampus Kota Bharu | The whole Act except sections 4, 17, 18, 19 and 20
 
 [[END OF PAGE 22]]
 
@@ -630,53 +668,28 @@ Item No. | Name or description of Institution | Provisions of Act applicable
 
 24 Laws of Malaysia ACT 174
 
-First Column Second Column Third Column
-
-Item No. Name or description of Institution Provisions of Act applicable
-
-60. Kolej Matrikulasi Pulau Pinang The whole Act except sections 4, 17, 18, 19 and 20
-
-61. Kolej Matrikulasi Perlis The whole Act except sections 4, 17, 18, 19 and 20
-
-62. Kolej Matrikulasi Perak The whole Act except sections 4, 17, 18, 19 and 20
-
-63. Kolej Matrikulasi Johor The whole Act except sections 4, 17, 18, 19 and 20
-
-64. Politeknik Sultan Mizan Zainal Abidin, Terengganu The whole Act except sections 4, 17, 18, 19 and 20
-
-65. Politeknik Merlimau, Melaka The whole Act except sections 4, 17, 18, 19 and 20
-
-66. Politeknik Sultan Azlan Shah, Perak The whole Act except sections 4, 17, 18, 19 and 20
-
-67. Politeknik Tuanku Sultanah Bahiyah, Kedah The whole Act except sections 4, 17, 18, 19 and 20
-
-68. Kolej Komuniti Arau The whole Act except sections 4, 17, 18, 19 and 20
-
-69. Kolej Komuniti Bandar Darulaman The whole Act except sections 4, 17, 18, 19 and 20
-
-70.
-
-Kolej Komuniti Kepala Batas The whole Act except sections 4,
-
-17, 18, 19 and 20
-
-71. Kolej Komuniti Teluk Intan The whole Act except sections 4, 17, 18, 19 and 20
-
-72. Kolej Komuniti Sabak Bernam The whole Act except sections 4, 17, 18, 19 and 20
-
-73. Kolej Komuniti Jempol The whole Act except sections 4, 17, 18, 19 and 20
-
-74. Kolej Komuniti Bukit Beruang The whole Act except sections 4, 17, 18, 19 and 20
-
-75. Kolej Komuniti Segamat The whole Act except sections 4,
-
-17, 18, 19 and 20
-
-76. Kolej Komuniti Kuantan The whole Act except sections 4, 17, 18, 19 and 20
-
-77. Kolej Komuniti Kuala Terengganu The whole Act except sections 4, 17, 18, 19 and 20
-
-78. Kolej Komuniti Tawau The whole Act except sections 4, 17, 18, 19 and 20
+First Column | Second Column | Third Column
+--- | --- | ---
+Item No. | Name or description of Institution | Provisions of Act applicable
+60. | Kolej Matrikulasi Pulau Pinang | The whole Act except sections 4, 17, 18, 19 and 20
+61. | Kolej Matrikulasi Perlis | The whole Act except sections 4, 17, 18, 19 and 20
+62. | Kolej Matrikulasi Perak | The whole Act except sections 4, 17, 18, 19 and 20
+63. | Kolej Matrikulasi Johor | The whole Act except sections 4, 17, 18, 19 and 20
+64. | Politeknik Sultan Mizan Zainal Abidin, Terengganu | The whole Act except sections 4, 17, 18, 19 and 20
+65. | Politeknik Merlimau, Melaka | The whole Act except sections 4, 17, 18, 19 and 20
+66. | Politeknik Sultan Azlan Shah, Perak | The whole Act except sections 4, 17, 18, 19 and 20
+67. | Politeknik Tuanku Sultanah Bahiyah, Kedah | The whole Act except sections 4, 17, 18, 19 and 20
+68. | Kolej Komuniti Arau | The whole Act except sections 4, 17, 18, 19 and 20
+69. | Kolej Komuniti Bandar Darulaman | The whole Act except sections 4, 17, 18, 19 and 20
+70. | Kolej Komuniti Kepala Batas | The whole Act except sections 4, 17, 18, 19 and 20
+71. | Kolej Komuniti Teluk Intan | The whole Act except sections 4, 17, 18, 19 and 20
+72. | Kolej Komuniti Sabak Bernam | The whole Act except sections 4, 17, 18, 19 and 20
+73. | Kolej Komuniti Jempol | The whole Act except sections 4, 17, 18, 19 and 20
+74. | Kolej Komuniti Bukit Beruang | The whole Act except sections 4, 17, 18, 19 and 20
+75. | Kolej Komuniti Segamat | The whole Act except sections 4, 17, 18, 19 and 20
+76. | Kolej Komuniti Kuantan | The whole Act except sections 4, 17, 18, 19 and 20
+77. | Kolej Komuniti Kuala Terengganu | The whole Act except sections 4, 17, 18, 19 and 20
+78. | Kolej Komuniti Tawau | The whole Act except sections 4, 17, 18, 19 and 20
 
 [[END OF PAGE 24]]
 
@@ -718,49 +731,28 @@ ACT 174
 
 Laws of Malaysia
 
-First Column Second Column Third Column
-
-Item No. Name or description of Institution Provisions of Act applicable
-
-97. Kolej Komuniti Selandar The whole Act except sections 4, 17, 18, 19 and 20
-
-98. Kolej Komuniti Gerik The whole Act except sections 4, 17, 18, 19 and 20
-
-99. Kolej Komuniti Sungai Siput The whole Act except sections 4, 17, 18, 19 and 20 Kolej Komuniti Jasin
-
-100. The whole Act except sections 4, 17, 18, 19 and 20
-
-101. Kolej Komuniti Bandar Penawar The whole Act except sections 4, 17, 18, 19 and 20
-
-102. Politeknik Sultan Idris Shah The whole Act except sections 4, 17, 18, 19 and 20
-
-103. Politeknik Muadzam Shah The whole Act except sections 4, 17, 18, 19 and 20
-
-104. Politeknik Tuanku Syed Sirajuddin, Perlis The whole Act except sections 4, 17, 18, 19 and 20 105. Politeknik Mukah The whole Act except sections 4, 17, 18, 19 and 20
-
-106. Politeknik Balik Pulau The whole Act except sections 4, 17, 18, 19 and 20
-
-107. Politeknik Jeli, Kelantan The whole Act except sections 4, 17, 18, 19 and 20
-
-108. Politeknik Nilai, Negeri Sembilan The whole Act except sections 4, 17, 18, 19 and 20
-
-109.
-
-Politeknik Banting, Selangor The whole Act except sections 4,
-
-17, 18, 19 and 20
-
-110. Kolej Matrikulasi Pahang The whole Act except sections 4, 17, 18, 19 and 20
-
-111. Kolej Matrikulasi Kedah The whole Act except sections 4, 17, 18, 19 and 20
-
-112. Kolej Komuniti Pasir Gudang The whole Act except sections 4, 17, 18, 19 and 20
-
-113. Kolej Komuniti Kulim The whole Act except sections 4, 17, 18, 19 and 20
-
-114. Kolej Komuniti Langkawi The whole Act except sections 4, 17, 18, 19 and 20
-
-115. Kolej Komuniti Baling The whole Act except sections 4, 17, 18, 19 and 20
+First Column | Second Column | Third Column
+--- | --- | ---
+Item No. | Name or description of Institution | Provisions of Act applicable
+97. | Kolej Komuniti Selandar | The whole Act except sections 4, 17, 18, 19 and 20
+98. | Kolej Komuniti Gerik | The whole Act except sections 4, 17, 18, 19 and 20
+99. | Kolej Komuniti Sungai Siput | The whole Act except sections 4, 17, 18, 19 and 20
+100. | Kolej Komuniti Jasin | The whole Act except sections 4, 17, 18, 19 and 20
+101. | Kolej Komuniti Bandar Penawar | The whole Act except sections 4, 17, 18, 19 and 20
+102. | Politeknik Sultan Idris Shah | The whole Act except sections 4, 17, 18, 19 and 20
+103. | Politeknik Muadzam Shah | The whole Act except sections 4, 17, 18, 19 and 20
+104. | Politeknik Tuanku Syed Sirajuddin, Perlis | The whole Act except sections 4, 17, 18, 19 and 20
+105. | Politeknik Mukah | The whole Act except sections 4, 17, 18, 19 and 20
+106. | Politeknik Balik Pulau | The whole Act except sections 4, 17, 18, 19 and 20
+107. | Politeknik Jeli, Kelantan | The whole Act except sections 4, 17, 18, 19 and 20
+108. | Politeknik Nilai, Negeri Sembilan | The whole Act except sections 4, 17, 18, 19 and 20
+109. | Politeknik Banting, Selangor | The whole Act except sections 4, 17, 18, 19 and 20
+110. | Kolej Matrikulasi Pahang | The whole Act except sections 4, 17, 18, 19 and 20
+111. | Kolej Matrikulasi Kedah | The whole Act except sections 4, 17, 18, 19 and 20
+112. | Kolej Komuniti Pasir Gudang | The whole Act except sections 4, 17, 18, 19 and 20
+113. | Kolej Komuniti Kulim | The whole Act except sections 4, 17, 18, 19 and 20
+114. | Kolej Komuniti Langkawi | The whole Act except sections 4, 17, 18, 19 and 20
+115. | Kolej Komuniti Baling | The whole Act except sections 4, 17, 18, 19 and 20
 
 [[END OF PAGE 26]]
 
@@ -810,7 +802,8 @@ Item No. | Name or description of Institution | Provisions of Act applicable
 138. | Kolej Matrikulasi Selangor | The whole Act except sections 4, 17, 18, 19 and 20
 139. | Kolej Matrikulasi Kejuruteraan Pahang | The whole Act except sections 4, 17, 18, 19 and 20
 140. | Kolej Matrikulasi Kejuruteraan Kedah | The whole Act except sections 4, 17, 18, 19 and 20
-141. | Kolej Matrikulasi Kejuruteraan Johor | The whole Act except sections 4, 17, 18, 19 and 20 - 5 January 2011
+141. | Kolej Matrikulasi Kejuruteraan Johor | The whole Act except sections 4, 17, 18, 19 and 20
+- 5 January 2011
 142. | Kolej Komuniti Padang Terap | The whole Act except sections 4, 17, 18, 19 and 20
 143. | Kolej Komuniti Tasek Gelugor | The whole Act except sections 4, 17, 18, 19 and 20
 144. | Kolej Komuniti Seberang Jaya | The whole Act except sections 4, 17, 18, 19 and 20
@@ -821,7 +814,7 @@ Item No. | Name or description of Institution | Provisions of Act applicable
 149. | Kolej Komuniti Taiping | The whole Act except sections 4, 17, 18, 19 and 20
 150. | Kolej Komuniti Shah Alam | The whole Act except sections 4, 17, 18, 19 and 20
 151. | Kolej Komuniti Rembau | The whole Act except sections 4, 17, 18, 19 and 20
-152. | Kolej Komuniti Tampin | The whole Act except sections 4,
+152. | Kolej Komuniti Tampin | The whole Act except sections 4, 17, 18, 19 and 20
 
 [[END OF PAGE 28]]
 
@@ -876,11 +869,11 @@ ACT 174
 
 ###### Citation
 
-- These  Rules  may  be  cited  as  the  Educational  Institutions  (Discipline  of Students) Rules 1976.
+1. These Rules may be cited as the Educational Institutions (Discipline of Students) Rules 1976.
 
 ###### Interpretation
 
-- In these Rules, unless the context otherwise requires-
+2. In these Rules, unless the context otherwise requires—
 
 'authorized  person'  means  any  person  duly  authorized  to  act  on  behalf  of  the Institution;
 
@@ -910,7 +903,7 @@ Educational Institutions (Discipline)
 
 'gaming'  means  the  playing  of  any  game  of  chance,  or  of  skill,  or  of  mixed chance  and  skill,  for  money  or  money's  worth,  and  includes  any  wagering,  any betting or any lottery;
 
-'Head of Department' for the purpose of-
+'Head of Department' for the purpose of—
 
 (a) a government department means any officer who is responsible for any department, division or unit in the department and includes any other officer  who is authorized in writing by the officer who is responsible for  the  department,  division  or  unit  in  the  department  to  act  on  his behalf;
 
@@ -964,7 +957,7 @@ ACT 174
 
 ###### General prohibitions
 
-- A student shall not-
+3. A student shall not—
 
 (a) conduct himself, whether within or without the campus, in any manner which is detrimental or prejudicial to the interests, well-being or good name of the Institution, or to the interests, well-being or good name of any of the students, staff, officers, or employees of the Institution, or to public order, safety or security, or to morality, decency or discipline;
 
@@ -1022,9 +1015,9 @@ ACT 174
 
 6. A  student  shall  be  decently  or  appropriately  attired  while  attending  lecture, tutorial, examination, class, workshop or while involving or attending any activity either inside or outside campus or while present in any part of the campus.
 
-###### Appearance for examination s
+###### Appearance for examinations
 
-7. Where a student's course of study entails his appearance for an examination and he is not otherwise debarred from appearing for such examination, he shall not fail to  appear  for  such  examination  without  the  prior  permission  in  writing  of  the Executive Head, unless the circumstances do not permit such prior permission to be obtained and there is reasonable cause or excuse for the nonappearance, in which case  the  student  shall,  as  soon  as  possible  thereafter  in  writing,  satisfy  the Executive  Head,  with  regard  to  the  absence  and  obtain  approval  in  writing  in respect thereof.
+7. Where a student's course of study entails his appearance for an examination and he is not otherwise debarred from appearing for such examination, he shall not fail to appear for such examination without the prior permission in writing of the Executive Head, unless the circumstances do not permit such prior permission to be obtained and there is reasonable cause or excuse for the nonappearance, in which case the student shall, as soon as possible thereafter in writing, satisfy the
 
 [[END OF PAGE 34]]
 
@@ -1034,9 +1027,11 @@ Educational Institutions (Discipline)
 
 35
 
+Executive Head, with regard to the absence and obtain approval in writing in respect thereof.
+
 ###### Conduct during examination
 
-7A. No student shall-
+7A. No student shall—
 
 (a) take any book, paper, document, picture or other things, except those authorized  by  the  examiner,  into  or  out  of  an  examination  room,  or receive  any  book,  paper,  document,  picture  or  other  things  from  any other person while in the examination room, except that a student may, while he is in the examination room, receive from the invigilator such books,  papers,  documents,  pictures  or  other  things  which  have  been recommended by the examiner or Board of Examiners, and authorized by the Vice-Chancellor;
 
@@ -1066,17 +1061,17 @@ ACT 174
 
 8A. (1) A  student  shall  not  plagiarize  any  idea,  writing,  data  or  invention belonging to another person.
 
-- For the purposes of this rule, plagiarism includes-
+(2) For the purposes of this rule, plagiarism includes—
 
 (a) the act of taking an idea, writing, data or invention of another person and  claiming  that  the  idea,  writing,  data  or  invention  is  the  result  of one's own findings or creation; or
 
 (b) an attempt to make out or the act of making out, in such a way, that one is  the  original  source  or  the  creator  of  an  idea,  writing,  data  or invention which has actually been taken from some other source.
 
-- Without prejudice to the generality of subrule (2), a student plagiarizes when he-
+(3) Without prejudice to the generality of subrule (2), a student plagiarizes when he—
 
 (a) publishes, with himself as the author, an abstract, article, scientific or academic  paper,  or  book  which  is  wholly  or  partly  written  by  some other person;
 
-(b) incorporates  himself  or  allows  himself  to  be  incorporated  as  a  coauthor  of  an  abstract,  article,  scientific  or  academic  paper,  or  book, when he has not at all made  any  written contribution to  the  abstract, article, scientific or academic paper, or book;
+(b) incorporates himself or allows himself to be incorporated as a co-author of an abstract, article, scientific or academic paper, or book, when he has not at all made any written contribution to the abstract, article, scientific or academic paper, or book;
 
 (c) forces another person to include his name in the list of co-researchers for  a  particular  research  project  or  in  the  list  of  co-authors  for  a publication when he has not made any contribution which may qualify him as a co-researcher or co-author;
 
@@ -1124,9 +1119,9 @@ ACT 174
 
 38
 
-###### Making, using, displaying, owning, etc., of banners, placards , etc.
+###### Making, using, displaying, owning, etc., of banners, placards, etc.
 
-- No student, and no organization, body or group of students, shall-
+11. No student, and no organization, body or group of students, shall—
 
 (a) make or cause to be made or do any act towards making or causing to be made; or
 
@@ -1134,13 +1129,13 @@ ACT 174
 
 (c) own  or  have  in  his  or  its  possession,  custody  or  control,  any  flag, banner, placard, poster, emblem or other device which is conducive to the promotion of indiscipline, disorder, disobedience or contravention of these Rules.
 
-###### Publication , etc., of documents
+###### Publication, etc., of documents
 
-12. (1) No  student,  and  no  organization,  body  or  group  of  students,  shall publish, distribute or circulate any document within or without the campus:
+12. (1) No student, and no organization, body or group of students, shall publish, distribute or circulate any document within or without the campus:
 
-Provided that the Executive Head, or a person authorized by him in writing, may permit in writing the publication, distribution or circulation of a particular document for such purposes and subject to such restrictions, terms or conditions as the  Executive  Head  or  the  person  authorized  by  him  as  aforesaid  may  deem necessary or expedient to impose in granting such permission.
+Provided that the Executive Head, or a person authorized by him in writing, may permit in writing the publication, distribution or circulation of a particular document for such purposes and subject to such restrictions, terms or conditions as the Executive Head or the person authorized by him as aforesaid may deem necessary or expedient to impose in granting such permission.
 
-- The permission required under this rule shall be in addition to any licence, permit or any other form of authorization which may be required under any other written law.
+(2) The permission required under this rule shall be in addition to any licence, permit or any other form of authorization which may be required under any other written law.
 
 ###### Student's activities outside campus
 
@@ -1176,7 +1171,7 @@ Educational Institutions (Discipline)
 
 (2)  Any student who is found in a state of drunkenness within the campus shall be guilty of a disciplinary offence.
 
-###### Obscene article s
+###### Obscene articles
 
 19. (1) No student shall,  within the  campus, have in  his possession or under his custody or control any obscene article.
 
@@ -1282,9 +1277,9 @@ And provided further that this paragraph shall not be deemed to prohibit a stude
 
 ###### Remaining outside hostel at night
 
-- A resident student shall not, after 11.00 p.m., remain outside the hostel except with permission given by or on behalf of the Warden.
+29. A resident student shall not, after 11.00 p.m., remain outside the hostel except with permission given by or on behalf of the Warden.
 
-###### Remaining within hostel premises after 11.00 p.m .
+###### Remaining within hostel premises after 11.00 p.m.
 
 30. After 11.00 p.m., save for resident students in their respective hostel, no other student shall remain within the hostel premises except with permission given by or on behalf of the Warden.
 
@@ -1304,7 +1299,7 @@ Educational Institutions (Discipline) 43
 
 (4)  No student shall have in his possession or under his custody or control any type of animal in his room or the hostel premises.
 
-###### Student not to change room without prior permissio n
+###### Student not to change room without prior permission
 
 32. Where a student is allotted a room for his residence by the Institution, he shall not change his residence to any other room without the prior permission in writing given by or on behalf of the Warden
 
@@ -1366,9 +1361,9 @@ Educational Institutions (Discipline)
 
 ###### Motor vehicles to be driven only on carriageway of road
 
-38. No student shall drive a motor vehicle on any place other than on that part of the  road  which  is  used  as  a  carriageway  for  the  passage  of  motor  vehicles;  in particular,  no  motor  vehicle  shall  be  driven  by  a  student  on  the  pavement,  sidetable,  grass  verge,  footpath  or  other  place,  whether  alongside  the  carriageway  or otherwise, which is not ordinarily intended or specifically provided for the passage of motor vehicles.
+38. No student shall drive a motor vehicle on any place other than on that part of the road which is used as a carriageway for the passage of motor vehicles; in particular, no motor vehicle shall be driven by a student on the pavement, side-table, grass verge, footpath or other place, whether alongside the carriageway or otherwise, which is not ordinarily intended or specifically provided for the passage of motor vehicles.
 
-###### Driving vehicles on corridors, etc .
+###### Driving vehicles on corridors, etc.
 
 39. No student shall drive or ride any vehicle on any corridor, verandah, fivefoot way, courtyard or in any part of any building.
 
@@ -1400,21 +1395,21 @@ ACT 174
 
 ###### Traffic directions and signs to be complied with
 
-- A student shall comply with all traffic directions and with all traffic signs.
+43. A student shall comply with all traffic directions and with all traffic signs.
 
 ###### Production of driving licence and Student Card on demand
 
-- Any student who is driving or is in charge or control of a vehicle shall carry with him a valid driving licence issued to him under the Road Transport Act 1987 [ Act  333 ]  and  his  Student  Card  and  shall  produce  same  for  inspection  by  an authorized person whenever required to do so.
+44. Any student who is driving or is in charge or control of a vehicle shall carry with him a valid driving licence issued to him under the Road Transport Act 1987 [Act 333] and his Student Card and shall produce same for inspection by an authorized person whenever required to do so.
 
 ###### Obstruction to traffic flow
 
-- A student shall not conduct himself in any manner, or do any act, which obstructs or interferes with the smooth and orderly movement of traffic within the campus.
+45. A student shall not conduct himself in any manner, or do any act, which obstructs or interferes with the smooth and orderly movement of traffic within the campus.
 
 ###### Application of Road Transport Act 1987 in the campus
 
-(1) The Road Transport Act 1987 and all subsidiary legislation made thereunder shall  apply  to  students  within  the  campus  as  if  the  roads  within  the  campus  are public roads within the Federal Territory and the offences under the said Act and the  subsidiary legislation  made thereunder are disciplinary offences  in relation to students and punishable as such, and every student shall, accordingly, comply with such provisions within the campus.
+46. (1) The Road Transport Act 1987 and all subsidiary legislation made thereunder shall apply to students within the campus as if the roads within the campus are public roads within the Federal Territory and the offences under the said Act and the subsidiary legislation made thereunder are disciplinary offences in relation to students and punishable as such, and every student shall, accordingly, comply with such provisions within the campus.
 
-- Nothing  in  subparagraph  (1)  shall  derogate  from  the  liability  within  the campus of any student or other person for any offence under the Road Transport Act 1987 or any subsidiary legislation made thereunder.
+(2) Nothing in subparagraph (1) shall derogate from the liability within the campus of any student or other person for any offence under the Road Transport Act 1987 or any subsidiary legislation made thereunder.
 
 ###### Summary disciplinary punishment by disciplinary authority
 
@@ -1478,23 +1473,23 @@ from being a student of the Institution and shall not thereafter remain in or en
 
 ###### Facts of disciplinary offence to be explained and plea taken
 
-- At  the  disciplinary  proceeding  in  the  disciplinary  room,  the  disciplinary authority shall explain to the student the facts of the disciplinary offence alleged to have been committed by the student and call upon him to plead thereto.
+51. At the disciplinary proceeding in the disciplinary room, the disciplinary authority shall explain to the student the facts of the disciplinary offence alleged to have been committed by the student and call upon him to plead thereto.
 
 ###### Plea of guilty and consequential procedure
 
-- If the student pleads guilty the disciplinary authority shall explain to him the facts of the case; if he admits these facts the disciplinary authority shall pronounce him guilty of the disciplinary offence and invite him to make any plea he may wish to make for lenient punishment.
+52. If the student pleads guilty the disciplinary authority shall explain to him the facts of the case; if he admits these facts the disciplinary authority shall pronounce him guilty of the disciplinary offence and invite him to make any plea he may wish to make for lenient punishment.
 
 ###### Procedure for hearing where student pleads not guilty
 
-- If the student pleads that he is not guilty of the disciplinary offence or fails or refuses to plead or does not admit the facts of the case, the disciplinary authority shall examine any witness or any document or other article whatsoever in support of  the  case  against  the  student;  the  student  shall  be  given  the  chance  to  question such  witness  and  inspect  such  document  or  article,  and  the  disciplinary  authority may re-examine such witness.
+53. If the student pleads that he is not guilty of the disciplinary offence or fails or refuses to plead or does not admit the facts of the case, the disciplinary authority shall examine any witness or any document or other article whatsoever in support of the case against the student; the student shall be given the chance to question such witness and inspect such document or article, and the disciplinary authority may re-examine such witness.
 
 ###### Student's evidence
 
-- After the evidence referred to in rule 53 has been received, the student shall be given the chance to give his evidence, call any witness or produce any document or other article whatsoever in his defence; the disciplinary authority may question the student or any of his witnesses and inspect any such document or article, and the student may re-examine any of his witnesses.
+54. After the evidence referred to in rule 53 has been received, the student shall be given the chance to give his evidence, call any witness or produce any document or other article whatsoever in his defence; the disciplinary authority may question the student or any of his witnesses and inspect any such document or article, and the student may re-examine any of his witnesses.
 
 ###### Power of disciplinary authority to question or recall witness
 
-- The  disciplinary  authority  may  question  or  recall  any  witness  at  any  time before it has pronounced its decision.
+55. The disciplinary authority may question or recall any witness at any time before it has pronounced its decision.
 
 [[END OF PAGE 48]]
 
@@ -1560,7 +1555,7 @@ ACT 174
 
 ###### Order to pay compensation
 
-65. (1)  Where  any  punishment  is  imposed  on  a  student  under  rule  57,  the disciplinary authority may, in addition, order the student to pay such compensation as it may fix in respect of any damage to any property or any loss or injury to any person for which the disciplinary authority may find the student, in the course of the  disciplinary  proceeding,  to  be  responsible;  a  student  may  be  ordered  to  pay compensation  under  this  paragraph  regardless  whether  the  property  which  is damaged belongs to the Institution or to any other person.
+65. (1) Where any punishment is imposed on a student under rule 57, the disciplinary authority may, in addition, order the student to pay such compensation
 
 [[END OF PAGE 50]]
 
@@ -1570,7 +1565,9 @@ Educational Institutions (Discipline)
 
 51
 
-(2)  The  amount  of  compensation  fixed  by  the  disciplinary  authority  under subparagraph  (1)  shall  be  a  just  and  reasonable  amount  having  regard  to  all  the circumstances of the case and of the persons involved therein.
+as it may fix in respect of any damage to any property or any loss or injury to any person for which the disciplinary authority may find the student, in the course of the disciplinary proceeding, to be responsible; a student may be ordered to pay compensation under this paragraph regardless whether the property which is damaged belongs to the Institution or to any other person.
+
+(2) The amount of compensation fixed by the disciplinary authority under subparagraph (1) shall be a just and reasonable amount having regard to all the circumstances of the case and of the persons involved therein.
 
 (3) The compensation fixed under subparagraph (1) shall be paid by the student to the Bursar within such period as the disciplinary authority may specify.
 
@@ -1578,11 +1575,11 @@ Educational Institutions (Discipline)
 
 (5)  The  Bursar  shall  pay  out  the  compensation  paid  by  the  student  under subparagraph (3) to such person as the disciplinary authority may certify as being entitled to receive payment thereof.
 
-- Any compensation payable or paid under this rule shall be without prejudice to  the  right  of  any  person  to  institute  civil  proceedings  in  a  court  of  law  for damages or compensation in  respect  of  the  damage,  loss  or  injury  referred  to  in subparagraph (1), or the right of any person to receive any payment  or compensation under any other written law in respect of such damage, loss or injury.
+(6) Any compensation payable or paid under this rule shall be without prejudice to the right of any person to institute civil proceedings in a court of law for damages or compensation in respect of the damage, loss or injury referred to in subparagraph (1), or the right of any person to receive any payment or compensation under any other written law in respect of such damage, loss or injury.
 
 ###### Persons who may be present at a disciplinary proceeding
 
-- No person shall be present at a disciplinary proceeding except-
+66. No person shall be present at a disciplinary proceeding except—
 
 (a) the disciplinary authority and its staff;
 
@@ -1598,17 +1595,21 @@ Educational Institutions (Discipline)
 
 [[START OF PAGE 52]]
 
+52
+
 Laws of Malaysia
 
 ACT 174
 
-52
+#### PART VI
+
+##### APPEALS
 
 ###### Appeal
 
-67. (1) Where  a  student  is  dissatisfied with  a  decision  of  a disciplinary authority, he may submit in writing of his intention to appeal in duplicate through the  Students'  Affairs  Officer  within  fourteen  days  from  the  date  on  which  the decision was given.
+67. (1) Where a student is dissatisfied with a decision of a disciplinary authority, he may submit in writing of his intention to appeal in duplicate through the Students' Affairs Officer within fourteen days from the date on which the decision was given.
 
-- The notice of appeal shall set out clearly the grounds of appeal.
+(2) The notice of appeal shall set out clearly the grounds of appeal.
 
 ###### Transmission of appeal to Minister
 
@@ -1616,19 +1617,15 @@ ACT 174
 
 ###### Action by Minister on appeal
 
-69. (1) The Minister may, on receiving the notice of appeal and the notes of the disciplinary  proceeding  from  the  Students'  Affairs  Officer,  call  for  such  further information or particulars in relation to the disciplinary proceeding as he may deem fit.
+69. (1) The Minister may, on receiving the notice of appeal and the notes of the disciplinary proceeding from the Students' Affairs Officer, call for such further information or particulars in relation to the disciplinary proceeding as he may deem fit.
 
-(2) If  the  Minister  summarily  rejects  the  appeal  under  subsection  5(4),  the decision  of  the  Minister  shall  be  conveyed  to  the  student  through  the  Students' Affairs Officer.
+(2) If the Minister summarily rejects the appeal under subsection 5(4), the decision of the Minister shall be conveyed to the student through the Students' Affairs Officer.
 
-(3)   Where the Minister appoints a committee under subsection 5(5) consider the appeal, the Minister's decision on the appeal made after receiving the recommendations of the committee shall be communicated to the student through the Students' Affairs Officer.
+(3) Where the Minister appoints a committee under subsection 5(5) consider the appeal, the Minister's decision on the appeal made after receiving the recommendations of the committee shall be communicated to the student through the Students' Affairs Officer.
 
 ###### Appeal not to operate as stay of execution
 
-70. An  appeal  by  a  student  shall  not  operate  as  a  stay  of  execution  of  the punishment imposed under rule 57 or as a stay of the payment of any compensation ordered  to  be  paid  under  rule  65,  unless  the  Students'  Affairs  Officer  or  the Minister otherwise directs.
-
-#### PART VI
-
-##### APPEALS
+70. An appeal by a student shall not operate as a stay of execution of the punishment imposed under rule 57 or as a stay of the payment of any compensation ordered to be paid under rule 65, unless the Students' Affairs Officer or the Minister otherwise directs.
 
 [[END OF PAGE 52]]
 
@@ -1652,7 +1649,7 @@ Educational Institutions (Discipline)
 
 ###### Presumptions
 
-72 . In any disciplinary proceeding against a student-
+72. In any disciplinary proceeding against a student—
 
 (a) it shall not be necessary to prove that an organization, body or group of students possesses a name or that it has been constituted or is usually known under a particular name;
 
@@ -1722,17 +1719,17 @@ Educational Institutions (Discipline)
 
 #### Decisions by majority vote
 
-4. The SRC's decisions shall be taken by a majority vote with not less than twothird of the members being present and voting.
+4. The SRC's decisions shall be taken by a majority vote with not less than two-third of the members being present and voting.
 
 [[END OF PAGE 55]]
 
 [[START OF PAGE 56]]
 
+56
+
 Laws of Malaysia
 
 ACT 174
-
-56
 
 #### Ad hoc committees
 
@@ -1744,7 +1741,7 @@ ACT 174
 
 #### Objects and functions of the SRC
 
-7. The objects and functions of the SRC shall be-
+7. The objects and functions of the SRC shall be—
 
 (a) to assist and encourage, subject to the direction of the Executive Head, the development of facilities for students such as recreational facilities and the supply of meals and refreshments;
 
@@ -1788,9 +1785,9 @@ Educational Institutions (Discipline)
 
 11. The records of the SRC or of an ad hoc committee of the SRC shall at all times be open to inspection by the Executive Head or his representative.
 
-#### Definition of 'student' for the purpose of this Schedule
+#### Definition of “student” for the purpose of this Schedule
 
-12. For the purpose of this Schedule 'student' means a person, other than a public officer, following a course of study in the Institution:
+12. For the purpose of this Schedule “student” means a person, other than a public officer, following a course of study in the Institution:
 
 Provided  that  a  person  shall  cease  to  be  a  student  within  the  meaning  of  this paragraph  from  the  date  on  which  the  final  examination  for  his  course  of  study commences, if he sits for such examination.
 
@@ -1798,11 +1795,11 @@ Provided  that  a  person  shall  cease  to  be  a  student  within  the  meanin
 
 [[START OF PAGE 58]]
 
+58
+
 Laws of Malaysia
 
 ACT 174
-
-58
 
 #### Disputes as to elections
 
@@ -1822,6 +1819,18 @@ Act 174
 
 ## LIST OF AMENDMENTS
 
+Amending law | Short title | In force from
+--- | --- | ---
+P.U. (A) 73/1980 | Educational Institutions (Discipline) (First Schedule) (Amendment) Order 1980 | 28-03-1980
+P.U. (A) 247/1984 | Educational Institutions (Discipline) (First Schedule) (Amendment) Order 1984 | 06-07-1984
+P.U. (A) 115/1985 | Educational Institutions (Discipline) (First Schedule) (Amendment) Order 1985 | 15-03-1985
+P.U. (A) 376/1986 | Educational Institutions (Discipline) (First Schedule) (Amendment) Order 1986 | 31-10-1986
+P.U. (A) 165/1991 | Educational Institutions (Discipline) (Amendment) Order 1991 | 26-04-1991
+P.U. (A) 57/1995 | Educational Institutions (Discipline) (Amendment of First Schedule) Order 1995 | 17-02-1995
+P.U. (A) 536/1997 | Educational Institutions (Discipline) (First Schedule) (Amendment) Order 1997 | 01-01-1998
+P.U. (A) 537/1997 | Educational Institutions (Discipline of Students) Rules (Amendment) Order 1997 | 01-01-1998
+P.U. (A) 538/1997 | Educational Institutions | 01-01-1998
+
 [[END OF PAGE 59]]
 
 [[START OF PAGE 60]]
@@ -1830,7 +1839,7 @@ Act 174
 
 Amending law | Short title | In force from
 --- | --- | ---
-(Discipline) (Third Schedule) (Amendment) Order 1997
+ | (Discipline) (Third Schedule) (Amendment) Order 1997 | 
 P.U. (A) 160/1998 | Educational Institutions (Discipline of Students) Rules (Amendment) Order 1997 | 31-12-1997
 P.U. (A) 247/1999 | Educational Institutions (Discipline) (First Schedule) (Amendment) Order 1999 | 11-06-1999
 P.U. (A) 345/2000 | Educational Institutions (Discipline) (First Schedule) (Amendment) Order 2000 | 01-01-2000
@@ -1876,7 +1885,7 @@ Act A1375 | Educational Institutions (Discipline) (Amendment) Act 2010 | 01-12-2
 P.U. (A) 260/2011 | Educational Institutions (Discipline) (Amendment of First Schedule) Order 2011 | See para.1 of P.U. (A) 260/2011
 Act A1435 | Educational Institutions (Discipline) (Amendment) Act 2012 | 01-08-2012
 P.U. (A) 124/2015 | Educational Institutions (Discipline) (Amendment of First Schedule) Order 2015 | 16-06-2015
-Act A1584 | Educational Institutions (Discipline) (Amendment) Act 2019 | 15-03-2015
+Act A1584 | Educational Institutions (Discipline) (Amendment) Act 2019 | 15-03-2019
 P.U. (A) 125/2019 | Educational Institutions (Discipline) (Amendment of First Schedule) Order 2019 | 23-05-2018
 
 _____________
@@ -1884,6 +1893,8 @@ _____________
 [[END OF PAGE 62]]
 
 [[START OF PAGE 63]]
+
+63
 
 LAWS OF MALAYSIA
 
@@ -1893,77 +1904,66 @@ Act 174
 
 ## LIST OF SECTIONS AMENDED
 
-- Section Amending authority In force from
-
-2 Act A1375 Act A1435 01-12-2010 01-08-2012
-
-- 4 Act A1375 01-12-2010
-
-- 5 Act A1375 01-12-2010
-
-- 9 Act A1375 01-12-2010
-
-10 Act A1375 Act A1435 Act A1584 01-12-2010 01-08-2012 15-03-2019
-
-- 11 Act A1375 01-12-2010
-
-12
-
-Act A1375
-
-01-12-2010
-
-- 13 Act A1375 01-12-2010
-
-- 14 Act A1375 01-12-2010
-
-- 15 Act A1375 01-12-2010
-
-- 16 Act A1375 01-12-2010
-
-- 21 Act A1375 01-12-2010
-
-First Schedule P.U. (A) 73/1980 P.U. (A) 247/1984 P.U. (A) 115/1985 P.U. (A) 165/1991 P.U. (A) 57/1995 28-03-1980 06-07-1984 15-05-1985 26-04-1991 17-02-1995
-
-63
+Section | Amending authority | In force from
+--- | --- | ---
+2 | Act A1375 | 01-12-2010
+ | Act A1435 | 01-08-2012
+4 | Act A1375 | 01-12-2010
+5 | Act A1375 | 01-12-2010
+9 | Act A1375 | 01-12-2010
+10 | Act A1375 | 01-12-2010
+ | Act A1435 | 01-08-2012
+ | Act A1584 | 15-03-2019
+11 | Act A1375 | 01-12-2010
+12 | Act A1375 | 01-12-2010
+13 | Act A1375 | 01-12-2010
+14 | Act A1375 | 01-12-2010
+15 | Act A1375 | 01-12-2010
+16 | Act A1375 | 01-12-2010
+21 | Act A1375 | 01-12-2010
+First Schedule | P.U. (A) 73/1980 | 28-03-1980
+ | P.U. (A) 247/1984 | 06-07-1984
+ | P.U. (A) 115/1985 | 15-03-1985
+ | P.U. (A) 165/1991 | 26-04-1991
+ | P.U. (A) 57/1995 | 17-02-1995
 
 [[END OF PAGE 63]]
 
 [[START OF PAGE 64]]
 
-ACT 174
-
 64
 
 Laws of Malaysia
 
+ACT 174
+
 Section | Amending authority | In force from
 --- | --- | ---
-P.U. (A) 536/1997 | 01-01-1998
-P.U. (A) 247/1999 | 11-06-1999
-P.U. (A) 345/2000 | 01-01-2000
-P.U. (A) 452/2000 | 01-01-2000
-P.U. (A) 484/2000 | 29-12-2000
-P.U. (A) 102/2001 | 01-01-2000
-P.U. (A) 103/2001 | 01-01-2000
-P.U. (A) 104/2001 | 13-04-2001
-P.U. (A) 423/2002 | 25-10-2002
-P.U. (A) 468/2002 | 01-06-2002
-P.U. (A) 484/2002 | 13-12-2002
-P.U. (A) 23/2003 | 24-01-2003
-P.U. (A) 24/2003 | 01-04-2002
-P.U. (A) 299/2003 | 08-08-2003
-P.U. (A) 322/2006 | 01-09-2006
-P.U. (A) 266/2007 | 02-08-2007
-P.U. (A) 256/2008 | 25-07-2008
-P.U. (A) 308/2008 | 12-09-2008
-P.U. (A) 341/2009 | 18-09-2009
-P.U. (A) 358/2009 | 09-10-2009
-P.U. (A) 260/2011 | See para. 1 of P.U. (A) 260/2011
-P.U. (A) 124/2015 | 16-06-2015
-P.U. (A) 125/2019 | 23-05-2018
+ | P.U. (A) 536/1997 | 01-01-1998
+ | P.U. (A) 247/1999 | 11-06-1999
+ | P.U. (A) 345/2000 | 01-01-2000
+ | P.U. (A) 452/2000 | 01-01-2000
+ | P.U. (A) 484/2000 | 29-12-2000
+ | P.U. (A) 102/2001 | 01-01-2000
+ | P.U. (A) 103/2001 | 01-01-2000
+ | P.U. (A) 104/2001 | 13-04-2001
+ | P.U. (A) 423/2002 | 25-10-2002
+ | P.U. (A) 468/2002 | 01-06-2002
+ | P.U. (A) 484/2002 | 13-12-2002
+ | P.U. (A) 23/2003 | 24-01-2003
+ | P.U. (A) 24/2003 | 01-04-2002
+ | P.U. (A) 299/2003 | 08-08-2003
+ | P.U. (A) 322/2006 | 01-09-2006
+ | P.U. (A) 266/2007 | 02-08-2007
+ | P.U. (A) 256/2008 | 25-07-2008
+ | P.U. (A) 308/2008 | 12-09-2008
+ | P.U. (A) 341/2009 | 18-09-2009
+ | P.U. (A) 358/2009 | 09-10-2009
+ | P.U. (A) 260/2011 | See para. 1 of P.U. (A) 260/2011
+ | P.U. (A) 124/2015 | 16-06-2015
+ | P.U. (A) 125/2019 | 23-05-2018
 Second Schedule | P.U. (A) 537/1997 | 01-01-1998
-P.U. (A) 436/2007 | 28-12-2007
+ | P.U. (A) 436/2007 | 28-12-2007
 Third Schedule | P.U. (A) 538/1997 | 01-01-1998
 
 _____________
