@@ -1,4 +1,6 @@
 [[START OF PAGE 1]]
+NORWEGIAN MINISTRY
+OF EDUCATION AND RESEARCH
 
 Policy Plan
 
@@ -11,6 +13,8 @@ Revised January 2007
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+NORWEGIAN MINISTRY
+OF EDUCATION AND RESEARCH
 
 Policy Plan
 
@@ -30,19 +34,20 @@ Open Doors!
 
 Norway is a small language community and therefore needs many people with good linguistic skills. I will make every effort to reinforce the position of languages in schools and would like as many pupils as possible to choose a second foreign language in addition to English. I would also like pupils at all levels to become as proficient as possible in English. In addition I wish to stimulate measures to allow pupils to develop their mother tongue. Plurilingualism is an asset in a globalised world.
 
-The Knowledge Promotion has given the pupils an opportunity to choose between several languages at lower secondary school. In addition to German, French, Russian or Spanish, or any other foreign language the school is able to offer, the pupil may choose in-depth studies in English or Norwegian. From the autumn of 2007 in-depth studies in Sami will also be possible. Recent statistics show that in the autumn of 2006 about 20,000 more pupils chose a second foreign language at lower secondary school compared to earlier years. In other words, roughly five out of six pupils choose foreign languages. By far the greatest majority of those who choose  in-depth language studies choose English. In sum, this is an extensive national foreign language promotion designed to open doors for many people.
+The Knowledge Promotion has given the pupils an opportunity to choose between several languages at lower secondary school. In addition to German, French, Russian or Spanish, or any other foreign language the school is able to offer, the pupil may choose in-depth studies in English or Norwegian. From the autumn of 2007 in-depth studies in Sami will also be possible. Recent statistics show that in the autumn of 2006 about 20,000 more pupils chose a second foreign language at lower secondary school compared to earlier years. In other words, roughly five out of six pupils choose foreign languages. By far the greatest majority of those who choose in-depth language studies choose English. In sum, this is an extensive national foreign language promotion designed to open doors for many people.
 
-Earlier, many pupils have chosen not to continue foreign languages after the 8 th  and 9 th  grades. There may have been several reasons for this, inter alia the diffuse status of the subject and that it has had no significance for admission to upper secondary education. This has now changed. One major reason for pupils opting out may also have been the actual teaching practice that has mainly concentrated on learning about the foreign language, not communicating in it.  In vocational education and training it is a special challenge to make the teaching of English topical and relevant for pupils. The key is adapted teaching that lets pupils learn in different ways. If pupils find foreign language teaching interesting and useful, we will, in a few years, be much better equipped to meet the communication challenges of the future.
+Earlier, many pupils have chosen not to continue foreign languages after the 8th and 9th grades. There may have been several reasons for this, inter alia the diffuse status of the subject and that it has had no significance for admission to upper secondary education. This has now changed. One major reason for pupils opting out may also have been the actual teaching practice that has mainly concentrated on learning about the foreign language, not communicating in it. In vocational education and training it is a special challenge to make the teaching of English topical and relevant for pupils. The key is adapted teaching that lets pupils learn in different ways. If pupils find foreign language teaching interesting and useful, we will, in a few years, be much better equipped to meet the communication challenges of the future.
 
-Adapted language teaching presupposes teachers with good language skills and insight into teaching methods, and the shortage of qualified language teachers gives cause for concern. The large increase in the number of pupils now choosing foreign language tuition brings new challenges. I will therefore intensify efforts to increase the competence of teachers in practically oriented foreign language teaching, by providing teachers with a new further education programme from the autumn of 2007.  This is only one of many good measures in Languages Open Doors .
+Adapted language teaching presupposes teachers with good language skills and insight into teaching methods, and the shortage of qualified language teachers gives cause for concern. The large increase in the number of pupils now choosing foreign language tuition brings new challenges. I will therefore intensify efforts to increase the competence of teachers in practically oriented foreign language teaching, by providing teachers with a new further education programme from the autumn of 2007. This is only one of many good measures in Languages Open Doors.
 
 I wish you all good luck with this extensive foreign language promotion!
 
 Oslo, 20 December 2006
 
-Øystein Djupedal Minister of Education and Research
+Øystein Djupedal
+Minister of Education and Research
 
-
+5
 
 [[END OF PAGE 3]]
 
@@ -50,13 +55,119 @@ Oslo, 20 December 2006
 
 # Contents
 
-
+Foreword 5
+
+Contents 6
+
+Introduction 8
+
+Chapter 1 Survey of Objectives and Measures 10
+
+Chapter 2 Description of the Current Situation 14
+
+1. A national perspective 14
+
+The demand for foreign language competence in the community 14
+
+The situation of foreign languages in primary and secondary education 16
+
+Training, recruitment and improved competence for foreign language teachers 22
+
+Teaching other subjects through foreign languages, the foreign language as the language of teaching 24
+
+International programmes 25
+
+Digital skills in foreign languages 28
+
+Research and development work in Norway 29
+
+2. An international perspective 30
+
+The Nordic countries 30
+
+The demand for foreign languages – the EU and the Council of Europe 30
+
+The EU’s Action Plan for Language Learning 31
+
+EU educational programmes 32
+
+The Council of Europe’s activities to promote languages 33
+
+Chapter 3 Objectives and Measures 38
+
+1. Greater diversity and breadth in foreign language teaching 38
+
+1.1 More schools offer teaching of foreign languages other than English at the primary level 38
+
+1.2 More schools offer more foreign languages, also non-European languages 39
+
+1.3 More adults are offered basic training in foreign languages 41
+
+2 Improved quality in foreign language teaching 42
+
+2.1 Foreign language teaching is differentiated and adapted to the pupils’ abilities 42
+
+2.2 Foreign language teaching has a practical approach 43
+
+2.3 More teachers make use of portfolios in teaching and assessment 44
+
+2.4 More pupils and apprentices show increased digital competence in planning, carrying out and assessing the foreign language learning 45
+
+6
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-
+3 Increased recruitment and improved competence for foreign language teachers 46
+
+3.1 Increased recruitment to language studies of students who wish to become teachers 46
+
+3.2 More further and supplementary teacher training in foreign languages 46
+
+3.3 Wider supply of courses in foreign languages with didactics 48
+
+4 Increased knowledge about the demand for foreign language competence 49
+
+4.1 Increased knowledge in the education sector and the community about the value of learning foreign languages for the development of culture, democracy and mobility 49
+
+4.2 Increased knowledge among parents and pupils about foreign languages and the consequences of choosing languages 50
+
+4.3 Increased use of internationally acknowledged documentation tools for foreign language competence for pupils and apprentices and in working life 51
+
+4.4 Increased knowledge about society’s demand for other foreign languages than English 51
+
+5 Strengthened internationalisation in foreign language teaching 52
+
+5.1 Better use of existing bilateral agreements with relevant target language countries 52
+
+5.2 More bilateral agreements with relevant target language countries 53
+
+5.3 Better use of international cooperation programmes 53
+
+6 Increased research and development work in foreign languages 54
+
+6.1 More research in central aspects of foreign languages 54
+
+6.2 More research and development work on foreign languages in teacher training institutions 54
+
+Chapter 4 The Main Partners 56
+
+The Norwegian Centre for Foreign Languages in Education 56
+
+The Norwegian Centre for International Cooperation in Higher Education (SIU) 57
+
+The National Institute for Adult Learning (Vox) 58
+
+The Norwegian Directorate for Education and Training 58
+
+Network for Competence Development 59
+
+References 60
+
+Useful Links 62
+
+7
 
 [[END OF PAGE 5]]
 
@@ -72,9 +183,9 @@ Internationally Norwegian is a language understood by very few people, so both d
 
 Most people agree that it is practical to learn and know English, and Norwegian pupils consider English an important subject. However there are still many people in Norway who think that foreign languages in school are theoretical subjects. In 2003 a report from an expert group appointed by the Council of Europe pointed out that any subject can be made more or less theoretical or practical and that research has shown no reasons for claiming that some subjects are more theoretical than others. 1 The Government supports activities giving foreign language teaching a more practical approach, so that the pupils may use the language from the very first lesson. The most important thing about learning a language is acquiring skills in it, not knowledge about it.
 
-1 Language Education Policy Profile for Norway, the Council of Europe/ The Ministry of Education and Research 2003 - 2004
+1 Language Education Policy Profile for Norway, the Council of Europe/ The Ministry of Education and Research 2003 – 2004
 
-
+8
 
 [[END OF PAGE 6]]
 
@@ -108,25 +219,19 @@ Chapter 1 provides an overview of the policy's objectives and measures. Chapter 
 
 ## Responsibility for Follow-up and Implementation
 
-The revised version of Languages Open Doors (20072009) is to follow up measures from the first version and contribute to the realisation of the political objectives of the Government's Soria Moria Declaration . It is also connected to the White Paper no. 30 called Culture for Learning (2003-2004) and the Knowledge Promotion . Languages Open Doors must furthermore be seen in conjunction with the policy document Competence for Development which provides the basis for the rise in competence being implemented in primary and secondary education and training in the period of 2005-2008.
+The revised version of Languages Open Doors (2007-2009) is to follow up measures from the first version and contribute to the realisation of the political objectives of the Government’s Soria Moria Declaration. It is also connected to the White Paper no. 30 called Culture for Learning (2003-2004) and the Knowledge Promotion. Languages Open Doors must furthermore be seen in conjunction with the policy document Competence for Development which provides the basis for the rise in competence being implemented in primary and secondary education and training in the period of 2005-2008.
 
 The administration of the Policy Plan is based on the general principles of responsibilities being shared between the various levels of the educational sector. The Plan is normative for decision-makers and for all those with responsibility at all levels, from the Ministry to individual teachers. The measures included in the Plan are to help disseminate good examples, and must be included in the planning documents of the institutions so as to ensure inclusion, coherence and continuity in all efforts from the primary level up to higher education and research.
 
-The Norwegian Directorate for Education and Training has been given the main responsibility for following up and updating Languages Open Doors , including preparing status reports and evaluations of the plan's measures. The Norwegian Centre for Foreign Languages in Education and the Norwegian Centre for International Cooperation in Higher Education (SIU) are central participants in the implementation of the strategy. Teacher training institutions, school owners and schools are also important when it comes to following up the Policy Plan's measures. Vox - the National Institute for Adult Learning - and NAFO the National Centre for Multicultural Education are also involved in some of the measures.
+The Norwegian Directorate for Education and Training has been given the main responsibility for following up and updating Languages Open Doors, including preparing status reports and evaluations of the plan’s measures. The Norwegian Centre for Foreign Languages in Education and the Norwegian Centre for International Cooperation in Higher Education (SIU) are central participants in the implementation of the strategy. Teacher training institutions, school owners and schools are also important when it comes to following up the Policy Plan’s measures. Vox – the National Institute for Adult Learning – and NAFO – the National Centre for Multicultural Education – are also involved in some of the measures.
 
-
+9
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-Main Objectives
-
 1
-
-Partial Objectives
-
-Measures
 
 # Survey of Objectives and Measures
 
@@ -136,29 +241,30 @@ General Objective
 
 Improved skills in more foreign languages for pupils, apprentices and teachers in primary and secondary education and training, and an increased interest in, and motivation for, language learning.
 
-1
+Main Objectives
 
-Increased recruitment and
+1 Greater diversity and breadth in foreign language teaching | 2 Improved quality in foreign language teaching | 3 Increased recruitment and improved competence for foreign language teachers
+--- | --- | ---
 
-improved competence for
+Partial Objectives
 
-foreign language teachers
-
-2
-
-3
-
-1.1 More schools offer teaching of foreign languages other than English at the primary level | 2.1 Foreign language teaching is differentiated and adapted to the pupils' abilities | 3.1 Increased recruitment to language studies of students who wish to become teachers
+1.1 More schools offer teaching of foreign languages other than English at the primary level | 2.1 Foreign language teaching is differentiated and adapted to the pupils’ abilities | 3.1 Increased recruitment to language studies of students who wish to become teachers
 --- | --- | ---
 1.2 More schools offer more foreign languages, also non-European languages | 2.2 Foreign language teaching has a practical approach | 3.2 More further and supplementary teacher training in foreign languages
 1.3 More adults are offered basic training in foreign languages | 2.3 More teachers make use of portfolios in teaching and assessment | 3.3 Wider supply of courses in foreign languages with didactics
-2.4 More pupils and apprentices show increased digital competence in planning, carrying out and assessing the foreign language learning
+ | 2.4 More pupils and apprentices show increased digital competence in planning, carrying out and assessing the foreign language learning |
 
-1.1.1 Start experiments with early start of second foreign language Responsible: The Directorate for Education and Training | 2.1.1 Survey the pupils' choice of foreign languages at lower secondary level Responsible: The Directorate for Education and Training | 3.1.1 Use networks to recruit students to teacher training in foreign languages Responsible: The Directorate for Education and Training, the Norwegian Centre for Foreign Languages in Education, Network for Competence Development
+Measures
+
+1.1.1 Start experiments with early start of second foreign language
+Responsible: The Directorate for Education and Training | 2.1.1 Survey the pupils’ choice of foreign languages at lower secondary level
+Responsible: The Directorate for Education and Training | 3.1.1 Use networks to recruit students to teacher training in foreign languages
+Responsible: The Directorate for Education and Training, the Norwegian Centre for Foreign Languages in Education, Network for Competence Development
 --- | --- | ---
-1.1.2 Develop a European Language Portfolio for the primary level Responsible: The Directorate for Education and Training | 2.1.2 Survey correlation between English skills in primary and lower secondary education, and drop-out levels from voca- tional education and training Responsible: The Directorate for Education and Training | 3.1.2 Give information about and recruit students to choose languages and practical pedagogical education Responsible: The Directorate for Education and Training, universities and colleges, Network for Competence Development
-
-Greater diversity and breadth in foreign language teaching Improved quality in foreign language teaching Increased knowledge about the demand for foreign language competence Strengthened internationalisation in foreign language teaching
+1.1.2 Develop a European Language Portfolio for the primary level
+Responsible: The Directorate for Education and Training | 2.1.2 Survey correlation between English skills in primary and lower secondary education, and drop-out levels from vocational education and training
+Responsible: The Directorate for Education and Training | 3.1.2 Give information about and recruit students to choose languages and practical pedagogical education
+Responsible: The Directorate for Education and Training, universities and colleges, Network for Competence Development
 
 10
 
@@ -166,23 +272,24 @@ Greater diversity and breadth in foreign language teaching Improved quality in f
 
 [[START OF PAGE 9]]
 
-4
+4 Increased knowledge about the demand for foreign language competence | 5 Strengthened internationalisation in foreign language teaching | 6 Increased research and development work in foreign languages
+--- | --- | ---
 
-Increased research and development work in foreign languages
-
-5
-
-6
-
-4.1 Increased knowledge in the education sector and the community about the value of learning foreign languages for the de- velopment of culture, democracy and mobility | 5.1 Better use of existing bilateral agreements with relevant target language countries | 6.1 More research in central aspects of foreign languages
+4.1 Increased knowledge in the education sector and the community about the value of learning foreign languages for the development of culture, democracy and mobility | 5.1 Better use of existing bilateral agreements with relevant target language countries | 6.1 More research in central aspects of foreign languages
 --- | --- | ---
 4.2 Increased knowledge among parents and pupils about foreign languages and the consequences of choosing languages | 5.2 More bilateral agreements with relevant target language countries | 6.2. More research and development work on foreign languages in teacher training institutions
-4.3 Increased use of internationally acknowledged documentation tools for foreign language competence for pupils and apprentices and in working life | 5.3 Better use of international cooperation programmes
-4.4 Increased knowledge about society's demand for other foreign languages than English
+4.3 Increased use of internationally acknowledged documentation tools for foreign language competence for pupils and apprentices and in working life | 5.3 Better use of international cooperation programmes |
+4.4 Increased knowledge about society’s demand for other foreign languages than English | |
 
-4.1.1 Implement measures directed towards schools, universities and colleges to celebrate the European Day of Languages Responsible: The Directorate, the Norwegian Centre for Foreign Languages in Education | 5.1.1 Continue existing and establish new schemes with foreign language assistants and language teachers from central cooperating countries Responsible: The Directorate, the Ministry of Education and Research, SIU | 6.1.1 Continue existing and initiate new research programmes in central aspects of foreign languages in relation to practical training and teacher training Responsible: The Norwegian Centre for Foreign Languages in Education, universities and colleges, school owners
+4.1.1 Implement measures directed towards schools, universities and colleges to celebrate the European Day of Languages
+Responsible: The Directorate, the Norwegian Centre for Foreign Languages in Education | 5.1.1 Continue existing and establish new schemes with foreign language assistants and language teachers from central cooperating countries
+Responsible: The Directorate, the Ministry of Education and Research, SIU | 6.1.1 Continue existing and initiate new research programmes in central aspects of foreign languages in relation to practical training and teacher training
+Responsible: The Norwegian Centre for Foreign Languages in Education, universities and colleges, school owners
 --- | --- | ---
-4.1.2 Contribute to pupil activities connected with the role of languages in teaching democratic citizenship Responsible: The Directorate | 5.1.2 Provide information about the value of teacher exchanges and language assistant schemes Responsible: The Directorate, SIU, the Norwegian Centre for Foreign Languages in Education | 6.2.1 Initiate and strengthen research and development connected to international project cooperation within foreign languages Responsible: The Norwegian Centre for Foreign Languages in Education, SIU
+4.1.2 Contribute to pupil activities connected with the role of languages in teaching democratic citizenship
+Responsible: The Directorate | 5.1.2 Provide information about the value of teacher exchanges and language assistant schemes
+Responsible: The Directorate, SIU, the Norwegian Centre for Foreign Languages in Education | 6.2.1 Initiate and strengthen research and development connected to international project cooperation within foreign languages
+Responsible: The Norwegian Centre for Foreign Languages in Education, SIU
 
 11
 
@@ -192,13 +299,13 @@ Increased research and development work in foreign languages
 
 Measures
 
-1.1.3 Implement experiments with integrating foreign languages in the instruction of other subjects at the primary level Responsible: The Directorate | 2.1.3 Start experiments for developing pupils' partial skills in the second foreign language in primary and lower secondary school Responsible: The Directorate, the Norwegian Centre for Foreign Languages in Education, Vox | 3.2.1 Continue and develop models and measures for increasing the competence of foreign language teachers Responsible : The Norwegian Centre for Foreign Languages in Education, universities and colleges, school owners, Network for Competence Development
+1.1.3 Implement experiments with integrating foreign languages in the instruction of other subjects at the primary level Responsible: The Directorate | 2.1.3 Start experiments for developing pupils’ partial skills in the second foreign language in primary and lower secondary school Responsible: The Directorate, the Norwegian Centre for Foreign Languages in Education, Vox | 3.2.1 Continue and develop models and measures for increasing the competence of foreign language teachers Responsible: The Norwegian Centre for Foreign Languages in Education, universities and colleges, school owners, Network for Competence Development
 --- | --- | ---
 1.2.1 Start experiments with mother tongue as second language Responsible: The Directorate, the National Centre for Multicultural Education | 2.1.4 Introduce good solutions for adapted education in foreign languages as one of the criteria for appointing demonstration schools Responsible: The Directorate | 3.2.2 Publish an overview of competence development measures in foreign languages Responsible: The Directorate, the Norwegian Centre for Foreign Languages in Education, universities and colleges, school owners
-1.2.2 Start experiments with non- European languages as foreign languages Responsible: The Directorate, the National Centre for Multicultural Education | 2.2.1 Prepare and offer supplementary teacher training courses in foreign language didactics for other foreign languages than English Responsible: The Norwegian Centre for Foreign Languages, The Directorate, the Network for Competence Development, universities and colleges, school owners | 3.2.3 Further develop existing Internet- based supplementary and continuing education courses and develop new courses Responsible: Universities and colleges
+1.2.2 Start experiments with non-European languages as foreign languages Responsible: The Directorate, the National Centre for Multicultural Education | 2.2.1 Prepare and offer supplementary teacher training courses in foreign language didactics for other foreign languages than English Responsible: The Norwegian Centre for Foreign Languages, The Directorate, the Network for Competence Development, universities and colleges, school owners | 3.2.3 Further develop existing Internet-based supplementary and continuing education courses and develop new courses Responsible: Universities and colleges
 1.2.3 Cooperate about resources between primary level, lower secondary level and upper secondary education and training and provide information about such cooperation Responsible: School owners, schools, the Norwegian Centre for Foreign Languages in Education | 2.2.2 Provide guidance about learning practices that promote learning in foreign language teaching Responsible: The Directorate, the Norwegian Centre for Foreign Languages in Education, school owners, schools | 3.3.1 Extended offer of languages as electives in teacher training institutions and language programmes in the 5-year integrated teacher training system Responsible: The Directorate, universities and colleges, Network for Competence Development
-1.2.4 Prepare information material for school counsellors in lower and upper secondary education Responsible: The Directorate, the Norwegian Centre for Foreign Languages in Education | 2.3.1 Disseminate knowledge about the European Language Portfolio as a language teaching tool Responsible: The Directorate, the Norwegian Centre for Foreign Languages in Education, school owners, universities and colleges | 3.3.2 Participate in and develop international cooperation about primary and secondary education and supplemen- tary and continuing teacher training for foreign language teachers Responsible: The Directorate, the Ministry of Education and Research, universities and colleges
-1.2.5 Develop and make available paper- based and digital learning resources in some of the major immigrant languages Responsible: The Directorate | 2.4.1 Disseminate knowledge about digital learning resources Responsible: The Directorate, the Norwegian Centre for Foreign Languages
+1.2.4 Prepare information material for school counsellors in lower and upper secondary education Responsible: The Directorate, the Norwegian Centre for Foreign Languages in Education | 2.3.1 Disseminate knowledge about the European Language Portfolio as a language teaching tool Responsible: The Directorate, the Norwegian Centre for Foreign Languages in Education, school owners, universities and colleges | 3.3.2 Participate in and develop international cooperation about primary and secondary education and supplementary and continuing teacher training for foreign language teachers Responsible: The Directorate, the Ministry of Education and Research, universities and colleges
+1.2.5 Develop and make available paper-based and digital learning resources in some of the major immigrant languages Responsible: The Directorate | 2.4.1 Disseminate knowledge about digital learning resources Responsible: The Directorate, the Norwegian Centre for Foreign Languages
 1.3.1 Develop tools that make it possible for adults to learn foreign languages, also non-European ones Responsible: The Directorate, the Norwegian Centre for Foreign Languages in Education, Vox | 2.4.2 Further develop the use of ICT at school-leaving examinations and foreign language examinations and national English tests Responsible: The Directorate
 2.4.3 Develop a common Internet website for foreign languages Responsible: The Norwegian Centre for Foreign Languages, The Directorate
 
@@ -208,10 +315,10 @@ Measures
 
 [[START OF PAGE 11]]
 
-4.1.3 Reintroduce the language award The European Label Responsible: The Directorate , SIU | 5.1.3 Implement experiments on the integration of foreign languages with other subjects in vocational education programmes Responsible: The Norwegian Centre for Foreign Languages in Education | 6.2.2 Develop models for better interac- tion between research and practice in teacher training in foreign languages Responsible: The Norwegian Centre for Foreign Languages, Network for Competence Development, universities and colleges
+4.1.3 Reintroduce the language award The European Label Responsible: The Directorate, SIU | 5.1.3 Implement experiments on the integration of foreign languages with other subjects in vocational education programmes Responsible: The Norwegian Centre for Foreign Languages in Education | 6.2.2 Develop models for better interaction between research and practice in teacher training in foreign languages Responsible: The Norwegian Centre for Foreign Languages, Network for Competence Development, universities and colleges
 --- | --- | ---
-4.1.4 Involve media providers in demon- strating the value of plurilingualism Responsible: The Directorate, the Norwegian Centre for Foreign Languages in Education | 5.2.1 Establish contact with relevant target language countries in order to offer language scholarships for teachers of German, Spanish and Russian Responsible: The Directorate, the Ministry of Education and Research | 6.2.3 Establish didactical school-oriented Master's studies Responsible: Universities and colleges
-4.2.1 Cooperate with parents' councils nationally and locally about information material concerning foreign languages and choice of languages Responsible: The Directorate, the National Parents' Committee for Pri- mary and Lower Secondary Education (FUG), school owners and schools | 5.2.2 Continue and further develop bilat- eral agreements with countries in and outside the EEA for mutual exchanges within vocational education and training Responsible: The Ministry of Education and Research, the Directorate, SIU, Vox | 6.2.4 Assess measures implemented in the policy plan Languages Open Doors , disseminate information about results and update the plan Responsible: The Directorate
+4.1.4 Involve media providers in demonstrating the value of plurilingualism Responsible: The Directorate, the Norwegian Centre for Foreign Languages in Education | 5.2.1 Establish contact with relevant target language countries in order to offer language scholarships for teachers of German, Spanish and Russian Responsible: The Directorate, the Ministry of Education and Research | 6.2.3 Establish didactical school-oriented Master’s studies Responsible: Universities and colleges
+4.2.1 Cooperate with parents’ councils nationally and locally about information material concerning foreign languages and choice of languages Responsible: The Directorate, the National Parents’ Committee for Primary and Lower Secondary Education (FUG), school owners and schools | 5.2.2 Continue and further develop bilateral agreements with countries in and outside the EEA for mutual exchanges within vocational education and training Responsible: The Ministry of Education and Research, the Directorate, SIU, Vox | 6.2.4 Assess measures implemented in the policy plan Languages Open Doors, disseminate information about results and update the plan Responsible: The Directorate
 4.3.1 Provide information concerning the documentation of language competence in the framework of the Europass scheme Responsible: The Directorate, SIU | 5.3.1 Provide information about project funding and good practice in connection with internationalisation Responsible: SIU, the Norwegian Centre for Foreign Languages in Education
 4.4.1 Document the value of foreign languages for working life, culture and business life Responsible: Vox, the Norwegian Centre for Foreign Languages in Education, the Directorate
 
@@ -235,7 +342,7 @@ A study published by the British Council (Graddol, 2006) describes the developme
 
 According to the British Council, Norway is in a transitional phase where we are passing from regarding English as a foreign language to using it as a second language (Graddol, 1997). There is a strong increase in the use of English in higher education and in various professional contexts. Academic publications in acknowledged journals today count more in the way of bonus or research grants than publication in other fora; in practice this means a preferential treatment of English as a publication language. 8 % of 1,032 companies who were asked about their use of foreign languages in Norwegian business life (Hellekjær and Kvam, 2006) stated that English was their official working language.
 
-It may be tempting to think that this being so, we could get by with English alone. But the benefits of linguistic proficiency go beyond purely communicative skills. Language skills can break down barriers and create better contact, and will provide insight into history, literature, social conditions and not least cultural codes, if the teaching is broad and not limited to learning isolated words and grammar by heart. Language studies are cultural studies and can provide insight into non-linguistic aspects which may in turn promote cross-cultural and international understanding.
+It may be tempting to think that this being so, we could get by with English alone. But the benefits of linguistic proficiency go beyond purely communicative skills. Language skills can break down barriers and create better contact, and will provide insight into history, literature, social conditions and not
 
 14
 
@@ -243,7 +350,9 @@ It may be tempting to think that this being so, we could get by with English alo
 
 [[START OF PAGE 13]]
 
-Learning languages contributes to personal develop-ment, but also to the creation of values in society. Graddol (2006) shows that the slogan 'English is not enough' is also applicable in the United Kingdom and the USA as well as in the rest of the global economy. In the survey ' Into the world with only English? ' Gaarder (2003) comments on the demand for foreign languages in Norway in this way: 'One of them is the demand of export businesses. But there is also an important political and cultural dimension which is much more evident today than a few years back. It is a question of knowing who we are and where we stand[…] Norwegians are not only highly dependent on foreign trade, but they also have their roots in the diversified cultural tradition of Europe' (p. 67). Hellekjær and Kvam (2006) show that Norwegian firms are in great need of skills in the other foreign languages, but also that our English skills are not nearly good enough - and are especially poor in social settings which require cultural competence.
+least cultural codes, if the teaching is broad and not limited to learning isolated words and grammar by heart. Language studies are cultural studies and can provide insight into non-linguistic aspects which may in turn promote cross-cultural and international understanding.
+
+Learning languages contributes to personal development, but also to the creation of values in society. Graddol (2006) shows that the slogan “English is not enough” is also applicable in the United Kingdom and the USA as well as in the rest of the global economy. In the survey “Into the world with only English?” Gaarder (2003) comments on the demand for foreign languages in Norway in this way: “One of them is the demand of export businesses. But there is also an important political and cultural dimension which is much more evident today than a few years back. It is a question of knowing who we are and where we stand[…] Norwegians are not only highly dependent on foreign trade, but they also have their roots in the diversified cultural tradition of Europe” (p. 67). Hellekjær and Kvam (2006) show that Norwegian firms are in great need of skills in the other foreign languages, but also that our English skills are not nearly good enough – and are especially poor in social settings which require cultural competence.
 
 An encounter with another language contributes greatly to increased awareness and understanding of one's own mother tongue, which in turn will lead to basic knowledge about the construction and structures of language. By working with languages we will increase our insight into the strategies used when learning languages. The strong position of English may also prove to be a platform for developing knowledge in both the second and the third foreign language. The better you are at the first foreign language, the easier it may be to develop skills in the second and third foreign languages. Skills may be the ability to read, to understand the language, not necessarily to speak or write it, at least not to begin with. Classroom experiments (Ulseth et al. 2003) have shown that pupils at all levels of primary and lower secondary education are both motivated for, and capable of understanding, a lot of a foreign language which they have not yet learned systematically in school.
 
@@ -263,9 +372,9 @@ The situation for foreign languages in Norway today is characterised by increase
 
 #### English
 
-English was adopted as a compulsory subject in Norwegian schools in the 1960s, with tuition starting in the 5 th  grade. Since then, in line with international developments in the teaching of foreign languages, English has been started at an increasingly earlier age. Since the educational reform of 1997 ( L97 ) most Norwegian pupils start English in the 1 st grade.
+English was adopted as a compulsory subject in Norwegian schools in the 1960s, with tuition starting in the 5th grade. Since then, in line with international developments in the teaching of foreign languages, English has been started at an increasingly earlier age. Since the educational reform of 1997 (L97) most Norwegian pupils start English in the 1st grade.
 
-The Soria Moria Declaration entails increased efforts in the subjects of Norwegian and English, and in instruction for pupils from minority language groups, one of the measures being an increased number of periods at the primary level. The Government wishes to give the pupils a broader basic competence and to make clearer demands for basic skills, amongst others in English. The Knowledge Promotion aims to make it possible to teach English in a way that develops the pupils' ability to 'express themselves in writing and orally in a nuanced way that is appropriate for the context, with fluency, precision and cohesion' (National Curriculum for Knowledge Promotion , English subject curriculum). Reading is also pinpointed as a separate basic skill. Attention is drawn to visual media and especially to films: the pupils are to be able to analyse, interpret and discuss films.
+The Soria Moria Declaration entails increased efforts in the subjects of Norwegian and English, and in instruction for pupils from minority language groups, one of the measures being an increased number of periods at the primary level. The Government wishes to give the pupils a broader basic competence and to make clearer demands for basic skills, amongst others in English. The Knowledge Promotion aims to make it possible to teach English in a way that develops the pupils’ ability to “express themselves in writing and orally in a nuanced way that is appropriate for the context, with fluency, precision and cohesion” (National Curriculum for Knowledge Promotion, English subject curriculum). Reading is also pinpointed as a separate basic skill. Attention is drawn to visual media and especially to films: the pupils are to be able to analyse, interpret and discuss films.
 
 At the primary level the English subject curriculum is characterised by practical and aesthetic terms indicating that the pupils are meant to participate in English children's culture and literature through words, pictures, music and movement. The subject curriculum also stresses awareness of the similarities between English, the mother tongue and other languages, the structure of the language, text composition and use of digital media in language teaching.
 
@@ -279,7 +388,7 @@ One survey (Markussen and Sandberg, 2005) points out that there is a significant
 
 #### Other foreign languages
 
-On the introduction of a common, compulsory 9year primary and lower secondary school (M74) the second foreign language (German, later French) became an elective subject. In the reform of 1997 (L97) , the second foreign language became a socalled additional subject option, on a par with other subjects such as in-depth study project, in-depth studies in English and in-depth studies in Norwegian.
+On the introduction of a common, compulsory 9-year primary and lower secondary school (M74) the second foreign language (German, later French) became an elective subject. In the reform of 1997 (L97), the second foreign language became a so-called additional subject option, on a par with other subjects such as in-depth study project, in-depth studies in English and in-depth studies in Norwegian.
 
 16
 
@@ -287,7 +396,7 @@ On the introduction of a common, compulsory 9year primary and lower secondary sc
 
 [[START OF PAGE 15]]
 
-With the Knowledge Promotion in the school year of 2006-2007, pupils in the 8 th  grade must choose either a foreign language or in-depth studies in English, Norwegian or Sami (from 2007). This change will be implemented for the 9 th  grade from the school year of 2007-2008 and for the 10 th  grade in 20082009. At the lower secondary level schools must offer at least one of four languages: German, French, Spanish or Russian. If the schools have the necessary resources they can in addition offer other languages, also non-European ones.
+With the Knowledge Promotion in the school year of 2006-2007, pupils in the 8th grade must choose either a foreign language or in-depth studies in English, Norwegian or Sami (from 2007). This change will be implemented for the 9th grade from the school year of 2007-2008 and for the 10th grade in 2008-2009. At the lower secondary level schools must offer at least one of four languages: German, French, Spanish or Russian. If the schools have the necessary resources they can in addition offer other languages, also non-European ones.
 
 The Government wants as many lower secondary pupils as possible to choose foreign languages. Foreign languages will receive a higher status as pupils will be assessed with marks in these subjects, and they will also be part of the admission criteria to upper secondary education. The subject curriculum in foreign languages as a practical subject will be maintained, so that the pupils are able to use the language from the very first lesson. There is no research to substantiate the claim that some subjects in themselves are more theoretical than others; all subjects in primary and lower secondary education can be made more or less theoretical or practical. But Lindemann and Speitz (2002) showed that more than 60 % of the teachers in their survey were of the opinion that a second foreign language was not a suitable subject for all pupils, and many pupils dropped out. There are probably many factors at play here, but regarding German it seems, according to Minge (2006), as though monotonous teaching methods may have been a decisive factor.
 
@@ -295,7 +404,7 @@ The following tables show how subject selection has developed from 2000 to 2006.
 
 ##### The Development of Subject Choice in the Lower Secondary School (figures from the Information System for Primary and Lower Secondary Education GSI)
 
-Additional subject options in the 8 th , 9 th and 10 th grades 2000-2001 | 8 th grade | 9 th grade | 10 th grade
+Additional subject options in the 8th, 9th and 10th grades 2000-2001 | 8th grade | 9th grade | 10th grade
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Pupils following ordinary curriculum | Boys | Girls | Total | Boys | Girls | Total | Boys | Girls | Total
 German | 13 246 | 13 021 | 26 267 | 10 870 | 11 220 | 22 090 | 9 874 | 10 739 | 20 613
@@ -312,7 +421,7 @@ In-depth study project | 7 461 | 3 870 | 11 331 | 10 487 | 5 801 | 16 288 | 11 2
 
 [[START OF PAGE 16]]
 
-Additional subject options in the 8 th , 9 th and 10 th grades 2003-2004 | 8 th grade | 9 th grade | 10 th grade
+Additional subject options in the 8th, 9th and 10th grades 2003-2004 | 8th grade | 9th grade | 10th grade
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Pupils following ordinary curriculum | Boys | Girls | Total | Boys | Girls | Total | Boys | Girls | Total
 German | 11 580 | 11 357 | 22 937 | 9 188 | 9 632 | 18 820 | 8 020 | 9 028 | 17 048
@@ -323,7 +432,7 @@ Other languages as second foreign language | 105 | 147 | 252 | 162 | 184 | 346 |
 In-depth language studies | 1 932 | 2 152 | 4 084 | 2 226 | 2 648 | 4 874 | 2 015 | 2 487 | 4 502
 In-depth study project | 10 985 | 6 099 | 17 084 | 14 883 | 9 044 | 23 927 | 16 084 | 10 663 | 26 747
 
-Additional subject options in the 8 th , 9 th and 10 th grades 2005-2006 | 8 th grade | 9 th grade | 10 th grade
+Additional subject options in the 8th, 9th and 10th grades 2005-2006 | 8th grade | 9th grade | 10th grade
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Pupils following ordinary curriculum | Boys | Girls | Total | Boys | Girls | Total | Boys | Girls | Total
 German | 8 914 | 8 545 | 17 459 | 8 208 | 8 691 | 16 899 | 7 824 | 8 273 | 16 097
@@ -340,7 +449,7 @@ In-depth study project | 8 928 | 5 200 | 14 128 | 15 053 | 9 887 | 24 940 | 17 3
 
 [[START OF PAGE 17]]
 
-Additional subject op- tions in the 8 th , 9 th and 10 th grades (L97) 2006-2007 | 8 th grade | 9 th grade | 10 th grade
+Additional subject options in the 8th, 9th and 10th grades (L97) 2006-2007 | 8th grade | 9th grade | 10th grade
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Pupils following old curriculum | Boys | Girls | Total | Boys | Girls | Total | Boys | Girls | Total
 German | 0 | 0 | 0 | 5 028 | 5 242 | 10 270 | 7 123 | 7 581 | 14 704
@@ -351,7 +460,7 @@ Other languages as second foreign language | 0 | 0 | 0 | 93 | 136 | 229 | 181 | 
 In-depth language studies | 0 | 0 | 0 | 1 474 | 1 519 | 2 993 | 2 452 | 2 584 | 5 036
 In-depth study project | 0 | 0 | 0 | 10 205 | 6 516 | 16 721 | 16 131 | 11 058 | 27 189
 
-Foreign languages, including experiments and in-depth studies 2006-2007 | 8 th grade | 9 th grade | 10 th grade
+Foreign languages, including experiments and in-depth studies 2006-2007 | 8th grade | 9th grade | 10th grade
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Pupils following new curriculum (incl. schools abroad) | Boys | Girls | Total | Boys | Girls | Total | Boys | Girls | Total
 German | 9 348 | 7 609 | 16 957 | 3 244 | 2 990 | 6 234 | 164 | 199 | 363
@@ -370,9 +479,9 @@ In-depth studies - others | 166 | 136 | 302 | 99 | 59 | 158 | 2 | 0 | 2
 
 [[START OF PAGE 18]]
 
-##### Other Foreign Languages and In-Depth Studies in Languages 8 th  Grade Distribution by County in the School Year of 2006-2007 (figures as of 15.12.2006)
+##### Other Foreign Languages and In-Depth Studies in Languages 8th Grade Distribution by County in the School Year of 2006-2007 (figures as of 15.12.2006)
 
-German | French | Spanish | Russian | Other languages | In-depth studies in English | In-depth studies in Nor- wegian | In-depth studies in other languages
+German | French | Spanish | Russian | Other languages | In-depth studies in English | In-depth studies in Norwegian | In-depth studies in other languages
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Østfold | 984 | 582 | 1 184 | 0 | 0 | 578 | 142 | 5
 Akershus | 1 660 | 1 656 | 2 664 | 0 | 0 | 956 | 120 | 0
@@ -411,13 +520,13 @@ Section 6-2 of the Education Act applies to pupils with Sami as their mother ton
 
 #### Kven/Finnish
 
-Pupils in the counties of Troms or Finnmark may receive instruction in Finnish as a second language (from the 1 st grade) if their parents so wish. At lower secondary level the pupils can decide for themselves if they wish to continue with Finnish. In the 10 th  grade the pupils may take Finnish as a second language instead of the second-choice form of written Norwegian. This also applies to upper secondary education.
+Pupils in the counties of Troms or Finnmark may receive instruction in Finnish as a second language (from the 1st grade) if their parents so wish. At lower secondary level the pupils can decide for themselves if they wish to continue with Finnish. In the 10th grade the pupils may take Finnish as a second language instead of the second-choice form of written Norwegian. This also applies to upper secondary education.
 
 #### Other languages
 
 During the school year of 2005-2006 Norway had 20,744 pupils from a minority language background in primary and lower secondary education (figures from GSI), and 17,438 pupils and apprentices in upper secondary education and training (figures from Statistics Norway (SSB) with a mother tongue other than Norwegian or Sami. This represents an average of 7 % of the total number of pupils. Pupils from a minority language background make up 21 % of the pupils in primary and lower secondary education in Oslo (GSI); the percentage decreases the farther north you go up the country. In Troms, for instance, only 2 % of the pupils are from a minority language background. The most widespread immigrant languages are Urdu, Arabic and Albanian. In some regions minority languages could be relevant as foreign languages in school.
 
-In cooperation with the Ministry of Education and Research a group of experts appointed by the Council of Europe drew up a so-called Language Education Policy Profile for Norway (2003-2004). This profile describes plurilingualism in Norway as a highly positive aspect: the wealth of linguistic resources is illustrated by the fact that pupils learn two written varieties of Norwegian (or Kven/Finnish or Sami, if applicable), understand Danish and Swedish, and have an early start with English, as well as by the fact that there are school-leaving examination papers in more than 100 languages for upper secondary pupils with other mother tongues.  These experts were therefore surprised to find that the value of this linguistic wealth was not given more emphasis as a positive factor.
+In cooperation with the Ministry of Education and Research a group of experts appointed by the Council of Europe drew up a so-called Language Education Policy Profile for Norway (2003-2004). This profile describes plurilingualism in Norway as a highly positive aspect: the wealth of linguistic resources is illustrated by the fact that pupils learn two written varieties of Norwegian (or Kven/Finnish or Sami, if applicable), understand Danish and Swedish, and have an early start with English, as well as by the fact that there are school-leaving examination papers
 
 21
 
@@ -425,11 +534,13 @@ In cooperation with the Ministry of Education and Research a group of experts ap
 
 [[START OF PAGE 20]]
 
+in more than 100 languages for upper secondary pupils with other mother tongues. These experts were therefore surprised to find that the value of this linguistic wealth was not given more emphasis as a positive factor.
+
 Exploiting plurilingualism in the classroom may be an important contribution to an increased linguistic interest in general and to motivation for language learning, as well as creating increased understanding and tolerance for pupils with a non-European language background (cf. Solfjeld 2004).
 
 #### New subject curricula
 
-The Knowledge Promotion was introduced at the start of the new school year in 2006 with new subject curricula in all subjects in primary and secondary education and training. For the first time in the history of Norwegian education the new curricula are to be common core subject, so as to ensure and clarify progression and continuity between the different school levels. Academic progress is expressed through competence aims, and five basic skills being able to express oneself orally and in writing, being able to read and do arithmetic and digital competence - have been incorporated in all subjects.
+The Knowledge Promotion was introduced at the start of the new school year in 2006 with new subject curricula in all subjects in primary and secondary education and training. For the first time in the history of Norwegian education the new curricula are to be common core subject, so as to ensure and clarify progression and continuity between the different school levels. Academic progress is expressed through competence aims, and five basic skills – being able to express oneself orally and in writing, being able to read and do arithmetic and digital competence – have been incorporated in all subjects.
 
 ### Training, recruitment and improved competence for foreign language teachers
 
@@ -437,27 +548,28 @@ Generally speaking, Norwegian foreign language teachers have little or no formal
 
 67 % at the lower primary level 49 % at the upper primary level 20 % at the lower secondary level With regard to English, Drew (2004) sees a correlation between teacher competence in primary school and the fact that Norwegian pupils reach a high linguistic level in oral skills but have much poorer results in written skills.
 
-There is relatively little reliable material about the qualifications of French and German teachers in lower secondary school. A survey of the situation of the second foreign language at a selection of schools with pupils at lower secondary level (Lindemann and Speitz 2002) gives an indication: 16 of the German teachers asked (i.e. 14.4 %) had no formal qualifications for the subject they taught. 13 of these 16 teachers worked in small schools. In addition it should be mentioned that 60 % of the German teachers and 46 % of the French teachers in the survey from 20012002 were 50 years or more of age, significant figures with respect to the supply of teachers and recruitment in the years to come. The following diagram provides an overview of formal qualifications in French and German for teachers in the survey:
+There is relatively little reliable material about the qualifications of French and German teachers in lower secondary school. A survey of the situation of the second foreign language at a selection of schools with pupils at lower secondary level (Lindemann and Speitz 2002) gives an indication: 16 of the German teachers asked (i.e. 14.4 %) had no formal qualifications for the subject they taught. 13 of these 16 teachers worked in small schools. In addition it should be mentioned that 60 % of the German teachers and 46 % of the French teachers in the survey from 2001-2002 were 50 years or more of age, significant figures with respect to the supply of teachers and recruitment in the years to come. The following diagram provides an overview of formal qualifications in French and German for teachers in the survey:
 
-Figure 1 Extent of German and French qualifications at university/college level (number of teachers)
+60
+50
+40
+30
+20
+10
+0
 
 German
-
 French
 
 None
-
-5-10 credits
-
+5–10 credits
 20 credits (1 year course)
-
 30 credits (1 ½ year course)
-
 70 credits (2nd degree)
-
 other
-
 unanswered
+
+Figure 1 Extent of German and French qualifications at university/college level (number of teachers)
 
 The National Councils for French and German consider 60 ECTS (previously 20 credits) a minimum qualification for being able to teach a foreign language. In upper secondary education at least 60 ECTS of specialisation are required for being able to teach the subject.
 
@@ -469,7 +581,7 @@ The National Councils for French and German consider 60 ECTS (previously 20 cred
 
 One of the objectives of the restructuring of study programmes at Norwegian universities and colleges was to strengthen teacher training in languages. Examples of this are the five-year integrated teacher training programmes at the University of Oslo, the University of Bergen, the University of Tromsø and the Norwegian University of Science and Technology (NTNU) in Trondheim. This teacher training education started in 2003 (Oslo and Trondheim, Bergen 2004), and it is too early to say whether these programmes are sufficient to meet the demand for foreign language teachers. The clear growth in pupils choosing Spanish will in particular pose a challenge for teacher training institutions. In the country as a whole there are many providers of basic Spanish for teachers, most of them at Bachelor level. There is currently little interest for German but a lot of interest for Russian.
 
-In the most recent Framework Plan for Generalist Teacher Training (April 2003) the number of compulsory subjects was reduced, thereby allowing for more elective subjects, such as for example English in the 3 rd or 4 th  year of teacher training. Over the last few years the number of students choosing English in the 3 rd or 4 th  year of teacher training has increased, with most of them choosing a year's course (60 ECTS). The Norwegian Agency for Quality Assurance in Education (NOKUT) has made a half-way report on the evaluation of the generalist teacher training programmes, showing that in the academic year of 2005-2006 243 students were admitted to 30 ECTS-courses in English and 86 to 60 ECTS-courses in English. This may be taken as a sign that teacher training students see that they must have an increased linguistic competence in English if they wish to perform well as English teachers in primary and lower secondary education. There are few courses in other foreign languages for generalist teachers.
+In the most recent Framework Plan for Generalist Teacher Training (April 2003) the number of compulsory subjects was reduced, thereby allowing for more elective subjects, such as for example English in the 3rd or 4th year of teacher training. Over the last few years the number of students choosing English in the 3rd or 4th year of teacher training has increased, with most of them choosing a year’s course (60 ECTS). The Norwegian Agency for Quality Assurance in Education (NOKUT) has made a half-way report on the evaluation of the generalist teacher training programmes, showing that in the academic year of 2005-2006 243 students were admitted to 30 ECTS-courses in English and 86 to 60 ECTS-courses in English. This may be taken as a sign that teacher training students see that they must have an increased linguistic competence in English if they wish to perform well as English teachers in primary and lower secondary education. There are few courses in other foreign languages for generalist teachers.
 
 The problem of little or no formal qualifications for foreign language teachers is also a social question. Norway has areas where the population is thinly spread and several age levels coexist in the same class for all subjects in small schools, and here it is necessary to allow teachers to teach subjects in which they do not have formal qualifications. Schools in towns and built-up areas also have the opportunity to make use of non-qualified employees.
 
@@ -478,7 +590,7 @@ In 2002 an Internet-based continuing and supplementary course for English teache
 
 The colleges registered a significant number of requests for this kind of Internet-based study programmes. The requests came from teachers with many years' practical experience in schools and expressed a clear wish for increased linguistic competence and insight into more updated methods in the teaching of English. The flexibility offered by an Internet-based study programme enabling one to combine education and work, and thereby use one's workplace actively in one's education, seems to satisfy a great demand.
 
-In 2005 the colleges which had carried out Internetbased continuing education were appointed by the Ministry of Education and Research to update and further develop the project called the Development of National Further and Continuing Education in English with Emphasis on the Use of ICT . This entailed preparing study plans for the primary and lower secondary levels plus collecting and adapting course material for Internet instruction based on the Knowledge Promotion . The work was coordinated by Sogn og Fjordane University College and involved six regional colleges. These study plans have been made available to colleges and universities wishing to offer continuing education in English to teachers at different levels of primary and lower secondary education in accordance with the Knowledge Promotion (see the website of Sogn og Fjordane University College). Material for the Internet-based course is meant to be made available on a separate website during the autumn of 2006.
+In 2005 the colleges which had carried out Internet-based continuing education were appointed by the Ministry of Education and Research to update and further develop the project called the Development of National Further and Continuing Education in English with Emphasis on the Use of ICT. This entailed preparing study plans for the primary and lower secondary levels plus collecting and adapting course material for Internet instruction based on the Knowledge Promotion. The work was coordinated by Sogn og Fjordane University College and involved six regional colleges. These study plans have been made available to colleges and universities wishing to offer continuing education in English to teachers at different levels of primary and lower secondary education in accordance with the Knowledge Promotion (see the website of Sogn og Fjordane University College). Material for the Internet-based course is meant to be made available on a separate website during the autumn of 2006.
 
 23
 
@@ -488,7 +600,7 @@ In 2005 the colleges which had carried out Internetbased continuing education we
 
 #### Other foreign languages
 
-A student taking a generalist teacher training may choose other foreign languages than English in their 3 rd or 4 th  year, but only a handful of colleges offer such studies today. Vestfold University College, for example, has expanded the courses on offer in practical foreign languages by providing optional subjects for 60 ECTS in German, French and English respectively for teacher training students. Students choosing this kind of subject will often have to move to another institution in order to finish their training. Colleges with departments for several foreign languages are able to provide foreign language courses combining two foreign languages at the same time, for example English/ German or English/French over two years, providing the departments with mutual benefits. Besides, the two languages share aspects that can make the instruction both more rational and motivating as well as interesting for the students. The Knowledge Promotion encourages this sort of study model.
+A student taking a generalist teacher training may choose other foreign languages than English in their 3rd or 4th year, but only a handful of colleges offer such studies today. Vestfold University College, for example, has expanded the courses on offer in practical foreign languages by providing optional subjects for 60 ECTS in German, French and English respectively for teacher training students. Students choosing this kind of subject will often have to move to another institution in order to finish their training. Colleges with departments for several foreign languages are able to provide foreign language courses combining two foreign languages at the same time, for example English/German or English/French over two years, providing the departments with mutual benefits. Besides, the two languages share aspects that can make the instruction both more rational and motivating as well as interesting for the students. The Knowledge Promotion encourages this sort of study model.
 
 Continuing and supplementary education in other foreign languages than English has generally speaking not been given high priority and has lacked a cohesive national plan for enhancing competence. As part of the follow-up of Competence for Development - Policy for Competence Development in Primary and Secondary Education 2005-2009 earmarked financial funding has for 2005 and 2006 been channeled through the County Governors' offices for continuing education courses in the second foreign language: 20 million NOK in 2005 and 25 million in 2006. The school owners have not however been limited by these sums, as they were granted 280 million in 2005 and 335 million in 2006 for competence development within areas they themselves have prioritised. The total sum for the second foreign language is not known. In 2005, 905 teachers completed supplementary education for up to four days in the second foreign language (2,589 in English) while 261 completed supplementary education of one week or more (155 in English). 1,211 teachers started supplementary education giving ECTS (260 in English).
 
@@ -520,7 +632,7 @@ Apart from the TROLL agreement from 1986, which was an agreement about financial
 
 In upper secondary education we find United World Colleges (UWC), an international movement working to promote peace and understanding through education. In 2006, 38 young Norwegian people were awarded a place at one of nine schools where the education is equivalent to the last two years of upper secondary school. The pupils live with young people from all parts of the world and get their International Baccalaureate (IB) when they finish. There are also IB classes at several schools in Norway - in Oslo, Nesbru, Stavanger, Bergen, Lillestrøm and Trondheim. The language of instruction in these classes is English, and the schools offer an education which meets the admission criteria at most universities abroad.
 
-Since 1918 Norwegians have been allowed to take the three-year upper secondary education ( lycée ) and French baccalauréat in Rouen.  In the autumn of 2006 the schools in Bayeux, Lyon and Rouen admitted 22 Norwegian pupils. The FrenchNorwegian Centre in Caen offers language courses for students, Bachelor studies in French language, literature and culture, French as a tool for students and researchers, and one-year courses for teachers and teacher training students. Norway is also a participant in a global bilateral French language assistant programme where a few French postgraduate students of French as a foreign language spend one year as language assistants in primary and secondary education.
+Since 1918 Norwegians have been allowed to take the three-year upper secondary education (lycée) and French baccalauréat in Rouen. In the autumn of 2006 the schools in Bayeux, Lyon and Rouen admitted 22 Norwegian pupils. The French-Norwegian Centre in Caen offers language courses for students, Bachelor studies in French language, literature and culture, French as a tool for students and researchers, and one-year courses for teachers and teacher training students. Norway is also a participant in a global bilateral French language assistant programme where a few French postgraduate students of French as a foreign language spend one year as language assistants in primary and secondary education.
 
 The Norwegian study centre in York provides further and continuing education for English teachers and cooperates with a number of educational institutions at university and college level in Norway. Many educational institutions offer a two-week study period at the study centre as an integrated part of their English course. It is also possible for Norwegian students to take an English specialisation (previously the 30 ECTS specialisation) and parts of their Master's degree at the Norwegian study centre. In cooperation with the University of Trier in Germany, NTNU offers a year's course (60 ECTS) in German as continuing education for teachers and teacher training students. The Institute for Modern Foreign Languages at NTNU has classes in literature and grammar, while the University of Trier is responsible for the instruction in practical German and cultural knowledge.
 
@@ -538,14 +650,14 @@ Barentspluss is a scholarship scheme meant to stimulate cooperation between univ
 
 The Norwegian University Centre in St. Petersburg is a national joint effort between the Universities of Tromsø, Trondheim (NTNU), Bergen and Oslo. Besides promoting and aiding research cooperation between Norway and Russia, the Centre is also open to Norwegian students studying in Russia. The Norwegian-Pomor University Centre at the Pomor State University in Archangel is a key institution for student exchange in North Norway. The Centre has more than ten years' experience of receiving students of Russian who come to Russia for short or long stays.
 
-The Norwegian - Russian upper secondary school in Moscow, which is a project at Skedsmo Upper Secondary School, provides Norwegian pupils who have chosen Russian as a subject, with a unique opportunity to complete their Norwegian upper secondary education through a relevant stay abroad. Most of the school's pupils are Russian, the language of instruction is Russian and all the teachers are Russian.
+The Norwegian – Russian upper secondary school in Moscow, which is a project at Skedsmo Upper Secondary School, provides Norwegian pupils who have chosen Russian as a subject, with a unique opportunity to complete their Norwegian upper secondary education through a relevant stay abroad. Most of the school’s pupils are Russian, the language of instruction is Russian and all the teachers are Russian.
 
 #### Finnish/Sami
 
 The project called Without Borders in the North has as its main objective increased cooperation between border areas in Norway and Finland within the educational sector, health and social services, technical sector and business and industrial development. In the educational sector the County Governor of Finnmark is responsible for helping to promote development measures for kindergarten and school cooperation across the border, and for language teaching in Finnish and Sámi.
 
 #### Foreign languages in European school partnerships
-When introducing an international dimension in education, foreign languages become a central and necessary tool - and an educational challenge. Comenius , which is a sectorial programme under the new EU programme for lifelong learning ( The Integrated Lifelong Learning Programme 2007-2013, LLP , see below), has as its objective to improve the quality of and strengthen the European dimension in education. In the new programme's transversal programme four key activities are to be found, one of which is the promotion of foreign languages. SIU is responsible for the programme which facilitates multinational school cooperation, institutional cooperation, network cooperation and initial and supplementary training for students and teachers. Language learning and increased cross-cultural understanding are general objectives for Comenius . Practically all Comenius projects are cross-disciplinary. This means that other teachers than those teaching foreign languages and other pupils than those following special language programmes also have to learn how to make themselves understood by foreign colleagues and people of the same age. The pupil, the student and the teacher all find their communicative skills put to the test both in real and in virtual contexts.
+When introducing an international dimension in education, foreign languages become a central and necessary tool – and an educational challenge. Comenius, which is a sectorial programme under the new EU programme for lifelong learning (The Integrated Lifelong Learning Programme 2007-2013, LLP, see below), has as its objective to improve the quality of and strengthen the European dimension in education. In the new programme’s transversal programme four key activities are to be found, one of which is the promotion of foreign languages. SIU is responsible for the programme which facilitates
 
 > 3  In 1999 ministers of education from 29 countries and heads of university from the whole of Europe met to discuss the further development of higher education in Europe. The vision of developing a European area for higher education by 2010 was established in the ministers' declaration from the meeting, the so-called Bologna Declaration. The development is called the Bologna Process.
 
@@ -555,6 +667,8 @@ When introducing an international dimension in education, foreign languages beco
 
 [[START OF PAGE 25]]
 
+multinational school cooperation, institutional cooperation, network cooperation and initial and supplementary training for students and teachers. Language learning and increased cross-cultural understanding are general objectives for Comenius. Practically all Comenius projects are cross-disciplinary. This means that other teachers than those teaching foreign languages and other pupils than those following special language programmes also have to learn how to make themselves understood by foreign colleagues and people of the same age. The pupil, the student and the teacher all find their communicative skills put to the test both in real and in virtual contexts.
+
 In international partnerships mobility is an important and necessary ingredient. Scholarships for supplementary education, study trips, planning sessions where pupils may participate, teacher and pupil exchanges and the use of language assistants have clearly helped create a new and renewed interest in learning and teaching languages.
 
 Courses in languages that do not have a large place in Norwegian schools, e.g., Italian, Dutch and Portuguese, have been started as a result of initiatives from foreign language assistants visiting Norwegian schools. Norwegian language assistants have come back from stays abroad with increased competence in the foreign language they are qualified to teach. In addition they have often acquired a new language in which they sit examinations and bring with them when they start to work as foreign language teachers.
@@ -563,11 +677,11 @@ Some fifty Comenius schools give instruction in other subjects through English, 
 
 #### eTwinning - school cooperation on European culture and languages using ICT
 
-eTwinning is part of the EU's eLearning Programme 2004-2006 , in which Norway is a participant. The Norwegian Centre for International Cooperation in Higher Education (SIU) has been responsible for running the eLearning Programme in Norway, while the Norwegian Directorate for Education and Training has been responsible for eTwinning , which is the part of the programme that applies to primary and secondary education and training. eTwinning allows a structure for paired cooperation between schools in Europe using ICT. The objective is to strengthen cooperation between schools, create opportunities for pupils and teachers to increase their knowledge and skills in ICT and to stimulate an interest in European culture and language. Via the portal http://www.etwinning.net/ schools can register and gain access to, amongst other things, partner searches, online communities and other tools. 281 Norwegian schools have registered on eTwinning and are taking part in 59 projects with partner schools from 23 European countries. 18 of these projects have foreign languages as their theme. From 2007 eTwinning will be continued within the Comenius part of the EU's new programme for lifelong learning.
+eTwinning is part of the EU’s eLearning Programme 2004-2006, in which Norway is a participant. The Norwegian Centre for International Cooperation in Higher Education (SIU) has been responsible for running the eLearning Programme in Norway, while the Norwegian Directorate for Education and Training has been responsible for eTwinning, which is the part of the programme that applies to primary and secondary education and training. eTwinning allows a structure for paired cooperation between schools in Europe using ICT. The objective is to strengthen cooperation between schools, create opportunities for pupils and teachers to increase their knowledge and skills in ICT and to stimulate an interest in European culture and language. Via the portal http://www.etwinning.net/ schools can register and gain access to, amongst other things, partner searches, online communities and other tools. 281 Norwegian schools have registered on eTwinning and are taking part in 59 projects with partner schools from 23 European countries. 18 of these projects have foreign languages as their theme. From 2007 eTwinning will be continued within the Comenius part of the EU’s new programme for lifelong learning.
 
 #### Non-traditional organisation and work methods in foreign language teaching
 
-In the European Year of Languages 2001, SIU carried out the survey called Languages in International School Cooperation . The aim was to find out if the cooperation Norwegian schools have been having for years with European schools has led to an increased interest in known and unknown languages - and how this interest is manifested. 225 schools took part in the survey. Nine out of ten schools report that both the teachers and the pupils have become interested in the languages of the partner schools but only rarely has this interest resulted in more and systematic language courses. However, both lower and secondary schools that have integrated internationalisation into their long-term plans report that they have a steady increase in applications to foreign language courses. The survey documents that English is today's undisputed lingua franca .
+In the European Year of Languages 2001, SIU carried out the survey called Languages in International School Cooperation. The aim was to find out if the cooperation Norwegian schools have been having for years with European schools has led to an increased interest in known and unknown languages – and how this interest is manifested. 225 schools took part in the survey. Nine out of ten schools report that both the teachers and the pupils have become interested in the languages of the partner schools but only rarely has this interest resulted in more and systematic language courses. However, both lower and secondary schools that have integrated internationalisation into their long-term plans report that they have a steady increase in applications to foreign language courses. The survey documents that English is today’s undisputed lingua franca.
 
 27
 
@@ -600,7 +714,7 @@ ICT in foreign languages is not only a tool for receiving and producing informat
 
 - Teachers are increasingly becoming designers of learning settings using both co-localised and Internet-based contexts to develop rich language situations.
 
-A number of new user cultures are therefore in the process of developing. Our very understanding of what it means to be linguistically competent is changing. This is an extremely rapid development. Even though English at the moment has a unique position, at the same time we can see that Internetrelated arenas are increasingly plurilingual, both as multilingual versions and as a result of integrated translation services. The percentage of Internet users with English as a mother tongue has gone down from over 50 % in 2000 to about 30 % in 2005 (Graddol, 2006). It is interesting to note that it is in particular languages like Chinese, Arabic, Portuguese and Spanish that are increasing their popularity, both on the Internet and otherwise.
+A number of new user cultures are therefore in the process of developing. Our very understanding of what it means to be linguistically competent is changing. This is an extremely rapid development. Even though English at the moment has a unique position, at the same time we can see that Internet-related arenas are increasingly plurilingual, both as multilingual versions and as a result of integrated translation services. The percentage of Internet
 
 > 4  The project ICT in Multicultural Schools has involved three schools in central east Oslo and can demonstrate good results in the use of ICT in flexible and customised teaching in a multicultural learning environment; cf. References.
 
@@ -609,6 +723,8 @@ A number of new user cultures are therefore in the process of developing. Our ve
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+
+users with English as a mother tongue has gone down from over 50 % in 2000 to about 30 % in 2005 (Graddol, 2006). It is interesting to note that it is in particular languages like Chinese, Arabic, Portuguese and Spanish that are increasing their popularity, both on the Internet and otherwise.
 
 ### Research and development work in Norway
 
@@ -620,7 +736,7 @@ In his dissertation Lehmann (Lehmann, 1999) points out how pupils quickly reach 
 
 Hellekjær (Hellekjær, 2005) has made similar findings with regards to reading skills in English. The pupils' own impressions are not compatible with their achievements in tests. This state of affairs lasts into higher education and may hinder their ability to use course literature written in English. Like Drew and Lehmann, Hellekjær points out the importance of ensuring good language learning in schools to equip the pupils for further studies and lifelong learning.
 
-In a study of English teachers practising in ICT-rich environments Lund (Lund, 2004) points out that fundamental changes are taking place in the classroom. ICT suspends limitations in time and space and provides opportunities for a number of new genres, registers, conventions and forms of expression. Thus the subject changes with the pupils' and teachers' relationship to both the subject and the communication setting. Integrating new communicative practises in schools will be of decisive importance when it comes to equipping pupils to meet both learning and working situations in the 21 st  century.
+In a study of English teachers practising in ICT-rich environments Lund (Lund, 2004) points out that fundamental changes are taking place in the classroom. ICT suspends limitations in time and space and provides opportunities for a number of new genres, registers, conventions and forms of expression. Thus the subject changes with the pupils' and teachers' relationship to both the subject and the communication setting. Integrating new communicative practises in schools will be of decisive importance when it comes to equipping pupils to meet both learning and working situations in the 21st century.
 
 Researchers at the Institute of Practical Education at the University of Bergen and at the Institute for Teacher Training and School Development (ILS) at the University of Oslo have developed and carried out several projects within the PLUTO-project which are directed at the use of ICT in teacher training and the use of portfolio assessment.
 
@@ -654,13 +770,13 @@ On 2 November 2006 the Nordic Council supported the Proposal from the Council of
 
 In accordance with this the Declaration identifies four main areas for continuing language policy cooperation:
 
-- Linguistic understanding and knowledge
+1. Linguistic understanding and knowledge
 
-- Parallel language competence, both between English and the Nordic languages, and between the Nordic languages
+2. Parallel language competence, both between English and the Nordic languages, and between the Nordic languages
 
-- Multilingualism and plurilingualism
+3. Multilingualism and plurilingualism
 
-- The Nordic region as a linguistic pioneer
+4. The Nordic region as a linguistic pioneer
 
 The Nordic ministers of education and research have decided to start their follow-up to the Declaration by taking an initiative to clarify and prioritise existing and planned language policy efforts in the Nordic Council of Ministers, giving priority to linguistic understanding.
 
@@ -684,7 +800,7 @@ In this connection Ostad (Ostad, 2005) demonstrates how children with Down's syn
 
 ### The EU's Action Plan for Language Learning
 
-The EU Commission's Action Plan for Language Learning and Linguistic Diversity in Europe (20042006) 6  was completed in the autumn of 2003 and has been followed up by the Member States during this period. Every single country has submitted a report about national follow-up of the Action Plan.
+The EU Commission's Action Plan for Language Learning and Linguistic Diversity in Europe (2004-2006) 6 was completed in the autumn of 2003 and has been followed up by the Member States during this period. Every single country has submitted a report about national follow-up of the Action Plan.
 
 This plan has three main issues:
 
@@ -696,17 +812,19 @@ This plan has three main issues:
 
 The Action Plan has included efforts both at European and national levels. At the national level the authorities are encouraged to implement measures to improve their own education system regarding foreign language learning, and to highlight good examples that may motivate more and improved foreign language learning.
 
-The Action Plan contains good examples from various European countries showing how one can succeed at more and improved foreign language learning. These have been a source of inspiration for the authorities in various countries when drawing up a policy for promoting foreign language learning. The final report in 2006 concerning the actions of the participating countries was connected to the following issues:
+The Action Plan contains good examples from various European countries showing how one can succeed at more and improved foreign language learning. These have been a source of inspiration for the
 
-> 5 Special Educational Needs in Europe. The Teaching and Learning of Languages , European Commission 2005.
+> 5 Special Educational Needs in Europe. The Teaching and Learning of Languages, European Commission 2005.
 
-> 6 Promoting Language Learning and Linguistic Diversity. An Action Plan 2004-06 , European Commission 2003.
+> 6 Promoting Language Learning and Linguistic Diversity. An Action Plan 2004-06, European Commission 2003.
 
 31
 
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
+
+authorities in various countries when drawing up a policy for promoting foreign language learning. The final report in 2006 concerning the actions of the participating countries was connected to the following issues:
 
 - Making an early start with foreign language teaching to help the objective of 'mother tongue plus two other languages'
 
@@ -728,19 +846,19 @@ The Action Plan contains good examples from various European countries showing h
 
 - Increased awareness of the benefits of language learning
 
-The EU's new Lifelong Learning Programme, 20072013, LLP (see below), is to continue working towards the objectives of the Action Plan and support foreign language learning both generally and in the form of special programme activities.
+The EU's new Lifelong Learning Programme, 2007-2013, LLP (see below), is to continue working towards the objectives of the Action Plan and support foreign language learning both generally and in the form of special programme activities.
 
 The indicators from the survey made by Eurydice (the information network on education in Europe) of foreign language teaching in Europe (see 'International School Surveys' below) also provide a basis for comparison and information about how the different countries, including Norway, have followed up the common European recommendations.
 
 ### EU educational programmes
 
-The introduction of the EU educational programmes Socrates, Leonardo da Vinci and Youth for Europe/ Youth has had a great impact on strengthening the European dimension in Norwegian schools. For the first time in European history educational cooperation is now possible both in general academic studies ( Socrates ), vocational education and training ( Leonardo da Vinci ) and non-formal education ( Youth for Europe/Youth ). The Socrates subprogramme called Comenius addresses itself to teachers, pupils and students at all levels of the educational system, from kindergarten to teacher training. It is structured so as to encourage cooperation across educational levels and motivate re-thinking in the interaction between schools and teacher training. (Experiences from these programmes in Norway can be found in 'International programmes' under 'National perspective'.)
+The introduction of the EU educational programmes Socrates, Leonardo da Vinci and Youth for Europe/Youth has had a great impact on strengthening the European dimension in Norwegian schools. For the first time in European history educational cooperation is now possible both in general academic studies ( Socrates ), vocational education and training ( Leonardo da Vinci ) and non-formal education ( Youth for Europe/Youth ). The Socrates sub-programme called Comenius addresses itself to teachers, pupils and students at all levels of the educational system, from kindergarten to teacher training. It is structured so as to encourage cooperation across educational levels and motivate re-thinking in the interaction between schools and teacher training. (Experiences from these programmes in Norway can be found in 'International programmes' under 'National perspective'.)
 
-The third generation of the EU's educational programmes, The Lifelong Learning Programme (2007-2013) , is to replace and develop the Socrates and Leonardo da Vinci programmes in an integrated programme for lifelong learning. The new programme includes the four sectoral programmes Comenius, Erasmus, Leonardo da Vinci and Grundtvig . The foreign language dimension is strengthened both as a key activity and as an element of all the subprogrammes. The Youth in Action Programme will carry on as a parallel to the The Lifelong Learning Programme .
+The third generation of the EU's educational programmes, The Lifelong Learning Programme (2007-2013) , is to replace and develop the Socrates and Leonardo da Vinci programmes in an integrated programme for lifelong learning. The new programme includes the four sectoral programmes Comenius, Erasmus, Leonardo da Vinci and Grundtvig . The foreign language dimension is strengthened both as a key activity and as an element of all the sub-programmes. The Youth in Action Programme will carry on as a parallel to the The Lifelong Learning Programme .
 
 Even though Norway is not a part of the European Union, through the EEA we participate in the programmes with the same rights and obligations as the member states. The contents of White Paper no. 30 (2003-2004) Culture for Learning and the Knowledge Promotion are in accordance with the intentions inherent in the programmes. Therefore, there are clear parallels between Norwegian and European educational policies.
 
-The EU Commission's Action Plan for Language Learning and Linguistic Diversity in Europe (20042006) and The Lifelong Learning Programme (LLP) emphasise the importance of plurilingualism in an extended community which depends on good interaction in order to achieve the ambitious objectives of the Lisbon Process. Learning several foreign languages is a central objective in the Lisbon Process, which has amongst other things resulted in the appointment of an expert group for foreign language learning with members from 30 European countries, including Norway.
+The EU Commission's Action Plan for Language Learning and Linguistic Diversity in Europe (2004-2006) and The Lifelong Learning Programme (LLP) emphasise the importance of plurilingualism in an
 
 32
 
@@ -748,27 +866,29 @@ The EU Commission's Action Plan for Language Learning and Linguistic Diversity i
 
 [[START OF PAGE 31]]
 
+extended community which depends on good interaction in order to achieve the ambitious objectives of the Lisbon Process. Learning several foreign languages is a central objective in the Lisbon Process, which has amongst other things resulted in the appointment of an expert group for foreign language learning with members from 30 European countries, including Norway.
+
 In 2005 the European Commission presented its Proposal for Recommendation concerning a European reference framework for defining key competence in education in each member state. The Recommendation was first discussed in the European Parliament in September 2006. The Council is expected to make a decision in November and the Recommendation should therefore be finalised during 2006.
 
 The Recommendation aims to establish a common European framework that identifies and defines the key competences necessary for personal fulfilment, active citizenship, social equality and employability in a knowledge society. The recommendation is to support the member states' work on defining such competences and, in addition, to provide a platform for further activities at European level within the framework of Education and Training 2010 .
 
 The recommendation identifies and defines eight key competences:
 
-- The ability to communicate in the mother tongue
+1. The ability to communicate in the mother tongue
 
-- Competence in foreign languages
+2. Competence in foreign languages
 
-- Mathematical competence and basic competences in science and technology
+3. Mathematical competence and basic competences in science and technology
 
-- Digital competence (ICT)
+4. Digital competence (ICT)
 
-- Learning competence (learning to learn)
+5. Learning competence (learning to learn)
 
-- Social competence, and the ability to function in the community (active citizenship)
+6. Social competence, and the ability to function in the community (active citizenship)
 
-- The ability to make initiatives and entrepreneurship
+7. The ability to make initiatives and entrepreneurship
 
-- Cultural awareness and the ability to express oneself
+8. Cultural awareness and the ability to express oneself
 
 ### The Council of Europe's activities to promote languages
 
@@ -814,13 +934,15 @@ Experiences from a number of countries (including Finland, Sweden and Ireland) s
 
 In the Europass scheme for describing skills for work or education abroad, language competence is documented by the use of the self-assessment part of the European Language Portfolio (cf. measure 4.3.1). This assessment is based on the Framework .
 
-A Norwegian language portfolio for lower and upper secondary education and a portfolio for adult immigrants have been completed. The language portfolio for pupils aged 13-18 has been made available for schools at http://skolenettet.no and www.fremmedspraksenteret.no. This Language Portfolio consists of three parts. The Language Passport sums up the owner's knowledge and skills in the foreign language(s). The Language Biography gives an overview of when, where and how the owner has learned the various languages. It is used to set intermediate learning goals and final goals and has check-lists for self-assessment of skills. The Language Dossier is to contain samples of the owner's work.
+A Norwegian language portfolio for lower and upper secondary education and a portfolio for adult immigrants have been completed. The language portfolio for pupils aged 13-18 has been made available for schools at http://skolenettet.no and
 
 34
 
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
+
+www.fremmedspraksenteret.no. This Language Portfolio consists of three parts. The Language Passport sums up the owner's knowledge and skills in the foreign language(s). The Language Biography gives an overview of when, where and how the owner has learned the various languages. It is used to set intermediate learning goals and final goals and has check-lists for self-assessment of skills. The Language Dossier is to contain samples of the owner's work.
 
 In the autumn of 2006 the implementation of the Language Portfolio for pupils aged 13-18 started at selected secondary schools around the country. A handbook for teachers is being developed and the teacher training institutions are also aware of the implementation process. A language portfolio for grades 3 - 7 is being tried out at selected schools from the autumn of 2006 and will be nationally available from the autumn of 2007.
 
@@ -853,29 +975,27 @@ It emerged from the survey that using the foreign language in the classroom was 
 
 Findings from the teacher questionnaires show that there are surprisingly significant similarities in Europe as regards the English teacher. Most of the teachers are well-qualified, experienced women who work hard but feel unappreciated by society. Another similarity in Europe is that the teachers do not avail themselves of their opportunities for having contact with English speakers from other countries, organising exchanges for pupils and teachers and using the Internet in an authentic manner.
 
-Figure 2. Competence profiles for oral comprehension, linguistic competence, reading comprehension and simple written production for seven participating countries.
-
 Denmark   Finland   France    Netherlands   Norway   Spain   Sweden
 
-10
-
-20
-
-30
-
-40
-
-50
-
-60
-
-70
-
-80
+100
 
 90
 
-100
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
 
 Oral
 
@@ -884,6 +1004,8 @@ Ling comp
 Read comp
 
 Writt prod
+
+Figure 2. Competence profiles for oral comprehension, linguistic competence, reading comprehension and simple written production for seven participating countries.
 
 36
 
@@ -894,7 +1016,7 @@ Writt prod
 White Paper no.30 (2003-2004) Culture for Learning states that quality development in schools requires schools to be in a position to recruit competent, committed and motivated teachers and school leaders and to have the resources that allow them to keep and develop their human resources. According to the English survey Norwegian teachers of English have the lowest participation rate in Europe in continuing and supplementary education lasting at least one week. The teacher questionnaire's open part, dealing with future challenges, made it clear that the Norwegian teachers of English need and want to increase their competence.
 
 ##### The Eurydice survey 'Key Data on Teaching Languages at School in Europe 2005 Edition'
-At the March 2002 Barcelona European Council, the Heads of State or Government called for a sustained effort to improve the mastery of basic skills, in particular by teaching at least two foreign languages from a very early age. They also called for linguistic competence indicators to be established in this field. The Eurydice survey Key Data on Teaching Languages at School in Europe 2005 Edition (available in English, French and German) follows up this commitment and also links with the objectives in the EU Commission's Action Plan for Language Learning and Linguistic Diversity (20042006) . The survey mentions 37 indicators as a basis for regular reports from Norway and the other participating countries, with the next report due in 2007.
+At the March 2002 Barcelona European Council, the Heads of State or Government called for a sustained effort to improve the mastery of basic skills, in particular by teaching at least two foreign languages from a very early age. They also called for linguistic competence indicators to be established in this field. The Eurydice survey Key Data on Teaching Languages at School in Europe 2005 Edition (available in English, French and German) follows up this commitment and also links with the objectives in the EU Commission's Action Plan for Language Learning and Linguistic Diversity (2004-2006). The survey mentions 37 indicators as a basis for regular reports from Norway and the other participating countries, with the next report due in 2007.
 
 Two of the indicators apply to locally decided instruction in foreign languages. In a majority of the participating countries, individual schools may freely introduce a compulsory second foreign language in addition to the nationally defined minimum required basic education in their countries. About ten countries have also started pilot projects in foreign language teaching for ages where such teaching is not compulsory, corresponding to pre-school and primary stages in Norway.
 
@@ -949,7 +1071,7 @@ The Norwegian Directorate for Education and Training
 
 Twelve schools in the municipalities of Tromsø, Bodø, Bergen, Trondheim, Hå and Oslo are taking part in an experiment with an early start in a second foreign language at the primary level from the start of the school year of 2005. The languages offered are German, French and Spanish.
 
-The experiment is being evaluated by Telemark Educational Research (TFN). The evaluation task has two components. Partial Report 1 was published in April 2006 and gives an overview of experiences and research from a number of earlystart projects in and outside Norway and presents success factors for early language learning. Phase 2 of the evaluation will follow up and document work done by the schools and their experiences with early start.
+The experiment is being evaluated by Telemark Educational Research (TFN). The evaluation task has two components. Partial Report 1 was published in April 2006 and gives an overview of
 
 38
 
@@ -957,13 +1079,15 @@ The experiment is being evaluated by Telemark Educational Research (TFN). The ev
 
 [[START OF PAGE 37]]
 
+experiences and research from a number of early-start projects in and outside Norway and presents success factors for early language learning. Phase 2 of the evaluation will follow up and document work done by the schools and their experiences with early start.
+
 Support and information functions for this trial are being maintained by the Norwegian Centre for Foreign Languages on a closed Internet forum via the College's server.
 
 #### 1.1.2	 Develop a European Language Portfolio for the primary level
 
 ##### Action
 
-During 2005-2006 a Norwegian language portfolio for the primary level (e.g. for 4th to 7th grades) was made to support the learning of English as first foreign language and early start of second foreign language. This l anguage portfolio will be tried out at a limited selection of schools during the school year of 2006-2007 and will thereafter be offered nationwide.
+During 2005-2006 a Norwegian language portfolio for the primary level (e.g. for 4th to 7th grades) was made to support the learning of English as first foreign language and early start of second foreign language. This language portfolio will be tried out at a limited selection of schools during the school year of 2006-2007 and will thereafter be offered nationwide.
 
 ##### Responsible
 
@@ -1049,7 +1173,7 @@ A new measure
 
 ##### Action
 
-White Paper no. 30 (2003-2004) Culture for Learning states that schools 'are to offer pupils instruction in German, French, Spanish or Russian, and, if they have the opportunity to do so, also in other languages, amongst which nonEuropean languages' (page 48).
+White Paper no. 30 (2003-2004) Culture for Learning states that schools 'are to offer pupils instruction in German, French, Spanish or Russian, and, if they have the opportunity to do so, also in other languages, amongst which non-European languages' (page 48).
 
 Schools develop local or regional solutions for sharing teacher resources between primary, lower secondary and upper secondary levels. They are encouraged to use and further develop digital teaching materials so that more pupils may be offered more foreign languages. Examples of good practice will be documented. This collection can be accessed at the foreign languages website of the Norwegian Centre for Foreign Languages.
 
@@ -1074,13 +1198,14 @@ Information material is to be prepared so that school counsellors in lower and s
 ##### Responsible
 
 The Norwegian Directorate for Education and Training, the Norwegian Centre for Foreign Languages
-##### Time frame
 
 40
 
 [[END OF PAGE 38]]
 
 [[START OF PAGE 39]]
+
+##### Time frame
 
 2006
 
@@ -1328,7 +1453,7 @@ From 2006
 
 The Centre is constantly on the outlook for resources and software that support communication, and will make them accessible on their website. Information about new learning resources will be spread in a regular newsletter.
 
-#### 2.4.2	 Further develop the use of ICT at schoolleaving examinations and foreign language examinations and national English tests
+#### 2.4.2	 Further develop the use of ICT at school-leaving examinations and foreign language examinations and national English tests
 
 ##### Action
 
@@ -1344,7 +1469,7 @@ The Directorate for Education and Training
 
 ##### Status
 
-In the spring of 2006 school-leavers in the 10th grade were offered an examination in English with ICT, as were pupils who completed the foundation course in upper secondary education. A total of 60 schools (approx. 1,300 pupils) chose this form of examination. All school-leaving examinations and tests in all foreign languages can be taken digitally. Through the project The Digital School , and as parts of the systems for carrying out and administering tests (PAS/PGS) are ready, conditions will be adapted so as to make it easy and convenient for schools to use digital media when organising school-leaving tests/ examinations. During oral examinations in foreign languages schools may allow pupils to make an oral presentation where they among other things use digital media. Schools are increasingly availing themselves of this opportunity.
+In the spring of 2006 school-leavers in the 10th grade were offered an examination in English with ICT, as were pupils who completed the foundation course in upper secondary education. A total of 60 schools (approx. 1,300 pupils) chose this form of examination. All school-leaving examinations and tests in all foreign languages can be taken digitally. Through the project The Digital School , and as parts of the systems for carrying out and administering tests (PAS/PGS) are ready, conditions will be adapted so as to make it easy and convenient for schools to use digital media when organising school-leaving tests/examinations. During oral examinations in foreign languages schools may allow pupils to make an oral presentation where they among other things use digital media. Schools are increasingly availing themselves of this opportunity.
 
 #### 2.4.3	 Develop a common Internet website for foreign languages
 
@@ -1400,7 +1525,7 @@ Within the framework of the Network for Competence Development a network of spec
 ##### Action
 White Paper no. 30 (2003-2004) Culture for Learning encourages an early start for the second foreign language (cf. measure 1.1.1). At the primary level very often class teachers without formal qualifications  in English teach the subject and an in-depth language specialisation would increase the quality of the teaching and the pupils' learning yield. The age structure of teachers means that there must be a comprehensive recruitment of new language teachers.
 
-Universities and colleges are being encouraged to motivate teacher training students to choose indepth language specialisation and to recruit students with an education in foreign languages to take practical pedagogical education. The universities are being encouraged to motivate students who want to study languages to choose the new fiveyear integrated teacher training study programme.
+Universities and colleges are being encouraged to motivate teacher training students to choose in-depth language specialisation and to recruit students with an education in foreign languages to take practical pedagogical education. The universities are being encouraged to motivate students who want to study languages to choose the new five-year integrated teacher training study programme.
 
 ##### Responsible
 
@@ -1422,7 +1547,7 @@ The websites utdanning.no and norgesuniversitetet.no both provide information ab
 
 Central elements in competence development should be building up the teacher's linguistic competence, use of ICT in foreign language teaching, facilitating a practical approach, adapted teaching and pupil assessment in foreign languages, developing teaching competence by amongst other aids the European Language Portfolio and new forms of assessment.
 
-Based on needs reported by school owners the teacher training institutions are to cooperate with school owners on developing flexible, modulebased supplementary and continuing education courses leading to formal competence.
+Based on needs reported by school owners the teacher training institutions are to cooperate with school owners on developing flexible, module-based supplementary and continuing education courses leading to formal competence.
 
 46
 
@@ -1458,9 +1583,7 @@ The Centre has contacted different types of providers in order to establish an o
 #### 3.2.3	 Further develop existing Internet-based supplementary and continuing education courses and develop new courses
 
 ##### Action
-competence in foreign languages it is important to the country. Internet-based studies are flexible and
-
-In order to ensure a national boost of teacher make good courses available to teachers all over can be followed wherever one may live. Internetbased supplementary and continuing education courses in languages should include didactics and promote an active, conscious and critical use of ICT in language teaching.
+In order to ensure a national boost of teacher competence in foreign languages it is important to make good courses available to teachers all over the country. Internet-based studies are flexible and can be followed wherever one may live. Internet-based supplementary and continuing education courses in languages should include didactics and promote an active, conscious and critical use of ICT in language teaching.
 
 PROFFT is a national project that has developed flexible studies in German and French with the three elements of language, didactics and ICT, and has provided useful experiences. Similar studies in other foreign languages such as Spanish and Russian are being developed. One stimulation measure could be to integrate a stay abroad into the course.
 
@@ -1488,7 +1611,7 @@ PROFFT has extended their courses on offer to include Spanish, and they are also
 
 ##### Action
 
-In Norway universities and colleges are responsible for training foreign language teachers. The document called Competence for Development. Policy for Competence Development in Primary and Secondary Education and Training 20052008 states that '[i]t is the task of universities and colleges to provide a relevant initial teacher training that will motivate teachers for lifelong learning […] and ensure that their own academic staff have the necessary professional competence and insight into the reform and the challenges it poses for primary and secondary education and training' (page 11).
+In Norway universities and colleges are responsible for training foreign language teachers. The document called Competence for Development. Policy for Competence Development in Primary and Secondary Education and Training 2005-2008 states that '[i]t is the task of universities and colleges to provide a relevant initial teacher training that will motivate teachers for lifelong learning […] and ensure that their own academic staff have the necessary professional competence and insight into the reform and the challenges it poses for primary and secondary education and training' (page 11).
 
 Universities and colleges are encouraged to develop more courses in different languages with didactics.
 
@@ -1584,7 +1707,7 @@ In cooperation with schools an essay competition for pupils in upper secondary e
 
 ##### Action
 
-The language award The European Label was launched by the EU in 1998 to encourage new initiatives in the field of language teaching and learning. The purpose of the European Label has been to show the significance of language teaching and linguistic competence, and to contribute to innovation in language teaching in the participating countries in the EU and on Iceland and in Norway.
+The language award The European Label was launched by the EU in 1998 to encourage new initiatives in the field of language teaching and learning. The purpose of the European Label
 
 49
 
@@ -1592,7 +1715,9 @@ The language award The European Label was launched by the EU in 1998 to encourag
 
 [[START OF PAGE 48]]
 
-The European Label is awarded by national juries in accordance with criteria that are partly joint European and partly fixed at the national level.  In Norway awarding the European Label was the responsibility of the Norwegian Board of Education. Being given publicity in Europe and contact with winning projects and professional environments in other countries has meant a lot to earlier Norwegian winners.
+has been to show the significance of language teaching and linguistic competence, and to contribute to innovation in language teaching in the participating countries in the EU and on Iceland and in Norway.
+
+The European Label is awarded by national juries in accordance with criteria that are partly joint European and partly fixed at the national level. In Norway awarding the European Label was the responsibility of the Norwegian Board of Education. Being given publicity in Europe and contact with winning projects and professional environments in other countries has meant a lot to earlier Norwegian winners.
 
 The European Label is awarded annually to one or more projects which are relevant for primary and secondary education and entails a travel grant or funds to finalise or disseminate information about the project. Schools, institutions, organisations and individuals are eligible for the award.
 
@@ -1606,13 +1731,13 @@ From 2006
 
 ##### Status
 
-The Directorate for Education and Training and the Leonardo office of the National Institute of Technology have been responsible for the 2006 call for projects. A jury comprised of representatives from the Directorate for Education and Training, the Leonardo office, the Norwegian Centre for Foreign Languages in Education and the Swedish member of the European  Label Network have given the award for 2006 to Wenn jemand eine Reise tut, so kann er/sie was erzählen - A Compendium and Digital Game . The game aims to train receptive and productive oral skills in German in foreign language teaching through the use of digital media. The winning project has been used in the socalled PROFFT programme which offers teachers Internet-based continuing education, and in the German studies of the teacher training course at Østfold University College. The jury's decision was based on European and national criteria in addition to the EU Commission's priorities for the European Label Campaign in 2006 and 2007: 'Initial and in-service language teacher training' and 'Diversification of the languages on offer'.
+The Directorate for Education and Training and the Leonardo office of the National Institute of Technology have been responsible for the 2006 call for projects. A jury comprised of representatives from the Directorate for Education and Training, the Leonardo office, the Norwegian Centre for Foreign Languages in Education and the Swedish member of the European Label Network have given the award for 2006 to Wenn jemand eine Reise tut, so kann er/sie was erzählen - A Compendium and Digital Game. The game aims to train receptive and productive oral skills in German in foreign language teaching through the use of digital media. The winning project has been used in the so-called PROFFT programme which offers teachers Internet-based continuing education, and in the German studies of the teacher training course at Østfold University College. The jury's decision was based on European and national criteria in addition to the EU Commission's priorities for the European Label Campaign in 2006 and 2007: 'Initial and in-service language teacher training' and 'Diversification of the languages on offer'.
 
 #### 4.1.4	 Involve media providers in demonstrating the value of plurilingualism
 
 ##### Action
 
-Today, English is the dominant foreign language of broadcast programmes. Cultural expressions from other language communities than the AngloAmerican ones are not easy to perceive and so schools and society lose an important source of motivation and help for learning other foreign languages than English.
+Today, English is the dominant foreign language of broadcast programmes. Cultural expressions from other language communities than the Anglo-American ones are not easy to perceive and so schools and society lose an important source of motivation and help for learning other foreign languages than English.
 
 National television channels, the cable networks and other media providers are to be involved in a dialogue about possible measures for expanding the cultural references for programmes and channels. Embassies and the export trade will also act as national partners.
 
@@ -1674,7 +1799,7 @@ Current
 
 ##### Status
 
-As one of the five parts of Europass a Norwegian version of the Europass Language Passport has been developed. This Language Passport is to help describe language skills in a systematic and comprehensible way in a common European format. The Norwegian Europass website www. europass.no provides information and advice about how to use the Language Passport. The Language Passport can be filled in electronically on the website in any of the languages of the affiliated countries. As of June 2006 1,500 people had logged in on the Europass website to download the Norwegian instructions about the Language Passport.
+As one of the five parts of Europass a Norwegian version of the Europass Language Passport has been developed. This Language Passport is to help describe language skills in a systematic and comprehensible way in a common European format. The Norwegian Europass website www.europass.no provides information and advice about how to use the Language Passport. The Language Passport can be filled in electronically on the website in any of the languages of the affiliated countries. As of June 2006 1,500 people had logged in on the Europass website to download the Norwegian instructions about the Language Passport.
 
 ### 4.4 Increased knowledge about society's demand for other foreign languages than English
 
@@ -1694,13 +1819,15 @@ From 2005
 
 ##### Status
 
-The value of and the need for foreign language proficiency has been documented by a broad survey carried out by Vox in the autumn of 2005, commissioned by the Norwegian Centre for Foreign Languages in Education. An interim report, English is Not Enough: An Interim Report about the Use of Foreign Languages in Norwegian Business and Industry in 2005 , was published in May 2006 and was met with interest and editorial comments from the media. The survey received 1,032 answers from middle and top management in Norwegian import and export companies and is the first large survey of its kind to be carried out in Norway. The interim report is being followed up by a more comprehensive analysis to be published in the spring of 2007.
+The value of and the need for foreign language proficiency has been documented by a broad survey carried out by Vox in the autumn of 2005, commissioned by the Norwegian Centre for Foreign Languages in Education. An interim report, English is Not Enough: An Interim Report about the Use of
 
 51
 
 [[END OF PAGE 49]]
 
 [[START OF PAGE 50]]
+
+Foreign Languages in Norwegian Business and Industry in 2005, was published in May 2006 and was met with interest and editorial comments from the media. The survey received 1,032 answers from middle and top management in Norwegian import and export companies and is the first large survey of its kind to be carried out in Norway. The interim report is being followed up by a more comprehensive analysis to be published in the spring of 2007.
 
 ## 5 Strengthened internationalisation in foreign language teaching
 
@@ -1754,14 +1881,14 @@ The Norwegian Centre for Foreign Languages has been in contact with the institut
 
 ##### Action
 
-The concept Content and Language Integrated Learning (CLIL) is in Norway also called bilingual learning. This is instruction in a foreign language in a subject other than the foreign language itself. Experiments with CLIL in vocational education programmes are to be conducted as part of preparing pupil exchanges with target language countries.
+The concept Content and Language Integrated Learning (CLIL) is in Norway also called bilingual learning. This is instruction in a foreign language in a subject other than the foreign language itself. Experiments with CLIL in vocational education
 
 52
 
 [[END OF PAGE 50]]
 
 [[START OF PAGE 51]]
-
+programmes are to be conducted as part of preparing pupil exchanges with target language countries.
 ##### Responsible
 
 The Norwegian Centre for Foreign Languages
@@ -1824,14 +1951,14 @@ SIU is working to promote the development of bilateral mobility programmes withi
 
 ##### Action
 
-Provide information on the websites of SIU and the Norwegian Centre for Foreign Languages in Education about the various project funds that could be relevant for Norwegian applicants. In connection with the introduction of the EU's new Lifelong Learning Programme (LLP) , guidance of, and information to, Norwegian applicants is to be strengthened. Making good practice known could help ensure that participation in the programmes yields professional and academic learning benefits.
+Provide information on the websites of SIU and
 
 53
 
 [[END OF PAGE 51]]
 
 [[START OF PAGE 52]]
-
+the Norwegian Centre for Foreign Languages in Education about the various project funds that could be relevant for Norwegian applicants. In connection with the introduction of the EU’s new Lifelong Learning Programme (LLP), guidance of, and information to, Norwegian applicants is to be strengthened. Making good practice known could help ensure that participation in the programmes yields professional and academic learning benefits.
 ##### Responsible
 
 SIU, the Norwegian Centre for Foreign Languages
@@ -1880,15 +2007,18 @@ New and efficient teaching methods are necessary in a society where mobility and
 
 Joint projects are to be initiated between specified professional circles, universities and colleges (transversal language programmes and Comenius in the EU's new Lifelong Learning Programme ), between schools ( Comenius ) and between schools and universities and colleges.
 
-Research and development work is also to be initiated through the eLearning and school partnership programmes ( eTwinning ) which are also EU programmes. In the new Lifelong Learning Programme eTwinning is integrated in
-##### Responsible
-The Norwegian Centre for Foreign Languages, SIU
+Research and development work is also to be initiated through the eLearning and school
 
 54
 
 [[END OF PAGE 52]]
 
 [[START OF PAGE 53]]
+partnership programmes (eTwinning) which are also EU programmes. In the new Lifelong Learning Programme eTwinning is integrated in Comenius.
+
+##### Responsible
+
+The Norwegian Centre for Foreign Languages, SIU
 
 ##### Time frame
 
@@ -1901,15 +2031,13 @@ The Norwegian Centre for Foreign Languages, SIU
 #### 6.2.2	 Develop models for better interaction between research and practice in teacher training in foreign languages
 
 ##### Action
-White Paper no. 30 (2003-2004) Culture for Learning says: 'The Ministry will give priority to the practicallyoriented research and development work in teacher training' (p. 101). Competence for Learning. A Strategy for the Development of Competence in Primary and Secondary Education 2005-2008 emphasises that '[i]t is the responsibility of universities and colleges to […] undertake research and development work in cooperation with school owners [and] to help disseminate the results of research and development work to relevant parties' (p. 11).
+White Paper no. 30 (2003-2004) Culture for Learning says: 'The Ministry will give priority to the practically-oriented research and development work in teacher training' (p. 101). Competence for Learning. A Strategy for the Development of Competence in Primary and Secondary Education 2005-2008 emphasises that '[i]t is the responsibility of universities and colleges to […] undertake research and development work in cooperation with school owners [and] to help disseminate the results of research and development work to relevant parties' (p. 11).
 
 Relevant areas for research are adapted education and individual assessment in foreign language teaching, guidance of new foreign language teachers and portfolio assessment in teacher training and in schools.
 
 The university and college sector, in cooperation with school owners, are to develop joint research projects and establish channels for disseminating research and results connected with foreign language teaching at all levels and with the training of foreign language teachers.
 
-.
 
-Comenius
 ##### Responsible
 The Norwegian Centre for Foreign Languages, Network for Competence Development, universities and colleges
 ##### Time frame
@@ -1969,7 +2097,7 @@ The Directorate for Education and Training has started work on external assessme
 
 The Norwegian Centre for Foreign Languages in Education was established 1 June 2005 as a part of Østfold University College. The Ministry has delegated responsibility for following up the Centre to the Directorate for Education and Training. In administrative matters the Centre relates to Østfold University College, with which the Centre also has close academic cooperation.
 
-The Norwegian Centre for Foreign Languages in Education is to be a national resource centre for the teaching of foreign languages in primary and secondary education and is to ensure that the teaching of foreign languages is of a high quality, adapted to each pupil and given a practical, varied content. The Centre is to help Norway become a country whose inhabitants have a high level of proficiency in many foreign languages, both European and nonEuropean.
+The Norwegian Centre for Foreign Languages in Education is to be a national resource centre for the teaching of foreign languages in primary and secondary education and is to ensure that the teaching of foreign languages is of a high quality, adapted to each pupil and given a practical, varied content. The Centre is to help Norway become a country whose inhabitants have a high level of proficiency in many foreign languages, both European and non-European.
 
 The Centre's target groups are pupils, foreign language teachers in primary and secondary education and in teacher training, students, researchers and developers of teaching aids. In order to give foreign languages a positive position in the community as a whole, other important target groups will be parents, the media and the general public.
 
@@ -2094,7 +2222,7 @@ The National Network for English and Foreign Languages is jointly coordinated by
 
 - Bergem, R. et al. (2006). Tidleg oppstart med nye lærerplanar. Kartlegging av erfaringar med førebuing og iverksetjing. Arbeidsrapport nr. 196, Høgskulen i Volda, Møreforsking Volda.
 
-- Bonnet, G. et al. (2004). The Assessment of Pupils' Skills in English in eight European Countries 2002. Paris European network of policy makers for the evaluation of educational systems (The report can be accessed at http:// cisad.adc.education.fr/reva.)
+- Bonnet, G. et al. (2004). The Assessment of Pupils' Skills in English in eight European Countries 2002. Paris European network of policy makers for the evaluation of educational systems (The report can be accessed at http://cisad.adc.education.fr/reva.)
 
 - Council of Europe (2001). Common European Framework of Reference for Languages: Learning, Teaching and Assessment . Cambridge University Press.
 
@@ -2104,9 +2232,11 @@ The National Network for English and Foreign Languages is jointly coordinated by
 
 - Drew, Ion (2004). 'Comparing Primary English in Norway and the Netherlands', in Språk og språkundervisning no. 2, 2004.
 
-- European Commission (2003). Promoting Language Learning and Linguistic Diversity. An Action Plan 2004-06 European Commission (2005). Special Educational Needs in Europe. The Teaching & Learning of Languages . Eurydice (2005). Key Data on Teaching Languages at School in Europe - 2005 Edition .
+- European Commission (2003). Promoting Language Learning and Linguistic Diversity. An Action Plan 2004-06.
 
-.
+- European Commission (2005). Special Educational Needs in Europe. The Teaching & Learning of Languages.
+
+- Eurydice (2005). Key Data on Teaching Languages at School in Europe - 2005 Edition.
 
 - Gjørven, R. (1999) 'Learner Autonomy in the Curriculum Guidelines, (how) will it work?' in Ribé, R. (ed.): Developing Learner Autonomy in Foreign Language Learning,133-145 . University of Barcelona, Barcelona.
 
@@ -2126,11 +2256,11 @@ The National Network for English and Foreign Languages is jointly coordinated by
 
 - Hellekjær, G. O. (2005). The Acid Test: Does Upper Secondary EFL Instruction Effectively Prepare Students for the Reading of English Textbooks at Colleges and Universities? Doctoral dissertation, the Universitety of Oslo.
 
-- Hellekjær, G. O./Kvam, S. (2006). Engelsk er ikke nok: En foreløpig rapport om bruken av fremmedspråk i norsk næringsliv i 2005 (http://www.fremmedspraksenteret.no/dokumenter/ Forskning_utvikling/ Vox250406.pdf)
+- Hellekjær, G. O./Kvam, S. (2006). Engelsk er ikke nok: En foreløpig rapport om bruken av fremmedspråk i norsk næringsliv i 2005 (http://www.fremmedspraksenteret.no/dokumenter/Forskning_utvikling/Vox250406.pdf)
 
 - Hestnes, H. (2006). 'Internasjonalisering i lærerutdanningen: Hvordan opplever norske elever og lærere å ha en engelsktalende lærerstudent i klasserommet?' Norsk Pedagogisk Tidsskrift 218 - 3/2006.
 
-- Ibsen, E. (2004). 'Engelsk i Europa 2002', Acta Didactica 2/2004 ILS, the University of Oslo (http://www.ils. uio. no/forskning/engelsk/).
+- Ibsen, E. (2004). 'Engelsk i Europa 2002', Acta Didactica 2/2004 ILS, the University of Oslo (http://www.ils.uio.no/forskning/engelsk/).
 
 - Johansen, S. (2003). 'Using Digital Portfolios in Teacher Education (French Didactics) as a Means to develop the Students Ability to reflect upon their own Learning', article presented at the Canarian Conference on Developing Autonomy in the FL Classroom, the University of La Laguna, Tenerife 25.2.-2.3.2003.
 
@@ -2138,7 +2268,9 @@ The National Network for English and Foreign Languages is jointly coordinated by
 
 - Competence for Development. Policy for competence development in primary and secondary education and training 2005-2008 (2004) Ministry of Education and Research.
 
-- Lagerström, B.O. (2000). Kompetanse i grunnskolen. Hovedresultater 1999/2000 . Statistics Norway 2000/72. Oslo. Language Education Policy Profile: Norway . Council of Europe, Ministry of Education and Research (2003 - 2004).
+- Lagerström, B.O. (2000). Kompetanse i grunnskolen. Hovedresultater 1999/2000. Statistics Norway 2000/72. Oslo.
+
+- Language Education Policy Profile: Norway. Council of Europe, Ministry of Education and Research (2003 - 2004).
 
 60
 
@@ -2162,19 +2294,19 @@ The National Network for English and Foreign Languages is jointly coordinated by
 
 - Ostad, J. (2005). Zweisprachigkeit bei Kindern mit Down-Syndrom . Doctoral dissertation from University of Humboldt in Berlin.
 
-. London: Routledge.
-
-- Phillipson, R. (2003). English-Only Europe - Challenging Language Policy
+- Phillipson, R. (2003). English-Only Europe – Challenging Language Policy. London: Routledge.
 
 - Political platform for a majority coalition government consisting of Arbeiderpartiet, Sosialistisk Venstreparti og Senterpartiet (the Soria Moria Declaration)
 
 - http://www.dep.no/smk/norsk/regjeringen/om_regjeringen/001001-990342/hov001-bn.html
 
-Programme for Digital Competenc e 2004 -2008. The Norwegian Ministry of Education and Research (2004).
+Programme for Digital Competence 2004 -2008. The Norwegian Ministry of Education and Research (2004).
 
 - SIU (2006). Hva mer skjer i et Comenius-prosjekt? En undersøkelse om det uventede og ikke-planlagte . Published in ComeniusNytt no. 6, 2006.
 
-- Solfjeld, K. (2004). 'Annet fremmedspråk på barnetrinnet', in Språk og språkundervisning no. 4/2004. White Paper no. 30 (2003-2004) Culture for Learning . Ministry of Education and Research (2003).
+- Solfjeld, K. (2004). 'Annet fremmedspråk på barnetrinnet', in Språk og språkundervisning no. 4/2004.
+
+- White Paper no. 30 (2003-2004) Culture for Learning. Ministry of Education and Research (2003).
 
 - The Common European Objectives in Education and Training: Indicators and Benchmarks in the Lisbon Strategy. A Norwegian Perspective . Ministry of Education and Research (2004).
 
@@ -2197,7 +2329,50 @@ Programme for Digital Competenc e 2004 -2008. The Norwegian Ministry of Educatio
 [[START OF PAGE 60]]
 
 # Useful Links
+The Norwegian Centre for Foreign Languages in Education
+http://www.fremmedspraksenteret.no/
 
+European Centre for Modern Languages
+http://www.ecml.at/
+
+European Label
+http://ec.europa.eu/education/language/label/index.cfm
+
+European Language Portfolio - Council of Europe
+http://www.coe.int/t/dg4/portfolio/Default.asp?L=E&M=/main_pages/welcome.html
+
+Eurydice on the Internet:
+http://www.eurydice.org
+
+Council of Europe
+http://www.coe.int
+
+Common European Framework of Reference for Languages: Learning, teaching, assessment
+http://www.coe.int/t/dg4/linguistic/CADRE_EN.asp
+
+Language Education Policy Profile for Norway
+www.coe.int/t/dg4/linguistic/Source/Profile_Norway_EN.pdf
+
+Promoting language learning and linguistic diversity. An action plan 2004-06.
+http://europa.eu.int/comm/education/doc/official/keydoc/actlang/act_lang_en.pdf
+
+SIU
+http://siu.no/
+
+Programme for French and German in Schools (PROFFT)
+http://profft.no/
+
+Troll Scholarships
+http://www.fylkesmannen.no/fmt_fagomrade.asp?tgid=100&gid=19484&amid=1030064
+
+United World Colleges (UWC)
+http://www.uwc.org/
+
+The Norwegian Study Centre in York
+http://www.york.ac.uk/inst/nsc/
+
+eTwinning
+http://www.skolenettet.no/etwinning
 62
 
 [[END OF PAGE 60]]
