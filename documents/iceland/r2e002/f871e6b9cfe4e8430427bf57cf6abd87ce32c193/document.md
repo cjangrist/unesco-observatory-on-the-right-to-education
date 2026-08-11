@@ -25,17 +25,17 @@ Children's  interests  and  welfare  shall  be  the  primary  mission  of  all  
 
 The main objectives of upbringing and instruction in the preschool shall be:
 
-- To  monitor  and  encourage  children's  general  development  in  close  cooperation with parents
+a. To monitor and encourage children's general development in close cooperation with parents
 
-- To provide systematic linguistic stimulation and contribute to common skills  in the Icelandic language
+b. To provide systematic linguistic stimulation and contribute to common skills in the Icelandic language
 
-- To provide children with mental, intellectual and physical care according to the needs of each individual, so that they may enjoy their childhood
+c. To provide children with mental, intellectual and physical care according to the needs of each individual, so that they may enjoy their childhood
 
-- To encourage children's broadmindedness and strengthen their moral values
+d. To encourage children's broadmindedness and strengthen their moral values
 
-- To  lay the foundation  necessary for the  children  to  become  independent, autonomous, active and responsible participants in a democratic society which is undergoing rapid and continuous development
+e. To lay the foundation necessary for the children to become independent, autonomous, active and responsible participants in a democratic society which is undergoing rapid and continuous development
 
-- To cultivate children's expressive and creative abilities with the aim of strengthening their self esteem, health awareness, confidence and communication skills
+f. To cultivate children's expressive and creative abilities with the aim of strengthening their self esteem, health awareness, confidence and communication skills
 
 Formatted: Bullets and Numbering
 
@@ -229,13 +229,13 @@ The Minister of Education, Science and Culture shall issue a Regulation regardin
 
 The objectives of evaluation and quality control in preschools are:
 
-- To provide information about school activities, school achievements and development  to  educational  authorities,  preschool  personnel,  receiving  schools and parents
+a. To provide information about school activities, school achievements and development to educational authorities, preschool personnel, receiving schools and parents
 
-- To ensure  that  school  activities  are  according  to  law,  Regulations  and  National Curriculum Guide for Preschools
+b. To ensure that school activities are according to law, Regulations and National Curriculum Guide for Preschools
 
-- To  increase the quality of education and school activities and  encourage improvements
+c. To increase the quality of education and school activities and encourage improvements
 
-- To ensure that children's rights are respected and that they get the service they are entitled to according to law
+d. To ensure that children's rights are respected and that they get the service they are entitled to according to law
 
 #### Article 18
 
