@@ -26,23 +26,23 @@ BGBl. I Nr. 75/2013 (NR: GP XXIV RV 2212 AB 2287 S. 199. BR: AB 8953 S. 820.)
 
 § 2. (1)  Der  Landesschülervertretung  obliegt  in  Fragen,  die  Schüler  in  ihrer  Schülereigenschaft betreffen,  die  Vertretung  der  Interessen  der  Schüler  der  allgemeinbildenden  höheren  Schulen,  der berufsbildenden mittleren und höheren Schulen sowie der höheren Anstalten der Lehrerbildung und der Erzieherbildung,  der  Berufsschulen  und  der  Polytechnischen  Lehrgänge  des  betreffenden  Landes gegenüber  dem  Landesschulrat,  sonstigen  Behörden  und  dem  Landtag.  Davon  unberührt  bleiben  die Vertretungsrechte der Erziehungsberechtigten, die Schülermitverwaltung (§ 58 des Schulunterrichtsgesetzes, BGBl. Nr. 472/1986, in der jeweils geltenden Fassung) und die Zuständigkeit der Zentrallehranstaltenschülervertretung.
 
-- Der Bundesschülervertretung obliegt in Fragen, die Schüler in ihrer Schülereigenschaft betreffen und die in ihrer Bedeutung über den Bereich eines Landes hinausgehen, die Vertretung der Interessen der Schüler  der  im  Abs. 1  genannten  Schulen  gegenüber  dem  Bundesminister  für  Unterricht,  Kunst  und Kultur, sonstigen Behörden, dem Nationalrat, dem Bundesrat sowie gesetzlichen Interessenvertretungen. Davon unberührt bleiben die Vertretungsrechte der Erziehungsberechtigten und die Schülermitverwaltung (§ 58 SchUG).
+(2) Der Bundesschülervertretung obliegt in Fragen, die Schüler in ihrer Schülereigenschaft betreffen und die in ihrer Bedeutung über den Bereich eines Landes hinausgehen, die Vertretung der Interessen der Schüler der im Abs. 1 genannten Schulen gegenüber dem Bundesminister für Unterricht, Kunst und Kultur, sonstigen Behörden, dem Nationalrat, dem Bundesrat sowie gesetzlichen Interessenvertretungen. Davon unberührt bleiben die Vertretungsrechte der Erziehungsberechtigten und die Schülermitverwaltung (§ 58 SchUG).
 
-- Der Zentrallehranstaltenschülervertretung obliegt in Fragen, die Schüler in ihrer Schülereigenschaft  betreffen,  die  Vertretung  der  Interessen  der  Schüler  der  Zentrallehranstalten  (§ 3 Abs. 4 des Bundes-Schulaufsichtsgesetzes, BGBl. Nr. 240/1962, in der jeweils geltenden Fassung), der höheren  land-  und  forstwirtschaftlichen  Lehranstalten,  der  land-  und  forstwirtschaftlichen  Fachschulen des  Bundes  und  der  Forstfachschule  gegenüber  Behörden  sowie  gesetzlichen  Interessenvertretungen, unbeschadet  der  Vertretungsrechte  der  Erziehungsberechtigten  und  der  Schülermitverwaltung  (§ 58 SchUG).
+(3) Der Zentrallehranstaltenschülervertretung obliegt in Fragen, die Schüler in ihrer Schülereigenschaft betreffen, die Vertretung der Interessen der Schüler der Zentrallehranstalten (§ 3 Abs. 4 des Bundes-Schulaufsichtsgesetzes, BGBl. Nr. 240/1962, in der jeweils geltenden Fassung), der höheren land- und forstwirtschaftlichen Lehranstalten, der land- und forstwirtschaftlichen Fachschulen des Bundes und der Forstfachschule gegenüber Behörden sowie gesetzlichen Interessenvertretungen, unbeschadet der Vertretungsrechte der Erziehungsberechtigten und der Schülermitverwaltung (§ 58 SchUG).
 
-- Darüber  hinaus  obliegt  den  Schülervertretungen  in  ihrem  jeweiligen  Zuständigkeitsbereich (Abs. 1 bis 3) die Beratung der Schüler in Angelegenheiten der Schülermitverwaltung (§ 58 SchUG).
+(4) Darüber hinaus obliegt den Schülervertretungen in ihrem jeweiligen Zuständigkeitsbereich (Abs. 1 bis 3) die Beratung der Schüler in Angelegenheiten der Schülermitverwaltung (§ 58 SchUG).
 
-- Ausgenommen vom Aufgabenbereich der Schülervertretungen ist die Beratung von Angelegenheiten, die Belange der Schüler der Schulen für Berufstätige betreffen.
+(5) Ausgenommen vom Aufgabenbereich der Schülervertretungen ist die Beratung von Angelegenheiten, die Belange der Schüler der Schulen für Berufstätige betreffen.
 
 ##### Erfüllung der Aufgaben
 
 § 3. (1)  Im  Rahmen  der  ihnen  gemäß  § 2  übertragenen  Aufgaben  stehen  den  Schülervertretungen insbesondere zu:
 
-- Beratung der Schulbehörden in grundsätzlichen Fragen des Unterrichts und der Erziehung;
+1. Beratung der Schulbehörden in grundsätzlichen Fragen des Unterrichts und der Erziehung;
 
-- Erstattung von Vorschlägen zur Erlassung von Gesetzen und Verordnungen;
+2. Erstattung von Vorschlägen zur Erlassung von Gesetzen und Verordnungen;
 
-- Abgabe von Stellungnahmen zu Gesetz- und Verordnungsentwürfen;
+3. Abgabe von Stellungnahmen zu Gesetz- und Verordnungsentwürfen;
 
 www.ris.bka.gv.at
 
@@ -54,27 +54,27 @@ Seite 1 von 9
 
 Bundesrecht konsolidiert
 
-- Erstattung von Vorschlägen in Angelegenheiten von Schulbauten und deren Ausstattung;
+4. Erstattung von Vorschlägen in Angelegenheiten von Schulbauten und deren Ausstattung;
 
-- Beratung in Angelegenheiten der Schülerzeitungen;
+5. Beratung in Angelegenheiten der Schülerzeitungen;
 
-- Beratung  in  Fragen  der  überregionalen  Koordination  von  schulbezogenen  Veranstaltungen, Schulveranstaltungen und in Fragen der Durchführung von Veranstaltungen der Schulbahnberatung;
+6. Beratung in Fragen der überregionalen Koordination von schulbezogenen Veranstaltungen, Schulveranstaltungen und in Fragen der Durchführung von Veranstaltungen der Schulbahnberatung;
 
-- Herausgabe von Rundschreiben und von Informationsblättern in schulischen Angelegenheiten;
+7. Herausgabe von Rundschreiben und von Informationsblättern in schulischen Angelegenheiten;
 
-- Planung und Durchführung von Fortbildungsveranstaltungen für Schülervertreter;
+8. Planung und Durchführung von Fortbildungsveranstaltungen für Schülervertreter;
 
-- Vorbringen von Anliegen und Beschwerden.
+9. Vorbringen von Anliegen und Beschwerden.
 
-- Die  Schülervertretungen  haben  sich  bei  der  Wahrnehmung  der  ihnen  übertragenen  Aufgaben (§§ 2  und  3)  von  der  Aufgabe  der  österreichischen  Schule  (§ 2  des  Schulorganisationsgesetzes,  BGBl. Nr. 242/1962, in der jeweils geltenden Fassung) leiten zu lassen.
+(2) Die Schülervertretungen haben sich bei der Wahrnehmung der ihnen übertragenen Aufgaben (§§ 2 und 3) von der Aufgabe der österreichischen Schule (§ 2 des Schulorganisationsgesetzes, BGBl. Nr. 242/1962, in der jeweils geltenden Fassung) leiten zu lassen.
 
 § 4. (1) Die Schülervertretungen sind berechtigt, jeweils in ihrem Zuständigkeitsbereich (§ 2 Abs. 1 bis  3)  die  zur  Erfüllung  der  ihnen  übertragenen  Aufgaben  (§§ 2  und  3)  notwendigen  Kontakte  mit Schülern an den einzelnen Schulen in der unterrichtsfreien Zeit der besuchten Schüler zu pflegen.
 
-- Der  Landesschülervertretung  ist  auf  Eingaben,  Vorschläge,  Anregungen  und  Beschwerden  an den Landesschulrat von diesem innerhalb von vier Wochen schriftlich zu antworten.
+(2) Der Landesschülervertretung ist auf Eingaben, Vorschläge, Anregungen und Beschwerden an den Landesschulrat von diesem innerhalb von vier Wochen schriftlich zu antworten.
 
-- Die Landesschülervertretung ist vom  Landesschulrat über Rechtsvorschriften und deren Änderungen  insoweit  unverzüglich  zu  informieren,  als  diese  zur  Wahrnehmung  der  ihr  übertragenen Aufgaben (§§ 2 und 3) eine Voraussetzung bilden. Gleiches gilt für die Information über die Ergebnisse von Umfragen und Erhebungen, die vom Landesschulrat oder in dessen Auftrag durchgeführt wurden.
+(3) Die Landesschülervertretung ist vom Landesschulrat über Rechtsvorschriften und deren Änderungen insoweit unverzüglich zu informieren, als diese zur Wahrnehmung der ihr übertragenen Aufgaben (§§ 2 und 3) eine Voraussetzung bilden. Gleiches gilt für die Information über die Ergebnisse von Umfragen und Erhebungen, die vom Landesschulrat oder in dessen Auftrag durchgeführt wurden.
 
-- Die Abs. 2 und 3 gelten auch für die Tätigkeit der Bundesschülervertretung und  der Zentrallehranstaltenschülervertretung  mit der Maßgabe, daß zur Beantwortung und zur Information das Bundesministerium für Unterricht, Kunst und Kultur verpflichtet ist.
+(4) Die Abs. 2 und 3 gelten auch für die Tätigkeit der Bundesschülervertretung und der Zentrallehranstaltenschülervertretung mit der Maßgabe, daß zur Beantwortung und zur Information das Bundesministerium für Unterricht, Kunst und Kultur verpflichtet ist.
 
 ##### Bezeichnung der Mitglieder der Schülervertretungen
 
@@ -88,23 +88,23 @@ Bundesrecht konsolidiert
 
 § 6. (1) Einer Landesschülervertretung gehören mindestens zwölf und höchstens dreißig Mitglieder an, und zwar jeweils die gleiche Zahl von Mitgliedern aus folgenden Bereichen
 
-- Bereich der allgemeinbildenden höheren Schulen,
+1. Bereich der allgemeinbildenden höheren Schulen,
 
-- Bereich  der  berufsbildenden  mittleren  und  höheren  Schulen  sowie  der  höheren  Anstalten  der Lehrerbildung und der Erzieherbildung und
+2. Bereich der berufsbildenden mittleren und höheren Schulen sowie der höheren Anstalten der Lehrerbildung und der Erzieherbildung und
 
-- Bereich der Berufsschulen.
+3. Bereich der Berufsschulen.
 
-- Die Zahl der Mitglieder ist unter Berücksichtigung der Zahl der Schulen in den in Abs. 1 Z 1 bis 3 genannten Schulartbereichen durch Verordnung des Landesschulrates zu bestimmen.
+(2) Die Zahl der Mitglieder ist unter Berücksichtigung der Zahl der Schulen in den in Abs. 1 Z 1 bis 3 genannten Schulartbereichen durch Verordnung des Landesschulrates zu bestimmen.
 
 ##### Bestellungsweise und Funktionsdauer
 
 § 7. (1)  Die Mitglieder und die gleiche Anzahl an Ersatzmitgliedern einer Landesschülervertretung sind getrennt nach den im § 6 Abs. 1 Z 1 bis 3 genannten Schulartbereichen an einem Schultag in der Zeit von Donnerstag der vorletzten Woche bis Donnerstag der letzten Woche des Unterrichtsjahres zu wählen.
 
-- Die Funktionsdauer der Mitglieder und der Ersatzmitglieder beträgt grundsätzlich ein Schuljahr. Sie beginnt mit dem ersten Tag des der Wahl folgenden Schuljahres.
+(2) Die Funktionsdauer der Mitglieder und der Ersatzmitglieder beträgt grundsätzlich ein Schuljahr. Sie beginnt mit dem ersten Tag des der Wahl folgenden Schuljahres.
 
-- Die Funktionsdauer eines Mitgliedes und eines Ersatzmitgliedes endet durch Zeitablauf, Rücktritt oder Beendigung des Schulbesuches (§ 33 SchUG). Im letztgenannten Fall bei einem Schulwechsel nur, sofern das Mitglied den Schulartbereich (§ 6 Abs. 1 Z 1 bis 3) oder den schulbehördlichen Zuständigkeitsbereich wechselt.  Das Antreten zur Reifeprüfung, Reifeund Befähigungsprüfung, Befähigungs- oder Abschlußprüfung beendet nicht die Funktionsdauer.
+(3) Die Funktionsdauer eines Mitgliedes und eines Ersatzmitgliedes endet durch Zeitablauf, Rücktritt oder Beendigung des Schulbesuches (§ 33 SchUG). Im letztgenannten Fall bei einem Schulwechsel nur, sofern das Mitglied den Schulartbereich (§ 6 Abs. 1 Z 1 bis 3) oder den schulbehördlichen Zuständigkeitsbereich wechselt. Das Antreten zur Reifeprüfung, Reife- und Befähigungsprüfung, Befähigungs- oder Abschlußprüfung beendet nicht die Funktionsdauer.
 
-- Für  Mitglieder  und  Ersatzmitglieder,  deren  Funktionsdauer  während  des  Schuljahres  endet, rücken die Gewählten des betreffenden Schulartbereiches nach der Reihenfolge ihrer Wahl (§ 16) für die restliche  Funktionsdauer  auf.  Vorübergehend  verhinderte  Mitglieder  einer  Landesschülervertretung werden durch von ihnen bestimmte Ersatzmitglieder des betreffenden Schulartbereiches (§ 16) vertreten. Vorübergehend  verhinderte Mitglieder der Bundesschülervertretung werden  durch den jeweiligen
+(4) Für Mitglieder und Ersatzmitglieder, deren Funktionsdauer während des Schuljahres endet, rücken die Gewählten des betreffenden Schulartbereiches nach der Reihenfolge ihrer Wahl (§ 16) für die restliche Funktionsdauer auf. Vorübergehend verhinderte Mitglieder einer Landesschülervertretung werden durch von ihnen bestimmte Ersatzmitglieder des betreffenden Schulartbereiches (§ 16) vertreten. Vorübergehend verhinderte Mitglieder der Bundesschülervertretung werden durch den jeweiligen
 
 www.ris.bka.gv.at
 
@@ -122,13 +122,13 @@ Landesschulsprecherstellvertreter (§ 19 Abs. 1) vertreten; der Bundesschulsprec
 
 § 8. (1)  Wahlberechtigt  sind  alle  Schulsprecher  (§ 59  SchUG)  aus  den  im  § 6  Abs. 1  Z 1  bis  3 genannten  Schulartbereichen,  und  zwar  jeweils  für  den  Schulartbereich,  dem  sie  als  Schulsprecher angehören. Im Verhinderungsfall eines Schulsprechers ist sein Stellvertreter wahlberechtigt, an ganzjährigen  Berufsschulen  der  Tagessprecher  des  jeweiligen  Wahltages,  sofern  der  Verhinderte  dies schriftlich bestätigt; diese Bestätigung ist vom  Schulleiter zu beglaubigen. Ist der verhinderte Wahlberechtigte dazu nicht imstande, hat der Schulleiter den Verhinderungsfall schriftlich zu bestätigen.
 
-- Wählbar sind für den betreffenden Schulartbereich
+(2) Wählbar sind für den betreffenden Schulartbereich
 
-- die Schulsprecher und deren Stellvertreter,
+1. die Schulsprecher und deren Stellvertreter,
 
-- an ganzjährigen Berufsschulen die Schulsprecher und die Tagessprecher und
+2. an ganzjährigen Berufsschulen die Schulsprecher und die Tagessprecher und
 
-- die Mitglieder, die einer Landes-, Bundes- oder Zentrallehranstaltenschülervertretung am Tag der Wahlausschreibung (§ 9 Abs. 1) angehören.
+3. die Mitglieder, die einer Landes-, Bundes- oder Zentrallehranstaltenschülervertretung am Tag der Wahlausschreibung (§ 9 Abs. 1) angehören.
 
 ##### Wahlausschreibung; Verzeichnis der Wahlberechtigten und der Wählbaren
 
@@ -212,29 +212,29 @@ Seite 4 von 9
 
 Bundesrecht konsolidiert
 
-- Das  Ergebnis  der  Wahl  ist  den  Gewählten  und  den  Wahlberechtigten  in  geeigneter  Weise mitzuteilen.  Darüber  hinaus  ist  es  dem  Präsidenten  des  Landesschulrates  bekanntzugeben  und  im Landesschulrat durch Anschlag an der Amtstafel kundzumachen.
+(2) Das Ergebnis der Wahl ist den Gewählten und den Wahlberechtigten in geeigneter Weise mitzuteilen. Darüber hinaus ist es dem Präsidenten des Landesschulrates bekanntzugeben und im Landesschulrat durch Anschlag an der Amtstafel kundzumachen.
 
-- Gleichzeitig mit der Mitteilung des Wahlergebnisses sind den Wahlberechtigten die Namen der Landesschulsprecher und deren Stellvertreter der betreffenden Landesschülervertretung bekanntzugeben.
+(3) Gleichzeitig mit der Mitteilung des Wahlergebnisses sind den Wahlberechtigten die Namen der Landesschulsprecher und deren Stellvertreter der betreffenden Landesschülervertretung bekanntzugeben.
 
 ##### Anfechtung der Wahl
 
 § 18. (1)  Die  Wahl  zu  einer  Landesschülervertretung  kann  von  jedem  Wahlberechtigten  innerhalb von  zwei  Wochen  ab  der  Kundmachung  der  Wahl  durch  den  Präsidenten  des  Landesschulrates  beim Landesschulrat  angefochten  werden.  Die  Anfechtung  ist  jedoch  unzulässig,  wenn  sie  sich  auf  Gründe stützt,  die  bereits  durch  Einwendungen  gemäß  § 9  Abs. 3  hätten  geltend  gemacht  werden  können  oder erfolglos geltend gemacht worden sind.
 
-- Über die Anfechtung entscheidet der Landesschulrat.
+(2) Über die Anfechtung entscheidet der Landesschulrat.
 
-- Auf Grund der Anfechtung ist die Wahl so weit für ungültig zu erklären, als Bestimmungen über das Wahlverfahren verletzt worden sind und durch diese Rechtswidrigkeit das  Wahlergebnis beeinflußt werden konnte.
+(3) Auf Grund der Anfechtung ist die Wahl so weit für ungültig zu erklären, als Bestimmungen über das Wahlverfahren verletzt worden sind und durch diese Rechtswidrigkeit das Wahlergebnis beeinflußt werden konnte.
 
 ##### Landesschulsprecher, Stellvertreter
 
 § 19. (1) Jede Landesschülervertretung hat drei Landesschulsprecher  und  drei Stellvertreter. Landesschulsprecher sind, getrennt nach den im  § 6 Abs. 1 Z 1 bis 3 genannten Schulartbereichen, die drei Mitglieder mit der jeweils höchsten Zahl an Wahlpunkten. Stellvertreter sind, getrennt nach den im § 6 Abs. 1 Z 1 bis 3 genannten Schulartbereichen, die drei Mitglieder mit der jeweils zweithöchsten Zahl an Wahlpunkten.
 
-- Der Vorsitz in der Landesschülervertretung wechselt nach jeder internen Sitzung (§ 29) zwischen den  Landesschulsprechern  in  der  Reihenfolge  der  Höhe  der  auf  sie  entfallenen  Zahl  an  Wahlpunkten. Diese Reihenfolge ist während der Funktionsdauer (§ 7 Abs. 2) unverändert beizubehalten.
+(2) Der Vorsitz in der Landesschülervertretung wechselt nach jeder internen Sitzung (§ 29) zwischen den Landesschulsprechern in der Reihenfolge der Höhe der auf sie entfallenen Zahl an Wahlpunkten. Diese Reihenfolge ist während der Funktionsdauer (§ 7 Abs. 2) unverändert beizubehalten.
 
 ##### Rücktritt des Landesschulsprechers, der Stellvertreter
 
 § 20. (1) Der Landesschulsprecher (Stellvertreter) kann im Rahmen einer internen Sitzung (§ 29) von seiner  Funktion  zurücktreten.  In  diesem  Fall  wird  jenes  Mitglied  der  Landesschülervertretung  neuer Landesschulsprecher (Stellvertreter), das dem Schulartbereich des zurückgetretenen Landesschulsprechers (Stellvertreters) angehört und die höchste Zahl an Wahlpunkten aufweist.
 
-- Gemäß Abs. 1 zurückgetretene Landesschulsprecher (Stellvertreter) bleiben weiterhin Mitglieder der Landesschülervertretung. § 7 Abs. 3 ist anzuwenden.
+(2) Gemäß Abs. 1 zurückgetretene Landesschulsprecher (Stellvertreter) bleiben weiterhin Mitglieder der Landesschülervertretung. § 7 Abs. 3 ist anzuwenden.
 
 ### 3. ABSCHNITT
 
@@ -244,13 +244,13 @@ Bundesrecht konsolidiert
 
 § 21. Der Bundesschülervertretung gehören dreißig Mitglieder an, und zwar:
 
-- die neun Landesschulsprecher aus dem Bereich der allgemeinbildenden höheren Schulen,
+1. die neun Landesschulsprecher aus dem Bereich der allgemeinbildenden höheren Schulen,
 
-- die  neun  Landesschulsprecher  aus  dem  Bereich  der  berufsbildenden  mittleren  und  höheren Schulen sowie der höheren Anstalten der Lehrerbildung und Erzieherbildung,
+2. die neun Landesschulsprecher aus dem Bereich der berufsbildenden mittleren und höheren Schulen sowie der höheren Anstalten der Lehrerbildung und Erzieherbildung,
 
-- die neun Landesschulsprecher aus dem Bereich der Berufsschulen und
+3. die neun Landesschulsprecher aus dem Bereich der Berufsschulen und
 
-- drei  Mitglieder aus dem Bereich der Zentrallehranstalten (je ein Mitglied aus dem Bereich der Höheren Internatsschulen des Bundes, aus dem Bereich der Höheren technischen und gewerblichen  Lehranstalten  und  des  Bundesinstitutes  für  Heimerziehung  in  Baden,  aus  dem Bereich der land- und forstwirtschaftlichen Schulen).
+4. drei Mitglieder aus dem Bereich der Zentrallehranstalten (je ein Mitglied aus dem Bereich der Höheren Internatsschulen des Bundes, aus dem Bereich der Höheren technischen und gewerblichen Lehranstalten und des Bundesinstitutes für Heimerziehung in Baden, aus dem Bereich der land- und forstwirtschaftlichen Schulen).
 
 ##### Bundesschulsprecher, Stellvertreter
 
@@ -296,11 +296,11 @@ Bundesrecht konsolidiert
 
 ##### Funktionsdauer
 
-§ 26. Die  Funktionsdauer  eines  Mitgliedes  und  eines  Ersatzmitgliedes  endet  durch  Zeitablauf, Rücktritt  und  durch  Beendigung  des  Schulbesuches  (§ 33  SchUG).  Im  letztgenannten  Fall  durch  einen Schulwechsel nur, sofern das Mitglied den bisherigen Schulartbereich (§ 25) verläßt oder den schulbehördlichen Zuständigkeitsbereich wechselt. Das Antreten zur Reifeprüfung, Reifeund Befähigungsprüfung, Befähigungs- oder Abschlußprüfung beendet nicht die Funktionsdauer.
+§ 26. Die Funktionsdauer eines Mitgliedes und eines Ersatzmitgliedes endet durch Zeitablauf, Rücktritt und durch Beendigung des Schulbesuches (§ 33 SchUG). Im letztgenannten Fall durch einen Schulwechsel nur, sofern das Mitglied den bisherigen Schulartbereich (§ 25) verläßt oder den schulbehördlichen Zuständigkeitsbereich wechselt. Das Antreten zur Reifeprüfung, Reife- und Befähigungsprüfung, Befähigungs- oder Abschlußprüfung beendet nicht die Funktionsdauer.
 
 ##### Anwendung von Bestimmungen des 2. Abschnitts
 
-§ 27. (1) § 7 Abs. 1, 2 und 4 und die §§ 8 bis 18 sowie § 20 sind mit der Maßgabe anzuwenden, daß an die Stelle der Landesschülervertretung die Zentrallehranstaltenschülervertretung, an die Stelle der im § 6 Abs. 1 Z 1 bis 3 genannten Schulartbereiche die im § 25 genannten Schulartbereiche, an die Stelle des Landesschulrates das Bundesministerium für Unterricht, Kunst und Kultur (jedoch in den §§ 11 Abs. 2 und 18 Abs. 2 der Bundesminister für Unterricht, Kunst und Kultur), an die Stelle des Präsidenten des Landesschulrates  der  Bundesminister für Unterricht, Kunst  und  Kultur  sowie  an  die  Stelle des Landesschulsprechers  und  der  Stellvertreter  der  Zentrallehranstaltensprecher  und  dessen  Stellvertreter treten.
+§ 27. (1) § 7 Abs. 1, 2 und 4 und die §§ 8 bis 18 sowie § 20 sind mit der Maßgabe anzuwenden, daß an die Stelle der Landesschülervertretung die Zentrallehranstaltenschülervertretung, an die Stelle der im § 6 Abs. 1 Z 1 bis 3 genannten Schulartbereiche die im § 25 genannten Schulartbereiche, an die Stelle des Landesschulrates das Bundesministerium für Unterricht, Kunst und Kultur (jedoch in den §§ 11 Abs. 2 und 18 Abs. 2 der Bundesminister für Unterricht, Kunst und Kultur), an die Stelle des Präsidenten des Landesschulrates der Bundesminister für Unterricht, Kunst und Kultur sowie an die Stelle des
 
 www.ris.bka.gv.at
 
@@ -311,6 +311,8 @@ Seite 6 von 9
 [[START OF PAGE 7]]
 
 Bundesrecht konsolidiert
+
+Landesschulsprechers und der Stellvertreter der Zentrallehranstaltensprecher und dessen Stellvertreter treten.
 
 (2)  § 11  Abs. 2  ist  überdies  mit  der  Maßgabe  anzuwenden,  daß  an  die  Stelle  der  persönlichen Stimmabgabe die Stimmabgabe auf dem Wege durch die Post tritt und der Bundesminister für Unterricht, Kunst  und Kultur alle  erforderlichen  Vorkehrungen  für  die  Wahrung  des  Wahlgeheimnisses zu  treffen hat. Der Bundesminister für Unterricht, Kunst und Kultur hat überdies durch Verordnung eine Frist für die  Stimmabgabe festzulegen. Verordnungen zur Festlegung der Frist  für die Stimmabgabe sind durch Anschlag an den betreffenden Schulen kundzumachen und treten, soweit darin nicht anderes bestimmt ist, mit  Ablauf  des  Tages  des  Anschlages  in  der  Schule  in  Kraft.  Die  Wahlberechtigten  sind  in  geeigneter Weise auf diese Kundmachungen hinzuweisen.
 
@@ -342,7 +344,7 @@ Bundesrecht konsolidiert
 
 § 31. (1) Die internen Sitzungen einer Schülervertretung werden von ihrem Vorsitzenden, im Falle der Verhinderung von dessen Stellvertreter, geleitet.
 
-(2)  Die  gemeinsamen  Sitzungen  einer  Landesschülervertretung  werden  vom  Präsidenten  des Landesschulrates oder von einem  von ihm  zu bestellenden  Beamten  des Landesschulrates, die gemeinsamen Sitzungen der Zentrallehranstaltenschülervertretung und der Bundesschülervertretung vom Bundesminister für Unterricht, Kunst und Kultur oder von einem von ihm zu bestellenden Beamten des Bundesministeriums für Unterricht, Kunst und Kultur geleitet.
+(2) Die gemeinsamen Sitzungen einer Landesschülervertretung werden vom Präsidenten des Landesschulrates oder von einem von ihm zu bestellenden Beamten des Landesschulrates, die gemeinsamen Sitzungen der Zentrallehranstaltenschülervertretung und der Bundesschülervertretung vom
 
 www.ris.bka.gv.at
 
@@ -354,6 +356,8 @@ Seite 7 von 9
 
 Bundesrecht konsolidiert
 
+Bundesminister für Unterricht, Kunst und Kultur oder von einem von ihm zu bestellenden Beamten des Bundesministeriums für Unterricht, Kunst und Kultur geleitet.
+
 ##### Niederschrift
 
 § 32. Über jede interne und jede gemeinsame Sitzung und über Sitzungen der Bereichsausschüsse ist ein  Protokoll  anzufertigen,  das  den  Gang  und  das  Ergebnis  der  Beratungen  festzuhalten  hat.  Der Schriftführer ist vor Beginn jeder Sitzung vom Vorsitzenden zu bestimmen.
@@ -362,23 +366,23 @@ Bundesrecht konsolidiert
 
 § 33. (1)  Eine  Schülervertretung  ist  im  Rahmen  ihrer  internen  Sitzungen  beschlußfähig,  wenn mindestens  die  Hälfte  der  Mitglieder  anwesend  ist.  Für  einen  Beschluß  ist  die  einfache  Mehrheit  der abgegebenen  gültigen  Stimmen  erforderlich.  Nach  dem  Verstreichen  einer  Stunde  ab  Sitzungsbeginn genügt für das Zustandekommen eines Beschlusses die Anwesenheit eines Drittels der Mitglieder, wenn mindestens  je  ein  Mitglied  aus  jedem  Schulartbereich  anwesend  ist  sowie  die  einfache  Mehrheit  der abgegebenen Stimmen.
 
-- Auf die Beschlußfassung in Bereichsausschüssen ist Abs. 1 erster und zweiter Satz anzuwenden.
+(2) Auf die Beschlußfassung in Bereichsausschüssen ist Abs. 1 erster und zweiter Satz anzuwenden.
 
 ##### Einladung von Sachverständigen und Beobachtern
 
 § 34. (1)  Zu  den einzelnen internen und gemeinsamen Sitzungen einer Schülervertretung sowie zu den Bereichsausschüssen  können  Sachverständige,  die  einer Schülervertretung als Mitglied nicht angehören, eingeladen werden, wenn dies im Hinblick auf den Beratungsgegenstand zweckmäßig ist, die Finanzierung  sichergestellt  ist  und  die  Kosten  dem  Grundsatz  der  Sparsamkeit  und  Angemessenheit entsprechen. Über die Einladung von Sachverständigen entscheidet der jeweilige Vorsitzende.
 
-- Soll ein Vertreter von Jugendorganisationen als Sachverständiger eingeladen werden, so hat dies die  betreffende  Schülervertretung  bei  Anwesenheit  von  mindestens  der  Hälfte  der  Mitglieder  mit einfacher Mehrheit zu beschließen.
+(2) Soll ein Vertreter von Jugendorganisationen als Sachverständiger eingeladen werden, so hat dies die betreffende Schülervertretung bei Anwesenheit von mindestens der Hälfte der Mitglieder mit einfacher Mehrheit zu beschließen.
 
-- Zu gemeinsamen Sitzungen einer Landesschülervertretung kann der Präsident des Landesschulrates zwei Vertreter der Fachausschüsse beim Landesschulrat, zwei Vertreter von repräsentativen Jugendorganisationen und zwei Vertreter von repräsentativen Elternund Familienorganisationen als Beobachter einladen.
+(3) Zu gemeinsamen Sitzungen einer Landesschülervertretung kann der Präsident des Landesschulrates zwei Vertreter der Fachausschüsse beim Landesschulrat, zwei Vertreter von repräsentativen Jugendorganisationen und zwei Vertreter von repräsentativen Eltern- und Familienorganisationen als Beobachter einladen.
 
-- Zu gemeinsamen Sitzungen der Zentrallehranstaltenschülervertretung und der Bundesschülervertretung  kann der Bundesminister für  Unterricht,  Kunst und Kultur zwei Vertreter der Zentralausschüsse  beim  Bundesministerium  für  Unterricht,  Kunst  und  Kultur,  zwei  Vertreter  von repräsentativen Jugendorganisationen und zwei Vertreter von repräsentativen Elternund Familienorganisationen als Beobachter einladen.
+(4) Zu gemeinsamen Sitzungen der Zentrallehranstaltenschülervertretung und der Bundesschülervertretung kann der Bundesminister für Unterricht, Kunst und Kultur zwei Vertreter der Zentralausschüsse beim Bundesministerium für Unterricht, Kunst und Kultur, zwei Vertreter von repräsentativen Jugendorganisationen und zwei Vertreter von repräsentativen Eltern- und Familienorganisationen als Beobachter einladen.
 
 ##### Ehrenamt
 
 § 35. (1)  Die  Mitglieder  und  die  Ersatzmitglieder  der  Schülervertretungen  sowie  die  allenfalls beigezogenen Sachverständigen und Beobachter üben ihre Tätigkeit ehrenamtlich aus.
 
-- Die Mitglieder und die Ersatzmitglieder der Schülervertretungen haben Anspruch auf Reisegebühren  im  Sinne  der  Reisegebührenvorschrift  1955,  BGBl.  Nr. 133,  in  der  jeweils  geltenden Fassung, gemäß  der  Gebührenstufe  1.  Die  Nächtigungsgebühr  entfällt bei amtlicher Beistellung unentgeltlicher Unterkunft.
+(2) Die Mitglieder und die Ersatzmitglieder der Schülervertretungen haben Anspruch auf Reisegebühren im Sinne der Reisegebührenvorschrift 1955, BGBl. Nr. 133, in der jeweils geltenden Fassung, gemäß der Gebührenstufe 1. Die Nächtigungsgebühr entfällt bei amtlicher Beistellung unentgeltlicher Unterkunft.
 
 ##### Geschäftsordnung
 
@@ -394,7 +398,7 @@ Bundesrecht konsolidiert
 
 § 38. (1) Dieses Bundesgesetz tritt mit 1. September 1990 in Kraft.
 
-- Verordnungen auf Grund dieses Bundesgesetzes können bereits von dem seiner Kundmachung folgenden Tag an erlassen  werden. Sie treten frühestens  mit dem im  Abs. 1 bezeichneten  Zeitpunkt in Kraft.
+(2) Verordnungen auf Grund dieses Bundesgesetzes können bereits von dem seiner Kundmachung folgenden Tag an erlassen werden. Sie treten frühestens mit dem im Abs. 1 bezeichneten Zeitpunkt in Kraft.
 
 www.ris.bka.gv.at
 
