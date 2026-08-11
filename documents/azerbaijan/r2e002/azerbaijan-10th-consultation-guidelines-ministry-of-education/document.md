@@ -58,9 +58,9 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 3]]
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States through  a  participatory  process.  Please  note  that  multiple  answers  may  be  provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States through a participatory process. Please note that multiple answers may be provided where relevant.
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 In their responses, Member States are encouraged to provide information in a concise manner while preserving substantive and relevant content.
 
@@ -76,9 +76,9 @@ Republic of Azerbaijan
 
 Organization or entity responsible for the preparation of the report: Ministry of Education
 
-### Information on the legislative, judicial, administrative and other measures taken by the state at the national level
+### I. Information on the legislative, judicial, administrative and other measures taken by the state at the national level
 
-#### Ratification of the Convention 2
+#### 1. Ratification of the Convention 2
 
 Is your country a State Party to the Convention?
 
@@ -114,7 +114,7 @@ http://portal.unesco.org/en/ev.php-URL_ID=12949&URL_DO=DO_TOPIC&URL_SECTION=201.
 
 [[START OF PAGE 5]]
 
-#### Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
+#### 2. Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
 
 Has your country ratified the Protocol?
 
@@ -124,7 +124,7 @@ X No, please briefly explain the difficulties encountered:
 
 Non-ratification of the Protocol goes in line with the non-ratification of the Convention
 
-#### Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
+#### 3. Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
 
 ##### In case your country is a State Party to the Convention:
 
@@ -168,13 +168,13 @@ If yes, the report could list the main texts adopted to guarantee the right to e
 
 -Article 42 (Rights to Education) of the Constitution of the Republic of Azerbaijan states:
 
-- I. Every citizen has the right to education. II. The state guarantees the right to free and obligatory secondary education. III. The education system is controlled by the state. IV. The state guarantees continued education of talented persons irrespective of their financial position. V. The state sets minimum educational standards.
+I. I. Every citizen has the right to education. II. The state guarantees the right to free and obligatory secondary education. III. The education system is controlled by the state. IV. The state guarantees continued education of talented persons irrespective of their financial position. V. The state sets minimum educational standards.
 
 http://justice.gov.az/senedler/45?culture=en
 
 -Article  45  (Right  to  use  native  language)  of  the  Constitution  of  the  Republic  of Azerbaijan states:
 
-- Everyone has the right to use his/her native language. Everyone has the right to upbringing, education, carry out creative activity in any language, as desired. II. Nobody may be deprived of right to use his/her mother tongue.
+I. Everyone has the right to use his/her native language. Everyone has the right to upbringing, education, carry out creative activity in any language, as desired. II. Nobody may be deprived of right to use his/her mother tongue.
 
 http://justice.gov.az/senedler/45?culture=en
 
@@ -186,11 +186,11 @@ https://edu.gov.az/az/page/72/302
 
 Information supplied could demonstrate how such policies and programmes comply with commitments of the right to education under the Recommendation.
 
-### Information on the implementation of the Convention or Recommendation
+### II. Information on the implementation of the Convention or Recommendation
 
-#### Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
+#### 1. Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
 
-Articles/Paragraphs  1(1),  2  and  3  of  the  Convention/Recommendation  provide  for  nondiscrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
+Articles/Paragraphs 1(1), 2 and 3 of the Convention/Recommendation provide for non-discrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
 
 [[END OF PAGE 6]]
 
@@ -244,27 +244,13 @@ This notably is covered under SDG target 4.1 and partly target 4.b 6
 
 [[START OF PAGE 8]]
 
-·
-
-·
-
-·
-
-·
-
 The Constitution of Azerbaijan Republic contains a number of provisions that make specific reference to the rights of children:
-
 Art. 17(II): requires parents to "take care of their children and their education" and requires that the State implement this responsibility
-
 Art. 17(III): provides that children who do not have parents or guardians, or who are deprived of parental care, are under the protection of the State
-
-Art. 17(IV): provides that it is "prohibited to involve children in activities that may cause threat to their lives, health and morality"
-
-Art. 17(V): sets 15 as the minimum age for employment
-
-Art. 17(VI): requires the State to supervise the implementation of the rights of children
-
-Art. 42 I. Every citizen has the right to education. II. The state guarantees the right to free and obligatory secondary education. III. The education system is controlled by the  state.  IV.  The  state  guarantees  continued  education  of  talented  persons irrespective  of  their  financial  position.  V.  The  state  sets  minimum  educational standards.
+• Art. 17(IV): provides that it is "prohibited to involve children in activities that may cause threat to their lives, health and morality"
+• Art. 17(V): sets 15 as the minimum age for employment
+• Art. 17(VI): requires the State to supervise the implementation of the rights of children
+• Art. 42 I. Every citizen has the right to education. II. The state guarantees the right to free and obligatory secondary education. III. The education system is controlled by the state. IV. The state guarantees continued education of talented persons irrespective of their financial position. V. The state sets minimum educational standards.
 
 Various actions are taken to ensure the equal access to education:
 
@@ -282,9 +268,7 @@ Various actions are taken to ensure the equal access to education:
 
 - support to inclusive education.
 
-- X Combatting stereotyping and stigmatisation
-
-##### 1.3 Please  indicate  the  actions  taken  and  planned  in  your  country  to  ensure  equality  of opportunities (in terms of access, participation and completion), equal treatment and to support the  inclusion  of  all  learners  (including  girls  and  women,  the  economically  and  socially marginalized,  people  with  disabilities  and  other  vulnerable  groups)  in  learning  processes (several items could be ticked/mentioned):
+##### 1.3 Please indicate the actions taken and planned in your country to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners (including girls and women, the economically and socially marginalized, people with disabilities and other vulnerable groups) in learning processes (several items could be ticked/mentioned):
 
 - o Providing financial incentives and fellowships
 
@@ -309,6 +293,7 @@ Various actions are taken to ensure the equal access to education:
 - x Providing flexible learning pathways
 
 - X Valuing diversity in schools
+- X Combatting stereotyping and stigmatisation
 
 > 7 Administrative barriers to education include, amongst others, lack of identity papers or birth certificates required to enrol.
 
@@ -342,11 +327,11 @@ Under Article 10 of the Family Code of the Republic of Azerbaijan, the minimum m
 
 The Article 10.1 states: 'The age of consent in the Azerbaijan Republic is established in 18 years'.
 
-#### Progress made with respect to implementing the right to education in the context of SDG 4
+#### 2. Progress made with respect to implementing the right to education in the context of SDG 4
 
 ##### 2.1 Pre-primary education
 
-Pre-primary  education  is  not  explicitly  provided  for  in  the  Convention/Recommendation. However, the international community has increasingly recognized the importance of early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 8 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory preprimary education'.
+Pre-primary education is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 8 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 > 8 Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'.
 
@@ -506,13 +491,15 @@ o Other:
 
 In  this  part,  you  may  also  provide  information  on  the  difficulties  experienced  by  your government as regards access to higher education and on the progress realized. Quantitative information could be added.
 
-In  order  to  implement  the  State  program  on  Reforms  in  Higher  Education  of  the Republic  of  Azerbaijan  between  2009-2013,  the  President  of  the  Republic  of Azerbaijan issued a decree No. 220 on the application of new financing mechanisms at higher education institutions and on master level of Azerbaijan National Academy of Sciences (ANAS) on the 10 th of February, 2010. Over the years, there were some significant additions to the decree. This decree states that based on the state budget the  state-financed  places  should  be  available  for  bachelor,  master  (medicine included) level students of HEIs from 2010-2011, for PhD students of HEIs from 2020, for master students of ANAS from 2015-2016 academic year. State financed places are not only limited to the public but also private higher education institutions. The annual  expenses  for  students  per  programs  (specializations)  were  calculated  and published.  That  means  based  on  the  admission  performance  and  coding  of  the student,  the  state  finances  every  year  students'  education  in  higher  education institutions. The list of eligible qualifications for state financing was expanded over the years, the last one being in 2020. However, paid higher education still exists in both  public  and  private  higher  education  institutions.  Other  than  that,  the  state finances the education fees of students with IDP status if they are accepted to the paid programs in both bachelor and master degrees from 2011 due to the decree No.1722 by the President of the Republic of Azerbaijan. A similar decree (No. 347) was issued for financing the education fees of students from 2014 who are children of martyrs or disabled people resulted from ensuring the territorial integrity, independence, the Constitution of the Republic of Azerbaijan.
+In order to implement the State program on Reforms in Higher Education of the Republic of Azerbaijan between 2009-2013, the President of the Republic of Azerbaijan issued a decree No. 220 on the application of new financing mechanisms at higher education institutions and on master level of Azerbaijan National Academy of Sciences (ANAS) on the 10th of February, 2010. Over the years, there were some significant additions to the decree. This decree states that based on the state budget the state-financed places should be available for bachelor, master (medicine included) level students of HEIs from 2010-2011, for PhD students of HEIs from 2020, for master students of ANAS from 2015-2016 academic year. State financed places are not only limited to the public but also private higher education institutions. The
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
-Decision (No. 38) by the Prime Minister in 2016 shows the regulations to pay the scholarships for full-time students who are citizens of the Republic of Azerbaijan or live  in  the  country  permanently  without  citizenship  while  studying  at  the  higher education institutions.
+annual expenses for students per programs (specializations) were calculated and published. That means based on the admission performance and coding of the student, the state finances every year students’ education in higher education institutions. The list of eligible qualifications for state financing was expanded over the years, the last one being in 2020. However, paid higher education still exists in both public and private higher education institutions. Other than that, the state finances the education fees of students with IDP status if they are accepted to the paid programs in both bachelor and master degrees from 2011 due to the decree No.1722 by the President of the Republic of Azerbaijan. A similar decree (No. 347) was issued for financing the education fees of students from 2014 who are children of martyrs or disabled people resulted from ensuring the territorial integrity, independence, the Constitution of the Republic of Azerbaijan.
+
+Decision (No. 38) by the Prime Minister in 2016 shows the regulations to pay the scholarships for full-time students who are citizens of the Republic of Azerbaijan or live in the country permanently without citizenship while studying at the higher education institutions.
 
 Tuition fee in public HEIs starts from 1000 AZN per year (full time study). For private HEIs the minimal tuition fee is 1600 AZN per year (full time study).
 
@@ -728,9 +715,9 @@ o Other innovative measures:
 
 Please briefly elaborate further on the measures taken:
 
-### Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
+### III. Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
 
-#### Challenges and obstacles
+#### 1. Challenges and obstacles
 
 ##### 1.1 Please indicate and provide any information on the difficulties encountered in the process of implementing  the  key  provisions  of  the  Convention/Recommendation  (including  legal  and practical obstacles) and on the main issues that need to be addressed for promoting further the right to education in your country (several items could be ticked/mentioned):
 
@@ -764,7 +751,7 @@ o Dissemination and advocacy of the core content of the Convention/Recommendatio
 
 o Increased public awareness through advocacy material on the Convention/ Recommendation or the core principles of the right to education
 
-o Activities undertaken  or supported by the  National  Commission  to  promote  non- discrimination  and  equality  of  educational  opportunities  and  to  foster  debate  on  critical issues in relation to the rights enshrined in the instruments
+o Activities undertaken or supported by the National Commission to promote non-discrimination and equality of educational opportunities and to foster debate on critical issues in relation to the rights enshrined in the instruments
 
 o Other:
 
