@@ -26,25 +26,17 @@ vengo en sancionar la siguiente Ley Orgánica.
 
 El sistema universitario español ha experimentado profundos cambios en los últimos veinticinco años; cambios impulsados por la aceptación por parte de nuestras Universidades de los retos planteados por la generación y transmisión de los conocimientos científicos y tecnológicos. Nuestra sociedad confía hoy más que nunca en sus Universidades para afrontar nuevos retos, los derivados de la sociedad del conocimiento en los albores del presente siglo.
 
-Este esfuerzo compartido por Universidades, Admi-
-
 Durante las últimas dos décadas, la vieja institución universitaria se ha transformado radicalmente. La Constitución consagró la autonomía de las Universidades y garantizó, con ésta, las libertades de cátedra, de estudio y de investigación, así como la autonomía de gestión y administración de sus propios recursos. Durante este período, las Universidades se triplicaron, creándose centros universitarios en casi todas las poblaciones de más de cincuenta mil habitantes, en los que hoy se estudian más de ciento treinta titulaciones diferentes. También culminó hace apenas unos años el proceso de descentralización universitaria, transfiriéndose a las Administraciones educativas autonómicas las competencias en materia de enseñanza superior. No de menor magnitud ha sido la transformación tan positiva en el ámbito de la investigación científica y técnica universitaria, cuyos principales destinatarios son los propios estudiantes de nuestras universidades, que no sólo reciben en éstas una formación profesional adecuada, sino que pueden beneficiarse del espíritu crítico y la extensión de la cultura, funciones ineludibles de la institución universitaria.
 
-nistraciones educativas y la propia sociedad ha sido extraordinario, y es por ello por lo que ahora, conscientes del camino recorrido, también lo somos de que es necesaria una nueva ordenación de la actividad universitaria. Ésta, de forma coherente y global, debe sistematizar y actualizar los múltiples aspectos académicos, de docencia, de investigación y de gestión, que permitan a las Universidades abordar, en el marco de la sociedad de la información y el conocimiento, los retos derivados de la innovación en las formas de generación y transmisión del conocimiento.
-
-Desde esta perspectiva, se diseña la moderna arqui-
+Este esfuerzo compartido por Universidades, Administraciones educativas y la propia sociedad ha sido extraordinario, y es por ello por lo que ahora, conscientes del camino recorrido, también lo somos de que es necesaria una nueva ordenación de la actividad universitaria. Ésta, de forma coherente y global, debe sistematizar y actualizar los múltiples aspectos académicos, de docencia, de investigación y de gestión, que permitan a las Universidades abordar, en el marco de la sociedad de la información y el conocimiento, los retos derivados de la innovación en las formas de generación y transmisión del conocimiento.
 
 Si reconocemos que las Universidades ocupan un papel central en el desarrollo cultural, económico y social de un país, será necesario reforzar su capacidad de liderazgo y dotar a sus estructuras de la mayor flexibilidad para afrontar estrategias diferenciadas en el marco de un escenario vertebrado. Esta capacidad les permitirá desarrollar a cada una de ellas planes específicos acordes con sus características propias, con la composición de su profesorado, su oferta de estudios y con sus procesos de gestión e innovación. Sólo así podrán responder al dinamismo de una sociedad avanzada como la española. Y sólo así, la sociedad podrá exigir de sus Universidades la más valiosa de las herencias para su futuro: una docencia de calidad, una investigación de excelencia.
 
-tectura normativa que reclama el sistema universitario español para mejorar su calidad docente, investigadora y de gestión; fomentar la movilidad de estudiantes y profesores; profundizar en la creación y transmisión del conocimiento como eje de la actividad académica; responder a los retos derivados tanto de la enseñanza superior no presencial a través de las nuevas tecnologías de la información y de la comunicación como de la formación a lo largo de la vida, e integrarse competitivamente junto a los mejores centros de enseñanza superior en el nuevo espacio universitario europeo que se está comenzado a configurar.
+Desde esta perspectiva, se diseña la moderna arquitectura normativa que reclama el sistema universitario español para mejorar su calidad docente, investigadora y de gestión; fomentar la movilidad de estudiantes y profesores; profundizar en la creación y transmisión del conocimiento como eje de la actividad académica; responder a los retos derivados tanto de la enseñanza superior no presencial a través de las nuevas tecnologías de la información y de la comunicación como de la formación a lo largo de la vida, e integrarse competitivamente junto a los mejores centros de enseñanza superior en el nuevo espacio universitario europeo que se está comenzando a configurar.
 
-operados en nuestra sociedad están estrechamente relacionados con los que tienen lugar en otros ámbitos de actividad. Así, la modernización del sistema económico impone exigencias cada vez más imperativas a los sectores que impulsan esa continua puesta al día; y no podemos olvidar que la Universidad ocupa un lugar de privilegio en ese proceso de continua renovación, concretamente en los sectores vinculados al desarrollo cultural, científico y técnico. Es por esto por lo que nuestras Universidades necesitan incrementar de manera urgente su eficacia, eficiencia y responsabilidad, principios todos ellos centrales de la propia autonomía universitaria.
+Todos somos conscientes de que los cambios sociales operados en nuestra sociedad están estrechamente relacionados con los que tienen lugar en otros ámbitos de actividad. Así, la modernización del sistema económico impone exigencias cada vez más imperativas a los sectores que impulsan esa continua puesta al día; y no podemos olvidar que la Universidad ocupa un lugar de privilegio en ese proceso de continua renovación, concretamente en los sectores vinculados al desarrollo cultural, científico y técnico. Es por esto por lo que nuestras Universidades necesitan incrementar de manera urgente su eficacia, eficiencia y responsabilidad, principios todos ellos centrales de la propia autonomía universitaria.
 
-Todos somos conscientes de que los cambios sociales
-
-También la formación y el conocimiento son factores clave en este escenario, caracterizado por vertiginosas transformaciones en los ámbitos sociales y económicos. La nueva sociedad demanda profesionales con el elevado nivel cultural, científico y técnico que sólo la enseñanza universitaria es capaz de proporcionar. La sociedad exige, además, una formación permanente a lo largo de la vida, no sólo en el orden macroeconómico y estructural sino también como modo de autorrealización personal. Una sociedad que persigue conseguir el acceso masivo a la información necesita personas capaces de convertirla en conocimiento mediante su orde-
-
-nación, elaboración e interpretación.
+También la formación y el conocimiento son factores clave en este escenario, caracterizado por vertiginosas transformaciones en los ámbitos sociales y económicos. La nueva sociedad demanda profesionales con el elevado nivel cultural, científico y técnico que sólo la enseñanza universitaria es capaz de proporcionar. La sociedad exige, además, una formación permanente a lo largo de la vida, no sólo en el orden macroeconómico y estructural sino también como modo de autorrealización personal. Una sociedad que persigue conseguir el acceso masivo a la información necesita personas capaces de convertirla en conocimiento mediante su ordenación, elaboración e interpretación.
 
 [[END OF PAGE 1]]
 
@@ -58,23 +50,23 @@ Lunes 24 diciembre 2001
 
 Estos nuevos escenarios y desafíos requieren nuevas formas de abordarlos y el sistema universitario español está en su mejor momento histórico para responder a un reto de enorme trascendencia: articular la sociedad del conocimiento en nuestro país; con esta Ley se pretende dotar al sistema universitario de un marco normativo que estimule el dinamismo de la comunidad universitaria, y se pretende alcanzar una Universidad moderna que mejore su calidad, que sirva para generar bienestar y que, en función de unos mayores niveles de excelencia, influya positivamente en todos los ámbitos de la sociedad.
 
-Es una Ley de la sociedad para la Universidad, en la que ambas dispondrán de los mecanismos adecuados para intensificar su necesaria y fructífera colaboración. Constituye así el marco adecuado para vincular la autonomía universitaria con la rendición de cuentas a la sociedad que la impulsa y la financia. Y es el escenario normativo idóneo para que la Universidad responda a la sociedad, potenciando la formación e investigación de excelencia, tan necesarias en un espacio universitario español y europeo que confía en su capital humano como motor de su desarrollo cultural, político, económico y social.
-
 Esta Ley nace con el propósito de impulsar la acción de la Administración General del Estado en la vertebración y cohesión del sistema universitario, de profundizar las competencias de las Comunidades Autónomas en materia de enseñanza superior, de incrementar el grado de autonomía de las Universidades, y de establecer los cauces necesarios para fortalecer las relaciones y vinculaciones recíprocas entre Universidad y sociedad.
+
+Es una Ley de la sociedad para la Universidad, en la que ambas dispondrán de los mecanismos adecuados para intensificar su necesaria y fructífera colaboración. Constituye así el marco adecuado para vincular la autonomía universitaria con la rendición de cuentas a la sociedad que la impulsa y la financia. Y es el escenario normativo idóneo para que la Universidad responda a la sociedad, potenciando la formación e investigación de excelencia, tan necesarias en un espacio universitario español y europeo que confía en su capital humano como motor de su desarrollo cultural, político, económico y social.
 
 La Ley articula los distintos niveles competenciales, los de las Universidades, las Comunidades Autónomas y la Administración General del Estado. Diseña un mayor autogobierno de las Universidades y supone un incremento del compromiso de las Comunidades Autónomas, lo que implica para las primeras una mayor eficiencia en el uso de los recursos públicos y nuevas atribuciones de coordinación y gestión para las segundas. Esto implica dotar de nuevas competencias a las Universidades y a las Comunidades Autónomas respecto a la anterior legislación, con el objetivo de plasmar en el texto de forma inequívoca la confianza de la sociedad en sus Universidades y la responsabilidad de éstas ante sus respectivas Administraciones educativas.
 
-Y a las competencias de las Comunidades Autónomas se añaden, entre otras, la regulación del régimen jurídico y retributivo del profesorado contratado, la capacidad para establecer retribuciones adicionales para el profesorado, la aprobación de programas de financiación plurianual conducentes a contratos programa y la evaluación de la calidad de las Universidades de su ámbito de responsabilidad.
-
 Así, las Universidades tendrán, además de las competencias actuales, otras relacionadas con la contratación de profesorado, el reingreso en el servicio activo de sus profesores, la creación de centros y estructuras de enseñanza a distancia, el establecimiento de los procedimientos para la admisión de sus estudiantes, la constitución de fundaciones y otras figuras jurídicas para el desarrollo de sus fines y la colaboración con otras entidades para la movilidad de su personal.
+
+Y a las competencias de las Comunidades Autónomas se añaden, entre otras, la regulación del régimen jurídico y retributivo del profesorado contratado, la capacidad para establecer retribuciones adicionales para el profesorado, la aprobación de programas de financiación plurianual conducentes a contratos programa y la evaluación de la calidad de las Universidades de su ámbito de responsabilidad.
 
 La sociedad española necesita que su sistema universitario se encuentre en las mejores condiciones posibles de cara a su integración en el espacio europeo común de enseñanza superior y, como principio fundamental, que los profesores mejor cualificados formen a los estudiantes que asumirán en un futuro inmediato las cada vez más complejas responsabilidades profesionales y sociales.
 
 De ahí que sea objetivo irrenunciable de la Ley la mejora de la calidad del sistema universitario en su conjunto y en todas y cada una de sus vertientes. Se profundiza, por tanto, en la cultura de la evaluación mediante la creación de la Agencia Nacional de Evaluación de la Calidad y Acreditación y se establecen nuevos mecanismos para el fomento de la excelencia: mejorar la calidad de la docencia y la investigación, a través de un nuevo sistema objetivo y transparente, que garantice el mérito y la capacidad en la selección y el acceso del profesorado, y mejorar, asimismo, la calidad de la gestión, mediante procedimientos que permitirán resolver con agilidad y eficacia las cuestiones de coordinación y administración de la Universidad.
 
-Otro de los objetivos esenciales de la Ley es impulsar la movilidad, tanto de estudiantes como de profesores e investigadores, dentro del sistema español pero también del europeo e internacional. La movilidad supone una mayor riqueza y la apertura a una formación de mejor calidad, por lo que todos los actores implicados en la actividad universitaria deben contribuir a facilitar la mayor movilidad posible y que ésta beneficie al mayor número de ciudadanos.
-
 Mejorar la calidad en todas las áreas de la actividad universitaria es básico para formar a los profesionales que la sociedad necesita, desarrollar la investigación, conservar y transmitir la cultura, enriqueciéndola con la aportación creadora de cada generación y, finalmente, constituir una instancia crítica y científica, basada en el mérito y el rigor, que sea un referente para la sociedad española. Así, la Ley crea las condiciones apropiadas para que los agentes de la actividad universitaria, los genuinos protagonistas de la mejora y el cambio, estudiantes, profesores y personal de administración y servicios, impulsen y desarrollen aquellas dinámicas de progreso que promuevan un sistema universitario mejor coordinado, más competitivo y de mayor calidad.
+
+Otro de los objetivos esenciales de la Ley es impulsar la movilidad, tanto de estudiantes como de profesores e investigadores, dentro del sistema español pero también del europeo e internacional. La movilidad supone una mayor riqueza y la apertura a una formación de mejor calidad, por lo que todos los actores implicados en la actividad universitaria deben contribuir a facilitar la mayor movilidad posible y que ésta beneficie al mayor número de ciudadanos.
 
 Las políticas de movilidad son determinantes para que los estudiantes puedan escoger libremente los centros y titulaciones más adecuados a sus intereses personales y profesionales, elección real que tienen reconocida como un derecho y está a su alcance a través del distrito universitario abierto; como son fundamentales también para el profesorado de las Universidades, ya que introducen elementos de competencia con positivos efectos en la mejora de la calidad global del sistema universitario.
 
@@ -86,7 +78,7 @@ Por lo que se refiere a las Universidades privadas, la Ley regula de manera deta
 
 #### III
 
-La Ley establece una nítida distinción entre las funciones de gobierno, representación, control y asesoramiento, correspondiendo cada una de éstas a un órgano distinto en la estructura de la Universidad. Igualmente, se refuerzan los procesos ejecutivos de toma de decisiones por parte del Rector y del Consejo de Gobierno, y se establecen esquemas de coparticipación y corresponsabilidad entre sociedad y Universidad; para ello, respetando la autonomía de las Universidades, se completan las competencias del Consejo Social para que pueda asumir la supervisión de todas las actividades de carácter económico de la Universidad y el rendimiento de sus servicios.
+La Ley establece una nítida distinción entre las funciones de gobierno, representación, control y asesora-
 
 [[END OF PAGE 2]]
 
@@ -97,6 +89,8 @@ La Ley establece una nítida distinción entre las funciones de gobierno, repres
 Lunes 24 diciembre 2001
 
 BOE núm. 307
+
+miento, correspondiendo cada una de éstas a un órgano distinto en la estructura de la Universidad. Igualmente, se refuerzan los procesos ejecutivos de toma de decisiones por parte del Rector y del Consejo de Gobierno, y se establecen esquemas de coparticipación y corresponsabilidad entre sociedad y Universidad; para ello, respetando la autonomía de las Universidades, se completan las competencias del Consejo Social para que pueda asumir la supervisión de todas las actividades de carácter económico de la Universidad y el rendimiento de sus servicios.
 
 Se crea, como máximo órgano de gobierno universitario, el Consejo de Gobierno que, presidido por el Rector, establecerá las líneas estratégicas y programáticas en los ámbitos de organización de las enseñanzas, investigación, recursos humanos y económicos. En este diseño, el Rector, que ejercerá la dirección, gobierno y gestión de la Universidad, será elegido directamente por la comunidad universitaria mediante sufragio universal, libre y secreto. Otras novedades del marco normativo son la creación del Consejo de Dirección, que asistirá al Rector en su actividad al frente de la Universidad, y de la Junta Consultiva, formada por miembros del mayor prestigio dentro de la comunidad universitaria.
 
@@ -128,7 +122,7 @@ Los estudiantes, protagonistas activos de la actividad universitaria, forman par
 
 Sobre el profesorado, piedra angular de la Universidad, la Ley adopta medidas consideradas unánimemente prioritarias para la comunidad universitaria, garantizando los principios de igualdad, mérito y capacidad en la selección del profesorado funcionario y contratado. Se articulan distintos mecanismos que garanticen una enseñanza de calidad en el marco de la enseñanza superior.
 
-Así, la Ley establece un sistema de selección más abierto, competitivo y transparente, que mejorará la calidad a través de un proceso de habilitación que otorga prioridad a los méritos docentes e investigadores de los candidatos, garantiza la objetividad en las pruebas de selección del profesorado y respeta la autonomía de las Universidades al establecer éstas los procedimientos de acceso a los cuerpos docentes, según su programación y necesidades, de los profesores que hayan sido habilitados.
+Así, la Ley establece un sistema de selección más abierto, competitivo y transparente, que mejorará la calidad a través de un proceso de habilitación que otorga prioridad a los méritos docentes e investigadores de los candidatos, garantiza la objetividad en las pruebas de selección del profesorado y respeta la autonomía de las
 
 [[END OF PAGE 3]]
 
@@ -140,11 +134,13 @@ Lunes 24 diciembre 2001
 
 49403
 
-La Ley fomenta el principio básico de la movilidad, así como las medidas que contiene tanto para el profesorado funcionario como para el profesorado contratado.
+Universidades al establecer éstas los procedimientos de acceso a los cuerpos docentes, según su programación y necesidades, de los profesores que hayan sido habilitados.
 
 Se diseña, también, el desarrollo de una carrera académica equilibrada y coherente, mediante la creación de nuevas figuras contractuales y la introducción de incentivos, según parámetros de calidad, por parte de la Administración General del Estado, las Comunidades Autónomas y las propias Universidades.
 
-Se da la máxima flexibilidad para que las Universidades puedan desarrollar su política de profesorado y planificar adecuadamente sus necesidades docentes e investigadoras; en este sentido, se posibilita la contratación de hasta un máximo del cuarenta y nueve por ciento del total el porcentaje de profesores contratados, cuya regulación y régimen jurídico serán competencia de las Comunidades Autónomas, correspondiéndose así los instrumentos financieros de los que son responsables con los normativos que ahora asumen.
+La Ley fomenta el principio básico de la movilidad, así como las medidas que contiene tanto para el profesorado funcionario como para el profesorado contratado.
+
+Se da la máxima flexibilidad para que las Universidades puedan desarrollar su política de profesorado y planificar adecuadamente sus necesidades docentes e investigadoras; en este sentido, se posibilita la contratación de hasta un máximo del cuarenta y nueve por ciento del total del profesorado de las Universidades, cuya regulación y régimen jurídico serán competencia de las Comunidades Autónomas, correspondiéndose así los instrumentos financieros de los que son responsables con los normativos que ahora asumen.
 
 Y, por último, se crean nuevas figuras, como la del profesor ayudante doctor y la del profesor contratado doctor, y se introducen criterios de calidad para la contratación estable de este profesorado por parte de las Universidades, dotando al procedimiento de selección de un alto nivel de transparencia y rigor mediante el requisito de la evaluación externa de la actividad previa de los candidatos.
 
@@ -172,9 +168,9 @@ En definitiva, esta Ley es el resultado de un trabajo constructivo en un proyect
 
 a) La creación, desarrollo, transmisión y crítica de la ciencia, de la técnica y de la cultura.
 
-c) La difusión, la valorización y la transferencia del conocimiento al servicio de la cultura, de la calidad de la vida, y del desarrollo económico.
-
 b) La preparación para el ejercicio de actividades profesionales que exijan la aplicación de conocimientos y métodos científicos y para la creación artística.
+
+c) La difusión, la valorización y la transferencia del conocimiento al servicio de la cultura, de la calidad de la vida, y del desarrollo económico.
 
 d) La difusión del conocimiento y la cultura a través de la extensión universitaria y la formación a lo largo de toda la vida.
 
@@ -182,29 +178,29 @@ d) La difusión del conocimiento y la cultura a través de la extensión univers
 
 1. Las Universidades están dotadas de personalidad jurídica y desarrollan sus funciones en régimen de autonomía y de coordinación entre todas ellas.
 
-Su objeto social exclusivo será la educación superior mediante la realización de las funciones a las que se refiere el apartado 2 del artículo 1.
-
 Las Universidades privadas tendrán personalidad jurídica propia, adoptando alguna de las formas admitidas en Derecho.
 
-- En los términos de la presente Ley, la autonomía de las Universidades comprende:
+Su objeto social exclusivo será la educación superior mediante la realización de las funciones a las que se refiere el apartado 2 del artículo 1.
+
+2. En los términos de la presente Ley, la autonomía de las Universidades comprende:
 
 a) La elaboración de sus Estatutos y, en el caso de las Universidades privadas, de sus propias normas de organización y funcionamiento, así como de las demás normas de régimen interno.
 
-c) La creación de estructuras específicas que actúen como soporte de la investigación y de la docencia.
-
 b) La elección, designación y remoción de los correspondientes órganos de gobierno y representación.
+
+c) La creación de estructuras específicas que actúen como soporte de la investigación y de la docencia.
 
 d) La elaboración y aprobación de planes de estudio e investigación y de enseñanzas específicas de formación a lo largo de toda la vida.
 
-f) La admisión, régimen de permanencia y verificación de conocimientos de los estudiantes.
-
 e) La selección, formación y promoción del personal docente e investigador y de administración y servicios, así como la determinación de las condiciones en que han de desarrollar sus actividades.
+
+f) La admisión, régimen de permanencia y verificación de conocimientos de los estudiantes.
 
 g) La expedición de los títulos de carácter oficial y validez en todo el territorio nacional y de sus diplomas y títulos propios.
 
-i) El establecimiento y modificación de sus relaciones de puestos de trabajo.
-
 h) La elaboración, aprobación y gestión de sus presupuestos y la administración de sus bienes.
+
+i) El establecimiento y modificación de sus relaciones de puestos de trabajo.
 
 j) El establecimiento de relaciones con otras entidades para la promoción y desarrollo de sus fines institucionales.
 
@@ -218,13 +214,13 @@ Lunes 24 diciembre 2001
 
 BOE núm. 307
 
-- Cualquier otra competencia necesaria para el adecuado cumplimiento de las funciones señaladas en el apartado 2 del artículo 1.
+k) Cualquier otra competencia necesaria para el adecuado cumplimiento de las funciones señaladas en el apartado 2 del artículo 1.
 
-- La actividad de la Universidad, así como su autonomía, se fundamentan en el principio de libertad académica, que se manifiesta en las libertades de cátedra, de investigación y de estudio.
+3. La actividad de la Universidad, así como su autonomía, se fundamentan en el principio de libertad académica, que se manifiesta en las libertades de cátedra, de investigación y de estudio.
 
-- Sin perjuicio de las funciones atribuidas al Consejo de Coordinación Universitaria, corresponde a cada Comunidad Autónoma las tareas de coordinación de las Universidades de su competencia.
+4. La autonomía universitaria exige y hace posible que docentes, investigadores y estudiantes cumplan con sus respectivas responsabilidades, en orden a la satisfacción de las necesidades educativas, científicas y profesionales de la sociedad, así como que las Universidades rindan cuentas del uso de sus medios y recursos a la sociedad.
 
-- La autonomía universitaria exige y hace posible que docentes, investigadores y estudiantes cumplan con sus respectivas responsabilidades, en orden a la satisfacción de las necesidades educativas, científicas y profesionales de la sociedad, así como que las Universidades rindan cuentas del uso de sus medios y recursos a la sociedad.
+5. Sin perjuicio de las funciones atribuidas al Consejo de Coordinación Universitaria, corresponde a cada Comunidad Autónoma las tareas de coordinación de las Universidades de su competencia.
 
 ### TÍTULO I
 
@@ -232,49 +228,47 @@ BOE núm. 307
 
 ###### Artículo 3. Naturaleza.
 
-- Son Universidades públicas las instituciones creadas por los órganos legislativos a que se refiere el apartado 1 del artículo 4 y que realicen todas las funciones establecidas en el apartado 2 del artículo 1.
+1. Son Universidades públicas las instituciones creadas por los órganos legislativos a que se refiere el apartado 1 del artículo 4 y que realicen todas las funciones establecidas en el apartado 2 del artículo 1.
 
-- Son Universidades privadas las instituciones no comprendidas en el apartado anterior, reconocidas como tales en los términos de esta Ley y que realicen todas las funciones establecidas en el apartado 2 del artículo 1.
+2. Son Universidades privadas las instituciones no comprendidas en el apartado anterior, reconocidas como tales en los términos de esta Ley y que realicen todas las funciones establecidas en el apartado 2 del artículo 1.
 
 ###### Artículo 4. Creación y reconocimiento.
 
-- La creación de Universidades públicas y el reconocimiento de las Universidades privadas se llevará a cabo:
+1. La creación de Universidades públicas y el reconocimiento de las Universidades privadas se llevará a cabo:
 
-- Por Ley de la Asamblea Legislativa de la Comunidad Autónoma en cuyo ámbito territorial hayan de establecerse.
+a) Por Ley de la Asamblea Legislativa de la Comunidad Autónoma en cuyo ámbito territorial hayan de establecerse.
 
-- Por Ley de las Cortes Generales, a propuesta del Gobierno, de acuerdo con el Consejo de Gobierno de la Comunidad Autónoma en cuyo ámbito territorial hayan de establecerse.
+b) Por Ley de las Cortes Generales, a propuesta del Gobierno, de acuerdo con el Consejo de Gobierno de la Comunidad Autónoma en cuyo ámbito territorial hayan de establecerse.
 
-- Para la creación de Universidades públicas será preceptivo el informe previo del Consejo de Coordinación Universitaria, en el marco de la programación general de la enseñanza universitaria.
+2. Para la creación de Universidades públicas será preceptivo el informe previo del Consejo de Coordinación Universitaria, en el marco de la programación general de la enseñanza universitaria.
+
+3. Para garantizar la calidad de la docencia e investigación y, en general, del conjunto del sistema universitario, el Gobierno, previo informe del Consejo de Coordinación Universitaria, determinará, con carácter general, los requisitos básicos para la creación y reconocimiento de Universidades. Los mencionados requisitos contemplarán los medios y recursos adecuados para el cumplimiento por las Universidades de las funciones a que se refiere el apartado 2 del artículo 1.
 
 Las Universidades podrán impartir enseñanzas conducentes a la obtención de títulos de carácter oficial y validez en todo el territorio nacional en modalidad presencial y no presencial; en este último caso, de manera exclusiva o parcial. En el supuesto de la enseñanza no presencial, y en el marco de lo establecido en el párrafo anterior, se adecuarán las previsiones de la presente Ley a las especificidades de esta modalidad de enseñanza.
 
-- Para garantizar la calidad de la docencia e investigación y, en general, del conjunto del sistema universitario, el Gobierno, previo informe del Consejo de Coordinación Universitaria, determinará, con carácter general, los requisitos básicos para la creación y reconocimiento de Universidades. Los mencionados requisitos contemplarán los medios y recursos adecuados para el cumplimiento por las Universidades de las funciones a que se refiere el apartado 2 del artículo 1.
+4. El comienzo de las actividades de las Universidades será autorizado por el órgano competente de la Comunidad Autónoma, una vez comprobado el cumplimiento de los requisitos señalados en el apartado anterior y de lo previsto en la Ley de creación.
 
-- El comienzo de las actividades de las Universidades será autorizado por el órgano competente de la
+Las Universidades deberán mantener en funcionamiento sus centros y enseñanzas durante el plazo mínimo que resulte de la aplicación de las normas generales que se dicten en desarrollo de los artículos 34 y 35.
 
-- Comunidad Autónoma, una vez comprobado el cumplimiento de los requisitos señalados en el apartado anterior y de lo previsto en la Ley de creación.
-
-- Para el reconocimiento de las Universidades privadas, que tendrá carácter constitutivo, será preceptivo el informe del Consejo de Coordinación Universitaria en el marco de la programación general de la enseñanza universitaria. Lo dispuesto en los apartados 3 y 4 anteriores será de aplicación análogamente a las Universidades privadas.
-
-- Las Universidades deberán mantener en funcionamiento sus centros y enseñanzas durante el plazo mínimo que resulte de la aplicación de las normas generales que se dicten en desarrollo de los artículos 34 y 35.
+5. Para el reconocimiento de las Universidades privadas, que tendrá carácter constitutivo, será preceptivo el informe del Consejo de Coordinación Universitaria en el marco de la programación general de la enseñanza universitaria. Lo dispuesto en los apartados 3 y 4 anteriores será de aplicación análogamente a las Universidades privadas.
 
 ###### Artículo 5. Creación de Universidades privadas y centros universitarios privados.
 
-- En virtud de lo establecido en el apartado 6 del artículo 27 de la Constitución, las personas físicas o jurídicas podrán crear Universidades privadas o centros universitarios privados, dentro del respeto a los principios constitucionales y con sometimiento a lo dispuesto en esta Ley y en las normas que, en su desarrollo, dicten el Estado y las Comunidades Autónomas en el ámbito de sus respectivas competencias.
+1. En virtud de lo establecido en el apartado 6 del artículo 27 de la Constitución, las personas físicas o jurídicas podrán crear Universidades privadas o centros universitarios privados, dentro del respeto a los principios constitucionales y con sometimiento a lo dispuesto en esta Ley y en las normas que, en su desarrollo, dicten el Estado y las Comunidades Autónomas en el ámbito de sus respectivas competencias.
+
+2. No podrán crear dichas Universidades o centros universitarios quienes presten servicios en una Administración educativa; tengan antecedentes penales por delitos dolosos o hayan sido sancionados administrativamente con carácter firme por infracción grave en materia educativa o profesional.
 
 Se entenderán incursas en esta prohibición las personas jurídicas cuyos administradores, representantes o cargos rectores, vigente su representación o designación, o cuyos fundadores, promotores o titulares de un 20 por ciento o más de su capital, por sí o por persona interpuesta, se encuentren en alguna de las circunstancias previstas en el párrafo precedente.
 
-- No podrán crear dichas Universidades o centros universitarios quienes presten servicios en una Administración educativa; tengan antecedentes penales por delitos dolosos o hayan sido sancionados administrativamente con carácter firme por infracción grave en materia educativa o profesional.
-
-- La realización de actos y negocios jurídicos que modifiquen la personalidad jurídica o la estructura de la Universidad privada, o que impliquen la transmisión o cesión, intervivos, total o parcial, a título oneroso o gratuito, de la titularidad directa o indirecta que las personas físicas o jurídicas ostenten sobre las Universidades privadas o centros universitarios privados adscritos a Universidades públicas, deberá ser previamente comunicada a la Comunidad Autónoma. Ésta, en el plazo que determine con carácter general, podrá denegar su conformidad.
-
-En los supuestos de cambio de titularidad, el nuevo titular quedará subrogado en todos los derechos y obligaciones del titular anterior.
+3. La realización de actos y negocios jurídicos que modifiquen la personalidad jurídica o la estructura de la Universidad privada, o que impliquen la transmisión o cesión, intervivos, total o parcial, a título oneroso o gratuito, de la titularidad directa o indirecta que las personas físicas o jurídicas ostenten sobre las Universidades privadas o centros universitarios privados adscritos a Universidades públicas, deberá ser previamente comunicada a la Comunidad Autónoma. Ésta, en el plazo que determine con carácter general, podrá denegar su conformidad.
 
 La denegación deberá fundarse en el incumplimiento de lo previsto en los apartados anteriores de este artículo o en la insuficiencia de garantías para el cumplimiento de los compromisos adquiridos al solicitarse el reconocimiento de la Universidad, o en el convenio de adscripción del centro privado a una Universidad pública.
 
+En los supuestos de cambio de titularidad, el nuevo titular quedará subrogado en todos los derechos y obligaciones del titular anterior.
+
 La infracción de lo previsto en los párrafos anteriores supondrá una modificación de las condiciones esenciales del reconocimiento o de la aprobación de la adscripción. Los mismos efectos producirá la transmisión, disposición o gravamen de los títulos representativos del capital social de las entidades privadas promotoras de las Universidades privadas o centros universitarios adscritos a Universidades públicas, así como la emisión de obligaciones o títulos similares por las mismas, realizadas sin la autorización a que se refieren los párrafos anteriores, con los requisitos allí establecidos.
 
-- Los centros universitarios privados deberán estar integrados en una Universidad privada, como centros propios de la misma, o adscritos a una pública.
+4. Los centros universitarios privados deberán estar integrados en una Universidad privada, como centros propios de la misma, o adscritos a una pública.
 
 [[END OF PAGE 5]]
 
@@ -290,21 +284,21 @@ Lunes 24 diciembre 2001
 
 1. Las Universidades se regirán por la presente Ley y por las normas que dicten el Estado y las Comunidades Autónomas, en el ejercicio de sus respectivas competencias.
 
-En defecto de plazo distinto establecido por la Comunidad Autónoma, el proyecto de Estatutos se entenderá aprobado si transcurridos tres meses desde la fecha de su presentación al citado Consejo de Gobierno no hubiera recaído resolución expresa.
-
 2. Las Universidades públicas se regirán, además, por la Ley de su creación y por sus Estatutos, que serán elaborados por aquéllas y, previo su control de legalidad, aprobados por el Consejo de Gobierno de la Comunidad Autónoma. Si existieran reparos de legalidad, las Universidades deberán subsanarlos, de acuerdo con el procedimiento previsto en sus Estatutos, y someterlos de nuevo a la aprobación por el Gobierno de la Comunidad Autónoma.
+
+En defecto de plazo distinto establecido por la Comunidad Autónoma, el proyecto de Estatutos se entenderá aprobado si transcurridos tres meses desde la fecha de su presentación al citado Consejo de Gobierno no hubiera recaído resolución expresa.
 
 Una vez aprobados, los Estatutos entrarán en vigor a partir de su publicación en el Boletín Oficial de la Comunidad Autónoma. Asimismo, serán publicados en el «Boletín Oficial del Estado».
 
-4. En las Universidades públicas, las resoluciones del Rector y los acuerdos del Consejo Social, del Consejo de Gobierno y del Claustro Universitario, agotan la vía administrativa y serán impugnables directamente ante la jurisdicción contencioso-administrativa, de acuerdo con lo establecido en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
-
 3. Las Universidades públicas se organizarán de forma que, en los términos de la presente Ley, en sus órganos de gobierno y de representación quede asegurada la representación de los diferentes sectores de la comunidad universitaria.
+
+4. En las Universidades públicas, las resoluciones del Rector y los acuerdos del Consejo Social, del Consejo de Gobierno y del Claustro Universitario, agotan la vía administrativa y serán impugnables directamente ante la jurisdicción contencioso-administrativa, de acuerdo con lo establecido en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
 5. Las Universidades privadas se regirán por las normas a que se refiere el apartado 1 anterior, por la Ley de su reconocimiento y por sus propias normas de organización y funcionamiento. Éstas incluirán las previsiones derivadas de lo dispuesto en el apartado 2 del artículo 2, y el carácter propio de la Universidad, si procede. A las Universidades privadas también les serán de aplicación las normas correspondientes a la clase de personalidad jurídica adoptada.
 
-Las Universidades privadas se organizarán de forma que quede asegurada, mediante la participación adecuada de la comunidad universitaria, la vigencia efectiva en las mismas de los principios y libertades a que hace referencia el párrafo anterior.
-
 Las normas de organización y funcionamiento de las Universidades privadas serán elaboradas y aprobadas por ellas mismas, con sujeción, en todo caso, a los principios constitucionales y con garantía efectiva del principio de libertad académica manifestada en las libertades de cátedra, de investigación y de estudio. El régimen de su aprobación será el previsto en el apartado 2 anterior.
+
+Las Universidades privadas se organizarán de forma que quede asegurada, mediante la participación adecuada de la comunidad universitaria, la vigencia efectiva en las mismas de los principios y libertades a que hace referencia el párrafo anterior.
 
 ### TÍTULO II
 
@@ -324,9 +318,9 @@ Las normas de organización y funcionamiento de las Universidades privadas será
 
 1. Las Facultades, Escuelas Técnicas o Politécnicas Superiores y Escuelas Universitarias o Escuelas Universitarias Politécnicas, son los centros encargados de la organización de las enseñanzas y de los procesos académicos, administrativos y de gestión conducentes a la obtención de títulos de carácter oficial y validez en todo el territorio nacional, así como de aquellas otras funciones que determinen los Estatutos.
 
-De lo señalado en el párrafo anterior será informado el Consejo de Coordinación Universitaria.
-
 2. La creación, modificación y supresión de los centros a que se refiere el apartado 1 de este artículo, así como la implantación y supresión de enseñanzas conducentes a la obtención de títulos universitarios de carácter oficial y validez en todo el territorio nacional, serán acordadas por la Comunidad Autónoma, bien a propuesta del Consejo Social o bien por propia iniciativa con el acuerdo del referido Consejo, en todo caso previo informe del Consejo de Gobierno de la Universidad.
+
+De lo señalado en el párrafo anterior será informado el Consejo de Coordinación Universitaria.
 
 ###### Artículo 9. Departamentos.
 
@@ -338,9 +332,9 @@ De lo señalado en el párrafo anterior será informado el Consejo de Coordinaci
 
 1. Los Institutos Universitarios de Investigación son centros dedicados a la investigación científica y técnica o a la creación artística. Podrán organizar y desarrollar programas y estudios de doctorado y de postgrado según los procedimientos previstos en los Estatutos, y proporcionar asesoramiento técnico en el ámbito de sus competencias.
 
-2. Los Institutos Universitarios de Investigación podrán ser constituidos por una o más Universidades, o conjuntamente con otras entidades públicas o privadas mediante convenios u otras formas de cooperación, de conformidad con los Estatutos.
-
 Los Institutos Universitarios de Investigación se regirán por la presente Ley, por los Estatutos, por el convenio de creación o de adscripción, en su caso, y por sus propias normas.
+
+2. Los Institutos Universitarios de Investigación podrán ser constituidos por una o más Universidades, o conjuntamente con otras entidades públicas o privadas mediante convenios u otras formas de cooperación, de conformidad con los Estatutos.
 
 3. Para la creación y supresión de los Institutos Universitarios de Investigación se estará a lo dispuesto en el apartado 2 del artículo 8.
 
@@ -362,9 +356,9 @@ De lo señalado en el párrafo anterior será informado el Consejo de Coordinaci
 
 1. La adscripción mediante convenio a una Universidad pública de centros docentes de titularidad pública o privada para impartir estudios conducentes a la obtención de títulos de carácter oficial y validez en todo el territorio nacional, requerirá la aprobación de la Comunidad Autónoma, a propuesta del Consejo Social, previo informe del Consejo de Gobierno de la Universidad. El centro adscrito deberá estar establecido en el ámbito territorial de la correspondiente Comunidad Autónoma.
 
-2. Los centros adscritos a una Universidad pública se regirán por lo dispuesto en esta Ley, por las normas dictadas por el Estado y las Comunidades Autónomas en el ejercicio de sus competencias, por el convenio de adscripción y por sus propias normas de organización y funcionamiento.
-
 De lo señalado en el párrafo anterior será informado el Consejo de Coordinación Universitaria.
+
+2. Los centros adscritos a una Universidad pública se regirán por lo dispuesto en esta Ley, por las normas dictadas por el Estado y las Comunidades Autónomas en el ejercicio de sus competencias, por el convenio de adscripción y por sus propias normas de organización y funcionamiento.
 
 3. El comienzo de las actividades de los centros adscritos será autorizado por la Comunidad Autónoma.
 
@@ -399,9 +393,9 @@ La elección de los representantes de los distintos sectores de la comunidad uni
 
 1. El Consejo Social es el órgano de participación de la sociedad en la Universidad.
 
-Asimismo, le corresponde la aprobación del presupuesto y de la programación plurianual de la Universidad, a propuesta del Consejo de Gobierno. Además, con carácter previo al trámite de rendición de cuentas a que se refieren los artículos 81 y 84, le corresponde aprobar las cuentas anuales de la Universidad y las de las entidades que de ella puedan depender y sin perjuicio de la legislación mercantil u otra a las que dichas entidades puedan estar sometidas en función de su personalidad jurídica.
-
 2. Corresponde al Consejo Social la supervisión de las actividades de carácter económico de la Universidad y del rendimiento de sus servicios; promover la colaboración de la sociedad en la financiación de la Universidad, y las relaciones entre ésta y su entorno cultural, profesional, económico y social al servicio de la calidad de la actividad universitaria, a cuyo fin podrá disponer de la oportuna información de la Agencia Nacional de Evaluación de la Calidad y Acreditación.
+
+Asimismo, le corresponde la aprobación del presupuesto y de la programación plurianual de la Universidad, a propuesta del Consejo de Gobierno. Además, con carácter previo al trámite de rendición de cuentas a que se refieren los artículos 81 y 84, le corresponde aprobar las cuentas anuales de la Universidad y las de las entidades que de ella puedan depender y sin perjuicio de la legislación mercantil u otra a las que dichas entidades puedan estar sometidas en función de su personalidad jurídica.
 
 3. La Ley de la Comunidad Autónoma regulará la composición y funciones del Consejo Social y la designación de sus miembros de entre personalidades de la vida cultural, profesional, económica, laboral y social, que no podrán ser miembros de la propia comunidad universitaria. Serán, no obstante, miembros del Consejo Social, el Rector, el Secretario general y el Gerente, así como un profesor, un estudiante y un representante del personal de administración y servicios, elegidos por el Consejo de Gobierno de entre sus miembros. El Presidente del Consejo Social será nombrado por la Comunidad Autónoma.
 
@@ -427,9 +421,9 @@ Lunes 24 diciembre 2001
 
 1. El Claustro Universitario es el máximo órgano de representación de la comunidad universitaria. Estará formado por el Rector, que lo presidirá, el Secretario general y el Gerente, y un máximo de trescientos miembros. Le corresponde la elaboración de los Estatutos y las demás funciones que le atribuye la presente Ley.
 
-Si la iniciativa no fuese aprobada, ninguno de sus signatarios podrá participar en la presentación de otra iniciativa de este carácter hasta pasado un año desde la votación de la misma.
-
 2. El Claustro, con carácter extraordinario, podrá convocar elecciones a Rector a iniciativa de un tercio de sus miembros y con la aprobación de dos tercios. La aprobación de la iniciativa llevará consigo la disolución del Claustro y el cese del Rector que continuará en funciones hasta la toma de posesión del nuevo Rector. El procedimiento será establecido por los Estatutos.
+
+Si la iniciativa no fuese aprobada, ninguno de sus signatarios podrá participar en la presentación de otra iniciativa de este carácter hasta pasado un año desde la votación de la misma.
 
 3. Los Estatutos regularán la composición y duración del mandato del Claustro, en el que estarán representados los distintos sectores de la comunidad universitaria. Al menos, el cincuenta y uno por ciento de sus miembros serán funcionarios doctores de los cuerpos docentes universitarios.
 
@@ -497,7 +491,7 @@ En su defecto, en las Escuelas Universitarias y en las Escuelas Universitarias P
 
 ###### Artículo 25. Directores de Departamento.
 
-Los Directores de Departamento ostentan la representación de éste y ejercen las funciones de dirección y gestión ordinaria del mismo. Serán elegidos por el Consejo de Departamentos en los términos establecidos por los Estatutos, entre profesores doctores pertenecientes a los cuerpos docentes universitarios miembros del mismo.
+Los Directores de Departamento ostentan la representación de éste y ejercen las funciones de dirección y gestión ordinaria del mismo. Serán elegidos por el Consejo de Departamento en los términos establecidos por los Estatutos, entre profesores doctores pertenecientes a los cuerpos docentes universitarios miembros del mismo.
 
 En su defecto, en los Departamentos constituidos sobre las áreas de conocimiento a que se refiere el apartado 3 de los artículos 58 y 59, podrán ser Directores funcionarios de los cuerpos docentes universitarios no doctores o profesores contratados doctores.
 
@@ -531,23 +525,23 @@ El Consejo de Coordinación Universitaria, cuya presidencia ostentará el Minist
 
 a) Los responsables de la enseñanza universitaria en los Consejos de Gobierno de las Comunidades Autónomas.
 
-c) Veintiún miembros, nombrados por un período de cuatro años, entre personalidades de la vida académica, científica, cultural, profesional, económica y social, y designados siete por el Congreso de los Diputados, siete por el Senado y siete por el Gobierno. Entre los vocales de designación del Gobierno podrán figurar también miembros de la Administración General del Estado.
-
 b) Los Rectores de las Universidades.
+
+c) Veintiún miembros, nombrados por un período de cuatro años, entre personalidades de la vida académica, científica, cultural, profesional, económica y social, y designados siete por el Congreso de los Diputados, siete por el Senado y siete por el Gobierno. Entre los vocales de designación del Gobierno podrán figurar también miembros de la Administración General del Estado.
 
 ###### Artículo 30. Organización.
 
 1. El Consejo de Coordinación Universitaria funcionará en Pleno y en Comisiones.
 
-3. Las Comisiones, presididas por el Presidente del Consejo de Coordinación Universitaria o persona en quien delegue, serán:
-
 2. El Pleno, presidido por el Presidente del Consejo de Coordinación Universitaria o miembro del mismo en quien delegue, tendrá las siguientes funciones: elaborar el Reglamento del Consejo y elevarlo al Ministro de Educación, Cultura y Deporte para su aprobación por el Gobierno; proponer, en su caso, las modificaciones a dicho Reglamento; elaborar la memoria anual del Consejo, y aquellas otras que se determinen en su Reglamento.
+
+3. Las Comisiones, presididas por el Presidente del Consejo de Coordinación Universitaria o persona en quien delegue, serán:
 
 a) La Comisión de Coordinación, que estará compuesta por los vocales mencionados en la letra a) del artículo anterior y por aquellos otros vocales mencionados en la letra c) del mismo artículo que el Presidente designe. A esta Comisión, que dará cuenta periódicamente al Pleno de sus acuerdos y decisiones, le corresponden las funciones que se determinen en el citado Reglamento y, en todo caso, las que la presente Ley atribuye al Consejo de Coordinación Universitaria en relación con las competencias reservadas al Estado y a las Comunidades Autónomas.
 
-c) La Comisión Mixta, que estará compuesta por miembros de los tres grupos a que se refiere el artículo anterior en igual proporción, elegidos por ellos, y en el número que determine el Reglamento del Consejo de
-
 b) La Comisión Académica, que estará compuesta por los vocales mencionados en la letra b) del artículo anterior y por aquellos otros vocales mencionados en la letra c) que el Presidente designe. A esta Comisión, que dará cuenta periódicamente al Pleno de sus acuerdos y decisiones, le corresponden las funciones que se determinen en el citado Reglamento y, en todo caso, las que la presente Ley atribuye al Consejo de Coordinación Universitaria en relación con las facultades de las Universidades en uso de su autonomía.
+
+c) La Comisión Mixta, que estará compuesta por miembros de los tres grupos a que se refiere el artículo anterior en igual proporción, elegidos por ellos, y en el número que determine el Reglamento del Consejo de
 
 [[END OF PAGE 9]]
 
@@ -563,9 +557,9 @@ Coordinación Universitaria. A esta Comisión le corresponde la función de elev
 
 4. El Reglamento del Consejo de Coordinación Universitaria determinará, de acuerdo con lo establecido en los apartados anteriores, el número, composición, forma de designación de los miembros y funciones de las Subcomisiones que hayan de constituirse.
 
-6. En los asuntos que afecten en exclusiva al sistema universitario público, en el Consejo de Coordinación Universitaria y sus órganos, no tendrán derecho a voto los Rectores de las Universidades privadas y de la Iglesia Católica.
-
 5. Tanto las Comisiones como las Subcomisiones podrán contar, para el desarrollo de su trabajo, con la colaboración de expertos en las materias que les son propias. La vinculación de estos expertos con el Consejo de Coordinación Universitaria podrá tener un carácter permanente o temporal. El Reglamento regulará las relaciones de esos expertos con el Consejo de Coordinación Universitaria.
+
+6. En los asuntos que afecten en exclusiva al sistema universitario público, en el Consejo de Coordinación Universitaria y sus órganos, no tendrán derecho a voto los Rectores de las Universidades privadas y de la Iglesia Católica.
 
 7. La Secretaría General del Consejo de Coordinación Universitaria, bajo la dirección de un Secretario General, nombrado por el Gobierno, a propuesta del Ministro de Educación, Cultura y Deporte, ejercerá las funciones que le atribuya el Reglamento.
 
@@ -579,9 +573,9 @@ Coordinación Universitaria. A esta Comisión le corresponde la función de elev
 
 a) La medición del rendimiento del servicio público de la educación superior universitaria y la rendición de cuentas a la sociedad.
 
-c) La mejora de la actividad docente e investigadora y de la gestión de las Universidades.
-
 b) La transparencia, la comparación, la cooperación y la competitividad de las Universidades en el ámbito nacional e internacional.
+
+c) La mejora de la actividad docente e investigadora y de la gestión de las Universidades.
 
 d) La información a las Administraciones públicas para la toma de decisiones en el ámbito de sus competencias.
 
@@ -591,9 +585,9 @@ e) La información a la sociedad para fomentar la excelencia y movilidad de estu
 
 a) Las enseñanzas conducentes a la obtención de títulos de carácter oficial y validez en todo el territorio nacional, a los efectos de su homologación por el Gobierno en los términos previstos en el artículo 35, así como de los títulos de Doctor de acuerdo con lo previsto en el artículo 38.
 
-c) Las actividades docentes, investigadoras y de gestión del profesorado universitario.
-
 b) Las enseñanzas conducentes a la obtención de diplomas y títulos propios de las Universidades y centros de educación superior.
+
+c) Las actividades docentes, investigadoras y de gestión del profesorado universitario.
 
 d) Las actividades, programas, servicios y gestión de los centros e instituciones de educación superior.
 
@@ -613,17 +607,17 @@ Mediante acuerdo de Consejo de Ministros, previo informe del Consejo de Coordina
 
 1. Las enseñanzas para el ejercicio de profesiones que requieren conocimientos científicos, técnicos o artísticos, y la transmisión de la cultura son misiones esenciales de la Universidad.
 
-3. La actividad y la dedicación docente, así como la formación del personal docente de las Universidades, serán criterios relevantes, atendida su oportuna evaluación, para determinar su eficiencia en el desarrollo de su actividad profesional.
-
 2. La docencia es un derecho y un deber de los profesores de las Universidades que ejercerán con libertad de cátedra, sin más límites que los establecidos en la Constitución y en las leyes y los derivados de la organización de las enseñanzas en sus Universidades.
+
+3. La actividad y la dedicación docente, así como la formación del personal docente de las Universidades, serán criterios relevantes, atendida su oportuna evaluación, para determinar su eficiencia en el desarrollo de su actividad profesional.
 
 ###### Artículo 34. Establecimiento de títulos universitarios y de las directrices generales de sus planes de estudios.
 
 1. Los títulos universitarios que tengan carácter oficial y validez en todo el territorio nacional, así como las directrices generales de los planes de estudios que deban cursarse para su obtención y homologación, serán establecidos por el Gobierno, bien por su propia iniciativa, previo informe del Consejo de Coordinación Universitaria, o a propuesta de este Consejo.
 
-3. Las Universidades podrán establecer enseñanzas conducentes a la obtención de diplomas y títulos propios, así como enseñanzas de formación a lo largo de toda la vida. Estos diplomas y títulos carecerán de los efectos que las disposiciones legales otorguen a los mencionados en el apartado 1.
-
 2. Los títulos a que hace referencia el apartado anterior, que se integrarán en el Catálogo de Títulos Universitarios Oficiales que apruebe el Gobierno, serán expedidos en nombre del Rey por el Rector de la Universidad en la que se hubieren obtenido.
+
+3. Las Universidades podrán establecer enseñanzas conducentes a la obtención de diplomas y títulos propios, así como enseñanzas de formación a lo largo de toda la vida. Estos diplomas y títulos carecerán de los efectos que las disposiciones legales otorguen a los mencionados en el apartado 1.
 
 ###### Artículo 35. Homologación de planes de estudios y de títulos.
 
@@ -639,15 +633,15 @@ Lunes 24 diciembre 2001
 
 BOE núm. 307
 
-3. Las Universidades, obtenido el informe de la Comunidad Autónoma, remitirán los planes de estudios al Consejo de Coordinación Universitaria a efectos de verificación de su ajuste a las directrices generales a que se refiere el apartado 1 y de la consecuente homologación de los mismos por dicho Consejo. Transcurridos seis meses desde la recepción por el Consejo de Coordinación Universitaria de los mencionados planes de estudios, y no habiéndose producido resolución al respecto, se entenderán homologados.
-
 2. Con carácter previo a su remisión al Consejo de Coordinación Universitaria, las Universidades deberán poner los planes de estudios en conocimiento de la Comunidad Autónoma correspondiente, a los efectos de la obtención del informe favorable relativo a la valoración económica del plan de estudios y a su adecuación a los requisitos a que se refiere el apartado 3 del artículo 4.
+
+3. Las Universidades, obtenido el informe de la Comunidad Autónoma, remitirán los planes de estudios al Consejo de Coordinación Universitaria a efectos de verificación de su ajuste a las directrices generales a que se refiere el apartado 1 y de la consecuente homologación de los mismos por dicho Consejo. Transcurridos seis meses desde la recepción por el Consejo de Coordinación Universitaria de los mencionados planes de estudios, y no habiéndose producido resolución al respecto, se entenderán homologados.
 
 4. El Gobierno, acreditada la homologación del plan de estudios y el cumplimiento de los requisitos a que se refiere el apartado 2, homologará los correspondientes títulos, a los efectos de que la Comunidad Autónoma pueda autorizar la impartición de las enseñanzas y la Universidad proceder, en su momento, a la expedición de los títulos. Para homologar los títulos cuyas enseñanzas sean impartidas por centros universitarios privados será necesario que éstos estén integrados como centros propios en una Universidad privada o adscritos a una Universidad pública.
 
-6. El Gobierno establecerá el procedimiento y los criterios para la suspensión o revocación de la homologación del título que, en su caso, pueda proceder por el incumplimiento de los requisitos o de las directrices generales a las que se ha hecho mención en los apartados 1 y 2, así como las consecuencias de la suspensión o revocación.
-
 5. A los efectos de este artículo, transcurrido el período de implantación de un plan de estudios, las Universidades deberán someter a evaluación de la Agencia Nacional de Evaluación de la Calidad y Acreditación el desarrollo efectivo de las enseñanzas. La Agencia dará cuenta de dicha evaluación al Consejo de Coordinación Universitaria y a la correspondiente Comunidad Autónoma, así como al Gobierno que, en su caso, adoptará las medidas que procedan de acuerdo con las previsiones del apartado siguiente.
+
+6. El Gobierno establecerá el procedimiento y los criterios para la suspensión o revocación de la homologación del título que, en su caso, pueda proceder por el incumplimiento de los requisitos o de las directrices generales a las que se ha hecho mención en los apartados 1 y 2, así como las consecuencias de la suspensión o revocación.
 
 ###### Artículo 36. Convalidación o adaptación de estudios, equivalencia de títulos y homologación de títulos extranjeros.
 
@@ -672,19 +666,19 @@ Los estudios de doctorado, conducentes a la obtención del correspondiente títu
 
 ###### Artículo 39. La investigación, función de la Universidad.
 
-- La investigación, fundamento de la docencia, medio para el progreso de la comunidad y soporte de la transferencia social del conocimiento, constituye una función esencial de las Universidades.
+1. La investigación, fundamento de la docencia, medio para el progreso de la comunidad y soporte de la transferencia social del conocimiento, constituye una función esencial de las Universidades.
 
-- La Universidad asume, como uno de sus objetivos esenciales, el desarrollo de la investigación científica, técnica y artística, así como la formación de investigadores, y atenderá tanto a la investigación básica como a la aplicada.
+2. Se reconoce y garantiza la libertad de investigación en el ámbito universitario.
 
-- Se reconoce y garantiza la libertad de investigación en el ámbito universitario.
+3. La Universidad asume, como uno de sus objetivos esenciales, el desarrollo de la investigación científica, técnica y artística, así como la formación de investigadores, y atenderá tanto a la investigación básica como a la aplicada.
 
 ###### Artículo 40. La investigación, derecho y deber del profesorado universitario.
 
-- La investigación es un derecho y un deber del personal docente e investigador de las Universidades, de acuerdo con los fines generales de la Universidad, y dentro de los límites establecidos por el ordenamiento jurídico.
+1. La investigación es un derecho y un deber del personal docente e investigador de las Universidades, de acuerdo con los fines generales de la Universidad, y dentro de los límites establecidos por el ordenamiento jurídico.
+
+2. La investigación, sin perjuicio de la libre creación y organización por las Universidades de las estructuras que, para su desarrollo, las mismas determinen y de la libre investigación individual, se llevará a cabo, principalmente, en grupos de investigación, Departamentos e Institutos Universitarios de Investigación.
 
 3. La actividad y dedicación investigadora y la contribución al desarrollo científico, tecnológico o artístico del personal docente e investigador de las Universidades será criterio relevante, atendida su oportuna evaluación, para determinar su eficiencia en el desarrollo de su actividad profesional.
-
-2. La investigación, sin perjuicio de la libre creación y organización por las Universidades de las estructuras que, para su desarrollo, las mismas determinen y de la libre investigación individual se llevará a cabo, principalmente, en grupos de investigación, Departamentos e Institutos Universitarios de Investigación.
 
 4. Las Universidades fomentarán la movilidad de su personal docente e investigador, con el fin de mejorar su formación y actividad investigadora, a través de la concesión de los oportunos permisos y licencias, en el marco de la legislación estatal y autonómica aplicable y de acuerdo con las previsiones estatutarias consignadas al efecto.
 
@@ -704,17 +698,17 @@ Lunes 24 diciembre 2001
 
 2. El fomento de la investigación científica y el desarrollo tecnológico corresponderá en el ámbito universitario a la Administración General del Estado y a las Comunidades Autónomas, de acuerdo con la legislación aplicable, sin perjuicio del desarrollo de programas propios de las Universidades y con la finalidad, entre otros objetivos, de asegurar:
 
-- El fomento de la calidad y competitividad internacional de la investigación desarrollada por las Universidades españolas.
+a) El fomento de la calidad y competitividad internacional de la investigación desarrollada por las Universidades españolas.
 
-- La incorporación de científicos y grupos de científicos de especial relevancia dentro de las iniciativas de investigación por las Universidades.
+b) El desarrollo de la investigación inter y multidisciplinar.
 
-- El desarrollo de la investigación inter y multidisciplinar.
+c) La incorporación de científicos y grupos de científicos de especial relevancia dentro de las iniciativas de investigación por las Universidades.
 
-- La movilidad de investigadores y grupos de investigación para la formación de equipos y centros de excelencia.
+d) La movilidad de investigadores y grupos de investigación para la formación de equipos y centros de excelencia.
 
-- La coordinación de la investigación entre diversas Universidades y centros de investigación, así como la creación de centros o estructuras mixtas entre las Universidades y otros Organismos públicos y privados de investigación, y, en su caso, empresas.
+e) La incorporación a las Universidades de personal técnico de apoyo a la investigación, atendiendo a las características de los distintos campos científicos.
 
-- La incorporación a las Universidades de personal técnico de apoyo a la investigación, atendiendo a las características de los distintos campos científicos.
+f) La coordinación de la investigación entre diversas Universidades y centros de investigación, así como la creación de centros o estructuras mixtas entre las Universidades y otros Organismos públicos y privados de investigación, y, en su caso, empresas.
 
 - La vinculación entre la investigación universitaria y el sistema productivo, como vía para articular la transferencia de los conocimientos generados y la presencia de la Universidad en el proceso de innovación del sistema productivo y de las empresas. Dicha vinculación podrá, en su caso, llevarse a cabo a través de la creación de empresas de base tecnológica a partir de la actividad universitaria, en cuyas actividades podrá participar el personal docente e investigador de las Universidades conforme al régimen previsto en el artículo 83.
 
@@ -726,23 +720,21 @@ Lunes 24 diciembre 2001
 
 ###### Artículo 42. Acceso a la Universidad.
 
-- El estudio en la Universidad es un derecho de todos los españoles en los términos establecidos en el ordenamiento jurídico.
+1. El estudio en la Universidad es un derecho de todos los españoles en los términos establecidos en el ordenamiento jurídico.
 
-- Las Universidades, de acuerdo con la normativa básica que establezca el Gobierno previo informe del Consejo de Coordinación Universitaria y teniendo en cuenta la programación de la oferta de plazas disponibles, establecerán los procedimientos para la admisión de los estudiantes que soliciten ingresar en centros de las mismas, siempre con respeto a los principios de igualdad, mérito y capacidad.
+2. Para el acceso a la Universidad será necesario estar en posesión del título de bachiller o equivalente.
 
-- Para el acceso a la Universidad será necesario estar en posesión del título de bachiller o equivalente.
+3. Las Universidades, de acuerdo con la normativa básica que establezca el Gobierno previo informe del Consejo de Coordinación Universitaria y teniendo en cuenta la programación de la oferta de plazas disponibles, establecerán los procedimientos para la admisión de los estudiantes que soliciten ingresar en centros de las mismas, siempre con respeto a los principios de igualdad, mérito y capacidad.
 
 El Consejo de Coordinación Universitaria velará para que las Universidades programen sus procedimientos de admisión de manera que los estudiantes puedan concurrir a Universidades diferentes.
 
 ###### Artículo 43. Oferta de plazas en las Universidades públicas.
 
-- Las Comunidades Autónomas efectuarán la programación de la oferta de enseñanzas de las Universidades
-
-públicas de su competencia y sus distintos centros, de acuerdo con ellas y conforme a los procedimientos que establezcan.
-
-- Los poderes públicos desarrollarán, en el marco de la programación general de la enseñanza universitaria, una política de inversiones tendente a adecuar la capacidad de los centros a la demanda social, teniendo en cuenta el gasto público disponible, la previsión de las necesidades de la sociedad y la compensación de los desequilibrios territoriales.
+1. Las Comunidades Autónomas efectuarán la programación de la oferta de enseñanzas de las Universidades públicas de su competencia y sus distintos centros, de acuerdo con ellas y conforme a los procedimientos que establezcan.
 
 La oferta de plazas se comunicará al Consejo de Coordinación Universitaria para su estudio y determinación de la oferta general de enseñanzas y plazas, que será publicada en el «Boletín Oficial del Estado».
+
+2. Los poderes públicos desarrollarán, en el marco de la programación general de la enseñanza universitaria, una política de inversiones tendente a adecuar la capacidad de los centros a la demanda social, teniendo en cuenta el gasto público disponible, la previsión de las necesidades de la sociedad y la compensación de los desequilibrios territoriales.
 
 ###### Artículo 44. Límites máximos de admisión de estudiantes.
 
@@ -750,17 +742,17 @@ El Gobierno, por motivos de interés general o para poder cumplir exigencias der
 
 ###### Artículo 45. Becas y ayudas al estudio.
 
-- Para garantizar las condiciones de igualdad en el ejercicio del derecho a la educación y para que todos los estudiantes, con independencia de su lugar de residencia, disfruten de las mismas oportunidades de acceso a los estudios superiores, el Estado, con cargo a sus presupuestos generales, establecerá un sistema general de becas y ayudas al estudio destinado a remover los obstáculos de orden socioeconómico que, en cualquier parte del territorio, impidan o dificulten el acceso o la continuidad de los estudios superiores a aquellos estudiantes que estén en condiciones de cursarlos con aprovechamiento.
-
-A los efectos previstos en los párrafos anteriores se tendrá en cuenta la singularidad de los territorios insulares y la distancia al territorio peninsular para favorecer la movilidad y las condiciones de igualdad en el ejercicio de la educación de los estudiantes de dichos territorios.
+1. Para garantizar las condiciones de igualdad en el ejercicio del derecho a la educación y para que todos los estudiantes, con independencia de su lugar de residencia, disfruten de las mismas oportunidades de acceso a los estudios superiores, el Estado, con cargo a sus presupuestos generales, establecerá un sistema general de becas y ayudas al estudio destinado a remover los obstáculos de orden socioeconómico que, en cualquier parte del territorio, impidan o dificulten el acceso o la continuidad de los estudios superiores a aquellos estudiantes que estén en condiciones de cursarlos con aprovechamiento.
 
 A estos efectos, el Gobierno determinará reglamentariamente y con carácter básico las modalidades y cuantías de las becas y ayudas al estudio, las condiciones académicas y económicas que hayan de reunir los candidatos, así como los supuestos de incompatibilidad, revocación y reintegro y cuantos requisitos sean precisos para asegurar la igualdad en el acceso a las citadas becas y ayudas, sin detrimento de las competencias normativas y de ejecución de las Comunidades Autónomas.
 
-- El desarrollo, ejecución y control del sistema general de becas y ayudas al estudio corresponde a las Comunidades Autónomas en sus respectivos ámbitos de competencia y en colaboración con las Universidades.
+A los efectos previstos en los párrafos anteriores se tendrá en cuenta la singularidad de los territorios insulares y la distancia al territorio peninsular para favorecer la movilidad y las condiciones de igualdad en el ejercicio de la educación de los estudiantes de dichos territorios.
 
-- Sobre la base de los principios de equidad y solidaridad, las Administraciones públicas y las Universidades cooperarán para articular sistemas eficaces de información, verificación y control de las becas y ayudas financiadas con fondos públicos y para el mejor logro de los objetivos señalados en los apartados anteriores.
+2. El desarrollo, ejecución y control del sistema general de becas y ayudas al estudio corresponde a las Comunidades Autónomas en sus respectivos ámbitos de competencia y en colaboración con las Universidades.
 
 Sin perjuicio de lo dispuesto en el párrafo anterior, para asegurar que los resultados de la aplicación del sistema general de becas y ayudas al estudio se producen sin menoscabo de la garantía de igualdad en la obtención de éstas en todo el territorio nacional, se establecerán los oportunos mecanismos de coordinación entre el Estado y las Comunidades Autónomas.
+
+3. Sobre la base de los principios de equidad y solidaridad, las Administraciones públicas y las Universidades cooperarán para articular sistemas eficaces de información, verificación y control de las becas y ayudas financiadas con fondos públicos y para el mejor logro de los objetivos señalados en los apartados anteriores.
 
 [[END OF PAGE 12]]
 
@@ -778,35 +770,25 @@ BOE núm. 307
 
 1. El estudio es un derecho y un deber de los estudiantes universitarios.
 
-En los términos establecidos por el ordenamiento jurídico, los estudiantes tendrán derecho a:
-
 2. Los Estatutos y normas de organización y funcionamiento desarrollarán los derechos y los deberes de los estudiantes, así como los mecanismos para su garantía.
+
+En los términos establecidos por el ordenamiento jurídico, los estudiantes tendrán derecho a:
 
 a) El estudio en la Universidad de su elección, en los términos establecidos por el ordenamiento jurídico.
 
-ción, por circunstancias personales o sociales, incluida
-
-b)
-
-La igualdad de oportunidades y no discrimina-
-
-la discapacidad, en el acceso a la Universidad, ingreso
-
-de sus derechos académicos.
-
-en los centros, permanencia en la Universidad y ejercicio
+b) La igualdad de oportunidades y no discriminación, por circunstancias personales o sociales, incluida la discapacidad, en el acceso a la Universidad, ingreso en los centros, permanencia en la Universidad y ejercicio de sus derechos académicos.
 
 c) La orientación e información por la Universidad sobre las actividades de la misma que les afecten.
 
-e) El asesoramiento y asistencia por parte de profesores y tutores en el modo en que se determine.
-
 d) La publicidad de las normas de las Universidades que deben regular la verificación de los conocimientos de los estudiantes.
+
+e) El asesoramiento y asistencia por parte de profesores y tutores en el modo en que se determine.
 
 f) Su representación en los órganos de gobierno y representación de la Universidad, en los términos establecidos en esta Ley y en los respectivos Estatutos o normas de organización y funcionamiento.
 
-h) La garantía de sus derechos, mediante procedimientos adecuados y, en su caso, la actuación del Defensor Universitario.
-
 g) La libertad de expresión, de reunión y de asociación en el ámbito universitario.
+
+h) La garantía de sus derechos, mediante procedimientos adecuados y, en su caso, la actuación del Defensor Universitario.
 
 3. Las Universidades establecerán los procedimientos de verificación de los conocimientos de los estudiantes. En las Universidades públicas, el Consejo Social, previo informe del Consejo de Coordinación Universitaria, aprobará las normas que regulen el progreso y la permanencia en la Universidad de los estudiantes, de acuerdo con las características de los respectivos estudios.
 
@@ -824,15 +806,15 @@ g) La libertad de expresión, de reunión y de asociación en el ámbito univers
 
 El personal docente e investigador de las Universidades públicas estará compuesto de funcionarios de los cuerpos docentes universitarios y de personal contratado.
 
-##### SECCIÓN 1. a DEL PERSONAL DOCENTE E INVESTIGADOR CONTRATADO
+##### SECCIÓN 1.ª DEL PERSONAL DOCENTE E INVESTIGADOR CONTRATADO
 
 ###### Artículo 48. Normas generales.
 
 1. En los términos de la presente Ley y en el marco de sus competencias, las Comunidades Autónomas establecerán el régimen del personal docente e investigador contratado de las Universidades. Éstas, podrán contratar, en régimen laboral, personal docente e investigador entre las figuras siguientes: ayudante, profesor ayudante doctor, profesor colaborador, profesor contratado doctor, profesor asociado y profesor visitante.
 
-2. La contratación de personal docente e investigador se hará mediante concursos públicos, a los que se les dará la necesaria publicidad y cuya convocatoria será comunicada con suficiente antelación al Consejo de Coordinación Universitaria para su difusión en todas las Universidades. La selección se efectuará con respeto a los principios constitucionales de igualdad, mérito y capacidad. Se considerará mérito preferente estar habilitado para participar en los concursos de acceso a que se refiere el artículo 63.
-
 El número total del personal docente e investigador contratado no podrá superar el cuarenta y nueve por ciento del total del personal docente e investigador de la Universidad.
+
+2. La contratación de personal docente e investigador se hará mediante concursos públicos, a los que se les dará la necesaria publicidad y cuya convocatoria será comunicada con suficiente antelación al Consejo de Coordinación Universitaria para su difusión en todas las Universidades. La selección se efectuará con respeto a los principios constitucionales de igualdad, mérito y capacidad. Se considerará mérito preferente estar habilitado para participar en los concursos de acceso a que se refiere el artículo 63.
 
 3. Las Universidades podrán contratar para obra o servicio determinado a personal docente, personal investigador, personal técnico u otro personal, para el desarrollo de proyectos concretos de investigación científica o técnica.
 
@@ -870,57 +852,57 @@ Los profesores asociados serán contratados, con carácter temporal, y con dedic
 
 ###### Artículo 54. Profesores eméritos y visitantes.
 
-- Las Universidades públicas podrán contratar con carácter temporal, en régimen laboral y de acuerdo con lo establecido en los Estatutos, profesores eméritos entre funcionarios jubilados de los cuerpos docentes universitarios que hayan prestado servicios destacados a la Universidad.
+1. Las Universidades públicas podrán contratar con carácter temporal, en régimen laboral y de acuerdo con lo establecido en los Estatutos, profesores eméritos entre funcionarios jubilados de los cuerpos docentes universitarios que hayan prestado servicios destacados a la Universidad.
 
-- Los profesores visitantes serán contratados, temporalmente, entre profesores o investigadores de reconocido prestigio, procedentes de otras Universidades y centros de investigación, tanto españoles como extranjeros.
+2. Los profesores visitantes serán contratados, temporalmente, entre profesores o investigadores de reconocido prestigio, procedentes de otras Universidades y centros de investigación, tanto españoles como extranjeros.
 
 ###### Artículo 55. Retribuciones del personal docente e investigador contratado.
 
-- Las Comunidades Autónomas regularán el régimen retributivo del personal docente e investigador contratado en las Universidades públicas.
+1. Las Comunidades Autónomas regularán el régimen retributivo del personal docente e investigador contratado en las Universidades públicas.
 
-- Sin perjuicio de lo dispuesto en el apartado anterior, el Gobierno podrá establecer programas de incentivo docente e investigador que comprendan al personal docente e investigador contratado.
+2. Las Comunidades Autónomas podrán, asimismo, establecer retribuciones adicionales ligadas a méritos individuales docentes, investigadores y de gestión. Dentro de los límites que para este fin fijen las Comunidades Autónomas, el Consejo Social, a propuesta del Consejo de Gobierno, podrá acordar la asignación singular e individual de dichos complementos retributivos.
 
-- Las Comunidades Autónomas podrán, asimismo, establecer retribuciones adicionales ligadas a méritos individuales docentes, investigadores y de gestión. Dentro de los límites que para este fin fijen las Comunidades Autónomas, el Consejo Social, a propuesta del Consejo de Gobierno, podrá acordar la asignación singular e individual de dichos complementos retributivos.
+3. Sin perjuicio de lo dispuesto en el apartado anterior, el Gobierno podrá establecer programas de incentivo docente e investigador que comprendan al personal docente e investigador contratado.
 
-- Los complementos retributivos derivados del desarrollo de los dos apartados anteriores, se asignarán previa valoración de los méritos por la Agencia Nacional de Evaluación de la Calidad y Acreditación o por el órgano de evaluación externa que la Ley de la Comunidad Autónoma determine.
+4. Los complementos retributivos derivados del desarrollo de los dos apartados anteriores, se asignarán previa valoración de los méritos por la Agencia Nacional de Evaluación de la Calidad y Acreditación o por el órgano de evaluación externa que la Ley de la Comunidad Autónoma determine.
 
-##### SECCIÓN 2. a DEL PROFESORADO DE LOS CUERPOS DOCENTES UNIVERSITARIOS
+##### SECCIÓN 2.ª DEL PROFESORADO DE LOS CUERPOS DOCENTES UNIVERSITARIOS
 
 ###### Artículo 56. Cuerpos docentes universitarios.
 
-- El profesorado universitario funcionario pertenecerá a los siguientes cuerpos docentes:
+1. El profesorado universitario funcionario pertenecerá a los siguientes cuerpos docentes:
 
-- Catedráticos de Universidad.
+a) Catedráticos de Universidad.
 
-- Catedráticos de Escuelas Universitarias.
+b) Profesores Titulares de Universidad.
 
-- Profesores Titulares de Universidad.
+c) Catedráticos de Escuelas Universitarias.
 
-- Profesores Titulares de Escuelas Universitarias.
+d) Profesores Titulares de Escuelas Universitarias.
 
 Los Catedráticos y Profesores Titulares de Universidad tendrán plena capacidad docente e investigadora. Los Catedráticos y Profesores Titulares de Escuelas Universitarias tendrán plena capacidad docente y, cuando se hallen en posesión del título de Doctor, también plena capacidad investigadora.
 
-Respecto a los funcionarios de los cuerpos docentes universitarios que presten sus servicios en la Universidad, corresponderá al Rector adoptar las decisiones relativas a las situaciones administrativas y régimen disciplinario, a excepción de la de separación del servicio, que será acordada por el órgano competente según la legislación de funcionarios.
+2. El profesorado universitario funcionario se regirá por la presente Ley y sus disposiciones de desarrollo, por la legislación general de funcionarios que le sea de aplicación y por los Estatutos.
 
-- El profesorado universitario funcionario se regirá por la presente Ley y sus disposiciones de desarrollo, por la legislación general de funcionarios que le sea de aplicación y por los Estatutos.
+Respecto a los funcionarios de los cuerpos docentes universitarios que presten sus servicios en la Universidad, corresponderá al Rector adoptar las decisiones relativas a las situaciones administrativas y régimen disciplinario, a excepción de la de separación del servicio, que será acordada por el órgano competente según la legislación de funcionarios.
 
 ###### Artículo 57. Habilitación nacional.
 
-- El procedimiento de acceso a cuerpos de funcionarios docentes universitarios seguirá el sistema de habilitación nacional previa. Ésta vendrá definida por la categoría del cuerpo y el área de conocimiento. El Gobierno regulará el sistema de habilitación, previo informe del Consejo de Coordinación Universitaria.
-
-- La convocatoria de pruebas de habilitación será efectuada por el Consejo de Coordinación Universitaria y se publicará en el «Boletín Oficial del Estado».
+1. El procedimiento de acceso a cuerpos de funcionarios docentes universitarios seguirá el sistema de habilitación nacional previa. Ésta vendrá definida por la categoría del cuerpo y el área de conocimiento. El Gobierno regulará el sistema de habilitación, previo informe del Consejo de Coordinación Universitaria.
 
 La habilitación faculta para concurrir a concursos de acceso a cuerpos de funcionarios docentes universitarios. Una vez que el candidato habilitado haya sido seleccionado por una Universidad pública en el correspondiente concurso de acceso, le haya sido conferido el oportuno nombramiento y haya tomado posesión de la plaza, adquirirá la condición de funcionario de carrera del cuerpo docente universitario de que se trate, con los derechos y deberes que le son propios.
 
-- Las pruebas de habilitación serán públicas y cada una de ellas eliminatoria.
+2. La convocatoria de pruebas de habilitación será efectuada por el Consejo de Coordinación Universitaria y se publicará en el «Boletín Oficial del Estado».
+
+3. Las pruebas de habilitación serán públicas y cada una de ellas eliminatoria.
+
+4. Las pruebas de habilitación serán juzgadas por Comisiones compuestas por siete profesores del área de conocimiento correspondiente o, en su caso, afines, todos ellos pertenecientes al cuerpo de funcionarios docentes universitarios de cuya habilitación se trate, o de cuerpos docentes universitarios de iguales o superiores categorías. En el caso de que los miembros de las citadas Comisiones sean Profesores Titulares de Escuelas Universitarias, Catedráticos de Escuelas Universitarias o Profesores Titulares de Universidad deberán poseer, al menos, el reconocimiento de un período de actividad investigadora de acuerdo con las previsiones del Real Decreto 1086/1989, de 28 de agosto, de retribuciones del profesorado universitario, o norma que lo sustituya, y de dos de los mencionados períodos si se trata de Catedráticos de Universidad.
 
 Los miembros de las Comisiones de habilitación serán elegidos por sorteo público realizado por el Consejo de Coordinación Universitaria y según el procedimiento que reglamentariamente establezca el Gobierno. Actuará de Presidente el Catedrático de Universidad más antiguo o, en su caso, el Profesor Titular de Universidad o Catedrático de Escuelas Universitarias más antiguo. Las pruebas se celebrarán en la Universidad de adscripción del Presidente.
 
-- Las pruebas de habilitación serán juzgadas por Comisiones compuestas por siete profesores del área de conocimiento correspondiente o, en su caso, afines, todos ellos pertenecientes al cuerpo de funcionarios docentes universitarios de cuya habilitación se trate, o de cuerpos docentes universitarios de iguales o superiores categorías. En el caso de que los miembros de las citadas Comisiones sean Profesores Titulares de Escuelas Universitarias, Catedráticos de Escuelas Universitarias o Profesores Titulares de Universidad deberán poseer, al menos, el reconocimiento de un período de actividad investigadora de acuerdo con las previsiones del Real Decreto 1086/1989, de 28 de agosto, de retribuciones del profesorado universitario, o norma que lo sustituya, y de dos de los mencionados períodos si se trata de Catedráticos de Universidad.
-
 En las citadas Comisiones de habilitación, uno de sus miembros podrá ser funcionario científico e investigador perteneciente a las Escalas del Consejo Superior de Investigaciones Científicas, de acuerdo con la disposición adicional vigésima sexta.
 
-- Las Comisiones, finalizadas las pruebas, elevarán propuestas vinculantes al Consejo de Coordinación Universitaria, que procederá a la habilitación de los candidatos.
+5. Las Comisiones, finalizadas las pruebas, elevarán propuestas vinculantes al Consejo de Coordinación Universitaria, que procederá a la habilitación de los candidatos.
 
 [[END OF PAGE 14]]
 
@@ -936,47 +918,45 @@ BOE núm. 307
 
 1. A fin de obtener la habilitación para el cuerpo de Profesores Titulares de Escuelas Universitarias, será necesario estar en posesión del título de Licenciado, Arquitecto o Ingeniero o, excepcionalmente, en aquellas áreas de conocimiento que establezca el Gobierno, previo informe del Consejo de Coordinación Universitaria, de Diplomado universitario, Arquitecto Técnico o Ingeniero Técnico y superar las pruebas correspondientes.
 
-3. Únicamente podrán convocarse pruebas de habilitación y concursos de acceso al cuerpo de Profesores Titulares de Escuelas Universitarias para aquellas áreas de conocimiento que, a estos efectos, establezca el Gobierno previo informe del Consejo de Coordinación Universitaria.
-
 2. La habilitación constará de dos pruebas. La primera consistirá en la presentación y discusión con la Comisión de los méritos e historial académico, docente e investigador del candidato, así como de su proyecto docente, que incluirá el programa de una de las materias o especialidades del área de conocimiento de que se trate. La segunda consistirá en la exposición y debate con la Comisión de un tema del programa presentado por el candidato y elegido por éste, de entre tres sacados a sorteo.
+
+3. Únicamente podrán convocarse pruebas de habilitación y concursos de acceso al cuerpo de Profesores Titulares de Escuelas Universitarias para aquellas áreas de conocimiento que, a estos efectos, establezca el Gobierno previo informe del Consejo de Coordinación Universitaria.
 
 ###### Artículo 59. Habilitación de Profesores Titulares de Universidad y Catedráticos de Escuelas Universitarias.
 
-- A fin de obtener la habilitación para los cuerpos de Profesores Titulares de Universidad y de Catedráticos de Escuelas Universitarias, será necesario estar en posesión del título de Doctor y superar las pruebas correspondientes.
+1. A fin de obtener la habilitación para los cuerpos de Profesores Titulares de Universidad y de Catedráticos de Escuelas Universitarias, será necesario estar en posesión del título de Doctor y superar las pruebas correspondientes.
+
+2. La habilitación constará de tres pruebas. La primera consistirá en la presentación y discusión con la Comisión de los méritos e historial académico, docente e investigador del candidato, así como de su proyecto docente e investigador, que incluirá el programa de una de las materias o especialidades del área de conocimiento de que se trate. La segunda consistirá en la exposición y debate con la Comisión de un tema del programa presentado por el candidato y elegido por éste, de entre tres sacados a sorteo. La tercera prueba consistirá en la exposición y debate con la Comisión de un trabajo original de investigación.
 
 Para poder formar parte de las Comisiones de habilitación, los Catedráticos de Escuelas Universitarias deberán estar en posesión del título de Doctor.
 
-- La habilitación constará de tres pruebas. La primera consistirá en la presentación y discusión con la Comisión de los méritos e historial académico, docente e investigador del candidato, así como de su proyecto docente e investigador, que incluirá el programa de una de las materias o especialidades del área de conocimiento de que se trate. La segunda consistirá en la exposición y debate con la Comisión de un tema del programa presentado por el candidato y elegido por éste, de entre tres sacados a sorteo. La tercera prueba consistirá en la exposición y debate con la Comisión de un trabajo original de investigación.
-
-- Únicamente podrán convocarse pruebas de habilitación y concursos de acceso al cuerpo de Catedráticos de Escuelas Universitarias para aquellas áreas de conocimiento que, a estos efectos, establezca el Gobierno, previo informe del Consejo de Coordinación Universitaria.
+3. Únicamente podrán convocarse pruebas de habilitación y concursos de acceso al cuerpo de Catedráticos de Escuelas Universitarias para aquellas áreas de conocimiento que, a estos efectos, establezca el Gobierno, previo informe del Consejo de Coordinación Universitaria.
 
 ###### Artículo 60. Habilitación de Catedráticos de Universidad.
 
 1. A fin de obtener la habilitación para el cuerpo de Catedráticos de Universidad, será necesario tener la condición de Profesor Titular de Universidad o Catedrático de Escuelas Universitarias con tres años de antigüedad y titulación de Doctor. El Consejo de Coordinación Universitaria eximirá de estos requisitos a quienes acrediten tener la condición de Doctor con, al menos, ocho años de antigüedad, y obtengan informe positivo de su actividad docente e investigadora por parte de la Agencia Nacional de Evaluación de la Calidad y Acreditación. Además habrán de superarse las pruebas correspondientes.
 
-- La habilitación constará de dos pruebas. La primera consistirá en la presentación y discusión con la Comisión de los méritos e historial académico, docente e investigador del candidato. La segunda, en la presentación ante la Comisión y debate con ésta de un trabajo original de investigación.
+2. La habilitación constará de dos pruebas. La primera consistirá en la presentación y discusión con la Comisión de los méritos e historial académico, docente e investigador del candidato. La segunda, en la presentación ante la Comisión y debate con ésta de un trabajo original de investigación.
 
 ###### Artículo 61. Personal de cuerpos de funcionarios docentes universitarios que ocupen plaza vinculada a servicios asistenciales de instituciones sanitarias.
 
-El personal de los cuerpos de funcionarios docentes universitarios que ocupen una plaza vinculada a los servicios asistenciales de instituciones sanitarias, en áreas de conocimiento de carácter clínico asistencial, de acuerdo con lo establecido en el artículo 105 de la Ley 14/1986, de 25 de abril, General de Sanidad, se regirá por lo establecido en este artículo y los demás de esta Ley que le sean de aplicación. Dicha plaza se considerará,
+El personal de los cuerpos de funcionarios docentes universitarios que ocupen una plaza vinculada a los servicios asistenciales de instituciones sanitarias, en áreas de conocimiento de carácter clínico asistencial, de acuerdo con lo establecido en el artículo 105 de la Ley 14/1986, de 25 de abril, General de Sanidad, se regirá por lo establecido en este artículo y los demás de esta Ley que le sean de aplicación. Dicha plaza se considerará, a todos los efectos, como un solo puesto de trabajo.
 
-regirán, también, en lo que les sea de aplicación, por la Ley 14/1986, de 25 de abril, General de Sanidad, y demás legislación sanitaria, así como por las normas que el Gobierno, a propuesta conjunta de los Ministros de Educación, Cultura y Deporte y de Sanidad y Consumo y, en su caso, de Defensa, establezca en relación con estos funcionarios. En particular, en estas normas se determinará el ejercicio de las competencias sobre situaciones administrativas, se concretará el régimen disciplinario de este personal y se establecerá, a propuesta del Ministro de Hacienda, a iniciativa conjunta de los Ministros indicados en el inciso anterior, el sistema de retribuciones aplicable al mencionado personal.
-
-a todos los efectos, como un solo puesto de trabajo. En atención a las peculiaridades de estas plazas se
+En atención a las peculiaridades de estas plazas se regirán, también, en lo que les sea de aplicación, por la Ley 14/1986, de 25 de abril, General de Sanidad, y demás legislación sanitaria, así como por las normas que el Gobierno, a propuesta conjunta de los Ministros de Educación, Cultura y Deporte y de Sanidad y Consumo y, en su caso, de Defensa, establezca en relación con estos funcionarios. En particular, en estas normas se determinará el ejercicio de las competencias sobre situaciones administrativas, se concretará el régimen disciplinario de este personal y se establecerá, a propuesta del Ministro de Hacienda, a iniciativa conjunta de los Ministros indicados en el inciso anterior, el sistema de retribuciones aplicable al mencionado personal.
 
 ###### Artículo 62. Procedimiento para la habilitación.
 
-- Las Universidades públicas, en el modo que establezcan sus Estatutos y en atención a las necesidades docentes e investigadoras, acordarán las plazas que serán provistas mediante concurso de acceso entre habilitados, a cuyo efecto lo comunicarán a la Secretaría General del Consejo de Coordinación Universitaria, en la forma y plazos que establezca el Gobierno.
+1. Las Universidades públicas, en el modo que establezcan sus Estatutos y en atención a las necesidades docentes e investigadoras, acordarán las plazas que serán provistas mediante concurso de acceso entre habilitados, a cuyo efecto lo comunicarán a la Secretaría General del Consejo de Coordinación Universitaria, en la forma y plazos que establezca el Gobierno.
 
-- Las Comisiones de habilitación no podrán proponer a la Secretaría General del Consejo de Coordinación Universitaria la habilitación de un número mayor de candidatos al número de habilitaciones señalado en el apartado 2, pero sí un número inferior al mismo, incluso la no habilitación de candidato alguno.
+2. La Secretaría General del Consejo de Coordinación Universitaria señalará el número de habilitaciones que serán objeto de convocatoria en cada área de conocimiento, en función del número de plazas comunicadas a la citada Secretaría General, a fin de garantizar la posibilidad de selección de las Universidades entre habilitados.
 
-- La Secretaría General del Consejo de Coordinación Universitaria señalará el número de habilitaciones que serán objeto de convocatoria en cada área de conocimiento, en función del número de plazas comunicadas a la citada Secretaría General, a fin de garantizar la posibilidad de selección de las Universidades entre habilitados.
+3. Las Comisiones de habilitación no podrán proponer a la Secretaría General del Consejo de Coordinación Universitaria la habilitación de un número mayor de candidatos al número de habilitaciones señalado en el apartado 2, pero sí un número inferior al mismo, incluso la no habilitación de candidato alguno.
 
 ###### Artículo 63. Convocatoria de concursos.
 
-- Las Universidades públicas convocarán el correspondiente concurso de acceso a cuerpos de funcionarios docentes, siempre que las plazas estén dotadas en el estado de gastos de su presupuesto y que hayan sido comunicadas a la Secretaría General del Consejo de Coordinación Universitaria a los efectos previstos en el apartado 1 del artículo anterior, en los plazos que reglamentariamente se establezcan.
+1. Las Universidades públicas convocarán el correspondiente concurso de acceso a cuerpos de funcionarios docentes, siempre que las plazas estén dotadas en el estado de gastos de su presupuesto y que hayan sido comunicadas a la Secretaría General del Consejo de Coordinación Universitaria a los efectos previstos en el apartado 1 del artículo anterior, en los plazos que reglamentariamente se establezcan.
 
-En el plazo máximo de dos años desde la comunicación a que se refiere el párrafo anterior, y una vez celebradas las correspondientes pruebas de habilitación, la plaza deberá proveerse, en todo caso, siempre que haya concursantes a la misma.
+En el plazo máximo de dos años desde la comunicación a que se refiere el párrafo anterior, y una vez celebradas las correspondientes pruebas de habilitación,
 
 [[END OF PAGE 15]]
 
@@ -988,19 +968,21 @@ Lunes 24 diciembre 2001
 
 49415
 
-A los efectos de obtener plaza en una Universidad, podrán participar en los concursos, junto a los habilitados para el cuerpo de que se trate, los funcionarios de dicho cuerpo, y los de cuerpos docentes universitarios de iguales o superiores categorías, sea cual fuere su situación administrativa.
+la plaza deberá proveerse, en todo caso, siempre que haya concursantes a la misma.
 
-- Los concursos de acceso serán convocados por la Universidad y publicados en el «Boletín Oficial del Estado» y en el de la Comunidad Autónoma. Serán resueltos, en cada Universidad, por una Comisión constituida a tal efecto, de acuerdo con el procedimiento previsto en sus Estatutos.
+2. Los concursos de acceso serán convocados por la Universidad y publicados en el «Boletín Oficial del Estado» y en el de la Comunidad Autónoma. Serán resueltos, en cada Universidad, por una Comisión constituida a tal efecto, de acuerdo con el procedimiento previsto en sus Estatutos.
+
+A los efectos de obtener plaza en una Universidad, podrán participar en los concursos, junto a los habilitados para el cuerpo de que se trate, los funcionarios de dicho cuerpo, y los de cuerpos docentes universitarios de iguales o superiores categorías, sea cual fuere su situación administrativa.
 
 ###### Artículo 64. Garantías de las pruebas.
 
-- En las pruebas de habilitación y en los concursos de acceso quedarán garantizados, en todo momento, la igualdad de oportunidades de los candidatos y el respeto a los principios de mérito y capacidad de los mismos.
+1. En las pruebas de habilitación y en los concursos de acceso quedarán garantizados, en todo momento, la igualdad de oportunidades de los candidatos y el respeto a los principios de mérito y capacidad de los mismos.
+
+2. Los Estatutos regularán los procedimientos para la designación de los miembros de las Comisiones de los concursos de acceso. Se basarán en criterios objetivos y generales y garantizarán, en todo caso, la plena competencia docente e investigadora de dichos miembros.
 
 Los miembros de las Comisiones a que se refiere el párrafo anterior, que pertenezcan a alguno de los cuerpos docentes previstos en el apartado 1 del artículo 56, deberán contar con el reconocimiento de los períodos de actividad investigadora mínimos que, para cada uno de los mencionados cuerpos, se establecen en el apartado 4 del artículo 57.
 
-- Los Estatutos regularán los procedimientos para la designación de los miembros de las Comisiones de los concursos de acceso. Se basarán en criterios objetivos y generales y garantizarán, en todo caso, la plena competencia docente e investigadora de dichos miembros.
-
-- En los concursos de acceso, las Universidades harán pública la composición de las Comisiones, así como los criterios para la adjudicación de las plazas.
+3. En los concursos de acceso, las Universidades harán pública la composición de las Comisiones, así como los criterios para la adjudicación de las plazas.
 
 ###### Artículo 65. Nombramientos.
 
@@ -1010,19 +992,17 @@ La plaza obtenida tras el concurso de acceso a que se refiere el artículo 63 de
 
 ###### Artículo 66. Comisiones de reclamaciones.
 
-- Contra las propuestas de las Comisiones de habilitación los candidatos podrán presentar reclamación ante el Consejo de Coordinación Universitaria.
-
-- Contra las propuestas de las Comisiones de los concursos de acceso los concursantes podrán presentar
+1. Contra las propuestas de las Comisiones de habilitación los candidatos podrán presentar reclamación ante el Consejo de Coordinación Universitaria.
 
 Admitida la reclamación, ésta será valorada por una Comisión formada por siete Catedráticos de Universidad, de diversas áreas de conocimiento, con amplia experiencia docente e investigadora, designados por el Consejo de Coordinación Universitaria. Esta Comisión, que será presidida por el Catedrático de Universidad más antiguo, examinará el expediente relativo a la prueba de habilitación para velar por las garantías que establece el apartado 1 del artículo 64, y ratificará o no la propuesta reclamada, en un plazo máximo de tres meses.
 
-reclamación ante el Rector. Admitida la reclamación, se suspenderán los nombramientos hasta su resolución por éste.
-
-Esta Comisión examinará el expediente relativo al concurso, para velar por las garantías que establece el apartado 1 del artículo 64, y ratificará o no la propuesta reclamada en el plazo máximo de tres meses.
+2. Contra las propuestas de las Comisiones de los concursos de acceso los concursantes podrán presentar reclamación ante el Rector. Admitida la reclamación, se suspenderán los nombramientos hasta su resolución por éste.
 
 Esta reclamación será valorada por una Comisión compuesta por siete Catedráticos de Universidad de diversas áreas de conocimiento, con amplia experiencia docente e investigadora, designados en la forma que establezcan los Estatutos.
 
-- Las resoluciones del Consejo de Coordinación Universitaria y del Rector a que se refieren los apartados anteriores de este artículo agotan la vía administrativa y serán impugnables directamente ante la jurisdicción contencioso-administrativa, de acuerdo con lo establecido en la Ley 30/1992, de 26 de noviembre.
+Esta Comisión examinará el expediente relativo al concurso, para velar por las garantías que establece el apartado 1 del artículo 64, y ratificará o no la propuesta reclamada en el plazo máximo de tres meses.
+
+3. Las resoluciones del Consejo de Coordinación Universitaria y del Rector a que se refieren los apartados anteriores de este artículo agotan la vía administrativa y serán impugnables directamente ante la jurisdicción contencioso-administrativa, de acuerdo con lo establecido en la Ley 30/1992, de 26 de noviembre.
 
 ###### Artículo 67. Reingreso de excedentes al servicio activo.
 
@@ -1032,9 +1012,9 @@ El reingreso podrá efectuarse, asimismo, en la Universidad a la que pertenecier
 
 ###### Artículo 68. Régimen de dedicación.
 
-- El profesorado de las Universidades públicas ejercerá sus funciones preferentemente en régimen de dedicación a tiempo completo, o bien a tiempo parcial. La dedicación será, en todo caso, compatible con la realización de trabajos científicos, técnicos o artísticos a que se refiere el artículo 83, de acuerdo con las normas básicas que establezca el Gobierno, previo informe del Consejo de Coordinación Universitaria.
+1. El profesorado de las Universidades públicas ejercerá sus funciones preferentemente en régimen de dedicación a tiempo completo, o bien a tiempo parcial. La dedicación será, en todo caso, compatible con la realización de trabajos científicos, técnicos o artísticos a que se refiere el artículo 83, de acuerdo con las normas básicas que establezca el Gobierno, previo informe del Consejo de Coordinación Universitaria.
 
-- La dedicación a tiempo completo del profesorado universitario será requisito necesario para el desempeño de órganos unipersonales de gobierno que, en ningún caso, podrán ejercerse simultáneamente.
+2. La dedicación a tiempo completo del profesorado universitario será requisito necesario para el desempeño de órganos unipersonales de gobierno que, en ningún caso, podrán ejercerse simultáneamente.
 
 ###### Artículo 69. Retribuciones del personal docente e investigador funcionario.
 
@@ -1050,25 +1030,25 @@ Lunes 24 diciembre 2001
 
 BOE núm. 307
 
-3. Las Comunidades Autónomas podrán, asimismo, establecer retribuciones adicionales ligadas a méritos individuales docentes, investigadores y de gestión. Dentro de los límites que para este fin fijen las Comunidades Autónomas, el Consejo Social a propuesta del Consejo de Gobierno podrá acordar la asignación singular e individual de dichos complementos retributivos.
-
 2. El Gobierno podrá establecer retribuciones adicionales a las anteriores y ligadas a méritos individuales docentes, investigadores y de gestión.
+
+3. Las Comunidades Autónomas podrán, asimismo, establecer retribuciones adicionales ligadas a méritos individuales docentes, investigadores y de gestión. Dentro de los límites que para este fin fijen las Comunidades Autónomas, el Consejo Social a propuesta del Consejo de Gobierno podrá acordar la asignación singular e individual de dichos complementos retributivos.
 
 4. Los complementos retributivos derivados del desarrollo de los dos apartados anteriores se asignarán previa valoración de los méritos por la Agencia Nacional de Evaluación de la Calidad y Acreditación o por el órgano de evaluación externa que la Ley de la Comunidad Autónoma determine.
 
 ###### Artículo 70. Relaciones de puestos de trabajo del profesorado.
 
-- Cada Universidad pública establecerá anualmente, en el estado de gastos de su presupuesto la relación de puestos de trabajo de su profesorado, en la que se relacionarán, debidamente clasificadas, todas las plazas de profesorado, incluyendo al personal docente e investigador contratado.
-
-- Las Universidades podrán modificar la relación de puestos de trabajo de su profesorado por ampliación de las plazas existentes o por minoración o cambio de denominación de las plazas vacantes, en la forma que indiquen sus Estatutos y sin perjuicio de lo dispuesto en el artículo 82.
+1. Cada Universidad pública establecerá anualmente, en el estado de gastos de su presupuesto la relación de puestos de trabajo de su profesorado, en la que se relacionarán, debidamente clasificadas, todas las plazas de profesorado, incluyendo al personal docente e investigador contratado.
 
 2. Las relaciones de puestos de trabajo de la Universidad deberán adaptarse, en todo caso, a lo establecido en el párrafo segundo del apartado 1 del artículo 48.
 
+3. Las Universidades podrán modificar la relación de puestos de trabajo de su profesorado por ampliación de las plazas existentes o por minoración o cambio de denominación de las plazas vacantes, en la forma que indiquen sus Estatutos y sin perjuicio de lo dispuesto en el artículo 82.
+
 ###### Artículo 71. Áreas de conocimiento.
 
-- Las denominaciones de las plazas de la relación de puestos de trabajo de profesores funcionarios de cuerpos docentes universitarios corresponderán a las de las áreas de conocimiento existentes. A tales efectos, se entenderá por área de conocimiento aquellos campos del saber caracterizados por la homogeneidad de su objeto de conocimiento, una común tradición histórica y la existencia de comunidades de profesores e investigadores, nacionales o internacionales.
+1. Las denominaciones de las plazas de la relación de puestos de trabajo de profesores funcionarios de cuerpos docentes universitarios corresponderán a las de las áreas de conocimiento existentes. A tales efectos, se entenderá por área de conocimiento aquellos campos del saber caracterizados por la homogeneidad de su objeto de conocimiento, una común tradición histórica y la existencia de comunidades de profesores e investigadores, nacionales o internacionales.
 
-- El Gobierno establecerá y, en su caso, revisará el catálogo de áreas de conocimiento, previo informe del Consejo de Coordinación Universitaria.
+2. El Gobierno establecerá y, en su caso, revisará el catálogo de áreas de conocimiento, previo informe del Consejo de Coordinación Universitaria.
 
 #### CAPÍTULO II
 
@@ -1076,9 +1056,9 @@ BOE núm. 307
 
 ###### Artículo 72. Personal docente e investigador.
 
-- El personal docente e investigador de las Universidades privadas deberá estar en posesión de la titulación académica que se establezca en la normativa prevista en el apartado 3 del artículo 4.
+1. El personal docente e investigador de las Universidades privadas deberá estar en posesión de la titulación académica que se establezca en la normativa prevista en el apartado 3 del artículo 4.
 
-- Con independencia de las condiciones generales que se establezcan de conformidad con el apartado 3 del artículo 4, al menos el veinticinco por ciento del total de su profesorado deberá estar en posesión del título de Doctor y haber obtenido la evaluación positiva de su actividad docente e investigadora por parte de la Agencia Nacional de Evaluación de la Calidad y Acreditación o del órgano de evaluación externa que la Ley de la Comunidad Autónoma determine.
+2. Con independencia de las condiciones generales que se establezcan de conformidad con el apartado 3 del artículo 4, al menos el veinticinco por ciento del total de su profesorado deberá estar en posesión del título de Doctor y haber obtenido la evaluación positiva de su actividad docente e investigadora por parte de la Agencia Nacional de Evaluación de la Calidad y Acreditación o del órgano de evaluación externa que la Ley de la Comunidad Autónoma determine.
 
 ### TÍTULO X
 
@@ -1086,29 +1066,29 @@ BOE núm. 307
 
 ###### Artículo 73. El personal de administración y servicios.
 
-- El personal de administración y servicios de las Universidades estará formado por personal funcionario de las escalas de las propias Universidades y personal laboral contratado por la propia Universidad, así como por personal funcionario perteneciente a los cuerpos y escalas de otras Administraciones públicas.
+1. El personal de administración y servicios de las Universidades estará formado por personal funcionario de las escalas de las propias Universidades y personal laboral contratado por la propia Universidad, así como por personal funcionario perteneciente a los cuerpos y escalas de otras Administraciones públicas.
+
+2. Corresponde al personal de administración y servicios de las Universidades públicas el apoyo, asistencia y asesoramiento a las autoridades académicas, el ejercicio de la gestión y administración, particularmente en las áreas de recursos humanos, organización administrativa, asuntos económicos, informática, archivos, bibliotecas, información, servicios generales, así como cualesquiera otros procesos de gestión administrativa y de soporte que se determine necesario para la Universidad en el cumplimiento de sus objetivos.
 
 3. El personal funcionario de administración y servicios se regirá por la presente Ley y sus disposiciones de desarrollo, por la legislación general de funcionarios, y por las disposiciones de desarrollo de ésta que elaboren las Comunidades Autónomas, y por los Estatutos de su Universidad.
-
-- Corresponde al personal de administración y servicios de las Universidades públicas el apoyo, asistencia y asesoramiento a las autoridades académicas, el ejercicio de la gestión y administración, particularmente en las áreas de recursos humanos, organización administrativa, asuntos económicos, informática, archivos, bibliotecas, información, servicios generales, así como cualesquiera otros procesos de gestión administrativa y de soporte que se determine necesario para la Universidad en el cumplimiento de sus objetivos.
 
 El personal laboral de administración y servicios, además de las previsiones de esta Ley y sus normas de desarrollo y de los Estatutos de su Universidad, se regirá por la legislación laboral y los convenios colectivos aplicables.
 
 ###### Artículo 74. Retribuciones.
 
-- El personal de administración y servicios de las Universidades será retribuido con cargo a los presupuestos de las mismas.
+1. El personal de administración y servicios de las Universidades será retribuido con cargo a los presupuestos de las mismas.
 
-- Las Universidades establecerán el régimen retributivo del personal funcionario, dentro de los límites máximos que determine la Comunidad Autónoma y en el marco de las bases que dicte el Estado.
+2. Las Universidades establecerán el régimen retributivo del personal funcionario, dentro de los límites máximos que determine la Comunidad Autónoma y en el marco de las bases que dicte el Estado.
 
 ###### Artículo 75. Selección.
 
-- Las Universidades podrán crear escalas de personal propio de acuerdo con los grupos de titulación exigidos de conformidad con la legislación general de la función pública.
+1. Las Universidades podrán crear escalas de personal propio de acuerdo con los grupos de titulación exigidos de conformidad con la legislación general de la función pública.
+
+2. La selección del personal de administración y servicios se realizará mediante la superación de las pruebas selectivas de acceso, del modo que establezcan las leyes y los Estatutos que le son de aplicación y atendiendo a los principios de igualdad, mérito y capacidad.
 
 Se garantizará, en todo caso, la publicidad de las correspondientes convocatorias mediante su publicación en el «Boletín Oficial del Estado» y en el de la Comunidad Autónoma.
 
-- La selección del personal de administración y servicios se realizará mediante la superación de las pruebas selectivas de acceso, del modo que establezcan las leyes y los Estatutos que le son de aplicación y atendiendo a los principios de igualdad, mérito y capacidad.
-
-- Los principios establecidos en el apartado 2 se observarán también para la selección del personal contratado.
+3. Los principios establecidos en el apartado 2 se observarán también para la selección del personal contratado.
 
 ###### Artículo 76. Provisión de las plazas.
 
@@ -1126,9 +1106,9 @@ Lunes 24 diciembre 2001
 
 concurrir en las condiciones que reglamentariamente se determinen.
 
-3. Los Estatutos establecerán las normas para asegurar la provisión de las vacantes que se produzcan y el perfeccionamiento y promoción profesional del personal, de acuerdo con los principios de publicidad, igualdad, mérito y capacidad.
+2. Sólo podrán cubrirse por el sistema de libre designación aquellos puestos que se determinen por las Universidades atendiendo a la naturaleza de sus funciones, y de conformidad con la normativa general de la función pública.
 
-- Sólo podrán cubrirse por el sistema de libre designación aquellos puestos que se determinen por las Universidades atendiendo a la naturaleza de sus funciones, y de conformidad con la normativa general de la función pública.
+3. Los Estatutos establecerán las normas para asegurar la provisión de las vacantes que se produzcan y el perfeccionamiento y promoción profesional del personal, de acuerdo con los principios de publicidad, igualdad, mérito y capacidad.
 
 4. Las Universidades promoverán las condiciones para que el personal de administración y servicios pueda desempeñar sus funciones en Universidades distintas de la de origen. A tal fin, podrán formalizarse convenios entre las Universidades o con otras Administraciones públicas que garanticen el derecho a la movilidad de su respectivo personal bajo el principio de reciprocidad.
 
@@ -1148,43 +1128,45 @@ Se garantizará la participación del personal de administración y servicios en
 
 ###### Artículo 79. Autonomía económica y financiera.
 
-- Las Universidades públicas tendrán autonomía económica y financiera en los términos establecidos en la presente Ley. A tal efecto, deberán disponer de recursos suficientes para el desempeño de sus funciones.
+1. Las Universidades públicas tendrán autonomía económica y financiera en los términos establecidos en la presente Ley. A tal efecto, deberán disponer de recursos suficientes para el desempeño de sus funciones.
 
-- En el ejercicio de su actividad económico-financiera, las Universidades públicas se regirán por lo previsto en este Título y en la legislación financiera y presupuestaria aplicable al sector público.
+2. En el ejercicio de su actividad económico-financiera, las Universidades públicas se regirán por lo previsto en este Título y en la legislación financiera y presupuestaria aplicable al sector público.
 
 ###### Artículo 80. Patrimonio de la Universidad.
 
-- Constituye el patrimonio de cada Universidad el conjunto de sus bienes, derechos y obligaciones. Los bienes afectos al cumplimiento de sus fines y los actos que para el desarrollo inmediato de tales fines realicen, así como sus rendimientos, disfrutarán de exención tributaria, siempre que los tributos y exenciones recaigan directamente sobre las Universidades en concepto legal de contribuyentes, a no ser que sea posible legalmente la traslación de la carga tributaria.
+1. Constituye el patrimonio de cada Universidad el conjunto de sus bienes, derechos y obligaciones. Los bienes afectos al cumplimiento de sus fines y los actos que para el desarrollo inmediato de tales fines realicen, así como sus rendimientos, disfrutarán de exención tributaria, siempre que los tributos y exenciones recaigan directamente sobre las Universidades en concepto legal de contribuyentes, a no ser que sea posible legalmente la traslación de la carga tributaria.
 
-2. Las Universidades asumen la titularidad de los bienes de dominio público afectos al cumplimiento de sus funciones, así como los que, en el futuro, se destinen a estos mismos fines por el Estado o por las Comunidades Autónomas. Se exceptúan, en todo caso, los bienes que integren el Patrimonio Histórico Español. Cuando los bienes a los que se refiere el primer inciso de este apartado dejen de ser necesarios para la prestación del servicio universitario, o se empleen en funciones distintas de las propias de la Universidad, la Administración de origen podrá reclamar su reversión, o bien, si ello no fuere posible, el reembolso de su valor al momento en que procedía la reversión.
+2. Las Universidades asumen la titularidad de los bienes de dominio público afectos al cumplimiento de sus funciones, así como los que, en el futuro, se destinen a estos mismos fines por el Estado o por las Comunidades Autónomas. Se exceptúan, en todo caso, los bienes que integren el Patrimonio Histórico Español.
 
-- La administración y disposición de los bienes de dominio público, así como de los patrimoniales se ajustará a las normas generales que rijan en esta materia. Sin perjuicio de la aplicación de lo dispuesto en la legislación sobre Patrimonio Histórico Español, los actos de disposición de los bienes inmuebles y de los muebles de extraordinario valor serán acordados por la Universidad, con la aprobación del Consejo Social, de conformidad con las normas que, a este respecto, determine la Comunidad Autónoma.
+Cuando los bienes a los que se refiere el primer inciso de este apartado dejen de ser necesarios para la prestación del servicio universitario, o se empleen en funciones distintas de las propias de la Universidad, la Administración de origen podrá reclamar su reversión, o bien, si ello no fuere posible, el reembolso de su valor al momento en que procedía la reversión.
 
 Las Administraciones públicas podrán adscribir bienes de su titularidad a las Universidades públicas para su utilización en las funciones propias de las mismas.
 
-- En cuanto a los beneficios fiscales de las Universidades públicas, se estará a lo dispuesto para las entidades sin finalidad lucrativa en la Ley 30/1994, de 24 de noviembre, de Fundaciones e Incentivos Fiscales a la Participación Privada en Actividades de Interés General. Las actividades de mecenazgo en favor de las Universidades públicas gozarán de los beneficios que establece la mencionada Ley.
+3. La administración y disposición de los bienes de dominio público, así como de los patrimoniales se ajustará a las normas generales que rijan en esta materia. Sin perjuicio de la aplicación de lo dispuesto en la legislación sobre Patrimonio Histórico Español, los actos de disposición de los bienes inmuebles y de los muebles de extraordinario valor serán acordados por la Universidad, con la aprobación del Consejo Social, de conformidad con las normas que, a este respecto, determine la Comunidad Autónoma.
+
+4. En cuanto a los beneficios fiscales de las Universidades públicas, se estará a lo dispuesto para las entidades sin finalidad lucrativa en la Ley 30/1994, de 24 de noviembre, de Fundaciones e Incentivos Fiscales a la Participación Privada en Actividades de Interés General. Las actividades de mecenazgo en favor de las Universidades públicas gozarán de los beneficios que establece la mencionada Ley.
 
 ###### Artículo 81. Programación y presupuesto.
 
-- En el marco de lo establecido por las Comunidades Autónomas, las Universidades podrán elaborar programaciones plurianuales que puedan conducir a la aprobación, por las Comunidades Autónomas, de convenios y contratos-programa que incluirán sus objetivos, financiación y la evaluación del cumplimiento de los mismos.
+1. En el marco de lo establecido por las Comunidades Autónomas, las Universidades podrán elaborar programaciones plurianuales que puedan conducir a la aprobación, por las Comunidades Autónomas, de convenios y contratos-programa que incluirán sus objetivos, financiación y la evaluación del cumplimiento de los mismos.
 
-- El presupuesto de las Universidades contendrá en su estado de ingresos:
+2. El presupuesto será público, único y equilibrado, y comprenderá la totalidad de sus ingresos y gastos.
 
-- El presupuesto será público, único y equilibrado, y comprenderá la totalidad de sus ingresos y gastos.
+3. El presupuesto de las Universidades contendrá en su estado de ingresos:
 
-- Las transferencias para gastos corrientes y de capital fijadas, anualmente, por las Comunidades Autónomas.
-
-Asimismo, se consignarán las compensaciones correspondientes a los importes derivados de las exenciones y reducciones que legalmente se dispongan en materia de precios públicos y demás derechos.
+a) Las transferencias para gastos corrientes y de capital fijadas, anualmente, por las Comunidades Autónomas.
 
 b) Los ingresos por los precios públicos por servicios académicos y demás derechos que legalmente se establezcan. En el caso de estudios conducentes a la obtención de títulos de carácter oficial y validez en todo el territorio nacional, los precios públicos y derechos los fijará la Comunidad Autónoma, dentro de los límites que establezca el Consejo de Coordinación Universitaria que estarán relacionados con los costes de prestación del servicio.
 
-- Los precios de enseñanzas propias, cursos de especialización y los referentes a las demás actividades autorizadas a las Universidades se atendrán a lo que establezca el Consejo Social, debiendo ser, en todo caso, aprobados junto con los presupuestos anuales en los que se deban aplicar.
+Asimismo, se consignarán las compensaciones correspondientes a los importes derivados de las exenciones y reducciones que legalmente se dispongan en materia de precios públicos y demás derechos.
 
-e) Los rendimientos procedentes de su patrimonio y de aquellas otras actividades económicas que desarrollen según lo previsto en esta Ley y en sus propios Estatutos.
+c) Los precios de enseñanzas propias, cursos de especialización y los referentes a las demás actividades autorizadas a las Universidades se atendrán a lo que establezca el Consejo Social, debiendo ser, en todo caso, aprobados junto con los presupuestos anuales en los que se deban aplicar.
 
 d) Los ingresos procedentes de transferencias de entidades públicas y privadas, así como de herencias, legados o donaciones.
 
-- Todos los ingresos procedentes de los contratos previstos en el artículo 83.
+e) Los rendimientos procedentes de su patrimonio y de aquellas otras actividades económicas que desarrollen según lo previsto en esta Ley y en sus propios Estatutos.
+
+f) Todos los ingresos procedentes de los contratos previstos en el artículo 83.
 
 [[END OF PAGE 18]]
 
@@ -1202,9 +1184,9 @@ h) El producto de las operaciones de crédito que concierten, debiendo ser compe
 
 4. La estructura del presupuesto de las Universidades, su sistema contable, y los documentos que comprenden sus cuentas anuales deberán adaptarse, en todo caso, a las normas que con carácter general se establezcan para el sector público. En este marco, a los efectos de la normalización contable, las Comunidades Autónomas podrán establecer un plan de contabilidad para las Universidades de su competencia.
 
-5. Las Universidades están obligadas a rendir cuentas de su actividad ante el órgano de fiscalización de cuentas de la Comunidad Autónoma, sin perjuicio de las competencias del Tribunal de Cuentas.
-
 Al estado de gastos corrientes, se acompañará la relación de puestos de trabajo del personal de todas las categorías de la Universidad, especificando la totalidad de los costes de la misma. Los costes del personal docente e investigador, así como de administración y servicios, deberán ser autorizados por la Comunidad Autónoma.
+
+5. Las Universidades están obligadas a rendir cuentas de su actividad ante el órgano de fiscalización de cuentas de la Comunidad Autónoma, sin perjuicio de las competencias del Tribunal de Cuentas.
 
 A los efectos de lo previsto en el párrafo anterior, las Universidades enviarán al Consejo de Gobierno de la Comunidad Autónoma la liquidación del presupuesto y el resto de documentos que constituyan sus cuentas anuales en el plazo establecido por las normas aplicables de cada Comunidad Autónoma o, en su defecto, en la legislación general. Recibidas las cuentas en la Comunidad Autónoma, se remitirán al órgano de fiscalización de cuentas de la misma o, en su defecto, al Tribunal de Cuentas.
 
@@ -1224,9 +1206,9 @@ Será legislación supletoria en esta materia la normativa que, con carácter ge
 
 Para la promoción y desarrollo de sus fines, las Universidades, con la aprobación del Consejo Social, podrán crear, por sí solas o en colaboración con otras entidades públicas o privadas, empresas, fundaciones u otras personas jurídicas de acuerdo con la legislación general aplicable.
 
-Las entidades en las que las Universidades tengan participación mayoritaria en su capital o fondo patrimonial equivalente quedan sometidas a la obligación de rendir cuentas en los mismos plazos y procedimiento que las propias Universidades.
-
 La dotación fundacional o la aportación al capital social y cualesquiera otras aportaciones a las entidades que prevé el párrafo anterior, con cargo a los presupuestos de la Universidad, quedarán sometidas a las normas que, a tal fin, establezca la Comunidad Autónoma.
+
+Las entidades en las que las Universidades tengan participación mayoritaria en su capital o fondo patrimonial equivalente quedan sometidas a la obligación de rendir cuentas en los mismos plazos y procedimiento que las propias Universidades.
 
 ### TÍTULO XII
 
@@ -1236,19 +1218,19 @@ La dotación fundacional o la aportación al capital social y cualesquiera otras
 
 1. Los centros dependientes de Universidades españolas sitos en el extranjero, que impartan enseñanzas conducentes a la obtención de títulos universitarios de carácter oficial y validez en todo el territorio nacional, tendrán una estructura y un régimen singularizados a fin de acomodarlos a las exigencias del entorno, de acuerdo con lo que determine el Gobierno, y con lo que, en su caso, dispongan los convenios internacionales.
 
-2. Lo dispuesto en el apartado anterior será de aplicación para poder impartir en el extranjero enseñanzas de modalidad presencial, conducentes a la obtención de títulos universitarios de carácter oficial y validez en todo el territorio nacional.
+En todo caso, su creación y supresión será acordada por el Gobierno, a propuesta conjunta de los Ministros de Educación, Cultura y Deporte y de Asuntos Exteriores, a propuesta del Consejo Social de la Universidad, y previo informe del Consejo de Gobierno de la Universidad, aprobada por la Comunidad Autónoma competente, previo informe del Consejo de Coordinación Universitaria.
 
-En todo caso, su creación y supresión será acordada por el Gobierno, a propuesta conjunta de los Ministros de Educación, Cultura y Deporte y de Asuntos Exteriores, a propuesta de Consejo Social de la Universidad, y previo informe del Consejo de Gobierno de la Universidad, aprobada por la Comunidad Autónoma competente, previo informe del Consejo de Coordinación Universitaria.
+2. Lo dispuesto en el apartado anterior será de aplicación para poder impartir en el extranjero enseñanzas de modalidad presencial, conducentes a la obtención de títulos universitarios de carácter oficial y validez en todo el territorio nacional.
 
 ###### Artículo 86. Centros que impartan enseñanzas con arreglo a sistemas educativos extranjeros.
 
 1. El Gobierno, previo informe del Consejo de Coordinación Universitaria, regulará el marco general en el que habrán de impartirse en España enseñanzas conducentes a la obtención de títulos extranjeros de educación superior universitaria, así como las condiciones que habrán de reunir los centros que pretendan impartir tales enseñanzas.
 
-2. En los términos que establezca la normativa a que se refiere el apartado anterior, los centros regulados en este artículo estarán sometidos, en todo caso, a la evaluación de la Agencia Nacional de Evaluación de la Calidad y Acreditación o, en su caso, del órgano de evaluación externa que la Ley de la Comunidad Autónoma determine. En este segundo supuesto, la Agencia Nacional de Evaluación de la Calidad y Acreditación recibirá, en todo caso, copia del mencionado informe.
-
 El establecimiento en España de centros que, bajo cualquier modalidad, impartan las enseñanzas a que se refiere el párrafo anterior, requerirá la autorización del órgano competente de la Comunidad Autónoma en cuyo territorio se pretenda el establecimiento, previo informe del Consejo de Coordinación Universitaria.
 
-3. Los títulos y enseñanzas de educación superior correspondientes a estudios extranjeros realizados, en todo o en parte, en España sólo podrán ser sometidos al trámite de homologación o convalidación si los centros donde se realizaron los citados estudios se hubieran establecido de acuerdo con lo previsto en los apartados anteriores, y las enseñanzas sancionadas por el título extranjero cuya homologación se pretende estuvieran efectivamente implantadas en la Universidad o centro extranjero que hubiera expedido el título. Reglamentariamente, y a los efectos de dicha homologación, el Gobierno regulará las condiciones de acceso a los estudios en dichos centros.
+2. En los términos que establezca la normativa a que se refiere el apartado anterior, los centros regulados en este artículo estarán sometidos, en todo caso, a la evaluación de la Agencia Nacional de Evaluación de la Calidad y Acreditación o, en su caso, del órgano de evaluación externa que la Ley de la Comunidad Autónoma determine. En este segundo supuesto, la Agencia Nacional de Evaluación de la Calidad y Acreditación recibirá, en todo caso, copia del mencionado informe.
+
+3. Los títulos y enseñanzas de educación superior correspondientes a estudios extranjeros realizados, en
 
 [[END OF PAGE 19]]
 
@@ -1260,9 +1242,11 @@ Lunes 24 diciembre 2001
 
 49419
 
-5. El Estado y las Comunidades Autónomas, en el ámbito de sus respectivas competencias, velarán por el cumplimiento por parte de los centros que impartan enseñanzas con arreglo a sistemas educativos extranjeros, de lo establecido en el presente artículo, así como por que los estudiantes que se matriculen en ellos dispongan de una correcta información sobre las enseñanzas y los títulos a los que pueden acceder.
+todo o en parte, en España sólo podrán ser sometidos al trámite de homologación o convalidación si los centros donde se realizaron los citados estudios se hubieran establecido de acuerdo con lo previsto en los apartados anteriores, y las enseñanzas sancionadas por el título extranjero cuya homologación se pretende estuvieran efectivamente implantadas en la Universidad o centro extranjero que hubiera expedido el título. Reglamentariamente, y a los efectos de dicha homologación, el Gobierno regulará las condiciones de acceso a los estudios en dichos centros.
 
 4. Lo dispuesto en los apartados anteriores se entiende sin perjuicio de lo establecido en los tratados o convenios internacionales suscritos por España o, en su caso, de la aplicación del principio de reciprocidad.
+
+5. El Estado y las Comunidades Autónomas, en el ámbito de sus respectivas competencias, velarán por el cumplimiento por parte de los centros que impartan enseñanzas con arreglo a sistemas educativos extranjeros, de lo establecido en el presente artículo, así como por que los estudiantes que se matriculen en ellos dispongan de una correcta información sobre las enseñanzas y los títulos a los que pueden acceder.
 
 ### TÍTULO XIII
 
@@ -1276,9 +1260,9 @@ En el ámbito de sus respectivas competencias el Gobierno, las Comunidades Autó
 
 1. A fin de promover la más amplia movilidad de estudiantes y titulados españoles en el espacio europeo de enseñanza superior, el Gobierno, previo informe del Consejo de Coordinación Universitaria, adoptará las medidas que aseguren que los títulos oficiales expedidos por las Universidades españolas se acompañen de aquellos elementos de información que garanticen la transparencia acerca del nivel y contenidos de las enseñanzas certificadas por dicho título.
 
-Cuando estos títulos sustituyan a los indicados en el citado artículo 37, el Gobierno, previo informe del Consejo de Coordinación Universitaria, determinará las condiciones para la homologación de éstos a los nuevos títulos, así como para la convalidación o adaptación de las enseñanzas que los mismos refrenden.
-
 2. No obstante lo dispuesto en el artículo 37, y con el fin de cumplir las líneas generales que emanen del espacio europeo de enseñanza superior, el Gobierno, previo informe del Consejo de Coordinación Universitaria, establecerá, reformará o adaptará las modalidades cíclicas de cada enseñanza y los títulos de carácter oficial y validez en todo el territorio nacional correspondiente a las mismas.
+
+Cuando estos títulos sustituyan a los indicados en el citado artículo 37, el Gobierno, previo informe del Consejo de Coordinación Universitaria, determinará las condiciones para la homologación de éstos a los nuevos títulos, así como para la convalidación o adaptación de las enseñanzas que los mismos refrenden.
 
 3. Asimismo, el Gobierno, previo informe del Consejo de Coordinación Universitaria, establecerá las normas necesarias para que la unidad de medida del haber académico, correspondiente a la superación de cada una de las materias que integran los planes de estudio de las diversas enseñanzas conducentes a la obtención de títulos de carácter oficial y validez en todo el territorio nacional, sea el crédito europeo o cualquier otra unidad que se adopte en el espacio europeo de enseñanza superior, y para que las Universidades acompañen a los títulos oficiales que expidan, en desarrollo de lo dispuesto en el artículo 34 de la presente Ley, el suplemento europeo al título.
 
@@ -1288,9 +1272,9 @@ Cuando estos títulos sustituyan a los indicados en el citado artículo 37, el G
 
 1. El profesorado de las Universidades de los Estados miembros de la Unión Europea que haya alcanzado en aquéllas una posición equivalente a las de Catedrático o Profesor Titular de Universidad o de Catedrático o Profesor Titular de Escuelas Universitarias será considerado habilitado a los efectos previstos en esta Ley, según el procedimiento y condiciones que se establezcan reglamentariamente por el Gobierno, previo informe del Consejo de Coordinación Universitaria.
 
-3. A los efectos de la concurrencia a las pruebas de habilitación y concursos de acceso a los cuerpos de funcionarios docentes universitarios y a las convocatorias de contratos de profesorado que prevé esta Ley, los nacionales de Estados miembros de la Unión Europea gozarán de idéntico tratamiento, y con los mismos efectos, al de los nacionales españoles.
-
 2. El profesorado al que se refiere el apartado 1 podrá formar parte de las Comisiones a que se refiere el artículo 57 de la presente Ley y, si las Universidades así lo establecen en sus Estatutos, de las Comisiones encargadas de resolver los concursos para el acceso a los cuerpos docentes universitarios.
+
+3. A los efectos de la concurrencia a las pruebas de habilitación y concursos de acceso a los cuerpos de funcionarios docentes universitarios y a las convocatorias de contratos de profesorado que prevé esta Ley, los nacionales de Estados miembros de la Unión Europea gozarán de idéntico tratamiento, y con los mismos efectos, al de los nacionales españoles.
 
 Lo establecido en el párrafo anterior será de aplicación a los nacionales de aquellos Estados a los que, en virtud de Tratados Internacionales celebrados por la Unión Europea y ratificados por España, sea de aplicación la libre circulación de trabajadores en los términos en que ésta se encuentra definida en el Tratado Constitutivo de la Comunidad Europea.
 
@@ -1304,7 +1288,7 @@ Las Cortes Generales y el Gobierno ejercerán las competencias que la presente L
 
 1. La Universidad Nacional de Educación a Distancia impartirá enseñanza universitaria a distancia en todo el territorio nacional.
 
-2. En atención a sus especiales características, el Gobierno establecerá, sin perjuicio de los principios recogidos en esta Ley, una regulación específica de la Universidad Nacional de Educación a Distancia, que tendrá en cuenta, en todo caso, el régimen de sus centros asociados y de convenios con las Comunidades Autónomas y otras entidades públicas y privadas, las específicas obligaciones docentes de su profesorado, así como el régimen de los tutores.
+2. En atención a sus especiales características, el Gobierno establecerá, sin perjuicio de los principios recogidos en esta Ley, una regulación específica de la Universidad Nacional de Educación a Distancia, que tendrá en cuenta, en todo caso, el régimen de sus centros aso-
 
 [[END OF PAGE 20]]
 
@@ -1316,33 +1300,35 @@ Lunes 24 diciembre 2001
 
 BOE núm. 307
 
+ciados y de convenios con las Comunidades Autónomas y otras entidades públicas y privadas, las específicas obligaciones docentes de su profesorado, así como el régimen de los tutores.
+
 3. Dicha regulación, de acuerdo con las previsiones del artículo 7, contemplará la creación de un Centro Superior para la Enseñanza Virtual específicamente dedicado a esta modalidad de enseñanza en los distintos ciclos de los estudios universitarios. Dada la modalidad especial de la enseñanza y la orientación finalista de este centro, tanto su organización, régimen de su personal y procedimientos de gestión, así como su financiación, serán objeto de previsiones particulares respecto del régimen general de la Universidad Nacional de Educación a Distancia.
 
 ### Disposición adicional tercera. De la Universidad Internacional Menéndez Pelayo.
 
 1. La Universidad Internacional Menéndez Pelayo, centro universitario de alta cultura, investigación y especialización en el que convergen actividades de distintos grados y especialidades universitarias, tiene por misión difundir la cultura y la ciencia, fomentar las relaciones de intercambio e información científica y cultural de interés internacional e interregional y el desarrollo de actividades de alta investigación y especialización. A tal fin, organizará y desarrollará, conforme a lo establecido en la presente Ley, enseñanzas de tercer ciclo que acreditará con los correspondientes títulos oficiales de Doctor y otros títulos y diplomas de postgrado que la misma expida.
 
-- En atención a sus especiales características y ámbito de sus actividades, la Universidad Internacional Menéndez Pelayo mantendrá su carácter de Organismo autónomo adscrito al Ministerio de Educación, Cultura y Deporte, con personalidad jurídica y patrimonio propios, y plena capacidad para realizar todo género de actos de gestión y disposición para el cumplimiento de sus fines, sin más limitaciones que las establecidas por las leyes.
+2. En atención a sus especiales características y ámbito de sus actividades, la Universidad Internacional Menéndez Pelayo mantendrá su carácter de Organismo autónomo adscrito al Ministerio de Educación, Cultura y Deporte, con personalidad jurídica y patrimonio propios, y plena capacidad para realizar todo género de actos de gestión y disposición para el cumplimiento de sus fines, sin más limitaciones que las establecidas por las leyes.
 
-- La Universidad Internacional Menéndez Pelayo gozará de autonomía en el ejercicio de sus funciones docentes, investigadoras y culturales, en el marco de su específico régimen legal.
+3. La Universidad Internacional Menéndez Pelayo gozará de autonomía en el ejercicio de sus funciones docentes, investigadoras y culturales, en el marco de su específico régimen legal.
 
-- La Universidad Internacional Menéndez Pelayo se regirá por la normativa propia de los Organismos autónomos a que se refiere el artículo 43.1.a) de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, por las disposiciones de esta Ley que le resulten aplicables y por el correspondiente Estatuto.
+4. La Universidad Internacional Menéndez Pelayo se regirá por la normativa propia de los Organismos autónomos a que se refiere el artículo 43.1.a) de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, por las disposiciones de esta Ley que le resulten aplicables y por el correspondiente Estatuto.
 
 ### Disposición adicional cuarta. De las Universidades de la Iglesia Católica.
 
-- La aplicación de esta Ley a las Universidades y otros centros de la Iglesia Católica se ajustará a lo dispuesto en los acuerdos entre el Estado español y la Santa Sede.
+1. La aplicación de esta Ley a las Universidades y otros centros de la Iglesia Católica se ajustará a lo dispuesto en los acuerdos entre el Estado español y la Santa Sede.
 
-- Las Universidades establecidas o que se establezcan en España por la Iglesia Católica con posterioridad al Acuerdo entre el Estado español y la Santa Sede de 3 de enero de 1979, sobre Enseñanza y Asuntos Culturales, quedarán sometidas a lo previsto por esta Ley para las Universidades privadas, a excepción de la necesidad de Ley de reconocimiento.
+2. Las Universidades establecidas o que se establezcan en España por la Iglesia Católica con posterioridad al Acuerdo entre el Estado español y la Santa Sede de 3 de enero de 1979, sobre Enseñanza y Asuntos Culturales, quedarán sometidas a lo previsto por esta Ley para las Universidades privadas, a excepción de la necesidad de Ley de reconocimiento.
 
 En los mismos términos, los centros universitarios de ciencias no eclesiásticas no integrados como centros propios en una Universidad de la Iglesia Católica, y que ésta establezca en España, se sujetarán, para impartir enseñanzas conducentes a la obtención de títulos de carácter oficial y validez en todo el territorio nacional, a lo previsto por esta Ley para los centros adscritos a una Universidad pública.
 
 ### Disposición adicional quinta. De los colegios mayores y residencias universitarias.
 
-- Los colegios mayores son centros universitarios que, integrados en la Universidad, proporcionan residencia a los estudiantes y promueven la formación cultural y científica de los residentes, proyectando su actividad al servicio de la comunidad universitaria.
+1. Los colegios mayores son centros universitarios que, integrados en la Universidad, proporcionan residencia a los estudiantes y promueven la formación cultural y científica de los residentes, proyectando su actividad al servicio de la comunidad universitaria.
 
-- Las Universidades podrán crear o adscribir residencias universitarias de acuerdo con lo previsto en sus Estatutos.
+2. El funcionamiento de los colegios mayores se regulará por los Estatutos de cada Universidad y los propios de cada colegio mayor y gozarán de los beneficios y exenciones fiscales de la Universidad a la que estén adscritos.
 
-- El funcionamiento de los colegios mayores se regulará por los Estatutos de cada Universidad y los propios de cada colegio mayor y gozarán de los beneficios y exenciones fiscales de la Universidad a la que estén adscritos.
+3. Las Universidades podrán crear o adscribir residencias universitarias de acuerdo con lo previsto en sus Estatutos.
 
 ### Disposición adicional sexta. De otros centros docentes de educación superior.
 
@@ -1360,7 +1346,7 @@ A efectos de lo previsto en el artículo 79, el Consejo de Coordinación Univers
 
 ### Disposición adicional novena. De los cambios sobrevenidos en las Universidades privadas y centros de educación superior adscritos a Universidades públicas.
 
-1. El reconocimiento de las Universidades privadas caducará en el caso de que, transcurrido el plazo fijado por la Ley de reconocimiento, no se hubiera solicitado la autorización para el inicio de las actividades académicas o ésta fuera denegada por falta de cumplimiento de los requisitos previstos en el ordenamiento jurídico.
+1. El reconocimiento de las Universidades privadas caducará en el caso de que, transcurrido el plazo fijado por la Ley de reconocimiento, no se hubiera solicitado la autorización para el inicio de las actividades acadé-
 
 [[END OF PAGE 21]]
 
@@ -1372,31 +1358,33 @@ Lunes 24 diciembre 2001
 
 49421
 
-- A solicitud de una Universidad privada, el órgano competente de la Comunidad Autónoma, y conforme al procedimiento que ésta establezca, podrá dejar sin efecto el reconocimiento de los centros o enseñanzas existentes en dicha Universidad. Ésta garantizará que los estudiantes que cursen las correspondientes enseñanzas puedan finalizarlas conforme a las reglas generales para la extinción de los planes de estudios.
+micas o ésta fuera denegada por falta de cumplimiento de los requisitos previstos en el ordenamiento jurídico.
 
-- Si con posterioridad al inicio de sus actividades la Comunidad Autónoma apreciara que una Universidad privada o un centro universitario adscrito a una Universidad pública incumple los requisitos exigidos por el ordenamiento jurídico o los compromisos adquiridos al solicitarse su reconocimiento, o se separa de las funciones institucionales de la Universidad contemplados en el artículo 1, requerirá de la Universidad la regularización en plazo de la situación. Transcurrido éste sin que tal regularización se hubiera producido, previa audiencia de la Universidad privada o del centro universitario adscrito, la Comunidad Autónoma podrá revocar el reconocimiento de los centros o enseñanzas afectados o lo comunicará a la Asamblea Legislativa, a efectos de la posible revocación del reconocimiento de la Universidad privada.
+2. A solicitud de una Universidad privada, el órgano competente de la Comunidad Autónoma, y conforme al procedimiento que ésta establezca, podrá dejar sin efecto el reconocimiento de los centros o enseñanzas existentes en dicha Universidad. Ésta garantizará que los estudiantes que cursen las correspondientes enseñanzas puedan finalizarlas conforme a las reglas generales para la extinción de los planes de estudios.
 
 Lo dispuesto en el párrafo anterior será de aplicación, asimismo, en el caso de supresión de centros adscritos a Universidades públicas.
 
+3. Si con posterioridad al inicio de sus actividades la Comunidad Autónoma apreciara que una Universidad privada o un centro universitario adscrito a una Universidad pública incumple los requisitos exigidos por el ordenamiento jurídico o los compromisos adquiridos al solicitarse su reconocimiento, o se separa de las funciones institucionales de la Universidad contemplados en el artículo 1, requerirá de la Universidad la regularización en plazo de la situación. Transcurrido éste sin que tal regularización se hubiera producido, previa audiencia de la Universidad privada o del centro universitario adscrito, la Comunidad Autónoma podrá revocar el reconocimiento de los centros o enseñanzas afectados o lo comunicará a la Asamblea Legislativa, a efectos de la posible revocación del reconocimiento de la Universidad privada.
+
 ### Disposición adicional décima. De la movilidad temporal del personal de las Universidades.
 
-- Los poderes públicos promoverán mecanismos de movilidad entre las Universidades y otros centros de investigación, con sus correspondientes programas de financiación. Asimismo, promoverán medidas de fomento y colaboración entre las Universidades, centros de enseñanzas no universitarias, Administraciones públicas, empresas y otras entidades, públicas o privadas, para favorecer la movilidad temporal entre su personal y el que presta sus servicios en estas entidades.
+1. Los poderes públicos promoverán mecanismos de movilidad entre las Universidades y otros centros de investigación, con sus correspondientes programas de financiación. Asimismo, promoverán medidas de fomento y colaboración entre las Universidades, centros de enseñanzas no universitarias, Administraciones públicas, empresas y otras entidades, públicas o privadas, para favorecer la movilidad temporal entre su personal y el que presta sus servicios en estas entidades.
 
-- A los efectos previstos en el apartado anterior, se tendrá en cuenta la singularidad de las Universidades de los territorios insulares y la distancia al territorio peninsular. El Gobierno, las Comunidades Autónomas y las Universidades establecerán, coordinadamente, una línea de fomento para la movilidad de los ayudantes.
+2. A los efectos previstos en el apartado anterior, se tendrá en cuenta la singularidad de las Universidades de los territorios insulares y la distancia al territorio peninsular. El Gobierno, las Comunidades Autónomas y las Universidades establecerán, coordinadamente, una línea de fomento para la movilidad de los ayudantes.
 
 ### Disposición adicional undécima. De los nacionales de Estados no miembros de la Unión Europea.
 
-- Los contratos de profesorado que prevé esta Ley no estarán sujetos a condiciones o requisitos basados en la nacionalidad.
+1. Los contratos de profesorado que prevé esta Ley no estarán sujetos a condiciones o requisitos basados en la nacionalidad.
+
+2. Para los nacionales de Estados no miembros de la Unión Europea la participación en las pruebas de habilitación que prevé esta Ley no estará sujeta a condiciones o requisitos basados en la nacionalidad.
 
 Los habilitados de nacionalidad extranjera no comunitaria podrán tomar parte en los concursos de acceso y, en su caso, acceder a la función pública docente universitaria, cuando en el Estado de su nacionalidad a los españoles se les reconozca aptitud legal para ocupar en la docencia universitaria posiciones análogas a las de los funcionarios de los cuerpos docentes universitarios en la Universidad española.
-
-- Para los nacionales de Estados no miembros de la Unión Europea la participación en las pruebas de habilitación que prevé esta Ley no estará sujeta a condiciones o requisitos basados en la nacionalidad.
 
 ### Disposición adicional duodécima. De los profesores asociados conforme al artículo 105 de la Ley General de Sanidad.
 
 Los profesores asociados cuya plaza y nombramiento traigan causa del apartado 2 del artículo 105 de la Ley 14/1986, de 25 de abril, General de Sanidad, se regirán por las normas propias de los profesores asociados de la Universidad, con las peculiaridades que reglamentariamente se establezcan en cuanto a la duración de sus contratos.
 
-- El número de plazas de profesores asociados que se determine en los conciertos entre las Universidades y las instituciones sanitarias no será tomado en consideración a los efectos del porcentaje que establece el párrafo segundo del apartado 1 del artículo 48.
+El número de plazas de profesores asociados que se determine en los conciertos entre las Universidades y las instituciones sanitarias no será tomado en consideración a los efectos del porcentaje que establece el párrafo segundo del apartado 1 del artículo 48.
 
 ### Disposición adicional decimotercera. De la contratación de personal investigador, científico o técnico conforme a la Ley 13/1986, de 14 de abril, de Fomento y Coordinación General de la Investigación Científica y Técnica.
 
@@ -1416,7 +1404,7 @@ En las directrices generales de los planes de estudios a que se refiere el apart
 
 Los títulos de especialista para profesionales sanitarios serán expedidos por el Ministerio de Educación, Cultura y Deporte, tendrán carácter oficial y validez en todo el territorio nacional, y se regularán por su normativa específica.
 
-Corresponde al Gobierno, a propuesta de los Ministros de Educación, Cultura y Deporte y de Sanidad y Consumo, y de acuerdo con lo previsto en las disposiciones de la Unión Europea que resulten aplicables, la creación, cambio de denominación o supresión de especialidades y la determinación de las condiciones para su obtención, expedición y homologación.
+Corresponde al Gobierno, a propuesta de los Ministros de Educación, Cultura y Deporte y de Sanidad y Consumo, y de acuerdo con lo previsto en las disposiciones de la Unión Europea que resulten aplicables, la creación, cambio de denominación o supresión de especialidades
 
 [[END OF PAGE 22]]
 
@@ -1427,6 +1415,8 @@ Corresponde al Gobierno, a propuesta de los Ministros de Educación, Cultura y D
 Lunes 24 diciembre 2001
 
 BOE núm. 307
+
+y la determinación de las condiciones para su obtención, expedición y homologación.
 
 La disposición adicional decimonovena de esta Ley resultará aplicable a la denominación de dichos títulos de especialista.
 
@@ -1444,11 +1434,11 @@ Sólo podrá utilizarse la denominación de Universidad, o las propias de los ce
 
 ### Disposición adicional vigésima. Del Registro Nacional de Universidades, Centros y Enseñanzas.
 
-- En el Ministerio de Educación, Cultura y Deporte existirá con carácter meramente informativo un Registro Nacional de Universidades y centros y estructuras universitarios que impartan enseñanzas conducentes a la obtención de títulos universitarios de carácter oficial y validez en todo el territorio nacional y de estas mismas enseñanzas. Este Registro, que tendrá carácter público, se denominará Registro Nacional de Universidades, Centros y Enseñanzas. La inscripción en el mismo será requisito necesario para la inclusión de los correspondientes títulos que expidan las Universidades en el Registro Nacional de Títulos Universitarios Oficiales.
+1. En el Ministerio de Educación, Cultura y Deporte existirá con carácter meramente informativo un Registro Nacional de Universidades y centros y estructuras universitarios que impartan enseñanzas conducentes a la obtención de títulos universitarios de carácter oficial y validez en todo el territorio nacional y de estas mismas enseñanzas. Este Registro, que tendrá carácter público, se denominará Registro Nacional de Universidades, Centros y Enseñanzas. La inscripción en el mismo será requisito necesario para la inclusión de los correspondientes títulos que expidan las Universidades en el Registro Nacional de Títulos Universitarios Oficiales.
 
-- Las Comunidades Autónomas o los registros públicos dependientes de las mismas tendrán que dar traslado al Registro Nacional de Universidades, Centros y Enseñanzas, de la inscripción de las Universidades privadas. En dicho Registro habrá de quedar constancia de la persona o personas, físicas o jurídicas, promotoras o que, en su caso, ostenten algún tipo de titularidad sobre la Universidad privada en cuanto persona jurídica, de los cambios que se efectúen en relación con las mismas, así como de las alteraciones que puedan producirse en la naturaleza y estructura de la Universidad privada en cuanto persona jurídica. Se presumirá el carácter de promotor o titular de quien figure como tal en el mencionado Registro.
+2. Las Comunidades Autónomas o los registros públicos dependientes de las mismas tendrán que dar traslado al Registro Nacional de Universidades, Centros y Enseñanzas, mencionado en el apartado anterior, de los datos a que se refiere el mismo.
 
-- Las Comunidades Autónomas o los registros públicos dependientes de las mismas tendrán que dar traslado al Registro Nacional de Universidades, Centros y Enseñanzas, mencionado en el apartado anterior, de los datos a que se refiere el mismo.
+3. Las Comunidades Autónomas o los registros públicos dependientes de las mismas tendrán que dar traslado al Registro Nacional de Universidades, Centros y Enseñanzas, de la inscripción de las Universidades privadas. En dicho Registro habrá de quedar constancia de la persona o personas, físicas o jurídicas, promotoras o que, en su caso, ostenten algún tipo de titularidad sobre la Universidad privada en cuanto persona jurídica, de los cambios que se efectúen en relación con las mismas, así como de las alteraciones que puedan producirse en la naturaleza y estructura de la Universidad privada en cuanto persona jurídica. Se presumirá el carácter de promotor o titular de quien figure como tal en el mencionado Registro.
 
 ### Disposición adicional vigésima primera. De la excepción de clasificación como contratistas a las Universidades.
 
@@ -1456,19 +1446,19 @@ En los supuestos del artículo 83 no será exigible la clasificación como contr
 
 ### Disposición adicional vigésima segunda. Del régimen de Seguridad Social de profesores asociados, visitantes y eméritos.
 
-- En la aplicación del régimen de Seguridad Social a los profesores asociados y a los profesores visitantes, se procederá como sigue:
+1. En la aplicación del régimen de Seguridad Social a los profesores asociados y a los profesores visitantes, se procederá como sigue:
 
-- Los que sean funcionarios públicos sujetos al régimen de clases pasivas del Estado continuarán con su respectivo régimen, sin que proceda su alta en el régimen general de la Seguridad Social, por su condición de profesor asociado o visitante.
+a) Los que sean funcionarios públicos sujetos al régimen de clases pasivas del Estado continuarán con su respectivo régimen, sin que proceda su alta en el régimen general de la Seguridad Social, por su condición de profesor asociado o visitante.
 
-- Los que no se hallen sujetos a ningún régimen de previsión obligatoria serán alta en el Régimen general de la Seguridad Social.
+b) Los que estén sujetos al Régimen general de la Seguridad Social o a algún Régimen especial distinto al señalado en el apartado a) serán alta en el Régimen general de la Seguridad Social.
 
-- Los que estén sujetos al Régimen general de la Seguridad Social o a algún Régimen especial distinto al señalado en el apartado a) serán alta en el Régimen general de la Seguridad Social.
+c) Los que no se hallen sujetos a ningún régimen de previsión obligatoria serán alta en el Régimen general de la Seguridad Social.
 
-- Los profesores eméritos no serán dados de alta en el Régimen general de la Seguridad Social.
+2. Los profesores eméritos no serán dados de alta en el Régimen general de la Seguridad Social.
 
 ### Disposición adicional vigésima tercera. De la alta inspección del Estado.
 
-Corresponde al Estado la alta inspección y demás facultades que, conforme al artículo 149.1.30 a de la Constitución, le competen para garantizar el cumplimiento de sus atribuciones en materia de enseñanza universitaria, sin perjuicio de las competencias propias de las Comunidades Autónomas.
+Corresponde al Estado la alta inspección y demás facultades que, conforme al artículo 149.1.30.ª de la Constitución, le competen para garantizar el cumplimiento de sus atribuciones en materia de enseñanza universitaria, sin perjuicio de las competencias propias de las Comunidades Autónomas.
 
 ### Disposición adicional vigésima cuarta. De la integración de estudiantes con discapacidad en las Universidades.
 
@@ -1476,9 +1466,9 @@ Las Universidades en el desarrollo de la presente Ley tendrán en cuenta las dis
 
 ### Disposición adicional vigésima quinta. Del acceso a la Universidad de los mayores de veinticinco años y de los titulados de Formación Profesional.
 
-- El Gobierno, previo informe del Consejo de Coordinación Universitaria, regulará las condiciones básicas para el acceso a la Universidad de los mayores de veinticinco años que no reúnan los requisitos previstos en el apartado 2 del artículo 42.
+1. El Gobierno, previo informe del Consejo de Coordinación Universitaria, regulará las condiciones básicas para el acceso a la Universidad de los mayores de veinticinco años que no reúnan los requisitos previstos en el apartado 2 del artículo 42.
 
-- Para el acceso directo a la Universidad de los titulados de Formación Profesional se estará a lo previsto en el artículo 35.4 de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
+2. Para el acceso directo a la Universidad de los titulados de Formación Profesional se estará a lo previsto en el artículo 35.4 de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
 
 [[END OF PAGE 23]]
 
@@ -1506,21 +1496,21 @@ Las competencias atribuidas por esta Ley al Consejo de Coordinación Universitar
 
 ### Disposición transitoria segunda. Del Claustro Universitario, del Rector y de la aprobación de los Estatutos de las Universidades públicas.
 
-- En el plazo máximo de seis meses, a partir de la entrada en vigor de la presente Ley, cada Universidad procederá a la constitución del Claustro Universitario conforme a lo dispuesto en esta Ley para la elaboración de sus Estatutos.
-
-Elegido el Claustro Universitario, a que se refiere el párrafo primero, se constituirá un Consejo de Gobierno provisional de acuerdo con las previsiones de la presente Ley.
+1. En el plazo máximo de seis meses, a partir de la entrada en vigor de la presente Ley, cada Universidad procederá a la constitución del Claustro Universitario conforme a lo dispuesto en esta Ley para la elaboración de sus Estatutos.
 
 La Junta de Gobierno regulará la composición de dicho Claustro y la normativa para su elección. En el citado Claustro, que tendrá un máximo de trescientos miembros, estarán representados los distintos sectores de la comunidad universitaria, siendo como mínimo el cincuenta y uno por ciento de sus miembros funcionarios doctores de los cuerpos docentes universitarios.
+
+Elegido el Claustro Universitario, a que se refiere el párrafo primero, se constituirá un Consejo de Gobierno provisional de acuerdo con las previsiones de la presente Ley.
 
 El Claustro Universitario elegido elaborará los Estatutos, de acuerdo con el procedimiento y con el régimen de mayorías que el mismo establezca, en el plazo máximo de nueve meses a partir de su constitución. Transcurrido este plazo sin que la Universidad hubiere presentado los Estatutos para su control de legalidad, el Consejo de Gobierno de la Comunidad Autónoma acordará unos Estatutos en el plazo máximo de tres meses.
 
 Los Claustros de las Universidades que tuvieran que renovarse en el período comprendido entre la entrada en vigor de la presente Ley y la constitución del Claustro Universitario podrán permanecer hasta dicha constitución.
 
-- Los Estatutos establecerán las disposiciones que regulen la continuidad, en su caso, del Claustro elegido conforme a lo establecido en el apartado 1, hasta su elección de acuerdo con lo dispuesto en los propios Estatutos. Asimismo, los indicados Estatutos dispondrán la continuidad, en su caso, de los respectivos Rectores hasta la finalización de su mandato conforme a los actuales Estatutos, o la elección de nuevo Rector.
+2. Los Rectores que deban ser renovados, por finalización del mandato o por vacante, en el período comprendido entre la entrada en vigor de esta Ley y la aprobación de los Estatutos, lo serán de conformidad con las previsiones del artículo 20, si bien el procedimiento, cuya regulación se atribuye en dicho artículo a los Estatutos, será establecido por la Junta de Gobierno o, en su caso, por el Consejo de Gobierno. En todo caso, el voto conjunto de los profesores funcionarios doctores de los cuerpos docentes universitarios tendrá el valor de, al menos, el cincuenta y uno por ciento del total del voto a candidaturas válidamente emitido por la comunidad universitaria.
 
-- Los Rectores que deban ser renovados, por finalización del mandato o por vacante, en el período comprendido entre la entrada en vigor de esta Ley y la aprobación de los Estatutos, lo serán de conformidad con las previsiones del artículo 20, si bien el procedimiento, cuya regulación se atribuye en dicho artículo a los Estatutos, será establecido por la Junta de Gobierno o, en su caso, por el Consejo de Gobierno. En todo caso, el voto conjunto de los profesores funcionarios doctores de los cuerpos docentes universitarios tendrá el valor de, al menos, el cincuenta y uno por ciento del total del voto a candidaturas válidamente emitido por la comunidad universitaria.
+3. Los Estatutos establecerán las disposiciones que regulen la continuidad, en su caso, del Claustro elegido conforme a lo establecido en el apartado 1, hasta su elección de acuerdo con lo dispuesto en los propios Estatutos. Asimismo, los indicados Estatutos dispondrán la continuidad, en su caso, de los respectivos Rectores hasta la finalización de su mandato conforme a los actuales Estatutos, o la elección de nuevo Rector.
 
-- Hasta la publicación de los Estatutos a que se refiere el apartado 1, la Junta de Gobierno o, en su caso, el Consejo de Gobierno de la Universidad adoptará las normas oportunas para la aplicación de lo establecido en la presente Ley en todo aquello en que los actuales Estatutos se opongan a la misma.
+4. Hasta la publicación de los Estatutos a que se refiere el apartado 1, la Junta de Gobierno o, en su caso, el Consejo de Gobierno de la Universidad adoptará las normas oportunas para la aplicación de lo establecido en la presente Ley en todo aquello en que los actuales Estatutos se opongan a la misma.
 
 ### Disposición transitoria tercera. De la adaptación de las Universidades privadas a la presente Ley.
 
@@ -1534,7 +1524,7 @@ Quienes a la entrada en vigor de la presente Ley se hallen contratados en Univer
 
 ### Disposición transitoria quinta. De los actuales profesores asociados.
 
-- Quienes a la entrada en vigor de la presente Ley se hallen contratados en Universidades públicas como profesores asociados podrán permanecer en su misma situación, conforme a la legislación que les venía siendo aplicable, hasta la finalización de sus actuales contratos. No obstante, dichos contratos podrán serles renovados conforme a la legislación que les venía siendo aplicable, sin que su permanencia en esta situación pueda pro-
+1. Quienes a la entrada en vigor de la presente Ley se hallen contratados en Universidades públicas como profesores asociados podrán permanecer en su misma situación, conforme a la legislación que les venía siendo aplicable, hasta la finalización de sus actuales contratos. No obstante, dichos contratos podrán serles renovados conforme a la legislación que les venía siendo aplicable, sin que su permanencia en esta situación pueda pro-
 
 [[END OF PAGE 24]]
 
@@ -1548,9 +1538,9 @@ BOE núm. 307
 
 longarse por más de cuatro años a contar desde la entrada en vigor de la presente Ley.
 
-- Lo dispuesto en el apartado anterior no será de aplicación a los actuales profesores asociados cuya plaza y nombramiento traiga causa del apartado 2 del artículo 105 de la Ley 14/1986, de 25 de abril, General de Sanidad, que se regirán por lo establecido en la disposición adicional duodécima.
-
 A partir de ese momento sólo podrán ser contratados en los términos previstos en la presente Ley. No obstante, en el caso de los profesores asociados que estén en posesión del título de Doctor, para ser contratados como profesor ayudante doctor no les resultará aplicable lo dispuesto en el artículo 50 sobre la desvinculación de la Universidad contratante durante dos años.
+
+2. Lo dispuesto en el apartado anterior no será de aplicación a los actuales profesores asociados cuya plaza y nombramiento traiga causa del apartado 2 del artículo 105 de la Ley 14/1986, de 25 de abril, General de Sanidad, que se regirán por lo establecido en la disposición adicional duodécima.
 
 ### Disposición transitoria sexta. De los Maestros de Taller o Laboratorio y Capataces de Escuelas Técnicas.
 
@@ -1562,23 +1552,23 @@ Los funcionarios del cuerpo de Profesores Numerarios de Escuelas Oficiales de N�
 
 ### Disposición transitoria octava. De la aplicación de las normas establecidas para la habilitación y para los concursos de acceso para proveer plazas de los cuerpos de funcionarios docentes.
 
-- Las normas establecidas en la sección segunda del capítulo I del Título IX para la habilitación y para el acceso a plazas de cuerpos de funcionarios docentes universitarios deberán cumplirse en todas las convocatorias que se publiquen a partir de la fecha de publicación de esta Ley en el «Boletín Oficial del Estado».
-
-- Los concursos cuyas convocatorias hayan sido publicadas con anterioridad a la publicación de esta Ley en el «Boletín Oficial del Estado» se realizarán con arreglo a las normas contenidas en la Ley Orgánica 11/1983, de 25 de agosto.
+1. Las normas establecidas en la sección segunda del capítulo I del Título IX para la habilitación y para el acceso a plazas de cuerpos de funcionarios docentes universitarios deberán cumplirse en todas las convocatorias que se publiquen a partir de la fecha de publicación de esta Ley en el «Boletín Oficial del Estado».
 
 Hasta tanto se produzca la aprobación de los Estatutos, a que se refiere el apartado 1 de la disposición transitoria segunda, las actuales Juntas de Gobierno de las Universidades adoptarán las medidas necesarias para hacer posible la aplicación de lo establecido en el párrafo anterior.
 
+2. Los concursos cuyas convocatorias hayan sido publicadas con anterioridad a la publicación de esta Ley en el «Boletín Oficial del Estado» se realizarán con arreglo a las normas contenidas en la Ley Orgánica 11/1983, de 25 de agosto.
+
 ### Disposición derogatoria única. Derogación normativa.
 
-- Queda derogada la Ley Orgánica 11/1983, de 25 de agosto, de Reforma Universitaria, y en cuanto mantengan la vigencia, la Ley 8/1983, de 29 de junio, sobre medidas urgentes en materia de órganos de gobierno de las Universidades, el Decreto 2551/1972, de 21 de julio, sobre Colegios Universitarios, y el Decreto 2293/1973, de 17 de agosto, por el que se regulan las Escuelas Universitarias, así como cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente Ley.
+1. Queda derogada la Ley Orgánica 11/1983, de 25 de agosto, de Reforma Universitaria, y en cuanto mantengan la vigencia, la Ley 8/1983, de 29 de junio, sobre medidas urgentes en materia de órganos de gobierno de las Universidades, el Decreto 2551/1972, de 21 de julio, sobre Colegios Universitarios, y el Decreto 2293/1973, de 17 de agosto, por el que se regulan las Escuelas Universitarias, así como cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente Ley.
 
-- Sin perjuicio de lo establecido en la disposición transitoria segunda, en tanto se aprueban los nuevos Estatutos conformados a esta Ley, la Ley Orgánica 11/1983, de 25 de agosto, de Reforma Universitaria, continuará en vigor en cuanto se refiere a órganos de gobierno y representación de las Universidades.
+Asimismo, queda derogada la disposición adicional vigésima de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, modificada por la Ley 23/1988, de 28 de julio.
 
-Asimismo, queda derogada la disposición adicional vigésima de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, modificada por la Ley 23/1988, de 23 de julio.
+2. Sin perjuicio de lo establecido en la disposición transitoria segunda, en tanto se aprueban los nuevos Estatutos conformados a esta Ley, la Ley Orgánica 11/1983, de 25 de agosto, de Reforma Universitaria, continuará en vigor en cuanto se refiere a órganos de gobierno y representación de las Universidades.
 
 ### Disposición final primera. Título competencial.
 
-La presente Ley se dicta al amparo de la competencia que corresponde al Estado conforme al artículo 149.1.1, 15 a , 18 a y 30 a de la Constitución.
+La presente Ley se dicta al amparo de la competencia que corresponde al Estado conforme al artículo 149.1.1.ª, 15.ª, 18.ª y 30.ª de la Constitución.
 
 ### Disposición final segunda. Modificación de la Ley 14/1986, de 25 de abril, General de Sanidad.
 
@@ -1586,15 +1576,15 @@ El artículo 105 de la Ley 14/1986, de 25 de abril, General de Sanidad, queda re
 
 #### «Artículo 105.
 
-- En el marco de la planificación asistencial y docente de las Administraciones públicas, el régimen de conciertos entre las Universidades y las instituciones sanitarias podrá establecer la vinculación de determinadas plazas asistenciales de la institución sanitaria con plazas docentes de los cuerpos de profesores de Universidad.
-
-Quienes participen en las pruebas de habilitación, previas a los mencionados concursos, además de reunir los requisitos exigidos en las indicadas normas, acreditarán estar en posesión del título de médico especialista o de farmacéutico especialista que proceda y cumplir las exigencias que, en cuanto a su cualificación asistencial, se determinen reglamentariamente. En la primera de dichas pruebas, las Comisiones deberán valorar los méritos e historial académico e investigador y los propios de la labor asistencial de los candidatos, en la forma que reglamentariamente se establezca.
+1. En el marco de la planificación asistencial y docente de las Administraciones públicas, el régimen de conciertos entre las Universidades y las instituciones sanitarias podrá establecer la vinculación de determinadas plazas asistenciales de la institución sanitaria con plazas docentes de los cuerpos de profesores de Universidad.
 
 Las plazas así vinculadas se proveerán por concurso entre quienes hayan sido seleccionados en los concursos de acceso a los correspondientes cuerpos de funcionarios docentes universitarios, conforme a las normas que les son propias.
 
+Quienes participen en las pruebas de habilitación, previas a los mencionados concursos, además de reunir los requisitos exigidos en las indicadas normas, acreditarán estar en posesión del título de médico especialista o de farmacéutico especialista que proceda y cumplir las exigencias que, en cuanto a su cualificación asistencial, se determinen reglamentariamente. En la primera de dichas pruebas, las Comisiones deberán valorar los méritos e historial académico e investigador y los propios de la labor asistencial de los candidatos, en la forma que reglamentariamente se establezca.
+
 En las Comisiones que resuelvan los mencionados concursos de acceso, dos de sus miembros serán elegidos por sorteo público por la institución sanitaria correspondiente.
 
-- Los conciertos podrán establecer, asimismo, un número de plazas de profesores asociados que deberá cubrirse por personal asistencial que esté prestando servicios en la institución sanitaria concertada. Este número no será tenido en cuenta a efectos del porcentaje de contratados que rige para las Universidades públicas. Estos profesores asociados se regirán por las normas propias de los profesores asociados de la Universidad,
+2. Los conciertos podrán establecer, asimismo, un número de plazas de profesores asociados que deberá cubrirse por personal asistencial que esté prestando servicios en la institución sanitaria concertada. Este número no será tenido en cuenta a efectos del porcentaje de contratados que rige para las Universidades públicas. Estos profesores asociados se regirán por las normas propias de los profesores asociados de la Universidad,
 
 [[END OF PAGE 25]]
 
@@ -1636,7 +1626,7 @@ El Presidente del Gobierno, JOSÉ MARÍA AZNAR LÓPEZ
 
 ## 24516 RESOLUCIÓN de 10 de diciembre de 2001, del Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de la Administración Tributaria, por la que se actualiza el arancel integrado de aplicación (TARIC).
 
-El Arancel Integrado de Aplicación (TARIC) fue adaptado completamente, por última vez por la Resolución de 10 de diciembre de 2000 («Boletín Oficial del Estado» del 28 de diciembre de 2000). Habiéndose producido la publicación de diferente normativa, tanto nacional como comunitaria, y en especial el Reglamento (CE) número 2031/2001 de la Comisión de 6 de agosto, por el que se modifica el anexo I del Reglamento (CEE) número2658/87,relativo a la Nomenclatura Arancelaria y Estadística y al Arancel Aduanero Común, lo que supone una variación sobre la estructura actual del TARIC por la aplicación de medidas concretas, principalmente para ajustarse a la nueva codificación de la Nomenclatura Combinada y se hace necesaria la adaptación de la codificación del TARIC, para el año 2002.
+El Arancel Integrado de Aplicación (TARIC) fue adaptado completamente, por última vez por la Resolución de 10 de diciembre de 2000 («Boletín Oficial del Estado» del 28 de diciembre de 2000). Habiéndose producido la publicación de diferente normativa, tanto nacional como comunitaria, y en especial el Reglamento (CE) número 2031/2001 de la Comisión de 6 de agosto, por el que se modifica el anexo I del Reglamento (CEE) número 2658/87, relativo a la Nomenclatura Arancelaria y Estadística y al Arancel Aduanero Común, lo que supone una variación sobre la estructura actual del TARIC por la aplicación de medidas concretas, principalmente para ajustarse a la nueva codificación de la Nomenclatura Combinada y se hace necesaria la adaptación de la codificación del TARIC, para el año 2002.
 
 Basándose en lo anterior, se acuerda lo siguiente:
 
@@ -1644,7 +1634,7 @@ Primero: Queda actualizada completamente la codificación y Nomenclatura del Ara
 
 Segundo: La presente actualización será aplicable a partir del 1 de enero de 2002.
 
-Lo que se dispone para su conocimiento y efectos. Madrid, 10 de diciembre de 2001.-El Director del Departamento, Javier Goizueta Sánchez.
+Lo que se dispone para su conocimiento y efectos. Madrid, 10 de diciembre de 2001.—El Director del Departamento, Javier Goizueta Sánchez.
 
 (En suplemento aparte se publica el anexo correspondiente)
 
@@ -1654,8 +1644,8 @@ Lo que se dispone para su conocimiento y efectos. Madrid, 10 de diciembre de 200
 
 La Ley 14/2000, de 29 de diciembre, de Medidas fiscales, administrativas y del orden social, dispuso en su artículo 58 la creación de la «Sociedad Estatal Correos y Telégrafos, Sociedad Anónima», cuya constitución fue autorizada por el Consejo de Ministros en su reunión de fecha 22 de junio de 2001, llevándose a cabo efectivamente mediante escritura pública otorgada el 29 de junio de 2001.
 
-La misma disposición adicional de la Ley 14/2000 añadió un nuevo apartado 6 al artículo 30 de la Ley 24/1998, en el que se establece que, si el operador al que se encomienda la prestación del servicio postal
-
 Como consecuencia de ello, la disposición adicional vigésima primera de la citada Ley 14/2000 modificó la disposición adicional primera de la Ley 24/1998, de 13 de julio, del Servicio Postal Universal y de Liberalización de los Servicios Postales, atribuyendo a la «Sociedad Estatal Correos y Telégrafos, Sociedad Anónima», la obligación de prestar el servicio postal universal en los términos y condiciones previstos en dicha Ley, reservando a su favor los servicios establecidos en su artículo 18.
+
+La misma disposición adicional de la Ley 14/2000 añadió un nuevo apartado 6 al artículo 30 de la Ley 24/1998, en el que se establece que, si el operador al que se encomienda la prestación del servicio postal
 
 [[END OF PAGE 26]]
