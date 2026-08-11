@@ -19,7 +19,7 @@ O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu san
 ## Art. 1º
 O art. 24 da Lei nº 9.394, de 20 de dezembro de 1996 , passa a vigorar com as seguintes alterações :
 
-### 'Art. 24.
+### “Art. 24.
 ...........................................................
 
 I - a carga horária mínima anual será de oitocentas horas para o ensino fundamental e para o ensino médio, distribuídas por um mínimo de duzentos dias de efetivo trabalho escolar, excluído o tempo reservado aos exames finais, quando houver;
@@ -30,12 +30,12 @@ I - a carga horária mínima anual será de oitocentas horas para o ensino funda
 A carga horária mínima anual de que trata o inciso I do caput deverá ser ampliada de forma progressiva, no ensino médio, para mil e quatrocentas horas, devendo os sistemas de ensino oferecer, no prazo máximo de cinco anos, pelo menos mil horas anuais de carga horária, a partir de 2 de março de 2017.
 
 #### § 2º
-Os sistemas de ensino disporão sobre a oferta de educação de jovens e adultos e de ensino noturno regular, adequado às condições do educando, conforme o inciso VI do art. 4º .' (NR)
+Os sistemas de ensino disporão sobre a oferta de educação de jovens e adultos e de ensino noturno regular, adequado às condições do educando, conforme o inciso VI do art. 4º .” (NR)
 
 ## Art. 2º
 O art. 26 da Lei nº 9.394, de 20 de dezembro de 1996 , passa a vigorar com as seguintes alterações:
 
-### 'Art. 26.
+### “Art. 26.
 ...........................................................
 
 .................................................................................
@@ -56,12 +56,12 @@ A integralização curricular poderá incluir, a critério dos sistemas de ensin
 ..................................................................................
 
 #### § 10.
-A inclusão de novos componentes curriculares de caráter obrigatório na Base Nacional Comum Curricular dependerá de aprovação do Conselho Nacional de Educação e de homologação pelo Ministro de Estado da Educação.' (NR)
+A inclusão de novos componentes curriculares de caráter obrigatório na Base Nacional Comum Curricular dependerá de aprovação do Conselho Nacional de Educação e de homologação pelo Ministro de Estado da Educação.” (NR)
 
 ## Art. 3º
 A Lei nº 9.394, de 20 de dezembro de 1996 , passa a vigorar acrescida do seguinte art. 35-A:
 
-### '  Art.  35-A.
+### “  Art.  35-A.
 A  Base  Nacional  Comum  Curricular  definirá  direitos  e  objetivos  de  aprendizagem  do ensino médio, conforme diretrizes do Conselho  Nacional de Educação,  nas seguintes áreas  do
 
 www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13415.htm
@@ -112,12 +112,12 @@ Os  conteúdos,  as  metodologias  e  as  formas  de  avaliação  processual  e
 
 - I - domínio dos princípios científicos e tecnológicos que presidem a produção moderna;
 
-II - conhecimento das formas contemporâneas de linguagem.'
+II - conhecimento das formas contemporâneas de linguagem.”
 
 ## Art. 4º
 O art. 36 da Lei nº 9.394, de 20 de dezembro de 1996 , passa a vigorar com as seguintes alterações:
 
-### ' Art. 36 .
+### “ Art. 36 .
 O currículo do ensino médio será composto pela Base Nacional Comum Curricular e por itinerários formativos, que deverão ser organizados por meio da oferta de diferentes arranjos curriculares, conforme a relevância para o contexto local e a possibilidade dos sistemas de ensino, a saber:
 
 - I - linguagens e suas tecnologias;
@@ -194,23 +194,23 @@ Para efeito de cumprimento das exigências curriculares do ensino médio, os sis
 - VI  -  cursos  realizados  por  meio  de  educação  a  distância  ou  educação  presencial  mediada  por tecnologias.
 
 #### § 12.
-As escolas deverão orientar os alunos no processo de escolha das áreas de conhecimento ou de atuação profissional previstas no caput .' (NR)
+As escolas deverão orientar os alunos no processo de escolha das áreas de conhecimento ou de atuação profissional previstas no caput .” (NR)
 
 ## Art. 5º
 O art. 44 da Lei nº 9.394, de 20 de dezembro de 1996 , passa a vigorar acrescido do seguinte § 3º :
 
-### 'Art. 44.
+### “Art. 44.
 ...........................................................
 
 ..................................................................................
 
 #### § 3º
-O processo seletivo referido no inciso II considerará as competências e as habilidades definidas na Base Nacional Comum Curricular.' (NR)
+O processo seletivo referido no inciso II considerará as competências e as habilidades definidas na Base Nacional Comum Curricular.” (NR)
 
 ## Art. 6º
 O art. 61 da Lei nº 9.394, de 20 de dezembro de 1996 , passa a vigorar com as seguintes alterações:
 
-### 'Art. 61.
+### “Art. 61.
 ...........................................................
 
 www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13415.htm
@@ -231,41 +231,41 @@ IV - profissionais com notório saber reconhecido pelos respectivos sistemas de 
 
 V - profissionais graduados que tenham feito complementação pedagógica, conforme disposto pelo Conselho Nacional de Educação.
 
-........................................................................' (NR)
+........................................................................” (NR)
 
 ## Art.  7º
 O  art.  62  da  Lei  nº  9.394,  de  20  de  dezembro  de  1996  ,  passa  a  vigorar  com  as  seguintes alterações:
 
-### ' Art. 62 .
+### “ Art. 62 .
 A  formação  de  docentes  para  atuar  na  educação  básica  far-se-á  em  nível  superior,  em curso de licenciatura plena, admitida, como formação mínima para o exercício do magistério na educação infantil  e  nos  cinco  primeiros  anos  do  ensino  fundamental,  a  oferecida  em  nível  médio,  na  modalidade normal.
 
 ..................................................................................
 
 #### § 8º
-Os currículos dos cursos de formação de docentes terão por referência a Base Nacional Comum Curricular.' (NR)
+Os currículos dos cursos de formação de docentes terão por referência a Base Nacional Comum Curricular.” (NR)
 
 ## Art. 8º
 O art. 318 da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 , passa a vigorar com a seguinte redação:
 
-### ' Art. 318 .
-O professor poderá lecionar em um mesmo estabelecimento por mais de um turno, desde que não ultrapasse a jornada de trabalho semanal estabelecida legalmente, assegurado e não computado o intervalo para refeição.' (NR)
+### “ Art. 318 .
+O professor poderá lecionar em um mesmo estabelecimento por mais de um turno, desde que não ultrapasse a jornada de trabalho semanal estabelecida legalmente, assegurado e não computado o intervalo para refeição.” (NR)
 
 ## Art. 9º
 O caput do art. 10 da Lei nº 11.494, de 20 de junho de 2007 , passa a vigorar acrescido do seguinte inciso XVIII:
 
-### 'Art. 10.
+### “Art. 10.
 ...........................................................
 
 .................................................................................
 
 XVIII - formação técnica e profissional prevista no inciso V do caput do art. 36 da Lei nº 9.394, de 20 de dezembro de 1996 .
 
-........................................................................' (NR)
+........................................................................” (NR)
 
 ## Art. 10.
 O art. 16 do Decreto-Lei nº 236, de 28 de fevereiro de 1967 , passa a vigorar com as seguintes alterações:
 
-### 'Art. 16.
+### “Art. 16.
 ...........................................................
 
 .................................................................................
@@ -277,7 +277,7 @@ Os programas educacionais obrigatórios deverão ser transmitidos em horários c
 O Ministério da Educação poderá celebrar convênios com entidades representativas do setor de radiodifusão, que visem ao cumprimento do disposto no caput , para a divulgação gratuita dos programas e ações  educacionais  do  Ministério  da  Educação,  bem  como  à  definição  da  forma  de  distribuição  dos programas relativos à educação básica, profissional, tecnológica e superior e a outras matérias de interesse da educação.
 
 #### §  4º
-As  inserções  previstas  no  caput  destinam-se  exclusivamente  à  veiculação  de  mensagens  do Ministério  da  Educação,  com  caráter  de  utilidade  pública  ou  de  divulgação  de  programas  e  ações educacionais.' (NR)
+As  inserções  previstas  no  caput  destinam-se  exclusivamente  à  veiculação  de  mensagens  do Ministério  da  Educação,  com  caráter  de  utilidade  pública  ou  de  divulgação  de  programas  e  ações educacionais.” (NR)
 
 ## Art. 11.
 O disposto no § 8º do art. 62 da Lei nº 9.394, de 20 de dezembro de 1996 , deverá ser implementado no prazo de dois anos, contado da publicação da Base Nacional Comum Curricular.
@@ -351,7 +351,7 @@ O Conselho Deliberativo do FNDE disporá, em ato próprio, sobre condições, cr
 Os  Estados  e  o  Distrito  Federal  deverão  fornecer,  sempre  que  solicitados,  a  documentação  relativa  à execução dos recursos recebidos com base no parágrafo único do art. 13 ao Tribunal de Contas da União, ao FNDE, aos órgãos de controle interno do Poder Executivo federal e aos conselhos de acompanhamento e controle social.
 
 ## Art.  19.
-O  acompanhamento e o controle social sobre a transferência e a aplicação dos recursos repassados com base no parágrafo único do art. 13 serão exercidos no âmbito dos Estados e do Distrito Federal pelos respectivos conselhos previstos no art. 24 da Lei nº 11.494, de 20 de junho de 2007 .
+O  acompanhamento e o controle social sobre a transferência e a aplicação dos recursos repassados com base no parágrafo único do art. 13 serão exercidos no âmbito dos Estados e do Distrito Federal pelos respectivos conselhos
 
 www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13415.htm
 
@@ -364,6 +364,8 @@ www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13415.htm
 26/03/2021
 
 L13415
+
+previstos no art. 24 da Lei nº 11.494, de 20 de junho de 2007 .
 
 ### Parágrafo único.
 Os conselhos a que se refere o caput analisarão as prestações de contas dos recursos repassados no âmbito desta Lei, formularão parecer conclusivo acerca da aplicação desses recursos e o encaminharão ao FNDE.
