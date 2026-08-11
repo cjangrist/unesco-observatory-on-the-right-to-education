@@ -161,7 +161,7 @@ Le dépistage des handicaps physiques et intellectuels ainsi que le suivi de la 
 ###### Article 12.-
 Le système éducatif tchadien a pour mission d'éduquer, d'instruire et de former les jeunes en vue de leur insertion socioprofessionnelle.
 
-Il  a  pour  ambition  de  développer  en  eux  l'amour  de  la  Patrie,  la  conscience  de  l'Identité  Nationale,  le  sentiment d'appartenance à une civilisation aux dimensions nationale et africaine, en même temps qu'il renforce l'ouverture sur la civilisation universelle.
+Il a pour ambition de développer en eux l'amour de la Patrie, la conscience de l'Identité Nationale, le sentiment
 
 http://ks3319023.kimsufi.com/texte/1048
 
@@ -174,6 +174,8 @@ http://ks3319023.kimsufi.com/texte/1048
 29/9/2014
 
 Légitchad
+
+d'appartenance à une civilisation aux dimensions nationale et africaine, en même temps qu'il renforce l'ouverture sur la civilisation universelle.
 
 Le  système  éducatif  a  aussi  pour  mission  d'enraciner  l'ensemble  des  valeurs  civiques  et  morales  partagées  par  les Tchadiens et qui sont fondées sur la primauté du savoir, du travail, de la solidarité, de la tolérance et de la modération.
 
@@ -657,7 +659,7 @@ L'État crée des structures nationales de programmes qui donnent des avis et fo
 Ces  avis  et  propositions  portent  sur  la  conception  générale  des  enseignements,  les  grands  objectifs  à  atteindre,  la méthodologie, l'adéquation des programmes et leur adaptation au développement des connaissances.
 
 ###### Article 80.-
-L'année scolaire pour les enseignements fondamental et secondaire a une durée de trente six (36) semaines, réparties en trois trimestres de douze semaines chacun.
+L'année scolaire pour les enseignements fondamental et secondaire a une durée de trente six (36) semaines,
 
 http://ks3319023.kimsufi.com/texte/1048
 
@@ -670,6 +672,8 @@ http://ks3319023.kimsufi.com/texte/1048
 29/9/2014
 
 Légitchad
+
+réparties en trois trimestres de douze semaines chacun.
 
 L'année universitaire comporte vingt cinq (25) semaines au moins, et trente six (36) semaines au plus, réparties en deux semestres.
 
@@ -850,7 +854,7 @@ Le personnel d'administration et de gestion du système éducatif, en raison de 
 ##### Section 3 : Du Personnel Spécialisé
 
 ###### Article 105.-
-Le personnel spécialisé assure des fonctions et tâches spécifiques dans les domaines notamment sociosanitaires, de l'encadrement de la jeunesse, de la formation sportive et de l'orientation scolaire et professionnelle.
+Le personnel spécialisé assure des fonctions et tâches spécifiques dans les domaines notamment socio-sanitaires, de l'encadrement de la jeunesse, de la formation sportive et de l'orientation scolaire et professionnelle.
 
 ##### Section 4 : Du Personnel d'Appui
 
@@ -874,7 +878,7 @@ Il  est  créé  dans  les  établissements  d'enseignement  secondaire  et  sup
 Des textes réglementaires précisent pour chaque ordre ou type d'enseignement, les conditions de participation des élèves et des étudiants à la vie des établissements.
 
 ###### Article 111.-
-Dans  le  respect  des  lois  et  règlements  en  vigueur,  les  élèves  et  les  étudiants  ont  le  droit  de  créer  des associations aux fins de défendre leurs droits et leurs intérêts moraux et matériels, tant collectifs qu'individuels.
+Dans le respect des lois et règlements en vigueur, les élèves et les étudiants ont le droit de créer des
 
 http://ks3319023.kimsufi.com/texte/1048
 
@@ -887,6 +891,8 @@ http://ks3319023.kimsufi.com/texte/1048
 29/9/2014
 
 Légitchad
+
+associations aux fins de défendre leurs droits et leurs intérêts moraux et matériels, tant collectifs qu'individuels.
 
 ###### Article 112.-
 Les étudiants ou élèves des institutions d'enseignement supérieur ont droit aux enseignements et autres activités prescrites par les programmes de formation. Ce droit s'exerce dans le strict respect de la liberté d'expression, de pensée, de conscience et d'information de l'étudiant ou de l'élève.
