@@ -22,11 +22,13 @@ Las presentes directrices tienen por objeto ayudar a los Estados Miembros a prep
 
 ## 2. Alcance de la consulta
 
-Habida cuenta de la agenda Educación 2030, el seguimiento de la Convención y la Recomendación es de vital importancia a fin de garantizar que la educación sea realmente inclusiva para todos y hacer frente a la persistencia de las desigualdades en cuanto al acceso, la participación y los resultados del aprendizaje en todos los niveles, especialmente para los grupos más vulnerables. Esto es particularmente  cierto  en  el  contexto  actual,  en  el  que  los  países  se  esfuerzan  por  recuperarse  de  la interrupción del aprendizaje causada por la pandemia de COVID-19. Las medidas concretas adoptadas por  los  países  en  consonancia  con  sus  obligaciones  jurídicas  en  virtud  de  estos  instrumentos contribuyen a la aplicación de la agenda Educación 2030.
+Habida cuenta de la agenda Educación 2030, el seguimiento de la Convención y la Recomendación es de vital importancia a fin de garantizar que la educación sea realmente inclusiva para todos y hacer frente a la persistencia de las desigualdades en cuanto al acceso, la participación y los resultados del aprendizaje en todos los niveles, especialmente para los grupos más vulnerables. Esto es particularmente cierto en el contexto actual, en el que los países se esfuerzan por recuperarse de la
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+interrupción del aprendizaje causada por la pandemia de COVID-19. Las medidas concretas adoptadas por los países en consonancia con sus obligaciones jurídicas en virtud de estos instrumentos contribuyen a la aplicación de la agenda Educación 2030.
 
 Dado que el alcance y el contenido de las obligaciones jurídicas en virtud del derecho a la educación están en consonancia con las diez metas del ODS 4, se están invirtiendo esfuerzos en velar por que las directrices incluyan los componentes de las metas y sean una valiosa contribución al seguimiento de los progresos realizados hacia la consecución de las metas del ODS 4.
 
@@ -90,9 +92,9 @@ Las directrices se estructuran en torno a tres capítulos:
 
 Con  miras  a  simplificar  las  directrices  proporcionando  al  mismo  tiempo  la  información  sustantiva necesaria para orientar a los Estados Miembros en la preparación de sus respuestas sobre la base de un proceso participativo, se ofrecen orientaciones de los dos tipos siguientes :
 
-- Preguntas  abiertas  y  cerradas  que  los  Estados  Miembros  deben  responder  directamente. Tenga en cuenta que pueden proporcionarse múltiples respuestas cuando sea pertinente.
+1) Preguntas abiertas y cerradas que los Estados Miembros deben responder directamente. Tenga en cuenta que pueden proporcionarse múltiples respuestas cuando sea pertinente.
 
-- Información adicional destinada a orientar a los Estados Miembros para que estructuren y detallen  sus  respuestas  a  las  preguntas  abiertas  (incluidos  comentarios  sobre  cómo responder  adecuadamente  a  las  preguntas  planteadas).  Estos  elementos  se  presentan  en cursiva.
+2) Información adicional destinada a orientar a los Estados Miembros para que estructuren y detallen sus respuestas a las preguntas abiertas (incluidos comentarios sobre cómo responder adecuadamente a las preguntas planteadas). Estos elementos se presentan en cursiva.
 
 > 7 http://www.unesco.org/education/edurights/index.php?action=home&lng=en.
 
@@ -124,7 +126,7 @@ eugenio.gonzalez@mined.rimed.cu
 
 [[START OF PAGE 6]]
 
-# Ratificación y aplicación de la Convención relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza 10
+# I. Ratificación y aplicación de la Convención relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza 10
 
 - ¿Es su país un Estado Parte en la Convención?
 
@@ -170,7 +172,7 @@ Sí  X No
 
 También puede facilitarse información sobre las autoridades judiciales, administrativas y de otro tipo que tengan competencia en lo que atañe al derecho a la educación.
 
-# Información sobre la aplicación de la Convención y la Recomendación en el contexto del Objetivo de Desarrollo Sostenible 4 (ODS 4)
+# II. Información sobre la aplicación de la Convención y la Recomendación en el contexto del Objetivo de Desarrollo Sostenible 4 (ODS 4)
 
 ## 1. Hacia un sistema educativo inclusivo y no discriminatorio
 
@@ -192,7 +194,7 @@ El Ministerio de Educación se encuentra en fase de redacción de la Ley de Educ
 
 ### 1.1 No discriminación e igualdad en la enseñanza
 
-> 12 En la que se insta a los Estados a 'eliminar las disparidades de género en la educación y asegurar el acceso igualitario a to dos los niveles de la enseñanza y la formación profesional para las personas vulnerables, incluidas las personas con discapacidad, los pueblos indígenas y los niños en situaciones de vulnerabilidad'.
+> 12 En la que se insta a los Estados a 'eliminar las disparidades de género en la educación y asegurar el acceso igualitario a todos los niveles de la enseñanza y la formación profesional para las personas vulnerables, incluidas las personas con discapacidad, los pueblos indígenas y los niños en situaciones de vulnerabilidad'.
 
 [[END OF PAGE 7]]
 
@@ -271,11 +273,11 @@ En el ARTÍCULO 1. Cuba  es  un  Estado  socialista  de  derecho  y  justicia  s
 
 En el ARTÍCULO 13. El Estado tiene como fines esenciales los siguientes:
 
-- garantizar la igualdad efectiva en el disfrute y ejercicio de los derechos, y en el cumplimiento de los deberes consagrados en la Constitución y las leyes;
+d) garantizar la igualdad efectiva en el disfrute y ejercicio de los derechos, y en el cumplimiento de los deberes consagrados en la Constitución y las leyes;
 
-- promover un desarrollo sostenible que asegure la prosperidad individual y colectiva, y obtener mayores niveles de equidad y justicia social;
+e) promover un desarrollo sostenible que asegure la prosperidad individual y colectiva, y obtener mayores niveles de equidad y justicia social;
 
-- garantizar la dignidad plena de las personas y su desarrollo integral; (…)
+f) garantizar la dignidad plena de las personas y su desarrollo integral; (…)
 
 ##### CAPÍTULO II RELACIONES INTERNACIONALES
 
@@ -285,7 +287,7 @@ En el ARTÍCULO 16. La República de Cuba basa las relaciones internacionales en
 
 [[START OF PAGE 10]]
 
-- defiende y protege el disfrute de los derechos humanos y repudia cualquier manifestación de racismo o discriminación.
+g) defiende y protege el disfrute de los derechos humanos y repudia cualquier manifestación de racismo o discriminación.
 
 #### TÍTULO  V  DERECHOS,  DEBERES  Y  GARANTÍAS.
 ##### CAPÍTULO  I  DISPOSICIONES GENERALES
@@ -300,7 +302,7 @@ En  el ARTÍCULO  44 .  El  Estado  crea  las  condiciones  para  garantizar  la
 
 En el ARTÍCULO 46 . Todas las personas tienen derecho a la vida, la integridad física y moral, la  libertad,  la  justicia,  la  seguridad,  la  paz,  la  salud,  la  educación,  la  cultura,  la  recreación,  el deporte y a su desarrollo integral.
 
-En el ARTÍCULO 73 . La educación es un derecho de todas las personas y responsabilidad del Estado, que garantiza servicios de educación gratuitos, asequibles y de calidad para la formación integral, desde la primera infancia hasta la enseñanza universitaria de posgrado. El Estado, para hacer efectivo este derecho establece un amplio sistema de instituciones educacionales en todos los tipos y niveles educativos, que brinda la posibilidad de estudiar en cualquier etapa de la vida de acuerdo a las aptitudes, las exigencias sociales y a las necesidades del desarrollo económicosocial  del  país.  (…)  La  ley  define  el  alcance  de  la  obligatoriedad  de  estudiar,  la  preparación general  básica  que,  como  mínimo,  debe  adquirirse;  la  educación  de  las  personas  adultas  y aquellos  estudios  de  posgrado  u  otros  complementarios  que  excepcionalmente  pueden  ser remunerados.
+En el ARTÍCULO 73. La educación es un derecho de todas las personas y responsabilidad del Estado, que garantiza servicios de educación gratuitos, asequibles y de calidad para la formación integral, desde la primera infancia hasta la enseñanza universitaria de posgrado. El Estado, para hacer efectivo este derecho establece un amplio sistema de instituciones educacionales en todos los tipos y niveles educativos, que brinda la posibilidad de estudiar en cualquier etapa de la vida de acuerdo a las aptitudes, las exigencias sociales y a las necesidades del desarrollo económico-social del país. (…) La ley define el alcance de la obligatoriedad de estudiar, la preparación general básica que, como mínimo, debe adquirirse; la educación de las personas adultas y aquellos estudios de posgrado u otros complementarios que excepcionalmente pueden ser remunerados.
 
 La Ley No. 156/2022, denominada Código de las Familias , es una legislación cubana, aprobada el  22  de  julio  de  2022,  y  ratificada  por  plebiscito  el  25  de  septiembre  de  ese  mismo  año (reemplaza el Código de Familia de 1975), establece:
 
@@ -316,9 +318,9 @@ En  el ARTÍCULO  5 Derechos  de  la  infancia  y  la  adolescencia  en  el  ám
 
 l) propiciarles la inclusión familiar, comunitaria y social en caso de estar en situación de discapacidad, así como su educación inclusiva en entornos que les permitan alcanzar su máximo desarrollo educativo, en igualdad de condiciones con el resto de las niñas, los niños y adolescentes, y garantizarles en todo caso que tengan igual acceso que las demás hijas e hijos a la participación en actividades recreativas, de esparcimiento y deportivas;
 
-- inculcarles con el ejemplo y el trato dispensado a las demás personas una actitud de respeto hacia  la  igualdad,  la  no  discriminación  por  condición  o  motivo  alguno,  y  los  derechos  de  las personas en situación de discapacidad y de las personas adultas mayores;
+o) inculcarles con el ejemplo y el trato dispensado a las demás personas una actitud de respeto hacia la igualdad, la no discriminación por condición o motivo alguno, y los derechos de las personas en situación de discapacidad y de las personas adultas mayores;
 
-- garantizarles un ambiente familiar libre de discriminación y violencia, en cualesquiera de sus manifestaciones;
+s) garantizarles un ambiente familiar libre de discriminación y violencia, en cualesquiera de sus manifestaciones;
 
 ###### SECCIÓN SEGUNDA De la responsabilidad parental en los entornos digitales
 
@@ -326,49 +328,49 @@ En el ARTÍCULO 147. Derecho a un entorno digital libre de discriminación y vio
 
 En la Resolución Ministerial No. 14/2024 'Reglamento Escolar' se establece en su segundo Por cuanto que: Corresponde al Ministerio de Educación educar a las nuevas generaciones con apego al cumplimiento de la legalidad (…), para lo cual se establece en el CAPÍTULO III , el Artículo 10 , que los educandos tienen derecho a:
 
-- Una  educación  inclusiva,  equitativa  y  de  calidad,  que  garantice  el  pleno  desarrollo  de  su personalidad y el máximo de sus potencialidades;
+a) Una educación inclusiva, equitativa y de calidad, que garantice el pleno desarrollo de su personalidad y el máximo de sus potencialidades;
 
-- recibir  una  enseñanza  desarrolladora  e  interactiva  que  motive  la  investigación  científica,  la innovación y su autonomía;
+b) recibir una enseñanza desarrolladora e interactiva que motive la investigación científica, la innovación y su autonomía;
 
-- recibir la base material de estudio necesaria para el desarrollo del proceso educativo;
+c) recibir la base material de estudio necesaria para el desarrollo del proceso educativo;
 
-- una  atención  diferenciada  ajustada  a  sus  posibilidades  y  necesidades  educativas  especiales, asociadas o no a discapacidad;
+d) una atención diferenciada ajustada a sus posibilidades y necesidades educativas especiales, asociadas o no a discapacidad;
 
-- al acogimiento institucional para aquellos sin amparo familiar, que cumplan con los requisitos que se establecen en la legislación para estos casos.
+e) al acogimiento institucional para aquellos sin amparo familiar, que cumplan con los requisitos que se establecen en la legislación para estos casos.
 
-- una  evaluación  escolar  con  objetividad,  conforme  a  criterios  rigurosos  y  científicamente fundados y a ser informados de los resultados;
+f) una evaluación escolar con objetividad, conforme a criterios rigurosos y científicamente fundados y a ser informados de los resultados;
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
-- recibir una formación vocacional y orientación profesional encaminadas al máximo desarrollo personal y profesional, según sus capacidades, aspiraciones, intereses y motivaciones hacia las profesiones y oficios;
+g) recibir una formación vocacional y orientación profesional encaminadas al máximo desarrollo personal y profesional, según sus capacidades, aspiraciones, intereses y motivaciones hacia las profesiones y oficios;
 
-- recibir la influencia del proceso educativo en entornos saludables y seguros con condiciones adecuadas de higiene escolar;
+h) recibir la influencia del proceso educativo en entornos saludables y seguros con condiciones adecuadas de higiene escolar;
 
-- tener acceso al uso de las tecnologías de la información y las comunicaciones;
+i) tener acceso al uso de las tecnologías de la información y las comunicaciones;
 
-- un trato adecuado y respeto a su integridad física, psíquica, moral y su dignidad personal, sin ser objeto en ningún caso de tratos vejatorios o degradantes;
+j) un trato adecuado y respeto a su integridad física, psíquica, moral y su dignidad personal, sin ser objeto en ningún caso de tratos vejatorios o degradantes;
 
-- formarse opiniones propias y expresarlas con franqueza en un ambiente de respeto y civilidad;
+k) formarse opiniones propias y expresarlas con franqueza en un ambiente de respeto y civilidad;
 
-- integrarse a las organizaciones estudiantiles correspondientes y participar en la elección de sus dirigentes;
+l) integrarse a las organizaciones estudiantiles correspondientes y participar en la elección de sus dirigentes;
 
-- participar en concursos, actividades deportivas, recreativas, sociales y culturales programadas por la institución educativa;
+m) participar en concursos, actividades deportivas, recreativas, sociales y culturales programadas por la institución educativa;
 
-- integrarse  a  las  organizaciones  estudiantiles  en  correspondencia  con  el  nivel  educativo  que cursan;
+n) integrarse a las organizaciones estudiantiles en correspondencia con el nivel educativo que cursan;
 
-- ser escuchados y que su criterio sea tenido en cuenta en cualquier asunto de índole educativo o disciplinario que le afecte o le competa;
+o) ser escuchados y que su criterio sea tenido en cuenta en cualquier asunto de índole educativo o disciplinario que le afecte o le competa;
 
-- una opción de continuidad de estudios al culminar los niveles medio básico y medio superior;
+p) una opción de continuidad de estudios al culminar los niveles medio básico y medio superior;
 
-- ser estimulados por los resultados positivos alcanzados en el desarrollo del proceso educativo;
+q) ser estimulados por los resultados positivos alcanzados en el desarrollo del proceso educativo;
 
-- participar en el proceso de elaboración del reglamento escolar
+r) participar en el proceso de elaboración del reglamento escolar
 
-- recibir información veraz y actualizada y
+s) recibir información veraz y actualizada y
 
-- disfrutar de su tiempo de descanso, el sistema de pases para los centros internos, los recesos docentes y las vacaciones programadas.
+t) disfrutar de su tiempo de descanso, el sistema de pases para los centros internos, los recesos docentes y las vacaciones programadas.
 
 El  Programa  Nacional  contra  el  Racismo  y  la  Discriminación  Racial  o  Programa  Color Cubano fue aprobado por acuerdo del Consejo de Ministros de 20 de noviembre de 2019.
 
@@ -378,7 +380,7 @@ El 15 de septiembre de 2021 el Comité Ejecutivo del Consejo de Ministros aprob�
 
 La prohibición de la discriminación racial está consagrada en todos los instrumentos internacionales fundamentales de derechos humanos e impone obligaciones a los Estados para su erradicación.
 
-En el contexto internacional existen acuerdos, declaraciones y convenciones  que promueven el respeto universal y efectivo de los derechos humanos y la protección contra todas las formas de discriminación  y  en  particular  la  racial.  Ejemplos  de  estos  son:  el Convenio  Relativo  a  la Discriminación  en  Materia  de  Empleo  y  Ocupación  (1958) ,  aprobado  por  la  Organización Internacional del Trabajo (OIT), la Convención Relativa a la Lucha Contra las Discriminaciones en la esfera de la enseñanza , aprobada por la ONU para la Educación, la Ciencia y la Cultura en 1960. También está la Convención para la Eliminación de todas las Formas de Discriminación Racial en  1963;  y  la  C onvención  Internacional  sobre  la  Eliminación  de  todas  las  Formas  de Discriminación Racial , adoptada el 21 de diciembre de 1965. Por su importancia política destaca la Declaración y Programa de Acción de Durban, adoptado en el año 2001.
+En el contexto internacional existen acuerdos, declaraciones y convenciones que promueven el respeto universal y efectivo de los derechos humanos y la protección contra todas las formas de discriminación y en particular la racial. Ejemplos de estos son: el Convenio Relativo a la Discriminación en Materia de Empleo y Ocupación (1958), aprobado por la Organización Internacional del Trabajo (OIT), la Convención Relativa a la Lucha Contra las Discriminaciones en la esfera de la enseñanza, aprobada por la ONU para la Educación, la Ciencia y la Cultura en 1960. También está la Convención para la Eliminación de todas las Formas de Discriminación Racial en 1963; y la Convención Internacional sobre la Eliminación de todas las Formas de Discriminación Racial, adoptada el 21 de diciembre de 1965. Por su importancia política destaca la Declaración y Programa de Acción de Durban, adoptado en el año 2001.
 
 [[END OF PAGE 12]]
 
@@ -412,7 +414,7 @@ El  Programa  tiene  como  objetivo  general:  Perfeccionar  la  respuesta  educ
 
 En la Resolución Ministerial No. 506/2014 'Reglamento ramal de la disciplina del trabajo en la actividad  educacional  del  Ministerio  de  Educación'  se  establece  en  el Artículo  3 que:  Todo trabajador  que  preste  sus  servicios  en  la  actividad  educacional  tiene  las  obligaciones  comunes siguientes:
 
-- Cumplir y hacer cumplir la Política Educacional adoptada por la Constitución de la República y demás documentos normativos y metodológicos que complementan su ejecución (…)
+a) Cumplir y hacer cumplir la Política Educacional adoptada por la Constitución de la República y demás documentos normativos y metodológicos que complementan su ejecución (…)
 
 En la Resolución Ministerial No. 48/84 'Organización e ingreso a los hogares de menores y los Círculos Infantiles Mixtos', en su Artículo 1, se norma que los hogares de menores sin amparo familiar son instituciones con un régimen de internado, cuyas condiciones se asemejan a las de un hogar, donde se atienden niños que por incapacidad de los padres -física o mental-, o estar sujetos a la privación de la libertad o de la patria potestad, no pueden asumir la educación de los hijos y garantizar su normal desarrollo.
 
@@ -444,7 +446,7 @@ En  la Resolución  Ministerial  5/2017 'Procedimiento  para  el  ingreso  de  l
 
 -Alumnos  en  cuyos hogares existen problemas sociales que constituyan un ambiente deformador que impide el cuidado y desarrollo del o la menor.
 
-En  la Resolución  Ministerial  111/2017 'Procedimiento  general  para  el  diseño,  ejecución  y control del trabajo preventivo en el Sistema Nacional de Educación' en su segundo Por cuanto se establece la necesidad de contar con procedimientos específicos que orienten la labor preventivaeducativa en  cada nivel  educativo y que  a su vez garantice los mecanismos para intervenir de manera  más  específica  en  aquellos  casos  donde  las  estrategias  educativas  no  logran  una transformación  evidente  de  sus  condiciones,  considerando  para  ellos  la  participación  de  las familias así como de órganos, organismos y organizaciones. Entre los principales conceptos que se trabajan, se encuentran:
+En la Resolución Ministerial 111/2017 'Procedimiento general para el diseño, ejecución y control del trabajo preventivo en el Sistema Nacional de Educación' en su segundo Por cuanto se establece la necesidad de contar con procedimientos específicos que orienten la labor preventiva-educativa en cada nivel educativo y que a su vez garantice los mecanismos para intervenir de manera más específica en aquellos casos donde las estrategias educativas no logran una transformación evidente de sus condiciones, considerando para ellos la participación de las familias así como de órganos, organismos y organizaciones. Entre los principales conceptos que se trabajan, se encuentran:
 
 -Inclusión Educativa
 
@@ -472,9 +474,9 @@ Resolución  Ministerial  127/2021 sobre  el  nuevo  modelo  de  formación  y  
 
 [[START OF PAGE 16]]
 
-- Estudiantes  con  dificultades  en  el  aprendizaje  que  estén  asociados  o  no  a  necesidades educativas especiales.
+a) Estudiantes con dificultades en el aprendizaje que estén asociados o no a necesidades educativas especiales.
 
-- Estudiantes en situación de discapacidad que hayan vencido el 6to. grado en la Educación Primaria con la edad de catorce años, o el 9no. grado provenientes de la Educación Especial comprendidos entre los quince y dieciséis años de edad.
+c) Estudiantes en situación de discapacidad que hayan vencido el 6to. grado en la Educación Primaria con la edad de catorce años, o el 9no. grado provenientes de la Educación Especial comprendidos entre los quince y dieciséis años de edad.
 
 Existen  posibilidades  de  acceder  a  la  justicia  en  caso  de  violación  del  derecho  a  la  no discriminación en la enseñanza.
 
@@ -596,7 +598,7 @@ Demostrar la formación de una cultura política como expresión ciudadana, dond
 
 En la Resolución Ministerial No. 119/2022. 'Reglamento para la planificación, organización, desarrollo y control de la enseñanza práctica, en los centros docentes de la educación técnica y profesional y en las entidades de la producción o los servicios', se precisa en el Capítulo I, Sección I, Artículos 1 y 3:
 
-La enseñanza práctica, como componente principal del proceso de formación profesional, es el conjunto de actividades prácticas, de producción y de prestación de servicios que se ejecutan en las instalaciones de los centros docentes y las entidades laborales (estales y no estatales); planificadas,  organizadas,  desarrolladas  y  controladas  de  forma  didáctica  y  metodológica, mediante la participación de estudiantes, profesores, especialistas y tutores, con el objetivo de vincular  la  teoría  con  la  práctica,  integrar  conocimientos,  desarrollar  y  consolidar  hábitos  y habilidades  profesionales  en  los  estudiantes,  en  correspondencia  con  los  avances  científicotécnicos  y  valores  socio-culturales,  para  lograr  el  adecuado  desempeño  profesional  como obreros  o  técnicos  al  incorporarse  a  la  vida  laboral,  observando  la  equidad,  la  igualdad  de género e inclusión de hombres y mujeres.
+La enseñanza práctica, como componente principal del proceso de formación profesional, es el conjunto de actividades prácticas, de producción y de prestación de servicios que se ejecutan en las instalaciones de los centros docentes y las entidades laborales (estales y no estatales); planificadas, organizadas, desarrolladas y controladas de forma didáctica y metodológica, mediante la participación de estudiantes, profesores, especialistas y tutores, con el objetivo de vincular la teoría con la práctica, integrar conocimientos, desarrollar y consolidar hábitos y habilidades profesionales en los estudiantes, en correspondencia con los avances científico-técnicos y valores socio-culturales, para lograr el adecuado desempeño profesional como obreros o técnicos al incorporarse a la vida laboral, observando la equidad, la igualdad de género e inclusión de hombres y mujeres.
 
 La enseñanza práctica da salida a los conocimientos, habilidades básicas y específicas de la formación profesional de los estudiantes con una concepción integral dirigida a fortalecer las actitudes, el desarrollo de la conciencia de productores de bienes y servicios. Con una cultura del ahorro, económica, ambientalista y tributaria, a partir de que reconozcan las condiciones objetivas  y  subjetivas  en  la  cual  viven  y  se  desarrollan,  teniendo  en  cuenta  la  equidad,  la igualdad  de  género  e  inclusión  de  los  estudiantes  y  trabajadores  (hombres  y  mujeres)  y  la promoción del  acceso  al  empleo  sin  distinción  de  género.  Esta  se  soporta  en  el  sistema  de formación profesional conjunto centro politécnico-entidad laboral.
 
@@ -664,29 +666,19 @@ el  personal  de  salud  que  los  atiende,  se  conviertan  en  aplicadores  de
 
 X Iniciativas que abordan la discriminación y promueven la diversidad cultural y la aceptación mutua
 
-Otro:
+ Otro:
 
 - Explique  con  más  detalles  y,  cuando  proceda,  indique  las  medidas  jurídicas  y  políticas adoptadas.
 
-·
+• En la Resolución Ministerial No 72/2021 que norma el 'Proceso de Otorgamiento de matrícula en círculos infantiles", y la 66/2022 'Normas y Procedimiento para la planificación, ejecución y control del proceso de otorgamiento de matrícula en círculos infantiles', se plantea:
 
--
+− Resuelvo Segundo: Constituye requisito para el otorgamiento de matrícula y la permanencia del niño en el círculo infantil que la madre sea estudiante o trabajadora, independientemente del sector de la economía donde labore y de su lugar de residencia; además pueden ser beneficiados los padres o tutores que cumplan igual condición, siempre que ejerzan la guarda y cuidado del menor.
 
--
+− Resuelvo Séptimo, se otorgan las matrículas, de forma excepcional, a los hijos de madres que no tienen vínculo laboral, en los círculos infantiles de zonas rurales, con capacidades que no se utilizan, por falta de demanda y donde no existan solicitudes de madres trabajadoras, orden de prioridad las madres que van a tener su segundo hijo, las madres que cuidan adultos mayores o personas con discapacidad y las que presenten determinados problemas sociales.
 
--
+− Resuelvo Octavo, se le oferta matrícula a las madres trabajadoras cuyos hijos presenten necesidades educativas especiales, siempre que las características de estos garanticen su seguridad y la de los demás niños, avalado por el Centro de Diagnóstico y Orientación correspondiente y la certificación del médico, y cuando se requiere y sea posible, se ubica un personal especializado de apoyo para su atención.
 
--
-
-En la Resolución Ministerial No 72/2021 que norma el 'Proceso de Otorgamiento de matrícula en círculos infantiles", y la 66/2022 'Normas y Procedimiento para la planificación,  ejecución  y  control  del  proceso  de  otorgamiento  de  matrícula  en círculos infantiles', se plantea:
-
-Resuelvo  Segundo:  Constituye  requisito  para  el  otorgamiento  de  matrícula  y  la permanencia  del  niño en el círculo infantil que  la  madre  sea  estudiante o trabajadora,  independientemente  del  sector  de  la  economía  donde  labore  y  de  su lugar  de  residencia;  además  pueden  ser  beneficiados  los  padres  o  tutores  que cumplan igual condición, siempre que ejerzan la guarda y cuidado del menor.
-
-Resuelvo Séptimo, se otorgan las matrículas, de forma excepcional, a los hijos de madres que no tienen vínculo laboral, en los círculos infantiles de zonas rurales, con capacidades que no se utilizan, por falta de demanda y donde no existan solicitudes de madres trabajadoras, orden de prioridad las madres que van a tener su segundo hijo, las madres que cuidan adultos mayores o personas con discapacidad y las que presenten determinados problemas sociales.
-
-Resuelvo  Octavo,  se  le  oferta  matrícula  a  las  madres  trabajadoras  cuyos  hijos presenten necesidades educativas especiales, siempre que las características de estos garanticen  su  seguridad  y  la  de  los  demás  niños,  avalado  por  el  Centro  de Diagnóstico y Orientación correspondiente y la certificación del médico, y cuando se  requiere  y  sea  posible,  se  ubica  un  personal  especializado  de  apoyo  para  su atención.
-
-Resuelvo  Noveno,  se  incluyen  a  las  madres  sordas  con  hijos  oyentes,  aunque  no trabajen,  tienen  prioridad  siempre  que  exista  capacidad,  teniendo  en  cuenta  las posibilidades  que  brinda  la  institución  para  la  comunicación  y  las  solicitudes  de matrícula son acreditadas por la Asociación Nacional de Sordos.
+− Resuelvo Noveno, se incluyen a las madres sordas con hijos oyentes, aunque no trabajen, tienen prioridad siempre que exista capacidad, teniendo en cuenta las posibilidades que brinda la institución para la comunicación y las solicitudes de matrícula son acreditadas por la Asociación Nacional de Sordos.
 
 > 17 "Esto requiere múltiples y flexibles vías de aprendizaje y maneras de emprender y reanudar el aprendizaje a todas las edades y en  todos  los  niveles  educativos;  un  fortalecimiento  de  los  vínculos  entre  las  estructuras  formales  y  no  formales;  y  el reconocimiento, acreditación y convalidación de los conocimientos, las aptitudes y las competencias adquiridos en la educación no formal e informal" (Marco de Acción Educación 2030, párr. 23). Esto puede incluir transferencias de alumnos entre cursos e instituciones  y  diversas  modalidades  de  aprendizaje  (en  línea,  presencial,  a  tiempo  completo,  a  tiempo  parcial,  etc.)  para responder a las necesidades e intereses individuales.
 
@@ -696,51 +688,27 @@ Resuelvo  Noveno,  se  incluyen  a  las  madres  sordas  con  hijos  oyentes,  a
 
 [[START OF PAGE 24]]
 
--
+− Resuelvo Décimo, se tiene presente las solicitudes de madres con discapacidad que no trabajan, estas son evaluadas casuísticamente de conformidad con las prioridades del municipio.
 
--
+− Resuelvo Duodécimo, a las madres que no trabajen y presenten problemas sociales o tienen niños con discapacidad y se les otorgue la matrícula de círculo infantil, deben incorporarse al trabajo en el plazo de tres (3) meses.
 
--
+− Resuelvo Decimotercero, las madres en condición de privación de libertad mantienen el derecho a la matrícula si la persona a cargo del hijo se encuentra limitada para trabajar; en caso de no tener limitaciones y no estar incorporada al trabajo, se procede como se describe en el apartado anterior.
 
-·
+• En cuanto la resolución 58 de 2021 sobre la creación de 'Casitas Infantiles'
 
--
+− Resuelvo Segundo, la casita infantil es una variante de atención educativa, en la modalidad institucional de la Primera Infancia, donde se presta servicios a los niños, hijos de las madres, padres o tutores, en entidades, que a partir de sus condiciones económicas y materiales puedan destinar fondos para su apertura, mantenimiento y garantizar su sostenibilidad.
 
--
+− Resuelvo Tercero, en las casitas infantiles se ofrece excepcionalmente atención educativa a niños de familias con situaciones sociales complejas de la comunidad a propuesta de la Dirección Municipal de Trabajo.
 
--
+− Resuelvo Decimoprimero, Las casitas infantiles se habilitan para niños a partir de un año, con dominio de la marcha independiente y hasta cinco años, de 2do a 5to año de vida, estarán organizados en correspondencia con la cantidad, edad de los pequeños y características del local; por años de vida, por ciclos 2do-3er y 4to-5to año de vida; o por grupos múltiples de 2do a 5to año de vida.
 
-·
+• Resuelvo Decimotercero, Los egresados de las casitas infantiles tienen derecho al seminternado en el grado preescolar, en Círculo Infantil o en Escuela Primaria, según capacidades disponibles.
 
-·
+• En la educación primaria todas las niñas y niños tiene acceso a esta educación hasta en las zonas más intrincadas y de difícil acceso del país, de forma gratuita.
 
-·
+• Existen tres regímenes de escuelas seminternas, que son instituciones organizadas con un horario de vida que comprende desde las 6:30 am hasta las 6:30 pm, incluyendo almuerzo para los educandos, las mismas fueron creadas para la atención a los hijos de madres trabajadoras.
 
-·
-
-Resuelvo Décimo, se tiene presente las solicitudes de madres con discapacidad que no trabajan, estas son evaluadas casuísticamente de conformidad con las prioridades del municipio.
-
-Resuelvo Duodécimo, a las madres que no trabajen y presenten problemas sociales o  tienen  niños  con  discapacidad  y  se  les  otorgue  la  matrícula  de  círculo  infantil, deben incorporarse al trabajo en el plazo de tres (3) meses.
-
-Resuelvo Decimotercero, las madres en condición de privación de libertad mantienen  el  derecho  a  la  matrícula  si  la  persona  a  cargo  del  hijo  se  encuentra limitada  para  trabajar;  en  caso  de  no  tener  limitaciones  y  no  estar  incorporada  al trabajo, se procede como se describe en el apartado anterior.
-
-En cuanto la resolución 58 de 2021 sobre la creación de 'Casitas Infantiles'
-
-Resuelvo  Segundo,  la  casita  infantil  es  una  variante  de  atención  educativa,  en  la modalidad institucional de la Primera Infancia, donde se presta servicios a los niños, hijos de las madres, padres o tutores, en entidades, que a partir de sus condiciones
-
-económicas y materiales puedan destinar fondos para su apertura, mantenimiento y garantizar su sostenibilidad.
-
-Resuelvo  Tercero,  en  las  casitas  infantiles  se  ofrece  excepcionalmente  atención educativa a niños de familias con situaciones sociales complejas de la comunidad a propuesta de la Dirección Municipal de Trabajo.
-
-Resuelvo Decimoprimero, Las casitas infantiles se habilitan para niños a partir de un año, con dominio de la marcha independiente y hasta cinco años, de 2do a 5to año de vida, estarán organizados en correspondencia con la cantidad,  edad de los pequeños y características del local; por años de vida, por ciclos 2do-3er y 4to-5to año de vida; o por grupos múltiples de 2do a 5to año de vida.
-
-Resuelvo Decimotercero, Los egresados de las casitas infantiles tienen derecho  al seminternado  en  el  grado  preescolar,  en  Círculo  Infantil  o  en  Escuela  Primaria, según capacidades disponibles.
-
-En la educación primaria todas las niñas y niños tiene acceso a esta educación hasta en las zonas más intrincadas y de difícil acceso del país, de forma gratuita.
-
-Existen tres  regímenes de escuelas seminternas, que son instituciones organizadas con  un  horario  de  vida  que  comprende  desde  las  6:30  am  hasta  las  6:30  pm, incluyendo  almuerzo  para  los  educandos,  las  mismas  fueron  creadas  para  la atención a los hijos de madres trabajadoras.
-
-Existen las escuelas externas cuyo horario de vida es diferente pues es de 7:50 am a 4:20  pm,  con  una  pausa  en  las  actividades  para  que  los  educandos  vayan  a  sus hogares  a  almorzar  (sus  madres  no  son  trabajadoras)  y  además  están  las  escuelas internas donde los educandos permanecen toda la semana en el centro, reciben toda la alimentación y van de pase a sus hogares el fin de semana. En todos los casos la base  material  de  estudio  y  de  vida,  así  como  la  alimentación,  es  asumida  por  el Estado.
+• Existen las escuelas externas cuyo horario de vida es diferente pues es de 7:50 am a 4:20 pm, con una pausa en las actividades para que los educandos vayan a sus hogares a almorzar (sus madres no son trabajadoras) y además están las escuelas internas donde los educandos permanecen toda la semana en el centro, reciben toda la alimentación y van de pase a sus hogares el fin de semana. En todos los casos la base material de estudio y de vida, así como la alimentación, es asumida por el Estado.
 
 [[END OF PAGE 24]]
 
@@ -778,23 +746,23 @@ Se  recomienda  remitirse  a  los  perniciosos  impactos  en  la  educación,  d
 
 [[START OF PAGE 26]]
 
-- Explique  con  más  detalles  y,  cuando  proceda,  indique  las  medidas  jurídicas  y  políticas adoptadas.
+tengan en cuenta el género 20
 
 - Se ofrecen incentivos financieros y becas
 
-- X Los docentes reciben formación (inicial y de  perfeccionamiento)  sobre  la  igualdad de género
+- X Los docentes reciben formación (inicial y de perfeccionamiento) sobre la igualdad de género
 
-- X  Los  docentes reciben formación para luchar contra la estigmatización 19
+- X Los docentes reciben formación para luchar contra la estigmatización 19
 
 - Otro:
 
-tengan en cuenta el género 20
+- X Los planes de estudio están libres de estereotipos 21 y prejuicios
 
-- X  Los  planes  de  estudio  están  libres  de estereotipos 21 y prejuicios
+- Se garantiza la paridad de género en la ciencia, tecnología, ingeniería y matemáticas (CTIM)
 
-- Se  garantiza  la  paridad  de  género  en  la ciencia, tecnología, ingeniería y matemáticas (CTIM)
+- X Se garantiza la paridad de género en la enseñanza y formación técnica y profesional (EFTP)
 
-- X  Se  garantiza  la  paridad  de  género  en  la enseñanza y formación técnica y profesional (EFTP)
+- Explique con más detalles y, cuando proceda, indique las medidas jurídicas y políticas adoptadas.
 
 En  el  III  Perfeccionamiento  Educacional  del  Sistema  Nacional  de  Educación,  quedaron actualizados  planes  y  programas  de  estudio,  se  asume  la  Educación  Integral  de  la sexualidad con enfoque de género y derechos sexuales y reproductivos desde los objetivos generales.  Se  aspira  a  que  los  estudiantes  demuestren  un  estilo  de  vida  saludable  y sostenible desde lo individual, familiar y social, evidenciado en una actitud positiva ante situaciones  excepcionales  o  de  desastres,  comportamientos  higiénicos  en  lo  personal  y colectivo, hábitos alimentarios adecuados, una percepción de riesgo que estimule el rechazo a las adicciones, fundamentalmente en cuanto al consumo de drogas. Además, se promueve la  sexualidad  responsable  con  enfoque  de  género  y  de  derechos,  la  educación  vial,  la satisfacción por la educación física, la recreación sana y la práctica de la medicina natural y tradicional; por lo que sus contenidos se asumen como parte de la formación integral de los educandos.
 
@@ -802,11 +770,11 @@ Por  su  alcance  tiene  como  objetivo  general:  Desarrollar  conocimientos,  
 
 El cumplimiento de estos objetivos y contenidos dentro del proceso educativo garantiza la educación y acceso de manera inclusiva, equitativa y de calidad. Promueve oportunidades de  aprendizaje  permanente  para  todos:  niñas,  niños,  adolescentes,  jóvenes  y  sus  familias con  respecto  a  información  sobre  salud  sexual  y  reproductiva,  igualdad  de  género, diversidad y derechos sexuales y reproductivos, la diversidad humana y de la vida sexual. Los aprendizajes desarrollados permitirán de manera integrada e integral la promoción:
 
-> 19 " Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them" (La estigmatización es el hecho de tratar a alguien o a algo injustamente condenándolo públicamente) (traducción libre del Cambridge Dictionary).
+> 19 "Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them" (La estigmatización es el hecho de tratar a alguien o a algo injustamente condenándolo públicamente) (traducción libre del Cambridge Dictionary).
 
-> 20 Las instalaciones sanitarias que tienen en cuenta el género incluyen retretes limpios, seguros y separados, con acceso al agua y a la eliminación de desechos (entrada del blog de la UNGEI, Gender-sensitive sanitation , 2018).
+> 20 Las instalaciones sanitarias que tienen en cuenta el género incluyen retretes limpios, seguros y separados, con acceso al agua y a la eliminación de desechos (entrada del blog de la UNGEI, Gender-sensitive sanitation, 2018).
 
-> 21 " Stereotype  is  a  set  idea  that  people  have  about  what  someone  or  something  is  like,  especially  an  idea  that  is  wrong "  (Un estereotipo es una idea fija que la gente tiene sobre cómo es alguien o algo, especialmente una idea errónea) (traducción libre del Cambridge Dictionary).
+> 21 "Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong" (Un estereotipo es una idea fija que la gente tiene sobre cómo es alguien o algo, especialmente una idea errónea) (traducción libre del Cambridge Dictionary).
 
 [[END OF PAGE 26]]
 
@@ -832,9 +800,9 @@ Desde  el  Sistema  Nacional  de  Educación  se  capacitan  a  los  docentes  p
 
 Tenga en cuenta que el matrimonio infantil es una práctica discriminatoria, ya que a menudo las niñas  pueden  contraer  matrimonio  a  una  edad  más  temprana  que  los  niños.  El  matrimonio infantil viola el derecho de los niños a la educación, puesto que es más probable que los niños casados abandonen la escuela y que aquellos que no van a la escuela contraigan matrimonio.
 
-> 22 Cabe señalar que, según la recomendación general núm. 31 del Comité para la Eliminación de la Discriminación contra la Mujer y  la  observación  general  núm.  18  del  Comité  de  los  Derechos  del  Niño  sobre  las  prácticas  nocivas,  adoptadas  de  manera conjunta, "[...] en circunstancias excepcionales se puede permitir el matrimonio de un niño maduro y capaz menor de 18 años, siempre y cuando el niño tenga como mínimo 16 años de edad y tales decisiones las adopte un juez basándose en motivos excepcionales legítimos definidos por la legislación y en pruebas de madurez, sin dejarse influir por la cultura ni la tradición" (párr. 20).
-
 X Sí No
+
+> 22 Cabe señalar que, según la recomendación general núm. 31 del Comité para la Eliminación de la Discriminación contra la Mujer y la observación general núm. 18 del Comité de los Derechos del Niño sobre las prácticas nocivas, adoptadas de manera conjunta, "[...] en circunstancias excepcionales se puede permitir el matrimonio de un niño maduro y capaz menor de 18 años, siempre y cuando el niño tenga como mínimo 16 años de edad y tales decisiones las adopte un juez basándose en motivos excepcionales legítimos definidos por la legislación y en pruebas de madurez, sin dejarse influir por la cultura ni la tradición" (párr. 20).
 
 [[END OF PAGE 27]]
 
@@ -928,9 +896,7 @@ Los  planes  de  estudio están libres de estereotipos 27 y prejuicios
 
 > 26 Véase la nota 15.
 
-27
-
-Véase la nota 16.
+> 27 Véase la nota 16.
 
 [[END OF PAGE 29]]
 
@@ -990,15 +956,15 @@ A pesar de que nuestro país no es Estado Parte de la Convención de 1951 sobre 
 
 [[START OF PAGE 31]]
 
-- Curso de idioma español
+1. Curso de idioma español
 
-- Programa 'Educa a tu hijo'
+2. Programa “Educa a tu hijo”
 
-- Formación General Básica
+3. Formación General Básica
 
-- Educación Técnica y Profesional
+4. Educación Técnica y Profesional
 
-- Educación de Adultos (Facultad Obrero Campesina)
+5. Educación de Adultos (Facultad Obrero Campesina)
 
 El Mined garantiza la acreditación y certificación del aprendizaje y de esta forma posibilita la continuidad de estudio en otros países. Al mismo tiempo les proporciona apoyo para su adaptación al nuevo entorno, para hacer frente a un desplazamiento duradero y así brindarle mayores oportunidades para el futuro.
 
@@ -1010,19 +976,19 @@ Se atienden las necesidades educativas de los alumnos refugiados, para asegurar 
 
 Artículo  28.  Los  estudiantes  extranjeros  autorizados  a  matricular  en  centros  del  Sistema Nacional de Educación en Cuba, tienen el mismo régimen de estudio que los cubanos y en consecuencia la obligación de:
 
-- cursar los programas de actividades docentes, académicas, científicas, laborales y físicas incluidas en el plan de estudio que corresponda; y
+a) cursar los programas de actividades docentes, académicas, científicas, laborales y físicas incluidas en el plan de estudio que corresponda; y
 
-- participar en las actividades extracurriculares programadas con el objetivo de su formación integral.
+b) participar en las actividades extracurriculares programadas con el objetivo de su formación integral.
 
 Artículo 29. Los estudiantes extranjeros autorizados a matricular en el Sistema Nacional de Educación en Cuba, se ajustan a los reglamentos docentes y disciplinarios dispuestos en las instituciones educativas de los diferentes niveles.
 
 Artículo 30. Los estudiantes extranjeros autorizados a matricular en el Sistema Nacional de Educación en Cuba, tienen los deberes siguientes:
 
-- cumplir con la disciplina estudiantil.
+a) cumplir con la disciplina estudiantil.
 
-- observar  la  disciplina  de  estudio,  asistir  a  clases  y  cumplir  con  los  deberes estudiantiles  previstos  en  los  planes  y  programas,  así  como  aprobar  en  los  plazos establecidos las evaluaciones correspondientes.
+b) observar la disciplina de estudio, asistir a clases y cumplir con los deberes estudiantiles previstos en los planes y programas, así como aprobar en los plazos establecidos las evaluaciones correspondientes.
 
-- estudiar y alcanzar rendimientos satisfactorios y con calidad.
+c) estudiar y alcanzar rendimientos satisfactorios y con calidad.
 
 [[END OF PAGE 31]]
 
@@ -1030,9 +996,9 @@ Artículo 30. Los estudiantes extranjeros autorizados a matricular en el Sistema
 
 Artículo 31. Los estudiantes extranjeros autorizados a matricular en el Sistema Nacional de Educación en Cuba, tienen derecho a:
 
-- participar  en  el  desarrollo  del  proceso  docente  educativo  en  las  instituciones educativas; y
+a) participar en el desarrollo del proceso docente educativo en las instituciones educativas; y
 
-- recibir la base material de estudio que el Ministerio de Educación asigna a los estudiantes en las instituciones educativas.
+b) recibir la base material de estudio que el Ministerio de Educación asigna a los estudiantes en las instituciones educativas.
 
 ¿Se han adoptado medidas específicas para los desplazados climáticos?
 
@@ -1060,10 +1026,6 @@ Existen incentivos financieros y becas
 
 - Otro:
 
-> 33 Véase la nota 15.
-
-> 34 Véase la nota 16.
-
 Los docentes de las escuelas ordinarias reciben formación específica sobre discapacidad
 
 - X Los docentes reciben formación para luchar contra la estigmatización 33
@@ -1075,6 +1037,10 @@ Los docentes de las escuelas ordinarias reciben formación específica sobre dis
 X Los planes de estudio están libres de estereotipos 34 y prejuicios
 
 - X Se adaptan las infraestructuras educativas y el material didáctico
+
+> 33 Véase la nota 15.
+
+> 34 Véase la nota 16.
 
 [[END OF PAGE 32]]
 
@@ -1116,7 +1082,7 @@ Los planes de estudio están libres de estereotipos 36 y prejuicios
 
 ¿Con qué dificultades se ha tropezado para hacer efectivo el derecho a la educación de los educandos de familias pobres? De ser necesario, se pueden añadir breves datos cuantitativos.
 
-## Progresos  realizados  en  la  aplicación  del  derecho  a  la  educación  en  todos  los  niveles  y formas de educación
+## 2. Progresos realizados en la aplicación del derecho a la educación en todos los niveles y formas de educación
 
 ### 2.1 Atención y educación de la primera infancia
 
@@ -1402,9 +1368,9 @@ X La educación superior es gratuita
 
 Otro:
 
-> 39 En la que se insta a los Estados a 'asegurar el acceso igualitario de todos los hombres y las mujeres a una formación técnica , profesional y superior de calidad, incluida la enseñanza universitaria'.
+> 39 En la que se insta a los Estados a 'asegurar el acceso igualitario de todos los hombres y las mujeres a una formación técnica, profesional y superior de calidad, incluida la enseñanza universitaria'.
 
-> 40 En la que se rec omienda 'aumentar considerablemente el número de jóvenes y adultos que tienen las competencias necesarias, en particular técnicas y profesionales, para acceder al empleo, el trabajo decente y el emprendimiento'.
+> 40 En la que se recomienda 'aumentar considerablemente el número de jóvenes y adultos que tienen las competencias necesarias, en particular técnicas y profesionales, para acceder al empleo, el trabajo decente y el emprendimiento'.
 
 [[END OF PAGE 42]]
 
@@ -1452,31 +1418,31 @@ A  fines  de  referencia,  en  el  artículo/párrafo  4.c  de  la  Convención 
 
 [[START OF PAGE 44]]
 
-- Indique las medidas que se han adoptado para establecer un sistema de educación permanente y ofrecer un acceso equitativo a las oportunidades de aprendizaje y formación ( marque todos los puntos que correspondan ).
+- Indique las medidas que se han adoptado para establecer un sistema de educación permanente y ofrecer un acceso equitativo a las oportunidades de aprendizaje y formación (marque todos los puntos que correspondan).
 
-- X  Ofrecer educación para las personas que no hayan cursado o terminado el ciclo completo de enseñanza primaria
+- X Ofrecer educación para las personas que no hayan cursado o terminado el ciclo completo de enseñanza primaria
 
-- X  Ofrecer programas de alfabetización
+- X Ofrecer programas de alfabetización
 
-- X  Ofrecer  formación  continua  (como  programas  de  formación  para  adquirir  conocimientos, aptitudes, capacidades o competencias para el desarrollo personal y profesional)
+- X Ofrecer formación continua (como programas de formación para adquirir conocimientos, aptitudes, capacidades o competencias para el desarrollo personal y profesional)
 
-- X  Ofrecer oportunidades de aprendizaje gratuitas
+- X Ofrecer oportunidades de aprendizaje gratuitas
 
-- Proporcione más detalles sobre las medidas adoptadas.
-
-- En la Resolución Ministerial 203/2012 'Plan de estudio para los diferentes niveles de la Educación de Jóvenes y Adultos' en su resuelvo primero  establece que  'Se mantiene la posibilidad de desarrollar planes especiales, atendiendo a las instituciones u organismos que así  lo  soliciten'  permitiendo  aprendizajes  flexibles,  los  cuales  se  desarrollan  en  las diferentes modalidades (Curso regular y por encuentros), lo que se complementa con la RM 36/2024 como parte del III Perfeccionamiento del Sistema Nacional de Educación.
-
-- En la Resolución Ministerial 216/2016 'Orientaciones metodológicas para la organización del proceso docente en los cursos por encuentro en la Educación de Jóvenes y
-
-- X  Ofrecer  formación  profesional,  incluidos  programas  de  reconversión  y  perfeccionamiento profesionales
+- X Ofrecer formación profesional, incluidos programas de reconversión y perfeccionamiento profesionales
 
 Reconocer, validar y certificar el aprendizaje no formal e informal
 
 Ofrecer orientación profesional y asesoramiento gratuitos
 
-Otorgar  derechos  en  materia  de  aprendizaje  permanente,  incluidas  cuentas  de  aprendizaje, vales, etc.
+Otorgar derechos en materia de aprendizaje permanente, incluidas cuentas de aprendizaje, vales, etc.
 
 Otro:
+
+- Proporcione más detalles sobre las medidas adoptadas.
+
+- En la Resolución Ministerial 203/2012 'Plan de estudio para los diferentes niveles de la Educación de Jóvenes y Adultos' en su resuelvo primero establece que 'Se mantiene la posibilidad de desarrollar planes especiales, atendiendo a las instituciones u organismos que así lo soliciten' permitiendo aprendizajes flexibles, los cuales se desarrollan en las diferentes modalidades (Curso regular y por encuentros), lo que se complementa con la RM 36/2024 como parte del III Perfeccionamiento del Sistema Nacional de Educación.
+
+- En la Resolución Ministerial 216/2016 'Orientaciones metodológicas para la organización del proceso docente en los cursos por encuentro en la Educación de Jóvenes y
 
 [[END OF PAGE 44]]
 
@@ -1604,11 +1570,13 @@ Los educandos matriculados en estas escuelas, hoy continúan sus estudios e inte
 
 Se amplía la cobertura de los Programas Alternativos Comunitarios, dirigidos a satisfacer intereses específicos de diferentes sectores poblacionales, para aumentar su nivel de vida, para ello se priorizan temas relacionados con los nueve contenidos de la educación en el III perfeccionamiento del Sistema nacional de Educación, como la salud, la educación sexual, la  lucha  contra  el  alcoholismo  y  el  tabaquismo,  la  educación  ambiental,  el  desarrollo científico  y  tecnológico.  Lo  que  evidencia  la  participación  de  jóvenes  y  adultos  en  la educación y la formación formales y no formales, permitiendo asegurar oportunidad para todos, tanto hombres como mujeres.
 
-El país ha continuado la educación integral de la sexualidad dirigida a actores comunitarios, personal de salud, educación y de derechos, así como a poblaciones escolarizadas o no entre los que destacan los círculos de adolescentes, los círculos de abuelos y la Universidad del Adulto mayor.
+El país ha continuado la educación integral de la sexualidad dirigida a actores comunitarios, personal de salud, educación y de derechos, así como a poblaciones escolarizadas o no entre los que destacan los círculos de adolescentes, los círculos de abuelos y la Universidad del
 
 [[END OF PAGE 49]]
 
 [[START OF PAGE 50]]
+
+Adulto mayor.
 
 Destaca en este proceso la intersectorialidad y el papel jugado por diferentes instituciones del MINSAP a nivel local que se han unido al personal de las instituciones escolares y de formación pedagógica para garantizar las metas de 'Prevenir con Educación' y las medidas asumidas por el Ministerio de Educación para el perfeccionamiento del Programa Nacional de Educación de la sexualidad con enfoque de género y de derecho que cuenta entre sus pilares básicos el respeto a la diversidad sexual, cultural, de expresiones de género y que tiene como centro los derechos de niñas, niños, adolescentes y jóvenes.
 
@@ -1650,7 +1618,7 @@ millones  789  mil  dólares  para  cubrir  las  necesidades  de  base  material
 
 Para atender las necesidades de niños y adolescentes en situación de discapacidad auditiva, se  requieren  1115  prótesis  auditivas,  con  un  precio  de  144  mil  dólares.  15  minutos  sin bloqueo permitirían disponer de este monto.
 
-El  bloqueo  también  frena  los  proyectos  de  cooperación  en  la  esfera  de  la  educación.  La Facultad  de  Arquitectura  de  la  Universidad  Tecnológica  de  la  Habana  'José  Antonio Echeverría' (CUJAE), había coordinado un proyecto internacional con una Universidad de Reino  Unido.  Por  este  concepto,  debía  recibirse  una  donación  consistente  en  medios  de cómputo y otros materiales informáticos para la creación de un laboratorio por valor de 315 mil 783 dólares. El equipamiento no se ha podido enviar al país, en tanto contiene más de un 10% de componentes estadounidenses.
+El bloqueo también frena los proyectos de cooperación en la esfera de la educación. La Facultad de Arquitectura de la Universidad Tecnológica de la Habana “José Antonio Echeverría” (CUJAE), había coordinado un proyecto internacional con una Universidad de Reino Unido. Por este concepto, debía recibirse una donación consistente en medios de cómputo y otros materiales informáticos para la creación de un laboratorio por valor de 315 mil 783 dólares. El equipamiento no se ha podido enviar al país, en tanto contiene más de un 10% de componentes estadounidenses.
 
 Unido a todo lo anterior, el deterioro de la situación económica del país ha incidido en el incremento de las bajas, sobre todo, de profesores con categorías docentes y científicas, que optan  por  otras  actividades  económicas  más  rentables.  Ello  también  ha  impactado  el sistema de educación a todos los niveles.
 
@@ -1658,7 +1626,7 @@ Unido a todo lo anterior, el deterioro de la situación económica del país ha 
 
 ### 3.2 Personal de educación
 
-A fines de referencia, en el artículo/párrafo 4.d de la Convención y la Recomendación se hace referencia al personal de educación. Este aspecto corresponde a la meta 4.c de los ODS, que está  totalmente  dedicada  a  la  profesión  docente,  ya  que  pide  a  los  Estados  que  'aumenten considerablemente la oferta de docentes calificados'.
+A fines de referencia, en el artículo/párrafo 4.d de la Convención y la Recomendación se hace referencia al personal de educación. Este aspecto corresponde a la meta 4.c de los ODS, que está totalmente dedicada a la profesión docente, ya que pide a los Estados que “aumenten considerablemente la oferta de docentes calificados”.
 
 - Indique  las  medidas  que  se  han  adoptado  para  mejorar  las  condiciones  de  enseñanza  y  de trabajo del personal de educación, especialmente del personal docente de todos los niveles, y en relación con la formación para la profesión docente ( marque todos los puntos que correspondan ).
 
@@ -1692,13 +1660,34 @@ En  los  centros  del  Ministerio  de  Educación  laboran  un  total  de  231  
 
 El gráfico siguiente, tomado del Anuario Estadístico del MINED curso 2023-2024, ilustra los datos anteriores.
 
+Total de docentes
+Frente al aula
+Círculos Infantiles 22780 17680
+Primaria 116363 83411
+Secundaria Básica 38484 32299
+Preuniversitario 14666 12073
+Técnica y Profesional 19612 17879
+Formación Pedagógica 2905 2411
+Especial 12576 7933
+Adultos 4509 4448
+
 El 77.1 % del personal docente frente al aula es universitario. Al comparar el curso 2022-2023 con el 2022- 2023, se aprecia un ligero incremento en esta cifra.
 
 [[END OF PAGE 52]]
 
 [[START OF PAGE 53]]
 
-Se mantiene la formación pedagógica de nivel medio, en las especialidades de Educador de la Primera Infancia, Maestro Primario, Maestro de Educación Especial Maestros de Inglés para la Educación  Primaria,  Profesor  de  Secundaria  Básica  en  las  especialidades  de  Matemática, Física,  Química,  Biología,  Geografía,  Educación  Laboral,  Español  y  Literatura,  Historia  y Educación Ciudadana e Inglés. En el curso 2018-2019 se incorporó Educación Artística con las especialidades de Maestro de Educación Musical y Maestro de Educación Plástica para los niveles  educativos  de  primaria  y  especial,  así  como  Musical-Danzaria  y  Visual-Teatral  para Secundaria Básica. Además de la formación de profesores para la ETP.
+Frente al aula
+Círculos Infantiles 17680 12595
+Primaria 83411 61225
+Secundaria Básica 32299 26812
+Preuniversitario 12073 11101
+Técnica y Profesional 17879 12448
+Formación Pedagógica 2411 2088
+Especial 7933 6785
+Adultos 4448 4223
+
+Se mantiene la formación pedagógica de nivel medio, en las especialidades de Educador de la Primera Infancia, Maestro Primario, Maestro de Educación Especial Maestros de Inglés para la Educación Primaria, Profesor de Secundaria Básica en las especialidades de Matemática, Física, Química, Biología, Geografía, Educación Laboral, Español y Literatura, Historia y Educación Ciudadana e Inglés. En el curso 2018-2019 se incorporó Educación Artística con las especialidades de Maestro de Educación Musical y Maestro de Educación Plástica para los niveles educativos de primaria y especial, así como Musical-Danzaria y Visual-Teatral para Secundaria Básica. Además de la formación de profesores para la ETP.
 
 ¿Con qué dificultades ha tropezado el personal docente?
 
@@ -1736,7 +1725,7 @@ Otro:
 
 El  Estado  Cubano,  con  la  participación  y  respaldo  de  las  organizaciones  sociales  y  no gubernamentales  es  el  encargado  de  la  estructuración  y  funcionamiento  de  un  sistema nacional de educación orientado al desarrollo y formación de las nuevas generaciones en un proceso  educativo  integral,  sistemático,  participativo  y  en  constante  desarrollo,  que  se apoya en un conjunto de principios, que forman un sistema íntimamente relacionado y entre los que se pueden señalar los siguientes:
 
-#### El principio del carácter masivo y con equidad de la educación
+#### a) El principio del carácter masivo y con equidad de la educación
 
 La educación como un derecho y deber de todos es una realidad en Cuba. Ello significa las posibilidades reales de educación sin distinción de edades, sexo, raza y religioso o lugar de residencia.
 
@@ -1744,7 +1733,7 @@ Presupone el deber de preparar a todos para la vida en un sentido amplio.
 
 Se ha alcanzado, de forma masiva, con equidad y calidad, el objetivo de la universalización de  la  enseñanza,  inicialmente  de  la  escuela  primaria  y  posteriormente  de  la  secundaria básica,  correspondiente  al  nivel  medio,  así  como  el  establecimiento  de  un  sistema  que abarca todos los tipos y niveles de educación para los niños, jóvenes y adultos, incluyendo a aquellos con limitaciones físicas o mentales.
 
-> 41 En la que se insta a los Estados a 'asegurar que todos los alumnos adquieran los conocimientos teóricos y prácticos necesario s para promover el desarrollo sostenible, entre otras cosas mediante la educación para el desarrollo sostenible y los estilos de vida sostenibles, los derechos humanos, la igualdad de género, la promoción de una cultura de paz y no violencia, la ciudadanía mundial y la valoración de la diversidad cultural y la contribución de la cultura al desarrollo sostenible'.
+> 41 En la que se insta a los Estados a “asegurar que todos los alumnos adquieran los conocimientos teóricos y prácticos necesarios para promover el desarrollo sostenible, entre otras cosas mediante la educación para el desarrollo sostenible y los estilos de vida sostenibles, los derechos humanos, la igualdad de género, la promoción de una cultura de paz y no violencia, la ciudadanía mundial y la valoración de la diversidad cultural y la contribución de la cultura al desarrollo sostenible”.
 
 [[END OF PAGE 54]]
 
@@ -1822,7 +1811,7 @@ La  optimización  del  proceso  docente  educativo.  Se  trata  de  organizar  
 
 Además,  en  su  carácter  ininterrumpido  y  sistemático,  el  perfeccionamiento  del  Sistema Nacional de Educación, constituye una nueva y superior etapa, en el estudio científico del comportamiento del sistema educativo y la proyección de soluciones. Todo ello se refleja en cambios y transformaciones, con un enfoque más integral y multifacético, que respondan a  las  actuales  necesidades,  condiciones  y  exigencias  histórico-  sociales,  del  modelo económico y social cubano, para continuar elevando la calidad de la educación.
 
-Al respecto, el documento 'Bases generales para el Perfeccionamiento del SNE' propuso las modificaciones a la concepción curricular, que atiende la necesaria unidad del SNE y tiene  en  cuenta  la  diversidad  de  formas  con  las  que  esto  se  puede  lograr,  así  como  lo general, lo particular y lo singular de los contextos educativos.
+Al respecto, el documento “Bases generales para el Perfeccionamiento del SNE” propuso las modificaciones a la concepción curricular, que atiende la necesaria unidad del SNE y tiene en cuenta la diversidad de formas con las que esto se puede lograr, así como lo general, lo particular y lo singular de los contextos educativos.
 
 En correspondencia, los contenidos de esta variable estaban dirigidos a: la asunción de un estilo  de  dirección  flexible  y  democrático  en  la  construcción  colectiva  de  un  proyecto educativo institucional (PEI) y de grupo (PEG) que viabilizara y tuviera como núcleo un currículo  institucional  integral,  flexible,  contextualizado  y  participativo;  el  logro  de  un proceso educativo desarrollador sustentado en el enfoque histórico - cultural, así como el redimensionamiento del trabajo metodológico desde la perspectiva de las potencialidades de la red socioeducativa y aprovechamiento de los centros de recursos del consejo popular.
 
@@ -1844,7 +1833,7 @@ Contextualizado: Comprende  el mayor  aprovechamiento de las potencialidades del
 
 Participativo: Expresa  la  resignificación  del  papel  de  la  familia  y  la  comunidad  en  la educación,  de  una  participación  pasiva,  de  acompañamiento  y  apoyo  a  la  implicación  y corresponsabilidad,  tanto  en  las  propuestas  como  en  el  desarrollo  de  las  actividades,  así como la implicación de los educandos en la propuesta y todos los docentes en su desarrollo.
 
-Otra de las formas de trabajo lo constituye el trabajo en la red socioeducativa: 'espacio para la interacción, colaboración y complementación de los diferentes agentes: las organizaciones e instituciones comunitarias, los líderes y figuras comunitarias, las entidades económicas  y  de  servicio,  por  medio  de  sus  administraciones  y  colectivos  laborales, también  los  Consejos  de  escuela  y  las  familias,  los  Delegados  del  Poder  Popular  y  el Presidente del Consejo, entre otros, así como de toda la infraestructura existente a nivel de cada  territorio,  para  su  implicación  en  el  proceso  educativo,  en  correspondencia  con  la política.
+Otra de las formas de trabajo lo constituye el trabajo en la red socioeducativa: “espacio para la interacción, colaboración y complementación de los diferentes agentes: las organizaciones e instituciones comunitarias, los líderes y figuras comunitarias, las entidades económicas y de servicio, por medio de sus administraciones y colectivos laborales, también los Consejos de escuela y las familias, los Delegados del Poder Popular y el Presidente del Consejo, entre otros, así como de toda la infraestructura existente a nivel de cada territorio, para su implicación en el proceso educativo, en correspondencia con la política.
 
 [[END OF PAGE 58]]
 
@@ -1962,7 +1951,7 @@ X  Las  disposiciones  legislativas,  políticas,  estrategias  o  planes  bási
 
 X El marco regulatorio establece normas mínimas para la educación digital que deben cumplir todos los agentes de la educación.
 
-X Se han adoptado medidas para eliminar las barreras para acceder a los contenidos digitales 45 , en  especial  garantizando  el  acceso  a  contenidos  digitales  adaptados  a  los  planes  de  estudio  y disponibles en plataformas nacionales gratuitas, públicas y multimodales; se elaboran contenidos de  alta  calidad,  disponibles  en  las  asignaturas  troncales,  en  la  lengua  o  lenguas  nacionales oficiales y con características inclusivas para ayudar a los alumnos con discapacidades Se han incorporado las competencias digitales en los planes de formación de docentes, antes del empleo y en el empleo, y en los planes de formación en liderazgo a fin de crear una cultura de innovación  digital  y  crecimiento  basada  en  la  equidad  y  la  inclusión  que  favorezca  el perfeccionamiento profesional continuo del personal ya existente y que se está contratando Se han integrado las competencias necesarias para adaptarse al futuro (incluidas competencias digitales,  competencias  en  materia  de  datos  e  IA,  pensamiento  crítico,  etc.)  en  los  planes  de estudio oficiales de todos los niveles de enseñanza X Se han adoptado medidas para reducir la brecha digital, en especial garantizando un suministro de electricidad fiable, una buena conectividad a Internet en la escuela y en casa, y el acceso a dispositivos  adecuados  para  el  aprendizaje  y  la  enseñanza,  a  software  seguro  y  sostenible,  a plataformas seguras y a sistemas integrados de datos sobre la educación X  Se  ha  preparado  un  presupuesto  bien  establecido,  sostenible  y  costo  eficaz  financiado  por diversas  fuentes  y  la  cooperación  intersectorial,  y  respaldado  por  informes  centrados  en  el impacto y vinculados a los objetivos estratégicos regionales
+X Se han adoptado medidas para eliminar las barreras para acceder a los contenidos digitales 45, en especial garantizando el acceso a contenidos digitales adaptados a los planes de estudio y disponibles en plataformas nacionales gratuitas, públicas y multimodales; se elaboran contenidos
 
 > 44 Véase  la  observación  general  núm.  25  (2021)  del  Comité  de  los  Derechos  del  Niño  relativa  a  los  derechos  de  los  niños  en relación con el entorno digital.
 
@@ -1971,6 +1960,16 @@ X Se han adoptado medidas para eliminar las barreras para acceder a los contenid
 [[END OF PAGE 62]]
 
 [[START OF PAGE 63]]
+
+de alta calidad, disponibles en las asignaturas troncales, en la lengua o lenguas nacionales oficiales y con características inclusivas para ayudar a los alumnos con discapacidades
+
+Se han incorporado las competencias digitales en los planes de formación de docentes, antes del empleo y en el empleo, y en los planes de formación en liderazgo a fin de crear una cultura de innovación digital y crecimiento basada en la equidad y la inclusión que favorezca el perfeccionamiento profesional continuo del personal ya existente y que se está contratando
+
+Se han integrado las competencias necesarias para adaptarse al futuro (incluidas competencias digitales, competencias en materia de datos e IA, pensamiento crítico, etc.) en los planes de estudio oficiales de todos los niveles de enseñanza
+
+X Se han adoptado medidas para reducir la brecha digital, en especial garantizando un suministro de electricidad fiable, una buena conectividad a Internet en la escuela y en casa, y el acceso a dispositivos adecuados para el aprendizaje y la enseñanza, a software seguro y sostenible, a plataformas seguras y a sistemas integrados de datos sobre la educación
+
+X Se ha preparado un presupuesto bien establecido, sostenible y costo eficaz financiado por diversas fuentes y la cooperación intersectorial, y respaldado por informes centrados en el impacto y vinculados a los objetivos estratégicos regionales
 
 - Proporcione detalles sobre cada una de las medidas adoptadas.
 
@@ -1994,7 +1993,7 @@ Se trabaja con la Empresa de Telecomunicaciones de Cuba (ETECSA) en el desarroll
 
 Se cuenta con un Canal Educativo que produce y transmite programación en función del currículo escolar, 8 horas diarias en coordinación con el Ministerio de Educación.
 
-Contamos en cada salón de clases con un Televisor de 32', como medio de enseñanza para el  uso  de  los  docentes  con  capacidad  de  grabar  y  reproducir  videos  y  audios,  así  como presentaciones digitales.
+Contamos en cada salón de clases con un Televisor de 32”, como medio de enseñanza para el uso de los docentes con capacidad de grabar y reproducir videos y audios, así como presentaciones digitales.
 
 ¿Con qué dificultades se ha tropezado a la hora de impartir educación digital? (marque todas las que procedan).
 
@@ -2034,7 +2033,7 @@ Universidad.
 
 ## 4 Consolidación de los sistemas de gobernanza
 
-A  fines  de  referencia,  el  Marco  de  Acción  Educación  2030  establece  que  'para  garantizar  la calidad  de  la  educación  y  crear  condiciones  que  permitan  obtener  resultados  eficaces  en  este ámbito, los gobiernos deberán reforzar los sistemas educativos mediante la creación y mejora de mecanismos de gobernanza y rendición de cuentas adecuados, eficaces e inclusivos; la garantía de la  calidad;  sistemas  de  gestión  e  información  de  la  educación;  procedimientos  y  mecanismos  de financiación transparentes y eficaces; y acuerdos institucionales de gestión, así como procurar que se disponga de información fiable, oportuna y accesible' (párr. 18).
+A fines de referencia, el Marco de Acción Educación 2030 establece que “para garantizar la calidad de la educación y crear condiciones que permitan obtener resultados eficaces en este ámbito, los gobiernos deberán reforzar los sistemas educativos mediante la creación y mejora de mecanismos de gobernanza y rendición de cuentas adecuados, eficaces e inclusivos; la garantía de la calidad; sistemas de gestión e información de la educación; procedimientos y mecanismos de financiación transparentes y eficaces; y acuerdos institucionales de gestión, así como procurar que se disponga de información fiable, oportuna y accesible” (párr. 18).
 
 - Indique  las  medidas  adoptadas  en  términos  de  gobernanza  (marque  todos  los  puntos  que correspondan).
 
