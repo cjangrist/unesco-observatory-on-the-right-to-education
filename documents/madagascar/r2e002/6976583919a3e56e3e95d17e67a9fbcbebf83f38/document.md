@@ -43,12 +43,20 @@ reconnues comme étant :
 
 - la préservation de la paix et la pratique de la solidarité en signes de devoir de
 
-1 http://www.la-constitution-en-afrique.org/article-12939901.html conservation de l'unité nationale, dans la mise en œuvre d'une politique de développement équilibré et harmonieux sur tous les plans ; - le respect et la protection des libertés et droits fondamentaux ; - l'instauration d'un Etat de droit en vertu duquel les gouvernants et les gouvernés sont soumis aux mêmes normes juridiques, sous le contrôle d'une justice indépendante ; - la lutte contre l'injustice, la corruption, les inégalités et la discrimination sous toutes ses formes ; - la gestion rationnelle et équitable des ressources naturelles pour les besoins du développement de l'être humain ; - la bonne gouvernance et la transparence dans la conduite des affaires publiques ; - la séparation et l'équilibre des pouvoirs exercés à travers des procédés démocratiques ; - l'application effective de la décentralisation ;
+1 http://www.la-constitution-en-afrique.org/article-12939901.html
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
+conservation de l'unité nationale, dans la mise en œuvre d'une politique de développement équilibré et harmonieux sur tous les plans ;
+- le respect et la protection des libertés et droits fondamentaux ;
+- l'instauration d'un Etat de droit en vertu duquel les gouvernants et les gouvernés sont soumis aux mêmes normes juridiques, sous le contrôle d'une justice indépendante ;
+- la lutte contre l'injustice, la corruption, les inégalités et la discrimination sous toutes ses formes ;
+- la gestion rationnelle et équitable des ressources naturelles pour les besoins du développement de l'être humain ;
+- la bonne gouvernance et la transparence dans la conduite des affaires publiques ;
+- la séparation et l'équilibre des pouvoirs exercés à travers des procédés démocratiques ;
+- l'application effective de la décentralisation ;
 Déclare :
 
 ## TITRE PREMIER LES PRINCIPES FONDAMENTAUX
@@ -60,7 +68,7 @@ La République de Madagascar est organisée en Collectivités territoriales déc
 ##### Article 3 -
 Le territoire national est inaliénable.
 ##### Article 4 -
-La République de Madagascar a pour devise : " Tanindrazana - Fahafahana Fandrosoana ". Son emblème national est le drapeau tricolore, blanc, rouge, vert, composé de trois bandes rectangulaires d'égales dimensions, la première verticale de couleur blanche du côté de la hampe, les deux autres horizontales, la supérieure rouge et l'inférieure verte. L'hymne national est " Ry Tanindrazanay malala ô ! " Les sceaux de l'Etat et les armoiries de la République sont définis par la loi. Le malagasy est la langue nationale. Le malagasy, le français et l'anglais sont les langues officielles.
+La République de Madagascar a pour devise : " Tanindrazana - Fahafahana - Fandrosoana ". Son emblème national est le drapeau tricolore, blanc, rouge, vert, composé de trois bandes rectangulaires d'égales dimensions, la première verticale de couleur blanche du côté de la hampe, les deux autres horizontales, la supérieure rouge et l'inférieure verte. L'hymne national est " Ry Tanindrazanay malala ô ! " Les sceaux de l'Etat et les armoiries de la République sont définis par la loi. Le malagasy est la langue nationale. Le malagasy, le français et l'anglais sont les langues officielles.
 ##### Article 5 -
 La Capitale de la République de Madagascar est Antananarivo.
 ##### Article 6 -
@@ -139,7 +147,13 @@ Le droit de grève est reconnu sans préjudicier au principe de continuité du s
 ##### Article 34 -
 L'Etat garantit le droit de propriété individuelle. Nul ne peut en être privé sauf par voie d'expropriation pour cause d'utilité publique et avec une juste et préalable indemnisation.
 ##### Article 35 -
-Le Fokonolona est la base du développement. Le Fokonolona peut prendre des mesures appropriées tendant à s'opposer à des actes susceptibles de détruire l'environnement, de le déposséder de ses terres, d'accaparer les espaces traditionnellement affectés aux troupeaux de bœufs ou son patrimoine rituel, sans que ces mesures puissent porter atteinte à l'intérêt général et à l'ordre public. La portée et les modalités de ces dispositions sont déterminées par la loi.
+Le Fokonolona est la base du développement. Le Fokonolona peut prendre des mesures appropriées tendant à s'opposer à des actes susceptibles de détruire l'environnement, de le déposséder de ses terres, d'accaparer les
+
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
+espaces traditionnellement affectés aux troupeaux de bœufs ou son patrimoine rituel, sans que ces mesures puissent porter atteinte à l'intérêt général et à l'ordre public. La portée et les modalités de ces dispositions sont déterminées par la loi.
 ##### Article 36 -
 La participation de chaque citoyen aux dépenses publiques doit être progressive et calculée en fonction de sa capacité contributive.
 ##### Article 37 -
@@ -150,10 +164,6 @@ L'Etat garantit la sécurité des capitaux et des investissements.
 Toute personne a l'obligation de respecter les valeurs culturelles, les biens publics et l'environnement. L'Etat et les Collectivités territoriales décentralisées assurent la protection, la conservation et la valorisation de l'environnement par des mesures appropriées.
 ##### Article 40 -
 L'Etat garantit la neutralité politique de l'administration, des forces armées, de la justice, de l'enseignement et de l'éducation. L'Etat assure, par l'institution d'organismes spécialisés, la promotion et la protection des droits de l'homme.
-
-[[END OF PAGE 4]]
-
-[[START OF PAGE 5]]
 
 ## TITRE III DE L'ORGANISATION DE L'ETAT
 
@@ -189,7 +199,14 @@ L'empêchement temporaire du Président de la République peut être déclaré p
 ##### Article 51 -
 La levée de l'empêchement temporaire est décidée par la Haute Cour Constitutionnelle. L'empêchement temporaire ne peut dépasser une période de six mois, à l'issue de laquelle la Haute Cour Constitutionnelle, sur la saisine du Parlement dans les conditions de l'article 50, peut se prononcer sur la transformation de l'empêchement temporaire en empêchement définitif.
 ##### Article 52 -
-En cas de vacance de la Présidence de la République par suite de démission, de décès, d'empêchement définitif dans les conditions prévues à l'article 51 alinéa 2 ou de déchéance prononcée en application de l'article 126, il est procédé à l'élection d'un nouveau Président conformément aux dispositions des articles 46 et 47 ci-dessus. La vacance est constatée par la Haute Cour Constitutionnelle. Dès la constatation de la vacance de la Présidence de la République, les fonctions de Chef de l'Etat sont provisoirement exercées, jusqu'à l'entrée en fonction du Président élu ou jusqu'à la levée de l'empêchement temporaire, par le Président du Sénat ou, en cas de vacance de poste ou d'incapacité du Président du Sénat constatée par la Haute Cour Constitutionnelle, par le Gouvernement collégialement. Pendant la période allant de la constatation de la vacance à l'investiture du nouveau Président ou à la levée de l'empêchement temporaire, il ne peut être fait application des articles 94, 97, 98 et 152 à 154 de la Constitution.
+En cas de vacance de la Présidence de la République par suite de démission, de décès, d'empêchement définitif dans les conditions prévues à l'article 51 alinéa 2 ou de déchéance prononcée en application de l'article 126, il est procédé à l'élection d'un nouveau Président conformément aux dispositions des articles 46 et 47 ci-dessus. La vacance est constatée par la Haute Cour Constitutionnelle. Dès la constatation de la vacance de la Présidence de la République, les fonctions de Chef de l'Etat sont provisoirement exercées, jusqu'à l'entrée en fonction du Président élu ou jusqu'à la levée de l'empêchement temporaire, par le Président du Sénat ou, en cas de
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
+vacance de poste ou d'incapacité du Président du Sénat constatée par la Haute Cour Constitutionnelle, par le Gouvernement collégialement.
+Pendant la période allant de la constatation de la vacance à l'investiture du nouveau Président ou à la levée de l'empêchement temporaire, il ne peut être fait application des articles 94, 97, 98 et 152 à 154 de la Constitution.
 ##### Article 53 -
 Le Président de la République nomme le Premier Ministre. Il met fin à ses fonctions pour toute cause déterminante. Sur proposition du Premier Ministre, il nomme les autres membres du Gouvernement et met fin à leurs fonctions.
 ##### Article 54 -
@@ -207,21 +224,13 @@ Le Président de la République peut prononcer la dissolution de l'Assemblée Na
 ##### Article 60 -
 Lorsque les Institutions de la République, l'indépendance de la Nation, son unité ou l'intégrité de son territoire sont menacées et que le fonctionnement régulier des pouvoirs publics se trouvent compromis, le Président de la République peut proclamer, sur tout ou partie du territoire national, la situation d'exception, à savoir la situation d'urgence, l'état de nécessité ou la loi martiale. La décision est prise par le Président de la République en Conseil des Ministres, après avis des Présidents de l'Assemblée Nationale, du Sénat et de la Haute Cour Constitutionnelle. La situation d'exception peut être prolongée au-delà de quinze jours dans les mêmes formes.
 
-[[END OF PAGE 6]]
-
-[[START OF PAGE 7]]
-
-(this page came through the extractor with no text)
-
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
 La proclamation de la situation d'exception confère au Président de la République des pouvoirs spéciaux dont l'étendue et la durée sont fixées par une loi organique. Dès la proclamation de l'une des situations d'exception précitées, le Président de la République peut légiférer par voie d'ordonnance pour des matières qui relèvent du domaine de la loi.
-##### Article 61
-alinéas 1er et 2, 57 alinéas 1 et 2, 58, 78, 94, 98, 101, 110, 113 à 115, sont
-
-- Les actes du Président de la République, hors les cas prévus aux articles 53 contresignés par le Premier Ministre et, le cas échéant, par les Ministres concernés.
+##### Article 61 -
+Les actes du Président de la République, hors les cas prévus aux articles 53 alinéas 1er et 2, 57 alinéas 1 et 2, 58, 78, 94, 98, 101, 110, 113 à 115, sont contresignés par le Premier Ministre et, le cas échéant, par les Ministres concernés.
 #### CHAPITRE II Du Gouvernement
 ##### Article 62 -
 Le Gouvernement est composé du Premier Ministre et des Ministres. Il met en œuvre la politique générale de l'Etat. Il est responsable devant l'Assemblée nationale dans les conditions prévues aux articles 94 et 97 ci-dessous. Le Gouvernement dispose de l'Administration d'Etat.
@@ -258,7 +267,7 @@ L'Assemblée Nationale se réunit de plein droit en deux sessions ordinaires par
 ##### Article 73 -
 L'Assemblée Nationale est réunie en session extraordinaire, sur un ordre du jour déterminé, par décret du Président de la République pris en Conseil des Ministres soit à l'initiative du Président de la République, soit à la demande de la majorité absolue des membres composant l'Assemblée Nationale. La durée de la session ne peut excéder douze jours. Toutefois, un décret de clôture intervient dès que l'Assemblée Nationale a épuisé l'ordre du jour pour lequel elle a été convoquée. Le Président de la République peut seul prendre l'initiative de convoquer une nouvelle session extraordinaire avant l'expiration d'un délai d'un mois qui suit la clôture.
 ##### Article 74 -
-Les séances de l'Assemblée Nationale sont publiques. Il en est tenu procèsverbal dont la publicité est assurée dans les conditions prévues par la loi. L'Assemblée Nationale siège à huis clos à la demande du Gouvernement ou du quart de ses membres. Il est dressé procès - verbal des débats.
+Les séances de l'Assemblée Nationale sont publiques. Il en est tenu procès-verbal dont la publicité est assurée dans les conditions prévues par la loi. L'Assemblée Nationale siège à huis clos à la demande du Gouvernement ou du quart de ses membres. Il est dressé procès - verbal des débats.
 ##### Article 75 -
 La nouvelle Assemblée Nationale se réunit de plein droit en session spéciale le deuxième mardi qui suit la proclamation des résultats de son élection pour procéder à la constitution de son bureau. La session est close après épuisement de l'ordre du jour.
 
