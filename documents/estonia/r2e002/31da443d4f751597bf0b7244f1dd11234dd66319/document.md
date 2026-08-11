@@ -18,6 +18,12 @@ In force until: 31.03.2022
 
 Translation published: 23.05.2019
 
+# Vocational Educational Institutions Act
+
+Passed 12.06.2013 RT I, 02.07.2013, 1 Entry into force 01.09.2013
+
+## Chapter 1 General Provisions
+
 ### § 1.  Scope of application of Act
 
 - The Vocational Educational Institutions Act provides the bases for the establishment, maintenance, transfer, reorganisation and closure of vocational educational institutions (hereinafter schools), the bases for the right to provide instruction, management, organisation of studies and financing, the functions of schools, the rights and obligations of members of schools, and administrative supervision over the activities of schools.
@@ -76,12 +82,6 @@ Translation published: 23.05.2019
 
 (1) State schools are state agencies administered by the Ministry of Education and Research. The manager of a state school shall be the state represented by the Ministry of Education and Research.
 
-# Vocational Educational Institutions Act
-
-Passed 12.06.2013 RT I, 02.07.2013, 1 Entry into force 01.09.2013
-
-## Chapter 1 General Provisions
-
 https://www.riigiteataja.ee/en/eli/ee/Riigikogu/act/523052019004/consolide
 
 1/17
@@ -110,7 +110,7 @@ Vocational Educational Institutions Act - Riigi Teataja
 
 - After the establishment of a school the manager of a school shall apply for the right to provide instruction from the minister responsible for the area on the conditions and pursuant to the procedure provided for in this Act. [RT I, 28.12.2018, 3 - entry into force 01.01.2019]
 
-- The data of the school shall be entered in the Estonian Education Information System (hereinafter Education Information System) founded on the basis of subsection 36 6  (4) of the Republic of Estonia Education Act.
+- The data of the school shall be entered in the Estonian Education Information System (hereinafter Education Information System) founded on the basis of subsection 36⁶ (4) of the Republic of Estonia Education Act.
 
 - State and municipal schools shall be registered in the state register of state and local government agencies.
 
@@ -219,7 +219,7 @@ Vocational Educational Institutions Act - Riigi Teataja
 
 - Before the submission of an application, the municipal school shall pay the state fee.
 
-### § 10 1 .  Application for right to provide instruction in personal development curriculum group
+### § 10¹.  Application for right to provide instruction in personal development curriculum group
 
 - In order to commence the provision of instruction in personal development curriculum group according to the choice of profession curriculum, a school shall submit an application and the relevant curriculum to the minister responsible for the area at least three months before the commencement of studies.
 
@@ -247,9 +247,9 @@ Vocational Educational Institutions Act - Riigi Teataja
 
 - whether the study to be opened is purposeful in view of the labour market forecast, existence of potential pupils, opinions provided in clauses 9 (2) 7) and 8) and clauses 10 (2) 4) and 5) and evidence-based nature of studies.
 
-(1 1 ) If a school having received the right to provide instruction for a specified term applies for the conduct of a repeated assessment in a relevant curriculum group, an internal assessment report shall be added to the application for a repeated assessment. [RT I, 28.12.2018, 3 - entry into force 01.01.2019]
+(1¹) If a school having received the right to provide instruction for a specified term applies for the conduct of a repeated assessment in a relevant curriculum group, an internal assessment report shall be added to the application for a repeated assessment. [RT I, 28.12.2018, 3 - entry into force 01.01.2019]
 
-(1 2 ) In the course of a repeated assessment the provisions of clauses (1) 1-3 of this section shall be assessed based on the internal assessment report added to the assessment application. [RT I, 28.12.2018, 3 - entry into force 01.01.2019]
+(1²) In the course of a repeated assessment the provisions of clauses (1) 1–3 of this section shall be assessed based on the internal assessment report added to the assessment application. [RT I, 28.12.2018, 3 - entry into force 01.01.2019]
 
 - The costs of assessment shall be covered by the applicant for the right to provide instruction. The costs of assessment and the procedure for covering thereof shall be approved with the directive of the minister responsible for the area whereas the cost shall not exceed 1200 euros.
 
@@ -315,7 +315,7 @@ Vocational Educational Institutions Act - Riigi Teataja
 
 - the school has submitted false information upon the application for the right to provide instruction or the assessment of quality;
 
-- significant non-conformities with the assessment criteria established by the assessment council formed on the basis of § 14 1  of this Act become apparent in the curriculum group;
+- significant non-conformities with the assessment criteria established by the assessment council formed on the basis of § 14¹ of this Act become apparent in the curriculum group;
 
 - the school has terminated its activity.
 
@@ -325,7 +325,7 @@ Vocational Educational Institutions Act - Riigi Teataja
 
 - A school cannot reapply for the right to provide instruction in a curriculum group in which the right to provide instruction has been repealed on the grounds provided for in clause (1) 1), 2) or 4) of this section within three years after entry into force of the decision of revocation.
 
-- A school having received a right to provide instruction in a curriculum group for a specified term shall, for the receipt of the right to provide instruction without a term, submit an application for a repeated assessment provided for in subsection 11 (1 1 ) of this Act together with the internal assessment report at least six months before expiry of the right to provide instruction. If a school having received the right to provide instruction in a curriculum group for a specified term fails to submit an application to the Ministry of Education and Research or if the minister responsible for the area makes a decision not to grant the right to provide instruction as a result of the repeated assessment, the right to provide instruction shall terminate upon expiry of the term.
+- A school having received a right to provide instruction in a curriculum group for a specified term shall, for the receipt of the right to provide instruction without a term, submit an application for a repeated assessment provided for in subsection 11 (1¹) of this Act together with the internal assessment report at least six months before expiry of the right to provide instruction. If a school having received the right to provide instruction in a curriculum group for a specified term fails to submit an application to the Ministry of Education and Research or if the minister responsible for the area makes a decision not to grant the right to provide instruction as a result of the repeated assessment, the right to provide instruction shall terminate upon expiry of the term.
 
 - If a school does not receive the right to provide instruction in a curriculum group without a term as a result of the third assessment, the right to provide instruction shall terminate upon expiry of the term.
 
@@ -333,7 +333,7 @@ Vocational Educational Institutions Act - Riigi Teataja
 
 - If the right to provide instruction is revoked based on the decision specified in subsection (1) of this section or it terminates upon expiry of the term due to the reason specified in subsection (5) of this section, the manager of a school shall notify the pupils or their legal representatives thereof and shall allow for the pupils to complete the studies either at the same or another school. [RT I, 28.12.2018, 3 - entry into force 01.01.2019]
 
-### § 14 1 .  Assessment of quality of vocational training
+### § 14¹.  Assessment of quality of vocational training
 
 (1) Assessment of the quality of vocational training (hereinafter assessment of quality) is an external assessment, based on an internal assessment, conducted by external independent assessors once in every six years. In the course thereof the performance and sustainability of teaching and education, including the development of curriculum, learning and teaching, leading and management and the use of resources shall be evaluated.
 
@@ -399,7 +399,7 @@ Vocational Educational Institutions Act - Riigi Teataja
 
 - report to the advisory body of the school and manager of the school;
 
-- 10 1 ) organise the preparation of the school's development plan, be liable for the implementation of the development plan and approve the report on the execution of the school's development plan;
+10¹) organise the preparation of the school's development plan, be liable for the implementation of the development plan and approve the report on the execution of the school's development plan;
 
 [RT I, 28.12.2018, 3 - entry into force 01.01.2019]
 
@@ -479,7 +479,7 @@ Vocational Educational Institutions Act - Riigi Teataja
 
 - approve the statutes of the student body of the school;
 
-- 11 1 ) approve the number of student training places per calendar year in a broad group of studies, curriculum group or curriculum, including the number of student training places in which the study costs are not reimbursed;
+11¹) approve the number of student training places per calendar year in a broad group of studies, curriculum group or curriculum, including the number of student training places in which the study costs are not reimbursed;
 
 [RT I, 28.12.2018, 3 - entry into force 01.01.2019]
 
@@ -581,7 +581,7 @@ The Government of the Republic shall establish by a regulation the Vocational Ed
 
 - for the purposes of this Act, continuing education means vocational studies in the course of which single competencies are acquired.
 
-(2 1 ) The choice of profession curriculum is a formal education curriculum in the course of which the competencies necessary for the commencement of professional studies shall be acquired on the second qualification level. [RT I, 28.12.2018, 3 - entry into force 01.01.2019]
+(2¹) The choice of profession curriculum is a formal education curriculum in the course of which the competencies necessary for the commencement of professional studies shall be acquired on the second qualification level. [RT I, 28.12.2018, 3 - entry into force 01.01.2019]
 
 - Formal education is undertaken on the second to fifth qualification level.
 
@@ -781,7 +781,7 @@ Vocational Educational Institutions Act - Riigi Teataja
 
 (1) Vocational training studies shall be deemed to be completed after the learning outcomes corresponding to the qualification or partial profession described in the curriculum have been achieved and a leaving certificate shall be issued to the graduate.
 
-(1 1 ) Choice of profession curriculum shall be deemed to be completed after the learning outcomes described in the curriculum have been achieved and a leaving certificate shall be issued to the graduate.
+(1¹) Choice of profession curriculum shall be deemed to be completed after the learning outcomes described in the curriculum have been achieved and a leaving certificate shall be issued to the graduate.
 
 [RT I, 28.12.2018, 3 - entry into force 01.01.2019]
 
@@ -855,9 +855,8 @@ Vocational Educational Institutions Act - Riigi Teataja
 
 - The qualification requirements provided for in the regulation of the minister responsible for the area established on the basis of Basic Schools and Upper Secondary Schools Act shall be applied to support specialists.
 
-- The head of school shall assess the compliance of teaching and education employees with the qualification requirements. Documents certifying foreign education shall be assessed on the conditions and pursuant to the procedure provided for in and procedure established in the Recognition of Foreign Professional Qualifications Act. The competent authority provided for in subsection
-
-established on the basis of § 28 1  of the Republic of Estonia Education Act. The recognition of professional qualifications of persons having acquired the foreign professional qualifications of a teacher or support specialist shall be based on the conditions and 7 (2) of the Recognition of Foreign Professional Qualifications Act is the Ministry of Education and Research. [RT I, 30.12.2015, 1 - entry into force 18.01.2016]
+- The head of school shall assess the compliance of teaching and education employees with the qualification requirements. Documents certifying foreign education shall be assessed on the conditions and pursuant to the procedure provided for in and established on the basis of § 28¹ of the Republic of Estonia Education Act. The recognition of professional qualifications of persons having acquired the foreign professional qualifications of a teacher or support specialist shall be based on the conditions and procedure established in the Recognition of Foreign Professional Qualifications Act. The competent authority provided for in subsection 7 (2) of the Recognition of Foreign Professional Qualifications Act is the Ministry of Education and Research.
+[RT I, 30.12.2015, 1 - entry into force 18.01.2016]
 
 - A vacant position of a teaching and education employee shall be filled by way of a public competition. A position of a teaching and education employee may be filled without organising a public competition if the time of work at the position is less than 50 per cent of full time.
 
@@ -917,7 +916,7 @@ acquisition of a professional certificate of a vocational teacher, except for a 
 
 [RT I, 28.12.2018, 3 - entry into force 01.01.2019]
 
-### § 41 1 .  Beginner's allowance for support specialists
+### § 41¹.  Beginner's allowance for support specialists
 
 - Beginner's allowance for support specialists is an allowance paid to a support specialist who commences work in a school for the first time.
 
@@ -931,7 +930,7 @@ acquisition of a professional certificate of a vocational teacher, except for a 
 
 - is proficient in Estonian at the C1 level provided for in the Language Act.
 
-- The beginner's allowance for a support specialist shall be applied for, the right to apply shall be extended, the allowance shall be paid and it shall be returned on the basis and pursuant to the procedure provided for in § 77 1  of the Basic Schools and Upper Secondary Schools Act.
+- The beginner's allowance for a support specialist shall be applied for, the right to apply shall be extended, the allowance shall be paid and it shall be returned on the basis and pursuant to the procedure provided for in § 77¹ of the Basic Schools and Upper Secondary Schools Act.
 
 [RT I, 28.12.2018, 3 - entry into force 01.01.2019]
 
@@ -1007,7 +1006,7 @@ Vocational Educational Institutions Act - Riigi Teataja
 
 - exercise other rights established by law, the statutes of the school and other legislation.
 
-(2 1 ) A pupil has the right to take the academic leave specified in clause (2) 9) of this section:
+(2¹) A pupil has the right to take the academic leave specified in clause (2) 9) of this section:
 
 - up to one year in case of an adult applicant who studies according to a curriculum with study volume of at least 60 credit points;
 
@@ -1025,7 +1024,7 @@ Vocational Educational Institutions Act - Riigi Teataja
 
 - Pupils studying according to vocational training curricula of rescue or police specialities in full-time study shall be entitled to the catering and accommodation financed from the state budget on the conditions and pursuant to the procedure established by the school.
 
-- The reimbursement of study costs may be demanded from pupils excluded from vocational training curricula of rescue or police specialty on the conditions and pursuant to the procedure provided for in § 691 of the Police and Border Guard Act. [RT I, 19.03.2019, 12 - entry into force 01.09.2019]
+- The reimbursement of study costs may be demanded from pupils excluded from vocational training curricula of rescue or police specialty on the conditions and pursuant to the procedure provided for in § 69¹ of the Police and Border Guard Act. [RT I, 19.03.2019, 12 - entry into force 01.09.2019]
 
 ## Chapter 8 Commissioned Education
 
@@ -1055,7 +1054,7 @@ Vocational Educational Institutions Act - Riigi Teataja
 
 - Activity support is a support allocated to a school for the organisation of high-quality vocational training and implementation of the school's development plan.
 
-- The components of activity support are basic financing, performance-based financing and ensuring of availability. The ratio of basic financing and performance-based financing components is at least 80 per cent basic financing and up to 20 per cent performancebased financing.
+- The components of activity support are basic financing, performance-based financing and ensuring of availability. The ratio of basic financing and performance-based financing components is at least 80 per cent basic financing and up to 20 per cent performance-based financing.
 
 - A support for specific purposes is an additional support determined for a school, if necessary, for the implementation of activities arising from the strategic objectives of the state.
 
@@ -1331,7 +1330,7 @@ Vocational Educational Institutions Act - Riigi Teataja
 
 - The right to provide instruction shall be deemed to be extended for six years in school curricula groups having received a positive assessment or full accreditation in the course of single elective accreditation conducted in 2011-2013 from the entry into force of this Act.
 
-- The right to provide instruction without a term shall be deemed to be granted to curricula groups for which a school has an accreditation for six years by 31 August 2019. The quality of vocational training of the recipient of the right to provide instruction without a term shall be assessed according to the provisions of § 141 of this Act. [RT I, 28.12.2018, 3 - entry into force 01.01.2019]
+- The right to provide instruction without a term shall be deemed to be granted to curricula groups for which a school has an accreditation for six years by 31 August 2019. The quality of vocational training of the recipient of the right to provide instruction without a term shall be assessed according to the provisions of § 14¹ of this Act. [RT I, 28.12.2018, 3 - entry into force 01.01.2019]
 
 - An assessment of the right to provide instruction shall be conducted in curricula groups in which a school has a valid right to provide instruction for three years by 31 August 2019 according to the provisions of § 11 of this Act. The costs of assessment shall be covered by the Ministry of Education and Research. [RT I, 28.12.2018, 3 - entry into force 01.01.2019]
 
@@ -1365,7 +1364,7 @@ Credit points shall be applied in parallel with study weeks from the entry into 
 
 ### § 63.  Transition related to financing of schools
 
-- The financing of schools shall be brought into conformity with the requirements provided for in § 47 of this Act by 1 January 2014. Until 31 December 2013, vocational training shall be financed on the basis of §§ 33 2 -33 4  of the Vocational Educational Institutions Act (RT I, 08.07.2011, 9) applicable before entry into force of this Act.
+- The financing of schools shall be brought into conformity with the requirements provided for in § 47 of this Act by 1 January 2014. Until 31 December 2013, vocational training shall be financed on the basis of §§ 33²–33⁴ of the Vocational Educational Institutions Act (RT I, 08.07.2011, 9) applicable before entry into force of this Act.
 
 (2) The allowance for covering the expenses of school lunch specified in § 48 of this Act shall apply to pupils studying in full-time study according to the curricula of vocational training without the requirement of basic education, vocational training on the basis of basic education and vocational secondary education or in full-time study according to the pre-training curricula.
 
