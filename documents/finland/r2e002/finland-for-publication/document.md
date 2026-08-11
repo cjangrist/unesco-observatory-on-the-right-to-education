@@ -6,27 +6,27 @@
 
 ### A. About the 1974 Recommendation
 
-- UNESCO's 1974 Recommendation concerning Education for International Understanding, Cooperation and Peace and Education relating to Human Rights and Fundamental Freedoms 1 (the ' 1974  Recommendation' )  aims  to  promote  international  education  and  world  peace  through understanding, solidarity and cooperation. It was adopted on 19 November 1974 by the General Conference of UNESCO at its 18th session.
+1. UNESCO’s 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms¹ (the “1974 Recommendation”) aims to promote international education and world peace through understanding, solidarity and cooperation. It was adopted on 19 November 1974 by the General Conference of UNESCO at its 18th session.
 
-- The 1974 Recommendation applies to formal, non-formal and informal education and to all levels,  from  pre-primary  to  tertiary  and  adult  education  and  lifelong  learning.  The  General Conference recommended ' that Member States should apply ' the provisions included in the 1974 Recommendation ' by  taking  whatever  legislative  or  other  steps '  that  provide  institutional  (e.g. policies  and  legal  frameworks)  and  pedagogical  (e.g.  curricula,  teacher  training,  educational materials,  equipment,  and  student  assessment)  support  for  its    implementation,  based  on  the ' objectives ', referred to in paragraph 4 of the 1974 Recommendation , ' regarded as major guiding principles  of  education  policy '  including:  an  international  dimension  and  a  global  perspective  on education, cultural diversity, interdependence, communication, rights and responsibilities, international solidarity and cooperation, and problem solving.
+2. The 1974 Recommendation applies to formal, non-formal and informal education and to all levels, from pre-primary to tertiary and adult education and lifelong learning. The General Conference recommended “that Member States should apply” the provisions included in the 1974 Recommendation “by taking whatever legislative or other steps” that provide institutional (e.g. policies and legal frameworks) and pedagogical (e.g. curricula, teacher training, educational materials, equipment, and student assessment) support for its implementation, based on the “objectives”, referred to in paragraph 4 of the 1974 Recommendation, “regarded as major guiding principles of education policy” including: an international dimension and a global perspective on education, cultural diversity, interdependence, communication, rights and responsibilities, international solidarity and cooperation, and problem solving.
 
-- Today,  the  principles  of  the 1974  Recommendation apply  equally  well  to  Education  for Sustainable  Development  (ESD)  and  to  Global  Citizenship  Education  (GCED)  and  therefore represent  a  powerful  tool  for  promoting  the  2030  Agenda  for  Sustainable  Development  and  in particular  SDG  Target  4.7  on  the  promotion  of  sustainable  development  and  global  citizenship through education, Target 12.8 on access to information on sustainable development and Target 13.3 on climate change education.
+3. Today, the principles of the 1974 Recommendation apply equally well to Education for Sustainable Development (ESD) and to Global Citizenship Education (GCED) and therefore represent a powerful tool for promoting the 2030 Agenda for Sustainable Development and in particular SDG Target 4.7 on the promotion of sustainable development and global citizenship through education, Target 12.8 on access to information on sustainable development and Target 13.3 on climate change education.
 
-- The General Conference in its 39th session recommended  the use of the 1974 Recommendation reporting process to support the implementation and monitoring of Target 4.7 of Sustainable Development Goal 4 (39 C/Resolution 79). The UNESCO Executive Board at its 209th session  approved  the  use  of  the  current  guidelines  for  both  the  monitoring  of  the 1974 Recommendation and the collection of data needed for the following global SDG indicator for which UNESCO is custodian (209 EX/Decision 18.II):
+4. The General Conference in its 39th session recommended the use of the 1974 Recommendation reporting process to support the implementation and monitoring of Target 4.7 of Sustainable Development Goal 4 (39 C/Resolution 79). The UNESCO Executive Board at its 209th session approved the use of the current guidelines for both the monitoring of the 1974 Recommendation and the collection of data needed for the following global SDG indicator for which UNESCO is custodian (209 EX/Decision 18.II):
 
-- 4.7.1, 12.8.1 and 13.3.1: The extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education and (d) student assessment.
+4.7.1, 12.8.1 and 13.3.1: The extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education and (d) student assessment.
 
-- Questions marked with an asterisk (*) will be used in the calculation of the respective indicators ( Table 1 ). As approved by the Inter-Agency and Expert Group on the SDG Indicators, the indicators will be calculated for primary and secondary education only.
+5. Questions marked with an asterisk (*) will be used in the calculation of the respective indicators (Table 1). As approved by the Inter-Agency and Expert Group on the SDG Indicators, the indicators will be calculated for primary and secondary education only.
+
+Table 1 Questions used in the calculation of the global SDG indicator for Targets 4.7, 12.8 and 13.3
 
 Policies | Curricula | Teacher education | Student assessment
 --- | --- | --- | ---
 A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
-Table 1 Questions used in the calculation of the global SDG indicator for Targets 4.7, 12.8 and 13.3
-
 ### B. Reporting obligations
 
-- The  General  Conference,  at  its  18th  session,  when  adopting  the 1974  Recommendation recommended ' that  Member  States  submit  […]  reports  concerning  the  action  taken  by  them  in pursuance  of  this  recommendation '.  Moreover,  in  accordance  with  Article  VIII  of  UNESCO's
+6. The General Conference, at its 18th session, when adopting the 1974 Recommendation recommended “that Member States submit […] reports concerning the action taken by them in pursuance of this recommendation”. Moreover, in accordance with Article VIII of UNESCO’s
 
 > 1 http://portal.unesco.org/en/ev.php-URL_ID=13088&URL_DO=DO_TOPIC&URL_SECTION=201.html
 
@@ -34,19 +34,19 @@ Table 1 Questions used in the calculation of the global SDG indicator for Target
 
 [[START OF PAGE 2]]
 
-Constitution ' Each Member State shall submit to the Organization […] reports […] on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4 .'
+Constitution “Each Member State shall submit to the Organization […] reports […] on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4.”
 
-- Thus, all UNESCO Member States are expected to report on the steps they have taken to implement the 1974 Recommendation preferably by completing the following questionnaire. Such reporting takes place every four years.
+7. Thus, all UNESCO Member States are expected to report on the steps they have taken to implement the 1974 Recommendation preferably by completing the following questionnaire. Such reporting takes place every four years.
 
 ## II. Guidelines for completion of the questionnaire
 
-- This questionnaire and its accompanying guidelines are addressed to Ministers responsible for relations with UNESCO. The questionnaire is typically completed by Ministries of Education and other government authorities responsible for education. Responses should cover, as far as possible, education  at  all  levels  of  government,  including  sub-national  levels  where  applicable  as  well  as education outside the government sector.
+8. This questionnaire and its accompanying guidelines are addressed to Ministers responsible for relations with UNESCO. The questionnaire is typically completed by Ministries of Education and other government authorities responsible for education. Responses should cover, as far as possible, education at all levels of government, including sub-national levels where applicable as well as education outside the government sector.
 
-- National  respondents  are  encouraged  to consult  widely both  within,  across  and  beyond government, including with Ministries of Environment, with national human rights institutions, the education sector, civil society partners and others, as necessary, to gather the information needed to complete the questionnaire.
+9. National respondents are encouraged to consult widely both within, across and beyond government, including with Ministries of Environment, with national human rights institutions, the education sector, civil society partners and others, as necessary, to gather the information needed to complete the questionnaire.
 
-- Responses to the seventh consultation should cover:
+10. Responses to the seventh consultation should cover:
 
-(i)      the time period 2017-2020;
+(i) the time period 2017-2020;
 
 (ii) education at all levels of formal education from pre-primary to tertiary education as well as non-formal education;
 
@@ -54,11 +54,11 @@ Constitution ' Each Member State shall submit to the Organization […] reports 
 
 (iv) where possible, education outside the government sector.
 
-- To assist countries in responding to this questionnaire, UNESCO has developed the following set of global citizenship education and education for sustainable development themes. The list is based on a review of current common practices in many countries as well as a review of relevant literature. While the terms ESD and GCED may be used differently in some countries, the list of themes typically captures what are seen as key elements of Target 4.7. Please refer to the definitions of key terms in Section III before completing the questionnaire.
+11. To assist countries in responding to this questionnaire, UNESCO has developed the following set of global citizenship education and education for sustainable development themes. The list is based on a review of current common practices in many countries as well as a review of relevant literature. While the terms ESD and GCED may be used differently in some countries, the list of themes typically captures what are seen as key elements of Target 4.7. Please refer to the definitions of key terms in Section III before completing the questionnaire.
 
 ### Global citizenship education and education for sustainable development
 
-- cultural diversity and tolerance
+1. cultural diversity and tolerance
 
 - 1.1 international or intercultural understanding, solidarity and cooperation
 
@@ -66,7 +66,7 @@ Constitution ' Each Member State shall submit to the Organization […] reports 
 
 - 1.3 local, national and/or global citizenship
 
-- gender equality education
+2. gender equality education
 
 - 2.1 gender-based equal opportunities
 
@@ -74,7 +74,7 @@ Constitution ' Each Member State shall submit to the Organization […] reports 
 
 - 2.3 gender roles, identity and stereotypes
 
-- human rights education
+3. human rights education
 
 - 3.1 equality and  non-discrimination based  on  race, colour, language,  religion, disability, political or other opinion, national or social origin, birth or other status
 
@@ -82,7 +82,7 @@ Constitution ' Each Member State shall submit to the Organization […] reports 
 
 - 3.3 respect for human rights and fundamental freedoms (as outlined in international conventions and declarations)
 
-- peace and non-violence
+4. peace and non-violence
 
 - 4.1 friendly relations among peoples and nations
 
@@ -94,7 +94,7 @@ Constitution ' Each Member State shall submit to the Organization […] reports 
 
 - 4.3 preventing all forms of violence including bullying, verbal abuse and gender-based violence
 
-- climate change education
+5. climate change education
 
 - 5.1 mitigation
 
@@ -104,7 +104,7 @@ Constitution ' Each Member State shall submit to the Organization […] reports 
 
 - 5.4 early warning
 
-- environmental sustainability
+6. environmental sustainability
 
 - 6.1 caring for the planet, protecting nature
 
@@ -112,7 +112,7 @@ Constitution ' Each Member State shall submit to the Organization […] reports 
 
 - 6.3 biodiversity, water
 
-- human survival and well-being
+7. human survival and well-being
 
 - 7.1 environmental health as it pertains to human well-being, disaster risk reduction
 
@@ -120,7 +120,7 @@ Constitution ' Each Member State shall submit to the Organization […] reports 
 
 - 7.3 sustainable cities and communities
 
-- sustainable consumption and production
+8. sustainable consumption and production
 
 - 8.1 responsible and sustainable lifestyles
 
@@ -143,7 +143,7 @@ Themes of global citizenship and education for sustainable development
 4. Peace and non-violence | Education about peace and peace-building, mediation, conflict prevention and resolution, non-violence, reconciliation and living together peacefully. It includes advocating for friendly relations among peoples and nations, challenging negative stereotypes, promoting peaceful solutions, learning to live together and preventing violent extremism and other forms of violence including bullying.
 5. Climate change education | Education to help people, in particular youth, understand, address, mitigate, and adapt to the impacts of climate change. It encourages changes in attitudes and behaviours needed to put the world on a more sustainable development path, and build a new generation of climate change-aware citizens. It covers various responses to climate change including mitigation, adaptation, impact reduction and early warning.
 6. Environmental sustainability | Education about responsible interactions with the environment to avoid depletion or degradation and to promote environmental quality and health. It includes, caring for the planet and protecting nature, environmental justice, biodiversity and water.
-7. Human survival and well- being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
+7. Human survival and well-being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
 8. Sustainable consumption and production | Education on the use and production of resources, products and services that have a minimal adverse impact on the environment. It promotes resource and energy efficiency, sustainable infrastructure and green jobs.
 
 [[END OF PAGE 4]]
@@ -225,13 +225,13 @@ UNESCO Chairs in Finland
 
 ## VI. Questionnaire
 
-### Laws and policies (preamble and paras 4 and 7 of the 1974 Recommendation )
+### A. Laws and policies (preamble and paras 4 and 7 of the 1974 Recommendation)
 
 - A1a. Please describe any specific national or sub-national laws, legislation or legal framework(s) in your  country  that  govern  the  promotion  of  global  citizenship  education  (GCED)  and/or education for sustainable development (ESD). Explain whether GCED and/or ESD themes 2 are mentioned explicitly or are inferred and what types or levels of education are covered.
 
 The constitution provides a strong basis for equal rights, also in education. Discrimination in education, is fully outlawed in Finland. The Non-Discrimination Act (1325/2014) in Finland has a broad approach in defining discrimination, and obligates employers and organizations, including in education, to prepare non-discrimination plans.
 
-One of the basic principles of Finnish education is that all people must have equal access to highquality  education  and  training.  The  same  educational  opportunities  should  be  available  to  all citizens irrespective of their ethnic origin, age, wealth or where they live. In Finland, the basic rights and liberties, as stipulated by the Constitution of Finland (731/1999), apply also to foreigners residing in Finland. According to chapter 2, section 6 of the Constitution, everyone is equal before the law. No one shall, without an acceptable reason, be treated differently from other persons on the grounds of sex, age, origin, language, religion, conviction, opinion, health, disability or other reason that concerns his or her person.
+One of the basic principles of Finnish education is that all people must have equal access to high-quality education and training. The same educational opportunities should be available to all citizens irrespective of their ethnic origin, age, wealth or where they live. In Finland, the basic rights and liberties, as stipulated by the Constitution of Finland (731/1999), apply also to foreigners residing in Finland. According to chapter 2, section 6 of the Constitution, everyone is equal before the law. No one shall, without an acceptable reason, be treated differently from other persons on the grounds of sex, age, origin, language, religion, conviction, opinion, health, disability or other reason that concerns his or her person.
 
 Act on Early Childhood Education and Care (540/2018): The Act on Early Childhood Education and Care (ECEC) lays down provisions on the right of a child to early childhood education and care, organisation and provision of early childhood education and care, and the data repository for early childhood education and care. According to the act, the objective of ECEC is to promote the comprehensive development and growth, health and wellbeing of a child in an age-appropriate manner,  support  the  prerequisites  of  learning  and  educational  equality,  to  implement  diverse pedagogical  activities  based  on  play,  arts  and  cultural  heritage  of  a  child  and  thus,  promote positive experiences of learning. The act also stipulates that the ECEC environment shall be safe, healthy and conducive to learning. Further, the objective of ECEC is to provide every child equal opportunity  for  ECEC,  promote  equity  and  gender  equality  and  provide  competences  for understanding  and  valuing  cultural  heritage,  as  well  as  the  linguistic,  cultural  and  religious background of others. The objective is to develop the interpersonal skills of a child, including communication skills, and support his/her growth to act ethically, responsibly and sustainably in society, while respecting others.
 
@@ -239,7 +239,9 @@ The act has recently been amended, and it entered into force in August 2020. The
 
 Legislation on ECEC: https://minedu.fi/en/legislation-ecec
 
-Basic Education Act (628/1998): The Act gives provisions on pre-primary education, on basic education and on morning and afternoon activities. The Act stipulates the purpose of education as 'to support pupils' growth into humanity and into ethically responsible membership of society and to provide them with knowledge and skills needed in life'. The Act also stipulates that every pupil has a right to safe learning environment. The education provider shall draw up a plan, in connection  with  curriculum  design,  for  safeguarding  pupils  against  violence,  bullying  and harassment, execute the plan and supervise adherence to it and its implementation. A pupil is also entitled to free pupil welfare necessary for participation in education. Pupil welfare means action promoting and maintaining good learning, good mental and physical health and social wellbeing, and conditions conducive to these. Translation in English: https://www.finlex.fi/fi/laki/kaannokset/1998/en19980628.pdf Key legislation on general education: https://minedu.fi/en/legislation-general-education
+Basic Education Act (628/1998): The Act gives provisions on pre-primary education, on basic education and on morning and afternoon activities. The Act stipulates the purpose of education as “to support pupils' growth into humanity and into ethically responsible membership of society and to provide them with knowledge and skills needed in life”. The Act also stipulates that every pupil has a right to safe learning environment. The education provider shall draw up a plan, in connection with curriculum design, for safeguarding pupils against violence, bullying and harassment, execute the plan and supervise adherence to it and its implementation. A pupil is also entitled to free pupil welfare necessary for participation in education. Pupil welfare means action promoting and maintaining good learning, good mental and physical health and social well-being, and conditions conducive to these.
+Translation in English: https://www.finlex.fi/fi/laki/kaannokset/1998/en19980628.pdf
+Key legislation on general education: https://minedu.fi/en/legislation-general-education
 
 Government Decree on the  National Objectives for  Education  Referred  to  in  the  Basic Education Act and on the Distribution of Lesson Hours (422/2012) contains provisions on the general national objectives for comprehensive school education and on the distribution of lesson hours. The national goals of education are laid down in the Basic Education Act and, in greater detail, in the Government Decree.
 
@@ -249,7 +251,7 @@ Government Decree on the  National Objectives for  Education  Referred  to  in  
 
 [[START OF PAGE 10]]
 
-Section 2 of the Government Decree underlines the educational task of the school. Supporting the pupils' growth as human beings and into ethically responsible members of society is a central goal.  Education must also support the pupils' growth into balanced adults with a healthy selfesteem. Pursuant to the Decree, education promotes knowledge and understanding of cultures and ideological, philosophical and religious traditions, including Christian ones, and the heritage of  Western  humanism.  In  addition  to  respecting  life,  other  people  and  nature,  the  Decree highlights the inviolability of human dignity, respect for human rights and the democratic values of Finnish society, including equity and equality. General knowledge and ability is also seen to include cooperation and responsibility, promotion of health and well-being, learning good habits and manners, and promotion of sustainable development.
+Section 2 of the Government Decree underlines the educational task of the school. Supporting the pupils' growth as human beings and into ethically responsible members of society is a central goal. Education must also support the pupils' growth into balanced adults with a healthy self-esteem. Pursuant to the Decree, education promotes knowledge and understanding of cultures and ideological, philosophical and religious traditions, including Christian ones, and the heritage of Western humanism. In addition to respecting life, other people and nature, the Decree highlights the inviolability of human dignity, respect for human rights and the democratic values of Finnish society, including equity and equality. General knowledge and ability is also seen to include cooperation and responsibility, promotion of health and well-being, learning good habits and manners, and promotion of sustainable development.
 
 Pursuant to Section 3 of the Government Decree, a key goal of education is laying a foundation on  which  the  pupils  can  build  extensive  general  knowledge  and  abilities  and  broaden  their worldview.
 
@@ -273,47 +275,47 @@ Universities Act (English) : https://www.finlex.fi/fi/laki/kaannokset/2009/en200
 
 According to Liberal Adult Education Act (632/1998) the purpose of liberal adult education is to provide education and training that supports people's versatile development, cohesion of society, equality,  sustainable  development,  multiculturalism,  internationalization  and  active  citizenship based on the principle of lifelong learning.
 
-The purpose of the Youth Act (1285/2016) is to 1) promote the social inclusion of young people and  provide  them  with  opportunities  for  exerting  an  influence  and  improve  their  skills  and capabilities to function in society; 2) support the growth, independence and sense of community of young people and facilitate the acquisition of knowledge and adoption of skills necessary for this  purpose; 3) support young people's free-time pursuits and engagement in civic society;4) promote non-discrimination and equality among young people and the realisation of their rights; and  5)  improve  young  people's  growth  and  living  conditions.  The  guiding  principles  for  the attainment  of  these  objectives  are  1)  solidarity,  cultural  diversity  and  internationality,  2) sustainable development, healthy lifestyles and respect for life and the environment; and 3) crosssectoral cooperation.
+The purpose of the Youth Act (1285/2016) is to 1) promote the social inclusion of young people and provide them with opportunities for exerting an influence and improve their skills and capabilities to function in society; 2) support the growth, independence and sense of community of young people and facilitate the acquisition of knowledge and adoption of skills necessary for this purpose; 3) support young people’s free-time pursuits and engagement in civic society;4) promote non-discrimination and equality among young people and the realisation of their rights; and 5) improve young people’s growth and living conditions. The guiding principles for the attainment of these objectives are 1) solidarity, cultural diversity and internationality, 2) sustainable development, healthy lifestyles and respect for life and the environment; and 3) cross-sectoral cooperation.
 
 Youth Act: https://minedu.fi/en/legislation-youth
 
 The purpose of the Act on the Promotion of Sports and Physical Activity (390/2015) is to facilitate the opportunities of various demographic groups to engage in physical activity, promote performance  sports  and  associated  civic  activity,  bolster  the  health  and  wellbeing  of  the population, and promote the growth and development of children and young people. Equality, equity,  multiculturalism,  healthy  way  of  life,  respect  for  the  environment,  and  sustainable development are the founding principles.
 
-The  Public  Libraries  Act (1492/2016)  lays  down  provisions  on  public  libraries  and  their operations as well as on the promotion of these operations at the local, regional and national level. The objectives of the Act are to promote: 1) equal opportunities for everyone to access education and culture; 2) availability and use of information; 3) reading culture and versatile literacy skills;
-
-- opportunities  for  lifelong  learning  and  competence  development;  5)  active  citizenship, democracy and freedom of expression. The implementation of these objectives is based on sense of community, pluralism and cultural diversity. Among other, the public libraries are tasked with providing premises for learning, recreational activities, working, and civic activities, and promoting social and cultural dialogue.
+The Public Libraries Act (1492/2016) lays down provisions on public libraries and their operations as well as on the promotion of these operations at the local, regional and national level. The objectives of the Act are to promote: 1) equal opportunities for everyone to access education and culture; 2) availability and use of information; 3) reading culture and versatile literacy skills; 4) opportunities for lifelong learning and competence development; 5) active citizenship, democracy and freedom of expression. The implementation of these objectives is based on sense of community, pluralism and cultural diversity. Among other, the public libraries are tasked with providing premises for learning, recreational activities, working, and civic activities, and promoting social and cultural dialogue.
 
 The Act (in English): https://www.finlex.fi/en/laki/kaannokset/2016/en20161492
 
 Finland's cultural policy comprises the different sectors of arts and culture, museums, cultural heritage,  libraries,  cultural  exports  and  creative  work.  Arts  and  culture  are  supported  by  both central and local government. The recently amended Museum Act (312/2019) has the objective to strengthen individuals' and communities' understanding and participation in culture, history and environment, to promote the preservation of cultural and natural heritage and arts to the future generations,  as  well  as  to  promote  cultural  diversity,  civic  values,  wellbeing,  equity  and democracy. Among others, museums are tasked to collaborate and interact with schools and promote education.
 
-According to the Prime Minister Sanna Marin's Government Programme (2019), Finland aims to be carbon neutral by 2035. The Climate Change Act is  being  reformed  and  strengthened to achieve this target. The reform started with extensive public consultations in autumn 2019. The aim was to hear the views of citizens and different stakeholders on how the Climate Change Act should be amended. Among the events was a roundtable of ministers and young people, and a discussion as part of the 'Children take over the Government' event on climate change mitigation through legislative means. Besides these consultations, towards the end of 2019 the Ministry conducted small-scale social media surveys on the reform of the Climate Change Act, and a more extensive online survey that brought about 2,500 responses. In early 2020 several public events related to the reform were organised in different parts of Finland. Among the particular target groups were young people and the indigenous Sámi people. Climate change poses a risk to the realisation of fundamental and human rights. This is why perspectives relating to the status of fundamental and human rights are a key priority in the reform of the Climate Change Act. The rights  linked  to  the  Climate  Change  Act  include  the  right  to  a  healthy  environment,  right  to participate and right to security.
+According to the Prime Minister Sanna Marin’s Government Programme (2019), Finland aims to be carbon neutral by 2035. The Climate Change Act is being reformed and strengthened to achieve this target. The reform started with extensive public consultations in autumn 2019. The aim was to hear the views of citizens and different stakeholders on how the Climate Change Act should be amended. Among the events was a roundtable of ministers and young people, and a discussion as part of the ‘Children take over the Government’ event on climate change mitigation through legislative means. Besides these consultations, towards the end of 2019 the Ministry
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
-Reform: https://valtioneuvosto.fi/-/1410903/ilmastolain-uudistus-on-kaynnissa-kansalaistennakemyksia-osallistumisesta-ja-oikeudenmukaisuudesta-kerataanverkkokyselyilla?languageId=en_US
+conducted small-scale social media surveys on the reform of the Climate Change Act, and a more extensive online survey that brought about 2,500 responses. In early 2020 several public events related to the reform were organised in different parts of Finland. Among the particular target groups were young people and the indigenous Sámi people. Climate change poses a risk to the realisation of fundamental and human rights. This is why perspectives relating to the status of fundamental and human rights are a key priority in the reform of the Climate Change Act. The rights linked to the Climate Change Act include the right to a healthy environment, right to participate and right to security.
+
+Reform: https://valtioneuvosto.fi/-/1410903/ilmastolain-uudistus-on-kaynnissa-kansalaisten-nakemyksia-osallistumisesta-ja-oikeudenmukaisuudesta-kerataan-verkkokyselyilla?languageId=en_US
 
 - A1b. Please provide the full names of any laws, legislation or legal frameworks referred to in A1a and, where possible, web links to relevant documents.
 
+See our reply above
+
 *A2 Please indicate which GCED and ESD themes are covered in national or sub-national laws, legislation or legal frameworks on education by entering the appropriate number in each white cell.
 
-See our reply above
+KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
 
 National | Sub-national
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Pre- primary | Primary/ secondary | Tertiary | Non- formal | Pre- primary | Primary/ secondary | Tertiary | Non- formal
+Pre-primary | Primary/secondary | Tertiary | Non-formal | Pre-primary | Primary/secondary | Tertiary | Non-formal
 1. | Cultural diversity and tolerance | 1 | 1 | 0 | 1 | 99 | 99 | 99 | 99
 2. | Gender equality | 1 | 1 | 0 | 1 | 99 | 99 | 99 | 99
 3. | Human rights | 1 | 1 | 0 | 0 | 99 | 99 | 99 | 99
-4. | Peace and non- violence | 1 | 1 | 0 | 1 | 99 | 99 | 99 | 99
+4. | Peace and non-violence | 1 | 1 | 0 | 1 | 99 | 99 | 99 | 99
 5. | Climate change | 1 | 1 | 0 | 0 | 99 | 99 | 99 | 99
 6. | Environmental sustainability | 1 | 1 | 0 | 0 | 99 | 99 | 99 | 99
 7. | Human survival and well-being | 1 | 1 | 0 | 0 | 99 | 99 | 99 | 99
 8. | Sustainable consumption and production | 1 | 1 | 0 | 0 | 99 | 99 | 99 | 99
-
-KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
 
 [[END OF PAGE 12]]
 
@@ -325,7 +327,7 @@ In  Finland,  there  is  no  national  strategy  specifically  devoted  to  ESD 
 
 The objective of Prime Minister Sanna Marin's Government Programme (2019) 'An inclusive and  competent  Finland'  is  to  make  Finland  a  society  based  on  socially,  economically  and ecologically sustainable development by 2030. According to the Government Programme, Finland assumes global responsibility and works actively as a pioneer in achieving the goals of the 2030 Agenda. https://valtioneuvosto.fi/en/rinne/government-programme
 
-The Government Report on the Implementation of the 2030 Agenda: Towards a carbonneutral  welfare  society was  published  in  December  2020.  According  to  the  report  (p.  39), education for sustainable development; climate change education; digitalisation, financial literacy and working life skills; and sexual and equality education will be mainstreamed at all levels of education. The Government will enhance democracy and human rights education and inclusivity at schools. (SDG 4.7.) Other positive actions towards the achievement of target 4.7 have also been the 'Climate Responsibility in Education' impact programme implemented by the Finnish National Agency for Education and the allocation for special funding for sustainable development themes in continuing education projects for teachers (application round in 2020). https://julkaisut.valtioneuvosto.fi/handle/10024/162575
+The Government Report on the Implementation of the 2030 Agenda: Towards a carbon-neutral welfare society was published in December 2020. According to the report (p. 39), education for sustainable development; climate change education; digitalisation, financial literacy and working life skills; and sexual and equality education will be mainstreamed at all levels of education. The Government will enhance democracy and human rights education and inclusivity at schools. (SDG 4.7.) Other positive actions towards the achievement of target 4.7 have also been the ‘Climate Responsibility in Education’ impact programme implemented by the Finnish National Agency for Education and the allocation for special funding for sustainable development themes in continuing education projects for teachers (application round in 2020). https://julkaisut.valtioneuvosto.fi/handle/10024/162575
 
 In July 2020 Finland submitted voluntary national review on the implementation of the UN Agenda 2030 for Sustainable Development. The report states - among other - that universal social  security  and  service  systems,  as  well  as  good  educational  opportunities  for  the  entire population, have prevented exclusion. Persons belonging to visible minorities and persons with disabilities continue to experience discrimination in different areas of life. National legislation and policy actions promoting equality and preventing exclusion aim to ensure equal opportunities for all. https://julkaisut.valtioneuvosto.fi/handle/10024/162268
 
@@ -335,7 +337,7 @@ The  Ministry  of  Education  and  Culture  has  in  its Strategy  2030 promised
 
 Additionally,  the  Ministry  of  Education  and  Culture  (MoEC)  has  published  a sustainable development policy in 2020 , with an aim to ensure that the activities of the administrative branch (early childhood education and care, education, science, art, culture, sports and youth work) are based  on  a  sustainable  foundation.  The  preparation  was  preceded  by  an  open  consultation process.  The  implementation  covers  all  steering  methods  of  the  Ministry,  namely  legislation, financial steering and information steering. The policy supports and for its part complements the implementation  of  Finland's  national  2030  Agenda  for  Sustainable  Development.  Sustainable development policy of the Ministry of Education and Culture and its administrative branch (2020): https://minedu.fi/en/-/ministerio-linjasi-kestavan-kehityksen-tavoitteet-omalle-hallinnonalalle
 
-The Government has prepared a draft report on education policy. The report sets out a vision for education and research extending to the 2040s. It outlines the changes in resources, structures and guidance that will be needed to respond and to influence the factors changing the national and international operating environment, and to create the conditions for a meaningful life for everyone. The report provides an overview of the current situation in education and research and the target state and necessary measures to reach the target. The draft report has been sent on a broad round of consultations. The report is due to be submitted to Parliament early 2021. An implementation plan will be drawn up for the education policy report. The report acknowledges the central role of the entire knowledge sector for sustainable development and sustainable way of life, starting with early childhood education and care to tertiary level education, research and science.
+The Government has prepared a draft report on education policy. The report sets out a vision for education and research extending to the 2040s. It outlines the changes in resources, structures
 
 > 3 See the schema described in paragraph 11 of Section II of these guidelines.
 
@@ -343,9 +345,11 @@ The Government has prepared a draft report on education policy. The report sets 
 
 [[START OF PAGE 14]]
 
-https://minedu.fi/-/koulutuspoliittinen-selonteko-lausunnoille-tavoitteena-turvata-koulutuksensaavutettavuus-laatu-ja-tasa-arvo?languageId=en_US
+and guidance that will be needed to respond and to influence the factors changing the national and international operating environment, and to create the conditions for a meaningful life for everyone. The report provides an overview of the current situation in education and research and the target state and necessary measures to reach the target. The draft report has been sent on a broad round of consultations. The report is due to be submitted to Parliament early 2021. An implementation plan will be drawn up for the education policy report. The report acknowledges the central role of the entire knowledge sector for sustainable development and sustainable way of life, starting with early childhood education and care to tertiary level education, research and science.
 
-Policy  to  promote  internationalisation  in  Finnish  higher  education  and  research  20172025 ,  policy line by the Ministry of Education and Culture, is embedded with the idea that the greatest challenges globally can only be resolved by working together. Finland wishes to be an active participant in the global community, sharing in the responsibilities, offering expertise and helping solve problems. https://minedu.fi/en/international-strategy-for-higher-education-andresearch
+https://minedu.fi/-/koulutuspoliittinen-selonteko-lausunnoille-tavoitteena-turvata-koulutuksen-saavutettavuus-laatu-ja-tasa-arvo?languageId=en_US
+
+Policy to promote internationalisation in Finnish higher education and research 2017–2025, policy line by the Ministry of Education and Culture, is embedded with the idea that the greatest challenges globally can only be resolved by working together. Finland wishes to be an active participant in the global community, sharing in the responsibilities, offering expertise and helping solve problems. https://minedu.fi/en/international-strategy-for-higher-education-and-research
 
 As  of  2021  the  funding  model  of  higher  education  institutions  consist  of  a  new  strategic programme with a global dimension. There are several actions providing collaboration with partner countries on innovative teaching and learning research and education (African countries, India and China) as well as SDGs (with several global partners) and on Food and Health (with China).
 
@@ -355,7 +359,7 @@ https://www.unifi.fi/viestit/theses-on-sustainable-development-and-responsibilit
 
 Likewise, Arene - the Rectors' Conference of Finnish Universities of Applied Sciences -has approved a joint programme for sustainable development and responsibility based on the Agenda 2030. The core of the programme consists of strengthening the ecological handprint of universities of applied sciences and reducing their carbon footprint. These ideas have been depicted as 14 promises and concrete measures that will start at the beginning of 2021. The aim is that each graduate has the ability to promote sustainable development and combat the negative impacts of climate change in society. The aim is that sustainability and responsibility will be taken into account in all RDI activities and they are directed towards producing solutions to sustainability challenges, promoting sustainable development and reducing the impacts of climate change. Also in  management  and  personnel  matters,  universities  of  applied  sciences  promise  to  act  as economically, ecologically, culturally and socially responsible employers. Universities of applied sciences will be carbon neutral by 2030. In order to achieve this, universities of applied sciences systematically commit themselves to taking various measures to reduce emissions, to monitor the development of their carbon footprint and to seek other means of achieving carbon neutrality together. The most significant producers of carbon footprint in universities of applied sciences are related to mobility and travel, properties, food services and procurements.
 
-http://www.arene.fi/ajankohtaista/universities-of-applied-sciences-sustainable-developmentskills-for-everyone/
+http://www.arene.fi/ajankohtaista/universities-of-applied-sciences-sustainable-development-skills-for-everyone/
 
 According to the Government Program, democracy, climate action, human rights education and  inclusivity  will  be  further  enhanced  in  schools. In  concrete  terms,  the  Ministry  of Education and Culture has launched a 'Right to Learn' program, with a funding of 300 MEUR, extending throughout the government term 2019-2022. The program focuses on early childhood education  and  care  (ECEC)  and  basic  education,  aiming  at  reducing  learning  disparities  in Finland.  The  measures  also  cover  aspects  of  strengthening  democracy  and  human  rights education. As part of the program, surveys are made, in order to ensure evidence based decision making. For example, in basic education such surveys will target - among others - the impacts of  the  current  practices  on  learning  in  ones'  own  mother  tongue,  as  well  as  the  preparatory education, which are both highly relevant for pupils with immigrant background.
 
@@ -369,11 +373,11 @@ Right to Learn:  https://minedu.fi/en/qualityprogramme
 
 #### Wellbeing, safety and the prevention of harassment
 
-In  Finland,  promoting  wellbeing  is  an  important  aspect  in  the  school  culture.  The multiprofessional  pupil  welfare  system prescribed  in  legislation  (Pupil  and  Student  Welfare  Act 1287/2013) is the main mechanism for preventing and intervening in all kinds of harassment from the  viewpoint  of  both  the  entire  school  and  an  individual  pupil.  Pupil  welfare  is  organized  in multidisciplinary cooperation with educational administration and health and social services so that a uniform service is formed. Pupil welfare is implemented in cooperation with the pupil and the  pupil's  guardian,  taking  into  consideration  the  pupil's  age  and  capabilities.  The  primary responsibility  for  pupil  welfare  lies  with  the  school's  staff.  Pupil  welfare  services  include psychologist's and school social worker's services and school health services, to which pupils and students of pre-primary and basic education, general upper secondary education and vocational education and training have a statutory right. The national core curriculum lays down detailed and comprehensive provisions on how pupil welfare should be organized.
+In Finland, promoting wellbeing is an important aspect in the school culture. The multi-professional pupil welfare system prescribed in legislation (Pupil and Student Welfare Act 1287/2013) is the main mechanism for preventing and intervening in all kinds of harassment from the viewpoint of both the entire school and an individual pupil. Pupil welfare is organized in multidisciplinary cooperation with educational administration and health and social services so that a uniform service is formed. Pupil welfare is implemented in cooperation with the pupil and the pupil's guardian, taking into consideration the pupil's age and capabilities. The primary responsibility for pupil welfare lies with the school's staff. Pupil welfare services include psychologist's and school social worker’s services and school health services, to which pupils and students of pre-primary and basic education, general upper secondary education and vocational education and training have a statutory right. The national core curriculum lays down detailed and comprehensive provisions on how pupil welfare should be organized.
 
 In  spring  2018,  the Ministry  of  Education  and  Culture  launched  the  preparation  of a national action plan to improve the safety cultures of the learning communities in early childhood education  and care,  pre-primary  and  basic  education,  upper  secondary  education  and  higher education (2018-2021). The programme sees safety broadly as physical, mental and social safety, thus also taking into account the prevention of harassment and sexual harassment.
 
-All schools and education providers are obliged to prepare a plan for the promotion of nondiscrimination . This is stipulated by the Non-Discrimination Act (1325/2014). The plan must cover  all  discrimination  grounds  pursuant  to  the  Non-Discrimination  Act,  thus  age,  origin, nationality,  language,  religion,  belief,  opinion,  political  activity,  trade  union  activity,  family relationships, state of health, disability, sexual orientation or other personal characteristics.
+All schools and education providers are obliged to prepare a plan for the promotion of non-discrimination. This is stipulated by the Non-Discrimination Act (1325/2014). The plan must cover all discrimination grounds pursuant to the Non-Discrimination Act, thus age, origin, nationality, language, religion, belief, opinion, political activity, trade union activity, family relationships, state of health, disability, sexual orientation or other personal characteristics.
 
 The Equality Act obliges all educational institutions to prepare a gender equality plan to develop their activities. It must contain an assessment of the gender equality situation within the institution, the necessary measures to promote gender equality and a review of the previous plan. Special attention must be given to: pupil and student selections; organisation of teaching; learning differences  and  the  evaluation  of  study  performance;  ·  prevention  of  sexual  harassment  and gender-based harassment.
 
@@ -381,11 +385,13 @@ The Finnish National Agency for Education (EDUFI) provides guidance for teachers
 
 https://www.oph.fi/sites/default/files/documents/173318_tasa_arvotyo_on_taitolaji_0.pdf
 
-This was followed by a guide for upper secondary education in 2019 called 'Mukana! Tasa-arvoja yhdenvertaisuustyö toisella asteella' (On board! Equality and equity work at secondary level), available in Finnish: https://www.oph.fi/fi/tilastot-ja-julkaisut/julkaisut/mukana-tasa-arvo-jayhdenvertaisuustyo-toisella-asteella The  Ministry  of  Education  and  Culture  has  supported the  Kivakoulu  ("Nice  school") programme aimed at reducing school bullying. About 90% of all comprehensive schools in Finland have been registered users of the program and they have reached good results. The University of Turku coordinates and develops the programme (since 2011). The programme has been implemented in other countries, too. http://www.kivaprogram.net/
+This was followed by a guide for upper secondary education in 2019 called “Mukana! Tasa-arvo- ja yhdenvertaisuustyö toisella asteella” (On board! Equality and equity work at secondary level), available in Finnish: https://www.oph.fi/fi/tilastot-ja-julkaisut/julkaisut/mukana-tasa-arvo-ja-yhdenvertaisuustyo-toisella-asteella
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+
+The Ministry of Education and Culture has supported the Kivakoulu ("Nice school") programme aimed at reducing school bullying. About 90% of all comprehensive schools in Finland have been registered users of the program and they have reached good results. The University of Turku coordinates and develops the programme (since 2011). The programme has been implemented in other countries, too. http://www.kivaprogram.net/
 
 #### ESD / GCED principles are in many ways taken on board also in other sectors, such as
 
@@ -409,7 +415,7 @@ Ministry of Education and Culture:
 
 https://minedu.fi/en/policies-and-development-youth
 
-Finland's second National Action Plan on Fundamental and Human Rights 2017-2019 was approved by a Government resolution on 16 February 2017. The priorities of the Action Plan included  fundamental  and  human  rights  education  and  training,  equality,  the  right  to  selfdetermination and fundamental rights and digitalisation. The Ministry of the Justice is currently preparing the third National Action Plan for the years 2021-2023 and will also carry out a partial reform of the Non-Discrimination Act.
+Finland’s second National Action Plan on Fundamental and Human Rights 2017-2019 was approved by a Government resolution on 16 February 2017. The priorities of the Action Plan included fundamental and human rights education and training, equality, the right to self-determination and fundamental rights and digitalisation. The Ministry of the Justice is currently preparing the third National Action Plan for the years 2021-2023 and will also carry out a partial reform of the Non-Discrimination Act.
 
 The Ministry of Justice also coordinates the preparation of the National Democracy Programme 2025 .  Democracy and human rights education and participation of young people is one of the central  focuses  of  the  Programme.  The  Government  will  ensure  that  all  young  people  have sufficient skills and knowledge to be able to participate. For example, the aim is to strengthen the implementation of core curricula in schools, in terms of democracy and human rights, to develop democracy and human rights education in teachers' initial and continuing education, to strengthen the  awareness  of  public  authorities  on  children's  and  young  people's  participatory  rights,  to strengthen the equal participation of young people and good relations between population groups, and to improve recognition and acknowledgment of prior work experience and learning gained from voluntary work.
 
@@ -427,9 +433,9 @@ As part of the implementation of the Meaningful in Finland Action Plan , which l
 
 http://www.minedu.fi/OPM/Julkaisut/2016/toimintaohjelma.html?lang=fi&extra_locale=en
 
-The national media education policy was published in 2019 by the Ministry of Education and Culture, updating the previous policy line (2013), in collaboration with the National Audiovisual Institute (KAVI), in cross-administrative and cross-sectoral collaboration with actors involved in media education. High-quality media education aims to promote human rights, equality and nondiscrimination  and  to  create  preconditions  for  sustainable  development.  Media  education  in Finland is based on the UN Universal Declaration of Human Rights, European Convention on Human Rights (63/1999) and, as far as it is applicable to children, particularly on the Convention on the Rights of the Child. Media literacy contributes to the consolidation of democracy and human rights education. Media education policy: http://julkaisut.valtioneuvosto.fi/handle/10024/162065
+The national media education policy was published in 2019 by the Ministry of Education and Culture, updating the previous policy line (2013), in collaboration with the National Audiovisual Institute (KAVI), in cross-administrative and cross-sectoral collaboration with actors involved in media education. High-quality media education aims to promote human rights, equality and non-discrimination and to create preconditions for sustainable development. Media education in Finland is based on the UN Universal Declaration of Human Rights, European Convention on Human Rights (63/1999) and, as far as it is applicable to children, particularly on the Convention on the Rights of the Child. Media literacy contributes to the consolidation of democracy and human rights education. Media education policy: http://julkaisut.valtioneuvosto.fi/handle/10024/162065
 
-The national Action Plan for the Prevention of Violent Radicalisation and Extremism 20192023 was published in December 2019, and prepared in collaboration with authorities (incl. of education), expert organisations and communities. The Ministry of the Interior coordinates the implementation. The aims is - among others - to promote the engagement of young people in the PVE work, eg. through education for democracy in formal education, by putting more focus on youth work online, and combatting discrimination and racism through sport. Action Plan in English, Ministry of the Interior:
+The national Action Plan for the Prevention of Violent Radicalisation and Extremism 2019-2023 was published in December 2019, and prepared in collaboration with authorities (incl. of education), expert organisations and communities. The Ministry of the Interior coordinates the implementation. The aims is – among others – to promote the engagement of young people in the PVE work, eg. through education for democracy in formal education, by putting more focus on youth work online, and combatting discrimination and racism through sport. Action Plan in English, Ministry of the Interior:
 
 https://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/162200/SM_2020_3.pdf
 
@@ -441,9 +447,7 @@ See our reply above
 
 [[START OF PAGE 18]]
 
-*A4.  Please  indicate  which  GCED  and  ESD  themes  are  covered  in  national  or  sub-national education  policies,  frameworks  or  strategic  objectives  affecting  each  level  of  education  by entering the appropriate number in each white cell.
-
-*A5 Please indicate whether national or sub-national education policies, frameworks or strategic objectives on education provide a mandate to integrate GCED and ESD in the following areas by entering the appropriate number in each white cell.
+*A4. Please indicate which GCED and ESD themes are covered in national or sub-national education policies, frameworks or strategic objectives affecting each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -457,6 +461,8 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 6. | Environmental sustainability | 1 | 1 | 1 | 1
 7. | Human survival and well-being | 1 | 1 | 1 | 1
 8. | Sustainable consumption and production | 1 | 1 | 1 | 9
+
+*A5 Please indicate whether national or sub-national education policies, frameworks or strategic objectives on education provide a mandate to integrate GCED and ESD in the following areas by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
 
@@ -491,35 +497,35 @@ The core curricula emphasize sustainable development, human rights and human dig
 
 In basic education they are as follows:
 
-- Thinking and learning to learn
+1) Thinking and learning to learn
 
-- Cultural literacy, communication and expression
+2) Cultural literacy, communication and expression
 
-- Managing daily life, taking care of oneself and others
+3) Managing daily life, taking care of oneself and others
 
-- Multiliteracy (covers also media and information literacy)
+4) Multiliteracy (covers also media and information literacy)
 
-- ICT-skills
+5) ICT-skills
 
-- Entrepreneurial and work life skills
+6) Entrepreneurial and work life skills
 
-- Participation and building sustainable future.
+7) Participation and building sustainable future.
 
 The  national  core  curricula  for pre-primary  education ,  as  well  as  in  basic  education  were renewed in 2014 (implementation started in 2016). Following the legislative reform of the general upper secondary education, the national core curriculum was renewed in 2019 (implementation starts in 2021).
 
 The transversal competence areas in general upper secondary education are:
 
-- well-being competence
+1) well-being competence
 
-- interaction competence
+2) interaction competence
 
-- multidisciplinary and creative competence
+3) multidisciplinary and creative competence
 
-- societal competence
+4) societal competence
 
-- ethics and environmental competence
+5) ethics and environmental competence
 
-- global and cultural competence.
+6) global and cultural competence.
 
 In studies of all these areas, the idea is that the students
 
@@ -567,7 +573,7 @@ Basic  education  lays  the  foundation  for  global  citizenship  that  respect
 
 ##### Necessity of a sustainable way of living
 
-Humans  are  part of nature and completely dependent  on  the vitality of ecosystems. Understanding this plays a key role in growth as a human being. Basic education acknowledges the  necessity  of  sustainable  development  and  ecosocial  knowledge  and  ability,  follows  their principles and guides the pupils in adopting a sustainable way of living. Sustainable development and ways of living comprise an ecological and economic dimension as well as a social and cultural dimension. The leading idea of ecosocial knowledge and ability is creating ways of living and a culture that foster the inviolability of human dignity and the diversity and ability for renewal of ecosystems while building a competence base for a circular economy underpinned by sustainable factors in everyday school work. The pupils are involved in planning and implementing sustainable everyday life.
+Humans are part of nature and completely dependent on the vitality of ecosystems. Understanding this plays a key role in growth as a human being. Basic education acknowledges the necessity of sustainable development and ecosocial knowledge and ability, follows their principles and guides the pupils in adopting a sustainable way of living. Sustainable development and ways of living comprise an ecological and economic dimension as well as a social and cultural dimension. The leading idea of ecosocial knowledge and ability is creating ways of living and a culture that foster the inviolability of human dignity and the diversity and ability for renewal of ecosystems while building a competence base for a circular economy underpinned by sustainable
 
 [[END OF PAGE 20]]
 
@@ -589,7 +595,7 @@ The cultural task of basic education is to promote versatile cultural competence
 
 (…)
 
-Changes in the world outside the school unavoidably affect the pupils' development and well- being as well as the operation of the school. In basic education, the pupils learn to encounter pressures for change openly, to assess them critically and to assume responsibility for making choices that build our future. Global education as part of basic education contributes to creating preconditions for fair and sustainable development in line with UN development goals. As far as possible,  schools  work  together  with  schools  and  education  actors  in  other  countries.  Basic education exerts influence as a driver for positive change that contributes to society, both at the national and the international level.
+Changes in the world outside the school unavoidably affect the pupils' development and well-being as well as the operation of the school. In basic education, the pupils learn to encounter pressures for change openly, to assess them critically and to assume responsibility for making choices that build our future. Global education as part of basic education contributes to creating preconditions for fair and sustainable development in line with UN development goals. As far as possible, schools work together with schools and education actors in other countries. Basic education exerts influence as a driver for positive change that contributes to society, both at the national and the international level.
 
 The elements of ESD/ GCED are integrated in the core curriculum in a cross-cutting manner through transversal competence areas, which need to be taken into account in all teaching and learning. They are as follows:
 
@@ -777,7 +783,9 @@ A learning community accounts for the necessity of a sustainable way of living i
 
 [[START OF PAGE 24]]
 
-A  learning  community  inspires  hope  of  a  good  future  by  laying  a  foundation  for  ecosocial knowledge and ability. A realistic and practical attitude towards shaping the preconditions for a good  future  reinforces  the  pupils'  growth  into  responsible  community  members,  municipal residents and citizens. It encourages the pupils to encounter the world's diversity with an open mind and curiosity and to act for a more just and sustainable future.
+factors in everyday school work. The pupils are involved in planning and implementing sustainable everyday life.
+
+A learning community inspires hope of a good future by laying a foundation for ecosocial knowledge and ability. A realistic and practical attitude towards shaping the preconditions for a good future reinforces the pupils' growth into responsible community members, municipal residents and citizens. It encourages the pupils to encounter the world's diversity with an open mind and curiosity and to act for a more just and sustainable future.
 
 ++++
 
@@ -818,11 +826,9 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 
 *B3 Please indicate in which subjects or fields of study GCED and ESD are taught in primary and secondary education by entering the appropriate number in each white cell.
 
-0 = no, 1 = yes, 9 = unknown
+KEY: 0 = no, 1 = yes, 9 = unknown
 
-KEY:
-
-Cultural diversity and tolerance | Gender equality | Human rights | Peace and non- violence | Climate change | Environmental sustainability | Human survival and well- being | Sustainable consumption and production
+Cultural diversity and tolerance | Gender equality | Human rights | Peace and non-violence | Climate change | Environmental sustainability | Human survival and well-being | Sustainable consumption and production
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Arts | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Civics, civil or citizenship education | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
@@ -853,7 +859,7 @@ Cross-curriculum approach ( e.g. GCED/ESD are taught in more than one subject bu
 Integrated approach ( e.g. GCED/ESD are taught throughout the whole curriculum ) | 1
 Whole school approach (e.g. GCED/ESD are integrated in the school ethos, management, governance, curriculum, teacher training, teaching practices, the learning environment and in learning experiences in the community and life outside school ) | 9 By establishing a ESD/ GCED oriented ethos the curricula aim at this approach, but it is unknown to what extent this is accomplished in the daily work of our schools. Therefore we will mark 9 (unknown)
 
-- B5 Please indicate which human rights education themes are taught as part of the curriculum at each level of education by entering the appropriate number in each white cell.
+B5 Please indicate which human rights education themes are taught as part of the curriculum at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -868,9 +874,9 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 
 [[START OF PAGE 27]]
 
-### Teacher education (including the training of trainers and educators) (paras 4 and 33-37 of the 1974 Recommendation )
+### C. Teacher education (including the training of trainers and educators) (paras 4 and 33-37 of the 1974 Recommendation )
 
-- C1a. Please describe in which ways GCED and ESD are mainstreamed in initial training and in continuing professional development of teachers, trainers and educators. Indicate whether all teachers, trainers and educators or only some are required to receive training to teach GCED and/or ESD.
+C1a. Please describe in which ways GCED and ESD are mainstreamed in initial training and in continuing professional development of teachers, trainers and educators. Indicate whether all teachers, trainers and educators or only some are required to receive training to teach GCED and/or ESD.
 
 In Finland, teacher education is provided by autonomous universities. Teacher education needs to  equip  the  teachers  with  the  necessary  competences  for  implementing  the  national  core curricula.  Therefore,  it  is  fair  to  say  that  all  teachers  receive  the  basic  knowledge  and  skills, relevant to ESD and GCED during their pre-service education.
 
@@ -894,11 +900,9 @@ The objectives of the TEDP have been implemented through joint programs of highe
 
 - Creating Spaces for Diversity of Worldviews in Early Childhood Education
 
-Descriptions of some of the programs, Ministry of Education and Culture: https://minedu.fi/documents/1410845/4183002/Teacher+Education+Development+Projects+201 7.pdf/4d9358f9-4fde-4000-ab02-
+Descriptions of some of the programs, Ministry of Education and Culture: https://minedu.fi/documents/1410845/4183002/Teacher+Education+Development+Projects+2017.pdf/4d9358f9-4fde-4000-ab02-60b2fd647098/Teacher+Education+Development+Projects+2017.pdf
 
-60b2fd647098/Teacher+Education+Development+Projects+2017.pdf
-
-The Ministry of Education and Culture appointed a Teacher education forum for the term 20162018 to support the development of both pre-service and in-service training for teachers. The term of this forum has been continued and is now 2020-2022.
+The Ministry of Education and Culture appointed a Teacher education forum for the term 2016-2018 to support the development of both pre-service and in-service training for teachers. The term of this forum has been continued and is now 2020-2022.
 
 [[END OF PAGE 27]]
 
@@ -906,7 +910,7 @@ The Ministry of Education and Culture appointed a Teacher education forum for th
 
 Teachers also take actively part in in-service training, which is provided by a range of actors, funded by the Finnish National Agency for Education EDUFI (ca. 12 million EUR annually). These in-service trainings also take the ESD and GCED themes in many ways into account.
 
-The University of Helsinki has coordinated, in collaboration with the Ministry of Justice and the Human  Rights  Centre  a project  for  promoting  education  for  democratic  citizenship  and human rights education (EDC/HRE) in teacher training (2018-2021) in association with the UNESCO Chair in Values, Dialogue and Human Rights in Education. Studies have shown that although Finland is in a good position to provide education for democratic citizenship and human rights  education,  teachers'  skills  vary  significantly  in  this  respect,  and  their  knowledge  of  the related  legal  rules  is  fragmentary.  Much  depends  on  the  active  efforts  of  individual  teachers. Although many have wished that the topics would be discussed in teacher education, no consistent training on education for democratic citizenship and human rights education is currently offered to all  teachers. The above mentioned project by the University of Helsinki has - among others developed  a  web-based  course  in  education  for  democratic  citizenship  and  human  rights education  for  teachers:  https://www.helsinki.fi/en/projects/human-rights-democracy-values-anddialogue-in-education  (see also sections 'materials and publications' of the web page)
+The University of Helsinki has coordinated, in collaboration with the Ministry of Justice and the Human Rights Centre a project for promoting education for democratic citizenship and human rights education (EDC/HRE) in teacher training (2018–2021) in association with the UNESCO Chair in Values, Dialogue and Human Rights in Education. Studies have shown that although Finland is in a good position to provide education for democratic citizenship and human rights education, teachers’ skills vary significantly in this respect, and their knowledge of the related legal rules is fragmentary. Much depends on the active efforts of individual teachers. Although many have wished that the topics would be discussed in teacher education, no consistent training on education for democratic citizenship and human rights education is currently offered to all teachers. The above mentioned project by the University of Helsinki has – among others – developed a web-based course in education for democratic citizenship and human rights education for teachers: https://www.helsinki.fi/en/projects/human-rights-democracy-values-and-dialogue-in-education (see also sections “materials and publications” of the web page)
 
 The Finnish National Agency for Education (EDUFI) and the Human Rights Centre of Finland have jointly  constructed  a  learning  module  (2017-2018)  for  educational  management  and school leadership on fundamental and human rights in educational sector. The module (in form of a tour) was carried out in co-operation with the Regional State Administrative Agencies, Trade Union of Education in Finland and Finnish Principals Association, which helped to ensure a good range of heads of schools nationally.
 
@@ -930,19 +934,19 @@ toisella-asteella https://www.oph.fi/fi/tilastot-ja-julkaisut/julkaisut/tasa-arv
 
 https://www.oph.fi/fi/tilastot-ja-julkaisut/julkaisut/kiusaamisen-vastainen-tyo-kouluissa-ja-
 
-oppilaitoksissa https://www.oph.fi/fi/tilastot-ja-julkaisut/julkaisut/opas-seksuaalisen-hairinnanennaltaehkaisemiseksi-ja-siihen
+oppilaitoksissa https://www.oph.fi/fi/tilastot-ja-julkaisut/julkaisut/opas-seksuaalisen-hairinnan-ennaltaehkaisemiseksi-ja-siihen
 
 ###### Holocaust:
 
 https://www.oph.fi/fi/holokaustin-opetus
 
-The Finnish National Agency for Education has published a Teacher's Guide (2019) 'BUILDING RESILIENCE -in support of democracy education' https://www.oph.fi/en/statistics-andpublications/publications/building-resilience-support-democracy-education and (2017)
+The Finnish National Agency for Education has published a Teacher’s Guide (2019) ‘BUILDING RESILIENCE – in support of democracy education’ https://www.oph.fi/en/statistics-and-publications/publications/building-resilience-support-democracy-education and (2017)
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
 
-'CONSTRUCTIVE INTERACTION - strengthening democratic inclusion, preventing hate speech and violent radicalization'. https://www.oph.fi/en/statistics-andpublications/publications/constructive-interaction
+‘CONSTRUCTIVE INTERACTION - strengthening democratic inclusion, preventing hate speech and violent radicalization’. https://www.oph.fi/en/statistics-and-publications/publications/constructive-interaction
 
 In addition to these publications written by Finnish experts, the essential international processes and materials have been translated into Finnish and Swedish, such as:
 
@@ -958,9 +962,9 @@ A set of guidelines by the Finnish National Agency for Education (2018, was dist
 
 Prevention of violent radicalisation in early childhood education and care (2019):
 
-https://www.oph.fi/en/statistics-and-publications/publications/prevention-violent-radicalisationearly-childhood
+https://www.oph.fi/en/statistics-and-publications/publications/prevention-violent-radicalisation-early-childhood
 
-Prevention of violent radicalisation in vocational education (2020, only in Finnish): https://www.oph.fi/fi/tilastot-ja-julkaisut/julkaisut/vakivaltaisen-radikalisoitumisen-ja-ekstremisminennaltaehkaisy
+Prevention of violent radicalisation in vocational education (2020, only in Finnish): https://www.oph.fi/fi/tilastot-ja-julkaisut/julkaisut/vakivaltaisen-radikalisoitumisen-ja-ekstremismin-ennaltaehkaisy
 
 Guidelines to support constructive interaction / mediation have been published
 
@@ -987,8 +991,6 @@ For teachers of other subjects | 1 | 1 | 9 | 9
 
 *C3 Please indicate on which GCED and ESD themes pre-service or in-service training is available for teachers, trainers and educators at each level of education by entering the appropriate number in each white cell.
 
-*C4   Please indicate whether teachers, trainers and educators are trained to teach the following dimensions of learning in GCED and ESD. Please enter the appropriate number in each white cell.
-
 KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
@@ -1002,6 +1004,8 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 7. | Human survival and well-being | 1 | 1 | 1 | 1
 8. | Sustainable consumption and production | 1 | 1 | 1 | 1
 
+*C4 Please indicate whether teachers, trainers and educators are trained to teach the following dimensions of learning in GCED and ESD. Please enter the appropriate number in each white cell.
+
 KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
@@ -1011,32 +1015,30 @@ Skills | 1 | 1 | 9 | 9
 Values | 1 | 1 | 9 | 9
 Attitudes and behaviours | 1 | 1 | 9 | 9
 
-*C5 Please  indicate  whether  teachers,  trainers  and  educators  are  trained  to  use  the  following approaches to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
+*C5 Please indicate whether teachers, trainers and educators are trained to use the following approaches to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
+
+KEY: 0 = no, 1 = yes, 9 = unknown
 
 Global citizenship and education for sustainable development
 --- | ---
 GCED/ESD are taught as separate subject(s) | 0
-Cross curriculum approach ( e.g. GCED/ESD are taught in more than one subject but not throughout the curriculum ) | 1
-Integrated approach ( e.g. GCED/ESD are taught throughout the whole curriculum ) | 1
-Whole school approach (e.g. GCED/ESD are integrated in the school ethos, management, governance, curriculum, teacher training, teaching practices, the learning environment, and in learning experiences in the community and life outside school ) | 1
-
-KEY: 0 = no, 1 = yes, 9 = unknown
+Cross curriculum approach (e.g. GCED/ESD are taught in more than one subject but not throughout the curriculum) | 1
+Integrated approach (e.g. GCED/ESD are taught throughout the whole curriculum) | 1
+Whole school approach (e.g. GCED/ESD are integrated in the school ethos, management, governance, curriculum, teacher training, teaching practices, the learning environment, and in learning experiences in the community and life outside school) | 1
 
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
 
-### Student assessment (paras 4 and 5 of the 1974 Recommendation )
+### D. Student assessment (paras 4 and 5 of the 1974 Recommendation )
 
-- D1a.  Please  describe  in  which  ways  GCED  and  ESD  are  covered  in  student  assessments  and examinations. Indicate whether students are assessed only on their knowledge of and skills related to the topics being tested or also on their values, attitudes and/or behaviours.
+D1a. Please describe in which ways GCED and ESD are covered in student assessments and examinations. Indicate whether students are assessed only on their knowledge of and skills related to the topics being tested or also on their values, attitudes and/or behaviours.
 
 In  basic  education  and  general  upper  secondary  education,  the  transversal  competences, including GCED and ESD, are assessed in each course or study unit. Values and attitudes are assessed formatively, knowledge and skills summatively. The assessment of knowledge and skills is based on verified demonstrations of how well and to what extent the pupil or the student has attained the objectives set for a course or study unit.
 
 In vocational education, the student's competence is assessed according to the nationally defined vocational competence requirements and assessment criteria. Thus, the assessment focuses on both knowledge, skills, and attitudes.
 
 *D2 Please indicate whether the GCED and ESD themes below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
-
-*D3 Please indicate which of the dimensions of learning in GCED and ESD below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -1050,6 +1052,8 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 6. | Environmental sustainability | 1 | 1 | 9 | 9
 7. | Human survival and well-being | 1 | 1 | 9 | 9
 8. | Sustainable consumption and production | 1 | 1 | 9 | 9
+
+*D3 Please indicate which of the dimensions of learning in GCED and ESD below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -1070,23 +1074,15 @@ Attitudes and behaviours | 9 | 9 | 9 | 9
 
 KEY:
 
-0 Not at all
+0 Not at all GCED and ESD are not mainstreamed.
 
-1 Partially
+1 Partially Some GCED and/or ESD themes 6 are mainstreamed. Select this option if GCED is mainstreamed but ESD is not (or vice versa).
 
-2 Extensively
+2 Extensively Most GCED and ESD themes are mainstreamed.
 
-9 Not known
+9 Not known It is not known whether GCED and ESD are mainstreamed or not.
 
-99 Not applicable GCED and ESD are not mainstreamed.
-
-Some GCED and/or ESD themes 6  are mainstreamed. Select this option if GCED is mainstreamed but ESD is not (or vice versa).
-
-Most GCED and ESD themes are mainstreamed.
-
-It is not known whether GCED and ESD are mainstreamed or not.
-
-The given level of government does not have responsibility for the given component (policies, curricula, teacher education or student assessment) and/or does not have responsibility for the given level or type of education. This may occur at the national level in federal countries where education is the responsibility of individual states or at the sub-national level in small countries where there is only one level of government.
+99 Not applicable The given level of government does not have responsibility for the given component (policies, curricula, teacher education or student assessment) and/or does not have responsibility for the given level or type of education. This may occur at the national level in federal countries where education is the responsibility of individual states or at the sub-national level in small countries where there is only one level of government.
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | --- | ---
@@ -1101,9 +1097,9 @@ Sub-national
 (c) | Teacher education | 99 | 99 | 99 | 99
 (d) | Student assessment | 9 | 9 | 99 | 99
 
-### Technical and vocational education and training (paras 25-29 of the 1974 Recommendation )
+### F. Technical and vocational education and training (paras 25-29 of the 1974 Recommendation )
 
-- F1 Please describe any major initiatives that have been undertaken to promote GCED and/or ESD in technical and vocational education and training. Describe briefly the outcomes and impact of such initiatives and provide examples of good practices.
+F1 Please describe any major initiatives that have been undertaken to promote GCED and/or ESD in technical and vocational education and training. Describe briefly the outcomes and impact of such initiatives and provide examples of good practices.
 
 In the Finnish TVET, all vocational qualifications cover ESD and GCED through key competences. VET supports students' development as human beings, members of society and empolyees for different  occupations.  Sustainable  development  is  in  many  ways  inserted  in  the  vocational qualification requirements. Vocational education is guided by qualification criteria developed for different  fields.  The  common  units  of  vocational  undergraduate  degrees  ensure  a  common foundation for all students in general working life skills and general education skills. Sustainable development is one of these common units. In addition, sustainable development is integrated in every qualification requirements as needed in different professions.
 
@@ -1121,7 +1117,7 @@ The Sustainability Online Studies for Vocational Teachers will be implemented in
 
 ### G. Adult education (para 30 of the 1974 Recommendation )
 
-- G1 Please describe any major initiatives that have been undertaken to promote GCED and/or ESD in adult education and other forms of non-formal education including youth education, out-ofschool education, etc. Describe briefly the outcomes and impact of such initiatives and provide examples of good practices.
+G1 Please describe any major initiatives that have been undertaken to promote GCED and/or ESD in adult education and other forms of non-formal education including youth education, out-of-school education, etc. Describe briefly the outcomes and impact of such initiatives and provide examples of good practices.
 
 The question is difficult to answer, due to the autonomous character of liberal adult education. However, due to the very nature of adult liberal education to promote active citizenship, it is fair to say that the education providers also take into account global and sustainability issues, hence the themes of ESD and GCED, when planning and developing the education provided.
 
@@ -1137,7 +1133,7 @@ As  part  of  the  government  program,  the  Ministry  of  Education  and  Cult
 
 In  terms  of  ESD/  GCED,  the  policy  lines  has  an  objective  to  create  a  service  ecosystem  for continuous learning. This is understood as a prerequisite for a green transition of the society in a socially,  ecologically  and  economically  sustainable  way.  Different  levels  and  parts  of  the continuing learning need to work seamlessly together. The objectives also cover the development of foresight, with special emphasis on sectors in rapid transition due to technological development and climate change. The policy gives special emphasis on the most under-represented groups.
 
-Ministry of Education and Culture: https://minedu.fi/-/jatkuvan-oppimisen-uudistuksellehyvaksyttiin-yhteiset-linjaukset-osaaminen-turvaa-tulevaisuuden?languageId=en_US
+Ministry of Education and Culture: https://minedu.fi/-/jatkuvan-oppimisen-uudistukselle-hyvaksyttiin-yhteiset-linjaukset-osaaminen-turvaa-tulevaisuuden?languageId=en_US
 
 [[END OF PAGE 33]]
 
@@ -1145,7 +1141,7 @@ Ministry of Education and Culture: https://minedu.fi/-/jatkuvan-oppimisen-uudist
 
 ### H. Research and International Co-operation (paras 41-45 of the 1974  Recommendation )
 
-- H1 Please describe what kinds of research or experimentation have been carried out to improve the implementation of GCED and/or ESD. Describe briefly how the results of such activities have influenced education policies, curricula and/or teaching practices.
+H1 Please describe what kinds of research or experimentation have been carried out to improve the implementation of GCED and/or ESD. Describe briefly how the results of such activities have influenced education policies, curricula and/or teaching practices.
 
 In Finland, universities and the universities of applied sciences (HEI's) are autonomous, in terms of conducting research and planning the degrees and studies offered.
 
@@ -1157,7 +1153,7 @@ In terms of Higher Education, we also wish to add that research is inherently in
 
 The Ministry for Foreign Affairs provides funding for the development research through the Academy of Finland.
 
-The Higher  Education  Institutions  Institutional  Cooperation  Instrument  (HEI  ICI) supports  cooperation  projects  between  higher  education  institutions  in  Finland  and  the developing world that are designed to enhance higher education provision in these countries. The  projects  support  the  higher  education  institutions  in  developing  their  subject-specific, methodological,  educational  and  administrative  capacities.  Finland's  Ministry  for  Foreign Affairs provides funding for the programme through its development cooperation funds. The Finnish National Agency for Education (EDUFI) administrates the programme. Currently, a total of nine projects have been granted funding with a total budget of 11,2 MIL euro for 20202024. https://www.oph.fi/en/programmes/hei-ici-programme
+The Higher Education Institutions Institutional Cooperation Instrument (HEI ICI) supports cooperation projects between higher education institutions in Finland and the developing world that are designed to enhance higher education provision in these countries. The projects support the higher education institutions in developing their subject-specific, methodological, educational and administrative capacities. Finland's Ministry for Foreign Affairs provides funding for the programme through its development cooperation funds. The Finnish National Agency for Education (EDUFI) administrates the programme. Currently, a total of nine projects have been granted funding with a total budget of 11,2 MIL euro for 2020-2024. https://www.oph.fi/en/programmes/hei-ici-programme
 
 The Ministry of Education and Culture funds the 'FinCEAL Plus BRIDGES' project, which supports the development of partnerships and collaborative research activities between the Finnish research community and those in Africa, Asia, and Latin America and the Caribbean (LAC). https://www.unipid.fi/finceal/what-is-finceal/
 
@@ -1171,11 +1167,11 @@ Likewise, Arene - the Rectors' Conference of Finnish Universities of Applied Sci
 
 [[START OF PAGE 35]]
 
-http://www.arene.fi/ajankohtaista/universities-of-applied-sciences-sustainable-developmentskills-for-everyone/
+http://www.arene.fi/ajankohtaista/universities-of-applied-sciences-sustainable-development-skills-for-everyone/
 
 Finnish University Partnership for International Development - UniPID is a network of Finnish  universities  to  advance  universities'  global  responsibility  and  to  strengthen  their response  to  global challenges. UniPID  offers a variety of support services for the interdisciplinary  studies,  research  and  societal  impact  of  universities  related  to  global development. The UniPID network was established in response to the Johannesburg Summit on  Sustainable  Development  in  2002.  UniPID  has  been  coordinated  by  the  University  of Jyväskylä since 2005. The network has been offering virtual studies courses for students at UniPID member universities from 2007 with increasing success. It receives it's core funding through member university fees. UniPID currently represents nine Finnish universities. https://www.unipid.fi/
 
-Universities also have their individual approaches. For example, the University of Helsinki published in October 2020 its Africa programme for 2021-2030. Global action, sustainability and responsibility are also emphasised in the Strategic Plan of the University of Helsinki 20212030. https://www.helsinki.fi/en/news/higher-education-science-policy/the-university-ofhelsinki-starts-a-new-africa-program-and-a-strategic-partnership-with-the-university-ofnairobi
+Universities also have their individual approaches. For example, the University of Helsinki published in October 2020 its Africa programme for 2021–2030. Global action, sustainability and responsibility are also emphasised in the Strategic Plan of the University of Helsinki 2021–2030. https://www.helsinki.fi/en/news/higher-education-science-policy/the-university-of-helsinki-starts-a-new-africa-program-and-a-strategic-partnership-with-the-university-of-nairobi
 
 Finnish Universities are also active partners with UNESCO. Universities host seven UNESCO Chairs  and  one  UNITWIN  network. The  majority  of  them  are  focused  on  the  field  of education. The University of Helsinki chairs a platform for dialogue and exchange, where UNESCO Chairs and the UNITWIN network can meet with other stakeholders in Finland, who are active in UNESCO's networks.
 
@@ -1205,7 +1201,7 @@ There  are  also scientific  associations with  aims  to  increase  multidiscipl
 
 To add, an academic Global Education Research in Finland (GERIF ) network was formed in  2018,  for  bringing  together  researchers  working  with  global  education  in  Finland.  The network transmits information about academic events and publications. It also takes part in continuous critical discussions on the position and objectives of global education. Each year, the network organizes events for researchers and practitioners, for instance in connection to the annual Finnish Educational Research Association conference. The network cooperates with the European ANGEL-network (Academic Network for global education and learning). https://gerif.home.blog/about-gerif/
 
-- H2 Please indicate which types of activities are available that promote international co-operation at each level of education by entering the appropriate number in each white cell.
+H2 Please indicate which types of activities are available that promote international co-operation at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -1224,9 +1220,9 @@ Other activities (please specify):
 
 ### I. Any other comments
 
-- I1 Please indicate whether your country has faced any constraints, in particular related to global or  national  crises,  including  natural  disasters,  in  implementing  the  1974  Recommendation during the reporting period.
+I1 Please indicate whether your country has faced any constraints, in particular related to global or national crises, including natural disasters, in implementing the 1974 Recommendation during the reporting period.
 
-- I2 Please provide any other relevant information or clarifications regarding the implementation of the 1974 Recommendation or the mainstreaming of GCED and ESD in your country's education system.
+I2 Please provide any other relevant information or clarifications regarding the implementation of the 1974 Recommendation or the mainstreaming of GCED and ESD in your country's education system.
 
 We wish to emphasize that our reply is  not  exhaustive.  Due  to  the  broad  scope  of  the  1974 Recommendation, as well as ESD and GCED, an exhaustive report would be virtually impossible to conduct, yet we have aimed at presenting some of the key measures.
 
@@ -1248,7 +1244,7 @@ Civil society actors are important in promoting ESD and GCED. The thematic exper
 
 Finland  is  also  active  in  international  networks.  For  example,  Finland  has  contributed  in  the development  of  the Council  of  Europe's  Reference  Framework  of  Competences  for Democratic Culture (RFCDC), which was among the priorities of Finland's Presidency in the CoE Committee of Ministers in spring 2019. The aims and principles of the Reference Framework promote human rights education in many ways.
 
-The RFCDC Framework, Vol. 1 by the Council of Europe has been translated in Finnish in 2020. The original can be downloaded at https://www.coe.int/en/web/reference-framework-ofcompetences-for-democratic-culture/rfcdc
+The RFCDC Framework, Vol. 1 by the Council of Europe has been translated in Finnish in 2020. The original can be downloaded at https://www.coe.int/en/web/reference-framework-of-competences-for-democratic-culture/rfcdc
 
 Additionally,  the  implementation  of  the  RFCDC  has  been  promoted  among  Finnish  schools through the CoE Free to Speak - safe to learn - Democratic Schools for All -campaign. The campaign's pages are at https://www.coe.int/en/web/campaign-free-to-speak-safe-to-learn
 
@@ -1256,9 +1252,9 @@ Parallel  to  the  democracy framework, and even prior to that, Finland has take
 
 Finland actively participates in the Global Education Network Europe (GENE). Over the past years, GENE has inspired not only the ways in which GCED has been elaborated in the core curricula,    but  also  provided  an  incentive  for  active  cross-ministerial  cooperation  (Ministry  for Foreign Affairs, MoE, EDUFI) to discuss and develop global education policies and funding in Finland.
 
-As  a  member  of IHRA (International  Holocaust  Remembrance  Alliance)  Finland  participates actively  in  IHRA  Plenary  meetings  and  has  a  permanently  acting  Finnish  National  IHRAcommittee  with  cross-ministerial  cooperation  (Ministry  for  Foreign  Affairs,  MoE,  EDUFI), University-researchers, National Advisory Board of Roma affairs, Peace Building Institute and the Jewish  community  of  Helsinki.  The  Recommendations  for  Teaching  and  Learning  about  the Holocaust (2019) by IHRA and UNESCO, have recently been translated in Finnish, by the Finnish National Agency for Education:
+As a member of IHRA (International Holocaust Remembrance Alliance) Finland participates actively in IHRA Plenary meetings and has a permanently acting Finnish National IHRA-committee with cross-ministerial cooperation (Ministry for Foreign Affairs, MoE, EDUFI), University-researchers, National Advisory Board of Roma affairs, Peace Building Institute and the Jewish community of Helsinki. The Recommendations for Teaching and Learning about the Holocaust (2019) by IHRA and UNESCO, have recently been translated in Finnish, by the Finnish National Agency for Education:
 
-https://holocaustremembrance.com/resources/educational-materials/ihra-recommendationsteaching-and-learning-about-holocaust
+https://holocaustremembrance.com/resources/educational-materials/ihra-recommendations-teaching-and-learning-about-holocaust
 
 The Ministry  for  Foreign  Affairs  provides  support  to  Finnish  CSOs to  carry  out  projects related to global  citizenship  education  and  development  communication to Finnish audiences,  including  in  primary,  secondary  and  higher  education,  vocational  education  and training, and the broader public through non-formal and informal education (including museums and film festivals). Human rights are visible in this funding instrument in at least three ways. First, according to Finland's Guidance Note on the Human Rights-Based Approach in Development Cooperation,  all  funded  projects  must  be  at  least  human  rights  sensitive,  and  indeed  many projects have human rights norms and principles at the centre of their analysis and objectives. Second, human rights are the topic of many projects, as they range from global challenges such as food security and the human rights of migrants to combatting racism and extremism in Finland. Third, the funding instrument includes since 2018 a thematic category on business' responsibility to respect human rights. In projects of this category, CSOs work mainly with Finnish companies with global supply chains, training them on the UN Guiding Principles on Business and Human Rights and measuring their compliance according to international standards.
 
