@@ -12,15 +12,15 @@ ORDER
 
 MADE by the Minister under section 77 (2) of the Education Act 1997 (NO. 11 of 1997).
 
-(Gazetted 14 th July , 2005).
+(Gazetted 14th July , 2005).
 
-- This Order may be cited as the -
+1. This Order may be cited as the -
 
 # EDUCATION  (COUNCIL  ON  EARLY  CHILDHOOD EDUCATION)  ORDER  2005.
 
-- In this Order the Education Act 1997 is referred to as 'the Act'.
+2. In this Order the Education Act 1997 is referred to as “the Act”.
 
-(1) The Council  on  Early  Childhood  Education  established by the Minister under section 77 (1) of the Act shall consist of following members appointed by the Minister as follows:
+3. (1) The Council  on  Early  Childhood  Education  established by the Minister under section 77 (1) of the Act shall consist of following members appointed by the Minister as follows:
 
 (a) two members from the Social Centre including the Director or his nominee;
 
@@ -44,16 +44,6 @@ Membership  of  the Council  on  Early Childhood Education.
 
 [[START OF PAGE 2]]
 
-Chairperson  and Deputy  Chairperson.
-
-Temporary appointment.
-
-Resignation  of members.
-
-Forfeiture  of membership.
-
-Filling  of  vacancies.
-
 2005 EDUCATION (COUNCIL ON EARLY S.R.O.14 CHILDHOOD EDUCATION)
 
 (g) a member representing the public at large.
@@ -71,6 +61,16 @@ Filling  of  vacancies.
 7. Any member of the Council who fails to attend three consecutive meetings without excuse acceptable to the Council shall cease to be a member.
 
 8. If any vacancy occurs in the membership of the Council such  vacancy  shall  be  filled  by  the  appointment  of  another member  who  may,  subject  to  this  Order  hold  office  for  the remainder of the period for which the previous member was appointed,  but  such  appointment  shall  be  made  in  the  same manner and from the same group or category of persons, if any, as the appointment of the previous member.
+
+Chairperson  and Deputy  Chairperson.
+
+Temporary appointment.
+
+Resignation  of members.
+
+Forfeiture  of membership.
+
+Filling  of  vacancies.
 
 [[END OF PAGE 2]]
 
@@ -116,19 +116,13 @@ Council  may  co-opt persons.
 
 [[START OF PAGE 4]]
 
-Council  may establish  committee.
-
-Minutes.
-
-Functions  of  the Council.
-
 2005 EDUCATION (COUNCIL ON EARLY S.R.O.14 CHILDHOOD EDUCATION)
 
 17. The Council may establish a committee from among its members to deal with any specific  matter  that  may  be  more effectively dealt with by such a committee and the committee, with the approval of the Chairperson, may co-opt to serve on the committee, any person whose assistance  and  advice  the  committee considers necessary for the purpose for which the committee is established.
 
 18. Minutes of the proceeding of the Council shall be kept in proper form.
 
-19. The functions of the Council are -
+19. The functions of the Council are –
 
 (a) to  advise  the  Minister  generally  on  policies  respecting the  provision  of  Early  Childhood  Education  Services in Dominica and without prejudice to the generality of the foregoing to advise the Minister -
 
@@ -144,6 +138,12 @@ Functions  of  the Council.
 
 (b) to  ensure,  in  collaboration  with  the  relevant  Ministries of  Government,  that  Early  Childhood  Education Facilities provide early childhood education that is safe, of good quality and appropriate to the needs of children under five years;
 
+Council  may establish  committee.
+
+Minutes.
+
+Functions  of  the Council.
+
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
@@ -152,7 +152,7 @@ Functions  of  the Council.
 
 (c) to deal appropriately with any other matter respecting early childhood education that the Minister considers it necessary to refer to the Council.
 
-20. (1) Prior  to  advising  the  Minister  on  any  matter  concerning early  childhood  education,  the  Council  may,  where  it  thinks advisable and with the approval of the Minister -
+20. (1) Prior  to  advising  the  Minister  on  any  matter  concerning early  childhood  education,  the  Council  may,  where  it  thinks advisable and with the approval of the Minister –
 
 (a) hold a public hearing into the matter;
 
@@ -178,17 +178,17 @@ Investigation  or mediation.
 
 [[START OF PAGE 6]]
 
-No  action  against Council.
-
 2005 EDUCATION (COUNCIL ON EARLY S.R.O.14 CHILDHOOD EDUCATION)
 
 23. No action lies against the Council or any of its members for anything done in good faith with respect to its functions or powers exercised under this Order.
 
-Made this 21 st  day of June , 2005.
+Made this 21st  day of June , 2005.
 
 VINCE HENDERSON
 
 Minister  for  Education, Sports,  Youth  Affairs and  Human  Resource
+
+No  action  against Council.
 
 Printed by the Government Printer at the Government Printery, Roseau (Price $1.20 cents).
 
