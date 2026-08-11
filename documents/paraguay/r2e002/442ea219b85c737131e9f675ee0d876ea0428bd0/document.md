@@ -1,6 +1,6 @@
 [[START OF PAGE 1]]
 
-# C Co on ns st ti i t tu uc ci ió ón n   d de e l la a R Re ep pú úb bl li ic ca a   d de e   P Pa ar ra ag gu ua ay y ( (1 19 99 92 2) )
+# Constitución de la República de Paraguay (1992)
 
 1
 
@@ -20,17 +20,17 @@ Asunción, 20 de junio de 1992
 
 ###### Artículo 1 - DE LA FORMA DEL ESTADO Y DE GOBIERNO
 
-La  República  del  Paraguay  es  para  siempre  libre  e  independiente.  Se  constituye  en  Estado social de derecho, unitario, indivisible, y descentralizado en la forma que se establecen esta Constitución y las leyes.
+La República del Paraguay es para siempre libre e independiente. Se constituye en Estado social de derecho, unitario, indivisible, y descentralizado en la forma que establecen esta Constitución y las leyes.
 
 La República del Paraguay adopta para su gobierno la democracia representativa, participativa y pluralista, fundada en el reconocimiento de la dignidad humana.
 
 ###### Artículo 2 - DE LA SOBERANÍA
 
-En la República del Paraguay y la soberanía reside en el pueblo, que la ejerce, conforme con lo dispuesto en esta Constitución.
+En la República del Paraguay, la soberanía reside en el pueblo, que la ejerce, conforme con lo dispuesto en esta Constitución.
 
-###### Artículo 3 - DEL PODER PUBLICO
+###### Artículo 3 - DEL PODER PÚBLICO
 
-El  pueblo  ejerce  el  Poder  Público  por  medio  del  sufragio.  El  gobierno  es  ejercido  por  los poderes legislativo, Ejecutivo y Judicial en un sistema de separación, equilibrio, coordinación y recíproco control. Ninguno de estos poderes puede atribuirse, ni otorgar a otro ni a persona alguna, individual o colectiva, facultades extraordinarias o la suma del Poder Público.
+El pueblo ejerce el Poder Público por medio del sufragio. El gobierno es ejercido por los poderes Legislativo, Ejecutivo y Judicial en un sistema de separación, equilibrio, coordinación y recíproco control. Ninguno de estos poderes puede atribuirse, ni otorgar a otro ni a persona alguna, individual o colectiva, facultades extraordinarias o la suma del Poder Público.
 
 La dictadura está fuera de ley.
 
@@ -48,7 +48,7 @@ La dictadura está fuera de ley.
 
 ###### Artículo 4 - DEL DERECHO A LA VIDA
 
-El derecho a la vida es inherente a la persona humana. Se garantiza su protección, en general, desde  la  concepción.  Queda  abolida  la  pena  de  muerte.  Toda  persona  será  protegida  por  el Estado  en  su  integridad  física  y  psíquica,  así  como  en  su  honor  y  en  su  reputación.  La  ley reglamentará  la  liberta  de  las  personas  para  disponer  de  su  propio  cuerpo,  sólo  con  fines científicos o médicos.
+El derecho a la vida es inherente a la persona humana. Se garantiza su protección, en general, desde la concepción. Queda abolida la pena de muerte. Toda persona será protegida por el Estado en su integridad física y psíquica, así como en su honor y en su reputación. La ley reglamentará la libertad de las personas para disponer de su propio cuerpo, sólo con fines científicos o médicos.
 
 ###### Artículo 5 - DE LA TORTURA Y DE OTROS DELITOS
 
@@ -74,7 +74,7 @@ Constituyen  objetivos  prioritarios  de  interés  social  la  preservación,  
 
 Las  actividades  susceptibles  de  producir  alteración  ambiental  serán  reguladas  por  la  ley. Asimismo, ésta podrá restringir o prohibir aquellas que califique peligrosas.
 
-Se prohibe la fabricación, el montaje, la importación, la comercialización, la posesión o el uso de  armas  nucleares,  químicas  y  biológicas,  así  como  la  introducción  al  país  de  residuos tóxicos.  La  ley  podrá  extender  ésta  prohibición  a  otros  elementos  peligrosos;  asimismo, regulará  el  tráfico  de  recursos  genéticos  y  de  su  tecnología,  precautelando  los  intereses nacionales.
+Se prohíbe la fabricación, el montaje, la importación, la comercialización, la posesión o el uso de armas nucleares, químicas y biológicas, así como la introducción al país de residuos tóxicos. La ley podrá extender esta prohibición a otros elementos peligrosos; asimismo, regulará el tráfico de recursos genéticos y de su tecnología, precautelando los intereses nacionales.
 
 3
 
@@ -90,9 +90,9 @@ El delito ecológico será definido y sancionado por la ley. Todo daño al ambie
 
 Toda persona tiene el derecho a ser protegida en su libertad y en su seguridad.
 
-Nadie está obligado a hacer lo que la ley no ordena ni privado de lo que ella no prohibe.
+Nadie está obligado a hacer lo que la ley no ordena ni privado de lo que ella no prohíbe.
 
-###### Artículo 10 -DE LA PROSCRIPCIÓN DE LA ESCLAVITUD Y OTRAS SERVIDUMBRES
+###### Artículo 10 - DE LA PROSCRIPCIÓN DE LA ESCLAVITUD Y OTRAS SERVIDUMBRES
 
 Están proscritas la esclavitud, las servidumbres personales y la trata de personas. La ley podrá establecer cargas sociales en favor del Estado.
 
@@ -108,7 +108,7 @@ Nadie será detenido ni arrestado sin orden escrita de autoridad competente, sal
 
 - que la detención sea inmediatamente comunicada a sus familiares o personas que el detenido indique;
 
-- que  se  le  mantenga  en  libre  comunicación,  salvo  que,  excepcionalmente,  se  halle establecida en su incomunicación por mandato judicial competente, la incomunicación no  regirá  respecto  a  su  defensor,  y  en  ningún  caso  podrá  exceder  del  término  que prescribe la ley;
+- que se le mantenga en libre comunicación, salvo que, excepcionalmente, se halle establecida su incomunicación por mandato judicial competente, la incomunicación no regirá respecto a su defensor, y en ningún caso podrá exceder del término que prescribe la ley;
 
 - que disponga de un intérprete, si fuere necesario, y a
 
@@ -128,9 +128,9 @@ No  se  admite  la  privación  de  la  libertad  por  deuda,  salvo  mandato  d
 
 Ninguna  ley  tendrá  efecto  retroactivo,  salvo  que  sea  más  favorable  al  encausado  o  al condenado.
 
-###### Artículo 15 - DE LA PROHIBICIÓN DE HACERSE JUSTICIA POR SI MISMO
+###### Artículo 15 - DE LA PROHIBICIÓN DE HACERSE JUSTICIA POR SÍ MISMO
 
-Nadie  podrá  hacerse  justicia  por  sí  mismo  ni  reclamar  sus  derecho  con  violencia.  Pero,  se garantiza la legítima defensa.
+Nadie podrá hacerse justicia por sí mismo ni reclamar sus derechos con violencia. Pero, se garantiza la legítima defensa.
 
 ###### Artículo 16 - DE LA DEFENSA EN JUICIO
 
@@ -176,7 +176,7 @@ Los actos ilícitos o la deshonra de los imputados no afectan a sus parientes o 
 
 ###### Artículo 19 - DE LA PRISIÓN PREVENTIVA
 
-La  prisión  preventiva  solo  será  dictada  cuando  fuese  indispensable  en  las  diligencias  del juicio.  En  ningún  caso  la  misma  se  prolongará  por  un  tiempo  mayor  al  de  la  pena  mínima establecida  para  igual  delito,  de  acuerdo  con  la  calificación  del  hecho  efectuada  en  el  auto respectivo.
+La prisión preventiva sólo será dictada cuando fuese indispensable en las diligencias del juicio. En ningún caso la misma se prolongará por un tiempo mayor al de la pena mínima establecida para igual delito, de acuerdo con la calificación del hecho efectuada en el auto respectivo.
 
 ###### Artículo 20 - DEL OBJETO DE LAS PENAS
 
@@ -236,7 +236,7 @@ El empleo de los medios de comunicación es de interés público; en consecuenci
 
 No se admitirá la prensa carente de dirección responsable.
 
-Se prohibe toda práctica discriminatoria en la provisión de insumos para la prensa, así como interferir las frecuencias radioeléctricas y obstruir, de la manera  que  fuese, la libre circulación, la distribución y la venta de periódicos, libros, revistas o demás publicaciones con dirección o autoría responsable.
+Se prohíbe toda práctica discriminatoria en la provisión de insumos para la prensa, así como interferir las frecuencias radioeléctricas y obstruir, de la manera que fuese, la libre circulación, la distribución y la venta de periódicos, libros, revistas o demás publicaciones con dirección o autoría responsable.
 
 Se garantiza el pluralismo informativo.
 
@@ -302,7 +302,7 @@ Los  documentos  identificatorios,  licencias  o  constancias  de  las  personas
 
 El  patrimonio  documental  de  las  personas  es  inviolable.  Los  registros,  cualquiera  sea  su técnica,  los  impresos,  la  correspondencia,  los  escritos,  las  comunicaciones  telefónicas, telegráficas  o  de  cualquier  otra  especie,  las  colecciones  o  reproducciones,  los  testimonios  y los objetos de valor testimonial, así como sus respectivas copias, no podrán ser examinados, reproducidos, interceptados o secuestrados sino por orden judicial para casos específicamente previstos en la ley, y siempre que fuesen indispensables para el esclarecimiento de los asuntos de competencia  de  las correspondientes autoridades. La ley determinará  modalidades especiales para el examen de la contabilidad comercial y de los registros legales obligatorios.
 
-Las  pruebas  documentales  obtenidas  en  violación  o  lo  precripto  anteriormente  carecen  de valor en juicio.
+Las pruebas documentales obtenidas en violación a lo prescripto anteriormente carecen de valor en juicio.
 
 En  todos  los  casos  se  guardará  estricta  reserva  sobre  aquello  que  no  haga  relación  con  lo investigado.
 
@@ -322,15 +322,15 @@ Toda  persona  tiene  derecho,  individual  o  colectivamente,  a  reclamar  a  
 
 ###### Artículo 39 - DEL DERECHO A LA INDEMNIZACIÓN JUSTA Y ADECUADA
 
-Toda  persona  tienen  derecho  a  ser  indemnizada  justa  y  adecuadamente  por  los  daños  o perjuicios de que fuere objeto por parte del Estado. La ley reglamentará este derecho.
+Toda persona tiene derecho a ser indemnizada justa y adecuadamente por los daños o perjuicios de que fuere objeto por parte del Estado. La ley reglamentará este derecho.
 
 ###### Artículo 40 - DEL DERECHO A PETICIONAR A LAS AUTORIDADES
 
-Toda  persona,  individual  o  colectivamente  y  sin  requisitos  especiales,  tienen  derecho  a peticionar a las autoridades, por escrito, quienes deberán responder dentro del plazo y según las  modalidades que la ley determine. Se reputará denegada toda petición que no obtuviese respuesta en dicho plazo.
+Toda persona, individual o colectivamente y sin requisitos especiales, tiene derecho a peticionar a las autoridades, por escrito, quienes deberán responder dentro del plazo y según las modalidades que la ley determine. Se reputará denegada toda petición que no obtuviese respuesta en dicho plazo.
 
-###### Artículo 41 - DEL DERECHO AL TRANSITO Y A LA RESIDENCIA
+###### Artículo 41 - DEL DERECHO AL TRÁNSITO Y A LA RESIDENCIA
 
-Todo  paraguayo  tienen  derecho  a  residir  en  su  Patria.  Los  habitantes  pueden  transitar libremente por el territorio nacional, cambiar de domicilio o de residencia, ausentarse de la República o volver a ella y, de acuerdo con la ley, incorporar sus bienes al país o sacarlos de él. Las migraciones serán reglamentadas por la ley, con observancia de estos derechos.
+Todo paraguayo tiene derecho a residir en su Patria. Los habitantes pueden transitar libremente por el territorio nacional, cambiar de domicilio o de residencia, ausentarse de la República o volver a ella y, de acuerdo con la ley, incorporar sus bienes al país o sacarlos de él. Las migraciones serán reglamentadas por la ley, con observancia de estos derechos.
 
 El  ingreso  de  los  extranjeros  sin  radicación  definitiva  en  el  país  será  regulado  por  la  ley, considerando los convenios internacionales sobre la materia.
 
@@ -418,7 +418,7 @@ Los  hijos  mayores  de  edad  están  obligados  a  prestar  asistencia  a  sus
 
 La  ley  reglamentará  la  ayuda  que  se  debe  prestar  a  la  familia  de  prole  numerosa  y  a  las mujeres cabeza de familia.
 
-Todos los hijos son iguales ante la ley. Esta posibilitará la investigación de la paternidad. Se prohibe cualquier calificación sobre la filiación en los documentos personales.
+Todos los hijos son iguales ante la ley. Esta posibilitará la investigación de la paternidad. Se prohíbe cualquier calificación sobre la filiación en los documentos personales.
 
 ###### Artículo 54 - DE LA PROTECCIÓN AL NIÑO
 
@@ -484,13 +484,13 @@ Queda  reconocido  y  garantizado  el  derecho  de  los  pueblos  indígenas  a 
 
 ###### Artículo 64 - DE LA PROPIEDAD COMUNITARIA
 
-Los pueblos indígenas tienen derecho a la propiedad comunitaria de la tierra, en extensión y calidad suficientes para la conservación y el desarrollo de sus formas peculiares de vida. El Estado les proveerá gratuitamente de estas tierras, las cuales serán inembargables, indivisibles,  intransferibles,  imprescriptibles,  no  susceptibles,  no  susceptibles  de  garantizar obligaciones contractuales ni de ser arrendadas; asimismo, estarán exentas de tributo.
+Los pueblos indígenas tienen derecho a la propiedad comunitaria de la tierra, en extensión y calidad suficientes para la conservación y el desarrollo de sus formas peculiares de vida. El Estado les proveerá gratuitamente de estas tierras, las cuales serán inembargables, indivisibles, intransferibles, imprescriptibles, no susceptibles de garantizar obligaciones contractuales ni de ser arrendadas; asimismo, estarán exentas de tributo.
 
-Se prohibe la remoción o traslado de su hábitat sin el expreso consentimiento de los mismos.
+Se prohíbe la remoción o traslado de su hábitat sin el expreso consentimiento de los mismos.
 
 ###### Artículo 65 - DEL DERECHO A LA PARTICIPACIÓN
 
-Se  garantiza  a  los  pueblos  indígenas  el  derecho  a  participar  en  la  vida  económica,  social, política y cultural del país, de acuerdo con sus usos consuetudinarios, ésta Constitución y las leyes nacionales.
+Se garantiza a los pueblos indígenas el derecho a participar en la vida económica, social, política y cultural del país, de acuerdo con sus usos consuetudinarios, esta Constitución y las leyes nacionales.
 
 ###### Artículo 66 - DE LA EDUCACIÓN Y LA ASISTENCIA
 
@@ -526,7 +526,7 @@ La ley establecerá programas de bienestar social mediante estrategias basadas e
 
 ###### Artículo  71  -  DEL  NARCOTRÁFICO,  DE  LA  DROGADICCIÓN  Y  DE  LA REHABILITACIÓN
 
-El  Estado  reprimirá  la  producción,  y  el  tráfico  ilícitos  de  las  sustancias  estupefacientes  y demás  drogas  peligrosas,  así  como  los  actos  destinados  a  la  legitimación  del  dinero proveniente de tales actividades. Igualmente combatirá el consumo ilícito de dichas drogas. La ley reglamentará la producción y el uso medicinal de las mismas.
+El Estado reprimirá la producción y el tráfico ilícitos de las sustancias estupefacientes y demás drogas peligrosas, así como los actos destinados a la legitimación del dinero proveniente de tales actividades. Igualmente combatirá el consumo ilícito de dichas drogas. La ley reglamentará la producción y el uso medicinal de las mismas.
 
 Se establecerán programas de educación preventiva y de rehabilitación de los adictos, con la participación de organizaciones privadas.
 
@@ -540,7 +540,7 @@ El  Estado  velará  por  el  control  de  la  calidad  de  los  productos  alim
 
 [[START OF PAGE 16]]
 
-Asimismo facilitará el acceso de factores de escasos recursos a los medicamentos considerados esenciales.
+Asimismo facilitará el acceso de sectores de escasos recursos a los medicamentos considerados esenciales.
 
 #### CAPÍTULO VII DE LA EDUCACIÓN Y DE LA CULTURA
 
@@ -576,11 +576,11 @@ La  organización  del  sistema  educativo  es  responsabilidad  esencial  del  
 
 [[START OF PAGE 17]]
 
-La enseñanza en los comienzos del proceso escolar se realizará en la lengua oficial materna del  educando.  Se  instruirá  asimismo  en  el  conocimiento  y  en  el  empleo  de  ambos  idiomas oficiales de la República
+La enseñanza en los comienzos del proceso escolar se realizará en la lengua oficial materna del educando. Se instruirá asimismo en el conocimiento y en el empleo de ambos idiomas oficiales de la República.
 
 En el caso de las minorías étnicas cuya lengua materna no sea el guaraní, se podrá elegir uno de los dos idiomas oficiales.
 
-###### Artículo 78 - DE LA EDUCACIÓN TECNICA
+###### Artículo 78 - DE LA EDUCACIÓN TÉCNICA
 
 El Estado fomentará la capacitación para el trabajo por medio de la enseñanza técnica, a fin de formar los recursos humanos requeridos para el desarrollo nacional.
 
@@ -600,7 +600,7 @@ Se arbitrarán los medios necesarios para la conservación, el rescate y la rest
 
 El Estado definirá y registrará aquellos que se encuentren en el país y, en su caso, gestionará la  recuperación  de  los  que  se  hallen  en  el  extranjero.  Los  organismos  competentes  se encargarán de la salvaguarda y del rescate de las diversas expresiones de la cultura oral y de la memoria  colectiva  de  la  Nación,  cooperando  con  los  particulares  que  persigan  el  mismo objetivo.  Quedan  prohibidos  el  uso  inapropiado  y  el  empleo  desnaturalizante  de  dichos bienes,  su  destrucción,  su  alteración  dolosa,  la  remoción  de  sus  lugares  originarios  y  su enajenación con fines de exportación.
 
-###### Artículo 82 - DEL RECONOCIMIENTO A LA IGLESIA CATOLICA
+###### Artículo 82 - DEL RECONOCIMIENTO A LA IGLESIA CATÓLICA
 
 17
 
@@ -610,7 +610,7 @@ El Estado definirá y registrará aquellos que se encuentren en el país y, en s
 
 Se reconoce el protagonismo de la Iglesia Católica en la formación histórica y cultural de la Nación.
 
-###### Artículo  83  -  DE  LA  DIFUSIÓN  CULTURAL  Y  DE  LA  EXONERACION  DE  LOS IMPUESTOS
+###### Artículo 83 - DE LA DIFUSIÓN CULTURAL Y DE LA EXONERACIÓN DE LOS IMPUESTOS
 
 Los objetos, las publicaciones y las actividades que posean valor significativo para la difusión cultural  y  para  la  educación,  no  se  gravarán  con  impuestos  fiscales  ni  municipales.  La  ley reglamentará  estas  exoneraciones  y  establecerá  un  régimen  de  estímulo  para  introducción  e incorporación  al  país  de  los  elementos  necesarios  para  el  ejercicio  de  las  artes  y  de  la investigación científica y tecnológica, así como para su difusión en el país y en el extranjero.
 
@@ -618,7 +618,7 @@ Los objetos, las publicaciones y las actividades que posean valor significativo 
 
 El Estado promoverá los deportes, en especial los de carácter no profesional, que estimulen la educación física, brindando apoyo económico y exenciones impositivas a establecerse en la ley. Igualmente, estimulará la participación nacional en competencias internacionales.
 
-###### Artículo 85 - DEL MINIMO PRESUPUESTARIO
+###### Artículo 85 - DEL MÍNIMO PRESUPUESTARIO
 
 Los  recursos  destinados  a  la  educación  en  el  Presupuesto  General  de  la  Nación  no  serán inferiores  al  veinte  por  ciento  del  total  asignado  a  la  Administración  Central,  excluidos  los préstamos y las donaciones.
 
@@ -634,9 +634,9 @@ La ley protegerá el trabajo en todas sus formas y los derechos que ella otorga 
 
 ###### Artículo 87 - DEL PLENO EMPLEO
 
-El Estado promoverá políticas que tiendas al plano empleo y a la formación profesional de recursos humanos, dando preferencia al trabajador nacional.
+El Estado promoverá políticas que tiendan al pleno empleo y a la formación profesional de recursos humanos, dando preferencia al trabajador nacional.
 
-###### Artículo 88 - DE LA NO DISCRIMINACION
+###### Artículo 88 - DE LA NO DISCRIMINACIÓN
 
 No  se  admitirá  discriminación  alguna  entre  los  trabajadores  por  motivos  étnicos,  de  sexo, edad, religión, condición social y preferencias políticas o sindicales.
 
@@ -666,7 +666,7 @@ Los descansos y las vacaciones anuales serán remunerados conforme con la ley.
 
 ###### Artículo 92 - DE LA RETRIBUCIÓN DEL TRABAJO
 
-El  trabajador  tienen  derechos  a  disfrutar  de  una  remuneración  que  le  asegure,  a  él  y  a  su familia, una existencia libre y digna.
+El trabajador tiene derecho a disfrutar de una remuneración que le asegure, a él y a su familia, una existencia libre y digna.
 
 La  ley  consagrará  el  salario  vital  mínimo,  el  aguinaldo  anual,  la  bonificación  familiar,  el reconocimiento de un salario superior al básico por horas de trabajo insalubre o riesgoso, y las horas  extraordinarias,  nocturnas  y  en  días  feriados.  Corresponde,  básicamente,  igual  salario por igual trabajo.
 
@@ -674,7 +674,7 @@ La  ley  consagrará  el  salario  vital  mínimo,  el  aguinaldo  anual,  la  b
 
 El Estado establecerá un régimen de estímulo a las empresas que incentiven con beneficios adicionales  a  sus  trabajadores.  Tales  emolumentos  serán  independientes  de  los  respectivos salarios y de otros beneficios legales.
 
-###### Artículo 94 - DE LA ESTABILIDAD Y DE LA INDEMNIZACION
+###### Artículo 94 - DE LA ESTABILIDAD Y DE LA INDEMNIZACIÓN
 
 El derecho a la estabilidad del trabajador queda garantizado dentro de los límites que la ley establezca, así como su derecho a la indemnización en caso de despido injustificado.
 
@@ -690,7 +690,7 @@ El  sistema  obligatorio  e  integral  de  seguridad  social  para  el  trabajad
 
 Los  servicios  del  sistema  de  seguridad  social  podrán  ser  públicos,  privados  o  mixtos,  y  en todos los casos estarán supervisados por el Estado.
 
-Los recursos financieros de los seguros sociales no serán desviados de sus fines específicos y; estarán disponibles para este objetivo, sin perjuicio de las inversiones lucrativas que puedan acrecentar su patrimonio.
+Los recursos financieros de los seguros sociales no serán desviados de sus fines específicos y estarán disponibles para este objetivo, sin perjuicio de las inversiones lucrativas que puedan acrecentar su patrimonio.
 
 ###### Artículo 96 - DE LA LIBERTAD SINDICAL
 
@@ -702,7 +702,7 @@ En la elección de las autoridades y en el funcionamiento de los sindicatos se o
 
 ###### Artículo 97 - DE LOS CONVENIOS COLECTIVOS
 
-Los  sindicatos  tienen  el  derechos  a  promover  acciones  colectivas  y  a  concertar  convenios sobre las condiciones de trabajo.
+Los sindicatos tienen el derecho a promover acciones colectivas y a concertar convenios sobre las condiciones de trabajo.
 
 El Estado favorecerá las soluciones conciliatorias de los conflictos de trabajo y la concertación social. El arbitraje será optativo.
 
@@ -730,19 +730,19 @@ Todos los habitantes de la República tienen derecho a una vivienda digna.
 
 El Estado establecerá las condiciones para hacer efectivo este derecho, y promoverá planes de vivienda  de  interés  social,  especialmente  las  destinadas  a  familias  de  escasos  recursos, mediante sistemas de financiamiento adecuados.
 
-##### SECCIÓN II DE LA FUNCIÓN PUBLICA
+##### SECCIÓN II DE LA FUNCIÓN PÚBLICA
 
-###### Artículo 101 - DE LOS FUNCIONARIOS Y DE LOS EMPLEADOS PUBLICOS
+###### Artículo 101 - DE LOS FUNCIONARIOS Y DE LOS EMPLEADOS PÚBLICOS
 
 Los funcionarios y los empleados públicos están al servicio del país. Todos los paraguayos tienen el derecho a ocupar funciones y empleos públicos.
 
 La  ley  reglamentará  las  distintas  carreras  en  las  cuales  dichos  funcionarios  y  empleados presten servicios, las que, sin perjuicio de otras, son la judicial, la docente, la diplomática y consular,  la  de  investigación  científica  y  tecnológica,  la  de  servicio  civil,  la  militar  y  la policial.
 
-###### Artículo 102 - DE LOS DERECHOS LABORALES DE LOS FUNCIONARIOS Y DE LOS EMPLEADOS PUBLICOS
+###### Artículo 102 - DE LOS DERECHOS LABORALES DE LOS FUNCIONARIOS Y DE LOS EMPLEADOS PÚBLICOS
 
 Los  funcionarios  y  los  empleados  públicos  gozan  de  los  derechos  establecidos  en  esta Constitución en la sección de derechos laborales, en un régimen uniforme para las distintas carreras  dentro  de  los  límites  establecidos  por  la  ley  y  con  resguardo  de  los  derechos adquiridos.
 
-###### Artículo 103 - DEL REGIMEN DE JUBILACIONES
+###### Artículo 103 - DEL RÉGIMEN DE JUBILACIONES
 
 Dentro del sistema nacional de seguridad social, la ley regulará el régimen de jubilaciones de los  funcionarios  y  los  empleados  públicos,  atendiendo  a  que  los  organismos  autárquicos creados con ese propósito acuerden a los aportantes y jubilados la administración de dichos entes bajo control estatal. Participarán del mismo régimen todos los que, bajo cualquier título, presten servicios al Estado.
 
@@ -758,17 +758,17 @@ Los  funcionarios  y  los  empleados  públicos,  incluyendo  a  los  de  elecci
 
 [[START OF PAGE 22]]
 
-###### Artículo 105 - DE LA PROHIBICIÓN DE DOBLE REMUNERACION
+###### Artículo 105 - DE LA PROHIBICIÓN DE DOBLE REMUNERACIÓN
 
 Ninguna persona podrá percibir como funcionario o empleado público, más de un sueldo o remuneración  simultáneamente,  con  excepción  de  los  que  provengan  del  ejercicio  de  la docencia.
 
-###### Artículo 106 -DE LA RESPONSABILIDAD DEL FUNCIONARIO Y DEL EMPLEADO PUBLICO
+###### Artículo 106 - DE LA RESPONSABILIDAD DEL FUNCIONARIO Y DEL EMPLEADO PÚBLICO
 
-Ningún  funcionario  o  empleado  público  está  exento  de  responsabilidad.  En  los  casos  de transgresiones,  delitos  o  faltas  que  cometiesen  en  el  desempeño  de  sus  funciones,  son personalmente  responsables,  sin  perjuicio  de  la  responsabilidad  subsidiaria  del  Estado,  con derecho de éste a repetir el pago de lo que llegase a abandonar en tal concepto.
+Ningún funcionario o empleado público está exento de responsabilidad. En los casos de transgresiones, delitos o faltas que cometiesen en el desempeño de sus funciones, son personalmente responsables, sin perjuicio de la responsabilidad subsidiaria del Estado, con derecho de éste a repetir el pago de lo que llegase a abonar en tal concepto.
 
-#### CAPÍTULO IX DE LOS DERECHOS ECONOMICOS Y DE LA REFORMA AGRARIA
+#### CAPÍTULO IX DE LOS DERECHOS ECONÓMICOS Y DE LA REFORMA AGRARIA
 
-##### SECCIÓN I DE LOS DERECHOS ECONOMICOS
+##### SECCIÓN I DE LOS DERECHOS ECONÓMICOS
 
 ###### Artículo 107 - DE LA LIBERTAD DE CONCURRENCIA
 
@@ -798,13 +798,13 @@ Nadie puede ser privado de su propiedad sino en virtud de sentencia judicial, pe
 
 Todo autor, inventor, productor o comerciante gozará de la propiedad exclusiva de su obra, invención, marca o nombre comercial, con arreglo a la ley.
 
-###### Artículo 111 - DE LAS TRANSFERENCIAS DE LAS EMPRESAS PUBLICAS
+###### Artículo 111 - DE LAS TRANSFERENCIAS DE LAS EMPRESAS PÚBLICAS
 
 Siempre que el Estado resuelva transferir empresas públicas o su participación en las mismas al sector privado, dará opción preferencial de compra  a  los trabajadores y sectores involucrados  directamente  con  la  empresa.  La  ley  regulará  la  forma  en  que  se  establecerá dicha opción.
 
 ###### Artículo 112 - DEL DOMINIO DEL ESTADO
 
-Corresponde al Estado el dominio de los hidrocarburos, minerales sólidos, líquidos y gaseosos que  se  encuentre  en  estado  natural  en  el  territorio  de  la  República,  con  excepción  de  las sustancias pétreas, terrosas y calcáreas.
+Corresponde al Estado el dominio de los hidrocarburos, minerales sólidos, líquidos y gaseosos que se encuentren en estado natural en el territorio de la República, con excepción de las sustancias pétreas, terrosas y calcáreas.
 
 El  Estado  podrá  otorgar  concesiones  a  personas  o  empresas  públicas  o  privadas,  mixtas, nacionales o extranjeras, para la prospección, la exploración, la investigación, el cateo o la explotación de yacimientos, por tiempo limitado.
 
@@ -820,7 +820,7 @@ Los principios del cooperativismo como instrumento del desarrollo económico nac
 
 ###### Artículo 114 - DE LOS OBJETIVOS DE LA REFORMA AGRARIA
 
-La  reforma  agraria  es  uno  de  los  factores  fundamentales  para  lograr  el  bienestar  rural.  ella consiste  en  la  incorporación  efectiva  de  la  población  campesina  al  desarrollo  económico  y social de la Nación. Se adoptarán sistemas equitativos de distribución, propiedad y tenencia de  la  tierra;  se  organizarán  el  crédito  y  la  asistencia  técnica,  educacional  y  sanitaria;  se fomentará  la  creación  de  cooperativas  agrícolas  y  de  otras  asociaciones  similares,  y  se promoverá  la  producción,  la  industrialización  y  la  racionalización  del  mercado  para  el desarrollo integral del agro.
+La reforma agraria es uno de los factores fundamentales para lograr el bienestar rural. Ella consiste en la incorporación efectiva de la población campesina al desarrollo económico y social de la Nación. Se adoptarán sistemas equitativos de distribución, propiedad y tenencia de la tierra; se organizarán el crédito y la asistencia técnica, educacional y sanitaria; se fomentará la creación de cooperativas agrícolas y de otras asociaciones similares, y se promoverá la producción, la industrialización y la racionalización del mercado para el desarrollo integral del agro.
 
 23
 
@@ -874,11 +874,11 @@ Con el objeto de eliminar progresivamente los latifundios improductivos, la ley 
 
 [[START OF PAGE 25]]
 
-La  expropiación  de  los  latifundios  improductivos  destinados  a  la  reforma  agraria  serán establecidas  en  cada  caso  por  la  ley,  y  se  abonará  en  la  forma  y  en  el  plazo  que  la  misma determine.
+Las expropiaciones de los latifundios improductivos destinados a la reforma agraria serán establecidas en cada caso por la ley, y se abonará en la forma y en el plazo que la misma determine.
 
-#### CAPÍTULO X DE LOS DERECHOS Y DE LOS DEBERES POLITICOS
+#### CAPÍTULO X DE LOS DERECHOS Y DE LOS DEBERES POLÍTICOS
 
-###### Artículo 117 - DE LOS DERECHOS POLITICOS
+###### Artículo 117 - DE LOS DERECHOS POLÍTICOS
 
 Los ciudadanos, sin distinción de sexo, tienen el derecho a participar en los asuntos públicos, directamente o por medio de sus representantes, en la forma que determine esta Constitución y las leyes.
 
@@ -902,13 +902,13 @@ Los ciudadanos son electores y elegibles, sin más restricciones que las estable
 
 Los  extranjeros  con  radicación  definitiva  tendrán  los  mismos  derechos  en  las  elecciones municipales.
 
-###### Artículo 121 - DEL REFERENDUM
+###### Artículo 121 - DEL REFERÉNDUM
 
-El referendum legislativo, decidido por ley, podrá o no ser vinculante. Esta institución será reglamentada por ley.
+El referéndum legislativo, decidido por ley, podrá o no ser vinculante. Esta institución será reglamentada por ley.
 
-###### Artículo  122  -  DE  LAS  MATERIAS  QUE  NO  PODRAN  SER  OBJETO  DE REFERENDUM
+###### Artículo 122 - DE LAS MATERIAS QUE NO PODRÁN SER OBJETO DE REFERÉNDUM
 
-No podrán ser objeto de referendum:
+No podrán ser objeto de referéndum:
 
 25
 
@@ -924,7 +924,7 @@ No podrán ser objeto de referendum:
 
 - la limitación de la propiedad inmobiliaria;
 
-- las cuestiones relativas a los sistemas tributarios, monetarios y bancarios, la contratación de empréstitos, el Presupuestos General de la Nación, y
+- las cuestiones relativas a los sistemas tributarios, monetarios y bancarios, la contratación de empréstitos, el Presupuesto General de la Nación, y
 
 - las elecciones nacionales, las departamentales y las municipales.
 
@@ -980,7 +980,7 @@ Las mujeres no prestarán servicio militar sino como auxiliares, en caso de nece
 
 Quienes declaren su objeción de conciencia prestarán servicio en beneficio de la población civil,  a  través  de  centros  asistenciales  designados  por  ley  y  bajo  jurisdicción  civil.  La reglamentación y el ejercicio de este derecho no deberán tener carácter punitivo ni impondrán gravámenes superiores a los establecidos para el servicio militar.
 
-Se  prohibe  el  servicio  militar  personal  no  determinado  en  la  ley,  o  para  beneficio  o  lucro particular de personas o entidades privadas.
+Se  prohíbe  el  servicio  militar  personal  no  determinado  en  la  ley,  o  para  beneficio  o  lucro particular de personas o entidades privadas.
 
 La ley reglamentará la contribución de los extranjeros a la defensa nacional.
 
@@ -998,7 +998,7 @@ En  los  beneficios  económicos  les  sucederán  sus  viudas  e  hijos  menore
 
 Los beneficios acordados a los beneméritos de la Patria no sufrirán restricciones y serán de vigencia inmediata, sin más requisito que su certificación fehaciente.
 
-Los ex prisioneros de guerra bolivianos, quienes desde la firma del Tratado de Paz hubiesen optado por integrarse definitivamente al país, quedan equiparados a los veteranos de la guerra del chaco, en los beneficios económicos y prestaciones asistenciales.
+Los ex prisioneros de guerra bolivianos, quienes desde la firma del Tratado de Paz hubiesen optado por integrarse definitivamente al país, quedan equiparados a los veteranos de la guerra del Chaco, en los beneficios económicos y prestaciones asistenciales.
 
 #### CAPÍTULO XII DE LAS GARANTÍAS CONSTITUCIONALES
 
@@ -1008,11 +1008,11 @@ Para hacer efectivos los derechos consagrados en esta Constitución, se establec
 
 ###### Artículo 132 - DE LA INCONSTITUCIONALIDAD
 
-La corte suprema de Justicia tiene facultad para declarar la inconstitucionalidad de las normas jurídicas y de las resoluciones judiciales, en la forma y con los alcances establecidos en esta Constitución y en la ley.
+La Corte Suprema de Justicia tiene facultad para declarar la inconstitucionalidad de las normas jurídicas y de las resoluciones judiciales, en la forma y con los alcances establecidos en esta Constitución y en la ley.
 
 ###### Artículo 133 - DEL HABEAS CORPUS
 
-Esta  garantía  podrá  ser  interpuesto  por  el  afectado,  por  sí  o  por  interpósita  persona,  sin necesidad de poder por cualquier medio fehaciente, y ante cualquier Juez de Primera Instancia de la circunscripción judicial respectiva.
+Esta  garantía  podrá  ser  interpuesta  por  el  afectado,  por  sí  o  por  interpósita  persona,  sin necesidad de poder por cualquier medio fehaciente, y ante cualquier Juez de Primera Instancia de la circunscripción judicial respectiva.
 
 El Hábeas Corpus podrá ser:
 
@@ -1032,7 +1032,7 @@ La  ley  reglamentará  las  diversas  modalidades  del  hábeas  corpus,  las  
 
 ###### Artículo 134 - DEL AMPARO
 
-Toda persona que por un acto u omisión, manifestamente ilegítimo, de una autoridad o de un particular, se considere lesionada gravemente, o en peligro inminente de serlo en derechos o garantías consagradas en esta Constitución o en la ley, y que debido a la urgencia del caso no pudiera remediarse  por  la  vía  ordinaria,  puede  promover  amparo  ante  el  magistrado competente. el procedimiento será breve, sumario, gratuito, y de acción popular para los casos previstos en la ley.
+Toda persona que por un acto u omisión, manifiestamente ilegítimo, de una autoridad o de un particular, se considere lesionada gravemente, o en peligro inminente de serlo en derechos o garantías consagrados en esta Constitución o en la ley, y que debido a la urgencia del caso no pudiera remediarse  por  la  vía  ordinaria,  puede  promover  amparo  ante  el  magistrado competente. El procedimiento será breve, sumario, gratuito, y de acción popular para los casos previstos en la ley.
 
 El  magistrado  tendrá  facultad  para  salvaguardar  el  derecho  o  garantía,  o  para  restablecer inmediatamente la situación jurídica infringida.
 
@@ -1044,13 +1044,13 @@ La  ley  reglamentará  el  respectivo  procedimiento.  Las  sentencias  recaíd
 
 ###### Artículo 135 - DEL HABEAS DATA
 
-Toda persona puede acceder a la información y a los datos que sobre si misma, o sobre sus bienes, obren en registros oficiales o privados de carácter público, así como conocer el uso que se haga de los mismos y de su finalidad. Podrá solicitar ante el magistrado competente la actualización,  la  rectificación  o  la  destrucción  de  aquellos,  si  fuesen  erróneos  o  afectaran ilegítimamente sus derechos.
+Toda persona puede acceder a la información y a los datos que sobre sí misma, o sobre sus bienes, obren en registros oficiales o privados de carácter público, así como conocer el uso que se haga de los mismos y de su finalidad. Podrá solicitar ante el magistrado competente la actualización,  la  rectificación  o  la  destrucción  de  aquellos,  si  fuesen  erróneos  o  afectaran ilegítimamente sus derechos.
 
 ###### Artículo  136  -  DE  LA  COMPETENCIA  Y  DE  LA  RESPONSABILIDAD  DE  LOS MAGISTRADOS
 
 Ningún magistrado judicial que tenga competencia podrá negarse a entender en las acciones o recursos previstos en los artículos anteriores; si lo hiciese injustificadamente, será enjuiciado y, en su caso, removido.
 
-En  las  decisiones  que  dicte,  el  magistrado  judicial  deberá  pronunciarse  también  sobre  las responsabilidades en que hubieran incurrido las autoridades por obra del proceder ilegítimo y, de  mediar  circunstancias  que  prima  facie  evidencien  la  perpetración  de  delito,  ordenará  la detención o suspensión de los responsables, así como toda medida cautelar que sea procedente para  la  mayor  efectividad  de  dichas  responsabilidades.  Asimismo,  si  tuviese  competencia, instruirá  el  sumario,  pertinente  y  dará  intervención  al  Ministerio  Público;  si  no  la  tuviese, pasará los antecedentes al magistrado competente par su prosecución.
+En  las  decisiones  que  dicte,  el  magistrado  judicial  deberá  pronunciarse  también  sobre  las responsabilidades en que hubieran incurrido las autoridades por obra del proceder ilegítimo y, de  mediar  circunstancias  que  prima  facie  evidencien  la  perpetración  de  delito,  ordenará  la detención o suspensión de los responsables, así como toda medida cautelar que sea procedente para  la  mayor  efectividad  de  dichas  responsabilidades.  Asimismo,  si  tuviese  competencia, instruirá  el  sumario pertinente y  dará  intervención  al  Ministerio  Público;  si  no  la  tuviese, pasará los antecedentes al magistrado competente para su prosecución.
 
 29
 
@@ -1076,7 +1076,7 @@ Carecen de validez todas las disposiciones o actos de autoridad opuestos a lo es
 
 ###### Artículo 138 - DE LA VALIDEZ DEL ORDEN JURIDICO
 
-Se autoriza a los ciudadanos a resistir a dichos usurpadores, por todos los medios a su alcance. En  la  hipótesis  de  que  esa  persona  o  grupo  de  personas,  invocando  cualquier  principio  o representación contraria a esta constitución, detenten el poder público, sus actos se declaren nulos y sin ningún valor, no vinculantes y, por lo mismo, el pueblo en ejercicio de su derecho de resistencia a la opresión, queda dispensado de su cumplimiento.
+Se autoriza a los ciudadanos a resistir a dichos usurpadores, por todos los medios a su alcance. En  la  hipótesis  de  que  esa  persona  o  grupo  de  personas,  invocando  cualquier  principio  o representación contraria a esta Constitución, detenten el poder público, sus actos se declaran nulos y sin ningún valor, no vinculantes y, por lo mismo, el pueblo en ejercicio de su derecho de resistencia a la opresión, queda dispensado de su cumplimiento.
 
 Los estados extranjeros que, por cualquier circunstancia, se relacionen con tales usurpadores no  podrán  invocar  ningún  pacto,  tratado  ni  acuerdo  suscrito  o  autorizado  por  el  gobierno usurpador, para exigirlo posteriormente como obligación o compromiso de la República del Paraguay.
 
@@ -1096,7 +1096,7 @@ Son símbolos de la República del Paraguay:
 
 [[START OF PAGE 31]]
 
-La  ley  reglamentará  las  características  de  los  símbolos  de  la  República  no  previstos  en  la resolución del Congreso General Extraordinario del 25 de noviembre de 1942, y determinando su uso.
+La  ley  reglamentará  las  características  de  los  símbolos  de  la  República  no  previstos  en  la resolución del Congreso General Extraordinario del 25 de noviembre de 1942, y determinará su uso.
 
 ###### Artículo 140 - DE LOS IDIOMAS
 
@@ -1110,7 +1110,7 @@ Las lenguas indígenas, así como las de otras minorías, forman parte del patri
 
 ###### Artículo 141 - DE LOS TRATADOS INTERNACIONALES
 
-Los tratados internacionales validamente celebrados, aprobados por ley del Congreso, y cuyos instrumentos de ratificación fueran canjeados o depositados, forman parte del ordenamiento legal interno con la jerarquía que determina el Artículo 137.
+Los tratados internacionales válidamente celebrados, aprobados por ley del Congreso, y cuyos instrumentos de ratificación fueran canjeados o depositados, forman parte del ordenamiento legal interno con la jerarquía que determina el Artículo 137.
 
 ###### Artículo 142 - DE LA DENUNCIA DE LOS TRATADOS
 
@@ -1234,7 +1234,7 @@ El Poder Judicial tendrá competencia exclusiva para entender en estos casos.
 
 ###### Artículo 155 -DEL TERRITORIO, DE LA SOBERANÍA Y DE LA INENAJENABILIDAD
 
-El  territorio  nacional  jamás  podrá  ser  cedido,  transferido,  arrendad,  ni  en  forma  alguna enajenado,  aún  temporalmente,  a  ninguna  potencia  extranjera.  Los  Estados  que  mantengan relaciones  diplomáticas  con  la  República,  así  como  los  organismos  internacionales  de  los cuales  ella  forma  parte,  sólo  podrán  adquirir  los  inmuebles  necesarios  para  la  sede  de  sus representaciones, de acuerdo con las prescripciones de la ley. En estos casos, quedará siempre a salvo la soberanía nacional sobre el suelo.
+El  territorio  nacional  jamás  podrá  ser  cedido,  transferido,  arrendado,  ni  en  forma  alguna enajenado,  aún  temporalmente,  a  ninguna  potencia  extranjera.  Los  Estados  que  mantengan relaciones  diplomáticas  con  la  República,  así  como  los  organismos  internacionales  de  los cuales  ella  forma  parte,  sólo  podrán  adquirir  los  inmuebles  necesarios  para  la  sede  de  sus representaciones, de acuerdo con las prescripciones de la ley. En estos casos, quedará siempre a salvo la soberanía nacional sobre el suelo.
 
 33
 
@@ -1270,7 +1270,7 @@ Los departamentos podrán agruparse en regiones, para el mejor desarrollo de sus
 
 El  gobierno  de  cada  departamento  será  ejercido  por  un  gobernador  y  por  una  junta departamental. Serán electos por voto directo de los ciudadanos radicados en los respectivos departamentos, en comicios coincidentes con las elecciones generales, y durarán cinco años en sus funciones.
 
-El gobernador representa al Poder Ejecutivo en la ejecución de la política nacional. No podrá ser electo.
+El gobernador representa al Poder Ejecutivo en la ejecución de la política nacional. No podrá ser reelecto.
 
 34
 
@@ -1282,17 +1282,17 @@ La ley determinará la composición y las funciones de las juntas departamentale
 
 ###### Artículo 162 - DE LOS REQUISITOS
 
-Para ser gobernador ser requiere:
+Para ser gobernador se requiere:
 
 - ser paraguayo natural;
 
-- tener treinta años cumpliendo, y
+- tener treinta años cumplidos, y
 
 - ser nativo del departamento y con radicación en el mismo por un año cuanto menos. En el caso de que el candidato no sea oriundo del departamento, deberá estar radicado en  él  durante  cinco  años  como  mínimo.  Ambos  plazos  se  contarán  inmediatamente antes de las elecciones.
 
 Las  inhabilidades  para  candidatos  a  gobernadores  serán  las  mismas  que  para  Presidente  y Vicepresidente de la República.
 
-Para  ser  miembro  de  la  junta  departamental  rigen  los  mismos  requisitos  establecidos  para cargo  de  gobernador,  con  excepción  de  la  edad,  que  deberá  ser  la  de  veinticinco  años cumplidos.
+Para  ser  miembro  de  la  junta  departamental  rigen  los  mismos  requisitos  establecidos  para el cargo  de  gobernador,  con  excepción  de  la  edad,  que  deberá  ser  la  de  veinticinco  años cumplidos.
 
 ###### Artículo 163 - DE LA COMPETENCIA
 
@@ -1314,7 +1314,7 @@ Los recursos de la administración departamental son:
 
 - la  porción  correspondiente  de  impuestos,  tasas  y  contribuciones  que  se  definan  y regulen por esta constitución y por la ley;
 
-- las asignaciones o subvenciones que les destinen el Gobierno nacional;
+- las asignaciones o subvenciones que les destine el Gobierno nacional;
 
 - las rentas propias determinadas por ley, así como las donaciones y los legados, y
 
@@ -1394,11 +1394,11 @@ Las  municipalidades  podrán  asociarse  entre  sí  para  encarar  en  común 
 
 ###### Artículo 172 - DE LA COMPOSICION
 
-La Fuerza Pública está integrada, en forma exclusiva, por las fuerza militares y policiales.
+La Fuerza Pública está integrada, en forma exclusiva, por las fuerzas militares y policiales.
 
 ###### Artículo 173 - DE LAS FUERZAS ARMADAS
 
-Las  Fuerzas  Armadas  de  la  Nación  constituye  una  institución  nacional  que  será  organizada con carácter permanente, profesional, no deliberante, obediente, subordinada a los poderes del Estado  y  sujeta  a  las  disposiciones  de  esta  constitución  y  de  las  leyes.  Su  misión  es  la  de custodiar la integridad territorial y la de defender a las autoridades legítimamente constituidas, conformes  con  esta Constitución y las leyes. Su  organización  y  sus efectivos serán determinados por la ley.
+Las  Fuerzas  Armadas  de  la  Nación  constituyen  una  institución  nacional  que  será  organizada con carácter permanente, profesional, no deliberante, obediente, subordinada a los poderes del Estado  y  sujeta  a  las  disposiciones  de  esta  Constitución  y  de  las  leyes.  Su  misión  es  la  de custodiar la integridad territorial y la de defender a las autoridades legítimamente constituidas, conforme  con  esta Constitución y las leyes. Su  organización  y  sus efectivos serán determinados por la ley.
 
 Los  militares  en  servicio  activo  ajustarán  su  desempeño  a  las  leyes  y  reglamentos,  y  no podrán afiliarse a partido o a movimiento político alguno, ni realizar ningún tipo de actividad política.
 
@@ -1482,17 +1482,17 @@ El Poder Legislativo será ejercido por el Congreso, compuesto de una Cámara de
 
 Los  miembros  titulares  y  suplentes  de  ambas  Cámaras  serán  elegidos  directamente  por  el pueblo; de conformidad con la ley.
 
-Los miembros suplentes sustituirán a los titulares en caso de muerte, renuncia o inhabilidad de éstos, por el resto del período constitucional o mientras dure la inhabilidad, si ella fuere temporal. En los demás casos, resolverá el reglamente de cada Cámara.
+Los miembros suplentes sustituirán a los titulares en caso de muerte, renuncia o inhabilidad de éstos, por el resto del período constitucional o mientras dure la inhabilidad, si ella fuere temporal. En los demás casos, resolverá el reglamento de cada Cámara.
 
 ###### Artículo 183 - DE LA REUNIÓN EN CONGRESO
 
 Sólo ambas Cámaras, reunidas en Congreso, tendrán los siguientes deberes y atribuciones:
 
-- recibir el juramento o promesa, el asumir el cargo, del Presidente de la República, del Vicepresidente y de los miembros de la Corte Suprema de Justicia;
+- recibir el juramento o promesa, al asumir el cargo, del Presidente de la República, del Vicepresidente y de los miembros de la Corte Suprema de Justicia;
 
 - conceder o denegar al Presidente de la República el permiso correspondiente, en los casos previstos por esta Constitución;
 
-- autorizar  la  entrada  de  fuerzas  armadas  extranjeras  al  territorio  de  la  República  y  la salida la exterior de las nacionales, salvo casos de mera cortesía;
+- autorizar  la  entrada  de  fuerzas  armadas  extranjeras  al  territorio  de  la  República  y  la salida al exterior de las nacionales, salvo casos de mera cortesía;
 
 - recibir a Jefes de Estado o de Gobierno de otros países, y
 
@@ -1504,11 +1504,11 @@ El  Presidente  de  la  Cámara  de  Senadores  y  de  la  Cámara  de  Diputado
 
 Ambas Cámaras del congreso se reunirán anualmente en sesiones ordinarias, desde el primero de julio de cada año hasta el 30 de junio siguiente con un período de receso desde el veinte y uno de diciembre al primero de marzo, fecha ésta en la que rendirá su informe el Presidente de la República. Las dos Cámaras se convocarán a sesiones extraordinarias o prorrogarán sus sesiones por decisión de la cuarta parte de los miembros de cualquiera de ellas; por resolución de los dos tercios de integrantes de la Comisión Permanente del Congreso, o por decreto del Poder  Ejecutivo.  El  Presidente  del  Congreso  o  el  de  la  Comisión  Permanente  deberán convocarlas en el término perentorio de cuarenta y ocho horas.
 
-Las prórrogas de sesiones será efectudas del mismo modo. Las extraordinarias se convocarán para tratar un orden del día determinado, y se clausurarán una vez que éste haya sido agotado.
+Las prórrogas de sesiones serán efectuadas del mismo modo. Las extraordinarias se convocarán para tratar un orden del día determinado, y se clausurarán una vez que éste haya sido agotado.
 
 ###### Artículo 185 - DE LAS SESIONES CONJUNTAS
 
-Las  Cámaras  sesionarán  conjuntamente  en  los  casos  previstos  en  esta  Constitución  en  el Reglamento del Congreso, donde se establecerán las formalidades necesarias.
+Las  Cámaras  sesionarán  conjuntamente  en  los  casos  previstos  en  esta  Constitución  o  en  el Reglamento del Congreso, donde se establecerán las formalidades necesarias.
 
 El quórum legal se formará con la mitad más uno del total de cada Cámara. Salvo los casos en que  esta  Constitución  establece  mayorías  calificadas,  las  decisiones  se  tomarán  por  simple mayoría de votos de los miembros presentes.
 
@@ -1558,13 +1558,13 @@ Los ex presidentes de la República, electos democráticamente, serán senadores
 
 ###### Artículo 190 - DEL REGLAMENTO
 
-Cada  Cámara  redactará  su  reglamento.  Por  mayoría  de  dos  tercios  podrá  amonestar  o  a percibir  cualquiera  de  sus  miembros,  por  inconducta  en  el  ejercicio  de  sus  funciones,  y suspenderlo hasta sesenta días sin goce de dieta. Por mayoría absoluta podrá removerlo por incapacidad  física  o  mental,  declarada  por  la  Corte  Suprema  de  Justicia.  En  los  casos  de renuncia, se decidirá por simple mayoría de votos.
+Cada  Cámara  redactará  su  reglamento.  Por  mayoría  de  dos  tercios  podrá  amonestar  o apercibir a cualquiera  de  sus  miembros,  por  inconducta  en  el  ejercicio  de  sus  funciones,  y suspenderlo hasta sesenta días sin goce de dieta. Por mayoría absoluta podrá removerlo por incapacidad  física  o  mental,  declarada  por  la  Corte  Suprema  de  Justicia.  En  los  casos  de renuncia, se decidirá por simple mayoría de votos.
 
 ###### Artículo 191 - DE LAS INMUNIDADES
 
-Ningún miembro del Congreso puede ser acusado judicialmente por las opiniones que emita en el desempeño de sus funciones. Ningún Senador o Diputado podrá ser detenido, desde el día  de  su  elección  hasta  el  del  cese  de  sus  funciones,  salvo  que  fuera  hallado  en  flagrante delito  que  merezca  pena  corporal.  En  este  caso,  la  autoridad  interviniente  lo  pondrá  bajo custodia en su residencia, dará cuenta de inmediato del hecho a la Cámara respectiva y al juez competentes, a quien remitirá los antecedentes a la brevedad.
+Ningún miembro del Congreso puede ser acusado judicialmente por las opiniones que emita en el desempeño de sus funciones. Ningún Senador o Diputado podrá ser detenido, desde el día  de  su  elección  hasta  el  del  cese  de  sus  funciones,  salvo  que  fuera  hallado  en  flagrante delito  que  merezca  pena  corporal.  En  este  caso,  la  autoridad  interviniente  lo  pondrá  bajo custodia en su residencia, dará cuenta de inmediato del hecho a la Cámara respectiva y al juez competente, a quien remitirá los antecedentes a la brevedad.
 
-Cuando se formase causa contra un Senador o un Diputado ante los tribunales ordinarios, el juez lo comunicará, con copia de los antecedentes, a la Cámara respectiva, la cual examinará el mérito del sumario, y por mayoría de dos tercios resolverá si ha lugar o no desafuero, para ser sometido a proceso. En caso afirmativo, le suspenderá en sus fueros.
+Cuando se formase causa contra un Senador o un Diputado ante los tribunales ordinarios, el juez lo comunicará, con copia de los antecedentes, a la Cámara respectiva, la cual examinará el mérito del sumario, y por mayoría de dos tercios resolverá si ha lugar o no a desafuero, para ser sometido a proceso. En caso afirmativo, le suspenderá en sus fueros.
 
 ###### Artículo 192 - DEL PEDIDO DE INFORMES
 
@@ -1574,7 +1574,7 @@ Los afectados están obligados a responder los pedidos de informe dentro del pla
 
 ###### Artículo 193 - DE LA CITACIÓN Y DE LA INTERPELACION
 
-Cada Cámara. por mayoría absoluta, podrá citar e interpelar individualmente a los ministros y a  otros  altos  funcionarios  de  la  Administración  Pública,  así  como  a  los  directores  y administradores  de  los  entes  autónomos,  autárquicos  y  descentralizados,  a  los  de  entidades que administren fondos del Estado y a los de las empresas de participación estatal mayoritaria, cuando se discuta una ley o se estudie un asunto concerniente a sus respectivas actividades. Las preguntas deben comunicarse al citado con una antelación mínima de cinco días. Salvo justa  causa,  será  obligatorio  para  los  citados  concurrir  a  los  requerimientos, responder a las preguntas y brindar toda la información que les fuese solicitada.
+Cada Cámara, por mayoría absoluta, podrá citar e interpelar individualmente a los ministros y a  otros  altos  funcionarios  de  la  Administración  Pública,  así  como  a  los  directores  y administradores  de  los  entes  autónomos,  autárquicos  y  descentralizados,  a  los  de  entidades que administren fondos del Estado y a los de las empresas de participación estatal mayoritaria, cuando se discuta una ley o se estudie un asunto concerniente a sus respectivas actividades. Las preguntas deben comunicarse al citado con una antelación mínima de cinco días. Salvo justa  causa,  será  obligatorio  para  los  citados  concurrir  a  los  requerimientos, responder a las preguntas y brindar toda la información que les fuese solicitada.
 
 La ley  determinará  la  participación  de  la  mayoría  y  de  la  minoría  en  la  formulación  de  las preguntas.
 
@@ -1584,17 +1584,17 @@ La ley  determinará  la  participación  de  la  mayoría  y  de  la  minoría 
 
 [[START OF PAGE 43]]
 
-No  se  podrá  citar,  interpelar  al  Presidente  de  la  República,  al  Vicepresidente  ni  a  los miembros del Poder Judicial, en materia jurisdiccional.
+No  se  podrá  citar ni interpelar  al  Presidente  de  la  República,  al  Vicepresidente  ni  a  los miembros del Poder Judicial, en materia jurisdiccional.
 
 ###### Artículo 194 - DEL VOTO DE CENSURA
 
-Si  el  citado  no  concurriese  a  la  Cámara  respectiva,  o  ella  considerara  insatisfactorias  sus declaraciones, ambas Cámaras, por mayoría absoluta de dos tercios, podrá emitir un voto de censura en su contra y recomendar su remoción del cargo al Presidente de la República o al superior jerárquico.
+Si  el  citado  no  concurriese  a  la  Cámara  respectiva,  o  ella  considerara  insatisfactorias  sus declaraciones, ambas Cámaras, por mayoría absoluta de dos tercios, podrán emitir un voto de censura en su contra y recomendar su remoción del cargo al Presidente de la República o al superior jerárquico.
 
 Si  la  moción  de  censura  no  fuese  aprobada,  no  se  presentará  otra  sobre  el  mismo  tema respecto al mismo Ministro o funcionario citados, en ese período de sesiones.
 
 ###### Artículo 195 - DE LAS COMISIONES DE INVESTIGACION
 
-Ambas Cámaras del congreso podrán construir comisiones conjuntas de investigación sobre cualquier asunto de interés público, así como sobre la conducta de sus miembros.
+Ambas Cámaras del congreso podrán constituir comisiones conjuntas de investigación sobre cualquier asunto de interés público, así como sobre la conducta de sus miembros.
 
 Los directores y administradores de los entes autónomos, autárquicos y descentralizados, los de  las  entidades  que  administren  fondos  del  Estado,  los  de  las  empresas  de  participación estatal mayoritaria, los funcionarios públicos y los particulares están obligados a comparecer ante  las  dos  Cámaras  y  suministrarles  la  información  y  las  documentaciones  que  se  les requiera. La ley establecerá las sanciones por el incumplimiento de esta obligación.
 
@@ -1622,13 +1622,13 @@ Ningún Senador o Diputado puede formar parte de empresas que exploten servicios
 
 No pueden ser candidatos a senadores ni a diputados:
 
-- los  condenados  por  sentencia  firme  a  penas  privativas  de  libertas,  mientras  dure  la condena;
+- los  condenados  por  sentencia  firme  a  penas  privativas  de  libertad,  mientras  dure  la condena;
 
 - los  condenados  a  penas  de  inhabilitación  para  el  ejercicio  de  la  función  pública, mientras dure aquella;
 
 - los  condenados  por  la  comisión  de  delitos  electorales,  por  el  tiempo  que  dure  la condena;
 
-- los  magistrados  judiciales,  los  representantes  del  Ministerio  Público,  el  Procurador General de la República, el Subcontador, y los miembros de la Justicia Electoral;
+- los  magistrados  judiciales,  los  representantes  del  Ministerio  Público,  el  Procurador General de la República, el Subcontralor, y los miembros de la Justicia Electoral;
 
 - los ministros o religiosos de cualquier credo;
 
@@ -1640,7 +1640,7 @@ No pueden ser candidatos a senadores ni a diputados:
 
 - los propietarios o copropietarios de los medios de comunicación.
 
-Los  ciudadanos  afectados  por  las  inhabilitaciones  previstas  en  los  incisos  4,  5,  6,  y  7,  y deberán cesar en su inhabilidad para ser candidatos noventa días, por lo menos, antes de la fecha de inscripción de sus listas en el Tribunal Superior de Justicia Electoral.
+Los  ciudadanos  afectados  por  las  inhabilitaciones  previstas  en  los  incisos  4,  5,  6,  y  7, deberán cesar en su inhabilidad para ser candidatos noventa días, por lo menos, antes de la fecha de inscripción de sus listas en el Tribunal Superior de Justicia Electoral.
 
 ###### Artículo 198 - DE LA INHABILIDAD RELATIVA
 
@@ -1664,7 +1664,7 @@ Cada Cámara constituirá sus autoridades y designará a sus empleados.
 
 Los senadores y diputados perderán su investidura, además de los casos ya previstos, por las siguientes causas:
 
-- la  violación  del  régimen  de  las  inhabilidades  e  icompatibilidades  previstas  en  esta Constitución, y
+- la  violación  del  régimen  de  las  inhabilidades  e  incompatibilidades  previstas  en  esta Constitución, y
 
 - el uso indebido de influencias, fehacientemente comprobado.
 
@@ -1674,7 +1674,7 @@ Los senadores y diputados no estarán sujetos a mandatos imperativos.
 
 Son deberes y atribuciones del Congreso:
 
-- velar por la observancia de esta Constitución, de las leyes;
+- velar por la observancia de esta Constitución y de las leyes;
 
 - dictar  los  códigos  y  demás  leyes,  modificarlos  o  derogarlos,  interpretando  esta Constitución;
 
@@ -1700,9 +1700,9 @@ Son deberes y atribuciones del Congreso:
 
 - expedir leyes de emergencia en los casos de desastre o de calamidad pública;
 
-- recibir  el  juramento  promesa  constitucional  del  Presidente  de  la  República,  el  del Vicepresidente y el de los demás funcionarios, de acuerdo con lo establecido en esta Constitución;
+- recibir  el  juramento  o  promesa  constitucional  del  Presidente  de  la  República,  el  del Vicepresidente y el de los demás funcionarios, de acuerdo con lo establecido en esta Constitución;
 
-- recibir del Presidente de la República, un informe sobre la situación general del país, sobre su administración y sobre los planes de gobiernos; en la forma dispuesta en esta Constitución;
+- recibir del Presidente de la República, un informe sobre la situación general del país, sobre su administración y sobre los planes de gobierno; en la forma dispuesta en esta Constitución;
 
 - aceptar o rechazar la renuncia del Presidente de la República y la del Vicepresidente;
 
@@ -1720,7 +1720,7 @@ Son deberes y atribuciones del Congreso:
 
 - aprobar o rechazar, en todo o en parte y previo informe de la Contraloría General de la República,  el  detalle  y  la  justificación  de  los  ingresos  y  egresos  de  las  finanzas públicas sobre la ejecución presupuestaria;
 
-- reglamentaria la navegación fluvial, la marítima, la aérea y la espacial, y
+- reglamentar la navegación fluvial, la marítima, la aérea y la espacial, y
 
 - los demás deberes y atribuciones que fije esta Constitución.
 
@@ -1740,7 +1740,7 @@ Aprobado  un  proyecto  de  ley  por  la  Cámara  de  origen,  pasará  inmedia
 
 ###### Artículo 205 - DE LA PROMULGACIÓN AUTOMATICA
 
-Se considerará aprobado por el Poder Ejecutivo todo proyecto de ley que no fuese objetado ni devuelto a la Cámara de origen en el plazo de seis día hábiles, si el proyecto contiene hasta diez artículos; de doce días hábiles si los artículos son más de viente. en todos estos casos, el proyecto quedará automáticamente promulgado y se dispondrá su publicación.
+Se considerará aprobado por el Poder Ejecutivo todo proyecto de ley que no fuese objetado ni devuelto a la Cámara de origen en el plazo de seis días hábiles, si el proyecto contiene hasta diez artículos; de doce días hábiles si los artículos son más de diez y menos de veinte, y de veinte días hábiles si son más de veinte. En todos estos casos, el proyecto quedará automáticamente promulgado y se dispondrá su publicación.
 
 ###### Artículo 206 - DEL PROCEDIMIENTO PARA EL RECHAZO TOTAL
 
@@ -1768,7 +1768,7 @@ El proyecto de ley sancionado, con cualquiera de las alternativas previstas en e
 
 ###### Artículo 208 - DE LA OBJECIÓN PARCIAL
 
-Un proyecto de ley, parcialmente objetado por el Poder Ejecutivo, será devuelto a la Cámara de  origen  para  su  estudio  y  pronunciamiento  sobre  las  objeciones.  Si  ésta  Cámara  las rechazara por mayoría absoluta, el proyecto pasará a la Cámara revisora, donde seguirá igual trámite.  Si  ésta  también  rechazara  dichas  objeciones  por  la  misma  mayoría,  la  sanción primitiva  quedará  confirmada,  y  el  Poder  Ejecutivo  lo  promulgará  y  lo  publicará.  Si  las Cámaras desistieran sobre las objeciones, el proyecto no podrá repetirse en las sesiones de ese año.
+Un proyecto de ley, parcialmente objetado por el Poder Ejecutivo, será devuelto a la Cámara de  origen  para  su  estudio  y  pronunciamiento  sobre  las  objeciones.  Si  esta  Cámara  las rechazara por mayoría absoluta, el proyecto pasará a la Cámara revisora, donde seguirá igual trámite.  Si  ésta  también  rechazara  dichas  objeciones  por  la  misma  mayoría,  la  sanción primitiva  quedará  confirmada,  y  el  Poder  Ejecutivo  lo  promulgará  y  lo  publicará.  Si  las Cámaras disintieran sobre las objeciones, el proyecto no podrá repetirse en las sesiones de ese año.
 
 Las objeciones podrán ser total o parcialmente aceptadas o rechazadas por ambas Cámaras del Congreso.  Si  las  objeciones  fueran  total  o  parcialmente  aceptadas,  ambas  Cámaras  podrán decidir, por mayoría absoluta, la sanción de la parte no objetada del proyecto de ley, en cuyo caso éste deberá ser promulgado y publicado por el Poder Ejecutivo.
 
@@ -1796,7 +1796,7 @@ El  Poder  Ejecutivo,  dentro  del  período  legislativo  ordinario,  podrá  s
 
 ###### Artículo 211 - DE LA SANCIÓN AUTOMATICA
 
-Un proyecto de ley presentado en una Cámara u otra, y aprobado por la Cámara de origen en las  sesiones  ordinarias,  pasará  a  la  Cámara  revisora,  la  cual  deberá  despacharlo  dentro  del término improrrogable de tres mese, cumplido el cual, y mediando comunicación escrita del Presidente de la Cámara de origen a la Cámara revisora, se reputará que ésta le ha prestado su voto favorable, pasando al Poder Ejecutivo para su promulgación y publicación. El término indicado quedará interrumpido desde el veintiuno de diciembre hasta el primero de marzo. La Cámara  revisora  podrá  despachar  el  proyecto  de  ley  en  el  siguiente  período  de  sesiones ordinarias,  siempre  que  lo  haga  dentro  del  tiempo  que  resta  para  el  vencimiento  del  plazo improrrogable de tres meses.
+Un proyecto de ley presentado en una Cámara u otra, y aprobado por la Cámara de origen en las  sesiones  ordinarias,  pasará  a  la  Cámara  revisora,  la  cual  deberá  despacharlo  dentro  del término improrrogable de tres meses, cumplido el cual, y mediando comunicación escrita del Presidente de la Cámara de origen a la Cámara revisora, se reputará que ésta le ha prestado su voto favorable, pasando al Poder Ejecutivo para su promulgación y publicación. El término indicado quedará interrumpido desde el veintiuno de diciembre hasta el primero de marzo. La Cámara  revisora  podrá  despachar  el  proyecto  de  ley  en  el  siguiente  período  de  sesiones ordinarias,  siempre  que  lo  haga  dentro  del  tiempo  que  resta  para  el  vencimiento  del  plazo improrrogable de tres meses.
 
 ###### Artículo 212 - DEL RETIRO O DEL DESISTIMIENTO
 
@@ -1824,7 +1824,7 @@ No podrán ser objetos de delegación el Presupuesto General de la Nación, los 
 
 ###### Artículo 216 - DEL PRESUPUESTO GENERAL DE LA NACIÓN
 
-El proyecto de Ley del Presupuesto General de la Nación será presentado anualmente por el Poder Ejecutivo, a más tardar el primero de septiembre, y su consideración por el Congreso tendrá prioridad absoluta. Se integrará una comisión bicameral la cual, recibido el proyecto, lo estudiará y presentará dictamen a sus respectivas Cámaras en un plazo no mayor de sesenta días  corridos.  Recibidos  los  dictámenes,  la  Cámara  de  Diputados  se  abocará  al  estudio  del proyecto  en  sesiones  plenarias,  y  deberá  despacharlo  en  un  plazo  no  mayor  de  quince  días corridos. La Cámara de Senadores dispondrá de igual plazo para el estudio del proyecto, con las  modificaciones  introducidas  por  la  Cámara  de  Diputados,  y  si  las  aprobase,  el  mismo quedará  sancionado.  En  caso  contrario,  el  proyecto  volverá  con  las  objeciones  a  la  otra Cámara, la cual se expedirá dentro del plazo de diez días corridos, exclusivamente sobre los puntos discrepantes del Senado, procediéndose en la forma prevista en el Art. 208, inciso 1., 2. y 3., siempre dentro del plazo de diez días corridos.
+El proyecto de Ley del Presupuesto General de la Nación será presentado anualmente por el Poder Ejecutivo, a más tardar el primero de septiembre, y su consideración por el Congreso tendrá prioridad absoluta. Se integrará una comisión bicameral la cual, recibido el proyecto, lo estudiará y presentará dictamen a sus respectivas Cámaras en un plazo no mayor de sesenta días  corridos.  Recibidos  los  dictámenes,  la  Cámara  de  Diputados  se  abocará  al  estudio  del proyecto  en  sesiones  plenarias,  y  deberá  despacharlo  en  un  plazo  no  mayor  de  quince  días corridos. La Cámara de Senadores dispondrá de igual plazo para el estudio del proyecto, con las  modificaciones  introducidas  por  la  Cámara  de  Diputados,  y  si  las  aprobase,  el  mismo quedará  sancionado.  En  caso  contrario,  el  proyecto  volverá  con  las  objeciones  a  la  otra Cámara, la cual se expedirá dentro del plazo de diez días corridos, exclusivamente sobre los puntos discrepantes del Senado, procediéndose en la forma prevista en el Art. 207, inciso 1., 2. y 3., siempre dentro del plazo de diez días corridos.
 
 Todos  los  plazos  establecidos  en  este  Artículo  son  perentorios,  y  la  falta  de  despacho  de cualquiera  de  los  proyectos  se  entenderá  como  aprobación.  Las  Cámaras  podrán  rechazar totalmente  el  proyecto  presentado  a  su  estudio  por  el  Poder  Ejecutivo,  solo  por  mayoría absoluta de dos tercios en cada una de ellas.
 
@@ -1864,7 +1864,7 @@ Son deberes y atribuciones de la Comisión Permanente del Congreso:
 
 ###### Artículo 220 - DE LOS INFORMES FINALES
 
-La Comisión Permanente del Congreso, al término de su actuación, prestará a cada Cámara un informe  final  de  las  mismas,  y  será  responsable  ante  éstas  de  las  medidas  que  hubiese adoptado o autorizado.
+La Comisión Permanente del Congreso, al término de su actuación, presentará a cada Cámara un informe  final  de  sus actuaciones,  y  será  responsable  ante  éstas  de  las  medidas  que  hubiese adoptado o autorizado.
 
 ##### SECCIÓN IV DE LA CAMARA DE DIPUTADOS
 
@@ -1872,7 +1872,7 @@ La Comisión Permanente del Congreso, al término de su actuación, prestará a 
 
 La Cámara de Diputados es la Cámara de la representación departamental. Se compondrá de ochenta  miembros  titulares  como  mínimo,  y  de  igual  número  de  suplentes,  elegidos directamente por el pueblo en colegios electorales departamentales. La ciudad de la Asunción constituirá  un  Colegio  Electoral  con  representación  en  dicha  Cámara.  Los  departamentos serán representados por un diputado titular y un suplente, cuanto menos; el Tribunal Superior de Justicia Electoral, antes de cada elección y de acuerdo con el número de electores de cada departamento, establecerá el número de bancas que corresponda a cada uno de ellos. La ley podrá acrecentar la cantidad de diputados conforme con el aumento de los electores.
 
-Para se electo diputado titular o suplente se requiere la nacionalidad paraguaya natural y haber cumplido veinticinco años.
+Para ser electo diputado titular o suplente se requiere la nacionalidad paraguaya natural y haber cumplido veinticinco años.
 
 ###### Artículo  222  -  DE  LAS  ATRIBUCIONES  EXCLUSIVAS  DE  LA  CAMARA  DE DIPUTADOS
 
@@ -1926,13 +1926,15 @@ Son atribuciones exclusivas de la Cámara de Senadores:
 
 El  Presidente  de  la  República,  el  Vicepresidente,  los  ministros  del  Poder  Ejecutivo,  los ministros  de  la  Corte  Suprema  de  Justicia,  el  Fiscal  General  del  Estado,  el  Defensor  del Pueblo, el Contralor General de la República, el Subcontralor y los integrantes del Tribunal Superior de Justicia Electoral, sólo podrán ser sometidos a juicio político por mal desempeño de sus funciones, por delitos cometidos en el ejercicio de sus cargos o por delitos comunes.
 
-La  acusación  será  formulada  por  la  Cámara  de  Diputados,  por  mayoría  de  dos  tercios. Corresponderá  a  la  Cámara  de  Senadores,  por  mayoría  absoluta  de  dos  tercios,  juzgar  en juicio público a los acusados por la Cámara de Diputados y, en caso, declararlos culpables, al sólo  efecto  de  separarlos  de  sus  cargos,  En  los  casos  de  supuesta  comisión  de  delitos,  se pasarán los antecedentes a la justicia ordinaria.
+La acusación será formulada por la Cámara de Diputados, por mayoría de dos tercios. Corresponderá a la Cámara de Senadores, por mayoría absoluta de dos tercios, juzgar en
 
 51
 
 [[END OF PAGE 51]]
 
 [[START OF PAGE 52]]
+
+juicio público a los acusados por la Cámara de Diputados y, en caso, declararlos culpables, al sólo efecto de separarlos de sus cargos, En los casos de supuesta comisión de delitos, se pasarán los antecedentes a la justicia ordinaria.
 
 #### CAPÍTULO II DEL PODER EJECUTIVO
 ##### SECCIÓN I DEL PRESIDENTE DE LA REPUBLICA Y DEL VICEPRESIDENTE
@@ -1943,7 +1945,7 @@ El Poder Ejecutivo es ejercido por el Presidente de la República.
 
 ###### Artículo 227 - DEL VICEPRESIDENTE
 
-Habrá un Vicepresidente de la República quién, en caso de impedimento o ausencia temporal del Presidente o vacancia definitiva de dicho cargo, lo sustituirá de inmediato, con todas sus atribuciones.
+Habrá un Vicepresidente de la República quien, en caso de impedimento o ausencia temporal del Presidente o vacancia definitiva de dicho cargo, lo sustituirá de inmediato, con todas sus atribuciones.
 
 ###### Artículo 228 - DE LOS REQUISITOS
 
@@ -1965,7 +1967,7 @@ El Presidente de la República y el Vicepresidente serán elegidos conjunta y di
 
 ###### Artículo 231 - DE LA ASUNCIÓN DE LOS CARGOS
 
-En  caso  de  que,  en  la  fecha  en  la  cual  deban  asumir  sus  funciones  el  Presidente  de  la República  y  el  Vicepresidente,  no  hayan  sido  proclamados  en  la  forma  dispuesta  por  esta Constitución,  o  fueran  anuladas  las  elecciones,  el  Presidente  cesante  entregará  el  mando  al Presidente  de  la  Corte  Suprema  de  Justicia,  quien  lo  ejercerá  hasta  que  se  efectúe  la transmisión, quedando en suspenso en sus funciones judiciales.
+En caso de que, en la fecha en la cual deban asumir sus funciones el Presidente de la República y el Vicepresidente, no hayan sido proclamados en la forma dispuesta por esta Constitución, o fueran anuladas las elecciones, el Presidente cesante entregará el mando al
 
 52
 
@@ -1973,9 +1975,11 @@ En  caso  de  que,  en  la  fecha  en  la  cual  deban  asumir  sus  funciones  
 
 [[START OF PAGE 53]]
 
+Presidente de la Corte Suprema de Justicia, quien lo ejercerá hasta que se efectúe la transmisión, quedando en suspenso en sus funciones judiciales.
+
 ###### Artículo 232 - DE LA TOMA DE POSESIÓN DE LOS CARGOS
 
-El  Presidente  de  la  República  y  el  Vicepresidente  tomarán  posesión  de  sus  cargos  ante  el Congreso,  prestando  el  juramento  o  la  promesa  de  cumplir  con  fidelidad  y  patriotismo  sus funciones  constitucionales.  Si  el  día  señalado  el  congreso  no  alcanzara  el  quórum  para reunirse, la ceremonia se cumplirá ante la Corte Suprema de Justicia.
+El Presidente de la República y el Vicepresidente tomarán posesión de sus cargos ante el Congreso, prestando el juramento o la promesa de cumplir con fidelidad y patriotismo sus funciones constitucionales. Si el día señalado el Congreso no alcanzara el quórum para reunirse, la ceremonia se cumplirá ante la Corte Suprema de Justicia.
 
 ###### Artículo 233 - DE LAS AUSENCIAS
 
@@ -1989,7 +1993,7 @@ En  caso  de  impedimento  o  ausencia  del  Presidente  de  la  República,  lo
 
 El Vicepresidente electo asumirá la presidencia de la República si ésta quedase vacante antes o  después  de  la  proclamación  del  Presidente,  y  la  ejercerá  hasta  la  finalización  del  período constitucional.
 
-Si se produjera la vacancia definitiva de la Vicepresidencia durante os tres primeros años del período  constitucional,  se  convocará  a  elecciones  para  cubrirla.  Si  la  misma  tuviese  lugar durante los dos últimos años, el Congreso, por mayoría absoluta de sus miembros, designará a quien debe desempeñar el cargo por el resto del período.
+Si se produjera la vacancia definitiva de la Vicepresidencia durante los tres primeros años del período constitucional, se convocará a elecciones para cubrirla. Si la misma tuviese lugar durante los dos últimos años, el Congreso, por mayoría absoluta de sus miembros, designará a quien debe desempeñar el cargo por el resto del período.
 
 ###### Artículo 235 - DE LAS INHABILIDADES
 
@@ -2055,15 +2059,15 @@ Son deberes y atribuciones de quien ejerce la presidencia de la República:
 
 - dar cuenta al Congreso, al inicio de cada período anual de sesiones, de las gestiones realizadas  por  el  Poder  Ejecutivo,  así  como  informar  de  la  situación  general  de  la República y de los planes para el futuro;
 
-- es Comandante en jefe de las Fuerzas Armadas de la Nación, cargo que no se delega. De  acuerdo  con  la  ley,  dicta  los  reglamentos  militares,  dispone  de  las  Fuerzas Armadas, organiza y distribuye. Por sí, nombrar y remover a los comandantes de la Fuerza Pública. Adopta las medidas necesarias para la defensa nacional. Provee, por sí los grados en todas las armas, hasta el de teniente coronel o sus equivalentes y, con acuerdo del Senado, los grados superiores;
+- es Comandante en jefe de las Fuerzas Armadas de la Nación, cargo que no se delega. De acuerdo con la ley, dicta los reglamentos militares, dispone de las Fuerzas Armadas, organiza y distribuye. Por sí, nombra y remueve a los comandantes de la Fuerza Pública. Adopta las medidas necesarias para la defensa nacional. Provee, por sí los grados en todas las armas, hasta el de teniente coronel o sus equivalentes y, con acuerdo del Senado, los grados superiores;
 
 - indultar o conmutar las penas impuestas por los jueces y tribunales de la República, de conformidad con la ley, y con informe de la Corte Suprema de Justicia;
 
 - convocar  a  sesiones  extraordinarias  al  Congreso,  a  cualquiera  de  las  Cámaras  o  a ambas a la vez, debiendo éstas tratar sólo aquellos asuntos sometidos a su respectiva consideración;
 
-- proponer al Congreso proyectos de ley, los cuales podrán ser presentados con solicitud de urgente consideración, en los términos establecidos en ésta Constitución;
+- proponer al Congreso proyectos de ley, los cuales podrán ser presentados con solicitud de urgente consideración, en los términos establecidos en esta Constitución;
 
-- disponer  la  recaudación  e  inversión  de  las  rutas  de  la  República,  de  acuerdo  con  el Presupuesto  General  de  la  Nación  y  con  las  leyes,  rindiendo  cuenta  anualmente  al Congreso de su ejecución;
+- disponer la recaudación e inversión de las rentas de la República, de acuerdo con el Presupuesto General de la Nación y con las leyes, rindiendo cuenta anualmente al Congreso de su ejecución;
 
 - preparar y presentar a consideración de las Cámaras el proyecto anual de Presupuesto General de la Nación;
 
@@ -2079,7 +2083,7 @@ Son deberes y atribuciones de quien ejerce la Vicepresidencia de la República:
 
 - representar al Presidente de la República nacional e internacionalmente, por designación del mismo, con todas las prerrogativas que le corresponden a aquél, y
 
-- participar  de  las  deliberaciones  del  Consejo  de  Ministros  y  coordinar  las  relaciones entre el Poder Ejecutivo y el legislativo.
+- participar de las deliberaciones del Consejo de Ministros y coordinar las relaciones entre el Poder Ejecutivo y el Legislativo.
 
 55
 
@@ -2101,7 +2105,7 @@ Para  ser  Ministro  se  exigen  los  mismos  requisitos  que  para  el  cargo  
 
 Los ministros son los jefes de la administración de sus respectivas carteras, en las cuales, bajo la  dirección  del  Presidente  de  la  República  promueven  y  ejecutan  la  política  relativa  a  las materias de su competencia.
 
-Son solidariamente responsable de los actos de gobierno que refrendan.
+Son solidariamente responsables de los actos de gobierno que refrendan.
 
 Anualmente, presentarán al Presidente de la República una memoria de sus gestiones, la cual será puesta a conocimiento del Congreso.
 
@@ -2115,7 +2119,7 @@ Compete a dicho Consejo:
 
 - disponer la publicación periódica de sus resoluciones.
 
-##### SECCIÓN III DE LA PROCURADURIA DE GENERAL DE LA REPUBLICA
+##### SECCIÓN III DE LA PROCURADURIA GENERAL DE LA REPUBLICA
 
 ###### Artículo 244 - DE LA COMPOSICIÓN
 
@@ -2125,15 +2129,15 @@ Compete a dicho Consejo:
 
 [[START OF PAGE 57]]
 
-La  Procuraduría  General  de  la  República  está  a  cargo  de  un  procurador  General  y  de  los demás funcionarios que determine la ley.
+La Procuraduría General de la República está a cargo de un Procurador General y de los demás funcionarios que determine la ley.
 
 ###### Artículo 245 - DE LOS REQUISITOS, Y DEL NOMBRAMIENTO
 
-El  procurador  General  de  la  República  debe  reunir  los  mismos  requisitos  exigidos  para  ser Fiscal General del Estado. Es nombrado y removido por el Presidente de la República. Las incompatibilidades serán establecidas en la ley.
+El Procurador General de la República debe reunir los mismos requisitos exigidos para ser Fiscal General del Estado. Es nombrado y removido por el Presidente de la República. Las incompatibilidades serán establecidas en la ley.
 
 ###### Artículo 246 - DE LOS DEBERES Y DE LAS ATRIBUCIONES
 
-Son deberes y atribuciones del procurador General de la República:
+Son deberes y atribuciones del Procurador General de la República:
 
 - representar y defender, judicial o extrajudicialmente los intereses patrimoniales de la República;
 
@@ -2149,7 +2153,7 @@ Son deberes y atribuciones del procurador General de la República:
 
 ###### Artículo 247 - DE LA FUNCIÓN Y DE LA COMPOSICION
 
-El  Poder  Judicial  es  el  custodio  de  esta  Constitución.  La  interpuesta,  la  cumple  y  la  hace cumplir.
+El Poder Judicial es el custodio de esta Constitución. La interpreta, la cumple y la hace cumplir.
 
 La administración de justicia está a cargo del Poder Judicial, ejercido por la Corte Suprema de Justicia, por los tribunales y por los juzgados, en la forma que establezcan esta Constitución y la ley.
 
@@ -2157,7 +2161,7 @@ La administración de justicia está a cargo del Poder Judicial, ejercido por la
 
 Queda garantizada la independencia del Poder Judicial. Sólo éste puede conocer y decidir en actos de carácter contencioso.
 
-En ningún caso los miembros de los otros poderes, ni otros funcionarios, podrán arrogarse atribuciones judiciales que no estén expresamente establecidas en esta Constitución, ni revivir procesos fenecidos, ni paralizar los existentes, ni intervenir de cualquier modo n los juicios. Actos de esta naturaleza conllevan nulidad insanable. Todo ello sin perjuicio de las decisiones arbitrales  en  el  ámbito  del  derecho  privado,  con  las  modalidades  que  la  ley  determine  para asegurar el derecho de defensa y las soluciones equitativas.
+En ningún caso los miembros de los otros poderes, ni otros funcionarios, podrán arrogarse atribuciones judiciales que no estén expresamente establecidas en esta Constitución, ni revivir procesos fenecidos, ni paralizar los existentes, ni intervenir de cualquier modo en los juicios. Actos de esta naturaleza conllevan nulidad insanable. Todo ello sin perjuicio de las decisiones arbitrales en el ámbito del derecho privado, con las modalidades que la ley determine para asegurar el derecho de defensa y las soluciones equitativas.
 
 57
 
@@ -2171,7 +2175,7 @@ Los  que  atentasen  contra  la  independencia  del  Poder  Judicial  y  la  de 
 
 El Poder Judicial goza de autonomía presupuestaria. En el Presupuesto General de la Nación se le asignará una cantidad no inferior al tres por ciento del presupuesto de la Administración Central.
 
-El presupuesto del Poder Judicial será aprobado por el congreso, y la Contraloría General de la República verificará todos sus gastos e inversiones.
+El presupuesto del Poder Judicial será aprobado por el Congreso, y la Contraloría General de la República verificará todos sus gastos e inversiones.
 
 ###### Artículo 250 - DEL JURAMENTO O PROMESA
 
@@ -2201,7 +2205,7 @@ Los  magistrados  no  pueden  ejercer,  mientras  duren  en  sus  funciones,  ot
 
 [[START OF PAGE 59]]
 
-Tampoco pueden ejercer el comercio, la industria o actividad profesional o política alguna, no desempeñar cargos en organismos oficiales o privados, partidos, asociaciones o movimientos políticos.
+Tampoco pueden ejercer el comercio, la industria o actividad profesional o política alguna, ni desempeñar cargos en organismos oficiales o privados, partidos, asociaciones o movimientos políticos.
 
 ###### Artículo 255 - DE LAS INMUNIDADES
 
@@ -2213,19 +2217,19 @@ Los juicios podrán ser orales y públicos, en la forma y en la medida que la le
 
 Toda sentencia judicial debe estar fundada en esta Constitución y en la ley. La crítica a los fallos es libre.
 
-El  proceso  laboral  será  total  y  estará  basado  en  los  principios  de  inmediatez,  economía  y concentración.
+El proceso laboral será oral y estará basado en los principios de inmediatez, economía y concentración.
 
 ###### Artículo 257 - DE LA OBLIGACIÓN DE COLABORAR CON LA JUSTICIA
 
-Los  órganos  del  Estado  se  subordinan  a  los  dictados  de  la  ley,  y  las  personas  que  ejercen funciones al servicios del mismo están obligadas a prestar a la administración de justicia toda la cooperación que ella requiera para el cumplimiento de sus mandatos.
+Los órganos del Estado se subordinan a los dictados de la ley, y las personas que ejercen funciones al servicio del mismo están obligadas a prestar a la administración de justicia toda la cooperación que ella requiera para el cumplimiento de sus mandatos.
 
 ##### SECCIÓN II DE LA CORTE SUPREMA DE JUSTICIA
 
 ###### Artículo 258 - DE LA INTEGRACIÓN Y DE LOS REQUISITOS
 
-La Corte Suprema de Justicia estará integrada por nueve miembros. Se organizarán en salas, uno  de  las  cuales  será  constitucional,  elegirá  de  su  seno,  cada  año,  a  su  Presidente.  Sus miembros llevarán el título de Ministro.
+La Corte Suprema de Justicia estará integrada por nueve miembros. Se organizará en salas, una de las cuales será constitucional. Elegirá de su seno, cada año, a su Presidente. Sus miembros llevarán el título de Ministro.
 
-Sus  requisitos  para  integrar  la  Corte  Suprema  de  Justicia,  tener  nacionalidad  paraguaya natural, haber cumplido treinta y cinco años, poseer título universitario de Doctor en Derecho y gozar de notoria honorabilidad. Además, haber ejercido efectivamente durante el término de diez  años,  cuanto  menos,  la  profesión,  la  magistratura  judicial  o  la  cátedra  universitaria  en materia jurídica, conjunta, separada o sucesivamente.
+Son requisitos para integrar la Corte Suprema de Justicia, tener nacionalidad paraguaya natural, haber cumplido treinta y cinco años, poseer título universitario de Doctor en Derecho y gozar de notoria honorabilidad. Además, haber ejercido efectivamente durante el término de diez años, cuanto menos, la profesión, la magistratura judicial o la cátedra universitaria en materia jurídica, conjunta, separada o sucesivamente.
 
 ###### Artículo 259 - DE LOS DEBERES Y DE LAS ATRIBUCIONES
 
@@ -2239,7 +2243,7 @@ Son deberes y atribuciones de la Corte Suprema de Justicia:
 
 - ejercer  la  superintendencia  de  todos  los  organismos  del  Poder  Judicial  y  decidir,  en instancia única, los conflictos de jurisdicción y de competencia, conforme con la ley;
 
-- dictar  su  propio  reglamento  interno.  Presentar  anualmente,  una  memoria  sobre  las gestiones realizadas, el Estado, y las necesidades de la justicia nacional a los Poderes Ejecutivo y Legislativo;
+- dictar su propio reglamento interno. Presentar anualmente, una memoria sobre las gestiones realizadas, el estado, y las necesidades de la justicia nacional a los Poderes Ejecutivo y Legislativo;
 
 - conocer y resolver en los recursos ordinarios que la ley determine;
 
@@ -2261,7 +2265,7 @@ Son deberes y atribuciones de la Corte Suprema de Justicia:
 
 Son deberes y atribuciones de la Sala Constitucional:
 
-- conocer y resolver sobre la insconstitucionalidad de las leyes y de otros instrumentos normativos,  declarando  la  inaplicabilidad  de  las  disposiciones  contrarias  a  esta Constitución en cada caso concreto, y en fallo que sólo tendrá efecto con relación a este caso, y
+- conocer y resolver sobre la inconstitucionalidad de las leyes y de otros instrumentos normativos, declarando la inaplicabilidad de las disposiciones contrarias a esta Constitución en cada caso concreto, y en fallo que sólo tendrá efecto con relación a este caso, y
 
 - decidir  sobre  la  inconstitucionalidad  de  las  sentencias  definitivas  o  interlocutorias, declarando la nulidad de las que resulten contrarias a esta Constitución.
 
@@ -2299,21 +2303,21 @@ La ley reglamentará los sistemas de elección pertinentes.
 
 ###### Artículo 263 - DE LOS REQUISITOS Y DE LA DURACION
 
-Los miembros del Consejo de la magistratura deben reunir los siguientes requisitos:
+Los miembros del Consejo de la Magistratura deben reunir los siguientes requisitos:
 
-Ser de nacionalidad paraguaya, haber cumplido treinta y cinco años, poseer título universitario  de  abogado,  y,  durante  el  término  de  diez  años  cuanto  menos,  haber  ejercido efectivamente la profesión, o desempeñado funciones en la magistratura judicial, o ejercido la cátedra universitaria en materia jurídica, conjunta, separado o alternativamente.
+Ser de nacionalidad paraguaya, haber cumplido treinta y cinco años, poseer título universitario de abogado, y, durante el término de diez años cuanto menos, haber ejercido efectivamente la profesión, o desempeñado funciones en la magistratura judicial, o ejercido la cátedra universitaria en materia jurídica, conjunta, separada o alternativamente.
 
-Durará años en sus funciones y gozarán de iguales inmunidades que los Ministros de la Corte Suprema de Justicia. Tendrán las incompatibilidades que establezca la ley.
+Durarán tres años en sus funciones y gozarán de iguales inmunidades que los Ministros de la Corte Suprema de Justicia. Tendrán las incompatibilidades que establezca la ley.
 
-###### Artículo 264 - DE LOS DEBERES Y DE LA ATRIBUCIONES
+###### Artículo 264 - DE LOS DEBERES Y DE LAS ATRIBUCIONES
 
 Son deberes y atribuciones del Consejo de la Magistratura:
 
-- proponer las ternas de candidatos para integrar la Corte Suprema de Justicia, previa selección basada en la idoneidad, con consideración de méritos y aptitudes, y elevarlas a la Cámara de Senadores para que los designe, con acuerdo del Poder ejecutivo;
+- proponer las ternas de candidatos para integrar la Corte Suprema de Justicia, previa selección basada en la idoneidad, con consideración de méritos y aptitudes, y elevarlas a la Cámara de Senadores para que los designe, con acuerdo del Poder Ejecutivo;
 
-- proponer en ternas a la Corte Suprema de Justicia, con igual criterio de selección y examen,  los  nombres  de  candidatos  para  los  cargos  de  miembros  de  los  tribunales inferiores, los de los jueces y los de los agentes fiscales;
+- proponer en ternas a la Corte Suprema de Justicia, con igual criterio de selección y examen, los nombres de candidatos para los cargos de miembros de los tribunales inferiores, los de los jueces y los de los agentes fiscales;
 
-- elaborar su propio reglamente, y
+- elaborar su propio reglamento, y
 
 - los demás deberes y atribuciones que fijen esta Constitución y las leyes.
 
@@ -2381,7 +2385,7 @@ La  ley  podrá  crear  una  Policía  Judicial,  dependiente  del  Poder  Judic
 
 La convocatoria, el juzgamiento, la organización, la dirección, la supervisión y la vigilancia de  los  actos  y  de  las  cuestiones  derivados  de  las  elecciones  generales,  departamentales  y municipales,  así  como  de  los  derechos  y  de  los  títulos  de  quienes  resulten  elegidos, corresponden exclusivamente a la Justicia Electoral.
 
-Sin  igualmente  de  su  competencia  las  cuestiones  provenientes  de  todo  tipo  de  consulta popular, como asimismo lo relativo a las elecciones y al funcionamiento de los partidos y de los movimientos políticos.
+Son igualmente de su competencia las cuestiones provenientes de todo tipo de consulta popular, como asimismo lo relativo a las elecciones y al funcionamiento de los partidos y de los movimientos políticos.
 
 ###### Artículo 274 - DE LA INTEGRACIÓN
 
@@ -2407,7 +2411,7 @@ La ley fijará en qué casos sus resoluciones serán recurribles ante la Corte S
 
 [[START OF PAGE 64]]
 
-El Defensor del Pueblo es un comisionado parlamentario cuyas funciones son la defensa de los derechos humanos, la canalización de reclamos populares y la profesión de los intereses comunitarios. En ningún caso tendrá función judicial ni competencia ejecutiva.
+El Defensor del Pueblo es un comisionado parlamentario cuyas funciones son la defensa de los derechos humanos, la canalización de reclamos populares y la protección de los intereses comunitarios. En ningún caso tendrá función judicial ni competencia ejecutiva.
 
 ###### Artículo 277 - DE LA AUTONOMIA, DEL NOMBRAMIENTO Y DE LA REMOCION
 
@@ -2491,15 +2495,15 @@ El  Contralor  y  el  Subcontralor  tendrán  las  mismas  inmunidades  e  incom
 
 ###### Artículo 285 -DE LA NATURALEZA, DE LOS DEBERES Y DE LAS ATRIBUCIONES
 
-Se establece una Banca Central del Estado, en carácter de organismos técnico. Ella tiene la exclusividad de la emisión monetaria, y conforme con los objetivos de la política económica del  Gobierno  Nacional,  participa  con  los  demás  organismos  técnicos  del  Estado,  en  la formulación  de  las  políticas  monetaria,  crediticia  y  cambiaria,  siendo  responsable  de  su ejecución y desarrollo, y preservando la estabilidad monetaria.
+Se establece una Banca Central del Estado, en carácter de organismo técnico. Ella tiene la exclusividad de la emisión monetaria, y conforme con los objetivos de la política económica del Gobierno Nacional, participa con los demás organismos técnicos del Estado, en la formulación de las políticas monetaria, crediticia y cambiaria, siendo responsable de su ejecución y desarrollo, y preservando la estabilidad monetaria.
 
 ###### Artículo 286 - DE LAS PROHIBICIONES
 
-Se prohibe a la Banca Central del Estado:
+Se prohíbe a la Banca Central del Estado:
 
 - acordar  créditos,  directa  o  indirectamente,  para  financiar  el  gasto  público  al  margen del presupuesto, excepto:
 
-- los adelantos de corto plazo de los recursos tributarios presupuestos para el año respectivo, y
+- los adelantos de corto plazo de los recursos tributarios presupuestados para el año respectivo, y
 
 - en caso de emergencia nacional, con resolución fundada del Poder Ejecutivo y acuerdo de la Cámara de Senadores.
 
@@ -2561,7 +2565,7 @@ Podrán solicitar la reforma el veinticinco por ciento de los legisladores de cu
 
 La declaración de la necesidad de la reforma sólo será aprobada por mayoría absoluta de dos tercios de los miembros de cada Cámara del Congreso.
 
-Una  vez  decidida  la  necesidad  de  la  reforma,  el  Tribunal  Superior,  de  Justicia  Electoral llamará a elecciones dentro del plazo de ciento ochenta días, en comicios generales que no coincidan con ningún otro.
+Una vez decidida la necesidad de la reforma, el Tribunal Superior de Justicia Electoral llamará a elecciones dentro del plazo de ciento ochenta días, en comicios generales que no coincidan con ningún otro.
 
 El número de miembros de la Convención Nacional Constituyente no podrá exceder del total de los integrantes del Congreso. Sus condiciones de elegibilidad, así como la determinación de sus incompatibilidades, serán fijadas por ley.
 
@@ -2575,7 +2579,7 @@ Transcurridos  tres  años  de  promulgada  esta  Constitución,  podrán  reali
 
 El texto íntegro de la enmienda deberá ser aprobado por mayoría absoluta en la Cámara de origen.  Aprobado  el  mismo,  se  requerirá  igual  tratamiento  en  la  Cámara  revisora.  Si  en cualquiera de las Cámaras no se reuniese la mayoría requerida para su aprobación, se tendrá por rechazada la enmienda, no pudiendo volver a presentarla dentro del término de un año.
 
-Aprobada  la  enmienda  por  ambas  Cámaras  del  Congreso,  se  remitirá  el  texto  al  Tribunal Superior de Justicia Electoral para que, dentro del plazo de ciento ochenta días, se convoque a un  referéndum.  Si  el  resultado  de  este  es  afirmativo,  la  enmienda  quedará  sancionada  y promulgada, incorporándose al texto institucional.
+Aprobada la enmienda por ambas Cámaras del Congreso, se remitirá el texto al Tribunal Superior de Justicia Electoral para que, dentro del plazo de ciento ochenta días, se convoque a un referéndum. Si el resultado de este es afirmativo, la enmienda quedará sancionada y promulgada, incorporándose al texto constitucional.
 
 68
 
@@ -2585,7 +2589,7 @@ Aprobada  la  enmienda  por  ambas  Cámaras  del  Congreso,  se  remitirá  el 
 
 Si la enmienda es derogatoria, no podrá promoverse otra sobre el mismo tema antes de tres años.
 
-No se utilizará el procedimiento indicado de la enmienda, sino el de la reforma, para aquellas disposiciones que afecten el modo de elección, la composición, la duración de mandatos a los atribuciones de cualquiera de los poderes del Estado, o las disposiciones de los Capítulos I, II, III y IV del Título II, de la Parte I.
+No se utilizará el procedimiento indicado de la enmienda, sino el de la reforma, para aquellas disposiciones que afecten el modo de elección, la composición, la duración de mandatos o las atribuciones de cualquiera de los poderes del Estado, o las disposiciones de los Capítulos I, II, III y IV del Título II, de la Parte I.
 
 ###### Artículo 291 -DE LA POTESTAD DE LA CONVENCIÓN NACIONAL CONSTITUYENTE
 
@@ -2593,21 +2597,21 @@ La  Convención  Nacional  Constituyente  es  independiente  de  los  poderes  c
 
 ### TÍTULO V DE LAS DISPOSICIONES FINALES Y TRANSITORIAS
 
-###### Artículo 1.
+###### Artículo 1.-
 Esta Constitución entra en vigencia desde la fecha. Su promulgación se opera de pleno derecho a la hora veinticuatro de la misma.
 
-El proceso  de  elaboración  de esta Constitución, su sanción, su  promulgación  y  las disposiciones  que  la  integran,  no  están  sujetas  a  revisión  jurisdiccional,  ni  a  modificación alguna, salvo lo dispuesto para su reforma o enmienda.
+El proceso de elaboración de esta Constitución, su sanción, su promulgación y las disposiciones que la integran, no están sujetas a revisión jurisdiccional, ni a modificación alguna, salvo lo dispuesto para su reforma o enmienda.
 
 Queda derogada la Constitución del 25 de agosto de 1967 y su enmienda del año 1977; sin perjuicio de lo que se dispone en el presente título.
 
-###### Artículo 2.
-El  Presidente de la República, el Presidente del Congreso y el Presidente de la Corte Suprema de Justicia, prestaran juramento o promesa de cumplir y hacer cumplir esta Constitución, ante la Convención Nacional Constituyente el día veinte de junio de 1992.
+###### Artículo 2.-
+El Presidente de la República, el Presidente del Congreso y el Presidente de la Corte Suprema de Justicia, prestarán juramento o promesa de cumplir y hacer cumplir esta Constitución, ante la Convención Nacional Constituyente el día veinte de junio de 1992.
 
-###### Artículo 3.
-El Presidente de la República, los Senadores y los Diputados continuarán en sus funciones respectivas hasta que asuman las nuevas autoridades nacionales que serán elegidas en  las  elecciones  generales  a  realizarse  en  1993.  Sus  deberes  y  atribuciones  serán  los establecidos  por  esta  Constitución,  tanto  para  el  Presidente  de  la  República  como  para  el Congreso, el cual no podrá ser disuelto. Hasta tanto asuman los senadores y diputados que sean electos en las elecciones generales de 1993, el proceso de formación y sanción de las leyes se regira por lo que disponen los artículos 154/167 de la Constitución de 1967.
+###### Artículo 3.-
+El Presidente de la República, los Senadores y los Diputados continuarán en sus funciones respectivas hasta que asuman las nuevas autoridades nacionales que serán elegidas en las elecciones generales a realizarse en 1993. Sus deberes y atribuciones serán los establecidos por esta Constitución, tanto para el Presidente de la República como para el Congreso, el cual no podrá ser disuelto. Hasta tanto asuman los senadores y diputados que sean electos en las elecciones generales de 1993, el proceso de formación y sanción de las leyes se regirá por lo que disponen los artículos 154/167 de la Constitución de 1967.
 
-###### Artículo 4.
-La  próxima elección para designar Presidente de la República, Vicepresidente, Senadores y Diputados, Gobernadores y miembros de las Juntas Departamentales se realizará simultaneamente en la fecha que determine el Tribunal Electoral de la Capital, la que deberá ser  fijada  para  el  lapso  comprendido  entre  el  15  de  abril  y  el  15  de  mayo  de  1993.  Estas autoridades asumirán sus funciones el 15 de agosto de 1993, a excepción de los miembros del Congreso que lo harán el 1 de julio del mismo año.
+###### Artículo 4.-
+La próxima elección para designar Presidente de la República, Vicepresidente, Senadores y Diputados, Gobernadores y miembros de las Juntas Departamentales se realizará simultáneamente en la fecha que determine el Tribunal Electoral de la Capital, la que deberá ser fijada para el lapso comprendido entre el 15 de abril y el 15 de mayo de 1993. Estas autoridades asumirán sus funciones el 15 de agosto de 1993, a excepción de los miembros del Congreso que lo harán el 1 de julio del mismo año.
 
 69
 
@@ -2615,29 +2619,29 @@ La  próxima elección para designar Presidente de la República, Vicepresidente
 
 [[START OF PAGE 70]]
 
-###### Artículo 5.
-Los demás magistrados y funciónarios seguirán en sus cargos hasta completar el periodo que hubiese determinado para cada uno de ellos la Constitución de 1967 y si, llegado ese momento,  todavía no fueran nombrados sus sucesores, continuará en funciones interinamente hasta que se produzca su sustitución.
+###### Artículo 5.-
+Los demás magistrados y funcionarios seguirán en sus cargos hasta completar el período que hubiese determinado para cada uno de ellos la Constitución de 1967 y si, llegado ese momento, todavía no fueran nombrados sus sucesores, continuarán en funciones interinamente hasta que se produzca su sustitución.
 
-Ellos  podrán  ser  reemplazados  por  otros  funcionarios  y  magistrados  que  serán  designados interinamente y de acuerdo con los mecanismos establecidos por la Constitución de 1967. Los funcionarios  y  magistrados  así  designados  durarán  en  sus  cargos  hasta  el  momento  en  que sean designados sus sustitutos de acuerdo con los mecanismos  que determina esta Constitución.
+Ellos podrán ser reemplazados por otros funcionarios y magistrados que serán designados interinamente y de acuerdo con los mecanismos establecidos por la Constitución de 1967. Los funcionarios y magistrados así designados durarán en sus cargos hasta el momento en que sean designados sus sustitutos de acuerdo con los mecanismos que determina esta Constitución.
 
-También  continuarán  en  funciones  el  Contralor  General  y  el  Subcontralor,  hasta  tanto  se designen los funciónarios que determina el artículo281 de esta Constitución.
+También continuarán en funciones el Contralor General y el Subcontralor, hasta tanto se designen los funcionarios que determina el artículo 281 de esta Constitución.
 
-###### Artículo 6.
-Hasta tanto se realicen los comicios generales, en 1993, para elegir Presidente de la República, Vicepresidente, Senadores, Diputados, Gobernadores y miembros de las Juntas Departamentales,  seguirá,  en  función  los  mismos  organismos  electorales;  Junta  Electoral Central, Junta Electoral Seccional y Tribunales Electorales, los que se regirán por el código electoral en todo aquello que no contradiga a esta Constitución.
+###### Artículo 6.-
+Hasta tanto se realicen los comicios generales, en 1993, para elegir Presidente de la República, Vicepresidente, Senadores, Diputados, Gobernadores y miembros de las Juntas Departamentales, seguirán en función los mismos organismos electorales: Junta Electoral Central, Junta Electoral Seccional y Tribunales Electorales, los que se regirán por el código electoral en todo aquello que no contradiga a esta Constitución.
 
-###### Artículo 7.
-La designación de funcionarios y magistrados que requieran la intervención del Congreso  o  de  cualquiera  de  sus  Camaras  o  para  cargos  de  instituciones  creadas  por  esta Constitución o con integración diferente a la que establecía la de 1967, no podrá efectuarse sino después que asuman las autoridades nacionales que serán elegidas en el año 1993, con excepción de lo preceptuado en el Artículo 9, de este título.
+###### Artículo 7.-
+La designación de funcionarios y magistrados que requieran la intervención del Congreso o de cualquiera de sus Cámaras o para cargos de instituciones creadas por esta Constitución o con integración diferente a la que establecía la de 1967, no podrá efectuarse sino después que asuman las autoridades nacionales que serán elegidas en el año 1993, con excepción de lo preceptuado en el Artículo 9, de este título.
 
-###### Artículo  8.
-Los  Magistrados  Judiciales  que  sean  confirmados  a  partir  de  los  mecanismos ordinarios  establecidos  en  esta  Constitución  adquieren  la  inmovilidad  permanente  a  que  se refiere  el  2o.  párrafo  del  Art.  252.  "De  la  inmovilidad  de  los  magistrados",  a  partir  de  la segunda confirmación.
+###### Artículo 8.-
+Los Magistrados Judiciales que sean confirmados a partir de los mecanismos ordinarios establecidos en esta Constitución adquieren la inamovilidad permanente a que se refiere el 2o. párrafo del Art. 252. "De la inamovilidad de los magistrados", a partir de la segunda confirmación.
 
-###### Artículo 9.
-Los miembros del Jurado de Enjuiciamiento de Magistrados serán designados a propuesta  de los  respectivos  poderes  dentro  de  los  sesenta  dias  de  promulgada  esta Constitución.  Hasta  tanto  se  integre  el  Consejo  de  la  Magistratura,  los  representantes  que responden  a  ese  cuerpo  será  cubiertos  por  un  profesor  de  cada  facultad  de  Derecho,  a propuesta de sus respectivos Consejos Directivos. A este jurado se le deferirá el conocimiento y  el  juzgamiento  de  todas  las  denuncias  actualmente  existentes  ante  la  Corte  Suprema  de Justicia. Hasta que se dicte la Ley respectiva, regirá en lo pertinente la Ley 879/81, Código de Organización Judicial.
+###### Artículo 9.-
+Los miembros del Jurado de Enjuiciamiento de Magistrados serán designados a propuesta de los respectivos poderes dentro de los sesenta días de promulgada esta Constitución. Hasta tanto se integre el Consejo de la Magistratura, los representantes que corresponden a ese cuerpo serán cubiertos por un profesor de cada facultad de Derecho, a propuesta de sus respectivos Consejos Directivos. A este jurado se le deferirá el conocimiento y el juzgamiento de todas las denuncias actualmente existentes ante la Corte Suprema de Justicia. Hasta que se dicte la Ley respectiva, regirá en lo pertinente la Ley 879/81, Código de Organización Judicial.
 
-La  duración  en  sus  respectivos  cargos  de  los  miembros  del  Jurado  de  Enjuiciamiento  de Magistrados que sean designados en virtud de lo que dispone este Artículo, será fijada por ley.
+La duración en sus respectivos cargos de los miembros del Jurado de Enjuiciamiento de Magistrados que sean designados en virtud de lo que dispone este Artículo, será fijada por ley.
 
-###### Artículo  10.
-Hasta  tanto  se  designe  Procurador  General,  los  funcionarios  actuales  que  se desempeñan  en  el  área  respectiva  quedan  investidos  de  las  atribuciones  que  determina  el Artículo 246.
+###### Artículo 10.-
+Hasta tanto se designe Procurador General, los funcionarios actuales que se desempeñan en el área respectiva quedan investidos de las atribuciones que determina el Artículo 246.
 
 70
 
@@ -2645,50 +2649,49 @@ Hasta  tanto  se  designe  Procurador  General,  los  funcionarios  actuales  qu
 
 [[START OF PAGE 71]]
 
-###### Artículo 11.
-Hasta tanto se dicte una Ley Orgánica Departamental, los Gobernadores y las Juntas Departamentales estarán integradas por un mínimo de siete miembros y un máximo de veintiun miembros. El Tribunal Electoral de Asunción establecerá el número de miembros de las Juntas Departamentales, atendiendo a la densidad electoral de los departamentos.
+###### Artículo 11.-
+Hasta tanto se dicte una Ley Orgánica Departamental, los Gobernadores y las Juntas Departamentales estarán integradas por un mínimo de siete miembros y un máximo de veintiún miembros. El Tribunal Electoral de Asunción establecerá el número de miembros de las Juntas Departamentales, atendiendo a la densidad electoral de los departamentos.
 
-###### Artículo 12.
+###### Artículo 12.-
 Las Sedes actuales de las Delegaciones de Gobierno, pasarán de pleno derecho y a título gratuito a ser propiedad de los gobiernos departamentales.
 
-###### Artículo  13.
-Si  al  1  de  octubre  de  1992  siguen  sin  estar  organizados  electoralmente  los Departamentos  de  Chaco  y  Nueva  Asunción  los  dos  Diputados  que  corresponden  a  estos Departamentos, serán elegidos en los colegios electorales de los Departamentos de Presidente Hayes, Boquero y Alto Paraguay, de acuerdo con el caudal electoral de estos.
+###### Artículo 13.-
+Si al 1 de octubre de 1992 siguen sin estar organizados electoralmente los Departamentos de Chaco y Nueva Asunción, los dos Diputados que corresponden a estos Departamentos, serán elegidos en los colegios electorales de los Departamentos de Presidente Hayes, Boquerón y Alto Paraguay, de acuerdo con el caudal electoral de estos.
 
-###### Artículo  14.
-La  investidura  de  Senador  Vitalicio  alcanza  al  ciudadano  que  ejerce  la Presidencia de la República a la fecha de sanción de esta Constitución, sin que beneficie a ninguno anterior.
+###### Artículo 14.-
+La investidura de Senador Vitalicio alcanza al ciudadano que ejerce la Presidencia de la República a la fecha de sanción de esta Constitución, sin que beneficie a ninguno anterior.
 
-###### Artículo  15.
-Hasta  tanto  se  reuna  una  nueva  Convención  Nacional  Constituyente,  los  que participaron en esta gozarán del trato de "Ciudadano Convenciónal".
+###### Artículo 15.-
+Hasta tanto se reúna una nueva Convención Nacional Constituyente, los que participaron en esta gozarán del trato de "Ciudadano Convencional".
 
-###### Artículo 16.
+###### Artículo 16.-
 Los bienes adquiridos por la Convención o donados a ella que forman parte de su patrimonio serán transferidos a título gratuito al Poder Legislativo.
 
-###### Artículo 16.
-Los bienes adquiridos por la Convención o donados a ella que forman parte de su patrimonio serán transferidos a título gratuito al Poder Legislativo.
+###### Artículo 17.-
+El depósito y conservación de toda la documentación producida por la Convención Nacional Constituyente tales como los diarios y las actas de sesiones plenarias y las de comisión redactora serán confiados a la Banca Central del Estado, a nombre y disposición del Poder Legislativo, hasta que, por Ley, se disponga su remisión y guarda en el Archivo Nacional.
 
-###### Artículo  17.
-El  depósito  y  conservación  de  toda  la  documentación  producida  por  la Convencio Nacional Constituyente tales como los diarios y las actas y de sesiones plenarias y las  de  comisión  redactora  serán  confiados  a  la  Banca  Central  del  Estado,  a  nombre  y disposición del Poder Legislativo, hasta que, por Ley, se disponga su remisión y guarda en el Archivo Nacional.
-
-###### Artículo  18.
-El  Poder  Ejecutivo  dispondra  de  inmediato  la  edición  oficial  de  10.000 ejemplares de esta Constitución en los idiomas castellano y guarání.
+###### Artículo 18.-
+El Poder Ejecutivo dispondrá de inmediato la edición oficial de 10.000 ejemplares de esta Constitución en los idiomas castellano y guaraní.
 
 En caso de duda de interpretación, se estará al texto redactado en idioma castellano.
 
-A traves del sistema educativo, se fomentará el estudio de la Constitución Nacional.
+A través del sistema educativo, se fomentará el estudio de la Constitución Nacional.
 
-###### Artículo  19.
-A  los  efectos  de  las  limitaciones  que  establece  esta  Constitución  para  la reelección de los cargos electivos de los diversos poderes del Estado, se computara el actual periodo inclusive.
+###### Artículo 19.-
+A los efectos de las limitaciones que establece esta Constitución para la reelección de los cargos electivos de los diversos poderes del Estado, se computará el actual período inclusive.
 
-###### Artículo 20.
-El  texto original de la Constitución Nacional será firmado, en todas sus hojas por el Presidente y los Secretarios de la Convención Nacional Constituyente.
+###### Artículo 20.-
+El texto original de la Constitución Nacional será firmado, en todas sus hojas por el Presidente y los Secretarios de la Convención Nacional Constituyente.
 
-El  Acta  final  de  la  Convención,  por  la  cual  se  aprueba  y  asienta  el  texto  completo  de  esta Constitución,  será  firmada  por  el  Presidente  y  los  Secretarios  de  la  Convención  Nacional Constituyente. La firmarán también los Convenciónales que deseen hacerlo de modo que se forme un solo documento cuya custodia será confiada al Poder Legislativo.
+El Acta final de la Convención, por la cual se aprueba y asienta el texto completo de esta Constitución, será firmada por el Presidente y los Secretarios de la Convención Nacional
 
 71
 
 [[END OF PAGE 71]]
 
 [[START OF PAGE 72]]
+
+Constituyente. La firmarán también los Convencionales que deseen hacerlo de modo que se forme un solo documento cuya custodia será confiada al Poder Legislativo.
 
 Queda sancionada esta Constitución. Dada en el recinto de deliberaciones de la Convención Nacional Constituyente a los veinte días del mes de junio de mil novecientos noventa y dos, en la ciudad de la Asunción, Capital de la República del Paraguay.
 
