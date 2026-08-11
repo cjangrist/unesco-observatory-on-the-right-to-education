@@ -16,8 +16,20 @@ July,2009
 
 ## Table of Content
 
-1
+No. | Description | page
+--- | --- | ---
+1 | Introduction | 2
+2 | Policy Rationale | 3
+3 | Goal | 5
+4 | Objectives | 5
+5 | Scope and Application | 5
+6 | Guiding Principles | 6
+7 | Policy Implementation and Coordination | 9
+8 | Monitoring and Evaluation | 9
+9 | The Major Components of Education Sector Strategy | 10
+10 | Strategy Framework | 21
 
+1
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
@@ -48,7 +60,7 @@ The devastating impact of HIV and AIDS on the quality of life of the people stil
 
 In  its  current  position,  education  remains  the  most  human  intensive  public sector in Ethiopia. Cumulatively the sector has a total of 17,413,176 students, 314,524 teachers and more than 80,000 non-teaching staff, (Education Sector Annual Abstract, 2008) constituting more than 24% of the country's population. This  large  number  of  sectoral  community  represents  a  strategic  avenue  to  the national  response  to  HIV  prevention,  treatment,  care  and  support  as  well  as reduction of stigma and discrimination.
 
-Teachers are key partners for delivering HIV and AIDS prevention education as well  as  facilitating  mitigation  services  to  the  learners.   Moreover,  the  plan  that the ministry has to expand and strengthen adult education for millions of target population in the country is believed to be a good opportunity to intensify the fight against the epidemic in the sector.
+Teachers are key partners for delivering HIV and AIDS prevention education as well as facilitating mitigation services to the learners. Moreover, the plan that the ministry has to expand and strengthen adult education for millions of target
 
 3
 
@@ -56,7 +68,9 @@ Teachers are key partners for delivering HIV and AIDS prevention education as we
 
 [[START OF PAGE 5]]
 
-HIV and AIDS affect teachers, non-teaching staff as well as learners. Teachers who are affected  by  HIV  and  AIDS are likely  to  take  repeatedly  much  time  off work.. Those with sick families may also take time off to attend funerals or care for  sick  or  dying  relatives,  and  further  absenteeism  may  result  from  the psychological effects of the epidemic.  When a teacher falls ill, the class either  be taken  over    by  another  teacher  or    left  uncovered.  Even  if  there  is  adequate supply of teachers to replace the losses, it might have a    significant negative impact on the students' academic performances.
+population in the country is believed to be a good opportunity to intensify the fight against the epidemic in the sector.
+
+HIV and AIDS affect teachers, non-teaching staff as well as learners. Teachers who are affected by HIV and AIDS are likely to take repeatedly much time off work.. Those with sick families may also take time off to attend funerals or care for sick or dying relatives, and further absenteeism may result from the psychological effects of the epidemic. When a teacher falls ill, the class either be taken over by another teacher or left uncovered. Even if there is adequate supply of teachers to replace the losses, it might have a significant negative impact on the students' academic performances.
 
 The  findings  of  the  study  on  the  impact  of  HIV  and  AIDS  on  the  Education Sector in Ethiopia, (The FMOE, July 2003, AA, Ethiopia), indicated that between the  years  1998  -  2002,  the  general  picture  of  the  prevalence  of  death  among teachers in Ethiopian schools increased significantly.
 
@@ -92,13 +106,17 @@ The overall goal of the education sector policy on HIV and AIDS is to create HIV
 
 ## 5. Scope and Application
 
-The education sector policy on HIV and AIDS will be applied to all learners/students,  teachers,  trainers,  lecturers,  and  other  staff  in  the  public, private,  autonomous,  semi-autonomous,  formal,  non-formal  education  and training institutions, including personnel operating at all levels of the system and in all sub-sectors of the education in Ethiopia. This policy comprises six strategic themes:
+The education sector policy on HIV and AIDS will be applied to all learners/students, teachers, trainers, lecturers, and other staff in the public, private, autonomous, semi-autonomous, formal, non-formal education and
 
 5
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+
+training institutions, including personnel operating at all levels of the system and in all sub-sectors of the education in Ethiopia.
+
+This policy comprises six strategic themes:
 
 - Prevention.
 
@@ -116,7 +134,7 @@ The education sector policy on HIV and AIDS will be applied to all learners/stud
 
 ## 6. Guiding principles
 
-The  guiding  principles  of  this  policy  are  in  accordance  with  the  existing international  conventions,  national  laws,  policies,  guidelines  and  regulations. They  take  into  consideration  particularly  issues  such  as  a  shared  sense  of urgency;  decentralization  and  adaptability  to  local  situations;  inclusiveness, participation and the human rights of People Living with HIV and AIDS; special roles of learners and teachers, in particular with special needs; mainstreaming services  in  all  government  sectors;  results-oriented  strategies;  human  rightsbased,  sector-wide  and  multi-sectoral  approaches;  and  sensitivity  to  genderbased vulnerabilities.
+The guiding principles of this policy are in accordance with the existing international conventions, national laws, policies, guidelines and regulations. They take into consideration particularly issues such as a shared sense of urgency; decentralization and adaptability to local situations; inclusiveness, participation and the human rights of People Living with HIV and AIDS; special roles of learners and teachers, in particular with special needs; mainstreaming services in all government sectors; results-oriented strategies; human rights-based, sector-wide and multi-sectoral approaches; and sensitivity to gender-based vulnerabilities.
 
 ### 6.1.  Shared Sense of Urgency
 
@@ -178,7 +196,7 @@ In line with the National HIV and AIDS policy and multi-sectoral response, the M
 
 Moreover, a strategic plan derived from this policy will provide improved mechanisms for implementation, resource mobilization and allocation, coordination, monitoring and evaluation of HIV and AIDS activities within the education sector.
 
-The  Ministry  in  collaboration  with  other  stakeholders  within  and  outside  the sector  will  also  consolidate  the  efforts  to  strengthen,  manage,  and  support  the fight  against  the  HIV  and  AIDS  epidemic  for  the  benefit  of  the  sector  and  the country at large. Appropriate policy implementation guidelines and manuals will be developed.
+The Ministry in collaboration with other stakeholders within and outside the sector will also consolidate the efforts to strengthen, manage, and support the fight against the HIV and AIDS epidemic for the benefit of the sector and the
 
 9
 
@@ -186,7 +204,9 @@ The  Ministry  in  collaboration  with  other  stakeholders  within  and  outsid
 
 [[START OF PAGE 11]]
 
-## 8.  Monitoring & Evaluation
+country at large. Appropriate policy implementation guidelines and manuals will be developed.
+
+## 8. Monitoring & Evaluation
 
 The existing Education Management Information System (EMIS) will incorporate data  collection  and  summarizing  tools  for  HIV  and  AIDS  and  include  HIV  and AIDS indicators. This will capture quantitative information on the status of the implementation  of  the  sector  policy  on  HIV  and  AIDS  and  its  impact  on  the sector. All the sectoral routine reports and joint reviews will incorporate efforts made  on  the  HIV  and  AIDS  response  and  the  stakeholders'  involvement  in monitoring and evaluation activities will be encouraged and enhanced.
 
@@ -196,7 +216,7 @@ The existing Education Management Information System (EMIS) will incorporate dat
 
 - 9.1.1.  The Federal Ministry of Education in cooperation with the Ministry of Health and other stakeholders will develop specific guidelines on  HIV and AIDS prevention and sex education, particularly promoting options that  are  available  to  our  youth  that  are  culturally  acceptable,  for protecting themselves and others from HIV infection.
 
-- 9.1.2.  All learning institutions have the responsibility to put in place mainstreaming and co-curricular activities. These should inculude ageappropriate HIV and AIDS information, knowledge and skills, thereby changing  attitudes  and  strengthening  responsible  behavior  of  school communities  especially  the  youth  in  avoiding  risks  of  HIV  infection. Utilizing  active  learning  and  participatory  approaches  that  involve children and youth will achieve this.
+- 9.1.2. All learning institutions have the responsibility to put in place mainstreaming and co-curricular activities. These should inculude age-appropriate HIV and AIDS information, knowledge and skills, thereby changing attitudes and strengthening responsible behavior of school communities especially the youth in avoiding risks of HIV infection. Utilizing active learning and participatory approaches that involve children and youth will achieve this.
 
 - 9.1.3.  All  learning  institutions  will  ensure  that  in  mainstreaming  HIV  and AIDS prevention education. They are sensitive to socio-cultural contexts  and  any  other  special  needs  that  may  be  pertinent  to HIV&AIDS prevention.
 
@@ -248,9 +268,7 @@ The existing Education Management Information System (EMIS) will incorporate dat
 
 #### 9.2.2. Orphans and Vulnerable Children
 
-- 9.2.2.1. All persons, authorities, and associations involved in the education sector in one way or other, are duty bound to ensure that the rights and  the  dignity  of  OVC  who  are  infected  and  affected  with  HIV  and
-
-- AIDS are respected.
+- 9.2.2.1. All persons, authorities, and associations involved in the education sector in one way or other, are duty bound to ensure that the rights and the dignity of OVC who are infected and affected with HIV and AIDS are respected.
 
 - 9.2.2.2. All heads of government education institutions, parents and caregivers will be provided with information for addressing the education-related costs for OVC of compulsory school-going age. This will  provide  information  on  allowed  exemptions  for  those  who  are unable to meet such costs.
 
@@ -274,7 +292,7 @@ The existing Education Management Information System (EMIS) will incorporate dat
 
 - 9.2.3.2.   No teacher or other education staff member is compelled to disclose his or her HIV status to the school, institution or employer.
 
-- 9.2.3.3. Any person who has access to any information about the HIV status of a  learner,  educator,  or  any  other  staff  member  must  keep  this information  confidential.  Unauthorized  disclosure  of  HIV  and  AIDSrelated information will constitute legal liability.
+- 9.2.3.3. Any person who has access to any information about the HIV status of a learner, educator, or any other staff member must keep this information confidential. Unauthorized disclosure of HIV and AIDS-related information will constitute legal liability.
 
 - 9.2.3.4.   No teacher or any other education staff member may be denied the right to employment, appointment to a post, to teach, or be promoted or  be  treated  in  any  unfair  or  discriminatory  manner  on  account  of their actual or perceived HIV status.
 
@@ -290,11 +308,9 @@ The existing Education Management Information System (EMIS) will incorporate dat
 
 [[START OF PAGE 16]]
 
-- 9.2.4.2.   Learners, teachers and other education sector staff members  living with  HIV  and  AIDS  should  be  treated  in  a  just,  humane  and  lifeaffirming way.
+- 9.2.4.2. Learners, teachers and other education sector staff members living with HIV and AIDS should be treated in a just, humane and life-affirming way.
 
-- 9.2.4.3.   Any  special  measures  in  respect  of  a  learner,  teacher  or  any  other education staff living with HIV should be fair and justifiable in the light of medical facts, established legal rules and principles, ethical guidelines, the best interest of the person living with HIV and AIDS, the conditions  of  schools  or  institution,  and  the  best  interest  of  other
-
-- learners, students, teachers and staff.
+- 9.2.4.3. Any special measures in respect of a learner, teacher or any other education staff living with HIV should be fair and justifiable in the light of medical facts, established legal rules and principles, ethical guidelines, the best interest of the person living with HIV and AIDS, the conditions of schools or institution, and the best interest of other learners, students, teachers and staff.
 
 - 9.2.4.4.   Learners  living  with  HIV  have  the  right  to  attend  any  school  or institution of their choice. The needs of learners living with HIV&AIDS with regard to their right to all levels of education should be accommodated  in  the  school  or  institution  as  far  as  is  reasonably practicable.
 
@@ -392,7 +408,7 @@ AIDS interventions. This will include among others TAs, PTAs, WEBs, school  mana
 
 [[START OF PAGE 21]]
 
-- information on the status of HIV&AIDS and its impact on the education sector.
+information on the status of HIV&AIDS and its impact on the education sector.
 
 - 9.4.16. Stakeholders'  involvement  in  monitoring  and  evaluation  activities will be encouraged and enhanced.
 
@@ -437,7 +453,7 @@ Objectives | Main Activities | Key Outputs
 • Conduct surveys on the effectiveness of the existing curriculum in providing preventive education. • Conduct age-specific life skills training at all levels based on the full understanding of Knowledge, Attitude and Practice (KAP).
 --- | --- | ---
 • Achieve behavioural change that prevents the spread of HIV&AIDS amongst learners, educators and other staff. | • Identify methodologies and approaches to address HIV&AIDS education, with a focus on identifying causes of vulnerability and risky behaviour (with key sectors e.g. Health and Social Affairs). • Develop manuals, training guidelines and materials based on the new approaches identified. • Conduct behaviour-change oriented educational programs and activities, e.g. advocacy, information dissemination, resource materials, and peer learning. • Implement continuous assessment to monitor whether behaviour change is occurring. If not, revise activities accordingly to ensure the objective is achieved. | • Increased number of educators conversant with creative methodologies and approaches for behaviour change. • Increased number of educators and learners adopting safer behaviour. For example: • Fewer partners. • Condom use. • Abstinence. • Increased age at first sexual experience. • Increased number of educators and learners aware of their HIV status.
-• Sensitize, advocate and involve communities and | • Develop materials for training local institutions on community involvement. • Conduct sensitization workshops on community involvement with Idir , Parent | • Increased links between schools and target communities and involvement in HIV&AIDS prevention activities.
+• Sensitize, advocate and involve communities and | • Develop materials for training local institutions on community involvement. • Conduct sensitization workshops on community involvement with Idir, Parent | • Increased links between schools and target communities and involvement in HIV&AIDS prevention activities.
 
 23
 
@@ -445,7 +461,7 @@ Objectives | Main Activities | Key Outputs
 
 [[START OF PAGE 25]]
 
-institutions in HIV&AIDS prevention activities in and around local schools. | Teacher Associations (PTAs), Education and Training Boards, and local institutions. • Supervise and support the communities in their transfer knowledge to the educational and community. | Kebele other local of school
+institutions in HIV&AIDS prevention activities in and around local schools. | Teacher Associations (PTAs), Kebele Education and Training Boards, and other local institutions. • Supervise and support the local communities in their transfer of knowledge to the educational and school community. |
 --- | --- | ---
 • Implement all HIV&AIDS prevention activities with gender sensitivity | • Review available curricula, manuals, guidelines and other materials with a view to making them more gender-sensitive. • Involve the gender department or focal person in material development, training development and activity planning. • Train additional female staff to adequately address HIV and AIDS prevention issues and act as role models. • Assign an HIV and AIDS counselor and gender focal point in every education and learning center. | • Increase in the number of girls participating in co-curricular activities in school. • Increased number of girls taking leadership in school-related activities.
 • Implement HIV&AIDS prevention at all levels of the education sector within life skills, peer learning, teaching and extracurricular | • Establish HIV and AIDS Clubs in all schools. • Strengthen, equip and furnish existing HIV&AIDS Clubs. • Integrate HIV and AIDS content and issues into other existing Clubs and extracurricular activities. • Prepare guidelines on peer education around HIV&AIDS prevention. | • Guidelines on peer education and support in HIV&AIDS prevention, developed and circulated in all schools. • Peer learning and teaching activities continuously undertaken for HIV&AIDS prevention at all levels.
@@ -465,7 +481,7 @@ activities. | • Identify peer groups by age, sex, and community characteristic
 
 [[START OF PAGE 27]]
 
-• Combat all harmful practices that aggravate the transmission of HIV&AIDS within the education sector and within the society. | • Promote school enrolment and retention as a specific measure to combat HIV&AIDS, specifically at primary level. • Introduce mechanisms that promote precautionary measures and combat harmful practices that aggravate the spread of HIV&AIDS. • Involve key local members of the community, such as elders, traditional birth attendants, scouts, etc. in preventing and mitigating harmful practices. • Liaise with other government ministries and agencies to promote activities that encourage enrolment in, and completion of school. | • Increased numbers of children and youth enrolling in and completing schooling. • Increased numbers of cases where legal action is taken against parents who interfere with children's or young persons' schooling.
+• Combat all harmful practices that aggravate the transmission of HIV&AIDS within the education sector and within the society. | • Promote school enrolment and retention as a specific measure to combat HIV&AIDS, specifically at primary level. • Introduce mechanisms that promote precautionary measures and combat harmful practices that aggravate the spread of HIV&AIDS. • Involve key local members of the community, such as elders, traditional birth attendants, scouts, etc. in preventing and mitigating harmful practices. • Liaise with other government ministries and agencies to promote activities that encourage enrolment in, and completion of school. | • Increased numbers of children and youth enrolling in and completing schooling. • Increased numbers of cases where legal action is taken against parents who interfere with children’s or young persons’ schooling.
 --- | --- | ---
 • Develop culturally appropriate and locally relevant HIV&AIDS prevention materials, and ensure availability and accessibility through a central information clearinghouse and | • Select, develop and distribute IEC materials. • Establish HIV&AIDS resource centers at all levels of the educational system. • Train and assign HIV&AIDS resource center coordinators. • Conduct continuous assessment and follow-up to link information dissemination to behavioural change. | • Increase in the amount of standardized and accurate information shared with schools through IEC materials.
 
@@ -494,7 +510,7 @@ Sub Goal: To  mitigate  the  impact  of  HIV&AIDS  by  establishing  a  learning
 
 Objectives | Main Activities | Key Outputs
 --- | --- | ---
-• To improve the health, nutrition and psychological status of learners in formal institutions and non- formal learning centers. | • In liaison with the Ministry of Health (MoH), conduct regular assessments of the health and nutrition conditions of learners. • In liaison with the MoH, and other partners provide health, nutrition and psychological services in schools. Such as: • Malaria treatment and control, • De-worming, • Vitamin A supplementation, • Nutrition education, | • Decreased absenteeism of learners due to insufficient feeding, illness and other related causes.
+• To improve the health, nutrition and psychological status of learners in formal institutions and non-formal learning centers. | • In liaison with the Ministry of Health (MoH), conduct regular assessments of the health and nutrition conditions of learners. • In liaison with the MoH, and other partners provide health, nutrition and psychological services in schools. Such as: • Malaria treatment and control, • De-worming, • Vitamin A supplementation, • Nutrition education, | • Decreased absenteeism of learners due to insufficient feeding, illness and other related causes.
 
 28
 
@@ -505,7 +521,7 @@ Objectives | Main Activities | Key Outputs
 • Supplementation of other essential nutrients as relevant. • In partnership with the relevant United Nations agencies to provide feeding programs whenever required. • In partnership with the local health facilities, facilitate learners with access to Reproductive Health Education and services.
 --- | --- | ---
 • To provide a safe and sanitary environment in schools and other learning institutions. | • Provide toilets/latrines for the required numbers of boys and girls in all learning institutions. • Provide adequate hand washing facilities in the learning institutions. | • Improved latrine access rates especially among girls.
-• To create a supportive and protective learning environment in schools and other learning institutions. | • Regularly monitor, assess and identify students with psychosocial problems requiring intervention beyond the education sector. • Liaise with other relevant institutions, groups and departments, to provide greater access to services by learners. • Refer needy cases to the Children's Department, police and other relevant government authorities for further action. • Take action against teachers and other staff involved in sexual abuse of students. | • Increased confidence exemplified by learners throughout the learning system.
+• To create a supportive and protective learning environment in schools and other learning institutions. | • Regularly monitor, assess and identify students with psychosocial problems requiring intervention beyond the education sector. • Liaise with other relevant institutions, groups and departments, to provide greater access to services by learners. • Refer needy cases to the Children’s Department, police and other relevant government authorities for further action. • Take action against teachers and other staff involved in sexual abuse of students. | • Increased confidence exemplified by learners throughout the learning system.
 
 29
 
@@ -519,7 +535,7 @@ Sub Goal: To  develop  an  education  system  that  supports  OVC  to  access  a
 
 Objectives | Main Activities | Key Outputs
 --- | --- | ---
-• To create conditions that encourage the retention of OVC in schools and non- formal learning centers. | • Identify and carry out needs assessment of school-age OVC. • Organize workshops to share and disseminate the findings of the needs assessment. • Enroll all OVC in school and non-formal learning centers. • Track academic performance and attendance of OVC in school. • Eliminate all education-related expenses for OVC. • Provide guidance and counselling services by trained personnel. | • Increased numbers of OVC in enrolment and completion of schooling .
+• To create conditions that encourage the retention of OVC in schools and non-formal learning centers. | • Identify and carry out needs assessment of school-age OVC. • Organize workshops to share and disseminate the findings of the needs assessment. • Enroll all OVC in school and non-formal learning centers. • Track academic performance and attendance of OVC in school. • Eliminate all education-related expenses for OVC. • Provide guidance and counselling services by trained personnel. | • Increased numbers of OVC in enrolment and completion of schooling .
 
 30
 
@@ -539,12 +555,12 @@ Objectives | Main Activities | Key Outputs
 
 #### 10.2.3. Care and Support to Education Personnel
 
-Sub Goal: To create an environment free from stigma and discrimination based on a person's HIV status.
+Sub Goal: To create an environment free from stigma and discrimination based on a person’s HIV status.
 
 Objectives | Main Activities | Key Outputs
 --- | --- | ---
 • To prevent new HIV infections amongst the workers and learners in the education sector. | • Provide information on access to Voluntary Counseling and Testing (VCT) services at all levels. • Promote access to health facilities at Woreda level in collaboration with the Health Office. • Provide training for individuals involved in VCT services (Club leaders, school guidance and counselling) at the federal, regional and Woreda levels. | • Increased number of teachers and other education sector staff members accessing VCT services in the available facilities.
-• To decrease the rates of absenteeism by teachers and other staff members living with HIV&AIDS, due to illness. | • Facilitate access to Antiretroviral Therapy (ART) services for needy individuals at Health facilities. • Facilitate access to nutritional support for those people who are taking ART. • Facilitate treatment for those people who are exposed to opportunistic infections. | • In line with the Multi- sectoral Plan of Action for Universal Access to Prevention, Care, Treatment and Support , all teachers and education sector staff that are HIV-positive will have regular access to ARVs. • All teachers and staff of
+• To decrease the rates of absenteeism by teachers and other staff members living with HIV&AIDS, due to illness. | • Facilitate access to Antiretroviral Therapy (ART) services for needy individuals at Health facilities. • Facilitate access to nutritional support for those people who are taking ART. • Facilitate treatment for those people who are exposed to opportunistic infections. | • In line with the Multi-sectoral Plan of Action for Universal Access to Prevention, Care, Treatment and Support, all teachers and education sector staff that are HIV-positive will have regular access to ARVs. • All teachers and staff of
 
 32
 
@@ -555,7 +571,7 @@ Objectives | Main Activities | Key Outputs
 the education sector will have regular access to treatment for opportunistic infections.
 --- | --- | ---
 • To protect the rights of People Living With HIV&AIDS (PLWHAs) against stigma and discrimination. | • Create awareness creation at all levels. • Prepare and dispatch IEC materials. • Take disciplinary measures against those who violate the rights of PLWHAs. • Initiate and encourage PLWHAs to be involved in advocacy at all levels. | • Increases in cases of disciplinary action taken against those who violate the rights of PLWHAs in schools, training institutions and other education sector workplaces.
-• To prevent sexual harassment of individuals. | • Conduct training on psychosocial skills at al levels. • Develop guidelines for the institutional prevention of sexual harassment. • Design different programs that promote gender equality (with the Ministry of Education and REB). • Network with other relevant institutions to protect people from sexual harassment (i.e. The Court, Police, Women's Affairs, etc.). | • Increase in cases of disciplinary action taken against sexual harassment within the education sector. • Clear code of conduct developed, circulated and shared.
+• To prevent sexual harassment of individuals. | • Conduct training on psychosocial skills at al levels. • Develop guidelines for the institutional prevention of sexual harassment. • Design different programs that promote gender equality (with the Ministry of Education and REB). • Network with other relevant institutions to protect people from sexual harassment (i.e. The Court, Police, Women’s Affairs, etc.). | • Increase in cases of disciplinary action taken against sexual harassment within the education sector. • Clear code of conduct developed, circulated and shared.
 • To create a conducive working environment. | • Educate workers in different safety measures at all levels. • Reassure personnel and introduce working procedures (i.e. Transfer, | • Increased number of safety measures put in place without discrimination against
 
 33
@@ -574,7 +590,7 @@ Sub Goal: To facilitate an environment within the education sector that is suppo
 Objectives | Main Activities | Key Outputs
 --- | --- | ---
 • To improve the health and nutrition status of teachers and staff living with HIV&AIDS in all learning institutions. | • In liaison with the MoH, to conduct regular assessments of the health and nutrition conditions of learners, teachers and other staff living with HIV&AIDS. • In liaison with the MoH and other partners to provide health and nutrition services in schools to learners, teachers and staff living with HIV&AIDS. | • Increased number of learners, teachers and staff living with HIV&AIDS continuing to perform their responsibilities normally, in their respective workplaces without any discriminations.
-• To facilitate access to | • Identifying ART providing • | Increased percentage of
+• To facilitate access to | • Identifying ART providing | • Increased percentage of
 
 34
 
@@ -598,7 +614,7 @@ Goal: To  create  an    environment    to  enable    the  prevention  and  contr
 Objectives | Main Activities | Key Outputs
 --- | --- | ---
 • Produce a teaching workforce with the ability to meet the challenges of the HIV&AIDS impact on the education sector. | • Conduct in-service training sessions for the tutors of Teacher Training Institutions (TTIs). • Review the curriculum of TTIs to ensure inclusion of HIV&AIDS issues. • Develop and distribute training materials in line with the reviewed curriculum. • Provide continuous support to graduating teachers in their subject fields. | • Increased number of teachers graduate from the TTCs with relevant knowledge, attitude, and skills for HIV&AIDS prevention and mitigation.
-• Strengthen the capacity of non-teaching staff to support the institution- based interventions | • Identify of relevant short courses in the areas of HIV&AIDS intervention. • Identify and prepare relevant personnel to attend training. | • Increased proportion of non- teaching staff taking part in HIV&AIDS prevention and control activities at
+• Strengthen the capacity of non-teaching staff to support the institution-based interventions | • Identify of relevant short courses in the areas of HIV&AIDS intervention. • Identify and prepare relevant personnel to attend training. | • Increased proportion of non-teaching staff taking part in HIV&AIDS prevention and control activities at
 
 36
 
