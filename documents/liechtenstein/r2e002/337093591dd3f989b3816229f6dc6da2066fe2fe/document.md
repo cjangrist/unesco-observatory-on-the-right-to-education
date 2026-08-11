@@ -26,13 +26,13 @@ Dem  nachstehenden  vom  Landtag  gefassten  Beschluss  erteile  Ich Meine Zusti
 
 Dieses Gesetz regelt:
 
-- die Aufgaben und Stellung von Hochschulen;
+- a) die Aufgaben und Stellung von Hochschulen;
 
-- die Zulassung, den Betrieb und die Finanzierung von sowie die Aufsicht über Hochschulen;
+- b) die Zulassung, den Betrieb und die Finanzierung von sowie die Aufsicht über Hochschulen;
 
-- die Aufgaben, Stellung und Finanzierung hochschulähnlicher Einrichtungen;
+- c) die Aufgaben, Stellung und Finanzierung hochschulähnlicher Einrichtungen;
 
-- die Zusammenarbeit im Hochschulwesen.
+- d) die Zusammenarbeit im Hochschulwesen.
 
 ##### Art. 2
 
@@ -56,21 +56,21 @@ Hochschulgesetz (HSG)
 
 Im Sinne dieses Gesetzes gelten als:
 
-"Akkreditierung":  die  standardisierte  Überprüfung  der  Erfüllung  gesetzlicher Vorgaben und der Qualität einer Hochschule oder einzelner  Studiengänge  durch  eine  staatlich  zugelassene  Akkreditierungsstelle;
+- a) "Akkreditierung": die standardisierte Überprüfung der Erfüllung gesetzlicher Vorgaben und der Qualität einer Hochschule oder einzelner Studiengänge durch eine staatlich zugelassene Akkreditierungsstelle;
 
-"Evaluierung": das Erfassen und Bewerten von für die Qualität einer Hochschule bedeutsamen Prozessen und Ergebnissen durch eine fachkompetente Stelle.
+- b) "Evaluierung": das Erfassen und Bewerten von für die Qualität einer Hochschule bedeutsamen Prozessen und Ergebnissen durch eine fachkompetente Stelle.
 
 ##### Art. 2b 2
 
 ###### Nationaler Qualifikationsrahmen
 
-- Die Regierung erlässt mit Verordnung einen nationalen Qualifikationsrahmen für das Hochschulwesen.
+- 1) Die Regierung erlässt mit Verordnung einen nationalen Qualifikationsrahmen für das Hochschulwesen.
 
-- Der  Nationale  Qualifikationsrahmen  informiert  über  das  Hochschulwesen,  insbesondere  über  die  Lehre,  und  regelt  die  Ausgestaltung und Beschreibung der einzelnen Studiengänge, insbesondere hinsichtlich der in den Studiengängen jeweils zu entwickelnden Qualifikationen und Fähigkeiten.
+- 2) Der Nationale Qualifikationsrahmen informiert über das Hochschulwesen, insbesondere über die Lehre, und regelt die Ausgestaltung und Beschreibung der einzelnen Studiengänge, insbesondere hinsichtlich der in den Studiengängen jeweils zu entwickelnden Qualifikationen und Fähigkeiten.
 
-- Er ist ein Instrument für die Vergleichbarkeit und Transparenz der Abschlüsse in Europa und erleichtert deren Anerkennung.
+- 3) Er ist ein Instrument für die Vergleichbarkeit und Transparenz der Abschlüsse in Europa und erleichtert deren Anerkennung.
 
-- Die Hochschulen und die Aufsichtsbehörde haben für die Umsetzung des Qualifikationsrahmens zu sorgen.
+- 4) Die Hochschulen und die Aufsichtsbehörde haben für die Umsetzung des Qualifikationsrahmens zu sorgen.
 
 > 1 Art. 2a eingefügt durch LGBl. 2010 Nr. 118.
 
@@ -96,21 +96,21 @@ Hochschulgesetz (HSG)
 
 ###### a) Grundsatz 2
 
-- Hochschulen  haben  im  Dienste  der  Wissenschaft  und/oder  der Kunst unter Berücksichtung der Beschäftigungsfähigkeit der Studierenden die folgenden Aufgaben zu erfüllen: 3
+- 1) Hochschulen haben im Dienste der Wissenschaft und/oder der Kunst unter Berücksichtung der Beschäftigungsfähigkeit der Studierenden die folgenden Aufgaben zu erfüllen: 3
 
-- Durchführung  von  gestuften  Studiengängen  nach  Art.  17  für  die Ausbildung von Fach- und Führungskräften (Lehre); 4
+- a) Durchführung von gestuften Studiengängen nach Art. 17 für die Ausbildung von Fach- und Führungskräften (Lehre); 4
 
-- Forschung  im  Hinblick  auf  Erkenntnisgewinn  und  technologische Problemlösung;
+- b) Forschung im Hinblick auf Erkenntnisgewinn und technologische Problemlösung;
 
-- Zusammenarbeit mit anderen Hochschulen im In- und Ausland;
+- c) Zusammenarbeit mit anderen Hochschulen im In- und Ausland;
 
-- Wissens- und Technologietransfer; und
+- d) Wissens- und Technologietransfer; und
 
-- Öffentlichkeitsarbeit, die den Dialog mit der Bevölkerung, die lebenslange Weiterbildung und die Erarbeitung von langfristigen, nachhaltigen Entwicklungskonzepten einschliesst.
+- e) Öffentlichkeitsarbeit, die den Dialog mit der Bevölkerung, die lebenslange Weiterbildung und die Erarbeitung von langfristigen, nachhaltigen Entwicklungskonzepten einschliesst.
 
-- Die Aufgaben nach Abs. 1 Bst. e können insbesondere durch Weiterbildungsangebote nach Art. 21 erfüllt werden. 5
+- 2) Die Aufgaben nach Abs. 1 Bst. e können insbesondere durch Weiterbildungsangebote nach Art. 21 erfüllt werden. 5
 
-- Sie haben ihre Aufgaben auf dem Gebiet des Fürstentums Liechtenstein zu erfüllen. Von diesem Grundsatz kann in begründeten Fällen hinsichtlich einzelner Aufgaben abgewichen werden. 6
+- 3) Sie haben ihre Aufgaben auf dem Gebiet des Fürstentums Liechtenstein zu erfüllen. Von diesem Grundsatz kann in begründeten Fällen hinsichtlich einzelner Aufgaben abgewichen werden. 6
 
 > 1 Sachüberschrift vor Art. 3 eingefügt durch LGBl. 2010 Nr. 118.
 
@@ -138,31 +138,31 @@ Hochschulgesetz (HSG)
 
 ###### b) Graduate Schools
 
-- Führt  eine  Hochschule  eine  Graduate  School,  so  hat  diese  im Dienste der Wissenschaft und zur Förderung wissenschaftsnaher Berufe die folgenden Aufgaben zu erfüllen:
+- 1) Führt eine Hochschule eine Graduate School, so hat diese im Dienste der Wissenschaft und zur Förderung wissenschaftsnaher Berufe die folgenden Aufgaben zu erfüllen:
 
-- Durchführung von Master- und Doktoratsstudiengängen nach Massgabe der Art. 16a, 19 und 20;
+- a) Durchführung von Master- und Doktoratsstudiengängen nach Massgabe der Art. 16a, 19 und 20;
 
-- nachhaltige Förderung der Forschungsleistungen der Hochschule;
+- b) nachhaltige Förderung der Forschungsleistungen der Hochschule;
 
-- Wissens- und Technologietransfer auf der Grundlage mindestens einer nachhaltigen  einschlägigen  Partnerschaft  mit  einer  anderen  Hochschule; und
+- c) Wissens- und Technologietransfer auf der Grundlage mindestens einer nachhaltigen einschlägigen Partnerschaft mit einer anderen Hochschule; und
 
-- Förderung  der  interdisziplinären  Weiterbildung  sowie  der  wissenschafts-  und  berufsorientierten  Führungskompetenzen  der  Studierenden.
+- d) Förderung der interdisziplinären Weiterbildung sowie der wissenschafts- und berufsorientierten Führungskompetenzen der Studierenden.
 
-- Die Regierung regelt das Nähere mit Verordnung.
+- 2) Die Regierung regelt das Nähere mit Verordnung.
 
 ##### Art. 4
 
 ###### Rechtsform, Autonomie und Ausrichtung 2
 
-- Hochschulen sind entweder Anstalten oder Stiftungen des öffentlichen Rechts oder juristische Personen des privaten Rechts.
+- 1) Hochschulen sind entweder Anstalten oder Stiftungen des öffentlichen Rechts oder juristische Personen des privaten Rechts.
 
-- Sie haben das Recht der Selbstverwaltung im Rahmen der Gesetze.
+- 2) Sie haben das Recht der Selbstverwaltung im Rahmen der Gesetze.
 
-- Sie können sich zum Ausbau von Stärken in der Forschung und in der Lehre nach folgenden Merkmalen unterschiedlich ausrichten:
+- 3) Sie können sich zum Ausbau von Stärken in der Forschung und in der Lehre nach folgenden Merkmalen unterschiedlich ausrichten:
 
-- Vermittlung von forschungs- und theorieorientierten Inhalten;
+- a) Vermittlung von forschungs- und theorieorientierten Inhalten;
 
-- Vermittlung von anwendungsorientierten forschungs- und theoriebasierten Inhalten. 3
+- b) Vermittlung von anwendungsorientierten forschungs- und theoriebasierten Inhalten. 3
 
 > 1 Art. 3a eingefügt durch LGBl. 2010 Nr. 118.
 
@@ -190,9 +190,9 @@ Die Freiheit der Forschung und Lehre ist im Rahmen der Rechtsordnung und des eth
 
 ###### Mitwirkung von Hochschulangehörigen
 
-- Hochschulangehörige, insbesondere die Studierenden, das Lehrpersonal und das administrative Personal, haben das Recht auf angemessene Mitwirkung.
+- 1) Hochschulangehörige, insbesondere die Studierenden, das Lehrpersonal und das administrative Personal, haben das Recht auf angemessene Mitwirkung.
 
-- Die Mitwirkung ist insbesondere bei der Entwicklung und Überarbeitung  von  Studiengängen,  der  Evaluation  der  Qualität  der  Hochschule und im Rahmen des Verfahrens zur Berufung von Professoren zu gewährleisten.
+- 2) Die Mitwirkung ist insbesondere bei der Entwicklung und Überarbeitung von Studiengängen, der Evaluation der Qualität der Hochschule und im Rahmen des Verfahrens zur Berufung von Professoren zu gewährleisten.
 
 ## B. Bewilligungen
 
@@ -202,11 +202,11 @@ Die Freiheit der Forschung und Lehre ist im Rahmen der Rechtsordnung und des eth
 
 ###### Bewilligungspflicht
 
-- Die Errichtung und Führung einer Hochschule bedürfen einer Bewilligung der Regierung.
+- 1) Die Errichtung und Führung einer Hochschule bedürfen einer Bewilligung der Regierung.
 
-- Unter die Bewilligungspflicht fallen sämtliche Hochschulen, auch solche, welche vom Gebiet des Fürstentums Liechtenstein aus Fernstudien anbieten sowie Titel und Grade verleihen. 2
+- 2) Unter die Bewilligungspflicht fallen sämtliche Hochschulen, auch solche, welche vom Gebiet des Fürstentums Liechtenstein aus Fernstudien anbieten sowie Titel und Grade verleihen. 2
 
-- Auf die Bewilligung von Hochschulen findet Kapitel III des Gesetzes über die Erbringung von Dienstleistungen keine Anwendung. 3
+- 3) Auf die Bewilligung von Hochschulen findet Kapitel III des Gesetzes über die Erbringung von Dienstleistungen keine Anwendung. 3
 
 > 1 Art. 5a eingefügt durch LGBl. 2010 Nr. 118.
 
@@ -230,11 +230,11 @@ Hochschulgesetz (HSG)
 
 Es werden folgende Bewilligungsarten unterschieden:
 
-- provisorische Bewilligungen;
+- a) provisorische Bewilligungen;
 
-- definitive Bewilligungen;
+- b) definitive Bewilligungen;
 
-- Zusatzbewilligungen.
+- c) Zusatzbewilligungen.
 
 ### 2. Provisorische Bewilligung
 
@@ -242,25 +242,25 @@ Es werden folgende Bewilligungsarten unterschieden:
 
 ###### Voraussetzungen
 
-- Voraussetzungen für die Erteilung einer provisorischen Bewilligung sind:
+- 1) Voraussetzungen für die Erteilung einer provisorischen Bewilligung sind:
 
-- die Vorlage eines nachhaltigen Konzepts für die Errichtung und Führung der Hochschule; und
+- a) die Vorlage eines nachhaltigen Konzepts für die Errichtung und Führung der Hochschule; und
 
-- ein entsprechender Finanzierungsnachweis.
+- b) ein entsprechender Finanzierungsnachweis.
 
-- Das Konzept enthält alle notwendigen Angaben über:
+- 2) Das Konzept enthält alle notwendigen Angaben über:
 
-- die Trägerschaft und die Rechtsform;
+- a) die Trägerschaft und die Rechtsform;
 
-- das Studienangebot (einschliesslich curricula), die Forschungsgebiete, die Aktivitäten zum Zwecke des Wissens- und Technologietransfers sowie die Dienstleistungen im Rahmen der Öffentlichkeitsarbeit;
+- b) das Studienangebot (einschliesslich curricula), die Forschungsgebiete, die Aktivitäten zum Zwecke des Wissens- und Technologietransfers sowie die Dienstleistungen im Rahmen der Öffentlichkeitsarbeit;
 
-- das  Berufungsverfahren  sowie  die  personelle  Ausstattung  (Leitung, Lehrpersonal und weitere Mitarbeiter); 1
+- c) das Berufungsverfahren sowie die personelle Ausstattung (Leitung, Lehrpersonal und weitere Mitarbeiter); 1
 
-- die  Studienordnung  (einschliesslich  der  Bezeichnung  der  Titel  und Grade); 2
+- d) die Studienordnung (einschliesslich der Bezeichnung der Titel und Grade); 2
 
-- die Infrastruktur;
+- e) die Infrastruktur;
 
-- die  Zusammenarbeit mit anderen Hochschulen des In- und Auslandes; und
+- f) die Zusammenarbeit mit anderen Hochschulen des In- und Auslandes; und
 
 > 1 Art. 8 Abs. 2 Bst. c abgeändert durch LGBl. 2010 Nr. 118.
 
@@ -276,33 +276,33 @@ Hochschulgesetz (HSG)
 
 414.0
 
-- die  Mitwirkung von Hochschulangehörigen und das System zur Sicherung und Entwicklung der Qualität; sowie 1
+- g) die Mitwirkung von Hochschulangehörigen und das System zur Sicherung und Entwicklung der Qualität; sowie 1
 
-- gegebenenfalls die Begründung, weshalb einzelne Aufgaben der Hochschule ausnahmsweise nicht auf dem Gebiet des Fürstentums Liechtenstein erfüllt werden. 2
+- h) gegebenenfalls die Begründung, weshalb einzelne Aufgaben der Hochschule ausnahmsweise nicht auf dem Gebiet des Fürstentums Liechtenstein erfüllt werden. 2
 
-- Durch den Finanzierungsnachweis ist zu belegen, dass die Hochschule  in  der  Lage  ist,  die  angebotenen  Studiengänge  entsprechend  der Studienordnung bis zu deren Abschluss durchzuführen. Im Zweifelsfall sind Sicherheitsleistungen zu erbringen.
+- 3) Durch den Finanzierungsnachweis ist zu belegen, dass die Hochschule in der Lage ist, die angebotenen Studiengänge entsprechend der Studienordnung bis zu deren Abschluss durchzuführen. Im Zweifelsfall sind Sicherheitsleistungen zu erbringen.
 
-- Die Regierung regelt das Nähere unter Berücksichtigung allgemein anerkannter Akkreditierungskriterien mit Verordnung. 3
+- 4) Die Regierung regelt das Nähere unter Berücksichtigung allgemein anerkannter Akkreditierungskriterien mit Verordnung. 3
 
 ##### Art. 9 4
 
 ###### Beurteilung
 
-- Die Regierung beurteilt Konzept und Finanzierungsnachweis nach Art. 8 auf der Grundlage einer Akkreditierung oder aufgrund eines von ihr eingeholten Gutachtens.
+- 1) Die Regierung beurteilt Konzept und Finanzierungsnachweis nach Art. 8 auf der Grundlage einer Akkreditierung oder aufgrund eines von ihr eingeholten Gutachtens.
 
-- Die Kosten der Akkreditierung oder des Gutachtens sind vom Gesuchsteller zu tragen.
+- 2) Die Kosten der Akkreditierung oder des Gutachtens sind vom Gesuchsteller zu tragen.
 
 ##### Art. 10
 
 ###### Auflagen
 
-- Mit der provisorischen Bewilligung werden folgende Auflagen verbunden:
+- 1) Mit der provisorischen Bewilligung werden folgende Auflagen verbunden:
 
-- Immatrikulation einer ausreichenden Anzahl Studierender je Studienund Jahrgang;
+- a) Immatrikulation einer ausreichenden Anzahl Studierender je Studien- und Jahrgang;
 
-- Akkreditierung oder Durchführung einer externen Evaluation durch ein vom Schulamt bestimmtes Gremium auf Kosten der Hochschule; 5
+- b) Akkreditierung oder Durchführung einer externen Evaluation durch ein vom Schulamt bestimmtes Gremium auf Kosten der Hochschule; 5
 
-- externe Revision der Rechnungslegung durch einen Wirtschaftsprüfer.
+- c) externe Revision der Rechnungslegung durch einen Wirtschaftsprüfer.
 
 > 1 Art. 8 Abs. 2 Bst. g abgeändert durch LGBl. 2010 Nr. 118.
 
@@ -324,7 +324,7 @@ Hochschulgesetz (HSG)
 
 Hochschulgesetz (HSG)
 
-- Mit  der  provisorischen  Bewilligung  können  weitere  Auflagen  im Hinblick auf  die  Weiterentwicklung des Konzeptes nach Art. 8 Abs. 2 verbunden werden.
+- 2) Mit der provisorischen Bewilligung können weitere Auflagen im Hinblick auf die Weiterentwicklung des Konzeptes nach Art. 8 Abs. 2 verbunden werden.
 
 ##### Art. 11
 
@@ -336,9 +336,9 @@ Die provisorische Bewilligung wird längstens für die Dauer von fünf Jahren er
 
 ###### Wirkung
 
-- Durch  die  provisorische  Bewilligung  erlangt  die  Hochschule  den Status "im Anerkennungsverfahren".
+- 1) Durch die provisorische Bewilligung erlangt die Hochschule den Status "im Anerkennungsverfahren".
 
-- Die unter diesem Status verliehenen Hochschulqualifikationen sind staatlich anerkannt. 1
+- 2) Die unter diesem Status verliehenen Hochschulqualifikationen sind staatlich anerkannt. 1
 
 ### 3. Definitive Bewilligung
 
@@ -348,15 +348,15 @@ Die provisorische Bewilligung wird längstens für die Dauer von fünf Jahren er
 
 Voraussetzungen für die Erteilung einer definitiven Bewilligung sind:
 
-- Vorliegen einer provisorischen Bewilligung;
+- a) Vorliegen einer provisorischen Bewilligung;
 
-- Immatrikulation einer ausreichenden Anzahl Studierender je Studienund Jahrgang;
+- b) Immatrikulation einer ausreichenden Anzahl Studierender je Studien- und Jahrgang;
 
-- Akkreditierung  oder  Vorlage  des  Evaluationsberichts  nach  Art.  10 Abs.  1  Bst.  b  über  die  erfolgreiche  Umsetzung  des  Konzepts  nach Art. 8 Abs. 2; 2
+- c) Akkreditierung oder Vorlage des Evaluationsberichts nach Art. 10 Abs. 1 Bst. b über die erfolgreiche Umsetzung des Konzepts nach Art. 8 Abs. 2; 2
 
-- keine Beanstandungen in den Revisionsberichten;
+- d) keine Beanstandungen in den Revisionsberichten;
 
-- Erfüllung der Auflagen nach Art. 10 Abs. 2.
+- e) Erfüllung der Auflagen nach Art. 10 Abs. 2.
 
 > 1 Art. 12 Abs. 2 abgeändert durch LGBl. 2010 Nr. 118.
 
@@ -382,13 +382,13 @@ Die definitive Bewilligung wird unbefristet erteilt.
 
 ###### Wirkung
 
-- Durch die definitive Bewilligung erlangt die Hochschule die staatliche Anerkennung.
+- 1) Durch die definitive Bewilligung erlangt die Hochschule die staatliche Anerkennung.
 
-- Die staatliche Anerkennung beinhaltet:
+- 2) Die staatliche Anerkennung beinhaltet:
 
-- die Anerkennung der Hochschule; und
+- a) die Anerkennung der Hochschule; und
 
-- die Anerkennung der Studienabschlüsse.
+- b) die Anerkennung der Studienabschlüsse.
 
 ### 4. Zusatzbewilligung
 
@@ -396,19 +396,19 @@ Die definitive Bewilligung wird unbefristet erteilt.
 
 ###### Einführung eines neuen Studienganges
 
-- Führt die definitiv bewilligte Hochschule einen neuen Studiengang nach Art. 18 bis 20 ein, bedarf dieser vor seiner Einführung einer Bewilligung durch die Regierung.
+- 1) Führt die definitiv bewilligte Hochschule einen neuen Studiengang nach Art. 18 bis 20 ein, bedarf dieser vor seiner Einführung einer Bewilligung durch die Regierung.
 
-- Die Bewilligung wird erteilt, wenn die Voraussetzungen nach Art. 8 Abs. 2 Bst. b bis e und Art. 10 Abs. 1 Bst. b sinngemäss erfüllt sind.
+- 2) Die Bewilligung wird erteilt, wenn die Voraussetzungen nach Art. 8 Abs. 2 Bst. b bis e und Art. 10 Abs. 1 Bst. b sinngemäss erfüllt sind.
 
 ##### Art. 16a 1
 
 ###### Errichtung und Führung einer Graduate School
 
-- Führt die Hochschule eine Graduate School, bedarf diese vor ihrer Einführung einer Bewilligung durch die Regierung.
+- 1) Führt die Hochschule eine Graduate School, bedarf diese vor ihrer Einführung einer Bewilligung durch die Regierung.
 
-- Die Bewilligung wird erteilt, wenn:
+- 2) Die Bewilligung wird erteilt, wenn:
 
-- mindestens ein Doktoratsstudiengang angeboten wird; und
+- a) mindestens ein Doktoratsstudiengang angeboten wird; und
 
 > 1 Art. 16a eingefügt durch LGBl. 2010 Nr. 118.
 
@@ -434,11 +434,11 @@ b)  durch die Vorlage eines nachhaltigen Konzepts und eines entsprechenden  Fina
 
 Es werden folgende gestufte Studiengänge unterschieden:
 
-- Bachelor-Studiengang;
+- a) Bachelor-Studiengang;
 
-- Master-Studiengang;
+- b) Master-Studiengang;
 
-- Doktoratsstudiengang.
+- c) Doktoratsstudiengang.
 
 ##### Art. 18
 
@@ -476,9 +476,9 @@ Es baut auf einem einschlägigen Bachelor- oder mindestens einem gleichwertigen 
 
 ###### Doktoratsstudiengang
 
-- Der Doktoratsstudiengang ist ein mindestens drei Jahre umfassendes Studium, das der Weiterentwicklung der Befähigung zu selbständiger wissenschaftlicher  Arbeit  sowie  der  Heranbildung  und  Förderung  des wissenschaftlichen  Nachwuchses  auf  der  Grundlage  eines  einschlägigen Master- oder eines mindestens gleichwertigen anderen Hochschulstudiums dient.
+- 1) Der Doktoratsstudiengang ist ein mindestens drei Jahre umfassendes Studium, das der Weiterentwicklung der Befähigung zu selbständiger wissenschaftlicher Arbeit sowie der Heranbildung und Förderung des wissenschaftlichen Nachwuchses auf der Grundlage eines einschlägigen Master- oder eines mindestens gleichwertigen anderen Hochschulstudiums dient.
 
-- Er ist im Rahmen einer Graduate School durchzuführen.
+- 2) Er ist im Rahmen einer Graduate School durchzuführen.
 
 ### 2. Weiterbildung 2
 
@@ -486,9 +486,9 @@ Es baut auf einem einschlägigen Bachelor- oder mindestens einem gleichwertigen 
 
 ###### Weiterbildungsstudiengänge
 
-- Die Hochschule kann Studiengänge zum Zweck der Weiterbildung in ihr Studienangebot aufnehmen.
+- 1) Die Hochschule kann Studiengänge zum Zweck der Weiterbildung in ihr Studienangebot aufnehmen.
 
-- Die Regierung regelt die Weiterbildungsstudiengänge mit Verordnung.  Kann  ein  Studiengang  mit  einem  Titel  oder  einem  Grad  abgeschlossen werden, so sind Zulassungsbedingungen, Studienumfang sowie Bezeichnung des Titels oder des Grades zu regeln.
+- 2) Die Regierung regelt die Weiterbildungsstudiengänge mit Verordnung. Kann ein Studiengang mit einem Titel oder einem Grad abgeschlossen werden, so sind Zulassungsbedingungen, Studienumfang sowie Bezeichnung des Titels oder des Grades zu regeln.
 
 > 1 Art. 20 abgeändert durch LGBl. 2010 Nr. 118.
 
@@ -512,19 +512,19 @@ Hochschulgesetz (HSG)
 
 ###### Grundsatz
 
-- Das European Credit Transfer System (ECTS) ist ein europaweit anerkanntes System zur Anrechnung, Übertragung und Akkumulierung von Studienleistungen in modular gestalteten Studiengängen.
+- 1) Das European Credit Transfer System (ECTS) ist ein europaweit anerkanntes System zur Anrechnung, Übertragung und Akkumulierung von Studienleistungen in modular gestalteten Studiengängen.
 
-- Es  ist  auf  die  Studierenden  ausgerichtet  und  basiert  auf  dem  Arbeitspensum, das diese absolvieren müssen, um die Ziele eines Studiengangs zu erreichen. Diese Ziele werden vorzugsweise in Form von Lernergebnissen und zu erwerbenden Fähigkeiten festgelegt.
+- 2) Es ist auf die Studierenden ausgerichtet und basiert auf dem Arbeitspensum, das diese absolvieren müssen, um die Ziele eines Studiengangs zu erreichen. Diese Ziele werden vorzugsweise in Form von Lernergebnissen und zu erwerbenden Fähigkeiten festgelegt.
 
 ##### Art. 22a 3
 
 ###### Zuordnung von Kreditpunkten
 
-- Das  Arbeitspensum  der  Studierenden  wird  in  Kreditpunkten  gemäss  dem  ECTS  ausgedrückt.  Dabei  entspricht  ein  Kreditpunkt  einem Arbeitsaufwand von 30 Stunden.
+- 1) Das Arbeitspensum der Studierenden wird in Kreditpunkten gemäss dem ECTS ausgedrückt. Dabei entspricht ein Kreditpunkt einem Arbeitsaufwand von 30 Stunden.
 
-- Der Bachelor-Studiengang umfasst 180 Kreditpunkte, der MasterStudiengang 120 Kreditpunkte.
+- 2) Der Bachelor-Studiengang umfasst 180 Kreditpunkte, der Master-Studiengang 120 Kreditpunkte.
 
-- Die Regierung kann für den Doktoratsstudiengang und Weiterbildungsstudiengänge (siehe Art. 21) mit Verordnung Kreditpunkte festlegen. Vorbehalten bleibt Art. 21 Abs. 2.
+- 3) Die Regierung kann für den Doktoratsstudiengang und Weiterbildungsstudiengänge (siehe Art. 21) mit Verordnung Kreditpunkte festlegen. Vorbehalten bleibt Art. 21 Abs. 2.
 
 > 1 Überschrift vor Art. 22 eingefügt durch LGBl. 2010 Nr. 118.
 
@@ -548,17 +548,17 @@ Hochschulgesetz (HSG)
 
 ###### Grundsatz
 
-- Jede Hochschule ist verpflichtet, ein Diploma Supplement auszustellen.
+- 1) Jede Hochschule ist verpflichtet, ein Diploma Supplement auszustellen.
 
-- Das Diploma Supplement ist eine der Abschlussqualifikation beizufügende  Beschreibung,  die  den  Immatrikulationsbehörden  ausländischer Hochschulen und Arbeitgebern als Beurteilungshilfe dient.
+- 2) Das Diploma Supplement ist eine der Abschlussqualifikation beizufügende Beschreibung, die den Immatrikulationsbehörden ausländischer Hochschulen und Arbeitgebern als Beurteilungshilfe dient.
 
-- Es enthält eine Beschreibung des Studienganges, den die in der Abschlussqualifikation  angeführte  Person  absolviert  und  erfolgreich  abgeschlossen hat.
+- 3) Es enthält eine Beschreibung des Studienganges, den die in der Abschlussqualifikation angeführte Person absolviert und erfolgreich abgeschlossen hat.
 
 ##### Art. 23a 3
 
 ###### Form der Ausstellung
 
-Das  Diploma  Supplement  ist  unentgeltlich  sowie  in  deutscher  und englischer Sprache auszustellen.
+Das Diploma Supplement ist unentgeltlich sowie in deutscher und englischer Sprache auszustellen.
 
 ## D. Studierende
 
@@ -568,11 +568,11 @@ Das  Diploma  Supplement  ist  unentgeltlich  sowie  in  deutscher  und englisch
 
 ###### Bachelor-Studium
 
-- Die Zulassung zum Bachelor-Studium setzt voraus:
+- 1) Die Zulassung zum Bachelor-Studium setzt voraus:
 
-- Kenntnis der deutschen Sprache; von diesem Erfordernis sind Studierende im Rahmen von Austauschprogrammen ausgenommen; und
+- a) Kenntnis der deutschen Sprache; von diesem Erfordernis sind Studierende im Rahmen von Austauschprogrammen ausgenommen; und
 
-- Matura oder Berufsmatura.
+- b) Matura oder Berufsmatura.
 
 > 1 Überschrift vor Art. 23 eingefügt durch LGBl. 2010 Nr. 118.
 
@@ -590,17 +590,17 @@ Das  Diploma  Supplement  ist  unentgeltlich  sowie  in  deutscher  und englisch
 
 Hochschulgesetz (HSG)
 
-- Ausserdem  kann  die  Zulassung  von  weiteren  studienspezifischen Voraussetzungen (z.B. künstlerische Eignung) abhängig gemacht werden.
+- 2) Ausserdem kann die Zulassung von weiteren studienspezifischen Voraussetzungen (z.B. künstlerische Eignung) abhängig gemacht werden.
 
-- Ausländische Maturaausweise oder vergleichbare Abschlüsse sind nach Massgabe von Gegenrechtsvereinbarungen liechtensteinischen Ausweisen gleichwertig. Andere Ausweise sind einer Gleichwertigkeitsprüfung zu unterziehen. 1
+- 3) Ausländische Maturaausweise oder vergleichbare Abschlüsse sind nach Massgabe von Gegenrechtsvereinbarungen liechtensteinischen Ausweisen gleichwertig. Andere Ausweise sind einer Gleichwertigkeitsprüfung zu unterziehen. 1
 
-- Ohne  Maturaausweis  oder  vergleichbaren  Abschluss  kann  ausnahmsweise zugelassen werden, wer seine Studierfähigkeit und seine Eignung für den von ihm gewünschten Studiengang durch andere Nachweise belegt. 2
+- 4) Ohne Maturaausweis oder vergleichbaren Abschluss kann ausnahmsweise zugelassen werden, wer seine Studierfähigkeit und seine Eignung für den von ihm gewünschten Studiengang durch andere Nachweise belegt. 2
 
-- Die Regierung regelt mit Verordnung:
+- 5) Die Regierung regelt mit Verordnung:
 
-- das Verfahren der Anerkennung von ausländischen Maturaausweisen oder vergleichbaren Abschlüssen in Ermangelung von Gegenrechtsvereinbarungen;
+- a) das Verfahren der Anerkennung von ausländischen Maturaausweisen oder vergleichbaren Abschlüssen in Ermangelung von Gegenrechtsvereinbarungen;
 
-- die Bedingungen und das Verfahren der Zulassung ohne Maturaausweis oder vergleichbaren Abschluss. 3
+- b) die Bedingungen und das Verfahren der Zulassung ohne Maturaausweis oder vergleichbaren Abschluss. 3
 
 ##### Art. 25
 
@@ -642,9 +642,9 @@ Die  Zulassungsbedingungen  für  Studiengänge  nach  Art.  21  Abs.  1 werden 
 
 Bei allen Studiengängen kann die Zulassung eingeschränkt werden bei:
 
-- einem Mangel an Studienplätzen; oder
+- a) einem Mangel an Studienplätzen; oder
 
-- Vorliegen eines Kontingents an Studienplätzen zugunsten von Schulträgern oder Subventionsempfängern.
+- b) Vorliegen eines Kontingents an Studienplätzen zugunsten von Schulträgern oder Subventionsempfängern.
 
 ### 2. Rechte und Pflichten
 
@@ -652,11 +652,11 @@ Bei allen Studiengängen kann die Zulassung eingeschränkt werden bei:
 
 ###### Rechte und Pflichten
 
-- Studierende haben das Recht auf Information und auf Beschwerde.
+- 1) Studierende haben das Recht auf Information und auf Beschwerde.
 
-- Die Hochschule hat eine interne Beschwerdeinstanz einzurichten.
+- 2) Die Hochschule hat eine interne Beschwerdeinstanz einzurichten.
 
-- Die  Rechte  und  Pflichten  der  Studierenden  werden  im  Übrigen durch die Hochschule festgelegt.
+- 3) Die Rechte und Pflichten der Studierenden werden im Übrigen durch die Hochschule festgelegt.
 
 > 1 Art. 27 abgeändert durch LGBl. 2010 Nr. 118.
 
@@ -678,25 +678,25 @@ Hochschulgesetz (HSG)
 
 ###### Voraussetzungen
 
-- Die Erlangung der Lehrbefähigung an einer Hochschule setzt voraus:
+- 1) Die Erlangung der Lehrbefähigung an einer Hochschule setzt voraus:
 
-- ein abgeschlossenes Hochschulstudium;
+- a) ein abgeschlossenes Hochschulstudium;
 
-- pädagogische Eignung;
+- b) pädagogische Eignung;
 
-- eine  besondere  Befähigung  zu  wissenschaftlicher  Arbeit,  die  in  der Regel durch eine Promotion nachgewiesen wird, oder eine besondere Fähigkeit für künstlerische Tätigkeit; und
+- c) eine besondere Befähigung zu wissenschaftlicher Arbeit, die in der Regel durch eine Promotion nachgewiesen wird, oder eine besondere Fähigkeit für künstlerische Tätigkeit; und
 
-- besondere Leistungen bei der Anwendung oder Entwicklung wissenschaftlicher Erkenntnisse und Methoden in einer mindestens fünfjährigen beruflichen Praxis, Habilitation oder vergleichbare wissenschaftliche oder künstlerische Leistungen.
+- d) besondere Leistungen bei der Anwendung oder Entwicklung wissenschaftlicher Erkenntnisse und Methoden in einer mindestens fünfjährigen beruflichen Praxis, Habilitation oder vergleichbare wissenschaftliche oder künstlerische Leistungen.
 
-- Bei der Lehrbefähigung für künstlerische Fachgebiete oder für Fachgebiete, die sich neu konstituieren, kann ausnahmsweise vom Erfordernis nach Abs. 1 Bst. a abgesehen werden.
+- 2) Bei der Lehrbefähigung für künstlerische Fachgebiete oder für Fachgebiete, die sich neu konstituieren, kann ausnahmsweise vom Erfordernis nach Abs. 1 Bst. a abgesehen werden.
 
 ##### Art. 29b 4
 
 ###### Verfahren
 
-- Das Verfahren zur Erlangung der Lehrbefähigung regelt die Hochschule.
+- 1) Das Verfahren zur Erlangung der Lehrbefähigung regelt die Hochschule.
 
-- Die  Verfahrensvorschriften  nach  Abs.  1  bedürfen  der  Genehmigung der Regierung.
+- 2) Die Verfahrensvorschriften nach Abs. 1 bedürfen der Genehmigung der Regierung.
 
 > 1 Überschrift vor Art. 29a eingefügt durch LGBl. 2010 Nr. 118.
 
@@ -724,29 +724,29 @@ Hochschulgesetz (HSG)
 
 Das Lehrpersonal der Hochschule setzt sich wie folgt zusammen:
 
-- Hochschulprofessoren; und
+- a) Hochschulprofessoren; und
 
-- weiteres Lehrpersonal.
+- b) weiteres Lehrpersonal.
 
 #### Hochschulprofessoren 2
 
 ##### Art. 31 3
 
-###### Einstellungsvoraussetzungen
+###### a) Einstellungsvoraussetzungen
 
 Hochschulprofessoren verfügen über:
 
-- eine Lehrbefähigung nach Art. 29a; oder
+- a) eine Lehrbefähigung nach Art. 29a; oder
 
-- einen anderen gleichwertigen Nachweis der fachlichen und pädagogischen Eignung.
+- b) einen anderen gleichwertigen Nachweis der fachlichen und pädagogischen Eignung.
 
 ##### Art. 31a 4
 
 ###### b) Bestellung
 
-- Hochschulprofessoren werden in einem Berufungsverfahren bestellt.
+- 1) Hochschulprofessoren werden in einem Berufungsverfahren bestellt.
 
-- Das Berufungsverfahren wird von der Hochschule festgelegt.
+- 2) Das Berufungsverfahren wird von der Hochschule festgelegt.
 
 > 1 Überschrift vor Art. 30 abgeändert durch LGBl. 2010 Nr. 118.
 
@@ -770,21 +770,21 @@ Hochschulgesetz (HSG)
 
 ###### c) Berufsbezeichnung
 
-- Hochschulprofessoren führen die Bezeichnung "Professor", solange sie an der Hochschule angestellt sind.
+- 1) Hochschulprofessoren führen die Bezeichnung "Professor", solange sie an der Hochschule angestellt sind.
 
-- Das Recht, die Bezeichnung "Professor" zu führen, erlischt beim Ausscheiden aus der Hochschule. Die Hochschule kann die Beibehaltung der Bezeichnung in begründeten Fällen, insbesondere bei Erreichen des Pensionsalters, bewilligen.
+- 2) Das Recht, die Bezeichnung "Professor" zu führen, erlischt beim Ausscheiden aus der Hochschule. Die Hochschule kann die Beibehaltung der Bezeichnung in begründeten Fällen, insbesondere bei Erreichen des Pensionsalters, bewilligen.
 
 ##### Art. 32
 
 ###### Weiteres Lehrpersonal
 
-- Personen,  die  an  der  Hochschule  unterrichten  und  deren  Bestellung nicht im Berufungsverfahren erfolgt ist, gelten als weiteres Lehrpersonal. 2
+- 1) Personen, die an der Hochschule unterrichten und deren Bestellung nicht im Berufungsverfahren erfolgt ist, gelten als weiteres Lehrpersonal. 2
 
-- Als weiteres Lehrpersonal können Personen eingesetzt werden, die:
+- 2) Als weiteres Lehrpersonal können Personen eingesetzt werden, die:
 
-- eine einschlägige fachliche Qualifikation vorweisen; und
+- a) eine einschlägige fachliche Qualifikation vorweisen; und
 
-- pädagogisch geeignet sind.
+- b) pädagogisch geeignet sind.
 
 ##### Art. 33
 
@@ -812,21 +812,21 @@ Hochschulgesetz (HSG)
 
 ###### Geschützte Hochschulqualifikationen 2
 
-- Es  werden  folgende  geschützte  Hochschulqualifikationen  unterschieden: 3
+- 1) Es werden folgende geschützte Hochschulqualifikationen unterschieden: 3
 
-- Bachelor-Grad  nach  erfolgreichem  Abschluss  eines  Bachelor-Studienganges;
+- a) Bachelor-Grad nach erfolgreichem Abschluss eines Bachelor-Studienganges;
 
-- Master-Grad  nach  erfolgreichem  Abschluss  eines  Master-Studienganges;
+- b) Master-Grad nach erfolgreichem Abschluss eines Master-Studienganges;
 
-- Doktorgrad nach erfolgreichem Abschluss eines Doktoratsstudienganges;
+- c) Doktorgrad nach erfolgreichem Abschluss eines Doktoratsstudienganges;
 
-- Lehrbefähigung. 4
+- d) Lehrbefähigung. 4
 
-- Die Regierung:
+- 2) Die Regierung:
 
-- legt die nähere Bezeichnung der Hochschulqualifikationen nach Abs. 1 Bst. a bis c mit Verordnung fest;
+- a) legt die nähere Bezeichnung der Hochschulqualifikationen nach Abs. 1 Bst. a bis c mit Verordnung fest;
 
-- kann  für  Weiterbildungsstudiengänge  mit  Verordnung  geschützte Abschlussqualifikationen bestimmen. 5
+- b) kann für Weiterbildungsstudiengänge mit Verordnung geschützte Abschlussqualifikationen bestimmen. 5
 
 #### Befugnis zur Verleihung 6
 
@@ -834,7 +834,7 @@ Hochschulgesetz (HSG)
 
 ###### a) Hochschulqualifikationen
 
-- Zur Verleihung von Hochschulqualifikationen sind ausschliesslich von der Regierung bewilligte Hochschulen befugt. Die Lehrbefähigung darf nur von einer Hochschule, die einen Doktoratsstudiengang anbietet, verliehen werden.
+- 1) Zur Verleihung von Hochschulqualifikationen sind ausschliesslich von der Regierung bewilligte Hochschulen befugt. Die Lehrbefähigung darf nur von einer Hochschule, die einen Doktoratsstudiengang anbietet, verliehen werden.
 
 - 1 Überschrift vor Art. 34 abgeändert durch LGBl. 2010 Nr. 118.
 
@@ -860,15 +860,15 @@ Hochschulgesetz (HSG)
 
 Hochschulgesetz (HSG)
 
-- Andere als die in Art. 34 genannten Hochschulqualifikationen dürfen von Hochschulen nicht verliehen werden.
+- 2) Andere als die in Art. 34 genannten Hochschulqualifikationen dürfen von Hochschulen nicht verliehen werden.
 
-- Die Verleihung von Hochschulqualifikationen nach Art. 34 Abs. 1 Bst. c und d hat unter der verantwortlichen Mitwirkung von Hochschulprofessoren mit Lehrbefähigung zu erfolgen.
+- 3) Die Verleihung von Hochschulqualifikationen nach Art. 34 Abs. 1 Bst. c und d hat unter der verantwortlichen Mitwirkung von Hochschulprofessoren mit Lehrbefähigung zu erfolgen.
 
 ##### Art. 36
 
 ###### b) Ehrentitel 1
 
-Von  der  Regierung  bewilligte  Hochschulen,  die  Doktoratsstudiengänge  anbieten,  sind  befugt,  an  verdiente  Persönlichkeiten  des  In-  und Auslandes den Ehrentitel "Doktor honoris causa" zu verleihen.
+Von der Regierung bewilligte Hochschulen, die Doktoratsstudiengänge anbieten, sind befugt, an verdiente Persönlichkeiten des In- und Auslandes den Ehrentitel "Doktor honoris causa" zu verleihen.
 
 ##### Art. 37 2
 
@@ -882,9 +882,9 @@ Personen, denen von einer anerkannten in- oder ausländischen Hochschule ein Tit
 
 ###### Qualitätsmanagement
 
-- Die  Hochschule  stellt  die  Qualität  der  von  ihr  betriebenen  Forschung und Lehre sicher und verbessert sie laufend.
+- 1) Die Hochschule stellt die Qualität der von ihr betriebenen Forschung und Lehre sicher und verbessert sie laufend.
 
-- Die Qualität der Hochschule ist mindestens alle sechs Jahre zu überprüfen, in der Regel durch eine staatlich zugelassene Akkreditierungsstelle. Die Kosten der Überprüfung hat die Hochschule zu tragen.
+- 2) Die Qualität der Hochschule ist mindestens alle sechs Jahre zu überprüfen, in der Regel durch eine staatlich zugelassene Akkreditierungsstelle. Die Kosten der Überprüfung hat die Hochschule zu tragen.
 
 > 1 Art. 36 Sachüberschrift abgeändert durch LGBl. 2010 Nr. 118.
 
@@ -906,39 +906,39 @@ Hochschulgesetz (HSG)
 
 ###### Berichterstattung
 
-- Hochschulen sind zu jährlicher Berichterstattung verpflichtet.
+- 1) Hochschulen sind zu jährlicher Berichterstattung verpflichtet.
 
-- Bericht ist insbesondere zu erstatten über:
+- 2) Bericht ist insbesondere zu erstatten über:
 
-- die Anzahl Studierender je Studiengang und je Semester;
+- a) die Anzahl Studierender je Studiengang und je Semester;
 
-- die  Lehr-  und  Forschungstätigkeit,  den  Wissens-  und  Technologietransfer  sowie die Dienstleistungen im Rahmen der Öffentlichkeitsarbeit;
+- b) die Lehr- und Forschungstätigkeit, den Wissens- und Technologietransfer sowie die Dienstleistungen im Rahmen der Öffentlichkeitsarbeit;
 
-- die Zusammenarbeit mit anderen in- und ausländischen Hochschulen;
+- c) die Zusammenarbeit mit anderen in- und ausländischen Hochschulen;
 
-- das Qualitätsmanagement.
+- d) das Qualitätsmanagement.
 
-- Der Bericht ist der Öffentlichkeit zugänglich zu machen.
+- 3) Der Bericht ist der Öffentlichkeit zugänglich zu machen.
 
 ##### Art. 40
 
 ###### Aufsichtsorgan
 
-- Die Regierung übt die Aufsicht über die Hochschulen aus.
+- 1) Die Regierung übt die Aufsicht über die Hochschulen aus.
 
-- Das Schulamt unterstützt die Regierung bei der Wahrnehmung ihrer Aufgaben.
+- 2) Das Schulamt unterstützt die Regierung bei der Wahrnehmung ihrer Aufgaben.
 
 ##### Art. 40a 1
 
 ###### Wissenschaftlicher Beirat
 
-- Die Regierung kann einen Wissenschaftlichen Beirat mit bis zu fünf Mitgliedern bestellen.
+- 1) Die Regierung kann einen Wissenschaftlichen Beirat mit bis zu fünf Mitgliedern bestellen.
 
-- Der Wissenschaftliche Beirat berät die Regierung in Hochschulangelegenheiten und gibt zu ihren Handen Empfehlungen ab.
+- 2) Der Wissenschaftliche Beirat berät die Regierung in Hochschulangelegenheiten und gibt zu ihren Handen Empfehlungen ab.
 
-- Ein Vertreter des Schulamtes nimmt an den Sitzungen des Wissenschaftlichen Beirates mit beratender Stimme teil.
+- 3) Ein Vertreter des Schulamtes nimmt an den Sitzungen des Wissenschaftlichen Beirates mit beratender Stimme teil.
 
-- Die Regierung kann das Nähere mit Verordnung regeln.
+- 4) Die Regierung kann das Nähere mit Verordnung regeln.
 
 > 1 Art. 40a eingefügt durch LGBl. 2010 Nr. 118.
 
@@ -956,9 +956,9 @@ Hochschulgesetz (HSG)
 
 ###### Mängel im Betrieb und in der Führung
 
-- Werden Mängel im Betrieb und in der Führung der Hochschule festgestellt, setzt die Regierung eine Frist, innert welcher die Mängel durch die Hochschule beseitigt werden müssen.
+- 1) Werden Mängel im Betrieb und in der Führung der Hochschule festgestellt, setzt die Regierung eine Frist, innert welcher die Mängel durch die Hochschule beseitigt werden müssen.
 
-- Die  Regierung  kann die Anordnung zur Behebung von Mängeln mit Auflagen verbinden.
+- 2) Die Regierung kann die Anordnung zur Behebung von Mängeln mit Auflagen verbinden.
 
 ##### Art. 42
 
@@ -966,9 +966,9 @@ Hochschulgesetz (HSG)
 
 Die Bewilligung zur Errichtung und Führung der Hochschule wird von der Regierung entzogen, wenn:
 
-- die Voraussetzungen für die Erteilung der Bewilligung nicht oder nicht mehr vorliegen; oder
+- a) die Voraussetzungen für die Erteilung der Bewilligung nicht oder nicht mehr vorliegen; oder
 
-- die Anordnungen nach Art. 41 nicht befolgt werden.
+- b) die Anordnungen nach Art. 41 nicht befolgt werden.
 
 ## H. Finanzierung
 
@@ -976,15 +976,15 @@ Die Bewilligung zur Errichtung und Führung der Hochschule wird von der Regierun
 
 ###### Grundsatz
 
-- Die  Erteilung  einer  Bewilligung  für  die  Errichtung  und  Führung einer Hochschule verleiht keinen Anspruch auf Staatsbeiträge.
+- 1) Die Erteilung einer Bewilligung für die Errichtung und Führung einer Hochschule verleiht keinen Anspruch auf Staatsbeiträge.
 
-- Staatsbeiträge an Hochschulen werden ausgerichtet:
+- 2) Staatsbeiträge an Hochschulen werden ausgerichtet:
 
-- sofern  ein  Gesetz  die  Ausrichtung  eines  Staatsbeitrages  an  eine  bestimmte Hochschule ausdrücklich vorsieht; oder
+- a) sofern ein Gesetz die Ausrichtung eines Staatsbeitrages an eine bestimmte Hochschule ausdrücklich vorsieht; oder
 
-- auf der Grundlage einer Leistungsvereinbarung, sofern der Staatsbeitrag durch einen Finanzbeschluss gedeckt ist.
+- b) auf der Grundlage einer Leistungsvereinbarung, sofern der Staatsbeitrag durch einen Finanzbeschluss gedeckt ist.
 
-- Der Abschluss einer Leistungsvereinbarung nach Abs. 2 Bst. b setzt ein  öffentliches  Interesse  an  der  von  der  Hochschule  zu  erbringenden Leistung voraus.
+- 3) Der Abschluss einer Leistungsvereinbarung nach Abs. 2 Bst. b setzt ein öffentliches Interesse an der von der Hochschule zu erbringenden Leistung voraus.
 
 22
 
@@ -1002,25 +1002,25 @@ Hochschulgesetz (HSG)
 
 Die Leistungsvereinbarung nach Art. 43 Abs. 2 Bst. b regelt:
 
-- die von der Hochschule zu erbringenden Leistungen, die entsprechend den Zielen, leitenden Grundsätzen und Aufgaben der Hochschule in den folgenden Bereichen festzulegen sind:
+- a) die von der Hochschule zu erbringenden Leistungen, die entsprechend den Zielen, leitenden Grundsätzen und Aufgaben der Hochschule in den folgenden Bereichen festzulegen sind:
 
 - aa) Strategie, Grundsätze und Ziele;
 
-- bb)  Hochschulentwicklung;
+- bb) Hochschulentwicklung;
 
 - cc) Forschung und Entwicklung;
 
-- dd)  Technologie- und Wissenstransfer;
+- dd) Technologie- und Wissenstransfer;
 
 - ee) Aus- und Weiterbildung;
 
 - ff) Internationalität und Mobilität;
 
-- die Finanzierungskriterien und Beitragssätze;
+- b) die Finanzierungskriterien und Beitragssätze;
 
-- den Inhalt, das Ausmass und den Umfang der Ziele sowie den Zeitpunkt der Zielerreichung;
+- c) den Inhalt, das Ausmass und den Umfang der Ziele sowie den Zeitpunkt der Zielerreichung;
 
-- das Berichtswesen und die Rechenschaftslegung.
+- d) das Berichtswesen und die Rechenschaftslegung.
 
 ##### Art. 45
 
@@ -1034,11 +1034,11 @@ Das Land kann zur Sicherung von Studienplätzen für Studierende aus dem  Fürst
 
 ###### Aufgaben
 
-- Aufgaben hochschulähnlicher Einrichtungen sind:
+- 1) Aufgaben hochschulähnlicher Einrichtungen sind:
 
-- Forschung  im  Hinblick  auf  Erkenntnisgewinn  und  technologische Problemlösung;
+- a) Forschung im Hinblick auf Erkenntnisgewinn und technologische Problemlösung;
 
-- Zusammenarbeit mit Hochschulen im In- und Ausland;
+- b) Zusammenarbeit mit Hochschulen im In- und Ausland;
 
 23
 
@@ -1050,33 +1050,33 @@ Das Land kann zur Sicherung von Studienplätzen für Studierende aus dem  Fürst
 
 Hochschulgesetz (HSG)
 
-- Wissens- und Technologietransfer;
+- c) Wissens- und Technologietransfer;
 
-- Öffentlichkeitsarbeit, die den Dialog mit der Bevölkerung, die lebenslange Weiterbildung und die Erarbeitung von langfristigen, nachhaltigen Entwicklungskonzepten einschliesst.
+- d) Öffentlichkeitsarbeit, die den Dialog mit der Bevölkerung, die lebenslange Weiterbildung und die Erarbeitung von langfristigen, nachhaltigen Entwicklungskonzepten einschliesst.
 
-- Die hochschulähnliche Einrichtung hat ihre Aufgaben auf dem Gebiet  des  Fürstentums  Liechtenstein  zu  erfüllen.  Von  diesem  Grundsatz kann in begründeten Fällen hinsichtlich einzelner Aufgaben abgewichen werden. 1
+- 2) Die hochschulähnliche Einrichtung hat ihre Aufgaben auf dem Gebiet des Fürstentums Liechtenstein zu erfüllen. Von diesem Grundsatz kann in begründeten Fällen hinsichtlich einzelner Aufgaben abgewichen werden. 1
 
 ##### Art. 47
 
 ###### Rechtsform und Autonomie
 
-- Hochschulähnliche  Einrichtungen  sind  entweder  Anstalten  oder Stiftungen des öffentlichen Rechts oder juristische Personen des privaten Rechts.
+- 1) Hochschulähnliche Einrichtungen sind entweder Anstalten oder Stiftungen des öffentlichen Rechts oder juristische Personen des privaten Rechts.
 
-- Sie haben das Recht der Selbstverwaltung im Rahmen der Gesetze.
+- 2) Sie haben das Recht der Selbstverwaltung im Rahmen der Gesetze.
 
 ##### Art. 48
 
 ###### Freiheit der Forschung
 
-Die  Freiheit  der  Forschung  ist  im  Rahmen  der  Rechtsordnung  und des ethisch Verantwortbaren gewährleistet.
+Die Freiheit der Forschung ist im Rahmen der Rechtsordnung und des ethisch Verantwortbaren gewährleistet.
 
 ##### Art. 49
 
 ###### Finanzierung
 
-- An  hochschulähnliche  Einrichtungen  können  auf  der  Grundlage einer  Leistungsvereinbarung  Staatsbeiträge  ausgerichtet  werden,  sofern diese durch einen Finanzbeschluss gedeckt sind.
+- 1) An hochschulähnliche Einrichtungen können auf der Grundlage einer Leistungsvereinbarung Staatsbeiträge ausgerichtet werden, sofern diese durch einen Finanzbeschluss gedeckt sind.
 
-- Der Abschluss einer Leistungsvereinbarung nach Abs. 1 setzt ein öffentliches Interesse an der von der hochschulähnlichen Einrichtung zu erbringenden Leistung voraus.
+- 2) Der Abschluss einer Leistungsvereinbarung nach Abs. 1 setzt ein öffentliches Interesse an der von der hochschulähnlichen Einrichtung zu erbringenden Leistung voraus.
 
 > 1 Art. 46 Abs. 2 abgeändert durch LGBl. 2010 Nr. 118.
 
@@ -1096,17 +1096,17 @@ Hochschulgesetz (HSG)
 
 ###### Hochschulverbund Liechtenstein
 
-- Unter der Bezeichnung "Hochschulverbund Liechtenstein" wird ein Verbund  liechtensteinischer  Hochschulen  und  hochschulähnlicher  Einrichtungen geführt.
+- 1) Unter der Bezeichnung "Hochschulverbund Liechtenstein" wird ein Verbund liechtensteinischer Hochschulen und hochschulähnlicher Einrichtungen geführt.
 
-- Der  Hochschulverbund  Liechtenstein  hat  insbesondere  folgende Aufgaben:
+- 2) Der Hochschulverbund Liechtenstein hat insbesondere folgende Aufgaben:
 
-- Repräsentation des Hochschulwesens im In- und Ausland;
+- a) Repräsentation des Hochschulwesens im In- und Ausland;
 
-- Förderung  der  Zusammenarbeit  zwischen  Hochschulen  und  hochschulähnlichen Einrichtungen;
+- b) Förderung der Zusammenarbeit zwischen Hochschulen und hochschulähnlichen Einrichtungen;
 
-- Durchführung von gemeinsamen Aktionen (z.B. Hochschultag).
+- c) Durchführung von gemeinsamen Aktionen (z.B. Hochschultag).
 
-- Die Regierung regelt das Nähere über den Hochschulverbund Liechtenstein mit Verordnung.
+- 3) Die Regierung regelt das Nähere über den Hochschulverbund Liechtenstein mit Verordnung.
 
 # IVa. Datenschutz 1
 
@@ -1114,11 +1114,11 @@ Hochschulgesetz (HSG)
 
 ###### Bearbeitung von Daten des Lehr- und Verwaltungspersonals
 
-- Hochschulen und Hochschuleinrichtungen sind befugt, Personendaten  von  Lehr-  und  Verwaltungspersonal,  einschliesslich  Persönlichkeitsprofile, zu bearbeiten, die sie benötigen, um die ihnen nach diesem Gesetz übertragenen Aufgaben zu erfüllen.
+- 1) Hochschulen und Hochschuleinrichtungen sind befugt, Personendaten von Lehr- und Verwaltungspersonal, einschliesslich Persönlichkeitsprofile, zu bearbeiten, die sie benötigen, um die ihnen nach diesem Gesetz übertragenen Aufgaben zu erfüllen.
 
-- Sie dürfen die Daten nach Abs. 1 den Aufsichtsorganen (Art. 40) bekannt geben, sofern sie für die Erfüllung ihrer Aufgaben erforderlich sind.
+- 2) Sie dürfen die Daten nach Abs. 1 den Aufsichtsorganen (Art. 40) bekannt geben, sofern sie für die Erfüllung ihrer Aufgaben erforderlich sind.
 
-- Regierung und Schulamt sind befugt, Personendaten des Lehrpersonals zu bearbeiten, die sie benötigen, um die ihnen nach diesem Gesetz übertragenen Aufgaben zu erfüllen.
+- 3) Regierung und Schulamt sind befugt, Personendaten des Lehrpersonals zu bearbeiten, die sie benötigen, um die ihnen nach diesem Gesetz übertragenen Aufgaben zu erfüllen.
 
 > 1 Überschrift vor Art. 50a eingefügt durch LGBl. 2010 Nr. 118.
 
@@ -1134,17 +1134,17 @@ Hochschulgesetz (HSG)
 
 Hochschulgesetz (HSG)
 
-- Für  die  Zwecke  der  Datenbearbeitung  dürfen  Hochschulen  und Hochschuleinrichtungen  ein  elektronisches  Datenbearbeitungssystem  betreiben.
+- 4) Für  die  Zwecke  der  Datenbearbeitung  dürfen  Hochschulen  und Hochschuleinrichtungen  ein  elektronisches  Datenbearbeitungssystem  betreiben.
 
-- Auf  die  Aufbewahrung  und  Archivierung  von  Daten  finden  die Bestimmungen des Archiv- und des Datenschutzgesetzes Anwendung.
+- 5) Auf  die  Aufbewahrung  und  Archivierung  von  Daten  finden  die Bestimmungen des Archiv- und des Datenschutzgesetzes Anwendung.
 
 ##### Art. 50b 1
 
 ###### Bearbeitung von Daten der Studierenden
 
-- Hochschulen und Hochschuleinrichtungen sind befugt, Personendaten von Studierenden zu bearbeiten oder bearbeiten zu lassen, sofern dies zur Erfüllung der ihnen übertragenen Aufgaben erforderlich ist.
+- 1) Hochschulen und Hochschuleinrichtungen sind befugt, Personendaten von Studierenden zu bearbeiten oder bearbeiten zu lassen, sofern dies zur Erfüllung der ihnen übertragenen Aufgaben erforderlich ist.
 
-- Im Übrigen findet Art. 50a Abs. 2 bis 5 sinngemäss Anwendung.
+- 2) Im Übrigen findet Art. 50a Abs. 2 bis 5 sinngemäss Anwendung.
 
 # V. Strafbestimmungen und Rechtsmittel
 
@@ -1158,9 +1158,9 @@ Wer vom Gebiet des Fürstentums Liechtenstein aus unbefugterweise akademische Gr
 
 ###### Rechtsmittel
 
-- Gegen Entscheidungen oder Verfügungen des Schulamtes kann binnen 14 Tagen ab Zustellung Beschwerde bei der Regierung erhoben werden.
+- 1) Gegen Entscheidungen oder Verfügungen des Schulamtes kann binnen 14 Tagen ab Zustellung Beschwerde bei der Regierung erhoben werden.
 
-- Gegen  Entscheidungen  der  Beschwerdeinstanz  einer  Hochschule kann  binnen  14  Tagen  ab  Zustellung  Beschwerde  bei  der  Beschwerdekommission  für  Verwaltungsangelegenheiten  erhoben  werden.  Die  Beschwerde kann sich nur gegen rechtswidriges Vorgehen und Erledigen oder gegen aktenwidrige oder unvollständige Sachverhaltsfeststellung richten.
+- 2) Gegen  Entscheidungen  der  Beschwerdeinstanz  einer  Hochschule kann  binnen  14  Tagen  ab  Zustellung  Beschwerde  bei  der  Beschwerdekommission  für  Verwaltungsangelegenheiten  erhoben  werden.  Die  Beschwerde kann sich nur gegen rechtswidriges Vorgehen und Erledigen oder gegen aktenwidrige oder unvollständige Sachverhaltsfeststellung richten.
 
 > 1 Art. 50b eingefügt durch LGBl. 2010 Nr. 118.
 
@@ -1174,7 +1174,7 @@ Hochschulgesetz (HSG)
 
 414.0
 
-- Gegen Entscheidungen und Verfügungen der Regierung oder der Beschwerdekommission für Verwaltungsangelegenheiten kann binnen 14 Tagen ab Zustellung Beschwerde an den Verwaltungsgerichtshof erhoben werden.
+- 3) Gegen Entscheidungen und Verfügungen der Regierung oder der Beschwerdekommission für Verwaltungsangelegenheiten kann binnen 14 Tagen ab Zustellung Beschwerde an den Verwaltungsgerichtshof erhoben werden.
 
 # VI. Regionale und internationale Zusammenarbeit
 
@@ -1182,9 +1182,9 @@ Hochschulgesetz (HSG)
 
 ###### Regionale und internationale Zusammenarbeit
 
-- Das Land fördert die regionale und internationale Zusammenarbeit im Hochschulwesen.
+- 1) Das Land fördert die regionale und internationale Zusammenarbeit im Hochschulwesen.
 
-- Zu diesem Zweck können Vereinbarungen mit regionalen und internationalen Organisationen sowie Staatsverträge abgeschlossen werden.
+- 2) Zu diesem Zweck können Vereinbarungen mit regionalen und internationalen Organisationen sowie Staatsverträge abgeschlossen werden.
 
 # VII. Übergangs- und Schlussbestimmungen
 
@@ -1224,7 +1224,10 @@ Dieses Gesetz tritt am Tage der Kundmachung in Kraft.
 
 In Stellvertretung des Landesfürsten:
 
-gez. Alois Erbprinz gez. Otmar Hasler Fürstlicher Regierungschef
+gez. Alois
+Erbprinz
+gez. Otmar Hasler
+Fürstlicher Regierungschef
 
 28
 
@@ -1248,10 +1251,6 @@ gez. Alois Erbprinz gez. Otmar Hasler Fürstlicher Regierungschef
 
 414.0
 
-.
-
-.
-
 Liechtensteinisches Landesgesetzblatt
 
 Jahrgang 2010
@@ -1266,23 +1265,19 @@ vom 16. März 2010
 
 # über die Abänderung des Hochschulgesetzes
 
-.
+...
 
 # II.
 
 ## Übergangsbestimmungen
 
-- Auf vor Inkrafttreten dieses Gesetzes 1  begonnene Studiengänge an von  der  Regierung  bewilligten  Hochschulen  findet  längstens  während drei  Jahren  nach  Inkrafttreten  dieses  Gesetzes  das  bisherige  Recht  Anwendung.
+- 1) Auf vor Inkrafttreten dieses Gesetzes 1  begonnene Studiengänge an von  der  Regierung  bewilligten  Hochschulen  findet  längstens  während drei  Jahren  nach  Inkrafttreten  dieses  Gesetzes  das  bisherige  Recht  Anwendung.
 
-- Spätestens  zwei  Jahre  nach  Inkrafttreten  dieses  Gesetzes  müssen Doktoratsstudiengänge in Graduate Schools durchgeführt werden.
+- 2) Spätestens  zwei  Jahre  nach  Inkrafttreten  dieses  Gesetzes  müssen Doktoratsstudiengänge in Graduate Schools durchgeführt werden.
 
-- Sofern eine Genehmigung nicht schon vorliegt, müssen Hochschulen der Regierung ihre Regelung über das Verfahren zur Erlangung der Lehrbefähigung nach Art. 29b spätestens nach Ablauf eines Jahres nach Inkrafttreten dieses Gesetzes zur Genehmigung einreichen.
+- 3) Sofern eine Genehmigung nicht schon vorliegt, müssen Hochschulen der Regierung ihre Regelung über das Verfahren zur Erlangung der Lehrbefähigung nach Art. 29b spätestens nach Ablauf eines Jahres nach Inkrafttreten dieses Gesetzes zur Genehmigung einreichen.
 
-.
-
-.
-
-.
+...
 
 > 1 Inkrafttreten: 1. August 2010.
 
