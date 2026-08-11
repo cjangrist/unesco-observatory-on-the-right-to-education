@@ -20,13 +20,13 @@ Telle que modifiée par :
 
 - la Loi constitutionnelle n° 2008-32 du 07 août 2008 portant création du Conseil Economique et Social (CES);
 
-- la  Loi  constitutionnelle  n°  2008-33  du  07  août  2008  modifiant  les articles 9 et 95 et complétant les articles 62 et 92 de la Constitution;
-
-- loi  constitutionnelle  n°  2008-66  du  21  octobre  2008  modifiant  la première phrase de l'alinéa premier de l'article 27 de la Constitution;
+- la Loi constitutionnelle n° 2008-33 du 07 août 2008 modifiant les articles 9 et 95 et complétant les articles 62 et 92 de la Constitution;
 
 - la Loi constitutionnelle n° 2008-34 du 07 août 2008 portant révision de la Constitution ;
 
-- loi constitutionnelle n° 2008-67 du 21 octobre 2008  portant modification de l'article 62, alinéa 1er de la Constitution.
+- loi constitutionnelle n° 2008-66 du 21 octobre 2008 modifiant la première phrase de l'alinéa premier de l'article 27 de la Constitution;
+
+- loi constitutionnelle n° 2008-67 du 21 octobre 2008 portant modification de l'article 62, alinéa 1er de la Constitution.
 
 ## PREAMBULE
 
@@ -58,7 +58,7 @@ AFFIRME :
 
 PROCLAME :
 
--le principe intangible de l'intégrité du territoire national et de l'unité nation  dans  le  respect  des  spécificités  culturelles  de  toutes  les composantes de la Nation ;
+-le principe intangible de l'intégrité du territoire national et de l'unité nationale dans le respect des spécificités culturelles de toutes les composantes de la Nation ;
 
 -l'inaltérabilité  de  la  souveraineté  nationale  qui  s'exprime  à  travers des procédures et consultations transparentes et démocratiques ;
 
@@ -382,7 +382,7 @@ Les électeurs sont convoqués par décret.
 
 #### Article 31
 
-Le scrutin pour l'élection du Président de la République a lieu quarantecinq jours francs au plus et trente jours francs au moins avant la date de l'expiration du mandat du Président de la République en fonction.
+Le scrutin pour l'élection du Président de la République a lieu quarante-cinq jours francs au plus et trente jours francs au moins avant la date de l'expiration du mandat du Président de la République en fonction.
 
 Si  la  Présidence  est  vacante,  par  démission,  empêchement  définitif  ou décès, le scrutin aura lieu dans les soixante jours au moins et quatre vingt dix  jours  au  plus,  après  la  constatation  de  la  vacance  par  le  Conseil constitutionnel.
 
@@ -406,7 +406,9 @@ Si  aucun  candidat  n'a  obtenu  la  majorité  requise,  il  est  procédé  �
 
 Sont admis à se présenter à ce second tour, les deux candidats arrivés en tête au premier tour.
 
-En cas de contestation, le second tour a lieu le deuxième troisième suivant le jour du prononcé de la décision du Conseil constitutionnel. Au second tour, la majorité relative suffit pour être élu.
+En cas de contestation, le second tour a lieu le deuxième dimanche suivant le jour du prononcé de la décision du Conseil constitutionnel.
+
+Au second tour, la majorité relative suffit pour être élu.
 
 #### Article 34
 
@@ -416,13 +418,17 @@ En  cas  de  décès,  d'empêchement  définitif,  ou  de  retrait  d'un  des  
 
 En  cas  de  décès,  d'empêchement  définitif  ou  de  retrait  d'un  des  deux candidats entre la proclamation des résultats définitifs du premier tour et le scrutin du deuxième tour, le candidat suivant sur la liste des résultats du premier tour est admis au deuxième tour.
 
-Dans les deux cas précédents, le Conseil constitutionnel constate le décès, l'empêchement définitif ou le retrait et fixe une nouvelle date du scrutin. En  cas  de  décès,  d'empêchement  définitif,  ou  de  retrait  d'un  des  deux candidats arrivés en tête selon les résultats provisoires du deuxième tour, et  avant la proclamation des résultats définitifs du deuxième tour par le Conseil constitutionnel, le seul candidat restant est déclaré élu.
+Dans les deux cas précédents, le Conseil constitutionnel constate le décès, l'empêchement définitif ou le retrait et fixe une nouvelle date du scrutin.
+
+En cas de décès, d'empêchement définitif, ou de retrait d'un des deux candidats arrivés en tête selon les résultats provisoires du deuxième tour,
 
 11
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+
+et avant la proclamation des résultats définitifs du deuxième tour par le Conseil constitutionnel, le seul candidat restant est déclaré élu.
 
 #### Article 35
 
@@ -448,13 +454,15 @@ Le Président de la République est installé dans ses fonctions après avoir pr
 
 Le serment est prêté dans les termes suivants :
 
-"Devant  Dieu et devant la Nation sénégalaise, je jure de remplir fidèlement la charge de Président de la République du Sénégal, d'observer comme de faire observer scrupuleusement les dispositions de la Constitution  et  des  lois,  de  consacrer  toutes  mes  forces  à  défendre  les institutions  constitutionnelles,  l'intégrité  du  territoire  et  l'indépendance nationale, de ne ménager enfin aucun effort pour la réalisation de l'unité africaine".
+"Devant Dieu et devant la Nation sénégalaise, je jure de remplir fidèlement la charge de Président de la République du Sénégal, d'observer comme de faire observer scrupuleusement les dispositions de la Constitution et des lois, de consacrer toutes mes forces à défendre les institutions constitutionnelles, l'intégrité du territoire et l'indépendance
 
 12
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+nationale, de ne ménager enfin aucun effort pour la réalisation de l'unité africaine".
 
 Le Président de la République nouvellement élu fait une déclaration écrite de patrimoine déposée au Conseil constitutionnel qui la rend publique.
 
@@ -470,7 +478,7 @@ En cas de démission, d'empêchement définitif ou de décès, le Président de 
 
 Au  cas  où  le  Président  du  Sénat  serait  dans  l'un  des  cas  ci-dessus,  la suppléance est assurée par le président de l'Assemblée nationale.
 
-La  même  règle  définie  par  l'article  précédent  s'applique  à  toutes  les suppléances.
+La même règle définie par l'alinéa précédent s'applique à toutes les suppléances.
 
 #### Article 40
 
@@ -698,17 +706,13 @@ Le règlement intérieur de chaque assemblée détermine :
 
 -les  différents  modes  de  scrutin,  à  l'exclusion  de  ceux  prévus expressément par la Constitution ;
 
--d'une façon générale, toutes les règles ayant pour objet le
-
-- fonctionnement
-
-- de l'Assemblée dans le cadre de sa compétence constitutionnelle.
+-d'une façon générale, toutes les règles ayant pour objet le fonctionnement de l'Assemblée dans le cadre de sa compétence constitutionnelle.
 
 Les règlements intérieurs des Assemblées ne peuvent être promulgués si le  Conseil  constitutionnel,  obligatoirement  saisi  par  le  Président  de  la République, ne les a déclarés conformes à la Constitution.
 
 #### Article 63
 
-A l'exception de la date d'ouverture de la première session de l'Assemblée nationale ou du Sénat nouvellement élu, qui est fixée par le Président de la  République,  l'Assemblée  nationale  fixe,  après  avoir  recueilli  l'avis  du Président du Sénat, la date d'ouverture et la durée de la session ordinaire unique  du  Parlement.  Celles-ci  sont  toutefois  régies  par  les  règles  ciaprès.
+A l'exception de la date d'ouverture de la première session de l'Assemblée nationale ou du Sénat nouvellement élu, qui est fixée par le Président de la République, l'Assemblée nationale fixe, après avoir recueilli l'avis du Président du Sénat, la date d'ouverture et la durée de la session ordinaire unique du Parlement. Celles-ci sont toutefois régies par les règles ci-après.
 
 19
 
@@ -791,13 +795,15 @@ La loi détermine les principes fondamentaux :
 
 -du régime de rémunération des agents de l'Etat.
 
-Les  lois  de  finances  déterminent  les  ressources  et  les  charges  de  l'Etat dans les conditions et sous les réserves prévues par une loi organique. Les créations  et  transformations  d'emplois  publics  ne  peuvent  être  opérées que par les lois de finances.
+Les lois de finances déterminent les ressources et les charges de l'Etat dans les conditions et sous les réserves prévues par une loi organique. Les
 
 21
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
+
+créations et transformations d'emplois publics ne peuvent être opérées que par les lois de finances.
 
 Les lois de programme déterminent les objectifs de l'action économique et sociale de l'Etat. Le plan est approuvé par la loi.
 
@@ -821,7 +827,7 @@ Si le Sénat adopte un texte identique à celui de l'Assemblée nationale, la lo
 
 Si le Sénat ne s'est pas prononcé dans le délai de quinze jours ou est en désaccord avec l'Assemblée nationale, le projet est transmis en urgence à l'Assemblée nationale qui statue définitivement.
 
-Si le Parlement ne s'est pas prononcé dans le délai de soixante jours, le projet de loi de finances est mis en vigueur par ordonnance, compte  tenu  des  amendements  votés  par  l'Assemblée  nationale  ou  le Sénat et acceptés par le Président de la République.
+Si le Parlement ne s'est pas prononcé dans le délai de soixante jours, le projet de loi de finances est mis en vigueur par ordonnance,
 
 22
 
@@ -829,7 +835,9 @@ Si le Parlement ne s'est pas prononcé dans le délai de soixante jours, le proj
 
 [[START OF PAGE 23]]
 
-Si la loi de finances de l'année n'a pu être promulguée avant le début de l'année financière, le Président de la République est autorisé à prescrire la continuation  de  la  perception  des  impôts  existants  et  à  reconduire  par décret les services votés.
+compte tenu des amendements votés par l'Assemblée nationale ou le Sénat et acceptés par le Président de la République.
+
+Si la loi de finances de l'année n'a pu être promulguée avant le début de l'année financière, le Président de la République est autorisé à prescrire la continuation de la perception des impôts existants et à reconduire par décret les services votés.
 
 La Cour des Comptes assiste le Président de la République, le Gouvernement et le Parlement, dans le contrôle de l'exécution des lois de finances.
 
@@ -889,13 +897,15 @@ Dans tous les cas, à l'expiration des délais constitutionnels, la promulgation
 
 Les matières qui ne sont pas du domaine législatif en vertu de la présente Constitution ont un caractère réglementaire.
 
-Les  textes  de  forme  législative  intervenus  en  ces  matières  peuvent  être modifiés  par  décret  si  le  Conseil  constitutionnel,  à  la  demande  du Président de la République ou du Premier Ministre, a déclaré qu'ils ont un caractère réglementaire en vertu de l'alinéa précédent.
+Les textes de forme législative intervenus en ces matières peuvent être modifiés par décret si le Conseil constitutionnel, à la demande du
 
 24
 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
+
+Président de la République ou du Premier Ministre, a déclaré qu'ils ont un caractère réglementaire en vertu de l'alinéa précédent.
 
 #### Article 77
 
@@ -917,7 +927,7 @@ Le Président de la République communique avec l'Assemblée nationale et le  S�
 
 L'initiative des lois appartient concurremment au Président de la République, au Premier Ministre, aux députés et aux sénateurs.
 
-Par  dérogation  aux  dispositions  de  l'article  71,  les  propositions  de  lois initiées par les sénateurs sont examinées en premier lieu au Sénat. Elles sont, après leur adoption, transmises à l'Assemblée nationale. SI l'Assemblée nationale adopté  ce texte, après l'avoir  éventuellement modifié,  il  est  transmis  sans  délai  au  Président  de  la  République  pour promulgation.
+Par dérogation aux dispositions de l'article 71, les propositions de lois initiées par les sénateurs sont examinées en premier lieu au Sénat. Elles sont, après leur adoption, transmises à l'Assemblée nationale. Si l'Assemblée nationale adopte ce texte, après l'avoir éventuellement modifié, il est transmis sans délai au Président de la République pour promulgation.
 
 #### Article 81
 
@@ -1021,15 +1031,15 @@ La durée de leur mandat est de six ans. Le Conseil est renouvelé tous les deux
 
 Les  conditions  à  remplir  pour  pouvoir  être  nommé  membre  du  Conseil constitutionnel sont déterminées par la loi organique.
 
-Le mandat des membres  du Conseil constitutionnel ne peut renouvelé.
-
-être Il ne peut être mis fin aux fonctions des membres du Conseil constitutionnel avant l'expiration de leur mandat que sur leur demande ou pour  incapacité  physique,  et  dans  les  conditions  prévues  par  la  loi organique.
+Le mandat des membres  du Conseil constitutionnel ne peut être renouvelé.
 
 28
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
+
+Il ne peut être mis fin aux fonctions des membres du Conseil constitutionnel avant l'expiration de leur mandat que sur leur demande ou pour  incapacité  physique,  et  dans  les  conditions  prévues  par  la  loi organique.
 
 #### Article 90
 
@@ -1053,13 +1063,15 @@ Le Conseil constitutionnel connaît de la constitutionnalité des règlements in
 
 Les décisions du Conseil constitutionnel ne sont susceptibles d'aucune voie de recours. Elles s'imposent aux pouvoirs publics et à toutes les autorités administratives et juridictionnelles.
 
-La  Cour  suprême  est  juge  en  premier  et  dernier  ressort  de  l'excès  de pouvoir des autorités exécutives. Elle connaît des décisions de la Cour des Comptes  par  la  voie  du  recours  en  cassation.  Elle  est  compétente  en dernier ressort dans le contentieux des inscriptions sur les listes électorales et des élections aux conseils des collectivités territoriales. Elle connaît, par la voie du recours en cassation, des décisions des Cours et Tribunaux relatives aux autres contentieux administratifs.
+La  Cour  suprême  est  juge  en  premier  et  dernier  ressort  de  l'excès  de pouvoir des autorités exécutives. Elle connaît des décisions de la Cour des Comptes  par  la  voie  du  recours  en  cassation.  Elle  est  compétente  en dernier ressort dans le contentieux des inscriptions sur les listes électorales et des élections aux conseils des collectivités territoriales. Elle
 
 29
 
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
+
+connaît, par la voie du recours en cassation, des décisions des Cours et Tribunaux relatives aux autres contentieux administratifs.
 
 En  toute  autre  matière,  la  Cour  suprême  se  prononce  par  la  voie  du recours en cassation sur les jugements rendus en dernier ressort par les juridictions subordonnées.
 
@@ -1085,13 +1097,15 @@ Il les ratifie ou les approuve éventuellement sur autorisation du Parlement.
 
 #### Article 96
 
-Les traités de paix, les traités de commerce, les traités ou accords relatifs à  l'organisation  internationale,  ceux  qui  engagent  les  finances  de  l'Etat, ceux  qui  modifient  les  dispositions  de  nature  législative,  ceux  qui  sont relatifs à l'état des personnes, ceux qui comportent cession, échange ou adjonction de territoire ne peuvent être ratifiés ou approuvés qu'en vertu d'une loi.
+Les traités de paix, les traités de commerce, les traités ou accords relatifs à  l'organisation  internationale,  ceux  qui  engagent  les  finances  de  l'Etat,
 
 30
 
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
+
+ceux  qui  modifient  les  dispositions  de  nature  législative,  ceux  qui  sont relatifs à l'état des personnes, ceux qui comportent cession, échange ou adjonction de territoire ne peuvent être ratifiés ou approuvés qu'en vertu d'une loi.
 
 Ils ne prennent effet qu'après avoir été ratifiés ou approuvés.
 
@@ -1123,13 +1137,15 @@ L'organisation de la Haute Cour de Justice et la procédure suivie devant elle s
 
 #### Article 101
 
-Le Président de la République n'est responsable des actes accomplis dans l'exercice de ses fonctions qu'en cas de haute trahison. Il ne peut être mis en  accusation  que  par  les  deux  assemblées,  statuant  par  un  vote identique  au  scrutin  secret,  à  la  majorité  des  trois  cinquièmes  des membres les composant ; il est jugé par la Haute Cour de Justice.
+Le Président de la République n'est responsable des actes accomplis dans l'exercice de ses fonctions qu'en cas de haute trahison. Il ne peut être mis en  accusation  que  par  les  deux  assemblées,  statuant  par  un  vote
 
 31
 
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
+
+identique  au  scrutin  secret,  à  la  majorité  des  trois  cinquièmes  des membres les composant ; il est jugé par la Haute Cour de Justice.
 
 Le  Premier  Ministre  et  les  autres  membres  du  Gouvernement  sont pénalement  responsables  des  actes  accomplis  dans  l'exercice  de  leurs fonctions et qualifiés crimes ou délits au moment où ils ont été commis. Ils sont jugés par la Haute Cour de Justice. La procédure définie ci-dessus leur  est  applicable,  ainsi  qu'à  leurs  complices,  dans  le  cas  de  complot contre la sûreté de l'Etat. Dans les cas prévus au présent alinéa, la Haute Cour  est  liée  par  la  définition  des  crimes  et  délits  ainsi  que  par  la détermination  des  peines,  telles  qu'elles  résultent  des  lois  pénales  en vigueur au moment où les faits ont été commis.
 
