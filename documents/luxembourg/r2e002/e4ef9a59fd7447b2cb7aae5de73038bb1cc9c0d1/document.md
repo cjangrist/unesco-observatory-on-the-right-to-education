@@ -1,5 +1,7 @@
 [[START OF PAGE 1]]
 
+1649
+
 MEMORIAL
 
 Journal Officiel du Grand-Duché de Luxembourg
@@ -8,9 +10,11 @@ MEMORIAL
 
 Amtsblatt des Großherzogtums Luxemburg
 
-1649
-
 RECUEIL DE LEGISLATION
+
+A -- N° 90
+
+7 juillet 2003
 
 # S o m m a i r e
 
@@ -19,10 +23,6 @@ RECUEIL DE LEGISLATION
 Loi  du  13  juin  2003  concernant  les  relations  entre  l'Etat  et  l'enseignement  privé  et  portant abrogation des articles 83 à 87 de la loi modifiée du 10 août 1912 concernant l'organisation de
 
 l'enseignement primaire . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . page 1650
-
-A -- N° 90
-
-7 juillet 2003
 
 [[END OF PAGE 1]]
 
@@ -42,26 +42,26 @@ Vu la décision de la Chambre des Députés du 14 mai 2003 et celle du Conseil d
 
 Avons ordonné et ordonnons:
 
-## TITRE I er . - Réglementation de l'enseignement privé
+## TITRE Ier. - Réglementation de l'enseignement privé
 
-#### Art. 1 er .
+#### Art. 1er.
 (1) Les dispositions de la présente loi s'appliquent aux écoles dispensant un enseignement préscolaire, primaire ou postprimaire privé.
 
-(2) Constitue une école au sens visé au paragraphe 1 er du présent article, tout organisme d'enseignement durable qui donne un enseignement collectif de caractère général ou professionnel
+(2) Constitue une école au sens visé au paragraphe 1er du présent article, tout organisme d'enseignement durable qui donne un enseignement collectif de caractère général ou professionnel
 
-- dans plus d'une branche;
+a) dans plus d'une branche;
 
-- à plusieurs classes d'élèves;
+b) à plusieurs classes d'élèves;
 
-- selon un programme d'études établi;
+c) selon un programme d'études établi;
 
-- indépendamment du changement des enseignants et des élèves;
+d) indépendamment du changement des enseignants et des élèves;
 
-- exigeant la présence physique continue de l'enseignant.
+e) exigeant la présence physique continue de l'enseignant.
 
-(3) Constitue un enseignement privé au sens visé au paragraphe 1 er du présent article tout enseignement qui n'est organisé ni par l'Etat, ni par les communes, ni par les chambres professionnelles.
+(3) Constitue un enseignement privé au sens visé au paragraphe 1er du présent article tout enseignement qui n'est organisé ni par l'Etat, ni par les communes, ni par les chambres professionnelles.
 
-(4)  Les  dispositions  de  la  présente  loi  ne  concernent  ni  l'enseignement  différencié,  ni  la  formation  dispensée  à l'intérieur des entreprises.
+(4) Les dispositions de la présente loi ne concernent ni l'enseignement différencié, ni la formation dispensée à l'intérieur des entreprises.
 
 #### Art. 2.
 Les organismes d'enseignement privés sont soumis au contrôle et à l'inspection pédagogiques du ministre ayant l'Education nationale dans ses attributions, ci-après désigné par «le ministre».
@@ -69,23 +69,23 @@ Les organismes d'enseignement privés sont soumis au contrôle et à l'inspectio
 #### Art. 3.
 (1) Nul ne peut créer, ouvrir ou faire fonctionner un établissement d'enseignement préscolaire, primaire ou postprimaire privé, s'il n'est muni d'une autorisation délivrée par arrêté grand-ducal, pris sur la proposition du ministre qui examine
 
-- les  conditions  d'honorabilité  de  la  personne  physique  ou  morale  responsable  de  la  gestion  de  l'organisme d'enseignement;
+a) les conditions d'honorabilité de la personne physique ou morale responsable de la gestion de l'organisme d'enseignement;
 
-- les  conditions  d'honorabilité  et  de  qualification  professionnelle  du  personnel  de  direction  et  du  personnel d'enseignement;
+b) les conditions d'honorabilité et de qualification professionnelle du personnel de direction et du personnel d'enseignement;
 
-- les conditions d'hébergement des classes et de salubrité des lieux;
+c) les conditions d'hébergement des classes et de salubrité des lieux;
 
-- les buts, les programmes et les méthodes d'enseignement;
+d) les buts, les programmes et les méthodes d'enseignement;
 
-- les conditions d'admission et de promotion des élèves;
+e) les conditions d'admission et de promotion des élèves;
 
-- les certificats délivrés aux élèves;
+f) les certificats délivrés aux élèves;
 
-- le règlement de discipline et d'ordre intérieur;
+g) le règlement de discipline et d'ordre intérieur;
 
-- le financement de l'enseignement;
+h) le financement de l'enseignement;
 
-- le contrat-type d'enseignement à conclure avec les élèves ou leurs représentants légaux.
+i) le contrat-type d'enseignement à conclure avec les élèves ou leurs représentants légaux.
 
 (2) L'autorisation est refusée si les conditions prévues par la loi ne sont pas remplies ou si, dans un ou plusieurs des domaines visés ci-dessus, l'organisation projetée de l'enseignement est de nature à porter gravement préjudice aux intérêts matériels ou moraux des élèves.
 
@@ -149,7 +149,7 @@ La publicité en faveur d'un organisme d'enseignement privé ne doit rien compor
 
 ## TITRE II. - De l'enseignement privé sous régime contractuel
 
-### Chapitre 1 er . - Dispositions générales
+### Chapitre 1er. - Dispositions générales
 
 #### Art.  16.
 Pour  pouvoir  bénéficier  au  titre  de  la  présente  loi  d'une  contribution  de  l'Etat,  l'établissement d'enseignement privé doit remplir les conditions énoncées au présent titre II et conclure le contrat prévu à l'article 22 de la présente loi.
@@ -157,22 +157,22 @@ Pour  pouvoir  bénéficier  au  titre  de  la  présente  loi  d'une  contribut
 #### Art. 17.
 L'établissement d'enseignement privé sous régime contractuel bénéficiant d'une contribution de l'Etat doit:
 
-- être constitué selon la loi modifiée du 21 avril 1928 sur les associations et les fondations sans but lucratif;
+a) être constitué selon la loi modifiée du 21 avril 1928 sur les associations et les fondations sans but lucratif;
 
-- avoir pour seul but des activités d'enseignement et de formation;
+b) avoir pour seul but des activités d'enseignement et de formation;
 
-- être employeur des enseignants et du personnel administratif et technique;
+c) être employeur des enseignants et du personnel administratif et technique;
 
-- être propriétaire ou avoir la jouissance des biens meubles et immeubles affectés à l'enseignement;
+d) être propriétaire ou avoir la jouissance des biens meubles et immeubles affectés à l'enseignement;
 
-- dispenser un enseignement qui doit conduire à un diplôme officiellement reconnu ou mener directement au prochain  ordre  d'enseignement  dont  l'examen  de  fin  d'études  est  sanctionné  par  un  diplôme  officiellement reconnu.
+e) dispenser un enseignement qui doit conduire à un diplôme officiellement reconnu ou mener directement au prochain ordre d'enseignement dont l'examen de fin d'études est sanctionné par un diplôme officiellement reconnu.
 
-#### Art.  18.
-Les  établissements  privés  dispensant  un  enseignement  préscolaire,  primaire  ou  postprimaire  et  qui appliquent les programmes de l'enseignement public luxembourgeois doivent:
+#### Art. 18.
+Les établissements privés dispensant un enseignement préscolaire, primaire ou postprimaire et qui appliquent les programmes de l'enseignement public luxembourgeois doivent:
 
-- dispenser  un  enseignement  collectif  correspondant  à  un  des  ordres  d'enseignement  préscolaire,  primaire  et postprimaire du secteur public;
+a) dispenser un enseignement collectif correspondant à un des ordres d'enseignement préscolaire, primaire et postprimaire du secteur public;
 
-- suivre  les  programmes  en  vigueur  dans  l'ordre  d'enseignement  public  correspondant,  de  sorte  que l'enseignement dispensé puisse être sanctionné par les examens de l'enseignement public;
+b) suivre les programmes en vigueur dans l'ordre d'enseignement public correspondant, de sorte que l'enseignement dispensé puisse être sanctionné par les examens de l'enseignement public;
 
 [[END OF PAGE 3]]
 
@@ -180,19 +180,19 @@ Les  établissements  privés  dispensant  un  enseignement  préscolaire,  prim
 
 1652
 
-- respecter  pour  chaque  classe  l'horaire  de  l'enseignement  public,  une  différence  globale  n'excédant  pas  trois leçons  hebdomadaires  étant  tolérée,  à  condition  que  soient  enseignées  toutes  les  branches  prévues  au programme de la classe dans l'enseignement public;
+c) respecter pour chaque classe l'horaire de l'enseignement public, une différence globale n'excédant pas trois leçons hebdomadaires étant tolérée, à condition que soient enseignées toutes les branches prévues au programme de la classe dans l'enseignement public;
 
-- appliquer les critères  d'admission  et  de  promotion  en  vigueur  dans  les  classes  correspondantes  de l'enseignement public.
+d) appliquer les critères d'admission et de promotion en vigueur dans les classes correspondantes de l'enseignement public.
 
 #### Art. 19.
 
-- a) Pour  les  établissements  privés  d'enseignement  préscolaire  et  primaire  appliquant  les  programmes  de l'enseignement  public  luxembourgeois,  les  enseignants  doivent  être  détenteurs  des  diplômes  requis  dans l'enseignement public luxembourgeois.
+1) a) Pour les établissements privés d'enseignement préscolaire et primaire appliquant les programmes de l'enseignement public luxembourgeois, les enseignants doivent être détenteurs des diplômes requis dans l'enseignement public luxembourgeois.
 
-- Pour  ce  qui  est  des  établissements  privés  d'enseignement  postprimaire  appliquant  les  programmes  de l'enseignement  public  luxembourgeois,  les  enseignants  doivent  être  détenteurs  des  diplômes  requis  dans l'ordre d'enseignement correspondant du secteur public, à l'exclusion des titres sanctionnant la formation pédagogique. L'établissement d'enseignement postprimaire s'engage à organiser une formation pédagogique de son personnel enseignant selon des modalités approuvées par le ministre.
+b) Pour ce qui est des établissements privés d'enseignement postprimaire appliquant les programmes de l'enseignement public luxembourgeois, les enseignants doivent être détenteurs des diplômes requis dans l'ordre d'enseignement correspondant du secteur public, à l'exclusion des titres sanctionnant la formation pédagogique. L'établissement d'enseignement postprimaire s'engage à organiser une formation pédagogique de son personnel enseignant selon des modalités approuvées par le ministre.
 
-- Le  ministre  peut  déroger  aux  conditions  énumérées  aux  points  a)  et  b)  notamment  dans  le  cas  où  les personnes visées sont engagées pour des missions de remplacement, pour donner des cours très spécialisés ou pour enseigner dans une branche dont le nombre de leçons hebdomadaires toutes classes confondues est inférieur à une tâche normale.
+c) Le ministre peut déroger aux conditions énumérées aux points a) et b) notamment dans le cas où les personnes visées sont engagées pour des missions de remplacement, pour donner des cours très spécialisés ou pour enseigner dans une branche dont le nombre de leçons hebdomadaires toutes classes confondues est inférieur à une tâche normale.
 
-- Les résultats scolaires des élèves des établissements privés appliquant les programmes de l'enseignement public luxembourgeois sont reconnus par l'enseignement public, et vice versa.
+2) Les résultats scolaires des élèves des établissements privés appliquant les programmes de l'enseignement public luxembourgeois sont reconnus par l'enseignement public, et vice versa.
 
 Les élèves en question bénéficient des mêmes conditions en matière de subventions, subsides, bourses et autres prestations fournies par l'Etat que les élèves de l'enseignement public.
 
@@ -243,17 +243,17 @@ Chaque année le ministre détermine le coût par élève de l'enseignement post
 
 Cette détermination comprend:
 
-- les rémunérations du personnel enseignant pour les prestations liées directement à l'enseignement, du personnel de direction, du personnel administratif, socio-éducatif et technique, y compris les charges sociales.
+a) les rémunérations du personnel enseignant pour les prestations liées directement à l'enseignement, du personnel de direction, du personnel administratif, socio-éducatif et technique, y compris les charges sociales.
 
 Lors de la détermination des charges sociales, il est tenu compte du pourcentage de la part patronale due par les établissements privés;
 
-- les dépenses relatives à l'équipement didactique et aux frais de fonctionnement des différents cours tels qu'ils sont définis à l'article 18;
+b) les dépenses relatives à l'équipement didactique et aux frais de fonctionnement des différents cours tels qu'ils sont définis à l'article 18;
 
-- les dépenses relatives aux frais de bureau, aux frais de nettoyage, au service du médecin scolaire, au service d'orientation et de psychologie scolaires, aux assurances accident et responsabilité civile;
+c) les dépenses relatives aux frais de bureau, aux frais de nettoyage, au service du médecin scolaire, au service d'orientation et de psychologie scolaires, aux assurances accident et responsabilité civile;
 
-- les dépenses relatives au chauffage et à la consommation d'eau, de gaz et d'électricité;
+d) les dépenses relatives au chauffage et à la consommation d'eau, de gaz et d'électricité;
 
-- les dépenses relatives au fonctionnement des cantines scolaires.
+e) les dépenses relatives au fonctionnement des cantines scolaires.
 
 #### Art.  27.
 Les  contributions  allouées  à  chacun  des  établissements  bénéficiaires  d'enseignement  postprimaire appliquant  les  programmes  de  l'enseignement  public  luxembourgeois  sont  arrêtées  annuellement  par  le  ministre conformément aux dispositions suivantes:
@@ -306,13 +306,13 @@ Il  est  institué  auprès  du  ministre  ayant  l'Education  nationale  dans  
 
 La mission de la commission de contrôle consiste:
 
-- à  contrôler  les  données  fournies  par  les  établissements  privés  en  vue  de  déterminer  le  montant  des participations étatiques;
+a) à contrôler les données fournies par les établissements privés en vue de déterminer le montant des participations étatiques;
 
-- à contrôler le bilan relatif aux recettes et dépenses réalisées par les établissements privés;
+b) à contrôler le bilan relatif aux recettes et dépenses réalisées par les établissements privés;
 
-- à émettre des avis sur toutes les difficultés auxquelles la présente loi peut donner lieu;
+c) à émettre des avis sur toutes les difficultés auxquelles la présente loi peut donner lieu;
 
-- à se tenir informée et à conseiller le ministre au sujet de toutes les questions intéressant l'enseignement privé.
+d) à se tenir informée et à conseiller le ministre au sujet de toutes les questions intéressant l'enseignement privé.
 
 L'organisation  et  les  modalités  internes  de  fonctionnement  de  la  commission  de  contrôle  sont  déterminées  par règlement d'ordre intérieur à approuver par le ministre.
 
@@ -334,20 +334,26 @@ Les articles 83 à 87 de la loi modifiée du 10 août 1912 concernant l'organisa
 La  loi  du  31  mai  1982  concernant  les  relations  entre  l'Etat  et  l'enseignement  postprimaire  privé  est abrogée.
 
 #### Art. 37.
-La  référence  à  la  présente  loi  peut  se  faire  sous  forme  abrégée  en  recourant  à  l'intitulé  suivant:  'Loi concernant les relations entre l'Etat et l'enseignement privé.'
+La référence à la présente loi peut se faire sous forme abrégée en recourant à l'intitulé suivant: „Loi concernant les relations entre l'Etat et l'enseignement privé.“
 
 #### Art. 38.
-La présente loi entre en vigueur le 1 er janvier de l'année suivant sa publication au Mémorial.
+La présente loi entre en vigueur le 1er janvier de l'année suivant sa publication au Mémorial.
 
 Mandons et ordonnons que la présente loi soit insérée au Mémorial pour être exécutée et observée par tous ceux que la chose concerne.
 
-Le Ministre de l'Éducation Nationale, de la Formation Professionnelle et des Sports, Anne Brasseur Le Ministre du Trésor et du Budget, Ministre de la Justice, Luc Frieden | Palais de Luxembourg, le 13 juin 2003. Henri
---- | ---
+Le Ministre de l’Éducation Nationale,
+de la Formation Professionnelle et des Sports,
+Anne Brasseur
 
-Editeur:
+Le Ministre du Trésor et du Budget,
+Ministre de la Justice,
+Luc Frieden
 
-Service Central de Législation, 43, boulevard F.-D. Roosevelt, L-2450 Luxembourg
+Palais de Luxembourg, le 13 juin 2003.
+Henri
+Doc. parl. 5029, sess. ord. 2001-2002 et 2002-2003.
 
+Editeur: Service Central de Législation, 43, boulevard F.-D. Roosevelt, L-2450 Luxembourg
 Imprimeur: Imprimerie de la Cour Victor Buck, s. à r. l. Leudelange
 
 [[END OF PAGE 6]]
