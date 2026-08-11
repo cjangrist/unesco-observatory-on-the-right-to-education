@@ -6,7 +6,19 @@ Vlada Crne Gore
 
 Zavod za školstvo
 
-# Strategy for Civic Education in Primary and Secondary Schools in Montenegro 2007 - 2010
+# Strategy for Civic Education in Primary and Secondary Schools in Montenegro 2007 – 2010
+
+FONDACIJA INSTITUT ZA OTVORENO DRUŠTVO
+PREDSTAVNIŠTVO – CRNA GORA
+
+unicef
+
+osce
+ORGANIZATION FOR SECURITY AND CO-OPERATION IN EUROPE
+Mission to Montenegro
+
+Centar za građansko obrazovanje
+Centre for Civic Education
 
 [[END OF PAGE 1]]
 
@@ -20,11 +32,20 @@ Zavod za školstvo
 
 Crna Gora Vlada Crne Gore Zavod za školstvo
 
-# STRATEGY for Civic Education in Primary and Secondary Schools in Montenegro 2007 - 2010
+# STRATEGY for Civic Education in Primary and Secondary Schools in Montenegro 2007 – 2010
 
 FOUNDATION OPEN SOCIETY INSTITUTE
 
-REPRESENTATIVE OFFICE - MONTENEGRO
+REPRESENTATIVE OFFICE – MONTENEGRO
+
+osce
+ORGANIZATION FOR SECURITY AND CO-OPERATION IN EUROPE
+Mission to Montenegro
+
+unicef
+
+Centar za građansko obrazovanje
+Centre for Civic Education
 
 Podgorica, December 2007
 
@@ -32,7 +53,7 @@ Podgorica, December 2007
 
 [[START OF PAGE 4]]
 
-Bureau for Educational Services Strategy for Civic Education in Primary and Secondary Schools in Montenegro 2007 - 2010
+Bureau for Educational Services Strategy for Civic Education in Primary and Secondary Schools in Montenegro 2007 – 2010
 
 Publisher: Bureau for Educational Services in cooperation with Centre fro Civic Education
 
@@ -74,13 +95,13 @@ This document was developed by the Task Force for Civic Education of the  Bureau
 
 We owe special gratitude to Mr Tomislav Reskovac, education expert from Zagreb/Croatia, who acted as the consultant in the Strategy development process.
 
-
+3
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-
+4
 
 [[END OF PAGE 6]]
 
@@ -88,27 +109,93 @@ We owe special gratitude to Mr Tomislav Reskovac, education expert from Zagreb/C
 
 ## TABLE OF CONTENTS
 
-
+SUMMARY.........................................................................................9
+INTRODUCTION............................................................................13
+SITUATION ANALYSIS...................................................................15
+I Status of Civic Education as a Subject.......................................15
+1. Principles of Education for Democratic Citizenship
+at School Level..............................................................................17
+2. Civic Education in Primary Education.....................................18
+3. Civic Education in General Secondary Education ..................18
+3.1 Status of Civic Education for Graduation
+Examination in General Secondary Schools .......................19
+4. Status of Education for Democratic Citizenship
+in Vocational Secondary Education ..........................................20
+5. Teacher Certification and Status................................................21
+6. Role of Local Community and General Public
+in Ensuring the Subject Status....................................................21
+II Teaching, Curricula and Methodologies...................................22
+1. Linking Civic Education with Other Subjects..........................22
+2. Civic Education as an Elective Subject
+in General Secondary Schools....................................................24
+3. Teaching Materials and Expert Literature ................................24
+III Teacher Training ........................................................................25
+1. Primary School Teacher Training ..............................................26
+2. General Secondary School Teacher Training ...........................27
+3. Undergraduate Teacher Education............................................27
+IV Quality Monitoring, Assurance and Improvement...................28
+1. Assessing Quality of Civic Education........................................29
+2. Assessing the Presence of Education
+for Democratic Citizenship Principles in Schools...................30
+3. System of Quality Assurance and Improvement.........................30
+
+5
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-
+V Additional Resources................................................................31
+1. Nongovernmental Organisations Programmes..........................31
+2. Role of the University .....................................................................32
+3. Association of Civic Education Teachers.....................................33
+4. Information on Additional Resources..........................................33
+STRATEGY ACTIVITIES................................................................35
+I Status of CE and Education for Democratic Citizenship .........35
+1. Education for Democratic Citizenship Principles
+at School Level..............................................................................36
+2. Civic Education in Primary Schools..........................................37
+3. Civic Education in General Secondary School ........................37
+4. EDC in Secondary Vocational Education.................................38
+5. Teacher Certification and Status................................................39
+6. Role of Local Community and General Public
+in Ensuring the Subject Status....................................................40
+II Teaching Civic Education and Education for
+Democratic Citizenship.............................................................40
+1. Contents and Principles of Education for
+Democratic Citizenship in Other Subjects...............................40
+2. Elective Subjects with Education for
+Democratic Citizenship Contents..............................................41
+3. Teaching Materials and Expert Literature ................................42
+III Civic Education Teachers Training ............................................43
+1. Training of Primary School Teachers........................................43
+2. Training of General Secondary School Teachers.....................44
+3. Undergraduate Education of Future Teachers .........................44
+IV Quality Monitoring, Assurance and Improvement....................45
+1. Development of Indicators .........................................................45
+2. Assessing Quality of Civic Education Teaching.......................46
+3. Assess the Presence of Education for
+Democratic Citizenship Principles in Schools.........................46
+4. Quality Assurance and Improvement System..........................47
+
+6
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-PRIORITIES AND TIMEFRAME....................................................51
+V Use of Additional Resources......................................................48
+1. Cooperation with Nongovernmental Organisations..................48
+2. Association of Civic Education Teachers..................................49
+PRIORITIES AND TIMEFRAME ...................................................51
 
-
+7
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
-
+8
 
 [[END OF PAGE 10]]
 
@@ -122,9 +209,9 @@ During the four years of its operation, the Bureau for Educational Services laun
 
 ### Why do we need the Strategy?
 
-Notwithstanding the good foundations set by the basic reform documents and great enthusiasm over the novelties being introduced into our education system approximating European standards in education, it is quite apparent that we lack a comprehensive , strategic approach in maintaining the Civic Education quality. The very nature of the subject is closely linked to ongoing changes and challenges within the society it s supposed to provide meaningful response to. Or, to put it differently, the subject needs to remain open towards societal changes and 'elastic' enough to be able to attain own goals.
+Notwithstanding the good foundations set by the basic reform documents and great enthusiasm over the novelties being introduced into our education system approximating European standards in education, it is quite apparent that we lack a comprehensive, strategic approach in maintaining the Civic Education quality. The very nature of the subject is closely linked to ongoing changes and challenges within the society it is supposed to provide meaningful response to. Or, to put it differently, the subject needs to remain open towards societal changes and “elastic” enough to be able to attain own goals.
 
-
+9
 
 [[END OF PAGE 11]]
 
@@ -223,19 +310,21 @@ The education reform in Montenegro, or the actual introduction of new curricula 
 
 The Book of Changes (2001), which sets the general aims of changes in education, states the social goals that should contribute to a responsible behaviour of individuals and groups towards the principles and norms of a civil and democratic society, and to the promotion of livelong learning approach.
 
-The given principles and goals are embedded in our tradition and the Constitution, but also in international documents.  The Council of Europe's initiatives and declarations were also the starting points for the introduction of civic education into our education system. 
+The given principles and goals are embedded in our tradition and the Constitution, but also in international documents.¹ The Council of Europe's initiatives and declarations were also the starting points for the introduction of civic education into our education system.²
 
-While developing the Civic Education curriculum for primary and secondary schools, we also took on board the experiences of the countries in the region. Own experience gained through the implementation of various civic education projects and programmes implemented in our schools gave a special impetus. Cooperation with the representatives of educational institutions, with nongovernmental organisations in Montenegro and the countries in the region, participation to regional conferences organised by the Council of Europe, one of which was held at Cetinje in 2005, set the foundation both for this document development and for building better partnerships with South-eastern European countries and countries of the wider region.
+While developing the Civic Education curriculum for primary and second-
 
- General Declaration on Human Rights, Declaration on the Rights of Child, Convention on the Rights of Child, Convention against Discrimination in Education, etc.
+1 General Declaration on Human Rights, Declaration on the Rights of Child, Convention on the Rights of Child, Convention against Discrimination in Education, etc.
 
- Initiative for the Introduction of Education for Democratic Citizenship of Heads of States and Governments of EU Member States, Strasbourg, 1997, Declaration and the Programme of Education for Democratic Citizenship Based on Rights and Responsibilities, Council of Ministers, Budapest, 1999, 'Education and Training in Europe', 2002, Definition and Selection of Key Competencies, OECD, 2005.
+2 Initiative for the Introduction of Education for Democratic Citizenship of Heads of States and Governments of EU Member States, Strasbourg, 1997, Declaration and the Programme of Education for Democratic Citizenship Based on Rights and Responsibilities, Council of Ministers, Budapest, 1999, “Education and Training in Europe”, 2002, Definition and Selection of Key Competencies, OECD, 2005.
 
 13
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+
+ary schools, we also took on board the experiences of the countries in the region. Own experience gained through the implementation of various civic education projects and programmes implemented in our schools gave a special impetus. Cooperation with the representatives of educational institutions, with nongovernmental organisations in Montenegro and the countries in the region, participation to regional conferences organised by the Council of Europe, one of which was held at Cetinje in 2005, set the foundation both for this document development and for building better partnerships with South-eastern European countries and countries of the wider region.
 
 This all set the grounds for the introduction and promotion of civic education values, both as a separate subject and as a principle in the education process as such.
 
@@ -251,15 +340,15 @@ Education for democratic citizenship is a process taking place in many countries
 
 ### I Status of Civic Education as a Subject
 
-According to the Council of Europe's definition  , Education for Democratic Citizenship (EDC) is 'a set of practices and principles aimed at making young people and adults better equipped to participate actively in democratic life by assuming and exercising their rights and responsibilities in society.' Following the Ministerial conference  ,  EDC has become the common goal in education and the basic trend in European education policies.
+According to the Council of Europe's definition³, Education for Democratic Citizenship (EDC) is “a set of practices and principles aimed at making young people and adults better equipped to participate actively in democratic life by assuming and exercising their rights and responsibilities in society.” Following the Ministerial conference⁴, EDC has become the common goal in education and the basic trend in European education policies.
 
 EDC covers a wide range of activities and programmes grouped in four main areas: human rights education, political education, education for peace and education for democracy, and it takes place in different forms of education - formal, non-formal and informal. EDC policy is based on the principles of life-long learning.
 
 When so formulated, it becomes clear EDC presents a comprehensive and far-reaching vision, an ideal we need to aspire to in designing educational policies, at different levels and in different learning environments. However, at the current point in the process, most often recognised are the elements carried out in formal education, be it as separate subjects (compulsory and elective), as an integrative approach to teaching or as extracurricular activities.
 
- Birzea, C. Et al: All-European Study on Policies for Education for Democratic Citizenship, Centre for Civic Education, 2005, Podgorica
+3 Birzea, C. Et al: All-European Study on Policies for Education for Democratic Citizenship, Centre for Civic Education, 2005, Podgorica
 
- Krakov, 2000
+4 Krakov, 2000
 
 15
 
@@ -275,7 +364,7 @@ Summing up the discussion on the goals of education for democratic citizenship i
 
  acquire knowledge and information about their rights, responsibilities, opportunities and ways for action within a community;
 
- develop a bilities for observing social problems and their resolution through cooperation;
+ develop abilities for observing social problems and their resolution through cooperation;
 
  develop motivation to use newly acquired knowledge and skills, apart from school, also in their life.
 
@@ -327,7 +416,7 @@ For the time being we may not say that the principle of evolution and continuous
 
 The very introduction of this subject was preceded by several decade long practice of teaching the subject entitled Constitution and Citizens' Rights , focusing on political education and the so-called political literacy.
 
-The new curriculum for general secondary school does not envisage any specialisation, but it enables the students, by selection of appropriate electives, to create independently part of their education package. Each school is obliged to offer from the list of compulsory electives, in accordance with own human and spatial resources, starting from the 1 st grade at least five obligatory elective subjects. In the following grades, the list of elective subjects offered within the school will be made in accordance with the expressed intentions and wishes of students during the previous grade. Each school year students decide on obligatory elective subject - any student can enter Civic Education curriculum at any grade.
+The new curriculum for general secondary school does not envisage any specialisation, but it enables the students, by selection of appropriate electives, to create independently part of their education package. Each school is obliged to offer from the list of compulsory electives, in accord-
 
 18
 
@@ -335,7 +424,9 @@ The new curriculum for general secondary school does not envisage any specialisa
 
 [[START OF PAGE 21]]
 
-Civic Education in general secondary schools is an obligatory elective subject which may be chosen all the way from the 1 st to the 4 th grade, with the total of 35 classes a year in the 1 st and 2 nd grade, and 70 classes a year in the 3 rd grade and 64 classes a year in the 4 th grade. During the school year 2006/07, some 1,000 students from 19 out of the total of 23 general secondary schools chose CE courses.
+ance with own human and spatial resources, starting from the 1st grade at least five obligatory elective subjects. In the following grades, the list of elective subjects offered within the school will be made in accordance with the expressed intentions and wishes of students during the previous grade. Each school year students decide on obligatory elective subject – any student can enter Civic Education curriculum at any grade.
+
+Civic Education in general secondary schools is an obligatory elective subject which may be chosen all the way from the 1st to the 4th grade, with the total of 35 classes a year in the 1st and 2nd grade, and 70 classes a year in the 3rd grade and 64 classes a year in the 4th grade. During the school year 2006/07, some 1,000 students from 19 out of the total of 23 general secondary schools chose CE courses.
 
 The developmental nature of CE is provided with the goals and contents of this subject building on the knowledge and competencies acquired in primary school within Civic Education, but also some other subjects.
 
@@ -369,7 +460,7 @@ Having in mind the growing numbers of students enrolling secondary vocational sc
 
 [[START OF PAGE 23]]
 
-#### 5. 	T eacher Certification and Status
+#### 5. Teacher Certification and Status
 
 The teachers currently involved in teaching CE are being trained for the implementation of new curricula. During their initial undergraduate teacher education they had no opportunity to gain knowledge and skills for attaining the goals of such curricula.
 
@@ -389,9 +480,9 @@ Local communities are, at the same time, facing own challenges in efforts toward
 
 [[START OF PAGE 24]]
 
-In addition, the Action Plan for Adult Education (2005/10) and the Strategy for Adult Education (2005/15) define the activities to enhance adult education in the area of civic education, at the local community level but also wider. 
+In addition, the Action Plan for Adult Education (2005/10) and the Strategy for Adult Education (2005/15) define the activities to enhance adult education in the area of civic education, at the local community level but also wider.⁵
 
-### II  T eaching, Curricula and Methodologies
+### II Teaching, Curricula and Methodologies
 
 In order to support the implementation of the CE curriculum and assure the quality of teaching, the textbooks for 6 th and 7 th grade have already been made, as well as relevant teacher books. The textbooks have been translated into Albanian and are, thus, used in all schools in Montenegro.
 
@@ -407,15 +498,17 @@ Concerning the teaching and learning context for civic education, the following 
 
 #### 1 .  Linking Civic Education with Other Subjects
 
-In European countries, within their formal education systems, in general there are three types of programmes. Civic Education Programmes focus on political and civil rights, individuals and their competencies for the formal role of citizens. Human Rights Education Programmes focus on familiarising students with human rights and freedoms, aiming to raise awareness on the importance to protect fundamental freedoms and rights of each individual. Inter-curricular education Programmes aim at understanding and respecting cultural differences: they set from the principles of equality, rule of law, pluralism, solidarity, tolerance, interaction and interdependence, with special attention dedicated to mutual respect, cooperation and peaceful conflict resolution skills.
+In European countries, within their formal education systems, in general there are three types of programmes. Civic Education Programmes focus on political and civil rights, individuals and their competencies for the formal role of citizens. Human Rights Education Programmes focus on familiarising students with human rights and freedoms, aiming to raise
 
- The partners of local communities within this process are the Centre for Vocational Education and Training, Bureau for Educational Services, the University, the Centre for the Development of NGOs and other nongovernmental organisations.
+5 The partners of local communities within this process are the Centre for Vocational Education and Training, Bureau for Educational Services, the University, the Centre for the Development of NGOs and other nongovernmental organisations.
 
 22
 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
+
+awareness on the importance to protect fundamental freedoms and rights of each individual. Inter-curricular education Programmes aim at understanding and respecting cultural differences: they set from the principles of equality, rule of law, pluralism, solidarity, tolerance, interaction and interdependence, with special attention dedicated to mutual respect, cooperation and peaceful conflict resolution skills.
 
 We opted for the CE curricula to include the contents and goals of civic education programmes, human rights education programme and intercultural education programme. Such an approach ensures interdisciplinary nature of these curricula in primary and general secondary schools, illustrated by the fact that they cover contents from four main areas/dimensions of education: social (understanding relations among people and their functioning within societal groups and institutions); economic (understanding living conditions, the world of labour and forms of economic functioning); cultural (understanding shared values and traditions within a group and among groups, including their historic perspective); political and legal dimension (rights and duties of individuals and citizens in relation to the political system and laws).
 
@@ -437,11 +530,11 @@ This segment of cross-curricular EDC will be further discussed in the chapter co
 
 Students are free to choose and study CE in continuity (for instance, for two years, or three years or throughout the four years) or partially (for instance, only in the first year, or only in the second year, etc). This has affected the design of the so-called core curriculum (human rights) present in all curricula.
 
-The possibility of choice does not end here. As already mentioned, the teaching plan for general secondary schools envisages also obligatory electives (with the total of 72 classes in each of the first three years and 32 classes in 4 th grade). This possibility and offer of new electives should create opportunities for increasing the contents and availability of civic education and EDC during all four years of general secondary education.
+The possibility of choice does not end here. As already mentioned, the teaching plan for general secondary schools envisages also obligatory electives (with the total of 72 classes in each of the first three years and 32 classes in 4th grade). This possibility and offer of new electives should create opportunities for increasing the contents and availability of civic education and EDC during all four years of general secondary education.
 
-#### 3.  T eaching Materials and Expert Literature
+#### 3. Teaching Materials and Expert Literature
 
-The 'Civic Education' textbook for 6 th and 7 th grade is currently the principal teaching material which, together with teacher books, enables the implementation of this curriculum in primary schools.
+The “Civic Education” textbook for 6th and 7th grade is currently the principal teaching material which, together with teacher books, enables the implementation of this curriculum in primary schools.
 
 As for general secondary schools, apart from the curriculum, teachers are not provided with any teaching materials - the textbook, the teacher book and reference literature are missing. Since the textbook production may not be expected for another three to four years, once textbooks for compulsory subjects in general secondary schools are produced, and since there are no alternative textbooks (from the neighbouring countries, for instance), the exchange of teaching materials and ideas among the teachers themselves, as well as better regional cooperation (such as, the use of literature published in the region) remain the only possible solution at this point.
 
@@ -451,7 +544,7 @@ As for general secondary schools, apart from the curriculum, teachers are not pr
 
 [[START OF PAGE 27]]
 
-### III  T eacher  Training
+### III Teacher Training
 
 Fast changes in the society and the labour market impose the need for permanent enhancement of teacher competences. They are required to keep informed, to adapt to changes and to learn continuously.
 
@@ -471,15 +564,15 @@ It also requires a changed teachers' role - they are expected to lead the learni
 
 The teacher training concept so far, designed and subsequently carried out by the Bureau for Educational Services, was based on interactive teaching and learning methodologies. The training was conducted by the advisors from the BES and selected domestic and foreign facilitators (University, NGOs) with the support provided by FOSI ROM and OSCE. The improvement of training concepts includes also the integration of key competences in each separate module, as well as measurement and monitoring tools to assess competences after the training. It can significantly contribute to quality assurance.
 
-For the time being, the Catalogue for Teachers Professional Development Programme (2007/08), which represents the basis for accreditation, has been designed as an important part of professional development of teachers. Moreover, it will be of assistance to schools to better identify the needs and plan teacher training in a timely fashion. 
+For the time being, the Catalogue for Teachers Professional Development Programme (2007/08), which represents the basis for accreditation, has been designed as an important part of professional development of teachers. Moreover, it will be of assistance to schools to better identify the needs and plan teacher training in a timely fashion. 6
 
 #### 1 . 	 Primary School Teacher Training
 
-The introduction of new curricula (school year 2004/05) also marks the beginning of intensive trainings for teachers using the new curricula. Such a form of training was imposed by the timeframe and goals of first stage of the education reform (the so-called 'ordered' training).
+The introduction of new curricula (school year 2004/05) also marks the beginning of intensive trainings for teachers using the new curricula. Such a form of training was imposed by the timeframe and goals of first stage of the education reform (the so-called “ordered” training).
 
-The first group of CE teachers (schools ' A '), who were to be prepared for teaching this subject in 6 th grade, started their trainings in the school year 2004/05. The group included 40 teachers of various backgrounds (2 from each primary school). Having in mind all the challenges the first generation of teachers and schools was facing with, the first phase of training involved a pair of teachers from each school. This approach was not followed with subsequent generations, where only one teacher per school has undergone training.
+The first group of CE teachers (schools “A”), who were to be prepared for teaching this subject in 6th grade, started their trainings in the school year 2004/05. The group included 40 teachers of various backgrounds (2 from each primary school). Having in mind all the challenges the first generation of teachers and schools was facing with, the first phase of training involved a pair of teachers from each school. This approach was not followed with subsequent generations, where only one teacher per school has undergone training.
 
- The Catalogue includes the so-called ordered programmes (carried out by the Bureau for Educational Services for primary and general secondary school teachers) and the three so-called offered programmes carried out by nongovernmental organisations.
+6 The Catalogue includes the so-called ordered programmes (carried out by the Bureau for Educational Services for primary and general secondary school teachers) and the three so-called offered programmes carried out by nongovernmental organisations.
 
 26
 
@@ -491,23 +584,25 @@ Three years since the training commenced, bearing in mind the capacities created
 
 In the upcoming period, training should be planned and carried out at a more advanced level, respecting the specific needs of teachers and schools and constantly upgrading their competences.
 
-#### 2.	 General Secondary School T eacher Training
+#### 2. General Secondary School Teacher Training
 
-The application of CE in general secondary schools also required training of teachers. As for the knowledge of basic concepts, unlike their primary school colleagues, their primary education (philosophy, sociology, political sciences, etc) was much 'closer' to their new roles. The basic training concept for this group of teachers includes: Changes in General Secondary Schools and CE Teaching, CE Teaching Methodology, Assessment and Evaluation of Students' Knowledge.
+The application of CE in general secondary schools also required training of teachers. As for the knowledge of basic concepts, unlike their primary school colleagues, their primary education (philosophy, sociology, political sciences, etc) was much “closer” to their new roles. The basic training concept for this group of teachers includes: Changes in General Secondary Schools and CE Teaching, CE Teaching Methodology, Assessment and Evaluation of Students' Knowledge.
 
 Indeed, both the achievements and the shortcomings of the training conducted so far indicate the need for designing new, enhanced training levels for all teachers who have undergone first level training and creating a roster of trainers (on the basis of defined competences for this group of teachers).
 
-#### 3.	 Undergraduate T eacher Education
+#### 3. Undergraduate Teacher Education
 
 In our country, similarly to most other countries, there is no undergraduate education which would train future teachers for teaching these subjects. It requires their on-the-job training, which is a long and costly process and requires certification.
 
-It is, therefore, required to incorporate elements of education for democratic citizenship and give more emphasis to teaching methodologies in the course of undergraduate teacher education. This year, the Faculty of Philosophy in Niksic has designed a specialist course in civic education, envisaged as one year studies, and submitted its curriculum to the University for consideration and approval.
+It is, therefore, required to incorporate elements of education for democratic citizenship and give more emphasis to teaching methodologies in
 
 27
 
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
+
+the course of undergraduate teacher education. This year, the Faculty of Philosophy in Niksic has designed a specialist course in civic education, envisaged as one year studies, and submitted its curriculum to the University for consideration and approval.
 
 ### IV Quality Monitoring, Assurance and Improvement
 
@@ -521,13 +616,15 @@ The qualities of education for democratic citizenship have to be recognised and 
 
 Currently, the information on quality of CE teaching and the presence of EDC principles in schools are based on reports of the advisers from the Bureau for Educational Services. Within their regular plan of visits and monitoring the quality of work in schools, they also observe the CE classes. The CE Task Force has developed guidelines and recommendations for the observation of such classes and these are used by advisers for observation of classes and reporting on quality of teaching. The reports are indicative of the quality of work within a school as such and provide information on the quality of teaching in individual subjects. However, more detailed information concerning the CE teaching quality is needed, to be provided by other, more targeted forms of quality assessments.
 
-Moreover, monitoring and improvement of quality of work in schools is conducted through school self-evaluations. An BES expert team developed the school self-evaluation methodology and, through a pilot project, tested its applicability in school practice. Self-evaluation is understood as an instrument to strengthen schools and enhance quality of education from the inside, applying the bottom-up approach. The aim of self-evaluation is to objectively determine and constantly upgrade the quality of own work, a process undertaken by schools themselves.
+Moreover, monitoring and improvement of quality of work in schools is conducted through school self-evaluations. An BES expert team devel-
 
 28
 
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
+
+oped the school self-evaluation methodology and, through a pilot project, tested its applicability in school practice. Self-evaluation is understood as an instrument to strengthen schools and enhance quality of education from the inside, applying the bottom-up approach. The aim of self-evaluation is to objectively determine and constantly upgrade the quality of own work, a process undertaken by schools themselves.
 
 The areas of assessing quality in the process of evaluation and self-evaluation are as follows: attainment of knowledge and skills according to educational standards, quality in planning the teaching and extra-curricular activities within a school, quality of teaching, school ethos, management, leadership, provision of staffing, material, technical and security conditions for work, support school gives to students, cooperation of the school with parents, institutions and the local community.
 
@@ -547,13 +644,15 @@ To further enhance the information system and improve CE and EDC teaching qualit
 
 #### 1 .  	Assessing Quality of Civic Education
 
-Although these subjects have been taught at primary and general secondary schools for third and second year in a row, respectively, so far no systemic evaluation of the quality of teaching and its outcomes has been done. Such an evaluation should provide enough information to be able to define relevant recommendations to enhance CE teaching and its outcomes. The evaluation should show whether CE teaching is conducted as envisaged, and whether among students and within the school some changes set as the subject goals may be recognised. Apart from the good sides, the evaluation would show the weaknesses and identify further activities towards the implementation of education for democratic citizenship curricula in primary and general secondary schools.
+Although these subjects have been taught at primary and general secondary schools for third and second year in a row, respectively, so far no systemic evaluation of the quality of teaching and its outcomes has been done. Such an evaluation should provide enough information to be able to define relevant recommendations to enhance CE teaching and its outcomes. The evaluation should show whether CE teaching is conducted
 
 29
 
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
+
+as envisaged, and whether among students and within the school some changes set as the subject goals may be recognised. Apart from the good sides, the evaluation would show the weaknesses and identify further activities towards the implementation of education for democratic citizenship curricula in primary and general secondary schools.
 
 The definition of quality indicators is the starting point in assessing and improving the quality of CE teaching. First, the desired qualities should be defined (what is expected of teaching and of schools), and then focus on assessing the current situation in schools and improving quality of teaching and the school.
 
@@ -583,13 +682,15 @@ It has already been mentioned several times that the nature of the subject and i
 
 The practice to date was that before these programmes were implemented in schools, the Ministry of Education and Science or the Bureau for Educational Services should be informed about the programme offered by nongovernmental organisations and should give their opinion of it.
 
-One of the main problems encountered in the implementation of these programmes was their sustainability. As the case was, regardless of their quality, the programmes would most often end due to lack of resources and/or donors pulling out. Today, there are few data on the results of completed programmes. In addition, one of the shortcomings of such programmes was that they were introduced top-down and the school was not able to choose programmes to suit its needs.
+One of the main problems encountered in the implementation of these programmes was their sustainability. As the case was, regardless of their quality, the programmes would most often end due to lack of resources
 
 31
 
 [[END OF PAGE 33]]
 
 [[START OF PAGE 34]]
+
+and/or donors pulling out. Today, there are few data on the results of completed programmes. In addition, one of the shortcomings of such programmes was that they were introduced top-down and the school was not able to choose programmes to suit its needs.
 
 At this point, there are several programmes in place in our schools carried out in cooperation with nongovernmental organisations. The viability of these programmes relies on external provision of funds, but it has become apparent that their sustainability would be ensured by a larger number of trained teachers, creating a roster of trainers in certain programmes and the impact the programmes have in the school and the community.
 
@@ -603,7 +704,7 @@ If we wish to improve quality of programmes offered by nongovernmental organisat
 
 Te role of the University in teacher training and certification, and in assuring teaching quality is of paramount importance.
 
-Although the University of Montenegro is recording good results in the implementation of the Bologna process, at this point the existing undergraduate teacher training programmes still do not contain enough basic knowledge, values, methodologies and skills necessary for each teacher to be ready for continuing improvement of democratic relations in education.
+Although the University of Montenegro is recording good results in the implementation of the Bologna process, at this point the existing un-
 
 32
 
@@ -611,7 +712,9 @@ Although the University of Montenegro is recording good results in the implement
 
 [[START OF PAGE 35]]
 
-#### 3. Association of Civic Education  T eachers
+dergraduate teacher training programmes still do not contain enough basic knowledge, values, methodologies and skills necessary for each teacher to be ready for continuing improvement of democratic relations in education.
+
+#### 3. Association of Civic Education Teachers
 
 Shortly after the very beginnings of introduction of CE in primary schools the need was identified to establish a professional association of teachers. The traditional education system had professional associations, although their operation was insufficient and sporadic.
 
@@ -661,9 +764,9 @@ To date this has been done by various trainings put in place by different nongov
 
 The activities envisaged by the Strategy aim, after the introduction of separate subjects, to further strengthen their status, and there results be more effective through the provision of principles and practice of democratic citizenship at other school levels.
 
-Goals | Activities | Who is responsible | Indicators | Dead- line
+Goals | Activities | Who is responsible | Indicators | Deadline
 --- | --- | --- | --- | ---
-1. Application of democratic citi- zenship principles in overall teaching and school life | 1. Other subject teacher training 2. Training for school management and expert services 3. Establishment of EDC as a criterion in school (self)evaluation 4. Implementation of projects/programmes (extra-curricular) promoting the ideas, values and practice of democratic citi- zenship 5. Promoting student participation in the form of student com- munities | Bureau for Edu- cational Services (BES) School Association of CE Teachers NGOs Students' com- munities Parents' Board Local community | Trained teachers, principals, expert services School (self)evaluation tools amended No of projects/programmes carried out and no of participating students and teachers Degree of democracy in school communications Degree of access to infor- mation Structure and number of students involved in infor- mation (students, teachers, school management) PR strategy of schools (type and number of activities) Number of student com- munities | As of 2009 2008 Ongoing
+1. Application of democratic citizenship principles in overall teaching and school life | 1. Other subject teacher training 2. Training for school management and expert services 3. Establishment of EDC as a criterion in school (self)evaluation 4. Implementation of projects/programmes (extra-curricular) promoting the ideas, values and practice of democratic citizenship 5. Promoting student participation in the form of student communities | Bureau for Educational Services (BES) School Association of CE Teachers NGOs Students' communities Parents' Board Local community | Trained teachers, principals, expert services School (self)evaluation tools amended No of projects/programmes carried out and no of participating students and teachers Degree of democracy in school communications Degree of access to information Structure and number of students involved in information (students, teachers, school management) PR strategy of schools (type and number of activities) Number of student communities | As of 2009 2008 Ongoing
 2. Strengthening inter-curricular approach to teaching | 1. Analysis of existing curricula and increase of correlations 2. Teaching quality monitoring and assurance | BES School | Identify new correlations Develop monitoring tools | 2007/08
 
 36
@@ -672,17 +775,17 @@ Goals | Activities | Who is responsible | Indicators | Dead- line
 
 [[START OF PAGE 39]]
 
-Goals | Activities | Who is responsible | Indicators | Dead- line
+Goals | Activities | Who is responsible | Indicators | Deadline
 --- | --- | --- | --- | ---
 3. Promote the importance of eductaion for democratic citizenship and the importance of CE subject in primary and secondary schools | 1. Public information via the media, campaigns, spots | BES VET Centre School Students' communities Parents' Board NGOs Media | No of shows dedicated to these topics Analysis of the show contents (report) No of campaigns No of actors Analysis of school development plans and activities related to presentation of electives and other EDC related curricula | Ongoing
 
 #### 2. Civic Education in Primary Schools
 
-One of the activities which could enhance and ensure the status of CE in the long run is for the school to put in place elective subjects reflecting EDC contents and goals. After the CE being taught as a separate subject in 6 th and 7 th grade, the 8- and 9-graders should have available a number of electives whose contents and goals will ensure the continuity in education for democratic citizenship until the completion of primary schooling.
+One of the activities which could enhance and ensure the status of CE in the long run is for the school to put in place elective subjects reflecting EDC contents and goals. After the CE being taught as a separate subject in 6th and 7th grade, the 8- and 9-graders should have available a number of electives whose contents and goals will ensure the continuity in education for democratic citizenship until the completion of primary schooling.
 
 Goals | Activities | Who is responsible | Indicators | Deadline
 --- | --- | --- | --- | ---
-1. EDC contents as elective subjects in 8 th and 9 th grade | 1. Make a list of possible electives and prepare basic standards (contents, methodology) 2. Curriculum assessment and submission to the Council for General Education | BES Curricular Commissions and Curriculum authors | Inventory of subjects with basic standards | End 2008
+1. EDC contents as elective subjects in 8th and 9th grade | 1. Make a list of possible electives and prepare basic standards (contents, methodology) 2. Curriculum assessment and submission to the Council for General Education | BES Curricular Commissions and Curriculum authors | Inventory of subjects with basic standards | End 2008
 
 #### 3. Civic Education in General Secondary School
 
@@ -708,7 +811,7 @@ Since Sociology is taught in three- and four-year vocational schools, a subject 
 
 Goals | Activities | Who is responsible | Indicators | Deadline
 --- | --- | --- | --- | ---
-1. Introduction of Civic Education as an elective subject for vocational secondary schools (long-term) | 1. Curriculum development 2. Training of teachers to conduct the teaching | BES MES Association of CE Teachers NGOs Social partners | Curriculum made Teachers trained Number of schools/ students electing the subject | Starting from 2008 onwards
+1. Introduction of Civic Education as an elective subject for vocational secondary schools (long-term) | 1. Curriculum development 2. Training of teachers to conduct the teaching | BES MES Association of CE Teachers NGOs Social partners | Curriculum made Teachers trained Number of schools/students electing the subject | Starting from 2008 onwards
 
 38
 
@@ -718,9 +821,9 @@ Goals | Activities | Who is responsible | Indicators | Deadline
 
 Goals | Activities | Who is responsible | Indicators | Deadline
 --- | --- | --- | --- | ---
-2. Incorporation of democratic citizenship goals and contents in the existing Sociology curriculum (short- term) | 1. Revision of existing Sociology curriculum 2. Incorporation of democratic citizenship contents in the curriculum 3. Adaptation of the existing Sociology textbook or development of a new one | BES MES VET Centre Bureau for Textbooks and Teaching Aids | New contents incorporated in Sociology curriculum and applied Textbook adapted, new textbook made or additional teaching materials provided | By May 2008
+2. Incorporation of democratic citizenship goals and contents in the existing Sociology curriculum (short-term) | 1. Revision of existing Sociology curriculum 2. Incorporation of democratic citizenship contents in the curriculum 3. Adaptation of the existing Sociology textbook or development of a new one | BES MES VET Centre Bureau for Textbooks and Teaching Aids | New contents incorporated in Sociology curriculum and applied Textbook adapted, new textbook made or additional teaching materials provided | By May 2008
 
-#### 5.  T eacher Certification and Status
+#### 5. Teacher Certification and Status
 
 Apart from basic competences required for target planning and effective teaching, civic education teachers are expected to be well informed of political, legal, social and economic phenomena within our fast-changing society, i.e. to have inter-disciplinary knowledge. A teacher should also serve as a role model for responsible civic behaviour to students, primarily through communication in teaching, but also through their activities in school and a wider context.
 
@@ -761,7 +864,7 @@ Thus understood, EDC implies the incorporation of its principles and contents in
 Goals | Activities | Who is responsible | Indicators | Deadline
 --- | --- | --- | --- | ---
 1. Initiate better links between education for democratic citizenship principles and contents with teaching other subjects | 1.Anayse subject curricula to identify appropriate contents (goals) to incorporate EDC principles and contents | BES Association of CE Teachers | Contents within curricula of other subjects correlating with EDC principles and contents identified | By the end of 2009
-2.Devlop an EDC correlation guide | BES Association of CE Teachers | Correlation guide distributed | By the end of 2009
+ | 2.Devlop an EDC correlation guide | BES Association of CE Teachers | Correlation guide distributed | By the end of 2009
 
 #### 2. 	Elective Subjects with Education for Democratic Citizenship Contents
 
@@ -769,8 +872,8 @@ The identification of existing electives, as well as the development of new curr
 
 Goals | Activities | Who is responsible | Indicators | Deadline
 --- | --- | --- | --- | ---
-1. Introduce Debate as an elective for 2 nd grade of gymnasium | 1.Curiculum design 2.Curriculum approval 3. Development of teaching materials 4.Teacher training | Curriculum authors BES | Curriculum adopted No of teaching materials developed No of trained teachers No of students electing the subject | May 2008
-2.Media Literacy as an elective for 3 rd or 4 th grade of gymnasium | 1.Curiculum design 2.Curriculum approval 3. Development of teaching materials 4.Teacher training | Curriculum authors BES | Curriculum adopted No of teaching materials developed No of trained teachers No of students electing the subject | May 2008
+1. Introduce Debate as an elective for 2nd grade of gymnasium | 1.Curiculum design 2.Curriculum approval 3. Development of teaching materials 4.Teacher training | Curriculum authors BES | Curriculum adopted No of teaching materials developed No of trained teachers No of students electing the subject | May 2008
+2.Media Literacy as an elective for 3rd or 4th grade of gymnasium | 1.Curiculum design 2.Curriculum approval 3. Development of teaching materials 4.Teacher training | Curriculum authors BES | Curriculum adopted No of teaching materials developed No of trained teachers No of students electing the subject | May 2008
 
 41
 
@@ -780,11 +883,11 @@ Goals | Activities | Who is responsible | Indicators | Deadline
 
 Goals | Activities | Who is responsible | Indicators | Deadline
 --- | --- | --- | --- | ---
-3. Law in Daily Life as an elective for 4 th grade of gymnasium | 1.Curiculum design 2.Curriculum approval 3. Development of teaching materials 4.Teacher training | Curriculum authors BES | Curriculum adopted No of teaching materials developed No of trained teachers No of students electing the subject | By the beginning of school year 2009/10
+3. Law in Daily Life as an elective for 4th grade of gymnasium | 1.Curiculum design 2.Curriculum approval 3. Development of teaching materials 4.Teacher training | Curriculum authors BES | Curriculum adopted No of teaching materials developed No of trained teachers No of students electing the subject | By the beginning of school year 2009/10
 4. Introduction of additional electives with EDC contents not covered by CE as a subject | 1. Make a list and descriptions of subjects and the plan for their introduction | BES Association of CE Teachers MES | A list and descriptions of electives containing EDC contents and the plan for their introduction | By the end of 2008
-1.Curiculum design 2.Curriculum approval 3. Development of teaching materials 4.Teacher training | BES Association of CE Teachers NGOs | Curricula adopted No of teaching materials developed No of trained teachers No of students electing the subjects | Ongoing
+ | 1.Curiculum design 2.Curriculum approval 3. Development of teaching materials 4.Teacher training | BES Association of CE Teachers NGOs | Curricula adopted No of teaching materials developed No of trained teachers No of students electing the subjects | Ongoing
 
-#### 3.  T eaching Materials and Expert Literature
+#### 3. Teaching Materials and Expert Literature
 
 Apart from teacher training (discussed above), in order to build and strengthen teacher competences, the activities on gathering information (in some cases involving translation or publication preparation) which would support their competencies to teach CE need to be carried out. In this case, the relevant literature includes the texts covering CE contents, but also teaching methodology, didactics, psychology and pedagogy reference literature concerning modern approaches to teaching and learning.
 
@@ -799,9 +902,9 @@ Goals | Activities | Who is responsible | Indicators | Deadline
 
 [[START OF PAGE 45]]
 
-### III Civic Education  Teachers  Training
+### III Civic Education Teachers Training
 
-#### 1 .  Training of Primary School T eachers
+#### 1 .  Training of Primary School Teachers
 
 Since undergraduate teacher education does not incorporate appropriate contents, the basic training has so far been tailored to respond to the need of these teachers for basic information and contents related to reform solutions in teaching and some basic knowledge and skills related to the subject goals and contents. Such a concept entailed training which could not be differentiated to cater for specific needs of teachers and schools. The concept of future training should rely more on the specific needs of teachers and schools, but also other forms of continuing professional development (apart from seminars).
 
@@ -825,17 +928,19 @@ Goals | Activities | Who is responsible | Indicators | Deadline
 1. Enhanced training - following the basic training, provide additional teacher training | 1.Identify advanced training needs 2.Define new advanced training modules | BES University Association of CE Teachers NGOs | Training modules developed New models included in Catalogue of Teachers Professional Development | During 2008
 2. Establish trainer directory (select among teachers who have undergone training) | 1. Make a roster of trainers and their competencies 2. Set standards for future trainers 3. Identify and select future trainers 4. Capacitate selected teachers to participate to trainings by assisting in carrying out the existing and designing future modules 5. Directory of trainers | BES Association of CE Teachers | Roster of trainers and their competencies made Define standards Future trainers selected No of seminars where they assisted No of modules they assisted in designing No of trainers Directory of trainers made | By the end of 2008
 
-#### 3. Undergraduate Education of Future T eachers
+#### 3. Undergraduate Education of Future Teachers
 
 A new postgraduate Civic Education studies programme is currently being designed at the Faculty of Philosophy in Nikšić.
 
-In addition to this, however, even the undergraduate level studies, especially those for the education of future teachers, need to incorporate democratic citizenship contents and values in order for new teachers to enter this profession with necessary knowledge, attitude and skills, as well as the capacity for ongoing professional development in this field and continuing enhancement of democratic values and practices in education.
+In addition to this, however, even the undergraduate level studies, especially those for the education of future teachers, need to incorporate democratic
 
 44
 
 [[END OF PAGE 46]]
 
 [[START OF PAGE 47]]
+
+citizenship contents and values in order for new teachers to enter this profession with necessary knowledge, attitude and skills, as well as the capacity for ongoing professional development in this field and continuing enhancement of democratic values and practices in education.
 
 Goals | Activities | Who is responsible | Indicators | Deadline
 --- | --- | --- | --- | ---
@@ -861,7 +966,7 @@ Goals | Activities | Who is responsible | Indicators | Deadline
 --- | --- | --- | --- | ---
 2. Develop indicators to assess the presence of education for democratic citizenship principles in school life | 1. Development of indicators | BES Association of CE Teachers | Indicators developed to measure the presence of EDC principles in school life | By the end of 2008
 
-#### 2. Assessing Quality of Civic Education  T eaching
+#### 2. Assessing Quality of Civic Education Teaching
 
 The evaluation of CE teaching and learning should show whether teaching is conducted at schools in the manner envisaged by the curriculum, and whether development changes may be recognised in students as defined by the subject goals. Apart from the assessment of current situation, the evaluation should guide future BES activities towards the enhancement of teaching quality in school.
 
@@ -890,8 +995,8 @@ The existing quality assurance and improvement system in place, developed by the
 Goals | Activities | Who is responsible | Indicators | Deadline
 --- | --- | --- | --- | ---
 1. Quality assurance and improvement model | 1. Define the goals of quality assurance and improvement 2. Make an inventory of quality assurance activities (monitoring and improvement) and assign responsibilities for conducting them | BES Association of CE Teachers | Goals defined Inventory made | By April 2009 During 2009
-3. Planning document: list of activities and timeframe for their implementation by 2010 | BES Association of CE Teachers | Planning document published | During 2009
-4. Introduction of ongoing quality assurance and improvement | BES | EDC quality assurance and improvement system in place in schools | During 2009
+ | 3. Planning document: list of activities and timeframe for their implementation by 2010 | BES Association of CE Teachers | Planning document published | During 2009
+ | 4. Introduction of ongoing quality assurance and improvement | BES | EDC quality assurance and improvement system in place in schools | During 2009
 
 In order to ensure sustainability and continuation of quality assurance and improvement activities, the BES advisors and the schools need to be trained to implement the quality a-ssurance and improvement system. Moreover, expert teams need to be established and trained to support teachers and schools in raising the quality of educating children and the young for democracy and civil society.
 
@@ -924,9 +1029,9 @@ Goals | Activities | Who is responsible | Indicators | Deadline
 1. Further elaboration of criteria to give recommendations for NGO offered programmes | 1. Elaboration of the criteria | BES | Criteria defined | February 2008
 2. Inform and train NGO members | 1. Roundtables, seminars for NGO members | BES NGOs | No of events, no of trainings No of trainees/attendees | Late 2008
 3. Secure mechanisms to gather and disseminate information on programmes available outside the formal education system | 1. Regular updating of the catalogue www.zavsko.org | BES NGOs | Catalogue made Catalogue distributed | As of 2008 onwards
-3. Establish cooperation with local, regional and international organisations and get informed of international resources (the so-called 'key persons') | 1. Assign responsibilities 2. Define tasks | BES MES | Database of international programmes and organisations developed No of contacts made with programmes and organisations | Ongoing as of 2007
+3. Establish cooperation with local, regional and international organisations and get informed of international resources (the so-called “key persons”) | 1. Assign responsibilities 2. Define tasks | BES MES | Database of international programmes and organisations developed No of contacts made with programmes and organisations | Ongoing as of 2007
 
-#### 2.	 Association of Civic Education  T eachers
+#### 2. Association of Civic Education Teachers
 
 The Association of CE Teachers, as a professional association, may become a more active partner to the Bureau for Educational Services towards the Strategy implementation. To that effect, the Association needs to be further capacitated and supported. It should become an active participant and promoter of the development and improvement of education for democracy and civil society in school.
 
@@ -950,22 +1055,26 @@ Goals | Activities | Who is responsible | Indicators | Deadline
 
 ## PRIORITIES AND TIMEFRAME
 
- - priority activities for 2007 | IV
+ - deadline for activity completion
+ - priority activities for 2007
+
+I | Status of CE and Education for Democratic Citizenship | 2007 IV | 2008 I | 2008 II | 2008 III | 2008 IV | 2009 I | 2009 II | 2009 III | 2009 IV | 2010 I | 2010 II | 2010 III | 2010 IV
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-III
-II
-I
-IV |  | 
-III
-II
-I | 
-2008 | IV |  | 
-III | 
-II | 
-I
-2007 | IV |   |  |  | 
-Status of CE and Education for Democratic Citizenship | Principles of education for democratic citizenship at the school level | Application of education for democratic citizenship principles in overall teaching process and school life | Strengthening cross-curricular approach to teaching | Civic Education in primary school | EDC contents as elective subjects in 8 th and 9 th grade | Civic Education in general secondary school Define the role of CE as supplement to matura standards in certain subjects | ETC status in vocational secondary education | Introduction of civic education as an elective subject in vocational secondary education (long-term) | Introduction of democratic citizenship goals and contents in the existing Sociology curriculum (short-term) | Teacher certification and status | Make the list of teacher competencies | Certification procedure in place | Role of local community and general public | in ensuring the status of the subject Promote values and principles of democratic citizenship at all levels (local community, education and general public)
-I | 1 | c1 | c2 | 2 | c1 | 3 c1 | 4 | c1 | c2 | 5 | c1 | c2 | 6 | c1
+1 | Principles of education for democratic citizenship at the school level |  |  |  |  |  |  |  |  |  |  |  |  | 
+c1 | Application of education for democratic citizenship principles in overall teaching process and school life |  |  |  |  |  |  |  |  |  |  |  |  | 
+c2 | Strengthening cross-curricular approach to teaching |  |  |  |  |  |  |  |  |  |  |  |  | 
+2 | Civic Education in primary school |  |  |  |  |  |  |  |  |  |  |  |  | 
+c1 | EDC contents as elective subjects in 8th and 9th grade |  |  |  |  |  |  |  |  |  |  |  |  | 
+3 | Civic Education in general secondary school |  |  |  |  |  |  |  |  |  |  |  |  | 
+c1 | Define the role of CE as supplement to matura standards in certain subjects |  |  |  |  |  |  |  |  |  |  |  |  | 
+4 | ETC status in vocational secondary education |  |  |  |  |  |  |  |  |  |  |  |  | 
+c1 | Introduction of civic education as an elective subject in vocational secondary education (long-term) |  |  |  |  |  |  |  |  |  |  |  |  | 
+c2 | Introduction of democratic citizenship goals and contents in the existing Sociology curriculum (short-term) |  |  |  |  |  |  |  |  |  |  |  |  | 
+5 | Teacher certification and status |  |  |  |  |  |  |  |  |  |  |  |  | 
+c1 | Make the list of teacher competencies |  |  |  |  |  |  |  |  |  |  |  |  | 
+c2 | Certification procedure in place |  |  |  |  |  |  |  |  |  |  |  |  | 
+6 | Role of local community and general public in ensuring the status of the subject |  |  |  |  |  |  |  |  |  |  |  |  | 
+c1 | Promote values and principles of democratic citizenship at all levels (local community, education and general public) |  |  |  |  |  |  |  |  |  |  |  |  | 
 
 51
 
@@ -1033,37 +1142,19 @@ Electives with additional contents of education for democratic citizenship
 
 c1
 
-Debate as an elective for 2
-
-nd
-
-grade of general secondary school
+Debate as an elective for 2nd grade of general secondary school
 
 
 
 c2
 
-Media Literacy as an elective subject for 3
-
-rd
-
-and/or 4
-
-th
-
-grade of general
-
-secondary school
+Media Literacy as an elective subject for 3rd and/or 4th grade of general secondary school
 
 
 
 c3
 
-Law in Daily Life as an elective for 4
-
-th
-
-grade
+Law in Daily Life as an elective for 4th grade
 
 
 
@@ -1137,7 +1228,7 @@ Teacher training in primary schools
 
 c1
 
-Enhance training - after basic training,  provide advance teacher training
+Enhance training – after basic training, provide advance teacher training
 
 
 
@@ -1155,7 +1246,7 @@ Teacher training in general secondary schools
 
 c1
 
-Enhance training - after basic training,  provide advance teacher training
+Enhance training – after basic training, provide advance teacher training
 
 
 
@@ -1365,11 +1456,11 @@ programmes outside the education system
 
 c4
 
-Establishment of cooperation with local,  regional and international
+Establishment of cooperation with local, regional and international
 
 organisations and programmes and information on international resources
 
-(the so-called  'key persons')
+(the so-called “key persons”)
 
 
 
