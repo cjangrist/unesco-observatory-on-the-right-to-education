@@ -28,13 +28,14 @@ The compulsory school shall encourage good cooperation between the school and th
 ### Article 3
 
 #### Compulsory education
-Compulsory  education  shall  generally  be  of  ten  years  in  duration,  but  can  be  shorter,  cf. Article  32.  All  children,  in  general  between  the  ages  of  6  and  16,  are  required  to  attend compulsory school.
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
 2
+
+Compulsory education shall generally be of ten years in duration, but can be shorter, cf. Article 32. All children, in general between the ages of 6 and 16, are required to attend compulsory school.
 
 Parents shall look out for the interests of their children at compulsory school age. According to this Act, parents are defined as those individuals that are responsible for the legal custody of children according to the definition of the Children's Act.
 
@@ -58,7 +59,7 @@ Local  authorities  are  responsible  for  cooperation  between  the  compulsory
 
 Local authorities shall ensure that children at compulsory school age cf. Article 3, who are legal residents of the municipality and children who have been placed in foster care with foster parents residing in the municipality, attend compulsory school according to further provisions of this  Act.  The  same  applies  to  local  authorities'  responsibilities  if  an  individual  who  has  legal custody over a child is legal resident in the municipality, since local authorities shall conclude an agreement among themselves regarding children's school attendance cf. paragraph 5.
 
-If  legal  residency  of  the  child  has  not  been  determined  by  the  authorities,  the  local government  shall  decide  on  the  child's  compulsory  schooling,  when  the  child  resides  in  the municipality and has requested to be enrolled in the school cf. Article 19.  In the case of refusal on  behalf  of  the  local  government,  it  is  possible  to  press  charges  according  to  provisions  in Article 47. The Ministry of Education, Science and Culture can rule that the local authorities shall ensure the child compulsory education in the municipality.
+If legal residency of the child has not been determined by the authorities, the local government shall decide on the child's compulsory schooling, when the child resides in the municipality and has requested to be enrolled in the school cf. Article 19. In the case of refusal
 
 [[END OF PAGE 2]]
 
@@ -66,7 +67,9 @@ If  legal  residency  of  the  child  has  not  been  determined  by  the  autho
 
 3
 
-A  local  government  where  a  child  resides  can  conclude  an  agreement  with  another municipality to admit the child into compulsory school, in which case the receiving municipality shall  have  the  same  duties  towards  the  child's  schooling  as  if  it  were  a  legal  resident  in  the municipality.
+on behalf of the local government, it is possible to press charges according to provisions in Article 47. The Ministry of Education, Science and Culture can rule that the local authorities shall ensure the child compulsory education in the municipality.
+
+A local government where a child resides can conclude an agreement with another municipality to admit the child into compulsory school, in which case the receiving municipality shall have the same duties towards the child's schooling as if it were a legal resident in the municipality.
 
 ### Article 6
 
@@ -100,7 +103,7 @@ When the School Board is presented with an appeal on the basis of provisions of 
 
 #### Head teacher
 
-The  compulsory  school  shall  have  a  head  teacher  who  is  the  director  of  the  compulsory school, takes care of its administration, provides professional leadership and is responsible for the school's  operations  towards  the  local  government.  The  head  teacher  encourages  cooperation between all relevant players in the school community. The head teacher calls teacher meetings as often as required during the school's operational time. Teachers and other school specialists shall attend teacher meetings. The head teacher calls staff meetings as often as required.
+The compulsory school shall have a head teacher who is the director of the compulsory school, takes care of its administration, provides professional leadership and is responsible for the
 
 [[END OF PAGE 3]]
 
@@ -108,7 +111,9 @@ The  compulsory  school  shall  have  a  head  teacher  who  is  the  director  
 
 4
 
-The  head  teacher makes  proposals  to the local government  regarding  administrative arrangements in the compulsory school, taking into account the needs of the school in question. The head teacher determines the roles of other administrative staff, of which one shall serve as substitute for the head teacher.
+school's operations towards the local government. The head teacher encourages cooperation between all relevant players in the school community. The head teacher calls teacher meetings as often as required during the school's operational time. Teachers and other school specialists shall attend teacher meetings. The head teacher calls staff meetings as often as required.
+
+The head teacher makes proposals to the local government regarding administrative arrangements in the compulsory school, taking into account the needs of the school in question. The head teacher determines the roles of other administrative staff, of which one shall serve as substitute for the head teacher.
 
 If a compulsory school has less than 60 pupils and does not have other administrative staff, the  head  teacher  decides  at  the  beginning  of  each  school  year,  which  one  of  the  school's permanent teachers shall assume the role of head teacher in case of his or her absence.
 
@@ -206,7 +211,6 @@ The Minister of Education, Science and Culture shall issue a Regulation stipulat
 ### Article 15
 
 #### Compulsory education
-Pupils are obliged to attend compulsory school cf. Article 3. Compulsory education may be provided  by  compulsory  schools  run  by  the  local  authorities,  by  privately  run  schools  at compulsory school level or through other recognised means according to this Act.
 
 [[END OF PAGE 6]]
 
@@ -214,7 +218,9 @@ Pupils are obliged to attend compulsory school cf. Article 3. Compulsory educati
 
 7
 
-A  child's  compulsory  education  normally  starts  at  the  outset  of  the  school  year  on  the calendar year in which the child turns six years old. Parents can request or consent to their child starting  school  attendance  before  that  time.  A  head  teacher  may  authorise  this,  given  the reference of a specialist.
+Pupils are obliged to attend compulsory school cf. Article 3. Compulsory education may be provided by compulsory schools run by the local authorities, by privately run schools at compulsory school level or through other recognised means according to this Act.
+
+A child's compulsory education normally starts at the outset of the school year on the calendar year in which the child turns six years old. Parents can request or consent to their child starting school attendance before that time. A head teacher may authorise this, given the reference of a specialist.
 
 The head teacher  is  authorised  to  exempt  a  pupil  from  compulsory  education  in  particular subjects whenever there are valid arguments to support that.
 
@@ -239,7 +245,6 @@ Pupils whose mother tongue is not Icelandic are entitled to instruction in Icela
 ### Article 17
 
 #### Pupils with special needs
-Pupils have the right to have their special needs met regarding studies in compulsory school, without discrimination and regardless of their physical or mental attainment.
 
 [[END OF PAGE 7]]
 
@@ -247,7 +252,9 @@ Pupils have the right to have their special needs met regarding studies in compu
 
 8
 
-Pupils,  who  have  difficulties  studying  because  of  specialised  study  problems,  emotional  or social problems and/or disabilities, cf. Article 2 of the Act on Affairs of People with Disabilities, pupils  with  dyslexia,  pupils  suffering  from  long  term  illnesses  and  pupils  with  health  related special  needs,  have  the  right  to  special  study  support,  according  to  evaluation  of  their  special needs.
+Pupils have the right to have their special needs met regarding studies in compulsory school, without discrimination and regardless of their physical or mental attainment.
+
+Pupils, who have difficulties studying because of specialised study problems, emotional or social problems and/or disabilities, cf. Article 2 of the Act on Affairs of People with Disabilities, pupils with dyslexia, pupils suffering from long term illnesses and pupils with health related special needs, have the right to special study support, according to evaluation of their special needs.
 
 Pupils that are deemed unable to attend school according to doctor's evaluation because of an accident or a long-term illness, have the right to special instruction because of their condition, either in their home or at a medical facility. Special instruction because of medical condition shall be the responsibility of the relevant municipality.
 
@@ -390,9 +397,9 @@ The National Curriculum Guide shall stipulate the content and organisation of st
 
 From the beginning of their compulsory education, pupils shall have the possibility of choice regarding  their  studies,  such  as  of  topics,  learning  methods  and  subjects,  according  to  the framework provided by the National Curriculum Guide for Compulsory Schools and the school curriculum. The objective is to encourage pupils to take responsibility for their studies and create flexibility in school activities. Distance education and web-based learning can account for part of pupils' schoolwork.
 
-In 8 th , 9 th and 10 th grade, elective subjects and subject areas chosen by pupils may account for around one third of study time.
+In 8th, 9th and 10th grade, elective subjects and subject areas chosen by pupils may account for around one third of study time.
 
-Organised  studies  carried  out  outside  of  the  compulsory  school,  such  as  in  music  schools, may be evaluated as part of compulsory education according to further implementation laid out in the National Curriculum Guide for Compulsory Schools. If a pupil engages in such studies, the local authorities in question are not obliged to bear the related cost, even though the studies are accredited  as  part  of  compulsory  education.  Temporary  participation  in  employment,  social activities,  sports  or  organised  voluntary  work  can  also  be  evaluated  as  part  of  compulsory education as long as it complies with school operation objectives.
+Organised studies carried out outside of the compulsory school, such as in music schools, may be evaluated as part of compulsory education according to further implementation laid out in the National Curriculum Guide for Compulsory Schools. If a pupil engages in such studies, the local authorities in question are not obliged to bear the related cost, even though the studies are
 
 [[END OF PAGE 11]]
 
@@ -400,7 +407,9 @@ Organised  studies  carried  out  outside  of  the  compulsory  school,  such  a
 
 12
 
-Compulsory school pupils are entitled to enrol in particular subjects at upper secondary level while still  in  compulsory  school,  as  long  as  they  demonstrate  the  necessary  competences.  The compulsory  school  head  teacher  authorises  the  pupils'  participation  in  such  studies  outside  of school hours according to the framework laid down in the National Curriculum Guide. Provisions of the Administrative Procedures Act shall apply to head teacher's decisions cf. this Article.
+accredited as part of compulsory education. Temporary participation in employment, social activities, sports or organised voluntary work can also be evaluated as part of compulsory education as long as it complies with school operation objectives.
+
+Compulsory school pupils are entitled to enrol in particular subjects at upper secondary level while still in compulsory school, as long as they demonstrate the necessary competences. The compulsory school head teacher authorises the pupils' participation in such studies outside of school hours according to the framework laid down in the National Curriculum Guide. Provisions of the Administrative Procedures Act shall apply to head teacher's decisions cf. this Article.
 
 Refusal  to  evaluate  studies  or  to  use  the  permission  provided  in  this  Article,  may  be subject to appeal cf. Article 47. The Ministry of Education, Science and Culture may rule that a head teacher of a compulsory school shall grant a pupil the permission to undertake studies at upper secondary level cf. paragraph 4.
 
@@ -424,11 +433,11 @@ The  instructional  year  for  pupils  in  compulsory  school  shall  be  at  le
 
 The weekly instruction received by each compulsory school pupil shall be at least:
 
-1200 minutes in grades 1 - 4
+1200 minutes in grades 1 – 4
 
-1400 minutes in grades 5 - 7
+1400 minutes in grades 5 – 7
 
-1480 minutes in grades 8 - 10
+1480 minutes in grades 8 – 10
 
 [[END OF PAGE 12]]
 
@@ -492,7 +501,7 @@ The head teacher shall determine whether a pupil has concluded compulsory school
 
 #### Extra-curricular activities and extended stay
 
-Pupils in all compulsory schools shall be provided with the opportunity to participate in extracurricular and social activities. Extra-curricular and social activities may be organised as part of daily  school  activities  or  outside  normal  school  hours.  The  local  authorities  may  also  offer compulsory school pupils with extended stay outside of daily teaching hours.
+Pupils in all compulsory schools shall be provided with the opportunity to participate in extra-curricular and social activities. Extra-curricular and social activities may be organised as part of daily school activities or outside normal school hours. The local authorities may also offer compulsory school pupils with extended stay outside of daily teaching hours.
 
 Municipalities may charge for extended stay outside of daily teaching hours as well as for extra-curricular activities based on their special rate.
 
@@ -502,13 +511,15 @@ Decisions  regarding  rates  and  costs  according  to  this  Article  may  be  
 
 #### Compulsory school venture fund
 
-A venture fund shall support development and innovation in school activities according to official  policy  and  the  National  Curriculum  Guide.  Contributions  shall  be  made  to  the  fund according  to  the  annual  national  budget.  The  Ministry  of  Education,  Science  and  Culture administers the fund and issues a regulation for allocation of grants. The fund shall be common for preschools, compulsory schools and upper secondary schools.
+A venture fund shall support development and innovation in school activities according to official policy and the National Curriculum Guide. Contributions shall be made to the fund according to the annual national budget. The Ministry of Education, Science and Culture
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
 15
+
+administers the fund and issues a regulation for allocation of grants. The fund shall be common for preschools, compulsory schools and upper secondary schools.
 
 Supervision of the fund and its grants may be delegated to an institution under the auspices of the Ministry of Education, Science and Culture, or to other relevant parties.
 
@@ -568,9 +579,9 @@ The Minister of Education, Science and Culture shall issue a Regulation regardin
 
 The Ministry of Education, Science and Culture organises a coherent national assessment in compulsory schools, provides schools with national examinations for that purpose and carries out national assessments.
 
-All pupils in the 4 th and 7 th grades of compulsory school shall undergo national examinations in  Icelandic  and  mathematics.  Pupils  in  the  first  semester  of  10 th grade  shall  undergo  national examinations  in  Icelandic,  mathematics  and  English.  The  Minister  of  Education,  Science  and Culture shall implement other examinations according to decision.
+All pupils in the 4th and 7th grades of compulsory school shall undergo national examinations in Icelandic and mathematics. Pupils in the first semester of 10th grade shall undergo national examinations in Icelandic, mathematics and English. The Minister of Education, Science and Culture shall implement other examinations according to decision.
 
-A  head  teacher  may  exempt  pupils  from  undergoing  national  examinations  in  individual subjects in the 4 th , 7 th and 10 th grades, provided that valid arguments and parental consent support the  decision  of  exempting  pupils  from  undergoing  national  examinations  in  individual  tested subjects in the 4 th , 7 th and 10 th grades.
+A head teacher may exempt pupils from undergoing national examinations in individual subjects in the 4th, 7th and 10th grades, provided that valid arguments and parental consent support the decision of exempting pupils from undergoing national examinations in individual tested subjects in the 4th, 7th and 10th grades.
 
 The  Study  Assessment  Institution  or  other  relevant  party  selected  by  the  Minister  of Education,  Science  and  Culture  shall  supervise  the  structure  and  implementation  of  a  national study  assessment  and  examinations  cf.  this  Article.  The  Minister  of  Education,  Science  and Culture  issues  a  Regulation  with  more  detailed  provisions  regarding  the  arrangements  and implementation of national assessments, examinations and research in compulsory schools and on pupils' exemptions from national assessments cf. this Article.
 
@@ -627,7 +638,6 @@ Municipalities may resort to special solutions in the compulsory school or estab
 ### Article 43
 
 #### Accreditation of compulsory schools that are not run by municipalities
-The  Minister  of  Education,  Science  and  Culture  may  provide  accreditation  to  compulsory schools or parts thereof cf. Article 1, which are run by other parties than the municipalities, as non-profit  organisations,  as  limited  companies  or  as  other  recognised  legal  forms,  given  the consent  of  the  municipality  regarding  the  establishment  of  the  school.  The  consent  of  the municipality may be subject to a certain maximum number of pupils. Same law and regulations shall  apply  to  those  compulsory  schools  as  to  compulsory  schools  cf.  Article  1,  as  applicable. Provisions  of  the  Administrative  Procedures  Act  shall  be  applied  by  the  relevant  school  in making decisions that are subject to right of appeal cf. Article 47. However, this does not apply to fee collection.
 
 [[END OF PAGE 17]]
 
@@ -635,7 +645,9 @@ The  Minister  of  Education,  Science  and  Culture  may  provide  accreditatio
 
 18
 
-Compulsory schools that are accredited cf. paragraph 1 are entitled to receive contribution from  municipality  funds  for  their  activities  for  pupils  that  are  residents  in  the  municipality  in which the school operates. The contribution shall account for at least 75% of estimated average total operational cost of each pupil in all compulsory schools that are operated by municipalities in  the  country  according  to  calculations  by  Statistics  Iceland.  This  proportion  shall  apply  to schools  with  up  to  200  pupils,  but  the  contribution  shall  be  at  least  70%  per  additional  pupil. Calculations by Statistics Iceland for costs according to this Article shall take into account the change in price levels.
+The Minister of Education, Science and Culture may provide accreditation to compulsory schools or parts thereof cf. Article 1, which are run by other parties than the municipalities, as non-profit organisations, as limited companies or as other recognised legal forms, given the consent of the municipality regarding the establishment of the school. The consent of the municipality may be subject to a certain maximum number of pupils. Same law and regulations shall apply to those compulsory schools as to compulsory schools cf. Article 1, as applicable. Provisions of the Administrative Procedures Act shall be applied by the relevant school in making decisions that are subject to right of appeal cf. Article 47. However, this does not apply to fee collection.
+
+Compulsory schools that are accredited cf. paragraph 1 are entitled to receive contribution from municipality funds for their activities for pupils that are residents in the municipality in which the school operates. The contribution shall account for at least 75% of estimated average total operational cost of each pupil in all compulsory schools that are operated by municipalities in the country according to calculations by Statistics Iceland. This proportion shall apply to schools with up to 200 pupils, but the contribution shall be at least 70% per additional pupil. Calculations by Statistics Iceland for costs according to this Article shall take into account the change in price levels.
 
 The Minister of Education, Science and Culture may issue a Regulation on the implementation  of  this  Article  in  cooperation  with  the  Association  of  Local  Authorities.  The Regulation  shall  e.g.  stipulate  in  more  detail  the  accreditation  requirements,  how  it  shall  be carried out, information provision to the municipality and the Ministry, operational control and accreditation withdrawal.
 
@@ -653,7 +665,7 @@ Financial support may  be  provided  for experimental  schools as well as for sp
 
 Municipalities,  two  or  more,  may  cooperate  in  operating  a  compulsory  school,  cf.  Chapter VIII of the Local Authorities Act. An agreement shall be concluded between the municipalities stipulating the role of the board cf. Article 4, paragraph 2. Should the municipalities choose to run a compulsory school in the form of a municipal cooperative unit cf. Article 82 of the Local Authorities  Act,  the  board  of  the  municipal  cooperative  unit  shall  take  on  the  role  of  School Board unless the municipal cooperative unit establishes a special committee to carry out that role. Provisions in the agreement for the municipal cooperative unit establishment shall stipulate such arrangements.
 
-Should  municipalities  cooperate  in  operating  a  school  at  compulsory  school  level,  with children  from  a  particular  municipality  attending  school  operated  by  another  municipality, agreements between municipalities cf. Article 5 shall apply. If a number of children from one municipality  attends  school  in  another  municipality  on  these  grounds,  the  municipalities  in question may conclude in their agreement with the local authorities, that a representative elected by the local authorities of the municipality where the children have their legal residence, sit on the School Board of the receiving municipality, with the right to speak and propose a motion.
+Should municipalities cooperate in operating a school at compulsory school level, with children from a particular municipality attending school operated by another municipality, agreements between municipalities cf. Article 5 shall apply. If a number of children from one
 
 [[END OF PAGE 18]]
 
@@ -661,7 +673,9 @@ Should  municipalities  cooperate  in  operating  a  school  at  compulsory  sch
 
 19
 
-Municipalities may cooperate in operating a compulsory school, preschool and music school managed by one head teacher, given the consent of the relevant School Boards. The director of such an institution shall be certified to work as teacher at preschool or compulsory school level. Local authorities may decide that a parent council cf. Article 8 and a school council cf. Article 11 of  the  Pre-School  Act  shall  operate  jointly  as  one  council.  This  provision  shall  apply  also  for schools operated cf. paragraph 1. The cooperative school shall be operated in all other respects according to legislation for the relevant school levels.
+municipality attends school in another municipality on these grounds, the municipalities in question may conclude in their agreement with the local authorities, that a representative elected by the local authorities of the municipality where the children have their legal residence, sit on the School Board of the receiving municipality, with the right to speak and propose a motion.
+
+Municipalities may cooperate in operating a compulsory school, preschool and music school managed by one head teacher, given the consent of the relevant School Boards. The director of such an institution shall be certified to work as teacher at preschool or compulsory school level. Local authorities may decide that a parent council cf. Article 8 and a school council cf. Article 11 of the Pre-School Act shall operate jointly as one council. This provision shall apply also for schools operated cf. paragraph 1. The cooperative school shall be operated in all other respects according to legislation for the relevant school levels.
 
 ### Article 46
 
@@ -685,7 +699,7 @@ The Minister of Education, Science and Culture shall issue a Regulation on the r
 
 #### Right of appeal
 
-Decisions on rights and duties of individual pupils which are made on the basis of Article 5 paragraph 4; Article 14 paragraph 4; Article 15 paragraph 3 and 4; Article 17 paragraph 5; Art 19 paragraph 1; Article 23; Article 26 paragraph 4; Article 31 paragraph 4; Article 32 paragraph 2; Article 33 paragraph 3; Article 40 paragraph 3; and Article 46 paragraph 2, may be referred to the Minister of Education, Science and Culture. In the case of appeal, procedure shall be as specified in the Administrative Procedure Act.
+Decisions on rights and duties of individual pupils which are made on the basis of Article 5 paragraph 4; Article 14 paragraph 4; Article 15 paragraph 3 and 4; Article 17 paragraph 5; Art 19 paragraph 1; Article 23; Article 26 paragraph 4; Article 31 paragraph 4; Article 32 paragraph 2; Article 33 paragraph 3; Article 40 paragraph 3; and Article 46 paragraph 2, may be referred to the
 
 [[END OF PAGE 19]]
 
@@ -693,7 +707,9 @@ Decisions on rights and duties of individual pupils which are made on the basis 
 
 20
 
-The local authorities may conclude in an agreement on the municipality's administration that an  appeal  shall  first  be  referred  to  the  School  Board  or  other  particular  party  within  the municipality  administrative  body  before  a  decision  can  be  appealed  according  to  paragraph  1. Should this authorisation be applied, the local authorities shall determine whether this right of appeal  applies  to  part  of  the  decisions  cf.  paragraph  1  or  to  all  of  them,  and  they  shall  also provide an agreement as to whether such decisions, made by privately run compulsory schools in the  municipality  cf.  Article  43,  may  be  subject  to  appeal  in  the  same  manner.  In  the  case  of appeal at municipality level, provisions of the Administrative Procedure Act shall apply.
+Minister of Education, Science and Culture. In the case of appeal, procedure shall be as specified in the Administrative Procedure Act.
+
+The local authorities may conclude in an agreement on the municipality's administration that an appeal shall first be referred to the School Board or other particular party within the municipality administrative body before a decision can be appealed according to paragraph 1. Should this authorisation be applied, the local authorities shall determine whether this right of appeal applies to part of the decisions cf. paragraph 1 or to all of them, and they shall also provide an agreement as to whether such decisions, made by privately run compulsory schools in the municipality cf. Article 43, may be subject to appeal in the same manner. In the case of appeal at municipality level, provisions of the Administrative Procedure Act shall apply.
 
 ## CHAPTER XII
 
