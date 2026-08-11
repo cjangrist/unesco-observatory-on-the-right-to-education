@@ -24,6 +24,21 @@ Boekje Grondwet 2008  SL Engels.indd   2
 
 # Contents
 
+CHAPTER 1    Fundamental rights    5
+CHAPTER 2    Government    10
+CHAPTER 3    The States General    15
+CHAPTER 4    Council of State, Court of Audit,    19
+National Ombudsman and
+permanent advisory bodies
+CHAPTER 5    Legislation and administration    21
+CHAPTER 6    The administration of justice    26
+CHAPTER 7    Provinces, municipalities, water boards and    28
+other public bodies
+CHAPTER 8    Revision of the Constitution    31
+Additional articles    33
+Articles of the 1972 and 1983 text of the Constitution    35
+which are to remain in force for the time being
+
 Boekje Grondwet 2008  SL Engels.indd   3
 
 3
@@ -284,7 +299,7 @@ Hereditary succession to the Throne in the event of abdication shall take place 
 
 - One or more persons may be excluded from the hereditary succession by Act of Parliament if exceptional circumstances necessitate.
 
-- The Bill for this purpose shall be presented by or on behalf of the King. The two Houses of the States General shall consider and decide upon the matter in joint session. Such a Bill shall be passed only if at least twothirds of the votes cast are in favour.
+- The Bill for this purpose shall be presented by or on behalf of the King. The two Houses of the States General shall consider and decide upon the matter in joint session. Such a Bill shall be passed only if at least two-thirds of the votes cast are in favour.
 
 10
 
@@ -460,7 +475,9 @@ Boekje Grondwet 2008  SL Engels.indd   14
 
 [[START OF PAGE 15]]
 
-# CHAPTER 3
+# CHAPTER 3 The States General
+
+## § 1. Organisation and composition
 
 ### Article 50
 
@@ -503,10 +520,6 @@ The members of the Upper House shall be chosen by the members of the provincial 
 ### Article 56
 
 To be eligible for membership of the States General, a person must be a Dutch national, must have attained the age of eighteen years and must not have been disqualified from voting.
-
-The States General
-
-## § 1. Organisation and composition
 
 Boekje Grondwet 2008  SL Engels.indd   15
 
@@ -648,7 +661,7 @@ Boekje Grondwet 2008  SL Engels.indd   18
 
 [[START OF PAGE 19]]
 
-# CHAPTER 4
+# CHAPTER 4 Council of State, Court of Audit National Ombudsman and permanent advisory bodies
 
 ### Article 73
 
@@ -685,8 +698,6 @@ The Court of Audit (Algemene Rekenkamer) shall be responsible for examining the 
 - The members of the Court of Audit shall be appointed for life by Royal Decree from a list of three persons per vacancy drawn up by the Lower House of the States General.
 
 - They shall cease to be members on resignation or on attaining an age to be determined by Act of Parliament.
-
-Council of State, Court of Audit National Ombudsman and permanent advisory bodies
 
 Boekje Grondwet 2008  SL Engels.indd   19
 
@@ -970,7 +981,7 @@ Boekje Grondwet 2008  SL Engels.indd   25
 
 [[START OF PAGE 26]]
 
-# CHAPTER 6
+# CHAPTER 6 The administration of justice
 
 ### Article 112
 
@@ -1012,7 +1023,7 @@ Appeal to a higher administrative authority shall be admissible in the case of t
 
 - Such persons shall cease to hold office on resignation or on attaining an age to be determined by Act of Parliament.
 
-The administration of justice
+
 
 26
 
@@ -1064,7 +1075,7 @@ Boekje Grondwet 2008  SL Engels.indd   27
 
 [[START OF PAGE 28]]
 
-# CHAPTER 7
+# CHAPTER 7 Provinces, municipalities, water boards and other public bodies
 
 ### Article 123
 
@@ -1096,7 +1107,7 @@ Provincial and municipal ordinances shall be enacted by the provincial or munici
 
 Except in cases laid down in Article 123, the powers referred to in Article 124, paragraph 1 may be assigned to bodies other than those specified in Article 125 only by the provincial or municipal councils respectively.
 
-Provinces, municipalities, water boards and other public bodies
+
 
 28
 
@@ -1164,9 +1175,11 @@ Boekje Grondwet 2008  SL Engels.indd   29
 
 ### Article 134
 
-- Public bodies for the professions and trades and other public bodies may be established and dissolved by or pursuant to Act of Parliament. 2. The duties and organisation of such bodies, the composition and powers of their administrative organs and public access to their meetings shall be regulated by Act of Parliament. Legislative powers may be granted to their administrative organs by or pursuant to Act of Parliament. Parliament. Decisions by the administrative organs may be quashed only
+- Public bodies for the professions and trades and other public bodies may be established and dissolved by or pursuant to Act of Parliament.
 
-- Supervision of the administrative organs shall be regulated by Act of if they are in conflict with the law or the public interest.
+- The duties and organisation of such bodies, the composition and powers of their administrative organs and public access to their meetings shall be regulated by Act of Parliament. Legislative powers may be granted to their administrative organs by or pursuant to Act of Parliament.
+
+- Supervision of the administrative organs shall be regulated by Act of Parliament. Decisions by the administrative organs may be quashed only if they are in conflict with the law or the public interest.
 
 ### Article 135
 
@@ -1246,6 +1259,8 @@ Boekje Grondwet 2008  SL Engels.indd   32
 
 [[START OF PAGE 33]]
 
+# Additional articles
+
 ### Article I
 
 Articles 57a and 129, paragraph 3, second sentence, shall enter into force only after four years or on such earlier date as may be prescribed by or pursuant to Act of Parliament.
@@ -1286,7 +1301,7 @@ Article 16 shall not apply to offences made punishable by the Wartime Offences D
 
 The wording of the proclamation of Acts of Parliament as laid down in Article 81 of the 1972 version of the Constitution, the wording of messages accompanying Bills sent from one House to the other or to the King and
 
-# Additional articles
+
 
 Boekje Grondwet 2008  SL Engels.indd   33
 
