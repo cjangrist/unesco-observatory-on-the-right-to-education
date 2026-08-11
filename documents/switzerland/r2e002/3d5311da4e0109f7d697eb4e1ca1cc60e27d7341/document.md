@@ -1,5 +1,7 @@
 [[START OF PAGE 1]]
 
+18-19.12.2008
+
 # Loi (10350)
 
 ## autorisant  le  Conseil  d'Etat  à  adhérer  à  l'accord  intercantonal  sur l'harmonisation de la scolarité obligatoire (HarmoS) (C 1 06.0)
@@ -25,9 +27,6 @@ L'application  de  cette  loi  fera  l'objet  d'un  rapport  présenté  par  le
 ### Art. 4 Entrée en vigueur
 
 La  présente  loi  entre  en  vigueur  le  lendemain  de  sa  promulgation  dans  la Feuille d'avis officielle.
-
-18-19.12.2008
-
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
@@ -36,9 +35,11 @@ L 10350
 
 2/7
 
-# l'harmonisation de la scolarité C 1 06
+18-19.12.2008
 
-# Accord intercantonal sur obligatoire
+# Accord intercantonal sur
+
+# l'harmonisation de la scolarité obligatoire C 1 06
 
 du 14 juin 2007
 
@@ -48,9 +49,9 @@ du 14 juin 2007
 
 Les cantons concordataires harmonisent la scolarité obligatoire
 
-- en harmonisant les objectifs de l'enseignement et les structures scolaires, et
+a) en harmonisant les objectifs de l'enseignement et les structures scolaires, et
 
-- en  développant  et  assurant  la  qualité  et  la  perméabilité  du  système scolaire au moyen d'instruments de pilotage communs.
+b) en  développant  et  assurant  la  qualité  et  la  perméabilité  du  système scolaire au moyen d'instruments de pilotage communs.
 
 ### Art. 2 Principes de base
 
@@ -58,7 +59,7 @@ Les cantons concordataires harmonisent la scolarité obligatoire
 
 - 2 Ils s'efforcent de supprimer tout ce qui, sur le plan scolaire, fait obstacle à la mobilité nationale et internationale de la population.
 
-## Il. Finalités de la scolarité obligatoire
+## II. Finalités de la scolarité obligatoire
 
 ### Art. 3 Formation de base
 
@@ -66,7 +67,6 @@ Les cantons concordataires harmonisent la scolarité obligatoire
 
 2 Au cours de la scolarité obligatoire, chaque élève acquiert la formation de base  qui  permet  d'accéder  aux  filières  de  formation  professionnelle  ou  de formation  générale  du  degré  secondaire  II,  cette  formation  comprenant  en particulier les domaines suivants:
 
-18-19.12.2008
 
 [[END OF PAGE 2]]
 
@@ -76,15 +76,17 @@ Les cantons concordataires harmonisent la scolarité obligatoire
 
 L 10350
 
-- langues: une solide culture linguistique dans la langue locale (maîtrise orale  et  écrite)  et  des  compétences  essentielles  dans  une  deuxième langue nationale et dans une autre langue étrangère au moins,
+18-19.12.2008
 
-- mathématiques  et  sciences  naturelles:  une  culture  mathématique  et scientifique,  permettant  de  maîtriser  les  notions  et  les  procédures mathématiques  essentielles  ainsi  que  de  saisir  les  fondements  des sciences naturelles et techniques,
+a) langues: une solide culture linguistique dans la langue locale (maîtrise orale  et  écrite)  et  des  compétences  essentielles  dans  une  deuxième langue nationale et dans une autre langue étrangère au moins,
 
-- sciences  humaines  et  sociales:  une  culture  scientifique  permettant  de connaître et de comprendre les fondements de l'environnement physique, humain, social et politique,
+b) mathématiques  et  sciences  naturelles:  une  culture  mathématique  et scientifique,  permettant  de  maîtriser  les  notions  et  les  procédures mathématiques  essentielles  ainsi  que  de  saisir  les  fondements  des sciences naturelles et techniques,
 
-- musique, arts et activités créatrices: une culture artistique théorique et pratique diversifiée,  orientée  sur  le  développement  de  la  créativité,  de l'habileté manuelle et du sens esthétique, ainsi que sur l'acquisition de connaissances relatives au patrimoine artistique et culturel,
+c) sciences  humaines  et  sociales:  une  culture  scientifique  permettant  de connaître et de comprendre les fondements de l'environnement physique, humain, social et politique,
 
-- mouvement  et  santé: une éducation au mouvement  ainsi qu'une éducation à la santé axées sur le développement des capacités motrices et  des  aptitudes  physiques  et  favorisant  l'épanouissement  physique  et psychique.
+d) musique, arts et activités créatrices: une culture artistique théorique et pratique diversifiée,  orientée  sur  le  développement  de  la  créativité,  de l'habileté manuelle et du sens esthétique, ainsi que sur l'acquisition de connaissances relatives au patrimoine artistique et culturel,
+
+e) mouvement  et  santé: une éducation au mouvement  ainsi qu'une éducation à la santé axées sur le développement des capacités motrices et  des  aptitudes  physiques  et  favorisant  l'épanouissement  physique  et psychique.
 
 3 La  scolarité  obligatoire  favorise  chez  l'élève  le  développement  d'une personnalité autonome, ainsi que l'acquisition de compétences sociales et du sens des responsabilités vis-à-vis d'autrui et de l'environnement.
 
@@ -98,7 +100,6 @@ L 10350
 
 4 En ce qui concerne les élèves issus de la migration, les cantons apportent, par des mesures d'organisation, leur soutien aux cours de langue et de culture d'origine  (cours  LCO)  organisés  par  les  pays  d'origine  et  les  différentes communautés  linguistiques  dans  le  respect  de  la  neutralité  religieuse  et politique.
 
-18-19.12.2008
 
 [[END OF PAGE 3]]
 
@@ -108,7 +109,9 @@ L 10350
 
 4/7
 
-## IlI. Caractéristiques structurelles de la scolarité obligatoire
+18-19.12.2008
+
+## III. Caractéristiques structurelles de la scolarité obligatoire
 
 ### Art. 5 Scolarisation
 
@@ -130,7 +133,6 @@ L 10350
 
 > 1 Soit actuellement l'ordonnance du conseil fédéral du 16 janvier 1995 et le règlement de la CDIP  du  15  février  1995  sur  la  reconnaissance  des  certificats  de  maturité  gymnasiale (RRM). Recueil des bases légales de la CDIP, ch. 4.3.1.1./RS 413.11
 
-18-19.12.2008
 
 [[END OF PAGE 4]]
 
@@ -140,6 +142,8 @@ L 10350
 
 L 10350
 
+18-19.12.2008
+
 ## IV. Instruments de développement et d'assurance qualité
 
 ### Art. 7 Standards de formation
@@ -148,9 +152,9 @@ L 10350
 
 2 Ces standards de formation peuvent être de deux ordres, à savoir:
 
-- des standards de performance fondés, par domaine disciplinaire, sur un cadre de référence incluant des niveaux de compétence;
+a) des standards de performance fondés, par domaine disciplinaire, sur un cadre de référence incluant des niveaux de compétence;
 
-- des  standards  qui  déterminent  des  contenus  de  formation  ou  des conditions de mise en œuvre dans l'enseignement.
+b) des  standards  qui  déterminent  des  contenus  de  formation  ou  des conditions de mise en œuvre dans l'enseignement.
 
 3 Les standards nationaux de formation sont construits et validés scientifiquement sous la responsabilité  de  la  CDIP. Ils  doivent  faire  l'objet d'une  consultation  au  sens  de  l'art.  3  du  concordat  sur  la  coordination scolaire du 29 octobre 1970 2 .
 
@@ -172,7 +176,6 @@ Les  cantons  concordataires  veillent  à  ce  que  les  élèves  puissent  at
 
 > 2 Recueil des bases légales de la CDIP, ch. 1.1
 
-18-19.12.2008
 
 [[END OF PAGE 5]]
 
@@ -181,6 +184,8 @@ Les  cantons  concordataires  veillent  à  ce  que  les  élèves  puissent  at
 L 10350
 
 6/7
+
+18-19.12.2008
 
 ### Art. 10 Monitorage du système d'éducation
 
@@ -212,7 +217,6 @@ Toute dénonciation de cet accord doit être déclarée auprès du Comité de la
 
 > 3 Recueil des bases légales de la CDIP, ch. 1.1.
 
-18-19.12.2008
 
 [[END OF PAGE 6]]
 
@@ -221,6 +225,8 @@ Toute dénonciation de cet accord doit être déclarée auprès du Comité de la
 7/7
 
 L 10350
+
+18-19.12.2008
 
 ### Art. 15 Abrogation de l'art. 2 du concordat scolaire de 1970
 
@@ -250,6 +256,5 @@ Hans Ambühl
 
 > 4 Recueil des bases légales de la CDIP, ch. 1.1.
 
-18-19.12.2008
 
 [[END OF PAGE 7]]
