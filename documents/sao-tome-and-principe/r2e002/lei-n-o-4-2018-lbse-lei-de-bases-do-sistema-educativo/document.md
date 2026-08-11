@@ -2,7 +2,8 @@
 
 Segunda-feira, 18 de Fevereiro de 2019
 
-Número 14 I SÉRIE
+Número 14
+I SÉRIE
 
 SÃO TOMÉ E PRÍNCIPE
 
@@ -28,7 +29,7 @@ I  SÉRIE 115
 
 ### Preâmbulo
 
-A promoção de uma Educação de qualidade que, para além de pressupor o aceso universal e gratuito a uma Educação  Escolar  de  base,  assegure  a  todos  os  sãotomenses a possibilidade de, em ambiente democrático e plural, desenvolverem as suas potencialidades e construírem os seus projectos de vida e de cidadania, tem sido o principal desígnio das reformas educativas realizadas  nas  últimas  décadas  e  é,  também,  a  motivação por detrás da revisão da Lei n.º 2/2003, de 02 de Fevereiro  (Lei  de  Bases  do  Sistema  Educativo), que agora se leva a cabo.
+A promoção de uma Educação de qualidade que, para além de pressupor o acesso universal e gratuito a uma Educação Escolar de base, assegure a todos os são-tomenses a possibilidade de, em ambiente democrático e plural, desenvolverem as suas potencialidades e construírem os seus projectos de vida e de cidadania, tem sido o principal desígnio das reformas educativas realizadas nas últimas décadas e é, também, a motivação por detrás da revisão da Lei n.º 2/2003, de 02 de Fevereiro (Lei de Bases do Sistema Educativo), que agora se leva a cabo.
 
 Tendo sido um passo fundamental para estruturação e  organização  do  Sistema  Educativo  de  São  Tomé  e Príncipe  ,  a  criação  da  Lei  de  Bases  de  2003,  com  o passar  dos  anos  e  a  consequente  evolução  natural  da sociedade,  do  conhecimento  e  das  exigências  que  se colocam aos sistemas educativos, mostra-se desajustada às necessidades e às características actuais do País, sendo, por isso, imperativa a sua actualização.
 
@@ -40,25 +41,25 @@ A Assembleia Nacional decreta, nos termos da alínea b) do artigo 97.º da Const
 
 ###### Artigo 1.º Âmbito
 
-- A  presente  Lei  estabelece  o  quadro  geral  do Sistema Educativo.
+1. A presente Lei estabelece o quadro geral do Sistema Educativo.
 
-- O Sistema Educativo é o conjunto de meios pelo qual se concretiza o direito à educação, que se exprime pela garantia de uma permanente intervenção orientada para favorecer o desenvolvimento global do cidadão, o processo social e a democratização da sociedade.
+2. O Sistema Educativo é o conjunto de meios pelo qual se concretiza o direito à educação, que se exprime pela garantia de uma permanente intervenção orientada para favorecer o desenvolvimento global do cidadão, o processo social e a democratização da sociedade.
 
-- O  Sistema  Educativo  desenvolve-se segundo um conjunto organizado de estruturas e de acções diversificadas,  por  iniciativa  e  sob  a  responsabilidade de diferentes instituições e entidades públicas, particulares e cooperativas.
+3. O Sistema Educativo desenvolve-se segundo um conjunto organizado de estruturas e de acções diversificadas, por iniciativa e sob a responsabilidade de diferentes instituições e entidades públicas, particulares e cooperativas.
 
-- O Sistema Educativo tem por âmbito geográfico a totalidade  do  Território  da  República  Democrática  de São  Tomé  e  Príncipe,  tendo  também  uma  expressão suficientemente  flexível  e  diversificada,  de  modo  a abranger a generalidade dos países e dos locais em que vivam comunidades são-tomenses ou em que se verifique um acentuado interesse pelo desenvolvimento e divulgação da cultura são-tomense.
+4. O Sistema Educativo tem por âmbito geográfico a totalidade do Território da República Democrática de São Tomé e Príncipe, tendo também uma expressão suficientemente flexível e diversificada, de modo a abranger a generalidade dos países e dos locais em que vivam comunidades são-tomenses ou em que se verifique um acentuado interesse pelo desenvolvimento e divulgação da cultura são-tomense.
 
-- A  coordenação  da  política  relativa  ao  Sistema Educativo e das instituições que o compõem incumbe ao Ministério especialmente vocacionado para o efeito.
+5. A coordenação da política relativa ao Sistema Educativo e das instituições que o compõem incumbe ao Ministério especialmente vocacionado para o efeito.
 
 ###### Artigo 2.º Princípios gerais
 
-- Todos os são-tomenses têm direito à educação e à cultura, nos termos da Constituição da República.
+1. Todos os são-tomenses têm direito à educação e à cultura, nos termos da Constituição da República.
 
-- É da especial responsabilidade do Estado promover  a  democratização  do  Ensino,  garantindo  o direito a uma justa e efectiva igualdade de oportunidades  de  acesso  à  educação  e  do  sucesso educativo.
+2. É da especial responsabilidade do Estado promover a democratização do Ensino, garantindo o direito a uma justa e efectiva igualdade de oportunidades de acesso à educação e do sucesso educativo.
 
-- No acesso à educação e na sua prática é garantido a  todos  os  são-tomenses  o  respeito  pelo  princípio  da liberdade  de  aprender  e  de  ensinar,  com  tolerância  às escolhas possíveis, tendo em conta, ainda, os seguintes princípios:
+3. No acesso à educação e na sua prática é garantido a todos os são-tomenses o respeito pelo princípio da liberdade de aprender e de ensinar, com tolerância às escolhas possíveis, tendo em conta, ainda, os seguintes princípios:
 
-- O  Estado  não  se  pode  atribuir  o  direito  de programar  a  educação  e  a  cultura,  segundo
+a) O Estado não se pode atribuir o direito de programar a educação e a cultura, segundo
 
 [[END OF PAGE 2]]
 
@@ -68,9 +69,9 @@ A Assembleia Nacional decreta, nos termos da alínea b) do artigo 97.º da Const
 
 quaisquer directrizes filosóficas, estéticas, políticas, ideológicas ou religiosas;
 
-- O Ensino Público é não confessional;
+b) O Ensino Público é não confessional;
 
-- É garantido o direito de criação de instituições de ensino particulares e cooperativas, em termos a regulamentar em diploma próprio.
+c) É garantido o direito de criação de instituições de ensino particulares e cooperativas, em termos a regulamentar em diploma próprio.
 
 4.  O  Sistema  Educativo  responde  às  necessidades resultantes  da  realidade  social,  contribuindo  para  o desenvolvimento pleno e harmonioso da pessoa humana,  incentivando  a  formação  de  cidadãos  livres, responsáveis,  autónomos  e  solidários  e,  valorizando  a dimensão humana do trabalho.
 
@@ -86,25 +87,25 @@ quaisquer directrizes filosóficas, estéticas, políticas, ideológicas ou reli
 
 O Sistema Educativo organiza-se de forma a:
 
-- Contribuir para consolidação da identidade nacional e o reforço da fidelidade à matriz histórica de São Tomé e Príncipe, através da consciencialização relativamente ao património cultural  do  povo  são-tomense,  no  quadro  dos valores da africanidade e da crescente interdependência  e  necessária  solidariedade  entre  todos os povos do Mundo;
+a) Contribuir para consolidação da identidade nacional e o reforço da fidelidade à matriz histórica de São Tomé e Príncipe, através da consciencialização relativamente ao património cultural do povo são-tomense, no quadro dos valores da africanidade e da crescente interdependência e necessária solidariedade entre todos os povos do Mundo;
 
-- Contribuir  para  o  conhecimento  e  aprendizagem das línguas nacionais;
+b) Contribuir para o conhecimento e aprendizagem das línguas nacionais;
 
-- Contribuir para a realização do cidadão através do pleno desenvolvimento da personalidade, da formação do carácter e da cidadania, preparando-o para uma reflexão consciente sobre os valores morais e cívicos, proporcionando-lhe um desenvolvimento físico e intelectual equilibrado;
+c) Contribuir para a realização do cidadão através do pleno desenvolvimento da personalidade, da formação do carácter e da cidadania, preparando-o para uma reflexão consciente sobre os valores morais e cívicos, proporcionando-lhe um desenvolvimento físico e intelectual equilibrado;
 
-- Assegurar o direito à diferença, o respeito pelas personalidades, pelos projectos individuais, bem como a consideração e a valorização dos diferentes saberes e culturas;
+d) Assegurar o direito à diferença, o respeito pelas personalidades, pelos projectos individuais, bem como a consideração e a valorização dos diferentes saberes e culturas;
 
-- Desenvolver capacidade para o trabalho e proporcionar, com base numa sólida formação geral,  uma  formação  específica  para  a  ocupação de um justo lugar na vida activa que permita ao indivíduo prestar o seu contributo ao progresso da sociedade em consonância com os seus interesses, capacidades e vocação;
+e) Desenvolver capacidade para o trabalho e proporcionar, com base numa sólida formação geral, uma formação específica para a ocupação de um justo lugar na vida activa que permita ao indivíduo prestar o seu contributo ao progresso da sociedade em consonância com os seus interesses, capacidades e vocação;
 
-- Contribuir para a realização pessoal e comunitária dos indivíduos, não só pela formação para a vida activa, como também pela aprendizagem e  prática  da  utilização  criativa  dos  tempos  livres;
+f) Contribuir para a realização pessoal e comunitária dos indivíduos, não só pela formação para a vida activa, como também pela aprendizagem e prática da utilização criativa dos tempos livres;
 
-- Desconcentrar,  descentralizar  e  diversificar  as estruturas  e  as  acções  educativas,  de  modo  a proporcionar  uma  maior  adaptação  às  realidades, uma efectiva participação das populações, uma adequada inserção no meio comunitário e níveis de decisões eficientes;
+g) Desconcentrar, descentralizar e diversificar as estruturas e as acções educativas, de modo a proporcionar uma maior adaptação às realidades, uma efectiva participação das populações, uma adequada inserção no meio comunitário e níveis de decisões eficientes;
 
-- Contribuir para a correcção das assimetrias de desenvolvimento regional e local, devendo incrementar em todo o País a igualdade no acesso aos benefícios da educação, da cultura e da ciência;
+h) Contribuir para a correcção das assimetrias de desenvolvimento regional e local, devendo incrementar em todo o País a igualdade no acesso aos benefícios da educação, da cultura e da ciência;
 
-- Assegurar oportunidades de formação aos que a  procuram por razões de promoção social ou profissional originadas pela necessidade de reconversão  ou  aperfeiçoamento  decorrente  da evolução dos  conhecimentos  científicos e  tecnológicos,  numa  perspectiva  de  formação  ao longo da vida;
+i) Assegurar oportunidades de formação aos que a procuram por razões de promoção social ou profissional originadas pela necessidade de reconversão ou aperfeiçoamento decorrente da evolução dos conhecimentos científicos e tecnológicos, numa perspectiva de formação ao longo da vida;
 
-- Assegurar  a  igualdade  de  género  através  de práticas de coeducação e de orientação escolar profissional;
+j) Assegurar a igualdade de género através de práticas de coeducação e de orientação escolar profissional;
 
 [[END OF PAGE 3]]
 
@@ -112,57 +113,55 @@ O Sistema Educativo organiza-se de forma a:
 
 N.º 14 - 18 de Fevereiro de 2019  SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA I  SÉRIE 117
 
-- Desenvolver o espírito e a prática da democracia, mediante a criação de estruturas e de processos  participativos  na  definição  da  política educativa, na administração e na gestão do Sistema Escolar, e na dinamização da vida da escola;
+k) Desenvolver o espírito e a prática da democracia, mediante a criação de estruturas e de processos participativos na definição da política educativa, na administração e na gestão do Sistema Escolar, e na dinamização da vida da escola;
 
-- Assegurar  a  igualdade  de  oportunidades  de acesso e sucesso escolar aos cidadãos com necessidades educativas especiais.
+l) Assegurar a igualdade de oportunidades de acesso e sucesso escolar aos cidadãos com necessidades educativas especiais.
 
 ### CAPÍTULO II Organização do Sistema Educativo
 
 ###### Artigo 4.º Organização geral do Sistema Educativo
 
-- O Sistema Educativo compreende os subsistemas da  Educação  Pré-Escolar,  a  Educação  Escolar  e  a Educação Extra-Escolar (Anexo I).
+1. O Sistema Educativo compreende os subsistemas da Educação Pré-Escolar, a Educação Escolar e a Educação Extra-Escolar (Anexo I).
 
-- A Educação Pré-Escolar, no seu aspecto formativo,  é  complementar  e/ou  supletiva  da  acção educativa  da  família,  com  a  qual  estabelece  estreita cooperação.
+2. A Educação Pré-Escolar, no seu aspecto formativo, é complementar e/ou supletiva da acção educativa da família, com a qual estabelece estreita cooperação.
 
-- A  Educação  Escolar  compreende  os  Ensinos Básico, Secundário e Superior, integrando ainda modalidades especiais e as actividades de ocupação de tempos livres.
+3. A Educação Escolar compreende os Ensinos Básico, Secundário e Superior, integrando ainda modalidades especiais e as actividades de ocupação de tempos livres.
 
-- A Educação Extra-Escolar engloba a alfabetização, a pós alfabetização, actividades de actualização  cultural  e  científica,  a  reconversão  e  o aperfeiçoamento profissionais, realizando-se num quadro  aberto  de  iniciativas  múltiplas,  de  natureza formal e não formal.
+4. A Educação Extra-Escolar engloba a alfabetização, a pós alfabetização, actividades de actualização cultural e científica, a reconversão e o aperfeiçoamento profissionais, realizando-se num quadro aberto de iniciativas múltiplas, de natureza formal e não formal.
 
-- O Sistema Educativo integra ainda a componente de  formação  técnico-profissional  e  articula-se  com  o Sistema Nacional de Formação e Aprendizagem Profissional.
+5. O Sistema Educativo integra ainda a componente de formação técnico-profissional e articula-se com o Sistema Nacional de Formação e Aprendizagem Profissional.
 
 #### Secção I Educação Pré-Escolar
 
 ###### Artigo 5.º Caracterização
 
-- A Educação Pré-Escolar enquadra-se nos objectivos de protecção da infância e consubstancia-se num  conjunto  de  acções  articuladas  com  a  família, visando, por um lado, o desenvolvimento da criança e,
+1. A Educação Pré-Escolar enquadra-se nos objectivos de protecção da infância e consubstancia-se num conjunto de acções articuladas com a família, visando, por um lado, o desenvolvimento da criança e, por outro, a sua preparação para o ingresso no Sistema Escolar.
 
-- por outro, a sua preparação para o ingresso no Sistema Escolar.
-
-- A Educação Pré-Escolar é de frequência obrigatória e destina-se às crianças com idades compreendidas entre os 4 e 5 anos.
+2. A Educação Pré-Escolar é de frequência obrigatória e destina-se às crianças com idades compreendidas entre os 4 e 5 anos.
 
 ###### Artigo 6.º Objectivos
 
 São objectivos da Educação Pré-Escolar:
 
-- Fomentar o desenvolvimento integral da criança, nas suas dimensões física, psicológica, intelectual  e  social,  complementando  a  acção  da família e da comunidade;
+a) Fomentar o desenvolvimento integral da criança, nas suas dimensões física, psicológica, intelectual e social, complementando a acção da família e da comunidade;
 
-- Assegurar um atendimento individual e personalizado em função das necessidades específicas de cada criança;
+b) Assegurar um atendimento individual e personalizado em função das necessidades específicas de cada criança;
 
-- Contribuir para a estabilidade a segurança afectiva da criança;
+c) Contribuir para a estabilidade a segurança afectiva da criança;
 
-- Estimular as capacidades de cada criança e favorecer  o  desenvolvimento  equilibrado  de  todas as suas potencialidades;
+d) Estimular as capacidades de cada criança e favorecer o desenvolvimento equilibrado de todas as suas potencialidades;
 
-- Promover, na formação da criança, o sentido de responsabilidade,  associado  ao  sentido  de  liberdade;
+e) Promover, na formação da criança, o sentido de responsabilidade, associado ao sentido de liberdade;
 
-- Fomentar  a  socialização  mediante  o  convívio com diversos grupos sociais;
+f) Fomentar a socialização mediante o convívio com diversos grupos sociais;
 
-- Favorecer  a  observação  e  a  compreensão  do meio natural e humano para uma melhor integração e participação da criança no mundo que a rodeia, local e globalmente;
+g) Favorecer a observação e a compreensão do meio natural e humano para uma melhor integração e participação da criança no mundo que a rodeia, local e globalmente;
 
-- Desenvolver  as  capacidades  de  expressão  e comunicação da criança, estimulando a imaginação criativa e a participação em actividades lúdicas;
+h) Desenvolver as capacidades de expressão e comunicação da criança, estimulando a imaginação criativa e a participação em actividades lúdicas;
 
-- Promover hábitos de higiene e de defesa da saúde pessoal e colectiva;
+i) Promover hábitos de higiene e de defesa da saúde pessoal e colectiva;
 
-- Contribuir para a despistagem precoce de situações que possam comprometer o desenvolvimento harmonioso da criança e a sua aprendizagem.
+j) Contribuir para a despistagem precoce de situações que possam comprometer o desenvolvimento harmonioso da criança e a sua aprendizagem.
 
 [[END OF PAGE 4]]
 
@@ -186,7 +185,7 @@ São objectivos da Educação Pré-Escolar:
 
 ###### Artigo 8.º Universalidade e gratuitidade
 
-- A Educação Pré-Escolar é um direito de todas as crianças dos 4 e 5 anos de idade.
+1. A Educação Pré-Escolar é um direito de todas as crianças dos 4 e 5 anos de idade.
 
 2. A frequência da Educação Pré-Escolar é universal,  obrigatória  e  gratuita,  cabendo  ao  Estado  a criação de condições para a universalização da oferta e a  garantia  de  acesso  e  frequência  a  todas  as  crianças dentro da faixa etária correspondente.
 
@@ -206,15 +205,15 @@ São objectivos da Educação Pré-Escolar:
 
 São objectivos do Ensino Básico:
 
-- Assegurar  urna  formação  de  base  comum  a todos os cidadãos, que lhes garanta a descoberta e o desenvolvimento dos seus interesses e aptidões, capacidade de raciocínio, memória e espírito crítico, criatividade, sentido moral sensibilidade estética,  promovendo  a realização  individual  em  harmonia  com  os valores da solidariedade social;
+a) Assegurar uma formação de base comum a todos os cidadãos, que lhes garanta a descoberta e o desenvolvimento dos seus interesses e aptidões, capacidade de raciocínio, memória e espírito crítico, criatividade, sentido moral sensibilidade estética, promovendo a realização individual em harmonia com os valores da solidariedade social;
 
-- Garantir  a  todos  o  acesso  a  um  conjunto  de saberes, nomeadamente, saber-saber, saber-ser, saber-estar, saber-fazer, que lhes permita participar na sociedade de acordo com a idade e a vivência familiar, escolar e comunitária;
+b) Garantir a todos o acesso a um conjunto de saberes, nomeadamente, saber-saber, saber-ser, saber-estar, saber-fazer, que lhes permita participar na sociedade de acordo com a idade e a vivência familiar, escolar e comunitária;
 
-- Favorecer  o  desenvolvimento  físico  e  motor, valorizar as actividades manuais e promover a educação artística, de modo a sensibilizar para as diversas formas de expressão estética, identificando e estimulando  aptidões  nestes domínios;
+c) Favorecer o desenvolvimento físico e motor, valorizar as actividades manuais e promover a educação artística, de modo a sensibilizar para as diversas formas de expressão estética, identificando e estimulando aptidões nestes domínios;
 
-- Educar para a saúde;
+d) Educar para a saúde;
 
-- Proporcionar a aprendizagem de uma primeira língua estrangeira;
+e) Proporcionar a aprendizagem de uma primeira língua estrangeira;
 
 [[END OF PAGE 5]]
 
@@ -222,51 +221,51 @@ São objectivos do Ensino Básico:
 
 N.º 14 - 18 de Fevereiro de 2019  SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA I  SÉRIE 119
 
-- Proporcionar a  aquisição  de  conhecimentos basilares  que  permitam  o  prosseguimento  de estudos ou a inserção do indivíduo em percursos de formação profissional;
+f) Proporcionar a aquisição de conhecimentos basilares que permitam o prosseguimento de estudos ou a inserção do indivíduo em percursos de formação profissional;
 
-- Proporcionar orientação e formação profissional  através  de  preparação  técnica  e tecnológica;
+g) Proporcionar orientação e formação profissional através de preparação técnica e tecnológica;
 
-- Facilitar  a  aquisição  e  o  desenvolvimento  de métodos e instrumentos de trabalho individual e  em  grupo,  valorizando  a  dimensão  humana do trabalho;
+h) Facilitar a aquisição e o desenvolvimento de métodos e instrumentos de trabalho individual e em grupo, valorizando a dimensão humana do trabalho;
 
-- Promover uma formação ética que habilite para o exercício de uma  cidadania responsável, assumindo os valores da democracia, da liberdade, da paz, da solidariedade, da equidade,  do  respeito  pela  diversidade,  pela justiça e pelo bem comum;
+i) Promover uma formação ética que habilite para o exercício de uma cidadania responsável, assumindo os valores da democracia, da liberdade, da paz, da solidariedade, da equidade, do respeito pela diversidade, pela justiça e pelo bem comum;
 
-- Desenvolver o conhecimento e o apreço pelos valores  característicos  da  identidade  e  cultura são-tomenses, bem como pela língua portuguesa;
+j) Desenvolver o conhecimento e o apreço pelos valores característicos da identidade e cultura são-tomenses, bem como pela língua portuguesa;
 
-- Proporcionar experiências que favoreçam  a maturidade cívica e sócio-afectiva, criando atitudes  e  hábitos  de  solidariedade,  quer  no plano dos vínculos familiares, quer no da intervenção consciente e responsável na realidade circundante;
+k) Proporcionar experiências que favoreçam a maturidade cívica e sócio-afectiva, criando atitudes e hábitos de solidariedade, quer no plano dos vínculos familiares, quer no da intervenção consciente e responsável na realidade circundante;
 
-- Proporcionar o desenvolvimento da autonomia, visando  a  formação  de  cidadãos  civicamente responsáveis e democraticamente intervenientes na vida comunitária;
+l) Proporcionar o desenvolvimento da autonomia, visando a formação de cidadãos civicamente responsáveis e democraticamente intervenientes na vida comunitária;
 
-- Proporcionar condições  pedagógicas  para  o maneio das novas tecnologias de informação e comunicação;
+m) Proporcionar condições pedagógicas para o maneio das novas tecnologias de informação e comunicação;
 
-- Promover atitudes de protecção do património cultural e de defesa do ambiente;
+n) Promover atitudes de protecção do património cultural e de defesa do ambiente;
 
-- Assegurar aos cidadãos com necessidades educativas  especiais  condições  adequadas  ao seu  desenvolvimento  e  pleno  aproveitamento das suas capacidades;
+o) Assegurar aos cidadãos com necessidades educativas especiais condições adequadas ao seu desenvolvimento e pleno aproveitamento das suas capacidades;
 
-- Fomentar o gosto por uma constante actualização de conhecimentos;
+p) Fomentar o gosto por uma constante actualização de conhecimentos;
 
-- Promover processos de informação e orientação  educacionais  em  colaboração  com as famílias;
+q) Promover processos de informação e orientação educacionais em colaboração com as famílias;
 
-- Promover o sucesso escolar e educativo.
+r) Promover o sucesso escolar e educativo.
 
 ###### Artigo 11.º Organização
 
-- O Ensino Básico compreende três ciclos sequenciais, sendo o 1.º de quatro anos, o 2.º de dois anos  e  o  3.º  de  três  anos;  com  a  duração  de  9  anos organizados nos seguintes termos:
+1. O Ensino Básico compreende três ciclos sequenciais, sendo o 1.º de quatro anos, o 2.º de dois anos e o 3.º de três anos; com a duração de 9 anos organizados nos seguintes termos:
 
-- O 1.º Ciclo, da 1.ª à 4.ª classe, é globalizante e assegurado em regime de monodocência, podendo o Professor ser coadjuvado em áreas especializadas;
+a) O 1.º Ciclo, da 1.ª à 4.ª classe, é globalizante e assegurado em regime de monodocência, podendo o Professor ser coadjuvado em áreas especializadas;
 
-- O  2.º  Ciclo,  5.ª  e  6.ª  classes,  organiza-se  por disciplinas e é assegurado em regime de pluridocência;
+b) O 2.º Ciclo, 5.ª e 6.ª classes, organiza-se por disciplinas e é assegurado em regime de pluridocência;
 
-- O 3.º Ciclo, da 7.ª à 9.ª classe, organiza-se por disciplinas, é assegurado em regime de pluridocência.
+c) O 3.º Ciclo, da 7.ª à 9.ª classe, organiza-se por disciplinas, é assegurado em regime de pluridocência.
 
-- A  articulação  entre  os  ciclos  obedece  a  uma sequencialidade  progressiva,  cabendo  a  cada  ciclo  a função  de  completar,  aprofundar  e  alargar  o  ciclo anterior, numa perspectiva de unidade global do Ensino Básico.
+2. A articulação entre os ciclos obedece a uma sequencialidade progressiva, cabendo a cada ciclo a função de completar, aprofundar e alargar o ciclo anterior, numa perspectiva de unidade global do Ensino Básico.
 
-- Os objectivos específicos de cada ciclo integramse nos objectivos gerais  do  Ensino  Básico  e  são definidos em diploma próprio.
+3. Os objectivos específicos de cada ciclo integram-se nos objectivos gerais do Ensino Básico e são definidos em diploma próprio.
 
-- Em escolas do Ensino Básico podem ser reforçadas as componentes de Ensino Vocacional, sem prejuízo da formação básica.
+4. Em escolas do Ensino Básico podem ser reforçadas as componentes de Ensino Vocacional, sem prejuízo da formação básica.
 
-- A  conclusão  com  aproveitamento  do  Ensino Básico confere direito à atribuição de um diploma que certifica o tipo de formação adquirida e a classificação final, complementado por um  certificado com  as classificações obtidas nas disciplinas que constituem o plano de estudos.
+5. A conclusão com aproveitamento do Ensino Básico confere direito à atribuição de um diploma que certifica o tipo de formação adquirida e a classificação final, complementado por um certificado com as classificações obtidas nas disciplinas que constituem o plano de estudos.
 
-- Os planos curriculares do Ensino Básico integram áreas curriculares disciplinares e não disciplinares, em termos a estabelecer por diploma regulamentar.
+6. Os planos curriculares do Ensino Básico integram áreas curriculares disciplinares e não disciplinares, em termos a estabelecer por diploma regulamentar.
 
 [[END OF PAGE 6]]
 
@@ -276,51 +275,51 @@ N.º 14 - 18 de Fevereiro de 2019  SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLIC
 
 ###### Artigo 12.º Universalidade e gratuitidade
 
-- O  Ensino Básico é universal, obrigatório e gratuito com duração de nove anos.
+1. O Ensino Básico é universal, obrigatório e gratuito com duração de nove anos.
 
-- As  condições  de gratuitidade previstas neste artigo são fixadas por decreto-lei.
+2. As condições de gratuitidade previstas neste artigo são fixadas por decreto-lei.
 
 ##### SUBSECÇÃO II Ensino Secundário
 
 ###### Artigo 13.º Caracterização
 
-- O  Ensino  Secundário  dá  continuidade  ao  Ensino Básico e permite o desenvolvimento dos conhecimentos  aptidões  obtidos  no  ciclo  de  estudos precedente a aquisição de novas capacidades intelectuais e aptidões físicas necessárias à intervenção criativa na sociedade.
+1. O Ensino Secundário dá continuidade ao Ensino Básico e permite o desenvolvimento dos conhecimentos aptidões obtidos no ciclo de estudos precedente a aquisição de novas capacidades intelectuais e aptidões físicas necessárias à intervenção criativa na sociedade.
 
-- O Ensino Secundário visa possibilitar a aquisição das bases científico-tecnológicas e culturais necessárias ao prosseguimento de estudos e ingresso na vida activa e, em particular, permite, pelas vias técnicas, artísticas e profissionais, a aquisição de qualificações profissionais para inserção no mercado de trabalho.
+2. O Ensino Secundário visa possibilitar a aquisição das bases científico-tecnológicas e culturais necessárias ao prosseguimento de estudos e ingresso na vida activa e, em particular, permite, pelas vias técnicas, artísticas e profissionais, a aquisição de qualificações profissionais para inserção no mercado de trabalho.
 
-- De  acordo  com  as  capacidades  de  acolhimento existentes,  as  exigências  da  qualidade  do  ensino  a ministrar  e  as  necessidades  de  desenvolvimento  do País, são definidas as condições de acesso e permanência nos diversos níveis do Ensino Secundário.
+3. De acordo com as capacidades de acolhimento existentes, as exigências da qualidade do ensino a ministrar e as necessidades de desenvolvimento do País, são definidas as condições de acesso e permanência nos diversos níveis do Ensino Secundário.
 
 ###### Artigo 14.º Objectivos
 
 O Ensino Secundário tem por objectivos:
 
-- Formar, a partir da realidade concreta da vida regional  e  nacional  e  no  apreço  por  valores democráticos, universais e nacionais, cidadãos capazes  de  contribuírem  para  a  construção  de sociedades mais justas, pacíficas e potenciadoras do bem estar de todos;
+a) Formar, a partir da realidade concreta da vida regional e nacional e no apreço por valores democráticos, universais e nacionais, cidadãos capazes de contribuírem para a construção de sociedades mais justas, pacíficas e potenciadoras do bem estar de todos;
 
-- Sensibilizar  para  o  respeito  pela  diversidade, para a preservação do ambiente e para o desenvolvimento sustentável;
+b) Sensibilizar para o respeito pela diversidade, para a preservação do ambiente e para o desenvolvimento sustentável;
 
-- Sensibilizar  para  questões de  saúde  individual e pública;
+c) Sensibilizar para questões de saúde individual e pública;
 
-- Aprofundar  hábitos  de  trabalho,  individual  e em  grupo,  e  favorecer  o  desenvolvimento  de atitudes  de  reflexão  metódica,  de  abertura  de espírito,  de  criatividade,  de  sensibilidade,  de disponibilidade e de adaptação à inovação e à mudança;
+d) Aprofundar hábitos de trabalho, individual e em grupo, e favorecer o desenvolvimento de atitudes de reflexão metódica, de abertura de espírito, de criatividade, de sensibilidade, de disponibilidade e de adaptação à inovação e à mudança;
 
-- Fomentar a aquisição aplicação de saberes cada vez mais aprofundados, assentes no estudo, na reflexão crítica, na observação e na experimentação;
+e) Fomentar a aquisição aplicação de saberes cada vez mais aprofundados, assentes no estudo, na reflexão crítica, na observação e na experimentação;
 
-- Assegurar o desenvolvimento do raciocínio, da reflexão  e  da  curiosidade  científica  e  o  aprofundamento  dos  elementos  fundamentais  de uma  cultura  humanística,  artística,  científica, tecnológica  e  técnica  que  constituam  suporte cognitivo e metodológico apropriado, seja para o prosseguimento de estudos, seja para a inserção na vida activa;
+f) Assegurar o desenvolvimento do raciocínio, da reflexão e da curiosidade científica e o aprofundamento dos elementos fundamentais de uma cultura humanística, artística, científica, tecnológica e técnica que constituam suporte cognitivo e metodológico apropriado, seja para o prosseguimento de estudos, seja para a inserção na vida activa;
 
-- Favorecer a orientação e formação profissional dos cidadãos, com vista a uma possível entrada no mundo do emprego e do trabalho;
+g) Favorecer a orientação e formação profissional dos cidadãos, com vista a uma possível entrada no mundo do emprego e do trabalho;
 
-- Facultar  contactos  e  experiências  com  e  no mundo  do  trabalho,  fortalecendo  os  mecanismos de aproximação entre a escola, a vida activa e a comunidade, dinamizando a função inovadora e interventiva da escola;
+h) Facultar contactos e experiências com e no mundo do trabalho, fortalecendo os mecanismos de aproximação entre a escola, a vida activa e a comunidade, dinamizando a função inovadora e interventiva da escola;
 
-- Facultar os conhecimentos necessários à compreensão das manifestações estéticas e culturais e  possibilitar  o  aperfeiçoamento  da  expressão artística.
+i) Facultar os conhecimentos necessários à compreensão das manifestações estéticas e culturais e possibilitar o aperfeiçoamento da expressão artística.
 
 ###### Artigo 15.º Organização
 
-- Tem acesso a qualquer curso do Ensino Secundário quem tenha completado com aproveitamento o Ensino Básico.
+1. Tem acesso a qualquer curso do Ensino Secundário quem tenha completado com aproveitamento o Ensino Básico.
 
-- O  Ensino  Secundário  é constituído  por  um  ciclo de três anos, que integra a 10.ª, a 11.ª e a 12.ª classes.
+2. O Ensino Secundário é constituído por um ciclo de três anos, que integra a 10.ª, a 11.ª e a 12.ª classes.
 
-- Os  seus  objectivos  específicos  decorrem  dos objectivos gerais do Ensino Secundário e são definidos em diploma próprio.
+3. Os seus objectivos específicos decorrem dos objectivos gerais do Ensino Secundário e são definidos em diploma próprio.
 
-- O Ensino Secundário organiza-se em duas vias:
+4. O Ensino Secundário organiza-se em duas vias:
 
 [[END OF PAGE 7]]
 
@@ -328,9 +327,9 @@ O Ensino Secundário tem por objectivos:
 
 N.º 14 - 18 de Fevereiro de 2019  SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA I  SÉRIE 121
 
-- Via do Ensino Geral, preparatória para o prosseguimento de estudos, estruturada  em áreas de estudo;
+a) Via do Ensino Geral, preparatória para o prosseguimento de estudos, estruturada em áreas de estudo;
 
-- Via  Profissionalizante,  orientada  para  a  vida activa e para a integração no mundo  do emprego e do trabalho, estruturada em cursos.
+b) Via Profissionalizante, orientada para a vida activa e para a integração no mundo do emprego e do trabalho, estruturada em cursos.
 
 5. Ambas as vias integram componentes curriculares que  asseguram  a  prossecução  dos  objectivos  deste nível de Ensino preconizados no artigo 11.º.
 
@@ -342,7 +341,7 @@ N.º 14 - 18 de Fevereiro de 2019  SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLIC
 
 ###### Artigo 16.º Universalidade
 
-- O Ensino Secundário é universal.
+1. O Ensino Secundário é universal.
 
 2.  O  Estado  promove  a  criação  de  condições  para alargar a escolaridade obrigatória até 12.ª classe.
 
@@ -360,11 +359,11 @@ N.º 14 - 18 de Fevereiro de 2019  SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLIC
 
 ###### Artigo 18.º Estabelecimentos
 
-- Os estabelecimentos de Ensino Superior integram:
+1. Os estabelecimentos de Ensino Superior integram:
 
-- As  instituições  de  Ensino  Universitário,  que compreendem  as  universidades,  os  institutos universitários  e  outras  instituições  de  Ensino Universitário;
+a) As instituições de Ensino Universitário, que compreendem as universidades, os institutos universitários e outras instituições de Ensino Universitário;
 
-- As  instituições de Ensino Politécnico, que compreendem  os  institutos  politécnicos  e  outras instituições de Ensino Politécnico.
+b) As instituições de Ensino Politécnico, que compreendem os institutos politécnicos e outras instituições de Ensino Politécnico.
 
 2. Os institutos universitários e as outras instituições de Ensino Superior Universitário e Politécnico compartilham  do  regime  das  universidades  e  dos  institutos politécnicos, conforme os casos, incluindo a autonomia e o governo próprio, com as necessárias adaptações.
 
@@ -372,13 +371,13 @@ N.º 14 - 18 de Fevereiro de 2019  SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLIC
 
 São objectivos do Ensino Superior:
 
-- Desenvolver capacidade de concepção, de inovação, de investigação, de análise crítica  e  de decisão;
+a) Desenvolver capacidade de concepção, de inovação, de investigação, de análise crítica e de decisão;
 
-- Formar quadros nas diferentes áreas de conhecimento, aptos para a inserção em sectores profissionais e para a participação no desenvolvimento da sociedade;
+b) Formar quadros nas diferentes áreas de conhecimento, aptos para a inserção em sectores profissionais e para a participação no desenvolvimento da sociedade;
 
-- Estimular  o  pensamento  reflexivo,  a  criação cultural,  o  desenvolvimento  do espírito  científico e a capacidade empreendedora;
+c) Estimular o pensamento reflexivo, a criação cultural, o desenvolvimento do espírito científico e a capacidade empreendedora;
 
-- Incentivar  o  trabalho  de  pesquisa  e  investigação  científica,  visando  o  desenvolvimento  da ciência e da tecnologia e a criação e difusão da cultura, e, desse modo, aumentar a capacidade
+d) Incentivar o trabalho de pesquisa e investigação científica, visando o desenvolvimento da ciência e da tecnologia e a criação e difusão da cultura, e, desse modo, aumentar a capacidade
 
 [[END OF PAGE 8]]
 
@@ -386,25 +385,25 @@ São objectivos do Ensino Superior:
 
 122 I  SÉRIE SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA N.º 14 - 18 de Fevereiro de 2019
 
-- de compreensão e transformação das condições de existência e de realização do homem na sociedade e no mundo em que vive;
+de compreensão e transformação das condições de existência e de realização do homem na sociedade e no mundo em que vive;
 
-- Promover a divulgação de conhecimentos científicos, culturais e técnicos que constituem património  da  humanidade  e  comunicar  o  saber através do ensino, de publicações ou de outras formas de comunicação;
+e) Promover a divulgação de conhecimentos científicos, culturais e técnicos que constituem património da humanidade e comunicar o saber através do ensino, de publicações ou de outras formas de comunicação;
 
-- Estimular  o  conhecimento  e  análise  dos  problemas  nacionais  e  do  mundo  actual,  prestar serviços especializados à comunidade e estabelecer com esta uma relação de reciprocidade;
+f) Estimular o conhecimento e análise dos problemas nacionais e do mundo actual, prestar serviços especializados à comunidade e estabelecer com esta uma relação de reciprocidade;
 
-- Estimular e apoiar a formação cultural técnica e  profissional  dos  cidadãos  pela  promoção  de formas adequadas de extensão cultural;
+g) Estimular e apoiar a formação cultural técnica e profissional dos cidadãos pela promoção de formas adequadas de extensão cultural;
 
-- Encorajar a busca de conhecimento permanente para  o  aperfeiçoamento  intelectual,  cultural, técnico  e  profissional,  favorecendo  a  integração e aplicação dos saberes que vão sendo adquiridos ao longo das gerações, na perspectiva de educação e de desenvolvimento de competências ao longo da vida;
+h) Encorajar a busca de conhecimento permanente para o aperfeiçoamento intelectual, cultural, técnico e profissional, favorecendo a integração e aplicação dos saberes que vão sendo adquiridos ao longo das gerações, na perspectiva de educação e de desenvolvimento de competências ao longo da vida;
 
-- Contribuir  para  a  modernização  do  Sistema Educativo  a  todos  os  níveis,  designadamente através  da  promoção  do  conhecimento  e  da pesquisa,  adopção  e  disseminação  de  novas metodologias de ensino.
+i) Contribuir para a modernização do Sistema Educativo a todos os níveis, designadamente através da promoção do conhecimento e da pesquisa, adopção e disseminação de novas metodologias de ensino.
 
 ###### Artigo 20.º Organização
 
-- O Ensino Superior compreende o Ensino Universitário e o Ensino Politécnico:
+1. O Ensino Superior compreende o Ensino Universitário e o Ensino Politécnico:
 
-- O  Ensino  Universitário  é  ministrado  em  universidades  e  em  escolas  universitárias  não  integradas;
+a) O Ensino Universitário é ministrado em universidades e em escolas universitárias não integradas;
 
-- O Ensino Politécnico é ministrado em institutos politécnicos e em escolas superiores  especializadas.
+b) O Ensino Politécnico é ministrado em institutos politécnicos e em escolas superiores especializadas.
 
 2.  O  Ensino Universitário assegura uma sólida preparação científica e cultural, através da qual, aliando o Ensino e a investigação, contribui para a produção de conhecimento,  aquisição  de  competências  que  habilitem  para  o  exercício  de  actividades  profissionais  e culturais que requeiram elevados níveis de qualificação e  para  o  desenvolvimento  de  capacidades  de  concepção, de inovação e de análise crítica.
 
@@ -414,13 +413,13 @@ São objectivos do Ensino Superior:
 
 ###### Artigo 21.º Organização e reconhecimento da formação
 
-- A organização da formação ministrada pelos estabelecimentos  de  Ensino  Superior  obedece  ao  sistema de créditos, tendo em consideração o seguinte:
+1. A organização da formação ministrada pelos estabelecimentos de Ensino Superior obedece ao sistema de créditos, tendo em consideração o seguinte:
 
-- Os créditos são a medida do número de horas de trabalho do estudante;
+a) Os créditos são a medida do número de horas de trabalho do estudante;
 
-- O número de horas de trabalho do estudante a considerar na definição do número de créditos inclui  todas  as  formas  de  trabalho  académico previstas, designadamente, as horas de contacto e  as  horas  dedicadas  a  estágios,  trabalhos  no terreno, estudo individual ou colectivo e avaliação.
+b) O número de horas de trabalho do estudante a considerar na definição do número de créditos inclui todas as formas de trabalho académico previstas, designadamente, as horas de contacto e as horas dedicadas a estágios, trabalhos no terreno, estudo individual ou colectivo e avaliação.
 
-- A mobilidade dos alunos entre os estabelecimentos  de  Ensino  Superior  nacionais,  do  mesmo  ou  de diferentes subsistemas, bem como entre estabelecimentos de Ensino Superior estrangeiros e nacionais, é assegurada  através  do  sistema  de  créditos,  com  base  no princípio do reconhecimento mútuo do valor da formação e das competências adquiridas.
+2. A mobilidade dos alunos entre os estabelecimentos de Ensino Superior nacionais, do mesmo ou de diferentes subsistemas, bem como entre estabelecimentos de Ensino Superior estrangeiros e nacionais, é assegurada através do sistema de créditos, com base no princípio do reconhecimento mútuo do valor da formação e das competências adquiridas.
 
 3. Os estabelecimentos de Ensino reconhecem, através  do  sistema  de  crédito,  as  competências  profissionais  e,  em  particular,  a  formação  pós-secundária  dos que  neles  sejam  admitidos,  através  das  modalidades especiais de acesso, a definir através do diploma a que se refere o n.º 4 do artigo anterior.
 
@@ -434,55 +433,55 @@ N.º 14 - 18 de Fevereiro de 2019  SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLIC
 
 ###### Artigo 22.º Graus académicos e diplomas
 
-- No Ensino Superior são conferidos os graus académicos de licenciado, mestre e doutor.
+1. No Ensino Superior são conferidos os graus académicos de licenciado, mestre e doutor.
 
-- Os  estabelecimentos  de  Ensino  Superior  podem, nos termos do presente Diploma, ministrar cursos não conferentes  de  grau  académico,  cuja  conclusão,  com aproveitamento, confere a atribuição de um diploma.
+2. Os estabelecimentos de Ensino Superior podem, nos termos do presente Diploma, ministrar cursos não conferentes de grau académico, cuja conclusão, com aproveitamento, confere a atribuição de um diploma.
 
-- Nos termos a definir por decreto-lei, cabe apenas aos estabelecimentos de Ensino Universitário organizar cursos ou programas de pós-doutoramento.
+3. Nos termos a definir por decreto-lei, cabe apenas aos estabelecimentos de Ensino Universitário organizar cursos ou programas de pós-doutoramento.
 
-- Os  ciclos  de  estudos  conducentes  ao  grau  de  licenciado, mestre ou doutor podem ser organizados por etapas,  conferindo-se,  no  final  de  cada  etapa,  um  diploma.
+4. Os ciclos de estudos conducentes ao grau de licenciado, mestre ou doutor podem ser organizados por etapas, conferindo-se, no final de cada etapa, um diploma.
 
-- Só  podem  conferir  grau  académico  numa  determinada  área,  os  estabelecimentos  de  Ensino  Superior que, por disporem de um corpo docente próprio, qualificado nessa área e demais recursos humanos e materiais  que  garantam  o  nível  e  a  qualidade  da  formação adquirida,  estejam,  para  tanto,  devidamente  acreditados, nos termos da lei.
+5. Só podem conferir grau académico numa determinada área, os estabelecimentos de Ensino Superior que, por disporem de um corpo docente próprio, qualificado nessa área e demais recursos humanos e materiais que garantam o nível e a qualidade da formação adquirida, estejam, para tanto, devidamente acreditados, nos termos da lei.
 
-- Os  estabelecimentos  de  Ensino  Superior  podem associar-se  com  outros  estabelecimentos  de  Ensino Superior, nacionais ou estrangeiros, para conferirem os graus  académicos  e  atribuírem  os  diplomas  previstos nos artigos seguintes.
+6. Os estabelecimentos de Ensino Superior podem associar-se com outros estabelecimentos de Ensino Superior, nacionais ou estrangeiros, para conferirem os graus académicos e atribuírem os diplomas previstos nos artigos seguintes.
 
-- As  instituições  de  Ensino  Universitário  podem conferir graus académicos de licenciado, mestre, doutor diploma de cursos pós-doutoramento.
+7. As instituições de Ensino Universitário podem conferir graus académicos de licenciado, mestre, doutor diploma de cursos pós-doutoramento.
 
-- As instituições de Ensino Politécnico podem conferir graus académicos de licenciado e mestre.
+8. As instituições de Ensino Politécnico podem conferir graus académicos de licenciado e mestre.
 
 ###### Artigo 23.º Licenciatura
 
-- O grau de licenciado comprova uma sólida formação cultural,  científica e  técnica  que  permita  aprofundar os conhecimentos e competências, com vista à especialização, numa determinada área do saber e a uma adequada inserção profissional.
+1. O grau de licenciado comprova uma sólida formação cultural, científica e técnica que permita aprofundar os conhecimentos e competências, com vista à especialização, numa determinada área do saber e a uma adequada inserção profissional.
 
 2. O grau de licenciado é conferido nos subsistemas de Ensino Universitário e Politécnico.
 
-- O grau de licenciado é conferido após um ciclo de estudos, com um número de créditos que corresponda a uma  duração  compreendida  entre  9  a  10  semestres curriculares de trabalho.
+3. O grau de licenciado é conferido após um ciclo de estudos, com um número de créditos que corresponda a uma duração compreendida entre 9 a 10 semestres curriculares de trabalho.
 
-- A obtenção do grau de licenciado em determinadas  áreas  pode  ser  condicionada  ao  cumprimento  de um número de créditos superior ao previsto no número anterior, a definir nos termos da lei.
+4. A obtenção do grau de licenciado em determinadas áreas pode ser condicionada ao cumprimento de um número de créditos superior ao previsto no número anterior, a definir nos termos da lei.
 
-- A conclusão com aproveitamento do grau de licenciado é comprovada por uma carta de curso.
+5. A conclusão com aproveitamento do grau de licenciado é comprovada por uma carta de curso.
 
 ###### Artigo 24.º Mestrado
 
-- O grau de mestre é conferido no Ensino Universitário e nas instituições de Ensino Politécnico.
+1. O grau de mestre é conferido no Ensino Universitário e nas instituições de Ensino Politécnico.
 
-- O grau de mestre comprova um nível aprofundado de  conhecimentos  numa  área  científica  específica  e capacidade para a prática de investigação fundamental, aplicada ou adaptativa.
+2. O grau de mestre comprova um nível aprofundado de conhecimentos numa área científica específica e capacidade para a prática de investigação fundamental, aplicada ou adaptativa.
 
-- O curso de mestrado compreende a frequência do respectivo programa de especialização e a apresentação de uma dissertação original.
+3. O curso de mestrado compreende a frequência do respectivo programa de especialização e a apresentação de uma dissertação original.
 
-- Têm  acesso  ao  ciclo  de  estudos  conducente  ao grau de mestre:
+4. Têm acesso ao ciclo de estudos conducente ao grau de mestre:
 
-- Os titulares do grau de licenciado;
+a) Os titulares do grau de licenciado;
 
-- Os titulares de um grau académico superior estrangeiro que seja reconhecido e que satisfaça os objectivos do grau de licenciado pelo órgão científico estatutariamente competente do estabelecimento  de  Ensino  Superior  onde  pretendem ser admitidos.
+b) Os titulares de um grau académico superior estrangeiro que seja reconhecido e que satisfaça os objectivos do grau de licenciado pelo órgão científico estatutariamente competente do estabelecimento de Ensino Superior onde pretendem ser admitidos.
 
-- O  grau  de  mestre  é  conferido  após  a  conclusão, com aproveitamento, de um ciclo de estudos com um número de créditos a que corresponda uma duração de quatro semestres curriculares.
+5. O grau de mestre é conferido após a conclusão, com aproveitamento, de um ciclo de estudos com um número de créditos a que corresponda uma duração de quatro semestres curriculares.
 
-- A  conclusão,  com  aproveitamento,  do  grau  de mestre é certificada por uma carta magistral.
+6. A conclusão, com aproveitamento, do grau de mestre é certificada por uma carta magistral.
 
 ###### Artigo 25.º Doutoramento
 
-- O  grau de doutor comprova a realização de uma contribuição inovadora e original para o progresso do conhecimento, um alto nível cultural numa determina-
+1. O grau de doutor comprova a realização de uma contribuição inovadora e original para o progresso do conhecimento, um alto nível cultural numa determina-
 
 [[END OF PAGE 10]]
 
@@ -492,29 +491,29 @@ N.º 14 - 18 de Fevereiro de 2019  SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLIC
 
 da área do conhecimento e aptidão para a realização de trabalho científico independente.
 
-- O grau de doutor é conferido no Ensino Universitário.
+2. O grau de doutor é conferido no Ensino Universitário.
 
-- Têm  acesso  ao  ciclo  de  estudos  conducente  ao grau de doutor:
+3. Têm acesso ao ciclo de estudos conducente ao grau de doutor:
 
-- Os titulares do grau de mestre;
+a) Os titulares do grau de mestre;
 
-- Os  licenciados  titulares  de  um  currículo  académico, científico ou profissional que, por deliberação do órgão estatutariamente competente do estabelecimento de Ensino Superior onde pretendam ser admitidos, seja reconhecido como atestando capacidade para realização deste ciclo de estudos.
+b) Os licenciados titulares de um currículo académico, científico ou profissional que, por deliberação do órgão estatutariamente competente do estabelecimento de Ensino Superior onde pretendam ser admitidos, seja reconhecido como atestando capacidade para realização deste ciclo de estudos.
 
-- Só podem conferir o grau de doutor numa determinada  área,  os  estabelecimentos  de  Ensino  Superior Universitário  que  demonstrem  possuir,  nessa  área,  os recursos  humanos  e  organizativos  necessários  à  realização  de  investigação  e  uma  experiência  acumulada nesse domínio, sujeita a avaliação e concretizada numa produção científica e académica relevantes.
+4. Só podem conferir o grau de doutor numa determinada área, os estabelecimentos de Ensino Superior Universitário que demonstrem possuir, nessa área, os recursos humanos e organizativos necessários à realização de investigação e uma experiência acumulada nesse domínio, sujeita a avaliação e concretizada numa produção científica e académica relevantes.
 
-- A  conclusão,  com  aproveitamento,  do  grau  de doutor é certificada por uma carta doutoral.
+5. A conclusão, com aproveitamento, do grau de doutor é certificada por uma carta doutoral.
 
 ###### Artigo 26.º Formação pós-secundária
 
-- Os  estabelecimentos  de  Ensino  Superior  podem ainda  realizar  cursos  de  Ensino  Pós-Secundário  Não Superior,  visando  a  Formação  Profissional  Especializada.
+1. Os estabelecimentos de Ensino Superior podem ainda realizar cursos de Ensino Pós-Secundário Não Superior, visando a Formação Profissional Especializada.
 
-- Os titulares dos cursos referidos no número anterior estão habilitados a concorrer ao acesso e ingresso no  Ensino  Superior,  sendo  a  formação  superior  neles realizada creditável no âmbito do curso em que sejam admitidos.
+2. Os titulares dos cursos referidos no número anterior estão habilitados a concorrer ao acesso e ingresso no Ensino Superior, sendo a formação superior neles realizada creditável no âmbito do curso em que sejam admitidos.
 
 ###### Artigo 27.º Doutoramento «honoris causa»
 
-- As universidades podem conferir o grau de doutor «honoris  causa»  a  individualidades  eminentes  nacionais  ou  estrangeiras,  nos  termos  e  condições  que  vierem a constar de regulamento a elaborar por cada instituição.
+1. As universidades podem conferir o grau de doutor «honoris causa» a individualidades eminentes nacionais ou estrangeiras, nos termos e condições que vierem a constar de regulamento a elaborar por cada instituição.
 
-- A  atribuição  de  doutoramento  «honoris causa» a individualidades  estrangeiras  deve  ser  precedida  de audição do membro do Governo encarregue pela área dos Negócios Estrangeiros.
+2. A atribuição de doutoramento «honoris causa» a individualidades estrangeiras deve ser precedida de audição do membro do Governo encarregue pela área dos Negócios Estrangeiros.
 
 ###### Artigo 28.º Doutoramento «insignis»
 
@@ -526,15 +525,15 @@ O Governo, por decreto-lei, regula as demais condições  de  atribuição  dos 
 
 ###### Artigo 30.º Investigação científica
 
-- O Estado assegura as condições logísticas, tecnológicas  e  culturais,  visando  a  criação  a  investigação científicas.
+1. O Estado assegura as condições logísticas, tecnológicas e culturais, visando a criação a investigação científicas.
 
-- Nas  Instituições  de  Ensino  Superior  são  criadas condições para a promoção da investigação científica, como componente indissociável do processo de desenvolvimento das aprendizagens e das competências curriculares.
+2. Nas Instituições de Ensino Superior são criadas condições para a promoção da investigação científica, como componente indissociável do processo de desenvolvimento das aprendizagens e das competências curriculares.
 
-- A investigação científica no Ensino Superior deve ter em conta os objectivos predominantes da instituição em que se realiza, sem prejuízo da sua perspectivação no sentido da promoção do saber e do progresso e da resolução dos problemas atinentes ao desenvolvimento social, económico e cultural do País.
+3. A investigação científica no Ensino Superior deve ter em conta os objectivos predominantes da instituição em que se realiza, sem prejuízo da sua perspectivação no sentido da promoção do saber e do progresso e da resolução dos problemas atinentes ao desenvolvimento social, económico e cultural do País.
 
-- Os poderes públicos e os estabelecimentos de Ensino Superior devem proporcionar condições que assegurem a publicação dos trabalhos científicos, bem como a divulgação dos novos conhecimentos e perspectivas  do  pensamento  científico,  dos  avanços tecnológicos e da criação cultural.
+4. Os poderes públicos e os estabelecimentos de Ensino Superior devem proporcionar condições que assegurem a publicação dos trabalhos científicos, bem como a divulgação dos novos conhecimentos e perspectivas do pensamento científico, dos avanços tecnológicos e da criação cultural.
 
-- Incumbe ao Estado incentivar e apoiar a cooperação  entre  as  entidades  públicas,  privadas  e  cooperativas, no sentido de fomentar o desenvolvimento da ciência,  da  tecnologia  e  da  cultura,  tendo  em  vista, particularmente, a satisfação dos interesses da colectividade.
+5. Incumbe ao Estado incentivar e apoiar a cooperação entre as entidades públicas, privadas e cooperativas, no sentido de fomentar o desenvolvimento da ciência, da tecnologia e da cultura, tendo em vista, particularmente, a satisfação dos interesses da colectividade.
 
 [[END OF PAGE 11]]
 
@@ -550,23 +549,23 @@ I  SÉRIE 125
 
 2.  Sem  prejuízo  do  disposto  no  número  anterior,  o Governo regula, por decreto-lei, o regime de financiamento  do  Ensino  Superior,  tendo  em  conta,  designadamente, os seguintes princípios:
 
-- Princípio da comparticipação financeira do Estado, entendido no sentido de que a este cabe contribuir, na medida dos recursos disponíveis, para  fomentar  o  acesso  ao  Ensino  Superior  e maximizar  a  capacitação  e  especialização  dos recursos  humanos  em  áreas  relevantes  para  o desenvolvimento;
+a) Princípio da comparticipação financeira do Estado, entendido no sentido de que a este cabe contribuir, na medida dos recursos disponíveis, para fomentar o acesso ao Ensino Superior e maximizar a capacitação e especialização dos recursos humanos em áreas relevantes para o desenvolvimento;
 
-- Princípio da universalidade, entendido como o direito de acesso de todas as instituições de Ensino Superior e dos respectivos estudantes aos mecanismos  de  financiamento  público  previstos na lei;
+b) Princípio da universalidade, entendido como o direito de acesso de todas as instituições de Ensino Superior e dos respectivos estudantes aos mecanismos de financiamento público previstos na lei;
 
-- Princípios  da  socialização  dos  custos,  que  se traduz no dever dos estudantes de Ensino Superior assumirem a responsabilidade no financiamento dos custos da sua formação superior, sem prejuízo do disposto na lei;
+c) Princípios da socialização dos custos, que se traduz no dever dos estudantes de Ensino Superior assumirem a responsabilidade no financiamento dos custos da sua formação superior, sem prejuízo do disposto na lei;
 
-- Princípio da não exclusão, que se expressa na possibilidade  de  os  estudantes  carenciados  de recursos económicos de beneficiarem de mecanismos  de  financiamento  e  de  programas  de acção  social  que  viabilizem  o  acesso  e  à  frequência do Ensino Superior;
+d) Princípio da não exclusão, que se expressa na possibilidade de os estudantes carenciados de recursos económicos de beneficiarem de mecanismos de financiamento e de programas de acção social que viabilizem o acesso e à frequência do Ensino Superior;
 
-- Princípio da equidade, entendido como o direito das instituições e dos estudantes de beneficiarem do apoio adequado à sua situação concreta;
+e) Princípio da equidade, entendido como o direito das instituições e dos estudantes de beneficiarem do apoio adequado à sua situação concreta;
 
-- Princípio da autonomia, nos termos do qual as Instituições  de  Ensino  Superior,  independentemente da sua natureza jurídica, e sem prejuízo do disposto na lei, devem assegurar a mobilização dos recursos indispensáveis para o financiamento dos custos da formação que ministrarem;
+f) Princípio da autonomia, nos termos do qual as Instituições de Ensino Superior, independentemente da sua natureza jurídica, e sem prejuízo do disposto na lei, devem assegurar a mobilização dos recursos indispensáveis para o financiamento dos custos da formação que ministrarem;
 
-- Princípio  da  sustentabilidade,  que  implica  a necessidade  de  uma  avaliação  sistemática  dos meios e recursos necessários para a implementação das medidas de política e das actividades de Ensino, investigação e extensão, numa lógica de continuidade e de irreversibilidade, com a manutenção dos mais elevados padrões de resultados académicos.
+g) Princípio da sustentabilidade, que implica a necessidade de uma avaliação sistemática dos meios e recursos necessários para a implementação das medidas de política e das actividades de Ensino, investigação e extensão, numa lógica de continuidade e de irreversibilidade, com a manutenção dos mais elevados padrões de resultados académicos.
 
 ###### Artigo 32.º Garantia da qualidade
 
-- O Governo assegura a implementação de um sistema de garantia da qualidade das Instituições de Ensino Superior, mediante a adopção de medidas de política  que  promovam  a  excelência  das  actividades  de ensino, investigação e extensão.
+1. O Governo assegura a implementação de um sistema de garantia da qualidade das Instituições de Ensino Superior, mediante a adopção de medidas de política que promovam a excelência das actividades de ensino, investigação e extensão.
 
 2. O Governo cria, para o efeito e no quadro da orgânica do departamento governamental encarregue pela área do Ensino Superior, uma entidade dotada de independência,  com  competência  para  a  regulação, acreditação e avaliação do Ensino Superior.
 
@@ -574,15 +573,15 @@ I  SÉRIE 125
 
 ###### Artigo 33.º Educação Especial
 
-- A  Educação  Especial  constitui  uma  modalidade de  ensino  destinada  aos  indivíduos  com  necessidades educativas  especiais,  visando  a  sua  integração  sócioeducativa  e,  quando  possível,  a  preparação  para  uma vida activa.
+1. A Educação Especial constitui uma modalidade de ensino destinada aos indivíduos com necessidades educativas especiais, visando a sua integração sócio-educativa e, quando possível, a preparação para uma vida activa.
 
-- Consideram-se necessidades educativas especiais situações,  de  carácter  temporário  ou  permanente,  de existência de limitações físicas, cognitivas e/ou emocionais,  bem  como  as  de  habilidades  superiores,  que requeiram do Sistema Educativo uma resposta específica.
+2. Consideram-se necessidades educativas especiais situações, de carácter temporário ou permanente, de existência de limitações físicas, cognitivas e/ou emocionais, bem como as de habilidades superiores, que requeiram do Sistema Educativo uma resposta específica.
 
-- A educação especial integra actividades dirigidas ao  público  escolar  e  acções  dirigidas  às  famílias,  aos educadores e às comunidades.
+3. A educação especial integra actividades dirigidas ao público escolar e acções dirigidas às famílias, aos educadores e às comunidades.
 
-- Na  educação  especial  destacam-se  os  seguintes objectivos:
+4. Na educação especial destacam-se os seguintes objectivos:
 
-- Desenvolver  as  potencialidades  físicas  e  intelectuais e as possibilidades de comunicação;
+a) Desenvolver as potencialidades físicas e intelectuais e as possibilidades de comunicação;
 
 [[END OF PAGE 12]]
 
@@ -590,59 +589,59 @@ I  SÉRIE 125
 
 126 I  SÉRIE SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA N.º 14 - 18 de Fevereiro de 2019
 
-- Criar condições favoráveis à estabilidade emocional;
+b) Criar condições favoráveis à estabilidade emocional;
 
-- Reduzir  os  eventuais  efeitos  negativos  resultantes das características específicas;
+c) Reduzir os eventuais efeitos negativos resultantes das características específicas;
 
-- Promover a autonomia;
+d) Promover a autonomia;
 
-- Apoiar a inserção familiar, escolar e social;
+e) Apoiar a inserção familiar, escolar e social;
 
-- Preparar  para  uma  adequada  formação  profissional e integração na vida activa;
+f) Preparar para uma adequada formação profissional e integração na vida activa;
 
-- A  educação  especial  organiza-se,  preferencialmente,  segundo  modelos  de  inclusão  e/ou  integração em estabelecimentos de Ensino Regular, com o apoio de educadores especializados e tendo em conta as necessidades de apoio específico.
+5. A educação especial organiza-se, preferencialmente, segundo modelos de inclusão e/ou integração em estabelecimentos de Ensino Regular, com o apoio de educadores especializados e tendo em conta as necessidades de apoio específico.
 
-- A educação especial ocorre também em estruturas educativas específicas, sempre que tal se justifique.
+6. A educação especial ocorre também em estruturas educativas específicas, sempre que tal se justifique.
 
-- A escolaridade para crianças e jovens com necessidades  educativas  especiais  organiza-se  segundo  currículos  e  programas  devidamente  adaptados  às  suas características.
+7. A escolaridade para crianças e jovens com necessidades educativas especiais organiza-se segundo currículos e programas devidamente adaptados às suas características.
 
-- Incumbe ao Estado promover e apoiar a educação especial.
+8. Incumbe ao Estado promover e apoiar a educação especial.
 
-9 As iniciativas de educação especial podem pertencer ao poder central, regional ou local, ou a outras entidades colectivas, designadamente associações de pais e de  moradores,  organizações  cívicas  e  confessionais, organizações  sindicais,  instituições  de  solidariedade social e empresas.
+9. As iniciativas de educação especial podem pertencer ao poder central, regional ou local, ou a outras entidades colectivas, designadamente associações de pais e de moradores, organizações cívicas e confessionais, organizações sindicais, instituições de solidariedade social e empresas.
 
-- Cabe ao Estado promover, a nível nacional, acções  de  sensibilização  e  apoio  à  integração  familiar, escolar, social e profissional dos cidadãos com necessidades especiais.
+10. Cabe ao Estado promover, a nível nacional, acções de sensibilização e apoio à integração familiar, escolar, social e profissional dos cidadãos com necessidades especiais.
 
-- Compete ao Ministério encarregue pela coordenação da política educativa definir, em legislação própria,  as  normas  específicas  da  educação  especial,  nomeadamente no que concerne a:
+11. Compete ao Ministério encarregue pela coordenação da política educativa definir, em legislação própria, as normas específicas da educação especial, nomeadamente no que concerne a:
 
-- Aspectos pedagógicos e técnicos;
+a) Aspectos pedagógicos e técnicos;
 
-- Acessibilidade e adaptação dos equipamentos e espaços físicos;
+b) Acessibilidade e adaptação dos equipamentos e espaços físicos;
 
-- Formação do pessoal especializado.
+c) Formação do pessoal especializado.
 
 ###### Artigo 34.º Ensino Recorrente
 
-- O  Ensino  Recorrente  destina-se  aos  indivíduos que se encontram fora da idade normal de frequência do Ensino Regular.
+1. O Ensino Recorrente destina-se aos indivíduos que se encontram fora da idade normal de frequência do Ensino Regular.
 
-- Este  Ensino  é  também  destinado  aos  indivíduos que não tiveram oportunidade de se enquadrar no Sistema de Educação Escolar na idade normal de formação, tendo em especial atenção a eliminação do analfabetismo.
+2. Este Ensino é também destinado aos indivíduos que não tiveram oportunidade de se enquadrar no Sistema de Educação Escolar na idade normal de formação, tendo em especial atenção a eliminação do analfabetismo.
 
-- Têm acesso a esta modalidade de ensino os indivíduos com idade igual ou superior a 15 anos.
+3. Têm acesso a esta modalidade de ensino os indivíduos com idade igual ou superior a 15 anos.
 
-- Este Ensino confere os mesmos diplomas e certificados  que  o  Ensino  Regular,    sendo  as  formas  de acesso e os métodos de estudos organizados de modo distinto, tendo em conta os grupos etários a que se destinam,  a  experiência  de  vida  adquirida  e  o  nível  de conhecimentos demonstrados.
+4. Este Ensino confere os mesmos diplomas e certificados que o Ensino Regular, sendo as formas de acesso e os métodos de estudos organizados de modo distinto, tendo em conta os grupos etários a que se destinam, a experiência de vida adquirida e o nível de conhecimentos demonstrados.
 
-- Para efeitos de acesso ao Ensino Superior, o disposto no número anterior é aplicável apenas quando o currículo desta modalidade especial seja equivalente ao do Ensino Secundário Regular.
+5. Para efeitos de acesso ao Ensino Superior, o disposto no número anterior é aplicável apenas quando o currículo desta modalidade especial seja equivalente ao do Ensino Secundário Regular.
 
 ###### Artigo 35.º Formação Profissional
 
-- A formação profissional visa preparar para a integração  no  mundo  do  emprego  e  do  trabalho  pelo  desenvolvimento de competências profissionais, que permitam aos indivíduos concretizar os seus projectos de vida e contribuir para o bem-estar e o progresso da sociedade.
+1. A formação profissional visa preparar para a integração no mundo do emprego e do trabalho pelo desenvolvimento de competências profissionais, que permitam aos indivíduos concretizar os seus projectos de vida e contribuir para o bem-estar e o progresso da sociedade.
 
-- A formação profissional desenvolve-se, geralmente, segundo modelos e estruturas próprios, distintos dos do Ensino Regular.
+2. A formação profissional desenvolve-se, geralmente, segundo modelos e estruturas próprios, distintos dos do Ensino Regular.
 
-- Os cursos desta modalidade especial de Educação Escolar conferem diplomas e/ou certificados de formação profissional.
+3. Os cursos desta modalidade especial de Educação Escolar conferem diplomas e/ou certificados de formação profissional.
 
-4. A formação profissional pode ainda ser organizada de forma a permitir aos que a frequentam a conclusão dos Ensinos Básico e/ou Secundário, devendo, para tal,  o  currículo dos cursos e a certificação ser equivalentes aos do Ensino Regular.
+4. A formação profissional pode ainda ser organizada de forma a permitir aos que a frequentam a conclusão dos Ensinos Básico e/ou Secundário, devendo, para tal, o currículo dos cursos e a certificação ser equivalentes aos do Ensino Regular.
 
-O acesso, a estrutura e a organização, bem como o funcionamento da formação profissional são definidos em diploma próprio.
+5. O acesso, a estrutura e a organização, bem como o funcionamento da formação profissional são definidos em diploma próprio.
 
 [[END OF PAGE 13]]
 
@@ -652,33 +651,31 @@ N.º 14 - 18 de Fevereiro de 2019  SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLIC
 
 ###### Artigo 36.º Ensino à distância
 
-- As  autoridades  educacionais  podem  recorrer  a meios  de  comunicação  social  e  às  tecnologias  de  comunicação  e  informação  para  assegurarem  formação complementar, supletiva ou alternativa do Ensino Regular.
+1. As autoridades educacionais podem recorrer a meios de comunicação social e às tecnologias de comunicação e informação para assegurarem formação complementar, supletiva ou alternativa do Ensino Regular.
 
-- O  Ensino  à  Distância  tem  incidência  no  Ensino Recorrente, no Ensino Superior e na Formação Contínua de Professores.
+2. O Ensino à Distância tem incidência no Ensino Recorrente, no Ensino Superior e na Formação Contínua de Professores.
 
-- As  habilitações conferidas pelo Ensino à Distância  devem  ser  definidas  e  reconhecidas  como  equivalentes às alcançadas no Ensino Formal, nos termos de diplomas próprios.
+3. As habilitações conferidas pelo Ensino à Distância devem ser definidas e reconhecidas como equivalentes às alcançadas no Ensino Formal, nos termos de diplomas próprios.
 
 ###### Artigo 37.º Ensino Vocacional
 
-- O Ensino Vocacional consiste na educação de cidadãos  que  demonstrem  talentos  especiais  e  aptidões particulares nos domínios das artes, ciências, educação física e outros e realiza-se em estruturas próprias.
+1. O Ensino Vocacional consiste na educação de cidadãos que demonstrem talentos especiais e aptidões particulares nos domínios das artes, ciências, educação física e outros e realiza-se em estruturas próprias.
 
-- A  formação  vocacional  é  feita  sem  prejuízo  da formação geral, própria da Educação Escolar, de forma a permitir um desenvolvimento global e equilibrado do indivíduo.
+2. A formação vocacional é feita sem prejuízo da formação geral, própria da Educação Escolar, de forma a permitir um desenvolvimento global e equilibrado do indivíduo.
 
 ###### Artigo 38.º Educação e as comunidades são-tomenses no estrangeiro
 
-- São incentivadas e apoiadas as iniciativas educacionais  de  associações  dos  são-tomenses,  assim  como as  actividades  desenvolvidas  por  entidades  estrangeiras, públicas ou privadas, que contribuam para a prossecução das seguintes finalidades:
+1. São incentivadas e apoiadas as iniciativas educacionais de associações dos são-tomenses, assim como as actividades desenvolvidas por entidades estrangeiras, públicas ou privadas, que contribuam para a prossecução das seguintes finalidades:
 
-- Divulgar  a  cultura  são-tomense,  e  preservar  o sentido da nacionalidade;
+a) Divulgar a cultura são-tomense, e preservar o sentido da nacionalidade;
 
-- Facilitar  a  integração  dos  são-tomenses  emigrados na realidade nacionais em que estejam inseridos;
+b) Facilitar a integração dos são-tomenses emigrados na realidade nacionais em que estejam inseridos;
 
-- Contribuir para a preservação do património e da  identidade  culturais  são-tomenses    nas  comunidades emigradas.
+c) Contribuir para a preservação do património e da identidade culturais são-tomenses nas comunidades emigradas.
 
-- A  organização  das  acções  a  que  se  refere  o  presente artigo depende de acordos e protocolos de coope-
+2. A organização das acções a que se refere o presente artigo depende de acordos e protocolos de cooperação entre a República Democrática de São Tomé e Príncipe e os países de acolhimento das comunidades emigradas.
 
-- ração  entre  a  República  Democrática  de  São  Tomé  e Príncipe e os países  de acolhimento das comunidades emigradas.
-
-- Os  termos  e  condições  a  serem  estabelecidos, através  de  protocolos  com  instituições  nacionais  de educação  e  formação,  são  asseguradas  quotas  de  frequência  por  parte  de  alunos  são-tomenses  que,  nos países de emigração em que residam, não tenham possibilidades de prossecução de estudos nos Ensinos Básicos e Secundários.
+3. Os termos e condições a serem estabelecidos, através de protocolos com instituições nacionais de educação e formação, são asseguradas quotas de frequência por parte de alunos são-tomenses que, nos países de emigração em que residam, não tenham possibilidades de prossecução de estudos nos Ensinos Básicos e Secundários.
 
 ###### Artigo 39.º Ensino das Línguas Nacionais
 
@@ -688,15 +685,15 @@ São permitidas e incentivadas iniciativas de âmbito local,  regional  ou  naci
 
 ###### Artigo 40.º Caracterização
 
-- O Ensino Extra-Escolar organiza-se de forma autónoma no que respeita, dentre vários aspectos, a condição de acesso, currículos, programas, avaliação e visa adaptar-se  aos  diferentes  grupos,  às  suas  experiências pessoais,  profissionais  e  conhecimentos  adquiridos  ao longo da vida.
+1. O Ensino Extra-Escolar organiza-se de forma autónoma no que respeita, dentre vários aspectos, a condição de acesso, currículos, programas, avaliação e visa adaptar-se aos diferentes grupos, às suas experiências pessoais, profissionais e conhecimentos adquiridos ao longo da vida.
 
-- A Educação Extra-Escolar caracteriza-se por unidade  capitalizável  e  constitui  uma  modalidade  que apela  à  flexibilidade,  à  adaptabilidade  dos  ritmos  de aprendizagem, à disponibilidade, aos conhecimentos e às experiências de vida dos jovens e adultos.
+2. A Educação Extra-Escolar caracteriza-se por unidade capitalizável e constitui uma modalidade que apela à flexibilidade, à adaptabilidade dos ritmos de aprendizagem, à disponibilidade, aos conhecimentos e às experiências de vida dos jovens e adultos.
 
-- A Educação Extra-Escolar desenvolve-se em dois níveis distintos:
+3. A Educação Extra-Escolar desenvolve-se em dois níveis distintos:
 
-- A  educação  básica  de  adultos  que  abrange  a alfabetização,  a  pós  alfabetização  e  outras  acções de educação permanente, numa perspectiva de elevação do nível cultural;
+a) A educação básica de adultos que abrange a alfabetização, a pós alfabetização e outras acções de educação permanente, numa perspectiva de elevação do nível cultural;
 
-- A aprendizagem e as acções de formação profissional, numa perspectiva de capacitação para o exercício de uma profissão;
+b) A aprendizagem e as acções de formação profissional, numa perspectiva de capacitação para o exercício de uma profissão;
 
 [[END OF PAGE 14]]
 
@@ -704,53 +701,53 @@ São permitidas e incentivadas iniciativas de âmbito local,  regional  ou  naci
 
 128 I  SÉRIE SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA N.º 14 - 18 de Fevereiro de 2019
 
-- Em cada um desses níveis desenrola-se processos  educativos  próprios  de  uma  educação  formal e não formal.
+c) Em cada um desses níveis desenrola-se processos educativos próprios de uma educação formal e não formal.
 
 ###### Artigo 41.º Objectivos
 
-- A  Educação  Extra-Escolar  tem  como  principais objectivos:
+1. A Educação Extra-Escolar tem como principais objectivos:
 
-- Permitir a cada indivíduo aumentar os seus conhecimentos e desenvolver as suas potencialidades,  em  complemento  da  formação  escolar ou em suprimento da sua carência, numa perspectiva de educação ao longo da vida;
+a) Permitir a cada indivíduo aumentar os seus conhecimentos e desenvolver as suas potencialidades, em complemento da formação escolar ou em suprimento da sua carência, numa perspectiva de educação ao longo da vida;
 
-- Complementar a preparação para a vida activa e  para  uma integração dinâmica no mundo do trabalho;
+b) Complementar a preparação para a vida activa e para uma integração dinâmica no mundo do trabalho;
 
-- Contribuir para a efectiva igualdade de oportunidades educativas e profissionais dos que não frequentaram o Sistema Regular do Ensino ou o abandonaram precocemente;
+c) Contribuir para a efectiva igualdade de oportunidades educativas e profissionais dos que não frequentaram o Sistema Regular do Ensino ou o abandonaram precocemente;
 
-- Desenvolver  aptidões  tecnológicas  e  saberes técnicos  que  permitam  aos  cidadãos  adaptarem-se às mudanças da sociedade;
+d) Desenvolver aptidões tecnológicas e saberes técnicos que permitam aos cidadãos adaptarem-se às mudanças da sociedade;
 
-- Promover atitudes de solidariedade social e de participação na vida da comunidade;
+e) Promover atitudes de solidariedade social e de participação na vida da comunidade;
 
-- Assegurar  a  ocupação  criativa  dos  tempos  livres dos cidadãos com actividades de natureza cultural.
+f) Assegurar a ocupação criativa dos tempos livres dos cidadãos com actividades de natureza cultural.
 
-- A  Educação  Extra-Escolar  abrange  programas  e iniciativas de educação não-formal.
+2. A Educação Extra-Escolar abrange programas e iniciativas de educação não-formal.
 
-- As  actividades  de  Educação  Extra-Escolar  realizam-se em estruturas de extensão cultural do Sistema Escolar, ou outras, com recurso a meios de comunicação e tecnologias educativas específicas adequadas.
+3. As actividades de Educação Extra-Escolar realizam-se em estruturas de extensão cultural do Sistema Escolar, ou outras, com recurso a meios de comunicação e tecnologias educativas específicas adequadas.
 
-- Compete ao Estado promover a realização de actividades  extra-escolares  e  apoiar  as  que,  neste  domínio, sejam da iniciativa das autarquias, das associações de estudantes, dos organismos sindicais e comissões de trabalhadores, de organizações cívicas e outras.
+4. Compete ao Estado promover a realização de actividades extra-escolares e apoiar as que, neste domínio, sejam da iniciativa das autarquias, das associações de estudantes, dos organismos sindicais e comissões de trabalhadores, de organizações cívicas e outras.
 
 ###### Artigo 42.º Tempos livres e Desporto Escolar e Universitário
 
-- As  actividades  curriculares  dos  diferentes  níveis de  ensino  são  complementadas  por  acções  orientadas para  a  formação  integral  e  a  realização  pessoal  dos alunos no sentido da utilização criativa e formativa dos seus tempos livres.
+1. As actividades curriculares dos diferentes níveis de ensino são complementadas por acções orientadas para a formação integral e a realização pessoal dos alunos no sentido da utilização criativa e formativa dos seus tempos livres.
 
-- Estas  actividades  de  complemento  curricular  visam, nomeadamente, o enriquecimento cultural e cívico, a educação física e desportiva, a educação artística e a inserção dos alunos.
+2. Estas actividades de complemento curricular visam, nomeadamente, o enriquecimento cultural e cívico, a educação física e desportiva, a educação artística e a inserção dos alunos.
 
-- As  actividades  de  complemento  curricular  têm âmbito nacional, regional ou local e, nos dois últimos casos, podem ser da iniciativa de cada escola ou grupo de escolas.
+3. As actividades de complemento curricular têm âmbito nacional, regional ou local e, nos dois últimos casos, podem ser da iniciativa de cada escola ou grupo de escolas.
 
-- As actividades de ocupação dos tempos livres devem  valorizar  a  participação  e  o  desenvolvimento  do cidadão na sua organização, desenvolvimento e avaliação.
+4. As actividades de ocupação dos tempos livres devem valorizar a participação e o desenvolvimento do cidadão na sua organização, desenvolvimento e avaliação.
 
-- O Desporto Escolar e Universitário visa, especificamente, a promoção da saúde e da condição física, a aquisição  de  hábitos  e  condutas  motoras  e  o  entendimento do desporto como factor de cultura, estimulando sentimentos de solidariedade, cooperação, autonomia e criatividade, devendo ser fomentada a sua gestão pelos estudantes praticantes, salvaguardando-se a orientação por profissionais qualificados.
+5. O Desporto Escolar e Universitário visa, especificamente, a promoção da saúde e da condição física, a aquisição de hábitos e condutas motoras e o entendimento do desporto como factor de cultura, estimulando sentimentos de solidariedade, cooperação, autonomia e criatividade, devendo ser fomentada a sua gestão pelos estudantes praticantes, salvaguardando-se a orientação por profissionais qualificados.
 
 ### CAPÍTULO III Apoios e Complementos Educativos
 
 ###### Artigo 43.º Promoção do sucesso escolar
 
-- São  estabelecidas  e  desenvolvidas  actividades  e medidas de apoio e complemento educativos, visando contribuir para a igualdade de oportunidades de acesso e do sucesso escolar.
+1. São estabelecidas e desenvolvidas actividades e medidas de apoio e complemento educativos, visando contribuir para a igualdade de oportunidades de acesso e do sucesso escolar.
 
-- Os apoios e complementos educativos são aplicados prioritariamente na escolaridade obrigatória.
+2. Os apoios e complementos educativos são aplicados prioritariamente na escolaridade obrigatória.
 
 ###### Artigo 44.º Educação parental
 
-- A educação parental é o serviço de apoio e orientação aos pais ou outros cuidadores para a qualidade e exercício  da  parentalidade  nas  famílias  biológicas,  de
+1. A educação parental é o serviço de apoio e orientação aos pais ou outros cuidadores para a qualidade e exercício da parentalidade nas famílias biológicas, de
 
 [[END OF PAGE 15]]
 
@@ -762,17 +759,17 @@ I  SÉRIE 129
 
 acolhimento  ou  em  instituições  vocacionadas  para  o acompanhamento de crianças e jovens.
 
-- A  educação  parental  visa  promover  uma  melhor articulação escola/família, que potencie as possibilidades  de  desenvolvimento  equilibrado  e  saudável,  e  de sucesso escolar de crianças e jovens.
+2. A educação parental visa promover uma melhor articulação escola/família, que potencie as possibilidades de desenvolvimento equilibrado e saudável, e de sucesso escolar de crianças e jovens.
 
-- As linhas orientadoras para a concretização desta medida são desenvolvidas e legislação própria.
+3. As linhas orientadoras para a concretização desta medida são desenvolvidas e legislação própria.
 
 ###### Artigo 45.º Acção Social Escolar
 
-- São  desenvolvidos,  no  âmbito  da  Educação  PréEscolar e da Educação Escolar, serviços de Acção Social  Escolar,  concretizados  através  da  aplicação  de critérios  de  discriminação  positiva  que  visem  a  compensação  social  e  educativa  dos  indivíduos  economicamente mais carenciados.
+1. São desenvolvidos, no âmbito da Educação Pré-Escolar e da Educação Escolar, serviços de Acção Social Escolar, concretizados através da aplicação de critérios de discriminação positiva que visem a compensação social e educativa dos indivíduos economicamente mais carenciados.
 
-- Os serviços de Acção Social Escolar traduzem-se num conjunto  diversificado  de  acções,  que  incluem  a comparticipação  em  serviços  de  cantina,  manuais  e material escolar e na concessão de bolsas de estudo e outras.
+2. Os serviços de Acção Social Escolar traduzem-se num conjunto diversificado de acções, que incluem a comparticipação em serviços de cantina, manuais e material escolar e na concessão de bolsas de estudo e outras.
 
-- O  âmbito e normas da Acção Social Escolar são estabelecidos em legislação específica.
+3. O âmbito e normas da Acção Social Escolar são estabelecidos em legislação específica.
 
 ###### Artigo 46.º Apoios aos alunos com necessidades educativas especiais
 
@@ -780,13 +777,13 @@ Nos estabelecimentos de Ensino são asseguradas as condições básicas de acess
 
 ###### Artigo 47.º Apoio psicológico, orientação escolar e mediação
 
-- Nos estabelecimentos de Ensino assegura-se:
+1. Nos estabelecimentos de Ensino assegura-se:
 
-- O apoio ao desenvolvimento psico-pedagógico;
+a) O apoio ao desenvolvimento psico-pedagógico;
 
-- A orientação escolar, profissional e vocacional;
+b) A orientação escolar, profissional e vocacional;
 
-- A mediação de relações na comunidade escolar.
+c) A mediação de relações na comunidade escolar.
 
 ###### Artigo 48.º Apoio de Saúde Escolar
 
@@ -794,23 +791,23 @@ Nos estabelecimentos de Ensino são asseguradas as condições básicas de acess
 
 ###### Artigo 49.º Apoio a trabalhadores-estudantes
 
-- Aos  trabalhadores-  estudantes  é  proporcionado um regime especial de estudos que tenha em consideração a sua situação e que lhes permita a aquisição de conhecimentos, a progressão no Sistema de Ensino e o acesso  a  oportunidades  de  formação  adaptadas  à  sua valorização pessoal, social e profissional.
+1. Aos trabalhadores- estudantes é proporcionado um regime especial de estudos que tenha em consideração a sua situação e que lhes permita a aquisição de conhecimentos, a progressão no Sistema de Ensino e o acesso a oportunidades de formação adaptadas à sua valorização pessoal, social e profissional.
 
-- O estatuto de trabalhador-estudante é definido em diploma próprio.
+2. O estatuto de trabalhador-estudante é definido em diploma próprio.
 
 ###### Artigo 50.º Bolsas de estudo
 
-- O Governo define os critérios de atribuição de bolsas  de  estudo  para  os  diferentes  níveis  de  ensino  e constitui a comissão que faz a respectiva distribuição.
+O Governo define os critérios de atribuição de bolsas de estudo para os diferentes níveis de ensino e constitui a comissão que faz a respectiva distribuição.
 
 ### CAPÍTULO IV Recursos Humanos
 
 ###### Artigo 51.º Qualificação para a docência
 
-- A orientação das actividades pedagógicas na Educação Pré-Escolar e nos Ensinos Básico e Secundário é assegurada por Educadores de Infância e por Professores, respectivamente, detentores de qualificação profissional para a docência.
+1. A orientação das actividades pedagógicas na Educação Pré-Escolar e nos Ensinos Básico e Secundário é assegurada por Educadores de Infância e por Professores, respectivamente, detentores de qualificação profissional para a docência.
 
-- Considera-se qualificação profissional para a docência  a  que  é  obtida  através  de  cursos  de  formação inicial, de nível de licenciatura, ministrados em escolas superiores  ou  em  universidades,  organizados  nos  termos estatuídos na presente Lei e que qualificam profissionalmente para o nível de ensino no qual foi realizado o estágio/prática pedagógica.
+2. Considera-se qualificação profissional para a docência a que é obtida através de cursos de formação inicial, de nível de licenciatura, ministrados em escolas superiores ou em universidades, organizados nos termos estatuídos na presente Lei e que qualificam profissionalmente para o nível de ensino no qual foi realizado o estágio/prática pedagógica.
 
-- A  qualificação profissional também pode ser adquirida mediante a realização de formação em exercício, nos termos da presente Lei.
+3. A qualificação profissional também pode ser adquirida mediante a realização de formação em exercício, nos termos da presente Lei.
 
 [[END OF PAGE 16]]
 
@@ -818,9 +815,19 @@ Nos estabelecimentos de Ensino são asseguradas as condições básicas de acess
 
 130 I  SÉRIE SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA N.º 14 - 18 de Fevereiro de 2019
 
-4. Consideram-se ainda como detentores de qualificação  profissional  para  docência  os  titulares  de  um bacharelato que tinham, entretanto, realizado cursos de complemento de formação para Professores, com equivalência ao grau de licenciado, adequados ao nível de ensino em que pretendem exercer a actividade. 5.  Transitória  e  excepcionalmente,  enquanto  as  necessidades  do  sistema  não  puderem  ser  inteiramente satisfeitas por docentes com habilitação profissional, a docência nos níveis de ensino referidos no n.º 1 pode ser assegurada por indivíduos detentores de habilitação própria ou habilitação suficiente. 6.  São  detentores  de  habilitação  própria  para  a  docência  os  titulares  de  diploma  de  bacharelato  ou  de licenciatura que integre uma componente de formação cientifica,  tecnológica,  técnica  ou  artística  correspondente à(s) área(s) do currículo escolar; 7. São detentores de habilitação suficiente para a docência  os  indivíduos  que,  não  possuindo  diploma  de estudos superiores, estejam a frequentar cursos superiores ou sejam detentores de outras certificações consideradas  como  minimamente adequadas para o exercício da função pelas autoridades competentes. 8. Compete ao Estado, através de parcerias com entidades e instituições ligadas ao Sector Educativo, criar condições que permitam aos detentores de habilitação própria e de habilitação suficiente adquirir, em tempo razoável, a qualificação profissional, através de mecanismos  de  formação  e  certificação  diversificados  e devidamente enquadrados por legislação própria. 9.  A docência no Ensino Superior é assegurada por habilitados  com  os  graus  de  doutor  ou  mestre,  bem como por licenciados  que  tenham  prestado  provas  de aptidão  pedagógica  e  capacidade  científica,  podendo ainda exercer a docência outras individualidades reconhecidamente qualificadas. or  indivíduos  habilitados  com  grau  de  licenciado  ou equivalente que não tenham prestado provas de aptidão
+4. Consideram-se ainda como detentores de qualificação profissional para docência os titulares de um bacharelato que tinham, entretanto, realizado cursos de complemento de formação para Professores, com equivalência ao grau de licenciado, adequados ao nível de ensino em que pretendem exercer a actividade.
 
-10. Podem coadjuvar na docência do Ensino Superipedagógica.
+5. Transitória e excepcionalmente, enquanto as necessidades do sistema não puderem ser inteiramente satisfeitas por docentes com habilitação profissional, a docência nos níveis de ensino referidos no n.º 1 pode ser assegurada por indivíduos detentores de habilitação própria ou habilitação suficiente.
+
+6. São detentores de habilitação própria para a docência os titulares de diploma de bacharelato ou de licenciatura que integre uma componente de formação científica, tecnológica, técnica ou artística correspondente à(s) área(s) do currículo escolar;
+
+7. São detentores de habilitação suficiente para a docência os indivíduos que, não possuindo diploma de estudos superiores, estejam a frequentar cursos superiores ou sejam detentores de outras certificações consideradas como minimamente adequadas para o exercício da função pelas autoridades competentes.
+
+8. Compete ao Estado, através de parcerias com entidades e instituições ligadas ao Sector Educativo, criar condições que permitam aos detentores de habilitação própria e de habilitação suficiente adquirir, em tempo razoável, a qualificação profissional, através de mecanismos de formação e certificação diversificados e devidamente enquadrados por legislação própria.
+
+9. A docência no Ensino Superior é assegurada por habilitados com os graus de doutor ou mestre, bem como por licenciados que tenham prestado provas de aptidão pedagógica e capacidade científica, podendo ainda exercer a docência outras individualidades reconhecidamente qualificadas.
+
+10. Podem coadjuvar na docência do Ensino Superior indivíduos habilitados com grau de licenciado ou equivalente que não tenham prestado provas de aptidão pedagógica.
 
 ###### Artigo 52.º Princípios gerais sobre a formação de Educadores e Professores
 
@@ -828,23 +835,23 @@ Nos estabelecimentos de Ensino são asseguradas as condições básicas de acess
 
 2. A formação em exercício permite aos titulares de habilitação própria e de habilitação suficiente adquirir as competências profissionais necessárias ao exercício da função, através de programas diferenciados.
 
-3. As formações mencionadas nos n. os 1  e  2  devem ser integradas, quer no plano da preparação científicopedagógica, quer no da articulação teoria-prática.
+3. As formações mencionadas nos n.os 1 e 2 devem ser integradas, quer no plano da preparação científico-pedagógica, quer no da articulação teoria-prática.
 
-- A  formação  continua  complementa  e  actualiza  a formação de base numa perspectiva de educação permanente e de aprendizagem ao longo da vida.
+4. A formação contínua complementa e actualiza a formação de base numa perspectiva de educação permanente e de aprendizagem ao longo da vida.
 
-- A formação inicial, a formação contínua e a formação em exercício devem estar actualizadas, de modo a dotar os Educadores e Professores de novas técnicas e de os adaptar à evolução da sociedade, das ciências, das tecnologias e da pedagogia.
+5. A formação inicial, a formação contínua e a formação em exercício devem estar actualizadas, de modo a dotar os Educadores e Professores de novas técnicas e de os adaptar à evolução da sociedade, das ciências, das tecnologias e da pedagogia.
 
-6. O acesso às formações é flexível, de modo a permitir  a  reconversão  e  mobilidade  dos  Educadores  e Professores entre os diferentes níveis de ensino.
+6. O acesso às formações é flexível, de modo a permitir a reconversão e mobilidade dos Educadores e Professores entre os diferentes níveis de ensino.
 
-- Toda a formação deve:
+7. Toda a formação deve:
 
-- Assentar  em  práticas  metodológicas  afins  das que o Educador e o Professor vierem a utilizar na prática pedagógica;
+a) Assentar em práticas metodológicas afins das que o Educador e o Professor vierem a utilizar na prática pedagógica;
 
-- Estimular uma atitude simultaneamente crítica e actuante em relação à realidade social;
+b) Estimular uma atitude simultaneamente crítica e actuante em relação à realidade social;
 
-- Favorecer a inovação a investigação na relação com a actividade educativa;
+c) Favorecer a inovação a investigação na relação com a actividade educativa;
 
-- Ser participada e conduzir a uma prática reflexiva e contínua de auto-formação.
+d) Ser participada e conduzir a uma prática reflexiva e contínua de auto-formação.
 
 ###### Artigo 53.º Formação inicial de Educadores de Infância e dos Ensinos Básico e Secundário
 
@@ -856,53 +863,51 @@ Nos estabelecimentos de Ensino são asseguradas as condições básicas de acess
 
 N.º 14 - 18 de Fevereiro de 2019  SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA I  SÉRIE 131
 
-- A formação inicial destes profissionais realiza-se em instituições  próprias  do  Ensino  Superior,  devendo os respectivos cursos incluir componentes curriculares, científicas ou técnica da área de docência, das ciências da educação didácticas específicas, de prática pedagógica de iniciação à investigação.
+2. A formação inicial destes profissionais realiza-se em instituições próprias do Ensino Superior, devendo os respectivos cursos incluir componentes curriculares, científicas ou técnica da área de docência, das ciências da educação didácticas específicas, de prática pedagógica de iniciação à investigação.
 
-- O Governo define, em diploma próprio, um regime jurídico de qualificação para a docência que inclua perfis detalhados de competência de formação de Educadores e Professores para ingresso na carreira docente.
+3. O Governo define, em diploma próprio, um regime jurídico de qualificação para a docência que inclua perfis detalhados de competência de formação de Educadores e Professores para ingresso na carreira docente.
 
 ###### Artigo 54.º Formação contínua
 
-- A todos os Educadores de Infância e Professores do Ensino Básico e Secundário é reconhecido o direito à formação contínua.
+1. A todos os Educadores de Infância e Professores do Ensino Básico e Secundário é reconhecido o direito à formação contínua.
 
-- A  formação  contínua  deve  assegurar  o  complemento, o aprofundamento e a actualização de conhecimentos e de competências profissionais, podendo possibilitar a progressão na carreira, nos termos previstos em legislação própria.
+2. A formação contínua deve assegurar o complemento, o aprofundamento e a actualização de conhecimentos e de competências profissionais, podendo possibilitar a progressão na carreira, nos termos previstos em legislação própria.
 
-- Sem  prejuízo  de  outras  disposições  legais,  globalmente, a formação continua pode assumir os formatos de:
+3. Sem prejuízo de outras disposições legais, globalmente, a formação contínua pode assumir os formatos de:
 
-- Acções de formação;
+a) Acções de formação;
 
-- Oficinas de formação;
+b) Oficinas de formação;
 
-- Formação em contexto de prática profissional.
+c) Formação em contexto de prática profissional.
 
-- A  formação  contínua  pode  ser  de  iniciativa  das instituições  responsáveis  pela  formação  inicial,  dos próprios docentes e suas estruturas representativas, de outras instituições e entidades, ou do Ministério encarregue  pela  área  da  Educação,  devendo,  em  qualquer das situações, respeitar os requisitos que venham a ser estabelecidos em normativos específicos.
+4. A formação contínua pode ser de iniciativa das instituições responsáveis pela formação inicial, dos próprios docentes e suas estruturas representativas, de outras instituições e entidades, ou do Ministério encarregue pela área da Educação, devendo, em qualquer das situações, respeitar os requisitos que venham a ser estabelecidos em normativos específicos.
 
 ###### Artigo 55.º Formação em exercício
 
-- A formação em exercício destina-se aos Educadores de Infância e aos Professores dos Ensinos Básico e Secundário  que,  por  necessidades  do  Sistema,  se  encontrem a exercer funções docentes sem serem detentores da respectiva qualificação profissional.
+1. A formação em exercício destina-se aos Educadores de Infância e aos Professores dos Ensinos Básico e Secundário que, por necessidades do Sistema, se encontrem a exercer funções docentes sem serem detentores da respectiva qualificação profissional.
 
-- A  formação em exercício, orientando-se pelo regime  jurídico  da  formação  inicial,  desenvolve-se  se-
+2. A formação em exercício, orientando-se pelo regime jurídico da formação inicial, desenvolve-se segundo programas flexíveis, adaptáveis ao perfil de entrada dos formandos e garante a aquisição de competências nas mesmas dimensões e domínios.
 
-- gundo  programas  flexíveis,  adaptáveis  ao  perfil  de entrada dos formandos e garante a aquisição de competências nas mesmas dimensões e domínios.
+3. Os programas de formação em exercício podem prever acreditação de formações contínuas ou outras já realizadas pelos formandos, desde que devidamente certificadas.
 
-- Os  programas  de  formação  em  exercício  podem prever acreditação de formações contínuas ou outras já realizadas  pelos  formandos,  desde  que  devidamente certificadas.
-
-- Esta formação é da responsabilidade das instituições  de  Ensino  Superior  que  asseguram  a  formação inicial, sob tutela do respectivo Ministério.
+4. Esta formação é da responsabilidade das instituições de Ensino Superior que asseguram a formação inicial, sob tutela do respectivo Ministério.
 
 ###### Artigo 56.º Pessoal não docente
 
-- O pessoal não docente deve possuir como habilitação  mínima  o  Ensino  Básico,  podendo  ser-lhe  proporcionada uma formação específica adequada, quando necessário.
+1. O pessoal não docente deve possuir como habilitação mínima o Ensino Básico, podendo ser-lhe proporcionada uma formação específica adequada, quando necessário.
 
-- Exceptuam-se  do  número  anterior,  os  auxiliares pedagógicos e animadores socio-comunitários da Educação  Pré-Escolar,  devem  possuir  como  habilitação mínima o Ensino Secundário.
+2. Exceptuam-se do número anterior, os auxiliares pedagógicos e animadores socio-comunitários da Educação Pré-Escolar, devem possuir como habilitação mínima o Ensino Secundário.
 
-- Para além da habilitação mínima exigida, considera-se  como  requisito  preferencial  para  o  desempenho de funções não docentes, a posse de certificado de formação de carácter profissionalizante na área específica destas funções.
+3. Para além da habilitação mínima exigida, considera-se como requisito preferencial para o desempenho de funções não docentes, a posse de certificado de formação de carácter profissionalizante na área específica destas funções.
 
 ###### Artigo 57.º Princípios gerais das carreiras do pessoal docente e de outros profissionais da educação
 
-- Os Educadores de Infância, Professores de todos os níveis de ensino e outros profissionais da educação têm direito à retribuição e carreira compatíveis com as suas qualificações, responsabilidades profissionais, sociais e culturais.
+1. Os Educadores de Infância, Professores de todos os níveis de ensino e outros profissionais da educação têm direito à retribuição e carreira compatíveis com as suas qualificações, responsabilidades profissionais, sociais e culturais.
 
-- A progressão na carreira está ligada à avaliação de toda a actividade desenvolvida, individualmente ou em grupo, na Instituição Educativa, no Plano da Educação e do Ensino e da prestação de outros serviços à comunidade, bem como às qualificações profissionais, pedagógicas e científicas.
+2. A progressão na carreira está ligada à avaliação de toda a actividade desenvolvida, individualmente ou em grupo, na Instituição Educativa, no Plano da Educação e do Ensino e da prestação de outros serviços à comunidade, bem como às qualificações profissionais, pedagógicas e científicas.
 
-- A  estrutura  e  condições  de  acesso,  progressão  e remuneração na carreira docente, bem como os moldes e critérios específicos de avaliação do desempenho, são definidos em diploma próprio.
+3. A estrutura e condições de acesso, progressão e remuneração na carreira docente, bem como os moldes e critérios específicos de avaliação do desempenho, são definidos em diploma próprio.
 
 [[END OF PAGE 18]]
 
@@ -910,61 +915,61 @@ N.º 14 - 18 de Fevereiro de 2019  SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLIC
 
 132 I  SÉRIE SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA N.º 14 - 18 de Fevereiro de 2019
 
-- Aos  Educadores,  Professores  e  outros  profissionais da educação é reconhecido o direito de recurso das decisões da avaliação referida no n.º 3.
+4. Aos Educadores, Professores e outros profissionais da educação é reconhecido o direito de recurso das decisões da avaliação referida no n.º 3.
 
 ### CAPÍTULO V Recursos Materiais
 
 ###### Artigo 58.º Rede escolar
 
-- Compete ao Estado criar uma rede de Estabelecimentos Públicos de Educação e Ensino que cubram as necessidades de toda a população.
+1. Compete ao Estado criar uma rede de Estabelecimentos Públicos de Educação e Ensino que cubram as necessidades de toda a população.
 
-- O planeamento da rede de estabelecimentos escolares deve contribuir para a eliminação de desigualdades e assimetrias locais e regionais, de forma a assegurar a igualdade de oportunidades de Educação e Ensino a todos os cidadãos.
+2. O planeamento da rede de estabelecimentos escolares deve contribuir para a eliminação de desigualdades e assimetrias locais e regionais, de forma a assegurar a igualdade de oportunidades de Educação e Ensino a todos os cidadãos.
 
 ###### Artigo 59.º Edifícios escolares
 
-- Os edifícios e equipamentos escolares são planeados numa óptica flexível para permitir, quando oportuno, a sua utilização em diferentes actividades da comunidade e a sua adaptação em função das alterações dos diferentes  níveis  de  ensino,  dos  currículos,  dos  métodos educativos e das necessidades específicas dos alunos.
+1. Os edifícios e equipamentos escolares são planeados numa óptica flexível para permitir, quando oportuno, a sua utilização em diferentes actividades da comunidade e a sua adaptação em função das alterações dos diferentes níveis de ensino, dos currículos, dos métodos educativos e das necessidades específicas dos alunos.
 
-- A estrutura dos edifícios escolares tem em conta, para  além  das  actividades  escolar,  o  desenvolvimento de actividades de ocupação de tempos livres e o envolvimento da escola em actividade extra-escolares.
+2. A estrutura dos edifícios escolares tem em conta, para além das actividades escolar, o desenvolvimento de actividades de ocupação de tempos livres e o envolvimento da escola em actividade extra-escolares.
 
-- A densidade da rede, as dimensões e as características dos edifícios escolares são ajustadas às características  e  necessidades  das  localidades  e  regiões,  bem como  à  capacidade  de  acolhimento  de  um  número equilibrado de alunos, de forma a garantir as condições para uma boa acção pedagógica, cultural, desportiva e inclusiva.
+3. A densidade da rede, as dimensões e as características dos edifícios escolares são ajustadas às características e necessidades das localidades e regiões, bem como à capacidade de acolhimento de um número equilibrado de alunos, de forma a garantir as condições para uma boa acção pedagógica, cultural, desportiva e inclusiva.
 
-- Na concepção dos edifícios e na escolha do equipamento são tidas em conta as características de cidadãos com necessidades específicas.
+4. Na concepção dos edifícios e na escolha do equipamento são tidas em conta as características de cidadãos com necessidades específicas.
 
-- A tipologia e a dimensão dos edifícios e equipamentos escolares são definidas em diploma próprio.
+5. A tipologia e a dimensão dos edifícios e equipamentos escolares são definidas em diploma próprio.
 
-- A  gestão  dos  espaços  deve  contribuir  para  o  sucesso educativo e escolar dos alunos.
+6. A gestão dos espaços deve contribuir para o sucesso educativo e escolar dos alunos.
 
 ###### Artigo 60.º Estabelecimentos de Educação e de Ensino
 
-- A  Educação  Pré-Escolar  realiza-se  em  unidades distintas ou incluídas em unidades escolares onde também seja ministrado o 1.º ciclo do Ensino Básico, ou ainda em edifícios onde se realizem outras actividades sociais, nomeadamente, de Educação Extra-Escolar.
+1. A Educação Pré-Escolar realiza-se em unidades distintas ou incluídas em unidades escolares onde também seja ministrado o 1.º ciclo do Ensino Básico, ou ainda em edifícios onde se realizem outras actividades sociais, nomeadamente, de Educação Extra-Escolar.
 
-- O Ensino Básico é realizado em estabelecimentos com  tipologias  diversas  que  abarcam  a  totalidade  ou parte dos ciclos que o constituem.
+2. O Ensino Básico é realizado em estabelecimentos com tipologias diversas que abarcam a totalidade ou parte dos ciclos que o constituem.
 
-- O Ensino Secundário realiza-se em escolas secundárias,  sem  prejuízo  de,  relativamente  a  certas  matérias,  se  poder  recorrer  à  utilização  de  instalações  de entidades privadas ou de outras entidades públicas não responsáveis pela rede de Ensino Público para a realização de aulas ou outras acções de ensino e formação.
+3. O Ensino Secundário realiza-se em escolas secundárias, sem prejuízo de, relativamente a certas matérias, se poder recorrer à utilização de instalações de entidades privadas ou de outras entidades públicas não responsáveis pela rede de Ensino Público para a realização de aulas ou outras acções de ensino e formação.
 
-- As  diversas  unidades  que  integram  uma  mesma Instituição de Ensino  Superior podem  dispersar-se geograficamente,  em  função  da  sua  adequação  às  necessidades  de  desenvolvimento  da  região  em  que  se inserem e dos recursos disponíveis.
+4. As diversas unidades que integram uma mesma Instituição de Ensino Superior podem dispersar-se geograficamente, em função da sua adequação às necessidades de desenvolvimento da região em que se inserem e dos recursos disponíveis.
 
-- A flexibilidade da utilização dos edifícios prevista neste  artigo  em  caso  algum  se  pode  concretizar  em colisão com o n.º 3 do artigo anterior.
+5. A flexibilidade da utilização dos edifícios prevista neste artigo em caso algum se pode concretizar em colisão com o n.º 3 do artigo anterior.
 
 ###### Artigo 61.º Recursos educativos
 
-- Constituem  recursos  educativos  todos  os  meios utilizados  para  a  conveniente  realização  da  actividade educativa.
+1. Constituem recursos educativos todos os meios utilizados para a conveniente realização da actividade educativa.
 
-- Os principais recursos educativos são:
+2. Os principais recursos educativos são:
 
-- Manuais escolares e outros materiais pedagógicos;
+a) Manuais escolares e outros materiais pedagógicos;
 
-- Bibliotecas e mediatecas escolares;
+b) Bibliotecas e mediatecas escolares;
 
-- Equipamentos laboratoriais e oficinais;
+c) Equipamentos laboratoriais e oficinais;
 
-- Equipamentos  para  educação  física,  higiene  e desporto escolar;
+d) Equipamentos para educação física, higiene e desporto escolar;
 
-- Equipamento para educação musical e plástica;
+e) Equipamento para educação musical e plástica;
 
-- Equipamentos informáticos;
+f) Equipamentos informáticos;
 
-- Centros de recursos educativos;
+g) Centros de recursos educativos;
 
 [[END OF PAGE 19]]
 
@@ -972,53 +977,53 @@ N.º 14 - 18 de Fevereiro de 2019  SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLIC
 
 N.º 14 - 18 de Fevereiro de 2019  SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA I  SÉRIE 133
 
-- Material lúdico-didáctico para a infância;
+h) Material lúdico-didáctico para a infância;
 
-- Equipamento para educação especial.
+i) Equipamento para educação especial.
 
 ###### Artigo 62.º Financiamento da educação
 
-- A educação é considerada, na elaboração do Plano e do Orçamento do Estado, como uma das prioridades nacionais.
+1. A educação é considerada, na elaboração do Plano e do Orçamento do Estado, como uma das prioridades nacionais.
 
-- As verbas destinadas à educação são distribuídas em função das prioridades estratégicas do desenvolvimento do Sistema Educativo.
+2. As verbas destinadas à educação são distribuídas em função das prioridades estratégicas do desenvolvimento do Sistema Educativo.
 
-- O  Estado  assegura  a  criação  de  um  fundo  para manutenção dos edifícios e equipamentos escolares.
+3. O Estado assegura a criação de um fundo para manutenção dos edifícios e equipamentos escolares.
 
 ### CAPÍTULO VI Administração do Sistema Educativo
 
 ###### Artigo 63.º Princípios gerais
 
-- A Administração e Gestão do Sistema Educativo devem assegurar  o  pleno  respeito  pelas  regras  de  democraticidade e de participação, com vista à consecução de objectivos pedagógicos educativos, numa lógica de educação para a cidadania.
+1. A Administração e Gestão do Sistema Educativo devem assegurar o pleno respeito pelas regras de democraticidade e de participação, com vista à consecução de objectivos pedagógicos educativos, numa lógica de educação para a cidadania.
 
-- O Sistema Educativo deve ser dotado de estruturas  administrativas que, funcionando a nível nacional, regional e local, com níveis de autonomia devidamente definidos  em  legislação  própria,  facilitem  a  execução das políticas educativas centrais e a interligação com a comunidade,  mediante  a  participação  de  professores, alunos,  famílias,  autarquias,  entidades  representativas das actividades sociais, económicas e culturais e, ainda, de instituições de carácter científico.
+2. O Sistema Educativo deve ser dotado de estruturas administrativas que, funcionando a nível nacional, regional e local, com níveis de autonomia devidamente definidos em legislação própria, facilitem a execução das políticas educativas centrais e a interligação com a comunidade, mediante a participação de professores, alunos, famílias, autarquias, entidades representativas das actividades sociais, económicas e culturais e, ainda, de instituições de carácter científico.
 
-- Para os efeitos do número anterior, são adoptadas orgânicas e formas de desconcentração e de descentralização  dos  serviços,  cabendo  ao  Estado,  através  do Ministério  encarregue  pela  coordenação  da  Política Educativa,  garantir  a  necessária  eficácia  e  unidade  de acção.
+3. Para os efeitos do número anterior, são adoptadas orgânicas e formas de desconcentração e de descentralização dos serviços, cabendo ao Estado, através do Ministério encarregue pela coordenação da Política Educativa, garantir a necessária eficácia e unidade de acção.
 
 ###### Artigo 64.º Âmbito de actuação e competência dos níveis de administração
 
-- São, dentre outras, competências da administração central:
+1. São, dentre outras, competências da administração central:
 
-- Concepção, planeamento e definição normativa do Sistema Educativo, com vista a assegurar o seu sentido de unidade e de adequação aos objectivos de âmbito nacional;
+a) Concepção, planeamento e definição normativa do Sistema Educativo, com vista a assegurar o seu sentido de unidade e de adequação aos objectivos de âmbito nacional;
 
-- Coordenação  global  e  avaliação  da  execução das medidas de política educativa a desenvolver de forma desconcentrada ou descentralizada;
+b) Coordenação global e avaliação da execução das medidas de política educativa a desenvolver de forma desconcentrada ou descentralizada;
 
-- Definição dos curricula a serem implementados no Sistema Educativo Nacional;
+c) Definição dos curricula a serem implementados no Sistema Educativo Nacional;
 
-- Tutela,  supervisão  e  inspecção  em  geral,  com vista,  designadamente,  a  garantir  a  necessária qualidade do Sistema Educativo;
+d) Tutela, supervisão e inspecção em geral, com vista, designadamente, a garantir a necessária qualidade do Sistema Educativo;
 
-- Definição  dos  critérios  gerais  de  implantação da rede escolar, de tipologia das escolas e seu apetrechamento,  bem  como  das  normas  a  que devo obedecer a construção de edifícios escolares, tendo em conta, entre outros, princípios de natureza pedagógica;
+e) Definição dos critérios gerais de implantação da rede escolar, de tipologia das escolas e seu apetrechamento, bem como das normas a que devo obedecer a construção de edifícios escolares, tendo em conta, entre outros, princípios de natureza pedagógica;
 
-- Garantia da qualidade pedagógica e técnica dos vários  meios  didácticos,  incluindo  os  manuais escolares.
+f) Garantia da qualidade pedagógica e técnica dos vários meios didácticos, incluindo os manuais escolares.
 
-- O  âmbito  de  actuação  e  as  competências,  bem como os  modos  de  articulação  entre  os  diferentes  níveis  de  administração, são  definidos em  diploma  próprio.
+2. O âmbito de actuação e as competências, bem como os modos de articulação entre os diferentes níveis de administração, são definidos em diploma próprio.
 
 ###### Artigo 65.º Criação, administração e gestão dos Estabelecimentos da Educação e Ensino
 
-- A criação, administração e gestão dos Estabelecimentos de Ensino são definidas em legislação própria do Ministério encarregue pela área da Educação.
+1. A criação, administração e gestão dos Estabelecimentos de Ensino são definidas em legislação própria do Ministério encarregue pela área da Educação.
 
-- O funcionamento dos Estabelecimento de Educação e Ensino, nos diferentes níveis, orienta-se por uma perspectiva  de  integração  comunitária,  sendo,  nesse sentido, favorecida a fixação local dos respectivos docentes.
+2. O funcionamento dos Estabelecimento de Educação e Ensino, nos diferentes níveis, orienta-se por uma perspectiva de integração comunitária, sendo, nesse sentido, favorecida a fixação local dos respectivos docentes.
 
-- Em cada Estabelecimento ou grupo de Estabelecimentos  de  Educação  e  Ensino,  a  administração  e gestão orientam-se por princípios de democraticidade e de  participação  de  todos  os  implicados  no  processo educativo, tendo em atenção as características específicas de cada nível de Educação e Ensino.
+3. Em cada Estabelecimento ou grupo de Estabelecimentos de Educação e Ensino, a administração e gestão orientam-se por princípios de democraticidade e de participação de todos os implicados no processo educativo, tendo em atenção as características específicas de cada nível de Educação e Ensino.
 
 [[END OF PAGE 20]]
 
@@ -1026,45 +1031,45 @@ N.º 14 - 18 de Fevereiro de 2019  SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLIC
 
 134 I  SÉRIE SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA N.º 14 - 18 de Fevereiro de 2019
 
-- Na  administração  e  gestão  dos  Estabelecimentos de  Educação  e  Ensino  devem  prevalecer  critérios  de natureza pedagógica e científica sobre critérios de natureza administrativa.
+4. Na administração e gestão dos Estabelecimentos de Educação e Ensino devem prevalecer critérios de natureza pedagógica e científica sobre critérios de natureza administrativa.
 
-- A administração e gestão de cada estabelecimento ou  grupo  de  estabelecimentos  dos  Ensinos  Básico  e Secundário é  assegurada  por  órgãos  próprios,  para  os quais  são  democraticamente  eleitos  os  representantes dos Professores, alunos e pessoal não docente, apoiada por  órgãos  consultivos  e  por  serviços  especializados, num e noutro caso, segundo modalidades a regulamentar para cada nível de ensino.
+5. A administração e gestão de cada estabelecimento ou grupo de estabelecimentos dos Ensinos Básico e Secundário é assegurada por órgãos próprios, para os quais são democraticamente eleitos os representantes dos Professores, alunos e pessoal não docente, apoiada por órgãos consultivos e por serviços especializados, num e noutro caso, segundo modalidades a regulamentar para cada nível de ensino.
 
-- A participação dos alunos nos órgãos referidos no número anterior circunscreve-se ao Ensino Secundário.
+6. A participação dos alunos nos órgãos referidos no número anterior circunscreve-se ao Ensino Secundário.
 
-- Os estabelecimentos de Ensino Superior gozam de autonomia científica, pedagógica, administrativa e financeira, nos termos da lei.
+7. Os estabelecimentos de Ensino Superior gozam de autonomia científica, pedagógica, administrativa e financeira, nos termos da lei.
 
 ###### Artigo 66.º Conselho Nacional de Educação
 
-- O  Conselho  Nacional  de  Educação  (CNE)  é  um órgão independente associado ao Ministério encarregue pela área da Educação e tem como missão aprimorar e consolidar uma educação nacional de qualidade, assegurando a participação da sociedade em geral.
+1. O Conselho Nacional de Educação (CNE) é um órgão independente associado ao Ministério encarregue pela área da Educação e tem como missão aprimorar e consolidar uma educação nacional de qualidade, assegurando a participação da sociedade em geral.
 
-- É  instituído  o  Conselho  Nacional  de  Educação, com funções consultivas, sem prejuízo das competências  próprias  dos  órgãos  de  soberania,  para  efeitos  de participação das várias forças  sociais,  culturais e  económicas na procura de consensos relativamente à política educativa.
+2. É instituído o Conselho Nacional de Educação, com funções consultivas, sem prejuízo das competências próprias dos órgãos de soberania, para efeitos de participação das várias forças sociais, culturais e económicas na procura de consensos relativamente à política educativa.
 
-- O Governo regula, em legislação própria, a organização, a composição e o funcionamento do Conselho Nacional  de  Educação,  sem  prejuízo  do  disposto  no presente Diploma.
+3. O Governo regula, em legislação própria, a organização, a composição e o funcionamento do Conselho Nacional de Educação, sem prejuízo do disposto no presente Diploma.
 
 ### CAPÍTULO VII Desenvolvimento, Monitorização e Avaliação do Sistema Educativo
 
 ###### Artigo 67.º Desenvolvimento curricular
 
-- A  organização  curricular  da  Educação  Escolar tem em conta a promoção de uma equilibrada harmonia, nos planos horizontal e vertical, entre os níveis de desenvolvimento  físico  e  motor,  cognitivo,  afectivo, estético, social e moral dos indivíduos.
+1. A organização curricular da Educação Escolar tem em conta a promoção de uma equilibrada harmonia, nos planos horizontal e vertical, entre os níveis de desenvolvimento físico e motor, cognitivo, afectivo, estético, social e moral dos indivíduos.
 
-- Os  planos  curriculares  incluem,  em  todos  os  níveis e de forma adequada, uma dimensão de formação pessoal  e  social,  que  pode  ter  como  componentes  a educação ecológica, a educação do consumidor, a educação familiar, a educação sexual, a prevenção de acidentes,  a  educação  para  a  saúde,  a  educação  para  a participação nas instituições,  serviços  cívicos e  outras do mesmo âmbito.
+2. Os planos curriculares incluem, em todos os níveis e de forma adequada, uma dimensão de formação pessoal e social, que pode ter como componentes a educação ecológica, a educação do consumidor, a educação familiar, a educação sexual, a prevenção de acidentes, a educação para a saúde, a educação para a participação nas instituições, serviços cívicos e outras do mesmo âmbito.
 
-- Todas  as  componentes  curriculares  dos  Ensinos Básico e Secundário são estruturadas de forma a contribuir  para  o  desenvolvimento  das  capacidades  do aluno a nível da compreensão e da produção de enunciados orais e escritos em língua portuguesa e/ou outras modalidades de comunicação específicas.
+3. Todas as componentes curriculares dos Ensinos Básico e Secundário são estruturadas de forma a contribuir para o desenvolvimento das capacidades do aluno a nível da compreensão e da produção de enunciados orais e escritos em língua portuguesa e/ou outras modalidades de comunicação específicas.
 
-- As orientações e os planos curriculares da Educação Pré-Escolar e dos Ensinos Básico e Secundário são estabelecidos à escala nacional, podendo as suas componentes apresentar características de índole regional e local, justificadas, nomeadamente, pelas condições socioeconómicas e pelas necessidades do pessoal qualificado.
+4. As orientações e os planos curriculares da Educação Pré-Escolar e dos Ensinos Básico e Secundário são estabelecidos à escala nacional, podendo as suas componentes apresentar características de índole regional e local, justificadas, nomeadamente, pelas condições socioeconómicas e pelas necessidades do pessoal qualificado.
 
-- Os planos curriculares dos Ensinos Básicos e Secundário podem integrar o ensino da moral e da religião,  a  título  facultativo,  no  respeito  pelos  princípios constitucionais da separação das igrejas e do Estado e da não confessionalidade do Ensino Público.
+5. Os planos curriculares dos Ensinos Básicos e Secundário podem integrar o ensino da moral e da religião, a título facultativo, no respeito pelos princípios constitucionais da separação das igrejas e do Estado e da não confessionalidade do Ensino Público.
 
-- A organização curricular dos diferentes níveis de ensino e a criação e estruturação dos cursos profissionais e superiores são definidas em diplomas próprios.
+6. A organização curricular dos diferentes níveis de ensino e a criação e estruturação dos cursos profissionais e superiores são definidas em diplomas próprios.
 
-- Os planos curriculares do Ensino Superior respeitam a cada uma das instituições deste nível de ensino e são estabelecidos de acordo com as orientações legais existentes e com as necessidades nacionais, regionais e internacionais, numa perspectiva de planeamento integrado da respectiva rede.
+7. Os planos curriculares do Ensino Superior respeitam a cada uma das instituições deste nível de ensino e são estabelecidos de acordo com as orientações legais existentes e com as necessidades nacionais, regionais e internacionais, numa perspectiva de planeamento integrado da respectiva rede.
 
 ###### Artigo 68.º Avaliação do Sistema Educativo
 
-- O Sistema Educativo deve ser objecto de avaliação continuada, tendo em conta os aspectos educativos, pedagógicos, psicológicos e sociológicos, organizacionais, económicos e financeiros e, ainda, os de natureza político-administrativa e cultural.
+1. O Sistema Educativo deve ser objecto de avaliação continuada, tendo em conta os aspectos educativos, pedagógicos, psicológicos e sociológicos, organizacionais, económicos e financeiros e, ainda, os de natureza político-administrativa e cultural.
 
-- As  modalidades  de  avaliação  a  desenvolver  são regulamentadas em diplomas próprios.
+2. As modalidades de avaliação a desenvolver são regulamentadas em diplomas próprios.
 
 [[END OF PAGE 21]]
 
@@ -1080,21 +1085,21 @@ A  investigação  em  educação  destina-se  a  avaliar  e interpretar  cienti
 
 ###### Artigo 70.º Sistema Integrado de Gestão Escolar
 
-- O  Sistema  Integrado de Gestão Escolar constitui um instrumento fundamental  para  garantir  a  melhoria das  informações  estatísticas,  planeamento  e  avaliação do Sistema Educativo, devendo, para tal, ser organizadas de modo a que se realizem em tempo oportuno e de forma universal.
+1. O Sistema Integrado de Gestão Escolar constitui um instrumento fundamental para garantir a melhoria das informações estatísticas, planeamento e avaliação do Sistema Educativo, devendo, para tal, ser organizadas de modo a que se realizem em tempo oportuno e de forma universal.
 
-- Para  o  efeito,  cabe  aos  responsáveis  das  escolas introduzir todas informações estatísticas inerentes a sua Instituição Escolar.
+2. Para o efeito, cabe aos responsáveis das escolas introduzir todas informações estatísticas inerentes a sua Instituição Escolar.
 
-- Para o efeito do exposto nos números anteriores, devem ser estabelecidas as normas gerais e definidas as estruturas  das  escolas  responsáveis  pela  inserção  dos dados estatísticos.
+3. Para o efeito do exposto nos números anteriores, devem ser estabelecidas as normas gerais e definidas as estruturas das escolas responsáveis pela inserção dos dados estatísticos.
 
-- A estrutura do Ministério encarregue pela área da Educação  é  responsável  pela  análise,  concepção  de relatório e pela difusão dos respectivos dados da  educação.
+4. A estrutura do Ministério encarregue pela área da Educação é responsável pela análise, concepção de relatório e pela difusão dos respectivos dados da educação.
 
 ###### Artigo 71.º Estruturas de monitorização e apoio
 
-- O  Ministério  encarregue  pela  área  da  Educação cria  e  consolida  estruturas  adequadas  que  asseguram, monitorizam e apoiam actividades de desenvolvimento curricular  e  profissional  de  Educadores  e  Professores, de  fomento  da  inovação  e  da  avaliação  do  Sistema  e das actividades educativas.
+1. O Ministério encarregue pela área da Educação cria e consolida estruturas adequadas que asseguram, monitorizam e apoiam actividades de desenvolvimento curricular e profissional de Educadores e Professores, de fomento da inovação e da avaliação do Sistema e das actividades educativas.
 
-- As estruturas referidas no número anterior incluem os serviços de supervisão pedagógica, organizados em modalidades a definir em diploma próprio.
+2. As estruturas referidas no número anterior incluem os serviços de supervisão pedagógica, organizados em modalidades a definir em diploma próprio.
 
-- As estruturas de monitorização e apoio desenvolvem a sua actividade em articulação com as escolas e com as instituições de investigação em educação e de formação de professores.
+3. As estruturas de monitorização e apoio desenvolvem a sua actividade em articulação com as escolas e com as instituições de investigação em educação e de formação de professores.
 
 ###### Artigo 72.º Inspecção da educação
 
@@ -1114,13 +1119,13 @@ A aplicação da presente Lei não pode afectar Educadores  de  Infância,  Prof
 
 ###### Artigo 76.º Disposições finais
 
-- As disposições relativas à duração da escolaridade obrigatória são regulamentadas em diploma próprio.
+1. As disposições relativas à duração da escolaridade obrigatória são regulamentadas em diploma próprio.
 
-- O Governo define, através de legislação própria, o sistema  de  equivalência  entre  os  estudos,  graus  e  diplomas  do  Sistema  Educativo  São-tomense  e  os  de outros países, bem como as condições em que os alunos do Ensino Superior podem frequentar instituições congéneres  estrangeiras  em  parte  dos  seus  cursos,  assim como os critérios de determinação das unidades de créditos transferíveis.
+2. O Governo define, através de legislação própria, o sistema de equivalência entre os estudos, graus e diplomas do Sistema Educativo São-tomense e os de outros países, bem como as condições em que os alunos do Ensino Superior podem frequentar instituições congéneres estrangeiras em parte dos seus cursos, assim como os critérios de determinação das unidades de créditos transferíveis.
 
-- O Governo define, igualmente, um sistema de certificação e creditação dos diferentes tipos de formação.
+3. O Governo define, igualmente, um sistema de certificação e creditação dos diferentes tipos de formação.
 
-- Devem  ser  criadas  condições  que  facilitem  os descendentes de emigrantes regressados ao País a sua integração no Sistema Educativo.
+4. Devem ser criadas condições que facilitem os descendentes de emigrantes regressados ao País a sua integração no Sistema Educativo.
 
 [[END OF PAGE 22]]
 
@@ -1130,7 +1135,7 @@ A aplicação da presente Lei não pode afectar Educadores  de  Infância,  Prof
 
 SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA N.º 14 - 18 de Fevereiro de 2019
 
-- É alterada por decreto-lei, a Lei n.º 11/93, que cria os Estabelecimentos de Ensino Particular e Cooperativo.
+5. É alterada por decreto-lei, a Lei n.º 11/93, que cria os Estabelecimentos de Ensino Particular e Cooperativo.
 
 ###### Artigo 77.º Norma revogatória
 
@@ -1140,68 +1145,60 @@ SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA N.º 14 - 18 de Fevereiro de 2019
 
 A presente Lei entra em vigor nos termos legais.
 
-Assembleia Nacional, aos 31 de Agosto de 2018.- O Presidente  da  Assembleia  Nacional, José  da  Graça Diogo .
+Assembleia Nacional, aos 31 de Agosto de 2018.- O Presidente da Assembleia Nacional, José da Graça Diogo.
 
 Promulgado em 7 de Novembro de 2018.
 
-- O  Presidente  da  República, Evaristo  do  Espírito Santo Carvalho .
-
-Idades | Educação Escolar | Educação Extra Escolar
---- | --- | --- | --- | ---
-18+ | Ensino Superior Universitário e Politécnico | Alfabetização
-15-17 | 12.ª Classe | Via Geral | Via Profis- sional | Actividades de actualização cultural e cientí- fica Ensino Secundá- rio
-11.ª Classe
-10.ª Classe
-12-14 | 9.ª Classe | 3.º Ci- clo | Ensino básico | Reconversão e aperfeiçoamento profissionais
-8.ª Classe
-7.ª Classe
-10-11 | 6.ª Classe | 2.º clo 1.º Ciclo
-5.ª Classe
-6-9 | 4.ª Classe
-3.ª Classe
-2.ª Classe
-1.ª Classe
-4-5 | Pré-Escolar
+O Presidente da República, Evaristo do Espírito Santo Carvalho.
 
 ### ANEXO II Organigrama do Sistema Educativo
 
-### Matérias a regulamentar para a implementação
+Idades | Educação Escolar | Educação Extra Escolar
+--- | --- | ---
+18+ | Ensino Superior Universitário e Politécnico | Alfabetização; Actividades de actualização cultural e científica; Reconversão e aperfeiçoamento profissionais
+15-17 | 12.ª Classe; 11.ª Classe; 10.ª Classe; Via Geral; Via Profissional; Ensino Secundário |
+12-14 | 9.ª Classe; 8.ª Classe; 7.ª Classe; 3.º Ciclo; Ensino básico |
+10-11 | 6.ª Classe; 5.ª Classe; 2.º Ciclo; Ensino básico |
+6-9 | 4.ª Classe; 3.ª Classe; 2.ª Classe; 1.ª Classe; 1.º Ciclo; Ensino básico |
+4-5 | Pré-Escolar |
 
-### ANEXO II da presente Lei
+### ANEXO II
 
-- Organização da rede pública e privada ( alínea c) do n.º 3 do artigo 2.º e n.º 6 do artigo 7.º )
+### Matérias a regulamentar para a implementação da presente Lei
 
-- Condições  de  gratuitidade  dos  níveis  de  ensino ( n.º 3 do artigo 8.º e n.º 2 do artigo 12.º )
+1. Organização da rede pública e privada (alínea c) do n.º 3 do artigo 2.º e n.º 6 do artigo 7.º)
 
-- Condições  de  implementação  da  obrigatoriedade do Ensino Secundário ( n.º 3 do artigo 16.º )
+2. Condições de gratuitidade dos níveis de ensino (n.º 3 do artigo 8.º e n.º 2 do artigo 12.º)
 
-- Orgânica dos Ensinos Universitário e Politécnico ( n.º 4 do artigo 20.º )
+3. Condições de implementação da obrigatoriedade do Ensino Secundário (n.º 3 do artigo 16.º)
 
-- Regime de créditos no Ensino Superior ( n.º 4 do artigo 21.º )
+4. Orgânica dos Ensinos Universitário e Politécnico (n.º 4 do artigo 20.º)
 
-- Graus  e  diplomas  académicos  ( n.º  3  do  artigo 22.º, n.º 3 do artigo 23.º e artigo 29.º )
+5. Regime de créditos no Ensino Superior (n.º 4 do artigo 21.º)
 
-- Financiamento do Ensino Superior ( n.º 2 do artigo 31.º )
+6. Graus e diplomas académicos (n.º 3 do artigo 22.º, n.º 3 do artigo 23.º e artigo 29.º)
 
-- Criação  de  entidade  de  regulação,  acreditação  e avaliação do Ensino Superior ( n.º 2 do artigo 32.º )
+7. Financiamento do Ensino Superior (n.º 2 do artigo 31.º)
 
-- Disposições específicas para modalidades especiais  de  Educação  Escolar  ( n.º  11  do  artigo  33.º, n.º 5 do artigo 35.º e n.º 3 do artigo 36.º )
+8. Criação de entidade de regulação, acreditação e avaliação do Ensino Superior (n.º 2 do artigo 32.º)
 
-- Educação parental ( n.º 3 do artigo 44.º )
+9. Disposições específicas para modalidades especiais de Educação Escolar (n.º 11 do artigo 33.º, n.º 5 do artigo 35.º e n.º 3 do artigo 36.º)
 
-- Acção social escolar ( n.º 3 do artigo 45.º )
+10. Educação parental (n.º 3 do artigo 44.º)
 
-- Estuto  dos  trabalhadores-estudantes  ( n.º  2  do artigo 49.º )
+11. Acção social escolar (n.º 3 do artigo 45.º)
 
-- Bolsas de estudo ( artigo 50.º )
+12. Estuto dos trabalhadores-estudantes (n.º 2 do artigo 49.º)
 
-- Regime  jurídico  de  habilitação  para  a  docência ( n.º  8  do  artigo  51.º,  n.º  3  do  artigo  53.º  e  n.º  4  do artigo 54.º )
+13. Bolsas de estudo (artigo 50.º)
 
-- Estatuto da carreira docente ( n.º 2 do artigo 54.º e n.º 3 do artigo 57.º )
+14. Regime jurídico de habilitação para a docência (n.º 8 do artigo 51.º, n.º 3 do artigo 53.º e n.º 4 do artigo 54.º)
 
-- Tipologia de Edifícios Escolares ( n.º 5 do artigo 59.º )
+15. Estatuto da carreira docente (n.º 2 do artigo 54.º e n.º 3 do artigo 57.º)
 
-- Fundo de manutenção de edifícios e equipamemtos escolares ( n.º 3 do artigo 62.º )
+16. Tipologia de Edifícios Escolares (n.º 5 do artigo 59.º)
+
+17. Fundo de manutenção de edifícios e equipamentos escolares (n.º 3 do artigo 62.º)
 
 [[END OF PAGE 23]]
 
@@ -1211,28 +1208,28 @@ N.º 14 - 18 de Fevereiro de 2019  SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLIC
 
 I  SÉRIE 137
 
-- 18 Principios Gerais da Organização e Administração  do  Sistema  Educativo  ( n.º  2  do  artigo 63.º )
+18. Princípios Gerais da Organização e Administração do Sistema Educativo (n.º 2 do artigo 63.º)
 
-- Âmbito de actuação e competência dos níveis de administração ( n.º 2 do artigo 64.º )
+19. Âmbito de actuação e competência dos níveis de administração (n.º 2 do artigo 64.º)
 
-- Criação, administração e gestão dos Estabelecimentos  de  Educação  e  Ensino  ( n.º  1  do artigo 65.º )
+20. Criação, administração e gestão dos Estabelecimentos de Educação e Ensino (n.º 1 do artigo 65.º)
 
-- Conselho Nacional de Educação ( n.º 3 do artigo 66.º )
+21. Conselho Nacional de Educação (n.º 3 do artigo 66.º)
 
-- Desenvolvimento curricular ( n.º 6 do artigo 11.º e n.º 3 do artigo 67.º )
+22. Desenvolvimento curricular (n.º 6 do artigo 11.º e n.º 3 do artigo 67.º)
 
-- Avaliação do sistema educativo ( n.º 2 do artigo 68.º )
+23. Avaliação do sistema educativo (n.º 2 do artigo 68.º)
 
-- Sistema  Integrado  de  Gestão  Escolar  ( n.º  3  do artigo 70.º )
+24. Sistema Integrado de Gestão Escolar (n.º 3 do artigo 70.º)
 
-- Estruturas  de  monitorização,  apoio  e  inspecção do  Sistema  Educativo  ( n.º  2  do  artigo  71.º  e  artigo 72.º )
+25. Estruturas de monitorização, apoio e inspecção do Sistema Educativo (n.º 2 do artigo 71.º e artigo 72.º)
 
-- Sistema de equivalências entre graus, estudos e diplomas  são-tomenses  e  de  outros  países  ( n.º  2  do artigo 76.º ).
+26. Sistema de equivalências entre graus, estudos e diplomas são-tomenses e de outros países (n.º 2 do artigo 76.º).
 
 # DIÁRIO DA REPÚBLICA
 
 ## AVISO
 
-A correspondência respeitante à publicação de anúncios no Diário da República , a sua assinatura ou falta de remessa, deve ser dirigida ao Centro de Informática e Reprografia do Ministério da Justiça, Administração Pública e Direitos Humanos - Telefone: 2225693 - Caixa Postal n.º 901 - E-mail: cir-reprografia @hotmail.com São Tomé e Príncipe. - S. Tomé.
+A correspondência respeitante à publicação de anúncios no Diário da República, a sua assinatura ou falta de remessa, deve ser dirigida ao Centro de Informática e Reprografia do Ministério da Justiça, Administração Pública e Direitos Humanos – Telefone: 2225693 - Caixa Postal n.º 901 – E-mail: cir-reprografia@hotmail.com São Tomé e Príncipe. - S. Tomé.
 
 [[END OF PAGE 24]]
