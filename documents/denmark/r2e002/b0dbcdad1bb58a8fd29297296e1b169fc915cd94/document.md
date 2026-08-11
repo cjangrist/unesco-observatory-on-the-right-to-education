@@ -82,7 +82,7 @@ Stk. 5. Undervisningsministeren kan fastsætte regler om opgørelsen af formuen 
 ### Sammenlægning og spaltning af institutioner
 
 #### § 6.
-Undervisningsministeren kan efter indstilling fra bestyrelsen for en eller flere af de institutioner, der er omfattet af § 1, stk. 1, og bestyrelsen for en eller flere institutioner for erhvervsrettet uddannelse godkende, at to eller flere af institutionerne sammenlægges til én institution, som godkendes til at udbyde uddannelser efter en eller flere love. Reglerne om uddannelserne og tilskud til uddannelserne følger reglerne  i  de  pågældende  uddannelseslove.  Undervisningsministeren beslutter, efter hvilken institutionslov den sammenlagte institution godkendes. Ved sammenlægningen opløses institutionerne uden likvidation ved overdragelse af deres aktiver, passiver, rettigheder og forpligtelser til den fortsættende institution.
+Undervisningsministeren kan efter indstilling fra bestyrelsen for en eller flere af de institutioner, der er omfattet af § 1, stk. 1, og bestyrelsen for en eller flere institutioner for erhvervsrettet uddannelse godkende, at to eller flere af institutionerne sammenlægges til én institution, som godkendes til at udbyde
 
 2
 
@@ -90,7 +90,9 @@ Undervisningsministeren kan efter indstilling fra bestyrelsen for en eller flere
 
 [[START OF PAGE 3]]
 
-Stk. 2. Undervisningsministeren kan efter indstilling fra bestyrelsen for en institution godkende en spaltning af institutionen. Ved spaltningen overdrages aktiver, passiver, rettigheder og forpligtelser som helhed til  flere  bestående eller nystiftede selvejende uddannelsesinstitutioner. Endvidere kan en bestyrelse tage beslutning om en spaltning, ved hvilken institutionen overdrager en del af sine aktiver og forpligtelser til en eller flere bestående eller nye selvejende uddannelsesinstitutioner. Undervisningsministeren beslutter, efter  hvilken  lov  de  involverede  institutioner  godkendes.  Ministeren  godkender  den  sammenlagte  eller spaltede institutions vedtægt.
+uddannelser efter en eller flere love. Reglerne om uddannelserne og tilskud til uddannelserne følger reglerne i de pågældende uddannelseslove. Undervisningsministeren beslutter, efter hvilken institutionslov den sammenlagte institution godkendes. Ved sammenlægningen opløses institutionerne uden likvidation ved overdragelse af deres aktiver, passiver, rettigheder og forpligtelser til den fortsættende institution.
+
+Stk. 2. Undervisningsministeren kan efter indstilling fra bestyrelsen for en institution godkende en spaltning af institutionen. Ved spaltningen overdrages aktiver, passiver, rettigheder og forpligtelser som helhed til flere bestående eller nystiftede selvejende uddannelsesinstitutioner. Endvidere kan en bestyrelse tage beslutning om en spaltning, ved hvilken institutionen overdrager en del af sine aktiver og forpligtelser til en eller flere bestående eller nye selvejende uddannelsesinstitutioner. Undervisningsministeren beslutter, efter hvilken lov de involverede institutioner godkendes. Ministeren godkender den sammenlagte eller spaltede institutions vedtægt.
 
 Stk. 3. Det er en betingelse for at opnå godkendelse efter stk. 1 og 2, at der ved sammenlægningen eller spaltningen  ikke  sker  indskrænkninger  i  bestående  rettigheder.  I  vedtægten  for  den  fortsættende  eller modtagende institution skal der optages bestemmelser, som sikrer, at de deltagende institutioners formål tilgodeses. På samme måde skal der optages bestemmelser, som sikrer eventuelle vedtægtsbestemte rettigheder  til  en  deltagende  institutions  formue,  hvis  rettigheden  ikke  ophører  ved  sammenlægningen  eller spaltningen.
 
@@ -117,7 +119,7 @@ Stk.  3. Undervisningsministeren kan fastsætte regler om koordinering af underv
 #### § 9.
 Undervisningsministeren godkender den stedlige placering af uddannelsessteder for uddannelsen til almen studentereksamen, 2-årig uddannelse til almen studentereksamen og uddannelsen til hf-eksamen, jf. § 11.
 
-Stk. 2. Nedlægges et uddannelsessted, hvor uddannelsen til almen studentereksamen, 2-årig uddannelse til  almen  studentereksamen eller uddannelsen til hf-eksamen udbydes, kan undervisningsministeren pålægge en institution at optage alle eller en del af de elever eller kursister, som har påbegyndt uddannelsen til almen studentereksamen, 2-årig uddannelse til almen studentereksamen eller uddannelsen til hf-eksamen på det nedlagte uddannelsessted.
+Stk. 2. Nedlægges et uddannelsessted, hvor uddannelsen til almen studentereksamen, 2-årig uddannelse til almen studentereksamen eller uddannelsen til hf-eksamen udbydes, kan undervisningsministeren på-
 
 3
 
@@ -125,12 +127,14 @@ Stk. 2. Nedlægges et uddannelsessted, hvor uddannelsen til almen studentereksam
 
 [[START OF PAGE 4]]
 
+lægge en institution at optage alle eller en del af de elever eller kursister, som har påbegyndt uddannelsen til almen studentereksamen, 2-årig uddannelse til almen studentereksamen eller uddannelsen til hf-eksamen på det nedlagte uddannelsessted.
+
 ### Regionsrådets opgaver
 
 #### § 10.
 Regionsrådet koordinerer den samlede indsats i regionen for at sikre sammenhæng i udbuddet af ungdomsuddannelser, herunder for så vidt angår den geografiske placering af udbuddet og kapaciteten på uddannelserne, med henblik på, at der er et tilstrækkeligt og varieret uddannelsestilbud til alle unge og voksne i regionen. Regionsrådets koordinering sker i samarbejde med alle selvejende institutioner, der er godkendt til at udbyde en eller flere ungdomsuddannelser i regionen, bortset fra private institutioner for gymnasial uddannelse.
 
-Stk. 2. Regionsrådet skal i samarbejde med alle voksenuddannelsescentre i regionen koordinere indsatsen, herunder for så vidt angår den stedlige placering af udbuddet i regionen og kapaciteten, med henblik på, at der er et tilstrækkeligt og varieret voksenuddannelsestilbud til alle. V oksenuddannelsescentre og andre  udbydere  af  almen  voksenuddannelse,  forberedende  voksenundervisning  og  ordblindeundervisning for voksne, bortset fra private institutioner for gymnasial uddannelse, skal samarbejde med regionsrådet om koordineringen.
+Stk. 2. Regionsrådet skal i samarbejde med alle voksenuddannelsescentre i regionen koordinere indsatsen, herunder for så vidt angår den stedlige placering af udbuddet i regionen og kapaciteten, med henblik på, at der er et tilstrækkeligt og varieret voksenuddannelsestilbud til alle. Voksenuddannelsescentre og andre udbydere af almen voksenuddannelse, forberedende voksenundervisning og ordblindeundervisning for voksne, bortset fra private institutioner for gymnasial uddannelse, skal samarbejde med regionsrådet om koordineringen.
 
 Stk. 3. Med henblik på at understøtte regionens udviklingsstrategi kan regionsrådet efter ansøgning fra en godkendt institution, jf. § 1, stk. 1, yde formåls- og tidsbestemte udviklingstilskud, herunder anlægstilskud, til bl.a. efteruddannelse, information, udvikling af fag, valgfag og mere specialiserede studieretninger til de ungdomsuddannelser, der er nævnt i § 13, stk. 2, og til almen voksenuddannelse, forberedende voksenundervisning og ordblindeundervisning for voksne samt tilskud til udvikling af en institution i et landdistrikt eller udkantsområde. På Bornholm varetages regionsrådets opgave dog af kommunalbestyrelsen.
 
@@ -151,13 +155,15 @@ Stk. 5. Undervisningsministeren fastsætter regler om fordelingen af elever og k
 ### Samarbejder mellem institutioner
 
 #### § 13.
-De institutioner, der er godkendt til at udbyde uddannelsen til almen studentereksamen og uddannelsen til hf-eksamen i regionen, samarbejder gennem de i § 14, stk. 1 og 2, nævnte forpligtende samarbejder med regionsrådet og med andre institutioner, som udbyder de i stk. 2 nævnte uddannelser i regionen om den i § 10, stk. 1, nævnte koordinering.
+De institutioner, der er godkendt til at udbyde uddannelsen til almen studentereksamen og uddannelsen til hf-eksamen i regionen, samarbejder gennem de i § 14, stk. 1 og 2, nævnte forpligtende samar-
 
 4
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+bejder med regionsrådet og med andre institutioner, som udbyder de i stk. 2 nævnte uddannelser i regionen om den i § 10, stk. 1, nævnte koordinering.
 
 Stk. 2. Koordineringen omfatter:
 
@@ -183,7 +189,7 @@ Stk. 4. Undervisningsministeren kan fastsætte regler om de forpligtende samarbe
 Stk. 5. Finansieringen af de forpligtende samarbejder påhviler de deltagende institutioner.
 
 #### § 15.
-V oksenuddannelsescentrene samarbejder med andre voksenuddannelsescentre, institutioner godkendt efter lov om institutioner for erhvervsrettet uddannelse og andre uddannelsesinstitutioner i et lokalt fællesskab. Samarbejdet har til formål at sikre, at institutionerne udnytter deres ressourcer bedst muligt, og at de informerer og vejleder samordnet om deres samlede uddannelsesudbud. Samarbejdet kan angå udbuddet af uddannelser.
+Voksenuddannelsescentrene samarbejder med andre voksenuddannelsescentre, institutioner godkendt efter lov om institutioner for erhvervsrettet uddannelse og andre uddannelsesinstitutioner i et lokalt fællesskab. Samarbejdet har til formål at sikre, at institutionerne udnytter deres ressourcer bedst muligt, og at de informerer og vejleder samordnet om deres samlede uddannelsesudbud. Samarbejdet kan angå udbuddet af uddannelser.
 
 Stk.  2. Som  led  i  samarbejdet  danner  institutionerne  et  lokalt  fælles  samarbejdsforum,  som  mødes mindst en gang hvert kvartal og mindst to gange om året med regionsrådet, jf. § 10, stk. 2.
 
@@ -196,13 +202,15 @@ Institutionen ledes af en bestyrelse.
 
 Stk. 2. Bestyrelsen består af 6-10 medlemmer, jf. dog stk. 8. Flertallet af medlemmer skal være udefrakommende, primært fra den enkelte institutions lokalområde. Bestyrelsernes funktionsperiode er på 4 år og følger normalt valgperioden for kommuner.
 
-Stk. 3. Bestyrelsens medlemmer skal tilsammen have kompetencer, der bidrager til at fremme institutionens aktuelle og fremadrettede virke. 1 medlem udpeges af kommunalbestyrelserne i regionen i forening. De øvrige udefrakommende medlemmer udpeges i deres personlige egenskab og skal tilsammen have erfaring med uddannelsesudvikling, kvalitetssikring, ledelse, organisation og økonomi, herunder vurdering af budgetter og regnskaber. I bestyrelserne for institutioner for uddannelsen til almen studentereksamen, institutioner for uddannelsen til 2-årig uddannelse til almen studentereksamen og institutioner for uddannelsen til hf-eksamen skal der være udefrakommende medlemmer, der har erfaring fra erhvervsliv, grundskolesektor og den videregående uddannelsessektor. I bestyrelsen for et voksenuddannelsescenter skal der tillige være 1 udefrakommende medlem, der har erfaring fra erhvervsskolesektoren.
+Stk. 3. Bestyrelsens medlemmer skal tilsammen have kompetencer, der bidrager til at fremme institutionens aktuelle og fremadrettede virke. 1 medlem udpeges af kommunalbestyrelserne i regionen i forening. De øvrige udefrakommende medlemmer udpeges i deres personlige egenskab og skal tilsammen have erfaring med uddannelsesudvikling, kvalitetssikring, ledelse, organisation og økonomi, herunder vurdering af budgetter og regnskaber. I bestyrelserne for institutioner for uddannelsen til almen studentereksamen, institutioner for uddannelsen til 2-årig uddannelse til almen studentereksamen og institutioner for uddannelsen til hf-eksamen skal der være udefrakommende medlemmer, der har erfaring fra erhvervsliv, grund-
 
 5
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+skolesektor og den videregående uddannelsessektor. I bestyrelsen for et voksenuddannelsescenter skal der tillige være 1 udefrakommende medlem, der har erfaring fra erhvervsskolesektoren.
 
 Stk. 4. Af og blandt institutionens medarbejdere udpeges 2 medlemmer til bestyrelsen, af hvilke det ene har stemmeret. Institutionens elevråd eller kursistråd udpeger 2 medlemmer til bestyrelsen, af hvilke det ene har stemmeret. Eleven eller kursisten, der har stemmeret, skal være myndig. Medarbejderudpegede bestyrelsesmedlemmer er beskyttet mod afskedigelse og anden forringelse af forholdene på samme måde som tillidsrepræsentanter inden for vedkommende eller tilsvarende område.
 
@@ -431,13 +439,15 @@ Tilskud kan udbetales forskudsvis.
 #### § 36.
 Statslige tilskud efter denne lov og kommunale tilskud efter § 30 a ydes ikke til dækning af institutionernes udgifter til betaling af afgifter i henhold til momsloven. Fuld deltagerbetaling efter § 47, stk. 1, 3. pkt., eller § 48, stk. 1, 5. pkt., omfatter ikke dækning af institutionernes udgifter til betaling af afgifter i henhold til momsloven.
 
-Stk. 2. Undervisningsministeren kompenserer institutionerne for udgifter til betaling af afgifter i henhold til momsloven, som efter momsloven ikke kan fradrages ved en virksomheds opgørelse af afgiftstilsvaret (ikkefradragsberettiget købsmoms), og som institutionerne afholder ved køb af varer og tjenesteydelser, til hvilke der ydes statslige tilskud m.v. efter denne lov og kommunale tilskud efter § 30 a, eller som bruges ved undervisningsaktiviteter, hvor der opkræves fuld deltagerbetaling efter § 47, stk. 1, 3. pkt., eller § 48, stk. 1, 5. pkt.
+Stk. 2. Undervisningsministeren kompenserer institutionerne for udgifter til betaling af afgifter i henhold til momsloven, som efter momsloven ikke kan fradrages ved en virksomheds opgørelse af afgiftstil-
 
 10
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+
+svaret (ikkefradragsberettiget købsmoms), og som institutionerne afholder ved køb af varer og tjenesteydelser, til hvilke der ydes statslige tilskud m.v. efter denne lov og kommunale tilskud efter § 30 a, eller som bruges ved undervisningsaktiviteter, hvor der opkræves fuld deltagerbetaling efter § 47, stk. 1, 3. pkt., eller § 48, stk. 1, 5. pkt.
 
 Stk. 3. Undervisningsministeren fastsætter regler om kompensation efter stk. 2 og kan herunder beslutte, at der etableres en acontoordning for momskompensation til institutionerne.
 
@@ -459,7 +469,7 @@ Institutionen anvender ved udbud og efterfølgende kontraktindgåelser klausuler
 Stk. 2. Undervisningsministeren fastsætter regler om forpligtelsen efter stk. 1, herunder om, hvilke udbud der er omfattet af forpligtelsen.
 
 #### § 39.
-Undervisningsministeren kan efter forhandling med finansministeren fastsætte regler om tilskud til de statslige selvejende institutioners virksomhed efter § 30, stk. 1-3 og 5-9, om institutionernes budgetog bevillingsmæssige forhold og om udbetaling af tilskud til institutionerne. Institutionerne er omfattet af statens selvforsikringsordning.
+Undervisningsministeren kan efter forhandling med finansministeren fastsætte regler om tilskud til de statslige selvejende institutioners virksomhed efter § 30, stk. 1-3 og 5-9, om institutionernes budget- og bevillingsmæssige forhold og om udbetaling af tilskud til institutionerne. Institutionerne er omfattet af statens selvforsikringsordning.
 
 #### § 40.
 Institutionen skal følge de af ministeren for offentlig innovation fastsatte eller aftalte bestemmelser om løn- og ansættelsesvilkår, herunder om pensionsforhold, for det personale, der er ansat ved institutionen.
@@ -505,13 +515,15 @@ Stk. 2. Handicappede elever, der er optaget på uddannelser godkendt efter § 1,
 Stk. 3. Undervisningsministeren kan fastsætte regler om administration af de særlige tilskud efter stk. 1 og 2, herunder om ansøgning, indhentede sagkyndige udtalelser, tildeling, udbetaling, udbetaling af forskud til og tilbagebetaling fra institutionerne samt refusion af udgifter, som institutionerne har afholdt i overensstemmelse med tildelingen.
 
 #### § 44 a.
-Ansøgning om tilskud til specialpædagogisk bistand, jf. § 44, skal indgives til Undervisningsministeriet ved anvendelse af den digitale løsning, som ministeriet stiller til rådighed (digital selvbetjening). Uddannelsesinstitutionen skal på tilsvarende vis modtage afgørelser og meddelelser vedrørende ansøgningen digitalt. Elever og kursister skal modtage afgørelser og meddelelser m.v. vedrørende ansøgningen digitalt.
+Ansøgning om tilskud til specialpædagogisk bistand, jf. § 44, skal indgives til Undervisningsministeriet ved anvendelse af den digitale løsning, som ministeriet stiller til rådighed (digital selvbetjening). Uddannelsesinstitutionen skal på tilsvarende vis modtage afgørelser og meddelelser vedrørende ansøgningen digitalt. Elever og kursister skal modtage afgørelser og meddelelser m.v. vedrørende ansøgningen di-
 
 12
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+gitalt.
 
 Stk. 2. Undervisningsministeren fastsætter nærmere regler om, at ansøgning om tilskud til specialpædagogisk bistand og modtagelse af afgørelser herom og meddelelser i øvrigt kan ske på anden vis end ved digital selvbetjening, hvor særlige forhold gør sig gældende.
 
@@ -548,13 +560,15 @@ Stk. 3. Undervisningsministeren kan fastsætte regler om administrationen af de 
 #### § 46.
 Undervisningen på selvejende institutioner inden for den offentlige forvaltning, der udbyder uddannelsen til almen studentereksamen, den 2-årige uddannelse til almen studentereksamen og uddannelsen til hf-eksamen, er vederlagsfri, jf. dog stk. 8.
 
-Stk. 2. Elever, der har tilmeldt sig en særlig ordning efter § 67, stk. 1, i lov om de gymnasiale uddannelser, kan afkræves betaling for egen rejse, eget ophold og egen forplejning i forbindelse med dette udlandsophold. Der kan ikke kræves betaling af eleverne for udgifter, der vedrører undervisningen eller lærernes deltagelse.  Hjælp  til  afholdelse  af  omkostninger,  der  er  forbundet  med  undervisningen  i  udlandet,  skal komme samtlige deltagere til gode, medmindre der er tale om rabatter, legater el. lign., der efter givers bestemmelse er ydet til bestemte af deltagerne. Undervisningsministeren kan fastsætte maksimum for det beløb, en elev kan afkræves for et udlandsophold.
+Stk. 2. Elever, der har tilmeldt sig en særlig ordning efter § 67, stk. 1, i lov om de gymnasiale uddannelser, kan afkræves betaling for egen rejse, eget ophold og egen forplejning i forbindelse med dette udlandsophold. Der kan ikke kræves betaling af eleverne for udgifter, der vedrører undervisningen eller lærernes deltagelse. Hjælp til afholdelse af omkostninger, der er forbundet med undervisningen i udlandet, skal komme samtlige deltagere til gode, medmindre der er tale om rabatter, legater el. lign., der efter givers
 
 13
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+
+bestemmelse er ydet til bestemte af deltagerne. Undervisningsministeren kan fastsætte maksimum for det beløb, en elev kan afkræves for et udlandsophold.
 
 Stk. 3. Elever og kursister kan afkræves betaling for deltagelse i ekskursioner m.v., jf. § 60 i lov om de gymnasiale uddannelser, der indgår som en del af undervisningen. Der kan dog ikke kræves betaling for udgifter, der vedrører undervisningen eller lærernes deltagelse. Rabat ydet i form af frirejser el. lign. skal komme samtlige deltagere til gode.
 
@@ -787,15 +801,15 @@ Stk. 4. Lovens § 4, nr. 1-7 og 10, og §§ 6 og 9 træder i kraft den 1. august
 
 Stk. 5. (Udelades)
 
+#### § 11
+
 Stk. 1-4. (Udelades)
 
 Stk. 5. Lovens § 9 ikke finder anvendelse for kursister, der påbegynder almen voksenuddannelse før den 1. august 2015.
 
 Stk. 6-14. (Udelades)
 
-Lov  nr.  628  af  8.  juni  2016  (Overførsel  af  opgaver  fra  Statens  Administrations  Finansservicecenter m.fl. til Udbetaling Danmark m.v.) 3)  indeholder følgende ikrafttrædelsesbestemmelser:
-
-#### § 11
+Lov nr. 628 af 8. juni 2016 (Overførsel af opgaver fra Statens Administrations Finansservicecenter m.fl. til Udbetaling Danmark m.v.) 3) indeholder følgende ikrafttrædelsesbestemmelser:
 
 19
 
@@ -836,13 +850,15 @@ Lov nr. 1701 af 27. december 2018 (Styrket og mere fleksibel voksen-, efter- og 
 
 Stk. 1-2. (Udelades)
 
-Stk. 3. Undervisningsministeren fastsætter tidspunktet for ikrafttrædelse af § 1, nr. 1, 2, 13, 15, 19, 21, 26, 30-33, 35 og 36, § 2, nr. 16, § 3, nr. 1-9, § 4 bortset fra nr. 14, jf. stk. 2, og §§ 6, 12 og 13. 7)  Ministeren kan herunder fastsætte, at bestemmelserne træder i kraft på forskellige tidspunkter. Ministeren kan i den forbindelse  fastsætte  overgangsregler,  herunder  om  indfasning  af  prøver  i  arbejdsmarkedsuddannelser, personkreds m.v., om udbudsrunder, geografiske dækningsområder m.v., om flytning af administrationen af VEU-godtgørelse og befordring og tilskud til Arbejdsgivernes Uddannelsesbidrag, herunder i forhold til udgifter til godtgørelse i 2019 som følge af afløb, periodisering m.v., og om institutioners ibrugtagning af fælles informationssystemer og overgang fra tidligere systemer.
+Stk. 3. Undervisningsministeren fastsætter tidspunktet for ikrafttrædelse af § 1, nr. 1, 2, 13, 15, 19, 21, 26, 30-33, 35 og 36, § 2, nr. 16, § 3, nr. 1-9, § 4 bortset fra nr. 14, jf. stk. 2, og §§ 6, 12 og 13. 7) Ministeren kan herunder fastsætte, at bestemmelserne træder i kraft på forskellige tidspunkter. Ministeren kan i den forbindelse fastsætte overgangsregler, herunder om indfasning af prøver i arbejdsmarkedsuddannelser, personkreds m.v., om udbudsrunder, geografiske dækningsområder m.v., om flytning af administrationen af VEU-godtgørelse og befordring og tilskud til Arbejdsgivernes Uddannelsesbidrag, herunder i forhold til udgifter til godtgørelse i 2019 som følge af afløb, periodisering m.v., og om institutioners ibrugtagning
 
 20
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
+
+af fælles informationssystemer og overgang fra tidligere systemer.
 
 Stk. 4. (Udelades)
 
