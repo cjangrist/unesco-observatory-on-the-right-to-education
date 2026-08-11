@@ -1,33 +1,47 @@
 [[START OF PAGE 1]]
 
-Cooperation for the Enhancement of Quality Education Outcomes for our Children Cooperation for the Enhancement of Quality Education Outcomes for our Children
-
-Contents
+Cooperation for the Enhancement of Quality Education Outcomes for our Children
 
 # Kiribati National Education Summit Outcomes
 # Education Sector Strategic Plan
-# Kiribati National Education Summit Outcomes
-# Education Sector Strategic Plan
-
-Pages
-
-MOE Strategic Plan 2008-2011/Post Summit draft/February 2008
-
-i
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
+Contents Pages
+
 Foreword
 
 Kiribati Education Summit
+- Outcomes Document 5
+- Objectives and Expected Outcomes 5
+- Overview of current Education Services and Programmes in Kiribati 5
+- Issues and challenges for Education in Kiribati 7
+- USP Perspectives 8
+- SPBEA Perspectives 9
+- Way Forward 10
 
-ii
+Ministry of Education Strategic Plan – 2008-2011
+- Preface 13
+- Meeting the Future needs for Kiribati Schools 14
+  - Theme 14
+  - Vision 14
+  - Goals 15
+- Goals for improving School Education 16
+  - Goals1 16
+  - Goals2 17
+  - Goals3 17
+  - Goals4 18
+  - Goals5 18
+  - Goals6 19
+- Quality Framework 19
 
-19
+Ministry of Education Strategic Plan - Quality Framework
 
 MOE Strategic Plan 2008-2011/Post Summit draft/February 2008
+
+ii
 
 [[END OF PAGE 2]]
 
@@ -53,7 +67,9 @@ Once again I thank the Australian Government and people for financing the 2008 E
 
 Te Mauri, Te Raoi ao Te Tabomoa to you all.
 
-Hon. James Taom Minister for Education i August, 2008
+Hon. James Taom
+Minister for Educationi
+August, 2008
 
 MOE Strategic Plan 2008-2011/Post Summit draft/February 2008
 
@@ -177,17 +193,17 @@ The  participants  welcomed  a  presentation  from  a  member  of  the  Church  
 
 - Commitment/ professionalism of teachers
 
-- Encouraged use of English in schools and improved literacy teaching
-
 - Competence of teachers
+
+- Encouraged use of English in schools and improved literacy teaching
 
 ### Teacher conditions of service
 
 - Staffing of schools
 
-- Proper training of school teachers including pre-school teachers
-
 - Salary scales and allowances
+
+- Proper training of school teachers including pre-school teachers
 
 ### Curriculum
 
@@ -211,7 +227,7 @@ The  participants  welcomed  a  presentation  from  a  member  of  the  Church  
 
 ### Education policy and regulation
 
-- No policies  in  some  key  areas  e.g.  Early  Childhood  Education,  student  progression from one grade to next
+- No policies in some key areas e.g. Early Childhood Education, student progression from one grade to next
 
 - Lack of enforcement of some existing policies/legislation egg compulsory education
 
@@ -219,17 +235,17 @@ The  participants  welcomed  a  presentation  from  a  member  of  the  Church  
 
 - Inconsistency of application of existing policies e.g. selection processes
 
-- Current education policies disadvantage slow learners ('late bloomers')
-
 - Lack of community awareness or understanding of key policies
+
+- Current education policies disadvantage slow learners ('late bloomers')
 
 ### Education management and leadership
 
 - Poor communication between MOE, schools and church school authorities
 
-- Strong Human resource planning
-
 - Competency of staff in the Ministry to deal with teachers' personnel matters
+
+- Strong Human resource planning
 
 MOE Strategic Plan 2008-2011/Post Summit /February 2008
 
@@ -377,11 +393,11 @@ MOE Strategic Plan 2008-2011/Post Summit /February 2008
 
 The Summit endorsed the following strategies:
 
-- Agreed that the draft SP presented by the ME would serve as a blue-print for the way forward to improving education outcomes and quality and should be taken up by the ME for approval by Government in the first quarter of 2008.
+1. Agreed that the draft SP presented by the ME would serve as a blue-print for the way forward to improving education outcomes and quality and should be taken up by the ME for approval by Government in the first quarter of 2008.
 
-- The need to amend the Strategic Plan to align it with the  key  priorities  of  the  National Development Plan, currently prepared by the Ministry of Finance & Economic Development.
+2. The need to amend the Strategic Plan to align it with the key priorities of the National Development Plan, currently prepared by the Ministry of Finance & Economic Development.
 
-- Endorsed the following goals of the draft SP:
+3. Endorsed the following goals of the draft SP:
 
 ### GOAL 1: Deliver a high quality, coherent and relevant curriculum for Kiribati schools.
 This  involves  improving  the  quality  of  curriculum  and  assessment,  raising  educational standards and providing quality curriculum resources for schools.
@@ -406,13 +422,13 @@ This involves reviewing the legislative framework to support the Ministry's mand
 
 This  involves  strengthening  school/community  relationships  and  public  awareness  of education policies and initiatives.
 
-- Planning for the improvement of education must be guided by a clearly stated mission (why the education system exists) and vision (what the education system will look like in the future).
+4. Planning for the improvement of education must be guided by a clearly stated mission (why the education system exists) and vision (what the education system will look like in the future).
 
-- Strategies  proposed  in  the  ME  strategic  plan  should  be  reviewed  to  take  into  account suggestions made by Summit participants.
+5. Strategies proposed in the ME strategic plan should be reviewed to take into account suggestions made by Summit participants.
 
-- The  ME  should  take  the  lead  in  implementing  the  strategies  proposed  in  the  Strategic Plan but to  note the important  need  for  extensive  consultation  with  key  stakeholders  in pursuance of the stated goals.
+6. The ME should take the lead in implementing the strategies proposed in the Strategic Plan but to note the important need for extensive consultation with key stakeholders in pursuance of the stated goals.
 
-- Education plans and policies should give high priority to improving educational outcomes for all levels, in particular at the younger level (Early Childhood, Primary and JSS).
+7. Education plans and policies should give high priority to improving educational outcomes for all levels, in particular at the younger level (Early Childhood, Primary and JSS).
 
 MOE Strategic Plan 2008-2011/Post Summit / February 2008
 
@@ -438,27 +454,27 @@ MOE Strategic Plan 2008-2011/Post Summit draft/February 2008
 
 ## Preface
 
-This is the Kiribati Education Sector Strategic Plan (ESSP) 2008 - 2011. The plan is linked to the Government of Kiribati National Development Plan 2008 -2011 Key Focus Area 1: Human Resources Development. The early development of the ESSP was linked with Key Focus Area 4 of the 20042007 National Development Strategies: Equipping People to Manage Change.
+This is the Kiribati Education Sector Strategic Plan (ESSP) 2008 – 2011. The plan is linked to the Government of Kiribati National Development Plan 2008–2011 Key Focus Area 1: Human Resources Development. The early development of the ESSP was linked with Key Focus Area 4 of the 2004-2007 National Development Strategies: Equipping People to Manage Change.
 
 The ESSP proposes a range of strategies aimed at improving the quality of educational services to better  prepare  the  young  people  of  Kiribati  to  take  their  place  in  a  changing  regional  and  global environment.
 
 The  plan  demonstrates  commitment  to  the  international  desire  for  better  and  equitable  education impounded in the MDG Objective 2 and detailed in the six Education For All (EFA) goals and regional agreement  to  the  principles  of  the  EFA  goals  outlined  in  the  Forum  Basic  Education  Action  Plan (FBEAP) endorsed by the Forum Education Ministers in 2001. The EFA and FBEAP seek 'to ensure basic education of quality for all, regardless of gender, wealth, location, language or ethnic origin' and acknowledges that 'successful education programmes require:
 
-- healthy, well-nourished and motivated students;
+(1) healthy, well-nourished and motivated students;
 
-- well-trained teachers and active learning techniques;
+(2) well-trained teachers and active learning techniques;
 
-- adequate facilities and learning materials;
+(3) adequate facilities and learning materials;
 
-- a relevant curriculum that can be taught and learned in a local language and builds upon the knowledge and experience of the teachers and learners;
+(4) a relevant curriculum that can be taught and learned in a local language and builds upon the knowledge and experience of the teachers and learners;
 
-- an environment that not only encourages learning but is welcoming, gender-sensitive, healthy and safe;
+(5) an environment that not only encourages learning but is welcoming, gender-sensitive, healthy and safe;
 
-- a clear definition and accurate assessment of learning outcomes, including knowledge, skills, attitudes and, values;
+(6) a clear definition and accurate assessment of learning outcomes, including knowledge, skills, attitudes and, values;
 
-- participatory governance and management; and
+(7) participatory governance and management; and
 
-- respect for and engagement with local communities and cultures.' ii
+(8) respect for and engagement with local communities and cultures.”ii
 
 Development of the plan has involved extensive consultation over several years and incorporates the outcomes from the National Education Summit conducted in January 2008. The Summit endorsed the plan's six goals and strategic directions as the basis for planning improvements to the education system.
 
@@ -488,7 +504,7 @@ A quality and balanced education for all: our future
 
 All young people should have positive experience from school that prepares them for the future they want. If we want our young people to access the knowledge and economy of the future, we have to ensure they all have the chance to achieve education levels and skills that are up with the best in our region. The focus for the next decade will be on strengthening the foundations of education for all Kiribati young people. Highest priority will be given to ensuring that basic education in Kiribati gives all our children a fair opportunity to access the pathways beyond compulsory schooling, whether it is through further schooling, vocational training or making the transition to community life.
 
-Quality e ducation is found in how and what children are learning in our schools. It is found in the staff of the school system - the standard of educational leadership and the performance of teachers. It is found in the standard of government and mission schools that guarantees all students are given the chance to achieve regardless of location. It is found in schools' relationships with parents and local communities. Quality is also found in a learning environment that promotes flexibility; the capacity to problem solve and to adapt to change.
+Quality education is found in how and what children are learning in our schools. It is found in the staff of the school system - the standard of educational leadership and the performance of teachers. It is found in the standard of government and mission schools that guarantees all students are given the chance to achieve regardless of location. It is found in schools' relationships with parents and local communities. Quality is also found in a learning environment that promotes flexibility; the capacity to problem solve and to adapt to change.
 
 A balanced education provides opportunities to develop the whole person so students can grow as individuals  and  members  of  the  wider  Kiribati  society.  It  focuses  on  the  development  of  essential qualities  and  skills  to  be  good  citizens  of  the  traditional  and  modern  society.  It  ensures  that  all students  have  the  chance  to  develop  basic  knowledge  and  skills  essential  to  their  intellectual, physical, social and moral development.
 
@@ -500,7 +516,7 @@ Nurturing  our  children  and  young  people  to  become  wise  and  worthwhile 
 
 The world  is  changing  rapidly  and  for  Kiribati  this  presents  unique  challenges.  Young  people  and adults  are  increasingly  required  to  adapt  to  changes  in  their  livelihoods  that  increase  their vulnerability  to  risks  associated  with  climate  change,  water  supply;  sanitation;  coastal  erosion, disappearing traditional knowledge and increasing income generation activities, amongst others. The challenge  for  education  partners  is  to  work  together  to  find  the  way  to  get  the  best  from  these changes that are reshaping the life chances and opportunities of our young people. This requires a shift in the current education system that focuses on preparing professional students for tertiary and higher  educational  opportunities  and  non-manual  work  in  the  government  sector  and  neglects  the majority  of  students  seeking  livelihood  skills.  It  requires  a  system  flexible  to  accommodate  a disparate  geographic  profile  of  Outer  Islands  so  all  Kiribati  students  have  access  to  full  and meaningful educational opportunities nationally and throughout the Pacific Region.
 
-Nurturing young people to be wise and worthwhile citizens is more than preparation for livelihoods. It also means fostering their growth as individuals with a strong sense of family and community and a commitment to enduring Kiribati values that make them responsible citizens of their nation. Nurturing our children is something all partners in education need to do by providing a safe, challenging and caring  environment  for  children  to  study  and  grow.  It  means  encouraging  them  to  develop  good attitudes  and  habits  that  will  help  them  be  worthwhile  citizens  who  are  honest,  respectful,  know  IKiribati culture and traditions, can read/write and do basic mathematics, have personal, moral, ethical responsibility and have life-skills. They can confidently say: 'I am …' and 'I care …'. They have the self  esteem,  problem  solving  and  critical  thinking  skills  to  adapt  to  change  while  holding  fast  to  a strong  sense  of  personal  and  national  identity  They  can  confidently  say:  'I  can  ..'  and  'I  will  …'., participate in a changing world have the essential skills to live successfully in the village and urban areas and survive in other Pacific Islands and anywhere in the world.
+Nurturing young people to be wise and worthwhile citizens is more than preparation for livelihoods. It also means fostering their growth as individuals with a strong sense of family and community and a commitment to enduring Kiribati values that make them responsible citizens of their nation. Nurturing our children is something all partners in education need to do by providing a safe, challenging and caring environment for children to study and grow. It means encouraging them to develop good attitudes and habits that will help them be worthwhile citizens who are honest, respectful, know I-Kiribati culture and traditions, can read/write and do basic mathematics, have personal, moral, ethical
 
 14
 
@@ -510,29 +526,31 @@ MOE Strategic Plan 2008-2011/Post Summit /February 2008
 
 [[START OF PAGE 15]]
 
+responsibility and have life-skills. They can confidently say: “I am …” and “I care …”. They have the self esteem, problem solving and critical thinking skills to adapt to change while holding fast to a strong sense of personal and national identity They can confidently say: “I can ..” and “I will …”., participate in a changing world have the essential skills to live successfully in the village and urban areas and survive in other Pacific Islands and anywhere in the world.
+
 ### Goals
 
 To achieve this vision the ESSP has set six broad goals for planning. These are to
 
-- Deliver a high quality, coherent and relevant school curriculum for Kiribati children.
+1. Deliver a high quality, coherent and relevant school curriculum for Kiribati children.
 
-- Provide a conducive learning environment in Kiribati schools.
+2. Provide a conducive learning environment in Kiribati schools.
 
-- Develop a competent and effective school education work force.
+3. Develop a competent and effective school education work force.
 
-- Strengthen policy and planning systems for achievement of quality education outcomes
+4. Strengthen policy and planning systems for achievement of quality education outcomes
 
-- Strengthen the legislative and regulatory framework for managing the school sector
+5. Strengthen the legislative and regulatory framework for managing the school sector
 
-- Consolidate partnerships with stakeholders in the education system.
+6. Consolidate partnerships with stakeholders in the education system.
 
 In the following section each of the goals is explained more fully and gives the Ministry's priorities for action during the planning period.
 
 CEDAK Representatives
 
-SPBEA Delegates
-
 USP Delegates
+
+SPBEA Delegates
 
 Education Officials
 
@@ -586,7 +604,7 @@ Teachers  are  essential  players  in  providing  a  conducive  learning  enviro
 
 Improving  work  force  planning  for  teachers  and  managers,  developing  conditions  of  service  for teachers  linked  to  professional  standards,  strengthening  school  administrations  and  providing effective support services to schools.
 
-Development of a high quality,  professional  teaching  service  is  essential  to  improving  educational outcomes for students. During the planning period the Ministry will commence a long-term process towards this goal by setting benchmarks expected of teachers at different stages of their professional careers  to  guide  professional  development  of  teachers  and  entry  into  the  teaching  service.  The benchmarks will define the competencies and standards for recognition as teachers within Kiribati and will be subject to regular review and renewal. The MOE will ensure that initial teacher training is consistent with the benchmarks and provides a basis for the future career development of teachers. A  quality  professional  development  program  is  also  central  to  human  resource  management  and during the planning period will be based on providing the opportunity for all teachers to acquire the minimum standards required by the benchmarks.
+Development of a high quality, professional teaching service is essential to improving educational outcomes for students. During the planning period the Ministry will commence a long-term process towards this goal by setting benchmarks expected of teachers at different stages of their professional careers to guide professional development of teachers and entry into the teaching service. The benchmarks will define the competencies and standards for recognition as teachers within Kiribati and will be subject to regular review and renewal. The MOE will ensure that initial teacher training is
 
 MOE Strategic Plan 2008-2011/Post Summit /February 2008
 
@@ -596,7 +614,9 @@ MOE Strategic Plan 2008-2011/Post Summit /February 2008
 
 [[START OF PAGE 18]]
 
-For the Ministry, priority will be given to reviewing its organisational structure so that it is better able to  plan  and  manage  the  school  education  system  within  its  current  establishment.    It  will  be particularly important to strengthen the skills and capacity of top and middle management personnel, where  all  of  the  responsibility  for  policy-making,  planning  and  managing  the  education  system resides. The Ministry will undertake an audit of its current capacity to identify structural, training and recruitment needs and develop a work force plan to address these needs.
+consistent with the benchmarks and provides a basis for the future career development of teachers. A quality professional development program is also central to human resource management and during the planning period will be based on providing the opportunity for all teachers to acquire the minimum standards required by the benchmarks.
+
+For the Ministry, priority will be given to reviewing its organisational structure so that it is better able to plan and manage the school education system within its current establishment. It will be particularly important to strengthen the skills and capacity of top and middle management personnel, where all of the responsibility for policy-making, planning and managing the education system resides. The Ministry will undertake an audit of its current capacity to identify structural, training and recruitment needs and develop a work force plan to address these needs.
 
 ### GOAL 4: Strengthen the Ministry's policy framework and planning systems
 
@@ -666,11 +686,11 @@ MOE Strategic Plan 2008-2011/Post Summit draft/February 2008
 
 [[START OF PAGE 21]]
 
+### Goal 1: Deliver a high quality, coherent and relevant curriculum for Kiribati children.
+
 Outcome | Strategies | Performance Indicators
 --- | --- | ---
-1.1 National Curriculum & Assessment Framework. | 1. Produce Curriculum & Assessment Improvement Strategy (CAIS) for GOK approval and funding basis. Strategy will address the following: i. National Curriculum & Assessment Framework ii. Decision Making & quality assurance processes iii. Establishment of relevant Educational Committees iv. Implementation & Management Plans v. Production needs vi. Assessment strategies vii. Teacher Training Needs viii. Monitoring & Evaluation 2. Develop a National Curriculum and Assessment Framework (NCAF) through consultations that: - is consistent with the National Goals for Education - sets linked learning pathways between primary, junior secondary, senior secondary, TVET and employment and village life. - establishes quality criteria to guide the development of curriculum and assessment materials - ensures the curriculum includes areas such as good governance, civic responsibilities and social, spiritual, moral, economic and cultural development of students; traditional skills and values for economic and social development; - personal health and safety, targeting alcohol abuse, smoking, obesity, diabetes, HIV/AIDS and sanitation . | Jun 2008 - Cabinet paper on CAIS submitted for GOK Approval. July 2008 - Approved CAIS submitted to donors. May - Oct 2008 - 100% consultations undertaken. July 2008 - Approval of National Curriculum Board Nov 2008 - Submit NCAF for Cabinet approval.
-
-### Goal 1: Deliver a high quality, coherent and relevant curriculum for Kiribati children.
+1.1 National Curriculum & Assessment Framework. | 1. Produce Curriculum & Assessment Improvement Strategy (CAIS) for GOK approval and funding basis. Strategy will address the following: i. National Curriculum & Assessment Framework ii. Decision Making & quality assurance processes iii. Establishment of relevant Educational Committees iv. Implementation & Management Plans v. Production needs vi. Assessment strategies vii. Teacher Training Needs viii. Monitoring & Evaluation 2. Develop a National Curriculum and Assessment Framework (NCAF) through consultations that: - is consistent with the National Goals for Education - sets linked learning pathways between primary, junior secondary, senior secondary, TVET and employment and village life. - establishes quality criteria to guide the development of curriculum and assessment materials - ensures the curriculum includes areas such as good governance, civic responsibilities and social, spiritual, moral, economic and cultural development of students; traditional skills and values for economic and social development; - personal health and safety, targeting alcohol abuse, smoking, obesity, diabetes, HIV/AIDS and sanitation. | Jun 2008 - Cabinet paper on CAIS submitted for GOK Approval. July 2008 - Approved CAIS submitted to donors. May – Oct 2008 – 100% consultations undertaken. July 2008 – Approval of National Curriculum Board Nov 2008 - Submit NCAF for Cabinet approval.
 
 MOE Strategic Plan 2008-2011/Post Summit /February 2008
 
@@ -682,7 +702,8 @@ MOE Strategic Plan 2008-2011/Post Summit /February 2008
 
 Outcome | Strategies | Performance Indicators
 --- | --- | ---
-1.2 Improved Curriculum for schools. | 3. Establish clear decision-making and quality assurance processes for development of national curriculum and role of relevant Committees. 1. Develop Curriculum Management Plan to (CMP) 2008- 2011 for implementation of Curriculum Improvement that will include: - Identified priority subject areas to be revised 2008-2011. - Strategies for development of syllabuses and support material for identified priority subject areas. 2. Develop, distribute and implement new syllabuses, assessment, teachers and student support materials in accordance with the CMP. 3. Provide Teacher in-service training to support new curriculum. | Dec 2008 CDRC Curriculum Development Handbook produced - documenting procedural guidelines and quality assurance processes . Dec 2008 - Cabinet paper on decision-making and quality assurances committees - e.g Educational Advisory Committee & relevant Curriculum/Assessment Committees. July 2008 - CMP 2008-2011 approved. July 2008 - priority subject areas identified (nos?) Dec 2008 - draft strategies for implementation of CMP 2008-2009 - Phase 1 syllabuses completed 2010 - implement Phase 1 syllabuses in schools - Phase 2 syllabuses completed 2011 - implement Phase 2 syllabuses in schools - Phase 3 syllabuses completed Dec 2008 - Teacher In-service Plan 2009-2012 & Annual Training Activities 2009 2009 - training on Phase 1 syllabuses & 2010 Training Activities 2010 - training on Phase 2 syllabuses & 2011 Training Activities 2011 - training on Phase 3 syllabuses & 2012 Training Activities 2008-2011 - progress reports every 6 months. 2010 - mid-term review on impact of new curriculum.
+ | 3. Establish clear decision-making and quality assurance processes for development of national curriculum and role of relevant Committees. | Dec 2008 CDRC Curriculum Development Handbook produced – documenting procedural guidelines and quality assurance processes. Dec 2008 – Cabinet paper on decision-making and quality assurances committees – e.g Educational Advisory Committee & relevant Curriculum/Assessment Committees.
+1.2 Improved Curriculum for schools. | 1. Develop Curriculum Management Plan to (CMP) 2008-2011 for implementation of Curriculum Improvement that will include: - Identified priority subject areas to be revised 2008-2011. - Strategies for development of syllabuses and support material for identified priority subject areas. 2. Develop, distribute and implement new syllabuses, assessment, teachers and student support materials in accordance with the CMP. 3. Provide Teacher in-service training to support new curriculum. | July 2008 - CMP 2008-2011 approved. July 2008 – priority subject areas identified (nos?) Dec 2008 – draft strategies for implementation of CMP 2008-2009 – Phase 1 syllabuses completed 2010 – implement Phase 1 syllabuses in schools - Phase 2 syllabuses completed 2011 – implement Phase 2 syllabuses in schools - Phase 3 syllabuses completed Dec 2008 - Teacher In-service Plan 2009-2012 & Annual Training Activities 2009 2009 – training on Phase 1 syllabuses & 2010 Training Activities 2010 – training on Phase 2 syllabuses & 2011 Training Activities 2011 – training on Phase 3 syllabuses & 2012 Training Activities 2008-2011 – progress reports every 6 months. 2010 – mid-term review on impact of new curriculum.
 
 22
 
@@ -694,7 +715,7 @@ MOE Strategic Plan 2008-2011/Post Summit /February 2008
 
 Outcome | Strategies | Performance Indicators
 --- | --- | ---
-4. Develop Monitoring and Evaluation Framework to monitor progress of CAIS and impact of new curriculum on learning outcomes. | June 2011 - CMP 2008-11 reviewed. July - Dec 2011 - CMP 2012-15 developed.
+ | 4. Develop Monitoring and Evaluation Framework to monitor progress of CAIS and impact of new curriculum on learning outcomes. | June 2011 - CMP 2008-11 reviewed. July-Dec 2011 - CMP 2012-15 developed.
 1.3 Resources to support curriculum & assessment. | 1. Produce and Distribute teachers and students teaching and learning resources to support revised Curriculum. 2. Develop Media in Schools Policies to support teaching and learning. 3. Develop ICT in Education Policies to support teaching and learning. | Dec 2008 - Production & Distribution Plan 2009-2012 2009 - 33% production of resources. 2010 - 66% production of resources. 2011 - 100% production of resources. Dec 2008 - Full review recommendations from Media Enhanced Learning Review 2004. June 2009 - Media use in Education policy developed & Cabinet Paper submitted to Cabinet Dec 2009 - Submit long-term strategy to achieve objectives of policy. 2010 - Training Plan on new Media Resources 2010 - 2011 - 25% implementation of strategy. June 2009 - Develop ICT in Education Policy. Dec 2009 - Develop long-term strategy for achieving objectives of approved policy. 2010-2011 - 10% implementation of strategy.
 
 MOE Strategic Plan 2008-2011/Post Summit /February 2008
@@ -705,16 +726,16 @@ MOE Strategic Plan 2008-2011/Post Summit /February 2008
 
 [[START OF PAGE 24]]
 
+### Goal 2: Provide conducive teaching and learning environment in Kiribati schools.
+
 Outcome | Strategies | Performance Indicators
 --- | --- | ---
 Infrastructure (school buildings & facilities - including teachers homes for rural schools) 2.1 Healthy, safe buildings and adequate facilities in schools. | 1. Develop National Infrastructure Standards and Maintenance/ Upgrading Plans and systems. 2. Secure GOK & external financing. 3. Establish sustainable system for maintaining and upkeep of school buildings and facilities. | June 2009 - National Infrastructure Standards (NIS) for Primary Schools (P/S) approved. Dec 2008 - Facilities Maintenance Plan (FMP) for P/ S. 2009 - NIS for JSS & SSS approved. 2010 - FMP for JSS & SSS. 2010 - 2011 - Upgrading commences with target of 5 islands p/a. 2009-2011- Annual review and amendment of FMP. 2008 - Financing strategy completed. 2009 - GOK financing mechanism agreed. 2009 - Donor assistance finalised. 2010-2011 - 50% works implemented. 2008 - Improved systems and processes for P/S. 2009 - 100% of Phase 1 consultations with community & stake-holders. 2010-2011- Systems & processes trialled out on islands where upgrades have been done. 2010-2011 - annual consultations to develop sustainable maintenance systems & encourage community partnership. 2010-2011 - annual review of systems and processes.
 Resources (visual & audio aids, text books, library materials, computer, copying machine, charts, paper, etc) 2.2. Appropriate and sustainable level of materials, equipment and resources | 1. Establish sustainable levels &system for provision of school resources and supplies. | Dec 2008 - Complete review on types and levels of materials and equipment currently provided 2009 - Revise types and levels of resources in line with review recommendations. 2009 - Procurement & dispatch system based on recommendations of review. 2009-2010 - concept paper on decentralising procurement of materials to schools. 2010 - Standard Assets Register developed. 2011 - 100% visits to all schools to assess new systems. 2011 -strategies to strengthen systems & processes drafted.
 
-### Goal 2: Provide conducive teaching and learning environment in Kiribati schools.
+MOE Strategic Plan 2008-2011/Post Summit /February 2008
 
 24
-
-MOE Strategic Plan 2008-2011/Post Summit /February 2008
 
 [[END OF PAGE 24]]
 
@@ -723,7 +744,7 @@ MOE Strategic Plan 2008-2011/Post Summit /February 2008
 Outcome | Strategies | Performance Indicators
 --- | --- | ---
 provided to all schools. | 2. Strengthen capacity of Stores Unit and Schools to record and maintain supplies and resources. | 2009 - training and awareness strategy approved. 2009 - train Stores Unit Personnel on approved Procurement & dispatch systems. 2010 - 100% Principals & Head-teachers trained on decentralised control of funds and maintaining Standard Assets Register. 2010-2011 - awareness campaign on approved systems 100% complete.
-Competent Teachers & better Teaching 2.3 Students taught by qualified, motivated, effective and competent teachers. | 1. Strengthen capacity of Ministry (HQs, CDRC & KTC) to provide appropriate professional development to improve teachers' competency and effectiveness. (Refer to 3.1) 2. Strengthen supervision, appraisal and improvement system to quickly identify problem teachers and undertake relevant remedial action. (DE, SEO(B & S), EO (B & S) (Refer to 3.3) 3. Ensure supply of teachers meets increase of pupil population and replacement needs. | Dec 2008 - national teaching competency benchmarks approved. June 2009 - Paper submitted on gaps between approved standards and current competency levels including capacity of KTC, CDRC & HQ staff to provide effective training and mentoring to teachers. 2009 - training strategies for Ministry staff conducted. Dec 2009 - Finalise long-term training strategies aligned with revised curriculum & assessment framework for pre-service & in-service training programmes. 2010 -1 st lot of problem teachers identified through appraisal system provided professional development training. 2011 - 2 nd lot of problem teachers identified & provided professional development training. 2009 - Specific appraisal system for teachers adopted. 2009 - 50% of current teachers appraised and problems identified. 2009 - immediate remedial action implemented. 2010 - remaining 50% appraised. 2010 - remedial action implemented. 2011 - appraisal system reviewed. 2011 - improvements made before next appraisal in 2012. 2008 - Review Kiribati Study on Primary& JSS School Enrolment Projections and Teacher Demand and Supply
+Competent Teachers & better Teaching 2.3 Students taught by qualified, motivated, effective and competent teachers. | 1. Strengthen capacity of Ministry (HQs, CDRC & KTC) to provide appropriate professional development to improve teachers' competency and effectiveness. (Refer to 3.1) 2. Strengthen supervision, appraisal and improvement system to quickly identify problem teachers and undertake relevant remedial action. (DE, SEO(B & S), EO (B & S) (Refer to 3.3) 3. Ensure supply of teachers meets increase of pupil population and replacement needs. | Dec 2008 - national teaching competency benchmarks approved. June 2009 - Paper submitted on gaps between approved standards and current competency levels including capacity of KTC, CDRC & HQ staff to provide effective training and mentoring to teachers. 2009 - training strategies for Ministry staff conducted. Dec 2009 - Finalise long-term training strategies aligned with revised curriculum & assessment framework for pre-service & in-service training programmes. 2010 –1st lot of problem teachers identified through appraisal system provided professional development training. 2011 – 2nd lot of problem teachers identified & provided professional development training. 2009 - Specific appraisal system for teachers adopted. 2009 - 50% of current teachers appraised and problems identified. 2009 - immediate remedial action implemented. 2010 - remaining 50% appraised. 2010 - remedial action implemented. 2011 - appraisal system reviewed. 2011 - improvements made before next appraisal in 2012. 2008 – Review Kiribati Study on Primary& JSS School Enrolment Projections and Teacher Demand and Supply Utilisation and set targets for implementation of priority
 
 MOE Strategic Plan 2008-2011/Post Summit /February 2008
 
@@ -735,7 +756,7 @@ MOE Strategic Plan 2008-2011/Post Summit /February 2008
 
 Outcome | Strategies | Performance Indicators
 --- | --- | ---
-4. Establish conducive and rewarding recruitment advancement career paths. (Refer 3.2) | and recommendations . 2008-2011 - annual monitoring of pupil population to determine increase/decrease. 2008-2011 - annual updating of staff list. 2008-2011 - annual recruitment of required teachers. 2008-2011 - annual intake of pre-service teachers. 2008-2011 - timely deployment of teachers to working stations. Performance indicators as for 3.2
+ | 4. Establish conducive and rewarding recruitment and advancement career paths. (Refer 3.2) | recommendations. 2008-2011 - annual monitoring of pupil population to determine increase/decrease. 2008-2011 - annual updating of staff list. 2008-2011 - annual recruitment of required teachers. 2008-2011 - annual intake of pre-service teachers. 2008-2011 - timely deployment of teachers to working stations. Performance indicators as for 3.2
 
 26
 
@@ -745,12 +766,12 @@ MOE Strategic Plan 2008-2011/Post Summit /February 2008
 
 [[START OF PAGE 27]]
 
+### Goal 3: Develop a competent and effective education work force.
+
 Outcome | Strategies | Performance Indicators
 --- | --- | ---
-3.1 Comprehensive work force needs for National Education system. (HQ, CDRC, KTC & Teachers - Government & Non- Government) | 1. Identify teacher training needs and strategies in National Human Resources Development Plan. 2. Review Education Structure system to ensure continued capacity to meet evolving needs and priorities. | 2008 - submit needs to PSO. 2008 - teacher lists for all Government schools finalised. 2008 - 25% training strategies submitted. 2009 - 25% short-term training needs conducted. 2009 - 75% training strategies submitted. 2010-2011 - on-going short-term training for 75% needs. 2009-2011 - long-term training for 25% of needs. 2011 - assess competency levels against benchmarks. 2008-2009 - complete review of National Education System with recommendations submitted to Cabinet. 2009 - develop strategies on approved recommendations. 2010-2011 - implementation of strategies.
-3.2 Improved conditions of service established for the teaching profession. | 1. D evelop conditions of service specific to teaching profession in consultation with relevant authorities (including salary review). 2. Institute an effective and transparent performance appraisal and annual reporting system for teaching professing to meet NCS requirements and conditions. 3. Strengthen Registration of Teachers | 2008- submit outcome of consultations with KNUT to PSO. 2008-2009 - participate 100% in review of NCS and salary review. 2010 - 2011 new conditions effective. 2008 - New Appraisal system adopted. 2008 - training on Appraisal system for Inspectors. 2009-2010 - new performance appraisal system used to meet NCS reporting requirements. 2011 - review of appraisal system. 2009 - Teachers Code of Conduct in schools and non-school based agencies adopted. 2009 - KTC training to provide experience to enable graduates to meet registration requirements. 2010 - Registration of teachers commence. 2011 - Graduates from KTC meet beginning teacher registration requirements.
-
-### Goal 3: Develop a competent and effective education work force.
+3.1 Comprehensive work force needs for National Education system. (HQ, CDRC, KTC & Teachers - Government & Non-Government) | 1. Identify teacher training needs and strategies in National Human Resources Development Plan. 2. Review Education Structure system to ensure continued capacity to meet evolving needs and priorities. | 2008 - submit needs to PSO. 2008 - teacher lists for all Government schools finalised. 2008 - 25% training strategies submitted. 2009 - 25% short-term training needs conducted. 2009 - 75% training strategies submitted. 2010-2011 - on-going short-term training for 75% needs. 2009-2011 - long-term training for 25% of needs. 2011 - assess competency levels against benchmarks. 2008-2009 - complete review of National Education System with recommendations submitted to Cabinet. 2009 - develop strategies on approved recommendations. 2010-2011 - implementation of strategies.
+3.2 Improved conditions of service established for the teaching profession. | 1. Develop conditions of service specific to teaching profession in consultation with relevant authorities (including salary review). 2. Institute an effective and transparent performance appraisal and annual reporting system for teaching professing to meet NCS requirements and conditions. 3. Strengthen Registration of Teachers | 2008- submit outcome of consultations with KNUT to PSO. 2008-2009 - participate 100% in review of NCS and salary review. 2010 - 2011 new conditions effective. 2008 - New Appraisal system adopted. 2008 - training on Appraisal system for Inspectors. 2009-2010 - new performance appraisal system used to meet NCS reporting requirements. 2011 - review of appraisal system. 2009 - Teachers Code of Conduct in schools and non-school based agencies adopted. 2009 - KTC training to provide experience to enable graduates to meet registration requirements. 2010 - Registration of teachers commence. 2011 - Graduates from KTC meet beginning teacher registration requirements.
 
 MOE Strategic Plan 2008-2011/Post Summit /February 2008
 
@@ -762,7 +783,7 @@ MOE Strategic Plan 2008-2011/Post Summit /February 2008
 
 Outcome | Strategies | Performance Indicators
 --- | --- | ---
-3.3 Strong school administrations established. | 1. Strengthen school leadership. 2. Develop a phased training plan to strengthen leadership, management and planning skills of school and educational managers/administrators through mentoring, on the job training, appropriate training programs locally or overseas. | 2008 - 2011 - annual improvement of communication between ME HQ and schools. 2008 - Confirm Principal and Head-teacher appointments. 2009 - Produce procedure manuals for appointed head-teachers. 2010 - hold consultations with Community on role of School Committees 2010 - Submit Concept paper on School Committees. 2011 - Concept Paper on de-centralising Budget & Management of schools to School Leadership. 2008 - training strategy for leadership identified. 2009 - conduct 2 leadership trainings for Head- teachers & Principals of Primary Schools & JSS. 2010 - conduct 2/3 leadership trainings for Head- teachers & School Committees 2011 - continued training and mentoring.
+3.3 Strong school administrations established. | 1. Strengthen school leadership. 2. Develop a phased training plan to strengthen leadership, management and planning skills of school and educational managers/administrators through mentoring, on the job training, appropriate training programs locally or overseas. | 2008 - 2011 - annual improvement of communication between ME HQ and schools. 2008 - Confirm Principal and Head-teacher appointments. 2009 - Produce procedure manuals for appointed head-teachers. 2010 - hold consultations with Community on role of School Committees 2010 - Submit Concept paper on School Committees. 2011 - Concept Paper on de-centralising Budget & Management of schools to School Leadership. 2008 - training strategy for leadership identified. 2009 - conduct 2 leadership trainings for Head-teachers & Principals of Primary Schools & JSS. 2010 - conduct 2/3 leadership trainings for Head-teachers & School Committees 2011 - continued training and mentoring.
 3.4 Improved & Effective support services for efficiency of Ministry. | 1. Develop standard operating procedures (SOPs) for Basic & Secondary divisions, Admin staff, Registry & Accounts staff to ensure accurate timely management of records/files and financial payments. 2. Strengthen personnel management and administration of NCS. | 2008 - 2009 - SOP confirmed & distributed. 2009 - awareness programmes on confirmed SOPs & commence use. 2010-2011 - ongoing use, review and improvement of SOPs. 2010 - 2011 - ongoing awareness on imposed changes. 2008- Produce SOPs Skills Manual 2009 - train staff on Manual 2009 - start use of new SOP. 2010-2011 - ongoing training and gaps identified and training provided.
 
 28
@@ -773,12 +794,12 @@ MOE Strategic Plan 2008-2011/Post Summit /February 2008
 
 [[START OF PAGE 29]]
 
+### Goal 4: Strengthen the Ministry's policy framework and planning systems
+
 Outcome | Strategies | Performance Indicators
 --- | --- | ---
 4.1 A clear policy framework established to support improved educational outcomes. | 1. Conduct a National Education Summit involving major stakeholders and national and international expertise to endorse a set of goals for the future of school education Kiribati. Bring to the attention of the summit issues the Ministry needs to consider when formulating the goals including but not restricted to:  Curriculum & Assessment Improvement  Language Policy  Teacher Competency and Conduct  Early Childhood Education  Inclusive Education  Gender Equity  Access to post compulsory education and training 2. Formulation of Education Policies through consultative process. | Mar 2008 - National Education Summit completed June 2008 - Summit Outcomes document endorsed by government 2008-2009 - public awareness on Summit outcomes and strategies to pursue. 2008-2009 - in-house training to Senior Management team on policy development 2009 - 2011 - develop policies on 3/4 key areas per annum. 2011 - initial review of policies. 2008 - approval for NCAF, Assessment Quality processes, Language Policy and ECE. 2009-2011 - approval for Decision making processes, IE policy, Media in Education, ICT in Education Policy, National Teaching standards & Advancement and Primary Schools, Retention & Progression Policy, Amended Education Act,
 4.2 Strategic planning and management evident within ME senior management. | 1. Develop Education Sector Strategic Plan 2008-2011 aligned with GoK priorities in KDP and ME internal commitments with M & E framework. | 2008 - 2008-2011 Strategic Plan approved comprising long-term strategies for achievement of stated outcomes. 2008 - Monitoring and Evaluation Framework formulated and implemented. 2008-2009 - Plan Budget prepared. 2008-2011 -annual work programmes and budgets. 2008-2011 - annual progress reports to MFED. 2011 - review of ESSP 2008-2011 & preparation of next ESSP.
-
-### Goal 4: Strengthen the Ministry's policy framework and planning systems
 
 MOE Strategic Plan 2008-2011/Post Summit /February 2008
 
@@ -790,8 +811,8 @@ MOE Strategic Plan 2008-2011/Post Summit /February 2008
 
 Outcome | Strategies | Performance Indicators
 --- | --- | ---
-2. Improve capacity of ME Senior Management staff for strategic thinking and analysis to achieve national & sector priorities stated in KDP & ESSP. | 2008 - recruit Director of Education. 2008 - 2009 - develop financial and planning systems. 2009-2010 - create Planning & Policy division. 2008-2010 - specific training and on-job mentoring provided to up-scale skills of senior management team.
-4. 3 Strong Management & Information System to support ME planning & decision making. | 1. Strengthen Statistics Office personnel and consolidate processes for data collection and analysis. 2. Strengthen the collection, analysis and use of KEMIS data to support planning and decision making. | 2008 - 100% posts in Statistics & Project Office filled. 2008 - submit long-term plan for development of KEMIS to provide relevant data - key indicators. 2008 - Initial training for Statistics personnel on KEMIS. 2010 - KEMIS data informing all levels of planning and decision making. 2010 - sustainable plan for expansion of KEMIS. 2009 - Phase 1 training of Schools on Annual School Surveys and processes completed. 2009 - Phase 1training of senior and mid- management team on analytical use of KEMIS in planning and decision making processes & to develop measurable and tangible performance indicators. 2010 - Clear Performance indicators developed. 2010 - KEMIS data used in planning and decision making 2011 - training plan for expanded KEMIS.
+ | 2. Improve capacity of ME Senior Management staff for strategic thinking and analysis to achieve national & sector priorities stated in KDP & ESSP. | 2008 - recruit Director of Education. 2008 - 2009 - develop financial and planning systems. 2009-2010 - create Planning & Policy division. 2008-2010 - specific training and on-job mentoring provided to up-scale skills of senior management team.
+4. 3 Strong Management & Information System to support ME planning & decision making. | 1. Strengthen Statistics Office personnel and consolidate processes for data collection and analysis. 2. Strengthen the collection, analysis and use of KEMIS data to support planning and decision making. | 2008 - 100% posts in Statistics & Project Office filled. 2008 - submit long-term plan for development of KEMIS to provide relevant data - key indicators. 2008 - Initial training for Statistics personnel on KEMIS. 2010 - KEMIS data informing all levels of planning and decision making. 2010 - sustainable plan for expansion of KEMIS. 2009 - Phase 1 training of Schools on Annual School Surveys and processes completed. 2009 - Phase 1training of senior and mid-management team on analytical use of KEMIS in planning and decision making processes & to develop measurable and tangible performance indicators. 2010 - Clear Performance indicators developed. 2010 - KEMIS data used in planning and decision making 2011 - training plan for expanded KEMIS.
 
 30
 
@@ -801,12 +822,12 @@ MOE Strategic Plan 2008-2011/Post Summit /February 2008
 
 [[START OF PAGE 31]]
 
+### Goal 5: Strengthen the legislative and regulatory framework for managing the education system and schools.
+
 Outcome | Strategies | Performance Indicators
 --- | --- | ---
 5. 1 Legislative framework strengthened for regulating the school system. | 1. Review of education ordinance to strengthen legislative powers and processes to regulate conduct of government and non-government schools. 2. Undertake consultative process to seek views of stakeholders on proposed amendments. | 2008 - revive Education Advisory Committee (EAC). 2009 - EAC submits recommendations on legal review. 2009-2010 - review and amendment processes - drafting and Parliament approval. 2011 - New law comes into effect & appropriate regulations formulated. 2009-2010 - national consultations on proposed Education Bill. 2011 - Public awareness on new law.
 5.2 Quality approval, assurance and audit processes clearly defined. | 1. Develop and document appropriate policies on areas not specified in Education Ordinance that clearly specify quality processes and assurance systems. 2. Provide training to Ministry Personnel responsible for implementation of policies and processes. 3. Public awareness on policies and processes. | 2008 - revive EAC as main advisory body for Education system. 2008 - produce plan on policy development initiatives aligned with specific outcomes stated in Goals1-4. 2008 - 2011 - implement Policy Development Plan. 2011 - review progress 2008-2011 and prepare next plan. 2009 - identify training needs. 2009 - prepare training plan & secure funding. 2009-2011 - implement training plan. 2011 - review progress and prepare next plan. 2008-2011 - annual dissemination of information.
-
-### Goal 5: Strengthen the legislative and regulatory framework for managing the education system and schools.
 
 MOE Strategic Plan 2008-2011/Post Summit /February 2008
 
@@ -816,15 +837,16 @@ MOE Strategic Plan 2008-2011/Post Summit /February 2008
 
 [[START OF PAGE 32]]
 
+### Goal 6: Consolidate partnerships with stakeholders.
+
 Outcome | Strategies | Performance Indicators
 --- | --- | ---
 6.1 Strong Community ownership and involvement to improve educational outcomes. | 1. Increase public awareness programmes to inform of policy changes and development to foster greater commitment, involvement and a sense of ownership by parents and other stakeholders. 2. Strengthen social dialogue & interaction between Ministry, schools and community. | 2008-2011 - annual observation of National Education Day/ Teachers Day. 2008-2009 - Public Relations policy established. 2009-2010 - increased role of School Committees and PTAs embodied in revised legislations. 2009-2011 -annual school open days and parents day. 2009-2011 - increase teachers' and public awareness about Education developments and policies. 2009-2011 - monthly dissemination of information.
 
-### Goal 6: Consolidate partnerships with stakeholders.
-
 Education For All: Meeting Our Collective Commitments Text adopted by the World Education Forum Dakar, Senegal, 26-28 April 2000, paragraph 44
 
-EFA op cit Laws of Kiribati, Chapter 29 Education, Part 3
+EFA op cit
+Laws of Kiribati, Chapter 29 Education, Part 3
 
 32
 
