@@ -2,7 +2,7 @@
 
 Unofficial translation
 
-# Law No. ( ) of the Year 2018
+# Law No. (6) of the Year 2018
 
 ## On Higher Education
 
@@ -279,7 +279,7 @@ The Council establishes its units to support and rationalize its decisions. The 
 
 ### Remunerations
 
-Remunerations are paid for certain members of the Council under clauses (C,D,G,F,E) of Article 6\1). They are determined according to a regulation issued by the Council of Ministers upon nomination by the Chairman of the Council.
+Remunerations are paid for certain members of the Council under clauses (C,D,G,F,E) of Article 6\3). They are determined according to a regulation issued by the Council of Ministers upon nomination by the Chairman of the Council.
 
 ## Article 15
 
@@ -403,7 +403,7 @@ Unofficial translation
 
 - Open education: Education system which allows learning opportunities for every person, regardless of their age, free time or ability to attend lectures. It provides educational materials through multimedia, radio, TV and phones with a certain rate of discussion panels and direct meetings according to the conditions and requirements determined by the Council of Ministers in line with international standards.
 
-- e-education: an education system that employs ICT to provide interactive multiresources environment to present students with educational programs anytime and anywhere in synced or non-synced manner based on self-learning and teacher-learner interaction according to specific conditions and requirements and in line with the regulation of the Council of Ministers.
+- e-education: an education system that employs ICT to provide interactive multi-resources environment to present students with educational programs anytime and anywhere in synced or non-synced manner based on self-learning and teacher-learner interaction according to specific conditions and requirements and in line with the regulation of the Council of Ministers.
 
 ## Article 24
 
@@ -503,7 +503,7 @@ Unofficial translation
 
 - Each community college shall be chaired by a manager who has an education degree of not less than MA. He shall fully be appointed for the purpose of its management.
 
-## Article 32
+## Article 34
 ### Governmental Institutions' Management
 
 - The President of the State appoints the Board of Trustees and Chairman of the governmental university for a period of three years, renewable for one time only, upon nomination by the Council of Minister and recommendation of the Minister.
