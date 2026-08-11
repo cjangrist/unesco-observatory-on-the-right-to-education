@@ -38,11 +38,13 @@ El  Presupuesto  del  Ministerio  de  Educación  y  Cultura,  se  elaborará  s
 ##### Artículo 7º.-
 La presente ley regulará la educación pública y privada.
 
-Establecerá los principios y fines generales que deben inspirarla y orientarla. Regulará la gestión, la organización, la estructura del sistema educativo nacional, la educación  de  régimen general  y  especial,  el  sistema  escolar  y  sus  modalidades. Determinará las normas básicas de  participación  y  responsabilidades  de  los  miembros  de  las  comunidades  educativas,  de  los establecimientos  educativos,  las  formas  de  financiación  del  sector  público  de  la  educación y demás funciones del sistema.
+Establecerá los principios y fines generales que deben inspirarla y orientarla. Regulará la gestión, la organización, la estructura del sistema educativo nacional, la educación de régimen general y especial, el sistema escolar y sus modalidades. Determinará las normas básicas
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+de participación y responsabilidades de los miembros de las comunidades educativas, de los establecimientos educativos, las formas de financiación del sector público de la educación y demás funciones del sistema.
 
 ##### Artículo 8º.-
 Las universidades serán autónomas. Las mismas y los institutos superiores establecerán sus propios estatutos y formas de gobierno, y elaborarán sus planes y programas, de acuerdo con la política educativa y para contribuir con los planes de desarrollo nacional.
@@ -148,7 +150,7 @@ k) se entiende por educador el personal docente, técnico y administrativo que, 
 
 ### LOS RESPONSABLES DE LA EDUCACIÓN
 
-##### Artículo  12.-.
+##### Artículo 12.-
 La  organización  del  sistema  educativo  nacional  es  responsabilidad  del Estado,  con  la  participación  según  niveles  de  responsabilidad  de  las  distintas  comunidades educativas. Este sistema abarca a los sectores público y privado, así como al ámbito escolar y extraescolar.
 
 ##### Artículo 13.-
@@ -268,7 +270,7 @@ La educación inicial será impartida por profesionales de la especialidad. En c
 ##### Artículo 31.-
 La enseñanza se realizará en la lengua oficial materna del educando desde los comienzos  del  proceso  escolar  o  desde  el  primer  grado.  La  otra  lengua  oficial se enseñará también desde el inicio de la educación escolar con el tratamiento didáctico propio de una segunda lengua.
 
-Dentro de la educación inicial, se implementará programas de prevención de dificultades del  aprendizaje,  así  como  sistemas  de  e valuación  para  la  detección  precoz  de  condiciones intelectuales  superiores,  inferiores  y  deficiencias  sensoriales  para  tomar  medidas  oportunas  y adecuadas a cada caso.
+Dentro de la educación inicial, se implementará programas de prevención de dificultades del aprendizaje, así como sistemas de evaluación para la detección precoz de condiciones intelectuales superiores, inferiores y deficiencias sensoriales para tomar medidas oportunas y adecuadas a cada caso.
 
 #### SECCIÓN III
 
@@ -369,7 +371,7 @@ La  educación  superior  se  ordenará  por  la  ley  de  educación  superior 
 Son universidades las instituciones de educación superior que abarcan una multiplicidad  de  áreas  específicas  del  saber  en  el  cumplimiento  de  su  misión  de  investigación, enseñanza, formación y capacitación profesional y servicio a la comunidad.
 
 ##### Artículo 49.-
-Son institutos superiores, las instituciones que se desempeñan en un campo específico  del  saber  e n  cumplimiento  de  su  misión  de  investigación,  formación  profesional  y servicio a la comunidad.
+Son institutos superiores, las instituciones que se desempeñan en un campo específico del saber en cumplimiento de su misión de investigación, formación profesional y servicio a la comunidad.
 
 ##### Artículo 50.-
 Son Instituciones de formación profesional del tercer nivel, aquellos institutos técnicos que brindan formación profesional y reconversión permanente en las diferentes áreas del saber técnico y práctico, habilitando para el ejercicio de una profesión. Serán autorizadas por el Ministerio de Educación y Cultura.
@@ -381,7 +383,7 @@ Entre las instituciones de formación profesional del tercer nivel, el Ministeri
 
 - capacitar a los educadores con la más alta calidad profesional, científica y ética;
 
-- lograr  el  eficaz  desempeño  de  su  profesión  en  cada  uno  d e  los  niveles  del sistema educacional y en las diversas modalidades de la actividad educativa;
+- lograr el eficaz desempeño de su profesión en cada uno de los niveles del sistema educacional y en las diversas modalidades de la actividad educativa;
 
 - actualizar y perfeccionar permanentemente a los docentes en ejercicio; y,
 
@@ -444,7 +446,7 @@ Se extenderá el acceso a la educación en todos sus niveles a personas que por 
 La  autoridad  competente  de  las  telecomunicaciones  reservará  frecuencias  de  radio,  de televisión  por  aire,  por  cable  u  otro  medio  similar  para  desarrollar  iniciativas  de  educación  a distancia.
 
 ##### Artículo 60.-
-El Gobierno promoverá y apoyará la educación a distancia de iniciativa privada y  reglamentará  el  currículo,  los  programas  y  el  sistema  de  evaluación,  para  el  reconocimiento official de los cursos y actividades impartidas y de sus respectivos certificados y títulos.
+El Gobierno promoverá y apoyará la educación a distancia de iniciativa privada y reglamentará el currículo, los programas y el sistema de evaluación, para el reconocimiento oficial de los cursos y actividades impartidas y de sus respectivos certificados y títulos.
 
 [[END OF PAGE 9]]
 
@@ -461,7 +463,7 @@ Las  instituciones  educativas  privadas  que  pretendan  el  derecho  de  otorg
 
 Podrán prestar este servicio  las iglesias o confesiones religiosas, inscritas en el Registro Nacional de Culto, las fundaciones, sociedades, asociaciones y empresas con personería jurídica, y las personas de existencia visible.
 
-##### Artículo 63.
+##### Artículo 63.-
 Dentro  del sistema  nacional de  educación,  los responsables  de  las instituciones educativas privadas podrán  crear,  organizar  y  sostener  instituciones  propias; nombrar y promover a su personal directivo, docente, administrativo y auxiliar, que responda al proyecto  educativo  de  la  institución;  disponer  de  la  infraestructura  edilicia  y  su  equipamiento escolar;  participar  por  propia  iniciativa    en  el  planeamiento    educativo  y  en  la  elaboración  de currículos, planes y programas de formación, otorgar certificados y títulos reconocidos, de acuerdo a las disposiciones legales vigentes.
 
 ##### Artículo  64.-
@@ -672,7 +674,7 @@ La autoridad superior del ramo es el ministro responsable de la organización y 
 
 - aprobar los proyectos, planes y programas oficiales que deben aplicarse a nivel nacional.
 
-Los  planes  departamentales  y  m unicipales  que  en  todos  los  casos  no  podrán contradecir los planes nacionales, solo serán aprobados previo dictamen del Ministerio de Educación y Cultura;
+Los planes departamentales y municipales que en todos los casos no podrán contradecir los planes nacionales, solo serán aprobados previo dictamen del Ministerio de Educación y Cultura;
 
 - crear o clausurar instituciones o establecimientos del Estado, destinados a las actividades de  su  ramo,  de  acuerdo  con  los  reglamentos  respectivos  y  las  leyes pertinentes; y,
 
@@ -783,7 +785,7 @@ El  Viceministerio  de  Cultura  contará  con  un  Consejo  Asesor  de  Cultura
 
 Dicho  Consejo  prestará  asesoramiento  en  todo  lo  concerniente  al  ámbito  cultural, propondrá  planes  y  acciones  de  desarrollo  y  promoverá  la  animación  y  coordinación  de  los diferentes exponentes de quehacer cultural.
 
-##### Artículo 107.
+##### Artículo 107.-
 El Viceministerio de  Cultura tendrá definidas sus responsabilidades, funciones,  acciones  y  administración  por  una  ley  nacional  de  cultura,  en  consonancia  con  la presente ley.
 
 #### SECCIÓN IV
@@ -862,7 +864,7 @@ En la elaboración de los planes y programas el Ministerio consultará especialm
 
 ### DE LA EVALUACIÓN EDUCACIONAL
 
-##### Artículo 1 18.-
+##### Artículo 118.-
 El Ministerio de Educación y Cultura establecerá sistemas de evaluación de la educación, tanto a los que corresponda a la educación de régimen general, como a la educación de régimen especial. Tendrá por objeto velar por el cumplimiento de los fines y la calidad de la educación.
 
 ### CAPÍTULO IV
@@ -873,7 +875,7 @@ El Ministerio de Educación y Cultura establecerá sistemas de evaluación de la
 La orientación educacional es un derecho del alumno, estará incluida en la actividad educativa de cada centro. Será ejercida por educadores orientadores, cuyas funciones estarán definidas por su reglamento correspondiente.
 
 ##### Artículo  120.-
-El  Ministerio  de  Educación  y  Cultura  celebrará  acuerdos  con  museos, bibliotecas,  instituciones  de  carácter  cultural,  científico,  artístico,  deportivo  y  recreativo,  con  e l objeto de facilitar la participación de los estudiantes.
+El Ministerio de Educación y Cultura celebrará acuerdos con museos, bibliotecas, instituciones de carácter cultural, científico, artístico, deportivo y recreativo, con el objeto de facilitar la participación de los estudiantes.
 
 ### CAPÍTULO V
 
@@ -1025,7 +1027,7 @@ Son deberes de los profesionales de la educación:
 
 - acatar  las  normas  del  sistema  educativo  nacional,  las  de  convivencia  y  el reglamento interno de la institución en que se integran;
 
-- respetar  la  dignidad,  la  integridad  y  la  l ibertad de los alumnos y de los demás miembros de la comunidad educativa, en el marco de la convivencia;
+- respetar la dignidad, la integridad y la libertad de los alumnos y de los demás miembros de la comunidad educativa, en el marco de la convivencia;
 
 - colaborar  solidariamente  en  los  proyectos,  programas  y  actividades  de  la comunidad educativa;
 
@@ -1061,7 +1063,7 @@ Las instituciones educativas contarán con personal administrativo y auxiliar co
 
 #### LAS ASOCIACIONES DEL PERSONAL ADMINISTRATIVO Y AUXILIAR
 
-##### Artículo 139.
+##### Artículo 139.-
 El personal administrativo y auxiliar podrá asociarse, agremiarse o sindicalizarse atendiendo el ámbito de sus intereses, funciones y responsabilidades,  de acuerdo con las leyes laborales vigentes.
 
 ## TÍTULO IX
@@ -1115,7 +1117,7 @@ El  Estado,  por  medio  de  dicho  presupuesto,  proveerá  los  bienes  y  rec
 
 - la creación de nuevas instituciones educativas públicas;
 
-- el  crecimiento  vegetativo  del  sistema  educativo  nacional  en  el  ámbito  d e la educación formal, de la no formal y de la refleja;
+- el crecimiento vegetativo del sistema educativo nacional en el ámbito de la educación formal, de la no formal y de la refleja;
 
 - las ayudas convenidas a las instituciones privadas, en lo previsto  en esta ley; y,
 
@@ -1207,9 +1209,19 @@ Comuníquese al Poder Ejecutivo.
 
 Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a veintiún días del mes de abril  del  año  un  mil  novecientos  noventa  y  ocho,  y  por  la  Honorable  Cámara  de  Senadores,  a catorce días del mes de mayo del año un mil novecientos noventa y ocho, quedando sancionado el mismo, de conformidad con lo dispuesto en el Artículo 207, numeral 1 de la Constitución Nacional.
 
-Atilio Martínez Casado Presidente H. Cámara de Diputados
+Atilio Martínez Casado
+Presidente
+H. Cámara de Diputados
 
-Patricio Miguel Franco Secretario Parlamentario Rodrigo Campos Cervera Presidente H. Cámara de Senadores Miguel Angel González Casabianca Secretario  Parlamentario Téngase por Ley de la República, publíquese e insértese en el Registro Oficial.
+Patricio Miguel Franco
+Secretario Parlamentario
+
+Rodrigo Campos Cervera
+Presidente
+H. Cámara de Senadores
+
+Miguel Angel González Casabianca
+Secretario Parlamentario
 
 Asunción, 26 de mayo de 1998.
 
@@ -1217,15 +1229,57 @@ Asunción, 26 de mayo de 1998.
 
 [[START OF PAGE 24]]
 
+Téngase por Ley de la República, publíquese e insértese en el Registro Oficial.
+
 El Presidente de la República
 
 Juan Carlos Wasmosy
 
-Vicente Sarubbi Ministro de Educación y Culto
+Vicente Sarubbi
+Ministro de Educación y Culto
 
 # GENERAL DE EDUCACION
 
 ## INDICE
+
+TITULO I | DERECHOS, OBLIGACIONES Y GARANTIAS
+TITULO II | PRINCIPIOS GENERALES
+CAPITULO I | Objeto de la ley
+CAPITULO II | Conceptos, fines y principios
+CAPITULO III | Los responsables de la educación
+CAPITULO IV | De la política educativa
+CAPITULO V | De la calidad de la educación y su evaluación
+CAPITULO VI | De la compensación de las desigualdades en la educación
+TITULO III | EDUCACION DE REGIMEN GENERAL
+CAPITULO I | Descripción general
+CAPITULO II | Educación formal
+SECCION I | Estructura
+SECCION II | Educación inicial
+SECCION III | Educación escolar básica
+SECCION IV | Educación media
+SECCION V | Formación profesional media
+SECCION VI | Educación superior
+SECCION VII | Educación de postgrado
+CAPITULO III | Educación no formal
+CAPITULO IV | Educación refleja
+CAPITULO V | De la educación a distancia
+CAPITULO VI | Educación pública y privada
+TITULO IV | EDUCACION DE REGIMEN ESPECIAL
+CAPITULO I | De la educación artística
+SECCION I | Arte dramático, música y danza
+CAPITULO II | De la educación en lenguas extranjeras y de otras etnias
+TITULO V | MODALIDADES DE ATENCION EDUCATIVA
+CAPITULO I | Educación general básica y la educación permanente
+CAPITULO II | Educación para grupos étnicos
+CAPITULO III | Educación campesina y rural
+CAPITULO IV | Educación para personas con limitaciones o con capacidades excepcionales
+CAPITULO V | Educación para la rehabilitación social y prevención de adicciones
+CAPITULO VI | La educación militar y la educación policial
+CAPITULO VII | Educación para Ministros de Culto
+TITULO VI | ORGANIZACION Y ADMINISTRACION DEL SISTEMA EDUCATIVO NACIONAL
+CAPITULO I | El Ministerio de Educación y Cultura
+SECCION I | El Consejo Nacional de Educación y Cultura
+SECCION II | El Viceministerio de Educación
 
 [[END OF PAGE 24]]
 
