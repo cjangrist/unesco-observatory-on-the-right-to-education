@@ -6,10 +6,10 @@
 
 We, the sovereign Filipino people, imploring the aid of Almighty God, in order to build a just and humane society and establish a Government that shall embody our ideals and aspirations, promote the common good, conserve and develop our patrimony, and secure to ourselves and our posterity the blessings of independence and democracy under the rule of law and a regime of truth, justice, freedom, love, equality, and peace, do ordain and promulgate this Constitution.
 
-## ARTICLE l
+## ARTICLE I
 ### NATIONAL TERRITORY
 
-The national territory comprises the Philippine archipelago, with all the islands and waters embraced therein, and all other territories over which the Philippines has sovereignty or jurisdiction, consisting of its terrestrial, fluvial and aerial domains, including its territorial sea, the seabed, the subsoil, the insular shelves, and other submarine areas. The waters around between, the connecting the islands of the archipelago, regardless of their breadth and dimensions, from part of the internal waters of the Philippines.
+The national territory comprises the Philippine archipelago, with all the islands and waters embraced therein, and all other territories over which the Philippines has sovereignty or jurisdiction, consisting of its terrestrial, fluvial and aerial domains, including its territorial sea, the seabed, the subsoil, the insular shelves, and other submarine areas. The waters around, between, and connecting the islands of the archipelago, regardless of their breadth and dimensions, form part of the internal waters of the Philippines.
 
 ## ARTICLE II
 
@@ -31,7 +31,7 @@ The national territory comprises the Philippine archipelago, with all the island
 
 #### State Policies
 
-- Section 7 . The State shall pursue an independent foreign policy. In its relations with other states the paramount consideration shall be national sovereignty, territorial integrity, national interest, and the right to selfdetermination.
+- Section 7. The State shall pursue an independent foreign policy. In its relations with other states, the paramount consideration shall be national sovereignty, territorial integrity, national interest, and the right to self-determination.
 
 - Section 8. The Philippines, consistent with the national interest, adopts and pursues a policy of freedom from nuclear weapons in its territory.
 
@@ -41,7 +41,7 @@ The national territory comprises the Philippine archipelago, with all the island
 
 [[START OF PAGE 2]]
 
-independence of the nation and free the people from poverty through policies that provide adequate social services, promote full employment, a rising standard of living,and an improved quality of life for all.
+independence of the nation and free the people from poverty through policies that provide adequate social services, promote full employment, a rising standard of living, and an improved quality of life for all.
 
 Section 10. The State shall promote social justice in all phases of national development.
 
@@ -53,7 +53,7 @@ Section 13. The State recognizes the vital role of the youth in nation-building 
 
 Section 14. The State recognizes the role of women in nation-building, and shall ensure the fundamental equality before the law of women and men.
 
-Section 15 . The State shall protect and promote the right to health of the people and instill health consciousness among them.
+Section 15. The State shall protect and promote the right to health of the people and instill health consciousness among them.
 
 Section 16. The State shall protect and advance the right of the people to a balanced and healthful ecology in accord with the rhythm and harmony of nature.
 
@@ -69,7 +69,7 @@ Section 21. The State shall promote comprehensive rural development and agrarian
 
 Section 22. The State recognizes and promotes the rights of indigenous cultural communities within the framework of national unity and development.
 
-Section 23. The State shall encourage non-governmental, community-based,or sectoral organizations that promote the welfare of the nation.
+Section 23. The State shall encourage non-governmental, community-based, or sectoral organizations that promote the welfare of the nation.
 
 Section 24. The State recognizes the vital role of communication and information in nation-building.
 
@@ -118,7 +118,7 @@ Section 12. (1) Any person under investigation for the commission of an offense 
 
 (3) Any confession or admission obtained in violation of this or Section 17 hereof shall be inadmissible in evidence against him.
 
-(4) The law shall provide for penal and civil sanctions for violations of this section as well as compensation to the rehabilitation of victims of torture or similar practices, and their families.
+(4) The law shall provide for penal and civil sanctions for violations of this section as well as compensation to and rehabilitation of victims of torture or similar practices, and their families.
 
 Section 13. All persons, except those charged with offenses punishable by reclusion perpetua when evidence of guilt is strong, shall, before conviction, be bailable by sufficient sureties, or be released on recognizance as may be provided by law. The right to bail shall not be impaired even when the privilege of the writ of habeas corpus is suspended. Excessive bail shall not be required.
 
@@ -128,7 +128,7 @@ Section 14. (1) No person shall be held to answer for a criminal offense without
 
 Section 15. The privilege of the writ of habeas corpus shall not be suspended except in cases of invasion or rebellion when the public safety requires it.
 
-Section 16. All persons shall have the right to a speedy disposition of their cases before all judicial, quasijudicial, or administrative bodies.
+Section 16. All persons shall have the right to a speedy disposition of their cases before all judicial, quasi-judicial, or administrative bodies.
 
 [[END OF PAGE 3]]
 
@@ -155,13 +155,13 @@ Section 22. No ex post facto law or bill of attainder shall be enacted.
 
 Section 1. The following are citizens of the Philippines:
 
-- Those who are citizens of the Philippines at the time of the adoption of this Constitution;
+(1) Those who are citizens of the Philippines at the time of the adoption of this Constitution;
 
-- Those whose fathers or mothers are citizens of the Philippines;
+(2) Those whose fathers or mothers are citizens of the Philippines;
 
-- Those born before January 17, 1973, of Filipino mothers, who elect Philippine citizenship upon reaching the age of majority; and
+(3) Those born before January 17, 1973, of Filipino mothers, who elect Philippine citizenship upon reaching the age of majority; and
 
-- Those who are naturalized in accordance with law.
+(4) Those who are naturalized in accordance with law.
 
 Section 2. Natural-born citizens are those who are citizens of the Philippines from birth without having to perform any act to acquire or perfect their Philippine citizenship. Those who elect Philippine citizenship in accordance with paragraph (3), Section 1 hereof shall be deemed natural-born citizens.
 
@@ -174,7 +174,7 @@ Section 5. Dual allegiance of citizens is inimical to the national interest and 
 ## ARTICLE V
 ### Suffrage
 
-Section 1. Suffrage may be exercised by all citizens of the Philippines not otherwise disqualified by law, who are at least eighteen years of age, and who shall have resided in the Philippines for at least one year and in the place wherein they propose to vote for at least six months immediately preceding the election.No literacy, property, or other substantive requirement shall be imposed on the exercise of suffrage.
+Section 1. Suffrage may be exercised by all citizens of the Philippines not otherwise disqualified by law, who are at least eighteen years of age, and who shall have resided in the Philippines for at least one year and in the place wherein they propose to vote for at least six months immediately preceding the election. No literacy, property, or other substantive requirement shall be imposed on the exercise of suffrage.
 
 Section 2. The Congress shall provide a system for securing the secrecy and sanctity of the ballot as well as a system for absentee voting by qualified Filipinos abroad.
 
@@ -194,13 +194,13 @@ Section 2. The Senate shall be composed of twenty-four Senators who shall be ele
 
 Section 3. No person shall be a Senator unless he is a natural-born citizen of the Philippines and, on the day of the election, is at least thirty-five years of age, able to read and write, a registered voter, and a resident of the Philippines for not less than two years immediately preceding the day of the election.
 
-Section 4. The term of office of the Senators shall be six years and shall commence, unless otherwise provided by law, at noon on the thirtieth day of June next following their election. No Senator shall serve for more than two consecutive terms. Voluntary renunciation of the office for any length of time shall not be considered as an interruption in the continuity of his service for the full term of which he was elected.
+Section 4. The term of office of the Senators shall be six years and shall commence, unless otherwise provided by law, at noon on the thirtieth day of June next following their election. No Senator shall serve for more than two consecutive terms. Voluntary renunciation of the office for any length of time shall not be considered as an interruption in the continuity of his service for the full term for which he was elected.
 
 Section 5. (1) The House of Representatives shall be composed of not more than two hundred and fifty members, unless otherwise fixed by law, who shall be elected from legislative districts apportioned among the provinces, cities, and the Metropolitan Manila area in accordance with the number of their respective inhabitants, and on the basis of a uniform and progressive ratio, and those who, as provided by law, shall be elected through a party-list system of registered national, regional, and sectoral parties or organizations.
 
-(2) The party-list representatives shall constitute twenty per centum of the total number of representatives including those under the party list. For three consecutive terms after the ratification of this Constitution, one-half of the seats allocated to party-list representatives shall be filled, as provided by law, by selection or election from the labor, peasant, urban poor, indigenous cultural communities, women, youth, and such other sectors as may be provided by law,except the religious sector.
+(2) The party-list representatives shall constitute twenty per centum of the total number of representatives including those under the party list. For three consecutive terms after the ratification of this Constitution, one-half of the seats allocated to party-list representatives shall be filled, as provided by law, by selection or election from the labor, peasant, urban poor, indigenous cultural communities, women, youth, and such other sectors as may be provided by law, except the religious sector.
 
-(3) Each legislative district shall comprise, as far as practicable,continguous, compact, and adjacent territory. Each city with a population of at least two hundred fifty thousand, or each province, shall have at least one representative.
+(3) Each legislative district shall comprise, as far as practicable, contiguous, compact, and adjacent territory. Each city with a population of at least two hundred fifty thousand, or each province, shall have at least one representative.
 
 (4) Within three years following the return of every census, the Congress shall make a reapportionment of legislative districts based on the standards provided in this section.
 
@@ -224,23 +224,23 @@ Section 12. All Members of the Senate and the House of Representatives shall, up
 
 Section 13. No Senator or Member of the House of Representatives may hold any other office or employment in the Government, or any subdivision, agency, or instrumentality thereof, including government-owned or controlled corporations or their subsidiaries, during his term without forfeiting his seat. Neither shall he be appointed to any office which may have been created or the emoluments thereof increased during the term for which he was elected.
 
-Section 14. No Senator or Member of the House of Representatives may personally appear as counsel before any court of justice or before the Electoral Tribunals, or quasi-judicial and other administrative bodies. Neither shall he, directly or indirectly, be interested financially in any contract with, or in any franchise or special privilege granted by the Government, or any subdivision, agency, or instrumentality thereof, including any governmentowned or controlled corporation, or its subsidiary, during his term of office. He shall not intervene in any matter before any office of the Government for his pecuniary benefit or where he may be called upon to act on account of his office.
+Section 14. No Senator or Member of the House of Representatives may personally appear as counsel before any court of justice or before the Electoral Tribunals, or quasi-judicial and other administrative bodies. Neither shall he, directly or indirectly, be interested financially in any contract with, or in any franchise or special privilege granted by the Government, or any subdivision, agency, or instrumentality thereof, including any government-owned or controlled corporation, or its subsidiary, during his term of office. He shall not intervene in any matter before any office of the Government for his pecuniary benefit or where he may be called upon to act on account of his office.
 
 Section 15. The Congress shall convene once every year on the fourth Monday of July for its regular session, unless a different date is fixed by law, and shall continue to be in session for such number of days as it may determine until thirty days before the opening of its next regular session, exclusive of Saturdays, Sundays, and legal holidays. The President may call a special session at any time.
 
-Section 16. (1). The Senate shall elect its President and the House of Representatives its Speaker, by a majority vote of all its respective Members. Each House shall choose such other officers as it may deem necessary.
+Section 16. (1) The Senate shall elect its President and the House of Representatives its Speaker, by a majority vote of all its respective Members. Each House shall choose such other officers as it may deem necessary.
 
 (2) A majority of each House shall constitute a quorum to do business, but a smaller number may adjourn from day to day and may compel the attendance of absent Members in such manner, and under such penalties, as such House may provide.
 
-(3) Each House may determine the rules of its proceedings, punish its Members for disorderly behavior, and, with the concurrence of two-thirds of all its Members,suspend or expel a Member. A penalty of suspension, when imposed, shall not exceed sixty days.
+(3) Each House may determine the rules of its proceedings, punish its Members for disorderly behavior, and, with the concurrence of two-thirds of all its Members, suspend or expel a Member. A penalty of suspension, when imposed, shall not exceed sixty days.
 
 (4) Each House shall keep a Journal of its proceedings, and from time to time publish the same, excepting such parts as may, in its judgment, affect national security; and the yeas and nays on any question shall, at the request of one-fifth of the Members present, be entered in the Journal. Each House shall also keep a Record of its proceedings.
 
 (5) Neither House during the sessions of the Congress shall, without the consent of the other, adjourn for more than three days, nor to any other place than that in which the two Houses shall be sitting.
 
-Section 17. The Senate and the House of Representatives shall each have an Electoral Tribunal which shall be the sole judge of all contests relating to the election,returns, and qualifications of their respective Members. Each Electoral Tribunal shall be composed of nine Members,three of whom shall be Justices of the Supreme Court to be designated by the Chief Justice, and the remaining six shall be Members of the Senate or the House of Representatives, as the case maybe, who shall be chosen on the basis of proportional representation from the political parties and the parties or organizations registered under the party-list system represented therein. The senior Justice in the Electoral Tribunal shall be its Chairman.
+Section 17. The Senate and the House of Representatives shall each have an Electoral Tribunal which shall be the sole judge of all contests relating to the election, returns, and qualifications of their respective Members. Each Electoral Tribunal shall be composed of nine Members, three of whom shall be Justices of the Supreme Court to be designated by the Chief Justice, and the remaining six shall be Members of the Senate or the House of Representatives, as the case may be, who shall be chosen on the basis of proportional representation from the political parties and the parties or organizations registered under the party-list system represented therein. The senior Justice in the Electoral Tribunal shall be its Chairman.
 
-Section 18. There shall be a Commission on Appointments consisting of the President of the Senate, as ex officio Chairman, twelve Senators, and twelve Members of the House of Representatives, elected by each House on the basis of proportional representation from the political parties and parties or organizations registered under the party-list system represented therein. The chairman of the Commission shall not vote, except in case of a tie. The Commission shall act on all appointments submitted to it within thirty session days of the Congress from their submission. The Commission shall rule by a majority vote of all the Members.
+Section 18. There shall be a Commission on Appointments consisting of the President of the Senate, as ex officio Chairman, twelve Senators, and twelve Members of the House of Representatives, elected by each House on the basis of proportional representation from the political parties and parties or organizations registered under the party-list system represented therein. The Chairman of the Commission shall not vote, except in case of a tie. The Commission shall act on all appointments submitted to it within thirty session days of the Congress from their submission. The Commission shall rule by a majority vote of all the Members.
 
 Section 19. The Electoral Tribunals and the Commission on Appointments shall be constituted within thirty days after the Senate and the House of Representatives shall have been organized with the election of the President and the Speaker. The Commission on Appointments shall meet only while the Congress is in session, at the call of its Chairman or a majority of all its Members, to discharge such powers and functions as are herein conferred upon it.
 
@@ -258,9 +258,9 @@ Section 23. (1) The Congress, by a vote of two-thirds of both Houses in joint se
 
 (2) In times of war or other national emergency, the Congress may, by law, authorize the President, for a limited period and subject to such restrictions as it may prescribe, to exercise powers necessary and proper to carry out a declared national policy. Unless sooner withdrawn by resolution of the Congress, such powers shall cease upon the next adjournment thereof.
 
-Section 24. All appropriation, revenue or tariff bills, bills authorizing increase of the public debt, bills of local application, and private bills hall originate exclusively in the House of Representatives, but the Senate may propose or concur with amendments.
+Section 24. All appropriation, revenue or tariff bills, bills authorizing increase of the public debt, bills of local application, and private bills shall originate exclusively in the House of Representatives, but the Senate may propose or concur with amendments.
 
-Section 25. (1) The Congress may not increase the appropriations recommended by the President for the operation of the Government as specified in the budget. The form,content, and manner of preparation of the budget shall be prescribed by law.
+Section 25. (1) The Congress may not increase the appropriations recommended by the President for the operation of the Government as specified in the budget. The form, content, and manner of preparation of the budget shall be prescribed by law.
 
 (2) No provision or enactment shall be embraced in the general appropriations bill unless it relates specifically to some particular appropriation therein. Any such provision or enactment shall be limited in its operation to the appropriation to which it relates.
 
@@ -268,7 +268,7 @@ Section 25. (1) The Congress may not increase the appropriations recommended by 
 
 (4) A special appropriations bill shall specify the purpose for which it is intended, and shall be supported by funds actually available as certified by the National Treasurer, or to be raised by a corresponding revenue proposal therein.
 
-(5) No law shall be passed authorizing any transfer of appropriations; however, the President, the President of the Senate, the Speaker of the House of Representatives, the Chief Justice of the Supreme Court, and the heads of Constitutional Commissions may, by law,be authorized to augment any item in the general appropriations law for their respective offices from savings in other items of their respective appropriations.
+(5) No law shall be passed authorizing any transfer of appropriations; however, the President, the President of the Senate, the Speaker of the House of Representatives, the Chief Justice of the Supreme Court, and the heads of Constitutional Commissions may, by law, be authorized to augment any item in the general appropriations law for their respective offices from savings in other items of their respective appropriations.
 
 (6) Discretionary funds appropriated for particular officials shall be disbursed only for public purposes to be supported by appropriate vouchers and subject to such guidelines as may be prescribed by law.
 
@@ -278,7 +278,7 @@ Section 26. (1) Every bill passed by the Congress shall embrace only one subject
 
 (2) No bill passed by either House shall become a law unless it has passed three readings on separate days, and printed copies thereof in its final form have been distributed to its Members three days before its passage, except when the President certifies to the necessity of its immediate enactment to meet a public calamity or emergency. Upon the last reading of a bill, no amendment thereto shall be allowed, and the vote thereon shall be taken immediately thereafter, and the yeas and nays entered in the Journal.
 
-Section 27. (1) Every bill passed by the Congress shall, before it becomes a law, be presented to the President. If he approves the same he shall sign it; otherwise, he shall veto it and return the same with his objections to the House where it originated, which shall enter the objections at large in its Journal and proceed to reconsider it. If, after such reconsideration, two-thirds of all the Members of such House shall agree to pass the bill, it shall be sent, together with the objections,to the other House by which it shall likewise be reconsidered, and if approved by two-thirds of all the Members of that House, it shall become a law. In all such cases, the votes of each House shall be determined by yeas or nays, and the names of the Members voting for or against shall be entered in its Journal. The President shall communicate his veto of any bill to the House where it originated within thirty days after the date of receipt thereof, otherwise, it shall become a law as if he had signed it.
+Section 27. (1) Every bill passed by the Congress shall, before it becomes a law, be presented to the President. If he approves the same he shall sign it; otherwise, he shall veto it and return the same with his objections to the House where it originated, which shall enter the objections at large in its Journal and proceed to reconsider it. If, after such reconsideration, two-thirds of all the Members of such House shall agree to pass the bill, it shall be sent, together with the objections, to the other House by which it shall likewise be reconsidered, and if approved by two-thirds of all the Members of that House, it shall become a law. In all such cases, the votes of each House shall be determined by yeas or nays, and the names of the Members voting for or against shall be entered in its Journal. The President shall communicate his veto of any bill to the House where it originated within thirty days after the date of receipt thereof, otherwise, it shall become a law as if he had signed it.
 
 [[END OF PAGE 7]]
 
@@ -288,17 +288,17 @@ Section 27. (1) Every bill passed by the Congress shall, before it becomes a law
 
 Section 28. (1) The rule of taxation shall be uniform and equitable. The Congress shall evolve a progressive system of taxation.
 
-- The Congress may, by law, authorize the President to fix within specified limits, and subject to such limitations and restrictions as it may impose, tariff rates, import and export quotas, tonnage and wharfage dues, and other duties or imposts within the framework of the national development program of the Government.
+(2) The Congress may, by law, authorize the President to fix within specified limits, and subject to such limitations and restrictions as it may impose, tariff rates, import and export quotas, tonnage and wharfage dues, and other duties or imposts within the framework of the national development program of the Government.
 
-(3) Charitable institutions, churches and parsonages or convents appurtenant thereto, mosques, non- profit cemeteries, and all lands, buildings, and improvements, actually, directly, and exclusively used for religious, charitable, or educational purposes shall be exempt from taxation.
+(3) Charitable institutions, churches and parsonages or convents appurtenant thereto, mosques, non-profit cemeteries, and all lands, buildings, and improvements, actually, directly, and exclusively used for religious, charitable, or educational purposes shall be exempt from taxation.
 
 (4) No law granting any tax exemption shall be passed without the concurrence of a majority of all the Members of the Congress.
 
 Section 29. (1) No money shall be paid out of the Treasury except in pursuance of an appropriation made by law.
 
-- No public money or property shall be appropriated, applied,paid, or employed, directly or indirectly, for the use, benefit, or support of any sect, church,denomination, sectarian institution, or system of religion, or of any priest, preacher, minister, other religious teacher, or dignitary as such, except when such priest, preacher, minister, or dignitary is assigned to the armed forces, or to any penal institution, or government orphanage or leprosarium.
+(2) No public money or property shall be appropriated, applied, paid, or employed, directly or indirectly, for the use, benefit, or support of any sect, church, denomination, sectarian institution, or system of religion, or of any priest, preacher, minister, other religious teacher, or dignitary as such, except when such priest, preacher, minister, or dignitary is assigned to the armed forces, or to any penal institution, or government orphanage or leprosarium.
 
-- All money collected on any tax levied for a special purpose shall be treated as a special fund and paid out for such purpose only. If the purpose for which a special fund was created has been fulfilled or abandoned, the balance, if any, shall be transferred to the general funds of the Government.
+(3) All money collected on any tax levied for a special purpose shall be treated as a special fund and paid out for such purpose only. If the purpose for which a special fund was created has been fulfilled or abandoned, the balance, if any, shall be transferred to the general funds of the Government.
 
 Section 30. No law shall be passed increasing the appellate jurisdiction of the Supreme Court as provided in this Constitution without its advice and concurrence.
 
@@ -311,7 +311,7 @@ Section 32. The Congress shall, as early as possible, provide for a system of in
 
 Section 1. The executive power shall be vested in the President of the Philippines.
 
-Section 2 . No person may be elected President unless he is a natural-born citizen of the Philippines, a registered voter, able to read and write, at least forty years of age on the day of the election, and a resident of the Philippines for at least ten years immediately preceding such election.
+Section 2. No person may be elected President unless he is a natural-born citizen of the Philippines, a registered voter, able to read and write, at least forty years of age on the day of the election, and a resident of the Philippines for at least ten years immediately preceding such election.
 
 Section 3. There shall be a Vice-President who shall have the same qualifications and term of office and be elected with and in the same manner as the President. He may be removed from office in the same manner as the President.
 
@@ -337,7 +337,7 @@ The Supreme Court, sitting en banc, shall be the sole judge of all contests rela
 
 Section 5. Before they enter on the execution of their office, the President, the Vice-President, or the Acting President shall take the following oath or affirmation:
 
-"I do solemnly swear (or affirm) that I will faithfully and conscientiously fulfill my duties as President (or VicePresident or Acting President) of the Philippines, preserve and defend its Constitution, execute its laws, do justice to every man, and consecrate myself to the service of the Nation. So help me God." (In case of affirmation, last sentence will be omitted.)
+"I do solemnly swear (or affirm) that I will faithfully and conscientiously fulfill my duties as President (or Vice-President or Acting President) of the Philippines, preserve and defend its Constitution, execute its laws, do justice to every man, and consecrate myself to the service of the Nation. So help me God." (In case of affirmation, last sentence will be omitted.)
 
 Section 6. The President shall have an official residence. The salaries of the President and Vice-President shall be determined by law and shall not be decreased during their tenure. No increase in said compensation shall take effect until after the expiration of the term of the incumbent during which such increase was approved. They shall not receive during their tenure any other emolument from the Government or any other source.
 
@@ -353,7 +353,7 @@ Where no President and Vice-President shall have been chosen or shall have quali
 
 The Congress shall, by law, provide for the manner in which one who is to act as President shall be selected until a President or a Vice-President shall have qualified, in case of death, permanent disability, or inability of the officials mentioned in the next preceding paragraph.
 
-Section 8. In case of death, permanent disability, removal from office, or resignation of the President, the VicePresident shall become the President to serve the unexpired term. In case of death, permanent disability, removal from office, or resignation of both the President and Vice-President, the President of the Senate or, in case of his inability, the Speaker of the House of Representatives, shall then act as President until the President or Vice-President shall have been elected and qualified.
+Section 8. In case of death, permanent disability, removal from office, or resignation of the President, the Vice-President shall become the President to serve the unexpired term. In case of death, permanent disability, removal from office, or resignation of both the President and Vice-President, the President of the Senate or, in case of his inability, the Speaker of the House of Representatives, shall then act as President until the President or Vice-President shall have been elected and qualified.
 
 [[END OF PAGE 9]]
 
@@ -363,7 +363,7 @@ The Congress shall, by law, provide who shall serve as President in case of deat
 
 Section 9. Whenever there is a vacancy in the Office of the Vice-President during the term for which he was elected, the President shall nominate a Vice-President from among the Members of the Senate and the House of Representatives who shall assume office upon confirmation by a majority vote of all the Members of both Houses of the Congress, voting separately.
 
-Section 10. The Congress shall, at ten o'clock in the morning of the third day after the vacancy in the offices of the President and Vice-President occurs, convene in accordance with its rules without need of a call and within seven days enact a law calling for a special election to elect a President and a Vice-President to be held not earlier than forty-five days nor later than sixty days from the time of such call. The bill calling such special election shall be deemed certified under paragraph 2, Section 26, Article V1 of this Constitution and shall become law upon its approval on third reading by the Congress. Appropriations for the special election shall be charged against any current appropriations and shall be exempt from the requirements of paragraph 4, Section 25, Article V1 of this Constitution. The convening of the Congress cannot be suspended nor the special election postponed. No special election shall be called if the vacancy occurs within eighteen months before the date of the next presidential election.
+Section 10. The Congress shall, at ten o'clock in the morning of the third day after the vacancy in the offices of the President and Vice-President occurs, convene in accordance with its rules without need of a call and within seven days enact a law calling for a special election to elect a President and a Vice-President to be held not earlier than forty-five days nor later than sixty days from the time of such call. The bill calling such special election shall be deemed certified under paragraph 2, Section 26, Article VI of this Constitution and shall become law upon its approval on third reading by the Congress. Appropriations for the special election shall be charged against any current appropriations and shall be exempt from the requirements of paragraph 4, Section 25, Article VI of this Constitution. The convening of the Congress cannot be suspended nor the special election postponed. No special election shall be called if the vacancy occurs within eighteen months before the date of the next presidential election.
 
 Section 11. Whenever the President transmits to the President of the Senate and the Speaker of the House of Representatives his written declaration that he is unable to discharge the powers and duties of his office, and until he transmits to them a written declaration to the contrary, such powers and duties shall be discharged by the Vice-President as Acting President.
 
@@ -371,13 +371,13 @@ Whenever a majority of all the Members of the Cabinet transmit to the President 
 
 Thereafter, when the President transmits to the President of the Senate and to the Speaker of the House of Representatives his written declaration that no inability exists, he shall reassume the powers and duties of his office. Meanwhile, should a majority of all the Members of the Cabinet transmit within five days to the President of the Senate and to the Speaker of the House of Representatives their written declaration that the President is unable to discharge the powers and duties of his office, the Congress shall decide the issue. For that purpose, the Congress shall convene, if it is not in session, within forty-eight hours, in accordance with its rules and without need of call.
 
-If the Congress, within ten days after receipt of the last written declaration, or, if not in session, within twelve days after it is required to assemble, determines by a two-thirds vote of both Houses, voting separately, that the President is unable to discharge the powers and duties of his office, the Vice- President shall act as President; otherwise, the President shall continue exercising the powers and duties of his office.
+If the Congress, within ten days after receipt of the last written declaration, or, if not in session, within twelve days after it is required to assemble, determines by a two-thirds vote of both Houses, voting separately, that the President is unable to discharge the powers and duties of his office, the Vice-President shall act as President; otherwise, the President shall continue exercising the powers and duties of his office.
 
 Section 12. In case of serious illness of the President, the public shall be informed of the state of his health. The members of the Cabinet in charge of national security and foreign relations and the Chief of Staff of the Armed Forces of the Philippines, shall not be denied access to the President during such illness.
 
 Section 13. The President, Vice-President, the Members of the Cabinet, and their deputies or assistants shall not, unless otherwise provided in this Constitution, hold any other office or employment during their tenure. They shall not, during said tenure, directly or indirectly, practice any other profession, participate in any business, or be financially interested in any contract with, or in any franchise, or special privilege granted by the Government or any subdivision, agency, or instrumentality thereof, including government-owned or controlled corporations or their subsidiaries. They shall strictly avoid conflict of interest in the conduct of their office.
 
-The spouse and relatives by consanguinity or affinity within the fourth civil degree of the President shall not during his tenure be appointed as Members of the Constitutional Commissions, or the Office of the Ombudsman, or a Secretaries, Undersecretaries, chairmen or heads of bureaus or offices, including government-owned or controlled corporations and their subsidiaries.
+The spouse and relatives by consanguinity or affinity within the fourth civil degree of the President shall not, during his tenure, be appointed as Members of the Constitutional Commissions, or the Office of the Ombudsman, or as Secretaries, Undersecretaries, chairmen or heads of bureaus or offices, including government-owned or controlled corporations and their subsidiaries.
 
 Section 14. Appointments extended by an Acting President shall remain effective, unless revoked by the elected President within ninety days from his assumption or reassumption of office.
 
@@ -397,9 +397,9 @@ Section 18. The President shall be the Commander-in-Chief of all armed forces of
 
 The Congress, if not in session, shall, within twenty-four hours following such proclamation or suspension, convene in accordance with its rules without need of a call.
 
-The Supreme Court may review, in an appropriate proceeding filed by any citizen, the sufficiency of the factual basis of the proclamation of martial law or the suspension of the privilege of the writ or the extension thereof, and must its decision thereon within thirty days from its filing.
+The Supreme Court may review, in an appropriate proceeding filed by any citizen, the sufficiency of the factual basis of the proclamation of martial law or the suspension of the privilege of the writ or the extension thereof, and must promulgate its decision thereon within thirty days from its filing.
 
-A state of martial law does not suspend the operation of the Constitution, nor supplant the functioning of the civil courts or legislative assemblies, nor authorize the conferment of jurisdiction on military courts and agencies over where civil courts are able to function, nor automatically suspend the privilege of the writ.
+A state of martial law does not suspend the operation of the Constitution, nor supplant the functioning of the civil courts or legislative assemblies, nor authorize the conferment of jurisdiction on military courts and agencies over civilians where civil courts are able to function, nor automatically suspend the privilege of the writ.
 
 The suspension of the privilege of the writ shall apply only to persons judicially charged for rebellion or offenses inherent in or directly connected with invasion.
 
@@ -411,7 +411,7 @@ He shall also have the power to grant amnesty with the concurrence of a majority
 
 Section 20. The President may contract or guarantee foreign loans on behalf of the Republic of the Philippines with the prior concurrence of the Monetary Board, and subject to such limitations as may be provided by law. The Monetary Board shall, within thirty days from the end of every quarter of the calendar year, submit to the Congress a complete report of its decision on applications for loans to be contracted or guaranteed by the Government or government-owned and controlled corporations which would have the effect of increasing the foreign debt, and containing other matters as may be provided by law.
 
-Section 21. No treaty or international agreement shall be valid and effective unless concurred in by at least twothirds of all the Members of the Senate.
+Section 21. No treaty or international agreement shall be valid and effective unless concurred in by at least two-thirds of all the Members of the Senate.
 
 Section 22. The President shall submit to the Congress within thirty days from the opening of every regular session, as the basis of the general appropriations bill, a budget of expenditures and sources of financing, including receipts from existing and proposed revenue measures.
 
@@ -430,45 +430,45 @@ Judicial power includes the duty of the courts of justice to settle actual contr
 
 Section 2. The Congress shall have the power to define, prescribe, and apportion the jurisdiction of the various courts but may not deprive the Supreme Court of its jurisdiction over cases enumerated in Section 5 hereof.
 
-No law shall be passed reorganizing the Judiciary when it under-mines the security of tenure of its Members.
+No law shall be passed reorganizing the Judiciary when it undermines the security of tenure of its Members.
 
 Section 3. The Judiciary shall enjoy fiscal autonomy. Appropriations for the Judiciary may not be reduced by the legislature below the amount appropriated for the previous year and, after approval, shall be automatically and regularly released.
 
 Section 4. (1) The Supreme Court shall be composed of a Chief Justice and fourteen Associate Justices. It may sit en banc or in its discretion, in division of three, five, or seven Members. Any vacancy shall be filled within ninety days from the occurrence thereof.
 
-- All cases involving the constitutionality of a treaty, international or executive agreement, or law, which shall be heard by the Supreme Court en banc, and all other cases which under the Rules of Court are required to be heard en banc, including those involving the constitutionality, application, or operation of presidential decrees, proclamations, orders, instructions, ordinances, and other regulations, shall be decided with the concurrence of a majority of the Members who actually took part in the deliberations on the issues in the case and voted thereon.
+(2) All cases involving the constitutionality of a treaty, international or executive agreement, or law, which shall be heard by the Supreme Court en banc, and all other cases which under the Rules of Court are required to be heard en banc, including those involving the constitutionality, application, or operation of presidential decrees, proclamations, orders, instructions, ordinances, and other regulations, shall be decided with the concurrence of a majority of the Members who actually took part in the deliberations on the issues in the case and voted thereon.
 
-- Cases or matters heard by a division shall be decided or resolved with the concurrence of a majority of the Members who actually took part in the deliberations on the issues in the case and voted thereon, and in no case, without the concurrence of at least three of such Members. When the required number is not obtained, the case shall be decided en banc: Provided, that no doctrine or principle of law laid down by the court in a decision rendered en banc or in division may be modified or reversed except by the court sitting en banc.
+(3) Cases or matters heard by a division shall be decided or resolved with the concurrence of a majority of the Members who actually took part in the deliberations on the issues in the case and voted thereon, and in no case, without the concurrence of at least three of such Members. When the required number is not obtained, the case shall be decided en banc: Provided, that no doctrine or principle of law laid down by the court in a decision rendered en banc or in division may be modified or reversed except by the court sitting en banc.
 
 Section 5. The Supreme Court shall have the following powers:
 
-- Exercise original jurisdiction over cases affecting ambassadors, other public ministers and consuls, and over petitions for certiorari, prohibition, mandamus, quo warranto, and habeas corpus.
+(1) Exercise original jurisdiction over cases affecting ambassadors, other public ministers and consuls, and over petitions for certiorari, prohibition, mandamus, quo warranto, and habeas corpus.
 
-- Review, revise, reverse, modify, or affirm on appeal or certiorari as the law or the Rules of Court may provide, final judgments and orders of lower courts in:
+(2) Review, revise, reverse, modify, or affirm on appeal or certiorari, as the law or the Rules of Court may provide, final judgments and orders of lower courts in:
 
-- All cases in which the constitutionality or validity of any treaty, international or executive agreement, law, presidential decree, proclamation, order, instruction, ordinance, or regulation is in question.
+(a) All cases in which the constitutionality or validity of any treaty, international or executive agreement, law, presidential decree, proclamation, order, instruction, ordinance, or regulation is in question.
 
-- All cases involving the legality of any tax, impost, assessment, or toll, or any penalty imposed in relation thereto.
+(b) All cases involving the legality of any tax, impost, assessment, or toll, or any penalty imposed in relation thereto.
 
-- All cases in which the jurisdiction of any lower court is in issue.
+(c) All cases in which the jurisdiction of any lower court is in issue.
 
-- All criminal cases in which the penalty imposed is reclusion perpetua or higher.
+(d) All criminal cases in which the penalty imposed is reclusion perpetua or higher.
 
-- All cases in which only an error or question of law is involved.
+(e) All cases in which only an error or question of law is involved.
 
-- Assign temporarily judges of lower courts to other stations as public interest may require. Such temporary assignment shall not exceed six months without the consent of the judge concerned.
+(3) Assign temporarily judges of lower courts to other stations as public interest may require. Such temporary assignment shall not exceed six months without the consent of the judge concerned.
 
-- Order a change of venue or place of trial to avoid a miscarriage of justice.
+(4) Order a change of venue or place of trial to avoid a miscarriage of justice.
 
-- Promulgate rules concerning the protection and enforcement of constitutional rights, pleading, practice, and procedure in all courts, the admission to the practice of law, the Integrated Bar, and legal assistance to the underprivileged. Such rules shall provide a simplified and inexpensive procedure for the speedy
+(5) Promulgate rules concerning the protection and enforcement of constitutional rights, pleading, practice, and procedure in all courts, the admission to the practice of law, the Integrated Bar, and legal assistance to the underprivileged. Such rules shall provide a simplified and inexpensive procedure for the speedy
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
-disposition of cases, shall be uniform for all courts of the same grade, and shall not diminish, increase, modify substantive rights. Rules of procedure of special courts and quasi-judicial bodies shall remain effective unless disapproved by the Supreme Court.
+disposition of cases, shall be uniform for all courts of the same grade, and shall not diminish, increase, or modify substantive rights. Rules of procedure of special courts and quasi-judicial bodies shall remain effective unless disapproved by the Supreme Court.
 
-- Appoint all officials and employees of the Judiciary in accordance with the Civil Service Law.
+(6) Appoint all officials and employees of the Judiciary in accordance with the Civil Service Law.
 
 Section 6. The Supreme Court shall have administrative supervision over all courts and the personnel thereof.
 
@@ -494,11 +494,11 @@ For the lower courts, the President shall issue the appointments within ninety d
 
 Section 10. The salary of the Chief Justice and of the Associate Justices of the Supreme Court, and of judges of lower courts shall be fixed by law. During their continuance in office, their salary shall not be decreased.
 
-Section 11. The Members of the Supreme Court and judges of lower courts shall hold office during good behavior until they reach the age of seventy years or become incapacitated to discharge the duties of their office. The Supreme Court en banc shall have the power of discipline judges of lower courts, or order their dismissal by a vote of a majority of the Members who actually took part in the deliberations on the issues in the case and voted thereon.
+Section 11. The Members of the Supreme Court and judges of lower courts shall hold office during good behavior until they reach the age of seventy years or become incapacitated to discharge the duties of their office. The Supreme Court en banc shall have the power to discipline judges of lower courts, or order their dismissal by a vote of a majority of the Members who actually took part in the deliberations on the issues in the case and voted thereon.
 
 Section 12. The Members of the Supreme Court and of other courts established by law shall not be designated to any agency performing quasi-judicial or administrative functions.
 
-Section 13. The conclusions of the Supreme Court in any case submitted to it for decision en banc or in division shall be reached in consultation before the case is assigned to a Member for the writing of the opinion of the Court. A certification to this effect signed by the Chief Justice shall be issued and a copy thereof attached to the record of the case and served upon the parties. Any Members who took no part, or dissented, or abstained from a decision or resolution must state the reason therefor. The same requirements shall be observed by all lower collegiate courts.
+Section 13. The conclusions of the Supreme Court in any case submitted to it for decision en banc or in division shall be reached in consultation before the case is assigned to a Member for the writing of the opinion of the Court. A certification to this effect signed by the Chief Justice shall be issued and a copy thereof attached to the record of the case and served upon the parties. A Member who took no part, or dissented, or abstained from a decision or resolution must state the reason therefor. The same requirements shall be observed by all lower collegiate courts.
 
 Section 14. No decision shall be rendered by any court without expressing therein clearly and distinctly the facts and the law on which it is based. No petition for review or motion for reconsideration of a decision of the court shall be refused due course or denied without stating the legal basis therefor.
 
@@ -510,11 +510,11 @@ Section 15. (1) All cases or matters filed after the effectivity of this Constit
 
 (2) A case or matter shall be deemed submitted for decision or resolution upon the filing of the last pleading, brief, or memorandum required by the Rules of Court or by the court itself.
 
-- Upon the expiration of the corresponding period, a certification to this effect signed by the Chief Justice or the presiding judge shall forthwith be issued and a copy thereof attached to the record of the case or matter, and served upon the parties. The certification shall state why a decision or resolution has not been rendered or issued within said period.
+(3) Upon the expiration of the corresponding period, a certification to this effect signed by the Chief Justice or the presiding judge shall forthwith be issued and a copy thereof attached to the record of the case or matter, and served upon the parties. The certification shall state why a decision or resolution has not been rendered or issued within said period.
 
 (4) Despite the expiration of the applicable mandatory period, the court, without prejudice to such responsibility as may have been incurred in consequence thereof, shall decide or resolve the case or matter submitted thereto for determination, without further delay.
 
-Section 16 . The Supreme Court shall, within thirty days from the opening of each regular session of the Congress, submit to the President and the Congress an annual report on the operations and activities of the Judiciary.
+Section 16. The Supreme Court shall, within thirty days from the opening of each regular session of the Congress, submit to the President and the Congress an annual report on the operations and activities of the Judiciary.
 
 ## ARTICLE IX
 ### CONSTITUTIONAL COMMISSIONS
@@ -525,13 +525,13 @@ Section 1. The Constitutional Commissions, which shall be independent, are the C
 
 Section 2. No member of a Constitutional Commission shall, during his tenure, hold any other office or employment. Neither shall he engage in the practice of any profession or in the active management or control of any business which in any way may be affected by the functions of his office, nor shall he be financially interested, directly or indirectly, in any contract with, or in any franchise or privilege granted by the Government, any of its subdivisions, agencies, or instrumentalities, including government-owned or controlled corporations or their subsidiaries.
 
-Section. 3. The salary of the Chairman and the Commissioners shall be fixed by law and shall not be decreased during their tenure.
+Section 3. The salary of the Chairman and the Commissioners shall be fixed by law and shall not be decreased during their tenure.
 
 Section 4. The Constitutional Commissions shall appoint their officials and employees in accordance with law.
 
-Section 5. The Commission shall enjoy fiscal autonomy. Their approved annual appropriations shall be automatically and regularly released.
+Section 5. The Commissions shall enjoy fiscal autonomy. Their approved annual appropriations shall be automatically and regularly released.
 
-Section 6. Each Commission en banc may promulgate its own rules concerning pleadings and practice before it or before any of its offices. Such rules however shall not diminish, increase, or modify substantive rights.
+Section 6. Each Commission en banc may promulgate its own rules concerning pleadings and practice before it or before any of its offices. Such rules, however, shall not diminish, increase, or modify substantive rights.
 
 Section 7. Each Commission shall decide by a majority vote of all its Members any case or matter brought before it within sixty days from the date of its submission for decision or resolution. A case or matter is deemed submitted for decision or resolution upon the filing of the last pleading, brief, or memorandum required by the rules of the Commission or by the Commission itself. Unless otherwise provided by this Constitution or by law, any decision, order, or ruling of each Commission may be brought to the Supreme Court on certiorari by the aggrieved party within thirty days from receipt of a copy thereof.
 
@@ -545,11 +545,11 @@ Section 1. (1) The civil service shall be administered by the Civil Service Comm
 
 [[START OF PAGE 15]]
 
-(2) The Chairman and the Commissioners shall be appointed by the President with the consent of the Commission on Appointments for a term of seven years without reappointment. Of those first appointed, the Chairman shall hold office for seven years, a Commissioner for five years, and another Commissioner for three years, without appointment. Appointment to any vacancy shall be only for the unexpired term of the predecessor. In no case shall any Member be appointed or designated in a temporary or acting capacity.
+(2) The Chairman and the Commissioners shall be appointed by the President with the consent of the Commission on Appointments for a term of seven years without reappointment. Of those first appointed, the Chairman shall hold office for seven years, a Commissioner for five years, and another Commissioner for three years, without reappointment. Appointment to any vacancy shall be only for the unexpired term of the predecessor. In no case shall any Member be appointed or designated in a temporary or acting capacity.
 
-Section 2. (1) The civil service embraces all branches, subdivisions, instrumentalities, and agencies of the Government, including government owned or controlled corporations with original charters.
+Section 2. (1) The civil service embraces all branches, subdivisions, instrumentalities, and agencies of the Government, including government-owned or controlled corporations with original charters.
 
-(2) Appoints in the civil service shall be made only according to merit and fitness to be determined, as far as practicable, and, except to positions which are policy- determining, primarily confidential, or highly technical, by competitive examination.
+(2) Appointments in the civil service shall be made only according to merit and fitness to be determined, as far as practicable, and, except to positions which are policy-determining, primarily confidential, or highly technical, by competitive examination.
 
 (3) No officer or employee of the civil service shall be removed or suspended except for cause provided by law.
 
@@ -577,7 +577,7 @@ Pensions or gratuities shall not be considered as additional, double, or indirec
 
 #### C. The Commission on Elections
 
-Section 1. (1) There shall be a Commission on Elections composed of Chairman and six Commissioners who shall be natural-born citizens of the Philippines and, at the time of their appointment, at least thirty-five years of age, holders of a college degree, and must not have been candidates for any elective position in the immediately preceding elections. However, a majority thereof, including the Chairman, shall be members of the Philippine Bar who have been engaged in the practice of law for at least ten years.
+Section 1. (1) There shall be a Commission on Elections composed of a Chairman and six Commissioners who shall be natural-born citizens of the Philippines and, at the time of their appointment, at least thirty-five years of age, holders of a college degree, and must not have been candidates for any elective position in the immediately preceding elections. However, a majority thereof, including the Chairman, shall be members of the Philippine Bar who have been engaged in the practice of law for at least ten years.
 
 (2) The Chairman and the Commissioners shall be appointed by the President with the consent of the Commission on Appointments for a term of seven years without reappointment. Of those first appointed, three Members shall hold office for seven years, two Members for five years, and the last Members for three years, without reappointment. Appointment to any vacancy shall be only for the unexpired term of the predecessor. In no case shall any Member be appointed or designated in a temporary or acting capacity.
 
@@ -607,7 +607,7 @@ Financial contributions from foreign governments and their agencies to political
 
 (9) Submit to the President and the Congress a comprehensive report on the conduct of each election, plebiscite, initiative, referendum, or recall.
 
-Section 3. The Commission on Elections may sit en banc or in two divisions, and shall promulgate its rules of procedure in order to expedite disposition of election cases, including pre- proclamation controversies. All such election cases shall be heard and decided in division, provided that motions for reconsideration of decisions shall be decided by the Commission en banc.
+Section 3. The Commission on Elections may sit en banc or in two divisions, and shall promulgate its rules of procedure in order to expedite disposition of election cases, including pre-proclamation controversies. All such election cases shall be heard and decided in division, provided that motions for reconsideration of decisions shall be decided by the Commission en banc.
 
 Section 4. The Commission may, during the election period, supervise or regulate the enjoyment or utilization of all franchises or permits for the operation of transportation and other public utilities, media of communication or information, all grants, special privileges, or concessions granted by the Government or any subdivision, agency, or instrumentality thereof, including any government-owned or controlled corporation or its subsidiary. Such supervision or regulation shall aim to ensure equal opportunity, equal rates therefor, for public information campaigns and forums among candidates in connection with the objective of holding free, orderly, honest, peaceful, and credible elections.
 
@@ -619,7 +619,7 @@ Section 6. A free and open party system shall be allowed to evolve according to 
 
 [[START OF PAGE 17]]
 
-Section 7 . No votes cast in favor of a political party, organization, or coalition shall be valid, except for those registered under the party-list system as provided in this Constitution.
+Section 7. No votes cast in favor of a political party, organization, or coalition shall be valid, except for those registered under the party-list system as provided in this Constitution.
 
 Section 8. Political parties, or organizations or coalitions registered under the party-list system, shall not be represented in the voters' registration boards, boards of election inspectors, boards of canvassers, or other similar bodies. However, they shall be entitled to appoint poll watchers in accordance with law.
 
@@ -631,17 +631,17 @@ Section 11. Funds certified by the Commission as necessary to defray the expense
 
 #### D. The Commission on Audit
 
-Section 1. (1) There shall be a Commission on Audit it composed of a Chairman and two Commissioners, who shall be natural-born citizens of the Philippines and, at the time of their appointment, at least thirty-five years of age, certified public accountants with not less than ten years of auditing experience, or members of the Philippine Bar who have been engaged in the practice of law for at least ten years, and must not have been candidates for any elective position in the elections immediately preceding their appointment. At no time shall all Members of the Commission belong to the same profession.
+Section 1. (1) There shall be a Commission on Audit composed of a Chairman and two Commissioners, who shall be natural-born citizens of the Philippines and, at the time of their appointment, at least thirty-five years of age, certified public accountants with not less than ten years of auditing experience, or members of the Philippine Bar who have been engaged in the practice of law for at least ten years, and must not have been candidates for any elective position in the elections immediately preceding their appointment. At no time shall all Members of the Commission belong to the same profession.
 
 (2) The Chairman and the Commissioners shall be appointed by the President with the consent of the Commission on Appointments for a term of seven years without reappointment. Of those first appointed, the Chairman shall hold office for seven years, one Commissioner for five years, and the other Commissioner for three years, without reappointment. Appointment to any vacancy shall be only for the unexpired portion of the term of the predecessor. In no case shall any Member be appointed or designated in a temporary or acting capacity.
 
-Section 2. (1) The Commission on Audit shall have the power, authority, and duty to examine, audit, and settle all accounts pertaining to the revenue and receipts of, and expenditures or uses of funds and property, owned or held in trust by, or pertaining to, the Government, or any of its subdivisions, agencies, or instrumentalities, including government-owned or controlled corporations with original charters, and on a post- audit basis: (a) constitutional bodies, commissions and offices that have been granted fiscal autonomy under this Constitution; (b) autonomous state colleges and universities; (c) other government-owned or controlled corporations and their subsidaries; and (d) such non-governmental entities receiving subsidy or equity, directly or indirectly, from or through the Government, which are required by law or the granting institution to submit to such audit as a condition of subsidy or equity. However, where the internal control system of the audited agencies is inadequate, the Commission may adopt such measures,including temporary or special pre-audit, as are necessary and appropriate to correct the deficiencies. It shall keep the general accounts of the Government and, for such period as may be provided by law, preserve the vouchers and other supporting papers pertaining thereto.
+Section 2. (1) The Commission on Audit shall have the power, authority, and duty to examine, audit, and settle all accounts pertaining to the revenue and receipts of, and expenditures or uses of funds and property, owned or held in trust by, or pertaining to, the Government, or any of its subdivisions, agencies, or instrumentalities, including government-owned or controlled corporations with original charters, and on a post-audit basis: (a) constitutional bodies, commissions and offices that have been granted fiscal autonomy under this Constitution; (b) autonomous state colleges and universities; (c) other government-owned or controlled corporations and their subsidiaries; and (d) such non-governmental entities receiving subsidy or equity, directly or indirectly, from or through the Government, which are required by law or the granting institution to submit to such audit as a condition of subsidy or equity. However, where the internal control system of the audited agencies is inadequate, the Commission may adopt such measures, including temporary or special pre-audit, as are necessary and appropriate to correct the deficiencies. It shall keep the general accounts of the Government and, for such period as may be provided by law, preserve the vouchers and other supporting papers pertaining thereto.
 
 (2) The Commission shall have exclusive authority, subject to the limitations in this Article, to define the scope of its audit and examination, establish the techniques and methods required therefor, and promulgate accounting and auditing rules and regulations, including those for the prevention and disallowance of irregular, unnecessary, excessive, extravagant, or unconscionable expenditures, or uses of government funds and properties.
 
 Section 3. No law shall be passed exempting any entity of the Government or its subsidiary in any guise whatever, or any investment of public funds, from the jurisdiction of the Commission on Audit.
 
-Section 4. The Commission shall submit to the President and the Congress, within the time fixed by law,an annual report covering the financial condition and operation of the Government, its subdivisions, agencies, and instrumentalities, including government-owned or controlled corporations, and non-governmental entities subject to its audit, and recommend measures necessary to improve their effectiveness and efficiency. It shall submit such other reports as may be required by law.
+Section 4. The Commission shall submit to the President and the Congress, within the time fixed by law, an annual report covering the financial condition and operation of the Government, its subdivisions, agencies, and instrumentalities, including government-owned or controlled corporations, and non-governmental entities subject to its audit, and recommend measures necessary to improve their effectiveness and efficiency. It shall submit such other reports as may be required by law.
 
 [[END OF PAGE 17]]
 
@@ -658,7 +658,7 @@ Section 2. The territorial and political subdivisions shall enjoy local autonomy
 
 Section 3. The Congress shall enact a local government code which shall provide for a more responsive and accountable local government structure instituted through a system of decentralization with effective mechanisms of recall, initiative, and referendum, allocate among the different local government units their powers, responsibilities, and resources, and provide for the qualifications, election, appointment and removal, term, salaries, powers and functions and duties of local officials, and all other matters relating to the organization and operation of the local units.
 
-Section 4. The President of the Philippines shall exercise general supervision over local governments. Provinces with respect to component cities an municipalities, and cities and municipalities with respect to component barangays shall ensure that the acts of their component units are within the scope of their prescribed powers and functions.
+Section 4. The President of the Philippines shall exercise general supervision over local governments. Provinces with respect to component cities and municipalities, and cities and municipalities with respect to component barangays shall ensure that the acts of their component units are within the scope of their prescribed powers and functions.
 
 Section 5. Each local government unit shall have the power to create its own sources of revenues and to levy taxes, fees and charges subject to such guidelines and limitations as the Congress may provide, consistent with the basic policy of local autonomy. Such taxes, fees, and charges shall accrue exclusively to the local governments.
 
@@ -666,7 +666,7 @@ Section 6. Local government units shall have a just share, as determined by law,
 
 Section 7. Local governments shall be entitled to an equitable share in the proceeds of the utilization and development of the national wealth within their respective areas, in the manner provided by law, including sharing the same with the inhabitants by way of direct benefits.
 
-Section 8. The term of office of elective local officials, except barangay officials, which shall be determined by law, shall be three years and no such official serve for more than three consecutive terms. Voluntary renunciation of the office for any length of time shall not be considered as an interruption in the continuity of his service for the full term for which he was elected.
+Section 8. The term of office of elective local officials, except barangay officials, which shall be determined by law, shall be three years and no such official shall serve for more than three consecutive terms. Voluntary renunciation of the office for any length of time shall not be considered as an interruption in the continuity of his service for the full term for which he was elected.
 
 Section 9. Legislative bodies of local governments shall have sectoral representation as may be prescribed by law.
 
@@ -700,19 +700,32 @@ Section 19. The first Congress elected under this Constitution shall, within eig
 
 Section 20. Within its territorial jurisdiction and subject to the provisions of this Constitution and national laws, the organic act of autonomous regions shall provide for legislative powers over:
 
-- Administrative organization; (2) Creation of sources of revenues; (3) Ancestral domain and natural resources; heritage; and (9) Such other matters as may be authorized by law for the promotion of the general welfare of the
+(1) Administrative organization;
+(2) Creation of sources of revenues;
+(3) Ancestral domain and natural resources;
+(4) Personal, family, and property relations;
+(5) Regional urban and rural planning development;
+(6) Economic, social, and tourism development;
+(7) Educational policies;
+(8) Preservation and development of the cultural heritage; and
+(9) Such other matters as may be authorized by law for the promotion of the general welfare of the people of the region.
 
-- Personal, family, and property relations; (5) Regional urban and rural planning development; (6) Economic, social, and tourism development; (7) Educational policies; (8) Preservation and development of the cultural people of the region.
+Section 21. The preservation of peace and order within the regions shall be the responsibility of the local police agencies which shall be organized, maintained, supervised, and utilized in accordance with applicable laws. The defense and security of the regions shall be the responsibility of the National Government.
 
-Section 21. The preservation of ponstitution, treason, bribery, graft and corruption, other high crimes, or betrayal of public trust. All other public officers and employees may be removed from office as provided by law, but not by impeachment.
+## ARTICLE XI
+### ACCOUNTABILITY OF PUBLIC OFFICERS
+
+Section 1. Public office is a public trust. Public officers and employees must at all times be accountable to the people, serve them with utmost responsibility, integrity, loyalty, and efficiency, act with patriotism and justice, and lead modest lives.
+
+Section 2. The President, the Vice-President, the Members of the Supreme Court, the Members of the Constitutional Commissions, and the Ombudsman may be removed from office on impeachment for, and conviction of, culpable violation of the Constitution, treason, bribery, graft and corruption, other high crimes, or betrayal of public trust. All other public officers and employees may be removed from office as provided by law, but not by impeachment.
 
 Section 3. (1) The House of Representatives shall have the exclusive power to initiate all cases of impeachment.
 
-- A verified complaint for impeachment may be filed by any Member of the House of Representatives or by any citizen upon a resolution of endorsement by any Member thereof, which shall be included in the Order of Business within ten session days, and referred to the proper Committee within three session days thereafter. The Committee, after hearing, and by a majority vote of all its Members, shall submit its report to the House within sixty session days from such referral, together with the corresponding resolution. The resolution shall be calendared for consideration by the House within ten session days from receipt thereof.
+(2) A verified complaint for impeachment may be filed by any Member of the House of Representatives or by any citizen upon a resolution of endorsement by any Member thereof, which shall be included in the Order of Business within ten session days, and referred to the proper Committee within three session days thereafter. The Committee, after hearing, and by a majority vote of all its Members, shall submit its report to the House within sixty session days from such referral, together with the corresponding resolution. The resolution shall be calendared for consideration by the House within ten session days from receipt thereof.
 
-- A vote of at least one-third of all the Members of the House shall be necessary either to affirm a favorable resolution with the Articles of Impeachment of the Committee, or override its contrary resolution. The vote of each Member shall be recorded.
+(3) A vote of at least one-third of all the Members of the House shall be necessary either to affirm a favorable resolution with the Articles of Impeachment of the Committee, or override its contrary resolution. The vote of each Member shall be recorded.
 
-- In case the verified complaint or resolution of impeachment is filed by at least one-third of all the Members of the House, the same shall constitute the Articles of Impeachment, and trial by the Senate shall forthwith
+(4) In case the verified complaint or resolution of impeachment is filed by at least one-third of all the Members of the House, the same shall constitute the Articles of Impeachment, and trial by the Senate shall forthwith
 
 [[END OF PAGE 19]]
 
@@ -728,17 +741,17 @@ proceed.
 
 (8) The Congress shall promulgate its rules on impeachment to effectively carry out the purpose of this section.
 
-Section 4. The present anti-graft court known as the Sandigan-bayan shall continue to function and exercise its jurisdiction as now or hereafter may be provided by law.
+Section 4. The present anti-graft court known as the Sandiganbayan shall continue to function and exercise its jurisdiction as now or hereafter may be provided by law.
 
 Section 5. There is hereby created the independent Office of the Ombudsman, composed of the Ombudsman to be known as Tanod-bayan, one overall Deputy and at least one Deputy each for Luzon, Visayas, and Mindanao. A separate Deputy for the military establishment may likewise be appointed.
 
 Section 6. The officials and employees of the Office of the Ombudsman, other than the Deputies, shall be appointed by the Ombudsman according to the Civil Service Law.
 
-Section 7. The existing Tanodbayan shall hereafter be known as the Office of the Special Prosecutor. It shall continue to function exercise its powers as now or hereafter may be provided by law, except those conferred on the Office of the Ombudsman created under this Constitution.
+Section 7. The existing Tanodbayan shall hereafter be known as the Office of the Special Prosecutor. It shall continue to function and exercise its powers as now or hereafter may be provided by law, except those conferred on the Office of the Ombudsman created under this Constitution.
 
-Section 8. The Ombudsman and his Deputies shall be natural-born citizens of the Philippines, and at the time of their appointment, at least forty years old, or recognized probity and independence, and members of the Philippine Bar, and must not have been candidates for any elective office in the immediately preceding election. The Ombudsman must have for ten years or more been a judge or engaged in the practice of law in the Philippines.
+Section 8. The Ombudsman and his Deputies shall be natural-born citizens of the Philippines, and at the time of their appointment, at least forty years old, of recognized probity and independence, and members of the Philippine Bar, and must not have been candidates for any elective office in the immediately preceding election. The Ombudsman must have for ten years or more been a judge or engaged in the practice of law in the Philippines.
 
-During their tenure, they shall be subject to the same disqualifications and prohibitions as provided for in Section 2 of Article 1X-A of this Constitution.
+During their tenure, they shall be subject to the same disqualifications and prohibitions as provided for in Section 2 of Article IX-A of this Constitution.
 
 Section 9. The Ombudsman and his Deputies shall be appointed by the President from a list of at least six nominees prepared by the Judicial and Bar Council, and from a list of three nominees for every vacancy thereafter. Such appointments shall require no confirmation. All vacancies shall be filled within three months after they occur.
 
@@ -778,7 +791,7 @@ Section 16. No loan, guaranty, or other form of financial accommodation for any 
 
 Section 17. A public officer or employee shall, upon assumption of office and as often thereafter as may be required by law, submit a declaration under oath of his assets, liabilities, and net worth. In the case of the President, the Vice-President, the Members of the Cabinet, the Congress, the Supreme Court, the Constitutional Commissions and other constitutional offices, and officers of the armed forces with general or flag rank, the declaration shall be disclosed to the public in the manner provided by law.
 
-Section 18. Public officers and employees owe the State and this Constitution allegiance at all times, and any public officer or employee who seeks to change his citizenship or acquire the status of an immigrant of another country during his tenure shall be dealth with by law.
+Section 18. Public officers and employees owe the State and this Constitution allegiance at all times, and any public officer or employee who seeks to change his citizenship or acquire the status of an immigrant of another country during his tenure shall be dealt with by law.
 
 ## ARTICLE XII
 ### National Economy and Patrimony
@@ -789,7 +802,7 @@ The State shall promote industrialization and full employment based on sound agr
 
 In the pursuit of these goals, all sectors of the economy and all regions of the country shall be given optimum opportunity to develop. Private enterprises, including corporations, cooperatives, and similar collective organizations, shall be encouraged to broaden the base of their ownership.
 
-Section 2. All lands of the public domain, waters, minerals, coal, petroleum, and other mineral oils, all forces of potential energy, fisheries, forests or timber, wildlife, flora and fauna, and other natural resources are owned by the State. With the exception of agricultural lands, all other natural resources shall not be alienated. The exploration, development, and utilization of natural resources shall be under the full control and supervision of the State. The State may directly undertake such activities, or it may enter into co-production, joint venture, or production-sharing agreements with Filipino citizens, or corporations or associations at least sixty per centum of whose capital is owned by such citizens. Such agreements may be for a period not exceeding twenty-five years, renewable for not more than twenty-five years, and under such terms and conditions as may be provided by law. In cases of water rights for irrigation, water supply fisheries, or industrial uses other than the development of water power, beneficial use may be the measure and limit of the grant.
+Section 2. All lands of the public domain, waters, minerals, coal, petroleum, and other mineral oils, all forces of potential energy, fisheries, forests or timber, wildlife, flora and fauna, and other natural resources are owned by the State. With the exception of agricultural lands, all other natural resources shall not be alienated. The exploration, development, and utilization of natural resources shall be under the full control and supervision of the State. The State may directly undertake such activities, or it may enter into co-production, joint venture, or production-sharing agreements with Filipino citizens, or corporations or associations at least sixty per centum of whose capital is owned by such citizens. Such agreements may be for a period not exceeding twenty-five years, renewable for not more than twenty-five years, and under such terms and conditions as may be provided by law. In cases of water rights for irrigation, water supply, fisheries, or industrial uses other than the development of water power, beneficial use may be the measure and limit of the grant.
 
 [[END OF PAGE 21]]
 
@@ -797,7 +810,7 @@ Section 2. All lands of the public domain, waters, minerals, coal, petroleum, an
 
 The State shall protect the nation's marine wealth in its archipelagic waters, territorial sea, and exclusive economic zone, and reserve its use and enjoyment exclusively to Filipino citizens.
 
-The Congress may, by law, allow small-scale utilization of natural resources by Filipino citizens, as well as cooperative fish farming, with priority to subsistence fishermen and fish- workers in rivers, lakes, bays, and lagoons.
+The Congress may, by law, allow small-scale utilization of natural resources by Filipino citizens, as well as cooperative fish farming, with priority to subsistence fishermen and fishworkers in rivers, lakes, bays, and lagoons.
 
 The President may enter into agreements with foreign-owned corporations involving either technical or financial assistance for large-scale exploration, development, and utilization of minerals, petroleum, and other mineral oils according to the general terms and conditions provided by law, based on real contributions to the economic growth and general welfare of the country. In such agreements, the State shall promote the development and use of local scientific and technical resources.
 
@@ -813,7 +826,7 @@ Section 5. The State, subject to the provisions of this Constitution and nationa
 
 The Congress may provide for the applicability of customary laws governing property rights or relations in determining the ownership and extent of ancestral domain.
 
-Section 6. The use of property bears a social function, and all economic agents shall contribute to the common good. Individuals and private groups, including corporations, cooperatives, and similar collective organizations, shall have the right to own establish, and operate economic enterprises, subject to the duty of the State to promote distributive justice and to intervene when the common good so demands.
+Section 6. The use of property bears a social function, and all economic agents shall contribute to the common good. Individuals and private groups, including corporations, cooperatives, and similar collective organizations, shall have the right to own, establish, and operate economic enterprises, subject to the duty of the State to promote distributive justice and to intervene when the common good so demands.
 
 Section 7. Save in cases of hereditary succession, no private lands shall be transferred or conveyed except to individuals, corporations, or associations qualified to acquire or hold lands of the public domain.
 
@@ -833,7 +846,7 @@ In the grant of rights, privileges, and concessions covering the national econom
 
 The State shall regulate and exercise authority over foreign investments within its national jurisdiction and in accordance with its national goals and priorities.
 
-Section 11. No franchise, certificate, or any other form of authorization for the operation of a public utility shall be granted except to citizens of the Philippines or to corporations or associations organized under the laws of the Philippines at franchise, certificate, or authorization be exclusive in character or for a longer period than fifty years. Neither shall any such franchise or right be granted except under the condition that it shall be subject to amendment, alteration, or repeal by the Congress when the common good so requires. The State shall encourage equity participation in public utilities by the general public. The participation of foreign investors in the governing body of any public utility enterprise shall be limited to their proportionate share in its capital, and all the executive and managing officers of such corporation or association must be citizens of the Philippines.
+Section 11. No franchise, certificate, or any other form of authorization for the operation of a public utility shall be granted except to citizens of the Philippines or to corporations or associations organized under the laws of the Philippines at least sixty per centum of whose capital is owned by such citizens, nor shall such franchise, certificate, or authorization be exclusive in character or for a longer period than fifty years. Neither shall any such franchise or right be granted except under the condition that it shall be subject to amendment, alteration, or repeal by the Congress when the common good so requires. The State shall encourage equity participation in public utilities by the general public. The participation of foreign investors in the governing body of any public utility enterprise shall be limited to their proportionate share in its capital, and all the executive and managing officers of such corporation or association must be citizens of the Philippines.
 
 Section 12. The State shall promote the preferential use of Filipino labor, domestic materials and locally produced goods, and adopt measures that help make them competitive.
 
@@ -863,7 +876,7 @@ Section 21. Foreign loans may only be incurred in accordance with law and the re
 
 [[START OF PAGE 24]]
 
-Section 22. Acts which circumvent or negate any of the provisions of this Article shall be considered minimical to the national interest and subject to criminal and civil sanctions, as may be provided by law.
+Section 22. Acts which circumvent or negate any of the provisions of this Article shall be considered inimical to the national interest and subject to criminal and civil sanctions, as may be provided by law.
 
 ## ARTICLE XIII
 ### Social Justice and Human Rights
@@ -878,7 +891,7 @@ Section 2. The promotion of social justice shall include the commitment to creat
 
 Section 3. The State shall afford full protection to labor, local and overseas, organized and unorganized, and promote full employment and equality of employment opportunities for all.
 
-It shall guarantee the rights of all workers to self-organization, collective bargaining and negotiations,and peaceful concerted activities, including the right to strike in accordance with law. They shall be entitled to security of tenure, humane conditions of work, and a living wage. They shall also participate in policy and decision-making processes affecting their rights and benefits as may be provided by law.
+It shall guarantee the rights of all workers to self-organization, collective bargaining and negotiations, and peaceful concerted activities, including the right to strike in accordance with law. They shall be entitled to security of tenure, humane conditions of work, and a living wage. They shall also participate in policy and decision-making processes affecting their rights and benefits as may be provided by law.
 
 The State shall promote the principle of shared responsibility between workers and employers and the preferential use of voluntary modes in settling disputes, including conciliation, and shall enforce their mutual compliance therewith to foster industrial peace.
 
@@ -886,7 +899,7 @@ The State shall regulate the relations between workers and employers, recognizin
 
 #### Agrarian and Natural Resources Reform
 
-Section 4. The State shall, by law, undertaken an agrarian reform program founded on the right of farmers and regular farmworkers, who are landless, to own directly or collectively the lands they till or in the case of other farmworkers, to receive a just share of the fruits thereof. To this end, the State shall encourage and undertake the just distribution of all agricultural lands, subject to such priorities and reasonable retention limits as the Congress may prescribe, taking into account ecological, developmental, or equity considerations, and subject to the payment of just compensation. In determining retention limits, the State shall respect the right of small landowners. The State shall further provide incentives for voluntary land-sharing.
+Section 4. The State shall, by law, undertake an agrarian reform program founded on the right of farmers and regular farmworkers, who are landless, to own directly or collectively the lands they till or in the case of other farmworkers, to receive a just share of the fruits thereof. To this end, the State shall encourage and undertake the just distribution of all agricultural lands, subject to such priorities and reasonable retention limits as the Congress may prescribe, taking into account ecological, developmental, or equity considerations, and subject to the payment of just compensation. In determining retention limits, the State shall respect the right of small landowners. The State shall further provide incentives for voluntary land-sharing.
 
 Section 5. The State shall recognize the right of farmers, farmworkers, and landowners, as well as cooperatives, and other independent farmers' organizations to participate in the planning, organization, and management of the program, and shall provide support to agriculture through appropriate technology and research, and adequate financial, production, marketing, and other support services.
 
@@ -916,13 +929,13 @@ Section 11. The State shall adopt an integrated and comprehensive approach to he
 
 Section 12. The State shall establish and maintain an effective food and drug regulatory system and undertake appropriate health manpower development and research, responsive to the country's health needs and problems.
 
-Section 13. The State shall establish a special agency for disabled person for their rehabilitation, selfdevelopment and self-reliance, and their integration into the mainstream of society.
+Section 13. The State shall establish a special agency for disabled persons for their rehabilitation, self-development and self-reliance, and their integration into the mainstream of society.
 
 #### Women
 
 Section 14. The State shall protect working women by providing safe and healthful working conditions, taking into account their maternal functions, and such facilities and opportunities that will enhance their welfare and enable them to realize their full potential in the service of the nation.
 
-#### Role and Rights of People's Organization
+#### Role and Rights of People's Organizations
 
 Section 15. The State shall respect the role of independent people's organizations to enable the people to pursue and protect, within the democratic framework, their legitimate and collective interests and aspirations through peaceful and lawful means.
 
@@ -936,7 +949,7 @@ Section 16. The right of the people and their organizations to effective and rea
 
 #### Human Rights
 
-Section 17. (1) There is hereby created an independent office called the Commission on Human Rights. (2) The Commission shall be composed of a Chairman and four Members who must be natural-born citizens of the Philippines and a majority of whom shall be members of the Bar. The term of office and other qualifications and disabilities of the Members of the Commission shall provided by law. (3) Until this Commission is constituted, the existing Presidential Committee on Human Rights shall continue to exercise its present functions and powers. (4) The approved annual appropriations of the Commission shall be automatically and regularly released. Section 18. The Commission on Human Rights shall have the following powers and functions: (1) Investigate, on its own or on complaint by any party, all forms of human rights violations involving civil and political rights; (2) Adopt its operational guidelines and rules of procedure, and cite for contempt for violations thereof in accordance with the Rules of Court; (3) Provide appropriate legal measures for the protection of human rights of all persons within the Philippines, as well as Filipinos residing abroad, and provide for preventive measures and legal aid services to the underprivileged whose human rights have been violated or need protection; (4) Exercise visitatorial powers over jails, prisons, or detention facilities; (5) Establish a continuing program of research, education, and information to enhance respect for the primacy of human rights; (6) Recommend to the Congress effective measures to promote human rights and to provide for compensation to victims of violations of human rights, or their families; (7) Monitor the Philippine Government's compliance with international treaty obligations on human rights; (8) Grant immunity from prosecution to any person whose testimony or whose possession of documents or other evidence is necessary or convenient to determine the truth in any investigation onducted by it or under its authority; (9) Request the assistance of any department, bureau, office, or agency in the performance of its functions; (10) Appoint its officers and employees in accordance with law; and (11) Perform such other duties and functions as may be provided by law. Section 19. The Congress may provide for other cases of violations of human rights that should fall within the
+Section 17. (1) There is hereby created an independent office called the Commission on Human Rights. (2) The Commission shall be composed of a Chairman and four Members who must be natural-born citizens of the Philippines and a majority of whom shall be members of the Bar. The term of office and other qualifications and disabilities of the Members of the Commission shall be provided by law. (3) Until this Commission is constituted, the existing Presidential Committee on Human Rights shall continue to exercise its present functions and powers. (4) The approved annual appropriations of the Commission shall be automatically and regularly released. Section 18. The Commission on Human Rights shall have the following powers and functions: (1) Investigate, on its own or on complaint by any party, all forms of human rights violations involving civil and political rights; (2) Adopt its operational guidelines and rules of procedure, and cite for contempt for violations thereof in accordance with the Rules of Court; (3) Provide appropriate legal measures for the protection of human rights of all persons within the Philippines, as well as Filipinos residing abroad, and provide for preventive measures and legal aid services to the underprivileged whose human rights have been violated or need protection; (4) Exercise visitatorial powers over jails, prisons, or detention facilities; (5) Establish a continuing program of research, education, and information to enhance respect for the primacy of human rights; (6) Recommend to the Congress effective measures to promote human rights and to provide for compensation to victims of violations of human rights, or their families; (7) Monitor the Philippine Government's compliance with international treaty obligations on human rights; (8) Grant immunity from prosecution to any person whose testimony or whose possession of documents or other evidence is necessary or convenient to determine the truth in any investigation conducted by it or under its authority; (9) Request the assistance of any department, bureau, office, or agency in the performance of its functions; (10) Appoint its officers and employees in accordance with law; and (11) Perform such other duties and functions as may be provided by law. Section 19. The Congress may provide for other cases of violations of human rights that should fall within the
 
 authority of the Commission, taking into account its recommendations.
 
@@ -945,9 +958,9 @@ authority of the Commission, taking into account its recommendations.
 
 Section 1. The State shall protect and promote the right of all citizens to quality education at all levels and shall take appropriate steps to make such education accessible to all.
 
-Section 2. The State shall: (1) Establish, maintain, and support a complete, adequate, and integrated system of education relevant to the needs of the people and society; (2) Establish and maintain, a system of free public education in the elementary and high school levels. Without limiting the natural rights of parents to rear their children, elementary education is compulsory for all children of school age; incentives which shall be available to deserving students in both public and private schools, especially to the
+Section 2. The State shall: (1) Establish, maintain, and support a complete, adequate, and integrated system of education relevant to the needs of the people and society; (2) Establish and maintain, a system of free public education in the elementary and high school levels. Without limiting the natural rights of parents to rear their children, elementary education is compulsory for all children of school age;
 
-(3) Establish and maintain a system of scholarship grants, student loan programs, subsidies, and other underprivileged;
+(3) Establish and maintain a system of scholarship grants, student loan programs, subsidies, and other incentives which shall be available to deserving students in both public and private schools, especially to the underprivileged;
 
 [[END OF PAGE 26]]
 
@@ -959,7 +972,7 @@ Section 2. The State shall: (1) Establish, maintain, and support a complete, ade
 
 Section 3. (1) All educational institutions shall include the study of the Constitution as part of the curricula.
 
-(2) They shall inculcate patriotism and nationalism, foster lover of humanity, respect for human rights, appreciation of the role of national heroes in the historical development of the country, teach the rights and duties of citizenship, strengthen ethical and spiritual values, develop moral character and personal discipline, encourage critical and creative thinking, broaden scientific and technological knowledge, and promote vocational efficiency.
+(2) They shall inculcate patriotism and nationalism, foster love of humanity, respect for human rights, appreciation of the role of national heroes in the historical development of the country, teach the rights and duties of citizenship, strengthen ethical and spiritual values, develop moral character and personal discipline, encourage critical and creative thinking, broaden scientific and technological knowledge, and promote vocational efficiency.
 
 (3) At the option expressed in writing by the parents or guardians, religion shall be allowed to be taught to their children or wards in public elementary and high schools within the regular class hours by instructors designated or approved by the religious authorities of the religion to which the children or wards belong, without additional cost to the Government.
 
@@ -977,13 +990,13 @@ Proprietary educational institutions, including those cooperatively owned, may l
 
 (4) Subject to conditions prescribed by law, all grants, endowments, donations, or contributions used actually, directly, and exclusively for educational purposes shall be exempt from tax.
 
-Section 5. (1) the State shall take into account regional and sectoral needs and conditions and shall encourage local planning in the development of educational policies and programs.
+Section 5. (1) The State shall take into account regional and sectoral needs and conditions and shall encourage local planning in the development of educational policies and programs.
 
 (2) Academic freedom shall be enjoyed in all institutions of higher learning.
 
 (3) Every citizen has a right to select a profession or course of study, subject to fair, reasonable, and equitable admission and academic requirements.
 
-(4) The State shall enhance the right of teachers to professional advancement. Non-teaching academic and nonacademic personnel shall enjoy the protection of the State.
+(4) The State shall enhance the right of teachers to professional advancement. Non-teaching academic and non-academic personnel shall enjoy the protection of the State.
 
 (5) The State shall assign the highest budgetary priority to education and ensure that teaching will attract and retain its rightful share of the best available talents through adequate remuneration and other means of job satisfaction and fulfillment.
 
@@ -991,7 +1004,9 @@ Section 5. (1) the State shall take into account regional and sectoral needs and
 
 Section 6. The national language of the Philippines is Filipino. As it evolves, it shall be further developed and enriched on the basis of existing Philippine and other languages.
 
-Subject to provisions of law and as the Congress may deem appropriate, the Government shall take steps to initiate and sustain the use of Filipino as a medium of official communication and as language of instruction in the educational system. Section 7. For purposes of communication and instruction, the official languages of the Philippines are Filipino and, until otherwise provided by law, English.
+Subject to provisions of law and as the Congress may deem appropriate, the Government shall take steps to initiate and sustain the use of Filipino as a medium of official communication and as language of instruction in the educational system.
+
+Section 7. For purposes of communication and instruction, the official languages of the Philippines are Filipino and, until otherwise provided by law, English.
 
 [[END OF PAGE 27]]
 
@@ -1007,7 +1022,7 @@ Section 9. The Congress shall establish a national language commission composed 
 
 #### Science and Technology
 
-Section 10. Science and technology are essential for national development and progress. The State shall give priority to research and development, invention, innovation, and their utilization; and to science and technology education, training, and services. It shall support indigenous, appropriate, and self- reliant scientific and technological capabilities, and their application to the country's productive systems and national life.
+Section 10. Science and technology are essential for national development and progress. The State shall give priority to research and development, invention, innovation, and their utilization; and to science and technology education, training, and services. It shall support indigenous, appropriate, and self-reliant scientific and technological capabilities, and their application to the country's productive systems and national life.
 
 Section 11. The Congress may provide for incentives, including tax deductions, to encourage private participation in programs of basic and applied scientific research. Scholarships, grants-in-aid, or other forms of incentives shall be provided to deserving science students, researchers, scientists, inventors, technologists, and specially gifted citizens.
 
@@ -1019,7 +1034,7 @@ Section 13. The State shall protect and secure the exclusive rights of scientist
 
 Section 14. The State shall foster the preservation, enrichment, and dynamic evolution of a Filipino national culture based on the principle of unity in diversity in a climate of free artistic and intellectual expression.
 
-Section 15. Arts and letters shall enjoy the partronage of the State. The State shall conserve, promote, and popularize the nation's historical and cultural heritage and resources, as well as artistic creations.
+Section 15. Arts and letters shall enjoy the patronage of the State. The State shall conserve, promote, and popularize the nation's historical and cultural heritage and resources, as well as artistic creations.
 
 Section 16. All the country's artistic and historic wealth constitutes the cultural treasure of the nation and shall be under the protection of the State which may regulate its disposition.
 
@@ -1037,22 +1052,33 @@ Section 19. (1) The State shall promote physical education and encourage sports 
 
 [[START OF PAGE 29]]
 
-- All educational institutions shall undertake regular sports activities throughout the country in cooperation with athletic clubs and other sectors.
+(2) All educational institutions shall undertake regular sports activities throughout the country in cooperation with athletic clubs and other sectors.
 
 ## ARTICLE XV
 ### THE FAMILY
 
-- Section 1. The State recognizes the Filipino family as the foundation of the nation. Accordingly, it shall strengthen its solidarity and actively promote its total development. Section 2. Marriage, as an inviolable social institution, is the foundation of the family and shall be protected by the State. Section 3. The State shall defend: (1) The right of spouses to found a family in accordance with their religious convictions and the demands of responsible parenthood; (2) The right of children to assistance, including proper care and nutrition, and special protection from all forms of neglect, abuse, cruelty, exploitation and other conditions prejudicial to their development; (3) The right of the family to a family living wage and income; and (4) The right of families or family associations to participate in the planning and implementation of policies and programs that affect them. The family has the duty to care for its elderly members but the State may also do so through just
+Section 1. The State recognizes the Filipino family as the foundation of the nation. Accordingly, it shall strengthen its solidarity and actively promote its total development.
 
-Section 4. programs of social security.
+Section 2. Marriage, as an inviolable social institution, is the foundation of the family and shall be protected by the State.
 
+Section 3. The State shall defend: (1) The right of spouses to found a family in accordance with their religious convictions and the demands of responsible parenthood; (2) The right of children to assistance, including proper care and nutrition, and special protection from all forms of neglect, abuse, cruelty, exploitation and other conditions prejudicial to their development; (3) The right of the family to a family living wage and income; and (4) The right of families or family associations to participate in the planning and implementation of policies and programs that affect them.
+
+Section 4. The family has the duty to care for its elderly members but the State may also do so through just programs of social security.
+
+## ARTICLE XVI
 ### General Provisions
 
-- Section 1. The flag of the Philippines shall be red, white, and blue, with a sun and three stars, as consecrated and honored by the people and recognized by law. Section 2. The Congress may, by law, adopt a new name for the country, a national anthem, or a national seal, which shall all be truly reflective and symbolic of the ideals, history, and traditions of the people. Such law shall take effect only upon its ratification by the people in a national referendum. Section 3. The State may not be used without its consent. Section 4. The Armed Forces of the Philippines shall be composed of a citizen armed force which shall undergo military training and serve, as may be provided by law. It shall keep a regular force necessary for the security of the State. Section 5. (1) All members of the armed forces shall take an oath or affirmation to uphold and defend this Constitution. (2) The State shall strengthen the patriotic spirit and nationalist consciousness of the military, and respect for people's rights in the performance of their duty. (3) Professionalism in the armed forces and adequate remuneration and benefits of its members shall be a prime concern of the State. The armed forces shall be insulated from partisan politics. No member of the military shall engage directly or indirectly in any partisan political activity, except to vote. (4) No member of the armed forces in the active service shall, at any time, be appointed or designated in any capacity to a civilian position in the Government including government-owned or controlled corporations or any of their subsidiaries. (5) Laws on retirement of military officers shall not allow extension of their service. (6) The officers and men of the regular force of the armed forces shall be recruited proportionately from all
+Section 1. The flag of the Philippines shall be red, white, and blue, with a sun and three stars, as consecrated and honored by the people and recognized by law.
 
-- provinces and cities as far as practicable.
+Section 2. The Congress may, by law, adopt a new name for the country, a national anthem, or a national seal, which shall all be truly reflective and symbolic of the ideals, history, and traditions of the people. Such law shall take effect only upon its ratification by the people in a national referendum.
 
-- The tour of duty of the Chief of Staff of the armed forces shall not exceed three years. However, in times of
+Section 3. The State may not be sued without its consent.
+
+Section 4. The Armed Forces of the Philippines shall be composed of a citizen armed force which shall undergo military training and serve, as may be provided by law. It shall keep a regular force necessary for the security of the State.
+
+Section 5. (1) All members of the armed forces shall take an oath or affirmation to uphold and defend this Constitution. (2) The State shall strengthen the patriotic spirit and nationalist consciousness of the military, and respect for people's rights in the performance of their duty. (3) Professionalism in the armed forces and adequate remuneration and benefits of its members shall be a prime concern of the State. The armed forces shall be insulated from partisan politics. No member of the military shall engage directly or indirectly in any partisan political activity, except to vote. (4) No member of the armed forces in the active service shall, at any time, be appointed or designated in any capacity to a civilian position in the Government including government-owned or controlled corporations or any of their subsidiaries. (5) Laws on retirement of military officers shall not allow extension of their service. (6) The officers and men of the regular force of the armed forces shall be recruited proportionately from all provinces and cities as far as practicable.
+
+(7) The tour of duty of the Chief of Staff of the armed forces shall not exceed three years. However, in times of
 
 [[END OF PAGE 29]]
 
@@ -1087,7 +1113,7 @@ Section 12. The Congress may create a consultative body to advise the President 
 
 Section 1. Any amendment to, or revision of, this Constitution may be proposed by:
 
-- The Congress, upon a vote of three-fourths of all its Members; or
+(1) The Congress, upon a vote of three-fourths of all its Members; or
 
 (2) A constitutional convention.
 
@@ -1107,11 +1133,11 @@ Any amendment under Section 2 hereof shall be valid when ratified by a majority 
 
 ## ARTICLE XVIII
 
-### Transistory Provisions
+### Transitory Provisions
 
 Section 1. The first elections of Members of the Congress under this Constitution shall be held on the second Monday of May, 1987.
 
-The first local elections shall be held on a date to be determined by the President, which may simultaneous with the election of the Members of the Congress. It shall include the election of all Members of the city or municipal councils in the Metropolitan Manila area.
+The first local elections shall be held on a date to be determined by the President, which may be simultaneous with the election of the Members of the Congress. It shall include the election of all Members of the city or municipal councils in the Metropolitan Manila area.
 
 Section 2. The Senators, Members of the House of Representatives, and the local officials first elected under this Constitution shall serve until noon of June 30, 1992.
 
@@ -1127,7 +1153,7 @@ The first regular elections for the President and Vice-President under this Cons
 
 Section 6. The incumbent President shall continue to exercise legislative powers until the first Congress is convened.
 
-Section 7. Until a law is passed, the President may fill by appointment from a list of nominees by the respective sectors the seats reserved for sectoral representation in paragraph (2), Section 5 of Article V1 of this Constitution.
+Section 7. Until a law is passed, the President may fill by appointment from a list of nominees by the respective sectors the seats reserved for sectoral representation in paragraph (2), Section 5 of Article VI of this Constitution.
 
 Section 8. Until otherwise provided by the Congress, the President may constitute the Metropolitan Authority to be composed of the heads of all local government units comprising the Metropolitan Manila area.
 
@@ -1157,19 +1183,19 @@ Section 18. At the earliest possible time, the Government shall increase the sal
 
 Section 19. All properties, records, equipment, buildings, facilities, and other assets of any office or body abolished or reorganized under Proclamation No. 3 dated March 25, 1986 or this Constitution shall be transferred to the office or body to which its powers, functions, and responsibilities substantially pertain.
 
-Section 20. The first congress shall give priority to the determination of the period for the full implementation of free public secondary education.
+Section 20. The first Congress shall give priority to the determination of the period for the full implementation of free public secondary education.
 
 Section 21. The Congress shall provide efficacious procedures and adequate remedies for the reversion to the State of all lands of the public domain and real rights connected therewith which were acquired in violation of the Constitution or the public land laws, or through corrupt practices. No transfer or disposition of such lands or real rights shall be allowed until after the lapse of one year from the ratification of this Constitution.
 
 Section 22. At the earliest possible time, the Government shall expropriate idle or abandoned agricultural lands as may be defined by law, for distribution to the beneficiaries of the agrarian reform program.
 
-Section 23. Advertising entities affected by paragraph (2), Section 11 of Article XV1 of this Constitution shall have five years from its ratification to comply on a graduated and proportionate basis with the minimum Filipino ownership requirement therein.
+Section 23. Advertising entities affected by paragraph (2), Section 11 of Article XVI of this Constitution shall have five years from its ratification to comply on a graduated and proportionate basis with the minimum Filipino ownership requirement therein.
 
 Section 24. Private armies and other armed groups not recognized by duly constituted authority shall be dismantled. All paramilitary forces including Civilian Home Defense Forces not consistent with the citizen armed force established in this Constitution, shall be dissolved or, where appropriate, converted into the regular force.
 
 Section 25. After the expiration in 1991 of the Agreement between the Republic of the Philippines and the United States of America concerning Military Bases, foreign military bases, troops, or facilities shall not be allowed in the Philippines except under a treaty duly concurred in by the Senate and, when the Congress so requires, ratified by a majority of the votes cast by the people in a national referendum held for that purpose, and recognized as a treaty by the other contracting State.
 
-Section 26. The authority to issue sequestration or freeze orders under Proclamation No. 3 dated March 25, 1986 in relation to the recovery of ill-gotten wealth shall remain operative for not more than eighteen months after the ratification of this Constitution. However, in the national interest, as certified by the President, the Congress may extend period.
+Section 26. The authority to issue sequestration or freeze orders under Proclamation No. 3 dated March 25, 1986 in relation to the recovery of ill-gotten wealth shall remain operative for not more than eighteen months after the ratification of this Constitution. However, in the national interest, as certified by the President, the Congress may extend such period.
 
 A sequestration or freeze order shall be issued only upon showing of a prima facie case. The order and the list of the sequestered or frozen properties shall forthwith be registered with the proper court. For orders issued before the ratification of this Constitution, the corresponding judicial action or proceeding shall be filed within six months from its ratification. For those issued after such ratification, the judicial action or proceeding shall be commenced within six months from the issuance thereof.
 
@@ -1183,8 +1209,9 @@ Section 27. This Constitution shall take effect immediately upon its ratificatio
 
 The foregoing proposed Constitution of the Republic of the Philippines was approved by the Constitutional Commission of 1986 on the twelfth day of October Nineteen hundred and eighty-six, and accordingly signed on the fifteenth day of October Nineteen hundred and eighty-six at the Plenary Hall, National Government Center, Quezon City, by the Commissioners whose signatures are hereunder affixed.
 
-Adopted, Cecilia Munoz Palma, President Ambrosio B. Padilla, Vice-President
---- | ---
+Adopted:
+Cecilia Munoz Palma, President
+Ambrosio B. Padilla, Vice-President
 Napoleon G. Rama, Floor Leader
 Ahmad Domocao Alonto, Assistant Floor Leader
 Jose D. Calderon, Assistant Floor Leader
@@ -1228,17 +1255,17 @@ Section 1. For purposes of the election of Members of the House of Representativ
 
 #### Metropolitan Manila Area
 
-MANILA, six (6) - First District: Barangays Nos. 1-146, N-City Boundary between Manila and Caloocan; E - From Estero de Sunog Apog going South to Estero de Vitas up to the bridge spanning Juan Luna Street, eastward to Tayuman Street up to the Railroad Tracks along Dagupan Street, thence southward to Claro M. Recto Avenue; SE - From point Claro M. Recto Avenue extending westward to Manila Bay; W - Manila Bay northward to City boundary between Manila and Caloocan. Second District: Barangays Nos. 147-267, N - City boundary between Manila and Caloocan; E - From end of Rizal Avenue Extension extending southward to Railroad Tracks at Antipolo Street; from corner Antipolo Street and Rizal Avenue on southern side of Railroad Tracks extending westward to Estero de San Lazaro, southward along Estero de San Lazaro up to corner of C. M. Recto Avenue westward to bridge spanning Claro M. Recto at Estero de la Reina; W - Estero de la Reina to Estero de Vitas to Estero Sunog Apog to City boundary between Manila and Caloocan; Third District: Barangays Nos. 268-394, N City boundary between Manila and Caloocan; E - A. Bonifacio Street extending southward to Dimasalang, to Anda-lucia, Claro M. Recto Avenue eastward to Estero de San Miguel ending at Pasig River; S - Mouth of Estero de San Miguel at Pasig River, westward to Del Pan Bridge, thence to Del Pan Street; W - Del Pan Street northward up to Claro M. Recto Extension to Estero de San Lazaro, northward to Antipolo Street, eastward to Rizal Avenue Extension, northward to boundary between Manila and Caloocan; Fourth District: Barangays Nos. 395 - 586 SW - Estero de San Miguel up to Mendiola Bridge, thence to C. M. Recto Avenue to Quezon Boulevard; W - Quezon Boulevard, Andalucia, Dimasalang up to boundary between Manila and Quezon City; NE - City boundary between Manila and Quezon City up to Ramon Magsaysay Boulevard; SE - Ramon Magsaysay Boulevard up to V. Mapa Street; S - Ramon Magsaysay Boulevard up to point Estero de San Miguel where Ramon Magsaysay Boulevard spans Estero de San Miguel; Fifth District: Barangays Nos. 649-828 N Mouth of Pasig River inland to point Paz M. Guanzon Street extending to Estero de Pandacan; NE - Estero de Pandacan up to Pedro Gil Street to Tejeron Street up to boundary of Manila and Makati; SE - City boundary between Manila and Makati up to Estero de Tripa de Gallina; S - City boundary between Pasay and Manila down to Roxas Boulevard up to edge of reclaimed areas westward to Manila Bay; W - Manila Bay up to mouth of Pasig River, Sixth District: Barangays Nos. 587-648; and 829-905 N - Starting from point which is mouth of Estero de San Miguel going eastward to Mendiola Bridge, following line along Estero de San Miguel up to point where Ramon Magsaysay Boulevard eastward to City boundary between Manila and Quezon Cityl; NE - City boundary up to point city boundary of Manila, San Juan and Quezon City; E - Manila-San Juan-Mandaluyong-Makati boundaries up to Tejeron Street; SE - Tejeron Street to Pedro Gil Street up to bridge spanning Estero de Pandacan; SW & W - Estero de Pandacan going northward to Paz M. Guanzon Street, then northward on Paz M. Guazon Street up to Pasig River to mouth of Estero de San Miguel on Pasig River.
+MANILA, six (6) - First District: Barangays Nos. 1-146, N - City Boundary between Manila and Caloocan; E - From Estero de Sunog Apog going South to Estero de Vitas up to the bridge spanning Juan Luna Street, eastward to Tayuman Street up to the Railroad Tracks along Dagupan Street, thence southward to Claro M. Recto Avenue; SE - From point Claro M. Recto Avenue extending westward to Manila Bay; W - Manila Bay northward to City boundary between Manila and Caloocan. Second District: Barangays Nos. 147-267, N - City boundary between Manila and Caloocan; E - From end of Rizal Avenue Extension extending southward to Railroad Tracks at Antipolo Street; from corner Antipolo Street and Rizal Avenue on southern side of Railroad Tracks extending westward to Estero de San Lazaro, southward along Estero de San Lazaro up to corner of C. M. Recto Avenue westward to bridge spanning Claro M. Recto at Estero de la Reina; W - Estero de la Reina to Estero de Vitas to Estero Sunog Apog to City boundary between Manila and Caloocan; Third District: Barangays Nos. 268-394, N - City boundary between Manila and Caloocan; E - A. Bonifacio Street extending southward to Dimasalang, to Andalucia, Claro M. Recto Avenue eastward to Estero de San Miguel ending at Pasig River; S - Mouth of Estero de San Miguel at Pasig River, westward to Del Pan Bridge, thence to Del Pan Street; W - Del Pan Street northward up to Claro M. Recto Extension to Estero de San Lazaro, northward to Antipolo Street, eastward to Rizal Avenue Extension, northward to boundary between Manila and Caloocan; Fourth District: Barangays Nos. 395-586, SW - Estero de San Miguel up to Mendiola Bridge, thence to C. M. Recto Avenue to Quezon Boulevard; W - Quezon Boulevard, Andalucia, Dimasalang up to boundary between Manila and Quezon City; NE - City boundary between Manila and Quezon City up to Ramon Magsaysay Boulevard; SE - Ramon Magsaysay Boulevard up to V. Mapa Street; S - Ramon Magsaysay Boulevard up to point Estero de San Miguel where Ramon Magsaysay Boulevard spans Estero de San Miguel; Fifth District: Barangays Nos. 649-828, N - Mouth of Pasig River inland to point Paz M. Guanzon Street extending to Estero de Pandacan; NE - Estero de Pandacan up to Pedro Gil Street to Tejeron Street up to boundary of Manila and Makati; SE - City boundary between Manila and Makati up to Estero de Tripa de Gallina; S - City boundary between Pasay and Manila down to Roxas Boulevard up to edge of reclaimed areas westward to Manila Bay; W - Manila Bay up to mouth of Pasig River, Sixth District: Barangays Nos. 587-648; and 829-905, N - Starting from point which is mouth of Estero de San Miguel going eastward to Mendiola Bridge, following line along Estero de San Miguel up to point where Ramon Magsaysay Boulevard spans Estero de San Miguel, thence eastward to City boundary between Manila and Quezon City; NE - City boundary up to point city boundary of Manila, San Juan and Quezon City; E - Manila-San Juan-Mandaluyong-Makati boundaries up to Tejeron Street; SE - Tejeron Street to Pedro Gil Street up to bridge spanning Estero de Pandacan; SW & W - Estero de Pandacan going northward to Paz M. Guanzon Street, then northward on Paz M. Guanzon Street up to Pasig River to mouth of Estero de San Miguel on Pasig River.
 
 [[END OF PAGE 34]]
 
 [[START OF PAGE 35]]
 
-QUEZON CITY, four (4) - First District : Barangays Del Monte, Paltok, Bungad, San Antonio, Katipunan, Veterans Village, Talayan, Damayan, Mariblo, Paraiso, Sta. Cruz, Nayong Kanluran, Philam, West Triangle, N.S. Amoranto, Paang Bundok, San Isidro Labrador, Sta. Teresita, Salvacion, Maharlika, St. Peter, Lourdes, Sto. Domingo, Sienna, San Jose, Manresa, Pag-ibig sa Nayon, Balingasa, Masambong, Damar, Bahay Toro, St. Cristo, Ramon Magsaysay, Project 6, Vasra, Alicia, and Bagong Pag-asa; Second District: Barangays Fairview, New Era, Holy Spirit, Batasan Hills, Commonwealth, Payatas, Bagong Silangan, Sauyo, Talipapa, Bagbag, San Bartolome, Sta. Lucia, Gulod, Novaliches Proper, San Agustin, Nagkaisang Nayon, Sta. Monica, Kaligayahan, Pasong Putik, Apolonio Samson, Unang Sigaw, Tandang Sora, Pasong Tamo, Culiat, Baesa, Capri, Balumbato, and Sangandaan: Third District : Barangays E. Rodriguez, Silangan, Quirino 3-A, Duyan-Duyan, Quirino 3-B, Amihan, Socorro, San Roque, Manga, Zobel Dioquino, Tagumpay, Aguinaldo, Escopa 1, Escopa 2, Escopa 3, Escopa 4, West Kamias, East Kamias, Quirino 2 A, Quririno 2 B, Quirino 2 C, Ugong Norte, Bagumbayan, Libis, Villa Maria Clara, Masagana, Milagrosa, Marilag, Bagumbayan, Loyola Heights, Pansol, and Matandang Balara; Fourth District: Barangays Bagong Lipunan, Kaunlaran, San Martin, Immaculate Concepcion, South Triangle, Sacred Heart, Laging Handa, Paligsahan, Obrero, Roxas, Kamuning, Kanluran, Kamuning Silangan, Tatalon, Don Manuel, Dona Josefa, San Isidro, Dona Aurora, Santo Nino, Santol, Dona Imelda, Kristong Hari, Kalusugan, Damayang Lagi, Mariana, Valencia, Horseshoe, Pinagkaisahan, San Vicente, U.P. Campus, Krus Na Ligas, Central, Old Capital Site, U.P. Village, Teacher's East, Teacher's West, Sikatuna, Malaya, Pinahan, and Botocan. CALOOCAN CITY, two (2) - First District : 70 Barangays; All of Caloocan North EDSA; Second District: 118 Barangays; All of Caloocan South EDSA. PASAY CITY, one (1) MALABON and NAVOTAS, one (1) SAN JUAN and MANDALUYONG, one (1) MARIKINA, one (1) MAKATI, one (1) PASIG, one (1) PARANAQUE, one (1) LAS PINAS and MUNTINGLUPA, one (1) PATEROS and TAGUIG, one (1) VALENZUELA, one (1)
+QUEZON CITY, four (4) - First District : Barangays Del Monte, Paltok, Bungad, San Antonio, Katipunan, Veterans Village, Talayan, Damayan, Mariblo, Paraiso, Sta. Cruz, Nayong Kanluran, Philam, West Triangle, N.S. Amoranto, Paang Bundok, San Isidro Labrador, Sta. Teresita, Salvacion, Maharlika, St. Peter, Lourdes, Sto. Domingo, Sienna, San Jose, Manresa, Pag-ibig sa Nayon, Balingasa, Masambong, Damar, Bahay Toro, St. Cristo, Ramon Magsaysay, Project 6, Vasra, Alicia, and Bagong Pag-asa; Second District: Barangays Fairview, New Era, Holy Spirit, Batasan Hills, Commonwealth, Payatas, Bagong Silangan, Sauyo, Talipapa, Bagbag, San Bartolome, Sta. Lucia, Gulod, Novaliches Proper, San Agustin, Nagkaisang Nayon, Sta. Monica, Kaligayahan, Pasong Putik, Apolonio Samson, Unang Sigaw, Tandang Sora, Pasong Tamo, Culiat, Baesa, Capri, Balumbato, and Sangandaan: Third District : Barangays E. Rodriguez, Silangan, Quirino 3-A, Duyan-Duyan, Quirino 3-B, Amihan, Socorro, San Roque, Mangga, Dioquino Zobel, Tagumpay, Aguinaldo, Escopa 1, Escopa 2, Escopa 3, Escopa 4, West Kamias, East Kamias, Quirino 2-A, Quirino 2-B, Quirino 2-C, Ugong Norte, Bagumbayan, Libis, Villa Maria Clara, Masagana, Milagrosa, Marilag, Bagumbuhay, Loyola Heights, Pansol, and Matandang Balara; Fourth District: Barangays Bagong Lipunan, Kaunlaran, San Martin, Immaculate Concepcion, South Triangle, Sacred Heart, Laging Handa, Paligsahan, Obrero, Roxas, Kamuning, Kanluran, Kamuning Silangan, Tatalon, Don Manuel, Dona Josefa, San Isidro, Dona Aurora, Santo Nino, Santol, Dona Imelda, Kristong Hari, Kalusugan, Damayang Lagi, Mariana, Valencia, Horseshoe, Pinagkaisahan, San Vicente, U.P. Campus, Krus Na Ligas, Central, Old Capitol Site, U.P. Village, Teacher's East, Teacher's West, Sikatuna, Malaya, Pinahan, and Botocan. CALOOCAN CITY, two (2) - First District : 70 Barangays; All of Caloocan north of EDSA; Second District: 118 Barangays; All of Caloocan south of EDSA. PASAY CITY, one (1) MALABON and NAVOTAS, one (1) SAN JUAN and MANDALUYONG, one (1) MARIKINA, one (1) MAKATI, one (1) PASIG, one (1) PARANAQUE, one (1) LAS PINAS and MUNTINLUPA, one (1) PATEROS and TAGUIG, one (1) VALENZUELA, one (1)
 
 #### Region I
 
-ABRA, one (1) BENGUET with the City of Baguio, two (2) - First District: Baguio City; Second District: all the Municipalities of Benguet. ILOCOS NORTE with Laog City, two (2) - First District: Laog City and the Municipalities of Bacarra, Bangui, Burgos, Pagud-Pagud, Pasuquin, Piddig, Sarrat, Vintar, Adams, Carasi, and Dumalneg; Second District: Municipalities of Badoc, Batac, Currimao, Dingras, Espiritu, Marcos, Nueva Era, Paoay, Pinili, San Nicolas, and Solsona. ILOCOS SUR, two (2) - First District: Municipalities of Bantay, Cabugao, Caoayan, Magsingal, San Ildefonso, San Juan, San Vicente, San Catalina, Santo Domingo, Sinait, and Vigan; Second District: Municipalities of Alilem, Banayoyo, Burgos, Candon, Cervantes, Galimuyod, Gregorio del Pilar, Lidlidda, Nagbukel, Narvacan, Quirino, Salcedo, San Emilio, San Esteban, Santa, Santa Cruz, Santa Lucia, Santa Maria, Santiago, Suyo, Tagudin, Sigay, and Sugpon. LA UNION, two (2) - First District : Municipalities of Bacnotan, Balaoan, Bangar, Luna, San Fernando, San Gabriel, San Juan, Santol, and Sudipen; Second District: Municipalities of Agoo, Aringay, Bagulin, Bauang, Burgos, Caba, Naguilian, Pugo, Rosario, Santo Tomas, and Tubao. MOUNTAIN PROVINCE, one (1) PANGASINAN with the Cities of Dagupan and San Carlos, six (6) - First District: Municipalities of Bolinao, Bani, Agno, Burgos, Dasol, Infanta, Mabini, Alaminos, Anda and Sual; Second District: Municipalities of Labrador, Lingayen, Bugallon, Aguilar, Mangatarem, Binmaley, Urbiztondo, and Basista; Third District: San Carlos City, and the Municipalities of Malasiqui, Bayambang, Calasiao, Mapandan, and Sta. Barbara; Fourth District: Dagupan City and the Municipalities of Mangaldan, San Fabian, San Jacinto, and Manaoag; Fifth District: Municipalities of Binalonan, Laoac, Urdaneta, Villasis, Sison, Pozorrubio, Bautista, Alcala, and Sto. Tomas; Sixth District: Municipalities of Rosales, Asingan, Balungao, Sta. Maria, Umingan, San Quintin, Natividad, Tayug, San Nicolas, and San Manuel.
+ABRA, one (1) BENGUET with the City of Baguio, two (2) - First District: Baguio City; Second District: all the Municipalities of Benguet. ILOCOS NORTE with Laoag City, two (2) - First District: Laoag City and the Municipalities of Bacarra, Bangui, Burgos, Pagudpud, Pasuquin, Piddig, Sarrat, Vintar, Adams, Carasi, and Dumalneg; Second District: Municipalities of Badoc, Batac, Currimao, Dingras, Espiritu, Marcos, Nueva Era, Paoay, Pinili, San Nicolas, and Solsona. ILOCOS SUR, two (2) - First District: Municipalities of Bantay, Cabugao, Caoayan, Magsingal, San Ildefonso, San Juan, San Vicente, San Catalina, Santo Domingo, Sinait, and Vigan; Second District: Municipalities of Alilem, Banayoyo, Burgos, Candon, Cervantes, Galimuyod, Gregorio del Pilar, Lidlidda, Nagbukel, Narvacan, Quirino, Salcedo, San Emilio, San Esteban, Santa, Santa Cruz, Santa Lucia, Santa Maria, Santiago, Suyo, Tagudin, Sigay, and Sugpon. LA UNION, two (2) - First District : Municipalities of Bacnotan, Balaoan, Bangar, Luna, San Fernando, San Gabriel, San Juan, Santol, and Sudipen; Second District: Municipalities of Agoo, Aringay, Bagulin, Bauang, Burgos, Caba, Naguilian, Pugo, Rosario, Santo Tomas, and Tubao. MOUNTAIN PROVINCE, one (1) PANGASINAN with the Cities of Dagupan and San Carlos, six (6) - First District: Municipalities of Bolinao, Bani, Agno, Burgos, Dasol, Infanta, Mabini, Alaminos, Anda and Sual; Second District: Municipalities of Labrador, Lingayen, Bugallon, Aguilar, Mangatarem, Binmaley, Urbiztondo, and Basista; Third District: San Carlos City, and the Municipalities of Malasiqui, Bayambang, Calasiao, Mapandan, and Sta. Barbara; Fourth District: Dagupan City and the Municipalities of Mangaldan, San Fabian, San Jacinto, and Manaoag; Fifth District: Municipalities of Binalonan, Laoac, Urdaneta, Villasis, Sison, Pozorrubio, Bautista, Alcala, and Sto. Tomas; Sixth District: Municipalities of Rosales, Asingan, Balungao, Sta. Maria, Umingan, San Quintin, Natividad, Tayug, San Nicolas, and San Manuel.
 
 #### Region II
 
@@ -1252,7 +1279,7 @@ CAGAYAN, three (3) - First District: Municipalities of Aparri, Camalaniugan, Lal
 
 IFUGAO, one (1)
 
-ISABELA, four (4) - First District: Municipalities of Sta. Maria, San Pablo, Cabagan, Sto. Tomas, Albano, Tumauini, Ilagan, Divilican, Maconacon, and Palanan; Second District: Municipalities of Aurora, San Manuel, Roxas, Mallig, Quezon, Quirino, Burgos, Gamu, Naguilian, Benito Soliven, An Mariano; Third District: Municipalities of Reina Mercedes, Cauayan, Luna, Cabatuan, San Mateo, Alicia, Angadanan, and San Guillermo; Fourth District: Municipalities Cordon, Santiango, Ramon, San Isidro, Echague, Jones, San Agustin, and Dinapigui.
+ISABELA, four (4) - First District: Municipalities of Sta. Maria, San Pablo, Cabagan, Sto. Tomas, Delfin Albano, Tumauini, Ilagan, Divilacan, Maconacon, and Palanan; Second District: Municipalities of Aurora, San Manuel, Roxas, Mallig, Quezon, Quirino, Burgos, Gamu, Naguilian, Benito Soliven, San Mariano; Third District: Municipalities of Reina Mercedes, Cauayan, Luna, Cabatuan, San Mateo, Alicia, Angadanan, and San Guillermo; Fourth District: Municipalities of Cordon, Santiago, Ramon, San Isidro, Echague, Jones, San Agustin, and Dinapigue.
 
 KALINGA-APAYAO, one (1) NUEVA VIZCAYA, one (1) QUIRINO, one (1)
 
@@ -1260,11 +1287,11 @@ KALINGA-APAYAO, one (1) NUEVA VIZCAYA, one (1) QUIRINO, one (1)
 
 BATAAN, two (2) - First District: Municipalities of Dinalupihan, Hermosa, Orani, Samal, Abucay, and Morong, Second District: Municipalities of Pilar, Orion, Limay, Bagac, Mariveles, and Balanga.
 
-BULACAN, four (4) - First District : Municipalities of Hagonoy, Paombong, Malolos, Calumpit, Pulilan, and Bulacan; Second Distict: Municipalities Baliuag, Bustos, Plaridel, Guiguinto, Balagtas, Pandi, and Bocaue; Third District: Municipalities of San Miguel, San Ildefonso, San Rafael, Angat, Norzagaray, and Remedios Trinidad; Fourth District: Municipalities of San Jose del Monte, Sta. Maria, Marilao, Meycauayan,, and Obando.
+BULACAN, four (4) - First District : Municipalities of Hagonoy, Paombong, Malolos, Calumpit, Pulilan, and Bulacan; Second District: Municipalities of Baliuag, Bustos, Plaridel, Guiguinto, Balagtas, Pandi, and Bocaue; Third District: Municipalities of San Miguel, San Ildefonso, San Rafael, Angat, Norzagaray, and Dona Remedios Trinidad; Fourth District: Municipalities of San Jose del Monte, Sta. Maria, Marilao, Meycauayan, and Obando.
 
-NUEVA ECIJA, with the Cities of Cabanatuan, Palayan and San Jose, four (4) - First District: Municipalities of Nampicuan, Cuyapo, Guimba, Quezon, Talavera, Licab, Sto. Domingo, Aliaga, and Zaragoza, Second District: San Jose City and the Municipalities of Lupao, Munoz, Talugtog, Caranglan, Pantabangan, Lanera, and Rizal; Third District: Cabanatuan City; Palayan City, and the Municipalities of General Natividad, Bongabong, Laur, Gabaldon, and Sta. Rosa, Fourth District: Municipalities fof San Leonardo, General Tinio, Penaranda, Gapan, San Isidro, Cabiao, San Antonio, and Jaen.
+NUEVA ECIJA, with the Cities of Cabanatuan, Palayan and San Jose, four (4) - First District: Municipalities of Nampicuan, Cuyapo, Guimba, Quezon, Talavera, Licab, Sto. Domingo, Aliaga, and Zaragoza, Second District: San Jose City and the Municipalities of Lupao, Munoz, Talugtog, Caranglan, Pantabangan, Llanera, and Rizal; Third District: Cabanatuan City; Palayan City, and the Municipalities of General Natividad, Bongabong, Laur, Gabaldon, and Sta. Rosa, Fourth District: Municipalities of San Leonardo, General Tinio, Penaranda, Gapan, San Isidro, Cabiao, San Antonio, and Jaen.
 
-PAMPANGA with Angeles City, four (4) - First District : Angeles City and the Municipalities of Mabalacat and Magalang; Second District: Municipalities of Lubao, Guagua, Floridablanca, Porac, Sta. Rita, and Sexmoan; Third District: Municipalities of San Fernando, Arayat, Mexico, Bacolor, and Sta. ana; Fourth District: Municipalities of Candaba, Apalit, Macabebe, Masantol, Minalin, Sto. Tomas, San Luis, and San Simon.
+PAMPANGA with Angeles City, four (4) - First District : Angeles City and the Municipalities of Mabalacat and Magalang; Second District: Municipalities of Lubao, Guagua, Floridablanca, Porac, Sta. Rita, and Sexmoan; Third District: Municipalities of San Fernando, Arayat, Mexico, Bacolor, and Sta. Ana; Fourth District: Municipalities of Candaba, Apalit, Macabebe, Masantol, Minalin, Sto. Tomas, San Luis, and San Simon.
 
 TARLAC, three (3) - First District: Municipalities of Mayantoc, Sta. Ignacia, Camiling, Moncada, San Manuel, Anao, Paniqui, Ramos, San Clemente, and Pura; Second District: Municipalities of Tarlac, Gerona, and Victoria; Third District: Municipalities of Bamban, Capas, Concepcion, and La Paz.
 
@@ -1272,43 +1299,43 @@ ZAMBALES with Olongapo City, two (2) - First District: Olongapo City and the Mun
 
 #### Region IV
 
-AURORA, one
+AURORA, one (1)
 
-(1) BATANGAS with the Cities of Batangas and Lipa, four (4) - First District: Municipalities of Nasugbu, Lian, Calatagan, Balayan, Tuy, Calaca, Lemery, and Taal; Second District: Batangas City and the Municipalities of Lobo, San Pascual, Bauan, Mabini, San Luis, and Tingloy; Third District: Municipalities of Balete, Malvar, Sto. Tomas, Tanauan, Talisay, Laurel, Agoncillo, San Nicolas, Sta. Teresita, Alitagtag, Cuenca, and Mataas na Kahoy; Fourth District : Lipa City and the Municipalities of San Juan, Taysan, Rosario, P. Garcia, Ibaan, and San Jose.
+BATANGAS with the Cities of Batangas and Lipa, four (4) - First District: Municipalities of Nasugbu, Lian, Calatagan, Balayan, Tuy, Calaca, Lemery, and Taal; Second District: Batangas City and the Municipalities of Lobo, San Pascual, Bauan, Mabini, San Luis, and Tingloy; Third District: Municipalities of Balete, Malvar, Sto. Tomas, Tanauan, Talisay, Laurel, Agoncillo, San Nicolas, Sta. Teresita, Alitagtag, Cuenca, and Mataas na Kahoy; Fourth District : Lipa City and the Municipalities of San Juan, Taysan, Rosario, P. Garcia, Ibaan, and San Jose.
 
-CAVITE with the Cities of Tagaytay, Cavite and Trece Martires, three (30 - First District: Cavite City and the Municipalities of Bacoor, Kawit, Noveleta, and Rosario; Second District: Trece Martires City and the Municipalities of Imus, Dasmarinas, Carmona, Gen. Mariano Alvarez, General Trias, and Tanza; Third District: Tagaytay City and the Municipalities of Alfonso, Amadeo, General Aguinaldo, Indang, Magallanes, Maragondon, Mendez-Nunez, Naic, Silang, and Ternate.
+CAVITE with the Cities of Tagaytay, Cavite and Trece Martires, three (3) - First District: Cavite City and the Municipalities of Bacoor, Kawit, Noveleta, and Rosario; Second District: Trece Martires City and the Municipalities of Imus, Dasmarinas, Carmona, Gen. Mariano Alvarez, General Trias, and Tanza; Third District: Tagaytay City and the Municipalities of Alfonso, Amadeo, General Aguinaldo, Indang, Magallanes, Maragondon, Mendez-Nunez, Naic, Silang, and Ternate.
 
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
 
-LAGUNA with San Pablo City, four (4) - First District: Municipalities of Binan, San Pedro and Sta. Rosa; Second District: Municipalities of Bay, Cabuyao, Calamba, and Los Banos; Third District: San Pablo City and the Municipalities of Calauan, Alaminos, Rizal, Nagcarlan, Liliw, and Victoria: Fourth District: Municipalities of Sta. Cruz, Pila, Lumban, Pagsanjan, Cavinti, Kalayaan, Paete, Pakil, Pangil, Siniloan, Famy, Mabitac, Sta. Maria, Magdalena, Luisiana, and Majayjay.
+LAGUNA with San Pablo City, four (4) - First District: Municipalities of Binan, San Pedro and Sta. Rosa; Second District: Municipalities of Bay, Cabuyao, Calamba, and Los Banos; Third District: San Pablo City and the Municipalities of Calauan, Alaminos, Rizal, Nagcarlan, Liliw, and Victoria; Fourth District: Municipalities of Sta. Cruz, Pila, Lumban, Pagsanjan, Cavinti, Kalayaan, Paete, Pakil, Pangil, Siniloan, Famy, Mabitac, Sta. Maria, Magdalena, Luisiana, and Majayjay.
 
 MARINDUQUE, one (1)
 
 OCCIDENTAL MINDORO, one (1)
 
-ORIENTAL MINDORO, two (2) - First District: Municipalities of Baco, Calapan, Naujan, Puerto Galera, San Teodoro, Victoria, Pola, and Socorro; Second District: Municipalities of Bansud, Bongabon, Bulalakao, Gloria, Mansalay, Pinamalayan, and Roxas.
+ORIENTAL MINDORO, two (2) - First District: Municipalities of Baco, Calapan, Naujan, Puerto Galera, San Teodoro, Victoria, Pola, and Socorro; Second District: Municipalities of Bansud, Bongabong, Bulalacao, Gloria, Mansalay, Pinamalayan, and Roxas.
 
-PALAWAN with Puerto Princesa City, two (2) - First District: Municipalities of Agutaya, Araceli, Busuanga, Cagayancillo, Coron, Cuyo, Dumaran, El Nido, Linapacan, Magsaysay, Roxas, San Vicente, Taytay, and Kalayaan; Second District: Puerto Princesa City and the Municipalities of Aborlan, Balabac, Batarasa, Brooke's Point, Narra, Quezon, and Marcos.
+PALAWAN with Puerto Princesa City, two (2) - First District: Municipalities of Agutaya, Araceli, Busuanga, Cagayancillo, Coron, Cuyo, Dumaran, El Nido, Linapacan, Magsaysay, Roxas, San Vicente, Taytay, and Kalayaan; Second District: Puerto Princesa City and the Municipalities of Aborlan, Balabac, Bataraza, Brooke's Point, Narra, Quezon, and Marcos.
 
-QUEZON with Lucena City, four (4) - First District: Municipalities of Burdeos, Gen. Nakar, Infanta, Jumalig, Panukulan, Patnanungan, Polilio, Real, Sampaloc, Mauban, Pagbilao, Lucban, and Tayabas; Second District: Lucena city and Municipalities of Candelaria, Dolores, San Antonio, Sariaya, and Tiaong; Third District: Municipalities of Catanauan, Gen. Luna, Macalelon, Mulanay, Pitogo, San Andres, San Francisco, San Narciso, Buenavista, Padre Burgos, Agdangan, and Unisan; Fourth District: Municipalities of Calauag, Guinayangan, Gumaca, Lopez, Tagkawayan, Atimonan, Plaridel, Alabat, Perez, and Quezon
+QUEZON with Lucena City, four (4) - First District: Municipalities of Burdeos, Gen. Nakar, Infanta, Jumalig, Panukulan, Patnanungan, Polillo, Real, Sampaloc, Mauban, Pagbilao, Lucban, and Tayabas; Second District: Lucena City and the Municipalities of Candelaria, Dolores, San Antonio, Sariaya, and Tiaong; Third District: Municipalities of Catanauan, Gen. Luna, Macalelon, Mulanay, Pitogo, San Andres, San Francisco, San Narciso, Buenavista, Padre Burgos, Agdangan, and Unisan; Fourth District: Municipalities of Calauag, Guinayangan, Gumaca, Lopez, Tagkawayan, Atimonan, Plaridel, Alabat, Perez, and Quezon
 
-RIZAL, two (2) - First District: Municipalities of Antipolo, Taytay, Cainta, Angono, and Binangonan; Second District: Municipalities of E. Rodriguez, San Mateo, Morong, Cardona, Teresa, Baras, Tanay, Pililla, and JalaJala.
+RIZAL, two (2) - First District: Municipalities of Antipolo, Taytay, Cainta, Angono, and Binangonan; Second District: Municipalities of E. Rodriguez, San Mateo, Morong, Cardona, Teresa, Baras, Tanay, Pililla, and Jala-Jala.
 
 ROMBLON, one (1)
 
 #### Region V
 
-ALBAY with Legaspi City, three (3) - First District: Municipalities of Bacacay, Malinao, Malilipot, Santo Domingo, Tabaco, and Tiwi, Second District: Legaspi City and the Municipalities of Camalig, Daraga, Manito, and RapuRapu; Third District: Municipalities of Guinobatan, Jovellar, Libon, Ligao, Oas, Pio Duran, and Polangui.
+ALBAY with Legaspi City, three (3) - First District: Municipalities of Bacacay, Malinao, Malilipot, Santo Domingo, Tabaco, and Tiwi; Second District: Legaspi City and the Municipalities of Camalig, Daraga, Manito, and Rapu-Rapu; Third District: Municipalities of Guinobatan, Jovellar, Libon, Ligao, Oas, Pio Duran, and Polangui.
 
 CAMARINES NORTE, one (1)
 
-CAMARINES SUR including the Cities of Naga and Iriga, four (4) - First District: Municipalities of Del Gallego, Ragay, Lupi, Sipocot, Libmanan, Cabusao, Pamplona, Pasacao, Minalabac, and San Fernando, Second District : Naga City and the Municipalities of Bonbon, Calabanga, Camaligan, Canaman, Gainza, Magarao, Milaor, Ocampo, and Pili; Third District: Municipalities of Caramoan, Garchitorena, Goa, Lagonoy, Presentacion, Sangay, San Jose, Tigaon, Tinambac, and Siruma; Fourth District: Iriga City and the Municipalities of Baao, Balatan, Bato, Buhi, Bula, and Nabua.
+CAMARINES SUR including the Cities of Naga and Iriga, four (4) - First District: Municipalities of Del Gallego, Ragay, Lupi, Sipocot, Libmanan, Cabusao, Pamplona, Pasacao, Minalabac, and San Fernando, Second District : Naga City and the Municipalities of Bombon, Calabanga, Camaligan, Canaman, Gainza, Magarao, Milaor, Ocampo, and Pili; Third District: Municipalities of Caramoan, Garchitorena, Goa, Lagonoy, Presentacion, Sangay, San Jose, Tigaon, Tinambac, and Siruma; Fourth District: Iriga City and the Municipalities of Baao, Balatan, Bato, Buhi, Bula, and Nabua.
 
 CATANDUANES, one (1)
 
-MASBATE, three (3) - First District Municipalities of San Pascual, Claveria, Monreal, San Jacinto, San Fernando, and Batuan; Second District: Municipalities of Masbate, Mobo, Milagros, Aroroy, Baleno, Balud, and Mandaon; Third District: Municipalities of Uson, Dimasalang, Palanas, Cataingan, Pio V. Corpuz, Esperanza, Placer, and Cawayan.
+MASBATE, three (3) - First District: Municipalities of San Pascual, Claveria, Monreal, San Jacinto, San Fernando, and Batuan; Second District: Municipalities of Masbate, Mobo, Milagros, Aroroy, Baleno, Balud, and Mandaon; Third District: Municipalities of Uson, Dimasalang, Palanas, Cataingan, Pio V. Corpuz, Esperanza, Placer, and Cawayan.
 
 SORSOGON, two (2) - First District: Municipalities of Sorsogon, Pilar, Donsol, Castilla, Bacon, Casiguran, and Magallanes; Second District: Municipalities of Barcelona, Prieto Diaz, Gubat, Juban, Bulusan, Irosin, Sta. Magdalena, Matnog, and Bulan.
 
@@ -1324,21 +1351,21 @@ ANTIQUE, one (1)
 
 CAPIZ including Roxas City, two (2) - First District: Roxas City and the Municipalities of Panay, Pilar, Pontevedra, President Roxas, Ma-ayon, and Panitan; Second District: Municipalities of Dumalag, Jamindan, Mambusao, Sapian, Sigma, Tapaz, Cuartero, Dao, Dumarao, and Ivisan.
 
-ILOILO, five (5) - First District: Municipalities of Guimbal, Igbaras, San Joaquin, Tigbauan, Tubungan, Miagao, and Oton; Second District; Municipalities of Jordan, Nueva Valencia, Buenavista, Pavia, Leganes, Sta. Barbara, New Lucena, Zarraga, Alimodian, Leon, and San Miguel; Third District: Municipalities of Maasin, Cabatuan, janiuay, Badiangan, Mina, Pototan, Calinog, Lambunao, and Bingawan; Fourth District: Municipalities of Passi, San Enrique, Duenas, Dingle, Barotac Nuevo, Dumangas, Anilao, and Banate; Fifth District: Municipalities of Barotac Viejo, San Rafael, Ajuy, Lemery, Concepcion, Sara, San Dionisio, Batad, Estancia, Balasan, and Carles.
+ILOILO, five (5) - First District: Municipalities of Guimbal, Igbaras, San Joaquin, Tigbauan, Tubungan, Miagao, and Oton; Second District: Municipalities of Jordan, Nueva Valencia, Buenavista, Pavia, Leganes, Sta. Barbara, New Lucena, Zarraga, Alimodian, Leon, and San Miguel; Third District: Municipalities of Maasin, Cabatuan, Janiuay, Badiangan, Mina, Pototan, Calinog, Lambunao, and Bingawan; Fourth District: Municipalities of Passi, San Enrique, Duenas, Dingle, Barotac Nuevo, Dumangas, Anilao, and Banate; Fifth District: Municipalities of Barotac Viejo, San Rafael, Ajuy, Lemery, Concepcion, Sara, San Dionisio, Batad, Estancia, Balasan, and Carles.
 
 ILOILO CITY, one (1)
 
 NEGROS OCCIDENTAL, with the Cities of San Carlos, Cadiz, Bago, La Carlota, and Silay, six (6) - First District: San Carlos City and the Municipalities of Toboso, Calatrava, Escalante, and S. Benedicto; Second District: Cadiz City and the Municipalities of Sagay and Manapla; Third District: Silay City and the Municipalities of Victorias, Enrique B. Magalona, Talisay, and Murcia; Fourth District: Bago City and the Municipalities of Valladolid, San Enrique, Pontevedra, Pulupandan, and La Carlota; Fifth District: Municipalities of La Castellana, Moises Padilla, Isabela, Binalbagan, Himamaylan, and Hinigaran; Sixth District: Municipalities of Kabankalan, Ilog, Cauayan, Candoni, Sipalay, and Hinobaan.
 
-BACOLOD CITY, ONE ( 1 )
+BACOLOD CITY, one (1)
 
 #### Region VII
 
 BOHOL, with Tagbilaran City, three (3) - First District: Tagbilaran City and the Municipalities of Alburquerque, Antequera, Baclayon, Balilihan, Calape, Catigbian, Corella, Cortes, Dauis, Loon, Maribojoc, Panglao, Sikatuna, and Tubigon; Second District: Municipalities of Clarin, Inabangan, Sagbayan, Buenavista, Jetafe, Dagohoy, Danao, San Miguel, Trinidad, Talibon, Ubay, Bien Unido, San Isidro, and Pres. C. P. Garcia; Third District: Municipalities of Loay, Loboc, Bilar, Batuan, Carmen, Sevilla, Lila, Dimiao, Valencia, Garcia-Hernandez, Jagna, Duero, Guindulman, Candijay, Mabini, Alicia, Anda, Sierra Bullones, and Pilar.
 
-CEBU, with the Cities of Danao, Lapu-lapu, Mandaue, and Toledo, six (6) - First District: Municipalities of Talisay, Minglanilla, Naga, San Fernando, Carcar, and Sibongan; Second District: Municipalities of Argao, Dalaguete, Alcoy, Boljoon, Oslob, Santander, Samboan, Ginatilan, Malabuyoc, Alegria, Badian, Moal- boal, Alcantara, Ronda, and Dumanjug; Third District: Toledo City and the Municipalities of Barili, Alonguinsan, Pinamungajan, Balamban, Asturias, and Tuburan; Fourth District: Municipalities of Tabuelan, San Remigio, Sta. Fe, Bantayan, Madridejos, Daan- bantayan, Medellin, Bogo, and Tabogon; Fifth District: Danao City and the Municipalities of Borbon, Sogod, Catmon, Carmen, Compostela, Liloan, San Francisco, Poro, Tudela, and Pilar; Sixth District: Lapu-lapu City, Mandanue City, and the Municipalities of Cordova and Consolacion.
+CEBU, with the Cities of Danao, Lapu-lapu, Mandaue, and Toledo, six (6) - First District: Municipalities of Talisay, Minglanilla, Naga, San Fernando, Carcar, and Sibonga; Second District: Municipalities of Argao, Dalaguete, Alcoy, Boljoon, Oslob, Santander, Samboan, Ginatilan, Malabuyoc, Alegria, Badian, Moalboal, Alcantara, Ronda, and Dumanjug; Third District: Toledo City and the Municipalities of Barili, Aloguinsan, Pinamungajan, Balamban, Asturias, and Tuburan; Fourth District: Municipalities of Tabuelan, San Remigio, Sta. Fe, Bantayan, Madridejos, Daanbantayan, Medellin, Bogo, and Tabogon; Fifth District: Danao City and the Municipalities of Borbon, Sogod, Catmon, Carmen, Compostela, Liloan, San Francisco, Poro, Tudela, and Pilar; Sixth District: Lapu-lapu City, Mandaue City, and the Municipalities of Cordova and Consolacion.
 
-CEBU CITY, two (2) - First District: Barangays of Adlawon, Agsungot, Apas, Bacayan, Banilad, Binaliw, Budlaan, Busay, Cmbinocot, Camputhaw, Capitol Site, Carreta, Central Proper, Cogon-Ramos, Day-as, Ermita, Guba, Hipodromo, Kalubihan, Kamagayan, Kasambagan, Lahug, Lorega, Lusaran, Luz, Mabini, Mabolo, Malubog, Pahina Central, Parian, Paril, Pit-os, Pulang Bato, Sambag 1, Sambag 11, San Antonio, San Jose, San Roque, Sta. Cruz, Sirao, T. Padilla, Talamban, Taptap, Tejero, Tinago, and Zapatera; Second District: Barangays of Babag, Basak Pardo, Basak San Nicolas, Bonbon, Buhisan, Bulacao pardo, Bout-Taup, Calamba, Cogon Pardo, Duljo Fatima, Guadalupe, Inayawan, Kalunasan, Kinasang-an Pardo, Labangon, Mambaling, Pahina San Nicolas, Pamutan, Pardo, Pasil Abuno, Sibugay, Punta Princesa, Quiot, San Nicolas, Sawang Calero, Sinsin, Suba Pasil, Sudlon, Sapangdako, Tabunan, Tigbao, Tisa, and Toong.
+CEBU CITY, two (2) - First District: Barangays of Adlawon, Agsungot, Apas, Bacayan, Banilad, Binaliw, Budla-an, Busay, Cambinocot, Camputhaw, Capitol Site, Carreta, Central Proper, Cogon-Ramos, Day-as, Ermita, Guba, Hipodromo, Kalubihan, Kamagayan, Kasambagan, Lahug, Lorega, Lusaran, Luz, Mabini, Mabolo, Malubog, Pahina Central, Parian, Paril, Pit-os, Pulang Bato, Sambag I, Sambag II, San Antonio, San Jose, San Roque, Sta. Cruz, Sirao, T. Padilla, Talamban, Taptap, Tejero, Tinago, and Zapatera; Second District: Barangays of Babag, Basak Pardo, Basak San Nicolas, Bonbon, Buhisan, Bulacao Pardo, Buot-Taup, Calamba, Cogon Pardo, Duljo Fatima, Guadalupe, Inayawan, Kalunasan, Kinasang-an Pardo, Labangon, Mambaling, Pahina San Nicolas, Pamutan, Pardo, Pasil, Abuno, Sibugay, Punta Princesa, Quiot, San Nicolas, Sawang Calero, Sinsin, Suba Pasil, Sudlon, Sapangdako, Tabunan, Tigbao, Tisa, and Toong.
 
 NEGROS ORIENTAL, with the Cities of Bais, Canlaon, and Dumaguete, three (3) - First District: Canlaon City and the Municipalities of Vallehermoso, Guihulngan, La Libertad, Jimalalud, Tayasan, Ayungon, Bindoy, and Manjuyod; Second District: Bais City, Dumaguete City, and the Municipalities of Mabinay, Tanjay, Pamplona, Amlan, San Jose, and Sibulan; Third District: Municipalities of Valencia, Bacong, Dauin, Zamboanguita, Siaton, Sta. Catalina, Bayawan, and Basay.
 
@@ -1350,37 +1377,37 @@ SIQUIJOR, one (1)
 
 #### Region VIII
 
-LEYTE with the Cities of Tacloban and Ormoc, five (5) - First District: Tacloban City and the municipalities of Alangalang, Babatngon, Palo, San Miguel, Sta. Fe, Tanauan, and Talosa; Second District: Municipalities of Barugo, Barauen, Capoocan, Carigara, Dagami, Dulag, Jaro, Julita, La Paz, Mayorga, MacArcthur, Pastrana, Tabontabon, and Tunga; Third District: Municipalities of Almeria, Biliran, Cabucgayan, Caibiran, Calubian, Culaba, Kawayan, Leyte, Maripipi, Naval, San Isidro, Tabango, and Villaba; Fourth District: Ormoc city and the Municipalities of Albuera, Isabel, Kananga, Matagob, Merida, and Palompon; Fifth District: Municipalities of Abuyog, Bato, Baybay, Hilongos, Hindang, Inopacan, Javier, Mahaplag, and Matalom.
+LEYTE with the Cities of Tacloban and Ormoc, five (5) - First District: Tacloban City and the municipalities of Alangalang, Babatngon, Palo, San Miguel, Sta. Fe, Tanauan, and Tolosa; Second District: Municipalities of Barugo, Burauen, Capoocan, Carigara, Dagami, Dulag, Jaro, Julita, La Paz, Mayorga, MacArthur, Pastrana, Tabontabon, and Tunga; Third District: Municipalities of Almeria, Biliran, Cabucgayan, Caibiran, Calubian, Culaba, Kawayan, Leyte, Maripipi, Naval, San Isidro, Tabango, and Villaba; Fourth District: Ormoc city and the Municipalities of Albuera, Isabel, Kananga, Matagob, Merida, and Palompon; Fifth District: Municipalities of Abuyog, Bato, Baybay, Hilongos, Hindang, Inopacan, Javier, Mahaplag, and Matalom.
 
 SOUTHERN LEYTE, one (1)
 
 EASTERN SAMAR, one (1)
 
-NORTHERN SAMAR, two (2) - First District: Municipalities of Allen, Biri, Bobon, Capul, Catarman, Lavezares, Lope de Vega, Rosario, San Antonio, San Isidro, San Jose, San Vicente, Victoria, and Mondragon; Second District: Municipalities of Silvino Lobos, San Roque, Pambuyan, Las Navas, Catubig, Laoang, Palapag, Mapanas, Gamay, and Lapinig.
+NORTHERN SAMAR, two (2) - First District: Municipalities of Allen, Biri, Bobon, Capul, Catarman, Lavezares, Lope de Vega, Rosario, San Antonio, San Isidro, San Jose, San Vicente, Victoria, and Mondragon; Second District: Municipalities of Silvino Lobos, San Roque, Pambujan, Las Navas, Catubig, Laoang, Palapag, Mapanas, Gamay, and Lapinig.
 
-SAMAR with Calbayog city, two (2) - First District: Calbayog City and the Municipalities of almagro, Gandara, Matuguinao, Pag- sanghan, San Jorge, Santa Margarita, Sto. Nino, Tagapul-an, and Tarangnan; Second District: Municipalities of Basey, Calbiga, Catbalogan, Daram, Hinabangan, San Jose de Buan, Jiabong, Marabut, Motiong, Pinabacadao, San Sebastian, Sta. Rita, Talalora, Villareal, Wright, and Zumarraga.
+SAMAR with Calbayog city, two (2) - First District: Calbayog City and the Municipalities of Almagro, Gandara, Matuguinao, Pagsanghan, San Jorge, Santa Margarita, Sto. Nino, Tagapul-an, and Tarangnan; Second District: Municipalities of Basey, Calbiga, Catbalogan, Daram, Hinabangan, San Jose de Buan, Jiabong, Marabut, Motiong, Pinabacdao, San Sebastian, Sta. Rita, Talalora, Villareal, Wright, and Zumarraga.
 
 #### Region IX
 
 BASILAN, one (1)
 
-SULU, two (2) - First District: Municipalities of Jolo, Marungas, Indanan, Pangutaran, Parang, Talipao, Maimbung, and Patikul; Second District: Municipalities of Siasi, Pandami, Pata, Luuk, K. Culuang, Panamao, New Panamao, Tapul, Lungus, and Tongkil.
+SULU, two (2) - First District: Municipalities of Jolo, Marungas, Indanan, Pangutaran, Parang, Talipao, Maimbung, and Patikul; Second District: Municipalities of Siasi, Pandami, Pata, Luuk, K. Caluang, Panamao, New Panamao, Tapul, Lugus, and Tongkil.
 
 TAWI-TAWI, one (1)
 
-ZAMBOANGA DEL NORTE with the Cities of Dapitan and Dipolog, three (3) - First District: Dapitan City and the Municipalities of Sibutad, Rizal, La Libertad, Mutia, Pinan, Sergio Osmena, Sr., and Polanco; Second District: Dipolog City and the Municipalities of Katipunan, Pres. Manuel A. Roxas, Manukan, Ponot, Siayan, and Sindangan; Third District: Municipalities of Salug; Godod, Liloy, Tampilisan, Labason, Gutalac, Siocon, Baliquian, Siraway, Bacungan, and Sibuco.
+ZAMBOANGA DEL NORTE with the Cities of Dapitan and Dipolog, three (3) - First District: Dapitan City and the Municipalities of Sibutad, Rizal, La Libertad, Mutia, Pinan, Sergio Osmena, Sr., and Polanco; Second District: Dipolog City and the Municipalities of Katipunan, Pres. Manuel A. Roxas, Manukan, Ponot, Siayan, and Sindangan; Third District: Municipalities of Salug, Godod, Liloy, Tampilisan, Labason, Gutalac, Siocon, Baliguian, Siraway, Bacungan, and Sibuco.
 
-ZAMBOANGA DEL SUR, with Pagadian City, three (3) - First District: Pagadian City and the Municipalities of Dumingag, Mahayag, Molave, Tambulig, Midsalip, R. Magsaysay, Labangan, Aurora, Tukuran, Josefina, and Don Mariano Marcos; Second District: Municipalities of Dumalinao, San Pablo, Tabina, Dima- taling, Dinas, San Miguel, Margosatubig, Lapuyan, Kumalarang, Bayog, Lakewood, Pitogo, and Vincenzo A. Sagun; Third District: Municipalities of Malangas, Alicia, Olutanga, Mabuhay, Siay, Kabasalan, Naga, Ipil, Titay, Tungawan, Buug, Imelda, Payao, Talusan, Diplahan, and Roseller Lim.
+ZAMBOANGA DEL SUR, with Pagadian City, three (3) - First District: Pagadian City and the Municipalities of Dumingag, Mahayag, Molave, Tambulig, Midsalip, R. Magsaysay, Labangan, Aurora, Tukuran, Josefina, and Don Mariano Marcos; Second District: Municipalities of Dumalinao, San Pablo, Tabina, Dimataling, Dinas, San Miguel, Margosatubig, Lapuyan, Kumalarang, Bayog, Lakewood, Pitogo, and Vincenzo A. Sagun; Third District: Municipalities of Malangas, Alicia, Olutanga, Mabuhay, Siay, Kabasalan, Naga, Ipil, Titay, Tungawan, Buug, Imelda, Payao, Talusan, Diplahan, and Roseller Lim.
 
 ZAMBOANGA CITY, one (1)
 
 #### Region X
 
-AGUSAN DEL NORTE, with the City of Butuan, two (2) - First District: Butuan City and the Municipality of Las Nieves, Second District: Municipalities of Buenavista, Cabadbaran, Carmen, Jabonga, Kitcharao, Magallanes, Nasipit, Santiago, Tubay, and Remedios T. Romualdez.
+AGUSAN DEL NORTE, with the City of Butuan, two (2) - First District: Butuan City and the Municipality of Las Nieves; Second District: Municipalities of Buenavista, Cabadbaran, Carmen, Jabonga, Kitcharao, Magallanes, Nasipit, Santiago, Tubay, and Remedios T. Romualdez.
 
 AGUSAN DEL SUR, one (1)
 
-BUKIDNON, three (3) - First District: Municipalities of Talakag, Baungon, Malitbog, Libona, Manolo Fortich, Sumialo, Panganto-can, and Kalilangan; Second District: Municipalities of Malay-balay, Lantapan, Cabanglasan, Valencia, San Fernando, and Impasugong; Third District: Municipalities of Maramag, Quezon, Don Carlos, Kitaotao, Dangcagan, Kibawe, Damulog, and Kadingilan.
+BUKIDNON, three (3) - First District: Municipalities of Talakag, Baungon, Malitbog, Libona, Manolo Fortich, Sumilao, Pangantucan, and Kalilangan; Second District: Municipalities of Malaybalay, Lantapan, Cabanglasan, Valencia, San Fernando, and Impasugong; Third District: Municipalities of Maramag, Quezon, Don Carlos, Kitaotao, Dangcagan, Kibawe, Damulog, and Kadingilan.
 
 [[END OF PAGE 39]]
 
@@ -1390,35 +1417,35 @@ CAMIGUIN, one (1)
 
 MISAMIS OCCIDENTAL with the Cities of Oroquieta, Ozamiz and Tangub, two (2) - First District: Oroquieta City and the Municipalities of Baliangao, Plaridel, Calamba, Sapang Dalaga, Lopez Jaena, Aloran, Concepcion, Panaon, and Jimenez; Second District: Ozamiz City, Tangub City, and the Municipalities of Bonifacio, Tudela, Clarin, Sinacaban, and Don Mariano Marcos.
 
-MISAMIS ORIENTAL, with Gingoog City, two (2) - First District: Gingoog City and the Municipalities of Magsaysay, Talisayan, Balingoan, Medina, Kinogitan, Sugbongcogon, Binuangan, Salay, Lagonglong, and Balingasag; Second District: Municipalities of Claveria, Jasaan, Villanueva, Tagoloan, Alubijid, El Salvador, Gitagum, Initao, Laguindingan, Libertad, Lugait, Manticao, Naawan, and Opol.
+MISAMIS ORIENTAL, with Gingoog City, two (2) - First District: Gingoog City and the Municipalities of Magsaysay, Talisayan, Balingoan, Medina, Kinoguitan, Sugbongcogon, Binuangan, Salay, Lagonglong, and Balingasag; Second District: Municipalities of Claveria, Jasaan, Villanueva, Tagoloan, Alubijid, El Salvador, Gitagum, Initao, Laguindingan, Libertad, Lugait, Manticao, Naawan, and Opol.
 
-CAGAYAN DE ORO CITY one (1)
+CAGAYAN DE ORO CITY, one (1)
 
-SURIGAO DEL NORTE with the City of Surigao, two (2) - First District: Municipalities of Sta. Monica, San Isidro, Del Carme, Pilar, General Luna, Dapa, Socorro, Burgos, San Benito, Loreto, Libjo, Dinagat, Cagdianao, Tubajon, and Basilisa; Second District: Surigao City and the Municipalities of San Francisco, Tagana-an, Sison, Placer, Malimono, Bacauag, Gigaquit, Tubod, Mainit, Alegria, and Claver.
+SURIGAO DEL NORTE with the City of Surigao, two (2) - First District: Municipalities of Sta. Monica, San Isidro, Del Carmen, Pilar, General Luna, Dapa, Socorro, Burgos, San Benito, Loreto, Libjo, Dinagat, Cagdianao, Tubajon, and Basilisa; Second District: Surigao City and the Municipalities of San Francisco, Tagana-an, Sison, Placer, Malimono, Bacuag, Gigaquit, Tubod, Mainit, Alegria, and Claver.
 
 #### Region XI
 
-DAVAO DEL NORTE, three (3) - First District: Municipalities of Moncayo, Montevista, Compostela, Nabunturan, New Bataan, Mawab, and San Mariano; Second District: Municipalities of San Vicente, Capalong, Asuncion, New Corella, Tagum, Maco, Mabini, and Pantukan; Third District: Municipalities of Sto. Tomas, Carmen, Panabo, Babak, Samal, and Kaputian.
+DAVAO DEL NORTE, three (3) - First District: Municipalities of Monkayo, Montevista, Compostela, Nabunturan, New Bataan, Mawab, and San Mariano; Second District: Municipalities of San Vicente, Kapalong, Asuncion, New Corella, Tagum, Maco, Mabini, and Pantukan; Third District: Municipalities of Sto. Tomas, Carmen, Panabo, Babak, Samal, and Kaputian.
 
 DAVAO ORIENTAL, two (2) - First District: Municipalities of Boston, Cateel, Baganga, Caraga, Manay, and Tarragona; Second District: Municipalities of Mati, Banaybanay, Lupon, San Isidro, and Governor Generoso.
 
-DAVAO DEL SUR, two (2) - First District: Municipalities of Magsaysay, Bansalan, Sta. Cruz, Matanao, Digos, Hagonoy, and Padada; Second District: Municipalities of Kiblawan, Sulop, Malalag, Sta. Maria, Malita, Jose Abad Santos, Don Marcelino, and Saranggani.
+DAVAO DEL SUR, two (2) - First District: Municipalities of Magsaysay, Bansalan, Sta. Cruz, Matanao, Digos, Hagonoy, and Padada; Second District: Municipalities of Kiblawan, Sulop, Malalag, Sta. Maria, Malita, Jose Abad Santos, Don Marcelino, and Sarangani.
 
-DAVAO CITY, three (3) - First District: Districts of Poblacion and Talomo; Second District: Districts of Buhangin,Bunawan, and Paquibato; Third District: Districts of Toril, Tugbok, Calinan, and Baguio.
+DAVAO CITY, three (3) - First District: Districts of Poblacion and Talomo; Second District: Districts of Buhangin, Bunawan, and Paquibato; Third District: Districts of Toril, Tugbok, Calinan, and Baguio.
 
 SOUTH COTABATO with General Santos City, three (3) - First District: General Santos City, and the Municipalities of Polomolok, Tampakan, and Tupi; Second District: Municipalities of Tantangan, Norala, Banga, Sto. Nino, Surallah, Koronadal, Tiboli, and Lake Sebu; Third District: Municipalities of Alabel, Malapatan, Glan, Maasim, Kiamba, Maitum, and Malungon.
 
-SURIGAO DEL SUR, two (2) - First District: Municipalities of Bayabas, Cantilan, Carrascal, Cortes, Lanuza, Madrid, San Miguel, Tago, Tandag, Cagwit, Marihatag, San Agustin, Carmen, and Lianga; Second District: Municipalities of Barobo, Bislig, Hinatuan, Lingig, and Tagbina.
+SURIGAO DEL SUR, two (2) - First District: Municipalities of Bayabas, Cantilan, Carrascal, Cortes, Lanuza, Madrid, San Miguel, Tago, Tandag, Cagwait, Marihatag, San Agustin, Carmen, and Lianga; Second District: Municipalities of Barobo, Bislig, Hinatuan, Lingig, and Tagbina.
 
 #### Region XII
 
-LANAO DEL NORTE with Iligan City, two (2) - First District: Iligan City, Linamon, Kauswagan, Bacolod, Maigo, Kolambugan, Tubod, and Baroy; Second District: Baloi, Pantar, Tagoloan, Poona-Piagapo, Pantao-Ragat, Matungao, Tangkal, Munai, Nunungan, Magsaysay, Salvador, Kapatagan, Karomatan. Sapad, and Lala.
+LANAO DEL NORTE with Iligan City, two (2) - First District: Iligan City, Linamon, Kauswagan, Bacolod, Maigo, Kolambugan, Tubod, and Baroy; Second District: Baloi, Pantar, Tagoloan, Poona-Piagapo, Pantao-Ragat, Matungao, Tangkal, Munai, Nunungan, Magsaysay, Salvador, Kapatagan, Karomatan, Sapad, and Lala.
 
-LANAO DEL SUR with Marawi City, (2) - First District: Marawi City and the Municipalities of Marantao, Piagapo, Saguiaran, Tagoloan, Kapai, Ditsaan - Ramain, Bubong, Buadiposo-Buntong, Bumbaran, Maguing, Wao, Molundo, Taraka, Lumba-Bayabao, Poona-Bayabao, Masiu and Tamparan; Second District: Municipalities of Balindong, Tugaya, Bacolod Grande, Madalum, Madamba, Pualas, Ganassi, Pagayawan, Sultan Gumander, Malabang, Balabagan, Kapatagan, Marogong, Tubaran, Binidayan, Lumbatan, Lumbayanague, Butig, Bayang and Calanogas.
+LANAO DEL SUR with Marawi City, two (2) - First District: Marawi City and the Municipalities of Marantao, Piagapo, Saguiaran, Tagoloan, Kapai, Ditsaan-Ramain, Bubong, Buadiposo-Buntong, Bumbaran, Maguing, Wao, Molundo, Taraka, Lumba-Bayabao, Poona-Bayabao, Masiu and Tamparan; Second District: Municipalities of Balindong, Tugaya, Bacolod Grande, Madalum, Madamba, Pualas, Ganassi, Pagayawan, Sultan Gumander, Malabang, Balabagan, Kapatagan, Marogong, Tubaran, Binidayan, Lumbatan, Lumbayanague, Butig, Bayang and Calanogas.
 
-MAGUINDANAO with Cotabato City, two (2) - First District: Cotabato City and the Municipalities of Parang, Sultan Kudarat, Buldon, Barira, Dinaig, Kabuntalan, Matanog and Upi; Second District: Municipalities of Pagalunga, Buluan, Sultan sa Barongis, Maganoy, Talaya, South Upi, Datu Piang, Datu Paglas, and Ampatuan.
+MAGUINDANAO with Cotabato City, two (2) - First District: Cotabato City and the Municipalities of Parang, Sultan Kudarat, Buldon, Barira, Dinaig, Kabuntalan, Matanog and Upi; Second District: Municipalities of Pagalungan, Buluan, Sultan sa Barongis, Maganoy, Talaya, South Upi, Datu Piang, Datu Paglas, and Ampatuan.
 
-NORTH COTABATO, two (2) - First District: Municipalities of Carmen, Kabacan, Libungan, Midsayap, Pigkawayan, Pikit, Aleosan, Banisilan, and Alamada; Second District: Municipalities of Kidapawan, Makilala, Matalam, Antipas, Mlang, Pres. Roxas Tulunan, and Magpet.
+NORTH COTABATO, two (2) - First District: Municipalities of Carmen, Kabacan, Libungan, Midsayap, Pigkawayan, Pikit, Aleosan, Banisilan, and Alamada; Second District: Municipalities of Kidapawan, Makilala, Matalam, Antipas, Mlang, Pres. Roxas, Tulunan, and Magpet.
 
 [[END OF PAGE 40]]
 
@@ -1428,14 +1455,14 @@ SULTAN KUDARAT, one (1)
 
 Section 2. The Commission on Elections is hereby empowered to make minor adjustments of the reapportionment herein made.
 
-Section 3. Any province that may hereafter be created, or any city whose population may hereafter increase to more than two hundred fifty thousand shall be entitiled in the immediately following election to at least one Member or such number of Members as it may be entitled to on the basis of the number of its inhabitants and according to the standards setforth in paragraph (3), Section 5 of Article VI of the Constitution. The number of Members apportioned to the province out of which such new province was created or where the city, whose population has so increased, is geographically located shall be correspondingly adjusted by the Commission on Elections but such adjustment shall not be made within one hundred and twenty days before the election.
+Section 3. Any province that may hereafter be created, or any city whose population may hereafter increase to more than two hundred fifty thousand shall be entitled in the immediately following election to at least one Member or such number of Members as it may be entitled to on the basis of the number of its inhabitants and according to the standards set forth in paragraph (3), Section 5 of Article VI of the Constitution. The number of Members apportioned to the province out of which such new province was created or where the city, whose population has so increased, is geographically located shall be correspondingly adjusted by the Commission on Elections but such adjustment shall not be made within one hundred and twenty days before the election.
 
-Section 4 . This Ordinance shall be appended to the Constitution proposed by the 1986 Constitutional Commission, and shall be submitted to a plebiscite simultaneously with such Constitution, and shall take effect upon its ratification by a majority of the votes cast in such plebiscite.
+Section 4. This Ordinance shall be appended to the Constitution proposed by the 1986 Constitutional Commission, and shall be submitted to a plebiscite simultaneously with such Constitution, and shall take effect upon its ratification by a majority of the votes cast in such plebiscite.
 
-Adopted, October 15, 1986
+Adopted: October 15, 1986
 
 Cecilia Munoz Palma, President
 
-Attested: Flerida Ruth P. Romero, Secretary General
+Attested: Flerida Ruth P. Romero, Secretary-General
 
 [[END OF PAGE 41]]
