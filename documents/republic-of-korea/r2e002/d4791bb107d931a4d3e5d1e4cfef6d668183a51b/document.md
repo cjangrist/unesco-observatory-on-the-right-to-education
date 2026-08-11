@@ -12,25 +12,25 @@ This  translation  of  Korea's  labor  laws  is  intended  mainly  as a convenie
 
 Act No. 5474, Dec. 24, 1997
 
-Wholly | Amended by Act No. Amended by Act No. by No. 6455, 7298, Dec. | Mar. | 28, 31, | 2001 2004
---- | --- | --- | --- | --- | ---
-Amended | Act | 7428, | Mar. | 31, | 2005
-Act | No. 8073, | Dec. | 21, | 2006
-No. | Act | 8294, | Jan. | 26, | 2007
-No. | Act | 8372, | Apr. | 11, | 2007
-No. | Act | 8429, | May | 11, | 2007
-No. | Act | 8814, | Dec. | 27, | 2007
-No. | Act | 8815, | Dec. | 27, | 2007
-No. | Act | 9316, | Dec. | 31, | 2008
-No. | Act | 9792, | Oct. | 9, | 2009
-Act | No. 10337, | May | 31, | 2010
-Act | No. 10338, | May | 31, | 2010
-Act | No. 10339, | Jun. | 4, | 2010
-Act | No. 10866, | Jul. | 21, | 2011
-Act | No. 11042, | Sept. | 15, | 2011
-Act | No. 11272, | Feb. | 1, | 2012
-Act | No. 11461, | Jun. | 1, | 2012
-Act | No. 11690, | Mar. | 23, | 2013
+Amended by Act No. 6455, Mar. 28, 2001
+Wholly Amended by Act No. 7298, Dec. 31, 2004
+Amended by Act No. 7428, Mar. 31, 2005
+Act No. 8073, Dec. 21, 2006
+Act No. 8294, Jan. 26, 2007
+Act No. 8372, Apr. 11, 2007
+Act No. 8429, May 11, 2007
+Act No. 8814, Dec. 27, 2007
+Act No. 8815, Dec. 27, 2007
+Act No. 9316, Dec. 31, 2008
+Act No. 9792, Oct. 9, 2009
+Act No. 10337, May 31, 2010
+Act No. 10338, May 31, 2010
+Act No. 10339, Jun. 4, 2010
+Act No. 10866, Jul. 21, 2011
+Act No. 11042, Sept. 15, 2011
+Act No. 11272, Feb. 1, 2012
+Act No. 11461, Jun. 1, 2012
+Act No. 11690, Mar. 23, 2013
 
 ## CHAPTER Ⅰ
 
@@ -46,7 +46,7 @@ The purpose of this Act is to promote and stabilize the employment of workers, r
 
 The terms used in this Act shall be defined as follows: <Amended by Act No. 10337, May. 31, 2010; Act No. 10339, Jun. 4, 2010; and Act No. 11272, Feb. 1, 2012>
 
-"Vocational skills development training" refers to training conducted to help workers acquire and improve their abilities
+1. "Vocational skills development training" refers to training conducted to help workers acquire and improve their abilities
 
 [[END OF PAGE 2]]
 
@@ -54,17 +54,17 @@ The terms used in this Act shall be defined as follows: <Amended by Act No. 1033
 
 to perform their work, which are necessary for their jobs;
 
-'Vocational skills development activities' refers to such activities as providing vocational skills development training, developing vocational skills development training media and courses and conducting surveys or research on vocational skills development;
+2. "Vocational skills development activities" refers to such activities as providing vocational skills development training, developing vocational skills development training media and courses and conducting surveys or research on vocational skills development;
 
-'Vocational skills development training facilities' refers to facilities described in the following items:
+3. "Vocational skills development training facilities" refers to facilities described in the following items:
 
-- Public vocational training facilities: facilities established by the State, local governments and public organizations prescribed by the Presidential Decree (hereinafter referred to as 'public organizations') to conduct vocational skills development training in consultation with the Minister of Employment and Labor or with the approval of the Minister of Employment and Labor pursuant to Article 27; and
+A. Public vocational training facilities: facilities established by the State, local governments and public organizations prescribed by the Presidential Decree (hereinafter referred to as "public organizations") to conduct vocational skills development training in consultation with the Minister of Employment and Labor or with the approval of the Minister of Employment and Labor pursuant to Article 27; and
 
-- Designated vocational training facilities: facilities, such as vocational training institutes and vocational training schools, etc., founded and established to conduct vocational skills development training and designated by the Minister of Employment and Labor pursuant to Article 28.
+B. Designated vocational training facilities: facilities, such as vocational training institutes and vocational training schools, etc., founded and established to conduct vocational skills development training and designated by the Minister of Employment and Labor pursuant to Article 28.
 
-'Worker' refers to a person who is employed by an employer and a person who intends to be employed; and
+4. "Worker" refers to a person who is employed by an employer and a person who intends to be employed; and
 
-'Polytechnic college" refers to an education or training institute which is a junior college under subparagraph 4 of Article 2 of the Higher Education Act and runs multi-skilled technician courses or degree-conferring advanced major courses under Article 40, which are degree courses, along with vocational training courses.
+5. "Polytechnic college" refers to an education or training institute which is a junior college under subparagraph 4 of Article 2 of the Higher Education Act and runs multi-skilled technician courses or degree-conferring advanced major courses under Article 40, which are degree courses, along with vocational training courses.
 
 <This Article Wholly Amended by Act No. 9316, Dec. 31, 2008>
 
@@ -82,25 +82,25 @@ to perform their work, which are necessary for their jobs;
 
 [[START OF PAGE 4]]
 
-- The aged and the disabled;
+1. The aged and the disabled;
 
-- Eligible recipients under the National Basic Livelihood Security Act;
+2. Eligible recipients under the National Basic Livelihood Security Act;
 
-- Persons who gave distinguished services to the State, and their bereaved families and dependents under the Act on the Honorable Treatment and Support for Persons, etc. of Distinguished Services to the State and persons entitled to veterans benefits and their bereaved families and dependents under the Act on Support for Persons Entitled to Veterans Benefits;
+3. Persons who gave distinguished services to the State, and their bereaved families and dependents under the Act on the Honorable Treatment and Support for Persons, etc. of Distinguished Services to the State and persons entitled to veterans benefits and their bereaved families and dependents under the Act on Support for Persons Entitled to Veterans Benefits;
 
-- Persons who gave distinguished services to 5 ․ 18 democratization and their bereaved families and dependents under the Act on the Honorable Treatment and Support for Persons of Distinguished Services to 5 ․ 18 Democratization;
+4. Persons who gave distinguished services to 5․18 democratization and their bereaved families and dependents under the Act on the Honorable Treatment and Support for Persons of Distinguished Services to 5․18 Democratization;
 
-- Discharged soldiers and persons due to be discharged from military service under the Act on Support for Discharged Soldiers;
+5. Discharged soldiers and persons due to be discharged from military service under the Act on Support for Discharged Soldiers;
 
-- Female workers;
+6. Female workers;
 
-- Workers in small-and medium-sized enterprises (hereinafter referred to as "small and medium enterprises") under the Framework Act on Small and Medium Enterprises;
+7. Workers in small-and medium-sized enterprises (hereinafter referred to as "small and medium enterprises") under the Framework Act on Small and Medium Enterprises;
 
-- Workers engaged in a production line in the manufacturing industry;
+8. Workers engaged in a production line in the manufacturing industry;
 
-- Daily workers, part-time workers, workers who have signed a fixed-term contract and workers employed for a temporary project; and
+9. Daily workers, part-time workers, workers who have signed a fixed-term contract and workers employed for a temporary project; and
 
-- Dispatched workers under the Act on the Protection, etc. of Dispatched Workers.
+10. Dispatched workers under the Act on the Protection, etc. of Dispatched Workers.
 
 (5) Vocational skills development training shall be conducted in a way that it can be closely linked to school education prescribed by education-related laws and industrial sites.
 
@@ -120,7 +120,7 @@ to perform their work, which are necessary for their jobs;
 
 (3) A worker shall endeavor to develop vocational skills according to his/her aptitude and abilities and cooperate in vocational skills development activities conducted by the State, local governments, employers, etc.
 
-(4) Employers' and workers' organizations, industry-specific human resources development councils under Article 12 (2) of the Industrial Development Act (hereinafter referred to as "industry-specific HRD councils), etc., shall make necessary efforts, such as conducting surveys on demand for vocational skills development training in each industry, etc., to ensure that vocational skills development training is conducted to meet demand at industrial sites. <Newly Inserted by Act No. 10337, May 31, 2010>
+(4) Employers' and workers' organizations, industry-specific human resources development councils under Article 12 (2) of the Industrial Development Act (hereinafter referred to as "industry-specific HRD councils"), etc., shall make necessary efforts, such as conducting surveys on demand for vocational skills development training in each industry, etc., to ensure that vocational skills development training is conducted to meet demand at industrial sites. <Newly Inserted by Act No. 10337, May 31, 2010>
 
 (5) A person who conducts vocational skills development training shall endeavor to have workers receive vocational skills development training suitable for their aptitudes and abilities, by providing counseling concerning vocational skills development training, offering employment guidance, establishing selection criteria, etc. <Amended by Act No. 10337, May 31, 2010>
 
@@ -128,7 +128,7 @@ to perform their work, which are necessary for their jobs;
 
 ### Article 5 (Establishment of Basic Plan on Vocational Skills Development)
 
-(1) The Minister of Employment and Labor shall establish and implement a basic plan on vocational skills development for workers (hereinafter referred to as 'basic plan on vocational skills development') every five years in consultation with the heads of relevant central administrative agencies and after deliberation by the Employment Policy Council under Article 10 (1) of the Framework Act on Employment Policy. <Amended by Act No. 10337, May 31, 2010 and Act No. 10339, Jun. 4, 2010>
+(1) The Minister of Employment and Labor shall establish and implement a basic plan on vocational skills development for workers (hereinafter referred to as "basic plan on vocational skills development") every five years in consultation with the heads of relevant central administrative agencies and after deliberation by the Employment Policy Council under Article 10 (1) of the Framework Act on Employment Policy. <Amended by Act No. 10337, May 31, 2010 and Act No. 10339, Jun. 4, 2010>
 
 (2) The basic plan on vocational skills development shall include the following matters: <Amended by Act No. 10337, May 31, 2010>
 
@@ -138,25 +138,25 @@ to perform their work, which are necessary for their jobs;
 
 [[START OF PAGE 6]]
 
-- Matters concerning demand and supply of vocational skills development training reflecting the workforce demand and supply trends and prospects under Article 16 of the Framework Act on Employment Policy;
+2. Matters concerning demand and supply of vocational skills development training reflecting the workforce demand and supply trends and prospects under Article 16 of the Framework Act on Employment Policy;
 
-- Matters concerning support for vocational skills development training voluntarily taken by workers;
+3. Matters concerning support for vocational skills development training voluntarily taken by workers;
 
-- Matters concerning support for vocational skills development activities conducted by employers for their workers;
+4. Matters concerning support for vocational skills development activities conducted by employers for their workers;
 
-- Matters concerning support for vocational skills development activities conducted by workers' and employers' organizations, industry-specific human resources development councils, etc.,;
+5. Matters concerning support for vocational skills development activities conducted by workers' and employers' organizations, industry-specific human resources development councils, etc.,;
 
-- Matters concerning the training of workforces necessary for the sustainable development of the national economy in consideration of trends in industrial development and workforce demand and supply in the labor market;
+6. Matters concerning the training of workforces necessary for the sustainable development of the national economy in consideration of trends in industrial development and workforce demand and supply in the labor market;
 
-- Matters concerning the creation of an environment for vocational skills development training, such as setting standards for vocational skills development training under Article 8, fostering and supporting vocational skills development instructors and persons in charge of human resources development and developing and disseminating the media and methods of vocational skills development training, etc.;
+7. Matters concerning the creation of an environment for vocational skills development training, such as setting standards for vocational skills development training under Article 8, fostering and supporting vocational skills development instructors and persons in charge of human resources development and developing and disseminating the media and methods of vocational skills development training, etc.;
 
-- Matters concerning the connection of vocational skills development training and qualifications;
+8. Matters concerning the connection of vocational skills development training and qualifications;
 
-- Matters concerning the evaluation of vocational skills development activities;
+9. Matters concerning the evaluation of vocational skills development activities;
 
-- Other matters as deemed necessary for conducting vocational skills development activities in order to promote and stabilize the employment of workers.
+10. Other matters as deemed necessary for conducting vocational skills development activities in order to promote and stabilize the employment of workers.
 
-(3) If the Minister of Employment and Labor establishes a basic plan on vocational skills development, he/she shall collect opinions from relevant institutions and organizations, etc., such as employers' and workers' organizations, etc., and may ask the heads of relevant administrative agencies, local governments and public organizations (hereinafter referred to as 'heads of relevant administrative agencies, etc.') to submit materials, if deemed necessary. <Amended by Act No. 10337, May 31, 2010 and
+(3) If the Minister of Employment and Labor establishes a basic plan on vocational skills development, he/she shall collect opinions from relevant institutions and organizations, etc., such as employers' and workers' organizations, etc., and may ask the heads of relevant administrative agencies, local governments and public organizations (hereinafter referred to as "heads of relevant administrative agencies, etc.") to submit materials, if deemed necessary. <Amended by Act No. 10337, May 31, 2010 and
 
 Act No. 10339, Jun. 4, 2010>
 
@@ -182,7 +182,7 @@ The Minister of Employment and Labor may conduct a survey, research and developm
 
 ### Article 8 (Standards for Vocational Skills Development Training)
 
-(1) The Minister of Employment and Labor may set standards (hereinafter referred to as 'standards for vocational skills development training") for techniques, resources, operation, etc., related to vocational skills development training to enable the mutual compatibility, recognition and exchange of vocational skills development training. <Amended by Act No. 10339, Jun. 4, 2010>
+(1) The Minister of Employment and Labor may set standards (hereinafter referred to as "standards for vocational skills development training") for techniques, resources, operation, etc., related to vocational skills development training to enable the mutual compatibility, recognition and exchange of vocational skills development training. <Amended by Act No. 10339, Jun. 4, 2010>
 
 (2) The Minister of Employment and Labor shall, if he/she intends to set standards for vocational skills development training, collect opinions from relevant institutions, organizations, etc., such as employers' and workers' organizations, etc. <Amended by Act No. 10339, Jun. 4, 2010>
 
@@ -202,7 +202,7 @@ The Minister of Employment and Labor may conduct a survey, research and developm
 
 (3) Where a training contract under paragraph (1) is not concluded, the vocational skills development training received by an employed worker shall be considered as labor offered by the worker.
 
-(4) An employer who fails to conclude a training contract under paragraph (1) shall conduct vocational skills development training during working hours (hereinafter referred to as 'standard working hours') under Article 50 of the Labor Standards Act, but if the worker concerned agrees, he/she may conduct vocational skills development training outside the standard working hours.
+(4) An employer who fails to conclude a training contract under paragraph (1) shall conduct vocational skills development training during working hours (hereinafter referred to as "standard working hours") under Article 50 of the Labor Standards Act, but if the worker concerned agrees, he/she may conduct vocational skills development training outside the standard working hours.
 
 (5) Wages for overtime work and night work may not be paid for training hours outside the standard working hours, except where vocational skills development training is conducted using production facilities or within the place of work.
 
@@ -230,17 +230,17 @@ A person who conducts vocational skills development training may pay training al
 
 A public organization may conduct the following activities to develop workers' vocational skills:
 
-- Vocational skills development training for persons falling under any of the subparagraphs of Article 12 (1);
+1. Vocational skills development training for persons falling under any of the subparagraphs of Article 12 (1);
 
-- Vocational skills development training aimed at facilitating supply and demand of workforces in occupations in national key and strategic industries under Article 15;
+2. Vocational skills development training aimed at facilitating supply and demand of workforces in occupations in national key and strategic industries under Article 15;
 
-- Surveys, education or publicity activities concerning vocational skills development activities;
+3. Surveys, education or publicity activities concerning vocational skills development activities;
 
-- Development and dissemination of vocational skills development training courses, media, methods, etc.;
+4. Development and dissemination of vocational skills development training courses, media, methods, etc.;
 
-- Training of vocational skills development training instructors and those in charge of human resources development and development of their competency; and
+5. Training of vocational skills development training instructors and those in charge of human resources development and development of their competency; and
 
-- Other activities prescribed by the Presidential Decree.
+7. Other activities prescribed by the Presidential Decree.
 
 <This Article Wholly Amended by Act No. 10337, May 31, 2010>
 
@@ -270,15 +270,15 @@ With regard to workers' vocational skills development, the Minister of Employmen
 
 1. The unemployed;
 
-- Persons who are eligible recipients under the National Basic Livelihood Security Act, female household heads or youths and meet the conditions prescribed by the Presidential Decree;
+2. Persons who are eligible recipients under the National Basic Livelihood Security Act, female household heads or youths and meet the conditions prescribed by the Presidential Decree;
 
-- Deleted. <Act No. 10337, May 31, 2010>
+3. Deleted. <Act No. 10337, May 31, 2010>
 
-- Deleted. <Act No. 10337, May 31, 2010>
+4. Deleted. <Act No. 10337, May 31, 2010>
 
-- Deleted. <Act No. 10337, May 31, 2010>
+5. Deleted. <Act No. 10337, May 31, 2010>
 
-- Other persons prescribed by the Presidential Decree.
+6. Other persons prescribed by the Presidential Decree.
 
 (2) Persons eligible to receive vocational skills development training conducted pursuant to paragraph (1), requirements for training courses, training allowances, and other matters necessary for vocational skills development training shall be prescribed by the Presidential Decree.
 
@@ -296,13 +296,13 @@ With regard to workers' vocational skills development, the Minister of Employmen
 
 Occupations in National Key and Strategic Industries)
 
-(1) The State and local governments may conduct vocational skills development training necessary for facilitating demand and supply of workforces in the following occupations (hereinafter referred to as 'occupations in national key and strategic industries'): <Amended by Act No. 10337, May 31, 2010 and Act No. 10339, Jun. 4, 2010>
+(1) The State and local governments may conduct vocational skills development training necessary for facilitating demand and supply of workforces in the following occupations (hereinafter referred to as "occupations in national key and strategic industries"): <Amended by Act No. 10337, May 31, 2010 and Act No. 10339, Jun. 4, 2010>
 
-- Occupations suffering from labor shortages in industries essential to the national economy;
+1. Occupations suffering from labor shortages in industries essential to the national economy;
 
-- Occupations suffering from labor shortages in national strategic industries, such as the information and communications industry and the automobile industry, etc.; and
+2. Occupations suffering from labor shortages in national strategic industries, such as the information and communications industry and the automobile industry, etc.; and
 
-- Other occupations announced by the Minister of Employment and Labor where it is necessary to train workforces as industries' demand for workforces increases.
+3. Other occupations announced by the Minister of Employment and Labor where it is necessary to train workforces as industries' demand for workforces increases.
 
 (2) Criteria and procedures for the selection of occupations in national key and strategic industries, persons eligible to receive training, requirements for training courses, training allowances and other matters necessary for vocational skills development training shall be prescribed by the Presidential Decree. <Amended by Act No. 10337, May 31, 2010>
 
@@ -314,9 +314,9 @@ Occupations in National Key and Strategic Industries)
 
 (2) A person who has entrusted vocational skills development training pursuant to paragraph (1) may demand a correction or terminate the entrustment contract if the person entrusted with the training falls under any of the following subparagraphs: Provided that where such person falls under subparagraph 1 or 2, the entrustment contract shall be terminated: <Amended by Act No. 10337, May 31, 2010>
 
-- Where the person gets entrusted in a false or other fraudulent ways;
+1. Where the person gets entrusted in a false or other fraudulent ways;
 
-- Where the person receives or intends to receive training fees in a false or other fraudulent ways;
+2. Where the person receives or intends to receive training fees in a false or other fraudulent ways;
 
 3. Where the person conducts vocational skills development training in violation of the entrustment contract;
 
@@ -324,17 +324,17 @@ Occupations in National Key and Strategic Industries)
 
 [[START OF PAGE 12]]
 
-- Where the person fails to comply with a demand for correction; and
+4. Where the person fails to comply with a demand for correction; and
 
-- Where the person fails to comply with an order to report and submit materials under Article 58 or complies with such order falsely.
+5. Where the person fails to comply with an order to report and submit materials under Article 58 or complies with such order falsely.
 
 (3) With respect to any person whose entrustment contract is terminated pursuant to paragraph (2) (excluding cases where training expenses are less than the amount prescribed by the Presidential Decree among persons whose entrustment contracts are terminated under subparagraph 2 of paragraph (2)), the State and a local government may not entrust vocational skills development training under paragraph (1) nor recognize vocational skills development training courses under Articles 19 and 24 for up to five years from the date of termination. <Amended by Act No. 10337, May 31, 2010>
 
-- Deleted. <Act No. 10337, May 31, 2010>
+(4) Deleted. <Act No. 10337, May 31, 2010>
 
-- Deleted. <Act No. 10337, May 31, 2010>
+(5) Deleted. <Act No. 10337, May 31, 2010>
 
-- Deleted. <Act No. 10337, May 31, 2010>
+(6) Deleted. <Act No. 10337, May 31, 2010>
 
 (7) Details of entrustment contracts, entrustment criteria, demands for correction, termination of entrustment contracts, and other matters necessary for entrustment under paragraphs (1) through (3) shall be prescribed by the Presidential Decree.
 
@@ -346,15 +346,15 @@ Occupations in National Key and Strategic Industries)
 
 (1) The Minister of Employment and Labor may provide workers with support or loans for the following expenses in order to support the voluntary vocational skills development of workers (excluding unemployed persons, etc.,; hereinafter the same shall apply in this Article): <Amended by Act No. 10337, May 31, 2010 and Act No. 10339, Jun. 4, 2010>
 
-- Expenses of taking vocational skills development training courses recognized by the Minister of Employment and Labor pursuant to Article 19;
+1. Expenses of taking vocational skills development training courses recognized by the Minister of Employment and Labor pursuant to Article 19;
 
-- Tuition fees and other payments for training courses which are considered equivalent to junior colleges or higher under the Higher Education Act;
+2. Tuition fees and other payments for training courses which are considered equivalent to junior colleges or higher under the Higher Education Act;
 
-- Other expenses equivalent to expenses under subparagraphs 1 and 2 and prescribed by the Presidential Decree; and
+3. Other expenses equivalent to expenses under subparagraphs 1 and 2 and prescribed by the Presidential Decree; and
 
-- Deleted. <Act No. 10337, May 31, 2010>
+4. Deleted. <Act No. 10337, May 31, 2010>
 
-- If the Minister of Employment and Labor provides
+(2) If the Minister of Employment and Labor provides
 
 [[END OF PAGE 12]]
 
@@ -362,9 +362,9 @@ Occupations in National Key and Strategic Industries)
 
 support or loans pursuant to paragraph (1), he/she may give preferential treatment to workers falling under any of the following subparagraphs: <Amended by Act No. 10339, Jun. 4, 2010>
 
-- Workers employed in enterprises meeting the criteria prescribed by the Presidential Decree; and
+1. Workers employed in enterprises meeting the criteria prescribed by the Presidential Decree; and
 
-- Workers prescribed by the Presidential Decree from among those prescribed in subparagraph 9 or 10 of Article 3 (4).
+2. Workers prescribed by the Presidential Decree from among those prescribed in subparagraph 9 or 10 of Article 3 (4).
 
 (3) Necessary matters concerning the requirements, contents, procedures and levels of support or loans and preferential support under paragraphs (1) and (2) shall be prescribed by the Presidential Decree.
 
@@ -372,7 +372,7 @@ support or loans pursuant to paragraph (1), he/she may give preferential treatme
 
 ### Article 18 (Issuance and Operation of Vocational Skills Development Accounts)
 
-(1) The Minister of Employment and Labor may operate a system of issuing accounts which support vocational skills development training expenses (hereinafter referred to as 'vocational skills development accounts') and comprehensively administering their history of vocational skills development in order to support the voluntary vocational skills development of people falling under any of the following subparagraphs: <Amended by Act No. 11272, Feb. 1, 2012>
+(1) The Minister of Employment and Labor may operate a system of issuing accounts which support vocational skills development training expenses (hereinafter referred to as "vocational skills development accounts") and comprehensively administering their history of vocational skills development in order to support the voluntary vocational skills development of people falling under any of the following subparagraphs: <Amended by Act No. 11272, Feb. 1, 2012>
 
 1. Unemployed persons, etc.;
 
@@ -396,19 +396,19 @@ Courses and Training Courses Supported by Accounts, Cancellation of Recognition,
 
 (2) If a person who has obtained recognition of vocational skills development training courses under paragraph (1) falls under any of the following subparagraphs, the Minister of Employment and Labor may order a correction or cancel the recognition of the training courses: Provided that where the person falls under any of subparagraphs 1 through 4, the recognition shall be cancelled: <Amended by Act No. 11272, Feb. 1, 2012>
 
-- Where the person has obtained recognition under paragraph (1) in a false or other fraudulent ways;
+1. Where the person has obtained recognition under paragraph (1) in a false or other fraudulent ways;
 
-- Where the person has received or intends to receive support or loans for training costs in a false or other fraudulent ways;
+2. Where the person has received or intends to receive support or loans for training costs in a false or other fraudulent ways;
 
-- Where the person has received or intends to receive fees from workers taking the vocational skills development training, in a false or other fraudulent ways;
+3. Where the person has received or intends to receive fees from workers taking the vocational skills development training, in a false or other fraudulent ways;
 
-- Where the person makes workers taking the vocational skills development training receive support or loans for their training expenses in a false or other fraudulent ways;
+4. Where the person makes workers taking the vocational skills development training receive support or loans for their training expenses in a false or other fraudulent ways;
 
-- Where the person conducts vocational skills development training in violation of the details recognized under paragraph (1);
+5. Where the person conducts vocational skills development training in violation of the details recognized under paragraph (1);
 
-- Where the person fails to comply with the corrective order; and
+6. Where the person fails to comply with the corrective order; and
 
-- Where the person fails to comply with an order to report and submit materials under Article 58 or complies with such order falsely.
+7. Where the person fails to comply with an order to report and submit materials under Article 58 or complies with such order falsely.
 
 (3) A person for whom the recognition is cancelled pursuant to paragraph (2) (excluding cases where training costs are less than the amount prescribed by the Presidential Decree among persons for whom the recognition is cancelled as they fall under subparagraphs 2 through 4 of paragraph (2)) may not be entrusted with vocational skills development training under Article 16 (1) and given recognition under paragraph (1) and Article 24 for up to five years from the date of cancellation.
 
@@ -432,37 +432,38 @@ Courses and Training Courses Supported by Accounts, Cancellation of Recognition,
 
 (1) If an employer, an employers' organization, an workers' organization or their association (hereinafter referred to as "employers' organizations, etc.") conducts vocational skills development activities falling under any of the following subparagraphs, the Minister of Employment and Labor may provide support or loans for the necessary costs: <Amended by Act No. 10337, May 31, 2010 and Act No. 10339, Jun. 4, 2010>
 
-- Vocational skills development training for workers (including entrusted training);
+1. Vocational skills development training for workers (including entrusted training);
 
-- Activities of administering qualification tests for workers;
+2. Activities of administering qualification tests for workers;
 
-- Vocational skills development activities conducted jointly with small and medium enterprises or enterprises under Article 19 (2) of the Employment Insurance Act (hereinafter referred to as an 'enterprises eligible for preferential support') for workers, etc., in the small and medium enterprises or enterprises eligible for preferential support;
+3. Vocational skills development activities conducted jointly with small and medium enterprises or enterprises under Article 19 (2) of the Employment Insurance Act (hereinafter referred to as an "enterprises eligible for preferential support") for workers, etc., in the small and medium enterprises or enterprises eligible for preferential support;
 
-- Activities of installing and repairing facilities (including dormitories), equipment and instruments and materials necessary for vocational skills development training;
+4. Activities of installing and repairing facilities (including dormitories), equipment and instruments and materials necessary for vocational skills development training;
 
-- Such activities as surveys and research on vocational skills development, and development and dissemination of
+5. Such activities as surveys and research on vocational skills development, and development and dissemination of
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
 
-vocational skills development training courses and media; 6. Deleted. <Presidential Decree No. 10337, May 31, 2010>
+vocational skills development training courses and media;
+6. Deleted. <Presidential Decree No. 10337, May 31, 2010>
 
 7. Other activities prescribed by the Presidential Decree.
 
 (2) If the Minister of Employment and Labor provides support or loans pursuant to paragraph (1), he/she may give preferential treatments to employers or employers' organizations that conduct vocational skills development activities falling under any of the following subparagraphs: <Amended by Act No. 10337, May 31, 2010 and Act No. 10339, Jun. 4, 2010>
 
-- Vocational skills development training for workers employed by an employer other than the relevant employer;
+1. Vocational skills development training for workers employed by an employer other than the relevant employer;
 
-- Vocational skills development training in occupations in national key and strategic industries;
+2. Vocational skills development training in occupations in national key and strategic industries;
 
-- Vocational skills development training (referring to vocational skills development training conducted according to a training plan established in consultation with a trade union or a person representing a majority of workers in cases where a labormanagement council does not exist) conducted according to a basic plan on workers' education and training and skills development decided by a labor-management council pursuant to Article 21 of the Act on the Promotion of Worker Participation and Cooperation;
+3. Vocational skills development training (referring to vocational skills development training conducted according to a training plan established in consultation with a trade union or a person representing a majority of workers in cases where a labor-management council does not exist) conducted according to a basic plan on workers' education and training and skills development decided by a labor-management council pursuant to Article 21 of the Act on the Promotion of Worker Participation and Cooperation;
 
-- Vocational skills development training conducted for workers on paid leave (excluding monthly and annual paid leave prescribed in the Labor Standards Act);
+4. Vocational skills development training conducted for workers on paid leave (excluding monthly and annual paid leave prescribed in the Labor Standards Act);
 
-- Vocational skills development activities falling into subparagraph 3 of paragraph (1); and
+5. Vocational skills development activities falling into subparagraph 3 of paragraph (1); and
 
-- Vocational skills development activities conducted by the employer of a business meeting the criteria prescribed by the Presidential Decree.
+6. Vocational skills development activities conducted by the employer of a business meeting the criteria prescribed by the Presidential Decree.
 
 (3) Necessary matters concerning the requirements, contents, procedures and levels of support or loans and preferential support under paragraphs (1) and (2) shall be prescribed by the Presidential Decree.
 
@@ -482,17 +483,17 @@ by Industry-Specific HRD Councils)
 
 (1) If an industry-specific HRD council conducts vocational skills development activities falling under any of the following subparagraphs, the Minister of Employment and Labor may provide the industry-specific HRD council with support or loans for the necessary costs: <Amended by Act No. 10337, May. 31, 2010 and Act No. 10339, Jun. 4, 2010>
 
-- Survey and analysis of labor demand and supply and demand for vocational skills development training by industry;
+1. Survey and analysis of labor demand and supply and demand for vocational skills development training by industry;
 
-- Development and dissemination of standards for qualifications and vocational skills development training;
+2. Development and dissemination of standards for qualifications and vocational skills development training;
 
-- Activities of developing, complementing and disseminating vocational skills development training courses and media, etc.;
+3. Activities of developing, complementing and disseminating vocational skills development training courses and media, etc.;
 
-- Deleted. <Presidential Decree No. 10337, May 31, 2010>
+4. Deleted. <Presidential Decree No. 10337, May 31, 2010>
 
-- Deleted. <Presidential Decree No. 10337, May 31, 2010>
+5. Deleted. <Presidential Decree No. 10337, May 31, 2010>
 
-- Other vocational skills development activities equivalent to activities under subparagraphs 1 through 3 and prescribed by the Presidential Decree.
+6. Other vocational skills development activities equivalent to activities under subparagraphs 1 through 3 and prescribed by the Presidential Decree.
 
 (2) Necessary matters concerning the requirements, contents, procedures and levels of support or loans under paragraph (1) shall be prescribed by the Presidential Decree. <Amended by Act No. 10337, May 31, 2010>
 
@@ -502,7 +503,7 @@ by Industry-Specific HRD Councils)
 
 ### Article 23 (Support for Vocational Skills Development Activities by Vocational Skills Development Organizations)
 
-(1) The Minister of Employment and Labor may provide support or loans for the costs required for vocational skills development activities conducted by non-profit corporations or non-profit organizations (hereinafter referred to as 'vocational skills development organizations') prescribed by the Presidential Decree. <Amended by Act No. 10339, Jun. 4, 2010>
+(1) The Minister of Employment and Labor may provide support or loans for the costs required for vocational skills development activities conducted by non-profit corporations or non-profit organizations (hereinafter referred to as "vocational skills development organizations") prescribed by the Presidential Decree. <Amended by Act No. 10339, Jun. 4, 2010>
 
 (2) Necessary matters concerning the requirements, contents, procedures and levels of support or loans under paragraph (1) shall be prescribed by the Presidential Decree.
 
@@ -510,7 +511,7 @@ by Industry-Specific HRD Councils)
 
 ### Article 23-2 (Preservation of Documents Related to Support and Loans)
 
-- Any person who receives support or loans for the costs
+(1) Any person who receives support or loans for the costs
 
 [[END OF PAGE 17]]
 
@@ -528,11 +529,11 @@ of vocational skills development activities pursuant to Articles 12, 20, 22 and 
 
 (2) If a person who has obtained recognition of vocational skills development training courses under paragraph (1) falls under any of the following subparagraphs, the Minister of Employment and Labor may order a correction or cancel the recognition of the training courses concerned: Provided that where the person falls under any of subparagraphs 1 through 4, the recognition shall be cancelled: <Amended by Act No. 10337, May 31, 2010 and Act No. 11272, Feb. 1, 2012>
 
-- Where the person has obtained recognition under paragraph (1) in a false or other fraudulent ways;
+1. Where the person has obtained recognition under paragraph (1) in a false or other fraudulent ways;
 
-- Where the person has received or intends to receive expenses or loans in a false or other fraudulent ways;
+2. Where the person has received or intends to receive expenses or loans in a false or other fraudulent ways;
 
-- Where the person has received or intends to receive fees from employers, employers' organizations, etc., entrusting
+3. Where the person has received or intends to receive fees from employers, employers' organizations, etc., entrusting
 
 [[END OF PAGE 18]]
 
@@ -540,13 +541,13 @@ of vocational skills development activities pursuant to Articles 12, 20, 22 and 
 
 vocational skills development training, in a false or other fraudulent ways;
 
-- Where the person makes employers, employers' organizations, etc., entrusting vocational skills development training receive support or loans for their training costs in a false or other fraudulent ways;
+4. Where the person makes employers, employers' organizations, etc., entrusting vocational skills development training receive support or loans for their training costs in a false or other fraudulent ways;
 
-- Where the person conducts vocational skills development training in violation of the details recognized under paragraph (1);
+5. Where the person conducts vocational skills development training in violation of the details recognized under paragraph (1);
 
-- Where the person fails to comply with the corrective order; and
+6. Where the person fails to comply with the corrective order; and
 
-- Where the person fails to comply with an order to report and submit materials under Article 58 or complies with such order falsely.
+7. Where the person fails to comply with an order to report and submit materials under Article 58 or complies with such order falsely.
 
 (3) A person for whom the recognition is cancelled pursuant to paragraph (2) (excluding cases where training costs are less than the amount prescribed by the Presidential Decree among persons for whom the recognition is cancelled as they fall under subparagraphs 2 through 4 of paragraph (2)) may not be entrusted with vocational skills development training under Article 16 (1) and given recognition under paragraph (1) and Article 19 for up to five years from the date of cancellation. <Newly Inserted by Act No. 10337, May 31, 2010>
 
@@ -573,15 +574,15 @@ Act No. 11272, Feb. 1, 2012>
 
 ### Article 27 (Establishment, etc. of Public Vocational Training Facilities)
 
-(1) The State, local governments or public organizations may establish and operate public vocational training facilities. In such cases, if the State or a local government intends to establish a public vocational training facility, it shall consult with the Minister of Employment and Labor, and if a public organization intends to establish a public vocational training facility, it shall obtain approval from the Minister of Employment and Labor. <Amended by Act No. 10337, May 31, 2010 and Act No. 11272, Feb. 2012>
+(1) The State, local governments or public organizations may establish and operate public vocational training facilities. In such cases, if the State or a local government intends to establish a public vocational training facility, it shall consult with the Minister of Employment and Labor, and if a public organization intends to establish a public vocational training facility, it shall obtain approval from the Minister of Employment and Labor. <Amended by Act No. 10337, May 31, 2010 and Act No. 11272, Feb. 1, 2012>
 
 (2) If a public vocational training facility approved pursuant to paragraph (1) falls under any of the following subparagraphs, the Minister of Employment and Labor may cancel the approval: Provided that where it falls under subparagraph 1, the approval shall be cancelled: <Amended by Act No. 10339, Jun. 4, 2010>
 
-- Where the public vocational training facility has obtained approval in a false or other fraudulent ways;
+1. Where the public vocational training facility has obtained approval in a false or other fraudulent ways;
 
-- Where the public vocational training facility fails to provide vocational skills development training for one year or more without any justifiable reason; and
+2. Where the public vocational training facility fails to provide vocational skills development training for one year or more without any justifiable reason; and
 
-- Where the public vocational training facility violates this Act or any order issued under this Act.
+3. Where the public vocational training facility violates this Act or any order issued under this Act.
 
 (3) The Minister of Employment and Labor may request a relevant institution to submit materials with regard to the operation of public vocational training facilities established by the State, local governments or public organizations. <Newly Inserted by Act No. 10337, May 31, 2010 and Amended by Act No. 11272, Feb. 1, 2012>
 
@@ -597,13 +598,13 @@ Act No. 11272, Feb. 1, 2012>
 
 [[START OF PAGE 21]]
 
-- The person shall have human resources, facilities, equipment, etc. required to properly operate the relevant training facility: Provided that the use of the facility building shall comply with Article 2 (2) of the Building Act;
+1. The person shall have human resources, facilities, equipment, etc. required to properly operate the relevant training facility: Provided that the use of the facility building shall comply with Article 2 (2) of the Building Act;
 
-- The person shall have actual experience in providing education and training required to properly operate the relevant training facility; and
+2. The person shall have actual experience in providing education and training required to properly operate the relevant training facility; and
 
-- The person shall have not less than one vocational skills development training instructor under Article 33, who is relevant to each type of occupation in which the person intends to provide vocational skills development training: Provided that this shall not apply to cases where a vocational skills development training instructor relevant to the type of occupation is not defined; and
+3. The person shall have not less than one vocational skills development training instructor under Article 33, who is relevant to each type of occupation in which the person intends to provide vocational skills development training: Provided that this shall not apply to cases where a vocational skills development training instructor relevant to the type of occupation is not defined; and
 
-- The person shall meet other requirements prescribed by the Presidential Decree as necessary for the operation of a vocational skills development training facility.
+4. The person shall meet other requirements prescribed by the Presidential Decree as necessary for the operation of a vocational skills development training facility.
 
 (2) If a person intends to alter the matters prescribed by the Presidential Decree among the contents designated pursuant to paragraph (1), he/she shall obtain designation for the alteration from the Minister of Employment and Labor. <Amended by Act No. 10339, Jun. 4, 2010>
 
@@ -615,29 +616,29 @@ Act No. 11272, Feb. 1, 2012>
 
 [[START OF PAGE 22]]
 
-- through (3) shall be prescribed by the Presidential Decree. <This Article Wholly Amended by Act No. 9316, Dec. 31, 2008>
+(1) through (3) shall be prescribed by the Presidential Decree. <This Article Wholly Amended by Act No. 9316, Dec. 31, 2008>
 
 ### Article 29 (Reasons for Disqualification)
 
 If a person who intends to have his/her vocational training facility designated under Article 28 falls under any of the following subparagraphs, he/she shall be disqualified for designation under Article 28: <Amended by Act No. 10337, May 31, 2010>
 
-- An incompetent, a quasi-incompetent or a minor;
+1. An incompetent, a quasi-incompetent or a minor;
 
-- A person who has been declared bankrupt but has not been reinstated yet;
+2. A person who has been declared bankrupt but has not been reinstated yet;
 
-- A person who has been sentenced to imprisonment without prison labor or heavier punishment and for whom two years have not elapsed since the execution of such sentence was terminated (including cases where the execution is deemed to have been terminated) or exempted;
+3. A person who has been sentenced to imprisonment without prison labor or heavier punishment and for whom two years have not elapsed since the execution of such sentence was terminated (including cases where the execution is deemed to have been terminated) or exempted;
 
-- A person who has been sentenced to the suspension of execution of imprisonment without prison labor or heavier punishment and is still in the suspension period;
+4. A person who has been sentenced to the suspension of execution of imprisonment without prison labor or heavier punishment and is still in the suspension period;
 
-- A person whose qualification has been suspended or lost in accordance with a court ruling;
+5. A person whose qualification has been suspended or lost in accordance with a court ruling;
 
-- A person for whom one year has not elapsed since the designation of the vocational training facility was cancelled under Article 31 (1) or a person who was suspended from providing vocational skills development training and is still in the suspension period;
+6. A person for whom one year has not elapsed since the designation of the vocational training facility was cancelled under Article 31 (1) or a person who was suspended from providing vocational skills development training and is still in the suspension period;
 
-- A person for whom one year has not elapsed since the authorization for establishing a lifelong education facility or the registration thereof was cancelled under Article 42 of the Lifelong Education Act or a person who was suspended from running lifelong education courses and is still in the suspension period;
+7. A person for whom one year has not elapsed since the authorization for establishing a lifelong education facility or the registration thereof was cancelled under Article 42 of the Lifelong Education Act or a person who was suspended from running lifelong education courses and is still in the suspension period;
 
-- A person for whom one year has not elapsed since the registration of his/her private teaching institute was cancelled or the closure of his/her lesson school was ordered under Article 17 of the Act on the Establishment and Operation of Private Teaching Institutes and Extracurricular Lessons or a person whose private teaching institute or lesson school was suspended from providing training and is still in the suspension period;
+8. A person for whom one year has not elapsed since the registration of his/her private teaching institute was cancelled or the closure of his/her lesson school was ordered under Article 17 of the Act on the Establishment and Operation of Private Teaching Institutes and Extracurricular Lessons or a person whose private teaching institute or lesson school was suspended from providing training and is still in the suspension period;
 
-- A person subjected to restrictions on entrustment under Article 16 (3) or restrictions on recognition under Article 19 (3) and Article 24 (3); and
+9. A person subjected to restrictions on entrustment under Article 16 (3) or restrictions on recognition under Article 19 (3) and Article 24 (3); and
 
 [[END OF PAGE 22]]
 
@@ -661,25 +662,25 @@ If a person who intends to have his/her vocational training facility designated 
 
 (1) If a designated vocational training facility under Article 28 falls under any of the following subparagraphs, the Minister of Employment and Labor may order a correction, cancel the designation or order the suspension of vocational skills development training for up to one year: Provided that where it falls under subparagraph 1 or 3 (limited to cases falling under any of subparagraphs 1 through 8 of Article 29), the designation shall be cancelled: <Amended by Act No. 10339, Jun. 4, 2010 and Act No. 11272, Feb. 1, 2012>
 
-- Where the designated vocational training facility has obtained designation under Article 28 in a false or other fraudulent ways;
+1. Where the designated vocational training facility has obtained designation under Article 28 in a false or other fraudulent ways;
 
-- Where the designated vocational training facility fails to meet the requirements for designation prescribed in Article 28;
+2. Where the designated vocational training facility fails to meet the requirements for designation prescribed in Article 28;
 
-- Where the designated vocational training facility falls under any of the subparagraphs of Article 29;
+3. Where the designated vocational training facility falls under any of the subparagraphs of Article 29;
 
-- Where the designated vocational training facility fails to provide vocational skills development training for one year or more without any justifiable reason;
+4. Where the designated vocational training facility fails to provide vocational skills development training for one year or more without any justifiable reason;
 
-- Where the designated vocational training facility is operated in a fraudulent way, such as altering its designated contents without obtaining designation for the alteration, etc.;
+5. Where the designated vocational training facility is operated in a fraudulent way, such as altering its designated contents without obtaining designation for the alteration, etc.;
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
 
-- Where the designated vocational training facility puts exaggerated or false advertisements when recruiting trainees;
+6. Where the designated vocational training facility puts exaggerated or false advertisements when recruiting trainees;
 
-- Where the designated vocational training facility fails to comply with the corrective order; and
+7. Where the designated vocational training facility fails to comply with the corrective order; and
 
-- Where the designated vocational training facility violates this Act or any order issued under this Act.
+8. Where the designated vocational training facility violates this Act or any order issued under this Act.
 
 (2) Detailed criteria for the issuance of corrective orders, cancellation of designation or suspension of training under paragraph (1) shall be prescribed by the Presidential Decree in consideration of reasons for the punishment, the degree of the offence, etc. <Amended by Act No. 10339, Jun. 4, 2010 and Act No. 11272, Feb. 1, 2012>
 
@@ -687,25 +688,25 @@ If a person who intends to have his/her vocational training facility designated 
 
 ### Article 32 (Establishment, etc. of Vocational Skills Development Training Corporations)
 
-(1) The Minister of Employment and Labor may permit the establishment of a non-profit corporation (hereinafter referred to as 'vocational skills development training corporation') aimed at conducting vocational skills development activities described in any of the following subparagraphs: <Amended by Act No. 10339, Jun. 4, 2010>
+(1) The Minister of Employment and Labor may permit the establishment of a non-profit corporation (hereinafter referred to as "vocational skills development training corporation") aimed at conducting vocational skills development activities described in any of the following subparagraphs: <Amended by Act No. 10339, Jun. 4, 2010>
 
-- Vocational skills development training;
+1. Vocational skills development training;
 
-- Surveys or research to develop workers' vocational skills; and
+2. Surveys or research to develop workers' vocational skills; and
 
-- Activities of developing and disseminating vocational skills development training courses, media, etc.
+3. Activities of developing and disseminating vocational skills development training courses, media, etc.
 
 (2) If a vocational skills development training corporation falls under any of the following subparagraphs, the Minister of Employment and Labor may order a correction or cancel the permission for the establishment of the relevant corporation: Provided that where it falls under any of subparagraphs 1 through 3, the permission shall be cancelled: <Amended by Act No. 10339, Jun. 4, 2010>
 
-- Where the corporation has obtained permission for its establishment in a false or other fraudulent ways;
+1. Where the corporation has obtained permission for its establishment in a false or other fraudulent ways;
 
-- Where the corporation violates the requirements for permission for establishment;
+2. Where the corporation violates the requirements for permission for establishment;
 
-- Where the corporation is impossible to achieve its objectives;
+3. Where the corporation is impossible to achieve its objectives;
 
-- Where the corporation conducts activities other than the intended activities;
+4. Where the corporation conducts activities other than the intended activities;
 
-- Where the corporation is subject to restrictions on entrustment under Article 16 (3) or restrictions on
+5. Where the corporation is subject to restrictions on entrustment under Article 16 (3) or restrictions on
 
 [[END OF PAGE 24]]
 
@@ -713,15 +714,15 @@ If a person who intends to have his/her vocational training facility designated 
 
 recognition under Article 19 (3) and Article 24 (3) or its designation as a designated vocational skills development training facility is cancelled under Article 31 (1);
 
-- Where the corporation violates this Act or any order issued under this Act or its articles of incorporation; and
+6. Where the corporation violates this Act or any order issued under this Act or its articles of incorporation; and
 
-- Where the corporation fails to commence an intended activity without any justifiable reason within six months from the date on which its establishment is permitted or produces no result for one year or more.
+7. Where the corporation fails to commence an intended activity without any justifiable reason within six months from the date on which its establishment is permitted or produces no result for one year or more.
 
 (3) If a vocational skills development training corporation engages in profit-making activities and falls under any of the following subparagraphs, the Minister of Employment and Labor may order the corporation to correct or suspend such profit-making activities: <Amended by Act No. 10339, Jun. 4, 2010>
 
-- Where the corporation uses its profits for activities other than the intended ones;
+1. Where the corporation uses its profits for activities other than the intended ones;
 
-- Where the continuation of the relevant activities is deemed against the objectives of the vocational skills development training corporation.
+2. Where the continuation of the relevant activities is deemed against the objectives of the vocational skills development training corporation.
 
 (4) Necessary matters concerning matters contained in the articles of incorporation of a vocational skills development training corporation, requirements and criteria for permission, etc. shall be prescribed by the Presidential Decree.
 
@@ -775,13 +776,13 @@ A person who falls under any of the following subparagraphs shall be disqualifie
 
 1. An incompetent or a quasi-incompetent;
 
-- A person who has been sentenced to imprisonment without prison labor or heavier punishment and for whom two years have not elapsed since the execution of such sentence was terminated or exempted (including cases where the execution is deemed to have been terminated);
+2. A person who has been sentenced to imprisonment without prison labor or heavier punishment and for whom two years have not elapsed since the execution of such sentence was terminated or exempted (including cases where the execution is deemed to have been terminated);
 
-- A person who was sentenced to the suspension of execution of imprisonment without prison labor or heavier punishment and is still in the suspension period;
+3. A person who was sentenced to the suspension of execution of imprisonment without prison labor or heavier punishment and is still in the suspension period;
 
-- A person whose qualification has been suspended or lost in accordance with a court ruling; and
+4. A person whose qualification has been suspended or lost in accordance with a court ruling; and
 
-- A person for whom three years have not elapsed since his/her qualification was cancelled pursuant to subparagraph 1, 3 or 4 of Article 35 (1).
+5. A person for whom three years have not elapsed since his/her qualification was cancelled pursuant to subparagraph 1, 3 or 4 of Article 35 (1).
 
 <This Article Wholly Amended by Act No. 9316, Dec. 31, 2008>
 
@@ -789,7 +790,7 @@ A person who falls under any of the following subparagraphs shall be disqualifie
 
 (1) If a person who has obtained his/her qualification as a vocational skills development training instructor falls under any of the following subparagraphs, the Minister of Employment and Labor may cancel the qualification or suspend the qualification for up to three years: Provided that where such person falls under subparagraph 1 or 2, the qualification shall be cancelled: <Amended by Act No. 10337, May 31, 2010 and Act No. 10339, Jun. 4, 2010>
 
-- Where the person is issued with the qualification certificate in a false or other fraudulent ways;
+1. Where the person is issued with the qualification certificate in a false or other fraudulent ways;
 
 2. Where the person falls under any of the subparagraphs 1
 
@@ -799,9 +800,9 @@ A person who falls under any of the following subparagraphs shall be disqualifie
 
 through 4 of Article 34;
 
-- Where the person causes a serious trouble to vocational skills development training due to his/her willful misconduct or gross negligence; and
+3. Where the person causes a serious trouble to vocational skills development training due to his/her willful misconduct or gross negligence; and
 
-- Where the person let others use his/her qualification certificate.
+4. Where the person let others use his/her qualification certificate.
 
 (2) Detailed criteria for the cancellation and suspension of a qualification under paragraph (1) shall be determined by the Ordinance of the Ministry of Employment and Labor in consideration of reasons for such cancellation and suspension, the degree of violation, etc. <Amended by Act No. 10339, Jun. 4, 2010>
 
@@ -813,13 +814,13 @@ through 4 of Article 34;
 
 (2) A person who intends to obtain approval pursuant to paragraph (1) shall meet the following requirements:
 
-- The person shall have human resources, facilities and equipment required to properly operate training facilities or training courses intended to cultivate vocational skills development training instructors;
+1. The person shall have human resources, facilities and equipment required to properly operate training facilities or training courses intended to cultivate vocational skills development training instructors;
 
-- The person shall have experience in providing education and training required to properly operate the training facilities and training courses;
+2. The person shall have experience in providing education and training required to properly operate the training facilities and training courses;
 
-- The person shall not fall under the reasons for disqualification under each subparagraph of Article 29; and
+3. The person shall not fall under the reasons for disqualification under each subparagraph of Article 29; and
 
-- The person shall meet other requirements prescribed by the Presidential Decree, as necessary for the cultivation of vocational skills development training instructors.
+4. The person shall meet other requirements prescribed by the Presidential Decree, as necessary for the cultivation of vocational skills development training instructors.
 
 (3) If a person who has obtained approval pursuant to paragraph (1) falls under any of the following subparagraphs, the Minister of Employment and Labor may order a correction or cancel the approval: Provided that where such person falls under subparagraph 1 or 2, the approval shall be cancelled: <Amended by Act No. 10339, Jun. 4, 2010>
 
@@ -827,17 +828,17 @@ through 4 of Article 34;
 
 [[START OF PAGE 29]]
 
-- Where the person has obtained approval in a false or other fraudulent ways;
+1. Where the person has obtained approval in a false or other fraudulent ways;
 
-- Where the person falls under any of the subparagraphs of Article 29: Provided that this shall not apply if the relevant executive is replaced with a newly appointed one within three months in the case of subparagraph 10 of Article 29;
+2. Where the person falls under any of the subparagraphs of Article 29: Provided that this shall not apply if the relevant executive is replaced with a newly appointed one within three months in the case of subparagraph 10 of Article 29;
 
-- Where the person fails to meet the requirements for approval under paragraph (2);
+3. Where the person fails to meet the requirements for approval under paragraph (2);
 
-- Where the person has not conducted training to cultivate vocational skills development training instructors for one year or more without any justifiable reason;
+4. Where the person has not conducted training to cultivate vocational skills development training instructors for one year or more without any justifiable reason;
 
-- Where the person fails to comply with the corrective order; and
+5. Where the person fails to comply with the corrective order; and
 
-- Where the person violates this Act or any order issued under this Act.
+6. Where the person violates this Act or any order issued under this Act.
 
 (4) Necessary matters concerning types of training facilities and training courses and approval procedures under paragraph (1), details of the requirements for approval under paragraph (2) 1 and 2, detailed criteria for the issuance of corrective orders and the cancellation of approval under paragraph (3) shall be prescribed by the Ordinance of the Ministry of Employment and Labor. <Amended by Act No. 10339, Jun. 4, 2010>
 
@@ -1177,11 +1178,11 @@ under paragraphs (1) and (2) shall be prescribed by the Presidential Decree.
 
 ### Article 55 (Restrictions on Support, Loans or Taking Training for Misconducts)
 
-- If a worker who is receiving or has received vocational skills development training under Article 12 or 15 falls under any of the following subparagraphs, the State or local governments may restrict him/her from taking vocational skills development training under Articles 12 and 15 or may not provide support or loans under Articles 17 and 18 for a period prescribed by the Ordinance of the Ministry of Employment and Labor but not exceeding three years from the date (the date on which the entrustment contract is terminated in the case of subparagraph 2) on which he/she receives or intends to receive training expenses and training allowances in a false or fraudulent way: <Amended by Act No. 11272, Feb. 1, 2012>
+(1) If a worker who is receiving or has received vocational skills development training under Article 12 or 15 falls under any of the following subparagraphs, the State or local governments may restrict him/her from taking vocational skills development training under Articles 12 and 15 or may not provide support or loans under Articles 17 and 18 for a period prescribed by the Ordinance of the Ministry of Employment and Labor but not exceeding three years from the date (the date on which the entrustment contract is terminated in the case of subparagraph 2) on which he/she receives or intends to receive training expenses and training allowances in a false or fraudulent way: <Amended by Act No. 11272, Feb. 1, 2012>
 
-- Where the worker has received or intends to receive training expenses and training allowances in a false or other fraudulent ways; and
+1. Where the worker has received or intends to receive training expenses and training allowances in a false or other fraudulent ways; and
 
-- Where the entrustment contract is terminated because the worker commits an act falling under any of the subparagraphs of Article 16 (2) in collusion with a person entrusted with vocational skills development training.
+2. Where the entrustment contract is terminated because the worker commits an act falling under any of the subparagraphs of Article 16 (2) in collusion with a person entrusted with vocational skills development training.
 
 (2) If a worker, an employer, an employers' organization, etc., an industry-specific HRD council or a vocational skills development organization that intends to receive or has received support or loans for expenses under Articles 17, 18, 20, 22 and
 
@@ -1191,9 +1192,9 @@ under paragraphs (1) and (2) shall be prescribed by the Presidential Decree.
 
 23 falls under any of the following subparagraphs, the Minister of Employment and Labor may restrict them from taking vocational skills development training under Articles 12 and 15 or may not provide support or loans under Articles 17, 18, 20, 22 and 23 for a period prescribed by the Ordinance of the Ministry of Employment and Labor but not exceeding three years from the date (the date on which the recognition is cancelled in the case of subparagraph 2) on which he/she/it intends to receive or receives support or loans for expenses in a false or other fraudulent ways: <Amended by Act No. 11272, Feb. 1, 2012>
 
-- Where he/she/it has received or intends to receive support or loans for expenses in a false or other fraudulent ways; and
+1. Where he/she/it has received or intends to receive support or loans for expenses in a false or other fraudulent ways; and
 
-- Where the recognition is cancelled because he/she/it commits an act falling under any of the subparagraphs of Article 19 (2) or Article 24 (2) in collusion with a person entrusted to conduct vocational skills development training under Article 16 or a person who conducts vocational skills development training after obtaining recognition of vocational skills development training courses under Articles 19 and 24.
+2. Where the recognition is cancelled because he/she/it commits an act falling under any of the subparagraphs of Article 19 (2) or Article 24 (2) in collusion with a person entrusted to conduct vocational skills development training under Article 16 or a person who conducts vocational skills development training after obtaining recognition of vocational skills development training courses under Articles 19 and 24.
 
 <This Article Wholly Amended by Act No. 10337, May 31, 2010>
 
@@ -1221,7 +1222,7 @@ B. Where the fraudulently received amount is equal to or higher than the amount 
 
 (5) Necessary matters concerning detailed criteria for additional collection, etc. under paragraph (3) shall be prescribed by the Ordinance of the Ministry of Employment and Labor. <Amended by Act No. 11272, Feb. 1, 2012>
 
-<This Article Wholly Am end ed by Act No. 10337, May 31, 2010>
+<This Article Wholly Amended by Act No. 10337, May 31, 2010>
 
 ### Article 57 (Cash Rewards for Reporting)
 
@@ -1229,13 +1230,13 @@ B. Where the fraudulently received amount is equal to or higher than the amount 
 
 (2) Necessary matters concerning the report of misconducts and the payment of cash rewards under paragraph (1) shall be prescribed by the Ordinance of the Ministry of Employment and Labor. <Amended by Act No. 10339, Jun. 4, 2010>
 
-<This Article Wholly Am end ed by Act No. 9316, Dec. 31, 2008>
+<This Article Wholly Amended by Act No. 9316, Dec. 31, 2008>
 
 [[END OF PAGE 42]]
 
 [[START OF PAGE 43]]
 
-## CHAPTER Ⅵ I
+## CHAPTER Ⅶ
 
 ## Supplementary Provisions and Penal Provisions
 
@@ -1245,19 +1246,19 @@ B. Where the fraudulently received amount is equal to or higher than the amount 
 
 (1) The Minister of Employment and Labor may order a person who falls under any of the following subparagraphs to make a necessary report or to submit materials, or have a relevant public official, etc. provide guidance and supervision by visiting the place where vocational skills development training, etc. is conducted, and investigating relevant documents or questioning related persons. <Amended by Act No. 10337, May 31, 2010>
 
-- A person who is entrusted by the Minister of Employment and Labor to conduct vocational skills development training pursuant to Article 16;
+1. A person who is entrusted by the Minister of Employment and Labor to conduct vocational skills development training pursuant to Article 16;
 
-- A person who obtains recognition pursuant to Article 19 or 24;
+2. A person who obtains recognition pursuant to Article 19 or 24;
 
-- A person who receives support or loans pursuant to Articles 12, 17, 18, 20, 22 and 23;
+3. A person who receives support or loans pursuant to Articles 12, 17, 18, 20, 22 and 23;
 
-- A public organization which establishes and operates a public vocational training facility and a person who establishes and operates a designated vocational training facility;
+4. A public organization which establishes and operates a public vocational training facility and a person who establishes and operates a designated vocational training facility;
 
-- A vocational skills development training corporation;
+5. A vocational skills development training corporation;
 
-- A person who operates a training facility or a training course to cultivate vocational skills development training instructors after obtaining approval pursuant to Article 36; and
+6. A person who operates a training facility or a training course to cultivate vocational skills development training instructors after obtaining approval pursuant to Article 36; and
 
-- A person who carries out work vicariously pursuant to Article 59.
+7. A person who carries out work vicariously pursuant to Article 59.
 
 (2) If the Minister of Employment and Labor conducts an investigation under paragraph (1), he/she shall inform the person to be investigated of necessary matters, such as the date and time, contents of the investigation, etc.: Provided that this shall not apply to urgent cases or cases where such prior notice is deemed to prevent the attainment of the objectives. <Newly Inserted by Act No. 10337, May 31, 2010 and Amended by Act No. 11272, Feb. 1, 2012>
 
@@ -1271,7 +1272,7 @@ B. Where the fraudulently received amount is equal to or higher than the amount 
 
 (5) Necessary matters concerning the contents and methods of reports, the submission of materials, and guidance and supervision under paragraph (1) shall be prescribed by the Ordinance of the Ministry of Employment and Labor. <Amended by Act No. 10337, May 31, 2010 and Act No. 10339, Jun. 4, 2010>
 
-<This Article Wholly Am end ed by Act No. 9316, Dec. 31, 2008>
+<This Article Wholly Amended by Act No. 9316, Dec. 31, 2008>
 
 ### Article 59 (Vicarious Execution of Duties)
 
@@ -1279,19 +1280,19 @@ B. Where the fraudulently received amount is equal to or higher than the amount 
 
 (2) Necessary matters concerning procedures for the vicarious execution of duties and support for expenses required for the vicarious execution of duties shall be prescribed by the Presidential Decree.
 
-<This Article Wholly Am end ed by Act No. 9316, Dec. 31, 2008>
+<This Article Wholly Amended by Act No. 9316, Dec. 31, 2008>
 
 ### Article 60 (Delegation and Entrustment of Authority)
 
 The Minister of Employment and Labor may delegate his/her authority under this Act to the heads of local employment and labor offices or the heads of local governments, or entrust it to any person prescribed by the Presidential Decree, such as the heads, etc., of public organizations, as prescribed by the Presidential Decree. <Amended by Act No. 10339, Jun. 4, 2010>
 
-<This Article Wholly Am end ed by Act No. 9316, Dec. 31, 2008>
+<This Article Wholly Amended by Act No. 9316, Dec. 31, 2008>
 
 ### Article 61 (Legal Fiction of Public Official in Application of Penal Provisions)
 
 Any person who engages in the duties entrusted by the Minister of Employment and Labor pursuant to Article 60 shall be deemed a public official in applying the provisions of Articles 129 through 132 of the Criminal Act. <Amended by Act No. 10337, May 31, 2010 and Act No. 10339, Jun. 4, 2010>
 
-<This Article Wholly Am end ed by Act No. 9316, Dec. 31, 2008>
+<This Article Wholly Amended by Act No. 9316, Dec. 31, 2008>
 
 ### Article 62 (Hearing)
 
@@ -1301,41 +1302,41 @@ Any person who engages in the duties entrusted by the Minister of Employment and
 
 The Minister of Employment and Labor shall hold a hearing if he/she intends to take any of the following actions: <Amended by Act No. 10337, May 31, 2010; Act No. 10339, Jun. 4, 2010; and Act No. 11272, Feb. 1, 2012>
 
-- Cancellation of recognition of a vocational skills development training course under Article 19 (2) or Article 24 (2);
+1. Cancellation of recognition of a vocational skills development training course under Article 19 (2) or Article 24 (2);
 
-- Cancellation of approval of a public vocational skills development training facility under Article 27 (2);
+2. Cancellation of approval of a public vocational skills development training facility under Article 27 (2);
 
-- Cancellation of designation of a designated vocational skills development training facility under Article 31 (1);
+3. Cancellation of designation of a designated vocational skills development training facility under Article 31 (1);
 
-- Cancellation of permission for establishment of a vocational skills development training corporation under Article 32 (2);
+4. Cancellation of permission for establishment of a vocational skills development training corporation under Article 32 (2);
 
-- Cancellation of qualification of a vocational skills development training instructor under Article 35 (1);
+5. Cancellation of qualification of a vocational skills development training instructor under Article 35 (1);
 
-- Cancellation of approval of a training facility or training course under Article 36 (3); and
+6. Cancellation of approval of a training facility or training course under Article 36 (3); and
 
-- Cancellation of authorization for establishment of a degree-conferring advanced major course under Article 49-2 (1).
+7. Cancellation of authorization for establishment of a degree-conferring advanced major course under Article 49-2 (1).
 
-<This Article Wholly Am end ed by Act No. 9316, Dec. 31, 2008>
+<This Article Wholly Amended by Act No. 9316, Dec. 31, 2008>
 
 ### Article 63 (Fine for Negligence)
 
 (1) A person who falls under any of the following subparagraphs shall be punished by a fine for negligence not exceeding three million won: <Amended by Act No. 10337, May 31, 2010>
 
-- A person who fails to pay accident consolation benefits in violation of Article 11;
+1. A person who fails to pay accident consolation benefits in violation of Article 11;
 
-- A person who fails to preserve documents relevant to support or loans for expenses under Article 23-2;
+2. A person who fails to preserve documents relevant to support or loans for expenses under Article 23-2;
 
-- A person who fails to make a report under Article 28 (3);
+3. A person who fails to make a report under Article 28 (3);
 
-- A person who fails to return training fees in violation of Article 30 (2);
+4. A person who fails to return training fees in violation of Article 30 (2);
 
-- 4-2. A person who is not a polytechnic college but uses in its name, the term "polytechnic college" or any other similar term in violation of Article 51;
+4-2. A person who is not a polytechnic college but uses in its name, the term "polytechnic college" or any other similar term in violation of Article 51;
 
-- A person who fails to make a report under Article 58 or makes a false report;
+5. A person who fails to make a report under Article 58 or makes a false report;
 
-- A person who fails to comply with an order to submit materials under Article 58 or submits false materials; and
+6. A person who fails to comply with an order to submit materials under Article 58 or submits false materials; and
 
-- A person who gives a false answer to a question asked by a related public official pursuant to Article 58 or refuses, obstructs or evades guidance or supervision provided by a related public official.
+7. A person who gives a false answer to a question asked by a related public official pursuant to Article 58 or refuses, obstructs or evades guidance or supervision provided by a related public official.
 
 [[END OF PAGE 45]]
 
@@ -1343,7 +1344,7 @@ The Minister of Employment and Labor shall hold a hearing if he/she intends to t
 
 (2) Fines for negligence under paragraph (1) shall be imposed and collected by the Minister of Employment and Labor under the conditions prescribed by the Presidential Decree. <Amended by Act No. 10339, Jun. 4, 2010>
 
-<This Article Wholly Am end ed by Act No. 9316, Dec. 31, 2008>
+<This Article Wholly Amended by Act No. 9316, Dec. 31, 2008>
 
 ## Addenda <Act No. 7298, Dec. 31, 2004>
 
@@ -1389,11 +1390,11 @@ The application of penal provisions and fines for negligence to acts committed b
 
 (1) The Act on Special Measures for the Promotion of Businesses, etc. Specializing in Parts and Materials shall be revised as follows:
 
-'If they are recognized as training courses under Article 28 (1) of the Vocational Training Promotion Act, according to the requirements prescribed in paragraph (3) of the same Act' in Article 12 (3) shall be changed to 'if they are recognized as training courses provided in accordance with the training standards prescribed in Article 38 of the Employee Skills Development Act pursuant to Article 24 (1) or (2) of the same Act'.
+“If they are recognized as training courses under Article 28 (1) of the Vocational Training Promotion Act, according to the requirements prescribed in paragraph (3) of the same Act” in Article 12 (3) shall be changed to “if they are recognized as training courses provided in accordance with the training standards prescribed in Article 38 of the Employee Skills Development Act pursuant to Article 24 (1) or (2) of the same Act”.
 
 (2) The Act on Employment Promotion and Vocational Rehabilitation for the Disabled shall be revised as follows:
 
-'A facility as prescribed in the subparagraph 2 of Article 2 of the Vocational Training Promotion Act' in subparagraph 7 of Article 2 shall be changed to 'a vocational skills development training facility prescribed in subparagraph 3 of Article 2 of the Employee Skills Development Act'.
+“A facility as prescribed in the subparagraph 2 of Article 2 of the Vocational Training Promotion Act” in subparagraph 7 of Article 2 shall be changed to “a vocational skills development training facility prescribed in subparagraph 3 of Article 2 of the Employee Skills Development Act”.
 
 [[END OF PAGE 47]]
 
@@ -1401,25 +1402,25 @@ The application of penal provisions and fines for negligence to acts committed b
 
 Article 8 (2) 5 shall be revised as follows:
 
-- Vocational skills development facilities under subparagraph 3 of Article 2 of the Employee skills Development Act
+5. Vocational skills development facilities under subparagraph 3 of Article 2 of the Employee skills Development Act
 
 (3) The Act on the Human Resources Development Service of Korea shall be revised as follows:
 
 Subparagraph 4 of Article 14 (1) shall be revised as follows:
 
-- Revenues from being entrusted with vocational skills development training by the State and a local government or revenues from being entrusted with vocational skills development training by employers, etc. under Article 16 of the Employee Skills Development Act;
+4. Revenues from being entrusted with vocational skills development training by the State and a local government or revenues from being entrusted with vocational skills development training by employers, etc. under Article 16 of the Employee Skills Development Act;
 
-(4) The Polytechnic College Act shall be revised as follows: 'Subparagraph 1 of Article 2 of the Vocational Training Promotion Act' in subparagraphs 1 and 4 of Article 2 shall be changed to 'subparagraph 1 of Article 2 of the Employee Skills Development Act'.
+(4) The Polytechnic College Act shall be revised as follows: “Subparagraph 1 of Article 2 of the Vocational Training Promotion Act” in subparagraphs 1 and 4 of Article 2 shall be changed to “subparagraph 1 of Article 2 of the Employee Skills Development Act”.
 
-'The Vocational Training Promotion Act' in subparagraph 5 of Article 5-2 (2) shall be changed to 'the Employee Skills Development Act'.
+“The Vocational Training Promotion Act” in subparagraph 5 of Article 5-2 (2) shall be changed to “the Employee Skills Development Act”.
 
 Subparagraph 3 of Article 6 (2) shall be revised as follows:
 
 3. Basic plan on vocational competency development under Article 5 of the Employee Skills Development Act;
 
-'The Vocational Training Promotion Act' in the former part of Article 8 (3) shall be changed to 'the Employee Skills Development Act' and 'Article 9 of the Vocational Training Promotion Act' in the latter part of the same Act to 'Article 33 of the Employee Skills Development Act'.
+“The Vocational Training Promotion Act” in the former part of Article 8 (3) shall be changed to “the Employee Skills Development Act” and “Article 9 of the Vocational Training Promotion Act” in the latter part of the same Act to “Article 33 of the Employee Skills Development Act”.
 
-'Subparagraph 2 of Article 2 of the Vocational Training Promotion Act' in Article 21 (2) shall be changed to 'subparagraph 3 of Article 2 of the Employee Skills Development Act' and 'subparagraph 1 of Article 2 of the Vocational Training Promotion Act' to "subparagraph 1 of Article 2 of the Employee Skills Development Act".
+“Subparagraph 2 of Article 2 of the Vocational Training Promotion Act” in Article 21 (2) shall be changed to “subparagraph 3 of Article 2 of the Employee Skills Development Act” and “subparagraph 1 of Article 2 of the Vocational Training Promotion Act” to "subparagraph 1 of Article 2 of the Employee Skills Development Act".
 
 ### Article 10 (Relations with Other Acts and Subordinate Statutes)
 
@@ -1439,9 +1440,9 @@ This Act shall enter into force on the date of its promulgation.
 
 Parts of the Debtor Rehabilitation and Bankruptcy Act shall be revised as follows:
 
-'A bankrupt in Subparagraph 2 of Article 34 shall be a person who is declared bankrupt' in Article 5 (18) of the Addenda of the Debtor Rehabilitation and Bankruptcy amended by Act no. 7428 shall be deleted.
+“A bankrupt in Subparagraph 2 of Article 34 shall be a person who is declared bankrupt” in Article 5 (18) of the Addenda of the Debtor Rehabilitation and Bankruptcy amended by Act no. 7428 shall be deleted.
 
-## Addenda <Act No. 8815, Dec. 27, 2007; Revision of the Act Promotion of Worker Participation and Cooperation>
+## Addenda <Act No. 8815, Dec. 27, 2007; Revision of the Act on the Promotion of Worker Participation and Cooperation>
 
 ### Article 1 (Enforcement Date)
 
@@ -1451,11 +1452,11 @@ This Act shall enter into force on the date of its promulgation.
 
 Parts of the Employee Skills Development Act shall be revised as follows:
 
-'The provisions in Article 20' in Article 20 (2) 3 shall be changed to 'Article 21.'
+“The provisions in Article 20” in Article 20 (2) 3 shall be changed to “Article 21.”
 
 ### Article 3 Omitted.
 
-## Addenda <Act No. 9792, Oct. 9, 2009; Revision Act on Employment Policy>
+## Addenda <Act No. 9792, Oct. 9, 2009; Revision of the Framework Act on Employment Policy>
 
 ### Article 1 (Enforcement Date)
 
@@ -1467,11 +1468,7 @@ This Act shall enter into force on January 1, 2010.
 
 (5) Part of the Workers' Vocational Skills Development Act shall be revised as follows:
 
-'Article 10 of Framework Act on Employment Policy' in Article 5 (2) 1 shall be changed to 'Article 16 of Framework Act on Employment Policy'
-
-on the
-
-of the Framework
+“Article 10 of Framework Act on Employment Policy” in Article 5 (2) 1 shall be changed to “Article 16 of Framework Act on Employment Policy”
 
 [[END OF PAGE 49]]
 
@@ -1663,15 +1660,15 @@ This Act shall enter into force on July 1, 2012.
 
 ### Article 2 (Revision of Other Acts)
 
-- through (7) Omitted.
+(1) through (7) Omitted.
 
 (8) Part of the Workers Vocational Skills Development Act shall be revised as follows:
 
 Article 3 (4) 3 shall be revised as follows:
 
-- Persons who gave distinguished services to the State, and their bereaved families and dependents under the Act on the Honorable Treatment and Support for Persons, etc. of Distinguished Services to the State and persons entitled to veterans benefits and their bereaved families and dependents under the Act on Support for Persons Entitled to Veterans Benefits
+3. Persons who gave distinguished services to the State, and their bereaved families and dependents under the Act on the Honorable Treatment and Support for Persons, etc. of Distinguished Services to the State and persons entitled to veterans benefits and their bereaved families and dependents under the Act on Support for Persons Entitled to Veterans Benefits
 
-- through (27) Omitted.
+(9) through (27) Omitted.
 
 ## Addenda <Act No. 11272, Feb. 1, 2012>
 
@@ -1693,7 +1690,7 @@ Designated vocational training facilities for which a cause for cancellation, et
 
 This Act shall enter into force three months after its promulgation.
 
-### Articles 2 and 9 Omitted.
+### Articles 2 through 9 Omitted.
 
 ### Article 10 (Revision of Other Acts)
 
@@ -1713,7 +1710,7 @@ This Act shall enter into force three months after its promulgation.
 
 (2) Omitted.
 
-### Articles 2 and 5 Omitted.
+### Articles 2 through 5 Omitted.
 
 ### Article 6 (Revision of Other Acts)
 
