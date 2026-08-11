@@ -24,7 +24,7 @@ Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente
 
 ## SE  EXPIDE  LA  LEY  GENERAL  DE  EDUCACIÓN  Y  SE  ABROGA  LA  LEY  GENERAL  DE  LA INFRAESTRUCTURA FÍSICA EDUCATIVA.
 
-### Artículo Único.
+### Artículo Único.-
 Se expide la Ley General de Educación.
 
 # LEY GENERAL DE EDUCACIÓN
@@ -44,7 +44,7 @@ La distribución de la función social educativa del Estado, se funda en la obli
 El  Estado  priorizará  el  interés  superior  de  niñas,  niños,  adolescentes  y  jóvenes  en  el ejercicio de su derecho a la educación. Para tal efecto, garantizará el desarrollo de programas y políticas públicas que hagan efectivo ese principio constitucional.
 
 #### Artículo 3.
-El Estado fomentará la participación activa de los educandos, madres y padres de familia o tutores, maestras y maestros, así como de los distintos actores involucrados en el proceso educativo y, en  general,  de  todo  el  Sistema  Educativo  Nacional,  para  asegurar  que  éste  extienda  sus  beneficios  a Nueva Ley DOF 30-09-2019
+El Estado fomentará la participación activa de los educandos, madres y padres de familia o tutores, maestras y maestros, así como de los distintos actores involucrados en el proceso educativo y, en  general,  de  todo  el  Sistema  Educativo  Nacional,  para  asegurar  que  éste  extienda  sus  beneficios  a
 
 1 de 67
 
@@ -53,6 +53,8 @@ El Estado fomentará la participación activa de los educandos, madres y padres 
 [[START OF PAGE 2]]
 
 LEY GENERAL DE EDUCACIÓN
+
+Nueva Ley DOF 30-09-2019
 
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 
@@ -716,6 +718,8 @@ Los servicios que comprende este tipo de educación, entre otros, son:
 
 LEY GENERAL DE EDUCACIÓN
 
+Nueva Ley DOF 30-09-2019
+
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretaría de Servicios Parlamentarios
 
 - Primaria general, indígena y comunitaria;
@@ -754,7 +758,7 @@ Para dar cumplimiento a esta disposición, las autoridades educativas, en el ám
 
 - Realizar  las  acciones  necesarias  para  que  la  educación  multigrado  cumpla  con  los  fines  y criterios de la educación, lo que incluye que cuenten con el personal docente capacitado para lograr el máximo aprendizaje de los educandos y su desarrollo integral;
 
-Nueva Ley DOF 30-09-2019
+
 
 17 de 67
 
@@ -1537,7 +1541,7 @@ Para  el  mantenimiento  de  los  muebles  e  inmuebles,  así  como  los  servi
 La Secretaría emitirá los lineamientos de operación del Consejo de Infraestructura Educativa, el cual será un espacio de consulta, deliberación y de análisis de las mejores prácticas de los asuntos sobre lo relativo  a  los  muebles  e  inmuebles  destinados  a  la  educación,  en  el  que  participarán  las  autoridades educativas federal, de las entidades federativas y de los municipios.
 
 #### Artículo  106.
-Con  objeto  de  fomentar  la  participación  social  en  el  fortalecimiento  y  mejora  de  los espacios educativos, su mantenimiento y ampliación de la cobertura de los servicios, la Secretaría, en Nueva Ley DOF 30-09-2019
+Con  objeto  de  fomentar  la  participación  social  en  el  fortalecimiento  y  mejora  de  los espacios educativos, su mantenimiento y ampliación de la cobertura de los servicios, la Secretaría, en
 
 36 de 67
 
@@ -1548,6 +1552,8 @@ Con  objeto  de  fomentar  la  participación  social  en  el  fortalecimiento  
 LEY GENERAL DE EDUCACIÓN
 
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretaría de Servicios Parlamentarios
+
+Nueva Ley DOF 30-09-2019
 
 coordinación con las dependencias federales respectivas, emitirán los lineamientos de operación de los Comités Escolares de Administración Participativa  o  sus  equivalentes  para  los  planteles  de  educación básica  y,  en  su  caso,  de  media  superior,  en  los  cuales  además  se  aplicarán  mecanismos  de transparencia y eficiencia de los recursos asignados.
 
@@ -1859,6 +1865,8 @@ LEY GENERAL DE EDUCACIÓN
 
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretaría de Servicios Parlamentarios
 
+Nueva Ley DOF 30-09-2019
+
 ### Del financiamiento a la educación
 
 ### Capítulo Único
@@ -1887,7 +1895,7 @@ En  el  cumplimiento  de  lo  dispuesto  en  los  artículos  anteriores  de  es
 
 En  todo  tiempo  procurarán  fortalecer  las  fuentes  de  financiamiento  a  la  tarea  educativa  y  destinar recursos presupuestarios crecientes, en términos reales, para la educación pública.
 
-Nueva Ley DOF 30-09-2019
+
 
 45 de 67
 
@@ -2187,6 +2195,8 @@ Secretaría General
 
 Secretaría de Servicios Parlamentarios
 
+Nueva Ley DOF 30-09-2019
+
 ### Capítulo Único
 
 ### De las disposiciones aplicables a la validez de estudios y certificación de conocimientos
@@ -2221,7 +2231,7 @@ Las  revalidaciones  y  equivalencias  otorgadas  en  términos  del  presente  
 
 Las  autoridades  educativas  podrán  revocar  las  referidas  autorizaciones,  cuando  se  presente  algún incumplimiento que en términos de los mencionados lineamientos amerite dicha sanción. Lo anterior con independencia de las infracciones que pudieran configurarse, en términos de lo previsto en esta Ley.
 
-Nueva Ley DOF 30-09-2019
+
 
 52 de 67
 
@@ -2397,7 +2407,7 @@ La persona con quien se entienda la visita será requerida a efecto de que desig
 
 Ante su negativa o abandono de la diligencia, serán designados por el servidor público comisionado, debiendo asentar dicha circunstancia en el acta de visita, sin que esto afecte su validez.
 
-Los testigos designados por el servidor público comisionado deberán ser personas que se encuentren en el lugar en el que se levante el acta. En caso de que ninguna persona se encuentre en el lugar, el servidor público comisionado hará constar tal situación en el acta, sin que ello afecte su validez y valor probatorio.
+Los testigos designados por el servidor público comisionado deberán ser personas que se encuentren en el lugar en el que se levante el acta. En caso de que ninguna persona se encuentre en el lugar, el
 
 56 de 67
 
@@ -2412,6 +2422,8 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 
 Secretaría de Servicios Parlamentarios
+
+servidor público comisionado hará constar tal situación en el acta, sin que ello afecte su validez y valor probatorio.
 
 #### Artículo 157.
 De la visita se levantará acta circunstanciada en presencia de los testigos designados por la persona con quien se entienda la diligencia o por quien la practique si aquella se hubiese negado a proponerlos.
@@ -2544,7 +2556,7 @@ El  visitado  respecto  de  los  hechos  y  circunstancias  asentadas  en  el  a
 Transcurridos los cinco días hábiles siguientes a la fecha en que se hubiere levantado el acta de la visita, sin que  el visitado,  su  representante  legal  o  apoderado  haya  presentado  información  o documentación  relacionada  con  la  misma,  se  entenderá  que  está  de  acuerdo  en  su  totalidad  con  lo asentado  en  el  acta  de  visita  y  se  tendrá  por  precluido  su  derecho  para  exhibir  documentación  e información.
 
 #### Artículo  163.
-De la  información  contenida  en  el  acta  correspondiente,  así  como  la  documentación relacionada,  que  en  su  caso  presenten  los  particulares,  las  autoridades  educativas  podrán  formular medidas precautorias y correctivas, mismas que harán del conocimiento de los particulares en un plazo no mayor a diez días hábiles, contados a partir de que se tuvo por concluida la visita.
+De la información contenida en el acta correspondiente, así como la documentación relacionada, que en su caso presenten los particulares, las autoridades educativas podrán formular
 
 59 de 67
 
@@ -2559,6 +2571,8 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 
 Secretaría de Servicios Parlamentarios
+
+medidas precautorias y correctivas, mismas que harán del conocimiento de los particulares en un plazo no mayor a diez días hábiles, contados a partir de que se tuvo por concluida la visita.
 
 #### Artículo 164.
 Las medidas precautorias y correctivas a que se refiere el artículo anterior consistirán en las siguientes:
@@ -2695,7 +2709,7 @@ Las multas impuestas podrán duplicarse en caso de reincidencia;
 Si se incurriera en las infracciones establecidas en las fracciones XIII, XIV y XXVI del artículo anterior, se aplicarán las sanciones de este artículo, sin perjuicio de las penales y de otra índole que resulten.
 
 #### Artículo 172.
-Para determinar la sanción, se considerarán las circunstancias  en que se cometió la infracción,  los  daños  y  perjuicios  que  se  hayan  producido  o  puedan  producirse  a  los  educandos,  la gravedad de la infracción, las condiciones socioeconómicas del infractor, el carácter intencional o no de la infracción y si se trata de reincidencia.
+Para determinar la sanción, se considerarán las circunstancias en que se cometió la infracción, los daños y perjuicios que se hayan producido o puedan producirse a los educandos, la
 
 62 de 67
 
@@ -2710,6 +2724,8 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 
 Secretaría de Servicios Parlamentarios
+
+gravedad de la infracción, las condiciones socioeconómicas del infractor, el carácter intencional o no de la infracción y si se trata de reincidencia.
 
 #### Artículo 173.
 Las multas que imponga la autoridad educativa federal serán ejecutadas por el Servicio de Administración Tributaria, a través de los procedimientos y disposiciones aplicables por dicho órgano.
@@ -2787,7 +2803,7 @@ La tramitación y la resolución del recurso de revisión, se llevará a cabo en
 La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial  de la Federación.
 
 #### Segundo.
-Se  abroga  la  Ley  General  de  Educación,  publicada  el  13  de  julio  de  1993  en  el  Diario Oficial  de  la  Federación  y  se  derogan  todas  las  disposiciones  contenidas  en  las  leyes  secundarias  y Nueva Ley DOF 30-09-2019
+Se abroga la Ley General de Educación, publicada el 13 de julio de 1993 en el Diario Oficial de la Federación y se derogan todas las disposiciones contenidas en las leyes secundarias y
 
 64 de 67
 
@@ -2802,6 +2818,8 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
 Secretaría General
 
 Secretaría de Servicios Parlamentarios
+
+Nueva Ley DOF 30-09-2019
 
 quedan  sin  efectos  los  reglamentos,  acuerdos  y  disposiciones  de  carácter  general  contrarias  a  este Decreto.
 
@@ -2826,7 +2844,7 @@ A partir de la entrada en vigor de este Decreto, se iniciará el proceso para la
 - Se  respetarán  los  derechos  laborales  de  los  trabajadores del Instituto  Nacional  de  la Infraestructura Física Educativa conforme a lo dispuesto por el Contrato Colectivo de Trabajo, la Ley Federal del Trabajo y demás ordenamientos aplicables.
 
 #### Quinto.
-La  Secretaría  deberá  emitir  y  adecuar  los  reglamentos,  acuerdos,  lineamientos  y  demás disposiciones de carácter general conforme a lo establecido en este Decreto, en un plazo no mayor a ciento  ochenta  días  hábiles  siguientes  contados  a  partir  de  su  entrada  en  vigor.  Hasta  su  emisión, CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretaría de Servicios Parlamentarios seguirán aplicándose para la operación y funcionamiento de los servicios que se presten y se deriven de aquellos en lo que no contravengan a este Decreto.
+La Secretaría deberá emitir y adecuar los reglamentos, acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en este Decreto, en un plazo no mayor a ciento ochenta días hábiles siguientes contados a partir de su entrada en vigor. Hasta su emisión,
 
 65 de 67
 
@@ -2834,7 +2852,15 @@ La  Secretaría  deberá  emitir  y  adecuar  los  reglamentos,  acuerdos,  line
 
 [[START OF PAGE 66]]
 
-LEY GENERAL DE EDUCACIÓN Nueva Ley DOF 30-09-2019
+LEY GENERAL DE EDUCACIÓN
+
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN
+Secretaría General
+Secretaría de Servicios Parlamentarios
+
+Nueva Ley DOF 30-09-2019
+
+seguirán aplicándose para la operación y funcionamiento de los servicios que se presten y se deriven de aquellos en lo que no contravengan a este Decreto.
 
 Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de este Decreto, continuarán,  hasta  su  conclusión,  regidos  con  los  reglamentos,  acuerdos  y  demás  disposiciones  de carácter general en los cuales se fundamentaron.
 
@@ -2859,7 +2885,7 @@ La Secretaría, conforme a lo establecido en el artículo 23 de la Ley General d
 La Secretaría emitirá los Principios Rectores y Objetivos de la educación inicial, en un plazo de noventa días naturales siguientes a la publicación de la Estrategia Nacional de Atención a la Primera  Infancia  a  que  se  refiere  el  Artículo  Décimo  Segundo  Transitorio  del  Decreto  por  el  que  se reforman,  adicionan  y  derogan  diversas  disposiciones  de  los  artículos  3o.,  31  y  73  de  la  Constitución Política  de  los  Estados  Unidos  Mexicanos,  en  materia  educativa,  publicado  en  el  Diario  Oficial  de  la Federación el 15 de mayo de 2019.
 
 #### Décimo Segundo.
-Las autoridades educativas, en el ámbito de su competencia, preverán de manera progresiva y de acuerdo a la disponibilidad presupuestaria, los recursos presupuestales necesarios para garantizar  la  prestación  de  educación  inicial,  con  el  fin  de  lograr  la  universalidad  de  dicho  servicio, conforme a lo que establezca la Estrategia Nacional de Atención a la Primera Infancia a que se refiere el Artículo Décimo Segundo Transitorio del Decreto por el que se reforman, adicionan y derogan diversas Nueva Ley DOF 30-09-2019
+Las autoridades educativas, en el ámbito de su competencia, preverán de manera progresiva y de acuerdo a la disponibilidad presupuestaria, los recursos presupuestales necesarios para garantizar la prestación de educación inicial, con el fin de lograr la universalidad de dicho servicio, conforme a lo que establezca la Estrategia Nacional de Atención a la Primera Infancia a que se refiere el Artículo Décimo Segundo Transitorio del Decreto por el que se reforman, adicionan y derogan diversas
 
 66 de 67
 
@@ -2870,6 +2896,8 @@ Las autoridades educativas, en el ámbito de su competencia, preverán de manera
 LEY GENERAL DE EDUCACIÓN
 
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretaría de Servicios Parlamentarios
+
+Nueva Ley DOF 30-09-2019
 
 disposiciones de los artículos 3o., 31 y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia educativa, publicado en el Diario Oficial de la Federación el 15 de mayo de 2019.
 
@@ -2892,9 +2920,9 @@ En  el  supuesto  de  que  se  ejerza  la  atribución  a  que  se  refiere  el 
 
 Conforme a lo que se establezca en los convenios a que se refiere el párrafo anterior, la Secretaría de Educación  Pública  y  la  Secretaría  de  Hacienda  y  Crédito  Público  podrán  constituir  un  fondo  para  la administración de los recursos respectivos.
 
-Ciudad de México, a 25 de septiembre de 2019.- Dip. Laura Angélica Rojas Hernández , Presidenta.Sen. Mónica  Fernández  Balboa ,  Presidenta.-  Dip. Karla  Yuritzi  Almazán  Burgos ,  Secretaria.-  Sen. Primo Dothé Mata , Secretario.- Rúbricas. "
+Ciudad de México, a 25 de septiembre de 2019.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Sen. Primo Dothé Mata, Secretario.- Rúbricas."
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 27 de septiembre de 2019.Andrés Manuel  López  Obrador .-  Rúbrica.-  La  Secretaria  de  Gobernación,  Dra. Olga  María  del  Carmen Sánchez Cordero Dávila .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 27 de septiembre de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 
 67 de 67
 
