@@ -1,6 +1,16 @@
 [[START OF PAGE 1]]
 
-### Article 1 er
+# Togo
+
+# Ordonnance n° 75-016 du 6 mai 1975 sur le réforme de l'enseignement
+
+Cette ordonnance de 1975 ne traite pas de la langue française ni des langues nationales, mais l'article 7 fait mention des langues nationales et africaines.
+
+# Ordonnance n° 75-016 du 6 mai 1975 sur la réforme de l'enseignement
+
+## TITRE I - OBJECTIFS DE L'ÉCOLE NOUVELLE
+
+### Article 1er
 
 Les jardins d'enfants, les écoles primaires, les établissements secondaires ou techniques, les écoles spécialisées, les grandes écoles et instituts d'enseignement supérieur, ensemble de l'école nouvelle auxquels les dispositions de la présente ordonnance seront appliquées, ont pour fonction, la formation intégrale de l'homme togolais.
 
@@ -23,16 +33,6 @@ La politique structurale de l'école nouvelle est conçue de manière à :
 - détruire la dichotomie entre l'enseignement général et l'enseignement technique ;
 
 - rendre plus rationnelle et plus efficace l'administration scolaire en regroupant sous une seule direction les établissements de formation d'un même niveau.
-
-# Togo
-
-# Ordonnance n° 75-016 du 6 mai 1975 sur le réforme de l'enseignement
-
-Cette ordonnance de 1975 ne traite pas de la langue française ni des langues nationales, mais l'article 7 fait mention des langues nationales et africaines.
-
-# Ordonnance n° 75-016 du 6 mai 1975 sur la réforme de l'enseignement
-
-## TITRE I - OBJECTIFS DE L'ÉCOLE NOUVELLE
 
 [[END OF PAGE 1]]
 
@@ -118,7 +118,7 @@ L'application de ces programmes sera graduelle, mais effective avant 1980.
 
 Des modifications rendues nécessaires par l'application pourront intervenir si elles sont jugées utiles.
 
-## TITRE VlIl - DISPOSITION FINALE
+## TITRE VIII - DISPOSITION FINALE
 
 ### Article 19
 
