@@ -2,23 +2,27 @@
 
 # LATVIAN NATIONAL DEVELOPMENT PLAN
 
-2 O O 7 - 2 O 1 3
+2 0 0 7–2 0 1 3
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-MINISTRY OF REGIONAL DEVELOPMENT AND LOCAL GOVERNMENT OF THE REPUBLIC OF LATVIA Lacplesa street 27, Riga, LV - 1011
+MINISTRY OF REGIONAL DEVELOPMENT AND LOCAL GOVERNMENT OF THE REPUBLIC OF LATVIA
+Lacplesa street 27, Riga, LV - 1011
 
-Prepared for publication and published by "Jelgavas tipogråfija" Ltd.
+Prepared for publication and published by "Jelgavas tipogrāfija" Ltd.
 
 Design: Daiga Brinkmane
 
-© Ministry of Regional Development and Local Government of the Republic of Latvia, 2006 In case of re-publication and quoting the reference is mandatory I congratulate everyone who took part in the formulation of Latvia's National Development Plan and for successfully completing this important task. The authors have produced a truly significant and comprehensive document that outlines the country's national growth objectives and delineates Latvia's main development areas  for  the  next  seven  years.  It  is  significant  that  Latvia's  inhabitants  have  been  widely  involved  in  the development of this  plan,  that  the  opinions  of  various  groups  of  society  were  considered  and  that  their comments and recommendations were taken into account.
+© Ministry of Regional Development and Local Government of the Republic of Latvia, 2006
+In case of re-publication and quoting the reference is mandatory
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+I congratulate everyone who took part in the formulation of Latvia’s National Development Plan and for successfully completing this important task. The authors have produced a truly significant and comprehensive document that outlines the country’s national growth objectives and delineates Latvia’s main development areas for the next seven years. It is significant that Latvia’s inhabitants have been widely involved in the development of this plan, that the opinions of various groups of society were considered and that their comments and recommendations were taken into account.
 
 The next seven years will certainly be decisive ones for raising the quality of education and scientific research in Latvia, as well as for the further development of the economy. We need to create a stable intellectual and material foundation for ensuring a gradual rise in Latvia's overall welfare. I truly believe that Latvia's National Development Plan will help us to promote and strengthen the further development of our country, as well as increase its prosperity and international competitiveness.
 
@@ -28,7 +32,8 @@ The  potential  of  our  people,  in  combination  with  a  concerted  State  po
 
 I hope that as a result of our joint efforts during the next seven years, we will be able to implement the most important goals of the National Development Plan, and that it will help us to enter a new and enhanced stage of development for the benefit of everyone who lives in this country.
 
-Vaira Vî˚e-Freiberga President of the Republic of Latvia
+Vaira Vīķe-Freiberga
+President of the Republic of Latvia
 
 [[END OF PAGE 3]]
 
@@ -42,11 +47,129 @@ N A T I O N A L D E V E L O M E N T
 
 ## TABLE OF CONTENTS
 
+I WHAT IS THE NATIONAL DEVELOPMENT PLAN? 6
+
+II NATIONAL GROWTH MODEL – “PEOPLE FIRST” 8
+
+III QUALITY OF LIFE – WHAT DOES IT MEAN? 10
+
+IV STRATEGY OF THE NATIONAL DEVELOPMENT PLAN 12
+
+1. An educated and creative individual 14
+
+1.1. Qualitative and accessible primary and basic education, compulsory secondary and competitive higher education 14
+
+1.2. Preparing the labour force to meet the demands of the labour market 15
+
+1.3. Life-long learning for increasing a person’s creative potential and the quality of life 16
+
+1.4. Modernization of the educational infrastructure 17
+
+2. Technological excellence and flexibility of companies 18
+
+2.1. Commercialisation of the results of applied science, innovation and technology transfer 18
+
+2.2. Application of knowledge in boosting the competitiveness of companies 19
+
+2.3. Creation of new competitive companies 20
+
+2.4. Development of creative industries 20
+
+2.5. Sustainable and efficient use of natural and energy resources 21
+
+3. Development of the science and research 23
+
+3.1. Excellence in basic science 23
+
+3.2. Renewal and development of basic and applied science research potential 24
+
+3.3. Modernisation of scientific infrastructure in scientific institutions 24
+
+V PREREQUISITES FOR SURE AND SUSTAINED DEVELOPMENT 26
+
+4. Development of the country and society 26
+
+4.1. Good governance as a warrant for a sustainable development policy 26
+
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
 5
+
+4.1.1. Implementation of a macroeconomic policy oriented toward stable and balanced growth 26
+
+4.1.2. Improvement of the planning and forecasting system 27
+
+4.1.3. Functional local governments and regions 27
+
+4.1.4. Strengthening the capacity of public administration 28
+
+4.2. A secure, unified and civil society 28
+
+4.2.1. Cooperation of the public, non-governmental and private sector 29
+
+4.2.2. Creation of a common culture space 29
+
+4.2.3. Ensuring internal security 30
+
+4.3. International dimension of Latvia’s development 31
+
+5. Favourable environment for business and living 32
+
+5.1. Regional development 32
+
+5.1.1. Polycentric development – an opportunity for regions 33
+
+5.1.2. Riga – a metropolis of business, science and culture in the Baltic Sea region 33
+
+5.1.3. Mutual, trans-boundary and trans-national co-operation of regions to increase competitiveness in the European Union 34
+
+5.2. Modern infrastructure and services 35
+
+5.2.1. Energy supply which facilitates development 35
+
+5.2.2. Development of ICT infrastructure and services and their accessibility in public networks 36
+
+5.2.3. Multimodal, integrated, accessible for public and safe transportation system 36
+
+5.2.4. Development of public utilities (water and waste management, heating, etc.) 37
+
+5.2.5. Infrastructure and services provided to people engaged in different activities and having different life-styles 38
+
+6. Improvement of welfare 39
+
+6.1. Healthy people in a sustainable society 39
+
+6.1.1. Human health as a value 39
+
+6.1.2. Sustainable social security system 40
+
+6.1.3. Support to families with children and encouraging an increase in the birth rate 41
+
+6.2. Inclusive and steady labour market 42
+
+6.2.1. Access to jobs and job variety in regions 42
+
+6.2.2. Support for increasing the employment rate 43
+
+6.3. Accessible housing and a civilized living area 43
+
+6.3.1. Diverse supply of types of housing 44
+
+6.3.2. Forming socially integrated neighbourhoods 44
+
+6.3.3. A well-developed and accessible cultural environment and cultural-historical heritage 45
+
+6.3.4. Reasonably used and well-preserved natural environment 46
+
+VI IMPLEMENTATION AND MONITORING OF THE NATIONAL DEVELOPMENT PLAN 48
+
+Explanation of terms 50
+
+Abbreviations and acronyms 55
+
+Drafting process 56
 
 [[END OF PAGE 5]]
 
@@ -70,23 +193,23 @@ The  NDP's  task  is  to  focus  society's  attention  on  an  agreed  upon  goa
 
 The NDP is a document which marks a turning point in the development of the country and offers answers to the following questions:
 
-- circlesolid What will our Latvia look like after seven and more years?
+- What will our Latvia look like after seven and more years?
 
-- circlesolid How can an increase in the country's competitiveness be ensured?
+- How can an increase in the country's competitiveness be ensured?
 
-- circlesolid What qualities should a person - a shaper of Latvia's future - possess?
+- What qualities should a person - a shaper of Latvia's future - possess?
 
 The  Constitution  of  the  Republic  of  Latvia  states  that  the  Saeima  and  the government of the Republic of Latvia are the main institutions in charge of the development process, and they should be able to develop and implement a policy that will ensure the country's growth and will increase the people's welfare. The government has an important role in involving all of the participants - public, private  and  non-governmental  sector  -  in  implementing  a  unified  national growth scenario. Moreover, each person has to share part of the responsibility for his/her choices, for the development of his/her creative potential and for an active lifestyle.
 
 The NDP is not an action or financial plan but a strategic document which
 
-- circlesolid proposes a medium-term goal and priorities;
+- proposes a medium-term goal and priorities;
 
-- circlesolid facilitates formation of a common understanding and involvement of the entire society;
+- facilitates formation of a common understanding and involvement of the entire society;
 
-- circlesolid focuses  attention  and  financial  resources  for  ensuring  the  country's  and society's sustainable development;
+- focuses  attention  and  financial  resources  for  ensuring  the  country's  and society's sustainable development;
 
-- circlesolid sets forth guidelines for drafting planning documents at all levels and sectors.
+- sets forth guidelines for drafting planning documents at all levels and sectors.
 
 [[END OF PAGE 6]]
 
@@ -112,7 +235,7 @@ NDP's  strategic  goal  cannot  be  reached  within  the  next  seven  years,  b
 
 N A T I O N A L D E V E L O M E N T P L A N
 
-## II NATIONAL GROWTH MODEL 'PEOPLE FIRST'
+## II NATIONAL GROWTH MODEL – “PEOPLE FIRST”
 
 ### DEVELOPMENT SCENARIOS FOR LATVIA
 
@@ -120,15 +243,15 @@ Much has been achieved since the renewal of the independence of the Republic of 
 
 In  studying  country's  development  opportunities,  a  group  of  Latvian  scholars concluded that there are three possible scenarios:
 
-- circlesolid The backwardness scenario -the development process remains uncoordinated:  as  the  base  level  increases,  the  tempo  of  development starts to decline rapidly; tension in society increases; it becomes difficult to realize future goals; Latvia becomes a second-class EU member state.
+- The backwardness scenario – the development process remains uncoordinated: as the base level increases, the tempo of development starts to decline rapidly; tension in society increases; it becomes difficult to realize future goals; Latvia becomes a second-class EU member state.
 
-- circlesolid The  stagnation  scenario -  the  development  process  adapts  to  those progressing the most slowly; the present generation fails to achieve parity with the average standard of living in EU member states, and people lose motivation  to  become  involved  in  long-term  investments  and  activities; education becomes a lower priority.
+- The stagnation scenario – the development process adapts to those progressing the most slowly; the present generation fails to achieve parity with the average standard of living in EU member states, and people lose motivation to become involved in long-term investments and activities; education becomes a lower priority.
 
-- circlesolid The growth scenario - steady, rapid and balanced development at all levels by using our comparative advantages and by setting a common goal for the long-term  development  of  our  country  that  is  in  conformity  with  the resources at our disposal.
+- The growth scenario – steady, rapid and balanced development at all levels by using our comparative advantages and by setting a common goal for the long-term development of our country that is in conformity with the resources at our disposal.
 
 On  26  October  2005,  the  Saeima  of  the  Republic  of  Latvia  approved  the conceptual  document drafted by the group of scholars 'A Growth Model for Latvia:  People  First',  that  is  based  on  a  human-centred  approach  and  on  the growth scenario. Raising the quality of human life is announced to be the goal of the country's growth.
 
-### A RESOURCE FOR GROWTH - KNOWLEDGE
+### A RESOURCE FOR GROWTH – KNOWLEDGE
 
 In the long term, neither Latvia's natural resources nor its cheap labour force can serve as the basic resource for the country's growth. Our chief resources that can enable the whole society and each individual to reach the standard of living that developed countries have attained are the people's knowledge and wisdom, as well as their ability to use them efficiently and purposefully.
 
@@ -144,7 +267,7 @@ N A T I O N A L D E V E L O M E N T P L A N
 
 This document emphasizes that the knowledge potential of Latvia's inhabitants is sufficient to fulfil this task; however, immediate coordinated action is required to increase  and  utilize this  potential.  Any  delay  could  lead  to  irreversible consequences.  The  fundamental  principle  of  the  development  process  and  of activities is this: the creation of equal opportunities for all and each individual's responsibility to take advantage of these opportunities.
 
-### THE GOAL OF GROWTH - AN INCREASE IN THE QUALITY OF HUMAN LIFE
+### THE GOAL OF GROWTH – AN INCREASE IN THE QUALITY OF HUMAN LIFE
 
 The goal of the country's growth should be understandable and stimulating to every  inhabitant  of  Latvia.  Establishing  knowledge  as  the  key  resource  for  the country's development means that people as the creators and disseminators of knowledge  become  the  main  driving  force  and  the  beneficiaries  of  this development.
 
@@ -162,7 +285,7 @@ The individual's quality of life merges with that of the entire nation, thus cre
 
 N A T I O N A L D E V E L O M E N T P L A N
 
-## III QUALITY OF LIFE - WHAT DOES IT MEAN?
+## III QUALITY OF LIFE – WHAT DOES IT MEAN?
 
 Quality  of  life  is  a  complex  social,  economic  and  political concept  which  encompasses  a  broad  spectrum  of  living conditions of the country's inhabitants. It is characterized by the consumer goods available to an individual, the range and quality of  social  services,  opportunities  for  getting  an  education  and living  a  long  and  healthy  life;  participating  in  the  country's political life, as well as by eliminating any kind of discrimination based on gender, ethnic origin, race, religion, physical disability, sexual  orientation  and  age,  thereby  enabling  an  individual  to realize his/her potential while helping to create society's welfare. Thus, it can be said that the quality of life is determined by the country's  natural,  economic,  social  and  political  environment, which can be characterized by various indicators.
 
@@ -224,7 +347,7 @@ Latvia  has  to  create  such  conditions for  the economy  that  would  provide
 
 The  NDP's  challenge  is  to  create  within  seven  years  the  preconditions  for  a transition  from  the  present-day  economic  model  characterized  by  use  of  a semiskilled labour force and manufacture of products with low added value to the innovative (knowledge-based) development model.
 
-In  a  knowledge-based  economy, innovation 1 is  one  of  the  main  factors  of competitiveness.  Innovative  development  both  on  the  entrepreneurial  and national level is a deliberately planned and organized continuous process aimed at  increasing  productivity  and  the  return  from  the  resources  used  within  the manufacturing, while decreasing costs of manufacturing products or rendering services.  Research  becomes  an  important  part  of  the  production  cycle.  The expenses  for  research,  experimentation,  marketing  and  other  non-material elements significantly increase the total cost of the product.
+In  a  knowledge-based  economy, innovation¹ is  one  of  the  main  factors  of competitiveness.  Innovative  development  both  on  the  entrepreneurial  and national level is a deliberately planned and organized continuous process aimed at  increasing  productivity  and  the  return  from  the  resources  used  within  the manufacturing, while decreasing costs of manufacturing products or rendering services.  Research  becomes  an  important  part  of  the  production  cycle.  The expenses  for  research,  experimentation,  marketing  and  other  non-material elements significantly increase the total cost of the product.
 
 This process can be characterized as the intellectualization of the economy, by which is meant both a higher level of education, knowledge and practical skills of the labour force, as well as the 'intellectualization' of machines as they perform an increasing number of functions previously done by human beings.
 
@@ -278,11 +401,11 @@ The  strategic  goal  and  priorities  of  the  National  Development  Plan  are
 
 ### EDUCATION AND KNOWLEDGE FOR THE GROWTH OF THE NATIONAL ECONOMY AND TECHNOLOGICAL EXCELLENCE
 
-- circlesolid An educated and creative individual
+- An educated and creative individual
 
-- circlesolid Technological excellence and flexibility of companies
+- Technological excellence and flexibility of companies
 
-- circlesolid Development of science and research
+- Development of science and research
 
 The strategic goal and priorities have been chosen by taking into consideration the fact that the full return from investments made under the NDP into education and  research  will  be  gained  only  after  seven  years  and  that  achieving  and maintaining  technological  excellence  is  an  ongoing  task.  The  goals  have  been chosen with the awareness that the plan has to be implemented with the limited resources available to us; thus efforts are concentrated in several areas of priority. The  choice  of  priorities  was  determined  by  the  need  to  achieve  changes  in education,  science  and  manufacturing  structure,  in  order  to  create  a  stable material and intellectual basis for a gradual increase in the quality of human life in Latvia.
 
@@ -362,51 +485,27 @@ Comprehensive  information  about  the  range  of  professions  and  education p
 
 ##### Tasks:
 
-- to  achieve  a  qualitative  mastery  of  general  knowledge  and  skills,  including courses in the natural sciences, environmental sciences and mathematics, by improving the school's curriculum, teaching methods and evaluation system of pupils' achievements in primary and secondary school;
+(1) to achieve a qualitative mastery of general knowledge and skills, including courses in the natural sciences, environmental sciences and mathematics, by improving the school's curriculum, teaching methods and evaluation system of pupils' achievements in primary and secondary school;
 
-- to achieve the situation when the basic education is mandatory and gradually to make a transition to compulsory secondary education (secondary general and secondary vocational education). To initiate the preventive activities with backward  pupils  and  their  parents  on  the  level  of  basic  education  and secondary education;
+(2) to achieve the situation when the basic education is mandatory and gradually to make a transition to compulsory secondary education (secondary general and secondary vocational education). To initiate the preventive activities with backward pupils and their parents on the level of basic education and secondary education;
 
 FURTHER EDUCATION OF PUPILS HAVING GRADUATED PRIMARY AND SECONDARY SCHOOLS IN 2004, %
 
 Graduates of primary schools
 
-5%
+does not continue 5%
 
-66.4%
+continues to study in secondary schools 66.4%
 
-29.6%
-
-does not continue
-
-continues to study in
-
-secondary schools
-
-continues to study in
-
-vocational educational
-
-establishments
+continues to study in vocational educational establishments 29.6%
 
 Graduates of secondary schools
 
-22.5%
+does not continue 22.5%
 
-7.5%
+continues to study in vocational educational establishments 7.5%
 
-continues to study
-
-in vocational
-
-educational
-
-establishments
-
-70%
-
-continue to study in high schools and colleges
-
-does not continue
+continue to study in high schools and colleges 70%
 
 Source: Statistical Yearbook of Latvia 2005
 
@@ -414,71 +513,25 @@ NUMBER OF PUPILS AND STUDENTS,
 
 IN THOUS.
 
-465
-
-437
-
-510
-
-492
-
-352
-
-348
-
-360
-
-316
-
-49
-
-45
-
-101
-
-131
-
-42
-
-67
-
-47
-
-46
-
-0
-
-100
-
-200
-
-300
-
-400
-
-500
-
-600
-
-1990/91
-
-1995/96
-
-2000/01
-
-2004/05
-
-in total in educational establishments
-
-in comprehensive schools
-
-in vocational educational establishments
-
-in high schools and colleges
-
 number
 
+0 100 200 300 400 500 600
+
 School year
+
+1990/91 1995/96 2000/01 2004/05
+
+in total in educational establishments
+465 437 510 492
+
+in comprehensive schools
+352 348 360 316
+
+in vocational educational establishments
+67 47 49 45
+
+in high schools and colleges
+46 42 101 131
 
 Source: Statistical Yearbook of Latvia 2005
 
@@ -492,73 +545,22 @@ INTELLECTUAL POTENTIAL OF PEOPLE
 
 Source: LATVIA. Report on national development. Capability in regions, 2004-2005
 
-0
-
-20
-
-2000
-
-40
-
-60
-
-80
-
-85.6
-
-88.7
-
-80.2
-
-76.2
-
-76
-
-47.9
-
-0.2
-
-0.3
-
-0.3
-
-64.2
-
-58.9
-
-63
-
-71.2
-
-100
-
-0.3
-
-0.4
-
-2001
-
-2001
-
-2003
-
-2004
-
-graduates with secondary education,
-
-% from 18 years old citizens
-
-graduates with higher education, %
-
-from 23 years old citizens
-
-people with scientific degree, % from
-
-all graduates of higher educational
-
-establishments
-
 %
+
+0 20 40 60 80 100
+
+Year
+
+2000 2001 2002 2003 2004
+
+graduates with secondary education, % from 18 years old citizens
+85.6 88.7 80.2 76.2 76
+
+graduates with higher education, % from 23 years old citizens
+47.9 64.2 58.9 63 71.2
+
+people with scientific degree, % from all graduates of higher educational establishments
+0.3 0.2 0.3 0.3 0.4
 
 NUMBER OF HIGH SCHOOL STUDENTS BY THEMATICAL GROUPS IN HIGH SCHOOLS AND NUMBER OF STATE BUDGET FINANCED STUDY PLACES
 
@@ -604,23 +606,23 @@ Number
 
 Source: Report of Ministry of Education and Science on higher education in Latvia in 2005 (numbers, data, trends)
 
-- to upgrade the research and professional qualifications of pedagogues and academic personnel to a level of competence that ensures competitiveness not only  on  the  European  but  also  on  the  global  level,  thus  facilitating  an improvement  of  the  prestige  and  a  gradual    substantial  increase  of remuneration of pedagogues and other persons employed in the education sector;
+(3) to upgrade the research and professional qualifications of pedagogues and academic personnel to a level of competence that ensures competitiveness not only on the European but also on the global level, thus facilitating an improvement of the prestige and a gradual substantial increase of remuneration of pedagogues and other persons employed in the education sector;
 
-- to  improve  the  quality  of  vocational  education  and  its  attractiveness,  to improve the contents of vocational education programmes and standards for professions,  as  well  as  to  update  the  qualification  system  for  students  and graduates by ensuring opportunities for practical training and internship that meet qualification requirements according to the requirements of the today's national economy;
+(4) to improve the quality of vocational education and its attractiveness, to improve the contents of vocational education programmes and standards for professions, as well as to update the qualification system for students and graduates by ensuring opportunities for practical training and internship that meet qualification requirements according to the requirements of the today's national economy;
 
-- to  more  actively  involve  social  partners  in  drafting  qualitative  education programmes  and  their  evaluation  to  ensure  their  conformity  with  the contemporary  requirements  and  latest  discoveries,  and  to  ensure  their  corelation with the contents of the higher level education;
+(5) to more actively involve social partners in drafting qualitative education programmes and their evaluation to ensure their conformity with the contemporary requirements and latest discoveries, and to ensure their co-relation with the contents of the higher level education;
 
-- to  strengthen  the  capacity  of  the  management  of  educational  institutions, universities and other institutions of higher education, as well as of institutions involved in drafting and assessing education policy;
+(6) to strengthen the capacity of the management of educational institutions, universities and other institutions of higher education, as well as of institutions involved in drafting and assessing education policy;
 
-- to  modernize  studies  at  higher  educational  establishments  by  paying  a particular attention to increasing the attractiveness of education programmes in  engineering  and  natural  sciences,  as  well  as  by  expanding  the  range  of vocational study programmes and providing internships for students;
+(7) to modernize studies at higher educational establishments by paying a particular attention to increasing the attractiveness of education programmes in engineering and natural sciences, as well as by expanding the range of vocational study programmes and providing internships for students;
 
-- to  provide  state  support  for  master's  and  doctoral  studies,  particularly  for programmes in engineering and the natural sciences;
+(8) to provide state support for master's and doctoral studies, particularly for programmes in engineering and the natural sciences;
 
-- to increase the quality and availability of higher education; to integrate it into the unified European (global) space for higher education;
+(9) to increase the quality and availability of higher education; to integrate it into the unified European (global) space for higher education;
 
-- to  improve  and  extend  the  use  of  e-resources;  to  improve  information technology skills in all levels of education;
+(10) to improve and extend the use of e-resources; to improve information technology skills in all levels of education;
 
-- to ensure the availability of education in all of its forms and at all levels to persons with special needs.
+(11) to ensure the availability of education in all of its forms and at all levels to persons with special needs.
 
 #### 1.2.  PREPARING THE LABOUR FORCE TO MEET THE DEMANDS OF THE LABOUR MARKET
 
@@ -686,23 +688,23 @@ N A T I O N A L D E V E L O M E N T
 
 ##### Tasks:
 
-- to  create  a  system  for  analyzing  the  labour  market  and issuing  medium-term  and  long-term  forecasts;  to  regularly research and monitor factors, both of the scale of Europe and of  a  global  scale,  influencing  the  labour  market  so  as  to ensure  a  balance  between  what  the  national  economy demands and what the education sector supplies; to improve the  systems  for  financing  vocational  and  higher  education establishments and for motivating students;
+(1) to create a system for analyzing the labour market and issuing medium-term and long-term forecasts; to regularly research and monitor factors, both of the scale of Europe and of a global scale, influencing the labour market so as to ensure a balance between what the national economy demands and what the education sector supplies; to improve the systems for financing vocational and higher education establishments and for motivating students;
 
-- to  involve  the  social  partners  and  to  develop  state  and private partnership initiatives in education as an efficient cooperation instrument for ensuring a balance between the demands  of  the  labour  market  and  the  supply  of  the education sector (for instance, involving undertakers and/or their  representatives  in  the  development  of  professional standards, as lectors in the training process and as mentors of practical training and internships in vocational education).  To  create  in  companies  the  practical  training possibilities;
+(2) to involve the social partners and to develop state and private partnership initiatives in education as an efficient co-operation instrument for ensuring a balance between the demands of the labour market and the supply of the education sector (for instance, involving undertakers and/or their representatives in the development of professional standards, as lectors in the training process and as mentors of practical training and internships in vocational education). To create in companies the practical training possibilities;
 
-- to enhance the understanding/willingness to get involved in entrepreneurship, and to achieve a balance in the number of students  in  vocational  and  higher  education  who  choose programmes in engineering, the natural sciences, mathematics,  information  technology,  health  care,  and environmental science;
+(3) to enhance the understanding/willingness to get involved in entrepreneurship, and to achieve a balance in the number of students in vocational and higher education who choose programmes in engineering, the natural sciences, mathematics, information technology, health care, and environmental science;
 
-- to improve the relevance of higher education to the labour market  by  developing  inter-disciplinary  and  inter-university study programs;
+(4) to improve the relevance of higher education to the labour market by developing inter-disciplinary and inter-university study programs;
 
-- to modernize the system of vocational education in order to ensure  the  quality  of  education  programmes  and  their applicability to the needs of the labour market;
+(5) to modernize the system of vocational education in order to ensure the quality of education programmes and their applicability to the needs of the labour market;
 
-- to  improve  the  support  system  for  a  person's  career development  by  ensuring  professional  orientation  and  a career-related consultations to people at educational establishments and places of residence;
+(6) to improve the support system for a person's career development by ensuring professional orientation and a career-related consultations to people at educational establishments and places of residence;
 
-- to  create  a  state-supported  professionally  oriented  offer  of life-long learning and to introduce the system of recognition of the results of informal education;
+(7) to create a state-supported professionally oriented offer of life-long learning and to introduce the system of recognition of the results of informal education;
 
-- to  support  the  training  of  the  employed  to  increase  their qualifications,  as  well  as  their  re-training  in  house  or  at sectoral employers' organisations;
+(8) to support the training of the employed to increase their qualifications, as well as their re-training in house or at sectoral employers' organisations;
 
-- to ensure support for groups who are exposed to the risk of social exclusion so as to facilitate their inclusion in the labour market.
+(9) to ensure support for groups who are exposed to the risk of social exclusion so as to facilitate their inclusion in the labour market.
 
 #### 1.3.  LIFE-LONG LEARNING FOR INCREASING A PERSON'S CREATIVE POTENTIAL AND THE QUALITY OF LIFE
 
@@ -712,9 +714,9 @@ Uneven socio-economic development creates unequal opportunities  for  rural  and
 
 ##### Tasks:
 
-- to strengthen society's understanding of life-long learning as the  basic  condition  for  developing  a  knowledge-based society and to create in all regions a comprehensive system of a qualitative life-long learning for adults as a stimulus to gain necessary  job  skills,  to  participate  in  the  process  of  social inclusion, and to seek self-improvement;
+(1) to strengthen society's understanding of life-long learning as the basic condition for developing a knowledge-based society and to create in all regions a comprehensive system of a qualitative life-long learning for adults as a stimulus to gain necessary job skills, to participate in the process of social inclusion, and to seek self-improvement;
 
-- to expand the opportunities for obtaining formal and informal education (including basic skills and vocational education) for people with a low level of education, for social groups with limited opportunities to obtain education and for those who do not appreciate and take advantage of learning opportunities; at places of residence (including rehabilitation institutions, prisons, army, etc.) and places of work to provide a  flexible  and  qualitative  'second  chance'  to  obtain  a
+(2) to expand the opportunities for obtaining formal and informal education (including basic skills and vocational education) for people with a low level of education, for social groups with limited opportunities to obtain education and for those who do not appreciate and take advantage of learning opportunities; at places of residence (including rehabilitation institutions, prisons, army, etc.) and places of work to provide a flexible and qualitative 'second chance' to obtain a
 
 [[END OF PAGE 16]]
 
@@ -726,17 +728,17 @@ P L A N
 
 N A T I O N A L D E V E L O M E N T
 
-comprehensive and vocational education (e.g., by means of estudies, evening (shift) secondary schools or part-time studies);
+comprehensive and vocational education (e.g., by means of e-studies, evening (shift) secondary schools or part-time studies);
 
-- to introduce a strategy for life-long learning by developing a system of life-long learning; particular attention should be paid to qualitative and flexible programmes for life-long learning;
+(3) to introduce a strategy for life-long learning by developing a system of life-long learning; particular attention should be paid to qualitative and flexible programmes for life-long learning;
 
-- to take advantage of the potential of education and culture in  facilitating  a  person's  harmonious  growth  throughout his/her  life,  and  with  the  aid  of  modern  technologies  and solutions  to  extend  the  availability  of  cultural  resources  for developing  a  person's  creative  skills  and  talents  and deepening his/her knowledge;
+(4) to take advantage of the potential of education and culture in facilitating a person's harmonious growth throughout his/her life, and with the aid of modern technologies and solutions to extend the availability of cultural resources for developing a person's creative skills and talents and deepening his/her knowledge;
 
-- to  create  a  system  that  provides  culture  information  and services that meet the needs of a knowledge-based society and that is accessible to its members; to develop various creative and interactive e-content products that meet the needs of life-long learning programmes and various social groups;
+(5) to create a system that provides culture information and services that meet the needs of a knowledge-based society and that is accessible to its members; to develop various creative and interactive e-content products that meet the needs of life-long learning programmes and various social groups;
 
-- to increase the capacity of existing children's/youth and adult education centres in regions, towns and rural municipalities and to support the development of new centres;
+(6) to increase the capacity of existing children's/youth and adult education centres in regions, towns and rural municipalities and to support the development of new centres;
 
-- to provide state support for those who offer education for adults  (human  resources,  teaching  aids,  requests  for  programmes) and for institutions that support informal education for adults.
+(7) to provide state support for those who offer education for adults (human resources, teaching aids, requests for programmes) and for institutions that support informal education for adults.
 
 #### 1.4.  MODERNIZATION OF THE EDUCATIONAL INFRASTRUCTURE
 
@@ -748,21 +750,21 @@ All institutions of higher education need renovation of buildings and utility ne
 
 ##### Tasks:
 
-- to  renovate  the  buildings  of  universities,  other  higher education  establishments  and  colleges  and  to  construct new buildings (premises for studies and scientific work); to provide access for persons with functional disabilities;
+(1) to renovate the buildings of universities, other higher education establishments and colleges and to construct new buildings (premises for studies and scientific work); to provide access for persons with functional disabilities;
 
-- to  purchase,  modernize  and  install  equipment,  facilities, furnishings and technologies in higher education establishments,  including  equipment  that  enables  persons with  functional  disabilities  to  complete  the  education programmes;
+(2) to purchase, modernize and install equipment, facilities, furnishings and technologies in higher education establishments, including equipment that enables persons with functional disabilities to complete the education programmes;
 
-- to renovate the education buildings of all level state and local governments  offering  primary,  secondary  general  and secondary  vocational  education;  to  update  instructional equipment  and  facilities;  to  modernize  the  material  and technical base; to provide access for persons with functional disabilities;
+(3) to renovate the education buildings of all level state and local governments offering primary, secondary general and secondary vocational education; to update instructional equipment and facilities; to modernize the material and technical base; to provide access for persons with functional disabilities;
 
-- to  ensure  the  material  basis  necessary  for  a  qualitative mastery of the natural sciences at state and  local government establishments of secondary education;
+(4) to ensure the material basis necessary for a qualitative mastery of the natural sciences at state and local government establishments of secondary education;
 
-- to  ensure  the  necessary  modern  ICT  infrastructure  at  all levels and types of education establishments;
+(5) to ensure the necessary modern ICT infrastructure at all levels and types of education establishments;
 
-- to update and enlarge the holdings of school libraries, the collection of study  videos,  record  library, as  well  as electronic instructional programmes;
+(6) to update and enlarge the holdings of school libraries, the collection of study videos, record library, as well as electronic instructional programmes;
 
-- to improve the sports infrastructure at education establishments and/or to ensure access to it;
+(7) to improve the sports infrastructure at education establishments and/or to ensure access to it;
 
-- to  ensure  physical  access  to  education  establishments  to children  and  young  people  with  motoric  disabilities;  to improve the infrastructure of special education.
+(8) to ensure physical access to education establishments to children and young people with motoric disabilities; to improve the infrastructure of special education.
 
 [[END OF PAGE 17]]
 
@@ -774,7 +776,7 @@ N A T I O N A L D E V E L O M E N T P L A N
 
 ### 2. TECHNOLOGICAL EXCELLENCE AND FLEXIBILITY OF COMPANIES
 
-The backbone  of the country's economy  is a successfully developed entrepreneurship based on free-market principles.  Today the majority the Latvian companies  are  SMEs  most  of  which  work  in  low  added  value  and  naturalresource intensive sectors which use cheap labour, comparatively labour-intensive production  processes  and  "low"  technologies.  That  is  also  reflected  in  the investment and export structure of the country.
+The backbone  of the country's economy  is a successfully developed entrepreneurship based on free-market principles.  Today the majority the Latvian companies  are  SMEs  most  of  which  work  in  low  added  value  and  natural-resource intensive sectors which use cheap labour, comparatively labour-intensive production  processes  and  "low"  technologies.  That  is  also  reflected  in  the investment and export structure of the country.
 
 In order to ensure the economy's competitiveness in global markets it has to be based on technologically excellent large, medium and small companies that are able to flexibly respond to changes in the global or local economy. Therefore, an impetus to create new high-added-value manufacturers is needed, and transition to producing new high added value products in existing companies should be promoted.
 
@@ -830,45 +832,21 @@ STRUCTURE OF ECONOMY BY VALUE ADDED, %
 
 sector
 
-0
+0 10 15 20 25 %
 
-10
+primary sectors
 
-15
+processing industry
 
-20
-
-25
-
-%
-
-primary
-
-sectors
+electric power, gas and water supply
 
 construction
 
-processing
+trade, hotels and restaurants
 
-industry
+transport and communications
 
-electric power, gas
-
-and water supply
-
-trade, hotels and
-
-restaurants
-
-transport and
-
-communications
-
-other
-
-commercial
-
-services
+other commercial services
 
 public utilities
 
@@ -968,13 +946,13 @@ National  policies  (on  taxation,  the  economy,  state  support,  manufacturin
 
 ##### Tasks:
 
-- to  promote  the  implementation  of  the  results  of  research  carried  out  by institutions  of  higher  education  and  science  institutions  in  the  commercial companies, e.g., by promoting the creation of  competence centres;
+(1) to promote the implementation of the results of research carried out by institutions of higher education and science institutions in the commercial companies, e.g., by promoting the creation of competence centres;
 
-- to  create  a  support  system  (infrastructure)  for  knowledge  transfer  and commercialisation to ensure the realisation of Latvia's scientific potential in new products, to improve access of Latvian companies to new technologies, and to promote the sale to foreign countries of technologies created in Latvia;
+(2) to create a support system (infrastructure) for knowledge transfer and commercialisation to ensure the realisation of Latvia's scientific potential in new products, to improve access of Latvian companies to new technologies, and to promote the sale to foreign countries of technologies created in Latvia;
 
-- to  increase  support  to  applied  science  and  to  motivate  scientists  to  get involved in solution of business problems;
+(3) to increase support to applied science and to motivate scientists to get involved in solution of business problems;
 
-- to stimulate Latvian companies to use and transfer new technologies from abroad,  thus  stimulating  attraction  of  foreign  investments  in  technologyintensive sectors.
+(4) to stimulate Latvian companies to use and transfer new technologies from abroad, thus stimulating attraction of foreign investments in technology-intensive sectors.
 
 #### 2.2. APPLICATION OF KNOWLEDGE IN BOOSTING THE COMPETITIVENESS OF COMPANIES
 
@@ -984,9 +962,9 @@ In  order  to  overcome  these  deficiencies,  more  extensive  state  interfere
 
 ##### Tasks:
 
-- to improve the technological competence and knowledge management skills in  companies  by  supporting  measures  that  boost  productivity  and  the introduction of innovations in manufacturing and service industries;
+(1) to improve the technological competence and knowledge management skills in companies by supporting measures that boost productivity and the introduction of innovations in manufacturing and service industries;
 
-- to develop new forms of cooperatives and cooperation among manufacturing,  supplying  and  service  companies  by  facilitating  creation  of industrial  clusters  and  development  of  competitiveness    in  export-capable traditional  and  new  manufacturing  and  service  industries  (ICT,  wood
+(2) to develop new forms of cooperatives and cooperation among manufacturing, supplying and service companies by facilitating creation of industrial clusters and development of competitiveness in export-capable traditional and new manufacturing and service industries (ICT, wood
 
 [[END OF PAGE 19]]
 
@@ -998,11 +976,11 @@ N A T I O N A L D E V E L O M E N T P L A N
 
 processing, machine building, electronics, food, creative industries, pharmaceutics, biomedicine and biotechnologies, as well as finance, transport and logistics, medicine and tourism etc.);
 
-- to ensure Latvia's presence and direct representation of its interests in foreign markets  by  promoting  entry  into  new  markets  and  by  strengthening  the international competitiveness of Latvian companies;
+(3) to ensure Latvia's presence and direct representation of its interests in foreign markets by promoting entry into new markets and by strengthening the international competitiveness of Latvian companies;
 
-- to ensure a regular dialogue with the governments of countries that are most significant  for  the  Latvia's  economy  in  order  to  effectively  represent  the interests of Latvian entrepreneurs in the global market;
+(4) to ensure a regular dialogue with the governments of countries that are most significant for the Latvia's economy in order to effectively represent the interests of Latvian entrepreneurs in the global market;
 
-- to  reach  average  EU  productivity  indicators  in  the  traditional  sectors,  to improve the ability of Latvian companies to capture external markets, and to promote the integration of Latvian exporters in global supply chains.
+(5) to reach average EU productivity indicators in the traditional sectors, to improve the ability of Latvian companies to capture external markets, and to promote the integration of Latvian exporters in global supply chains.
 
 #### 2.3. CREATION OF NEW COMPETITIVE COMPANIES
 
@@ -1010,15 +988,15 @@ Creation  of  new  competitive  companies  not  only  will  boost  domestic comp
 
 ##### Tasks:
 
-- to encourage people, particularly young people, to be entrepreneurs and set up  their  own  business  thereby  increasing  the  prestige  and  reputation  of entrepreneurship, as well as implementing a business setting up motivation program, training and consultations;
+(1) to encourage people, particularly young people, to be entrepreneurs and set up their own business thereby increasing the prestige and reputation of entrepreneurship, as well as implementing a business setting up motivation program, training and consultations;
 
-- to  ensure  unified  and  effective  support  in  setting  up  a  business  (mentor's consultations 1 ,  financial support mechanisms - pre-seed grants 2 ,  support to networks  of  'business  angels' 3 ,  seed  funds 4 ,  micro-loans,  investment guarantees, risk capital funds, resource centres 5 etc.);
+(2) to ensure unified and effective support in setting up a business (mentor's consultations¹, financial support mechanisms – pre-seed grants², support to networks of “business angels”³, seed funds⁴, micro-loans, investment guarantees, risk capital funds, resource centres⁵ etc.);
 
-- to develop a support infrastructure for new companies in their early stages of development business incubators etc.);
+(3) to develop a support infrastructure for new companies in their early stages of development (business incubators etc.);
 
-- to increase availability of financial resources (starting capital, loans), to reduce administrative  obstacles  at  the  national  and  municipality  level  for  business novices;
+(4) to increase availability of financial resources (starting capital, loans), to reduce administrative obstacles at the national and municipality level for business novices;
 
-- to  particularly  encourage  creation  of  companies,  including  new  innovative companies in traditional sectors, in Latvia's regions.
+(5) to particularly encourage creation of companies, including new innovative companies in traditional sectors, in Latvia's regions.
 
 #### 2.4. DEVELOPMENT OF CREATIVE INDUSTRIES
 
@@ -1078,7 +1056,7 @@ Zemgale
 
 region
 
-Kurzeme
+Latgale
 
 region
 
@@ -1100,21 +1078,21 @@ attention  should  be  paid  to  the  specific  needs  of  the  creative  indust
 
 ##### Tasks:
 
-- to  develop  a  creative  entrepreneurship  culture  in  society  and  to  promote understanding about the nature, structure and potential of Latvia's creative industries;
+(1) to develop a creative entrepreneurship culture in society and to promote understanding about the nature, structure and potential of Latvia's creative industries;
 
-- to  create  a  favourable  environment  and  institutional  support  for  young creative professionals who wish to set up a business and for development of a competitive creative industry that is recognised as an equal to other already established sectors of the economy;
+(2) to create a favourable environment and institutional support for young creative professionals who wish to set up a business and for development of a competitive creative industry that is recognised as an equal to other already established sectors of the economy;
 
-- to  develop  an  active  Public  Private  Partnership  for  commercialisation  of creative potential;
+(3) to develop an active Public Private Partnership for commercialisation of creative potential;
 
-- to encourage timely inclusion of future technologies in product development of creative industries and their cooperation with other sectors in Latvia that have proved their competitiveness;
+(4) to encourage timely inclusion of future technologies in product development of creative industries and their cooperation with other sectors in Latvia that have proved their competitiveness;
 
-- to facilitate two-way intersector co-operation exchange between Latvia and foreign countries;
+(5) to facilitate two-way intersector co-operation exchange between Latvia and foreign countries;
 
-- to  form  a  creative  industry  cluster  that  includes  a  number  of  SMEs  which ensure  continuous  activity  and  to  involve  educational  institutions  and universities,  suppliers  and  public  institutions  in  developing  the  industry's long-term strategy.
+(6) to form a creative industry cluster that includes a number of SMEs which ensure continuous activity and to involve educational institutions and universities, suppliers and public institutions in developing the industry's long-term strategy.
 
 #### 2.5. SUSTAINABLE AND EFFICIENT USE OF NATURAL AND ENERGY RESOURCES
 
-Use of the soil as one of the main natural resources has become extensive, the rate of production has decreased, the natural transformation of agricultural land - overgrowing and bogging-up - has increased. At the same time, agricultural land and forests are the basis for several traditional sectors in Latvia (forestry, wood processing, agriculture, etc.) that provide a great number of jobs in rural areas. The main operators in these sectors are small companies that use natural and energy resources with low efficiency. Production of innovative, higher addedvalue  products  should  be  encouraged  also  in  such  rural  companies,  thus capturing new market niches, boosting productivity and incomes of employees.
+Use of the soil as one of the main natural resources has become extensive, the rate of production has decreased, the natural transformation of agricultural land - overgrowing and bogging-up - has increased. At the same time, agricultural land and forests are the basis for several traditional sectors in Latvia (forestry, wood processing, agriculture, etc.) that provide a great number of jobs in rural areas. The main operators in these sectors are small companies that use natural and energy resources with low efficiency. Production of innovative, higher added-value products should be encouraged also in such rural companies, thus capturing new market niches, boosting productivity and incomes of employees.
 
 Timber is not only the main export product of Latvia, but alongside with other available  in  Latvia  alternative  energy  resources  (biomass,  geothermal  energy, wind and sun energy, etc.), it is also an important resource for energy production. There are opportunities  to  use  mineral  waters  and  oil  resources,  develop  new products  by  using  peat  and  sapropel,  stimulating  construction  material manufacturing.
 
@@ -1132,21 +1110,21 @@ Better public awareness can facilitate rational and sustainable use and recovery
 
 ##### Tasks:
 
-- to develop creation of higher added value, particularly in the forestry and agricultural  sectors  by  efficient  and  sustainable  use  of  available  natural resources;
+(1) to develop creation of higher added value, particularly in the forestry and agricultural sectors by efficient and sustainable use of available natural resources;
 
-- to stimulate development of innovative types of business that do not require intensive use of natural and energy resources and to reduce pollution of the environment by promoting implementation of the best technical solutions and the latest technologies in manufacturing;
+(2) to stimulate development of innovative types of business that do not require intensive use of natural and energy resources and to reduce pollution of the environment by promoting implementation of the best technical solutions and the latest technologies in manufacturing;
 
-- to  promote  use  of  renewable  natural  resources  and  alternative  energy sources for heating and energy production, for example, by promoting the use of biomass in cogeneration;
+(3) to promote use of renewable natural resources and alternative energy sources for heating and energy production, for example, by promoting the use of biomass in cogeneration;
 
-- to maintain agricultural land for the production of agricultural products, as well  as  to  increase  the  contribution  of  the  agricultural  sector  in  the production of the raw materials for heating fuel and transport fuel;
+(4) to maintain agricultural land for the production of agricultural products, as well as to increase the contribution of the agricultural sector in the production of the raw materials for heating fuel and transport fuel;
 
-- to  introduce  eco-design  principles  in  manufacturing  and  consumer education;
+(5) to introduce eco-design principles in manufacturing and consumer education;
 
-- to ensure rational, environmentally friendly and sustainable use of deposits in the earth for developing  the economy;
+(6) to ensure rational, environmentally friendly and sustainable use of deposits in the earth for developing the economy;
 
-- to encourage recycling or repeated use of resources, as well as utilisation and recycling of waste products, including food-processing byproducts;
+(7) to encourage recycling or repeated use of resources, as well as utilisation and recycling of waste products, including food-processing byproducts;
 
-- to  support  implementation  of  environmental  management  systems  and other  voluntary  and  environment-protection  tools  in  companies  and institutions,  as  well  as  to  continue  integrating  environmental  aspects  into sectoral policies.
+(8) to support implementation of environmental management systems and other voluntary and environment-protection tools in companies and institutions, as well as to continue integrating environmental aspects into sectoral policies.
 
 [[END OF PAGE 22]]
 
@@ -1154,97 +1132,51 @@ Better public awareness can facilitate rational and sustainable use and recovery
 
 23
 
-N
-
-N A T I O N A L D E V E L O M E N T P L A
-
-- 1 In 2003 -  0,38% from GDP, in 2004 -0,42%; in average in the EU 1,93% from GDP. In Latvia the private sector is financing 20% from the costs for the science, in the EU - more than 50%.
-
-RESOURCES AVAILABLE FOR SCIENCE AND RESEARCH
-
-Source: Central Statistical Bureu, 2005
-
-scientists and technical staff per
-
-1000 inhabitants
-
-attexpenses in total for research
-
-and development (R&D), %
-
-from GDP
-
-2,3
-
-2,3
-
-2,3
-
-2,1
-
-2,9
-
-0,45
-
-0,41
-
-0,42
-
-0,38
-
-0,42
-
-0
-
-0,5
-
-1
-
-1,5
-
-2
-
-2,5
-
-3
-
-3,5
-
-2000
-
-2001
-
-2002
-
-2003
-
-2004
-
-Year
+N A T I O N A L D E V E L O M E N T P L A N
 
 ### 3. DEVELOPMENT OF THE SCIENCE AND RESEARCH
 
-Innovation  is  a  process  in  which  the  potential  of  accumulated  knowledge  in fundamental and applied scientific research is implemented in entrepreneurship. Successful development of a knowledge-based economy is unthinkable without the potential created by science and research. The number of people involved in science and research and their qualifications play a crucial role in the creation of such  knowledge  potential.  Currently,  the  number  of  persons  employed  in science, including those with doctorates, in Latvia is significantly lower that in other EU member states.
+Innovation is a process in which the potential of accumulated knowledge in fundamental and applied scientific research is implemented in entrepreneurship. Successful development of a knowledge-based economy is unthinkable without the potential created by science and research. The number of people involved in science and research and their qualifications play a crucial role in the creation of such knowledge potential. Currently, the number of persons employed in science, including those with doctorates, in Latvia is significantly lower that in other EU member states.
 
-During  the  recent  decade,  several  serious  threats  to  a  development  of  a knowledge-based economy in Latvia have arisen. The total amount of funding allocated  to  the  research  and  development  has  been  insufficient 1 .  One  of  the most significant consequences of insufficient funding is a decrease in the number of  scientists  involved  in  scientific  work.  The  renewal  process  of  academic  and scientific personnel is not being ensured; the average age of the teaching staff in universities and of scientists is on the increase, particularly in comparison with other EU countries.
+During the recent decade, several serious threats to a development of a knowledge-based economy in Latvia have arisen. The total amount of funding allocated to the research and development has been insufficient¹. One of the most significant consequences of insufficient funding is a decrease in the number of scientists involved in scientific work. The renewal process of academic and scientific personnel is not being ensured; the average age of the teaching staff in universities and of scientists is on the increase, particularly in comparison with other EU countries.
+
+¹ In 2003 – 0,38% from GDP, in 2004 – 0,42%; in average in the EU 1,93% from GDP. In Latvia the private sector is financing 20% from the costs for the science, in the EU – more than 50%.
 
 Higher education institutions and other science and research institutions should be as open as possible. Purposeful use and renewal of scientific potential, active involvement in the research and economic activities of Europe's, especially the Nordic region's, science and technology area is one way how Latvia can benefit from expertise gathered there and can accelerate the development of its own scientific potential. Exchange programmes for persons with doctorates and for researchers, joint project development, sharing of research results, etc. should be taken advantage of.
 
 #### 3.1. EXCELLENCE IN BASIC SCIENCE
 
-High-level basic science is the basis for developing a competitive applied science and innovation process in Latvia. In the future, the main development centres of basic  science  will  be  the  universities  that  will  prepare  doctoral  students  in  the traditional  scientific  spirit  and  at  the  same  time  will  improve  the  quality  of  a university  education.  For  the  doctoral  studies,  higher  education  institutions should also involve all the intellectual and material potential that is outside the universities.
+High-level basic science is the basis for developing a competitive applied science and innovation process in Latvia. In the future, the main development centres of basic science will be the universities that will prepare doctoral students in the traditional scientific spirit and at the same time will improve the quality of a university education. For the doctoral studies, higher education institutions should also involve all the intellectual and material potential that is outside the universities.
 
-It is important to create conditions for scientific research in sectors in which Latvia already  has  the  requisite  industry  potential  and  development  prospects  by strengthening  the  intellectual  potential  of  science  and  by  developing  applied research in relevant innovative technology fields.
+It is important to create conditions for scientific research in sectors in which Latvia already has the requisite industry potential and development prospects by strengthening the intellectual potential of science and by developing applied research in relevant innovative technology fields.
 
 ##### Tasks:
 
-- to increase science funding for improving quality of basic research;
+(1) to increase science funding for improving quality of basic research;
 
-- to concentrate academic resources and basic science in universities capable of competing in the international academic environment as a guarantee for the development of Latvia, as well as in the science excellence centres of regional higher education institutions;
+(2) to concentrate academic resources and basic science in universities capable of competing in the international academic environment as a guarantee for the development of Latvia, as well as in the science excellence centres of regional higher education institutions;
 
-- to foster scientific excellence in priority areas;
+(3) to foster scientific excellence in priority areas;
 
-- to facilitate the integration of Latvia's science into the European and global science area.
+(4) to facilitate the integration of Latvia's science into the European and global science area.
+
+RESOURCES AVAILABLE FOR SCIENCE AND RESEARCH
+
+scientists and technical staff per 1000 inhabitants
+
+expenses in total for research and development (R&D), % from GDP
+
+Year
+
+2000 2001 2002 2003 2004
+
+2,3 2,3 2,3 2,1 2,9
+
+0,45 0,41 0,42 0,38 0,42
+
+0 0,5 1 1,5 2 2,5 3 3,5
+
+Source: Central Statistical Bureu, 2005
 
 [[END OF PAGE 23]]
 
@@ -1264,21 +1196,21 @@ In order to ensure a competitive level of training of new students and scientist
 
 ##### Tasks:
 
-- to  institute  measures  to  increase  the  remuneration  of  scientific  personnel (reform of the remuneration system);
+(1) to institute measures to increase the remuneration of scientific personnel (reform of the remuneration system);
 
-- to  use  all  possibilities  provided  by  the  international  student  and  scientists exchange programs available to Latvia;
+(2) to use all possibilities provided by the international student and scientists exchange programs available to Latvia;
 
-- to  improve  the  grant  and  scholarship  system  for  doctoral  studies  and  to develop a state support program to ensure the top level vocational studies in Latvia and abroad, to create a research support system for young postdoctoral scientists;
+(3) to improve the grant and scholarship system for doctoral studies and to develop a state support program to ensure the top level vocational studies in Latvia and abroad, to create a research support system for young postdoctoral scientists;
 
-- to foster research in higher education institutions by popularising scientific achievements in society and stimulating young people's interest in science studies;
+(4) to foster research in higher education institutions by popularising scientific achievements in society and stimulating young people's interest in science studies;
 
-- to  ensure  the  unity  of  studies  and  research  at  the  higher  education institutions;
+(5) to ensure the unity of studies and research at the higher education institutions;
 
-- to develop a system for protecting, using and funding  of intellectual property (e.g. in form of patents);
+(6) to develop a system for protecting, using and funding of intellectual property (e.g. in form of patents);
 
-- to attract visiting professors and foreign scientists for work in Latvia's higher education and scientific institutions;
+(7) to attract visiting professors and foreign scientists for work in Latvia's higher education and scientific institutions;
 
-- to  motivate  emigrated  Latvian  scientists  and  young  experts  to  return  and work in Latvian scientific institutions.
+(8) to motivate emigrated Latvian scientists and young experts to return and work in Latvian scientific institutions.
 
 #### 3.3. MODERNISATION OF SCIENTIFIC INFRASTRUCTURE IN SCIENTIFIC INSTITUTIONS
 
@@ -1322,13 +1254,13 @@ availability  of  modern,  convenient  and  suitable  premises  and  equipment  
 
 ##### Tasks:
 
-- to  modernise the scientific  infrastructure  in  higher  education  and  scientific institutions in all regions;
+(1) to modernise the scientific infrastructure in higher education and scientific institutions in all regions;
 
-- to  promote  development  of  innovative  entrepreneurship  and  of  applied research on all the territory of the country;
+(2) to promote development of innovative entrepreneurship and of applied research on all the territory of the country;
 
-- to  support  company  investments  in  science  (creation  of  research  centres, purchase of equipment etc.) ensuring various (financial, administrative) support instruments;
+(3) to support company investments in science (creation of research centres, purchase of equipment etc.) ensuring various (financial, administrative) support instruments;
 
-- to  ensure  maintenance  and  development  of  scientific  collections,  libraries, archives and other information media as a part of the science infrastructure.
+(4) to ensure maintenance and development of scientific collections, libraries, archives and other information media as a part of the science infrastructure.
 
 [[END OF PAGE 25]]
 
@@ -1350,7 +1282,7 @@ By good governance we mean the ability of national and local government  institu
 
 Extensive communication between the state, local governments and society, as well as active involvement of NGOs and social partners in dealing with problems to be solved by the state, local governments and society, is a sign of good governance.
 
-It is also characterised by long-term planning, solving of shortterm  tasks  in  accordance  with  long-term  goals,  protection  of resources,  monitoring  of  implementation  of  short-term  and long-term  goals,  as  well  as  supervision  of  the  development process.
+It is also characterised by long-term planning, solving of short-term tasks in accordance with long-term goals, protection of resources, monitoring of implementation of short-term and long-term goals, as well as supervision of the development process.
 
 In order to have governance which can more purposefully and actively facilitate the transition of the state towards sustainable development  and  ensure  well-balanced  development  of  the whole territory,  it  should  be  based  on  local  governments  and regions that have the requisite capability.
 
@@ -1364,13 +1296,13 @@ It  is  essential  to  make  further  use  of  the  opportunities  of economic i
 
 ###### Tasks:
 
-- to  ensure  stability  of  prices  and  reduction  of  the  current account deficit in the balance of payments;
+(1) to ensure stability of prices and reduction of the current account deficit in the balance of payments;
 
-- to  ensure  a  growth  in  productivity  balanced  with  salary increases;
+(2) to ensure a growth in productivity balanced with salary increases;
 
-- to increase the flexibility of the labour market;
+(3) to increase the flexibility of the labour market;
 
-- to promote competitiveness in the product markets.
+(4) to promote competitiveness in the product markets.
 
 [[END OF PAGE 26]]
 
@@ -1384,23 +1316,23 @@ N A T I O N A L D E V E L O M E N T
 
 ##### 4.1.2.  Improvement of the planning and forecasting system
 
-A national  development planning system is an instrument for sustainable economic development, elaboration of a mediumterm budget, as well as cooperation and coordination of actions on all administrative levels. Coordination of policies of actions, decisions and measures should be carried out on the national, sectoral, regional and local level.
+A national development planning system is an instrument for sustainable economic development, elaboration of a medium-term budget, as well as cooperation and coordination of actions on all administrative levels. Coordination of policies of actions, decisions and measures should be carried out on the national, sectoral, regional and local level.
 
 An efficient system will increase the general competitiveness of the state. In order to ensure mutually coordinated drafting of policy  planning  documents,  particularly  in  defining  priorities, assessing  impact  and  planning  the  allocation  of  funds,  it  is essential  to  develop  planning  and  forecasting  skills  on  all administrative  levels.  It  is  necessary  to  regularly  carry  out  an independent qualitative analysis of trends in the development of the national economy and of the social-economic development of territories, to assess the impact of policies and measures, to examine the efficiency of national support instruments, and to draft recommendations  for  national,  regional and  local governments, as well as public institutions, in cooperation with social partners.
 
 ###### Tasks:
 
-- to introduce drafting of a medium-term budget and finance management;
+(1) to introduce drafting of a medium-term budget and finance management;
 
-- to improve the development planning system;
+(2) to improve the development planning system;
 
-- to proceed with long-term national development planning by taking into consideration the planning of social and economic processes, territorial development planning and financing of the planned actions;
+(3) to proceed with long-term national development planning by taking into consideration the planning of social and economic processes, territorial development planning and financing of the planned actions;
 
-- to determine and support priority sectors which ensure the potential for sustainable growth;
+(4) to determine and support priority sectors which ensure the potential for sustainable growth;
 
-- to  introduce  strategic  planning  on  the  regional  and  local administrative  level  by  ensuring  its  link  with  national  and sectoral strategies and programmes;
+(5) to introduce strategic planning on the regional and local administrative level by ensuring its link with national and sectoral strategies and programmes;
 
-- to strengthen the knowledge and skills of planning, research and forecasting in public administration.
+(6) to strengthen the knowledge and skills of planning, research and forecasting in public administration.
 
 ##### 4.1.3. Functional local governments and regions
 
@@ -1412,17 +1344,17 @@ At the moment, the regional reform and the local government administrative  terr
 
 ###### Tasks:
 
-- to  finalise  the  local  government  administrative  territorial reform by creating local governments which are capable of acting - namely, towns and counties;
+(1) to finalise the local government administrative territorial reform by creating local governments which are capable of acting – namely, towns and counties;
 
-- to improve the financing system of local governments;
+(2) to improve the financing system of local governments;
 
-- to implement regional reform by creating regions and regional local governments capable of economic development;
+(3) to implement regional reform by creating regions and regional local governments capable of economic development;
 
-- to  apply  the  personnel  management  principles  of  state administration to the employees of local governments;
+(4) to apply the personnel management principles of state administration to the employees of local governments;
 
-- to  use  strategic  management  and  business  principles (methods) in local governments;
+(5) to use strategic management and business principles (methods) in local governments;
 
-- to promote involvement of local governments and regions in social dialogue.
+(6) to promote involvement of local governments and regions in social dialogue.
 
 [[END OF PAGE 27]]
 
@@ -1444,25 +1376,25 @@ Transparency of the activities of public administration institutions and opennes
 
 ###### Tasks:
 
-- to improve the quality of policy planning and of regulatory acts in accordance with principles of good governance;
+(1) to improve the quality of policy planning and of regulatory acts in accordance with principles of good governance;
 
-- to involve more NGOs and social partners in policy drafting and decision-making processes;
+(2) to involve more NGOs and social partners in policy drafting and decision-making processes;
 
-- to improve the accessibility and quality of public administration  services,  as  well  as  related  information exchange, by developing e-governance solutions;
+(3) to improve the accessibility and quality of public administration services, as well as related information exchange, by developing e-governance solutions;
 
-- to  minimise  administrative  burdens  for  entrepreneurs  and individuals;
+(4) to minimise administrative burdens for entrepreneurs and individuals;
 
-- to  ensure  efficient  management  of  EU  funds  and  other financial resources;
+(5) to ensure efficient management of EU funds and other financial resources;
 
-- to create a modern system of personnel management, salary increase  and  in-service  training  for  public  administration employees;
+(6) to create a modern system of personnel management, salary increase and in-service training for public administration employees;
 
-- to  introduce  a  quality  management  system  in  all  public administration institutions;
+(7) to introduce a quality management system in all public administration institutions;
 
-- to prevent corruption in public administration institutions
+(8) to prevent corruption in public administration institutions
 
 #### 4.2. A SECURE, UNIFIED AND CIVIL SOCIETY
 
-The national security of Latvia is the protectability and security of  its  values  and  core  interests  -  independence,  territorial inseparability,  the  democratic  system  determined  by  the Constitution,  human  rights,  market  economy,  language  and national  identity,  the  protectability  and  security  of  the  cooperation and interests of the citizens.
+The national security of Latvia is the protectability and security of its values and core interests – independence, territorial inseparability, the democratic system determined by the Constitution, human rights, market economy, language and national identity, the protectability and security of the co-operation and interests of the citizens.
 
 Society's  civic  maturity  is  characterised  by  a  high  sense  of responsibility  and  obligation  to  the  country  and  individuals, active participation in various social processes, free expression of one's  views  and  ideas,  as  well  as  tolerance  of  the  views  and ideas of others, and respect for decisions made by the majority, even if they run counter to the individual's views.
 
@@ -1486,31 +1418,31 @@ The aim of a policy for forming a civil society is to ensure an environment in w
 
 ##### 4.2.1. Cooperation of the public, non-governmental and private sector
 
-A  significant  requirement  for  successful  and  democratic development of the country is cooperation between the public sector - state, local governments, NGOs and social partners and  the  private  sector.  A  continuous  dialogue  between  both groups, as well as their ability and desire to respect each other, to  complement  not  conflict  with  each  other,  facilitates  the formation,  maintenance  and  security  of  a  civil  and  united society, its stability and security.
+A significant requirement for successful and democratic development of the country is cooperation between the public sector – state, local governments, NGOs and social partners – and the private sector. A continuous dialogue between both groups, as well as their ability and desire to respect each other, to complement not conflict with each other, facilitates the formation, maintenance and security of a civil and united society, its stability and security.
 
 In Latvia only a small part of its inhabitants are involved in social activities;  charitable  activities  and  voluntary  work  are  not widespread.  A  large  number  of  Latvia's  inhabitants  still  think that  they  do  not  receive  sufficient  information  about  the activities  of  NGOs  and  that  they  cannot  influence  either  their own life or society; therefore, they become alienated from the aims set forth by public administration. In reality, no major legal or institutional obstacles keep individuals from participating in social activities.
 
 ###### Tasks:
 
-- to ensure efficient participation of NGOs in decision making and legislation by increasing the activities of NGOs and their participation in discussions on draft laws;
+(1) to ensure efficient participation of NGOs in decision making and legislation by increasing the activities of NGOs and their participation in discussions on draft laws;
 
-- to  strengthen  the  role  of  trade  unions  and  employers' organisations  and  their  unions  by  assigning  them  more functions, e.g., forecasting market needs in a given sector and involving them in drafting long-term national economy plans;
+(2) to strengthen the role of trade unions and employers’ organisations and their unions by assigning them more functions, e.g., forecasting market needs in a given sector and involving them in drafting long-term national economy plans;
 
-- to  support  children  and  youth  NGOs,  thus  facilitating  a decrease in the number of wandering children and helping young people to form an active and wholesome life-style;
+(3) to support children and youth NGOs, thus facilitating a decrease in the number of wandering children and helping young people to form an active and wholesome life-style;
 
-- to create a sustainable model for public development of EU policies  and  protection  of  national  interests.  By  drafting national positions and developing EU policies, the maximum involvement of society, including social partners and NGOs, should be ensured;
+(4) to create a sustainable model for public development of EU policies and protection of national interests. By drafting national positions and developing EU policies, the maximum involvement of society, including social partners and NGOs, should be ensured;
 
-- to promote the equal spread-out of the location and capacity of an NGO network throughout Latvia;
+(5) to promote the equal spread-out of the location and capacity of an NGO network throughout Latvia;
 
-- to  provide  regular  and  independent  financial  means (including,  community  funds)  for  support  of  initiatives  of local social groups;
+(6) to provide regular and independent financial means (including, community funds) for support of initiatives of local social groups;
 
-- to promote delegation of public administrative tasks to the NGOs,  to  develop  co-operation  among  the  public  and private  sector,  to  ensure  that  the  partnership  becomes  an important  mechanism  for  the  provision  of  public  services and infrastructure.
+(7) to promote delegation of public administrative tasks to the NGOs, to develop co-operation among the public and private sector, to ensure that the partnership becomes an important mechanism for the provision of public services and infrastructure.
 
 ##### 4.2.2. Creation of a common culture space
 
-Latvia's geopolitical situation and history have created a multicultural society in Latvia, which can become even more diverse due to globalisation.  The  population  of  Latvia  has  to  develop respect and tolerance towards otherness.
+Latvia’s geopolitical situation and history have created a multi-cultural society in Latvia, which can become even more diverse due to globalisation. The population of Latvia has to develop respect and tolerance towards otherness.
 
-Latvian civil society is based on a common cultural space which is characterised by cultural diversity united by common values. A common cultural  space  is  a  prerequisite  for  a  unified  society consisting  of  various  socially,  ethnically  and  religiously  diverse groups.  The  national  cultural  values  of  each  group,  based  on cultural  institutions  and  historical  heritage,  have  a  significant role in forming a single national culture, as well as in preserving and expressing national identity. National cultural values, which are characterised by excellence and uniqueness, have become a brand for popularising Latvia's image and raising national selfesteem.
+Latvian civil society is based on a common cultural space which is characterised by cultural diversity united by common values. A common cultural space is a prerequisite for a unified society consisting of various socially, ethnically and religiously diverse groups. The national cultural values of each group, based on cultural institutions and historical heritage, have a significant role in forming a single national culture, as well as in preserving and expressing national identity. National cultural values, which are characterised by excellence and uniqueness, have become a brand for popularising Latvia’s image and raising national self-esteem.
 
 A unified civil society participates in forming Latvia's cultural life and preserving, expressing and creating national cultural values. Cultural diversity and differences contribute to  mutual enrichment and self-improvement of individuals.
 
@@ -1524,15 +1456,15 @@ N A T I O N A L D E V E L O M E N T P L A N
 
 ###### Tasks:
 
-- to  facilitate  the  involvement  and  active  participation  of society in diverse cultural processes and to increase the use of  cultural  resources  for  ensuring  equal  opportunities  to socially vulnerable groups;
+(1) to facilitate the involvement and active participation of society in diverse cultural processes and to increase the use of cultural resources for ensuring equal opportunities to socially vulnerable groups;
 
-- to preserve and develop the richness of the Latvian language and the diversity of its expressions and to ensure the use, legal protection, linguistic quality and competitiveness of the Latvian language as the official language of the Republic of Latvia and as one of the official languages of the European Union;
+(2) to preserve and develop the richness of the Latvian language and the diversity of its expressions and to ensure the use, legal protection, linguistic quality and competitiveness of the Latvian language as the official language of the Republic of Latvia and as one of the official languages of the European Union;
 
-- to facilitate intercultural dialogue and understanding among different  ethnic,  religious  and  social  groups  which  form Latvia's society;
+(3) to facilitate intercultural dialogue and understanding among different ethnic, religious and social groups which form Latvia’s society;
 
-- to maintain and provide support for unique national cultural values;
+(4) to maintain and provide support for unique national cultural values;
 
-- to  improve  the  preservation,  protection,  research  and accessibility of Latvia's cultural heritage, particularly  by educating society about the role of its cultural heritage in sustainable national development.
+(5) to improve the preservation, protection, research and accessibility of Latvia’s cultural heritage, particularly by educating society about the role of its cultural heritage in sustainable national development.
 
 ##### 4.2.3. Ensuring internal security
 
@@ -1544,23 +1476,23 @@ To  protect  the  citizens  of  Latvia  against  the  consequences caused  by  n
 
 ###### Tasks:
 
-- to  promote more efficient co-operation between different structures, including cooperation with international institutions dealing with combating crime;
+(1) to promote more efficient co-operation between different structures, including cooperation with international institutions dealing with combating crime;
 
-- to  improve  the  civil  defence  system  and  to  promote interinstitutional co-operation in this sphere;
+(2) to improve the civil defence system and to promote interinstitutional co-operation in this sphere;
 
-- to improve mutual cooperation of institutions dealing with the fight against terrorism;
+(3) to improve mutual cooperation of institutions dealing with the fight against terrorism;
 
-- to  improve and modernise the system for fighting against the  illegal  spread  of  narcotic  drugs  and  psychotropic substances, human trafficking and economic crimes;
+(4) to improve and modernise the system for fighting against the illegal spread of narcotic drugs and psychotropic substances, human trafficking and economic crimes;
 
-- to  improve  interinstitutional  cooperation  in  the  sphere  of asylum;
+(5) to improve interinstitutional cooperation in the sphere of asylum;
 
-- to  improve  the  material  and  technical  base  of  law enforcement institutions and to modernise IT and communication technologies;
+(6) to improve the material and technical base of law enforcement institutions and to modernise IT and communication technologies;
 
-- to develop the preparation of personnel involved in threat prevention;
+(7) to develop the preparation of personnel involved in threat prevention;
 
-- to  promote  cooperation  between  institutions  dealing  with protection of copyrights, neighbouring rights and intellectual property by improving the system that is used to fight against offences in this sphere;
+(8) to promote cooperation between institutions dealing with protection of copyrights, neighbouring rights and intellectual property by improving the system that is used to fight against offences in this sphere;
 
-- to build the capacity of law enforcement institutions and to establish relations with society.
+(9) to build the capacity of law enforcement institutions and to establish relations with society.
 
 [[END OF PAGE 30]]
 
@@ -1578,21 +1510,19 @@ The development of Latvia as a small and open country cannot be  considered  apa
 
 ##### Tasks:
 
-- to take full advantage of Latvia's membership in the EU by effectively  representing  Latvia's  national  interests  and  by
+(1) to take full advantage of Latvia’s membership in the EU by effectively representing Latvia’s national interests and by using all available EU instruments – common policies, legislation, financial support;
 
-- using  all  available  EU  instruments  -  common  policies, legislation, financial support;
+(2) to continue active dialogue with EU member states and other partner countries, ensuring regular exchange of visits and developing a network of diplomatic representation offices;
 
-- to  continue  active  dialogue  with  EU  member  states  and other partner countries, ensuring regular exchange of visits and  developing  a  network  of  diplomatic  representation offices;
+(3) to promote the role of NATO as a collective security organisation which increases security in Latvia and the world, as well as to contribute to the development of the European Security and Defence Policy;
 
-- to  promote  the  role  of  NATO  as  a  collective  security organisation  which  increases  security  in  Latvia  and  the world, as well as to contribute to the development of the European Security and Defence Policy;
+(4) to actively promote development of bilateral economic relations and to represent Latvia’s interests in international economic organisations;
 
-- to  actively  promote  development  of  bilateral  economic relations and to represent Latvia's interests in international economic organisations;
+(5) to elaborate and actively implement the European Neighbourhood Policy, as well as to involve Latvia as a new donor country in development cooperation;
 
-- to elaborate and actively implement the European Neighbourhood Policy, as well as to involve Latvia as a new donor country in development cooperation;
+(6) to protect, maintain and develop the ethnic, linguistic and cultural identity of Latvians living abroad, as well as to strengthen their sense of belonging to their ethnic native country;
 
-- to protect, maintain and develop the ethnic, linguistic and cultural  identity  of  Latvians  living  abroad,  as  well  as  to strengthen  their  sense  of  belonging  to  their  ethnic  native country;
-
-- to develop and project a single concept of its national image in order to facilitate Latvia's recognition abroad.
+(7) to develop and project a single concept of its national image in order to facilitate Latvia’s recognition abroad.
 
 [[END OF PAGE 31]]
 
@@ -1608,7 +1538,7 @@ N A T I O N A L D E V E L O M E N T P L A N
 
 The  aim  of  regional  development  is  to  promote  and  ensure  a  balanced  and sustainable national development by taking into consideration the characteristics and potential of the country as a whole and its separate parts and by minimising negative differences between these parts, as well as by preserving and developing the distinctive features and potential for development characteristic of the natural and cultural environment of each separate territory. For different territories, it is possible  to  choose  between  different  ways  of  development  by  taking  into account the characteristics and comparative advantages of the given place.
 
-Latvia is characterised by a monocentric distribution of the population - there is one powerful centre, Riga, and a wide and evenly distributed network of towns. For a long time such a distribution of population was regarded as an obstacle for regional development; however, it has a significant growth potential that can be developed  by  implementing  the  concept  of  polycentric  development.  In  the existing network of towns, in addition to the development of one major centre Riga, the development of which is essential to ensure the national competitiveness of the international scale, other centres have to be purposefully developed  until  they  become  strong  enough  to  facilitate  regional  growth.  By channelling the limited available resources to selected development centres, by developing  of  co-operation  networks,  by  support  of  the  attraction  of  highly qualified human resources to regions it will be possible to ensure more efficient development, to increase the competitiveness of regions and the state as a whole more rapidly. The creation of a high quality living space in conformity with the population structure will foster the establishment of the conscience of regional and national identity.
+Latvia is characterised by a monocentric distribution of the population – there is one powerful centre, Riga, and a wide and evenly distributed network of towns. For a long time such a distribution of population was regarded as an obstacle for regional development; however, it has a significant growth potential that can be developed by implementing the concept of polycentric development. In the existing network of towns, in addition to the development of one major centre – Riga, the development of which is essential to ensure the national competitiveness of the international scale, other centres have to be purposefully developed until they become strong enough to facilitate regional growth. By channelling the limited available resources to selected development centres, by developing of co-operation networks, by support of the attraction of highly qualified human resources to regions it will be possible to ensure more efficient development, to increase the competitiveness of regions and the state as a whole more rapidly. The creation of a high quality living space in conformity with the population structure will foster the establishment of the conscience of regional and national identity.
 
 NON-FINANCIAL INVESTMENTS PER 1 INHABITANT, LVL
 
@@ -1648,7 +1578,7 @@ Riga region
 
 LVL
 
-Density of population, pers. per km 2
+Density of population, pers. per km²
 
 > 100
 
@@ -1766,17 +1696,17 @@ Polycentric  development  with  a  network  of  towns  provides  the  necessary 
 
 ###### Tasks:
 
-- to  ensure  the  development  of  a  common  national  development  planning system to achieve the vertical and horizontal co-operation on all the planning levels, based on a regular  national development analysis and providing the possibility  in  case  of  need  to  adjust  the  plans  of  sectorial  development according to the needs of a balanced development of the regions;
+(1) to ensure the development of a common national development planning system to achieve the vertical and horizontal co-operation on all the planning levels, based on a regular national development analysis and providing the possibility in case of need to adjust the plans of sectorial development according to the needs of a balanced development of the regions;
 
-- to  develop  and  implement  territorially  differentiated  regional  development support instruments, to ensure their mutual compensation, by this creating beneficiary  preconditions  (well  organised  infrastructure,  the  existence  of specific measures  and  services promoting  entrepreneurship and  its commencement etc.) for the development of national economy;
+(2) to develop and implement territorially differentiated regional development support instruments, to ensure their mutual compensation, by this creating beneficiary preconditions (well organised infrastructure, the existence of specific measures and services promoting entrepreneurship and its commencement etc.) for the development of national economy;
 
-- to strengthen the regional capacity in planning, ensuring both the material and technical base, as well as human resources for the said purpose;
+(3) to strengthen the regional capacity in planning, ensuring both the material and technical base, as well as human resources for the said purpose;
 
-- to facilitate the development of towns - rural co-operation thus creating new and strengthening the existing functional relations between the urban and rural territories;
+(4) to facilitate the development of towns – rural co-operation thus creating new and strengthening the existing functional relations between the urban and rural territories;
 
-- to stress and take into account the distinctive features and quality of regional and local cultural environments in territorial planning as a precondition for sustainable  territorial  development  and  competitiveness.  To  diversify  and strengthen  the  social  and  economic  impact  of  cultural  heritage  and contemporary cultural environment;
+(5) to stress and take into account the distinctive features and quality of regional and local cultural environments in territorial planning as a precondition for sustainable territorial development and competitiveness. To diversify and strengthen the social and economic impact of cultural heritage and contemporary cultural environment;
 
-- to use the public and private partnership principle in renewing the regional development centres.
+(6) to use the public and private partnership principle in renewing the regional development centres.
 
 ##### 5.1.2. Riga - a metropolis of business, science and culture in the Baltic Sea region
 
@@ -1784,7 +1714,7 @@ Riga is the capital of Latvia and the centre of a large region whose influence r
 
 Polycentric  distribution  of  population  throughout  the  country  is  one  of  the preconditions for successful transfer of Riga's excellence, potential and resources to other regions in Latvia and vice versa. This interaction would facilitate not only balanced regional development in Latvia but also ensure the competitiveness of Riga  region  within  the  Baltic  sea  region  and  beyond  it,  as  well  as  Latvia's integration  into  the  international  economic  environment  since  Latvia  is  a  link between Eastern and Western markets and a country with a knowledge-based and globally competitive economy.
 
-Harmonised and balanced development of Riga and other regions in Latvia can ensure  the  highest  possible  living  standards,  offer  employment,  education, recreation and entertainment opportunities to all people living, working, investing or just visiting Latvia.
+Harmonised and balanced development of Riga and other regions in Latvia can ensure the highest possible living standards, offer employment, education,
 
 [[END OF PAGE 33]]
 
@@ -1796,15 +1726,17 @@ P L A N
 
 N A T I O N A L D E V E L O M E N T
 
+recreation and entertainment opportunities to all people living, working, investing or just visiting Latvia.
+
 ###### Tasks:
 
-- to  ensure  qualitative  and  functioning  spatial  structure  of  Riga  region,  that would guarantee high quality and accessible transportation  services  to  the inhabitants and visitors of Riga and all the country by efficiently incorporating Riga in the Pan-European transportation network;
+(1) to ensure qualitative and functioning spatial structure of Riga region, that would guarantee high quality and accessible transportation services to the inhabitants and visitors of Riga and all the country by efficiently incorporating Riga in the Pan-European transportation network;
 
-- to facilitate the growth of Riga as an economically competitive metropolis in the Baltic Sea region by developing cooperation between entrepreneurs and science  institutions,  as  well  as  by  creating  a  flexibly  responsive  business environment, manufacturing and services based on innovative technologies and by offering services in the sphere of logistics and tourism;
+(2) to facilitate the growth of Riga as an economically competitive metropolis in the Baltic Sea region by developing cooperation between entrepreneurs and science institutions, as well as by creating a flexibly responsive business environment, manufacturing and services based on innovative technologies and by offering services in the sphere of logistics and tourism;
 
-- to facilitate the development of Riga as a centre of education, science and excellence in Latvia by improving cooperation between relevant national and local  institutions,  entrepreneurs  and  NGOs,  by  promoting  activities  of students, teachers and scientists, and by promoting international cooperation and exchange between NGOs;
+(3) to facilitate the development of Riga as a centre of education, science and excellence in Latvia by improving cooperation between relevant national and local institutions, entrepreneurs and NGOs, by promoting activities of students, teachers and scientists, and by promoting international cooperation and exchange between NGOs;
 
-- to ensure the evolvement of diverse and qualitative life and culture environment in  Riga  region  by  developing  services,  supporting  various  large-scale  events, concurrently developing the needed infrastructure, as well as preserving and augmenting Riga's cultural heritage.
+(4) to ensure the evolvement of diverse and qualitative life and culture environment in Riga region by developing services, supporting various large-scale events, concurrently developing the needed infrastructure, as well as preserving and augmenting Riga’s cultural heritage.
 
 ##### 5.1.3.  Mutual, trans-boundary and trans-national co-operation of regions to increase competitiveness in the European Union
 
@@ -1812,11 +1744,11 @@ The  aim  of  any  regional  cooperation  is  to  develop  a  common  synergy,  
 
 ###### Tasks:
 
-- to continue Latvia's and its specific territories in the networks of international co-operation  and  to  enhance  the  development  of  polycentric  competitive network  of  system  of  towns  in  the  Baltic  Sea  region  by  concurrently supporting creation of a common Northern European identity;
+(1) to continue Latvia’s and its specific territories in the networks of international co-operation and to enhance the development of polycentric competitive network of system of towns in the Baltic Sea region by concurrently supporting creation of a common Northern European identity;
 
-- to strengthen internal and international cooperation of local governments and regions in dealing with regional and Pan-European development policy issues, as well as to improve links (logistical, actual) among international, national, regional and local transportation networks;
+(2) to strengthen internal and international cooperation of local governments and regions in dealing with regional and Pan-European development policy issues, as well as to improve links (logistical, actual) among international, national, regional and local transportation networks;
 
-- to  strengthen  cooperation  in  implementing  development  strategies  and  in spatial planning by taking advantage of opportunities for cooperation offered
+(3) to strengthen cooperation in implementing development strategies and in spatial planning by taking advantage of opportunities for cooperation offered
 
 PROPORTION OF RIGA GDP FROM LATVIA GDP, %
 
@@ -1892,7 +1824,7 @@ N A T I O N A L D E V E L O M E N T P L A N
 
 by  neighbourhood  policy,  as  well  as  by  cross-border  and  international opportunities for cooperation;
 
-- to  facilitate  approximation  of  the  environmental  monitoring  system  in neighbouring countries to EU requirements for preservation of the quality of the  environment,  including  a  reduction  in  the  amount  of  trans-boundary emissions.
+(4) to facilitate approximation of the environmental monitoring system in neighbouring countries to EU requirements for preservation of the quality of the environment, including a reduction in the amount of trans-boundary emissions.
 
 #### 5.2.  MODERN INFRASTRUCTURE AND SERVICES
 
@@ -1910,13 +1842,13 @@ While improving the infrastructure of energy supply and implementing energy effi
 
 ###### Tasks:
 
-- to  facilitate  creation  of  links  between  Baltic  and  European  energy  systems which are oriented towards integration of the Baltic  energy  supply  system into the European system;
+(1) to facilitate creation of links between Baltic and European energy systems which are oriented towards integration of the Baltic energy supply system into the European system;
 
-- to  diversify  the  supply  of  primary  energy  resources  and  to  increase  energy independence;
+(2) to diversify the supply of primary energy resources and to increase energy independence;
 
-- to support investments in producing energy from renewable sources;
+(3) to support investments in producing energy from renewable sources;
 
-- to facilitate competitive production and greater use of bio fuel.
+(4) to facilitate competitive production and greater use of bio fuel.
 
 [[END OF PAGE 35]]
 
@@ -1928,21 +1860,21 @@ N A T I O N A L D E V E L O M E N T P L A N
 
 ##### 5.2.2. Development of ICT infrastructure and services and their accessibility in public networks
 
-Development of ICT infrastructure and efficient use of opportunities ensured by ICTs facilitate social and economic growth of the country and competitiveness of its regions, as well as raise living standards of the population. Modernising of ICT infrastructure  in  public  administration  institutions  should  be  oriented  towards improving services to inhabitants. The development of electronic services should be  promoted  by  ensuring  diversified  channels  for  service  provision,  improving accessibility  and  security  of  services,  as  well  as  minimising  the  administrative burden  for  inhabitants  and  entrepreneurs.  The  infrastructure  of  information systems  should  be  developed  by  ensuring  the  compatibility  and  security  of information  system,  as  well  as  by  increasing  accessibility  of  information. Proficiency  of  inhabitants  in  using  ICTs  should  be  increased,  and  special  egovernance application software should be developed. Digitalisation should be developed, improved and used in all sectors of public governance. Broadband network should be created, and its accessibility should be ensured in all regions; Internet accessibility should also be improved.
+Development of ICT infrastructure and efficient use of opportunities ensured by ICTs facilitate social and economic growth of the country and competitiveness of its regions, as well as raise living standards of the population. Modernising of ICT infrastructure in public administration institutions should be oriented towards improving services to inhabitants. The development of electronic services should be promoted by ensuring diversified channels for service provision, improving accessibility and security of services, as well as minimising the administrative burden for inhabitants and entrepreneurs. The infrastructure of information systems should be developed by ensuring the compatibility and security of information system, as well as by increasing accessibility of information. Proficiency of inhabitants in using ICTs should be increased, and special e-governance application software should be developed. Digitalisation should be developed, improved and used in all sectors of public governance. Broadband network should be created, and its accessibility should be ensured in all regions; Internet accessibility should also be improved.
 
 ###### Tasks:
 
-- to  facilitate  digitalisation  and  development  of  services  provided  on  the national and local government level;
+(1) to facilitate digitalisation and development of services provided on the national and local government level;
 
-- to  ensure  compatibility  of  national  and  local  information  systems  and  to facilitate development of national and local information systems;
+(2) to ensure compatibility of national and local information systems and to facilitate development of national and local information systems;
 
-- to  ensure  digitalisation  of  the  education  system  and  to  improve  the proficiency of education institution employees in using the new ICTs;
+(3) to ensure digitalisation of the education system and to improve the proficiency of education institution employees in using the new ICTs;
 
-- to provide national and local government institutions, including health care, employment,  social  and  cultural  institutions,  etc.,  with  the  needed  ICT infrastructure and Internet connections, as well as to improve the proficiency of employees in using new ICTs;
+(4) to provide national and local government institutions, including health care, employment, social and cultural institutions, etc., with the needed ICT infrastructure and Internet connections, as well as to improve the proficiency of employees in using new ICTs;
 
-- to provide access to the broadband data transfer network and develop access to the public Internet, thus facilitating balanced regional development;
+(5) to provide access to the broadband data transfer network and develop access to the public Internet, thus facilitating balanced regional development;
 
-- to facilitate the use of ICTs in enterprises and households in order to ensure wider accessibility of services and information.
+(6) to facilitate the use of ICTs in enterprises and households in order to ensure wider accessibility of services and information.
 
 ##### 5.2.3.  Multimodal, integrated, accessible for public and safe transportation system
 
@@ -2126,23 +2058,23 @@ transportation  and  diversifying  their services.  That  ensures  inhabitants, 
 
 ###### Tasks:
 
-- to ensure improvement and development of the international transportation infrastructure,  including  modernisation  of  all  major  national  motorways, railroad infrastructure, ports and airports, thereby ensuring compatibility of Latvia's and EU air traffic control system, thus guaranteeing full integration into the Pan-European transportation network and connection with networks used by Eastern neighbouring countries;
+(1) to ensure improvement and development of the international transportation infrastructure, including modernisation of all major national motorways, railroad infrastructure, ports and airports, thereby ensuring compatibility of Latvia’s and EU air traffic control system, thus guaranteeing full integration into the Pan-European transportation network and connection with networks used by Eastern neighbouring countries;
 
-- to improve the quality of the regional and local transportation infrastructure by allocating sufficient funding for maintenance of motorways and local roads;
+(2) to improve the quality of the regional and local transportation infrastructure by allocating sufficient funding for maintenance of motorways and local roads;
 
-- to increase and maintain traffic safety in order to reduce the number of road casualties by at least a half;
+(3) to increase and maintain traffic safety in order to reduce the number of road casualties by at least a half;
 
-- to  facilitate  cooperation  between  the  state  and  local  governments  in developing a balanced and integrated transportation system in the country;
+(4) to facilitate cooperation between the state and local governments in developing a balanced and integrated transportation system in the country;
 
-- to diversify transportation and logistics services by creating an integrated and multimodal  national  transportation  system  which  is  competitive  in  the European and global service market;
+(5) to diversify transportation and logistics services by creating an integrated and multimodal national transportation system which is competitive in the European and global service market;
 
-- to  establish  Latvia  as  a  transportation  and  logistics  centre  for  Asian  and European trade;
+(6) to establish Latvia as a transportation and logistics centre for Asian and European trade;
 
-- to  improve  the  public  transportation  system:  increase  the  accessibility  of public transportation services on national, regional and local level, to improve the quality of regional and local services by optimisation of route network, determining priority modes of transportation, and retaining rail transportation of  passengers  and  ensuring  its  accessibility  for  all  the  social  groups  of population;
+(7) to improve the public transportation system: increase the accessibility of public transportation services on national, regional and local level, to improve the quality of regional and local services by optimisation of route network, determining priority modes of transportation, and retaining rail transportation of passengers and ensuring its accessibility for all the social groups of population;
 
-- to develop environmentally friendly means of transport and to minimise risks associated with transporting hazardous cargoes;
+(8) to develop environmentally friendly means of transport and to minimise risks associated with transporting hazardous cargoes;
 
-- to develop the infrastructure of bicycles, especially in the towns of Latvia, and to promote the use of bicycles as an alternative means of transportation.
+(9) to develop the infrastructure of bicycles, especially in the towns of Latvia, and to promote the use of bicycles as an alternative means of transportation.
 
 ##### 5.2.4.  Development of public utilities (water and waste management, heating, etc.)
 
@@ -2150,7 +2082,7 @@ Public  utilities  include  water  management,  waste  management,  heating  and
 
 ###### Tasks:
 
-- to  develop  a  water  management  infrastructure  in  accordance  with environmental requirements;
+(1) to develop a water management infrastructure in accordance with environmental requirements;
 
 [[END OF PAGE 37]]
 
@@ -2160,13 +2092,13 @@ Public  utilities  include  water  management,  waste  management,  heating  and
 
 N A T I O N A L D E V E L O M E N T P L A N
 
-- to improve the quality of public utilities infrastructure by avoiding inefficient use of energy resources;
+(2) to improve the quality of public utilities infrastructure by avoiding inefficient use of energy resources;
 
-- to develop a uniform support policy for increasing energy efficiency in systems of heating providers and to increase the efficiency of energy in buildings;
+(3) to develop a uniform support policy for increasing energy efficiency in systems of heating providers and to increase the efficiency of energy in buildings;
 
-- to  create  a  sustainable  waste  management  system,  including  a  supporting infrastructure  for  management  of  household  waste,  hazardous  waste  and radioactive waste on the national, regional and local level;
+(4) to create a sustainable waste management system, including a supporting infrastructure for management of household waste, hazardous waste and radioactive waste on the national, regional and local level;
 
-- to provide equal public utilities to all inhabitants of the country, taking into consideration the population distribution.
+(5) to provide equal public utilities to all inhabitants of the country, taking into consideration the population distribution.
 
 ##### 5.2.5.  Infrastructure and services provided to people engaged in different activities and having different life-styles
 
@@ -2174,13 +2106,13 @@ An integral part of a full value living environment is the opportunity for diffe
 
 ###### Tasks:
 
-- to  ensure a 'minimum basket' of all types of services according to the needs of  each  individual  centre  and  to  create  preconditions  for  receiving  these services, and to specify the institution responsible for providing each specific type of service;
+(1) to ensure a „minimum basket” of all types of services according to the needs of each individual centre and to create preconditions for receiving these services, and to specify the institution responsible for providing each specific type of service;
 
-- to decrease disparities between Latvia's regions with regard to the quality and accessibility of services;
+(2) to decrease disparities between Latvia’s regions with regard to the quality and accessibility of services;
 
-- to diversify services related to recreation and an active life-style by using local cultural and historical and natural resources;
+(3) to diversify services related to recreation and an active life-style by using local cultural and historical and natural resources;
 
-- to develop the possibilities for population to be engaged in various type and level physical activities, thus developing the mental and physical potential of each individual.
+(4) to develop the possibilities for population to be engaged in various type and level physical activities, thus developing the mental and physical potential of each individual.
 
 [[END OF PAGE 38]]
 
@@ -2208,7 +2140,7 @@ males
 
 0
 
-10 20 30 30 50 60 70 80
+10 20 30 40 50 60 70 80
 
 females
 
@@ -2252,13 +2184,13 @@ In  order  to  raise  public  awareness  about  health  as  a  value,  it  is  e
 
 ###### Tasks:
 
-- to  improve  the  accessibility  of  health  care  services  to  the  population  by developing the health care infrastructure, paying special attention to the primary health care and emergency services;
+(1) to improve the accessibility of health care services to the population by developing the health care infrastructure, paying special attention to the primary health care and emergency services;
 
-- to provide long-term development of human resources in the health care sector;
+(2) to provide long-term development of human resources in the health care sector;
 
-- to create a balance between the state's and an individual's responsibility for preserving  and improving health and to create public awareness about a  healthy  lifestyle  and  wholesome  food,  as  well  as  to  involve  public  in combating  the  deseases  of  dependency    (alcohol,  drugs,  psychotropic, toxic substances, gambling or dependency from computer games);
+(3) to create a balance between the state’s and an individual’s responsibility for preserving and improving health and to create public awareness about a healthy lifestyle and wholesome food, as well as to involve public in combating the deseases of dependency (alcohol, drugs, psychotropic, toxic substances, gambling or dependency from computer games);
 
-- to  promote  the  integration  of  mental  health  care  into  the  society  (to develop  public-based  mental  health  services  and  the  co-operation  of institutions involved in matters of mental health of population, to educate the society on mental health and psychic diseases);
+(4) to promote the integration of mental health care into the society (to develop public-based mental health services and the co-operation of institutions involved in matters of mental health of population, to educate the society on mental health and psychic diseases);
 
 [[END OF PAGE 39]]
 
@@ -2268,19 +2200,19 @@ In  order  to  raise  public  awareness  about  health  as  a  value,  it  is  e
 
 N A T I O N A L D E V E L O M E N T P L A N
 
-- to stress the importance of preventive measures;
+(5) to stress the importance of preventive measures;
 
-- to increase gradually the amount of financial resources for health care and to improve the public awareness about the possibilities to receive state paid health care services;
+(6) to increase gradually the amount of financial resources for health care and to improve the public awareness about the possibilities to receive state paid health care services;
 
-- to  encourage  the  introduction  of  new,  research-based  medical  treatment methods;
+(7) to encourage the introduction of new, research-based medical treatment methods;
 
-- to  develop  e-Health  solutions  and  to  increase  the  use  of  information technologies;
+(8) to develop e-Health solutions and to increase the use of information technologies;
 
-- to reduce new-born and infant death rates;
+(9) to reduce new-born and infant death rates;
 
-- to encourage people, especially children and youth, to participate in sports activities;
+(10) to encourage people, especially children and youth, to participate in sports activities;
 
-- to promote cooperation in the field of health care between the state and NGOs which are working  with  families,  children,  youth,  groups  at  risk  of social exclusion, including HIV-positive persons.
+(11) to promote cooperation in the field of health care between the state and NGOs which are working with families, children, youth, groups at risk of social exclusion, including HIV-positive persons.
 
 ##### 6.1.2. Sustainable social security system
 
@@ -2292,113 +2224,55 @@ The  opportunity  to  receive  social  assistance  and  social  services  is  on
 
 ###### Tasks:
 
-- to maintain the financial stability of the social security system and to promote its development;
+(1) to maintain the financial stability of the social security system and to promote its development;
 
-- to encourage movement towards providing adequate pensions;
+(2) to encourage movement towards providing adequate pensions;
 
-- to  raise  public  awareness  about  the  importance  of  the  social  security system;
+(3) to raise public awareness about the importance of the social security system;
 
-- to provide state aid for persons at social risk;
+(4) to provide state aid for persons at social risk;
 
-- to develop a system for providing social assistance and services by the state
+(5) to develop a system for providing social assistance and services by the state
 
 NUMBER OF RECIPIENTS OF STATE SOCIAL BENEFITS
 
 Number of recipients of pension
 
-Average amount of state social benefits, per month
-
 thous.pers.
+
+0 5 10 15 20 25
+
+Year
+
+1995 2000 2003 2004
 
 state social security benefit
 
+19,6 14,2 15,2 15,8
+
 child birth benefit
 
-21,05
+21,05 20,1 21 20,7
 
-20,1
+Average amount of state social benefits, per month
 
-21
+LVL
 
-20,7
-
-15,8
-
-15,2
-
-14,2
-
-19,6
-
-0
-
-5
-
-10
-
-15
-
-20
-
-25
-
-1995
-
-2000
-
-2003
-
-2004
+0 50 100 150 200 250
 
 Year
+
+1995 2000 2003 2004
+
+state social security benefit per month
+
+19,65 32,09 35,38 43,92
+
+child birth benefit
+
+73,37 182,13 184,6 204,17
 
 Source: Statistical Yearbook of Latvia 2005
-
-state social security benefit per
-
-month
-
-child birth benefit
-
-Year
-
-43,92
-
-73,37
-
-182,13
-
-184,6
-
-204,17
-
-19,65
-
-32,09
-
-35,38
-
-0
-
-50
-
-100
-
-150
-
-200
-
-250
-
-1995
-
-2000
-
-2003
-
-2004
-
-L V L
 
 [[END OF PAGE 40]]
 
@@ -2407,6 +2281,8 @@ L V L
 41
 
 P L A N
+
+N A T I O N A L D E V E L O M E N T
 
 SEGMENTATION OF NUMBER OF PENSION RECIPIENTS BY AVERAGE AMOUNT OF MONTHLY PENSION, LVL
 
@@ -2518,11 +2394,11 @@ Year
 
 Source: Statistical Yearbook of Latvia 2005
 
-and local governments, the social and day-care centres included, to raise the quality  of  state  and  local  government  social  services  by  modernising  the infrastructure of service providers;
+and local governments, the social and day-care centres included, to raise the quality of state and local government social services by modernising the infrastructure of service providers;
 
-- to facilitate the accessibility of social services by bringing them closer to each person's place of residence and to develop new types of social services;
+(6) to facilitate the accessibility of social services by bringing them closer to each person’s place of residence and to develop new types of social services;
 
-- to  improve  social  dialogue  between  the  state  and  socially  vulnerable population groups.
+(7) to improve social dialogue between the state and socially vulnerable population groups.
 
 ##### 6.1.3. Support to families with children and encouraging an increase in the birth rate
 
@@ -2532,53 +2408,17 @@ The state's policy for improving the demographic situation has two chief aims: p
 
 ###### Tasks:
 
-- to increase state aid to families during the child-rearing period in conformity with the needs and the age of the children;
+(1) to increase state aid to families during the child-rearing period in conformity with the needs and the age of the children;
 
-- to encourage development of a network of pre-school educational institutions and alternative child-care services;
+(2) to encourage development of a network of pre-school educational institutions and alternative child-care services;
 
-- to create a family-friendly working environment and in this area to promote co-operation with social partners - the employers;
+(3) to create a family-friendly working environment and in this area to promote co-operation with social partners – the employers;
 
-- to develop support and social service systems for families with children and to ensure a suitable infrastructure;
+(4) to develop support and social service systems for families with children and to ensure a suitable infrastructure;
 
-- to  develop  a  family-type  care  system  for  orphans  and  children  without parental care (foster families, adoption, promotion of guardianship);
+(5) to develop a family-type care system for orphans and children without parental care (foster families, adoption, promotion of guardianship);
 
-- to create a state support system for promoting accessible housing to families with children.
-
-T
-
-N
-
-E
-
-M
-
-O
-
-L
-
-E
-
-V
-
-E
-
-D
-
-L
-
-A
-
-N
-
-O
-
-I
-
-T
-
-A
-
-N
+(6) to create a state support system for promoting accessible housing to families with children.
 
 [[END OF PAGE 41]]
 
@@ -2590,7 +2430,7 @@ N A T I O N A L D E V E L O M E N T P L A N
 
 #### 6.2. INCLUSIVE AND STEADY LABOUR MARKET
 
-Work is  one  of  the  most  important  values  in  human  life:  it  not  only  provides means  of  subsistence  but  also  lays  a  foundation  for  creative  thinking,  selfrealisation and social contacts. In cities and especially in rural regions, favourable conditions  must  be  created  for  locating  new  jobs  as  close  as  possible  to employees'  places  of  residence  because  this  reduces  migration  and  promotes regional development. Adequate mechanisms should be created for encouraging the economically active part of the population to join the labour market, as well as for encouraging the return of Latvians residing and working abroad.
+Work is one of the most important values in human life: it not only provides means of subsistence but also lays a foundation for creative thinking, self-realisation and social contacts. In cities and especially in rural regions, favourable conditions must be created for locating new jobs as close as possible to employees’ places of residence because this reduces migration and promotes regional development. Adequate mechanisms should be created for encouraging the economically active part of the population to join the labour market, as well as for encouraging the return of Latvians residing and working abroad.
 
 In order to reduce undeclared work and to promote employment, strengthening employment  partnerships  at  the  local  level  plays  an  important  role.  Attention should also be paid to involving in the labour market population groups that are at risk of social exclusion.
 
@@ -2606,17 +2446,17 @@ The  great  difference  between  Riga  and  the  rest  of  Latvia  with  respect
 
 ###### Tasks:
 
-- to encourage the creation of a variety of jobs and accessibility to them by supporting self-employment and entrepreneurship in all regions;
+(1) to encourage the creation of a variety of jobs and accessibility to them by supporting self-employment and entrepreneurship in all regions;
 
-- to promote higher salaries, especially for lower-paid categories of employees, by raising the minimum wage and, at the same time, also raising the nontaxable minimum and increasing the personal income tax relieves for persons to be supported;
+(2) to promote higher salaries, especially for lower-paid categories of employees, by raising the minimum wage and, at the same time, also raising the non-taxable minimum and increasing the personal income tax relieves for persons to be supported;
 
-- to  facilitate  internal  geographical  and  professional  mobility  of  the  labour force;
+(3) to facilitate internal geographical and professional mobility of the labour force;
 
-- to promote access to jobs for economically inactive working-age persons and especially for youngsters and for population groups at risk of social exclusion parents  after  child-care  leave,  persons  of  pre-retirement  age,  persons  with dependable  persons,  persons  with  special  needs,  persons  who  have  been unemployed for a long time, etc.;
+(4) to promote access to jobs for economically inactive working-age persons and especially for youngsters and for population groups at risk of social exclusion – parents after child-care leave, persons of pre-retirement age, persons with dependable persons, persons with special needs, persons who have been unemployed for a long time, etc.;
 
-- to ensure wider access to information about vacancies, training and retraining opportunities in conformity with the labour market demands;
+(5) to ensure wider access to information about vacancies, training and retraining opportunities in conformity with the labour market demands;
 
-- to improve working conditions by facilitating the implementation of laws on labour relations, labour safety and occupational health;
+(6) to improve working conditions by facilitating the implementation of laws on labour relations, labour safety and occupational health;
 
 PROPORTION OF EMPLOYED PERSONS FROM TOTAL NUMBER OF INHABITANTS IN 2004
 
@@ -2700,7 +2540,7 @@ real remuneration of employed persons
 
 80
 
-100120 140 160
+100 120 140 160
 
 Year
 
@@ -2720,9 +2560,9 @@ Year
 
 Source: Statistical Yearbook of Latvia 2005
 
-- to foster the growth of labour productivity;
+(7) to foster the growth of labour productivity;
 
-- to  support  the  return  to  the  Latvian  labour  market  of  workers  who  have emigrated.
+(8) to support the return to the Latvian labour market of workers who have emigrated.
 
 ##### 6.2.2. Support for increasing the employment rate
 
@@ -2730,17 +2570,17 @@ The goal of the employment policy is to raise the employment rate and to reduce 
 
 ###### Tasks:
 
-- to  develop  more  efficient  measures  for  averting  possible  unemployment (preventive  measures  for  reducing  unemployment),  especially  for  young people and for persons after child-care leave and persons of pre-retirement age;
+(1) to develop more efficient measures for averting possible unemployment (preventive measures for reducing unemployment), especially for young people and for persons after child-care leave and persons of pre-retirement age;
 
-- to  improve  and  diversify  active  and  preventive  employment  measures, ensuring an individual approach aimed at facilitating people's competitiveness  in  the  labour  market  (especially  by  providing  training  and consultations to the unemployed to meet their particular needs in conformity with the causes of unemployment);
+(2) to improve and diversify active and preventive employment measures, ensuring an individual approach aimed at facilitating people’s competitiveness in the labour market (especially by providing training and consultations to the unemployed to meet their particular needs in conformity with the causes of unemployment);
 
-- to reduce undeclared work;
+(3) to reduce undeclared work;
 
-- to reduce long-term unemployment and to ensure involvement in the labour market  of  population  groups  at  risk  of  social  exclusion  (motivation programmes, internships and creation of specifically accommodated working places as well as other measures);
+(4) to reduce long-term unemployment and to ensure involvement in the labour market of population groups at risk of social exclusion (motivation programmes, internships and creation of specifically accommodated working places as well as other measures);
 
-- to institute flexible working hours and forms;
+(5) to institute flexible working hours and forms;
 
-- to develop initiatives promoting local employment and partnerships favouring employment,  especially  by  encouraging  employers  to  hire  persons  from population groups at risk of social exclusion.
+(6) to develop initiatives promoting local employment and partnerships favouring employment, especially by encouraging employers to hire persons from population groups at risk of social exclusion.
 
 #### 6.3. ACCESSIBLE HOUSING AND A CIVILIZED LIVING AREA
 
@@ -2768,15 +2608,15 @@ Taking into consideration the diverse purchasing ability of the population, it i
 
 ###### Tasks:
 
-- to facilitate  efficient  use  of  existing  housing  (including  progressive management, renovation and modernisation);
+(1) to facilitate efficient use of existing housing (including progressive management, renovation and modernisation);
 
-- to  create  conditions  for  diverse  types  of  housing  available  to  increase  the accessibility  of  diverse  types  of  housing  for  population groups with diverse income levels;
+(2) to create conditions for diverse types of housing available to increase the accessibility of diverse types of housing for population groups with diverse income levels;
 
-- to launch a comprehensive assistance system in the housing sector whereby obligations and responsibility are shared by the state, local governments and individuals  themselves;
+(3) to launch a comprehensive assistance system in the housing sector whereby obligations and responsibility are shared by the state, local governments and individuals themselves;
 
-- to establish a system for monitoring the quality of new housing;
+(4) to establish a system for monitoring the quality of new housing;
 
-- to  introduce  financial  assistance  instruments  for  making  housing  more available to specific target groups (families with children, young specialists).
+(5) to introduce financial assistance instruments for making housing more available to specific target groups (families with children, young specialists).
 
 ##### 6.3.2. Forming socially integrated neighbourhoods
 
@@ -2898,15 +2738,17 @@ Orthodoxy churches -33
 
 dwelling places of outstanding persons - 29
 
-Source: State Inspectorate of Protection of Monuments and Memorials of History Parallel  to  the  development  of  a  diverse  supply  of  housing  it  is  necessary  to enhance  the  development  of  functionally  diverse  and  socially  integrated residential  neighbourhood.  That  would  reduce  such  negative  trends  as stratification of towns' residential areas by the income level of their population. The functional  diversity  of  residential  neighbourhoods  will  bring  the  necessary services closer to the people and will improve the quality of life as a whole.
+Source: State Inspectorate of Protection of Monuments and Memorials of History
+
+Parallel to the development of a diverse supply of housing it is necessary to enhance the development of functionally diverse and socially integrated residential neighbourhood. That would reduce such negative trends as stratification of towns’ residential areas by the income level of their population. The functional diversity of residential neighbourhoods will bring the necessary services closer to the people and will improve the quality of life as a whole.
 
 ###### Tasks:
 
-- to use the principle of public and private partnerships for creating a functional and diversified  living space;
+(1) to use the principle of public and private partnerships for creating a functional and diversified living space;
 
-- to encourage an improvement in the quality of life for all population groups, especially for socially vulnerable groups (pensioners, children and people with disabilities);
+(2) to encourage an improvement in the quality of life for all population groups, especially for socially vulnerable groups (pensioners, children and people with disabilities);
 
-- to  foster  identification  with  one's  place  of  residence  and  to  promote development  of  local  communities  with  the  aim  to  enhance  active participation of people in day-to-day activities.
+(3) to foster identification with one’s place of residence and to promote development of local communities with the aim to enhance active participation of people in day-to-day activities.
 
 ##### 6.3.3. A  well-developed  and  accessible  cultural  environment  and cultural-historical heritage
 
@@ -2914,15 +2756,15 @@ A  high-quality  cultural  environment,  which  is  formed  by  a  well-preserve
 
 ###### Tasks:
 
-- to foster a balanced development of cultural processes and to make culture available  throughout  Latvia,  paying  special  attention  to  the  accessibility  of professional art;
+(1) to foster a balanced development of cultural processes and to make culture available throughout Latvia, paying special attention to the accessibility of professional art;
 
-- to  preserve  and  strengthen  the  originality  and  identity  of  cultural  and historical counties and local cultures by preserving and developing county and local cultural traditions, social practices, rituals, oral folklore, local language dialects and vernaculars, etc.;
+(2) to preserve and strengthen the originality and identity of cultural and historical counties and local cultures by preserving and developing county and local cultural traditions, social practices, rituals, oral folklore, local language dialects and vernaculars, etc.;
 
-- to foster and develop the study of local history; to develop local tourism by creating tourism sites where one can learn about Latvia's history, culture and nature;
+(3) to foster and develop the study of local history; to develop local tourism by creating tourism sites where one can learn about Latvia’s history, culture and nature;
 
-- to create a high-quality urban and rural cultural landscape by harmoniously combining  cultural  and  historical  objects,  nature  sites  and  newly  created contemporary values;
+(4) to create a high-quality urban and rural cultural landscape by harmoniously combining cultural and historical objects, nature sites and newly created contemporary values;
 
-- to  create  ongoing  co-operation  and  dialogue  among  territorial  planners, architects, environmental planners and the local population.
+(5) to create ongoing co-operation and dialogue among territorial planners, architects, environmental planners and the local population.
 
 [[END OF PAGE 45]]
 
@@ -2940,21 +2782,21 @@ In  the  formation  of  a  civil  society,  public  awareness  and  increased  p
 
 ###### Tasks:
 
-- to  facilitate  the  preservation  and  reasonable  use  of  biological  diversity  and protected areas;
+(1) to facilitate the preservation and reasonable use of biological diversity and protected areas;
 
-- to promote the inclusion of the protected areas in the economic development determining different prohibited zones of economic activities  and substantiating the socio-economic decisions in their determination, as well as to attract financial resources for their management;
+(2) to promote the inclusion of the protected areas in the economic development determining different prohibited zones of economic activities and substantiating the socio-economic decisions in their determination, as well as to attract financial resources for their management;
 
-- to encourage public participation in environmental protection  and preservation by providing timely and true information to the population about environmental quality and natural resources;
+(3) to encourage public participation in environmental protection and preservation by providing timely and true information to the population about environmental quality and natural resources;
 
-- to facilitate the development of environmental education, as well as to foster education for sustainable development and to raise environmental awareness among the population;
+(4) to facilitate the development of environmental education, as well as to foster education for sustainable development and to raise environmental awareness among the population;
 
-- to support sustainable development of the natural environment for recreation purposes and to promote ecotourism;
+(5) to support sustainable development of the natural environment for recreation purposes and to promote ecotourism;
 
-- to  facilitate  evaluation,  mitigation  and  monitoring  of  the  risks  to  nature, including climate change and industrial risks;
+(6) to facilitate evaluation, mitigation and monitoring of the risks to nature, including climate change and industrial risks;
 
-- to  encourage  rehabilitation  and  recovery  of    brownfield  areas  (including polluted areas);
+(7) to encourage rehabilitation and recovery of brownfield areas (including polluted areas);
 
-- to  raise  public  awareness  about  economical  use  of  water  and  energy resources and sorting of household waste.
+(8) to raise public awareness about economical use of water and energy resources and sorting of household waste.
 
 SPECIALLY PROTECTED NATURE TERRITORIES OF LATVIA
 
@@ -2968,7 +2810,7 @@ Gauja National Park (1973), Kemeri National Park (1997), Slitere National Park (
 
 Biosphere reserves -
 
-North Vidzeme Biosphere Reserve s (1997)
+North Vidzeme Biosphere Reserves (1997)
 
 Nature parks - 43
 
@@ -2978,7 +2820,7 @@ The most popular ones are Engure Lake Nature Park, Tervetes Nature Park,
 
 Nature memorials - 295
 
-from them geological and geomorphologic e - 206, dendrologic plantations - 89
+from them geological and geomorphologice – 206, dendrologic plantations – 89
 
 Restricted areas of nature - 278
 
@@ -2993,6 +2835,92 @@ Regions of protected landscapes - 9
 P L A N
 
 N A T I O N A L D E V E L O M E N T
+
+The Baltic Sea
+
+Ventspils
+
+Ventspils district
+
+Talsi district
+
+Kuldiga district
+
+Kurzeme Region
+
+Liepaja
+
+Liepaja district
+
+Saldus district
+
+The Gulf of Riga
+
+Tukums district
+
+Jurmala
+
+Riga region
+
+Riga
+
+Riga district
+
+Ogre district
+
+Dobele district
+
+Jelgava
+
+Jelgava district
+
+Bauska district
+
+Zemgale region
+
+Aizkraukle district
+
+Jekabpils district
+
+Valmiera district
+
+Limbazi district
+
+Valka district
+
+Cesis district
+
+Vidzeme region
+
+Gulbene district
+
+Madona district
+
+Aluksne district
+
+Balvi district
+
+Russian Federation
+
+Rezekne district
+
+Rezekne
+
+Ludza district
+
+Latgale region
+
+Preili district
+
+Daugavpils district
+
+Daugavpils
+
+Kraslava district
+
+The Republic of Lithuania
+
+The Republic of Belorus
 
 Source: Data of Central Statistical Board, 2005
 
@@ -3014,31 +2942,31 @@ The  objective  of  the  document  is  to  focus  the  attention  of politicians
 
 The following must be ensured in order to reach the NDP goal:
 
-- circlesolid coordinated action;
+- coordinated action;
 
-- circlesolid concentration of financial means;
+- concentration of financial means;
 
-- circlesolid efficient use of assistance instruments;
+- efficient use of assistance instruments;
 
-- circlesolid public participation and awareness;
+- public participation and awareness;
 
-- circlesolid monitoring of the implementation process;
+- monitoring of the implementation process;
 
-- circlesolid flexibility during the implementation of the plan (learning from experience).
+- flexibility during the implementation of the plan (learning from experience).
 
 The  implementation  of  sectoral  and  regional  development priorities of the NDP is financed by the state budget and that of local  governments,  by  foreign  financial  aid,  attracting  private financial capital, as well as via the application of the instruments of the European Union policies.
 
 In  order  to  implement  the  NDP  strategy,  each  of  the  parties concerned  has  to  carry  out  specific  measures  that  are  within their  competency  and  ability.  The  parties  concerned  are government and state administration institutions, local government and regional councils, non-governmental organisations and the private sector.
 
-The  Cabinet  of  Ministers  of  the  Republic  of  Latvia is responsible  for  the  implementation  of  NDP,  ensuring  the conformity  of  the  policy  planning  documents  with  NDP,  coordinating activities and appointing the responsible persons.
+The Cabinet of Ministers of the Republic of Latvia is responsible for the implementation of NDP, ensuring the conformity of the policy planning documents with NDP, co-ordinating activities and appointing the responsible persons.
 
 To  ensure  the  function  of  the  development  forecasting  and research, a  highly  professional  research  base is  to  be developed.  The  research  activities  of  it  will  strengthen  the national,  as  well  as  sectoral  development  planning  capacity, skills to analyse and forecast the development in breakdowns by territories and branches, as well as ensure the macroeconomic analysis. The results of the research activities have the function of 'public commodity'.
 
 The Ministry of Regional Development and Local Governments co-ordinates and monitors the implementation of  the  NDP,  the  development  of  the  determined  tasks  and activities. On regular basis the Ministry informs the Cabinet of Ministers about the NDP implementation as well as ensures the wide involvement and awareness of the society in the process of NDP implementation.
 
-The  State  Chancellery  and  the  Ministry  of  Regional Development  and  Local  Governments provides  for  the conformity  of  the  branch/sector  strategies  and  programs developed by ministries and secretariats with the long term and medium term goals and objectives of the national development and their relation with the planning documents of regions and local  governments,  promoting  the  decentralization  of  public institutions,  the  accessibility  of  services  to  people  and  cooperation with regions.
+The State Chancellery and the Ministry of Regional Development and Local Governments provides for the conformity of the branch/sector strategies and programs developed by ministries and secretariats with the long term and medium term goals and objectives of the national development and their relation with the planning documents of regions and local governments, promoting the decentralization of public institutions, the accessibility of services to people and co-operation with regions.
 
-Regional  councils  and  local  governments are  the  main driving force in urban and rural development. With the support of the state and private sectors, they foster economic growth and  entrepreneurship,  promote  education,  the  availability  of housing  and  the  accessibility  and  quality  of  public  services, transportation and other services. They also encourage people in a  given  territory  to  become  involved  in  civic  activities  and  to improve their quality of life.
+Regional councils and local governments are the main
 
 [[END OF PAGE 48]]
 
@@ -3050,6 +2978,8 @@ P L A N
 
 N A T I O N A L D E V E L O M E N T
 
+driving force in urban and rural development. With the support of the state and private sectors, they foster economic growth and entrepreneurship, promote education, the availability of housing and the accessibility and quality of public services, transportation and other services. They also encourage people in a given territory to become involved in civic activities and to improve their quality of life.
+
 Social partners and non-governmental organisations are a significant component and driving force in a civil society. Active involvement in problem solving, maintaining social dialogue and participation in local activities are only some of the possibilities characterising  the  ways  in  which  these  partners  can  help  to implement the NDP and involve the wider community.
 
 Entrepreneurs and scientists are  invited  to  actively  support the  objectives  for  reaching  the  national  strategic  goal  and  to seek not only creative solutions for implementing innovations, new technologies and competitive products but also  practical ways  of  cooperating  with  educational  institutions  at  all  levels and with local governments.
@@ -3058,15 +2988,15 @@ Each  individual with  his  creativity,  openness  and  positive attitude toward
 
 Prerequisites  for  successful  implementation  of  the  NDP are the following:
 
-- circlesolid strong  support  by  the  government  for  implementing  the NDP, including budget planning;
+- strong support by the government for implementing the NDP, including budget planning;
 
-- circlesolid capacity  of  local  and  regional  governments  and  their increasing role in planning the development of their territory;
+- capacity of local and regional governments and their increasing role in planning the development of their territory;
 
-- circlesolid activity and participation of the population, as well as state and  local  government  support    to  local  initiatives  and leaders;
+- activity and participation of the population, as well as state and local government support to local initiatives and leaders;
 
-- circlesolid NGOs' activities to facilitate better communication between the state and society;
+- NGOs’ activities to facilitate better communication between the state and society;
 
-- circlesolid a balance on the national, regional and local level between the objectives defined for social and economic development and for territorial spatial planning and the means chosen for their implementation.
+- a balance on the national, regional and local level between the objectives defined for social and economic development and for territorial spatial planning and the means chosen for their implementation.
 
 The monitoring of the NDP has to be based on criteria that are comparable and measurable by quantity and quality to ensure the  possibility  to  monitor  the  national  development  processes and  the  achievement  of  the  goals  and  objectives  set  by  the National  Development  Plan.    The  criteria  system  of  the  NDP results shall be based on the life quality index developed by the Strategic Analysis Commission's working group. It will provide the possibility  to  evaluate  the  changes  of  the  main  important factors having impact on the people's life quality during longer periods of time by use of complex quantitative (numerical) data.
 
@@ -3078,15 +3008,13 @@ To  ensure  the  monitoring  of  the  NDP  implementation  in conformity with it
 
 50
 
-N
-
-P L A
+P L A N
 
 N A T I O N A L D E V E L O M E N T
 
 ## EXPLANATION OF TERMS
 
-added  value -  value  that  is  added  to  the  intermediate consumption  (the  purchased  raw  materials,  materials,  semifinished products) during the production of goods or rendering of services.
+added value – value that is added to the intermediate consumption (the purchased raw materials, materials, semi-finished products) during the production of goods or rendering of services.
 
 applied  science -  deals  with  problems  that  arise  when implementing conclusions derived from theoretical research or when  solving  issues  presented  by  the  real-life  situation.  The results  of  applied  scientific  research  can  rapidly  be  used  for commercial purposes.
 
@@ -3104,9 +3032,9 @@ civil society - a system of self-organization of the society which appears and f
 
 commercialization  of  science -  financial  return  on  values created by research institutes; in this document: an instrument with  the  help  of  which  new  intellectual  values  created  by universities  and  research  institutions  can  be  transformed  into commercial benefits. It means submitting the results of research to manufacturing companies on the basis of mutual agreement and for definite compensation.
 
-competency  centre -a  nationally  and/or  internationally competitive  centre  created  through  cooperation  of  one  or several  companies  and  laboratories  of  higher  education institutions or applied research institutions. Its research serves to create new sought-after knowledge and intellectual values that can be commercialised.
+competency centre – a nationally and/or internationally competitive centre created through cooperation of one or several companies and laboratories of higher education institutions or applied research institutions. Its research serves to create new sought-after knowledge and intellectual values that can be commercialised.
 
-culture - in widest expression it means summary of all those specific mental, material, intellectual and emotional characteristic  features  that  are  typical  for  a  society  or  a  social group, and parallel to art and literature include the living and co-existence types, value systems, traditions and believes. The role  of  culture  in  the  growth  of  an  individual,  of  society  and state  can  be  expressed  in  3  ways:  as  a  kind  of  living  and  coexistence, the strengthening of the community's identity, as a development tool and resources, as well as a value in itself, and the goal of development.
+culture – in widest expression it means summary of all those specific mental, material, intellectual and emotional characteristic features that are typical for a society or a social group, and parallel to art and literature include the living and co-existence types, value systems, traditions and believes. The role of culture in the growth of an individual, of society and state can be expressed in 3 ways: as a kind of living and co-existence, the strengthening of the community’s identity, as a development tool and resources, as well as a value in itself, and the goal of development.
 
 development - benefiting for public process of improving the natural, cultural, social and economic environment.
 
@@ -3132,7 +3060,7 @@ e-governance -  provision  of  public  services  and  conduct  of public  admini
 
 e-Health -  modern  use  of  information  and  communication technologies  in  processes  related  to  health  care  aimed  at meeting  the  needs  of  the  population,  patients,  health  care specialists, health  care  providers, as well as  health  policy developers.
 
-employment rate -  the  proportion  of  unemployed workingage persons (from 15 years of age up to retirement age) of the total population.
+employment rate -  the  proportion  of  unemployed working-age persons (from 15 years of age up to retirement age) of the total population.
 
 e-services -  services  provided  remotely  to  public  by  using information and communication technologies.
 
@@ -3146,9 +3074,9 @@ gender  equality -  the  role  of  men  and  women  in  the development  of  the
 
 globalisation -  changes  in  society  and  the  global  economy brought about by increased international economic cooperation and the mingling of cultures.
 
-gross domestic product (GDP) - market value of the products produced and services provided during one year. (GDP can be calculated  by  adding  up  1)  all  of  an  economy's  revenues  wages,  interest,  profits  and  lease;  2)  all  of  an  economy's expenditures -consumption, investment, government expenditure  and  net  exports  (export  revenues  minus  import costs);  3)  added value from different sectors of economy plus commodity taxes minus subsidies).
+gross domestic product (GDP) - market value of the products produced and services provided during one year. (GDP can be calculated  by  adding  up  1)  all  of  an  economy's  revenues - wages,  interest,  profits  and  lease;  2)  all  of  an  economy's expenditures - consumption, investment, government expenditure  and  net  exports  (export  revenues  minus  import costs);  3)  added value from different sectors of economy plus commodity taxes minus subsidies).
 
-groups at risk of social exclusion - population groups that have  either  no  opportunities  or  limited  opportunities  to  earn sufficient income, receive various services and goods which are essential for a wholesome life in society.
+groups at risk of social exclusion - population groups that have  either  no  opportunities  or  limited  opportunities  to  earn
 
 [[END OF PAGE 51]]
 
@@ -3156,11 +3084,11 @@ groups at risk of social exclusion - population groups that have  either  no  op
 
 52
 
-N
-
-P L A
+P L A N
 
 N A T I O N A L D E V E L O M E N T
+
+sufficient income, receive various services and goods which are essential for a wholesome life in society.
 
 housing fund - a house, an apartment or a totality of one or several rooms and auxiliary premises (for instance, corridors and lobbies) in a building intended for permanent living, regardless of whether they are or are not inhabited at a given time. This is used  as  a  generalized  measurement  for  statistical  or  other accounting purposes.
 
@@ -3186,7 +3114,7 @@ knowledge-based economy - economy whose development is  based  upon  the  use  o
 
 knowledge potential -  accumulated  knowledge  that  is  not being used.
 
-knowledge  society -  a  society  where  economic  process  is driven by information and knowledge. Its development is led by access  to  information  and  skills  to  manage  it,  by  timely  and gradual transfer of investment flow towards non-material values -  the  social  capital  of  the  society,  recognising  its vital  role  in process flow in economy.
+knowledge  society -  a  society  where  economic  process  is driven by information and knowledge. Its development is led by
 
 [[END OF PAGE 52]]
 
@@ -3197,6 +3125,8 @@ knowledge  society -  a  society  where  economic  process  is driven by informa
 P L A N
 
 N A T I O N A L D E V E L O M E N T
+
+access  to  information  and  skills  to  manage  it,  by  timely  and gradual transfer of investment flow towards non-material values -  the  social  capital  of  the  society,  recognising  its vital  role  in process flow in economy.
 
 knowledge  transmitter -  any  person  who  has  gradually accumulated knowledge and has created his own knowledge potential.
 
@@ -3212,7 +3142,7 @@ multicultural society - a society in which each minority group is an integral pa
 
 multi-modal - the linkage of various modes of transport in a unified system.
 
-natural resources - parts of the environment, including earth, soil, deposits in the earth, air, water, flora and fauna which have economic, social or cultural value. There are renewable and nonrenewable natural resources.
+natural resources - parts of the environment, including earth, soil, deposits in the earth, air, water, flora and fauna which have economic, social or cultural value. There are renewable and non-renewable natural resources.
 
 non-renewable resources - resources, such as minerals and fossils  fuels,  which  are  not  rapidly  renewable  or  replaceable once removed, e.g., coal, peat, oil, etc.
 
@@ -3232,7 +3162,7 @@ public  administration -  national  (central),  regional  or  local public insti
 
 reconstruction - rebuilding of an existent building complex for the needs of an already existing or a new function.
 
-recovery - cleaning-up and rehabilitation of a polluted area at least to such an extent that in the future there are no threats posed  to  human  health  or  the  environment  and  that  the respective area can be used for certain economic activities.
+recovery - cleaning-up and rehabilitation of a polluted area at
 
 [[END OF PAGE 53]]
 
@@ -3241,6 +3171,8 @@ recovery - cleaning-up and rehabilitation of a polluted area at least to such an
 54
 
 N A T I O N A L D E V E L O M E N T P L A N
+
+least to such an extent that in the future there are no threats posed  to  human  health  or  the  environment  and  that  the respective area can be used for certain economic activities.
 
 region -a territorial unit demarcated according to geographical, economic, political, cultural or other characteristics.
 
@@ -3283,7 +3215,7 @@ urbanisation - concentration of inhabitants and production in towns,  an  increa
 ### Abbreviations and acronyms
 
 CSB - Central Statistical Bureau
----
+
 EU - European Union
 ICT - information and communication technology
 GDP - gross domestic product
@@ -3306,18 +3238,18 @@ N A T I O N A L D E V E L O M E N T
 
 ## DRAFTING PROCESS
 
-The drafting of NDP commenced in the middle of 2004, when the Cabinet  of  Ministers  approved  'The  Procedure  for  Developing, Implementing, Monitoring and Public Discussing of the NDP'. The drafting  process  was  co-ordinated  by  the  Ministry  of  Regional Development and Local Governments and the National Council for Regional Development.
+The drafting of NDP commenced in the middle of 2004, when the Cabinet  of  Ministers  approved  “The  Procedure  for  Developing, Implementing, Monitoring and Public Discussing of the NDP”. The drafting  process  was  co-ordinated  by  the  Ministry  of  Regional Development and Local Governments and the National Council for Regional Development.
 
 Experts from line ministries and public authorities, scientists and representatives of higher educational establishments, representatives from planning regions and local governments, as well  as  social  partners,  non-governmental  organisations  and entrepreneurs  -  a  wide  range  of  specialists  from  all  over  Latvia participated in drafting the NDP.
 
 During  the  initial stage  of  drafting  the  plan  the  activities undertaken were an analysis of the present situation regarding the country's  socio-economic  development  and  a  SWOT  analysis (assessment of strengths, weaknesses, opportunities and threats) were  made  in  order  to  discover  the  country's  comparative advantages and unused opportunities.
 
-On  the  basis  of  the  results  of  the  analysis  and  the  conceptual document  approved  by  the  Saeima  of  the  Republic  of  Latvia 'National  Growth  Model:  People  First',  three  working  groups developed the strategy, and their attention was focused on three main aspects: human resources, economy, living environment. The determination of the NDP priorities and tasks to be solved was a very intense process.
+On  the  basis  of  the  results  of  the  analysis  and  the  conceptual document  approved  by  the  Saeima  of  the  Republic  of  Latvia “National  Growth  Model:  People  First”,  three  working  groups developed the strategy, and their attention was focused on three main aspects: human resources, economy, living environment. The determination of the NDP priorities and tasks to be solved was a very intense process.
 
-On February 28, 2006 the 1st edition of the NDP was published in the  newspaper  'Latvijas  Vestnesis',  and  then  two-months  long public discussions commenced.  To ensure access to the information and to involve wide range of public in open dialogue about  the  national  development,  in  co-operation  with  regional higher education establishments, local governments and development agencies there were organised 10 regional conferences. The specialists and interested persons had discussions on  the  website  www.politika.lv  about  the  education  and implementation  of  the  plan.  The  first  exhibition  'Regionall development in Latvia, 2006' in Kipsala was emotionally and by content very saturated final event of the NDP's public discussion.
+On February 28, 2006 the 1st edition of the NDP was published in the  newspaper  “Latvijas  Vestnesis”,  and  then  two-months  long public discussions commenced.  To ensure access to the information and to involve wide range of public in open dialogue about  the  national  development,  in  co-operation  with  regional higher education establishments, local governments and development agencies there were organised 10 regional conferences. The specialists and interested persons had discussions on  the  website  www.politika.lv  about  the  education  and implementation  of  the  plan.  The  first  exhibition  “Regionall development in Latvia, 2006” in Kipsala was emotionally and by content very saturated final event of the NDP's public discussion.
 
 In  general  the  public  discussions  were  successful  and  confirmed the high interest and support of public to the goals and objectives set  by  the  NDP.  The  received  recommendations  and  comments were  aggregated  and  evaluated  in  working  groups  during  the finalization of the final edition of NDP.
 
-On July 4, 2006 the Cabinet of Ministers of the Republic of Latvia approved  the  National  Development  Plan  of  Latvia  for  2007  2013, issuing Regulations No. 564.
+On July 4, 2006 the Cabinet of Ministers of the Republic of Latvia approved  the  National  Development  Plan  of  Latvia  for  2007 – 2013, issuing Regulations No. 564.
 
 [[END OF PAGE 56]]
