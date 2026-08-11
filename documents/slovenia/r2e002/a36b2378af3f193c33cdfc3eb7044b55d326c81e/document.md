@@ -1,10 +1,10 @@
 [[START OF PAGE 1]]
 
-<Title> Law on organization and financing of education  </Title>
-
-<META name="keywords" content=" SLO , ENL , T04">
+<Title> Law on organization and financing of education </Title>
 
 <META name="description" content=" ">
+
+<META name="keywords" content=" SLO , ENL , T04">
 
 <!--NOSEARCHSTART-->
 
@@ -22,21 +22,21 @@ This  Act  regulates  the  requirements  for  the  performance  of  educational 
 
 - preschool education,
 
-- education of children and youth with special needs,
-
 - primary education,
+
+- education of children and youth with special needs,
 
 - basic music education,
 
-- professional and technical secondary education,
-
 - lower and secondary vocational education,
+
+- professional and technical secondary education,
 
 - post-secondary vocational education,
 
-- adult education.
-
 - education in dormitories for pupils and secondary-school students, and
+
+- adult education.
 
 The  contents  and  procedures  for  the  adoption  of  education  programs  for  preschool children  and  their  funding  as  well  as  the  qualification  requirements  and  work load of educators shall be defined by law.
 
@@ -58,19 +58,19 @@ The education system in Slovenia shall aim at:
 
 - guaranteeing optimum development to individuals regardless of their sex, social and cultural background, religion, national origin and physical and mental handicaps;
 
-- educating for mutual tolerance, developing the awareness of the equality of rights for men and women, respect for human diversity and mutual cooperation, respect for children s and human rights and fundamental freedoms, and fostering equal opportunities for both sexes and thereby the capacity to live in a democratic society;
+- educating for mutual tolerance, developing the awareness of the equality of rights for men and women, respect for human diversity and mutual cooperation, respect for childrenís and human rights and fundamental freedoms, and fostering equal opportunities for both sexes and thereby the capacity to live in a democratic society;
 
 - developing language proficiency and skills as well as promoting the awareness of the position of the Slovene language as the language of the Slovene state, and--in ethnically mixed areas--fostering and developing the Italian and Hungarian languages in addition to Slovene;
 
-- fostering the awareness of individual s integrity;
+- fostering the awareness of individualís integrity;
 
-- developing the awareness of citizenship and national identity as well as the knowledge of Slovenia s history and culture;
+- developing the awareness of citizenship and national identity as well as the knowledge of Sloveniaís history and culture;
 
 - enabling participation in European integration processes;
 
-- offering education adapted to the level of development and the age of each individual;
-
 - promoting choice at all levels of education;
+
+- offering education adapted to the level of development and the age of each individual;
 
 - guaranteeing equal educational opportunities in regions with special developmental problems;
 
@@ -80,9 +80,9 @@ The education system in Slovenia shall aim at:
 
 - promoting lifelong learning;
 
-- enabling as large percentage of population as possible to obtain the highest possible level of education without lowering the level of difficulty;
-
 - enabling everybody to acquire a broad base of knowledge and obtain a qualification;
+
+- enabling as large percentage of population as possible to obtain the highest possible level of education without lowering the level of difficulty;
 
 - enabling as large percentage of population as possible to develop and achieve the highest possible level of creativity.
 
@@ -104,7 +104,7 @@ State administration can organize educational activities for its own needs in co
 
 ##### Article 5 (Performing the Activities)
 
-Educational  activities  shall  be  carried  out  by  preschool  teachers,  preschool  teacher  s assistants,  teachers,  post-secondary  vocational-college  lecturers,  counselors  and  other educators in public and private preschool institutions and schools.
+Educational activities shall be carried out by preschool teachers, preschool teacherísí assistants, teachers, post-secondary vocational-college lecturers, counselors and other educators in public and private preschool institutions and schools.
 
 Free-lance  teachers  can  carry  out  educational  activities  in  a  preschool  institution  or  a school or independently, unless otherwise stipulated by law.
 
@@ -164,15 +164,15 @@ State-approved programs are:
 
 - education programs,
 
-- adult education programs (hereinafter: education programs);
-
 - special education programs for children and youth with special needs,
+
+- adult education programs (hereinafter: education programs);
 
 - programs for preschool children,
 
-- programs carried out by dormitories for secondary-school students,
-
 - programs carried out by dormitories for pupils,
+
+- programs carried out by dormitories for secondary-school students,
 
 - special programs for preschool children with special needs,
 
@@ -222,9 +222,9 @@ The criteria for setting up the public network shall be defined by the Governmen
 
 - the number and age of children in a certain area,
 
-- the developmental specifics of an area.
-
 - the specific features of population distribution,
+
+- the developmental specifics of an area.
 
 During the criteria  adoption  procedure,  the  opinion  of  the  relevant  council  of  experts shall be obtained.
 
@@ -238,15 +238,15 @@ The general part includes:
 
 - the name of the program,
 
-- the duration of education,
-
 - educational objectives,
+
+- the duration of education,
 
 - the obligatory methods of knowledge assessment and grading,
 
-- requirements for passing a grade and completing the education.
-
 - admission criteria,
+
+- requirements for passing a grade and completing the education.
 
 The  general  part  of  vocational  education  and  training  programs  also  contains  the professional qualification obtained after a successfully completed education.
 
@@ -282,33 +282,33 @@ Programs for the care of children and youth with special needs shall include:
 
 - the name of the program,
 
-- methods of work.
-
 - educational objectives and principles,
+
+- methods of work.
 
 Special education programs for children and youth with special needs shall include:
 
 - the name of the program,
 
-- educational objectives and principles,
-
 - educational areas,
 
+- educational objectives and principles,
+
 - manners for passing a grade and completing the education,
+
+- methods of work, and
 
 - the duration of education.
 
 ##### Article 14 (Programs Carried Out by Dormitories for Pupils and Secondary-School Students)
 
-Programs  carried  out  by  dormitories  for  pupils  and  secondary-school  students  shall include:
+Programs carried out by dormitories for pupils and secondary-school students shall include:
 
 - the name of the program,
 
-- methods of work.
-
 - educational objectives, and
 
-- methods of work, and
+- methods of work.
 
 ##### Article 15 (Adoption of Programs)
 
@@ -324,7 +324,7 @@ Councils  of  experts  propose  the  general  and  establish  the  special  part
 
 Upon the request of the council of experts, the opinion of the national matura committee shall  be  obtained  before  the  special  part  of  the  education  program  for gymnasia is determined.
 
-Education programs offered by dormitories for pupils and secondary-school students-with the exception of private dormitories for pupils and secondary-school students--and programs for the care of children and youth with special needs and special education programs for children and youth with special needs shall be adopted by the Council of Experts of the Republic of Slovenia for General Education.
+Education programs offered by dormitories for pupils and secondary-school students--with the exception of private dormitories for pupils and secondary-school students--and programs for the care of children and youth with special needs and special education programs for children and youth with special needs shall be adopted by the Council of Experts of the Republic of Slovenia for General Education.
 
 ##### Article 16 (Selection of Providers)
 
@@ -340,17 +340,17 @@ The contents of and the adoption procedure for education programs of private sch
 
 Education programs of the preceding paragraph shall become state-approved when the councils  of  experts  in  charge  state  that  the  schools  meet  the  required  educational standard.
 
-Education  programs  carried  out  by  private  schools  operating  on  the  basis  of  special educational  principles  (Steiner,  Decroly,  Montessori  and  the  like)  shall  become  stateapproved when the respective council of experts states that they guarantee the minimum knowledge  leading  to  a  successful  completion  of  education  and  when  they  are recognized by a relevant international association of such schools.
+Education programs carried out by private schools operating on the basis of special educational principles (Steiner, Decroly, Montessori and the like) shall become state-approved when the respective council of experts states that they guarantee the minimum knowledge leading to a successful completion of education and when they are recognized by a relevant international association of such schools.
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-Notwithstanding the stipulations  of  Article  20  of  this  Act,  any  implementation  of  the education  program  of  the  preceding  paragraph  shall  be  trial  tested  during  the  whole period of the first generation s schooling.
+Notwithstanding the stipulations of Article 20 of this Act, any implementation of the education program of the preceding paragraph shall be trial tested during the whole period of the first generationís schooling.
 
 ##### Article 18 (Announcement)
 
-State-approved programs shall be publicly announced by the ministry having jurisdiction  over  education  at  least  six  months  before  their  beginning  or  the  preenrollment announcement, respectively.
+State-approved programs shall be publicly announced by the ministry having jurisdiction over education at least six months before their beginning or the pre-enrollment announcement, respectively.
 
 ##### Article 19 (Coordination Procedure)
 
@@ -426,19 +426,19 @@ The  Council  of  Experts  of  the  Republic  of  Slovenia  for  Vocational  and
 
 - five thereof shall be nominated by the ministry having jurisdiction over education;
 
-- four by trade unions.
-
 - five by the chambers in charge;
 
-At least one third of the members shall be educators in vocational, secondary and postsecondary vocational schools.
+- four by trade unions.
+
+At least one third of the members shall be educators in vocational, secondary and post-secondary vocational schools.
 
 The  Council  of  Experts  of  the  Republic  of  Slovenia  for  Adult  Education  shall  be composed  of  a  chairperson  and  fourteen  members.  They  shall  be  appointed  by  the Government from the ranks of well-established experts in the field of adult education, namely:
 
 - four thereof shall be nominated by ministries;
 
-- three by trade unions;
-
 - three by relevant chambers;
+
+- three by trade unions;
 
 - two by the association of public adult education institutions;
 
@@ -516,9 +516,9 @@ The  Council  of  Experts  of  the  Republic  of  Slovenia  for  Vocational  and
 
 - approve textbooks and teaching aids for theoretical technical subjects;
 
-- propose special education programs for children and youth with special needs;
-
 - propose vocational and technical education programs;
+
+- propose special education programs for children and youth with special needs;
 
 - propose criteria and standards for the equipment of schools and school shops;
 
@@ -526,7 +526,7 @@ The  Council  of  Experts  of  the  Republic  of  Slovenia  for  Vocational  and
 
 ##### Article 27 (Authority of the Council of Experts of the Republic of Slovenia for Adult Education)
 
-The Council of Experts of the Republic of Slovenia for Adult Education shall oversee and  evaluate  the  situation  and  development  of  adult  education  in  the  state  from  the standpoint  of  the  society  s  developmental  needs  and  possibilities  as  well  as  the standpoint of quality and possibility for its international comparison.
+The Council of Experts of the Republic of Slovenia for Adult Education shall oversee and evaluate the situation and development of adult education in the state from the standpoint of the societyís developmental needs and possibilities as well as the standpoint of quality and possibility for its international comparison.
 
 The Council of Experts shall also perform the following tasks:
 
@@ -548,7 +548,7 @@ The Council of Experts shall also perform the following tasks:
 
 Development and counseling in the field of education shall be performed by:
 
-- the  National  Education  Institute  for  the  field  of  preschool  education,  primary education, gymnasia ,  education  offered  by  dormitories  for  pupils  and  secondaryschool students, education of children with special needs, and for general-education subjects in vocational education and training;
+- the National Education Institute for the field of preschool education, primary education, gymnasia, education offered by dormitories for pupils and secondary-school students, education of children with special needs, and for general-education subjects in vocational education and training;
 
 - Institute  for  Vocational  Education  and  Training  for  the  field  of  vocational  and technical education;
 
@@ -574,13 +574,13 @@ The National Education Institute, Institute for Vocational Education and Trainin
 
 - monitor the experiments;
 
-- offer  consulting  services  to  preschool  institutions,  schools  and  adult  education institutions  carrying  out  state-approved  programs,  and  to  employers  taking  part  in vocational education and training;
+- offer consulting services to preschool institutions, schools and adult education institutions carrying out state-approved programs, and to employers taking part in vocational education and training;
 
 - organize continuing in-service training of educators and principals;
 
-- other tasks set forth by law and other regulations as well as their charters.
-
 - design the methodology for writing textbooks;
+
+- other tasks set forth by law and other regulations as well as their charters.
 
 The  tasks  of  the  State  Examination  Center  shall  be  determined  by  laws  and  other regulations  stipulating  the  external  assessment  of  knowledge  of  pupils,  apprentices, secondary-school students and adults. The  tasks of the Center for School  and Extracurricular Activities shall be determined by its charter.
 
@@ -591,21 +591,21 @@ To  make  decisions  on  administrative  matters  and  perform  the  tasks  conc
 
 - Celje School Board,
 
-- Kranj School Board,
-
 - Koper School Board,
+
+- Kranj School Board,
 
 - Brezice School Board,
 
-- Maribor School Board,
-
 - Ljubljana School Board,
+
+- Maribor School Board,
 
 - Murska Sobota School Board,
 
-- Novo mesto School Board,
-
 - Nova Gorica School Board,
+
+- Novo mesto School Board,
 
 [[END OF PAGE 14]]
 
@@ -613,9 +613,9 @@ To  make  decisions  on  administrative  matters  and  perform  the  tasks  conc
 
 - Postojna School Board,
 
-- Slovenj Gradec School Board,
-
 - Ptuj School Board,
+
+- Slovenj Gradec School Board,
 
 - Trbovlje School Board,
 
@@ -677,23 +677,23 @@ Preschool institutions and schools shall file applications for registry with loc
 
 Preschool institutions and schools shall be registered if they meet the requirements for carrying out educational activities and offer state-approved programs.
 
-The highest number of children, pupils, apprentices, secondary-school and vocationalcollege students attending or enrolled in a preschool institution or school based on the criteria and standards shall be determined by the registration statement.
+The highest number of children, pupils, apprentices, secondary-school and vocational-college students attending or enrolled in a preschool institution or school based on the criteria and standards shall be determined by the registration statement.
 
 The following shall be listed in the register:
 
-- name  or  logo  and  registered  office  of  the  founder,  or--if  the  founder  is  a  natural person--his first and family name, date and place of birth and permanent address;
+- name or logo and registered office of the founder, or--if the founder is a natural person--his first and family name, date and place of birth and permanent address;
 
 - name and headquarters of the preschool institution or school;
 
-- title of the program offered by the preschool institution or school,
-
 - number and date of the charter,
+
+- title of the program offered by the preschool institution or school,
 
 - approval of the program by the state;
 
-- date  of  the  entry  into  or  removal  from  and  the  reasons  for  the  removal  from  the register.
-
 - data of paragraph 4 of this Article;
+
+- date of the entry into or removal from and the reasons for the removal from the register.
 
 The form of the register and the procedure for entering the institutions into the register and removing them from it shall be determined by the minister.
 
@@ -711,6 +711,8 @@ A preschool institution or school shall be removed from the register if:
 
 - it no longer meets the requirements for registering;
 
+- it is dissolved.
+
 ##### Article 36 (Status of Free-lance Teachers)
 
 Individuals may carry out educational activities as free-lance educators if:
@@ -719,9 +721,9 @@ Individuals may carry out educational activities as free-lance educators if:
 
 - fluently speak the Slovene language;
 
-- are permanent residents of the Republic of Slovenia;
-
 - have not entered a contract of employment;
+
+- are permanent residents of the Republic of Slovenia;
 
 - have not been issued an effective order forbidding them to practice the profession;
 
@@ -731,13 +733,13 @@ Individuals may carry out educational activities as free-lance educators if:
 
 Individuals may provide the education of preschool children as free-lance educators if:
 
-- they meet the requirements set for preschool teachers, preschool teacher s assistants or counselors in public preschool institutions;
+- they meet the requirements set for preschool teachers, preschool teacherís assistants or counselors in public preschool institutions;
 
 - fluently speak the Slovene language;
 
-- are permanent residents of the Republic of Slovenia;
-
 - have not entered a contract of employment;
+
+- are permanent residents of the Republic of Slovenia;
 
 - have not been issued an effective order forbidding them to practice the profession;
 
@@ -749,15 +751,13 @@ Free-lance educators shall file applications for registry with local school boar
 
 Free-lance educators shall be registered if they meet the requirements for carrying out educational activities.
 
-- it is dissolved.
-
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
-Taking into account the criteria and standards, the registration statement shall determine the  highest  number  of  children,  secondary-school  and  vocational-college  students  and adults who may concurrently participate in the education program, carried out by a freelance  educator,  with  regard  to  the  area,  scope  and  manner  of  education  and  the requirements concerning the premises.
+Taking into account the criteria and standards, the registration statement shall determine the highest number of children, secondary-school and vocational-college students and adults who may concurrently participate in the education program, carried out by a free-lance educator, with regard to the area, scope and manner of education and the requirements concerning the premises.
 
-The following shall be listed in the register: applicant s first and family name; date and place of birth; permanent address; type and level of education; educational activity; seat for carrying out the activity; data of paragraph 3 of this Article; date of the entry into or removal from and the reasons for the removal from the register.
+The following shall be listed in the register: applicantís first and family name; date and place of birth; permanent address; type and level of education; educational activity; seat for carrying out the activity; data of paragraph 3 of this Article; date of the entry into or removal from and the reasons for the removal from the register.
 
 The form of the register and the procedure for entering the educators into the register and removing them from it shall be determined by the minister.
 
@@ -767,9 +767,9 @@ Free-lance school and preschool teachers shall be removed from the register if:
 
 - they no longer meet the requirements for registering;
 
-- they cease to carry out educational activities.
-
 - an effective order prohibiting them to practice the educational profession is issued;
+
+- they cease to carry out educational activities.
 
 ## IX. PRESCHOOL INSTITUTIONS AND SCHOOLS
 
@@ -843,7 +843,7 @@ Dislocated preschool institution units and settlement schools may be established
 
 ##### Article 46 (Council Members)
 
-The  council  of  a  public  preschool  institution,  school  and  music  school  shall  be composed  of  three  representatives  of  the  founder,  five  representatives  of  preschool institution s or school s staff and three representatives of parents.
+The council of a public preschool institution, school and music school shall be composed of three representatives of the founder, five representatives of preschool institutionís or schoolís staff and three representatives of parents.
 
 The  council  of  a  public  vocational  school, gymnasium and  public  dormitory  for secondary-school  students  shall  be  composed  of  three  representatives  of  the  founder, five  staff  representatives,  two  representatives  of  parents,  and  two  representatives  of apprentices or secondary-school students.
 
@@ -855,7 +855,7 @@ If  the  school  is  founded  by  the  state,  one  of  the  council  members,  
 
 Council members shall be appointed or elected for four years; they may be reappointed or re-elected for two consecutive terms at the most.
 
-The  term  of office of apprentices, secondary-school students, vocational-college students,  parents  and  adults  is  connected  with  their  status  of  apprentice,  secondaryschool student, vocational college student or adult in a public preschool institution or school, respectively.
+The term of office of apprentices, secondary-school students, vocational-college students, parents and adults is connected with their status of apprentice, secondary-school student, vocational college student or adult in a public preschool institution or school, respectively.
 
 [[END OF PAGE 20]]
 
@@ -875,25 +875,23 @@ Council chairperson shall be elected from the council members by the council.
 
 ##### Article 48 (Authority of the Council)
 
-Councils  of  public  preschool  institutions  and  schools  shall  appoint  and  remove  the principals of preschool institutions and schools, adopt preschool s or school development  program,  yearly  program  of  work  and  the  report  on  its  implementation, decide to introduce above-standard and other programs, discuss the reports on educational problems, make decisions on the complaints concerning the status of pupils, apprentices,  secondary-school  students,  vocational-college  students  and  adults,  the complaints concerning the rights, duties and responsibilities of staff resulting from their employment  contracts,  the  complaints  of  parents  concerning  preschool  s  or  school  s educational activities, and perform other tasks determined by law and the charter.
+Councils of public preschool institutions and schools shall appoint and remove the principals of preschool institutions and schools, adopt preschoolís or schoolís development program, yearly program of work and the report on its implementation, decide to introduce above-standard and other programs, discuss the reports on educational problems, make decisions on the complaints concerning the status of pupils, apprentices, secondary-school students, vocational-college students and adults, the complaints concerning the rights, duties and responsibilities of staff resulting from their employment contracts, the complaints of parents concerning preschoolís or schoolís educational activities, and perform other tasks determined by law and the charter.
 
 #### b) Principal
 
-##### Article 49 (Principal s Powers)
+##### Article 49 (Principalís Powers)
 
 Principal are academic  leaders  and  chief  executive  officers  of  public  preschool institutions or schools. Principals shall perform the following tasks:
 
 - organize, plan and manage the activities of preschool institutions or schools;
 
-- draft annual programs of work and be responsible for their execution;
-
 - prepare development programs of preschool institutions or schools;
 
-- be  responsible  for  the  implementation  of  the  rights  of  children  and  the  rights  and duties of pupils, apprentices, secondary-school students, vocational-college students and adults;
+- draft annual programs of work and be responsible for their execution;
+
+- be responsible for the implementation of the rights of children and the rights and duties of pupils, apprentices, secondary-school students, vocational-college students and adults;
 
 - manage the work of the faculty;
-
-s
 
 [[END OF PAGE 21]]
 
@@ -901,17 +899,17 @@ s
 
 - form proposals for above-standard programs;
 
-- organize mentoring for trainees;
-
 - encourage in-service education and training of educators;
 
-- oversee  the  educational  activities  of  preschool  and  school  teachers,  monitor  their work and provide advice;
+- organize mentoring for trainees;
+
+- oversee the educational activities of preschool and school teachers, monitor their work and provide advice;
 
 - make proposals for professional promotion;
 
-- oversee the work of school counselors;
-
 - decide on promotion to a higher range of a wage bracket;
+
+- oversee the work of school counselors;
 
 - promote the cooperation between the institution and parents (meetings with parents, parent-teacher interviews, and other forms of cooperation);
 
@@ -919,19 +917,19 @@ s
 
 - foster and oversee the work of the student body;
 
-- represent and act on behalf of preschool institutions or schools and shall be accountable for performing the work within the bounds of the law;
-
 - decide upon educational measures;
+
+- represent and act on behalf of preschool institutions or schools and shall be accountable for performing the work within the bounds of the law;
 
 - establish job classifications;
 
-- take care of the cooperation between schools and their medical services;
-
 - employ personnel and make decisions concerning their liability;
+
+- take care of the cooperation between schools and their medical services;
 
 - perform other tasks according to the law and other regulations.
 
-If  a  public  preschool  institution  or  school  is  formed  as  an  organizational  unit,  the principal shall act as the unit s academic leader.
+If a public preschool institution or school is formed as an organizational unit, the principal shall act as the unitís academic leader.
 
 Principals may delegate in writing the authority to perform certain tasks and to act for them  in  their  absence  to  subordinate  employees  of  public  preschool  institutions  or schools.
 
@@ -973,11 +971,11 @@ A person can be appointed principal of a public preschool institution if he/she 
 
 A person can be appointed principal of a public school if he/she meets the requirements stipulated for teachers or counselors at the school recruiting the principal, has at least five-year  work  experience  in  education,  has  the  title  of  councilor  or  adviser  or  has possessed the title of mentor for at least five years, and has passed the examination for principals.
 
-Principals  shall  be  appointed  and  removed  by  the  councils  of  public  preschool institutions or schools. The  council  shall obtain the minister s approval  of the appointment or removal.
+Principals shall be appointed and removed by the councils of public preschool institutions or schools. The council shall obtain the ministerís approval of the appointment or removal.
 
 Principals shall be appointed for four years.
 
-Prior  to  the  appointment  or  removal  of  principals,  the  councils  of  public  preschool institutions or schools shall obtain the opinion of the institution s faculty and the local community where the seat of the institution is located; if a public preschool institution or school is founded by a national minority, the minority s opinion is also required.
+Prior to the appointment or removal of principals, the councils of public preschool institutions or schools shall obtain the opinion of the institutionís faculty and the local community where the seat of the institution is located; if a public preschool institution or school is founded by a national minority, the minorityís opinion is also required.
 
 The faculty shall cast the vote on the opinion by secret ballot.
 
@@ -989,7 +987,7 @@ If the body or the community of paragraph 5 of this Article does not submit its 
 
 ##### Article 54 (Appointment of Acting Principals)
 
-If  the  principal  s  office  is  prematurely  terminated  or  if  no  applicant  is  appointed,  the council  of  a  public  preschool  institution  or  school  shall  appoint  one  of  the  educators employed by the public preschool institution or school or one of the applicants as acting principal. The term of appointment shall be one year at the longest.
+If the principalís office is prematurely terminated or if no applicant is appointed, the council of a public preschool institution or school shall appoint one of the educators employed by the public preschool institution or school or one of the applicants as acting principal. The term of appointment shall be one year at the longest.
 
 If the principal or acting principal is not appointed within 60 days after the vacation of office, the acting principal shall be appointed by the minister within 8 days at the latest.
 
@@ -997,9 +995,9 @@ In cases mentioned in the preceding paragraph, the council shall immediately ini
 
 ##### Article 55 (Appointment of Directors)
 
-A person can be appointed director, if he/she has a higher education degree, at least fiveyear work experience, and has passed the examination for principals.
+A person can be appointed director, if he/she has a higher education degree, at least five-year work experience, and has passed the examination for principals.
 
-Directors shall be appointed and removed by the councils of institutions. The minister s approval of the appointment or removal shall be obtained.
+Directors shall be appointed and removed by the councils of institutions. The ministerís approval of the appointment or removal shall be obtained.
 
 Directors shall be appointed for four years. If the principal of one of the organizational units acts as director, the charter may provide for a shorter term of office, but not less than two years.
 
@@ -1043,9 +1041,9 @@ Academic bodies in public schools shall be:
 
 - assembly of teachers,
 
-- homeroom teacher,
-
 - teaching staff of individual classes,
+
+- homeroom teacher,
 
 - professional working groups.
 
@@ -1053,9 +1051,9 @@ Academic bodies of post-secondary vocational colleges shall be:
 
 - faculty assembly,
 
-- study committees.
-
 - professional working groups,
+
+- study committees.
 
 If a public preschool institution or school is an organizational unit, the academic bodies of the preceding paragraph shall be established within the unit.
 
@@ -1069,17 +1067,17 @@ Assemblies of preschool teachers, teachers or faculty shall be composed of the e
 
 Assemblies of preschool teachers, teachers or faculty, respectively, shall:
 
-- discuss and decide on professional matters concerning  education;
-
-- propose above-standard and other programs;
+- discuss and decide on professional matters concerning education;
 
 - form opinions on annual programs of work;
+
+- propose above-standard and other programs;
 
 - decide on the update of education programs and their provision in compliance with law;
 
 - issue opinions on the appointment of principals and assistant principals;
 
-- make proposals for the promotion of educators and give the opinion on principal s proposals;
+- make proposals for the promotion of educators and give the opinion on principalís proposals;
 
 - decide on educational measures;
 
@@ -1099,9 +1097,9 @@ Homeroom teachers shall administer the work of the teaching staff of individual 
 
 Professional working groups of preschool institutions shall be composed of preschool teachers and their assistants. Professional working groups in schools shall be composed of teachers of the same subject or subject area.
 
-Professional working groups in preschool institutions shall discuss educational activities,  make  proposals  for  the  improvement  of  education  to  the  assembly  of preschool teachers, discuss parents  comments, and perform other professional tasks set forth by the annual program of work.
+Professional working groups in preschool institutions shall discuss educational activities, make proposals for the improvement of education to the assembly of preschool teachers, discuss parentsí comments, and perform other professional tasks set forth by the annual program of work.
 
-Professional  working  groups  in  schools  shall  discuss  problems  concerning  individual subjects  and  subject  areas,  coordinate  the  criteria  for  the  assessment  of  knowledge, make proposals to the assembly of teachers for the improvement of education and study, discuss the comments of parents, pupils, apprentices, secondary-school and vocationalcollege students, and perform other tasks set forth by the annual program of work.
+Professional working groups in schools shall discuss problems concerning individual subjects and subject areas, coordinate the criteria for the assessment of knowledge, make proposals to the assembly of teachers for the improvement of education and study, discuss the comments of parents, pupils, apprentices, secondary-school and vocational-college students, and perform other tasks set forth by the annual program of work.
 
 ##### Article 65
 
@@ -1119,7 +1117,7 @@ Study  committees  shall  discuss  matters  concerning  admission,  transfer  of
 
 ##### Article 66 (Council of Parents)
 
-Councils  of  parents  shall  be  formed  in  public  preschool  institutions  or  schools  to implement parents  interests in an organized manner.
+Councils of parents shall be formed in public preschool institutions or schools to implement parentsí interests in an organized manner.
 
 Councils of parents shall be composed of one representative from each class elected by the parents at their meetings.
 
@@ -1129,15 +1127,15 @@ Councils of parents shall:
 
 - propose above-standard programs;
 
-- issue  opinions  on  proposed  development  programs  for  preschool  institutions  or schools and annual programs of work;
+- approve principalís proposals for above-standard services;
 
-- approve principal s proposals for above-standard services;
+- issue opinions on proposed development programs for preschool institutions or schools and annual programs of work;
 
-- discuss principal s reports on educational problems;
+- discuss principalís reports on educational problems;
+
+- discuss parentsí complaints concerning education;
 
 - elect their representatives to councils of preschool institutions or schools;
-
-- discuss parents  complaints concerning education;
 
 - perform other tasks in compliance with law and other regulations.
 
@@ -1169,7 +1167,7 @@ Libraries can have special collections of textbooks.
 
 Public primary schools must have collections of textbooks. Their administration shall be determined by the minister.
 
-Pupils, apprentices and secondary-school students who cannot pay the fee for borrowing textbooks  from  the  school  s  textbook  collection  because  of  their  difficult  economic situation shall receive  a subsidy  from  the  state  in accordance  with  the  criteria determined by the minister.
+Pupils, apprentices and secondary-school students who cannot pay the fee for borrowing textbooks from the schoolís textbook collection because of their difficult economic situation shall receive a subsidy from the state in accordance with the criteria determined by the minister.
 
 ### 5. Names of Preschool Institutions and Schools
 
@@ -1177,7 +1175,7 @@ Pupils, apprentices and secondary-school students who cannot pay the fee for bor
 
 The name of preschool institutions or schools--with the exception of those cofounded by national minorities in accordance with paragraph 4 of Article 41--shall be in the Slovene language.
 
-Foreign names of persons, forming part of a preschool institution s or school s name, shall be written according to the Slovene orthography or the orthography of the Italian or Hungarian languages, respectively, when a preschool institution or school cofounded by a  national  minority  in  accordance  with  paragraph  4  of  Article  41  of  this  Act  is concerned.
+Foreign names of persons, forming part of a preschool institutionís or schoolís name, shall be written according to the Slovene orthography or the orthography of the Italian or Hungarian languages, respectively, when a preschool institution or school cofounded by a national minority in accordance with paragraph 4 of Article 41 of this Act is concerned.
 
 The name of a private preschool institution or school shall contain the data required by the law and in addition to that denote that it is a private preschool institution or school.
 
@@ -1217,9 +1215,9 @@ Religious activities of the preceding paragraph of this Article shall include:
 
 Upon the proposal of a principal, the minister can exceptionally permit Bible study or religious  education  to  take  place  in  a  public  preschool  institution  or  school  or  a preschool institution or school with a concession outside class and after regular hours, if there are no other premises suitable for such activity in that local community.
 
-Authorized  state  officials--with  the  exception  of  inspectorates  and  the  state  auditing agency--need the principal s permission to perform their duty in a preschool institution or school.
+Authorized state officials--with the exception of inspectorates and the state auditing agency--need the principalís permission to perform their duty in a preschool institution or school.
 
-An  official  may  enter  the  premises  of  a  preschool  institution  or  school  without  the principal s permission if so authorized by law or a court decree or if that is unavoidable in order to make an arrest or protect people and property.
+An official may enter the premises of a preschool institution or school without the principalís permission if so authorized by law or a court decree or if that is unavoidable in order to make an arrest or protect people and property.
 
 ## XII. PUBLIC SERVICE ON THE BASIS OF A CONCESSION
 
@@ -1249,9 +1247,9 @@ The concession agreement shall regulate in more detail primarily:
 
 - the subject of the concession,
 
-- the beginning of the concession,
-
 - the scope of activities,
+
+- the beginning of the concession,
 
 - the term for terminating the concession,
 
@@ -1285,19 +1283,19 @@ Education shall be financed from:
 
 - public revenues;
 
-- contributions of business associations and chambers;
+- founderís resources;
 
-- founder s resources;
+- contributions of business associations and chambers;
 
 - direct contributions of employers for practical training;
 
-- fees paid by pupils, apprentices, secondary-school  students, vocational-college students, and adults;
+- fees paid by pupils, apprentices, secondary-school students, vocational-college students, and adults;
 
 - tuition fees for private schools;
 
-- revenues from the sale of goods and services;
-
 - tuition for preschool education;
+
+- revenues from the sale of goods and services;
 
 - donations, sponsorship, and other sources.
 
@@ -1328,19 +1326,19 @@ Criteria for the allocation of surplus of income over expenses in private school
 
 The state budget shall provide funding for the salaries--including payroll deductions and taxes and other personal income--of actually employed staff according to job classifications,  law,  criteria,  standards,  and  collective  agreements  as  well  as  for  the salaries--including payroll deductions and taxes and other personal income--of teacher trainees:
 
-- in primary schools for the compulsory program; remedial and additional classes; half an  hour  of  other  forms  of  individual  and  group  assistance  per  class;  two  hours  of extracurricular activities per class; outdoor instruction; the after-school care of firstto-fourth-grade  pupils;  at  least  50%  of  funds  for  after-school  care  of  pupils  in  the fifth and sixth grades; and for the early-morning care of first graders;
+- in primary schools for the compulsory program; remedial and additional classes; half an hour of other forms of individual and group assistance per class; two hours of extracurricular activities per class; outdoor instruction; the after-school care of first-to-fourth-grade pupils; at least 50% of funds for after-school care of pupils in the fifth and sixth grades; and for the early-morning care of first graders;
 
 - in music schools for basic music education programs;
 
-- in dormitories for pupils and secondary-school students for educational activities;
-
 - in schools and institutions for children with special needs, except for health services;
+
+- in dormitories for pupils and secondary-school students for educational activities;
 
 - in vocational and secondary technical and professional schools;
 
-- in post-secondary vocational colleges.
+- in gymnasia;
 
-- in gymnasia ;
+- in post-secondary vocational colleges.
 
 Medical  personnel  shall  be  funded  in  compliance  with  the  laws  and  regulations determining financing in the field of health and medical care.
 
@@ -1348,17 +1346,17 @@ The state budget shall provide funding for operating expenses in compliance with
 
 - educational institutions for children with special needs;
 
-- vocational and secondary technical and professional schools;
-
 - dormitories for pupils and secondary-school students for educational activities;
 
-- gymnasia ;
+- vocational and secondary technical and professional schools;
+
+- gymnasia;
 
 - post-secondary vocational colleges.
 
 The  state  budget  shall  also  provide  funding  for  certain  costs  in  compliance  with  the standards for primary education of the first line of paragraph 1 of this Article, namely:
 
-- remuneration of employees  expenses in accordance with the collective agreement;
+- remuneration of employeesí expenses in accordance with the collective agreement;
 
 [[END OF PAGE 32]]
 
@@ -1366,9 +1364,9 @@ The  state  budget  shall  also  provide  funding  for  certain  costs  in  comp
 
 - procurement of teaching materials and aids defined as small items;
 
-- costs of compulsory field trips;
-
 - material needed for the preparation of classes and teaching;
+
+- costs of compulsory field trips;
 
 - care for children with special needs according to special placement decisions.
 
@@ -1390,21 +1388,21 @@ The  state  budget  shall  also  provide  the  following  funding  for  activiti
 
 - development of vocational education of apprentices;
 
-- research,  development  and  experimental  activities,  continuing  education  and  inservice  training  of  educators,  information  and  documentary  services,  and  museumrelated activities;
-
 - program of the Youth Office of the Republic of Slovenia;
+
+- research, development and experimental activities, continuing education and in-service training of educators, information and documentary services, and museum-related activities;
 
 - professional conferences and associations;
 
-- school for principals;
-
 - development of educational technology;
+
+- school for principals;
 
 - Slovene language teaching of children of migrant Slovene workers abroad;
 
 - employment and training of trainees, international cooperation, school libraries and media resources and textbook collections;
 
-- competitions  of pupils, apprentices,  secondary-school  students  and  vocationalcollege students, and for special work with the talented;
+- competitions of pupils, apprentices, secondary-school students and vocational-college students, and for special work with the talented;
 
 - scholarships for initial teacher training and tuition subsidies;
 
@@ -1412,9 +1410,9 @@ The  state  budget  shall  also  provide  the  following  funding  for  activiti
 
 - Prize of the Republic of Slovenia in the field of education;
 
-- development and counseling in education;
-
 - school TV and radio programs;
+
+- development and counseling in education;
 
 - extracurricular activities of pupils, apprentices and secondary-school students;
 
@@ -1426,9 +1424,9 @@ The  state  budget  shall  also  provide  the  following  funding  for  activiti
 
 - part of resources for primary education of Romanies;
 
-- support to the education of Slovene nationals living abroad;
-
 - international cooperation;
+
+- support to the education of Slovene nationals living abroad;
 
 - operation of the councils of experts;
 
@@ -1450,9 +1448,9 @@ In  compliance  with  the  criteria  and  standards,  local  community  budgets 
 
 - the maintenance of facilities and equipment of public primary and music schools;
 
-- investments in primary schools, music schools and adult education organizations, and part of investments in schools of national minorities.
-
 - the additional activities of primary schools;
+
+- investments in primary schools, music schools and adult education organizations, and part of investments in schools of national minorities.
 
 If  a  public gymnasium is  founded  by  a  municipality,  the  municipality  shall  provide funding for investments, maintenance and part of operating expenses in accordance with the contract.
 
@@ -1482,9 +1480,9 @@ Special criteria and standards shall be determined for education:
 
 - in regions with special developmental problems;
 
-- of Romany children;
-
 - in ethnically mixed regions;
+
+- of Romany children;
 
 - of children and  youth  with  special needs: specially  organized  preschool  and education  programs,  special  education  programs,  and  special  care  and  education programs.
 
@@ -1548,9 +1546,9 @@ The  state  shall  guarantee  the  completion  of  education  to  children  atte
 
 ##### Article 92 (Employees)
 
-Educational and other professional activities in public preschool institutions and schools shall be performed  by  preschool  teachers,  preschool  teacher s assistants, school teachers,  vocational-college  lecturers,  counselors,  librarians,  and  other  educators  who cooperate  with  them  in  performing  professional  tasks  required  for  smooth  running  of preschool institutions and schools (hereinafter: educators).
+Educational and other professional activities in public preschool institutions and schools shall be performed by preschool teachers, preschool teacherís assistants, school teachers, vocational-college lecturers, counselors, librarians, and other educators who cooperate with them in performing professional tasks required for smooth running of preschool institutions and schools (hereinafter: educators).
 
-Educators  shall  carry  out  educational  activities  in  compliance  with  law  and  stateapproved  programs  in  the  manner  guaranteeing  objectivity,  critical  approach  and plurality; they shall enjoy professional autonomy in exercising their profession.
+Educators shall carry out educational activities in compliance with law and state-approved programs in the manner guaranteeing objectivity, critical approach and plurality; they shall enjoy professional autonomy in exercising their profession.
 
 Educators must posses the fluent knowledge of Standard Slovene, proper qualifications stipulated  by  this  Act  and  other  regulations,  and  a  teaching  certificate  taken  in compliance with this Act.
 
@@ -1608,9 +1606,9 @@ Vocational-college  lecturers  shall  posses  at  least  an  undergraduate  univ
 
 [[START OF PAGE 39]]
 
-Instructors of practical training and skills shall posses at least a secondary-school degree in  the  appropriate  field,  three-year  work  experience  and  pedagogical  qualifications  or master craftsman s certification.
+Instructors of practical training and skills shall posses at least a secondary-school degree in the appropriate field, three-year work experience and pedagogical qualifications or master craftsmanís certification.
 
-Master craftsmen shall pass a master craftsman s certification examination complying with the law.
+Master craftsmen shall pass a master craftsmanís certification examination complying with the law.
 
 Counselors  shall  posses  a  suitable  undergraduate  university  degree  and  pedagogical qualifications.
 
@@ -1672,7 +1670,7 @@ Librarians  shall  posses  undergraduate  university  degrees  in  the  appropri
 
 ##### Article 100 (Pedagogical Qualifications Required for the Teaching of Children, Adults and Children with Special Needs)
 
-Pedagogical  qualifications  required  for  the  teaching  of  children,  adults,  and  children with special needs shall be obtained by the completion of studies in a university study program leading to the degree of a  professor , or some other undergraduate or graduate program containing suitable professional courses. The Council for Higher Education of the  Republic  of  Slovenia  shall  define  the  criteria  to  be  used  when  assessing  whether study programs contain such courses or not.
+Pedagogical qualifications required for the teaching of children, adults, and children with special needs shall be obtained by the completion of studies in a university study program leading to the degree of a ìprofessorî, or some other undergraduate or graduate program containing suitable professional courses. The Council for Higher Education of the Republic of Slovenia shall define the criteria to be used when assessing whether study programs contain such courses or not.
 
 Individuals who complete studies in university programs not containing courses giving pedagogical  qualifications  required  for  the  teaching  of  children,  adults,  and  children with special needs shall obtain such qualifications in state-approved credential programs.
 
@@ -1714,9 +1712,9 @@ Records of successfully completed teaching certification examinations shall be k
 
 - first and family name of the candidate,
 
-- data on education completed,
-
 - date, place and municipality of birth,
+
+- data on education completed,
 
 - data on the certification examination completed.
 
@@ -1726,7 +1724,7 @@ Documents needed for the certification examination shall be returned to the cand
 
 (Private Preschool Institutions and Schools)
 
-Requirements stipulated for educators in public preschool institutions and schools shall also  be  met  by  educators  in  private  preschool  institutions  and  schools  offering  stateapproved programs.
+Requirements stipulated for educators in public preschool institutions and schools shall also be met by educators in private preschool institutions and schools offering state-approved programs.
 
 The stipulation of the preceding paragraph does not apply to preschool institutions and schools  offering  programs  for  preschool  children  and  education  programs  based  on special educational principles.
 
@@ -1738,13 +1736,13 @@ The stipulation of the preceding paragraph does not apply to preschool instituti
 
 Educators in preschool institutions and schools shall take part in continuing education and training.
 
-Preschool teachers, teachers, organizers of education, counselors and librarians can be promoted  by  being  awarded  the  title  of  a    mentor  ,    adviser    or--if  they  posses  a university degree-- councilor .
+Preschool teachers, teachers, organizers of education, counselors and librarians can be promoted by being awarded the title of a ìmentorî, ìadviserî or--if they posses a university degree--îcouncilorî.
 
 The  conditions  for  promotion  of  paragraph  2  of  this  Article  shall  also  apply  to  the promotion of principals, directors, assistant principals and vocational-college lecturers.
 
 Requirements,  manners  and  procedures  for  continuing  education  and  training  and promotion shall be determined by the minister.
 
-The title of  vocational-college lecturer  shall be awarded by the faculties of respective vocational colleges; if  the  faculty  is  not  yet  constituted,  they  shall  be  awarded  by  the Council of Experts of the Republic of Slovenia for Vocational and Technical Education.
+The title of ìvocational-college lecturerî shall be awarded by the faculties of respective vocational colleges; if the faculty is not yet constituted, they shall be awarded by the Council of Experts of the Republic of Slovenia for Vocational and Technical Education.
 
 The procedure for the award of titles of the preceding paragraph shall be determined by the minister.
 
@@ -1758,7 +1756,7 @@ The Government of the Republic of Slovenia shall establish a school for principa
 
 The program of the school for principals  and the contents of the examination for the certification  of  principals  shall  be  determined  by  the  minister  upon  a  proposal  by  the Council of the Republic of Slovenia for General Education.
 
-A graduate study program approved by the Council of the Experts of the Republic of Slovenia for General Education as a program supplying the knowledge required for the certification  of  principals  may  be  recognized  as  an  equivalent  of  the  principal  s certification examination.
+A graduate study program approved by the Council of the Experts of the Republic of Slovenia for General Education as a program supplying the knowledge required for the certification of principals may be recognized as an equivalent of the principalís certification examination.
 
 Once a year, the school for principals shall advertise the pre-enrollment procedure and determine the terms for the certification examination of principals.
 
@@ -1770,17 +1768,17 @@ The pre-enrollment and enrollment procedure shall be determined by the minister.
 
 ##### Article 107 (Regulations)
 
-Employment relationships, employees  participation in management and administration, and the rights of employees in preschool institutions and schools shall be regulated in compliance with law and collective agreements, unless otherwise stipulated by this Act.
+Employment relationships, employeesí participation in management and administration, and the rights of employees in preschool institutions and schools shall be regulated in compliance with law and collective agreements, unless otherwise stipulated by this Act.
 
 ##### Article 108 (Job Classification)
 
-Vacant positions of educators and other employees in public preschool institutions and schools shall be advertised on the basis of job classifications. Job classifications shall be determined on the basis of the criteria and standards by school principals in agreement with the school board of the school s domicile and by preschool principals in agreement with the institution s founder, respectively.
+Vacant positions of educators and other employees in public preschool institutions and schools shall be advertised on the basis of job classifications. Job classifications shall be determined on the basis of the criteria and standards by school principals in agreement with the school board of the schoolís domicile and by preschool principals in agreement with the institutionís founder, respectively.
 
 ##### Article 109 (Employment Procedure)
 
 Public preschool institutions shall obtain the consent of the founder and public schools the consent of the minister before they advertise a vacant position.
 
-Before advertising a vacancy, a public preschool institution shall notify the ministry in charge of preschool education that there is a vacant educator s position.
+Before advertising a vacancy, a public preschool institution shall notify the ministry in charge of preschool education that there is a vacant educatorís position.
 
 If a redundant educator from the records of redundant educators meets the requirements for the vacancy, a preschool institution can employ such an educator without advertising the vacant position.
 
@@ -1802,7 +1800,7 @@ The traineeship shall last at least six but not longer than ten months.
 
 During  the  traineeship  period,  trainees  shall  cooperate  with  educators  in  educational work and study for the certification examination.
 
-Trainee s activities shall be managed, overseen and evaluated by a mentor.
+Traineeís activities shall be managed, overseen and evaluated by a mentor.
 
 Mentors shall be assigned by principals; mentors can be educators who perform the job for which the trainee is being trained and have the title of a councilor or adviser or have had the title of mentor for at least three years.
 
@@ -1830,9 +1828,9 @@ The  ministry  in  charge  of  education  shall  keep  records  of  applicants  
 
 - first and family name,
 
-- address,
-
 - sex and birth data,
+
+- address,
 
 - data on education.
 
@@ -1840,9 +1838,9 @@ The following shall also be kept for trainees assigned to a position:
 
 - data on the preschool institution or school to which they are assigned,
 
-- education and title of the mentor.
-
 - first and family name of the mentor,
+
+- education and title of the mentor.
 
 ##### Article 113 (Employment of Trainees)
 
@@ -1864,9 +1862,9 @@ Within eight days after the decision to dismiss an educator permanently or for a
 
 - first and family name,
 
-- work experience,
-
 - education,
+
+- work experience,
 
 - teaching certification, and
 
@@ -1878,7 +1876,7 @@ Within eight days after the decision to dismiss an educator permanently or for a
 
 [[START OF PAGE 46]]
 
-The  ministry  in  charge  of  education  shall  send  the  list  of  preschool  institutions  and schools  with  vacant  positions,  the  requirements  for  which  are  met  by  the  redundant educator,  to  the  educator  s  preschool  institution  or  school  within  eight  days  after  the notification of the preceding Article at the latest.
+The ministry in charge of education shall send the list of preschool institutions and schools with vacant positions, the requirements for which are met by the redundant educator, to the educatorís preschool institution or school within eight days after the notification of the preceding Article at the latest.
 
 If  the ministry in charge of education does not send the data in the statutory term, the preschool  institution  or  school  shall  proceed  with  the  procedure  for  redundancies  in compliance with law.
 
@@ -1906,15 +1904,15 @@ Other work includes:
 
 - cooperation with parents;
 
-- activities of homeroom teachers;
-
 - participation in professional bodies of the school;
+
+- activities of homeroom teachers;
 
 - organized continuing education and training;
 
-- tutoring of pupils, apprentices, secondary-school and vocational-college students and cooperation with schools and institutions offering education to professionals;
-
 - collection and processing of data concerning educational and other activities;
+
+- tutoring of pupils, apprentices, secondary-school and vocational-college students and cooperation with schools and institutions offering education to professionals;
 
 - mentorship to trainees;
 
@@ -1946,15 +1944,15 @@ In  compliance  with  the  law  and  collective  agreement  regulating  the  ful
 
 - 20 periods at the most for the teachers of general and special theoretical subjects;
 
-- 19 periods at the most for the teachers of the Hungarian and Italian languages;
-
 - 19 periods at the most for the teachers of the Slovene language;
+
+- 19 periods at the most for the teachers of the Hungarian and Italian languages;
 
 - 16 periods at the most for vocational-college lecturers;
 
-- 30 periods at the most for educators who teach or participate in teaching.
-
 - 25 periods at the most for instructors of practical training and skills;
+
+- 30 periods at the most for educators who teach or participate in teaching.
 
 #### c) Gymnasia
 
@@ -1964,9 +1962,9 @@ In  compliance  with  the  law  and  collective  agreement  regulating  the  ful
 
 - 20 periods at the most for the teachers of general and special theoretical subjects;
 
-- 19 periods at the most for the teachers of the Hungarian and Italian languages;
-
 - 19 periods at the most for the teachers of the Slovene language;
+
+- 19 periods at the most for the teachers of the Hungarian and Italian languages;
 
 - 25 periods at the most for instructors of practical training and skills;
 
@@ -2008,7 +2006,7 @@ Employees of public preschool institutions and schools are entitled to time off 
 
 Local governments and the state may create trusts for the management of real property owned by the public at large and used for education-related purposes.
 
-Property  held  in  trust  of  the  preceding  paragraph  shall  be  part  of  the  state  s  or  local governments  property balance.
+Property held in trust of the preceding paragraph shall be part of the stateís or local governmentsí property balance.
 
 [[END OF PAGE 48]]
 
@@ -2050,13 +2048,23 @@ The  director  of  the  Trust  shall  be  appointed  by  the  minister  on  the 
 
 [[START OF PAGE 50]]
 
+(Investment Program)
+
+The Board of Trustees shall propose a program of investments, maintenance and sales for a period of at least five years (hereinafter: investment program).
+
+Every year by the beginning of September at the latest, the Board of Trustees shall propose a yearly plan for the implementation of the program of the preceding paragraph in the next year (hereinafter: yearly plan).
+
+The investment program and yearly plan shall be adopted by the minister.
+
+##### Article 132 (Resources)
+
 The Trust shall receive funding:
 
 - from the state budget,
 
-- from endowments, legacies, donations, and
-
 - from rent for the property leased,
+
+- from endowments, legacies, donations, and
 
 - other sources.
 
@@ -2080,16 +2088,6 @@ Revenues from the lease and sale of property transferred to the Trust shall be u
 
 If the revenues of the preceding Article exceed the needed resources anticipated in the investment program and yearly plan, they may be used for education-related purposes determined by the state budget.
 
-(Investment Program)
-
-The Board of Trustees shall propose a program of investments, maintenance and sales for a period of at least five years (hereinafter: investment program).
-
-Every  year  by  the  beginning  of  September  at  the  latest,  the  Board  of  Trustees  shall propose a yearly plan for the implementation of the program of the preceding paragraph in the next year (hereinafter: yearly plan).
-
-The investment program and yearly plan shall be adopted by the minister.
-
-##### Article 132 (Resources)
-
 ##### Article 135
 
 [[END OF PAGE 50]]
@@ -2102,7 +2100,7 @@ A schools may create a School Trust to finance the activities of individual clas
 
 The Trust of the preceding paragraph shall derive revenues from fees charged to parents, donations, legacies, and other sources.
 
-The  School  Trust  shall  be  administered  by  a  Board  of  Trustees  consisting  of  a chairperson  and  six  members,  at  least  three  of  which  shall  be  representatives  of  the school.  The  Board  of  Trustees  shall  be  appointed  by  the  council  of  parents.  School  s representatives shall be nominated by the school council.
+The School Trust shall be administered by a Board of Trustees consisting of a chairperson and six members, at least three of which shall be representatives of the school. The Board of Trustees shall be appointed by the council of parents. School's representatives shall be nominated by the school council.
 
 The Board of Trustees may adopt rules governing the operation of the Trust.
 
@@ -2124,7 +2122,7 @@ The chief executive officer of the entity found guilty of violations of the firs
 
 Till  the  adoption  of  education  programs  in  compliance  with  this  Act  and  acts  for individual fields of education, funding shall be provided for education programs carried out by public schools and schools with a concession as follows:
 
-- In primary education:
+1. In primary education:
 
 - programs of life and work of primary schools including the implementation of special rights of the Italian and Hungarian national minorities in compliance with law;
 
@@ -2140,15 +2138,15 @@ Till  the  adoption  of  education  programs  in  compliance  with  this  Act  a
 
 - primary school programs for adult learners.
 
-- In secondary education:
+2. In secondary education:
 
 - secondary education programs including the implementation of special rights of the Italian and Hungarian national minorities in compliance with law;
 
 - education programs for youth with special needs in compliance with law;
 
-- the matura examinations.
-
 - basic education programs in dormitories for secondary-school students;
+
+- the matura examinations.
 
 Resources for the following shall also be provided from the state budget:
 
@@ -2156,41 +2154,41 @@ a) activities needed for the development and efficient provision of education, s
 
 - research and development and experiments;
 
-- international cooperation;
-
 - continuing education and in-service training of educators;
+
+- international cooperation;
 
 - school libraries;
 
-- academic competitions of pupils, apprentices, and secondary-school students.
-
 - activities of information and documentation systems;
+
+- academic competitions of pupils, apprentices, and secondary-school students.
 
 b) and the resources for:
 
 - scholarships for education studies;
 
-- preparation of textbooks and educational technology;
-
 - youth magazines and professional journals;
+
+- preparation of textbooks and educational technology;
 
 - subsidies for textbooks with limited-editions;
 
-- school TV and radio programs;
-
 - Prize of the Republic of Slovenia in the field of education;
 
-- construction  and  maintenance  of  facilities  and  procurement  and  maintenance  of equipment;
+- school TV and radio programs;
+
+- construction and maintenance of facilities and procurement and maintenance of equipment;
 
 - organization and study of adult education;
 
-- disability insurance of secondary-school students;
-
 - approved adult education programs;
+
+- disability insurance of secondary-school students;
 
 - subsidies for the transportation of pupils, apprentices, and secondary-school students; and
 
-- subsidies  for  the  activities  of  associations  of  pupils,  apprentices  and  secondaryschool students.
+- subsidies for the activities of associations of pupils, apprentices and secondary-school students.
 
 ##### Article 138 (Funding of Private Schools)
 
@@ -2230,7 +2228,7 @@ The minister shall pass the delegated legislation pertaining to this Act within 
 
 ##### Article 143 (School for Principals)
 
-Principals who shall have completed the school for principals prior to entry into force of this  Act  shall  be  deemed  to  have  passed  the  principal  s  certification  examination  in compliance with this Act.
+Principals who shall have completed the school for principals prior to entry into force of this Act shall be deemed to have passed the principal's certification examination in compliance with this Act.
 
 [[END OF PAGE 53]]
 
@@ -2240,7 +2238,7 @@ Principals who shall have completed the school for principals prior to entry int
 
 Notwithstanding  the  stipulations  of  paragraphs  1  and  2  of  Article  53  of  this  Act, individuals  not  fulfilling  the  requirements  concerning  the  qualifications,  title  and certification may be appointed as principals prior to September 1, 2000.
 
-Individuals  appointed  principals  in  compliance  with  the  preceding  paragraph  shall obtain the required qualification and title by September 1, 2002, at the latest and shall pass the principal s certification examination within two years after their appointment at the latest.
+Individuals appointed principals in compliance with the preceding paragraph shall obtain the required qualification and title by September 1, 2002, at the latest and shall pass the principal's certification examination within two years after their appointment at the latest.
 
 Principals  not  fulfilling  the  requirements  in  the  time  stipulated  by  the  preceding paragraph shall be removed from office by virtue of law.
 
@@ -2284,7 +2282,7 @@ It  shall  be  considered  that  teachers,  counselors  and  other  educators  w
 
 Educators employed as trainees on the day of entry into force of this Act shall complete their traineeship and  pass the certification examination  in compliance  with  the regulations in force prior to the day of entry into force of this Act.
 
-Preschool teacher s assistants employed in preschool institutions on the day of entry into force of this Act need not take the certification examination stipulated by this Act.
+Preschool teacher's assistants employed in preschool institutions on the day of entry into force of this Act need not take the certification examination stipulated by this Act.
 
 ##### Article 151
 
@@ -2324,25 +2322,25 @@ In the fiscal year 1995, the stipulations of the Organization and Financing of E
 
 Prior to the enactment of the delegated legislation stipulated by this Act, the delegated legislation  in  force  prior  to  entry  into  force  of  this  Act--with  the  exception  of  the stipulations contrary to this Act--shall apply:
 
-- Regulation  on  the  Accreditation  Procedure  of  Educational  Institutions  and  the Contents  and  Manner  of  Keeping  the  Register  of  Educational  Institutions  (Official Gazette of the Socialist Republic of Slovenia No. 5/81);
+1. Regulation on the Accreditation Procedure of Educational Institutions and the Contents and Manner of Keeping the Register of Educational Institutions (Official Gazette of the Socialist Republic of Slovenia No. 5/81);
 
-- Regulations  on  the  Requirements  for  Carrying  Out  Educational  Activities  as  an Individual (Official Gazette of the Socialist Republic of Slovenia No. 22/90);
+2. Regulations on the Requirements for Carrying Out Educational Activities as an Individual (Official Gazette of the Socialist Republic of Slovenia No. 22/90);
 
-- Regulations  on  Textbooks (Official Gazette of the Republic of Slovenia No. 15/93 and 18/93);
+3. Regulations on Textbooks (Official Gazette of the Republic of Slovenia No. 15/93 and 18/93);
 
 [[END OF PAGE 56]]
 
 [[START OF PAGE 57]]
 
-- Regulations  on  Traineeship  and  Certification  Examinations  in  Education  (Official Gazette of the Socialist Republic of Slovenia No. 20/80);
+4. Regulations on Traineeship and Certification Examinations in Education (Official Gazette of the Socialist Republic of Slovenia No. 20/80);
 
-- Regulations  on  the  Award  of  Titles  to  the  Employees  of  Primary  and  Secondary Schools (Official Gazette of the Republic of Slovenia No. 41/94);
+5. Regulations on the Award of Titles to the Employees of Primary and Secondary Schools (Official Gazette of the Republic of Slovenia No. 41/94);
 
-- Decision on Criteria and Standards for Carrying out Educational Activities in Primary Schools, Music Schools and Dormitories for Pupils (Official Gazette of the Republic of Slovenia No. 4/92);
+6. Decision on Criteria and Standards for Carrying out Educational Activities in Primary Schools, Music Schools and Dormitories for Pupils (Official Gazette of the Republic of Slovenia No. 4/92);
 
-- Decision  on  Criteria  and  Standards  for  Carrying  out  Educational  Activities  in Institutions  for  the  Education  of  Children  and  Youth  with  Special  Needs  (Official Gazette of the Republic of Slovenia No. 4/92);
+7. Decision on Criteria and Standards for Carrying out Educational Activities in Institutions for the Education of Children and Youth with Special Needs (Official Gazette of the Republic of Slovenia No. 4/92);
 
-- Decision  on  Criteria  and  Standards  for  Carrying  out  Educational  Activities  in Secondary  Schools  (Official  Gazette  of  the  Republic  of  Slovenia  No.  4/92,  7/92  and 33/95).
+8. Decision on Criteria and Standards for Carrying out Educational Activities in Secondary Schools (Official Gazette of the Republic of Slovenia No. 4/92, 7/92 and 33/95).
 
 ##### Article 157
 
@@ -2350,17 +2348,20 @@ Prior to the enactment of the delegated legislation stipulated by this Act, the 
 
 On the day of entry into force of this Act, the following Acts shall cease to apply:
 
-- Act  on  Free  Exchange  of  Labor  in  the  Field  of  Education  (Official  Gazette  of  the Socialist  Republic  of  Slovenia  No.  1/80,  25/89,  32/89  and  Official  Gazette  of  the Republic of Slovenia No. 12/91-I);
+1. Act on Free Exchange of Labor in the Field of Education (Official Gazette of the Socialist Republic of Slovenia No. 1/80, 25/89, 32/89 and Official Gazette of the Republic of Slovenia No. 12/91-I);
 
-- Organization  and  Financing  of  Education  Act  (Official  Gazette  of  the  Republic  of Slovenia No. 12/91-I )--save for the stipulations of Articles 61 and 64.
+2. Organization and Financing of Education Act (Official Gazette of the Republic of Slovenia No. 12/91-I)--save for the stipulations of Articles 61 and 64.
 
 ##### Article 158 (Entry into Force)
 
 This Act shall enter into force on the fifteenth day after its publication in the Official Gazette of the Republic of Slovenia.
 
-Number: 411-01/90-16/12 Ljubljana, February 6, 1996
+Number: 411-01/90-16/12
+Ljubljana, February 6, 1996
 
-President of the National Assembly of the Republic of Slovenia Jozef Skolc
+President of the
+National Assembly of the Republic of Slovenia
+Jožef Školč
 
 <!--NOSEARCHEND-->
 
