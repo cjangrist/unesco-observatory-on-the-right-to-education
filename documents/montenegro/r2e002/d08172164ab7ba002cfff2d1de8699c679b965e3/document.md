@@ -94,7 +94,7 @@ Education of children with special needs is financed from the Budget of the Repu
 
 Individual terms in this law have the following meaning:
 
-- adjusted  implementation  of  curriculum  understands  full  inclusion  of  children  with  special  needs    in educational groups in preschool institutions, classrooms in ordinary schools, with adjusted implementation of curriculum and rendering of additional professional assisance by kindergarten-teachers or teachers, respectively with special engagement of a professional person, togeher with kindergarten-teacher or teacher, and partcipation of parent. Work with small groups or the individual work of especially trained kindergartenteachers and teachers with children that have special needs is possible ;
+- adjusted  implementation  of  curriculum  understands  full  inclusion  of  children  with  special  needs    in educational groups in preschool institutions, classrooms in ordinary schools, with adjusted implementation of curriculum and rendering of additional professional assisance by kindergarten-teachers or teachers, respectively with special engagement of a professional person, togeher with kindergarten-teacher or teacher, and partcipation of parent. Work with small groups or the individual work of especially trained kindergarten-teachers and teachers with children that have special needs is possible ;
 
 - habilitation is a system of measures  and procedures used for qualifying of children with innate disability or disability that occured in the earliest age, aimed at better functioning for day  needs of life;
 
@@ -110,7 +110,7 @@ Individual terms in this law have the following meaning:
 
 [[START OF PAGE 3]]
 
-6)  mobile  service  understands  engagement  of  professionals  aimed  at  support  to  teachers,  kindergartenteachers and parents in the process of elaboraton and implementation of individual educational programmes and other professional assistance to children with special needs.
+6)  mobile  service  understands  engagement  of  professionals  aimed  at  support  to  teachers,  kindergarten-teachers and parents in the process of elaboraton and implementation of individual educational programmes and other professional assistance to children with special needs.
 
 ## II ORGANISATION OF EDUCATIONAL WORK
 
