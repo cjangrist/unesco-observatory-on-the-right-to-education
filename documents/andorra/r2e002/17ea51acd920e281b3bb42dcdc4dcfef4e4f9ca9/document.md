@@ -20,7 +20,7 @@ Ministre d'Educació, Cultura, Joventut i Esports
 
 Vist que en data 6 d'abril del 2005, el Govern va aprovar la Comissió Nacional de la Infància (CNI) per tal de vetllar per la correcta aplicació i seguiment d'aquest Protocol;
 
-En data 5 de maig del 2005, el Govern aprova la publicació íntegra en el Butlletí Oficial de Principat d'Andorra del Proto(PACIP) i de la declaració anomenada Preàmbul, amb la finalitat de donar la màxima divulgació, a la població en general i als professionals que intervenen en l'àmbit de la infància.
+En data 5 de maig del 2005, el Govern aprova la publicació íntegra en el Butlletí Oficial de Principat d'Andorra del Protocol d'actuació en casos d'infants en perill (PACIP) i de la declaració anomenada Preàmbul, amb la finalitat de donar la màxima divulgació, a la població en general i als professionals que intervenen en l'àmbit de la infància.
 
 Cosa que es fa pública per a coneixement general.
 
@@ -32,25 +32,15 @@ Marc Forné Molné Cap de Govern
 
 ## Índex
 
-- Preàmbul
-
-- Introducció
-
-- Metodologia
-
-- Definició i tipologia dels maltractaments
-
-- Principis generals i rectors d'actuació
-
-- Funcions i circuits segons el nivell
-
-- d'intervenció
-
-- Comissió de seguiment
-
-- Recomanacions i propostes
-
-- Annex
+1. Preàmbul
+2. Introducció
+3. Metodologia
+4. Definició i tipologia dels maltractaments
+5. Principis generals i rectors d'actuació
+6. Funcions i circuits segons el nivell d'intervenció
+7. Comissió de seguiment
+8. Recomanacions i propostes
+9. Annex
 
 ## 1. Preàmbul
 
@@ -74,7 +64,7 @@ Segons l'apartat 40 de les recomanacions sobre els drets de l'infant dirigides a
 
 ' Avaluï el funcionament de les estructures existents i formi els professionals que es dediquen a aquesta mena de casos '.
 
-' Investigui de forma efectiva els casos de violència domèstica, maltractament i abús, incloent-hi l'abús sexual, dins la família, a través d'una investigació i un procés judicial que siguin sensibles amb l'infant per garantir una protecció millor de les víctimes infantils, incloenthi la protecció del dret a la intimitat .'
+“Investigui de forma efectiva els casos de violència domèstica, maltractament i abús, incloent-hi l'abús sexual, dins la família, a través d'una investigació i un procés judicial que siguin sensibles amb l'infant per garantir una protecció millor de les víctimes infantils, incloent-hi la protecció del dret a la intimitat.”
 
 ' Prohibeixi la pràctica del càstig corporal en la família i dugui a terme campanyes d'informació destinades, entre altres, a pares, infants, funcionaris encarregats del compliment de la llei, funcionaris judicials i professors, en què s'expliquin els drets de l'infant en aquest aspecte i fomenti l'ús de formes alternatives de disciplina, d'una forma conseqüent, en la dignitat humana de l'infant i de conformitat amb el conveni, especialment amb els articles 19 i 28.2 .'
 
@@ -106,7 +96,7 @@ Per tots els motius exposats, els membres implicats en l'elaboració del Protoco
 
 ## 2. Introducció
 
-L'ésser humà, és un dels pocs éssers que requereix les atencions i les cures dels seus progenitors fins a una edat avançada, i necessita de forma més perllongada en el temps, de l'aprenentatge i l'acompanyament dels progenitors per tal d'anar adaptant els coneixements d'aquests fins a convertirse en una persona autònoma i independent, contràriament a altres éssers.
+L'ésser humà, és un dels pocs éssers que requereix les atencions i les cures dels seus progenitors fins a una edat avançada, i necessita de forma més perllongada en el temps, de l'aprenentatge i l'acompanyament dels progenitors per tal d'anar adaptant els coneixements d'aquests fins a convertir-se en una persona autònoma i independent, contràriament a altres éssers.
 
 Així, els infants són persones especialment vulnerables que cal protegir davant de qualsevol situació de perill. Cal tenir present la responsabilitat compartida i ineludible de la societat i dels progenitors davant el benestar i la protecció a la infància.
 
@@ -252,7 +242,7 @@ Maltractament físic: Qualsevol acció no accidental que provoca en l'infant dan
 
 Maltractament per negligència i abandonament: Qualsevol situació en la qual les necessitats bàsiques de l'infant (alimentació, higiene, atenció mèdica, educació, vigilància, seguretat, etc.) no són ateses, ja sigui de manera temporal, ja sigui de manera permanent, per cap dels membres del grup amb qui conviu.
 
-Maltractament prenatal: Aquelles situacions en què la dona en estat de gest a c i ó omet, per raons diverses (conductes adictives, etc.), les atencions que el seu estat requereix, amb risc de perjudicar el fetus.
+Maltractament prenatal: Aquelles situacions en què la dona en estat de gestació omet, per raons diverses (conductes adictives, etc.), les atencions que el seu estat requereix, amb risc de perjudicar el fetus.
 
 Maltractament psicològic o emocional: Aquelles situacions en què, mitjançant actuacions o privacions, es provoquen sentiments negatius vers la pròpia autoestima de l'infant, alhora que limiten el seu procés de creixement i socialització (menyspreu continuat, refús verbal, insult, intimidació discriminació, etc.).
 
@@ -260,7 +250,7 @@ Maltractament sexual: Aquella situació en la qual un infant és utilitzat a tra
 
 Abandonament emocional: Aquella situació en què l'infant no rep l'afecte, l'estimulació, el suport i la protecció necessaris en cada estadi de la seva evolució i que inhibeix el seu correcte desenvolupament. Existeix una falta de resposta a les expressions emocionals de l'infant o als seus intents d'aproximació o d'interacció.
 
-Submissió quimicofarmacèutica o síndrome de Münchausen per poders: Aquelles situacions en què l'infant és sotmès a qualsevol tipus de droga, sense necessitat mèdica, que l'incapacita per al desenvolupament de l'autonomia, la resistència o el control; pot ser causat per l'anomenada 'síndrome de Münchausen per poders', que es dóna quan per trastorn psíquic dels pares o persones que en tenen cura, se simulen malalties a l'infant, se'l sotmet a contínues exploracions mèdiques o a i ngressos hospitalaris, al·legant símptomes ficticis.
+Submissió quimicofarmacèutica o síndrome de Münchausen per poders: Aquelles situacions en què l'infant és sotmès a qualsevol tipus de droga, sense necessitat mèdica, que l'incapacita per al desenvolupament de l'autonomia, la resistència o el control; pot ser causat per l'anomenada “síndrome de Münchausen per poders”, que es dóna quan per trastorn psíquic dels pares o persones que en tenen cura, se simulen malalties a l'infant, se'l sotmet a contínues exploracions mèdiques o a ingressos hospitalaris, al·legant símptomes ficticis.
 
 Maltractament institucional: Qualsevol norma jurídica, procediment, actuació o omissió procedent dels poders públics o bé derivada de l'actuació individual del professional, relacionada directament o indirectament amb el món de l'infant, que pot generar situacions, per acció i/o omissió, que impedeixin i/o perjudiquin el desenvolupament de l'infant.
 
@@ -408,7 +398,7 @@ B. Certitud o evidència raonables de maltractament
 
 S'han establert quatre circuits d'intervenció (Batllia, Ministeri Fiscal, Policia, Àrea d'Atenció Social Primària del Ministeri de Salut i Benestar), tenint en compte el nivell de resposta necessari i l'àmbit o els professionals que intervindran.
 
-En qualsevol dels dos supòsits i sempre que es notifica una possible situació de perill als diferents professionals, la primera actuació a realitzar és valorar la situació i estudi concret en què ens trobem, pertal de determinar la gravetat del perill i si aquest perill és imminent o no .
+En qualsevol dels dos supòsits i sempre que es notifica una possible situació de perill als diferents professionals, la primera actuació a realitzar és valorar la situació i estudi concret en què ens trobem, per tal de determinar la gravetat del perill i si aquest perill és imminent o no.
 
 Per realitzar aquesta primera valoració, cal tenir en compte altres factors com:
 
@@ -440,6 +430,10 @@ Tot i que les denúncies es poden presentar a altres institucions o organismes, 
 
 Poden existir altres receptors de denúncies que no intervindran, però que faran la corresponent derivació, amb valoració prèvia de la situació, als professionals pertinents.
 
+DETECCIÓ D'UNA SITUACIÓ DE PERILL VERS UN INFANT
+(Per part de qualsevol persona, institució i/o organisme)
+DENÚNCIA DE LA SITUACIÓ A LES INSTITUCIONS
+
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
@@ -454,7 +448,22 @@ Al llarg del procés d'elaboració d'aquest protocol, s'ha treballat amb la idea
 
 En els nivells I i II poden intervenir el Ministeri Fiscal, la Batllia i el Servei de Policia, mentre que en un nivell III intervenen els professionals de l'Àrea d'Atenció Social Primària del Ministeri de Salut i Benestar.
 
+DENÚNCIA DE LA SITUACIÓ A LES INSTITUCIONS
+NIVELL I i II
+NIVELL III
+
 Atesa la diversitat d'institucions que poden rebre denúncies relacionades amb situacions de perill vers els infants, s'ha acordat establir els circuits d'acord al nivell de resposta, en funció de la urgència i segons els professionals que intervenen.
+
+DETECCIÓ D'UNA SITUACIÓ DE PERILL VERS UN INFANT
+(Per part de qualsevol persona, institució i/o organisme)
+DENÚNCIA DE LA SITUACIÓ A LES INSTITUCIONS
+NIVELL I i II
+POLICIA
+BATLLIA
+M. FISCAL
+NIVELL III
+M. SALUT I BENESTAR
+DERIVACIÓ
 
 [[END OF PAGE 7]]
 
@@ -470,7 +479,7 @@ Butlletí Oficial del Principat d'Andorra
 
 ##### Ministeri Fiscal
 
-L'actuació s'inicia a través d'una denúncia, d'una demanda de Batllia o d' ofici.
+L'actuació s'inicia a través d'una denúncia, d'una demanda de Batllia o d'ofici.
 
 Dins dels circuits, exerceix diferents funcions segons l'àmbit d'aplicació: àmbit civil o penal. L'elecció d'un o l'altre dependrà de la situació de perill en què es trobi immers l'infant, o de les lleis que calgui aplicar segons la situació concreta, ja que es poden donar lleis d'àmbit penal o lleis d'ordre civil.
 
@@ -566,7 +575,7 @@ Demanar informes complementaris per tal de dur a terme un diagnòstic més acura
 
 Proposar a la Batllia, si es considera oportú, la mesura de protecció adaptada a les necessitats de l'infant.
 
-En els casos en què no hi ha hagut intervenció de la Batllia, davant l'evolució f a v orable de l a situació sociofamiliar del menor, la Comissió pot proposar arxivar l'expedient.
+En els casos en què no hi ha hagut intervenció de la Batllia, davant l'evolució favorable de la situació sociofamiliar del menor, la Comissió pot proposar arxivar l'expedient.
 
 En els casos de famílies sobre les quals, s'ha incidit sense obtenir cap resultat positiu, es notificarà la situació a la Comissió Tècnica d'Atenció al Menor, la qual sol·licitarà i proposarà a la Batllia, les mesures de protecció corresponents.
 
@@ -588,29 +597,33 @@ Butlletí Oficial del Principat d'Andorra
 
 #### Denúncia que arriba a l'Àrea d'Atenció Social Primària
 
-- Per tal d'agilitar el procés d'intervenció es prioritza realitzar la denuncia al Servei de Policia donat que tenen la funció de realitzar la investigació
+(1) Per tal d'agilitar el procés d'intervenció es prioritza realitzar la denuncia al Servei de Policia donat que tenen la funció de realitzar la investigació
+(2) Veure circuit del Servei de Policia
+(3) Veure Circuit de la Batllia i de la Fiscalia
 
-- Veure circuit del Servei de Policia
-
-- Veure Circuit de la Batllia i de la Fiscalia
-
-B44B65B6eBfaB6eB63B69B61
-
-B71B75B65
-
-B61B72
-
-B69B62B61
-
-B61
-
-B6cB61
-
-B42B61B74B6c B69B61
-
-B69
-
-B46B69B73B63B61B6cB69B61
+DENÚNCIA QUE ARRIBA PER PART D'UNA INSTITUCIÓ O PARTICULAR
+ÀREA D'ATENCIÓ SOCIAL PRIMÀRIA
+NIVELL I - II (1)
+SERVEI DE POLICIA (2)
+BATLLIA
+FISCALIA (3)
+NIVELL III
+TRACTAMENT SOCIAL
+EVOLUCIÓ FAVORABLE
+NO ES CONSTATA PERILL
+TANCAMENT
+EVOLUCIÓ NO FAVORABLE
+PROPOSTA D'ESTABLIR UN NOU PLA DE TREBALL
+EVOLUCIÓ FAVORABLE
+NO ES CONSTATA PERILL
+TANCAMENT
+EVOLUCIÓ NO FAVORABLE.
+PLA DE TREBALL
+PROPOSTA DE MESURA DE PROTECCIÓ:
+Seguiment del nucli familiar
+Acolliment en família extensa
+Acolliment en família
+BATLLIA - FISCALIA
 
 [[END OF PAGE 10]]
 
@@ -624,7 +637,26 @@ Núm. 41 - any 17 - 11.5.2005
 
 #### Denúncia que arriba a la Batllia i Fiscalia
 
-(1) Veurecircuit de l'Àrea d'Atenció Social Primària (MSB)
+(1) Veure circuit de l'Àrea d'Atenció Social Primària (MSB)
+
+DENÚNCIA QUE ARRIBA PER PART D'UNA INSTITUCIÓ O PARTICULAR
+BATLLIA - FISCALIA
+NIVELL I - II
+SERVEI DE POLICIA
+INVESTIGACIÓ
+METGE FORENSE
+VALORACIÓ
+BATLLIA – FISCALIA
+APLICACIÓ DE LLEIS D'ÀMBIT PENAL O CIVIL
+MESURA DE PROTECCIÓ:
+Seguiment en el nucli familiar
+Acolliment en família extensa
+Acolliment en família aliena
+Ingrés al CAI
+Adopció
+NIVELL III (1)
+ÀREA D'ATENCIÓ SOCIAL PRIMÀRIA
+TRACTAMENT SOCIAL
 
 [[END OF PAGE 11]]
 
@@ -638,13 +670,26 @@ Butlletí Oficial del Principat d'Andorra
 
 #### Denúncia que arriba al Servei de Policia
 
-- No es detecta situació de perill ni es constata cap maltracte.
+(1) No es detecta situació de perill ni es constata cap maltracte.
+(2) Es detecta problemàtica de tipus social que requereix de tractament social. Es derivarà a l'Àrea d'Atenció Social Primària. Veure circuit AASP.
+(3) El Servei de policia té capacitat per decidir l'ingrés d'un menor al CAI quan es valori mesura de protecció amb caràcter d'urgència. Mesura que serà comunicada a Batllia.
+(4) Derivació directa a l'AASP.
 
-- Es detecta problemàtica de tipus social que requereix de tractament social. Es derivarà a l'Àrea d'Atenció Social Primària. Veure circuit AASP.
-
-- El Servei de policia té capacitat per decidir l'ingrés d'un menor al CAI quan es valori mesura de protecció amb caràcter d'urgència. Mesura que serà comunicada a Batllia.
-
-- Derivació directa a l'AASP.
+DENÚNCIA QUE ARRIBA PER PART D'UNA INSTITUCIÓ O PARTICULAR
+SERVEI DE POLICIA
+NIVELL I-II
+NIVELL III (4)
+INVESTIGACIÓ
+ARXIU (1)
+INDICIS DE MALTRACTE FÍSIC / PSICOLÒGIC
+INDICIS DE MALTRACTE SEXUAL
+MESURA DE PROTECCIÓ
+INGRÉS URGENT CAI (3)
+METGE FORENSE
+BATLLIA-FISCALIA
+APLICACIÓ DE LLEIS D'ÀMBIT CIVIL O PENAL
+ÀREA D'ATENCIÓ SOCIAL PRIMÀRIA (2)
+TRACTAMENT SOCIAL
 
 [[END OF PAGE 12]]
 
@@ -660,7 +705,7 @@ Núm. 41 - any 17 - 11.5.2005
 
 Els participants en el grup de treball de la primera fase seran els encarregats de dur a terme el seguiment del protocol. S'ha previst la participació d'un representant de cada ministeri, institució i/o organisme que ha intervingut a la primera fase.
 
-Amb aquesta Comissió de seguiment es pretén valorar l' aplicació correcta així comla validesa en el treball diari del protocol, aportant-hi, si escau, les modificacions necessàries, per tal d'adaptar-lo a la realitat del país i a les necessitats que puguin anar sorgint.
+Amb aquesta Comissió de seguiment es pretén valorar l'aplicació correcta així com la validesa en el treball diari del protocol, aportant-hi, si escau, les modificacions necessàries, per tal d'adaptar-lo a la realitat del país i a les necessitats que puguin anar sorgint.
 
 Es preveu fer dues reunions anuals de seguiment.
 
@@ -706,7 +751,7 @@ Cal practicar una sola vegada les proves pericials, amb els perits designats pel
 
 En el judici:
 
-Cal evitar l'enfrontament entre l'agressor i l'infant, preservar la intimitat de l'infant celebrant el judici a portes tancades i, en cas que es consideri convenient per l ' i n t e r è s de l ' i n f a n t , garantir-li la protecció visual davant de l'agressor.
+Cal evitar l'enfrontament entre l'agressor i l'infant, preservar la intimitat de l'infant celebrant el judici a portes tancades i, en cas que es consideri convenient per l'interès de l'infant, garantir-li la protecció visual davant de l'agressor.
 
 Fer els judicis a primera hora del matí, evitant a l'infant temps d'espera, i si és possible, que sigui el primer a declarar.
 
@@ -729,11 +774,10 @@ A l'hora d'avaluar s'ha de tenir en compte els indicadors de recursos, tant del 
 
 Tipus d'indicadors
 
-- De risc: Dades que concerneixen el risc de maltracte efectivament patit per l'infant.
-
+1. De risc: Dades que concerneixen el risc de maltracte efectivament patit per l'infant.
 2. De recursos: competències de l'infant o de la família que és poden activar per modificar o resoldre el perill que amenaça l'infant.
 
-- Factors associats:
+B. Factors associats:
 
 Circumstancies generals que poden influir a l'hora d'avaluar els maltractes o perill encorreguts per l'infant.
 
@@ -741,21 +785,18 @@ Circumstancies generals que poden influir a l'hora d'avaluar els maltractes o pe
 
 ##### A.1.1. Signes físics
 
-- Presencia d'hematomes i contusions sospitoses
-
-- Presencia de cremades sospitoses
-
-- Presencia de marques, ferides i alopècia traumàtica.
-
-- Retràs del desenvolupament psicomotriu important
-
-- Hipotrofia estaturo -ponderal
-
-- Raquitisme, anèmia, enanisme social
-
-- Infants amb aspecte descuidat manca d'higiene personal no portar la roba adequada mal estat de la pell i del cabell
-
-8. Menors amb mancances a nivell d'alimentació ( s'observa que no realitzen els àpats necessaris, roben menjar...) 9. Menors amb problemes de salut no tractats
+1. Presencia d'hematomes i contusions sospitoses
+2. Presencia de cremades sospitoses
+3. Presencia de marques, ferides i alopècia traumàtica.
+4. Retràs del desenvolupament psicomotriu important
+5. Hipotrofia estaturo -ponderal
+6. Raquitisme, anèmia, enanisme social
+7. Infants amb aspecte descuidat
+manca d'higiene personal
+no portar la roba adequada
+mal estat de la pell i del cabell
+8. Menors amb mancances a nivell d'alimentació ( s'observa que no realitzen els àpats necessaris, roben menjar...)
+9. Menors amb problemes de salut no tractats
 
 [[END OF PAGE 13]]
 
@@ -767,199 +808,122 @@ Butlletí Oficial del Principat d'Andorra
 
 2271
 
-- Antecedents d'hospitalització sospitoses
-
-- Retràs en la demanda de cures
-
-- Demanda de cures excessives
+10. Antecedents d'hospitalització sospitoses
+11. Retràs en la demanda de cures
+12. Demanda de cures excessives
 
 ##### A.1.2. Trastorns de comportament
 
 L'infant maltractat pot presentar 2 formes de comportament oposades
 
-- Tristesa
+a) Tristesa
+13. Passivitat
+14. Inhibició
+15. Depressió
+16. Tancament en si mateix
+17. Menor amb molta submissió
+18. Inseguretat
+19. Baix nivell d'auto-estima
+20. Pors brusques i incontrolables dels adults
+21. Regressions
 
-- Passivitat
-
-- Inhibició
-
-- Depressió
-
-- Tancament en si mateix
-
-- Menor amb molta submissió
-
-- Inseguretat
-
-- Baix nivell d'auto-estima
-
-- Pors brusques i incontrolables dels adults
-
-- Regressions
-
-- Agitació
-
-- Inestabilitat psico-motriu
-
-- Agressivitat dirigida a altres infants
-
-- Agressivitat dirigida a si mateix (autolesions)
-
-- Menors sovint subjectes a accidents (por ser degut a infants incapaços de construir-se límits o bé infants que tenen accidents per manca de vigilància)
-
-- Canvi recent i brusc de comportament
-
-- Afeccions psico-somàtiques diverses (en pre-adolescents o adolescents)
-
-- Trastorns de la són
+b) Agitació
+22. Inestabilitat psico-motriu
+23. Agressivitat dirigida a altres infants
+24. Agressivitat dirigida a si mateix (autolesions)
+25. Menors sovint subjectes a accidents (por ser degut a infants incapaços de construir-se límits o bé infants que tenen accidents per manca de vigilància)
+26. Canvi recent i brusc de comportament
+27. Afeccions psico-somàtiques diverses (en pre-adolescents o adolescents)
+28. Trastorns de la són
 
 ##### A.1.3. Indicadors que es detecten dins l'àmbit escolar
 
-- Absentisme
-
-- Irregularitat d'horaris
-
-- Desmotivació escolar
-
-- Interès desmesurat per la escola
-
-- Fracàs escolar
-
-- Menors que no volen fer esport si
-
-- és tenen que canviar
-
-- Menors amb un pudor excessiu
-
-- Menors amb tendència a l'exhibicionisme
-
-- Menors que no participen a sortides i activitats de l'escola
-
-- Menors amb cansament crònic
-
-(nens que solen adormir-se a classe) 39. Menors amb problemes de concentració i d'atenció importants
-
-- Menors difícils que provoquen i/o pertorben la classe
-
-- Infants que no volen anar a casa
-
-- Infants que no fan els deures
-
+29. Absentisme
+30. Irregularitat d'horaris
+31. Desmotivació escolar
+32. Interès desmesurat per la escola
+33. Fracàs escolar
+34. Menors que no volen fer esport si és tenen que canviar
+35. Menors amb un pudor excessiu
+36. Menors amb tendència a l'exhibicionisme
+37. Menors que no participen a sortides i activitats de l'escola
+38. Menors amb cansament crònic (nens que solen adormir-se a classe)
+39. Menors amb problemes de concentració i d'atenció importants
+40. Menors difícils que provoquen i/o pertorben la classe
+41. Infants que no volen anar a casa
+42. Infants que no fan els deures
 43. Infants que temen les vacances i els caps de setmana i que desprès de les mateixes tornen en pitjors condicions emocionals o materials
 
 ##### A.1.4. Indicadors conductuals
 
-- Robatoris
-
-- Mentides
-
-- Fugues
-
-- Intents de suïcidi
-
-- Inestabilitat i violència
-
-- Consum d'alcohol o de tòxics
-
-- Conductes de risc en adolescents (promiscuïtat sexual sense protecció, infraccions del codi de la circulació...en general aquelles conductes que poden posar la seva vida en perill) 51. Menors que formen part de grups amb comportaments asocials
+44. Robatoris
+45. Mentides
+46. Fugues
+47. Intents de suïcidi
+48. Inestabilitat i violència
+49. Consum d'alcohol o de tòxics
+50. Conductes de risc en adolescents (promiscuïtat sexual sense protecció, infraccions del codi de la circulació...en general aquelles conductes que poden posar la seva vida en perill)
+51. Menors que formen part de grups amb comportaments asocials
 
 ##### A.1.5. Transtorns del comportament alimentari
 
-- Anorexia
-
-- Bulimia amb vòmits
-
-- Obesitat
+52. Anorexia
+53. Bulimia amb vòmits
+54. Obesitat
 
 ##### A.2.1. Indicadors de recursos referents al menor
 
-- Menor comunicatiu
-
-- Menor que no dubta en demanar ajuda
-
-- Menor intel·ligent
-
-- Desig de millorar
-
-- Menor integrat a nivell escolar i social
-
-- Menor amb un projecte de futur realista
-
-- Menors que són conscients de la seva situació social
-
-- Menors que tenen un adult referent estable
+1. Menor comunicatiu
+2. Menor que no dubta en demanar ajuda
+3. Menor intel·ligent
+4. Desig de millorar
+5. Menor integrat a nivell escolar i social
+6. Menor amb un projecte de futur realista
+7. Menors que són conscients de la seva situació social
+8. Menors que tenen un adult referent estable
 
 #### A.1. Indicadors de risc referents a la família
 
 ##### A.1.6. Història i característiques socio-familiars
 
-- Història dels progenitors ( Històries de maltractes familiars )
-
-- Progenitors amb impossibilitat de dedicar-se a l'infant per diversos motius
-
-- Famílies amb algun progenitor empresonat
-
-- Famílies on algun altre fill ha presentat problemes de comportament important
-
-- Famílies on s'observen canvis sovintejats de parella
-
-- Famílies que passen per un procés de separació
-
-- Família tancada i aïllada socialment
-
-- Famílies amb una important inestabilitat laboral i problemes econòmics
-
-- Progenitors amb excessius horaris laborals i/o incompatibles amb l'atenció dels menors
-
-- Famílies prematures
-
-- Progenitors d'edat avançada
-
-- Famílies que ja tenen algun fill sota la protecció dels Serveis Socials
+1. Història dels progenitors ( Històries de maltractes familiars )
+2. Progenitors amb impossibilitat de dedicar-se a l'infant per diversos motius
+3. Famílies amb algun progenitor empresonat
+4. Famílies on algun altre fill ha presentat problemes de comportament important
+5. Famílies on s'observen canvis sovintejats de parella
+6. Famílies que passen per un procés de separació
+7. Família tancada i aïllada socialment
+8. Famílies amb una important inestabilitat laboral i problemes econòmics
+9. Progenitors amb excessius horaris laborals i/o incompatibles amb l'atenció dels menors
+10. Famílies prematures
+11. Progenitors d'edat avançada
+12. Famílies que ja tenen algun fill sota la protecció dels Serveis Socials
 
 ##### A.1.7. Condicions d'habitatge
 
-- Manca d'habitatge
-
-- Habitatge insalubre
-
-- Manca d'espai
+13. Manca d'habitatge
+14. Habitatge insalubre
+15. Manca d'espai
 
 ##### A.1.8. Problemàtica dels progenitors
 
-- Famílies amb un dels progenitors que té diagnosticada una malaltia mental greu
-
-- Famílies amb algun progenitor que té diagnosticada o és sospita una malaltia d'alcoholisme i/o altres drogodependències
-
-- Estats depressius crònics d'un dels membres de parella
-
-- Descompensació neuròtica postpartum
-
-- Maltractes fetals ( consum de tòxics, maltractament del pare envers la mare, embaràs sense control )
-
-- Famílies on algun dels seus membres mostra conductes violentes
-
-- Progenitors autoritaris, rígids i desconfiats
+16. Famílies amb un dels progenitors que té diagnosticada una malaltia mental greu
+17. Famílies amb algun progenitor que té diagnosticada o és sospita una malaltia d'alcoholisme i/o altres drogodependències
+18. Estats depressius crònics d'un dels membres de parella
+19. Descompensació neuròtica postpartum
+20. Maltractes fetals ( consum de tòxics, maltractament del pare envers la mare, embaràs sense control )
+21. Famílies on algun dels seus membres mostra conductes violentes
+22. Progenitors autoritaris, rígids i desconfiats
 
 ##### A.1.9. Actituds dels progenitors en relació al menor
 
-- Famílies que mostren indiferència en relació a l'estat de la salut de l'infant
-
-- Famílies que mostren intolerància en relació als problemes o necessitats
-
-- del menor
-
-- Famílies amb dificultats per enten-
-
-- dre les necessitats del menor
-
-- Progenitors amb principis educatius rígids i amb exigències desproporcionades a l'edat de l'infant
-
-- Progenitors immadurs que depenen afectivament de l'infant
-
-- Absència de vigilància i de control dels infants per part dels pares
-
-- Vigilància i control desmesurat sobretot en adolescents
+23. Famílies que mostren indiferència en relació a l'estat de la salut de l'infant
+24. Famílies que mostren intolerància en relació als problemes o necessitats del menor
+25. Famílies amb dificultats per entendre les necessitats del menor
+26. Progenitors amb principis educatius rígids i amb exigències desproporcionades a l'edat de l'infant
+27. Progenitors immadurs que depenen afectivament de l'infant
+28. Absència de vigilància i de control dels infants per part dels pares
+29. Vigilància i control desmesurat sobretot en adolescents
 
 [[END OF PAGE 14]]
 
@@ -972,61 +936,39 @@ Butlletí Oficial del Principat d'Andorra
 Núm. 41 - any 17 - 11.5.2005
 
 30. Progenitors que sistemàticament desvaloritzen, ridiculitzen i comparen de forma desavantatjosa el menor
-
 31. Progenitors que mostren por dels seus propis fills
-
 32. Progenitors que prioritzen les seves necessitats materials en lloc de les del menor
-
-- Famílies desvinculades de l'escola
-
-- Famílies que tracten els fills de manera desigual
-
-- Famílies que senten el seu fill com una propietat
+33. Famílies desvinculades de l'escola
+34. Famílies que tracten els fills de manera desigual
+35. Famílies que senten el seu fill com una propietat
 
 ##### A.2.2. Indicadors de recursos referents a la família
 
 1. Desig dels pares de col·laborar amb els serveis
+2. Capacitat dels pares d'entendre el problema
+3. Capacitat dels pares de reconèixer els seus errors
+4. Capacitat d'un dels progenitors a protegir l'infant (o bé d'algun altre adult)
+5. Capacitat dels pares de modificar actituds
+6. Capacitat dels pares de buscar recursos
 
-- Capacitat dels pares d'entendre el problema
+#### B. Factors associats
 
-- Capacitat dels pares de reconèixer els seus errors
-
-- Capacitat d'un dels progenitors a protegir l'infant (o bé d'algun altre adult)
-
-- Capacitat dels pares de modificar actituds
-
-- Capacitat dels pares de buscar recursos
-
-#### Factors associats
-
-- Edat de l'infant
-
-- Freqüència i durada dels maltractes
-
-- Sexe de la víctima
-
-- Edat de l'abusador
-
-- Proximitat relacional entre l'infant i l'abusador
-
-- Prematuritat (bebès que han estat en incubadora i això ha pogut dificultar el lligam pares fills)
-
-- Infants que han viscut temps fora de casa
-
-- Monoparentalitat
-
-- Família no integrada socialment i sense familiars i amics del país
-
-- Famílies amb un baix nivell intel·lectual
+1. Edat de l'infant
+2. Freqüència i durada dels maltractes
+3. Sexe de la víctima
+4. Edat de l'abusador
+5. Proximitat relacional entre l'infant i l'abusador
+6. Prematuritat (bebès que han estat en incubadora i això ha pogut dificultar el lligam pares fills)
+7. Infants que han viscut temps fora de casa
+8. Monoparentalitat
+9. Família no integrada socialment i sense familiars i amics del país
+10. Famílies amb un baix nivell intel·lectual
 
 ### 9.2. Models de recollida de documents i informació.
 
 Núm. 1: notificació d'una situació de perill vers un menor
-
 Núm. 2: recull de dades al rebre la denúncia
-
 Núm. 3: denúncia presentada davant del Ministeri de Salut i Benestar
-#### Document núm. 1
 
 [[END OF PAGE 15]]
 
@@ -1037,6 +979,33 @@ Núm. 41 - any 17 - 11.5.2005
 Butlletí Oficial del Principat d'Andorra
 
 2273
+
+#### Document núm. 1
+
+##### NOTIFICACIÓ D'UNA SITUACIÓ DE PERILL VERS UN MENOR
+
+Professional:
+Institució i/o Organisme a que representa:
+Data:
+Institució i/o Organisme a que es notifica:
+Professional que rep la notificació:
+
+SITUACIÓ QUE ES NOTIFICA:
+
+Maltracte Físic
+Maltracte Psicològic
+Abús Sexual
+Altres: ____________________
+
+En data __________, el/la Sr./a ______________________________, amb una relació de ____________________, notifica mitjançant denúncia anònima, que el menor ____________________, de ____ anys d'edat i resident a ____________________, i número de telèfon __________, podria estar patint una situació de perill causada per/ls ____________________, amb un vincle amb el menor de ____________________.
+
+Aquesta informació, ens la facilita després d'haver:
+
+Vist
+Sentit
+Comentat amb d'altres
+
+Aquesta informació, es notifica per tal de corroborar dita informació i prendre, en cas que sigui convenient, les mesures de protecció escaients.
 
 [[END OF PAGE 16]]
 
@@ -1050,6 +1019,54 @@ Núm. 41 - any 17 - 11.5.2005
 
 #### Document núm. 2
 
+##### RECULL DE DADES AL REBRE LA DENÚNCIA
+
+Data:
+Rebut per:
+
+DENUNCIANT:
+Nom i Cognoms:
+Adreça:
+Parròquia:
+Telèfon de contacte:    Fix:
+Mòbil:
+Horaris:
+Relació amb el denunciat:
+
+DENUNCIAT:
+Nom i Cognoms:
+Adreça:
+Parròquia:
+Telèfon de contacte:    Fix:
+Mòbil:
+Horaris:
+Feina:
+
+Altres adults al domicili
+
+MENORS:
+Nom i Cognoms
+Edat:
+Relació amb el denunciat:
+Escola:
+
+SITUACIÓ DENUNCIADA:
+Maltracte físic
+Maltractes psicològic
+Abús Sexual
+Altres
+
+Ha vist:
+Ha Sentit:
+Han comentat:
+
+OBSERVACIONS:
+
+DADES INTERNES:
+Cas conegut:                         T. Social de referència:
+Derivació a:                         Parròquia:
+Data de Derivació:                   Denuncia signada:
+
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
@@ -1061,6 +1078,26 @@ Butlletí Oficial del Principat d'Andorra
 2275
 
 #### Document núm. 3
+
+##### DENÚNCIA PRESENTADA DAVANT DEL MINISTERI DE SALUT I BENESTAR
+
+El/la que sotasigna, el/la Sr./a. ______________________________, d'estat civil ________________, amb passaport o carnet d'identitat número ________________, de nacionalitat ________________ i amb domicili al ______________________________, número _____, de la parròquia ________________, denuncia la següent situació:
+
+
+
+
+
+
+
+
+
+
+
+Sr./a. ________________
+
+El/la denunciant.
+
+Andorra la Vella, ___ de ________ del ________.
 
 [[END OF PAGE 18]]
 
@@ -1080,7 +1117,7 @@ Fiscalia General Tel 870720 Av. Tarragona, 62 Ed. Les Columnes Andorra la Vella
 
 Servei de Policia Tel 872000 Ed. Administratiu de l'Obach Escaldes-Engordany
 
-Ministeri de Salut i Benestar Tel 860345 829346
+Ministeri de Salut i Benestar Tel 860345 – 829346
 
 Àrea d'Atenció Social Primària
 
@@ -1106,7 +1143,7 @@ Centre d'Atenció Primària de Santa Coloma, Tel. 725636
 
 Centre d'Atenció Primària de Sant Julià de Lòria, Tel. 842460
 
-Centre d'Atenció Primària d'EscaldesEngordany, Tel. 828984
+Centre d'Atenció Primària d'Escaldes-Engordany, Tel. 828984
 
 # Preàmbul
 
@@ -1116,7 +1153,7 @@ Considerant que els infants són persones especialment vulnerables, que tenen un
 
 Considerant que els atacs a la integritat física, psíquica i moral produïts en l'àmbit de la infància constitueixen un seriós atemptat a la dignitat de qui els pateix, i resulta intolerable, per una societat democràtica, la reiteració d'aquestes conductes;
 
-Considerant que des del Govern d'Andorra i des de les institucions i els organismesdel Principat s'ha manifestat la voluntat decidida d'actuar en l'àmbit de la infància, i seguint els principis rectors de la Constitució andorrana, de la Convenció sobre els drets de l'infant, i de les Recomanacions del Comitè sobre els drets de l'infant;
+Considerant que des del Govern d'Andorra i des de les institucions i els organismes del Principat s'ha manifestat la voluntat decidida d'actuar en l'àmbit de la infància, i seguint els principis rectors de la Constitució andorrana, de la Convenció sobre els drets de l'infant, i de les Recomanacions del Comitè sobre els drets de l'infant;
 
 Considerant que sempre que hi hagi una violació dels drets fonamentals de les persones, els poders públics i els agents socials han d'intervenir per defensar-los, i garantir molt especialment la protecció dels menors;
 
@@ -1162,23 +1199,21 @@ Andorra la Vella, 10 de juny del 2004
 
 # Edicte
 
-- Objecte: adjudicació definitiva
+1. Objecte: adjudicació definitiva
 
-- Òrgan contractant
+2. Òrgan contractant
 
-- Identitat: Ministeri d'Agricultura i Medi Ambient
+a) Identitat: Ministeri d'Agricultura i Medi Ambient
+b) Data de l'acord del Govern: 5 de maig del 2005
 
-- Data de l'acord del Govern: 5 de maig del 2005
+3. Dades de l'adjudicació
 
-- Dades de l'adjudicació
-
-- Identitat de l'adjudicatari: Pirenaica b) Denominació del treball: Adquisició de patates de sembra certificada, per als titulars d'explotacions agràries c) Preu cert: 8.352,92 euros
-
-- Partida pressupostària: 300-PROJ 0009-22170
-
-- Forma d'adjudicació: adjudicació directa
-
-- Modalitat de la contractació: ordinària
+a) Identitat de l'adjudicatari: Pirenaica
+b) Denominació del treball: Adquisició de patates de sembra certificada, per als titulars d'explotacions agràries
+c) Preu cert: 8.352,92 euros
+d) Partida pressupostària: 300-PROJ 0009-22170
+e) Forma d'adjudicació: adjudicació directa
+f) Modalitat de la contractació: ordinària
 
 Cosa que es fa pública per a coneixement general.
 
