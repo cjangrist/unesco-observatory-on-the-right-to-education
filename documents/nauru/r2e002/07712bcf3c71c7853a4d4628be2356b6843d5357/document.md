@@ -12,6 +12,15 @@ Department of Education and Training Republic of Nauru
 
 # TABLE OF CONTENTS
 
+SECTION | PAGE
+--- | ---
+Foreword | 2
+Executive Summary | 3
+PROFILE of Sector | 5
+The Context Of Education And Training In Nauru |
+Achieving the Vision | 13
+Goal statements for Education and Training, 2008 -2013. |
+
 Department of Education and Training. Strategic Plan 2008 - 2013. Page 1 of 51
 
 [[END OF PAGE 2]]
@@ -82,37 +91,33 @@ Page 3 of 51
 
 [[START OF PAGE 5]]
 
-Key Focus Area | Goal | Milestone
---- | --- | --- | --- | ---
-Short Term | Medium Term | Long Term
-Our Students | Attend school every day and take school seriously (Improved interest and harder work in school) they leave school | Increased pass rates across all grades | All students graduate at Year 12 | Sustai nable econom y and enviro nment achiev ed throug
-Students leave school at Year 12 as confident
-Nauruan citizens
-Have pride in our Nauruan Culture and Identity. | Increased
-Learn in a Supportive School Environment. Have respect for self, others, property, environment | attendance
-Our Curriculu m | Provide relevant study footpaths for every student from Infants to leaving school | Curriculum Authority established | Students enter employment, further education, or society
-Balanced, seamless across year levels, with relevant content, with special reference to climate change, sustainable life skills, healthy life style, societal values, Nauruan language, and English.
-Is inclusive, including our Able/Disable, ESL learners, academic and TVET students
-Provides recognised qualifications for students when | Curriculum has regional accreditati on | and life with confidence
-Connected to work, national economy, and national goals
-Explicit details on what students need to learn is provided for teachers
-Sets performance targets for literacy, numeracy and life skills at juncture years
-Supports a range of teaching strategies
-Our Teacher | All teachers registered and qualified, especially in ESL teaching pedagogy | TRA Established Schools staffed by competent teachers | All teachers perform as change agents
-Teacher skills, standards and performance levels monitored, evaluated and reported | h Nation
-Develop a learning community and exhibit professionalism through regular in-service | al human
-Undertake leadership and ethics training, especially for Principals | and social
-capita
-Teachers are retained in the teaching service | l
-Our Schools | Basic facilities are provided and maintained through sound financial planning, and management | Maintenance and capital works program ensures every school has running water, toilets, student | All students provided with adequate learning facilities | capaci ty
-Libraries, classrooms and Able/Disable centre equipped with ICT and teaching resource materials | develo pment
-Are healthy, safe and secure environments for students and staff | l
-Provide TVET and trade training facilities
-Provide all lessons as timetabled
-Have quality support staff to service teachers and Ministry
-Are serviced by an efficient and reliable Bus and | Nauru recogn
+Key Focus Area | Goal
+--- | ---
+Our Students | Attend school every day and take school seriously (Improved interest and harder work in school); Students leave school at Year 12 as confident Nauruan citizens; Have pride in our Nauruan Culture and Identity.; Learn in a Supportive School Environment. Have respect for self, others, property, environment
+Our Curriculum | Provide relevant study footpaths for every student from Infants to leaving school; Balanced, seamless across year levels, with relevant content, with special reference to climate change, sustainable life skills, healthy life style, societal values, Nauruan language, and English.; Is inclusive, including our Able/Disable, ESL learners, academic and TVET students; Provides recognised qualifications for students when they leave school; Connected to work, national economy, and national goals; Explicit details on what students need to learn is provided for teachers; Sets performance targets for literacy, numeracy and life skills at juncture years; Supports a range of teaching strategies
+Our Teacher | All teachers registered and qualified, especially in ESL teaching pedagogy; Teacher skills, standards and performance levels monitored, evaluated and reported; Develop a learning community and exhibit professionalism through regular in-service; Undertake leadership and ethics training, especially for Principals; Teachers are retained in the teaching service
+Our Schools | Basic facilities are provided and maintained through sound financial planning, and management; Libraries, classrooms and Able/Disable centre equipped with ICT and teaching resource materials; Are healthy, safe and secure environments for students and staff; Provide TVET and trade training facilities; Provide all lessons as timetabled; Have quality support staff to service teachers and Ministry; Are serviced by an efficient and reliable Bus and
 
-desks and
+Milestone
+
+Short Term
+Increased pass rates across all grades
+Increased attendance
+Curriculum Authority established
+Curriculum has regional accreditation
+TRA Established
+Schools staffed by competent teachers
+Maintenance and capital works program ensures every school has running water, toilets, student desks and
+
+Medium Term
+All students graduate at Year 12
+Students enter employment, further education, or society and life with confidence
+All teachers perform as change agents
+All students provided with adequate learning facilities
+
+Long Term
+Sustainable economy and environment achieved through National human and social capital capacity development
+Nauru recogn
 
 [[END OF PAGE 5]]
 
@@ -144,7 +149,7 @@ This aim recognises the role of education in a society. Education provides the f
 
 The aim of the Department also is to achieve the goals of the Education For All initiative and  the Millennium Development Goals . Education for All incorporates  the  following  six goals:
 
-- expanding  and  improving  comprehensive  early  childhood  care  and  education, especially for the most vulnerable and disadvantaged children;
+- i) expanding and improving comprehensive early childhood care and education, especially for the most vulnerable and disadvantaged children;
 
 - ii) ensuring that by 2015 all children, particularly girls, children in difficult circumstances and those belonging to ethnic minorities have access to, and complete, free and compulsory primary education of good quality;
 
@@ -152,11 +157,11 @@ The aim of the Department also is to achieve the goals of the Education For All 
 
 - iv) achieving a 50 per cent improvement in levels of adult literacy by 2015, especially for women and equitable access to basic and  continuing education for all adults;
 
-- eliminating  gender  disparities  in  primary  and  secondary  education  by  2005  and achieving gender equality in education by 2015, with a focus on ensuring girl's full and equal access to and achievement in basic education of good quality; and
+- v) eliminating gender disparities in primary and secondary education by 2005 and achieving gender equality in education by 2015, with a focus on ensuring girl's full and equal access to and achievement in basic education of good quality; and
 
 - vi) Improving all aspects of the quality of education and ensuing excellence of all so that recognised and measurable learning outcomes are achieved by all, especially in literacy, numeracy and essential life skills.
 
-Nauru has committed to these goals and has encapsulated them in this five year Strategic Plan The NSDS also allocates to the Education and Training Sector the task to: ' Improve the quality and broaden the scope and reach of education '.
+Nauru has committed to these goals and has encapsulated them in this five year Strategic Plan
 
 > 1 - A policy for Australian Development Assistance,' AusAID, 2006
 
@@ -169,6 +174,8 @@ Page 6 of 51
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+
+The NSDS also allocates to the Education and Training Sector the task to: “Improve the quality and broaden the scope and reach of education”.
 
 The 2005 NSDS notes that
 
@@ -252,7 +259,7 @@ Kayser College | 17 | 24 | 23 | 21 | 25 | 19 | 19 | 14 | 24 | 27 | 23 | 19
 Nauru College
 Nauru Secondary
 TOTALS | 92 | 107 | 102 | 107 | 111 | 99 | 104 | 97 | 109 | 119 | 113 | 93
-TOTALS | 209 | 210 | 201 | 228 | 206
+TOTALS | 199 | 209 | 210 | 201 | 228 | 206
 TOTALS | 631 boys | 622 girls
 TOTALS | 1253
 
@@ -381,7 +388,29 @@ The qualifications of these teachers are a cause of concern and been identified 
 
 Graph  2  shows  that  only  9%  of  teachers  have  a  degree,  6.4%  a  Diploma,  50%  have  a Certificate,  and  34.4%  have  no  qualifications,  being  a  trainee  or  instructor.  Only  four teachers at the Secondary School have a degree.
 
-Graph 2:  Profile of Teacher Qualifications, 2008
+Teacher Qualification 2008
+
+Number of Teachers
+
+80
+70
+60
+50
+40
+30
+20
+10
+0
+
+Degree | 1 | 12
+Diploma | 0 | 9
+Certificate | 3 | 67
+Instructors | 2 | 0
+Trainee | 8 | 38
+
+Male | Female
+
+Graph 2: Profile of Teacher Qualifications, 2008
 
 Department of Education and Training. Strategic Plan 2008 - 2013.
 
@@ -447,7 +476,7 @@ ICT is seen as a  major factor in delivery of quality Education services. Teache
 
 A  qualifications  and  certification  pathway  for  all  students  has  been  mapped,  networks formed  and  it  now  needs  to  be  implemented.  The  pathway  will  strategically  place  our students  at  the  end  of  Year  12  to  take  advantage  of  the  opportunities  available  through globalisation and make significant contributions to the national interest.
 
-Our  students'  advancement  through  the  various  academic  and  skills  levels  needs  to  be strategically managed  by  intervention programs  in the short term and by realistic expectations  of  aggregate  student  performance  in  the  medium  term.  These  intervention programs need to be based on evidence and individually focused. This requires a targeted monitoring  and  evaluation  program  supported,  in  the  short  term  (five  years) by  a remediation program that will require additional human resources.
+Our students' advancement through the various academic and skills levels needs to be strategically managed by intervention programs in the short term and by realistic expectations of aggregate student performance in the medium term. These intervention programs need to be based on evidence and individually focused. This requires a targeted monitoring and evaluation program supported, in the short term (five years) by a
 
 Department of Education and Training. Strategic Plan 2008 - 2013.
 
@@ -456,6 +485,8 @@ Page 12 of 51
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+
+remediation program that will require additional human resources.
 
 An  undervalued  asset  in  our  Education  and  Training  system  is  parental  and  community involvement. A priority  is  to  raise  the  profile  of  our  schools  and  teachers  so  that  parents prefer to send their children to our schools and not overseas.
 
@@ -485,7 +516,7 @@ The Strategic Plan is owned by the stakeholders and the Education and Training D
 
 In order to achieve  each  of  the goal  statements contained  in  each  KFA,  various implementation strategies are employed. These strategies are provided in Section III of this document.  Some  of  these  strategies  may  require  implementation  over  five  years,  but  the Department operates on an Annual Budget cycle and needs to plan its operations on this basis.
 
-To prepare its Annual operations, the Department will examine the strategies in Footpath II and  prepare  an  Annual  Operation  Plan  (AOP).  The  AOP  is  much  more  detailed  than  the Strategic Plan and includes a line item budget, Performance Indicators and Source of Funds tables. It is the basic device used by the Department as a Monitoring and Evaluation tool In  order  to  administer  the  implementation  of  Footpath  II,  the  AOP  is  divided  into  three Programs and the various strategies assigned to one of the Programs. The three Programs are:
+To prepare its Annual operations, the Department will examine the strategies in Footpath II and prepare an Annual Operation Plan (AOP). The AOP is much more detailed than the Strategic Plan and includes a line item budget, Performance Indicators and Source of Funds tables. It is the basic device used by the Department as a Monitoring and Evaluation tool
 
 Department of Education and Training. Strategic Plan 2008 - 2013.
 
@@ -494,6 +525,8 @@ Page 13 of 51
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+
+In order to administer the implementation of Footpath II, the AOP is divided into three Programs and the various strategies assigned to one of the Programs. The three Programs are:
 
 1. | Learning Program | (Student and schools based programs),
 --- | --- | ---
@@ -556,11 +589,11 @@ The seven Key Focus Areas are:
 
 These Goal Statements are a distillation of the expectations for Education and Training by 2013. The expectations are derived from a number of sources. These include:
 
-- Consultation with stakeholders groups over the three year period, 2005 - 2007
+1. Consultation with stakeholders groups over the three year period, 2005 - 2007
 
-- The findings and results of programs, strategies and research conducted in Footpath I
+2. The findings and results of programs, strategies and research conducted in Footpath I
 
-- International and Regional Agreements that Nauru has committed to:
+3. International and Regional Agreements that Nauru has committed to:
 
 (i) Education for All,
 
@@ -570,9 +603,9 @@ These Goal Statements are a distillation of the expectations for Education and T
 
 (iv) FORUM Basic Education Action Plan (FBEAP) Benchmarks
 
-- Reports on the Status of Education in Nauru (PRIDE, AusAID, Consultants)
+4. Reports on the Status of Education in Nauru (PRIDE, AusAID, Consultants)
 
-- The Nauru National Strategic Development Strategy (NSDS)
+5. The Nauru National Strategic Development Strategy (NSDS)
 
 These goal statements are summarized in a table on page 3. This table provides Milestones for each Key Focus Area.
 
@@ -599,8 +632,24 @@ Page 16 of 51
 #### OUR STUDENTS
 --- | ---
 GOAL | Student Attendance rates for all year levels to Year 10 exceeds 85%
-CONTEXT | The Attendance rate across all year levels in 2007 was 67%, up from 62% in 2006. A 2007 survey of 530 students who were classified as chronic truants in 2006 provides a wide range of reasons for truancy. These included: (a) student required to stay home for domestic duties and food gathering (b) parental shame at having to send their child to school without food, uniform or basic school supplies (c) school not valued by parents or students because teachers were not presenting engaging, relevant or structured lessons (d) bullying - from other students and teachers
+CONTEXT | The Attendance rate across all year levels in 2007 was 67%, up from 62% in 2006. A 2007 survey of 530 students who were classified as chronic truants in 2006 provides a wide range of reasons for truancy. These included:
+(a) student required to stay home for domestic duties and food gathering
+(b) parental shame at having to send their child to school without food, uniform or basic school supplies
+(c) school not valued by parents or students because teachers were not presenting engaging, relevant or structured lessons
+(d) bullying - from other students and teachers
+(e) no transport
 STRATEGY | The basic strategy is to make school attractive so that students want to come to school rather than force students to attend school.
+Increased attendance requires attention across all areas of schooling including:
+1. Improved quality of teaching - more relevant and engaging lessons
+2. Attractive curriculum
+3. Improved physical infrastructure of schools such as desks, toilets and libraries
+4. Supply of basic school materials such as texts, uniforms
+5. Improved school transport
+6. Supportive school environment policies
+7. Attention to nutritional needs of students
+8. Active involvement of Liaison officers in dealing with truants
+9. Improved tracking and reporting of student attendance
+10. Public awareness program on the value of schooling
 PERFORMANCE INDICATOR | By 2013, attendance rates are above 85% across all year levels
 
 Department of Education and Training. Strategic Plan 2008 - 2013.
@@ -644,7 +693,7 @@ PERFORMANCE INDICATOR | 1. Students in Year 3 speak and write Nauruan fluently; 
 --- | ---
 GOAL | Students will learn in a supportive school environment, which encourages engagement in the schooling process
 CONTEXT | Students can sometimes find school an unsettling experience, especially if bullying and exclusion are present in the school environment. For example:  The 2007 Truants survey and the 2006 Hearts and Minds Surveys both reveal bullying as a reason for not attending school;  Liaisons Officers report behavior management of students as a major issue;  Schools have weakly developed or inconsistent Behaviour Management policies  Teachers have little formal training in behaviour management
-STRATEGY | 1. Introduce a Supportive School Environment Policy and a Behaviour Management Policy 2. Provide training for teachers and Liaison Officers in behavior management 3. Introduce programs, such as 'Strive for 5', to provide a framework for the implementation of the Supportive School
+STRATEGY | 1. Introduce a Supportive School Environment Policy and a Behaviour Management Policy 2. Provide training for teachers and Liaison Officers in behavior management 3. Introduce programs, such as 'Strive for 5', to provide a framework for the implementation of the Supportive School Environment Policies
 PERFORMANCE INDICATOR | Number of students disciplined by Liaison Officers decreases by 50% by 2013
 
 Department of Education and Training. Strategic Plan 2008 - 2013.
@@ -667,33 +716,17 @@ Page 20 of 51
 
 [[START OF PAGE 22]]
 
-GOAL
-
-CONTEXT
-
-STRATEGY
-
-PERFORMANCE INDICATOR
-
 #### OUR CURRICULUM
 
-Provide relevant study footpaths for every student from Infants to leaving school
-
-Learning for Nauruan students is promoted when the content and context of a curriculum is relevant to a contemporary Nauruan student. This requires a curriculum structure which is grounded in Nauruan content, but capable of adapting to the constant change in what is seen as relevant by Nauruan students. The curriculum program which achieves this and which has been trialled in Footpath I and endorsed by PRIDE, is the 'Rich Task' program.
-
-- Continue development of the Rich Task program of curriculum organization to extend the coverage of curriculum materials to 65% by 2013. Maintain the CASE supervision of the development of the program
-
-- Continue Teacher Training in the pedagogies associated with Rich Tasks
-
-- Provide logistic support to developing new Rich Task materials
-
-- Continue to review the effectiveness of Rich Tasks at all levels
-
-- Continue backward mapping of Rich Tasks to ensure that the content and skills provided to students who exit at Year 12 prepare them for Tertiary courses
-
-- Conduct parent awareness programs of the Rich Task Program and support teachers in presenting workshops regionally and internationally in the Program.
-
-Rich Tasks occupy 65% of the lesson time by 2013 in Years 1 to 9
+GOAL | Provide relevant study footpaths for every student from Infants to leaving school
+CONTEXT | Learning for Nauruan students is promoted when the content and context of a curriculum is relevant to a contemporary Nauruan student. This requires a curriculum structure which is grounded in Nauruan content, but capable of adapting to the constant change in what is seen as relevant by Nauruan students. The curriculum program which achieves this and which has been trialled in Footpath I and endorsed by PRIDE, is the 'Rich Task' program.
+STRATEGY | 1. Continue development of the Rich Task program of curriculum organization to extend the coverage of curriculum materials to 65% by 2013. Maintain the CASE supervision of the development of the program
+2. Continue Teacher Training in the pedagogies associated with Rich Tasks
+3. Provide logistic support to developing new Rich Task materials
+4. Continue to review the effectiveness of Rich Tasks at all levels
+5. Continue backward mapping of Rich Tasks to ensure that the content and skills provided to students who exit at Year 12 prepare them for Tertiary courses
+6. Conduct parent awareness programs of the Rich Task Program and support teachers in presenting workshops regionally and internationally in the Program.
+PERFORMANCE INDICATOR | Rich Tasks occupy 65% of the lesson time by 2013 in Years 1 to 9
 
 Department of Education and Training. Strategic Plan 2008 - 2013.
 
@@ -703,39 +736,22 @@ Page 21 of 51
 
 [[START OF PAGE 23]]
 
-GOAL
-
-CONTEXT
-
-STRATEGY
-
 #### OUR CURRICULUM
 
-Seamless linkages exist between all stages of the education and training process
-
-The NSDS, Social Sector Priority is ' to improve the educational system focusing on quality, scope, (primary Secondary, vocational and life and trade skills) and reach (new audiences such as mature age )'.
+GOAL | Seamless linkages exist between all stages of the education and training process
+CONTEXT | The NSDS, Social Sector Priority is “to improve the educational system focusing on quality, scope, (primary Secondary, vocational and life and trade skills) and reach (new audiences such as mature age)”.
 
 This priority sets the scope and reach of the Education system. It requires five distinct groupings of students; Infants, Primary; Middle School, Secondary and Youth. Services to these groups are currently provided by three Education Service providers; The Education Department, Kayser College and Youth Affairs.
 
 The Linkages from Infants to Upper Secondary and across the Education Department and Kayser are based on common curriculum and are strong. The Youth Affairs curriculum or programs have weak linkages to school sector programs and Secondary programs have unsure linkages to Tertiary institutions or Trade Training providers. Currently there is no body to provide formal Adult Education.
-
-- Establish a Curriculum Accreditation Authority which establishes and mandates a seamless curriculum which includes a Youth Affairs curriculum
-
-- Establish a Qualifications Framework which provides a pathway to University, Trade School or other post Secondary Training opportunities
-
-- Provide entry to Youth Affairs programs to only students over 20 years of age, or have sat the NSS Year 11 and 12 curriculum program
-
-- Strengthen the Year 10, 11, 12 program to included TVET, Life Skills and Work Experience
-
-- Develop programs to cater for older students with children, disabilities, economic hardship or domestic situations which restrict access to normal education programs
-
-- Develop partnerships with University and Trade course providers
-
-- Establish a new position within CASE to provide Adult Education classes using the facilities of the new Nauru Secondary School after normal school hours
-
-PERFORMANCE INDICATOR
-
-All students can progress through the Education and Training system
+STRATEGY | 1. Establish a Curriculum Accreditation Authority which establishes and mandates a seamless curriculum which includes a Youth Affairs curriculum
+2. Establish a Qualifications Framework which provides a pathway to University, Trade School or other post Secondary Training opportunities
+3. Provide entry to Youth Affairs programs to only students over 20 years of age, or have sat the NSS Year 11 and 12 curriculum program
+4. Strengthen the Year 10, 11, 12 program to included TVET, Life Skills and Work Experience
+5. Develop programs to cater for older students with children, disabilities, economic hardship or domestic situations which restrict access to normal education programs
+6. Develop partnerships with University and Trade course providers
+7. Establish a new position within CASE to provide Adult Education classes using the facilities of the new Nauru Secondary School after normal school hours
+PERFORMANCE INDICATOR | All students can progress through the Education and Training system
 
 Department of Education and Training. Strategic Plan 2008 - 2013.
 
@@ -745,45 +761,23 @@ Page 22 of 51
 
 [[START OF PAGE 24]]
 
-GOAL CONTEXT
+#### OUR CURRICULUM
 
-STRATEGY
-
-PERFORMANCE INDICATOR
-
-GOAL CONTEXT
-
-STRATEGY
-
-PERFORMANCE INDICATOR
+GOAL | Values depth of knowledge and understanding, in relevant areas
+CONTEXT | With the explosion in the volume of knowledge, the problem for educators is to select what is important knowledge that is taught in schools. A curriculum can become cluttered with knowledge resulting in students acquiring 'shallow' learning of knowledge without the depth of understanding. Students need to acquire skills in accessing new knowledge and critically examining that knowledge.
+STRATEGY | 1. Provide critical literacy skills in the curriculum using the Rich Task framework
+2. Commission literature and environmental scans at three year intervals to report on the adequacy of the knowledge provided across the curriculum in the context of the aims of the education system
+3. Survey students, parents and employers on the adequacy and depth of content in the curriculum
+PERFORMANCE INDICATOR | Teachers express satisfaction that the knowledge component of the curriculum is balanced
 
 #### OUR CURRICULUM
 
-Values depth of knowledge and understanding, in relevant areas
-
-With the explosion in the volume of knowledge, the problem for educators is to select what is important knowledge that is taught in schools. A curriculum can become cluttered with knowledge resulting in students acquiring 'shallow' learning of knowledge without the depth of understanding.  Students need to acquire skills in accessing new knowledge and critically examining that knowledge.
-
-- Provide critical literacy skills in the curriculum using the Rich Task framework
-
-- Commission literature and environmental scans at three year intervals to report on the adequacy of the knowledge provided across the curriculum in the context of the aims of the education system
-
-- Survey students, parents and employers on the adequacy and depth of content in the curriculum
-
-Teachers express satisfaction that the knowledge component of the curriculum is balanced
-
-#### OUR CURRICULUM
-
-Students are proficient in the Nauruan language
-
-There is currently no requirement for Nauruan students to be proficient in our own language. Evidence suggests that for a student to learn in a second language, they must be proficient in their Primary language
-
-- Introduce a Language Policy that requires all students to Year 3 to be immersed in Nauruan
-
-- Produce Resource materials including a set of Nauruan Readers
-
-- Train teachers to use the resources and to use standardised Nauruan in class
-
-Policy exists and is enforced GOAL
+GOAL | Students are proficient in the Nauruan language
+CONTEXT | There is currently no requirement for Nauruan students to be proficient in our own language. Evidence suggests that for a student to learn in a second language, they must be proficient in their Primary language
+STRATEGY | 1. Introduce a Language Policy that requires all students to Year 3 to be immersed in Nauruan
+2. Produce Resource materials including a set of Nauruan Readers
+3. Train teachers to use the resources and to use standardised Nauruan in class
+PERFORMANCE INDICATOR | Policy exists and is enforced
 
 Department of Education and Training. Strategic Plan 2008 - 2013.
 
@@ -793,51 +787,25 @@ Page 23 of 51
 
 [[START OF PAGE 25]]
 
-CONTEXT
+#### OUR CURRICULUM
 
-STRATEGY
-
-GOAL
-
-CONTEXT
-
-STRATEGY
-
-PERFORMANCE INDICATOR
+GOAL | Provides students with a set of Life Skills as defined by SPBEA
+CONTEXT | SPBEA and UNESCO have produced a list of Regional Benchmarks in Life Skills. Life Skills are defined as 'knowledge, skills, attitudes, values and behaviours embedded in the local (and embracing the global) context which empower an individual to improve and sustain quality of life in their community and beyond.' Life Skills include team work, environmental awareness and respect for others. In the past it had been assumed that schools develop Life Skills in students, but this goal mandates that assumption
+STRATEGY | 1. Review Rich Tasks to map the Tasks which contain the components of the Life Skills as published by SPBEA
+2. Embed any Life Skills which are not covered in the formal curriculum
+3. Provide training for teachers in teaching the Life Skills
+4. Assess and report on levels of students in achieving he Benchmarks
+PERFORMANCE INDICATOR | Students demonstrate Life Skills
 
 #### OUR CURRICULUM
 
-Provides students with a set of Life Skills as defined by SPBEA
-
-SPBEA and UNESCO have produced a list of Regional Benchmarks in Life Skills. Life Skills are defined as 'knowledge, skills, attitudes, values and behaviours embedded in the local (and embracing the global) context which empower an individual to improve and sustain quality of life in their community and beyond .' Life Skills include team work, environmental awareness and respect for others. In the past it had been assumed that schools develop Life Skills in students, but this goal mandates that assumption
-
-- Review Rich Tasks to map the Tasks which contain the components of the Life Skills as published by SPBEA
-
-- Embed any Life Skills which are not covered in the formal curriculum
-
-- Provide training for teachers in teaching the Life Skills
-
-- Assess and report on levels of students in achieving he Benchmarks
-
-PERFORMANCE INDICATOR
-
-Students demonstrate Life Skills
-
-#### OUR CURRICULUM
-
-Support reading, writing and understanding English
-
-Our goal in Education is to provide students with a framework that allows them to leave school and be able to operate in a complex global network. For this they need to be competent in English. Texts, especially at a level of Secondary and beyond, are written in English. Parents have expressed a strong desire to have their child taught English
-
-- Support the 4S Reading Program
-
-- Measure Literacy Benchmarks and report the results
-
-- Train teachers in teaching English as a subject
-
-- Provide resources such as texts, and library equipment
-
-Improvement in Literacy Benchmarks
+GOAL | Support reading, writing and understanding English
+CONTEXT | Our goal in Education is to provide students with a framework that allows them to leave school and be able to operate in a complex global network. For this they need to be competent in English. Texts, especially at a level of Secondary and beyond, are written in English. Parents have expressed a strong desire to have their child taught English
+STRATEGY | 1. Support the 4S Reading Program
+2. Measure Literacy Benchmarks and report the results
+3. Train teachers in teaching English as a subject
+4. Provide resources such as texts, and library equipment
+PERFORMANCE INDICATOR | Improvement in Literacy Benchmarks
 
 Department of Education and Training. Strategic Plan 2008 - 2013.
 
@@ -926,7 +894,7 @@ Page 28 of 51
 --- | ---
 GOAL | All teachers registered and qualified, especially in ESL teaching pedagogies
 CONTEXT | The PRIDE 2007 report identified the need to train teachers as the highest priority for Education and Training. Currently less than 10% have a degree. The lack of teachers with qualifications is significant at the Secondary level.
-STRATEGY | 1. Increase percentage of male and younger teachers through improved training and better career opportunities. Survey and prepare a profile of teaching workforce to show this data 2. Provide upgrading for Infants and Primary teachers in curriculum content 3. Provide structured training course for up to 70 Trainee over four years teachers leading to a teaching qualification 4. Provide Inservice course, leading to teaching qualifications, for existing teachers 5. Provide leadership training for Principals and aspiring leaders 6. Provide specialised training for specialist positions such as Assessment, disabilities/inclusive education and Secondary specialist areas 7. Engage expatriate teachers to act as mentors, and take classes while teachers are training 8. Consider flexible Term dates to allow for inservice course 9. Appoint a training coordinator to provide support services to teachers undertaking upgrading courses 10. Negotiate Agreements with Universities to provide teacher
+STRATEGY | 1. Increase percentage of male and younger teachers through improved training and better career opportunities. Survey and prepare a profile of teaching workforce to show this data 2. Provide upgrading for Infants and Primary teachers in curriculum content 3. Provide structured training course for up to 70 Trainee over four years teachers leading to a teaching qualification 4. Provide Inservice course, leading to teaching qualifications, for existing teachers 5. Provide leadership training for Principals and aspiring leaders 6. Provide specialised training for specialist positions such as Assessment, disabilities/inclusive education and Secondary specialist areas 7. Engage expatriate teachers to act as mentors, and take classes while teachers are training 8. Consider flexible Term dates to allow for inservice course 9. Appoint a training coordinator to provide support services to teachers undertaking upgrading courses 10. Negotiate Agreements with Universities to provide teacher Training and upgrading courses
 PERFORMANCE INDICATOR | 1. Teaching workforce survey instrument developed, disseminated, collected and analysed 2. Upgrading and inservice programme developed and implemented. 3. Teachers have a relevant teaching qualification. 4. Secondary has specialist teachers in English, Maths, Science, TVET,
 
 Department of Education and Training. Strategic Plan 2008 - 2013.
@@ -1045,7 +1013,7 @@ Page 35 of 51
 #### OUR SCHOOLS
 --- | ---
 GOAL | A qualified team of frontline staff ensure schools are provided with timely and efficient administration and logistics support
-CONTEXT | Schools are seen as the sites where 'the tyre meets the bitumen'. They are where our students are and this is where we need to concentrate on their professional duties. This requires a team of trained administrators to service the administration and frontline needs of schools such as pays, leave, logistics, transport, urgent repairs, finances and tuckshops.
+CONTEXT | Schools are seen as the sites where “the tyre meets the bitumen”. They are where our students are and this is where we need to concentrate on their professional duties. This requires a team of trained administrators to service the administration and frontline needs of schools such as pays, leave, logistics, transport, urgent repairs, finances and tuckshops.
 STRATEGY | 1. Provide Frontline Courses for all administration and service staff of the Department 2. Provide facilities, equipment, software applications and policies that facilitate provision of timely services to schools
 PERFORMANCE INDICATOR | Administration staff have Frontline qualifications
 
@@ -1068,7 +1036,7 @@ Page 36 of 51
 GOAL | TVET and Trade Training facilities are operational
 --- | ---
 CONTEXT | The proposed Upper Secondary curriculum contains significant TVET and Life Skills offerings. These are at the Certificate I to IV level and require appropriate facilities and resources. These include facilities for students to learn skills related to the building and mining trades, hospitality services, the marine economy, and the electronic services economy. The new NSS site provides a building for these offerings, but the building needs to be equipped with appropriate facilities
-STRATEGY | 1. Conduct an audit of TVET needs and associated courses using the services of UNESCO 2. Use the audit to (i) Prepare a list of courses and accreditation requirements (ii) Prepare a TVET staff organisation chart (iii) Prepare a list of required facilities and equipment (iv) Prepare a timetabled work program which shows efficient use of the resources provided in (iii) and the staff provided in (ii) (v) Provide a community and student awareness campaign to promote the TVET program 3. Engage qualified TVET training and teaching staff, and consider the use of short term contracted trainers
+STRATEGY | 1. Conduct an audit of TVET needs and associated courses using the services of UNESCO 2. Use the audit to (i) Prepare a list of courses and accreditation requirements (ii) Prepare a TVET staff organisation chart (iii) Prepare a list of required facilities and equipment (iv) Prepare a timetabled work program which shows efficient use of the resources provided in (iii) and the staff provided in (ii) (v) Provide a community and student awareness campaign to promote the TVET program 3. Engage qualified TVET training and teaching staff, and consider the use of short term contracted trainers 4. Consider increasing efficiency of the TVET budget by use of ICT to deliver some skills training competencies
 PERFORMANCE INDICATOR | Facilities for TVET courses are available
 
 Department of Education and Training. Strategic Plan 2008 - 2013.
@@ -1139,7 +1107,7 @@ Page 40 of 51
 GOAL | Schools will be venues for Youth and Adult and continuing education and training programs
 --- | ---
 CONTEXT | The National Sustainable Development Strategy calls for our Education and Training system to broaden its scope to include Adult Education.
-STRATEGY | 1. Develop a policy on Adult and Community Education 2. Develop a program for Adult and Community Education and Training (ACET) 3. Train resource people to teach the program 4. Develop policy on shared use of resources and facilities 5. Appoint a co - ordinator to manage the ACET program 6. Provide relevant resources for Adult and Community Education and Training 7. Conduct community awareness programs on ACET. 8. Provide funding for ACET 9. Negotiate a MOU with Youth Affairs Directorate to delineate the groups and the services that are to be provided by Education and by Youth Affairs to avoid duplication of services, or some groups 'dropping between the cracks'
+STRATEGY | 1. Develop a policy on Adult and Community Education 2. Develop a program for Adult and Community Education and Training (ACET) 3. Train resource people to teach the program 4. Develop policy on shared use of resources and facilities 5. Appoint a co-ordinator to manage the ACET program 6. Provide relevant resources for Adult and Community Education and Training 7. Conduct community awareness programs on ACET. 8. Provide funding for ACET 9. Negotiate a MOU with Youth Affairs Directorate to delineate the groups and the services that are to be provided by Education and by Youth Affairs to avoid duplication of services, or some groups “dropping between the cracks”
 PERFORMANCE INDICATOR | Youth, Adult and Community Education policy developed and implemented
 
 Department of Education and Training. Strategic Plan 2008 - 2013.
@@ -1163,8 +1131,11 @@ Page 42 of 51
 [[START OF PAGE 44]]
 
 #### OUR ACCOUNTABILITY
-GOAL CONTEXT STRATEGY | The operations and performance of the Education and Training Department are reported annually Education and Training is a priority of the NSDS. The government allocates a significant percentage of its Budget to this priority. The community and government need to be assured that the investment is being monitored. 1. Develop and support the Curriculum, Accreditation, Statistics and Examinations (CASE) unit to provide the Monitoring and Evaluation services to the Department 2. CASE to prepare an Annual report which shows the level of progress in achieving the goals of this Strategic Plan. In particular, report against each performance indicator provided in Annual Operation Plan of the Department
+GOAL | The operations and performance of the Education and Training Department are reported annually
 --- | ---
+CONTEXT | Education and Training is a priority of the NSDS. The government allocates a significant percentage of its Budget to this priority. The community and government need to be assured that the investment is being monitored.
+STRATEGY | 1. Develop and support the Curriculum, Accreditation, Statistics and Examinations (CASE) unit to provide the Monitoring and Evaluation services to the Department 2. CASE to prepare an Annual report which shows the level of progress in achieving the goals of this Strategic Plan. In particular, report against each performance indicator provided in Annual Operation Plan of the Department 3. Report published and made available for all stakeholders and public. 4. Train CASE staff in Monitoring and Evaluation skills 5. Provide CASE with resources, including human resources, to ensure Accountability programs are effective 6. CASE conducts annual satisfaction survey of all stakeholders
+PERFORMANCE INDICATOR | Annual Report produced
 
 Department of Education and Training. Strategic Plan 2008 - 2013.
 
@@ -1175,10 +1146,11 @@ Page 43 of 51
 [[START OF PAGE 45]]
 
 #### OUR ACCOUNTABILITY
-GOAL CONTEXT STRATEGY | The quality of student outcomes and teachers' performances are monitored and reported The learning outcomes of our students need to be on par with regional standards. Our teachers need to be competent in their performance 1. Provide the CASE unit with resources and policies to allow it to provide the accountability services to the Department 2. CASE conducts benchmark and standardised testing and makes results available to decision makers 3. Develop Teacher Appraisal Program 4. CASE, in collaboration with the Principals, conducts teacher performance reviews and (i) Provides feedback to teachers (ii) Makes recommendation based on teacher's performance (iii) Ensures continuous improvement in teachers' skills (iv) Ensures performance is recorded in teacher's file 5. Train Officer for Teacher Appraisal 6. CASE publishes reports on student outcomes 7. CASE maintains a secure record of student and teacher performance 8. Maintain a secure Scholarship database Reports on student results in regional benchmark tests and on
+GOAL | The quality of student outcomes and teachers’ performances are monitored and reported
 --- | ---
-PERFORMANCE INDICATOR
-teacher performance are published.
+CONTEXT | The learning outcomes of our students need to be on par with regional standards. Our teachers need to be competent in their performance
+STRATEGY | 1. Provide the CASE unit with resources and policies to allow it to provide the accountability services to the Department 2. CASE conducts benchmark and standardised testing and makes results available to decision makers 3. Develop Teacher Appraisal Program 4. CASE, in collaboration with the Principals, conducts teacher performance reviews and (i) Provides feedback to teachers (ii) Makes recommendation based on teacher’s performance (iii) Ensures continuous improvement in teachers’ skills (iv) Ensures performance is recorded in teacher’s file 5. Train Officer for Teacher Appraisal 6. CASE publishes reports on student outcomes 7. CASE maintains a secure record of student and teacher performance 8. Maintain a secure Scholarship database
+PERFORMANCE INDICATOR | Reports on student results in regional benchmark tests and on teacher performance are published.
 
 Department of Education and Training. Strategic Plan 2008 - 2013.
 
@@ -1188,53 +1160,21 @@ Page 44 of 51
 
 [[START OF PAGE 46]]
 
-GOAL
+#### OUR ACCOUNTABILITY
 
-CONTEXT
-
-STRATEGY
-
-PERFORMANCE INDICATOR
-
-GOAL
-
-CONTEXT
-
-STRATEGY
+GOAL | Timely data is available to our Education planners and managers to make evidence based decisions
+--- | ---
+CONTEXT | The Department aims to make decisions based on evidence. The evidence can come from existing data, from trials, from the literature, from workshops or analysis of departmental performance
+STRATEGY | 1. Operate a functional Education Management Information System that is used by CASE 2. Provide training for staff in maintaining the system 3. Build an ICT networking system that allows data and file sharing between Support Office and Schools. 4. Train staff to analyse data and present reports
+PERFORMANCE INDICATOR | 1. Timely presentation of reports 2. Improved communication capability between Support Office and Schools
 
 #### OUR ACCOUNTABILITY
 
-Timely data is available to our Education planners and managers to make evidence based decisions
-
-The Department aims to make decisions based on evidence. The evidence can come from existing data, from trials, from the literature, from workshops or analysis of departmental performance
-
-- Operate a functional Education Management Information System that is used by CASE
-
-- Provide training for staff in maintaining the system
-
-- Build an ICT networking system that allows data and file sharing between Support Office and Schools.
-
-- Train staff to analyse data and present reports
-
-- Timely presentation of reports
-
-- Improved communication capability between Support Office and Schools
-
-#### OUR ACCOUNTABILITY
-
-Provide regular reviews of the Strategic Plan
-
-This Plan is based on the vision NSDS has of the world in 2013. Developments in ICT will impact on the delivery of education services. Sixty five percent of education funding is from donors who may reorder their priorities, and opportunities for improved efficiency may arise in the next five years.
-
-- Annual reviews of Footpath II,
-
-- Implement Footpath II through Annual Operation Plans which allow for flexibility
-
-PERFORMANCE INDICATOR
-
-Annual Review approves extension of Footpath II
-
-Annual Operation Plans produced
+GOAL | Provide regular reviews of the Strategic Plan
+--- | ---
+CONTEXT | This Plan is based on the vision NSDS has of the world in 2013. Developments in ICT will impact on the delivery of education services. Sixty five percent of education funding is from donors who may reorder their priorities, and opportunities for improved efficiency may arise in the next five years.
+STRATEGY | 1. Annual reviews of Footpath II, 2. Implement Footpath II through Annual Operation Plans which allow for flexibility
+PERFORMANCE INDICATOR | Annual Review approves extension of Footpath II Annual Operation Plans produced
 
 Department of Education and Training. Strategic Plan 2008 - 2013.
 
@@ -1245,8 +1185,11 @@ Page 45 of 51
 [[START OF PAGE 47]]
 
 #### OUR ACCOUNTABILITY
-GOAL CONTEXT STRATEGY PERFORMANCE INDICATOR | Ensure equitable and efficient allocation of resources The Department expends over $4 million annually and operates ten school sites. Resources allocated to schools need to be equitable and efficient. 1. Maintain an asset register updated by annual stocktake and audit 2. Create and appoint an Asset Manager 3. Operate a software program that tracks all assets and consumables, including texts and materials in schools. 4. Prepare table of various ratios that allows comparison of allocations to various schools and year levels. 5. Prepare schedule of annual allocation of resources to each school 6. Ensure transport available for efficient distribution. 7. Provide secure storage for consumables and assets at school and Departmental level Asset Management Database is available and a process is in place to monitor it
+GOAL | Ensure equitable and efficient allocation of resources
 --- | ---
+CONTEXT | The Department expends over $4 million annually and operates ten school sites. Resources allocated to schools need to be equitable and efficient.
+STRATEGY | 1. Maintain an asset register updated by annual stocktake and audit 2. Create and appoint an Asset Manager 3. Operate a software program that tracks all assets and consumables, including texts and materials in schools. 4. Prepare table of various ratios that allows comparison of allocations to various schools and year levels. 5. Prepare schedule of annual allocation of resources to each school 6. Ensure transport available for efficient distribution. 7. Provide secure storage for consumables and assets at school and Departmental level
+PERFORMANCE INDICATOR | Asset Management Database is available and a process is in place to monitor it
 
 Department of Education and Training. Strategic Plan 2008 - 2013.
 
@@ -1290,45 +1233,13 @@ Page 48 of 51
 
 [[START OF PAGE 50]]
 
-GOAL CONTEXT
-
-STRATEGY
-
-PERFORMANCE INDICATOR
-
 #### OUR EDUCATION SYSTEM
 
-Is sustainable in terms of human and financial resources
-
-In 2007 -08 the Education Budget consumed $4 million of the Gross National Income. The number of staff in the Department exceeded 200, but staff need significant skills upgrading The number of students exceeded 2700, but truancy was 34%. The leaning outcomes and level of qualifications of students was below regional standards. This Strategic Plan lays a sound foundation to address these issues, but the gains need to be sustainable in the context of the financial capacity of the country and ability of Department to retain the skills it develops
-
-- Prepare annual Budgets that fund recurrent salary and staff expenditure and sustain operations of the System
-
-- Promote the value and importance of Education and Training to the Community
-
-- Prepare long term projections on student and teacher numbers
-
-- Prepare a succession plan for higher level positions
-
-- Establish a human resource capacity building program
-
-- Consider scope for parental financial contributions for schooling
-
-- Consider a training levy on employers to partly fund education
-
-- Consider ways to retain staff trained at Departmental expense
-
-- Develop productive partnerships with donors and regional education and training bodies
-
-- Consider franchising and forming alliances with other service providers to deliver sustainable quality services
-
-- Develop a position paper on corporatising the Education and Training system, or aspects of the system, to ensure sustainability
-
-- Support Regional initiatives for donor harmonisation
-
-Strategies endorsed by government, industries and other stakeholders
-
-Demographic report published by Bureau of Statistics.
+GOAL | Is sustainable in terms of human and financial resources
+--- | ---
+CONTEXT | In 2007-08 the Education Budget consumed $4 million of the Gross National Income. The number of staff in the Department exceeded 200, but staff need significant skills upgrading The number of students exceeded 2700, but truancy was 34%. The leaning outcomes and level of qualifications of students was below regional standards. This Strategic Plan lays a sound foundation to address these issues, but the gains need to be sustainable in the context of the financial capacity of the country and ability of Department to retain the skills it develops
+STRATEGY | 1. Prepare annual Budgets that fund recurrent salary and staff expenditure and sustain operations of the System 2. Promote the value and importance of Education and Training to the Community 3. Prepare long term projections on student and teacher numbers 4. Prepare a succession plan for higher level positions 5. Establish a human resource capacity building program 6. Consider scope for parental financial contributions for schooling 7. Consider a training levy on employers to partly fund education 8. Consider ways to retain staff trained at Departmental expense 9. Develop productive partnerships with donors and regional education and training bodies 10. Consider franchising and forming alliances with other service providers to deliver sustainable quality services 11. Develop a position paper on corporatising the Education and Training system, or aspects of the system, to ensure sustainability 12. Support Regional initiatives for donor harmonisation
+PERFORMANCE INDICATOR | Strategies endorsed by government, industries and other stakeholders Demographic report published by Bureau of Statistics.
 
 Department of Education and Training. Strategic Plan 2008 - 2013.
 
@@ -1338,31 +1249,15 @@ Page 49 of 51
 
 [[START OF PAGE 51]]
 
-GOAL
-
-CONTEXT
-
-STRATEGY
-
-PERFORMANCE INDICATOR
-
 #### OUR EDUCATION SYSTEM
 
-All stakeholders have a shared vision for Education and Training goals
+GOAL | All stakeholders have a shared vision for Education and Training goals
+--- | ---
+CONTEXT | Quality schools research shows that all stakeholders must have ownership of the programs and policies of the school and the system if quality is to be achieved. This ownership is achieved through consultation and meaningful engagement of all stakeholders. The ownership is demonstrated when all stakeholders have a shared vision.
+STRATEGY | 1. Use consultative process to develop Strategic Plan 2. Disseminate the Strategic Plan through publications, meetings, activities and ceremonies 3. Principals, as community change agents, “walk the talk” about the vision expressed in the Strategic plan 4. Promote community involvement in the Education process
+PERFORMANCE INDICATOR | Stakeholders express satisfaction with their ability to influence Education and Training programs
 
-Quality schools research shows that all stakeholders must have ownership of the programs and policies of the school and the system if quality is to be achieved. This ownership is achieved through consultation and meaningful engagement of all stakeholders. The ownership is demonstrated when all stakeholders have a shared vision.
-
-- Use consultative process to develop Strategic Plan
-
-- Disseminate the Strategic Plan through publications, meetings, activities and ceremonies
-
-- Principals, as community change agents, 'walk the talk' about the vision expressed in the Strategic plan
-
-- Promote community involvement in the Education process
-
-Stakeholders express satisfaction with their ability to influence Education and Training programs
-
-Department of Education and Training. Strategic Plan 2008 - 2013.
+Department of Education and Training. Strategic Plan 2008 – 2013.
 
 Page 50 of 51
 
