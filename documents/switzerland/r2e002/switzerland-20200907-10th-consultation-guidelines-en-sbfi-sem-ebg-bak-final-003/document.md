@@ -58,9 +58,9 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 3]]
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States through  a  participatory  process.  Please  note  that  multiple  answers  may  be  provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States through a participatory process. Please note that multiple answers may be provided where relevant.
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 In their responses, Member States are encouraged to provide information in a concise manner while preserving substantive and relevant content.
 
@@ -74,11 +74,9 @@ Country name: Switzerland
 
 Organization  or  entity  responsible  for  the  preparation  of  the  report:  State  Secretariat  for Education, Research and Innovation SERI
 
-### Information on the legislative, judicial, administrative and other measures taken by the state at the national level
+### I. Information on the legislative, judicial, administrative and other measures taken by the state at the national level
 
-#### Ratification of the Convention 2
-
-- þ No, not considering ratification in the near future. Please explain why:
+#### 1. Ratification of the Convention 2
 
 Is your country a State Party to the Convention?
 
@@ -86,9 +84,7 @@ o Yes
 
 þ No: Does your country plan to ratify this instrument?
 
-o
-
-Yes: Please indicate the stage of ratification process reached by your country:
+o Yes: Please indicate the stage of ratification process reached by your country:
 
 o Close to ratification
 
@@ -96,13 +92,15 @@ o Underway
 
 o Actively under preparation
 
-- Please  briefly  explain  the  difficulties  encountered  in  completing  the  ratification process and the means of overcoming them:
+- Please briefly explain the difficulties encountered in completing the ratification process and the means of overcoming them:
 
 Describe:
 
 - è the obstacles, whether legal, institutional, political or practical
 
 - è the means of overcoming them and the extent to which UNESCO can assist in completing the process
+
+þ No, not considering ratification in the near future. Please explain why:
 
 Switzerland does not aim at the ratification of this convention since its content overlaps with other acts that have been ratified by Switzerland (essentially the UN Convention on the Rights of Children and the UN Convention on the Rights of Persons with Disabilities). In this context the ratification would not bring an added value for Switzerland in terms of fighting discrimination.
 
@@ -114,7 +112,7 @@ http://portal.unesco.org/en/ev.php-URL_ID=12949&URL_DO=DO_TOPIC&URL_SECTION=201.
 
 [[START OF PAGE 5]]
 
-#### Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
+#### 2. Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
 
 Has your country ratified the Protocol?
 
@@ -124,7 +122,7 @@ o Yes
 
 See above mentioned reasons.
 
-#### Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
+#### 3. Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
 
 In case your country is a State Party to the Convention:
 
@@ -168,7 +166,7 @@ If yes, the report could list the main texts adopted to guarantee the right to e
 
 Art. 8 of the Federal Constitution of the Swiss Confederation (https://www.admin.ch/opc/en/classified-compilation/19995395/index.html) states that no person may be discriminated against. Art. 2 para. 3 further states that the Swiss Confederation  shall  ensure  the  greatest  possible  equality  of  opportunity  among  its citizens.
 
-The Federal Act on the Elimination of Discrimination against People with Disabilities (Disability Discrimination Act, https://www.admin.ch/opc/en/classifiedcompilation/20002658/index.html, Art. 3 let. f) explicitly also applies to education.
+The Federal Act on the Elimination of Discrimination against People with Disabilities (Disability Discrimination Act, https://www.admin.ch/opc/en/classified-compilation/20002658/index.html, Art. 3 let. f) explicitly also applies to education.
 
 La LEg s'applique uniquement aux rapports de travail et non à l'éduction
 
@@ -190,7 +188,7 @@ In Switzerland, education in general falls in the responsibility of the cantons,
 
 #### 1. Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
 
-Articles/Paragraphs  1(1),  2  and  3  of  the  Convention/Recommendation  provide  for  nondiscrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
+Articles/Paragraphs 1(1), 2 and 3 of the Convention/Recommendation provide for non-discrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
 
 [[END OF PAGE 6]]
 
@@ -286,7 +284,7 @@ The answer above refers to the federal government. The cantons, municipalities a
 
 - Please elaborate further on the measures taken, including those to ensure gender equality and the empowerment of girls and women in and through education:
 
-There are individual measures of the public and the private sector to promote inclusion and empowerment of girls and women in and through education. The Confederation plays a subsidiary role. An example in the field of higher education is the national programme on 'Equal Opportunities and University Development' ( https://www.swissuniversities.ch/en/topics/equal-opportunities/p-7-equal-opportunity-anduniversity-development). The  action  plans  and  cooperation  projects  of  the  universities  are coordinated through this programme.
+There are individual measures of the public and the private sector to promote inclusion and empowerment of girls and women in and through education. The Confederation plays a subsidiary role. An example in the field of higher education is the national programme on 'Equal Opportunities and University Development' (https://www.swissuniversities.ch/en/topics/equal-opportunities/p-7-equal-opportunity-and-university-development). The action plans and cooperation projects of the universities are coordinated through this programme.
 
 -  Please indicate whether your country has adopted and reviewed legislation related to the minimum age for marriage so that it conforms to international standards (18 years):
 
@@ -308,7 +306,7 @@ Swiss civil code, Art. 94. To be able to marry, the prospective spouses must hav
 
 ##### 2.1 Pre-primary education
 
-Pre-primary  education  is  not  explicitly  provided  for  in  the  Convention/Recommendation. However, the international community has increasingly recognized the importance of early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 8 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory preprimary education'.
+Pre-primary education is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 8. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Is compulsory and free of charge pre-primary education available in your country?
 
@@ -334,7 +332,7 @@ Article/Paragraph 4(a) of the Convention/Recommendation provides for universal p
 
 - Is primary education compulsory in your country?
 
-þ Yes o No Please indicate the current duration period of compulsory education and the age of enrolment:
+þ Yes o No
 
 > 8 Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'.
 
@@ -342,7 +340,9 @@ Article/Paragraph 4(a) of the Convention/Recommendation provides for universal p
 
 [[START OF PAGE 10]]
 
-In  this  part,  you  may  also  provide  information  on  the  difficulties  experienced  by  your government  in  the  realization  of  universal  access  to  primary  education.  Quantitative information could be added.
+Please indicate the current duration period of compulsory education and the age of enrolment:
+
+In this part, you may also provide information on the difficulties experienced by your government in the realization of universal access to primary education. Quantitative information could be added.
 
 Compulsory education lasts for eleven years and is free for all children. It comprises two levels:  primary  and  lower  secondary.  The  first  primary  years  are  either  two  years  of kindergarten or a first learning cycle.
 
@@ -350,7 +350,7 @@ Compulsory education lasts for eleven years and is free for all children. It com
 
 - þ Yes: Please provide the duration and indicate the extent to which it is.
 
-For this,  please  list  the  laws  and  policies  that  ensure  the  universal  and  free  availability  of primary education and indicate whether direct and indirect costs are charged (such as tuition fees,  exam  fees,  schools  supplies,  uniforms,  transport  costs  and  compulsory  levies  on parents).
+For this, please list the laws and policies that ensure the universal and free availability of primary education and indicate whether direct and indirect costs are charged (such as tuition fees, exam fees, school supplies, uniforms, transport costs and compulsory levies on parents).
 
 Primary school lasts eight years; seven in the canton of Ticino. It is free of charge to all children.
 
@@ -374,7 +374,7 @@ Please list the laws and policies that ensure the free availability of secondary
 
 Lower secondary school is free of charge (Federal Constitution of the Swiss Confederation Art. 19).
 
-Due to the diversity of the offers in the upper secondary level it is not possible to make general statements on the direct and indirect costs. Furthermore the cantons have a high autonomy regarding general upper-secondary education (Federal Act on Vocational and Professional Education and Training, especially Art 53).
+Due to the diversity of the offers in the upper secondary level it is not possible to make general statements on the direct and indirect costs. Furthermore the cantons have a high autonomy regarding general upper-secondary education (Federal Act on Vocational and Professional Education and Training, especially Art. 53).
 
 [[END OF PAGE 10]]
 
@@ -454,7 +454,7 @@ compilation/20070429/index.html ), there are two paragraphs which address equal 
 
 [[START OF PAGE 13]]
 
-The more general Federal Act on the Elimination of Discrimination against People with Disabilities (Disability Discrimination Act, DDA; https://www.admin.ch/opc/en/classifiedcompilation/20002658/index.html ) explicitly also applies to Education (art. 3, let. f).
+The more general Federal Act on the Elimination of Discrimination against People with Disabilities (Disability Discrimination Act, DDA; https://www.admin.ch/opc/en/classified-compilation/20002658/index.html) explicitly also applies to Education (art. 3, let. f).
 
 - Please indicate efforts made by your government to ensure that higher education is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items could be ticked/mentioned):
 
@@ -586,7 +586,7 @@ Article/Paragraph  5(1)(a)  of  the  Convention/Recommendation  provides  for  t
 
 - o Other:
 
-Regarding the compulsory level the responsibility falls to the cantons. The Confederation issues core syllabuses regarding curricula for the upper-secondary education. Human rights and fundamental freedoms are part of the general education (https://www.sbfi.admin.ch/sbfi/de/home/bildung/beruflichegrundbildung/allgemeinbildung.html).
+Regarding the compulsory level the responsibility falls to the cantons. The Confederation issues core syllabuses regarding curricula for the upper-secondary education. Human rights and fundamental freedoms are part of the general education (https://www.sbfi.admin.ch/sbfi/de/home/bildung/berufliche-grundbildung/allgemeinbildung.html).
 
 ##### 2.8 Private education
 
@@ -698,9 +698,9 @@ At the level of the confederation the inclusion in mainstream education of the r
 
 The cantons can provide further measures such as language courses, specific training for educational staff, measures aiming at the integration to the labour market, etc.
 
-### Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
+### III. Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
 
-#### Challenges and obstacles
+#### 1. Challenges and obstacles
 
 - 1.1 Please indicate and provide any information on the difficulties encountered in the process of implementing  the  key  provisions  of  the  Convention/Recommendation  (including  legal  and practical obstacles) and on the main issues that need to be addressed for promoting further the right to education in your country (several items could be ticked/mentioned):
 
@@ -732,7 +732,7 @@ o Dissemination and advocacy of the core content of the Convention/Recommendatio
 
 o Increased public awareness through advocacy material on the Convention/ Recommendation or the core principles of the right to education
 
-o Activities undertaken  or supported by the  National  Commission  to  promote  non- discrimination  and  equality  of  educational  opportunities  and  to  foster  debate  on  critical issues in relation to the rights enshrined in the instruments
+o Activities undertaken or supported by the National Commission to promote non-discrimination and equality of educational opportunities and to foster debate on critical issues in relation to the rights enshrined in the instruments
 
 o Other:
 
