@@ -2,7 +2,7 @@
 
 REPUBLIC OF ZAMBIA
 
-# STRATEGIC PLAN FOR MINISTRY OF SCIENCE, TECHNOLOGY AND VOCATIONAL TRAINING 2003 - 2007
+# STRATEGIC PLAN FOR MINISTRY OF SCIENCE, TECHNOLOGY AND VOCATIONAL TRAINING 2003 – 2007
 
 Prepared By: Ministry of Science, Technology and Vocational Training LUSAKA
 
@@ -13,6 +13,25 @@ September 2002
 [[START OF PAGE 2]]
 
 ## Table of Contents
+
+FOREWORD ........................................................................................................3
+1.0 INTRODUCTION........................................................................................5
+1.1 BACKGROUND ..........................................................................................5
+1.2 PLAN COVERAGE......................................................................................7
+2.0 ENVIRONMENTAL ANALYSIS.................................................................9
+2.1 EXTERNAL ENVIRONMENTAL ANALYSIS.....................................................9
+2.2 INTERNAL ENVIRONMENTAL ANALYSIS ....................................................12
+2.3 IDENTIFICATION OF STRENGTHS, WEAKNESSES, OPPORTUNITIES AND
+THREATS (SWOT ANALYSIS) ..................................................................14
+2.3 CLIENTS AND THEIR NEEDS .....................................................................25
+2.4 STRATEGIC/CORE ISSUES........................................................................27
+3.0 MISSION STATEMENT ............................................................................28
+4.0 GOAL STATEMENT.................................................................................28
+5.0 OBJECTIVES, STRATEGIES AND OUTPUT INDICATORS..................29
+6.0 PRE-CONDITIONS ...................................................................................37
+7.0 GENERAL ASSUMPTIONS .....................................................................37
+8.0 LINKING THE STRATEGIC PLAN TO THE BUDGETING
+PROCESS...............................................................................................38
 
 2
 
@@ -30,13 +49,15 @@ The  Ministry  of  Science,  Technology  and  Vocational  Training  is  a  pivot
 
 The  review  and  refinement  of  the  initial  Plan  became  necessary  due  to  new development Science, Technology and Vocational Training and Entrepreneurship  that  took  place.    These  developments  were  of  a  political, economic,  social,  cultural  and  environmental  nature.    It,  therefore,  became imperative  to  review  the  Plan  so  that  it  could  continue  providing  rational guidance to the functions and operations of the Ministry.  The revised Plan is stherefore, complementary to the first one.
 
-While  lauding  the  commendable  efforts  of  the  Senior  Management  Team  in producing  this  comprehensive  document,  such  commendation  would  not  be complete without mentioning the input of  the  various  stakeholders  who  made constructive  comments  and  critiques  on  the  operation  of  the  Ministry.    I  only hope that arising from your observations we shall further enhance the quality of our interaction to mutual benefit.  Special thanks should also to the dedicated and very helpful team from the Management Development Division at Cabinet Office  who  not  only  facilitated  the  workshop,  but  also  provided  useful  and pertinent  guidance  to  its  deliberations  and  work  plan.    My  Ministry  is  equally indebted  to  the  Public  Service  Capacity  Building  Project  (PSCAP)  for  its financial support that played a significant role in the whole process.
+While  lauding  the  commendable  efforts  of  the  Senior  Management  Team  in producing  this  comprehensive  document,  such  commendation  would  not  be complete without mentioning the input of  the  various  stakeholders  who  made constructive  comments  and  critiques  on  the  operation  of  the  Ministry.    I  only hope that arising from your observations we shall further enhance the quality of our interaction to mutual benefit.  Special thanks should also to the dedicated and very helpful team from the Management Development Division at Cabinet Office  who  not  only  facilitated  the  workshop,  but  also  provided  useful  and
 
 3
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+pertinent guidance to its deliberations and work plan. My Ministry is equally indebted to the Public Service Capacity Building Project (PSCAP) for its financial support that played a significant role in the whole process.
 
 To all members of staff at the Ministry of Science, Technology and Vocational Training my message to you is that this is 'your document'  I implore you all, regardless of your Department or Section, to read this document in its entirety and adhere to its contents otherwise the labour and spirited effort that went into its production shall be in vain.  Let us focus on our objective of better service to our clients and above all to mother Zambia.  The successful implementation of Science  and  Technology  and  the  provision  of Technical  Education  and Entrepreneurship  Training  will  be  needlessly  tortuous  if  we  do  not  give  this document the attention and action that befits it.
 
@@ -66,15 +87,15 @@ Hon Abel M. Chambeshi, MP MINISTRY OF SCIENCE, TECHNOLOGY & VOCATIONAL TRAINING
 
 - Trade Training Institutes;
 
-- Technologist Training;
-
 - Technical Colleges;
+
+- Technologist Training;
 
 - Art Training and Promotion;
 
-- Curriculum Development; and
-
 - Secondary Technical Teacher Training;
+
+- Curriculum Development; and
 
 - Co-ordination of Technical Training.
 
@@ -84,9 +105,9 @@ Hon Abel M. Chambeshi, MP MINISTRY OF SCIENCE, TECHNOLOGY & VOCATIONAL TRAINING
 
 - National Institute for Scientific and Industrial Research (NISIR);
 
-- National Technology Business Centre (NTBC).
-
 - National Science and Technology Council (NSTC); and
+
+- National Technology Business Centre (NTBC).
 
 - 1.1.5 In  effectively  pursuing  these  portfolio  functions,  and  as  part  of  the restructuring  of  the  Public  Service  under  the  Public  Service  Reform Programme (PSRP) that is aimed at improving performance and service delivery, MSTVT developed a five year Strategic Plan in 1995.  The Plan defined,  among  other  things,  MSTVT's  clients  and  their  needs,  the
 
@@ -166,7 +187,7 @@ The goal statement, projecting strategically what MSTVT intends to practically a
 
 #### (d) Objectives and Output Indicators
 
-The revised objectives, which are specific, measurable and resultoriented statements of what MSTVT intends to achieve in the next five years are presented and discussed. The objectives have been revised in line with the revised mission and goal statements and taking  into  account  MSTVT's  accomplishments  in  the  last  five years, the revised needs of its clients and national priorities.
+The revised objectives, which are specific, measurable and result-oriented statements of what MSTVT intends to achieve in the next five years are presented and discussed. The objectives have been revised in line with the revised mission and goal statements and taking  into  account  MSTVT's  accomplishments  in  the  last  five years, the revised needs of its clients and national priorities.
 
 The  revised  objectives  are  accompanied  by  output  indicators, which  are  products  by  which  the  achievement  of  the  revised objectives  will  be  measured.  These  are  also  presented  and discussed.
 
@@ -226,7 +247,7 @@ GDP per capita. From US$ 421.2 in 1991, it had decline to US$ 402.7 in 1997. The
 
 - 2.1.6 One  of  the  most  outstanding  economic  problems  Zambia  was facing prior to the implementation of the stabilisation and adjustment  programmes  was  the  external  debt  burden.  Despite vigorous  attempts  at  structural  adjustment,  there  has  been  no significant change in Zambia's external debt situation.  From US$ 7.223  billion  in  1990,  Zambia's  external  debt  still  stood  at  a staggering US$ 7.270 billion by December 2001. This is well over ten  times  Zambia's  annual  GDP  which  stood  at  ZMK  2,  628.9 billion  in  2001.  The  debt  per  capita  currently  stands  at  over US$700, making Zambia's external debt burden one of the largest in the world today. The challenge to MSTVT is to find alternative ways of mobilising resources necessary to successfully implement the  revised  Strategic  Plan  since  resources  coming  from  the treasury  will  be  limited  and  the  country  will  continue  to  meet  its debt  obligations  though  at  a  reduced  rate  as  provided  for  under the Highly Indebted Poor Countries (HIPC) initiative.
 
-- 2.1.7 Another  economic  problem  currently  facing  the  country  is  the balance of payments problem, which emerged in 1975 with the fall in  copper  prices  at  the  world  market.  This  important  macroeconomic indicator has remained negative over the years. From minus US$ 356 million in 1990, the figure had reduced significantly to minus US$ 139 million by 1997 only to rise again to minus  US$  221  million  in  2000  and  to  minus  US$355  million  in 2001.This  has  impacted  negatively  on  Governments  ability  to provide  adequate  funding  to  Government  ministries,  including MSTVT, as Governments' attention has been, sometimes, diverted  to  improving  the  balance  of  payments  position  at  the expense of developmental programmes. The challenge to MSTVT is how  to assist  the  country  emerge  from  these  economic doldrums  through  the  use  of  science  and  technology  and  the provision of highly skilled human resources.
+- 2.1.7 Another  economic  problem  currently  facing  the  country  is  the balance of payments problem, which emerged in 1975 with the fall in  copper  prices  at  the  world  market.  This  important  macro-economic indicator has remained negative over the years. From minus US$ 356 million in 1990, the figure had reduced significantly to minus US$ 139 million by 1997 only to rise again to minus  US$  221  million  in  2000  and  to  minus  US$355  million  in 2001.This  has  impacted  negatively  on  Governments  ability  to provide  adequate  funding  to  Government  ministries,  including MSTVT, as Governments' attention has been, sometimes, diverted  to  improving  the  balance  of  payments  position  at  the expense of developmental programmes. The challenge to MSTVT is how  to assist  the  country  emerge  from  these  economic doldrums  through  the  use  of  science  and  technology  and  the provision of highly skilled human resources.
 
 - 2.1.8 High  unemployment  levels  in  the  country  have  been  one  of  the major  consequences  of  the  poor  performance  of  the  economy. This  has  led  to  a  lateral  expansion  of  the  informal  sector  and  a significant  increase  in  the  incidence  of  poverty  with  over  70%  of the population being classified as poor. Declining job opportunities in the formal sector coupled with the need to supplement declining formal sector incomes and, thus, maintain accepted living standards, have accelerated the informalisation of production and employment in the country. There is need, therefore for MSTVT to provide informal sector operators with appropriate scientific
 
@@ -368,7 +389,7 @@ MSTVT is faced with a shortage of office accommodation, resulting  in  some  uni
 
 ##### (iv) Poor Commercialisation of  R&D Products
 
-One  of  the  major  functions  of  MSTVT  is  to  undertake research and development activities in science and technology. Consequently, the Ministry has established the National  Institute  for  Scientific  and  Industrial  Research  to undertake  research  and  development  activities.  However, the institutions have not been proactive in their approach to R&D, resulting in very few activities being commercialised. There  is  need,  therefore,  for  MSTVT  to  sensitise  the management  of  R&D  institutions  on  the  need  to  be  proactive  in  their  work.  MSTVT  should  set  targets  against which the performance of the institutions can be measured.
+One  of  the  major  functions  of  MSTVT  is  to  undertake research and development activities in science and technology. Consequently, the Ministry has established the National  Institute  for  Scientific  and  Industrial  Research  to undertake  research  and  development  activities.  However, the institutions have not been proactive in their approach to R&D, resulting in very few activities being commercialised. There  is  need,  therefore,  for  MSTVT  to  sensitise  the management  of  R&D  institutions  on  the  need  to  be  pro-active  in  their  work.  MSTVT  should  set  targets  against which the performance of the institutions can be measured.
 
 18
 
@@ -378,7 +399,7 @@ One  of  the  major  functions  of  MSTVT  is  to  undertake research and develo
 
 ##### (v) Inadequate Capacity to Manage R&D Systems
 
-The  R&D  systems  that  have  been  established  under MSTVT have not adequately responded to the developmental  needs  and  demands  of  the  new  socioeconomic  environment  in  the  country.  Therefore,  MSTVT needs to  build  human  and  institutional  capacity  to  mange R&D if the country is to benefit from the R& institutions it has created.
+The  R&D  systems  that  have  been  established  under MSTVT have not adequately responded to the developmental  needs  and  demands  of  the  new  socio-economic  environment  in  the  country.  Therefore,  MSTVT needs to  build  human  and  institutional  capacity  to  mange R&D if the country is to benefit from the R& institutions it has created.
 
 ##### (vi) Absence of a Continuous Induction System for Management Boards
 
@@ -386,7 +407,7 @@ MSTVT has established  Management  Boards  to  manage the operations of all Gove
 
 ##### (vii) Low Priority accorded to Research and Development
 
-Although MSTVT has put in place a number of measures including an institutional and policy framework for R&D, the Government  still  accords  low  priority  to  research  and development  as  evidenced  from  the  low  funding  levels allocated  to  this  portfolio,  among  other  things.  This  has resulted in lack of appropriate technologies being developed  and  adopted  for  use  by  both  large  and  smallscale industries in the country. There is need for MSTVT to prioritise  R&D  in  terms  of  funding  and  programming  in order to ensure that appropriate technologies are developed  and  adopted  for  use  by  both  large  and  smallscale industries in the country to increase their productivity and competitiveness.
+Although MSTVT has put in place a number of measures including an institutional and policy framework for R&D, the Government  still  accords  low  priority  to  research  and development  as  evidenced  from  the  low  funding  levels allocated  to  this  portfolio,  among  other  things.  This  has resulted in lack of appropriate technologies being developed  and  adopted  for  use  by  both  large  and  small-scale industries in the country. There is need for MSTVT to prioritise  R&D  in  terms  of  funding  and  programming  in order to ensure that appropriate technologies are developed  and  adopted  for  use  by  both  large  and  small-scale industries in the country to increase their productivity and competitiveness.
 
 19
 
@@ -452,6 +473,14 @@ As part of the restructuring process, MSTVT has established    Management Boards
 
 [[START OF PAGE 23]]
 
+##### (iii) Support from Stakeholders
+
+MSTVT receives a lot of support from its stakeholders which includes financial assistance, approval of its various programmes and active involvement in the decision making process and programme implementation. The Ministry should take advantage of this support from stakeholders to complete the  remaining  aspects  of  the  reform  process  and enhance  its  performance.  In  addition,  the  Ministry  should develop and implement mechanisms that will facilitate meaningful and coordinated harnessing of the support from stakeholders.
+
+##### (iv)  Donor goodwill
+
+MSTVT  requires  adequate  resources  for  it  to  promote  the development and application of science and technology and to  provide  quality  and  relevant  technical  education  and vocational  and  entrepreneurship  training.  There  is  currently good  will  from  donors  to  support  the  operations  of  the Ministry. MSTVT should take advantage of this donor support and ensure effective utilisation of and accountability for any assistance received.
+
 #### (d) Threats
 
 Besides the positive factors that MSTVT can take advantage of, there are negative      factors  (threats)  in  the  external  environment  that  may  militate against the successful implementation of the revised Strategic Plan. These include the following:
@@ -463,14 +492,6 @@ MSTVT,  like  any  other  Government  Ministry,  is  faced  with  the problem  o
 ##### (ii) Inadequate and untimely funding
 
 The continued poor performance of the economy presents a major threat to the operations of MSTVT.  Over time, the operations of the Ministry have been severely affected by untimely and inadequate  funding  caused  mainly  by  the  weak  Government resource base resulting from the poor performance of the
-
-##### (iii) Support from Stakeholders
-
-MSTVT receives a lot of support from its stakeholders which includes financial assistance, approval of its various programmes and active involvement in the decision making process and programme implementation. The Ministry should take advantage of this support from stakeholders to complete the  remaining  aspects  of  the  reform  process  and enhance  its  performance.  In  addition,  the  Ministry  should develop and implement mechanisms that will facilitate meaningful and coordinated harnessing of the support from stakeholders.
-
-##### (iv)  Donor goodwill
-
-MSTVT  requires  adequate  resources  for  it  to  promote  the development and application of science and technology and to  provide  quality  and  relevant  technical  education  and vocational  and  entrepreneurship  training.  There  is  currently good  will  from  donors  to  support  the  operations  of  the Ministry. MSTVT should take advantage of this donor support and ensure effective utilisation of and accountability for any assistance received.
 
 23
 
@@ -608,7 +629,7 @@ Despite  Government  realising  the  importance  of  science  and technology  as
 
 #### (b)   Limited Mandate of the Ministry
 
-The  current  mandate  for  MSTVT  restricts  it  to  the  provision  of training up to semi-professional level and does not embrace all R&D  activities  in  science  and  technology.  This  has  prevented the Ministry from undertaking training activities aimed at producing highly skilled human  resources in science and technology at degree level. In addition, the narrow scope of the Ministry in science and technology has led to the thin spread of this function across various government Ministries and institutions, making  effective coordination of R&D  activities difficult  and  resulting  in  the  thin  spread  of  resources  for  this function. This has reduced the impact of these resources. There is  need,  therefore,  for  government  to  review  the  mandate  of MSTVT to  enable  it  provide  training  beyond  semi-professional level  and  be  responsible  for  all  R&D  activities  in  science  and technology.
+The  current  mandate  for  MSTVT  restricts  it  to  the  provision  of training up to semi-professional level and does not embrace all R&D  activities  in  science  and  technology.  This  has  prevented the Ministry from undertaking training activities aimed at producing highly skilled human  resources in science and technology at degree level. In addition, the narrow scope of the Ministry in science and technology has led to the thin spread of
 
 27
 
@@ -616,11 +637,13 @@ The  current  mandate  for  MSTVT  restricts  it  to  the  provision  of trainin
 
 [[START OF PAGE 28]]
 
+this function across various government Ministries and institutions, making  effective coordination of R&D  activities difficult  and  resulting  in  the  thin  spread  of  resources  for  this function. This has reduced the impact of these resources. There is  need,  therefore,  for  government  to  review  the  mandate  of MSTVT to  enable  it  provide  training  beyond  semi-professional level  and  be  responsible  for  all  R&D  activities  in  science  and technology.
+
 ## 3.0    MISSION STATEMENT
 
 - 3.1        It  is  against  this  background,  therefore,  that  the  mission  statement  for MSTVT has been revised as follows:
 
-'To effectively facilitate and promote the development and application of science and technology; and provision of technical, vocational and entrepreneurship  skills for sustainable national economic growth and improved quality of life'
+“To effectively facilitate and promote the development and application of science and technology; and provision of technical, vocational and entrepreneurship  skills for sustainable national economic growth and improved quality of life”
 
 - 3.2 Through this revised mission statement, MSTVT will provide and monitor , coordinate and evaluate the implementation of an appropriate operational  framework  to  ensure  the  development  and  application  of science  and  technology  and  the  provision  of  quality  and  relevant technical education, vocational and entrepreneurship training  necessary for sustainable national economic growth and improved quality of life.
 
@@ -630,7 +653,7 @@ The  current  mandate  for  MSTVT  restricts  it  to  the  provision  of trainin
 
 - 4.1     In support of the revised mission statement, and to give MSTVT specific focus and   direction in the next five years, the goal statement has been revised as follows:
 
-'To  strengthen  capacities  for  the  national  development and application of  science  and  technology,  and  for  the provision of skilled  human  resources  for  improved productivity and quality of life'
+“To  strengthen  capacities  for  the  national  development and application of  science  and  technology,  and  for  the provision of skilled  human  resources  for  improved productivity and quality of life”
 
 - 4.2  Through this revised goal statement, MSTVT will  develop and implement programmes that will enable strengthening of capacities for the
 
@@ -650,7 +673,7 @@ development and application of science and technology and the provision of skill
 
 #### 5.2.1    Strategies
 
-- Review existing curricula in consultation with stakeholders;
+- i) Review existing curricula in consultation with stakeholders;
 
 - ii) Revise and re-enforce standards, and
 
@@ -658,7 +681,7 @@ development and application of science and technology and the provision of skill
 
 #### 5.2.2   Output Indicators
 
-- Revised National Curricula in use by 2003;
+- i) Revised National Curricula in use by 2003;
 
 - ii) Improved  Training  Standards  enforcement  mechanisms  in  place by December 2003; and
 
@@ -670,7 +693,7 @@ development and application of science and technology and the provision of skill
 
 #### 5.3.1      Strategies
 
-- Develop and implement preventive maintenance plan;
+- i) Develop and implement preventive maintenance plan;
 
 - ii) Facilitate rehabilitation of facilities;
 
@@ -678,7 +701,7 @@ development and application of science and technology and the provision of skill
 
 - iv) Monitor the utilisation of tools and equipment, and
 
-- Evaluate the impact of preventive maintenance plan and the tools and equipment.
+- v) Evaluate the impact of preventive maintenance plan and the tools and equipment.
 
 29
 
@@ -688,7 +711,7 @@ development and application of science and technology and the provision of skill
 
 #### 5.3.2      Output Indicators
 
-- Preventive maintenance programme developed and implemented by December 2003.
+- i) Preventive maintenance programme developed and implemented by December 2003.
 
 - ii) All institutions rehabilitated by December 2007, and
 
@@ -700,7 +723,7 @@ development and application of science and technology and the provision of skill
 
 #### 5.4.1       Strategies
 
-- Employ qualified staff;
+- i) Employ qualified staff;
 
 - ii) Enforce  occupational  standards  for  TEVET  and  Science  and Technology;
 
@@ -712,7 +735,7 @@ development and application of science and technology and the provision of skill
 
 #### 5.4.2      Output Indicators
 
-- All key positions filled by 2003;
+- i) All key positions filled by 2003;
 
 - ii) Standard lecturer/student and researcher/technician ratio achieved by 2007;
 
@@ -736,11 +759,11 @@ development and application of science and technology and the provision of skill
 
 #### 5.5.1       Strategies
 
-- Establish National Qualification Framework in consultation with key stakeholders.
+- i) Establish National Qualification Framework in consultation with key stakeholders.
 
 #### 5.5.2     Output Indicators
 
-- National  Qualification  Framework  developed  and  operational  by 2007.
+- i) National  Qualification  Framework  developed  and  operational  by 2007.
 
 - 5.5.3        Through  this  objective  and  associated  strategies,  MSTVT  will  ensure that  a  relevant  national  qualification  framework  is  developed  and regularly reviewed in order to facilitate accreditation of prior learning of trainees, establishment of equivalent qualifications and standardisation of training.
 
@@ -748,11 +771,11 @@ development and application of science and technology and the provision of skill
 
 #### 5.6.1       Strategies
 
-- Facilitate construction of infrastructure.
+- i) Facilitate construction of infrastructure.
 
 #### 5.6.2      Output Indicators
 
-- Six (6) new institutions constructed by 2007.
+- i) Six (6) new institutions constructed by 2007.
 
 - 5.6.3    Through this objective and associated objectives, MSTVT will develop an  infrastructure  construction  programme  and  mobilise  necessary resources  for its implementation  to ensure  that at least six (6) institutions  operating  in  temporally  premises  are  provided  adequate and modern accommodation.
 
@@ -760,15 +783,15 @@ development and application of science and technology and the provision of skill
 
 #### 5.7.1       Strategies
 
-- Provide incentives for cleaner production processes;
+- i) Provide incentives for cleaner production processes;
 
 - ii)   Provide information on technologies for recycling of materials;
 
-- iii)  Advocate  for  tax  and  other  incentives  for  industries  using  biodegradable materials;
+- iii)  Advocate  for  tax  and  other  incentives  for  industries  using  bio-degradable materials;
 
 - iv)  Facilitate establishment of venture capital fund;
 
-- Advocate for enforcement of products standards by Zambia Bureau of Standards; and
+- v) Advocate for enforcement of products standards by Zambia Bureau of Standards; and
 
 31
 
@@ -780,7 +803,7 @@ development and application of science and technology and the provision of skill
 
 #### 5.7.2 Output Indicators
 
-- Increased adoption of cleaner production processes;
+- i) Increased adoption of cleaner production processes;
 
 - ii) Increased recycling of materials;
 
@@ -788,7 +811,7 @@ development and application of science and technology and the provision of skill
 
 - iv) Increased use of bio- degradable materials in the processing industry;
 
-- Increased volume of sales for locally produced goods;
+- v) Increased volume of sales for locally produced goods;
 
 - vi)    Increased exports; and
 
@@ -800,9 +823,7 @@ development and application of science and technology and the provision of skill
 
 #### 5.8.1    Strategies
 
-- i)
-
-- Enforce TEVET Act effectively;
+- i) Enforce TEVET Act effectively;
 
 - ii) Review Science and Technology Act No. 26 of 1997;
 
@@ -810,7 +831,7 @@ development and application of science and technology and the provision of skill
 
 - iv) Strengthen the TEVETA inspectorate;
 
-- Review inspection regulations;
+- v) Review inspection regulations;
 
 - vi) Publish standards annually;
 
@@ -820,11 +841,11 @@ development and application of science and technology and the provision of skill
 
 - ix)        Facilitate capacity building of the National and Satellite Metrology laboratories; and
 
-- Develop  and  implement  an        accreditation  programme  and system for laboratory facilities; and
+- x) Develop  and  implement  an        accreditation  programme  and system for laboratory facilities; and
 
 #### 5.8.2    Output Indicators
 
-- Science and Technology Act No. 26 of 1997 reviewed by December 2003.
+- i) Science and Technology Act No. 26 of 1997 reviewed by December 2003.
 
 - ii)        The organisation structure of NSTC reviewed by December 2003;
 
@@ -832,7 +853,7 @@ development and application of science and technology and the provision of skill
 
 - iv) Inspection regulations   reviewed annually;
 
-- Standards published annually;
+- v) Standards published annually;
 
 - vi) Follow up and tracer studies conducted by December 2007;
 
@@ -856,7 +877,7 @@ Place by December 2007;
 
 #### 5.9.1    Strategies
 
-- Set up consultative Committees;
+- i) Set up consultative Committees;
 
 - ii) Establish consultative forum; and
 
@@ -864,7 +885,7 @@ Place by December 2007;
 
 #### 5.9.2   Output Indicators
 
-- Industry/Institutional consultative committees established and operational by December 2003;
+- i) Industry/Institutional consultative committees established and operational by December 2003;
 
 - vi) Consultative forum for the Ministry  and  Management  Boards established and operational by 2003; and
 
@@ -882,7 +903,7 @@ Place by December 2007;
 
 #### 5.10.1 Strategies
 
-- Develop  and  maintain  a  comprehensive  data  base  and  retrieval systems; and
+- i) Develop  and  maintain  a  comprehensive  data  base  and  retrieval systems; and
 
 - ii) Set up institutional framework for publication of activities and sector's performance.
 
@@ -900,7 +921,7 @@ Place by December 2007;
 
 #### 5.11.1    Strategies
 
-- Set  up  a  committee  to  spearhead  advocacy  for  a  national agenda  on      Science  and  Technology  and  review  MSTVT Portfolio;
+- i) Set  up  a  committee  to  spearhead  advocacy  for  a  national agenda  on      Science  and  Technology  and  review  MSTVT Portfolio;
 
 - ii) Establish venture capital fund; and
 
@@ -908,7 +929,7 @@ Place by December 2007;
 
 #### 5.11.2   Output Indicators
 
-- National agenda on Science and Technology in place by December 2003;
+- i) National agenda on Science and Technology in place by December 2003;
 
 - ii)   Cabinet Memorandum prepared by June 2003;
 
@@ -932,7 +953,7 @@ Place by December 2007;
 
 #### 5.12.1     Strategies
 
-- Support  initiatives aimed  at  encouraging  the  participation of women in science and technology and training;
+- i) Support  initiatives aimed  at  encouraging  the  participation of women in science and technology and training;
 
 - ii) Establish  a  bursary  Scheme  for  females  and  disadvantaged groups.
 
@@ -940,13 +961,13 @@ Place by December 2007;
 
 - iv) Undertake science and technology career promotion and advocacy campaigns;
 
-- Facilitate trained women entrepreneurs' access to credit; and
+- v) Facilitate trained women entrepreneurs' access to credit; and
 
 - vii)   Facilitate vocational skills training for persons with special needs.
 
 #### 5.12.2    Output Indicators
 
-- More  women and disadvantaged  groups  participating  in  science and technology activities;
+- i) More  women and disadvantaged  groups  participating  in  science and technology activities;
 
 - ii) Increased number of women and disadvantaged groups scientists and technologists;
 
@@ -966,7 +987,7 @@ Place by December 2007;
 
 #### 5.13.1    Strategies
 
-- Review Science and Technology Act and Policy;
+- i) Review Science and Technology Act and Policy;
 
 - ii) Review TEVET Policy and Act;
 
@@ -974,13 +995,13 @@ Place by December 2007;
 
 - iv) Provide a mechanism for the operationalisation of ICT Policy; and
 
-- Bio-technology and bio-safety Policy developed and operationalised by December 2004;.
+- v) Bio-technology and bio-safety Policy developed and operationalised by December 2004;.
 
 - vi)    Develop  and  implement  a  policy  monitoring  mechanism  and evaluate impact.
 
 #### 5.13.2    Output Indicators
 
-- Science and Technology Policy and Act reviewed by June 2003;
+- i) Science and Technology Policy and Act reviewed by June 2003;
 
 - ii) TEVET Policy and Act reviewed by June 2003;
 
@@ -988,7 +1009,7 @@ Place by December 2007;
 
 - iv) ICT Policy developed and operationalised by 2004; and
 
-- Biotechnology and bio safety policy operationalised by 2004.
+- v) Biotechnology and bio safety policy operationalised by 2004.
 
 - 5.13.3  Through  this  objective  and  associated  strategies,  MSTVT  will  ensure that  the  legal  and  policy  framework  for  its  mandate  is  reviewed  and strengthened in line with relevant changes in the environment. It will also ensure that effective mechanisms for implementing the revised legal and policy framework are developed and implemented.
 
@@ -996,13 +1017,13 @@ Place by December 2007;
 
 #### 5.14.1   Strategies
 
-- Develop  and  implement  an  efficient  administrative  mechanism; and
+- i) Develop  and  implement  an  efficient  administrative  mechanism; and
 
 - ii) Expedite the restructuring of the Ministry.
 
 #### 5.14.2 Output Indicators
 
-- Timely and adequate provision of internal funds, materials, supplies, transport and other logistics; and
+- i) Timely and adequate provision of internal funds, materials, supplies, transport and other logistics; and
 
 - ii) New structure operational by January 2003.
 
@@ -1052,11 +1073,11 @@ Place by December 2007;
 
 - 7.2 The successful implementation of this Strategic Plan is, therefore, based on the following general assumptions:-
 
-- MSTVT will own the revised Strategic Plan and actively pursue its implementation;
+- a) MSTVT will own the revised Strategic Plan and actively pursue its implementation;
 
-- MSTVT  will  exhibit  total  organisational  commitment  which  is critical to the successful implementation of the Strategic Plan;
+- b) MSTVT  will  exhibit  total  organisational  commitment  which  is critical to the successful implementation of the Strategic Plan;
 
-- MSTVT  will  endeavour  to  apply  the  limited  resources  to  key priority areas in order to achieve effective and efficient implementation of the Strategic Plan.  This will be necessary given the  fact  that  finances  are  likely  to  continue  to  be  a  constraining factor in the Public Sector;
+- c) MSTVT  will  endeavour  to  apply  the  limited  resources  to  key priority areas in order to achieve effective and efficient implementation of the Strategic Plan.  This will be necessary given the  fact  that  finances  are  likely  to  continue  to  be  a  constraining factor in the Public Sector;
 
 37
 
@@ -1064,15 +1085,15 @@ Place by December 2007;
 
 [[START OF PAGE 38]]
 
-- Development of a new positive organisational work culture, such as  work  planning,  target  setting  and  performance  recording  and monitoring is a must to support the implementation of the Strategic Plan;
+- d) Development of a new positive organisational work culture, such as  work  planning,  target  setting  and  performance  recording  and monitoring is a must to support the implementation of the Strategic Plan;
 
-- MSTVT will be operating on the basis of the new structure.  This is important because it will provide the necessary chain of command and  the  human  resources  needed  to  effectively  implement  the revised Strategic Plan; and
+- e) MSTVT will be operating on the basis of the new structure.  This is important because it will provide the necessary chain of command and  the  human  resources  needed  to  effectively  implement  the revised Strategic Plan; and
 
-- Continued support and co-operation from clients and stakeholders.
+- f) Continued support and co-operation from clients and stakeholders.
 
 ## 8.0 LINKING  THE  STRATEGIC  PLAN  TO  THE  BUDGETING PROCESS
 
-- 8.1 Various  resources  will  be  required  in  order  for  MSTVT  to  effectively implement  the  Strategic  Plan.    These  resources  can  only  be  obtained through  prudent  budgeting.  It  is  imperative,  therefore,  that  the  MSTVT links its Strategic Plan to  the  Government  budgeting  process  by developing  annual  work  plans  on  the  basis  of    the  Strategic  Plan  and linking these to Government annual budgeting system under the Ministry of Finance and National Planning.  This will work to enhance the ActivityBased Budgeting (ABB) that has been adopted by the Government.
+- 8.1 Various  resources  will  be  required  in  order  for  MSTVT  to  effectively implement  the  Strategic  Plan.    These  resources  can  only  be  obtained through  prudent  budgeting.  It  is  imperative,  therefore,  that  the  MSTVT links its Strategic Plan to  the  Government  budgeting  process  by developing  annual  work  plans  on  the  basis  of    the  Strategic  Plan  and linking these to Government annual budgeting system under the Ministry of Finance and National Planning.  This will work to enhance the Activity-Based Budgeting (ABB) that has been adopted by the Government.
 
 - 8.2 The  implementation  of  the  Strategic  Plan  will  need  to  be  constantly monitored and performance reports on the various aspects of the Plan periodically prepared and discussed to inform the next course of action. These  performance  reports  will  provide  evidence  for  value-for-money and  serve  as  inputs  into  decisions  and  processes,  including  the  next round of strategic planning in the year 2008.
 
