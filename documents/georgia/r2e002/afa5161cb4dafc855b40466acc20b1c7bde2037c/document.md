@@ -110,7 +110,7 @@ The terms used in this Law have the following meaning:
 
 - Regulated profession - the activity, the prerequisite of which is obtaining the relevant qualification and/or passing the state certification exam and/or for carrying out of which the relevant examination envisaged by the legislation of Georgia must be passed and/or professional re-training must be completed;
 
-- Education  institution  -  a  general  education  institution  authorized  to  implement  basic  and  secondary vocational education programs and professional training/re-training programs, a college authorized to implement all  types  of  vocational  education  programs,  short-cycle  educational  programs  and  professional  training/retraining programs, and a higher education institution;
+- Education  institution  -  a  general  education  institution  authorized  to  implement  basic  and  secondary vocational education programs and professional training/re-training programs, a college authorized to implement all  types  of  vocational  education  programs,  short-cycle  educational  programs  and  professional  training/re-training programs, and a higher education institution;
 
 - Educational enterprise - any entity/person that has been granted the right to implement vocational education programs/short-cycle education programs together with an educational institution, on the basis of work-based teaching method;
 
@@ -196,7 +196,7 @@ Vocational education is implemented:
 
 - Profession Standard/Standards is the basis for creation of vocation education standard/standards.
 
-- Vocational education standard is the basis for developing vocational education program/programs and shortcycle education program.
+- Vocational education standard is the basis for developing vocational education program/programs and short-cycle education program.
 
 - The rule for developing and approving the profession standard/standards is set by the Government of Georgia.
 
@@ -262,7 +262,7 @@ Vocational education is implemented:
 
 - Upon completion of joint vocational education program/short-cycle education program, the joint diploma is granted.
 
-- The Rule and conditions of develompent and implementation of joint vocational education programs/shortcycle education programs is defined by the Ministry.
+- The Rule and conditions of develompent and implementation of joint vocational education programs/short-cycle education programs is defined by the Ministry.
 
 - Georgian citizen shall be enrolled into the joint vocational education program/short-cycle education program in accordance with the rule defined by the Georgian legislation. The other person shall be enrolled in a joint vocational  educational  program  /  short-cycle  educational  program  according  to  the  rule  established  by  the legislation  of  the  respective  country,  in  one  of  the  educational  institutions  determined  by  the  preliminary agreement of the educational institutions implementing the program.
 
@@ -532,7 +532,7 @@ The merger, reorganization and liquidation of the college is carried out / imple
 
 - The  college  is  authrosied  to  conclude  a  service  contract  with  the  Legal  Entity  of  Public  Law  -  Office  of Resource Officers of Educational Institutions.
 
-## Chapter VI. Authorization and Obtaining the Right of Implementation of Vocational Education Program / ShortCycle Educational Program
+## Chapter VI. Authorization and Obtaining the Right of Implementation of Vocational Education Program / Short-Cycle Educational Program
 
 ### Article 26. Authorization
 
@@ -642,7 +642,7 @@ The merger, reorganization and liquidation of the college is carried out / imple
 
 ### Article 32 Creation of Other Legal Person by the College
 
-- In order to achieve the goals set out by the Charter, the College is entitled to establish an entrepreneurial or non-entrepreneurial  (non-commercial)  legal  entity.  In  case  of  entrepreneurial  or  non-entrepreneurial  (noncommercial) legal entity established by the State / with its participation, the college shall own at least 50% share.
+- In order to achieve the goals set out by the Charter, the College is entitled to establish an entrepreneurial or non-entrepreneurial  (non-commercial)  legal  entity.  In  case  of  entrepreneurial  or  non-entrepreneurial  (non-commercial) legal entity established by the State / with its participation, the college shall own at least 50% share.
 
 - If  the  college  is  established  by  the  state  /with  its  participation,  implementation  of  powers  envisaged  by paragraph 1 of the present Article requires agreement with the founding body / organs of the college.
 
@@ -672,11 +672,11 @@ The merger, reorganization and liquidation of the college is carried out / imple
 
 [[START OF PAGE 15]]
 
-- Upon agreement with the authority carrying out the State control over the college, the College is entitled to transfer the right of use of the property purchased with the income generated from the economic activity to the entrepreneurial or non-entrepreneurial (non-commercial) legal entity established by the college for free or for a certain  fee.  The  property  remaining  after  liquidation  of  the  entrepreneurial  or  non-entrepreneurial  (noncommercial)  legal  entity,  which  was  transferred  in  accordance  with  the  procedure  prescribed  by  the  given Article, shall be returned to the respective college at the end of the liquidation.
+- Upon agreement with the authority carrying out the State control over the college, the College is entitled to transfer the right of use of the property purchased with the income generated from the economic activity to the entrepreneurial or non-entrepreneurial (non-commercial) legal entity established by the college for free or for a certain  fee.  The  property  remaining  after  liquidation  of  the  entrepreneurial  or  non-entrepreneurial  (non-commercial)  legal  entity,  which  was  transferred  in  accordance  with  the  procedure  prescribed  by  the  given Article, shall be returned to the respective college at the end of the liquidation.
 
 - The property left after the liquidation of the college established by the state shall be returned to the State in compliance with the legislation of Georgia.
 
-### Article 37. College Accounting
+### Article 35. College Accounting
 
 College accounting procedure is determined by the College Charter.
 
@@ -710,7 +710,7 @@ College accounting procedure is determined by the College Charter.
 
 [[START OF PAGE 16]]
 
-## Chapter XI. Transitional and Final Provisions
+## Chapter XII. Transitional and Final Provisions
 ### Article 39. Transitional Provisions
 
 1. Vocational education institutions - vocational and public colleges authorized in accordance with the Law of Georgia  on  Vocational  Education  (Tbilisi,  March  28,  2007,  №4528_Is)  shall  be  considered  as  colleges  with authorization in accordance with the present Law for the remaining period of authorization and their vocational education programs shall be considered as authorized college vocational educational programs, whereas:
