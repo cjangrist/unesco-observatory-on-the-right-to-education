@@ -224,7 +224,7 @@ The strategy derives its basic foundation from the educational realities in Leba
 
  Developing documents, systems and mechanisms necessary for drawing a framework for looking after  the public concern in education
 
- Enabling MEHE to undertake the task of drawing an educational
+ Enabling MEHE to undertake the task of drawing an educational policy
 
  Investing social capacities in developing educational policies at the national level
 
